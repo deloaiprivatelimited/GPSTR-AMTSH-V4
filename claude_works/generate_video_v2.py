@@ -881,9 +881,12 @@ def assemble_chapter_video(entries, slides_dir, output_path):
         seg_out = slides_dir / f"seg_{entry['module_id']}_{safe_name}.mp4"
 
         if not seg_out.exists():
+            print(f"  Segment [{len(segments)+1}/{len(entries)}]: {entry['module_id']}_{safe_name} ({duration:.1f}s)")
             ok = ffmpeg_segment(str(slide_path), str(audio_path), str(seg_out), duration)
             if not ok:
                 continue
+        else:
+            print(f"  Cached  [{len(segments)+1}/{len(entries)}]: {safe_name}")
         segments.append(seg_out)
 
     print(f"\n  {len(segments)}/{len(entries)} segments ready")
@@ -893,11 +896,13 @@ def assemble_chapter_video(entries, slides_dir, output_path):
         return
 
     content_video = slides_dir / "chapter_content.mp4"
+    print(f"\n  Concatenating {len(segments)} segments...")
     ok = ffmpeg_concat(segments, content_video)
     if not ok or not content_video.exists():
         print("  Concat failed")
         return
 
+    print(f"  Adding intro/end...")
     ffmpeg_with_intro_end(content_video, output_path)
     if output_path.exists():
         size_mb = output_path.stat().st_size // 1_000_000
