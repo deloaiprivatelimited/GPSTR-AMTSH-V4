@@ -1,0 +1,143 @@
+{
+  "module_id": "class9_math_ch7_concept_2",
+  "module_title": "ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆಯ ನಿರ್ಧಾರಕ ಗುಣಗಳು",
+  "class": "9",
+  "chapter": "7",
+  "chapter_title": "ತ್ರಿಭುಜಗಳು",
+  "domain": "ರೇಖಾಗಣಿತ",
+  "prerequisites": [],
+  "theory": {
+    "concept_summary": "ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆಯನ್ನು ಸಾಧಿಸಲು ಬಾ.ಕೋ.ಬಾ (SAS), ಕೋ.ಬಾ.ಕೋ (ASA), ಕೋ.ಕೋ.ಬಾ (AAS), ಬಾ.ಬಾ.ಬಾ (SSS) ಮತ್ತು ಲಂ.ವಿ.ಬಾ (RHS) ನಿರ್ಧಾರಕ ಗುಣಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಈ ನಿಯಮಗಳು ಕೇವಲ ಮೂರು ಅನುರೂಪ ಭಾಗಗಳನ್ನು ಹೋಲಿಸುವ ಮೂಲಕ ಸರ್ವಸಮತೆಯನ್ನು ನಿರ್ಧರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ. ಬಾ.ಬಾ.ಕೋ (SSA) ಮತ್ತು ಕೋ.ಬಾ.ಬಾ (ASS) ನಿಯಮಗಳು ಸರ್ವಸಮತೆಯನ್ನು ಖಚಿತಪಡಿಸುವುದಿಲ್ಲ.",
+    "definitions": [],
+    "formulas": [],
+    "theorems": [
+      {
+        "theorem_name": "ಬಾ.ಕೋ.ಬಾ (SAS) ಸರ್ವಸಮತೆಯ ಆಧಾರ ಪ್ರತಿಜ್ಞೆ",
+        "statement": "ಒಂದು ತ್ರಿಭುಜದ ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನವು, ಮತ್ತೊಂದು ತ್ರಿಭುಜದ ಅನುರೂಪ ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನಕ್ಕೆ ಸಮವಾಗಿದ್ದರೆ, ಆ ಎರಡು ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾಗಿರುತ್ತವೆ.",
+        "proof_sketch": null,
+        "converse": null,
+        "special_cases": [],
+        "common_error": ""
+      },
+      {
+        "theorem_name": "ಕೋ.ಬಾ.ಕೋ (ASA) ಸರ್ವಸಮತೆಯ ಪ್ರಮೇಯ",
+        "statement": "ಒಂದು ತ್ರಿಭುಜದ ಎರಡು ಕೋನಗಳು ಮತ್ತು ಅವುಗಳನ್ನು ಒಳಗೊಂಡ ಬಾಹು, ಮತ್ತೊಂದು ತ್ರಿಭುಜದ ಅನುರೂಪ ಕೋನಗಳು ಮತ್ತು ಅವುಗಳನ್ನು ಒಳಗೊಂಡ ಬಾಹುವಿಗೆ ಸಮವಾಗಿದ್ದರೆ, ಆ ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾಗಿರುತ್ತವೆ.",
+        "proof_sketch": null,
+        "converse": null,
+        "special_cases": [],
+        "common_error": ""
+      },
+      {
+        "theorem_name": "ಕೋ.ಕೋ.ಬಾ (AAS) ಸರ್ವಸಮತೆಯ ಪ್ರಮೇಯ",
+        "statement": "ಒಂದು ತ್ರಿಭುಜದ ಎರಡು ಕೋನಗಳು ಮತ್ತು ಅವುಗಳನ್ನು ಒಳಗೊಂಡಿರದ ಒಂದು ಬಾಹು, ಮತ್ತೊಂದು ತ್ರಿಭುಜದ ಅನುರೂಪ ಎರಡು ಕೋನಗಳು ಮತ್ತು ಅನುರೂಪ ಬಾಹುವಿಗೆ ಸಮವಾಗಿದ್ದರೆ, ಆ ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾಗಿರುತ್ತವೆ.",
+        "proof_sketch": null,
+        "converse": null,
+        "special_cases": [],
+        "common_error": ""
+      },
+      {
+        "theorem_name": "ಬಾ.ಬಾ.ಬಾ (SSS) ಸರ್ವಸಮತೆಯ ಪ್ರಮೇಯ",
+        "statement": "ಒಂದು ತ್ರಿಭುಜದ ಮೂರು ಬಾಹುಗಳು ಮತ್ತೊಂದು ತ್ರಿಭುಜದ ಮೂರು ಅನುರೂಪ ಬಾಹುಗಳಿಗೆ ಸಮವಾಗಿದ್ದರೆ, ಆ ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾಗಿರುತ್ತವೆ.",
+        "proof_sketch": null,
+        "converse": null,
+        "special_cases": [],
+        "common_error": ""
+      },
+      {
+        "theorem_name": "ಲಂ.ವಿ.ಬಾ (RHS) ಸರ್ವಸಮತೆಯ ಪ್ರಮೇಯ",
+        "statement": "ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳಲ್ಲಿ, ಒಂದರ ವಿಕರ್ಣ ಮತ್ತು ಒಂದು ಬಾಹು, ಮತ್ತೊಂದರ ವಿಕರ್ಣ ಮತ್ತು ಅನುರೂಪ ಬಾಹುವಿಗೆ ಸಮವಾಗಿದ್ದರೆ, ಆ ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾಗಿರುತ್ತವೆ.",
+        "proof_sketch": null,
+        "converse": null,
+        "special_cases": [],
+        "common_error": ""
+      }
+    ],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "id": "class9_math_ch7_example_1_figure",
+        "render_target": "svg_template",
+        "exam_relevance": "2-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "geometric_figure",
+        "concept_latex": "\\triangle AOD \\cong \\triangle BOC",
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [
+          "{\"type\": \"line\", \"points\": [{\"label\": \"A\"}, {\"label\": \"B\"}]}",
+          "{\"type\": \"line\", \"points\": [{\"label\": \"C\"}, {\"label\": \"D\"}]}",
+          "{\"type\": \"intersection\", \"point\": {\"label\": \"O\"}, \"lines\": [\"AB\", \"CD\"]}",
+          "{\"type\": \"label\", \"at\": \"mid(OA)\", \"text\": \"=\"}",
+          "{\"type\": \"label\", \"at\": \"mid(OB)\", \"text\": \"=\"}",
+          "{\"type\": \"label\", \"at\": \"mid(OC)\", \"text\": \"||\"}",
+          "{\"type\": \"label\", \"at\": \"mid(OD)\", \"text\": \"||\"}"
+        ],
+        "purpose": "",
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "class9_math_ch7_example_1",
+      "difficulty": "intermediate",
+      "problem": "ಚಿತ್ರದಲ್ಲಿ, `OA = OB` ಮತ್ತು `OD = OC` ಆದರೆ, (i) `∆AOD ≅ ∆BOC` ಮತ್ತು (ii) `AD || BC` ಎಂದು ಸಾಧಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "`∆AOD` ಮತ್ತು `∆BOC` ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+          "justification": "ಸಾಧಿಸಬೇಕಾದ ತ್ರಿಭುಜಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು."
+        },
+        {
+          "step": 2,
+          "action": "ದತ್ತಾಂಶವನ್ನು ಗುರುತಿಸಿ: `OA = OB` ಮತ್ತು `OD = OC`.",
+          "justification": "ದತ್ತಾಂಶ."
+        },
+        {
+          "step": 3,
+          "action": "`∠AOD = ∠BOC` ಎಂದು ಗುರುತಿಸಿ.",
+          "justification": "ಇವು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಮತ್ತು ಅವು ಯಾವಾಗಲೂ ಸಮವಾಗಿರುತ್ತವೆ."
+        },
+        {
+          "step": 4,
+          "action": "`∆AOD ≅ ∆BOC` ಎಂದು ತೀರ್ಮಾನಿಸಿ.",
+          "justification": "ಬಾ.ಕೋ.ಬಾ (SAS) ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ (OA, ∠AOD, OD ಮತ್ತು OB, ∠BOC, OC ಅನುರೂಪ ಭಾಗಗಳು)."
+        },
+        {
+          "step": 5,
+          "action": "`∠OAD = ∠OBC` ಎಂದು ತೀರ್ಮಾನಿಸಿ.",
+          "justification": "ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು (ಸ.ತ್ರಿ.ಅ.ಭಾ) ಸಮವಾಗಿರುತ್ತವೆ."
+        },
+        {
+          "step": 6,
+          "action": "`AD` ಮತ್ತು `BC` ರೇಖೆಗಳಿಗೆ `AB` ಛೇದಕ ರೇಖೆಯಾಗಿದೆ. `∠OAD` ಮತ್ತು `∠OBC` ಗಳು ಪರ್ಯಾಯ ಕೋನಗಳಾಗಿವೆ.",
+          "justification": "ರೇಖೆಗಳ ಮತ್ತು ಛೇದಕರೇಖೆಯ ಜ್ಯಾಮಿತೀಯ ಸಂಬಂಧ."
+        },
+        {
+          "step": 7,
+          "action": "`AD || BC` ಎಂದು ಸಾಧಿಸಿ.",
+          "justification": "ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು ಸಮವಾಗಿದ್ದರೆ, ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ."
+        }
+      ],
+      "result": "(i) `∆AOD ≅ ∆BOC` ಮತ್ತು (ii) `AD || BC` ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಎರಡು ತ್ರಿಭುಜಗಳಲ್ಲಿ `AB=DE`, `BC=EF`, `∠B=∠E` ಆಗಿದ್ದರೆ, ಯಾವ ನಿಯಮದಂತೆ ಅವು ಸರ್ವಸಮ? (ಬಾ.ಕೋ.ಬಾ).",
+    "two_mark_note": "ಬಾ.ಬಾ.ಬಾ ಸರ್ವಸಮತೆಯ ಪ್ರಮೇಯವನ್ನು ನಿರೂಪಿಸಿ.",
+    "five_mark_note": "ಕೋ.ಬಾ.ಕೋ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಿ.",
+    "common_mistakes": [
+      "SSA ಅಥವಾ ASS ಅನ್ನು ಸರ್ವಸಮತೆಯ ನಿಯಮವೆಂದು ತಪ್ಪಾಗಿ ಬಳಸುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

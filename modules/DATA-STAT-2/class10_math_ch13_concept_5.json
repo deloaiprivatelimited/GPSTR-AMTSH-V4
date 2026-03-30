@@ -1,0 +1,43 @@
+{
+  "module_id": "class10_math_ch13_concept_5",
+  "module_title": "ಕೇಂದ್ರೀಯ ಪ್ರವೃತ್ತಿ ಅಳತೆಗಳ ನಡುವಿನ ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧ (Empirical Relationship between Measures of Central Tendency)",
+  "class": "10",
+  "chapter": "13",
+  "chapter_title": "ಸಂಖ್ಯಾಶಾಸ್ತ್ರ (Statistics)",
+  "domain": "ಅಂಕಿಅಂಶ (Statistics)",
+  "prerequisites": [
+    "class10_math_ch13_concept_1",
+    "class10_math_ch13_concept_2",
+    "class10_math_ch13_concept_3",
+    "class10_math_ch13_concept_4"
+  ],
+  "theory": {
+    "concept_summary": "ಕೇಂದ್ರೀಯ ಪ್ರವೃತ್ತಿಯ ಅಳತೆಗಳಾದ ಸರಾಸರಿ, ಮಧ್ಯಾಂಕ ಮತ್ತು ಬಹುಲಕಗಳ ನಡುವೆ ಒಂದು ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧವಿದೆ, ಇದು ಸಾಧಾರಣವಾಗಿ ಅಸಮಪಾರ್ಶ್ವದ ವಿತರಣೆಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ. ಈ ಸೂತ್ರವು ಯಾವುದಾದರೂ ಎರಡು ಅಳತೆಗಳು ತಿಳಿದಿದ್ದಾಗ ಮೂರನೆಯದನ್ನು ಅಂದಾಜಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ, ಆದರೂ ಇದು ನಿಖರವಾದ ಗಣಿತೀಯ ಪ್ರಮೇಯವಲ್ಲ.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "Empirical Formula relating Mean, Median, and Mode",
+        "latex": "3 \\times \\text{ಮಧ್ಯಾಂಕ} = \\text{ಬಹುಲಕ} + 2 \\times \\text{ಸರಾಸರಿ}",
+        "condition": "ಸಾಧಾರಣ ಅಸಮಪಾರ್ಶ್ವದ ವಿತರಣೆಗಳಿಗೆ (moderately skewed distributions).",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಯಾವುದಾದರೂ ಎರಡು ಕೇಂದ್ರೀಯ ಪ್ರವೃತ್ತಿಯ ಅಳತೆಗಳು ತಿಳಿದಿದ್ದಾಗ ಮೂರನೆಯದನ್ನು ಅಂದಾಜಿಸಲು."
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [],
+  "exam_intelligence": {
+    "gpstr_weightage": "low",
+    "mcq_note": "ಸರಾಸರಿ, ಮಧ್ಯಾಂಕ ಮತ್ತು ಬಹುಲಕಗಳ ನಡುವಿನ ಸರಿಯಾದ ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧ ಯಾವುದು? ಸರಾಸರಿ = 30, ಬಹುಲಕ = 20 ಆದರೆ, ಮಧ್ಯಾಂಕ ಎಷ್ಟು? (ಉತ್ತರ: (20+2*30)/3 = 80/3 ≈ 26.67)",
+    "two_mark_note": "ಎರಡು ಅಳತೆಗಳನ್ನು ನೀಡಿ, ಪ್ರಾಯೋಗಿಕ ಸೂತ್ರ ಬಳಸಿ ಮೂರನೇ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೇಳಬಹುದು.",
+    "five_mark_note": "",
+    "common_mistakes": [
+      "ಸೂತ್ರದಲ್ಲಿನ ಗುಣಕಗಳನ್ನು (coefficients 3, 1, 2) ಅದಲು ಬದಲು ಮಾಡುವುದು. `3 \\times \\text{ಮಧ್ಯಾಂಕ}` ಎಂಬುದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಮುಖ್ಯ."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

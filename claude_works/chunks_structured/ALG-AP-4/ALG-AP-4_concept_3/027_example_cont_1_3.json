@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ಈ ಸಮಾಂತರ ಶ್ರೇಢಿಯ 20ನೇ ಪದ 200 ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಮೊದಲು ಎಸ್ ಎನ್ ಸೂತ್ರವನ್ನು ಬಳಸಿ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ 'ಡಿ' ಅನ್ನು ಕಂಡುಹಿಡಿದು, ನಂತರ ಎ ಎನ್ ಸೂತ್ರವನ್ನು ಬಳಸಿ ಬೇಕಾದ ಪದವನ್ನು ಕಂಡುಹಿಡಿದೆವು. ಇದು ಒಂದು ಸಾಮಾನ್ಯ ಮಾದರಿಯ ಪ್ರಶ್ನೆಯಾಗಿದೆ.",
+  "script_display": "ಹೀಗೆ, ಈ ಸಮಾಂತರ ಶ್ರೇಢಿಯ 20ನೇ ಪದ 200 ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಮೊದಲು $S_n$ ಸೂತ್ರವನ್ನು ಬಳಸಿ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ 'd' ಅನ್ನು ಕಂಡುಹಿಡಿದು, ನಂತರ $a_n$ ಸೂತ್ರವನ್ನು ಬಳಸಿ ಬೇಕಾದ ಪದವನ್ನು ಕಂಡುಹಿಡಿದೆವು. ಇದು ಒಂದು ಸಾಮಾನ್ಯ ಮಾದರಿಯ ಪ್ರಶ್ನೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "20ನೇ ಪದ ($a_{20}$) 200 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-AP-4_example_12",
+  "final_answer": "200",
+  "final_answer_display": "$a_{20} = 200$",
+  "chunk_id": "ALG-AP-4_concept_3_chunk_027"
+}

@@ -1,0 +1,117 @@
+{
+  "module_id": "NS-CUBE-2_concept_5",
+  "module_title": "ಘನಮೂಲ ಮತ್ತು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನ (Cube Root and Prime Factorization Method)",
+  "class": "8",
+  "chapter": "6",
+  "chapter_title": "ಘನಗಳು ಮತ್ತು ಘನಮೂಲಗಳು",
+  "domain": "ಸಂಖ್ಯಾ ಪದ್ಧತಿ (Number System)",
+  "prerequisites": [
+    "NS-CUBE-2_concept_1",
+    "NS-CUBE-2_concept_2",
+    "NS-CUBE-2_concept_3",
+    "NS-CUBE-2_concept_4"
+  ],
+  "theory": {
+    "concept_summary": "ಘನಮೂಲವು ಘನ ಕ್ರಿಯೆಯ ವಿಲೋಮವಾಗಿದೆ. ಒಂದು ಸಂಖ್ಯೆಯ ಘನಮೂಲವೆಂದರೆ, ಯಾವ ಸಂಖ್ಯೆಯನ್ನು ಮೂರು ಬಾರಿ ಗುಣಿಸಿದಾಗ ಮೂಲ ಸಂಖ್ಯೆ ಬರುತ್ತದೆ ಎಂಬುದನ್ನು ಕಂಡುಹಿಡಿಯುವುದು. ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನವು ಪೂರ್ಣ ಘನಗಳ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಒಂದು ವ್ಯವಸ್ಥಿತ ಮಾರ್ಗವಾಗಿದೆ.",
+    "definitions": [
+      {
+        "term": "ಘನಮೂಲ (Cube Root)",
+        "definition": "$y = x^3$ ಆಗಿದ್ದರೆ, $x$ ಅನ್ನು $y$ ನ ಘನಮೂಲ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದನ್ನು $\\sqrt[3]{y} = x$ ಎಂದು ಬರೆಯಲಾಗುತ್ತದೆ. ಚಿಹ್ನೆ: $\\sqrt[3]{}$ ಘನಮೂಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Cube Root of a Product",
+        "latex": "\\sqrt[3]{a \\times b} = \\sqrt[3]{a} \\times \\sqrt[3]{b}",
+        "condition": "a ಮತ್ತು b ಪೂರ್ಣ ಘನಗಳಾಗಿರಬೇಕೆಂದಿಲ್ಲ, ಆದರೆ ಅವುಗಳ ಗುಣಲಬ್ಧ ಪೂರ್ಣ ಘನವಾಗಿರಬಹುದು.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Cube Root from Prime Factors",
+        "latex": "\\sqrt[3]{p_1^3 \\times p_2^3 \\times \\dots \\times p_k^3} = p_1 \\times p_2 \\times \\dots \\times p_k",
+        "condition": "ಸಂಖ್ಯೆಯು ಪೂರ್ಣ ಘನವಾಗಿರಬೇಕು.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      }
+    ],
+    "theorems": [],
+    "properties": [
+      "ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನದಿಂದ ಘನಮೂಲ ಕಂಡುಹಿಡಿಯುವ ಹಂತಗಳು: 1. ದತ್ತ ಸಂಖ್ಯೆಯ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. 2. ಒಂದೇ ರೀತಿಯ ಅಪವರ್ತನಗಳನ್ನು ಮೂರರ ಗುಂಪುಗಳಾಗಿ (ತ್ರಿವಳಿಗಳು) ವಿಂಗಡಿಸಿ. 3. ಪ್ರತಿ ತ್ರಿವಳಿಯಿಂದ ಒಂದು ಅಪವರ್ತನವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. 4. ಹೀಗೆ ತೆಗೆದುಕೊಂಡ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳನ್ನು ಗುಣಿಸಿ. ಈ ಗುಣಲಬ್ಧವೇ ದತ್ತ ಸಂಖ್ಯೆಯ ಘನಮೂಲವಾಗಿರುತ್ತದೆ."
+    ],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "NS-CUBE-2_example_6",
+      "difficulty": "basic",
+      "problem": "8000 ದ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "8000 ದ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ಘನಮೂಲ ಕಂಡುಹಿಡಿಯುವ ವಿಧಾನದ ಮೊದಲ ಹಂತ.",
+          "calculation": "$8000 = 8 \\times 1000 = (2 \\times 2 \\times 2) \\times (10 \\times 10 \\times 10) = 2 \\times 2 \\times 2 \\times (2 \\times 5) \\times (2 \\times 5) \\times (2 \\times 5) = 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 5 \\times 5 \\times 5$"
+        },
+        {
+          "step": 2,
+          "action": "ಅಪವರ್ತನಗಳನ್ನು ತ್ರಿವಳಿಗಳಾಗಿ ಗುಂಪು ಮಾಡುವುದು.",
+          "justification": "ಪ್ರತಿ ತ್ರಿವಳಿಯಿಂದ ಒಂದು ಅಪವರ್ತನವನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು.",
+          "calculation": "$8000 = (2 \\times 2 \\times 2) \\times (2 \\times 2 \\times 2) \\times (5 \\times 5 \\times 5) = 2^3 \\times 2^3 \\times 5^3$"
+        },
+        {
+          "step": 3,
+          "action": "ಪ್ರತಿ ತ್ರಿವಳಿಯಿಂದ ಒಂದು ಅಪವರ್ತನವನ್ನು ತೆಗೆದುಕೊಂಡು ಗುಣಿಸುವುದು.",
+          "justification": "ಘನಮೂಲವನ್ನು ಪಡೆಯಲು.",
+          "calculation": "$\\sqrt[3]{8000} = 2 \\times 2 \\times 5 = 20$"
+        }
+      ],
+      "result": "8000 ದ ಘನಮೂಲ 20.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "NS-CUBE-2_example_7",
+      "difficulty": "intermediate",
+      "problem": "ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನದಿಂದ 13824ರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "13824 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ಘನಮೂಲ ಕಂಡುಹಿಡಿಯುವ ವಿಧಾನದ ಮೊದಲ ಹಂತ.",
+          "calculation": "|\n  2 | 13824\n  2 | 6912\n  2 | 3456\n  2 | 1728\n  2 | 864\n  2 | 432\n  2 | 216\n  2 | 108\n  2 | 54\n  3 | 27\n  3 | 9\n  3 | 3\n    | 1\n$13824 = 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 3 \\times 3 \\times 3$"
+        },
+        {
+          "step": 2,
+          "action": "ಅಪವರ್ತನಗಳನ್ನು ತ್ರಿವಳಿಗಳಾಗಿ ಗುಂಪು ಮಾಡುವುದು.",
+          "justification": "ಪ್ರತಿ ತ್ರಿವಳಿಯಿಂದ ಒಂದು ಅಪವರ್ತನವನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು.",
+          "calculation": "$13824 = (2 \\times 2 \\times 2) \\times (2 \\times 2 \\times 2) \\times (2 \\times 2 \\times 2) \\times (3 \\times 3 \\times 3) = 2^3 \\times 2^3 \\times 2^3 \\times 3^3$"
+        },
+        {
+          "step": 3,
+          "action": "ಪ್ರತಿ ತ್ರಿವಳಿಯಿಂದ ಒಂದು ಅಪವರ್ತನವನ್ನು ತೆಗೆದುಕೊಂಡು ಗುಣಿಸುವುದು.",
+          "justification": "ಘನಮೂಲವನ್ನು ಪಡೆಯಲು.",
+          "calculation": "$\\sqrt[3]{13824} = 2 \\times 2 \\times 2 \\times 3 = 24$"
+        }
+      ],
+      "result": "13824 ರ ಘನಮೂಲ 24.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಸಣ್ಣ ಸಂಖ್ಯೆಗಳ ಘನಮೂಲವನ್ನು ಕೇಳಬಹುದು.",
+    "two_mark_note": "ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನ ಬಳಸಿ ಘನಮೂಲ ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "five_mark_note": "ಇಲ್ಲ.",
+    "common_mistakes": [
+      "ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನೀಕರಣ ಮಾಡುವಾಗ ತಪ್ಪು ಮಾಡುವುದು."
+    ],
+    "boundary_conditions": [
+      "ಈ ವಿಧಾನವು ಸಂಖ್ಯೆಯು ಪೂರ್ಣ ಘನವಾಗಿದ್ದರೆ ಮಾತ್ರ ನೇರವಾಗಿ ಅನ್ವಯವಾಗುತ್ತದೆ."
+    ],
+    "connects_to": []
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "module_id": "class7_math_ch2_concept_3",
+  "module_title": "ಸಮಾನ ಭಿನ್ನರಾಶಿಗಳು ಮತ್ತು ಸರಳ ರೂಪ",
+  "class": "7",
+  "chapter": "2",
+  "chapter_title": "ಭಿನ್ನರಾಶಿಗಳು ಮತ್ತು ದಶಮಾಂಶಗಳು",
+  "domain": "ಸಂಖ್ಯಾಶಾಸ್ತ್ರ",
+  "prerequisites": [
+    "class7_math_ch2_concept_1",
+    "class7_math_ch2_concept_2"
+  ],
+  "theory": {
+    "concept_summary": "ಸಮಾನ ಭಿನ್ನರಾಶಿಗಳು ಒಂದೇ ಮೌಲ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ ಮತ್ತು ಅಂಶ ಹಾಗೂ ಛೇದಗಳನ್ನು ಒಂದೇ ಶೂನ್ಯವಲ್ಲದ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸುವ ಅಥವಾ ಭಾಗಿಸುವ ಮೂಲಕ ಪಡೆಯಬಹುದು. ಒಂದು ಭಿನ್ನರಾಶಿಯ ಅಂಶ ಮತ್ತು ಛೇದಗಳಿಗೆ 1 ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಇಲ್ಲದಿದ್ದಾಗ ಅದು ಸರಳ ರೂಪದಲ್ಲಿರುತ್ತದೆ. ಭಿನ್ನರಾಶಿಗಳನ್ನು ಸರಳ ರೂಪಕ್ಕೆ ತರುವುದು ಗಣಿತೀಯ ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ ಮುಖ್ಯವಾಗಿದೆ.",
+    "definitions": [
+      {
+        "term": "ಸಮಾನ ಭಿನ್ನರಾಶಿಗಳು",
+        "definition": "ಒಂದೇ ಮೌಲ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಬೇರೆ ಬೇರೆ ಭಿನ್ನರಾಶಿಗಳನ್ನು ಸಮಾನ ಭಿನ್ನರಾಶಿಗಳು (Equivalent Fractions) ಎನ್ನುತ್ತಾರೆ."
+      },
+      {
+        "term": "ಭಿನ್ನರಾಶಿಯ ಸರಳ ರೂಪ",
+        "definition": "ಒಂದು ಭಿನ್ನರಾಶಿಯ ಅಂಶ ಮತ್ತು ಛೇದಗಳಿಗೆ 1 ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಇಲ್ಲದಿದ್ದಾಗ, ಆ ಭಿನ್ನರಾಶಿಯು ಅದರ ಸರಳ ಅಥವಾ ಸಂಕ್ಷಿಪ್ತ ರೂಪದಲ್ಲಿದೆ ಎನ್ನಲಾಗುತ್ತದೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Finding Equivalent Fraction (Multiplication)",
+        "latex": "\\frac{a}{b} = \\frac{a \\times k}{b \\times k}",
+        "condition": "k ≠ 0",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "Finding Equivalent Fraction (Division)",
+        "latex": "\\frac{a}{b} = \\frac{a \\div k}{b \\div k}",
+        "condition": "k ≠ 0 ಮತ್ತು k ಯು a ಮತ್ತು b ಗಳ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ.",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      }
+    ],
+    "theorems": [],
+    "properties": [
+      "ಸಮಾನ ಭಿನ್ನರಾಶಿಗಳನ್ನು ಪಡೆಯುವುದು: ಒಂದು ಭಿನ್ನರಾಶಿಯ ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡನ್ನೂ ಒಂದೇ ಶೂನ್ಯವಲ್ಲದ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸಿದಾಗ ಅಥವಾ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಒಂದು ಸಮಾನ ಭಿನ್ನರಾಶಿ ದೊರೆಯುತ್ತದೆ.",
+      "ಭಿನ್ನರಾಶಿಯ ಸರಳ ರೂಪ (Simplest Form): ಒಂದು ಭಿನ್ನರಾಶಿಯ ಅಂಶ ಮತ್ತು ಛೇದಗಳಿಗೆ 1 ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಇಲ್ಲದಿದ್ದಾಗ, ಆ ಭಿನ್ನರಾಶಿಯು ಅದರ ಸರಳ ಅಥವಾ ಸಂಕ್ಷಿಪ್ತ ರೂಪದಲ್ಲಿದೆ ಎನ್ನಲಾಗುತ್ತದೆ. ಇದನ್ನು ಪಡೆಯಲು, ಅಂಶ ಮತ್ತು ಛೇದಗಳನ್ನು ಅವುಗಳ ಮ.ಸಾ.ಅ (GCF) ದಿಂದ ಭಾಗಿಸಬೇಕು."
+    ],
+    "visual_aids": [
+      {
+        "type": "table",
+        "id": "class7_math_ch2_fraction_wall_table",
+        "render_target": "html_table",
+        "exam_relevance": "MCQ | 2-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "",
+        "concept_latex": "",
+        "x_axis_label": "",
+        "y_axis_label": "",
+        "x_range": [],
+        "y_range": [],
+        "key_points": [],
+        "annotations": [],
+        "purpose": "ಸಮಾನ ಭಿನ್ನರಾಶಿಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸಲು (ಉದಾ. 1/2 = 2/4 = 4/8).",
+        "headers": [
+          "ಭಿನ್ನರಾಶಿಗಳು"
+        ],
+        "rows": [
+          [
+            "1"
+          ],
+          [
+            "1/2",
+            "1/2"
+          ],
+          [
+            "1/3",
+            "1/3",
+            "1/3"
+          ],
+          [
+            "1/4",
+            "1/4",
+            "1/4",
+            "1/4"
+          ],
+          [
+            "1/6",
+            "1/6",
+            "1/6",
+            "1/6",
+            "1/6",
+            "1/6"
+          ],
+          [
+            "1/8",
+            "1/8",
+            "1/8",
+            "1/8",
+            "1/8",
+            "1/8",
+            "1/8",
+            "1/8"
+          ]
+        ],
+        "special_cells": [
+          {
+            "row": 0,
+            "col": 0,
+            "note": "colspan: 8, style: background-color: #f0a0a0;"
+          },
+          {
+            "row": 1,
+            "col": 0,
+            "note": "colspan: 4, style: background-color: #a0f0a0;"
+          },
+          {
+            "row": 1,
+            "col": 1,
+            "note": "colspan: 4, style: background-color: #a0a0f0;"
+          },
+          {
+            "row": 3,
+            "col": 0,
+            "note": "colspan: 2, style: background-color: #f0f0a0;"
+          },
+          {
+            "row": 3,
+            "col": 1,
+            "note": "colspan: 2, style: background-color: #f0a0f0;"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "note": "colspan: 2, style: background-color: #a0f0f0;"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "note": "colspan: 2, style: background-color: #cccccc;"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "class7_math_ch2_example_2",
+      "difficulty": "basic",
+      "problem": "ಭಿನ್ನರಾಶಿ `16/20` ನ್ನು ಅದರ ಸರಳ ರೂಪಕ್ಕೆ ತನ್ನಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಅಂಶ (16) ಮತ್ತು ಛೇದ (20) ಗಳ ಮ.ಸಾ.ಅ (GCF) ಕಂಡುಹಿಡಿಯಿರಿ. 16 ರ ಅಪವರ್ತನಗಳು: 1, 2, 4, 8, 16. 20 ರ ಅಪವರ್ತನಗಳು: 1, 2, 4, 5, 10, 20. ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳು: 1, 2, 4. ಮ.ಸಾ.ಅ = 4.",
+          "justification": "ಅಂಶ ಮತ್ತು ಛೇದಗಳನ್ನು ಭಾಗಿಸಬಹುದಾದ ಅತಿದೊಡ್ಡ ಸಾಮಾನ್ಯ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು."
+        },
+        {
+          "step": 2,
+          "action": "ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡನ್ನೂ ಮ.ಸಾ.ಅ (4) ದಿಂದ ಭಾಗಿಸಿ. ಅಂಶ: 16 ÷ 4 = 4. ಛೇದ: 20 ÷ 4 = 5.",
+          "justification": "ಭಿನ್ನರಾಶಿಯನ್ನು ಅದರ ಸಂಕ್ಷಿಪ್ತ ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸಲು."
+        },
+        {
+          "step": 3,
+          "action": "ಹೊಸ ಅಂಶ ಮತ್ತು ಛೇದದಿಂದ ಸರಳ ರೂಪದ ಭಿನ್ನರಾಶಿಯನ್ನು ಬರೆಯಿರಿ. ಸರಳ ರೂಪ = 4/5.",
+          "justification": "ಫಲಿತಾಂಶವನ್ನು ಅಂತಿಮ ರೂಪದಲ್ಲಿ ಬರೆಯುವುದು."
+        }
+      ],
+      "result": "`16/20` ರ ಸರಳ ರೂಪ `4/5` ಆಗಿದೆ.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "`2/3` ಕ್ಕೆ ಸಮಾನವಾದ ಭಿನ್ನರಾಶಿ ಯಾವುದು ಎಂದು ಆಯ್ಕೆಗಳಿಂದ ಗುರುತಿಸಲು ಕೇಳಬಹುದು.",
+    "two_mark_note": "ಒಂದು ಭಿನ್ನರಾಶಿಯನ್ನು ಅದರ ಸರಳ ರೂಪಕ್ಕೆ ತರಲು ಕೇಳಬಹುದು.",
+    "five_mark_note": "",
+    "common_mistakes": [
+      "ಸರಳೀಕರಿಸುವಾಗ, ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಬೇರೆ ಬೇರೆ ಸಂಖ್ಯೆಗಳಿಂದ ಭಾಗಿಸುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

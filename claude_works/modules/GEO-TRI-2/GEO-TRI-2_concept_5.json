@@ -1,0 +1,297 @@
+{
+  "module_id": "GEO-TRI-2_concept_5",
+  "module_title": "ತ್ರಿಭುಜಗಳ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣಗಳು (Criteria for Similarity of Triangles)",
+  "class": "10",
+  "chapter": "6",
+  "chapter_title": "ತ್ರಿಭುಜಗಳು (Triangles)",
+  "domain": "ರೇಖಾಗಣಿತ (Geometry)",
+  "prerequisites": [
+    "GEO-TRI-2_concept_1",
+    "GEO-TRI-2_concept_2",
+    "GEO-TRI-2_concept_3",
+    "GEO-TRI-2_concept_4"
+  ],
+  "theory": {
+    "concept_summary": "ಎರಡು ತ್ರಿಭುಜಗಳು ಸಮರೂಪವೇ ಎಂದು ಪರೀಕ್ಷಿಸಲು ಅವುಗಳ ಎಲ್ಲಾ ಆರು ಅನುರೂಪ ಭಾಗಗಳನ್ನು ಹೋಲಿಸುವ ಅಗತ್ಯವಿಲ್ಲ. ಸರ್ವಸಮತೆಯ ನಿಬಂಧನೆಗಳಂತೆಯೇ, ಸಮರೂಪತೆಗೂ ಕೆಲವು ನಿರ್ಧಾರಕ ಗುಣಗಳಿವೆ. ಇವುಗಳಲ್ಲಿ ಕೋ.ಕೋ.ಕೋ (AAA), ಬಾ.ಬಾ.ಬಾ (SSS), ಮತ್ತು ಬಾ.ಕೋ.ಬಾ (SAS) ಪ್ರಮುಖವಾಗಿವೆ. ಈ ನಿಬಂಧನೆಗಳು ತ್ರಿಭುಜಗಳಿಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತವೆ.",
+    "definitions": [],
+    "formulas": [],
+    "theorems": [
+      {
+        "theorem_name": "ಪ್ರಮೇಯ 6.3: ಕೋನ-ಕೋನ-ಕೋನ (ಕೋ.ಕೋ.ಕೋ) ಸಮರೂಪತೆ (Angle-Angle-Angle (AAA) Similarity)",
+        "statement": "ಎರಡು ತ್ರಿಭುಜಗಳಲ್ಲಿ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾದರೆ, ಅವುಗಳ ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತಗಳು ಸಮವಾಗಿರುತ್ತವೆ (ಸಮಾನುಪಾತದಲ್ಲಿರುತ್ತವೆ). ಆದ್ದರಿಂದ ಆ ತ್ರಿಭುಜಗಳು ಸಮರೂಪವಾಗಿರುತ್ತವೆ.",
+        "proof": "",
+        "converse": "",
+        "special_cases": [
+          "ಕೋ.ಕೋ (AA) ಸಮರೂಪತೆ: ಒಂದು ತ್ರಿಭುಜದ ಎರಡು ಕೋನಗಳು ಮತ್ತೊಂದು ತ್ರಿಭುಜದ ಎರಡು ಅನುರೂಪ ಕೋನಗಳಿಗೆ ಸಮವಾಗಿದ್ದರೆ, ಆ ತ್ರಿಭುಜಗಳು ಸಮರೂಪವಾಗಿರುತ್ತವೆ. (ಏಕೆಂದರೆ ಮೂರನೇ ಕೋನವು ತಾನಾಗಿಯೇ ಸಮವಾಗುತ್ತದೆ)."
+        ],
+        "common_error": ""
+      },
+      {
+        "theorem_name": "ಪ್ರಮೇಯ 6.4: ಬಾಹು-ಬಾಹು-ಬಾಹು (ಬಾ.ಬಾ.ಬಾ) ಸಮರೂಪತೆ (Side-Side-Side (SSS) Similarity)",
+        "statement": "ಎರಡು ತ್ರಿಭುಜಗಳಲ್ಲಿ, ಒಂದು ತ್ರಿಭುಜದ ಮೂರು ಬಾಹುಗಳು ಮತ್ತೊಂದು ತ್ರಿಭುಜದ ಮೂರು ಬಾಹುಗಳೊಡನೆ ಸಮಾನುಪಾತ ಹೊಂದಿದ್ದರೆ, ಅವುಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ ಆ ತ್ರಿಭುಜಗಳು ಸಮರೂಪವಾಗಿರುತ್ತವೆ.",
+        "proof": "",
+        "converse": "",
+        "special_cases": [],
+        "common_error": ""
+      },
+      {
+        "theorem_name": "ಪ್ರಮೇಯ 6.5: ಬಾಹು-ಕೋನ-ಬಾಹು (ಬಾ.ಕೋ.ಬಾ) ಸಮರೂಪತೆ (Side-Angle-Side (SAS) Similarity)",
+        "statement": "ಒಂದು ತ್ರಿಭುಜದ ಒಂದು ಕೋನವು ಮತ್ತೊಂದು ತ್ರಿಭುಜದ ಒಂದು ಕೋನಕ್ಕೆ ಸಮನಾಗಿದ್ದು, ಆ ಕೋನಗಳನ್ನು ಉಂಟು ಮಾಡಿರುವ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿದ್ದರೆ, ಆ ಎರಡು ತ್ರಿಭುಜಗಳು ಸಮರೂಪವಾಗಿರುತ್ತವೆ.",
+        "proof": "",
+        "converse": "",
+        "special_cases": [],
+        "common_error": ""
+      },
+      {
+        "theorem_name": "ಲಂಬಕೋನ-ವಿಕರ್ಣ-ಬಾಹು (ಲಂ.ವಿ.ಬಾ) ಸಮರೂಪತೆ (RHS Similarity)",
+        "statement": "ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳಲ್ಲಿ, ಒಂದರ ವಿಕರ್ಣ ಮತ್ತು ಒಂದು ಬಾಹು ಮತ್ತೊಂದರ ವಿಕರ್ಣ ಮತ್ತು ಅನುರೂಪ ಬಾಹುವಿನೊಂದಿಗೆ ಸಮಾನುಪಾತ ಹೊಂದಿದ್ದರೆ, ಆ ತ್ರಿಭುಜಗಳು ಸಮರೂಪವಾಗಿರುತ್ತವೆ.",
+        "proof": "",
+        "converse": "",
+        "special_cases": [],
+        "common_error": ""
+      }
+    ],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "description": "ದೀಪದ ಕಂಬ AB. ಹುಡುಗಿ CD. ದೀಪದ ಬೆಳಕಿನಿಂದ ಹುಡುಗಿಯ ನೆರಳು DE ನೆಲದ ಮೇಲೆ ಬೀಳುತ್ತಿದೆ.",
+        "labels": "A, B, C, D, E",
+        "mathematical_significance": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ (AA ಸಮರೂಪತೆ) ಅನ್ವಯವನ್ನು ಬಳಸಿ ಪರೋಕ್ಷವಾಗಿ ಎತ್ತರ ಮತ್ತು ದೂರಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದನ್ನು ವಿವರಿಸುತ್ತದೆ. (ಚಿತ್ರ 6.32)",
+        "table_data": ""
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "GEO-TRI-2_example_5",
+      "difficulty": "advanced",
+      "problem": "ಚಿತ್ರ 6.32 ರಲ್ಲಿ, 90cm ಎತ್ತರವಿರುವ ಹುಡುಗಿಯೊಬ್ಬಳು 1.2m/s ಜವದಲ್ಲಿ ದೀಪದ ಕಂಬದ ಬುಡದಿಂದ ದೂರ ನಡೆಯುತ್ತಿದ್ದಾಳೆ. ದೀಪವು ನೆಲದಿಂದ 3.6m ಎತ್ತರದಲ್ಲಿದ್ದರೆ, 4 ಸೆಕೆಂಡ್‌ಗಳ ನಂತರ ಅವಳ ನೆರಳಿನ ಉದ್ದವೇನು?",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶವನ್ನು ಚಿತ್ರದ ರೂಪದಲ್ಲಿ ಗುರುತಿಸುವುದು.",
+          "justification": "AB = ದೀಪದ ಕಂಬ, CD = ಹುಡುಗಿ, DE = ನೆರಳಿನ ಉದ್ದ.",
+          "calculation": "$AB = 3.6$ m\n$CD = 90$ cm $= 0.9$ m\nಹುಡುಗಿ ನಡೆದ ದೂರ, $BD = \\text{ಜವ} \\times \\text{ಸಮಯ} = 1.2 \\text{ m/s} \\times 4 \\text{ s} = 4.8$ m\nನೆರಳಿನ ಉದ್ದ $DE = x$ m ಆಗಿರಲಿ."
+        },
+        {
+          "step": 2,
+          "action": "$\\triangle ABE$ ಮತ್ತು $\\triangle CDE$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+          "justification": "ಈ ಎರಡು ತ್ರಿಭುಜಗಳು ಸಮರೂಪವೇ ಎಂದು ಪರೀಕ್ಷಿಸುವುದು.",
+          "calculation": ""
+        },
+        {
+          "step": 3,
+          "action": "ಕೋ.ಕೋ (AA) ಸಮರೂಪತೆಯನ್ನು ಅನ್ವಯಿಸಿ.",
+          "justification": "",
+          "calculation": "$\\angle B = \\angle D = 90^\\circ$ (ಕಂಬ ಮತ್ತು ಹುಡುಗಿ ನೆಲಕ್ಕೆ ಲಂಬವಾಗಿವೆ)\n$\\angle E = \\angle E$ (ಸಾಮಾನ್ಯ ಕೋನ)\nಆದ್ದರಿಂದ, $\\triangle ABE \\sim \\triangle CDE$ (AA ಸಮರೂಪತೆ)"
+        },
+        {
+          "step": 4,
+          "action": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿರುತ್ತವೆ ಎಂಬ ಗುಣವನ್ನು ಬಳಸಿ.",
+          "justification": "",
+          "calculation": "$\\frac{BE}{DE} = \\frac{AB}{CD}$"
+        },
+        {
+          "step": 5,
+          "action": "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿ ಮತ್ತು x ಗಾಗಿ ಬಿಡಿಸಿ.",
+          "justification": "",
+          "calculation": "$\\frac{BD + DE}{DE} = \\frac{AB}{CD}$\n$\\frac{4.8 + x}{x} = \\frac{3.6}{0.9}$\n$\\frac{4.8 + x}{x} = 4$\n$4.8 + x = 4x$\n$4.8 = 3x$\n$x = \\frac{4.8}{3} = 1.6$ m"
+        }
+      ],
+      "result": "4 ಸೆಕೆಂಡ್‌ಗಳ ನಂತರ ಹುಡುಗಿಯ ನೆರಳಿನ ಉದ್ದ 1.6 ಮೀಟರ್.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "GEO-TRI-2_example_6",
+      "difficulty": "advanced",
+      "problem": "ಚಿತ್ರ 6.33 ರಲ್ಲಿ CM ಮತ್ತು RN ಗಳು ಕ್ರಮವಾಗಿ $\\triangle ABC$ ಮತ್ತು $\\triangle PQR$ ಗಳ ಮಧ್ಯರೇಖೆಗಳು. $\\triangle ABC \\sim \\triangle PQR$ ಆದರೆ, (i) $\\triangle AMC \\sim \\triangle PNR$ (ii) $\\frac{CM}{RN} = \\frac{AB}{PQ}$ (iii) $\\triangle CMB \\sim \\triangle RNQ$ ಎಂದು ಸಾಧಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶದಿಂದ ಸಿಗುವ ಮಾಹಿತಿಗಳನ್ನು ಬರೆಯಿರಿ.",
+          "justification": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ವ್ಯಾಖ್ಯೆ ಮತ್ತು ಮಧ್ಯರೇಖೆಯ ವ್ಯಾಖ್ಯೆಯನ್ನು ಬಳಸುವುದು.",
+          "calculation": "ದತ್ತ: $\\triangle ABC \\sim \\triangle PQR$. ಆದ್ದರಿಂದ, ಅನುರೂಪ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿವೆ ಮತ್ತು ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿವೆ.\n$\\frac{AB}{PQ} = \\frac{BC}{QR} = \\frac{CA}{RP}$ --- (1)\n$\\angle A = \\angle P, \\angle B = \\angle Q, \\angle C = \\angle R$ --- (2)\nದತ್ತ: CM ಮತ್ತು RN ಮಧ್ಯರೇಖೆಗಳು. ಅಂದರೆ M ಎಂಬುದು AB ಯ ಮಧ್ಯಬಿಂದು ಮತ್ತು N ಎಂಬುದು PQ ಯ ಮಧ್ಯಬಿಂದು.\nಆದ್ದರಿಂದ, $AM = MB = \\frac{1}{2}AB$ ಮತ್ತು $PN = NQ = \\frac{1}{2}PQ$."
+        },
+        {
+          "step": 2,
+          "action": "(i) $\\triangle AMC \\sim \\triangle PNR$ ಎಂದು ಸಾಧಿಸಿ.",
+          "justification": "ಬಾ.ಕೋ.ಬಾ (SAS) ಸಮರೂಪತೆಯನ್ನು ಬಳಸುವುದು.",
+          "calculation": "$\\triangle AMC$ ಮತ್ತು $\\triangle PNR$ ಗಳಲ್ಲಿ:\n$\\angle A = \\angle P$ ( (2) ರಿಂದ).\n(1) ರಿಂದ, $\\frac{CA}{RP} = \\frac{AB}{PQ}$.\n$AB = 2AM$ ಮತ್ತು $PQ = 2PN$ ಎಂದು ಬದಲಾಯಿಸಿದಾಗ, $\\frac{CA}{RP} = \\frac{2AM}{2PN} = \\frac{AM}{PN}$.\nಆದ್ದರಿಂದ, $\\triangle AMC$ ಮತ್ತು $\\triangle PNR$ ಗಳಲ್ಲಿ, $\\angle A = \\angle P$ ಮತ್ತು ಅವುಗಳನ್ನು ಒಳಗೊಂಡ ಬಾಹುಗಳು $\\frac{CA}{RP} = \\frac{AM}{PN}$ ಅನುಪಾತದಲ್ಲಿವೆ.\nಬಾ.ಕೋ.ಬಾ (SAS) ಸಮರೂಪತೆಯ ಪ್ರಕಾರ, $\\triangle AMC \\sim \\triangle PNR$."
+        },
+        {
+          "step": 3,
+          "action": "(ii) $\\frac{CM}{RN} = \\frac{AB}{PQ}$ ಎಂದು ಸಾಧಿಸಿ.",
+          "justification": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತ ಸಮ.",
+          "calculation": "ಹಂತ 2 ರಿಂದ, $\\triangle AMC \\sim \\triangle PNR$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.\nಆದ್ದರಿಂದ, ಅವುಗಳ ಅನುರೂಪ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿವೆ: $\\frac{CM}{RN} = \\frac{AM}{PN} = \\frac{CA}{RP}$.\nದತ್ತಾಂಶ (1) ರಿಂದ, $\\frac{CA}{RP} = \\frac{AB}{PQ}$.\nಈ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು ಹೋಲಿಸಿದಾಗ, $\\frac{CM}{RN} = \\frac{AB}{PQ}$."
+        },
+        {
+          "step": 4,
+          "action": "(iii) $\\triangle CMB \\sim \\triangle RNQ$ ಎಂದು ಸಾಧಿಸಿ.",
+          "justification": "ಬಾ.ಕೋ.ಬಾ (SAS) ಸಮರೂಪತೆಯನ್ನು ಬಳಸುವುದು.",
+          "calculation": "$\\triangle CMB$ ಮತ್ತು $\\triangle RNQ$ ಗಳಲ್ಲಿ:\n$\\angle B = \\angle Q$ ( (2) ರಿಂದ).\n(1) ರಿಂದ, $\\frac{BC}{QR} = \\frac{AB}{PQ}$.\nM ಮತ್ತು N ಮಧ್ಯಬಿಂದುಗಳಾದ್ದರಿಂದ, $MB = \\frac{1}{2}AB$ ಮತ್ತು $NQ = \\frac{1}{2}PQ$.\nಆದ್ದರಿಂದ, $\\frac{MB}{NQ} = \\frac{\\frac{1}{2}AB}{\\frac{1}{2}PQ} = \\frac{AB}{PQ}$.\nಆದ್ದರಿಂದ, $\\frac{BC}{QR} = \\frac{MB}{NQ}$.\n$\\triangle CMB$ ಮತ್ತು $\\triangle RNQ$ ಗಳಲ್ಲಿ, $\\angle B = \\angle Q$ ಮತ್ತು ಅವುಗಳನ್ನು ಒಳಗೊಂಡ ಬಾಹುಗಳು $\\frac{BC}{QR} = \\frac{MB}{NQ}$ ಅನುಪಾತದಲ್ಲಿವೆ.\nಬಾ.ಕೋ.ಬಾ (SAS) ಸಮರೂಪತೆಯ ಪ್ರಕಾರ, $\\triangle CMB \\sim \\triangle RNQ$."
+        }
+      ],
+      "result": "(i), (ii), ಮತ್ತು (iii) ಗಳನ್ನು ಸಾಧಿಸಲಾಗಿದೆ.",
+      "common_trap": "ಮಧ್ಯರೇಖೆಯ ವ್ಯಾಖ್ಯೆಯನ್ನು ತಪ್ಪಾಗಿ ಅರ್ಥೈಸಿಕೊಳ್ಳುವುದು. ಮಧ್ಯರೇಖೆಯು ಒಂದು ಶೃಂಗವನ್ನು ಅದರ ಅಭಿಮುಖ ಬಾಹುವಿನ ಮಧ್ಯಬಿಂದುವಿಗೆ ಸೇರಿಸುತ್ತದೆ. ಈ ಲೆಕ್ಕದಲ್ಲಿ, CM ಎಂಬುದು C ಯಿಂದ AB ಯ ಮಧ್ಯಬಿಂದು M ಗೆ ಎಳೆದ ರೇಖೆ ಮತ್ತು RN ಎಂಬುದು R ನಿಂದ PQ ಯ ಮಧ್ಯಬಿಂದು N ಗೆ ಎಳೆದ ರೇಖೆ."
+    },
+    {
+      "example_id": "GEO-TRI-2_example_13",
+      "difficulty": "intermediate",
+      "problem": "ಚಿತ್ರ 6.16 ರಲ್ಲಿ $\\frac{PS}{SQ} = \\frac{PT}{TR}$ ಮತ್ತು $\\angle PST = \\angle PRQ$ ಆದರೆ $\\triangle PQR$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ಸಾಧಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "BPT ಯ ವಿಲೋಮ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸಿ.",
+          "justification": "ಒಂದು ರೇಖೆಯು ತ್ರಿಭುಜದ ಎರಡು ಬಾಹುಗಳನ್ನು ಸಮಾನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸಿದರೆ, ಅದು ಮೂರನೇ ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿರುತ್ತದೆ.",
+          "calculation": "ದತ್ತ: $\\frac{PS}{SQ} = \\frac{PT}{TR}$. ಆದ್ದರಿಂದ, $ST || QR$."
+        },
+        {
+          "step": 2,
+          "action": "ಸಮಾಂತರ ರೇಖೆಗಳ ಗುಣಲಕ್ಷಣವನ್ನು ಬಳಸಿ.",
+          "justification": "ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಒಂದು ಛೇದಕವು ಛೇದಿಸಿದಾಗ ಉಂಟಾಗುವ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ.",
+          "calculation": "$ST || QR$ ಆಗಿರುವುದರಿಂದ, $\\angle PST = \\angle PQR$ (ಅನುರೂಪ ಕೋನಗಳು)."
+        },
+        {
+          "step": 3,
+          "action": "ದತ್ತಾಂಶದೊಂದಿಗೆ ಹೋಲಿಸಿ.",
+          "justification": "ದತ್ತಾಂಶ ಮತ್ತು ಹಂತ 2ರ ಫಲಿತಾಂಶವನ್ನು ಸಮೀಕರಿಸುವುದು.",
+          "calculation": "ಆದರೆ ದತ್ತ: $\\angle PST = \\angle PRQ$. ಆದ್ದರಿಂದ, $\\angle PQR = \\angle PRQ$."
+        },
+        {
+          "step": 4,
+          "action": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಗುಣಲಕ್ಷಣದ ವಿಲೋಮವನ್ನು ಅನ್ವಯಿಸಿ.",
+          "justification": "ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಸಮ ಕೋನಗಳಿಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತವೆ.",
+          "calculation": "$\\triangle PQR$ ನಲ್ಲಿ, $\\angle PQR = \\angle PRQ$ ಆಗಿರುವುದರಿಂದ, $PQ = PR$. ಆದ್ದರಿಂದ, $\\triangle PQR$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜವಾಗಿದೆ."
+        }
+      ],
+      "result": "$\\triangle PQR$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "GEO-TRI-2_example_14",
+      "difficulty": "basic",
+      "problem": "ಚಿತ್ರ 6.29 ರಲ್ಲಿ $PQ || RS$ ಆದರೆ $\\triangle POQ \\sim \\triangle SOR$ ಎಂದು ಸಾಧಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "$\\triangle POQ$ ಮತ್ತು $\\triangle SOR$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+          "justification": "ಸಮರೂಪತೆಯನ್ನು ಸಾಧಿಸಲು ಬೇಕಾದ ತ್ರಿಭುಜಗಳನ್ನು ಆರಿಸಿಕೊಳ್ಳುವುದು.",
+          "calculation": ""
+        },
+        {
+          "step": 2,
+          "action": "ಕೋನಗಳ ಸಮಾನತೆಯನ್ನು ಗುರುತಿಸಿ.",
+          "justification": "ಸಮಾಂತರ ರೇಖೆಗಳ ಗುಣಲಕ್ಷಣಗಳು ಮತ್ತು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸುವುದು.",
+          "calculation": "$PQ || RS$ ಮತ್ತು PR ಛೇದಕವಾಗಿರುವುದರಿಂದ, $\\angle P = \\angle S$ (ಪರ್ಯಾಯ ಕೋನಗಳು).\n$PQ || RS$ ಮತ್ತು QS ಛೇದಕವಾಗಿರುವುದರಿಂದ, $\\angle Q = \\angle R$ (ಪರ್ಯಾಯ ಕೋನಗಳು).\n$\\angle POQ = \\angle SOR$ (ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು)."
+        },
+        {
+          "step": 3,
+          "action": "ಕೋ.ಕೋ.ಕೋ (AAA) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ಅನ್ವಯಿಸಿ.",
+          "justification": "ಎರಡು ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿದ್ದರೆ, ಅವು ಸಮರೂಪವಾಗಿರುತ್ತವೆ. (ಕೋ.ಕೋ (AA) ಗುಣವೂ ಸಾಕಾಗುತ್ತದೆ).",
+          "calculation": "ಆದ್ದರಿಂದ, $\\triangle POQ \\sim \\triangle SOR$."
+        }
+      ],
+      "result": "$\\triangle POQ \\sim \\triangle SOR$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "GEO-TRI-2_example_15",
+      "difficulty": "intermediate",
+      "problem": "ಚಿತ್ರ 6.30 ಯನ್ನು ಗಮನಿಸಿ $\\angle P$ ಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "$\\triangle ABC$ ಮತ್ತು $\\triangle RQP$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+          "justification": "ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಪರೀಕ್ಷಿಸಲು ತ್ರಿಭುಜಗಳನ್ನು ಸರಿಯಾದ ಅನುರೂಪತೆಯಲ್ಲಿ ಆರಿಸಿಕೊಳ್ಳುವುದು ಮುಖ್ಯ.",
+          "calculation": ""
+        },
+        {
+          "step": 2,
+          "action": "ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಲೆಕ್ಕ ಹಾಕಿ.",
+          "justification": "ಬಾ.ಬಾ.ಬಾ (SSS) ಸಮರೂಪತೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು.",
+          "calculation": "$\\frac{AB}{RQ} = \\frac{3.8}{7.6} = \\frac{1}{2}$\n$\\frac{BC}{QP} = \\frac{6}{12} = \\frac{1}{2}$\n$\\frac{CA}{PR} = \\frac{3\\sqrt{3}}{6\\sqrt{3}} = \\frac{1}{2}$"
+        },
+        {
+          "step": 3,
+          "action": "ಬಾ.ಬಾ.ಬಾ (SSS) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ಅನ್ವಯಿಸಿ.",
+          "justification": "ಅನುರೂಪ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿರುವುದರಿಂದ ತ್ರಿಭುಜಗಳು ಸಮರೂಪವಾಗಿರುತ್ತವೆ.",
+          "calculation": "$\\frac{AB}{RQ} = \\frac{BC}{QP} = \\frac{CA}{PR} = \\frac{1}{2}$. ಆದ್ದರಿಂದ, $\\triangle ABC \\sim \\triangle RQP$."
+        },
+        {
+          "step": 4,
+          "action": "ಅನುರೂಪ ಕೋನಗಳನ್ನು ಸಮೀಕರಿಸಿ.",
+          "justification": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ.",
+          "calculation": "$\\angle C = \\angle P$"
+        },
+        {
+          "step": 5,
+          "action": "$\\triangle ABC$ ಯಲ್ಲಿ $\\angle C$ ಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+          "justification": "ತ್ರಿಭುಜದ ಒಳಕೋನಗಳ ಮೊತ್ತ 180°.",
+          "calculation": "$\\angle A = 80^\\circ$, $\\angle B = 60^\\circ$. \n$\\angle C = 180^\\circ - (\\angle A + \\angle B) = 180^\\circ - (80^\\circ + 60^\\circ) = 180^\\circ - 140^\\circ = 40^\\circ$."
+        },
+        {
+          "step": 6,
+          "action": "$\\angle P$ ಯ ಬೆಲೆಯನ್ನು ನಿರ್ಧರಿಸಿ.",
+          "justification": "ಹಂತ 4 ರಿಂದ, $\\angle C = \\angle P$.",
+          "calculation": "$\\angle P = 40^\\circ$."
+        }
+      ],
+      "result": "$\\angle P = 40^\\circ$.",
+      "common_trap": "ತ್ರಿಭುಜಗಳ ಅನುರೂಪತೆಯನ್ನು ತಪ್ಪಾಗಿ ತೆಗೆದುಕೊಳ್ಳುವುದು (ಉದಾ: $\\triangle ABC \\sim \\triangle PQR$ ಎಂದು ಭಾವಿಸುವುದು). ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಸರಿಯಾಗಿ ಹೋಲಿಸಿ ಅನುರೂಪತೆಯನ್ನು ನಿರ್ಧರಿಸಬೇಕು."
+    },
+    {
+      "example_id": "GEO-TRI-2_example_16",
+      "difficulty": "intermediate",
+      "problem": "ಚಿತ್ರ 6.31 ರಲ್ಲಿ $OA.OB = OC.OD$ ಆದರೆ $\\angle A = \\angle C$ ಮತ್ತು $\\angle B = \\angle D$ ಎಂದು ಸಾಧಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತ ಸಮೀಕರಣವನ್ನು ಅನುಪಾತದ ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ.",
+          "justification": "ಬಾ.ಕೋ.ಬಾ ಸಮರೂಪತೆಯನ್ನು ಅನ್ವಯಿಸಲು ಬೇಕಾದ ರೂಪಕ್ಕೆ ತರುವುದು.",
+          "calculation": "ದತ್ತ: $OA.OB = OC.OD$. ಆದ್ದರಿಂದ, $\\frac{OA}{OC} = \\frac{OD}{OB}$ --- (1)."
+        },
+        {
+          "step": 2,
+          "action": "$\\triangle AOD$ ಮತ್ತು $\\triangle COB$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+          "justification": "ಸಮರೂಪತೆಯನ್ನು ಸಾಧಿಸಲು ಬೇಕಾದ ತ್ರಿಭುಜಗಳನ್ನು ಆರಿಸಿಕೊಳ್ಳುವುದು.",
+          "calculation": ""
+        },
+        {
+          "step": 3,
+          "action": "ಬಾ.ಕೋ.ಬಾ (SAS) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ಅನ್ವಯಿಸಿ.",
+          "justification": "ಎರಡು ಬಾಹುಗಳ ಅನುಪಾತ ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನ ಸಮವಾಗಿವೆ.",
+          "calculation": "$\\frac{OA}{OC} = \\frac{OD}{OB}$ (ಹಂತ 1 ರಿಂದ).\n$\\angle AOD = \\angle COB$ (ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು) --- (2).\nಆದ್ದರಿಂದ, $\\triangle AOD \\sim \\triangle COB$."
+        },
+        {
+          "step": 4,
+          "action": "ಅನುರೂಪ ಕೋನಗಳನ್ನು ಸಮೀಕರಿಸಿ.",
+          "justification": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ.",
+          "calculation": "$\\triangle AOD \\sim \\triangle COB$ ಆಗಿರುವುದರಿಂದ, ಅನುರೂಪ ಶೃಂಗಗಳು $A \\leftrightarrow C$, $O \\leftrightarrow O$, $D \\leftrightarrow B$. ಆದ್ದರಿಂದ, $\\angle A = \\angle C$ ಮತ್ತು $\\angle D = \\angle B$."
+        }
+      ],
+      "result": "$\\angle A = \\angle C$ ಮತ್ತು $\\angle B = \\angle D$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+      "common_trap": "ಅನುಪಾತವನ್ನು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು, ಉದಾಹರಣೆಗೆ $\\frac{OA}{OD} = \\frac{OC}{OB}$ ಎಂದು. ಇದು $\\triangle AOD \\sim \\triangle BOC$ ಗೆ ಕಾರಣವಾಗುತ್ತದೆ, ಆಗ $\\angle A = \\angle B$ ಎಂದು ತಪ್ಪಾದ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಎರಡು ತ್ರಿಭುಜಗಳು ಯಾವ ನಿರ್ಧಾರಕ ಗುಣದಿಂದ ಸಮರೂಪವಾಗಿವೆ ಎಂದು ಗುರುತಿಸುವುದು. ಸಮರೂಪತೆ ಬಳಸಿ ಬಾಹುವಿನ ಉದ್ದ ಅಥವಾ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+    "two_mark_note": "ಎರಡು ತ್ರಿಭುಜಗಳು ಸಮರೂಪವೆಂದು ಸಾಧಿಸುವುದು.",
+    "five_mark_note": "ಪ್ರಮೇಯ 6.3, 6.4, ಅಥವಾ 6.5 ನ್ನು ಸಾಧಿಸುವುದು. ಅನ್ವಯಿಕ ಪ್ರಶ್ನೆಗಳು (ಉದಾ. ಉದಾಹರಣೆ 5).",
+    "common_mistakes": [
+      "SAS ಸಮರೂಪತೆಯಲ್ಲಿ, ಕೋನವು ಅನುಪಾತದಲ್ಲಿರುವ ಬಾಹುಗಳ ನಡುವೆ ಇರಬೇಕು.",
+      "ಅನುರೂಪ ಶೃಂಗಗಳನ್ನು ತಪ್ಪಾದ ಕ್ರಮದಲ್ಲಿ ಬರೆಯುವುದು ($\\triangle ABC \\sim \\triangle QRP$ ಬದಲು $\\triangle ABC \\sim \\triangle PQR$)."
+    ],
+    "boundary_conditions": [
+      "ತ್ರಿಭುಜಗಳ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣಗಳು ರೇಖಾಗಣಿತದ ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿ ಸಾಧನಗಳಾಗಿವೆ.",
+      "ತ್ರಿಭುಜಗಳಿಗೆ ಮಾತ್ರ, ಸಮರೂಪತೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು ಕೇವಲ ಕೋನಗಳು (AA) ಅಥವಾ ಕೇವಲ ಬಾಹುಗಳ ಅನುಪಾತ (SSS) ಸಾಕಾಗುತ್ತದೆ. ಇದು ಇತರ ಬಹುಭುಜಾಕೃತಿಗಳಿಗಿಂತ ಭಿನ್ನ.",
+      "ಎತ್ತರ, ದೂರಗಳನ್ನು ನೇರವಾಗಿ ಅಳೆಯಲು ಸಾಧ್ಯವಾಗದಿದ್ದಾಗ (ಉದಾ: ಪರ್ವತದ ಎತ್ತರ, ನದಿಯ ಅಗಲ), ಸಮರೂಪತೆಯ ತತ್ವಗಳನ್ನು ಬಳಸಿ ಪರೋಕ್ಷವಾಗಿ ಅಳೆಯಬಹುದು."
+    ],
+    "connects_to": [
+      "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಪ್ರಮೇಯ",
+      "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+      "ತ್ರಿಕೋನಮಿತಿ"
+    ]
+  }
+}

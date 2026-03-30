@@ -1,0 +1,114 @@
+{
+  "module_id": "class10_math_ch6_concept_3",
+  "module_title": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯ (ಥೇಲ್ಸ್ ಪ್ರಮೇಯ)",
+  "class": "10",
+  "chapter": "6",
+  "chapter_title": "ತ್ರಿಭುಜಗಳು",
+  "domain": "ರೇಖಾಗಣಿತ",
+  "prerequisites": [
+    "class10_math_ch6_concept_1",
+    "class10_math_ch6_concept_2"
+  ],
+  "theory": {
+    "concept_summary": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯ (BPT) ಹೇಳುವಂತೆ, ತ್ರಿಭುಜದ ಒಂದು ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿ ಎಳೆದ ರೇಖೆಯು ಉಳಿದೆರಡು ಬಾಹುಗಳನ್ನು ಸಮಾನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ. ಇದರ ವಿಲೋಮ ಪ್ರಮೇಯವು, ಒಂದು ರೇಖೆಯು ತ್ರಿಭುಜದ ಎರಡು ಬಾಹುಗಳನ್ನು ಸಮಾನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸಿದರೆ, ಆ ರೇಖೆಯು ಮೂರನೇ ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿರುತ್ತದೆ ಎಂದು ಹೇಳುತ್ತದೆ. ಈ ಪ್ರಮೇಯಗಳು ರೇಖಾಗಣಿತದಲ್ಲಿ ಪ್ರಮುಖವಾಗಿವೆ.",
+    "definitions": [],
+    "formulas": [],
+    "theorems": [
+      {
+        "theorem_name": "ಪ್ರಮೇಯ 6.1 (ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯ - BPT)",
+        "statement": "ತ್ರಿಭುಜದ ಎರಡು ಬಾಹುಗಳನ್ನು ಎರಡು ವಿಭಿನ್ನ ಬಿಂದುಗಳಲ್ಲಿ ಛೇದಿಸುವಂತೆ ಒಂದು ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿ ಎಳೆದ ಸರಳರೇಖೆಯು ಉಳಿದೆರಡು ಬಾಹುಗಳನ್ನು ಸಮಾನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ. `∆ABC` ಯಲ್ಲಿ, `DE || BC` ಆಗಿದ್ದರೆ, `AD/DB = AE/EC`.",
+        "proof_sketch": "`BE` ಮತ್ತು `CD` ಯನ್ನು ಸೇರಿಸಿ. `DM ⊥ AC` ಮತ್ತು `EN ⊥ AB` ಎಳೆಯಿರಿ. 1. `ವಿಸ್ತೀರ್ಣ(∆ADE) / ವಿಸ್ತೀರ್ಣ(∆BDE) = (1/2 * AD * EN) / (1/2 * DB * EN) = AD/DB`. 2. `ವಿಸ್ತೀರ್ಣ(∆ADE) / ವಿಸ್ತೀರ್ಣ(∆CDE) = (1/2 * AE * DM) / (1/2 * EC * DM) = AE/EC`. 3. `∆BDE` ಮತ್ತು `∆CDE` ಗಳು ಒಂದೇ ಪಾದ `DE` ಮೇಲೆ ಮತ್ತು `DE || BC` ಸಮಾಂತರ ರೇಖೆಗಳ ನಡುವೆ ಇವೆ. ಆದ್ದರಿಂದ, `ವಿಸ್ತೀರ್ಣ(∆BDE) = ವಿಸ್ತೀರ್ಣ(∆CDE)`. 4. (1), (2) ಮತ್ತು (3) ರಿಂದ, `AD/DB = AE/EC` ಎಂದು ಸಾಧಿಸಬಹುದು.",
+        "converse": null,
+        "special_cases": [],
+        "common_error": ""
+      },
+      {
+        "theorem_name": "ಪ್ರಮೇಯ 6.2 (BPTಯ ವಿಲೋಮ ಪ್ರಮೇಯ)",
+        "statement": "ತ್ರಿಭುಜದ ಯಾವುದಾದರೂ ಎರಡು ಬಾಹುಗಳನ್ನು ಸಮಾನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುವ ರೇಖೆಯು ಅದರ ಮೂರನೇ ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿರುತ್ತದೆ. `∆ABC` ಯಲ್ಲಿ, `AD/DB = AE/EC` ಆಗಿದ್ದರೆ, `DE || BC`.",
+        "proof_sketch": null,
+        "converse": null,
+        "special_cases": [],
+        "common_error": ""
+      }
+    ],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "id": "class10_math_ch6_bpt_proof_figure",
+        "render_target": "svg_template",
+        "exam_relevance": "5-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "geometric_figure",
+        "concept_latex": "\\frac{AD}{DB} = \\frac{AE}{EC}",
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [
+          "{\"type\": \"triangle\", \"points\": [{\"label\": \"A\"}, {\"label\": \"B\"}, {\"label\": \"C\"}]}",
+          "{\"type\": \"line\", \"points\": [{\"label\": \"D\", \"on\": \"AB\"}, {\"label\": \"E\", \"on\": \"AC\"}]}",
+          "{\"type\": \"label\", \"at\": \"mid(DE)\", \"text\": \"||\"}",
+          "{\"type\": \"label\", \"at\": \"mid(BC)\", \"text\": \"||\"}"
+        ],
+        "purpose": "",
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "class10_math_ch6_example_2",
+      "difficulty": "intermediate",
+      "problem": "ತ್ರಾಪಿಜ್ಯ `ABCD` ಯಲ್ಲಿ `AB || DC`. ಸಮಾಂತರವಲ್ಲದ ಬಾಹುಗಳಾದ `AD` ಮತ್ತು `BC` ಗಳ ಮೇಲೆ `E` ಮತ್ತು `F` ಬಿಂದುಗಳು `EF || AB` ಆಗುವಂತಿವೆ. ಹಾಗಾದರೆ `AE/ED = BF/FC` ಎಂದು ಸಾಧಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "`A` ಮತ್ತು `C` ಯನ್ನು ಸೇರಿಸಿ. `AC` ರೇಖೆಯು `EF` ಅನ್ನು `G` ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸಲಿ.",
+          "justification": "ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸಲು ತ್ರಿಭುಜಗಳನ್ನು ರಚಿಸುವುದು."
+        },
+        {
+          "step": 2,
+          "action": "`∆ADC` ಯನ್ನು ಪರಿಗಣಿಸಿ. `EG || DC` (ಏಕೆಂದರೆ `EF || AB` ಮತ್ತು `AB || DC`, ಆದ್ದರಿಂದ `EF || DC`).",
+          "justification": "BPT ಅನ್ವಯಿಸಲು ಸಿದ್ಧತೆ."
+        },
+        {
+          "step": 3,
+          "action": "BPT ಪ್ರಕಾರ, `AE/ED = AG/GC`  ... (1)",
+          "justification": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯದ ಅನ್ವಯ."
+        },
+        {
+          "step": 4,
+          "action": "`∆CAB` ಯನ್ನು ಪರಿಗಣಿಸಿ. `GF || AB`.",
+          "justification": "BPT ಅನ್ವಯಿಸಲು ಎರಡನೇ ತ್ರಿಭುಜದ ಸಿದ್ಧತೆ."
+        },
+        {
+          "step": 5,
+          "action": "BPT ಪ್ರಕಾರ, `CG/GA = CF/FB`. ಇದರ ವ್ಯುತ್ಕ್ರಮ `AG/GC = BF/FC` ... (2)",
+          "justification": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯ ಮತ್ತು ವ್ಯುತ್ಕ್ರಮದ ಅನ್ವಯ."
+        },
+        {
+          "step": 6,
+          "action": "ಸಮೀಕರಣ (1) ಮತ್ತು (2) ರಿಂದ, `AE/ED = BF/FC`.",
+          "justification": "ಎರಡೂ ಸಮೀಕರಣಗಳ ಬಲಭಾಗಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, ಎಡಭಾಗಗಳೂ ಸಮವಾಗಿರುತ್ತವೆ."
+        }
+      ],
+      "result": "`AE/ED = BF/FC` ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "`∆ABC` ಯಲ್ಲಿ `DE || BC`, `AD=2`, `DB=3`, `AE=4` ಆದರೆ `EC` ಎಷ್ಟು? (`2/3 = 4/EC => EC=6`).",
+    "two_mark_note": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯವನ್ನು ನಿರೂಪಿಸಿ.",
+    "five_mark_note": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಿ.",
+    "common_mistakes": [
+      "ಅನುಪಾತವನ್ನು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು, ಉದಾಹರಣೆಗೆ `AD/AB = AE/EC` ಎಂದು ಬರೆಯುವುದು. (ಸರಿಯಾದ ರೂಪ: `AD/AB = AE/AC`)."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

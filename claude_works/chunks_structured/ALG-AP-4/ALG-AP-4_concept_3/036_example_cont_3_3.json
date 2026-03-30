@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಸೂತ್ರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲ ಒಂದು ಸಾವಿರ ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತ ಐದು ಲಕ್ಷದ ಐನೂರು. ಮತ್ತು, ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತದ ಸೂತ್ರ S n equals n times n plus one, whole divided by two. ಈ ಎರಡನೇ ಫಲಿತಾಂಶ, ಅಂದರೆ ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತದ ಸೂತ್ರ, ಬಹಳ ಮುಖ್ಯವಾದುದು. ಇದನ್ನು ನೇರವಾಗಿ ಬಳಸಿಕೊಂಡು ಅನೇಕ ಸಮಸ್ಯೆಗಳನ್ನು ವೇಗವಾಗಿ ಬಿಡಿಸಬಹುದು. ಆದ್ದರಿಂದ ಈ ಸೂತ್ರವನ್ನು ಚೆನ್ನಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲ 1000 ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತ 500500. ಮತ್ತು, ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತದ ಸೂತ್ರ $S_n = \\frac{n(n+1)}{2}$. ಈ ಎರಡನೇ ಫಲಿತಾಂಶ, ಅಂದರೆ ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತದ ಸೂತ್ರ, ಬಹಳ ಮುಖ್ಯವಾದುದು. ಇದನ್ನು ನೇರವಾಗಿ ಬಳಸಿಕೊಂಡು ಅನೇಕ ಸಮಸ್ಯೆಗಳನ್ನು ವೇಗವಾಗಿ ಬಿಡಿಸಬಹುದು. ಆದ್ದರಿಂದ ಈ ಸೂತ್ರವನ್ನು ಚೆನ್ನಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ.",
+  "display_bullets": [
+    "ಮೊದಲ 1000 ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತ: 500500",
+    "ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತ: $S_n = \\frac{n(n+1)}{2}$",
+    "ಪ್ರಮುಖ ಫಲಿತಾಂಶ: ಈ ಸೂತ್ರವನ್ನು ನೆನಪಿಡಿ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "S_n = \\frac{n(n+1)}{2}",
+    "placeholder_note": "Display the formula for the sum of first n positive integers."
+  },
+  "source_example_id": "ALG-AP-4_example_14",
+  "steps": [],
+  "final_answer": "(i) 500500, (ii) S_n = n(n+1)/2",
+  "final_answer_display": "(i) $500500$, (ii) $S_n = \\frac{n(n+1)}{2}$",
+  "chunk_id": "ALG-AP-4_concept_3_chunk_036"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "intro",
+  "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು (Prerequisites)",
+  "script": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನಿಮಗೆ ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಮೂಲಭೂತ ಜ್ಞಾನ ಇರಬೇಕು. ನಿರ್ದಿಷ್ಟವಾಗಿ, ಸಮಾಂತರ ಶ್ರೇಢಿ ಎಂದರೇನು ಮತ್ತು ಅದರ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ನಿಮಗೆ ತಿಳಿದಿರಬೇಕು. ಈ ವಿಷಯಗಳು ನಿಮಗೆ ನೆನಪಿಲ್ಲದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಹಿಂದಿನ ವೀಡಿಯೊವನ್ನು ಒಮ್ಮೆ ನೋಡಿ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನಿಮಗೆ ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಮೂಲಭೂತ ಜ್ಞಾನ ಇರಬೇಕು. ನಿರ್ದಿಷ್ಟವಾಗಿ, ಈ ಕೆಳಗಿನವುಗಳು ನಿಮಗೆ ತಿಳಿದಿರಬೇಕು:",
+  "display_bullets": [
+    "ಸಮಾಂತರ ಶ್ರೇಢಿ (AP) ಎಂದರೇನು?",
+    "ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ($d$) ಅನ್ನು ಕಂಡುಹಿಡಿಯುವುದು"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard_bullets",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "prerequisites_display": [
+    "ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಪರಿಚಯ"
+  ],
+  "chunk_id": "ALG-AP-4_concept_4_chunk_002"
+}

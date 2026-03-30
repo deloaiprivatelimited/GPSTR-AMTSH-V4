@@ -1,0 +1,60 @@
+{
+  "module_id": "class7_math_ch10_concept_2",
+  "module_title": "ಬೀಜೋಕ್ತಿಯ ಪದಗಳು ಮತ್ತು ಅಪವರ್ತನಗಳು (Terms and Factors of an Algebraic Expression)",
+  "class": "7",
+  "chapter": "10",
+  "chapter_title": "ಬೀಜೋಕ್ತಿಗಳು (Algebraic Expressions)",
+  "domain": "ಬೀಜಗಣಿತ",
+  "prerequisites": [
+    "class7_math_ch10_concept_1"
+  ],
+  "theory": {
+    "concept_summary": "ಬೀಜೋಕ್ತಿಯನ್ನು ರಚಿಸುವ ಭಾಗಗಳನ್ನು 'ಪದಗಳು' ಎನ್ನುತ್ತೇವೆ, ಇವು ಧನಾತ್ಮಕ ಅಥವಾ ಋಣಾತ್ಮಕವಾಗಿರಬಹುದು. ಪ್ರತಿಯೊಂದು ಪದವು ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಚರಾಕ್ಷರಗಳ ಗುಣಲಬ್ಧವಾಗಿದ್ದು, ಇವುಗಳನ್ನು ಆ ಪದದ 'ಅಪವರ್ತನಗಳು' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಬೀಜೋಕ್ತಿಯನ್ನು ಪದಗಳಾಗಿ ಮತ್ತು ಅಪವರ್ತನಗಳಾಗಿ ವಿಭಜಿಸುವುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು, ಸಹಗುಣಕಗಳನ್ನು ಗುರುತಿಸಲು ಮತ್ತು ಬೀಜೋಕ್ತಿಗಳನ್ನು ಸುಲಭೀಕರಿಸಲು ಅತ್ಯಗತ್ಯ.",
+    "definitions": [
+      {
+        "term": "ಪದ (Term)",
+        "definition": "ಬೀಜೋಕ್ತಿಯನ್ನು ರಚಿಸಲು ಕೂಡಿಸಲಾದ ಭಾಗಗಳನ್ನು 'ಪದಗಳು' ಎನ್ನುತ್ತೇವೆ. ಪದಗಳು ಧನಾತ್ಮಕ ಅಥವಾ ಋಣಾತ್ಮಕವಾಗಿರಬಹುದು. ಋಣಾತ್ಮಕ ಚಿಹ್ನೆಯು ಪದದ ಭಾಗವಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆ: `4x² - 3xy` ಬೀಜೋಕ್ತಿಯಲ್ಲಿ, `4x²` ಮತ್ತು `-3xy` ಎಂಬ ಎರಡು ಪದಗಳಿವೆ."
+      },
+      {
+        "term": "ಅಪವರ್ತನ (Factor)",
+        "definition": "ಪ್ರತಿಯೊಂದು ಪದವು ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಚರಾಕ್ಷರಗಳ ಗುಣಲಬ್ಧವಾಗಿರುತ್ತದೆ. ಈ ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಚರಾಕ್ಷರಗಳನ್ನು ಆ ಪದದ 'ಅಪವರ್ತನಗಳು' ಎನ್ನುತ್ತೇವೆ. ಉದಾಹರಣೆ: `-3xy` ಎಂಬ ಪದದ ಅಪವರ್ತನಗಳು `-3`, `x` ಮತ್ತು `y`. ಉದಾಹರಣೆ: `4x²` ಎಂಬ ಪದದ ಅಪವರ್ತನಗಳು `4`, `x` ಮತ್ತು `x`."
+      }
+    ],
+    "formulas": [],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "id": "class7_math_ch10_expression_tree_flowchart",
+        "render_target": "svg_template",
+        "exam_relevance": "2-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "flowchart",
+        "concept_latex": "4x^2 - 3xy",
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [],
+        "purpose": "ಬೀಜೋಕ್ತಿಯನ್ನು ಪದಗಳಾಗಿ ಮತ್ತು ಪದಗಳನ್ನು ಅಪವರ್ತನಗಳಾಗಿ ವಿಭಜಿಸುವ ಕ್ರಮಾನುಗತ ರಚನೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ಈ ವೃಕ್ಷ ಚಿತ್ರವು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದು ಪಠ್ಯ ವಿವರಣೆಗಿಂತ ಸ್ಪಷ್ಟವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ನೀಡುತ್ತದೆ.",
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "`5xy²` ಪದದ ಅಪವರ್ತನಗಳು ಯಾವುವು? (Options: 5,x,y,y; 5,x,y; 5x,y²; etc.)",
+    "two_mark_note": "`7a²b - 5ab + 2` ಬೀಜೋಕ್ತಿಗೆ ವೃಕ್ಷ ಚಿತ್ರವನ್ನು ರಚಿಸಿ ಪದ ಮತ್ತು ಅಪವರ್ತನಗಳನ್ನು ಗುರುತಿಸಿ.",
+    "five_mark_note": "",
+    "common_mistakes": [
+      "`-5xy` ಯಂತಹ ಪದದಲ್ಲಿ, ಋಣಾತ್ಮಕ ಚಿಹ್ನೆಯನ್ನು (`-`) ಪದದ ಭಾಗವಾಗಿ (`-5xy`) ಪರಿಗಣಿಸಬೇಕು, ಅದನ್ನು ಪ್ರತ್ಯೇಕ ಕ್ರಿಯೆಯಾಗಿ ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳಬಾರದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

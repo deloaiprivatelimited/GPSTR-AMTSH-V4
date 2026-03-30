@@ -1,0 +1,56 @@
+{
+  "module_id": "ALG-AP-4_concept_4",
+  "module_title": "ಸಮಾಂತರ ಮಾಧ್ಯ (Arithmetic Mean)",
+  "class": "10",
+  "chapter": "5",
+  "chapter_title": "ಸಮಾಂತರ ಶ್ರೇಢಿಗಳು (Arithmetic Progressions)",
+  "domain": "ಬೀಜಗಣಿತ (Algebra)",
+  "prerequisites": [
+    "ALG-AP-4_concept_1"
+  ],
+  "theory": {
+    "concept_summary": "ಎರಡು ಸಂಖ್ಯೆಗಳಾದ a ಮತ್ತು c ನಡುವಿನ ಸಮಾಂತರ ಮಾಧ್ಯವು ಆ ಮೂರು ಸಂಖ್ಯೆಗಳು (a, b, c) ಒಂದು ಸಮಾಂತರ ಶ್ರೇಢಿಯನ್ನು ಉಂಟುಮಾಡುವಂತಹ b ಯ ಬೆಲೆಯಾಗಿದೆ. ಇದನ್ನು ಸರಳವಾಗಿ ಆ ಎರಡು ಸಂಖ್ಯೆಗಳ ಸರಾಸರಿ ಎಂದು ಹೇಳಬಹುದು.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "ಸಮಾಂತರ ಮಾಧ್ಯ (Arithmetic Mean)",
+        "latex": "b = \\frac{a+c}{2}",
+        "condition": "a, b, c ಗಳು ಸಮಾಂತರ ಶ್ರೇಢಿಯಲ್ಲಿದ್ದರೆ.",
+        "exception": "ಇಲ್ಲ",
+        "derived_from": "",
+        "used_in": "ಎರಡು ಸಂಖ್ಯೆಗಳ ನಡುವಿನ ಸಮಾಂತರ ಮಾಧ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಅಥವಾ ಶ್ರೇಢಿಯಲ್ಲಿ ಬಿಟ್ಟುಹೋದ ಪದವನ್ನು ಕಂಡುಹಿಡಿಯಲು.",
+        "derivation": [
+          {
+            "step": 1,
+            "action": "ಸಮಾಂತರ ಶ್ರೇಢಿಯ ವ್ಯಾಖ್ಯೆಯನ್ನು ಬಳಸುವುದು.",
+            "justification": "a, b, c ಗಳು ಸಮಾಂತರ ಶ್ರೇಢಿಯಲ್ಲಿದ್ದರೆ, ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ.",
+            "calculation": "$b - a = c - b$"
+          },
+          {
+            "step": 2,
+            "action": "b ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು.",
+            "justification": "b ಪದಗಳನ್ನು ಒಂದು ಕಡೆ ಮತ್ತು ಇತರ ಪದಗಳನ್ನು ಇನ್ನೊಂದು ಕಡೆಗೆ ವರ್ಗಾಯಿಸುವುದು.",
+            "calculation": "$b + b = a + c$\n$2b = a + c$"
+          }
+        ]
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು ನೀಡಿ ಅವುಗಳ ಸಮಾಂತರ ಮಾಧ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೇಳಬಹುದು.",
+    "two_mark_note": "$x, 8, 12$ ಸಮಾಂತರ ಶ್ರೇಢಿಯಲ್ಲಿದ್ದರೆ $x$ ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ ಎಂಬಂತಹ ಪ್ರಶ್ನೆಗಳು.",
+    "five_mark_note": "ಇಲ್ಲ.",
+    "common_mistakes": [
+      "ಸೂತ್ರವನ್ನು ತಪ್ಪಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": [
+      "ಸಂಖ್ಯಾಶಾಸ್ತ್ರದಲ್ಲಿ (Statistics) ಸರಾಸರಿಯ ಪರಿಕಲ್ಪನೆಗೆ ಇದು ನೇರವಾಗಿ ಸಂಬಂಧಿಸಿದೆ."
+    ]
+  }
+}

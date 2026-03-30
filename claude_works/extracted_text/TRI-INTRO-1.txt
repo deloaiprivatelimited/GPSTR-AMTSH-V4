@@ -1,0 +1,503 @@
+# ತ್ರಿಕೋನಮಿತಿಯ ಪ್ರಸ್ತಾವನೆ 8
+
+There is perhaps nothing which so occupies the middle position of mathematics as trigonometry
+- J.F. Herbart (1890)
+
+ತ್ರಿಕೋನಮಿತಿಯು ಗಣಿತಶಾಸ್ತ್ರದ ಮಧ್ಯದ ಸ್ಥಾನವನ್ನು ಆಕ್ರಮಿಸಿಕೊಳ್ಳುವಂತೆ ಬಹುಶಃ ಬೇರಾವ ವಿಷಯವೂ ಇಲ್ಲ.
+- ಜೆ.ಎಫ್. ಹರ್ಬಾರ್ಟ್ (1890)
+
+## 8.1 ಪೀಠಿಕೆ
+
+ನಿಮ್ಮ ಹಿಂದಿನ ತರಗತಿಗಳಲ್ಲಿ, ಈಗಾಗಲೇ ತ್ರಿಭುಜಗಳ ಬಗ್ಗೆ ಮತ್ತು ನಿರ್ದಿಷ್ಟವಾಗಿ ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳ ಬಗ್ಗೆ ಅಧ್ಯಯನ ಮಾಡಿದ್ದೀರಿ. ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳು ಉಂಟಾಗುವಂತೆ ಕಲ್ಪಿಸಿಕೊಳ್ಳಬಹುದಾದ ನಮ್ಮ ಪರಿಸರದಲ್ಲಿನ ಕೆಲವು ಸಂದರ್ಭಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ಉದಾಹರಣೆಗೆ:
+
+1.  ಒಂದು ಶಾಲೆಯ ವಿದ್ಯಾರ್ಥಿಗಳು ಕುತುಬ್ ಮಿನಾರ್ ಅನ್ನು ವೀಕ್ಷಿಸಲು ಹೋಗಿದ್ದಾರೆ ಎಂದು ಊಹಿಸಿಕೊಳ್ಳಿ. ಇದೀಗ ವಿದ್ಯಾರ್ಥಿಯು ಮಿನಾರ್‌ನ ತುದಿಯನ್ನು ನೋಡುತ್ತಿದ್ದರೆ, ಚಿತ್ರ 8.1 ರಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ ಉಂಟಾಗುವಂತೆ ಕಲ್ಪಿಸಿಕೊಳ್ಳಬಹುದು. ವಿದ್ಯಾರ್ಥಿಯು ನೈಜವಾಗಿ ಮಿನಾರ್ ಅನ್ನು ಅಳತೆ ಮಾಡದೆ, ಅದರ ಎತ್ತರ ಕಂಡುಹಿಡಿಯಲು ಸಾಧ್ಯವೇ?
+
+--- FIGURE ---
+Description: A diagram showing a person looking up at the top of the Qutub Minar. A right-angled triangle is formed by the person's position on the ground, the base of the tower, and the top of the tower. The line of sight from the person to the top of the tower forms the hypotenuse.
+Labels: ಚಿತ್ರ 8.1
+Mathematical significance: This illustrates a real-world scenario that can be modeled using a right-angled triangle to find heights and distances using trigonometry.
+--- END FIGURE ---
+
+2.  ಹುಡುಗಿಯೊಬ್ಬಳು ನದಿಯ ದಂಡೆಯಲ್ಲಿರುವ ತನ್ನ ಮನೆಯ ಉಪ್ಪರಿಗೆಯಲ್ಲಿ ಕುಳಿತಿದ್ದಾಳೆ ಎಂದು ಊಹಿಸಿಕೊಳ್ಳಿ. ಆಕೆ ನದಿಯ ಮತ್ತೊಂದು ದಂಡೆಯಲ್ಲಿರುವ ದೇವಸ್ಥಾನದ ಮೆಟ್ಟಿಲು ಮೇಲಿರುವ ಹೂ ಕುಂಡವನ್ನು ನೋಡುತ್ತಿದ್ದಾಳೆ. ಚಿತ್ರ 8.2 ರಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಈ ಸಂದರ್ಭದಲ್ಲಿ ಒಂದು
+
+--- FIGURE ---
+Description: A diagram showing a girl on the balcony of a house looking down at a flower pot on the steps of a temple across a river. A right-angled triangle is formed by the girl's position, a point directly across the river at the same height, and the flower pot.
+Labels: ಚಿತ್ರ 8.2
+Mathematical significance: This illustrates another real-world problem, finding the width of a river, which can be solved using a right-angled triangle and trigonometry.
+--- END FIGURE ---
+
+ಲಂಬಕೋನ ತ್ರಿಭುಜ ಉಂಟಾಗುವಂತೆ ಕಲ್ಪಿಸಿಕೊಳ್ಳಬಹುದಾಗಿದೆ. ನಿಮಗೆ ವ್ಯಕ್ತಿಯು ಎಷ್ಟು ಎತ್ತರದಲ್ಲಿ ಕುಳಿತಿದ್ದಾರೆಂದು ಗೊತ್ತಿದ್ದರೆ, ನದಿಯ ಅಗಲವನ್ನು ಲೆಕ್ಕಿಸಲು ಸಾಧ್ಯವೇ?
+
+3.  ಗಾಳಿಯಲ್ಲಿ ಬಿಸಿಗಾಳಿಯ ಬಲೂನ್ ಹಾರಾಡುತ್ತಿದೆ ಎಂದು ಭಾವಿಸಿ. ಹುಡುಗಿಯೊಬ್ಬಳು ಆಕಾಶದಲ್ಲಿ ಅದನ್ನು ಗುರುತಿಸಿ ತನ್ನ ತಾಯಿಗೆ ಅದರ ಬಗ್ಗೆ ತಿಳಿಸಲು ಓಡಿ ಹೋಗುತ್ತಾಳೆ. ತಾಯಿಯು ಅದನ್ನು ನೋಡಲು ಮನೆಯಿಂದ ಹೊರಗೆ ಓಡಿ ಬರುತ್ತಾರೆ. ಈ ಮುಂಚೆ ಆ ಬಲೂನ್ A ಬಿಂದುವಿನಲ್ಲಿದ್ದಂತೆ ಗುರುತಿಸಿರುತ್ತಾಳೆ. ಆದರೆ ಈಗ ಆಕೆ ಮತ್ತು ಅವಳ ತಾಯಿ ಹೊರ ಬಂದು ನೋಡುವಷ್ಟರಲ್ಲಿ ಬಲೂನ್ B ಬಿಂದುವಿಗೆ ಚಲಿಸಿರುತ್ತದೆ. ನೆಲದಿಂದ 'B' ಬಿಂದುವಿಗಿರುವ ಎತ್ತರವನ್ನು ನೀವು ಕಂಡುಹಿಡಿಯಬಹುದೇ?
+
+--- FIGURE ---
+Description: A diagram showing the movement of a hot air balloon from point A to point B. A girl on the ground observes the balloon. Two right-angled triangles are formed. The first with the initial position A, and the second with the final position B.
+Labels: A, B, ಚಿತ್ರ 8.3
+Mathematical significance: This problem involves finding the height of the balloon after it has moved, which can be solved using trigonometric principles.
+--- END FIGURE ---
+
+ಮೇಲೆ ತಿಳಿಸಿದ ಎಲ್ಲಾ ಸಂದರ್ಭಗಳಲ್ಲಿಯೂ, ಗಣಿತದ ಒಂದು ಶಾಖೆಯಾಗಿರುವ ತ್ರಿಕೋನಮಿತಿಯಲ್ಲಿನ ಕೆಲವು ಗಣಿತದ ತಂತ್ರಗಳನ್ನು ಬಳಸಿ ದೂರ ಮತ್ತು ಎತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಆಂಗ್ಲ ಭಾಷೆಯಲ್ಲಿ ತ್ರಿಕೋನಮಿತಿಯನ್ನು Trigonometry ಎಂದು ಕರೆಯುವರು. Trigonometry ಎಂಬ ಪದವು ಗ್ರೀಕ್ ಪದಗಳಾದ 'Tri' (ಅಂದರೆ ಮೂರು), 'gon' (ಅಂದರೆ ಬಾಹುಗಳು) ಮತ್ತು 'metron' (ಅಂದರೆ ಅಳತೆ) ಪದಗಳಿಂದ ಉಂಟಾಗಿದೆ. ವಾಸ್ತವವಾಗಿ ತ್ರಿಕೋನಮಿತಿ ಎಂದರೆ ತ್ರಿಭುಜದ ಬಾಹುಗಳು ಮತ್ತು ಕೋನಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಅಭ್ಯಸಿಸುವುದಾಗಿದೆ. ಈಜಿಪ್ಟ್ ಮತ್ತು ಬ್ಯಾಬಿಲೋನ್‌ನಲ್ಲಿ ಮೊಟ್ಟ ಮೊದಲ ಬಾರಿಗೆ ತ್ರಿಕೋನಮಿತಿಯ ಬಳಕೆಯ ಬಗ್ಗೆ ಉಲ್ಲೇಖವಾಗಿದೆ. ಪುರಾತನ ಗ್ರೀಕ್ ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞರು, ಭೂಮಿ ಮತ್ತು ಚಂದ್ರನ ನಡುವಿನ ಅಂತರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಈ ವಿಧಾನವನ್ನು ಬಳಸಿಕೊಂಡಿರುತ್ತಾರೆ. ಇಂದಿಗೂ ಸಹ ತ್ರಿಕೋನಮಿತಿಯ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಆಧರಿಸಿದ ಹಲವಾರು ಉನ್ನತ ತಂತ್ರಜ್ಞಾನವನ್ನು ಇಂಜಿನಿಯರಿಂಗ್ ಮತ್ತು ಭೌತವಿಜ್ಞಾನ ವಿಭಾಗಗಳಲ್ಲಿ ಬಳಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ.
+
+ಈ ಅಧ್ಯಾಯದಲ್ಲಿ, ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಲಘು ಕೋನಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಬಾಹುಗಳ ಅನುಪಾತಗಳನ್ನು ಅಭ್ಯಸಿಸುತ್ತೇವೆ, ಅವುಗಳನ್ನು ಕೋನದ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳೆನ್ನುತ್ತಾರೆ. ನಾವು ನಮ್ಮ ಚರ್ಚೆಯನ್ನು ಲಘುಕೋನಗಳಿಗೆ ಮಾತ್ರ ಸೀಮಿತಗೊಳಿಸೋಣ. ಆದಾಗ್ಯೂ ಈ ಅನುಪಾತಗಳನ್ನು ಇನ್ನಿತರ ಕೋನಗಳಿಗೂ ವಿಸ್ತರಿಸಬಹುದು. 0° ಮತ್ತು 90° ಯ ಕೋನದ ಅಳತೆಗಳಿಗೂ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳನ್ನೂ ವ್ಯಾಖ್ಯಾನಿಸುತ್ತೇವೆ. ನಿರ್ದಿಷ್ಟ ಕೋನಗಳಿಗೆ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಲೆಕ್ಕಿಸಿ ಈ ಅನುಪಾತಗಳನ್ನೊಳಗೊಂಡ ಕೆಲವು ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಸ್ಥಾಪಿಸೋಣ. ಇವುಗಳನ್ನು ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣಗಳೆನ್ನುವರು.
+
+## 8.2 ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳು
+
+ವಿಭಾಗ 8.1 ರಲ್ಲಿ, ವಿವಿಧ ಸಂದರ್ಭಗಳಲ್ಲಿ ಕಲ್ಪಿಸಿಕೊಳ್ಳಬಹುದಾದ ಕೆಲವು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳನ್ನು ಗಮನಿಸಿದ್ದೀರಿ.
+
+ಚಿತ್ರ 8.4 ರಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯನ್ನು ಪರಿಗಣಿಸೋಣ.
+
+--- FIGURE ---
+Description: A right-angled triangle ABC, with the right angle at B. Angle A is an acute angle.
+Labels: A, B, C. Side BC is labeled "A ಗೆ ಅಭಿಮುಖ ಬಾಹು" (Side opposite to A). Side AB is labeled "A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು" (Side adjacent to A). Side AC is labeled "ವಿಕರ್ಣ" (Hypotenuse). The figure is labeled "ಚಿತ್ರ 8.4".
+Mathematical significance: This figure is used to define the trigonometric ratios with respect to the acute angle A.
+--- END FIGURE ---
+
+ಇಲ್ಲಿ, $\angle CAB$(ಅಥವಾ ಸಂಕ್ಷಿಪ್ತವಾಗಿ A) ಯು ಲಘುಕೋನ. ಕೋನ A ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಬಾಹು BC ಯ ಸ್ಥಾನವನ್ನು ಗುರುತಿಸಿ. ಅದು A ಎದುರಿಗಿದೆ. ಅದನ್ನು A ಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾದ ಬಾಹು ಎನ್ನುತ್ತೇವೆ. AC ಯು ಲಂಬಕೋನ ತ್ರಿಭುಜದ ವಿಕರ್ಣ ಮತ್ತು AB ಯು A ದ ಒಂದು ಭಾಗವಾಗಿದೆ. ಆದ್ದರಿಂದ ಅದನ್ನು A ದ ಪಾರ್ಶ್ವ ಬಾಹು ಎನ್ನುತ್ತೇವೆ.
+
+A ಬದಲಿಗೆ ಕೋನ C ಪರಿಗಣಿಸಿದಾಗ ಬಾಹುಗಳ ಸ್ಥಾನಗಳಲ್ಲಿನ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಿ (ಚಿತ್ರ 8.5 ನ್ನು ನೋಡಿ).
+
+--- FIGURE ---
+Description: The same right-angled triangle ABC, with the right angle at B. This time, the sides are labeled with respect to angle C.
+Labels: A, B, C. Side AB is labeled "C ಗೆ ಅಭಿಮುಖ ಬಾಹು" (Side opposite to C). Side BC is labeled "C ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು" (Side adjacent to C). Side AC is labeled "ವಿಕರ್ಣ" (Hypotenuse). The figure is labeled "ಚಿತ್ರ 8.5".
+Mathematical significance: This figure shows that the 'opposite' and 'adjacent' sides depend on which acute angle is being considered.
+--- END FIGURE ---
+
+ನೀವು ಹಿಂದಿನ ತರಗತಿಗಳಲ್ಲಿ ಅನುಪಾತದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಕಲಿತಿದ್ದೀರಿ. ಈಗ ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಬಾಹುಗಳನ್ನೊಳಗೊಂಡ ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತೇವೆ ಮತ್ತು ಅವುಗಳನ್ನು ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳೆನ್ನುತ್ತೇವೆ.
+
+ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC (ಚಿತ್ರ 8.4 ನ್ನು ನೋಡಿ) ಯಲ್ಲಿ, ಕೋನ A ಗೆ ಸಂಬಂಧಿಸಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಈ ಕೆಳಕಂಡಂತೆ ವ್ಯಾಖ್ಯಾನಿಸುತ್ತೇವೆ.
+
+A ದ ಜ್ಯಾ (sine of A) = $\frac{\text{A ಗೆ ಅಭಿಮುಖ ಬಾಹು}}{\text{ವಿಕರ್ಣ}} = \frac{BC}{AC}$
+
+A ದ ಕೋಟಿ ಜ್ಯಾ (cosine of A) = $\frac{\text{A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು}}{\text{ವಿಕರ್ಣ}} = \frac{AB}{AC}$
+
+A ದ ಸ್ಪರ್ಶಕ (tangent of A) = $\frac{\text{A ಗೆ ಅಭಿಮುಖ ಬಾಹು}}{\text{A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು}} = \frac{BC}{AB}$
+
+A ದ ಕೋಟಿ ಛೇದಕ (cosecant of A) = $\frac{1}{\text{sine of A}} = \frac{\text{ವಿಕರ್ಣ}}{\text{A ನ ಅಭಿಮುಖ ಬಾಹು}} = \frac{AC}{BC}$
+
+A ದ ಛೇದಕ (secant of A) = $\frac{1}{\text{cosine of A}} = \frac{\text{ವಿಕರ್ಣ}}{\text{A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು}} = \frac{AC}{AB}$
+
+A ದ ಕೋಟಿ ಸ್ಪರ್ಶಕ (co tangent of A) = $\frac{1}{\text{tangent of A}} = \frac{\text{A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು}}{\text{A ಗೆ ಅಭಿಮುಖ ಬಾಹು}} = \frac{AB}{BC}$
+
+ಮೇಲೆ ವ್ಯಾಖ್ಯಾನಿಸಲ್ಪಟ್ಟ ಅನುಪಾತಗಳನ್ನು ಕ್ರಮವಾಗಿ sin A, cos A, tan A, cosec A, sec A ಮತ್ತು cot A ಎಂದು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಬರೆಯುತ್ತೇವೆ. cosec A, sec A ಮತ್ತು cot A ಈ ಅನುಪಾತಗಳು ಕ್ರಮವಾಗಿ sin A, cos A ಮತ್ತು tan A ಗಳ ವ್ಯುತ್ಕ್ರಮಗಳಾಗಿವೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.
+
+ಹಾಗೆಯೇ $tan A = \frac{BC}{AB} = \frac{BC/AC}{AB/AC} = \frac{\sin A}{\cos A}$ ಮತ್ತು $cot A = \frac{\cos A}{\sin A}$ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.
+
+ಅದ್ದರಿಂದ, ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ, ಲಘುಕೋನದ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳು ಕೋನ ಮತ್ತು ಬಾಹುವಿನ ಉದ್ದಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ವ್ಯಕ್ತಪಡಿಸಬಹುದಾಗಿದೆ.
+
+ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ ಕೋನ C ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲು ನೀವೇಕೆ ಪ್ರಯತ್ನಿಸಬಾರದು? (ಚಿತ್ರ 8.5 ನ್ನು ನೋಡಿ)
+
+--- NOTE ---
+"ಜ್ಯಾ" ಪದದ ಮೊದಲ ಬಳಕೆಯನ್ನು ನಾವು ಆರ್ಯಭಟ (ಕ್ರಿ.ಶ 500) ರಚಿಸಿದ 'ಆರ್ಯಭಟಿಯಮ್' ನಲ್ಲಿ ಕಾಣಬಹುದು. ಆರ್ಯಭಟ ಬಳಸಿದ ಅರ್ಧ ಜ್ಯಾ (half - chord) ಪದವು ಸಂಕ್ಷಿಪ್ತಗೊಂಡು “ಜ್ಯಾ” ಅಥವಾ “ಜೀವ” ಪದವನ್ನು ಹಾಗೆಯೇ ಉಳಿಸಿಕೊಳ್ಳಲಾಯಿತು. ನಂತರದ ಭಾಷಾಂತರದಲ್ಲಿ “sinus” ಆಗಿ ಬದಲಾವಣೆ ಕಂಡಿತು. "sinus” ಅಂದರೆ ಲ್ಯಾಟಿನ್ ಭಾಷೆಯಲ್ಲಿ “ವಕ್ರರೇಖೆ” ಎಂದರ್ಥ. ನಂತರ "sinus" ಪದವು "sine” ಆಗಿ ಬದಲಾಯಿತು. ಆಂಗ್ಲ ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞರಾದ ಎಡ್ಮಂಡ್ ಗುಂಟರ್ (1581 - 1626) ರವರು ಮೊದಲ ಬಾರಿಗೆ “sine” ಪದವನ್ನು “sin” ಎಂದು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಬಳಸಿದರು. ಆನಂತರದ ದಿನಗಳಲ್ಲಿ cosine ಮತ್ತು tangent ಎಂಬ ಪದಗಳ ಬಳಕೆ ಪ್ರಾರಂಭವಾಯಿತು. cosine ಅನುಪಾತವು "sine” ಅನುಪಾತದ ಪೂರಕ ಕೋನಕ್ಕೆ ಬೇಕಾದ ಅನುಪಾತವಾಗಿ ಬಳಸಲಾಯಿತು. ಆರ್ಯಭಟ ಇದನ್ನು ತನ್ನ ಪುಸ್ತಕದಲ್ಲಿ “ಕೋಟಿ ಜ್ಯಾ” ಎಂದು ನಮೂದಿಸಿರುತ್ತಾರೆ. cosine ಪದವನ್ನು 'ಎಡ್ಮಂಡ್ ಗುಂಟರ್' ರವರು ಬಳಕೆಗೆ ತಂದರು. 1674 ರಲ್ಲಿ ಬ್ರಿಟಿಷ್ ಗಣಿತಜ್ಞ 'ಸರ್ ಜೀನರ್ ಮೂರ್' ರವರು ಮೊದಲ ಬಾರಿಗೆ “cos” ಎಂದು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಬಳಕೆ ಮಾಡಿದರು.
+
+--- FIGURE ---
+Description: An illustration depicting the ancient Indian mathematician and astronomer, Aryabhata.
+Labels: ಆರ್ಯಭಟ, ಕ್ರಿ.ಶ 476 – 550
+--- END FIGURE ---
+
+ಗಮನಿಸಿ : ಸಂಕೇತ sin A ಎಂಬುದು, A ಕೋನದ ಜ್ಯಾ (sine of angle of A) ದ ಸಂಕ್ಷಿಪ್ತ ರೂಪವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. sin A ಎಂಬುದು sin ಮತ್ತು A ಗಳ ನಡುವಿನ ಗುಣಲಬ್ಧವಲ್ಲ. A ಯಿಂದ ಬೇರ್ಪಟ್ಟ sin ಗೆ ಯಾವುದೇ ಅರ್ಥವಿಲ್ಲ. ಹಾಗೆಯೇ cos A ಎಂಬುದು cos ಮತ್ತು A ಗಳ ನಡುವಿನ ಗುಣಲಬ್ಧವಲ್ಲ. ಇನ್ನುಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳಿಗೂ ಈ ಮೇಲಿನ ವ್ಯಾಖ್ಯಾನ ಅನ್ವಯಿಸುತ್ತದೆ.
+--- END NOTE ---
+
+ಈಗ, ನಾವು ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ದ ವಿಕರ್ಣ AC ಯ ಮೇಲೆ 'P' ಬಿಂದುವನ್ನು ತೆಗೆದುಕೊಂಡರೆ, ಅಥವಾ ವೃದ್ಧಿಸಿದ AC ಯ ಮೇಲೆ Q ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ. PM ⊥ AB ಮತ್ತು QN ಅನ್ನು ವೃದ್ಧಿಸಿದ AB ಗೆ ಲಂಬವಾಗಿ ಎಳೆದು ΔPAM, ΔCAB, ΔQAN ಗಳಲ್ಲಿ A ಗೆ ಸಂಬಂಧಿಸಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳು ಹೇಗೆ ಭಿನ್ನವಾಗಿದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.
+
+--- FIGURE ---
+Description: A right-angled triangle ABC, right-angled at B. Point P is on the hypotenuse AC. A perpendicular PM is drawn from P to the side AB. The line AC is extended to a point Q, and a perpendicular QN is drawn to the extended line AB. This creates three similar right-angled triangles: ΔPAM, ΔCAB, and ΔQAN.
+Labels: A, M, B, N, C, P, Q, ವಿಕರ್ಣ (Hypotenuse), ಚಿತ್ರ 8.6
+Mathematical significance: This figure illustrates that the trigonometric ratios for a given angle A do not depend on the size of the right-angled triangle.
+--- END FIGURE ---
+
+ಇದಕ್ಕೆ ಉತ್ತರಿಸಲು ಮೊದಲು ಈ ತ್ರಿಭುಜಗಳನ್ನು ನೋಡಿ. ΔPAM ಮತ್ತು ΔCAB ಸಮರೂಪವಾಗಿವೆಯೇ? 2ನೇ ಘಟಕದಲ್ಲಿನ ತ್ರಿಭುಜಗಳ ಸಮರೂಪತೆಯ ಕೋನ - ಕೋನ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಿ. ಈ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ಬಳಸಿ ΔPAM ಮತ್ತು ΔCAB ಸಮರೂಪವಾಗಿವೆ ಎಂದು ಕಾಣಬಹುದು. ಆದ್ದರಿಂದ ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಗುಣದ ಪ್ರಕಾರ, ತ್ರಿಭುಜದ ಅನುರೂಪ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿರುತ್ತವೆ.
+
+ಆದ್ದರಿಂದ, $\frac{AM}{AB} = \frac{AP}{AC} = \frac{MP}{BC}$ ಆಗಿರುತ್ತದೆ.
+
+ಇದರಿಂದ, $\frac{MP}{AP} = \frac{BC}{AC} = \sin A$ ಎಂದು ತಿಳಿಯಬಹುದು.
+
+ಹಾಗೆಯೇ, $\frac{AM}{AP} = \frac{AB}{AC} = \cos A$, ಮತ್ತು $\frac{MP}{AM} = \frac{BC}{AB} = \tan A$, ಇತ್ಯಾದಿ.
+
+ಇದರಿಂದ ΔPAM ಯಲ್ಲಿನ ಕೋನ A ದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳು ಹಾಗೂ ΔCAB ಯಲ್ಲಿನ ಕೋನ Aದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳಿಗೂ ಯಾವುದೇ ವ್ಯತ್ಯಾಸವಿಲ್ಲವೆಂದು ತಿಳಿದುಬರುತ್ತದೆ.
+
+ಇದೇ ರೀತಿ, ನೀವು ΔQAN ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ sin A ದ ಬೆಲೆ (ಇನ್ನುಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳು) ಯನ್ನು ಪರೀಕ್ಷಿಸಬೇಕು. ನಮ್ಮ ವೀಕ್ಷಣೆಗಳಿಂದ ತಿಳಿದು ಬರುವ ಅಂಶವೇನೆಂದರೆ, ಒಂದು ಕೋನದ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳ ಬೆಲೆಗಳು ಅವುಗಳ ಬಾಹುಗಳ ಅಳತೆಯೊಂದಿಗೆ ಬದಲಾವಣೆಯಾಗುವುದಿಲ್ಲ.
+
+--- NOTE ---
+ಗಮನಿಸಿ: ನಮ್ಮ ಅನುಕೂಲಕ್ಕಾಗಿ, $(\sin A)^2$, $(\cos A)^2$ ಇತ್ಯಾದಿ ಇವುಗಳ ಬದಲಿಗೆ ಕ್ರಮವಾಗಿ $\sin^2 A$, $\cos^2 A$ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಆದರೆ $cosec A = (\sin A)^{-1} \neq \sin^{-1} A$ (ಇದನ್ನು sinA ದ ವಿಲೋಮ ಎಂದು ಕರೆಯುತ್ತಾರೆ) $\sin^{-1} A$ ದ ಅರ್ಥವು ಬೇರೆಯಾಗಿದೆ, ಇದನ್ನು ನೀವು ಮುಂದಿನ ತರಗತಿಗಳಲ್ಲಿ ಅಭ್ಯಸಿಸುತ್ತೀರಿ. ಇನ್ನುಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳಿಗೂ ಇದು ಅನ್ವಯಿಸುತ್ತದೆ. ಕೆಲವು ಬಾರಿ ಕೋನವನ್ನು ಪ್ರತಿನಿಧಿಸಲು ಗ್ರೀಕ್ ಅಕ್ಷರ $\theta$ (ತೀಟಾ) ಬಳಕೆ ಮಾಡುತ್ತೇವೆ.
+--- END NOTE ---
+
+ಲಘುಕೋನಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ, ನಾವು ಆರು ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಿದ್ದೇವೆ. ಇವುಗಳಲ್ಲಿ ಯಾವುದಾದರೂ ಒಂದು ಅನುಪಾತ ತಿಳಿದಿದ್ದರೆ, ಉಳಿದ ಅನುಪಾತಗಳನ್ನು ಪಡೆಯಬಹುದೇ? ಈಗ ನೋಡೋಣ.
+
+ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\sin A = \frac{1}{3}$ ಆದರೆ, ಇದರ ಅರ್ಥ $\frac{BC}{AC} = \frac{1}{3}$ ಅಂದರೆ, ΔABC ಯ ಬಾಹುಗಳಾದ BC ಮತ್ತು AC ಗಳ ಅಳತೆಗಳು 1 : 3 ಅನುಪಾತದಲ್ಲಿವೆ ಎಂದು ತಿಳಿಯುತ್ತದೆ (ಚಿತ್ರ 8.7 ನ್ನು ನೋಡಿ) ಆದ್ದರಿಂದ BC ಯು k ಗೆ ಸಮನಾದರೆ, AC ಯು 3k ಗೆ ಸಮ. ಇಲ್ಲಿ k ಯು ಯಾವುದೇ ಧನ ಸಂಖ್ಯೆಯಾಗಿದೆ.
+
+--- FIGURE ---
+Description: A right-angled triangle ABC, right-angled at B.
+Labels: A, B, C. Side BC is labeled k. Hypotenuse AC is labeled 3k. The figure is labeled "ಚಿತ್ರ 8.7".
+Mathematical significance: This figure is used to illustrate how to find all trigonometric ratios when one ratio is given.
+--- END FIGURE ---
+
+ಕೋನ A ದ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಪಡೆಯಲು, ΔABC ಯ ಮೂರನೇ ಬಾಹು AB ಯ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕಾಗುತ್ತದೆ. ನಿಮಗೆ ಪೈಥಾಗೊರಾಸ್ ಪ್ರಮೇಯ ನೆನಪಿದೆಯೇ? ಅದನ್ನು ಬಳಸಿ ಬೇಕಾಗಿರುವ AB ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.
+$AB^2 = AC^2 - BC^2 = (3k)^2 - k^2 = 8k^2 = (2\sqrt{2}k)^2$
+$\therefore AB = \pm 2\sqrt{2}k$
+$AB = 2\sqrt{2}k$ ಪಡೆಯುತ್ತೇವೆ. (AB ಯು $-2\sqrt{2}k$ ಗೆ ಸಮವಲ್ಲ ಏಕೆ?)
+
+ಈಗ, $\cos A = \frac{AB}{AC} = \frac{2\sqrt{2}k}{3k} = \frac{2\sqrt{2}}{3}$
+ಹಾಗೆಯೇ ಕೋನ Aದ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಪಡೆಯಬಹುದು.
+
+--- NOTE ---
+ಗಮನಿಸಿ: ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ ವಿಕರ್ಣವು ಅತ್ಯಂತ ದೊಡ್ಡ ಬಾಹುವಾಗಿರುವುದರಿಂದ, sin A ಮತ್ತು cos A ಗಳ ಬೆಲೆಯು ಯಾವಾಗಲೂ 1 ಕ್ಕಿಂತ ಕಡಿಮೆಯಾಗಿರುತ್ತದೆ. (ಅಥವಾ ನಿರ್ದಿಷ್ಟವಾಗಿ 1ಕ್ಕೆ ಸಮ ಆಗಿರುತ್ತದೆ).
+--- END NOTE ---
+
+ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ಪರಿಗಣಿಸೋಣ.
+
+--- EXAMPLE START ---
+Source: Class 10, Example 1
+Problem: $\tan A = \frac{4}{3}$ ಆದರೆ ಕೋನ A ಗೆ ಸಂಬಂಧಿಸಿದ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+ಪರಿಹಾರ: ಮೊದಲು ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯನ್ನು ರಚಿಸೋಣ. (ಚಿತ್ರ 8.8 ನೋಡಿ)
+
+--- FIGURE ---
+Description: A right-angled triangle ABC, right-angled at B.
+Labels: A, B, C. Side BC is labeled 4k. Side AB is labeled 3k. The figure is labeled "ಚಿತ್ರ 8.8".
+--- END FIGURE ---
+
+ಈಗ, $\tan A = \frac{BC}{AB} = \frac{4}{3}$ ಎಂದು ತಿಳಿದಿದೆ.
+BC = 4k ಆದರೆ AB = 3k ಮತ್ತು k ಒಂದು ಧನಸಂಖ್ಯೆ.
+ಈಗ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ,
+$AC^2 = AB^2 + BC^2 = (3k)^2 + (4k)^2 = 9k^2 + 16k^2 = 25k^2$
+ಆದ್ದರಿಂದ, $AC = 5k$
+ಈಗ, ತ್ರಿಕೋನಮಿತಿಯ ಎಲ್ಲಾ ಅನುಪಾತಗಳನ್ನು ಅವುಗಳ ವ್ಯಾಖ್ಯಾನದಿಂದ ಬರೆಯಬಹುದು.
+$\sin A = \frac{BC}{AC} = \frac{4k}{5k} = \frac{4}{5}$
+$\cos A = \frac{AB}{AC} = \frac{3k}{5k} = \frac{3}{5}$
+$\therefore \cot A = \frac{1}{\tan A} = \frac{3}{4}$; $\cosec A = \frac{1}{\sin A} = \frac{5}{4}$ ಮತ್ತು $\sec A = \frac{1}{\cos A} = \frac{5}{3}$
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 2
+Problem: $\angle B$ ಮತ್ತು $\angle Q$ ಲಘುಕೋನಗಳಾಗಿದ್ದು $\sin B = \sin Q$ ಆಗಿದೆ. ಹಾಗಾದರೆ $\angle B = \angle Q$ ಎಂದು ಸಾಧಿಸಿ.
+Solution:
+ಪರಿಹಾರ: ΔABC ಮತ್ತು ΔPQR ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ಇಲ್ಲಿ $\sin B = \sin Q$ ಆಗಿರಲಿ (ಚಿತ್ರ 8.9 ನೋಡಿ)
+
+--- FIGURE ---
+Description: Two separate right-angled triangles, ΔABC and ΔPQR. In ΔABC, the right angle is at C. In ΔPQR, the right angle is at R.
+Labels: A, C, B, P, R, Q. The figure is labeled "ಚಿತ್ರ 8.9".
+--- END FIGURE ---
+
+$\sin B = \frac{AC}{AB}$
+ಮತ್ತು $\sin Q = \frac{PR}{PQ}$
+ದತ್ತ ಪ್ರಕಾರ, $\sin B = \sin Q$
+ಆಗ $\frac{AC}{AB} = \frac{PR}{PQ}$
+$\therefore \frac{AC}{PR} = \frac{AB}{PQ} = k$ ಆಗಿರಲಿ (1)
+ಈಗ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ,
+$BC = \sqrt{AB^2 - AC^2}$
+ಮತ್ತು $QR = \sqrt{PQ^2 - PR^2}$
+ಆದ್ದರಿಂದ, $\frac{BC}{QR} = \frac{\sqrt{AB^2 - AC^2}}{\sqrt{PQ^2 - PR^2}} = \frac{\sqrt{k^2PQ^2 - k^2PR^2}}{\sqrt{PQ^2 - PR^2}} = \frac{k\sqrt{PQ^2 - PR^2}}{\sqrt{PQ^2 - PR^2}} = k$ .....(2)
+(1) ಮತ್ತು (2) ರಿಂದ
+$\frac{AC}{PR} = \frac{AB}{PQ} = \frac{BC}{QR}$
+ಆಗ, ಪ್ರಮೇಯ 6.4 ರಿಂದ ΔACB ~ ΔPRQ ಮತ್ತು $\angle B = \angle Q$.
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 3
+Problem: ΔACB ಯಲ್ಲಿ, AB = 29 ಮಾನಗಳು, BC = 21 ಮಾನಗಳು ಮತ್ತು $\angle ABC = \theta$ (ಚಿತ್ರ 8.10 ನೋಡಿ) ಆದರೆ, ಇವುಗಳ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+i) $\cos^2 \theta + \sin^2 \theta$
+ii) $\cos^2 \theta - \sin^2 \theta$
+Solution:
+ಪರಿಹಾರ: ΔACB ಯಲ್ಲಿ,
+
+--- FIGURE ---
+Description: A right-angled triangle ACB, with the right angle at C.
+Labels: A, C, B. Hypotenuse AB is 29. Side BC is 21. Angle ABC is θ. The figure is labeled "ಚಿತ್ರ 8.10".
+--- END FIGURE ---
+
+$AC = \sqrt{AB^2 - BC^2} = \sqrt{(29)^2 - (21)^2}$
+$= \sqrt{(29 - 21)(29 + 21)} = \sqrt{(8)(50)} = \sqrt{400} = 20$ ಮಾನಗಳು
+ಆದ್ದರಿಂದ, $\sin \theta = \frac{AC}{AB} = \frac{20}{29}$, $\cos \theta = \frac{BC}{AB} = \frac{21}{29}$
+ಈಗ, i) $\cos^2 \theta + \sin^2 \theta = (\frac{21}{29})^2 + (\frac{20}{29})^2 = \frac{21^2 + 20^2}{29^2} = \frac{441+400}{841} = \frac{841}{841} = 1$
+ಮತ್ತು, ii) $\cos^2 \theta - \sin^2 \theta = (\frac{21}{29})^2 - (\frac{20}{29})^2 = \frac{(21+20)(21-20)}{29^2} = \frac{41}{841}$
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 4
+Problem: ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, B ಯಲ್ಲಿ ಲಂಬಕೋನವಾಗಿದೆ. $\tan A = 1$ ಆದರೆ, $2\sin A \cos A = 1$ ಆಗಿದೆಯೇ? ಪರೀಕ್ಷಿಸಿ.
+Solution:
+ಪರಿಹಾರ: ΔABC ಯಲ್ಲಿ, $\tan A = \frac{BC}{AB} = 1$ (ಚಿತ್ರ 8.11 ನೋಡಿ)
+ಅಂದರೆ, $BC = AB$
+
+--- FIGURE ---
+Description: A right-angled triangle ABC, with the right angle at B.
+Labels: A, B, C. The figure is labeled "ಚಿತ್ರ 8.11".
+--- END FIGURE ---
+
+AB = BC = k ಆದರೆ, k ಒಂದು ಧನ ಸಂಖ್ಯೆ.
+ಈಗ, $AC = \sqrt{AB^2 + BC^2} = \sqrt{(k)^2 + (k)^2} = k\sqrt{2}$
+$\sin A = \frac{BC}{AC} = \frac{k}{k\sqrt{2}} = \frac{1}{\sqrt{2}}$ ಮತ್ತು $\cos A = \frac{AB}{AC} = \frac{k}{k\sqrt{2}} = \frac{1}{\sqrt{2}}$
+ಆದ್ದರಿಂದ, $2\sin A \cos A = 2(\frac{1}{\sqrt{2}})(\frac{1}{\sqrt{2}}) = 2(\frac{1}{2}) = 1$, ಬೇಕಾದ ಬೆಲೆಯಾಗಿದೆ.
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 5
+Problem: ΔOPQ ಯಲ್ಲಿ, P ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬಕೋನವಾಗಿದೆ. OP = 7cm ಮತ್ತು OQ - PQ = 1cm (ಚಿತ್ರ 8.12 ನೋಡಿ) sin Q ಮತ್ತು cos Q ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+ಪರಿಹಾರ: ΔOPQ ನಲ್ಲಿ,
+
+--- FIGURE ---
+Description: A right-angled triangle OPQ, with the right angle at P.
+Labels: O, P, Q. Side OP is 7 cm. The figure is labeled "ಚಿತ್ರ 8.12".
+--- END FIGURE ---
+
+$OQ^2 = OP^2 + PQ^2$
+ಅಂದರೆ, $(1 + PQ)^2 = OP^2 + PQ^2$ (ಏಕೆ?)
+ಅಂದರೆ, $1 + PQ^2 + 2PQ = OP^2 + PQ^2$
+ಅಂದರೆ, $1 + 2PQ = 7^2$ (ಏಕೆ?)
+ಅಂದರೆ, $2PQ = 48$, $PQ = 24$ cm ಮತ್ತು $OQ = 1 + PQ = 25$cm
+ಆದ್ದರಿಂದ, $\sin Q = \frac{7}{25}$ ಮತ್ತು $\cos Q = \frac{24}{25}$
+--- EXAMPLE END ---
+
+## 8.3 ಕೆಲವು ನಿರ್ದಿಷ್ಟ ಕೋನಗಳಿಗೆ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳು
+
+ರೇಖಾಗಣಿತದಿಂದ, ನಿಮಗೆ ಈಗಾಗಲೇ 30°, 45°, 60° ಮತ್ತು 90° ಅಳತೆಯ ಕೋನಗಳನ್ನು ರಚಿಸುವ ವಿಧಾನ ಪರಿಚಯವಾಗಿದೆ. ಈ ವಿಭಾಗದಲ್ಲಿ ನಾವು 0° ಯನ್ನು ಒಳಗೊಂಡಂತೆ, ಈ ಎಲ್ಲಾ ಕೋನಗಳಿಗೆ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ.
+
+### 45° ಯ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳು
+
+ΔABC ಯಲ್ಲಿ, $\angle B = 90°$. ಒಂದು ಕೋನವು 45° ಆದರೆ ಮತ್ತೊಂದು ಕೋನವು 45° ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, $\angle A = \angle C = 45°$ (ಚಿತ್ರ 8.14 ನೋಡಿ)
+
+--- FIGURE ---
+Description: An isosceles right-angled triangle ABC, with the right angle at B. Angles A and C are 45°.
+Labels: A, B, C. The figure is labeled "ಚಿತ್ರ 8.14".
+--- END FIGURE ---
+
+ಆದ್ದರಿಂದ $BC = AB$ (ಏಕೆ?)
+ಈಗ, $BC = AB = a$ ಎಂದು ಭಾವಿಸೋಣ.
+ಆಗ, ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ,
+$AC^2 = AB^2 + BC^2 = a^2 + a^2 = 2a^2$
+ಮತ್ತು, ಆದ್ದರಿಂದ $AC = a\sqrt{2}$
+ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳ ವ್ಯಾಖ್ಯಾನಗಳನ್ನು ಉಪಯೋಗಿಸಿದಾಗ,
+$\sin 45^\circ = \frac{45^\circ \text{ ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು}}{\text{ವಿಕರ್ಣ}} = \frac{BC}{AC} = \frac{a}{a\sqrt{2}} = \frac{1}{\sqrt{2}}$
+$\cos 45^\circ = \frac{45^\circ \text{ ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು}}{\text{ವಿಕರ್ಣ}} = \frac{AB}{AC} = \frac{a}{a\sqrt{2}} = \frac{1}{\sqrt{2}}$
+$\tan 45^\circ = \frac{45^\circ \text{ ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು}}{45^\circ \text{ ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು}} = \frac{BC}{AB} = \frac{a}{a} = 1$
+
+ಹಾಗೆಯೇ,
+$\cosec 45^\circ = \frac{1}{\sin 45^\circ} = \sqrt{2}$, $\sec 45^\circ = \frac{1}{\cos 45^\circ} = \sqrt{2}$, $\cot 45^\circ = \frac{1}{\tan 45^\circ} = 1$
+
+### 30° ಮತ್ತು 60°ಯ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳು
+
+ಇದೀಗ ನಾವು 30° ಮತ್ತು 60° ಯ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಲೆಕ್ಕಿಸೋಣ. ಸಮಬಾಹು ತ್ರಿಭುಜ ABC ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಸಮಬಾಹು ತ್ರಿಭುಜದ ಪ್ರತಿ ಕೋನದ ಅಳತೆಯು 60° ಆಗಿರುವುದರಿಂದ $\angle A = \angle B = \angle C = 60°$. ಬಾಹು BC ಗೆ A ಯಿಂದ AD ಲಂಬ ಎಳೆಯಿರಿ. (ಚಿತ್ರ 8.15 ನೋಡಿ)
+
+--- FIGURE ---
+Description: An equilateral triangle ABC with an altitude AD drawn from vertex A to side BC.
+Labels: A, B, D, C. Angles at B and C are 60°. Angle BAD is 30°. The figure is labeled "ಚಿತ್ರ 8.15".
+--- END FIGURE ---
+
+ಈಗ, ΔABD ≅ ΔACD (ಏಕೆ?)
+ಆದ್ದರಿಂದ, $BD = DC$
+ಮತ್ತು $\angle BAD = \angle CAD$ (ಸ.ತ್ರಿ.ಸ.ಬಾ)
+ಇದೀಗ ಗಮನಿಸಿ, ΔABD ಲಂಬಕೋನ ತ್ರಿಭುಜ, $\angle D = 90°$ ಮತ್ತು $\angle BAD = 30°$ ಹಾಗೂ $\angle ABD = 60°$ ಆಗಿದೆ (ಚಿತ್ರ 8.15 ನೋಡಿ)
+ನಿಮಗೆ ತಿಳಿದಿರುವಂತೆ, ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದಕ್ಕಾಗಿ, ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಅಳತೆಯು ತಿಳಿದಿರಬೇಕಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಾವು AB = 2a ಎಂದು ಭಾವಿಸೋಣ.
+ಆಗ, $BD = \frac{1}{2}BC = a$
+ಮತ್ತು $AD^2 = AB^2 - BD^2 = (2a)^2 - (a)^2 = 3a^2$,
+ಆದ್ದರಿಂದ, $AD = a\sqrt{3}$
+ಈಗ,
+$\sin 30^\circ = \frac{BD}{AB} = \frac{a}{2a} = \frac{1}{2}$
+$\cos 30^\circ = \frac{AD}{AB} = \frac{a\sqrt{3}}{2a} = \frac{\sqrt{3}}{2}$
+$\tan 30^\circ = \frac{BD}{AD} = \frac{a}{a\sqrt{3}} = \frac{1}{\sqrt{3}}$
+ಹಾಗೂ,
+$\cosec 30^\circ = \frac{1}{\sin 30^\circ} = 2$; $\sec 30^\circ = \frac{1}{\cos 30^\circ} = \frac{2}{\sqrt{3}}$; $\cot 30^\circ = \frac{1}{\tan 30^\circ} = \sqrt{3}$
+
+ಹಾಗೆಯೇ,
+$\sin 60^\circ = \frac{AD}{AB} = \frac{a\sqrt{3}}{2a} = \frac{\sqrt{3}}{2}$, $\cos 60^\circ = \frac{1}{2}$, $\tan 60^\circ = \sqrt{3}$
+$\cosec 60^\circ = \frac{2}{\sqrt{3}}$, $\sec 60^\circ = 2$ ಮತ್ತು $\cot 60^\circ = \frac{1}{\sqrt{3}}$
+
+### 0° ಮತ್ತು 90° ಯ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳು
+
+ΔABC ಯಲ್ಲಿ ಕೋನ A ದ ಅಳತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತಾ, ಮಾಡುತ್ತಾ ಸೊನ್ನೆ ಆಗುವಂತೆ ಮಾಡಿದರೆ, ಅದರ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತದ ಬೆಲೆಯಲ್ಲಿ ಆಗುವ ವ್ಯತ್ಯಾಸವನ್ನು ನೋಡೋಣ. (ಚಿತ್ರ 8.16 ನೋಡಿ) ಕೋನ A ಕಡಿಮೆ ಆದಂತೆಲ್ಲ ಬಾಹು BCಯ ಉದ್ದ ಕಡಿಮೆಯಾಗುತ್ತದೆ. C ಬಿಂದುವು B ಬಿಂದುವಿಗೆ ಸಮೀಪಿಸುತ್ತದೆ ಮತ್ತು $\angle A = 0°$ ಗೆ ಸಮೀಪಿಸಿದಂತೆ AC ಯು ಸುಮಾರು AB ಯಷ್ಟೇ ಆಗುತ್ತದೆ. (ಚಿತ್ರ 8.17 ನೋಡಿ)
+
+--- FIGURE ---
+Description: Figure 8.16 shows a right-angled triangle ABC, right-angled at B. Figure 8.17 shows a sequence of four right-angled triangles where angle A is progressively getting smaller, causing point C to move closer to point B along the line segment CB.
+Labels: A, B, C. ಚಿತ್ರ 8.16, ಚಿತ್ರ 8.17.
+Mathematical significance: These figures illustrate the limiting process as an acute angle in a right triangle approaches 0°.
+--- END FIGURE ---
+
+$\angle A$ ಯು 0° ಗೆ ಸಮೀಪವಾದಂತೆ, BC ಯು ಸೊನ್ನೆಗೆ ಸಮೀಪವಾಗುತ್ತದೆ ಮತ್ತು $\sin A = \frac{BC}{AC}$ ಯ ಬೆಲೆಯೂ ಸೊನ್ನೆಗೆ ಸಮೀಪವಾಗುತ್ತದೆ. ಹಾಗೆಯೇ $\angle A$ ಯು 0° ಗೆ ಸಮೀಪವಾದಂತೆ AC ಯು ಸಹ AB ಗೆ ಸರಿಸುಮಾರು ಸಮವಾಗುತ್ತದೆ ಮತ್ತು ಅದರಿಂದ $\cos A = \frac{AB}{AC}$ ಯ ಬೆಲೆಯೂ 1 ಕ್ಕೆ ಸಮೀಪಿಸುತ್ತದೆ.
+ಇದು, ನಮಗೆ A = 0° ಆದಾಗ sin A ಮತ್ತು cos A ಬೆಲೆಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲು ಹೇಗೆ ಸಹಾಯವಾಗಿದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.
+$\sin 0^\circ = 0$ ಮತ್ತು $\cos 0^\circ = 1$ ಎಂದು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತೇವೆ.
+ಇವುಗಳನ್ನು ಬಳಸಿದಾಗ,
+$\tan 0^\circ = \frac{\sin 0^\circ}{\cos 0^\circ} = 0$, $\cot 0^\circ = \frac{1}{\tan 0^\circ} = $ ನಿರ್ದಿಷ್ಟವಾಗಿ ವ್ಯಕ್ತಪಡಿಸಿಲ್ಲ (ಏಕೆ?)
+$\sec 0^\circ = \frac{1}{\cos 0^\circ} = 1$ ಮತ್ತು $\cosec 0^\circ = \frac{1}{\sin 0^\circ} = $ ನಿರ್ದಿಷ್ಟವಾಗಿ ವ್ಯಕ್ತಪಡಿಸಿಲ್ಲ (ಏಕೆ?)
+
+ΔABC ಯಲ್ಲಿ $\angle A$ ಅಳತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತಾ ಇನ್ನು ಹೆಚ್ಚಿಸುತ್ತಾ ಹೋದಾಗ $\angle A$ ಗೆ ಸಂಬಂಧಿಸಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತದ ಬೆಲೆಯಲ್ಲಿ ಆಗುವ ವ್ಯತ್ಯಾಸವನ್ನು ನೋಡೋಣ. $\angle A$ ಹೆಚ್ಚಾಗುತ್ತಾ ಹೋದಂತೆಲ್ಲ $\angle C$ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಮೇಲಿನ ಪ್ರಕರಣದಂತೆ, ಬಾಹು AB ಯ ಉದ್ದ ಕಡಿಮೆಯಾಗುತ್ತದೆ. A ಬಿಂದುವು B ಬಿಂದುವಿಗೆ ಸಮೀಪವಾಗುತ್ತದೆ. ಕೊನೆಗೆ $\angle A$ ಯು 90° ಗೆ ಸಮೀಪಿಸುತ್ತಿದ್ದಂತೆ $\angle C$ ಯು 0° ಗೆ ಸಮೀಪಿಸುತ್ತದೆ ಮತ್ತು ಬಾಹು AC ಯು ಬಾಹು BC ಯೊಂದಿಗೆ ಐಕ್ಯವಾಗುತ್ತದೆ. (ಚಿತ್ರ 8.18 ನೋಡಿ)
+
+--- FIGURE ---
+Description: A sequence of four right-angled triangles where angle A is progressively getting larger and approaching 90°. This causes point A to move closer to point B along the line segment AB.
+Labels: A, B, C. ಚಿತ್ರ 8.18.
+Mathematical significance: This illustrates the limiting process as an acute angle in a right triangle approaches 90°.
+--- END FIGURE ---
+
+$\angle C$ ಯು 0°ಗೆ ಸಮೀಪಿಸಿದಾಗ, $\angle A$ ಯು 90°ಗೆ ಸಮೀಪಿಸುತ್ತದೆ. ಬಾಹು AC ಯ ಉದ್ದವು ಬಾಹು BCಗೆ ಸಮವಾಗುತ್ತದೆ ಮತ್ತು sin A ಯು 1 ಕ್ಕೆ ಸಮೀಪವಾಗಿರುತ್ತದೆ. ಹಾಗೆಯೇ $\angle A$ ಯು 90° ಗೆ ಸಮೀಪಿಸಿದಂತೆ, $\angle C$ ಯು 0°ಗೆ ಸಮೀಪಿಸುತ್ತದೆ ಮತ್ತು ಬಾಹು AB ಯ ಅಳತೆ ಸೊನ್ನೆಗೆ ಹತ್ತಿರವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ cos A ಯು ಸೊನ್ನೆಗೆ ಹತ್ತಿರವಾಗುತ್ತದೆ.
+ಆದ್ದರಿಂದ $\sin 90^\circ = 1$ ಮತ್ತು $\cos 90^\circ = 0$ ಎಂದು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತೇವೆ.
+ಈಗ, ನೀವೇಕೆ 90°ಯ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬಾರದು?
+ಪರಾಮರ್ಶೆಗೆ ಅನುಕೂಲವಾಗುವಂತೆ, 0°, 30°, 45°, 60° ಮತ್ತು 90° ಯ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಕೋಷ್ಟಕ 8.1 ರಲ್ಲಿ ಕೊಡಲಾಗಿದೆ.
+
+**ಕೋಷ್ಟಕ 8.1**
+| $\angle A$ | 0° | 30° | 45° | 60° | 90° |
+|---|---|---|---|---|---|
+| sin A | 0 | $\frac{1}{2}$ | $\frac{1}{\sqrt{2}}$ | $\frac{\sqrt{3}}{2}$ | 1 |
+| cos A | 1 | $\frac{\sqrt{3}}{2}$ | $\frac{1}{\sqrt{2}}$ | $\frac{1}{2}$ | 0 |
+| tan A | 0 | $\frac{1}{\sqrt{3}}$ | 1 | $\sqrt{3}$ | N.D |
+| cosec A | N.D | 2 | $\sqrt{2}$ | $\frac{2}{\sqrt{3}}$ | 1 |
+| sec A | 1 | $\frac{2}{\sqrt{3}}$ | $\sqrt{2}$ | 2 | N.D |
+| cot A | N.D | $\sqrt{3}$ | 1 | $\frac{1}{\sqrt{3}}$ | 0 |
+
+\* N.D → Not Defined (ನಿರ್ದಿಷ್ಟವಾಗಿ ವ್ಯಕ್ತಪಡಿಸಲಾಗಿಲ್ಲ)
+
+--- NOTE ---
+ಗಮನಿಸಿ: ಕೊಟ್ಟಿರುವ ಕೋಷ್ಟಕದಿಂದ, $\angle A$ ಅಳತೆಯು 0° ಯಿಂದ 90° ಹೆಚ್ಚಿದಂತೆಲ್ಲ sin A ಬೆಲೆಯು 0 ಯಿಂದ 1 ಕ್ಕೆ ಹೆಚ್ಚಾಗುತ್ತದೆ ಮತ್ತು cos A ಬೆಲೆಯು 1 ರಿಂದ 0 ಗೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.
+--- END NOTE ---
+
+ಕೋಷ್ಟಕದಲ್ಲಿನ ಬೆಲೆಗಳ ಉಪಯೋಗವನ್ನು ಈ ಕೆಳಗಿನ ಉದಾಹರಣೆಗಳಿಂದ ತಿಳಿಯೋಣ.
+
+--- EXAMPLE START ---
+Source: Class 10, Example 6
+Problem: ΔABC ಯಲ್ಲಿ, B ಶೃಂಗದಲ್ಲಿ ಲಂಬಕೋನ ಏರ್ಪಟ್ಟಿದೆ. AB = 5cm ಮತ್ತು $\angle ACB = 30^\circ$ (ಚಿತ್ರ 8.19 ನೋಡಿ) BC ಮತ್ತು AC ಬಾಹುಗಳ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+ಪರಿಹಾರ: BC ಯ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು BC ಮತ್ತು ದತ್ತ AB ಯನ್ನು ಒಳಗೊಂಡ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತವನ್ನು ಪರಿಗಣಿಸೋಣ. $\angle C$ ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು BC ಮತ್ತು $\angle C$ ಗೆ ಅಭಿಮುಖ ಬಾಹು AB ಆದ್ದರಿಂದ,
+
+--- FIGURE ---
+Description: A right-angled triangle ABC, with the right angle at B.
+Labels: A, B, C. Side AB is 5 cm. Angle ACB is 30°. The figure is labeled "ಚಿತ್ರ 8.19".
+--- END FIGURE ---
+
+$\frac{AB}{BC} = \tan C$
+ಅಂದರೆ, $\frac{5}{BC} = \tan 30^\circ = \frac{1}{\sqrt{3}}$
+$\therefore BC = 5\sqrt{3}$cm
+ಈಗ, AC ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.
+$\sin 30^\circ = \frac{AB}{AC}$ (ಏಕೆ?)
+ಅಂದರೆ, $\frac{1}{2} = \frac{5}{AC}$
+ಅಂದರೆ, $AC = 10$cm
+ಮೇಲಿನ ಉದಾಹರಣೆಯಲ್ಲಿ ಮೂರನೇ ಬಾಹುವಿನ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಪರ್ಯಾಯವಾಗಿ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಬಳಸಬಹುದು.
+ಅಂದರೆ, $AC = \sqrt{AB^2 + BC^2} = \sqrt{5^2 + (5\sqrt{3})^2} \text{cm} = \sqrt{25 + 75} \text{cm} = \sqrt{100} \text{cm} = 10 \text{cm}$
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 7
+Problem: ΔPQR ನಲ್ಲಿ, $\angle Q = 90^\circ$, PQ (8.20 ಚಿತ್ರ) = 3cm, ಮತ್ತು PR = 6cm. $\angle QPR$ ಮತ್ತು $\angle PRQ$ ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+ಪರಿಹಾರ: ದತ್ತ: PQ = 3cm, ಮತ್ತು PR = 6cm
+
+--- FIGURE ---
+Description: A right-angled triangle PQR, with the right angle at Q.
+Labels: P, Q, R. Side PQ is 3 cm. Hypotenuse PR is 6 cm. The figure is labeled "ಚಿತ್ರ 8.20".
+--- END FIGURE ---
+
+$\therefore \frac{PQ}{PR} = \sin R$
+ಅಥವಾ $\sin R = \frac{3}{6} = \frac{1}{2}$
+ಆದ್ದರಿಂದ $\angle PRQ = 30^\circ$ ಮತ್ತು $\angle QPR = 60^\circ$ (ಏಕೆ?)
+ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಒಂದು ಬಾಹು ಮತ್ತು ಯಾವುದಾದರೂ ಒಂದು ಭಾಗ (ಲಘು ಕೋನ ಅಥವಾ ಯಾವುದಾದರೂ ಬಾಹು) ತಿಳಿದಿದ್ದರೆ ಉಳಿದ ಬಾಹುಗಳು ಮತ್ತು ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದೆಂಬುದನ್ನು ನೀವು ಗಮನಿಸಿರಬಹುದು.
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 8
+Problem: $\sin (A - B) = \frac{1}{2}$, $\cos (A + B) = \frac{1}{2}$, $0^\circ < A + B \leq 90^\circ$, $A > B$ ಆಗಿದ್ದರೆ, A ಮತ್ತು B ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+ಪರಿಹಾರ: $\sin (A - B) = \frac{1}{2}$ ಆದ್ದರಿಂದ, $A - B = 30^\circ$ (ಏಕೆ?) (1)
+ಹಾಗೆಯೇ $\cos (A + B) = \frac{1}{2}$ ಆದ್ದರಿಂದ, $A + B = 60^\circ$ (ಏಕೆ?) (2)
+(1) ಮತ್ತು (2) ನ್ನು ಸಂಕ್ಷೇಪಿಸಿದಾಗ,
+$2A = 90^\circ \implies A = 45^\circ$
+$A = 45^\circ$ ಮತ್ತು $B = 15^\circ$ ದೊರೆಯುತ್ತದೆ.
+--- EXAMPLE END ---
+
+## 8.4 ತ್ರಿಕೋನಮಿತಿ ನಿತ್ಯಸಮೀಕರಣಗಳು
+
+ಚರಾಕ್ಷರಗಳ ಎಲ್ಲಾ ಬೆಲೆಗಳಿಗೆ ಒಂದು ಸಮೀಕರಣವು ಸತ್ಯವಾದರೆ ಅದನ್ನು ನಿತ್ಯಸಮೀಕರಣ ಎನ್ನುತ್ತೇವೆ ಎಂಬುದನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಿ, ಹಾಗೆಯೇ ಒಂದು ಕೋನದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಹೊಂದಿರುವ ಸಮೀಕರಣವು ಕೋನದ ಎಲ್ಲಾ ಅಳತೆಗಳಿಗೆ ಸತ್ಯವಾಗಿದ್ದರೆ, ತ್ರಿಕೋನಮಿತಿ ನಿತ್ಯಸಮೀಕರಣ ಎಂದು ಕರೆಯುತ್ತೇವೆ.
+
+--- FIGURE ---
+Description: A right-angled triangle ABC, with the right angle at B.
+Labels: A, B, C. The figure is labeled "ಚಿತ್ರ 8.21".
+--- END FIGURE ---
+
+ಈ ವಿಭಾಗದಲ್ಲಿ ಒಂದು ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತವನ್ನು ಸಾಧಿಸಿ. ಮುಂದಿನ ಇನ್ನುಳಿದ ತ್ರಿಕೋನಮಿತಿ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಸಾಧಿಸಲು ಬಳಸೋಣ.
+ΔABC ಯಲ್ಲಿ, $\angle B = 90^\circ$ (ಚಿತ್ರ 8.21 ನೋಡಿ)
+$AB^2 + BC^2 = AC^2$ (1)
+(1) ರ ಪ್ರತಿ ಪದವನ್ನು $AC^2$ನಿಂದ ಭಾಗಿಸಿದಾಗ
+$\frac{AB^2}{AC^2} + \frac{BC^2}{AC^2} = \frac{AC^2}{AC^2}$
+ಅಂದರೆ $(\frac{AB}{AC})^2 + (\frac{BC}{AC})^2 = (\frac{AC}{AC})^2$
+ಅಂದರೆ $(\cos A)^2 + (\sin A)^2 = 1$
+ಅಂದರೆ, $\cos^2 A + \sin^2 A = 1$ (2)
+ಇದು $0^\circ \leq A \leq 90^\circ$ ಆಗುವಂತೆ A ದ ಎಲ್ಲಾ ಬೆಲೆಗಳಿಗೂ ನಿಜವಾಗಿದೆ. ಆದ್ದರಿಂದ ಇದು ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣ. ಈಗ ನಾವು (1) ನ್ನು $AB^2$ ನಿಂದ ಭಾಗಿಸೋಣ.
+$\frac{AB^2}{AB^2} + \frac{BC^2}{AB^2} = \frac{AC^2}{AB^2}$
+ಅಥವಾ $(\frac{AB}{AB})^2 + (\frac{BC}{AB})^2 = (\frac{AC}{AB})^2$
+ಅಂದರೆ $1 + \tan^2 A = \sec^2 A$ (3)
+ಈ ಸಮೀಕರಣವು A = 0° ಗೆ ನಿಜವೇ? ಹೌದು, ಆಗಿದೆ. ಹಾಗಾದರೆ A = 90° ಏನು? ಆಗಲಿ, tan A ಮತ್ತು sec A, A = 90° ಗೆ ನಿರ್ದಿಷ್ಟವಾಗಿ ವ್ಯಕ್ತಪಡಿಸಿಲ್ಲ. ಆದ್ದರಿಂದ $0^\circ \leq A < 90^\circ$ ಆಗುವಂತೆ Aದ ಎಲ್ಲಾ ಬೆಲೆಗಳಿಗೂ ನಿಜವಾಗಿದೆ. ಈಗ ನಾವು (1) ನ್ನು $BC^2$ನಿಂದ ಭಾಗಿಸೋಣ.
+$\frac{AB^2}{BC^2} + \frac{BC^2}{BC^2} = \frac{AC^2}{BC^2}$
+ಅಂದರೆ $(\frac{AB}{BC})^2 + (\frac{BC}{BC})^2 = (\frac{AC}{BC})^2$
+ಅಂದರೆ $\cot^2 A + 1 = \cosec^2 A$ (4)
+A = 0°ಗೆ cosec A ಮತ್ತು cot A ನಿರ್ದಿಷ್ಟವಾಗಿ ವ್ಯಕ್ತಪಡಿಸಿಲ್ಲ ಎಂಬುದನ್ನು ಗಮನಿಸಿ. ಆದ್ದರಿಂದ $0^\circ < A \leq 90^\circ$ ಆಗುವಂತೆ ಕೋನ A ದ ಎಲ್ಲಾ ಬೆಲೆಗಳಿಗೆ (4) ನಿಜವಾಗಿದೆ.
+
+ಈ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ, ಪ್ರತಿ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತವನ್ನು ಮತ್ತೊಂದು ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಅಂದರೆ ಯಾವುದಾದರೂ ಒಂದು ಅನುಪಾತ ತಿಳಿದಿದ್ದರೇ, ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಲೆಕ್ಕಿಸಬಹುದು.
+
+ಈಗ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಇದನ್ನು ಹೇಗೆ ಮಾಡುವುದೆಂದು ನೋಡೋಣ.
+$\tan A = \frac{1}{\sqrt{3}}$ ಎಂದು ಭಾವಿಸೋಣ
+ಆಗ $\cot A = \sqrt{3}$
+$\sec^2 A = 1 + \tan^2 A$ ಆದ್ದರಿಂದ,
+$= 1 + \frac{1}{3} = \frac{4}{3}$
+$\sec A = \frac{2}{\sqrt{3}}$ ಮತ್ತು $\cos A = \frac{\sqrt{3}}{2}$
+ಮತ್ತು $\sin A = \sqrt{1 - \cos^2 A} = \sqrt{1 - \frac{3}{4}} = \sqrt{\frac{1}{4}} = \frac{1}{2}$
+$\therefore \cosec A = 2$
+
+--- EXAMPLE START ---
+Source: Class 10, Example 9
+Problem: cos A, tan A ಮತ್ತು sec A ಅನುಪಾತಗಳನ್ನು sin A ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿ.
+Solution:
+ಪರಿಹಾರ: $\cos^2 A + \sin^2 A = 1$ ಆಗಿರುವುದರಿಂದ,
+$\cos^2 A = 1 - \sin^2 A$ ಅಂದರೆ, $\cos A = \pm\sqrt{1 - \sin^2 A}$
+$\cos A = \sqrt{1 - \sin^2 A}$ (ಏಕೆ?)
+ಆದ್ದರಿಂದ $\tan A = \frac{\sin A}{\cos A} = \frac{\sin A}{\sqrt{1 - \sin^2 A}}$
+ಮತ್ತು $\sec A = \frac{1}{\cos A} = \frac{1}{\sqrt{1 - \sin^2 A}}$
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 10
+Problem: $\sec A (1 - \sin A)(\sec A + \tan A) = 1$ ಎಂದು ಸಾಧಿಸಿ.
+Solution:
+ಪರಿಹಾರ:
+ಎಡಭಾಗ = $\sec A (1 - \sin A)(\sec A + \tan A)$
+$= (\frac{1}{\cos A})(1 - \sin A)(\frac{1}{\cos A} + \frac{\sin A}{\cos A})$
+$= \frac{(1 - \sin A)(1 + \sin A)}{\cos^2 A} = \frac{1 - \sin^2 A}{\cos^2 A}$
+$= \frac{\cos^2 A}{\cos^2 A} = 1$ = ಬಲಭಾಗ
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 11
+Problem: $\frac{\cot A - \cos A}{\cot A + \cos A} = \frac{\cosec A - 1}{\cosec A + 1}$ ಎಂದು ಸಾಧಿಸಿ.
+Solution:
+ಪರಿಹಾರ:
+ಎಡಭಾಗ = $\frac{\cot A - \cos A}{\cot A + \cos A} = \frac{\frac{\cos A}{\sin A} - \cos A}{\frac{\cos A}{\sin A} + \cos A}$
+$= \frac{\cos A (\frac{1}{\sin A} - 1)}{\cos A (\frac{1}{\sin A} + 1)} = \frac{\frac{1}{\sin A} - 1}{\frac{1}{\sin A} + 1} = \frac{\cosec A - 1}{\cosec A + 1}$ = ಬಲಭಾಗ
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 12
+Problem: $\sec^2 \theta = 1 + \tan^2 \theta$ ಈ ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ, $\frac{\sin \theta - \cos \theta + 1}{\sin \theta + \cos \theta - 1} = \frac{1}{\sec \theta - \tan \theta}$ ಎಂದು ಸಾಧಿಸಿ.
+Solution:
+ಪರಿಹಾರ: sect ಮತ್ತು tanθ ಇರುವಂತಹ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಅನ್ವಯಿಸುವುದರಿಂದ, ಎಡಭಾಗದ (ಸಾಧಿಸಬೇಕಾದ ನಿತ್ಯ ಸಮೀಕರಣ) ಅಂಶ ಮತ್ತು ಛೇದಗಳೆರಡನ್ನು cosθ ದಿಂದ ಭಾಗಿಸುವುದರಿಂದ ಅದನ್ನು secθ ಮತ್ತು tanθ ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸೋಣ.
+ಎಡಭಾಗ = $\frac{\sin \theta - \cos \theta + 1}{\sin \theta + \cos \theta - 1} = \frac{\tan \theta - 1 + \sec \theta}{\tan \theta + 1 - \sec \theta}$
+$= \frac{(\tan \theta + \sec \theta) - 1}{(\tan \theta - \sec \theta) + 1}$
+ಛೇದದಲ್ಲಿ $1 = \sec^2 \theta - \tan^2 \theta$ ಎಂದು ಆದೇಶಿಸಿದಾಗ,
+ಛೇದ = $(\tan \theta - \sec \theta) + (\sec^2 \theta - \tan^2 \theta)$
+$= (\tan \theta - \sec \theta) + (\sec \theta - \tan \theta)(\sec \theta + \tan \theta)$
+$= -(\sec \theta - \tan \theta) + (\sec \theta - \tan \theta)(\sec \theta + \tan \theta)$
+$= (\sec \theta - \tan \theta) [-1 + (\sec \theta + \tan \theta)]$
+$= (\sec \theta - \tan \theta) (\sec \theta + \tan \theta - 1)$
+ಆದ್ದರಿಂದ, ಎಡಭಾಗ = $\frac{\sec \theta + \tan \theta - 1}{(\sec \theta - \tan \theta)(\sec \theta + \tan \theta - 1)}$
+$= \frac{1}{\sec \theta - \tan \theta}$ = ಬಲಭಾಗ
+--- EXAMPLE END ---
+
+## 8.5 ಸಾರಾಂಶ
+
+ಈ ಅಧ್ಯಾಯದಲ್ಲಿ ನೀವು ಈ ಕೆಳಕಂಡ ಅಂಶಗಳನ್ನು ಕಲಿತಿದ್ದೀರಿ.
+1.  ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ $\angle B = 90^\circ$
+    $\sin A = \frac{\text{A ಗೆ ಅಭಿಮುಖ ಬಾಹು}}{\text{ವಿಕರ್ಣ}}$
+    $\cos A = \frac{\text{A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು}}{\text{ವಿಕರ್ಣ}}$
+    $\tan A = \frac{\text{A ಗೆ ಅಭಿಮುಖ ಬಾಹು}}{\text{A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು}}$
+2.  $\cosec A = \frac{1}{\sin A}$; $\sec A = \frac{1}{\cos A}$; $\tan A = \frac{1}{\cot A}$; $\tan A = \frac{\sin A}{\cos A}$
+3.  ಲಘುಕೋನದ ಒಂದು ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳು ತಿಳಿದಿದ್ದರೆ ಆ ಕೋನದ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ನಿರ್ಧರಿಸಬಹುದು.
+4.  0°, 30°, 45°, 60° ಮತ್ತು 90° ಗೆ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತದ ಬೆಲೆಗಳು.
+5.  sin A ಅಥವಾ cos A ಬೆಲೆಯು 1 ಕ್ಕಿಂತ ಹೆಚ್ಚಾಗುವುದಿಲ್ಲ ಆದರೆ, sec A ಅಥವಾ cosec A ಬೆಲೆಯು ಯಾವಾಗಲು 1 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಥವಾ 1 ಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ.
+6.  $\sin^2 A + \cos^2 A = 1$,
+    $\sec^2 A - \tan^2 A = 1$, $0^\circ \leq A < 90^\circ$
+    $\cosec^2 A = 1 + \cot^2 A$, $0^\circ < A \leq 90^\circ$

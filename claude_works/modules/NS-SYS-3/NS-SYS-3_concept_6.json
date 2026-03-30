@@ -1,0 +1,134 @@
+{
+  "module_id": "NS-SYS-3_concept_6",
+  "module_title": "ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳಿಗೆ ಘಾತಾಂಕಗಳ ನಿಯಮಗಳು (Laws of Exponents for Real Numbers)",
+  "class": "9",
+  "chapter": "1",
+  "chapter_title": "ಸಂಖ್ಯಾ ಪದ್ಧತಿ",
+  "domain": "Number System & Arithmetic Foundations",
+  "prerequisites": [
+    "NS-SYS-3_concept_1",
+    "NS-SYS-3_concept_2",
+    "NS-SYS-3_concept_3",
+    "NS-SYS-3_concept_4",
+    "NS-SYS-3_concept_5"
+  ],
+  "theory": {
+    "concept_summary": "ಈ ಅವಧಾರಣೆಯು ಪೂರ್ಣಾಂಕ ಘಾತಸೂಚಿಗಳಿಗೆ ಅನ್ವಯವಾಗುವ ಘಾತಾಂಕಗಳ ನಿಯಮಗಳನ್ನು ಭಾಗಲಬ್ಧ ಘಾತಸೂಚಿಗಳಿಗೂ ವಿಸ್ತರಿಸುತ್ತದೆ. $a^0$, $a^{-n}$, ಮತ್ತು $a^{p/q}$ ನಂತಹ ಪದಗಳ ಅರ್ಥವನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತದೆ ಮತ್ತು ಅವುಗಳನ್ನು ಬಳಸಿ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಸಂಕ್ಷೇಪಿಸುವ ವಿಧಾನಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ಘಾತಾಂಕದ ವ್ಯಾಖ್ಯೆಗಳು (Definitions of Exponents)",
+        "definition": "a > 0 ಒಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆ, m ಮತ್ತು n ಗಳು ಪೂರ್ಣಾಂಕಗಳು, n > 0 ಆಗಿರಲಿ."
+      },
+      {
+        "term": "$a^0$",
+        "definition": "$a^0 = 1$"
+      },
+      {
+        "term": "$a^{-n}$",
+        "definition": "$a^{-n} = \\frac{1}{a^n}$"
+      },
+      {
+        "term": "$a^{\\frac{1}{n}}$",
+        "definition": "$a^{\\frac{1}{n}} = \\sqrt[n]{a}$ (a ಯ n ನೇ ಮೂಲ)"
+      },
+      {
+        "term": "$a^{\\frac{m}{n}}$",
+        "definition": "$a^{\\frac{m}{n}} = (\\sqrt[n]{a})^m = \\sqrt[n]{a^m}$"
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Product Rule",
+        "latex": "a^p \\cdot a^q = a^{p+q}",
+        "condition": "a > 0 ಒಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆ ಮತ್ತು p, q ಗಳು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Power of a Power Rule",
+        "latex": "(a^p)^q = a^{pq}",
+        "condition": "a > 0 ಒಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆ ಮತ್ತು p, q ಗಳು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Quotient Rule",
+        "latex": "\\frac{a^p}{a^q} = a^{p-q}",
+        "condition": "a > 0 ಒಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆ ಮತ್ತು p, q ಗಳು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Power of a Product Rule",
+        "latex": "a^p b^p = (ab)^p",
+        "condition": "a,b > 0 ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳು ಮತ್ತು p ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "NS-SYS-3_example_20",
+      "difficulty": "intermediate",
+      "problem": "ಸಂಕ್ಷೇಪಿಸಿ: (i) $2^{\\frac{2}{3}} \\cdot 2^{\\frac{1}{3}}$ (ii) $(3^{\\frac{1}{5}})^4$ (iii) $\\frac{7^{\\frac{1}{5}}}{7^{\\frac{1}{3}}}$ (iv) $13^{\\frac{1}{5}} \\cdot 17^{\\frac{1}{5}}$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "(i) ನ್ನು ಸಂಕ್ಷೇಪಿಸುವುದು.",
+          "justification": "Product Rule: $a^p \\cdot a^q = a^{p+q}$",
+          "calculation": "$2^{\\frac{2}{3}} \\cdot 2^{\\frac{1}{3}} = 2^{(\\frac{2}{3} + \\frac{1}{3})} = 2^{\\frac{3}{3}} = 2^1 = 2$"
+        },
+        {
+          "step": 2,
+          "action": "(ii) ನ್ನು ಸಂಕ್ಷೇಪಿಸುವುದು.",
+          "justification": "Power of a Power Rule: $(a^p)^q = a^{pq}$",
+          "calculation": "$(3^{\\frac{1}{5}})^4 = 3^{\\frac{1}{5} \\times 4} = 3^{\\frac{4}{5}}$"
+        },
+        {
+          "step": 3,
+          "action": "(iii) ನ್ನು ಸಂಕ್ಷೇಪಿಸುವುದು.",
+          "justification": "Quotient Rule: $\\frac{a^p}{a^q} = a^{p-q}$",
+          "calculation": "$\\frac{7^{\\frac{1}{5}}}{7^{\\frac{1}{3}}} = 7^{(\\frac{1}{5} - \\frac{1}{3})} = 7^{(\\frac{3-5}{15})} = 7^{\\frac{-2}{15}}$"
+        },
+        {
+          "step": 4,
+          "action": "(iv) ನ್ನು ಸಂಕ್ಷೇಪಿಸುವುದು.",
+          "justification": "Power of a Product Rule: $a^p b^p = (ab)^p$",
+          "calculation": "$13^{\\frac{1}{5}} \\cdot 17^{\\frac{1}{5}} = (13 \\times 17)^{\\frac{1}{5}} = (221)^{\\frac{1}{5}}$"
+        }
+      ],
+      "result": "(i) 2\n(ii) $3^{\\frac{4}{5}}$\n(iii) $7^{\\frac{-2}{15}}$\n(iv) $(221)^{\\frac{1}{5}}$",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "$16^{\\frac{3}{4}}$ ರ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು.",
+    "two_mark_note": "$(125)^{\\frac{-1}{3}}$ ರ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "five_mark_note": "ಸಂಕ್ಷೇಪಿಸಿ: $\\frac{9^{\\frac{1}{3}} \\times 27^{-\\frac{1}{2}}}{3^{\\frac{1}{6}} \\times 3^{-\\frac{2}{3}}}$",
+    "common_mistakes": [
+      "ಭಿನ್ನರಾಶಿ ಘಾತಸೂಚಿಗಳನ್ನು ಕೂಡಿಸುವಾಗ ಅಥವಾ ಕಳೆಯುವಾಗ ಲ.ಸಾ.ಅ. (LCM) ಕಂಡುಹಿಡಿಯುವಲ್ಲಿ ತಪ್ಪು ಮಾಡುವುದು.",
+      "ಋಣಾತ್ಮಕ ಘಾತಸೂಚಿಗಳನ್ನು ನಿರ್ವಹಿಸುವಲ್ಲಿ ಗೊಂದಲ."
+    ],
+    "boundary_conditions": [
+      "ಘಾತಾಂಕಗಳ ನಿಯಮಗಳನ್ನು ಬಳಸುವಾಗ ಆಧಾರ (base) ಧನ ಸಂಖ್ಯೆಯಾಗಿರಬೇಕು (a > 0)."
+    ],
+    "connects_to": [
+      "ಘಾತೀಯ ಮತ್ತು ಲಘುಗಣಕ फलನಗಳು (Exponential and Logarithmic functions)",
+      "ವೈಜ್ಞಾನಿಕ ಸಂಕೇತ (Scientific Notation)",
+      "ಉನ್ನತ ಬೀಜಗಣಿತ"
+    ]
+  }
+}

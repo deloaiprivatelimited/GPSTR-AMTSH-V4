@@ -1,0 +1,188 @@
+{
+  "module_id": "class8_math_ch12_concept_4",
+  "module_title": "ನಿತ್ಯ ಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಅಪವರ್ತಿಸುವಿಕೆ",
+  "class": "8",
+  "chapter": "12",
+  "chapter_title": "ಅಪವರ್ತಿಸುವಿಕೆ",
+  "domain": "ಬೀಜಗಣಿತ",
+  "prerequisites": [
+    "class8_math_ch12_concept_1",
+    "class8_math_ch12_concept_2",
+    "class8_math_ch12_concept_3"
+  ],
+  "theory": {
+    "concept_summary": "ನಿತ್ಯ ಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಅಪವರ್ತಿಸುವಿಕೆ ಎಂದರೆ, ಪ್ರಮಾಣಿತ ನಿತ್ಯ ಸಮೀಕರಣಗಳ ರೂಪದಲ್ಲಿರುವ ಬೀಜೋಕ್ತಿಗಳನ್ನು ಗುರುತಿಸಿ, ಅವುಗಳನ್ನು ನೇರವಾಗಿ ಅಪವರ್ತಿಸುವುದು. ಈ ವಿಧಾನವು ಬೀಜೋಕ್ತಿಯ ರಚನೆಯನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ಪೂರ್ಣ ವರ್ಗ ತ್ರಿಪದ, ಎರಡು ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸ ಮತ್ತು ಸಾಮಾನ್ಯ ತ್ರಿಪದಗಳನ್ನು ಅಪವರ್ತಿಸಲು ಇದು ಸಹಾಯಕವಾಗಿದೆ.",
+    "definitions": [
+      {
+        "term": "ನಿತ್ಯ ಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಅಪವರ್ತಿಸುವಿಕೆ",
+        "definition": "ಪ್ರಮಾಣಿತ ನಿತ್ಯ ಸಮೀಕರಣಗಳ ರೂಪದಲ್ಲಿರುವ ಬೀಜೋಕ್ತಿಗಳನ್ನು ಗುರುತಿಸಿ, ನಿತ್ಯ ಸಮೀಕರಣದ ಎಡಭಾಗವನ್ನು ಬಳಸಿ ನೇರವಾಗಿ ಅಪವರ್ತಿಸುವ ವಿಧಾನ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Identity I",
+        "latex": "(a+b)^2 = a^2 + 2ab + b^2",
+        "condition": "None",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Perfect square trinomial factorisation (positive middle term)"
+      },
+      {
+        "formula_name": "Identity II",
+        "latex": "(a-b)^2 = a^2 - 2ab + b^2",
+        "condition": "None",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Perfect square trinomial factorisation (negative middle term)"
+      },
+      {
+        "formula_name": "Identity III",
+        "latex": "a^2 - b^2 = (a+b)(a-b)",
+        "condition": "None",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Difference of two squares factorisation"
+      },
+      {
+        "formula_name": "Identity IV",
+        "latex": "(x+a)(x+b) = x^2 + (a+b)x + ab",
+        "condition": "None",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Factorisation of general trinomials by splitting the middle term"
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class8_math_ch12_example_6",
+      "difficulty": "basic",
+      "problem": "`x² + 8x + 16` ನ್ನು ಅಪವರ್ತಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬೀಜೋಕ್ತಿಯ ರಚನೆಯನ್ನು ಗಮನಿಸಿ. ಇದು ಮೂರು ಪದಗಳನ್ನು ಹೊಂದಿದೆ.",
+          "justification": "ಇದು `a² + 2ab + b²` ರೂಪದಲ್ಲಿರಬಹುದು."
+        },
+        {
+          "step": 2,
+          "action": "ಮೊದಲ ಮತ್ತು ಕೊನೆಯ ಪದಗಳು ಪೂರ್ಣ ವರ್ಗಗಳೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ.",
+          "justification": "`x² = (x)²` ಮತ್ತು `16 = (4)²`. ಆದ್ದರಿಂದ `a=x` ಮತ್ತು `b=4` ಇರಬಹುದು."
+        },
+        {
+          "step": 3,
+          "action": "ಮಧ್ಯದ ಪದವು `2ab` ಗೆ ಸಮನಾಗಿದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ.",
+          "justification": "`2ab = 2 × x × 4 = 8x`. ಇದು ಮಧ್ಯದ ಪದಕ್ಕೆ ಸಮನಾಗಿದೆ."
+        },
+        {
+          "step": 4,
+          "action": "ನಿತ್ಯ ಸಮೀಕರಣ I, `(a+b)² = a² + 2ab + b²`, ನ್ನು ಅನ್ವಯಿಸಿ.",
+          "justification": "None"
+        }
+      ],
+      "result": "ಅಪವರ್ತಿಸಿದ ರೂಪ: `(x + 4)²`.",
+      "common_trap": null
+    },
+    {
+      "example_id": "class8_math_ch12_example_7",
+      "difficulty": "basic",
+      "problem": "`49p² - 36` ನ್ನು ಅಪವರ್ತಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬೀಜೋಕ್ತಿಯು ಎರಡು ಪದಗಳನ್ನು ಹೊಂದಿದೆ ಮತ್ತು ಅವುಗಳ ನಡುವೆ ಋಣ ಚಿಹ್ನೆ ಇದೆ.",
+          "justification": "ಇದು `a² - b²` ರೂಪದಲ್ಲಿರಬಹುದು."
+        },
+        {
+          "step": 2,
+          "action": "ಪ್ರತಿ ಪದವು ಪೂರ್ಣ ವರ್ಗವೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ.",
+          "justification": "`49p² = (7p)²` ಮತ್ತು `36 = (6)²`. ಆದ್ದರಿಂದ `a=7p` ಮತ್ತು `b=6`."
+        },
+        {
+          "step": 3,
+          "action": "ನಿತ್ಯ ಸಮೀಕರಣ III, `a² - b² = (a+b)(a-b)`, ನ್ನು ಅನ್ವಯಿಸಿ.",
+          "justification": "None"
+        }
+      ],
+      "result": "ಅಪವರ್ತಿಸಿದ ರೂಪ: `(7p + 6)(7p - 6)`.",
+      "common_trap": null
+    },
+    {
+      "example_id": "class8_math_ch12_example_8",
+      "difficulty": "advanced",
+      "problem": "`m⁴ - 256` ನ್ನು ಅಪವರ್ತಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬೀಜೋಕ್ತಿಯನ್ನು `a² - b²` ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ.",
+          "justification": "`m⁴ = (m²)²` ಮತ್ತು `256 = (16)²`."
+        },
+        {
+          "step": 2,
+          "action": "ನಿತ್ಯ ಸಮೀಕರಣ III ನ್ನು ಅನ್ವಯಿಸಿ.",
+          "justification": "None"
+        },
+        {
+          "step": 3,
+          "action": "ಫಲಿತಾಂಶದಲ್ಲಿನ `(m² - 16)` ಪದವನ್ನು ಗಮನಿಸಿ. ಇದು ಮತ್ತೆ `a² - b²` ರೂಪದಲ್ಲಿದೆ.",
+          "justification": "`m² = (m)²` ಮತ್ತು `16 = (4)²`."
+        },
+        {
+          "step": 4,
+          "action": "`m² - 16` ಕ್ಕೆ ನಿತ್ಯ ಸಮೀಕರಣ III ನ್ನು ಪುನಃ ಅನ್ವಯಿಸಿ.",
+          "justification": "None"
+        },
+        {
+          "step": 5,
+          "action": "ಎಲ್ಲಾ ಅಪವರ್ತನಗಳನ್ನು ಒಟ್ಟಿಗೆ ಸೇರಿಸಿ. `(m² + 16)` ನ್ನು ಮತ್ತಷ್ಟು ಅಪವರ್ತಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ (ನೈಜ ಸಂಖ್ಯೆಗಳಲ್ಲಿ).",
+          "justification": "None"
+        }
+      ],
+      "result": "ಅಪವರ್ತಿಸಿದ ರೂಪ: `(m - 4)(m + 4)(m² + 16)`.",
+      "common_trap": null
+    },
+    {
+      "example_id": "class8_math_ch12_example_9",
+      "difficulty": "intermediate",
+      "problem": "`z² - 4z - 12` ನ್ನು ಅಪವರ್ತಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬೀಜೋಕ್ತಿಯನ್ನು `x² + (a+b)x + ab` ರೂಪದೊಂದಿಗೆ ಹೋಲಿಸಿ.",
+          "justification": "ಇಲ್ಲಿ `x=z`, `a+b = -4` ಮತ್ತು `ab = -12` ಆಗಿರಬೇಕು."
+        },
+        {
+          "step": 2,
+          "action": "ಗುಣಲಬ್ಧ `-12` ಮತ್ತು ಮೊತ್ತ `-4` ಆಗುವ ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು (`a` ಮತ್ತು `b`) ಹುಡುಕಿ.",
+          "justification": "ಗುಣಲಬ್ಧ ಋಣಾತ್ಮಕವಾಗಿರುವುದರಿಂದ, ಒಂದು ಸಂಖ್ಯೆ ಧನ ಮತ್ತು ಇನ್ನೊಂದು ಋಣ ಆಗಿರಬೇಕು. ಮೊತ್ತ ಋಣಾತ್ಮಕವಾಗಿರುವುದರಿಂದ, ದೊಡ್ಡ ಸಂಖ್ಯೆ ಋಣಾತ್ಮಕವಾಗಿರುತ್ತದೆ. `-6` ಮತ್ತು `+2` ಈ ಷರತ್ತುಗಳನ್ನು ಪೂರೈಸುತ್ತವೆ (`-6 × 2 = -12` ಮತ್ತು `-6 + 2 = -4`)."
+        },
+        {
+          "step": 3,
+          "action": "ಮಧ್ಯದ ಪದ `-4z` ನ್ನು `-6z + 2z` ಎಂದು ವಿಭಜಿಸಿ ಬರೆಯಿರಿ.",
+          "justification": "None"
+        },
+        {
+          "step": 4,
+          "action": "ಮರುಗುಂಪು ಮಾಡುವ ವಿಧಾನವನ್ನು ಬಳಸಿ ಅಪವರ್ತಿಸಿ.",
+          "justification": "None"
+        }
+      ],
+      "result": "ಅಪವರ್ತಿಸಿದ ರೂಪ: `(z - 6)(z + 2)`.",
+      "common_trap": null
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಒಂದು ಬೀಜೋಕ್ತಿ ಯಾವ ನಿತ್ಯ ಸಮೀಕರಣವನ್ನು ಹೋಲುತ್ತದೆ ಎಂದು ಗುರುತಿಸಲು ಕೇಳಬಹುದು.",
+    "two_mark_note": "ನಿತ್ಯ ಸಮೀಕರಣ ಬಳಸಿ ತ್ರಿಪದ ಅಥವಾ ದ್ವಿಪದವನ್ನು ಅಪವರ್ತಿಸಲು ಕೇಳಬಹುದು.",
+    "five_mark_note": "`a² - 2ab + b² - c²` ಅಥವಾ `m⁴ - 256` ನಂತಹ ಬಹು-ಹಂತದ ಅಪವರ್ತಿಸುವಿಕೆ ಪ್ರಶ್ನೆಗಳು.",
+    "common_mistakes": [
+      "`a² + b²` ಗೆ ಯಾವುದೇ ಅಪವರ್ತನ ಸೂತ್ರವಿಲ್ಲ ಎಂದು ಮರೆಯುವುದು. `a² - b²` ಮಾತ್ರ ಅಪವರ್ತಿಸಬಹುದು. ಹಾಗೆಯೇ, `(a-b)²` ನ್ನು `a² - b²` ಎಂದು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

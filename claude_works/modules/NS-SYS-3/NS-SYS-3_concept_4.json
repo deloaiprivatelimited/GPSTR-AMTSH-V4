@@ -1,0 +1,278 @@
+{
+  "module_id": "NS-SYS-3_concept_4",
+  "module_title": "ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳ ಮೇಲಿನ ಕ್ರಿಯೆಗಳು ಮತ್ತು ಕರಣಿಗಳು (Operations on Real Numbers and Surds)",
+  "class": "9",
+  "chapter": "1",
+  "chapter_title": "ಸಂಖ್ಯಾ ಪದ್ಧತಿ",
+  "domain": "Number System & Arithmetic Foundations",
+  "prerequisites": [
+    "NS-SYS-3_concept_1",
+    "NS-SYS-3_concept_2",
+    "NS-SYS-3_concept_3"
+  ],
+  "theory": {
+    "concept_summary": "ಈ ಅವಧಾರಣೆಯು ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳ (ಭಾಗಲಬ್ಧ ಮತ್ತು ಅಭಾಗಲಬ್ಧ) ಸಂಕಲನ, ವ್ಯವಕಲನ, ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರದ ನಿಯಮಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ. ಕರಣಿಗಳನ್ನು (Surds) ಒಳಗೊಂಡಿರುವ ಪದಗಳನ್ನು ಹೇಗೆ ಸಂಕ್ಷೇಪಿಸುವುದು ಮತ್ತು ಅವುಗಳ ಮೇಲಿನ ಕ್ರಿಯೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ನಿತ್ಯ ಸಮೀಕರಣಗಳನ್ನು ಇಲ್ಲಿ ಚರ್ಚಿಸಲಾಗಿದೆ. ಜೊತೆಗೆ, ಯಾವುದೇ ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆ x ಗೆ, √x ನ್ನು ಜ್ಯಾಮಿತೀಯವಾಗಿ ಹೇಗೆ ರಚಿಸುವುದು ಎಂಬುದನ್ನು ಸಹ ವಿವರಿಸಲಾಗಿದೆ.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "ಕರಣಿಗಳ ನಿತ್ಯ ಸಮೀಕರಣಗಳು (Identities for Surds)",
+        "latex": "\\sqrt{ab} = \\sqrt{a}\\sqrt{b}",
+        "condition": "a ಮತ್ತು b ಗಳು ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳು",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "ಕರಣಿಗಳ ನಿತ್ಯ ಸಮೀಕರಣಗಳು (Identities for Surds)",
+        "latex": "\\sqrt{\\frac{a}{b}} = \\frac{\\sqrt{a}}{\\sqrt{b}}",
+        "condition": "a ಮತ್ತು b ಗಳು ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳು",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "ಕರಣಿಗಳ ನಿತ್ಯ ಸಮೀಕರಣಗಳು (Identities for Surds)",
+        "latex": "(\\sqrt{a}+\\sqrt{b})(\\sqrt{a}-\\sqrt{b}) = a-b",
+        "condition": "a ಮತ್ತು b ಗಳು ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳು",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "ಕರಣಿಗಳ ನಿತ್ಯ ಸಮೀಕರಣಗಳು (Identities for Surds)",
+        "latex": "(a+\\sqrt{b})(a-\\sqrt{b}) = a^2-b",
+        "condition": "a ಮತ್ತು b ಗಳು ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳು",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "ಕರಣಿಗಳ ನಿತ್ಯ ಸಮೀಕರಣಗಳು (Identities for Surds)",
+        "latex": "(\\sqrt{a}+\\sqrt{b})(\\sqrt{c}+\\sqrt{d}) = \\sqrt{ac}+\\sqrt{ad}+\\sqrt{bc}+\\sqrt{bd}",
+        "condition": "a, b, c, d ಗಳು ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳು",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "ಕರಣಿಗಳ ನಿತ್ಯ ಸಮೀಕರಣಗಳು (Identities for Surds)",
+        "latex": "(\\sqrt{a}+\\sqrt{b})^2 = a+2\\sqrt{ab}+b",
+        "condition": "a ಮತ್ತು b ಗಳು ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳು",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      }
+    ],
+    "theorems": [],
+    "properties": [
+      "ಭಾಗಲಬ್ಧ + ಅಭಾಗಲಬ್ಧ = ಅಭಾಗಲಬ್ಧ",
+      "ಭಾಗಲಬ್ಧ - ಅಭಾಗಲಬ್ಧ = ಅಭಾಗಲಬ್ಧ",
+      "ಭಾಗಲಬ್ಧ (≠0) × ಅಭಾಗಲಬ್ಧ = ಅಭಾಗಲಬ್ಧ",
+      "ಭಾಗಲಬ್ಧ (≠0) ÷ ಅಭಾಗಲಬ್ಧ = ಅಭಾಗಲಬ್ಧ",
+      "ಅಭಾಗಲಬ್ಧ ± ಅಭಾಗಲಬ್ಧ = ಭಾಗಲಬ್ಧ ಅಥವಾ ಅಭಾಗಲಬ್ಧ (ಉದಾ: $\\sqrt{2}+(-\\sqrt{2})=0$ (ಭಾಗಲಬ್ಧ); $\\sqrt{2}+\\sqrt{3}$ (ಅಭಾಗಲಬ್ಧ))",
+      "ಅಭಾಗಲಬ್ಧ ×/÷ ಅಭಾಗಲಬ್ಧ = ಭಾಗಲಬ್ಧ ಅಥವಾ ಅಭಾಗಲಬ್ಧ (ಉದಾ: $\\sqrt{2} \\times \\sqrt{2} = 2$ (ಭಾಗಲಬ್ಧ); $\\sqrt{2} \\times \\sqrt{3} = \\sqrt{6}$ (ಅಭಾಗಲಬ್ಧ))"
+    ],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "description": "ಯಾವುದೇ ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆ x ಗೆ √x ನ್ನು ಜ್ಯಾಮಿತೀಯವಾಗಿ ರಚಿಸುವುದು: 1. AB = x ಏಕಮಾನಗಳ ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. 2. B ಯಿಂದ 1 ಏಕಮಾನ ದೂರದಲ್ಲಿ C ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ (BC=1). 3. AC ಯ ಮಧ್ಯಬಿಂದು O ವನ್ನು ಗುರುತಿಸಿ. 4. O ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು, OC ತ್ರಿಜ್ಯದೊಂದಿಗೆ ಅರ್ಧವೃತ್ತವನ್ನು ಎಳೆಯಿರಿ. 5. B ಬಿಂದುವಿನಲ್ಲಿ AC ಗೆ ಲಂಬವಾಗಿ, ಅರ್ಧವೃತ್ತವನ್ನು D ಯಲ್ಲಿ ಛೇದಿಸುವಂತೆ BD ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. BD ಯ ಉದ್ದವು √x ಆಗಿರುತ್ತದೆ.",
+        "labels": "A, B, C, O, D, x, 1, √x",
+        "mathematical_significance": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಬಳಸಿ ಯಾವುದೇ ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆಯ ವರ್ಗಮೂಲವನ್ನು ಜ್ಯಾಮಿತೀಯವಾಗಿ ನಿರೂಪಿಸಬಹುದು. ತ್ರಿಭುಜ OBD ಯಲ್ಲಿ, ತ್ರಿಜ್ಯ OD = (x+1)/2, OB = x - (x+1)/2 = (x-1)/2. ಆದ್ದರಿಂದ, BD² = OD² - OB² = (\\frac{x+1}{2})^2 - (\\frac{x-1}{2})^2 = \\frac{x^2+2x+1 - (x^2-2x+1)}{4} = \\frac{4x}{4} = x. ಹೀಗಾಗಿ BD = √x.",
+        "table_data": ""
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "NS-SYS-3_example_11",
+      "difficulty": "intermediate",
+      "problem": "7√5, 7/√5, √2 + 21, π - 2 ಇವು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳೇ, ಅಲ್ಲವೇ ಎಂಬುದನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ತಿಳಿದಿರುವ ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ದಶಮಾಂಶ ಬೆಲೆಗಳನ್ನು ಬಳಸುವುದು.",
+          "justification": "ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಆಧಾರವಾಗಿ.",
+          "calculation": "√5 = 2.236..., √2 = 1.4142..., π = 3.1415... ಇವೆಲ್ಲವೂ ಅಂತ್ಯಗೊಳ್ಳದ, ಆವರ್ತಕವಲ್ಲದ ದಶಮಾಂಶಗಳು."
+        },
+        {
+          "step": 2,
+          "action": "7√5 ರ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ಒಂದು ಭಾಗಲಬ್ಧ ಮತ್ತು ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯ ಗುಣಲಬ್ಧ.",
+          "calculation": "7√5 = 7 × 2.236... = 15.652... ಇದು ಅಂತ್ಯಗೊಳ್ಳದ, ಆವರ್ತಕವಲ್ಲದ ದಶಮಾಂಶ."
+        },
+        {
+          "step": 3,
+          "action": "7/√5 ರ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ಒಂದು ಭಾಗಲಬ್ಧ ಮತ್ತು ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯ ಭಾಗಲಬ್ಧ. ಮೊದಲು ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸುವುದು.",
+          "calculation": "\\frac{7}{\\sqrt{5}} = \\frac{7 \\times \\sqrt{5}}{\\sqrt{5} \\times \\sqrt{5}} = \\frac{7\\sqrt{5}}{5} = \\frac{15.652...}{5} = 3.1304... ಇದು ಅಂತ್ಯಗೊಳ್ಳದ, ಆವರ್ತಕವಲ್ಲದ ದಶಮಾಂಶ."
+        },
+        {
+          "step": 4,
+          "action": "√2 + 21 ರ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ಒಂದು ಅಭಾಗಲಬ್ಧ ಮತ್ತು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯ ಮೊತ್ತ.",
+          "calculation": "√2 + 21 = 1.4142... + 21 = 22.4142... ಇದು ಅಂತ್ಯಗೊಳ್ಳದ, ಆವರ್ತಕವಲ್ಲದ ದಶಮಾಂಶ."
+        },
+        {
+          "step": 5,
+          "action": "π - 2 ರ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ಒಂದು ಅಭಾಗಲಬ್ಧ ಮತ್ತು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯ ವ್ಯತ್ಯಾಸ.",
+          "calculation": "π - 2 = 3.1415... - 2 = 1.1415... ಇದು ಅಂತ್ಯಗೊಳ್ಳದ, ಆವರ್ತಕವಲ್ಲದ ದಶಮಾಂಶ."
+        }
+      ],
+      "result": "ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳು ಅಂತ್ಯಗೊಳ್ಳದ, ಆವರ್ತಕವಲ್ಲದ ದಶಮಾಂಶ ವಿಸ್ತರಣೆಯನ್ನು ಹೊಂದಿರುವುದರಿಂದ, ಅವು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳಾಗಿವೆ.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "NS-SYS-3_example_12",
+      "difficulty": "basic",
+      "problem": "$2\\sqrt{2}+5\\sqrt{3}$ ಮತ್ತು $\\sqrt{2}-3\\sqrt{3}$ ಇವುಗಳನ್ನು ಕೂಡಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಪದಗಳನ್ನು ಬರೆಯುವುದು.",
+          "justification": "ಸಂಕಲನ ಕ್ರಿಯೆಯನ್ನು ತೋರಿಸಲು.",
+          "calculation": "$(2\\sqrt{2}+5\\sqrt{3}) + (\\sqrt{2}-3\\sqrt{3})$"
+        },
+        {
+          "step": 2,
+          "action": "ಸಜಾತೀಯ ಕರಣಿಗಳನ್ನು (like surds) ಗುಂಪು ಮಾಡುವುದು.",
+          "justification": "ಸಜಾತೀಯ ಕರಣಿಗಳನ್ನು ಮಾತ್ರ ಕೂಡಿಸಬಹುದು ಅಥವಾ ಕಳೆಯಬಹುದು.",
+          "calculation": "$(2\\sqrt{2}+\\sqrt{2}) + (5\\sqrt{3}-3\\sqrt{3})$"
+        },
+        {
+          "step": 3,
+          "action": "ಸಜಾತೀಯ ಕರಣಿಗಳ ಸಹಗುಣಕಗಳನ್ನು ಕೂಡಿಸುವುದು/ಕಳೆಯುವುದು.",
+          "justification": "ವಿಭಾಜಕ ನಿಯಮದ ಅನ್ವಯ: $ax+bx=(a+b)x$.",
+          "calculation": "$(2+1)\\sqrt{2} + (5-3)\\sqrt{3}$"
+        },
+        {
+          "step": 4,
+          "action": "ಅಂತಿಮ ಸಂಕ್ಷೇಪಣೆ.",
+          "justification": "ಲೆಕ್ಕಾಚಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು.",
+          "calculation": "$3\\sqrt{2} + 2\\sqrt{3}$"
+        }
+      ],
+      "result": "$3\\sqrt{2} + 2\\sqrt{3}$",
+      "common_trap": ""
+    },
+    {
+      "example_id": "NS-SYS-3_example_13",
+      "difficulty": "basic",
+      "problem": "6√5 ನ್ನು 2√5 ರಿಂದ ಗುಣಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಗುಣಾಕಾರವನ್ನು ಬರೆಯುವುದು.",
+          "justification": "ದತ್ತ ಲೆಕ್ಕವನ್ನು ಗಣಿತೀಯವಾಗಿ ನಿರೂಪಿಸುವುದು.",
+          "calculation": "6√5 × 2√5"
+        },
+        {
+          "step": 2,
+          "action": "ಭಾಗಲಬ್ಧ ಮತ್ತು ಅಭಾಗಲಬ್ಧ ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಗುಂಪು ಮಾಡುವುದು.",
+          "justification": "ಗುಣಾಕಾರದ ಪರಿವರ್ತನೀಯ ಮತ್ತು ಸಹವರ್ತನೀಯ ನಿಯಮಗಳು.",
+          "calculation": "(6 × 2) × (√5 × √5)"
+        },
+        {
+          "step": 3,
+          "action": "ಪ್ರತಿ ಗುಂಪನ್ನು ಗುಣಿಸುವುದು.",
+          "justification": "√a × √a = a ಎಂಬ ನಿಯಮವನ್ನು ಬಳಸುವುದು.",
+          "calculation": "12 × 5"
+        },
+        {
+          "step": 4,
+          "action": "ಅಂತಿಮ ಗುಣಲಬ್ಧವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ಲೆಕ್ಕಾಚಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು.",
+          "calculation": "60"
+        }
+      ],
+      "result": "60",
+      "common_trap": ""
+    },
+    {
+      "example_id": "NS-SYS-3_example_14",
+      "difficulty": "basic",
+      "problem": "$8\\sqrt{15}$ ನ್ನು $2\\sqrt{3}$ ರಿಂದ ಭಾಗಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಭಾಗಾಕಾರವನ್ನು ಭಿನ್ನರಾಶಿ ರೂಪದಲ್ಲಿ ಬರೆಯುವುದು.",
+          "justification": "ಸಂಕ್ಷೇಪಿಸಲು ಸುಲಭವಾಗುತ್ತದೆ.",
+          "calculation": "$\\frac{8\\sqrt{15}}{2\\sqrt{3}}$"
+        },
+        {
+          "step": 2,
+          "action": "ಕರಣಿ ಒಳಗಿನ ಸಂಖ್ಯೆಯನ್ನು ಅಪವರ್ತನೀಕರಿಸುವುದು.",
+          "justification": "ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು ಗುರುತಿಸಲು. $\\sqrt{ab}=\\sqrt{a}\\sqrt{b}$ ನಿಯಮ ಬಳಸಿ.",
+          "calculation": "$\\frac{8\\sqrt{5 \\times 3}}{2\\sqrt{3}} = \\frac{8\\sqrt{5}\\sqrt{3}}{2\\sqrt{3}}$"
+        },
+        {
+          "step": 3,
+          "action": "ಸಹಗುಣಕಗಳನ್ನು ಮತ್ತು ಕರಣಿಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಭಾಗಿಸುವುದು.",
+          "justification": "ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ರದ್ದುಗೊಳಿಸಲು.",
+          "calculation": "$(\\frac{8}{2}) \\times (\\frac{\\sqrt{5}\\sqrt{3}}{\\sqrt{3}})$"
+        },
+        {
+          "step": 4,
+          "action": "ಅಂತಿಮ ಸಂಕ್ಷೇಪಣೆ.",
+          "justification": "ಲೆಕ್ಕಾಚಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು.",
+          "calculation": "$4 \\times \\sqrt{5} = 4\\sqrt{5}$"
+        }
+      ],
+      "result": "$4\\sqrt{5}$",
+      "common_trap": ""
+    },
+    {
+      "example_id": "NS-SYS-3_example_15",
+      "difficulty": "intermediate",
+      "problem": "ಈ ಕೆಳಗಿನವುಗಳನ್ನು ಸಂಕ್ಷೇಪಿಸಿ: (i) $(5+\\sqrt{7})(2+\\sqrt{5})$ (ii) $(5+\\sqrt{5})(5-\\sqrt{5})$ (iii) $(\\sqrt{3}+\\sqrt{7})^2$ (iv) $(\\sqrt{11}-\\sqrt{7})(\\sqrt{11}+\\sqrt{7})$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "(i) ನ್ನು ಸಂಕ್ಷೇಪಿಸುವುದು.",
+          "justification": "ವಿಭಾಜಕ ನಿಯಮವನ್ನು (Distributive property) ಬಳಸಿ ಪದಗಳನ್ನು ಗುಣಿಸುವುದು.",
+          "calculation": "(5+\\sqrt{7})(2+\\sqrt{5}) = 5 \\times 2 + 5 \\times \\sqrt{5} + \\sqrt{7} \\times 2 + \\sqrt{7} \\times \\sqrt{5} = 10 + 5\\sqrt{5} + 2\\sqrt{7} + \\sqrt{35}"
+        },
+        {
+          "step": 2,
+          "action": "(ii) ನ್ನು ಸಂಕ್ಷೇಪಿಸುವುದು.",
+          "justification": "$(a+b)(a-b)=a^2-b^2$ ನಿತ್ಯ ಸಮೀಕರಣವನ್ನು ಬಳಸುವುದು. ಇಲ್ಲಿ $a=5, b=\\sqrt{5}$.",
+          "calculation": "(5+\\sqrt{5})(5-\\sqrt{5}) = 5^2 - (\\sqrt{5})^2 = 25 - 5 = 20"
+        },
+        {
+          "step": 3,
+          "action": "(iii) ನ್ನು ಸಂಕ್ಷೇಪಿಸುವುದು.",
+          "justification": "$(a+b)^2 = a^2+2ab+b^2$ ನಿತ್ಯ ಸಮೀಕರಣವನ್ನು ಬಳಸುವುದು. ಇಲ್ಲಿ $a=\\sqrt{3}, b=\\sqrt{7}$.",
+          "calculation": "(\\sqrt{3}+\\sqrt{7})^2 = (\\sqrt{3})^2 + 2(\\sqrt{3})(\\sqrt{7}) + (\\sqrt{7})^2 = 3 + 2\\sqrt{21} + 7 = 10 + 2\\sqrt{21}"
+        },
+        {
+          "step": 4,
+          "action": "(iv) ನ್ನು ಸಂಕ್ಷೇಪಿಸುವುದು.",
+          "justification": "$(a-b)(a+b)=a^2-b^2$ ನಿತ್ಯ ಸಮೀಕರಣವನ್ನು ಬಳಸುವುದು. ಇಲ್ಲಿ $a=\\sqrt{11}, b=\\sqrt{7}$.",
+          "calculation": "(\\sqrt{11}-\\sqrt{7})(\\sqrt{11}+\\sqrt{7}) = (\\sqrt{11})^2 - (\\sqrt{7})^2 = 11 - 7 = 4"
+        }
+      ],
+      "result": "(i) $10 + 5\\sqrt{5} + 2\\sqrt{7} + \\sqrt{35}$\n(ii) 20\n(iii) $10 + 2\\sqrt{21}$\n(iv) 4",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಎರಡು ಕರಣಿಗಳ ಮೊತ್ತ/ಗುಣಲಬ್ಧ ಭಾಗಲಬ್ಧವೇ ಅಥವಾ ಅಭಾಗಲಬ್ಧವೇ ಎಂದು ನಿರ್ಧರಿಸುವುದು.",
+    "two_mark_note": "$(2+\\sqrt{3})(2-\\sqrt{3})$ ನ್ನು ಸಂಕ್ಷೇಪಿಸಿ.",
+    "five_mark_note": "ಈ ಅವಧಾರಣೆಯಿಂದ 5 ಅಂಕಗಳ ಪ್ರಶ್ನೆ ಬರುವುದು ಅಸಂಭವ.",
+    "common_mistakes": [
+      "ವಿಜಾತೀಯ ಕರಣಿಗಳನ್ನು (unlike surds) ಕೂಡಿಸುವುದು. ಉದಾ: $\\sqrt{2}+\\sqrt{3} \\neq \\sqrt{5}$."
+    ],
+    "boundary_conditions": [],
+    "connects_to": [
+      "ಛೇದದ ಅಕರಣೀಕರಣ",
+      "ವರ್ಗ ಸಮೀಕರಣಗಳು"
+    ]
+  }
+}

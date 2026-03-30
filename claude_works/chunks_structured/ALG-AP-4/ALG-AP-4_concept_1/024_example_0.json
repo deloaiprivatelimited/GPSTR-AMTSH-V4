@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಾಂತರ ಶ್ರೇಢಿ ಮೂರರ ಭಾಗ ಎರಡು, ಒಂದರ ಭಾಗ ಎರಡು, ಮೈನಸ್ ಒಂದರ ಭಾಗ ಎರಡು, ಮೈನಸ್ ಮೂರರ ಭಾಗ ಎರಡು, ಹೀಗೆ ಮುಂದುವರೆಯುತ್ತದೆ. ಈ ಶ್ರೇಢಿಯ ಮೊದಲ ಪದ a ಮತ್ತು ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ d ಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ ಎಂದು ಕೇಳಲಾಗಿದೆ. ಮೊದಲು, ನಮಗೆ ನೀಡಿರುವ ಶ್ರೇಢಿಯನ್ನು ಗಮನಿಸೋಣ ಮತ್ತು ನಾವು ಏನು ಕಂಡುಹಿಡಿಯಬೇಕು ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಾಂತರ ಶ್ರೇಢಿ $\\frac{3}{2}, \\frac{1}{2}, -\\frac{1}{2}, -\\frac{3}{2}, ......$ ಯ ಮೊದಲ ಪದ a ಮತ್ತು ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ d ಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ ಎಂದು ಕೇಳಲಾಗಿದೆ. ಮೊದಲು, ನಮಗೆ ನೀಡಿರುವ ಶ್ರೇಢಿಯನ್ನು ಗಮನಿಸೋಣ ಮತ್ತು ನಾವು ಏನು ಕಂಡುಹಿಡಿಯಬೇಕು ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಶ್ರೇಢಿ (Given AP): $\\frac{3}{2}, \\frac{1}{2}, -\\frac{1}{2}, -\\frac{3}{2}, ......$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು (To find): ಮೊದಲ ಪದ (a) ಮತ್ತು ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ (d)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸಮಸ್ಯೆ: ಸಮಾಂತರ ಶ್ರೇಢಿ } \\\\ \\frac{3}{2}, \\frac{1}{2}, -\\frac{1}{2}, -\\frac{3}{2}, ...... \\\\ \\text{ಇದರ ಮೊದಲ ಪದ 'a' ಮತ್ತು ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ 'd' ಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.}",
+    "placeholder_note": "Problem statement in a box"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "ALG-AP-4_example_1",
+  "chunk_id": "ALG-AP-4_concept_1_chunk_024"
+}

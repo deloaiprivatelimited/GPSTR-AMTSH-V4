@@ -1,0 +1,115 @@
+{
+  "module_id": "class9_math_ch1_concept_7",
+  "module_title": "ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳಿಗೆ ಘಾತಾಂಕಗಳ ನಿಯಮಗಳು",
+  "class": "9",
+  "chapter": "1",
+  "chapter_title": "ಸಂಖ್ಯಾ ಪದ್ಧತಿ",
+  "domain": "ಬೀಜಗಣಿತ",
+  "prerequisites": [
+    "class9_math_ch1_concept_1",
+    "class9_math_ch1_concept_2",
+    "class9_math_ch1_concept_3",
+    "class9_math_ch1_concept_4",
+    "class9_math_ch1_concept_5",
+    "class9_math_ch1_concept_6"
+  ],
+  "theory": {
+    "concept_summary": "ಘಾತಾಂಕಗಳ ನಿಯಮಗಳನ್ನು ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳ ಆಧಾರಗಳಿಗೆ ಮತ್ತು ಭಾಗಲಬ್ಧ ಘಾತಸೂಚಿಗಳಿಗೆ ವಿಸ್ತರಿಸಬಹುದು. a^(m/n) ರೂಪವನ್ನು ⁿ√(aᵐ) ಎಂದು ವ್ಯಾಖ್ಯಾನಿಸಲಾಗುತ್ತದೆ. ಗುಣಾಕಾರ, ಭಾಗಾಕಾರ, ಘಾತದ ಘಾತ ಮತ್ತು ಶೂನ್ಯ/ಋಣಾತ್ಮಕ ಘಾತಸೂಚಿಗಳಿಗೆ ನಿರ್ದಿಷ್ಟ ನಿಯಮಗಳಿವೆ, ಇವು ಬೀಜಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಸರಳಗೊಳಿಸುತ್ತವೆ.",
+    "definitions": [
+      {
+        "term": "ಘಾತಾಂಕಗಳ ನಿಯಮಗಳು",
+        "definition": "ಘಾತಾಂಕಗಳ ನಿಯಮಗಳನ್ನು ಪೂರ್ಣಾಂಕ ಘಾತಸೂಚಿಗಳಿಂದ ಭಾಗಲಬ್ಧ ಘಾತಸೂಚಿಗಳನ್ನು ಹೊಂದಿರುವ ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳ ಆಧಾರಗಳಿಗೆ ವಿಸ್ತರಿಸಬಹುದು. a > 0 ಒಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆ ಮತ್ತು m, n ಗಳು n > 0 ಆಗಿರುವ ಪೂರ್ಣಾಂಕಗಳಾದರೆ, a^(m/n) = (ⁿ√a)ᵐ = ⁿ√(aᵐ)"
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Product Rule of Exponents",
+        "latex": "a^p \\cdot a^q = a^{p+q}",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಒಂದೇ ಆಧಾರ ಸಂಖ್ಯೆ ಹೊಂದಿರುವ ಪದಗಳ ಗುಣಾಕಾರ."
+      },
+      {
+        "formula_name": "Power Rule of Exponents",
+        "latex": "(a^p)^q = a^{pq}",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಘಾತದ ಘಾತವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+      },
+      {
+        "formula_name": "Quotient Rule of Exponents",
+        "latex": "\\frac{a^p}{a^q} = a^{p-q}",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಒಂದೇ ಆಧಾರ ಸಂಖ್ಯೆ ಹೊಂದಿರುವ ಪದಗಳ ಭಾಗಾಕಾರ."
+      },
+      {
+        "formula_name": "Power of a Product Rule",
+        "latex": "a^p \\cdot b^p = (ab)^p",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಒಂದೇ ಘಾತಸೂಚಿ ಹೊಂದಿರುವ ವಿಭಿನ್ನ ಆಧಾರ ಸಂಖ್ಯೆಗಳ ಗುಣಾಕಾರ."
+      },
+      {
+        "formula_name": "Zero Exponent",
+        "latex": "a^0 = 1",
+        "condition": "a ≠ 0",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "Negative Exponent",
+        "latex": "a^{-p} = \\frac{1}{a^p}",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class9_math_ch1_example_20",
+      "difficulty": "intermediate",
+      "problem": "ಸಂಕ್ಷೇಪಿಸಿ: (i) 2^(2/3) ⋅ 2^(1/3) (ii) (3^(1/5))^4 (iii) 7^(1/5) / 7^(1/3)",
+      "steps": [
+        {
+          "step": 1,
+          "action": "(i) 2^(2/3) ⋅ 2^(1/3) ನ್ನು ಸಂಕ್ಷೇಪಿಸಿ. 2^(2/3 + 1/3) = 2^(3/3) = 2^1 = 2",
+          "justification": "ಗುಣಲಬ್ಧ ನಿಯಮ a^p ⋅ a^q = a^(p+q) ಬಳಸಿ."
+        },
+        {
+          "step": 2,
+          "action": "(ii) (3^(1/5))^4 ನ್ನು ಸಂಕ್ಷೇಪಿಸಿ. 3^(1/5 * 4) = 3^(4/5)",
+          "justification": "ಘಾತದ ನಿಯಮ (a^p)^q = a^(pq) ಬಳಸಿ."
+        },
+        {
+          "step": 3,
+          "action": "(iii) 7^(1/5) / 7^(1/3) ನ್ನು ಸಂಕ್ಷೇಪಿಸಿ. 7^(1/5 - 1/3) = 7^((3-5)/15) = 7^(-2/15)",
+          "justification": "ಭಾಗಲಬ್ಧ ನಿಯಮ a^p / a^q = a^(p-q) ಬಳಸಿ."
+        }
+      ],
+      "result": "(i) 2 (ii) 3^(4/5) (iii) 7^(-2/15)",
+      "common_trap": "ಭಿನ್ನರಾಶಿ ಘಾತಸೂಚಿಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ ಮಾಡುವಾಗ ಲ.ಸಾ.ಅ. (LCM) ಕಂಡುಹಿಡಿಯುವಲ್ಲಿ ತಪ್ಪು ಮಾಡುವುದು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "64^(1/2) ರ ಬೆಲೆ ಏನು? (8) a^p ⋅ a^q ಗೆ ಸಮನಾದದ್ದು ಯಾವುದು? (a^(p+q))",
+    "two_mark_note": "ಸಂಕ್ಷೇಪಿಸಿ: 125^(-1/3).",
+    "five_mark_note": "ಇಲ್ಲ.",
+    "common_mistakes": [
+      "ಋಣಾತ್ಮಕ ಘಾತಸೂಚಿಯ ಅರ್ಥವನ್ನು 1/a^p ಬದಲು -a^p ಎಂದು ತಪ್ಪಾಗಿ ಗ್ರಹಿಸುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

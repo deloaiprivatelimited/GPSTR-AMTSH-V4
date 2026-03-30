@@ -1,0 +1,144 @@
+{
+  "module_id": "class10_math_ch2_concept_6",
+  "module_title": "ಶೂನ್ಯತೆಗಳ ರೇಖಾಗಣಿತೀಯ ಅರ್ಥ",
+  "class": "10",
+  "chapter": "2",
+  "chapter_title": "ಬಹುಪದೋಕ್ತಿಗಳು",
+  "domain": "ಬೀಜಗಣಿತ",
+  "prerequisites": [
+    "class10_math_ch2_concept_1",
+    "class10_math_ch2_concept_2",
+    "class10_math_ch2_concept_3",
+    "class10_math_ch2_concept_4",
+    "class10_math_ch2_concept_5"
+  ],
+  "theory": {
+    "concept_summary": "ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆಗಳ ರೇಖಾಗಣಿತೀಯ ಅರ್ಥವೇನೆಂದರೆ, `y = p(x)` ನಕ್ಷೆಯು x-ಅಕ್ಷವನ್ನು ಛೇದಿಸುವ ಬಿಂದುಗಳ x-ನಿರ್ದೇಶಾಂಕಗಳು. ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿ ಒಂದು ಶೂನ್ಯತೆಯನ್ನು ಹೊಂದಿರುತ್ತದೆ, ವರ್ಗ ಬಹುಪದೋಕ್ತಿ ಗರಿಷ್ಠ ಎರಡು ಶೂನ್ಯತೆಗಳನ್ನು ಹೊಂದಿರಬಹುದು (ಎರಡು ವಿಭಿನ್ನ, ಎರಡು ಸಮಾನ ಅಥವಾ ಶೂನ್ಯ ಶೂನ್ಯತೆಗಳು), ಮತ್ತು ಘನ ಬಹುಪದೋಕ್ತಿ ಗರಿಷ್ಠ ಮೂರು ಶೂನ್ಯತೆಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. `n` ಡಿಗ್ರಿಯ ಬಹುಪದೋಕ್ತಿಗೆ ಗರಿಷ್ಠ `n` ಶೂನ್ಯತೆಗಳಿರುತ್ತವೆ.",
+    "definitions": [],
+    "formulas": [],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "id": "class10_math_ch2_geometrical_meaning_quadratic_case1",
+        "render_target": "plotly",
+        "exam_relevance": "MCQ",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "parabola",
+        "concept_latex": "y = x^2 - 3x - 4",
+        "x_axis_label": "x-ಅಕ್ಷ",
+        "y_axis_label": "y-ಅಕ್ಷ",
+        "x_range": [
+          -3.0,
+          6.0
+        ],
+        "y_range": [
+          -7.0,
+          7.0
+        ],
+        "key_points": [
+          {
+            "label": "ಶೂನ್ಯತೆ 1",
+            "x": -1.0,
+            "y": 0.0
+          },
+          {
+            "label": "ಶೂನ್ಯತೆ 2",
+            "x": 4.0,
+            "y": 0.0
+          },
+          {
+            "label": "y-intercept",
+            "x": 0.0,
+            "y": -4.0
+          },
+          {
+            "label": "Vertex",
+            "x": 1.5,
+            "y": -6.25
+          }
+        ],
+        "annotations": [
+          "ಎರಡು ವಿಭಿನ್ನ ಶೂನ್ಯತೆಗಳು"
+        ],
+        "purpose": "",
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      },
+      {
+        "type": "diagram",
+        "id": "class10_math_ch2_geometrical_meaning_quadratic_case2",
+        "render_target": "plotly",
+        "exam_relevance": "MCQ",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "parabola",
+        "concept_latex": "y = x^2 - 2x + 1",
+        "x_axis_label": "x-ಅಕ್ಷ",
+        "y_axis_label": "y-ಅಕ್ಷ",
+        "x_range": [
+          -2.0,
+          4.0
+        ],
+        "y_range": [
+          -1.0,
+          9.0
+        ],
+        "key_points": [
+          {
+            "label": "ಶೂನ್ಯತೆ",
+            "x": 1.0,
+            "y": 0.0
+          }
+        ],
+        "annotations": [
+          "ಒಂದೇ ಶೂನ್ಯತೆ (ಎರಡು ಸಮನಾದ ಶೂನ್ಯತೆಗಳು)"
+        ],
+        "purpose": "",
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      },
+      {
+        "type": "diagram",
+        "id": "class10_math_ch2_geometrical_meaning_quadratic_case3",
+        "render_target": "plotly",
+        "exam_relevance": "MCQ",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "parabola",
+        "concept_latex": "y = x^2 + x + 1",
+        "x_axis_label": "x-ಅಕ್ಷ",
+        "y_axis_label": "y-ಅಕ್ಷ",
+        "x_range": [
+          -3.0,
+          2.0
+        ],
+        "y_range": [
+          -1.0,
+          7.0
+        ],
+        "key_points": [],
+        "annotations": [
+          "ಯಾವುದೇ ವಾಸ್ತವ ಶೂನ್ಯತೆಗಳಿಲ್ಲ"
+        ],
+        "purpose": "",
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಒಂದು ಬಹುಪದೋಕ್ತಿಯ ನಕ್ಷೆಯನ್ನು ಕೊಟ್ಟು, ಅದರ ಶೂನ್ಯತೆಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕೇಳುವುದು. `n` ಡಿಗ್ರಿಯ ಬಹುಪದೋಕ್ತಿಗೆ ಗರಿಷ್ಠ ಎಷ್ಟು ಶೂನ್ಯತೆಗಳಿರಬಹುದು?",
+    "two_mark_note": "ರೇಖಾತ್ಮಕ ಅಥವಾ ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆಗಳ ರೇಖಾಗಣಿತೀಯ ಅರ್ಥವನ್ನು ವಿವರಿಸಿ.",
+    "five_mark_note": "",
+    "common_mistakes": [
+      "y-ಅಕ್ಷವನ್ನು ಛೇದಿಸುವ ಬಿಂದುವನ್ನು ಶೂನ್ಯತೆ ಎಂದು ಪರಿಗಣಿಸುವುದು. ಶೂನ್ಯತೆಗಳು ಕೇವಲ x-ಅಕ್ಷದ ಛೇದನ ಬಿಂದುಗಳಿಗೆ ಸಂಬಂಧಿಸಿವೆ."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

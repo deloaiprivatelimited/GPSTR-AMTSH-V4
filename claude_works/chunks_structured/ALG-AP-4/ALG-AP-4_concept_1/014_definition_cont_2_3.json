@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಋಣ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ",
+  "script": "ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಋಣ ಸಂಖ್ಯೆಯೂ ಆಗಿರಬಹುದು. ಈ ಉದಾಹರಣೆ ನೋಡಿ: 10, 7, 4, 1, ಮತ್ತು ಹೀಗೆ ಮುಂದುವರೆಯುತ್ತದೆ. ಇಲ್ಲಿ ಎರಡನೇ ಪದ 7 ರಿಂದ ಮೊದಲ ಪದ 10 ಅನ್ನು ಕಳೆದಾಗ, 7 ಮೈನಸ್ 10, ನಮಗೆ ಮೈನಸ್ 3 ಸಿಗುತ್ತದೆ. ಹಾಗೆಯೇ, ಮೂರನೇ ಪದ 4 ರಿಂದ ಎರಡನೇ ಪದ 7 ಅನ್ನು ಕಳೆದಾಗ, 4 ಮೈನಸ್ 7, ಇಲ್ಲೂ ಕೂಡ ಮೈನಸ್ 3 ಬರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಈ ಶ್ರೇಢಿಯ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ 'd' ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ 3. ಶ್ರೇಢಿಯ ಪದಗಳು ಕಡಿಮೆಯಾಗುತ್ತಾ ಹೋದರೆ, ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಋಣಾತ್ಮಕವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಋಣ ಸಂಖ್ಯೆಯೂ ಆಗಿರಬಹುದು. ಈ ಉದಾಹರಣೆ ನೋಡಿ: $10, 7, 4, 1, \\dots$. ಇಲ್ಲಿ $a_2 - a_1 = 7 - 10 = -3$. ಹಾಗೆಯೇ, $a_3 - a_2 = 4 - 7 = -3$. ಆದ್ದರಿಂದ, ಈ ಶ್ರೇಢಿಯ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ $d = -3$. ಶ್ರೇಢಿಯ ಪದಗಳು ಕಡಿಮೆಯಾಗುತ್ತಾ ಹೋದರೆ, ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಋಣಾತ್ಮಕವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಶ್ರೇಢಿ: $10, 7, 4, 1, \\dots$",
+    "ವ್ಯತ್ಯಾಸ 1: $d = a_2 - a_1 = 7 - 10 = -3$",
+    "ವ್ಯತ್ಯಾಸ 2: $d = a_3 - a_2 = 4 - 7 = -3$",
+    "ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ (d) = -3 (ಋಣ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line showing jumps of -3. Starting at 10, an arrow points to 7. From 7, an arrow points to 4. From 4, an arrow points to 1. Each arrow is labeled '-3'.",
+    "labels": "ಋಣ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ",
+    "mathematical_significance": "Illustrates a negative common difference, where the terms of the sequence are decreasing.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "ALG-AP-4_concept_1_chunk_014"
+}

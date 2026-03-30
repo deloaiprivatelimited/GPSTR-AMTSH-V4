@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಮೊತ್ತದ ಸೂತ್ರ: ಭಾಗ 2",
+  "script": "ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಮೊದಲ n ಪದಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಇನ್ನೊಂದು ಸೂತ್ರವಿದೆ. ಹಿಂದಿನ ಸೂತ್ರಕ್ಕಿಂತ ಇದು ಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ ಹೆಚ್ಚು ಉಪಯುಕ್ತ. ಈ ಸೂತ್ರವು S n ಈಕ್ವಲ್ಸ್ n ಬೈ ಟೂ ಟೈಮ್ಸ್ a ಪ್ಲಸ್ l. ಇಲ್ಲಿ S n ಎಂದರೆ ಮೊದಲ n ಪದಗಳ ಮೊತ್ತ. n ಎಂದರೆ ಪದಗಳ ಸಂಖ್ಯೆ. a ಎಂದರೆ ಶ್ರೇಢಿಯ ಮೊದಲ ಪದ. ಮತ್ತು l ಎಂದರೆ ಶ್ರೇಢಿಯ ಕೊನೆಯ ಪದ, ಅಂದರೆ a n. ಈ ಸೂತ್ರವನ್ನು ಯಾವಾಗ ಬಳಸಬೇಕು ಅಂದರೆ, ನಮಗೆ ಶ್ರೇಢಿಯ ಮೊದಲ ಮತ್ತು ಕೊನೆಯ ಪದಗಳು ನೇರವಾಗಿ ತಿಳಿದಿದ್ದಾಗ. ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ಸರಳಗೊಳಿಸುತ್ತದೆ.",
+  "script_display": "ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಮೊದಲ $n$ ಪದಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಇನ್ನೊಂದು ಸೂತ್ರವಿದೆ. ಹಿಂದಿನ ಸೂತ್ರಕ್ಕಿಂತ ಇದು ಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ ಹೆಚ್ಚು ಉಪಯುಕ್ತ. ಈ ಸೂತ್ರವು: $S_n = \\frac{n}{2}[a + l]$.\n\n*   $S_n$ = ಮೊದಲ $n$ ಪದಗಳ ಮೊತ್ತ (Sum of first n terms)\n*   $n$ = ಪದಗಳ ಸಂಖ್ಯೆ (Number of terms)\n*   $a$ = ಮೊದಲ ಪದ (First term)\n*   $l$ = ಕೊನೆಯ ಪದ (Last term), ಅಂದರೆ $a_n$. \n\nಈ ಸೂತ್ರವನ್ನು ಯಾವಾಗ ಬಳಸಬೇಕು ಅಂದರೆ, ನಮಗೆ ಶ್ರೇಢಿಯ ಮೊದಲ ಮತ್ತು ಕೊನೆಯ ಪದಗಳು ನೇರವಾಗಿ ತಿಳಿದಿದ್ದಾಗ. ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ಸರಳಗೊಳಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "$S_n$ = ಮೊದಲ $n$ ಪದಗಳ ಮೊತ್ತ",
+    "$n$ = ಪದಗಳ ಸಂಖ್ಯೆ",
+    "$a$ = ಮೊದಲ ಪದ",
+    "$l$ = ಕೊನೆಯ ಪದ ($a_n$)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "S_n = \\frac{n}{2}[a + l]",
+    "placeholder_note": "A large, clear rendering of the formula for the sum of n terms of an AP when the first and last terms are known."
+  },
+  "chunk_id": "ALG-AP-4_concept_3_chunk_011"
+}

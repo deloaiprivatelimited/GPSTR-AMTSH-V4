@@ -1,0 +1,142 @@
+{
+  "module_id": "class8_math_ch8_concept_5",
+  "module_title": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಗುಣಲಕ್ಷಣಗಳು (Properties)",
+  "class": "8",
+  "chapter": "8",
+  "chapter_title": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು",
+  "domain": "ಬೀಜಗಣಿತ",
+  "prerequisites": [
+    "class8_math_ch8_concept_1",
+    "class8_math_ch8_concept_2",
+    "class8_math_ch8_concept_3",
+    "class8_math_ch8_concept_4"
+  ],
+  "theory": {
+    "concept_summary": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು ಸಂಕಲನ ಮತ್ತು ಗುಣಾಕಾರದ ಅಡಿಯಲ್ಲಿ ಆವೃತ್ತತೆ, ಪರಿವರ್ತನೀಯತೆ ಮತ್ತು ಸಹವರ್ತನೀಯತೆ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತವೆ. ಗುಣಾಕಾರವು ಸಂಕಲನದ ಮೇಲೆ ವಿತರಣಾ ನಿಯಮವನ್ನು ಪಾಲಿಸುತ್ತದೆ. ಆದರೆ, ವ್ಯವಕಲನ ಮತ್ತು ಭಾಗಾಕಾರವು ಈ ಎಲ್ಲಾ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಪಾಲಿಸುವುದಿಲ್ಲ.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "Commutativity of Addition",
+        "latex": "a + b = b + a",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಸಂಕಲನದ ಪರಿವರ್ತನೀಯತೆ"
+      },
+      {
+        "formula_name": "Commutativity of Multiplication",
+        "latex": "a \\times b = b \\times a",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಗುಣಾಕಾರದ ಪರಿವರ್ತನೀಯತೆ"
+      },
+      {
+        "formula_name": "Non-commutativity of Subtraction",
+        "latex": "a - b \\neq b - a",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ವ್ಯವಕಲನದ ಪರಿವರ್ತನೀಯವಲ್ಲದ ಗುಣ"
+      },
+      {
+        "formula_name": "Non-commutativity of Division",
+        "latex": "a \\div b \\neq b \\div a",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಭಾಗಾಕಾರದ ಪರಿವರ್ತನೀಯವಲ್ಲದ ಗುಣ"
+      },
+      {
+        "formula_name": "Associativity of Addition",
+        "latex": "a + (b + c) = (a + b) + c",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಸಂಕಲನದ ಸಹವರ್ತನೀಯತೆ"
+      },
+      {
+        "formula_name": "Associativity of Multiplication",
+        "latex": "a \\times (b \\times c) = (a \\times b) \\times c",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಗುಣಾಕಾರದ ಸಹವರ್ತನೀಯತೆ"
+      },
+      {
+        "formula_name": "Non-associativity of Subtraction",
+        "latex": "a - (b - c) \\neq (a - b) - c",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ವ್ಯವಕಲನದ ಸಹವರ್ತನೀಯವಲ್ಲದ ಗುಣ"
+      },
+      {
+        "formula_name": "Non-associativity of Division",
+        "latex": "a \\div (b \\div c) \\neq (a \\div b) \\div c",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಭಾಗಾಕಾರದ ಸಹವರ್ತನೀಯವಲ್ಲದ ಗುಣ"
+      },
+      {
+        "formula_name": "ವಿತರಣಾ ನಿಯಮ",
+        "latex": "a \\times (b + c) = (a \\times b) + (a \\times c)",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಗುಣಾಕಾರದ ವಿತರಣಾ ನಿಯಮ"
+      }
+    ],
+    "theorems": [],
+    "properties": [
+      "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು ಸಂಕಲನ, ವ್ಯವಕಲನ ಮತ್ತು ಗುಣಾಕಾರ ಕ್ರಿಯೆಗಳಲ್ಲಿ ಆವೃತ್ತವಾಗಿವೆ. ಅಂದರೆ, ಯಾವುದೇ ಎರಡು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಮೊತ್ತ, ವ್ಯತ್ಯಾಸ ಅಥವಾ ಗುಣಲಬ್ಧವು ಮತ್ತೊಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ. ಆದರೆ, ಭಾಗಾಕಾರದಲ್ಲಿ ಆವೃತ್ತವಾಗಿಲ್ಲ, ಏಕೆಂದರೆ ಸೊನ್ನೆಯಿಂದ ಭಾಗಾಕಾರವನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲಾಗಿಲ್ಲ.",
+      "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳಿಗೆ ಸಂಕಲನ ಮತ್ತು ಗುಣಾಕಾರ ಪರಿವರ್ತನೀಯವಾಗಿವೆ. ಆದರೆ ವ್ಯವಕಲನ ಮತ್ತು ಭಾಗಾಕಾರ ಪರಿವರ್ತನೀಯವಲ್ಲ.",
+      "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳಿಗೆ ಸಂಕಲನ ಮತ್ತು ಗುಣಾಕಾರ ಸಹವರ್ತನೀಯವಾಗಿವೆ. ಆದರೆ ವ್ಯವಕಲನ ಮತ್ತು ಭಾಗಾಕಾರ ಸಹವರ್ತನೀಯವಲ್ಲ.",
+      "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳಲ್ಲಿ ಗುಣಾಕಾರವು ಸಂಕಲನದ ಮೇಲೆ ವಿತರಣಾ ನಿಯಮವನ್ನು ಪಾಲಿಸುತ್ತದೆ."
+    ],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class8_math_ch8_example_4",
+      "difficulty": "intermediate",
+      "problem": "ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಸುಲಭೀಕರಿಸಿ: \\frac{3}{7} + \\left(\\frac{-6}{11}\\right) + \\left(\\frac{-8}{21}\\right) + \\frac{5}{22}",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಪರಿವರ್ತನೀಯ ಮತ್ತು ಸಹವರ್ತನೀಯ ಗುಣಗಳನ್ನು ಬಳಸಿ, ಸಮಾನ ಛೇದಗಳನ್ನು ಪಡೆಯಲು ಸುಲಭವಾಗುವ ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಂಪು ಮಾಡಿ: \\left(\\frac{3}{7} + \\frac{-8}{21}\\right) + \\left(\\frac{-6}{11} + \\frac{5}{22}\\right)",
+          "justification": "ಲೆಕ್ಕಾಚಾರವನ್ನು ಸರಳಗೊಳಿಸಲು."
+        },
+        {
+          "step": 2,
+          "action": "ಮೊದಲ ಗುಂಪನ್ನು ಸುಲಭೀಕರಿಸಿ. 7 ಮತ್ತು 21 ರ ಲ.ಸಾ.ಅ 21: \\left(\\frac{3 \\times 3}{21} + \\frac{-8}{21}\\right) = \\frac{9 - 8}{21} = \\frac{1}{21}",
+          "justification": "ಸಂಕಲನಕ್ಕಾಗಿ ಸಮಾನ ಛೇದಗಳನ್ನು ಪಡೆಯಲು."
+        },
+        {
+          "step": 3,
+          "action": "ಎರಡನೇ ಗುಂಪನ್ನು ಸುಲಭೀಕರಿಸಿ. 11 ಮತ್ತು 22 ರ ಲ.ಸಾ.ಅ 22: \\left(\\frac{-6 \\times 2}{22} + \\frac{5}{22}\\right) = \\frac{-12 + 5}{22} = \\frac{-7}{22}",
+          "justification": "ಸಂಕಲನಕ್ಕಾಗಿ ಸಮಾನ ಛೇದಗಳನ್ನು ಪಡೆಯಲು."
+        },
+        {
+          "step": 4,
+          "action": "ಎರಡು ಫಲಿತಾಂಶಗಳನ್ನು ಕೂಡಿಸಿ. 21 ಮತ್ತು 22 ರ ಲ.ಸಾ.ಅ 462: \\frac{1}{21} + \\frac{-7}{22} = \\frac{1 \\times 22}{462} + \\frac{-7 \\times 21}{462} = \\frac{22 - 147}{462} = \\frac{-125}{462}",
+          "justification": "ಅಂತಿಮ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಲು."
+        }
+      ],
+      "result": "ಅಂತಿಮ ಉತ್ತರ \\frac{-125}{462} ಆಗಿದೆ.",
+      "common_trap": "ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸದೆ ನೇರವಾಗಿ ಲೆಕ್ಕ ಮಾಡಲು ಪ್ರಯತ್ನಿಸುವುದು, ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ಹೆಚ್ಚು ಸಂಕೀರ್ಣಗೊಳಿಸುತ್ತದೆ."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "a+b = b+a ಎಂಬುದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಯಾವ ಗುಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+    "two_mark_note": "ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ \\frac{7}{5} \\times \\left( \\frac{-3}{12} + \\frac{5}{12} \\right) ರ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "five_mark_note": "ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಸುಲಭೀಕರಿಸಿ: \\frac{-4}{5} \\times \\frac{3}{7} \\times \\frac{15}{16} \\times \\left(\\frac{-14}{9}\\right).",
+    "common_mistakes": [
+      "ವ್ಯವಕಲನ ಮತ್ತು ಭಾಗಾಕಾರಗಳು ಪರಿವರ್ತನೀಯ ಮತ್ತು ಸಹವರ್ತನೀಯ ಎಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

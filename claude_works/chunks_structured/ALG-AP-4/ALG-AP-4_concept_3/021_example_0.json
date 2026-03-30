@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಪದಗಳ ಮೊತ್ತ",
+  "script": "ಈಗ ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಪದಗಳ ಮೊತ್ತಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಮಗೆ 8, 3, ಮೈನಸ್ 2, ಹೀಗೆ ಮುಂದುವರಿಯುವ ಒಂದು ಸಮಾಂತರ ಶ್ರೇಢಿಯನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಈ ಶ್ರೇಢಿಯ ಮೊದಲ 22 ಪದಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು, ಸಮಸ್ಯೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಂಡು ದತ್ತಾಂಶಗಳನ್ನು ಬರೆದುಕೊಳ್ಳೋಣ.",
+  "script_display": "ಈಗ ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಪದಗಳ ಮೊತ್ತಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಮಗೆ 8, 3, -2, ... ಈ ಸಮಾಂತರ ಶ್ರೇಢಿಯನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಈ ಶ್ರೇಢಿಯ ಮೊದಲ 22 ಪದಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು, ಸಮಸ್ಯೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಂಡು ದತ್ತಾಂಶಗಳನ್ನು ಬರೆದುಕೊಳ್ಳೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "8, 3, -2, ... \\text{ ಈ ಸಮಾಂತರ ಶ್ರೇಢಿಯ 22 ಪದಗಳವರೆಗಿನ ಮೊತ್ತವೇನು?}",
+    "placeholder_note": "Problem statement displayed in a box."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "ALG-AP-4_example_11",
+  "chunk_id": "ALG-AP-4_concept_3_chunk_021"
+}

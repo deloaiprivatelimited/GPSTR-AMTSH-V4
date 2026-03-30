@@ -1,0 +1,404 @@
+# ಅಧ್ಯಾಯ - 8
+# ಚತುರ್ಭುಜಗಳು
+
+## 8.1. ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಗುಣಲಕ್ಷಣಗಳು
+
+ನೀವು ಈಗಾಗಲೇ ಎಂಟನೇ ತರಗತಿಯಲ್ಲಿ, ಚತುರ್ಭುಜಗಳು ಮತ್ತು ಅದರ ವಿಧಗಳ ಬಗ್ಗೆ ಕಲಿತಿರುವಿರಿ. ಚತುರ್ಭುಜವು ನಾಲ್ಕು ಬಾಹುಗಳು, ನಾಲ್ಕು ಕೋನಗಳು ಮತ್ತು ನಾಲ್ಕು ಶೃಂಗಗಳನ್ನು ಹೊಂದಿದೆ. ಸಮಾಂತರ ಚತುರ್ಭುಜವು ಒಂದು ಚತುರ್ಭುಜವಾಗಿದ್ದು ಅದರ ಎರಡೂ ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿವೆ.
+
+ಒಂದು ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಒಂದು ಹಾಳೆಯಿಂದ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ಕತ್ತರಿಸಿ ತೆಗೆಯಿರಿ. ಅದನ್ನು ಕರ್ಣದ ಉದ್ದಕ್ಕೂ ಕತ್ತರಿಸಿ (ಚಿತ್ರ 8.1 ಗಮನಿಸಿ). ನಿಮಗೆ ಎರಡು ತ್ರಿಭುಜಗಳು ದೊರೆಯುತ್ತವೆ. ಈ ಎರಡೂ ತ್ರಿಭುಜಗಳ ಬಗ್ಗೆ ನೀವೇನು ಹೇಳುವಿರಿ?
+
+ಒಂದು ತ್ರಿಭುಜದ ಮೇಲೆ ಮತ್ತೊಂದನ್ನು ಇಡಿ. ಬೇಕಿದ್ದರೆ ಒಂದು ಸುತ್ತು ತಿರುಗಿಸಿ. ನೀವು ಏನನ್ನು ಗಮನಿಸುವಿರಿ? ಎರಡೂ ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾಗಿರುವುದನ್ನು ಗಮನಿಸಿ.
+
+--- FIGURE ---
+Description: A parallelogram labeled ABCD. A dashed line represents the diagonal AC.
+Labels: Vertices A, B, C, D.
+Mathematical significance: Illustrates cutting a parallelogram along its diagonal.
+(ಚಿತ್ರ 8.1)
+--- END FIGURE ---
+
+ಇನ್ನೂ ಹೆಚ್ಚು ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಈ ಚಟುವಟಿಕೆಯನ್ನು ಪುನರಾವರ್ತಿಸಿ. ಪ್ರತಿಬಾರಿಯೂ ಒಂದು ಕರ್ಣವು ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ಎರಡು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳನ್ನಾಗಿ ವಿಭಾಗಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನೀವು ಗಮನಿಸುವಿರಿ.
+
+ಈಗ ಈ ಫಳಿತಾಂಶವನ್ನು ಸಾಧಿಸೋಣ.
+
+--- THEOREM ---
+Name: ಪ್ರಮೇಯ 8.1
+Statement: ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಪ್ರತಿ ಕರ್ಣವು ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ಎರಡು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳನ್ನಾಗಿ ಅರ್ಧಿಸುತ್ತದೆ.
+Proof:
+**ಸಾಧನೆ :** ABCD ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿರಲಿ ಮತ್ತು AC ಅದರ ಕರ್ಣವಾಗಿರಲಿ (ಚಿತ್ರ 8.2 ಗಮನಿಸಿ). ಕರ್ಣ AC ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCD ಯನ್ನು $∆ ABC$ ಮತ್ತು $∆CDA$ ಗಳಾಗಿ ವಿಭಾಗಿಸುತ್ತದೆ. ಈ ಎರಡೂ ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮ ಎಂದು ನಾವು ತೋರಿಸಬೇಕಾಗಿದೆ.
+
+--- FIGURE ---
+Description: A parallelogram ABCD with diagonal AC. Angles formed by the diagonal and sides are marked with arcs.
+Labels: Vertices A, B, C, D.
+Mathematical significance: Illustrates the proof of Theorem 8.1.
+(ಚಿತ್ರ 8.2)
+--- END FIGURE ---
+
+$∆ ABC$ ಮತ್ತು $∆ CDA$ ಗಳಲ್ಲಿ $BC \parallel AD$ ಮತ್ತು $AC$ ಛೇದಕ ಆಗಿರುವುದನ್ನು ಗಮನಿಸಿ.
+ಆದುದರಿಂದ, $∠ BCA = ∠ DAC$ (ಪರ್ಯಾಯ ಕೋನಗಳ ಜೋಡಿ)
+ಹಾಗೂ $AB \parallel DC$ ಮತ್ತು $AC$ ಛೇದಕ.
+ಆದುದರಿಂದ, $∠ BAC = ∠ DCA$ (ಪರ್ಯಾಯ ಕೋನಗಳ ಜೋಡಿ)
+ಮತ್ತು $AC = CA$ (ಸಾಮಾನ್ಯ ಬಾಹು)
+ಆದುದರಿಂದ $∆ ABC ≅ ∆ CDA$ (ಕೋ ಬಾ ಕೋ ನಿಯಮ)
+
+ಅಥವಾ ಕರ್ಣ AC ಯು ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCD ಯನ್ನು $∆ ABC$ ಮತ್ತು $∆ CDA$ ಎಂಬ ಎರಡು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಾಗಿಸುತ್ತದೆ.
+--- END THEOREM ---
+
+ಈಗ ABCD ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಬಾಹುಗಳನ್ನು ಅಳತೆ ಮಾಡಿರಿ.
+ನೀವು ಏನನ್ನು ಗಮನಿಸುವಿರಿ?
+$AB = DC$ ಮತ್ತು $AD = BC$ ಎಂದು ಕಂಡುಕೊಳ್ಳುವಿರಿ.
+
+ಇದು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಇನ್ನೊಂದು ಗುಣಲಕ್ಷಣ. ಇದನ್ನು ಈ ಕೆಳಕಂಡಂತೆ ನಿರೂಪಿಸಬಹುದು.
+
+--- THEOREM ---
+Name: ಪ್ರಮೇಯ 8.2
+Statement: ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ.
+Proof:
+ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಒಂದು ಕರ್ಣವು ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ಎರಡು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳನ್ನಾಗಿ ಅರ್ಧಿಸುತ್ತದೆ ಎಂದು ನೀವು ಈಗಾಗಲೇ ಸಾಧಿಸಿದ್ದೀರ. ಆ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಅಂದರೆ ಅನುರೂಪಬಾಹುಗಳನ್ನು ಕುರಿತಂತೆ ನೀವೇನು ಹೇಳುವಿರಿ? ಅವುಗಳು ಸಮವಾಗಿವೆ.
+ಆದುದರಿಂದ, $AB = DC$ ಮತ್ತು $AD = BC$
+--- END THEOREM ---
+
+ಈಗ ಈ ಫಲಿತಾಂಶದ ವಿಲೋಮವೇನು? ಪ್ರಮೇಯದಲ್ಲಿರುವ ಹೇಳಿಕೆಯನ್ನು ಅದರ ವಿಲೋಮದಲ್ಲಿ ಸಾಧಿಸುತ್ತೇವೆ ಮತ್ತು ಪ್ರಮೇಯದಲ್ಲಿ ಸಾಧಿಸಿರುವುದು ಅದರ ವಿಲೋಮದಲ್ಲಿ ಹೇಳಿಕೆಯಾಗಿರುತ್ತದೆ ಎಂಬುದು ನಿಮಗೆ ಮೊದಲೇ ತಿಳಿದಿದೆ. ಹೀಗಾಗಿ ಪ್ರಮೇಯ 8.2 ನ್ನು ಈ ಕೆಳಕಂಡಂತೆ ನಿರೂಪಿಸಬಹುದು.
+
+ಒಂದು ಚತುರ್ಭುಜವು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾದರೆ, ಅದರ ಪ್ರತಿಯೊಂದು ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತದೆ, ಆದುದರಿಂದ ಇದರ ವಿಲೋಮವು:
+
+--- THEOREM ---
+Name: ಪ್ರಮೇಯ 8.3
+Statement: ಒಂದು ಚತುರ್ಭುಜದ ಪ್ರತಿಯೊಂದು ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮವಾದರೆ ಅದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗುತ್ತದೆ.
+Proof:
+ಏಕೆಂದು ನೀವು ಕಾರಣ ನೀಡುವಿರಾ?
+ಚತುರ್ಭುಜ ABCD ಯಲ್ಲಿ $AB = CD$ ಮತ್ತು $AD = BC$ ಆಗಿರಲಿ (ಚಿತ್ರ 8.3 ಗಮನಿಸಿ). ಕರ್ಣ AC ಎಳೆಯಿರಿ.
+
+--- FIGURE ---
+Description: A quadrilateral ABCD with diagonal AC. Tick marks indicate that opposite sides are equal: AB has one tick mark, CD has one tick mark; AD has two tick marks, BC has two tick marks.
+Labels: Vertices A, B, C, D.
+Mathematical significance: Illustrates the setup for the proof of Theorem 8.3.
+(ಚಿತ್ರ 8.3)
+--- END FIGURE ---
+
+ಕ್ರಮವಾಗಿ, $∆ABC ≅ ∆ CDA$ (ಏಕೆ?)
+ಆದುದರಿಂದ, $∠ BAC = ∠ DCA$
+ಮತ್ತು $∠ BCA = ∠ DAC$ (ಏಕೆ?)
+ABCD ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ಎಂದು ಈಗ ನೀವು ಹೇಳಬಹುದೇ? ಏಕೆ?
+--- END THEOREM ---
+
+ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ ಮತ್ತು ವಿಲೋಮವಾಗಿ ಚತುರ್ಭುಜದಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮವಿದ್ದರೆ ಅದು ಸಮಾಂತರ ಚತುರ್ಭುಜ. ಇದೇ ಫಲಿತಾಂಶವನ್ನು ಅಭಿಮುಖ ಕೋನಗಳ ಜೋಡಿಗೆ ಅನ್ವಯಿಸಬಹುದೇ? ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ರಚಿಸಿ, ಅದರ ಕೋನಗಳನ್ನು ಅಳತೆ ಮಾಡಿ.
+
+ನೀವು ಏನನ್ನು ಗಮನಿಸುವಿರಿ?
+ಪ್ರತಿಯೊಂದು ಜೊತೆ ಅಭಿಮುಖಕೋನಗಳು ಸಮ.
+
+ಇನ್ನೂ ಹೆಚ್ಚು ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಈ ಚಟುವಟಿಕೆಯನ್ನು ಪುನರಾವರ್ತಿಸಿ. ಈ ಕೆಳಕಂಡಂತೆ ನಾವು ಫಲಿತಾಂಶ ಪಡೆಯುತ್ತೇವೆ.
+
+--- THEOREM ---
+Name: ಪ್ರಮೇಯ 8.4
+Statement: ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ, ಅಭಿಮುಖ ಕೋನಗಳು ಸಮ.
+--- END THEOREM ---
+
+ಈಗ ಇದರ ವಿಲೋಮವೂ ಸಹ ಸರಿಯೇ? ಹೌದು. ಒಂದು ಚತುರ್ಭುಜದ ಕೋನಗಳ ಮೊತ್ತದ ಗುಣಲಕ್ಷಣ ಮತ್ತು ಒಂದು ಛೇದಕವು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಛೇದಿಸಿದಾಗ ಬರುವ ಫಲಿತಾಂಶಗಳನ್ನು ಬಳಸಿ ಇದರ ವಿಲೋಮವೂ ಸಹ ಸರಿ ಎಂದು ನಾವು ಕಾಣುತ್ತೇವೆ. ಆದುದರಿಂದ ನಮಗೆ ಈ ಕೆಳಕಂಡ ಪ್ರಮೇಯವಿದೆ.
+
+--- THEOREM ---
+Name: ಪ್ರಮೇಯ 8.5
+Statement: ಒಂದು ಚತುರ್ಭುಜದಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಜೊತೆ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮವಿದ್ದಾಗ ಅದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗುತ್ತದೆ.
+--- END THEOREM ---
+
+ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಇನ್ನೂ ಒಂದು ಗುಣಲಕ್ಷಣವಿದೆ. ಅದನ್ನೇ ನಾವು ಈಗ ಅಧ್ಯಯನ ಮಾಡೋಣ.
+ABCD ಸಮಾಂತರ ಚತುರ್ಭುಜ ರಚಿಸಿ. ಎರಡೂ ಕರ್ಣಗಳು 'O' ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುವಂತೆ ಕರ್ಣಗಳನ್ನು ಎಳೆಯಿರಿ (ಚಿತ್ರ 8.4 ಗಮನಿಸಿ).
+
+OA, OB, OC ಮತ್ತು OD ಯನ್ನು ಅಳತೆ ಮಾಡಿರಿ.
+ನೀವು ಏನನ್ನು ಗಮನಿಸುವಿರಿ?
+$OA=OC$ ಮತ್ತು $OB = OD$ ಆಗಿರುವುದನ್ನು ಗಮನಿಸುವಿರಿ.
+ಅಥವಾ ಎರಡೂ ಕರ್ಣಗಳಿಗೆ 'O' ಮಧ್ಯಬಿಂದು ಆಗಿದೆ.
+
+--- FIGURE ---
+Description: A parallelogram ABCD with diagonals AC and BD intersecting at point O.
+Labels: Vertices A, B, C, D and intersection point O.
+Mathematical significance: Illustrates the property of diagonals of a parallelogram.
+(ಚಿತ್ರ 8.4)
+--- END FIGURE ---
+
+ಇನ್ನೂ ಹೆಚ್ಚು ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳನ್ನು ತೆಗೆದು-ಕೊಂಡು ಈ ಚಟುವಟಿಕೆಯನ್ನು ಪುನರಾವರ್ತಿಸಿ. ಪ್ರತಿಯೊಂದು ಬಾರಿಯೂ ಕರ್ಣಗಳ ಮಧ್ಯಬಿಂದು 'O' ಆಗಿರುವುದನ್ನು ಕಾಣುವಿರಿ.
+
+ಆದುದರಿಂದ ನಮಗೆ ಈ ಕೆಳಕಂಡ ಪ್ರಮೇಯವಿದೆ.
+
+--- THEOREM ---
+Name: ಪ್ರಮೇಯ 8.6
+Statement: ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ.
+--- END THEOREM ---
+
+ಒಂದು ಚತುರ್ಭುಜದಲ್ಲಿ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಛೇದಿಸಿದರೆ ಏನಾಗುವುದು? ಅದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗುವುದೇ? ವಾಸ್ತವವಾಗಿ ಇದು ಸತ್ಯ.
+
+ಈ ಫಲಿತಾಂಶವು ಪ್ರಮೇಯ 8.6 ರ ವಿಲೋಮ. ಅದು ಕೆಳಕಂಡಂತಿದೆ.
+
+--- THEOREM ---
+Name: ಪ್ರಮೇಯ 8.7
+Statement: ಒಂದು ಚತುರ್ಭುಜದಲ್ಲಿ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸಿದರೆ ಅದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿರುತ್ತದೆ.
+Proof:
+ಈ ಫಲಿತಾಂಶಕ್ಕೆ ಕೆಳಕಂಡ ಕಾರಣಗಳನ್ನು ನೀವು ನೀಡಬಹುದು.
+ಚಿತ್ರ 8.5 ರಲ್ಲಿ $OA = OC$ ಮತ್ತು $OB = OD$ ದತ್ತವಾಗಿರುವುದನ್ನು ಗಮನಿಸಿ.
+
+--- FIGURE ---
+Description: A quadrilateral ABCD with diagonals AC and BD intersecting at point O.
+Labels: Vertices A, B, C, D and intersection point O.
+Mathematical significance: Illustrates the proof of Theorem 8.7.
+(ಚಿತ್ರ 8.5)
+--- END FIGURE ---
+
+ಆದುದರಿಂದ, $∆AOB ≅ ∆COD$ (ಏಕೆ?)
+$∠ABO = ∠CDO$ (ಏಕೆ?)
+ಇದರಿಂದ $AB \parallel CD$ ಎಂದು ಆಗುತ್ತದೆ.
+ಇದೇ ರೀತಿಯಾಗಿ $BC \parallel AD$
+ಆದುದರಿಂದ ABCD ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ.
+--- END THEOREM ---
+
+ಈಗ ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ.
+
+--- EXAMPLE START ---
+Source: Class 9, Example 1
+Problem: ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ ಒಂದು ಲಂಬಕೋನ ಎಂದು ತೋರಿಸಿ.
+Solution:
+**ಪರಿಹಾರ :** ಆಯತ ಎಂದರೇನು ಎಂಬುದನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳೋಣ. ಆಯತವು, ಒಂದು ಕೋನವು ಲಂಬಕೋನ ಆಗಿರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜ.
+
+ABCD ಒಂದು ಆಯತವಾಗಿದ್ದು $∠A= 90°$ ಆಗಿರಲಿ.
+$∠B = ∠C = ∠D = 90°$ ಎಂದು ನಾವು ಸಾಧಿಸಬೇಕು.
+$AD \parallel BC$ ಮತ್ತು AB ಯು ಛೇದಕ (ಚಿತ್ರ 8.6 ಗಮನಿಸಿ)
+$∠A+ ∠B = 180°$ (ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಅಂತರ್ ಕೋನಗಳ ಮೊತ್ತ)
+ಆದರೆ $∠A = 90°$
+ಆದುದರಿಂದ, $∠B = 180°− ∠A = 180° - 90° = 90°$
+ಈಗ $∠C = ∠A$ ಮತ್ತು $∠D=∠B$ [ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಕೋನಗಳು]
+ಆದುದರಿಂದ $∠C = 90°$ ಮತ್ತು $∠D = 90°$
+ಆದುದರಿಂದ ಆಯತದ ಪ್ರತಿಕೋನವು ಲಂಬಕೋನವಾಗಿದೆ.
+
+--- FIGURE ---
+Description: A rectangle ABCD. The angle at vertex A is marked with a right-angle symbol.
+Labels: Vertices A, B, C, D.
+Mathematical significance: Illustrates the properties of a rectangle for Example 1.
+(ಚಿತ್ರ 8.6)
+--- END FIGURE ---
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 9, Example 2
+Problem: ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ ಎಂದು ತೋರಿಸಿ
+Solution:
+ABCD ವಜ್ರಾಕೃತಿಯನ್ನು ಪರಿಗಣಿಸಿ (ಚಿತ್ರ 8.7 ಗಮನಿಸಿ).
+$AB = BC = CD = DA$ ಎಂದು ನಿಮಗೆ ತಿಳಿದಿದೆ. (ಏಕೆ?)
+ಈಗ $∆ AOD$ ಮತ್ತು $∆ COD$ ಗಳಲ್ಲಿ
+$OA = OC$ (ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ.)
+$OD = OD$ (ಸಾಮಾನ್ಯ ಬಾಹು)
+$AD = CD$ (ವಜ್ರಾಕೃತಿಯ ಬಾಹುಗಳು)
+ಆದುದರಿಂದ $∆AOD ≅ ∆ COD$ (ಬಾ ಬಾ ಬಾ ಸರ್ವಸಮತೆ ನಿಯಮ)
+$∠AOD = ∠COD$ (ಸ.ತ್ರಿ.ಅ.ಭಾ)
+ಆದರೆ $∠AOD + ∠COD = 180°$ (ಸರಳಯುಗ್ಮ)
+ಆದುದರಿಂದ, $2∠AOD = 180°$
+$∠AOD = 90°$
+ಆದುದರಿಂದ ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ.
+
+--- FIGURE ---
+Description: A rhombus ABCD with diagonals AC and BD intersecting at point O.
+Labels: Vertices A, B, C, D and intersection point O.
+Mathematical significance: Illustrates the properties of a rhombus for Example 2.
+(ಚಿತ್ರ 8.7)
+--- END FIGURE ---
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 9, Example 3
+Problem: ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABCಯಲ್ಲಿ $AB = AC$ ಆಗಿದೆ. ಬಾಹ್ಯಕೋನ PAC ಯನ್ನು AD ದ್ವಿಭಾಗಿಸುತ್ತದೆ ಮತ್ತು $CD \parallel AB$ (ಚಿತ್ರ 8.8 ಗಮನಿಸಿ).
+(i) $∠ DAC = ∠ BCA$ ಮತ್ತು (ii) ABCD ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ಎಂದು ತೋರಿಸಿ.
+Solution:
+**ಪರಿಹಾರ :** $∆ ABC$ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ.
+ಆದರಿಂದ, $AB = AC$ (ದತ್ತ)
+ಆದುದರಿಂದ $∠ ABC = ∠ ACB$ (ಸಮಬಾಹುಗಳಿಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಕೋನಗಳು)
+ಹಾಗೂ $∠ PAC = ∠ ABC + ∠ ACB$ (ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನ)
+ಅಥವಾ $∠ PAC = 2 ∠ ACB$ .................... (1)
+ಈಗ $∠ PAC$ ಯನ್ನು AD ದ್ವಿಭಾಗಿಸುತ್ತದೆ.
+ಆದುದರಿಂದ $∠ PAC = 2 ∠ DAC$ .................... (2)
+ಈಗ $2 ∠DAC = 2 ∠ACB$ ((1) ಮತ್ತು (2) ರಿಂದ)
+ಅಥವಾ $∠DAC =∠ACB$
+(ii) ಈಗ ಸಮಕೋನಗಳ ಜೋಡಿಯು ಒಂದು ಜೊತೆ ಪರ್ಯಾಯ ಕೋನಗಳಾಗುತ್ತವೆ. ಇಲ್ಲಿ BC ಮತ್ತು AD ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು AC ಛೇದಕವು ಛೇದಿಸುತ್ತಿದೆ.
+ಆದುದರಿಂದ $BC \parallel AD$
+ಹಾಗೂ $BA \parallel CD$ (ದತ್ತ)
+ಈಗ ABCD ಚತುರ್ಭುಜದ ಎರಡೂ ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿವೆ.
+ಆದುದರಿಂದ ABCD ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ.
+
+--- FIGURE ---
+Description: A triangle ABC with AB=AC. The side BA is extended to P. AD is the bisector of the exterior angle PAC. CD is drawn parallel to AB, forming a parallelogram ABCD.
+Labels: Vertices A, B, C, D and point P.
+Mathematical significance: Illustrates the geometric setup for Example 3.
+(ಚಿತ್ರ 8.8)
+--- END FIGURE ---
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 9, Example 4
+Problem: ಎರಡು ಸಮಾಂತರ ರೇಖೆಗಳಾದ l ಮತ್ತು m ನ್ನು ಛೇದಕ p ಛೇದಿಸುತ್ತಿದೆ. (ಚಿತ್ರ 8.9ಗಮನಿಸಿ). ಈಗ ಒಳಕೋನಗಳ ಕೋನಾರ್ಧಕಗಳಿಂದ ಉಂಟಾದ ಚತುರ್ಭುಜವು ಒಂದು ಆಯತ ಎಂದು ತೋರಿಸಿ.
+Solution:
+**ಪರಿಹಾರ :** $PS \parallel QR$ ನೀಡಿದೆ ಮತ್ತು ಛೇದಕ p ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಕ್ರಮವಾಗಿ A ಮತ್ತು C ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತಿದೆ.
+$∠ PAC$ ಮತ್ತು $∠ ACQ$ ಗಳ ಕೋನಾರ್ಧಕಗಳು B ನಲ್ಲಿ ಛೇದಿಸುತ್ತಿವೆ.
+$∠ ACR$ ಮತ್ತು $∠ SAC$ ಗಳ ಕೋನಾರ್ಧಕಗಳು D ನಲ್ಲಿ ಛೇದಿಸುತ್ತಿವೆ.
+ABCD ಚತುರ್ಭುಜವು ಒಂದು ಆಯತ ಎಂದು ತೋರಿಸಬೇಕಾಗಿದೆ.
+ಈಗ $∠ PAC = ∠ ACR$ (ಪರ್ಯಾಯ ಕೋನಗಳು $l \parallel m$ ಮತ್ತು p ಛೇದಕ)
+ಆದುದರಿಂದ $\frac{1}{2} ∠ PAC = \frac{1}{2} ∠ ACR$
+ಅಂದರೆ $∠ BAC = ∠ ACD$
+ಇವು ಒಂದು ಜೊತೆ ಪರ್ಯಾಯ ಕೋನಗಳು. ಇಲ್ಲಿ AB ಮತ್ತು DC ರೇಖೆಗಳು ಮತ್ತು AC ಛೇದಕ. ಹಾಗೂ ಈ ಎರಡೂ ಕೋನಗಳು ಸಮವಾಗಿವೆ.
+ಆದುದರಿಂದ $AB \parallel DC$
+ಅದೇ ರೀತಿ $BC \parallel AD$ ($∠ ACB$ ಮತ್ತು $∠ CAD$ ಗಳನ್ನು ಪರಿಗಣಿಸಿದಾಗ)
+ಆದುದರಿಂದ ABCD ಚತುರ್ಭುಜವು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ.
+ಹಾಗೂ $∠ PAC + ∠ CAS = 180°$ (ಸರಳಯುಗ)
+ಆದುದರಿಂದ, $\frac{1}{2} ∠ PAC + \frac{1}{2} ∠ CAS = \frac{1}{2} \times 180°= 90°$
+ಅಥವಾ $∠ BAC + ∠ CAD = 90°$
+ಅಥವಾ $∠ BAD = 90°$
+ಆದುದರಿಂದ ABCD ಯು ಒಂದು ಕೋನ 90°ಇರುವ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ.
+ಆದುದರಿಂದ, ABCD ಒಂದು ಆಯತ.
+
+--- FIGURE ---
+Description: Two parallel lines l (labeled p) and m (labeled q) are intersected by a transversal p (labeled l). The bisectors of the interior angles form a quadrilateral ABCD.
+Labels: Lines p, q, l, m. Points A, B, C, D, P, Q, R, S.
+Mathematical significance: Illustrates the setup for Example 4.
+(ಚಿತ್ರ 8.9)
+--- END FIGURE ---
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 9, Example 5
+Problem: ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕೋನಾರ್ಧಕಗಳು ಒಂದು ಆಯತವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ ಎಂದು ತೋರಿಸಿ.
+Solution:
+**ಪರಿಹಾರ :** ABCD ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ $∠A$ ಮತ್ತು $∠ B$, $∠ B$ ಮತ್ತು $∠ C$, $∠ C$ ಮತ್ತು $∠ D$, $∠ D$ ಮತ್ತು $∠A$ ಗಳ ಕೋನಾರ್ಧಕಗಳು ಕ್ರಮವಾಗಿ P, Q, R, ಮತ್ತು S ಬಿಂದುಗಳಲ್ಲಿ ಛೇದಿಸುತ್ತಿವೆ (ಚಿತ್ರ 8.10 ಗಮನಿಸಿ).
+$∆ ASD$ ಯಲ್ಲಿ ನೀವು ಏನನ್ನು ಗಮನಿಸುವಿರಿ?
+$∠D$ ಯನ್ನು DS ಅರ್ಧಿಸುತ್ತದೆ ಮತ್ತು $∠ A$ ಯನ್ನು AS ಅರ್ಧಿಸುತ್ತದೆ.
+ಆದುದರಿಂದ,
+$∠ DAS + ∠ ADS = \frac{1}{2} ∠A+ \frac{1}{2} ∠D$
+$= \frac{1}{2} (∠ A + ∠D)$
+$= \frac{1}{2} \times 180°$ ($∠A$ ಮತ್ತು $∠ D$ಗಳು ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಅಂತ‌ರ್ ಕೋನಗಳು)
+$= 90°$
+ಹಾಗೂ $∠DAS + ∠ADS + ∠DSA =180°$ (ತ್ರಿಭುಜದ ಕೋನಗಳ ಮೊತ್ತದ ಗುಣಲಕ್ಷಣ)
+ಅಥವಾ $90°+∠DSA = 180°$
+ಅಥವಾ $∠DSA = 90°$
+ಆದುದರಿಂದ $∠PSR = 90°$ ($∠DSA$ ಮತ್ತು $∠PSR$ ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು)
+ಅದೇ ರೀತಿಯಾಗಿ $∠APB = 90°$ ಅಥವಾ $∠SPQ = 90°$ ಎಂದು ತೋರಿಸಬಹುದು. ($∠DSA$ ಗೆ ತೋರಿಸಿರುವ ರೀತಿಯಲ್ಲಿ)
+ಹಾಗೆಯೇ $∠ PQR = 90°$ ಮತ್ತು $∠ SRQ=90°$
+ಆದುದರಿಂದ PQRS ಒಂದು ಚತುರ್ಭುಜ. ಇದರಲ್ಲಿ ಎಲ್ಲಾ ಕೋನಗಳು ಲಂಬಕೋನಗಳಾಗಿವೆ.
+ಇದನ್ನು ಆಯತ ಎಂದು ನಾವು ತೀರ್ಮಾನಿಸಬಹುದೇ? ಅದನ್ನು ಪರೀಕ್ಷಿಸೋಣ.
+$∠PSR = ∠ PQR = 90°$ ಮತ್ತು $∠ SPQ = ∠SRQ = 90°$ ಎಂದು ನಾವು ತೋರಿಸಿದ್ದೇವೆ. ಆದುದರಿಂದ ಎರಡೂ ಜೊತೆ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮ.
+ಆದುದರಿಂದ PQRS ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ. ಇದರಲ್ಲಿ ಒಂದು ಕೋನ (ಎಲ್ಲಾ ಕೋನವೂ) 90° ಆಗಿದೆ. ಆದುದರಿಂದ PQRS ಒಂದು ಆಯತ.
+
+--- FIGURE ---
+Description: A parallelogram ABCD. The bisectors of its interior angles intersect to form a smaller quadrilateral PQRS inside it.
+Labels: Vertices A, B, C, D of the parallelogram. Vertices P, Q, R, S of the inner quadrilateral.
+Mathematical significance: Illustrates the formation of a rectangle by the angle bisectors of a parallelogram.
+(ಚಿತ್ರ 8.10)
+--- END FIGURE ---
+--- EXAMPLE END ---
+
+## 8.2 ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯ
+
+ತ್ರಿಭುಜ ಮತ್ತು ಚತುರ್ಭುಜಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಅನೇಕ ಗುಣಲಕ್ಷಣಗಳನ್ನು ನೀವು ಅಧ್ಯಯನ ಮಾಡಿರುವಿರಿ. ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಮಧ್ಯಬಿಂದುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಇರುವ ಇನ್ನೊಂದು ಫಲಿತಾಂಶವನ್ನು ಈಗ ಅಧ್ಯಯನ ಮಾಡೋಣ. ಈ ಕೆಳಗಿನ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಿ.
+
+ABC ತ್ರಿಭುಜ ರಚಿಸಿ. E ಮತ್ತು F ಮಧ್ಯಬಿಂದುಗಳನ್ನು ಕ್ರಮವಾಗಿ AB ಮತ್ತು AC ಮೇಲೆ ಗುರ್ತಿಸಿ. E ಮತ್ತು F ನ್ನು ಸೇರಿಸಿ (ಚಿತ್ರ 8.15 ಗಮನಿಸಿ).
+
+--- FIGURE ---
+Description: A triangle ABC. E is the midpoint of side AB and F is the midpoint of side AC. The line segment EF is drawn.
+Labels: Vertices A, B, C. Midpoints E, F.
+Mathematical significance: Illustrates the setup for the Mid-point Theorem activity.
+(ಚಿತ್ರ 8.15)
+--- END FIGURE ---
+
+EF ಮತ್ತು BC ಯನ್ನು ಅಳೆಯಿರಿ. $∠ AEF$ ಮತ್ತು $∠ ABC$ ಯನ್ನೂ ಸಹ ಅಳೆಯಿರಿ.
+ನೀವು ಏನನ್ನು ಗಮನಿಸುವಿರಿ?
+$EF = \frac{1}{2} BC$ ಮತ್ತು $∠ AEF = ∠ABC$ ಆಗಿರುವುದನ್ನು ಗಮನಿಸುವಿರಿ.
+ಆದುದರಿಂದ $EF \parallel BC$
+
+ಇನ್ನೂ ಹೆಚ್ಚು ತ್ರಿಭುಜಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಈ ಚಟುವಟಿಕೆಯನ್ನು ಪುನರಾವರ್ತಿಸಿ. ಇದರಿಂದ ಈ ಕೆಳಗಿನ ಪ್ರಮೇಯದ ಹೇಳಿಕೆಯಂತೆ ನೀವು ತೀರ್ಮಾನಿಸುವಿರಿ.
+
+--- THEOREM ---
+Name: ಪ್ರಮೇಯ 8.8
+Statement: ಒಂದು ತ್ರಿಭುಜದ ಯಾವುದೇ ಎರಡು ಬಾಹುಗಳ ಮಧ್ಯಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವು ಮೂರನೆಯ ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿರುತ್ತದೆ.
+Proof:
+ಈ ಕೆಳಗೆ ನೀಡಿರುವ ಸುಳಿವನ್ನು ಬಳಸಿಕೊಂಡು ಈ ಪ್ರಮೇಯವನ್ನು ನೀವು ಸಾಧಿಸಬಹುದು.
+ಚಿತ್ರ 8.16 ಗಮನಿಸಿ. AB ಮತ್ತು AC ಗಳ ಮಧ್ಯಬಿಂದುಗಳು ಕ್ರಮವಾಗಿ E ಮತ್ತು F ಆಗಿದೆ ಮತ್ತು $CD \parallel BA$
+$∆ AEF ≅ ∆ CDF$ (ಕೋ ಬಾ ಕೋ ನಿಯಮ)
+ಆದುದರಿಂದ, $EF = DF$ ಮತ್ತು $BE = AE = DC$ (ಏಕೆ?)
+ಆದುದರಿಂದ, BCDE ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ (ಏಕೆ?)
+ಇದರಿಂದ $EF \parallel BC$
+ಈ ಪ್ರಕರಣದಲ್ಲಿ $EF = \frac{1}{2} ED= \frac{1}{2}BC$. ಎಂಬುದನ್ನೂ ಗಮನಿಸಿ.
+
+--- FIGURE ---
+Description: A triangle ABC. E and F are midpoints of AB and AC. The line segment EF is extended to D such that EF = FD. CD is joined.
+Labels: Vertices A, B, C. Points E, F, D.
+Mathematical significance: Construction for the proof of the Mid-point Theorem.
+(ಚಿತ್ರ 8.16)
+--- END FIGURE ---
+--- END THEOREM ---
+
+ಪ್ರಮೇಯ 8.8 ರ ವಿಲೋಮವನ್ನು ನೀವು ನಿರೂಪಿಸುವಿರಾ? ವಿಲೋಮವು ಸರಿಯೇ?
+ಈ ಮೇಲಿನ ಪ್ರಮೇಯದ ವಿಲೋಮವೂ ಸಹ ಸರಿ. ಇದನ್ನು ಈ ರೀತಿಯಾಗಿ ನಿರೂಪಿಸಬಹುದು.
+
+--- THEOREM ---
+Name: ಪ್ರಮೇಯ 8.9
+Statement: ಒಂದು ತ್ರಿಭುಜದ ಒಂದು ಬಾಹುವಿನ ಮಧ್ಯ ಬಿಂದುವಿನ ಮೂಲಕ ಎಳೆದ ರೇಖೆಯು ಮತ್ತೊಂದು ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿದ್ದು ಮೂರನೆಯ ಬಾಹುವನ್ನು ಅರ್ಧಿಸುತ್ತದೆ.
+Proof:
+ಚಿತ್ರ 8.17 ರಲ್ಲಿ AB ಯ ಮಧ್ಯಬಿಂದು E ಆಗಿರುವುದನ್ನು ಗಮನಿಸಿ. $l$ ರೇಖೆಯು E ಬಿಂದುವಿನ ಮೂಲಕ ಹಾದು ಹೋಗುತ್ತಿದ್ದು BCಗೆ ಸಮಾಂತರವಾಗಿದೆ ಮತ್ತು $CM \parallel BA$.
+$∆ AEF$ ಮತ್ತು $∆ CDF$ ಗಳ ಸರ್ವಸಮತೆಯನ್ನು ಬಳಸಿ $AF = CF$ ಎಂದು ಸಾಧಿಸಿ.
+
+--- FIGURE ---
+Description: A triangle ABC. E is the midpoint of AB. A line l passes through E and is parallel to BC, intersecting AC at F. A line CM is drawn parallel to BA, intersecting line l at D.
+Labels: Vertices A, B, C. Points E, F, D. Line l and M.
+Mathematical significance: Construction for the proof of the Converse of the Mid-point Theorem.
+(ಚಿತ್ರ 8.17)
+--- END FIGURE ---
+--- END THEOREM ---
+
+--- EXAMPLE START ---
+Source: Class 9, Example 6
+Problem: $∆ ABC$ ಯಲ್ಲಿ AB, BC ಮತ್ತು CA ಗಳ ಮಧ್ಯಬಿಂದುಗಳು ಕ್ರಮವಾಗಿ D, E ಮತ್ತು F ಆಗಿದೆ (ಚಿತ್ರ 8.18 ಗಮನಿಸಿ). D, E ಮತ್ತು F ನ್ನು ಸೇರಿಸಿ, $∆ ABC$ ಯು ನಾಲ್ಕು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಾಗವಾಗುತ್ತದೆ ಎಂದು ತೋರಿಸಿ.
+Solution:
+**ಪರಿಹಾರ :** $∆ ABC$ ಯ ಬಾಹುಗಳಾದ AB ಮತ್ತು BC ಯ ಮಧ್ಯಬಿಂದುಗಳು D ಮತ್ತು E ಆಗಿದೆ. ಪ್ರಮೇಯ 8.8 ರಿಂದ $DE \parallel AC$
+ಅದೇ ರೀತಿಯಾಗಿ $DF \parallel BC$ ಮತ್ತು $EF \parallel AB$.
+ಆದುದರಿಂದ ADEF, BDFE ಮತ್ತು DFCE ಗಳು ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳು.
+ಈಗ ಸಮಾಂತರ ಚತುರ್ಭುಜ BDFE ಯ ಕರ್ಣ DE ಆಗಿದೆ.
+ಆದುದರಿಂದ $∆ BDE ≅ ∆ FED$
+ಅದೇ ರೀತಿಯಾಗಿ $∆ DAF ≅ ∆ FED$
+ಮತ್ತು $∆ EFC ≅ ∆ FED$
+ಆದುದರಿಂದ ಎಲ್ಲಾ ನಾಲ್ಕು ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾಗಿದೆ.
+
+--- FIGURE ---
+Description: A triangle ABC. D, E, and F are the midpoints of sides AB, BC, and CA respectively. The line segments DE, EF, and FD are drawn, dividing the triangle into four smaller triangles.
+Labels: Vertices A, B, C. Midpoints D, E, F.
+Mathematical significance: Illustrates the properties of joining the midpoints of a triangle's sides.
+(ಚಿತ್ರ 8.18)
+--- END FIGURE ---
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 9, Example 7
+Problem: $l, m$ ಮತ್ತು $n$ ಮೂರು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು $p$ ಮತ್ತು $q$ ಛೇದಕಗಳು ಛೇದಿಸುತ್ತಿವೆ. $p$ ಮೇಲೆ $l, m$ ಮತ್ತು $n$ ಗಳು AB ಮತ್ತು BC ಸಮಛೇದಕಗಳನ್ನು ಉಂಟುಮಾಡಿವೆ (ಚಿತ್ರ 8.19 ನೋಡಿ). $l, m$ ಮತ್ತು $n$ ಗಳು $q$ ಮೇಲೆಯೂ ಸಹ ಸಮಛೇದಕಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ ಎಂದು ತೋರಿಸಿ.
+Solution:
+**ಪರಿಹಾರ :** $AB = BC$ ನೀಡಿದೆ ಮತ್ತು ನಾವು $DE = EF$ ಎಂದು ಸಾಧಿಸಬೇಕಾಗಿದೆ.
+$m$ ರೇಖೆಯನ್ನು G ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುವಂತೆ A ಮತ್ತು F ಗಳನ್ನು ಸೇರಿಸೋಣ. ತ್ರಾಪಿಜ್ಯ ACFD ಯು ಎರಡು ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಾಗಿಸಲ್ಪಡುತ್ತದೆ. ಅವು ಯಾವುವೆಂದರೆ $∆ ACF$ ಮತ್ತು $∆ AFD$.
+$∆ ACF$ ನಲ್ಲಿ AC ಯ ಮಧ್ಯಬಿಂದು B ಆಗಿದೆ. ($AB = BC$)
+ಮತ್ತು $BG \parallel CF$ ($m \parallel n$ ಆಗಿರುವುದರಿಂದ)
+ಆದುದರಿಂದ, AF ನ ಮಧ್ಯಬಿಂದು G ಆಗಿದೆ. (ಪ್ರಮೇಯ 8.9 ಯನ್ನು ಬಳಸಿದೆ)
+ಈಗ $∆ AFD$ ಯಲ್ಲಿ AF ನ ಮಧ್ಯಬಿಂದು G ಎಂದು ಅದೇ ರೀತಿಯಾಗಿ ತೋರಿಸಬಹುದಾಗಿದೆ. $GE \parallel AD$ ಮತ್ತು ಪ್ರಮೇಯ 8.9 ಯಿಂದ DFನ ಮಧ್ಯಬಿಂದು E ಆಗಿದೆ.
+ಅಂದರೆ $DE = EF$.
+ಇನ್ನೊಂದು ರೀತಿಯಲ್ಲಿ ಹೇಳುವುದಾದರೆ $l, m$ ಮತ್ತು $n$ ರೇಖೆಗಳು $q$ ರೇಖೆಯು ಮೇಲೆಯೂ ಸಹ ಸಮಛೇದಕಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.
+
+--- FIGURE ---
+Description: Three parallel lines l, m, n are intersected by two transversals p and q. The intercepts on p are AB and BC. The intercepts on q are DE and EF. A line segment AF is drawn, intersecting line m at G.
+Labels: Lines l, m, n, p, q. Points A, B, C on line p. Points D, E, F on line q. Intersection point G.
+Mathematical significance: Illustrates the Intercept Theorem.
+(ಚಿತ್ರ 8.19)
+--- END FIGURE ---
+--- EXAMPLE END ---
+
+## 8.3 ಸಾರಾಂಶ
+
+ಈ ಅಧ್ಯಾಯದಲ್ಲಿ, ಈ ಕೆಳಗಿನ ಅಂಶಗಳನ್ನು ನೀವು ಅಧ್ಯಯನ ಮಾಡಿರುವಿರಿ.
+1.  ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಒಂದು ಕರ್ಣವು ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ಎರಡು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಾಗಿಸುತ್ತದೆ.
+2.  ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ,
+    (i) ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ.
+    (ii) ಅಭಿಮುಖ ಕೋನಗಳು ಸಮ.
+    (iii) ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ.
+3.  ಆಯತದಲ್ಲಿ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಸಮವಾಗಿದ್ದು ಅರ್ಧಿಸುತ್ತವೆ ಮತ್ತು ಇದರ ವಿಪರ್ಯಯ ಹೇಳಿಕೆಯೂ ಸತ್ಯ.
+4.  ವಜ್ರಾಕೃತಿಯಲ್ಲಿ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿ ಅರ್ಧಿಸುತ್ತವೆ ಮತ್ತು ಇದರ ವಿಪರ್ಯಯ ಹೇಳಿಕೆಯೂ ಸತ್ಯ.
+5.  ವರ್ಗದಲ್ಲಿ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಸಮವಾಗಿದ್ದು ಲಂಬವಾಗಿ ಅರ್ಧಿಸುತ್ತವೆ ಮತ್ತು ಇದರ ವಿಪರ್ಯಯ ಹೇಳಿಕೆಯೂ ಸತ್ಯ.
+6.  ತ್ರಿಭುಜದ ಯಾವುದೇ ಎರಡು ಬಾಹುಗಳ ಮಧ್ಯಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವು ಮೂರನೆಯ ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿರುವುದು ಮತ್ತು ಮೂರನೆಯ ಬಾಹುವಿನ ಅರ್ಧದಷ್ಟಿರುವುದು.
+7.  ಒಂದು ತ್ರಿಭುಜದ ಒಂದು ಬಾಹುವಿನ ಮಧ್ಯ ಬಿಂದುವಿನ ಮೂಲಕ ಎಳೆದ ರೇಖೆಯು ಮತ್ತೊಂದು ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿದ್ದು ಮೂರನೆಯ ಬಾಹುವನ್ನು ಅರ್ಧಿಸುತ್ತದೆ.

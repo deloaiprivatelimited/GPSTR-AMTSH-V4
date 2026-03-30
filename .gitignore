@@ -1,0 +1,62 @@
+# Credentials -- NEVER push
+claude_works/credentials/
+*.pem
+*.key
+gpstr.json
+
+# Old audio (19GB) -- too large
+claude_works/audio/
+audio/
+
+# Old chunks (replaced by chunks_structured)
+claude_works/chunks/
+
+# Large root-level folders (old/duplicate data)
+textbooks/
+merged/
+
+# Batch files
+claude_works/batch/
+
+# Validation results (regenerable)
+claude_works/validation_results/
+claude_works/chunk_validation/
+claude_works/module_validation/
+validation_reports/
+validation_results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# IDE folders
+.vscode/
+.idea/
+.claude/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Final merged WAVs (regenerable, can exceed 100MB)
+**/final_module.wav
+
+# Temp/generated files that can be recreated
+claude_works/videos_v2/slides_*/
+claude_works/videos_v2/*.mp4
+claude_usage_report.txt
+folder_tree.txt
+chunk_schema_report.csv
+chunk_schema_summary.txt

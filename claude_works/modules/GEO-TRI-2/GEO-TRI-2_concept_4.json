@@ -1,0 +1,144 @@
+{
+  "module_id": "GEO-TRI-2_concept_4",
+  "module_title": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯ (Basic Proportionality Theorem - BPT)",
+  "class": "10",
+  "chapter": "6",
+  "chapter_title": "ತ್ರಿಭುಜಗಳು (Triangles)",
+  "domain": "ರೇಖಾಗಣಿತ (Geometry)",
+  "prerequisites": [
+    "GEO-TRI-2_concept_1",
+    "GEO-TRI-2_concept_2",
+    "GEO-TRI-2_concept_3"
+  ],
+  "theory": {
+    "concept_summary": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯ, ಅಥವಾ ಥೇಲ್ಸ್ ಪ್ರಮೇಯ, ತ್ರಿಭುಜಗಳ ಸಮರೂಪತೆಯ ಅಧ್ಯಯನದಲ್ಲಿ ಒಂದು ಮೂಲಭೂತ ಪ್ರಮೇಯವಾಗಿದೆ. ತ್ರಿಭುಜದ ಒಂದು ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿ ಎಳೆದ ರೇಖೆಯು ಉಳಿದೆರಡು ಬಾಹುಗಳನ್ನು ಸಮಾನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ ಎಂದು ಈ ಪ್ರಮೇಯ ಹೇಳುತ್ತದೆ. ಇದರ ವಿಲೋಮವೂ ಸತ್ಯವಾಗಿದೆ.",
+    "definitions": [],
+    "formulas": [],
+    "theorems": [
+      {
+        "theorem_name": "ಪ್ರಮೇಯ 6.1: ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯ (BPT) ಅಥವಾ ಥೇಲ್ಸ್ ಪ್ರಮೇಯ",
+        "statement": "ತ್ರಿಭುಜದ ಎರಡು ಬಾಹುಗಳನ್ನು ಎರಡು ವಿಭಿನ್ನ ಬಿಂದುಗಳಲ್ಲಿ ಛೇದಿಸುವಂತೆ ಒಂದು ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿ ಎಳೆದ ಸರಳರೇಖೆಯು ಉಳಿದೆರಡು ಬಾಹುಗಳನ್ನು ಸಮಾನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ.",
+        "proof": "ದತ್ತ: $\\triangle ABC$ ಯಲ್ಲಿ, BC ಗೆ ಸಮಾಂತರವಾಗಿರುವ ರೇಖೆಯು AB ಯನ್ನು D ಯಲ್ಲಿ ಮತ್ತು AC ಯನ್ನು E ಯಲ್ಲಿ ಛೇದಿಸುತ್ತದೆ. ಅಂದರೆ, $DE || BC$. ಸಾಧನೀಯ: $\\frac{AD}{DB} = \\frac{AE}{EC}$. ರಚನೆ: BE ಮತ್ತು CD ಗಳನ್ನು ಸೇರಿಸಿ. $DM \\perp AC$ ಮತ್ತು $EN \\perp AB$ ಎಳೆಯಿರಿ. ಸಾಧನೆ: $\\triangle ADE$ ಯ ವಿಸ್ತೀರ್ಣ, ವಿ(ADE) = $\\frac{1}{2} \\times AD \\times EN$. $\\triangle BDE$ ಯ ವಿಸ್ತೀರ್ಣ, ವಿ(BDE) = $\\frac{1}{2} \\times DB \\times EN$. ಆದ್ದರಿಂದ, $\\frac{\\text{ವಿ(ADE)}}{\\text{ವಿ(BDE)}} = \\frac{\\frac{1}{2} \\times AD \\times EN}{\\frac{1}{2} \\times DB \\times EN} = \\frac{AD}{DB}$ ---(1). ಅದೇ ರೀತಿ, ವಿ(ADE) = $\\frac{1}{2} \\times AE \\times DM$ ಮತ್ತು ವಿ(DEC) = $\\frac{1}{2} \\times EC \\times DM$. ಆದ್ದರಿಂದ, $\\frac{\\text{ವಿ(ADE)}}{\\text{ವಿ(DEC)}} = \\frac{\\frac{1}{2} \\times AE \\times DM}{\\frac{1}{2} \\times EC \\times DM} = \\frac{AE}{EC}$ ---(2). $\\triangle BDE$ ಮತ್ತು $\\triangle DEC$ ಗಳು ಒಂದೇ ಪಾದ DE ಮೇಲೆ ಮತ್ತು ಒಂದೇ ಜೊತೆ ಸಮಾಂತರ ರೇಖೆಗಳಾದ DE ಮತ್ತು BC ನಡುವೆ ಇವೆ. ಆದ್ದರಿಂದ, ವಿ(BDE) = ವಿ(DEC) --- (3). (1), (2) ಮತ್ತು (3) ರಿಂದ, $\\frac{AD}{DB} = \\frac{AE}{EC}$.",
+        "converse": "ಪ್ರಮೇಯ 6.2",
+        "special_cases": [],
+        "common_error": ""
+      },
+      {
+        "theorem_name": "ಪ್ರಮೇಯ 6.2: BPT ಯ ವಿಲೋಮ ಪ್ರಮೇಯ (Converse of BPT)",
+        "statement": "ತ್ರಿಭುಜದ ಯಾವುದಾದರೂ ಎರಡು ಬಾಹುಗಳನ್ನು ಸಮಾನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುವ ರೇಖೆಯು ಅದರ ಮೂರನೇ ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿರುತ್ತದೆ.",
+        "proof": "ದತ್ತ: $\\triangle ABC$ ಯಲ್ಲಿ, $\\frac{AD}{DB} = \\frac{AE}{EC}$. ಸಾಧನೀಯ: $DE || BC$. ಸಾಧನೆ: DE ಯು BC ಗೆ ಸಮಾಂತರವಾಗಿಲ್ಲ ಎಂದು ಊಹಿಸೋಣ. ಹಾಗಾದರೆ, D ಮೂಲಕ ಹಾದುಹೋಗುವ ಮತ್ತು BC ಗೆ ಸಮಾಂತರವಾಗಿರುವ ಬೇರೊಂದು ರೇಖೆ DE' ಇದೆ ಎಂದು ಭಾವಿಸೋಣ. $DE' || BC$ ಆಗಿರುವುದರಿಂದ, BPT ಪ್ರಕಾರ, $\\frac{AD}{DB} = \\frac{AE'}{E'C}$. ಆದರೆ ನಮಗೆ $\\frac{AD}{DB} = \\frac{AE}{EC}$ (ದತ್ತ). ಆದ್ದರಿಂದ, $\\frac{AE}{EC} = \\frac{AE'}{E'C}$. ಎರಡೂ ಬದಿಗೆ 1 ನ್ನು ಕೂಡಿಸಿದಾಗ: $\\frac{AE}{EC} + 1 = \\frac{AE'}{E'C} + 1 \\implies \\frac{AE+EC}{EC} = \\frac{AE'+E'C}{E'C} \\implies \\frac{AC}{EC} = \\frac{AC}{E'C}$. ಇದರಿಂದ $EC = E'C$ ಎಂದು ಸಿಗುತ್ತದೆ. ಇದು E ಮತ್ತು E' ಬಿಂದುಗಳು ಒಂದೇ ಆಗಿದ್ದಾಗ ಮಾತ್ರ ಸಾಧ್ಯ. ಆದ್ದರಿಂದ, ನಮ್ಮ ಊಹೆ ತಪ್ಪಾಗಿದೆ. DE ಯು BC ಗೆ ಸಮಾಂತರವಾಗಿರಲೇಬೇಕು.",
+        "converse": "",
+        "special_cases": [],
+        "common_error": ""
+      }
+    ],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "description": "ತ್ರಿಭುಜ ABC. Dಯು AB ಮೇಲಿದೆ ಮತ್ತು Eಯು AC ಮೇಲಿದೆ. DE ರೇಖೆಯು BCಗೆ ಸಮಾಂತರವಾಗಿದೆ. B ಯಿಂದ E ಗೆ ಮತ್ತು C ಯಿಂದ D ಗೆ ರೇಖೆಗಳನ್ನು ಎಳೆಯಲಾಗಿದೆ. D ಯಿಂದ AC ಗೆ DM ಲಂಬವನ್ನು ಮತ್ತು E ಯಿಂದ AB ಗೆ EN ಲಂಬವನ್ನು ಎಳೆಯಲಾಗಿದೆ.",
+        "labels": "A, B, C, D, E, M, N",
+        "mathematical_significance": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯದ (BPT) ಸಾಧನೆಯನ್ನು ವಿವರಿಸುತ್ತದೆ. (ಚಿತ್ರ 6.10)",
+        "table_data": ""
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "GEO-TRI-2_example_4",
+      "difficulty": "intermediate",
+      "problem": "ABCD ತ್ರಾಪಿಜ್ಯದಲ್ಲಿ $AB || DC$. $EF || AB$ ಆಗುವಂತೆ E ಮತ್ತು F ಗಳು ಕ್ರಮವಾಗಿ ಸಮಾಂತರವಲ್ಲದ ಬಾಹುಗಳಾದ AD ಮತ್ತು BC ಗಳ ಮೇಲಿನ ಬಿಂದುಗಳು. $\\frac{AE}{ED} = \\frac{BF}{FC}$ ಎಂದು ಸಾಧಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "AC ಕರ್ಣವನ್ನು ಎಳೆಯಿರಿ. ಅದು EF ನ್ನು G ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸಲಿ.",
+          "justification": "ತ್ರಾಪಿಜ್ಯವನ್ನು ಎರಡು ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಾಗಿಸಿ BPT ಯನ್ನು ಅನ್ವಯಿಸಲು ಇದು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+          "calculation": ""
+        },
+        {
+          "step": 2,
+          "action": "$\\triangle ADC$ ಯನ್ನು ಪರಿಗಣಿಸಿ.",
+          "justification": "$AB || DC$ ಮತ್ತು $EF || AB$ ಆಗಿರುವುದರಿಂದ, $EG || DC$.",
+          "calculation": "BPT ಪ್ರಕಾರ, $\\frac{AE}{ED} = \\frac{AG}{GC}$ --- (1)"
+        },
+        {
+          "step": 3,
+          "action": "$\\triangle CAB$ ಯನ್ನು ಪರಿಗಣಿಸಿ.",
+          "justification": "$GF || AB$ ಆಗಿರುವುದರಿಂದ.",
+          "calculation": "BPT ಪ್ರಕಾರ, $\\frac{CG}{AG} = \\frac{CF}{BF}$, ಇದರ ವ್ಯುತ್ಕ್ರಮ $\\frac{AG}{GC} = \\frac{BF}{FC}$ --- (2)"
+        },
+        {
+          "step": 4,
+          "action": "ಸಮೀಕರಣ (1) ಮತ್ತು (2) ನ್ನು ಹೋಲಿಸಿ.",
+          "justification": "ಎರಡೂ ಸಮೀಕರಣಗಳ ಬಲಭಾಗಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, ಎಡಭಾಗಗಳೂ ಸಮವಾಗಿರಬೇಕು.",
+          "calculation": "$\\frac{AE}{ED} = \\frac{BF}{FC}$"
+        }
+      ],
+      "result": "$\\frac{AE}{ED} = \\frac{BF}{FC}$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "GEO-TRI-2_example_12",
+      "difficulty": "intermediate",
+      "problem": "$\\triangle ABC$ ಯ AB ಮತ್ತು AC ಬಾಹುಗಳನ್ನು ಕ್ರಮವಾಗಿ D ಮತ್ತು E ಬಿಂದುಗಳಲ್ಲಿ ಛೇದಿಸುವ ರೇಖೆಯು BC ಗೆ ಸಮಾಂತರವಾಗಿದ್ದರೆ $\\frac{AD}{AB} = \\frac{AE}{AC}$ ಎಂದು ಸಾಧಿಸಿ (ಚಿತ್ರ 6.13 ನೋಡಿ).",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶವನ್ನು ಬರೆಯಿರಿ.",
+          "justification": "ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಲು ದತ್ತಾಂಶವು ಆರಂಭಿಕ ಹಂತವಾಗಿದೆ.",
+          "calculation": "$DE || BC$"
+        },
+        {
+          "step": 2,
+          "action": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯವನ್ನು (BPT) ಅನ್ವಯಿಸಿ.",
+          "justification": "ಒಂದು ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿ ಎಳೆದ ರೇಖೆಯು ಉಳಿದೆರಡು ಬಾಹುಗಳನ್ನು ಸಮಾನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ.",
+          "calculation": "$\\frac{AD}{DB} = \\frac{AE}{EC}$"
+        },
+        {
+          "step": 3,
+          "action": "ಅನುಪಾತದ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+          "justification": "ಬೇಕಾದ ರೂಪಕ್ಕೆ ತರಲು ಇದು ಒಂದು ಹಂತ.",
+          "calculation": "$\\frac{DB}{AD} = \\frac{EC}{AE}$"
+        },
+        {
+          "step": 4,
+          "action": "ಎರಡೂ ಬದಿಗಳಿಗೆ 1 ನ್ನು ಕೂಡಿಸಿ.",
+          "justification": "ಪೂರ್ಣ ಬಾಹುಗಳನ್ನು (AB, AC) ಅನುಪಾತದಲ್ಲಿ ತರಲು ಇದು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+          "calculation": "$\\frac{DB}{AD} + 1 = \\frac{EC}{AE} + 1$"
+        },
+        {
+          "step": 5,
+          "action": "ಸಮೀಕರಣವನ್ನು ಸರಳೀಕರಿಸಿ.",
+          "justification": "ಲ.ಸಾ.ಅ. ತೆಗೆದುಕೊಂಡು ಸಂಕಲನ ಮಾಡುವುದು.",
+          "calculation": "$\\frac{DB+AD}{AD} = \\frac{EC+AE}{AE}$\n$\\frac{AB}{AD} = \\frac{AC}{AE}$"
+        },
+        {
+          "step": 6,
+          "action": "ಅಂತಿಮ ಫಲಿತಾಂಶಕ್ಕಾಗಿ ಮತ್ತೆ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+          "justification": "ಪ್ರಶ್ನೆಯಲ್ಲಿ ಕೇಳಿದ ರೂಪಕ್ಕೆ ತರುವುದು.",
+          "calculation": "$\\frac{AD}{AB} = \\frac{AE}{AC}$"
+        }
+      ],
+      "result": "$\\frac{AD}{AB} = \\frac{AE}{AC}$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ. ಇದು BPT ಯ ಒಂದು ಉಪಸಿದ್ಧಾಂತ (corollary) ಆಗಿದೆ.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "BPT ಬಳಸಿ ಒಂದು ಬಾಹುವಿನ ಭಾಗದ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+    "two_mark_note": "BPT ಅಥವಾ ಅದರ ವಿಲೋಮವನ್ನು ಬಳಸಿ ಒಂದು ಸರಳ ಸಾಧನೆ ಮಾಡುವುದು.",
+    "five_mark_note": "BPT ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸುವುದು.",
+    "common_mistakes": [
+      "ಅನುಪಾತವನ್ನು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು (ಉದಾ: $\\frac{AD}{DB} = \\frac{EC}{AE}$ ಎಂದು)."
+    ],
+    "boundary_conditions": [
+      "BPT ಯು ರೇಖಾಗಣಿತದಲ್ಲಿ ಬಾಹುಗಳ ಉದ್ದಗಳನ್ನು ಮತ್ತು ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ಪ್ರಬಲ ಸಾಧನವಾಗಿದೆ.",
+      "ಈ ಪ್ರಮೇಯವು ತ್ರಿಭುಜಗಳ ಸಮರೂಪತೆಯ ಪರಿಕಲ್ಪನೆಗೆ ಅಡಿಪಾಯವಾಗಿದೆ.",
+      "BPT ಯ ಉಪ-ಫಲಿತಾಂಶಗಳು (corollaries) ಸಹ ಮುಖ್ಯವಾಗಿವೆ, ಉದಾಹರಣೆಗೆ $\\frac{AD}{AB} = \\frac{AE}{AC} = \\frac{DE}{BC}$."
+    ],
+    "connects_to": [
+      "ತ್ರಿಭುಜಗಳ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣಗಳು (AAA, SAS, SSS)",
+      "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಸಾಧನೆ"
+    ]
+  }
+}

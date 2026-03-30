@@ -1,0 +1,130 @@
+{
+  "module_id": "MEN-CIR-3_concept_2",
+  "module_title": "ವೃತ್ತಖಂಡ (Segment of a Circle)",
+  "class": "10",
+  "chapter": "11",
+  "chapter_title": "ವೃತ್ತಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ವಿಸ್ತೀರ್ಣಗಳು",
+  "domain": "ಕ್ಷೇತ್ರಗಣಿತ (Mensuration)",
+  "prerequisites": [
+    "MEN-CIR-3_concept_1"
+  ],
+  "theory": {
+    "concept_summary": "ವೃತ್ತಖಂಡವು ವೃತ್ತದ ಒಂದು ಜ್ಯಾ ಮತ್ತು ಅದಕ್ಕೆ ಅನುಗುಣವಾದ ಕಂಸದಿಂದ ಆವೃತವಾದ ಪ್ರದೇಶವಾಗಿದೆ. ಇದರ ವಿಸ್ತೀರ್ಣವನ್ನು ನೇರವಾಗಿ ಕಂಡುಹಿಡಿಯಲು ಸೂತ್ರವಿಲ್ಲ. ಬದಲಾಗಿ, ಅನುಗುಣವಾದ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣದಿಂದ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಳೆಯುವ ಮೂಲಕ ಇದನ್ನು ಲೆಕ್ಕಹಾಕಲಾಗುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ವೃತ್ತಖಂಡ (Segment)",
+        "definition": "ಒಂದು ಜ್ಯಾ ಹಾಗೂ ಅದರ ಅನುರೂಪ ಕಂಸದಿಂದ ಆವೃತ್ತವಾದ ವೃತ್ತಾಕಾರದ ಭಾಗ."
+      },
+      {
+        "term": "ಲಘು ವೃತ್ತಖಂಡ (Minor Segment)",
+        "definition": "ಲಘು ಕಂಸ ಮತ್ತು ಜ್ಯಾದಿಂದ ಉಂಟಾದ ವೃತ್ತಖಂಡ. ಸಾಮಾನ್ಯವಾಗಿ, 'ವೃತ್ತಖಂಡ' ಎಂದರೆ ಲಘು ವೃತ್ತಖಂಡವನ್ನೇ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ."
+      },
+      {
+        "term": "ಅಧಿಕ ವೃತ್ತಖಂಡ (Major Segment)",
+        "definition": "ಅಧಿಕ ಕಂಸ ಮತ್ತು ಜ್ಯಾದಿಂದ ಉಂಟಾದ ವೃತ್ತಖಂಡ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "ವೃತ್ತಖಂಡದ ವಿಸ್ತೀರ್ಣ (Area of a Segment)",
+        "latex": "A_{segment} = A_{sector} - A_{\\triangle}",
+        "condition": "ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಕೇಂದ್ರ ಕೋನ (θ) ಮತ್ತು ತ್ರಿಜ್ಯ (r) ವನ್ನು ಅವಲಂಬಿಸಿ ಸೂಕ್ತ ವಿಧಾನವನ್ನು (ಉದಾ. `\\frac{1}{2}bh` ಅಥವಾ ತ್ರಿಕೋನಮಿತಿ) ಬಳಸಬೇಕು.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಜ್ಯಾದಿಂದ ಬೇರ್ಪಟ್ಟ ವೃತ್ತದ ಭಾಗದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸಮಸ್ಯೆಗಳು.",
+        "derivation": []
+      },
+      {
+        "formula_name": "ಅಧಿಕ ವೃತ್ತಖಂಡದ ವಿಸ್ತೀರ್ಣ (Area of a Major Segment)",
+        "latex": "A_{major\\_segment} = \\pi r^2 - A_{minor\\_segment}",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "description": "O ಕೇಂದ್ರವಿರುವ ವೃತ್ತ ಮತ್ತು AB ಜ್ಯಾ. APB ಎಂಬ ಲಘು ವೃತ್ತಖಂಡವನ್ನು ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ. AQB ಎಂಬುದು ಅಧಿಕ ವೃತ್ತಖಂಡ.",
+        "labels": "O (ಕೇಂದ್ರ), A, P, B (ಪರಿಧಿಯ ಮೇಲಿನ ಬಿಂದುಗಳು), Q (ಅಧಿಕ ಕಂಸದ ಮೇಲಿನ ಬಿಂದು). APB ಪ್ರದೇಶವನ್ನು \"ಲಘು ವೃತ್ತ ಖಂಡ\" ಎಂದು ಮತ್ತು AQB ಪ್ರದೇಶವನ್ನು \"ಅಧಿಕ ವೃತ್ತ ಖಂಡ\" ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ.",
+        "mathematical_significance": "ವೃತ್ತದ ಲಘು ಮತ್ತು ಅಧಿಕ ವೃತ್ತಖಂಡಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ. (ಮೂಲ ಪಠ್ಯದ ಚಿತ್ರ 11.2)",
+        "table_data": ""
+      },
+      {
+        "type": "diagram",
+        "description": "OAB ಎಂಬ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ. O ದಿಂದ AB ಗೆ OM ಲಂಬವನ್ನು ಎಳೆಯಲಾಗಿದೆ.",
+        "labels": "O, A, M, B. OA = 21 cm, OB = 21 cm. `\\angle AOM` ಮತ್ತು `\\angle BOM` ಗಳನ್ನು 60° ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ.",
+        "mathematical_significance": "ವೃತ್ತಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವಾಗ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ವಿಧಾನವನ್ನು ವಿವರಿಸುತ್ತದೆ. (ಮೂಲ ಪಠ್ಯದ ಚಿತ್ರ 11.7)",
+        "table_data": ""
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "MEN-CIR-3_example_3",
+      "difficulty": "advanced",
+      "problem": "ವೃತ್ತದ ತ್ರಿಜ್ಯವು 21 cm ಮತ್ತು ಕೇಂದ್ರ ಕೋನ `\\angle AOB = 120^\\circ` ಆದರೆ, ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದ AYB ವೃತ್ತಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ($\\pi = \\frac{22}{7}$ ಎಂದು ಬಳಸಿ)",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ವೃತ್ತಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಯೋಜನೆಯನ್ನು ರೂಪಿಸುವುದು.",
+          "justification": "ವೃತ್ತಖಂಡದ ವಿಸ್ತೀರ್ಣ = (OAYB ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣ) - ($\\triangle OAB$ ಯ ವಿಸ್ತೀರ್ಣ).",
+          "calculation": "A_{segment AYB} = A_{sector OAYB} - A_{\\triangle OAB}"
+        },
+        {
+          "step": 2,
+          "action": "OAYB ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "A = \\frac{\\theta}{360^\\circ} \\times \\pi r^2 ಸೂತ್ರವನ್ನು ಬಳಸುವುದು. ದತ್ತಾಂಶ: r = 21 \\text{ cm}, \\theta = 120^\\circ.",
+          "calculation": "A_{sector} = \\frac{120}{360} \\times \\frac{22}{7} \\times 21 \\times 21 = \\frac{1}{3} \\times 22 \\times 3 \\times 21 = 22 \\times 21 = 462 \\text{ cm}^2"
+        },
+        {
+          "step": 3,
+          "action": "$\\triangle OAB$ ಯ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಕೇಂದ್ರ O ದಿಂದ ಜ್ಯಾ AB ಗೆ `OM \\perp AB` ಲಂಬವನ್ನು ಎಳೆಯುವುದು.",
+          "justification": "$\\triangle OAB$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ (`OA = OB = 21`). ಲಂಬವು ಕೋನ `\\angle AOB` ಮತ್ತು ಬಾಹು `AB` ಯನ್ನು ಸಮದ್ವಿಭಾಗಿಸುತ್ತದೆ.",
+          "calculation": "\\angle AOM = \\angle BOM = \\frac{120^\\circ}{2} = 60^\\circ. M ಎಂಬುದು AB ಯ ಮಧ್ಯಬಿಂದು."
+        },
+        {
+          "step": 4,
+          "action": "ಲಂಬಕೋನ ತ್ರಿಭುಜ `\\triangle OMA` ದಲ್ಲಿ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳನ್ನು ಬಳಸಿ `OM` (ಎತ್ತರ) ಮತ್ತು `AM` (ಪಾದದ ಅರ್ಧ) ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "`\\cos \\theta = \\frac{\\text{adjacent}}{\\text{hypotenuse}}` ಮತ್ತು `\\sin \\theta = \\frac{\\text{opposite}}{\\text{hypotenuse}}`.",
+          "calculation": "OM = OA \\cos 60^\\circ = 21 \\times \\frac{1}{2} = 10.5 \\text{ cm}.\nAM = OA \\sin 60^\\circ = 21 \\times \\frac{\\sqrt{3}}{2} \\text{ cm}."
+        },
+        {
+          "step": 5,
+          "action": "$\\triangle OAB$ ಯ ಪಾದ `AB` ಮತ್ತು ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "`AB = 2 \\times AM` ಮತ್ತು `A_{\\triangle} = \\frac{1}{2} \\times \\text{base} \\times \\text{height}`.",
+          "calculation": "AB = 2 \\times \\frac{21\\sqrt{3}}{2} = 21\\sqrt{3} \\text{ cm}.\nA_{\\triangle OAB} = \\frac{1}{2} \\times AB \\times OM = \\frac{1}{2} \\times 21\\sqrt{3} \\times 10.5 = \\frac{1}{2} \\times 21\\sqrt{3} \\times \\frac{21}{2} = \\frac{441\\sqrt{3}}{4} \\text{ cm}^2."
+        },
+        {
+          "step": 6,
+          "action": "ವೃತ್ತಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು 2 ಮತ್ತು 5 ನೇ ಹಂತದ ಫಲಿತಾಂಶಗಳನ್ನು ಬಳಸುವುದು.",
+          "justification": "A_{segment} = A_{sector} - A_{\\triangle}.",
+          "calculation": "A_{segment AYB} = 462 - \\frac{441\\sqrt{3}}{4} \\text{ cm}^2"
+        }
+      ],
+      "result": "ವೃತ್ತಖಂಡ AYB ಯ ವಿಸ್ತೀರ್ಣವು `(462 - \\frac{441\\sqrt{3}}{4}) \\text{ cm}^2`. ಇದನ್ನು `\\frac{21}{4}(88 - 21\\sqrt{3}) \\text{ cm}^2` ಎಂದೂ ಬರೆಯಬಹುದು.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "`\\theta = 60^\\circ` ಅಥವಾ `\\theta = 90^\\circ` ಇರುವ ಸರಳ ಸಮಸ್ಯೆಗಳು.",
+    "two_mark_note": "ನೇರ ಸೂತ್ರ ಅನ್ವಯದ ಸಮಸ್ಯೆ.",
+    "five_mark_note": "`\\theta = 120^\\circ` ಇರುವ ಸಮಸ್ಯೆಗಳು ಅಥವಾ ವಿನ್ಯಾಸಗಳ (ಉದಾ. ಮೇಜಿನ ಹೊದಿಕೆ) ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸಂಕೀರ್ಣ ಸಮಸ್ಯೆಗಳು.",
+    "common_mistakes": [
+      "ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವಲ್ಲಿ ತಪ್ಪು ಮಾಡುವುದು. `\\theta = 120^\\circ` ಆದಾಗ `\\frac{1}{2} \\times r \\times r` ಎಂದು ತಪ್ಪಾಗಿ ಬಳಸುವುದು ಸಾಮಾನ್ಯ ದೋಷ."
+    ],
+    "boundary_conditions": [
+      "`\\theta = 90^\\circ` ಆದಾಗ, `\\triangle OAB` ಲಂಬಕೋನ ತ್ರಿಭುಜವಾಗುತ್ತದೆ. ವಿಸ್ತೀರ್ಣ = `\\frac{1}{2}r^2`.",
+      "`\\theta = 60^\\circ` ಆದಾಗ, `\\triangle OAB` ಸಮಬಾಹು ತ್ರಿಭುಜವಾಗುತ್ತದೆ. ವಿಸ್ತೀರ್ಣ = `\\frac{\\sqrt{3}}{4}r^2`.",
+      "`\\theta = 120^\\circ` ಆದಾಗ, ತ್ರಿಕೋನಮಿತಿಯನ್ನು ಬಳಸುವುದು ಅನಿವಾರ್ಯ."
+    ],
+    "connects_to": [
+      "ಸಂಯುಕ್ತ ಘನಾಕೃತಿಗಳ (Combined Solids) ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಘನಫಲವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವಲ್ಲಿ ಈ ಪರಿಕಲ್ಪನೆಗಳು ಬಳಕೆಯಾಗುತ್ತವೆ."
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "module_id": "class10_math_ch2_concept_5",
+  "module_title": "ಬೈಜಿಕ ನಿತ್ಯಸಮೀಕರಣಗಳು",
+  "class": "10",
+  "chapter": "2",
+  "chapter_title": "ಬಹುಪದೋಕ್ತಿಗಳು",
+  "domain": "ಬೀಜಗಣಿತ",
+  "prerequisites": [
+    "class10_math_ch2_concept_1",
+    "class10_math_ch2_concept_2",
+    "class10_math_ch2_concept_3",
+    "class10_math_ch2_concept_4"
+  ],
+  "theory": {
+    "concept_summary": "ಬೈಜಿಕ ನಿತ್ಯಸಮೀಕರಣಗಳು ಚರಾಕ್ಷರಗಳ ಎಲ್ಲಾ ಬೆಲೆಗಳಿಗೂ ಸತ್ಯವಾಗಿರುವ ಸಮೀಕರಣಗಳಾಗಿವೆ. ಇವು ಬೀಜೋಕ್ತಿಗಳನ್ನು ವಿಸ್ತರಿಸಲು ಮತ್ತು ಅಪವರ್ತಿಸಲು ಬಳಸುವ ಮೂಲಭೂತ ಸೂತ್ರಗಳಾಗಿವೆ. ವರ್ಗ ಮತ್ತು ಘನ ಬಹುಪದೋಕ್ತಿಗಳ ವಿಸ್ತರಣೆ ಮತ್ತು ಅಪವರ್ತನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಈ ವಿಭಾಗದಲ್ಲಿ ಕಲಿಯುತ್ತೇವೆ.",
+    "definitions": [
+      {
+        "term": "ಬೈಜಿಕ ನಿತ್ಯಸಮೀಕರಣ (Algebraic Identity)",
+        "definition": "ಒಂದು ಬೈಜಿಕ ನಿತ್ಯಸಮೀಕರಣವು ಅದರಲ್ಲಿನ ಚರಾಕ್ಷರಗಳ ಎಲ್ಲಾ ಬೆಲೆಗಳಿಗೂ ಸತ್ಯವಾಗಿರುವ ಒಂದು ಬೈಜಿಕ ಸಮೀಕರಣವಾಗಿದೆ. ಇವುಗಳನ್ನು ಬೀಜೋಕ್ತಿಗಳನ್ನು ವಿಸ್ತರಿಸಲು ಮತ್ತು ಅಪವರ್ತಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Identity I",
+        "latex": "(x+y)^2 = x^2 + 2xy + y^2",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Algebraic expansion and factorization"
+      },
+      {
+        "formula_name": "Identity II",
+        "latex": "(x-y)^2 = x^2 - 2xy + y^2",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Algebraic expansion and factorization"
+      },
+      {
+        "formula_name": "Identity III",
+        "latex": "x^2 - y^2 = (x+y)(x-y)",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Algebraic expansion and factorization"
+      },
+      {
+        "formula_name": "Identity IV",
+        "latex": "(x+a)(x+b) = x^2 + (a+b)x + ab",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Algebraic expansion and factorization"
+      },
+      {
+        "formula_name": "Identity V",
+        "latex": "(x+y+z)^2 = x^2 + y^2 + z^2 + 2xy + 2yz + 2zx",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Algebraic expansion and factorization"
+      },
+      {
+        "formula_name": "Identity VI",
+        "latex": "(x+y)^3 = x^3 + y^3 + 3xy(x+y) = x^3 + 3x^2y + 3xy^2 + y^3",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Algebraic expansion and factorization"
+      },
+      {
+        "formula_name": "Identity VII",
+        "latex": "(x-y)^3 = x^3 - y^3 - 3xy(x-y) = x^3 - 3x^2y + 3xy^2 - y^3",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Algebraic expansion and factorization"
+      },
+      {
+        "formula_name": "Identity VIII",
+        "latex": "x^3 + y^3 + z^3 - 3xyz = (x+y+z)(x^2+y^2+z^2-xy-yz-zx)",
+        "condition": "If x+y+z=0, then x³+y³+z³ = 3xyz.",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Algebraic expansion and factorization"
+      },
+      {
+        "formula_name": "Sum of Cubes",
+        "latex": "x^3 + y^3 = (x+y)(x^2 - xy + y^2)",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Algebraic expansion and factorization"
+      },
+      {
+        "formula_name": "Difference of Cubes",
+        "latex": "x^3 - y^3 = (x-y)(x^2 + xy + y^2)",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Algebraic expansion and factorization"
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class10_math_ch2_example_6",
+      "difficulty": "basic",
+      "problem": "ಸೂಕ್ತ ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ `(3a + 4b + 5c)²` ನ್ನು ವಿಸ್ತರಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ನಿತ್ಯಸಮೀಕರಣ V, `(x+y+z)² = x² + y² + z² + 2xy + 2yz + 2zx` ನ್ನು ಗುರುತಿಸಿ.",
+          "justification": "ಕೊಟ್ಟಿರುವ ಲೆಕ್ಕವು ಈ ನಿತ್ಯಸಮೀಕರಣದ ರೂಪದಲ್ಲಿದೆ."
+        },
+        {
+          "step": 2,
+          "action": "`x=3a`, `y=4b`, `z=5c` ಎಂದು ಆದೇಶಿಸಿ. `(3a)² + (4b)² + (5c)² + 2(3a)(4b) + 2(4b)(5c) + 2(5c)(3a)`",
+          "justification": ""
+        },
+        {
+          "step": 3,
+          "action": "ಪದಗಳನ್ನು ಸರಳೀಕರಿಸಿ. `9a² + 16b² + 25c² + 24ab + 40bc + 30ca`",
+          "justification": ""
+        }
+      ],
+      "result": "`(3a + 4b + 5c)² = 9a² + 16b² + 25c² + 24ab + 40bc + 30ca`.",
+      "common_trap": null
+    },
+    {
+      "example_id": "class10_math_ch2_example_7",
+      "difficulty": "basic",
+      "problem": "`105 × 106` ರ ಬೆಲೆಯನ್ನು ನೇರ ಗುಣಾಕಾರ ಮಾಡದೆ, ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "`105 × 106` ನ್ನು `(100+5)(100+6)` ಎಂದು ಬರೆಯಿರಿ.",
+          "justification": "ಇದನ್ನು `(x+a)(x+b)` ರೂಪಕ್ಕೆ ತರುವುದು."
+        },
+        {
+          "step": 2,
+          "action": "ನಿತ್ಯಸಮೀಕರಣ IV, `(x+a)(x+b) = x² + (a+b)x + ab` ನ್ನು ಬಳಸಿ. ಇಲ್ಲಿ `x=100`, `a=5`, `b=6`. `(100)² + (5+6)(100) + (5)(6)`",
+          "justification": ""
+        },
+        {
+          "step": 3,
+          "action": "ಬೆಲೆಗಳನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ. `10000 + (11)(100) + 30 = 10000 + 1100 + 30 = 11130`",
+          "justification": ""
+        }
+      ],
+      "result": "`105 × 106 = 11130`.",
+      "common_trap": null
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "`(a-b)²` ನ ವಿಸ್ತೃತ ರೂಪ ಯಾವುದು? `99²` ರ ಬೆಲೆಯನ್ನು ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "two_mark_note": "ಒಂದು ಬೀಜೋಕ್ತಿಯನ್ನು ವಿಸ್ತರಿಸಿ ಅಥವಾ ಅಪವರ್ತಿಸಿ.",
+    "five_mark_note": "",
+    "common_mistakes": [
+      "`(x-y)²` ನ್ನು `x²-y²` ಎಂದು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು. `(x+y)³` ನ ವಿಸ್ತರಣೆಯಲ್ಲಿ ಚಿಹ್ನೆಗಳನ್ನು ಮತ್ತು ಸಹಗುಣಕಗಳನ್ನು ತಪ್ಪಾಗಿ ಬಳಸುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

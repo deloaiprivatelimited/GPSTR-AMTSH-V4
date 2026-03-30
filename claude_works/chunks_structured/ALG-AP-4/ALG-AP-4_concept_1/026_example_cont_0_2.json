@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಮೊದಲ ಪದ a ಸಮ ಮೂರರ ಭಾಗ ಎರಡು ಮತ್ತು ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ d ಸಮ ಮೈನಸ್ ಒಂದು. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಋಣಾತ್ಮಕವಾಗಿರಬಹುದು, ಇದರರ್ಥ ಶ್ರೇಢಿಯ ಪದಗಳು ಕಡಿಮೆಯಾಗುತ್ತಾ ಹೋಗುತ್ತವೆ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಮೊದಲ ಪದ $a = \\frac{3}{2}$ ಮತ್ತು ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ $d = -1$. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಋಣಾತ್ಮಕವಾಗಿರಬಹುದು, ಇದರರ್ಥ ಶ್ರೇಢಿಯ ಪದಗಳು ಕಡಿಮೆಯಾಗುತ್ತಾ ಹೋಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ಮೊದಲ ಪದ (First term) $a = \\frac{3}{2}$",
+    "ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ (Common difference) $d = -1$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "ALG-AP-4_example_1",
+  "final_answer": "ಮೊದಲ ಪದ $a = \\frac{3}{2}$ ಮತ್ತು ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ $d = -1$.",
+  "final_answer_display": "ಮೊದಲ ಪದ $a = \\frac{3}{2}$ ಮತ್ತು ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ $d = -1$.",
+  "chunk_id": "ALG-AP-4_concept_1_chunk_026"
+}

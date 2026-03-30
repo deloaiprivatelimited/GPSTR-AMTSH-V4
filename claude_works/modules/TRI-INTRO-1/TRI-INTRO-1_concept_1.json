@@ -1,0 +1,350 @@
+{
+  "module_id": "TRI-INTRO-1_concept_1",
+  "module_title": "ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳು",
+  "class": "10",
+  "chapter": "8",
+  "chapter_title": "ತ್ರಿಕೋನಮಿತಿಯ ಪ್ರಸ್ತಾವನೆ",
+  "domain": "ತ್ರಿಕೋನಮಿತಿ (Trigonometry)",
+  "prerequisites": [],
+  "theory": {
+    "concept_summary": "ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಲಘುಕೋನಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಅದರ ಬಾಹುಗಳ ಅನುಪಾತಗಳನ್ನು ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈ ಅನುಪಾತಗಳು ತ್ರಿಭುಜದ ಗಾತ್ರವನ್ನು ಅವಲಂಬಿಸದೆ, ಕೇವಲ ಕೋನದ ಅಳತೆಯನ್ನು ಅವಲಂಬಿಸಿವೆ. ಇವುಗಳನ್ನು ಬಳಸಿ ತ್ರಿಭುಜದ ಬಾಹುಗಳು ಮತ್ತು ಕೋನಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಅಧ್ಯಯನ ಮಾಡಬಹುದು.",
+    "definitions": [
+      {
+        "term": "ಜ್ಯಾ (sine)",
+        "definition": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\\angle B = 90^\\circ$ ಮತ್ತು $\\angle A$ ಒಂದು ಲಘುಕೋನವಾದರೆ, $\\sin A = \\frac{\\text{A ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}}$"
+      },
+      {
+        "term": "ಕೋಟಿ ಜ್ಯಾ (cosine)",
+        "definition": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\\angle B = 90^\\circ$ ಮತ್ತು $\\angle A$ ಒಂದು ಲಘುಕೋನವಾದರೆ, $\\cos A = \\frac{\\text{A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}}$"
+      },
+      {
+        "term": "ಸ್ಪರ್ಶಕ (tangent)",
+        "definition": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\\angle B = 90^\\circ$ ಮತ್ತು $\\angle A$ ಒಂದು ಲಘುಕೋನವಾದರೆ, $\\tan A = \\frac{\\text{A ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು}}{\\text{A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು}}$"
+      },
+      {
+        "term": "ಕೋಟಿ ಛೇದಕ (cosecant)",
+        "definition": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\\angle B = 90^\\circ$ ಮತ್ತು $\\angle A$ ಒಂದು ಲಘುಕೋನವಾದರೆ, $\\csc A = \\frac{\\text{ವಿಕರ್ಣ}}{\\text{A ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು}}$"
+      },
+      {
+        "term": "ಛೇದಕ (secant)",
+        "definition": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\\angle B = 90^\\circ$ ಮತ್ತು $\\angle A$ ಒಂದು ಲಘುಕೋನವಾದರೆ, $\\sec A = \\frac{\\text{ವಿಕರ್ಣ}}{\\text{A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು}}$"
+      },
+      {
+        "term": "ಕೋಟಿ ಸ್ಪರ್ಶಕ (cotangent)",
+        "definition": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\\angle B = 90^\\circ$ ಮತ್ತು $\\angle A$ ಒಂದು ಲಘುಕೋನವಾದರೆ, $\\cot A = \\frac{\\text{A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{A ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು}}$"
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Sine of A",
+        "latex": "\\sin A = \\frac{BC}{AC}",
+        "condition": "In a right triangle ABC, right-angled at B.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Cosine of A",
+        "latex": "\\cos A = \\frac{AB}{AC}",
+        "condition": "In a right triangle ABC, right-angled at B.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Tangent of A",
+        "latex": "\\tan A = \\frac{BC}{AB}",
+        "condition": "In a right triangle ABC, right-angled at B.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Cosecant as reciprocal of Sine",
+        "latex": "\\csc A = \\frac{1}{\\sin A}",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Secant as reciprocal of Cosine",
+        "latex": "\\sec A = \\frac{1}{\\cos A}",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Cotangent as reciprocal of Tangent",
+        "latex": "\\cot A = \\frac{1}{\\tan A}",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Tangent as Sine/Cosine",
+        "latex": "\\tan A = \\frac{\\sin A}{\\cos A}",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Cotangent as Cosine/Sine",
+        "latex": "\\cot A = \\frac{\\cos A}{\\sin A}",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      }
+    ],
+    "theorems": [],
+    "properties": [
+      "ಅನುಪಾತಗಳ ಅವಲಂಬನೆ: ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳು ಲಘುಕೋನದ ಅಳತೆಯನ್ನು ಮಾತ್ರ ಅವಲಂಬಿಸಿವೆ, ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಉದ್ದವನ್ನಲ್ಲ. ಸಮರೂಪ ತ್ರಿಭುಜಗಳಲ್ಲಿ, ಒಂದೇ ಕೋನಕ್ಕೆ ಅನುಪಾತಗಳು ಸಮನಾಗಿರುತ್ತವೆ.",
+      "ಬೆಲೆಗಳ ವ್ಯಾಪ್ತಿ: ಯಾವುದೇ ಲಘುಕೋನ A ಗೆ, $\\sin A$ ಮತ್ತು $\\cos A$ ಗಳ ಬೆಲೆಗಳು ಯಾವಾಗಲೂ 1 ಕ್ಕಿಂತ ಕಡಿಮೆ ಅಥವಾ ಸಮನಾಗಿರುತ್ತವೆ. $\\sec A$ ಮತ್ತು $\\csc A$ ಗಳ ಬೆಲೆಗಳು ಯಾವಾಗಲೂ 1 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಥವಾ ಸಮನಾಗಿರುತ್ತವೆ.",
+      "ಸಂಕೇತ: $\\sin A$ ಎಂಬುದು $\\sin$ ಮತ್ತು $A$ ಗಳ ಗುಣಲಬ್ಧವಲ್ಲ. ಇದು 'A ಕೋನದ sine' ಎಂಬುದರ ಸಂಕ್ಷಿಪ್ತ ರೂಪ.",
+      "ಸಂಕೇತ: $(\\sin A)^2$ ಅನ್ನು $\\sin^2 A$ ಎಂದು ಬರೆಯಲಾಗುತ್ತದೆ. ಆದರೆ, $\\csc A = (\\sin A)^{-1}$ ಆಗಿದ್ದು, ಇದು $\\sin^{-1} A$ (ಸೈನ್ ವಿಲೋಮ फलನ) ಗಿಂತ ಭಿನ್ನವಾಗಿದೆ. $\\sin^{-1} A$ ಯನ್ನು ಮುಂದಿನ ತರಗತಿಗಳಲ್ಲಿ ಕಲಿಯುವಿರಿ."
+    ],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "description": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC, B ಯಲ್ಲಿ ಲಂಬಕೋನ. ಕೋನ A ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಬಾಹುಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ.",
+        "labels": "A, B, C. BC: A ಗೆ ಅಭಿಮುಖ ಬಾಹು, AB: A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು, AC: ವಿಕರ್ಣ.",
+        "mathematical_significance": "ತ್ರಿಕೋನಮಿತಿಯ ಆರು ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲು ಬಳಸುವ ಮೂಲ ರೇಖಾಚಿತ್ರ. (ಚಿತ್ರ 8.4)",
+        "table_data": ""
+      },
+      {
+        "type": "diagram",
+        "description": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC, B ಯಲ್ಲಿ ಲಂಬಕೋನ. ಕೋನ C ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಬಾಹುಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ.",
+        "labels": "A, B, C. AB: C ಗೆ ಅಭಿಮುಖ ಬಾಹು, BC: C ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು, AC: ವಿಕರ್ಣ.",
+        "mathematical_significance": "ಅಭಿಮುಖ ಮತ್ತು ಪಾರ್ಶ್ವ ಬಾಹುಗಳು ಪರಿಗಣಿಸುವ ಕೋನವನ್ನು ಅವಲಂಬಿಸಿವೆ ಎಂದು ತೋರಿಸುತ್ತದೆ. (ಚಿತ್ರ 8.5)",
+        "table_data": ""
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "TRI-INTRO-1_example_p6",
+      "difficulty": "basic",
+      "problem": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\\sin A = \\frac{1}{3}$ ಆದರೆ, ಕೋನ A ದ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಪಡೆಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶವನ್ನು ಬಳಸಿ ತ್ರಿಭುಜದ ಬಾಹುಗಳನ್ನು ಗುರುತಿಸುವುದು.",
+          "justification": "$\\sin A = \\frac{\\text{ಅಭಿಮುಖ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}} = \\frac{BC}{AC}$",
+          "calculation": "$\\sin A = \\frac{1}{3}$ ಆಗಿರುವುದರಿಂದ, $BC = k$ ಮತ್ತು $AC = 3k$ ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ, ಇಲ್ಲಿ k ಒಂದು ಧನ ಸಂಖ್ಯೆ."
+        },
+        {
+          "step": 2,
+          "action": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಬಳಸಿ ಮೂರನೇ ಬಾಹುವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "$AC^2 = AB^2 + BC^2 \\implies AB^2 = AC^2 - BC^2$",
+          "calculation": "$AB^2 = (3k)^2 - (k)^2 = 9k^2 - k^2 = 8k^2 \\implies AB = \\sqrt{8k^2} = 2\\sqrt{2}k$"
+        },
+        {
+          "step": 3,
+          "action": "ಉಳಿದ ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "ಮೂರೂ ಬಾಹುಗಳ ಅಳತೆಗಳು ತಿಳಿದಿವೆ.",
+          "calculation": "$\\cos A = \\frac{AB}{AC} = \\frac{2\\sqrt{2}k}{3k} = \\frac{2\\sqrt{2}}{3}$\n$\\tan A = \\frac{BC}{AB} = \\frac{k}{2\\sqrt{2}k} = \\frac{1}{2\\sqrt{2}}$"
+        }
+      ],
+      "result": "$\\cos A = \\frac{2\\sqrt{2}}{3}$ ಮತ್ತು ಇತರ ಅನುಪಾತಗಳನ್ನು ಇದೇ ರೀತಿ ಕಂಡುಹಿಡಿಯಬಹುದು.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "TRI-INTRO-1_example_1",
+      "difficulty": "basic",
+      "problem": "$\\tan A = \\frac{4}{3}$ ಆದರೆ ಕೋನ A ಗೆ ಸಂಬಂಧಿಸಿದ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶವನ್ನು ಬಳಸಿ ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಬಾಹುಗಳನ್ನು ಗುರುತಿಸುವುದು.",
+          "justification": "$\\tan A = \\frac{\\text{ಅಭಿಮುಖ ಬಾಹು}}{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}} = \\frac{BC}{AB}$",
+          "calculation": "$\\tan A = \\frac{4}{3}$ ಆಗಿರುವುದರಿಂದ, $BC = 4k$ ಮತ್ತು $AB = 3k$ ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ, ಇಲ್ಲಿ k ಒಂದು ಧನ ಸಂಖ್ಯೆ."
+        },
+        {
+          "step": 2,
+          "action": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಬಳಸಿ ವಿಕರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "$AC^2 = AB^2 + BC^2$",
+          "calculation": "$AC^2 = (3k)^2 + (4k)^2 = 9k^2 + 16k^2 = 25k^2 \\implies AC = \\sqrt{25k^2} = 5k$"
+        },
+        {
+          "step": 3,
+          "action": "ಉಳಿದ ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "ಮೂರೂ ಬಾಹುಗಳ ಅಳತೆಗಳು ತಿಳಿದಿವೆ.",
+          "calculation": "$\\sin A = \\frac{BC}{AC} = \\frac{4k}{5k} = \\frac{4}{5}$\n$\\cos A = \\frac{AB}{AC} = \\frac{3k}{5k} = \\frac{3}{5}$\n$\\csc A = \\frac{1}{\\sin A} = \\frac{5}{4}$\n$\\sec A = \\frac{1}{\\cos A} = \\frac{5}{3}$\n$\\cot A = \\frac{1}{\\tan A} = \\frac{3}{4}$"
+        }
+      ],
+      "result": "$\\sin A = \\frac{4}{5}, \\cos A = \\frac{3}{5}, \\csc A = \\frac{5}{4}, \\sec A = \\frac{5}{3}, \\cot A = \\frac{3}{4}$",
+      "common_trap": ""
+    },
+    {
+      "example_id": "TRI-INTRO-1_example_2",
+      "difficulty": "intermediate",
+      "problem": "$\\angle B$ ಮತ್ತು $\\angle Q$ ಲಘುಕೋನಗಳಾಗಿದ್ದು $\\sin B = \\sin Q$ ಆಗಿದೆ. ಹಾಗಾದರೆ $\\angle B = \\angle Q$ ಎಂದು ಸಾಧಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳನ್ನು (ΔABC ಮತ್ತು ΔPQR) ಪರಿಗಣಿಸುವುದು.",
+          "justification": "ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲು ತ್ರಿಭುಜಗಳು ಬೇಕು. ΔABC ಯಲ್ಲಿ C ಯಲ್ಲಿ ಲಂಬಕೋನ, ΔPQR ನಲ್ಲಿ R ನಲ್ಲಿ ಲಂಬಕೋನ.",
+          "calculation": "$\\sin B = \\frac{AC}{AB}$ ಮತ್ತು $\\sin Q = \\frac{PR}{PQ}$"
+        },
+        {
+          "step": 2,
+          "action": "ದತ್ತ ಸಂಬಂಧವನ್ನು ಬಳಸಿ ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಸಮೀಕರಿಸುವುದು.",
+          "justification": "ದತ್ತ: $\\sin B = \\sin Q$",
+          "calculation": "$\\frac{AC}{AB} = \\frac{PR}{PQ} \\implies \\frac{AC}{PR} = \\frac{AB}{PQ} = k$ (ಆಗಿರಲಿ) ... (1)"
+        },
+        {
+          "step": 3,
+          "action": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಬಳಸಿ ಮೂರನೇ ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ತ್ರಿಭುಜಗಳ ಸಮರೂಪತೆಯನ್ನು ಸಾಧಿಸಲು ಮೂರೂ ಬಾಹುಗಳ ಅನುಪಾತ ಬೇಕು.",
+          "calculation": "$BC = \\sqrt{AB^2 - AC^2}$\n$QR = \\sqrt{PQ^2 - PR^2}$\n$\\frac{BC}{QR} = \\frac{\\sqrt{AB^2 - AC^2}}{\\sqrt{PQ^2 - PR^2}} = \\frac{\\sqrt{(k \\cdot PQ)^2 - (k \\cdot PR)^2}}{\\sqrt{PQ^2 - PR^2}} = \\frac{k\\sqrt{PQ^2 - PR^2}}{\\sqrt{PQ^2 - PR^2}} = k$ ... (2)"
+        },
+        {
+          "step": 4,
+          "action": "ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ಅನ್ವಯಿಸುವುದು.",
+          "justification": "(1) ಮತ್ತು (2) ರಿಂದ, $\\frac{AC}{PR} = \\frac{AB}{PQ} = \\frac{BC}{QR}$. ಬಾ.ಬಾ.ಬಾ ಸಮರೂಪತೆಯ ಪ್ರಕಾರ, ತ್ರಿಭುಜಗಳು ಸಮರೂಪಿಯಾಗಿವೆ.",
+          "calculation": "ΔACB ~ ΔPRQ"
+        },
+        {
+          "step": 5,
+          "action": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮವೆಂದು ತೀರ್ಮಾನಿಸುವುದು.",
+          "justification": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮನಾಗಿರುತ್ತವೆ.",
+          "calculation": "$\\angle B = \\angle Q$"
+        }
+      ],
+      "result": "$\\angle B = \\angle Q$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "TRI-INTRO-1_example_3",
+      "difficulty": "intermediate",
+      "problem": "ΔACB ಯಲ್ಲಿ, C ಯಲ್ಲಿ ಲಂಬಕೋನ, AB = 29 ಮಾನಗಳು, BC = 21 ಮಾನಗಳು ಮತ್ತು $\\angle ABC = \\theta$ ಆದರೆ, ಇವುಗಳ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ: i) $\\cos^2 \\theta + \\sin^2 \\theta$ ಮತ್ತು ii) $\\cos^2 \\theta - \\sin^2 \\theta$.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಬಳಸಿ ಮೂರನೇ ಬಾಹು AC ಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "$AC^2 + BC^2 = AB^2$",
+          "calculation": "$AC = \\sqrt{AB^2 - BC^2} = \\sqrt{29^2 - 21^2} = \\sqrt{(29-21)(29+21)} = \\sqrt{8 \\times 50} = \\sqrt{400} = 20$ ಮಾನಗಳು."
+        },
+        {
+          "step": 2,
+          "action": "$\\sin \\theta$ ಮತ್ತು $\\cos \\theta$ ದ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "$\\theta$ ಕೋನಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ, AC ಅಭಿಮುಖ ಬಾಹು ಮತ್ತು BC ಪಾರ್ಶ್ವ ಬಾಹು.",
+          "calculation": "$\\sin \\theta = \\frac{AC}{AB} = \\frac{20}{29}$ ಮತ್ತು $\\cos \\theta = \\frac{BC}{AB} = \\frac{21}{29}$."
+        },
+        {
+          "step": 3,
+          "action": "ಮೊದಲ ಅಭಿವ್ಯಕ್ತಿಯ ಬೆಲೆಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "i) $\\cos^2 \\theta + \\sin^2 \\theta$",
+          "calculation": "$(\\frac{21}{29})^2 + (\\frac{20}{29})^2 = \\frac{21^2 + 20^2}{29^2} = \\frac{441 + 400}{841} = \\frac{841}{841} = 1$."
+        },
+        {
+          "step": 4,
+          "action": "ಎರಡನೇ ಅಭಿವ್ಯಕ್ತಿಯ ಬೆಲೆಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "ii) $\\cos^2 \\theta - \\sin^2 \\theta$",
+          "calculation": "$(\\frac{21}{29})^2 - (\\frac{20}{29})^2 = \\frac{21^2 - 20^2}{29^2} = \\frac{441 - 400}{841} = \\frac{41}{841}$."
+        }
+      ],
+      "result": "i) $\\cos^2 \\theta + \\sin^2 \\theta = 1$ ಮತ್ತು ii) $\\cos^2 \\theta - \\sin^2 \\theta = \\frac{41}{841}$.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "TRI-INTRO-1_example_4",
+      "difficulty": "intermediate",
+      "problem": "ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, B ಯಲ್ಲಿ ಲಂಬಕೋನವಾಗಿದೆ. $\\tan A = 1$ ಆದರೆ, $2 \\sin A \\cos A = 1$ ಆಗಿದೆಯೇ? ಪರೀಕ್ಷಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶದಿಂದ ಬಾಹುಗಳ ಸಂಬಂಧವನ್ನು ಗುರುತಿಸುವುದು.",
+          "justification": "$\\tan A = \\frac{BC}{AB} = 1$",
+          "calculation": "$\\tan A = 1$ ಎಂದರೆ $BC = AB$. $AB = BC = k$ ಆಗಿರಲಿ, ಇಲ್ಲಿ k ಒಂದು ಧನ ಸಂಖ್ಯೆ."
+        },
+        {
+          "step": 2,
+          "action": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಬಳಸಿ ವಿಕರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "$AC^2 = AB^2 + BC^2$",
+          "calculation": "$AC = \\sqrt{k^2 + k^2} = \\sqrt{2k^2} = k\\sqrt{2}$."
+        },
+        {
+          "step": 3,
+          "action": "$\\sin A$ ಮತ್ತು $\\cos A$ ದ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ಮೂರೂ ಬಾಹುಗಳ ಅಳತೆಗಳು ತಿಳಿದಿವೆ.",
+          "calculation": "$\\sin A = \\frac{BC}{AC} = \\frac{k}{k\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$\n$\\cos A = \\frac{AB}{AC} = \\frac{k}{k\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$."
+        },
+        {
+          "step": 4,
+          "action": "ದತ್ತ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+          "justification": "$2 \\sin A \\cos A$ ಯಲ್ಲಿ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸುವುದು.",
+          "calculation": "$2 \\sin A \\cos A = 2(\\frac{1}{\\sqrt{2}})(\\frac{1}{\\sqrt{2}}) = 2(\\frac{1}{2}) = 1$."
+        }
+      ],
+      "result": "ಹೌದು, $2 \\sin A \\cos A = 1$ ಎಂಬುದು ಸತ್ಯ.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "TRI-INTRO-1_example_5",
+      "difficulty": "intermediate",
+      "problem": "ΔOPQ ಯಲ್ಲಿ, P ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬಕೋನವಾಗಿದೆ. OP = 7 cm ಮತ್ತು OQ - PQ = 1 cm. $\\sin Q$ ಮತ್ತು $\\cos Q$ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸುವುದು.",
+          "justification": "ΔOPQ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ.",
+          "calculation": "$OQ^2 = OP^2 + PQ^2$"
+        },
+        {
+          "step": 2,
+          "action": "ದತ್ತ ಸಂಬಂಧವನ್ನು ಬಳಸಿ ಸಮೀಕರಣವನ್ನು ಒಂದು ಚರಾಕ್ಷರಕ್ಕೆ ಇಳಿಸುವುದು.",
+          "justification": "ದತ್ತ: $OQ - PQ = 1 \\implies OQ = 1 + PQ$.",
+          "calculation": "$(1 + PQ)^2 = OP^2 + PQ^2$"
+        },
+        {
+          "step": 3,
+          "action": "ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿ PQ ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ಬೀಜಗಣಿತದ ವಿಸ್ತರಣೆ ಮತ್ತು ಸರಳೀಕರಣ.",
+          "calculation": "$1^2 + 2(1)(PQ) + PQ^2 = 7^2 + PQ^2 \\implies 1 + 2PQ + PQ^2 = 49 + PQ^2 \\implies 2PQ = 48 \\implies PQ = 24$ cm."
+        },
+        {
+          "step": 4,
+          "action": "OQ ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "$OQ = 1 + PQ$",
+          "calculation": "$OQ = 1 + 24 = 25$ cm."
+        },
+        {
+          "step": 5,
+          "action": "$\\sin Q$ ಮತ್ತು $\\cos Q$ ಬೆಲೆಗಳನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "ಅನುಪಾತಗಳ ವ್ಯಾಖ್ಯಾನದಂತೆ.",
+          "calculation": "$\\sin Q = \\frac{\\text{ಅಭಿಮುಖ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}} = \\frac{OP}{OQ} = \\frac{7}{25}$\n$\\cos Q = \\frac{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}} = \\frac{PQ}{OQ} = \\frac{24}{25}$."
+        }
+      ],
+      "result": "$\\sin Q = \\frac{7}{25}$ ಮತ್ತು $\\cos Q = \\frac{24}{25}$.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಒಂದು ಅನುಪಾತವನ್ನು ನೀಡಿ ಇನ್ನೊಂದನ್ನು ಕೇಳುವುದು.",
+    "two_mark_note": "ಒಂದು ಅನುಪಾತ ನೀಡಿ, ಒಂದು ಅಭಿವ್ಯಕ್ತಿಯ (expression) ಬೆಲೆ ಕಂಡುಹಿಡಿಯಲು ಕೇಳುವುದು.",
+    "five_mark_note": "ಸಾಧಿಸುವ (prove that) ಮಾದರಿಯ ಪ್ರಶ್ನೆಗಳು (ಉದಾ. 2).",
+    "common_mistakes": [
+      "ವಿದ್ಯಾರ್ಥಿಗಳು ಲಘುಕೋನ ಬದಲಾದಾಗ ಅಭಿಮುಖ ಮತ್ತು ಪಾರ್ಶ್ವ ಬಾಹುಗಳು ಬದಲಾಗುತ್ತವೆ ಎಂಬುದನ್ನು ಮರೆಯುತ್ತಾರೆ. ಯಾವಾಗಲೂ ಒಂದು ನಿರ್ದಿಷ್ಟ ಕೋನಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಬಾಹುಗಳನ್ನು ಗುರುತಿಸಬೇಕು."
+    ],
+    "boundary_conditions": [
+      "ಈ ಅನುಪಾತಗಳನ್ನು ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಲಘುಕೋನಗಳಿಗೆ ಮಾತ್ರ ವ್ಯಾಖ್ಯಾನಿಸಲಾಗಿದೆ."
+    ],
+    "connects_to": [
+      "ಈ ಅನುಪಾತಗಳು ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಕೋನಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ಆಧಾರವಾಗಿವೆ."
+    ]
+  }
+}

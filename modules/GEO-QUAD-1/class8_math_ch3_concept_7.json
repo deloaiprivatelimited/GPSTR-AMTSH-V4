@@ -1,0 +1,76 @@
+{
+  "module_id": "class8_math_ch3_concept_7",
+  "module_title": "ವಿಶೇಷ ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳು: ಆಯತ (Special Parallelograms: Rectangle)",
+  "class": "8",
+  "chapter": "3",
+  "chapter_title": "ಚತುರ್ಭುಜಗಳ ಪರಿಚಯ (Understanding Quadrilaterals)",
+  "domain": "ರೇಖಾಗಣಿತ",
+  "prerequisites": [
+    "class8_math_ch3_concept_1",
+    "class8_math_ch3_concept_2",
+    "class8_math_ch3_concept_3",
+    "class8_math_ch3_concept_4",
+    "class8_math_ch3_concept_5",
+    "class8_math_ch3_concept_6"
+  ],
+  "theory": {
+    "concept_summary": "ಆಯತವು ಒಂದು ಕೋನವು ಲಂಬಕೋನವಾಗಿರುವ ವಿಶೇಷ ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿದೆ, ಇದರಿಂದಾಗಿ ಅದರ ಎಲ್ಲಾ ಕೋನಗಳು 90° ಆಗಿರುತ್ತವೆ. ಇದು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಎಲ್ಲಾ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿರುವುದರ ಜೊತೆಗೆ, ಅದರ ಕರ್ಣಗಳು ಸಮನಾಗಿರುತ್ತವೆ ಎಂಬ ವಿಶಿಷ್ಟ ಗುಣವನ್ನು ಹೊಂದಿದೆ. ಆಯತವು ಸಮಕೋನೀಯ ಚತುರ್ಭುಜವಾಗಿದೆ.",
+    "definitions": [
+      {
+        "term": "ಆಯತ (Rectangle)",
+        "definition": "ಒಂದು ಕೋನವು ಲಂಬಕೋನವಾಗಿರುವ (90°) ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ಆಯತ ಎನ್ನುವರು. ಇದರ ಎಲ್ಲಾ ಕೋನಗಳು 90° ಆಗಿರುತ್ತವೆ. ಇದು ಸಮಕೋನೀಯ ಚತುರ್ಭುಜವಾಗಿದೆ."
+      }
+    ],
+    "formulas": [],
+    "theorems": [
+      {
+        "theorem_name": "Rectangle Diagonals Theorem",
+        "statement": "ಆಯತದ ಕರ್ಣಗಳು ಸಮನಾಗಿರುತ್ತವೆ ಮತ್ತು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ.",
+        "proof_sketch": "ಆಯತ ABCD ಯಲ್ಲಿ, ಪಕ್ಕದ ತ್ರಿಭುಜಗಳಾದ ΔABC ಮತ್ತು ΔBAD ಗಳನ್ನು ಪರಿಗಣಿಸಿ. AB ಸಾಮಾನ್ಯ ಬಾಹು, BC=AD (ಆಯತದ ಅಭಿಮುಖ ಬಾಹುಗಳು), ಮತ್ತು ∠B = ∠A = 90°. SAS ಸರ್ವಸಮತೆಯ ಪ್ರಕಾರ, ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮ. ಆದ್ದರಿಂದ, ಅನುರೂಪ ಬಾಹುಗಳಾದ AC ಮತ್ತು BD ಸಮನಾಗಿರುತ್ತವೆ.",
+        "converse": "",
+        "special_cases": [],
+        "common_error": ""
+      }
+    ],
+    "properties": [
+      "1. ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಎಲ್ಲಾ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿದೆ.",
+      "2. ವಿಶಿಷ್ಟ ಗುಣಲಕ್ಷಣ: ಆಯತದ ಕರ್ಣಗಳು ಸಮನಾಗಿರುತ್ತವೆ (diagonals are equal)."
+    ],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class8_math_ch3_example_8",
+      "difficulty": "basic",
+      "problem": "ಆಯತ RENT ನಲ್ಲಿ ಕರ್ಣಗಳು O ನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. OR = 2x + 4 ಮತ್ತು OT = 3x + 1 ಆದರೆ, x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಆಯತದ ಕರ್ಣಗಳ ಗುಣಲಕ್ಷಣವನ್ನು ಬಳಸಿ.",
+          "justification": "ಆಯತದ ಕರ್ಣಗಳು ಸಮನಾಗಿರುತ್ತವೆ ಮತ್ತು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಇದರರ್ಥ, ಕರ್ಣಗಳ ಛೇದನ ಬಿಂದುವಿನಿಂದ ಶೃಂಗಗಳಿಗಿರುವ ಎಲ್ಲಾ ನಾಲ್ಕು ಭಾಗಗಳು ಸಮ. ಅಂದರೆ, OR = ON = OE = OT."
+        },
+        {
+          "step": 2,
+          "action": "OR ಮತ್ತು OT ಗಳನ್ನು ಸಮೀಕರಿಸಿ.",
+          "justification": "OR = OT => 2x + 4 = 3x + 1."
+        },
+        {
+          "step": 3,
+          "action": "x ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿ.",
+          "justification": "4 - 1 = 3x - 2x => 3 = x."
+        }
+      ],
+      "result": "x = 3.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಯಾವ ಚತುರ್ಭುಜದ ಕರ್ಣಗಳು ಸಮನಾಗಿರುತ್ತವೆ? (ಉತ್ತರ: ಆಯತ, ಚೌಕ, ಸಮದ್ವಿಬಾಹು ತ್ರಾಪಿಜ್ಯ).",
+    "two_mark_note": "ಆಯತದ ಒಂದು ಬಾಹು 8 ಸೆಂ.ಮೀ. ಮತ್ತು ಕರ್ಣ 10 ಸೆಂ.ಮೀ. ಆದರೆ, ಇನ್ನೊಂದು ಬಾಹುವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಬಳಸಿ: 10² = 8² + b² => 100 = 64 + b² => b² = 36 => b = 6 ಸೆಂ.ಮೀ.).",
+    "five_mark_note": "",
+    "common_mistakes": [],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

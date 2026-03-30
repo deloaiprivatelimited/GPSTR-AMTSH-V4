@@ -1,0 +1,106 @@
+{
+  "module_id": "class10_math_ch3_concept_3",
+  "module_title": "ಪರಿಹಾರಗಳ ಅಸ್ತಿತ್ವದ ಬೀಜಗಣಿತೀಯ ನಿಬಂಧನೆಗಳು",
+  "class": "10",
+  "chapter": "3",
+  "chapter_title": "ಎರಡು ಚರಾಕ್ಷರಗಳಿರುವ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳ ಜೋಡಿಗಳು",
+  "domain": "ಬೀಜಗಣಿತ",
+  "prerequisites": [
+    "class10_math_ch3_concept_1",
+    "class10_math_ch3_concept_2"
+  ],
+  "theory": {
+    "concept_summary": "ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳ ಜೋಡಿಯ ಪರಿಹಾರಗಳ ಸ್ವರೂಪವನ್ನು (ಅನನ್ಯ, ಅಪರಿಮಿತ, ಅಥವಾ ಪರಿಹಾರವಿಲ್ಲ) ಅವುಗಳ ಸಹಗುಣಕಗಳ ಅನುಪಾತಗಳನ್ನು ಹೋಲಿಸುವ ಮೂಲಕ ನಕ್ಷೆ ರಚಿಸದೆಯೇ ನಿರ್ಧರಿಸಬಹುದು. ಇದು ಬಹು ಆಯ್ಕೆ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉಪಯುಕ್ತವಾಗಿದ್ದು, ಸಮಯವನ್ನು ಉಳಿಸುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ಪರಿಹಾರಗಳ ಅಸ್ತಿತ್ವದ ಬೀಜಗಣಿತೀಯ ನಿಬಂಧನೆಗಳು",
+        "definition": "`a₁x + b₁y + c₁ = 0` ಮತ್ತು `a₂x + b₂y + c₂ = 0` ಸಮೀಕರಣಗಳ ಜೋಡಿಗೆ, ನಕ್ಷೆಯನ್ನು ರಚಿಸದೆಯೇ, ಅವುಗಳ ಸಹಗುಣಕಗಳ (coefficients) ಅನುಪಾತಗಳನ್ನು ಹೋಲಿಸುವ ಮೂಲಕ ಪರಿಹಾರಗಳ ಸ್ವರೂಪವನ್ನು (ಅನನ್ಯ, ಅಪರಿಮಿತ, ಅಥವಾ ಪರಿಹಾರವಿಲ್ಲ) ನಿರ್ಧರಿಸಬಹುದು."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Condition for Unique Solution",
+        "latex": "\\frac{a_1}{a_2} \\neq \\frac{b_1}{b_2}",
+        "condition": "",
+        "exception": null,
+        "derived_from": "The slopes of the two lines (-a₁/b₁ and -a₂/b₂) are not equal.",
+        "used_in": "To check for intersecting lines (consistent system)."
+      },
+      {
+        "formula_name": "Condition for Infinitely Many Solutions",
+        "latex": "\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}",
+        "condition": "",
+        "exception": null,
+        "derived_from": "The two equations are equivalent, representing the same line.",
+        "used_in": "To check for coincident lines (dependent consistent system)."
+      },
+      {
+        "formula_name": "Condition for No Solution",
+        "latex": "\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}",
+        "condition": "",
+        "exception": null,
+        "derived_from": "The slopes are equal, but the y-intercepts are different.",
+        "used_in": "To check for parallel lines (inconsistent system)."
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "table",
+        "id": "class10_math_ch3_consistency_conditions_table",
+        "render_target": "html_table",
+        "exam_relevance": "MCQ | 2-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": null,
+        "concept_latex": null,
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [],
+        "purpose": "ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳ ಜೋಡಿಯ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಅವುಗಳ ಸಹಗುಣಕಗಳ ಅನುಪಾತಗಳ ಮೂಲಕ ಹೋಲಿಸುವುದು.",
+        "headers": [
+          "ಅನುಪಾತಗಳ ಹೋಲಿಕೆ",
+          "ನಕ್ಷಾ ನಿರೂಪಣೆ",
+          "ಬೀಜಗಣಿತೀಯ ಅರ್ಥವಿವರಣೆ",
+          "ಸ್ಥಿರತೆಯ ವಿಧ"
+        ],
+        "rows": [
+          [
+            "`\\frac{a_1}{a_2} \\neq \\frac{b_1}{b_2}`",
+            "ಛೇದಿಸುವ ರೇಖೆಗಳು",
+            "ಒಂದು ಅನನ್ಯ ಪರಿಹಾರ",
+            "ಸ್ಥಿರ (Consistent)"
+          ],
+          [
+            "`\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}`",
+            "ಐಕ್ಯಗೊಳ್ಳುವ ರೇಖೆಗಳು",
+            "ಅಪರಿಮಿತ ಪರಿಹಾರಗಳು",
+            "ಅವಲಂಬಿತ ಸ್ಥಿರ (Dependent)"
+          ],
+          [
+            "`\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}`",
+            "ಸಮಾಂತರ ರೇಖೆಗಳು",
+            "ಪರಿಹಾರವಿಲ್ಲ",
+            "ಅಸ್ಥಿರ (Inconsistent)"
+          ]
+        ],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಒಂದು ಜೋಡಿ ಸಮೀಕರಣಗಳನ್ನು ನೀಡಿ, ಅವು ಸ್ಥಿರ, ಅಸ್ಥಿರ ಅಥವಾ ಅವಲಂಬಿತವೇ ಎಂದು ಕೇಳುವುದು.",
+    "two_mark_note": "`k` ಯ ಯಾವ ಬೆಲೆಗೆ ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣಗಳ ಜೋಡಿಗೆ ಅನನ್ಯ/ಅಪರಿಮಿತ/ಪರಿಹಾರವಿಲ್ಲದ ಸ್ಥಿತಿ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "five_mark_note": "",
+    "common_mistakes": [
+      "ಸಮೀಕರಣಗಳನ್ನು `ax+by+c=0` ರೂಪಕ್ಕೆ ತರದೇ `c` ಯ ಚಿಹ್ನೆಯನ್ನು ತಪ್ಪಾಗಿ ಬಳಸುವುದು. ಉದಾಹರಣೆಗೆ, `x+y=5` ಅನ್ನು `x+y-5=0` ಎಂದು ಪರಿಗಣಿಸಬೇಕು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

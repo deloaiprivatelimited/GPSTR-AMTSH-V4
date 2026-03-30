@@ -1,0 +1,95 @@
+{
+  "module_id": "class7_math_ch2_concept_7",
+  "module_title": "ಭಿನ್ನರಾಶಿಗಳ ಭಾಗಾಕಾರ",
+  "class": "7",
+  "chapter": "2",
+  "chapter_title": "ಭಿನ್ನರಾಶಿಗಳು ಮತ್ತು ದಶಮಾಂಶಗಳು",
+  "domain": "ಸಂಖ್ಯಾಶಾಸ್ತ್ರ",
+  "prerequisites": [
+    "class7_math_ch2_concept_1",
+    "class7_math_ch2_concept_2",
+    "class7_math_ch2_concept_3",
+    "class7_math_ch2_concept_4",
+    "class7_math_ch2_concept_5",
+    "class7_math_ch2_concept_6"
+  ],
+  "theory": {
+    "concept_summary": "ಭಿನ್ನರಾಶಿಗಳ ಭಾಗಾಕಾರವು ಗುಣಾಕಾರದ ವಿಲೋಮ ಕ್ರಿಯೆಯಾಗಿದೆ. ಒಂದು ಭಿನ್ನರಾಶಿಯಿಂದ ಭಾಗಿಸುವುದು ಎಂದರೆ, ಅದರ ವ್ಯುತ್ಕ್ರಮದಿಂದ ಗುಣಿಸುವುದು. ವ್ಯುತ್ಕ್ರಮ ಎಂದರೆ ಎರಡು ಶೂನ್ಯವಲ್ಲದ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧ 1 ಆಗಿದ್ದರೆ, ಅವುಗಳನ್ನು ಪರಸ್ಪರ ವ್ಯುತ್ಕ್ರಮಗಳು ಎನ್ನುತ್ತಾರೆ. ಮಿಶ್ರ ಭಿನ್ನರಾಶಿಗಳನ್ನು ಭಾಗಿಸುವ ಮೊದಲು ವಿಷಮ ಭಿನ್ನರಾಶಿಗಳಾಗಿ ಪರಿವರ್ತಿಸಬೇಕು.",
+    "definitions": [
+      {
+        "term": "ಭಿನ್ನರಾಶಿಗಳ ಭಾಗಾಕಾರ",
+        "definition": "ಒಂದು ಭಿನ್ನರಾಶಿಯನ್ನು ಮತ್ತೊಂದು ಭಿನ್ನರಾಶಿ ಅಥವಾ ಪೂರ್ಣ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸುವ ಕ್ರಿಯೆ. ಇದು ಗುಣಾಕಾರದ ವಿಲೋಮ ಕ್ರಿಯೆಯಾಗಿದೆ."
+      },
+      {
+        "term": "ವ್ಯುತ್ಕ್ರಮ (Reciprocal)",
+        "definition": "ಎರಡು ಶೂನ್ಯವಲ್ಲದ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧ 1 ಆಗಿದ್ದರೆ, ಅವುಗಳನ್ನು ಪರಸ್ಪರ ವ್ಯುತ್ಕ್ರಮಗಳು ಎನ್ನುತ್ತಾರೆ. `a/b` ಯ ವ್ಯುತ್ಕ್ರಮ `b/a` ಆಗಿದೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Division of Fractions",
+        "latex": "\\frac{a}{b} \\div \\frac{c}{d} = \\frac{a}{b} \\times \\frac{d}{c}",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಭಿನ್ನರಾಶಿಯಿಂದ ಭಾಗಿಸುವುದು",
+        "latex": "a \\div \\frac{b}{c} = a \\times \\frac{c}{b}",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "ಭಿನ್ನರಾಶಿಯನ್ನು ಪೂರ್ಣ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸುವುದು",
+        "latex": "\\frac{a}{b} \\div c = \\frac{a}{b} \\times \\frac{1}{c}",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class7_math_ch2_example_6",
+      "difficulty": "basic",
+      "problem": "`1/3 ÷ 5/6` ನ್ನು ಲೆಕ್ಕ ಮಾಡಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಭಾಜಕ ಭಿನ್ನರಾಶಿಯ (`5/6`) ವ್ಯುತ್ಕ್ರಮವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. `5/6` ರ ವ್ಯುತ್ಕ್ರಮ `6/5`.",
+          "justification": "ಭಾಗಾಕಾರವನ್ನು ಗುಣಾಕಾರವಾಗಿ ಪರಿವರ್ತಿಸಲು."
+        },
+        {
+          "step": 2,
+          "action": "ಮೊದಲ ಭಿನ್ನರಾಶಿಯನ್ನು (`1/3`) ಭಾಜಕದ ವ್ಯುತ್ಕ್ರಮದಿಂದ (`6/5`) ಗುಣಿಸಿ. `1/3 × 6/5`.",
+          "justification": "ಭಾಗಾಕಾರದ ನಿಯಮವನ್ನು ಅನ್ವಯಿಸುವುದು."
+        },
+        {
+          "step": 3,
+          "action": "ಗುಣಲಬ್ಧವನ್ನು ಕಂಡುಹಿಡಿದು, ಅಗತ್ಯವಿದ್ದರೆ ಸರಳೀಕರಿಸಿ. ` (1 × 6) / (3 × 5) = 6/15`. ಸರಳೀಕರಿಸಿದಾಗ, `(6÷3)/(15÷3) = 2/5`.",
+          "justification": "ಅಂತಿಮ ಉತ್ತರವನ್ನು ಪಡೆಯಲು."
+        }
+      ],
+      "result": "`1/3 ÷ 5/6 = 2/5`.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "`2/3` ರ ವ್ಯುತ್ಕ್ರಮ ಯಾವುದು ಎಂದು ಕೇಳಬಹುದು.",
+    "two_mark_note": "ಎರಡು ಭಿನ್ನರಾಶಿಗಳ ಭಾಗಾಕಾರದ ಲೆಕ್ಕವನ್ನು ಕೇಳಬಹುದು.",
+    "five_mark_note": "",
+    "common_mistakes": [
+      "ಭಾಗಾಕಾರವನ್ನು ಗುಣಾಕಾರವಾಗಿ ಪರಿವರ್ತಿಸುವಾಗ, ಮೊದಲನೇ ಭಿನ್ನರಾಶಿಯ (ಭಾಜ್ಯ) ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

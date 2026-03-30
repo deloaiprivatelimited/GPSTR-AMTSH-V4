@@ -1,0 +1,172 @@
+{
+  "module_id": "class8_math_ch9_concept_2",
+  "module_title": "ಘನವಸ್ತುಗಳ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ",
+  "class": "8",
+  "chapter": "9",
+  "chapter_title": "ಕ್ಷೇತ್ರಗಣಿತ (Mensuration)",
+  "domain": "ಮಿತಿಮಾಪನ (Mensuration)",
+  "prerequisites": [
+    "class8_math_ch9_concept_1"
+  ],
+  "theory": {
+    "concept_summary": "ಘನವಸ್ತುವಿನ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (TSA) ಅದರ ಎಲ್ಲಾ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಮೊತ್ತವಾಗಿದೆ. ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (LSA) ಅಥವಾ ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (CSA) ತಳ ಮತ್ತು ಮೇಲ್ಭಾಗವನ್ನು ಹೊರತುಪಡಿಸಿ ಉಳಿದ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದನ್ನು ಘನವಸ್ತುವಿನ 'ಜಾಲ'ದ ವಿಸ್ತೀರ್ಣದಿಂದಲೂ ಲೆಕ್ಕಹಾಕಬಹುದು.",
+    "definitions": [
+      {
+        "term": "ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (Total Surface Area - TSA)",
+        "definition": "ಒಂದು ಘನವಸ್ತುವಿನ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (Total Surface Area - TSA) ಎಂದರೆ ಅದರ ಎಲ್ಲಾ ಮುಖಗಳ (ತಳ ಮತ್ತು ಮೇಲ್ಭಾಗ ಸೇರಿದಂತೆ) ವಿಸ್ತೀರ್ಣಗಳ ಒಟ್ಟು ಮೊತ್ತ."
+      },
+      {
+        "term": "ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (Lateral Surface Area - LSA)",
+        "definition": "ಒಂದು ಘನವಸ್ತುವಿನ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (Lateral Surface Area - LSA) ಎಂದರೆ ಅದರ ತಳ ಮತ್ತು ಮೇಲ್ಭಾಗವನ್ನು ಹೊರತುಪಡಿಸಿ, ಉಳಿದ ಪಾರ್ಶ್ವ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಒಟ್ಟು ಮೊತ್ತ."
+      },
+      {
+        "term": "ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (Curved Surface Area - CSA)",
+        "definition": "ಸಿಲಿಂಡರ್‌ನಂತಹ ವಕ್ರ ಮೇಲ್ಮೈ ಹೊಂದಿರುವ ವಸ್ತುಗಳಿಗೆ ಇದನ್ನು ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (Curved Surface Area - CSA) ಎನ್ನಲಾಗುತ್ತದೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "TSA of a Cuboid",
+        "latex": "A_{TSA} = 2(lb + bh + hl)",
+        "condition": "l, b, h ಗಳು ಆಯತ ಘನದ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರ.",
+        "exception": "",
+        "derived_from": "Sum of the areas of the 6 rectangular faces.",
+        "used_in": "Packaging, construction."
+      },
+      {
+        "formula_name": "LSA of a Cuboid",
+        "latex": "A_{LSA} = 2h(l + b)",
+        "condition": "l, b, h ಗಳು ಆಯತ ಘನದ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರ.",
+        "exception": "",
+        "derived_from": "Sum of the areas of the 4 side faces. Also, Perimeter of base × height.",
+        "used_in": "Calculating the area of the four walls of a room."
+      },
+      {
+        "formula_name": "TSA of a Cube",
+        "latex": "A_{TSA} = 6l^2",
+        "condition": "l ಎಂಬುದು ಚೌಕಘನದ ಬಾಹುವಿನ (ಅಂಚಿನ) ಉದ್ದ.",
+        "exception": "",
+        "derived_from": "Special case of a cuboid where l=b=h.",
+        "used_in": "Problems involving cubic objects."
+      },
+      {
+        "formula_name": "LSA of a Cube",
+        "latex": "A_{LSA} = 4l^2",
+        "condition": "l ಎಂಬುದು ಚೌಕಘನದ ಬಾಹುವಿನ ಉದ್ದ.",
+        "exception": "",
+        "derived_from": "Area of 4 square faces.",
+        "used_in": "Problems involving painting/covering the sides of a cube."
+      },
+      {
+        "formula_name": "CSA of a Cylinder",
+        "latex": "A_{CSA} = 2\\pi rh",
+        "condition": "r ಎಂಬುದು ಸಿಲಿಂಡರ್‌ನ ತಳದ ತ್ರಿಜ್ಯ ಮತ್ತು h ಎಂಬುದು ಅದರ ಎತ್ತರ.",
+        "exception": "",
+        "derived_from": "Area of the unrolled rectangular surface (length = 2πr, width = h).",
+        "used_in": "Calculating surface area of pipes, pillars, cans."
+      },
+      {
+        "formula_name": "TSA of a Cylinder",
+        "latex": "A_{TSA} = 2\\pi r(r + h)",
+        "condition": "r ಎಂಬುದು ಸಿಲಿಂಡರ್‌ನ ತಳದ ತ್ರಿಜ್ಯ ಮತ್ತು h ಎಂಬುದು ಅದರ ಎತ್ತರ.",
+        "exception": "",
+        "derived_from": "CSA + Area of two circular bases = 2πrh + 2(πr²).",
+        "used_in": "Calculating total material needed for a closed cylindrical container."
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class8_math_ch9_example_3",
+      "difficulty": "intermediate",
+      "problem": "ಒಂದು ಕೊಠಡಿಯು ಆಯತಘನಾಕಾರದಲ್ಲಿದ್ದು, ಅದರ ಒಳ ಅಳತೆಗಳು 12 ಮೀ × 8 ಮೀ × 4 ಮೀ ಇವೆ. ಪ್ರತಿ ಚದರ ಮೀಟರ್‌ಗೆ 5 ರೂಪಾಯಿಗಳಂತೆ ಕೊಠಡಿಯ ನಾಲ್ಕು ಗೋಡೆಗಳು ಮತ್ತು ಒಳಮಾಳಿಗೆಗೆ ಸುಣ್ಣ ಬಳಿಯಲು ತಗಲುವ ಒಟ್ಟು ಖರ್ಚನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಸುಣ್ಣ ಬಳಿಯಬೇಕಾದ ಭಾಗದ ವಿಸ್ತೀರ್ಣವನ್ನು ಗುರುತಿಸಿ.",
+          "justification": "ನಾಲ್ಕು ಗೋಡೆಗಳ ವಿಸ್ತೀರ್ಣ (LSA) ಮತ್ತು ಒಳಮಾಳಿಗೆಯ (ತಳದ ಮೇಲ್ಭಾಗ) ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನೆಲಕ್ಕೆ ಸುಣ್ಣ ಬಳಿಯುವುದಿಲ್ಲ."
+        },
+        {
+          "step": 2,
+          "action": "ಕೊಠಡಿಯ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು (LSA) ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+          "justification": "l=12 ಮೀ, b=8 ಮೀ, h=4 ಮೀ. LSA = 2h(l+b) = 2 * 4 * (12 + 8) = 8 * 20 = 160 ಚ.ಮೀ."
+        },
+        {
+          "step": 3,
+          "action": "ಒಳಮಾಳಿಗೆಯ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+          "justification": "Area_ceiling = l * b = 12 * 8 = 96 ಚ.ಮೀ."
+        },
+        {
+          "step": 4,
+          "action": "ಸುಣ್ಣ ಬಳಿಯಬೇಕಾದ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+          "justification": "Total Area = LSA + Area_ceiling = 160 + 96 = 256 ಚ.ಮೀ."
+        },
+        {
+          "step": 5,
+          "action": "ಒಟ್ಟು ಖರ್ಚನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+          "justification": "ಖರ್ಚು = ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ × ಪ್ರತಿ ಚ.ಮೀ.ಗೆ ದರ = 256 × 5 = 1280 ರೂಪಾಯಿಗಳು."
+        }
+      ],
+      "result": "ಕೊಠಡಿಗೆ ಸುಣ್ಣ ಬಳಿಯಲು ತಗಲುವ ಒಟ್ಟು ಖರ್ಚು 1280 ರೂಪಾಯಿಗಳು.",
+      "common_trap": "ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು (TSA) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು, ಇದರಲ್ಲಿ ನೆಲದ ವಿಸ್ತೀರ್ಣವೂ ಸೇರಿರುತ್ತದೆ. ಅಥವಾ, ಕೇವಲ LSA ಅನ್ನು ಮಾತ್ರ ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ, ಒಳಮಾಳಿಗೆಯನ್ನು ಮರೆಯುವುದು."
+    },
+    {
+      "example_id": "class8_math_ch9_example_4",
+      "difficulty": "intermediate",
+      "problem": "7 ಸೆಂ.ಮೀ. ತ್ರಿಜ್ಯ ಮತ್ತು 968 ಚ.ಸೆಂ.ಮೀ. ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೊಂದಿರುವ ಒಂದು ಮುಚ್ಚಿದ ಸಿಲಿಂಡರ್‌ನ ಎತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (π = 22/7 ಎಂದು ಬಳಸಿ)",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶಗಳನ್ನು ಮತ್ತು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದನ್ನು ಗುರುತಿಸಿ.",
+          "justification": "ತ್ರಿಜ್ಯ (r) = 7 ಸೆಂ.ಮೀ., ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (TSA) = 968 ಚ.ಸೆಂ.ಮೀ. ಎತ್ತರ (h) ಅನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು."
+        },
+        {
+          "step": 2,
+          "action": "ಸಿಲಿಂಡರ್‌ನ TSA ಸೂತ್ರವನ್ನು ಬಳಸಿ.",
+          "justification": "TSA = 2πr(r + h)"
+        },
+        {
+          "step": 3,
+          "action": "ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ.",
+          "justification": "968 = 2 * (22/7) * 7 * (7 + h)"
+        },
+        {
+          "step": 4,
+          "action": "ಸಮೀಕರಣವನ್ನು ಸರಳೀಕರಿಸಿ.",
+          "justification": "968 = 2 * 22 * (7 + h)968 = 44 * (7 + h)"
+        },
+        {
+          "step": 5,
+          "action": "h ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿ.",
+          "justification": "968 / 44 = 7 + h22 = 7 + hh = 22 - 7"
+        },
+        {
+          "step": 6,
+          "action": "ಅಂತಿಮ ಉತ್ತರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+          "justification": "h = 15 ಸೆಂ.ಮೀ."
+        }
+      ],
+      "result": "ಸಿಲಿಂಡರ್‌ನ ಎತ್ತರ 15 ಸೆಂ.ಮೀ.",
+      "common_trap": "TSA ಸೂತ್ರದ ಬದಲು CSA ಸೂತ್ರವನ್ನು ಬಳಸುವುದು ಅಥವಾ ಲೆಕ್ಕಾಚಾರದಲ್ಲಿ ತಪ್ಪು ಮಾಡುವುದು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಒಂದು ಚೌಕಘನ ಅಥವಾ ಸಿಲಿಂಡರ್‌ನ ಅಳತೆಗಳನ್ನು ನೀಡಿ ನೇರವಾಗಿ LSA ಅಥವಾ TSA ಕಂಡುಹಿಡಿಯಲು ಕೇಳುವುದು.",
+    "two_mark_note": "ಎರಡು ಚೌಕಘನಗಳನ್ನು ಸೇರಿಸಿದಾಗ ಉಂಟಾಗುವ ಆಯತ ಘನದ TSA ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "five_mark_note": "ಒಂದು ಕೊಠಡಿಯ ಗೋಡೆಗಳು ಮತ್ತು ಮೇಲ್ಛಾವಣಿಗೆ ಬಣ್ಣ ಹಚ್ಚುವ ಖರ್ಚು ಅಥವಾ ಒಂದು ವಸ್ತುವನ್ನು ಮುಚ್ಚಲು ಬೇಕಾದ ಕಾಗದದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಪ್ರಾಯೋಗಿಕ ಲೆಕ್ಕಗಳು.",
+    "common_mistakes": [
+      "LSA ಮತ್ತು TSA ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸದಿರುವುದು.",
+      "ಸಿಲಿಂಡರ್ ಲೆಕ್ಕಗಳಲ್ಲಿ ತ್ರಿಜ್ಯ (r) ಮತ್ತು ವ್ಯಾಸ (d) ನಡುವೆ ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುವುದು (d = 2r)."
+    ],
+    "boundary_conditions": [
+      "ಎರಡು ಘನಗಳನ್ನು ಸೇರಿಸಿದಾಗ, ಅವುಗಳ ಒಟ್ಟು ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು ಅವುಗಳ ಪ್ರತ್ಯೇಕ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣಗಳ ಮೊತ್ತಕ್ಕಿಂತ ಕಡಿಮೆಯಿರುತ್ತದೆ, ಏಕೆಂದರೆ ಕೆಲವು ಮುಖಗಳು ಸೇರಿಕೊಂಡು ಆಂತರಿಕವಾಗುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, 'b' ಅಳತೆಯ ಎರಡು ಚೌಕಘನಗಳನ್ನು ಸೇರಿಸಿದಾಗ, ಉಂಟಾಗುವ ಆಯತ ಘನದ TSA 10b² ಆಗುತ್ತದೆ, 2 * (6b²) = 12b² ಅಲ್ಲ."
+    ],
+    "connects_to": [
+      "class8_math_ch9_concept_3"
+    ]
+  }
+}

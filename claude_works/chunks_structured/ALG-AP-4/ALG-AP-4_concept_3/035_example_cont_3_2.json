@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಭಾಗ (ii): ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತ",
+  "script": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನಾವು ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಅಂದರೆ, ಶ್ರೇಢಿಯು ಒಂದು, ಎರಡು, ಮೂರು, ಹೀಗೆ n ವರೆಗೆ ಇರುತ್ತದೆ. ಇಲ್ಲೂ ಕೂಡ, ಇದು ಒಂದು ಸಮಾಂತರ ಶ್ರೇಢಿ. ಮೊದಲ ಪದ a ಎಂಬುದು ಒಂದು, ಕೊನೆಯ ಪದ l ಎಂಬುದು n, ಮತ್ತು ಪದಗಳ ಸಂಖ್ಯೆಯೂ n ಆಗಿದೆ. ಮತ್ತೆ ಅದೇ ಸೂತ್ರ, S n equals n by two times a plus l ಅನ್ನು ಬಳಸೋಣ. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, S n equals n by two, ಗುಣಿಸು ಒಂದು ಪ್ಲಸ್ n. ಇದನ್ನು ನಾವು S n equals n times n plus one, whole divided by two ಎಂದು ಬರೆಯಬಹುದು. ಇದು ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಒಂದು ಪ್ರಮುಖ ಸೂತ್ರವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನಾವು ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಅಂದರೆ, ಶ್ರೇಢಿಯು 1, 2, 3, ..., n. ಇಲ್ಲೂ ಕೂಡ, ಇದು ಒಂದು ಸಮಾಂತರ ಶ್ರೇಢಿ. ಮೊದಲ ಪದ $a=1$, ಕೊನೆಯ ಪದ $l=n$, ಮತ್ತು ಪದಗಳ ಸಂಖ್ಯೆಯೂ $n$ ಆಗಿದೆ. ಮತ್ತೆ ಅದೇ ಸೂತ್ರ, $S_n = \\frac{n}{2}(a+l)$ ಅನ್ನು ಬಳಸೋಣ. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, $S_n = \\frac{n}{2}(1+n)$. ಇದನ್ನು ನಾವು $S_n = \\frac{n(n+1)}{2}$ ಎಂದು ಬರೆಯಬಹುದು. ಇದು ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಒಂದು ಪ್ರಮುಖ ಸೂತ್ರವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "full_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-AP-4_example_14",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಶ್ರೇಢಿ: $1, 2, 3, ..., n$. ಇಲ್ಲಿ $a=1$, $l=n$, ಪದಗಳ ಸಂಖ್ಯೆ $n$.",
+      "justification": "ಸಾಮಾನ್ಯ ಸನ್ನಿವೇಶವನ್ನು ಸಮಾಂತರ ಶ್ರೇಢಿಯಾಗಿ ಗುರುತಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$S_n = \\frac{n}{2}(1+n)$",
+      "justification": "$S_n = \\frac{n}{2}(a+l)$ ಸೂತ್ರವನ್ನು ಬಳಸಿ."
+    },
+    {
+      "step": 3,
+      "action_display": "$S_n = \\frac{n(n+1)}{2}$",
+      "justification": "ಇದು ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತದ ಸೂತ್ರವಾಗಿದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-AP-4_concept_3_chunk_035"
+}

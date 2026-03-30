@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ದೈನಂದಿನ ಜೀವನದ ಸಮಸ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಬ್ಬ ಟಿವಿ ತಯಾರಕ ಮೂರನೇ ವರ್ಷದಲ್ಲಿ 600 ಸೆಟ್‌ಗಳನ್ನು ಮತ್ತು ಏಳನೇ ವರ್ಷದಲ್ಲಿ 700 ಸೆಟ್‌ಗಳನ್ನು ತಯಾರಿಸುತ್ತಾನೆ. ಉತ್ಪಾದನೆಯು ಪ್ರತಿ ವರ್ಷ ಸ್ಥಿರ ಸಂಖ್ಯೆಯಿಂದ ಹೆಚ್ಚಾದರೆ, ನಾವು ಮೂರು ವಿಷಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲನೆಯದು, ಮೊದಲ ವರ್ಷದ ಉತ್ಪಾದನೆ. ಎರಡನೆಯದು, ಹತ್ತನೇ ವರ್ಷದ ಉತ್ಪಾದನೆ. ಮತ್ತು ಮೂರನೆಯದು, ಮೊದಲ ಏಳು ವರ್ಷಗಳ ಒಟ್ಟು ಉತ್ಪಾದನೆ. ಇಲ್ಲಿ ಉತ್ಪಾದನೆ ಪ್ರತಿ ವರ್ಷ ಸ್ಥಿರ ಸಂಖ್ಯೆಯಿಂದ ಹೆಚ್ಚಾಗುವುದರಿಂದ, ಇದು ಒಂದು ಸಮಾಂತರ ಶ್ರೇಢಿಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ದೈನಂದಿನ ಜೀವನದ ಸಮಸ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಬ್ಬ TV ತಯಾರಕ 3ನೇ ವರ್ಷದಲ್ಲಿ 600 ಸೆಟ್‌ಗಳನ್ನು ಮತ್ತು 7ನೇ ವರ್ಷದಲ್ಲಿ 700 ಸೆಟ್‌ಗಳನ್ನು ತಯಾರಿಸುತ್ತಾನೆ. ಉತ್ಪಾದನೆಯು ಪ್ರತಿ ವರ್ಷ ಸ್ಥಿರ ಸಂಖ್ಯೆಯಿಂದ ಹೆಚ್ಚಾದರೆ, ನಾವು ಮೂರು ವಿಷಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲನೆಯದು, ಮೊದಲ ವರ್ಷದ ಉತ್ಪಾದನೆ. ಎರಡನೆಯದು, 10ನೇ ವರ್ಷದ ಉತ್ಪಾದನೆ. ಮತ್ತು ಮೂರನೆಯದು, ಮೊದಲ 7 ವರ್ಷಗಳ ಒಟ್ಟು ಉತ್ಪಾದನೆ. ಇಲ್ಲಿ ಉತ್ಪಾದನೆ ಪ್ರತಿ ವರ್ಷ ಸ್ಥಿರ ಸಂಖ್ಯೆಯಿಂದ ಹೆಚ್ಚಾಗುವುದರಿಂದ, ಇದು ಒಂದು ಸಮಾಂತರ ಶ್ರೇಢಿಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: 3ನೇ ವರ್ಷದ ಉತ್ಪಾದನೆ ($a_3$) = 600",
+    "ದತ್ತಾಂಶ: 7ನೇ ವರ್ಷದ ಉತ್ಪಾದನೆ ($a_7$) = 700",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: (i) ಮೊದಲ ವರ್ಷದ ಉತ್ಪಾದನೆ (a)",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: (ii) 10ನೇ ವರ್ಷದ ಉತ್ಪಾದನೆ ($a_{10}$)",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: (iii) 7 ವರ್ಷಗಳ ಒಟ್ಟು ಉತ್ಪಾದನೆ ($S_7$)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple timeline graphic showing year 3 with 600 TVs and year 7 with 700 TVs, with question marks for year 1, year 10, and the sum of years 1 to 7.",
+    "labels": "Year 3: 600, Year 7: 700, Year 1: ?, Year 10: ?, Total (1-7): ?",
+    "mathematical_significance": "Visually represents the given information and the quantities to be found in the context of an arithmetic progression over time.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "ALG-AP-4_example_16",
+  "chunk_id": "ALG-AP-4_concept_3_chunk_041"
+}

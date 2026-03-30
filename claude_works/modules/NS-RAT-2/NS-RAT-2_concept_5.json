@@ -1,0 +1,118 @@
+{
+  "module_id": "NS-RAT-2_concept_5",
+  "module_title": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಮೇಲಿನ ಮೂಲಕ್ರಿಯೆಗಳು",
+  "class": "8",
+  "chapter": "1, 8",
+  "chapter_title": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು (Rational Numbers)",
+  "domain": "ಸಂಖ್ಯಾಗಣಿತ (Number System)",
+  "prerequisites": [
+    "NS-RAT-2_concept_1",
+    "NS-RAT-2_concept_2",
+    "NS-RAT-2_concept_3",
+    "NS-RAT-2_concept_4"
+  ],
+  "theory": {
+    "concept_summary": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಮೇಲೆ ಸಂಕಲನ, ವ್ಯವಕಲನ, ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರ ಎಂಬ ನಾಲ್ಕು ಮೂಲಭೂತ ಗಣಿತದ ಕ್ರಿಯೆಗಳನ್ನು ಹೇಗೆ ನಿರ್ವಹಿಸುವುದು ಎಂಬುದನ್ನು ಈ ಭಾಗವು ವಿವರಿಸುತ್ತದೆ.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "Addition of Rational Numbers",
+        "latex": "ಸಮಾನ ಛೇದ: $\\frac{p}{q} + \\frac{r}{q} = \\frac{p+r}{q}\nವಿಭಿನ್ನ ಛೇದ: $\\frac{a}{b} + \\frac{c}{d} = \\frac{ad+bc}{bd}$",
+        "condition": "$b \\neq 0, d \\neq 0$",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Subtraction of Rational Numbers",
+        "latex": "$\\frac{a}{b} - \\frac{c}{d} = \\frac{a}{b} + \\left(-\\frac{c}{d}\\right) = \\frac{ad-bc}{bd}$",
+        "condition": "$b \\neq 0, d \\neq 0$",
+        "exception": "",
+        "derived_from": "ವ್ಯವಕಲನವು ಸಂಕಲನದ ವಿಲೋಮವನ್ನು ಕೂಡುವುದಕ್ಕೆ ಸಮ.",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Multiplication of Rational Numbers",
+        "latex": "$\\frac{a}{b} \\times \\frac{c}{d} = \\frac{a \\times c}{b \\times d}$",
+        "condition": "$b \\neq 0, d \\neq 0$",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Division of Rational Numbers",
+        "latex": "$\\frac{a}{b} \\div \\frac{c}{d} = \\frac{a}{b} \\times \\frac{d}{c}$",
+        "condition": "$b \\neq 0, d \\neq 0, c \\neq 0$",
+        "exception": "",
+        "derived_from": "ಭಾಗಾಕಾರವು ಭಾಜಕದ ಗುಣಾಕಾರದ ವಿಲೋಮದಿಂದ (ವ್ಯುತ್ಮಮ) ಗುಣಿಸುವುದಕ್ಕೆ ಸಮ.",
+        "used_in": "",
+        "derivation": []
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "NS-RAT-2_example_5",
+      "difficulty": "intermediate",
+      "problem": "ಸತ್ಪಾಲ್ P ಸ್ಥಳದಿಂದ ಪೂರ್ವಕ್ಕೆ $\\frac{2}{3}$ km ಚಲಿಸಿ, ನಂತರ ಅಲ್ಲಿಂದ ಪಶ್ಚಿಮಕ್ಕೆ $1\\frac{5}{7}$ km ಚಲಿಸಿದನು. ಈಗ ಅವನು P ಇಂದ ಎಲ್ಲಿರುವನು?",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಚಲನೆಯನ್ನು ಗಣಿತದ ರೂಪದಲ್ಲಿ ಬರೆಯುವುದು.",
+          "justification": "ಪೂರ್ವದ ಚಲನೆಯನ್ನು ಧನ (+) ಮತ್ತು ಪಶ್ಚಿಮದ ಚಲನೆಯನ್ನು ಋಣ (-) ಎಂದು ಪರಿಗಣಿಸೋಣ.",
+          "calculation": "ಒಟ್ಟು ಚಲನೆ = $\\frac{2}{3} + \\left(-1\\frac{5}{7}\\right)$"
+        },
+        {
+          "step": 2,
+          "action": "ಮಿಶ್ರ ಭಿನ್ನರಾಶಿಯನ್ನು ವಿಷಮ ಭಿನ್ನರಾಶಿಗೆ ಪರಿವರ್ತಿಸುವುದು.",
+          "justification": "ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಸುಲಭವಾಗುತ್ತದೆ.",
+          "calculation": "$1\\frac{5}{7} = \\frac{(1 \\times 7) + 5}{7} = \\frac{12}{7}$"
+        },
+        {
+          "step": 3,
+          "action": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಕೂಡುವುದು.",
+          "justification": "ವಿಭಿನ್ನ ಛೇದಗಳಿರುವುದರಿಂದ, ಲ.ಸಾ.ಅ (LCM) ಕಂಡುಹಿಡಿದು ಸಂಕಲನ ಮಾಡುವುದು. 3 ಮತ್ತು 7 ರ ಲ.ಸಾ.ಅ 21.",
+          "calculation": "$\\frac{2}{3} + \\left(\\frac{-12}{7}\\right) = \\frac{2 \\times 7}{3 \\times 7} + \\frac{-12 \\times 3}{7 \\times 3} = \\frac{14}{21} + \\frac{-36}{21}$"
+        },
+        {
+          "step": 4,
+          "action": "ಸಂಕಲನವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು.",
+          "justification": "ಸಮಾನ ಛೇದಗಳಿರುವುದರಿಂದ ಅಂಶಗಳನ್ನು ಕೂಡಿಸುವುದು.",
+          "calculation": "$\\frac{14 + (-36)}{21} = \\frac{14 - 36}{21} = \\frac{-22}{21}$"
+        },
+        {
+          "step": 5,
+          "action": "ಉತ್ತರವನ್ನು ಅರ್ಥೈಸಿಕೊಳ್ಳುವುದು.",
+          "justification": "ಉತ್ತರ ಋಣವಾಗಿರುವುದರಿಂದ, ಚಲನೆಯು P ಯಿಂದ ಪಶ್ಚಿಮದ ದಿಕ್ಕಿನಲ್ಲಿದೆ. ಉತ್ತರವನ್ನು ಮಿಶ್ರ ಭಿನ್ನರಾಶಿಯಲ್ಲಿ ಬರೆಯುವುದು.",
+          "calculation": "$\\frac{-22}{21} = -1\\frac{1}{21}$"
+        }
+      ],
+      "result": "ಸತ್ಪಾಲ್ P ಯಿಂದ ಪಶ್ಚಿಮಕ್ಕೆ $1\\frac{1}{21}$ km ದೂರದಲ್ಲಿದ್ದಾನೆ."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಸರಳ ಸಂಕಲನ, ವ್ಯವಕಲನ, ಗುಣಾಕಾರ, ಭಾಗಾಕಾರದ ಪ್ರಶ್ನೆಗಳು.",
+    "two_mark_note": "ಎರಡು ಅಥವಾ ಮೂರು ಸಂಖ್ಯೆಗಳನ್ನು ಒಳಗೊಂಡ ಸರಳೀಕರಣದ ಲೆಕ್ಕ.",
+    "five_mark_note": "BODMAS ನಿಯಮವನ್ನು ಬಳಸುವ, ಆವರಣಗಳನ್ನು ಒಳಗೊಂಡ, ಮತ್ತು ಗುಣಲಕ್ಷಣಗಳನ್ನು ಅನ್ವಯಿಸಬೇಕಾದ ಸಂಕೀರ್ಣ ಸರಳೀಕರಣದ ಲೆಕ್ಕಗಳು.",
+    "common_mistakes": [
+      "ವ್ಯವಕಲನ: $a - (-b) = a+b$ ಎಂಬುದನ್ನು ಮರೆಯುವುದು.",
+      "ಭಾಗಾಕಾರ: ಭಾಜಕದ ವ್ಯುತ್ಮಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ಮರೆಯುವುದು ಅಥವಾ ವ್ಯುತ್ಮಮ ತೆಗೆದುಕೊಂಡ ನಂತರವೂ ಭಾಗಾಕಾರ ಚಿಹ್ನೆಯನ್ನು ಇಡುವುದು.",
+      "ಚಿಹ್ನೆಗಳು: ಋಣ ಸಂಖ್ಯೆಗಳ ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರದಲ್ಲಿ ಚಿಹ್ನೆಗಳ ನಿಯಮಗಳಲ್ಲಿ ತಪ್ಪು ಮಾಡುವುದು. (ಉದಾ: $(-)\\times(-) = (+)$)"
+    ],
+    "boundary_conditions": [
+      "ಈ ಮೂಲಕ್ರಿಯೆಗಳು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಒಳಗೊಂಡ ಯಾವುದೇ ಗಣಿತದ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ಬೇಕಾದ ಮೂಲಭೂತ ಕೌಶಲ್ಯಗಳಾಗಿವೆ. ಭಿನ್ನರಾಶಿಗಳ ಮೇಲಿನ ಕ್ರಿಯೆಗಳ ನಿಯಮಗಳೇ ಇಲ್ಲಿಯೂ ಅನ್ವಯಿಸುತ್ತವೆ, ಆದರೆ ಋಣ ಸಂಖ್ಯೆಗಳ ಉಪಸ್ಥಿತಿಯಿಂದಾಗಿ ಚಿಹ್ನೆಗಳ ಬಗ್ಗೆ ಹೆಚ್ಚು ಜಾಗರೂಕರಾಗಿರಬೇಕು."
+    ],
+    "connects_to": [
+      "ರೇಖೀಯ ಸಮೀಕರಣಗಳ ಪರಿಹಾರ",
+      "ಬೀಜಗಣಿತದ выраಜೆಗಳ ಸರಳೀಕರಣ",
+      "ವರ್ಗ ಸಮೀಕರಣಗಳು"
+    ]
+  }
+}

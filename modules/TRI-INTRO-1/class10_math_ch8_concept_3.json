@@ -1,0 +1,100 @@
+{
+  "module_id": "class10_math_ch8_concept_3",
+  "module_title": "ತ್ರಿಕೋನಮಿತಿ ನಿತ್ಯಸಮೀಕರಣಗಳು",
+  "class": "10",
+  "chapter": "8",
+  "chapter_title": "ತ್ರಿಕೋನಮಿತಿಯ ಪ್ರಸ್ತಾವನೆ",
+  "domain": "ತ್ರಿಕೋಣಮಿತಿ",
+  "prerequisites": [
+    "class10_math_ch8_concept_1",
+    "class10_math_ch8_concept_2"
+  ],
+  "theory": {
+    "concept_summary": "ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣಗಳು ಎಂದರೆ, ಕೋನದ ಎಲ್ಲಾ ಮೌಲ್ಯಗಳಿಗೆ ಸತ್ಯವಾಗಿರುವ ಸಮೀಕರಣಗಳು. ಇವು ತ್ರಿಕೋನಮಿತಿಯ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಸರಳೀಕರಿಸಲು ಮತ್ತು ಇತರ ಸಮೀಕರಣಗಳನ್ನು ಸಾಧಿಸಲು ಪ್ರಬಲ ಸಾಧನಗಳಾಗಿವೆ. ಪ್ರಮುಖ ನಿತ್ಯಸಮೀಕರಣಗಳೆಂದರೆ ಪೈಥಾಗೊರಸ್ ನಿತ್ಯಸಮೀಕರಣಗಳು.",
+    "definitions": [
+      {
+        "term": "ನಿತ್ಯಸಮೀಕರಣ (Identity)",
+        "definition": "ಒಂದು ಸಮೀಕರಣದಲ್ಲಿರುವ ಚರಾಕ್ಷರಗಳ ಎಲ್ಲಾ ಸಂಭಾವ್ಯ ಬೆಲೆಗಳಿಗೆ ಆ ಸಮೀಕರಣವು ಸತ್ಯವಾಗಿದ್ದರೆ, ಅದನ್ನು ನಿತ್ಯಸಮೀಕರಣ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ತ್ರಿಕೋನಮಿತಿಯಲ್ಲಿ, ಕೋನದ ಎಲ್ಲಾ ಮೌಲ್ಯಗಳಿಗೆ ಸತ್ಯವಾಗಿರುವ ಸಮೀಕರಣಗಳನ್ನು ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣಗಳು ಎನ್ನುತ್ತಾರೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Pythagorean Identity 1",
+        "latex": "\\sin^2(A) + \\cos^2(A) = 1",
+        "condition": "0° ≤ A ≤ 90°",
+        "exception": null,
+        "derived_from": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ವಿಕರ್ಣದ ವರ್ಗದಿಂದ ಭಾಗಿಸುವುದರಿಂದ.",
+        "used_in": "ತ್ರಿಕೋನಮಿತಿಯ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಸರಳೀಕರಿಸಲು ಮತ್ತು ಸಮೀಕರಣಗಳನ್ನು ಸಾಧಿಸಲು."
+      },
+      {
+        "formula_name": "Pythagorean Identity 2",
+        "latex": "1 + \\tan^2(A) = \\sec^2(A)",
+        "condition": "0° ≤ A < 90°",
+        "exception": null,
+        "derived_from": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಪಾರ್ಶ್ವ ಬಾಹುವಿನ ವರ್ಗದಿಂದ ಭಾಗಿಸುವುದರಿಂದ.",
+        "used_in": "ತ್ರಿಕೋನಮಿತಿಯ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಸರಳೀಕರಿಸಲು ಮತ್ತು ಸಮೀಕರಣಗಳನ್ನು ಸಾಧಿಸಲು."
+      },
+      {
+        "formula_name": "Pythagorean Identity 3",
+        "latex": "1 + \\cot^2(A) = \\csc^2(A)",
+        "condition": "0° < A ≤ 90°",
+        "exception": null,
+        "derived_from": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಅಭಿಮುಖ ಬಾಹುವಿನ ವರ್ಗದಿಂದ ಭಾಗಿಸುವುದರಿಂದ.",
+        "used_in": "ತ್ರಿಕೋನಮಿತಿಯ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಸರಳೀಕರಿಸಲು ಮತ್ತು ಸಮೀಕರಣಗಳನ್ನು ಸಾಧಿಸಲು."
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class10_math_ch8_example_12",
+      "difficulty": "advanced",
+      "problem": "sec²θ = 1 + tan²θ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ, \\frac{\\sin\\theta - \\cos\\theta + 1}{\\sin\\theta + \\cos\\theta - 1} = \\frac{1}{\\sec\\theta - \\tan\\theta} ಎಂದು ಸಾಧಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಎಡಭಾಗದ (LHS) ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು cosθ ದಿಂದ ಭಾಗಿಸಿ, ಅದನ್ನು secθ ಮತ್ತು tanθ ರೂಪಕ್ಕೆ ತನ್ನಿ.",
+          "justification": "LHS = \\frac{\\frac{\\sin\\theta}{\\cos\\theta} - \\frac{\\cos\\theta}{\\cos\\theta} + \\frac{1}{\\cos\\theta}}{\\frac{\\sin\\theta}{\\cos\\theta} + \\frac{\\cos\\theta}{\\cos\\theta} - \\frac{1}{\\cos\\theta}} = \\frac{\\tan\\theta - 1 + \\sec\\theta}{\\tan\\theta + 1 - \\sec\\theta}"
+        },
+        {
+          "step": 2,
+          "action": "ಅಂಶದಲ್ಲಿರುವ '1' ನ್ನು 'sec²θ - tan²θ' ನಿಂದ ಬದಲಾಯಿಸಿ.",
+          "justification": "ದತ್ತ ನಿತ್ಯಸಮೀಕರಣದಿಂದ 1 = sec²θ - tan²θ. \n ಅಂಶ = (tanθ + secθ) - (sec²θ - tan²θ)"
+        },
+        {
+          "step": 3,
+          "action": "ಅಂಶವನ್ನು ಅಪವರ್ತಿಸಿ (factorize).",
+          "justification": "ಅಂಶ = (secθ + tanθ) - (secθ - tanθ)(secθ + tanθ) \n = (secθ + tanθ) [1 - (secθ - tanθ)] \n = (secθ + tanθ) (1 - secθ + tanθ)"
+        },
+        {
+          "step": 4,
+          "action": "ಸರಳೀಕರಿಸಿ.",
+          "justification": "LHS = \\frac{(\\sec\\theta + \\tan\\theta) (1 - \\sec\\theta + \\tan\\theta)}{(\\tan\\theta + 1 - \\sec\\theta)} = \\sec\\theta + \\tan\\theta"
+        },
+        {
+          "step": 5,
+          "action": "ಪಡೆದ ಉತ್ತರವನ್ನು ಅಗತ್ಯವಿರುವ ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸಿ.",
+          "justification": "secθ + tanθ = (secθ + tanθ) \\times \\frac{(\\sec\\theta - \\tan\\theta)}{(\\sec\\theta - \\tan\\theta)} = \\frac{\\sec^2\\theta - \\tan^2\\theta}{\\sec\\theta - \\tan\\theta} = \\frac{1}{\\sec\\theta - \\tan\\theta} = RHS"
+        }
+      ],
+      "result": "LHS = RHS, ಆದ್ದರಿಂದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸಾಧಿಸಲಾಗಿದೆ.",
+      "common_trap": "ಸರಿಯಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಆಯ್ಕೆ ಮಾಡದಿರುವುದು ಅಥವಾ ಬೀಜಗಣಿತದ ಸರಳೀಕರಣದಲ್ಲಿ ತಪ್ಪು ಮಾಡುವುದು. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, '1' ನ್ನು ಸೂಕ್ತ ನಿತ್ಯಸಮೀಕರಣದಿಂದ ಬದಲಾಯಿಸುವುದು ಒಂದು ಪ್ರಮುಖ ತಂತ್ರ."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ನಿತ್ಯಸಮೀಕರಣವನ್ನು ನೇರವಾಗಿ ಕೇಳುವುದು (ಉದಾ: 1 + tan²A = ?). ಅಥವಾ 9sec²A - 9tan²A = ? (ಉತ್ತರ: 9).",
+    "two_mark_note": "ಒಂದು ಅನುಪಾತವನ್ನು ಇನ್ನೊಂದರ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಲು ಕೇಳುವುದು (ಉದಾ: sec A ಯನ್ನು cot A ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ).",
+    "five_mark_note": "worked example ನಂತಹ ಸಂಕೀರ್ಣ ಸಾಧಿಸುವ ಲೆಕ್ಕಗಳು. ಇವುಗಳಿಗೆ ಬೀಜಗಣಿತದ ಕೌಶಲ್ಯ ಮತ್ತು ನಿತ್ಯಸಮೀಕರಣಗಳ ಸರಿಯಾದ ಅನ್ವಯದ ಅಗತ್ಯವಿರುತ್ತದೆ.",
+    "common_mistakes": [
+      "sin²A + cos²A = 1 ರ ಬದಲು sinA + cosA = 1 ಎಂದು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು.",
+      "ಬೀಜಗಣಿತದ ಸೂತ್ರಗಳನ್ನು (ಉದಾ: (a+b)²) ತ್ರಿಕೋನಮಿತಿಯೊಂದಿಗೆ ತಪ್ಪಾಗಿ ಅನ್ವಯಿಸುವುದು. ಉದಾ: sin(A+B) ಯನ್ನು sinA + sinB ಎಂದು ಬರೆಯುವುದು ತಪ್ಪು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": [
+      "ಈ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ತ್ರಿಕೋನಮಿತಿಯ ಅನ್ವಯದ ಸಮಸ್ಯೆಗಳನ್ನು (ಎತ್ತರ ಮತ್ತು ದೂರ) ಮತ್ತು ಸಂಕೀರ್ಣ ತ್ರಿಕೋನಮಿತಿಯ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸಲಾಗುತ್ತದೆ."
+    ]
+  }
+}

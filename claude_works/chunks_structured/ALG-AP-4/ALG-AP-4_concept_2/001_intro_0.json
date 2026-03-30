@@ -1,0 +1,36 @@
+{
+  "type": "intro",
+  "slide_title": "ಸಮಾಂತರ ಶ್ರೇಢಿಯ nನೇ ಪದ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಸಮಾಂತರ ಶ್ರೇಢಿಗಳು ಅಧ್ಯಾಯಕ್ಕೆ ಸ್ವಾಗತ. ಒಂದು ಉದ್ದನೆಯ ಶ್ರೇಢಿಯ ನೂರನೇ ಪದ ಯಾವುದು ಎಂದು ತಿಳಿಯಲು ನೀವು ಎಲ್ಲಾ ನೂರು ಪದಗಳನ್ನು ಬರೆಯುತ್ತೀರಾ? ಖಂಡಿತ ಇಲ್ಲ. ಅದಕ್ಕಾಗಿಯೇ ನಮ್ಮ ಬಳಿ ಒಂದು ಶಕ್ತಿಶಾಲಿ ಸೂತ್ರವಿದೆ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು, ಸಮಾಂತರ ಶ್ರೇಢಿಯ nನೇ ಪದದ ಸೂತ್ರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತೇವೆ. ನಂತರ, ಮೊದಲ ಪದ, ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಮತ್ತು ಪದ ಸಂಖ್ಯೆಯನ್ನು ನೀಡಿದಾಗ nನೇ ಪದವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ನೋಡೋಣ. ಮತ್ತು ಅಂತಿಮವಾಗಿ, nನೇ ಪದವನ್ನು ನೀಡಿದಾಗ ಪದ ಸಂಖ್ಯೆಯನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂಬುದನ್ನು ಕಲಿಯೋಣ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಸಮಾಂತರ ಶ್ರೇಢಿಗಳು ಅಧ್ಯಾಯಕ್ಕೆ ಸ್ವಾಗತ. ಒಂದು ಉದ್ದನೆಯ ಶ್ರೇಢಿಯ 100ನೇ ಪದ ಯಾವುದು ಎಂದು ತಿಳಿಯಲು ನೀವು ಎಲ್ಲಾ 100 ಪದಗಳನ್ನು ಬರೆಯುತ್ತೀರಾ? ಖಂಡಿತ ಇಲ್ಲ. ಅದಕ್ಕಾಗಿಯೇ ನಮ್ಮ ಬಳಿ ಒಂದು ಶಕ್ತಿಶಾಲಿ ಸೂತ್ರವಿದೆ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು, ಸಮಾಂತರ ಶ್ರೇಢಿಯ nನೇ ಪದದ ಸೂತ್ರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತೇವೆ. ನಂತರ, ಮೊದಲ ಪದ, ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಮತ್ತು ಪದ ಸಂಖ್ಯೆಯನ್ನು ನೀಡಿದಾಗ nನೇ ಪದವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ನೋಡೋಣ. ಮತ್ತು ಅಂತಿಮವಾಗಿ, nನೇ ಪದವನ್ನು ನೀಡಿದಾಗ ಪದ ಸಂಖ್ಯೆಯನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂಬುದನ್ನು ಕಲಿಯೋಣ.",
+  "display_bullets": [
+    "ಸಮಾಂತರ ಶ್ರೇಢಿಯ nನೇ ಪದದ ಸೂತ್ರ ($a_n = a + (n-1)d$)",
+    "$a$, $d$, ಮತ್ತು $n$ ನೀಡಿದಾಗ $a_n$ ಅನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+    "$a$, $d$, ಮತ್ತು $a_n$ ನೀಡಿದಾಗ $n$ ಅನ್ನು ಕಂಡುಹಿಡಿಯುವುದು"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An arithmetic progression shown as a series of stepping stones. The first few stones are labeled 'a', 'a+d', 'a+2d'. The path continues into the distance, and a final stone is labeled 'a_n = ?'. This visually represents the problem of finding a distant term.",
+    "labels": "a, a+d, a+2d, ..., a_n",
+    "mathematical_significance": "Illustrates the concept of an arithmetic progression and the goal of finding the n-th term without listing all intermediate terms.",
+    "placeholder_note": "Image to be generated showing stepping stones for an AP."
+  },
+  "chunk_id": "ALG-AP-4_concept_2_chunk_001"
+}

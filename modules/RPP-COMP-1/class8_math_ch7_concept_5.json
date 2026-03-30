@@ -1,0 +1,99 @@
+{
+  "module_id": "class8_math_ch7_concept_5",
+  "module_title": "ಸರಳ ಬಡ್ಡಿ (Simple Interest)",
+  "class": "8",
+  "chapter": "7",
+  "chapter_title": "ಪರಿಮಾಣಗಳ ಹೋಲಿಕೆ (Comparing Quantities)",
+  "domain": "ವಾಣಿಜ್ಯ ಗಣಿತ",
+  "prerequisites": [
+    "class8_math_ch7_concept_1",
+    "class8_math_ch7_concept_2",
+    "class8_math_ch7_concept_3",
+    "class8_math_ch7_concept_4"
+  ],
+  "theory": {
+    "concept_summary": "ಸರಳ ಬಡ್ಡಿ (SI) ಎಂದರೆ ಸಾಲವಾಗಿ ಪಡೆದ ಅಥವಾ ಹೂಡಿಕೆ ಮಾಡಿದ ಅಸಲು (P) ಮೇಲೆ, ಒಂದು ನಿರ್ದಿಷ್ಟ ಬಡ್ಡಿ ದರ (R) ಮತ್ತು ಕಾಲಾವಧಿ (T) ಗೆ ಮಾತ್ರ ಲೆಕ್ಕ ಹಾಕಲಾಗುವ ಬಡ್ಡಿಯಾಗಿದೆ. ಇಲ್ಲಿ ಪ್ರತಿ ವರ್ಷವೂ ಅಸಲು ಸ್ಥಿರವಾಗಿರುವುದರಿಂದ ಬಡ್ಡಿಯ ಮೊತ್ತವು ಬದಲಾಗುವುದಿಲ್ಲ. ಇದು ಬ್ಯಾಂಕಿಂಗ್ ಮತ್ತು ಹಣಕಾಸು ವ್ಯವಹಾರಗಳಲ್ಲಿ ಬಳಸುವ ಒಂದು ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಯಾಗಿದೆ.",
+    "definitions": [
+      {
+        "term": "ಅಸಲು (Principal - P)",
+        "definition": "ಸಾಲವಾಗಿ ಪಡೆದ ಅಥವಾ ಹೂಡಿಕೆ ಮಾಡಿದ ಹಣ."
+      },
+      {
+        "term": "ಬಡ್ಡಿ (Interest - I)",
+        "definition": "ಅಸಲನ್ನು ಬಳಸಿದ್ದಕ್ಕಾಗಿ ನೀಡುವ ಹೆಚ್ಚುವರಿ ಹಣ."
+      },
+      {
+        "term": "ಬಡ್ಡಿ ದರ (Rate of Interest - R)",
+        "definition": "ಪ್ರತಿ ವರ್ಷಕ್ಕೆ ಪ್ರತಿ ₹100 ಅಸಲಿಗೆ ವಿಧಿಸುವ ಬಡ್ಡಿ. ಇದನ್ನು ವಾರ್ಷಿಕ ಶೇಕಡಾವಾರಿನಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಲಾಗುತ್ತದೆ."
+      },
+      {
+        "term": "ಕಾಲ (Time - T)",
+        "definition": "ಅಸಲನ್ನು ಬಳಸಿದ ಅವಧಿ, ಸಾಮಾನ್ಯವಾಗಿ ವರ್ಷಗಳಲ್ಲಿ."
+      },
+      {
+        "term": "ಮೊತ್ತ (Amount - A)",
+        "definition": "ಅಸಲು ಮತ್ತು ಬಡ್ಡಿಯನ್ನು ಸೇರಿಸಿದಾಗ ಬರುವ ಒಟ್ಟು ಹಣ."
+      },
+      {
+        "term": "ಸರಳ ಬಡ್ಡಿ (Simple Interest - SI)",
+        "definition": "ಪ್ರತಿ ವರ್ಷವೂ ಮೂಲ ಅಸಲಿನ ಮೇಲೆ ಮಾತ್ರ ಲೆಕ್ಕ ಹಾಕಲಾಗುವ ಬಡ್ಡಿ. ಇಲ್ಲಿ ಅಸಲು ಬದಲಾಗುವುದಿಲ್ಲ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "ಸರಳ ಬಡ್ಡಿ (Simple Interest)",
+        "latex": "SI = \\frac{P \\times R \\times T}{100}",
+        "condition": "T ವರ್ಷಗಳಲ್ಲಿರಬೇಕು. R ವಾರ್ಷಿಕ ದರವಾಗಿರಬೇಕು.",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "ಮೊತ್ತ (Amount)",
+        "latex": "A = P + SI",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class8_math_ch7_example_5",
+      "difficulty": "basic",
+      "problem": "ಅನಿತಾ ₹5,000 ನ್ನು ವಾರ್ಷಿಕ 15% ಬಡ್ಡಿ ದರದಲ್ಲಿ ಸಾಲ ಪಡೆಯುತ್ತಾಳೆ. ಒಂದು ವರ್ಷದ ಕೊನೆಯಲ್ಲಿ ಅವಳು ಪಾವತಿಸಬೇಕಾದ ಬಡ್ಡಿ ಮತ್ತು ಮೊತ್ತವೆಷ್ಟು?",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸಿ: P, R, ಮತ್ತು T.",
+          "justification": "P = ₹5,000, R = 15%, T = 1 ವರ್ಷ."
+        },
+        {
+          "step": 2,
+          "action": "ಸರಳ ಬಡ್ಡಿಯ ಸೂತ್ರವನ್ನು ಬಳಸಿ ಬಡ್ಡಿಯನ್ನು ಲೆಕ್ಕ ಹಾಕಿ.",
+          "justification": "SI = (P * R * T) / 100."
+        },
+        {
+          "step": 3,
+          "action": "ಮೊತ್ತವನ್ನು ಲೆಕ್ಕ ಹಾಕಿ.",
+          "justification": "A = P + SI."
+        }
+      ],
+      "result": "ಒಂದು ವರ್ಷದ ಕೊನೆಯಲ್ಲಿ ಪಾವತಿಸಬೇಕಾದ ಬಡ್ಡಿ ₹750 ಮತ್ತು ಒಟ್ಟು ಮೊತ್ತ ₹5,750.",
+      "common_trap": "ಕಾಲವನ್ನು (T) ತಿಂಗಳುಗಳಲ್ಲಿ ಅಥವಾ ದಿನಗಳಲ್ಲಿ ನೀಡಿದಾಗ ಅದನ್ನು ವರ್ಷಗಳಿಗೆ ಪರಿವರ್ತಿಸಲು ಮರೆಯುವುದು. (ಉದಾ: 6 ತಿಂಗಳು = 0.5 ವರ್ಷ)."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "P, R, T ನೀಡಿ SI ಕಂಡುಹಿಡಿಯಲು ಕೇಳಬಹುದು.",
+    "two_mark_note": "SI, P, T ನೀಡಿ R ಕಂಡುಹಿಡಿಯಲು ಕೇಳುವಂತಹ ಪ್ರಶ್ನೆ.",
+    "five_mark_note": "ಎರಡು ವಿಭಿನ್ನ ಹೂಡಿಕೆಗಳಿಂದ ಬರುವ ಒಟ್ಟು ಸರಳ ಬಡ್ಡಿಯನ್ನು ಲೆಕ್ಕಹಾಕುವ ಪ್ರಶ್ನೆ.",
+    "common_mistakes": [],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

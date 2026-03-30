@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಕೊಟ್ಟಿರುವ ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಹತ್ತನೇ ಪದ ನಲವತ್ತೇಳು ಆಗಿದೆ. ನಾವು a, d, ಮತ್ತು n ನ ಬೆಲೆಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸಿ, n ನೇ ಪದದ ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ, ಸುಲಭವಾಗಿ ಉತ್ತರವನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಕೊಟ್ಟಿರುವ ಸಮಾಂತರ ಶ್ರೇಢಿಯ 10ನೇ ಪದ 47 ಆಗಿದೆ. ನಾವು $a$, $d$, ಮತ್ತು $n$ ನ ಬೆಲೆಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸಿ, $n$ ನೇ ಪದದ ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ, ಸುಲಭವಾಗಿ ಉತ್ತರವನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ದತ್ತ ಸಮಾಂತರ ಶ್ರೇಢಿಯ 10ನೇ ಪದ 47 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-AP-4_example_3",
+  "final_answer": "47",
+  "final_answer_display": "a_{10} = 47",
+  "prerequisites_display": [],
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 0,
+    "theorems": 0,
+    "properties": 0,
+    "worked_examples": 0
+  },
+  "next_modules": [],
+  "chunk_id": "ALG-AP-4_concept_2_chunk_014"
+}

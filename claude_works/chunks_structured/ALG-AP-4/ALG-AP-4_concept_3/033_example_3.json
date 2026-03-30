@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಎರಡು ಮೊತ್ತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲನೆಯದು, ಮೊದಲ ಒಂದು ಸಾವಿರ ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತ. ಎರಡನೆಯದು, ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತ. ಮೊದಲ ಸಾವಿರ ಧನ ಪೂರ್ಣಾಂಕಗಳು ಅಂದರೆ ಒಂದು, ಎರಡು, ಮೂರು, ಹೀಗೆ ಒಂದು ಸಾವಿರದವರೆಗೆ. ಇದು ಒಂದು ಸಮಾಂತರ ಶ್ರೇಢಿ ಎಂದು ನಾವು ಗಮನಿಸಬಹುದು. ನಾವು ಈ ಎರಡು ಭಾಗಗಳನ್ನು ಒಂದರ ನಂತರ ಒಂದರಂತೆ ಬಿಡಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಎರಡು ಮೊತ್ತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲನೆಯದು, ಮೊದಲ 1000 ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತ. ಎರಡನೆಯದು, ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳ ಮೊತ್ತ. ಮೊದಲ 1000 ಧನ ಪೂರ್ಣಾಂಕಗಳು ಅಂದರೆ 1, 2, 3, ..., 1000. ಇದು ಒಂದು ಸಮಾಂತರ ಶ್ರೇಢಿ (AP) ಎಂದು ನಾವು ಗಮನಿಸಬಹುದು. ನಾವು ಈ ಎರಡು ಭಾಗಗಳನ್ನು ಒಂದರ ನಂತರ ಒಂದರಂತೆ ಬಿಡಿಸೋಣ.",
+  "display_bullets": [
+    "ಮೊತ್ತ ಕಂಡುಹಿಡಿಯಿರಿ:",
+    "(i) ಮೊದಲ 1000 ಧನ ಪೂರ್ಣಾಂಕಗಳು",
+    "(ii) ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳು"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಮೊತ್ತ ಕಂಡುಹಿಡಿಯಿರಿ:}\n\\text{(i) ಮೊದಲ 1000 ಧನ ಪೂರ್ಣಾಂಕಗಳು}\n\\text{(ii) ಮೊದಲ n ಧನ ಪೂರ್ಣಾಂಕಗಳು}",
+    "placeholder_note": "Display the problem statement clearly in a box."
+  },
+  "source_example_id": "ALG-AP-4_example_14",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-AP-4_concept_3_chunk_033"
+}

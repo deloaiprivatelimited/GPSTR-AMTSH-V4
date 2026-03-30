@@ -1,0 +1,347 @@
+# ನಿರ್ದೇಶಾಂಕ ರೇಖಾಗಣಿತ
+
+## 7.1 ಪೀಠಿಕೆ
+ಒಂದು ಸಮತಲದ ಮೇಲೆ ಒಂದು ಬಿಂದುವನ್ನು ಗುರುತಿಸಲು, ನಮಗೆ ಒಂದು ಜೊತೆ ನಿರ್ದೇಶಾಂಕ ಅಕ್ಷಗಳು ಬೇಕಾಗುತ್ತವೆ ಎಂಬುದನ್ನು ನೀವು IX ತರಗತಿಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಿರುವಿರಿ. y - ಅಕ್ಷದಿಂದ ಬಿಂದುವಿಗಿರುವ ದೂರವನ್ನು ಅದರ x – ನಿರ್ದೇಶಾಂಕ ಅಥವಾ ಕ್ಷಿತಿಜ ದೂರ ಎನ್ನುತ್ತೇವೆ. x – ಅಕ್ಷದಿಂದ ಬಿಂದುವಿಗಿರುವ ದೂರವನ್ನು ಅದರ y – ನಿರ್ದೇಶಾಂಕ ಅಥವಾ ಲಂಬದೂರ ಎನ್ನುತ್ತೇವೆ. x – ಅಕ್ಷದ ಮೇಲಿರುವ ಒಂದು ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು $(x, 0)$ ರೂಪದಲ್ಲಿರುತ್ತವೆ ಹಾಗೂ y – ಅಕ್ಷದ ಮೇಲಿರುವ ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು $(0, y)$ ರೂಪದಲ್ಲಿರುತ್ತವೆ.
+
+ಇಲ್ಲಿ ನಿಮಗೊಂದು ಆಟವಿದೆ. ಗ್ರಾಫ್ ಹಾಳೆಯಲ್ಲಿ ಒಂದು ಜೊತೆ ಪರಸ್ಪರ ಲಂಬವಾಗಿರುವ ಅಕ್ಷಗಳನ್ನು ಎಳೆಯಿರಿ. ಈಗ ಈ ಮುಂದಿನ ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಿ, ಸೂಚನೆಯಂತೆ ಅವುಗಳನ್ನು ಸೇರಿಸುತ್ತಾ ಹೋಗಿ, A (4, 8) ಬಿಂದುವನ್ನು B(3, 9) ಕ್ಕೆ, C(3, 8)ಕ್ಕೆ, D(1, 6)ಕ್ಕೆ, E(1, 5)ಕ್ಕೆ, F (3, 3)ಕ್ಕೆ, G (6, 3)ಕ್ಕೆ, H (8, 5)ಕ್ಕೆ, I (8, 6)ಕ್ಕೆ, J (6, 8)ಕ್ಕೆ, K (6, 9)ಕ್ಕೆ, L (5, 8)ಕ್ಕೆ, A ಗೆ ಸೇರಿಸಿ. ಆ ಬಳಿಕ, P (3.5, 7), Q (3, 6) ಮತ್ತು R (4, 6) ಬಿಂದುಗಳನ್ನು ಒಂದು ತ್ರಿಭುಜ ಉಂಟಾಗುವಂತೆ ಸೇರಿಸಿ. X (5.5, 7), Y (5, 6) ಮತ್ತು Z (6, 6) ಬಿಂದುಗಳನ್ನೂ ಕೂಡಾ ಒಂದು ತ್ರಿಭುಜ ಉಂಟಾಗುವಂತೆ ಸೇರಿಸಿ. ಈಗ ತ್ರಿಭುಜ ಉಂಟಾಗುವಂತೆ S (4, 5), T (4.5, 4) ಮತ್ತು U (5, 5) ಬಿಂದುಗಳಿಗೆ ಸೇರಿಸಿ ಹಾಗೂ U ನ್ನು (9, 5) ಮತ್ತು (9, 6) ಬಿಂದುಗಳಿಗೆ ಸೇರಿಸಿ. ನಿಮಗೆ ಯಾವ ಚಿತ್ರ ದೊರೆಯಿತು?
+
+$ax + by + c = 0$ ರೂಪದಲ್ಲಿರುವ (a, b ಗಳು ಏಕಕಾಲಕ್ಕೆ ಸೊನ್ನೆಗಳಲ್ಲ), ಎರಡು ಚರಾಕ್ಷರಗಳಿರುವ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳು, ನಕ್ಷಾಕ್ರಮದಲ್ಲಿ ಪ್ರತಿನಿಧಿಸುವಾಗ ಸರಳರೇಖೆಯನ್ನುಂಟು ಮಾಡುತ್ತವೆ ಎಂಬುದನ್ನು ನೀವು ನೋಡಿದ್ದೀರಿ. ಅಲ್ಲದೆ, ಅಧ್ಯಾಯ 2 ರಲ್ಲಿ $y = ax^2 + bx + c$ $(a \neq 0)$ ಇದರ ನಕ್ಷೆಯು ಒಂದು ಪರವಲಯ ಎಂಬುದನ್ನು ಕೂಡಾ ನೀವು ನೋಡಲಿರುವಿರಿ. ವಾಸ್ತವದಲ್ಲಿ, ರೇಖಾಗಣಿತದ ಆಕೃತಿಗಳ ಅಧ್ಯಯನಕ್ಕೆ ಒಂದು ಬೀಜಗಣಿತೀಯ ಸಾಧನವಾಗಿ, ನಿರ್ದೇಶಾಂಕ ರೇಖಾಗಣಿತವು ಅಭಿವೃದ್ಧಿ ಹೊಂದಿತು. ಬೀಜಗಣಿತವನ್ನುಪಯೋಗಿಸಿ, ರೇಖಾಗಣಿತವನ್ನು ಅಭ್ಯಾಸಮಾಡಲು ಮತ್ತು ರೇಖಾಗಣಿತದ ಸಹಾಯದಿಂದ ಬೀಜಗಣಿತವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಇದು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದರಿಂದಾಗಿ, ಭೌತಶಾಸ್ತ್ರ, ಇಂಜಿನಿಯರಿಂಗ್, ಸಮುದ್ರಯಾನ, ಭೂಕಂಪ ಶಾಸ್ತ್ರ ಮತ್ತು ಕಲೆಗಳಂತಹ ಅನೇಕ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ನಿರ್ದೇಶಾಂಕ ರೇಖಾಗಣಿತವು ವಿಪುಲವಾಗಿ ಅನ್ವಯಿಸಲ್ಪಡುತ್ತದೆ.
+
+ಈ ಅಧ್ಯಾಯದಲ್ಲಿ, ಎರಡು ಬಿಂದುಗಳ ನಿರ್ದೇಶಾಂಕಗಳು ತಿಳಿದಿದ್ದಾಗ, ಆ ಬಿಂದುಗಳ ನಡುವಿನ ದೂರವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯಬುದೆಂಬುದನ್ನು ನೀವು ಅಧ್ಯಯನ ಮಾಡುವಿರಿ. ಎರಡು ದತ್ತ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವನ್ನು ಒಂದು ದತ್ತ ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುವ ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯಬಹುದು ಎಂಬುದನ್ನೂ ಕೂಡಾ ನೀವು ಅಭ್ಯಾಸ ಮಾಡುವಿರಿ.
+
+## 7.2 ದೂರಸೂತ್ರ
+ಕೆಳಗಿನ ಸಂದರ್ಭವನ್ನು ಪರಿಗಣಿಸೋಣ:
+
+B ಎಂಬ ನಗರವು, A ಎಂಬ ನಗರದಿಂದ 36km ಪೂರ್ವದಲ್ಲಿ ಮತ್ತು 15km ಉತ್ತರದಲ್ಲಿದೆ. ವಾಸ್ತವವಾಗಿ ಅಳತೆ ಮಾಡದೆ, A ನಗರದಿಂದ B ನಗರಕ್ಕಿರುವ ದೂರವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವಿರಿ? ನಾವು ನೋಡೋಣ. ಈ ಸಂದರ್ಭವನ್ನು ಚಿತ್ರ 7.1 ರಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಕ್ಷೆಯ ಮೂಲಕ ಪ್ರತಿನಿಧಿಸಬಹುದು. ಈ ದೂರವನ್ನು ಲೆಕ್ಕ ಮಾಡಲು ನೀವು ಪೈಥಾಗೊರಸ್‌ನ ಪ್ರಮೇಯವನ್ನು ಉಪಯೋಗಿಸಿಕೊಳ್ಳಬಹುದು.
+
+--- FIGURE ---
+Description: A diagram showing the relative positions of two points A and B. A right-angled triangle is formed with the horizontal and vertical distances as its legs and the direct distance AB as the hypotenuse.
+Labels: Point A is the starting point. An arrow points East labeled "ಪೂರ್ವ". An arrow points North labeled "ಉತ್ತರ". The horizontal distance from A is 36 km. The vertical distance from there is 15 km, leading to point B. The direct path from A to B is the hypotenuse.
+Mathematical significance: This illustrates a real-world problem that can be solved using the Pythagorean theorem, which is the basis for the distance formula. The figure is labeled "ಚಿತ್ರ 7.1".
+--- END FIGURE ---
+
+ಈಗ, ಎರಡು ಬಿಂದುಗಳು x - ಅಕ್ಷದ ಮೇಲೆ ಇವೆಯೆಂದುಕೊಳ್ಳೋಣ. ಅವುಗಳ ನಡುವಿನ ದೂರವನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಬಲ್ಲೆವೆ? ಉದಾಹರಣೆಗೆ, ಚಿತ್ರ 7.2 ರಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, A (4, 0) ಮತ್ತು B (6, 0) ಬಿಂದುಗಳನ್ನು ಪರಿಗಣಿಸಿ. A ಮತ್ತು B ಬಿಂದುಗಳು x - ಅಕ್ಷದ ಮೇಲಿವೆ.
+
+ಚಿತ್ರದಿಂದ, OA = 4 ಮಾನಗಳು ಮತ್ತು OB = 6 ಮಾನಗಳು ಎಂಬುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಆದ್ದರಿಂದ, A ಯಿಂದ B ಗಿರುವ ದೂರ, ಅಂದರೆ, $AB = OB - OA = 6 - 4 = 2$ ಮಾನಗಳು.
+
+ಹೀಗೆ, ಎರಡು ಬಿಂದುಗಳು x - ಅಕ್ಷದ ಮೇಲಿದ್ದರೆ, ಅವುಗಳ ನಡುವಿನ ದೂರವನ್ನು ನಾವು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು.
+
+ಈಗ, y - ಅಕ್ಷದ ಮೇಲಿರುವ ಎರಡು ಬಿಂದುಗಳನ್ನು ನಾವು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಅವುಗಳ ನಡುವಿನ ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಾಧ್ಯವೇ? C (0, 3) ಮತ್ತು D (0, 8) ಬಿಂದುಗಳು y - ಅಕ್ಷದ ಮೇಲಿದ್ದರೆ, ಮೊದಲಿನ ರೀತಿಯಲ್ಲೇ ನಾವು ಕಂಡುಹಿಡಿಯಬಹುದು. ಎಂದರೆ, $CD = 8 - 3 = 5$ ಮಾನಗಳು (ಚಿತ್ರ 7.2 ನ್ನು ನೋಡಿ.)
+
+--- FIGURE ---
+Description: A Cartesian coordinate system showing points on the x and y axes.
+Labels: The x-axis is labeled X. The y-axis is labeled Y. The origin is O. On the x-axis, points A(4, 0) and B(6, 0) are marked. On the y-axis, points C(0, 3) and D(0, 8) are marked. The figure is labeled "ಚಿತ್ರ 7.2".
+Mathematical significance: This illustrates how to find the distance between two points that lie on the same axis by simply subtracting their coordinates.
+--- END FIGURE ---
+
+ಮುಂದೆ A ಯಿಂದ C ಗಿರುವ ದೂರವನ್ನು (ಚಿತ್ರ 7.2 ರಲ್ಲಿ) ಕಂಡುಹಿಡಿಯಲು ನಿಮಗೆ ಸಾಧ್ಯವೇ? OA = 4 ಮಾನಗಳು ಮತ್ತು OC = 3 ಮಾನಗಳು ಆಗಿರುವುದರಿಂದ, C ಯಿಂದ A ಗಿರುವ ದೂರ ಅಂದರೆ $AC = \sqrt{3^2 + 4^2} = 5$ ಮಾನಗಳು. ಅದೇ ರೀತಿ, D ಯಿಂದ B ಗಿರುವ ದೂರ $BD = 10$ ಮಾನಗಳು ಎಂದು ನೀವು ಕಂಡುಹಿಡಿಯಬಹುದು.
+
+ಈಗ ನಿರ್ದೇಶಾಂಕ ಅಕ್ಷಗಳ ಮೇಲೆ ಇಲ್ಲದ ಎರಡು ಬಿಂದುಗಳನ್ನು ಪರಿಗಣಿಸಿದರೆ, ಅವುಗಳ ನಡುವಿನ ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಾಧ್ಯವೇ? ಹೌದು. ಇದಕ್ಕಾಗಿ ನಾವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಉಪಯೋಗಿಸಿಕೊಳ್ಳುತ್ತೇವೆ. ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ.
+
+ಚಿತ್ರ 7.3 ರಲ್ಲಿ, P (4, 6) ಮತ್ತು Q (6, 8) ಬಿಂದುಗಳು ಒಂದನೇ ಚತುರ್ಥಕದಲ್ಲಿವೆ. ಅವುಗಳ ನಡುವಿನ ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಹೇಗೆ ಉಪಯೋಗಿಸಬಹುದು? P ಮತ್ತು Q ಗಳಿಂದ x- ಅಕ್ಷಕ್ಕೆ ಕ್ರಮವಾಗಿ PR ಮತ್ತು QS ಎಂಬ ಲಂಬಗಳನ್ನು ಎಳೆಯೋಣ. PT ಯನ್ನು QS ಗೆ ಲಂಬವಾಗಿ ಎಳೆಯೋಣ. ಆಗ R ಮತ್ತು S ಗಳ ನಿರ್ದೇಶಾಂಕಗಳು ಕ್ರಮವಾಗಿ (4, 0) ಮತ್ತು (6, 0). ಆದ್ದರಿಂದ RS = 2 ಮಾನಗಳು, QS = 8 ಮಾನಗಳು ಮತ್ತು TS = PR = 6 ಮಾನಗಳು.
+
+ಆದ್ದರಿಂದ, $QT = 2$ ಮಾನಗಳು ಮತ್ತು $PT = RS = 2$ ಮಾನಗಳು.
+
+--- FIGURE ---
+Description: A Cartesian coordinate system showing two points P and Q in the first quadrant. A right-angled triangle PQT is constructed to help find the distance between P and Q.
+Labels: The x-axis is labeled X, the y-axis is labeled Y. Point P is at (4, 6). Point Q is at (6, 8). Perpendiculars are dropped from P and Q to the x-axis, meeting at R(4, 0) and S(6, 0) respectively. A line segment PT is drawn parallel to the x-axis, meeting QS at T. The right-angled triangle is PQT. The figure is labeled "ಚಿತ್ರ 7.3".
+Mathematical significance: This illustrates the use of the Pythagorean theorem to find the distance between two arbitrary points by constructing a right-angled triangle whose hypotenuse is the line segment connecting the points.
+--- END FIGURE ---
+
+ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನುಪಯೋಗಿಸಿದಾಗ,
+$$PQ^2 = PT^2 + QT^2$$
+$$= 2^2 + 2^2 = 8$$
+$$PQ = \sqrt{8} = 2\sqrt{2} \text{ ಮಾನಗಳು}$$
+
+ಬೇರೆ ಬೇರೆ ಚತುರ್ಥಕಗಳಲ್ಲಿರುವ ಎರಡು ಬಿಂದುಗಳ ನಡುವಿನ ದೂರವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯಬಹುದು?
+
+P (6, 4) ಮತ್ತು Q (-5, -3) ಎಂಬ ಬಿಂದುಗಳನ್ನು ಪರಿಗಣಿಸಿ (ಚಿತ್ರ 7.4 ನ್ನು ನೋಡಿ). x - ಅಕ್ಷಕ್ಕೆ ಲಂಬವಾಗಿ QS ನ್ನು ಎಳೆಯಿರಿ. QS ನ್ನು ವಿಸ್ತರಿಸಿ. PT ⊥ QS ನ್ನು ಎಳೆಯಿರಿ. ಇದು y - ಅಕ್ಷವನ್ನು R ನಲ್ಲಿ ಛೇದಿಸಲಿ.
+
+--- FIGURE ---
+Description: A Cartesian coordinate system showing point P in the first quadrant and point Q in the third quadrant. A right-angled triangle is constructed using these points.
+Labels: The x-axis is labeled X, the y-axis is labeled Y. Point P is at (6, 4). Point Q is at (-5, -3). A horizontal line from P and a vertical line from Q intersect at T. The point R(0, 4) is on the y-axis. The point S(-5, 0) is on the x-axis. The figure is labeled "ಚಿತ್ರ 7.4".
+Mathematical significance: This demonstrates the application of the distance formula derivation for points in different quadrants.
+--- END FIGURE ---
+
+ಆಗ PT = 11 ಮಾನಗಳು ಮತ್ತು QT = 7 ಮಾನಗಳು. (ಏಕೆ)?
+$\triangle PTQ$ ನಲ್ಲಿ, ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಬಳಸಿದಾಗ $PQ = \sqrt{11^2 + 7^2} = \sqrt{170}$ ಮಾನಗಳು.
+
+P $(x_1, y_1)$ ಮತ್ತು Q $(x_2, y_2)$ ಎಂಬ ಯಾವುದಾದರೂ ಎರಡು ಬಿಂದುಗಳ ನಡುವಿನ ದೂರವನ್ನು ನಾವೀಗ ಕಂಡುಹಿಡಿಯೋಣ.
+x - ಅಕ್ಷಕ್ಕೆ PR ಮತ್ತು QS ಎಂಬ ಲಂಬಗಳನ್ನು ಎಳೆಯಿರಿ. PT ⊥ QS ಎಳೆಯಿರಿ. (ಚಿತ್ರ 7.5 ನ್ನು ನೋಡಿ) ಆಗ, $OR = x_1$, $OS = x_2$ ಆದ್ದರಿಂದ, $RS = x_2 - x_1 = PT$. ಅಲ್ಲದೆ, $SQ = y_2$, $ST = PR = y_1$ ಆದ್ದರಿಂದ, $QT = y_2 - y_1$.
+$\triangle PTQ$ ನಲ್ಲಿ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸಿದಾಗ,
+$$PQ^2 = PT^2 + QT^2$$
+$$= (x_2 - x_1)^2 + (y_2 - y_1)^2$$
+ಆದ್ದರಿಂದ,
+$$PQ = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+
+--- FIGURE ---
+Description: A general diagram for deriving the distance formula. It shows two points P and Q in the first quadrant.
+Labels: The x-axis is labeled X, the y-axis is labeled Y. The origin is O. Point P is $(x_1, y_1)$. Point Q is $(x_2, y_2)$. Perpendiculars are dropped from P and Q to the x-axis, meeting at R and S respectively. A line segment PT is drawn parallel to the x-axis, meeting the line QS at T. This forms a right-angled triangle PQT. The figure is labeled "ಚಿತ್ರ 7.5".
+Mathematical significance: This figure provides the geometric basis for the derivation of the distance formula between any two points in a Cartesian plane.
+--- END FIGURE ---
+
+ದೂರವು ಎಂದಿಗೂ ಋಣಾತ್ಮಕವಲ್ಲದಿರುವುದರಿಂದ ನಾವು ಧನಾತ್ಮಕ ವರ್ಗಮೂಲವನ್ನು ಮಾತ್ರ ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ. ಆದ್ದರಿಂದ, P $(x_1, y_1)$ ಮತ್ತು Q $(x_2, y_2)$ ಬಿಂದುಗಳ ನಡುವಿನ ದೂರವು,
+$$PQ = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+ಇದನ್ನು 'ದೂರಸೂತ್ರ' ಎನ್ನುತ್ತೇವೆ
+
+--- NOTE ---
+ಸೂಚನೆ:
+1. ನಿರ್ದಿಷ್ಟವಾಗಿ, P (x, y) ಎಂಬ ಬಿಂದುವಿಗೆ ಮೂಲಬಿಂದು (0, 0) ಯಿಂದ ಇರುವ ದೂರವು $OP = \sqrt{x^2 + y^2}$
+2. $PQ = \sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$ ಎಂದು ಕೂಡಾ ನಾವು ಬರೆಯಬಹುದು. ಏಕೆ?
+--- END NOTE ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 1 (page 112)
+Problem: (3, 2), (-2, -3) ಮತ್ತು (2, 3) ಬಿಂದುಗಳಿಂದ ತ್ರಿಭುಜ ಉಂಟಾಗುತ್ತದೆಯೆ? ಹೌದು ಎಂದಾದರೆ, ಉಂಟಾದ ತ್ರಿಭುಜದ ವಿಧವನ್ನು ಹೆಸರಿಸಿ.
+Solution:
+ಪರಿಹಾರ: PQ, QR ಮತ್ತು PR ದೂರಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ದೂರಸೂತ್ರವನ್ನು ಅನ್ವಯಿಸೋಣ. ಇಲ್ಲಿ P (3, 2), Q (-2, -3) ಮತ್ತು R (2, 3) ದತ್ತ ಬಿಂದುಗಳು.
+$$PQ = \sqrt{(3 - (-2))^2 + (2 - (-3))^2} = \sqrt{5^2 + 5^2} = \sqrt{50} = 7.07 \text{ (ಅಂದಾಜು)}$$
+$$QR = \sqrt{(-2-2)^2 + (-3-3)^2} = \sqrt{(-4)^2 + (-6)^2} = \sqrt{52} = 7.21 \text{ (ಅಂದಾಜು)}$$
+$$PR = \sqrt{(3 - 2)^2 + (2 - 3)^2} = \sqrt{1^2 + (-1)^2} = \sqrt{2} = 1.41 \text{ (ಅಂದಾಜು)}$$
+ಇವುಗಳಲ್ಲಿ ಯಾವುದೇ ಎರಡು ದೂರಗಳ ಮೊತ್ತವು, ಮೂರನೇ ದೂರಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರುವುದರಿಂದ, P, Q ಮತ್ತು R ಬಿಂದುಗಳು ತ್ರಿಭುಜವನ್ನುಂಟುಮಾಡುತ್ತವೆ.
+ಅಲ್ಲದೆ, $PQ^2 + PR^2 = (\sqrt{50})^2 + (\sqrt{2})^2 = 50 + 2 = 52 = (\sqrt{52})^2 = QR^2$. ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ವಿಲೋಮದ ಪ್ರಕಾರ $\angle P = 90^\circ$ ಎಂದು ತಿಳಿಯಬಹುದು. ಆದ್ದರಿಂದ PQR ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ.
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 2 (page 112)
+Problem: (1, 7), (4, 2), (-1, -1) ಮತ್ತು (-4, 4) ಬಿಂದುಗಳು ಚೌಕದ ಶೃಂಗಗಳು ಎಂದು ತೋರಿಸಿ.
+Solution:
+ಪರಿಹಾರ: A (1, 7), B (4, 2), C (-1, -1) ಮತ್ತು D (-4, 4) ದತ್ತ ಬಿಂದುಗಳಾಗಿರಲಿ. ABCD ಒಂದು ಚೌಕವೆಂದು ತೋರಿಸುವ ಒಂದು ವಿಧಾನವೆಂದರೆ, ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮಾನವಾಗಿರಬೇಕು ಮತ್ತು ಎರಡು ಕರ್ಣಗಳು ಸಮಾನವಾಗಿರಬೇಕು ಎಂಬ ಗುಣವನ್ನು ಉಪಯೋಗಿಸಿಕೊಳ್ಳುವುದು.
+$$AB = \sqrt{(1 - 4)^2 + (7 - 2)^2} = \sqrt{9 + 25} = \sqrt{34}$$
+$$BC = \sqrt{(4 - (-1))^2 + (2 - (-1))^2} = \sqrt{(4+1)^2 + (2+1)^2} = \sqrt{25+9} = \sqrt{34}$$
+$$CD = \sqrt{(-1 - (-4))^2 + (-1 - 4)^2} = \sqrt{(-1+4)^2 + (-1-4)^2} = \sqrt{9 + 25} = \sqrt{34}$$
+$$DA = \sqrt{(1 - (-4))^2 + (7 - 4)^2} = \sqrt{(1+4)^2 + (7-4)^2} = \sqrt{25+9} = \sqrt{34}$$
+$$AC = \sqrt{(1 - (-1))^2 + (7 - (-1))^2} = \sqrt{(1+1)^2 + (7+1)^2} = \sqrt{4 + 64} = \sqrt{68}$$
+$$BD = \sqrt{(4 - (-4))^2 + (2 - 4)^2} = \sqrt{(4+4)^2 + (2-4)^2} = \sqrt{64 + 4} = \sqrt{68}$$
+AB = BC = CD = DA ಮತ್ತು AC = BD ಆಗಿರುವುದರಿಂದ, ಚತುರ್ಭುಜ ABCD ಯ ಎಲ್ಲಾ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮ ಹಾಗೂ ಅದರ ಕರ್ಣಗಳಾದ AC ಮತ್ತು BD ಗಳು ಕೂಡಾ ಸಮ. ಆದ್ದರಿಂದ ABCD ಒಂದು ಚೌಕ.
+
+ಪರ್ಯಾಯ ಪರಿಹಾರ: ನಾಲ್ಕು ಬಾಹುಗಳು ಮತ್ತು AC ಕರ್ಣವನ್ನು, ಮೇಲೆ ಸೂಚಿಸಿರುವಂತೆ, ನಾವು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಇಲ್ಲಿ $AD^2 + DC^2 = 34 + 34 = 68 = AC^2$. ಆದ್ದರಿಂದ, ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ವಿಲೋಮದಿಂದ, $\angle D = 90^\circ$ ಆಯ್ತು. ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮವಾಗಿದ್ದು ಒಂದು ಕೋನವು 90° ಇರುವ ಚತುರ್ಭುಜವು ಚೌಕವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ ABCD ಒಂದು ಚೌಕ.
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 3 (page 113)
+Problem: ಒಂದು ತರಗತಿಯಲ್ಲಿರುವ ಡೆಸ್ಕುಗಳ ವ್ಯವಸ್ಥೆಯನ್ನು ಚಿತ್ರ 7.6 ತೋರಿಸುತ್ತದೆ. ಅಶೀಮಾ, ಭಾರತಿ ಮತ್ತು ಕ್ಯಾಮೆಲಾ ಕ್ರಮವಾಗಿ A (3, 1), B (6, 4) ಮತ್ತು C (8, 6) ರಲ್ಲಿ ಕುಳಿತಿದ್ದಾರೆ. ಆ ಮೂರು ವಿದ್ಯಾರ್ಥಿನಿಯರು ಒಂದೇ ಸರಳರೇಖೆಯಲ್ಲಿ ಕುಳಿತಿದ್ದಾರೆಂದು ನಿಮಗೆ ಅನಿಸುತ್ತದೆಯೆ? ನಿಮ್ಮ ಉತ್ತರಕ್ಕೆ ಕಾರಣ ಕೊಡಿ.
+Solution:
+--- FIGURE ---
+Description: A 10x10 grid representing a classroom layout. Rows are numbered 1-10 vertically and columns are labeled 1-10 horizontally.
+Labels: Three points are marked: A at (3, 1), B at (6, 4), and C at (8, 6). The horizontal axis is labeled "ಕಂಬಸಾಲು" (Columns) and the vertical axis is labeled "ಅಡ್ಡಸಾಲು" (Rows). The figure is labeled "ಚಿತ್ರ 7.6".
+Mathematical significance: This provides a visual representation for a problem on collinearity of points.
+--- END FIGURE ---
+ಪರಿಹಾರ: ದೂರಸೂತ್ರವನ್ನು ಉಪಯೋಗಿಸಿದಾಗ,
+$$AB = \sqrt{(6 - 3)^2 + (4-1)^2} = \sqrt{9+9} = \sqrt{18} = 3\sqrt{2}$$
+$$BC = \sqrt{(8 - 6)^2 + (6 - 4)^2} = \sqrt{4 + 4} = \sqrt{8} = 2\sqrt{2}$$
+$$AC = \sqrt{(8 - 3)^2 + (6 - 1)^2} = \sqrt{25 + 25} = \sqrt{50} = 5\sqrt{2}$$
+$AB + BC = 3\sqrt{2} + 2\sqrt{2} = 5\sqrt{2}$ ಆಗಿರುವುದರಿಂದ $AB + BC = AC$. ಆದ್ದರಿಂದ A, B ಮತ್ತು C ಬಿಂದುಗಳು ಸರಳರೇಖಾಗತ ಎಂದು ನಾವು ಹೇಳಬಹುದು. ಆದ್ದರಿಂದ ಅವರು ಒಂದೇ ಸರಳರೇಖೆಯಲ್ಲಿ ಕುಳಿತಿದ್ದಾರೆ.
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 4 (page 113)
+Problem: (x, y) ಬಿಂದುವು (7, 1) ಮತ್ತು (3, 5) ಬಿಂದುಗಳಿಂದ ಸಮಾನದೂರದಲ್ಲಿದ್ದರೆ, x ಮತ್ತು y ಗಳ ನಡುವೆ ಒಂದು ಸಂಬಂಧವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+ಪರಿಹಾರ : P (x, y) ಬಿಂದುವು A (7, 1) ಮತ್ತು B (3, 5) ಬಿಂದುಗಳಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿದೆ ಎಂದು ಭಾವಿಸೋಣ. AP = BP ಎಂದು ನೀಡಲಾಗಿದೆ. ಆದ್ದರಿಂದ $AP^2 = BP^2$.
+ಅಂದರೆ,
+$$(x - 7)^2 + (y - 1)^2 = (x - 3)^2 + (y - 5)^2$$
+ಅಂದರೆ, $x^2 - 14x + 49 + y^2 - 2y + 1 = x^2 - 6x + 9 + y^2 - 10y + 25$
+ಅಂದರೆ, $-14x - 2y + 50 = -6x - 10y + 34$
+ಅಂದರೆ, $-8x + 8y + 16 = 0$
+ಅಂದರೆ, $x - y = 2$
+ಇದು ಅಪೇಕ್ಷಿತ ಸಂಬಂಧ.
+--- EXAMPLE END ---
+
+--- NOTE ---
+ಸೂಚನೆ: $x - y = 2$ ಸಮೀಕರಣದ ನಕ್ಷೆಯು ಒಂದು ಸರಳರೇಖೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ. A ಮತ್ತು B ಗಳಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿರುವ ಬಿಂದುವು ABಯ ಲಂಬಾರ್ಧಕದ ಮೇಲಿರುತ್ತದೆ ಎಂಬುದು ನಿಮ್ಮ ಹಿಂದಿನ ತರಗತಿಯಿಂದ ನಿಮಗೆ ತಿಳಿದಿದೆ. ಆದ್ದರಿಂದ $x - y = 2$ ರ ನಕ್ಷೆಯು AB ಯ ಲಂಬಾರ್ಧಕವಾಗಿದೆ. (ಚಿತ್ರ 7.7 ನ್ನು ನೋಡಿರಿ)
+--- END NOTE ---
+
+--- FIGURE ---
+Description: A coordinate plane showing a line and two points.
+Labels: The x-axis and y-axis are shown. Point A is at (7, 1). Point B is at (3, 5). A line labeled $x-y=2$ passes through the plane, appearing to be the perpendicular bisector of the segment AB. The figure is labeled "ಚಿತ್ರ 7.7".
+Mathematical significance: This figure visually represents the solution to Example 4, showing that the locus of points equidistant from two given points is the perpendicular bisector of the segment connecting them.
+--- END FIGURE ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 5 (page 114)
+Problem: A (6, 5) ಮತ್ತು B (-4, 3) ಬಿಂದುಗಳಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿರುವ y - ಅಕ್ಷದ ಮೇಲಿನ ಒಂದು ಬಿಂದುವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+ಪರಿಹಾರ: y - ಅಕ್ಷದ ಮೇಲಿನ ಒಂದು ಬಿಂದುವು (0, y) ರೂಪದಲ್ಲಿರುತ್ತದೆ ಎಂಬುದು ನಮಗೆ ಗೊತ್ತು. P (0, y) ಯು A ಮತ್ತು Bಗಳಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿರುವ ಒಂದು ಬಿಂದುವಾಗಿರಲಿ. ಆಗ $PA = PB$, ಆದ್ದರಿಂದ $PA^2 = PB^2$.
+$$(6 – 0)^2 + (5 – y)^2 = (-4 – 0)^2 + (3 – y)^2$$
+ಅಂದರೆ, $36 + 25 + y^2 - 10y = 16 + 9 + y^2 - 6y$
+ಅಂದರೆ, $61 - 10y = 25 - 6y$
+ಅಂದರೆ, $36 = 4y$
+ಅಂದರೆ, $y = 9$
+ಆದ್ದರಿಂದ, ಅಪೇಕ್ಷಿತ ಬಿಂದು (0, 9).
+ನಮ್ಮ ಪರಿಹಾರವನ್ನು ಪರಿಶೀಲಿಸೋಣ :
+$$AP = \sqrt{(6 - 0)^2 + (5 - 9)^2} = \sqrt{36+16} = \sqrt{52}$$
+$$BP = \sqrt{(-4 - 0)^2 + (3 - 9)^2} = \sqrt{16+36} = \sqrt{52}$$
+--- EXAMPLE END ---
+
+--- NOTE ---
+ಸೂಚನೆ: ಮೇಲಿನ ಹಂತಗಳಿಂದ y - ಅಕ್ಷ ಮತ್ತು AB ಯ ಲಂಬಾರ್ಧಕಗಳ ಛೇದನವು (0, 9) ಎಂಬುದನ್ನು ನಾವು ಕಾಣಬಹುದು.
+--- END NOTE ---
+
+### ಅಭ್ಯಾಸ 7.1
+
+## 7.3 ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರ
+ವಿಭಾಗ 7.2ರ ಸಂದರ್ಭವನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ಒಂದು ದೂರವಾಣಿ ಸಂಸ್ಥೆಯು A ಮತ್ತು B ಗಳ ನಡುವೆ P ಬಿಂದುವಿನಲ್ಲಿ ಒಂದು ಪ್ರಸಾರ ಗೋಪುರ (ಟವರ್)ವನ್ನು ಹಾಕಲು ಬಯಸುತ್ತದೆ. ಟವರ್‌ಗೆ B ಯಿಂದ ಇರುವ ದೂರವು A ಯಿಂದ ಇರುವ ದೂರದ ಎರಡು ಪಟ್ಟು ಆಗಿರಬೇಕು. P ಯು AB ಯ ಮೇಲಿದ್ದರೆ, ಅದು AB ಯನ್ನು 1:2 ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ. (ಚಿತ್ರ 7.9 ನ್ನು ನೋಡಿರಿ.) ನಾವು A ಯನ್ನು ಮೂಲಬಿಂದು 'O' ಎಂದು ಮತ್ತು 1 km ನ್ನು ಎರಡೂ ಅಕ್ಷಗಳ ಮೇಲೆ 1 ಮಾನವೆಂದು ತೆಗೆದುಕೊಂಡರೆ, B ಯ ನಿರ್ದೇಶಾಂಕಗಳು (36, 15) ಎಂದಾಗುತ್ತವೆ. ಟವರ್‌ನ ಸ್ಥಾನವನ್ನು ಗುರುತಿಸಲು P ಯ ನಿರ್ದೇಶಾಂಕಗಳು ನಮಗೆ ಗೊತ್ತಿರಬೇಕು. ಈ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯುವುದು ಹೇಗೆ?
+
+--- FIGURE ---
+Description: A diagram illustrating the setup for the section formula problem.
+Labels: Point A is at the origin O. Point B is at (36, 15). Point P(x, y) is on the line segment AB. A right-angled triangle ABC is formed with AC on the x-axis and BC parallel to the y-axis. The figure is labeled "ಚಿತ್ರ 7.9".
+Mathematical significance: This sets up a specific problem to introduce the concept and derivation of the section formula.
+--- END FIGURE ---
+
+P ಯ ನಿರ್ದೇಶಾಂಕಗಳು (x, y) ಆಗಿರಲಿ PD ⊥ x – ಅಕ್ಷ ಮತ್ತು BE ⊥ x- ಅಕ್ಷ ಹಾಗೂ PC ⊥ BE ಗಳನ್ನು ಎಳೆಯಿರಿ. ಆಗ 6ನೇ ತರಗತಿಯಲ್ಲಿ ನೀವು ಅಧ್ಯಯನ ಮಾಡಿದ ಕೋನ ಕೋನ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದಿಂದ $\triangle POD$ ಮತ್ತು $\triangle BPC$ ಗಳು ಸಮರೂಪಿಗಳಾಗುತ್ತವೆ.
+ಆದ್ದರಿಂದ, $\frac{OD}{PC} = \frac{OP}{PB} = \frac{1}{2}$, ಮತ್ತು $\frac{PD}{BC} = \frac{OP}{PB} = \frac{1}{2}$
+$$\frac{x}{36 - x} = \frac{1}{2} \text{ ಮತ್ತು } \frac{y}{15 - y} = \frac{1}{2}$$
+ಈ ಸಮೀಕರಣಗಳಿಂದ ಸಿಗುವುದೆಂದರೆ, x = 12 ಮತ್ತು y = 5.
+OP : PB = 1:2 ಎಂಬ ನಿಬಂಧನೆಗೆ P (12, 5) ಹೊಂದಾಣಿಕೆಯಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನೀವು ಪರಿಶೀಲಿಸಬಹುದು.
+
+ಮೇಲಿನ ಉದಾಹರಣೆಯಿಂದ ಒಂದು ಸಾಮಾನ್ಯ ಸೂತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.
+A $(x_1, y_1)$ ಮತ್ತು B $(x_2, y_2)$ ಎಂಬ ಯಾವುದೇ ಎರಡು ಬಿಂದುಗಳನ್ನು ಪರಿಗಣಿಸಿ ಮತ್ತು P (x, y) ಯು AB ಯನ್ನು ಆಂತರಿಕವಾಗಿ $m_1 : m_2$ ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆಂದು ಭಾವಿಸಿ. ಅಂದರೆ $\frac{PA}{PB} = \frac{m_1}{m_2}$ (ಚಿತ್ರ 7.10 ನ್ನು ನೋಡಿರಿ.)
+
+--- FIGURE ---
+Description: A general diagram for deriving the section formula.
+Labels: The x-axis and y-axis are shown. Point A is $(x_1, y_1)$, Point B is $(x_2, y_2)$. Point P(x, y) lies on the segment AB. The ratio of division is shown as $m_1$ (for AP) and $m_2$ (for PB). Perpendiculars AR, PS, BT are drawn to the x-axis. Lines AQ and PC are drawn parallel to the x-axis, forming two similar right-angled triangles, $\triangle APQ$ and $\triangle BPC$. The figure is labeled "ಚಿತ್ರ 7.10".
+Mathematical significance: This figure illustrates the geometric construction used to derive the section formula.
+--- END FIGURE ---
+
+x - ಅಕ್ಷಕ್ಕೆ AR, PS ಮತ್ತು BT ಲಂಬಗಳನ್ನು ಎಳೆಯಿರಿ. x- ಅಕ್ಷಕ್ಕೆ ಸಮಾಂತರವಾಗಿ AQ ಮತ್ತು PC ಗಳನ್ನು ಎಳೆಯಿರಿ. ಆಗ ಕೋನ ಕೋನ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದಿಂದ
+$$\triangle PAQ \sim \triangle BPC$$
+ಆದ್ದರಿಂದ,
+$$\frac{PA}{BP} = \frac{AQ}{PC} = \frac{PQ}{BC} \quad (1)$$
+ಈಗ,
+$AQ = RS = OS - OR = x - x_1$
+$PC = ST = OT - OS = x_2 - x$
+$PQ = PS - QS = PS - AR = y - y_1$
+$BC = BT - CT = BT - PS = y_2 - y$
+
+ಈ ಬೆಲೆಗಳನ್ನು (1) ರಲ್ಲಿ ಆದೇಶಿಸಿದಾಗ,
+$$\frac{m_1}{m_2} = \frac{x - x_1}{x_2 - x} \text{ ಮತ್ತು } \frac{m_1}{m_2} = \frac{y - y_1}{y_2 - y}$$
+$$\frac{m_1}{m_2} = \frac{x - x_1}{x_2 - x} \implies x = \frac{m_1x_2 + m_2x_1}{m_1 + m_2} \text{ ಎಂದಾಗುತ್ತದೆ.}$$
+ಅದೇ ರೀತಿ,
+$$\frac{m_1}{m_2} = \frac{y - y_1}{y_2 - y} \implies y = \frac{m_1y_2 + m_2y_1}{m_1 + m_2} \text{ ಎಂದಾಗುತ್ತದೆ.}$$
+ಆದ್ದರಿಂದ A $(x_1, y_1)$ ಮತ್ತು B $(x_2, y_2)$ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವನ್ನು ಆಂತರಿಕವಾಗಿ, $m_1 : m_2$ ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುವ P (x, y) ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು.
+$$ \left( \frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \frac{m_1y_2 + m_2y_1}{m_1 + m_2} \right) \quad (2) $$
+ಇದನ್ನು ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರ ಎನ್ನುತ್ತೇವೆ.
+
+A, P ಮತ್ತು B ಗಳಿಂದ y – ಅಕ್ಷಕ್ಕೆ ಲಂಬಗಳನ್ನು ಎಳೆದು ಆ ಬಳಿಕ ಈ ಮೇಲಿನಂತೆ ಮುಂದುವರಿದರೆ ಕೂಡಾ ಸೂತ್ರವನ್ನು ವ್ಯುತ್ಪತ್ತಿ ಮಾಡಬಹುದು.
+
+P ಯು AB ಯನ್ನು ವಿಭಾಗಿಸುವ ಅನುಪಾತ k: 1 ಆದರೆ P ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು
+$$ \left( \frac{kx_2 + x_1}{k+1}, \frac{ky_2 + y_1}{k+1} \right) $$
+
+ವಿಶೇಷ ಪ್ರಕರಣ: ಒಂದು ರೇಖಾಖಂಡದ ಮಧ್ಯಬಿಂದುವು ಆ ರೇಖಾಖಂಡವನ್ನು 1 : 1 ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ, ಆದ್ದರಿಂದ A $(x_1, y_1)$ ಮತ್ತು B $(x_2, y_2)$ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡದ ಮಧ್ಯಬಿಂದು Pಯ ನಿರ್ದೇಶಾಂಕಗಳು,
+$$ \left( \frac{1.x_2 + 1.x_1}{1+1}, \frac{1.y_2 + 1.y_1}{1+1} \right) = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right) $$
+
+ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರವನ್ನು ಆಧರಿಸಿ ಕೆಲವೊಂದು ಉದಾಹರಣೆಗಳನ್ನು ಬಿಡಿಸೋಣ.
+
+--- EXAMPLE START ---
+Source: Class 10, Example 6 (page 117)
+Problem: (4, -3) ಮತ್ತು (8, 5) ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವನ್ನು ಆಂತರಿಕವಾಗಿ 3 : 1 ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುವ ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+ಪರಿಹಾರ: P (x, y)ಯು ಅಪೇಕ್ಷಿತ ಬಿಂದುವಾಗಿರಲಿ. ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರವನ್ನು ಉಪಯೋಗಿಸಿದಾಗ
+$$x = \frac{3(8) + 1(4)}{3+1} = 7, \quad y = \frac{3(5) + 1(-3)}{3+1} = 3 \text{ ಎಂದಾಗುತ್ತದೆ.}$$
+ಆದ್ದರಿಂದ ಅಪೇಕ್ಷಿತ ಬಿಂದು (7, 3).
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 7 (page 117)
+Problem: A (-6, 10) ಮತ್ತು B (3, -8) ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವನ್ನು (-4, 6) ಬಿಂದುವು ಯಾವ ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ?
+Solution:
+ಪರಿಹಾರ: (-4, 6) AB ಯನ್ನು ಆಂತರಿಕವಾಗಿ $m_1 : m_2$ ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸಲಿ. ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರವನ್ನು ಉಪಯೋಗಿಸಿದಾಗ
+$$(-4, 6) = \left( \frac{3m_1 - 6m_2}{m_1 + m_2}, \frac{-8m_1 + 10m_2}{m_1 + m_2} \right) \quad (1)$$
+(x, y) = (a, b) ಆದರೆ, x= a, y = b ಎಂಬುದನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಿ
+ಆದ್ದರಿಂದ,
+$$-4 = \frac{3m_1 - 6m_2}{m_1 + m_2} \text{ ಮತ್ತು } 6 = \frac{-8m_1 + 10m_2}{m_1 + m_2}$$
+ಈಗ,
+$$-4 = \frac{3m_1 - 6m_2}{m_1 + m_2}$$
+$$-4m_1 - 4m_2 = 3m_1 - 6m_2$$
+ಅಂದರೆ, $7m_1 = 2m_2$
+ಅಂದರೆ, $m_1 : m_2 = 2 : 7$
+ಅನುಪಾತವು y - ನಿರ್ದೇಶಾಂಕಕ್ಕೂ ಹೊಂದಾಣಿಕೆಯಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನೀವು ಪರಿಶೀಲಿಸ ಬೇಕಾಗುತ್ತದೆ.
+ಈಗ
+$$\frac{-8m_1 + 10m_2}{m_1 + m_2} = \frac{-8(\frac{m_1}{m_2}) + 10}{(\frac{m_1}{m_2}) + 1} \text{ (ಎಲ್ಲಾ ಪದಗಳಿಗೂ } m_2 \text{ನಿಂದ ಭಾಗಿಸಿದಾಗ)}$$
+$$= \frac{-8(\frac{2}{7}) + 10}{\frac{2}{7} + 1} = \frac{-\frac{16}{7} + 10}{\frac{9}{7}} = \frac{\frac{54}{7}}{\frac{9}{7}} = 6$$
+ಆದ್ದರಿಂದ (-4, 6) ಬಿಂದುವು. A (-6, 10) ಮತ್ತು B (3, -8) ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವನ್ನು 2 : 7 ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ.
+
+ಪರ್ಯಾಯವಾಗಿ: $m_1 : m_2$ ಅನುಪಾತವನ್ನು $\frac{m_1}{m_2} : 1$ ಅಥವಾ k : 1 ಎಂದು ಕೂಡಾ ಬರೆಯಬಹುದು.
+(-4, 6) AB ಯನ್ನು ಆಂತರಿಕವಾಗಿ k: 1 ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ ಎಂದುಕೊಳ್ಳೋಣ. ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರವನ್ನು ಉಪಯೋಗಿಸಿದಾಗ
+$$(-4, 6) = \left( \frac{3k - 6}{k+1}, \frac{-8k + 10}{k+1} \right) \quad (2)$$
+ಆದ್ದರಿಂದ,
+$$-4 = \frac{3k - 6}{k+1}$$
+ಅಂದರೆ, $-4k - 4 = 3k - 6$
+ಅಂದರೆ, $7k = 2$
+ಅಂದರೆ, $k = \frac{2}{7}$.
+ಅಂದರೆ, k : 1 = 2 : 7. y ನಿರ್ದೇಶಾಂಕಕ್ಕೆ ಕೂಡಾ ನೀವಿದನ್ನು ಪರಿಶೀಲಿಸಬಹುದು.
+ಆದ್ದರಿಂದ (-4, 6) ಬಿಂದುವು, A(-6, 10) ಮತ್ತು B(3, -8) ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವನ್ನು 2 : 7 ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ.
+--- EXAMPLE END ---
+
+--- NOTE ---
+ಸೂಚನೆ: ಈ ಅನುಪಾತವನ್ನು ಮತ್ತೊಂದು ವಿಧಾನದಲ್ಲಿ ಕಂಡುಹಿಡಿಯಲು, ನೀವು PA ಮತ್ತು PB ಗಳ ದೂರಗಳನ್ನು ಲೆಕ್ಕ ಹಾಕಬೇಕು ಮತ್ತು ಅವುಗಳ ಅನುಪಾತವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಆದರೆ ಇಲ್ಲಿ AP ಮತ್ತು BP ಗಳು ಸರಳರೇಖಾಗತ ಎಂದು ತಿಳಿದಿರಬೇಕಾಗುತ್ತದೆ.
+--- END NOTE ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 8 (page 119)
+Problem: A (2, -2) ಮತ್ತು B (-7, 4) ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡದ ತ್ರೈಭಾಜಕ ಬಿಂದುಗಳ (ಅಂದರೆ, ಮೂರು ಸಮ ಭಾಗಗಳನ್ನು ಮಾಡುವ ಬಿಂದುಗಳು) ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+ಪರಿಹಾರ: P ಮತ್ತು Qಗಳು AB ಯ ತ್ರೈಭಾಜಕ ಬಿಂದುಗಳಾಗಿರಲಿ. ಅಂದರೆ AP = PQ = QB (ಚಿತ್ರ 7.11 ನ್ನು ನೋಡಿ).
+--- FIGURE ---
+Description: A line segment AB with two points P and Q dividing it into three equal parts.
+Labels: The points are shown in order on a line: A, P, Q, B. The start point is A(2, -2) and the end point is B(-7, 4). The figure is labeled "ಚಿತ್ರ 7.11".
+Mathematical significance: Illustrates the concept of trisection points.
+--- END FIGURE ---
+ಆದ್ದರಿಂದ P ಯು AB ಯನ್ನು ಆಂತರಿಕವಾಗಿ 1 : 2 ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರವನ್ನು ಉಪಯೋಗಿಸುವ ಮೂಲಕ Pಯ ನಿರ್ದೇಶಾಂಕಗಳು
+$$ \left( \frac{1(-7) + 2(2)}{1+2}, \frac{1(4) + 2(-2)}{1+2} \right) \text{ ಅಂದರೆ, } (-1, 0). $$
+Q ಬಿಂದು ಕೂಡಾ AB ಯನ್ನು ಆಂತರಿಕವಾಗಿ 2:1 ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, Q ನ ನಿರ್ದೇಶಾಂಕಗಳು
+$$ \left( \frac{2(-7) + 1(2)}{2+1}, \frac{2(4) + 1(-2)}{2+1} \right) \text{ ಅಂದರೆ, } (-4, 2). $$
+ಆದ್ದರಿಂದ A ಮತ್ತು B ಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡದ ತ್ರೈಭಾಜಕ ಬಿಂದುಗಳ ನಿರ್ದೇಶಾಂಕಗಳು (-1, 0) ಮತ್ತು (-4, 2).
+--- EXAMPLE END ---
+
+--- NOTE ---
+ಸೂಚನೆ: PB ಯ ಮಧ್ಯಬಿಂದು Q ಎಂದು ಗುರುತಿಸಿ, ನಾವು Q ವನ್ನು ಕೂಡಾ ಪಡೆಯಬಹುದು. ಮಧ್ಯಬಿಂದು ಸೂತ್ರವನ್ನು ಉಪಯೋಗಿಸುವುದರಿಂದ ನಮಗೆ ಅದರ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಪಡೆಯಬಹುದು.
+--- END NOTE ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 9 (page 119)
+Problem: (5, -6) ಮತ್ತು (-1, -4) ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವನ್ನು y - ಅಕ್ಷವು ಯಾವ ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ, ಛೇದಕ ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+ಪರಿಹಾರ: ಅನುಪಾತವು k : 1 ಆಗಿರಲಿ. ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರದಿಂದ AB ಯನ್ನು k : 1 ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುವ ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು
+$$ \left( \frac{-k + 5}{k+1}, \frac{-4k - 6}{k+1} \right) $$
+ಈ ಬಿಂದುವು y - ಅಕ್ಷದ ಮೇಲಿದೆ. y - ಅಕ್ಷದ ಮೇಲೆ ಪಾದ ಸೂಚಕ ಸೊನ್ನೆ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ.
+ಆದ್ದರಿಂದ,
+$$ \frac{-k + 5}{k+1} = 0 $$
+ಆದ್ದರಿಂದ, $k = 5$
+ಅಂದರೆ, ಅನುಪಾತವು 5 : 1, k = 5 ಎಂದು ಬೆಲೆಯನ್ನು ಹಾಕಿದಾಗ, ಛೇದಕ ಬಿಂದುವು $(0, -\frac{13}{3})$ ಎಂದು ಸಿಗುತ್ತದೆ.
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 10, Example 10 (page 120)
+Problem: A (6, 1), B (8, 2), C (9, 4) ಮತ್ತು D (p, 3) ಬಿಂದುಗಳು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅನುಕ್ರಮ ಶೃಂಗಗಳಾದರೆ, p ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+ಪರಿಹಾರ: ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ ಎಂಬುದು ನಮಗೆ ತಿಳಿದಿದೆ.
+ಆದ್ದರಿಂದ, AC ಯ ಮಧ್ಯಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು = BD ಯ ಮಧ್ಯಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು.
+ಅಂದರೆ,
+$$ \left( \frac{6+9}{2}, \frac{1+4}{2} \right) = \left( \frac{8+p}{2}, \frac{2+3}{2} \right) $$
+ಅಂದರೆ,
+$$ \left( \frac{15}{2}, \frac{5}{2} \right) = \left( \frac{8+p}{2}, \frac{5}{2} \right) $$
+ಆದ್ದರಿಂದ, $\frac{15}{2} = \frac{8+p}{2}$
+ಅಂದರೆ, $p = 7$
+--- EXAMPLE END ---
+
+### ಅಭ್ಯಾಸ 7.2
+
+## 7.4 ಸಾರಾಂಶ
+ಈ ಅಧ್ಯಾಯದಲ್ಲಿ, ನೀವು ಕೆಳಗಿನ ಅಂಶಗಳನ್ನು ಕಲಿತಿರುವಿರಿ.
+1. P$(x_1, y_1)$ ಮತ್ತು Q $(x_2, y_2)$ ಗಳ ನಡುವಿನ ದೂರವು $\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$
+2. P(x, y) ಬಿಂದುವಿನಿಂದ ಮೂಲಬಿಂದುವಿಗಿರುವ ದೂರವು $\sqrt{x^2 + y^2}$
+3. A$(x_1, y_1)$ ಮತ್ತು B $(x_2, y_2)$ ಬಿಂದುಗಳನ್ನು ಆಂತರಿಕವಾಗಿ $m_1 : m_2$ ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುವ P (x, y) ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು
+$$ \left( \frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \frac{m_1y_2 + m_2y_1}{m_1 + m_2} \right) $$
+4. P $(x_1, y_1)$ ಮತ್ತು Q $(x_2, y_2)$ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡದ ಮಧ್ಯಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು $(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2})$
+
+--- NOTE ---
+**ಓದುಗರಿಗೆ ಸೂಚನೆ**
+
+ವಿಭಾಗ 7.3 ರಲ್ಲಿ A$(x_1, y_1)$ ಮತ್ತು B $(x_2, y_2)$ ಎಂಬ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವನ್ನು ಆಂತರಿಕವಾಗಿ $m_1 : m_2$ ಎಂಬ ಅನುಪಾತದಲ್ಲಿ ವಿಭಾಗಿಸುವ P (x, y) ಎಂಬ ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು ಈ ಕೆಳಗಿನಂತಿವೆ:
+$$ x = \frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \quad y = \frac{m_1y_2 + m_2y_1}{m_1 + m_2} $$
+ಎಂಬುದಾಗಿ ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರದಲ್ಲಿ ಚರ್ಚಿಸಿದ್ದೇವೆ.
+ಇಲ್ಲಿ PA : PB = $m_1 : m_2$ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.
+ಆದಾಗ್ಯೂ, P ಯು A ಮತ್ತು B ಗಳ ನಡುವೆ ಇಲ್ಲದೆ AB ರೇಖಾಖಂಡದ ಹೊರಗೆ PA : PB = $m_1 : m_2$ ಆಗುವಂತೆ AB ಸರಳ ರೇಖೆಯ ಮೇಲೆ ಇದ್ದರೆ, A ಮತ್ತು B ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವನ್ನು P ಯು ಬಾಹ್ಯವಾಗಿ ವಿಭಾಗಿಸುತ್ತದೆ ಎಂದು ನಾವು ಹೇಳುತ್ತೇವೆ. ಇಂತಹ ಪ್ರಕರಣಕ್ಕೆ ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರವನ್ನು ನೀವು ಉನ್ನತ ತರಗತಿಗಳಲ್ಲಿ ಕಲಿಯುತ್ತೀರಿ.
+--- END NOTE ---

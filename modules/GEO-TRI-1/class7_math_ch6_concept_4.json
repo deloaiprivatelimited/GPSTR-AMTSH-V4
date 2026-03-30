@@ -1,0 +1,113 @@
+{
+  "module_id": "class7_math_ch6_concept_4",
+  "module_title": "ತ್ರಿಭುಜದ ಬಾಹ್ಯ ಕೋನದ ಗುಣ",
+  "class": "7",
+  "chapter": "6",
+  "chapter_title": "ತ್ರಿಭುಜ ಮತ್ತು ಅದರ ಗುಣಗಳು",
+  "domain": "ರೇಖಾಗಣಿತ",
+  "prerequisites": [
+    "class7_math_ch6_concept_1",
+    "class7_math_ch6_concept_2",
+    "class7_math_ch6_concept_3"
+  ],
+  "theory": {
+    "concept_summary": "ತ್ರಿಭುಜದ ಒಂದು ಬಾಹುವನ್ನು ವೃದ್ಧಿಸಿದಾಗ ಉಂಟಾಗುವ ಬಾಹ್ಯ ಕೋನವು, ಅದಕ್ಕೆ ಹೊಂದಿಕೊಂಡಿರದ ಎರಡು ಅಂತರಾಭಿಮುಖ ಒಳಕೋನಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಈ ಪ್ರಮೇಯವು ತ್ರಿಭುಜದ ಕೋನಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ವಿವರಿಸುತ್ತದೆ ಮತ್ತು ರೇಖಾಗಣಿತದ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಲು ಸಹಾಯಕವಾಗಿದೆ.",
+    "definitions": [
+      {
+        "term": "ಬಾಹ್ಯ ಕೋನ (Exterior Angle)",
+        "definition": "ತ್ರಿಭುಜದ ಒಂದು ಬಾಹುವನ್ನು ವೃದ್ಧಿಸಿದಾಗ, ತ್ರಿಭುಜದ ಹೊರಭಾಗದಲ್ಲಿ ಉಂಟಾಗುವ ಕೋನವನ್ನು ಬಾಹ್ಯ ಕೋನ ಎನ್ನುತ್ತಾರೆ."
+      },
+      {
+        "term": "ಅಂತರಾಭಿಮುಖ ಕೋನಗಳು (Interior Opposite Angles)",
+        "definition": "ಬಾಹ್ಯ ಕೋನಕ್ಕೆ ಹೊಂದಿಕೊಂಡಿರದ ತ್ರಿಭುಜದ ಉಳಿದೆರಡು ಒಳಕೋನಗಳನ್ನು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳು ಎನ್ನುತ್ತಾರೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Exterior Angle Formula",
+        "latex": "\\angle_{ext} = \\angle_{int, opp1} + \\angle_{int, opp2}",
+        "condition": "For any triangle.",
+        "exception": "",
+        "derived_from": "Parallel lines properties and angle definitions.",
+        "used_in": "Finding unknown angles in triangles."
+      }
+    ],
+    "theorems": [
+      {
+        "theorem_name": "Exterior Angle Theorem",
+        "statement": "ಒಂದು ತ್ರಿಭುಜದ ಬಾಹ್ಯ ಕೋನದ ಅಳತೆಯು ಅದರ ಎರಡು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+        "proof_sketch": "ΔABC ಯಲ್ಲಿ, BC ಯನ್ನು D ವರೆಗೆ ವೃದ್ಧಿಸಿದಾಗ ಬಾಹ್ಯ ಕೋನ ∠ACD ಉಂಟಾಗುತ್ತದೆ. ಶೃಂಗ C ಯ ಮೂಲಕ BA ಗೆ ಸಮಾಂತರವಾಗಿ CE ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಆಗ, ∠ACE = ∠BAC (ಪರ್ಯಾಯ ಕೋನಗಳು) ಮತ್ತು ∠ECD = ∠ABC (ಅನುರೂಪ ಕೋನಗಳು). ಆದ್ದರಿಂದ, ∠ACD = ∠ACE + ∠ECD = ∠BAC + ∠ABC.",
+        "converse": "",
+        "special_cases": [
+          "ಬಾಹ್ಯ ಕೋನವು ಯಾವಾಗಲೂ ಅದರ ಪ್ರತಿಯೊಂದು ಅಂತರಾಭಿಮುಖ ಕೋನಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿರುತ್ತದೆ."
+        ],
+        "common_error": "ಬಾಹ್ಯ ಕೋನ ಮತ್ತು ಅದರ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಸರಳಯುಗ್ಮ ಕೋನವನ್ನು (linear pair) ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುವುದು."
+      }
+    ],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "id": "class7_math_ch6_exterior_angle_proof",
+        "render_target": "svg_template",
+        "exam_relevance": "2-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "geometric_figure",
+        "concept_latex": "\\angle ACD = \\angle A + \\angle B",
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [
+          "ΔABC is a triangle.",
+          "Side BC is extended to D.",
+          "∠ACD is the exterior angle.",
+          "∠A and ∠B are the interior opposite angles.",
+          "CE is drawn parallel to BA."
+        ],
+        "purpose": null,
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "class7_math_ch6_example_1",
+      "difficulty": "basic",
+      "problem": "ಒಂದು ತ್ರಿಭುಜದ ಅಂತರಾಭಿಮುಖ ಕೋನಗಳಲ್ಲಿ ಒಂದು 50° ಮತ್ತು ಅದಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಬಾಹ್ಯ ಕೋನವು 110° ಆಗಿದೆ. ಹಾಗಾದರೆ, ಮತ್ತೊಂದು ಅಂತರಾಭಿಮುಖ ಕೋನ 'x' ಅನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬಾಹ್ಯ ಕೋನ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸಿ.",
+          "justification": "ಬಾಹ್ಯ ಕೋನ = ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತ."
+        },
+        {
+          "step": 2,
+          "action": "ಸಮೀಕರಣವನ್ನು ಬರೆಯಿರಿ: 50° + x = 110°.",
+          "justification": "ದತ್ತ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಲಾಗಿದೆ."
+        },
+        {
+          "step": 3,
+          "action": "x ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿ: x = 110° - 50°.",
+          "justification": "x ನ ಮೌಲ್ಯವನ್ನು ಪ್ರತ್ಯೇಕಿಸುವುದು."
+        }
+      ],
+      "result": "x = 60°.",
+      "common_trap": "ಬಾಹ್ಯ ಕೋನಕ್ಕೆ ಹೊಂದಿಕೊಂಡಿರುವ ಒಳಕೋನವನ್ನು (adjacent interior angle) ಅಂತರಾಭಿಮುಖ ಕೋನವೆಂದು ತಪ್ಪಾಗಿ ಪರಿಗಣಿಸುವುದು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಒಂದು ಚಿತ್ರದಲ್ಲಿ ಬಾಹ್ಯ ಕೋನ ಮತ್ತು ಒಂದು ಅಂತರಾಭಿಮುಖ ಕೋನವನ್ನು ನೀಡಿ, ಇನ್ನೊಂದು ಅಂತರಾಭಿಮುಖ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೇಳಬಹುದು.",
+    "two_mark_note": "ಬಾಹ್ಯ ಕೋನ ಪ್ರಮೇಯವನ್ನು ನಿರೂಪಿಸಿ ಮತ್ತು ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ವಿವರಿಸಿ.",
+    "five_mark_note": "ಬಾಹ್ಯ ಕೋನ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಿ.",
+    "common_mistakes": [
+      "ಬಾಹ್ಯ ಕೋನ ಮತ್ತು ಅದರ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಸರಳಯುಗ್ಮ ಕೋನವನ್ನು (linear pair) ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

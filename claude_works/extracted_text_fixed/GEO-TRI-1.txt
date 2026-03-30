@@ -1,0 +1,738 @@
+# ಅಧ್ಯಾಯ - 6
+# ತ್ರಿಭುಜ ಮತ್ತು ಅದರ ಗುಣಗಳು
+
+## 6.1 ಪೀಠಿಕೆ
+ನಿಮಗೆ ತಿಳಿದಿರುವಂತೆ ಒಂದು ತ್ರಿಭುಜವು ಮೂರು ರೇಖಾಖಂಡಗಳಿಂದ ಆವೃತವಾಗಿರುವ ಸರಳ ಆಕೃತಿಯಾಗಿದೆ. ಅದು ಮೂರು ಶೃಂಗಗಳು, ಮೂರು ಬಾಹುಗಳು ಮತ್ತು ಮೂರು ಕೋನಗಳನ್ನು ಹೊಂದಿದೆ. ಚಿತ್ರ 6.1 ರಲ್ಲಿ ABC ಒಂದು ತ್ರಿಭುಜ. ಇದರ
+
+ಬಾಹುಗಳು : $\overline{AB}, \overline{BC}, \overline{CA}$
+ಕೋನಗಳು : $\angle BAC, \angle ABC, \angle BCA$
+ಶೃಂಗಗಳು : A, B, C ಆಗಿವೆ.
+
+--- FIGURE ---
+Description: A simple triangle is drawn.
+Labels: The vertices are labeled A, B, and C. The figure is labeled ಚಿತ್ರ 6.1. A QR code with the ID B5NH2S is also present.
+--- END FIGURE ---
+
+ಶೃಂಗ A ಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು BC. ಬಾಹು AB ಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಕೋನವನ್ನು ಹೆಸರಿಸುವಿರಾ?
+
+ತ್ರಿಭುಜಗಳನ್ನು (i) ಬಾಹುಗಳ (ii) ಕೋನಗಳ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಿಸುವುದು ಹೇಗೆ ಎಂಬುದು ನಿಮಗೆ ತಿಳಿದಿದೆ.
+(i) ಬಾಹುಗಳ ಆಧಾರದ ಮೇಲೆ: ಅಸಮ ಬಾಹು ತ್ರಿಭುಜ, ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಮತ್ತು ಸಮಬಾಹು ತ್ರಿಭುಜ.
+(ii) ಕೋನಗಳ ಆಧಾರದ ಮೇಲೆ: ಲಘುಕೋನ ತ್ರಿಭುಜ, ವಿಶಾಲ ಕೋನ ತ್ರಿಭುಜ ಮತ್ತು ಲಂಬಕೋನ ತ್ರಿಭುಜ.
+
+ಹಾಳೆ ಕತ್ತರಿಸಿ ಮೇಲಿನ ತ್ರಿಭುಜಗಳ ಮಾದರಿಯನ್ನು ಮಾಡಿ. ನೀವು ಮಾಡಿರುವ ಮಾದರಿಗಳನ್ನು ನಿಮ್ಮ ಸಹಪಾಠಿಗಳು ಮಾಡಿರುವ ಮಾದರಿಗಳೊಂದಿಗೆ ಹೋಲಿಸಿ ಚರ್ಚಿಸಿ.
+
+---
+### ಇವುಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ
+1. $\triangle ABC$ ಯ ಆರು ಅಂಶಗಳನ್ನು ಬರೆಯಿರಿ. (ಅಂದರೆ 3 ಬಾಹುಗಳು ಮತ್ತು 3 ಕೋನಗಳು)
+2. ಮುಂದಿನವುಗಳನ್ನು ಬರೆಯಿರಿ.
+   (i) $\triangle PQR$ ನಲ್ಲಿ ಶೃಂಗ Q ಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು.
+   (ii) $\triangle LMN$ ನಲ್ಲಿ ಬಾಹು LM ಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಶೃಂಗ.
+   (iii) $\triangle RST$ ಯಲ್ಲಿ ಬಾಹು RTಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಶೃಂಗ.
+3. ಚಿತ್ರ 6.2 ನ್ನು ಗಮನಿಸಿ. ಪ್ರತಿಯೊಂದು ತ್ರಿಭುಜವನ್ನು ಅವುಗಳ
+   (a) ಬಾಹುಗಳ
+   (b) ಕೋನಗಳ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಿಸಿ.
+
+--- FIGURE ---
+Description: Six different triangles are shown, labeled (i) to (vi).
+Labels:
+(i) Triangle ABC with sides AC = 5cm, BC = 8cm, AB = 8cm. It is an isosceles triangle with a right angle indicated.
+(ii) Triangle PQR with sides PQ = 10cm, QR = 8cm, PR = 6cm. It is a right-angled triangle.
+(iii) Triangle LMN with sides LM = 7cm, LN = 7cm. It is an isosceles triangle.
+(iv) Triangle RST with sides RS = 5.2cm, ST = 5.2cm, TR = 5.2cm. It is an equilateral triangle.
+(v) Triangle ABC with sides AB = 3cm, BC = 3cm, AC = 7cm.
+(vi) Triangle PQR with sides PQ = 6cm, QR = 6cm. It is a right-angled isosceles triangle.
+The entire set of figures is labeled ಚಿತ್ರ 6.2.
+--- END FIGURE ---
+
+ತ್ರಿಭುಜಗಳ ಬಗ್ಗೆ ಇನ್ನೂ ಹೆಚ್ಚಿನ ವಿಷಯವನ್ನು ತಿಳಿಯಲು ನಾವು ಪ್ರಯತ್ನಿಸೋಣ.
+
+## 6.2 ಒಂದು ತ್ರಿಭುಜದ ಮಧ್ಯರೇಖೆಗಳು
+ಹಾಳೆ ಮಡಚುವ ವಿಧಾನದಿಂದ ಒಂದು ದತ್ತ ರೇಖಾಖಂಡದ ಲಂಬಾರ್ಧಕವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಹೇಗೆ ಎಂಬುದು ನಿಮಗೆ ತಿಳಿದಿದೆ. ಒಂದು ಹಾಳೆಯಿಂದ ತ್ರಿಭುಜ ABC ಯನ್ನು ಕತ್ತರಿಸಿ (ಚಿತ್ರ 6.3). ಅದರ ಯಾವುದಾದರೂ ಒಂದು ಬಾಹು BC ಯನ್ನು ಪರಿಗಣಿಸಿ, ಹಾಳೆ ಮಡಚುವ ವಿಧಾನದಿಂದ ಬಾಹು BC ಯ ಲಂಬಾರ್ಧಕವನ್ನು ಗೊತ್ತು ಮಾಡಿ. ಮಡಿಕೆಯು BC ಯನ್ನು Dಯಲ್ಲಿ ಸಂಧಿಸುತ್ತದೆ. ಇದು BCಯ ಮಧ್ಯಬಿಂದುವಾಗಿರುತ್ತದೆ. ADಯನ್ನು ಸೇರಿಸಿ.
+
+--- FIGURE ---
+Description: Two diagrams showing how to find a median of a triangle. The first diagram shows a triangle ABC with a dashed vertical line passing through a point D on BC, indicating a fold. The second diagram shows the same triangle with the line segment AD drawn, where D is the midpoint of BC.
+Labels: Vertices A, B, C. Midpoint D. The figure is labeled ಚಿತ್ರ 6.3.
+--- END FIGURE ---
+
+BC ಯ ಮಧ್ಯಬಿಂದು D ಮತ್ತು ಅದರ ಅಭಿಮುಖ ಶೃಂಗ A ಯನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡ AD ಯನ್ನು ತ್ರಿಭುಜದ ಮಧ್ಯರೇಖೆ ಎಂದು ಕರೆಯುತ್ತೇವೆ.
+
+ತ್ರಿಭುಜದ ಬಾಹುಗಳಾದ AB ಮತ್ತು CA ಗಳನ್ನು ಪರಿಗಣಿಸಿ ಇನ್ನೂ ಎರಡು ಮಧ್ಯರೇಖೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+
+--- DEFINITION ---
+Term: ಮಧ್ಯರೇಖೆ (Median)
+Definition: ಒಂದು ಮಧ್ಯರೇಖೆಯು ತ್ರಿಭುಜದ ಒಂದು ಶೃಂಗ ಮತ್ತು ಅದರ ಅಭಿಮುಖ ಬಾಹುವಿನ ಮಧ್ಯಬಿಂದುವನ್ನು ಸೇರಿಸುತ್ತದೆ.
+--- END DEFINITION ---
+
+--- NOTE ---
+**ಆಲೋಚಿಸಿ. ಚರ್ಚಿಸಿ ಮತ್ತು ಬರೆಯಿರಿ.**
+1. ಒಂದು ತ್ರಿಭುಜವು ಎಷ್ಟು ಮಧ್ಯರೇಖೆಗಳನ್ನು ಹೊಂದಿರಬಹುದು?
+2. ಒಂದು ಮಧ್ಯರೇಖೆಯು ಪೂರ್ಣವಾಗಿ ತ್ರಿಭುಜದ ಒಳ ಭಾಗದಲ್ಲಿಯೇ ಇರುತ್ತದೆಯೇ? (ಇದು ನಿಜವಲ್ಲ ಎಂದು ನೀವು ಆಲೋಚಿಸಿದಲ್ಲಿ, ಈ ಪ್ರಕರಣವನ್ನು ತೋರಿಸಲು ಒಂದು ಚಿತ್ರ ಬರೆಯಿರಿ)
+--- END NOTE ---
+
+## 6.3. ಒಂದು ತ್ರಿಭುಜದ ಎತ್ತರಗಳು
+ABC ತ್ರಿಭುಜಾಕಾರದ ಆಕೃತಿಯನ್ನು ಕಾರ್ಡ್‌ಬೋರ್ಡ್ ಬಳಸಿ ಮಾಡಿ, ಅದನ್ನು ನೇರವಾಗಿ ಮೇಜಿನ ಮೇಲೆ ಇಡಿ. ತ್ರಿಭುಜದ ಎತ್ತರ ಎಷ್ಟಾಗಿರುತ್ತದೆ?
+
+A ಶೃಂಗದಿಂದ ಪಾದ BC (ಚಿತ್ರ. 6.4 ರಲ್ಲಿ) ವರೆಗೆ ಇರುವ ದೂರವು ಎತ್ತರವಾಗಿರುತ್ತದೆ.
+
+--- FIGURE ---
+Description: A 3D representation of a cardboard triangle standing vertically on a table. A dashed line shows the height from the top vertex to the base on the table.
+Labels: Vertices A, B, C. The figure is labeled ಚಿತ್ರ 6.4.
+--- END FIGURE ---
+
+A ಯಿಂದ ಪಾದ BC ವರೆಗೆ, ಅನೇಕ ರೇಖಾಖಂಡಗಳನ್ನು ಎಳೆಯಬಹುದೆಂದು ನೀವು ಆಲೋಚಿಸಬಹುದು. (ಚಿತ್ರ 6.5 ನ್ನು ಗಮನಿಸಿ) ಅವುಗಳಲ್ಲಿ ಯಾವುದು ಎತ್ತರವನ್ನು ಸೂಚಿಸುತ್ತದೆ ?
+
+A ಯಿಂದ ಪ್ರಾರಂಭವಾಗಿ ನೇರವಾಗಿ BC ಗೆ ಎಳೆದ ಮತ್ತು BCಗೆ ಲಂಬವಾಗಿರುವ ರೇಖಾಖಂಡ ಎತ್ತರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. AL ರೇಖಾಖಂಡ ತ್ರಿಭುಜದ ಎತ್ತರವಾಗಿರುತ್ತದೆ.
+
+--- FIGURE ---
+Description: A triangle ABC with multiple line segments drawn from vertex A to the base BC. One of these lines, AL, is shown as perpendicular to BC.
+Labels: Vertices A, B, C. Point L on BC. A right angle symbol is at L. The figure is labeled ಚಿತ್ರ 6.5.
+--- END FIGURE ---
+
+ಎತ್ತರದ ಒಂದು ಅಂತ್ಯ ಬಿಂದು ತ್ರಿಭುಜದ ಶೃಂಗದ ಮೇಲಿರುತ್ತದೆ ಮತ್ತೊಂದು ಅದರ ಅಭಿಮುಖ ಬಾಹುವನ್ನೊಳಗೊಂಡ ರೇಖೆಯ ಮೇಲಿರುತ್ತದೆ. ಪ್ರತಿಯೊಂದು ಶೃಂಗದ ಮೂಲಕ ಒಂದು ಎತ್ತರವನ್ನು ಎಳೆಯಬಹುದು.
+
+--- NOTE ---
+**ಯೋಚಿಸಿ, ಚರ್ಚಿಸಿ ಮತ್ತು ಬರೆಯಿರಿ.**
+1. ಒಂದು ತ್ರಿಭುಜವು ಎಷ್ಟು ಎತ್ತರಗಳನ್ನು ಹೊಂದಿರಬಹುದು?
+2. ಮುಂದೆ ನೀಡಿರುವ ತ್ರಿಭುಜಗಳಿಗೆ (ಚಿತ್ರ 6.6) A ಯಿಂದ BC ಗೆ ಎತ್ತರ ಎಳೆಯಿರಿ. (ಕರಡು ರೇಖಾ ಚಿತ್ರ ರಚಿಸಿ)
+
+--- FIGURE ---
+Description: Three types of triangles are shown.
+Labels:
+1.  An acute-angled triangle ABC, labeled ಲಘುಕೋನ ತ್ರಿಭುಜ.
+2.  A right-angled triangle ABC, with the right angle at B, labeled ಲಂಬಕೋನ ತ್ರಿಭುಜ.
+3.  An obtuse-angled triangle ABC, with the obtuse angle at B, labeled ವಿಶಾಲಕೋನ ತ್ರಿಭುಜ.
+The figure is labeled ಚಿತ್ರ 6.6.
+--- END FIGURE ---
+
+3. ತ್ರಿಭುಜದ ಎತ್ತರವು ಯಾವಾಗಲೂ ತ್ರಿಭುಜದ ಒಳಭಾಗದಲ್ಲಿಯೇ ಇರುತ್ತದೆಯೇ? ಇದು ನಿಜವಾಗಿರಲೇಬೇಕೆಂದಿಲ್ಲ ಎಂದು ನೀವು ಆಲೋಚಿಸಿದಲ್ಲಿ, ಅಂತಹ ಪ್ರಕರಣವನ್ನು ತೋರಿಸಲು ಒಂದು ಕರಡು ರೇಖಾಚಿತ್ರ ಬರೆಯಿರಿ.
+4. ತ್ರಿಭುಜದ ಎರಡು ಎತ್ತರಗಳು ಅದೇ ತ್ರಿಭುಜಕ್ಕೆ ಬಾಹುಗಳಾಗಿರುವ ಒಂದು ತ್ರಿಭುಜವನ್ನು ನೀವು ಆಲೋಚಿಸುವಿರಾ?
+5. ಒಂದು ತ್ರಿಭುಜಕ್ಕೆ ಎತ್ತರ ಮತ್ತು ಮಧ್ಯರೇಖೆ ಒಂದೇ ಆಗಿರಬಹುದೇ?
+(ಸುಳುಹು: ಪ್ರಶ್ನೆ ಸಂಖ್ಯೆ 4 ಮತ್ತು 5 ರ ಪ್ರತಿ ವಿಧದ ತ್ರಿಭುಜಕ್ಕೂ ಎತ್ತರಗಳನ್ನು ಎಳೆದು ಪರೀಕ್ಷಿಸಿ)
+--- END NOTE ---
+
+--- NOTE ---
+**ಇದನ್ನು ಮಾಡಿ**
+(i) ಸಮಬಾಹು ತ್ರಿಭುಜ
+(ii) ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಮತ್ತು
+(iii) ಅಸಮಬಾಹು ತ್ರಿಭುಜಗಳ ಕೆಲವು ಮಾದರಿಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.
+ಅವುಗಳ ಎತ್ತರಗಳನ್ನು ಮತ್ತು ಮಧ್ಯರೇಖೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಅವುಗಳ ಬಗ್ಗೆ ಏನಾದರೂ ವಿಶೇಷತೆಯನ್ನು ನೀವು ಗಮನಿಸುವಿರಾ? ನಿಮ್ಮ ಸಹಪಾಠಿಗಳೊಂದಿಗೆ ಇದನ್ನು ಚರ್ಚಿಸಿ.
+--- END NOTE ---
+
+### ಅಭ್ಯಾಸ 6.1
+1. $\triangle PQR$ ನಲ್ಲಿ, QR ನ ಮಧ್ಯಬಿಂದು D ಆಗಿದೆ ಆಗ
+PM ______ ಮತ್ತು
+PD ______ ಆಗಿದೆ.
+QM = MR ಆಗುತ್ತದೆಯೇ ?
+
+--- FIGURE ---
+Description: A triangle PQR with a point D on QR. PM is an altitude from P to QR.
+Labels: Vertices P, Q, R. Point M on QR such that PM is perpendicular to QR. Point D is on QR.
+--- END FIGURE ---
+
+2. ಮುಂದಿನವುಗಳಿಗೆ ಕರಡು ರೇಖಾಚಿತ್ರ ರಚಿಸಿ:
+(a) $\triangle ABC$ ಯಲ್ಲಿ BE ಮಧ್ಯರೇಖೆ.
+(b) $\triangle PQR$ ನಲ್ಲಿ PQ ಮತ್ತು PR ತ್ರಿಭುಜದ ಎತ್ತರಗಳು.
+(c) $\triangle XYZ$ ನಲ್ಲಿ, YL ತ್ರಿಭುಜದ ಹೊರಗೆ (ಎಳೆದ) ಎತ್ತರವಾಗಿದೆ.
+3. ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದಲ್ಲಿ ಮಧ್ಯರೇಖೆ ಮತ್ತು ಎತ್ತರವು ಒಂದೇ ಆಗಿರಬಹುದೇ? ಚಿತ್ರದ ಮೂಲಕ ಪರಿಶೀಲಿಸಿ.
+
+## 6.4. ಒಂದು ತ್ರಿಭುಜದ ಬಾಹ್ಯ ಕೋನ ಮತ್ತು ಅದರ ಗುಣ
+
+--- NOTE ---
+**ಇದನ್ನು ಮಾಡಿ**
+1. ಚಿತ್ರ 6.7 ರಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ABC ತ್ರಿಭುಜ ರಚಿಸಿ. ಅದರ ಒಂದು ಬಾಹು BC ಯನ್ನು ವೃದ್ಧಿಸಿ. C ಬಿಂದುವಿನಲ್ಲಿ ಉಂಟಾಗಿರುವ ಕೋನ ACD ಯನ್ನು ಗಮನಿಸಿ. ಈ ಕೋನವು $\triangle ABC$ ಯ ಹೊರಭಾಗದಲ್ಲಿದೆ. ಇದನ್ನು $\triangle ABC$ಯ ಶೃಂಗ C ಯಲ್ಲಿ ಉಂಟಾದ ಬಾಹ್ಯಕೋನ ಎನ್ನುತ್ತೇವೆ.
+
+--- FIGURE ---
+Description: A triangle ABC where the side BC is extended to a point D. The exterior angle ACD is indicated.
+Labels: Vertices A, B, C. Point D on the extension of BC. The figure is labeled ಚಿತ್ರ 6.7.
+--- END FIGURE ---
+
+ಸ್ಪಷ್ಟವಾಗಿ $\angle ACD$ ಗೆ $\angle BCA$ ಪಾರ್ಶ್ವಕೋನವಾಗಿದೆ. ಉಳಿದ ಎರಡು ಕೋನಗಳಾದ $\angle A$ ಮತ್ತು $\angle B$ ಗಳನ್ನು ತ್ರಿಭುಜದ ಅಂತರಾಭಿಮುಖ ಕೋನಗಳು ಅಥವಾ $\angle ACD$ ಯ ದೂರದ ಎರಡು ಅಂತರ್‌ಕೋನಗಳು ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈಗ $\angle A$ ಮತ್ತು $\angle B$ ಯನ್ನು ಕತ್ತರಿಸಿ (ಅಥವಾ ಟ್ರೇಸ್ ಪ್ರತಿಗಳನ್ನು ಮಾಡಿ) ಚಿತ್ರ 6.8 ರಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಒಂದರ ಪಕ್ಕದಲ್ಲಿ ಒಂದನ್ನು ಜೋಡಿಸಿ.
+ಈ ಎರಡು ಭಾಗಗಳು $\angle ACD$ ಯನ್ನು ಪೂರ್ಣವಾಗಿ ಆವರಿಸುತ್ತದೆಯೇ?
+$m \angle ACD = m\angle A + m \angle B$ ಎಂದು ನಾವು ಹೇಳಬಹುದೇ?
+
+2. ಮೇಲೆ ಮಾಡಿದ ರೀತಿಯಲ್ಲಿಯೇ, ಬಾಹ್ಯಕೋನ ACD ಉಂಟಾಗುವಂತೆ ತ್ರಿಭುಜ ABC ರಚಿಸಿ. ಕೋನಮಾಪಕ ಬಳಸಿ $\angle ACD$, $\angle A$ ಮತ್ತು $\angle B$ ಅಳೆಯಿರಿ.
+$\angle A + \angle B$ ಯ ಮೊತ್ತ ಕಂಡುಹಿಡಿದು $\angle ACD$ ಅಳತೆಯೊಂದಿಗೆ ಹೋಲಿಸಿ. $\angle ACD$ ಅಳತೆಯು $\angle A + \angle B$ ಅಳತೆಗೆ ಸಮವಾಗಿರುವುದನ್ನು ನೀವು ಗಮನಿಸುವಿರಾ? (ಅಥವಾ ಅಳತೆ ಮಾಡುವುದರಲ್ಲಿ ದೋಷವಿದ್ದರೆ, ಅಳತೆಗೆ ಸಮೀಪವಾಗಿರುತ್ತದೆ)
+
+--- FIGURE ---
+Description: An illustration showing that the sum of the two interior opposite angles equals the exterior angle. Angles A and B from a triangle are shown placed together to perfectly fit into the exterior angle at C.
+Labels: Vertices A, B, C. Point D on the extension of BC. The figure is labeled ಚಿತ್ರ 6.8.
+--- END FIGURE ---
+
+ಇನ್ನೂ ಹೆಚ್ಚು ತ್ರಿಭುಜಗಳನ್ನು ಬಾಹ್ಯಕೋನಗಳಿರುವಂತೆ ರಚಿಸಿ ಮೇಲೆ ತಿಳಿಸಿದ ಎರಡೂ ಚಟುವಟಿಕೆಗಳನ್ನು, ನೀವು ಪುನರಾವರ್ತಿಸಬಹುದು. ಪ್ರತೀ ಬಾರಿಯೂ ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನವು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುವುದನ್ನು ನೀವು ಗಮನಿಸುವಿರಿ.
+ಹಂತ ಹಂತವಾಗಿ ತಾರ್ಕಿಕವಾಗಿ ಚರ್ಚಿಸುವುದರ ಮೂಲಕ ಈ ಹೇಳಿಕೆಯನ್ನು ದೃಢೀಕರಿಸಬಹುದು.
+
+--- THEOREM ---
+Name: ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನದ ಗುಣ (Exterior Angle Property of a Triangle)
+Statement: ತ್ರಿಭುಜದ ಒಂದು ಬಾಹ್ಯಕೋನವು ಅದರ ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ.
+Proof:
+ದತ್ತ : $\triangle ABC$ ಪರಿಗಣಿಸಿ. $\angle ACD$ ಬಾಹ್ಯಕೋನ.
+ಸಾಧನೀಯ : $m \angle ACD = m \angle A + m \angle B$.
+C ಮೂಲಕ BA ಗೆ ಸಮಾಂತರವಾಗಿರುವಂತೆ CE ಎಳೆಯಿರಿ.
+
+--- FIGURE ---
+Description: A triangle ABC with side BC extended to D. A line CE is drawn parallel to BA. Angles are labeled 1, 2, x, and y.
+Labels: Vertices A, B, C, D, E. Angles are labeled $\angle 1$ (same as $\angle A$), $\angle 2$ (same as $\angle B$), $\angle x$ (part of exterior angle, alternate to $\angle A$), $\angle y$ (part of exterior angle, corresponding to $\angle B$). The figure is labeled ಚಿತ್ರ 6.9.
+--- END FIGURE ---
+
+**ಸಮರ್ಥನೆ**
+| ಹಂತ | ಕಾರಣಗಳು |
+|---|---|
+| (a) $\angle 1 = \angle x$ | $BA \parallel CE$ ಮತ್ತು AC ಛೇದಕ. ಆದುದರಿಂದ, ಪರ್ಯಾಯ ಕೋನಗಳು ಸಮ. |
+| (b) $\angle 2 = \angle y$ | $BA \parallel CE$ ಮತ್ತು BD ಛೇದಕ. ಆದುದರಿಂದ, ಅನುರೂಪ ಕೋನಗಳು ಸಮ. |
+| (c) $\angle 1 + \angle 2 = \angle x + \angle y$ | |
+| (d) $\angle x + \angle y = m \angle ACD$ | ಚಿತ್ರ 6.9 ರಿಂದ |
+ಆದುದರಿಂದ $\angle 1 + \angle 2 = \angle ACD$
+--- END THEOREM ---
+
+ಬಾಹ್ಯಕೋನ ಮತ್ತು ಅದರ ಎರಡು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನದ ಗುಣ ಎನ್ನುತ್ತೇವೆ.
+
+--- NOTE ---
+**ಆಲೋಚಿಸಿ, ಚರ್ಚಿಸಿ ಮತ್ತು ಬರೆಯಿರಿ.**
+1. ಒಂದು ತ್ರಿಭುಜಕ್ಕೆ ಬಾಹ್ಯಕೋನಗಳು ಅನೇಕ ವಿಧಗಳಲ್ಲಿ ಉಂಟಾಗಬಹುದು. ಅವುಗಳಲ್ಲಿ ಮೂರನ್ನೂ ಮುಂದೆ ತೋರಿಸಿದೆ (ಚಿತ್ರ 6.10).
+
+--- FIGURE ---
+Description: Three triangles are shown, each with one exterior angle highlighted at a different vertex.
+Labels: The figure is labeled ಚಿತ್ರ 6.10.
+--- END FIGURE ---
+
+ಬಾಹ್ಯಕೋನಗಳನ್ನು ಪಡೆಯಲು ಇನ್ನೂ ಮೂರು ವಿಧಗಳಿವೆ. ಅವುಗಳ ಕರಡು ರೇಖಾಕೃತಿಗಳನ್ನು ರಚಿಸಲು ಪ್ರಯತ್ನಿಸಿ.
+2. ಒಂದು ತ್ರಿಭುಜದ ಪ್ರತಿ ಶೃಂಗದಲ್ಲಿ ಉಂಟಾದ ಬಾಹ್ಯ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆಯೇ?
+3. ಒಂದು ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನ ಮತ್ತು ಅದರ ಪಾರ್ಶ್ವ ಅಂತರ್ ಕೋನದ ಮೊತ್ತದ ಬಗ್ಗೆ ನೀವೇನು ಹೇಳುವಿರಿ?
+--- END NOTE ---
+
+--- EXAMPLE START ---
+Source: Class 7, Example 1
+**ಉದಾಹರಣೆ 1.** ಚಿತ್ರ 6.11 ರಲ್ಲಿ ಕೋನ $x$ ಕಂಡುಹಿಡಿಯಿರಿ.
+**ಪರಿಹಾರ:** ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತ = ಬಾಹ್ಯಕೋನ.
+$$50^\circ + x = 110^\circ$$
+$$x = 60^\circ$$
+
+--- FIGURE ---
+Description: A triangle with an exterior angle shown.
+Labels: The interior angles are $50^\circ$ and $x$. The exterior angle opposite to these is $110^\circ$. The figure is labeled ಚಿತ್ರ 6.11.
+--- END FIGURE ---
+--- EXAMPLE END ---
+
+--- NOTE ---
+**ಆಲೋಚಿಸಿ. ಚರ್ಚಿಸಿ ಮತ್ತು ಬರೆಯಿರಿ**
+1. ಒಂದು ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನವು
+   (i) ಲಂಬಕೋನವಾದಾಗ
+   (ii) ವಿಶಾಲಕೋನವಾದಾಗ
+   (iii) ಲಘುಕೋನವಾದಾಗ ಅದರ ಪ್ರತಿ ಅಂತರಾಭಿಮುಖ ಕೋನದ ಬಗ್ಗೆ ನೀವೇನು ಹೇಳುವಿರಿ?
+2. ಒಂದು ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನವು ಸರಳಕೋನವಾಗಲು ಸಾಧ್ಯವೇ?
+--- END NOTE ---
+
+--- NOTE ---
+**ಇವುಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ**
+1. ಒಂದು ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನದ ಅಳತೆ 70° ಮತ್ತು ಅದರ ಒಂದು ಅಂತರಾಭಿಮುಖ ಕೋನದ ಅಳತೆ 25° ಆಗಿದೆ. ಇನ್ನೊಂದು ಅಂತರಾಭಿಮುಖ ಕೋನದ ಅಳತೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+2. ಒಂದು ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಎರಡು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ಅಳತೆ 60° ಮತ್ತು 80° ಆಗಿದೆ. ಬಾಹ್ಯಕೋನದ ಅಳತೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+3. ನೀಡಿರುವ ಚಿತ್ರದಲ್ಲಿ ಏನಾದರೂ ತಪ್ಪಿದೆಯೇ? (ಚಿತ್ರ 6.12) ನಿಮ್ಮ ಅಭಿಪ್ರಾಯ ತಿಳಿಸಿ.
+
+--- FIGURE ---
+Description: A triangle is shown with an exterior angle.
+Labels: The two interior opposite angles are both labeled $50^\circ$. The exterior angle is also labeled $50^\circ$. The figure is labeled (ಚಿತ್ರ 6.12).
+--- END FIGURE ---
+--- END NOTE ---
+
+### ಅಭ್ಯಾಸ 6.2
+1. ಮುಂದೆ ನೀಡಿರುವ ಚಿತ್ರಗಳಲ್ಲಿ ಗೊತ್ತಿಲ್ಲದ ಬಾಹ್ಯಕೋನ x ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+
+--- FIGURE ---
+Description: Three triangles, each with an unknown exterior angle 'x'.
+Labels:
+(i) Interior opposite angles are 50° and 70°.
+(ii) Interior opposite angles are 65° and 45°.
+(iii) Interior opposite angles are 30° and 40°.
+--- END FIGURE ---
+
+--- FIGURE ---
+Description: Three more triangles, each with an unknown exterior angle 'x'.
+Labels:
+(iv) Interior opposite angles are 60° and 60°.
+(v) Interior opposite angles are 50° and 50°.
+(vi) Interior opposite angles are 30° and 60°.
+--- END FIGURE ---
+
+2. ಮುಂದೆ ನೀಡಿರುವ ಚಿತ್ರಗಳಲ್ಲಿ ಗೊತ್ತಿಲ್ಲದ ಅಂತರ್ ಕೋನ x ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+
+--- FIGURE ---
+Description: Six triangles, each with an unknown interior angle 'x'.
+Labels:
+(i) One interior angle is 50°, the opposite exterior angle is 115°.
+(ii) One interior angle is 70°, the opposite exterior angle is 100°.
+(iii) One interior angle is x, the opposite exterior angle is 125°. A right angle is indicated for the adjacent interior angle.
+(iv) One interior angle is 60°, the opposite exterior angle is 120°.
+(v) One interior angle is 30°, the opposite exterior angle is 80°.
+(vi) One interior angle is x, the opposite exterior angle is 75°.
+--- END FIGURE ---
+
+## 6.5 ತ್ರಿಭುಜದ ಒಳಕೋನಗಳ ಮೊತ್ತದ ಗುಣ
+ತ್ರಿಭುಜದ ಮೂರು ಕೋನಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಒಂದು ಗಮನಾರ್ಹ ಗುಣವಿದೆ. ಮುಂದಿನ ನಾಲ್ಕು ಚಟುವಟಿಕೆಗಳಿಂದ ಇದನ್ನು ನೀವು ಗಮನಿಸುವಿರಿ.
+1. ಒಂದು ತ್ರಿಭುಜವನ್ನು ರಚಿಸಿ. ಮೂರೂ ಕೋನಗಳನ್ನು ಕತ್ತರಿಸಿ. ಚಿತ್ರ 6.13 (i), (ii) ರಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಮರುಜೋಡಿಸಿ. ಈಗ ಮೂರೂ ಕೋನಗಳು ಒಂದು ಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಈ ಕೋನವು 180° ಅಳತೆಯುಳ್ಳ ಸರಳಕೋನವಾಗುತ್ತದೆ.
+
+--- FIGURE ---
+Description: Two diagrams illustrating the angle sum property. The first, (i), shows a triangle with its three angles labeled 1, 2, and 3. The second, (ii), shows the three angles cut out and placed adjacent to each other along a straight line, forming a straight angle.
+Labels: Angles 1, 2, 3. The figure is labeled ಚಿತ್ರ 6.13.
+--- END FIGURE ---
+
+ಹೀಗಾಗಿ, ಒಂದು ತ್ರಿಭುಜದ ಮೂರು ಒಳಕೋನಗಳ ಅಳತೆಯ ಮೊತ್ತ 180°.
+
+2. ಬೇರೆ ವಿಧಾನದಲ್ಲಿಯೂ ಇದೇ ಅಂಶವನ್ನು ನೀವು ಗಮನಿಸಬಹುದು.
+$\triangle ABC$ ಯ ಮೂರು ಪ್ರತಿಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. (ಚಿತ್ರ 6.14)
+
+--- FIGURE ---
+Description: Three identical triangles are shown.
+Labels: Each triangle has angles labeled 1, 2, 3 at vertices A, B, C respectively. The figure is labeled (ಚಿತ್ರ 6.14).
+--- END FIGURE ---
+
+ಚಿತ್ರ 6.15 ರಲ್ಲಿರುವಂತೆ ಜೋಡಿಸಿ.
+$\angle 1 + \angle 2 + \angle 3$ ರ ಬಗ್ಗೆ ನೀವೇನು ಗಮನಿಸುವಿರಿ ?
+(ಬಾಹ್ಯಕೋನದ ಗುಣವನ್ನೂ ಸಹ ನೀವು ಗಮನಿಸುವಿರಾ ?)
+
+--- FIGURE ---
+Description: The three identical triangles from the previous figure are arranged such that their vertices meet at a point on a straight line. Angles 1, 2, and 3 form a straight angle.
+Labels: Angles 1, 2, 3. The figure is labeled ಚಿತ್ರ 6.15.
+--- END FIGURE ---
+
+3. ಒಂದು ಹಾಳೆಯಲ್ಲಿ $\triangle ABC$ ಕತ್ತರಿಸಿ. (ಚಿತ್ರ 6.16)
+A ಮೂಲಕ AM ಎತ್ತರವಾಗುವಂತೆ $\triangle ABC$ ಯನ್ನು ಮಡಚಿ.
+ಈಗ A, B ಮತ್ತು C ಶೃಂಗಗಳು M ನಲ್ಲಿ ಸಂಧಿಸುವಂತೆ ಮೂರೂ ಮೂಲೆಗಳನ್ನು ಮಡಚಿ.
+
+--- FIGURE ---
+Description: A sequence of paper folding. A triangle ABC is shown. An altitude AM is folded. Then, the three vertices A, B, and C are folded to meet at point M on the base. The three angles are shown to form a straight angle at M.
+Labels: Vertices A, B, C. Point M on BC. The figure is labeled ಚಿತ್ರ 6.16.
+--- END FIGURE ---
+
+ಮೂರು ಕೋನಗಳು ಸೇರಿ ಸರಳಕೋನ ಉಂಟುಮಾಡುತ್ತಿರುವುದನ್ನು ನೀವು ಗಮನಿಸುವಿರಿ. ಇದು ಒಂದು ತ್ರಿಭುಜದ ಮೂರು ಒಳಕೋನಗಳ ಮೊತ್ತ 180° ಎಂದು ಮತ್ತೊಮ್ಮೆ ತೋರಿಸುತ್ತದೆ.
+
+4. ನಿಮ್ಮ ನೋಟ್ ಪುಸ್ತಕದಲ್ಲಿ $\triangle ABC$, $\triangle PQR$ ಮತ್ತು $\triangle XYZ$ ಮೂರು ತ್ರಿಭುಜಗಳನ್ನು ರಚಿಸಿ. ಕೋನಮಾಪಕ ಬಳಸಿ ಆ ತ್ರಿಭುಜಗಳಲ್ಲಿನ ಕೋನಗಳನ್ನು ಅಳತೆ ಮಾಡಿ, ಅಳತೆಗಳನ್ನು ಕೋಷ್ಟಕದಲ್ಲಿ ತುಂಬಿ.
+
+| ತ್ರಿಭುಜ | ಕೋನಗಳ ಅಳತೆ | ಮೂರು ಕೋನಗಳ ಮೊತ್ತ |
+| :--- | :--- | :--- |
+| $\triangle ABC$ | $m \angle A = $ $m \angle B = $ $m \angle C = $ | $m\angle A + m\angle B + m\angle C =$ |
+| $\triangle PQR$ | $m \angle P = $ $m \angle Q = $ $m \angle R = $ | $m\angle P + m\angle Q+ m\angle R=$ |
+| $\triangle XYZ$ | $m \angle X = $ $m \angle Y = $ $m \angle Z = $ | $m\angle X + m\angle Y+ m\angle Z =$ |
+
+ಅಳತೆಯಲ್ಲಿನ ಕೆಲವು ದೋಷಗಳನ್ನು ಪರಿಗಣಿಸಿದರೆ ಕೋಷ್ಟಕದ ಕೊನೆಯ ಕಂಬಸಾಲಿನಲ್ಲಿ ಮೂರು ಕೋನಗಳ ಮೊತ್ತ ಯಾವಾಗಲೂ 180° ಆಗಿರುತ್ತದೆ (ಅಥವಾ 180° ಗೆ ಸಮೀಪವಾಗಿರುತ್ತದೆ).
+ಪರಿಪೂರ್ಣ ನಿಖರತೆಯಿಂದ ಹೇಳಲು ಸಾಧ್ಯವಾದಾಗ, ಅದೂ ಸಹ ತ್ರಿಭುಜದ ಮೂರು ಕೋನಗಳ ಮೊತ್ತ 180° ಎಂದು ತೋರಿಸುತ್ತದೆ.
+ನಿಮ್ಮ ಪ್ರತಿಪಾದನೆಯನ್ನು ತಾರ್ಕಿಕ ಚರ್ಚೆಯ ಮೂಲಕ ಸಮರ್ಥಿಸಲು ನೀವು ಈಗ ತಯಾರಾಗಿರುವಿರಿ.
+
+--- THEOREM ---
+Name: ತ್ರಿಭುಜದ ಕೋನಗಳ ಮೊತ್ತದ ಗುಣ (Angle Sum Property of a Triangle)
+Statement: ಒಂದು ತ್ರಿಭುಜದ ಮೂರು ಒಳಕೋನಗಳ ಮೊತ್ತ 180°.
+Proof:
+ಇದನ್ನು ಸಮರ್ಥಿಸಲು ತ್ರಿಭುಜದ ಬಾಹ್ಯ ಕೋನದ ಗುಣವನ್ನು ಬಳಸೋಣ.
+ದತ್ತ : $\triangle ABC$ಯ ಕೋನಗಳು $\angle 1, \angle 2, \angle 3$ ಆಗಿವೆ (ಚಿತ್ರ 6.17).
+BC ಯನ್ನು D ವರೆಗೆ ವೃದ್ಧಿಸಿದಾಗ ಬಾಹ್ಯಕೋನ $\angle 4$ ಉಂಟಾಗಿದೆ.
+ಸಮರ್ಥನೆ: $\angle 1 + \angle 2 = \angle 4$ (ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನ ಗುಣದಿಂದ)
+$\angle 1 + \angle 2 + \angle 3 = \angle 4 + \angle 3$ ( ಎರಡೂ ಕಡೆ $\angle 3$ ಕೂಡಿದಾಗ )
+ಆದರೆ $\angle 4$ ಮತ್ತು $\angle 3$ ಸರಳಯುಗ್ಮಗಳು. ಆದುದರಿಂದ ಇವುಗಳ ಮೊತ್ತ 180°.
+ಆದುದರಿಂದ $\angle 1 + \angle 2 + \angle 3 = 180^\circ$
+
+--- FIGURE ---
+Description: A triangle ABC with side BC extended to D. The interior angles are labeled 1, 2, 3 and the exterior angle is labeled 4.
+Labels: Vertices A, B, C, D. Angles 1, 2, 3, 4. The figure is labeled ಚಿತ್ರ 6.17.
+--- END FIGURE ---
+--- END THEOREM ---
+
+ಹಲವಾರು ವಿಧಗಳಲ್ಲಿ ಈ ಗುಣವನ್ನು ಹೇಗೆ ಬಳಸಬಹುದು ಎಂದು ನಾವು ನೋಡೋಣ.
+
+--- EXAMPLE START ---
+Source: Class 7, Example 2
+**ಉದಾಹರಣೆ 2.** ನೀಡಿರುವ ಚಿತ್ರದಲ್ಲಿ (ಚಿತ್ರ 6.18) $m\angle P$ ಕಂಡು ಹಿಡಿಯಿರಿ.
+**ಪರಿಹಾರ:**
+ತ್ರಿಭುಜದ ಕೋನಗಳ ಮೊತ್ತದ ಗುಣದಿಂದ
+$m\angle P + 47^\circ + 52^\circ = 180^\circ$
+ಆದುದರಿಂದ
+$m\angle P = 180^\circ - 47^\circ - 52^\circ$
+$= 180^\circ - 99^\circ$
+$= 81^\circ$
+
+--- FIGURE ---
+Description: A triangle PQR.
+Labels: Vertex P, Vertex Q with angle $47^\circ$, Vertex R with angle $52^\circ$. The figure is labeled ಚಿತ್ರ 6.18.
+--- END FIGURE ---
+--- EXAMPLE END ---
+
+### ಅಭ್ಯಾಸ 6.3
+1. ಮುಂದಿನ ಚಿತ್ರಗಳಲ್ಲಿ x ನ ಬೆಲೆ ಕಂಡು ಹಿಡಿಯಿರಿ.
+
+--- FIGURE ---
+Description: Six triangles with an unknown angle x.
+Labels:
+(i) Triangle ABC with angles 50°, 60°, and x.
+(ii) Triangle PQR with a right angle at P, angle 30° at Q, and angle x at R.
+(iii) Triangle XYZ with angles 30°, 110°, and x.
+(iv) A triangle with two angles labeled x and one angle labeled 50°.
+(v) An equilateral triangle with all three angles labeled x.
+(vi) A right-angled triangle with angles x, 2x, and 90°.
+--- END FIGURE ---
+
+2. ಮುಂದಿನ ಚಿತ್ರಗಳಲ್ಲಿ x ಮತ್ತು y ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+
+--- FIGURE ---
+Description: Six triangles with unknown angles x and y.
+Labels:
+(i) An interior angle is 50°, another is x. The exterior angle is 120°. y is the third interior angle.
+(ii) An interior angle is 50°, another is x. The angle y is vertically opposite to an 80° angle.
+(iii) Interior angles are 50°, 60°, and y. x is an exterior angle.
+(iv) An interior angle is 30°, another is x. y and a 60° angle are vertically opposite.
+(v) A right-angled triangle with interior angle y. x and 90° are vertically opposite. Another interior angle is x.
+(vi) Three angles x, x, and y are shown. y is vertically opposite to an angle x.
+--- END FIGURE ---
+
+--- NOTE ---
+**ಇವುಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ**
+1. ತ್ರಿಭುಜದ ಎರಡು ಕೋನಗಳು 30° ಮತ್ತು 80° ಆಗಿವೆ. ಮೂರನೇ ಕೋನದ ಅಳತೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+2. ತ್ರಿಭುಜದ ಒಂದು ಕೋನದ ಅಳತೆ 80° ಆಗಿದೆ ಮತ್ತು ಉಳಿದೆರಡು ಕೋನಗಳು ಸಮವಾಗಿವೆ. ಸಮವಿರುವ ಪ್ರತಿಕೋನದ ಅಳತೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+3. ತ್ರಿಭುಜದ ಮೂರು ಕೋನಗಳು 1:2:1 ರ ಅನುಪಾತದಲ್ಲಿವೆ. ತ್ರಿಭುಜದ ಎಲ್ಲಾ ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಎರಡು ವಿವಿಧ ರೀತಿಯಲ್ಲಿ ತ್ರಿಭುಜವನ್ನು ವರ್ಗೀಕರಿಸಿ.
+--- END NOTE ---
+
+--- NOTE ---
+**ಯೋಚಿಸಿ. ಚರ್ಚಿಸಿ ಮತ್ತು ಬರೆಯಿರಿ**
+1. ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಎರಡು ಲಂಬಕೋನಗಳಿರಬಹುದೇ?
+2. ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಎರಡು ಅಧಿಕ ಕೋನಗಳಿರಬಹುದೇ?
+3. ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಎರಡು ಲಘುಕೋನಗಳಿರಬಹುದೇ?
+4. ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಎಲ್ಲಾ ಮೂರು ಕೋನಗಳು 60° ಗಿಂತ ಹೆಚ್ಚಿರಬಹುದೇ?
+5. ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಎಲ್ಲಾ ಮೂರು ಕೋನಗಳು 60° ಗೆ ಸಮವಿರಬಹುದೇ?
+6. ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಎಲ್ಲಾ ಮೂರು ಕೋನಗಳು 60° ಗಿಂತ ಕಡಿಮೆಯಿರಬಹುದೇ?
+--- END NOTE ---
+
+## 6.6 ಎರಡು ವಿಶೇಷ ತ್ರಿಭುಜಗಳು: ಸಮಬಾಹು ಮತ್ತು ಸಮದ್ವಿಬಾಹು
+
+--- DEFINITION ---
+Term: ಸಮಬಾಹು ತ್ರಿಭುಜ (Equilateral Triangle)
+Definition: ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಎಲ್ಲಾ ಮೂರು ಬಾಹುಗಳು ಸಮವಾಗಿದ್ದಲ್ಲಿ ಅದನ್ನು ಸಮಬಾಹು ತ್ರಿಭುಜ ಎಂದು ಕರೆಯುತ್ತಾರೆ.
+--- END DEFINITION ---
+
+ಸಮಬಾಹು ತ್ರಿಭುಜ ABCಯ ಎರಡು ಪ್ರತಿಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ (ಚಿತ್ರ 6.19). ಒಂದನ್ನು ಸ್ಥಿರವಾಗಿಡಿ. ಇನ್ನೊಂದನ್ನು ಅದರ ಮೇಲೆ ಇಡಿ. ಎರಡೂ ಪರಸ್ಪರ ಐಕ್ಯವಾಗುತ್ತವೆ. ಯಾವ ವಿಧದಲ್ಲಿ ತಿರುಗಿಸಿದರೂ ಸಹ ಎರಡೂ ಪರಸ್ಪರ ಐಕ್ಯವಾಗಿರುತ್ತವೆ. ತ್ರಿಭುಜದ ಮೂರು ಬಾಹುಗಳು ಸಮವಾಗಿದ್ದಾಗ ಅವುಗಳ ಮೂರು ಕೋನಗಳೂ ಸಹ ಸಮವಾಗಿರುತ್ತವೆ ಎಂಬುದನ್ನು ನೀವು ಗಮನಿಸುವಿರಾ?
+
+--- FIGURE ---
+Description: An equilateral triangle ABC.
+Labels: All three sides are marked with double dashes to indicate equality. All three angles are labeled $60^\circ$. The figure is labeled ಚಿತ್ರ 6.19.
+--- END FIGURE ---
+
+ಸಮಬಾಹು ತ್ರಿಭುಜದಲ್ಲಿ,
+(i) ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮ
+(ii) ಪ್ರತಿ ಕೋನದ ಅಳತೆ 60° ಇರುತ್ತದೆ ಎಂದು ನಾವು ತೀರ್ಮಾನಿಸಬಹುದು.
+
+--- DEFINITION ---
+Term: ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ (Isosceles Triangle)
+Definition: ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಎರಡು ಬಾಹುಗಳು ಸಮವಾಗಿದ್ದಾಗ ಅದನ್ನು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ಕರೆಯುತ್ತಾರೆ.
+--- END DEFINITION ---
+
+--- FIGURE ---
+Description: Two diagrams of an isosceles triangle. (i) shows triangle XYZ with sides XY and XZ marked as equal. (ii) shows the same triangle with a line of symmetry XM, where M is the midpoint of YZ.
+Labels: Vertices X, Y, Z. Midpoint M. Sides XY and XZ are marked with a single dash for equality. The figure is labeled ಚಿತ್ರ 6.20.
+--- END FIGURE ---
+
+ಹಾಳೆಯಿಂದ $XY = XZ$ ಇರುವಂತೆ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಕತ್ತರಿಸಿ (ಚಿತ್ರ 6.20). Y ಮೇಲೆ Z ಇರುವಂತೆ ಅದನ್ನು ಮಡಚಿ. ಈಗ X ಮೂಲಕ ಹಾದು ಹೋಗುವ XM ರೇಖೆಯು ಸಮಮಿತಿ ಅಕ್ಷವಾಗಿರುತ್ತದೆ (ಇದನ್ನು ಅಧ್ಯಾಯ 14 ರಲ್ಲಿ ನೀವು ಅಭ್ಯಾಸ ಮಾಡುವಿರಿ), $\angle Y$ ಮತ್ತು $\angle Z$ ಐಕ್ಯವಾಗುವುದನ್ನು ನೀವು ಗಮನಿಸುವಿರಿ. XY ಮತ್ತು XZ ಗಳನ್ನು ಸಮಬಾಹುಗಳು; YZ ನ್ನು ಪಾದ; $\angle Y$ ಮತ್ತು $\angle Z$ ಗಳನ್ನು, ಪಾದ ಕೋನಗಳೆನ್ನುತ್ತಾರೆ ಮತ್ತು ಅವೂ ಸಹ ಸಮವಾಗಿರುತ್ತವೆ.
+
+ಹೀಗಾಗಿ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದಲ್ಲಿ,
+(i) ಎರಡು ಬಾಹುಗಳು ಸಮ
+(ii) ಸಮಬಾಹುಗಳಿಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಪಾದ ಕೋನಗಳು ಸಮ.
+
+--- NOTE ---
+**ಇವುಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ**
+1. ಪ್ರತಿ ಚಿತ್ರದಲ್ಲಿ ಕೋನ x ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+
+--- FIGURE ---
+Description: Nine triangles with an unknown angle x.
+Labels:
+(i) Isosceles triangle with base angles x and 40°.
+(ii) Isosceles right-angled triangle with one base angle 45° and the other x.
+(iii) Isosceles triangle with vertex angle x and one base angle 50°.
+(iv) Isosceles triangle with vertex angle 100° and base angles x.
+(v) Isosceles right-angled triangle with equal sides forming the right angle. The acute angles are x and y.
+(vi) Isosceles triangle with vertex angle 40° and base angles x.
+(vii) Isosceles triangle with one base angle x and the exterior angle at the other base vertex is 120°.
+(viii) Isosceles triangle with vertex angle x and the exterior angle at the vertex is 110°.
+(ix) Isosceles triangle with one base angle 30° and the other base angle x.
+--- END FIGURE ---
+
+2. ಪ್ರತಿ ಚಿತ್ರದಲ್ಲಿ x ಮತ್ತು y ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+
+--- FIGURE ---
+Description: Three triangles with unknown angles x and y.
+Labels:
+(i) Isosceles triangle with vertex angle x. One base angle is y. The exterior angle at the other base vertex is 120°.
+(ii) Isosceles right-angled triangle. The equal sides form the right angle. The acute angles are x and y.
+(iii) Isosceles triangle with vertex angle 92°. One base angle is y. x is the exterior angle at the other base vertex.
+--- END FIGURE ---
+--- END NOTE ---
+
+## 6.7 ಒಂದು ತ್ರಿಭುಜದ ಎರಡು ಬಾಹುಗಳ ಮೊತ್ತ
+1. ನಿಮ್ಮ ಆಟದ ಮೈದಾನದಲ್ಲಿ A, B ಮತ್ತು C ಮೂರು ಏಕರೇಖಾಗತವಲ್ಲದ ಸ್ಥಳಗಳನ್ನು ಗುರ್ತಿಸಿ. ಸುಣ್ಣದ ಪುಡಿ ಬಳಸಿ AB, BC ಮತ್ತು AC ಮಾರ್ಗಗಳನ್ನು ಎಳೆಯಿರಿ.
+
+--- FIGURE ---
+Description: A triangle ABC.
+Labels: Vertices A, B, C. The figure is labeled ಚಿತ್ರ 6.22.
+--- END FIGURE ---
+
+ನಿಮ್ಮ ಸಹಪಾಠಿಗೆ A ಯಿಂದ ಪ್ರಾರಂಭಿಸಿ ಒಂದು ಅಥವಾ ಹೆಚ್ಚಿನ ಮಾರ್ಗಗಳ ಮೂಲಕ ನಡೆದು C ತಲುಪಲು ತಿಳಿಸಿ. ಉದಾಹರಣೆಗೆ ಅವರು ಮೊದಲು AB ನಂತರ BC ಉದ್ದಕ್ಕೂ ನಡೆದು C ತಲುಪಬಹುದು. ಅಥವಾ ನೇರವಾಗಿ AC ಉದ್ದಕ್ಕೂ ನಡೆಯಬಹುದು. ಸ್ವಾಭಾವಿಕವಾಗಿ ಅವರು ನೇರವಾದ AC ಮಾರ್ಗಕ್ಕೆ ಆದ್ಯತೆ ನೀಡುವರು. ಅವರು ಇನ್ನೊಂದು ಮಾರ್ಗವನ್ನು (ಮೊದಲು AB ನಂತರ BC) ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡಲ್ಲಿ ಹೆಚ್ಚು ದೂರ ನಡೆಯಬೇಕಾಗುತ್ತದೆ. ಅಂದರೆ
+$AB + BC > AC$ (i)
+
+ಅದೇ ರೀತಿಯಾಗಿ, ಒಬ್ಬರು B ಯಿಂದ ಪ್ರಾರಂಭಿಸಿ A ಗೆ ತಲುಪಲು, ಅವರು BC ಮತ್ತು CA ಮಾರ್ಗಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳುವುದಿಲ್ಲ. ಆದರೆ BA ಮಾರ್ಗಕ್ಕೆ ಆದ್ಯತೆ ನೀಡುತ್ತಾರೆ. ಏಕೆಂದರೆ
+$BC + CA > AB$ (ii)
+
+ಅದೇ ರೀತಿಯಾದ ಚರ್ಚೆಯಿಂದ $CA+AB > BC$ ಎಂದು ನೀವು ಕಂಡುಹಿಡಿಯುವಿರಿ. (iii)
+
+ಇದು “ತ್ರಿಭುಜದ ಯಾವುದೇ ಎರಡು ಬಾಹುಗಳ ಮೊತ್ತವು ಮೂರನೇ ಬಾಹುವಿಗಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ” ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.
+
+2. 6cm, 7cm, 8cm, 9cm, ..., 20cm ವಿವಿಧ ಉದ್ದವಿರುವ ಹದಿನೈದು ಸಣ್ಣ ಕಡ್ಡಿಗಳನ್ನು (ಅಥವಾ ಪಟ್ಟಿಗಳನ್ನು) ಸಂಗ್ರಹಿಸಿ.
+ಇವುಗಳಲ್ಲಿ ಯಾವುದಾದರೂ ಮೂರು ಕಡ್ಡಿಗಳನ್ನು ಬಳಸಿ ತ್ರಿಭುಜವನ್ನುಂಟುಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ. ಬೇರೆ ಬೇರೆ ಮೂರು ಕಡ್ಡಿಗಳ ಸಂಯೋಜನೆಯೊಂದಿಗೆ ಇದನ್ನು ಪುನರಾವರ್ತಿಸಿ.
+ಮೊದಲು ನೀವು 6cm ಮತ್ತು 12cm ಉದ್ದವಿರುವ ಎರಡು ಕಡ್ಡಿಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿರುವಿರಿ ಎಂದಿಟ್ಟುಕೊಳ್ಳಿ. ನಿಮ್ಮ ಮೂರನೇ ಕಡ್ಡಿಯ ಉದ್ದ 12-6 = 6cm ಗಿಂತ ಹೆಚ್ಚಿರಬೇಕು ಮತ್ತು 12+6 = 18cm ಗಿಂತ ಕಡಿಮೆ ಇರಬೇಕು. ಇದನ್ನು ಪ್ರಯತ್ನಿಸಿ ಮತ್ತು ಇದು ಏಕೆ ಹೀಗೆ ಎಂಬುದನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+ಒಂದು ತ್ರಿಭುಜವನ್ನು ರಚಿಸಲು ನಿಮಗೆ ಯಾವುದಾದರೂ ಮೂರು ಕಡ್ಡಿಗಳ ಅವಶ್ಯಕತೆಯಿದ್ದು ಅವುಗಳಲ್ಲಿ ಯಾವುದಾದರೂ ಎರಡು ಕಡ್ಡಿಗಳ ಉದ್ದದ ಮೊತ್ತವು ಯಾವಾಗಲೂ ಮೂರನೇ ಕಡ್ಡಿಯ ಉದ್ದಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ.
+ಇದೂ ಸಹ “ತ್ರಿಭುಜದ ಯಾವುದಾದರೂ ಎರಡು ಬಾಹುಗಳ ಮೊತ್ತವು ಮೂರನೇ ಬಾಹುವಿಗಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ” ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.
+
+3. $\triangle ABC$, $\triangle PQR$ ಮತ್ತು $\triangle XYZ$, ಮೂರು ತ್ರಿಭುಜಗಳನ್ನು ನಿಮ್ಮ ಪುಸ್ತಕದಲ್ಲಿ (ನೋಟ್ ಬುಕ್‌ನಲ್ಲಿ) ರಚಿಸಿ (ಚಿತ್ರ 6.22).
+
+--- FIGURE ---
+Description: Three different triangles are shown side-by-side.
+Labels: The first is $\triangle ABC$. The second is $\triangle PQR$. The third is $\triangle XYZ$. The figure is labeled ಚಿತ್ರ 6.22.
+--- END FIGURE ---
+
+ಅಳತೆ ಪಟ್ಟಿ ಬಳಸಿ ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಉದ್ದ ಕಂಡುಹಿಡಿದು ಮುಂದೆ ನೀಡಿರುವ ಕೋಷ್ಟಕದಲ್ಲಿ ತುಂಬಿ.
+
+| ತ್ರಿಭುಜದ ಹೆಸರು | ಬಾಹುಗಳ ಉದ್ದ | ಇದು ಸರಿಯೇ ? |
+| :--- | :--- | :--- |
+| $\triangle ABC$ | AB -----, BC -----, CA ----- | $AB - CB < CA$ (ಹೌದು/ಇಲ್ಲ) <br> $BC - CA < AB$ (ಹೌದು/ಇಲ್ಲ) <br> $CA - AB < BC$ (ಹೌದು/ಇಲ್ಲ) |
+| $\triangle PQR$ | PQ -----, QR -----, RP ----- | $PQ - QR < RP$ (ಹೌದು/ಇಲ್ಲ) <br> $QR - RP < PQ$ (ಹೌದು/ಇಲ್ಲ) <br> $RP - PQ < QR$ (ಹೌದು/ಇಲ್ಲ) |
+| $\triangle XYZ$ | XY -----, YZ -----, ZX ----- | $XY - YZ < ZX$ (ಹೌದು/ಇಲ್ಲ) <br> $YZ - ZX < XY$ (ಹೌದು/ಇಲ್ಲ) <br> $ZX - XY < YZ$ (ಹೌದು/ಇಲ್ಲ) |
+
+ಮೊದಲಿನ ನಮ್ಮ ಊಹೆಗೆ ಇದೂ ಸಹ ಪುಷ್ಟಿ ನೀಡುತ್ತದೆ. ಆದುದರಿಂದ, ತ್ರಿಭುಜದ ಯಾವುದೇ ಎರಡು ಬಾಹುಗಳ ಮೊತ್ತವು ಮೂರನೆಯ ಬಾಹುವಿಗಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ ಎಂದು ನಾವು ತೀರ್ಮಾನಿಸಬಹುದು.
+ಒಂದು ತ್ರಿಭುಜದ ಯಾವುದೇ ಎರಡು ಬಾಹುಗಳ ವ್ಯತ್ಯಾಸವು ಮೂರನೆಯ ಬಾಹುವಿಗಿಂತ ಕಡಿಮೆ ಇರುತ್ತದೆ ಎಂದೂ ಸಹ ನಾವು ಗಮನಿಸಬಹುದು.
+
+--- EXAMPLE START ---
+Source: Class 7, Example 3
+**ಉದಾಹರಣೆ 3** ಬಾಹುಗಳ ಉದ್ದ 10.2cm, 5.8cm, ಮತ್ತು 4.5cm ಇರುವ ಒಂದು ತ್ರಿಭುಜ ಇರಬಹುದೇ ?
+**ಪರಿಹಾರ:** ಈ ರೀತಿಯಾದ ತ್ರಿಭುಜ ಇರಬಹುದು ಎಂದುಕೊಳ್ಳೋಣ. ಆಗ ಯಾವುದಾದರೂ ಎರಡು ಬಾಹುಗಳ ಮೊತ್ತವು ಮೂರನೇ ಬಾಹುವಿಗಿಂತ ಹೆಚ್ಚಾಗಿರಬೇಕು. ಇದನ್ನು ಪರೀಕ್ಷಿಸೋಣ.
+$4.5 + 5.8 > 10.2$ ಆಗುತ್ತದೆಯೇ? ಹೌದು
+$5.8 + 10.2 > 4.5$ ಆಗುತ್ತದೆಯೇ? ಹೌದು
+$10.2 + 4.5 > 5.8$ ಆಗುತ್ತದೆಯೇ? ಹೌದು.
+ಆದುದರಿಂದ ಈ ತ್ರಿಭುಜ ಉಂಟಾಗಬಹುದು.
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 7, Example 4
+**ಉದಾಹರಣೆ 4** ಒಂದು ತ್ರಿಭುಜದ ಎರಡು ಬಾಹುಗಳ ಉದ್ದ 6cm, 8cm, ಆಗಿದೆ. ಮೂರನೇ ಬಾಹುವಿನ ಉದ್ದ ಯಾವ ಎರಡು ಸಂಖ್ಯೆಗಳ ನಡುವೆ ಇರುತ್ತದೆ?
+**ಪರಿಹಾರ:** ತ್ರಿಭುಜದ ಯಾವುದೇ ಎರಡು ಬಾಹುಗಳ ಮೊತ್ತವು ಮೂರನೇ ಬಾಹುವಿಗಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ.
+ಆದುದರಿಂದ, ಮೂರನೇ ಬಾಹುವು ಎರಡು ಬಾಹುಗಳ ಮೊತ್ತಕ್ಕಿಂತ ಕಡಿಮೆಯಿರಬೇಕು. ಹೀಗಾಗಿ ಮೂರನೇ ಬಾಹುವು ($8 + 6 = 14$cm ಕ್ಕಿಂತ ಕಡಿಮೆಯಿರಬೇಕು.)
+ಮೂರನೇ ಬಾಹುವು ಎರಡು ಬಾಹುಗಳ ವ್ಯತ್ಯಾಸಕ್ಕಿಂತ ಕಡಿಮೆಯಿರಬಾರದು. ಹೀಗಾಗಿ ಮೂರನೇ ಬಾಹುವು $8-6 = 2$cm ಗಿಂತ ಹೆಚ್ಚಾಗಿರಬೇಕು
+ಮೂರನೇ ಬಾಹುವಿನ ಉದ್ದ 2cm ಗಿಂತ ಹೆಚ್ಚು ಮತ್ತು 14cm ಗಿಂತ ಕಡಿಮೆ ಇರುವ ಯಾವುದೇ ಅಳತೆಯಾಗಿರಬಹುದು.
+--- EXAMPLE END ---
+
+### ಅಭ್ಯಾಸ 6.4
+1. ಮುಂದೆ ನೀಡಿರುವ ಬಾಹುಗಳನ್ನೊಳಗೊಂಡ ತ್ರಿಭುಜ ಇರಲು ಸಾಧ್ಯವೇ ?
+(i) 2cm, 3cm, 5cm,
+(ii) 3cm, 6cm, 7cm,
+(iii) 6cm, 3cm, 2cm,
+2. ತ್ರಿಭುಜ PQR ನ ಒಳಭಾಗದಲ್ಲಿ ಯಾವುದೇ ಬಿಂದು 'O' ತೆಗೆದುಕೊಳ್ಳಿ.
+(i) OP + OQ > PQ
+(ii) OQ + OR > QR
+(iii) OR + OP > RP ಆಗುತ್ತದೆಯೇ?
+
+--- FIGURE ---
+Description: A triangle PQR with a point O inside it.
+Labels: Vertices P, Q, R. Point O.
+--- END FIGURE ---
+
+3. ತ್ರಿಭುಜ ABC ಯ ಮಧ್ಯರೇಖೆ AM ಆದಾಗ
+AB + BC + CA > 2 AM ಆಗುವುದೇ?
+(A ABM ಮತ್ತು A AMC ಗಳ ಬಾಹುಗಳನ್ನು ಪರಿಗಣಿಸಿ)
+
+--- FIGURE ---
+Description: A triangle ABC with a median AM.
+Labels: Vertices A, B, C. Midpoint M on BC.
+--- END FIGURE ---
+
+4. ABCD ಒಂದು ಚತುರ್ಭುಜವಾದರೆ
+AB + BC + CD + DA > AC + BD ಆಗುತ್ತದೆಯೇ?
+
+--- FIGURE ---
+Description: A quadrilateral ABCD with its diagonals AC and BD.
+Labels: Vertices A, B, C, D.
+--- END FIGURE ---
+
+5. ABCD ಒಂದು ಚತುರ್ಭುಜವಾದರೆ
+AB + BC + CD + DA < 2(AC + BD) ಆಗುತ್ತದೆಯೇ?
+6. ಒಂದು ತ್ರಿಭುಜದ ಎರಡು ಬಾಹುಗಳ ಉದ್ದ 12cm ಮತ್ತು 15cm ಆಗಿದೆ. ಮೂರನೇ ಬಾಹುವಿನ ಉದ್ದ ಯಾವ ಎರಡು ಅಳತೆಗಳ ನಡುವೆ ಇರುತ್ತದೆ?
+
+--- NOTE ---
+**ಆಲೋಚಿಸಿ, ಚರ್ಚಿಸಿ ಮತ್ತು ಬರೆಯಿರಿ**
+1. ಒಂದು ತ್ರಿಭುಜದ ಎರಡು ಕೋನಗಳ ಮೊತ್ತವು ಯಾವಾಗಲೂ ಮೂರನೇ ಕೋನಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿ ಇರುತ್ತದೆಯೇ?
+--- END NOTE ---
+
+## 6.8 ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳು ಮತ್ತು ಪೈಥಾಗೊರಸ್ ಗುಣ
+ಕ್ರಿ. ಪೂ. ಆರನೇ ಶತಮಾನದಲ್ಲಿ ಪೈಥಾಗೊರಸ್ ಎಂಬ ಗ್ರೀಕ್ ತತ್ವಜ್ಞಾನಿ ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳ ಒಂದು ಬಹು ಮುಖ್ಯ ಮತ್ತು ಉಪಯುಕ್ತ ಗುಣವನ್ನು ಕಂಡುಹಿಡಿದರು ಎನ್ನಲಾಗಿದೆ. ಆ ಗುಣವನ್ನು ಅವರ ಹೆಸರಿನಿಂದ ಕರೆಯಲಾಗಿದೆ. ವಾಸ್ತವವಾಗಿ ಈ ಗುಣವು ಹಲವು ದೇಶಗಳ ಜನರಿಗೂ ಸಹ ತಿಳಿದಿತ್ತು. ಭಾರತದ ಗಣಿತಶಾಸ್ತ್ರಜ್ಞ ಬೋಧಾಯನ ಸಹ ಈ ಗುಣಕ್ಕೆ ಸಮಾನ ರೂಪವಾದ ಗುಣವನ್ನು ನೀಡಿದ್ದಾರೆ. ಈಗ ಪೈಥಾಗೊರಸ್ ಗುಣವನ್ನು ವಿವರಿಸಲು ಪ್ರಯತ್ನಿಸೋಣ.
+
+ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ, ಬಾಹುಗಳು ಕೆಲವು ವಿಶೇಷ ಹೆಸರುಗಳನ್ನು ಹೊಂದಿವೆ. ಲಂಬಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹುವನ್ನು ವಿಕರ್ಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉಳಿದೆರಡು ಬಾಹುಗಳನ್ನು ಲಂಬಕೋನವನ್ನೊಳಗೊಂಡ ಬಾಹುಗಳು ಎಂದು ಕರೆಯುತ್ತಾರೆ.
+
+--- FIGURE ---
+Description: A right-angled triangle.
+Labels: Vertices A, B, C. The right angle is at B. The figure is labeled ಚಿತ್ರ 6.23.
+--- END FIGURE ---
+
+$\triangle ABC$ ಯಲ್ಲಿ (ಚಿತ್ರ 6.23), B ಯಲ್ಲಿ ಲಂಬಕೋನವಿದೆ. ಆದುದರಿಂದ AC ವಿಕರ್ಣವಾಗಿದೆ. AB ಮತ್ತು BC, $\triangle ABC$ ಯ ಲಂಬಕೋನವನ್ನೊಳಗೊಂಡ ಬಾಹುಗಳು.
+
+ನಿಮ್ಮ ಆಯ್ಕೆಯಂತೆ ಯಾವುದೇ ಅಳತೆಯಿರುವ ಎಂಟು ತದ್ರೂಪಿ ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಪ್ರತಿಗಳನ್ನು ಮಾಡಿ. ಉದಾಹರಣೆಗೆ ವಿಕರ್ಣ 'a' ಮಾನಗಳು ಮತ್ತು ಲಂಬಕೋನವನ್ನೊಳಗೊಂಡ ಬಾಹುಗಳ ಉದ್ದ 'b' ಮಾನಗಳು ಮತ್ತು 'c' ಮಾನಗಳು ಇರುವಂತೆ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ ರಚಿಸಿ. (ಚಿತ್ರ 6.24).
+
+--- FIGURE ---
+Description: A right-angled triangle.
+Labels: The sides are labeled a, b, c. 'c' is the hypotenuse. 'a' and 'b' are the legs. The figure is labeled ಚಿತ್ರ 6.24.
+--- END FIGURE ---
+
+ಬಾಹುಗಳ ಉದ್ದ $b + c$ ಇರುವಂತೆ ಎರಡು ತದ್ರೂಪಿ ವರ್ಗಗಳನ್ನು ಒಂದು ಹಾಳೆಯ ಮೇಲೆ ರಚಿಸಿ.
+ಒಂದು ವರ್ಗದಲ್ಲಿ ನಾಲ್ಕು ತ್ರಿಭುಜಗಳನ್ನು ಮತ್ತು ಉಳಿದ ನಾಲ್ಕು ತ್ರಿಭುಜಗಳನ್ನು ಮತ್ತೊಂದು ವರ್ಗದಲ್ಲಿ ಮುಂದೆ ನೀಡಿರುವ ಚಿತ್ರದಲ್ಲಿರುವಂತೆ ನೀವು ಇಡಬೇಕು. (ಚಿತ್ರ 6.25).
+
+--- FIGURE ---
+Description: Two large squares, labeled "ವರ್ಗ A" and "ವರ್ಗ B", both of side length b+c. They are used to demonstrate the Pythagorean theorem.
+In "ವರ್ಗ A", four identical right triangles (with sides b, c and hypotenuse a) are placed at the corners. This leaves an uncovered square in the center with side 'a' and area $a^2$.
+In "ವರ್ಗ B", the same four triangles are arranged differently. This leaves two uncovered squares, one with side 'b' (area $b^2$) and another with side 'c' (area $c^2$).
+Labels: Sides a, b, c. The triangles are numbered 1 through 8 across both squares. The figure is labeled ಚಿತ್ರ 6.25.
+--- END FIGURE ---
+
+ವರ್ಗಗಳು ತದ್ರೂಪಿಯಾಗಿವೆ; ಇಟ್ಟಿರುವ ಎಂಟೂ ತ್ರಿಭುಜಗಳು ಸಹ ತದ್ರೂಪಿಯಾಗಿವೆ.
+A ವರ್ಗದಲ್ಲಿ ಆವೃತವಾಗದಿರುವ ಭಾಗ = B ವರ್ಗದಲ್ಲಿ ಆವೃತವಾಗದಿರುವ ಭಾಗ
+ಅಂದರೆ A ವರ್ಗದಲ್ಲಿರುವ ಒಳವರ್ಗದ ವಿಸ್ತೀರ್ಣ = (B ವರ್ಗದಲ್ಲಿ ಆವೃತವಾಗದಿರುವ ಎರಡು ವರ್ಗಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ)
+$$a^2 = b^2 + c^2$$
+ಇದು ಪೈಥಾಗೊರಸ್ ಗುಣ. ಇದನ್ನು ಮುಂದಿನಂತೆ ವ್ಯಾಖ್ಯಾನಿಸಬಹುದು.
+
+--- THEOREM ---
+Name: ಪೈಥಾಗೊರಸ್ ಗುಣ (Pythagoras Property)
+Statement: ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ, ವಿಕರ್ಣದ ಮೇಲಿನ ವರ್ಗ = ಲಂಬಕೋನವನ್ನೊಳಗೊಂಡ ಬಾಹುಗಳ ಮೇಲಿನ ವರ್ಗಗಳ ಮೊತ್ತ.
+--- END THEOREM ---
+
+ಗಣಿತದಲ್ಲಿ ಪೈಥಾಗೊರಸ್ ಗುಣ ಒಂದು ಬಹಳ ಉಪಯುಕ್ತ ಸಾಧನವಾಗಿದೆ. ಮುಂದಿನ ತರಗತಿಗಳಲ್ಲಿ ಇದನ್ನು ಒಂದು ಪ್ರಮೇಯದಂತೆ ನೀವು ಸಾಧಿಸುವಿರಿ. ಇದರ ಅರ್ಥ ನಿಮಗೆ ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿದಿರಬೇಕು.
+ಯಾವುದೇ ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ ವಿಕರ್ಣದ ಮೇಲಿನ ವರ್ಗವು, ಲಂಬಕೋನವನ್ನೊಳಗೊಂಡ ಬಾಹುಗಳ ಮೇಲಿನ ವರ್ಗಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ.
+
+ಒಂದು ವರ್ಗಾಕೃತಿಯ ಹಾಳೆಯ ಮೇಲೆ ಲಂಬಕೋನ ತ್ರಿಭುಜ ರಚಿಸಿ, ಅದರ ಬಾಹುಗಳ ಮೇಲೆ ವರ್ಗ ರಚಿಸಿ. ಈ ವರ್ಗಗಳ ವಿಸ್ತೀರ್ಣ ಕಂಡುಹಿಡಿಯಿರಿ (ಪ್ರಮೇಯವನ್ನು ಪ್ರಾಯೋಗಿಕವಾಗಿ ಪರಿಶೀಲಿಸಿ [ಚಿತ್ರ 6.26]).
+
+--- FIGURE ---
+Description: A right-angled triangle with squares drawn on each of its three sides.
+Labels: The sides of the triangle are a, b, c (hypotenuse). The areas of the squares are shown as $a^2$, $b^2$, $c^2$. The relationship $a^2 = b^2 + c^2$ is implied. The figure is labeled ಚಿತ್ರ 6.26.
+--- END FIGURE ---
+
+ಪೈಥಾಗೊರಸ್ ಗುಣವು ಲಂಬಕೋನ ತ್ರಿಭುಜಕ್ಕೆ ಸರಿ ಹೊಂದುತ್ತದೆ. ಯಾವುದಾದರೂ ಒಂದು ತ್ರಿಭುಜಕ್ಕೆ ಪೈಥಾಗೊರಸ್ ಗುಣ ಸರಿ ಹೊಂದುವುದಾದರೆ ಅದು ಲಂಬಕೋನ ತ್ರಿಭುಜವಾಗುತ್ತದೆಯೇ? (ಆ ಸಮಸ್ಯೆಗಳನ್ನು ವಿಲೋಮ ಸಮಸ್ಯೆಗಳು ಎನ್ನುವರು). ನಾವು ಇದನ್ನು ಉತ್ತರಿಸಲು ಪ್ರಯತ್ನಿಸೋಣ. ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಯಾವುದಾದರೂ ಎರಡು ಬಾಹುಗಳ ಮೇಲಿನ ವರ್ಗಗಳ ಮೊತ್ತವು ಮೂರನೇ ಬಾಹುವಿನ ಮೇಲಿನ ವರ್ಗಕ್ಕೆ ಸಮವಾಗಿದ್ದರೆ, ಅದು ಲಂಬಕೋನ ತ್ರಿಭುಜವೇ ಆಗಿರಬೇಕು ಎಂದು ನಾವು ಈಗ ತೋರಿಸೋಣ.
+
+--- NOTE ---
+**ಇದನ್ನು ಮಾಡಿ**
+1. ಬಾಹುಗಳ ಉದ್ದ 4cm, 5cm, 6cm, ಇರುವ ಮೂರು ವರ್ಗಾಕೃತಿಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಒಂದು ತ್ರಿಭುಜದ ಆಕೃತಿಯನ್ನು ಪಡೆಯಲು ವರ್ಗಗಳ ಮೂಲೆಯನ್ನು ಚಿತ್ರದಲ್ಲಿ (ಚಿತ್ರ 6.27) ತೋರಿಸಿರುವಂತೆ ಸರಿಯಾಗಿ ಜೋಡಿಸಿ. ಉಂಟಾಗಿರುವ ತ್ರಿಭುಜವನ್ನು ಗುರ್ತು ಮಾಡಿ. ತ್ರಿಭುಜದ ಪ್ರತಿ ಕೋನವನ್ನು ಅಳತೆ ಮಾಡಿ. ಯಾವುದೂ ಲಂಬಕೋನವಿಲ್ಲದಿರುವುದನ್ನು ನೀವು ಗಮನಿಸುವಿರಿ.
+
+--- FIGURE ---
+Description: An arrangement of three squares with side lengths 4, 5, and 6, positioned to form a triangle in the middle.
+Labels: The squares are labeled $4^2$, $5^2$, $6^2$. The figure is labeled ಚಿತ್ರ 6.27.
+--- END FIGURE ---
+
+ಈ ಪ್ರಕರಣದಲ್ಲಿ ಪ್ರತಿ ಕೋನ ಲಘುಕೋಣವಾಗಿದೆ.
+$4^2 + 5^2 \neq 6^2$, $5^2 + 6^2 \neq 4^2$ ಮತ್ತು $6^2 + 4^2 \neq 5^2$ ಆಗುವುದನ್ನು ಗಮನಿಸಿ.
+2. ಬಾಹುಗಳ ಉದ್ದ 4cm, 5cm, ಮತ್ತು 7cm ಇರುವ ವರ್ಗಗಳಿಂದ ಮೇಲಿನ ಚಟುವಟಿಕೆಯನ್ನು ಪುನರಾವರ್ತಿಸಿ. ನಿಮಗೆ ವಿಶಾಲಕೋನ ತ್ರಿಭುಜವು ಸಿಗುತ್ತದೆ.
+$4^2 + 5^2 \neq 7^2$ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.
+--- END NOTE ---
+
+ಪೈಥಾಗೊರಸ್ ಗುಣ ಸರಿಹೊಂದಬೇಕಾದರೆ ಅದು ಲಂಬಕೋನ ತ್ರಿಭುಜವೇ ಆಗಿರಬೇಕು ಎಂದು ಇದು ತೋರಿಸುತ್ತದೆ. ಆದುದರಿಂದ, ಮುಂದಿನ ಹೇಳಿಕೆಯನ್ನು ಪಡೆಯುತ್ತೇವೆ.
+
+--- THEOREM ---
+Name: Converse of Pythagoras Property
+Statement: ಪೈಥಾಗೊರಸ್ ಗುಣ ಸರಿಹೊಂದಿದೆಯಾದರೆ ಅದು ಲಂಬಕೋನ ತ್ರಿಭುಜವಾಗಿರುತ್ತದೆ.
+--- END THEOREM ---
+
+--- EXAMPLE START ---
+Source: Class 7, Example 5
+**ಉದಾಹರಣೆ 5** ಬಾಹುಗಳ ಉದ್ದ 3cm, 4cm, ಮತ್ತು 5cm ಇರುವ ತ್ರಿಭುಜವು ಲಂಬಕೋನ ತ್ರಿಭುಜವಾಗುವುದೇ? ನಿರ್ಧರಿಸಿ.
+**ಪರಿಹಾರ:** $3^2 = 3 \times 3 = 9$, $4^2 = 4 \times 4 = 16$; $5^2 = 5 \times 5 = 25$.
+$3^2 + 4^2 = 5^2$ ಆಗುವುದನ್ನು ನಾವು ಗಮನಿಸಬಹುದು.
+ಆದುದರಿಂದ ತ್ರಿಭುಜವು ಲಂಬಕೋನ ತ್ರಿಭುಜವಾಗಿದೆ.
+**ಗಮನಿಸಿ:** ಯಾವುದೇ ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ, ವಿಕರ್ಣವು ಅತ್ಯಂತ ದೊಡ್ಡ ಬಾಹುವಾಗಿರುತ್ತದೆ. ಈ ಉದಾಹರಣೆಯಲ್ಲಿ 5cm. ಬಾಹು ವಿಕರ್ಣ.
+--- EXAMPLE END ---
+
+--- EXAMPLE START ---
+Source: Class 7, Example 6
+**ಉದಾಹರಣೆ 6** $\triangle ABC$ ಯಲ್ಲಿ ಕೋನ C ಲಂಬಕೋನವಾಗಿದೆ. AC = 5cm. ಮತ್ತು BC = 12cm. ಆದರೆ ABಯ ಉದ್ದ ಕಂಡುಹಿಡಿಯಿರಿ.
+**ಪರಿಹಾರ:** ಸಮಸ್ಯೆಗೆ ಅನುಗುಣವಾಗಿ ಕರಡು ಚಿತ್ರ ರಚಿಸಿ (ಚಿತ್ರ 6.28).
+
+--- FIGURE ---
+Description: A right-angled triangle ABC.
+Labels: The right angle is at C. Side AC is labeled '?', side BC is 12 cm. The figure is labeled ಚಿತ್ರ 6.28.
+--- END FIGURE ---
+
+ಪೈಥಾಗೊರಸ್ ಗುಣದಿಂದ
+$AB^2 = AC^2 + BC^2$
+$= 5^2 + 12^2 = 25 + 144 = 169 = 13^2$
+$AB^2 = 13^2$ ಆದುದರಿಂದ, $AB = 13$
+AB ಯ ಉದ್ದ 13cm.
+**ಸೂಚನೆ:** ಪೂರ್ಣ ವರ್ಗ ಸಂಖ್ಯೆಗಳನ್ನು ಪತ್ತೆಹಚ್ಚಲು ನೀವು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನವನ್ನು ಬಳಸಬಹುದು.
+--- EXAMPLE END ---
+
+--- NOTE ---
+**ಇವುಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ**
+ಮುಂದೆ ನೀಡಿರುವ ಚಿತ್ರಗಳಲ್ಲಿ (ಚಿತ್ರ 6.29) ಗೊತ್ತಿಲ್ಲದ ಉದ್ದ x ಕಂಡು ಹಿಡಿಯಿರಿ.
+
+--- FIGURE ---
+Description: Six right-angled triangles with an unknown side x.
+Labels:
+(i) Legs are 3 and 4, hypotenuse is x.
+(ii) Legs are 6 and 8, hypotenuse is x.
+(iii) Leg is x, other leg is 8 cm, hypotenuse is 15 cm.
+(iv) Leg is 7, other leg is 24, hypotenuse is x.
+(v) Legs are x and 12, hypotenuse is 37.
+(vi) Leg is 5 cm, other leg is 12 cm, hypotenuse is x.
+The figure is labeled ಚಿತ್ರ 6.29.
+--- END FIGURE ---
+--- END NOTE ---
+
+### ಅಭ್ಯಾಸ 6.5
+1. PQR ತ್ರಿಭುಜದಲ್ಲಿ P ಲಂಬಕೋನವಾಗಿದೆ. PQ = 10cm ಮತ್ತು PR = 24cm ಆದರೆ QR ಕಂಡುಹಿಡಿಯಿರಿ.
+2. ABC ತ್ರಿಭುಜದಲ್ಲಿ C ಲಂಬಕೋನವಾಗಿದೆ. AB = 25cm ಮತ್ತು AC = 7cm ಆದರೆ BC ಕಂಡುಹಿಡಿಯಿರಿ.
+3. 15m ಉದ್ದದ ಏಣಿಯನ್ನು, ನೆಲದಿಂದ 12m ಎತ್ತರದಲ್ಲಿರುವ ಒಂದು ಕಿಟಕಿಯನ್ನು ತಲುಪುವಂತೆ ಗೋಡೆಯಿಂದ 'a' m ದೂರದಲ್ಲಿ ನಿಲ್ಲಿಸಿದೆ. ಏಣಿಯ ಪಾದದಿಂದ ಗೋಡೆಗೆ ಇರುವ ದೂರ ಕಂಡುಹಿಡಿಯಿರಿ.
+
+--- FIGURE ---
+Description: A right-angled triangle formed by a ladder against a wall.
+Labels: The ladder (hypotenuse) is 15m. The height on the wall is 12m. The distance from the wall to the base of the ladder is 'a'.
+--- END FIGURE ---
+
+4. ಮುಂದಿನವುಗಳಲ್ಲಿ ಯಾವುವು ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಬಾಹುಗಳಾಗಬಹುದು?
+(i) 2.5cm, 6.5cm, 6.cm,
+(ii) 2cm, 2cm, 5cm,
+(iii) 1.5cm, 2cm, 2.5cm,
+ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳಾಗಿದ್ದಲ್ಲಿ, ಲಂಬಕೋನಗಳನ್ನು ಪತ್ತೆ ಹಚ್ಚಿ.
+5. ಒಂದು ಮರವು ನೆಲದಿಂದ 5m ಎತ್ತರದಲ್ಲಿ ಮುರಿದಿದೆ ಮತ್ತು ಅದರ ಮೇಲ್ತುದಿಯು, ಮರದ ಬುಡದಿಂದ 12m ದೂರದಲ್ಲಿ ನೆಲಕ್ಕೆ ತಾಗುತ್ತದೆ. ಮರದ ಮೂಲ ಎತ್ತರ ಕಂಡುಹಿಡಿಯಿರಿ.
+6. $\triangle PQR$ ನ ಕೋನಗಳಾದ Q ಮತ್ತು R ನ ಅಳತೆಗಳು 25° ಮತ್ತು 65° ಇವೆ. ಮುಂದಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಿ ಎಂಬುದನ್ನು ಬರೆಯಿರಿ.
+(i) $PQ^2 + QR^2 = RP^2$
+(ii) $PQ^2 + RP^2 = QR^2$
+(iii) $RP^2 + QR^2 = PQ^2$
+
+--- FIGURE ---
+Description: A triangle PQR.
+Labels: Vertices P, Q, R. Angle at Q is 25°, angle at R is 65°.
+--- END FIGURE ---
+
+7. ಉದ್ದ 40cm ಮತ್ತು ಕರ್ಣ 41cm ಇರುವ ಒಂದು ಆಯತದ ಸುತ್ತಳತೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+8. ಒಂದು ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳ ಅಳತೆ 16cm ಮತ್ತು 30cm ಇದೆ. ಅದರ ಸುತ್ತಳತೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+
+--- NOTE ---
+**ಆಲೋಚಿಸಿ, ಚರ್ಚಿಸಿ ಮತ್ತು ಬರೆಯಿರಿ.**
+1. P ಲಂಬಕೋನವಾಗಿರುವ ತ್ರಿಭುಜ PQR ನಲ್ಲಿ ಅತ್ಯಂತ ಉದ್ದವಾದ ಬಾಹು ಯಾವುದು?
+2. B ಲಂಬಕೋನವಾಗಿರುವ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ ಅತ್ಯಂತ ಉದ್ದವಾದ ಬಾಹು ಯಾವುದು?
+3. ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ ಅತ್ಯಂತ ಉದ್ದವಾದ ಬಾಹು ಯಾವುದು?
+4. “ಒಂದು ಆಯತದ ಉದ್ದ ಮತ್ತು ಅಗಲಗಳು ಬೇರೆ ಬೇರೆಯಾಗಿ ಉಂಟುಮಾಡುವ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವನ್ನು ಆ ಆಯತದ ಕರ್ಣವು ಉಂಟುಮಾಡುತ್ತದೆ.” ಇದು ಬೋಧಾಯನ ಪ್ರಮೇಯ. ಇದನ್ನು ಪೈಥಾಗೊರಸ್ ಗುಣದೊಂದಿಗೆ ಹೋಲಿಸಿ.
+--- END NOTE ---
+
+--- NOTE ---
+**ಇದನ್ನು ಮಾಡಿ**
+**ಸಂಪದೀಕರಣ ಚಟುವಟಿಕೆ**
+ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಸಾಧನೆಗೆ ಛೇದನ (ತುಂಡರಿಕೆ) ಮತ್ತು ಪುನರ್‌ಜೋಡಣೆಯ ಹಲವಾರು ವಿಧಾನಗಳಿವೆ. ಅವುಗಳಲ್ಲಿ ಕೆಲವನ್ನು ಸಂಗ್ರಹಿಸಿ ಮತ್ತು ಚಾರ್ಟ್‌ಗಳನ್ನು ಬರೆದು ವಿವರಿಸಿ.
+--- END NOTE ---
+
+### ಇಲ್ಲಿಯವರೆಗೆ ಚರ್ಚಿಸಿರುವ ಅಂಶಗಳು
+1. ಮೂರುಕೋನಗಳು ಮತ್ತು ಮೂರು ಬಾಹುಗಳು ತ್ರಿಭುಜದ ಆರು ಅಂಶಗಳಾಗಿವೆ.
+2. ತ್ರಿಭುಜದ ಒಂದು ಶೃಂಗ ಮತ್ತು ಅದರ ಅಭಿಮುಖ ಬಾಹುವಿನ ಮಧ್ಯಬಿಂದುವನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವನ್ನು ತ್ರಿಭುಜದ ಮಧ್ಯರೇಖೆ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಒಂದು ತ್ರಿಭುಜವು ಮೂರು ಮಧ್ಯರೇಖೆಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ.
+3. ತ್ರಿಭುಜದ ಒಂದು ಶೃಂಗದಿಂದ ಅದರ ಅಭಿಮುಖ ಬಾಹುವಿಗೆ ಎಳೆದ ಲಂಬ ರೇಖಾಖಂಡವನ್ನು, ತ್ರಿಭುಜದ ಎತ್ತರ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಒಂದು ತ್ರಿಭುಜವು ಮೂರು ಎತ್ತರಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ.
+4. ತ್ರಿಭುಜದ ಒಂದು ಬಾಹುವನ್ನು ವೃದ್ಧಿಸಿದಾಗ ಬಾಹ್ಯಕೋನ ಉಂಟಾಗುತ್ತದೆ. ಪ್ರತಿ ಶೃಂಗದಲ್ಲಿ ನೀವು ಎರಡು ವಿಧಗಳಲ್ಲಿ ಬಾಹ್ಯಕೋನವನ್ನು ಉಂಟುಮಾಡಬಹುದು.
+5. ಬಾಹ್ಯಕೋನಗಳ ಗುಣ: ಒಂದು ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನದ ಅಳತೆಯು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ.
+6. ತ್ರಿಭುಜದ ಕೋನಗಳ ಮೊತ್ತದ ಗುಣ. ತ್ರಿಭುಜದ ಮೂರು ಒಳಕೋನಗಳ ಮೊತ್ತ 180°.
+7. ತ್ರಿಭುಜದ ಪ್ರತಿಯೊಂದು ಬಾಹು ಒಂದೇ ಉದ್ದ ಹೊಂದಿದ್ದರೆ ಅದನ್ನು ಸಮಬಾಹು ತ್ರಿಭುಜ ಎನ್ನುತ್ತಾರೆ. ಸಮಬಾಹು ತ್ರಿಭುಜದಲ್ಲಿ ಪ್ರತಿ ಕೋನದ ಅಳತೆ 60°.
+8. ತ್ರಿಭುಜದಲ್ಲಿ ಕನಿಷ್ಟ ಎರಡು ಬಾಹುಗಳು ಒಂದೇ ಉದ್ದ ಹೊಂದಿದ್ದರೆ ಅದನ್ನು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎನ್ನುತ್ತಾರೆ. ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಅಸಮಬಾಹುವನ್ನು ಅದರ ಪಾದ ಎನ್ನುತ್ತಾರೆ ; ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಪಾದ ಕೋನಗಳ ಅಳತೆ ಸಮವಾಗಿರುತ್ತದೆ.
+9. ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಗುಣ. ತ್ರಿಭುಜದ ಯಾವುದಾದರೂ ಎರಡು ಬಾಹುಗಳ ಮೊತ್ತವು ಮೂರನೇ ಬಾಹುವಿಗಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ತ್ರಿಭುಜದ ಯಾವುದಾದರೂ ಎರಡು ಬಾಹುಗಳ ವ್ಯತ್ಯಾಸವು ಮೂರನೇ ಬಾಹುವಿಗಿಂತ ಕಡಿಮೆ ಇರುತ್ತದೆ. ಮೂರು ಬಾಹುಗಳ ಉದ್ದ ಗೊತ್ತಿದ್ದಾಗ, ತ್ರಿಭುಜ ರಚಿಸಲು ಸಾಧ್ಯವೇ ಎಂಬುದನ್ನು ತಿಳಿಯಲು ಈ ಗುಣ ಉಪಯುಕ್ತವಾಗಿದೆ.
+10. ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ ಲಂಬಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹುವನ್ನು ವಿಕರ್ಣ ಎನ್ನುತ್ತಾರೆ ಮತ್ತು ಉಳಿದೆರಡು ಬಾಹುಗಳನ್ನು ಲಂಬಕೋನವನ್ನೊಳಗೊಂಡ ಬಾಹುಗಳು ಎನ್ನುತ್ತಾರೆ.
+11. ಪೈಥಾಗೊರಸ್ ಗುಣ. ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ ವಿಕರ್ಣದ ಮೇಲಿನ ವರ್ಗ = ಲಂಬಕೋನವನ್ನೊಳಗೊಂಡ ಬಾಹುಗಳ ಮೇಲಿನ ವರ್ಗಗಳ ಮೊತ್ತ. ಲಂಬಕೋನ ತ್ರಿಭುಜವಾಗದಿದ್ದಲ್ಲಿ, ಈ ಗುಣವು ಸರಿಹೊಂದುವುದಿಲ್ಲ. ದತ್ತ ತ್ರಿಭುಜವು ಲಂಬಕೋನ ತ್ರಿಭುಜವೇ ಅಥವಾ ಅಲ್ಲವೇ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸಲು ಈ ಗುಣ ಉಪಯುಕ್ತವಾಗಿದೆ.

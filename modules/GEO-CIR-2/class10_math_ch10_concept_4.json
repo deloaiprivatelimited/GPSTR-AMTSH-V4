@@ -1,0 +1,111 @@
+{
+  "module_id": "class10_math_ch10_concept_4",
+  "module_title": "ಚಕ್ರೀಯ ಚತುರ್ಭುಜ",
+  "class": "10",
+  "chapter": "10",
+  "chapter_title": "ವೃತ್ತಗಳು",
+  "domain": "ರೇಖಾಗಣಿತ",
+  "prerequisites": [
+    "class10_math_ch10_concept_1",
+    "class10_math_ch10_concept_3"
+  ],
+  "theory": {
+    "concept_summary": "ಚಕ್ರೀಯ ಚತುರ್ಭುಜವು ಎಲ್ಲಾ ನಾಲ್ಕು ಶೃಂಗಗಳು ವೃತ್ತದ ಪರಿಧಿಯ ಮೇಲೆ ಇರುವ ಚತುರ್ಭುಜವಾಗಿದೆ. ಇದರ ಪ್ರಮುಖ ಗುಣವೆಂದರೆ ಅಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತವು 180° ಆಗಿರುತ್ತದೆ, ಇದು ವೃತ್ತದ ಕೋನಗಳ ಗುಣಲಕ್ಷಣಗಳಿಂದ ನಿರೂಪಿಸಲ್ಪಟ್ಟಿದೆ.",
+    "definitions": [
+      {
+        "term": "ಚಕ್ರೀಯ ಚತುರ್ಭುಜ (Cyclic Quadrilateral)",
+        "definition": "ಒಂದು ಚತುರ್ಭುಜದ ಎಲ್ಲಾ ನಾಲ್ಕು ಶೃಂಗಗಳು ಒಂದೇ ವೃತ್ತದ ಪರಿಧಿಯ ಮೇಲೆ ಇದ್ದರೆ, ಅದನ್ನು ಚಕ್ರೀಯ ಚತುರ್ಭುಜ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+      }
+    ],
+    "formulas": [],
+    "theorems": [
+      {
+        "theorem_name": "ಪ್ರಮೇಯ 9.10",
+        "statement": "ಚಕ್ರೀಯ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತವು 180° (ಪರಿಪೂರಕಗಳು) ಆಗಿರುತ್ತದೆ.",
+        "proof_sketch": "ಚತುರ್ಭುಜ ABCD ಯ ಶೃಂಗಗಳನ್ನು ಪರಿಗಣಿಸಿ. ಕರ್ಣಗಳನ್ನು ಎಳೆಯಿರಿ. ∠A ಮತ್ತು ∠C ಗಳು ಕ್ರಮವಾಗಿ ಕಂಸ BCD ಮತ್ತು ಕಂಸ DAB ಗಳಿಂದ ಉಂಟಾದ ಕೋನಗಳು. ಕೇಂದ್ರದಲ್ಲಿ ಈ ಕಂಸಗಳು ಉಂಟುಮಾಡುವ ಕೋನಗಳ ಮೊತ್ತ 360°. ಪರಿಧಿಯ ಮೇಲಿನ ಕೋನಗಳು ಕೇಂದ್ರದ ಕೋನಗಳ ಅರ್ಧದಷ್ಟಿರುವುದರಿಂದ, ∠A + ∠C = (1/2) * 360° = 180°.",
+        "converse": "ಪ್ರಮೇಯ 9.11: ಒಂದು ಚತುರ್ಭುಜದಲ್ಲಿ ಒಂದು ಜೊತೆ ಅಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತವು 180° ಆಗಿದ್ದರೆ, ಆ ಚತುರ್ಭುಜವು ಚಕ್ರೀಯವಾಗಿರುತ್ತದೆ.",
+        "special_cases": [],
+        "common_error": ""
+      }
+    ],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "id": "class9_math_ch9_cyclic_quadrilateral",
+        "render_target": "svg_template",
+        "exam_relevance": "MCQ | 2-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "geometric_figure",
+        "concept_latex": "\\angle A + \\angle C = 180^{\\circ}, \\angle B + \\angle D = 180^{\\circ}",
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "purpose": "",
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "class9_math_ch9_example_3",
+      "difficulty": "intermediate",
+      "problem": "ಚಿತ್ರದಲ್ಲಿ ABCD ಒಂದು ಚಕ್ರೀಯ ಚತುರ್ಭುಜ. ಕರ್ಣಗಳು AC ಮತ್ತು BD. ∠DBC = 55° ಮತ್ತು ∠BAC = 45° ಆದರೆ, ∠BCD ಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "∠CAD ಮತ್ತು ∠DBC ಗಳು ಒಂದೇ ವೃತ್ತಖಂಡದ (ಕಂಸ CD ಯಿಂದ ಉಂಟಾದ) ಕೋನಗಳಾಗಿವೆ.",
+          "justification": "ಪ್ರಮೇಯ 9.8 (ಒಂದೇ ವೃತ್ತ ಖಂಡದಲ್ಲಿನ ಕೋನಗಳು ಸಮ)."
+        },
+        {
+          "step": 2,
+          "action": "ಆದ್ದರಿಂದ, ∠CAD = ∠DBC = 55°.",
+          "justification": "ಪ್ರಮೇಯದ ಅನ್ವಯ."
+        },
+        {
+          "step": 3,
+          "action": "∠DAB = ∠CAD + ∠BAC = 55° + 45° = 100°.",
+          "justification": "ಕೋನಗಳನ್ನು ಸಂಕಲಿಸುವುದು."
+        },
+        {
+          "step": 4,
+          "action": "ABCD ಒಂದು ಚಕ್ರೀಯ ಚತುರ್ಭುಜವಾಗಿರುವುದರಿಂದ, ಅದರ ಅಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತ 180°.",
+          "justification": "ಪ್ರಮೇಯ 9.10."
+        },
+        {
+          "step": 5,
+          "action": "∠DAB + ∠BCD = 180°. ಅಂದರೆ, 100° + ∠BCD = 180°.",
+          "justification": "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸುವುದು."
+        },
+        {
+          "step": 6,
+          "action": "∠BCD = 180° - 100° = 80°.",
+          "justification": "ಕೋನದ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+        }
+      ],
+      "result": "∠BCD ಯ ಅಳತೆಯು 80° ಆಗಿದೆ.",
+      "common_trap": "ಎಲ್ಲಾ ಚತುರ್ಭುಜಗಳು ಚಕ್ರೀಯವಲ್ಲ. ಪ್ರಮೇಯವು ಕೇವಲ ಚಕ್ರೀಯ ಚತುರ್ಭುಜಗಳಿಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಚಕ್ರೀಯ ಚತುರ್ಭುಜದ ಒಂದು ಕೋನವನ್ನು ನೀಡಿ, ಅದರ ಅಭಿಮುಖ ಕೋನವನ್ನು ಕೇಳುವುದು.",
+    "two_mark_note": "ಚಕ್ರೀಯ ಸಮಾಂತರ ಚತುರ್ಭುಜವು ಒಂದು ಆಯತ ಎಂದು ಸಾಧಿಸಿ.",
+    "five_mark_note": "ಚಕ್ರೀಯ ಚತುರ್ಭುಜದ ಗುಣಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವ ಲೆಕ್ಕಗಳು.",
+    "common_mistakes": [
+      "ಎಲ್ಲಾ ಚತುರ್ಭುಜಗಳು ಚಕ್ರೀಯವಲ್ಲ. ಪ್ರಮೇಯವು ಕೇವಲ ಚಕ್ರೀಯ ಚತುರ್ಭುಜಗಳಿಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "module_id": "ALG-FAC-2_concept_4",
+  "module_title": "ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಅಪವರ್ತಿಸುವಿಕೆ (Factorisation using Standard Identities)",
+  "class": "8",
+  "chapter": "12",
+  "chapter_title": "ಅಪವರ್ತಿಸುವಿಕೆ (Factorisation)",
+  "domain": "ಬೀಜಗಣಿತ (Algebra)",
+  "prerequisites": [
+    "ALG-FAC-2_concept_1",
+    "ALG-FAC-2_concept_2",
+    "ALG-FAC-2_concept_3"
+  ],
+  "theory": {
+    "concept_summary": "ಕೆಲವು ಬೀಜೋಕ್ತಿಗಳು ಪ್ರಮಾಣಿತ ನಿತ್ಯಸಮೀಕರಣಗಳ (standard identities) ವಿಸ್ತರಿತ ರೂಪದಲ್ಲಿರುತ್ತವೆ. ಅಂತಹ ಬೀಜೋಕ್ತಿಗಳನ್ನು ಗುರುತಿಸಿ, ನಿತ್ಯಸಮೀಕರಣದ ಅಪವರ್ತನ ರೂಪವನ್ನು ನೇರವಾಗಿ ಬಳಸಿಕೊಂಡು ಸುಲಭವಾಗಿ ಅಪವರ್ತಿಸಬಹುದು. ಇದು ಮಾದರಿ ಗುರುತಿಸುವಿಕೆ (pattern recognition) ಕೌಶಲ್ಯವನ್ನು ಆಧರಿಸಿದೆ.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "Identity I",
+        "latex": "(a+b)^2 = a^2 + 2ab + b^2",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಪರಿಪೂರ್ಣ ವರ್ಗ ತ್ರಿಪದಗಳನ್ನು (perfect square trinomials) ಅಪವರ್ತಿಸಲು.",
+        "derivation": []
+      },
+      {
+        "formula_name": "Identity II",
+        "latex": "(a-b)^2 = a^2 - 2ab + b^2",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಪರಿಪೂರ್ಣ ವರ್ಗ ತ್ರಿಪದಗಳನ್ನು (perfect square trinomials) ಅಪವರ್ತಿಸಲು.",
+        "derivation": []
+      },
+      {
+        "formula_name": "Identity III",
+        "latex": "a^2 - b^2 = (a+b)(a-b)",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಎರಡು ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸವನ್ನು (difference of two squares) ಅಪವರ್ತಿಸಲು.",
+        "derivation": []
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "ALG-FAC-2_example_5",
+      "difficulty": "basic",
+      "problem": "ಅಪವರ್ತಿಸಿ: $x^2 + 8x + 16$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬೀಜೋಕ್ತಿಯನ್ನು $a^2 + 2ab + b^2$ ರೂಪಕ್ಕೆ ಹೋಲಿಸುವುದು.",
+          "justification": "ಮೊದಲ ಮತ್ತು ಕೊನೆಯ ಪದಗಳು ಪೂರ್ಣ ವರ್ಗಗಳಾಗಿವೆ ($x^2$ ಮತ್ತು $4^2$), ಮತ್ತು ಮಧ್ಯದ ಪದ ಧನಾತ್ಮಕವಾಗಿದೆ. ಇದು ನಿತ್ಯಸಮೀಕರಣ I ರ ರೂಪದಲ್ಲಿರಬಹುದು.",
+          "calculation": "$a^2 = x^2 \\implies a = x$\n$b^2 = 16 = 4^2 \\implies b = 4$"
+        },
+        {
+          "step": 2,
+          "action": "ಮಧ್ಯದ ಪದ $2ab$ ಅನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+          "justification": "ಇದು ನಿತ್ಯಸಮೀಕರಣಕ್ಕೆ ಸರಿಹೊಂದುತ್ತದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು.",
+          "calculation": "$2ab = 2(x)(4) = 8x$. ಇದು ದತ್ತ ಬೀಜೋಕ್ತಿಯ ಮಧ್ಯದ ಪದಕ್ಕೆ ಸಮನಾಗಿದೆ."
+        },
+        {
+          "step": 3,
+          "action": "ನಿತ್ಯಸಮೀಕರಣ I, $(a+b)^2$ ಅನ್ನು ಅನ್ವಯಿಸುವುದು.",
+          "justification": "ಬೀಜೋಕ್ತಿಯು ನಿತ್ಯಸಮೀಕರಣದ ರೂಪದಲ್ಲಿದೆ ಎಂದು ಖಚಿತವಾದ ನಂತರ.",
+          "calculation": "$x^2 + 8x + 16 = (x+4)^2$"
+        }
+      ],
+      "result": "$(x+4)^2$",
+      "common_trap": ""
+    },
+    {
+      "example_id": "ALG-FAC-2_example_6",
+      "difficulty": "basic",
+      "problem": "ಅಪವರ್ತಿಸಿ: $4y^2 - 12y + 9$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬೀಜೋಕ್ತಿಯನ್ನು $a^2 - 2ab + b^2$ ರೂಪಕ್ಕೆ ಹೋಲಿಸುವುದು.",
+          "justification": "ಮೊದಲ ಮತ್ತು ಕೊನೆಯ ಪದಗಳು ಪೂರ್ಣ ವರ್ಗಗಳಾಗಿವೆ ($(2y)^2$ ಮತ್ತು $3^2$), ಮತ್ತು ಮಧ್ಯದ ಪದ ಋಣಾತ್ಮಕವಾಗಿದೆ. ಇದು ನಿತ್ಯಸಮೀಕರಣ II ರ ರೂಪದಲ್ಲಿರಬಹುದು.",
+          "calculation": "$a^2 = 4y^2 = (2y)^2 \\implies a = 2y$\n$b^2 = 9 = 3^2 \\implies b = 3$"
+        },
+        {
+          "step": 2,
+          "action": "ಮಧ್ಯದ ಪದ $2ab$ ಅನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+          "justification": "ಮಾದರಿಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು.",
+          "calculation": "$2ab = 2(2y)(3) = 12y$. ಇದು ದತ್ತ ಬೀಜೋಕ್ತಿಯ ಮಧ್ಯದ ಪದಕ್ಕೆ (ಚಿಹ್ನೆ ಹೊರತುಪಡಿಸಿ) ಸಮನಾಗಿದೆ."
+        },
+        {
+          "step": 3,
+          "action": "ನಿತ್ಯಸಮೀಕರಣ II, $(a-b)^2$ ಅನ್ನು ಅನ್ವಯಿಸುವುದು.",
+          "justification": "ಬೀಜೋಕ್ತಿಯು $a^2 - 2ab + b^2$ ರೂಪದಲ್ಲಿದೆ.",
+          "calculation": "$4y^2 - 12y + 9 = (2y-3)^2$"
+        }
+      ],
+      "result": "$(2y-3)^2$",
+      "common_trap": ""
+    },
+    {
+      "example_id": "ALG-FAC-2_example_7",
+      "difficulty": "basic",
+      "problem": "ಅಪವರ್ತಿಸಿ: $49p^2 - 36$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬೀಜೋಕ್ತಿಯನ್ನು $a^2 - b^2$ ರೂಪಕ್ಕೆ ಹೋಲಿಸುವುದು.",
+          "justification": "ಬೀಜೋಕ್ತಿಯು ಎರಡು ಪದಗಳನ್ನು ಹೊಂದಿದ್ದು, ಎರಡೂ ಪೂರ್ಣ ವರ್ಗಗಳಾಗಿವೆ ಮತ್ತು ಅವುಗಳ ನಡುವೆ ವ್ಯತ್ಯಾಸವಿದೆ.",
+          "calculation": "$a^2 = 49p^2 = (7p)^2 \\implies a = 7p$\n$b^2 = 36 = 6^2 \\implies b = 6$"
+        },
+        {
+          "step": 2,
+          "action": "ನಿತ್ಯಸಮೀಕರಣ III, $(a+b)(a-b)$ ಅನ್ನು ಅನ್ವಯಿಸುವುದು.",
+          "justification": "ಬೀಜೋಕ್ತಿಯು ಎರಡು ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸದ ರೂಪದಲ್ಲಿದೆ.",
+          "calculation": "$49p^2 - 36 = (7p+6)(7p-6)$"
+        }
+      ],
+      "result": "$(7p+6)(7p-6)$",
+      "common_trap": ""
+    },
+    {
+      "example_id": "ALG-FAC-2_example_8",
+      "difficulty": "advanced",
+      "problem": "ಅಪವರ್ತಿಸಿ: $a^2 - 2ab + b^2 - c^2$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಮೊದಲ ಮೂರು ಪದಗಳಲ್ಲಿ ನಿತ್ಯಸಮೀಕರಣ II ಅನ್ನು ಗುರುತಿಸುವುದು.",
+          "justification": "ಮೊದಲ ಮೂರು ಪದಗಳು $(a-b)^2$ ನ ವಿಸ್ತರಿತ ರೂಪವಾಗಿದೆ.",
+          "calculation": "$(a^2 - 2ab + b^2) - c^2 = (a-b)^2 - c^2$"
+        },
+        {
+          "step": 2,
+          "action": "ಈಗ ಬೀಜೋಕ್ತಿಯನ್ನು ಎರಡು ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸ ($X^2 - Y^2$) ರೂಪದಲ್ಲಿ ನೋಡುವುದು.",
+          "justification": "ಇಲ್ಲಿ $X = (a-b)$ ಮತ್ತು $Y = c$. ಇದು ನಿತ್ಯಸಮೀಕರಣ III ರ ಅನ್ವಯಕ್ಕೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.",
+          "calculation": "$X^2 - Y^2 = ((a-b))^2 - c^2$"
+        },
+        {
+          "step": 3,
+          "action": "ನಿತ್ಯಸಮೀಕರಣ III, $(X+Y)(X-Y)$ ಅನ್ನು ಅನ್ವಯಿಸುವುದು.",
+          "justification": "ಅಂತಿಮ ಅಪವರ್ತನ ರೂಪವನ್ನು ಪಡೆಯಲು.",
+          "calculation": "$[(a-b)+c][(a-b)-c] = (a-b+c)(a-b-c)$"
+        }
+      ],
+      "result": "$(a-b+c)(a-b-c)$",
+      "common_trap": ""
+    },
+    {
+      "example_id": "ALG-FAC-2_example_9",
+      "difficulty": "advanced",
+      "problem": "ಅಪವರ್ತಿಸಿ: $m^4 - 256$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬೀಜೋಕ್ತಿಯನ್ನು $a^2 - b^2$ ರೂಪದಲ್ಲಿ ಬರೆಯುವುದು.",
+          "justification": "ಘಾತಗಳನ್ನು ಬಳಸಿ ಇದನ್ನು ಎರಡು ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸವಾಗಿ ನೋಡಬಹುದು.",
+          "calculation": "$m^4 - 256 = (m^2)^2 - (16)^2$"
+        },
+        {
+          "step": 2,
+          "action": "ನಿತ್ಯಸಮೀಕರಣ III ಅನ್ನು ಅನ್ವಯಿಸುವುದು.",
+          "justification": "ಇಲ್ಲಿ $a = m^2$ ಮತ್ತು $b = 16$.",
+          "calculation": "$(m^2 - 16)(m^2 + 16)$"
+        },
+        {
+          "step": 3,
+          "action": "ಅಪವರ್ತನಗಳನ್ನು ಮತ್ತಷ್ಟು ಅಪವರ್ತಿಸಬಹುದೇ ಎಂದು ಪರಿಶೀಲಿಸುವುದು.",
+          "justification": "ಅಪವರ್ತಿಸುವಿಕೆಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಮಾಡಬೇಕು. $(m^2-16)$ ಪದವು ಮತ್ತೆ ಎರಡು ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸವಾಗಿದೆ.",
+          "calculation": "$m^2 - 16 = m^2 - 4^2 = (m-4)(m+4)$"
+        },
+        {
+          "step": 4,
+          "action": "ಅಂತಿಮ ಅಪವರ್ತನಗಳನ್ನು ಒಟ್ಟಾಗಿ ಬರೆಯುವುದು.",
+          "justification": "ಸಂಪೂರ್ಣ ಅಪವರ್ತಿಸಿದ ರೂಪವನ್ನು ಪಡೆಯಲು.",
+          "calculation": "$(m-4)(m+4)(m^2+16)$"
+        }
+      ],
+      "result": "$(m-4)(m+4)(m^2+16)$",
+      "common_trap": "$m^2+16$ ಅನ್ನು ಅಪವರ್ತಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ (ನೈಜ ಸಂಖ್ಯೆಗಳಲ್ಲಿ), ಏಕೆಂದರೆ ಇದು ಎರಡು ವರ್ಗಗಳ ಮೊತ್ತವಾಗಿದೆ, ವ್ಯತ್ಯಾಸವಲ್ಲ."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಒಂದು ಬೀಜೋಕ್ತಿಯು ಯಾವ ನಿತ್ಯಸಮೀಕರಣದ ರೂಪದಲ್ಲಿದೆ ಎಂದು ಗುರುತಿಸಲು ಕೇಳಬಹುದು.",
+    "two_mark_note": "ನೇರವಾಗಿ ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ ಅಪವರ್ತಿಸುವಂತಹ ಪ್ರಶ್ನೆಗಳು.",
+    "five_mark_note": "$m^4-256$ ನಂತಹ ಬಹು-ಹಂತದ ಅಪವರ್ತಿಸುವಿಕೆ ಪ್ರಶ್ನೆಗಳು ಬರಬಹುದು.",
+    "common_mistakes": [
+      "ಬೀಜೋಕ್ತಿಯು ನಿತ್ಯಸಮೀಕರಣದ ರೂಪದಲ್ಲಿದೆಯೇ ಎಂದು ಸರಿಯಾಗಿ ಪರಿಶೀಲಿಸದೆ ಇರುವುದು. ವಿಶೇಷವಾಗಿ ಮಧ್ಯದ ಪದ $2ab$ ಅನ್ನು ತಾಳೆ ನೋಡಲು ಮರೆಯುವುದು.",
+      "$a^2+b^2$ ಅನ್ನು $(a+b)^2$ ಎಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುವುದು."
+    ],
+    "boundary_conditions": [
+      "ಅಪವರ್ತಿಸುವಿಕೆಯನ್ನು ಅರ್ಧಕ್ಕೆ ನಿಲ್ಲಿಸುವುದು. ಉದಾಹರಣೆಗೆ, $m^4-256$ ಅನ್ನು $(m^2-16)(m^2+16)$ ಎಂದು ಬರೆದು ನಿಲ್ಲಿಸುವುದು. ಸಂಪೂರ್ಣ ಅಪವರ್ತಿಸಲಾಗದ ರೂಪಕ್ಕೆ ತರಬೇಕು."
+    ],
+    "connects_to": [
+      "ವರ್ಗ ಸಮೀಕರಣಗಳನ್ನು (quadratic equations) ಪೂರ್ಣವರ್ಗ ಮಾಡುವ ವಿಧಾನದಲ್ಲಿ (completing the square) ಮತ್ತು ಬೀಜಗಣಿತದ ಭಾಗಾಕಾರದಲ್ಲಿ ಇದು ಬಳಕೆಯಾಗುತ್ತದೆ."
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "module_id": "class7_math_ch13_concept_1",
+  "module_title": "ಸಮತಲ ಚಿತ್ರಗಳು ಮತ್ತು ಘನಾಕೃತಿಗಳು",
+  "class": "7",
+  "chapter": "13",
+  "chapter_title": "ಘನಾಕೃತಿಗಳು",
+  "domain": "ರೇಖಾಗಣಿತಿ",
+  "prerequisites": [],
+  "theory": {
+    "concept_summary": "ಸಮತಲ ಚಿತ್ರಗಳು ಕೇವಲ ಎರಡು ಆಯಾಮಗಳನ್ನು ಹೊಂದಿದ್ದರೆ, ಘನಾಕೃತಿಗಳು ಮೂರು ಆಯಾಮಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಘನಾಕೃತಿಗಳು ಮುಖ, ಅಂಚು ಮತ್ತು ಶೃಂಗಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತವೆ. ಈ ಪರಿಕಲ್ಪನೆಯು ಉನ್ನತ ರೇಖಾಗಣಿತದ ಪರಿಕಲ್ಪನೆಗಳಿಗೆ ಅಡಿಪಾಯವಾಗಿದೆ.",
+    "definitions": [
+      {
+        "term": "ಸಮತಲ ಚಿತ್ರಗಳು (2-D ಆಕೃತಿಗಳು)",
+        "definition": "ಕೇವಲ ಎರಡು ಆಯಾಮಗಳನ್ನು (ಉದ್ದ ಮತ್ತು ಅಗಲ) ಹೊಂದಿರುವ ಮತ್ತು ಯಾವುದೇ ದಪ್ಪವನ್ನು ಹೊಂದಿರದ ಆಕೃತಿಗಳು. ಇವುಗಳನ್ನು ಒಂದು ಸಮತಲದ ಮೇಲೆ ಸಂಪೂರ್ಣವಾಗಿ ಚಿತ್ರಿಸಬಹುದು."
+      },
+      {
+        "term": "ಘನಾಕೃತಿಗಳು (3-D ಆಕೃತಿಗಳು)",
+        "definition": "ಮೂರು ಆಯಾಮಗಳನ್ನು (ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರ ಅಥವಾ ಆಳ) ಹೊಂದಿರುವ ಆಕೃತಿಗಳು. ಈ ವಸ್ತುಗಳು ಸ್ಥಳವನ್ನು ಆಕ್ರಮಿಸುತ್ತವೆ."
+      },
+      {
+        "term": "ಮುಖ (Face)",
+        "definition": "ಘನಾಕೃತಿಯ ಸಮತಟ್ಟಾದ ಮೇಲ್ಮೈ."
+      },
+      {
+        "term": "ಅಂಚು (Edge)",
+        "definition": "ಎರಡು ಮುಖಗಳು ಸೇರುವ ರೇಖಾಖಂಡ."
+      },
+      {
+        "term": "ಶೃಂಗ (Vertex)",
+        "definition": "ಮೂರು ಅಥವಾ ಹೆಚ್ಚು ಅಂಚುಗಳು ಸೇರುವ ಮೂಲೆ ಅಥವಾ ಬಿಂದು."
+      }
+    ],
+    "formulas": [],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "table",
+        "id": "class7_math_ch13_solid_properties_table",
+        "render_target": "html_table",
+        "exam_relevance": "MCQ, 2-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": null,
+        "concept_latex": null,
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [],
+        "purpose": "ವಿವಿಧ ಘನಾಕೃತಿಗಳ ಮುಖ, ಅಂಚು ಮತ್ತು ಶೃಂಗಗಳ ಸಂಖ್ಯೆಯನ್ನು ಹೋಲಿಕೆ ಮಾಡುವುದು.",
+        "headers": [
+          "ಘನಾಕೃತಿ",
+          "ಆಕಾರ",
+          "ಮುಖಗಳು (F)",
+          "ಅಂಚುಗಳು (E)",
+          "ಶೃಂಗಗಳು (V)"
+        ],
+        "rows": [
+          [
+            "ಆಯತಘನ",
+            "<img src='cuboid_shape.png' alt='Cuboid' style='height:40px;'>",
+            "6",
+            "12",
+            "8"
+          ],
+          [
+            "ಘನ",
+            "<img src='cube_shape.png' alt='Cube' style='height:40px;'>",
+            "6",
+            "12",
+            "8"
+          ],
+          [
+            "ಚೌಕ ಪಾದದ ಗೋಪುರ (Pyramid)",
+            "<img src='pyramid_shape.png' alt='Pyramid' style='height:40px;'>",
+            "5",
+            "8",
+            "5"
+          ],
+          [
+            "ತ್ರಿಭುಜ ಪಾದದ ಗೋಪುರ (Triangular Pyramid/Tetrahedron)",
+            "<img src='tetrahedron_shape.png' alt='Tetrahedron' style='height:40px;'>",
+            "4",
+            "6",
+            "4"
+          ],
+          [
+            "ಸಿಲಿಂಡರ್ (ಸ್ತಂಭಾಕೃತಿ)",
+            "<img src='cylinder_shape.png' alt='Cylinder' style='height:40px;'>",
+            "3 (2 ಸಮತಲ, 1 ವಕ್ರ)",
+            "2 (ವೃತ್ತಾಕಾರದ)",
+            "0"
+          ],
+          [
+            "ಶಂಕು",
+            "<img src='cone_shape.png' alt='Cone' style='height:40px;'>",
+            "2 (1 ಸಮತಲ, 1 ವಕ್ರ)",
+            "1 (ವೃತ್ತಾಕಾರದ)",
+            "1"
+          ]
+        ],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಒಂದು ನಿರ್ದಿಷ್ಟ ಘನಾಕೃತಿಯ (ಉದಾ: ಶಂಕು) ಶೃಂಗಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು? ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು 3-D ಆಕೃತಿ?",
+    "two_mark_note": "ಆಯತಘನ ಮತ್ತು ಘನದ ಮುಖ, ಅಂಚು ಮತ್ತು ಶೃಂಗಗಳನ್ನು ಹೋಲಿಸಿ.",
+    "five_mark_note": "",
+    "common_mistakes": [
+      "ಸಿಲಿಂಡರ್ ಮತ್ತು ಶಂಕುವಿನ ವಕ್ರ ಮೇಲ್ಮೈಗಳನ್ನು 'ಮುಖ'ಗಳೆಂದು ಮತ್ತು ಅವುಗಳ ವೃತ್ತಾಕಾರದ ಅಂಚುಗಳನ್ನು 'ಅಂಚು'ಗಳೆಂದು ಪರಿಗಣಿಸುವುದು. ಸಿಲಿಂಡರ್‌ಗೆ ಶೃಂಗಗಳಿಲ್ಲ ಎಂಬುದನ್ನು ಗಮನಿಸಬೇಕು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

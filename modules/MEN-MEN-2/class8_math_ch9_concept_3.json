@@ -1,0 +1,142 @@
+{
+  "module_id": "class8_math_ch9_concept_3",
+  "module_title": "ಘನವಸ್ತುಗಳ ಗಾತ್ರ",
+  "class": "8",
+  "chapter": "9",
+  "chapter_title": "ಕ್ಷೇತ್ರಗಣಿತ (Mensuration)",
+  "domain": "ಮಿತಿಮಾಪನ (Mensuration)",
+  "prerequisites": [
+    "class8_math_ch9_concept_2"
+  ],
+  "theory": {
+    "concept_summary": "ಘನವಸ್ತುವಿನ ಗಾತ್ರವು ಅದು ಆಕ್ರಮಿಸುವ ತ್ರಿವಿಮಿತೀಯ ಸ್ಥಳದ ಪ್ರಮಾಣವಾಗಿದ್ದು, ಇದನ್ನು ಘನ ಏಕಮಾನಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ. ಸಾಮರ್ಥ್ಯವು ಒಂದು ಪಾತ್ರೆಯು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ವಸ್ತುವಿನ ಪ್ರಮಾಣವಾಗಿದ್ದು, ಇದನ್ನು ಲೀಟರ್ ಅಥವಾ ಮಿಲಿಲೀಟರ್‌ಗಳಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಲಾಗುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ಗಾತ್ರ (Volume)",
+        "definition": "ಒಂದು ತ್ರಿವಿಮಿತೀಯ (3D) ವಸ್ತುವು ಆಕ್ರಮಿಸುವ ಸ್ಥಳದ ಪ್ರಮಾಣವನ್ನು ಅದರ ಗಾತ್ರ (Volume) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಗಾತ್ರವನ್ನು ಘನ ಏಕಮಾನಗಳಲ್ಲಿ (cubic units) ಅಳೆಯಲಾಗುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ಘನ ಸೆಂಟಿಮೀಟರ್ (cm³) ಅಥವಾ ಘನ ಮೀಟರ್ (m³)."
+      },
+      {
+        "term": "ಸಾಮರ್ಥ್ಯ (Capacity)",
+        "definition": "ಒಂದು ಪಾತ್ರೆಯು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳಬಹುದಾದ ವಸ್ತುವಿನ ಪ್ರಮಾಣವನ್ನು ಅದರ ಸಾಮರ್ಥ್ಯ (Capacity) ಎನ್ನುತ್ತಾರೆ. ಸಾಮರ್ಥ್ಯವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಲೀಟರ್ (L) ಅಥವಾ ಮಿಲಿಲೀಟರ್ (ml) ಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Volume of a Cuboid",
+        "latex": "V = l \\times b \\times h",
+        "condition": "l, b, h ಗಳು ಆಯತ ಘನದ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರ.",
+        "exception": "",
+        "derived_from": "Stacking up the base area 'l x b' to a height 'h'.",
+        "used_in": "Finding the space inside a box, room, or tank."
+      },
+      {
+        "formula_name": "Volume of a Cube",
+        "latex": "V = l^3",
+        "condition": "l ಎಂಬುದು ಚೌಕಘನದ ಬಾಹುವಿನ ಉದ್ದ.",
+        "exception": "",
+        "derived_from": "Special case of a cuboid where l=b=h.",
+        "used_in": "Finding the volume of cubic objects."
+      },
+      {
+        "formula_name": "Volume of a Cylinder",
+        "latex": "V = \\pi r^2 h",
+        "condition": "r ಎಂಬುದು ಸಿಲಿಂಡರ್‌ನ ತಳದ ತ್ರಿಜ್ಯ ಮತ್ತು h ಎಂಬುದು ಅದರ ಎತ್ತರ.",
+        "exception": "",
+        "derived_from": "Stacking up the circular base area 'πr²' to a height 'h'.",
+        "used_in": "Finding the capacity of a cylindrical tank, can, or pipe."
+      },
+      {
+        "formula_name": "General Volume Formula for Prisms/Cylinders",
+        "latex": "V = \\text{Area of Base} \\times \\text{Height}",
+        "condition": "The solid has a uniform cross-section (like cuboids, cubes, cylinders).",
+        "exception": "This does not apply to shapes with a tapering top like cones or pyramids.",
+        "derived_from": "",
+        "used_in": "A unifying principle for calculating volumes of many regular solids."
+      }
+    ],
+    "theorems": [],
+    "properties": [
+      "1 ಮಿಲಿಲೀಟರ್ (ml) = 1 ಘನ ಸೆಂಟಿಮೀಟರ್ (cm³)",
+      "1 ಲೀಟರ್ (L) = 1000 ಮಿಲಿಲೀಟರ್ (ml) = 1000 ಘನ ಸೆಂಟಿಮೀಟರ್ (cm³)",
+      "1 ಘನ ಮೀಟರ್ (m³) = 1000000 ಘನ ಸೆಂಟಿಮೀಟರ್ (cm³) = 1000 ಲೀಟರ್ (L)"
+    ],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class8_math_ch9_example_5",
+      "difficulty": "basic",
+      "problem": "ಒಂದು ಉಗ್ರಾಣವು 60 ಮೀ × 40 ಮೀ × 30 ಮೀ ಅಳತೆಯ ಆಯತಘನಾಕಾರದಲ್ಲಿದೆ. 0.8 ಘ.ಮೀ. ಗಾತ್ರದ ಎಷ್ಟು ಆಯತಘನಾಕಾರದ ಪೆಟ್ಟಿಗೆಗಳನ್ನು ಅದರಲ್ಲಿ ಸಂಗ್ರಹಿಸಬಹುದು?",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಉಗ್ರಾಣದ ಗಾತ್ರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+          "justification": "V_godown = l × b × h = 60 × 40 × 30 = 72000 ಘ.ಮೀ."
+        },
+        {
+          "step": 2,
+          "action": "ಒಂದು ಪೆಟ್ಟಿಗೆಯ ಗಾತ್ರವನ್ನು ಗುರುತಿಸಿ.",
+          "justification": "V_box = 0.8 ಘ.ಮೀ."
+        },
+        {
+          "step": 3,
+          "action": "ಸಂಗ್ರಹಿಸಬಹುದಾದ ಪೆಟ್ಟಿಗೆಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+          "justification": "ಪೆಟ್ಟಿಗೆಗಳ ಸಂಖ್ಯೆ = (ಉಗ್ರಾಣದ ಗಾತ್ರ) / (ಒಂದು ಪೆಟ್ಟಿಗೆಯ ಗಾತ್ರ)"
+        },
+        {
+          "step": 4,
+          "action": "ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+          "justification": "ಸಂಖ್ಯೆ = 72000 / 0.8 = 720000 / 8 = 90000."
+        }
+      ],
+      "result": "ಉಗ್ರಾಣದಲ್ಲಿ 90,000 ಪೆಟ್ಟಿಗೆಗಳನ್ನು ಸಂಗ್ರಹಿಸಬಹುದು.",
+      "common_trap": "ದಶಮಾಂಶ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸುವಾಗ ತಪ್ಪು ಮಾಡುವುದು."
+    },
+    {
+      "example_id": "class8_math_ch9_example_6",
+      "difficulty": "intermediate",
+      "problem": "11 ಸೆಂ.ಮೀ. × 4 ಸೆಂ.ಮೀ. ಅಳತೆಯ ಒಂದು ಆಯತಾಕಾರದ ಕಾಗದದ ಹಾಳೆಯನ್ನು ಮಡಚಿ, ಅದರ ಮೇಲೆ ಮತ್ತೆ ಬರದಂತೆ, 4 ಸೆಂ.ಮೀ. ಎತ್ತರದ ಒಂದು ಸಿಲಿಂಡರ್ ಮಾಡಲಾಗಿದೆ. ಆ ಸಿಲಿಂಡರ್‌ನ ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (π = 22/7 ಎಂದು ಬಳಸಿ)",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಸಿಲಿಂಡರ್‌ನ ಆಯಾಮಗಳನ್ನು ಗುರುತಿಸಿ.",
+          "justification": "ಕಾಗದವನ್ನು 4 ಸೆಂ.ಮೀ. ಅಳತೆಯು ಎತ್ತರವಾಗುವಂತೆ ಮಡಚಲಾಗಿದೆ, ಆದ್ದರಿಂದ ಸಿಲಿಂಡರ್‌ನ ಎತ್ತರ (h) = 4 ಸೆಂ.ಮೀ. ಕಾಗದದ 11 ಸೆಂ.ಮೀ. ಉದ್ದವು ಸಿಲಿಂಡರ್‌ನ ತಳದ ಪರಿಧಿಯಾಗುತ್ತದೆ."
+        },
+        {
+          "step": 2,
+          "action": "ತಳದ ಪರಿಧಿಯನ್ನು ಬಳಸಿ ತ್ರಿಜ್ಯವನ್ನು (r) ಕಂಡುಹಿಡಿಯಿರಿ.",
+          "justification": "ಪರಿಧಿ = 2πr = 11 ಸೆಂ.ಮೀ."
+        },
+        {
+          "step": 3,
+          "action": "r ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿ.",
+          "justification": "2 * (22/7) * r = 11=> r = (11 * 7) / (2 * 22) = 77 / 44 = 7/4 ಸೆಂ.ಮೀ."
+        },
+        {
+          "step": 4,
+          "action": "ಸಿಲಿಂಡರ್‌ನ ಗಾತ್ರದ ಸೂತ್ರವನ್ನು ಬಳಸಿ.",
+          "justification": "V = πr²h"
+        },
+        {
+          "step": 5,
+          "action": "ದತ್ತಾಂಶಗಳನ್ನು ಆದೇಶಿಸಿ ಮತ್ತು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+          "justification": "V = (22/7) * (7/4)² * 4= (22/7) * (49/16) * 4= 22 * (7/16) * 4= 22 * 7 / 4 = 154 / 4 = 38.5 ಘ.ಸೆಂ.ಮೀ."
+        }
+      ],
+      "result": "ಸಿಲಿಂಡರ್‌ನ ಗಾತ್ರ 38.5 ಘ.ಸೆಂ.ಮೀ.",
+      "common_trap": "ಕಾಗದದ ಉದ್ದವನ್ನು (11 ಸೆಂ.ಮೀ.) ನೇರವಾಗಿ ತ್ರಿಜ್ಯವೆಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುವುದು. ಪರಿಧಿಯ ಸೂತ್ರವನ್ನು ಬಳಸಿ ತ್ರಿಜ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಒಂದು ಚೌಕಘನ, ಆಯತ ಘನ ಅಥವಾ ಸಿಲಿಂಡರ್‌ನ ಅಳತೆಗಳನ್ನು ನೀಡಿ ನೇರವಾಗಿ ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೇಳುವುದು. ಅಥವಾ, '1 ಲೀಟರ್ = ಎಷ್ಟು ಘನ ಸೆಂಟಿಮೀಟರ್?' ನಂತಹ ಘಟಕ ಪರಿವರ್ತನೆ ಪ್ರಶ್ನೆಗಳು.",
+    "two_mark_note": "ಗಾತ್ರ ಮತ್ತು ತಳದ ವಿಸ್ತೀರ್ಣವನ್ನು ನೀಡಿ ಎತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೇಳುವುದು.",
+    "five_mark_note": "ಒಂದು ಟ್ಯಾಂಕ್‌ನ ಸಾಮರ್ಥ್ಯವನ್ನು ಲೀಟರ್‌ಗಳಲ್ಲಿ ಕಂಡುಹಿಡಿಯುವುದು, ಅಥವಾ ಒಂದು ದೊಡ್ಡ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಎಷ್ಟು ಸಣ್ಣ ಪೆಟ್ಟಿಗೆಗಳನ್ನು ತುಂಬಿಸಬಹುದು ಎಂಬಂತಹ ಪ್ರಾಯೋಗಿಕ ಲೆಕ್ಕಗಳು.",
+    "common_mistakes": [
+      "ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಗಾತ್ರದ ಸೂತ್ರಗಳನ್ನು ಅದಲುಬದಲು ಮಾಡುವುದು.",
+      "ಏಕಮಾನಗಳನ್ನು ತಪ್ಪಾಗಿ ಬಳಸುವುದು (ಉದಾಹರಣೆಗೆ, ಗಾತ್ರಕ್ಕೆ cm² ಬರೆಯುವುದು)."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

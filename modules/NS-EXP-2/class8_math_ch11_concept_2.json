@@ -1,0 +1,126 @@
+{
+  "module_id": "class8_math_ch11_concept_2",
+  "module_title": "ಘಾತಾಂಕಗಳ ನಿಯಮಗಳು",
+  "class": "8",
+  "chapter": "11",
+  "chapter_title": "ಘಾತಾಂಕಗಳು ಮತ್ತು ಘಾತಗಳು",
+  "domain": "ಬೀಜಗಣಿತ",
+  "prerequisites": [
+    "class8_math_ch11_concept_1"
+  ],
+  "theory": {
+    "concept_summary": "ಘಾತಾಂಕಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಸರಳಗೊಳಿಸಲು ಕೆಲವು ನಿಯಮಗಳಿವೆ. ಈ ನಿಯಮಗಳು ಧನ, ಋಣ ಮತ್ತು ಶೂನ್ಯ ಪೂರ್ಣಾಂಕ ಘಾತಸೂಚಿಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತವೆ.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "ಗುಣಲಬ್ಧ ನಿಯಮ (Product Rule)",
+        "latex": "a^m \\times a^n = a^{m+n}",
+        "condition": "`a` ಸೊನ್ನೆಯಲ್ಲದ ಯಾವುದೇ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ ಮತ್ತು `m`, `n` ಪೂರ್ಣಾಂಕಗಳಾಗಿವೆ.",
+        "exception": "ಈ ನಿಯಮವು ವಿಭಿನ್ನ ಆಧಾರಗಳಿಗೆ ಅನ್ವಯಿಸುವುದಿಲ್ಲ. ಉದಾ: 2³ × 3⁴ ≠ 6⁷.",
+        "derived_from": null,
+        "used_in": "ಒಂದೇ ಆಧಾರವನ್ನು ಹೊಂದಿರುವ ಘಾತಾಂಕಗಳನ್ನು ಗುಣಿಸುವಾಗ"
+      },
+      {
+        "formula_name": "ಭಾಗಲಬ್ಧ ನಿಯಮ (Quotient Rule)",
+        "latex": "\\frac{a^m}{a^n} = a^{m-n}",
+        "condition": "`a ≠ 0` ಮತ್ತು `m`, `n` ಪೂರ್ಣಾಂಕಗಳಾಗಿವೆ.",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಒಂದೇ ಆಧಾರವನ್ನು ಹೊಂದಿರುವ ಘಾತಾಂಕಗಳನ್ನು ಭಾಗಿಸುವಾಗ"
+      },
+      {
+        "formula_name": "ಘಾತದ ಘಾತ ನಿಯಮ (Power of a Power Rule)",
+        "latex": "(a^m)^n = a^{m \\times n}",
+        "condition": "`a` ಸೊನ್ನೆಯಲ್ಲದ ಯಾವುದೇ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ ಮತ್ತು `m`, `n` ಪೂರ್ಣಾಂಕಗಳಾಗಿವೆ.",
+        "exception": "(a^m)^n ಮತ್ತು a^m \\times n ಅನ್ನು ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುವುದು.",
+        "derived_from": null,
+        "used_in": "ಒಂದು ಘಾತಾಂಕದ ಘಾತವನ್ನು ಕಂಡುಹಿಡಿಯುವಾಗ"
+      },
+      {
+        "formula_name": "ಗುಣಲಬ್ಧದ ಘಾತ ನಿಯಮ (Power of a Product Rule)",
+        "latex": "(a \\times b)^m = a^m \\times b^m",
+        "condition": "`a`, `b` ಸೊನ್ನೆಯಲ್ಲದ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು ಮತ್ತು `m` ಪೂರ್ಣಾಂಕವಾಗಿದೆ.",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಎರಡು ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧದ ಘಾತವನ್ನು ಕಂಡುಹಿಡಿಯುವಾಗ"
+      },
+      {
+        "formula_name": "ಭಾಗಲಬ್ಧದ ಘಾತ ನಿಯಮ (Power of a Quotient Rule)",
+        "latex": "(\\frac{a}{b})^m = \\frac{a^m}{b^m}",
+        "condition": "`a`, `b` ಸೊನ್ನೆಯಲ್ಲದ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು (`b ≠ 0`) ಮತ್ತು `m` ಪೂರ್ಣಾಂಕವಾಗಿದೆ.",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಎರಡು ಸಂಖ್ಯೆಗಳ ಭಾಗಲಬ್ಧದ ಘಾತವನ್ನು ಕಂಡುಹಿಡಿಯುವಾಗ"
+      },
+      {
+        "formula_name": "ಶೂನ್ಯ ಘಾತಾಂಕ (Zero Exponent)",
+        "latex": "a^0 = 1",
+        "condition": "`a ≠ 0`.",
+        "exception": null,
+        "derived_from": "ಭಾಗಲಬ್ಧ ನಿಯಮದಿಂದ: a^m / a^m = a^(m-m) = a^0. ಹಾಗೂ a^m / a^m = 1.",
+        "used_in": "ಸೊನ್ನೆಯಲ್ಲದ ಯಾವುದೇ ಸಂಖ್ಯೆಯ ಘಾತ 0 ಆಗಿದ್ದರೆ ಅದರ ಮೌಲ್ಯವನ್ನು ನಿರ್ಧರಿಸಲು"
+      },
+      {
+        "formula_name": "ಋಣ ಘಾತಾಂಕ (Negative Exponent)",
+        "latex": "a^{-m} = \\frac{1}{a^m}",
+        "condition": "`a ≠ 0` ಮತ್ತು `m` ಧನ ಪೂರ್ಣಾಂಕವಾಗಿದೆ.",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ಒಂದು ಸಂಖ್ಯೆಯ ಋಣ ಘಾತವನ್ನು ಧನ ಘಾತಕ್ಕೆ ಪರಿವರ್ತಿಸಲು"
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class8_math_ch11_example_2",
+      "difficulty": "intermediate",
+      "problem": "ಸಂಕ್ಷೇಪಿಸಿ: $\\frac{12^4 \\times 9^3 \\times 4}{6^3 \\times 8^2 \\times 27}$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಎಲ್ಲಾ ಆಧಾರ ಸಂಖ್ಯೆಗಳನ್ನು ಅವುಗಳ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳ ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ.",
+          "justification": "12 = 2² × 3, 9 = 3², 4 = 2², 6 = 2 × 3, 8 = 2³, 27 = 3³."
+        },
+        {
+          "step": 2,
+          "action": "ಈ ಅಪವರ್ತನಗಳನ್ನು ಮೂಲ ಸಮೀಕರಣದಲ್ಲಿ ಆದೇಶಿಸಿ.",
+          "justification": "$\\frac{(2^2 \\times 3)^4 \\times (3^2)^3 \\times 2^2}{(2 \\times 3)^3 \\times (2^3)^2 \\times 3^3}$"
+        },
+        {
+          "step": 3,
+          "action": "ಘಾತದ ಘಾತ ನಿಯಮ `(a^m)^n = a^{mn}` ಮತ್ತು ಗುಣಲಬ್ಧದ ಘಾತ ನಿಯಮ `(ab)^m = a^m b^m` ಬಳಸಿ.",
+          "justification": "$\\frac{(2^{2 \\times 4} \\times 3^4) \\times 3^{2 \\times 3} \\times 2^2}{(2^3 \\times 3^3) \\times 2^{3 \\times 2} \\times 3^3} = \\frac{2^8 \\times 3^4 \\times 3^6 \\times 2^2}{2^3 \\times 3^3 \\times 2^6 \\times 3^3}$"
+        },
+        {
+          "step": 4,
+          "action": "ಅಂಶ ಮತ್ತು ಛೇದದಲ್ಲಿ ಒಂದೇ ಆಧಾರಗಳ ಘಾತಗಳನ್ನು ಕೂಡಲು ಗುಣಲಬ್ಧ ನಿಯಮ `a^m \\times a^n = a^{m+n}` ಬಳಸಿ.",
+          "justification": "$\\frac{2^{8+2} \\times 3^{4+6}}{2^{3+6} \\times 3^{3+3}} = \\frac{2^{10} \\times 3^{10}}{2^9 \\times 3^6}$"
+        },
+        {
+          "step": 5,
+          "action": "ಭಾಗಲಬ್ಧ ನಿಯಮ `a^m / a^n = a^{m-n}` ಬಳಸಿ.",
+          "justification": "$2^{10-9} \\times 3^{10-6} = 2^1 \\times 3^4$"
+        },
+        {
+          "step": 6,
+          "action": "ಅಂತಿಮ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+          "justification": "2 × 81 = 162"
+        }
+      ],
+      "result": "162",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "(-4)⁵ × (-4)⁻¹⁰ ರ ಮೌಲ್ಯವೇನು? (A) (-4)⁻⁵ (B) (-4)⁵ (C) 4⁵ (D) 4⁻⁵.",
+    "two_mark_note": "(3⁰ + 4⁻¹) × 2² ರ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "five_mark_note": "ಮೇಲಿನ ಕ್ರಮಬದ್ಧ ಉದಾಹರಣೆಯಂತಹ ಸಂಕೀರ್ಣ ಸಂಕ್ಷೇಪಣೆಯ ಪ್ರಶ್ನೆಗಳು.",
+    "common_mistakes": [],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

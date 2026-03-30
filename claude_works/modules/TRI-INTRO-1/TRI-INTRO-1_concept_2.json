@@ -1,0 +1,157 @@
+{
+  "module_id": "TRI-INTRO-1_concept_2",
+  "module_title": "ನಿರ್ದಿಷ್ಟ ಕೋನಗಳ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳು",
+  "class": "10",
+  "chapter": "8",
+  "chapter_title": "ತ್ರಿಕೋನಮಿತಿಯ ಪ್ರಸ್ತಾವನೆ",
+  "domain": "ತ್ರಿಕೋನಮಿತಿ (Trigonometry)",
+  "prerequisites": [
+    "TRI-INTRO-1_concept_1"
+  ],
+  "theory": {
+    "concept_summary": "ರೇಖಾಗಣಿತದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸುವ 0°, 30°, 45°, 60°, ಮತ್ತು 90° ಕೋನಗಳಿಗೆ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳ ನಿಖರವಾದ ಮೌಲ್ಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಈ ಮೌಲ್ಯಗಳು ಅನೇಕ ಪ್ರಾಯೋಗಿಕ ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ ಬಹಳ ಉಪಯುಕ್ತವಾಗಿವೆ.",
+    "definitions": [],
+    "formulas": [],
+    "theorems": [
+      {
+        "theorem_name": "45° ಕೋನದ ಅನುಪಾತಗಳ ನಿಷ್ಪತ್ತಿ",
+        "statement": "45° ಕೋನಕ್ಕೆ $\\sin 45^\\circ = \\frac{1}{\\sqrt{2}}, \\cos 45^\\circ = \\frac{1}{\\sqrt{2}}, \\tan 45^\\circ = 1$.",
+        "proof": "1. ಒಂದು ಲಂಬಕೋನ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABC ಯನ್ನು ಪರಿಗಣಿಸಿ, $\\angle B = 90^\\circ$.\n2. ಆಗ $\\angle A = \\angle C = 45^\\circ$ ಮತ್ತು $AB = BC$.\n3. $AB = BC = a$ ಆಗಿರಲಿ.\n4. ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ, $AC^2 = AB^2 + BC^2 = a^2 + a^2 = 2a^2 \\implies AC = a\\sqrt{2}$.\n5. ಅನುಪಾತಗಳ ವ್ಯಾಖ್ಯಾನದಂತೆ:\n$\\sin 45^\\circ = \\frac{BC}{AC} = \\frac{a}{a\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$\n$\\cos 45^\\circ = \\frac{AB}{AC} = \\frac{a}{a\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$\n$\\tan 45^\\circ = \\frac{BC}{AB} = \\frac{a}{a} = 1$",
+        "converse": "",
+        "special_cases": [],
+        "common_error": ""
+      },
+      {
+        "theorem_name": "30° ಮತ್ತು 60° ಕೋನಗಳ ಅನುಪಾತಗಳ ನಿಷ್ಪತ್ತಿ",
+        "statement": "30° ಮತ್ತು 60° ಕೋನಗಳಿಗೆ ಅನುಪಾತಗಳನ್ನು ಸಮಬಾಹು ತ್ರಿಭುಜದಿಂದ ಪಡೆಯಬಹುದು.",
+        "proof": "1. ಒಂದು ಸಮಬಾಹು ತ್ರಿಭುಜ ABC ಯನ್ನು ಪರಿಗಣಿಸಿ. $\\angle A = \\angle B = \\angle C = 60^\\circ$.\n2. ಬಾಹುವಿನ ಉದ್ದ $AB = BC = CA = 2a$ ಆಗಿರಲಿ.\n3. A ಯಿಂದ BC ಗೆ AD ಲಂಬವನ್ನು ಎಳೆಯಿರಿ. ಆಗ D ಯು BC ಯ ಮಧ್ಯಬಿಂದು.\n4. $BD = a$ ಮತ್ತು $\\angle BAD = 30^\\circ$.\n5. ಲಂಬಕೋನ ತ್ರಿಭುಜ ABD ಯಲ್ಲಿ, $AD^2 = AB^2 - BD^2 = (2a)^2 - a^2 = 3a^2 \\implies AD = a\\sqrt{3}$.\n6. ಈಗ, ΔABD ಯಲ್ಲಿ ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಿ:\n**For 60° (using $\\angle B$):**\n$\\sin 60^\\circ = \\frac{AD}{AB} = \\frac{a\\sqrt{3}}{2a} = \\frac{\\sqrt{3}}{2}$\n$\\cos 60^\\circ = \\frac{BD}{AB} = \\frac{a}{2a} = \\frac{1}{2}$\n$\\tan 60^\\circ = \\frac{AD}{BD} = \\frac{a\\sqrt{3}}{a} = \\sqrt{3}$\n**For 30° (using $\\angle BAD$):**\n$\\sin 30^\\circ = \\frac{BD}{AB} = \\frac{a}{2a} = \\frac{1}{2}$\n$\\cos 30^\\circ = \\frac{AD}{AB} = \\frac{a\\sqrt{3}}{2a} = \\frac{\\sqrt{3}}{2}$\n$\\tan 30^\\circ = \\frac{BD}{AD} = \\frac{a}{a\\sqrt{3}} = \\frac{1}{\\sqrt{3}}$",
+        "converse": "",
+        "special_cases": [],
+        "common_error": ""
+      }
+    ],
+    "properties": [
+      "0° ಮತ್ತು 90° ಅನುಪಾತಗಳು: ಇವುಗಳನ್ನು ಕೋನವು 0° ಅಥವಾ 90° ಗೆ ಸಮೀಪಿಸಿದಾಗ ಆಗುವ ಸೀಮಿತ ಮೌಲ್ಯಗಳಾಗಿ (limiting values) ವ್ಯಾಖ್ಯಾನಿಸಲಾಗುತ್ತದೆ.\n- $\\sin 0^\\circ = 0, \\cos 0^\\circ = 1, \\tan 0^\\circ = 0$.\n- $\\sin 90^\\circ = 1, \\cos 90^\\circ = 0, \\tan 90^\\circ$ ವ್ಯಾಖ್ಯಾನಿಸಿಲ್ಲ (Not Defined).",
+      "ಬೆಲೆಗಳ ಬದಲಾವಣೆ: ಕೋನ $\\theta$ ವು 0° ರಿಂದ 90° ಗೆ ಹೆಚ್ಚಾದಂತೆ:\n- $\\sin \\theta$ ದ ಬೆಲೆಯು 0 ರಿಂದ 1 ಕ್ಕೆ ಹೆಚ್ಚಾಗುತ್ತದೆ.\n- $\\cos \\theta$ ದ ಬೆಲೆಯು 1 ರಿಂದ 0 ಕ್ಕೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+    ],
+    "visual_aids": [
+      {
+        "type": "table",
+        "description": "0°, 30°, 45°, 60°, ಮತ್ತು 90° ಕೋನಗಳಿಗೆ ಎಲ್ಲಾ ಆರು ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳ ಮೌಲ್ಯಗಳನ್ನು ತೋರಿಸುವ ಕೋಷ್ಟಕ.",
+        "labels": "ಕೋನಗಳು: 0°, 30°, 45°, 60°, 90°. ಅನುಪಾತಗಳು: sin, cos, tan, cosec, sec, cot.",
+        "mathematical_significance": "ಲೆಕ್ಕಾಚಾರಗಳಿಗೆ ಬೇಕಾದ ಪ್ರಮಾಣಿತ ಮೌಲ್ಯಗಳ ಒಂದು ಪ್ರಮುಖ ಉಲ್ಲೇಖ ಸಾಧನ. (ಕೋಷ್ಟಕ 8.1)",
+        "table_data": "| $\\angle A$ | 0° | 30° | 45° | 60° | 90° |\n|---|---|---|---|---|---|\n| sin A | 0 | $\\frac{1}{2}$ | $\\frac{1}{\\sqrt{2}}$ | $\\frac{\\sqrt{3}}{2}$ | 1 |\n| cos A | 1 | $\\frac{\\sqrt{3}}{2}$ | $\\frac{1}{\\sqrt{2}}$ | $\\frac{1}{2}$ | 0 |\n| tan A | 0 | $\\frac{1}{\\sqrt{3}}$ | 1 | $\\sqrt{3}$ | N.D |\n| cosec A | N.D | 2 | $\\sqrt{2}$ | $\\frac{2}{\\sqrt{3}}$ | 1 |\n| sec A | 1 | $\\frac{2}{\\sqrt{3}}$ | $\\sqrt{2}$ | 2 | N.D |\n| cot A | N.D | $\\sqrt{3}$ | 1 | $\\frac{1}{\\sqrt{3}}$ | 0 |\n*N.D = Not Defined (ವ್ಯಾಖ್ಯಾನಿಸಿಲ್ಲ)"
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "TRI-INTRO-1_example_6",
+      "difficulty": "basic",
+      "problem": "ΔABC ಯಲ್ಲಿ, B ಶೃಂಗದಲ್ಲಿ ಲಂಬಕೋನ ಏರ್ಪಟ್ಟಿದೆ. AB = 5 cm ಮತ್ತು $\\angle ACB = 30^\\circ$. BC ಮತ್ತು AC ಬಾಹುಗಳ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "BC ಯ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸೂಕ್ತ ಅನುಪಾತವನ್ನು ಬಳಸುವುದು.",
+          "justification": "ದತ್ತ ಕೋನ $\\angle C$ ಗೆ, AB ಅಭಿಮುಖ ಬಾಹು ಮತ್ತು BC ಪಾರ್ಶ್ವ ಬಾಹು. ಆದ್ದರಿಂದ `tan` ಅನುಪಾತವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+          "calculation": "$\\tan C = \\frac{AB}{BC} \\implies \\tan 30^\\circ = \\frac{5}{BC}$"
+        },
+        {
+          "step": 2,
+          "action": "$\\tan 30^\\circ$ ಬೆಲೆಯನ್ನು ಆದೇಶಿಸಿ BC ಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "$\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$",
+          "calculation": "$\\frac{1}{\\sqrt{3}} = \\frac{5}{BC} \\implies BC = 5\\sqrt{3}$ cm."
+        },
+        {
+          "step": 3,
+          "action": "AC ಯ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸೂಕ್ತ ಅನುಪಾತವನ್ನು ಬಳಸುವುದು.",
+          "justification": "ದತ್ತ ಕೋನ $\\angle C$ ಗೆ, AB ಅಭಿಮುಖ ಬಾಹು ಮತ್ತು AC ವಿಕರ್ಣ. ಆದ್ದರಿಂದ `sin` ಅನುಪಾತವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+          "calculation": "$\\sin C = \\frac{AB}{AC} \\implies \\sin 30^\\circ = \\frac{5}{AC}$"
+        },
+        {
+          "step": 4,
+          "action": "$\\sin 30^\\circ$ ಬೆಲೆಯನ್ನು ಆದೇಶಿಸಿ AC ಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "$\\sin 30^\\circ = \\frac{1}{2}$",
+          "calculation": "$\\frac{1}{2} = \\frac{5}{AC} \\implies AC = 10$ cm."
+        }
+      ],
+      "result": "$BC = 5\\sqrt{3}$ cm ಮತ್ತು $AC = 10$ cm.",
+      "common_trap": "ಪರ್ಯಾಯವಾಗಿ, BC ಯನ್ನು ಕಂಡುಕೊಂಡ ನಂತರ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಬಳಸಿ AC ಯನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು."
+    },
+    {
+      "example_id": "TRI-INTRO-1_example_7",
+      "difficulty": "intermediate",
+      "problem": "ΔPQR ನಲ್ಲಿ, $\\angle Q = 90^\\circ$, PQ = 3 cm ಮತ್ತು PR = 6 cm. $\\angle QPR$ ಮತ್ತು $\\angle PRQ$ ಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತ ಬಾಹುಗಳನ್ನು ಬಳಸಿ ಒಂದು ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "$\\angle R$ ಗೆ, PQ ಅಭಿಮುಖ ಬಾಹು ಮತ್ತು PR ವಿಕರ್ಣ. ಆದ್ದರಿಂದ `sin` ಅನುಪಾತವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+          "calculation": "$\\sin R = \\frac{PQ}{PR} = \\frac{3}{6} = \\frac{1}{2}$"
+        },
+        {
+          "step": 2,
+          "action": "ಅನುಪಾತದ ಬೆಲೆಯಿಂದ ಕೋನವನ್ನು ಗುರುತಿಸುವುದು.",
+          "justification": "$\\sin 30^\\circ = \\frac{1}{2}$ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ.",
+          "calculation": "$\\sin R = \\frac{1}{2}$ ಆದ್ದರಿಂದ, $\\angle R = 30^\\circ$. ಅಂದರೆ, $\\angle PRQ = 30^\\circ$."
+        },
+        {
+          "step": 3,
+          "action": "ತ್ರಿಭುಜದ ಕೋನಗಳ ಮೊತ್ತದ ಗುಣವನ್ನು ಬಳಸಿ ಇನ್ನೊಂದು ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ತ್ರಿಭುಜದ ಮೂರು ಕೋನಗಳ ಮೊತ್ತ 180°.",
+          "calculation": "$\\angle P + \\angle Q + \\angle R = 180^\\circ \\implies \\angle P + 90^\\circ + 30^\\circ = 180^\\circ \\implies \\angle P = 180^\\circ - 120^\\circ = 60^\\circ$."
+        }
+      ],
+      "result": "$\\angle QPR = 60^\\circ$ ಮತ್ತು $\\angle PRQ = 30^\\circ$.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "TRI-INTRO-1_example_8",
+      "difficulty": "intermediate",
+      "problem": "$\\sin (A - B) = \\frac{1}{2}$, $\\cos (A + B) = \\frac{1}{2}$, $0^\\circ < A + B \\le 90^\\circ$, $A > B$ ಆಗಿದ್ದರೆ, A ಮತ್ತು B ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಮೊದಲ ಸಮೀಕರಣವನ್ನು ಬಳಸಿ $A-B$ ಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "$\\sin 30^\\circ = \\frac{1}{2}$ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ.",
+          "calculation": "$\\sin (A - B) = \\frac{1}{2} \\implies A - B = 30^\\circ$ ... (1)"
+        },
+        {
+          "step": 2,
+          "action": "ಎರಡನೇ ಸಮೀಕರಣವನ್ನು ಬಳಸಿ $A+B$ ಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "$\\cos 60^\\circ = \\frac{1}{2}$ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ.",
+          "calculation": "$\\cos (A + B) = \\frac{1}{2} \\implies A + B = 60^\\circ$ ... (2)"
+        },
+        {
+          "step": 3,
+          "action": "ಎರಡು ಏಕಕಾಲಿಕ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸುವುದು.",
+          "justification": "ಸಮೀಕರಣ (1) ಮತ್ತು (2) ನ್ನು ಕೂಡಿಸುವುದರಿಂದ B ಯು ರದ್ದಾಗುತ್ತದೆ.",
+          "calculation": "$(A - B) + (A + B) = 30^\\circ + 60^\\circ$\n$2A = 90^\\circ \\implies A = 45^\\circ$"
+        },
+        {
+          "step": 4,
+          "action": "A ಯ ಬೆಲೆಯನ್ನು ಯಾವುದಾದರೂ ಒಂದು ಸಮೀಕರಣದಲ್ಲಿ ಆದೇಶಿಸಿ B ಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "A ಯ ಬೆಲೆ ಈಗ ತಿಳಿದಿದೆ.",
+          "calculation": "$A + B = 60^\\circ \\implies 45^\\circ + B = 60^\\circ \\implies B = 15^\\circ$"
+        }
+      ],
+      "result": "$A = 45^\\circ$ ಮತ್ತು $B = 15^\\circ$.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ನೇರವಾಗಿ ಒಂದು ಅನುಪಾತದ ಬೆಲೆ ಕೇಳುವುದು (ಉದಾ. $\\tan 60^\\circ$ ಎಷ್ಟು?) ಅಥವಾ ಒಂದು ಅಭಿವ್ಯಕ್ತಿಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಲು ಕೇಳುವುದು (ಉದಾ. $\\sin 30^\\circ + \\cos 60^\\circ$).",
+    "two_mark_note": "ಉದಾಹರಣೆ 8 ರ ಮಾದರಿಯ ಪ್ರಶ್ನೆಗಳು.",
+    "five_mark_note": "ಇಲ್ಲ.",
+    "common_mistakes": [
+      "$\\sin(A+B) = \\sin A + \\sin B$ ಎಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುವುದು. ಇದು ತಪ್ಪು."
+    ],
+    "boundary_conditions": [
+      "$\\tan$ ಮತ್ತು $\\cot$ ನ 90° ಮತ್ತು 0° ಮೌಲ್ಯಗಳು ಮತ್ತು $\\sec$ ಮತ್ತು $\\csc$ ನ ಮೌಲ್ಯಗಳು ಏಕೆ 'ವ್ಯಾಖ್ಯಾನಿಸಿಲ್ಲ' (ಛೇದದಲ್ಲಿ ಸೊನ್ನೆ ಬರುವುದರಿಂದ) ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಮುಖ್ಯ."
+    ],
+    "connects_to": [
+      "ಈ ಮೌಲ್ಯಗಳನ್ನು ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಪರಿಶೀಲಿಸಲು ಮತ್ತು ಎತ್ತರ ಮತ್ತು ದೂರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ."
+    ]
+  }
+}

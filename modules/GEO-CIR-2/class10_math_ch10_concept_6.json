@@ -1,0 +1,78 @@
+{
+  "module_id": "class10_math_ch10_concept_6",
+  "module_title": "ಸ್ಪರ್ಶಕಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಪ್ರಮೇಯಗಳು",
+  "class": "10",
+  "chapter": "10",
+  "chapter_title": "ವೃತ್ತಗಳು",
+  "domain": "ರೇಖಾಗಣಿತ",
+  "prerequisites": [
+    "class10_math_ch10_concept_1",
+    "class10_math_ch10_concept_5"
+  ],
+  "theory": {
+    "concept_summary": "ವ್ಯಾಸದ ಅಂತ್ಯಗಳಲ್ಲಿ ಎಳೆದ ಸ್ಪರ್ಶಕಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ. ಬಾಹ್ಯ ಬಿಂದುವಿನಿಂದ ಎಳೆದ ಸ್ಪರ್ಶಕಗಳ ನಡುವಿನ ಕೋನ ಮತ್ತು ಕೇಂದ್ರದಲ್ಲಿನ ಕೋನಗಳು ಪರಿಪೂರಕಗಳಾಗಿರುತ್ತವೆ. ವೃತ್ತಾವೃತ ಚತುರ್ಭುಜದಲ್ಲಿ, ಅಭಿಮುಖ ಬಾಹುಗಳ ಮೊತ್ತವು ಸಮನಾಗಿರುತ್ತದೆ, ಇದು ಸ್ಪರ್ಶಕಗಳ ಗುಣಲಕ್ಷಣಗಳ ವಿಸ್ತರಣೆಯಾಗಿದೆ.",
+    "definitions": [],
+    "formulas": [],
+    "theorems": [
+      {
+        "theorem_name": "ವ್ಯಾಸದ ಅಂತ್ಯಗಳಲ್ಲಿನ ಸ್ಪರ್ಶಕಗಳು",
+        "statement": "ಒಂದು ವೃತ್ತದ ವ್ಯಾಸದ ಅಂತ್ಯ ಬಿಂದುಗಳಲ್ಲಿ ಎಳೆದ ಸ್ಪರ್ಶಕಗಳು ಪರಸ್ಪರ ಸಮಾಂತರವಾಗಿರುತ್ತವೆ.",
+        "proof_sketch": "PQ ವ್ಯಾಸವಾಗಿರಲಿ. P ಮತ್ತು Q ಗಳಲ್ಲಿ ಕ್ರಮವಾಗಿ AB ಮತ್ತು CD ಸ್ಪರ್ಶಕಗಳನ್ನು ಎಳೆಯಿರಿ. OP ⊥ AB ಮತ್ತು OQ ⊥ CD (ಪ್ರಮೇಯ 10.1). ∠APQ = 90° ಮತ್ತು ∠PQC = 90°. ಇವು ಪರ್ಯಾಯ ಅಂತರ ಕೋನಗಳಾಗಿವೆ. ಪರ್ಯಾಯ ಕೋನಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, ರೇಖೆಗಳು AB || CD ಆಗಿರುತ್ತವೆ.",
+        "converse": "",
+        "special_cases": [],
+        "common_error": ""
+      },
+      {
+        "theorem_name": "ಸ್ಪರ್ಶಕಗಳ ನಡುವಿನ ಕೋನ ಮತ್ತು ಕೇಂದ್ರ ಕೋನ",
+        "statement": "ಬಾಹ್ಯ ಬಿಂದುವಿನಿಂದ ವೃತ್ತಕ್ಕೆ ಎಳೆದ ಎರಡು ಸ್ಪರ್ಶಕಗಳ ನಡುವಿನ ಕೋನ ಮತ್ತು ಸ್ಪರ್ಶ ಬಿಂದುಗಳನ್ನು ಕೇಂದ್ರಕ್ಕೆ ಸೇರಿಸುವ ರೇಖಾಖಂಡಗಳ ನಡುವಿನ ಕೋನಗಳು ಪರಿಪೂರಕಗಳಾಗಿರುತ್ತವೆ (ಮೊತ್ತ 180°).",
+        "proof_sketch": "ಬಾಹ್ಯ ಬಿಂದು P ಯಿಂದ T ಮತ್ತು Q ಸ್ಪರ್ಶ ಬಿಂದುಗಳಿಗೆ ಸ್ಪರ್ಶಕಗಳನ್ನು ಎಳೆಯಲಾಗಿದೆ. O ಕೇಂದ್ರ. ಚತುರ್ಭುಜ OT PQ ನಲ್ಲಿ, ∠OTP = ∠OQP = 90° (ಪ್ರಮೇಯ 10.1). ಚತುರ್ಭುಜದ ಒಳಕೋನಗಳ ಮೊತ್ತ 360°. ಆದ್ದರಿಂದ, ∠TPQ + ∠T OQ = 360° - (90° + 90°) = 180°.",
+        "converse": "",
+        "special_cases": [],
+        "common_error": ""
+      },
+      {
+        "theorem_name": "ವೃತ್ತಾವೃತ ಚತುರ್ಭುಜ (Circumscribed Quadrilateral)",
+        "statement": "ಒಂದು ಚತುರ್ಭುಜವು ವೃತ್ತವನ್ನು ಆವರಿಸಿದ್ದರೆ (ಅದರ ಎಲ್ಲಾ ಬಾಹುಗಳು ವೃತ್ತಕ್ಕೆ ಸ್ಪರ್ಶಕಗಳಾಗಿದ್ದರೆ), ಅದರ ಅಭಿಮುಖ ಬಾಹುಗಳ ಮೊತ್ತವು ಸಮನಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ABCD ಚತುರ್ಭುಜದಲ್ಲಿ AB + CD = AD + BC.",
+        "proof_sketch": "ಚತುರ್ಭುಜ ABCD ಯ ಬಾಹುಗಳು ವೃತ್ತವನ್ನು P, Q, R, S ಬಿಂದುಗಳಲ್ಲಿ ಸ್ಪರ್ಶಿಸಲಿ. ಬಾಹ್ಯ ಬಿಂದುವಿನಿಂದ ಎಳೆದ ಸ್ಪರ್ಶಕಗಳ ಉದ್ದ ಸಮ (ಪ್ರಮೇಯ 10.2). ಆದ್ದರಿಂದ, AP=AS, BP=BQ, CR=CQ, DR=DS. ಈ ನಾಲ್ಕು ಸಮೀಕರಣಗಳನ್ನು ಕೂಡಿಸಿದಾಗ, (AP+BP) + (CR+DR) = (AS+DS) + (BQ+CQ). ಇದು AB + CD = AD + BC ಎಂದು ಸರಳೀಕರಿಸಲ್ಪಡುತ್ತದೆ.",
+        "converse": "",
+        "special_cases": [],
+        "common_error": ""
+      }
+    ],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "id": "class10_math_ch10_circumscribed_quadrilateral",
+        "render_target": "svg_template",
+        "exam_relevance": "2-mark | 5-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "geometric_figure",
+        "concept_latex": "AB + CD = AD + BC",
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [
+          "A, B, C, D",
+          "P, Q, R, S"
+        ],
+        "purpose": "",
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ವೃತ್ತಾವೃತ ಚತುರ್ಭುಜದ ಮೂರು ಬಾಹುಗಳನ್ನು ನೀಡಿ ನಾಲ್ಕನೇ ಬಾಹುವನ್ನು ಕೇಳುವುದು.",
+    "two_mark_note": "ವ್ಯಾಸದ ಅಂತ್ಯಗಳಲ್ಲಿನ ಸ್ಪರ್ಶಕಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ ಎಂದು ಸಾಧಿಸಿ.",
+    "five_mark_note": "ವೃತ್ತಾವೃತ ಚತುರ್ಭುಜದ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಿ.",
+    "common_mistakes": [],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

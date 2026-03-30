@@ -1,0 +1,176 @@
+{
+  "module_id": "NS-RAT-2_concept_4",
+  "module_title": "ವಿಶೇಷ ಪಾತ್ರಗಳು ಮತ್ತು ವಿತರಣಾ ನಿಯಮ",
+  "class": "8",
+  "chapter": "1, 8",
+  "chapter_title": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು (Rational Numbers)",
+  "domain": "ಸಂಖ್ಯಾಗಣಿತ (Number System)",
+  "prerequisites": [
+    "NS-RAT-2_concept_1",
+    "NS-RAT-2_concept_2",
+    "NS-RAT-2_concept_3"
+  ],
+  "theory": {
+    "concept_summary": "ಸಂಖ್ಯಾ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ 0 ಮತ್ತು 1 ರ ವಿಶೇಷ ಪಾತ್ರ, ಹಾಗೂ ಸಂಕಲನ ಮತ್ತು ಗುಣಾಕಾರಗಳನ್ನು ಸಂಬಂಧಿಸುವ ವಿತರಣಾ ನಿಯಮವನ್ನು ಈ ಭಾಗವು ವಿವರಿಸುತ್ತದೆ. ಇವು ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಸರಳೀಕರಿಸಲು ಪ್ರಬಲ ಸಾಧನಗಳಾಗಿವೆ.",
+    "definitions": [
+      {
+        "term": "ಸಂಕಲನದ ಅನನ್ಯತಾಂಶ (Additive Identity)",
+        "definition": "ಸೊನ್ನೆ (0) ಯು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಸಂಕಲನದ ಅನನ್ಯತಾಂಶವಾಗಿದೆ. ಯಾವುದೇ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ 'a' ಗೆ, $a + 0 = 0 + a = a$."
+      },
+      {
+        "term": "ಗುಣಾಕಾರದ ಅನನ್ಯತಾಂಶ (Multiplicative Identity)",
+        "definition": "ಒಂದು (1) ಯು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಗುಣಾಕಾರದ ಅನನ್ಯತಾಂಶವಾಗಿದೆ. ಯಾವುದೇ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ 'a' ಗೆ, $a \\times 1 = 1 \\times a = a$."
+      },
+      {
+        "term": "ಸಂಕಲನದ ವಿಲೋಮ (Additive Inverse)",
+        "definition": "ಯಾವುದೇ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ $\\frac{p}{q}$ ಗೆ, ಅದರ ಸಂಕಲನದ ವಿಲೋಮವು $\\frac{-p}{q}$ ಆಗಿರುತ್ತದೆ, ಏಕೆಂದರೆ $\\frac{p}{q} + \\left(\\frac{-p}{q}\\right) = 0$. 'a' ಯ ಸಂಕಲನದ ವಿಲೋಮ '-a'."
+      },
+      {
+        "term": "ಗುಣಾಕಾರದ ವಿಲೋಮ / ವ್ಯುತ್ಮಮ (Multiplicative Inverse / Reciprocal)",
+        "definition": "ಶೂನ್ಯವಲ್ಲದ ಯಾವುದೇ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ $\\frac{p}{q}$ ಗೆ, ಅದರ ಗುಣಾಕಾರದ ವಿಲೋಮವು $\\frac{q}{p}$ ಆಗಿರುತ್ತದೆ, ಏಕೆಂದರೆ $\\frac{p}{q} \\times \\frac{q}{p} = 1$. 'a' ಯ ವ್ಯುತ್ಮಮ $\\frac{1}{a}$."
+      }
+    ],
+    "formulas": [],
+    "theorems": [],
+    "properties": [
+      "**ವಿತರಣಾ ನಿಯಮ (Distributive Property):** ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳಲ್ಲಿ ಗುಣಾಕಾರವು ಸಂಕಲನದ ಮೇಲೆ ವಿತರಣೀಯವಾಗಿದೆ. ಯಾವುದೇ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು a, b, c ಗಳಿಗೆ:",
+      "$a \\times (b + c) = (a \\times b) + (a \\times c)$",
+      "$a \\times (b - c) = (a \\times b) - (a \\times c)$"
+    ],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "NS-RAT-2_example_4",
+      "difficulty": "intermediate",
+      "problem": "ವಿತರಣಾ ನಿಯಮ ಬಳಸಿ ಸಂಕ್ಷೇಪಿಸಿ: $\\frac{2}{5} \\times \\frac{-3}{7} - \\frac{1}{14} - \\frac{3}{7} \\times \\frac{3}{5}$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಪದಗಳನ್ನು ಮರುಜೋಡಿಸುವುದು.",
+          "justification": "ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ($\\frac{-3}{7}$) ಇರುವ ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ತರಲು ಪರಿವರ್ತನೀಯ ಗುಣವನ್ನು ಬಳಸುವುದು.",
+          "calculation": "$\\frac{2}{5} \\times \\frac{-3}{7} - \\frac{3}{7} \\times \\frac{3}{5} - \\frac{1}{14}$"
+        },
+        {
+          "step": 2,
+          "action": "ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು ಹೊರತೆಗೆಯುವುದು.",
+          "justification": "ವಿತರಣಾ ನಿಯಮವನ್ನು ಹಿಮ್ಮುಖವಾಗಿ ಬಳಸುವುದು. $ab+ac = a(b+c)$. ಇಲ್ಲಿ $a = \\frac{-3}{7}$ (ಗಮನಿಸಿ: $\\frac{-3}{7} \\times \\frac{3}{5}$ ನ್ನು $\\frac{-3}{7} \\times \\frac{3}{5}$ ಎಂದು ಬರೆಯಲಾಗಿದೆ).",
+          "calculation": "$\\frac{-3}{7} \\left(\\frac{2}{5} + \\frac{3}{5}\\right) - \\frac{1}{14}$"
+        },
+        {
+          "step": 3,
+          "action": "ಆವರಣದೊಳಗಿನ ಸಂಕಲನವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು.",
+          "justification": "ಸರಳ ಸಂಕಲನ.",
+          "calculation": "$\\frac{-3}{7} \\left(\\frac{2+3}{5}\\right) - \\frac{1}{14} = \\frac{-3}{7} \\left(\\frac{5}{5}\\right) - \\frac{1}{14} = \\frac{-3}{7} \\times 1 - \\frac{1}{14}$"
+        },
+        {
+          "step": 4,
+          "action": "ಗುಣಾಕಾರ ಮತ್ತು ವ್ಯವಕಲನವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು.",
+          "justification": "ಗುಣಾಕಾರದ ಅನನ್ಯತಾಂಶ ಮತ್ತು ಲ.ಸಾ.ಅ ಬಳಸಿ ವ್ಯವಕಲನ.",
+          "calculation": "$\\frac{-3}{7} - \\frac{1}{14} = \\frac{-6}{14} - \\frac{1}{14} = \\frac{-6-1}{14}$"
+        },
+        {
+          "step": 5,
+          "action": "ಅಂತಿಮ ಉತ್ತರವನ್ನು ಬರೆಯುವುದು.",
+          "justification": "ಸರಳೀಕರಣ.",
+          "calculation": "$\\frac{-7}{14} = \\frac{-1}{2}$"
+        }
+      ],
+      "result": "$\\frac{-1}{2}"
+    },
+    {
+      "example_id": "NS-RAT-2_example_6",
+      "difficulty": "intermediate",
+      "problem": "ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಇದರ ಬೆಲೆ ಕಂಡು ಹಿಡಿಯಿರಿ: $\\frac{3}{7} + \\left(\\frac{-6}{11}\\right) + \\left(\\frac{-8}{21}\\right) + \\left(\\frac{5}{22}\\right)$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಪದಗಳನ್ನು ಮರುಜೋಡಿಸುವುದು.",
+          "justification": "ಸುಲಭವಾಗಿ ಸಂಕಲನ ಮಾಡಲು, ಹೊಂದಾಣಿಕೆಯಾಗುವ ಛೇದಗಳನ್ನು ಹೊಂದಿರುವ ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ತರಲು ಪರಿವರ್ತನೀಯ ಮತ್ತು ಸಹವರ್ತನೀಯ ಗುಣಗಳನ್ನು ಬಳಸುವುದು. (7 ಮತ್ತು 21 ರ ಛೇದಗಳು, 11 ಮತ್ತು 22 ರ ಛೇದಗಳು).",
+          "calculation": "\\left(\\frac{3}{7} + \\frac{-8}{21}\\right) + \\left(\\frac{-6}{11} + \\frac{5}{22}\\right)"
+        },
+        {
+          "step": 2,
+          "action": "ಮೊದಲನೇ ಗುಂಪನ್ನು (ಆವರಣ) ಸರಳೀಕರಿಸುವುದು.",
+          "justification": "7 ಮತ್ತು 21 ರ ಲ.ಸಾ.ಅ (LCM) 21 ಆಗಿದೆ.",
+          "calculation": "\\left(\\frac{3 \\times 3}{7 \\times 3} + \\frac{-8}{21}\\right) = \\left(\\frac{9 + (-8)}{21}\\right) = \\frac{1}{21}"
+        },
+        {
+          "step": 3,
+          "action": "ಎರಡನೇ ಗುಂಪನ್ನು (ಆವರಣ) ಸರಳೀಕರಿಸುವುದು.",
+          "justification": "11 ಮತ್ತು 22 ರ ಲ.ಸಾ.ಅ (LCM) 22 ಆಗಿದೆ.",
+          "calculation": "\\left(\\frac{-6 \\times 2}{11 \\times 2} + \\frac{5}{22}\\right) = \\left(\\frac{-12 + 5}{22}\\right) = \\frac{-7}{22}"
+        },
+        {
+          "step": 4,
+          "action": "ಸರಳೀಕರಿಸಿದ ಪದಗಳನ್ನು ಕೂಡುವುದು.",
+          "justification": "ಈಗ $\\frac{1}{21}$ ಮತ್ತು $\\frac{-7}{22}$ ನ್ನು ಕೂಡಬೇಕು. 21 ಮತ್ತು 22 ರ ಲ.ಸಾ.ಅ 462 ಆಗಿದೆ.",
+          "calculation": "\\frac{1}{21} + \\frac{-7}{22} = \\frac{1 \\times 22}{21 \\times 22} + \\frac{-7 \\times 21}{22 \\times 21} = \\frac{22 - 147}{462}"
+        },
+        {
+          "step": 5,
+          "action": "ಅಂತಿಮ ಉತ್ತರವನ್ನು ಬರೆಯುವುದು.",
+          "justification": "ವ್ಯವಕಲನವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು.",
+          "calculation": "\\frac{-125}{462}"
+        }
+      ],
+      "result": "$\\frac{-125}{462}"
+    },
+    {
+      "example_id": "NS-RAT-2_example_7",
+      "difficulty": "intermediate",
+      "problem": "ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಇದರ ಬೆಲೆ ಕಂಡು ಹಿಡಿಯಿರಿ: $\\frac{-4}{5} \\times \\frac{3}{7} \\times \\frac{15}{16} \\times \\left(\\frac{-14}{9}\\right)$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಪದಗಳನ್ನು ಮರುಜೋಡಿಸುವುದು.",
+          "justification": "ಸುಲಭವಾಗಿ ಗುಣಿಸಲು ಮತ್ತು ಸರಳೀಕರಿಸಲು, ಹೊಂದಾಣಿಕೆಯಾಗುವ ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ತರಲು ಪರಿವರ್ತನೀಯ ಮತ್ತು ಸಹವರ್ತನೀಯ ಗುಣಗಳನ್ನು ಬಳಸುವುದು.",
+          "calculation": "\\left(\\frac{-4}{5} \\times \\frac{15}{16}\\right) \\times \\left(\\frac{3}{7} \\times \\frac{-14}{9}\\right)"
+        },
+        {
+          "step": 2,
+          "action": "ಮೊದಲನೇ ಗುಂಪನ್ನು (ಆವರಣ) ಸರಳೀಕರಿಸುವುದು.",
+          "justification": "ಅಂಶ ಮತ್ತು ಛೇದಗಳಲ್ಲಿ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕ್ಯಾನ್ಸಲ್ ಮಾಡುವುದು. (4 ಮತ್ತು 16; 5 ಮತ್ತು 15).",
+          "calculation": "\\left(\\frac{-4 \\times 15}{5 \\times 16}\\right) = \\left(\\frac{-1 \\times 3}{1 \\times 4}\\right) = \\frac{-3}{4}"
+        },
+        {
+          "step": 3,
+          "action": "ಎರಡನೇ ಗುಂಪನ್ನು (ಆವರಣ) ಸರಳೀಕರಿಸುವುದು.",
+          "justification": "ಅಂಶ ಮತ್ತು ಛೇದಗಳಲ್ಲಿ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕ್ಯಾನ್ಸಲ್ ಮಾಡುವುದು. (3 ಮತ್ತು 9; 7 ಮತ್ತು 14).",
+          "calculation": "\\left(\\frac{3 \\times -14}{7 \\times 9}\\right) = \\left(\\frac{1 \\times -2}{1 \\times 3}\\right) = \\frac{-2}{3}"
+        },
+        {
+          "step": 4,
+          "action": "ಸರಳೀಕರಿಸಿದ ಪದಗಳನ್ನು ಗುಣಿಸುವುದು.",
+          "justification": "ಎರಡು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಗುಣಾಕಾರ.",
+          "calculation": "\\frac{-3}{4} \\times \\frac{-2}{3}"
+        },
+        {
+          "step": 5,
+          "action": "ಅಂತಿಮ ಉತ್ತರವನ್ನು ಬರೆಯುವುದು.",
+          "justification": "ಗುಣಾಕಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ ಸರಳೀಕರಿಸುವುದು. $(-)\\times(-) = (+)$",
+          "calculation": "\\frac{(-3) \\times (-2)}{4 \\times 3} = \\frac{6}{12} = \\frac{1}{2}"
+        }
+      ],
+      "result": "$\\frac{1}{2}"
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "$\\frac{2}{3}$ ರ ಸಂಕಲನದ ವಿಲೋಮ ಯಾವುದು? $\\frac{-5}{7}$ ರ ಗುಣಾಕಾರದ ವಿಲೋಮ ಯಾವುದು? $a(b+c)=ab+ac$ ಯಾವ ನಿಯಮ?",
+    "two_mark_note": "ವಿತರಣಾ ನಿಯಮ ಬಳಸಿ ಸರಳೀಕರಿಸುವ ಲೆಕ್ಕಗಳು.",
+    "five_mark_note": "ಪರಿವರ್ತನೀಯ, ಸಹವರ್ತನೀಯ ಮತ್ತು ವಿತರಣಾ ನಿಯಮಗಳನ್ನು ಸಂಯೋಜಿಸಿ ಸರಳೀಕರಿಸುವ ಸಂಕೀರ್ಣ ಲೆಕ್ಕಗಳು.",
+    "common_mistakes": [
+      "0 ಗೆ ಗುಣಾಕಾರದ ವಿಲೋಮ (ವ್ಯುತ್ಮಮ) ಇಲ್ಲ ಎಂಬುದನ್ನು ಮರೆಯುವುದು.",
+      "ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸುವಾಗ ಚಿಹ್ನೆಗಳಲ್ಲಿ ತಪ್ಪು ಮಾಡುವುದು."
+    ],
+    "boundary_conditions": [
+      "ವಿತರಣಾ ನಿಯಮವು ಸಂಕೀರ್ಣ ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಸುಲಭವಾದ ಹಂತಗಳಾಗಿ ವಿಭಜಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಬೀಜಗಣಿತದಲ್ಲಿ ಆವರಣಗಳನ್ನು ಬಿಡಿಸಲು (expanding brackets) ಮತ್ತು ಅಪವರ್ತಿಸಲು (factorization) ಇದು ಮೂಲಭೂತವಾಗಿದೆ. ಸಂಕಲನದ ಮತ್ತು ಗುಣಾಕಾರದ ವಿಲೋಮಗಳು ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸುವಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತವೆ (ಉದಾ: $x+5=0 \\implies x=-5$)."
+    ],
+    "connects_to": [
+      "ಬೀಜಗಣಿತದ ಅಪವರ್ತಿಸುವಿಕೆ",
+      "ರೇಖೀಯ ಸಮೀಕರಣಗಳ ಪರಿಹಾರ",
+      "ಬಹುಪದೋಕ್ತಿಗಳು (Polynomials)"
+    ]
+  }
+}

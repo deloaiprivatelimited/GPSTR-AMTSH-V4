@@ -1,0 +1,126 @@
+{
+  "module_id": "NS-FRA-1_concept_6",
+  "module_title": "ಭಿನ್ನರಾಶಿಗಳ ಭಾಗಾಕಾರ",
+  "class": "7",
+  "chapter": "2",
+  "chapter_title": "ಭಿನ್ನರಾಶಿಗಳು ಮತ್ತು ದಶಮಾಂಶಗಳು",
+  "domain": "ಸಂಖ್ಯಾ ಪದ್ಧತಿ ಮತ್ತು ಅಂಕಗಣಿತದ ಮೂಲತತ್ವಗಳು",
+  "prerequisites": [
+    "NS-FRA-1_concept_1",
+    "NS-FRA-1_concept_5"
+  ],
+  "theory": {
+    "concept_summary": "ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ಭಿನ್ನರಾಶಿಯಿಂದ ಭಾಗಿಸುವುದು ಎಂದರೆ ಆ ಸಂಖ್ಯೆಯನ್ನು ಭಿನ್ನರಾಶಿಯ ವ್ಯುತ್ಕ್ರಮದಿಂದ (reciprocal) ಗುಣಿಸುವುದು. ವ್ಯುತ್ಕ್ರಮವನ್ನು ಒಂದು ಭಿನ್ನರಾಶಿಯ ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಅದಲು ಬದಲು ಮಾಡುವುದರಿಂದ ಪಡೆಯಲಾಗುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ವ್ಯುತ್ಕ್ರಮ (Reciprocal)",
+        "definition": "ಎರಡು ಶೂನ್ಯವಲ್ಲದ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧ 1 ಆಗಿದ್ದರೆ, ಅವುಗಳನ್ನು ಪರಸ್ಪರ ವ್ಯುತ್ಕ್ರಮಗಳು ಎನ್ನುವರು. $\\frac{a}{b}$ ಯ ವ್ಯುತ್ಕ್ರಮವು $\\frac{b}{a}$ ಆಗಿದೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Division of a fraction by another fraction",
+        "latex": "\\frac{a}{b} \\div \\frac{c}{d} = \\frac{a}{b} \\times \\frac{d}{c}",
+        "condition": "b, c, d ≠ 0",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಒಂದು ವಸ್ತುವಿನಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಗಾತ್ರದ ಎಷ್ಟು ಭಾಗಗಳಿವೆ ಎಂದು ಕಂಡುಹಿಡಿಯಲು.",
+        "derivation": []
+      },
+      {
+        "formula_name": "Division of a whole number by a fraction",
+        "latex": "n \\div \\frac{a}{b} = n \\times \\frac{b}{a}",
+        "condition": "a, b ≠ 0",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Division of a fraction by a whole number",
+        "latex": "\\frac{a}{b} \\div n = \\frac{a}{b} \\times \\frac{1}{n} = \\frac{a}{b \\times n}",
+        "condition": "b, n ≠ 0",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": []
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "NS-FRA-1_example_8",
+      "difficulty": "basic",
+      "problem": "$1 \\div \\frac{1}{2}$ ನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಭಾಗಾಕಾರವನ್ನು ಗುಣಾಕಾರವಾಗಿ ಪರಿವರ್ತಿಸುವುದು.",
+          "justification": "ಒಂದು ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸುವುದು ಅದರ ವ್ಯುತ್ಕ್ರಮದಿಂದ ಗುಣಿಸುವುದಕ್ಕೆ ಸಮ.",
+          "calculation": "$1 \\div \\frac{1}{2} = 1 \\times (\\frac{1}{2} \\text{ ರ ವ್ಯುತ್ಕ್ರಮ})$"
+        },
+        {
+          "step": 2,
+          "action": "$\\frac{1}{2}$ ರ ವ್ಯುತ್ಕ್ರಮವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಅದಲು ಬದಲು ಮಾಡುವುದು.",
+          "calculation": "$\\frac{1}{2}$ ರ ವ್ಯುತ್ಕ್ರಮ $\\frac{2}{1}$ ಅಥವಾ 2."
+        },
+        {
+          "step": 3,
+          "action": "ಗುಣಾಕಾರವನ್ನು ಮಾಡುವುದು.",
+          "calculation": "$1 \\times 2 = 2$"
+        }
+      ],
+      "result": "$1 \\div \\frac{1}{2} = 2$. (ಅಂದರೆ, ಒಂದು ಪೂರ್ಣ ವಸ್ತುವಿನಲ್ಲಿ ಎರಡು ಅರ್ಧ ಭಾಗಗಳಿವೆ)."
+    },
+    {
+      "example_id": "NS-FRA-1_example_9",
+      "difficulty": "intermediate",
+      "problem": "$\\frac{1}{3} \\div \\frac{5}{6}$ ನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಭಾಗಾಕಾರವನ್ನು ಗುಣಾಕಾರವಾಗಿ ಪರಿವರ್ತಿಸುವುದು.",
+          "justification": "ಎರಡನೇ ಭಿನ್ನರಾಶಿಯ ವ್ಯುತ್ಕ್ರಮದಿಂದ ಗುಣಿಸುವುದು.",
+          "calculation": "$\\frac{1}{3} \\div \\frac{5}{6} = \\frac{1}{3} \\times (\\frac{5}{6} \\text{ ರ ವ್ಯುತ್ಕ್ರಮ})$"
+        },
+        {
+          "step": 2,
+          "action": "$\\frac{5}{6}$ ರ ವ್ಯುತ್ಕ್ರಮವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಅದಲು ಬದಲು ಮಾಡುವುದು.",
+          "calculation": "$\\frac{5}{6}$ ರ ವ್ಯುತ್ಕ್ರಮ $\\frac{6}{5}$."
+        },
+        {
+          "step": 3,
+          "action": "ಭಿನ್ನರಾಶಿಗಳನ್ನು ಗುಣಿಸುವುದು.",
+          "calculation": "$\\frac{1}{3} \\times \\frac{6}{5} = \\frac{1 \\times 6}{3 \\times 5} = \\frac{6}{15}$"
+        },
+        {
+          "step": 4,
+          "action": "ಫಲಿತಾಂಶವನ್ನು ಸಂಕ್ಷಿಪ್ತ ರೂಪಕ್ಕೆ ತರುವುದು.",
+          "justification": "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಅವುಗಳ ಮ.ಸಾ.ಅ (3) ದಿಂದ ಭಾಗಿಸುವುದು.",
+          "calculation": "$\\frac{6 \\div 3}{15 \\div 3} = \\frac{2}{5}$"
+        }
+      ],
+      "result": "$\\frac{1}{3} \\div \\frac{5}{6} = \\frac{2}{5}$."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ವ್ಯುತ್ಕ್ರಮವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು, ನೇರ ಭಾಗಾಕಾರದ ಲೆಕ್ಕಗಳು.",
+    "two_mark_note": "ಒಂದು ಮಿಶ್ರ ಭಿನ್ನರಾಶಿಯನ್ನು ಮತ್ತೊಂದು ಭಿನ್ನರಾಶಿಯಿಂದ ಭಾಗಿಸುವ ಲೆಕ್ಕ.",
+    "five_mark_note": "ಅನ್ವಯಿಕ ಪದ ಸಮಸ್ಯೆಗಳು (ಉದಾ: ಒಂದು ದೊಡ್ಡ ರಿಬ್ಬನ್‌ನಿಂದ ನಿರ್ದಿಷ್ಟ ಉದ್ದದ ಎಷ್ಟು ತುಂಡುಗಳನ್ನು ಕತ್ತರಿಸಬಹುದು?).",
+    "common_mistakes": [
+      "ಭಾಗಾಕಾರವನ್ನು ಗುಣಾಕಾರವಾಗಿ ಪರಿವರ್ತಿಸುವಾಗ, ಮೊದಲನೇ ಭಿನ್ನರಾಶಿಯ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು.",
+      "ಪೂರ್ಣ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸಿದಾಗ ಮೌಲ್ಯ ಕಡಿಮೆಯಾಗುತ್ತದೆ, ಆದರೆ 1ಕ್ಕಿಂತ ಚಿಕ್ಕದಾದ ಸಮ ಭಿನ್ನರಾಶಿಯಿಂದ ಭಾಗಿಸಿದಾಗ ಮೌಲ್ಯ ಹೆಚ್ಚಾಗುತ್ತದೆ ಎಂಬ ಅಂಶವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳದಿರುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": [
+      "ಬೀಜಗಣಿತದ rationals ಗಳ ಭಾಗಾಕಾರ",
+      "ಪದ ಸಮಸ್ಯೆಗಳು"
+    ]
+  }
+}

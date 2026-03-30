@@ -1,0 +1,85 @@
+{
+  "module_id": "class8_math_ch7_concept_6",
+  "module_title": "ಚಕ್ರಬಡ್ಡಿ (Compound Interest)",
+  "class": "8",
+  "chapter": "7",
+  "chapter_title": "ಪರಿಮಾಣಗಳ ಹೋಲಿಕೆ (Comparing Quantities)",
+  "domain": "ವಾಣಿಜ್ಯ ಗಣಿತ",
+  "prerequisites": [
+    "class8_math_ch7_concept_1",
+    "class8_math_ch7_concept_2",
+    "class8_math_ch7_concept_3",
+    "class8_math_ch7_concept_4",
+    "class8_math_ch7_concept_5"
+  ],
+  "theory": {
+    "concept_summary": "ಚಕ್ರಬಡ್ಡಿ (CI) ಎಂದರೆ ಪ್ರತಿ ಬಡ್ಡಿ ಅವಧಿಯ ಕೊನೆಯಲ್ಲಿ ಬಡ್ಡಿಯನ್ನು ಅಸಲಿಗೆ ಸೇರಿಸಿ, ಮುಂದಿನ ಅವಧಿಗೆ ಆ ಹೆಚ್ಚಿದ ಮೊತ್ತದ ಮೇಲೆ ಬಡ್ಡಿಯನ್ನು ಲೆಕ್ಕಹಾಕುವುದು. ಇದನ್ನು \"ಬಡ್ಡಿಯ ಮೇಲೆ ಬಡ್ಡಿ\" ಎಂದೂ ಕರೆಯುತ್ತಾರೆ, ಇದು ದೀರ್ಘಾವಧಿಯ ಹೂಡಿಕೆಗಳು ಮತ್ತು ಸಾಲಗಳಲ್ಲಿ ಹಣದ ಬೆಳವಣಿಗೆಯನ್ನು ನಿರ್ಧರಿಸುವಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ಚಕ್ರಬಡ್ಡಿ (Compound Interest - CI)",
+        "definition": "ಪ್ರತಿ ನಿಗದಿತ ಅವಧಿಯ ಕೊನೆಯಲ್ಲಿ ಬಡ್ಡಿಯನ್ನು ಅಸಲಿಗೆ ಸೇರಿಸಿ, ಮುಂದಿನ ಅವಧಿಗೆ ಆ ಹೊಸ ಮೊತ್ತದ ಮೇಲೆ ಬಡ್ಡಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ವಿಧಾನ. ಇಲ್ಲಿ, ಪ್ರತಿ ಬಡ್ಡಿ ಅವಧಿಯ ನಂತರ ಅಸಲು ಹೆಚ್ಚಾಗುತ್ತಾ ಹೋಗುತ್ತದೆ. ಇದನ್ನು \"ಬಡ್ಡಿಯ ಮೇಲೆ ಬಡ್ಡಿ\" ಎಂದೂ ಕರೆಯುತ್ತಾರೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "ಚಕ್ರಬಡ್ಡಿಯಿಂದಾಗುವ ಮೊತ್ತ (Amount in Compound Interest)",
+        "latex": "A = P \\left(1 + \\frac{R}{100}\\right)^n",
+        "condition": "ಬಡ್ಡಿಯನ್ನು ವಾರ್ಷಿಕವಾಗಿ ಸಂಯೋಜಿಸಿದಾಗ. P = ಅಸಲು, R = ವಾರ್ಷಿಕ ಬಡ್ಡಿ ದರ (%), n = ವರ್ಷಗಳ ಸಂಖ್ಯೆ.",
+        "exception": "ಬಡ್ಡಿಯನ್ನು ಅರ್ಧ-ವಾರ್ಷಿಕವಾಗಿ ಅಥವಾ ತ್ರೈಮಾಸಿಕವಾಗಿ ಸಂಯೋಜಿಸಿದಾಗ ಸೂತ್ರ ಬದಲಾಗುತ್ತದೆ.",
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "ಚಕ್ರಬಡ್ಡಿ (Compound Interest)",
+        "latex": "CI = A - P = P \\left[ \\left(1 + \\frac{R}{100}\\right)^n - 1 \\right]",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class8_math_ch7_example_6",
+      "difficulty": "intermediate",
+      "problem": "ವಾರ್ಷಿಕ 10% ಬಡ್ಡಿ ದರದಲ್ಲಿ ಪ್ರತಿವರ್ಷ ಚಕ್ರಬಡ್ಡಿ ಲೆಕ್ಕ ಹಾಕಿದರೆ, ₹12,600 ಗಳಿಗೆ 2 ವರ್ಷಗಳಿಗೆ ಆಗುವ ಚಕ್ರಬಡ್ಡಿ ಮತ್ತು ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸಿ: P, R, ಮತ್ತು n.",
+          "justification": "P = ₹12,600, R = 10%, n = 2 ವರ್ಷಗಳು."
+        },
+        {
+          "step": 2,
+          "action": "ಚಕ್ರಬಡ್ಡಿಯ ಮೊತ್ತದ (A) ಸೂತ್ರವನ್ನು ಬಳಸಿ.",
+          "justification": "A = P(1 + R/100)^n"
+        },
+        {
+          "step": 3,
+          "action": "ಮೊತ್ತವನ್ನು ಲೆಕ್ಕ ಹಾಕಿ.",
+          "justification": "ವರ್ಗವನ್ನು ವಿಸ್ತರಿಸಿ ಮತ್ತು ಗುಣಿಸಿ."
+        },
+        {
+          "step": 4,
+          "action": "ಚಕ್ರಬಡ್ಡಿಯನ್ನು (CI) ಲೆಕ್ಕ ಹಾಕಿ.",
+          "justification": "CI = A - P."
+        }
+      ],
+      "result": "2 ವರ್ಷಗಳ ನಂತರದ ಮೊತ್ತ ₹15,246 ಮತ್ತು ಚಕ್ರಬಡ್ಡಿ ₹2,646.",
+      "common_trap": "ಚಕ್ರಬಡ್ಡಿ ಸೂತ್ರದಲ್ಲಿ 'n' ಘಾತವನ್ನು (power) ಸರಿಯಾಗಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡದಿರುವುದು. ಸರಳ ಬಡ್ಡಿ ಸೂತ್ರವನ್ನು ತಪ್ಪಾಗಿ ಬಳಸುವುದು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಸರಳ ಬಡ್ಡಿ ಮತ್ತು ಚಕ್ರಬಡ್ಡಿ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+    "two_mark_note": "P, R, n ನೀಡಿ, 2 ವರ್ಷಗಳ ಚಕ್ರಬಡ್ಡಿ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೇಳಬಹುದು.",
+    "five_mark_note": "ಸರಳ ಬಡ್ಡಿ ಮತ್ತು ಚಕ್ರಬಡ್ಡಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಒಂದು ನಿರ್ದಿಷ್ಟ ಮೊತ್ತಕ್ಕೆ ಲೆಕ್ಕ ಹಾಕಲು ಕೇಳಬಹುದು.",
+    "common_mistakes": [],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

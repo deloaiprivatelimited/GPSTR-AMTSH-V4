@@ -1,0 +1,87 @@
+{
+  "module_id": "class6_math_ch5_concept_1",
+  "module_title": "ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳು (Common Multiples)",
+  "class": "6",
+  "chapter": "5",
+  "chapter_title": "ಅವಿಭಾಜ್ಯ (PRIME) ಸಮಯ",
+  "domain": "ಸಂಖ್ಯಾ ಸಿದ್ಧಾಂತ (Number Theory)",
+  "prerequisites": [],
+  "theory": {
+    "concept_summary": "ಅಪವರ್ತ್ಯ ಎಂದರೆ ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ಪೂರ್ಣಾಂಕದಿಂದ ಗುಣಿಸಿದಾಗ ಬರುವ ಗುಣಲಬ್ಧ. ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಸಂಖ್ಯೆಗಳ ಅಪವರ್ತ್ಯಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುವ ಸಂಖ್ಯೆಗಳನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳು ಎನ್ನುತ್ತಾರೆ. ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳಲ್ಲಿ ಅತ್ಯಂತ ಚಿಕ್ಕದಾದ ಸಂಖ್ಯೆಯನ್ನು ಕನಿಷ್ಠ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ (LCM) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ಅಪವರ್ತ್ಯ (Multiple)",
+        "definition": "ಒಂದು ನಿರ್ದಿಷ್ಟ ಸಂಖ್ಯೆಯನ್ನು ಯಾವುದೇ ಪೂರ್ಣಾಂಕದಿಂದ ಗುಣಿಸಿದಾಗ ದೊರೆಯುವ ಗುಣಲಬ್ಧವೇ ಆ ಸಂಖ್ಯೆಯ ಅಪವರ್ತ್ಯ. ಉದಾಹರಣೆಗೆ, 3ರ ಅಪವರ್ತ್ಯಗಳು 3, 6, 9, 12, ... ಇತ್ಯಾದಿ."
+      },
+      {
+        "term": "ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ (Common Multiple)",
+        "definition": "ಎರಡು ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಂಖ್ಯೆಗಳ ಅಪವರ್ತ್ಯಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುವ ಸಂಖ್ಯೆಗಳನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳು ಎನ್ನುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, 3 ಮತ್ತು 5ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳು 15, 30, 45, ... ಇತ್ಯಾದಿ."
+      },
+      {
+        "term": "ಕನಿಷ್ಠ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ (Least Common Multiple - LCM)",
+        "definition": "ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳಲ್ಲಿ ಅತ್ಯಂತ ಚಿಕ್ಕದಾದ ಸಂಖ್ಯೆ. 3 ಮತ್ತು 5ರ ಕನಿಷ್ಠ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ 15 ಆಗಿದೆ."
+      }
+    ],
+    "formulas": [],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "id": "class6_math_ch5_common_multiples_venn",
+        "render_target": "plotly",
+        "exam_relevance": "MCQ | 2-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "venn",
+        "concept_latex": "A \\cap B",
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [],
+        "purpose": null,
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "class6_math_ch5_example_1",
+      "difficulty": "basic",
+      "problem": "4 ಮತ್ತು 6ರ ಮೊದಲ ಮೂರು ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "4ರ ಅಪವರ್ತ್ಯಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ.",
+          "justification": "4, 8, 12, 16, 20, 24, 28, 32, 36, ..."
+        },
+        {
+          "step": 2,
+          "action": "6ರ ಅಪವರ್ತ್ಯಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ.",
+          "justification": "6, 12, 18, 24, 30, 36, ..."
+        },
+        {
+          "step": 3,
+          "action": "ಎರಡೂ ಪಟ್ಟಿಗಳಲ್ಲಿರುವ ಸಾಮಾನ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ಗುರುತಿಸಿ.",
+          "justification": "ಎರಡೂ ಪಟ್ಟಿಗಳಲ್ಲಿ 12, 24, ಮತ್ತು 36 ಸಂಖ್ಯೆಗಳು ಕಂಡುಬರುತ್ತವೆ."
+        }
+      ],
+      "result": "4 ಮತ್ತು 6ರ ಮೊದಲ ಮೂರು ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳು 12, 24, ಮತ್ತು 36.",
+      "common_trap": "ಕೇವಲ ಮೊದಲ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯವನ್ನು (LCM) ಕಂಡುಹಿಡಿದು ನಿಲ್ಲಿಸುವುದು. ಪ್ರಶ್ನೆಯಲ್ಲಿ ಎಷ್ಟು ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳನ್ನು ಕೇಳಲಾಗಿದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಬೇಕು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "\"3 ಮತ್ತು 7ರ ಕನಿಷ್ಠ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ ಯಾವುದು?\"",
+    "two_mark_note": "\"8 ಮತ್ತು 12ರ ಮೊದಲ ಎರಡು ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ.\"",
+    "five_mark_note": "",
+    "common_mistakes": [
+      "ಅಪವರ್ತ್ಯ (multiple) ಮತ್ತು ಅಪವರ್ತನ (factor) ಪದಗಳ ನಡುವೆ ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

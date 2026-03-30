@@ -1,0 +1,89 @@
+{
+  "module_id": "class8_math_ch7_concept_7",
+  "module_title": "ಚಕ್ರಬಡ್ಡಿ ಸೂತ್ರದ ಅನ್ವಯಗಳು (Applications of Compound Interest Formula)",
+  "class": "8",
+  "chapter": "7",
+  "chapter_title": "ಪರಿಮಾಣಗಳ ಹೋಲಿಕೆ (Comparing Quantities)",
+  "domain": "ವಾಣಿಜ್ಯ ಗಣಿತ",
+  "prerequisites": [
+    "class8_math_ch7_concept_1",
+    "class8_math_ch7_concept_2",
+    "class8_math_ch7_concept_3",
+    "class8_math_ch7_concept_4",
+    "class8_math_ch7_concept_5",
+    "class8_math_ch7_concept_6"
+  ],
+  "theory": {
+    "concept_summary": "ಚಕ್ರಬಡ್ಡಿ ಸೂತ್ರವು ಕೇವಲ ಹಣಕಾಸಿನ ಲೆಕ್ಕಾಚಾರಗಳಿಗೆ ಸೀಮಿತವಾಗಿಲ್ಲ, ಬದಲಿಗೆ ಜನಸಂಖ್ಯೆಯ ಬೆಳವಣಿಗೆ, ಸವಕಳಿ ಮತ್ತು ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಬೆಳವಣಿಗೆಯಂತಹ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿನ ಘಾತೀಯ ಬದಲಾವಣೆಗಳನ್ನು ಲೆಕ್ಕಹಾಕಲು ಇದನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಇದು ವಿಜ್ಞಾನ, ಅರ್ಥಶಾಸ್ತ್ರ ಮತ್ತು ಸಮಾಜ ವಿಜ್ಞಾನದಲ್ಲಿ ವ್ಯಾಪಕ ಅನ್ವಯಗಳನ್ನು ಹೊಂದಿದೆ.",
+    "definitions": [
+      {
+        "term": "ಜನಸಂಖ್ಯೆಯ ಬೆಳವಣಿಗೆ (Population Growth)",
+        "definition": "ಜನಸಂಖ್ಯೆಯು ಸ್ಥಿರ ವಾರ್ಷಿಕ ದರದಲ್ಲಿ ಹೆಚ್ಚಾದರೆ."
+      },
+      {
+        "term": "ಸವಕಳಿ (Depreciation)",
+        "definition": "ಯಂತ್ರಗಳು, ವಾಹನಗಳಂತಹ ವಸ್ತುಗಳ ಮೌಲ್ಯವು ಕಾಲಾನಂತರದಲ್ಲಿ ಸ್ಥಿರ ದರದಲ್ಲಿ ಕಡಿಮೆಯಾದರೆ."
+      },
+      {
+        "term": "ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಬೆಳವಣಿಗೆ (Bacterial Growth)",
+        "definition": "ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳ ಸಂಖ್ಯೆಯು ನಿರ್ದಿಷ್ಟ ದರದಲ್ಲಿ ಹೆಚ್ಚಾದರೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "ಬೆಳವಣಿಗೆಯ ನಂತರದ ಮೌಲ್ಯ (Value after Growth)",
+        "latex": "V_f = V_i \\left(1 + \\frac{R}{100}\\right)^n",
+        "condition": "V_i = ಆರಂಭಿಕ ಮೌಲ್ಯ, V_f = ಅಂತಿಮ ಮೌಲ್ಯ, R = ವಾರ್ಷಿಕ ಬೆಳವಣಿಗೆ ದರ (%), n = ಅವಧಿ.",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "ಸವಕಳಿಯ ನಂತರದ ಮೌಲ್ಯ (Value after Depreciation)",
+        "latex": "V_f = V_i \\left(1 - \\frac{R}{100}\\right)^n",
+        "condition": "V_i = ಆರಂಭಿಕ ಮೌಲ್ಯ, V_f = ಅಂತಿಮ ಮೌಲ್ಯ, R = ವಾರ್ಷಿಕ ಸವಕಳಿ ದರ (%), n = ಅವಧಿ.",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class8_math_ch7_example_7",
+      "difficulty": "basic",
+      "problem": "ಒಂದು ಸ್ಕೂಟರ್ ಅನ್ನು ₹42,000 ಕ್ಕೆ ಖರೀದಿಸಲಾಯಿತು. ಅದರ ಮೌಲ್ಯವು ವಾರ್ಷಿಕ 8% ದರದಲ್ಲಿ ಸವಕಳಿಯಾಗುತ್ತದೆ. ಒಂದು ವರ್ಷದ ನಂತರ ಅದರ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸಿ: ಆರಂಭಿಕ ಮೌಲ್ಯ (Vi), ಸವಕಳಿ ದರ (R), ಮತ್ತು ಕಾಲ (n).",
+          "justification": "Vi = ₹42,000, R = 8%, n = 1 ವರ್ಷ."
+        },
+        {
+          "step": 2,
+          "action": "ಸವಕಳಿಯ ಸೂತ್ರವನ್ನು ಬಳಸಿ.",
+          "justification": "ಇಲ್ಲಿ ಮೌಲ್ಯ ಕಡಿಮೆಯಾಗುತ್ತಿರುವುದರಿಂದ, 1-R/100 ಸೂತ್ರವನ್ನು ಬಳಸಬೇಕು."
+        },
+        {
+          "step": 3,
+          "action": "ಲೆಕ್ಕಾಚಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ.",
+          "justification": "ಸರಳೀಕರಿಸಿ ಮತ್ತು ಗುಣಿಸಿ."
+        }
+      ],
+      "result": "ಒಂದು ವರ್ಷದ ನಂತರ ಸ್ಕೂಟರ್‌ನ ಮೌಲ್ಯ ₹38,640 ಆಗಿರುತ್ತದೆ.",
+      "common_trap": "ಸವಕಳಿಯ ಸಂದರ್ಭದಲ್ಲಿ '+' ಚಿಹ್ನೆಯನ್ನು ಬಳಸುವುದು. ಮೌಲ್ಯ ಕಡಿಮೆಯಾಗುತ್ತಿದ್ದರೆ '-' ಚಿಹ್ನೆಯನ್ನು ಬಳಸಬೇಕು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಜನಸಂಖ್ಯೆ ಹೆಚ್ಚಳಕ್ಕೆ ಯಾವ ಸೂತ್ರ ಬಳಸಬೇಕು?",
+    "two_mark_note": "ಒಂದು ನಗರದ ಜನಸಂಖ್ಯೆ 20,000 ಇದ್ದು, 5% ದರದಲ್ಲಿ ಹೆಚ್ಚಾದರೆ, 1 ವರ್ಷದ ನಂತರ ಜನಸಂಖ್ಯೆ ಎಷ್ಟು?",
+    "five_mark_note": "ಒಂದು ಯಂತ್ರದ ಮೌಲ್ಯವು 3 ವರ್ಷಗಳ ಕಾಲ ಸವಕಳಿಯಾದ ನಂತರದ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಪ್ರಶ್ನೆ.",
+    "common_mistakes": [],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

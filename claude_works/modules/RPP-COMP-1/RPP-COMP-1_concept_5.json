@@ -1,0 +1,106 @@
+{
+  "module_id": "RPP-COMP-1_concept_5",
+  "module_title": "ಸರಳ ಬಡ್ಡಿ",
+  "class": "7, 8",
+  "chapter": "7",
+  "chapter_title": "ಪರಿಮಾಣಗಳ ಹೋಲಿಕೆ",
+  "domain": "ವಾಣಿಜ್ಯ ಗಣಿತ (Commercial Mathematics)",
+  "prerequisites": [
+    "RPP-COMP-1_concept_1",
+    "RPP-COMP-1_concept_2",
+    "RPP-COMP-1_concept_3",
+    "RPP-COMP-1_concept_4"
+  ],
+  "theory": {
+    "concept_summary": "ಸರಳ ಬಡ್ಡಿಯು, ಸಾಲ ಪಡೆದ ಅಥವಾ ಹೂಡಿಕೆ ಮಾಡಿದ ಅಸಲು ಹಣದ ಮೇಲೆ ನಿರ್ದಿಷ್ಟ ಅವಧಿಗೆ, ನಿಗದಿತ ದರದಲ್ಲಿ ಲೆಕ್ಕ ಹಾಕುವ ಒಂದು ವಿಧಾನವಾಗಿದೆ. ಈ ವಿಧಾನದಲ್ಲಿ, ಬಡ್ಡಿಯು ಪ್ರತಿ ವರ್ಷವೂ ಒಂದೇ ಆಗಿರುತ್ತದೆ, ಏಕೆಂದರೆ ಅದನ್ನು ಕೇವಲ ಆರಂಭಿಕ ಅಸಲಿನ ಮೇಲೆ ಲೆಕ್ಕ ಹಾಕಲಾಗುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ಅಸಲು (Principal - P)",
+        "definition": "ಸಾಲವಾಗಿ ಪಡೆದ ಅಥವಾ ಹೂಡಿಕೆ ಮಾಡಿದ ಹಣ."
+      },
+      {
+        "term": "ಬಡ್ಡಿ (Interest - I)",
+        "definition": "ಅಸಲು ಹಣವನ್ನು ಬಳಸಿದ್ದಕ್ಕಾಗಿ ನೀಡುವ ಹೆಚ್ಚುವರಿ ಹಣ."
+      },
+      {
+        "term": "ಬಡ್ಡಿಯ ದರ (Rate of Interest - R)",
+        "definition": "ಪ್ರತಿ ₹100 ಕ್ಕೆ ಒಂದು ವರ್ಷಕ್ಕೆ ವಿಧಿಸುವ ಬಡ್ಡಿ. ಇದನ್ನು ಶೇಕಡಾವಾರಿನಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಲಾಗುತ್ತದೆ."
+      },
+      {
+        "term": "ಅವಧಿ (Time - T)",
+        "definition": "ಹಣವನ್ನು ಸಾಲ ಪಡೆದ ಅಥವಾ ಹೂಡಿಕೆ ಮಾಡಿದ ಕಾಲ. ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ವರ್ಷಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ."
+      },
+      {
+        "term": "ಮೊತ್ತ (Amount - A)",
+        "definition": "ಅವಧಿಯ ಕೊನೆಯಲ್ಲಿ ಅಸಲು ಮತ್ತು ಬಡ್ಡಿಯನ್ನು ಸೇರಿಸಿ ಹಿಂದಿರುಗಿಸುವ ಒಟ್ಟು ಹಣ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "ಸರಳ ಬಡ್ಡಿ (Simple Interest)",
+        "latex": "I = \\frac{P \\times R \\times T}{100}",
+        "condition": "P = ಅಸಲು, R = ವಾರ್ಷಿಕ ಬಡ್ಡಿ ದರ (%), T = ಅವಧಿ (ವರ್ಷಗಳಲ್ಲಿ).",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಸರಳ ಬಡ್ಡಿ ಆಧಾರಿತ ಸಾಲ ಮತ್ತು ಹೂಡಿಕೆಗಳ ಲೆಕ್ಕಾಚಾರಕ್ಕೆ.",
+        "derivation": []
+      },
+      {
+        "formula_name": "ಮೊತ್ತ (Amount)",
+        "latex": "A = P + I",
+        "condition": "",
+        "exception": "",
+        "derived_from": "ಮೊತ್ತದ ವ್ಯಾಖ್ಯೆಯಿಂದ.",
+        "used_in": "ಅವಧಿಯ ಕೊನೆಯಲ್ಲಿ ಪಾವತಿಸಬೇಕಾದ ಒಟ್ಟು ಹಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು.",
+        "derivation": []
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "RPP-COMP-1_example_9",
+      "difficulty": "intermediate",
+      "problem": "₹4,500 ಮೊತ್ತಕ್ಕೆ 2 ವರ್ಷಗಳ ಅವಧಿಗೆ ಮನೋಹರ್ ₹750 ಬಡ್ಡಿ ಪಾವತಿಸಿದರೆ, ಬಡ್ಡಿಯ ದರವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸುವುದು.",
+          "justification": "P, T, ಮತ್ತು I ನೀಡಲಾಗಿದೆ. R ಕಂಡುಹಿಡಿಯಬೇಕು.",
+          "calculation": "P = ₹4,500, T = 2 ವರ್ಷಗಳು, I = ₹750"
+        },
+        {
+          "step": 2,
+          "action": "ಸರಳ ಬಡ್ಡಿಯ ಸೂತ್ರವನ್ನು ಬಳಸಿ R ಗಾಗಿ ಸಮೀಕರಣ ರಚಿಸುವುದು.",
+          "justification": "$I = \\frac{P \\times R \\times T}{100}$",
+          "calculation": "$750 = \\frac{4500 \\times R \\times 2}{100}$"
+        },
+        {
+          "step": 3,
+          "action": "ಸಮೀಕರಣವನ್ನು ಸರಳೀಕರಿಸಿ R ನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "ಬೀಜಗಣಿತದ ಪರಿವರ್ತನೆಗಳನ್ನು ಬಳಸುವುದು.",
+          "calculation": "$750 = 90 \\times R \\implies R = \\frac{750}{90} = \\frac{75}{9} = \\frac{25}{3} = 8\\frac{1}{3}\\%$"
+        }
+      ],
+      "result": "ವಾರ್ಷಿಕ ಬಡ್ಡಿಯ ದರ $8\\frac{1}{3}\\%$.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "P, R, T, I ಗಳಲ್ಲಿ ಮೂರನ್ನು ಕೊಟ್ಟು ನಾಲ್ಕನೆಯದನ್ನು ಕೇಳುವುದು.",
+    "two_mark_note": "ನೇರ ಸೂತ್ರ ಬಳಸಿ I ಅಥವಾ A ಕಂಡುಹಿಡಿಯುವುದು.",
+    "five_mark_note": "ಇಲ್ಲ.",
+    "common_mistakes": [
+      "ಅವಧಿ (T) ಯನ್ನು ತಿಂಗಳುಗಳಲ್ಲಿ ಕೊಟ್ಟಾಗ ಅದನ್ನು ವರ್ಷಗಳಿಗೆ ಪರಿವರ್ತಿಸಲು ಮರೆಯುವುದು."
+    ],
+    "boundary_conditions": [
+      "ಸರಳ ಬಡ್ಡಿ ಲೆಕ್ಕಾಚಾರದಲ್ಲಿ, ಅಸಲು (P) ಅವಧಿಯುದ್ದಕ್ಕೂ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ."
+    ],
+    "connects_to": [
+      "ಸರಳ ಬಡ್ಡಿಯು ಚಕ್ರಬಡ್ಡಿಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಅಡಿಪಾಯವಾಗಿದೆ."
+    ]
+  }
+}

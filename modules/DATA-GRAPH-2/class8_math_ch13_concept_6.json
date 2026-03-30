@@ -1,0 +1,59 @@
+{
+  "module_id": "class8_math_ch13_concept_6",
+  "module_title": "ರೇಖಾತ್ಮಕ ಮತ್ತು ರೇಖಾತ್ಮಕವಲ್ಲದ ಸಂಬಂಧಗಳು",
+  "class": "8",
+  "chapter": "13",
+  "chapter_title": "ನಕ್ಷೆಗಳ ಪರಿಚಯ",
+  "domain": "ಬೀಜಗಣಿತ",
+  "prerequisites": [
+    "class8_math_ch13_concept_1",
+    "class8_math_ch13_concept_2",
+    "class8_math_ch13_concept_3",
+    "class8_math_ch13_concept_4",
+    "class8_math_ch13_concept_5"
+  ],
+  "theory": {
+    "concept_summary": "ರೇಖಾತ್ಮಕ ಸಂಬಂಧಗಳನ್ನು `y = kx` ರೂಪದ ಸಮೀಕರಣದಿಂದ ವಿವರಿಸಬಹುದು ಮತ್ತು ಅವುಗಳ ನಕ್ಷೆಗಳು ಸರಳರೇಖೆಗಳಾಗಿರುತ್ತವೆ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ರೇಖಾತ್ಮಕವಲ್ಲದ ಸಂಬಂಧಗಳು `y = kx` ರೂಪದಲ್ಲಿರುವುದಿಲ್ಲ ಮತ್ತು ಅವುಗಳ ನಕ್ಷೆಗಳು ವಕ್ರರೇಖೆಗಳಾಗಿರುತ್ತವೆ. ಸ್ವತಂತ್ರ ಚರದಲ್ಲಿನ ಸಮಾನ ಹೆಚ್ಚಳಕ್ಕೆ ಅವಲಂಬಿತ ಚರದಲ್ಲಿಯೂ ಸಮಾನ ಹೆಚ್ಚಳವಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸುವ ಮೂಲಕ ಸಂಬಂಧದ ಪ್ರಕಾರವನ್ನು ಗುರುತಿಸಬಹುದು.",
+    "definitions": [
+      {
+        "term": "ರೇಖಾತ್ಮಕ ಸಂಬಂಧ (Linear Relationship)",
+        "definition": "ಎರಡು ಚರಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು `y = kx` ರೂಪದ ಸಮೀಕರಣದಿಂದ ವಿವರಿಸಬಹುದು, ಇಲ್ಲಿ `k` ಒಂದು ಸ್ಥಿರಾಂಕ. ಇದರ ನಕ್ಷೆಯು ಯಾವಾಗಲೂ ಒಂದು ಸರಳರೇಖೆಯಾಗಿರುತ್ತದೆ."
+      },
+      {
+        "term": "ರೇಖಾತ್ಮಕವಲ್ಲದ ಸಂಬಂಧ (Non-Linear Relationship)",
+        "definition": "ಎರಡು ಚರಗಳ ನಡುವಿನ ಸಂಬಂಧವು `y = kx` ರೂಪದಲ್ಲಿರುವುದಿಲ್ಲ. ಇದರ ನಕ್ಷೆಯು ಒಂದು ವಕ್ರರೇಖೆ ಆಗಿರುತ್ತದೆ, ಸರಳರೇಖೆಯಲ್ಲ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "ಚೌಕದ ಸುತ್ತಳತೆ",
+        "latex": "P = 4s",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ರೇಖಾತ್ಮಕ ಸಂಬಂಧ"
+      },
+      {
+        "formula_name": "ಚೌಕದ ವಿಸ್ತೀರ್ಣ",
+        "latex": "A = s^2",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "ರೇಖಾತ್ಮಕವಲ್ಲದ ಸಂಬಂಧ"
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಕೆಳಗಿನ ಯಾವ ಸಂಬಂಧವು ರೇಖಾತ್ಮಕವಲ್ಲದ ನಕ್ಷೆಯನ್ನು ನೀಡುತ್ತದೆ? (a) ಬಾಹು ಮತ್ತು ಚೌಕದ ಸುತ್ತಳತೆ (b) ತ್ರಿಜ್ಯ ಮತ್ತು ವೃತ್ತದ ಪರಿಧಿ (c) ಬಾಹು ಮತ್ತು ಚೌಕದ ವಿಸ್ತೀರ್ಣ (d) ಅಸಲು ಮತ್ತು ಸರಳ ಬಡ್ಡಿ (ಉತ್ತರ: c)",
+    "two_mark_note": "ಚೌಕದ ಬಾಹು ಮತ್ತು ವಿಸ್ತೀರ್ಣದ ಸಂಬಂಧವು ಏಕೆ ರೇಖಾತ್ಮಕವಲ್ಲ? ವಿವರಿಸಿ.",
+    "five_mark_note": "",
+    "common_mistakes": [],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

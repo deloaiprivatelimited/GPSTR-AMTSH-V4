@@ -1,0 +1,251 @@
+{
+  "module_id": "TRI-INTRO-1_concept_3",
+  "module_title": "ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣಗಳು",
+  "class": "10",
+  "chapter": "8",
+  "chapter_title": "ತ್ರಿಕೋನಮಿತಿಯ ಪ್ರಸ್ತಾವನೆ",
+  "domain": "ತ್ರಿಕೋನಮಿತಿ (Trigonometry)",
+  "prerequisites": [
+    "TRI-INTRO-1_concept_1",
+    "TRI-INTRO-1_concept_2"
+  ],
+  "theory": {
+    "concept_summary": "ಒಂದು ಕೋನದ ಎಲ್ಲಾ ಮೌಲ್ಯಗಳಿಗೆ ಸತ್ಯವಾಗಿರುವ ತ್ರಿಕೋನಮಿತಿಯ ಸಮೀಕರಣವನ್ನು ನಿತ್ಯಸಮೀಕರಣ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಮೂರು ಮೂಲಭೂತ ನಿತ್ಯಸಮೀಕರಣಗಳು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಹುಟ್ಟಿಕೊಂಡಿವೆ ಮತ್ತು ಇವುಗಳನ್ನು ಇತರ ಸಂಕೀರ್ಣ ತ್ರಿಕೋನಮಿತಿಯ ಸಂಬಂಧಗಳನ್ನು ಸಾಧಿಸಲು ಅಥವಾ ಸರಳೀಕರಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ನಿತ್ಯಸಮೀಕರಣ (Identity)",
+        "definition": "ಚರಾಕ್ಷರದ ಎಲ್ಲಾ ಬೆಲೆಗಳಿಗೂ ಸತ್ಯವಾಗಿರುವ ಸಮೀಕರಣವನ್ನು ನಿತ್ಯಸಮೀಕರಣ ಎನ್ನುತ್ತಾರೆ. ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳನ್ನು ಒಳಗೊಂಡ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣ ಎನ್ನುತ್ತಾರೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Sine-Cosine Identity",
+        "latex": "\\sin^2 A + \\cos^2 A = 1",
+        "condition": "$0^\\circ \\le A \\le 90^\\circ$",
+        "exception": "",
+        "derived_from": "Pythagorean Theorem",
+        "used_in": "",
+        "derivation": [
+          {
+            "step": 1,
+            "action": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಪ್ರಾರಂಭಿಸಿ.",
+            "calculation": "$AB^2 + BC^2 = AC^2$"
+          },
+          {
+            "step": 2,
+            "action": "ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳನ್ನು $AC^2$ ನಿಂದ ಭಾಗಿಸಿ.",
+            "calculation": "$\\frac{AB^2}{AC^2} + \\frac{BC^2}{AC^2} = \\frac{AC^2}{AC^2}$"
+          },
+          {
+            "step": 3,
+            "action": "ಅನುಪಾತಗಳ ವ್ಯಾಖ್ಯಾನವನ್ನು ಬಳಸಿ.",
+            "calculation": "$(\\frac{AB}{AC})^2 + (\\frac{BC}{AC})^2 = 1 \\implies (\\cos A)^2 + (\\sin A)^2 = 1$"
+          }
+        ]
+      },
+      {
+        "formula_name": "Tangent-Secant Identity",
+        "latex": "1 + \\tan^2 A = \\sec^2 A",
+        "condition": "$0^\\circ \\le A < 90^\\circ$",
+        "exception": "",
+        "derived_from": "Pythagorean Theorem",
+        "used_in": "",
+        "derivation": [
+          {
+            "step": 1,
+            "action": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಪ್ರಾರಂಭಿಸಿ.",
+            "calculation": "$AB^2 + BC^2 = AC^2$"
+          },
+          {
+            "step": 2,
+            "action": "ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳನ್ನು $AB^2$ ನಿಂದ ಭಾಗಿಸಿ.",
+            "calculation": "$\\frac{AB^2}{AB^2} + \\frac{BC^2}{AB^2} = \\frac{AC^2}{AB^2}$"
+          },
+          {
+            "step": 3,
+            "action": "ಅನುಪಾತಗಳ ವ್ಯಾಖ್ಯಾನವನ್ನು ಬಳಸಿ.",
+            "calculation": "$1 + (\\frac{BC}{AB})^2 = (\\frac{AC}{AB})^2 \\implies 1 + (\\tan A)^2 = (\\sec A)^2$"
+          }
+        ]
+      },
+      {
+        "formula_name": "Cotangent-Cosecant Identity",
+        "latex": "1 + \\cot^2 A = \\csc^2 A",
+        "condition": "$0^\\circ < A \\le 90^\\circ$",
+        "exception": "",
+        "derived_from": "Pythagorean Theorem",
+        "used_in": "",
+        "derivation": [
+          {
+            "step": 1,
+            "action": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಪ್ರಾರಂಭಿಸಿ.",
+            "calculation": "$AB^2 + BC^2 = AC^2$"
+          },
+          {
+            "step": 2,
+            "action": "ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳನ್ನು $BC^2$ ನಿಂದ ಭಾಗಿಸಿ.",
+            "calculation": "$\\frac{AB^2}{BC^2} + \\frac{BC^2}{BC^2} = \\frac{AC^2}{BC^2}$"
+          },
+          {
+            "step": 3,
+            "action": "ಅನುಪಾತಗಳ ವ್ಯಾಖ್ಯಾನವನ್ನು ಬಳಸಿ.",
+            "calculation": "$(\\frac{AB}{BC})^2 + 1 = (\\frac{AC}{BC})^2 \\implies (\\cot A)^2 + 1 = (\\csc A)^2$"
+          }
+        ]
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "TRI-INTRO-1_example_9",
+      "difficulty": "intermediate",
+      "problem": "$\\cos A, \\tan A$ ಮತ್ತು $\\sec A$ ಅನುಪಾತಗಳನ್ನು $\\sin A$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "$\\cos A$ ಯನ್ನು $\\sin A$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವುದು.",
+          "justification": "ಮೂಲಭೂತ ನಿತ್ಯಸಮೀಕರಣ $\\cos^2 A + \\sin^2 A = 1$ ಅನ್ನು ಬಳಸುತ್ತೇವೆ.",
+          "calculation": "$\\cos^2 A = 1 - \\sin^2 A \\implies \\cos A = \\sqrt{1 - \\sin^2 A}$ (A ಲಘುಕೋನವಾಗಿರುವುದರಿಂದ $\\cos A$ ಧನಾತ್ಮಕವಾಗಿರುತ್ತದೆ)."
+        },
+        {
+          "step": 2,
+          "action": "$\\tan A$ ಯನ್ನು $\\sin A$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವುದು.",
+          "justification": "$\\tan A = \\frac{\\sin A}{\\cos A}$ ಸಂಬಂಧವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+          "calculation": "$\\tan A = \\frac{\\sin A}{\\sqrt{1 - \\sin^2 A}}$"
+        },
+        {
+          "step": 3,
+          "action": "$\\sec A$ ಯನ್ನು $\\sin A$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವುದು.",
+          "justification": "$\\sec A = \\frac{1}{\\cos A}$ ಸಂಬಂಧವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+          "calculation": "$\\sec A = \\frac{1}{\\sqrt{1 - \\sin^2 A}}$"
+        }
+      ],
+      "result": "$\\cos A = \\sqrt{1 - \\sin^2 A}$, $\\tan A = \\frac{\\sin A}{\\sqrt{1 - \\sin^2 A}}$, $\\sec A = \\frac{1}{\\sqrt{1 - \\sin^2 A}}$",
+      "common_trap": ""
+    },
+    {
+      "example_id": "TRI-INTRO-1_example_10",
+      "difficulty": "intermediate",
+      "problem": "$\\sec A (1 - \\sin A)(\\sec A + \\tan A) = 1$ ಎಂದು ಸಾಧಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಎಡಭಾಗದಲ್ಲಿರುವ (LHS) ಎಲ್ಲಾ ಪದಗಳನ್ನು $\\sin A$ ಮತ್ತು $\\cos A$ ರೂಪದಲ್ಲಿ ಬರೆಯುವುದು.",
+          "justification": "ಸರಳೀಕರಣಕ್ಕಾಗಿ ಮೂಲ ಅನುಪಾತಗಳನ್ನು ಬಳಸುವುದು.",
+          "calculation": "LHS = $(\\frac{1}{\\cos A})(1 - \\sin A)(\\frac{1}{\\cos A} + \\frac{\\sin A}{\\cos A})$"
+        },
+        {
+          "step": 2,
+          "action": "ಬ್ರಾಕೆಟ್‌ನೊಳಗಿನ ಪದಗಳನ್ನು ಸಂಕಲಿಸುವುದು.",
+          "justification": "ಛೇದಗಳು ಸಮನಾಗಿವೆ.",
+          "calculation": "LHS = $(\\frac{1}{\\cos A})(1 - \\sin A)(\\frac{1 + \\sin A}{\\cos A})$"
+        },
+        {
+          "step": 3,
+          "action": "ಅಂಶ ಮತ್ತು ಛೇದಗಳನ್ನು ಗುಣಿಸುವುದು.",
+          "justification": "ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ಸೇರಿಸುವುದು.",
+          "calculation": "LHS = $\\frac{(1 - \\sin A)(1 + \\sin A)}{\\cos A \\cdot \\cos A} = \\frac{1 - \\sin^2 A}{\\cos^2 A}$"
+        },
+        {
+          "step": 4,
+          "action": "ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ ಅಂಶವನ್ನು ಬದಲಾಯಿಸುವುದು.",
+          "justification": "$\\sin^2 A + \\cos^2 A = 1 \\implies 1 - \\sin^2 A = \\cos^2 A$",
+          "calculation": "LHS = $\\frac{\\cos^2 A}{\\cos^2 A} = 1$"
+        }
+      ],
+      "result": "LHS = 1 = RHS. ಆದ್ದರಿಂದ ಸಾಧಿಸಲಾಗಿದೆ.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "TRI-INTRO-1_example_11",
+      "difficulty": "intermediate",
+      "problem": "$\\frac{\\cot A - \\cos A}{\\cot A + \\cos A} = \\frac{\\csc A - 1}{\\csc A + 1}$ ಎಂದು ಸಾಧಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಎಡಭಾಗದಿಂದ (LHS) ಪ್ರಾರಂಭಿಸಿ ಮತ್ತು $\\cot A$ ಅನ್ನು $\\sin$ ಮತ್ತು $\\cos$ ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ.",
+          "justification": "$\\cot A = \\frac{\\cos A}{\\sin A}$",
+          "calculation": "LHS = $\\frac{\\frac{\\cos A}{\\sin A} - \\cos A}{\\frac{\\cos A}{\\sin A} + \\cos A}$"
+        },
+        {
+          "step": 2,
+          "action": "ಅಂಶ ಮತ್ತು ಛೇದದಿಂದ $\\cos A$ ಅನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ಹೊರತೆಗೆಯಿರಿ.",
+          "justification": "ಸರಳೀಕರಣಕ್ಕಾಗಿ.",
+          "calculation": "LHS = $\\frac{\\cos A (\\frac{1}{\\sin A} - 1)}{\\cos A (\\frac{1}{\\sin A} + 1)}$"
+        },
+        {
+          "step": 3,
+          "action": "ಸಾಮಾನ್ಯ ಪದವಾದ $\\cos A$ ಅನ್ನು ರದ್ದುಗೊಳಿಸಿ.",
+          "justification": "ಅಂಶ ಮತ್ತು ಛೇದದಲ್ಲಿ ಒಂದೇ ಪದವಿದೆ.",
+          "calculation": "LHS = $\\frac{\\frac{1}{\\sin A} - 1}{\\frac{1}{\\sin A} + 1}$"
+        },
+        {
+          "step": 4,
+          "action": "$\\frac{1}{\\sin A}$ ಅನ್ನು $\\csc A$ ಯಿಂದ ಬದಲಾಯಿಸಿ.",
+          "justification": "ವ್ಯುತ್ಕ್ರಮ ಸಂಬಂಧ: $\\csc A = \\frac{1}{\\sin A}$",
+          "calculation": "LHS = $\\frac{\\csc A - 1}{\\csc A + 1}$"
+        }
+      ],
+      "result": "LHS = RHS. ಆದ್ದರಿಂದ ಸಾಧಿಸಲಾಗಿದೆ.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "TRI-INTRO-1_example_12",
+      "difficulty": "advanced",
+      "problem": "$\\sec^2 \\theta = 1 + \\tan^2 \\theta$ ಈ ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ, $\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}$ ಎಂದು ಸಾಧಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಎಡಭಾಗದ (LHS) ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು $\\cos \\theta$ ದಿಂದ ಭಾಗಿಸುವುದು.",
+          "justification": "ಸಮೀಕರಣವನ್ನು $\\sec \\theta$ ಮತ್ತು $\\tan \\theta$ ರೂಪಕ್ಕೆ ತರಲು.",
+          "calculation": "LHS = $\\frac{\\frac{\\sin \\theta}{\\cos \\theta} - \\frac{\\cos \\theta}{\\cos \\theta} + \\frac{1}{\\cos \\theta}}{\\frac{\\sin \\theta}{\\cos \\theta} + \\frac{\\cos \\theta}{\\cos \\theta} - \\frac{1}{\\cos \\theta}} = \\frac{\\tan \\theta - 1 + \\sec \\theta}{\\tan \\theta + 1 - \\sec \\theta}$"
+        },
+        {
+          "step": 2,
+          "action": "ಅಂಶದಲ್ಲಿನ 1 ಅನ್ನು ನಿತ್ಯಸಮೀಕರಣದಿಂದ ಬದಲಾಯಿಸುವುದು.",
+          "justification": "ದತ್ತ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಲು, $1 = \\sec^2 \\theta - \\tan^2 \\theta$.",
+          "calculation": "ಅಂಶ = $(\\tan \\theta + \\sec \\theta) - (\\sec^2 \\theta - \\tan^2 \\theta)$"
+        },
+        {
+          "step": 3,
+          "action": "ಅಂಶವನ್ನು ಅಪವರ್ತಿಸುವುದು (factorize).",
+          "justification": "$a^2 - b^2 = (a-b)(a+b)$ ಸೂತ್ರ ಬಳಸಿ.",
+          "calculation": "ಅಂಶ = $(\\sec \\theta + \\tan \\theta) - (\\sec \\theta - \\tan \\theta)(\\sec \\theta + \\tan \\theta) = (\\sec \\theta + \\tan \\theta)[1 - (\\sec \\theta - \\tan \\theta)] = (\\sec \\theta + \\tan \\theta)(1 - \\sec \\theta + \\tan \\theta)$"
+        },
+        {
+          "step": 4,
+          "action": "ಪೂರ್ಣ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಬರೆದು ಸರಳೀಕರಿಸುವುದು.",
+          "justification": "ಹೊಸ ಅಂಶವನ್ನು ಮೂಲ ಛೇದದೊಂದಿಗೆ ಭಾಗಿಸುವುದು.",
+          "calculation": "LHS = $\\frac{(\\sec \\theta + \\tan \\theta)(1 - \\sec \\theta + \\tan \\theta)}{(\\tan \\theta + 1 - \\sec \\theta)} = \\sec \\theta + \\tan \\theta$"
+        },
+        {
+          "step": 5,
+          "action": "ಫಲಿತಾಂಶವನ್ನು ಬೇಕಾದ ರೂಪಕ್ಕೆ ತರುವುದು.",
+          "justification": "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು $(\\sec \\theta - \\tan \\theta)$ ದಿಂದ ಗುಣಿಸುವುದು.",
+          "calculation": "LHS = $(\\sec \\theta + \\tan \\theta) \\times \\frac{(\\sec \\theta - \\tan \\theta)}{(\\sec \\theta - \\tan \\theta)} = \\frac{\\sec^2 \\theta - \\tan^2 \\theta}{\\sec \\theta - \\tan \\theta} = \\frac{1}{\\sec \\theta - \\tan \\theta}$"
+        }
+      ],
+      "result": "LHS = RHS. ಆದ್ದರಿಂದ ಸಾಧಿಸಲಾಗಿದೆ.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಒಂದು ನಿತ್ಯಸಮೀಕರಣವನ್ನು ನೀಡಿ, ಅದು ಯಾವ ಸ್ಥಿತಿಯಲ್ಲಿ ಸತ್ಯ ಎಂದು ಕೇಳುವುದು.",
+    "two_mark_note": "ಸರಳ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಸಾಧಿಸಲು ಕೇಳುವುದು (ಉದಾ. 10).",
+    "five_mark_note": "ಸಂಕೀರ್ಣ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಸಾಧಿಸಲು ಕೇಳುವುದು (ಉದಾ. 12).",
+    "common_mistakes": [
+      "ಬೀಜಗಣಿತದ ತಪ್ಪುಗಳು, ವಿಶೇಷವಾಗಿ ಚಿಹ್ನೆಗಳಲ್ಲಿ (signs) ಮತ್ತು ಅಪವರ್ತಿಸುವಾಗ."
+    ],
+    "boundary_conditions": [
+      "ಸಾಮಾನ್ಯವಾಗಿ, ಸಂಕೀರ್ಣವಾದ ಬದಿಯಿಂದ ಪ್ರಾರಂಭಿಸಿ ಸರಳವಾದ ಬದಿಗೆ ತಲುಪುವುದು ಸುಲಭ.",
+      "ಎಲ್ಲವನ್ನೂ $\\sin$ ಮತ್ತು $\\cos$ ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸುವುದು ಒಂದು ಸಾಮಾನ್ಯ ತಂತ್ರ."
+    ],
+    "connects_to": [
+      "ಈ ಮೂಲ ನಿತ್ಯಸಮೀಕರಣಗಳು ಉನ್ನತ ಗಣಿತದಲ್ಲಿ (ಕ್ಯಾಲ್ಕುಲಸ್, ಸಂಕೀರ್ಣ ಸಂಖ್ಯೆಗಳು) ಬಳಸುವ ಹೆಚ್ಚು ಸಂಕೀರ್-ಣ ನಿತ್ಯಸಮೀಕರಣಗಳಿಗೆ ಆಧಾರವಾಗಿವೆ."
+    ]
+  }
+}

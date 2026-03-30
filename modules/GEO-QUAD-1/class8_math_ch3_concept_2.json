@@ -1,0 +1,122 @@
+{
+  "module_id": "class8_math_ch3_concept_2",
+  "module_title": "ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತ (Sum of Exterior Angles of a Polygon)",
+  "class": "8",
+  "chapter": "3",
+  "chapter_title": "ಚತುರ್ಭುಜಗಳ ಪರಿಚಯ (Understanding Quadrilaterals)",
+  "domain": "ರೇಖಾಗಣಿತ",
+  "prerequisites": [
+    "class8_math_ch3_concept_1"
+  ],
+  "theory": {
+    "concept_summary": "ಯಾವುದೇ ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದ ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತವು ಯಾವಾಗಲೂ 360° ಆಗಿರುತ್ತದೆ. ನಿಯಮಿತ ಬಹುಭುಜದಲ್ಲಿ, ಪ್ರತಿ ಹೊರಕೋನವನ್ನು 360° ಅನ್ನು ಬಾಹುಗಳ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸುವ ಮೂಲಕ ಕಂಡುಹಿಡಿಯಬಹುದು. ಈ ಪ್ರಮೇಯವು ಬಹುಭುಜಗಳ ಕೋನಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಪ್ರಮುಖವಾಗಿದೆ.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "Sum of Exterior Angles",
+        "latex": "\\sum \\theta_{\\text{ext}} = 360^{\\circ}",
+        "condition": "n-ಬಾಹುಗಳಿರುವ ಯಾವುದೇ ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜಕ್ಕೆ ಅನ್ವಯಿಸುತ್ತದೆ.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಲು"
+      },
+      {
+        "formula_name": "Each Exterior Angle of a Regular Polygon",
+        "latex": "\\theta_{\\text{ext}} = \\frac{360^{\\circ}}{n}",
+        "condition": "n-ಬಾಹುಗಳಿರುವ ನಿಯಮಿತ ಬಹುಭುಜಕ್ಕೆ ಮಾತ್ರ.",
+        "exception": "",
+        "derived_from": "Sum of Exterior Angles",
+        "used_in": "ನಿಯಮಿತ ಬಹುಭುಜದ ಪ್ರತಿ ಹೊರಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯಲು"
+      },
+      {
+        "formula_name": "Number of sides of a Regular Polygon",
+        "latex": "n = \\frac{360^{\\circ}}{\\theta_{\\text{ext}}}",
+        "condition": "ನಿಯಮಿತ ಬಹುಭುಜದ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ (\\theta_{\\text{ext}}) ತಿಳಿದಿದ್ದಾಗ.",
+        "exception": "",
+        "derived_from": "Each Exterior Angle of a Regular Polygon",
+        "used_in": "ನಿಯಮಿತ ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು"
+      }
+    ],
+    "theorems": [
+      {
+        "theorem_name": "Polygon Exterior Angle Sum Theorem",
+        "statement": "ಯಾವುದೇ ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದ ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಅಳತೆಗಳ ಮೊತ್ತವು ಯಾವಾಗಲೂ 360° ಆಗಿರುತ್ತದೆ.",
+        "proof_sketch": "ಬಹುಭುಜದ ಪರಿಧಿಯ දිගේ ಒಂದು ಪೂರ್ಣ ಸುತ್ತು ಬಂದಾಗ ಆಗುವ ಒಟ್ಟು ತಿರುವು 360° ಆಗಿರುತ್ತದೆ. ಪ್ರತಿ ಶೃಂಗದಲ್ಲಿನ ತಿರುವು ಆ ಶೃಂಗದ ಹೊರಕೋನಕ್ಕೆ ಸಮನಾಗಿರುವುದರಿಂದ, ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತ 360° ಆಗಿರುತ್ತದೆ.",
+        "converse": "",
+        "special_cases": [],
+        "common_error": "ಒಳಕೋನಗಳ ಮೊತ್ತದ ಸೂತ್ರದೊಂದಿಗೆ ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುವುದು. ಹೊರಕೋನಗಳ ಮೊತ್ತವು ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಅವಲಂಬಿಸಿಲ್ಲ, ಅದು ಯಾವಾಗಲೂ 360°."
+      }
+    ],
+    "properties": [
+      "ಒಳಕೋನ ಮತ್ತು ಹೊರಕೋನ ಸಂಬಂಧ: ಬಹುಭುಜದ ಯಾವುದೇ ಶೃಂಗದಲ್ಲಿ, ಒಳಕೋನ ಮತ್ತು ಅದಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಹೊರಕೋನಗಳ ಮೊತ್ತ 180° ಆಗಿರುತ್ತದೆ. (Interior Angle + Exterior Angle = 180°)."
+    ],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "id": "class8_math_ch3_exterior_angle_sum_ex1",
+        "render_target": "svg_template",
+        "exam_relevance": "2-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "geometric_figure",
+        "concept_latex": "x + 90^{\\circ} + 50^{\\circ} + 110^{\\circ} = 360^{\\circ}",
+        "x_axis_label": "",
+        "y_axis_label": "",
+        "x_range": [],
+        "y_range": [],
+        "key_points": [],
+        "annotations": [
+          "x",
+          "90°",
+          "50°",
+          "110°"
+        ],
+        "purpose": "",
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "class8_math_ch3_example_1",
+      "difficulty": "basic",
+      "problem": "ಕೆಳಗೆ ನೀಡಿದ ಚಿತ್ರದಲ್ಲಿ x ನ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತದ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸಿ.",
+          "justification": "ಯಾವುದೇ ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತ 360°."
+        },
+        {
+          "step": 2,
+          "action": "ಚಿತ್ರದಲ್ಲಿ ನೀಡಿರುವ ಎಲ್ಲಾ ಹೊರಕೋನಗಳನ್ನು ಕೂಡಿಸಿ 360° ಗೆ ಸಮೀಕರಿಸಿ.",
+          "justification": "x + 90° + 50° + 110° = 360°"
+        },
+        {
+          "step": 3,
+          "action": "ತಿಳಿದಿರುವ ಕೋನಗಳನ್ನು ಕೂಡಿಸಿ.",
+          "justification": "x + 250° = 360°"
+        },
+        {
+          "step": 4,
+          "action": "x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿ.",
+          "justification": "x = 360° - 250°"
+        }
+      ],
+      "result": "x = 110°",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ನಿಯಮಿತ ಷಡ್ಭುಜದ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ ಎಷ್ಟು? (360/6 = 60°).",
+    "two_mark_note": "ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜದ ಪ್ರತಿ ಒಳಕೋನವು 165° ಆಗಿದ್ದರೆ, ಅದರ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (ಹೊರಕೋನ = 180-165=15°. ಬಾಹುಗಳ ಸಂಖ್ಯೆ = 360/15 = 24).",
+    "five_mark_note": "",
+    "common_mistakes": [
+      "ಒಳಕೋನಗಳ ಮೊತ್ತದ ಸೂತ್ರದೊಂದಿಗೆ ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುವುದು. ಹೊರಕೋನಗಳ ಮೊತ್ತವು ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಅವಲಂಬಿಸಿಲ್ಲ, ಅದು ಯಾವಾಗಲೂ 360°."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

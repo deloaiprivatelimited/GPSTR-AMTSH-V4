@@ -1,0 +1,221 @@
+{
+  "module_id": "NS-EXP-2_concept_2",
+  "module_title": "ಘಾತಾಂಕಗಳ ನಿಯಮಗಳು",
+  "class": "7, 8",
+  "chapter": "11, 10",
+  "chapter_title": "ಘಾತಾಂಕಗಳು ಮತ್ತು ಘಾತಗಳು",
+  "domain": "ಸಂಖ್ಯಾಗಣಿತ",
+  "prerequisites": [
+    "NS-EXP-2_concept_1"
+  ],
+  "theory": {
+    "concept_summary": "ಘಾತಾಂಕ ರೂಪದಲ್ಲಿರುವ ಸಂಖ್ಯೆಗಳ ಮೇಲಿನ ಗಣಿತದ ಕ್ರಿಯೆಗಳನ್ನು (ಗುಣಾಕಾರ, ಭಾಗಾಕಾರ) ಸುಲಭಗೊಳಿಸಲು ಕೆಲವು ನಿರ್ದಿಷ್ಟ ನಿಯಮಗಳಿವೆ. ಈ ನಿಯಮಗಳು ಒಂದೇ ಆಧಾರ ಅಥವಾ ಒಂದೇ ಘಾತಸೂಚಿಯನ್ನು ಹೊಂದಿರುವ ಪದಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತವೆ ಮತ್ತು ಧನ, ಋಣ ಹಾಗೂ ಶೂನ್ಯ ಪೂರ್ಣಾಂಕ ಘಾತಸೂಚಿಗಳಿಗೆ ಸಿಂಧುವಾಗಿವೆ.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "product_rule_same_base",
+        "latex": "$$a^m \\times a^n = a^{m+n}$$",
+        "condition": "'a' ಸೊನ್ನೆಯಲ್ಲದ ಯಾವುದೇ ಪೂರ್ಣಾಂಕ, 'm' ಮತ್ತು 'n' ಯಾವುದೇ ಪೂರ್ಣಾಂಕಗಳು.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಒಂದೇ ಆಧಾರವಿರುವ ಘಾತಗಳನ್ನು ಗುಣಿಸುವಾಗ.",
+        "derivation": []
+      },
+      {
+        "formula_name": "quotient_rule_same_base",
+        "latex": "$$a^m \\div a^n = \\frac{a^m}{a^n} = a^{m-n}$$",
+        "condition": "'a' ಸೊನ್ನೆಯಲ್ಲದ ಯಾವುದೇ ಪೂರ್ಣಾಂಕ, 'm' ಮತ್ತು 'n' ಯಾವುದೇ ಪೂರ್ಣಾಂಕಗಳು.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಒಂದೇ ಆಧಾರವಿರುವ ಘಾತಗಳನ್ನು ಭಾಗಿಸುವಾಗ.",
+        "derivation": []
+      },
+      {
+        "formula_name": "power_of_a_power_rule",
+        "latex": "$$(a^m)^n = a^{mn}$$",
+        "condition": "'a' ಸೊನ್ನೆಯಲ್ಲದ ಯಾವುದೇ ಪೂರ್ಣಾಂಕ, 'm' ಮತ್ತು 'n' ಯಾವುದೇ ಪೂರ್ಣಾಂಕಗಳು.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಒಂದು ಘಾತಕ್ಕೆ ಮತ್ತೊಂದು ಘಾತವನ್ನು ಅನ್ವಯಿಸಿದಾಗ.",
+        "derivation": []
+      },
+      {
+        "formula_name": "product_rule_same_exponent",
+        "latex": "$$a^m \\times b^m = (ab)^m$$",
+        "condition": "'a' ಮತ್ತು 'b' ಸೊನ್ನೆಯಲ್ಲದ ಯಾವುದೇ ಪೂರ್ಣಾಂಕಗಳು, 'm' ಯಾವುದೇ ಪೂರ್ಣಾಂಕ.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಒಂದೇ ಘಾತಸೂಚಿಯಿರುವ ಬೇರೆ ಬೇರೆ ಆಧಾರಗಳನ್ನು ಗುಣಿಸುವಾಗ.",
+        "derivation": []
+      },
+      {
+        "formula_name": "quotient_rule_same_exponent",
+        "latex": "$$a^m \\div b^m = \\left(\\frac{a}{b}\\right)^m$$",
+        "condition": "'a' ಮತ್ತು 'b' ಸೊನ್ನೆಯಲ್ಲದ ಯಾವುದೇ ಪೂರ್ಣಾಂಕಗಳು, 'm' ಯಾವುದೇ ಪೂರ್ಣಾಂಕ.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಒಂದೇ ಘಾತಸೂಚಿಯಿರುವ ಬೇರೆ ಬೇರೆ ಆಧಾರಗಳನ್ನು ಭಾಗಿಸುವಾಗ.",
+        "derivation": []
+      },
+      {
+        "formula_name": "zero_exponent_rule",
+        "latex": "$$a^0 = 1$$",
+        "condition": "'a' ಸೊನ್ನೆಯಲ್ಲದ ಯಾವುದೇ ಪೂರ್ಣಾಂಕ.",
+        "exception": "",
+        "derived_from": "quotient_rule_same_base",
+        "used_in": "",
+        "derivation": [
+          {
+            "step": 1,
+            "action": "ಭಾಗಾಕಾರ ನಿಯಮವನ್ನು ಬಳಸುವುದು.",
+            "calculation": "$$a^m \\div a^m = a^{m-m} = a^0$$"
+          },
+          {
+            "step": 2,
+            "action": "ಯಾವುದೇ ಸಂಖ್ಯೆಯನ್ನು ಅದೇ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸಿದಾಗ 1 ಬರುತ್ತದೆ.",
+            "calculation": "$$\\frac{a^m}{a^m} = 1$$"
+          },
+          {
+            "result": "$$a^0 = 1$$"
+          }
+        ]
+      },
+      {
+        "formula_name": "negative_exponent_rule",
+        "latex": "$$a^{-m} = \\frac{1}{a^m}$$",
+        "condition": "'a' ಸೊನ್ನೆಯಲ್ಲದ ಯಾವುದೇ ಪೂರ್ಣಾಂಕ, 'm' ಧನ ಪೂರ್ಣಾಂಕ.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಋಣ ಘಾತಸೂಚಿಯನ್ನು ಧನ ಘಾತಸೂಚಿಯಾಗಿ ಪರಿವರ್ತಿಸಲು. $a^{-m}$ ಎಂಬುದು $a^m$ ನ ಗುಣಾಕಾರದ ವಿಲೋಮ (multiplicative inverse).",
+        "derivation": []
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "NS-EXP-2_example_3",
+      "difficulty": "intermediate",
+      "problem": "ಸಂಕ್ಷೇಪಿಸಿ: $\\frac{12^4 \\times 9^3 \\times 4}{6^3 \\times 8^2 \\times 27}$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಆಧಾರ ಸಂಖ್ಯೆಗಳನ್ನು ಅವುಗಳ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳ (prime factors) ರೂಪದಲ್ಲಿ ಬರೆಯುವುದು.",
+          "justification": "ನಿಯಮಗಳನ್ನು ಅನ್ವಯಿಸಲು ಆಧಾರಗಳನ್ನು ಸರಳೀಕರಿಸುವುದು.",
+          "calculation": "$12 = 2^2 \\times 3$, $9 = 3^2$, $4 = 2^2$, $6 = 2 \\times 3$, $8 = 2^3$, $27 = 3^3$"
+        },
+        {
+          "step": 2,
+          "action": "ಮೇಲಿನ ಅಪವರ್ತನಗಳನ್ನು ಮೂಲ ಸಮೀಕರಣದಲ್ಲಿ ಆದೇಶಿಸುವುದು.",
+          "justification": "ಘಾತಾಂಕಗಳ ನಿಯಮಗಳನ್ನು ಅನ್ವಯಿಸಲು ಸಿದ್ಧತೆ.",
+          "calculation": "$$\\frac{(2^2 \\times 3)^4 \\times (3^2)^3 \\times 2^2}{(2 \\times 3)^3 \\times (2^3)^2 \\times 3^3}$$"
+        },
+        {
+          "step": 3,
+          "action": "$(ab)^m = a^m b^m$ ಮತ್ತು $(a^m)^n = a^{mn}$ ನಿಯಮಗಳನ್ನು ಬಳಸಿ ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ವಿಸ್ತರಿಸುವುದು.",
+          "justification": "ಎಲ್ಲಾ ಪದಗಳನ್ನು ಒಂದೇ ಆಧಾರದ ಘಾತಗಳಾಗಿ ಪರಿವರ್ತಿಸುವುದು.",
+          "calculation": "$$\\frac{(2^2)^4 \\times 3^4 \\times 3^{2 \\times 3} \\times 2^2}{2^3 \\times 3^3 \\times 2^{3 \\times 2} \\times 3^3} = \\frac{2^8 \\times 3^4 \\times 3^6 \\times 2^2}{2^3 \\times 3^3 \\times 2^6 \\times 3^3}$$"
+        },
+        {
+          "step": 4,
+          "action": "ಅಂಶ ಮತ್ತು ಛೇದದಲ್ಲಿ ಒಂದೇ ಆಧಾರವಿರುವ ಪದಗಳನ್ನು $a^m \\times a^n = a^{m+n}$ ನಿಯಮ ಬಳಸಿ ಒಗ್ಗೂಡಿಸುವುದು.",
+          "justification": "ಗುಣಾಕಾರವನ್ನು ಸರಳೀಕರಿಸುವುದು.",
+          "calculation": "$$\\frac{2^{8+2} \\times 3^{4+6}}{2^{3+6} \\times 3^{3+3}} = \\frac{2^{10} \\times 3^{10}}{2^9 \\times 3^6}$$"
+        },
+        {
+          "step": 5,
+          "action": "$\\frac{a^m}{a^n} = a^{m-n}$ ನಿಯಮವನ್ನು ಬಳಸಿ ಭಾಗಾಕಾರ ಮಾಡುವುದು.",
+          "justification": "ಅಂತಿಮ ಉತ್ತರವನ್ನು ಪಡೆಯುವುದು.",
+          "calculation": "$$2^{10-9} \\times 3^{10-6} = 2^1 \\times 3^4$$"
+        },
+        {
+          "step": 6,
+          "action": "ಅಂತಿಮ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "calculation": "$$2 \\times 81 = 162$$"
+        }
+      ],
+      "result": "162",
+      "common_trap": ""
+    },
+    {
+      "example_id": "NS-EXP-2_example_4",
+      "difficulty": "intermediate",
+      "problem": "$(-3)^{m+1} \\times (-3)^5 = (-3)^7$ ಆದಾಗ m ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಎಡಭಾಗದಲ್ಲಿ $a^m \\times a^n = a^{m+n}$ ನಿಯಮವನ್ನು ಅನ್ವಯಿಸುವುದು.",
+          "justification": "ಎರಡೂ ಪದಗಳು ಒಂದೇ ಆಧಾರ $(-3)$ ಅನ್ನು ಹೊಂದಿವೆ.",
+          "calculation": "$(-3)^{(m+1)+5} = (-3)^7$"
+        },
+        {
+          "step": 2,
+          "action": "ಘಾತಸೂಚಿಗಳನ್ನು ಕೂಡಿಸುವುದು.",
+          "calculation": "$(-3)^{m+6} = (-3)^7$"
+        },
+        {
+          "step": 3,
+          "action": "ಎರಡೂ ಬದಿಗಳಲ್ಲಿ ಘಾತಸೂಚಿಗಳನ್ನು ಸಮೀಕರಿಸುವುದು.",
+          "justification": "ಆಧಾರಗಳು ಸಮವಾಗಿದ್ದರೆ (ಮತ್ತು 1, -1, 0 ಅಲ್ಲದಿದ್ದರೆ), ಘಾತಸೂಚಿಗಳೂ ಸಮವಾಗಿರಬೇಕು.",
+          "calculation": "$m+6 = 7$"
+        },
+        {
+          "step": 4,
+          "action": "m ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು.",
+          "calculation": "$m = 7 - 6 = 1$"
+        }
+      ],
+      "result": "$m = 1$",
+      "common_trap": ""
+    },
+    {
+      "example_id": "NS-EXP-2_example_5",
+      "difficulty": "intermediate",
+      "problem": "ಸಂಕ್ಷೇಪಿಸಿ: $\\{(\\frac{1}{3})^{-2} - (\\frac{1}{2})^{-3}\\} \\div (\\frac{1}{4})^{-2}$",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಋಣ ಘಾತಸೂಚಿಗಳನ್ನು ಧನ ಘಾತಸೂಚಿಗಳಾಗಿ ಪರಿವರ್ತಿಸುವುದು.",
+          "justification": "$(\\frac{a}{b})^{-m} = (\\frac{b}{a})^m$ ನಿಯಮವನ್ನು ಬಳಸುವುದು.",
+          "calculation": "$$\\{ (3)^2 - (2)^3 \\} \\div (4)^2$$"
+        },
+        {
+          "step": 2,
+          "action": "ಘಾತಗಳ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+          "calculation": "$$\\{ 9 - 8 \\} \\div 16$$"
+        },
+        {
+          "step": 3,
+          "action": "ಆವರಣದೊಳಗಿನ ವ್ಯವಕಲನವನ್ನು ಮಾಡುವುದು.",
+          "calculation": "$$1 \\div 16$$"
+        },
+        {
+          "step": 4,
+          "action": "ಅಂತಿಮ ಭಾಗಾಕಾರವನ್ನು ಮಾಡುವುದು.",
+          "calculation": "$$\\frac{1}{16}$$"
+        }
+      ],
+      "result": "$\\frac{1}{16}$",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಒಂದು ನಿಯಮದ ನೇರ ಅನ್ವಯ. ಉದಾ: $(2^3)^2$ ರ ಮೌಲ್ಯ ಏನು?",
+    "two_mark_note": "2-3 ನಿಯಮಗಳನ್ನು ಬಳಸುವ ಸರಳೀಕರಣ. ಉದಾ: $\\frac{2^5 \\times 2^3}{2^6}$ ನ್ನು ಸಂಕ್ಷೇಪಿಸಿ.",
+    "five_mark_note": "ಸಂಕೀರ್ಣ ಸರಳೀಕರಣ (ಉದಾ. 3) ಅಥವಾ ಅಜ್ಞಾತ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಪ್ರಶ್ನೆಗಳು (ಉದಾ. 4).",
+    "common_mistakes": [
+      "$a^m + a^n$ ಅಥವಾ $a^m - a^n$ ನಂತಹ ಸಂಕಲನ/ವ್ಯವಕಲನಗಳಿಗೆ ಘಾತಾಂಕ ನಿಯಮಗಳನ್ನು ತಪ್ಪಾಗಿ ಅನ್ವಯಿಸುವುದು. ಉದಾ: $2^5 + 2^3 = 2^8$ ಎಂದು ಬರೆಯುವುದು ತಪ್ಪು.",
+      "$a^m \\times b^n$ (ಬೇರೆ ಬೇರೆ ಆಧಾರ, ಬೇರೆ ಬೇರೆ ಘಾತ) ಇದ್ದಾಗ ಯಾವುದೇ ನಿಯಮವನ್ನು ಅನ್ವಯಿಸಲು ಪ್ರಯತ್ನಿಸುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": [
+      "ಬೀಜಗಣಿತದ ಸರ್ವಸಮಿಕೆಗಳು",
+      "ಬಹುಪದೋಕ್ತಿಗಳು",
+      "ವರ್ಗ ಸಮೀಕರಣಗಳು",
+      "ಲಾಗರಿದಮ್‌ಗಳು (Logarithms)"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಧನ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. 2, 5, 8, 11, ಹೀಗೆ ಮುಂದುವರಿಯುವ ಈ ಸಂಖ್ಯಾ ಪಟ್ಟಿಯನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಎರಡನೇ ಪದವಾದ 5 ರಿಂದ ಮೊದಲ ಪದವಾದ 2 ಅನ್ನು ಕಳೆಯೋಣ. 5 ಮೈನಸ್ 2, ನಮಗೆ 3 ಸಿಗುತ್ತದೆ. ಇದನ್ನೇ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು, ಮೂರನೇ ಪದವಾದ 8 ರಿಂದ ಎರಡನೇ ಪದವಾದ 5 ಅನ್ನು ಕಳೆಯೋಣ. 8 ಮೈನಸ್ 5, ಇಲ್ಲೂ ಕೂಡ 3 ಬಂತು. ವ್ಯತ್ಯಾಸ ಸ್ಥಿರವಾಗಿರುವುದರಿಂದ, ಇದು ಸಮಾಂತರ ಶ್ರೇಢಿ ಮತ್ತು ಇದರ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ 'd' ಈಕ್ವಲ್ಸ್ 3. ಇದು ಒಂದು ಧನ ಸಂಖ್ಯೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. $2, 5, 8, 11, \\dots$ ಈ ಸಂಖ್ಯಾ ಪಟ್ಟಿಯನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಎರಡನೇ ಪದದಿಂದ ಮೊದಲ ಪದವನ್ನು ಕಳೆಯೋಣ: $a_2 - a_1 = 5 - 2 = 3$. ಇದನ್ನೇ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು, ಮೂರನೇ ಪದದಿಂದ ಎರಡನೇ ಪದವನ್ನು ಕಳೆಯೋಣ: $a_3 - a_2 = 8 - 5 = 3$. ವ್ಯತ್ಯಾಸ ಸ್ಥಿರವಾಗಿರುವುದರಿಂದ, ಇದು ಸಮಾಂತರ ಶ್ರೇಢಿ ಮತ್ತು ಇದರ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ $d = 3$. ಇದು ಒಂದು ಧನ ಸಂಖ್ಯೆ.",
+  "display_bullets": [
+    "ಶ್ರೇಢಿ: $2, 5, 8, 11, \\dots$",
+    "ವ್ಯತ್ಯಾಸ 1: $d = a_2 - a_1 = 5 - 2 = 3$",
+    "ವ್ಯತ್ಯಾಸ 2: $d = a_3 - a_2 = 8 - 5 = 3$",
+    "ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ (d) = 3 (ಧನ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line showing jumps of +3. Starting at 2, an arrow points to 5. From 5, an arrow points to 8. From 8, an arrow points to 11. Each arrow is labeled '+3'.",
+    "labels": "ಧನ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ",
+    "mathematical_significance": "Illustrates a positive common difference, where the terms of the sequence are increasing.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "ALG-AP-4_concept_1_chunk_013"
+}

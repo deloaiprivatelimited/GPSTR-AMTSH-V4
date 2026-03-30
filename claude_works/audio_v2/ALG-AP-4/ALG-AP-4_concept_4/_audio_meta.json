@@ -1,0 +1,114 @@
+{
+  "module_id": "ALG-AP-4_concept_4",
+  "merge_code": "ALG-AP-4",
+  "voice": "Autonoe",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 12:22:00",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "63f8ee15e26f8bd02b1fc0a2346ea7f0",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 23.331,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು (Prerequisites)",
+      "type": "intro",
+      "script_words": 32,
+      "generated_at": "2026-03-30 12:20:36"
+    },
+    "003_formula_0.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "de8b1fad57134bc243e3f1c00eee863c",
+      "wav_file": "003_formula_0.wav",
+      "duration": 47.451,
+      "slide_title": "ಸಮಾಂತರ ಮಾಧ್ಯ ಎಂದರೇನು?",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-03-30 12:20:50"
+    },
+    "004_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "ed892411b9dd7b3afee996f8b16de330",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "duration": 39.891,
+      "slide_title": "ಸೂತ್ರದ ನಿಷ್ಪನ್ನ - ಭಾಗ 1",
+      "type": "formula_derivation",
+      "script_words": 56,
+      "generated_at": "2026-03-30 12:20:51"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "199b9f91076990a1abacdb8dc271dbb3",
+      "wav_file": "001_intro_0.wav",
+      "duration": 48.611,
+      "slide_title": "ಸಮಾಂತರ ಮಾಧ್ಯ (Arithmetic Mean)",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-03-30 12:20:52"
+    },
+    "005_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "fd397500aa414a9fe566930aa08a82e3",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "duration": 43.731,
+      "slide_title": "ಸೂತ್ರದ ನಿಷ್ಪನ್ನ - ಭಾಗ 2",
+      "type": "formula_derivation",
+      "script_words": 64,
+      "generated_at": "2026-03-30 12:21:14"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "23a0c60156b9d690fdc5bc67c9b33076",
+      "wav_file": "009_recap_0.wav",
+      "duration": 32.251,
+      "slide_title": "ಸಾರಾಂಶ: ಸಮಾಂತರ ಮಾಧ್ಯ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-03-30 12:21:41"
+    },
+    "006_formula_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "08571ddbb8bd2f2d42e4af107479f63a",
+      "wav_file": "006_formula_cont_0_3.wav",
+      "duration": 39.811,
+      "slide_title": "ಸಮಾಂತರ ಮಾಧ್ಯದ ಸೂತ್ರ",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-03-30 12:21:50"
+    },
+    "007_formula_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "0f16ed4857fb2ef5232dca5a41f2e07e",
+      "wav_file": "007_formula_cont_0_4.wav",
+      "duration": 50.011,
+      "slide_title": "ಒಂದು ತ್ವರಿತ ಉದಾಹರಣೆ",
+      "type": "concept_explanation",
+      "script_words": 81,
+      "generated_at": "2026-03-30 12:21:58"
+    },
+    "008_formula_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "066ee816b321bb4c73fc10fe4b340cf6",
+      "wav_file": "008_formula_cont_0_5.wav",
+      "duration": 50.611,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "concept_explanation",
+      "script_words": 71,
+      "generated_at": "2026-03-30 12:22:00"
+    }
+  }
+}

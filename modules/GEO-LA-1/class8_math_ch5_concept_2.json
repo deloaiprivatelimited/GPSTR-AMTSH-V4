@@ -1,0 +1,129 @@
+{
+  "module_id": "class8_math_ch5_concept_2",
+  "module_title": "ಛೇದಕ ಮತ್ತು ಸಮಾಂತರ ರೇಖೆಗಳು",
+  "class": "8",
+  "chapter": "5",
+  "chapter_title": "ರೇಖೆಗಳು ಮತ್ತು ಕೋನಗಳು",
+  "domain": "ರೇಖಾಗಣಿತ",
+  "prerequisites": [
+    "class8_math_ch5_concept_1"
+  ],
+  "theory": {
+    "concept_summary": "ಛೇದಿಸುವ ರೇಖೆಗಳು ಸಾಮಾನ್ಯ ಬಿಂದುವನ್ನು ಹೊಂದಿದ್ದರೆ, ಸಮಾಂತರ ರೇಖೆಗಳು ಎಂದಿಗೂ ಛೇದಿಸುವುದಿಲ್ಲ. ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ರೇಖೆಗಳನ್ನು ವಿಭಿನ್ನ ಬಿಂದುಗಳಲ್ಲಿ ಛೇದಿಸುವ ರೇಖೆಯನ್ನು ಛೇದಕ ಎನ್ನುತ್ತಾರೆ. ಛೇದಕವು ಅನುರೂಪ, ಪರ್ಯಾಯ ಅಂತರ್, ಪರ್ಯಾಯ ಬಾಹ್ಯ ಮತ್ತು ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಅಂತರ್ ಕೋನಗಳಂತಹ ವಿವಿಧ ಕೋನ ಜೋಡಿಗಳನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ. ಈ ಕೋನಗಳ ಸ್ಥಾನಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಸಮಾಂತರ ರೇಖೆಗಳ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಅನ್ವಯಿಸಲು ನಿರ್ಣಾಯಕವಾಗಿದೆ.",
+    "definitions": [
+      {
+        "term": "ಛೇದಿಸುವ ರೇಖೆಗಳು (Intersecting Lines)",
+        "definition": "ಎರಡು ರೇಖೆಗಳು ಒಂದು ಸಾಮಾನ್ಯ ಬಿಂದುವನ್ನು ಹೊಂದಿದ್ದರೆ, ಅವುಗಳನ್ನು ಛೇದಿಸುವ ರೇಖೆಗಳು ಎನ್ನುತ್ತಾರೆ."
+      },
+      {
+        "term": "ಸಮಾಂತರ ರೇಖೆಗಳು (Parallel Lines)",
+        "definition": "ಒಂದೇ ಸಮತಲದಲ್ಲಿರುವ ಮತ್ತು ಪರಸ್ಪರ ಎಂದಿಗೂ ಛೇದಿಸದ ರೇಖೆಗಳನ್ನು ಸಮಾಂತರ ರೇಖೆಗಳು ಎನ್ನುತ್ತಾರೆ. ಅವುಗಳ ನಡುವಿನ ಲಂಬ ದೂರವು ಯಾವಾಗಲೂ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ."
+      },
+      {
+        "term": "ಛೇದಕ (Transversal)",
+        "definition": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ರೇಖೆಗಳನ್ನು ವಿಭಿನ್ನ ಬಿಂದುಗಳಲ್ಲಿ ಛೇದಿಸುವ ರೇಖೆಯನ್ನು ಛೇದಕ ಎನ್ನುತ್ತಾರೆ."
+      },
+      {
+        "term": "ಅನುರೂಪ ಕೋನಗಳು (Corresponding Angles)",
+        "definition": "ಛೇದಕದ ಒಂದೇ ಬದಿಯಲ್ಲಿ, ಮತ್ತು ಛೇದಿಸಲ್ಪಡುವ ರೇಖೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಒಂದೇ ರೀತಿಯ ಸ್ಥಾನದಲ್ಲಿರುವ (ಉದಾ: ಎರಡೂ ಮೇಲಿನ-ಬಲ) ಕೋನಗಳ ಜೋಡಿ."
+      },
+      {
+        "term": "ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು (Alternate Interior Angles)",
+        "definition": "ಛೇದಿಸಲ್ಪಡುವ ರೇಖೆಗಳ ನಡುವೆ (ಅಂತರ್) ಮತ್ತು ಛೇದಕದ ವಿರುದ್ಧ ಬದಿಗಳಲ್ಲಿರುವ ಕೋನಗಳ ಜೋಡಿ."
+      },
+      {
+        "term": "ಪರ್ಯಾಯ ಬಾಹ್ಯ ಕೋನಗಳು (Alternate Exterior Angles)",
+        "definition": "ಛೇದಿಸಲ್ಪಡುವ ರೇಖೆಗಳ ಹೊರಗೆ (ಬಾಹ್ಯ) ಮತ್ತು ಛೇದಕದ ವಿರುದ್ಧ ಬದಿಗಳಲ್ಲಿರುವ ಕೋನಗಳ ಜೋಡಿ."
+      },
+      {
+        "term": "ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಅಂತರ್ ಕೋನಗಳು (Consecutive Interior Angles)",
+        "definition": "ಛೇದಿಸಲ್ಪಡುವ ರೇಖೆಗಳ ನಡುವೆ ಮತ್ತು ಛೇದಕದ ಒಂದೇ ಬದಿಯಲ್ಲಿರುವ ಕೋನಗಳ ಜೋಡಿ. ಇವುಗಳನ್ನು 'ಅನುಕ್ರಮ ಅಂತರ್ ಕೋನಗಳು' ಅಥವಾ 'ಪೂರಕ ಅಂತರ್ ಕೋನಗಳು' ಎಂದೂ ಕರೆಯುತ್ತಾರೆ."
+      }
+    ],
+    "formulas": [],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "table",
+        "id": "class8_math_ch5_transversal_angle_pairs_table",
+        "render_target": "html_table",
+        "exam_relevance": "MCQ | 2-mark",
+        "cannot_be_expressed_in_text": false,
+        "graph_type": null,
+        "concept_latex": null,
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [],
+        "purpose": "ಎರಡು ರೇಖೆಗಳನ್ನು ಒಂದು ಛೇದಕವು ಛೇದಿಸಿದಾಗ ಉಂಟಾಗುವ ವಿವಿಧ ಕೋನಗಳ ಜೋಡಿಗಳನ್ನು ವರ್ಗೀಕರಿಸಲು.",
+        "headers": [
+          "ಕೋನ ಜೋಡಿಯ ವಿಧ",
+          "ಚಿತ್ರದಲ್ಲಿನ ಉದಾಹರಣೆಗಳು (ಕೋನ 1-8)"
+        ],
+        "rows": [
+          [
+            "ಅನುರೂಪ ಕೋನಗಳು",
+            "∠1 ಮತ್ತು ∠5; ∠2 ಮತ್ತು ∠6; ∠3 ಮತ್ತು ∠7; ∠4 ಮತ್ತು ∠8"
+          ],
+          [
+            "ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು",
+            "∠3 ಮತ್ತು ∠6; ∠4 ಮತ್ತು ∠5"
+          ],
+          [
+            "ಪರ್ಯಾಯ ಬಾಹ್ಯ ಕೋನಗಳು",
+            "∠1 ಮತ್ತು ∠8; ∠2 ಮತ್ತು ∠7"
+          ],
+          [
+            "ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಅಂತರ್ ಕೋನಗಳು",
+            "∠3 ಮತ್ತು ∠5; ∠4 ಮತ್ತು ∠6"
+          ]
+        ],
+        "special_cells": []
+      },
+      {
+        "type": "diagram",
+        "id": "class8_math_ch5_transversal_angles_geometric_figure",
+        "render_target": "svg_template",
+        "exam_relevance": "2-mark | 5-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "geometric_figure",
+        "concept_latex": "Angles formed by a transversal",
+        "x_axis_label": "",
+        "y_axis_label": "",
+        "x_range": [],
+        "y_range": [],
+        "key_points": [],
+        "annotations": [
+          "{\"type\": \"line\", \"points\": [{\"x\": 0, \"y\": 6}, {\"x\": 10, \"y\": 6}], \"label\": \"l\"}",
+          "{\"type\": \"line\", \"points\": [{\"x\": 0, \"y\": 3}, {\"x\": 10, \"y\": 3}], \"label\": \"m\"}",
+          "{\"type\": \"line\", \"points\": [{\"x\": 2, \"y\": 8}, {\"x\": 8, \"y\": 1}], \"label\": \"t (ಛೇದಕ)\"}",
+          "{\"type\": \"label\", \"text\": \"1\", \"x\": 3.5, \"y\": 6.5}",
+          "{\"type\": \"label\", \"text\": \"2\", \"x\": 4.8, \"y\": 6.5}",
+          "{\"type\": \"label\", \"text\": \"4\", \"x\": 3.5, \"y\": 5.5}",
+          "{\"type\": \"label\", \"text\": \"3\", \"x\": 4.8, \"y\": 5.5}",
+          "{\"type\": \"label\", \"text\": \"5\", \"x\": 5.5, \"y\": 3.5}",
+          "{\"type\": \"label\", \"text\": \"6\", \"x\": 6.8, \"y\": 3.5}",
+          "{\"type\": \"label\", \"text\": \"8\", \"x\": 5.5, \"y\": 2.5}",
+          "{\"type\": \"label\", \"text\": \"7\", \"x\": 6.8, \"y\": 2.5}"
+        ],
+        "purpose": "",
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಚಿತ್ರವನ್ನು ನೀಡಿ, ∠3 ಮತ್ತು ∠6 ಯಾವ ರೀತಿಯ ಕೋನ ಜೋಡಿ?",
+    "two_mark_note": "ಚಿತ್ರದಲ್ಲಿನ ಎಲ್ಲಾ ಅನುರೂಪ ಕೋನಗಳ ಜೋಡಿಗಳನ್ನು ಹೆಸರಿಸಿ.",
+    "five_mark_note": "",
+    "common_mistakes": [],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

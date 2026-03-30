@@ -1,0 +1,136 @@
+{
+  "module_id": "class8_math_ch7_concept_3",
+  "module_title": "ಲಾಭ, ನಷ್ಟ ಮತ್ತು ರಿಯಾಯಿತಿ (Profit, Loss, and Discount)",
+  "class": "8",
+  "chapter": "7",
+  "chapter_title": "ಪರಿಮಾಣಗಳ ಹೋಲಿಕೆ (Comparing Quantities)",
+  "domain": "ವಾಣಿಜ್ಯ ಗಣಿತ",
+  "prerequisites": [
+    "class8_math_ch7_concept_1",
+    "class8_math_ch7_concept_2"
+  ],
+  "theory": {
+    "concept_summary": "ಲಾಭ, ನಷ್ಟ ಮತ್ತು ರಿಯಾಯಿತಿಗಳು ವಾಣಿಜ್ಯ ಗಣಿತದ ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಗಳಾಗಿವೆ. ಕೊಂಡ ಬೆಲೆ (CP) ಮತ್ತು ಮಾರಿದ ಬೆಲೆ (SP) ಆಧಾರದ ಮೇಲೆ ಲಾಭ ಅಥವಾ ನಷ್ಟವನ್ನು ನಿರ್ಧರಿಸಲಾಗುತ್ತದೆ. ನಮೂದಿತ ಬೆಲೆ (MP) ಮೇಲೆ ರಿಯಾಯಿತಿಯನ್ನು ನೀಡಲಾಗುತ್ತದೆ. ಈ ಪರಿಕಲ್ಪನೆಗಳು ವ್ಯಾಪಾರದಲ್ಲಿ ಲಾಭದಾಯಕತೆಯನ್ನು ಅಳೆಯಲು ಮತ್ತು ಮಾರಾಟ ತಂತ್ರಗಳನ್ನು ರೂಪಿಸಲು ನಿರ್ಣಾಯಕವಾಗಿವೆ.",
+    "definitions": [
+      {
+        "term": "ಕೊಂಡ ಬೆಲೆ (Cost Price - CP)",
+        "definition": "ಒಂದು ವಸ್ತುವನ್ನು ಖರೀದಿಸಲು ತಗಲುವ ವೆಚ್ಚ. ಸಾಗಾಣಿಕೆ, ದುರಸ್ತಿಯಂತಹ ಹೆಚ್ಚುವರಿ ಖರ್ಚುಗಳಿದ್ದರೆ, ಅವನ್ನು ಕೊಂಡ ಬೆಲೆಗೆ ಸೇರಿಸಲಾಗುತ್ತದೆ."
+      },
+      {
+        "term": "ಮಾರಿದ ಬೆಲೆ (Selling Price - SP)",
+        "definition": "ಒಂದು ವಸ್ತುವನ್ನು ಮಾರಾಟ ಮಾಡುವ ಬೆಲೆ."
+      },
+      {
+        "term": "ಲಾಭ (Profit)",
+        "definition": "ಮಾರಿದ ಬೆಲೆಯು ಕೊಂಡ ಬೆಲೆಗಿಂತ ಹೆಚ್ಚಾದಾಗ ಉಂಟಾಗುತ್ತದೆ (SP > CP)."
+      },
+      {
+        "term": "ನಷ್ಟ (Loss)",
+        "definition": "ಮಾರಿದ ಬೆಲೆಯು ಕೊಂಡ ಬೆಲೆಗಿಂತ ಕಡಿಮೆಯಾದಾಗ ಉಂಟಾಗುತ್ತದೆ (CP > SP)."
+      },
+      {
+        "term": "ನಮೂದಿತ ಬೆಲೆ (Marked Price - MP)",
+        "definition": "ವಸ್ತುವಿನ ಮೇಲೆ ನಮೂದಿಸಲಾದ ಬೆಲೆ. ಇದನ್ನು ಪಟ್ಟಿ ಬೆಲೆ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ."
+      },
+      {
+        "term": "ರಿಯಾಯಿತಿ (Discount)",
+        "definition": "ನಮೂದಿತ ಬೆಲೆಯ ಮೇಲೆ ನೀಡಲಾಗುವ ಕಡಿತ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "ಲಾಭ (Profit)",
+        "latex": "\\text{ಲಾಭ} = SP - CP",
+        "condition": "SP > CP",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "ನಷ್ಟ (Loss)",
+        "latex": "\\text{ನಷ್ಟ} = CP - SP",
+        "condition": "CP > SP",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "ಶೇಕಡಾ ಲಾಭ (Profit Percentage)",
+        "latex": "\\text{ಶೇಕಡಾ ಲಾಭ} = \\frac{\\text{ಲಾಭ}}{CP} \\times 100\\%",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "ಶೇಕಡಾ ನಷ್ಟ (Loss Percentage)",
+        "latex": "\\text{ಶೇಕಡಾ ನಷ್ಟ} = \\frac{\\text{ನಷ್ಟ}}{CP} \\times 100\\%",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "ರಿಯಾಯಿತಿ (Discount)",
+        "latex": "\\text{ರಿಯಾಯಿತಿ} = MP - SP",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "ಶೇಕಡಾ ರಿಯಾಯಿತಿ (Discount Percentage)",
+        "latex": "\\text{ಶೇಕಡಾ ರಿಯಾಯಿತಿ} = \\frac{\\text{ರಿಯಾಯಿತಿ}}{MP} \\times 100\\%",
+        "condition": "",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class8_math_ch7_example_3",
+      "difficulty": "advanced",
+      "problem": "ಜೂಹಿ ಒಂದು ವಾಷಿಂಗ್ ಮೆಷಿನ್ ಅನ್ನು ₹13,500 ಕ್ಕೆ ಮಾರುತ್ತಾಳೆ. ಈ ವ್ಯವಹಾರದಲ್ಲಿ ಅವಳು 20% ನಷ್ಟ ಅನುಭವಿಸುತ್ತಾಳೆ. ಹಾಗಾದರೆ ಅವಳು ಅದನ್ನು ಎಷ್ಟು ಬೆಲೆಗೆ ಕೊಂಡಿದ್ದಳು?",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶವನ್ನು ಗುರುತಿಸಿ. ಮಾರಿದ ಬೆಲೆ (SP) ಮತ್ತು ಶೇಕಡಾ ನಷ್ಟವನ್ನು ನೀಡಲಾಗಿದೆ.",
+          "justification": "SP = ₹13,500, ಶೇಕಡಾ ನಷ್ಟ = 20%."
+        },
+        {
+          "step": 2,
+          "action": "ಕೊಂಡ ಬೆಲೆಯನ್ನು (CP) 'x' ಎಂದು ಭಾವಿಸೋಣ. ಶೇಕಡಾ ನಷ್ಟವನ್ನು ಯಾವಾಗಲೂ ಕೊಂಡ ಬೆಲೆಯ ಮೇಲೆ ಲೆಕ್ಕ ಹಾಕಲಾಗುತ್ತದೆ.",
+          "justification": "ನಷ್ಟ = CP ಯ 20% = 0.20x."
+        },
+        {
+          "step": 3,
+          "action": "ನಷ್ಟದ ಸೂತ್ರವನ್ನು ಬಳಸಿ: ನಷ್ಟ = CP - SP.",
+          "justification": "ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ."
+        },
+        {
+          "step": 4,
+          "action": "ಸಮೀಕರಣವನ್ನು 'x' ಗಾಗಿ ಬಿಡಿಸಿ.",
+          "justification": "x ಪದಗಳನ್ನು ಒಂದು ಕಡೆ ಮತ್ತು ಸಂಖ್ಯೆಗಳನ್ನು ಇನ್ನೊಂದು ಕಡೆ ತನ್ನಿ."
+        }
+      ],
+      "result": "ವಾಷಿಂಗ್ ಮೆಷಿನ್‌ನ ಕೊಂಡ ಬೆಲೆ (CP) ₹16,875 ಆಗಿತ್ತು.",
+      "common_trap": "ಶೇಕಡಾ ಲಾಭ ಅಥವಾ ನಷ್ಟವನ್ನು ಮಾರಿದ ಬೆಲೆಯ (SP) ಮೇಲೆ ಲೆಕ್ಕ ಹಾಕುವುದು. ಇದನ್ನು ಯಾವಾಗಲೂ ಕೊಂಡ ಬೆಲೆಯ (CP) ಮೇಲೆ ಲೆಕ್ಕ ಹಾಕಬೇಕು. ಅದೇ ರೀತಿ, ರಿಯಾಯಿತಿಯನ್ನು ಯಾವಾಗಲೂ ನಮೂದಿತ ಬೆಲೆಯ (MP) ಮೇಲೆ ಲೆಕ್ಕ ಹಾಕಬೇಕು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "CP ಮತ್ತು SP ನೀಡಿ, ಲಾಭ ಅಥವಾ ನಷ್ಟವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೇಳಬಹುದು.",
+    "two_mark_note": "CP ಮತ್ತು ಶೇಕಡಾ ಲಾಭ ನೀಡಿ, SP ಕಂಡುಹಿಡಿಯಲು ಕೇಳಬಹುದು.",
+    "five_mark_note": "ಮೇಲಿನ ಉದಾಹರಣೆಯಂತಹ ಪ್ರಶ್ನೆ, ಅಲ್ಲಿ SP ಮತ್ತು ಶೇಕಡಾ ನಷ್ಟ/ಲಾಭ ನೀಡಿ CP ಕಂಡುಹಿಡಿಯಬೇಕಾಗುತ್ತದೆ.",
+    "common_mistakes": [
+      "ಹೆಚ್ಚುವರಿ ಖರ್ಚುಗಳನ್ನು (overhead costs) ಕೊಂಡ ಬೆಲೆಗೆ ಸೇರಿಸಲು ಮರೆಯುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

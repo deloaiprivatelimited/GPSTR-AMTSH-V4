@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 3: ಶೂನ್ಯ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ",
+  "script": "ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಶೂನ್ಯವೂ ಆಗಿರಬಹುದು. ಉದಾಹರಣೆಗೆ, 5, 5, 5, 5, ... ಈ ಶ್ರೇಢಿಯನ್ನು ಪರಿಗಣಿಸಿ. ಇಲ್ಲಿ ಎರಡನೇ ಪದದಿಂದ ಮೊದಲ ಪದವನ್ನು ಕಳೆದರೆ, 5 ಮೈನಸ್ 5, ನಮಗೆ ಸೊನ್ನೆ ಸಿಗುತ್ತದೆ. ಮೂರನೇ ಪದದಿಂದ ಎರಡನೇ ಪದವನ್ನು ಕಳೆದರೂ, 5 ಮೈನಸ್ 5, ಮತ್ತೆ ಸೊನ್ನೆಯೇ ಬರುತ್ತದೆ. ಇಲ್ಲಿ ವ್ಯತ್ಯಾಸ ಸ್ಥಿರವಾಗಿ ಸೊನ್ನೆ ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಇದೂ ಕೂಡ ಒಂದು ಸಮಾಂತರ ಶ್ರೇಢಿ. ಇದರ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ 'd' ಈಕ್ವಲ್ಸ್ 0. ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಶೂನ್ಯವಾದಾಗ, ಶ್ರೇಢಿಯ ಎಲ್ಲಾ ಪದಗಳು ಒಂದೇ ಆಗಿರುತ್ತವೆ.",
+  "script_display": "ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಶೂನ್ಯವೂ ಆಗಿರಬಹುದು. ಉದಾಹರಣೆಗೆ, $5, 5, 5, 5, \\dots$ ಈ ಶ್ರೇಢಿಯನ್ನು ಪರಿಗಣಿಸಿ. ಇಲ್ಲಿ $a_2 - a_1 = 5 - 5 = 0$. ಮೂರನೇ ಪದದಿಂದ ಎರಡನೇ ಪದವನ್ನು ಕಳೆದರೂ, $a_3 - a_2 = 5 - 5 = 0$. ಇಲ್ಲಿ ವ್ಯತ್ಯಾಸ ಸ್ಥಿರವಾಗಿ ಸೊನ್ನೆ ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಇದೂ ಕೂಡ ಒಂದು ಸಮಾಂತರ ಶ್ರೇಢಿ. ಇದರ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ $d = 0$. ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಶೂನ್ಯವಾದಾಗ, ಶ್ರೇಢಿಯ ಎಲ್ಲಾ ಪದಗಳು ಒಂದೇ ಆಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಶ್ರೇಢಿ: $5, 5, 5, 5, \\dots$",
+    "ವ್ಯತ್ಯಾಸ 1: $d = a_2 - a_1 = 5 - 5 = 0$",
+    "ವ್ಯತ್ಯಾಸ 2: $d = a_3 - a_2 = 5 - 5 = 0$",
+    "ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ (d) = 0 (ಶೂನ್ಯ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line with points only at 5. Arrows loop from 5 back to 5, labeled '+0'.",
+    "labels": "ಶೂನ್ಯ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ",
+    "mathematical_significance": "Illustrates a zero common difference, resulting in a constant sequence.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "ALG-AP-4_concept_1_chunk_015"
+}

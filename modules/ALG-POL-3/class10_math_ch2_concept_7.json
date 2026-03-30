@@ -1,0 +1,131 @@
+{
+  "module_id": "class10_math_ch2_concept_7",
+  "module_title": "ಶೂನ್ಯತೆಗಳು ಮತ್ತು ಸಹಗುಣಕಗಳ ನಡುವಿನ ಸಂಬಂಧ",
+  "class": "10",
+  "chapter": "2",
+  "chapter_title": "ಬಹುಪದೋಕ್ತಿಗಳು",
+  "domain": "ಬೀಜಗಣಿತ",
+  "prerequisites": [
+    "class10_math_ch2_concept_1",
+    "class10_math_ch2_concept_2",
+    "class10_math_ch2_concept_3",
+    "class10_math_ch2_concept_4",
+    "class10_math_ch2_concept_5",
+    "class10_math_ch2_concept_6"
+  ],
+  "theory": {
+    "concept_summary": "ಒಂದು ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆಗಳು ಮತ್ತು ಅದರ ಸಹಗುಣಕಗಳ ನಡುವೆ ನಿರ್ದಿಷ್ಟ ಸಂಬಂಧವಿದೆ. ವರ್ಗ ಬಹುಪದೋಕ್ತಿ `ax² + bx + c` ಗೆ, ಶೂನ್ಯತೆಗಳ ಮೊತ್ತ `(-b/a)` ಮತ್ತು ಗುಣಲಬ್ಧ `(c/a)` ಆಗಿರುತ್ತದೆ. ಘನ ಬಹುಪದೋಕ್ತಿ `ax³ + bx² + cx + d` ಗೆ, ಶೂನ್ಯತೆಗಳ ಮೊತ್ತ `(-b/a)`, ಎರಡರ ಗುಣಲಬ್ಧಗಳ ಮೊತ್ತ `(c/a)` ಮತ್ತು ಗುಣಲಬ್ಧ `(-d/a)` ಆಗಿರುತ್ತದೆ. ಈ ಸಂಬಂಧಗಳು ಶೂನ್ಯತೆಗಳನ್ನು ನೇರವಾಗಿ ಕಂಡುಹಿಡಿಯದೆ ಅವುಗಳ ಮೊತ್ತ ಮತ್ತು ಗುಣಲಬ್ಧವನ್ನು ನಿರ್ಧರಿಸಲು ಸಹಾಯಕವಾಗಿವೆ.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "Sum of Zeroes (Quadratic)",
+        "latex": "\\alpha + \\beta = -\\frac{b}{a} = -\\frac{x \\text{ ನ ಸಹಗುಣಕ}}{x^2 \\text{ ನ ಸಹಗುಣಕ}}",
+        "condition": "For quadratic polynomial p(x) = ax² + bx + c with zeroes α and β",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Relating zeroes and coefficients of polynomials"
+      },
+      {
+        "formula_name": "Product of Zeroes (Quadratic)",
+        "latex": "\\alpha \\beta = \\frac{c}{a} = \\frac{\\text{ಸ್ಥಿರಾಂಕ}}{x^2 \\text{ ನ ಸಹಗುಣಕ}}",
+        "condition": "For quadratic polynomial p(x) = ax² + bx + c with zeroes α and β",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Relating zeroes and coefficients of polynomials"
+      },
+      {
+        "formula_name": "Sum of Zeroes (Cubic)",
+        "latex": "\\alpha + \\beta + \\gamma = -\\frac{b}{a} = -\\frac{x^2 \\text{ ನ ಸಹಗುಣಕ}}{x^3 \\text{ ನ ಸಹಗುಣಕ}}",
+        "condition": "For cubic polynomial p(x) = ax³ + bx² + cx + d with zeroes α, β, and γ",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Relating zeroes and coefficients of polynomials"
+      },
+      {
+        "formula_name": "Sum of the Products of Zeroes taken two at a time",
+        "latex": "\\alpha\\beta + \\beta\\gamma + \\gamma\\alpha = \\frac{c}{a} = \\frac{x \\text{ ನ ಸಹಗುಣಕ}}{x^3 \\text{ ನ ಸಹಗುಣಕ}}",
+        "condition": "For cubic polynomial p(x) = ax³ + bx² + cx + d with zeroes α, β, and γ",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Relating zeroes and coefficients of polynomials"
+      },
+      {
+        "formula_name": "Product of Zeroes (Cubic)",
+        "latex": "\\alpha\\beta\\gamma = -\\frac{d}{a} = -\\frac{\\text{ಸ್ಥಿರಾಂಕ}}{x^3 \\text{ ನ ಸಹಗುಣಕ}}",
+        "condition": "For cubic polynomial p(x) = ax³ + bx² + cx + d with zeroes α, β, and γ",
+        "exception": null,
+        "derived_from": null,
+        "used_in": "Relating zeroes and coefficients of polynomials"
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "class10_math_ch2_example_8",
+      "difficulty": "intermediate",
+      "problem": "`x² + 7x + 10` ಎಂಬ ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆಗಳನ್ನು ಕಂಡುಹಿಡಿದು, ಶೂನ್ಯತೆಗಳು ಮತ್ತು ಸಹಗುಣಕಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ತಾಳೆ ನೋಡಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬಹುಪದೋಕ್ತಿಯನ್ನು ಅಪವರ್ತಿಸಿ ಶೂನ್ಯತೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. `x² + 5x + 2x + 10 = x(x+5) + 2(x+5) = (x+2)(x+5)`. ಶೂನ್ಯತೆಗಳು `x=-2` ಮತ್ತು `x=-5`. `α = -2`, `β = -5`.",
+          "justification": "`p(x)=0` ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು."
+        },
+        {
+          "step": 2,
+          "action": "ಶೂನ್ಯತೆಗಳ ಮೊತ್ತವನ್ನು ನೇರವಾಗಿ ಮತ್ತು ಸೂತ್ರದ ಮೂಲಕ ಲೆಕ್ಕ ಹಾಕಿ. ನೇರ ಮೊತ್ತ: `α + β = (-2) + (-5) = -7`. ಸೂತ್ರದ ಮೂಲಕ: `-b/a = -(7)/1 = -7`.",
+          "justification": "ಸಂಬಂಧವನ್ನು ತಾಳೆ ನೋಡುವುದು."
+        },
+        {
+          "step": 3,
+          "action": "ಶೂನ್ಯತೆಗಳ ಗುಣಲಬ್ಧವನ್ನು ನೇರವಾಗಿ ಮತ್ತು ಸೂತ್ರದ ಮೂಲಕ ಲೆಕ್ಕ ಹಾಕಿ. ನೇರ ಗುಣಲಬ್ಧ: `αβ = (-2) * (-5) = 10`. ಸೂತ್ರದ ಮೂಲಕ: `c/a = 10/1 = 10`.",
+          "justification": "ಸಂಬಂಧವನ್ನು ತಾಳೆ ನೋಡುವುದು."
+        }
+      ],
+      "result": "ಶೂನ್ಯತೆಗಳ ಮೊತ್ತ ಮತ್ತು ಗುಣಲಬ್ಧ ಎರಡೂ ಸಂದರ್ಭಗಳಲ್ಲಿ ಸಮನಾಗಿರುವುದರಿಂದ ಸಂಬಂಧವನ್ನು ತಾಳೆ ನೋಡಲಾಗಿದೆ.",
+      "common_trap": null
+    },
+    {
+      "example_id": "class10_math_ch2_example_9",
+      "difficulty": "intermediate",
+      "problem": "ಶೂನ್ಯತೆಗಳ ಮೊತ್ತ -3 ಮತ್ತು ಗುಣಲಬ್ಧ 2 ಆಗಿರುವ ಒಂದು ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಅಪೇಕ್ಷಿತ ಬಹುಪದೋಕ್ತಿ `ax² + bx + c` ಆಗಿರಲಿ ಮತ್ತು ಅದರ ಶೂನ್ಯತೆಗಳು `α` ಮತ್ತು `β` ಆಗಿರಲಿ.",
+          "justification": "ಸಾಮಾನ್ಯ ರೂಪವನ್ನು ಪರಿಗಣಿಸುವುದು."
+        },
+        {
+          "step": 2,
+          "action": "ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶವನ್ನು ಸೂತ್ರಗಳಿಗೆ ಸಮೀಕರಿಸಿ. `α + β = -3 = -b/a` ಮತ್ತು `αβ = 2 = c/a`.",
+          "justification": ""
+        },
+        {
+          "step": 3,
+          "action": "`a, b, c` ಗೆ ಸರಳವಾದ ಬೆಲೆಗಳನ್ನು ಆರಿಸಿ. `a=1` ಎಂದು ಭಾವಿಸಿದರೆ, `-b/1 = -3` => `b=3`. `c/1 = 2` => `c=2`.",
+          "justification": ""
+        },
+        {
+          "step": 4,
+          "action": "`a, b, c` ಬೆಲೆಗಳನ್ನು ಸಾಮಾನ್ಯ ರೂಪದಲ್ಲಿ ಆದೇಶಿಸಿ. `1x² + 3x + 2` ಅಂದರೆ `x² + 3x + 2`.",
+          "justification": ""
+        }
+      ],
+      "result": "ಅಪೇಕ್ಷಿತ ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯು `x² + 3x + 2` ಆಗಿದೆ. (ಸಾಮಾನ್ಯವಾಗಿ, `k(x² + 3x + 2)` ರೂಪದ ಯಾವುದೇ ಬಹುಪದೋಕ್ತಿ ಸರಿಹೊಂದುತ್ತದೆ).",
+      "common_trap": null
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಒಂದು ವರ್ಗ ಬಹುಪದೋಕ್ತಿ ಕೊಟ್ಟು ಶೂನ್ಯತೆಗಳ ಮೊತ್ತ/ಗುಣಲಬ್ಧ ಕೇಳುವುದು.",
+    "two_mark_note": "ಶೂನ್ಯತೆಗಳನ್ನು ಕಂಡುಹಿಡಿದು ಸಂಬಂಧವನ್ನು ತಾಳೆ ನೋಡಿ. ಶೂನ್ಯತೆಗಳ ಮೊತ್ತ ಮತ್ತು ಗುಣಲಬ್ಧ ಕೊಟ್ಟು ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯನ್ನು ರಚಿಸಿ.",
+    "five_mark_note": "",
+    "common_mistakes": [
+      "`-b/a` ಸೂತ್ರದಲ್ಲಿನ ಋಣಾತ್ಮಕ ಚಿಹ್ನೆಯನ್ನು ಮರೆಯುವುದು. `b` ಯು ಋಣಾತ್ಮಕವಾಗಿದ್ದಾಗ, `-b/a` ಧನಾತ್ಮಕವಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಗಮನಿಸದಿರುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

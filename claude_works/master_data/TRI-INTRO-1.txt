@@ -1,0 +1,378 @@
+[ಅಧ್ಯಾಯ_ಮೆಟಾಡೇಟಾ]
+merge_code: TRI-INTRO-1
+subject: ಗಣಿತ
+topic: ತ್ರಿಕೋನಮಿತಿಯ ಪ್ರಸ್ತಾವನೆ
+domain: ತ್ರಿಕೋನಮಿತಿ (Trigonometry)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ಮೂಲ_ಅವಧಾರಣೆ_1]
+concept_id: TRI-INTRO-1_concept_1
+concept_name: ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳು (Trigonometric Ratios)
+domain: ತ್ರಿಕೋನಮಿತಿ (Trigonometry)
+
+  [ಸಾರಾಂಶ]
+  ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಲಘುಕೋನಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಅದರ ಬಾಹುಗಳ ಅನುಪಾತಗಳನ್ನು ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈ ಅನುಪಾತಗಳು ತ್ರಿಭುಜದ ಗಾತ್ರವನ್ನು ಅವಲಂಬಿಸದೆ, ಕೇವಲ ಕೋನದ ಅಳತೆಯನ್ನು ಅವಲಂಬಿಸಿವೆ. ಇವುಗಳನ್ನು ಬಳಸಿ ತ್ರಿಭುಜದ ಬಾಹುಗಳು ಮತ್ತು ಕೋನಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಅಧ್ಯಯನ ಮಾಡಬಹುದು.
+
+  [ವ್ಯಾಖ್ಯೆ]
+  ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\angle B = 90^\circ$ ಮತ್ತು $\angle A$ ಒಂದು ಲಘುಕೋನವಾದರೆ,
+  1.  **ಜ್ಯಾ (sine):** $\sin A = \frac{\text{A ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು}}{\text{ವಿಕರ್ಣ}}$
+  2.  **ಕೋಟಿ ಜ್ಯಾ (cosine):** $\cos A = \frac{\text{A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು}}{\text{ವಿಕರ್ಣ}}$
+  3.  **ಸ್ಪರ್ಶಕ (tangent):** $\tan A = \frac{\text{A ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು}}{\text{A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು}}$
+  4.  **ಕೋಟಿ ಛೇದಕ (cosecant):** $\csc A = \frac{\text{ವಿಕರ್ಣ}}{\text{A ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು}}$
+  5.  **ಛೇದಕ (secant):** $\sec A = \frac{\text{ವಿಕರ್ಣ}}{\text{A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು}}$
+  6.  **ಕೋಟಿ ಸ್ಪರ್ಶಕ (cotangent):** $\cot A = \frac{\text{A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು}}{\text{A ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು}}$
+
+  [ಸೂತ್ರಗಳು]
+  **ಮೂಲ ಅನುಪಾತಗಳು (Basic Ratios):**
+  - formula_name: "Sine of A"
+    latex: "\\sin A = \\frac{BC}{AC}"
+    condition: "In a right triangle ABC, right-angled at B."
+  - formula_name: "Cosine of A"
+    latex: "\\cos A = \\frac{AB}{AC}"
+    condition: "In a right triangle ABC, right-angled at B."
+  - formula_name: "Tangent of A"
+    latex: "\\tan A = \\frac{BC}{AB}"
+    condition: "In a right triangle ABC, right-angled at B."
+
+  **ವ್ಯುತ್ಕ್ರಮ ಸಂಬಂಧಗಳು (Reciprocal Relations):**
+  - formula_name: "Cosecant as reciprocal of Sine"
+    latex: "\\csc A = \\frac{1}{\\sin A}"
+  - formula_name: "Secant as reciprocal of Cosine"
+    latex: "\\sec A = \\frac{1}{\\cos A}"
+  - formula_name: "Cotangent as reciprocal of Tangent"
+    latex: "\\cot A = \\frac{1}{\\tan A}"
+
+  **ಭಾಗಲಬ್ಧ ಸಂಬಂಧಗಳು (Quotient Relations):**
+  - formula_name: "Tangent as Sine/Cosine"
+    latex: "\\tan A = \\frac{\\sin A}{\\cos A}"
+  - formula_name: "Cotangent as Cosine/Sine"
+    latex: "\\cot A = \\frac{\\cos A}{\\sin A}"
+
+  [ಅಂಶಪಟ್ಟಿ / Properties]
+  1.  **ಅನುಪಾತಗಳ ಅವಲಂಬನೆ:** ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳು ಲಘುಕೋನದ ಅಳತೆಯನ್ನು ಮಾತ್ರ ಅವಲಂಬಿಸಿವೆ, ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಉದ್ದವನ್ನಲ್ಲ. ಸಮರೂಪ ತ್ರಿಭುಜಗಳಲ್ಲಿ, ಒಂದೇ ಕೋನಕ್ಕೆ ಅನುಪಾತಗಳು ಸಮನಾಗಿರುತ್ತವೆ.
+  2.  **ಬೆಲೆಗಳ ವ್ಯಾಪ್ತಿ:** ಯಾವುದೇ ಲಘುಕೋನ A ಗೆ, $\sin A$ ಮತ್ತು $\cos A$ ಗಳ ಬೆಲೆಗಳು ಯಾವಾಗಲೂ 1 ಕ್ಕಿಂತ ಕಡಿಮೆ ಅಥವಾ ಸಮನಾಗಿರುತ್ತವೆ. $\sec A$ ಮತ್ತು $\csc A$ ಗಳ ಬೆಲೆಗಳು ಯಾವಾಗಲೂ 1 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಥವಾ ಸಮನಾಗಿರುತ್ತವೆ.
+  3.  **ಸಂಕೇತ:** $\sin A$ ಎಂಬುದು $\sin$ ಮತ್ತು $A$ ಗಳ ಗುಣಲಬ್ಧವಲ್ಲ. ಇದು 'A ಕೋನದ sine' ಎಂಬುದರ ಸಂಕ್ಷಿಪ್ತ ರೂಪ.
+
+  [ಕ್ರಮಬದ್ಧ ಉದಾಹರಣೆ]
+  - example_id: "TRI-INTRO-1_example_1"
+    difficulty: "basic"
+    problem: "$\tan A = \frac{4}{3}$ ಆದರೆ ಕೋನ A ಗೆ ಸಂಬಂಧಿಸಿದ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+    steps:
+      - step: 1
+        action: "ದತ್ತಾಂಶವನ್ನು ಬಳಸಿ ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಬಾಹುಗಳನ್ನು ಗುರುತಿಸುವುದು."
+        justification: "$\tan A = \frac{\text{ಅಭಿಮುಖ ಬಾಹು}}{\text{ಪಾರ್ಶ್ವ ಬಾಹು}} = \frac{BC}{AB}$"
+        calculation: "$\tan A = \frac{4}{3}$ ಆಗಿರುವುದರಿಂದ, $BC = 4k$ ಮತ್ತು $AB = 3k$ ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ, ಇಲ್ಲಿ k ಒಂದು ಧನ ಸಂಖ್ಯೆ."
+      - step: 2
+        action: "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಬಳಸಿ ವಿಕರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+        justification: "$AC^2 = AB^2 + BC^2$"
+        calculation: "$AC^2 = (3k)^2 + (4k)^2 = 9k^2 + 16k^2 = 25k^2 \implies AC = \sqrt{25k^2} = 5k$"
+      - step: 3
+        action: "ಉಳಿದ ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು."
+        justification: "ಮೂರೂ ಬಾಹುಗಳ ಅಳತೆಗಳು ತಿಳಿದಿವೆ."
+        calculation: |
+          $\sin A = \frac{BC}{AC} = \frac{4k}{5k} = \frac{4}{5}$
+          $\cos A = \frac{AB}{AC} = \frac{3k}{5k} = \frac{3}{5}$
+          $\csc A = \frac{1}{\sin A} = \frac{5}{4}$
+          $\sec A = \frac{1}{\cos A} = \frac{5}{3}$
+          $\cot A = \frac{1}{\tan A} = \frac{3}{4}$
+    result: "$\sin A = \frac{4}{5}, \cos A = \frac{3}{5}, \csc A = \frac{5}{4}, \sec A = \frac{5}{3}, \cot A = \frac{3}{4}$"
+
+  - example_id: "TRI-INTRO-1_example_2"
+    difficulty: "intermediate"
+    problem: "$\angle B$ ಮತ್ತು $\angle Q$ ಲಘುಕೋನಗಳಾಗಿದ್ದು $\sin B = \sin Q$ ಆಗಿದೆ. ಹಾಗಾದರೆ $\angle B = \angle Q$ ಎಂದು ಸಾಧಿಸಿ."
+    steps:
+      - step: 1
+        action: "ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳನ್ನು (ΔABC ಮತ್ತು ΔPQR) ಪರಿಗಣಿಸುವುದು."
+        justification: "ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲು ತ್ರಿಭುಜಗಳು ಬೇಕು. ΔABC ಯಲ್ಲಿ C ಯಲ್ಲಿ ಲಂಬಕೋನ, ΔPQR ನಲ್ಲಿ R ನಲ್ಲಿ ಲಂಬಕೋನ."
+        calculation: "$\sin B = \frac{AC}{AB}$ ಮತ್ತು $\sin Q = \frac{PR}{PQ}$"
+      - step: 2
+        action: "ದತ್ತ ಸಂಬಂಧವನ್ನು ಬಳಸಿ ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಸಮೀಕರಿಸುವುದು."
+        justification: "ದತ್ತ: $\sin B = \sin Q$"
+        calculation: "$\frac{AC}{AB} = \frac{PR}{PQ} \implies \frac{AC}{PR} = \frac{AB}{PQ} = k$ (ಆಗಿರಲಿ) ... (1)"
+      - step: 3
+        action: "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಬಳಸಿ ಮೂರನೇ ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+        justification: "ತ್ರಿಭುಜಗಳ ಸಮರೂಪತೆಯನ್ನು ಸಾಧಿಸಲು ಮೂರೂ ಬಾಹುಗಳ ಅನುಪಾತ ಬೇಕು."
+        calculation: |
+          $BC = \sqrt{AB^2 - AC^2}$
+          $QR = \sqrt{PQ^2 - PR^2}$
+          $\frac{BC}{QR} = \frac{\sqrt{AB^2 - AC^2}}{\sqrt{PQ^2 - PR^2}} = \frac{\sqrt{(k \cdot PQ)^2 - (k \cdot PR)^2}}{\sqrt{PQ^2 - PR^2}} = \frac{k\sqrt{PQ^2 - PR^2}}{\sqrt{PQ^2 - PR^2}} = k$ ... (2)
+      - step: 4
+        action: "ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ಅನ್ವಯಿಸುವುದು."
+        justification: "(1) ಮತ್ತು (2) ರಿಂದ, $\frac{AC}{PR} = \frac{AB}{PQ} = \frac{BC}{QR}$. ಬಾ.ಬಾ.ಬಾ ಸಮರೂಪತೆಯ ಪ್ರಕಾರ, ತ್ರಿಭುಜಗಳು ಸಮರೂಪಿಯಾಗಿವೆ."
+        calculation: "ΔACB ~ ΔPRQ"
+      - step: 5
+        action: "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮವೆಂದು ತೀರ್ಮಾನಿಸುವುದು."
+        justification: "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮನಾಗಿರುತ್ತವೆ."
+        calculation: "$\angle B = \angle Q$"
+    result: "$\angle B = \angle Q$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ."
+
+  [ದೃಶ್ಯ_ಸಹಾಯ]
+  - type: diagram
+    description: "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC, B ಯಲ್ಲಿ ಲಂಬಕೋನ. ಕೋನ A ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಬಾಹುಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ."
+    labels: "A, B, C. BC: A ಗೆ ಅಭಿಮುಖ ಬಾಹು, AB: A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು, AC: ವಿಕರ್ಣ."
+    mathematical_significance: "ತ್ರಿಕೋನಮಿತಿಯ ಆರು ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲು ಬಳಸುವ ಮೂಲ ರೇಖಾಚಿತ್ರ. (ಚಿತ್ರ 8.4)"
+  - type: diagram
+    description: "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC, B ಯಲ್ಲಿ ಲಂಬಕೋನ. ಕೋನ C ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಬಾಹುಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ."
+    labels: "A, B, C. AB: C ಗೆ ಅಭಿಮುಖ ಬಾಹು, BC: C ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು, AC: ವಿಕರ್ಣ."
+    mathematical_significance: "ಅಭಿಮುಖ ಮತ್ತು ಪಾರ್ಶ್ವ ಬಾಹುಗಳು ಪರಿಗಣಿಸುವ ಕೋನವನ್ನು ಅವಲಂಬಿಸಿವೆ ಎಂದು ತೋರಿಸುತ್ತದೆ. (ಚಿತ್ರ 8.5)"
+
+  [ವಿಶ್ಲೇಷಣೆ]
+  - ಈ ಅವಧಾರಣೆ ತ್ರಿಕೋನಮಿತಿಯ ಅಡಿಪಾಯವಾಗಿದೆ. ಎತ್ತರ, ದೂರ ಮತ್ತು ಭೌತಶಾಸ್ತ್ರದ ಅನೇಕ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಲು ಇದು ಆಧಾರ.
+  - Common Mistake: ವಿದ್ಯಾರ್ಥಿಗಳು ಲಘುಕೋನ ಬದಲಾದಾಗ ಅಭಿಮುಖ ಮತ್ತು ಪಾರ್ಶ್ವ ಬಾಹುಗಳು ಬದಲಾಗುತ್ತವೆ ಎಂಬುದನ್ನು ಮರೆಯುತ್ತಾರೆ. ಯಾವಾಗಲೂ ಒಂದು ನಿರ್ದಿಷ್ಟ ಕೋನಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಬಾಹುಗಳನ್ನು ಗುರುತಿಸಬೇಕು.
+  - Boundary Condition: ಈ ಅನುಪಾತಗಳನ್ನು ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಲಘುಕೋನಗಳಿಗೆ ಮಾತ್ರ ವ್ಯಾಖ್ಯಾನಿಸಲಾಗಿದೆ.
+
+  [ಸಂಬಂಧ]
+  - ಪೂರ್ವಾಪೇಕ್ಷಿತ ಅವಧಾರಣೆಗಳು: ಲಂಬಕೋನ ತ್ರಿಭುಜ, ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ, ಸಮರೂಪ ತ್ರಿಭುಜಗಳು, ಅನುಪಾತ ಮತ್ತು ಸಮಾನುಪಾತ.
+  - ಮುಂದಿನ ಅವಧಾರಣೆಗಳೊಂದಿಗೆ ಸಂಪರ್ಕ: ಈ ಅನುಪಾತಗಳು ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಕೋನಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ಆಧಾರವಾಗಿವೆ.
+
+  [ಶೈಕ್ಷಣಿಕ_ದೃಷ್ಟಿಕೋನ]
+  - gpstr_weightage: high
+  - MCQ ಸಾಧ್ಯತೆ: ಒಂದು ಅನುಪಾತವನ್ನು ನೀಡಿ ಇನ್ನೊಂದನ್ನು ಕೇಳುವುದು.
+  - 2-ಅಂಕ ಪ್ರಶ್ನೆ: ಒಂದು ಅನುಪಾತ ನೀಡಿ, ಒಂದು ಅಭಿವ್ಯಕ್ತಿಯ (expression) ಬೆಲೆ ಕಂಡುಹಿಡಿಯಲು ಕೇಳುವುದು.
+  - 5-ಅಂಕ ಪ್ರಶ್ನೆ: ಸಾಧಿಸುವ (prove that) ಮಾದರಿಯ ಪ್ರಶ್ನೆಗಳು (ಉದಾ. 2).
+  - ಪ್ರಮುಖ trap: ಕೋನ ಬದಲಾದಾಗ ಅಭಿಮುಖ/ಪಾರ್ಶ್ವ ಬಾಹುಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸದಿರುವುದು.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ಮೂಲ_ಅವಧಾರಣೆ_2]
+concept_id: TRI-INTRO-1_concept_2
+concept_name: ನಿರ್ದಿಷ್ಟ ಕೋನಗಳ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳು (Trigonometric Ratios of Specific Angles)
+domain: ತ್ರಿಕೋನಮಿತಿ (Trigonometry)
+
+  [ಸಾರಾಂಶ]
+  ರೇಖಾಗಣಿತದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸುವ 0°, 30°, 45°, 60°, ಮತ್ತು 90° ಕೋನಗಳಿಗೆ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳ ನಿಖರವಾದ ಮೌಲ್ಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಈ ಮೌಲ್ಯಗಳು ಅನೇಕ ಪ್ರಾಯೋಗಿಕ ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ ಬಹಳ ಉಪಯುಕ್ತವಾಗಿವೆ.
+
+  [ಪ್ರಮೇಯ]
+  **45° ಕೋನದ ಅನುಪಾತಗಳ ನಿಷ್ಪತ್ತಿ (Derivation for 45°):**
+  - statement: "45° ಕೋನಕ್ಕೆ $\sin 45^\circ = \frac{1}{\sqrt{2}}, \cos 45^\circ = \frac{1}{\sqrt{2}}, \tan 45^\circ = 1$."
+  - proof:
+    1.  ಒಂದು ಲಂಬಕೋನ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABC ಯನ್ನು ಪರಿಗಣಿಸಿ, $\angle B = 90^\circ$.
+    2.  ಆಗ $\angle A = \angle C = 45^\circ$ ಮತ್ತು $AB = BC$.
+    3.  $AB = BC = a$ ಆಗಿರಲಿ.
+    4.  ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ, $AC^2 = AB^2 + BC^2 = a^2 + a^2 = 2a^2 \implies AC = a\sqrt{2}$.
+    5.  ಅನುಪಾತಗಳ ವ್ಯಾಖ್ಯಾನದಂತೆ:
+        $\sin 45^\circ = \frac{BC}{AC} = \frac{a}{a\sqrt{2}} = \frac{1}{\sqrt{2}}$
+        $\cos 45^\circ = \frac{AB}{AC} = \frac{a}{a\sqrt{2}} = \frac{1}{\sqrt{2}}$
+        $\tan 45^\circ = \frac{BC}{AB} = \frac{a}{a} = 1$
+
+  **30° ಮತ್ತು 60° ಕೋನಗಳ ಅನುಪಾತಗಳ ನಿಷ್ಪತ್ತಿ (Derivation for 30° and 60°):**
+  - statement: "30° ಮತ್ತು 60° ಕೋನಗಳಿಗೆ ಅನುಪಾತಗಳನ್ನು ಸಮಬಾಹು ತ್ರಿಭುಜದಿಂದ ಪಡೆಯಬಹುದು."
+  - proof:
+    1.  ಒಂದು ಸಮಬಾಹು ತ್ರಿಭುಜ ABC ಯನ್ನು ಪರಿಗಣಿಸಿ. $\angle A = \angle B = \angle C = 60^\circ$.
+    2.  ಬಾಹುವಿನ ಉದ್ದ $AB = BC = CA = 2a$ ಆಗಿರಲಿ.
+    3.  A ಯಿಂದ BC ಗೆ AD ಲಂಬವನ್ನು ಎಳೆಯಿರಿ. ಆಗ D ಯು BC ಯ ಮಧ್ಯಬಿಂದು.
+    4.  $BD = a$ ಮತ್ತು $\angle BAD = 30^\circ$.
+    5.  ಲಂಬಕೋನ ತ್ರಿಭುಜ ABD ಯಲ್ಲಿ, $AD^2 = AB^2 - BD^2 = (2a)^2 - a^2 = 3a^2 \implies AD = a\sqrt{3}$.
+    6.  ಈಗ, ΔABD ಯಲ್ಲಿ ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಿ:
+        **For 60° (using $\angle B$):**
+        $\sin 60^\circ = \frac{AD}{AB} = \frac{a\sqrt{3}}{2a} = \frac{\sqrt{3}}{2}$
+        $\cos 60^\circ = \frac{BD}{AB} = \frac{a}{2a} = \frac{1}{2}$
+        $\tan 60^\circ = \frac{AD}{BD} = \frac{a\sqrt{3}}{a} = \sqrt{3}$
+        **For 30° (using $\angle BAD$):**
+        $\sin 30^\circ = \frac{BD}{AB} = \frac{a}{2a} = \frac{1}{2}$
+        $\cos 30^\circ = \frac{AD}{AB} = \frac{a\sqrt{3}}{2a} = \frac{\sqrt{3}}{2}$
+        $\tan 30^\circ = \frac{BD}{AD} = \frac{a}{a\sqrt{3}} = \frac{1}{\sqrt{3}}$
+
+  [ಅಂಶಪಟ್ಟಿ / Properties]
+  1.  **0° ಮತ್ತು 90° ಅನುಪಾತಗಳು:** ಇವುಗಳನ್ನು ಕೋನವು 0° ಅಥವಾ 90° ಗೆ ಸಮೀಪಿಸಿದಾಗ ಆಗುವ ಸೀಮಿತ ಮೌಲ್ಯಗಳಾಗಿ (limiting values) ವ್ಯಾಖ್ಯಾನಿಸಲಾಗುತ್ತದೆ.
+      - $\sin 0^\circ = 0, \cos 0^\circ = 1, \tan 0^\circ = 0$.
+      - $\sin 90^\circ = 1, \cos 90^\circ = 0, \tan 90^\circ$ ವ್ಯಾಖ್ಯಾನಿಸಿಲ್ಲ (Not Defined).
+  2.  **ಬೆಲೆಗಳ ಬದಲಾವಣೆ:** ಕೋನ $\theta$ ವು 0° ರಿಂದ 90° ಗೆ ಹೆಚ್ಚಾದಂತೆ:
+      - $\sin \theta$ ದ ಬೆಲೆಯು 0 ರಿಂದ 1 ಕ್ಕೆ ಹೆಚ್ಚಾಗುತ್ತದೆ.
+      - $\cos \theta$ ದ ಬೆಲೆಯು 1 ರಿಂದ 0 ಕ್ಕೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.
+
+  [ಕ್ರಮಬದ್ಧ ಉದಾಹರಣೆ]
+  - example_id: "TRI-INTRO-1_example_8"
+    difficulty: "intermediate"
+    problem: "$\sin (A - B) = \frac{1}{2}$, $\cos (A + B) = \frac{1}{2}$, $0^\circ < A + B \leq 90^\circ$, $A > B$ ಆಗಿದ್ದರೆ, A ಮತ್ತು B ಕಂಡುಹಿಡಿಯಿರಿ."
+    steps:
+      - step: 1
+        action: "ಮೊದಲ ಸಮೀಕರಣವನ್ನು ಬಳಸಿ $A-B$ ಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು."
+        justification: "$\sin 30^\circ = \frac{1}{2}$ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ."
+        calculation: "$\sin (A - B) = \frac{1}{2} \implies A - B = 30^\circ$ ... (1)"
+      - step: 2
+        action: "ಎರಡನೇ ಸಮೀಕರಣವನ್ನು ಬಳಸಿ $A+B$ ಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು."
+        justification: "$\cos 60^\circ = \frac{1}{2}$ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ."
+        calculation: "$\cos (A + B) = \frac{1}{2} \implies A + B = 60^\circ$ ... (2)"
+      - step: 3
+        action: "ಎರಡು ಏಕಕಾಲಿಕ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸುವುದು."
+        justification: "ಸಮೀಕರಣ (1) ಮತ್ತು (2) ನ್ನು ಕೂಡಿಸುವುದರಿಂದ B ಯು ರದ್ದಾಗುತ್ತದೆ."
+        calculation: |
+          $(A - B) + (A + B) = 30^\circ + 60^\circ$
+          $2A = 90^\circ \implies A = 45^\circ$
+      - step: 4
+        action: "A ಯ ಬೆಲೆಯನ್ನು ಯಾವುದಾದರೂ ಒಂದು ಸಮೀಕರಣದಲ್ಲಿ ಆದೇಶಿಸಿ B ಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು."
+        justification: "A ಯ ಬೆಲೆ ಈಗ ತಿಳಿದಿದೆ."
+        calculation: "$A + B = 60^\circ \implies 45^\circ + B = 60^\circ \implies B = 15^\circ$"
+    result: "$A = 45^\circ$ ಮತ್ತು $B = 15^\circ$."
+
+  [ದೃಶ್ಯ_ಸಹಾಯ]
+  - type: table
+    description: "0°, 30°, 45°, 60°, ಮತ್ತು 90° ಕೋನಗಳಿಗೆ ಎಲ್ಲಾ ಆರು ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳ ಮೌಲ್ಯಗಳನ್ನು ತೋರಿಸುವ ಕೋಷ್ಟಕ."
+    labels: "ಕೋನಗಳು: 0°, 30°, 45°, 60°, 90°. ಅನುಪಾತಗಳು: sin, cos, tan, cosec, sec, cot."
+    mathematical_significance: "ಲೆಕ್ಕಾಚಾರಗಳಿಗೆ ಬೇಕಾದ ಪ್ರಮಾಣಿತ ಮೌಲ್ಯಗಳ ಒಂದು ಪ್ರಮುಖ ಉಲ್ಲೇಖ ಸಾಧನ. (ಕೋಷ್ಟಕ 8.1)"
+    table_data: |
+      | $\angle A$ | 0° | 30° | 45° | 60° | 90° |
+      |---|---|---|---|---|---|
+      | sin A | 0 | $\frac{1}{2}$ | $\frac{1}{\sqrt{2}}$ | $\frac{\sqrt{3}}{2}$ | 1 |
+      | cos A | 1 | $\frac{\sqrt{3}}{2}$ | $\frac{1}{\sqrt{2}}$ | $\frac{1}{2}$ | 0 |
+      | tan A | 0 | $\frac{1}{\sqrt{3}}$ | 1 | $\sqrt{3}$ | N.D |
+      | cosec A | N.D | 2 | $\sqrt{2}$ | $\frac{2}{\sqrt{3}}$ | 1 |
+      | sec A | 1 | $\frac{2}{\sqrt{3}}$ | $\sqrt{2}$ | 2 | N.D |
+      | cot A | N.D | $\sqrt{3}$ | 1 | $\frac{1}{\sqrt{3}}$ | 0 |
+      *N.D = Not Defined (ವ್ಯಾಖ್ಯಾನಿಸಿಲ್ಲ)
+
+  [ವಿಶ್ಲೇಷಣೆ]
+  - ಈ ನಿರ್ದಿಷ್ಟ ಕೋನಗಳ ಮೌಲ್ಯಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಅತ್ಯಂತ ಅವಶ್ಯಕ.
+  - $\tan$ ಮತ್ತು $\cot$ ನ 90° ಮತ್ತು 0° ಮೌಲ್ಯಗಳು ಮತ್ತು $\sec$ ಮತ್ತು $\csc$ ನ ಮೌಲ್ಯಗಳು ಏಕೆ 'ವ್ಯಾಖ್ಯಾನಿಸಿಲ್ಲ' (ಛೇದದಲ್ಲಿ ಸೊನ್ನೆ ಬರುವುದರಿಂದ) ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಮುಖ್ಯ.
+
+  [ಸಂಬಂಧ]
+  - ಪೂರ್ವಾಪೇಕ್ಷಿತ ಅವಧಾರಣೆಗಳು: ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳ ಮೂಲ ವ್ಯಾಖ್ಯಾನ, ಸಮಬಾಹು ಮತ್ತು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜಗಳ ಗುಣಲಕ್ಷಣಗಳು.
+  - ಮುಂದಿನ ಅವಧಾರಣೆಗಳೊಂದಿಗೆ ಸಂಪರ್ಕ: ಈ ಮೌಲ್ಯಗಳನ್ನು ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಪರಿಶೀಲಿಸಲು ಮತ್ತು ಎತ್ತರ ಮತ್ತು ದೂರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ.
+
+  [ಶೈಕ್ಷಣಿಕ_ದೃಷ್ಟಿಕೋನ]
+  - gpstr_weightage: high
+  - MCQ ಸಾಧ್ಯತೆ: ನೇರವಾಗಿ ಒಂದು ಅನುಪಾತದ ಬೆಲೆ ಕೇಳುವುದು (ಉದಾ. $\tan 60^\circ$ ಎಷ್ಟು?) ಅಥವಾ ಒಂದು ಅಭಿವ್ಯಕ್ತಿಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಲು ಕೇಳುವುದು (ಉದಾ. $\sin 30^\circ + \cos 60^\circ$).
+  - 2-ಅಂಕ ಪ್ರಶ್ನೆ: ಉದಾಹರಣೆ 8 ರ ಮಾದರಿಯ ಪ್ರಶ್ನೆಗಳು.
+  - 5-ಅಂಕ ಪ್ರಶ್ನೆ: ಇಲ್ಲ.
+  - ಪ್ರಮುಖ trap: $\sin(A+B) = \sin A + \sin B$ ಎಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುವುದು. ಇದು ತಪ್ಪು.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ಮೂಲ_ಅವಧಾರಣೆ_3]
+concept_id: TRI-INTRO-1_concept_3
+concept_name: ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣಗಳು (Trigonometric Identities)
+domain: ತ್ರಿಕೋನಮಿತಿ (Trigonometry)
+
+  [ಸಾರಾಂಶ]
+  ಒಂದು ಕೋನದ ಎಲ್ಲಾ ಮೌಲ್ಯಗಳಿಗೆ ಸತ್ಯವಾಗಿರುವ ತ್ರಿಕೋನಮಿತಿಯ ಸಮೀಕರಣವನ್ನು ನಿತ್ಯಸಮೀಕರಣ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಮೂರು ಮೂಲಭೂತ ನಿತ್ಯಸಮೀಕರಣಗಳು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಹುಟ್ಟಿಕೊಂಡಿವೆ ಮತ್ತು ಇವುಗಳನ್ನು ಇತರ ಸಂಕೀರ್ಣ ತ್ರಿಕೋನಮಿತಿಯ ಸಂಬಂಧಗಳನ್ನು ಸಾಧಿಸಲು ಅಥವಾ ಸರಳೀಕರಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ.
+
+  [ವ್ಯಾಖ್ಯೆ]
+  **ನಿತ್ಯಸಮೀಕರಣ (Identity):** ಚರಾಕ್ಷರದ ಎಲ್ಲಾ ಬೆಲೆಗಳಿಗೂ ಸತ್ಯವಾಗಿರುವ ಸಮೀಕರಣವನ್ನು ನಿತ್ಯಸಮೀಕರಣ ಎನ್ನುತ್ತಾರೆ. ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳನ್ನು ಒಳಗೊಂಡ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣ ಎನ್ನುತ್ತಾರೆ.
+
+  [ಸೂತ್ರಗಳು]
+  **ಪೈಥಾಗೊರಿಯನ್ ನಿತ್ಯಸಮೀಕರಣಗಳು (Pythagorean Identities):**
+  - formula_name: "Sine-Cosine Identity"
+    latex: "\\sin^2 A + \\cos^2 A = 1"
+    condition: "$0^\circ \\le A \\le 90^\circ$"
+    derived_from: "Pythagorean Theorem"
+    derivation:
+      - step: 1
+        action: "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಪ್ರಾರಂಭಿಸಿ."
+        calculation: "$AB^2 + BC^2 = AC^2$"
+      - step: 2
+        action: "ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳನ್ನು $AC^2$ ನಿಂದ ಭಾಗಿಸಿ."
+        calculation: "$\\frac{AB^2}{AC^2} + \\frac{BC^2}{AC^2} = \\frac{AC^2}{AC^2}$"
+      - step: 3
+        action: "ಅನುಪಾತಗಳ ವ್ಯಾಖ್ಯಾನವನ್ನು ಬಳಸಿ."
+        calculation: "$(\\frac{AB}{AC})^2 + (\\frac{BC}{AC})^2 = 1 \\implies (\\cos A)^2 + (\\sin A)^2 = 1$"
+    result: "$\\sin^2 A + \\cos^2 A = 1$"
+
+  - formula_name: "Tangent-Secant Identity"
+    latex: "1 + \\tan^2 A = \\sec^2 A"
+    condition: "$0^\circ \\le A < 90^\circ$"
+    derived_from: "Pythagorean Theorem"
+    derivation:
+      - step: 1
+        action: "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಪ್ರಾರಂಭಿಸಿ."
+        calculation: "$AB^2 + BC^2 = AC^2$"
+      - step: 2
+        action: "ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳನ್ನು $AB^2$ ನಿಂದ ಭಾಗಿಸಿ."
+        calculation: "$\\frac{AB^2}{AB^2} + \\frac{BC^2}{AB^2} = \\frac{AC^2}{AB^2}$"
+      - step: 3
+        action: "ಅನುಪಾತಗಳ ವ್ಯಾಖ್ಯಾನವನ್ನು ಬಳಸಿ."
+        calculation: "$1 + (\\frac{BC}{AB})^2 = (\\frac{AC}{AB})^2 \\implies 1 + (\\tan A)^2 = (\\sec A)^2$"
+    result: "$1 + \\tan^2 A = \\sec^2 A$"
+
+  - formula_name: "Cotangent-Cosecant Identity"
+    latex: "1 + \\cot^2 A = \\csc^2 A"
+    condition: "$0^\circ < A \\le 90^\circ$"
+    derived_from: "Pythagorean Theorem"
+    derivation:
+      - step: 1
+        action: "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಪ್ರಾರಂಭಿಸಿ."
+        calculation: "$AB^2 + BC^2 = AC^2$"
+      - step: 2
+        action: "ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳನ್ನು $BC^2$ ನಿಂದ ಭಾಗಿಸಿ."
+        calculation: "$\\frac{AB^2}{BC^2} + \\frac{BC^2}{BC^2} = \\frac{AC^2}{BC^2}$"
+      - step: 3
+        action: "ಅನುಪಾತಗಳ ವ್ಯಾಖ್ಯಾನವನ್ನು ಬಳಸಿ."
+        calculation: "$(\\frac{AB}{BC})^2 + 1 = (\\frac{AC}{BC})^2 \\implies (\\cot A)^2 + 1 = (\\csc A)^2$"
+    result: "$1 + \\cot^2 A = \\csc^2 A$"
+
+  [ಕ್ರಮಬದ್ಧ ಉದಾಹರಣೆ]
+  - example_id: "TRI-INTRO-1_example_10"
+    difficulty: "intermediate"
+    problem: "$\sec A (1 - \sin A)(\sec A + \tan A) = 1$ ಎಂದು ಸಾಧಿಸಿ."
+    steps:
+      - step: 1
+        action: "ಎಡಭಾಗದಲ್ಲಿರುವ (LHS) ಎಲ್ಲಾ ಪದಗಳನ್ನು $\sin A$ ಮತ್ತು $\cos A$ ರೂಪದಲ್ಲಿ ಬರೆಯುವುದು."
+        justification: "ಸರಳೀಕರಣಕ್ಕಾಗಿ ಮೂಲ ಅನುಪಾತಗಳನ್ನು ಬಳಸುವುದು."
+        calculation: "LHS = $(\\frac{1}{\\cos A})(1 - \\sin A)(\\frac{1}{\\cos A} + \\frac{\\sin A}{\\cos A})$"
+      - step: 2
+        action: "ಬ್ರಾಕೆಟ್‌ನೊಳಗಿನ ಪದಗಳನ್ನು ಸಂಕಲಿಸುವುದು."
+        justification: "ಛೇದಗಳು ಸಮನಾಗಿವೆ."
+        calculation: "LHS = $(\\frac{1}{\\cos A})(1 - \\sin A)(\\frac{1 + \\sin A}{\\cos A})$"
+      - step: 3
+        action: "ಅಂಶ ಮತ್ತು ಛೇದಗಳನ್ನು ಗುಣಿಸುವುದು."
+        justification: "ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ಸೇರಿಸುವುದು."
+        calculation: "LHS = $\\frac{(1 - \\sin A)(1 + \\sin A)}{\\cos A \\cdot \\cos A} = \\frac{1 - \\sin^2 A}{\\cos^2 A}$"
+      - step: 4
+        action: "ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ ಅಂಶವನ್ನು ಬದಲಾಯಿಸುವುದು."
+        justification: "$\sin^2 A + \cos^2 A = 1 \implies 1 - \sin^2 A = \cos^2 A$"
+        calculation: "LHS = $\\frac{\\cos^2 A}{\\cos^2 A} = 1$"
+    result: "LHS = 1 = RHS. ಆದ್ದರಿಂದ ಸಾಧಿಸಲಾಗಿದೆ."
+
+  - example_id: "TRI-INTRO-1_example_12"
+    difficulty: "advanced"
+    problem: "$\sec^2 \theta = 1 + \tan^2 \theta$ ಈ ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ, $\frac{\sin \theta - \cos \theta + 1}{\sin \theta + \cos \theta - 1} = \frac{1}{\sec \theta - \tan \theta}$ ಎಂದು ಸಾಧಿಸಿ."
+    steps:
+      - step: 1
+        action: "ಎಡಭಾಗದ (LHS) ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು $\cos \theta$ ದಿಂದ ಭಾಗಿಸುವುದು."
+        justification: "ಸಮೀಕರಣವನ್ನು $\sec \theta$ ಮತ್ತು $\tan \theta$ ರೂಪಕ್ಕೆ ತರಲು."
+        calculation: "LHS = $\\frac{\\frac{\\sin \\theta}{\\cos \\theta} - \\frac{\\cos \\theta}{\\cos \\theta} + \\frac{1}{\\cos \\theta}}{\\frac{\\sin \\theta}{\\cos \\theta} + \\frac{\\cos \\theta}{\\cos \\theta} - \\frac{1}{\\cos \\theta}} = \\frac{\\tan \\theta - 1 + \\sec \\theta}{\\tan \\theta + 1 - \\sec \\theta}$"
+      - step: 2
+        action: "ಅಂಶದಲ್ಲಿನ 1 ಅನ್ನು ನಿತ್ಯಸಮೀಕರಣದಿಂದ ಬದಲಾಯಿಸುವುದು."
+        justification: "ದತ್ತ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಲು, $1 = \sec^2 \theta - \tan^2 \theta$."
+        calculation: "ಅಂಶ = $(\\tan \\theta + \\sec \\theta) - (\sec^2 \\theta - \\tan^2 \\theta)$"
+      - step: 3
+        action: "ಅಂಶವನ್ನು ಅಪವರ್ತಿಸುವುದು (factorize)."
+        justification: "$a^2 - b^2 = (a-b)(a+b)$ ಸೂತ್ರ ಬಳಸಿ."
+        calculation: "ಅಂಶ = $(\\sec \\theta + \\tan \\theta) - (\\sec \\theta - \\tan \\theta)(\\sec \\theta + \\tan \\theta) = (\\sec \\theta + \\tan \\theta)[1 - (\\sec \\theta - \\tan \\theta)] = (\\sec \\theta + \\tan \\theta)(1 - \\sec \\theta + \\tan \\theta)$"
+      - step: 4
+        action: "ಪೂರ್ಣ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಬರೆದು ಸರಳೀಕರಿಸುವುದು."
+        justification: "ಹೊಸ ಅಂಶವನ್ನು ಮೂಲ ಛೇದದೊಂದಿಗೆ ಭಾಗಿಸುವುದು."
+        calculation: "LHS = $\\frac{(\\sec \\theta + \\tan \\theta)(1 - \\sec \\theta + \\tan \\theta)}{(\\tan \\theta + 1 - \\sec \\theta)} = \\sec \\theta + \\tan \\theta$"
+      - step: 5
+        action: "ಫಲಿತಾಂಶವನ್ನು ಬೇಕಾದ ರೂಪಕ್ಕೆ ತರುವುದು."
+        justification: "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು $(\sec \theta - \tan \theta)$ ದಿಂದ ಗುಣಿಸುವುದು."
+        calculation: "LHS = $(\\sec \\theta + \\tan \\theta) \\times \\frac{(\\sec \\theta - \\tan \\theta)}{(\\sec \\theta - \\tan \\theta)} = \\frac{\\sec^2 \\theta - \\tan^2 \\theta}{\\sec \\theta - \\tan \\theta} = \\frac{1}{\\sec \\theta - \\tan \\theta}$"
+    result: "LHS = RHS. ಆದ್ದರಿಂದ ಸಾಧಿಸಲಾಗಿದೆ."
+
+  [ವಿಶ್ಲೇಷಣೆ]
+  - ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಸಾಧಿಸುವ ಪ್ರಶ್ನೆಗಳು ಬೀಜಗಣಿತದ ಕೌಶಲ್ಯಗಳನ್ನು (ಅಪವರ್ತಿಸುವಿಕೆ, ವಿಸ್ತರಿಸುವಿಕೆ) ಮತ್ತು ತ್ರಿಕೋನಮಿತಿಯ ಸಂಬಂಧಗಳ ಜ್ಞಾನವನ್ನು ಒಟ್ಟಿಗೆ ಪರೀಕ್ಷಿಸುತ್ತವೆ.
+  - ಸಾಮಾನ್ಯವಾಗಿ, ಸಂಕೀರ್ಣವಾದ ಬದಿಯಿಂದ ಪ್ರಾರಂಭಿಸಿ ಸರಳವಾದ ಬದಿಗೆ ತಲುಪುವುದು ಸುಲಭ.
+  - ಎಲ್ಲವನ್ನೂ $\sin$ ಮತ್ತು $\cos$ ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸುವುದು ಒಂದು ಸಾಮಾನ್ಯ ತಂತ್ರ.
+
+  [ಸಂಬಂಧ]
+  - ಪೂರ್ವಾಪೇಕ್ಷಿತ ಅವಧಾರಣೆಗಳು: ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳು, ಬೀಜಗಣಿತದ ನಿತ್ಯಸಮೀಕರಣಗಳು (ಉದಾ. $(a+b)^2, a^2-b^2$).
+  - ಮುಂದಿನ ಅವಧಾರಣೆಗಳೊಂದಿಗೆ ಸಂಪರ್ಕ: ಈ ಮೂಲ ನಿತ್ಯಸಮೀಕರಣಗಳು ಉನ್ನತ ಗಣಿತದಲ್ಲಿ (ಕ್ಯಾಲ್ಕುಲಸ್, ಸಂಕೀರ್ಣ ಸಂಖ್ಯೆಗಳು) ಬಳಸುವ ಹೆಚ್ಚು ಸಂಕೀರ್-ಣ ನಿತ್ಯಸಮೀಕರಣಗಳಿಗೆ ಆಧಾರವಾಗಿವೆ.
+
+  [ಶೈಕ್ಷಣಿಕ_ದೃಷ್ಟಿಕೋನ]
+  - gpstr_weightage: high
+  - MCQ ಸಾಧ್ಯತೆ: ಒಂದು ನಿತ್ಯಸಮೀಕರಣವನ್ನು ನೀಡಿ, ಅದು ಯಾವ ಸ್ಥಿತಿಯಲ್ಲಿ ಸತ್ಯ ಎಂದು ಕೇಳುವುದು.
+  - 2-ಅಂಕ ಪ್ರಶ್ನೆ: ಸರಳ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಸಾಧಿಸಲು ಕೇಳುವುದು (ಉದಾ. 10).
+  - 5-ಅಂಕ ಪ್ರಶ್ನೆ: ಸಂಕೀರ್ಣ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಸಾಧಿಸಲು ಕೇಳುವುದು (ಉದಾ. 12).
+  - ಪ್ರಮುಖ trap: ಬೀಜಗಣಿತದ ತಪ್ಪುಗಳು, ವಿಶೇಷವಾಗಿ ಚಿಹ್ನೆಗಳಲ್ಲಿ (signs) ಮತ್ತು ಅಪವರ್ತಿಸುವಾಗ.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[Content_Coverage_Check]
+* ಒಟ್ಟು ಅವಧಾರಣೆಗಳು: 3
+* ಒಟ್ಟು definitions: 7
+* ಒಟ್ಟು formulas: 8 (ಮೂಲ, ವ್ಯುತ್ಕ್ರಮ, ಭಾಗಲಬ್ಧ, ಮತ್ತು 3 ನಿತ್ಯಸಮೀಕರಣಗಳು)
+* ಒಟ್ಟು theorems: 2 (ನಿಷ್ಪತ್ತಿಗಳು)
+* ಒಟ್ಟು worked examples: 7
+* ಒಟ್ಟು figures/tables: 6
+* ಎಲ್ಲಾ ಉಪಶೀರ್ಷಿಕೆಗಳು cover ಆಗಿವೆಯೆ?: Yes

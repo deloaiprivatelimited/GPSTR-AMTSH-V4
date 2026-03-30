@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಮಾಂತರ ಶ್ರೇಢಿ vs. ಇತರ ಶ್ರೇಢಿಗಳು",
+  "script": "ಎಲ್ಲಾ ಸಂಖ್ಯಾ ಪಟ್ಟಿಗಳು ಸಮಾಂತರ ಶ್ರೇಢಿಗಳಲ್ಲ. ಒಂದು ಹೋಲಿಕೆ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಾವು ಈಗಾಗಲೇ ನೋಡಿದ ಸಮಾಂತರ ಶ್ರೇಢಿ ಇದೆ: ಎರಡು, ಐದು, ಎಂಟು, ಹನ್ನೊಂದು. ಇಲ್ಲಿ ಪದಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸ ಸ್ಥಿರವಾಗಿ ಮೂರು ಆಗಿದೆ. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ: ಒಂದು, ನಾಲ್ಕು, ಒಂಬತ್ತು, ಹದಿನಾರು. ಇದು ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಪಟ್ಟಿ. ಇಲ್ಲಿ, ನಾಲ್ಕು ಮೈನಸ್ ಒಂದು ಅಂದರೆ ಮೂರು. ಆದರೆ, ಒಂಬತ್ತು ಮೈನಸ್ ನಾಲ್ಕು ಅಂದರೆ ಐದು. ಇಲ್ಲಿ ವ್ಯತ್ಯಾಸ ಸ್ಥಿರವಾಗಿಲ್ಲ. ಮೊದಲು ಮೂರು ಇತ್ತು, ನಂತರ ಐದು ಆಯಿತು. ಆದ್ದರಿಂದ, ಇದು ಸಮಾಂತರ ಶ್ರೇಢಿ ಅಲ್ಲ.",
+  "script_display": "ಎಲ್ಲಾ ಸಂಖ್ಯಾ ಪಟ್ಟಿಗಳು ಸಮಾಂತರ ಶ್ರೇಢಿಗಳಲ್ಲ. ಒಂದು ಹೋಲಿಕೆ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಾವು ಈಗಾಗಲೇ ನೋಡಿದ ಸಮಾಂತರ ಶ್ರೇಢಿ ಇದೆ: $2, 5, 8, 11, ...$ ಇಲ್ಲಿ ಪದಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸ ಸ್ಥಿರವಾಗಿ $3$ ಆಗಿದೆ. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ: $1, 4, 9, 16, ...$ ಇದು ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಪಟ್ಟಿ. ಇಲ್ಲಿ, $4 - 1 = 3$. ಆದರೆ, $9 - 4 = 5$. ಇಲ್ಲಿ ವ್ಯತ್ಯಾಸ ಸ್ಥಿರವಾಗಿಲ್ಲ. ಮೊದಲು $3$ ಇತ್ತು, ನಂತರ $5$ ಆಯಿತು. ಆದ್ದರಿಂದ, ಇದು ಸಮಾಂತರ ಶ್ರೇಢಿ ಅಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_2_column",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_panel",
+    "status": "ready",
+    "render_target": "katex",
+    "placeholder_note": "Two columns comparing an AP and a non-AP sequence. Left side shows 2, 5, 8, 11 with constant difference. Right side shows 1, 4, 9, 16 with changing difference. Use checkmark for left and cross mark for right side header. Left header: 'ಸಮಾಂತರ ಶ್ರೇಢಿ ಹೌದು'. Right header: 'ಸಮಾಂತರ ಶ್ರೇಢಿ ಅಲ್ಲ'. Left content: '$2, 5, 8, 11, ...$ ವ್ಯತ್ಯಾಸ: $5-2=3$, $8-5=3$. ವ್ಯತ್ಯಾಸ ಸ್ಥಿರವಾಗಿದೆ.'. Right content: '$1, 4, 9, 16, ...$ ವ್ಯತ್ಯಾಸ: $4-1=3$, $9-4=5$. ವ್ಯತ್ಯಾಸ ಸ್ಥಿರವಾಗಿಲ್ಲ.'"
+  },
+  "chunk_id": "ALG-AP-4_concept_1_chunk_005"
+}

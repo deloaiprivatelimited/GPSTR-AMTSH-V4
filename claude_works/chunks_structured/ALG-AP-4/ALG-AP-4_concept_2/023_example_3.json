@@ -1,0 +1,43 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಶೀಲನಾ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ 5, 11, 17, 23, ಹೀಗೆ ಮುಂದುವರಿಯುವ ಒಂದು ಸಂಖ್ಯಾ ಪಟ್ಟಿಯನ್ನು ನೀಡಲಾಗಿದೆ. ಈ ಪಟ್ಟಿಯಲ್ಲಿ 301 ಒಂದು ಪದವಾಗಿ ಬರುತ್ತದೆಯೇ ಎಂದು ನಾವು ಪರೀಕ್ಷಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ $5, 11, 17, 23, ...$ ಹೀಗೆ ಮುಂದುವರಿಯುವ ಒಂದು ಸಂಖ್ಯಾ ಪಟ್ಟಿಯನ್ನು ನೀಡಲಾಗಿದೆ. ಈ ಪಟ್ಟಿಯಲ್ಲಿ $301$ ಒಂದು ಪದವಾಗಿ ಬರುತ್ತದೆಯೇ ಎಂದು ನಾವು ಪರೀಕ್ಷಿಸಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತ ಸಂಖ್ಯಾ ಪಟ್ಟಿ: $5, 11, 17, 23, ...$",
+    "ಪರೀಕ್ಷಿಸಬೇಕಾದದ್ದು: $301$ ಈ ಪಟ್ಟಿಯಲ್ಲಿನ ಒಂದು ಪದವೇ?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "301, ಇದು 5, 11, 17, 23, ... ಈ ಸಂಖ್ಯಾ ಪಟ್ಟಿಯಲ್ಲಿ ಒಂದು ಪದವಾಗಿದೆಯೇ ಪರೀಕ್ಷಿಸಿ.",
+    "placeholder_note": "Problem statement"
+  },
+  "source_example_id": "ALG-AP-4_example_6",
+  "prerequisites_display": [],
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 0,
+    "theorems": 0,
+    "properties": 0,
+    "worked_examples": 1
+  },
+  "chunk_id": "ALG-AP-4_concept_2_chunk_023"
+}

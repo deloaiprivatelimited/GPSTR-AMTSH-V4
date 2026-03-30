@@ -1,0 +1,192 @@
+{
+  "module_id": "MEN-VOL-3_concept_2",
+  "module_title": "ಗೋಳ ಮತ್ತು ಅರ್ಧಗೋಳ (Sphere and Hemisphere)",
+  "class": "10ನೇ ತರಗತಿ",
+  "chapter": "12",
+  "chapter_title": "ಮೇಲೈ ವಿಸ್ತೀರ್ಣಗಳು ಮತ್ತು ಘನಫಲಗಳು",
+  "domain": "ಕ್ಷೇತ್ರಗಣಿತ (Mensuration)",
+  "prerequisites": [
+    "MEN-VOL-3_concept_1"
+  ],
+  "theory": {
+    "concept_summary": "ಗೋಳವು ಮೂರು ಆಯಾಮದ ಅವಕಾಶದಲ್ಲಿ ಒಂದು ಸ್ಥಿರ ಬಿಂದುವಿನಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿರುವ ಎಲ್ಲಾ ಬಿಂದುಗಳ ಗಣವಾಗಿದೆ. ಇದು ಸಂಪೂರ್ಣವಾಗಿ ವಕ್ರವಾದ ಮೇಲ್ಮೈಯನ್ನು ಹೊಂದಿದೆ. ಗೋಳವನ್ನು ಅದರ ಕೇಂದ್ರದ ಮೂಲಕ ಹಾದುಹೋಗುವ ಸಮತಲದಿಂದ ಕತ್ತರಿಸಿದಾಗ ಎರಡು ಸಮಾನ ಭಾಗಗಳು ಉಂಟಾಗುತ್ತವೆ, ಅವನ್ನು ಅರ್ಧಗೋಳಗಳೆಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ವಿಭಾಗದಲ್ಲಿ ಗೋಳ ಮತ್ತು ಅರ್ಧಗೋಳದ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಘನಫಲವನ್ನು ಚರ್ಚಿಸಲಾಗಿದೆ.",
+    "definitions": [
+      {
+        "term": "ಗೋಳ (Sphere)",
+        "definition": "ಮೂರು ಆಯಾಮದ ಅವಕಾಶದಲ್ಲಿ ಒಂದು ಸ್ಥಿರ ಬಿಂದುವಿನಿಂದ (ಕೇಂದ್ರ) ಸಮಾನ ದೂರದಲ್ಲಿರುವ (ತ್ರಿಜ್ಯ) ಎಲ್ಲಾ ಬಿಂದುಗಳ ಗಣ. ಉದಾಹರಣೆಗೆ, ಚೆಂಡು."
+      },
+      {
+        "term": "ಅರ್ಧಗೋಳ (Hemisphere)",
+        "definition": "ಗೋಳವನ್ನು ಅದರ ಕೇಂದ್ರದ ಮೂಲಕ ಹಾದುಹೋಗುವ ಸಮತಲದಿಂದ ಕತ್ತರಿಸಿದಾಗ ಉಂಟಾಗುವ ಎರಡು ಸಮಾನ ಭಾಗಗಳಲ್ಲಿ ಒಂದು."
+      },
+      {
+        "term": "ಗೋಳದ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (Surface Area of a Sphere)",
+        "definition": "ಗೋಳದ ಸಂಪೂರ್ಣ ಹೊರಮೈ ವಿಸ್ತೀರ್ಣ."
+      },
+      {
+        "term": "ಅರ್ಧಗೋಳದ ಪಾರ್ಶ್ವ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (CSA of a Hemisphere)",
+        "definition": "ಅರ್ಧಗೋಳದ ವಕ್ರ ಭಾಗದ ವಿಸ್ತೀರ್ಣ."
+      },
+      {
+        "term": "ಅರ್ಧಗೋಳದ ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (TSA of a Hemisphere)",
+        "definition": "ಅರ್ಧಗೋಳದ ವಕ್ರ ಮೇಲ್ಮೈ ಮತ್ತು ಸಮತಟ್ಟಾದ ವೃತ್ತಾಕಾರದ ಪಾದದ ವಿಸ್ತೀರ್ಣಗಳ ಮೊತ್ತ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Surface Area of a Sphere",
+        "latex": "SA = 4 \\pi r^2",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": [
+          {
+            "step": 1,
+            "action": "ಗೋಳದ ಮೇಲೆ ದಾರವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸುತ್ತಿ, ನಂತರ ಆ ದಾರವನ್ನು ಬಿಚ್ಚಿ, ಗೋಳದ ತ್ರಿಜ್ಯಕ್ಕೆ ಸಮನಾದ ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತಗಳ ಮೇಲೆ ಸುತ್ತಿದಾಗ, ಅದು ನಿಖರವಾಗಿ ನಾಲ್ಕು ವೃತ್ತಗಳನ್ನು ಆವರಿಸುತ್ತದೆ.",
+            "calculation": "SA_{sphere} = 4 \\times \\text{Area of Circle}"
+          }
+        ]
+      },
+      {
+        "formula_name": "Curved Surface Area (CSA) of a Hemisphere",
+        "latex": "CSA = 2 \\pi r^2",
+        "condition": "",
+        "exception": "",
+        "derived_from": "CSA_{hemisphere} = \\frac{1}{2} \\times SA_{sphere} = \\frac{1}{2} \\times 4\\pi r^2",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Total Surface Area (TSA) of a Hemisphere",
+        "latex": "TSA = 2 \\pi r^2 + \\pi r^2 = 3 \\pi r^2",
+        "condition": "",
+        "exception": "",
+        "derived_from": "TSA = CSA + \\text{Area of circular base}",
+        "used_in": "",
+        "derivation": []
+      },
+      {
+        "formula_name": "Volume of a Sphere",
+        "latex": "V = \\frac{4}{3} \\pi r^3",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "",
+        "derivation": [
+          {
+            "step": 1,
+            "action": "ನೀರಿನ ಸ್ಥಳಾಂತರ ಪ್ರಯೋಗದಿಂದ, 'r' ತ್ರಿಜ್ಯದ ಗೋಳವು ಸ್ಥಳಾಂತರಿಸುವ ನೀರಿನ ಪ್ರಮಾಣವು `\\frac{4}{3} \\pi r^3` ಗೆ ಸಮನಾಗಿರುತ್ತದೆ ಎಂದು ತೋರಿಸಬಹುದು.",
+            "calculation": ""
+          }
+        ]
+      },
+      {
+        "formula_name": "Volume of a Hemisphere",
+        "latex": "V = \\frac{2}{3} \\pi r^3",
+        "condition": "",
+        "exception": "",
+        "derived_from": "V_{hemisphere} = \\frac{1}{2} \\times V_{sphere} = \\frac{1}{2} \\times \\frac{4}{3}\\pi r^3",
+        "used_in": "",
+        "derivation": []
+      }
+    ],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "description": "ಗೋಳದ ಮೇಲೆ ದಾರವನ್ನು ಸುತ್ತಿ, ನಂತರ ಅದನ್ನು ನಾಲ್ಕು ವೃತ್ತಗಳ ಮೇಲೆ ಹರಡಿ ಗೋಳದ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಚಟುವಟಿಕೆ.",
+        "labels": "ಗೋಳ, ದಾರ, ನಾಲ್ಕು ವೃತ್ತಗಳು.",
+        "mathematical_significance": "ಗೋಳದ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ `4\\pi r^2` ಎಂದು ಪ್ರಾಯೋಗಿಕವಾಗಿ ನಿರೂಪಿಸುತ್ತದೆ. (ಚಿತ್ರ 11.7)",
+        "table_data": ""
+      },
+      {
+        "type": "diagram",
+        "description": "ಗೋಳವನ್ನು ಅದರ ಕೇಂದ್ರದ ಮೂಲಕ ಕತ್ತರಿಸಿದಾಗ ಉಂಟಾಗುವ ಎರಡು ಅರ್ಧಗೋಳಗಳು.",
+        "labels": "ಗೋಳ, ಅರ್ಧಗೋಳ.",
+        "mathematical_significance": "ಅರ್ಧಗೋಳದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಮತ್ತು ಅದರ ವಕ್ರ ಮೇಲ್ಮೈ ಹಾಗೂ ಸಮತಟ್ಟಾದ ಪಾದವನ್ನು ತೋರಿಸುತ್ತದೆ. (ಚಿತ್ರ 11.8)",
+        "table_data": ""
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "MEN-VOL-3_example_4",
+      "difficulty": "basic",
+      "problem": "21 cm ತ್ರಿಜ್ಯವಿರುವ ಒಂದು ಅರ್ಧಗೋಳದ (i) ವಕ್ರಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (ii) ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶವನ್ನು ಗುರುತಿಸುವುದು.",
+          "justification": "ಅರ್ಧಗೋಳದ ತ್ರಿಜ್ಯ (r) ನೀಡಲಾಗಿದೆ.",
+          "calculation": "r = 21 \\text{ cm}"
+        },
+        {
+          "step": 2,
+          "action": "(i) ವಕ್ರಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (CSA) ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "CSA = 2 \\pi r^2 ಸೂತ್ರವನ್ನು ಬಳಸುವುದು.",
+          "calculation": "CSA = 2 \\times \\frac{22}{7} \\times 21 \\times 21 = 2 \\times 22 \\times 3 \\times 21 = 2772 \\text{ cm}^2"
+        },
+        {
+          "step": 3,
+          "action": "(ii) ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (TSA) ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "TSA = 3 \\pi r^2 ಸೂತ್ರವನ್ನು ಬಳಸುವುದು.",
+          "calculation": "TSA = 3 \\times \\frac{22}{7} \\times 21 \\times 21 = 3 \\times 22 \\times 3 \\times 21 = 4158 \\text{ cm}^2"
+        }
+      ],
+      "result": "ವಕ್ರಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ `2772 \\text{ cm}^2` ಮತ್ತು ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ `4158 \\text{ cm}^2` ಆಗಿದೆ.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "MEN-VOL-3_example_5",
+      "difficulty": "intermediate",
+      "problem": "ಲೋಹದಿಂದ ಮಾಡಿದ ಗೋಳಾಕಾರದ ಎಸೆತದ ಗುಂಡಿನ ತ್ರಿಜ್ಯವು 4.9 cm ಇದೆ. ಲೋಹದ ಸಾಂದ್ರತೆಯು 7.8 g/cm³ ಆದರೆ ಎಸೆತದ ಗುಂಡಿನ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸುವುದು.",
+          "justification": "ತ್ರಿಜ್ಯ (r) ಮತ್ತು ಸಾಂದ್ರತೆ (density) ನೀಡಲಾಗಿದೆ.",
+          "calculation": "r = 4.9 \\text{ cm}, \\text{ಸಾಂದ್ರತೆ} = 7.8 \\text{ g/cm}^3"
+        },
+        {
+          "step": 2,
+          "action": "ಗೋಳದ ಘನಫಲವನ್ನು (Volume) ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "V = \\frac{4}{3} \\pi r^3 ಸೂತ್ರವನ್ನು ಬಳಸುವುದು.",
+          "calculation": "V = \\frac{4}{3} \\times \\frac{22}{7} \\times (4.9)^3 = \\frac{4}{3} \\times \\frac{22}{7} \\times 4.9 \\times 4.9 \\times 4.9 = 493 \\text{ cm}^3 (ಸರಿಸುಮಾರು)"
+        },
+        {
+          "step": 3,
+          "action": "ದ್ರವ್ಯರಾಶಿಯನ್ನು (Mass) ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "\\text{ದ್ರವ್ಯರಾಶಿ} = \\text{ಘನಫಲ} \\times \\text{ಸಾಂದ್ರತೆ}",
+          "calculation": "\\text{ದ್ರವ್ಯರಾಶಿ} = 493 \\times 7.8 = 3845.44 \\text{ g}"
+        },
+        {
+          "step": 4,
+          "action": "ದ್ರವ್ಯರಾಶಿಯನ್ನು kg ಗೆ ಪರಿವರ್ತಿಸುವುದು.",
+          "justification": "1 \\text{ kg} = 1000 \\text{ g}",
+          "calculation": "\\frac{3845.44}{1000} = 3.85 \\text{ kg} (ಸರಿಸುಮಾರು)"
+        }
+      ],
+      "result": "ಎಸೆತದ ಗುಂಡಿನ ದ್ರವ್ಯರಾಶಿ ಸರಿಸುಮಾರು `3.85 \\text{ kg}` ಆಗಿದೆ.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಸೂತ್ರದ ನೇರ ಅನ್ವಯ, ಗೋಳ ಮತ್ತು ಅರ್ಧಗೋಳದ ವಿಸ್ತೀರ್ಣ/ಘನಫಲಗಳ ಅನುಪಾತ ಕೇಳುವುದು.",
+    "two_mark_note": "ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಅಥವಾ ಘನಫಲ ಕಂಡುಹಿಡಿಯುವ ಲೆಕ್ಕಗಳು.",
+    "five_mark_note": "ಒಂದು ಘನಾಕೃತಿಯನ್ನು ಕರಗಿಸಿ ಇನ್ನೊಂದು ಆಕಾರದ ಘನಾಕೃತಿಗಳನ್ನು ಮಾಡಿದಾಗ, ಅವುಗಳ ಸಂಖ್ಯೆ ಕಂಡುಹಿಡಿಯುವ ಲೆಕ್ಕಗಳು (ಘನಫಲದ ಸಂರಕ್ಷಣೆ).",
+    "common_mistakes": [
+      "ಅರ್ಧಗೋಳದ ಲೆಕ್ಕದಲ್ಲಿ CSA (`2\\pi r^2`) ಮತ್ತು TSA (`3\\pi r^2`) ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸದಿರುವುದು."
+    ],
+    "boundary_conditions": [
+      "ಗೋಳಕ್ಕೆ ಒಂದೇ ಮೇಲ್ಮೈ (ವಕ್ರ ಮೇಲ್ಮೈ) ಇರುವುದರಿಂದ, ಅದಕ್ಕೆ 'ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ' ಮತ್ತು 'ಪಾರ್ಶ್ವ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ' ಎಂಬ ವ್ಯತ್ಯಾಸವಿಲ್ಲ.",
+      "ಅರ್ಧಗೋಳಕ್ಕೆ ವಕ್ರ ಮೇಲ್ಮೈ ಮತ್ತು ಸಮತಟ್ಟಾದ ವೃತ್ತಾಕಾರದ ಪಾದ ಎರಡೂ ಇವೆ. ಆದ್ದರಿಂದ CSA ಮತ್ತು TSA ವಿಭಿನ್ನವಾಗಿವೆ. ಲೆಕ್ಕದಲ್ಲಿ ಯಾವುದು ಕೇಳಲಾಗಿದೆ ಎಂದು ಗಮನಿಸುವುದು ಮುಖ್ಯ."
+    ],
+    "connects_to": [
+      "ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ",
+      "ಗೋಳ ಮತ್ತು ಅರ್ಧಗೋಳಗಳು ಜೋಡಿಸಿದ ಘನಗಳ (combination of solids) ಪ್ರಮುಖ ಭಾಗಗಳಾಗಿವೆ. ಉದಾ: ಟ್ಯಾಂಕರ್ (ಸಿಲಿಂಡರ್ + 2 ಅರ್ಧಗೋಳ), ಬುಗುರಿ (ಶಂಕು + ಅರ್ಧಗೋಳ)."
+    ]
+  }
+}

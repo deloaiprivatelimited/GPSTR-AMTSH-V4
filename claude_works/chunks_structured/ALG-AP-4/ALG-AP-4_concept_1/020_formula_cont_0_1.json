@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸದ ಸೂತ್ರ",
+  "script": "ಈಗ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸೂತ್ರವು ಹೀಗಿದೆ: d ಈಕ್ವಲ್ಸ್ a k ಪ್ಲಸ್ ಒಂದು ಮೈನಸ್ a k. ಇಲ್ಲಿ, 'd' ಎಂದರೆ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ. 'a k' ಎಂದರೆ ಶ್ರೇಢಿಯ k ನೇ ಪದ. 'a k ಪ್ಲಸ್ ಒಂದು' ಎಂದರೆ k ನೇ ಪದದ ನಂತರದ ಪದ, ಅಂದರೆ k ಪ್ಲಸ್ ಒಂದನೇ ಪದ. ಈ ಸೂತ್ರದ ಅರ್ಥವೇನೆಂದರೆ, ಯಾವುದೇ ಪದದಿಂದ ಅದರ ಹಿಂದಿನ ಪದವನ್ನು ಕಳೆದಾಗ ನಮಗೆ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಸಿಗುತ್ತದೆ. k ಯು ಒಂದು ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರಬಹುದು.",
+  "script_display": "ಈಗ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸೂತ್ರವು ಹೀಗಿದೆ: $d = a_{k+1} - a_k$. ಇಲ್ಲಿ,\n\n*   'd' ಎಂದರೆ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ (Common Difference).\n*   '$a_k$' ಎಂದರೆ ಶ್ರೇಢಿಯ k-ನೇ ಪದ.\n*   '$a_{k+1}$' ಎಂದರೆ k-ನೇ ಪದದ ನಂತರದ ಪದ, ಅಂದರೆ (k+1)-ನೇ ಪದ.\n\nಈ ಸೂತ್ರದ ಅರ್ಥವೇನೆಂದರೆ, ಯಾವುದೇ ಪದದಿಂದ ಅದರ ಹಿಂದಿನ ಪದವನ್ನು ಕಳೆದಾಗ ನಮಗೆ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಸಿಗುತ್ತದೆ ($k \\ge 1$).",
+  "display_bullets": [
+    "ಸೂತ್ರ: $d = a_{k+1} - a_k$",
+    "'d' = ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ",
+    "'$a_k$' = k-ನೇ ಪದ",
+    "'$a_{k+1}$' = (k+1)-ನೇ ಪದ"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "d = a_{k+1} - a_k",
+    "placeholder_note": "Formula for common difference"
+  },
+  "chunk_id": "ALG-AP-4_concept_1_chunk_020"
+}

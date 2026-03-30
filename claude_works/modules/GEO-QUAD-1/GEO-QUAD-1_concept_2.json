@@ -1,0 +1,133 @@
+{
+  "module_id": "GEO-QUAD-1_concept_2",
+  "module_title": "ಬಹುಭುಜದ ಕೋನಗಳ ಮೊತ್ತದ ಗುಣಲಕ್ಷಣಗಳು (Angle Sum Properties of a Polygon)",
+  "class": "8",
+  "chapter": "3",
+  "chapter_title": "ಚತುರ್ಭುಜಗಳ ಪರಿಚಯ (Understanding Quadrilaterals)",
+  "domain": "ರೇಖಾಗಣಿತ (Geometry)",
+  "prerequisites": [
+    "GEO-QUAD-1_concept_1"
+  ],
+  "theory": {
+    "concept_summary": "ಈ ಭಾಗವು ಯಾವುದೇ ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತದ ಪ್ರಮುಖ ಗುಣವನ್ನು ವಿವರಿಸುತ್ತದೆ. ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟೇ ಇರಲಿ, ಅದರ ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತವು ಯಾವಾಗಲೂ 360° ಆಗಿರುತ್ತದೆ. ಈ ಗುಣವನ್ನು ಬಳಸಿಕೊಂಡು ನಿಯಮಿತ ಬಹುಭುಜಗಳ ಹೊರಕೋನ, ಒಳಕೋನ ಮತ್ತು ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "Sum of Exterior Angles",
+        "latex": "\\sum \\text{exterior angles} = 360^\\circ",
+        "condition": "ಯಾವುದೇ ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜಕ್ಕೆ ಅನ್ವಯಿಸುತ್ತದೆ.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಬಹುಭುಜದ ಅಜ್ಞಾತ ಹೊರಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯಲು.",
+        "derivation": []
+      },
+      {
+        "formula_name": "Measure of Each Exterior Angle of a Regular Polygon",
+        "latex": "\\text{Each exterior angle} = \\frac{360^\\circ}{n}",
+        "condition": "n-ಬಾಹುಗಳಿರುವ ನಿಯಮಿತ ಬಹುಭುಜಕ್ಕೆ ಮಾತ್ರ.",
+        "exception": "",
+        "derived_from": "Sum of Exterior Angles",
+        "used_in": "ನಿಯಮಿತ ಬಹುಭುಜದ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು.",
+        "derivation": []
+      },
+      {
+        "formula_name": "Number of Sides of a Regular Polygon",
+        "latex": "n = \\frac{360^\\circ}{\\text{measure of one exterior angle}}",
+        "condition": "ನಿಯಮಿತ ಬಹುಭುಜಕ್ಕೆ ಮಾತ್ರ.",
+        "exception": "",
+        "derived_from": "Measure of Each Exterior Angle of a Regular Polygon",
+        "used_in": "ಒಂದು ಹೊರಕೋನದ ಅಳತೆ ತಿಳಿದಿರುವಾಗ ನಿಯಮಿತ ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು.",
+        "derivation": []
+      }
+    ],
+    "theorems": [
+      {
+        "theorem_name": "Polygon Exterior Angle Sum Theorem",
+        "statement": "ಯಾವುದೇ ಒಂದು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದ ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತವು 360° ಗೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+        "proof": "(ದೃಶ್ಯೀಕರಣ ಆಧಾರಿತ) ಬಹುಭುಜದ ಪ್ರತಿ ಶೃಂಗದಲ್ಲಿ ತಿರುಗುವ ಮೂಲಕ, ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ಒಂದು ಸಂಪೂರ್ಣ ಸುತ್ತು (360°) ಪೂರ್ಣಗೊಳಿಸುತ್ತಾನೆ. ಪ್ರತಿ ತಿರುವು ಒಂದು ಹೊರಕೋನಕ್ಕೆ ಸಮನಾಗಿರುವುದರಿಂದ, ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತವು 360° ಆಗುತ್ತದೆ.",
+        "converse": "",
+        "special_cases": [
+          "ಈ ಪ್ರಮೇಯವು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜಗಳಿಗೂ ಅನ್ವಯಿಸುತ್ತದೆ."
+        ],
+        "common_error": ""
+      }
+    ],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "GEO-QUAD-1_example_1",
+      "difficulty": "basic",
+      "problem": "ಚಿತ್ರ 3.3 ರಲ್ಲಿ x ನ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಚಿತ್ರದಲ್ಲಿ ಒಂದು ಚತುರ್ಭುಜದ ಮೂರು ಹೊರಕೋನಗಳು 90°, 50°, ಮತ್ತು 110° ಎಂದು ಕೊಡಲಾಗಿದೆ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತದ ಗುಣವನ್ನು ಬಳಸುವುದು.",
+          "justification": "ಯಾವುದೇ ಬಹುಭುಜದ ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತವು 360° ಆಗಿರುತ್ತದೆ.",
+          "calculation": "x + 90° + 50° + 110° = 360°"
+        },
+        {
+          "step": 2,
+          "action": "ತಿಳಿದಿರುವ ಕೋನಗಳನ್ನು ಕೂಡಿಸುವುದು.",
+          "justification": "ಸಮೀಕರಣವನ್ನು ಸರಳೀಕರಿಸಲು.",
+          "calculation": "x + 250° = 360°"
+        },
+        {
+          "step": 3,
+          "action": "x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು 250° ಅನ್ನು ಸಮೀಕರಣದ ಇನ್ನೊಂದು ಬದಿಗೆ ವರ್ಗಾಯಿಸುವುದು.",
+          "justification": "x ಅನ್ನು ಪ್ರತ್ಯೇಕಿಸಲು.",
+          "calculation": "x = 360° - 250°"
+        },
+        {
+          "step": 4,
+          "action": "ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರ.",
+          "justification": "x ನ ಬೆಲೆಯನ್ನು ಪಡೆಯಲು.",
+          "calculation": "x = 110°"
+        }
+      ],
+      "result": "x ನ ಬೆಲೆ 110°.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "GEO-QUAD-1_example_2",
+      "difficulty": "basic",
+      "problem": "ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ 45° ಇರುವ ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ನಿಯಮಿತ ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು.",
+          "justification": "ಹೊರಕೋನದ ಅಳತೆ ತಿಳಿದಾಗ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು.",
+          "calculation": "ಬಾಹುಗಳ ಸಂಖ್ಯೆ (n) = 360° / (ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ)"
+        },
+        {
+          "step": 2,
+          "action": "ಕೊಟ್ಟಿರುವ ಬೆಲೆಯನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸುವುದು.",
+          "justification": "ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ 45° ಎಂದು ಕೊಡಲಾಗಿದೆ.",
+          "calculation": "n = 360° / 45°"
+        },
+        {
+          "step": 3,
+          "action": "ಭಾಗಾಕಾರವನ್ನು ಮಾಡುವುದು.",
+          "justification": "ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯಲು.",
+          "calculation": "n = 8"
+        }
+      ],
+      "result": "ಬಹುಭುಜದಲ್ಲಿ ಇರುವ ಬಾಹುಗಳ ಸಂಖ್ಯೆ 8.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "\"ಒಂದು ನಿಯಮಿತ ಪಂಚಭುಜದ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ ಎಷ್ಟು?\" ಅಥವಾ \"ಪ್ರತಿ ಒಳಕೋನ 165° ಇರುವ ನಿಯಮಿತ ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?\" (ಇಲ್ಲಿ ಮೊದಲು ಹೊರಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು: 180°-165°=15°, ನಂತರ n=360/15=24).",
+    "two_mark_note": "ಉದಾಹರಣೆ 2 ರಂತಹ ನೇರ ಲೆಕ್ಕಾಚಾರದ ಪ್ರಶ್ನೆಗಳು.",
+    "five_mark_note": "ಸಾಧ್ಯತೆ ಕಡಿಮೆ.",
+    "common_mistakes": [
+      "ವಿದ್ಯಾರ್ಥಿಗಳು ಒಳಕೋನ ಮತ್ತು ಹೊರಕೋನಗಳ ಸೂತ್ರಗಳನ್ನು ಅದಲುಬದಲು ಮಾಡಬಹುದು. ಒಂದು ಒಳಕೋನ ಮತ್ತು ಅದಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಹೊರಕೋನದ ಮೊತ್ತ 180° (ಸರಳಯುಗ್ಮ) ಎಂಬುದನ್ನು ನೆನಪಿಡಬೇಕು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": [
+      "ಚತುರ್ಭುಜಗಳ ಒಳಕೋನಗಳ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಇದು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    ]
+  }
+}

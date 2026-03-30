@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದಂತೆ, ಕೊಟ್ಟಿರುವ ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಮೊದಲ 22 ಪದಗಳ ಮೊತ್ತ ಮೈನಸ್ 979. ನೆನಪಿಡಿ, ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಋಣಾತ್ಮಕವಾಗಿದ್ದಾಗ, ಪದಗಳ ಮೊತ್ತವೂ ಋಣಾತ್ಮಕವಾಗಿರಬಹುದು.",
+  "script_display": "ಹೀಗೆ, ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದಂತೆ, ಕೊಟ್ಟಿರುವ ಸಮಾಂತರ ಶ್ರೇಢಿಯ ಮೊದಲ 22 ಪದಗಳ ಮೊತ್ತ -979. ನೆನಪಿಡಿ, ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸ ಋಣಾತ್ಮಕವಾಗಿದ್ದಾಗ, ಪದಗಳ ಮೊತ್ತವೂ ಋಣಾತ್ಮಕವಾಗಿರಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_full",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "S_{22} = -979",
+    "placeholder_note": "Final answer highlighted in a box."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "ALG-AP-4_example_11",
+  "final_answer": "-979",
+  "final_answer_display": "$S_{22} = -979$",
+  "chunk_id": "ALG-AP-4_concept_3_chunk_023"
+}

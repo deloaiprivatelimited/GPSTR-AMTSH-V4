@@ -1,0 +1,168 @@
+{
+  "module_id": "NS-SYS-3_concept_5",
+  "module_title": "ಛೇದದ ಅಕರಣೀಕರಣ (Rationalizing the Denominator)",
+  "class": "9",
+  "chapter": "1",
+  "chapter_title": "ಸಂಖ್ಯಾ ಪದ್ಧತಿ",
+  "domain": "Number System & Arithmetic Foundations",
+  "prerequisites": [
+    "NS-SYS-3_concept_1",
+    "NS-SYS-3_concept_2",
+    "NS-SYS-3_concept_3",
+    "NS-SYS-3_concept_4"
+  ],
+  "theory": {
+    "concept_summary": "ಒಂದು ಭಿನ್ನರಾಶಿಯ ಛೇದದಲ್ಲಿ ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ (ಕರಣಿ) ಇದ್ದರೆ, ಅದನ್ನು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿ ಪರಿವರ್ತಿಸುವ ಪ್ರಕ್ರಿಯೆಯೇ ಛೇದದ ಅಕರಣೀಕರಣ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಸುಲಭಗೊಳಿಸಲು ಮತ್ತು ಸಂಖ್ಯೆಯ ಅಂದಾಜು ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಹಾಯಕವಾಗಿದೆ. ಇದಕ್ಕಾಗಿ ಕರಣಿಗಳ ನಿತ್ಯ ಸಮೀಕರಣಗಳನ್ನು, ವಿಶೇಷವಾಗಿ ಸಂಯುಗ್ಮಿಗಳನ್ನು (conjugates) ಬಳಸಲಾಗುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ಛೇದದ ಅಕರಣೀಕರಣ (Rationalizing the Denominator)",
+        "definition": "ಒಂದು ಅಭಿವ್ಯಕ್ತಿಯ ಛೇದದಲ್ಲಿರುವ ಕರಣಿಯನ್ನು ತೆಗೆದುಹಾಕಿ, ಅದನ್ನು ಸಮನಾದ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿ ಪರಿವರ್ತಿಸುವ ವಿಧಾನ."
+      },
+      {
+        "term": "ಸಂಯುಗ್ಮಿ (Conjugate)",
+        "definition": "$\\sqrt{a}+\\sqrt{b}$ ಮತ್ತು $\\sqrt{a}-\\sqrt{b}$ ಇವು ಒಂದಕ್ಕೊಂದು ಸಂಯುಗ್ಮಿಗಳಾಗಿವೆ. ಇವುಗಳ ಗುಣಲಬ್ಧವು ಯಾವಾಗಲೂ ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ: $(\\sqrt{a}+\\sqrt{b})(\\sqrt{a}-\\sqrt{b}) = a-b$."
+      }
+    ],
+    "formulas": [],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "NS-SYS-3_example_16",
+      "difficulty": "basic",
+      "problem": "$\\frac{1}{\\sqrt{2}}$ ರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಅಕರಣೀಕಾರಕವನ್ನು (rationalizing factor) ಗುರುತಿಸುವುದು.",
+          "justification": "ಛೇದದಲ್ಲಿ $\\sqrt{a}$ ರೂಪದಲ್ಲಿದ್ದರೆ, ಅಕರಣೀಕಾರಕವು $\\sqrt{a}$ ಆಗಿರುತ್ತದೆ.",
+          "calculation": "ಇಲ್ಲಿ ಅಕರಣೀಕಾರಕ $\\sqrt{2}$."
+        },
+        {
+          "step": 2,
+          "action": "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಅಕರಣೀಕಾರಕದಿಂದ ಗುಣಿಸುವುದು.",
+          "justification": "ಭಿನ್ನರಾಶಿಯ ಮೌಲ್ಯ ಬದಲಾಗಬಾರದು ($\\frac{\\sqrt{2}}{\\sqrt{2}}=1$).",
+          "calculation": "$\\frac{1}{\\sqrt{2}} \\times \\frac{\\sqrt{2}}{\\sqrt{2}}$"
+        },
+        {
+          "step": 3,
+          "action": "ಗುಣಾಕಾರ ಮಾಡಿ ಸಂಕ್ಷೇಪಿಸುವುದು.",
+          "justification": "$\\sqrt{a} \\times \\sqrt{a} = a$ ನಿಯಮ ಬಳಸಿ.",
+          "calculation": "$\\frac{1 \\times \\sqrt{2}}{\\sqrt{2} \\times \\sqrt{2}} = \\frac{\\sqrt{2}}{2}$"
+        }
+      ],
+      "result": "$\\frac{\\sqrt{2}}{2}$",
+      "common_trap": ""
+    },
+    {
+      "example_id": "NS-SYS-3_example_17",
+      "difficulty": "intermediate",
+      "problem": "$\\frac{1}{2+\\sqrt{3}}$ ಇದರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಛೇದದ ಸಂಯುಗ್ಮಿಯನ್ನು (conjugate) ಗುರುತಿಸುವುದು.",
+          "justification": "ಛೇದವು $a+\\sqrt{b}$ ರೂಪದಲ್ಲಿದೆ, ಅದರ ಸಂಯುಗ್ಮಿ $a-\\sqrt{b}$.",
+          "calculation": "$2+\\sqrt{3}$ ರ ಸಂಯುಗ್ಮಿ $2-\\sqrt{3}$."
+        },
+        {
+          "step": 2,
+          "action": "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಸಂಯುಗ್ಮಿಯಿಂದ ಗುಣಿಸುವುದು.",
+          "justification": "ಭಿನ್ನರಾಶಿಯ ಮೌಲ್ಯ ಬದಲಾಗಬಾರದು.",
+          "calculation": "$\\frac{1}{2+\\sqrt{3}} \\times \\frac{2-\\sqrt{3}}{2-\\sqrt{3}}$"
+        },
+        {
+          "step": 3,
+          "action": "ಗುಣಾಕಾರ ಮಾಡಿ ಸಂಕ್ಷೇಪಿಸುವುದು.",
+          "justification": "ಛೇದದಲ್ಲಿ $(a+b)(a-b)=a^2-b^2$ ನಿತ್ಯ ಸಮೀಕರಣ ಬಳಸಿ.",
+          "calculation": "$\\frac{1(2-\\sqrt{3})}{(2)^2 - (\\sqrt{3})^2} = \\frac{2-\\sqrt{3}}{4-3} = \\frac{2-\\sqrt{3}}{1}$"
+        }
+      ],
+      "result": "$2-\\sqrt{3}$",
+      "common_trap": ""
+    },
+    {
+      "example_id": "NS-SYS-3_example_18",
+      "difficulty": "intermediate",
+      "problem": "\\frac{5}{\\sqrt{3}-\\sqrt{5}} ಇದರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಛೇದದ ಸಂಯುಗ್ಮಿಯನ್ನು (conjugate) ಗುರುತಿಸುವುದು.",
+          "justification": "ಛೇದವು √a - √b ರೂಪದಲ್ಲಿದೆ, ಅದರ ಸಂಯುಗ್ಮಿ √a + √b.",
+          "calculation": "√3 - √5 ರ ಸಂಯುಗ್ಮಿ √3 + √5."
+        },
+        {
+          "step": 2,
+          "action": "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಸಂಯುಗ್ಮಿಯಿಂದ ಗುಣಿಸುವುದು.",
+          "justification": "ಭಿನ್ನರಾಶಿಯ ಮೌಲ್ಯ ಬದಲಾಗಬಾರದು.",
+          "calculation": "\\frac{5}{\\sqrt{3}-\\sqrt{5}} \\times \\frac{\\sqrt{3}+\\sqrt{5}}{\\sqrt{3}+\\sqrt{5}}"
+        },
+        {
+          "step": 3,
+          "action": "ಗುಣಾಕಾರ ಮಾಡಿ ಸಂಕ್ಷೇಪಿಸುವುದು.",
+          "justification": "ಛೇದದಲ್ಲಿ (a-b)(a+b)=a²-b² ನಿತ್ಯ ಸಮೀಕರಣ ಬಳಸಿ.",
+          "calculation": "\\frac{5(\\sqrt{3}+\\sqrt{5})}{(\\sqrt{3})^2 - (\\sqrt{5})^2} = \\frac{5(\\sqrt{3}+\\sqrt{5})}{3-5} = \\frac{5(\\sqrt{3}+\\sqrt{5})}{-2}"
+        },
+        {
+          "step": 4,
+          "action": "ಅಂತಿಮ ಉತ್ತರವನ್ನು ಬರೆಯುವುದು.",
+          "justification": "ಸಂಕ್ಷೇಪಿಸಿದ ರೂಪದಲ್ಲಿ ಬರೆಯುವುದು.",
+          "calculation": "-\\frac{5}{2}(\\sqrt{3}+\\sqrt{5})"
+        }
+      ],
+      "result": "-\\frac{5}{2}(\\sqrt{3}+\\sqrt{5})",
+      "common_trap": "ಛೇದದಲ್ಲಿ 3-5 = -2 ಎಂದು ಸರಿಯಾಗಿ ಲೆಕ್ಕ ಹಾಕಬೇಕು. ಚಿಹ್ನೆಯನ್ನು ಮರೆಯಬಾರದು."
+    },
+    {
+      "example_id": "NS-SYS-3_example_19",
+      "difficulty": "intermediate",
+      "problem": "$\\frac{1}{7+3\\sqrt{2}}$ ಇದರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಛೇದದ ಸಂಯುಗ್ಮಿಯನ್ನು ಗುರುತಿಸುವುದು.",
+          "justification": "ಛೇದವು $a+b\\sqrt{c}$ ರೂಪದಲ್ಲಿದೆ, ಅದರ ಸಂಯುಗ್ಮಿ $a-b\\sqrt{c}$.",
+          "calculation": "$7+3\\sqrt{2}$ ರ ಸಂಯುಗ್ಮಿ $7-3\\sqrt{2}$."
+        },
+        {
+          "step": 2,
+          "action": "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಸಂಯುಗ್ಮಿಯಿಂದ ಗುಣಿಸುವುದು.",
+          "justification": "ಭಿನ್ನರಾಶಿಯ ಮೌಲ್ಯ ಬದಲಾಗಬಾರದು.",
+          "calculation": "$\\frac{1}{7+3\\sqrt{2}} \\times \\frac{7-3\\sqrt{2}}{7-3\\sqrt{2}}$"
+        },
+        {
+          "step": 3,
+          "action": "ಗುಣಾಕಾರ ಮಾಡಿ ಸಂಕ್ಷೇಪಿಸುವುದು.",
+          "justification": "ಛೇದದಲ್ಲಿ $(a+b)(a-b)=a^2-b^2$ ನಿತ್ಯ ಸಮೀಕರಣ ಬಳಸಿ.",
+          "calculation": "$\\frac{7-3\\sqrt{2}}{(7)^2 - (3\\sqrt{2})^2} = \\frac{7-3\\sqrt{2}}{49 - (3^2 \\times (\\sqrt{2})^2)} = \\frac{7-3\\sqrt{2}}{49 - (9 \\times 2)} = \\frac{7-3\\sqrt{2}}{49-18}$"
+        },
+        {
+          "step": 4,
+          "action": "ಅಂತಿಮ ಉತ್ತರ.",
+          "justification": "ಛೇದದಲ್ಲಿ ವ್ಯವಕಲನ ಪೂರ್ಣಗೊಳಿಸುವುದು.",
+          "calculation": "$\\frac{7-3\\sqrt{2}}{31}$"
+        }
+      ],
+      "result": "$\\frac{7-3\\sqrt{2}}{31}$",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "$\\frac{1}{\\sqrt{7}-\\sqrt{6}}$ ರ ಅಕರಣೀಕರಿಸಿದ ರೂಪ ಯಾವುದು?",
+    "two_mark_note": "$\\frac{5}{\\sqrt{3}-\\sqrt{5}}$ ರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿ.",
+    "five_mark_note": "$x = 2+\\sqrt{3}$ ಆದರೆ, $x^2 + \\frac{1}{x^2}$ ರ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ (ಇಲ್ಲಿ $\\frac{1}{x}$ ಕಂಡುಹಿಡಿಯಲು ಅಕರಣೀಕರಣ ಬೇಕು).",
+    "common_mistakes": [
+      "ಸಂಯುಗ್ಮಿಯನ್ನು ಗುಣಿಸುವಾಗ ಚಿಹ್ನೆಗಳನ್ನು ತಪ್ಪಾಗಿ ಬಳಸುವುದು.",
+      "$(3\\sqrt{2})^2$ ನಂತಹ ಪದಗಳನ್ನು ವರ್ಗ ಮಾಡುವಾಗ ತಪ್ಪು ಮಾಡುವುದು ($3\\sqrt{2}^2$ ಎಂದು ಬರೆಯುವುದು)."
+    ],
+    "boundary_conditions": [],
+    "connects_to": [
+      "ಸಂಕೀರ್ಣ ಸಂಖ್ಯೆಗಳಲ್ಲಿ (complex numbers) ಛೇದದ ಅಕರಣೀಕರಣ",
+      "ಮಿತಿಗಳು (limits) ಮತ್ತು ಕಲನಶಾಸ್ತ್ರದಲ್ಲಿ (calculus) ಕೆಲವು ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಸಂಕ್ಷೇಪಿಸಲು"
+    ]
+  }
+}

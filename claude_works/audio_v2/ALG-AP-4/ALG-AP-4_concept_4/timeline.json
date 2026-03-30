@@ -1,0 +1,111 @@
+{
+  "module_id": "ALG-AP-4_concept_4",
+  "voice": "Autonoe",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 9,
+  "total_duration": 381.099,
+  "total_duration_formatted": "6:21",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "ALG-AP-4_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಮಾಂತರ ಮಾಧ್ಯ (Arithmetic Mean)",
+      "type": "intro",
+      "start": 0.0,
+      "end": 48.611,
+      "duration": 48.611,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "ALG-AP-4_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು (Prerequisites)",
+      "type": "intro",
+      "start": 49.211,
+      "end": 72.542,
+      "duration": 23.331,
+      "script_words": 32
+    },
+    {
+      "chunk_id": "ALG-AP-4_concept_4_chunk_003",
+      "chunk_file": "003_formula_0.json",
+      "wav_file": "003_formula_0.wav",
+      "slide_title": "ಸಮಾಂತರ ಮಾಧ್ಯ ಎಂದರೇನು?",
+      "type": "concept_explanation",
+      "start": 73.142,
+      "end": 120.593,
+      "duration": 47.451,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "ALG-AP-4_concept_4_chunk_004",
+      "chunk_file": "004_formula_cont_0_1.json",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "slide_title": "ಸೂತ್ರದ ನಿಷ್ಪನ್ನ - ಭಾಗ 1",
+      "type": "formula_derivation",
+      "start": 121.193,
+      "end": 161.084,
+      "duration": 39.891,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "ALG-AP-4_concept_4_chunk_005",
+      "chunk_file": "005_formula_cont_0_2.json",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "slide_title": "ಸೂತ್ರದ ನಿಷ್ಪನ್ನ - ಭಾಗ 2",
+      "type": "formula_derivation",
+      "start": 161.684,
+      "end": 205.415,
+      "duration": 43.731,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "ALG-AP-4_concept_4_chunk_006",
+      "chunk_file": "006_formula_cont_0_3.json",
+      "wav_file": "006_formula_cont_0_3.wav",
+      "slide_title": "ಸಮಾಂತರ ಮಾಧ್ಯದ ಸೂತ್ರ",
+      "type": "concept_explanation",
+      "start": 206.015,
+      "end": 245.826,
+      "duration": 39.811,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "ALG-AP-4_concept_4_chunk_007",
+      "chunk_file": "007_formula_cont_0_4.json",
+      "wav_file": "007_formula_cont_0_4.wav",
+      "slide_title": "ಒಂದು ತ್ವರಿತ ಉದಾಹರಣೆ",
+      "type": "concept_explanation",
+      "start": 246.426,
+      "end": 296.437,
+      "duration": 50.011,
+      "script_words": 81
+    },
+    {
+      "chunk_id": "ALG-AP-4_concept_4_chunk_008",
+      "chunk_file": "008_formula_cont_0_5.json",
+      "wav_file": "008_formula_cont_0_5.wav",
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "concept_explanation",
+      "start": 297.037,
+      "end": 347.648,
+      "duration": 50.611,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "ALG-AP-4_concept_4_chunk_009",
+      "chunk_file": "009_recap_0.json",
+      "wav_file": "009_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಸಮಾಂತರ ಮಾಧ್ಯ",
+      "type": "recap",
+      "start": 348.248,
+      "end": 380.499,
+      "duration": 32.251,
+      "script_words": 51
+    }
+  ]
+}

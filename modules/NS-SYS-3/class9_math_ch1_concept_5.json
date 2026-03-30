@@ -1,0 +1,127 @@
+{
+  "module_id": "class9_math_ch1_concept_5",
+  "module_title": "ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳ ಮೇಲಿನ ಕ್ರಿಯೆಗಳು ಮತ್ತು ನಿತ್ಯಸಮೀಕರಣಗಳು",
+  "class": "9",
+  "chapter": "1",
+  "chapter_title": "ಸಂಖ್ಯಾ ಪದ್ಧತಿ",
+  "domain": "ಬೀಜಗಣಿತ",
+  "prerequisites": [
+    "class9_math_ch1_concept_1",
+    "class9_math_ch1_concept_2",
+    "class9_math_ch1_concept_3",
+    "class9_math_ch1_concept_4"
+  ],
+  "theory": {
+    "concept_summary": "ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳ ಮೇಲಿನ ಸಂಕಲನ, ವ್ಯವಕಲನ, ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರ ಕ್ರಿಯೆಗಳು ಬೀಜಗಣಿತದ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತವೆ. ಭಾಗಲಬ್ಧ ಮತ್ತು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಸಂಕಲನ/ವ್ಯವಕಲನ/ಗುಣಾಕಾರ/ಭಾಗಾಕಾರವು ಸಾಮಾನ್ಯವಾಗಿ ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ. ಕರಣಿಗಳನ್ನು ಒಳಗೊಂಡಿರುವಾಗ, ನಿರ್ದಿಷ್ಟ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಸಂಕ್ಷೇಪಿಸಬಹುದು, ಇದು ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಲು ಸಹಾಯಕವಾಗಿದೆ.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "Product of Roots",
+        "latex": "\\sqrt{ab} = \\sqrt{a}\\sqrt{b}",
+        "condition": "a ≥ 0, b ≥ 0",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "Quotient of Roots",
+        "latex": "\\sqrt{\\frac{a}{b}} = \\frac{\\sqrt{a}}{\\sqrt{b}}",
+        "condition": "a ≥ 0, b > 0",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "Difference of Squares (Roots)",
+        "latex": "(\\sqrt{a} + \\sqrt{b})(\\sqrt{a} - \\sqrt{b}) = a - b",
+        "condition": "a ≥ 0, b ≥ 0",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "Difference of Squares (Mixed)",
+        "latex": "(a + \\sqrt{b})(a - \\sqrt{b}) = a^2 - b",
+        "condition": "b ≥ 0",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      },
+      {
+        "formula_name": "Square of a Binomial Sum (Roots)",
+        "latex": "(\\sqrt{a} + \\sqrt{b})^2 = a + 2\\sqrt{ab} + b",
+        "condition": "a ≥ 0, b ≥ 0",
+        "exception": null,
+        "derived_from": null,
+        "used_in": ""
+      }
+    ],
+    "theorems": [],
+    "properties": [
+      "r ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ ಮತ್ತು s ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿರಲಿ.",
+      "ಸಂಕಲನ/ವ್ಯವಕಲನ: r + s ಮತ್ತು r - s ಗಳು ಯಾವಾಗಲೂ ಅಭಾಗಲಬ್ಧ.",
+      "ಗುಣಾಕಾರ/ಭಾಗಾಕಾರ: r * s ಮತ್ತು r / s ಗಳು ಯಾವಾಗಲೂ ಅಭಾಗಲಬ್ಧ (r ≠ 0 ಆಗಿದ್ದಾಗ).",
+      "ಎರಡು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಮೇಲಿನ ಕ್ರಿಯೆಗಳ ಫಲಿತಾಂಶವು ಭಾಗಲಬ್ಧ ಅಥವಾ ಅಭಾಗಲಬ್ಧವಾಗಿರಬಹುದು.",
+      "√2 + (-√2) = 0 (ಭಾಗಲಬ್ಧ)",
+      "√2 * √2 = 2 (ಭಾಗಲಬ್ಧ)",
+      "√2 + √3 (ಅಭಾಗಲಬ್ಧ)"
+    ],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "id": "class9_math_ch1_geometric_sqrt_x",
+        "render_target": "canvas",
+        "exam_relevance": "5-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "geometric_figure",
+        "concept_latex": "\\sqrt{x}",
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [
+          "AB = x (e.g., 3.5)",
+          "BC = 1",
+          "BD = sqrt(x)"
+        ],
+        "purpose": null,
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "class9_math_ch1_example_15",
+      "difficulty": "intermediate",
+      "problem": "ಕೆಳಗಿನವುಗಳನ್ನು ಸಂಕ್ಷೇಪಿಸಿ: (i) (5+√7)(2+√5) (ii) (√3+√7)²",
+      "steps": [
+        {
+          "step": 1,
+          "action": "(i) (5+√7)(2+√5) ನ್ನು ವಿಸ್ತರಿಸಿ. 5(2+√5) + √7(2+√5) = 10 + 5√5 + 2√7 + √35",
+          "justification": "ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ: (a+b)(c+d) = ac+ad+bc+bd."
+        },
+        {
+          "step": 2,
+          "action": "(ii) (√3+√7)² ನ್ನು ವಿಸ್ತರಿಸಿ. (√3)² + 2(√3)(√7) + (√7)² = 3 + 2√21 + 7 = 10 + 2√21",
+          "justification": "ನಿತ್ಯಸಮೀಕರಣ (√a+√b)² = a + 2√ab + b ಬಳಸಿ."
+        }
+      ],
+      "result": "(i) 10 + 5√5 + 2√7 + √35 (ii) 10 + 2√21",
+      "common_trap": "(√a + √b)² ನ್ನು a + b ಎಂದು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "(√5 - √2)(√5 + √2) ರ ಬೆಲೆ ಏನು? (3)",
+    "two_mark_note": "(3+√3)(2+√2) ನ್ನು ಸಂಕ್ಷೇಪಿಸಿ.",
+    "five_mark_note": "√9.3 ನ್ನು ರೇಖಾಗಣಿತೀಯವಾಗಿ ನಿರೂಪಿಸಿ.",
+    "common_mistakes": [
+      "(√a + √b)² ನ್ನು a + b ಎಂದು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

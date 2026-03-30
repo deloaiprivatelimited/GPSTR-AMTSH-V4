@@ -1,0 +1,38 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರದ ನಿಷ್ಪನ್ನ - ಭಾಗ 2",
+  "script": "ನಾವು b ಮೈನಸ್ a ಈಕ್ವಲ್ಸ್ c ಮೈನಸ್ b ಎಂಬ ಸಮೀಕರಣವನ್ನು ಹೊಂದಿದ್ದೇವೆ. ಈಗ, ನಾವು b ಯ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಈ ಸಮೀಕರಣವನ್ನು ಸರಳೀಕರಿಸೋಣ. ಸಮೀಕರಣದ ಬಲಭಾಗದಲ್ಲಿರುವ ಮೈನಸ್ b ಯನ್ನು ಎಡಭಾಗಕ್ಕೆ ತಂದಾಗ ಅದು ಪ್ಲಸ್ b ಆಗುತ್ತದೆ. ಹಾಗೆಯೇ, ಎಡಭಾಗದಲ್ಲಿರುವ ಮೈನಸ್ a ಯನ್ನು ಬಲಭಾಗಕ್ಕೆ ತೆಗೆದುಕೊಂಡು ಹೋದಾಗ ಅದು ಪ್ಲಸ್ a ಆಗುತ್ತದೆ. ಆಗ ನಮಗೆ b ಪ್ಲಸ್ b ಈಕ್ವಲ್ಸ್ a ಪ್ಲಸ್ c ಎಂದು ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಮತ್ತಷ್ಟು ಸರಳೀಕರಿಸಿದರೆ, ಎರಡು b ಈಕ್ವಲ್ಸ್ a ಪ್ಲಸ್ c ಆಗುತ್ತದೆ.",
+  "script_display": "ನಾವು $b - a = c - b$ ಎಂಬ ಸಮೀಕರಣವನ್ನು ಹೊಂದಿದ್ದೇವೆ. ಈಗ, ನಾವು $b$ ಯ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಈ ಸಮೀಕರಣವನ್ನು ಸರಳೀಕರಿಸೋಣ. ಸಮೀಕರಣದ ಬಲಭಾಗದಲ್ಲಿರುವ $-b$ ಯನ್ನು ಎಡಭಾಗಕ್ಕೆ ತಂದಾಗ ಅದು $+b$ ಆಗುತ್ತದೆ. ಹಾಗೆಯೇ, ಎಡಭಾಗದಲ್ಲಿರುವ $-a$ ಯನ್ನು ಬಲಭಾಗಕ್ಕೆ ತೆಗೆದುಕೊಂಡು ಹೋದಾಗ ಅದು $+a$ ಆಗುತ್ತದೆ. ಆಗ ನಮಗೆ $b + b = a + c$ ಎಂದು ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಮತ್ತಷ್ಟು ಸರಳೀಕರಿಸಿದರೆ, $2b = a + c$ ಆಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "b - a = c - b\n\n\\text{b ಪದಗಳನ್ನು ಒಂದು ಕಡೆಗೆ ತರುವುದು:}\n\nb + b = a + c\n\n\\text{ಸರಳೀಕರಿಸಿದಾಗ:}\n\n2b = a + c",
+    "placeholder_note": "Show the algebraic rearrangement of the equation."
+  },
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "$b$ ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು.",
+      "justification": "$b$ ಪದಗಳನ್ನು ಒಂದು ಕಡೆ ಮತ್ತು ಇತರ ಪದಗಳನ್ನು ಇನ್ನೊಂದು ಕಡೆಗೆ ವರ್ಗಾಯಿಸುವುದು. $b + b = a + c \\implies 2b = a + c$."
+    }
+  ],
+  "chunk_id": "ALG-AP-4_concept_4_chunk_005"
+}

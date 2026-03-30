@@ -1,0 +1,144 @@
+{
+  "module_id": "class7_math_ch6_concept_8",
+  "module_title": "ಪೈಥಾಗೊರಸ್ ಗುಣ",
+  "class": "7",
+  "chapter": "6",
+  "chapter_title": "ತ್ರಿಭುಜ ಮತ್ತು ಅದರ ಗುಣಗಳು",
+  "domain": "ರೇಖಾಗಣಿತ",
+  "prerequisites": [
+    "class7_math_ch6_concept_1",
+    "class7_math_ch6_concept_2",
+    "class7_math_ch6_concept_3",
+    "class7_math_ch6_concept_4",
+    "class7_math_ch6_concept_5",
+    "class7_math_ch6_concept_6",
+    "class7_math_ch6_concept_7"
+  ],
+  "theory": {
+    "concept_summary": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಲಂಬಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಅತಿ ಉದ್ದದ ಬಾಹುವನ್ನು ವಿಕರ್ಣ ಎನ್ನುತ್ತಾರೆ. ಈ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, ವಿಕರ್ಣದ ಮೇಲಿನ ವರ್ಗವು ಉಳಿದೆರಡು ಬಾಹುಗಳ ಮೇಲಿನ ವರ್ಗಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇದು ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಬಾಹುಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಸ್ಥಾಪಿಸುತ್ತದೆ ಮತ್ತು ಅಪರಿಚಿತ ಬಾಹುವಿನ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಳಸಲಾಗುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ವಿಕರ್ಣ (Hypotenuse)",
+        "definition": "ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ, ಲಂಬಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹುವನ್ನು 'ವಿಕರ್ಣ' ಎನ್ನುತ್ತಾರೆ. ಇದು ತ್ರಿಭುಜದ ಅತಿ ಉದ್ದದ ಬಾಹುವಾಗಿರುತ್ತದೆ."
+      },
+      {
+        "term": "ಲಂಬಕೋನವನ್ನೊಳಗೊಂಡ ಬಾಹುಗಳು (Legs)",
+        "definition": "ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ ಲಂಬಕೋನವನ್ನು ಉಂಟುಮಾಡುವ ಎರಡು ಬಾಹುಗಳು."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Pythagoras Formula",
+        "latex": "a^2 + b^2 = c^2",
+        "condition": "In a right-angled triangle, where 'a' and 'b' are the lengths of the legs and 'c' is the length of the hypotenuse.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "Finding the length of an unknown side in a right-angled triangle."
+      }
+    ],
+    "theorems": [
+      {
+        "theorem_name": "Pythagorean Theorem",
+        "statement": "ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ, ವಿಕರ್ಣದ ಮೇಲಿನ ವರ್ಗವು ಉಳಿದೆರಡು ಬಾಹುಗಳ ಮೇಲಿನ ವರ್ಗಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+        "proof_sketch": "",
+        "converse": "ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ, ಅತಿ ಉದ್ದದ ಬಾಹುವಿನ ವರ್ಗವು ಉಳಿದೆರಡು ಬಾಹುಗಳ ವರ್ಗಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮನಾಗಿದ್ದರೆ, ಆ ತ್ರಿಭುಜವು ಲಂಬಕೋನ ತ್ರಿಭುಜವಾಗಿರುತ್ತದೆ ಮತ್ತು ಅತಿ ಉದ್ದದ ಬಾಹುವಿಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಕೋನವು ಲಂಬಕೋನವಾಗಿರುತ್ತದೆ.",
+        "special_cases": [],
+        "common_error": "ಪ್ರಮೇಯವನ್ನು ಲಂಬಕೋನವಲ್ಲದ ತ್ರಿಭುಜಗಳಿಗೆ ಅನ್ವಯಿಸುವುದು. ಅಥವಾ, c² = a² - b² ಎಂದು ತಪ್ಪಾಗಿ ಸೂತ್ರ ಬಳಸುವುದು."
+      }
+    ],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "id": "class7_math_ch6_pythagoras_theorem",
+        "render_target": "svg_template",
+        "exam_relevance": "2-mark | 5-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "geometric_figure",
+        "concept_latex": "a^2 + b^2 = c^2",
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [
+          "A right-angled triangle with vertices A, B, C.",
+          "Right angle at C.",
+          "Side 'a' is opposite to vertex A (BC).",
+          "Side 'b' is opposite to vertex B (AC).",
+          "Side 'c' is the hypotenuse, opposite to vertex C (AB)."
+        ],
+        "purpose": null,
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "class7_math_ch6_example_5",
+      "difficulty": "basic",
+      "problem": "3 cm, 4 cm, ಮತ್ತು 5 cm ಉದ್ದದ ಬಾಹುಗಳಿರುವ ತ್ರಿಭುಜವು ಲಂಬಕೋನ ತ್ರಿಭುಜವಾಗುವುದೇ?",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಬಾಹುಗಳ ವರ್ಗಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 3² = 9, 4² = 16, 5² = 25.",
+          "justification": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ವಿಲೋಮವನ್ನು ಪರೀಕ್ಷಿಸಲು."
+        },
+        {
+          "step": 2,
+          "action": "ಸಣ್ಣ ಎರಡು ಬಾಹುಗಳ ವರ್ಗಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 9 + 16 = 25.",
+          "justification": "a² + b² ಅನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು."
+        },
+        {
+          "step": 3,
+          "action": "ಈ ಮೊತ್ತವನ್ನು ಅತಿ ದೊಡ್ಡ ಬಾಹುವಿನ ವರ್ಗದೊಂದಿಗೆ ಹೋಲಿಸಿ: 25 = 25.",
+          "justification": "a² + b² = c² ಆಗಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸುವುದು."
+        }
+      ],
+      "result": "ಹೌದು, ಇದು ಲಂಬಕೋನ ತ್ರಿಭುಜವಾಗಿದೆ. 5 cm ಉದ್ದದ ಬಾಹು ವಿಕರ್ಣವಾಗಿದೆ.",
+      "common_trap": "ಯಾವುದೇ ಎರಡು ಬಾಹುಗಳ ವರ್ಗಗಳನ್ನು ಕೂಡಿಸಿ ಮೂರನೆಯದಕ್ಕೆ ಹೋಲಿಸುವುದು. ಯಾವಾಗಲೂ ಸಣ್ಣ ಎರಡು ಬಾಹುಗಳ ವರ್ಗಗಳ ಮೊತ್ತವನ್ನು ಅತಿ ದೊಡ್ಡ ಬಾಹುವಿನ ವರ್ಗಕ್ಕೆ ಹೋಲಿಸಬೇಕು."
+    },
+    {
+      "example_id": "class7_math_ch6_example_6",
+      "difficulty": "basic",
+      "problem": "ΔABC ಯಲ್ಲಿ ∠C = 90°, AC = 5 cm ಮತ್ತು BC = 12 cm ಆದರೆ, ವಿಕರ್ಣ AB ಯ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸಿ: AB² = AC² + BC².",
+          "justification": "AB ವಿಕರ್ಣವಾಗಿದೆ."
+        },
+        {
+          "step": 2,
+          "action": "ದತ್ತ ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸಿ: AB² = 5² + 12².",
+          "justification": "AC ಮತ್ತು BC ಯ ಬೆಲೆಗಳನ್ನು ಹಾಕುವುದು."
+        },
+        {
+          "step": 3,
+          "action": "ವರ್ಗಗಳನ್ನು ಲೆಕ್ಕ ಮಾಡಿ: AB² = 25 + 144 = 169.",
+          "justification": "ಸರಳೀಕರಣ."
+        },
+        {
+          "step": 4,
+          "action": "AB ಯ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: AB = √169.",
+          "justification": "ವರ್ಗಮೂಲವನ್ನು ತೆಗೆಯುವುದು."
+        }
+      ],
+      "result": "AB = 13 cm.",
+      "common_trap": "AB² = 169 ಎಂದು ಉತ್ತರವನ್ನು ಬಿಡುವುದು. AB ಯ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು ವರ್ಗಮೂಲ ತೆಗೆಯುವುದನ್ನು ಮರೆಯುವುದು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಎರಡು ಲಂಬಬಾಹುಗಳು 6 ಮತ್ತು 8 ಆದರೆ, ವಿಕರ್ಣದ ಉದ್ದ ಎಷ್ಟು?",
+    "two_mark_note": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ನಿರೂಪಿಸಿ. 3, 4, 5 ಪೈಥಾಗೊರಿಯನ್ ತ್ರಿವಳಿಗಳು ಎಂದು ತೋರಿಸಿ.",
+    "five_mark_note": "ನೆಲದಿಂದ 12 ಮೀ ಎತ್ತರದಲ್ಲಿರುವ ಕಿಟಕಿಯನ್ನು ತಲುಪಲು, ಗೋಡೆಯ ಬುಡದಿಂದ 9 ಮೀ ದೂರದಲ್ಲಿ ಏಣಿಯನ್ನು ಇಡಲಾಗಿದೆ. ಏಣಿಯ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "common_mistakes": [
+      "ಪ್ರಮೇಯವನ್ನು ಲಂಬಕೋನವಲ್ಲದ ತ್ರಿಭುಜಗಳಿಗೆ ಅನ್ವಯಿಸುವುದು. ಅಥವಾ, c² = a² - b² ಎಂದು ತಪ್ಪಾಗಿ ಸೂತ್ರ ಬಳಸುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

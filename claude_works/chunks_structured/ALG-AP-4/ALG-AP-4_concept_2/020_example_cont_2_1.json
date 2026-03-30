@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: a ಮತ್ತು d ಗಾಗಿ ಸಮೀಕರಣಗಳು",
+  "script": "ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು n ನೇ ಪದದ ಸೂತ್ರ, a n equals a plus n minus one times d, ಅನ್ನು ಬಳಸಿಕೊಂಡು ದತ್ತಾಂಶಗಳನ್ನು ಸಮೀಕರಣಗಳ ರೂಪದಲ್ಲಿ ಬರೆಯೋಣ. ಮೂರನೇ ಪದ 5 ಆಗಿರುವುದರಿಂದ, a plus ಮೂರು ಮೈನಸ್ ಒಂದು, times d, equals 5. ಅಂದರೆ, a plus 2d equals 5. ಇದು ನಮ್ಮ ಮೊದಲ ಸಮೀಕರಣ. ಹಾಗೆಯೇ, ಏಳನೇ ಪದ 9 ಆಗಿರುವುದರಿಂದ, a plus ಏಳು ಮೈನಸ್ ಒಂದು, times d, equals 9. ಅಂದರೆ, a plus 6d equals 9. ಇದು ನಮ್ಮ ಎರಡನೇ ಸಮೀಕರಣ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಈ ಏಕಕಾಲಿಕ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸೋಣ. ಎರಡನೇ ಸಮೀಕರಣದಿಂದ ಮೊದಲನೇ ಸಮೀಕರಣವನ್ನು ಕಳೆದಾಗ, a plus 6d, ಮೈನಸ್, a plus 2d, equals 9 minus 5. ಇಲ್ಲಿ a ಮತ್ತು a ರದ್ದಾಗುತ್ತದೆ. 6d ಮೈನಸ್ 2d ಯು 4d ಆಗುತ್ತದೆ, ಮತ್ತು 9 ಮೈನಸ್ 5 ಯು 4 ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, 4d equals 4. ಇದರರ್ಥ d equals 1.",
+  "script_display": "ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು n ನೇ ಪದದ ಸೂತ್ರ, $a_n = a + (n-1)d$, ಅನ್ನು ಬಳಸಿಕೊಂಡು ದತ್ತಾಂಶಗಳನ್ನು ಸಮೀಕರಣಗಳ ರೂಪದಲ್ಲಿ ಬರೆಯೋಣ. 3ನೇ ಪದ 5 ಆಗಿರುವುದರಿಂದ, $a + (3-1)d = 5$. ಅಂದರೆ, $a + 2d = 5$. ಇದು ನಮ್ಮ ಮೊದಲ ಸಮೀಕರಣ. ಹಾಗೆಯೇ, 7ನೇ ಪದ 9 ಆಗಿರುವುದರಿಂದ, $a + (7-1)d = 9$. ಅಂದರೆ, $a + 6d = 9$. ಇದು ನಮ್ಮ ಎರಡನೇ ಸಮೀಕರಣ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಈ ಏಕಕಾಲಿಕ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸೋಣ. ಸಮೀಕರಣ (2) ರಿಂದ ಸಮೀಕರಣ (1) ಅನ್ನು ಕಳೆದಾಗ, $(a + 6d) - (a + 2d) = 9 - 5$. ಇಲ್ಲಿ $a$ ಮತ್ತು $a$ ರದ್ದಾಗುತ್ತದೆ. $6d - 2d$ ಯು $4d$ ಆಗುತ್ತದೆ, ಮತ್ತು $9 - 5$ ಯು $4$ ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, $4d = 4$. ಇದರರ್ಥ $d = 1$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "full_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-AP-4_example_5",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$a_3 = a + (3-1)d \\implies a + 2d = 5$ --- (1)\n$a_7 = a + (7-1)d \\implies a + 6d = 9$ --- (2)",
+      "justification": "$a_n = a + (n-1)d$ ಸೂತ್ರವನ್ನು ಬಳಸಿ"
+    },
+    {
+      "step": 2,
+      "action_display": "ಸಮೀಕರಣ (2) - (1) $\\implies (a + 6d) - (a + 2d) = 9 - 5$\n$4d = 4 \\implies d = 1$",
+      "justification": "ಏಕಕಾಲಿಕ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸುವುದು"
+    }
+  ],
+  "chunk_id": "ALG-AP-4_concept_2_chunk_020"
+}

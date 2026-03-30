@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. n ನೇ ಪದ a n ಸಮ ಮೂರು ಪ್ಲಸ್ ಎರಡು n ಇರುವ ಸಂಖ್ಯಾ ಸರಣಿಯ ಮೊದಲ ಇಪ್ಪತ್ತನಾಲ್ಕು ಪದಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ n ನೇ ಪದದ ಸೂತ್ರವನ್ನು ನೀಡಲಾಗಿದೆ, ಮತ್ತು ನಾವು ಮೊದಲ ಇಪ್ಪತ್ತನಾಲ್ಕು ಪದಗಳ ಮೊತ್ತ, ಅಂದರೆ S ಇಪ್ಪತ್ತನಾಲ್ಕು ಅನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. n ನೇ ಪದ $a_n = 3 + 2n$ ಇರುವ ಸಂಖ್ಯಾ ಸರಣಿಯ ಮೊದಲ 24 ಪದಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ n ನೇ ಪದದ ಸೂತ್ರವನ್ನು ನೀಡಲಾಗಿದೆ, ಮತ್ತು ನಾವು ಮೊದಲ 24 ಪದಗಳ ಮೊತ್ತ, ಅಂದರೆ $S_{24}$ ಅನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: n ನೇ ಪದ $a_n = 3 + 2n$ ಇರುವ ಸಂಖ್ಯಾ ಸರಣಿಯ ಮೊದಲ 24 ಪದಗಳ ಮೊತ್ತ ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ದತ್ತಾಂಶ (Given): $a_n = 3 + 2n$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To find): ಮೊದಲ 24 ಪದಗಳ ಮೊತ್ತ ($S_{24}$)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-AP-4_example_15",
+  "chunk_id": "ALG-AP-4_concept_3_chunk_037"
+}

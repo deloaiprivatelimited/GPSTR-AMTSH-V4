@@ -1,0 +1,769 @@
+# ಚತುರ್ಭುಜಗಳ ಪರಿಚಯ
+## ಅಧ್ಯಾಯ 3
+
+### 3.1 ಪೀಠಿಕೆ
+ಕಾಗದವು "ಸಮತಲ ಮೇಲೈ'ಗೆ ಮಾದರಿ ಎಂದು ನೀವು ಈಗಾಗಲೇ ತಿಳಿದಿದ್ದೀರಿ. ಸೀಸದ ಕಡ್ಡಿಯನ್ನು ಹಾಳೆಯ ಮೇಲಿನಿಂದ ಎತ್ತದೆ, ಹಲವಾರು ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿದಾಗ (ಮತ್ತು ಒಂದು ಬಿಂದುವಿನ ಮೂಲಕ ಹಾದು ಹೋಗುವುದನ್ನು ಹೊರತುಪಡಿಸಿ ಯಾವುದೇ ರೇಖೆಯ ಮೇಲೆ ಮತ್ತೆ ಚಲಿಸದಂತೆ) ಒಂದು "ವಕ್ರರೇಖೆ"ಯನ್ನು ಪಡೆಯುವಿರಿ.
+
+### 3.1.1 ಬಹಿರ್ವಕ್ರ ಮತ್ತು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜಗಳು :
+ರೇಖಾಖಂಡಗಳ ಸೇರಿಸುವಿಕೆಯಿಂದ ಉಂಟಾದ ಸರಳವಾದ ಆವೃತ ವಕ್ರಾಕೃತಿಯನ್ನು "ಬಹುಭುಜ" ಎನ್ನುವರು.
+
+--- FIGURE ---
+Description: The image displays several shapes categorized into two groups.
+Group 1: ಬಹುಭುಜಗಳಾಗಿರುವ ವಕ್ರಾಕೃತಿಗಳು (Polygonal curves). This group contains four closed shapes made of straight line segments: a triangle, a rectangle, a pentagon, and an irregular quadrilateral.
+Group 2: ಬಹುಭುಜಗಳಾಗಿಲ್ಲದ ವಕ್ರಾಕೃತಿಗಳು (Non-polygonal curves). This group contains four shapes. The first is an open curve made of three line segments. The second is a closed curve with one curved side. The third and fourth are self-intersecting figures made of line segments.
+--- END FIGURE ---
+
+ಇಲ್ಲಿ ಕೆಲವು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜಗಳು ಮತ್ತು ಕೆಲವು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜಗಳು ಇವೆ. (ಚಿತ್ರ. 3.1)
+
+--- FIGURE ---
+Description: The image displays two groups of polygons.
+Group 1: ಬಹುಭುಜಗಳು ಬಹಿರ್ವಕ್ರ (Convex polygons). This group contains five polygons: a hexagon, an octagon, a parallelogram, a rectangle, and another irregular polygon. All internal angles are less than 180 degrees.
+Group 2: ನಿಯಮಿತವಲ್ಲದ ಬಹುಭುಜಗಳು ಅಂತರ್ವಕ್ರ (Concave polygons). This group contains four polygons. Each has at least one internal angle greater than 180 degrees. The shapes are an irregular hexagon, a star-like shape, an arrow-like shape, and another irregular polygon.
+Labels: ಚಿತ್ರ 3.1
+--- END FIGURE ---
+
+ಮೇಲಿನ ಈ ಬಹುಭುಜಗಳು ಹೇಗೆ ವಿಭಿನ್ನವಾಗಿವೆ ಎಂದು ನಿಮಗೆ ಗುರುತಿಸಲು ಸಾಧ್ಯವೇ? ಯಾವುದೇ ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದಲ್ಲಿ ಕರ್ಣದ ಯಾವ ಭಾಗವು ಬಹುಭುಜದ ಹೊರಗೆ ಇರುವುದಿಲ್ಲ. ಬಹುಭುಜದ ಒಳಗಿರುವ ಯಾವುದೇ ಎರಡು ವಿಭಿನ್ನ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವು ಪೂರ್ಣವಾಗಿ ಅದರೊಳಗೆ ಇರುತ್ತದೆ. ಅಂತರ್ವಕ್ರ ಬಹುಭುಜಗಳಲ್ಲಿಯೂ ಇದು ನಿಜವಾಗುತ್ತದೆಯೇ? ಕೊಟ್ಟಿರುವ ಚಿತ್ರಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡಿ ನಂತರ ಬಹಿರ್ವಕ್ರ ಮತ್ತು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜಗಳನ್ನು ನಿಮ್ಮ ಸ್ವಂತ ವಾಕ್ಯದಲ್ಲಿ ವಿವರಿಸಲು ಪ್ರಯತ್ನಿಸಿ. ಪ್ರತಿಯೊಂದು ವಿಧಕ್ಕೂ ಎರಡು ಕಚ್ಚಾ ಆಕೃತಿಗಳನ್ನು ಎಳೆಯಿರಿ.
+
+ಈ ತರಗತಿಯಲ್ಲಿ ನಾವು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜಗಳ ಬಗ್ಗೆ ಮಾತ್ರ ಕಲಿಯುತ್ತೇವೆ.
+
+### 3.1.2 ನಿಯಮಿತ ಮತ್ತು ಅನಿಯಮಿತ ಬಹುಭುಜಗಳು :
+ನಿಯಮಿತ ಬಹುಭುಜಗಳು ಸಮಬಾಹು ಮತ್ತು ಸಮಕೋನೀಯ ಆಕೃತಿಗಳಾಗಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಚೌಕವು ಸಮ ಅಳತೆಯ ಬಾಹುಗಳನ್ನು ಮತ್ತು ಸಮನಾದ ಕೋನಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಆದ್ದರಿಂದ ಅದನ್ನು ನಿಯಮಿತ ಬಹುಭುಜ ಎನ್ನುತ್ತೇವೆ.
+
+ಆಯತವು ಸಮಕೋನೀಯವಾಗಿರುತ್ತದೆ ಆದರೆ ಸಮಬಾಹು ಆಕೃತಿಯಾಗಿಲ್ಲ. ಅಯತವು ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜವೇ? ಸಮಬಾಹು ತ್ರಿಭುಜವು ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜವೇ? ಏಕೆ?
+
+--- FIGURE ---
+Description: The image shows two groups of polygons.
+Group 1: ನಿಯಮಿತ ಬಹುಭುಜಗಳು (Regular polygons). This group contains four polygons: an equilateral triangle, a square, a regular pentagon, and a regular hexagon. All sides are marked with a tick to show they are equal, and all angles are marked with an arc to show they are equal.
+Group 2: ನಿಯಮಿತವಲ್ಲದ ಬಹುಭುಜಗಳು (Irregular polygons). This group contains four polygons: a right-angled triangle, a rectangle, an isosceles triangle, and an irregular hexagon.
+--- END FIGURE ---
+
+--- NOTE ---
+(ಸೂಚನೆ : / ಅಥವಾ // ಇವು ಬಾಹುಗಳು ಸಮನಾದ ಉದ್ದಗಳನ್ನು ಹೊಂದಿವೆ ಎಂದು ಇವು ಸೂಚಿಸುತ್ತವೆ.)
+--- END NOTE ---
+
+ಹಿಂದಿನ ತರಗತಿಗಳಲ್ಲಿ, ಸಮಬಾಹು ಚತುರ್ಭುಜಗಳಾಗಿದ್ದು ಆದರೆ ಸಮಕೋನೀಯಗಳಾಗಿರದ ಚತುರ್ಭುಜಗಳ ಬಗ್ಗೆ ತಿಳಿದಿದ್ದೀರಾ? ನಿಮ್ಮ ಹಿಂದಿನ ತರಗತಿಗಳಲ್ಲಿ ನೋಡಿರುವ ಚತುರ್ಭುಜಗಳನ್ನು ನೆನಪು ಮಾಡಿಕೊಳ್ಳಿ - ಆಯತ, ಚೌಕ, ವಜ್ರಾಕೃತಿ ಇತ್ಯಾದಿ.
+
+ಸಮಕೋನೀಯವಲ್ಲದ ಸಮಬಾಹು ತ್ರಿಭುಜ ಇದೆಯೇ?
+
+## ಅಭ್ಯಾಸ 3.1
+1. ಇಲ್ಲಿ ಕೆಲವು ಚಿತ್ರಗಳನ್ನು ಕೊಡಲಾಗಿದೆ.
+--- FIGURE ---
+Description: Eight figures are shown, numbered (1) to (8).
+Labels:
+(1) A concave polygon (simple closed curve).
+(2) A convex polygon (simple closed curve).
+(3) A circle (not a polygon).
+(4) A star shape (not a simple curve, self-intersecting).
+(5) A closed curve made of two arcs (simple closed curve).
+(6) A closed curve made of two vertical lines and two semi-circles (simple closed curve).
+(7) A simple closed curve made of two line segments and a semi-circle.
+(8) Two separate circles connected by a line segment (not a simple curve).
+--- END FIGURE ---
+ಕೆಳಗಿನ ಅಂಶಗಳ ಆಧಾರದಿಂದ ಪ್ರತಿಯೊಂದನ್ನು ವರ್ಗಿಕರಿಸಿ.
+(a) ಸರಳ ವಕ್ರರೇಖೆ.
+(b) ಸರಳ ಆವೃತ ವಕ್ರರೇಖೆ
+(c) ಬಹುಭುಜ
+(d) ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜ
+(e) ಅಂತರ್ವಕ್ರ ಬಹುಭುಜ
+
+2. ನಿಯಮಿತ ಬಹುಭುಜ ಎಂದರೇನು? ಈ ಕೆಳಗಿನ ಬಾಹುಗಳನ್ನು ಹೊಂದಿರುವ ನಿಯಮಿತ ಬಹುಭುಜಗಳನ್ನು ಹೆಸರಿಸಿ
+(a) 3 ಬಾಹುಗಳು
+(b) 4 ಬಾಹುಗಳು
+(c) 6 ಬಾಹುಗಳು.
+
+### 3.2. ಒಂದು ಬಹುಭುಜದ ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತ :
+ಹೊರಕೋನಗಳ ಬಗೆಗಿನ ಜ್ಞಾನವು ಅನೇಕ ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಒಳಕೋನಗಳು ಮತ್ತು ಬಾಹುಗಳ ಲಕ್ಷಣಗಳ ಮೇಲೆ ಬೆಳಕು ಚೆಲ್ಲುತ್ತದೆ.
+
+--- NOTE ---
+**ಮಾಡಿ ನೋಡಿ**
+
+ನೆಲದ ಮೇಲೆ, ಸೀಮೆ ಸುಣ್ಣದ ಸಹಾಯದಿಂದ ಒಂದು ಬಹುಭುಜವನ್ನು ಎಳೆಯಿರಿ. (ಚಿತ್ರದಲ್ಲಿ ABCDE ಒಂದು ಪಂಚಭುಜ) (ಚಿತ್ರ.3.2) ನಾವು ಈಗ ಕೋನಗಳ ಒಟ್ಟು ಮೊತ್ತವನ್ನು ತಿಳಿಯಬೇಕಾಗಿದೆ. ಅಂದರೆ $m\angle1+m\angle2+m\angle3+m\angle4+m\angle5$. A ನಿಂದ ಆರಂಭಿಸಿ AB ಯ ಉದ್ದಕ್ಕೂ ನಡೆಯಿರಿ. B ಯನ್ನು ತಲುಪಿದ ನಂತರ BC ಯ ಉದ್ದಕ್ಕೂ ನಡೆಯಲು ನೀವು $m\angle1$ ರಷ್ಟು ತಿರುಗಬೇಕು. ನೀವು C ಯನ್ನು ತಲುಪಿದಾಗ CD ಯ ಉದ್ದಕ್ಕೆ ಚಲಿಸಲು $m\angle2$ ರಷ್ಟು ತಿರುಗಬೇಕು. ಇದೇ ರೀತಿಯಲ್ಲಿ ನೀವು ಚಲಿಸುತ್ತಾ, AB ಯ ಉದ್ದಕ್ಕೂ ಚಲಿಸಲು ತಿರುಗುವವರೆಗೂ ಮುಂದುವರೆಸಿ. ನಿಜವಾಗಲೂ ಈಗ ನೀವು ಒಂದು ಸಂಪೂರ್ಣ ಸುತ್ತನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಿ. ಆದ್ದರಿಂದ, $m\angle1+m\angle2+m\angle3+m\angle4+m\angle5=360^\circ$ ಆಗುತ್ತದೆ.
+
+ಈ ಅಂಶವು, ಬಹುಭುಜದಲ್ಲಿ ಬಾಹುಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟೇ ಆಗಿದ್ದರೂ ನಿಜವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, "ಯಾವುದೇ ಒಂದು ಬಹುಭುಜದ ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತವು 360°ಗೆ ಸಮನಾಗಿರುತ್ತದೆ."
+--- END NOTE ---
+
+--- FIGURE ---
+Description: A pentagon ABCDE is shown. At each vertex, one exterior angle is marked.
+Labels: Vertices A, B, C, D, E. Exterior angles are labeled 1 (at vertex B), 2 (at vertex C), 3 (at vertex D), 4 (at vertex E), and 5 (at vertex A). ಚಿತ್ರ 3.2
+Mathematical significance: Illustrates the exterior angles of a polygon.
+--- END FIGURE ---
+
+--- EXAMPLE START ---
+Source: Class 8, Example 1
+Problem: ಚಿತ್ರ 3.3 ರಲ್ಲಿ x ನ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+--- FIGURE ---
+Description: A quadrilateral with three exterior angles given and one unknown exterior angle 'x'.
+Labels: The exterior angles are 90°, 50°, 110°, and x. ಚಿತ್ರ 3.3
+--- END FIGURE ---
+ಪರಿಹಾರ : $x + 90^\circ + 50^\circ + 110^\circ = 360^\circ$..........(?)
+$x + 250^\circ = 360^\circ$
+$x = 110^\circ$
+--- EXAMPLE END ---
+
+--- NOTE ---
+**ಇವುಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ**
+
+ಒಂದು ನಿಯಮಿತ ಷಡ್ಭುಜವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ (ಚಿತ್ರ 3.4)
+1. ಹೊರಕೋನಗಳಾದ $x, y, z, p, q, r$ ಗಳ ಮೊತ್ತವೇನು?
+2. $x = y = z = p = q = r$ ಆಗಿದೆಯೇ? ಏಕೆ?
+3. ಕೆಳಗಿನ ಪ್ರತಿಯೊಂದರ ಅಳತೆ ಎಷ್ಟು?
+(a) ಹೊರಕೋನ (b) ಒಳಕೋನ
+4. ಈ ಚಟುವಟಿಕೆಯನ್ನು ಕೆಳಗಿನ ಸಂದರ್ಭಗಳಿಗೆ ಪುನರಾವರ್ತಿಸಿ.
+(a) ನಿಯಮಿತ ಅಷ್ಟಭುಜ (b) ನಿಯಮಿತ ವಿಂಶತಿಭುಜ.
+
+--- FIGURE ---
+Description: A regular hexagon.
+Labels: Vertices are not labeled. Sides are all labeled 'a'. Exterior angles are labeled x, y, z, p, q, r. ಚಿತ್ರ 3.4
+--- END FIGURE ---
+--- END NOTE ---
+
+--- EXAMPLE START ---
+Source: Class 8, Example 2
+Problem: ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ 45° ಇರುವ ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+ಪರಿಹಾರ : ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತ = 360°
+ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ = 45°
+ಆದ್ದರಿಂದ ಒಟ್ಟು ಹೊರಕೋನಗಳ ಸಂಖ್ಯೆ = $\frac{360^\circ}{45^\circ} = 8$.
+$\therefore$ ಬಹುಭುಜದಲ್ಲಿ ಇರುವ ಬಾಹುಗಳ ಸಂಖ್ಯೆ = 8.
+--- EXAMPLE END ---
+
+## ಅಭ್ಯಾಸ 3.2
+
+1. ಕೆಳಗಿನ ಚಿತ್ರಗಳಲ್ಲಿ x ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+--- FIGURE ---
+Description: Two polygons with exterior angles shown.
+Labels:
+(a) A triangle with exterior angles 125°, 125°, and x.
+(b) A pentagon with exterior angles 60°, 90°, 70°, x, and an interior angle of 90° (implying an exterior angle of 90°).
+--- END FIGURE ---
+
+2. ಈ ಕೆಳಗೆ ತಿಳಿಸಿರುವ ಸಂಖ್ಯೆಯ ಬಾಹುಗಳನ್ನು ಹೊಂದಿರುವ ನಿಯಮಿತ ಬಹುಭುಜಗಳಲ್ಲಿ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+(i) 9 ಬಾಹುಗಳು
+(ii) 15 ಬಾಹುಗಳು.
+
+3. ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜದ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ 24° ಇದ್ದಾಗ ಅದು ಹೊಂದಿರುವ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+
+4. ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜದ ಪ್ರತಿ ಒಳಕೋನದ ಅಳತೆ 165° ಇದ್ದಾಗ ಅದು ಹೊಂದಿರುವ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+
+5. ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ 22° ಇರುವಂತೆ ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜವನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವೇ? ಇಲ್ಲದಿದ್ದರೆ ಅದು ಒಳಕೋನದ ಅಳತೆಯಾಗಿರುವ ನಿಯಮಿತ ಬಹುಭುಜವಾಗಲು ಸಾಧ್ಯವೇ? ಏಕೆ?
+
+6. (a) ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜವು ಹೊಂದಬಹುದಾದ ಕನಿಷ್ಟ ಒಳಕೋನದ ಅಳತೆ ಎಷ್ಟು? ಏಕೆ?
+(b) ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜವು ಹೊಂದಬಹುದಾದ ಗರಿಷ್ಟ ಹೊರಕೋನದ ಅಳತೆ ಎಷ್ಟು?
+
+### 3.3. ಚತುರ್ಭುಜದ ವಿಧಗಳು :
+ಚತುರ್ಭುಜದಲ್ಲಿನ ಬಾಹುಗಳ ಅಥವಾ ಕೋನಗಳ ಸ್ವಭಾವದ ಆಧಾರದ ಮೇಲೆ ಅದು ವಿಶೇಷ ಹೆಸರನ್ನು ಪಡೆಯುತ್ತದೆ.
+
+### 3.3.1 ತ್ರಾಪಿಜ್ಯ :
+ಒಂದು ಜೊತೆ ಸಮಾಂತರ ಬಾಹುಗಳನ್ನು ಹೊಂದಿರುವ ಚತುರ್ಭುಜವೆ ತ್ರಾಪಿಜ್ಯ.
+
+--- FIGURE ---
+Description: The image shows two groups of quadrilaterals.
+Group 1: ಇವು ತ್ರಾಪಿಜ್ಯಗಳು (These are trapeziums). This group contains four quadrilaterals, each having one pair of parallel sides indicated by arrows.
+Group 2: ಇವು ತ್ರಾಪಿಜ್ಯಗಳಲ್ಲ (These are not trapeziums). This group contains three quadrilaterals where no sides are parallel.
+--- END FIGURE ---
+
+ಮೇಲಿನ ಚಿತ್ರಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡಿ. ನಂತರ ಅವುಗಳಲ್ಲಿ ಕೆಲವು ತ್ರಾಪಿಜ್ಯಗಳು ಮತ್ತೆ ಕೆಲವು ತ್ರಾಪಿಜ್ಯಗಳು ಅಲ್ಲದಿರುವ ಕಾರಣದ ಬಗ್ಗೆ ನಿಮ್ಮ ಸ್ನೇಹಿತರೊಂದಿಗೆ ಚರ್ಚಿಸಿ.
+(ಸೂಚನೆ : ಬಾಣದ ಗುರುತುಗಳು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ.)
+
+--- NOTE ---
+**ಇದನ್ನು ಮಾಡಿ ನೋಡಿ**
+1. ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಅಳತೆ 3 ಸೆ.ಮೀ, 4 ಸೆ.ಮೀ ಮತ್ತು 5 ಸೆ.ಮೀ ಇರುವ ಮೂರು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳನ್ನು ಡ್ರಾಯಿಂಗ್ ಹಾಳೆಯ ಮೇಲೆ ರಚಿಸಿ ಕತ್ತರಿಸಿ, ಅವುಗಳನ್ನು ಚಿತ್ರ 3.5 ರಲ್ಲಿರುವಂತೆ ಜೋಡಿಸಿ. ನೀವು ಒಂದು ತ್ರಾಪಿಜ್ಯವನ್ನು ಪಡೆಯುವಿರಿ. (ಪರೀಕ್ಷಿಸಿ).
+
+--- FIGURE ---
+Description: A trapezium ABCD is constructed from three right-angled triangles. The central triangle is inverted.
+Labels: The trapezium is ABCD. The sides are labeled with their lengths. A to D is 4 cm. D to C is 5 cm. A to B is 5 cm. The base B is composed of two segments, one from the base of a triangle (3 cm) and another from the base of another triangle (5 cm). The height is shown as 4 cm and 3 cm. ಚಿತ್ರ 3.5
+--- END FIGURE ---
+--- END NOTE ---
+
+ಇಲ್ಲಿ ಸಮಾಂತರ ಬಾಹುಗಳು ಯಾವುವು? ಸಮಾಂತರವಲ್ಲದ ಬಾಹುಗಳು ಸಮವಾಗಿರಬೇಕೆ? ಇದೇ ತ್ರಿಭುಜಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಇನ್ನು ಎರಡು ತ್ರಾಪಿಜ್ಯಗಳನ್ನು ಪಡೆಯಬಹುದು. ಅವುಗಳನ್ನು ಕಂಡುಹಿಡಿದು ಅವುಗಳ ಆಕಾರಗಳನ್ನು ಚರ್ಚಿಸಿ.
+2. ನಿಮ್ಮ ಸ್ನೇಹಿತರ ರೇಖಾಗಣಿತದ ಉಪಕರಣ ಪೆಟ್ಟಿಗೆಯಿಂದ ನಾಲ್ಕು ಮೂಲೆಮಟ್ಟಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಅವುಗಳನ್ನು ಬೇರೆ ಬೇರೆ ಸಂಖ್ಯೆಗಳಲ್ಲಿ ಅಕ್ಕಪಕ್ಕ ಜೋಡಿಸುವ ಮೂಲಕ ವಿವಿಧ ತ್ರಾಪಿಜ್ಯಗಳನ್ನು ಪಡೆಯಿರಿ.
+ತ್ರಾಪಿಜ್ಯದ ಸಮಾಂತರವಲ್ಲದ ಬಾಹುಗಳು ಸಮನಾದರೆ ಅದನ್ನು ಸಮದ್ವಿಬಾಹು ತ್ರಾಪಿಜ್ಯ ಎನ್ನುತ್ತೇವೆ. ನಿಮ್ಮ ಜೋಡಣೆಗಳಲ್ಲಿ ಸಮದ್ವಿಬಾಹು ತ್ರಾಪಿಜ್ಯವನ್ನು ಪಡೆದಿರುವಿರಾ?
+
+### 3.3.2. ಪತಂಗ :
+ಪತಂಗವು ಒಂದು ವಿಶೇಷ ರೀತಿಯ ಚತುರ್ಭುಜವಾಗಿದೆ. ಪ್ರತಿಯೊಂದು ಚಿತ್ರದಲ್ಲಿ ಒಂದೇ ರೀತಿಯ ಗುರುತು ಮಾಡಿರುವ ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ $AB = AD$ ಮತ್ತು $BC = CD$.
+
+--- FIGURE ---
+Description: The image shows two groups of quadrilaterals.
+Group 1: ಇವು ಪತಂಗಗಳು (These are kites). This group contains three kite shapes. In each, adjacent sides are marked as equal in pairs. For example, in kite ABCD, AB=AD and CB=CD.
+Group 2: ಇವು ಪತಂಗಗಳಲ್ಲ (These are not kites). This group contains three quadrilaterals that are not kites. One is a parallelogram, another is a trapezium, and the third is an irregular quadrilateral.
+--- END FIGURE ---
+
+ಮೇಲಿನ ಚಿತ್ರಗಳನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ ಪತಂಗ ಎಂದರೇನು ಎಂಬುದನ್ನು ವಿವರಿಸಲು ಪ್ರಯತ್ನಿಸಿ. ಇವುಗಳಲ್ಲಿ ಗಮನಿಸಬೇಕಾದದ್ದು :
+1. ಒಂದು ಪತಂಗವು 4 ಬಾಹುಗಳನ್ನು ಹೊಂದಿದೆ [ಅದು ಒಂದು ಚತುರ್ಭುಜ].
+2. ಪತಂಗದಲ್ಲಿ ನಿರ್ದಿಷ್ಟವಾಗಿ ಎರಡು ಜೊತೆ ಪಾರ್ಶ್ವ ಬಾಹುಗಳು ಅಳತೆಯಲ್ಲಿ ಸಮನಾಗಿರುತ್ತವೆ.
+
+--- NOTE ---
+**ಮಾಡಿ ನೋಡಿ**
+ಒಂದು ದಪ್ಪ ಬಿಳಿ ಹಾಳೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಹಾಳೆಯನ್ನು ಒಂದು ಬಾರಿ ಮಡಿಸಿ.
+ಚಿತ್ರ 3.6ರಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಎರಡು ಬೇರೆ ಬೇರೆ ಉದ್ದದ ರೇಖಾಖಂಡಗಳನ್ನು ಎಳೆಯಿರಿ.
+ಹಾಳೆಯನ್ನು AB ಮತ್ತು BC ಬಾಹುವಿನ ಉದ್ದಕ್ಕೂ ಕತ್ತರಿಸಿ ಮತ್ತು ಬಿಡಿಸಿ.
+
+--- FIGURE ---
+Description: A folded piece of paper is shown. On the fold, two line segments AB and BC of different lengths are drawn from a point B on the fold. The instruction is to cut along these lines.
+Labels: Points A, B, C. ಚಿತ್ರ 3.6
+--- END FIGURE ---
+
+A ABC ಮತ್ತು A ADC ಗಳು ಸರ್ವಸಮ ಎಂದು ತೋರಿಸಿ. ಇದರಿಂದ ನಾವು ಏನೆಂದು ತೀರ್ಮಾ-ನಿಸಬಹುದು?
+--- END NOTE ---
+
+ಈಗ ಪತಂಗದ ಆಕೃತಿ ದೊರೆಯುತ್ತದೆ. (ಚಿತ್ರ 3.7) ಪತಂಗವು ರೇಖಾ ಸಮಮಿತಿಯನ್ನು ಹೊಂದಿದೆಯೇ?
+ಪತಂಗವನ್ನು ಅದರ ಎರಡು ಕರ್ಣಗಳ ಮೇಲೆ ಮಡಿಸಿ, ಮೂಲೆ ಮಟ್ಟಗಳನ್ನು ಬಳಸಿ ಕರ್ಣಗಳು ಲಂಬವಾಗಿ ಕತ್ತರಿಸುವುದೇ? ಪರೀಕ್ಷಿಸಿ.
+ಕರ್ಣಗಳು ಸಮವಾಗಿವೆಯೇ?
+ಹಾಳೆಯ ಆಕೃತಿಯನ್ನು ಮಡಿಸುವ ಅಥವಾ ಅಳತೆ ಮಾಡುವ ಮೂಲಕ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುವುದೆ?
+ಪತಂಗದ ಒಂದು ಕೋನವನ್ನು ಇನ್ನೊಂದು ಅಭಿಮುಖ ಕೋನದ ಮೇಲೆ ಹೊಂದುವಂತೆ ಮಡಿಸುವ ಮೂಲಕ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮವಾಗಿವೆಯೆ ಎಂದು ಪರೀಕ್ಷಿಸಿ.
+
+--- FIGURE ---
+Description: A kite ABCD is shown with its diagonals AC and BD.
+Labels: Vertices A, B, C, D. ಚಿತ್ರ 3.7
+--- END FIGURE ---
+
+ಕರ್ಣಗಳ ಮೇಲಿನ ಮಡಿಕೆಯನ್ನು ಗಮನಿಸಿ; ಆ ಕರ್ಣಗಳು ಕೋನಗಳನ್ನು ಅರ್ಧಿಸುವ ರೇಖೆಗಳು ಎಂದು ಸೂಚಿಸುತ್ತವೆಯೆ?
+ನೀವು ಕಂಡುಹಿಡಿದ ಅಂಶಗಳನ್ನು ಇತರರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ ಮತ್ತು ಅವುಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ. ಈ ಫಲಿತಾಂಶಗಳ ಸಾರಾಂಶವನ್ನು ನಿಮ್ಮ ಪರಾಮರ್ಶೆಗಾಗಿ ಈ ಅಧ್ಯಾಯದ ಇನ್ನೊಂದು ಸ್ಥಳದಲ್ಲಿ ಕೊಡಲಾಗಿದೆ.
+
+### 3.3.3 ಸಮಾಂತರ ಚತುರ್ಭುಜ
+ಸಮಾಂತರ ಚತುರ್ಭುಜವು ಒಂದು ಚತುರ್ಭುಜ ಅದರ ಹೆಸರೇ ಹೇಳುವಂತೆ, ಅದರಲ್ಲಿ ಸಮಾಂತರ ರೇಖೆಗಳು ಪ್ರಮುಖ ಪಾತ್ರವಹಿಸಿವೆ.
+
+--- FIGURE ---
+Description: The image shows two groups of quadrilaterals.
+Group 1: ಇವು ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳು (These are parallelograms). This group contains three parallelograms. The first is labeled ABCD with AD || BC. The second is PQRS with PQ || SR and QR || PS. The third is LMNP with LM || PN and LP || MN.
+Group 2: ಇವು ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳಲ್ಲ (These are not parallelograms). This group contains three quadrilaterals. The first is a trapezium with AB || CD. The second is an irregular quadrilateral WXYZ. The third is a figure ABCDEF where AB || ED and BC || FE, but it's not a closed four-sided figure.
+--- END FIGURE ---
+
+ಈ ಮೇಲಿನ ಚಿತ್ರಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡಿದ ನಂತರ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅರ್ಥವನ್ನು ನಿಮ್ಮ ಸ್ವಂತ ವಾಕ್ಯದಲ್ಲಿ ವಿವರಿಸಲು ಪ್ರಯತ್ನಿಸಿ. ನಿಮ್ಮ ವೀಕ್ಷಣೆಗಳನ್ನು ಸ್ನೇಹಿತರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ. ಆಯತವು ಸಮಾಂತರ ಚತುರ್ಭುಜವೇ? ಪರೀಕ್ಷಿಸಿ.
+
+--- NOTE ---
+**ಇದನ್ನು ಮಾಡಿ**
+ಬೇರೆ ಬೇರೆ ಅಗಲಗಳುಳ್ಳ ಆಯತಕಾರದ ರಟ್ಟಿನ ಎರಡು ಪಟ್ಟಿಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. (ಚಿತ್ರ 3.8)
+--- FIGURE ---
+Description: Two rectangular strips of paper, labeled ಪಟ್ಟಿ 1 and ಪಟ್ಟಿ 2.
+Labels: ಚಿತ್ರ 3.8
+--- END FIGURE ---
+ಒಂದು ಪಟ್ಟಿಯನ್ನು ಅಡ್ಡಲಾಗಿಟ್ಟು ಅದರ ಅಂಚುಗಳನ್ನು ಗುರುತಿಸಿ. (ಚಿತ್ರ 3.9) ಈಗ ಇದೇ ರೇಖೆಗಳ ಮೇಲೆ ಸ್ವಲ್ಪ ಓರೆಯಾಗಿ ಇನ್ನೊಂದು ಪಟ್ಟಿಯನ್ನಿಟ್ಟು ಅದರ ಅಂಚುಗಳನ್ನು ಗುರುತಿಸಿ. (ಚಿತ್ರ 3.10)
+--- FIGURE ---
+Description: Figure 3.9 shows two parallel lines drawn. Figure 3.10 shows another pair of parallel lines drawn obliquely across the first pair. Figure 3.11 shows the resulting parallelogram formed by the intersection of the two pairs of parallel lines.
+Labels: ಚಿತ್ರ 3.9, ಚಿತ್ರ 3.10, ಚಿತ್ರ 3.11
+--- END FIGURE ---
+ಈ ನಾಲ್ಕು ರೇಖೆಗಳು ಆವೃತವಾಗಿ ಒಂದು ಚತುರ್ಭುಜವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಈ ಚತುರ್ಭುಜವು ಎರಡು ಜೊತೆ ಸಮಾಂತರ ರೇಖೆಗಳಿಂದ ಉಂಟಾಗಿದೆ. (ಚಿತ್ರ 3.11)
+ಇದು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿದೆ. "ಸಮಾಂತರ ಚತುರ್ಭುಜವು, ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿರುವ ಒಂದು ಚತುರ್ಭುಜವಾಗಿದೆ.
+--- END NOTE ---
+
+### 3.3.4 ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಂಶಗಳು :
+ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ ನಾಲ್ಕು ಬಾಹುಗಳು ಮತ್ತು ನಾಲ್ಕು ಕೋನಗಳು ಇವೆ. ಅದರಲ್ಲಿ ಕೆಲವು ಸಮನಾಗಿವೆ. ಈ ಅಂಶಗಳೊಂದಿಗೆ ಹೊಂದಿಕೊಂಡಿರುವ, ನಾವು ನೆನಪಿನಲ್ಲಿ ಇಟ್ಟುಕೊಳ್ಳಲೇಬೇಕಾದ, ಕೆಲವು ಅಂಶಗಳಿವೆ.
+
+--- FIGURE ---
+Description: A parallelogram.
+Labels: Vertices A, B, C, D. ಚಿತ್ರ 3.12
+--- END FIGURE ---
+
+ಕೊಟ್ಟಿರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCD (ಚಿತ್ರ 3.12) ಯಲ್ಲಿ,
+AB ಮತ್ತು DC ಗಳು "ಅಭಿಮುಖ ಬಾಹುಗಳು". AD ಮತ್ತು BC ಗಳು ಮತ್ತೊಂದು ಜೊತೆ "ಅಭಿಮುಖ ಬಾಹು"ಗಳಾಗಿವೆ.
+
+$\angle A$ ಮತ್ತು $\angle C$ ಗಳು ಒಂದು ಜೊತೆ "ಅಭಿಮುಖ ಕೋನಗಳು" ; $\angle B$ ಮತ್ತು $\angle D$ ಗಳು ಮತ್ತೊಂದು ಜೊತೆ "ಅಭಿಮುಖ ಕೋನ"ಗಳಾಗಿವೆ.
+AB ಮತ್ತು BC ಗಳು "ಪಾರ್ಶ್ವಬಾಹು"ಗಳು. ಅಂದರೆ ಒಂದು ಬಾಹುವಿನ ಅಂತ್ಯಬಿಂದುವಿನಿಂದ ಮತ್ತೊಂದು ಬಾಹು ಆರಂಭವಾಗುತ್ತದೆ. BC ಮತ್ತು CD ಗಳು ಪಾರ್ಶ್ವಬಾಹುಗಳೆ? ಇನ್ನೂ ಎರಡು ಜೊತೆ ಪಾರ್ಶ್ವಬಾಹುಗಳನ್ನು ಪತ್ತೆ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ.
+$\angle A$ ಮತ್ತು $\angle B$, ಗಳು ಪಾರ್ಶ್ವಕೋನಗಳು. ಅವು ಒಂದು ಬಾಹುವಿನ ಅಂತ್ಯಬಿಂದುಗಳಲ್ಲಿರುವ ಎರಡು ಕೋನಗಳು. $\angle B$ ಮತ್ತು $\angle C$ಗಳೂ ಸಹ ಪಾರ್ಶ್ವಕೋನಗಳು. ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿರುವ, ಉಳಿದಿರುವ ಪಾರ್ಶ್ವಕೋನಗಳ ಜೊತೆಗಳನ್ನು ಗುರುತಿಸಿ.
+
+--- NOTE ---
+**ಮಾಡಿ ನೋಡಿ**
+ABCD ಮತ್ತು A'B'C'D' ಗಳೆಂಬ ಎರಡು ಸರ್ವಸಮ ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳ ರಟ್ಟಿನ ಮಾದರಿಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ (ಚಿತ್ರ 3.13)
+--- FIGURE ---
+Description: Two identical parallelograms.
+Labels: The first is ABCD. The second is A'B'C'D'. ಚಿತ್ರ 3.13
+--- END FIGURE ---
+ಇಲ್ಲಿ AB ಯು A'B' ಗೆ ಸಮನಾಗಿದೆ. ಹೆಸರು ಮಾತ್ರ ಬೇರೆ ಆಗಿದೆ. ಹಾಗೆಯೇ, ಮತ್ತೊಂದು ಅನುರೂಪ ಬಾಹುಗಳ ಜೊತೆಯೂ ಸಮನಾಗಿದೆ.
+A'B' ಅನ್ನು DC ಮೇಲೆ ಇಡಿ. ಅವು ಐಕ್ಯಗೊಳ್ಳುತ್ತವೆಯೇ? ಈಗ ನೀವು AB ಮತ್ತು DC ಗಳ ಉದ್ದಗಳ ಬಗ್ಗೆ ಏನು ತಿಳಿಯುವಿರಿ?
+ಹಾಗೆಯೇ AD ಮತ್ತು BC ಗಳ ಉದ್ದಗಳನ್ನು ಪರೀಕ್ಷಿಸಿ. ನೀವು ಏನನ್ನು ಕಾಣುವಿರಿ?
+ಈಗ ನೀವು AB ಮತ್ತು DC ಗಳನ್ನು ಅಳೆಯುವ ಮೂಲಕವೂ ಇದನ್ನು ಸಾಧಿಸಬಹುದು.
+ಲಕ್ಷಣ : "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ."
+--- END NOTE ---
+
+--- NOTE ---
+**ಇವುಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ**
+ಕೋನಗಳು 30°– 60°– 90° ಇರುವ ಎರಡು ಒಂದೇ ರೀತಿಯ ಮೂಲೆಮಟ್ಟಗಳನ್ನು (set squares) ತೆಗೆದುಕೊಂಡು ಅವುಗಳನ್ನು ಅಕ್ಕಪಕ್ಕದಲ್ಲಿ ಚಿತ್ರ 3.14ರಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಜೋಡಿಸಿ. ಇದು ನಿಮಗೆ ಮೇಲಿನ ಲಕ್ಷಣವನ್ನು ತಾಳೆ ನೋಡಲು ಸಹಕಾರಿಯಾಗುವುದೇ?
+--- FIGURE ---
+Description: Two 30-60-90 set squares are placed together to form a parallelogram.
+Labels: ಚಿತ್ರ 3.14
+--- END FIGURE ---
+--- END NOTE ---
+
+ನೀವು ಈ ಆಲೋಚನೆಯನ್ನು ಸಮಂಜಸವಾದ ತರ್ಕದಿಂದ ದೃಢೀಕರಿಸಬಹುದು.
+ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCD (ಚಿತ್ರ. 3.15) ಯನ್ನು ಪರಿಗಣಿಸಿ. ಯಾವುದಾದರೂ ಒಂದು ಕರ್ಣವನ್ನು ಎಳೆಯಿರಿ. (ಇದು AC ಆಗಿರಲಿ)
+
+--- FIGURE ---
+Description: A parallelogram ABCD with diagonal AC drawn.
+Labels: Vertices A, B, C, D. Angles formed by the diagonal are labeled. $\angle DAC$ is 4, $\angle BCA$ is 2, $\angle DCA$ is 3, $\angle BAC$ is 1. ಚಿತ್ರ 3.15
+--- END FIGURE ---
+
+ಕೋನಗಳನ್ನು ವೀಕ್ಷಿಸಿ,
+$\angle 1 = \angle 2$ ಮತ್ತು $\angle 3 = \angle 4$......(?)
+$\triangle ABC$ ಮತ್ತು $\triangle ADC$ ಗಳಲ್ಲಿ,
+$\angle 1 = \angle 2, \angle 3 = \angle 4$
+ಮತ್ತು AC ಯು ಉಭಯ ಸಾಮಾನ್ಯ ಆದ್ದರಿಂದ, ಕೋ.ಬಾ.ಕೋ. (ASA) ಸಿದ್ಧಾಂತದ ಪ್ರಕಾರ
+$\triangle ABC \cong \triangle ADC$ (ಇಲ್ಲಿ ಕೋ.ಬಾ.ಕೋ.ವನ್ನು ಹೇಗೆ ಬಳಸಿದೆ?)
+ಇದರಿಂದ,
+$AB = DC$ ಮತ್ತು $BC = AD$
+
+--- EXAMPLE START ---
+Source: Class 8, Example 3
+Problem: ಚಿತ್ರ 3.16ರಲ್ಲಿ, ಸಮಾಂತರ ಚತುರ್ಭುಜ PQRSನ ಸುತ್ತಳತೆಯನ್ನು ಕಂಡು ಹಿಡಿಯಿರಿ.
+Solution:
+--- FIGURE ---
+Description: A parallelogram PQRS.
+Labels: PQ = 12 cm, QR = 7 cm. ಚಿತ್ರ 3.16
+--- END FIGURE ---
+ಪರಿಹಾರ : ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತವೆ.
+$\therefore PQ = SR = 12$ ಸೆಂ.ಮೀ
+ಮತ್ತು $QR = PS = 7$ ಸೆಂ.ಮೀ
+ಆದ್ದರಿಂದ ಸುತ್ತಳತೆ = $PQ + QR + RS + SP$
+= 12 ಸೆಂ.ಮೀ + 7 ಸೆಂ.ಮೀ + 12 ಸೆಂ.ಮೀ + 7 ಸೆಂ.ಮೀ
+= 38 ಸೆಂ.ಮೀ.
+--- EXAMPLE END ---
+
+### 3.3.5 ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕೋನಗಳು :
+ನಾವು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಬಾಹುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಲಕ್ಷಣವನ್ನು ಕಲಿತಿದ್ದೇವೆ. ಕೋನಗಳ ಬಗ್ಗೆ ನಾವು ಏನು ಹೇಳಬಹುದು.?
+
+--- NOTE ---
+**ಮಾಡಿ ನೋಡಿ**
+ABCD ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ಆಗಿರಲಿ. (ಚಿತ್ರ 3.17). ಇದನ್ನು ಒಂದು ಟ್ರೇಸಿಂಗ್ ಹಾಳೆಯ ಮೇಲೆ ಪ್ರತಿಯನ್ನು ತೆಗೆಯಿರಿ. ಈ ಪ್ರತಿಯನ್ನು A'B'C'D' ಎನ್ನಿ. A'B'C'D' ಅನ್ನು ABCD ಯ ಮೇಲೆ ಇಡಿ. ಕರ್ಣಗಳು ಸಂಧಿಸುವ ಬಿಂದುವಿನಲ್ಲಿ ಎರಡು ಚಿತ್ರಗಳನ್ನು ಒಂದು ಸೂಜಿಯಿಂದ ಬಂಧಿಸಿ.
+--- FIGURE ---
+Description: A parallelogram ABCD is shown. A second, identical parallelogram A'B'C'D' (representing a tracing) is superimposed and rotated 180 degrees about the center O'.
+Labels: Vertices A, B, C, D. Traced vertices A', B', C', D'. Center O'. ಚಿತ್ರ 3.17
+--- END FIGURE ---
+ಈಗ ಟ್ರೇಸಿಂಗ್ ಹಾಳೆಯನ್ನು 180° ಯಲ್ಲಿ ತಿರುಗಿಸಿ. ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳು ಮತ್ತೆ ಸಮಾಗತಗೊಳ್ಳುತ್ತವೆ; ಆದರೆ A' ಸರಿಯಾಗಿ C ಬಿಂದುವಿನ ಮೇಲಿರುತ್ತದೆ.
+ಹಾಗೆಯೇ B' ಸರಿಯಾಗಿ D ಬಿಂದುವಿನ ಮೇಲಿರುತ್ತದೆ. ಈ ಗುಣವು ವಿಪರ್ಯಯವಾಗಿಯೂ ಇರುವುದು.
+ಇದರಿಂದ ನಿಮಗೆ ಕೋನಗಳಾದ A ಮತ್ತು Cಗಳ ಅಳತೆಗಳ ಬಗ್ಗೆ ಏನಾದರೂ ತಿಳಿಯುತ್ತದೆಯೆ? ಹಾಗೆಯೇ ಕೋನಗಳಾದ B ಮತ್ತು D ಗಳ ಬಗ್ಗೆಯೂ ಪರೀಕ್ಷಿಸಿ.
+ಲಕ್ಷಣ : "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮನಾಗಿರುತ್ತವೆ."
+--- END NOTE ---
+
+--- NOTE ---
+**ಇವುಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ**
+ಕೋನಗಳು 30° - 60° - 90° ಇರುವ ಒಂದೇ ಸಮನಾದ ಎರಡು ಮೂಲೆ ಮಟ್ಟಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಹಿಂದಿನಂತೆಯೇ ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ಮೂಡಿಸಿ. ಈಗ ಪಡೆದಿರುವ ಜೋಡಣೆಯಿಂದ ಮೇಲಿನ ಲಕ್ಷಣವನ್ನು ಸಾಧಿಸಲು ಸಹಕಾರಿಯಾಗುವುದೇ?
+--- END NOTE ---
+
+ಈ ಲಕ್ಷಣವನ್ನು ಸಮಂಜಸವಾದ ತರ್ಕದಿಂದಲೂ ನಿರೂಪಿಸಬಹುದು. ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCD ಯಲ್ಲಿ (ಚಿತ್ರ 3.18).
+AC ಮತ್ತು BD ಗಳು ಕರ್ಣಗಳು
+$\angle 1 = \angle 2$ ಮತ್ತು $\angle 3 = \angle 4$ (?)
+
+--- FIGURE ---
+Description: A parallelogram ABCD with diagonal AC.
+Labels: Vertices A, B, C, D. Angles are labeled $\angle DAC = 4$, $\angle BCA = 2$, $\angle BAC = 1$, $\angle DCA = 3$. ಚಿತ್ರ 3.18
+--- END FIGURE ---
+
+$\triangle ABC$ ಮತ್ತು $\triangle ADC$ ಗಳನ್ನು (ಚಿತ್ರ 3.19) ಪ್ರತ್ಯೇಕವಾಗಿ ಅಧ್ಯಯನ ಮಾಡುವುದರಿಂದ, ಕೋ.ಬಾ.ಕೋ. ಸರ್ವಸಮತೆ ನಿಬಂಧನೆಯು ಈ ಅಂಶ ತಿಳಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.
+$\triangle ABC \cong \triangle ACD$ (ಹೇಗೆ?)
+
+--- FIGURE ---
+Description: The two triangles from the parallelogram in the previous figure, $\triangle ABC$ and $\triangle ADC$, are shown separately.
+Labels: Vertices A, B, C, D. Angles are labeled 1, 2, 3, 4 as before. ಚಿತ್ರ 3.19
+--- END FIGURE ---
+
+ಇದರಿಂದ ನಮಗೆ ತಿಳಿಯುವುದು $\angle B$ ಮತ್ತು $\angle D$ ಗಳು ಸಮನಾಗಿರುತ್ತವೆ.
+ಇದೇ ರೀತಿಯಲ್ಲಿ ನೀವು $m\angle A = m\angle C$ ಎಂದು ಪಡೆಯಬಹುದು.
+ಪರ್ಯಾಯವಾಗಿ $\angle 1 = \angle 2$ ಮತ್ತು $\angle 3 = \angle 4$ ಆದ್ದರಿಂದ $m\angle A = \angle 1 + \angle 4 = \angle 2 + \angle C$
+
+--- EXAMPLE START ---
+Source: Class 8, Example 4
+Problem: ಚಿತ್ರ 3.20ರಲ್ಲಿ BEST ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ x,y ಮತ್ತು z ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+--- FIGURE ---
+Description: A parallelogram BEST.
+Labels: Vertices B, E, S, T. $\angle B = 100^\circ$. $\angle S = x$. An angle y is shown adjacent to S. An angle z is shown as an exterior angle at E. ಚಿತ್ರ 3.20
+--- END FIGURE ---
+ಪರಿಹಾರ : S, Bಗೆ ಅಭಿಮುಖವಾಗಿದೆ.
+ಆದ್ದರಿಂದ, $x = 100^\circ$ .....(ಅಭಿಮುಖ ಕೋನದ ಗುಣ)
+$y = 100^\circ$ .......(xನ ಅನುರೂಪ ಕೋನ)
+$z = 80^\circ$ ......(ಏಕೆಂದರೆ $\angle y$ ಮತ್ತು $\angle z$ ಗಳು ಸರಳಯುಗ)
+--- EXAMPLE END ---
+
+ಈಗ ನಮ್ಮ ಗಮನವನ್ನು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಪಾರ್ಶ್ವ ಕೋನಗಳ ಕಡೆಗೆ ತಿರುಗಿಸಿದಾಗ,
+ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCDಯಲ್ಲಿ (ಚಿತ್ರ 3.21)
+$\angle A$ ಮತ್ತು $\angle D$ ಗಳು ಸರಳಕೋನ ಪೂರಕಗಳು
+ಏಕೆಂದರೆ $DC || AB$ ಮತ್ತು DA ಛೇದಕ,
+
+--- FIGURE ---
+Description: A parallelogram ABCD.
+Labels: Vertices A, B, C, D. ಚಿತ್ರ 3.21
+--- END FIGURE ---
+
+ಈ ಎರಡು ಕೋನಗಳು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ.
+$\angle A$ ಮತ್ತು $\angle B$ ಗಳೂ ಸಹ ಸರಳಕೋನ ಪೂರಕಗಳಾಗಿವೆ. ಏಕೆ ಎಂದು ಹೇಳಬಲ್ಲಿರಾ?
+$AD || BC$ ಮತ್ತು BAಛೇದಕ, ಇದರಿಂದ $\angle A$ ಮತ್ತು $\angle B$ ಗಳು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ.
+ಚಿತ್ರದಿಂದ, ಇನ್ನೂ ಎರಡು ಜೊತೆ ಸರಳಕೋನ ಪೂರಕಕೋನಗಳನ್ನು ಗುರುತಿಸಿ.
+ಲಕ್ಷಣ : "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಪಾರ್ಶ್ವ ಕೋನಗಳು ಸರಳಕೋನ ಪೂರಕಗಳಾಗಿರುತ್ತವೆ"
+
+--- EXAMPLE START ---
+Source: Class 8, Example 5
+Problem: ಸಮಾಂತರ ಚತುರ್ಭುಜ RINGದಲ್ಲಿ (ಚಿತ್ರ.3.22), $m\angle R = 70^\circ$ ಉಳಿದ ಎಲ್ಲಾ ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+--- FIGURE ---
+Description: A parallelogram RING.
+Labels: Vertices R, I, N, G. $\angle R = 70^\circ$. ಚಿತ್ರ 3.22
+--- END FIGURE ---
+ಪರಿಹಾರ : $m\angle R = 70^\circ$
+ಆದ್ದರಿಂದ $m\angle N = 70^\circ$
+ಏಕೆಂದರೆ, $\angle R$ ಮತ್ತು $\angle N$ ಗಳು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖಕೋನಗಳು.
+$\angle R$ ಮತ್ತು $\angle I$ ಗಳು ಸರಳಕೋನ ಪೂರಕಗಳಾಗಿವೆ,
+$m\angle I = 180^\circ - 70^\circ = 110^\circ$
+ಹಾಗೂ, $m\angle G = 110^\circ$ ಏಕೆಂದರೆ $\angle G$ ಯು $\angle I$ ಗೆ ಅಭಿಮುಖ ಕೋನ
+ಆದ್ದರಿಂದ, $m\angle R = m\angle N = 70^\circ$ ಮತ್ತು $m\angle I = m\angle G = 110^\circ$
+--- EXAMPLE END ---
+
+--- NOTE ---
+**ಯೋಚಿಸಿ, ಚರ್ಚಿಸಿ ಮತ್ತು ಬರೆಯಿರಿ**
+$m\angle R = m\angle N = 70^\circ$ ಎಂದು ತೋರಿಸಿದ ನಂತರ $m\angle I$ ಮತ್ತು $m\angle G$ ಗಳನ್ನು ಬೇರೆ ಯಾವುದಾದರೂ ವಿಧಾನದಿಂದ ಕಂಡುಹಿಡಿಯಬಹುದೆ?
+--- END NOTE ---
+
+### 3.3.6. ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕರ್ಣಗಳು :
+ಸಾಮಾನ್ಯವಾಗಿ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕರ್ಣಗಳು ಸಮನಾಗಿರುವುದಿಲ್ಲ. (ಇದನ್ನು ನಿಮ್ಮ ಹಿಂದಿನ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ ಗಮನಿಸಿದ್ದೀರಾ?). ಆದರೂ ಸಹ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕರ್ಣಗಳು ಒಂದು ಸ್ವಾರಸ್ಯಕರ ಗುಣವನ್ನು ಹೊಂದಿದೆ.
+
+--- NOTE ---
+**ಮಾಡಿ ನೋಡಿ**
+ಕಾಗದದಿಂದ ಕತ್ತರಿಸಿ ತಯಾರಿಸಿದ ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಅದು ABCD ಆಗಿರಲಿ. ಅದರ ಕರ್ಣಗಳಾದ AC ಮತ್ತು BD ಗಳು O ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸಲಿ (ಚಿತ್ರ. 3.23)
+--- FIGURE ---
+Description: A parallelogram ABCD with diagonals AC and BD intersecting at point O.
+Labels: Vertices A, B, C, D. Intersection point O. ಚಿತ್ರ 3.23
+--- END FIGURE ---
+C ಬಿಂದುವು A ಬಿಂದುವಿನ ಮೇಲಿರುವಂತೆ ಹಾಳೆಯನ್ನು ಮಡಿಸಿ AC ಯ ಮಧ್ಯಬಿಂದುವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಅದು 'O' ಬಿಂದುವೇ ಆಗಿದೆಯೇ?
+ಈ ಅಂಶವು ಕರ್ಣ DB ಯು ಕರ್ಣ AC ಯನ್ನು 'O' ಬಿಂದುವಿನಲ್ಲಿ ಅರ್ಧಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುವುದೇ? ನಿಮ್ಮ ಸ್ನೇಹಿತರೊಂದಿಗೆ ಇದನ್ನು ಚರ್ಚಿಸಿ. ಮೇಲಿನ ಚಟುವಟಿಕೆಯನ್ನು ಪುನರಾವರ್ತಿಸಿ DB ಯ ಮಧ್ಯಬಿಂದುವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಪ್ರಯತ್ನಿಸಿ.
+ಲಕ್ಷಣ : "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ". (ಅದು ಕರ್ಣಗಳು ಛೇದಿಸುವ ಬಿಂದುವಿನಲ್ಲಿಯೇ ಇರುತ್ತದೆ!)
+--- END NOTE ---
+
+ಈ ಲಕ್ಷಣವನ್ನು ಚರ್ಚಿಸಿ ಸಮರ್ಥಿಸುವುದು ತುಂಬಾ ಕಷ್ಟಕರವೇನಿಲ್ಲ. ಚಿತ್ರ 3.24ರಲ್ಲಿ ಕೋ.ಬಾ.ಕೋ. ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ಅನ್ವಯಿಸಿ ನೋಡಲು ಬಹಳ ಸುಲಭವಾಗಿದೆ.
+
+--- FIGURE ---
+Description: A parallelogram ABCD with diagonals intersecting at O. Alternate interior angles are marked.
+Labels: Vertices A, B, C, D. Intersection O. Angles $\angle BAO$ (1) and $\angle DCO$ (2) are marked. Angles $\angle ADO$ (4) and $\angle CBO$ (3) are marked. ಚಿತ್ರ 3.24
+--- END FIGURE ---
+
+$\triangle AOB \cong \triangle COD$ (ಬಾ.ಕೋ.ಬಾ. ಹೇಗೆ?)
+(ವನ್ನು ಹೇಗೆ ಬಳಸಿದೆ?)
+ಇದರಿಂದ $AO = CO$ ಮತ್ತು $BO = DO$ ಎಂದು ತಿಳಿಯುತ್ತದೆ.
+
+--- EXAMPLE START ---
+Source: Class 8, Example 6
+Problem: ಚಿತ್ರ 3.25 ರಲ್ಲಿ HELP ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ, (ಅಳತೆಗಳು ಸೆಂ.ಮೀ.ನಲ್ಲಿವೆ) OE = 4 ಮತ್ತು HL, PE ಗಿಂತ 5 ಹೆಚ್ಚಾಗಿದೆ. OH ನ ಉದ್ದ ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+--- FIGURE ---
+Description: A parallelogram HELP with diagonals intersecting at O.
+Labels: Vertices H, E, L, P. Intersection O. OE = 4. Diagonal HL is labeled (PE+5). Diagonal PE has segment OP. ಚಿತ್ರ 3.25
+--- END FIGURE ---
+ಪರಿಹಾರ :
+$OE = 4$
+$\therefore OP = 4$ (?)
+ಹಾಗಾಗಿ, $PE = 8$ (?)
+ಆದ್ದರಿಂದ $HL = 8 + 5 = 13$
+$OH = \frac{1}{2} \times 13$
+$= 6.5$ ಸೆಂ.ಮೀ.
+--- EXAMPLE END ---
+
+## ಅಭ್ಯಾಸ 3.3
+1. ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCD ಯನ್ನು ಕೊಡಲಾಗಿದೆ. ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳನ್ನು ಸಂಬಂಧಿಸಿದ ವ್ಯಾಖ್ಯೆ ಅಥವಾ ಗುಣವನ್ನು ಬಳಸಿ ಪೂರ್ಣಗೊಳಿಸಿ.
+--- FIGURE ---
+Description: A parallelogram ABCD with diagonals AC and BD intersecting at O.
+Labels: Vertices A, B, C, D. Intersection O.
+--- END FIGURE ---
+(i) AD = ......
+(ii) ∠DCB = ......
+(iii) OC = ......
+(iv) $m\angle DAB + m\angle CDA$ = ......
+
+2. ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳಲ್ಲಿ, ಅವ್ಯಕ್ತಪದಗಳಾದ x, y, z ಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+--- FIGURE ---
+Description: Five parallelograms with unknown angles or sides labeled x, y, z.
+Labels:
+(i) Parallelogram ABCD. Angle B = 100°. Angle D = x, Angle C = y, Angle A = z.
+(ii) Parallelogram with adjacent angles 50° and y. Opposite angle to y is x. Exterior angle is z.
+(iii) A rhombus-like figure with diagonals intersecting. One angle is 30°. A right angle is marked as x. Another angle is y. z is an alternate interior angle.
+(iv) Parallelogram with one angle 80°. Find x, y, z.
+(v) Parallelogram with one angle 112°. A diagonal splits the opposite angle into 40° and z. Find x, y, z.
+--- END FIGURE ---
+
+3. ಚತುರ್ಭುಜ ABCD ಯಲ್ಲಿ ಕೆಳಗಿನಂತೆ ಆದಾಗ ಅದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಬಹುದೇ?
+(i) $\angle D + \angle B = 180^\circ$
+(ii) AB = DC = 8 cm, AD = 4 cm ಮತ್ತು BC = 4.4 cm
+(iii) $\angle A = 70^\circ$ ಮತ್ತು $\angle C = 65^\circ$
+
+4. ಎರಡು ಅಭಿಮುಖ ಕೋನಗಳು ಸಮನಾಗಿರುವ, ಸಮಾಂತರ ಚತುರ್ಭುಜವಲ್ಲದ ಒಂದು ಚತುರ್ಭುಜದ ಕಚ್ಚಾ ಚಿತ್ರವನ್ನು ಬರೆಯಿರಿ.
+
+5. ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ ಎರಡು ಪಾರ್ಶ್ವಕೋನಗಳ ಅಳತೆಗಳು 3:2 ಅನುಪಾತದಲ್ಲಿವೆ. ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಪ್ರತಿ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+
+6. ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ ಎರಡು ಪಾರ್ಶ್ವ ಕೋನಗಳು ಸಮನಾಗಿವೆ. ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಪ್ರತಿ ಕೋನದ ಅಳತೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.
+
+7. ಪಕ್ಕದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಚಿತ್ರ ಸಮಾಂತರ ಚತುರ್ಭುಜ HOPE ಆಗಿದೆ. ಕೋನಗಳಾದ x, y, ಮತ್ತು zನ ಅಳತೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಅವುಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಳಸಿದ ಗುಣಗಳನ್ನು ತಿಳಿಸಿ.
+--- FIGURE ---
+Description: Parallelogram HOPE. An exterior angle at E is 70°. A line from H extends to form this angle. Angle HOP is x. Angle EHP is 40°. Angle PHO is y. Angle EHO is z.
+Labels: Vertices H, O, P, E. Angles x, y, z, 40°, 70°.
+--- END FIGURE ---
+
+8. ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಚಿತ್ರಗಳಾದ GUNS ಮತ್ತು RUNS ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳಾಗಿವೆ. x ಮತ್ತು y ಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (ಅಳತೆಗಳು ಸೆಂ.ಮೀ.ನಲ್ಲಿವೆ)
+--- FIGURE ---
+Description: Two parallelograms.
+Labels:
+(i) Parallelogram GUNS. Sides are GU = 3y-1, SN = 26, GS = 3x, UN = 18.
+(ii) Parallelogram RUNS. Diagonals intersect. Segments are y+7, 20, x+y, 16.
+--- END FIGURE ---
+
+9.
+--- FIGURE ---
+Description: Two intersecting parallelograms, RISK and CLUE, forming a smaller triangle in the middle.
+Labels: Parallelogram RISK with angle K = 120°. Parallelogram CLUE with angle L = 70°. The intersection of sides IS and EC forms a triangle with angle x.
+--- END FIGURE ---
+ಮೇಲಿನ ಚಿತ್ರದಲ್ಲಿ, RISK ಮತ್ತು CLUE ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳು, x ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+
+10. ಕೆಳಗಿನ ಚಿತ್ರ ಹೇಗೆ ತ್ರಾಪಿಜ್ಯವಾಗುತ್ತದೆ? ವಿವರಿಸಿ. ಯಾವ ಒಂದು ಜೊತೆ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿವೆ? (ಚಿತ್ರ. 3.26)
+--- FIGURE ---
+Description: A quadrilateral KLMN.
+Labels: Vertices K, L, M, N. Angle M = 100°, Angle L = 80°. ಚಿತ್ರ 3.26
+--- END FIGURE ---
+
+11. ಚಿತ್ರ 3.27ರಲ್ಲಿ, $\overline{AB} || \overline{DC}$ ಆದರೆ m∠C ಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+--- FIGURE ---
+Description: A trapezium ABCD with AB parallel to DC.
+Labels: Vertices A, B, C, D. Angle B = 120°. ಚಿತ್ರ 3.27
+--- END FIGURE ---
+
+12. ಚಿತ್ರ 3.28ರಲ್ಲಿ, $\overline{SP} || \overline{RQ}$ ಆದರೆ $\angle P$ ಮತ್ತು $\angle S$ ಗಳ ಅಳತೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (m∠R ನ ಬೆಲೆ ಕಂಡುಹಿಡಿದ ನಂತರ m∠P ಕಂಡುಹಿಡಿಯಲು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ವಿಧಾನಗಳು ಇವೆಯೇ?)
+--- FIGURE ---
+Description: A trapezium PQRS with SP parallel to RQ.
+Labels: Vertices P, Q, R, S. Angle Q = 130°. A right angle symbol is at R. ಚಿತ್ರ 3.28
+--- END FIGURE ---
+
+### 3.4 ಕೆಲವು ವಿಶೇಷ ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳು
+### 3.4.1. ವಜ್ರಾಕೃತಿ
+ಪತಂಗದ (ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿಲ್ಲದಿರುವುದು) ಒಂದು ವಿಶೇಷ ಸಂದರ್ಭದಲ್ಲಿ ಕಾರಣದಿಂದ ನಾವು ವಜ್ರಾಕೃತಿಯನ್ನು ಪಡೆಯುತ್ತೇವೆ. (ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ)
+
+--- NOTE ---
+**ಮಾಡಿ ನೋಡಿ**
+ಕಾಗದದ ಕತ್ತರಿಸುವಿಕೆಯಿಂದ ತಯಾರಿಸಿದ ಪತಂಗವನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಿ.
+--- FIGURE ---
+Description: Two diagrams showing how to cut a folded paper to get a kite and a rhombus.
+Left diagram (ಪತಂಗದ ಕತ್ತರಿಸುವಿಕೆ - Kite cutting): A folded paper is shown. From a point B on the fold, two unequal line segments AB and BC are drawn. Cutting along these lines produces a kite.
+Right diagram (ವಜ್ರಾಕೃತಿಯ ಕತ್ತರಿಸುವಿಕೆ - Rhombus cutting): A folded paper is shown. From a point B on the fold, two equal line segments AB and BC are drawn. Cutting along these lines produces a rhombus.
+--- END FIGURE ---
+ಪತಂಗದ ಕತ್ತರಿಸುವಿಕೆ
+ABC ಯ ಉದ್ದಕ್ಕೂ ಕತ್ತರಿಸಿದಾಗ ನಿಮಗೆ "ಪತಂಗ" ದೊರೆಯುತ್ತದೆ. ಇಲ್ಲಿ AB ಮತ್ತು BC ಗಳು ವಿಭಿನ್ನ ಅಳತೆಗಳನ್ನು ಹೊಂದಿವೆ.
+ವಜ್ರಾಕೃತಿಯ ಕತ್ತರಿಸುವಿಕೆ
+AB=BC ಇರುವಂತೆ ರೇಖಾಖಂಡಗಳನ್ನು ಎಳೆದು ಕತ್ತರಿಸಿದಾಗ "ವಜ್ರಾಕೃತಿ" ಎಂಬ ವಿಶೇಷ ಪತಂಗ ದೊರೆಯುತ್ತದೆ.
+--- END NOTE ---
+
+ವಜ್ರಾಕೃತಿಯಲ್ಲಿ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮನಾದ ಉದ್ದಗಳನ್ನು ಹೊಂದಿರುವುದನ್ನು ಗಮನಿಸಿ; ಇದು ಪತಂಗದ ವಿಷಯದಲ್ಲಿ ಮಾತ್ರ ಆಗುವುದಿಲ್ಲ.
+--- DEFINITION ---
+Term: ವಜ್ರಾಕೃತಿ (Rhombus)
+Definition: ವಜ್ರಾಕೃತಿಯು ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮನಾಗಿರುವ ಚತುರ್ಭುಜವಾಗಿದೆ.
+--- END DEFINITION ---
+
+--- FIGURE ---
+Description: A kite and a rhombus are shown side-by-side for comparison. The rhombus has its diagonals drawn.
+Labels: ಪತಂಗ (Kite), ವಜ್ರಾಕೃತಿ (Rhombus)
+--- END FIGURE ---
+
+ವಜ್ರಾಕೃತಿಯಲ್ಲಿ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮನಾಗಿರುವುದರಿಂದ ಅದು ಸಮಾಂತರ ಚತುರ್ಭುಜವೂ ಆಗಿದೆ. ಆದ್ದರಿಂದ "ಒಂದು ವಜ್ರಾಕೃತಿಯು ಸಮಾಂತರ ಚತುರ್ಭುಜ ಮತ್ತು ಪತಂಗದ ಎಲ್ಲಾ ಗುಣಗಳನ್ನು ಹೊಂದಿದೆ". ಅವುಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ. ನಂತರ ನೀವು ಈ ಗುಣಗಳನ್ನು ಇದೇ ಅಧ್ಯಾಯದಲ್ಲಿ ಈ ಮೊದಲು ಪಡೆದ ಅಭಿಪ್ರಾಯಗಳೊಂದಿಗೆ ತಾಳೆ ನೋಡಿ. ವಜ್ರಾಕೃತಿಯಲ್ಲಿ ಕರ್ಣಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಗುಣವೇ ಅತ್ಯಂತ ಉಪಯುಕ್ತ.
+
+--- THEOREM ---
+Name: Property of Rhombus Diagonals
+Statement: "ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬಾರ್ಧಕಗಳಾಗಿರುತ್ತವೆ." (The diagonals of a rhombus are perpendicular bisectors of one another.)
+--- END THEOREM ---
+
+--- NOTE ---
+**ಮಾಡಿ ನೋಡಿ**
+ವಜ್ರಾಕೃತಿಯನ್ನು ಕಾಗದದಲ್ಲಿ ಕತ್ತರಿಸಿ ತೆಗೆದುಕೊಳ್ಳಿ. ಅದನ್ನು ಮಡಿಸುವ ಮೂಲಕ ಕರ್ಣಗಳ ಛೇದಕ ಬಿಂದುವೇ ಪ್ರತಿ ಕರ್ಣದ ಮಧ್ಯಬಿಂದು ಎಂಬುದನ್ನು ಪರೀಕ್ಷಿಸಿ. ಮೂಲೆಮಟ್ಟವನ್ನು ಬಳಸಿ ಅದರ ಕರ್ಣಗಳು ಒಂದು ಲಂಬಕೋನದಲ್ಲಿ ಅರ್ಧಿಸುತ್ತವೆ ಎಂದೂ ಗಮನಿಸಬಹುದು.
+--- END NOTE ---
+
+ಈ ಗುಣವನ್ನು ನಿಜವೆಂದು ತರ್ಕದ ಮೂಲಕ ಸಮರ್ಥಿಸಲಾಗಿದೆ.
+ABCD ಒಂದು ವಜ್ರಾಕೃತಿ (ಚಿತ್ರ 3.29) ಆದ್ದರಿಂದಲೇ ಅದು ಸಮಾಂತರ ಚತುರ್ಭುಜವೂ ಆಗಿದೆ.
+ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುವುದರಿಂದ,
+$OA = OC$ ಮತ್ತು $OB = OD$ ಆಗುತ್ತದೆ.
+ಈಗ, $m\angle AOD = m\angle COD = 90^\circ$ ಎಂದು ತೋರಿಸಲು,
+ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆ ನಿರ್ಧಾರಕ ಗುಣದಿಂದ,
+$\triangle AOD \cong \triangle COD$
+
+--- FIGURE ---
+Description: A rhombus ABCD with diagonals AC and BD intersecting at O.
+Labels: Vertices A, B, C, D. Intersection O. ಚಿತ್ರ 3.29
+--- END FIGURE ---
+
+ಅದರಿಂದ, $m\angle AOD = m\angle COD$
+ಏಕೆಂದರೆ $AO = CO$ ಏಕೆ?
+$AD = CD$ ಏಕೆ?
+$OD = OD$
+$\angle AOD$ ಮತ್ತು $\angle COD$ ಗಳು ಸರಳಯುಗ್ಮಗಳಾಗಿವೆ.
+$\therefore m\angle AOD = m\angle COD = 90^\circ$
+
+--- EXAMPLE START ---
+Source: Class 8, Example 7
+Problem: RICE ಒಂದು ವಜ್ರಾಕೃತಿ (ಚಿತ್ರ. 3.30), x, y, z ಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ನಿಮ್ಮ ಉತ್ತರಗಳನ್ನು ಸಮರ್ಥಿಸಿ.
+Solution:
+--- FIGURE ---
+Description: A rhombus RICE with diagonals intersecting at O.
+Labels: Vertices R, I, C, E. Intersection O. OE = x, OI = 5, OC = 12, OR = y. Side RI = 13, which is also z. ಚಿತ್ರ 3.30
+--- END FIGURE ---
+ಪರಿಹಾರ :
+$x = OE$
+$= OI$ .......(ಕರ್ಣಗಳು ಅರ್ಧಿಸುತ್ತವೆ.)
+$= 5$
+$y = OR$
+$= OC$ (ಕರ್ಣಗಳು ಅರ್ಧಿಸುತ್ತವೆ.)
+$= 12$
+$z$ = ವಜ್ರಾಕೃತಿಯ ಬಾಹು
+$= 13$ (ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮ)
+--- EXAMPLE END ---
+
+### 3.4.2. ಆಯತ
+--- DEFINITION ---
+Term: ಆಯತ (Rectangle)
+Definition: ಎಲ್ಲಾ ಕೋನಗಳ ಅಳತೆಗಳು ಸಮನಾಗಿರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು "ಆಯತ" ಎನ್ನುವರು.
+--- END DEFINITION ---
+ಈ ವ್ಯಾಖ್ಯೆಯ ಸಂಪೂರ್ಣ ಅರ್ಥವೇನು? ನಿಮ್ಮ ಸ್ನೇಹಿತರೊಂದಿಗೆ ಚರ್ಚಿಸಿ.
+ಆಯತವು ಸಮಕೋನೀಯವಾಗಿರಲು ಪ್ರತಿ ಕೋನದ ಅಳತೆ ಎಷ್ಟಿರಬೇಕು?
+ಆಯತದ ಪ್ರತಿ ಕೋನದ ಅಳತೆ = $x^\circ$
+ಹಾಗಾದರೆ, $4x^\circ = 360^\circ$........(?)
+ಆದ್ದರಿಂದ $x^\circ = 90^\circ$
+
+--- FIGURE ---
+Description: A rectangle with all four angles marked as x°.
+Labels: ಚಿತ್ರ 3.31
+--- END FIGURE ---
+
+ಅಂದರೆ, ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವು ಲಂಬಕೋನವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಆಯತವು, ಪ್ರತಿಯೊಂದು ಕೋನವು ಲಂಬಕೋನವಾಗಿರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜ.
+ಆಯತವು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿರುವುದರಿಂದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮನಾಗಿದ್ದು, ಅದರ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ.
+ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ ಕರ್ಣಗಳು ವಿಭಿನ್ನ ಉದ್ದದಲ್ಲಿರಬಹುದು. (ಇದನ್ನು ಪರೀಕ್ಷಿಸಿ); ಆದರೆ ಆಶ್ಚರ್ಯವೆಂದರೆ, ಆಯತವು (ಒಂದು ವಿಶೇಷ ಸಂದರ್ಭವಾದ ಕಾರಣ) ಸಮನಾದ ಕರ್ಣಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ.
+
+--- THEOREM ---
+Name: Property of Rectangle Diagonals
+Statement: "ಆಯತದ ಕರ್ಣಗಳು ಸಮನಾಗಿರುತ್ತವೆ." (The diagonals of a rectangle are of equal length.)
+--- END THEOREM ---
+
+--- FIGURE ---
+Description: Figure 3.32 shows a rectangle ABCD with its diagonals. Figure 3.33 shows the triangle ABD separated. Figure 3.34 shows the triangle ABC separated.
+Labels: Vertices A, B, C, D. ಚಿತ್ರ 3.32, ಚಿತ್ರ 3.33, ಚಿತ್ರ 3.34
+--- END FIGURE ---
+
+ಇದನ್ನು ಸಮರ್ಥಿಸುವುದು ಬಹಳ ಸುಲಭ. ABCD ಯು ಒಂದು ಆಯತವಾದರೆ, (ಚಿತ್ರ3.32), $\triangle ABC$ ಮತ್ತು $\triangle ABD$ ತ್ರಿಭುಜಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಗಮನಿಸಿದಾಗ, [(ಚಿತ್ರ. 3.33) ಮತ್ತು (ಚಿತ್ರ 3.34) ಕ್ರಮವಾಗಿ]
+$\triangle ABC \cong \triangle ABD$ ಎಂದು ಹೇಳಬಹುದು.
+ಇದು ಹೇಗೆಂದರೆ,
+$AB = AB$ ......(ಉಭಯ ಸಾಮಾನ್ಯ)
+$BC = AD$ ......(?)
+$m\angle B = m\angle A = 90^\circ$ ......(?)
+ಇದು ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆಯ ಬಾ.ಕೋ.ಬಾ ನಿರ್ಧಾರಕ ಗುಣದ ಅನುಸಾರವಾಗಿ
+$\triangle ABC \cong \triangle ABD$
+ಅಂದರೆ $AC = BD$
+
+--- NOTE ---
+"ಆಯತದಲ್ಲಿ ಕರ್ಣಗಳು ಸಮನಾಗಿರುವುದರ ಜೊತೆಗೆ ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ." (ಏಕೆ?)
+--- END NOTE ---
+
+--- EXAMPLE START ---
+Source: Class 8, Example 8
+Problem: ಚಿತ್ರ 3.35 ರಲ್ಲಿ RENT ಒಂದು ಆಯತ ಅದರ ಕರ್ಣಗಳು 'O' ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸಿವೆ. $OR = 2x+4$ ಮತ್ತು $OT = 3x + 1$ ಆದರೆ xನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.
+Solution:
+--- FIGURE ---
+Description: A rectangle RENT with diagonals RT and EN intersecting at O.
+Labels: Vertices R, E, N, T. Intersection O. ಚಿತ್ರ 3.35
+--- END FIGURE ---
+ಪರಿಹಾರ : OT ಬಾಹುವು TE ಯ ಅರ್ಧದಷ್ಟಿದೆ.
+OR ಬಾಹುವು RN ನ ಅರ್ಧದಷ್ಟಿದೆ.
+ಆಯತದಲ್ಲಿ ಕರ್ಣಗಳು ಸಮ. (ಏಕೆ?)
+ಅಂದರೆ ಕರ್ಣದ ಅರ್ಧಗಳೂ ಸಹ ಸಮನಾಗಿರುತ್ತವೆ.
+ಆದ್ದರಿಂದ, $3x + 1 = 2x + 4$
+ಅಥವಾ $x = 3$
+--- EXAMPLE END ---
+
+### 3.4.3 ಚೌಕ (SQUARE)
+--- DEFINITION ---
+Term: ಚೌಕ (Square)
+Definition: ಎಲ್ಲಾ ಬಾಹುಗಳೂ ಸಮನಾಗಿರುವ ಆಯತವೇ 'ಚೌಕ'.
+--- END DEFINITION ---
+ಚೌಕವು ಆಯತದ ಎಲ್ಲಾ ಗುಣಗಳನ್ನು ಹೊಂದಿದ್ದು ಅದರೊಂದಿಗೆ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮನಾಗಿವೆ ಎಂಬ ಅವಶ್ಯಕ ವಿಶೇಷ ಗುಣವನ್ನು ಹೊಂದಿದೆ. ಚೌಕವು ಆಯತದಲ್ಲಿ ಇರುವಂತೆಯೇ ಸಮನಾದ ಕರ್ಣಗಳನ್ನು ಹೊಂದಿದೆ. ಆಯತದಲ್ಲಿ ಕರ್ಣಗಳು ಲಂಬವಾಗಿರುವುದು ಅವಶ್ಯಕವಾಗಿಲ್ಲ. (ಇದನ್ನು ಪರೀಕ್ಷಿಸಿ)
+
+--- FIGURE ---
+Description: A square BELT with diagonals BL and ET intersecting at O.
+Labels: Vertices B, E, L, T. Intersection O.
+Properties listed: $BE=EL=LT=TB$. $\angle B = \angle E = \angle L = \angle T$ (are equal). $BL = ET$. $BL \perp ET$. $OB = OL, OE = OT$.
+--- END FIGURE ---
+
+ಚೌಕದಲ್ಲಿ ಕರ್ಣಗಳು,
+(i) ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ.....(ಚೌಕವು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ)
+(ii) ಸಮನಾಗಿರುತ್ತವೆ.....(ಚೌಕವು ಒಂದು ಆಯತವಾಗಿದೆ) ಮತ್ತು
+(iii) ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ ಈ ಕೆಳಗಿನ ಲಕ್ಷಣವನ್ನು ಪಡೆಯಬಹುದು.
+
+--- THEOREM ---
+Name: Property of Square Diagonals
+Statement: 'ಚೌಕದಲ್ಲಿ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿ ಅರ್ಧಿಸುತ್ತದೆ." (In a square, the diagonals are perpendicular bisectors of each other.)
+--- END THEOREM ---
+
+--- NOTE ---
+**ಮಾಡಿ ನೋಡಿ**
+ಒಂದು ಚೌಕಾಕಾರದ ಹಾಳೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. (ಚಿತ್ರ. 3.36) ಅದು PQRS ಅದನ್ನು ಕರ್ಣಗಳ ಮೇಲೆ ಮಡಿಸಿ. ಎರಡೂ ಕರ್ಣಗಳ ಮಧ್ಯಬಿಂದು ಒಂದೇ ಆಗಿದೆಯೇ?
+'O' ಬಿಂದುವಿನಲ್ಲಿ ಕೋನವು 90° ಗೆ ಸಮನಾಗಿದೆಯೇ ಎಂದು ಮೂಲೆ ಮಟ್ಟದಿಂದ ಪರೀಕ್ಷಿಸಿ.
+--- FIGURE ---
+Description: A square PQRS with diagonals intersecting at O.
+Labels: Vertices P, Q, R, S. Intersection O. ಚಿತ್ರ 3.36
+--- END FIGURE ---
+ಹೀಗೆ ಮೇಲೆ ಹೇಳಿರುವ ಗುಣವು ಸಮರ್ಥಿಸಲ್ಪಡುತ್ತದೆ.
+--- END NOTE ---
+
+ಈ ಲಕ್ಷಣವನ್ನು ಸಮಂಜಸವಾದ ತರ್ಕದಿಂದ ಚರ್ಚೆಯ ಮೂಲಕವೂ ಸಮರ್ಥಿಸಬಹುದು.
+ABCD ಚೌಕದಲ್ಲಿ ಕರ್ಣಗಳು 'O' ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸುತ್ತಿವೆ. (ಚಿತ್ರ 3.37)
+$OA=OC$....(ಏಕೆಂದರೆ ಚೌಕವು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ)
+ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆ ಬಾ.ಬಾ.ಬಾ. ನಿರ್ಧಾರಕ ಗುಣದಿಂದ
+$\triangle AOD \cong \triangle COD$ ಎಂದು ಹೇಳಬಹುದು (ಹೇಗೆ)
+ಅಂದರೆ, $m\angle AOD = m\angle COD$
+ಆದರೆ ಈ ಕೋನಗಳು ಸರಳಯುಗಗಳಾಗಿರುವುದರಿಂದ ಪ್ರತಿ ಕೋನವು 90° ಗೆ ಸಮನಾಗಿರುತ್ತದೆ.
+
+--- FIGURE ---
+Description: A square ABCD with diagonals intersecting at O.
+Labels: Vertices A, B, C, D. Intersection O. ಚಿತ್ರ 3.37
+--- END FIGURE ---
+
+## ಅಭ್ಯಾಸ 3.4
+
+1. ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಹೇಳಿಕೆಗಳು ಸರಿಯೇ, ತಪ್ಪೇ ತಿಳಿಸಿ.
+(a) ಎಲ್ಲಾ ಆಯತಗಳೂ ಚೌಕಗಳಾಗಿವೆ.
+(b) ಎಲ್ಲಾ ವಜ್ರಾಕೃತಿಗಳೂ ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳು.
+(c) ಎಲ್ಲಾ ಚೌಕಗಳು, ವಜ್ರಾಕೃತಿಗಳೂ ಮತ್ತು ಆಯತಗಳೇ ಆಗಿರುತ್ತವೆ.
+(d) ಎಲ್ಲಾ ಚೌಕಗಳು, ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳಲ್ಲ.
+(e) ಎಲ್ಲಾ ಪತಂಗಗಳು ವಜ್ರಾಕೃತಿಗಳಾಗಿರುತ್ತವೆ.
+(f) ಎಲ್ಲಾ ವಜ್ರಾಕೃತಿಗಳೂ ಪತಂಗಗಳಾಗಿರುತ್ತವೆ.
+(g) ಎಲ್ಲಾ ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳೂ ತ್ರಾಪಿಜ್ಯಗಳಾಗುತ್ತವೆ.
+(h) ಎಲ್ಲಾ ಚೌಕಗಳೂ ತ್ರಾಪಿಜ್ಯಗಳಾಗುತ್ತವೆ.
+
+2. ಕೆಳಗಿನಂತೆ ಅಂಶಗಳನ್ನು ಹೊಂದಿರುವ ಚತುರ್ಭುಜಗಳನ್ನು ಗುರುತಿಸಿ.
+(a) ಸಮವಾದ ನಾಲ್ಕು ಬಾಹುಗಳು
+(b) ನಾಲ್ಕು ಲಂಬಕೋನಗಳು
+
+3. ಚೌಕವು ಯಾವಾಗ ಈ ಕೆಳಗಿನ ಆಕೃತಿಯಾಗುತ್ತದೆ? ವಿವರಿಸಿ.
+(i) ಚತುರ್ಭುಜ
+(ii) ಸಮಾಂತರ ಚತುರ್ಭುಜ
+(iii) ವಜ್ರಾಕೃತಿ
+(iv) ಆಯತ
+
+4. ಕೆಳಗಿನ ಚತುರ್ಭುಜಗಳನ್ನು ಹೆಸರಿಸಿ.
+(a) ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ.
+(b) ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬಾರ್ಧಕಗಳಾಗಿರುತ್ತವೆ.
+(c) ಕರ್ಣಗಳು ಸಮನಾಗಿರುತ್ತವೆ.
+
+5. ಆಯತವು ಒಂದು ಬಹಿರ್ವಕ್ರ ಚತುರ್ಭುಜವಾಗಿರಲು ಕಾರಣವನ್ನು ವಿವರಿಸಿ.
+
+6. ABC ಯು ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವಾಗಿದ್ದು, 'O' ಬಿಂದುವು ಲಂಬಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹುವಿನ ಮಧ್ಯಬಿಂದುವಾಗಿದೆ. 'O' ಬಿಂದುವು A,B ಮತ್ತು C ಬಿಂದುಗಳಿಂದ ಸಮದೂರದಲ್ಲಿದೆ ಏಕೆ? ವಿವರಿಸಿ. (ನಿಮಗೆ ಸಹಾಯ ಮಾಡಲು ಚುಕ್ಕೆ ಗೆರೆಗಳನ್ನು ಎಳೆಯಲಾಗಿದೆ.)
+--- FIGURE ---
+Description: A right-angled triangle ABC, with the right angle at B. O is the midpoint of the hypotenuse AC. Dotted lines are drawn from A to a point D and from C to the same point D, completing a rectangle ABCD. The diagonal BD is also shown as a dotted line.
+Labels: Vertices A, B, C, D. Midpoint O.
+--- END FIGURE ---
+
+--- NOTE ---
+**ಯೋಚಿಸಿ, ಚರ್ಚಿಸಿ ಮತ್ತು ಬರೆಯಿರಿ**
+
+1. ಒಬ್ಬ ಗಾರೆ ಕೆಲಸದವನು ಹಾಸುಗಲ್ಲನ್ನು ಕಾಂಕ್ರೀಟ್‌ನಿಂದ ತಯಾರಿಸಿದ್ದಾನೆ. ಅವನಿಗೆ ಅದು ಒಂದು ಆಯತವಾಗಿರಬೇಕಿದೆ. ಅವನು ಯಾವ ಯಾವ ವಿಧಾನಗಳಿಂದ ಅದು ಆಯತವೆಂದು ದೃಢಪಡಿಸಿಕೊಳ್ಳಬಹುದು?
+2. ಚೌಕವನ್ನು ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮನಾಗಿರುವ ಆಯತವೆಂದು ವ್ಯಾಖ್ಯಾನಿಸಿದೆ. ಅದನ್ನು ಸಮಕೋನೀಯವಾಗಿರುವ ವಜ್ರಾಕೃತಿಯೆಂದು ವ್ಯಾಖ್ಯಾನಿಸಬಹುದೇ? ಈ ಯೋಚನೆಯನ್ನು ಆವಿಷ್ಕರಿಸಿ.
+3. ಒಂದು ತ್ರಾಪಿಜ್ಯವು ತನ್ನ ಎಲ್ಲಾ ಕೋನಗಳನ್ನು ಸಮವಾಗಿರುವಂತೆ ಹೊಂದಬಹುದೆ? ಅದು ತನ್ನ ಎಲ್ಲಾ ಬಾಹುಗಳನ್ನು ಸಮವಾಗಿರುವಂತೆ ಹೊಂದಬಹುದೆ? ವಿವರಿಸಿ.
+--- END NOTE ---
+
+## ಸಾರಾಂಶ
+
+| ಚತುರ್ಭುಜ | ಲಕ್ಷಣಗಳು |
+| :--- | :--- |
+| **ಸಮಾಂತರ ಚತುರ್ಭುಜ:** ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿರುವ ಚತುರ್ಭುಜ. <br> --- FIGURE --- <br> Description: A parallelogram ABCD with diagonals intersecting at O. <br> --- END FIGURE --- | 1. ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ. <br> 2. ಅಭಿಮುಖ ಕೋನಗಳು ಸಮ. <br> 3. ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. |
+| **ವಜ್ರಾಕೃತಿ:** ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮನಾಗಿರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜ. <br> --- FIGURE --- <br> Description: A rhombus PQRS. <br> --- END FIGURE --- | 1. ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಎಲ್ಲಾ ಗುಣಗಳು. <br> 2. ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿ ಇರುತ್ತವೆ. |
+| **ಆಯತ:** ಒಂದು ಕೋನ ಲಂಬಕೋನವಾಗಿರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜ. <br> --- FIGURE --- <br> Description: A rectangle KLMN. <br> --- END FIGURE --- | 1. ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಎಲ್ಲಾ ಗುಣಗಳು. <br> 2. ಪ್ರತಿಯೊಂದು ಕೋನವು 90° ಗೆ ಸಮ. <br> 3. ಕರ್ಣಗಳು ಸಮ. |
+| **ಚೌಕ:** ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮನಾಗಿರುವ ಆಯತ. <br> --- FIGURE --- <br> Description: A square PQRS. <br> --- END FIGURE --- | ಸಮಾಂತರ ಚತುರ್ಭುಜ, ವಜ್ರಾಕೃತಿ ಮತ್ತು ಆಯತಗಳ ಎಲ್ಲಾ ಗುಣಗಳು |
+| **ಪತಂಗ:** ಎರಡೇ ಎರಡು ಜೊತೆ ಅನ್ವಯಿಕ ಬಾಹುಗಳು ಸಮನಾಗಿರುವ ಚತುರ್ಭುಜ. <br> --- FIGURE --- <br> Description: A kite ABCD. <br> --- END FIGURE --- | 1. ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿ ಇರುತ್ತವೆ. <br> 2. ಒಂದು ಕರ್ಣವು ಮಾತ್ರ ಮತ್ತೊಂದು ಕರ್ಣವನ್ನು ಅರ್ಧಿಸುತ್ತದೆ. <br> 3. (ಚಿತ್ರದಲ್ಲಿ) $m\angle B = m\angle D$ ಮತ್ತು $m\angle A \neq m\angle C$ |

@@ -1,0 +1,94 @@
+{
+  "module_id": "class6_math_ch8_concept_4",
+  "module_title": "ಎರಡು ಬಿಂದುಗಳಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿರುವ ಬಿಂದುವಿನ ರಚನೆ",
+  "class": "6",
+  "chapter": "8",
+  "chapter_title": "ರಚನೆಗಳೊಂದಿಗೆ ಆಟ",
+  "domain": "ರೇಖಾಗಣಿತ",
+  "prerequisites": [
+    "class6_math_ch8_concept_1",
+    "class6_math_ch8_concept_2",
+    "class6_math_ch8_concept_3"
+  ],
+  "theory": {
+    "concept_summary": "ಎರಡು ದತ್ತ ಬಿಂದುಗಳಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿರುವ ಬಿಂದುವನ್ನು ಕಂಡುಹಿಡಿಯುವ ರಚನೆಯು ರೇಖಾಗಣಿತದ ಮೂಲಭೂತ ತಂತ್ರಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. ಈ ಬಿಂದುಗಳ ಪಥವು ಆ ಎರಡು ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡದ ಲಂಬಾರ್ಧಕವಾಗಿರುತ್ತದೆ. ವೃತ್ತಗಳ ಛೇದನ ತಂತ್ರವನ್ನು ಬಳಸಿ ಈ ಬಿಂದುವನ್ನು ನಿಖರವಾಗಿ ಗುರುತಿಸಬಹುದು.",
+    "definitions": [
+      {
+        "term": "ಎರಡು ಬಿಂದುಗಳಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿರುವ ಬಿಂದುವಿನ ರಚನೆ",
+        "definition": "ದತ್ತ ಬಿಂದುಗಳಾದ B ಮತ್ತು C ಗಳಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿರುವ A ಬಿಂದುವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಎಂದರೆ, AB = AC ಆಗಿರುವಂತೆ A ಯನ್ನು ಗುರುತಿಸುವುದು. ಇಂತಹ ಎಲ್ಲಾ ಬಿಂದುಗಳ ಪಥವು BC ರೇಖಾಖಂಡದ ಲಂಬಾರ್ಧಕ (perpendicular bisector) ಆಗಿರುತ್ತದೆ."
+      }
+    ],
+    "formulas": [],
+    "theorems": [],
+    "properties": [],
+    "visual_aids": [
+      {
+        "type": "diagram",
+        "id": "class6_math_ch8_equidistant_point_construction",
+        "render_target": "svg_template",
+        "exam_relevance": "2-mark | 5-mark",
+        "cannot_be_expressed_in_text": true,
+        "graph_type": "geometric_figure",
+        "concept_latex": "\\text{Find point A such that } AB = AC",
+        "x_axis_label": null,
+        "y_axis_label": null,
+        "x_range": null,
+        "y_range": null,
+        "key_points": [],
+        "annotations": [
+          "{\"label\": \"A\", \"point\": {\"x\": 3, \"y\": 4}}",
+          "{\"label\": \"B\", \"point\": {\"x\": 0, \"y\": 0}}",
+          "{\"label\": \"C\", \"point\": {\"x\": 6, \"y\": 0}}",
+          "{\"arc\": {\"center\": {\"x\": 0, \"y\": 0}, \"radius\": 5, \"start_angle\": 30, \"end_angle\": 90}}",
+          "{\"arc\": {\"center\": {\"x\": 6, \"y\": 0}, \"radius\": 5, \"start_angle\": 90, \"end_angle\": 150}}"
+        ],
+        "purpose": null,
+        "headers": [],
+        "rows": [],
+        "special_cells": []
+      }
+    ]
+  },
+  "worked_examples": [
+    {
+      "example_id": "class6_math_ch8_example_3",
+      "difficulty": "basic",
+      "problem": "B ಮತ್ತು C ಎಂಬ ಎರಡು ಬಿಂದುಗಳಿಂದ 5 cm ಸಮಾನ ದೂರದಲ್ಲಿರುವ A ಬಿಂದುವನ್ನು ರಚಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಕೈವಾರದಲ್ಲಿ 5 cm ತ್ರಿಜ್ಯವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+          "justification": "ದತ್ತ ದೂರವನ್ನು ಕೈವಾರದಲ್ಲಿ ಹೊಂದಿಸಿಕೊಳ್ಳುವುದು ಮೊದಲ ಹಂತ."
+        },
+        {
+          "step": 2,
+          "action": "B ಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು ಒಂದು ಕಂಸವನ್ನು ಎಳೆಯಿರಿ.",
+          "justification": "ಈ ಕಂಸದ ಮೇಲಿನ ಪ್ರತಿಯೊಂದು ಬಿಂದುವೂ B ಯಿಂದ 5 cm ದೂರದಲ್ಲಿರುತ್ತದೆ."
+        },
+        {
+          "step": 3,
+          "action": "ಕೈವಾರದ ಅಳತೆಯನ್ನು ಬದಲಿಸದೆ, C ಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು, ಹಿಂದಿನ ಕಂಸವನ್ನು ಛೇದಿಸುವಂತೆ ಮತ್ತೊಂದು ಕಂಸವನ್ನು ಎಳೆಯಿರಿ.",
+          "justification": "ಈ ಎರಡನೇ ಕಂಸದ ಮೇಲಿನ ಪ್ರತಿಯೊಂದು ಬಿಂದುವೂ C ಯಿಂದ 5 cm ದೂರದಲ್ಲಿರುತ್ತದೆ."
+        },
+        {
+          "step": 4,
+          "action": "ಎರಡೂ ಕಂಸಗಳು ಛೇದಿಸುವ ಬಿಂದುವನ್ನು A ಎಂದು ಗುರುತಿಸಿ.",
+          "justification": "ಈ ಛೇದನ ಬಿಂದುವು ಮೊದಲನೇ ಕಂಸದ ಮೇಲೆ ಇರುವುದರಿಂದ B ಯಿಂದ 5 cm ದೂರದಲ್ಲಿದೆ ಮತ್ತು ಎರಡನೇ ಕಂಸದ ಮೇಲೆ ಇರುವುದರಿಂದ C ಯಿಂದ 5 cm ದೂರದಲ್ಲಿದೆ. ಹೀಗಾಗಿ, ಇದು ಎರಡೂ ಬಿಂದುಗಳಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿದೆ."
+        }
+      ],
+      "result": "AB = AC = 5 cm ಆಗಿರುವ A ಬಿಂದುವು ರಚನೆಯಾಗುತ್ತದೆ. △ABC ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜವಾಗಿದೆ.",
+      "common_trap": "ಎರಡನೇ ಕಂಸವನ್ನು ಎಳೆಯುವಾಗ ಕೈವಾರದ ತ್ರಿಜ್ಯವನ್ನು ತಪ್ಪಾಗಿ ಬದಲಾಯಿಸುವುದು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಎರಡು ಬಿಂದುಗಳಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿರುವ ಬಿಂದುಗಳ ಪಥವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ? (ಲಂಬಾರ್ಧಕ).",
+    "two_mark_note": "ಸಮಬಾಹು ತ್ರಿಭುಜವನ್ನು ರಚಿಸಲು ಕೇಳಬಹುದು (ಇದೇ ತಂತ್ರವನ್ನು ಬಳಸಿ).",
+    "five_mark_note": "ಸಂಕೀರ್ಣ ಆಕೃತಿಗಳ ರಚನೆಯಲ್ಲಿ (ಉದಾ: 'ಮನೆ' ರಚನೆ) ಒಂದು ಭಾಗವಾಗಿ ಈ ತಂತ್ರವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+    "common_mistakes": [
+      "ಕಂಸಗಳು ಛೇದಿಸುವಷ್ಟು ದೊಡ್ಡದಾಗಿ ಎಳೆಯದಿರುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}
