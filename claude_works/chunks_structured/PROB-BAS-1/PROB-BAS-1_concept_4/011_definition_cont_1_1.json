@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಯುಕ್ತ ಘಟನೆ (Compound Event)",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಪ್ರಯೋಗ: ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು. ಇದರ ಮಾದರಿ ಅವಕಾಶ, ಅಂದರೆ ಎಲ್ಲಾ ಸಾಧ್ಯ ಫಲಿತಗಳ ಗುಂಪು, ಎಸ್ ಈಕ್ವಲ್ಸ್ ಒಂದು, ಎರಡು, ಮೂರು, ನಾಲ್ಕು, ಐದು, ಆರು. ಈಗ, ನಾವು 'ಒಂದು ಸಮ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವ ಘಟನೆ'ಯನ್ನು ನೋಡೋಣ. ಈ ಘಟನೆಗೆ ಅನುಕೂಲಕರವಾದ ಫಲಿತಗಳು ಯಾವುವು? ಅವು ಎರಡು, ನಾಲ್ಕು, ಮತ್ತು ಆರು. ಇಲ್ಲಿ ನೋಡಿ, ಈ ಘಟನೆಯಲ್ಲಿ ಒಟ್ಟು ಮೂರು ಫಲಿತಗಳಿವೆ, ಇದು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು. ಆದ್ದರಿಂದ, ನಮ್ಮ ತೀರ್ಮಾನ, ಇ ಒಂದು ಸಂಯುಕ್ತ ಘಟನೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಪ್ರಯೋಗ: ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು. ಇದರ ಮಾದರಿ ಅವಕಾಶ (Sample Space), ಅಂದರೆ ಎಲ್ಲಾ ಸಾಧ್ಯ ಫಲಿತಗಳ ಗುಂಪು, $S = \\{1, 2, 3, 4, 5, 6\\}$. ಈಗ, ನಾವು 'ಒಂದು ಸಮ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವ ಘಟನೆ (E)'ಯನ್ನು ನೋಡೋಣ. ಈ ಘಟನೆಗೆ ಅನುಕೂಲಕರವಾದ ಫಲಿತಗಳು ಯಾವುವು? ಅವು $\\{2, 4, 6\\}$. ಇಲ್ಲಿ ನೋಡಿ, ಈ ಘಟನೆಯಲ್ಲಿ ಒಟ್ಟು 3 ಫಲಿತಗಳಿವೆ, ಇದು 1ಕ್ಕಿಂತ ಹೆಚ್ಚು. ಆದ್ದರಿಂದ, ನಮ್ಮ ತೀರ್ಮಾನ, E ಒಂದು ಸಂಯುಕ್ತ ಘಟನೆ.",
+  "display_bullets": [
+    "ಪ್ರಯೋಗ: ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು.",
+    "ಮಾದರಿ ಅವಕಾಶ: $S = \\{1, 2, 3, 4, 5, 6\\}$",
+    "ಘಟನೆ (E): ಒಂದು ಸಮ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವುದು.",
+    "ಫಲಿತಗಳು: $\\{2, 4, 6\\}$ (3 ಫಲಿತಗಳು > 1)",
+    "ತೀರ್ಮಾನ: E ಒಂದು ಸಂಯುಕ್ತ ಘಟನೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_left_text",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A standard six-sided die. The faces 2, 4, and 6 are highlighted.",
+    "labels": "Die, Even numbers",
+    "mathematical_significance": "Visual representation of the outcomes for the event 'getting an even number'.",
+    "placeholder_note": "Image of a die with faces 2, 4, 6 glowing or highlighted."
+  },
+  "chunk_id": "PROB-BAS-1_concept_4_chunk_011"
+}

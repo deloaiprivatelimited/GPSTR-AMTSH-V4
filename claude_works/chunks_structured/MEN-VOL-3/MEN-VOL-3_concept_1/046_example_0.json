@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನೇರ ವೃತ್ತಪಾದ ಶಂಕುವಿನ ಓರೆ ಎತ್ತರ 10 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಪಾದದ ತ್ರಿಜ್ಯ 7 ಸೆಂಟಿಮೀಟರ್ ಇದ್ದರೆ ಅದರ ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ ಶಂಕುವಿನ ಓರೆ ಎತ್ತರ, ಅಂದರೆ ಎಲ್, ಮತ್ತು ಪಾದದ ತ್ರಿಜ್ಯ, ಅಂದರೆ ಆರ್, ಇವುಗಳ ಬೆಲೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಶಂಕುವಿನ ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನೇರ ವೃತ್ತಪಾದ ಶಂಕುವಿನ ಓರೆ ಎತ್ತರ 10 cm ಮತ್ತು ಪಾದದ ತ್ರಿಜ್ಯ 7 cm ಇದ್ದರೆ ಅದರ ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ ಶಂಕುವಿನ ಓರೆ ಎತ್ತರ ($l$) ಮತ್ತು ಪಾದದ ತ್ರಿಜ್ಯ ($r$) ಇವುಗಳ ಬೆಲೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಶಂಕುವಿನ ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (CSA).",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ಓರೆ ಎತ್ತರ ($l$) = 10 cm",
+    "ದತ್ತಾಂಶ: ಪಾದದ ತ್ರಿಜ್ಯ ($r$) = 7 cm",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (CSA)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right circular cone with its slant height (l) and base radius (r) clearly labelled. The values l=10cm and r=7cm are indicated on the diagram.",
+    "labels": "Slant height (l), Radius (r), Vertex, Base",
+    "mathematical_significance": "Visual representation of the problem statement, helping students connect the given values to the geometric shape.",
+    "placeholder_note": "Generate a cone with l=10cm and r=7cm labelled."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "MEN-VOL-3_example_1",
+  "chunk_id": "MEN-VOL-3_concept_1_chunk_046"
+}

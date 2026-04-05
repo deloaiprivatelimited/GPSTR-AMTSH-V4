@@ -1,0 +1,191 @@
+{
+  "module_id": "ALG-EXP-1_concept_5",
+  "merge_code": "ALG-EXP-1",
+  "voice": "Sadachbia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 16,
+  "ok_count": 16,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:09:53",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "6f4ce19ecf1993e4773f2e5bcb1dd70f",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 27.531,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 36,
+      "generated_at": "2026-03-30 14:06:45"
+    },
+    "003_example_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "968619ac6fe6f66b86f7aa325a0b2087",
+      "wav_file": "003_example_0.wav",
+      "duration": 27.851,
+      "slide_title": "ಉದಾಹರಣೆ: ಬೀಜೋಕ್ತಿಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "worked_example",
+      "script_words": 42,
+      "generated_at": "2026-03-30 14:06:47"
+    },
+    "004_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "be9c039174c3f3e0110409bb296ea585",
+      "wav_file": "004_example_cont_0_1.wav",
+      "duration": 33.691,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i) ಮತ್ತು (ii)",
+      "type": "worked_example",
+      "script_words": 56,
+      "generated_at": "2026-03-30 14:06:50"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "dea6ac5565c9243a2d4a76b3f34b599e",
+      "wav_file": "001_intro_0.wav",
+      "duration": 49.051,
+      "slide_title": "ಬೀಜೋಕ್ತಿಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "intro",
+      "script_words": 75,
+      "generated_at": "2026-03-30 14:07:09"
+    },
+    "005_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "8251cd341113d8003e4e91c329c79330",
+      "wav_file": "005_example_cont_0_2.wav",
+      "duration": 68.971,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (iii) ಮತ್ತು (iv)",
+      "type": "worked_example",
+      "script_words": 109,
+      "generated_at": "2026-03-30 14:07:17"
+    },
+    "006_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "27ba0e5d7eb4359485e174d9b5338156",
+      "wav_file": "006_example_cont_0_3.wav",
+      "duration": 28.571,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 49,
+      "generated_at": "2026-03-30 14:07:47"
+    },
+    "007_example_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "9a5390e211fb06d8b6d4ba2deaa57fee",
+      "wav_file": "007_example_1.wav",
+      "duration": 30.491,
+      "slide_title": "ಉದಾಹರಣೆ: ಬೀಜೋಕ್ತಿಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "worked_example",
+      "script_words": 48,
+      "generated_at": "2026-03-30 14:07:48"
+    },
+    "008_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "82cbd90388272ecb6e7ece5b6b27ff16",
+      "wav_file": "008_example_cont_1_1.wav",
+      "duration": 34.331,
+      "slide_title": "ಭಾಗ (i): 5n - 2 ರ ಬೆಲೆ",
+      "type": "worked_example",
+      "script_words": 54,
+      "generated_at": "2026-03-30 14:07:51"
+    },
+    "010_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "ef55d88675be91e02a946ac4e06e603c",
+      "wav_file": "010_example_cont_1_3.wav",
+      "duration": 46.771,
+      "slide_title": "ಭಾಗ (iii): n³ + 5n² + 5n - 2 ರ ಬೆಲೆ",
+      "type": "worked_example",
+      "script_words": 77,
+      "generated_at": "2026-03-30 14:07:58"
+    },
+    "009_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "d05ccb7f9e603913c5f5b3e5a3fcb8b2",
+      "wav_file": "009_example_cont_1_2.wav",
+      "duration": 66.531,
+      "slide_title": "ಭಾಗ (ii): 5n² + 5n - 2 ರ ಬೆಲೆ",
+      "type": "worked_example",
+      "script_words": 102,
+      "generated_at": "2026-03-30 14:08:15"
+    },
+    "012_example_2.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "acf9e1f13d21254a6b0c8abf90231f6e",
+      "wav_file": "012_example_2.wav",
+      "duration": 31.731,
+      "slide_title": "ಉದಾಹರಣೆ: ಬೀಜೋಕ್ತಿಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "worked_example",
+      "script_words": 51,
+      "generated_at": "2026-03-30 14:08:49"
+    },
+    "011_example_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "b71734e61abbdb4656a8dc2b6ae09293",
+      "wav_file": "011_example_cont_1_4.wav",
+      "duration": 29.211,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 38,
+      "generated_at": "2026-03-30 14:08:50"
+    },
+    "015_example_cont_2_3.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "56a83dc6806488b9b5ae397c01f06b1a",
+      "wav_file": "015_example_cont_2_3.wav",
+      "duration": 39.691,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 62,
+      "generated_at": "2026-03-30 14:08:53"
+    },
+    "013_example_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "37f85bc94e0601df07c4c415fd10b6d5",
+      "wav_file": "013_example_cont_2_1.wav",
+      "duration": 40.851,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i) ಮತ್ತು (ii)",
+      "type": "worked_example",
+      "script_words": 72,
+      "generated_at": "2026-03-30 14:08:57"
+    },
+    "014_example_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "82ee0d8812a82c4b4facb6ac59058f54",
+      "wav_file": "014_example_cont_2_2.wav",
+      "duration": 55.331,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (iii) ಮತ್ತು (iv)",
+      "type": "worked_example",
+      "script_words": 96,
+      "generated_at": "2026-03-30 14:09:03"
+    },
+    "016_recap_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "7f26ef31f53e9cb632621e9d17ac656d",
+      "wav_file": "016_recap_0.wav",
+      "duration": 40.571,
+      "slide_title": "ಸಾರಾಂಶ: ಬೀಜೋಕ್ತಿಯ ಬೆಲೆ",
+      "type": "recap",
+      "script_words": 52,
+      "generated_at": "2026-03-30 14:09:53"
+    }
+  }
+}

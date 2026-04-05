@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "2-D ಮತ್ತು 3-D ಆಕೃತಿಗಳ ವ್ಯತ್ಯಾಸ",
+  "script": "ಘನಾಕೃತಿಗಳನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಅವುಗಳನ್ನು ಸಮತಲಾಕೃತಿಗಳು ಅಥವಾ 2-ಡಿ ಆಕೃತಿಗಳೊಂದಿಗೆ ಹೋಲಿಕೆ ಮಾಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಇವು ಸಮತಲಾಕೃತಿಗಳು. ಇವುಗಳಿಗೆ ಕೇವಲ ಉದ್ದ ಮತ್ತು ಅಗಲ ಎಂಬ ಎರಡು ಆಯಾಮಗಳಿರುತ್ತವೆ. ಇವುಗಳಿಗೆ ವಿಸ್ತೀರ್ಣ ಅಂದರೆ ಏರಿಯಾ ಮಾತ್ರ ಇರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ ಚೌಕ ಮತ್ತು ವೃತ್ತ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಇವು ಘನಾಕೃತಿಗಳು. ಇವುಗಳಿಗೆ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರ ಎಂಬ ಮೂರು ಆಯಾಮಗಳಿವೆ. ಇವುಗಳಿಗೆ ಘನಫಲ ಅಂದರೆ ವಾಲ್ಯೂಮ್ ಇರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಚೌಕದಿಂದ ಘನ ಮತ್ತು ವೃತ್ತದಿಂದ ಗೋಳವನ್ನು ದೃಶ್ಯೀಕರಿಸಬಹುದು.",
+  "script_display": "ಘನಾಕೃತಿಗಳನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಅವುಗಳನ್ನು ಸಮತಲಾಕೃತಿಗಳು ಅಥವಾ 2-D ಆಕೃತಿಗಳೊಂದಿಗೆ ಹೋಲಿಕೆ ಮಾಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಇವು ಸಮತಲಾಕೃತಿಗಳು. ಇವುಗಳಿಗೆ ಕೇವಲ ಉದ್ದ ಮತ್ತು ಅಗಲ ಎಂಬ ಎರಡು ಆಯಾಮಗಳಿರುತ್ತವೆ. ಇವುಗಳಿಗೆ ವಿಸ್ತೀರ್ಣ (Area) ಮಾತ್ರ ಇರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ ಚೌಕ ಮತ್ತು ವೃತ್ತ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಇವು ಘನಾಕೃತಿಗಳು. ಇವುಗಳಿಗೆ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರ ಎಂಬ ಮೂರು ಆಯಾಮಗಳಿವೆ. ಇವುಗಳಿಗೆ ಘನಫಲ (Volume) ಇರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಚೌಕದಿಂದ ಘನ ಮತ್ತು ವೃತ್ತದಿಂದ ಗೋಳವನ್ನು ದೃಶ್ಯೀಕರಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಸಮತಲಾಕೃತಿಗಳು (2-D): ಕೇವಲ ಉದ್ದ ಮತ್ತು ಅಗಲ; ವಿಸ್ತೀರ್ಣ (Area) ಇರುತ್ತದೆ. ಉದಾ: ಚೌಕ, ವೃತ್ತ.",
+    "ಘನಾಕೃತಿಗಳು (3-D): ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರ; ಘನಫಲ (Volume) ಇರುತ್ತದೆ. ಉದಾ: ಘನ, ಗೋಳ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "standard_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen comparison. Left side: A 2D square and a 2D circle, labeled 'ಸಮತಲಾಕೃತಿಗಳು (2-D)'. Right side: A 3D cube and a 3D sphere, labeled 'ಘನಾಕೃತಿಗಳು (3-D)'. An arrow should point from the square to the cube, and from the circle to the sphere, to show the dimensional progression.",
+    "labels": "ಸಮತಲಾಕೃತಿಗಳು (2-D), ಘನಾಕೃತಿಗಳು (3-D), ಚೌಕ, ವೃತ್ತ, ಘನ, ಗೋಳ",
+    "mathematical_significance": "Directly contrasts 2D and 3D shapes, visually reinforcing the concept of adding a third dimension (height/depth) to create a solid shape from a plane shape.",
+    "placeholder_note": "Image to be generated for 2D vs 3D comparison."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "VIS-SOLID-2_concept_1_chunk_008"
+}

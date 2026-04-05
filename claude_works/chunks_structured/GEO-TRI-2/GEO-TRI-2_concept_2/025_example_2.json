@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ 3",
+  "script": "ಈಗ ಒಂದು ಸುಧಾರಿತ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, AB ಯು AC ಗೆ ಸಮವಾಗಿದೆ. BC ಬಾಹುವಿನ ಮೇಲೆ D ಮತ್ತು E ಬಿಂದುಗಳಿವೆ, ಮತ್ತು BE ಯು CD ಗೆ ಸಮವಾಗಿದೆ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು AD ಯು AE ಗೆ ಸಮವಾಗಿದೆ ಎಂದು ಸಾಧಿಸಬೇಕು. ಚಿತ್ರ 7.29 ಅನ್ನು ಗಮನಿಸಿ. ನಮಗೆ ಎರಡು ವಿಷಯಗಳನ್ನು ನೀಡಲಾಗಿದೆ: AB ಯು AC ಗೆ ಸಮ, ಮತ್ತು BE ಯು CD ಗೆ ಸಮ. ನಾವು AD ಯು AE ಗೆ ಸಮ ಎಂದು ತೋರಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಸುಧಾರಿತ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $AB$ ಯು $AC$ ಗೆ ಸಮವಾಗಿದೆ. BC ಬಾಹುವಿನ ಮೇಲೆ D ಮತ್ತು E ಬಿಂದುಗಳಿವೆ, ಮತ್ತು $BE$ ಯು $CD$ ಗೆ ಸಮವಾಗಿದೆ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು $AD$ ಯು $AE$ ಗೆ ಸಮವಾಗಿದೆ ಎಂದು ಸಾಧಿಸಬೇಕು. ಚಿತ್ರ 7.29 ಅನ್ನು ಗಮನಿಸಿ. ನಮಗೆ ಎರಡು ವಿಷಯಗಳನ್ನು ನೀಡಲಾಗಿದೆ: $AB$ ಯು $AC$ ಗೆ ಸಮ, ಮತ್ತು $BE$ ಯು $CD$ ಗೆ ಸಮ. ನಾವು $AD$ ಯು $AE$ ಗೆ ಸಮ ಎಂದು ತೋರಿಸಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತ: ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ $AB = AC$.",
+    "BC ಯ ಮೇಲೆ D ಮತ್ತು E ಬಿಂದುಗಳಿವೆ, $BE = CD$.",
+    "ಸಾಧನೀಯ: $AD = AE$."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Isosceles triangle ABC with AB = AC. Points D and E are on the base BC such that D is between B and C, and E is also on the line BC, with BE = CD. Lines AD and AE are drawn.",
+    "labels": "A, B, C, D, E",
+    "mathematical_significance": "Illustrates the setup for proving AD = AE. The key is to identify the correct congruent triangles, which are ABD and ACE. This setup is based on Figure 7.29 from the textbook.",
+    "placeholder_note": "Image to be generated based on the problem description (similar to Fig 7.29)."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "GEO-TRI-2_example_6",
+  "chunk_id": "GEO-TRI-2_concept_2_chunk_025"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಆರೋಗ್ಯಕರ ಗುಲಾಬಿ ಗಿಡದ ಒಂದು ಕೊಂಬೆ. ನಂತರ, ಈ ಕೊಂಬೆಯನ್ನು ನೆಡಲು ಮಣ್ಣು ತುಂಬಿದ ಒಂದು ಕುಂಡ. ಕೊನೆಯದಾಗಿ, ಗಿಡಕ್ಕೆ ಜೀವ ತುಂಬಲು ನೀರು. ಈ ಸಾಮಗ್ರಿಗಳನ್ನು ಬಳಸಿ ನಾವು ಗುಲಾಬಿ ಕಾಂಡದ ತುಂಡಿನಿಂದ ಹೊಸ ಗಿಡವನ್ನು ಹೇಗೆ ಬೆಳೆಸಬಹುದು ಎಂದು ನೋಡೋಣ. ಈ ವಿಧಾನವನ್ನು 'ಕಟಿಂಗ್' ಅಥವಾ 'ತುಂಡು' ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+  "script_display": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಆರೋಗ್ಯಕರ ಗುಲಾಬಿ ಗಿಡದ ಒಂದು ಕೊಂಬೆ. ನಂತರ, ಈ ಕೊಂಬೆಯನ್ನು ನೆಡಲು ಮಣ್ಣು ತುಂಬಿದ ಒಂದು ಕುಂಡ. ಕೊನೆಯದಾಗಿ, ಗಿಡಕ್ಕೆ ಜೀವ ತುಂಬಲು ನೀರು. ಈ ಸಾಮಗ್ರಿಗಳನ್ನು ಬಳಸಿ ನಾವು ಗುಲಾಬಿ ಕಾಂಡದ ತುಂಡಿನಿಂದ (cutting) ಹೊಸ ಗಿಡವನ್ನು ಹೇಗೆ ಬೆಳೆಸಬಹುದು ಎಂದು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಗುಲಾಬಿ ಗಿಡದ ಕೊಂಬೆ",
+    "ಮಣ್ಣು ತುಂಬಿದ ಕುಂಡ",
+    "ನೀರು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_bullets",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the materials needed for the rose cutting experiment: a healthy rose stem, a pot filled with soil, and a watering can.",
+    "labels": "ಗುಲಾಬಿ ಕೊಂಬೆ, ಕುಂಡ, ಮಣ್ಣು, ನೀರು",
+    "scientific_significance": "Illustrates the basic materials required for vegetative propagation by stem cutting.",
+    "placeholder_note": "Image to be generated showing the listed materials."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_7_chapter_8_concept_2_chunk_022"
+}

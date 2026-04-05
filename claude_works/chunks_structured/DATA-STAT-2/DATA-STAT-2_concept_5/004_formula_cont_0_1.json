@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧ ಸೂತ್ರ",
+  "script": "ಈಗ ಆ ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧದ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಗಮನವಿಟ್ಟು ನೋಡಿ. ಮೂರು ಮಧ್ಯಾಂಕವು, ಬಹುಲಕ ಮತ್ತು ಎರಡು ಸರಾಸರಿಯ ಮೊತ್ತಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಅಂದರೆ, 3 times the Median equals Mode plus 2 times the Mean. ಈ ಸೂತ್ರದಲ್ಲಿ, 'ಮಧ್ಯಾಂಕ' ಎಂದರೆ ದತ್ತಾಂಶದ ಮಧ್ಯದ ಮೌಲ್ಯ, 'ಬಹುಲಕ' ಎಂದರೆ ಅತಿ ಹೆಚ್ಚು ಬಾರಿ ಪುನರಾವರ್ತನೆಯಾಗುವ ಮೌಲ್ಯ, ಮತ್ತು 'ಸರಾಸರಿ' ಎಂದರೆ ಎಲ್ಲಾ ಮೌಲ್ಯಗಳ ಮೊತ್ತವನ್ನು ಮೌಲ್ಯಗಳ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸಿದಾಗ ಬರುವ ಮೌಲ್ಯ. ಇದು ಒಂದು ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧ, ಅಂದರೆ ಇದನ್ನು ವೀಕ್ಷಣೆ ಮತ್ತು ಪ್ರಯೋಗಗಳ ಮೂಲಕ ಪಡೆಯಲಾಗಿದೆ, ಇದೊಂದು ನಿಖರವಾದ ಗಣಿತೀಯ ಸಂಬಂಧವಲ್ಲ.",
+  "script_display": "ಈಗ ಆ ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧದ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಗಮನವಿಟ್ಟು ನೋಡಿ. * 3 ಮಧ್ಯಾಂಕ = ಬಹುಲಕ + 2 ಸರಾಸರಿ. ಅಂದರೆ, $3 \\times (\\text{Median}) = (\\text{Mode}) + 2 \\times (\\text{Mean})$. ಈ ಸೂತ್ರದಲ್ಲಿ, 'ಮಧ್ಯಾಂಕ' (Median) ಎಂದರೆ ದತ್ತಾಂಶದ ಮಧ್ಯದ ಮೌಲ್ಯ, 'ಬಹುಲಕ' (Mode) ಎಂದರೆ ಅತಿ ಹೆಚ್ಚು ಬಾರಿ ಪುನರಾವರ್ತನೆಯಾಗುವ ಮೌಲ್ಯ, ಮತ್ತು 'ಸರಾಸರಿ' (Mean) ಎಂದರೆ ಎಲ್ಲಾ ಮೌಲ್ಯಗಳ ಮೊತ್ತವನ್ನು ಮೌಲ್ಯಗಳ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸಿದಾಗ ಬರುವ ಮೌಲ್ಯ. * ಇದು ಒಂದು ಪ್ರಾಯೋಗಿಕ (Empirical) ಸಂಬಂಧ, ಅಂದರೆ ಇದನ್ನು ವೀಕ್ಷಣೆ ಮತ್ತು ಪ್ರಯೋಗಗಳ ಮೂಲಕ ಪಡೆಯಲಾಗಿದೆ, ಇದೊಂದು ನಿಖರವಾದ ಗಣಿತೀಯ ಸಂಬಂಧವಲ್ಲ.",
+  "display_bullets": [
+    "3 ಮಧ್ಯಾಂಕ = ಬಹುಲಕ + 2 ಸರಾಸರಿ",
+    "ಇದು ಒಂದು ಪ್ರಾಯೋಗಿಕ (Empirical) ಸಂಬಂಧ, ನಿಖರವಾದ ಗಣಿತೀಯ ಸಂಬಂಧವಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_with_explanation",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "3 \\, \\text{ಮಧ್ಯಾಂಕ} = \\text{ಬಹುಲಕ} + 2 \\, \\text{ಸರಾಸರಿ}",
+    "placeholder_note": "The empirical formula relating mean, median, and mode."
+  },
+  "chunk_id": "DATA-STAT-2_concept_5_chunk_004"
+}

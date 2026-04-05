@@ -1,0 +1,46 @@
+{
+  "module_id": "std_10_chapter_5_concept_4",
+  "chapter_code": "std_10_chapter_5",
+  "voice": "Achernar",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 137.833,
+  "total_duration_formatted": "2:17",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_5_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಮಾನವನ ಜೀರ್ಣಾಂಗವ್ಯೂಹ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 62.411,
+      "duration": 62.411,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "std_10_chapter_5_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 63.011,
+      "end": 94.742,
+      "duration": 31.731,
+      "script_words": 39
+    },
+    {
+      "chunk_id": "std_10_chapter_5_concept_4_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 95.342,
+      "end": 137.233,
+      "duration": 41.891,
+      "script_words": 44
+    }
+  ]
+}

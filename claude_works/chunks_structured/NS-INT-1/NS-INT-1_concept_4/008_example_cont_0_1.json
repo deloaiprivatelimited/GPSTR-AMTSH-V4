@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i)",
+  "script": "ಮೊದಲ ಹೇಳಿಕೆಯನ್ನು ಬಿಡಿಸೋಣ. ಇದು ಸಂಕಲನದ ಪರಿವರ್ತನೀಯ ಗುಣವನ್ನು ಆಧರಿಸಿದೆ, ಅದು ಎ ಪ್ಲಸ್ ಬಿ ಈಕ್ವಲ್ಸ್ ಬಿ ಪ್ಲಸ್ ಎ ಎಂದು ಹೇಳುತ್ತದೆ. ನಮ್ಮ ಹೇಳಿಕೆಯಲ್ಲಿ, ಎ ಮೈನಸ್ ಐದು ಮತ್ತು ಬಿ ಮೈನಸ್ ಎಂಟು ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಮೈನಸ್ ಐದು ಪ್ಲಸ್ ಮೈನಸ್ ಎಂಟು ಎಂಬುದು ಮೈನಸ್ ಎಂಟು ಪ್ಲಸ್ ಮೈನಸ್ ಐದಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಹಾಗಾಗಿ, ಖಾಲಿ ಜಾಗದಲ್ಲಿ ಬರಬೇಕಾದ ಸಂಖ್ಯೆ ಮೈನಸ್ ಐದು.",
+  "script_display": "ಮೊದಲ ಹೇಳಿಕೆಯನ್ನು ಬಿಡಿಸೋಣ. ಇದು ಸಂಕಲನದ ಪರಿವರ್ತನೀಯ ಗುಣವನ್ನು ಆಧರಿಸಿದೆ, ಅದು $a + b = b + a$ ಎಂದು ಹೇಳುತ್ತದೆ. ನಮ್ಮ ಹೇಳಿಕೆಯಲ್ಲಿ, $a = -5$ ಮತ್ತು $b = -8$ ಆಗಿದೆ. ಆದ್ದರಿಂದ, $(-5) + (-8) = (-8) + (-5)$. ಹಾಗಾಗಿ, ಖಾಲಿ ಜಾಗದಲ್ಲಿ ಬರಬೇಕಾದ ಸಂಖ್ಯೆ $-5$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_centered",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "NS-INT-1_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಹೇಳಿಕೆ (i): $(-5) + (-8) = (-8) + (-5)$",
+      "justification": "ಸಂಕಲನದ ಪರಿವರ್ತನೀಯ ಗುಣ: $a + b = b + a$. ಇಲ್ಲಿ $a = -5$ ಮತ್ತು $b = -8$."
+    }
+  ],
+  "chunk_id": "NS-INT-1_concept_4_chunk_008"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಗಾತ್ರ ಮತ್ತು ಸಾಮರ್ಥ್ಯದ ಪರಿವರ್ತನೆ ಸೂತ್ರ",
+  "script": "ಹಾಗಾದರೆ, ನೀವು ನೆನಪಿಡಬೇಕಾದ ಪೂರ್ಣ ಪರಿವರ್ತನಾ ಸೂತ್ರವನ್ನು ಈಗ ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, 1 ಲೀಟರ್ 1000 ಮಿಲಿಲೀಟರ್‌ಗಳಿಗೆ ಸಮ. ಎರಡನೆಯದಾಗಿ, 1 ಮಿಲಿಲೀಟರ್ 1 ಘನ ಸೆಂಟಿಮೀಟರ್‌ಗೆ ಸಮ. ಆದ್ದರಿಂದ, ಈ ಎರಡರಿಂದ ನಾವು 1 ಲೀಟರ್ 1000 ಘನ ಸೆಂಟಿಮೀಟರ್‌ಗಳಿಗೆ ಸಮ ಎಂದು ಹೇಳಬಹುದು. ದೊಡ್ಡ ಅಳತೆಗಳಿಗಾಗಿ, ಮತ್ತೊಂದು ಪ್ರಮುಖ ಸಂಬಂಧವಿದೆ: 1 ಘನ ಮೀಟರ್ 1000 ಲೀಟರ್‌ಗಳಿಗೆ ಸಮ. ದೊಡ್ಡ ಟ್ಯಾಂಕ್‌ಗಳು ಅಥವಾ ಜಲಾಶಯಗಳ ಲೆಕ್ಕಾಚಾರದಲ್ಲಿ ಇದು ಬಹಳ ಉಪಯುಕ್ತ.",
+  "script_display": "ಹಾಗಾದರೆ, ನೀವು ನೆನಪಿಡಬೇಕಾದ ಪೂರ್ಣ ಪರಿವರ್ತನಾ ಸೂತ್ರವನ್ನು ಈಗ ನೋಡೋಣ.",
+  "display_bullets": [
+    "$1 \\text{ ಲೀಟರ್} = 1000 \\text{ ಮಿಲಿಲೀಟರ್‌ಗಳು}$",
+    "$1 \\text{ ಮಿಲಿಲೀಟರ್} = 1 \\text{ ಘನ ಸೆಂಟಿಮೀಟರ್}$",
+    "ಆದ್ದರಿಂದ, $1 \\text{ ಲೀಟರ್} = 1000 \\text{ ಘನ ಸೆಂಟಿಮೀಟರ್‌ಗಳು}$",
+    "ದೊಡ್ಡ ಅಳತೆಗಾಗಿ: $1 \\text{ ಘನ ಮೀಟರ್} = 1000 \\text{ ಲೀಟರ್‌ಗಳು}$"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "1 \\text{ L} = 1000 \\text{ mL} = 1000 \\text{ cm}^3 \\\\ \\large{1 \\text{ m}^3 = 1000 \\text{ L}}",
+    "placeholder_note": "Display the conversion formulas clearly."
+  },
+  "chunk_id": "MEN-MEN-2_concept_3_chunk_038"
+}

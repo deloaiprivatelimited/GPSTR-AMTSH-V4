@@ -1,0 +1,123 @@
+{
+  "module_id": "std_8_chapter_13_concept_2",
+  "chapter_code": "std_8_chapter_13",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 402.67,
+  "total_duration_formatted": "6:42",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_13_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಮತಲ ದರ್ಪಣದಿಂದ ಪ್ರತಿಬಿಂಬ ರಚನೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 42.971,
+      "duration": 42.971,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_8_chapter_13_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisite",
+      "start": 43.571,
+      "end": 73.662,
+      "duration": 30.091,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_8_chapter_13_concept_2_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಸಮತಲ ದರ್ಪಣದ ಪ್ರತಿಬಿಂಬದ ಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "start": 74.262,
+      "end": 133.793,
+      "duration": 59.531,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "std_8_chapter_13_concept_2_chunk_004",
+      "chunk_file": "004_property_1.json",
+      "wav_file": "004_property_1.wav",
+      "slide_title": "ಪ್ರತಿಬಿಂಬದ ಲಕ್ಷಣಗಳು: ಸಮಾನ ದೂರ",
+      "type": "concept_explanation",
+      "start": 134.393,
+      "end": 177.684,
+      "duration": 43.291,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_8_chapter_13_concept_2_chunk_005",
+      "chunk_file": "005_property_cont_1_1.json",
+      "wav_file": "005_property_cont_1_1.wav",
+      "slide_title": "ಪ್ರತಿಬಿಂಬದ ಲಕ್ಷಣಗಳು: ಪಾರ್ಶ್ವ ವಿಪರ್ಯಯ",
+      "type": "concept_explanation",
+      "start": 178.284,
+      "end": 228.415,
+      "duration": 50.131,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_8_chapter_13_concept_2_chunk_006",
+      "chunk_file": "006_example_0.json",
+      "wav_file": "006_example_0.wav",
+      "slide_title": "ಲೆಕ್ಕದ ಉದಾಹರಣೆ: ಸಮತಲ ದರ್ಪಣ",
+      "type": "worked_example",
+      "start": 229.015,
+      "end": 261.826,
+      "duration": 32.811,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "std_8_chapter_13_concept_2_chunk_007",
+      "chunk_file": "007_example_cont_0_1.json",
+      "wav_file": "007_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತಗಳು 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "start": 262.426,
+      "end": 298.877,
+      "duration": 36.451,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_8_chapter_13_concept_2_chunk_008",
+      "chunk_file": "008_example_cont_0_2.json",
+      "wav_file": "008_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+      "type": "worked_example",
+      "start": 299.477,
+      "end": 326.648,
+      "duration": 27.171,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_8_chapter_13_concept_2_chunk_009",
+      "chunk_file": "009_example_cont_0_3.json",
+      "wav_file": "009_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "start": 327.248,
+      "end": 359.259,
+      "duration": 32.011,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_8_chapter_13_concept_2_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "start": 359.859,
+      "end": 402.07,
+      "duration": 42.211,
+      "script_words": 51
+    }
+  ]
+}

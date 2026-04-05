@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಪ್ರತಿ ಪದವನ್ನು ಅದರ ಅಪವರ್ತಿಸಲಾಗದ ಅಪವರ್ತನಗಳಾಗಿ ವಿಭಜಿಸೋಣ. 10x ವರ್ಗವು 2 ಗುಣಿಸು 5 ಗುಣಿಸು x ಗುಣಿಸು x ಆಗುತ್ತದೆ. 18x ಘನವು 2 ಗುಣಿಸು 3 ಗುಣಿಸು 3 ಗುಣಿಸು x ಗುಣಿಸು x ಗುಣಿಸು x ಆಗುತ್ತದೆ. ಮತ್ತು 14x ಟು ದ ಪವರ್ 4, 2 ಗುಣಿಸು 7 ಗುಣಿಸು x ಗುಣಿಸು x ಗುಣಿಸು x ಗುಣಿಸು x ಆಗುತ್ತದೆ. ಈಗ, ಈ ಮೂರು ಪದಗಳಲ್ಲಿರುವ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಗುರುತಿಸೋಣ. ಸಂಖ್ಯೆಗಳಲ್ಲಿ 2 ಸಾಮಾನ್ಯವಾಗಿದೆ. ಚರಾಕ್ಷರಗಳಲ್ಲಿ, ಎರಡು x ಗಳು ಸಾಮಾನ್ಯವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಮಹತ್ತಮ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಅಥವಾ ಜಿ ಸಿ ಎಫ್, 2 ಗುಣಿಸು x ಗುಣಿಸು x, ಅಂದರೆ 2x ವರ್ಗ ಆಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಪ್ರತಿ ಪದವನ್ನು ಅದರ ಅಪವರ್ತಿಸಲಾಗದ ಅಪವರ್ತನಗಳಾಗಿ ವಿಭಜಿಸೋಣ. $10x^2$ವು $2 \\times 5 \\times x \\times x$ ಆಗುತ್ತದೆ. $18x^3$ವು $2 \\times 3 \\times 3 \\times x \\times x \\times x$ ಆಗುತ್ತದೆ. ಮತ್ತು $14x^4$, $2 \\times 7 \\times x \\times x \\times x \\times x$ ಆಗುತ್ತದೆ. ಈಗ, ಈ ಮೂರು ಪದಗಳಲ್ಲಿರುವ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಗುರುತಿಸೋಣ. ಸಂಖ್ಯೆಗಳಲ್ಲಿ 2 ಸಾಮಾನ್ಯವಾಗಿದೆ. ಚರಾಕ್ಷರಗಳಲ್ಲಿ, ಎರಡು $x$ ಗಳು ಸಾಮಾನ್ಯವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಮಹತ್ತಮ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಅಥವಾ GCF, $2 \\times x \\times x$, ಅಂದರೆ $2x^2$ ಆಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_only",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-FAC-2_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಪ್ರತಿ ಪದವನ್ನು ಅದರ ಅಪವರ್ತಿಸಲಾಗದ ಅಪವರ್ತನಗಳಾಗಿ ವಿಭಜಿಸಿ: <br> $10x^2 = 2 \\times 5 \\times x \\times x$ <br> $18x^3 = 2 \\times 3 \\times 3 \\times x \\times x \\times x$ <br> $14x^4 = 2 \\times 7 \\times x \\times x \\times x \\times x$",
+      "justification": "ಎಲ್ಲಾ ಪದಗಳಲ್ಲಿನ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಗುರುತಿಸಿ: 2, x, x. <br> ಆದ್ದರಿಂದ, ಮಹತ್ತಮ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ (GCF) = $2 \\times x \\times x = 2x^2$.",
+      "justification": "ಮಹತ್ತಮ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು (GCF) ಕಂಡುಹಿಡಿಯಲು."
+    }
+  ],
+  "chunk_id": "ALG-FAC-2_concept_2_chunk_008"
+}

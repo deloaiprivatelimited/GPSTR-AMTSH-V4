@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಲಘು ಕೋನ (Acute Angle): ವ್ಯಾಖ್ಯೆ",
+  "script": "ಈಗ ನಾವು ಕೋನಗಳ ವಿಧಗಳಲ್ಲಿ ಮೊದಲನೆಯದಾದ ಲಘು ಕೋನದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಲಘು ಎಂದರೆ ಚಿಕ್ಕದು ಅಥವಾ ಕಿರಿದಾದದ್ದು. ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಸೊನ್ನೆ ಡಿಗ್ರಿಗಿಂತ ಹೆಚ್ಚು ಮತ್ತು ತೊಂಬತ್ತು ಡಿಗ್ರಿಗಿಂತ ಕಡಿಮೆ ಅಳತೆ ಇರುವ ಕೋನವನ್ನು ಲಘು ಕೋನ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಅಂದರೆ, ಕೋನದ ಅಳತೆಯು ಸೊನ್ನೆ ಮತ್ತು ತೊಂಬತ್ತು ಡಿಗ್ರಿಗಳ ನಡುವೆ ಇರಬೇಕು, ಆದರೆ ಸೊನ್ನೆ ಅಥವಾ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಆಗಿರಬಾರದು. ಗಣಿತದ ಭಾಷೆಯಲ್ಲಿ ಹೇಳುವುದಾದರೆ, ತೀಟಾ ಎಂಬುದು ಕೋನದ ಅಳತೆಯಾದರೆ, ಸೊನ್ನೆ ಡಿಗ್ರಿ ಲೆಸ್ ದ್ಯಾನ್ ತೀಟಾ ಲೆಸ್ ದ್ಯಾನ್ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಕೋನಗಳ ವಿಧಗಳಲ್ಲಿ ಮೊದಲನೆಯದಾದ ಲಘು ಕೋನದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. 'ಲಘು' ಎಂದರೆ ಚಿಕ್ಕದು ಅಥವಾ ಕಿರಿದಾದದ್ದು. ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, $0^\\circ$ ಗಿಂತ ಹೆಚ್ಚು ಮತ್ತು $90^\\circ$ ಗಿಂತ ಕಡಿಮೆ ಅಳತೆ ಇರುವ ಕೋನವನ್ನು ಲಘು ಕೋನ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಅಂದರೆ, ಕೋನದ ಅಳತೆಯು $0^\\circ$ ಮತ್ತು $90^\\circ$ ಗಳ ನಡುವೆ ಇರಬೇಕು, ಆದರೆ $0^\\circ$ ಅಥವಾ $90^\\circ$ ಆಗಿರಬಾರದು. ಗಣಿತದ ಭಾಷೆಯಲ್ಲಿ ಹೇಳುವುದಾದರೆ, $\\theta$ ಎಂಬುದು ಕೋನದ ಅಳತೆಯಾದರೆ, $0^\\circ < \\theta < 90^\\circ$ ಆಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯೆ: $0^\\circ$ ಗಿಂತ ಹೆಚ್ಚು ಮತ್ತು $90^\\circ$ ಗಿಂತ ಕಡಿಮೆ ಅಳತೆಯಿರುವ ಕೋನ.",
+    "ಇದು $0^\\circ$ ಮತ್ತು $90^\\circ$ ಡಿಗ್ರಿಗಳ ನಡುವಿನ ಯಾವುದೇ ಮೌಲ್ಯವಾಗಿರಬಹುದು.",
+    "ಗಣಿತದ ಸಂಕೇತ: $0^\\circ < \\theta < 90^\\circ$"
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "0^\\circ < \\text{ಲಘು ಕೋನ} < 90^\\circ",
+    "placeholder_note": "A box highlighting the mathematical range of an acute angle."
+  },
+  "sub_type": "definition_spotlight",
+  "difficulty": "easy",
+  "source_example_id": "",
+  "chunk_id": "GEO-LA-1_concept_2_chunk_020"
+}

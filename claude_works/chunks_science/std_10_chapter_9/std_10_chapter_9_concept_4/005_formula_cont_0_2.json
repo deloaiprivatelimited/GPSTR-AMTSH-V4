@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಮೊದಲಿಗೆ, ದರ್ಪಣ ಸೂತ್ರವನ್ನು ಪ್ರತಿಬಿಂಬ ದೂರ ವಿ ಗಾಗಿ ಪುನರ್-ಜೋಡಿಸೋಣ. ವಿ ಯ ಒಂದನೇ ಭಾಗ ಈಕ್ವಲ್ಸ್ ಎಫ್ ಯ ಒಂದನೇ ಭಾಗ ಮೈನಸ್ ಯು ಯ ಒಂದನೇ ಭಾಗ. ಈಗ, ಎಫ್ ಮತ್ತು ಯು ನ ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸೋಣ. ವಿ ಯ ಒಂದನೇ ಭಾಗ ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ 15 ರ ಒಂದನೇ ಭಾಗ ಮೈನಸ್ ಮೈನಸ್ 25 ರ ಒಂದನೇ ಭಾಗ. ಮೈನಸ್ ಇಂಟು ಮೈನಸ್ ಪ್ಲಸ್ ಆಗುವುದರಿಂದ, ಸಮೀಕರಣವು ವಿ ಯ ಒಂದನೇ ಭಾಗ ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ 15 ರ ಒಂದನೇ ಭಾಗ ಪ್ಲಸ್ 25 ರ ಒಂದನೇ ಭಾಗ ಎಂದಾಗುತ್ತದೆ. ಇದು ನಮ್ಮ ಮೊದಲ ಹಂತ.",
+  "script_display": "ದರ್ಪಣ ಸೂತ್ರ $\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$ ಅನ್ನು ಬಳಸೋಣ.",
+  "display_bullets": [
+    "**ಹಂತ 1: ಸೂತ್ರವನ್ನು ಪುನರ್-ಜೋಡಿಸಿ**\n$\\frac{1}{v} = \\frac{1}{f} - \\frac{1}{u}$",
+    "**ಹಂತ 2: ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸಿ**\n$\\frac{1}{v} = \\frac{1}{-15} - \\frac{1}{-25}$",
+    "**ಹಂತ 3: ಸರಳೀಕರಿಸಿ**\n$\\frac{1}{v} = -\\frac{1}{15} + \\frac{1}{25}$"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "classic_blue",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{1}{v} = -\\frac{1}{15} + \\frac{1}{25}",
+    "placeholder_note": "Substitution of values into the rearranged mirror formula."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_9_concept_4_chunk_005"
+}

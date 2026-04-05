@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ನಮೂದಿತ ಬೆಲೆ: ಪರಿಚಯ",
+  "script": "ವಾಣಿಜ್ಯ ಗಣಿತದ ಈ ಭಾಗದಲ್ಲಿ, ನಾವು ರಿಯಾಯಿತಿ ಮತ್ತು ತೆರಿಗೆಗಳ ಬಗ್ಗೆ ಕಲಿಯುತ್ತೇವೆ. ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಾವು ಮೊದಲು ಕೆಲವು ಮೂಲಭೂತ ಪದಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಬೇಕು. ನೀವು ಅಂಗಡಿಗೆ ಹೋದಾಗ, ಪ್ರತಿಯೊಂದು ವಸ್ತುವಿನ ಮೇಲೂ ಒಂದು ಬೆಲೆಯ ಚೀಟಿಯನ್ನು ನೋಡಿರುತ್ತೀರಿ. ಉದಾಹರಣೆಗೆ, ಈ ಚಿತ್ರದಲ್ಲಿ ಕಾಣುವ ಶರ್ಟಿನ ಮೇಲೆ ಒಂದು ಬೆಲೆಪಟ್ಟಿ ಇದೆ. ಈ ಬೆಲೆ ಏನು? ಇದನ್ನು ಗಣಿತದ ಭಾಷೆಯಲ್ಲಿ ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ? ಇದರ ಬಗ್ಗೆ ನಾವು ಈಗ ವಿವರವಾಗಿ ತಿಳಿಯೋಣ.",
+  "script_display": "ವಾಣಿಜ್ಯ ಗಣಿತದ ಈ ಭಾಗದಲ್ಲಿ, ನಾವು ರಿಯಾಯಿತಿ ಮತ್ತು ತೆರಿಗೆಗಳ ಬಗ್ಗೆ ಕಲಿಯುತ್ತೇವೆ. ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಾವು ಮೊದಲು ಕೆಲವು ಮೂಲಭೂತ ಪದಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಬೇಕು. ನೀವು ಅಂಗಡಿಗೆ ಹೋದಾಗ, ಪ್ರತಿಯೊಂದು ವಸ್ತುವಿನ ಮೇಲೂ ಒಂದು ಬೆಲೆಯ ಚೀಟಿಯನ್ನು ನೋಡಿರುತ್ತೀರಿ. ಉದಾಹರಣೆಗೆ, ಈ ಚಿತ್ರದಲ್ಲಿ ಕಾಣುವ ಶರ್ಟಿನ ಮೇಲೆ ಒಂದು ಬೆಲೆಪಟ್ಟಿ ಇದೆ. ಈ ಬೆಲೆ ಏನು? ಇದನ್ನು ಗಣಿತದ ಭಾಷೆಯಲ್ಲಿ ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ? ಇದರ ಬಗ್ಗೆ ನಾವು ಈಗ ವಿವರವಾಗಿ ತಿಳಿಯೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clean, modern illustration of a folded t-shirt in a retail setting. A prominent price tag is attached to the shirt, clearly showing a price like '₹999'. The style should be simple and graphical, not a photograph.",
+    "labels": "T-shirt, Price Tag with '₹999'",
+    "mathematical_significance": "This visual introduces the real-world object (an item for sale) and its associated price tag, which is the physical manifestation of the 'Marked Price' concept.",
+    "placeholder_note": "Image to be generated. Show a t-shirt with a price tag."
+  },
+  "chunk_id": "RPP-COMP-1_concept_4_chunk_003"
+}

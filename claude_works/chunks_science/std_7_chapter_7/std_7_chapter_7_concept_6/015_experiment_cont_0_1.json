@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಗತ್ಯವಿರುವ ಸಾಮಗ್ರಿಗಳು ಮತ್ತು ಜೋಡಣೆ",
+  "script": "ಈ ಪ್ರಯೋಗಕ್ಕೆ ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲಿಗೆ, ಒಂದು ಪಾರದರ್ಶಕ ಗಾಜಿನ ಲೋಟವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ನಂತರ, ಅದಕ್ಕೆ ಸ್ವಲ್ಪ ನೀರನ್ನು ತುಂಬಿಸಿ. ಈಗ, ಆ ನೀರಿಗೆ ಕೆಲವು ಹನಿ ಕೆಂಪು ಶಾಯಿಯನ್ನು ಸೇರಿಸಿ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡಿ. ಇದರಿಂದ ನೀರು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಒಂದು ಎಳೆಯ, ಮೃದುವಾದ ಕಾಂಡವಿರುವ ಸಸ್ಯ, ಉದಾಹರಣೆಗೆ ಕರ್ಣಕುಂಡಲ ಸಸ್ಯವನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದರ ಕಾಂಡದ ಬುಡವನ್ನು ಬ್ಲೇಡ್‌ನಿಂದ ಕತ್ತರಿಸಿ, ಈ ಬಣ್ಣದ ನೀರಿನಲ್ಲಿ ಇಡಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಉಪಕರಣಗಳನ್ನು ಜೋಡಿಸಿ.",
+  "script_display": "ಈ ಪ್ರಯೋಗಕ್ಕೆ ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲಿಗೆ, ಒಂದು ಪಾರದರ್ಶಕ ಗಾಜಿನ ಲೋಟವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ನಂತರ, ಅದಕ್ಕೆ ಸ್ವಲ್ಪ ನೀರನ್ನು ತುಂಬಿಸಿ. ಈಗ, ಆ ನೀರಿಗೆ ಕೆಲವು ಹನಿ ಕೆಂಪು ಶಾಯಿಯನ್ನು ಸೇರಿಸಿ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡಿ. ಇದರಿಂದ ನೀರು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಒಂದು ಎಳೆಯ, ಮೃದುವಾದ ಕಾಂಡವಿರುವ ಸಸ್ಯ (ಉದಾ: ಕರ್ಣಕುಂಡಲ ಸಸ್ಯ) ತೆಗೆದುಕೊಂಡು, ಅದರ ಕಾಂಡದ ಬುಡವನ್ನು ಬ್ಲೇಡ್‌ನಿಂದ ಕತ್ತರಿಸಿ, ಈ ಬಣ್ಣದ ನೀರಿನಲ್ಲಿ ಇಡಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಉಪಕರಣಗಳನ್ನು ಜೋಡಿಸಿ.",
+  "display_bullets": [
+    "ಗಾಜಿನ ಲೋಟ",
+    "ನೀರು",
+    "ಕೆಂಪು ಶಾಯಿ",
+    "ಎಳೆಯ ಸಸ್ಯ (ಕರ್ಣಕುಂಡಲ)",
+    "ಬ್ಲೇಡ್"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A glass tumbler with red colored water. A small plant (like a balsam plant) with its stem cut at the base is placed inside the tumbler. The setup is shown clearly.",
+    "labels": "ಗಾಜಿನ ಲೋಟ, ಕೆಂಪು ನೀರು, ಸಸ್ಯ",
+    "scientific_significance": "Demonstrates the initial setup for the experiment to show water transport in plants.",
+    "placeholder_note": "Image to be generated showing the apparatus setup for the xylem transport experiment."
+  },
+  "chunk_id": "std_7_chapter_7_concept_6_chunk_015"
+}

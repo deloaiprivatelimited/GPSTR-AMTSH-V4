@@ -1,0 +1,35 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಬಲದ ಪರಿಣಾಮವನ್ನು ಅರಿಯುವುದು",
+  "script": "ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೇ. ಈ ದಿನ ನಾವು ಬಲದ ಪರಿಣಾಮಗಳ ಬಗ್ಗೆ ಒಂದು ಸರಳವಾದ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ತಿಳಿಯೋಣ. ಬಲವು ಒಂದು ವಸ್ತುವಿನ ಚಲನೆಯ ಸ್ಥಿತಿಯನ್ನು ಹೇಗೆ ಬದಲಾಯಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವು ನೋಡಲಿದ್ದೇವೆ. ಈ ಚಟುವಟಿಕೆಗಾಗಿ, ನಮಗೆ ಒಂದು ರಬ್ಬರ್ ಚೆಂಡು ಮತ್ತು ಒಂದು ಅಳತೆಪಟ್ಟಿ ಬೇಕಾಗುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಾವು ಒಂದು ಸಮತಟ್ಟಾದ ನೆಲದ ಮೇಲೆ ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲಿದ್ದೇವೆ. ನಮ್ಮ ಗುರಿ, ಈ ಚೆಂಡಿನ ಮೇಲೆ ಬೇರೆ ಬೇರೆ ರೀತಿಯಲ್ಲಿ ಬಲ ಪ್ರಯೋಗಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸುವುದು. ಸಿದ್ಧರಿದ್ದೀರಾ? ಹಾಗಾದರೆ, ಶುರು ಮಾಡೋಣ.",
+  "script_display": "ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೇ. ಈ ದಿನ ನಾವು ಬಲದ ಪರಿಣಾಮಗಳ ಬಗ್ಗೆ ಒಂದು ಸರಳವಾದ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ತಿಳಿಯೋಣ. ಬಲವು ಒಂದು ವಸ್ತುವಿನ ಚಲನೆಯ ಸ್ಥಿತಿಯನ್ನು ಹೇಗೆ ಬದಲಾಯಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವು ನೋಡಲಿದ್ದೇವೆ. ಈ ಚಟುವಟಿಕೆಗಾಗಿ, ನಮಗೆ ಒಂದು ರಬ್ಬರ್ ಚೆಂಡು ಮತ್ತು ಒಂದು ಅಳತೆಪಟ್ಟಿ ಬೇಕಾಗುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಾವು ಒಂದು ಸಮತಟ್ಟಾದ ನೆಲದ ಮೇಲೆ ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲಿದ್ದೇವೆ. ನಮ್ಮ ಗುರಿ, ಈ ಚೆಂಡಿನ ಮೇಲೆ ಬೇರೆ ಬೇರೆ ರೀತಿಯಲ್ಲಿ ಬಲ ಪ್ರಯೋಗಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸುವುದು. ಸಿದ್ಧರಿದ್ದೀರಾ? ಹಾಗಾದರೆ, ಶುರು ಮಾಡೋಣ.",
+  "display_bullets": [
+    "ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು: ರಬ್ಬರ್ ಚೆಂಡು, ಅಳತೆಪಟ್ಟಿ.",
+    "ಗುರಿ: ವಸ್ತುವಿನ ಚಲನೆಯ ಸ್ಥಿತಿಯ ಮೇಲೆ ಬಲದ ಪರಿಣಾಮವನ್ನು ಅಧ್ಯಯನ ಮಾಡುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing the apparatus for the experiment: a rubber ball and a ruler placed on a flat, level surface. The setup should look clean and easy to understand.",
+    "labels": "ರಬ್ಬರ್ ಚೆಂಡು, ಅಳತೆಪಟ್ಟಿ, ಸಮತಟ್ಟಾದ ನೆಲ",
+    "scientific_significance": "Illustrates the basic setup for observing the effects of force on an object's motion.",
+    "placeholder_note": "Image to be generated showing a ball and a ruler on the floor."
+  },
+  "chunk_id": "std_8_chapter_8_concept_3_chunk_012"
+}

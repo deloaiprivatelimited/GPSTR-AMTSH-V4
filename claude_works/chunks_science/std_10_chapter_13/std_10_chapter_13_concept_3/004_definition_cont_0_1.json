@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಆಹಾರ ಸರಪಳಿ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಕಾಡಿನ ಪರಿಸರ ವ್ಯವಸ್ಥೆಯನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಇಲ್ಲಿ, ಸಸ್ಯಗಳು ಸೂರ್ಯನ ಬೆಳಕಿನಿಂದ ತಮ್ಮ ಆಹಾರವನ್ನು ತಾವೇ ತಯಾರಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಆದ್ದರಿಂದ ಅವುಗಳನ್ನು ಉತ್ಪಾದಕರು ಎನ್ನುತ್ತೇವೆ. ನಂತರ, ಒಂದು ಜಿಂಕೆ ಬಂದು ಈ ಸಸ್ಯಗಳನ್ನು ತಿನ್ನುತ್ತದೆ. ಇಲ್ಲಿ ಜಿಂಕೆ ಪ್ರಾಥಮಿಕ ಭಕ್ಷಕ. ಮುಂದೆ, ಒಂದು ಹುಲಿ ಆ ಜಿಂಕೆಯನ್ನು ಬೇಟೆಯಾಡಿ ತಿನ್ನುತ್ತದೆ. ಹೀಗಾಗಿ, ಹುಲಿ ದ್ವಿತೀಯಕ ಭಕ್ಷಕವಾಗುತ್ತದೆ. ಈ ಸಸ್ಯ, ಜಿಂಕೆ ಮತ್ತು ಹುಲಿಯ ಸರಳ ಸರಣಿಯೇ ಆಹಾರ ಸರಪಳಿ. ಇಲ್ಲಿ ಶಕ್ತಿಯು ಸಸ್ಯದಿಂದ ಜಿಂಕೆಗೆ, ಮತ್ತು ಜಿಂಕೆಯಿಂದ ಹುಲಿಗೆ ವರ್ಗಾವಣೆಯಾಗುವುದನ್ನು ನಾವು ಗಮನಿಸಬಹುದು.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಕಾಡಿನ ಪರಿಸರ ವ್ಯವಸ್ಥೆಯನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಇಲ್ಲಿ, ಸಸ್ಯಗಳು (ಉತ್ಪಾದಕರು) ಸೂರ್ಯನ ಬೆಳಕಿನಿಂದ ತಮ್ಮ ಆಹಾರವನ್ನು ತಾವೇ ತಯಾರಿಸಿಕೊಳ್ಳುತ್ತವೆ. ನಂತರ, ಒಂದು ಜಿಂಕೆ (ಪ್ರಾಥಮಿಕ ಭಕ್ಷಕ) ಬಂದು ಈ ಸಸ್ಯಗಳನ್ನು ತಿನ್ನುತ್ತದೆ. ಮುಂದೆ, ಒಂದು ಹುಲಿ (ದ್ವಿತೀಯಕ ಭಕ್ಷಕ) ಆ ಜಿಂಕೆಯನ್ನು ಬೇಟೆಯಾಡಿ ತಿನ್ನುತ್ತದೆ. ಈ ಸಸ್ಯ → ಜಿಂಕೆ → ಹುಲಿ ಸರಣಿಯೇ ಆಹಾರ ಸರಪಳಿ. ಇಲ್ಲಿ ಶಕ್ತಿಯು ಸಸ್ಯದಿಂದ ಜಿಂಕೆಗೆ, ಮತ್ತು ಜಿಂಕೆಯಿಂದ ಹುಲಿಗೆ ವರ್ಗಾವಣೆಯಾಗುವುದನ್ನು ನಾವು ಗಮನಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: ಸಸ್ಯ → ಜಿಂಕೆ → ಹುಲಿ",
+    "ಸಸ್ಯ: ಉತ್ಪಾದಕ (Producer)",
+    "ಜಿಂಕೆ: ಪ್ರಾಥಮಿಕ ಭಕ್ಷಕ (Primary Consumer)",
+    "ಹುಲಿ: ದ್ವಿತೀಯಕ ಭಕ್ಷಕ (Secondary Consumer)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a food chain in a forest. An arrow points from a plant to a deer, and another arrow points from the deer to a tiger. Labels: ಸಸ್ಯ (ಉತ್ಪಾದಕ), ಜಿಂಕೆ (ಪ್ರಾಥಮಿಕ ಭಕ್ಷಕ), ಹುಲಿ (ದ್ವಿತೀಯಕ ಭಕ್ಷಕ).",
+    "labels": "ಸಸ್ಯ, ಜಿಂಕೆ, ಹುಲಿ, ಉತ್ಪಾದಕ, ಪ್ರಾಥಮಿಕ ಭಕ್ಷಕ, ದ್ವಿತೀಯಕ ಭಕ್ಷಕ",
+    "scientific_significance": "Illustrates a simple, linear flow of energy in a forest ecosystem, representing a basic food chain.",
+    "placeholder_note": "Image to be generated based on the description. It should match the style of 'ಚಿತ್ರ 13.1 (a)' from the module context."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_13_concept_3_chunk_004"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಭಾಗ (i): ಗೋಲಿಗಳ ಸಮಸ್ಯೆ",
+  "script": "ಮೊದಲನೇ ಭಾಗವನ್ನು ಬಿಡಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ಜಾನ್ ಬಳಿಯಿರುವ ಗೋಲಿಗಳ ಸಂಖ್ಯೆಯನ್ನು x ಎಂದು ಭಾವಿಸೋಣ. ಇದು ನಮ್ಮ ಚರಾಕ್ಷರ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಜೀವಂತಿ ಬಳಿಯಿರುವ ಗೋಲಿಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇಬ್ಬರ ಬಳಿ ಒಟ್ಟು 45 ಗೋಲಿಗಳಿರುವುದರಿಂದ, ಜೀವಂತಿ ಬಳಿ 45 ಮೈನಸ್ x ಗೋಲಿಗಳಿರುತ್ತವೆ.",
+  "script_display": "ಮೊದಲನೇ ಭಾಗವನ್ನು ಬಿಡಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ಜಾನ್ ಬಳಿಯಿರುವ ಗೋಲಿಗಳ ಸಂಖ್ಯೆಯನ್ನು $x$ ಎಂದು ಭಾವಿಸೋಣ. ಇದು ನಮ್ಮ ಚರಾಕ್ಷರ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಜೀವಂತಿ ಬಳಿಯಿರುವ ಗೋಲಿಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇಬ್ಬರ ಬಳಿ ಒಟ್ಟು 45 ಗೋಲಿಗಳಿರುವುದರಿಂದ, ಜೀವಂತಿ ಬಳಿ $45 - x$ ಗೋಲಿಗಳಿರುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "text_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-QUAD-4_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಜಾನ್ ಬಳಿ ಇರುವ ಗೋಲಿಗಳು = $x$",
+      "justification": "ಸಮಸ್ಯೆಯಲ್ಲಿರುವ ಒಂದು ಅಜ್ಞಾತ ರಾಶಿಯನ್ನು ಚರಾಕ್ಷರವಾಗಿ ತೆಗೆದುಕೊಳ್ಳುವುದು ಮೊದಲ ಹಂತ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಜೀವಂತಿ ಬಳಿ ಇರುವ ಗೋಲಿಗಳು = $45 - x$",
+      "justification": "ಇಬ್ಬರ ಬಳಿ ಒಟ್ಟು 45 ಗೋಲಿಗಳಿವೆ."
+    }
+  ],
+  "chunk_id": "ALG-QUAD-4_concept_1_chunk_014"
+}

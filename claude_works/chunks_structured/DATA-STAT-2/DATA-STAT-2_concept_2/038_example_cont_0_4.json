@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಈ ದತ್ತಾಂಶದ ಪ್ರಕಾರ, ವಿದ್ಯಾರ್ಥಿಗಳು ಗಣಿತದಲ್ಲಿ ಪಡೆದ ಸರಾಸರಿ ಅಂಕಗಳು 62. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಅಂಶವೆಂದರೆ, ಹಂತ ವಿಚಲನಾ ವಿಧಾನವು ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳ ಲೆಕ್ಕಾಚಾರವನ್ನು ಹೇಗೆ ಸರಳಗೊಳಿಸುತ್ತದೆ, ವಿಶೇಷವಾಗಿ ಎಲ್ಲಾ ವರ್ಗಾಂತರಗಳ ಗಾತ್ರವು ಸಮವಾಗಿದ್ದಾಗ ಇದು ಬಹಳ ಉಪಯುಕ್ತ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಈ ದತ್ತಾಂಶದ ಪ್ರಕಾರ, ವಿದ್ಯಾರ್ಥಿಗಳು ಗಣಿತದಲ್ಲಿ ಪಡೆದ ಸರಾಸರಿ ಅಂಕಗಳು 62. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಅಂಶವೆಂದರೆ, ಹಂತ ವಿಚಲನಾ ವಿಧಾನವು ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳ ಲೆಕ್ಕಾಚಾರವನ್ನು ಹೇಗೆ ಸರಳಗೊಳಿಸುತ್ತದೆ, ವಿಶೇಷವಾಗಿ ಎಲ್ಲಾ ವರ್ಗಾಂತರಗಳ ಗಾತ್ರವು ಸಮವಾಗಿದ್ದಾಗ ಇದು ಬಹಳ ಉಪಯುಕ್ತ.",
+  "display_bullets": [
+    "ವಿದ್ಯಾರ್ಥಿಗಳು ಪಡೆದ ಸರಾಸರಿ ಅಂಕಗಳು 62.",
+    "ಹಂತ ವಿಚಲನಾ ವಿಧಾನವು ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳ ಲೆಕ್ಕಾಚಾರವನ್ನು ಸರಳಗೊಳಿಸುತ್ತದೆ, ವಿಶೇಷವಾಗಿ ವರ್ಗಾಂತರದ ಗಾತ್ರವು ಸಮವಾಗಿದ್ದಾಗ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_highlight",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸರಾಸರಿ ಅಂಕಗಳು } (\\bar{x}) = 62",
+    "placeholder_note": "A box highlighting the final answer."
+  },
+  "source_example_id": "DATA-STAT-2_example_3",
+  "steps": [],
+  "final_answer": "ವಿದ್ಯಾರ್ಥಿಗಳು ಪಡೆದ ಸರಾಸರಿ ಅಂಕಗಳು 62.",
+  "final_answer_display": "ವಿದ್ಯಾರ್ಥಿಗಳು ಪಡೆದ ಸರಾಸರಿ ಅಂಕಗಳು 62.",
+  "chunk_id": "DATA-STAT-2_concept_2_chunk_038"
+}

@@ -1,0 +1,191 @@
+{
+  "module_id": "std_10_chapter_11_concept_2",
+  "chapter_code": "std_10_chapter_11",
+  "voice": "Aoede",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 16,
+  "ok_count": 16,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:22:08",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "53e0480c3569926a2429903d74b39e95",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 17.251,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 29,
+      "generated_at": "2026-04-02 11:18:54"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "19ede83de3e645bd8af4dc66fff5baf9",
+      "wav_file": "003_definition_0.wav",
+      "duration": 45.811,
+      "slide_title": "ವಿಭವಾಂತರ: ಒಂದು ಹೋಲಿಕೆ",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 11:19:12"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "84446be961e71d21031a352f1c8c5e99",
+      "wav_file": "001_intro_0.wav",
+      "duration": 55.851,
+      "slide_title": "ವಿದ್ಯುತ್ ವಿಭವ ಮತ್ತು ವಿಭವಾಂತರ",
+      "type": "intro",
+      "script_words": 80,
+      "generated_at": "2026-04-02 11:19:23"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "a14e9797024b0821b59fa96455929259",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 37.171,
+      "slide_title": "ವ್ಯಾಖ್ಯೆ: ವಿಭವಾಂತರ (Potential Difference)",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 11:19:26"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "44594aabd145a168f3026580e0fcf53c",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 36.851,
+      "slide_title": "ವ್ಯಾಖ್ಯೆ: 1 ವೋಲ್ಟ್",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-04-02 11:19:27"
+    },
+    "010_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "522253ed0193e9ac7da921cb17fbc890",
+      "wav_file": "010_formula_cont_0_1.wav",
+      "duration": 31.331,
+      "slide_title": "ಉದಾಹರಣೆ: ವಿಭವಾಂತರದ ಲೆಕ್ಕಾಚಾರ",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 11:20:05"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "29c0b194a0acfcf49be73d90573e1c1a",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 43.051,
+      "slide_title": "ಸೂತ್ರ ಮತ್ತು ಏಕಮಾನ",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 11:20:10"
+    },
+    "007_definition_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "c7c7dca19b9a4ee3fddc8d4127067371",
+      "wav_file": "007_definition_1.wav",
+      "duration": 46.011,
+      "slide_title": "ವ್ಯಾಖ್ಯೆ: 1 ವೋಲ್ಟ್ (Volt)",
+      "type": "definition",
+      "script_words": 67,
+      "generated_at": "2026-04-02 11:20:13"
+    },
+    "009_formula_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "51d89dd54b72cde88680cb663dede7fd",
+      "wav_file": "009_formula_0.wav",
+      "duration": 38.611,
+      "slide_title": "ವಿಭವಾಂತರದ ಸೂತ್ರ",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 11:20:27"
+    },
+    "008_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "c6d1867f30cc7049281e42c3d119d4a9",
+      "wav_file": "008_definition_cont_1_1.wav",
+      "duration": 53.571,
+      "slide_title": "ವೋಲ್ಟ್: ಸೂತ್ರ ಮತ್ತು ಸಂಬಂಧ",
+      "type": "definition",
+      "script_words": 82,
+      "generated_at": "2026-04-02 11:20:40"
+    },
+    "015_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "47c935dc13dcb8bb76229e7d60bf275f",
+      "wav_file": "015_example_cont_0_2.wav",
+      "duration": 16.651,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 26,
+      "generated_at": "2026-04-02 11:20:53"
+    },
+    "014_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "5f98831725ea7739e24cb15c975d7d27",
+      "wav_file": "014_example_cont_0_1.wav",
+      "duration": 41.531,
+      "slide_title": "ಪರಿಹಾರದ ಹಂತಗಳು",
+      "type": "worked_example",
+      "script_words": 62,
+      "generated_at": "2026-04-02 11:21:10"
+    },
+    "012_formula_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "44590094e4e60ddd125441121bd8fe68",
+      "wav_file": "012_formula_cont_0_3.wav",
+      "duration": 47.531,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 11:21:11"
+    },
+    "011_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "a958551abb13cb3e69927de15cad4921",
+      "wav_file": "011_formula_cont_0_2.wav",
+      "duration": 34.611,
+      "slide_title": "ಉದಾಹರಣೆ: ಪರಿಹಾರ",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 11:21:25"
+    },
+    "016_recap_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "3ec9314b075d1b269d94b28c6cf2402a",
+      "wav_file": "016_recap_0.wav",
+      "duration": 31.491,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 43,
+      "generated_at": "2026-04-02 11:21:26"
+    },
+    "013_example_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "900d40be412aafa9cdf712a60b74a43f",
+      "wav_file": "013_example_0.wav",
+      "duration": 30.251,
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಸಮಸ್ಯೆ",
+      "type": "worked_example",
+      "script_words": 40,
+      "generated_at": "2026-04-02 11:22:08"
+    }
+  }
+}

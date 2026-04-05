@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಜಾರು ಘರ್ಷಣೆ ಏಕೆ ಕಡಿಮೆಯಿರುತ್ತದೆ?",
+  "script": "ಈಗ, ಕಪಾಟು ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸಿದೆ. ಚಲಿಸುತ್ತಿರುವಾಗ, ಮೇಲ್ಮೈಗಳಲ್ಲಿನ ಅನಿಯತಗಳಿಗೆ ಮತ್ತೆ ಮೊದಲಿನಂತೆ ಬಿಗಿಯಾಗಿ ಬಂಧಿಸಿಕೊಳ್ಳಲು ಸಾಕಷ್ಟು ಸಮಯ ಸಿಗುವುದಿಲ್ಲ. ಅವು ಒಂದರ ಮೇಲೊಂದು ವೇಗವಾಗಿ ಜಾರಿಕೊಂಡು ಹೋಗುತ್ತವೆ. ಇದರಿಂದಾಗಿ, ಚಲನೆಯನ್ನು ಮುಂದುವರಿಸಲು ಬೇಕಾದ ಬಲವು, ಆರಂಭದಲ್ಲಿ ಚಲನೆಗೆ ತರಲು ಬೇಕಾದ ಬಲಕ್ಕಿಂತ ಕಡಿಮೆಯಿರುತ್ತದೆ. ಈ ಚಲನೆಯಲ್ಲಿರುವಾಗ ಉಂಟಾಗುವ ಘರ್ಷಣೆಯೇ ಜಾರು ಘರ್ಷಣೆ. ಆದ್ದರಿಂದ, ಜಾರು ಘರ್ಷಣೆಯು ಸ್ಥಾಯಿ ಘರ್ಷಣೆಗಿಂತ ಯಾವಾಗಲೂ ಕಡಿಮೆಯಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ, ಕಪಾಟು ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸಿದೆ. ಚಲಿಸುತ್ತಿರುವಾಗ, ಮೇಲ್ಮೈಗಳಲ್ಲಿನ ಅನಿಯತಗಳಿಗೆ ಮತ್ತೆ ಮೊದಲಿನಂತೆ ಬಿಗಿಯಾಗಿ ಬಂಧಿಸಿಕೊಳ್ಳಲು ಸಾಕಷ್ಟು ಸಮಯ ಸಿಗುವುದಿಲ್ಲ. ಅವು ಒಂದರ ಮೇಲೊಂದು ವೇಗವಾಗಿ ಜಾರಿಕೊಂಡು ಹೋಗುತ್ತವೆ. ಇದರಿಂದಾಗಿ, ಚಲನೆಯನ್ನು ಮುಂದುವರಿಸಲು ಬೇಕಾದ ಬಲವು, ಆರಂಭದಲ್ಲಿ ಚಲನೆಗೆ ತರಲು ಬೇಕಾದ ಬಲಕ್ಕಿಂತ ಕಡಿಮೆಯಿರುತ್ತದೆ. ಈ ಚಲನೆಯಲ್ಲಿರುವಾಗ ಉಂಟಾಗುವ ಘರ್ಷಣೆಯೇ ಜಾರು ಘರ್ಷಣೆ (Sliding Friction). ಆದ್ದರಿಂದ, ಜಾರು ಘರ್ಷಣೆಯು ಸ್ಥಾಯಿ ಘರ್ಷಣೆಗಿಂತ ಯಾವಾಗಲೂ ಕಡಿಮೆಯಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ವಸ್ತು ಚಲಿಸುತ್ತಿರುವಾಗ, ಮೇಲ್ಮೈಗಳಿಗೆ ಇಂಟರ್‌ಲಾಕ್ ಆಗಲು ಸಮಯ ಸಿಗುವುದಿಲ್ಲ.",
+    "ಚಲನೆಯನ್ನು ಮುಂದುವರಿಸಲು ಕಡಿಮೆ ಬಲ ಸಾಕು.",
+    "ಆದ್ದರಿಂದ, ಜಾರು ಘರ್ಷಣೆ < ಸ್ಥಾಯಿ ಘರ್ಷಣೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_dark_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same person now successfully pushing the sliding cupboard. The magnified inset view shows the irregularities of the two surfaces sliding past each other, with less interlocking than the static friction diagram.",
+    "labels": "ಚಲಿಸುತ್ತಿರುವ ಕಪಾಟು, ಜಾರು ಘರ್ಷಣೆ, ಜಾರುತ್ತಿರುವ ಮೇಲ್ಮೈಗಳು",
+    "scientific_significance": "Visually contrasts with static friction, showing that moving surfaces have less time to interlock, resulting in lower friction.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_9_concept_2_chunk_006"
+}

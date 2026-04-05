@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅವಧ್ವನಿ (Infrasound)",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ಅವಧ್ವನಿ ಅಥವಾ ಇನ್ಫ್ರಾಸೌಂಡ್ ಬಗ್ಗೆ ನೋಡೋಣ. ಇಪ್ಪತ್ತು ಹರ್ಟ್ಸ್ ಗಿಂತ ಕಡಿಮೆ ಆವೃತ್ತಿ ಇರುವ ಶಬ್ದವನ್ನು ಅವಧ್ವನಿ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಶಬ್ದವನ್ನು ಮಾನವರಾದ ನಾವು ಕೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇದಕ್ಕೆ ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡುವುದಾದರೆ, ಭೂಕಂಪಗಳು ಮತ್ತು ಜ್ವಾಲಾಮುಖಿ ಸ್ಫೋಟಗಳಂತಹ ನೈಸರ್ಗಿಕ ಘಟನೆಗಳು ಅವಧ್ವನಿಯನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಪ್ರಾಣಿ ಪ್ರಪಂಚದಲ್ಲಿ, ಘೇಂಡಾಮೃಗಗಳು ಸುಮಾರು ಐದು ಹರ್ಟ್ಸ್ ಆವೃತ್ತಿಯಲ್ಲಿ ಸಂವಹನ ನಡೆಸುತ್ತವೆ. ಹಾಗೆಯೇ ಆನೆಗಳು ಮತ್ತು ತಿಮಿಂಗಿಲಗಳು ಕೂಡ ದೂರದ ಸಂವಹನಕ್ಕಾಗಿ ಅವಧ್ವನಿಯನ್ನು ಬಳಸುತ್ತವೆ.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ಅವಧ್ವನಿ (Infrasound) ಬಗ್ಗೆ ನೋಡೋಣ. 20 Hz ಗಿಂತ ಕಡಿಮೆ ಆವೃತ್ತಿ ಇರುವ ಶಬ್ದವನ್ನು ಅವಧ್ವನಿ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಶಬ್ದವನ್ನು ಮಾನವರಾದ ನಾವು ಕೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇದಕ್ಕೆ ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡುವುದಾದರೆ, ಭೂಕಂಪಗಳು ಮತ್ತು ಜ್ವಾಲಾಮುಖಿ ಸ್ಫೋಟಗಳಂತಹ ನೈಸರ್ಗಿಕ ಘಟನೆಗಳು ಅವಧ್ವನಿಯನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಪ್ರಾಣಿ ಪ್ರಪಂಚದಲ್ಲಿ, ಘೇಂಡಾಮೃಗಗಳು ಸುಮಾರು 5 Hz ಆವೃತ್ತಿಯಲ್ಲಿ ಸಂವಹನ ನಡೆಸುತ್ತವೆ. ಹಾಗೆಯೇ ಆನೆಗಳು ಮತ್ತು ತಿಮಿಂಗಿಲಗಳು ಕೂಡ ದೂರದ ಸಂವಹನಕ್ಕಾಗಿ ಅವಧ್ವನಿಯನ್ನು ಬಳಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯಾನ: 20 Hz ಗಿಂತ ಕಡಿಮೆ ಆವೃತ್ತಿಯ ಶಬ್ದ.",
+    "ಮಾನವನ ಶ್ರವಣ: ಕೇಳಿಸುವುದಿಲ್ಲ.",
+    "ಉದಾಹರಣೆಗಳು: ಭೂಕಂಪ, ಜ್ವಾಲಾಮುಖಿ, ಘೇಂಡಾಮೃಗಗಳು, ಆನೆಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of a rhinoceros and an elephant. Low-frequency sound waves (represented by wide, spread-out waves) are shown originating from them. Text labels indicate 'Infrasound' and 'below 20 Hz'.",
+    "labels": "Rhinoceros, Elephant, Infrasound waves, < 20 Hz",
+    "scientific_significance": "Shows animals that use infrasound for communication over long distances.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_11_concept_7_chunk_006"
+}

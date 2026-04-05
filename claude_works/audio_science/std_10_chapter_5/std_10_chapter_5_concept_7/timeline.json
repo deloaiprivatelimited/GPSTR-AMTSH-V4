@@ -1,0 +1,46 @@
+{
+  "module_id": "std_10_chapter_5_concept_7",
+  "chapter_code": "std_10_chapter_5",
+  "voice": "Schedar",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 111.713,
+  "total_duration_formatted": "1:51",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_5_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಮಾನವನಲ್ಲಿ ಸಾಗಾಣಿಕೆ - ರಕ್ತಪರಿಚಲನಾ ವ್ಯವಸ್ಥೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 47.531,
+      "duration": 47.531,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "std_10_chapter_5_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 48.131,
+      "end": 75.102,
+      "duration": 26.971,
+      "script_words": 34
+    },
+    {
+      "chunk_id": "std_10_chapter_5_concept_7_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಮಾನವನಲ್ಲಿ ಸಾಗಾಣಿಕೆ",
+      "type": "recap",
+      "start": 75.702,
+      "end": 111.113,
+      "duration": 35.411,
+      "script_words": 47
+    }
+  ]
+}

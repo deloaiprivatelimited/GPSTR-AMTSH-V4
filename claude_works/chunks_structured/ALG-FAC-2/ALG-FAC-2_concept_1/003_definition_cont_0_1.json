@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಖ್ಯೆಗಳ ಅಪವರ್ತನಗಳು: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಂಖ್ಯೆ ಮೂವತ್ತನ್ನು ಪರಿಗಣಿಸಿ. ಮೂವತ್ತರ ಅಪವರ್ತನಗಳು ಯಾವುವು? ಅಂದರೆ, ಯಾವ ಸಂಖ್ಯೆಗಳಿಂದ ಮೂವತ್ತನ್ನು ಭಾಗಿಸಿದಾಗ ಶೇಷ ಸೊನ್ನೆ ಬರುತ್ತದೆ? ಆ ಸಂಖ್ಯೆಗಳೆಂದರೆ ಒಂದು, ಎರಡು, ಮೂರು, ಐದು, ಆರು, ಹತ್ತು, ಹದಿನೈದು, ಮತ್ತು ಮೂವತ್ತು. ಈ ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳು ಮೂವತ್ತರ ಅಪವರ್ತನಗಳು. ಉದಾಹರಣೆಗೆ, ಮೂವತ್ತನ್ನು ಐದರಿಂದ ಭಾಗಿಸಿದರೆ, ಭಾಗಲಬ್ಧ ಆರು ಬರುತ್ತದೆ ಮತ್ತು ಶೇಷ ಸೊನ್ನೆ. ಆದರೆ, ಮೂವತ್ತನ್ನು ಏಳರಿಂದ ಭಾಗಿಸಿದರೆ, ಶೇಷ ಎರಡು ಉಳಿಯುತ್ತದೆ. ಆದ್ದರಿಂದ, ಏಳು ಮೂವತ್ತರ ಅಪವರ್ತನವಲ್ಲ.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಂಖ್ಯೆ $30$ನ್ನು ಪರಿಗಣಿಸಿ. $30$ರ ಅಪವರ್ತನಗಳು ಯಾವುವು? ಅಂದರೆ, ಯಾವ ಸಂಖ್ಯೆಗಳಿಂದ $30$ನ್ನು ಭಾಗಿಸಿದಾಗ ಶೇಷ ಸೊನ್ನೆ ಬರುತ್ತದೆ? ಆ ಸಂಖ್ಯೆಗಳೆಂದರೆ $1, 2, 3, 5, 6, 10, 15,$ ಮತ್ತು $30$. ಈ ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳು $30$ರ ಅಪವರ್ತನಗಳು. ಉದಾಹರಣೆಗೆ, $30 \\div 5 = 6$ (ಶೇಷ $0$). ಆದರೆ, $30 \\div 7$ ಮಾಡಿದಾಗ ಶೇಷ $2$ ಉಳಿಯುತ್ತದೆ. ಆದ್ದರಿಂದ, $7$ ಎಂಬುದು $30$ರ ಅಪವರ್ತನವಲ್ಲ.",
+  "display_bullets": [
+    "ಸಂಖ್ಯೆ 30ನ್ನು ಪರಿಗಣಿಸಿ.",
+    "ಅಪವರ್ತನಗಳು: $1, 2, 3, 5, 6, 10, 15, 30$. (ಈ ಸಂಖ್ಯೆಗಳಿಂದ ಭಾಗಿಸಿದಾಗ ಶೇಷ $0$)",
+    "ಅಪವರ್ತನವಲ್ಲದ ಸಂಖ್ಯೆ: $7$. ($30 \\div 7$ ಮಾಡಿದಾಗ ಶೇಷ $2$)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "classic_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A simple table showing 30 divided by 5 and 30 divided by 7, highlighting the remainder in each case. First row: 30 / 5 = 6, Remainder = 0 (Factor). Second row: 30 / 7 = 4, Remainder = 2 (Not a Factor). Use checkmark and cross mark icons for visual clarity. Caption: 'ಅಪವರ್ತನ' ಮತ್ತು 'ಅಪವರ್ತನವಲ್ಲದ' ಸಂಖ್ಯೆಗಳ ಹೋಲಿಕೆ (Comparison of a factor and a non-factor). "
+  },
+  "chunk_id": "ALG-FAC-2_concept_1_chunk_003"
+}

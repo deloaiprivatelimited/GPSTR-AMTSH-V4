@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಈಗ, ಎಲ್ಲಾ ಪದಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ಅಂತಿಮ ಉತ್ತರವನ್ನು ಬರೆಯೋಣ. ನಮಗೆ ಸಿಕ್ಕಿದ ಪದಗಳನ್ನು ಜೋಡಿಸಿದಾಗ, ಮೊತ್ತವು ಐದು ಎಕ್ಸ್ ವೈ ಪ್ಲಸ್ ಒಂಬತ್ತು ವೈ ಜೆಡ್ ಪ್ಲಸ್ ಮೂರು ಜೆಡ್ ಎಕ್ಸ್ ಪ್ಲಸ್ ಐದು ಎಕ್ಸ್ ಮೈನಸ್ ನಾಲ್ಕು ವೈ ಆಗುತ್ತದೆ. ಇಲ್ಲಿ ಒಂದು ಮುಖ್ಯವಾದ ವಿಷಯವನ್ನು ಗಮನಿಸಿ. ಮೈನಸ್ ನಾಲ್ಕು ವೈ ಮತ್ತು ಐದು ಎಕ್ಸ್ ಪದಗಳಿಗೆ ಸಜಾತಿ ಪದಗಳಿಲ್ಲದ ಕಾರಣ ಅವುಗಳನ್ನು ಹಾಗೆಯೇ ಉತ್ತರದಲ್ಲಿ ಸೇರಿಸಲಾಗಿದೆ. ಇದನ್ನು ಮರೆಯಬಾರದು.",
+  "script_display": "ಈಗ, ಎಲ್ಲಾ ಪದಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ಅಂತಿಮ ಉತ್ತರವನ್ನು ಬರೆಯೋಣ. ನಮಗೆ ಸಿಕ್ಕಿದ ಪದಗಳನ್ನು ಜೋಡಿಸಿದಾಗ, ಮೊತ್ತವು $5xy + 9yz + 3zx + 5x - 4y$ ಆಗುತ್ತದೆ. ಇಲ್ಲಿ ಒಂದು ಮುಖ್ಯವಾದ ವಿಷಯವನ್ನು ಗಮನಿಸಿ. $-4y$ ಮತ್ತು $5x$ ಪದಗಳಿಗೆ ಸಜಾತಿ ಪದಗಳಿಲ್ಲದ ಕಾರಣ ಅವುಗಳನ್ನು ಹಾಗೆಯೇ ಉತ್ತರದಲ್ಲಿ ಸೇರಿಸಲಾಗಿದೆ. ಇದನ್ನು ಮರೆಯಬಾರದು.",
+  "display_bullets": [
+    "ಎಲ್ಲಾ ಪದಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ಅಂತಿಮ ಉತ್ತರವನ್ನು ಬರೆಯುವುದು.",
+    "ಅಂತಿಮ ಮೊತ್ತ: $5xy + 9yz + 3zx + 5x - 4y$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\begin{array}{rrrrrr}\n & 7xy & +5yz & -3zx & & \\\\\n & & +4yz & +9zx & -4y & \\\\\n & -2xy & & -3xz & & +5x \\\\\n\\hline\n & 5xy & +9yz & +3zx & -4y & +5x\n\\end{array}",
+    "placeholder_note": "Final calculation showing the column-wise addition of the expressions, with a line separating the problem from the solution."
+  },
+  "source_example_id": "ALG-EXP-2_example_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಎಲ್ಲಾ ಪದಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ಅಂತಿಮ ಉತ್ತರವನ್ನು ಬರೆಯುವುದು.",
+      "justification": "ಸಂಕಲನದ ಫಲಿತಾಂಶವನ್ನು ಬರೆಯುವುದು."
+    }
+  ],
+  "final_answer": "5xy + 9yz + 3zx + 5x - 4y",
+  "final_answer_display": "ಬೀಜೋಕ್ತಿಗಳ ಮೊತ್ತವು $5xy + 9yz + 3zx + 5x - 4y$ ಆಗಿದೆ.",
+  "exam_tip": {
+    "question_pattern": "2-mark",
+    "skill_tested": "ಸಜಾತಿ ಪದಗಳನ್ನು ಗುರುತಿಸಿ, ಅವುಗಳ ಸಹಗುಣಕಗಳನ್ನು ಸರಿಯಾದ ಚಿಹ್ನೆಗಳೊಂದಿಗೆ ಕೂಡಿಸುವುದು.",
+    "distractor": "ಸಜಾತಿ ಪದಗಳಿಲ್ಲದ ಪದಗಳನ್ನು (ಉದಾ: -4y, 5x) ಉತ್ತರದಲ್ಲಿ ಸೇರಿಸಲು ಮರೆಯುವುದು.",
+    "why_distractor_works": "ವಿದ್ಯಾರ್ಥಿಗಳು ಕೇವಲ ಕಾಲಂಗಳಲ್ಲಿರುವ ಪದಗಳನ್ನು ಮಾತ್ರ ಕೂಡಿಸಿ, ಒಂಟಿಯಾಗಿರುವ ಪದಗಳನ್ನು ಬಿಟ್ಟುಬಿಡುವ ಸಾಧ್ಯತೆ ಇರುತ್ತದೆ."
+  },
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "ALG-EXP-2_concept_2_chunk_008"
+}

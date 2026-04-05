@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರದ ನಿಷ್ಪತ್ತಿ (ಭಾಗ 1)",
+  "script": "ಈ ಸೂತ್ರ ಹೇಗೆ ಬಂತು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಸಿಲಿಂಡರ್‌ನ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವೆಂದರೆ, ಅದರ ಎಲ್ಲಾ ಭಾಗಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಮೊತ್ತ. ಇದರಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಭಾಗಗಳಿವೆ. ಮೊದಲನೆಯದು, ಅದರ ವಕ್ರ ಮೇಲ್ಮೈ, ಅಂದರೆ ಬಾಗಿದ ಭಾಗ. ಎರಡನೆಯದು, ಅದರ ಮೇಲಿನ ಮತ್ತು ಕೆಳಗಿನ ಎರಡು ವೃತ್ತಾಕಾರದ ಪಾದಗಳು. ಆದ್ದರಿಂದ, ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಎರಡು ವೃತ್ತಾಕಾರದ ಪಾದಗಳ ವಿಸ್ತೀರ್ಣದ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ನಾವು ಹಿಂದಿನ ಪಾಠದಲ್ಲಿ ಕಲಿತಂತೆ, ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವು ಎರಡು ಪೈ ಆರ್ ಎಚ್ ಆಗಿದೆ ಮತ್ತು ಒಂದು ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ ಪೈ ಆರ್ ಸ್ಕ್ವೇರ್ ಆಗಿದೆ.",
+  "script_display": "ಈ ಸೂತ್ರ ಹೇಗೆ ಬಂತು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಸಿಲಿಂಡರ್‌ನ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವೆಂದರೆ, ಅದರ ಎಲ್ಲಾ ಭಾಗಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಮೊತ್ತ. ಇದರಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಭಾಗಗಳಿವೆ:\n\n1.  ವಕ್ರ ಮೇಲ್ಮೈ (ಬಾಗಿದ ಭಾಗ)\n2.  ಮೇಲಿನ ಮತ್ತು ಕೆಳಗಿನ 2 ವೃತ್ತಾಕಾರದ ಪಾದಗಳು\n\n*   ಆದ್ದರಿಂದ, ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (TSA) = ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (LSA) + 2 × (ಪಾದದ ವಿಸ್ತೀರ್ಣ).\n*   ನಮಗೆ ತಿಳಿದಿದೆ, ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (LSA) = $2\\pi rh$.\n*   ಮತ್ತು, ಒಂದು ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ = $\\pi r^2$.",
+  "display_bullets": [
+    "ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (TSA) = ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (LSA) + 2 × (ಪಾದದ ವಿಸ್ತೀರ್ಣ)",
+    "ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (LSA) = 2πrh",
+    "ಒಂದು ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ = πr²"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "classic_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a cylinder being unrolled. The curved surface becomes a rectangle with sides 'h' and '2πr'. The top and bottom circular bases are shown separately. This visually represents that TSA = Area of rectangle + 2 * Area of circle.",
+    "labels": "h, r, 2πr, πr², 2πrh",
+    "mathematical_significance": "This deconstruction of a 3D cylinder into its 2D net is fundamental to understanding the origin of its surface area formula.",
+    "placeholder_note": "Image to be generated: Unrolled cylinder showing its net (2 circles and a rectangle)."
+  },
+  "chunk_id": "MEN-MEN-2_concept_2_chunk_040"
+}

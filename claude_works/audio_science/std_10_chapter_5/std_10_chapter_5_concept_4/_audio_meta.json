@@ -1,0 +1,48 @@
+{
+  "module_id": "std_10_chapter_5_concept_4",
+  "chapter_code": "std_10_chapter_5",
+  "voice": "Achernar",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 3,
+  "ok_count": 3,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:17:17",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "fe582039ae03e639058f5d4dd51bf957",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.731,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 39,
+      "generated_at": "2026-04-02 12:16:56"
+    },
+    "003_recap_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "6fd4d2ee5c74f843ad1176f3d2e6585e",
+      "wav_file": "003_recap_0.wav",
+      "duration": 41.891,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 44,
+      "generated_at": "2026-04-02 12:17:04"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "b2e04bde01f321941c244aa7a35b7630",
+      "wav_file": "001_intro_0.wav",
+      "duration": 62.411,
+      "slide_title": "ಮಾನವನ ಜೀರ್ಣಾಂಗವ್ಯೂಹ",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-04-02 12:17:17"
+    }
+  }
+}

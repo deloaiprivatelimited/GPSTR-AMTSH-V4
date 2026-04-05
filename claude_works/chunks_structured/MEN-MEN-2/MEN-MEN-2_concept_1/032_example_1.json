@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ವಜ್ರಾಕೃತಿಯ ವಿಸ್ತೀರ್ಣ 240 ಚದರ ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಒಂದು ಕರ್ಣದ ಉದ್ದ 16 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ನಾವು ಮತ್ತೊಂದು ಕರ್ಣದ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶಗಳೆಂದರೆ, ವಿಸ್ತೀರ್ಣ A ಸಮ 240 ಚದರ ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಮೊದಲ ಕರ್ಣ d ಒಂದು ಸಮ 16 ಸೆಂಟಿಮೀಟರ್. ನಾವು ಎರಡನೇ ಕರ್ಣ d ಎರಡನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ವಜ್ರಾಕೃತಿಯ ವಿಸ್ತೀರ್ಣ 240 ಚ.ಸೆಂ.ಮೀ ಮತ್ತು ಒಂದು ಕರ್ಣದ ಉದ್ದ 16 ಸೆಂ.ಮೀ. ಮತ್ತೊಂದು ಕರ್ಣದ ಉದ್ದವೆಷ್ಟು? ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶಗಳೆಂದರೆ: ವಿಸ್ತೀರ್ಣ $A = 240$ ಚ.ಸೆಂ.ಮೀ. ಮತ್ತು ಮೊದಲ ಕರ್ಣ $d_1 = 16$ ಸೆಂ.ಮೀ. ನಾವು ಎರಡನೇ ಕರ್ಣ $d_2$ ಅನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ವಜ್ರಾಕೃತಿಯ ವಿಸ್ತೀರ್ಣ ($A$) = 240 ಚ.ಸೆಂ.ಮೀ.",
+    "ದತ್ತಾಂಶ: ಒಂದು ಕರ್ಣ ($d_1$) = 16 ಸೆಂ.ಮೀ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಮತ್ತೊಂದು ಕರ್ಣ ($d_2$)."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ಒಂದು ವಜ್ರಾಕೃತಿಯ ವಿಸ್ತೀರ್ಣ 240 \\text{ ಚ.ಸೆಂ.ಮೀ} ಮತ್ತು ಒಂದು ಕರ್ಣದ ಉದ್ದ 16 \\text{ ಸೆಂ.ಮೀ}. \\\\ \\text{ಮತ್ತೊಂದು ಕರ್ಣದ ಉದ್ದವೆಷ್ಟು?}",
+    "placeholder_note": "Problem statement"
+  },
+  "source_example_id": "MEN-MEN-2_example_2",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "MEN-MEN-2_concept_1_chunk_032"
+}

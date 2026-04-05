@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಅಂತಿಮ ಉತ್ತರ ಎರಡು. ಅಂದರೆ, ಒಂದನ್ನು ಒಂದನೇ ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ ಎರಡು ಸಿಗುತ್ತದೆ. ಇದರ ಅರ್ಥ, ಒಂದು ಪೂರ್ಣ ವಸ್ತುವಿನಲ್ಲಿ ಎರಡು ಅರ್ಧ ಭಾಗಗಳಿವೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಒಂದು ಪೂರ್ತಿ ವೃತ್ತವನ್ನು ಎರಡು ಅರ್ಧ ವೃತ್ತಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು.",
+  "script_display": "ಹಾಗಾದರೆ, ಅಂತಿಮ ಉತ್ತರ $2$. ಅಂದರೆ, $1 \\div \\frac{1}{2} = 2$. ಇದರ ಅರ್ಥ, ಒಂದು ಪೂರ್ಣ ವಸ್ತುವಿನಲ್ಲಿ ಎರಡು ಅರ್ಧ ಭಾಗಗಳಿವೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಒಂದು ಪೂರ್ತಿ ವೃತ್ತವನ್ನು ಎರಡು ಅರ್ಧ ವೃತ್ತಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $1 \\div \\frac{1}{2} = 2$",
+    "ಅರ್ಥ: ಒಂದು ಪೂರ್ಣ ವಸ್ತುವಿನಲ್ಲಿ ಎರಡು ಅರ್ಧ ಭಾಗಗಳಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A circle representing a whole, divided into two equal semi-circles. Each semi-circle is labeled '1/2'. The diagram visually shows that there are two halves in one whole.",
+    "labels": "Whole, 1/2, 1/2",
+    "mathematical_significance": "Visual representation of 1 divided by 1/2, showing the result is 2.",
+    "placeholder_note": "Image to be generated: A circle cut into two equal halves, with each half labeled 1/2."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "NS-FRA-1_example_8",
+  "final_answer": "2",
+  "final_answer_display": "$1 \\div \\frac{1}{2} = 2$",
+  "chunk_id": "NS-FRA-1_concept_6_chunk_020"
+}

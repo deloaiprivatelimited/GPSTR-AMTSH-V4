@@ -1,0 +1,136 @@
+{
+  "module_id": "std_8_chapter_1_concept_5",
+  "chapter_code": "std_8_chapter_1",
+  "voice": "Aoede",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:37:55",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "02396058b6a71b300bd24ae1a04e61c9",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 27.011,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "intro",
+      "script_words": 39,
+      "generated_at": "2026-04-02 14:35:41"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "7d5e111fe62bbafdffff70917c03e724",
+      "wav_file": "003_definition_0.wav",
+      "duration": 41.011,
+      "slide_title": "ಪರಿಚಯ: ನೀರಾವರಿ",
+      "type": "definition",
+      "script_words": 50,
+      "generated_at": "2026-04-02 14:35:49"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "013c57f665e48e79bb9440a97eba5abc",
+      "wav_file": "001_intro_0.wav",
+      "duration": 53.651,
+      "slide_title": "ನೀರಾವರಿ ವಿಧಾನಗಳು",
+      "type": "intro",
+      "script_words": 68,
+      "generated_at": "2026-04-02 14:35:54"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "c9cee8b7af67216e6841284d1279b619",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 40.651,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ನೀರಾವರಿ (Irrigation)",
+      "type": "definition",
+      "script_words": 52,
+      "generated_at": "2026-04-02 14:36:04"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "73c09e21d9f1bdfabb76d445cad3e785",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 45.171,
+      "slide_title": "ನೀರಾವರಿ ಏಕೆ ಮುಖ್ಯ?",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-04-02 14:36:14"
+    },
+    "007_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "07dc0b848b2a10314599fbfd7df9d90d",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "duration": 37.371,
+      "slide_title": "ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 14:36:44"
+    },
+    "010_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "9e73bbd8431c971fe69ed5698d9d5597",
+      "wav_file": "010_classification_cont_0_4.wav",
+      "duration": 37.691,
+      "slide_title": "ಹನಿ ನೀರಾವರಿ ವಿಧಾನ (Drip System)",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 14:36:45"
+    },
+    "008_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "d77901913fcc66695a2baca0f0c2ccc3",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "duration": 38.051,
+      "slide_title": "ಆಧುನಿಕ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 14:36:46"
+    },
+    "009_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "0d71c1d67754cc53ae6362eb11e15bef",
+      "wav_file": "009_classification_cont_0_3.wav",
+      "duration": 41.771,
+      "slide_title": "ತುಂತುರು ವಿಧಾನ (Sprinkler System)",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 14:36:49"
+    },
+    "006_classification_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "40c22aba9ff13d5cd6036bcd334b2802",
+      "wav_file": "006_classification_0.wav",
+      "duration": 30.771,
+      "slide_title": "ನೀರಾವರಿ ವಿಧಾನಗಳ ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 39,
+      "generated_at": "2026-04-02 14:37:14"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "22085456efed949610a16980c320f505",
+      "wav_file": "011_recap_0.wav",
+      "duration": 40.651,
+      "slide_title": "ಸಾರಾಂಶ: ನೀರಾವರಿ ವಿಧಾನಗಳು",
+      "type": "recap",
+      "script_words": 50,
+      "generated_at": "2026-04-02 14:37:55"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಛೇದಕ ಪ್ರಮೇಯ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಎಲ್, ಎಂ, ಮತ್ತು ಎನ್ ಮೂರು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಪಿ ಮತ್ತು ಕ್ಯೂ ಎಂಬ ಎರಡು ಛೇದಕಗಳು ಛೇದಿಸುತ್ತಿವೆ. ಛೇದಕ ಪಿ ಮೇಲೆ ಉಂಟಾದ ಅಂತರ್ ಖಂಡಗಳು, ಅಂದರೆ ಎ ಬಿ ಮತ್ತು ಬಿ ಸಿ ಸಮವಾಗಿವೆ. ಹಾಗಿದ್ದರೆ, ಛೇದಕ ಕ್ಯೂ ಮೇಲೆ ಉಂಟಾದ ಅಂತರ್ ಖಂಡಗಳಾದ ಡಿ ಇ ಮತ್ತು ಇ ಎಫ್ ಕೂಡ ಸಮವಾಗಿರುತ್ತವೆ ಎಂದು ನಾವು ಸಾಧಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $l, m, n$ ಮೂರು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು p ಮತ್ತು q ಛೇದಕಗಳು ಛೇದಿಸುತ್ತಿವೆ. p ಮೇಲೆ $AB = BC$ ಆದರೆ, q ಮೇಲೆ $DE = EF$ ಎಂದು ತೋರಿಸಿ.",
+  "display_bullets": [
+    "ದತ್ತ: $l \\parallel m \\parallel n$, $p$ ಮತ್ತು $q$ ಛೇದಕಗಳು, $AB = BC$",
+    "ಸಾಧನೀಯ: $DE = EF$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಮೂರು ಸಮಾಂತರ ರೇಖೆಗಳು l, m, n. ಇವುಗಳನ್ನು p ಮತ್ತು q ಎಂಬ ಎರಡು ಛೇದಕಗಳು ಛೇದಿಸುತ್ತವೆ. p ಮೇಲಿನ ಅಂತರ್ ಖಂಡಗಳು A, B, C. q ಮೇಲಿನ ಅಂತರ್ ಖಂಡಗಳು D, E, F.",
+    "labels": "ರೇಖೆಗಳು l, m, n, p, q. ಬಿಂದುಗಳು A, B, C, D, E, F.",
+    "mathematical_significance": "ಛೇದಕ ಪ್ರಮೇಯದ ಸಮಸ್ಯೆಯನ್ನು ವಿವರಿಸುವ ಚಿತ್ರ.",
+    "placeholder_note": "Image to be generated for the problem statement."
+  },
+  "source_example_id": "GEO-QUAD-2_example_7",
+  "prerequisites_display": [
+    "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯ",
+    "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ವಿಲೋಮ"
+  ],
+  "chunk_id": "GEO-QUAD-2_concept_5_chunk_012"
+}

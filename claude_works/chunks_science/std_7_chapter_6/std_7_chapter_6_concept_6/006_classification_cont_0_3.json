@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಮೀನುಗಳಲ್ಲಿ ಉಸಿರಾಟ: ಕಿವಿರುಗಳು",
+  "script": "ನೀರಿನಲ್ಲಿ ವಾಸಿಸುವ ಮೀನುಗಳು ಹೇಗೆ ಉಸಿರಾಡುತ್ತವೆ? ಅವು ಕಿವಿರುಗಳು ಅಥವಾ ಗಿಲ್ಸ್ ಎಂಬ ವಿಶೇಷ ಅಂಗಗಳನ್ನು ಬಳಸುತ್ತವೆ. ಮೀನುಗಳು ಬಾಯಿಯ ಮೂಲಕ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಕಿವಿರುಗಳ ಮೇಲೆ ಹರಿಯುವಂತೆ ಮಾಡುತ್ತವೆ. ಕಿವಿರುಗಳು ರಕ್ತನಾಳಗಳಿಂದ ಸಮೃದ್ಧವಾಗಿರುವ ತೆಳುವಾದ ಎಳೆಗಳಂತಹ ರಚನೆಗಳಾಗಿವೆ. ನೀರು ಕಿವಿರುಗಳ ಮೇಲೆ ಹರಿಯುವಾಗ, ನೀರಿನಲ್ಲಿ ಕರಗಿರುವ ಆಮ್ಲಜನಕವು ರಕ್ತಕ್ಕೆ ಹೀರಲ್ಪಡುತ್ತದೆ ಮತ್ತು ರಕ್ತದಲ್ಲಿನ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ನೀರಿಗೆ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ನೀರಿನೊಳಗಿನ ಜೀವನಕ್ಕೆ ಒಂದು ಪರಿಪೂರ್ಣ ಹೊಂದಾಣಿಕೆಯಾಗಿದೆ.",
+  "script_display": "ನೀರಿನಲ್ಲಿ ವಾಸಿಸುವ ಮೀನುಗಳು ಹೇಗೆ ಉಸಿರಾಡುತ್ತವೆ? ಅವು ಕಿವಿರುಗಳು (Gills) ಎಂಬ ವಿಶೇಷ ಅಂಗಗಳನ್ನು ಬಳಸುತ್ತವೆ. ಮೀನುಗಳು ಬಾಯಿಯ ಮೂಲಕ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಕಿವಿರುಗಳ ಮೇಲೆ ಹರಿಯುವಂತೆ ಮಾಡುತ್ತವೆ. ಕಿವಿರುಗಳು ರಕ್ತನಾಳಗಳಿಂದ ಸಮೃದ್ಧವಾಗಿರುವ ತೆಳುವಾದ ಎಳೆಗಳಂತಹ ರಚನೆಗಳಾಗಿವೆ. ನೀರು ಕಿವಿರುಗಳ ಮೇಲೆ ಹರಿಯುವಾಗ, ನೀರಿನಲ್ಲಿ ಕರಗಿರುವ ಆಮ್ಲಜನಕವು ರಕ್ತಕ್ಕೆ ಹೀರಲ್ಪಡುತ್ತದೆ ಮತ್ತು ರಕ್ತದಲ್ಲಿನ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ನೀರಿಗೆ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ನೀರಿನೊಳಗಿನ ಜೀವನಕ್ಕೆ ಒಂದು ಪರಿಪೂರ್ಣ ಹೊಂದಾಣಿಕೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಉಸಿರಾಟದ ಅಂಗ: ಕಿವಿರುಗಳು (Gills)",
+    "ಕಾರ್ಯ: ನೀರಿನಲ್ಲಿ ಕರಗಿದ ಆಮ್ಲಜನಕವನ್ನು ಹೀರಿಕೊಳ್ಳುವುದು.",
+    "ರಚನೆ: ರಕ್ತನಾಳಗಳಿಂದ ಸಮೃದ್ಧವಾಗಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a fish's head showing the process of gill respiration. Arrows should show water entering the mouth and exiting over the gills. A close-up of the gill filaments should show the exchange of O2 and CO2 with the blood vessels.",
+    "labels": "Mouth, Gills, Gill Filaments, Water Flow, Oxygen uptake",
+    "scientific_significance": "Illustrates how gills are adapted for extracting dissolved oxygen from water, a key adaptation for aquatic life.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_6_concept_6_chunk_006"
+}

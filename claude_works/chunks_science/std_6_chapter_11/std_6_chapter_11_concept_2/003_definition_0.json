@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಮಾರುತ ಎಂದರೇನು?",
+  "script": "ನಾವು ಪ್ರತಿದಿನ ಅನುಭವಿಸುವ ಒಂದು ಸಾಮಾನ್ಯ, ಆದರೆ ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿಯಾದ ನೈಸರ್ಗಿಕ ವಿದ್ಯಮಾನದ ಬಗ್ಗೆ ಇಂದು ಕಲಿಯೋಣ. ನೀವು ಎಂದಾದರೂ ನಿಮ್ಮ ಒಣಗಲು ಹರಡಿದ ಬಟ್ಟೆಗಳು ಹೇಗೆ ಅತ್ತಿತ್ತ ಹಾರಾಡುತ್ತವೆ ಎಂದು ಗಮನಿಸಿದ್ದೀರಾ? ಅಥವಾ ಪಾರ್ಕ್‌ನಲ್ಲಿ ಮರಗಳ ಎಲೆಗಳು ಏಕೆ ಸದಾ ಅಲುಗಾಡುತ್ತಿರುತ್ತವೆ? ಇದಕ್ಕೆಲ್ಲಾ ಕಾರಣ ಒಂದೇ, ಅದುವೇ ಚಲಿಸುವ ಗಾಳಿ. ಈ ಚಲಿಸುವ ಗಾಳಿಯನ್ನೇ ನಾವು ಒಂದು ನಿರ್ದಿಷ್ಟ ವೈಜ್ಞಾನಿಕ ಹೆಸರಿನಿಂದ ಕರೆಯುತ್ತೇವೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ಒಂದು ದೊಡ್ಡ ಗಾಳಿಯಂತ್ರ ನಿರಂತರವಾಗಿ ತಿರುಗುತ್ತಿದೆ. ಇದನ್ನು ತಿರುಗಿಸುವ ಶಕ್ತಿ ಯಾವುದು? ಅದುವೇ ಮಾರುತ.",
+  "script_display": "ನಾವು ಪ್ರತಿದಿನ ಅನುಭವಿಸುವ ಒಂದು ಸಾಮಾನ್ಯ, ಆದರೆ ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿಯಾದ ನೈಸರ್ಗಿಕ ವಿದ್ಯಮಾನದ ಬಗ್ಗೆ ಇಂದು ಕಲಿಯೋಣ. ನೀವು ಎಂದಾದರೂ ನಿಮ್ಮ ಒಣಗಲು ಹರಡಿದ ಬಟ್ಟೆಗಳು ಹೇಗೆ ಅತ್ತಿತ್ತ ಹಾರಾಡುತ್ತವೆ ಎಂದು ಗಮನಿಸಿದ್ದೀರಾ? ಅಥವಾ ಪಾರ್ಕ್‌ನಲ್ಲಿ ಮರಗಳ ಎಲೆಗಳು ಏಕೆ ಸದಾ ಅಲುಗಾಡುತ್ತಿರುತ್ತವೆ? ಇದಕ್ಕೆಲ್ಲಾ ಕಾರಣ ಒಂದೇ, ಅದುವೇ ಚಲಿಸುವ ಗಾಳಿ. ಈ ಚಲಿಸುವ ಗಾಳಿಯನ್ನೇ ನಾವು ಒಂದು ನಿರ್ದಿಷ್ಟ ವೈಜ್ಞಾನಿಕ ಹೆಸರಿನಿಂದ ಕರೆಯುತ್ತೇವೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ಒಂದು ದೊಡ್ಡ ಗಾಳಿಯಂತ್ರ ನಿರಂತರವಾಗಿ ತಿರುಗುತ್ತಿದೆ. ಇದನ್ನು ತಿರುಗಿಸುವ ಶಕ್ತಿ ಯಾವುದು? ಅದುವೇ ಮಾರುತ.",
+  "display_bullets": [
+    "ಬಟ್ಟೆಗಳು ಹಾರಾಡುವುದು",
+    "ಮರಗಳ ಎಲೆಗಳು ಅಲುಗಾಡುವುದು",
+    "ಇವೆರಡಕ್ಕೂ ಕಾರಣ: ಚಲಿಸುವ ಗಾಳಿ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right_text_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clear illustration of a windmill with its blades turning, indicating the presence of wind. Arrows can be used to show the direction of the air movement.",
+    "labels": "ಗಾಳಿಯಂತ್ರ, ಮಾರುತ, ಗಾಳಿಯ ಚಲನೆ",
+    "scientific_significance": "Illustrates a practical application and visible effect of wind (moving air), making the abstract concept of wind tangible.",
+    "placeholder_note": "Image to be generated: A windmill turning due to wind."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_11_concept_2_chunk_003"
+}

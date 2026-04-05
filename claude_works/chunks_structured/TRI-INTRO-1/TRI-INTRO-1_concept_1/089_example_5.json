@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 5",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಡೆಲ್ಟಾ OPQ ಯಲ್ಲಿ, P ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬಕೋನವಾಗಿದೆ. OP ಯು 7 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು OQ ಮೈನಸ್ PQ ಯು 1 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ನಾವು ಸೈನ್ Q ಮತ್ತು ಕಾಸ್ Q ಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು, ನಮಗೆ ಏನು ಕೊಟ್ಟಿದ್ದಾರೆ ಮತ್ತು ನಾವು ಏನು ಕಂಡುಹಿಡಿಯಬೇಕು ಎಂಬುದನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. ನಮಗೆ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ OPQ ಇದೆ, ಇದರಲ್ಲಿ ಕೋನ P 90 ಡಿಗ್ರಿ. ಬಾಹು OP ಯು 7 ಸೆಂಟಿಮೀಟರ್. ಮತ್ತು OQ ಮೈನಸ್ PQ ಯು 1 ಸೆಂಟಿಮೀಟರ್. ನಾವು ಸೈನ್ Q ಮತ್ತು ಕಾಸ್ Q ಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ΔOPQ ಯಲ್ಲಿ, P ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬಕೋನವಾಗಿದೆ. OP = 7 cm ಮತ್ತು OQ - PQ = 1 cm. ನಾವು $\\sin Q$ ಮತ್ತು $\\cos Q$ ಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು, ನಮಗೆ ಏನು ಕೊಟ್ಟಿದ್ದಾರೆ ಮತ್ತು ನಾವು ಏನು ಕಂಡುಹಿಡಿಯಬೇಕು ಎಂಬುದನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. ನಮಗೆ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ OPQ ಇದೆ, ಇದರಲ್ಲಿ ∠P = 90°. ಬಾಹು OP = 7 cm. ಮತ್ತು OQ - PQ = 1 cm. ನಾವು $\\sin Q$ ಮತ್ತು $\\cos Q$ ಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ಲಂಬಕೋನ ತ್ರಿಭುಜ OPQ, ∠P = 90°",
+    "OP = 7 cm",
+    "OQ - PQ = 1 cm",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: sin Q ಮತ್ತು cos Q"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಲಂಬಕೋನ ತ್ರಿಭುಜ OPQ, P ಯಲ್ಲಿ ಲಂಬಕೋನವಿದೆ. Q ಕೋನವನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. OP = 7 cm ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. OQ ಮತ್ತು PQ ಬಾಹುಗಳನ್ನು ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಗಳೊಂದಿಗೆ ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "O, P, Q, 7 cm",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯಲ್ಲಿ ವಿವರಿಸಿದ ತ್ರಿಕೋನವನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ, ಅಲ್ಲಿ ಒಂದು ಬಾಹು ಮತ್ತು ಇತರ ಎರಡು ಬಾಹುಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ನೀಡಲಾಗಿದೆ.",
+    "placeholder_note": "A right-angled triangle OPQ, right-angled at P. Angle Q is highlighted. Side OP is labeled '7 cm'. Sides OQ (hypotenuse) and PQ are labeled with question marks."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-INTRO-1_example_5",
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_089"
+}

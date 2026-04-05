@@ -1,0 +1,48 @@
+{
+  "module_id": "std_10_chapter_5_concept_7",
+  "chapter_code": "std_10_chapter_5",
+  "voice": "Schedar",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 3,
+  "ok_count": 3,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:08:44",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "3ea96de780ebe03e4a977c6828b9b2da",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.971,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 34,
+      "generated_at": "2026-04-02 12:08:08"
+    },
+    "003_recap_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "6ba84d4c574bb2a381bd8e99d5553774",
+      "wav_file": "003_recap_0.wav",
+      "duration": 35.411,
+      "slide_title": "ಸಾರಾಂಶ: ಮಾನವನಲ್ಲಿ ಸಾಗಾಣಿಕೆ",
+      "type": "recap",
+      "script_words": 47,
+      "generated_at": "2026-04-02 12:08:38"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "df1c92d5c5df1813e106cbfa4f5522a3",
+      "wav_file": "001_intro_0.wav",
+      "duration": 47.531,
+      "slide_title": "ಮಾನವನಲ್ಲಿ ಸಾಗಾಣಿಕೆ - ರಕ್ತಪರಿಚಲನಾ ವ್ಯವಸ್ಥೆ",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-04-02 12:08:44"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಇದು ಹೇಗೆ ಸಂಭವಿಸುತ್ತದೆ?",
+  "script": "ಇದು ಸಾಮಾನ್ಯವಾಗಿ ಹೇಗೆ ಸಂಭವಿಸುತ್ತದೆ ಎಂಬುದಕ್ಕೆ ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ನೀವು ಅಡುಗೆ ಮಾಡಿದ ಅನ್ನ ಅಥವಾ ಪಲ್ಯವನ್ನು ಕೋಣೆಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ, ಅಂದರೆ ಹೊರಗಡೆ, ಹೆಚ್ಚು ಹೊತ್ತು ಇಟ್ಟಿದ್ದೀರಿ ಎಂದುಕೊಳ್ಳಿ. ಬೆಚ್ಚಗಿನ ವಾತಾವರಣವು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಮತ್ತು ಶಿಲೀಂಧ್ರಗಳಂತಹ ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ಬೆಳೆಯಲು ಬಹಳ ಅನುಕೂಲಕರವಾಗಿರುತ್ತದೆ. ಅವು ವೇಗವಾಗಿ ಸಂಖ್ಯೆಯಲ್ಲಿ ಹೆಚ್ಚಾಗುತ್ತವೆ ಮತ್ತು ಆಹಾರದಲ್ಲಿ ವಿಷಕಾರಿ ವಸ್ತುಗಳನ್ನು, ಅಂದರೆ ಟಾಕ್ಸಿನ್‌ಗಳನ್ನು, ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ. ಇದರಿಂದ ಆಹಾರವು ಹಾಳಾಗಿ, ವಿಷಮಯವಾಗುತ್ತದೆ.",
+  "script_display": "ಇದು ಸಾಮಾನ್ಯವಾಗಿ ಹೇಗೆ ಸಂಭವಿಸುತ್ತದೆ ಎಂಬುದಕ್ಕೆ ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ನೀವು ಅಡುಗೆ ಮಾಡಿದ ಅನ್ನ ಅಥವಾ ಪಲ್ಯವನ್ನು ಕೋಣೆಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ, ಅಂದರೆ ಹೊರಗಡೆ, ಹೆಚ್ಚು ಹೊತ್ತು ಇಟ್ಟಿದ್ದೀರಿ ಎಂದುಕೊಳ್ಳಿ. ಬೆಚ್ಚಗಿನ ವಾತಾವರಣವು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಮತ್ತು ಶಿಲೀಂಧ್ರಗಳಂತಹ ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ಬೆಳೆಯಲು ಬಹಳ ಅನುಕೂಲಕರವಾಗಿರುತ್ತದೆ. ಅವು ವೇಗವಾಗಿ ಸಂಖ್ಯೆಯಲ್ಲಿ ಹೆಚ್ಚಾಗುತ್ತವೆ ಮತ್ತು ಆಹಾರದಲ್ಲಿ ವಿಷಕಾರಿ ವಸ್ತುಗಳನ್ನು (toxins) ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ. ಇದರಿಂದ ಆಹಾರವು ಹಾಳಾಗಿ, ವಿಷಮಯವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: ಬೇಯಿಸಿದ ಆಹಾರವನ್ನು ಕೋಣೆಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ಹೆಚ್ಚು ಹೊತ್ತು ಇಡುವುದು.",
+    "ಬೆಚ್ಚಗಿನ ವಾತಾವರಣದಲ್ಲಿ ಸೂಕ್ಷ್ಮಜೀವಿಗಳು (ಬ್ಯಾಕ್ಟೀರಿಯಾ, ಶಿಲೀಂಧ್ರ) ವೇಗವಾಗಿ ಬೆಳೆಯುತ್ತವೆ.",
+    "ಅವು ಆಹಾರದಲ್ಲಿ ವಿಷಕಾರಿ ವಸ್ತುಗಳನ್ನು (toxins) ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple animation or sequence of images. A bowl of fresh food is left on a table. Over time (indicated by a clock), small, cartoonish germ icons appear and multiply on the food, and the food's color slightly darkens.",
+    "labels": "ತಾಜಾ ಆಹಾರ -> ಸಮಯ ಕಳೆದಂತೆ -> ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಬೆಳವಣಿಗೆ -> ಹಾಳಾದ ಆಹಾರ",
+    "scientific_significance": "Illustrates the process of microbial contamination of food left at room temperature, which is a primary cause of food poisoning.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_2_concept_6_chunk_004"
+}

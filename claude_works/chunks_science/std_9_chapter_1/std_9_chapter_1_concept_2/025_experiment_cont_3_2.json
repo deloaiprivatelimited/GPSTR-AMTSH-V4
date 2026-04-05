@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+  "script": "ನೀವು ಗಮನಿಸಿದಂತೆ, ನಿಮ್ಮ ಬೆರಳಿನಿಂದ ನೀರಿನ ಧಾರೆಯನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ವಿಭಜಿಸಲು ಸಾಧ್ಯವಾದರೂ, ಆ ಧಾರೆ ನಿಮ್ಮ ಬೆರಳನ್ನು ದಾಟಿದ ತಕ್ಷಣವೇ ಮತ್ತೆ ಒಂದಾಗುತ್ತದೆ. ಇದು ಏಕೆ ಹೀಗಾಗುತ್ತದೆ? ಏಕೆಂದರೆ, ನೀರಿನ ಕಣಗಳ ನಡುವೆ ಒಂದು ಬಲವಾದ ಆಕರ್ಷಣಾ ಬಲ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿರುತ್ತದೆ. ಈ ಬಲವೇ ಕಣಗಳನ್ನು ಒಟ್ಟಿಗೆ ಹಿಡಿದಿಡುತ್ತದೆ. ನಾವು ಬೆರಳಿನಿಂದ ಅಡ್ಡಿಪಡಿಸಿದಾಗ, ಆ ಬಲವನ್ನು ಮೀರಿ ಕಣಗಳು ಬೇರೆಯಾಗುತ್ತವೆ, ಆದರೆ ಅಡ್ಡಿ ಸರಿದ ತಕ್ಷಣ, ಆಕರ್ಷಣಾ ಬಲವು ಅವುಗಳನ್ನು ಮತ್ತೆ ಒಟ್ಟಿಗೆ ಸೇರಿಸುತ್ತದೆ. ಇದೇ ದ್ರವ್ಯದ ಕಣಗಳ ನಡುವಿನ ಆಕರ್ಷಣೆಯ ಗುಣ.",
+  "script_display": "ಬೆರಳನ್ನು ದಾಟಿದ ನಂತರ ನೀರಿನ ಧಾರೆ ಮತ್ತೆ ಒಂದಾಗುತ್ತದೆ. ಇದು ನೀರಿನ ಕಣಗಳ ನಡುವಿನ ಆಕರ್ಷಣಾ ಬಲವನ್ನು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ವೀಕ್ಷಣೆ: ನೀರಿನ ಧಾರೆ ಬೆರಳಿನಿಂದ ವಿಭಜನೆಗೊಂಡರೂ, ನಂತರ ಮತ್ತೆ ಒಂದಾಗುತ್ತದೆ.",
+    "ತೀರ್ಮಾನ: ನೀರಿನ ಕಣಗಳ ನಡುವೆ ಆಕರ್ಷಣಾ ಬಲವಿದೆ.",
+    "ಈ ಬಲವು ಕಣಗಳನ್ನು ಒಟ್ಟಿಗೆ ಹಿಡಿದಿಡಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up diagram showing a stream of water. A finger is inserted, causing the stream to split. Below the finger, the two split streams are shown merging back into a single stream. Arrows can indicate the force of attraction pulling the particles back together.",
+    "labels": "ಬೆರಳು, ವಿಭಜಿತ ಧಾರೆ, ಆಕರ್ಷಣಾ ಬಲ, ಮತ್ತೆ ಸೇರಿದ ಧಾರೆ",
+    "scientific_significance": "Visually confirms the observation that cohesive forces in water are strong enough to make the stream rejoin after a temporary obstacle, demonstrating the attraction between particles.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_1_concept_2_chunk_025"
+}

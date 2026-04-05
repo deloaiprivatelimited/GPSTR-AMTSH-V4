@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಮೆಗ್ನಿಸಿಯಂ ಪರಮಾಣು",
+  "script": "ಮೊದಲಿಗೆ, ಮೆಗ್ನಿಸಿಯಂ ಪರಮಾಣುವನ್ನು ನೋಡೋಣ. ಇದರ ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ ಎರಡು, ಎಂಟು, ಎರಡು. ಅಂದರೆ, ಇದರ ಅತ್ಯಂತ ಹೊರಗಿನ ವೇಲೆನ್ಸ್ ಕವಚದಲ್ಲಿ ಎರಡು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳಿವೆ. ಸ್ಥಿರವಾದ ಅಷ್ಟಕ ರಚನೆಯನ್ನು ಪಡೆಯಲು, ಪರಮಾಣು ಈ ಎರಡು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳಲು ಬಯಸುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಮೆಗ್ನಿಸಿಯಂ ಪರಮಾಣುವನ್ನು (Mg) ನೋಡೋಣ.\n*   ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ: 2, 8, 2\n*   ವೇಲೆನ್ಸ್ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು: 2 (ಹೊರಗಿನ ಕವಚದಲ್ಲಿ)\n*   ಗುರಿ: ಸ್ಥಿರ ಅಷ್ಟಕ ರಚನೆ ಪಡೆಯುವುದು.",
+  "display_bullets": [
+    "ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ: 2, 8, 2",
+    "ವೇಲೆನ್ಸ್ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು: 2 (ಹೊರಗಿನ ಕವಚದಲ್ಲಿ)",
+    "ಗುರಿ: ಸ್ಥಿರ ಅಷ್ಟಕ ರಚನೆ ಪಡೆಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Bohr model of a neutral Magnesium atom (Mg). It should show a central nucleus, and three electron shells. The first shell has 2 electrons, the second has 8, and the outermost (valence) shell has 2 electrons. The two valence electrons should be highlighted.",
+    "labels": "ನ್ಯೂಕ್ಲಿಯಸ್, K ಕವಚ (2 e⁻), L ಕವಚ (8 e⁻), M ಕವಚ (2 e⁻)",
+    "scientific_significance": "Illustrates the electron configuration of a neutral magnesium atom, showing the two valence electrons that are available to be lost during a chemical reaction.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_7_chunk_019"
+}

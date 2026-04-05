@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತೂಕದ ಸೂತ್ರ: W = m x g",
+  "script": "ಈಗ ನಾವು ತೂಕವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಪ್ರಮುಖ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸೂತ್ರವು ಡಬ್ಲ್ಯೂ ಈಕ್ವಲ್ಸ್ ಎಂ ಇಂಟು ಜಿ. ಈ ಸೂತ್ರದಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಅಕ್ಷರವೂ ಒಂದು ನಿರ್ದಿಷ್ಟ ಭೌತಿಕ ಪರಿಮಾಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಮೊದಲನೆಯದಾಗಿ, ಡಬ್ಲ್ಯೂ ಎಂದರೆ ವಸ್ತುವಿನ ತೂಕ, ಇದು ಒಂದು ಬಲವಾಗಿದೆ ಮತ್ತು ಇದನ್ನು ನ್ಯೂಟನ್‌ಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಎಂ ಎಂದರೆ ವಸ್ತುವಿನ ರಾಶಿ, ಅಂದರೆ ಅದರಲ್ಲಿರುವ ದ್ರವ್ಯದ ಪ್ರಮಾಣ, ಇದನ್ನು ಕಿಲೋಗ್ರಾಂಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಜಿ ಎಂದರೆ ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ. ಭೂಮಿಯ ಮೇಲ್ಮೈಯಲ್ಲಿ ಇದರ ಮೌಲ್ಯವು ಸಾಮಾನ್ಯವಾಗಿ ಸೆಕೆಂಡಿಗೆ ಒಂಬತ್ತು ಪಾಯಿಂಟ್ ಎಂಟು ಮೀಟರ್ ವರ್ಗ ಆಗಿರುತ್ತದೆ. ಈ ಸೂತ್ರವು ರಾಶಿ ಮತ್ತು ಗುರುತ್ವದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ತೂಕವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಪ್ರಮುಖ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸೂತ್ರವು $W = m \\times g$. ಈ ಸೂತ್ರದಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಅಕ್ಷರವೂ ಒಂದು ನಿರ್ದಿಷ್ಟ ಭೌತಿಕ ಪರಿಮಾಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "$W$ = ವಸ್ತುವಿನ ತೂಕ (Weight). ಇದು ಒಂದು ಬಲವಾಗಿದ್ದು, ಇದರ SI ಏಕಮಾನ ನ್ಯೂಟನ್ (N).",
+    "$m$ = ವಸ್ತುವಿನ ರಾಶಿ (Mass). ಇದರ SI ಏಕಮಾನ ಕಿಲೋಗ್ರಾಂ (kg).",
+    "$g$ = ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ (acceleration due to gravity). ಭೂಮಿಯ ಮೇಲೆ ಇದರ ಸರಾಸರಿ ಮೌಲ್ಯ $9.8 \\, m/s^2$."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "physics_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "W = m \\times g",
+    "placeholder_note": "Formula for weight, where W is weight, m is mass, and g is acceleration due to gravity."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_9_chapter_9_concept_5_chunk_003"
+}

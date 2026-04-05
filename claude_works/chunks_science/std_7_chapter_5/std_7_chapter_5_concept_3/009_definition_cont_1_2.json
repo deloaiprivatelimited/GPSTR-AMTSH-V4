@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಕಲಾಯಿ ಮಾಡಿದ ಮತ್ತು ಮಾಡದ ಕಬ್ಬಿಣ",
+  "script": "ಈಗ, ಕಲಾಯಿ ಮಾಡುವುದರ ಪರಿಣಾಮವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಕಲಾಯಿ ಮಾಡದ ಕಬ್ಬಿಣದ ಸರಪಳಿ ಇದೆ. ಇದನ್ನು ತೇವಾಂಶವಿರುವ ವಾತಾವರಣಕ್ಕೆ ತೆರೆದಿಟ್ಟಾಗ, ಅದು ಸುಲಭವಾಗಿ ತುಕ್ಕು ಹಿಡಿದು, ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ, ದುರ್ಬಲವಾಗುತ್ತದೆ. ಆದರೆ, ಬಲಭಾಗದಲ್ಲಿ, ಕಲಾಯಿ ಮಾಡಿದ ಕಬ್ಬಿಣದ ಸರಪಳಿ ಇದೆ. ಇದರ ಮೇಲೆ ಸತುವಿನ ರಕ್ಷಣಾತ್ಮಕ ಲೇಪನ ಇರುವುದರಿಂದ, ಇದು ತುಕ್ಕು ಹಿಡಿಯದೆ ತನ್ನ ಮೂಲ ಹೊಳಪನ್ನು ಮತ್ತು ದೃಢತೆಯನ್ನು ದೀರ್ಘಕಾಲದವರೆಗೆ ಉಳಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಈ ಹೋಲಿಕೆಯು ಕಲಾಯಿ ಮಾಡುವುದರ ಪ್ರಾಯೋಗಿಕ ಮಹತ್ವವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ, ಕಲಾಯಿ ಮಾಡುವುದರ ಪರಿಣಾಮವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಕಲಾಯಿ ಮಾಡದ ಕಬ್ಬಿಣದ ಸರಪಳಿ ಇದೆ. ಇದನ್ನು ತೇವಾಂಶವಿರುವ ವಾತಾವರಣಕ್ಕೆ ತೆರೆದಿಟ್ಟಾಗ, ಅದು ಸುಲಭವಾಗಿ ತುಕ್ಕು ಹಿಡಿದು, ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ, ದುರ್ಬಲವಾಗುತ್ತದೆ. ಆದರೆ, ಬಲಭಾಗದಲ್ಲಿ, ಕಲಾಯಿ ಮಾಡಿದ ಕಬ್ಬಿಣದ ಸರಪಳಿ ಇದೆ. ಇದರ ಮೇಲೆ ಸತುವಿನ ರಕ್ಷಣಾತ್ಮಕ ಲೇಪನ ಇರುವುದರಿಂದ, ಇದು ತುಕ್ಕು ಹಿಡಿಯದೆ ತನ್ನ ಮೂಲ ಹೊಳಪನ್ನು ಮತ್ತು ದೃಢತೆಯನ್ನು ದೀರ್ಘಕಾಲದವರೆಗೆ ಉಳಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಈ ಹೋಲಿಕೆಯು ಕಲಾಯಿ ಮಾಡುವುದರ ಪ್ರಾಯೋಗಿಕ ಮಹತ್ವವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A visual split comparison. Left side shows a rusty iron chain with the title 'ಕಲಾಯಿ ಮಾಡದ ಕಬ್ಬಿಣ (ತುಕ್ಕು ಹಿಡಿದಿದೆ)'. Right side shows a shiny, new-looking galvanized iron chain with the title 'ಕಲಾಯಿ ಮಾಡಿದ ಕಬ್ಬಿಣ (ತುಕ್ಕು ಹಿಡಿದಿಲ್ಲ)'. The visual should be an image, not a literal table, but this structure allows for the comparison layout."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_7_chapter_5_concept_3_chunk_009"
+}

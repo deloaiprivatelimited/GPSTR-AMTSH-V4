@@ -1,0 +1,125 @@
+{
+  "module_id": "std_8_chapter_9_concept_5",
+  "chapter_code": "std_8_chapter_9",
+  "voice": "Sadachbia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:18:33",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "7c90454424cd71eb0b7efe40a7f8612d",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 23.971,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 37,
+      "generated_at": "2026-04-02 15:17:07"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "76149465ea1c6d259182f93749e1bcf3",
+      "wav_file": "001_intro_0.wav",
+      "duration": 55.211,
+      "slide_title": "ಘರ್ಷಣೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ಮತ್ತು ಕಡಿಮೆಗೊಳಿಸುವ ವಿಧಾನಗಳು",
+      "type": "chunk",
+      "script_words": 84,
+      "generated_at": "2026-04-02 15:17:20"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "206799ca86fda1a66a9e25a49c8c9055",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 36.771,
+      "slide_title": "ಉದಾಹರಣೆ: ಟೈರ್‌ಗಳು ಮತ್ತು ಪಾದರಕ್ಷೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 15:17:27"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "45cd80c8212314a8b3209388ed128c0e",
+      "wav_file": "003_classification_0.wav",
+      "duration": 37.011,
+      "slide_title": "ಘರ್ಷಣೆಯನ್ನು ಬದಲಾಯಿಸುವ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 45,
+      "generated_at": "2026-04-02 15:17:28"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "0b52d1c76725ae05d1d6ccef62d8aaa7",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 48.011,
+      "slide_title": "ಘರ್ಷಣೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 15:17:41"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "7fe9474f81d3b111d2be8bc2bab036c2",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 32.571,
+      "slide_title": "ಘರ್ಷಣೆಯನ್ನು ಕಡಿಮೆಗೊಳಿಸುವ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 41,
+      "generated_at": "2026-04-02 15:18:01"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "b7eabc21713ce6435f811bfda7c241d4",
+      "wav_file": "010_recap_0.wav",
+      "duration": 39.571,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 50,
+      "generated_at": "2026-04-02 15:18:10"
+    },
+    "009_classification_cont_0_6.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "ab1f4be99721aa1b437b443e7353239e",
+      "wav_file": "009_classification_cont_0_6.wav",
+      "duration": 40.051,
+      "slide_title": "ಇತರೆ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 15:18:29"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "47634ba53368ec98cbcfd22df76938ca",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 37.931,
+      "slide_title": "ವಿಧಾನ 1: ಅಪಘರ್ಷಕಗಳ ಬಳಕೆ",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 15:18:29"
+    },
+    "008_classification_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "aad8306b3e961091a58ce4ea52a487fc",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "duration": 48.931,
+      "slide_title": "ವಿಧಾನ 2: ಬಾಲ್ ಬೇರಿಂಗ್‌ಗಳ ಬಳಕೆ",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-04-02 15:18:33"
+    }
+  }
+}

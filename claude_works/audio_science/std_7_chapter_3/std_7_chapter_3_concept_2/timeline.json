@@ -1,0 +1,134 @@
+{
+  "module_id": "std_7_chapter_3_concept_2",
+  "chapter_code": "std_7_chapter_3",
+  "voice": "Leda",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 11,
+  "total_duration": 483.841,
+  "total_duration_formatted": "8:03",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_3_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ (Clinical Thermometer)",
+      "type": "intro",
+      "start": 0.0,
+      "end": 57.211,
+      "duration": 57.211,
+      "script_words": 80
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ (Prerequisites)",
+      "type": "intro",
+      "start": 57.811,
+      "end": 78.902,
+      "duration": 21.091,
+      "script_words": 29
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_2_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ: ಉದ್ದೇಶ ಮತ್ತು ವ್ಯಾಪ್ತಿ",
+      "type": "concept_explanation",
+      "start": 79.502,
+      "end": 124.073,
+      "duration": 44.571,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_2_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ತಾಪಮಾಪಕದ ರಚನೆ: ವಕ್ರತೆಯ ಪಾತ್ರ",
+      "type": "concept_explanation",
+      "start": 124.673,
+      "end": 165.804,
+      "duration": 41.131,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_2_chunk_005",
+      "chunk_file": "005_property_1.json",
+      "wav_file": "005_property_1.wav",
+      "slide_title": "ವಕ್ರತೆಯ ಕಾರ್ಯ",
+      "type": "concept_explanation",
+      "start": 166.404,
+      "end": 211.055,
+      "duration": 44.651,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_2_chunk_006",
+      "chunk_file": "006_property_cont_1_1.json",
+      "wav_file": "006_property_cont_1_1.wav",
+      "slide_title": "ಮಾನವನ ದೇಹದ ಸಾಮಾನ್ಯ ತಾಪ",
+      "type": "concept_explanation",
+      "start": 211.655,
+      "end": 256.586,
+      "duration": 44.931,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_2_chunk_007",
+      "chunk_file": "007_experiment_0.json",
+      "wav_file": "007_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ: ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳು",
+      "type": "experiment_activity",
+      "start": 257.186,
+      "end": 299.277,
+      "duration": 42.091,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_2_chunk_008",
+      "chunk_file": "008_experiment_cont_0_1.json",
+      "wav_file": "008_experiment_cont_0_1.wav",
+      "slide_title": "ವಿಧಾನ: ಮೊದಲ ಹಂತಗಳು",
+      "type": "experiment_activity",
+      "start": 299.877,
+      "end": 339.688,
+      "duration": 39.811,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_2_chunk_009",
+      "chunk_file": "009_experiment_cont_0_2.json",
+      "wav_file": "009_experiment_cont_0_2.wav",
+      "slide_title": "ವಿಧಾನ: ತಾಪವನ್ನು ಅಳೆಯುವುದು",
+      "type": "experiment_activity",
+      "start": 340.288,
+      "end": 384.539,
+      "duration": 44.251,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_2_chunk_010",
+      "chunk_file": "010_experiment_cont_0_3.json",
+      "wav_file": "010_experiment_cont_0_3.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "start": 385.139,
+      "end": 437.15,
+      "duration": 52.011,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_2_chunk_011",
+      "chunk_file": "011_recap_0.json",
+      "wav_file": "011_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 437.75,
+      "end": 483.241,
+      "duration": 45.491,
+      "script_words": 56
+    }
+  ]
+}

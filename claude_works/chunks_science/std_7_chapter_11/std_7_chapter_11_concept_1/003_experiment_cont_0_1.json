@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಉರಿಯುತ್ತಿರುವ ಮೇಣದಬತ್ತಿ, ಇದನ್ನು ನಾವು ಬೆಳಕಿನ ಮೂಲವಾಗಿ ಬಳಸುತ್ತೇವೆ. ಎರಡನೆಯದಾಗಿ, ಒಂದು ನೇರವಾದ ಕೊಳವೆ, ಇದು ರಬ್ಬರ್ ಅಥವಾ ಪ್ಲಾಸ್ಟಿಕ್‌ನದ್ದಾಗಿರಬಹುದು. ಮೂರನೆಯದಾಗಿ, ಒಂದು ಬಾಗಿದ ಕೊಳವೆ. ನಿಮ್ಮ ಬಳಿ ಬಾಗಿದ ಕೊಳವೆ ಇಲ್ಲದಿದ್ದರೆ, ನೇರವಾದ ಕೊಳವೆಯನ್ನೇ ಬಗ್ಗಿಸಿ ಬಳಸಬಹುದು. ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಈ ಸಾಮಗ್ರಿಗಳ ಜೋಡಣೆಯನ್ನು ನೋಡಬಹುದು. ಇವುಗಳನ್ನು ಬಳಸಿ ನಾವು ಪ್ರಯೋಗವನ್ನು ಮುಂದುವರಿಸೋಣ.",
+  "script_display": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಉರಿಯುತ್ತಿರುವ ಮೇಣದಬತ್ತಿ, ಇದನ್ನು ನಾವು ಬೆಳಕಿನ ಮೂಲವಾಗಿ ಬಳಸುತ್ತೇವೆ. ಎರಡನೆಯದಾಗಿ, ಒಂದು ನೇರವಾದ ಕೊಳವೆ, ಇದು ರಬ್ಬರ್ ಅಥವಾ ಪ್ಲಾಸ್ಟಿಕ್‌ನದ್ದಾಗಿರಬಹುದು. ಮೂರನೆಯದಾಗಿ, ಒಂದು ಬಾಗಿದ ಕೊಳವೆ. ನಿಮ್ಮ ಬಳಿ ಬಾಗಿದ ಕೊಳವೆ ಇಲ್ಲದಿದ್ದರೆ, ನೇರವಾದ ಕೊಳವೆಯನ್ನೇ ಬಗ್ಗಿಸಿ ಬಳಸಬಹುದು. ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಈ ಸಾಮಗ್ರಿಗಳ ಜೋಡಣೆಯನ್ನು ನೋಡಬಹುದು. ಇವುಗಳನ್ನು ಬಳಸಿ ನಾವು ಪ್ರಯೋಗವನ್ನು ಮುಂದುವರಿಸೋಣ.",
+  "display_bullets": [
+    "ಉರಿಯುತ್ತಿರುವ ಮೇಣದಬತ್ತಿ (ಬೆಳಕಿನ ಮೂಲ)",
+    "ನೇರವಾದ ಕೊಳವೆ",
+    "ಬಾಗಿದ ಕೊಳವೆ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_physics_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clear diagram showing the materials for the experiment. On a table, there is a lit candle. Next to it are two pipes: one is perfectly straight, and the other is bent in the middle. The items should be clearly labeled in Kannada.",
+    "labels": "ಉರಿಯುತ್ತಿರುವ ಮೇಣದಬತ್ತಿ, ನೇರ ಕೊಳವೆ, ಬಾಗಿದ ಕೊಳವೆ",
+    "scientific_significance": "Shows the simple materials required to demonstrate the rectilinear propagation of light.",
+    "placeholder_note": "Image to be generated showing a candle, a straight pipe, and a bent pipe."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_7_chapter_11_concept_1_chunk_003"
+}

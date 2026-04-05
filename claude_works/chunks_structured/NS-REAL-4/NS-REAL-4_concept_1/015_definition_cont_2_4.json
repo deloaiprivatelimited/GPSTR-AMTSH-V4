@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ವಿಧಾನ: ಅಪವರ್ತನ ವೃಕ್ಷ (Factor Tree)",
+  "script": "ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಇನ್ನೊಂದು ಸುಲಭವಾದ ದೃಶ್ಯ ವಿಧಾನವೆಂದರೆ 'ಅಪವರ್ತನ ವೃಕ್ಷ' ಅಥವಾ ಫ್ಯಾಕ್ಟರ್ ಟ್ರೀ. 36 ಎಂಬ ಸಂಖ್ಯೆಯನ್ನು ಉದಾಹರಣೆಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಾವು 36 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಅದನ್ನು ಎರಡು ಶಾಖೆಗಳಾಗಿ ವಿಭಜಿಸುತ್ತೇವೆ, ಉದಾಹರಣೆಗೆ 2 ಮತ್ತು 18. ಇಲ್ಲಿ 2 ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯಾಗಿರುವುದರಿಂದ, ಆ ಶಾಖೆ ಅಲ್ಲಿಗೆ ನಿಲ್ಲುತ್ತದೆ. ಆದರೆ 18 ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಯಾಗಿರುವುದರಿಂದ, ಅದನ್ನು ಮತ್ತೆ 2 ಮತ್ತು 9 ಎಂದು ವಿಭಜಿಸುತ್ತೇವೆ. ಮತ್ತೆ, 2 ಅವಿಭಾಜ್ಯ. ಈಗ 9 ಅನ್ನು 3 ಮತ್ತು 3 ಎಂದು ವಿಭಜಿಸುತ್ತೇವೆ. 3 ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯಾಗಿರುವುದರಿಂದ, ನಮ್ಮ ವೃಕ್ಷವು ಪೂರ್ಣಗೊಳ್ಳುತ್ತದೆ. ಕೊನೆಯಲ್ಲಿ ಉಳಿದಿರುವ ಎಲ್ಲಾ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳೇ ನಮ್ಮ ಅಪವರ್ತನಗಳು.",
+  "script_display": "ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಇನ್ನೊಂದು ಸುಲಭವಾದ ದೃಶ್ಯ ವಿಧಾನವೆಂದರೆ 'ಅಪವರ್ತನ ವೃಕ್ಷ' (Factor Tree). 36 ಎಂಬ ಸಂಖ್ಯೆಯನ್ನು ಉದಾಹರಣೆಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಾವು 36 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಅದನ್ನು ಎರಡು ಶಾಖೆಗಳಾಗಿ ವಿಭಜಿಸುತ್ತೇವೆ, ಉದಾಹರಣೆಗೆ 2 ಮತ್ತು 18. ಇಲ್ಲಿ 2 ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯಾಗಿರುವುದರಿಂದ, ಆ ಶಾಖೆ ಅಲ್ಲಿಗೆ ನಿಲ್ಲುತ್ತದೆ. ಆದರೆ 18 ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಯಾಗಿರುವುದರಿಂದ, ಅದನ್ನು ಮತ್ತೆ 2 ಮತ್ತು 9 ಎಂದು ವಿಭಜಿಸುತ್ತೇವೆ. ಮತ್ತೆ, 2 ಅವಿಭಾಜ್ಯ. ಈಗ 9 ಅನ್ನು 3 ಮತ್ತು 3 ಎಂದು ವಿಭಜಿಸುತ್ತೇವೆ. 3 ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯಾಗಿರುವುದರಿಂದ, ನಮ್ಮ ವೃಕ್ಷವು ಪೂರ್ಣಗೊಳ್ಳುತ್ತದೆ. ಕೊನೆಯಲ್ಲಿ ಉಳಿದಿರುವ ಎಲ್ಲಾ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳೇ ನಮ್ಮ ಅಪವರ್ತನಗಳು.",
+  "display_bullets": [
+    "36 ಅನ್ನು 2 ಮತ್ತು 18 ಎಂದು ವಿಭಜಿಸಿ.",
+    "18 ಅನ್ನು 2 ಮತ್ತು 9 ಎಂದು ವಿಭಜಿಸಿ.",
+    "9 ಅನ್ನು 3 ಮತ್ತು 3 ಎಂದು ವಿಭಜಿಸಿ.",
+    "ಕೊನೆಯಲ್ಲಿ ಸಿಗುವ ಅವಿಭಾಜ್ಯಗಳು: 2, 2, 3, 3."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "kan_v1_visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A factor tree for the number 36. 36 is at the root. It branches into 2 and 18. The branch with 2 is circled as it is prime. The branch with 18 continues, splitting into 2 and 9. The branch with 2 is circled. The branch with 9 splits into 3 and 3. Both 3s are circled. The final prime factors at the leaves are 2, 2, 3, 3.",
+    "labels": "36, 2, 18, 9, 3",
+    "mathematical_significance": "Visually demonstrates the process of breaking down a composite number into its prime factors. The final result is the product of the leaf nodes.",
+    "placeholder_note": "Generate a simple factor tree diagram for 36, circling the prime numbers at each step."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "",
+  "chunk_id": "NS-REAL-4_concept_1_chunk_015"
+}

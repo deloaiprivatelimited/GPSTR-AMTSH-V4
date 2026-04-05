@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಚೌಕ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ಒಂದು ಚೌಕವನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಚೌಕವು ನಿಯತ ಬಹುಭುಜಾಕೃತಿಯೇ? ಹೌದು, ಖಂಡಿತ. ಯಾಕೆಂದರೆ, ಮೊದಲನೇ ಶರತ್ತಿನ ಪ್ರಕಾರ, ಚೌಕದ ಎಲ್ಲಾ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮನಾದ ಉದ್ದವನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಎರಡನೇ ಶರತ್ತಿನ ಪ್ರಕಾರ, ಅದರ ಎಲ್ಲಾ ನಾಲ್ಕು ಒಳಕೋನಗಳು ಸಮನಾಗಿರುತ್ತವೆ, ಪ್ರತಿಯೊಂದು ಕೋನವು ತೊಂಬತ್ತು ಡಿಗ್ರಿಗಳಿರುತ್ತದೆ. ಈ ಎರಡೂ ನಿಯಮಗಳು ಇಲ್ಲಿ ಪಾಲನೆಯಾಗುವುದರಿಂದ, ಚೌಕವು ಒಂದು ನಿಯತ ಚತುರ್ಭುಜ ಅಥವಾ ನಿಯತ ಬಹುಭುಜಾಕೃತಿಯಾಗಿದೆ. ಇದು ನಿಯತ ಬಹುಭುಜಾಕೃತಿಯ ಪರಿಕಲ್ಪನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸ್ಪಷ್ಟವಾದ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ಒಂದು ಚೌಕವನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಚೌಕವು ನಿಯತ ಬಹುಭುಜಾಕೃತಿಯೇ? ಹೌದು, ಖಂಡಿತ. ಯಾಕೆಂದರೆ, ಮೊದಲನೇ ಶರತ್ತಿನ ಪ್ರಕಾರ, ಚೌಕದ ಎಲ್ಲಾ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮನಾದ ಉದ್ದವನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಎರಡನೇ ಶರತ್ತಿನ ಪ್ರಕಾರ, ಅದರ ಎಲ್ಲಾ ನಾಲ್ಕು ಒಳಕೋನಗಳು ಸಮನಾಗಿರುತ್ತವೆ, ಪ್ರತಿಯೊಂದು ಕೋನವು $90^{\\circ}$ ಇರುತ್ತದೆ. ಈ ಎರಡೂ ನಿಯಮಗಳು ಇಲ್ಲಿ ಪಾಲನೆಯಾಗುವುದರಿಂದ, ಚೌಕವು ಒಂದು ನಿಯತ ಚತುರ್ಭುಜ ಅಥವಾ ನಿಯತ ಬಹುಭುಜಾಕೃತಿಯಾಗಿದೆ. ಇದು ನಿಯತ ಬಹುಭುಜಾಕೃತಿಯ ಪರಿಕಲ್ಪನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸ್ಪಷ್ಟವಾದ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಚೌಕದ ಎಲ್ಲಾ 4 ಬಾಹುಗಳು ಸಮ.",
+    "ಚೌಕದ ಎಲ್ಲಾ 4 ಕೋನಗಳು ಸಮ ($90^{\\circ}$).",
+    "ಎರಡೂ ಶರತ್ತುಗಳು ಪಾಲನೆಯಾಗುವುದರಿಂದ, ಚೌಕವು ಒಂದು ನಿಯತ ಬಹುಭುಜಾಕೃತಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A square with all four sides marked with a single tick to show they are equal, and all four corners marked with a right-angle symbol to show they are 90 degrees.",
+    "labels": "ಚೌಕ, ಸಮ ಬಾಹುಗಳು, ಸಮ ಕೋನಗಳು",
+    "mathematical_significance": "Visually demonstrates the two conditions for a regular polygon: equal sides and equal angles.",
+    "placeholder_note": "Image to be generated: A square with side and angle equality markings."
+  },
+  "chunk_id": "VIS-SYM-1_concept_1_chunk_020"
+}

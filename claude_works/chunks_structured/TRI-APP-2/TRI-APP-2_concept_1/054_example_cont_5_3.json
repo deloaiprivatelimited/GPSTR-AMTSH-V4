@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 5 (PD ಯ ಬೆಲೆ)",
+  "script": "ಈಗ ನಾವು ಪಿ ಡಿ ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸೋಣ. ನಮ್ಮ ಸಮೀಕರಣ ಪಿ ಡಿ ಪ್ಲಸ್ ಎಂಟು ಈಕ್ವಲ್ಸ್ ಪಿ ಡಿ ರೂಟ್ ಮೂರು. ಪಿ ಡಿ ಪದಗಳನ್ನು ಒಂದು ಕಡೆಗೆ ತರೋಣ. ಎಂಟು ಈಕ್ವಲ್ಸ್ ಪಿ ಡಿ ರೂಟ್ ಮೂರು ಮೈನಸ್ ಪಿ ಡಿ. ಬಲಭಾಗದಲ್ಲಿ ಪಿ ಡಿ ಯನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ತೆಗೆದಾಗ, ಎಂಟು ಈಕ್ವಲ್ಸ್ ಪಿ ಡಿ ಇಂಟು, ರೂಟ್ ಮೂರು ಮೈನಸ್ ಒಂದು. ಆದ್ದರಿಂದ, ಪಿ ಡಿ ಈಕ್ವಲ್ಸ್ ಎಂಟು ಬೈ ರೂಟ್ ಮೂರು ಮೈನಸ್ ಒಂದು. ಈಗ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸೋಣ. ಇದಕ್ಕಾಗಿ ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡಕ್ಕೂ ರೂಟ್ ಮೂರು ಪ್ಲಸ್ ಒಂದರಿಂದ ಗುಣಿಸೋಣ. ಆಗ ನಮಗೆ ಎಂಟು ಇಂಟು ರೂಟ್ ಮೂರು ಪ್ಲಸ್ ಒಂದು, ಇದನ್ನು ಮೂರು ಮೈನಸ್ ಒಂದರಿಂದ ಭಾಗಿಸಬೇಕು. ಮೂರು ಮೈನಸ್ ಒಂದು ಅಂದರೆ ಎರಡು. ಎಂಟನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ ನಾಲ್ಕು ಬರುತ್ತದೆ. ಹಾಗಾಗಿ, ಪಿ ಡಿ ಈಕ್ವಲ್ಸ್ ನಾಲ್ಕು ಇಂಟು ರೂಟ್ ಮೂರು ಪ್ಲಸ್ ಒಂದು ಮೀಟರ್.",
+  "script_display": "ಈಗ ನಾವು $PD$ ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸೋಣ. ನಮ್ಮ ಸಮೀಕರಣ $PD + 8 = PD\\sqrt{3}$. $PD$ ಪದಗಳನ್ನು ಒಂದು ಕಡೆಗೆ ತರೋಣ: $8 = PD\\sqrt{3} - PD$. $PD$ ಯನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ತೆಗೆದಾಗ, $8 = PD(\\sqrt{3} - 1)$. ಆದ್ದರಿಂದ, $PD = \\frac{8}{\\sqrt{3}-1}$. ಈಗ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸೋಣ (rationalize). ಇದಕ್ಕಾಗಿ ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡಕ್ಕೂ $(\\sqrt{3}+1)$ ರಿಂದ ಗುಣಿಸೋಣ. ಆಗ ನಮಗೆ $\\frac{8(\\sqrt{3}+1)}{(\\sqrt{3}-1)(\\sqrt{3}+1)} = \\frac{8(\\sqrt{3}+1)}{3-1} = \\frac{8(\\sqrt{3}+1)}{2} = 4(\\sqrt{3}+1)$ m.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_2",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "TRI-APP-2_example_6",
+  "steps": [
+    {
+      "step": 5,
+      "action_display": "$PD + 8 = PD\\sqrt{3} \\Rightarrow 8 = PD(\\sqrt{3} - 1) \\Rightarrow PD = \\frac{8}{\\sqrt{3}-1}$.",
+      "justification": "PD ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಪುನರ್ಜೋಡಿಸುವುದು."
+    },
+    {
+      "step": 5,
+      "action_display": "$PD = \\frac{8(\\sqrt{3}+1)}{(\\sqrt{3}-1)(\\sqrt{3}+1)} = \\frac{8(\\sqrt{3}+1)}{3-1} = 4(\\sqrt{3}+1)$ m.",
+      "justification": "ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸುವುದು (Rationalizing the denominator)."
+    }
+  ],
+  "chunk_id": "TRI-APP-2_concept_1_chunk_054"
+}

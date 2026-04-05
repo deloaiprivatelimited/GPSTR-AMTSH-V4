@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಮುಮ್ಮೆದುಳು (Forebrain)",
+  "script": "ಮಿದುಳಿನ ಮೊದಲ ಮತ್ತು ಅತಿದೊಡ್ಡ ಭಾಗವೇ ಮುಮ್ಮೆದುಳು. ಇದರ ಪ್ರಮುಖ ಭಾಗ ಮಹಾಮಸ್ತಿಷ್ಕ. ಇದು ನಮ್ಮ ಆಲೋಚನೆ, ಬುದ್ಧಿಶಕ್ತಿ, ಸ್ಮರಣೆ, ಮತ್ತು ಕಲ್ಪನೆಗಳ ಕೇಂದ್ರವಾಗಿದೆ. ನಾವು ಕಲಿಯುವುದು, ಮಾತನಾಡುವುದು, ಮತ್ತು ಸಮಸ್ಯೆಗಳನ್ನು ಬಗೆಹರಿಸುವುದು ಮುಂತಾದ ಎಲ್ಲಾ ಜ್ಞಾನಗ್ರಹಣ ಕ್ರಿಯೆಗಳಿಗೆ ಇದೇ ಕಾರಣ. ಜೊತೆಗೆ, ನಮ್ಮ ದೇಹದ ಎಲ್ಲಾ ಐಚ್ಛಿಕ ಕ್ರಿಯೆಗಳನ್ನು, ಅಂದರೆ ನಮ್ಮ ಇಚ್ಛೆಯಂತೆ ಕೈಕಾಲುಗಳನ್ನು ಆಡಿಸುವುದನ್ನು ಇದು ನಿಯಂತ್ರಿಸುತ್ತದೆ. ಶ್ರವಣ, ದೃಷ್ಟಿ, ಮತ್ತು ವಾಸನೆಯಂತಹ ಸಂವೇದನೆಗಳನ್ನು ಗ್ರಹಿಸುವ ಪ್ರತ್ಯೇಕ ಪ್ರದೇಶಗಳೂ ಇಲ್ಲಿವೆ.",
+  "script_display": "ಮಿದುಳಿನ ಮೊದಲ ಮತ್ತು ಅತಿದೊಡ್ಡ ಭಾಗವೇ ಮುಮ್ಮೆದುಳು (Forebrain). ಇದರ ಪ್ರಮುಖ ಭಾಗ ಮಹಾಮಸ್ತಿಷ್ಕ (Cerebrum).",
+  "display_bullets": [
+    "ಇದು ಆಲೋಚನೆ, ಬುದ್ಧಿಶಕ್ತಿ, ಸ್ಮರಣೆ ಮತ್ತು ಕಲ್ಪನೆಗಳ ಕೇಂದ್ರವಾಗಿದೆ.",
+    "ದೇಹದ ಎಲ್ಲಾ ಐಚ್ಛಿಕ ಕ್ರಿಯೆಗಳನ್ನು (voluntary actions) ನಿಯಂತ್ರಿಸುತ್ತದೆ.",
+    "ಶ್ರವಣ, ದೃಷ್ಟಿ, ವಾಸನೆಯಂತಹ ಸಂವೇದನೆಗಳನ್ನು ಗ್ರಹಿಸುವ ಪ್ರದೇಶಗಳನ್ನು ಹೊಂದಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "default",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of the human brain with the forebrain (cerebrum) highlighted. The visual should be clean and clearly indicate the largest part of the brain.",
+    "labels": "ಮುಮ್ಮೆದುಳು (ಮಹಾಮಸ್ತಿಷ್ಕ)",
+    "scientific_significance": "Visually isolates the forebrain to help students associate its structure with its functions of higher-order thinking.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_6_concept_3_chunk_004"
+}

@@ -1,0 +1,92 @@
+{
+  "module_id": "std_8_chapter_4_concept_3",
+  "chapter_code": "std_8_chapter_4",
+  "voice": "Alnilam",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:41:11",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "ec79e4ce5df86ce76027b06aab899f06",
+      "wav_file": "001_intro_0.wav",
+      "duration": 53.811,
+      "slide_title": "ಬೆಂಕಿಯ ನಿಯಂತ್ರಣ",
+      "type": "chunk",
+      "script_words": 68,
+      "generated_at": "2026-04-02 14:39:53"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "34d043271b8fcc74aa1076b6b5599db9",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 25.491,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 35,
+      "generated_at": "2026-04-02 14:39:56"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "8b8677cf59c8ad08a5224bac7c709e65",
+      "wav_file": "003_property_0.wav",
+      "duration": 42.771,
+      "slide_title": "ಬೆಂಕಿ ನಂದಿಸುವ ವಿಧಾನಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 14:40:09"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "d1a087f35a5eef927d31e3e221ad25ab",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 48.811,
+      "slide_title": "ಅಗ್ನಿಶಾಮಕಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 14:40:10"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "5b59591fb1fd9c43d1a8e3eb8c9df3cf",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 47.651,
+      "slide_title": "ಬೆಂಕಿ ನಂದಿಸುವ ವಿಧಾನಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 14:40:12"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "522b86a17c92e1e958d2c48e4ef66caa",
+      "wav_file": "007_recap_0.wav",
+      "duration": 47.451,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 61,
+      "generated_at": "2026-04-02 14:40:50"
+    },
+    "006_property_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "157abb8388ca09a551fa9078112fdd7d",
+      "wav_file": "006_property_cont_0_3.wav",
+      "duration": 49.651,
+      "slide_title": "ಅಗ್ನಿಶಾಮಕಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 14:41:11"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಕಂಡುಕೊಂಡ ಸಮಾಂತರ ಬಾಹುಗಳಿಂದ, ADEF, BDFE, ಮತ್ತು DFCE ಗಳು ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳಾಗುತ್ತವೆ ಎಂದು ನಾವು ಹೇಳಬಹುದು. ಉದಾಹರಣೆಗೆ, BDFE ಯಲ್ಲಿ, DF ಪ್ಯಾರಲಲ್ BE ಮತ್ತು DE ಪ್ಯಾರಲಲ್ BF. ಈಗ, ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಒಂದು ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವನ್ನು ಬಳಸೋಣ: ಅದರ ಕರ್ಣವು ಅದನ್ನು ಎರಡು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಇದನ್ನು ಪ್ರತಿಯೊಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜಕ್ಕೆ ಅನ್ವಯಿಸೋಣ. BDFE ಯಲ್ಲಿ, ಕರ್ಣ DE ಯು ತ್ರಿಭುಜ BDE ಮತ್ತು ತ್ರಿಭुಜ FED ಗಳನ್ನು ಸರ್ವಸಮವಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಇದೇ ರೀತಿ, ADEF ನಲ್ಲಿ, ತ್ರಿಭುಜ DAF ಮತ್ತು ತ್ರಿಭುಜ FED ಸರ್ವಸಮ. ಮತ್ತು DFCE ಯಲ್ಲಿ, ತ್ರಿಭುಜ EFC ಮತ್ತು ತ್ರಿಭುಜ FED ಸರ್ವಸಮ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಕಂಡುಕೊಂಡ ಸಮಾಂತರ ಬಾಹುಗಳಿಂದ, ADEF, BDFE, ಮತ್ತು DFCE ಗಳು ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳಾಗುತ್ತವೆ. ಈಗ, ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಒಂದು ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವನ್ನು ಬಳಸೋಣ: ಅದರ ಕರ್ಣವು ಅದನ್ನು ಎರಡು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-QUAD-2_example_6",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ADEF, BDFE, ಮತ್ತು DFCE ಗಳು ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳು.",
+      "justification": "ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿವೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$∆ BDE ≅ ∆ FED$ (BDFE ಯಿಂದ)",
+      "justification": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕರ್ಣವು ಅದನ್ನು ಎರಡು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "$∆ DAF ≅ ∆ FED$ (ADEF ಯಿಂದ)\n$∆ EFC ≅ ∆ FED$ (DFCE ಯಿಂದ)",
+      "justification": "ಅದೇ ರೀತಿ, ಇತರ ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳಿಗೆ."
+    }
+  ],
+  "chunk_id": "GEO-QUAD-2_concept_5_chunk_010"
+}

@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ನಾವು ಪಡೆದ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಮುವತ್ತಾರು ಬೈ ಮೈನಸ್ ಇಪ್ಪತ್ತನಾಲ್ಕರ ಆದರ್ಶ ರೂಪ ಮೈನಸ್ ಮೂರು ಬೈ ಎರಡು. ಎರಡನೆಯದಾಗಿ, ಮೈನಸ್ ಮೂರು ಬೈ ಮೈನಸ್ ಹದಿನೈದರ ಆದರ್ಶ ರೂಪ ಒಂದು ಬೈ ಐದು. ನೆನಪಿಡಿ, ಆದರ್ಶ ರೂಪಕ್ಕೆ ತರುವಾಗ, ಛೇದವು ಯಾವಾಗಲೂ ಧನಾತ್ಮಕವಾಗಿರಬೇಕು ಮತ್ತು ಅಂಶ ಮತ್ತು ಛೇದಕ್ಕೆ ಒಂದನ್ನು ಬಿಟ್ಟು ಬೇರೆ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳು ಇರಬಾರದು.",
+  "script_display": "ಹಾಗಾದರೆ, ನಾವು ಪಡೆದ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, $\\frac{36}{-24}$ ರ ಆದರ್ಶ ರೂಪ $\\frac{-3}{2}$. ಎರಡನೆಯದಾಗಿ, $\\frac{-3}{-15}$ ರ ಆದರ್ಶ ರೂಪ $\\frac{1}{5}$. ನೆನಪಿಡಿ, ಆದರ್ಶ ರೂಪಕ್ಕೆ ತರುವಾಗ, ಛೇದವು ಯಾವಾಗಲೂ ಧನಾತ್ಮಕವಾಗಿರಬೇಕು ಮತ್ತು ಅಂಶ ಮತ್ತು ಛೇದಕ್ಕೆ 1ನ್ನು ಬಿಟ್ಟು ಬೇರೆ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳು ಇರಬಾರದು.",
+  "display_bullets": [
+    "(i) $\\frac{36}{-24}$ ರ ಆದರ್ಶ ರೂಪ $\\frac{-3}{2}$ ಆಗಿದೆ.",
+    "(ii) $\\frac{-3}{-15}$ ರ ಆದರ್ಶ ರೂಪ $\\frac{1}{5}$ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಅಂತಿಮ ಉತ್ತರ:}\\\\ (i) \\frac{-3}{2} \\\\ (ii) \\frac{1}{5}",
+    "placeholder_note": "Final answer highlighted in a box"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "NS-RAT-2_example_2",
+  "final_answer": "(i) $\\frac{-3}{2}$ (ii) $\\frac{1}{5}$",
+  "final_answer_display": "(i) $\\frac{-3}{2}$ (ii) $\\frac{1}{5}$",
+  "chunk_id": "NS-RAT-2_concept_1_chunk_030"
+}

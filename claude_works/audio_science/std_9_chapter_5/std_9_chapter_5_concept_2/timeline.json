@@ -1,0 +1,145 @@
+{
+  "module_id": "std_9_chapter_5_concept_2",
+  "chapter_code": "std_9_chapter_5",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 12,
+  "total_duration": 521.372,
+  "total_duration_formatted": "8:41",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_5_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಜೀವಕೋಶಗಳ ವಿಧಗಳು",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 63.651,
+      "duration": 63.651,
+      "script_words": 87
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 64.251,
+      "end": 104.142,
+      "duration": 39.891,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_2_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಜೀವಕೋಶಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "start": 104.742,
+      "end": 138.473,
+      "duration": 33.731,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_2_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಏಕಕೋಶೀಯ ಜೀವಿಗಳು (Unicellular Organisms)",
+      "type": "concept_explanation",
+      "start": 139.073,
+      "end": 181.524,
+      "duration": 42.451,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_2_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಬಹುಕೋಶೀಯ ಜೀವಿಗಳು (Multicellular Organisms)",
+      "type": "concept_explanation",
+      "start": 182.124,
+      "end": 231.295,
+      "duration": 49.171,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_2_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಪ್ರಮುಖ ಗಮನಾಂಶ: ಏಕಕೋಶೀಯ ಮತ್ತು ಕೋಶ ಪ್ರಕಾರ",
+      "type": "concept_explanation",
+      "start": 231.895,
+      "end": 269.186,
+      "duration": 37.291,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_2_chunk_007",
+      "chunk_file": "007_classification_1.json",
+      "wav_file": "007_classification_1.wav",
+      "slide_title": "ಕೋಶಕೇಂದ್ರದ ರಚನೆಯ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "start": 269.786,
+      "end": 310.677,
+      "duration": 40.891,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_2_chunk_008",
+      "chunk_file": "008_classification_cont_1_1.json",
+      "wav_file": "008_classification_cont_1_1.wav",
+      "slide_title": "ಪ್ರೊಕ್ಯಾರಿಯೋಟಿಕ್ ಜೀವಕೋಶಗಳು (Prokaryotic Cells)",
+      "type": "concept_explanation",
+      "start": 311.277,
+      "end": 349.088,
+      "duration": 37.811,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_2_chunk_009",
+      "chunk_file": "009_classification_cont_1_2.json",
+      "wav_file": "009_classification_cont_1_2.wav",
+      "slide_title": "ಯೂಕ್ಯಾರಿಯೋಟಿಕ್ ಜೀವಕೋಶಗಳು (Eukaryotic Cells)",
+      "type": "concept_explanation",
+      "start": 349.688,
+      "end": 385.699,
+      "duration": 36.011,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_2_chunk_010",
+      "chunk_file": "010_classification_cont_1_3.json",
+      "wav_file": "010_classification_cont_1_3.wav",
+      "slide_title": "ಪ್ರೊಕ್ಯಾರಿಯೋಟಿಕ್ vs ಯೂಕ್ಯಾರಿಯೋಟಿಕ್: ವ್ಯತ್ಯಾಸಗಳು",
+      "type": "concept_explanation",
+      "start": 386.299,
+      "end": 438.35,
+      "duration": 52.051,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_2_chunk_011",
+      "chunk_file": "011_classification_cont_1_4.json",
+      "wav_file": "011_classification_cont_1_4.wav",
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪು",
+      "type": "concept_explanation",
+      "start": 438.95,
+      "end": 476.761,
+      "duration": 37.811,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_2_chunk_012",
+      "chunk_file": "012_recap_0.json",
+      "wav_file": "012_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 477.361,
+      "end": 520.772,
+      "duration": 43.411,
+      "script_words": 59
+    }
+  ]
+}

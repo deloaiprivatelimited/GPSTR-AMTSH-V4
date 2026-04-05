@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಸಮತೋಲಿತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ. ಘನ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ಕಬ್ಬಿಣವು, ಜಲೀಯ ದ್ರಾವಣದಲ್ಲಿರುವ ತಾಮ್ರದ ಸಲ್ಫೇಟ್‌ನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಜಲೀಯ ದ್ರಾವಣದಲ್ಲಿರುವ ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ಮತ್ತು ಘನ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ತಾಮ್ರವನ್ನು ಉತ್ಪನ್ನವಾಗಿ ನೀಡುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಸಮತೋಲಿತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_only",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Fe(s) + CuSO_4(aq) \\rightarrow FeSO_4(aq) + Cu(s)",
+    "placeholder_note": "Balanced chemical equation for the reaction between iron and copper sulfate."
+  },
+  "chunk_id": "std_10_chapter_3_concept_6_chunk_016"
+}

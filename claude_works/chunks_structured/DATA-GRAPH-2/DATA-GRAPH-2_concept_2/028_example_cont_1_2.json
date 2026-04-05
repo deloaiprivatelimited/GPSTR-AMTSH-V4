@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ನಕ್ಷೆ ರಚಿಸುವುದು",
+  "script": "ಈಗ, ನಾವು ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ಪಡೆದ ಬಿಂದುಗಳನ್ನು ಬಳಸಿ ನಕ್ಷೆಯನ್ನು ರಚಿಸೋಣ. ನಾವು ಎಕ್ಸ್-ಅಕ್ಷದ ಮೇಲೆ ಠೇವಣಿ ಮೊತ್ತವನ್ನು ಮತ್ತು ವೈ-ಅಕ್ಷದ ಮೇಲೆ ಸರಳ ಬಡ್ಡಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ. ಪ್ರಮಾಣಾನುಪಾತವನ್ನು ಆಯ್ಕೆ ಮಾಡೋಣ. ಎಕ್ಸ್-ಅಕ್ಷದ ಮೇಲೆ ಒಂದು ಸೆಂಟಿಮೀಟರ್ 100 ರೂಪಾಯಿಗೆ ಸಮ ಮತ್ತು ವೈ-ಅಕ್ಷದ ಮೇಲೆ ಒಂದು ಸೆಂಟಿಮೀಟರ್ 10 ರೂಪಾಯಿಗೆ ಸಮ ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಈಗ, ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸೋಣ: 100 ಕಾಮಾ 10, 200 ಕಾಮಾ 20, 500 ಕಾಮಾ 50, ಮತ್ತು 1000 ಕಾಮಾ 100. ಈ ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ಒಂದು ಸರಳರೇಖೆಯಿಂದ ಸೇರಿಸಿದಾಗ, ಅದು ಮೂಲಬಿಂದು ಅಂದರೆ ಸೊನ್ನೆ ಕಾಮಾ ಸೊನ್ನೆಯ ಮೂಲಕ ಹಾದುಹೋಗುವುದನ್ನು ನಾವು ಗಮನಿಸಬಹುದು. ಇದು ಒಂದು ರೇಖಾತ್ಮಕ ನಕ್ಷೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ, ನಾವು ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ಪಡೆದ ಬಿಂದುಗಳನ್ನು ಬಳಸಿ ನಕ್ಷೆಯನ್ನು ರಚಿಸೋಣ. ನಾವು x-ಅಕ್ಷದ ಮೇಲೆ ಠೇವಣಿ ಮೊತ್ತವನ್ನು ಮತ್ತು y-ಅಕ್ಷದ ಮೇಲೆ ಸರಳ ಬಡ್ಡಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ. ಪ್ರಮಾಣಾನುಪಾತವನ್ನು ಆಯ್ಕೆ ಮಾಡೋಣ. x-ಅಕ್ಷದ ಮೇಲೆ $1 \\text{ cm} = ₹100$ ಮತ್ತು y-ಅಕ್ಷದ ಮೇಲೆ $1 \\text{ cm} = ₹10$ ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಈಗ, ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸೋಣ: $(100, 10)$, $(200, 20)$, $(500, 50)$, ಮತ್ತು $(1000, 100)$. ಈ ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ಒಂದು ಸರಳರೇಖೆಯಿಂದ ಸೇರಿಸಿದಾಗ, ಅದು ಮೂಲಬಿಂದು $(0, 0)$ ಮೂಲಕ ಹಾದುಹೋಗುವುದನ್ನು ನಾವು ಗಮನಿಸಬಹುದು. ಇದು ಒಂದು ರೇಖಾತ್ಮಕ ನಕ್ಷೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "x-ಅಕ್ಷ: ಠೇವಣಿ ಮೊತ್ತ (P)",
+    "y-ಅಕ್ಷ: ಸರಳ ಬಡ್ಡಿ (SI)",
+    "ಪ್ರಮಾಣ: x-ಅಕ್ಷ $1 \\text{ cm} = ₹100$, y-ಅಕ್ಷ $1 \\text{ cm} = ₹10$",
+    "ಬಿಂದುಗಳನ್ನು $(100, 10), (200, 20), (500, 50), (1000, 100)$ ಗುರುತಿಸಿ ಸೇರಿಸಿದಾಗ ಒಂದು ಸರಳರೇಖೆ ದೊರೆಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A linear graph showing the relationship between Principal amount and Simple Interest. X-axis represents Principal (Deposit) in Rupees, and Y-axis represents Simple Interest in Rupees. The points (100, 10), (200, 20), (500, 50), (1000, 100) are plotted and joined by a straight line passing through the origin (0,0). The scale is marked: X-axis: 1 unit = ₹100, Y-axis: 1 unit = ₹10.",
+    "labels": "x-ಅಕ್ಷ: ಠೇವಣಿ ಮೊತ್ತ (₹), y-ಅಕ್ಷ: ಸರಳ ಬಡ್ಡಿ (₹), ಪ್ರಮಾಣ: x-ಅಕ್ಷ 1cm = ₹100, y-ಅಕ್ಷ 1cm = ₹10",
+    "mathematical_significance": "This graph visually represents the direct proportionality between the principal amount and the simple interest at a constant rate. It's a linear relationship.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "DATA-GRAPH-2_example_4",
+  "chunk_id": "DATA-GRAPH-2_concept_2_chunk_028"
+}

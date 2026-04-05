@@ -1,0 +1,68 @@
+{
+  "module_id": "std_7_science_chapter_4_concept_4",
+  "chapter_code": "std_7_chapter_4",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 5,
+  "total_duration": 245.295,
+  "total_duration_formatted": "4:05",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_science_chapter_4_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ತಟಸ್ಥೀಕರಣ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 48.851,
+      "duration": 48.851,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "std_7_science_chapter_4_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisite",
+      "start": 49.451,
+      "end": 78.382,
+      "duration": 28.931,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_7_science_chapter_4_concept_4_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ತಟಸ್ಥೀಕರಣ: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "start": 78.982,
+      "end": 131.953,
+      "duration": 52.971,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "std_7_science_chapter_4_concept_4_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ತಟಸ್ಥೀಕರಣ: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "start": 132.553,
+      "end": 200.604,
+      "duration": 68.051,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "std_7_science_chapter_4_concept_4_chunk_005",
+      "chunk_file": "005_recap_0.json",
+      "wav_file": "005_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ತಟಸ್ಥೀಕರಣ",
+      "type": "recap",
+      "start": 201.204,
+      "end": 244.695,
+      "duration": 43.491,
+      "script_words": 61
+    }
+  ]
+}

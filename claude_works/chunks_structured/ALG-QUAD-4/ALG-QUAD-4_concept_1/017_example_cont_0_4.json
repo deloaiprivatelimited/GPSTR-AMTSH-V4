@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಭಾಗ (ii): ಆಟಿಕೆಗಳ ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ. ಒಂದು ದಿನದಲ್ಲಿ ತಯಾರಿಸಿದ ಆಟಿಕೆಗಳ ಸಂಖ್ಯೆಯನ್ನು x ಎಂದು ಭಾವಿಸೋಣ. ಸಮಸ್ಯೆಯ ಪ್ರಕಾರ, ಪ್ರತಿ ಆಟಿಕೆಯ ಉತ್ಪಾದನಾ ವೆಚ್ಚವು 55 ರಿಂದ ಆ ದಿನದಲ್ಲಿ ಉತ್ಪಾದಿಸಿದ ಆಟಿಕೆಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಳೆದಾಗ ಬರುವಷ್ಟಿರುತ್ತದೆ. ಅಂದರೆ, ಪ್ರತಿ ಆಟಿಕೆಯ ವೆಚ್ಚ 55 ಮೈನಸ್ x ರೂಪಾಯಿಗಳು.",
+  "script_display": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ. ಒಂದು ದಿನದಲ್ಲಿ ತಯಾರಿಸಿದ ಆಟಿಕೆಗಳ ಸಂಖ್ಯೆಯನ್ನು $x$ ಎಂದು ಭಾವಿಸೋಣ. ಸಮಸ್ಯೆಯ ಪ್ರಕಾರ, ಪ್ರತಿ ಆಟಿಕೆಯ ಉತ್ಪಾದನಾ ವೆಚ್ಚವು 55 ರಿಂದ ಆ ದಿನದಲ್ಲಿ ಉತ್ಪಾದಿಸಿದ ಆಟಿಕೆಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಳೆದಾಗ ಬರುವಷ್ಟಿರುತ್ತದೆ. ಅಂದರೆ, ಪ್ರತಿ ಆಟಿಕೆಯ ವೆಚ್ಚ $55 - x$ ರೂಪಾಯಿಗಳು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "text_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-QUAD-4_example_1",
+  "steps": [
+    {
+      "step": 6,
+      "action_display": "ತಯಾರಿಸಿದ ಆಟಿಕೆಗಳ ಸಂಖ್ಯೆ = $x$",
+      "justification": "ಎರಡನೇ ಸಮಸ್ಯೆಯ ಅಜ್ಞಾತ ರಾಶಿಯನ್ನು ಚರಾಕ್ಷರವಾಗಿ ತೆಗೆದುಕೊಳ್ಳುವುದು."
+    },
+    {
+      "step": 7,
+      "action_display": "ಪ್ರತಿ ಆಟಿಕೆಯ ವೆಚ್ಚ = $55 - x$ ರೂಪಾಯಿಗಳು",
+      "justification": "ವೆಚ್ಚವು 55 ರಿಂದ ಆಟಿಕೆಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಳೆದಷ್ಟಿದೆ."
+    }
+  ],
+  "chunk_id": "ALG-QUAD-4_concept_1_chunk_017"
+}

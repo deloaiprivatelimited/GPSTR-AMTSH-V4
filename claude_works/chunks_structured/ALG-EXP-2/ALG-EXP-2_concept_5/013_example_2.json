@@ -1,0 +1,33 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಂಕ್ಷೇಪಿಸಿ",
+  "script": "ಈಗ ಒಂದು ಸಂಕೀರ್ಣ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು a ಪ್ಲಸ್ b, ಇಂಟು 2a ಮೈನಸ್ 3b ಪ್ಲಸ್ c, ಮೈನಸ್ 2a ಮೈನಸ್ 3b, ಇಂಟು c ಅನ್ನು ಸಂಕ್ಷೇಪಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಭಾಗಗಳಿವೆ: ಒಂದು ಗುಣಾಕಾರ ಮತ್ತು ಒಂದು ವ್ಯವಕಲನ. ನಾವು ಇದನ್ನು ಹಂತ ಹಂತವಾಗಿ ಬಿಡಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಸಂಕೀರ್ಣ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $(a+b)(2a-3b+c) - (2a-3b)c$ ಅನ್ನು ಸಂಕ್ಷೇಪಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಭಾಗಗಳಿವೆ: ಒಂದು ಗುಣಾಕಾರ ಮತ್ತು ಒಂದು ವ್ಯವಕಲನ. ನಾವು ಇದನ್ನು ಹಂತ ಹಂತವಾಗಿ ಬಿಡಿಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "(a+b)(2a-3b+c) - (2a-3b)c",
+    "placeholder_note": "The problem statement to be simplified."
+  },
+  "difficulty": "advanced",
+  "source_example_id": "ALG-EXP-2_example_10",
+  "chunk_id": "ALG-EXP-2_concept_5_chunk_013"
+}

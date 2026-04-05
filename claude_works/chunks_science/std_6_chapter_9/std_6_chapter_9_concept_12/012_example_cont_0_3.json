@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ಆವೀಕರಣ",
+  "script": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು ಶೋಧಿತ ದ್ರವದಿಂದ, ಅಂದರೆ ಉಪ್ಪುನೀರಿನಿಂದ ಉಪ್ಪನ್ನು ಬೇರ್ಪಡಿಸಬೇಕು. ಇದಕ್ಕಾಗಿ ಆವೀಕರಣ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಉಪ್ಪಿನ ದ್ರಾವಣವನ್ನು ಕಾಯಿಸಿದಾಗ, ನೀರು ಆವಿಯಾಗಿ ಹೋಗುತ್ತದೆ ಮತ್ತು ಶುದ್ಧ ಉಪ್ಪು ಪಾತ್ರೆಯಲ್ಲಿ ಉಳಿಯುತ್ತದೆ. ಹೀಗೆ ನಾವು ಉಪ್ಪನ್ನು ಮರಳಿ ಪಡೆಯುತ್ತೇವೆ.",
+  "script_display": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು ಶೋಧಿತ ದ್ರವದಿಂದ, ಅಂದರೆ ಉಪ್ಪುನೀರಿನಿಂದ ಉಪ್ಪನ್ನು ಬೇರ್ಪಡಿಸಬೇಕು. ಇದಕ್ಕಾಗಿ ಆವೀಕರಣ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಉಪ್ಪಿನ ದ್ರಾವಣವನ್ನು ಕಾಯಿಸಿದಾಗ, ನೀರು ಆವಿಯಾಗಿ ಹೋಗುತ್ತದೆ ಮತ್ತು ಶುದ್ಧ ಉಪ್ಪು ಪಾತ್ರೆಯಲ್ಲಿ ಉಳಿಯುತ್ತದೆ. ಹೀಗೆ ನಾವು ಉಪ್ಪನ್ನು ಮರಳಿ ಪಡೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಹಂತ 3: ಆವೀಕರಣ (Evaporation)",
+    "ವಿಧಾನ: ಶೋಧಿತ ದ್ರವವನ್ನು (ಉಪ್ಪುನೀರು) ಕಾಯಿಸುವುದು.",
+    "ಫಲಿತಾಂಶ: ನೀರು ಆವಿಯಾಗುತ್ತದೆ, ಉಪ್ಪು ಪಾತ್ರೆಯಲ್ಲಿ ಉಳಿಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker of salt water being heated on a tripod stand with a Bunsen burner. Water vapor is shown rising from the beaker, and salt crystals are visible at the bottom.",
+    "labels": "ಉಪ್ಪುನೀರು, ಆವಿ, ಉಪ್ಪು, ಬನ್ಸೆನ್ ಬರ್ನರ್",
+    "scientific_significance": "Demonstrates separation of a soluble solid from a solvent by heating. The solvent evaporates, leaving the solid behind.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "source_example_id": "std_6_chapter_9_we_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಆವೀಕರಣ: ಉಪ್ಪುನೀರನ್ನು ಕಾಯಿಸಿದಾಗ, ನೀರು ಆವಿಯಾಗಿ ಉಪ್ಪು ಉಳಿಯುತ್ತದೆ.",
+      "justification": "ಕರಗಿದ ವಸ್ತುವನ್ನು ದ್ರಾವಕದಿಂದ ಬೇರ್ಪಡಿಸಲು ಆವೀಕರಣವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "std_6_chapter_9_concept_12_chunk_012"
+}

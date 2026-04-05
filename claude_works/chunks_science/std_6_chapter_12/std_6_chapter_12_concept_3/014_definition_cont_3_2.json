@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಧೂಮಕೇತುವಿನ ರಚನೆ ಮತ್ತು ಬಾಲದ ರಹಸ್ಯ",
+  "script": "ಈಗ ಧೂಮಕೇತುವಿನ ರಚನೆಯನ್ನು ವಿವರವಾಗಿ ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಧೂಮಕೇತುವಿನ ಕೇಂದ್ರ ಭಾಗವನ್ನು ನ್ಯೂಕ್ಲಿಯಸ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ, ಇದು ಗಟ್ಟಿಯಾದ ಹಿಮ ಮತ್ತು ಕಲ್ಲಿನಿಂದ ಮಾಡಲ್ಪಟ್ಟಿರುತ್ತದೆ. ಸೂರ್ಯನ ಹತ್ತಿರ ಬಂದಾಗ, ಈ ನ್ಯೂಕ್ಲಿಯಸ್ ಸುತ್ತಲೂ ಅನಿಲ ಮತ್ತು ಧೂಳಿನ ಒಂದು ದೊಡ್ಡ ಮೋಡವು ರೂಪುಗೊಳ್ಳುತ್ತದೆ, ಇದನ್ನು ಕೋಮಾ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಅತಿ ಮುಖ್ಯವಾದ ವಿಷಯವೆಂದರೆ, ಸೂರ್ಯನಿಂದ ಬರುವ ಸೌರ ಮಾರುತವು ಈ ಕೋಮಾದಲ್ಲಿನ ಕಣಗಳನ್ನು ಹಿಂದಕ್ಕೆ ತಳ್ಳುತ್ತದೆ. ಇದರಿಂದಾಗಿ ಉದ್ದವಾದ ಬಾಲವು ಸೃಷ್ಟಿಯಾಗುತ್ತದೆ. ಈ ಬಾಲವು ಯಾವಾಗಲೂ ಸೂರ್ಯನಿಗೆ ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ಧೂಮಕೇತುವಿನ ರಚನೆಯನ್ನು ವಿವರವಾಗಿ ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಧೂಮಕೇತುವಿನ ಕೇಂದ್ರ ಭಾಗವನ್ನು ನ್ಯೂಕ್ಲಿಯಸ್ (Nucleus) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಸೂರ್ಯನ ಹತ್ತಿರ ಬಂದಾಗ, ನ್ಯೂಕ್ಲಿಯಸ್ ಸುತ್ತಲೂ ಅನಿಲ ಮತ್ತು ಧೂಳಿನ ಮೋಡ, ಅಂದರೆ ಕೋಮಾ (Coma) ರೂಪುಗೊಳ್ಳುತ್ತದೆ. ಸೂರ್ಯನಿಂದ ಬರುವ ಸೌರ ಮಾರುತವು (Solar Wind) ಈ ಕಣಗಳನ್ನು ಹಿಂದಕ್ಕೆ ತಳ್ಳಿ ಬಾಲವನ್ನು (Tail) ಸೃಷ್ಟಿಸುತ್ತದೆ. ಈ ಬಾಲವು ಯಾವಾಗಲೂ ಸೂರ್ಯನಿಗೆ ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ನ್ಯೂಕ್ಲಿಯಸ್: ಹಿಮ ಮತ್ತು ಕಲ್ಲಿನ ಗಟ್ಟಿ ಕೇಂದ್ರ.",
+    "ಕೋಮಾ: ನ್ಯೂಕ್ಲಿಯಸ್ ಸುತ್ತಲಿನ ಅನಿಲ ಮತ್ತು ಧೂಳಿನ ಮೋಡ.",
+    "ಬಾಲ: ಸೌರ ಮಾರುತದಿಂದಾಗಿ ಸೂರ್ಯನ ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಸೃಷ್ಟಿಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear diagram of a comet. It should show the central 'Nucleus', the glowing cloud around it labeled 'Coma', and two distinct tails ('Dust Tail' and 'Ion Tail') pointing away from a stylized sun icon located off-screen to the left. Labels should be in Kannada and English.",
+    "labels": "ನ್ಯೂಕ್ಲಿಯಸ್ (Nucleus), ಕೋಮಾ (Coma), ಧೂಳಿನ ಬಾಲ (Dust Tail), ಅಯಾನ್ ಬಾಲ (Ion Tail), ಸೂರ್ಯನ ದಿಕ್ಕು (Direction of Sun)",
+    "scientific_significance": "Illustrates the primary components of a comet and the effect of solar radiation and solar wind.",
+    "placeholder_note": "Image to be generated showing comet structure."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_12_concept_3_chunk_014"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಚಟುವಟಿಕೆ 7.11: ಸ್ಪರ್ಶಕೀಯ ವೇಗ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಏಕರೂಪ ವೃತ್ತೀಯ ಚಲನೆಯ ಒಂದು ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಹೆಸರು ಸ್ಪರ್ಶಕೀಯ ವೇಗ. ಇದಕ್ಕೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಎರಡು ವಸ್ತುಗಳು. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಉದ್ದವಾದ ದಾರ. ಎರಡನೆಯದಾಗಿ, ಆ ದಾರಕ್ಕೆ ಕಟ್ಟಲು ಒಂದು ಸಣ್ಣ ಕಲ್ಲು. ಈ ಸರಳ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ, ವೃತ್ತಾಕಾರದಲ್ಲಿ ಚಲಿಸುವ ವಸ್ತುವಿನ ವೇಗದ ದಿಕ್ಕು ಹೇಗೆ ಬದಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವು ಪ್ರಾಯೋಗಿಕವಾಗಿ ನೋಡೋಣ. ಸಿದ್ಧರಿದ್ದೀರಾ?",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಏಕರೂಪ ವೃತ್ತೀಯ ಚಲನೆಯ ಒಂದು ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಹೆಸರು ಸ್ಪರ್ಶಕೀಯ ವೇಗ (Tangential Velocity). ಇದಕ್ಕೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಎರಡು ವಸ್ತುಗಳು. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಉದ್ದವಾದ ದಾರ. ಎರಡನೆಯದಾಗಿ, ಆ ದಾರಕ್ಕೆ ಕಟ್ಟಲು ಒಂದು ಸಣ್ಣ ಕಲ್ಲು. ಈ ಸರಳ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ, ವೃತ್ತಾಕಾರದಲ್ಲಿ ಚಲಿಸುವ ವಸ್ತುವಿನ ವೇಗದ ದಿಕ್ಕು ಹೇಗೆ ಬದಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವು ಪ್ರಾಯೋಗಿಕವಾಗಿ ನೋಡೋಣ. ಸಿದ್ಧರಿದ್ದೀರಾ?",
+  "display_bullets": [
+    "ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು:",
+    "ಒಂದು ಉದ್ದವಾದ ದಾರ",
+    "ಒಂದು ಸಣ್ಣ ಕಲ್ಲು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the materials needed for the experiment: a long piece of string and a small stone, placed side-by-side on a table.",
+    "labels": "ದಾರ (String), ಕಲ್ಲು (Stone)",
+    "scientific_significance": "Illustrates the simple apparatus required to demonstrate tangential velocity in circular motion.",
+    "placeholder_note": "Image to be generated showing a string and a stone."
+  },
+  "chunk_id": "std_9_chapter_7_concept_6_chunk_010"
+}

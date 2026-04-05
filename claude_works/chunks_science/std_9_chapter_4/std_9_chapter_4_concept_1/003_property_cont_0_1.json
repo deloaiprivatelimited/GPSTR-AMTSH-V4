@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉಪಪರಮಾಣು ಕಣಗಳು: ಪ್ರೋಟಾನ್",
+  "script": "ಮುಂದಿನ ಕಣ ಪ್ರೋಟಾನ್. ಇ. ಗೋಲ್ಡ್‌ಸ್ಟೀನ್ ಅವರು 1886 ರಲ್ಲಿ ನಳಿಕಾ ಕಿರಣಗಳನ್ನು, ಅಂದರೆ ಧನಾವೇಶದ ವಿಕಿರಣಗಳನ್ನು ಕಂಡುಹಿಡಿದರು. ಇದು ಮುಂದೆ ಪ್ರೋಟಾನ್‌ಗಳ ಅಸ್ತಿತ್ವವನ್ನು ದೃಢಪಡಿಸಲು ಸಹಾಯ ಮಾಡಿತು. ಪ್ರೋಟಾನ್‌ಗಳು ಧನಾತ್ಮಕ ಆವೇಶವನ್ನು ಹೊಂದಿವೆ. ಇದರ ಆವೇಶದ ಮೌಲ್ಯವು ಇಲೆಕ್ಟ್ರಾನ್‌ಗೆ ಸಮನಾಗಿದ್ದರೂ, ಚಿಹ್ನೆ ವಿರುದ್ಧವಾಗಿರುತ್ತದೆ, ಅಂದರೆ ಪ್ಲಸ್ ಒಂದು. ಪ್ರೋಟಾನ್‌ನ ರಾಶಿಯು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಿಂತ ಸುಮಾರು ಎರಡು ಸಾವಿರ ಪಟ್ಟು ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಇದನ್ನು ಒಂದು ಪರಮಾಣು ರಾಶಿ ಏಕಮಾನ ಎಂದು ತೆಗೆದುಕೊಳ್ಳಲಾಗುತ್ತದೆ. ಪ್ರೋಟಾನ್‌ಗಳು ಪರಮಾಣುವಿನ ಬೀಜಕೇಂದ್ರದಲ್ಲಿ ಇರುತ್ತವೆ.",
+  "script_display": "ಮುಂದಿನ ಕಣ ಪ್ರೋಟಾನ್ (p⁺). ಇ. ಗೋಲ್ಡ್‌ಸ್ಟೀನ್ ಅವರು 1886 ರಲ್ಲಿ 'ನಳಿಕಾ ಕಿರಣ'ಗಳನ್ನು (ಧನಾವೇಶದ ವಿಕಿರಣ) ಕಂಡುಹಿಡಿದರು. ಇದು ಮುಂದೆ ಪ್ರೋಟಾನ್‌ಗಳ ಅಸ್ತಿತ್ವವನ್ನು ದೃಢಪಡಿಸಲು ಸಹಾಯ ಮಾಡಿತು. ಪ್ರೋಟಾನ್‌ಗಳು ಧನಾತ್ಮಕ ಆವೇಶವನ್ನು ಹೊಂದಿವೆ. ಇದರ ಆವೇಶದ ಮೌಲ್ಯವು ಇಲೆಕ್ಟ್ರಾನ್‌ಗೆ ಸಮನಾಗಿದ್ದರೂ, ಚಿಹ್ನೆ ವಿರುದ್ಧವಾಗಿರುತ್ತದೆ (+1). ಪ್ರೋಟಾನ್‌ನ ರಾಶಿಯು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಿಂತ ಸುಮಾರು 2000 ಪಟ್ಟು ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಇದನ್ನು ಒಂದು ಪರಮಾಣು ರಾಶಿ ಏಕಮಾನ (1 u) ಎಂದು ತೆಗೆದುಕೊಳ್ಳಲಾಗುತ್ತದೆ. ಪ್ರೋಟಾನ್‌ಗಳು ಪರಮಾಣುವಿನ ಬೀಜಕೇಂದ್ರದಲ್ಲಿ (nucleus) ಇರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಆವಿಷ್ಕಾರ: ಇ. ಗೋಲ್ಡ್‌ಸ್ಟೀನ್ (ನಳಿಕಾ ಕಿರಣಗಳು)",
+    "ಆವೇಶ (Charge): ಧನಾತ್ಮಕ (+1 ಏಕಮಾನ)",
+    "ರಾಶಿ (Mass): 1 ಪರಮಾಣು ರಾಶಿ ಏಕಮಾನ (1 u)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "style_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a proton, represented as a sphere with a plus sign (+) inside it. It should look larger than the electron from the previous slide and be placed inside a representation of a nucleus.",
+    "labels": "p⁺",
+    "scientific_significance": "Visual representation of a proton, highlighting its positive charge and its location within the nucleus.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_4_concept_1_chunk_003"
+}

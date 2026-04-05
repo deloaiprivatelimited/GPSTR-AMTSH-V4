@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ತಾಪವನ್ನು ಅಳೆಯುವುದು",
+  "script": "ಈಗ ತಾಪವನ್ನು ಹೇಗೆ ಅಳೆಯುತ್ತಾರೆಂದು ನೋಡೋಣ. ತಾಪವನ್ನು ಅಳೆಯಲು ನಾವು 'ತಾಪಮಾಪಕ' ಎಂಬ ಸಾಧನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ಬಿಸಿ ನೀರಿದೆ ಮತ್ತು ಇನ್ನೊಂದರಲ್ಲಿ ತಣ್ಣೀರು ಇದೆ. ಎರಡರಲ್ಲೂ ತಾಪಮಾಪಕವನ್ನು ಇಟ್ಟಾಗ, ಬಿಸಿ ನೀರಿನಲ್ಲಿರುವ ತಾಪಮಾಪಕವು ಹೆಚ್ಚಿನ ಅಳತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್. ಹಾಗೆಯೇ, ತಣ್ಣೀರಿನಲ್ಲಿರುವ ತಾಪಮಾಪಕವು ಕಡಿಮೆ ಅಳತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ಹತ್ತು ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್. ಈ ಅಳತೆಯು ವಸ್ತುವಿನ ಬಿಸಿಯ ಮಟ್ಟವನ್ನು ಸಂಖ್ಯೆಯ ರೂಪದಲ್ಲಿ ತಿಳಿಸುತ್ತದೆ.",
+  "script_display": "ತಾಪವನ್ನು ಅಳೆಯಲು ನಾವು 'ತಾಪಮಾಪಕ' (Thermometer) ಎಂಬ ಸಾಧನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ಬಿಸಿ ನೀರಿದೆ ಮತ್ತು ಇನ್ನೊಂದರಲ್ಲಿ ತಣ್ಣೀರು ಇದೆ. ಎರಡರಲ್ಲೂ ತಾಪಮಾಪಕವನ್ನು ಇಟ್ಟಾಗ, ಬಿಸಿ ನೀರಿನಲ್ಲಿರುವ ತಾಪಮಾಪಕವು ಹೆಚ್ಚಿನ ಅಳತೆಯನ್ನು (ಉದಾ: 80°C) ತೋರಿಸುತ್ತದೆ. ಹಾಗೆಯೇ, ತಣ್ಣೀರಿನಲ್ಲಿರುವ ತಾಪಮಾಪಕವು ಕಡಿಮೆ ಅಳತೆಯನ್ನು (ಉದಾ: 10°C) ತೋರಿಸುತ್ತದೆ. ಈ ಅಳತೆಯು ವಸ್ತುವಿನ ಬಿಸಿಯ ಮಟ್ಟವನ್ನು ಸಂಖ್ಯೆಯ ರೂಪದಲ್ಲಿ ತಿಳಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ತಾಪವನ್ನು 'ತಾಪಮಾಪಕ' (Thermometer) ಎಂಬ ಸಾಧನದಿಂದ ಅಳೆಯಲಾಗುತ್ತದೆ.",
+    "ವಸ್ತು ಹೆಚ್ಚು ಬಿಸಿಯಾದಷ್ಟೂ, ತಾಪಮಾಪಕದಲ್ಲಿನ ಅಳತೆ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ.",
+    "ಈ ಅಳತೆಯು ವಸ್ತುವಿನ ಬಿಸಿಯ ಮಟ್ಟವನ್ನು ಸಂಖ್ಯೆಯ ರೂಪದಲ್ಲಿ ತಿಳಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram comparing two scenarios. On the left, a beaker with hot water (indicated by red color and steam lines) contains a thermometer showing a high reading (80°C). On the right, a beaker with cold water (indicated by blue color and ice cubes) contains a thermometer showing a low reading (10°C).",
+    "labels": "ಬಿಸಿ ನೀರು, ತಣ್ಣೀರು, ತಾಪಮಾಪಕ, ಹೆಚ್ಚಿನ ತಾಪ, ಕಡಿಮೆ ತಾಪ",
+    "scientific_significance": "Visually demonstrates the core concept of temperature measurement. It shows that a higher degree of hotness corresponds to a higher numerical value on a thermometer, making the abstract concept of temperature concrete and measurable.",
+    "placeholder_note": "Image to be generated showing two beakers with thermometers as described."
+  },
+  "chunk_id": "std_6_chapter_7_concept_2_chunk_005"
+}

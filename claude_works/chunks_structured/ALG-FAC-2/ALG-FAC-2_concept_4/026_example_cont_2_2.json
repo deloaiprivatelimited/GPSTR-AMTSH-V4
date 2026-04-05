@@ -1,0 +1,33 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ನಲವತ್ತೊಂಬತ್ತು p ಸ್ಕ್ವೇರ್ ಮೈನಸ್ ಮೂವತ್ತಾರರ ಅಪವರ್ತನಗಳು ಏಳು p ಪ್ಲಸ್ ಆರು ಮತ್ತು ಏಳು p ಮೈನಸ್ ಆರು. ಇಲ್ಲಿ ನಾವು ಎರಡು ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬಳಸಿದ್ದೇವೆ. ಬೀಜೋಕ್ತಿಯು ಎರಡು ಪೂರ್ಣ ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸವಾಗಿದ್ದಾಗ ಈ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಬಹುದು ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.",
+  "script_display": "ಆದ್ದರಿಂದ, $49p^2 - 36$ ರ ಅಪವರ್ತನಗಳು $(7p+6)$ ಮತ್ತು $(7p-6)$. ಇಲ್ಲಿ ನಾವು ಎರಡು ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬಳಸಿದ್ದೇವೆ. ಬೀಜೋಕ್ತಿಯು ಎರಡು ಪೂರ್ಣ ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸವಾಗಿದ್ದಾಗ ಈ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಬಹುದು ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.",
+  "display_bullets": [
+    "ಅಪವರ್ತಿಸಿದ ರೂಪ: $(7p+6)(7p-6)$",
+    "ಬಳಸಿದ ನಿತ್ಯಸಮೀಕರಣ: $a^2 - b^2 = (a+b)(a-b)$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-FAC-2_example_7",
+  "final_answer": "$(7p+6)(7p-6)$",
+  "final_answer_display": "$49p^2 - 36 = (7p+6)(7p-6)$",
+  "chunk_id": "ALG-FAC-2_concept_4_chunk_026"
+}

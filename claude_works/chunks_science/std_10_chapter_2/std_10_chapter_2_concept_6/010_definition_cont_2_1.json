@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಭಾಗಶಃ ಅಯಾನೀಕರಣ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಭಾಗಶಃ ಅಯಾನೀಕರಣ ಎಂದರೆ ಏನೆಂದು ಈ ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ ಅಸಿಟಿಕ್ ಆಮ್ಲದ ದ್ರಾವಣವಿದೆ. ಇದರಲ್ಲಿ ಹೆಚ್ಚಿನ ಅಣುಗಳು ಸಿ ಎಚ್ ತ್ರೀ ಸಿ ಓ ಓ ಎಚ್ ರೂಪದಲ್ಲಿಯೇ ಇವೆ, ಅಂದರೆ ಅವು ವಿಭಜನೆಗೊಂಡಿಲ್ಲ. ಆದರೆ, ಕೆಲವೇ ಕೆಲವು ಅಣುಗಳು ಮಾತ್ರ ವಿಭಜನೆಗೊಂಡು ಎಚ್ ಪ್ಲಸ್ ಮತ್ತು ಸಿ ಎಚ್ ತ್ರೀ ಸಿ ಓ ಓ ಮೈನಸ್ ಅಯಾನುಗಳನ್ನು ನೀಡಿವೆ. ಅಂದರೆ, ನೂರು ಅಣುಗಳನ್ನು ಹಾಕಿದರೆ, ಕೇವಲ ನಾಲ್ಕು ಅಥವಾ ಐದು ಮಾತ್ರ ಅಯಾನುಗಳಾಗುತ್ತವೆ. ಇದನ್ನೇ ನಾವು ಭಾಗಶಃ ಅಥವಾ ಅಪೂರ್ಣ ಅಯಾನೀಕರಣ ಎನ್ನುತ್ತೇವೆ.",
+  "script_display": "ಭಾಗಶಃ ಅಯಾನೀಕರಣ ಎಂದರೆ ಏನೆಂದು ಈ ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ ಅಸಿಟಿಕ್ ಆಮ್ಲದ ದ್ರಾವಣವಿದೆ. ಇದರಲ್ಲಿ ಹೆಚ್ಚಿನ ಅಣುಗಳು CH₃COOH ರೂಪದಲ್ಲಿಯೇ ಇವೆ, ಅಂದರೆ ಅವು ವಿಭಜನೆಗೊಂಡಿಲ್ಲ. ಆದರೆ, ಕೆಲವೇ ಕೆಲವು ಅಣುಗಳು ಮಾತ್ರ ವಿಭಜನೆಗೊಂಡು H⁺ ಮತ್ತು CH₃COO⁻ ಅಯಾನುಗಳನ್ನು ನೀಡಿವೆ. ಅಂದರೆ, 100 ಅಣುಗಳನ್ನು ಹಾಕಿದರೆ, ಕೇವಲ 4 ಅಥವಾ 5 ಮಾತ್ರ ಅಯಾನುಗಳಾಗುತ್ತವೆ. ಇದನ್ನೇ ನಾವು 'ಭಾಗಶಃ' ಅಥವಾ 'ಅಪೂರ್ಣ' ಅಯಾನೀಕರಣ ಎನ್ನುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಹೆಚ್ಚಿನ ಆಮ್ಲದ ಅಣುಗಳು ವಿಭಜನೆಗೊಳ್ಳದೆ ಉಳಿಯುತ್ತವೆ (CH₃COOH).",
+    "ಕೆಲವೇ ಕೆಲವು ಅಣುಗಳು H⁺ ಮತ್ತು CH₃COO⁻ ಅಯಾನುಗಳಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತವೆ.",
+    "ಇದು ಅಪೂರ್ಣ ಅಥವಾ ಭಾಗಶಃ ಅಯಾನೀಕರಣವನ್ನು ತೋರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ದುರ್ಬಲ ಆಮ್ಲದ (ಅಸಿಟಿಕ್ ಆಮ್ಲ) ಭಾಗಶಃ ಅಯಾನೀಕರಣವನ್ನು ತೋರಿಸುವ ಬೀಕರ್. ಇದರಲ್ಲಿ ಹೆಚ್ಚಿನ ಅಣುಗಳು CH₃COOH ಆಗಿರುತ್ತವೆ ಮತ್ತು ಕೆಲವೇ ಕೆಲವು H⁺ ಮತ್ತು CH₃COO⁻ ಅಯಾನುಗಳು ಇರುತ್ತವೆ.",
+    "labels": "CH₃COOH (ಅಣು), H⁺ (ಅಯಾನು), CH₃COO⁻ (ಅಯಾನು)",
+    "scientific_significance": "ದುರ್ಬಲ ಆಮ್ಲಗಳು ನೀರಿನಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ವಿಭಜನೆಯಾಗುವುದಿಲ್ಲ, ಬದಲಿಗೆ ಅಣುಗಳು ಮತ್ತು ಅಯಾನುಗಳ ನಡುವೆ ಸಮತೋಲನವನ್ನು ಸ್ಥಾಪಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ಈ ಚಿತ್ರವು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated: A beaker of water. Show about 20 CH₃COOH molecules floating around intact. Show only 2-3 pairs of H⁺ and CH₃COO⁻ ions that have split apart. The visual emphasis should be on the large number of undissociated molecules compared to the few ions."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_2_concept_6_chunk_010"
+}

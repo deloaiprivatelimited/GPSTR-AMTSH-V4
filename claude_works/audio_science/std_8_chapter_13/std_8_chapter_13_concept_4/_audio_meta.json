@@ -1,0 +1,202 @@
+{
+  "module_id": "std_8_chapter_13_concept_4",
+  "chapter_code": "std_8_chapter_13",
+  "voice": "Umbriel",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 17,
+  "ok_count": 17,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:56:38",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "96925de9518d76ab7405172f84ca3d9c",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 27.931,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 38,
+      "generated_at": "2026-04-02 14:53:46"
+    },
+    "003_formula_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "65517f384b0fb2f9f9cb02f38a200703",
+      "wav_file": "003_formula_0.wav",
+      "duration": 48.251,
+      "slide_title": "ಬಹು ಪ್ರತಿಬಿಂಬಗಳ ಸಂಖ್ಯೆ: ಸೂತ್ರ",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-04-02 14:53:59"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "cfd1acdb4c1c4c7f0a4067ed8cbb92b1",
+      "wav_file": "001_intro_0.wav",
+      "duration": 46.931,
+      "slide_title": "ಬಹು ಪ್ರತಿಬಿಂಬಗಳು ಮತ್ತು ಕೆಲಿಡೋಸ್ಕೋಪ್",
+      "type": "chunk",
+      "script_words": 60,
+      "generated_at": "2026-04-02 14:54:01"
+    },
+    "005_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "c761edfe23d7db46820cb2f91e158aee",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "duration": 53.491,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+      "type": "concept_explanation",
+      "script_words": 75,
+      "generated_at": "2026-04-02 14:54:08"
+    },
+    "004_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "bd8e822dc32fdf9a24bbdcabce7e3307",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "duration": 52.811,
+      "slide_title": "ಉದಾಹರಣೆ: ಪ್ರತಿಬಿಂಬಗಳ ಸಂಖ್ಯೆಯನ್ನು ಲೆಕ್ಕಹಾಕಿ",
+      "type": "concept_explanation",
+      "script_words": 84,
+      "generated_at": "2026-04-02 14:54:12"
+    },
+    "008_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "564bd8d6276a775ddf2377d2403d259c",
+      "wav_file": "008_experiment_cont_0_1.wav",
+      "duration": 33.851,
+      "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "experiment_activity",
+      "script_words": 59,
+      "generated_at": "2026-04-02 14:54:37"
+    },
+    "009_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "4136d23c0fdb876dd2c637a21595a220",
+      "wav_file": "009_experiment_cont_0_2.wav",
+      "duration": 38.131,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "experiment_activity",
+      "script_words": 47,
+      "generated_at": "2026-04-02 14:54:48"
+    },
+    "006_property_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "f668cff52494ca1a38a8bccfc5000a23",
+      "wav_file": "006_property_0.wav",
+      "duration": 60.571,
+      "slide_title": "ಸಮಾಂತರ ದರ್ಪಣಗಳು: ಅನಂತ ಪ್ರತಿಬಿಂಬಗಳು",
+      "type": "concept_explanation",
+      "script_words": 86,
+      "generated_at": "2026-04-02 14:54:59"
+    },
+    "007_experiment_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "9c32010b349536a1db5245569cf35e35",
+      "wav_file": "007_experiment_0.wav",
+      "duration": 31.571,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಕೆಲಿಡೋಸ್ಕೋಪ್ ತಯಾರಿಕೆ",
+      "type": "experiment_activity",
+      "script_words": 47,
+      "generated_at": "2026-04-02 14:55:01"
+    },
+    "010_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "2ae215db434702e559919502a619f696",
+      "wav_file": "010_experiment_cont_0_3.wav",
+      "duration": 37.651,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 3 ಮತ್ತು 4",
+      "type": "experiment_activity",
+      "script_words": 55,
+      "generated_at": "2026-04-02 14:55:12"
+    },
+    "011_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "60c7878b6b1a9b3a6b901362a104ee9a",
+      "wav_file": "011_experiment_cont_0_4.wav",
+      "duration": 37.331,
+      "slide_title": "ವೀಕ್ಷಣೆ: ಅದ್ಭುತ ವಿನ್ಯಾಸಗಳು",
+      "type": "experiment_activity",
+      "script_words": 54,
+      "generated_at": "2026-04-02 14:55:40"
+    },
+    "012_experiment_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "cd017ce99e05b3c9d6f9600b633a7f63",
+      "wav_file": "012_experiment_cont_0_5.wav",
+      "duration": 34.571,
+      "slide_title": "ತೀರ್ಮಾನ: ಬಹು ಪ್ರತಿಫಲನ ತತ್ವ",
+      "type": "experiment_activity",
+      "script_words": 51,
+      "generated_at": "2026-04-02 14:55:41"
+    },
+    "013_example_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "7556a887519e06e953bbdce7d9f72bfa",
+      "wav_file": "013_example_0.wav",
+      "duration": 39.291,
+      "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಬಹು ಪ್ರತಿಬಿಂಬಗಳು",
+      "type": "worked_example",
+      "script_words": 50,
+      "generated_at": "2026-04-02 14:55:41"
+    },
+    "015_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "493118003a190f19fa25fc2d3a1db373",
+      "wav_file": "015_example_cont_0_2.wav",
+      "duration": 36.891,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 4 ಮತ್ತು 5",
+      "type": "worked_example",
+      "script_words": 63,
+      "generated_at": "2026-04-02 14:55:59"
+    },
+    "014_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "62a8225199f1bddb3ccbdb37468c2280",
+      "wav_file": "014_example_cont_0_1.wav",
+      "duration": 68.211,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ರಿಂದ 3",
+      "type": "worked_example",
+      "script_words": 109,
+      "generated_at": "2026-04-02 14:56:20"
+    },
+    "016_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "58ffd2d7ff6e0ae664bcd123e8d861cf",
+      "wav_file": "016_example_cont_0_3.wav",
+      "duration": 22.171,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 26,
+      "generated_at": "2026-04-02 14:56:29"
+    },
+    "017_recap_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "ffd976729d5dcfeb40e6ed6d1ee19e39",
+      "wav_file": "017_recap_0.wav",
+      "duration": 37.371,
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 14:56:38"
+    }
+  }
+}

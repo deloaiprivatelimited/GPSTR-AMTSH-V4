@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ತೀರ್ಮಾನ",
+  "script": "ಹೀಗಾಗಿ, ನಮ್ಮ ಊಹೆ ತಪ್ಪಾಗಿದ್ದರಿಂದ, ನಾವು ಅಂತಿಮ ತೀರ್ಮಾನಕ್ಕೆ ಬರುತ್ತೇವೆ: ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ 3 ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿದೆ. ಈ ಸಾಧನೆಯು ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಬಹಳ ಮುಖ್ಯ. ವೈರುಧ್ಯದಿಂದ ಸಾಧಿಸುವ ವಿಧಾನದ ಪ್ರತಿಯೊಂದು ಹಂತವನ್ನೂ, ವಿಶೇಷವಾಗಿ 'ಸಹ ಅವಿಭಾಜ್ಯ' ಎಂಬ ಷರತ್ತು ಮತ್ತು ಅದರಿಂದ ಉಂಟಾಗುವ ವೈರುಧ್ಯವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನಮೂದಿಸುವುದು ಅತಿ ಅವಶ್ಯಕ.",
+  "script_display": "ಹೀಗಾಗಿ, ನಮ್ಮ ಊಹೆ ತಪ್ಪಾಗಿದ್ದರಿಂದ, ನಾವು ಅಂತಿಮ ತೀರ್ಮಾನಕ್ಕೆ ಬರುತ್ತೇವೆ: $\\sqrt{3}$ ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿದೆ. ಈ ಸಾಧನೆಯು ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಬಹಳ ಮುಖ್ಯ. ವೈರುಧ್ಯದಿಂದ ಸಾಧಿಸುವ ವಿಧಾನದ ಪ್ರತಿಯೊಂದು ಹಂತವನ್ನೂ, ವಿಶೇಷವಾಗಿ 'ಸಹ ಅವಿಭಾಜ್ಯ' ಎಂಬ ಷರತ್ತು ಮತ್ತು ಅದರಿಂದ ಉಂಟಾಗುವ ವೈರುಧ್ಯವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನಮೂದಿಸುವುದು ಅತಿ ಅವಶ್ಯಕ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $\\sqrt{3}$ ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ.",
+    "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಈ ಸಾಧನೆಯು 5-ಅಂಕಗಳ ಪ್ರಶ್ನೆಯಾಗಿ ಬರುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು. ಹಂತಗಳನ್ನು ಸರಿಯಾಗಿ ಬರೆಯುವುದು ಮುಖ್ಯ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_center_visual_center",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sqrt{3} \\text{ ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ}",
+    "placeholder_note": "Final answer in a box"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "advanced",
+  "source_example_id": "NS-REAL-4_example_5",
+  "final_answer": "$\\sqrt{3}$ ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ.",
+  "final_answer_display": "$\\sqrt{3}$ ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ.",
+  "exam_tip": {
+    "question_pattern": "5-mark",
+    "skill_tested": "ವೈರುಧ್ಯದಿಂದ ಸಾಧಿಸುವ ವಿಧಾನ (Proof by Contradiction)",
+    "distractor": "ಸಾಧನೆಯ ಮಧ್ಯದಲ್ಲಿ ಗೊಂದಲಕ್ಕೊಳಗಾಗುವುದು ಅಥವಾ 'a ಮತ್ತು b ಸಹ ಅವಿಭಾಜ್ಯಗಳು' ಎಂಬ ಷರತ್ತನ್ನು ಮರೆಯುವುದು.",
+    "why_distractor_works": "ಈ ಷರತ್ತು ಇಲ್ಲದೆ, ವೈರುಧ್ಯವನ್ನು ಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ, ಮತ್ತು ಸಾಧನೆ ಅಪೂರ್ಣವಾಗುತ್ತದೆ."
+  },
+  "chunk_id": "NS-REAL-4_concept_2_chunk_032"
+}

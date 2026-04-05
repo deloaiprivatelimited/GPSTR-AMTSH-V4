@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ವಾಹಕಗಳು vs. ಅವಾಹಕಗಳು",
+  "script": "ಎಲ್ಲಾ ವಸ್ತುಗಳು ಒಂದೇ ರೀತಿ ಉಷ್ಣವನ್ನು ವಹಿಸುವುದಿಲ್ಲ. ಈ ಆಧಾರದ ಮೇಲೆ ನಾವು ವಸ್ತುಗಳನ್ನು ಎರಡು ಗುಂಪುಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು. ಮೊದಲನೆಯದು, ಉಷ್ಣ ವಾಹಕಗಳು. ಇವು ಉಷ್ಣವನ್ನು ಸುಲಭವಾಗಿ ತಮ್ಮ ಮೂಲಕ ಹರಿಯಲು ಬಿಡುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಅಲ್ಯೂಮಿನಿಯಂ, ತಾಮ್ರ, ಮತ್ತು ಕಬ್ಬಿಣದಂತಹ ಲೋಹಗಳು. ಎರಡನೆಯದು, ಉಷ್ಣ ಅವಾಹಕಗಳು. ಇವು ಉಷ್ಣವನ್ನು ತಮ್ಮ ಮೂಲಕ ಸುಲಭವಾಗಿ ಹರಿಯಲು ಬಿಡುವುದಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ಮರ, ಪ್ಲಾಸ್ಟಿಕ್, ಮತ್ತು ಗಾಜು. ಇದೇ ಕಾರಣಕ್ಕೆ ಅಡುಗೆ ಪಾತ್ರೆಗಳನ್ನು ಲೋಹದಿಂದ ಮತ್ತು ಅವುಗಳ ಹಿಡಿಕೆಗಳನ್ನು ಪ್ಲಾಸ್ಟಿಕ್‌ನಿಂದ ಮಾಡಿರುತ್ತಾರೆ.",
+  "script_display": "ಎಲ್ಲಾ ವಸ್ತುಗಳು ಒಂದೇ ರೀತಿ ಉಷ್ಣವನ್ನು ವಹಿಸುವುದಿಲ್ಲ. ಈ ಆಧಾರದ ಮೇಲೆ ನಾವು ವಸ್ತುಗಳನ್ನು ಎರಡು ಗುಂಪುಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು. ಮೊದಲನೆಯದು, ಉಷ್ಣ ವಾಹಕಗಳು (Conductors). ಇವು ಉಷ್ಣವನ್ನು ಸುಲಭವಾಗಿ ತಮ್ಮ ಮೂಲಕ ಹರಿಯಲು ಬಿಡುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಅಲ್ಯೂಮಿನಿಯಂ, ತಾಮ್ರ, ಮತ್ತು ಕಬ್ಬಿಣದಂತಹ ಲೋಹಗಳು. ಎರಡನೆಯದು, ಉಷ್ಣ ಅವಾಹಕಗಳು (Insulators). ಇವು ಉಷ್ಣವನ್ನು ತಮ್ಮ ಮೂಲಕ ಸುಲಭವಾಗಿ ಹರಿಯಲು ಬಿಡುವುದಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ಮರ, ಪ್ಲಾಸ್ಟಿಕ್, ಮತ್ತು ಗಾಜು. ಇದೇ ಕಾರಣಕ್ಕೆ ಅಡುಗೆ ಪಾತ್ರೆಗಳನ್ನು ಲೋಹದಿಂದ ಮತ್ತು ಅವುಗಳ ಹಿಡಿಕೆಗಳನ್ನು ಪ್ಲಾಸ್ಟಿಕ್‌ನಿಂದ ಮಾಡಿರುತ್ತಾರೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "comparison_table",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "{\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{|p{5cm}|p{5cm}|}\n\\hline\n\\textbf{ಉಷ್ಣ ವಾಹಕಗಳು (Conductors)} & \\textbf{ಉಷ್ಣ ಅವಾಹಕಗಳು (Insulators)} \\\\\n\\hline\nಉಷ್ಣವನ್ನು ಸುಲಭವಾಗಿ ಪ್ರಸರಿಸುತ್ತವೆ. & ಉಷ್ಣವನ್ನು ಸುಲಭವಾಗಿ ಪ್ರಸರಿಸುವುದಿಲ್ಲ. \\\\\n\\hline\nಉದಾ: ಲೋಹಗಳು (ತಾಮ್ರ, ಅಲ್ಯೂಮಿನಿಯಂ, ಕಬ್ಬಿಣ) & ಉದಾ: ಮರ, ಪ್ಲಾಸ್ಟಿಕ್, ಗಾಳಿ, ನೀರು \\\\\n\\hline\n\\end{array}}",
+    "placeholder_note": "A two-column table comparing Conductors and Insulators. Column 1 (Conductors): Allows heat to pass easily, e.g., metals. Column 2 (Insulators): Does not allow heat to pass easily, e.g., wood, plastic."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_7_chapter_3_concept_4_chunk_005"
+}

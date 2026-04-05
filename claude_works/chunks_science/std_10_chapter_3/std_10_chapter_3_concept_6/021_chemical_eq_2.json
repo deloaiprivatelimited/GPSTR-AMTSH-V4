@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸನ್ನಿವೇಶ: ತಾಮ್ರ ಮತ್ತು ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್",
+  "script": "ಈಗ, ನಾವು ಇನ್ನೊಂದು ಸನ್ನಿವೇಶವನ್ನು ನೋಡೋಣ. ನಾವು ತಾಮ್ರದ ತುಂಡನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣದಲ್ಲಿ ಅದ್ದಿದರೆ ಏನಾಗುತ್ತದೆ? ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣವು ಸಾಮಾನ್ಯವಾಗಿ ತಿಳಿ ಹಸಿರು ಬಣ್ಣದಲ್ಲಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ, ನಾವು ಇನ್ನೊಂದು ಸನ್ನಿವೇಶವನ್ನು ನೋಡೋಣ. ನಾವು ತಾಮ್ರದ (Cu) ತುಂಡನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ (FeSO₄) ದ್ರಾವಣದಲ್ಲಿ ಅದ್ದಿದರೆ ಏನಾಗುತ್ತದೆ? FeSO₄ ದ್ರಾವಣವು ಸಾಮಾನ್ಯವಾಗಿ ತಿಳಿ ಹಸಿರು ಬಣ್ಣದಲ್ಲಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ತಿಳಿ ಹಸಿರು ಬಣ್ಣದ ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ (FeSO₄) ದ್ರಾವಣವಿದೆ. ಅದರಲ್ಲಿ ಒಂದು ತಾಮ್ರದ (Cu) ಪಟ್ಟಿಯನ್ನು ಅದ್ದಲಾಗಿದೆ. ಯಾವುದೇ ಬಣ್ಣ ಬದಲಾವಣೆ ಅಥವಾ ಕ್ರಿಯೆಯ ಲಕ್ಷಣಗಳು ಕಾಣಿಸುತ್ತಿಲ್ಲ.",
+    "labels": "ಬೀಕರ್, ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣ (FeSO₄), ತಾಮ್ರದ ಪಟ್ಟಿ (Cu)",
+    "scientific_significance": "ತಾಮ್ರ ಮತ್ತು ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ನಡುವಿನ ಸಂಭಾವ್ಯ ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆಯ ಸನ್ನಿವೇಶವನ್ನು ಇದು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated: A beaker containing a light green solution labeled 'FeSO₄(aq)' with a copper strip labeled 'Cu(s)' dipped into it. There should be no signs of reaction (no color change, no deposits)."
+  },
+  "chunk_id": "std_10_chapter_3_concept_6_chunk_021"
+}

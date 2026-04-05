@@ -1,0 +1,34 @@
+{
+  "type": "definition",
+  "slide_title": "ಬೀಜೋಕ್ತಿ vs ಸಮೀಕರಣ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸ",
+  "script": "ಈಗ ಒಂದು ಬಹಳ ಮುಖ್ಯವಾದ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸೋಣ. ಬೀಜೋಕ್ತಿ ಮತ್ತು ಸಮೀಕರಣದ ನಡುವಿನ ವ್ಯತ್ಯಾಸ. ಎಡಭಾಗದಲ್ಲಿ 'ನಾಲ್ಕು x ಪ್ಲಸ್ ಐದು' ಇದೆ. ಇದು ಒಂದು ಬೀಜೋಕ್ತಿ. ಇದರಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆ ಇರುವುದಿಲ್ಲ ಮತ್ತು ಇದು ಕೇವಲ ಒಂದು ಗಣಿತದ ರಚನೆ. ಬಲಭಾಗದಲ್ಲಿ 'ನಾಲ್ಕು x ಪ್ಲಸ್ ಐದು ಈಕ್ವಲ್ಸ್ ಅರವತ್ತೈದು' ಇದೆ. ಇದು ಒಂದು ಸಮೀಕರಣ. ಇದರಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆ ಇರುತ್ತದೆ ಮತ್ತು ಇದು ಎಡಬದಿಯ ಮೌಲ್ಯವು ಬಲಬದಿಯ ಮೌಲ್ಯಕ್ಕೆ ಸಮ ಎಂದು ಹೇಳುವ ಒಂದು ನಿಬಂಧನೆಯಾಗಿದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ಒಂದು ಬಹಳ ಮುಖ್ಯವಾದ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸೋಣ. ಬೀಜೋಕ್ತಿ ಮತ್ತು ಸಮೀಕರಣದ ನಡುವಿನ ವ್ಯತ್ಯಾಸ. ಎಡಭಾಗದಲ್ಲಿ $4x + 5$ ಇದೆ. ಇದು ಒಂದು ಬೀಜೋಕ್ತಿ. ಇದರಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆ ($=$) ಇರುವುದಿಲ್ಲ ಮತ್ತು ಇದು ಕೇವಲ ಒಂದು ಗಣಿತದ ರಚನೆ. ಬಲಭಾಗದಲ್ಲಿ $4x + 5 = 65$ ಇದೆ. ಇದು ಒಂದು ಸಮೀಕರಣ. ಇದರಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆ ($=$) ಇರುತ್ತದೆ ಮತ್ತು ಇದು ಎಡಬದಿಯ ಮೌಲ್ಯವು ಬಲಬದಿಯ ಮೌಲ್ಯಕ್ಕೆ ಸಮ ಎಂದು ಹೇಳುವ ಒಂದು ನಿಬಂಧನೆಯಾಗಿದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಬೀಜೋಕ್ತಿ (Expression): $4x + 5$. ಇದರಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆ ($=$) ಇರುವುದಿಲ್ಲ. ಇದು ಕೇವಲ ಒಂದು ಗಣಿತದ ರಚನೆ.",
+    "ಸಮೀಕರಣ (Equation): $4x + 5 = 65$. ಇದರಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆ ($=$) ಇರುತ್ತದೆ. ಇದು ಎರಡು ಬದಿಗಳು ಸಮ ಎಂದು ಹೇಳುವ ನಿಬಂಧನೆ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "simple_blue",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_comparison_data",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "This data populates the split comparison layout. Left side for Expression, Right side for Equation. The display_bullets are a summary of this, but the layout will use this structured data for rendering the two columns separately. The script should narrate this comparison, as it does now. The display_bullets are a fallback/summary for other contexts, but the primary visual is the two-column layout generated from this data structure. The script is written to match this comparison flow. The first bullet point in display_bullets is a combination of the left and right side for summary purposes, but the script addresses them separately as 'ಎಡಭಾಗದಲ್ಲಿ' and 'ಬಲಭಾಗದಲ್ಲಿ'. The layout will handle the visual separation. Let's simplify the display_bullets to be more direct and let the layout handle the comparison structure visually. I will adjust the script and bullets to be more direct for a better user experience. The current script is good, but let's refine the bullets to be more atomic for the split layout. The layout will have headers 'ಬೀಜೋಕ್ತಿ' and 'ಸಮೀಕರಣ'. The bullets will go under them. The script already handles this well. Let's re-structure the display_bullets to fit the split layout better. The JSON schema doesn't have a direct way to specify left/right bullets, so I'll use a single list and assume the layout engine maps them. A better approach is to use a single bullet list that summarizes the point, as I've done. The current structure is fine. Let's add a more structured visual object for clarity, even if the schema doesn't enforce it, for the developer's sake. No, I must stick to the schema. The current `display_bullets` is the correct way as per the schema. The layout `split_comparison` implies how they will be used. The script is the most important part for explaining the split. It's correct. Let's re-verify the common mistake from exam intelligence: 'ವಿದ್ಯಾರ್ಥಿಗಳು ಬೀಜೋಕ್ತಿ (ಉದಾ: 4x+5) ಮತ್ತು ಸಮೀಕರಣವನ್ನು (ಉದಾ: 4x+5=65) ಒಂದೇ ಎಂದು ಪರಿಗಣಿಸುವುದು ಸಾಮಾನ್ಯ ತಪ್ಪು.' This slide directly addresses this. It's perfect."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "ALG-EQ1-1_concept_1_chunk_008"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಮೆದುವಾದ ಶಬ್ದಗಳು",
+  "script": "ಈಗ ಮೆದುವಾದ ಶಬ್ದಗಳ ಬಗ್ಗೆ ಮಾತನಾಡೋಣ. ಇವುಗಳ ಶಬ್ದ ತರಂಗಗಳು ಕಡಿಮೆ ಪಾರವನ್ನು, ಅಂದರೆ ಕಡಿಮೆ ಎತ್ತರವನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಈ ಕಡಿಮೆ ಪಾರದಿಂದಾಗಿ, ಅವು ಕಡಿಮೆ ಶಕ್ತಿಯನ್ನು ಸಾಗಿಸುತ್ತವೆ ಮತ್ತು ನಮ್ಮ ಕಿವಿಗೆ ಮೆದುವಾಗಿ ಕೇಳಿಸುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಶಾಂತವಾದ ಕೋಣೆಯಲ್ಲಿ ಗಡಿಯಾರದ ಟಿಕ್‌ಟಿಕ್ ಶಬ್ದ, ಎಲೆಗಳ ಸದ್ದು ಅಥವಾ ನಾವು ಪಿಸುಮಾತಿನಲ್ಲಿ ಮಾತನಾಡುವುದು. ಇವುಗಳ ಘೋಷದ ಮಟ್ಟ, ಅಂದರೆ ಡೆಸಿಬೆಲ್ ಮೌಲ್ಯ, ತುಂಬಾ ಕಡಿಮೆ ಇರುತ್ತದೆ.",
+  "script_display": "ಈಗ ಮೆದುವಾದ ಶಬ್ದಗಳ (Soft Sounds) ಬಗ್ಗೆ ಮಾತನಾಡೋಣ. ಇವುಗಳ ಶಬ್ದ ತರಂಗಗಳು ಕಡಿಮೆ ಪಾರವನ್ನು, ಅಂದರೆ ಕಡಿಮೆ ಎತ್ತರವನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಈ ಕಡಿಮೆ ಪಾರದಿಂದಾಗಿ, ಅವು ಕಡಿಮೆ ಶಕ್ತಿಯನ್ನು ಸಾಗಿಸುತ್ತವೆ ಮತ್ತು ನಮ್ಮ ಕಿವಿಗೆ ಮೆದುವಾಗಿ ಕೇಳಿಸುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಶಾಂತವಾದ ಕೋಣೆಯಲ್ಲಿ ಗಡಿಯಾರದ ಟಿಕ್‌ಟಿಕ್ ಶಬ್ದ, ಎಲೆಗಳ ಸದ್ದು ಅಥವಾ ನಾವು ಪಿಸುಮಾತಿನಲ್ಲಿ ಮಾತನಾಡುವುದು. ಇವುಗಳ ಘೋಷದ ಮಟ್ಟ, ಅಂದರೆ ಡೆಸಿಬೆಲ್ ಮೌಲ್ಯ, ತುಂಬಾ ಕಡಿಮೆ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಗುಣಲಕ್ಷಣ: ಕಡಿಮೆ ಪಾರ (Low Amplitude)",
+    "ಪರಿಣಾಮ: ಕಡಿಮೆ ಶಕ್ತಿ, ಕಡಿಮೆ ಘೋಷ (Low Energy, Low Loudness)",
+    "ಉದಾಹರಣೆಗಳು: ಪಿಸುಮಾತು, ಎಲೆಗಳ ಸದ್ದು, ಗಡಿಯಾರದ ಟಿಕ್‌ಟಿಕ್"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A calm and quiet image representing soft sounds. For example, a close-up of autumn leaves on the ground, or a person whispering in a library. The image should evoke a sense of quietness and low energy.",
+    "labels": "Whisper, Rustling leaves, Quiet",
+    "scientific_significance": "Provides a real-world visual anchor for the concept of low-amplitude, low-loudness sounds.",
+    "placeholder_note": "Generate a serene image representing soft sounds like whispering or rustling leaves."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_10_concept_4_chunk_008"
+}

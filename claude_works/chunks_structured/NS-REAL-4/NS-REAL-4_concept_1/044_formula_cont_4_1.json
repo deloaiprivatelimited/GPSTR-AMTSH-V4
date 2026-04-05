@@ -1,0 +1,33 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಮುಖ ಎಚ್ಚರಿಕೆ: ಸಾಮಾನ್ಯ ತಪ್ಪು",
+  "script": "ಇಲ್ಲಿ ಒಂದು ಬಹಳ ಮುಖ್ಯವಾದ ವಿಷಯವನ್ನು ಗಮನಿಸಬೇಕು. ಎರಡು ಸಂಖ್ಯೆಗಳಾದ a ಮತ್ತು b ಗೆ, HCF ಇಂಟು LCM ಈಕ್ವಲ್ಸ್ a ಇಂಟು b ಎಂಬ ನಿಯಮವಿದೆ. ಆದರೆ, ಈ ನಿಯಮವು ಮೂರು ಸಂಖ್ಯೆಗಳಿಗೆ ಅನ್ವಯವಾಗುವುದಿಲ್ಲ. ಅಂದರೆ, HCF ಆಫ್ p, q, r ಇಂಟು LCM ಆಫ್ p, q, r ಈಸ್ ನಾಟ್ ಈಕ್ವಲ್ ಟು p ಇಂಟು q ಇಂಟು r. ಇದು ಪರೀಕ್ಷೆಯಲ್ಲಿ ಗೊಂದಲ ಮೂಡಿಸುವ ಒಂದು ಸಾಮಾನ್ಯ ತಂತ್ರ. ಎರಡು ಸಂಖ್ಯೆಗಳ ಸೂತ್ರವನ್ನು ಮೂರು ಸಂಖ್ಯೆಗಳಿಗೆ ನೇರವಾಗಿ ವಿಸ್ತರಿಸುವುದು ತಪ್ಪು. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ಇದರ ಮೇಲೆ ಆಧಾರಿತವಾದ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು.",
+  "script_display": "ಇಲ್ಲಿ ಒಂದು ಬಹಳ ಮುಖ್ಯವಾದ ವಿಷಯವನ್ನು ಗಮನಿಸಬೇಕು. ಎರಡು ಸಂಖ್ಯೆಗಳಾದ $a$ ಮತ್ತು $b$ ಗೆ, $HCF(a,b) \\times LCM(a,b) = a \\times b$ ಎಂಬ ನಿಯಮವಿದೆ. ಆದರೆ, ಈ ನಿಯಮವು ಮೂರು ಸಂಖ್ಯೆಗಳಿಗೆ ಅನ್ವಯವಾಗುವುದಿಲ್ಲ. \n\nಅಂದರೆ, $HCF(p, q, r) \\times LCM(p, q, r) \\neq p \\times q \\times r$. \n\nಇದು ಪರೀಕ್ಷೆಯಲ್ಲಿ ಗೊಂದಲ ಮೂಡಿಸುವ ಒಂದು ಸಾಮಾನ್ಯ ತಂತ್ರ. ಎರಡು ಸಂಖ್ಯೆಗಳ ಸೂತ್ರವನ್ನು ಮೂರು ಸಂಖ್ಯೆಗಳಿಗೆ ನೇರವಾಗಿ ವಿಸ್ತರಿಸುವುದು ತಪ್ಪು. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ಇದರ ಮೇಲೆ ಆಧಾರಿತವಾದ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "highlight_box",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "exam_tip": {
+    "question_pattern": "MCQ",
+    "skill_tested": "Understanding the specific relationship for three numbers vs two.",
+    "distractor": "Assuming HCF × LCM = p × q × r for three numbers.",
+    "why_distractor_works": "It's a natural but incorrect generalization of the familiar two-number rule, which is a common cognitive error."
+  },
+  "chunk_id": "NS-REAL-4_concept_1_chunk_044"
+}

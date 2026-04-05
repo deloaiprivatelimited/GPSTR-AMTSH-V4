@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಕೇಂದ್ರಾಭಿಮುಖ ಬಲ ಮತ್ತು ಸ್ಪರ್ಶಕೀಯ ಚಲನೆ",
+  "script": "ಹಾಗಾದರೆ, ದಾರಕ್ಕೆ ಕಟ್ಟಿದ ಕಲ್ಲನ್ನು ತಿರುಗಿಸುವಾಗ, ದಾರ ತುಂಡಾದರೆ ಏನಾಗುತ್ತದೆ? ಕಲ್ಲು ವೃತ್ತಾಕಾರದಲ್ಲಿ ಮುಂದುವರಿಯುವುದಿಲ್ಲ. ಬದಲಾಗಿ, ದಾರವು ಯಾವ ಕ್ಷಣದಲ್ಲಿ ತುಂಡಾಯಿತೋ, ಆ ಬಿಂದುವಿನಿಂದ ಒಂದು ಸರಳರೇಖೆಯಲ್ಲಿ ಹಾರಿಹೋಗುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಆ ಸರಳರೇಖೆಯ ಪಥವೇ ವೃತ್ತಾಕಾರದ ಪಥಕ್ಕೆ ಸ್ಪರ್ಶಕವಾಗಿರುತ್ತದೆ. ಏಕೆಂದರೆ, ಕೇಂದ್ರಾಭಿಮುಖ ಬಲವನ್ನು ಒದಗಿಸುತ್ತಿದ್ದ ದಾರದ ಎಳೆತವು ಇಲ್ಲವಾದಾಗ, ವಸ್ತುವು ತನ್ನ ಜಡತ್ವದಿಂದಾಗಿ ಸರಳರೇಖೆಯಲ್ಲಿ ಚಲಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ದಾರಕ್ಕೆ ಕಟ್ಟಿದ ಕಲ್ಲನ್ನು ತಿರುಗಿಸುವಾಗ, ದಾರ ತುಂಡಾದರೆ ಏನಾಗುತ್ತದೆ? ಕಲ್ಲು ವೃತ್ತಾಕಾರದಲ್ಲಿ ಮುಂದುವರಿಯುವುದಿಲ್ಲ. ಬದಲಾಗಿ, ದಾರವು ಯಾವ ಕ್ಷಣದಲ್ಲಿ ತುಂಡಾಯಿತೋ, ಆ ಬಿಂದುವಿನಿಂದ ಒಂದು ಸರಳರೇಖೆಯಲ್ಲಿ ಹಾರಿಹೋಗುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಆ ಸರಳರೇಖೆಯ ಪಥವೇ ವೃತ್ತಾಕಾರದ ಪಥಕ್ಕೆ ಸ್ಪರ್ಶಕವಾಗಿರುತ್ತದೆ. ಏಕೆಂದರೆ, ಕೇಂದ್ರಾಭಿಮುಖ ಬಲವನ್ನು ಒದಗಿಸುತ್ತಿದ್ದ ದಾರದ ಎಳೆತವು ಇಲ್ಲವಾದಾಗ, ವಸ್ತುವು ತನ್ನ ಜಡತ್ವದಿಂದಾಗಿ ಸರಳರೇಖೆಯಲ್ಲಿ ಚಲಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ದಾರ ತುಂಡಾದಾಗ, ಕೇಂದ್ರಾಭಿಮುಖ ಬಲ ಕಣ್ಮರೆಯಾಗುತ್ತದೆ.",
+    "ಕಲ್ಲು ವೃತ್ತಾಕಾರದ ಪಥದಿಂದ ಹೊರಬರುತ್ತದೆ.",
+    "ಅದು ತನ್ನ ಪಥಕ್ಕೆ ಸ್ಪರ್ಶಕವಾಗಿ ಸರಳರೇಖೆಯಲ್ಲಿ ಚಲಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a circular path (dotted line). An object (a stone) is shown at the top of the circle. An arrow indicates its direction of motion along a straight line, which is tangent to the circle at that point. The caption should indicate that the string broke at this point.",
+    "labels": "ವೃತ್ತಾಕಾರದ ಪಥ (Circular Path), ಕಲ್ಲು (Stone), ಸ್ಪರ್ಶಕೀಯ ಚಲನೆ (Tangential Motion), ದಾರ ತುಂಡಾದ ಬಿಂದು (Point where string breaks)",
+    "scientific_significance": "This diagram connects the geometric concept of a tangent to the physical phenomenon of an object's motion when centripetal force is removed, illustrating Newton's first law of motion (inertia).",
+    "placeholder_note": "Image to be generated showing a stone flying off tangentially from a circular path."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_9_concept_1_chunk_008"
+}

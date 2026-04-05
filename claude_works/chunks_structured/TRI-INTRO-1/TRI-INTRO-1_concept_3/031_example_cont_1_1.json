@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ ಹಂತವಾದ ಪರಿಹಾರ (ಭಾಗ 1)",
+  "script": "ಪರಿಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಎಡಭಾಗದಲ್ಲಿರುವ ಎಲ್ಲಾ ಪದಗಳನ್ನು ಸೈನ್ ಎ ಮತ್ತು ಕಾಸ್ ಎ ರೂಪದಲ್ಲಿ ಬರೆಯುತ್ತೇವೆ. ಸೆಕ್ ಎ ಎಂಬುದು ಒಂದು ಬೈ ಕಾಸ್ ಎ ಆಗುತ್ತದೆ ಮತ್ತು ಟ್ಯಾನ್ ಎ ಎಂಬುದು ಸೈನ್ ಎ ಬೈ ಕಾಸ್ ಎ ಆಗುತ್ತದೆ. ಆಗ ನಮ್ಮ ಸಮೀಕರಣವು ಒಂದು ಬೈ ಕಾಸ್ ಎ, ಇಂಟು ಒಂದು ಮೈನಸ್ ಸೈನ್ ಎ, ಇಂಟು ಒಂದು ಬೈ ಕಾಸ್ ಎ ಪ್ಲಸ್ ಸೈನ್ ಎ ಬೈ ಕಾಸ್ ಎ ಆಗುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಬ್ರಾಕೆಟ್‌ನೊಳಗಿನ ಪದಗಳನ್ನು ಸಂಕಲಿಸೋಣ. ಎರಡನೇ ಬ್ರಾಕೆಟ್ ನಲ್ಲಿ ಛೇದಗಳು ಸಮನಾಗಿರುವುದರಿಂದ, ನಾವು ಅಂಶಗಳನ್ನು ನೇರವಾಗಿ ಕೂಡಿಸಬಹುದು. ಆಗ ಅದು ಒಂದು ಪ್ಲಸ್ ಸೈನ್ ಎ, ಹೋಲ್ ಡಿವೈಡೆಡ್ ಬೈ ಕಾಸ್ ಎ ಆಗುತ್ತದೆ.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಎಡಭಾಗದಲ್ಲಿರುವ (LHS) ಎಲ್ಲಾ ಪದಗಳನ್ನು $\\sin A$ ಮತ್ತು $\\cos A$ ರೂಪದಲ್ಲಿ ಬರೆಯುತ್ತೇವೆ. ಆಗ ನಮ್ಮ ಸಮೀಕರಣವು $(\\frac{1}{\\cos A})(1 - \\sin A)(\\frac{1}{\\cos A} + \\frac{\\sin A}{\\cos A})$ ಆಗುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಬ್ರಾಕೆಟ್‌ನೊಳಗಿನ ಪದಗಳನ್ನು ಸಂಕಲಿಸೋಣ. ಎರಡನೇ ಬ್ರಾಕೆಟ್ ನಲ್ಲಿ ಛೇದಗಳು ಸಮನಾಗಿರುವುದರಿಂದ, ನಾವು ಅಂಶಗಳನ್ನು ನೇರವಾಗಿ ಕೂಡಿಸಬಹುದು. ಆಗ ಅದು $\\frac{1 + \\sin A}{\\cos A}$ ಆಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_2_steps",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "TRI-INTRO-1_example_10",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "LHS = $(\\frac{1}{\\cos A})(1 - \\sin A)(\\frac{1}{\\cos A} + \\frac{\\sin A}{\\cos A})$",
+      "justification": "ಸರಳೀಕರಣಕ್ಕಾಗಿ ಮೂಲ ಅನುಪಾತಗಳನ್ನು ಬಳಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "LHS = $(\\frac{1}{\\cos A})(1 - \\sin A)(\\frac{1 + \\sin A}{\\cos A})$",
+      "justification": "ಛೇದಗಳು ಸಮನಾಗಿವೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_031"
+}

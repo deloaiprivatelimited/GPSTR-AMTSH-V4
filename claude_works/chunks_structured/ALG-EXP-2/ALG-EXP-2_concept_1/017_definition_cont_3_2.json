@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಹಗುಣಕ (Coefficient): ಉದಾಹರಣೆಗಳು",
+  "script": "ಸಹಗುಣಕದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಮತ್ತಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳಲು, ಈ ಕೋಷ್ಟಕದಲ್ಲಿರುವ ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲಿಗೆ, 7abc ಪದದಲ್ಲಿ, ಚರಾಕ್ಷರಗಳು a, b, ಮತ್ತು c. ಇವುಗಳ ಜೊತೆ ಗುಣಿಸಿರುವ ಸಂಖ್ಯೆ 7. ಆದ್ದರಿಂದ, ಸಹಗುಣಕ 7 ಆಗಿದೆ. ಇದು ಧನಾತ್ಮಕ ಸಹಗುಣಕ. ಎರಡನೆಯದಾಗಿ, ಮೈನಸ್ 5x ಸ್ಕ್ವೇರ್ y ಪದದಲ್ಲಿ, ಸಹಗುಣಕವು ಮೈನಸ್ 5 ಆಗಿದೆ. ಇಲ್ಲಿ ನಾವು ಚಿಹ್ನೆಯನ್ನು ಸಹ ಪರಿಗಣಿಸಬೇಕು. ಇದು ಋಣಾತ್ಮಕ ಸಹಗುಣಕ. ಮೂರನೆಯದಾಗಿ, 3 ಬೈ 4 p ಪದದಲ್ಲಿ, ಸಹಗುಣಕವು 3 ಬೈ 4 ಆಗಿದೆ. ಇದರಿಂದ, ಸಹಗುಣಕವು ಒಂದು ಭಿನ್ನರಾಶಿಯೂ ಆಗಿರಬಹುದು ಎಂದು ತಿಳಿಯುತ್ತದೆ.",
+  "script_display": "ಸಹಗುಣಕದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಮತ್ತಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳಲು, ಈ ಕೋಷ್ಟಕದಲ್ಲಿರುವ ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲಿಗೆ, $7abc$ ಪದದಲ್ಲಿ, ಚರಾಕ್ಷರಗಳು $a, b, c$. ಇವುಗಳ ಜೊತೆ ಗುಣಿಸಿರುವ ಸಂಖ್ಯೆ $7$. ಆದ್ದರಿಂದ, ಸಹಗುಣಕ $7$ ಆಗಿದೆ. ಇದು ಧನಾತ್ಮಕ ಸಹಗುಣಕ. ಎರಡನೆಯದಾಗಿ, $-5x^2y$ ಪದದಲ್ಲಿ, ಸಹಗುಣಕವು $-5$ ಆಗಿದೆ. ಇಲ್ಲಿ ನಾವು ಚಿಹ್ನೆಯನ್ನು ಸಹ ಪರಿಗಣಿಸಬೇಕು. ಇದು ಋಣಾತ್ಮಕ ಸಹಗುಣಕ. ಮೂರನೆಯದಾಗಿ, $\\frac{3}{4}p$ ಪದದಲ್ಲಿ, ಸಹಗುಣಕವು $\\frac{3}{4}$ ಆಗಿದೆ. ಇದರಿಂದ, ಸಹಗುಣಕವು ಒಂದು ಭಿನ್ನರಾಶಿಯೂ ಆಗಿರಬಹುದು ಎಂದು ತಿಳಿಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಹಗುಣಕ ಧನಾತ್ಮಕವಾಗಿರಬಹುದು (ಉದಾ: $7abc$ ನಲ್ಲಿ $7$).",
+    "ಸಹಗುಣಕ ಋಣಾತ್ಮಕವಾಗಿರಬಹುದು (ಉದಾ: $-5x^2y$ ನಲ್ಲಿ $-5$).",
+    "ಸಹಗುಣಕ ಭಿನ್ನರಾಶಿಯಾಗಿರಬಹುದು (ಉದಾ: $\\frac{3}{4}p$ ನಲ್ಲಿ $\\frac{3}{4}$)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A table showing various terms and their corresponding coefficients. The table should have three columns: 'ಪದ (Term)', 'ಚರಾಕ್ಷರ(ಗಳು) (Variable(s))', and 'ಸಹಗುಣಕ (Coefficient)'. The rows should contain the examples mentioned in the script: 7abc, -5x^2y, and (3/4)p, with their respective variables and coefficients filled in the other columns. The LaTeX for the terms are $7abc$, $-5x^2y$, and $\\frac{3}{4}p$. The coefficients are $7$, $-5$, and $\\frac{3}{4}$. The variables are $a,b,c$, $x,y$, and $p$ respectively."
+  },
+  "chunk_id": "ALG-EXP-2_concept_1_chunk_017"
+}

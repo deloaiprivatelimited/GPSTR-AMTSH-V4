@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ವರ್ಗ ಮತ್ತು ವರ್ಗಮೂಲದ ಸಂಬಂಧ",
+  "script": "ವರ್ಗ ಮತ್ತು ವರ್ಗಮೂಲದ ನಡುವಿನ ವಿಲೋಮ ಸಂಬಂಧವನ್ನು ಈ ಕೋಷ್ಟಕದ ಮೂಲಕ ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಮೊದಲನೇ ಕಾಲಂನಲ್ಲಿ ಹೇಳಿಕೆ ಮತ್ತು ಎರಡನೇ ಕಾಲಂನಲ್ಲಿ ತೀರ್ಮಾನವಿದೆ. ಹೇಳಿಕೆ: 1 ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ 1, ಇದರ ತೀರ್ಮಾನ: 1 ರ ವರ್ಗಮೂಲ 1. ಹೇಳಿಕೆ: 2 ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ 4, ಇದರ ತೀರ್ಮಾನ: 4 ರ ವರ್ಗಮೂಲ 2. ಇದೇ ರೀತಿ, 3 ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ 9, ಆದ್ದರಿಂದ 9 ರ ವರ್ಗಮೂಲ 3. ಮತ್ತು 10 ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ 100, ಆದ್ದರಿಂದ 100 ರ ವರ್ಗಮೂಲ 10. ಈ ಉದಾಹರಣೆಗಳು ವರ್ಗ ಮತ್ತು ವರ್ಗಮೂಲಗಳು ಪರಸ್ಪರ ಹೇಗೆ ಸಂಬಂಧಿಸಿವೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತವೆ.",
+  "script_display": "ವರ್ಗ ಮತ್ತು ವರ್ಗಮೂಲದ ನಡುವಿನ ವಿಲೋಮ ಸಂಬಂಧವನ್ನು ಈ ಕೋಷ್ಟಕದ ಮೂಲಕ ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಮೊದಲನೇ ಕಾಲಂನಲ್ಲಿ ಹೇಳಿಕೆ ಮತ್ತು ಎರಡನೇ ಕಾಲಂನಲ್ಲಿ ತೀರ್ಮಾನವಿದೆ. ಹೇಳಿಕೆ: $1^2 = 1$, ಇದರ ತೀರ್ಮಾನ: $\\sqrt{1} = 1$. ಹೇಳಿಕೆ: $2^2 = 4$, ಇದರ ತೀರ್ಮಾನ: $\\sqrt{4} = 2$. ಇದೇ ರೀತಿ, $3^2 = 9$, ಆದ್ದರಿಂದ $\\sqrt{9} = 3$. ಮತ್ತು $10^2 = 100$, ಆದ್ದರಿಂದ $\\sqrt{100} = 10$. ಈ ಉದಾಹರಣೆಗಳು ವರ್ಗ ಮತ್ತು ವರ್ಗಮೂಲಗಳು ಪರಸ್ಪರ ಹೇಗೆ ಸಂಬಂಧಿಸಿವೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_full_caption_bottom",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "Table showing the inverse relationship between squares and square roots. Provided in module context visual aids list. Use that data here. The script is written to match that table's content and structure. The table should be the main focus of the slide, with the script acting as a voiceover explaining it. The caption can be 'ವರ್ಗ ಮತ್ತು ವರ್ಗಮೂಲದ ಸಂಬಂಧ'. The headers should be 'ಹೇಳಿಕೆ' and 'ತೀರ್ಮಾನ'. The rows should be: ['1^2 = 1', '√1 = 1'], ['2^2 = 4', '√4 = 2'], ['3^2 = 9', '√9 = 3'], ['...', '...'], ['10^2 = 100', '√100 = 10']. Ensure LaTeX is rendered correctly in the table cells."
+  },
+  "chunk_id": "NS-SQR-2_concept_6_chunk_005"
+}

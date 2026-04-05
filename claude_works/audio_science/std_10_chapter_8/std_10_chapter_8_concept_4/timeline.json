@@ -1,0 +1,79 @@
+{
+  "module_id": "std_10_chapter_8_concept_4",
+  "chapter_code": "std_10_chapter_8",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 271.386,
+  "total_duration_formatted": "4:31",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_8_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಗುಣಗಳ ಅಭಿವ್ಯಕ್ತಿ: ಜೀನ್‌ಗಳಿಂದ ಲಕ್ಷಣಗಳವರೆಗೆ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 50.491,
+      "duration": 50.491,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "std_10_chapter_8_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 51.091,
+      "end": 78.502,
+      "duration": 27.411,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "std_10_chapter_8_concept_4_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ಜೀನ್ (Gene) ಎಂದರೇನು?",
+      "type": "definition",
+      "start": 79.102,
+      "end": 126.873,
+      "duration": 47.771,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_10_chapter_8_concept_4_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಜೀನ್‌ಗಳು ಗುಣಗಳನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸುತ್ತವೆ?",
+      "type": "definition",
+      "start": 127.473,
+      "end": 176.884,
+      "duration": 49.411,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_10_chapter_8_concept_4_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಬಟಾಣಿ ಸಸ್ಯದ ಎತ್ತರ",
+      "type": "definition",
+      "start": 177.484,
+      "end": 225.935,
+      "duration": 48.451,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_10_chapter_8_concept_4_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಜೀನ್‌ಗಳಿಂದ ಗುಣಗಳವರೆಗೆ",
+      "type": "recap",
+      "start": 226.535,
+      "end": 270.786,
+      "duration": 44.251,
+      "script_words": 47
+    }
+  ]
+}

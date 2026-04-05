@@ -1,0 +1,50 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಸಂಗಮ ದೂರದ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಸೂತ್ರವನ್ನು ಬಳಸೋಣ. ಸಂಗಮ ದೂರ ಎಫ್ ಈಕ್ವಲ್ಸ್ ಒಂದು ಭಾಗಿಸು ಪಿ. ಇಲ್ಲಿ ಪಿ ಯ ಮೌಲ್ಯ ಪ್ಲಸ್ ಎರಡು ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಡಯಾಪ್ಟರ್. ಹಾಗಾಗಿ, ಎಫ್ ಈಕ್ವಲ್ಸ್ ಒಂದು ಭಾಗಿಸು ಎರಡು ಪಾಯಿಂಟ್ ಸೊನ್ನೆ. ಇದನ್ನು ಲೆಕ್ಕ ಹಾಕಿದಾಗ, ನಮಗೆ ಪ್ಲಸ್ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಐದು ಸೊನ್ನೆ ಮೀಟರ್ ಸಿಗುತ್ತದೆ. ನೆನಪಿಡಿ, ಸಾಮರ್ಥ್ಯವನ್ನು ಲೆಕ್ಕ ಹಾಕುವಾಗ ಸಂಗಮ ದೂರವು ಯಾವಾಗಲೂ ಮೀಟರ್‌ಗಳಲ್ಲಿರಬೇಕು.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಸೂತ್ರವನ್ನು ಬಳಸೋಣ: f = 1/P. ಇಲ್ಲಿ P ಯ ಮೌಲ್ಯ +2.0 D. ಹಾಗಾಗಿ, f = 1 / (+2.0). ಇದನ್ನು ಲೆಕ್ಕ ಹಾಕಿದಾಗ, ನಮಗೆ f = +0.50 m ಸಿಗುತ್ತದೆ. ನೆನಪಿಡಿ, ಸಾಮರ್ಥ್ಯವನ್ನು ಲೆಕ್ಕ ಹಾಕುವಾಗ ಸಂಗಮ ದೂರವು ಯಾವಾಗಲೂ ಮೀಟರ್‌ಗಳಲ್ಲಿರಬೇಕು.",
+  "display_bullets": [
+    "ಹಂತ 1: ಸೂಕ್ತ ಸೂತ್ರವನ್ನು ಬಳಸಿ. ಸಂಗಮ ದೂರ (f) ಮತ್ತು ಸಾಮರ್ಥ್ಯ (P) ನಡುವಿನ ಸಂಬಂಧ: f = 1/P.",
+    "ಹಂತ 2: ದತ್ತಾಂಶವನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ. P = +2.0 D.",
+    "ಲೆಕ್ಕಾಚಾರ: f = 1 / (+2.0) = +0.50 m."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "f = \\frac{1}{P} = \\frac{1}{+2.0 \\text{ D}} = +0.50 \\text{ m}",
+    "placeholder_note": "Formula showing the calculation of focal length from power."
+  },
+  "source_example_id": "std_10_chapter_9_example_power_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸೂಕ್ತ ಸೂತ್ರವನ್ನು ಬಳಸಿ: f = 1/P.",
+      "justification": "ಸಂಗಮ ದೂರ ಮತ್ತು ಸಾಮರ್ಥ್ಯದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಬಳಸಲಾಗಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ದತ್ತಾಂಶವನ್ನು ಆದೇಶಿಸಿ ಮತ್ತು ಲೆಕ್ಕ ಹಾಕಿ: f = 1 / (+2.0) = +0.50 m.",
+      "justification": "ಸಾಮರ್ಥ್ಯದ ಮೌಲ್ಯವನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿ ಸಂಗಮ ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯಲಾಗಿದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "std_10_chapter_9_concept_9_chunk_016"
+}

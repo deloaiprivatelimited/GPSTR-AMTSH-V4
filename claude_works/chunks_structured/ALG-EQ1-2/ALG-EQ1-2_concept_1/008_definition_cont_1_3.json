@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಪದೋಕ್ತಿ vs. ಸಮೀಕರಣ",
+  "script": "ಪದೋಕ್ತಿ ಮತ್ತು ಸಮೀಕರಣದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ. ಇಲ್ಲಿ ನೋಡಿ, ಎಡಭಾಗದಲ್ಲಿ 'ಎರಡು x ಪ್ಲಸ್ ಐದು' ಇದೆ. ಇದೊಂದು ಪದೋಕ್ತಿ ಅಥವಾ ಎಕ್ಸ್ಪ್ರೆಶನ್. ಇದರಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆ ಇಲ್ಲ. ಆದ್ದರಿಂದ ನಾವು ಇದನ್ನು 'ಬಿಡಿಸಲು' ಸಾಧ್ಯವಿಲ್ಲ, ಕೇವಲ 'ಸುಲಭೀಕರಿಸಬಹುದು'. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, 'ಎರಡು x ಪ್ಲಸ್ ಐದು ಈಕ್ವಲ್ಸ್ ಹದಿನೈದು'. ಇದೊಂದು ಸಮೀಕರಣ ಅಥವಾ ಈಕ್ವೇಷನ್. ಇದರಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆ ಇದೆ. ಆದ್ದರಿಂದ ನಾವು ಇದನ್ನು 'ಬಿಡಿಸಿ' x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಈ ವ್ಯತ್ಯಾಸ ಪರೀಕ್ಷಾದೃಷ್ಟಿಯಿಂದಲೂ ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಪದೋಕ್ತಿ ಮತ್ತು ಸಮೀಕರಣದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ. ಇಲ್ಲಿ ನೋಡಿ, ಎಡಭಾಗದಲ್ಲಿ '$2x + 5$' ಇದೆ. ಇದೊಂದು ಪದೋಕ್ತಿ (Expression). ಇದರಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆ ಇಲ್ಲ. ಆದ್ದರಿಂದ ನಾವು ಇದನ್ನು 'ಬಿಡಿಸಲು' ಸಾಧ್ಯವಿಲ್ಲ, ಕೇವಲ 'ಸುಲಭೀಕರಿಸಬಹುದು'. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, '$2x + 5 = 15$'. ಇದೊಂದು ಸಮೀಕರಣ (Equation). ಇದರಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆ ಇದೆ. ಆದ್ದರಿಂದ ನಾವು ಇದನ್ನು 'ಬಿಡಿಸಿ' x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಈ ವ್ಯತ್ಯಾಸ ಪರೀಕ್ಷಾದೃಷ್ಟಿಯಿಂದಲೂ ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಪದೋಕ್ತಿ (Expression): $2x+5$. ಇದರಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆ ($=$) ಇರುವುದಿಲ್ಲ. ಇದನ್ನು 'ಸುಲಭೀಕರಿಸಬಹುದು'.",
+    "ಸಮೀಕರಣ (Equation): $2x+5=15$. ಇದರಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆ ($=$) ಇರುತ್ತದೆ. ಇದನ್ನು 'ಬಿಡಿಸಬಹುದು'."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. Left column is titled 'ಪದೋಕ್ತಿ (Expression)' and contains the text '2x + 5'. It has a note 'ಸುಲಭೀಕರಿಸಬಹುದು (Can be simplified)'. Right column is titled 'ಸಮೀಕರಣ (Equation)' and contains '2x + 5 = 15'. It has a note 'ಬಿಡಿಸಬಹುದು (Can be solved)'. The equals sign in the right column is highlighted.",
+    "labels": "Expression, Equation, Simplify, Solve",
+    "mathematical_significance": "Visually contrasts an expression, which is a phrase, with an equation, which is a complete sentence asserting equality and can be solved.",
+    "placeholder_note": "Image to be generated showing a two-column comparison of Expression vs Equation."
+  },
+  "chunk_id": "ALG-EQ1-2_concept_1_chunk_008"
+}

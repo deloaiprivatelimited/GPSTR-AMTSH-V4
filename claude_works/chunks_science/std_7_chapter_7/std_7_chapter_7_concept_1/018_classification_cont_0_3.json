@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಕ್ತದ ಘಟಕಗಳು: ಕಿರುತಟ್ಟೆಗಳು",
+  "script": "ರಕ್ತದ ಕೊನೆಯ ಪ್ರಮುಖ ಘಟಕವೆಂದರೆ ಕಿರುತಟ್ಟೆಗಳು, ಅಥವಾ ಪ್ಲೇಟ್ಲೆಟ್ಸ್. ಇವು ರಕ್ತ ಕಣಗಳಲ್ಲಿ ಅತ್ಯಂತ ಚಿಕ್ಕವು. ಇವುಗಳ ಅತಿ ಮುಖ್ಯವಾದ ಕಾರ್ಯವೆಂದರೆ ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟುವಿಕೆಯಲ್ಲಿ ಸಹಾಯ ಮಾಡುವುದು. ನಿಮಗೆ ಗಾಯವಾಗಿ ರಕ್ತಸ್ರಾವವಾದಾಗ, ಈ ಕಿರುತಟ್ಟೆಗಳು ತಕ್ಷಣವೇ ಗಾಯವಾದ ಸ್ಥಳಕ್ಕೆ ಧಾವಿಸಿ, ಒಂದಕ್ಕೊಂದು ಅಂಟಿಕೊಂಡು ಒಂದು ಜಾಲರಿಯನ್ನು ನಿರ್ಮಿಸುತ್ತವೆ. ಈ ಜಾಲರಿಯು ರಕ್ತಕಣಗಳನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಂಡು ಒಂದು ಗಟ್ಟಿಯಾದ ಹೆಪ್ಪನ್ನು ರೂಪಿಸುತ್ತದೆ. ಈ ಹೆಪ್ಪು ರಕ್ತನಾಳದ ಹಾನಿಗೊಳಗಾದ ಭಾಗವನ್ನು ಮುಚ್ಚಿ, ರಕ್ತಸ್ರಾವವನ್ನು ನಿಲ್ಲಿಸುತ್ತದೆ. ಇದು ದೇಹದಿಂದ ಅಮೂಲ್ಯವಾದ ರಕ್ತ ನಷ್ಟವಾಗುವುದನ್ನು ತಡೆಯುತ್ತದೆ.",
+  "script_display": "ರಕ್ತದ ಕೊನೆಯ ಪ್ರಮುಖ ಘಟಕವೆಂದರೆ ಕಿರುತಟ್ಟೆಗಳು (Platelets). ಇವು ರಕ್ತ ಕಣಗಳಲ್ಲಿ ಅತ್ಯಂತ ಚಿಕ್ಕವು. ಇವುಗಳ ಅತಿ ಮುಖ್ಯವಾದ ಕಾರ್ಯವೆಂದರೆ ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟುವಿಕೆಯಲ್ಲಿ (blood clotting) ಸಹಾಯ ಮಾಡುವುದು. ನಿಮಗೆ ಗಾಯವಾಗಿ ರಕ್ತಸ್ರಾವವಾದಾಗ, ಈ ಕಿರುತಟ್ಟೆಗಳು ತಕ್ಷಣವೇ ಗಾಯವಾದ ಸ್ಥಳಕ್ಕೆ ಧಾವಿಸಿ, ಒಂದಕ್ಕೊಂದು ಅಂಟಿಕೊಂಡು ಒಂದು ಜಾಲರಿಯನ್ನು ನಿರ್ಮಿಸುತ್ತವೆ. ಈ ಜಾಲರಿಯು ರಕ್ತಕಣಗಳನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಂಡು ಒಂದು ಹೆಪ್ಪನ್ನು (clot) ರೂಪಿಸುತ್ತದೆ. ಈ ಹೆಪ್ಪು ರಕ್ತನಾಳವನ್ನು ಮುಚ್ಚಿ, ರಕ್ತಸ್ರಾವವನ್ನು ನಿಲ್ಲಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕಿರುತಟ್ಟೆಗಳು (Platelets): ಅತಿ ಚಿಕ್ಕ ರಕ್ತ ಕಣಗಳು.",
+    "ಕಾರ್ಯ: ಗಾಯವಾದಾಗ ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟಲು ಸಹಾಯ ಮಾಡಿ, ರಕ್ತಸ್ರಾವವನ್ನು ನಿಲ್ಲಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of a damaged blood vessel. Small, irregular-shaped platelets are shown aggregating at the injury site. A mesh of fibrin strands is forming over them, trapping red blood cells to form a clot. Labeled 'ಕಿರುತಟ್ಟೆಗಳು (Platelets)' and 'ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟುವಿಕೆ (Blood Clot)'.",
+    "labels": "Platelets, Fibrin Mesh, Red Blood Cell, Blood Clot",
+    "scientific_significance": "Visually explains the process of blood clotting, showing the central role of platelets in stopping bleeding.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_7_concept_1_chunk_018"
+}

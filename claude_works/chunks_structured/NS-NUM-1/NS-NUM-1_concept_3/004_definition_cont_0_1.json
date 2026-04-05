@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: 848",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ವಿವರವಾಗಿ ನೋಡೋಣ. ಎಂಟು ನೂರ ನಲವತ್ತೆಂಟು, ಅಂದರೆ 848 ಎಂಬ ಸಂಖ್ಯೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ನಾವು ಇದನ್ನು ಎಡದಿಂದ ಬಲಕ್ಕೆ ಓದಿದಾಗ, ನಮಗೆ 'ಎಂಟು, ನಾಲ್ಕು, ಎಂಟು' ಎಂದು ಸಿಗುತ್ತದೆ. ಈಗ, ಇದೇ ಸಂಖ್ಯೆಯನ್ನು ಬಲದಿಂದ ಎಡಕ್ಕೆ ಓದಿ. ಆಗಲೂ ನಮಗೆ 'ಎಂಟು, ನಾಲ್ಕು, ಎಂಟು' ಎಂದೇ ಸಿಗುತ್ತದೆ. ಎರಡೂ ಕಡೆಯಿಂದ ಓದಿದಾಗ ಸಂಖ್ಯೆ ಒಂದೇ ಆಗಿರುವುದರಿಂದ, 848 ಒಂದು ಪಾಲಿಂಡ್ರೋಮ್ ಸಂಖ್ಯೆ. ಈ ಸಮ್ಮಿತೀಯ ಗುಣವೇ ಪಾಲಿಂಡ್ರೋಮ್‌ಗಳ ವಿಶೇಷತೆಯಾಗಿದೆ. ಇದನ್ನು ಚಿತ್ರದಲ್ಲಿ ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸಲಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ವಿವರವಾಗಿ ನೋಡೋಣ. 848 ಎಂಬ ಸಂಖ್ಯೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ನಾವು ಇದನ್ನು ಎಡದಿಂದ ಬಲಕ್ಕೆ ಓದಿದಾಗ, ನಮಗೆ 'ಎಂಟು, ನಾಲ್ಕು, ಎಂಟು' ಎಂದು ಸಿಗುತ್ತದೆ. ಈಗ, ಇದೇ ಸಂಖ್ಯೆಯನ್ನು ಬಲದಿಂದ ಎಡಕ್ಕೆ ಓದಿ. ಆಗಲೂ ನಮಗೆ 'ಎಂಟು, ನಾಲ್ಕು, ಎಂಟು' ಎಂದೇ ಸಿಗುತ್ತದೆ. ಎರಡೂ ಕಡೆಯಿಂದ ಓದಿದಾಗ ಸಂಖ್ಯೆ ಒಂದೇ ಆಗಿರುವುದರಿಂದ, 848 ಒಂದು ಪಾಲಿಂಡ್ರೋಮ್ ಸಂಖ್ಯೆ. ಈ ಸಮ್ಮಿತೀಯ ಗುಣವೇ ಪಾಲಿಂಡ್ರೋಮ್‌ಗಳ ವಿಶೇಷತೆಯಾಗಿದೆ. ಇದನ್ನು ಚಿತ್ರದಲ್ಲಿ ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸಲಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸಂಖ್ಯೆ: 848",
+    "ಎಡದಿಂದ ಬಲಕ್ಕೆ ಓದಿದಾಗ: 8 → 4 → 8",
+    "ಬಲದಿಂದ ಎಡಕ್ಕೆ ಓದಿದಾಗ: 8 ← 4 ← 8",
+    "ಎರಡೂ ಓದುವಿಕೆಗಳು ಒಂದೇ ಆಗಿರುವುದರಿಂದ, 848 ಒಂದು ಪಾಲಿಂಡ್ರೋಮ್ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the number 848. An arrow points from left to right above the number, labeled 'ಎಡದಿಂದ ಬಲಕ್ಕೆ'. Another arrow points from right to left below the number, labeled 'ಬಲದಿಂದ ಎಡಕ್ಕೆ'. Both readings result in '848'.",
+    "labels": "848, reading direction arrows, Kannada labels",
+    "mathematical_significance": "Visually demonstrates the property of a palindrome number by showing it reads the same forwards and backwards.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "NS-NUM-1_concept_3_chunk_004"
+}

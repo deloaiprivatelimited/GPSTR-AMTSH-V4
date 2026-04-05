@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಸರ್ವಸಮತೆ ಸಾಧಿಸುವುದು",
+  "script": "ಒಂದು ಪ್ರಾಯೋಗಿಕ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಓಎ ಮತ್ತು ಓಬಿ ಸಮವಾಗಿವೆ, ಹಾಗೂ ಓಡಿ ಮತ್ತು ಓಸಿ ಸಮವಾಗಿವೆ. ನಾವು ತ್ರಿಭುಜ ಎಓಡಿ ಮತ್ತು ತ್ರಿಭುಜ ಬಿಓಸಿ ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸಬೇಕು. ಇದಕ್ಕಾಗಿ, ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಓಎ ಸಮ ಓಬಿ, ಇದು ದತ್ತಾಂಶ. ಎರಡನೆಯದಾಗಿ, ಕೋನ ಎಓಡಿ ಮತ್ತು ಕೋನ ಬಿಓಸಿ ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿರುವುದರಿಂದ ಸಮವಾಗಿವೆ. ಮೂರನೆಯದಾಗಿ, ಓಡಿ ಸಮ ಓಸಿ, ಇದೂ ಕೂಡ ದತ್ತಾಂಶ. ಇಲ್ಲಿ, ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನವು ಸಮವಾಗಿರುವುದರಿಂದ, ಬಾಹು-ಕೋನ-ಬಾಹು ನಿಬಂಧನೆಯ ಪ್ರಕಾರ, ತ್ರಿಭುಜ ಎಓಡಿ ಯು ತ್ರಿಭುಜ ಬಿಓಸಿ ಗೆ ಸರ್ವಸಮವಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಪ್ರಾಯೋಗಿಕ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, $OA = OB$ ಮತ್ತು $OD = OC$. ನಾವು $\\triangle AOD \\cong \\triangle BOC$ ಎಂದು ಸಾಧಿಸಬೇಕು. ಇದಕ್ಕಾಗಿ, ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, $OA = OB$ (ದತ್ತ). ಎರಡನೆಯದಾಗಿ, $\\angle AOD = \\angle BOC$ (ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು). ಮೂರನೆಯದಾಗಿ, $OD = OC$ (ದತ್ತ). ಇಲ್ಲಿ, ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನವು ಸಮವಾಗಿರುವುದರಿಂದ, ಬಾ.ಕೋ.ಬಾ (SAS) ನಿಬಂಧನೆಯ ಪ್ರಕಾರ, $\\triangle AOD \\cong \\triangle BOC$ ಆಗಿದೆ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: $OA = OB$ ಮತ್ತು $OD = OC$.",
+    "$\\triangle AOD$ ಮತ್ತು $\\triangle BOC$ ಗಳಲ್ಲಿ:",
+    "  • $OA = OB$ (ದತ್ತ)",
+    "  • $\\angle AOD = \\angle BOC$ (ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು)",
+    "  • $OD = OC$ (ದತ್ತ)",
+    "ಆದ್ದರಿಂದ, ಬಾ.ಕೋ.ಬಾ ನಿಬಂಧನೆಯ ಪ್ರಕಾರ, $\\triangle AOD \\cong \\triangle BOC$."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "ready",
+    "description": "ಎರಡು ಛೇದಿಸುವ ರೇಖೆಗಳು AD ಮತ್ತು BC, O ನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. OA=OB ಮತ್ತು OC=OD ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ BOC ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಬಾ.ಕೋ.ಬಾ (SAS) ಸರ್ವಸಮತೆ ನಿಯಮವನ್ನು ವಿವರಿಸಲು ಈ ಚಿತ್ರವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಇದು CPCTC ಯ ಅನ್ವಯಕ್ಕೆ ವೇದಿಕೆ ಕಲ್ಪಿಸುತ್ತದೆ.",
+    "placeholder_note": "Use diagram from NCERT Class 9 Maths, Chapter 7, Example 1 (Figure 7.8, but with labels A,D and B,C swapped to match the proof AOD and BOC)."
+  },
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_014"
+}

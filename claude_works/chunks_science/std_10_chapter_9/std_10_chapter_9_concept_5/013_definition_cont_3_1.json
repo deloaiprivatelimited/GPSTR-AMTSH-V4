@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಗಾಳಿ ಮತ್ತು ನೀರು",
+  "script": "ಒಂದು ದೃಶ್ಯದ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಗಾಳಿ ಮತ್ತು ನೀರು ಎಂಬ ಎರಡು ಮಾಧ್ಯಮಗಳಿವೆ. ಗಾಳಿಯಲ್ಲಿ ಬೆಳಕಿನ ವೇಗವು ಸೆಕೆಂಡಿಗೆ ಸುಮಾರು ಮೂರು ಲಕ್ಷ ಕಿಲೋಮೀಟರ್ ಇರುತ್ತದೆ. ಆದರೆ, ನೀರಿನಲ್ಲಿ ಬೆಳಕಿನ ವೇಗವು ಸೆಕೆಂಡಿಗೆ ಸುಮಾರು ಎರಡು ಪಾಯಿಂಟ್ ಎರಡು ಐದು ಲಕ್ಷ ಕಿಲೋಮೀಟರ್‌ಗೆ ಇಳಿಯುತ್ತದೆ. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಗಾಳಿಯಲ್ಲಿ ಬೆಳಕಿನ ವೇಗ ಹೆಚ್ಚಾಗಿರುವುದರಿಂದ, ನಾವು ಗಾಳಿಯನ್ನು ದೃಕ್ ವಿರಳ ಮಾಧ್ಯಮ ಎಂದು ಪರಿಗಣಿಸುತ್ತೇವೆ. ಇದಕ್ಕೆ ಹೋಲಿಸಿದರೆ ನೀರು ದೃಕ್ ಸಾಂದ್ರ ಮಾಧ್ಯಮವಾಗುತ್ತದೆ.",
+  "script_display": "ಒಂದು ದೃಶ್ಯದ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಗಾಳಿ ಮತ್ತು ನೀರು ಎಂಬ ಎರಡು ಮಾಧ್ಯಮಗಳಿವೆ. ಗಾಳಿಯಲ್ಲಿ ಬೆಳಕಿನ ವೇಗವು ಸೆಕೆಂಡಿಗೆ ಸುಮಾರು 3,00,000 km/s ಇರುತ್ತದೆ. ಆದರೆ, ನೀರಿನಲ್ಲಿ ಬೆಳಕಿನ ವೇಗವು ಸೆಕೆಂಡಿಗೆ ಸುಮಾರು 2,25,000 km/s ಗೆ ಇಳಿಯುತ್ತದೆ. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಗಾಳಿಯಲ್ಲಿ ಬೆಳಕಿನ ವೇಗ ಹೆಚ್ಚಾಗಿರುವುದರಿಂದ, ನಾವು ಗಾಳಿಯನ್ನು ದೃಕ್ ವಿರಳ ಮಾಧ್ಯಮ ಎಂದು ಪರಿಗಣಿಸುತ್ತೇವೆ. ಇದಕ್ಕೆ ಹೋಲಿಸಿದರೆ ನೀರು ದೃಕ್ ಸಾಂದ್ರ ಮಾಧ್ಯಮವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಗಾಳಿಯಲ್ಲಿ ಬೆಳಕಿನ ವೇಗ ಹೆಚ್ಚು (≈ 3,00,000 km/s).",
+    "ನೀರಿನಲ್ಲಿ ಬೆಳಕಿನ ವೇಗ ಕಡಿಮೆ (≈ 2,25,000 km/s).",
+    "ವೇಗ ಹೆಚ್ಚಿರುವ ಕಾರಣ, ಗಾಳಿಯು ನೀರಿಗಿಂತ ದೃಕ್ ವಿರಳ ಮಾಧ್ಯಮವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing two layers. The top layer is labeled 'ಗಾಳಿ (ವಿರಳ ಮಾಧ್ಯಮ)' and the bottom layer is 'ನೀರು (ಸಾಂದ್ರ ಮಾಧ್ಯಮ)'. A light ray is shown traveling faster and straighter in the air, then bending and slowing down as it enters the water. Speed vectors or wave animations can show the difference in speed.",
+    "labels": "ಗಾಳಿ, ನೀರು, ಬೆಳಕಿನ ಕಿರಣ, ವೇಗ",
+    "scientific_significance": "Illustrates the concept of optical rarity by comparing the speed of light in two common media, air and water.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_9_concept_5_chunk_013"
+}

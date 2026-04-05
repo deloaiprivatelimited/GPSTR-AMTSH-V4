@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಶೃಂಗವನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ದೃಶ್ಯದ ಮೂಲಕ ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿರುವ ಘನದ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಇದರಲ್ಲಿ ಒಂದು ಮೂಲೆಯನ್ನು ಕೆಂಪು ಬಣ್ಣದಲ್ಲಿ ಗುರುತಿಸಲಾಗಿದೆ. ಇದೇ ಒಂದು ಶೃಂಗ. ಇದು ಒಂದು ಚೂಪಾದ ಬಿಂದುವಾಗಿದೆ. ಈ ಬಿಂದುವಿನಲ್ಲಿ ಮೇಲಿನಿಂದ ಒಂದು, ಎಡದಿಂದ ಒಂದು ಮತ್ತು ಮುಂದಿನಿಂದ ಒಂದು, ಹೀಗೆ ಒಟ್ಟು ಮೂರು ಅಂಚುಗಳು ಬಂದು ಸೇರಿಕೊಳ್ಳುತ್ತಿವೆ. ಇದಕ್ಕೂ ಮುಖಕ್ಕೂ ವ್ಯತ್ಯಾಸವಿದೆ. ಮುಖವು ಚಪ್ಪಟೆಯಾದ ಮೇಲ್ಮೈ ಆದರೆ, ಶೃಂಗವು ಒಂದು ಬಿಂದು ಅಥವಾ ಮೂಲೆ. ಇದೇ ರೀತಿ ಅಂಚು ಒಂದು ರೇಖೆಯಾದರೆ, ಶೃಂಗವು ಆ ರೇಖೆಗಳು ಸೇರುವ ಬಿಂದು.",
+  "script_display": "ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ದೃಶ್ಯದ ಮೂಲಕ ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿರುವ ಘನದ (cube) ಚಿತ್ರವನ್ನು ನೋಡಿ. ಇದರಲ್ಲಿ ಒಂದು ಮೂಲೆಯನ್ನು ಕೆಂಪು ಬಣ್ಣದಲ್ಲಿ ಗುರುತಿಸಲಾಗಿದೆ. ಇದೇ ಒಂದು ಶೃಂಗ. ಇದು ಒಂದು ಚೂಪಾದ ಬಿಂದುವಾಗಿದೆ. ಈ ಬಿಂದುವಿನಲ್ಲಿ ಮೇಲಿನಿಂದ ಒಂದು, ಎಡದಿಂದ ಒಂದು ಮತ್ತು ಮುಂದಿನಿಂದ ಒಂದು, ಹೀಗೆ ಒಟ್ಟು ಮೂರು ಅಂಚುಗಳು (edges) ಬಂದು ಸೇರಿಕೊಳ್ಳುತ್ತಿವೆ. ಇದಕ್ಕೂ ಮುಖಕ್ಕೂ ವ್ಯತ್ಯಾಸವಿದೆ. ಮುಖವು ಚಪ್ಪಟೆಯಾದ ಮೇಲ್ಮೈ ಆದರೆ, ಶೃಂಗವು ಒಂದು ಬಿಂದು ಅಥವಾ ಮೂಲೆ. ಇದೇ ರೀತಿ ಅಂಚು ಒಂದು ರೇಖೆಯಾದರೆ, ಶೃಂಗವು ಆ ರೇಖೆಗಳು ಸೇರುವ ಬಿಂದು.",
+  "display_bullets": [
+    "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಘನವನ್ನು (cube) ಗಮನಿಸಿ.",
+    "ಕೆಂಪು ಬಣ್ಣದಲ್ಲಿ ಗುರುತಿಸಿರುವ ಚೂಪಾದ ಮೂಲೆ ಒಂದು ಶೃಂಗವಾಗಿದೆ.",
+    "ಈ ಬಿಂದುವಿನಲ್ಲಿ ಮೂರು ಅಂಚುಗಳು (edges) ಬಂದು ಸೇರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_portrait",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cube with one of its vertices highlighted in red and labelled 'ಶೃಂಗ (Vertex)'. The three edges meeting at that vertex are also lightly highlighted to show they converge at the vertex.",
+    "labels": "ಶೃಂಗ (Vertex), ಅಂಚು (Edge)",
+    "mathematical_significance": "Visually isolates a single vertex to clearly define it as the meeting point of edges, contrasting it with the lines (edges) that form it.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "VIS-SOLID-2_concept_2_chunk_011"
+}

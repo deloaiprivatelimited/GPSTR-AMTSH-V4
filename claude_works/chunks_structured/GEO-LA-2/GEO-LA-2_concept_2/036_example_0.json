@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 6.9 ರಲ್ಲಿ, PQ ಮತ್ತು RS ಎಂಬ ಎರಡು ಸರಳರೇಖೆಗಳು O ಬಿಂದುವಿನಲ್ಲಿ ಪರಸ್ಪರ ಛೇದಿಸುತ್ತಿವೆ ಎಂದು ನಮಗೆ ನೀಡಲಾಗಿದೆ. ಕೋನ POR ಮತ್ತು ಕೋನ ROQ ನಡುವಿನ ಅನುಪಾತವು ಐದಕ್ಕೆ ಏಳು ಆಗಿದೆ. ನಾವು ಈ ಛೇದನದಿಂದ ಉಂಟಾಗುವ ಎಲ್ಲಾ ನಾಲ್ಕು ಕೋನಗಳ ಅಳತೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 6.9 ರಲ್ಲಿ, PQ ಮತ್ತು RS ಎಂಬ ಎರಡು ಸರಳರೇಖೆಗಳು 'O' ಬಿಂದುವಿನಲ್ಲಿ ಪರಸ್ಪರ ಛೇದಿಸುತ್ತಿವೆ ಎಂದು ನಮಗೆ ನೀಡಲಾಗಿದೆ. $\\angle POR$ ಮತ್ತು $\\angle ROQ$ ನಡುವಿನ ಅನುಪಾತವು $5:7$ ಆಗಿದೆ. ನಾವು ಈ ಛೇದನದಿಂದ ಉಂಟಾಗುವ ಎಲ್ಲಾ ನಾಲ್ಕು ಕೋನಗಳ ಅಳತೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ (Given): PQ ಮತ್ತು RS ರೇಖೆಗಳು O ನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ.",
+    "ದತ್ತಾಂಶ (Given): $\\angle POR : \\angle ROQ = 5:7$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To Find): ಎಲ್ಲಾ ಕೋನಗಳ ಅಳತೆಗಳು ($∠POR, ∠ROQ, ∠SOQ, ∠POS$)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ಸರಳರೇಖೆಗಳಾದ PQ ಮತ್ತು RS, O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತಿವೆ. ಇದರಿಂದ ನಾಲ್ಕು ಕೋನಗಳು ಉಂಟಾಗಿವೆ: POR, ROQ, QOS, ಮತ್ತು SOP. ಕೋನ POR ಮತ್ತು ROQ ಗಳು ಸರಳಯುಗ್ಮವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.",
+    "labels": "ಚಿತ್ರ 6.9",
+    "mathematical_significance": "ಅನುಪಾತದಲ್ಲಿರುವ ಸರಳಯುಗ್ಮ ಮತ್ತು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳ ಸಮಸ್ಯೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing lines PQ and RS intersecting at O, with angles labeled."
+  },
+  "source_example_id": "GEO-LA-2_example_1",
+  "steps": [],
+  "chunk_id": "GEO-LA-2_concept_2_chunk_036"
+}

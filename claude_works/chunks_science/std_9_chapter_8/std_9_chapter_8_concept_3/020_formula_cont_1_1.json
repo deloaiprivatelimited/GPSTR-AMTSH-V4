@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಬಲದ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ ಎಫ್ ಈಕ್ವಲ್ಸ್ ಎಂ ಎ ಸೂತ್ರವನ್ನು ಬಳಸಿ ಒಂದು ಸರಳವಾದ ಲೆಕ್ಕವನ್ನು ಮಾಡೋಣ. ಸಮಸ್ಯೆಯನ್ನು ಗಮನಿಸಿ: ಐದು ಕಿಲೋಗ್ರಾಂ ದ್ರವ್ಯರಾಶಿಯಿರುವ ಒಂದು ವಸ್ತುವನ್ನು ಎರಡು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್ ನಷ್ಟು ವೇಗೋತ್ಕರ್ಷಗೊಳಿಸಲು ಬೇಕಾದ ಬಲವೆಷ್ಟು? ಇಲ್ಲಿ ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶಗಳೆಂದರೆ, ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿ ಎಂ, ಐದು ಕೆಜಿ. ಮತ್ತು ವೇಗೋತ್ಕರ್ಷ ಎ, ಎರಡು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಬಲ, ಅಂದರೆ ಎಫ್.",
+  "script_display": "ಈಗ F = ma ಸೂತ್ರವನ್ನು ಬಳಸಿ ಒಂದು ಸರಳವಾದ ಲೆಕ್ಕವನ್ನು ಮಾಡೋಣ.\n**ಸಮಸ್ಯೆ:** 5 kg ದ್ರವ್ಯರಾಶಿಯಿರುವ ಒಂದು ವಸ್ತುವನ್ನು 2 m/s² ನಷ್ಟು ವೇಗೋತ್ಕರ್ಷಗೊಳಿಸಲು ಬೇಕಾದ ಬಲವೆಷ್ಟು?\n**ದತ್ತಾಂಶಗಳು (Given):**\n- ದ್ರವ್ಯರಾಶಿ (m) = 5 kg\n- ವೇಗೋತ್ಕರ್ಷ (a) = 2 m/s²\n**ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (Find):**\n- ಬಲ (F) = ?",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 5 kg ದ್ರವ್ಯರಾಶಿಯ ವಸ್ತುವನ್ನು 2 m/s² ನಷ್ಟು ವೇಗೋತ್ಕರ್ಷಗೊಳಿಸಲು ಬೇಕಾದ ಬಲವೆಷ್ಟು?",
+    "ದತ್ತಾಂಶ: m = 5 kg, a = 2 m/s²",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಬಲ (F)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "classic_blue",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "F = ma",
+    "placeholder_note": "Formula F=ma is displayed for reference"
+  },
+  "sub_type": "problem_setup",
+  "chunk_id": "std_9_chapter_8_concept_3_chunk_020"
+}

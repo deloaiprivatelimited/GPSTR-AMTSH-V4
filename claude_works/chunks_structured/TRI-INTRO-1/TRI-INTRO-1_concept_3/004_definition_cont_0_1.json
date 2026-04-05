@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿತ್ಯಸಮೀಕರಣ vs ಸಮೀಕರಣ",
+  "script": "ಹಾಗಾದರೆ, ನಿತ್ಯಸಮೀಕರಣಕ್ಕೂ ಮತ್ತು ಕೇವಲ ಸಮೀಕರಣಕ್ಕೂ ಏನು ವ್ಯತ್ಯಾಸ? ಬನ್ನಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿರುವುದು ನಿತ್ಯಸಮೀಕರಣ: a ಪ್ಲಸ್ b ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ a ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಟೂ a b ಪ್ಲಸ್ b ಸ್ಕ್ವೇರ್ಡ್. ಇದು a ಮತ್ತು b ಯ ಎಲ್ಲಾ ಬೆಲೆಗಳಿಗೆ ಸತ್ಯ. ಬಲಭಾಗದಲ್ಲಿರುವುದು ಒಂದು ಸಮೀಕರಣ: x ಪ್ಲಸ್ ಐದು ಈಕ್ವಲ್ಸ್ ಎಂಟು. ಇದು x ನ ಎಲ್ಲಾ ಬೆಲೆಗಳಿಗೆ ಸತ್ಯವೇ? ಇಲ್ಲ. x ನ ಬೆಲೆ ಮೂರು ಆದಾಗ ಮಾತ್ರ, ಅಂದರೆ ಮೂರು ಪ್ಲಸ್ ಐದು ಈಕ್ವಲ್ಸ್ ಎಂಟು, ಈ ಸಮೀಕರಣ ಸತ್ಯವಾಗುತ್ತದೆ. ಬೇರೆ ಯಾವುದೇ ಬೆಲೆಗೆ ಇದು ಸತ್ಯವಲ್ಲ. ಇದೇ ಇವೆರಡರ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ.",
+  "script_display": "ಹಾಗಾದರೆ, ನಿತ್ಯಸಮೀಕರಣಕ್ಕೂ ಮತ್ತು ಕೇವಲ ಸಮೀಕರಣಕ್ಕೂ ಏನು ವ್ಯತ್ಯಾಸ? ಬನ್ನಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿರುವುದು ನಿತ್ಯಸಮೀಕರಣ: $(a+b)^2 = a^2 + 2ab + b^2$. ಇದು $a$ ಮತ್ತು $b$ ಯ ಎಲ್ಲಾ ಬೆಲೆಗಳಿಗೆ ಸತ್ಯ. ಬಲಭಾಗದಲ್ಲಿರುವುದು ಒಂದು ಸಮೀಕರಣ: $x + 5 = 8$. ಇದು $x$ ನ ಎಲ್ಲಾ ಬೆಲೆಗಳಿಗೆ ಸತ್ಯವೇ? ಇಲ್ಲ. $x$ ನ ಬೆಲೆ $3$ ಆದಾಗ ಮಾತ್ರ, ಅಂದರೆ $3 + 5 = 8$, ಈ ಸಮೀಕರಣ ಸತ್ಯವಾಗುತ್ತದೆ. ಬೇರೆ ಯಾವುದೇ ಬೆಲೆಗೆ ಇದು ಸತ್ಯವಲ್ಲ. ಇದೇ ಇವೆರಡರ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_text_text",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_panel",
+    "status": "ready",
+    "render_target": "katex",
+    "placeholder_note": "A split screen comparison. Left side shows an identity, right side shows an equation. Left Title: ನಿತ್ಯಸಮೀಕರಣ (Identity), Left Content: $(a+b)^2 = a^2 + 2ab + b^2$ (ಎಲ್ಲಾ $a, b$ ಬೆಲೆಗಳಿಗೆ ಸತ್ಯ). Right Title: ಸಮೀಕರಣ (Equation), Right Content: $x+5=8$ ($x=3$ ಗೆ ಮಾತ್ರ ಸತ್ಯ). "
+  },
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_004"
+}

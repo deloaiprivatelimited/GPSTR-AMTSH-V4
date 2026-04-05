@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ರೇಖಾಖಂಡದ ಸಂಕಲನ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. A, B ಮತ್ತು C ಗಳು ಒಂದು ರೇಖೆಯ ಮೇಲಿನ ಮೂರು ಬಿಂದುಗಳಾಗಿದ್ದು, B ಯು A ಮತ್ತು C ಗಳ ನಡುವೆ ಇದೆ. ನಾವು AB ಪ್ಲಸ್ BC ಈಕ್ವಲ್ಸ್ AC ಎಂದು ಸಾಧಿಸಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ದತ್ತಾಂಶವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವಂತೆ, A, B, ಮತ್ತು C ಬಿಂದುಗಳು ಏಕರೇಖಾಗತವಾಗಿವೆ, ಅಂದರೆ ಒಂದೇ ಸರಳರೇಖೆಯ ಮೇಲಿವೆ. ಹಾಗೂ, B ಬಿಂದುವು A ಮತ್ತು C ಗಳ ಮಧ್ಯದಲ್ಲಿದೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು, AB ಮತ್ತು BC ರೇಖಾಖಂಡಗಳ ಉದ್ದಗಳ ಮೊತ್ತವು AC ರೇಖಾಖಂಡದ ಉದ್ದಕ್ಕೆ ಸಮ ಎಂದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. A, B ಮತ್ತು C ಗಳು ಒಂದು ರೇಖೆಯ ಮೇಲಿನ ಮೂರು ಬಿಂದುಗಳಾಗಿದ್ದು, B ಯು A ಮತ್ತು C ಗಳ ನಡುವೆ ಇದ್ದರೆ, $AB + BC = AC$ ಎಂದು ಸಾಧಿಸಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ದತ್ತಾಂಶವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವಂತೆ, A, B, ಮತ್ತು C ಬಿಂದುಗಳು ಏಕರೇಖಾಗತವಾಗಿವೆ, ಅಂದರೆ ಒಂದೇ ಸರಳರೇಖೆಯ ಮೇಲಿವೆ. ಹಾಗೂ, B ಬಿಂದುವು A ಮತ್ತು C ಗಳ ಮಧ್ಯದಲ್ಲಿದೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು, AB ಮತ್ತು BC ರೇಖಾಖಂಡಗಳ ಉದ್ದಗಳ ಮೊತ್ತವು AC ರೇಖಾಖಂಡದ ಉದ್ದಕ್ಕೆ ಸಮ ಎಂದು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: A, B, C ಗಳು ಏಕರೇಖಾಗತ ಬಿಂದುಗಳು ಮತ್ತು B ಯು A ಮತ್ತು C ಗಳ ನಡುವೆ ಇದೆ.",
+    "ಸಾಧನೀಯ: $AB + BC = AC$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ಸರಳರೇಖೆಯ ಮೇಲೆ A, B, ಮತ್ತು C ಬಿಂದುಗಳಿವೆ. B ಬಿಂದುವು A ಮತ್ತು C ಬಿಂದುಗಳ ನಡುವೆ ಇದೆ. ರೇಖಾಖಂಡ AB ಮತ್ತು ರೇಖಾಖಂಡ BC ಯನ್ನು ತೋರಿಸಲಾಗಿದೆ, ಇವೆರಡೂ ಸೇರಿ AC ಆಗುತ್ತದೆ.",
+    "labels": "A, B, C",
+    "mathematical_significance": "ರೇಖಾಖಂಡಗಳ ಸಂಕಲನವನ್ನು ಮತ್ತು ಯೂಕ್ಲಿಡ್‌ನ 4ನೇ ಸ್ವಯಂಸಿದ್ಧದ ಅನ್ವಯವನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing a line with points A, B, C where B is between A and C."
+  },
+  "source_example_id": "GEO-EUC-2_example_1",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-EUC-2_concept_3_chunk_008"
+}

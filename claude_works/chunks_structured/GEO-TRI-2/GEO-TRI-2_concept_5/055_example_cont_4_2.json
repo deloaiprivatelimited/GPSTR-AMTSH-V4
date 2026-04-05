@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಮುಂದುವರಿಸೋಣ. ತ್ರಿಭುಜಗಳು ಸಮರೂಪವಾಗಿರುವುದರಿಂದ, ಅವುಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಅಂದರೆ, ಕೋನ A ಈಕ್ವಲ್ಸ್ ಕೋನ R, ಕೋನ B ಈಕ್ವಲ್ಸ್ ಕೋನ Q, ಮತ್ತು ನಮಗೆ ಬೇಕಾಗಿರುವುದು, ಕೋನ C ಈಕ್ವಲ್ಸ್ ಕೋನ P. ಈಗ ನಾವು ಕೋನ P ಯನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಮೊದಲು ಕೋನ C ಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, ತ್ರಿಭುಜದ ಒಳಕೋನಗಳ ಮೊತ್ತ 180 ಡಿಗ್ರಿ ಇರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಕೋನ C ಈಕ್ವಲ್ಸ್ 180 ಡಿಗ್ರಿ ಮೈನಸ್ ಕೋನ A ಪ್ಲಸ್ ಕೋನ B. ಅಂದರೆ, 180 ಮೈನಸ್, 80 ಪ್ಲಸ್ 60. ಇದು 180 ಮೈನಸ್ 140 ಆಗುತ್ತದೆ, ಅಂದರೆ 40 ಡಿಗ್ರಿ. ಕೋನ C ಯ ಅಳತೆ 40 ಡಿಗ್ರಿ. ನಾವು ಈಗಾಗಲೇ ನೋಡಿದಂತೆ, ಕೋನ C ಯು ಕೋನ P ಗೆ ಸಮ. ಆದ್ದರಿಂದ, ಕೋನ P ಯ ಅಳತೆಯು 40 ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ತ್ರಿಭುಜಗಳು ಸಮರೂಪವಾಗಿರುವುದರಿಂದ, ಅವುಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಅಂದರೆ, $\\angle A = \\angle R$, $\\angle B = \\angle Q$, ಮತ್ತು ನಮಗೆ ಬೇಕಾಗಿರುವುದು, $\\angle C = \\angle P$. ಈಗ ನಾವು $\\angle P$ ಯನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಮೊದಲು $\\angle C$ ಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. $\\triangle ABC$ ಯಲ್ಲಿ, ತ್ರಿಭುಜದ ಒಳಕೋನಗಳ ಮೊತ್ತ $180^\\circ$ ಇರುತ್ತದೆ. ಆದ್ದರಿಂದ, $\\angle C = 180^\\circ - (\\angle A + \\angle B)$. ಅಂದರೆ, $180^\\circ - (80^\\circ + 60^\\circ)$. ಇದು $180^\\circ - 140^\\circ$ ಆಗುತ್ತದೆ, ಅಂದರೆ $40^\\circ$. $\\angle C$ ಯ ಅಳತೆ $40^\\circ$. ನಾವು ಈಗಾಗಲೇ ನೋಡಿದಂತೆ, $\\angle C = \\angle P$. ಆದ್ದರಿಂದ, $\\angle P$ ಯ ಅಳತೆಯು $40^\\circ$ ಆಗಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_3",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_15",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, $\\angle C = \\angle P$.",
+      "justification": "ಸಮರೂಪತೆಯ ಗುಣ."
+    },
+    {
+      "step": 5,
+      "action_display": "$\\triangle ABC$ ಯಲ್ಲಿ, $\\angle C = 180^\\circ - (\\angle A + \\angle B) = 180^\\circ - (80^\\circ + 60^\\circ) = 40^\\circ$.",
+      "justification": "ತ್ರಿಭುಜದ ಒಳಕೋನಗಳ ಮೊತ್ತದ ಗುಣ."
+    },
+    {
+      "step": 6,
+      "action_display": "$\\angle C = \\angle P$ ಆಗಿರುವುದರಿಂದ, $\\angle P = 40^\\circ$.",
+      "justification": "ಹಂತ 4 ಮತ್ತು 5 ರಿಂದ."
+    }
+  ],
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_055"
+}

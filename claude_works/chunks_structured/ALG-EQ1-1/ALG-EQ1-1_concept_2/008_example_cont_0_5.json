@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರಗಳು",
+  "script": "ಹಾಗಾದರೆ, ನಾವು ರಚಿಸಿದ ಎಲ್ಲಾ ನಾಲ್ಕು ಸಮೀಕರಣಗಳನ್ನು ಒಟ್ಟಾಗಿ ನೋಡೋಣ. ಮೊದಲನೆಯದು, 3x ಪ್ಲಸ್ 11 ಈಕ್ವಲ್ಸ್ 32. ಎರಡನೆಯದು, 6z ಮೈನಸ್ 5 ಈಕ್ವಲ್ಸ್ 7. ಮೂರನೆಯದು, m ಬೈ 4 ಮೈನಸ್ 7 ಈಕ್ವಲ್ಸ್ 3. ಮತ್ತು ನಾಲ್ಕನೆಯದು, n ಬೈ 3 ಪ್ಲಸ್ 5 ಈಕ್ವಲ್ಸ್ 8. ಈ ರೀತಿ ನಾವು ಪದಗಳಲ್ಲಿ ಕೊಟ್ಟ ಹೇಳಿಕೆಗಳನ್ನು ಗಣಿತದ ಸಮೀಕರಣಗಳಾಗಿ ಸುಲಭವಾಗಿ ಪರಿವರ್ತಿಸಬಹುದು.",
+  "script_display": "ಹಾಗಾದರೆ, ನಾವು ರಚಿಸಿದ ಎಲ್ಲಾ ನಾಲ್ಕು ಸಮೀಕರಣಗಳನ್ನು ಒಟ್ಟಾಗಿ ನೋಡೋಣ. ಈ ರೀತಿ ನಾವು ಪದಗಳಲ್ಲಿ ಕೊಟ್ಟ ಹೇಳಿಕೆಗಳನ್ನು ಗಣಿತದ ಸಮೀಕರಣಗಳಾಗಿ ಸುಲಭವಾಗಿ ಪರಿವರ್ತಿಸಬಹುದು.",
+  "display_bullets": [
+    "(i) $3x + 11 = 32$",
+    "(ii) $6z - 5 = 7$",
+    "(iii) $\\frac{m}{4} - 7 = 3$",
+    "(iv) $\\frac{n}{3} + 5 = 8$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "ALG-EQ1-1_example_1",
+  "final_answer": "ಹೇಳಿಕೆಗಳಿಗೆ ಅನುಗುಣವಾದ ಸಮೀಕರಣಗಳು: (i) 3x + 11 = 32, (ii) 6z - 5 = 7, (iii) m/4 - 7 = 3, (iv) n/3 + 5 = 8.",
+  "final_answer_display": "ಹೇಳಿಕೆಗಳಿಗೆ ಅನುಗುಣವಾದ ಸಮೀಕರಣಗಳು: (i) $3x + 11 = 32$, (ii) $6z - 5 = 7$, (iii) $\\frac{m}{4} - 7 = 3$, (iv) $\\frac{n}{3} + 5 = 8$.",
+  "chunk_id": "ALG-EQ1-1_concept_2_chunk_008"
+}

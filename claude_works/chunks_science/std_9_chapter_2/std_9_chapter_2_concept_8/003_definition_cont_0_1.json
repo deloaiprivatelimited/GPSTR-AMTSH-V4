@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಮಂಜುಗಡ್ಡೆ ಕರಗುವುದು",
+  "script": "ಭೌತ ಬದಲಾವಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಉದಾಹರಣೆ ನೋಡೋಣ, ಅದುವೇ ಮಂಜುಗಡ್ಡೆ ನೀರಾಗುವುದು. ಮಂಜುಗಡ್ಡೆ ಘನ ಸ್ಥಿತಿಯಲ್ಲಿದೆ. ಅದಕ್ಕೆ ಶಾಖ ನೀಡಿದಾಗ, ಅದು ಕರಗಿ ದ್ರವ ರೂಪದ ನೀರಾಗುತ್ತದೆ. ಇಲ್ಲಿ, ವಸ್ತುವಿನ ಸ್ಥಿತಿ ಘನದಿಂದ ದ್ರವಕ್ಕೆ ಬದಲಾಗಿದೆ. ಆದರೆ, ಮಂಜುಗಡ್ಡೆ ಮತ್ತು ನೀರು ಎರಡೂ ರಾಸಾಯನಿಕವಾಗಿ ಎಚ್ ಟು ಓ ಅಣುಗಳಿಂದಲೇ ಮಾಡಲ್ಪಟ್ಟಿವೆ. ಯಾವುದೇ ಹೊಸ ವಸ್ತು ಇಲ್ಲಿ ಉಂಟಾಗಿಲ್ಲ. ನಾವು ಈ ನೀರನ್ನು ಮತ್ತೆ ತಂಪು ಮಾಡಿದರೆ, ಅದು ಮರಳಿ ಮಂಜುಗಡ್ಡೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಇದು ಒಂದು ಹಿಂತಿರುಗಿಸಬಹುದಾದ ಭೌತ ಬದಲಾವಣೆ.",
+  "script_display": "ಭೌತ ಬದಲಾವಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಉದಾಹರಣೆ ನೋಡೋಣ, ಅದುವೇ ಮಂಜುಗಡ್ಡೆ ನೀರಾಗುವುದು. ಮಂಜುಗಡ್ಡೆ ಘನ ಸ್ಥಿತಿಯಲ್ಲಿದೆ. ಅದಕ್ಕೆ ಶಾಖ ನೀಡಿದಾಗ, ಅದು ಕರಗಿ ದ್ರವ ರೂಪದ ನೀರಾಗುತ್ತದೆ. ಇಲ್ಲಿ, ವಸ್ತುವಿನ ಸ್ಥಿತಿ ಘನದಿಂದ ದ್ರವಕ್ಕೆ ಬದಲಾಗಿದೆ. ಆದರೆ, ಮಂಜುಗಡ್ಡೆ ಮತ್ತು ನೀರು ಎರಡೂ ರಾಸಾಯನಿಕವಾಗಿ H₂O ಅಣುಗಳಿಂದಲೇ ಮಾಡಲ್ಪಟ್ಟಿವೆ. ಯಾವುದೇ ಹೊಸ ವಸ್ತು ಇಲ್ಲಿ ಉಂಟಾಗಿಲ್ಲ. ನಾವು ಈ ನೀರನ್ನು ಮತ್ತೆ ತಂಪು ಮಾಡಿದರೆ, ಅದು ಮರಳಿ ಮಂಜುಗಡ್ಡೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಇದು ಒಂದು ಹಿಂತಿರುಗಿಸಬಹುದಾದ ಭೌತ ಬದಲಾವಣೆ.",
+  "display_bullets": [
+    "ಸ್ಥಿತಿ ಬದಲಾವಣೆ: ಘನ (ಮಂಜುಗಡ್ಡೆ) → ದ್ರವ (ನೀರು).",
+    "ರಾಸಾಯನಿಕ ಸಂಯೋಜನೆ ಒಂದೇ: ಎರಡೂ H₂O.",
+    "ಹೊಸ ವಸ್ತು ಉಂಟಾಗಿಲ್ಲ.",
+    "ಹಿಂತಿರುಗಿಸಬಹುದು: ನೀರನ್ನು ತಂಪು ಮಾಡಿದರೆ ಮತ್ತೆ ಮಂಜುಗಡ್ಡೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An image showing an ice cube melting into a puddle of water. An arrow points from the ice to the water, labeled 'ಶಾಖ' (Heat). Another arrow points from the water back to the ice, labeled 'ತಂಪು' (Cooling). The chemical formula H₂O should be visible near both the ice and the water.",
+    "labels": "ಮಂಜುಗಡ್ಡೆ (ಘನ), ನೀರು (ದ್ರವ), ಶಾಖ, ತಂಪು, H₂O",
+    "scientific_significance": "Illustrates a change of state, a classic example of a physical change where the chemical identity of the substance remains constant.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "chunk_id": "std_9_chapter_2_concept_8_chunk_003"
+}

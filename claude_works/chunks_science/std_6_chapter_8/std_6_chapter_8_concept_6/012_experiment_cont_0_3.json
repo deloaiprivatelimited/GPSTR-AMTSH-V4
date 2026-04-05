@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನ: ಭಾಗ 2 (ಹೊಗೆಯೊಂದಿಗೆ)",
+  "script": "ಈಗ ಪ್ರಯೋಗದ ಪ್ರಮುಖ ಭಾಗಕ್ಕೆ ಬರೋಣ. ಬಾಟಲಿಯ ಮುಚ್ಚಳವನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ತೆರೆಯಿರಿ. ಒಂದು ಸಣ್ಣ ಕಾಗದದ ಚೂರನ್ನು ಉರಿಸಿ, ತಕ್ಷಣ ಅದನ್ನು ನಂದಿಸಿ, ಮತ್ತು ಅದರಿಂದ ಬರುವ ಹೊಗೆಯನ್ನು ಬಾಟಲಿಯೊಳಗೆ ಬಿಡಿ. ಹೊಗೆ ತುಂಬಿದ ತಕ್ಷಣವೇ ಮುಚ್ಚಳವನ್ನು ಮತ್ತೆ ಬಿಗಿಯಾಗಿ ಮುಚ್ಚಿ. ಇಲ್ಲಿ, ಈ ಹೊಗೆಯು ವಾತಾವರಣದಲ್ಲಿರುವ ಅತಿ ಸಣ್ಣ ಧೂಳಿನ ಕಣಗಳ ಪಾತ್ರವನ್ನು ವಹಿಸುತ್ತದೆ. ಈಗ, ಮೊದಲಿನಂತೆಯೇ ಬಾಟಲಿಯನ್ನು ಬಲವಾಗಿ ಅಮುಕಿ ಮತ್ತು ನಂತರ ಥಟ್ಟನೆ ಬಿಡಿ. ಈ ಬಾರಿ ಏನಾಗುತ್ತದೆ ಎಂದು ಕುತೂಹಲದಿಂದ ಗಮನಿಸಿ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗದ ಪ್ರಮುಖ ಭಾಗಕ್ಕೆ ಬರೋಣ. ಬಾಟಲಿಯ ಮುಚ್ಚಳವನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ತೆರೆಯಿರಿ. ಒಂದು ಸಣ್ಣ ಕಾಗದದ ಚೂರನ್ನು ಉರಿಸಿ, ತಕ್ಷಣ ಅದನ್ನು ನಂದಿಸಿ, ಮತ್ತು ಅದರಿಂದ ಬರುವ ಹೊಗೆಯನ್ನು ಬಾಟಲಿಯೊಳಗೆ ಬಿಡಿ. ಹೊಗೆ ತುಂಬಿದ ತಕ್ಷಣವೇ ಮುಚ್ಚಳವನ್ನು ಮತ್ತೆ ಬಿಗಿಯಾಗಿ ಮುಚ್ಚಿ. ಇಲ್ಲಿ, ಈ ಹೊಗೆಯು ವಾತಾವರಣದಲ್ಲಿರುವ ಅತಿ ಸಣ್ಣ ಧೂಳಿನ ಕಣಗಳ ಪಾತ್ರವನ್ನು ವಹಿಸುತ್ತದೆ. ಈಗ, ಮೊದಲಿನಂತೆಯೇ ಬಾಟಲಿಯನ್ನು ಬಲವಾಗಿ ಅಮುಕಿ ಮತ್ತು ನಂತರ ಥಟ್ಟನೆ ಬಿಡಿ. ಈ ಬಾರಿ ಏನಾಗುತ್ತದೆ ಎಂದು ಕುತೂಹಲದಿಂದ ಗಮನಿಸಿ.",
+  "display_bullets": [
+    "ಉರಿಯುವ ಕಾಗದದ ಚೂರಿನಿಂದ ಹೊಗೆಯನ್ನು ಬಾಟಲಿಯೊಳಗೆ ಸೇರಿಸಿ.",
+    "ತಕ್ಷಣ ಮುಚ್ಚಳವನ್ನು ಮುಚ್ಚಿ.",
+    "ಮತ್ತೊಮ್ಮೆ ಬಾಟಲಿಯನ್ನು ಅಮುಕಿ-ಬಿಟ್ಟು ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing smoke from a smoldering paper strip being introduced into the plastic bottle.",
+    "labels": "ಹೊಗೆಯ ಕಣಗಳನ್ನು ಸೇರಿಸುವುದು",
+    "scientific_significance": "This step introduces condensation nuclei (smoke particles) into the system, which is a critical variable for the experiment.",
+    "placeholder_note": "Image to be generated."
+  },
+  "chunk_id": "std_6_chapter_8_concept_6_chunk_012"
+}

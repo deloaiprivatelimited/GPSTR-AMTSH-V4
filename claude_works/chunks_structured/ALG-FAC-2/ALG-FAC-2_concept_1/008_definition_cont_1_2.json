@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಮುಂದುವರಿದ ಭಾಗ",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ, ನಮಗೆ ಸಿಕ್ಕಿರುವ ಹದಿನೈದನ್ನು ಗಮನಿಸಿ. ಹದಿನೈದು ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯೇ? ಇಲ್ಲ, ಅದು ಒಂದು ಸಂಯುಕ್ತ ಸಂಖ್ಯೆ. ಹಾಗಾಗಿ ನಾವು ಅದನ್ನು ಇನ್ನೂ ಮುಂದೆ ಅಪವರ್ತಿಸಬಹುದು. ಹದಿನೈದನ್ನು ಭಾಗಿಸಬಲ್ಲ ಅತ್ಯಂತ ಚಿಕ್ಕ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ ಯಾವುದು? ಅದು ಮೂರು. ಆದ್ದರಿಂದ, ಹದಿನೈದನ್ನು ಮೂರು ಗುಣಿಸು ಐದು ಎಂದು ಬರೆಯಬಹುದು. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಮೂರು ಮತ್ತು ಐದು, ಇವೆರಡೂ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು. ಹಾಗಾಗಿ ಇವು ಕೂಡ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳೇ. ಈಗ ನಮಗೆ ಸಿಕ್ಕಿರುವ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳಾಗಿವೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ, ನಮಗೆ ಸಿಕ್ಕಿರುವ 15 ಅನ್ನು ಗಮನಿಸಿ. 15 ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯೇ? ಇಲ್ಲ, ಅದು ಒಂದು ಸಂಯುಕ್ತ ಸಂಖ್ಯೆ. ಹಾಗಾಗಿ ನಾವು ಅದನ್ನು ಇನ್ನೂ ಮುಂದೆ ಅಪವರ್ತಿಸಬಹುದು. 15ನ್ನು ಭಾಗಿಸಬಲ್ಲ ಅತ್ಯಂತ ಚಿಕ್ಕ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ ಯಾವುದು? ಅದು 3. ಆದ್ದರಿಂದ, $15 = 3 \\times 5$ ಎಂದು ಬರೆಯಬಹುದು. ಇಲ್ಲಿ ಗಮನಿಸಿ, 3 ಮತ್ತು 5, ಇವೆರಡೂ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು. ಹಾಗಾಗಿ ಇವು ಕೂಡ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳೇ. ಈಗ ನಮಗೆ ಸಿಕ್ಕಿರುವ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳಾಗಿವೆ.",
+  "display_bullets": [
+    "ಹಿಂದಿನ ಹಂತದಿಂದ, ನಮ್ಮ ಗಮನ 15ರ ಮೇಲಿದೆ.",
+    "15 ಒಂದು ಸಂಯುಕ್ತ ಸಂಖ್ಯೆ. ಇದನ್ನು ಮತ್ತಷ್ಟು ಅಪವರ್ತಿಸಬಹುದು.",
+    "15 ಅನ್ನು ಅದರ ಚಿಕ್ಕ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ 3 ರಿಂದ ಭಾಗಿಸಬಹುದು: $15 = 3 \\times 5$.",
+    "ಇಲ್ಲಿ, 3 ಮತ್ತು 5 ಎರಡೂ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು. ಆದ್ದರಿಂದ ಇವು ಕೂಡ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The factor tree from the previous slide is now extended. The number 15 now has two branches coming down from it. One leads to a circle with 3, and the other to a circle with 5. The circles with 2, 3, and 5 should all be highlighted or colored, indicating they are the final prime factors.",
+    "labels": "Factor tree, prime factorization, prime numbers",
+    "mathematical_significance": "Shows the completion of the prime factorization process, where all leaf nodes of the tree are prime numbers.",
+    "placeholder_note": "Image to be generated for 15 splitting into 3 and 5."
+  },
+  "chunk_id": "ALG-FAC-2_concept_1_chunk_008"
+}

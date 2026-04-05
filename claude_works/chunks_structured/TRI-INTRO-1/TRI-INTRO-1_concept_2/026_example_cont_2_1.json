@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ",
+  "script": "ಮೊದಲಿಗೆ, ನಮಗೆ ಸೈನ್ ಆಫ್ ಎ ಮೈನಸ್ ಬಿ ಸಮ ಒಂದು ಬೈ ಎರಡು ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ತ್ರಿಕೋನಮಿತಿ ಕೋಷ್ಟಕದಿಂದ, ಸೈನ್ ಮೂವತ್ತು ಡಿಗ್ರಿ ಒಂದು ಬೈ ಎರಡಕ್ಕೆ ಸಮ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ. ಆದ್ದರಿಂದ, ಎ ಮೈನಸ್ ಬಿ ಯು ಮೂವತ್ತು ಡಿಗ್ರಿಗೆ ಸಮನಾಗಿರಬೇಕು. ಇದನ್ನು ಸಮೀಕರಣ ಒಂದು ಎಂದು ಕರೆಯೋಣ. ಅದೇ ರೀತಿ, ಕಾಸ್ ಆಫ್ ಎ ಪ್ಲಸ್ ಬಿ ಸಮ ಒಂದು ಬೈ ಎರಡು ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ಕಾಸ್ ಅರವತ್ತು ಡಿಗ್ರಿ ಒಂದು ಬೈ ಎರಡಕ್ಕೆ ಸಮ. ಆದ್ದರಿಂದ, ಎ ಪ್ಲಸ್ ಬಿ ಯು ಅರವತ್ತು ಡಿಗ್ರಿಗೆ ಸಮನಾಗಿರಬೇಕು. ಇದನ್ನು ಸಮೀಕರಣ ಎರಡು ಎಂದು ಕರೆಯೋಣ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಮಗೆ $\\sin (A - B) = \\frac{1}{2}$ ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ತ್ರಿಕೋನಮಿತಿ ಕೋಷ್ಟಕದಿಂದ, $\\sin 30^\\circ = \\frac{1}{2}$ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ. ಆದ್ದರಿಂದ, $A - B$ ಯು $30^\\circ$ ಗೆ ಸಮನಾಗಿರಬೇಕು. ಇದನ್ನು ಸಮೀಕರಣ (1) ಎಂದು ಕರೆಯೋಣ. ಅದೇ ರೀತಿ, $\\cos (A + B) = \\frac{1}{2}$ ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. $\\cos 60^\\circ = \\frac{1}{2}$ ಆಗಿದೆ. ಆದ್ದರಿಂದ, $A + B$ ಯು $60^\\circ$ ಗೆ ಸಮನಾಗಿರಬೇಕು. ಇದನ್ನು ಸಮೀಕರಣ (2) ಎಂದು ಕರೆಯೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-INTRO-1_example_8",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\sin (A - B) = \\frac{1}{2} \\implies A - B = 30^\\circ$ ... (1)",
+      "justification": "ಏಕೆಂದರೆ $\\sin 30^\\circ = \\frac{1}{2}$"
+    },
+    {
+      "step": 2,
+      "action_display": "$\\cos (A + B) = \\frac{1}{2} \\implies A + B = 60^\\circ$ ... (2)",
+      "justification": "ಏಕೆಂದರೆ $\\cos 60^\\circ = \\frac{1}{2}$"
+    }
+  ],
+  "chunk_id": "TRI-INTRO-1_concept_2_chunk_026"
+}

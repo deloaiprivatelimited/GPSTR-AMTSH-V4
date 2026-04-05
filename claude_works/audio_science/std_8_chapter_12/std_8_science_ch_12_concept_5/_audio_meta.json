@@ -1,0 +1,103 @@
+{
+  "module_id": "std_8_science_ch_12_concept_5",
+  "chapter_code": "std_8_chapter_12",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:41:27",
+  "chunks": {
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "5f595beacf3fa9623a5c77db0bd76b4d",
+      "wav_file": "003_classification_0.wav",
+      "duration": 36.051,
+      "slide_title": "ಭೂಕಂಪಗಳಿಂದ ರಕ್ಷಣೆ: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 43,
+      "generated_at": "2026-04-02 14:39:48"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "ce4dd3a63e5a4d63166651db6e226497",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 35.451,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 42,
+      "generated_at": "2026-04-02 14:39:50"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "91b29efd4470296457e3d55873c73f5a",
+      "wav_file": "001_intro_0.wav",
+      "duration": 44.931,
+      "slide_title": "ಭೂಕಂಪಗಳಿಂದ ರಕ್ಷಣೆ",
+      "type": "intro",
+      "script_words": 60,
+      "generated_at": "2026-04-02 14:39:53"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "0d018907837699e09d0953c52ef6dba3",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 42.291,
+      "slide_title": "ಮುನ್ನೆಚ್ಚರಿಕೆ ಕ್ರಮಗಳು: ಮನೆಯೊಳಗಿನ ಸುರಕ್ಷತೆ",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 14:40:11"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "d0fbaa78d4ff545e554f845c31eacd31",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 43.051,
+      "slide_title": "ಮುನ್ನೆಚ್ಚರಿಕೆ ಕ್ರಮಗಳು: ಕಟ್ಟಡಗಳ ಸುರಕ್ಷತೆ",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 14:40:12"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "0a453e27faa33c21f9dc9ac95e3945b7",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 41.971,
+      "slide_title": "ತಕ್ಷಣದ ಸುರಕ್ಷತಾ ಕ್ರಮಗಳು: ಹೊರಗೆ ಅಥವಾ ವಾಹನದಲ್ಲಿದ್ದರೆ",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 14:40:54"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "0e467ced6cdde5ab90f20479ead8f26b",
+      "wav_file": "008_recap_0.wav",
+      "duration": 46.451,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 59,
+      "generated_at": "2026-04-02 14:40:57"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "83eb180ded2e8a1914fcdc428c709543",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 51.851,
+      "slide_title": "ತಕ್ಷಣದ ಸುರಕ್ಷತಾ ಕ್ರಮಗಳು: ನೀವು ಮನೆಯಲ್ಲಿದ್ದರೆ",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 14:41:27"
+    }
+  }
+}

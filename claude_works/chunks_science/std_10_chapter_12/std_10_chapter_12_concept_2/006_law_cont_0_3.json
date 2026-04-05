@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕಾಂತಕ್ಷೇತ್ರದ ಪ್ರಬಲತೆಯ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವ ಅಂಶಗಳು",
+  "script": "ಬಲಗೈ ಹೆಬ್ಬೆರಳ ನಿಯಮವು ನಮಗೆ ಕಾಂತಕ್ಷೇತ್ರದ ದಿಕ್ಕನ್ನು ತಿಳಿಸುತ್ತದೆ. ಆದರೆ ಆ ಕ್ಷೇತ್ರದ ಪ್ರಬಲತೆ ಯಾವುದರ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ? ಎರಡು ಮುಖ್ಯ ಅಂಶಗಳಿವೆ. ಮೊದಲನೆಯದು, ವಿದ್ಯುತ್ ಪ್ರವಾಹ. ವಾಹಕದಲ್ಲಿ ಪ್ರವಾಹ ಹೆಚ್ಚಾದಂತೆ, ಕಾಂತಕ್ಷೇತ್ರದ ಪ್ರಬಲತೆಯೂ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಇದನ್ನು ನಾವು ಬಿ ಯು ಐ ಗೆ ಸಮಾನುಪಾತದಲ್ಲಿದೆ ಎಂದು ಹೇಳಬಹುದು. ಎರಡನೆಯ ಅಂಶವೆಂದರೆ, ವಾಹಕದಿಂದ ಇರುವ ದೂರ. ನೀವು ವಾಹಕದಿಂದ ದೂರ ಸರಿದಂತೆ, ಕಾಂತಕ್ಷೇತ್ರದ ಪ್ರಬಲತೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಅಂದರೆ, ಬಿ ಯು ದೂರಕ್ಕೆ ವಿಲೋಮಾನುಪಾತದಲ್ಲಿರುತ್ತದೆ. ವಾಹಕಕ್ಕೆ ಹತ್ತಿರದಲ್ಲಿ ಕ್ಷೇತ್ರ ಬಲವಾಗಿರುತ್ತದೆ ಮತ್ತು ದೂರದಲ್ಲಿ ದುರ್ಬಲವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಬಲಗೈ ಹೆಬ್ಬೆರಳ ನಿಯಮವು ಕಾಂತಕ್ಷೇತ್ರದ ದಿಕ್ಕನ್ನು ತಿಳಿಸಿದರೆ, ಅದರ ಪ್ರಬಲತೆಯು ಈ ಕೆಳಗಿನ ಅಂಶಗಳನ್ನು ಅವಲಂಬಿಸಿದೆ:",
+  "display_bullets": [
+    "ವಿದ್ಯುತ್ ಪ್ರವಾಹ (I): ಪ್ರವಾಹ ಹೆಚ್ಚಾದಂತೆ, ಕಾಂತಕ್ಷೇತ್ರದ ಪ್ರಬಲತೆ (B) ಹೆಚ್ಚಾಗುತ್ತದೆ. (B ∝ I)",
+    "ವಾಹಕದಿಂದ ದೂರ (r): ದೂರ ಹೆಚ್ಚಾದಂತೆ, ಕಾಂತಕ್ಷೇತ್ರದ ಪ್ರಬಲತೆ (B) ಕಡಿಮೆಯಾಗುತ್ತದೆ. (B ∝ 1/r)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_a",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "B \\propto I \\quad \\text{ಮತ್ತು} \\quad B \\propto \\frac{1}{r}",
+    "placeholder_note": "Magnetic field strength (B) is directly proportional to the current (I) and inversely proportional to the distance (r) from the conductor."
+  },
+  "sub_type": "bullet_list",
+  "chunk_id": "std_10_chapter_12_concept_2_chunk_006"
+}

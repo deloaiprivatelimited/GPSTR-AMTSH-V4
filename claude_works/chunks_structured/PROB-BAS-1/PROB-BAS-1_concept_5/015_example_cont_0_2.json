@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಸಂಗೀತ ಆರಂಭವಾದ ನಂತರ ಮೊದಲ ಅರ್ಧ ನಿಮಿಷದ ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಸಂಗೀತ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ 1 ಬೈ 4 ಆಗಿದೆ. ಇಲ್ಲಿ ನಾವು ಫಲಿತಗಳನ್ನು ಎಣಿಸುವ ಬದಲು, ಅವುಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುವ ರೇಖಾಖಂಡಗಳ ಉದ್ದಗಳನ್ನು ಹೋಲಿಸಿದ್ದೇವೆ. ಇದೇ ಜ್ಯಾಮಿತೀಯ ಸಂಭವನೀಯತೆಯ ಮೂಲತತ್ವ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಸಂಗೀತ ಆರಂಭವಾದ ನಂತರ ಮೊದಲ ಅರ್ಧ ನಿಮಿಷದ ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಸಂಗೀತ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ $\\frac{1}{4}$ ಆಗಿದೆ. ಇಲ್ಲಿ ನಾವು ಫಲಿತಗಳನ್ನು ಎಣಿಸುವ ಬದಲು, ಅವುಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುವ ರೇಖಾಖಂಡಗಳ ಉದ್ದಗಳನ್ನು ಹೋಲಿಸಿದ್ದೇವೆ. ಇದೇ ಜ್ಯಾಮಿತೀಯ ಸಂಭವನೀಯತೆಯ ಮೂಲತತ್ವ.",
+  "display_bullets": [
+    "ಸಂಗೀತವು ಮೊದಲ ಅರ್ಧ ನಿಮಿಷದಲ್ಲಿ ನಿಲ್ಲುವ ಸಂಭವನೀಯತೆ $\\frac{1}{4}$ ಆಗಿದೆ.",
+    "ಇಲ್ಲಿ, ಸಂಭವನೀಯತೆಯನ್ನು ಉದ್ದಗಳ ಅನುಪಾತವಾಗಿ ಲೆಕ್ಕಹಾಕಲಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "P(\\text{ಮೊದಲ 1/2 ನಿಮಿಷದಲ್ಲಿ ನಿಲ್ಲುತ್ತದೆ}) = \\frac{1}{4}",
+    "placeholder_note": "Final answer in a box"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "PROB-BAS-1_example_10",
+  "final_answer": "ಸಂಭವನೀಯತೆ 1/4 ಆಗಿದೆ.",
+  "final_answer_display": "$\\frac{1}{4}$",
+  "chunk_id": "PROB-BAS-1_concept_5_chunk_015"
+}

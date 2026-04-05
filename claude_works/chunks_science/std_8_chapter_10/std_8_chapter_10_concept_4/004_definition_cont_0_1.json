@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪಾರವನ್ನು ದೃಶ್ಯೀಕರಿಸುವುದು",
+  "script": "ಪಾರವನ್ನು ಒಂದು ತರಂಗದ ರೂಪದಲ್ಲಿ ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಅಡ್ಡಲಾಗಿರುವ ಚುಕ್ಕಿರೇಖೆಯು ವಸ್ತುವಿನ ಮಾಧ್ಯಮ ಸ್ಥಾನ ಅಥವಾ ವಿಶ್ರಾಂತಿ ಸ್ಥಿತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಶಬ್ದ ಉಂಟಾದಾಗ, ಕಣಗಳು ಈ ಮಾಧ್ಯಮ ಸ್ಥಾನದಿಂದ ಮೇಲಕ್ಕೆ ಮತ್ತು ಕೆಳಕ್ಕೆ ಕಂಪಿಸುತ್ತವೆ. ಮಾಧ್ಯಮ ಸ್ಥಾನದಿಂದ ತರಂಗದ ಅತ್ಯಂತ ಎತ್ತರದ ಬಿಂದು, ಅಂದರೆ ಶೃಂಗಕ್ಕೆ ಇರುವ ಲಂಬ ದೂರವೇ ಪಾರ. ಪಾರವು ಹೆಚ್ಚಾದಷ್ಟೂ, ತರಂಗವು ಎತ್ತರವಾಗಿ ಕಾಣುತ್ತದೆ. ಇದು ಹೆಚ್ಚು ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಹಾಗಾಗಿ, ಪಾರವು ಶಬ್ದದ ತೀವ್ರತೆಯ ನೇರ ಅಳತೆಯಾಗಿದೆ.",
+  "script_display": "ಪಾರವನ್ನು ಒಂದು ತರಂಗದ ರೂಪದಲ್ಲಿ ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಅಡ್ಡಲಾಗಿರುವ ಚುಕ್ಕಿರೇಖೆಯು ವಸ್ತುವಿನ ಮಾಧ್ಯಮ ಸ್ಥಾನ ಅಥವಾ ವಿಶ್ರಾಂತಿ ಸ್ಥಿತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಶಬ್ದ ಉಂಟಾದಾಗ, ಕಣಗಳು ಈ ಮಾಧ್ಯಮ ಸ್ಥಾನದಿಂದ ಮೇಲಕ್ಕೆ ಮತ್ತು ಕೆಳಕ್ಕೆ ಕಂಪಿಸುತ್ತವೆ. ಮಾಧ್ಯಮ ಸ್ಥಾನದಿಂದ ತರಂಗದ ಅತ್ಯಂತ ಎತ್ತರದ ಬಿಂದು, ಅಂದರೆ ಶೃಂಗಕ್ಕೆ (crest) ಇರುವ ಲಂಬ ದೂರವೇ ಪಾರ (Amplitude). ಪಾರವು ಹೆಚ್ಚಾದಷ್ಟೂ, ತರಂಗವು ಎತ್ತರವಾಗಿ ಕಾಣುತ್ತದೆ. ಇದು ಹೆಚ್ಚು ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಹಾಗಾಗಿ, ಪಾರವು ಶಬ್ದದ ತೀವ್ರತೆಯ ನೇರ ಅಳತೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಮಾಧ್ಯಮ ಸ್ಥಾನದಿಂದ (Mean Position) ಶೃಂಗಕ್ಕೆ (Crest) ಇರುವ ಗರಿಷ್ಠ ದೂರವೇ ಪಾರ.",
+    "ಹೆಚ್ಚು ಪಾರ ಎಂದರೆ ಹೆಚ್ಚು ಶಕ್ತಿ ಮತ್ತು ಹೆಚ್ಚು ಎತ್ತರದ ತರಂಗ.",
+    "ಪಾರವು ಶಬ್ದದ ತೀವ್ರತೆಯನ್ನು (Intensity) ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple sine wave diagram. A horizontal dashed line indicates the 'ಮಾಧ್ಯಮ ಸ್ಥಾನ' (Mean Position). The vertical distance from this line to the peak of the wave (crest) is clearly labeled with a double-headed arrow as 'ಪಾರ (Amplitude)'. The crest is labeled 'ಶೃಂಗ'.",
+    "labels": "ಮಾಧ್ಯಮ ಸ್ಥಾನ, ಶೃಂಗ, ಪಾರ (Amplitude)",
+    "scientific_significance": "This visual representation helps to solidify the abstract definition of amplitude by showing it on a standard wave diagram, connecting it to the physical displacement from the equilibrium position.",
+    "placeholder_note": "Image to be generated showing a labeled wave diagram for amplitude."
+  },
+  "chunk_id": "std_8_chapter_10_concept_4_chunk_004"
+}

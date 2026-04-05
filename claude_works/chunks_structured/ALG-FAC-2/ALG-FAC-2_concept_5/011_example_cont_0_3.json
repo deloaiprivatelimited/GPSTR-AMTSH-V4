@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, x ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಐದು x ಪ್ಲಸ್ ಆರರ ಅಪವರ್ತನಗಳು x ಪ್ಲಸ್ ಎರಡು ಮತ್ತು x ಪ್ಲಸ್ ಮೂರು. ಅಂತಿಮ ಉತ್ತರ x ಪ್ಲಸ್ ಎರಡು, ಟೈಮ್ಸ್ x ಪ್ಲಸ್ ಮೂರು.",
+  "script_display": "ಹೀಗಾಗಿ, $x^2 + 5x + 6$ ರ ಅಪವರ್ತನಗಳು $(x+2)$ ಮತ್ತು $(x+3)$. ಅಂತಿಮ ಉತ್ತರ: $(x+2)(x+3)$.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $(x+2)(x+3)$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_result",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-FAC-2_example_10",
+  "final_answer": "(x+2)(x+3)",
+  "final_answer_display": "$(x+2)(x+3)$",
+  "chunk_id": "ALG-FAC-2_concept_5_chunk_011"
+}

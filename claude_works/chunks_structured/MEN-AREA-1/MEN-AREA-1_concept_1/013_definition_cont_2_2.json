@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಯಮಿತ vs. ಅನಿಯಮಿತ",
+  "script": "ನಿಯಮಿತ ಮತ್ತು ಅನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಚೌಕವಿದೆ, ಇದು ನಿಯಮಿತ. ಬಲಭಾಗದಲ್ಲಿ ಆಯತ ಮತ್ತು ವಜ್ರಾಕೃತಿ ಇವೆ, ಇವು ಅನಿಯಮಿತ. ಆಯತವನ್ನು ನೋಡಿ. ಇದರ ಎಲ್ಲಾ ಕೋನಗಳು ತೊಂಬತ್ತು ಡಿಗ್ರಿ, ಅಂದರೆ ಕೋನಗಳು ಸಮ. ಆದರೆ, ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಾಗಿಲ್ಲ, ಕೇವಲ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ. ಹಾಗಾಗಿ ಇದು ನಿಯಮಿತವಲ್ಲ. ಈಗ ವಜ್ರಾಕೃತಿಯನ್ನು ನೋಡಿ. ಇದರ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಆದರೆ, ಎಲ್ಲಾ ಕೋನಗಳು ಸಮವಾಗಿರುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, ಇದೂ ಕೂಡ ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಯಲ್ಲ. ಒಂದು ಆಕೃತಿ ನಿಯಮಿತವಾಗಲು ಬಾಹುಗಳು ಮತ್ತು ಕೋನಗಳು ಎರಡೂ ಸಮನಿರಲೇಬೇಕು.",
+  "script_display": "ನಿಯಮಿತ ಮತ್ತು ಅನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಚೌಕವಿದೆ, ಇದು ನಿಯಮಿತ. ಬಲಭಾಗದಲ್ಲಿ ಆಯತ ಮತ್ತು ವಜ್ರಾಕೃತಿ ಇವೆ, ಇವು ಅನಿಯಮಿತ. ಆಯತವನ್ನು (Rectangle) ನೋಡಿ. ಇದರ ಎಲ್ಲಾ ಕೋನಗಳು $90^\\circ$, ಅಂದರೆ ಕೋನಗಳು ಸಮ. ಆದರೆ, ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಾಗಿಲ್ಲ. ಹಾಗಾಗಿ ಇದು ನಿಯಮಿತವಲ್ಲ. ಈಗ ವಜ್ರಾಕೃತಿಯನ್ನು (Rhombus) ನೋಡಿ. ಇದರ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಆದರೆ, ಎಲ್ಲಾ ಕೋನಗಳು ಸಮವಾಗಿರುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, ಇದೂ ಕೂಡ ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಯಲ್ಲ. ಒಂದು ಆಕೃತಿ ನಿಯಮಿತವಾಗಲು ಬಾಹುಗಳು ಮತ್ತು ಕೋನಗಳು ಎರಡೂ ಸಮನಿರಲೇಬೇಕು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "modern_dark",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen comparison. On the left, under the heading 'ನಿಯಮಿತ (Regular)', is a square with markings for equal sides and equal right angles. On the right, under the heading 'ಅನಿಯಮಿತ (Irregular)', are two shapes: a rectangle (not a square) with markings for right angles but different side lengths, and a rhombus (not a square) with markings for equal sides but different angles. This visually contrasts shapes that meet both, one, or the other condition.",
+    "labels": "Regular, Irregular, Square, Rectangle, Rhombus",
+    "mathematical_significance": "Demonstrates counter-examples to solidify the definition of a regular polygon. It shows that having only equal sides (rhombus) or only equal angles (rectangle) is not sufficient.",
+    "placeholder_note": "Image to be generated for the split comparison."
+  },
+  "chunk_id": "MEN-AREA-1_concept_1_chunk_013"
+}

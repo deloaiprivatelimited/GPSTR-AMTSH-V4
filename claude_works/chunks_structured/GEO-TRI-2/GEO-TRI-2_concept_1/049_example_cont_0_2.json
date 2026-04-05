@@ -1,0 +1,57 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಭಾಗ 2 (ರೇಖೆಗಳ ಸಮಾಂತರತೆ)",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಾವು ಈಗಷ್ಟೇ ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ BOC ಗಳು ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಇದನ್ನು ನಾವು ಸ.ತ್ರಿ.ಅ.ಭಾ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರ ಪ್ರಕಾರ, ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳಾದ ಕೋನ OAD ಮತ್ತು ಕೋನ OBC ಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಈಗ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿದರೆ, ಈ ಎರಡು ಕೋನಗಳು AD ಮತ್ತು BC ರೇಖೆಗಳನ್ನು AB ಛೇದಕವು ಛೇದಿಸಿದಾಗ ಉಂಟಾಗುವ ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳಾಗಿವೆ. ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು ಸಮವಾಗಿದ್ದರೆ, ಆ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರಬೇಕು ಎಂಬುದು ನಮಗೆ ತಿಳಿದಿದೆ. ಆದ್ದರಿಂದ, AD ಯು BC ಗೆ ಸಮಾಂತರವಾಗಿದೆ. ಹೀಗೆ ನಾವು ಎರಡನೇ ಭಾಗವನ್ನು ಕೂಡ ಸಾಧಿಸಿದೆವು.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ನಾವು ಈಗಷ್ಟೇ $\\triangle AOD \\cong \\triangle BOC$ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮವಾಗಿರುತ್ತವೆ (ಸ.ತ್ರಿ.ಅ.ಭಾ - CPCTC). ಇದರ ಪ್ರಕಾರ, ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳಾದ $\\angle OAD$ ಮತ್ತು $\\angle OBC$ ಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಈಗ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿದರೆ, ಈ ಎರಡು ಕೋನಗಳು $AD$ ಮತ್ತು $BC$ ರೇಖೆಗಳನ್ನು $AB$ ಛೇದಕವು ಛೇದಿಸಿದಾಗ ಉಂಟಾಗುವ ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳಾಗಿವೆ. ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು ಸಮವಾಗಿದ್ದರೆ, ಆ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರಬೇಕು ಎಂಬುದು ನಮಗೆ ತಿಳಿದಿದೆ. ಆದ್ದರಿಂದ, $AD || BC$. ಹೀಗೆ ನಾವು ಎರಡನೇ ಭಾಗವನ್ನು ಕೂಡ ಸಾಧಿಸಿದೆವು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಚಿತ್ರ 7.8, ಇದರಲ್ಲಿ ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳಾದ ∠OAD (ಅಥವಾ ∠DAB) ಮತ್ತು ∠OBC (ಅಥವಾ ∠CBA) ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. AD ಮತ್ತು BC ರೇಖೆಗಳು ಮತ್ತು AB ಛೇದಕವನ್ನು ಸಹ ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು ಸಮವಾದರೆ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ ಎಂಬ ಗುಣಲಕ್ಷಣವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for figure 7.8 with alternate interior angles highlighted."
+  },
+  "source_example_id": "GEO-TRI-2_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\triangle AOD \\cong \\triangle BOC$ (ಈಗಾಗಲೇ ಸಾಧಿಸಿದೆ)",
+      "justification": "ಹಿಂದಿನ ಹಂತದಿಂದ"
+    },
+    {
+      "step": 2,
+      "action_display": "$\\angle OAD = \\angle OBC$",
+      "justification": "ಸ.ತ್ರಿ.ಅ.ಭಾ (CPCTC)"
+    },
+    {
+      "step": 3,
+      "action_display": "ಇವು AD ಮತ್ತು BC ರೇಖೆಗಳಿಗೆ AB ಛೇದಕದಿಂದ ಉಂಟಾದ ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು.",
+      "justification": "ಕೋನಗಳ ಸ್ಥಾನ"
+    },
+    {
+      "step": 4,
+      "action_display": "$\\therefore AD || BC$",
+      "justification": "ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು ಸಮವಾಗಿದ್ದರೆ, ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_049"
+}

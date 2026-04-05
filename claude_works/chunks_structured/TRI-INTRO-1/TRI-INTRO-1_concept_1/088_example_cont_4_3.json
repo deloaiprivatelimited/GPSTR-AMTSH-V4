@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು ಎರಡು ಸೈನ್ ಎ ಕಾಸ್ ಎ ಯ ಬೆಲೆ ಒಂದು ಎಂದು ತೋರಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ನಾವು ಎರಡು ಸೈನ್ ಎ ಕಾಸ್ ಎ ಸಮ ಒಂದು ಎಂದು ಪರಿಶೀಲಿಸಿದ್ದೇವೆ. ದತ್ತ ಹೇಳಿಕೆಯು ಸತ್ಯವಾಗಿದೆ. ಇಲ್ಲಿ ಒಂದು ವಿಷಯವನ್ನು ಗಮನಿಸಿ, ಟ್ಯಾನ್ ಎ ಯ ಬೆಲೆ ಒಂದು ಎಂದರೆ ಕೋನ ಎ ಯ ಅಳತೆ ನಲವತ್ತೈದು ಡಿಗ್ರಿ. ನಲವತ್ತೈದು ಡಿಗ್ರಿ ಕೋನಕ್ಕೆ, ಸೈನ್ ಮತ್ತು ಕಾಸ್ ಎರಡರ ಬೆಲೆಯೂ ಒಂದ ಬೈ ರೂಟ್ ಎರಡು ಆಗಿರುತ್ತದೆ. ಇದು ನೆನಪಿಡಲು ಉಪಯುಕ್ತವಾದ ಮೌಲ್ಯ.",
+  "script_display": "ಹೀಗೆ, ನಾವು $2 \\sin A \\cos A$ ಯ ಬೆಲೆ 1 ಎಂದು ತೋರಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ನಾವು $2 \\sin A \\cos A = 1$ ಎಂದು ಪರಿಶೀಲಿಸಿದ್ದೇವೆ. ದತ್ತ ಹೇಳಿಕೆಯು ಸತ್ಯವಾಗಿದೆ. ಇಲ್ಲಿ ಒಂದು ವಿಷಯವನ್ನು ಗಮನಿಸಿ, $\\tan A = 1$ ಎಂದರೆ $\\angle A = 45^\\circ$. $45^\\circ$ ಕೋನಕ್ಕೆ, $\\sin$ ಮತ್ತು $\\cos$ ಎರಡರ ಬೆಲೆಯೂ $\\frac{1}{\\sqrt{2}}$ ಆಗಿರುತ್ತದೆ. ಇದು ನೆನಪಿಡಲು ಉಪಯುಕ್ತವಾದ ಮೌಲ್ಯ.",
+  "display_bullets": [
+    "ನಾವು $2 \\sin A \\cos A = 1$ ಎಂದು ಪರಿಶೀಲಿಸಿದ್ದೇವೆ.",
+    "ಆದ್ದರಿಂದ, ದತ್ತ ಹೇಳಿಕೆಯು ಸತ್ಯವಾಗಿದೆ.",
+    "ಗಮನಿಸಿ: $\\tan A = 1$ ಎಂದರೆ $\\angle A = 45^\\circ$."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-INTRO-1_example_4",
+  "final_answer": "ಹೌದು, $2 \\sin A \\cos A = 1$ ಎಂಬುದು ಸತ್ಯ.",
+  "final_answer_display": "ಹೌದು, $2 \\sin A \\cos A = 1$ ಎಂಬುದು ಸತ್ಯ.",
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_088"
+}

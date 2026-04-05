@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. AB ಒಂದು ರೇಖಾಖಂಡ ಮತ್ತು ರೇಖೆ l ಅದರ ಲಂಬಾರ್ಧಕ ಆಗಿದೆ. P ಬಿಂದು l ರೇಖೆಯ ಮೇಲೆ ಇದ್ದಾಗ, P ಬಿಂದುವು A ಮತ್ತು B ಗಳಿಂದ ಸಮದೂರದಲ್ಲಿದೆ ಎಂದು ತೋರಿಸಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ದತ್ತಾಂಶವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶವೆಂದರೆ, ರೇಖೆ l ಎಂಬುದು AB ಯ ಲಂಬಾರ್ಧಕ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು, P ಬಿಂದುವು A ಮತ್ತು B ಗಳಿಂದ ಸಮದೂರದಲ್ಲಿದೆ, ಅಂದರೆ PA ಯು PB ಗೆ ಸಮ ಎಂದು ತೋರಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. AB ಒಂದು ರೇಖಾಖಂಡ ಮತ್ತು ರೇಖೆ $l$ ಅದರ ಲಂಬಾರ್ಧಕ ಆಗಿದೆ. P ಬಿಂದು $l$ ರೇಖೆಯ ಮೇಲೆ ಇದ್ದಾಗ, P ಬಿಂದುವು A ಮತ್ತು B ಗಳಿಂದ ಸಮದೂರದಲ್ಲಿದೆ ಎಂದು ತೋರಿಸಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ದತ್ತಾಂಶವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶವೆಂದರೆ, ರೇಖೆ $l$ ಎಂಬುದು AB ಯ ಲಂಬಾರ್ಧಕ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು, P ಬಿಂದುವು A ಮತ್ತು B ಗಳಿಂದ ಸಮದೂರದಲ್ಲಿದೆ, ಅಂದರೆ $PA = PB$ ಎಂದು ತೋರಿಸಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ರೇಖೆ $l$ ಎಂಬುದು ರೇಖಾಖಂಡ $AB$ ಯ ಲಂಬಾರ್ಧಕವಾಗಿದೆ. $P$ ಯು $l$ ಮೇಲಿನ ಒಂದು ಬಿಂದು.",
+    "ಸಾಧನೀಯ: $P$ ಬಿಂದುವು $A$ ಮತ್ತು $B$ ಗಳಿಂದ ಸಮದೂರದಲ್ಲಿದೆ, ಅಂದರೆ $PA = PB$."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ರೇಖೆ l, ರೇಖಾಖಂಡ AB ಯನ್ನು C ನಲ್ಲಿ ಲಂಬವಾಗಿ ಅರ್ಧಿಸುತ್ತದೆ. P ಎಂಬುದು l ಮೇಲಿನ ಬಿಂದು. ತ್ರಿಭುಜ PAC ಮತ್ತು ತ್ರಿಭುಜ PBC ಗಳು ಉಂಟಾಗಿವೆ.",
+    "labels": "P, A, C, B, l, 90 ಡಿಗ್ರಿ ಚಿಹ್ನೆ C ಯಲ್ಲಿ",
+    "mathematical_significance": "ಲಂಬಾರ್ಧಕದ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವು ರೇಖಾಖಂಡದ ಅಂತ್ಯಬಿಂದುಗಳಿಂದ ಸಮದೂರದಲ್ಲಿರುತ್ತದೆ ಎಂಬುದನ್ನು ಬಾ.ಕೋ.ಬಾ ನಿಯಮ ಬಳಸಿ ಸಾಧಿಸುವುದನ್ನು ತೋರಿಸುತ್ತದೆ. (ಪಠ್ಯಪುಸ್ತಕದ ಚಿತ್ರ 7.9)",
+    "placeholder_note": "Image to be generated showing line segment AB, with line l as its perpendicular bisector passing through midpoint C. Point P is on line l. Dashed lines connect P to A and P to B, forming two triangles."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_2",
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_051"
+}

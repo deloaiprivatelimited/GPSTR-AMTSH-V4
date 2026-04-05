@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕಾರ್ಯವಿಧಾನ: ಎರಡನೇ ಹಂತ",
+  "script": "ಒಂದು ಅಥವಾ ಎರಡು ನಿಮಿಷಗಳ ನಂತರ, ಈಗ ಒಂದು ಪ್ರಮುಖ ಹಂತ. ಪಾತ್ರೆ A ಮತ್ತು ಪಾತ್ರೆ C ಯಿಂದ ನಿಮ್ಮ ಎರಡೂ ಕೈಗಳನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಹೊರತೆಗೆಯಿರಿ. ತಕ್ಷಣವೇ, ಎರಡೂ ಕೈಗಳನ್ನು ಮಧ್ಯದಲ್ಲಿರುವ ಪಾತ್ರೆ B ಯಲ್ಲಿನ ಸಾಮಾನ್ಯ ನಲ್ಲಿ ನೀರಿನಲ್ಲಿ ಇಡಿ. ಈಗ ನಿಮಗೆ ಏನು ಅನುಭವವಾಗುತ್ತಿದೆ ಎಂಬುದನ್ನು ಗಮನವಿಟ್ಟು ಗ್ರಹಿಸಿ. ನಿಮ್ಮ ಎರಡೂ ಕೈಗಳಿಗೆ ಒಂದೇ ರೀತಿಯ ಅನುಭವ ಆಗುತ್ತಿದೆಯೇ ಅಥವಾ ವಿಭಿನ್ನವಾಗಿದೆಯೇ? ಇದೇ ನಮ್ಮ ಪ್ರಯೋಗದ ಅತಿ ಮುಖ್ಯವಾದ ವೀಕ್ಷಣೆ.",
+  "script_display": "1-2 ನಿಮಿಷಗಳ ನಂತರ, ಈಗ ಒಂದು ಪ್ರಮುಖ ಹಂತ. ಪಾತ್ರೆ A ಮತ್ತು ಪಾತ್ರೆ C ಯಿಂದ ನಿಮ್ಮ ಎರಡೂ ಕೈಗಳನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಹೊರತೆಗೆಯಿರಿ. ತಕ್ಷಣವೇ, ಎರಡೂ ಕೈಗಳನ್ನು ಮಧ್ಯದಲ್ಲಿರುವ ಪಾತ್ರೆ B ಯಲ್ಲಿನ ಸಾಮಾನ್ಯ ನಲ್ಲಿ ನೀರಿನಲ್ಲಿ ಇಡಿ. ಈಗ ನಿಮಗೆ ಏನು ಅನುಭವವಾಗುತ್ತಿದೆ ಎಂಬುದನ್ನು ಗಮನವಿಟ್ಟು ಗ್ರಹಿಸಿ. ನಿಮ್ಮ ಎರಡೂ ಕೈಗಳಿಗೆ ಒಂದೇ ರೀತಿಯ ಅನುಭವ ಆಗುತ್ತಿದೆಯೇ? ಇದೇ ನಮ್ಮ ಪ್ರಯೋಗದ ಅತಿ ಮುಖ್ಯವಾದ ವೀಕ್ಷಣೆ.",
+  "display_bullets": [
+    "ಎರಡೂ ಕೈಗಳನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಹೊರತೆಗೆಯಿರಿ.",
+    "ತಕ್ಷಣವೇ ಎರಡೂ ಕೈಗಳನ್ನು ಪಾತ್ರೆ B ಯಲ್ಲಿ (ನಲ್ಲಿ ನೀರು) ಇಡಿ.",
+    "ನಿಮ್ಮ ಅನುಭವವನ್ನು ಗಮನವಿಟ್ಟು ಗ್ರಹಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಅದೇ ವ್ಯಕ್ತಿಯು ಈಗ ತನ್ನ ಎರಡೂ ಕೈಗಳನ್ನು ಮಧ್ಯದ ಪಾತ್ರೆ 'B' ಯಲ್ಲಿ ಇಟ್ಟಿದ್ದಾನೆ. ಪಾತ್ರೆ A ಮತ್ತು C ಯಲ್ಲಿ ಕೈಗಳಿಲ್ಲ.",
+    "labels": "ಎರಡೂ ಕೈಗಳು ನಲ್ಲಿ ನೀರಿನಲ್ಲಿ",
+    "scientific_significance": "This is the critical step where the relative nature of touch is revealed. Both hands are now in water of the same temperature, but will perceive it differently.",
+    "placeholder_note": "Image to be generated showing both hands in beaker B."
+  },
+  "chunk_id": "std_6_chapter_7_concept_1_chunk_004"
+}

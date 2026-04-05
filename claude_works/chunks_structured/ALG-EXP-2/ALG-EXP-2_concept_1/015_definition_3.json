@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಹಗುಣಕ (Coefficient): ಪರಿಚಯ",
+  "script": "ಬೀಜೋಕ್ತಿಗಳ ಬಗ್ಗೆ ನಮ್ಮ ಚರ್ಚೆಯನ್ನು ಮುಂದುವರಿಸೋಣ. ಒಂದು ಬೀಜೋಕ್ತಿಯನ್ನು ಉದಾಹರಣೆಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳೋಣ, 5xy ಮೈನಸ್ 3z. ನಿಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಇದರಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ. ಮೊದಲ ಪದ 5xy ಮತ್ತು ಎರಡನೇ ಪದ ಮೈನಸ್ 3z. ಈಗ, ನಾವು ಕೇವಲ ಒಂದು ಪದದ ಮೇಲೆ ಗಮನ ಹರಿಸೋಣ, ಉದಾಹರಣೆಗೆ 5xy. ಈ ಪದವನ್ನು ನಾವು ಅದರ ಅಪವರ್ತನಗಳಾಗಿ ವಿಭಜಿಸಬಹುದು. 5xy ಯ ಅಪವರ್ತನಗಳು 5, x, ಮತ್ತು y. ಇಲ್ಲಿ, x ಮತ್ತು y ಚರಾಕ್ಷರಗಳು. ಈ ಚರಾಕ್ಷರಗಳ ಜೊತೆ ಗುಣಿಸಿರುವ ಸಂಖ್ಯಾತ್ಮಕ ಅಪವರ್ತನ 5 ಇದೆಯಲ್ಲ, ಅದಕ್ಕೆ ಒಂದು ವಿಶೇಷ ಹೆಸರಿದೆ. ಅದನ್ನೇ ನಾವು 'ಸಹಗುಣಕ' ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಬೀಜೋಕ್ತಿಗಳ ಬಗ್ಗೆ ನಮ್ಮ ಚರ್ಚೆಯನ್ನು ಮುಂದುವರಿಸೋಣ. ಒಂದು ಬೀಜೋಕ್ತಿಯನ್ನು ಉದಾಹರಣೆಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳೋಣ, $5xy - 3z$. ನಿಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಇದರಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ. ಮೊದಲ ಪದ $5xy$ ಮತ್ತು ಎರಡನೇ ಪದ $-3z$. ಈಗ, ನಾವು ಕೇವಲ ಒಂದು ಪದದ ಮೇಲೆ ಗಮನ ಹರಿಸೋಣ, ಉದಾಹರಣೆಗೆ $5xy$. ಈ ಪದವನ್ನು ನಾವು ಅದರ ಅಪವರ್ತನಗಳಾಗಿ ವಿಭಜಿಸಬಹುದು. $5xy$ ಯ ಅಪವರ್ತನಗಳು $5$, $x$, ಮತ್ತು $y$. ಇಲ್ಲಿ, $x$ ಮತ್ತು $y$ ಚರಾಕ್ಷರಗಳು. ಈ ಚರಾಕ್ಷರಗಳ ಜೊತೆ ಗುಣಿಸಿರುವ ಸಂಖ್ಯಾತ್ಮಕ ಅಪವರ್ತನ $5$ ಇದೆಯಲ್ಲ, ಅದಕ್ಕೆ ಒಂದು ವಿಶೇಷ ಹೆಸರಿದೆ. ಅದನ್ನೇ ನಾವು 'ಸಹಗುಣಕ' ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಒಂದು ಬೀಜೋಕ್ತಿಯನ್ನು ಪರಿಗಣಿಸಿ: $5xy - 3z$",
+    "ಇದರಲ್ಲಿರುವ ಪದಗಳು: $5xy$ ಮತ್ತು $-3z$",
+    "$5xy$ ಪದದ ಅಪವರ್ತನಗಳು: $5, x, y$",
+    "ಚರಾಕ್ಷರಗಳ ಜೊತೆಗಿನ ಸಂಖ್ಯಾತ್ಮಕ ಅಪವರ್ತನವೇ 'ಸಹಗುಣಕ'."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An algebraic expression '5xy - 3z' is shown. Arrows point from the expression to two boxes below, labeled 'Term 1: 5xy' and 'Term 2: -3z'. From the '5xy' box, further arrows point to three smaller boxes labeled 'Factor: 5', 'Factor: x', and 'Factor: y'. The box for '5' is highlighted with the label 'Coefficient'.",
+    "labels": "algebraic expression, term, factor, coefficient",
+    "mathematical_significance": "Visually decomposes an expression into terms, and a term into its factors, to isolate and identify the numerical coefficient.",
+    "placeholder_note": "Image to be generated to illustrate the breakdown of an expression into terms and factors."
+  },
+  "chunk_id": "ALG-EXP-2_concept_1_chunk_015"
+}

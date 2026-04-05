@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಆಲ್ಕೋಹಾಲ್‌ಗಳ ಅನುರೂಪ ಶ್ರೇಣಿ",
+  "script": "ಈ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಆಲ್ಕೋಹಾಲ್‌ಗಳ ಅನುರೂಪ ಶ್ರೇಣಿಯ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಕೋಷ್ಟಕವನ್ನು ನೋಡಿ. ಮೊದಲ ಸದಸ್ಯ ಮೀಥೆನಾಲ್, ಅದರ ಸೂತ್ರ C H three O H. ಎರಡನೇ ಸದಸ್ಯ ಈಥೆನಾಲ್, ಸೂತ್ರ C two H five O H. ಮೂರನೇ ಸದಸ್ಯ ಪ್ರೊಪೆನಾಲ್, ಸೂತ್ರ C three H seven O H. ಇಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಸಂಯುಕ್ತವೂ O H ಕ್ರಿಯಾಗುಂಪನ್ನು ಹೊಂದಿದೆ. ಪ್ರತಿ ಅನುಕ್ರಮ ಸದಸ್ಯರ ನಡುವೆ ಒಂದು C H two ಗುಂಪಿನ ವ್ಯತ್ಯಾಸವಿರುವುದನ್ನು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಅಣುರಾಶಿ ಹೆಚ್ಚಾದಂತೆ, ಅವುಗಳ ಕುದಿ ಬಿಂದುಗಳು ಸಹ ಕ್ರಮವಾಗಿ ಹೆಚ್ಚಾಗುತ್ತವೆ. ಇದು ಅನುರೂಪ ಶ್ರೇಣಿಯ ಗುಣಲಕ್ಷಣಗಳನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ.",
+  "script_display": "ಈ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಆಲ್ಕೋಹಾಲ್‌ಗಳ ಅನುರೂಪ ಶ್ರೇಣಿಯ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಕೋಷ್ಟಕವನ್ನು ನೋಡಿ. ಮೊದಲ ಸದಸ್ಯ ಮೀಥೆನಾಲ್, ಅದರ ಸೂತ್ರ $CH_3OH$. ಎರಡನೇ ಸದಸ್ಯ ಈಥೆನಾಲ್, ಸೂತ್ರ $C_2H_5OH$. ಮೂರನೇ ಸದಸ್ಯ ಪ್ರೊಪೆನಾಲ್, ಸೂತ್ರ $C_3H_7OH$. ಇಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಸಂಯುಕ್ತವೂ $-OH$ ಕ್ರಿಯಾಗುಂಪನ್ನು ಹೊಂದಿದೆ. ಪ್ರತಿ ಅನುಕ್ರಮ ಸದಸ್ಯರ ನಡುವೆ ಒಂದು $-CH_2$ ಗುಂಪಿನ ವ್ಯತ್ಯಾಸವಿರುವುದನ್ನು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಅಣುರಾಶಿ ಹೆಚ್ಚಾದಂತೆ, ಅವುಗಳ ಕುದಿ ಬಿಂದುಗಳು ಸಹ ಕ್ರಮವಾಗಿ ಹೆಚ್ಚಾಗುತ್ತವೆ. ಇದು ಅನುರೂಪ ಶ್ರೇಣಿಯ ಗುಣಲಕ್ಷಣಗಳನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A table showing the first three members of the alcohol homologous series, with columns for Member, Molecular Formula, and Structural Formula. This visually demonstrates the common -OH group and the successive addition of -CH2 groups. The caption should read 'ಆಲ್ಕೋಹಾಲ್‌ಗಳ ಅನುರೂಪ ಶ್ರೇಣಿಯ ಮೊದಲ ಮೂರು ಸದಸ್ಯರು'. The data should be: ಮೀಥೆನಾಲ್, CH3OH, CH3-OH; ಈಥೆನಾಲ್, C2H5OH, CH3-CH2-OH; ಪ್ರೊಪೆನಾಲ್, C3H7OH, CH3-CH2-CH2-OH."
+  },
+  "chunk_id": "std_10_chapter_4_concept_6_chunk_014"
+}

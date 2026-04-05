@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ, ಒಂದು ವರ್ಷದ ನಂತರ ಟಿವಿಯ ಮೌಲ್ಯ 19,950 ರೂಪಾಯಿಗಳು. ಇಲ್ಲಿ ನೆನಪಿಡಬೇಕಾದ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ಸವಕಳಿಗೆ, ಅಂದರೆ ಡಿಪ್ರಿಸಿಯೇಷನ್ ಗೆ, ಸೂತ್ರದಲ್ಲಿ A ಈಕ್ವಲ್ಸ್ P ಇಂಟು ಒನ್ ಮೈನಸ್ R ಬೈ 100, ಹೋಲ್ ಪವರ್ n ಎಂದು ಮೈನಸ್ ಚಿಹ್ನೆಯನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ, ಒಂದು ವರ್ಷದ ನಂತರ ಟಿವಿಯ ಮೌಲ್ಯ ₹19,950. ಇಲ್ಲಿ ನೆನಪಿಡಬೇಕಾದ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ಸವಕಳಿಗೆ (Depreciation) ಸೂತ್ರದಲ್ಲಿ $A = P(1 - R/100)^n$ ಎಂದು '$-$' ಚಿಹ್ನೆಯನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ವರ್ಷದ ನಂತರ ಟಿವಿಯ ಮೌಲ್ಯ: ₹19,950",
+    "ಪ್ರಮುಖ ಅಂಶ: ಸವಕಳಿಗೆ (Depreciation) ಸೂತ್ರದಲ್ಲಿ $A = P(1 - R/100)^n$ ಎಂದು 'ಮೈನಸ್' ಬಳಸಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "advanced",
+  "source_example_id": "RPP-COMP-1_example_11",
+  "final_answer": "19950",
+  "final_answer_display": "₹19,950",
+  "chunk_id": "RPP-COMP-1_concept_7_chunk_016"
+}

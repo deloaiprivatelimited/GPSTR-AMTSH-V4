@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದಂತೆ, ಕೊಟ್ಟಿರುವ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವು 8 ಸ್ಕ್ವೇರ್ ರೂಟ್ 30 ಸೆಂಟಿಮೀಟರ್ ಸ್ಕ್ವೇರ್ ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ಮೊದಲು ಮೂರನೇ ಬಾಹುವನ್ನು ಸುತ್ತಳತೆಯ ಸಹಾಯದಿಂದ ಕಂಡುಹಿಡಿದು, ನಂತರ ಹೆರಾನ್‌ನ ಸೂತ್ರವನ್ನು ಅನ್ವಯಿಸುವುದು ಪ್ರಮುಖ ಹಂತವಾಗಿತ್ತು.",
+  "script_display": "ಹೀಗಾಗಿ, ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದಂತೆ, ಕೊಟ್ಟಿರುವ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವು $8\\sqrt{30}$ cm² ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ಮೊದಲು ಮೂರನೇ ಬಾಹುವನ್ನು ಸುತ್ತಳತೆಯ ಸಹಾಯದಿಂದ ಕಂಡುಹಿಡಿದು, ನಂತರ ಹೆರಾನ್‌ನ ಸೂತ್ರವನ್ನು ಅನ್ವಯಿಸುವುದು ಪ್ರಮುಖ ಹಂತವಾಗಿತ್ತು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_highlight",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "MEN-HER-3_example_1",
+  "final_answer": "8\\sqrt{30} cm^2",
+  "final_answer_display": "ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ = $8\\sqrt{30}$ cm²",
+  "chunk_id": "MEN-HER-3_concept_1_chunk_038"
+}

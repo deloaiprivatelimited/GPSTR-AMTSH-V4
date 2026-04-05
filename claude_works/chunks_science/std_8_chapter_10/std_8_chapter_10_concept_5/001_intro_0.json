@@ -1,0 +1,38 @@
+{
+  "type": "chunk",
+  "slide_title": "ಶ್ರವ್ಯ ಮತ್ತು ಅಶ್ರವ್ಯ ಶಬ್ದಗಳು",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಇಂದಿನ ಭೌತಶಾಸ್ತ್ರದ ತರಗತಿಗೆ ನಿಮಗೆ ಸ್ವಾಗತ. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲು ಯಾವಾಗಲೂ ಶಬ್ದಗಳು ಇರುತ್ತವೆ, ಅಲ್ವಾ? ಆದರೆ, ಎಲ್ಲಾ ಶಬ್ದಗಳನ್ನೂ ನಮ್ಮಿಂದ ಕೇಳಲು ಸಾಧ್ಯವೇ? ನಾಯಿಗಳಿಗೆ ಮಾತ್ರ ಕೇಳಿಸುವ ಸೀಟಿಯ ಬಗ್ಗೆ ಯೋಚಿಸಿದ್ದೀರಾ? ಅಥವಾ ಕತ್ತಲೆಯಲ್ಲಿ ಬಾವಲಿಗಳು ಹೇಗೆ ಹಾರಾಡುತ್ತವೆ? ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಮಾನವನ ಕಿವಿಯ ಶ್ರವ್ಯ ವ್ಯಾಪ್ತಿಯನ್ನು ಅನ್ವೇಷಿಸುತ್ತೇವೆ. ನಂತರ, ಅವಶ್ರವಣ ಮತ್ತು ಶ್ರವಣಾತೀತ ಶಬ್ದಗಳು ಯಾವುವು ಎಂದು ತಿಳಿಯೋಣ. ಪ್ರಾಣಿಗಳು ಬಳಸುವ ಅಶ್ರವ್ಯ ಶಬ್ದಗಳ ಬಗ್ಗೆಯೂ ಕಲಿಯೋಣ. ಮತ್ತು ಕೊನೆಯದಾಗಿ, ವೈದ್ಯಕೀಯ ಮತ್ತು ತಾಂತ್ರಿಕ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಶ್ರವಣಾತೀತ ಶಬ್ದದ ಅನ್ವಯಗಳನ್ನು ನೋಡೋಣ. ಈ ಅದ್ಭುತ ಶಬ್ದ ಪ್ರಪಂಚವನ್ನು ಅನ್ವೇಷಿಸಲು ಸಿದ್ಧರಾಗಿ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ! ನಮ್ಮ ಸುತ್ತಮುತ್ತಲು ಇರುವ ಎಲ್ಲಾ ಶಬ್ದಗಳನ್ನೂ ನಮ್ಮಿಂದ ಕೇಳಲು ಸಾಧ್ಯವೇ? ನಾಯಿಗಳಿಗೆ ಮಾತ್ರ ಕೇಳಿಸುವ ಸೀಟಿ (dog whistle) ಅಥವಾ ಕತ್ತಲೆಯಲ್ಲಿ ಹಾರಾಡುವ ಬಾವಲಿಗಳ ಹಿಂದಿನ ವಿಜ್ಞಾನವೇನು? ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಈ ರಹಸ್ಯಗಳನ್ನು ಭೇದಿಸಲಿದ್ದೇವೆ. ನಾವು ಕಲಿಯುವ ವಿಷಯಗಳು:",
+  "display_bullets": [
+    "ಮಾನವನ ಕಿವಿಯ ಶ್ರವ್ಯ ವ್ಯಾಪ್ತಿ (Audible Range)",
+    "ಅವಶ್ರವಣ (Infrasound) ಮತ್ತು ಶ್ರವಣಾತೀತ (Ultrasound) ಶಬ್ದಗಳು",
+    "ಪ್ರಾಣಿಗಳು ಬಳಸುವ ಅಶ್ರವ್ಯ ಶಬ್ದಗಳು",
+    "ಶ್ರವಣಾತೀತ ಶಬ್ದದ ಅನ್ವಯಗಳು"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_b",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Engaging illustration showing the concept of audible and inaudible sounds. A human in the center, with sound waves of different frequencies. Waves within 20 Hz to 20,000 Hz enter the ear, while waves below (infrasound, from an elephant) and above (ultrasound, from a bat) are shown passing by.",
+    "labels": "Human Ear, Audible Range (20 Hz - 20,000 Hz), Infrasound (<20 Hz), Ultrasound (>20,000 Hz), Bat, Elephant",
+    "scientific_significance": "Visually represents the core concept of the module: the limited range of human hearing compared to the full spectrum of sound frequencies.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "title",
+  "chunk_id": "std_8_chapter_10_concept_5_chunk_001"
+}

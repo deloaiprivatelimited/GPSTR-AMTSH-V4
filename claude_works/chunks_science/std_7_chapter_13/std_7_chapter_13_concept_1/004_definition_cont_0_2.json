@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ತ್ಯಾಜ್ಯ ನೀರಿನಲ್ಲಿ ಏನಿದೆ?",
+  "script": "ತ್ಯಾಜ್ಯ ನೀರು ಎಂದರೆ ಕೇವಲ ಬಣ್ಣ ಬದಲಾದ ನೀರಲ್ಲ. ಅದರಲ್ಲಿ ಹಲವು ಬಗೆಯ ಕಲ್ಮಶಗಳು ಸೇರಿಕೊಂಡಿರುತ್ತವೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಗಮನಿಸಬಹುದು. ಇದರಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ನೊರೆ ಇರುತ್ತದೆ, ಇದು ನಾವು ಬಳಸುವ ಸಾಬೂನು ಮತ್ತು ಡಿಟರ್ಜೆಂಟ್‌ಗಳಿಂದ ಬರುತ್ತದೆ. ಅಡುಗೆ ಮನೆಯಿಂದ ಬರುವ ತ್ಯಾಜ್ಯ ನೀರಿನಲ್ಲಿ ತೈಲ ಮತ್ತು ಗ್ರೀಸ್, ಅಂದರೆ ಎಣ್ಣೆಯಂಶ ಇರುತ್ತದೆ. ಇದರ ಜೊತೆಗೆ, ಆಹಾರದ ಸಣ್ಣ ಕಣಗಳು ಕೂಡ ಸೇರಿರುತ್ತವೆ. ಇವೆಲ್ಲದರ ಜೊತೆಗೆ, ಮಣ್ಣು ಮತ್ತು ಇತರ ಕಲ್ಮಶಗಳು ಕೂಡ ನೀರಿನಲ್ಲಿ ಕರಗಿರುತ್ತವೆ ಅಥವಾ ತೇಲಾಡುತ್ತಿರುತ್ತವೆ. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳು ನೀರನ್ನು ಮಲಿನಗೊಳಿಸಿ, ಮರುಬಳಕೆಗೆ ಅನರ್ಹವನ್ನಾಗಿ ಮಾಡುತ್ತವೆ.",
+  "script_display": "ತ್ಯಾಜ್ಯ ನೀರು ಕೇವಲ ಬಣ್ಣ ಬದಲಾದ ನೀರಲ್ಲ. ಅದರಲ್ಲಿ ಹಲವು ಬಗೆಯ ಕಲ್ಮಶಗಳು ಸೇರಿಕೊಂಡಿರುತ್ತವೆ. ಇವು ನೀರನ್ನು ಮಲಿನಗೊಳಿಸಿ, ಮರುಬಳಕೆಗೆ ಅನರ್ಹವನ್ನಾಗಿ ಮಾಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ನೊರೆ (ಸಾಬೂನು, ಡಿಟರ್ಜೆಂಟ್‌ನಿಂದ)",
+    "ತೈಲ ಮತ್ತು ಗ್ರೀಸ್ (ಎಣ್ಣೆಯಂಶ)",
+    "ಆಹಾರದ ಕಣಗಳು",
+    "ಮಣ್ಣು ಮತ್ತು ಇತರ ಕಲ್ಮಶಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_narration_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cross-section of a pipe with dirty, dark water flowing through it. Inside the water, there are visible representations of impurities: soap bubbles for foam, oil droplets, small particles representing food waste, and darker specks for dirt.",
+    "labels": "ನೊರೆ, ತೈಲ, ಆಹಾರದ ಕಣಗಳು, ಮಣ್ಣು",
+    "scientific_significance": "Visually deconstructs the term 'wastewater' by showing its common physical and chemical components, helping students understand why this water is considered 'waste' and requires treatment.",
+    "placeholder_note": "Image showing components of wastewater like foam, oil, food particles."
+  },
+  "chunk_id": "std_7_chapter_13_concept_1_chunk_004"
+}

@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+  "script": "ಹಾಗಾಗಿ, ಬ್ರೇಕ್ ಹಾಕಿದಾಗ ಉಂಟಾದ ಬಲ ಮೈನಸ್ 7500 ನ್ಯೂಟನ್. ಇಲ್ಲಿರುವ ಋಣ ಚಿಹ್ನೆ, ಅಂದರೆ ಮೈನಸ್ ಸೈನ್, ಬಹಳ ಮುಖ್ಯ. ಇದು ಬಲವು ಕಾರಿನ ಚಲನೆಯ ದಿಕ್ಕಿಗೆ ವಿರುದ್ಧವಾಗಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಮಾಡುವ ಒಂದು ತಪ್ಪು ಎಂದರೆ, ವೇಗವನ್ನು ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ಗಂಟೆಯಿಂದ ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಪರಿವರ್ತಿಸಲು ಮರೆಯುವುದು. ಇದನ್ನು ಯಾವಾಗಲೂ ಗಮನದಲ್ಲಿಡಿ.",
+  "script_display": "**ಅಂತಿಮ ಉತ್ತರ:**\nಬ್ರೇಕ್‌ನ ಬಲ F = -7500 N.\n\n**ಪ್ರಮುಖ ಅಂಶ:**\nಋಣ ಚಿಹ್ನೆಯು (-) ಬಲವು ಚಲನೆಯ ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.\n\n**ಸಾಮಾನ್ಯ ತಪ್ಪು:**\nವೇಗವನ್ನು km/h ನಿಂದ m/s ಗೆ ಪರಿವರ್ತಿಸಲು ಮರೆಯುವುದು.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: ಬ್ರೇಕ್‌ನ ಬಲ F = -7500 N.",
+    "ಪ್ರಮುಖ ಅಂಶ: ಋಣ ಚಿಹ್ನೆಯು (-) ಬಲವು ಚಲನೆಯ ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.",
+    "ಸಾಮಾನ್ಯ ತಪ್ಪು: ವೇಗವನ್ನು km/h ನಿಂದ m/s ಗೆ ಪರಿವರ್ತಿಸಲು ಮರೆಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "physics_warm",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "F = -7500 \\text{ N}",
+    "placeholder_note": "Final answer highlighted in a box."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_8_example_8.3",
+  "final_answer": "ಬ್ರೇಕ್‌ನ ಬಲ -7500 N. ಋಣ ಚಿಹ್ನೆಯು ಬಲವು ಚಲನೆಯ ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.",
+  "final_answer_display": "F = -7500 N",
+  "exam_tip": {
+    "question_pattern": "ಬಲ, ದ್ರವ್ಯರಾಶಿ, ವೇಗ ಮತ್ತು ಕಾಲವನ್ನು ಒಳಗೊಂಡ ಲೆಕ್ಕಗಳು.",
+    "skill_tested": "ನ್ಯೂಟನ್‌ರ ಎರಡನೇ ನಿಯಮದ ಅನ್ವಯ ಮತ್ತು ಏಕಮಾನ ಪರಿವರ್ತನೆ.",
+    "distractor": "ವೇಗವನ್ನು km/h ನಿಂದ m/s ಗೆ ಪರಿವರ್ತಿಸದೆ ಲೆಕ್ಕ ಹಾಕುವುದು.",
+    "why_distractor_works": "ಏಕಮಾನಗಳ ಬಗ್ಗೆ ಗಮನ ಹರಿಸದಿದ್ದರೆ, ನೇರವಾಗಿ 108 km/h ಅನ್ನು ಬಳಸಿ ತಪ್ಪು ಉತ್ತರಕ್ಕೆ ಬರಬಹುದು."
+  },
+  "chunk_id": "std_9_chapter_8_concept_4_chunk_013"
+}

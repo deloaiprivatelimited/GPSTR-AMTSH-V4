@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಮೂಲ vs. ಮೂಲವಲ್ಲದ ಸಂಖ್ಯೆ",
+  "script": "ಈಗ, ಅದೇ ಸಮೀಕರಣಕ್ಕೆ ಬೇರೊಂದು ಸಂಖ್ಯೆಯನ್ನು ಪ್ರಯತ್ನಿಸೋಣ. ಎಕ್ಸ್ ನ ಬೆಲೆ ಒಂದು ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇದು ಮೂಲವೇ ಎಂದು ನೋಡೋಣ. ನಮ್ಮ ಸಮೀಕರಣ ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಐದು ಎಕ್ಸ್ ಪ್ಲಸ್ ಆರು ಈಕ್ವಲ್ಸ್ ಜೀರೋ. ಇದರಲ್ಲಿ ಎಕ್ಸ್ ಬದಲಿಗೆ ಒಂದನ್ನು ಹಾಕಿದರೆ, ಒಂದು ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಐದು ಗುಣಿಸು ಒಂದು ಪ್ಲಸ್ ಆರು ಸಿಗುತ್ತದೆ. ಇದರ ಬೆಲೆ ಒಂದು ಮೈನಸ್ ಐದು ಪ್ಲಸ್ ಆರು. ಅಂದರೆ ಏಳು ಮೈನಸ್ ಐದು, ಇದು ಎರಡಕ್ಕೆ ಸಮ. ಇಲ್ಲಿ ಗಮನಿಸಿ, ನಮಗೆ ಸೊನ್ನೆ ಸಿಗಲಿಲ್ಲ. ಎರಡು ಸೊನ್ನೆಗೆ ಸಮವಲ್ಲ. ಇದರರ್ಥ, ಎಕ್ಸ್ ಈಕ್ವಲ್ಸ್ ಒಂದು ಸಮೀಕರಣವನ್ನು ತೃಪ್ತಿಪಡಿಸುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, ಒಂದು ಈ ಸಮೀಕರಣದ ಮೂಲವಲ್ಲ. ಈ ಹೋಲಿಕೆಯು ಮೂಲ ಯಾವುದು ಮತ್ತು ಯಾವುದು ಅಲ್ಲ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ, ಅದೇ ಸಮೀಕರಣಕ್ಕೆ ಬೇರೊಂದು ಸಂಖ್ಯೆಯನ್ನು ಪ್ರಯತ್ನಿಸೋಣ. $x=1$ ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇದು ಮೂಲವೇ ಎಂದು ನೋಡೋಣ. ನಮ್ಮ ಸಮೀಕರಣ $x^2 - 5x + 6 = 0$. ಇದರಲ್ಲಿ $x$ ಬದಲಿಗೆ 1ನ್ನು ಹಾಕಿದರೆ, $(1)^2 - 5(1) + 6$ ಸಿಗುತ್ತದೆ. ಇದರ ಬೆಲೆ $1 - 5 + 6$. ಅಂದರೆ $7 - 5$, ಇದು 2ಕ್ಕೆ ಸಮ. ಇಲ್ಲಿ ಗಮನಿಸಿ, ನಮಗೆ 0 ಸಿಗಲಿಲ್ಲ. $2 \\neq 0$. ಇದರರ್ಥ, $x=1$ ಸಮೀಕರಣವನ್ನು ತೃಪ್ತಿಪಡಿಸುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, 1 ಈ ಸಮೀಕರಣದ ಮೂಲವಲ್ಲ. ಈ ಹೋಲಿಕೆಯು ಮೂಲ ಯಾವುದು ಮತ್ತು ಯಾವುದು ಅಲ್ಲ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಸಂಖ್ಯೆ ಮೂಲವಾಗಿದ್ದರೆ, ಸಮೀಕರಣದಲ್ಲಿ ಆದೇಶಿಸಿದಾಗ ಫಲಿತಾಂಶ 0 ಬರುತ್ತದೆ.",
+    "ಒಂದು ಸಂಖ್ಯೆ ಮೂಲವಾಗಿಲ್ಲದಿದ್ದರೆ, ಫಲಿತಾಂಶ 0 ಬರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. Left box titled 'x=2 ಒಂದು ಮೂಲ' shows the calculation for x=2 resulting in 0. Right box titled 'x=1 ಒಂದು ಮೂಲವಲ್ಲ' shows the calculation for x=1 resulting in 2 (not 0).",
+    "labels": "x=2, x=1, root, not a root",
+    "mathematical_significance": "Visually contrasts a value that satisfies the equation (a root) with one that does not, reinforcing the definition of a root.",
+    "placeholder_note": "Image to be generated showing two columns. Left column: Heading 'x=2 ಒಂದು ಮೂಲ (is a root)'. Math: (2)^2 - 5(2) + 6 = 4 - 10 + 6 = 0. Checkmark icon. Right column: Heading 'x=1 ಒಂದು ಮೂಲವಲ್ಲ (is not a root)'. Math: (1)^2 - 5(1) + 6 = 1 - 5 + 6 = 2. Cross mark icon."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "ALG-QUAD-4_concept_2_chunk_005"
+}

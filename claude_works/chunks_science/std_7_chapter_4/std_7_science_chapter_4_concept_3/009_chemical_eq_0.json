@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತಟಸ್ಥೀಕರಣ: ಪದ ಸಮೀಕರಣ",
+  "script": "ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯ ಮೂಲಭೂತ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಒಂದು ಆಮ್ಲವು ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ಅವು ಲವಣ ಮತ್ತು ನೀರನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತವೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಉಷ್ಣವೂ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಸಮೀಕರಣ ಹೀಗಿದೆ: ಆಮ್ಲ ಪ್ಲಸ್ ಪ್ರತ್ಯಾಮ್ಲ, ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ ಲವಣ ಪ್ಲಸ್ ನೀರು, ಜೊತೆಗೆ ಉಷ್ಣ.",
+  "script_display": "ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯ ಮೂಲಭೂತ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಒಂದು ಆಮ್ಲವು ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ಅವು ಲವಣ ಮತ್ತು ನೀರನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತವೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಉಷ್ಣವೂ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಸಮೀಕರಣ ಹೀಗಿದೆ: ಆಮ್ಲ + ಪ್ರತ್ಯಾಮ್ಲ → ಲವಣ + ನೀರು + ಉಷ್ಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಆಮ್ಲ} + \\text{ಪ್ರತ್ಯಾಮ್ಲ} \\rightarrow \\text{ಲವಣ} + \\text{ನೀರು} \\; (+ \\text{ಉಷ್ಣ})",
+    "placeholder_note": "General word equation for neutralization reaction."
+  },
+  "chunk_id": "std_7_science_chapter_4_concept_3_chunk_009"
+}

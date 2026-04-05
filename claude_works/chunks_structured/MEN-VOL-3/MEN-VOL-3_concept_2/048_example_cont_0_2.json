@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (TSA)",
+  "script": "ಈಗ, ನಾವು ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವನ್ನು, ಅಂದರೆ ಟಿ ಎಸ್ ಎ ಅನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇದರ ಸೂತ್ರ ಮೂರು ಪೈ ಆರ್ ಸ್ಕ್ವೇರ್ ಆಗಿದೆ. ಮತ್ತೆ, ಆರ್ ನ ಬೆಲೆ ಇಪ್ಪತ್ತೊಂದನ್ನು ಆದೇಶಿಸಿದಾಗ, ಟಿ ಎಸ್ ಎ ಸಮ ಮೂರು ಗುಣಿಸು ಇಪ್ಪತ್ತೆರಡರ ಭಾಗಿಸು ಏಳು ಗುಣಿಸು ಇಪ್ಪತ್ತೊಂದು ಗುಣಿಸು ಇಪ್ಪತ್ತೊಂದು ಆಗುತ್ತದೆ. ಇಲ್ಲಿಯೂ, ಏಳರಿಂದ ಇಪ್ಪತ್ತೊಂದನ್ನು ಭಾಗಿಸಿದಾಗ ಮೂರು ಉಳಿಯುತ್ತದೆ. ಆಗ ನಮಗೆ ಮೂರು ಗುಣಿಸು ಇಪ್ಪತ್ತೆರಡು ಗುಣಿಸು ಮೂರು ಗುಣಿಸು ಇಪ್ಪತ್ತೊಂದು ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಗುಣಿಸಿದಾಗ ನಮಗೆ ನಾಲ್ಕು ಸಾವಿರದದ ನೂರ ಐವತ್ತೆಂಟು ಚದರ ಸೆಂಟಿಮೀಟರ್ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ, ನಾವು ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವನ್ನು (TSA) ಕಂಡುಹಿಡಿಯೋಣ. ಇದರ ಸೂತ್ರ $3\\pi r^2$ ಆಗಿದೆ. ಮತ್ತೆ, $r=21$ ಅನ್ನು ಆದೇಶಿಸಿದಾಗ, $TSA = 3 \\times \\frac{22}{7} \\times 21 \\times 21$ ಆಗುತ್ತದೆ. ಇಲ್ಲಿಯೂ, 7 ರಿಂದ 21 ಅನ್ನು ಭಾಗಿಸಿದಾಗ 3 ಉಳಿಯುತ್ತದೆ. ಆಗ ನಮಗೆ $3 \\times 22 \\times 3 \\times 21$ ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಗುಣಿಸಿದಾಗ ನಮಗೆ $4158 \\text{ cm}^2$ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "text_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "source_example_id": "MEN-VOL-3_example_4",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಅರ್ಧಗೋಳದ ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (TSA) = $3 \\pi r^2$",
+      "justification": "ಸೂತ್ರವನ್ನು ಬಳಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$= 3 \\times \\frac{22}{7} \\times 21 \\times 21$",
+      "justification": "$r=21$ ಎಂದು ಆದೇಶಿಸಿದೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "$= 3 \\times 22 \\times 3 \\times 21 = 4158 \\text{ cm}^2$",
+      "justification": "ಸಂಕ್ಷೇಪೀಕರಣ ಮತ್ತು ಲೆಕ್ಕಾಚಾರ."
+    }
+  ],
+  "chunk_id": "MEN-VOL-3_concept_2_chunk_048"
+}

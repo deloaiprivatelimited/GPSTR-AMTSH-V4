@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ವಿಧಾನ: ಗುಂಪು II - ಸಂಯುಕ್ತ ತಯಾರಿಕೆ",
+  "script": "ಈಗ ಗುಂಪು ಎರಡರ ಸರದಿ. ಅವರೂ ಕೂಡ ಕಬ್ಬಿಣ ಮತ್ತು ಸಲ್ಫರ್ ಮಿಶ್ರಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತಾರೆ. ಆದರೆ, ಅವರು ಅದನ್ನು ಬನ್ಸೆನ್ ಬರ್ನರ್ ಬಳಸಿ ಬಲವಾಗಿ ಕಾಯಿಸುತ್ತಾರೆ. ಮಿಶ್ರಣವು ಕೆಂಪಗೆ, ಪ್ರಕಾಶಮಾನವಾಗಿ ಉರಿಯಲು ಪ್ರಾರಂಭಿಸುವವರೆಗೆ ಕಾಯಿಸುವುದನ್ನು ಮುಂದುವರಿಸಬೇಕು. ಇದು ಒಂದು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯುತ್ತಿದೆ ಎಂಬುದರ ಸಂಕೇತ. ಕ್ರಿಯೆ ಪೂರ್ಣಗೊಂಡ ನಂತರ, ಅದನ್ನು ತಣ್ಣಗಾಗಲು ಬಿಡಬೇಕು. ಈಗ ನಮಗೆ ಸಿಕ್ಕಿರುವುದು ಒಂದು ಕಪ್ಪು ಬಣ್ಣದ ಹೊಸ ವಸ್ತು, ಅದೇ ಐರನ್ ಸಲ್ಫೈಡ್ ಎಂಬ ಸಂಯುಕ್ತ.",
+  "script_display": "ಈಗ ಗುಂಪು IIರ ಸರದಿ. ಅವರೂ ಕೂಡ ಕಬ್ಬಿಣ ಮತ್ತು ಸಲ್ಫರ್ ಮಿಶ್ರಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತಾರೆ. ಆದರೆ, ಅವರು ಅದನ್ನು ಬನ್ಸೆನ್ ಬರ್ನರ್ ಬಳಸಿ ಬಲವಾಗಿ ಕಾಯಿಸುತ್ತಾರೆ. ಮಿಶ್ರಣವು ಕೆಂಪಗೆ, ಪ್ರಕಾಶಮಾನವಾಗಿ ಉರಿಯಲು ಪ್ರಾರಂಭಿಸುವವರೆಗೆ ಕಾಯಿಸುವುದನ್ನು ಮುಂದುವರಿಸಬೇಕು. ಇದು ಒಂದು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯುತ್ತಿದೆ ಎಂಬುದರ ಸಂಕೇತ. ಕ್ರಿಯೆ ಪೂರ್ಣಗೊಂಡ ನಂತರ, ಅದನ್ನು ತಣ್ಣಗಾಗಲು ಬಿಡಬೇಕು. ಈಗ ನಮಗೆ ಸಿಕ್ಕಿರುವುದು ಒಂದು ಕಪ್ಪು ಬಣ್ಣದ ಹೊಸ ವಸ್ತು, ಅದೇ ಐರನ್ ಸಲ್ಫೈಡ್ (FeS) ಎಂಬ ಸಂಯುಕ್ತ.",
+  "display_bullets": [
+    "ಕಬ್ಬಿಣ ಮತ್ತು ಸಲ್ಫರ್ ಮಿಶ್ರಣವನ್ನು ಬಲವಾಗಿ ಕಾಯಿಸಿ.",
+    "ಮಿಶ್ರಣವು ಕೆಂಪಗೆ ಕಾಯುವವರೆಗೆ ಮುಂದುವರಿಸಿ.",
+    "ನಂತರ ತಣ್ಣಗಾಗಲು ಬಿಡಿ. ಐರನ್ ಸಲ್ಫೈಡ್ (FeS) ಎಂಬ ಹೊಸ ಸಂಯುಕ್ತ ಉಂಟಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_style_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A china dish on a tripod stand being heated from below by a Bunsen burner. The contents of the dish are glowing red-hot. Labels: 'ಬನ್ಸೆನ್ ಬರ್ನರ್', 'ಪಿಂಗಾಣಿ ಬಟ್ಟಲು', 'ಕೆಂಪಗೆ ಕಾಯುತ್ತಿರುವ ಮಿಶ್ರಣ'.",
+    "labels": "ಬನ್ಸೆನ್ ಬರ್ನರ್, ಪಿಂಗಾಣಿ ಬಟ್ಟಲು, ಕೆಂಪಗೆ ಕಾಯುತ್ತಿರುವ ಮಿಶ್ರಣ",
+    "scientific_significance": "Illustrates the chemical reaction initiated by heat to form a compound.",
+    "placeholder_note": "Image to be generated showing the heating process."
+  },
+  "chunk_id": "std_9_chapter_2_concept_10_chunk_013"
+}

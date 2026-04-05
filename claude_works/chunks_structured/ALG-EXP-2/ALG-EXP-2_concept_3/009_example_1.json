@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಆಯತಾಕಾರದ ಪೆಟ್ಟಿಗೆಯ ಗಾತ್ರ",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೆಳಗೆ ನೀಡಿದ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರಗಳನ್ನು ಹೊಂದಿರುವ ಪ್ರತಿಯೊಂದು ಆಯತಾಕಾರದ ಪೆಟ್ಟಿಗೆಯ ಗಾತ್ರ, ಅಂದರೆ ಘನಫಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ನೆನಪಿಡಿ, ಆಯತಾಕಾರದ ಪೆಟ್ಟಿಗೆಯ ಗಾತ್ರವು ಅದರ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರಗಳ ಗುಣಲಬ್ಧವಾಗಿರುತ್ತದೆ. ನಮಗೆ ಮೂರು ವಿಭಿನ್ನ ಪೆಟ್ಟಿಗೆಗಳ ಅಳತೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೆಳಗೆ ನೀಡಿದ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರಗಳನ್ನು ಹೊಂದಿರುವ ಪ್ರತಿಯೊಂದು ಆಯತಾಕಾರದ ಪೆಟ್ಟಿಗೆಯ ಗಾತ್ರ (ಘನಫಲ) ಕಂಡುಹಿಡಿಯಿರಿ. ನೆನಪಿಡಿ, ಆಯತಾಕಾರದ ಪೆಟ್ಟಿಗೆಯ ಗಾತ್ರವು ಅದರ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರಗಳ ಗುಣಲಬ್ಧವಾಗಿರುತ್ತದೆ. ನಮಗೆ ಮೂರು ವಿಭಿನ್ನ ಪೆಟ್ಟಿಗೆಗಳ ಅಳತೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಆಯತಾಕಾರದ ಪೆಟ್ಟಿಗೆಯ ಗಾತ್ರವನ್ನು (ಘನಫಲ) ಕಂಡುಹಿಡಿಯುವುದು.",
+    "ನೀಡಿರುವ ಅಳತೆಗಳು (ಉದ್ದ, ಅಗಲ, ಎತ್ತರ):",
+    "(i) $2ax, 3by, 5cz$",
+    "(ii) $m^2n, n^2p, p^2m$",
+    "(iii) $2q, 4q^2, 8q^3$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ಗಾತ್ರ = ಉದ್ದ \\times ಅಗಲ \\times ಎತ್ತರ",
+    "placeholder_note": "Formula for the volume of a rectangular box."
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EXP-2_example_4",
+  "chunk_id": "ALG-EXP-2_concept_3_chunk_009"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಕಳೆಗಳು: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈಗ, ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ರೈತರು ಜೋಳದ ಬೆಳೆಯನ್ನು ಬೆಳೆದಿದ್ದಾರೆ. ಸಾಲುಗಳಲ್ಲಿ ಕಾಣುತ್ತಿರುವುದು ಮುಖ್ಯ ಬೆಳೆ. ಆದರೆ, ಆ ಸಾಲುಗಳ ಮಧ್ಯದಲ್ಲಿ ಬೇರೆ ರೀತಿಯ ಅನಪೇಕ್ಷಿತ ಸಸ್ಯಗಳು ಬೆಳೆದಿರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಇವೇ ಕಳೆಗಳು. ಇವುಗಳನ್ನು ರೈತರು ಬೆಳೆಸಿರುವುದಿಲ್ಲ; ಅವು ತಾವಾಗಿಯೇ ಬೆಳೆಯುತ್ತವೆ. ಈ ಕಳೆಗಳು ಮುಖ್ಯ ಬೆಳೆಯೊಂದಿಗೆ ನೀರು, ಪೋಷಕಾಂಶ, ಸ್ಥಳ ಮತ್ತು ಬೆಳಕಿಗಾಗಿ ಸ್ಪರ್ಧಿಸುತ್ತವೆ. ಇದರಿಂದ ಮುಖ್ಯ ಬೆಳೆಯ ಬೆಳವಣಿಗೆಗೆ ಅಡ್ಡಿಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ, ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ರೈತರು ಜೋಳದ ಬೆಳೆಯನ್ನು ಬೆಳೆದಿದ್ದಾರೆ. ಸಾಲುಗಳಲ್ಲಿ ಕಾಣುತ್ತಿರುವುದು ಮುಖ್ಯ ಬೆಳೆ. ಆದರೆ, ಆ ಸಾಲುಗಳ ಮಧ್ಯದಲ್ಲಿ ಬೇರೆ ರೀತಿಯ ಅನಪೇಕ್ಷಿತ ಸಸ್ಯಗಳು ಬೆಳೆದಿರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಇವೇ ಕಳೆಗಳು. ಇವುಗಳನ್ನು ರೈತರು ಬೆಳೆಸಿರುವುದಿಲ್ಲ; ಅವು ತಾವಾಗಿಯೇ ಬೆಳೆಯುತ್ತವೆ. ಈ ಕಳೆಗಳು ಮುಖ್ಯ ಬೆಳೆಯೊಂದಿಗೆ ನೀರು, ಪೋಷಕಾಂಶ, ಸ್ಥಳ ಮತ್ತು ಬೆಳಕಿಗಾಗಿ ಸ್ಪರ್ಧಿಸುತ್ತವೆ. ಇದರಿಂದ ಮುಖ್ಯ ಬೆಳೆಯ ಬೆಳವಣಿಗೆಗೆ ಅಡ್ಡಿಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮುಖ್ಯ ಬೆಳೆ (ಉದಾ: ಜೋಳ) ಜೊತೆಗೆ ಅನಪೇಕ್ಷಿತ ಸಸ್ಯಗಳು ಬೆಳೆಯುತ್ತವೆ.",
+    "ಇವುಗಳನ್ನು ರೈತರು ಬೆಳೆಸಿರುವುದಿಲ್ಲ; ಅವು ತಾವಾಗಿಯೇ ಬೆಳೆಯುತ್ತವೆ.",
+    "ನೀರು, ಪೋಷಕಾಂಶ, ಸ್ಥಳ ಮತ್ತು ಬೆಳಕಿಗಾಗಿ ಮುಖ್ಯ ಬೆಳೆಯೊಂದಿಗೆ ಸ್ಪರ್ಧಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear illustration of a crop field, for example, corn (ಜೋಳ), with easily distinguishable weeds growing between the rows of the main crop. The corn plants should be in neat rows, and the weeds should be varied and scattered.",
+    "labels": "ಮುಖ್ಯ ಬೆಳೆ (ಜೋಳ), ಕಳೆಗಳು (Weeds)",
+    "scientific_significance": "Visually demonstrates the concept of weeds as unwanted plants co-existing and competing with the cultivated crop.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_1_concept_6_chunk_004"
+}

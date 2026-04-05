@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಕಾಡಿನ ಜೀವವೈವಿಧ್ಯತೆ",
+  "script": "ಈಗ ಒಂದು ಕಾಡಿನ ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡಿ, ಇಲ್ಲಿ ಕೇವಲ ಮರಗಳಿಲ್ಲ. ಎತ್ತರದ ಮರಗಳಿವೆ, ಕುರುಚಲು ಗಿಡಗಳಿವೆ, ನೆಲದ ಮೇಲೆ ಹಬ್ಬಿರುವ ಬಳ್ಳಿಗಳಿವೆ. ಹಾಗೆಯೇ, ಆನೆ, ಹುಲಿ, ಜಿಂಕೆಯಂತಹ ದೊಡ್ಡ ಪ್ರಾಣಿಗಳಿವೆ. ಜೊತೆಗೆ, ಮಂಗ, ಹಾವು, ಅಳಿಲು, ಮತ್ತು ಬಗೆಬಗೆಯ ಪಕ್ಷಿಗಳೂ ಇವೆ. ಅಷ್ಟೇ ಅಲ್ಲ, ನಮ್ಮ ಕಣ್ಣಿಗೆ ಕಾಣದ ಅಸಂಖ್ಯಾತ ಕೀಟಗಳು, ಹುಳುಗಳು ಮತ್ತು ಬ್ಯಾಕ್ಟೀರಿಯಾದಂತಹ ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ಮಣ್ಣಿನಲ್ಲಿ ಮತ್ತು ನೀರಿನಲ್ಲಿ ವಾಸಿಸುತ್ತವೆ. ಇವೆಲ್ಲವೂ ಸೇರಿ ಆ ಕಾಡಿನ ಜೀವವೈವಿಧ್ಯತೆಯನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+  "script_display": "ಒಂದು ಕಾಡಿನ ಪರಿಸರ ವ್ಯವಸ್ಥೆಯನ್ನು ಪರಿಗಣಿಸೋಣ:\n\n*   **ಸಸ್ಯಗಳು:** ಎತ್ತರದ ಮರಗಳು, ಕುರುಚಲು ಗಿಡಗಳು, ಬಳ್ಳಿಗಳು, ಹುಲ್ಲು.\n\n*   **ಪ್ರಾಣಿಗಳು:** ಆನೆ, ಹುಲಿ, ಜಿಂಕೆ, ಮಂಗ, ಹಾವು, ಪಕ್ಷಿಗಳು.\n\n*   **ಇತರ ಜೀವಿಗಳು:** ಕೀಟಗಳು, ಹುಳುಗಳು, ಶಿಲೀಂಧ್ರಗಳು, ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು (ಸೂಕ್ಷ್ಮಜೀವಿಗಳು).\n\nಈ ಎಲ್ಲಾ ಜೀವಿಗಳ ಒಟ್ಟು ವೈವಿಧ್ಯತೆಯೇ ಆ ಕಾಡಿನ 'ಜೀವವೈವಿಧ್ಯತೆ'.",
+  "display_bullets": [
+    "ಸಸ್ಯಗಳು: ಎತ್ತರದ ಮರಗಳು, ಕುರುಚಲು ಗಿಡಗಳು, ಬಳ್ಳಿಗಳು, ಹುಲ್ಲು.",
+    "ಪ್ರಾಣಿಗಳು: ಆನೆ, ಹುಲಿ, ಜಿಂಕೆ, ಮಂಗ, ಹಾವು, ಪಕ್ಷಿಗಳು.",
+    "ಇತರ ಜೀವಿಗಳು: ಕೀಟಗಳು, ಹುಳುಗಳು, ಶಿಲೀಂಧ್ರಗಳು, ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು (ಸೂಕ್ಷ್ಮಜೀವಿಗಳು)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A vibrant forest ecosystem. In the background, tall trees of different species. In the midground, a deer drinking from a stream, a monkey on a tree branch, and some bushes. In the foreground, various plants, a snake slithering, and some colorful birds. The image should convey a sense of richness and variety of life.",
+    "labels": "ಮರ, ಜಿಂಕೆ, ಮಂಗ, ಪಕ್ಷಿ, ಹಾವು, ಸಸ್ಯಗಳು",
+    "scientific_significance": "Illustrates the concept of biodiversity by showing multiple species of plants and animals coexisting in a single habitat (a forest).",
+    "placeholder_note": "Image to be generated to show a forest with diverse flora and fauna."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_2_concept_1_chunk_004"
+}

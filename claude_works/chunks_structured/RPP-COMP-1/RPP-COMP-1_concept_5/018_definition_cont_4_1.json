@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಮೊತ್ತದ ಸೂತ್ರ",
+  "script": "ಮೊತ್ತವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಒಂದು ಸರಳ ಸೂತ್ರವಿದೆ. ಮೊತ್ತವು ಅಸಲು ಮತ್ತು ಬಡ್ಡಿಯ ಮೊತ್ತವಾಗಿರುವುದರಿಂದ, ನಾವು ಅದನ್ನು ಹೀಗೆ ಬರೆಯಬಹುದು: A ಈಕ್ವಲ್ಸ್ P ಪ್ಲಸ್ I. ಈ ಸೂತ್ರದಲ್ಲಿ, 'A' ಎಂದರೆ ಮೊತ್ತ, 'P' ಎಂದರೆ ಅಸಲು, ಮತ್ತು 'I' ಎಂದರೆ ಸರಳ ಬಡ್ಡಿ. ಇದು ಅತಿ ಮೂಲಭೂತ ಮತ್ತು ಪ್ರಮುಖ ಸೂತ್ರವಾಗಿದೆ. ನೀವು ಅಸಲು ಮತ್ತು ಬಡ್ಡಿಯನ್ನು ತಿಳಿದಿದ್ದರೆ, ಅವೆರಡನ್ನೂ ಕೂಡಿಸುವ ಮೂಲಕ ನೀವು ಪಾವತಿಸಬೇಕಾದ ಒಟ್ಟು ಮೊತ್ತವನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "script_display": "ಮೊತ್ತವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಒಂದು ಸರಳ ಸೂತ್ರವಿದೆ. ಮೊತ್ತವು ಅಸಲು ಮತ್ತು ಬಡ್ಡಿಯ ಮೊತ್ತವಾಗಿರುವುದರಿಂದ, ನಾವು ಅದನ್ನು ಹೀಗೆ ಬರೆಯಬಹುದು: $A = P + I$. ಈ ಸೂತ್ರದಲ್ಲಿ, 'A' ಎಂದರೆ ಮೊತ್ತ (Amount), 'P' ಎಂದರೆ ಅಸಲು (Principal), ಮತ್ತು 'I' ಎಂದರೆ ಸರಳ ಬಡ್ಡಿ (Simple Interest). ಇದು ಅತಿ ಮೂಲಭೂತ ಮತ್ತು ಪ್ರಮುಖ ಸೂತ್ರವಾಗಿದೆ. ನೀವು ಅಸಲು ಮತ್ತು ಬಡ್ಡಿಯನ್ನು ತಿಳಿದಿದ್ದರೆ, ಅವೆರಡನ್ನೂ ಕೂಡಿಸುವ ಮೂಲಕ ನೀವು ಪಾವತಿಸಬೇಕಾದ ಒಟ್ಟು ಮೊತ್ತವನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "A = P + I",
+    "placeholder_note": "A = ಮೊತ್ತ, P = ಅಸಲು, I = ಸರಳ ಬಡ್ಡಿ"
+  },
+  "sub_type": "definition_explain",
+  "difficulty": "easy",
+  "chunk_id": "RPP-COMP-1_concept_5_chunk_018"
+}

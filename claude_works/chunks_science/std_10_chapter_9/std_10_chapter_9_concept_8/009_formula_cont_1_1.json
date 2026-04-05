@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ವರ್ಧನೆಯ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ವಸ್ತುವನ್ನು ಪೀನ ಮಸೂರದಿಂದ ಮೈನಸ್ ಹದಿನೈದು ಸೆಂಟಿಮೀಟರ್ ದೂರದಲ್ಲಿ ಇರಿಸಲಾಗಿದೆ ಮತ್ತು ಅದರ ಸತ್ಯ ಪ್ರತಿಬಿಂಬವು ಪ್ಲಸ್ ಮೂವತ್ತು ಸೆಂಟಿಮೀಟರ್ ದೂರದಲ್ಲಿ ಉಂಟಾಗಿದೆ ಎಂದು ಭಾವಿಸೋಣ. ಇಲ್ಲಿ, ಯು ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ ಹದಿನೈದು ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ವಿ ಈಕ್ವಲ್ಸ್ ಪ್ಲಸ್ ಮೂವತ್ತು ಸೆಂಟಿಮೀಟರ್. ವರ್ಧನೆಯ ಸೂತ್ರ ಎಂ ಈಕ್ವಲ್ಸ್ ವಿ ಬೈ ಯು ಅನ್ನು ಬಳಸೋಣ. ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ ಎಂ ಈಕ್ವಲ್ಸ್ ಮೂವತ್ತು ಭಾಗಿಸು ಮೈನಸ್ ಹದಿನೈದು, ಅಂದರೆ ಮೈನಸ್ ಎರಡು ಸಿಗುತ್ತದೆ. ಹೀಗೆ, ವರ್ಧನೆಯ ಮೌಲ್ಯ ಮೈನಸ್ ಎರಡು ಆಗಿದೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ವಸ್ತುವನ್ನು ಪೀನ ಮಸೂರದಿಂದ -15 cm ದೂರದಲ್ಲಿ ಇರಿಸಲಾಗಿದೆ ಮತ್ತು ಅದರ ಸತ್ಯ ಪ್ರತಿಬಿಂಬವು +30 cm ದೂರದಲ್ಲಿ ಉಂಟಾಗಿದೆ ಎಂದು ಭಾವಿಸೋಣ. ಇಲ್ಲಿ, u = -15 cm ಮತ್ತು v = +30 cm. ವರ್ಧನೆಯ ಸೂತ್ರ m = v/u ಅನ್ನು ಬಳಸೋಣ. ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ m = (+30) / (-15) = -2 ಸಿಗುತ್ತದೆ. ಹೀಗೆ, ವರ್ಧನೆಯ ಮೌಲ್ಯ -2 ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶ (Given data): u = -15 cm, v = +30 cm",
+    "ಬಳಸಬೇಕಾದ ಸೂತ್ರ (Formula to use): m = v/u",
+    "ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ (Substitution): m = (+30 cm) / (-15 cm)",
+    "ಅಂತಿಮ ಫಲಿತಾಂಶ (Final Result): m = -2"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm_bg",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "m = \\frac{v}{u} = \\frac{+30}{-15} = -2",
+    "placeholder_note": "Calculation of magnification for a sample problem."
+  },
+  "chunk_id": "std_10_chapter_9_concept_8_chunk_009"
+}

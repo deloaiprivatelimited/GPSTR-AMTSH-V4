@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವನ್ನು ನೋಡೋಣ. ಫ್ರಾಕ್ ಮೇಲಿನ ರಿಯಾಯಿತಿ ಮೊತ್ತ ನಲವತ್ನಾಲ್ಕು ರೂಪಾಯಿಗಳು ಮತ್ತು ಅದರ ಮಾರಾಟ ಬೆಲೆ ನೂರ ಎಪ್ಪತ್ತಾರು ರೂಪಾಯಿಗಳು. ಇಲ್ಲಿ ನೆನಪಿಡಬೇಕಾದ ಮುಖ್ಯ ಅಂಶವೆಂದರೆ, ರಿಯಾಯಿತಿಯನ್ನು ಯಾವಾಗಲೂ ನಮೂದಿತ ಬೆಲೆಯ ಮೇಲೆ ಲೆಕ್ಕ ಹಾಕಬೇಕು, ಕೊಂಡ ಬೆಲೆಯ ಮೇಲಲ್ಲ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವನ್ನು ನೋಡೋಣ. ಫ್ರಾಕ್ ಮೇಲಿನ ರಿಯಾಯಿತಿ ಮೊತ್ತ ₹44 ಮತ್ತು ಅದರ ಮಾರಾಟ ಬೆಲೆ ₹176. ಇಲ್ಲಿ ನೆನಪಿಡಬೇಕಾದ ಮುಖ್ಯ ಅಂಶವೆಂದರೆ, ರಿಯಾಯಿತಿಯನ್ನು ಯಾವಾಗಲೂ ನಮೂದಿತ ಬೆಲೆಯ (MP) ಮೇಲೆ ಲೆಕ್ಕ ಹಾಕಬೇಕು, ಕೊಂಡ ಬೆಲೆಯ (CP) ಮೇಲಲ್ಲ.",
+  "display_bullets": [
+    "ರಿಯಾಯಿತಿ ಮೊತ್ತ: ₹44",
+    "ಮಾರಾಟ ಬೆಲೆ (SP): ₹176"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "RPP-COMP-1_example_7",
+  "final_answer_display": "ರಿಯಾಯಿತಿ ಮೊತ್ತ ₹44 ಮತ್ತು ಮಾರಾಟ ಬೆಲೆ ₹176.",
+  "chunk_id": "RPP-COMP-1_concept_4_chunk_035"
+}

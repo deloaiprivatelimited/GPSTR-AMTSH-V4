@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾಮಾನ್ಯ ತಪ್ಪು",
+  "script": "ಈ ಲೆಕ್ಕಾಚಾರದಲ್ಲಿ ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪನ್ನು ಗಮನಿಸೋಣ. ಅನೇಕರು ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡಕ್ಕೂ ಗುಣಿಸುತ್ತಾರೆ. ನಮ್ಮ ಉದಾಹರಣೆಯಲ್ಲಿ, ಐದು ಗುಣಿಸು ಎರಡನೇ ಏಳು. ಸರಿಯಾದ ಉತ್ತರ ಹತ್ತನೇ ಏಳು. ಆದರೆ, ತಪ್ಪಾದ ವಿಧಾನದಲ್ಲಿ, ಐದನ್ನು ಎರಡರಿಂದ ಮತ್ತು ಐದನ್ನು ಏಳರಿಂದ ಗುಣಿಸಿ, ಹತ್ತನೇ ಮೂವತ್ತೈದು ಎಂದು ಬರೆಯುತ್ತಾರೆ. ಇದು ಸಂಪೂರ್ಣವಾಗಿ ತಪ್ಪು. ಏಕೆಂದರೆ, ನೀವು ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡನ್ನೂ ಒಂದೇ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸಿದಾಗ, ನೀವು ಭಿನ್ನರಾಶಿಯ ಮೌಲ್ಯವನ್ನು ಬದಲಿಸುತ್ತಿಲ್ಲ, ಬದಲಿಗೆ ಸಮಾನ ಭಿನ್ನರಾಶಿಯನ್ನು ರಚಿಸುತ್ತಿದ್ದೀರಿ. ಇಲ್ಲಿ ನಮಗೆ ಗುಣಲಬ್ಧ ಬೇಕು, ಸಮಾನ ಭಿನ್ನರಾಶಿಯಲ್ಲ.",
+  "script_display": "ಈ ಲೆಕ್ಕಾಚಾರದಲ್ಲಿ ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪನ್ನು ಗಮನಿಸೋಣ. ಅನೇಕರು ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡಕ್ಕೂ ಗುಣಿಸುತ್ತಾರೆ.\n*   ತಪ್ಪು: ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡಕ್ಕೂ ಗುಣಿಸುವುದು.\n*   ಸರಿ: ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಕೇವಲ ಅಂಶಕ್ಕೆ ಮಾತ್ರ ಗುಣಿಸುವುದು.\nಛೇದವನ್ನು ಗುಣಿಸುವುದು ಗುಣಾಕಾರದ ಅರ್ಥವಲ್ಲ, ಅದು ಸಮಾನ ಭಿನ್ನರಾಶಿಯನ್ನು ರಚಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ತಪ್ಪು: ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡಕ್ಕೂ ಗುಣಿಸುವುದು.",
+    "ಸರಿ: ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಕೇವಲ ಅಂಶಕ್ಕೆ ಮಾತ್ರ ಗುಣಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen comparison. Left side shows the correct calculation in green: 5 x 2/7 = (5x2)/7 = 10/7 with a large green checkmark. Right side shows the incorrect calculation in red: 5 x 2/7 = (5x2)/(5x7) = 10/35 with a large red cross mark.",
+    "labels": "common mistake, fraction multiplication, correct vs incorrect",
+    "mathematical_significance": "Highlights a frequent conceptual error where students incorrectly distribute the whole number to both the numerator and the denominator, confusing multiplication with the creation of equivalent fractions.",
+    "placeholder_note": "Image to be generated showing the correct vs incorrect calculation side-by-side."
+  },
+  "chunk_id": "NS-FRA-1_concept_5_chunk_016"
+}

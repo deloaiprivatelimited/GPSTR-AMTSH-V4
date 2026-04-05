@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಘನ ಬಹುಪದೋಕ್ತಿ: ಶೂನ್ಯತೆಗಳು ಮತ್ತು ಸಹಗುಣಕಗಳು",
+  "script": "ವರ್ಗ ಬಹುಪದೋಕ್ತಿಗಳಂತೆಯೇ, ಘನ ಬಹುಪದೋಕ್ತಿಗಳ ಶೂನ್ಯತೆಗಳು ಮತ್ತು ಸಹಗುಣಕಗಳ ನಡುವೆಯೂ ಒಂದು ನಿರ್ದಿಷ್ಟ ಸಂಬಂಧವಿದೆ. ಒಂದು ಘನ ಬಹುಪದೋಕ್ತಿಯ ಸಾಮಾನ್ಯ ರೂಪವು ax ಕ್ಯೂಬ್ ಪ್ಲಸ್ bx ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ cx ಪ್ಲಸ್ d ಆಗಿದೆ, ಇಲ್ಲಿ a ಸೊನ್ನೆಗೆ ಸಮನಾಗಿರುವುದಿಲ್ಲ. ಒಂದು ಘನ ಬಹುಪದೋಕ್ತಿಗೆ ಗರಿಷ್ಠ ಮೂರು ಶೂನ್ಯತೆಗಳಿರುತ್ತವೆ. ಈ ಶೂನ್ಯತೆಗಳನ್ನು ನಾವು ಗ್ರೀಕ್ ಅಕ್ಷರಗಳಾದ ಆಲ್ಫಾ, ಬೀಟಾ ಮತ್ತು ಗಾಮ ಎಂದು ಹೆಸರಿಸೋಣ. ಈ ಸ್ಲೈಡ್ ಸರಣಿಯಲ್ಲಿ, ಈ ಮೂರು ಶೂನ್ಯತೆಗಳು ಬಹುಪದೋಕ್ತಿಯ ಸಹಗುಣಕಗಳಾದ a, b, c, ಮತ್ತು d ಗಳೊಂದಿಗೆ ಹೇಗೆ ಸಂಬಂಧ ಹೊಂದಿವೆ ಎಂಬುದನ್ನು ನಾವು ಕಲಿಯುತ್ತೇವೆ.",
+  "script_display": "ವರ್ಗ ಬಹುಪದೋಕ್ತಿಗಳಂತೆಯೇ, ಘನ ಬಹುಪದೋಕ್ತಿಗಳ (cubic polynomials) ಶೂನ್ಯತೆಗಳು ಮತ್ತು ಸಹಗುಣಕಗಳ ನಡುವೆಯೂ ಒಂದು ನಿರ್ದಿಷ್ಟ ಸಂಬಂಧವಿದೆ. ಒಂದು ಘನ ಬಹುಪದೋಕ್ತಿಯ ಸಾಮಾನ್ಯ ರೂಪವು $ax^3 + bx^2 + cx + d$ ಆಗಿದೆ, ಇಲ್ಲಿ $a \\neq 0$. ಒಂದು ಘನ ಬಹುಪದೋಕ್ತಿಗೆ ಗರಿಷ್ಠ ಮೂರು ಶೂನ್ಯತೆಗಳಿರುತ್ತವೆ. ಈ ಶೂನ್ಯತೆಗಳನ್ನು ನಾವು ಗ್ರೀಕ್ ಅಕ್ಷರಗಳಾದ $\\alpha, \\beta$ ಮತ್ತು $\\gamma$ ಎಂದು ಹೆಸರಿಸೋಣ. ಈ ಸ್ಲೈಡ್ ಸರಣಿಯಲ್ಲಿ, ಈ ಮೂರು ಶೂನ್ಯತೆಗಳು ಬಹುಪದೋಕ್ತಿಯ ಸಹಗುಣಕಗಳಾದ $a, b, c,$ ಮತ್ತು $d$ ಗಳೊಂದಿಗೆ ಹೇಗೆ ಸಂಬಂಧ ಹೊಂದಿವೆ ಎಂಬುದನ್ನು ನಾವು ಕಲಿಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಾಮಾನ್ಯ ರೂಪ: $p(x) = ax^3 + bx^2 + cx + d$, ಇಲ್ಲಿ $a \\neq 0$",
+    "ಶೂನ್ಯತೆಗಳು (Zeros): $\\alpha, \\beta, \\gamma$ (ಗರಿಷ್ಠ ಮೂರು)",
+    "ಸಹಗುಣಕಗಳು (Coefficients): $a, b, c, d$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A generic cubic function graph crossing the x-axis at three points, labeled alpha, beta, and gamma. The general form of the polynomial p(x) = ax^3 + bx^2 + cx + d is displayed prominently.",
+    "labels": "x-axis, y-axis, p(x), alpha, beta, gamma",
+    "mathematical_significance": "Illustrates that a cubic polynomial can have up to three real roots (zeros), which are the points where the graph intersects the x-axis.",
+    "placeholder_note": "Image to be generated for a cubic polynomial graph with three roots."
+  },
+  "chunk_id": "ALG-POL-3_concept_5_chunk_012"
+}

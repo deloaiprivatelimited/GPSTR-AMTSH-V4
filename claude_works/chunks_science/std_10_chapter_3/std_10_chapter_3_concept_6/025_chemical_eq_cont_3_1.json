@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಸಮೀಕರಣ ಹೀಗಿದೆ: ಘನ ರೂಪದಲ್ಲಿರುವ ಸತುವು, ಜಲೀಯ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿ, ಜಲೀಯ ಸತುವಿನ ಕ್ಲೋರೈಡ್ ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಅನಿಲವನ್ನು ನೀಡುತ್ತದೆ.",
+  "script_display": "ಸಮೀಕರಣ ಹೀಗಿದೆ: ಘನ ರೂಪದಲ್ಲಿರುವ ಸತುವು (Zn), ಜಲೀಯ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದೊಂದಿಗೆ (HCl) ವರ್ತಿಸಿ, ಜಲೀಯ ಸತುವಿನ ಕ್ಲೋರೈಡ್ (ZnCl₂) ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಅನಿಲವನ್ನು (H₂) ನೀಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_with_description",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Zn(s) + 2HCl(aq) \\rightarrow ZnCl_2(aq) + H_2(g)",
+    "placeholder_note": "Balanced chemical equation for the reaction of Zinc with Hydrochloric acid."
+  },
+  "chunk_id": "std_10_chapter_3_concept_6_chunk_025"
+}

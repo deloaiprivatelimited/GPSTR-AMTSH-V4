@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಯತದ ಗುಣಲಕ್ಷಣ 2: ಕೋನಗಳು",
+  "script": "ಮುಂದಿನ ಗುಣಲಕ್ಷಣಕ್ಕೆ ಬರೋಣ. ಗುಣಲಕ್ಷಣ ಎರಡು, ಆಯತದ ಎಲ್ಲಾ ನಾಲ್ಕು ಕೋನಗಳು ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಅಥವಾ ಲಂಬಕೋನಗಳಾಗಿರುತ್ತವೆ ಎಂದು ಹೇಳುತ್ತದೆ. ಇದರ ಅರ್ಥ, ಕೋನ ಎ, ಕೋನ ಬಿ, ಕೋನ ಸಿ, ಮತ್ತು ಕೋನ ಡಿ, ಇವೆಲ್ಲವೂ ತೊಂಬತ್ತು ಡಿಗ್ರಿಗೆ ಸಮ. ಈ ಗುಣಲಕ್ಷಣದಿಂದಾಗಿಯೇ ಆಯತದ ಪಕ್ಕದ ಬಾಹುಗಳು, ಉದಾಹರಣೆಗೆ ಎ ಬಿ ಮತ್ತು ಬಿ ಸಿ, ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ, ಅಂದರೆ ಅವುಗಳು ಸೇರುವಲ್ಲಿ ಲಂಬಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಈ ಲಂಬಕೋನಗಳೇ ಆಯತಕ್ಕೆ ಅದರ ವಿಶಿಷ್ಟವಾದ, ಚೌಕಟ್ಟಿನಂತಹ ಆಕಾರವನ್ನು ನೀಡುತ್ತವೆ.",
+  "script_display": "ಮುಂದಿನ ಗುಣಲಕ್ಷಣಕ್ಕೆ ಬರೋಣ. ಗುಣಲಕ್ಷಣ 2, ಆಯತದ ಎಲ್ಲಾ ನಾಲ್ಕು ಕೋನಗಳು $90^\\circ$ (ಲಂಬಕೋನ) ಇರುತ್ತವೆ ಎಂದು ಹೇಳುತ್ತದೆ. ಇದರ ಅರ್ಥ, $\\angle A = \\angle B = \\angle C = \\angle D = 90^\\circ$. ಈ ಗುಣಲಕ್ಷಣದಿಂದಾಗಿಯೇ ಆಯತದ ಪಕ್ಕದ ಬಾಹುಗಳು, ಉದಾಹರಣೆಗೆ $AB$ ಮತ್ತು $BC$, ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ, ಅಂದರೆ ಅವುಗಳು ಸೇರುವಲ್ಲಿ ಲಂಬಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಈ ಲಂಬಕೋನಗಳೇ ಆಯತಕ್ಕೆ ಅದರ ವಿಶಿಷ್ಟವಾದ, ಚೌಕಟ್ಟಿನಂತಹ ಆಕಾರವನ್ನು ನೀಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ಗುಣಲಕ್ಷಣ 2: ಆಯತದ ಎಲ್ಲಾ ನಾಲ್ಕು ಕೋನಗಳು $90^\\circ$ (ಲಂಬಕೋನ) ಇರುತ್ತವೆ.",
+    "ಅಂದರೆ, $\\angle A = \\angle B = \\angle C = \\angle D = 90^\\circ$.",
+    "ಈ ಗುಣಲಕ್ಷಣದಿಂದಾಗಿ, ಪಕ್ಕದ ಬಾಹುಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A rectangle ABCD with the right angle symbol (a small square) clearly marked in all four corners (A, B, C, and D). The angles are labeled 90°.",
+    "labels": "Vertices A, B, C, D; 90° symbol at each vertex",
+    "mathematical_significance": "Visually confirms that all interior angles of a rectangle are right angles, which is a defining characteristic.",
+    "placeholder_note": "Generate a rectangle ABCD. Add a small square symbol inside each corner and label it 90°."
+  },
+  "chunk_id": "VIS-CON-1_concept_2_chunk_017"
+}

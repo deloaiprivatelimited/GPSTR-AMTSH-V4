@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಬಾಹ್ಯ ಗ್ರಹಗಳು (Outer Planets)",
+  "script": "ಮುಂದೆ, ನಾವು ಬಾಹ್ಯ ಗ್ರಹಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇವು ಕ್ಷುದ್ರಗ್ರಹ ಪಟ್ಟಿಯ ಆಚೆ ಇರುವ ಕೊನೆಯ ನಾಲ್ಕು ಗ್ರಹಗಳು. ಇವುಗಳನ್ನು ಅನಿಲ ದೈತ್ಯಗಳು ಎಂದೂ ಕರೆಯುತ್ತಾರೆ, ಏಕೆಂದರೆ ಇವು ಪ್ರಮುಖವಾಗಿ ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಹೀಲಿಯಂನಂತಹ ಅನಿಲಗಳಿಂದ ಕೂಡಿವೆ ಮತ್ತು ಗಾತ್ರದಲ್ಲಿ ಅತ್ಯಂತ ಬೃಹತ್ತಾಗಿವೆ. ಇವುಗಳಿಗೆ ಶಿಲೆಯ ಮೇಲ್ಮೈ ಇರುವುದಿಲ್ಲ. ಈ ಗುಂಪಿಗೆ ಗುರು, ಶನಿ, ಯುರೇನಸ್ ಮತ್ತು ನೆಪ್ಯೂನ್ ಗ್ರಹಗಳು ಸೇರಿವೆ. ಇವು ಸೂರ್ಯನಿಂದ ಬಹಳ ದೂರದಲ್ಲಿರುವುದರಿಂದ ಇವುಗಳನ್ನು ಬಾಹ್ಯ ಗ್ರಹಗಳು ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ.",
+  "script_display": "ಮುಂದೆ, ನಾವು ಬಾಹ್ಯ ಗ್ರಹಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇವು ಕ್ಷುದ್ರಗ್ರಹ ಪಟ್ಟಿಯ (Asteroid Belt) ಆಚೆ ಇರುವ ಕೊನೆಯ ನಾಲ್ಕು ಗ್ರಹಗಳು. ಇವುಗಳನ್ನು ಅನಿಲ ದೈತ್ಯಗಳು (Gas Giants) ಎಂದೂ ಕರೆಯುತ್ತಾರೆ, ಏಕೆಂದರೆ ಇವು ಪ್ರಮುಖವಾಗಿ ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಹೀಲಿಯಂನಂತಹ ಅನಿಲಗಳಿಂದ ಕೂಡಿವೆ ಮತ್ತು ಗಾತ್ರದಲ್ಲಿ ಅತ್ಯಂತ ಬೃಹತ್ತಾಗಿವೆ. ಇವುಗಳಿಗೆ ಶಿಲೆಯ ಮೇಲ್ಮೈ ಇರುವುದಿಲ್ಲ. ಈ ಗುಂಪಿಗೆ ಗುರು (Jupiter), ಶನಿ (Saturn), ಯುರೇನಸ್ (Uranus), ಮತ್ತು ನೆಪ್ಯೂನ್ (Neptune) ಗ್ರಹಗಳು ಸೇರಿವೆ. ಇವು ಸೂರ್ಯನಿಂದ ಬಹಳ ದೂರದಲ್ಲಿರುವುದರಿಂದ ಇವುಗಳನ್ನು ಬಾಹ್ಯ ಗ್ರಹಗಳು ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸೂರ್ಯನಿಂದ ದೂರದಲ್ಲಿವೆ (ಕ್ಷುದ್ರಗ್ರಹ ಪಟ್ಟಿಯ ಆಚೆ).",
+    "ಪ್ರಮುಖವಾಗಿ ಅನಿಲಗಳಿಂದ ರಚಿತವಾಗಿವೆ (ಅನಿಲ ದೈತ್ಯಗಳು).",
+    "ಉದಾಹರಣೆಗಳು: ಗುರು, ಶನಿ, ಯುರೇನಸ್, ನೆಪ್ಯೂನ್."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dynamic_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple illustration of the solar system focusing on the last four planets orbiting far from the sun. The planets (Jupiter, Saturn, Uranus, Neptune) should be shown as large, gaseous bodies. Saturn's rings must be visible. An arrow should point to this group with the label 'ಬಾಹ್ಯ ಗ್ರಹಗಳು'.",
+    "labels": "Jupiter, Saturn, Uranus, Neptune",
+    "scientific_significance": "Visually represents the outer, gas giant planets and their distance from the sun.",
+    "placeholder_note": "Image to be generated showing the four large gaseous planets."
+  },
+  "chunk_id": "std_6_chapter_12_concept_2_chunk_021"
+}

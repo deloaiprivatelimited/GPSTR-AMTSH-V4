@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 2",
+  "script": "ಈಗ ನಮ್ಮ ಬಳಿ ತ್ರಿಭುಜದ ಎಲ್ಲಾ ಮೂರು ಬಾಹುಗಳ ಅಳತೆಗಳಿವೆ. ನಾವು ಸೈನ್ ತೀಟಾ ಮತ್ತು ಕಾಸ್ ತೀಟಾ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಕೊಟ್ಟಿರುವ ಕೋನ ತೀಟಾ ಗೆ, ಅಭಿಮುಖ ಬಾಹು ಎಸಿ, ಅದರ ಉದ್ದ 20. ಪಾರ್ಶ್ವ ಬಾಹು ಬಿಸಿ, ಅದರ ಉದ್ದ 21. ಮತ್ತು ವಿಕರ್ಣ ಎಬಿ, ಅದರ ಉದ್ದ 29. ಸೈನ್ ತೀಟಾ ಅಂದರೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ. ಅಂದರೆ 20 ಭಾಗಿಸು 29. ಹಾಗೆಯೇ, ಕಾಸ್ ತೀಟಾ ಅಂದರೆ ಪಾರ್ಶ್ವ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ. ಅಂದರೆ 21 ಭಾಗಿಸು 29.",
+  "script_display": "ಈಗ ನಮ್ಮ ಬಳಿ ತ್ರಿಭುಜದ ಎಲ್ಲಾ ಮೂರು ಬಾಹುಗಳ ಅಳತೆಗಳಿವೆ. ನಾವು $\\sin \\theta$ ಮತ್ತು $\\cos \\theta$ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಕೊಟ್ಟಿರುವ ಕೋನ $\\theta$ ಗೆ, ಅಭಿಮುಖ ಬಾಹು AC, ಅದರ ಉದ್ದ 20. ಪಾರ್ಶ್ವ ಬಾಹು BC, ಅದರ ಉದ್ದ 21. ಮತ್ತು ವಿಕರ್ಣ AB, ಅದರ ಉದ್ದ 29. $\\sin \\theta$ ಅಂದರೆ $\\frac{\\text{ಅಭಿಮುಖ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}}$. ಅಂದರೆ $\\frac{20}{29}$. ಹಾಗೆಯೇ, $\\cos \\theta$ ಅಂದರೆ $\\frac{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}}$. ಅಂದರೆ $\\frac{21}{29}$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ತ್ರಿಭುಜ ABC, ಕೋನ θ ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಬಾಹುಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. AC 'ಅಭಿಮುಖ', BC 'ಪಾರ್ಶ್ವ', ಮತ್ತು AB 'ವಿಕರ್ಣ' ಎಂದು ಬರೆಯಲಾಗಿದೆ.",
+    "labels": "A, B, C, θ, 29 (ವಿಕರ್ಣ), 21 (ಪಾರ್ಶ್ವ), 20 (ಅಭಿಮುಖ)",
+    "mathematical_significance": "ಕೋನ θ ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಅಭಿಮುಖ, ಪಾರ್ಶ್ವ ಮತ್ತು ವಿಕರ್ಣ ಬಾಹುಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ. ಇದು ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳನ್ನು ಸರಿಯಾಗಿ ಅನ್ವಯಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+    "placeholder_note": "Same triangle with all side lengths, but now with labels 'Opposite (ಅಭಿಮುಖ)' for AC, 'Adjacent (ಪಾರ್ಶ್ವ)' for BC, and 'Hypotenuse (ವಿಕರ್ಣ)' for AB, relative to angle theta."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-INTRO-1_example_3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\sin \\theta = \\frac{\\text{ಅಭಿಮುಖ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}} = \\frac{AC}{AB} = \\frac{20}{29}$",
+      "justification": "sin ಅನುಪಾತದ ವ್ಯಾಖ್ಯೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\cos \\theta = \\frac{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}} = \\frac{BC}{AB} = \\frac{21}{29}$",
+      "justification": "cos ಅನುಪಾತದ ವ್ಯಾಖ್ಯೆ."
+    }
+  ],
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_082"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಾಗಸ್ಪರ್ಶ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇದು ಹೂವಿನ ನೀಳಛೇದ. ಇಲ್ಲಿ ನೀವು ಹೂವಿನ ಗಂಡು ಭಾಗವಾದ ಕೇಸರವನ್ನು ನೋಡಬಹುದು. ಅದರ ತುದಿಯಲ್ಲಿರುವ ಈ ಭಾಗವೇ ಪರಾಗಕೋಶ. ಇದರೊಳಗೆ ಪುಡಿಯಂತಿರುವ ಪರಾಗರೇಣುಗಳು ಇರುತ್ತವೆ. ಹೂವಿನ ಮಧ್ಯದಲ್ಲಿರುವ ಹೆಣ್ಣು ಭಾಗವೇ ಶಲಾಕೆ. ಅದರ ತುದಿಯಲ್ಲಿರುವ ಅಂಟಂಟಾದ ಭಾಗವೇ ಶಲಾಕಾಗ್ರ. ಪರಾಗಸ್ಪರ್ಶ ಎಂದರೆ, ಈ ಪರಾಗಕೋಶದಿಂದ ಪರಾಗರೇಣುಗಳು ಹೊರಬಂದು, ಗಾಳಿ, ನೀರು, ಕೀಟಗಳು ಅಥವಾ ಪ್ರಾಣಿಗಳ ಮೂಲಕ ಸಾಗಿ, ಈ ಶಲಾಕಾಗ್ರದ ಮೇಲೆ ಬೀಳುವುದೇ ಆಗಿದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ಬಾಣದ ಗುರುತು ಈ ವರ್ಗಾವಣೆಯ ಪಥವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇದು ಹೂವಿನ ನೀಳಛೇದ. ಇಲ್ಲಿ ನೀವು ಹೂವಿನ ಗಂಡು ಭಾಗವಾದ ಕೇಸರವನ್ನು (stamen) ನೋಡಬಹುದು. ಅದರ ತುದಿಯಲ್ಲಿರುವ ಈ ಭಾಗವೇ ಪರಾಗಕೋಶ (anther). ಇದರೊಳಗೆ ಪುಡಿಯಂತಿರುವ ಪರಾಗರೇಣುಗಳು (pollen grains) ಇರುತ್ತವೆ. ಹೂವಿನ ಮಧ್ಯದಲ್ಲಿರುವ ಹೆಣ್ಣು ಭಾಗವೇ ಶಲಾಕೆ (pistil). ಅದರ ತುದಿಯಲ್ಲಿರುವ ಅಂಟಂಟಾದ ಭಾಗವೇ ಶಲಾಕಾಗ್ರ (stigma). ಪರಾಗಸ್ಪರ್ಶ ಎಂದರೆ, ಈ ಪರಾಗಕೋಶದಿಂದ ಪರಾಗರೇಣುಗಳು ಹೊರಬಂದು, ಗಾಳಿ, ನೀರು, ಕೀಟಗಳು ಅಥವಾ ಪ್ರಾಣಿಗಳ ಮೂಲಕ ಸಾಗಿ, ಈ ಶಲಾಕಾಗ್ರದ ಮೇಲೆ ಬೀಳುವುದೇ ಆಗಿದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ಬಾಣದ ಗುರುತು ಈ ವರ್ಗಾವಣೆಯ ಪಥವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪರಾಗಕೋಶದಿಂದ (Anther) ಪರಾಗರೇಣುಗಳು ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ.",
+    "ಈ ಪರಾಗರೇಣುಗಳು ಶಲಾಕಾಗ್ರದ (Stigma) ಮೇಲೆ ಬೀಳುತ್ತವೆ.",
+    "ಈ ವರ್ಗಾವಣೆಗೆ ಗಾಳಿ, ನೀರು, ಅಥವಾ ಪ್ರಾಣಿಗಳು (ವಾಹಕಗಳು) ಸಹಾಯ ಮಾಡುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the parts of a flower. An arrow indicates the path of a pollen grain moving from the anther of a stamen to the stigma of the pistil.",
+    "labels": "Anther, Pollen grain, Stigma, Pistil, Stamen",
+    "scientific_significance": "Visually demonstrates the key components and the process of pollination.",
+    "placeholder_note": "Image to be generated based on textbook diagram 7.7, showing an arrow for pollination."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_7_concept_7_chunk_008"
+}

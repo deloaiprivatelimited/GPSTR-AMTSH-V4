@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+  "script": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲು, ಒಂದು ಕಾಗದದ ಹಾಳೆಯನ್ನು ಮೇಜಿನ ಮೇಲೆ ಸಮತಟ್ಟಾಗಿ ಇರಿಸಿ. ನಂತರ, ಅದರ ಮೇಲೆ ಕಬ್ಬಿಣದ ಪುಡಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಸಮನಾಗಿ ಹರಡಿ. ಪುಡಿಯು ಎಲ್ಲೆಡೆ ಒಂದೇ ದಪ್ಪದಲ್ಲಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಈಗ, ಈ ಕಬ್ಬಿಣದ ಪುಡಿಯ ಮೇಲೆ ನಿಧಾನವಾಗಿ ದಂಡಕಾಂತವನ್ನು ಇಡಿ. ಕಾಂತವನ್ನು ಇಟ್ಟ ನಂತರ, ಕಾಗದದ ಹಾಳೆಯನ್ನು ನಿಮ್ಮ ಬೆರಳುಗಳಿಂದ ನಿಧಾನವಾಗಿ ತಟ್ಟಿ. ಹೀಗೆ ಮಾಡುವುದರಿಂದ ಕಬ್ಬಿಣದ ಪುಡಿಯು ಕಾಂತದ ಬಲಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈ ಹಂತವನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಮಾಡಿ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲು, ಒಂದು ಕಾಗದದ ಹಾಳೆಯನ್ನು ಮೇಜಿನ ಮೇಲೆ ಸಮತಟ್ಟಾಗಿ ಇರಿಸಿ. ನಂತರ, ಅದರ ಮೇಲೆ ಕಬ್ಬಿಣದ ಪುಡಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಸಮನಾಗಿ ಹರಡಿ. ಪುಡಿಯು ಎಲ್ಲೆಡೆ ಒಂದೇ ದಪ್ಪದಲ್ಲಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಈಗ, ಈ ಕಬ್ಬಿಣದ ಪುಡಿಯ ಮೇಲೆ ನಿಧಾನವಾಗಿ ದಂಡಕಾಂತವನ್ನು ಇಡಿ. ಕಾಂತವನ್ನು ಇಟ್ಟ ನಂತರ, ಕಾಗದದ ಹಾಳೆಯನ್ನು ನಿಮ್ಮ ಬೆರಳುಗಳಿಂದ ನಿಧಾನವಾಗಿ ತಟ್ಟಿ. ಹೀಗೆ ಮಾಡುವುದರಿಂದ ಕಬ್ಬಿಣದ ಪುಡಿಯು ಕಾಂತದ ಬಲಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈ ಹಂತವನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಮಾಡಿ.",
+  "display_bullets": [
+    "ಹಂತ 1: ಕಾಗದದ ಹಾಳೆಯ ಮೇಲೆ ಕಬ್ಬಿಣದ ಪುಡಿಯನ್ನು ಸಮನಾಗಿ ಹರಡಿ.",
+    "ಹಂತ 2: ಪುಡಿಯ ಮೇಲೆ ದಂಡಕಾಂತವನ್ನು ಇಡಿ.",
+    "ಹಂತ 3: ಕಾಗದದ ಹಾಳೆಯನ್ನು ನಿಧಾನವಾಗಿ ತಟ್ಟಿ ಮತ್ತು ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An animated sequence or a series of three images showing the procedure. 1. Spreading iron filings on paper. 2. Placing the bar magnet on top. 3. Tapping the paper.",
+    "labels": "ಕಬ್ಬಿಣದ ಪುಡಿ, ದಂಡಕಾಂತ, ಕಾಗದದ ಹಾಳೆ",
+    "scientific_significance": "Illustrates the experimental procedure to visualize magnetic field lines and force concentration.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_6_chapter_4_concept_3_chunk_009"
+}

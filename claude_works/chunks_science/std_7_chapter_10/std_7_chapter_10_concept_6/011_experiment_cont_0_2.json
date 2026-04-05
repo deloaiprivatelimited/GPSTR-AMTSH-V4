@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಸ್ವಿಚ್ 'ON' ಮಾಡಿದಾಗ",
+  "script": "ಈಗ ನಾವು ಮೊಳೆಯ ತುದಿಯನ್ನು ಕೆಲವು ಗುಂಡುಸೂಜಿಗಳ ಬಳಿ ತರೋಣ. ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ಏನೂ ಆಗುವುದಿಲ್ಲ, ಸರಿ ತಾನೇ? ಈಗ, ಸ್ವಿಚ್ ಅನ್ನು 'ON' ಸ್ಥಿತಿಗೆ ತನ್ನಿ. ಇದರಿಂದ ಮಂಡಲದಲ್ಲಿ ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಹರಿಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈಗ ಮತ್ತೊಮ್ಮೆ ಮೊಳೆಯ ತುದಿಯನ್ನು ಗುಂಡುಸೂಜಿಗಳ ಬಳಿ ತನ್ನಿ. ಆಶ್ಚರ್ಯ! ಮೊಳೆಯು ಗುಂಡುಸೂಜಿಗಳನ್ನು ಆಕರ್ಷಿಸುತ್ತಿದೆ. ಅಂದರೆ, ಮೊಳೆಯು ಈಗ ಒಂದು ಕಾಂತದಂತೆ ವರ್ತಿಸುತ್ತಿದೆ. ವಿದ್ಯುತ್ ಪ್ರವಾಹವು ಹರಿದಾಗ, ತಂತಿಯ ಸುರುಳಿಯು ಕಾಂತೀಯ ಗುಣವನ್ನು ಪಡೆದು, ಅದರೊಳಗಿರುವ ಕಬ್ಬಿಣದ ಮೊಳೆಯನ್ನು ಕಾಂತವನ್ನಾಗಿ ಮಾಡಿದೆ.",
+  "script_display": "ಈಗ, ಸ್ವಿಚ್ ಅನ್ನು 'ON' ಸ್ಥಿತಿಗೆ ತನ್ನಿ. ಇದರಿಂದ ಮಂಡಲದಲ್ಲಿ ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಹರಿಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈಗ ಮೊಳೆಯ ತುದಿಯನ್ನು ಗುಂಡುಸೂಜಿಗಳ ಬಳಿ ತನ್ನಿ.",
+  "display_bullets": [
+    "ಸ್ವಿಚ್ 'ON' ಮಾಡಿದಾಗ, ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಹರಿಯುತ್ತದೆ.",
+    "ಮೊಳೆಯು ಗುಂಡುಸೂಜಿಗಳನ್ನು ಆಕರ್ಷಿಸುತ್ತದೆ.",
+    "ವಿದ್ಯುತ್ ಹರಿಯುವಾಗ ಮೊಳೆಯು ಕಾಂತದಂತೆ ವರ್ತಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The electromagnet is now active. The switch in the circuit is shown in the 'ON' (closed) position, and the tip of the iron nail is shown attracting and holding several small pins, demonstrating its magnetic property.",
+    "labels": "ವಿದ್ಯುತ್ಕಾಂತ, ಆಕರ್ಷಿತ ಗುಂಡುಸೂಜಿಗಳು, ಸ್ವಿಚ್ (ON)",
+    "scientific_significance": "Visually confirms the magnetic effect of electric current. The flow of current creates a magnetic field strong enough to magnetize the iron core and attract other ferromagnetic materials.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_10_concept_6_chunk_011"
+}

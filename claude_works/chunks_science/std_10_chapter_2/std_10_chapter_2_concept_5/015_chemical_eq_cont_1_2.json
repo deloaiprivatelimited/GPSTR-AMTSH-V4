@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿವರ್ತಕ ಮತ್ತು ಉತ್ಪನ್ನಗಳು",
+  "script": "ಈ ಅಯಾನೀಕರಣ ಕ್ರಿಯೆಯಲ್ಲಿ, ಪ್ರತಿವರ್ತಕವು ಘನ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಆಗಿದೆ. ಇದು ನೀರಿನಲ್ಲಿ ಕರಗಿದಾಗ, ಎರಡು ಪ್ರಮುಖ ಉತ್ಪನ್ನಗಳು ಉಂಟಾಗುತ್ತವೆ. ಮೊದಲನೆಯದು ಸೋಡಿಯಂ ಅಯಾನು, ಅಂದರೆ Na ಪ್ಲಸ್. ಎರಡನೆಯದು ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಯಾನು, ಅಂದರೆ OH ಮೈನಸ್. ಈ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಯಾನುಗಳ ಬಿಡುಗಡೆಯೇ ಪ್ರತ್ಯಾಮ್ಲದ ಗುಣಗಳಿಗೆ ಕಾರಣವಾಗಿದೆ.",
+  "script_display": "ಈ ಅಯಾನೀಕರಣ ಕ್ರಿಯೆಯಲ್ಲಿ, ಪ್ರತಿವರ್ತಕ ಮತ್ತು ಉತ್ಪನ್ನಗಳನ್ನು ಗಮನಿಸೋಣ:",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕ (Reactant): ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH)",
+    "ಉತ್ಪನ್ನಗಳು (Products): ಸೋಡಿಯಂ ಅಯಾನು (Na⁺) ಮತ್ತು ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಯಾನು (OH⁻)",
+    "ವಿಶೇಷತೆ: OH⁻ ಅಯಾನುಗಳ ಬಿಡುಗಡೆಯು ಪ್ರತ್ಯಾಮ್ಲೀಯ ಗುಣಕ್ಕೆ ಕಾರಣ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_2_concept_5_chunk_015"
+}

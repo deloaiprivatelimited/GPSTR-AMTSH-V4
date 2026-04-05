@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್",
+  "script": "ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ ನೋಡೋಣ. ನಾವು ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಅಂದರೆ ಸುಣ್ಣದ ತಿಳಿನೀರಿನ ಮೂಲಕ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲವನ್ನು ಹಾಯಿಸಿದಾಗ, ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್ ಎಂಬ ಬಿಳಿ ಪ್ರಕ್ಷೇಪ ಮತ್ತು ನೀರು ಉಂಟಾಗುತ್ತದೆ. ಇಲ್ಲಿ, ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಒಂದು ಪ್ರತ್ಯಾಮ್ಲ. ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಒಂದು ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್. ಇವುಗಳ ವರ್ತನೆಯಿಂದ ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್ ಎಂಬ ಲವಣ ಮತ್ತು ನೀರು ಉತ್ಪನ್ನಗಳಾಗಿವೆ.",
+  "script_display": "ನಾವು ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (ಸುಣ್ಣದ ತಿಳಿನೀರು) ಮೂಲಕ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲವನ್ನು ಹಾಯಿಸಿದಾಗ, ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್ ಎಂಬ ಬಿಳಿ ಪ್ರಕ್ಷೇಪ ಮತ್ತು ನೀರು ಉಂಟಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪ್ರತ್ಯಾಮ್ಲ: ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ($Ca(OH)_2$)",
+    "ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್: ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ($CO_2$)",
+    "ಉತ್ಪನ್ನಗಳು: ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್ ($CaCO_3$) + ನೀರು ($H_2O$)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a test tube with limewater (Calcium Hydroxide solution). A delivery tube is bubbling Carbon Dioxide gas into it. The solution is turning milky/cloudy, indicating the formation of a white precipitate (Calcium Carbonate).",
+    "labels": "ಸುಣ್ಣದ ತಿಳಿನೀರು (Ca(OH)₂), ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂), ಬಿಳಿ ಪ್ರಕ್ಷೇಪ (CaCO₃)",
+    "scientific_significance": "This visualizes the classic test for carbon dioxide, which is an example of a base reacting with a non-metallic oxide.",
+    "placeholder_note": "Image to be generated showing CO2 bubbling through limewater, turning it milky."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_2_concept_3_chunk_009"
+}

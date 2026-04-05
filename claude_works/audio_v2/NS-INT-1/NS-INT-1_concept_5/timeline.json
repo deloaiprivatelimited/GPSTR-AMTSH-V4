@@ -1,0 +1,144 @@
+{
+  "module_id": "NS-INT-1_concept_5",
+  "voice": "Aoede",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 12,
+  "total_duration": 673.812,
+  "total_duration_formatted": "11:13",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "NS-INT-1_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪೂರ್ಣಾಂಕಗಳ ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 62.451,
+      "duration": 62.451,
+      "script_words": 79
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 63.051,
+      "end": 87.022,
+      "duration": 23.971,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_5_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಪೂರ್ಣಾಂಕಗಳ ಗುಣಾಕಾರ: ಚಿಹ್ನೆಗಳ ನಿಯಮಗಳು",
+      "type": "concept_explanation",
+      "start": 87.622,
+      "end": 154.913,
+      "duration": 67.291,
+      "script_words": 80
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_5_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ಣಾಂಕಗಳ ಭಾಗಾಕಾರ: ಚಿಹ್ನೆಗಳ ನಿಯಮಗಳು",
+      "type": "concept_explanation",
+      "start": 155.513,
+      "end": 209.804,
+      "duration": 54.291,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_5_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಸೊನ್ನೆಯೊಂದಿಗೆ ಕ್ರಿಯೆಗಳು",
+      "type": "concept_explanation",
+      "start": 210.404,
+      "end": 271.215,
+      "duration": 60.811,
+      "script_words": 72
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_5_chunk_006",
+      "chunk_file": "006_property_1.json",
+      "wav_file": "006_property_1.wav",
+      "slide_title": "1 ರೊಂದಿಗಿನ ಕ್ರಿಯೆಗಳು",
+      "type": "concept_explanation",
+      "start": 271.815,
+      "end": 341.866,
+      "duration": 70.051,
+      "script_words": 96
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_5_chunk_007",
+      "chunk_file": "007_property_cont_1_1.json",
+      "wav_file": "007_property_cont_1_1.wav",
+      "slide_title": "-1 ರೊಂದಿಗಿನ ಕ್ರಿಯೆಗಳು",
+      "type": "concept_explanation",
+      "start": 342.466,
+      "end": 411.757,
+      "duration": 69.291,
+      "script_words": 104
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_5_chunk_008",
+      "chunk_file": "008_example_0.json",
+      "wav_file": "008_example_0.wav",
+      "slide_title": "ಪದ ಸಮಸ್ಯೆ: ಲಾಭ ಮತ್ತು ನಷ್ಟ",
+      "type": "worked_example",
+      "start": 412.357,
+      "end": 458.048,
+      "duration": 45.691,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_5_chunk_009",
+      "chunk_file": "009_example_cont_0_1.json",
+      "wav_file": "009_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ 1",
+      "type": "worked_example",
+      "start": 458.648,
+      "end": 519.579,
+      "duration": 60.931,
+      "script_words": 88
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_5_chunk_010",
+      "chunk_file": "010_example_cont_0_2.json",
+      "wav_file": "010_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ 2",
+      "type": "worked_example",
+      "start": 520.179,
+      "end": 584.63,
+      "duration": 64.451,
+      "script_words": 84
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_5_chunk_011",
+      "chunk_file": "011_example_cont_0_3.json",
+      "wav_file": "011_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 585.23,
+      "end": 611.281,
+      "duration": 26.051,
+      "script_words": 30
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_5_chunk_012",
+      "chunk_file": "012_recap_0.json",
+      "wav_file": "012_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಪೂರ್ಣಾಂಕಗಳ ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರ",
+      "type": "recap",
+      "start": 611.881,
+      "end": 673.212,
+      "duration": 61.331,
+      "script_words": 80
+    }
+  ]
+}

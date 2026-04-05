@@ -1,0 +1,136 @@
+{
+  "module_id": "std_9_chapter_12_concept_4",
+  "chapter_code": "std_9_chapter_12",
+  "voice": "Rasalgethi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:43:11",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "0e8dcded3be23992dd54491063538f2e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 30.211,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 52,
+      "generated_at": "2026-04-02 15:41:02"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "f1ea2af29786b86c142057179b744522",
+      "wav_file": "001_intro_0.wav",
+      "duration": 54.371,
+      "slide_title": "ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ನಿರ್ವಹಣೆ: ಗೊಬ್ಬರ ಮತ್ತು ರಸಗೊಬ್ಬರ",
+      "type": "chunk",
+      "script_words": 85,
+      "generated_at": "2026-04-02 15:41:23"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "c6fb5a413852cdcb6c75ab2f93d7695b",
+      "wav_file": "003_classification_0.wav",
+      "duration": 36.331,
+      "slide_title": "ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ನಿರ್ವಹಣೆ",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 15:41:38"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "f1edfce0c276b11fdf5d8cc57dd502f1",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 39.011,
+      "slide_title": "ಸಾವಯವ ಗೊಬ್ಬರದ ಅನುಕೂಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 15:41:39"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "c6b59d69ddc53143c96db0efce7b30ba",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 44.651,
+      "slide_title": "ಸಾವಯವ ಗೊಬ್ಬರದ ವಿಧಗಳು - 1",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 15:41:51"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "1fab8543c4d026df1c3ca091ef3f2f29",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 37.531,
+      "slide_title": "ಸಾವಯವ ಗೊಬ್ಬರ (Manure)",
+      "type": "concept_explanation",
+      "script_words": 46,
+      "generated_at": "2026-04-02 15:42:10"
+    },
+    "009_classification_cont_0_6.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "9dce3ec80bfaccc2de55757ad9d887a3",
+      "wav_file": "009_classification_cont_0_6.wav",
+      "duration": 42.171,
+      "slide_title": "ರಸಗೊಬ್ಬರಗಳ ಅನಾನುಕೂಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 15:42:21"
+    },
+    "008_classification_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "a90c8f6e13372d7d5ab4dc148b6834f3",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "duration": 47.451,
+      "slide_title": "ರಸಗೊಬ್ಬರಗಳು (Fertilizers)",
+      "type": "concept_explanation",
+      "script_words": 48,
+      "generated_at": "2026-04-02 15:42:43"
+    },
+    "010_classification_cont_0_7.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "e9a6e92bb10534b71dc572345f692ee2",
+      "wav_file": "010_classification_cont_0_7.wav",
+      "duration": 45.651,
+      "slide_title": "ಸಾವಯವ ಗೊಬ್ಬರ vs ರಸಗೊಬ್ಬರ",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 15:42:45"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "7334b0977944abe307427cced8890d37",
+      "wav_file": "011_recap_0.wav",
+      "duration": 53.011,
+      "slide_title": "ಸಾರಾಂಶ: ಗೊಬ್ಬರ ಮತ್ತು ರಸಗೊಬ್ಬರ",
+      "type": "recap",
+      "script_words": 57,
+      "generated_at": "2026-04-02 15:42:49"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "10b430551c10973ca87dea6b51af1a96",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 39.331,
+      "slide_title": "ಸಾವಯವ ಗೊಬ್ಬರದ ವಿಧಗಳು - 2",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 15:43:11"
+    }
+  }
+}

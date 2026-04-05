@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆಗಳು: ರೇಖಾತ್ಮಕ vs ಇತರೆ",
+  "script": "ಈಗ ಕೆಲವು ಉದಾಹರಣೆಗಳ ಮೂಲಕ ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿಗಳಿವೆ. ಉದಾಹರಣೆಗೆ, 2x plus 5. ಇಲ್ಲಿ x ನ ಘಾತ 1. ಹಾಗೆಯೇ, y minus 7. ಇಲ್ಲಿ ಚರಾಕ್ಷರ y ಮತ್ತು ಅದರ ಘಾತ 1. ಮತ್ತು ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ 3, ಟೈಮ್ಸ್ z. ಇಲ್ಲಿ ಸಹಗುಣಕ ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿದ್ದರೂ, ಚರಾಕ್ಷರ z ನ ಘಾತ 1 ಆಗಿದೆ. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ, ರೇಖಾತ್ಮಕವಲ್ಲದ ಬಹುಪದೋಕ್ತಿಗಳನ್ನು ನೋಡಿ. x ಸ್ಕ್ವೇರ್ಡ್ plus 1, ಇದರ ಡಿಗ್ರಿ 2, ಆದ್ದರಿಂದ ಇದು ವರ್ಗ ಬಹುಪದೋಕ್ತಿ. 8, ಇದು ಸ್ಥಿರ ಬಹುಪದೋಕ್ತಿ, ಇದರ ಡಿಗ್ರಿ 0. ಮತ್ತು y ಕ್ಯೂಬ್ಡ್ minus y, ಇದರ ಡಿಗ್ರಿ 3, ಹಾಗಾಗಿ ಇದು ಘನ ಬಹುಪದೋಕ್ತಿ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಗುರುತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ಕೆಲವು ಉದಾಹರಣೆಗಳ ಮೂಲಕ ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿಗಳಿವೆ. ಉದಾಹರಣೆಗೆ, $2x+5$. ಇಲ್ಲಿ $x$ ನ ಘಾತ 1. ಹಾಗೆಯೇ, $y-7$. ಇಲ್ಲಿ ಚರಾಕ್ಷರ $y$ ಮತ್ತು ಅದರ ಘಾತ 1. ಮತ್ತು $\\sqrt{3}z$. ಇಲ್ಲಿ ಸಹಗುಣಕ ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿದ್ದರೂ, ಚರಾಕ್ಷರ $z$ ನ ಘಾತ 1 ಆಗಿದೆ. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ, ರೇಖಾತ್ಮಕವಲ್ಲದ ಬಹುಪದೋಕ್ತಿಗಳನ್ನು ನೋಡಿ. $x^2+1$, ಇದರ ಡಿಗ್ರಿ 2, ಆದ್ದರಿಂದ ಇದು ವರ್ಗ ಬಹುಪದೋಕ್ತಿ. $8$, ಇದು ಸ್ಥಿರ ಬಹುಪದೋಕ್ತಿ, ಇದರ ಡಿಗ್ರಿ 0. ಮತ್ತು $y^3-y$, ಇದರ ಡಿಗ್ರಿ 3, ಹಾಗಾಗಿ ಇದು ಘನ ಬಹುಪದೋಕ್ತಿ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಗುರುತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A two-column table comparing linear polynomials with non-linear ones. Left column header: 'ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿಗಳು (ಡಿಗ್ರಿ 1)'. Right column header: 'ರೇಖಾತ್ಮಕವಲ್ಲದ ಬಹುಪದೋಕ್ತಿಗಳು'. Rows contain examples like '2x+5' vs 'x^2+1', 'y-7' vs '8', and 'sqrt(3)z' vs 'y^3-y'. The degree is mentioned in brackets for non-linear examples. The table should be rendered directly in the visual zone of the slide layout, which is why text_zone is full and visual_zone is none, as the table itself is the primary content managed by the layout template. The script will narrate over this table, pointing out the examples on the left and right sides to explain the difference between linear and non-linear polynomials based on their degree. The table's caption is 'ಉದಾಹರಣೆಗಳು ಮತ್ತು ಪ್ರತಿಯುಧಾಹರಣೆಗಳು'. The headers are ['ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿಗಳು (ಡಿಗ್ರಿ 1)', 'ರೇಖಾತ್ಮಕವಲ್ಲದ ಬಹುಪದೋಕ್ತಿಗಳು'] and the rows are [['$2x+5$', '$x^2+1$ (ಡಿಗ್ರಿ 2)'], ['$y-7$', '$8$ (ಡಿಗ್ರಿ 0)'], ['$\\sqrt{3}z$', '$y^3-y$ (ಡಿಗ್ರಿ 3)']]."
+  },
+  "chunk_id": "ALG-POL-3_concept_1_chunk_035"
+}

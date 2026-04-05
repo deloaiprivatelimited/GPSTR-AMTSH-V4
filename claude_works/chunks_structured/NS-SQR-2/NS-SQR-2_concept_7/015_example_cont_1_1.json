@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1-2",
+  "script": "ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲಿಗೆ ನಾವು 1300 ರ ವರ್ಗಮೂಲವನ್ನು ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ ಕಂಡುಹಿಡಿಯಲು ಪ್ರಯತ್ನಿಸೋಣ. ಈ ವಿಧಾನವನ್ನು ಬಳಸಿದಾಗ, ನಮಗೆ ಭಾಗಲಬ್ಧ 36 ಮತ್ತು ಶೇಷ 4 ಸಿಗುತ್ತದೆ. ಇದರ ಅರ್ಥವೇನು? ಇದರರ್ಥ 36 ರ ವರ್ಗವು 1300 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇದೆ. ಅಂದರೆ, 1300 ಎಂಬುದು 36 ರ ವರ್ಗ ಮತ್ತು 37 ರ ವರ್ಗದ ನಡುವೆ ಇದೆ. ನಾವು ಲೆಕ್ಕ ಮಾಡಿದರೆ, 36 ರ ವರ್ಗ 1296 ಆಗುತ್ತದೆ, ಇದು 1300 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇದೆ.",
+  "script_display": "ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲಿಗೆ ನಾವು 1300 ರ ವರ್ಗಮೂಲವನ್ನು ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ ಕಂಡುಹಿಡಿಯಲು ಪ್ರಯತ್ನಿಸೋಣ. ಈ ವಿಧಾನವನ್ನು ಬಳಸಿದಾಗ, ನಮಗೆ ಭಾಗಲಬ್ಧ 36 ಮತ್ತು ಶೇಷ 4 ಸಿಗುತ್ತದೆ. ಇದರ ಅರ್ಥವೇನು? ಇದರರ್ಥ $36^2 < 1300$. ಅಂದರೆ, 1300 ಎಂಬುದು $36^2$ ಮತ್ತು $37^2$ ನಡುವೆ ಇದೆ. ನಾವು ಲೆಕ್ಕ ಮಾಡಿದರೆ, $36^2 = 1296$ ಆಗುತ್ತದೆ, ಇದು 1300 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Completed long division for the square root of 1300. It clearly shows the quotient as 36 and the final remainder as 4. The calculation (66 * 6 = 396) is visible, showing 400 - 396 = 4.",
+    "labels": "ದೀರ್ಘ ಭಾಗಾಕಾರ, ಭಾಗಲಬ್ಧ, ಶೇಷ, 1300",
+    "mathematical_significance": "ಭಾಗಾಕಾರದ ಫಲಿತಾಂಶವು (ಭಾಗಲಬ್ಧ 36, ಶೇಷ 4) 1300 = 36 ರ ವರ್ಗ ಪ್ಲಸ್ 4 ಎಂದು ತೋರಿಸುವುದಿಲ್ಲ, ಬದಲಾಗಿ 36 ರ ವರ್ಗವು 1300 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ಪೂರ್ಣವರ್ಗ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image showing the completed long division for sqrt(1300)."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "NS-SQR-2_example_6",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ 1300 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು. ಭಾಗಲಬ್ಧ = 36, ಶೇಷ = 4.",
+      "justification": "ಈ ವಿಧಾನವು 1300 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಪೂರ್ಣವರ್ಗವನ್ನು ಮತ್ತು ಶೇಷವನ್ನು ನೀಡುತ್ತದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಫಲಿತಾಂಶವನ್ನು ವಿಶ್ಲೇಷಿಸುವುದು: $36^2 = 1296$. ಆದ್ದರಿಂದ, $36^2 < 1300$.",
+      "justification": "ಶೇಷ 4 ಇರುವುದರಿಂದ, 1300 ಒಂದು ಪೂರ್ಣವರ್ಗವಲ್ಲ ಮತ್ತು ಅದು $36^2$ ಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿದೆ."
+    }
+  ],
+  "chunk_id": "NS-SQR-2_concept_7_chunk_015"
+}

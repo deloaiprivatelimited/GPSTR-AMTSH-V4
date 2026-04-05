@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಪ್ರಕ್ಷೇಪನ ಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಸೋಡಿಯಂ ಸಲ್ಫೇಟ್, ಅಂದರೆ ಎನ್ ಎ ಟೂ ಎಸ್ ಓ ಫೋರ್, ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್, ಅಂದರೆ ಬಿ ಎ ಸಿ ಎಲ್ ಟೂ ಜೊತೆ ವರ್ತಿಸಿದಾಗ, ಬೇರಿಯಂ ಸಲ್ಫೇಟ್, ಅಂದರೆ ಬಿ ಎ ಎಸ್ ಓ ಫೋರ್, ಮತ್ತು ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್, ಅಂದರೆ ಎನ್ ಎ ಸಿ ಎಲ್, ಉತ್ಪನ್ನಗಳಾಗಿ ದೊರೆಯುತ್ತವೆ. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಬೇರಿಯಂ ಸಲ್ಫೇಟ್‌ನ ಪಕ್ಕದಲ್ಲಿ ಎಸ್ ಎಂದು ಬರೆದಿದ್ದೇವೆ, ಅಂದರೆ ಅದು ಘನ ರೂಪದಲ್ಲಿದೆ ಮತ್ತು ಪ್ರಕ್ಷೇಪವಾಗಿದೆ. ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ದ್ರಾವಣದಲ್ಲಿ ಕರಗಿರುತ್ತದೆ.",
+  "script_display": "ಈ ಪ್ರಕ್ಷೇಪನ ಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಸೋಡಿಯಂ ಸಲ್ಫೇಟ್ (Na₂SO₄), ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್ (BaCl₂) ಜೊತೆ ವರ್ತಿಸಿದಾಗ, ಬೇರಿಯಂ ಸಲ್ಫೇಟ್ (BaSO₄) ಮತ್ತು ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ (NaCl) ಉತ್ಪನ್ನಗಳಾಗಿ ದೊರೆಯುತ್ತವೆ. ಇಲ್ಲಿ ಗಮನಿಸಿ, BaSO₄ ಪಕ್ಕದಲ್ಲಿ (s) ಎಂದು ಬರೆದಿದ್ದೇವೆ, ಅಂದರೆ ಅದು ಘನ (solid) ರೂಪದಲ್ಲಿದೆ ಮತ್ತು ಪ್ರಕ್ಷೇಪವಾಗಿದೆ. NaCl ದ್ರಾವಣದಲ್ಲಿ ಕರಗಿರುತ್ತದೆ (aq).",
+  "display_bullets": [
+    "**ಪ್ರತಿವರ್ತಕಗಳು (Reactants):** ಸೋಡಿಯಂ ಸಲ್ಫೇಟ್ (Na₂SO₄) ಮತ್ತು ಬೇರಿಯಂ ಕ್ಲೋರೈಡ್ (BaCl₂). ಇವೆರಡೂ ಜಲೀಯ ದ್ರಾವಣಗಳು (aqueous).",
+    "**ಉತ್ಪನ್ನಗಳು (Products):** ಬೇರಿಯಂ ಸಲ್ಫೇಟ್ (BaSO₄) ಮತ್ತು ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ (NaCl).",
+    "**ಪ್ರಕ್ಷೇಪ (Precipitate):** ಬೇರಿಯಂ ಸಲ್ಫೇಟ್ (BaSO₄) ಒಂದು ಘನ (solid) ವಸ್ತುವಾಗಿದ್ದು, ದ್ರಾವಣದಲ್ಲಿ ಕರಗುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Na_2SO_4(aq) + BaCl_2(aq) \\rightarrow BaSO_4(s) \\downarrow + 2NaCl(aq)",
+    "placeholder_note": "The downward arrow after BaSO4(s) indicates it is a precipitate."
+  },
+  "chunk_id": "std_10_chapter_1_concept_3_chunk_011"
+}

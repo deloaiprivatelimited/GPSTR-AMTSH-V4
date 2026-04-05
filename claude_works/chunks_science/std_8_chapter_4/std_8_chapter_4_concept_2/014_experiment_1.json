@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಜ್ವಲನ ತಾಪದ ಪರಿಕಲ್ಪನೆ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಕುತೂಹಲಕಾರಿ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಜ್ವಲನ ತಾಪದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ವಸ್ತುವು ಬೆಂಕಿ ಹೊತ್ತಿಕೊಳ್ಳಲು ಬೇಕಾದ ಕನಿಷ್ಠ ತಾಪಮಾನವೇ ಜ್ವಲನ ತಾಪ. ಈ ಪ್ರಯೋಗ ಮಾಡಲು ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕು. ನಮಗೆ ಎರಡು ಕಾಗದದ ಬಟ್ಟಲುಗಳು, ಒಂದು ಮೇಣದಬತ್ತಿ ಮತ್ತು ಸ್ವಲ್ಪ ನೀರು ಬೇಕಾಗುತ್ತದೆ. ಈ ಚಟುವಟಿಕೆಯು, ಒಂದು ವಸ್ತುವು ಯಾಕೆ ಮತ್ತು ಯಾವಾಗ ಉರಿಯುತ್ತದೆ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ. ಎಲ್ಲರೂ ಸಿದ್ಧರಿದ್ದೀರಾ? ಹಾಗಾದರೆ, ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಕುತೂಹಲಕಾರಿ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಜ್ವಲನ ತಾಪದ (Ignition Temperature) ಪರಿಕಲ್ಪನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ವಸ್ತುವು ಬೆಂಕಿ ಹೊತ್ತಿಕೊಳ್ಳಲು ಬೇಕಾದ ಕನಿಷ್ಠ ತಾಪಮಾನವೇ ಜ್ವಲನ ತಾಪ. ಈ ಪ್ರಯೋಗ ಮಾಡಲು ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕು. ನಮಗೆ ಎರಡು ಕಾಗದದ ಬಟ್ಟಲುಗಳು, ಒಂದು ಮೇಣದಬತ್ತಿ ಮತ್ತು ಸ್ವಲ್ಪ ನೀರು ಬೇಕಾಗುತ್ತದೆ. ಈ ಚಟುವಟಿಕೆಯು, ಒಂದು ವಸ್ತುವು ಯಾಕೆ ಮತ್ತು ಯಾವಾಗ ಉರಿಯುತ್ತದೆ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ. ಎಲ್ಲರೂ ಸಿದ್ಧರಿದ್ದೀರಾ? ಹಾಗಾದರೆ, ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "display_bullets": [
+    "ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು: ಎರಡು ಕಾಗದದ ಬಟ್ಟಲುಗಳು",
+    "ಒಂದು ಮೇಣದಬತ್ತಿ",
+    "ಸ್ವಲ್ಪ ನೀರು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple setup for the experiment. On a table, there are two paper cups, a lit candle, and a small beaker of water.",
+    "labels": "ಕಾಗದದ ಬಟ್ಟಲುಗಳು, ಮೇಣದಬತ್ತಿ, ನೀರು",
+    "scientific_significance": "Shows the materials required to demonstrate the concept of ignition temperature.",
+    "placeholder_note": "Image to be generated showing the materials for the experiment."
+  },
+  "chunk_id": "std_8_chapter_4_concept_2_chunk_014"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಕಡಿಮೆ ಜೀವವೈವಿಧ್ಯತೆ",
+  "script": "ಈಗ ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಒಂದು ನಗರದ ಉದ್ಯಾನವನವನ್ನು ಯೋಚಿಸಿ. ಅಲ್ಲಿ ಕೆಲವೇ ಜಾತಿಯ ಅಲಂಕಾರಿಕ ಸಸ್ಯಗಳು ಮತ್ತು ಹುಲ್ಲುಹಾಸು ಇರುತ್ತದೆ. ಕೆಲವು ಪಕ್ಷಿಗಳು, ಅಳಿಲುಗಳು ಮತ್ತು ಕೀಟಗಳು ಇರಬಹುದು, ಆದರೆ ಕಾಡಿಗೆ ಹೋಲಿಸಿದರೆ ಇಲ್ಲಿ ಜೀವಿಗಳ ವೈವಿಧ್ಯತೆ ತುಂಬಾ ಕಡಿಮೆ. ಇಲ್ಲಿನ ಜೀವಿಗಳ ನಡುವಿನ ಸರಳ ಸಂಬಂಧಗಳು ಇರುತ್ತವೆ. ಇದನ್ನು ನಾವು ಕಡಿಮೆ ಜೀವವೈವಿಧ್ಯತೆ ಎಂದು ಹೇಳಬಹುದು. ಆದ್ದರಿಂದ, ಜೀವವೈವಿಧ್ಯತೆ ಎಂದರೆ ಕೇವಲ ಜೀವಿಗಳ ಉಪಸ್ಥಿತಿಯಲ್ಲ, ಬದಲಿಗೆ ಅವುಗಳ 'ವೈವಿಧ್ಯತೆ' ಅಥವಾ 'ಬಗೆಗಳು' ಹೆಚ್ಚು ಮುಖ್ಯವಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಒಂದು ನಗರದ ಉದ್ಯಾನವನವನ್ನು (City Park) ಯೋಚಿಸಿ. ಅಲ್ಲಿ ಕೆಲವೇ ಜಾತಿಯ ಅಲಂಕಾರಿಕ ಸಸ್ಯಗಳು ಮತ್ತು ಹುಲ್ಲುಹಾಸು ಇರುತ್ತದೆ. ಕೆಲವು ಪಕ್ಷಿಗಳು, ಅಳಿಲುಗಳು ಮತ್ತು ಕೀಟಗಳು ಇರಬಹುದು, ಆದರೆ ಕಾಡಿಗೆ ಹೋಲಿಸಿದರೆ ಇಲ್ಲಿ ಜೀವಿಗಳ ವೈವಿಧ್ಯತೆ ತುಂಬಾ ಕಡಿಮೆ. ಇಲ್ಲಿನ ಜೀವಿಗಳ ನಡುವಿನ ಸರಳ ಸಂಬಂಧಗಳು ಇರುತ್ತವೆ. ಇದನ್ನು ನಾವು ಕಡಿಮೆ ಜೀವವೈವಿಧ್ಯತೆ (Low Biodiversity) ಎಂದು ಹೇಳಬಹುದು. ಆದ್ದರಿಂದ, ಜೀವವೈವಿಧ್ಯತೆ ಎಂದರೆ ಕೇವಲ ಜೀವಿಗಳ ಉಪಸ್ಥಿತಿಯಲ್ಲ, ಬದಲಿಗೆ ಅವುಗಳ 'ವೈವಿಧ್ಯತೆ' ಅಥವಾ 'ಬಗೆಗಳು' ಹೆಚ್ಚು ಮುಖ್ಯವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹೋಲಿಕೆ: ನಗರದ ಉದ್ಯಾನವನ (City Park).",
+    "ಕೆಲವೇ ಜಾತಿಯ ಸಸ್ಯಗಳು ಮತ್ತು ಪ್ರಾಣಿಗಳು ಇರುತ್ತವೆ.",
+    "ಜೀವಿಗಳ ನಡುವಿನ ಸಂಬಂಧಗಳು ಸರಳವಾಗಿರುತ್ತವೆ.",
+    "ಇದು ಕಡಿಮೆ ಜೀವವೈವಿಧ್ಯತೆಯನ್ನು (Low Biodiversity) ಸೂಚಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple city park with a manicured lawn, a few identical trees, a park bench, and a few pigeons. This represents a low biodiversity environment.",
+    "labels": "ಅಲಂಕಾರಿಕ ಸಸ್ಯ, ಹುಲ್ಲುಹಾಸು, ಪಕ್ಷಿ",
+    "scientific_significance": "Illustrates a simplified, human-managed ecosystem with low species richness, serving as a contrast to a high biodiversity area.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "std_8_chapter_5_concept_2_def_1",
+  "chunk_id": "std_8_chapter_5_concept_2_chunk_005"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಭಿಮುಖ ಬಾಹುಗಳು: ಪರಿಚಯ",
+  "script": "ಈಗ ನಾವು ಚತುರ್ಭುಜದ ಒಂದು ಪ್ರಮುಖ ಭಾಗವಾದ 'ಅಭಿಮುಖ ಬಾಹುಗಳು' ಅಥವಾ ಆಪೋಸಿಟ್ ಸೈಡ್ಸ್ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. 'ಅಭಿಮುಖ' ಎಂದರೆ ಮುಖಾಮುಖಿ ಅಥವಾ ಎದುರುಬದುರು ಇರುವಂಥದ್ದು. ಒಂದು ಚತುರ್ಭುಜದಲ್ಲಿ, ಯಾವ ಬಾಹುಗಳು ಒಂದನ್ನೊಂದು ಮುಟ್ಟುವುದಿಲ್ಲವೋ, ಅಂದರೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಮೂಲೆಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದಿಲ್ಲವೋ, ಅವುಗಳನ್ನು ಅಭಿಮುಖ ಬಾಹುಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇದು ABCD ಎಂಬ ಒಂದು ಚತುರ್ಭುಜ. ಇದರಲ್ಲಿ ಯಾವ ಬಾಹುಗಳು ಅಭಿಮುಖವಾಗಿವೆ ಎಂದು ನಾವು ಮುಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ವಿವರವಾಗಿ ನೋಡೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಚತುರ್ಭುಜದ ಒಂದು ಪ್ರಮುಖ ಭಾಗವಾದ 'ಅಭಿಮುಖ ಬಾಹುಗಳು' (Opposite Sides) ಬಗ್ಗೆ ತಿಳಿಯೋಣ. 'ಅಭಿಮುಖ' ಎಂದರೆ ಮುಖಾಮುಖಿ ಅಥವಾ ಎದುರುಬದುರು ಇರುವಂಥದ್ದು. ಒಂದು ಚತುರ್ಭುಜದಲ್ಲಿ, ಯಾವ ಬಾಹುಗಳು ಒಂದನ್ನೊಂದು ಮುಟ್ಟುವುದಿಲ್ಲವೋ, ಅಂದರೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಮೂಲೆಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದಿಲ್ಲವೋ, ಅವುಗಳನ್ನು ಅಭಿಮುಖ ಬಾಹುಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇದು $ABCD$ ಎಂಬ ಒಂದು ಚತುರ್ಭುಜ. ಇದರಲ್ಲಿ ಯಾವ ಬಾಹುಗಳು ಅಭಿಮುಖವಾಗಿವೆ ಎಂದು ನಾವು ಮುಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ವಿವರವಾಗಿ ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಅಭಿಮುಖ ಬಾಹುಗಳು (Opposite Sides) ಎಂದರೆ ಚತುರ್ಭುಜದಲ್ಲಿ ಎದುರುಬದುರು ಇರುವ ಬಾಹುಗಳು.",
+    "ಈ ಬಾಹುಗಳಿಗೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಮೂಲೆ (common vertex) ಇರುವುದಿಲ್ಲ.",
+    "ಅವು ಒಂದನ್ನೊಂದು ಮುಟ್ಟದೆ, ಪರಸ್ಪರ ದೂರದಲ್ಲಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A generic convex quadrilateral with vertices labeled A, B, C, D in counter-clockwise order. The sides are clearly visible.",
+    "labels": "Vertices A, B, C, D. Sides AB, BC, CD, DA.",
+    "mathematical_significance": "Introduces the basic shape (quadrilateral) for defining opposite sides. No specific properties are highlighted yet.",
+    "placeholder_note": "Image to be generated. A simple, clear drawing of a quadrilateral ABCD."
+  },
+  "chunk_id": "VIS-CON-1_concept_2_chunk_009"
+}

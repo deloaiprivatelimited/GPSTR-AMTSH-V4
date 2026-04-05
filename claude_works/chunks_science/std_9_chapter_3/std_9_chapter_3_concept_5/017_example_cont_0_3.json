@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 4",
+  "script": "ನಾಲ್ಕನೇ ಮತ್ತು ಅಂತಿಮ ಹಂತದಲ್ಲಿ, ನಾವು ಸರಳ ಪೂರ್ಣಾಂಕ ಅನುಪಾತವನ್ನು ಪಡೆಯಬೇಕು. ನಮಗೆ ಸಿಕ್ಕಿರುವ ಅನುಪಾತ ಒಂದಕ್ಕೆ ಒಂದನೇ ಎರಡಾಂಶ. ಇದನ್ನು ಸರಳೀಕರಿಸಲು, ನಾವು ಎರಡೂ ಸಂಖ್ಯೆಗಳನ್ನು ಚಿಕ್ಕ ಪೂರ್ಣಾಂಕವನ್ನು ನೀಡುವ ಸಾಮಾನ್ಯ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸಬೇಕು. ಇಲ್ಲಿ ನಾವು ಎರಡರಿಂದ ಗುಣಿಸೋಣ. ಒಂದನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಿದಾಗ ಎರಡು ಬರುತ್ತದೆ. ಮತ್ತು ಒಂದನೇ ಎರಡಾಂಶವನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಿದಾಗ ಒಂದು ಬರುತ್ತದೆ. ಹೀಗಾಗಿ, ಹೈಡೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳ ಸರಳ ಅನುಪಾತವು ಎರಡಕ್ಕೆ ಒಂದು.",
+  "script_display": "ಹಂತ 4 ರಲ್ಲಿ, ನಾವು ಸರಳ ಪೂರ್ಣಾಂಕ ಅನುಪಾತವನ್ನು ಪಡೆಯಬೇಕು. ನಮಗೆ ಸಿಕ್ಕಿರುವ ಅನುಪಾತ 1 : 1/2. ಇದನ್ನು ಸರಳೀಕರಿಸಲು, ಎರಡೂ ಬದಿಗಳನ್ನು 2 ರಿಂದ ಗುಣಿಸೋಣ.",
+  "display_bullets": [
+    "ಹಂತ 4: ಸರಳ ಪೂರ್ಣಾಂಕ ಅನುಪಾತವನ್ನು ಪಡೆಯುವುದು.",
+    "ಅನುಪಾತ = H : O = 1 : 1/2",
+    "ಸರಳೀಕರಿಸಲು 2 ರಿಂದ ಗುಣಿಸಿ: (1 × 2) : (1/2 × 2) = 2 : 1"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "H : O \\\\ 1 : \\frac{1}{2} \\\\ \\times 2 \\\\ (1 \\times 2) : (\\frac{1}{2} \\times 2) \\\\ 2 : 1",
+    "placeholder_note": "Converting the ratio 1 : 1/2 to a simple whole number ratio 2:1"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_3_example_2",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "ಸರಳ ಪೂರ್ಣಾಂಕ ಅನುಪಾತವನ್ನು ಪಡೆಯುವುದು. (1 × 2) : (1/2 × 2) = 2:1",
+      "justification": "ಅನುಪಾತವನ್ನು ಪೂರ್ಣಾಂಕಗಳಿಗೆ ಪರಿವರ್ತಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_3_concept_5_chunk_017"
+}

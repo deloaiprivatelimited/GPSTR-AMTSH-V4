@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ, ಕಂಪನದ ಕಾಲಾವಧಿ 0.002 ಸೆಕೆಂಡುಗಳು. ಇದರರ್ಥ, ಸೊಳ್ಳೆಯ ರೆಕ್ಕೆಯು ಒಂದು ಪೂರ್ಣ ಕಂಪನವನ್ನು ಮಾಡಲು 0.002 ಸೆಕೆಂಡುಗಳ ಸಮಯವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ, ಕಂಪನದ ಕಾಲಾವಧಿ 0.002 ಸೆಕೆಂಡುಗಳು. ಇದರರ್ಥ, ಸೊಳ್ಳೆಯ ರೆಕ್ಕೆಯು ಒಂದು ಪೂರ್ಣ ಕಂಪನವನ್ನು ಮಾಡಲು 0.002 ಸೆಕೆಂಡುಗಳ ಸಮಯವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸೊಳ್ಳೆಯ ರೆಕ್ಕೆಗಳ ಕಂಪನದ ಕಾಲಾವಧಿ 0.002 ಸೆಕೆಂಡುಗಳು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "T = 0.002 \\text{ s}",
+    "placeholder_note": "Display the final answer prominently."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "std_8_chapter_10_example_2",
+  "final_answer": "ಕಂಪನದ ಕಾಲಾವಧಿ 0.002 ಸೆಕೆಂಡುಗಳು.",
+  "final_answer_display": "T = 0.002 s",
+  "chunk_id": "std_8_chapter_10_concept_4_chunk_032"
+}

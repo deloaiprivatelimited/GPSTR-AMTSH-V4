@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಉರುಳು ಘರ್ಷಣೆ",
+  "script": "ಈಗ ನಾವು ಉರುಳು ಘರ್ಷಣೆಯು ಜಾರು ಘರ್ಷಣೆಗಿಂತ ಹೇಗೆ ಕಡಿಮೆಯಿರುತ್ತದೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಪ್ರಯೋಗಕ್ಕೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೆಲವೇ ಕೆಲವು ವಸ್ತುಗಳು. ನಮಗೆ ಒಂದು ಸಮತಟ್ಟಾದ ಮೇಜು, ಕೆಲವು ದುಂಡಗಿನ ಪೆನ್ಸಿಲ್‌ಗಳು, ಮತ್ತು ಒಂದು ದಪ್ಪವಾದ ಪುಸ್ತಕ ಬೇಕಾಗುತ್ತದೆ. ಈ ಚಟುವಟಿಕೆಯ ಮೂಲಕ, ಒಂದು ವಸ್ತುವನ್ನು ಜಾರಿಸುವುದಕ್ಕಿಂತ ಉರುಳಿಸುವುದು ಏಕೆ ಸುಲಭ ಎಂಬುವುದನ್ನು ನಾವು ಪ್ರಾಯೋಗಿಕವಾಗಿ ನೋಡಲಿದ್ದೇವೆ. ಈ ಪರಿಕಲ್ಪನೆಯು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ, ವಿಶೇಷವಾಗಿ ಚಕ್ರಗಳ ಬಳಕೆಯಲ್ಲಿ ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಉರುಳು ಘರ್ಷಣೆಯು ಜಾರು ಘರ್ಷಣೆಗಿಂತ ಹೇಗೆ ಕಡಿಮೆಯಿರುತ್ತದೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಪ್ರಯೋಗಕ್ಕೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೆಲವೇ ಕೆಲವು ವಸ್ತುಗಳು. ನಮಗೆ ಒಂದು ಸಮತಟ್ಟಾದ ಮೇಜು, ಕೆಲವು ದುಂಡಗಿನ ಪೆನ್ಸಿಲ್‌ಗಳು, ಮತ್ತು ಒಂದು ದಪ್ಪವಾದ ಪುಸ್ತಕ ಬೇಕಾಗುತ್ತದೆ. ಈ ಚಟುವಟಿಕೆಯ ಮೂಲಕ, ಒಂದು ವಸ್ತುವನ್ನು ಜಾರಿಸುವುದಕ್ಕಿಂತ ಉರುಳಿಸುವುದು ಏಕೆ ಸುಲಭ ಎಂಬುವುದನ್ನು ನಾವು ಪ್ರಾಯೋಗಿಕವಾಗಿ ನೋಡಲಿದ್ದೇವೆ. ಈ ಪರಿಕಲ್ಪನೆಯು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ, ವಿಶೇಷವಾಗಿ ಚಕ್ರಗಳ ಬಳಕೆಯಲ್ಲಿ ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಚಟುವಟಿಕೆಯ ಉದ್ದೇಶ: ಉರುಳು ಘರ್ಷಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು.",
+    "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು: ಮೇಜು, ಕೆಲವು ಪೆನ್ಸಿಲ್‌ಗಳು, ದಪ್ಪ ಪುಸ್ತಕ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the rolling friction experiment: a flat table, a few pencils, and a thick book placed nearby.",
+    "labels": "ಮೇಜು, ಪೆನ್ಸಿಲ್‌ಗಳು, ಪುಸ್ತಕ",
+    "scientific_significance": "Illustrates the simple materials required to demonstrate a fundamental physics concept.",
+    "placeholder_note": "Image to be generated showing the required materials for the experiment."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_8_chapter_9_concept_2_chunk_014"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕಬ್ಬಿಣ ಮತ್ತು ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಕ್ರಿಯೆ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಆಸಕ್ತಿದಾಯಕ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಕಬ್ಬಿಣದ ವಸ್ತುವನ್ನು, ಉದಾಹರಣೆಗೆ ಒಂದು ಮೊಳೆಯನ್ನು, ನೀಲಿ ಬಣ್ಣದ ಕಾಪರ್ ಸಲ್ಫೇಟ್ ದ್ರಾವಣದಲ್ಲಿ ಇಟ್ಟಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಆಸಕ್ತಿದಾಯಕ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಕಬ್ಬಿಣದ ವಸ್ತುವನ್ನು, ಉದಾಹರಣೆಗೆ ಒಂದು ಮೊಳೆಯನ್ನು, ನೀಲಿ ಬಣ್ಣದ ಕಾಪರ್ ಸಲ್ಫೇಟ್ (CuSO₄) ದ್ರಾವಣದಲ್ಲಿ ಇಟ್ಟಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಚಿತ್ರ 5.4 ರ ಆರಂಭಿಕ ಹಂತ: ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ನೀಲಿ ಬಣ್ಣದ ಕಾಪರ್ ಸಲ್ಫೇಟ್ ದ್ರಾವಣವಿದೆ. ಒಂದು ಕಬ್ಬಿಣದ ಮೊಳೆಯನ್ನು ಆ ದ್ರಾವಣದಲ್ಲಿ ಮುಳುಗಿಸಲಾಗುತ್ತಿದೆ.",
+    "labels": "ಕಬ್ಬಿಣದ ಮೊಳೆ, ಕಾಪರ್ ಸಲ್ಫೇಟ್ ದ್ರಾವಣ (ನೀಲಿ)",
+    "scientific_significance": "ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆಯ ಆರಂಭಿಕ ಸ್ಥಿತಿಯನ್ನು ತೋರಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಪ್ರತಿವರ್ತಕಗಳು ಪರಸ್ಪರ ಸಂಪರ್ಕಕ್ಕೆ ಬರುತ್ತವೆ.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_021"
+}

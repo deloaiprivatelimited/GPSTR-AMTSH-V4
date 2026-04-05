@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಮೊದಲನೇ ನಿಯಮ: ಪತನ ಕೋನ = ಪ್ರತಿಫಲನ ಕೋನ",
+  "script": "ಪ್ರತಿಫಲನದ ಮೊದಲನೇ ನಿಯಮವು ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಅದು ಹೇಳುವುದೇನೆಂದರೆ, ಪತನ ಕೋನವು ಯಾವಾಗಲೂ ಪ್ರತಿಫಲನ ಕೋನಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ಬೆಳಕಿನ ಕಿರಣವು ಒಂದು ಮೇಲ್ಮೈಗೆ ಯಾವ ಕೋನದಲ್ಲಿ ಬಡಿಯುತ್ತದೆಯೋ, ಅದೇ ಕೋನದಲ್ಲಿ ಅದು ಹಿಂತಿರುಗುತ್ತದೆ. ಇದನ್ನು ನಾವು ಗಣಿತದ ರೂಪದಲ್ಲಿ ಐ ಕೋನವು ಆರ್ ಕೋನಕ್ಕೆ ಸಮ ಎಂದು ಬರೆಯಬಹುದು. ಇದೊಂದು ಪ್ರಕೃತಿಯ ಮೂಲಭೂತ ಸಮ್ಮಿತಿಯಾಗಿದೆ.",
+  "script_display": "ಪ್ರತಿಫಲನದ ಮೊದಲನೇ ನಿಯಮವು ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಅದು ಹೇಳುವುದೇನೆಂದರೆ, ಪತನ ಕೋನವು (∠i) ಯಾವಾಗಲೂ ಪ್ರತಿಫಲನ ಕೋನಕ್ಕೆ (∠r) ಸಮನಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ಬೆಳಕಿನ ಕಿರಣವು ಒಂದು ಮೇಲ್ಮೈಗೆ ಯಾವ ಕೋನದಲ್ಲಿ ಬಡಿಯುತ್ತದೆಯೋ, ಅದೇ ಕೋನದಲ್ಲಿ ಅದು ಹಿಂತಿರುಗುತ್ತದೆ. ಇದನ್ನು ನಾವು ಗಣಿತದ ರೂಪದಲ್ಲಿ ∠i = ∠r ಎಂದು ಬರೆಯಬಹುದು. ಇದೊಂದು ಪ್ರಕೃತಿಯ ಮೂಲಭೂತ ಸಮ್ಮಿತಿಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪತನ ಕೋನ (∠i) ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನ (∠r) ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತವೆ.",
+    "ಗಣಿತೀಯವಾಗಿ, ಇದನ್ನು ∠i = ∠r ಎಂದು ವ್ಯಕ್ತಪಡಿಸಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\angle i = \\angle r",
+    "placeholder_note": "Formula box showing angle i equals angle r"
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_8_chapter_13_concept_1_chunk_016"
+}

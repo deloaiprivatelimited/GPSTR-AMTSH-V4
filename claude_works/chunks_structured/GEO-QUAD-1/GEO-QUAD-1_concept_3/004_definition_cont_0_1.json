@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯೆ: ತ್ರಾಪಿಜ್ಯ",
+  "script": "ತ್ರಾಪಿಜ್ಯದ ನಿಖರವಾದ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿರುವ ಚತುರ್ಭುಜವನ್ನು ತ್ರಾಪಿಜ್ಯ ಎನ್ನುತ್ತಾರೆ. ಇಲ್ಲಿ 'ಒಂದು ಜೊತೆ' ಎನ್ನುವ ಪದ ಬಹಳ ಮುಖ್ಯ. ಇದರರ್ಥ, ಚತುರ್ಭುಜದ ನಾಲ್ಕು ಬಾಹುಗಳಲ್ಲಿ, ಕೇವಲ ಎರಡು ಅಭಿಮುಖ ಬಾಹುಗಳು ಮಾತ್ರ ಒಂದಕ್ಕೊಂದು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡಬಹುದು, ಎಬಿ ಮತ್ತು ಡಿಸಿ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿವೆ, ಆದರೆ ಎಡಿ ಮತ್ತು ಬಿಸಿ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿಲ್ಲ. ಈ ಒಂದು ಜೊತೆ ಸಮಾಂತರ ಬಾಹುಗಳ ಲಕ್ಷಣವೇ ತ್ರಾಪಿಜ್ಯದ ಮೂಲಭೂತ ಗುರುತು.",
+  "script_display": "ತ್ರಾಪಿಜ್ಯದ ನಿಖರವಾದ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. **ವ್ಯಾಖ್ಯೆ:** ಒಂದು ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿರುವ ಚತುರ್ಭುಜವನ್ನು **ತ್ರಾಪಿಜ್ಯ** ಎನ್ನುತ್ತಾರೆ. ಇಲ್ಲಿ 'ಒಂದು ಜೊತೆ' ಎನ್ನುವ ಪದ ಬಹಳ ಮುಖ್ಯ. ಇದರರ್ಥ, ಚತುರ್ಭುಜದ ನಾಲ್ಕು ಬಾಹುಗಳಲ್ಲಿ, ಕೇವಲ ಎರಡು ಅಭಿಮುಖ ಬಾಹುಗಳು ಮಾತ್ರ ಒಂದಕ್ಕೊಂದು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡಬಹುದು, $AB$ ಮತ್ತು $DC$ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿವೆ, ಆದರೆ $AD$ ಮತ್ತು $BC$ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿಲ್ಲ. ಈ ಒಂದು ಜೊತೆ ಸಮಾಂತರ ಬಾಹುಗಳ ಲಕ್ಷಣವೇ ತ್ರಾಪಿಜ್ಯದ ಮೂಲಭೂತ ಗುರುತು.",
+  "display_bullets": [
+    "**ವ್ಯಾಖ್ಯೆ:** ಒಂದು ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿರುವ ಚತುರ್ಭುಜವನ್ನು **ತ್ರಾಪಿಜ್ಯ** ಎನ್ನುತ್ತಾರೆ.",
+    "ಇದರರ್ಥ, ನಾಲ್ಕು ಬಾಹುಗಳಲ್ಲಿ, ಕೇವಲ ಎರಡು ಅಭಿಮುಖ ಬಾಹುಗಳು ಮಾತ್ರ ಒಂದಕ್ಕೊಂದು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple trapezium ABCD, with arrows on sides AB and DC to indicate they are parallel. The non-parallel sides are AD and BC.",
+    "labels": "A, B, C, D, AB || DC",
+    "mathematical_significance": "Visual representation of the definition of a trapezium.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-QUAD-1_concept_3_chunk_004"
+}

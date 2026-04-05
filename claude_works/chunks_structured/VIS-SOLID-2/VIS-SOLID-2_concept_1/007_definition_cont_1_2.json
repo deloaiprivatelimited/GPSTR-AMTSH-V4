@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಘನಾಕೃತಿಗಳಿಗೆ ಉದಾಹರಣೆಗಳು",
+  "script": "ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಅನೇಕ ವಸ್ತುಗಳು ಘನಾಕೃತಿಗಳೇ ಆಗಿವೆ. ಉದಾಹರಣೆಗೆ, ನೀವು ಓದುವ ಪುಸ್ತಕ, ಆಟವಾಡುವ ದಾಳ, ಒಂದು ಚೆಂಡು, ಅಥವಾ ನೀವು ತಿನ್ನುವ ಐಸ್ ಕ್ರೀಮ್ ಕೋನ್. ಇವೆಲ್ಲವೂ ಘನಾಕೃತಿಗಳು. ರೇಖಾಗಣಿತದಲ್ಲಿ ನಾವು ಕೆಲವು ನಿರ್ದಿಷ್ಟ ಘನಾಕೃತಿಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುತ್ತೇವೆ. ಅವುಗಳೆಂದರೆ ಘನ ಅಂದರೆ ಕ್ಯೂಬ್, ಆಯತಘನ ಅಂದರೆ ಕ್ಯೂಬಾಯ್ಡ್, ಗೋಳ ಅಂದರೆ ಸ್ಫಿಯರ್, ಶಂಕು ಅಂದರೆ ಕೋನ್, ಮತ್ತು ಸ್ತಂಭಾಕೃತಿ ಅಂದರೆ ಸಿಲಿಂಡರ್. ಈ ಎಲ್ಲಾ ಆಕೃತಿಗಳಿಗೂ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರವಿದೆ.",
+  "script_display": "ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಅನೇಕ ವಸ್ತುಗಳು ಘನಾಕೃತಿಗಳೇ ಆಗಿವೆ. ಉದಾಹರಣೆಗೆ, ನೀವು ಓದುವ ಪುಸ್ತಕ, ಆಟವಾಡುವ ದಾಳ, ಒಂದು ಚೆಂಡು, ಅಥವಾ ನೀವು ತಿನ್ನುವ ಐಸ್ ಕ್ರೀಮ್ ಕೋನ್. ಇವೆಲ್ಲವೂ ಘನಾಕೃತಿಗಳು. ರೇಖಾಗಣಿತದಲ್ಲಿ ನಾವು ಕೆಲವು ನಿರ್ದಿಷ್ಟ ಘನಾಕೃತಿಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುತ್ತೇವೆ. ಅವುಗಳೆಂದರೆ ಘನ (Cube), ಆಯತಘನ (Cuboid), ಗೋಳ (Sphere), ಶಂಕು (Cone), ಮತ್ತು ಸ್ತಂಭಾಕೃತಿ (Cylinder). ಈ ಎಲ್ಲಾ ಆಕೃತಿಗಳಿಗೂ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರವಿದೆ.",
+  "display_bullets": [
+    "ನೈಜ ಪ್ರಪಂಚದ ಉದಾಹರಣೆಗಳು: ಪುಸ್ತಕ, ದಾಳ, ಚೆಂಡು, ಐಸ್ ಕ್ರೀಮ್ ಕೋನ್.",
+    "ರೇಖಾಗಣಿತದ ಉದಾಹರಣೆಗಳು: ಘನ (Cube), ಆಯತಘನ (Cuboid), ಗೋಳ (Sphere), ಶಂಕು (Cone), ಸ್ತಂಭಾಕೃತಿ (Cylinder)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collection of colorful 3D geometric shapes on a white background. The image should include a cube, a cuboid, a sphere, a cone, and a cylinder. Each shape should be clearly identifiable and labeled in Kannada.",
+    "labels": "ಘನ, ಆಯತಘನ, ಗೋಳ, ಶಂಕು, ಸ್ತಂಭಾಕೃತಿ",
+    "mathematical_significance": "Provides clear visual examples of common solid shapes discussed in the script, helping students associate the terms with their corresponding geometric forms.",
+    "placeholder_note": "Image to be generated showing the listed 3D shapes."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "VIS-SOLID-2_concept_1_chunk_007"
+}

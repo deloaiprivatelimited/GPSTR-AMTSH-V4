@@ -1,0 +1,169 @@
+{
+  "module_id": "ALG-EXP-2_concept_3",
+  "merge_code": "ALG-EXP-2",
+  "voice": "Schedar",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 14,
+  "ok_count": 14,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:20:42",
+  "chunks": {
+    "005_example_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "ab2df9594a7d7ce976bd7105f45475fc",
+      "wav_file": "005_example_0.wav",
+      "duration": 27.571,
+      "slide_title": "ಉದಾಹರಣೆ: ಆಯತದ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "script_words": 37,
+      "generated_at": "2026-03-30 14:17:27"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "1b8f50ef9bdf6620451c9ee91a314071",
+      "wav_file": "001_intro_0.wav",
+      "duration": 40.411,
+      "slide_title": "ಏಕಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರ",
+      "type": "intro",
+      "script_words": 59,
+      "generated_at": "2026-03-30 14:17:37"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "33d9f2a3cca11d194fc78514e1e979b9",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 40.811,
+      "slide_title": "ಪೂರ್ವ-ಅವಶ್ಯಕತೆಗಳು",
+      "type": "intro",
+      "script_words": 45,
+      "generated_at": "2026-03-30 14:17:38"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "eabb57422c6cc32cb963d103068cf1e5",
+      "wav_file": "003_property_0.wav",
+      "duration": 47.011,
+      "slide_title": "ಏಕಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರದ ನಿಯಮ",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-03-30 14:17:44"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "47a95669dffb9fb73d2ddac68d3ca9da",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 60.891,
+      "slide_title": "ಘಾತಾಂಕಗಳ ನಿಯಮ",
+      "type": "concept_explanation",
+      "script_words": 109,
+      "generated_at": "2026-03-30 14:17:51"
+    },
+    "009_example_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "affb1fc17de996f4545b2360678f999d",
+      "wav_file": "009_example_1.wav",
+      "duration": 24.851,
+      "slide_title": "ಉದಾಹರಣೆ: ಆಯತಾಕಾರದ ಪೆಟ್ಟಿಗೆಯ ಗಾತ್ರ",
+      "type": "worked_example",
+      "script_words": 34,
+      "generated_at": "2026-03-30 14:18:27"
+    },
+    "010_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "d15c44e03c9bbf6fe88a44a46039c631",
+      "wav_file": "010_example_cont_1_1.wav",
+      "duration": 47.411,
+      "slide_title": "ಪರಿಹಾರ: ಮೊದಲ ಪೆಟ್ಟಿಗೆ (i)",
+      "type": "worked_example",
+      "script_words": 75,
+      "generated_at": "2026-03-30 14:18:41"
+    },
+    "008_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "3ad6954247e51717c5df50f97a330087",
+      "wav_file": "008_example_cont_0_3.wav",
+      "duration": 36.411,
+      "slide_title": "ಪೂರ್ಣಗೊಂಡ ಕೋಷ್ಟಕ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "script_words": 43,
+      "generated_at": "2026-03-30 14:19:34"
+    },
+    "012_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "1ebc3277cbc88f765fcdcf9871727fe0",
+      "wav_file": "012_example_cont_1_3.wav",
+      "duration": 50.971,
+      "slide_title": "ಪರಿಹಾರ: ಮೂರನೇ ಪೆಟ್ಟಿಗೆ (iii)",
+      "type": "worked_example",
+      "script_words": 73,
+      "generated_at": "2026-03-30 14:19:42"
+    },
+    "011_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "0c398175658c5d9c3e36ad2fd1d7aa44",
+      "wav_file": "011_example_cont_1_2.wav",
+      "duration": 44.491,
+      "slide_title": "ಪರಿಹಾರ: ಎರಡನೇ ಪೆಟ್ಟಿಗೆ (ii)",
+      "type": "worked_example",
+      "script_words": 92,
+      "generated_at": "2026-03-30 14:19:43"
+    },
+    "006_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "de0b727964d430f0f5836b4e102bc281",
+      "wav_file": "006_example_cont_0_1.wav",
+      "duration": 65.731,
+      "slide_title": "ಮೊದಲ ಎರಡು ಜೋಡಿಗಳ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "script_words": 92,
+      "generated_at": "2026-03-30 14:19:59"
+    },
+    "007_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "43058793156735929f4cf45b3bd35719",
+      "wav_file": "007_example_cont_0_2.wav",
+      "duration": 68.531,
+      "slide_title": "ಕೊನೆಯ ಎರಡು ಜೋಡಿಗಳ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "script_words": 112,
+      "generated_at": "2026-03-30 14:20:01"
+    },
+    "014_recap_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "feaf90f521a45b71f7a15cc1c237bf0d",
+      "wav_file": "014_recap_0.wav",
+      "duration": 37.931,
+      "slide_title": "ಸಾರಾಂಶ: ಏಕಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರ",
+      "type": "recap",
+      "script_words": 58,
+      "generated_at": "2026-03-30 14:20:35"
+    },
+    "013_example_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "a226d612d5134d7dcf06fa922f95756e",
+      "wav_file": "013_example_cont_1_4.wav",
+      "duration": 43.651,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 56,
+      "generated_at": "2026-03-30 14:20:42"
+    }
+  }
+}

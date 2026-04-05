@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಕರ್ಣಗಳ ಲಕ್ಷಣ",
+  "script": "ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜವನ್ನು ಗುರುತಿಸಲು ಇನ್ನೊಂದು ಸುಲಭವಾದ ವಿಧಾನವಿದೆ. ಅದು ಅದರ ಕರ್ಣಗಳನ್ನು ನೋಡುವುದು. ಒಂದು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದಲ್ಲಿ, ನೀವು ಯಾವುದೇ ಎರಡು ಶೃಂಗಗಳನ್ನು ಸೇರಿಸಿ ಕರ್ಣವನ್ನು ಎಳೆದರೆ, ಆ ಕರ್ಣವು ಸಂಪೂರ್ಣವಾಗಿ ಬಹುಭುಜದ ಒಳಗೆ ಇರುತ್ತದೆ. ಅದು ಆಕೃತಿಯ ಗಡಿಯನ್ನು ದಾಟಿ ಎಂದಿಗೂ ಹೊರಗೆ ಹೋಗುವುದಿಲ್ಲ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ನಾವು ಬೇರೆ ಬೇರೆ ಮೂಲೆಗಳನ್ನು ಸೇರಿಸಿ ಕರ್ಣಗಳನ್ನು ಎಳೆದಿದ್ದೇವೆ, ಮತ್ತು ಅವೆಲ್ಲವೂ ಆಕೃತಿಯ ಒಳಗೆಯೇ ಇವೆ. ಇದು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದ ಒಂದು ಖಚಿತವಾದ ಲಕ್ಷಣವಾಗಿದೆ.",
+  "script_display": "ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜವನ್ನು ಗುರುತಿಸಲು ಇನ್ನೊಂದು ಸುಲಭವಾದ ವಿಧಾನವಿದೆ. ಅದು ಅದರ ಕರ್ಣಗಳನ್ನು (diagonals) ನೋಡುವುದು. ಒಂದು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದಲ್ಲಿ, ನೀವು ಯಾವುದೇ ಎರಡು ಶೃಂಗಗಳನ್ನು ಸೇರಿಸಿ ಕರ್ಣವನ್ನು ಎಳೆದರೆ, ಆ ಕರ್ಣವು ಸಂಪೂರ್ಣವಾಗಿ ಬಹುಭುಜದ ಒಳಗೆ ಇರುತ್ತದೆ. ಅದು ಆಕೃತಿಯ ಗಡಿಯನ್ನು ದಾಟಿ ಎಂದಿಗೂ ಹೊರಗೆ ಹೋಗುವುದಿಲ್ಲ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ನಾವು ಬೇರೆ ಬೇರೆ ಮೂಲೆಗಳನ್ನು ಸೇರಿಸಿ ಕರ್ಣಗಳನ್ನು ಎಳೆದಿದ್ದೇವೆ, ಮತ್ತು ಅವೆಲ್ಲವೂ ಆಕೃತಿಯ ಒಳಗೆಯೇ ಇವೆ. ಇದು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದ ಒಂದು ಖಚಿತವಾದ ಲಕ್ಷಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಯಾವುದೇ ಕರ್ಣವು ಸಂಪೂರ್ಣವಾಗಿ ಬಹುಭುಜದ ಒಳಗೆ ಇರುತ್ತದೆ.",
+    "ಕರ್ಣಗಳು ಆಕೃತಿಯ ಗಡಿಯನ್ನು ದಾಟುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same convex hexagon from the previous slide, but now with 2-3 different diagonals drawn inside it. The diagonals should connect non-adjacent vertices and be clearly contained within the polygon's boundaries.",
+    "labels": "ಕರ್ಣಗಳು ಒಳಭಾಗದಲ್ಲಿವೆ (Diagonals are internal)",
+    "mathematical_significance": "Visually demonstrates the key property of diagonals in a convex polygon, reinforcing the definition.",
+    "placeholder_note": "Image to be generated for a convex hexagon with internal diagonals."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_1_chunk_020"
+}

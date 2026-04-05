@@ -1,0 +1,180 @@
+{
+  "module_id": "std_7_chapter_2_concept_4",
+  "chapter_code": "std_7_chapter_2",
+  "voice": "Alnilam",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 15,
+  "ok_count": 15,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:54:22",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "8b93ddff2d8b471a7884e72e4bd6047a",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 20.771,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 31,
+      "generated_at": "2026-04-02 13:51:35"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "60d12db68835f62cc559fec93f631f04",
+      "wav_file": "001_intro_0.wav",
+      "duration": 55.051,
+      "slide_title": "ಬಾಯಿ, ಹಲ್ಲುಗಳು ಮತ್ತು ನಾಲಿಗೆ",
+      "type": "chunk",
+      "script_words": 81,
+      "generated_at": "2026-04-02 13:51:56"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "abc5738ab7c71dff921d0e9162d13647",
+      "wav_file": "003_definition_0.wav",
+      "duration": 44.451,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಆಹಾರ ಸೇವನೆ (Ingestion)",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:52:17"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "ee52338bc3e7fa30f4c5f1a93b81bef8",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 44.931,
+      "slide_title": "ಆಹಾರ ಸೇವನೆ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "definition",
+      "script_words": 64,
+      "generated_at": "2026-04-02 13:52:19"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "f1847fbb27813c066333661ed4ec001a",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 48.771,
+      "slide_title": "ಹೋಲಿಕೆ: ಆಹಾರ ಸೇವನೆ vs. ಜೀರ್ಣಕ್ರಿಯೆ",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:52:23"
+    },
+    "007_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "cfe864b6d0ae042fd1e6f131a7c6cd71",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "duration": 39.691,
+      "slide_title": "ಹಲ್ಲುಗಳ ವಿಧಗಳು ಮತ್ತು ಕಾರ್ಯಗಳು - ಭಾಗ 2",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 13:52:45"
+    },
+    "006_classification_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "e90bf9a7aa67450de7d233d15577fcec",
+      "wav_file": "006_classification_0.wav",
+      "duration": 55.691,
+      "slide_title": "ಹಲ್ಲುಗಳ ವಿಧಗಳು ಮತ್ತು ಕಾರ್ಯಗಳು - ಭಾಗ 1",
+      "type": "concept_explanation",
+      "script_words": 74,
+      "generated_at": "2026-04-02 13:52:54"
+    },
+    "009_classification_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "faef3709a6393bb430d37c9c6ee4fc61",
+      "wav_file": "009_classification_cont_1_1.wav",
+      "duration": 38.811,
+      "slide_title": "ಹಲ್ಲುಗಳ ಜೀವನಚಕ್ರ: ಶಾಶ್ವತ ಹಲ್ಲುಗಳು",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:53:16"
+    },
+    "008_classification_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "267c4b99d93fe8374eec53b87cac3b77",
+      "wav_file": "008_classification_1.wav",
+      "duration": 37.211,
+      "slide_title": "ಹಲ್ಲುಗಳ ಜೀವನಚಕ್ರ: ಹಾಲು ಹಲ್ಲುಗಳು",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:53:16"
+    },
+    "010_experiment_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "022a93fd45e904d657d327d69d43afe0",
+      "wav_file": "010_experiment_0.wav",
+      "duration": 36.091,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಪಿಷ್ಟದ ಮೇಲೆ ಲಾಲಾರಸದ ಪರಿಣಾಮ",
+      "type": "experiment_activity",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:53:18"
+    },
+    "011_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "d44ca903400fb6daf5620a7e6698c906",
+      "wav_file": "011_experiment_cont_0_1.wav",
+      "duration": 36.411,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 1 ರಿಂದ 3",
+      "type": "experiment_activity",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:53:45"
+    },
+    "014_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "4370b64b0b3d876723e4354d52db6e75",
+      "wav_file": "014_experiment_cont_0_4.wav",
+      "duration": 54.371,
+      "slide_title": "ತೀರ್ಮಾನ: ಲಾಲಾರಸದ ಕಾರ್ಯ",
+      "type": "experiment_activity",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:53:56"
+    },
+    "013_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "6c5f5e6ccbe8f9f07060abf50168d05f",
+      "wav_file": "013_experiment_cont_0_3.wav",
+      "duration": 35.371,
+      "slide_title": "ವೀಕ್ಷಣೆ: ಏನನ್ನು ಗಮನಿಸಿದೆವು?",
+      "type": "experiment_activity",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:54:11"
+    },
+    "012_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "69ddb605a98271ba7753fae5a4de329f",
+      "wav_file": "012_experiment_cont_0_2.wav",
+      "duration": 37.651,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 4 ಮತ್ತು 5",
+      "type": "experiment_activity",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:54:13"
+    },
+    "015_recap_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "85159359aaf685792fe7714955633f77",
+      "wav_file": "015_recap_0.wav",
+      "duration": 39.011,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:54:22"
+    }
+  }
+}

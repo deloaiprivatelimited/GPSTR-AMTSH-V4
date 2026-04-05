@@ -1,0 +1,79 @@
+{
+  "module_id": "std_6_chapter_8_concept_1",
+  "chapter_code": "std_6_chapter_8",
+  "voice": "Sadachbia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 246.826,
+  "total_duration_formatted": "4:06",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_8_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 54.971,
+      "duration": 54.971,
+      "script_words": 84
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_1_chunk_002",
+      "chunk_file": "002_classification_0.json",
+      "wav_file": "002_classification_0.wav",
+      "slide_title": "ನೀರಿನ ಮೂರು ಭೌತಿಕ ಸ್ಥಿತಿಗಳು",
+      "type": "concept_explanation",
+      "start": 55.571,
+      "end": 84.062,
+      "duration": 28.491,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_1_chunk_003",
+      "chunk_file": "003_classification_cont_0_1.json",
+      "wav_file": "003_classification_cont_0_1.wav",
+      "slide_title": "ಘನ ಸ್ಥಿತಿ: ಮಂಜುಗಡ್ಡೆ",
+      "type": "concept_explanation",
+      "start": 84.662,
+      "end": 126.513,
+      "duration": 41.851,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_1_chunk_004",
+      "chunk_file": "004_classification_cont_0_2.json",
+      "wav_file": "004_classification_cont_0_2.wav",
+      "slide_title": "ದ್ರವ ಸ್ಥಿತಿ: ನೀರು",
+      "type": "concept_explanation",
+      "start": 127.113,
+      "end": 164.444,
+      "duration": 37.331,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_1_chunk_005",
+      "chunk_file": "005_classification_cont_0_3.json",
+      "wav_file": "005_classification_cont_0_3.wav",
+      "slide_title": "ಅನಿಲ ಸ್ಥಿತಿ: ನೀರಾವಿ",
+      "type": "concept_explanation",
+      "start": 165.044,
+      "end": 206.775,
+      "duration": 41.731,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_1_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 207.375,
+      "end": 246.226,
+      "duration": 38.851,
+      "script_words": 58
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಗೊಂದಲ ಬೇಡ: ಋಣ ಪೂರ್ಣಾಂಕಗಳನ್ನು ಗುರುತಿಸಿ",
+  "script": "ಈಗ ಒಂದು ಸಾಮಾನ್ಯ ಗೊಂದಲವನ್ನು ನಿವಾರಿಸೋಣ. ಋಣ ಚಿಹ್ನೆ ಇರುವ ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳೂ ಋಣ ಪೂರ್ಣಾಂಕಗಳಲ್ಲ. ಎಡಭಾಗದಲ್ಲಿರುವ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡಿ: ಮೈನಸ್ ಐದು, ಮೈನಸ್ ಹದಿನೇಳು, ಮತ್ತು ಮೈನಸ್ ಇನ್ನೂರು. ಇವು ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳಾಗಿದ್ದು, ಋಣ ಚಿಹ್ನೆಯನ್ನು ಹೊಂದಿರುವುದರಿಂದ ಇವು ಋಣ ಪೂರ್ಣಾಂಕಗಳು. ಈಗ ಬಲಭಾಗವನ್ನು ಗಮನಿಸಿ: ಮೈನಸ್ ಮೂರು ಪಾಯಿಂಟ್ ಐದು ಒಂದು ದಶಮಾಂಶ ಸಂಖ್ಯೆ, ಮೈನಸ್ ಒಂದು ಬೈ ಎರಡು ಒಂದು ಭಿನ್ನರಾಶಿ. ಇವು ಪೂರ್ಣಾಂಕಗಳಲ್ಲ. ಹಾಗೆಯೇ, ಸೊನ್ನೆಯು ಧನವೂ ಅಲ್ಲ, ಋಣವೂ ಅಲ್ಲ. ಆದ್ದರಿಂದ, ಇವುಗಳನ್ನು ನಾವು ಋಣ ಪೂರ್ಣಾಂಕಗಳೆಂದು ಪರಿಗಣಿಸುವುದಿಲ್ಲ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ಒಂದು ಸಾಮಾನ್ಯ ಗೊಂದಲವನ್ನು ನಿವಾರಿಸೋಣ. ಋಣ ಚಿಹ್ನೆ ಇರುವ ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳೂ ಋಣ ಪೂರ್ಣಾಂಕಗಳಲ್ಲ. ಎಡಭಾಗದಲ್ಲಿರುವ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡಿ: -5, -17, ಮತ್ತು -200. ಇವು ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳಾಗಿದ್ದು, ಋಣ ಚಿಹ್ನೆಯನ್ನು ಹೊಂದಿರುವುದರಿಂದ ಇವು ಋಣ ಪೂರ್ಣಾಂಕಗಳು. ಈಗ ಬಲಭಾಗವನ್ನು ಗಮನಿಸಿ: -3.5 ಒಂದು ದಶಮಾಂಶ ಸಂಖ್ಯೆ, -1/2 ಒಂದು ಭಿನ್ನರಾಶಿ. ಇವು ಪೂರ್ಣಾಂಕಗಳಲ್ಲ. ಹಾಗೆಯೇ, 0 ಯು ಧನವೂ ಅಲ್ಲ, ಋಣವೂ ಅಲ್ಲ. ಆದ್ದರಿಂದ, ಇವುಗಳನ್ನು ನಾವು ಋಣ ಪೂರ್ಣಾಂಕಗಳೆಂದು ಪರಿಗಣಿಸುವುದಿಲ್ಲ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಋಣ ಪೂರ್ಣಾಂಕಗಳು: -5, -17, -200",
+    "ಋಣ ಪೂರ್ಣಾಂಕಗಳಲ್ಲ: -3.5, -1/2, 0"
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-column layout. Left column titled 'ಋಣ ಪೂರ್ಣಾಂಕಗಳು' with a green checkmark icon, listing -5, -17, -200. Right column titled 'ಋಣ ಪೂರ್ಣಾಂಕಗಳಲ್ಲ' with a red X mark icon, listing -3.5 (ದಶಮಾಂಶ), -1/2 (ಭಿನ್ನರಾಶಿ), 0 (ಸೊನ್ನೆ). A vertical line separates the columns.",
+    "labels": "ಋಣ ಪೂರ್ಣಾಂಕಗಳು, ಋಣ ಪೂರ್ಣಾಂಕಗಳಲ್ಲ, ದಶಮಾಂಶ, ಭಿನ್ನರಾಶಿ, ಸೊನ್ನೆ",
+    "mathematical_significance": "Distinguishes integers from other types of negative numbers (decimals, fractions) and clarifies the special status of zero, addressing common misconceptions.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "NS-INT-1_concept_1_chunk_014"
+}

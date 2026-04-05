@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿವರ್ತಕಗಳು ಮತ್ತು ಉತ್ಪನ್ನಗಳು",
+  "script": "ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ನೋಡೋಣ. ಇಲ್ಲಿ ಪ್ರತಿವರ್ತಕಗಳು, ಅಂದರೆ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುವ ವಸ್ತುಗಳು, ಸಲ್ಫರ್ ಡೈಆಕ್ಸೆಡ್ ಮತ್ತು ನೀರು. ಕ್ರಿಯೆಯ ನಂತರ ಉಂಟಾಗುವ ಹೊಸ ವಸ್ತು, ಅಂದರೆ ಉತ್ಪನ್ನವು ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲವಾಗಿದೆ. ಈ ಕ್ರಿಯೆಯು ಸಂಯೋಗ ಕ್ರಿಯೆಗೆ ಒಂದು ಉದಾಹರಣೆಯಾಗಿದೆ, ಏಕೆಂದರೆ ಎರಡು ವಸ್ತುಗಳು ಸೇರಿ ಒಂದೇ ಉತ್ಪನ್ನವನ್ನು ನೀಡುತ್ತಿವೆ.",
+  "script_display": "ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳು (Reactants): ಸಲ್ಫರ್ ಡೈಆಕ್ಸೆಡ್ (SO₂) ಮತ್ತು ನೀರು (H₂O)",
+    "ಉತ್ಪನ್ನ (Product): ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲ (H₂SO₃)",
+    "ಕ್ರಿಯೆಯ ವಿಧ: ಸಂಯೋಗ ಕ್ರಿಯೆ (Combination Reaction)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullets_center",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_8_chapter_4_concept_7_chunk_012"
+}

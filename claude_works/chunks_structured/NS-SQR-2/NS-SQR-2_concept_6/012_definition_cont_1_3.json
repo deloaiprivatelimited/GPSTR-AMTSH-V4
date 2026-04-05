@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಭಿವ್ಯಕ್ತಿ vs ಸಮೀಕರಣ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸ",
+  "script": "ಈ ಗೊಂದಲ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನಾವು ಒಂದು ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ನೋಡುತ್ತಿದ್ದೇವೆ: ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಇಪ್ಪತ್ತೈದು. ಇದರ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ನಮ್ಮ ಕೆಲಸ. ಇದರ ಉತ್ತರ ಕೇವಲ ಐದು. ಆದರೆ, ಬಲಭಾಗದಲ್ಲಿ ನಾವು ಒಂದು ಸಮೀಕರಣವನ್ನು ನೋಡುತ್ತಿದ್ದೇವೆ: x ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ ಇಪ್ಪತ್ತೈದು. ಇಲ್ಲಿ ನಾವು x ನ ಯಾವ ಬೆಲೆಗಳು ಈ ಸಮೀಕರಣವನ್ನು ಪಾಲಿಸುತ್ತವೆ ಎಂದು ಹುಡುಕುತ್ತಿದ್ದೇವೆ. x ನ ಜಾಗದಲ್ಲಿ ಐದು ಹಾಕಿದರೆ, ಐದು ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ ಇಪ್ಪತ್ತೈದು, ಇದು ಸರಿ. ಹಾಗೆಯೇ, x ನ ಜಾಗದಲ್ಲಿ ಮೈನಸ್ ಐದು ಹಾಕಿದರೆ, ಮೈನಸ್ ಐದು ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಕೂಡ ಇಪ್ಪತ್ತೈದು ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಸಮೀಕರಣಕ್ಕೆ ಎರಡು ಪರಿಹಾರಗಳಿವೆ: x ಈಕ್ವಲ್ಸ್ ಐದು ಮತ್ತು x ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ ಐದು. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಗಮನಿಸಿ.",
+  "script_display": "ಈ ಗೊಂದಲ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನಾವು ಒಂದು ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ನೋಡುತ್ತಿದ್ದೇವೆ: $\\sqrt{25}$. ಇದರ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ನಮ್ಮ ಕೆಲಸ. ಇದರ ಉತ್ತರ ಕೇವಲ 5. ಆದರೆ, ಬಲಭಾಗದಲ್ಲಿ ನಾವು ಒಂದು ಸಮೀಕರಣವನ್ನು ನೋಡುತ್ತಿದ್ದೇವೆ: $x^2 = 25$. ಇಲ್ಲಿ ನಾವು $x$ ನ ಯಾವ ಬೆಲೆಗಳು ಈ ಸಮೀಕರಣವನ್ನು ಪಾಲಿಸುತ್ತವೆ ಎಂದು ಹುಡುಕುತ್ತಿದ್ದೇವೆ. $x$ ನ ಜಾಗದಲ್ಲಿ 5 ಹಾಕಿದರೆ, $5^2 = 25$, ಇದು ಸರಿ. ಹಾಗೆಯೇ, $x$ ನ ಜಾಗದಲ್ಲಿ -5 ಹಾಕಿದರೆ, $(-5)^2 = 25$ ಕೂಡ ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಸಮೀಕರಣಕ್ಕೆ ಎರಡು ಪರಿಹಾರಗಳಿವೆ: $x = 5$ ಮತ್ತು $x = -5$. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಗಮನಿಸಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "modern_dark",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen comparison. Left side is titled 'ಅಭಿವ್ಯಕ್ತಿ (Expression)' and shows '√25' with an arrow pointing to its value '5'. Right side is titled 'ಸಮೀಕರಣ (Equation)' and shows 'x² = 25' with arrows pointing to its two solutions, 'x = 5' and 'x = -5'.",
+    "labels": "expression, equation, solution, value, square root",
+    "mathematical_significance": "Clearly distinguishes between evaluating a radical expression and solving a quadratic equation, which is the root cause of the common misconception.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "chunk_id": "NS-SQR-2_concept_6_chunk_012"
+}

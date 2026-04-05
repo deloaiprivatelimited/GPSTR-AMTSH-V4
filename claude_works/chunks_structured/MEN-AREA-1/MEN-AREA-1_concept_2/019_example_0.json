@@ -1,0 +1,44 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ ಒಂದು ನೆಲದ ಉದ್ದ 5 ಮೀಟರ್ ಮತ್ತು ಅಗಲ 4 ಮೀಟರ್ ಎಂದು ಕೊಡಲಾಗಿದೆ. ಅದರ ಮೇಲೆ, ಬಾಹುವಿನ ಉದ್ದ 3 ಮೀಟರ್ ಇರುವ ಒಂದು ಚೌಕಾಕಾರದ ಕಾರ್ಪೆಟ್‌ನ್ನು ಹಾಸಲಾಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು, ಕಾರ್ಪೆಟ್ ಹಾಕದಿರುವ ನೆಲದ ಭಾಗದ ವಿಸ್ತೀರ್ಣ. ಅಂದರೆ, ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಆಯತಾಕಾರದ ನೆಲದಲ್ಲಿ ಚೌಕಾಕಾರದ ಕಾರ್ಪೆಟ್ ಅನ್ನು ಹೊರತುಪಡಿಸಿ ಉಳಿದ ಜಾಗದ ವಿಸ್ತೀರ್ಣವನ್ನು ನಾವು ಲೆಕ್ಕ ಹಾಕಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ ಒಂದು ನೆಲದ ಉದ್ದ 5 m ಮತ್ತು ಅಗಲ 4 m ಎಂದು ಕೊಡಲಾಗಿದೆ. ಅದರ ಮೇಲೆ, ಬಾಹುವಿನ ಉದ್ದ 3 m ಇರುವ ಒಂದು ಚೌಕಾಕಾರದ ಕಾರ್ಪೆಟ್‌ನ್ನು ಹಾಸಲಾಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು, ಕಾರ್ಪೆಟ್ ಹಾಕದಿರುವ ನೆಲದ ಭಾಗದ ವಿಸ್ತೀರ್ಣ. ಅಂದರೆ, ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಆಯತಾಕಾರದ ನೆಲದಲ್ಲಿ ಚೌಕಾಕಾರದ ಕಾರ್ಪೆಟ್ ಅನ್ನು ಹೊರತುಪಡಿಸಿ ಉಳಿದ ಜಾಗದ ವಿಸ್ತೀರ್ಣವನ್ನು ನಾವು ಲೆಕ್ಕ ಹಾಕಬೇಕು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ (Given):",
+    "ನೆಲದ ಉದ್ದ (l) = 5 m",
+    "ನೆಲದ ಅಗಲ (b) = 4 m",
+    "ಕಾರ್ಪೆಟ್‌ನ ಬಾಹು (s) = 3 m",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To Find):",
+    "ಕಾರ್ಪೆಟ್ ಹಾಕದಿರುವ ಭಾಗದ ವಿಸ್ತೀರ್ಣ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A rectangular floor with a square carpet inside it. The floor has dimensions 5m and 4m. The carpet has a side of 3m. The area of the floor not covered by the carpet is shaded.",
+    "labels": "Floor (ನೆಲ), Carpet (ಕಾರ್ಪೆಟ್), 5 m, 4 m, 3 m",
+    "mathematical_significance": "This diagram visually represents the problem, showing a smaller area (carpet) being subtracted from a larger area (floor). This helps in understanding the concept of finding the area of composite shapes or remaining areas.",
+    "placeholder_note": "Image to be generated showing a rectangle with a square inside, with dimensions labeled and the area between them shaded."
+  },
+  "source_example_id": "MEN-AREA-1_example_3",
+  "prerequisites_display": [
+    "ಆಯತದ ವಿಸ್ತೀರ್ಣ = ಉದ್ದ × ಅಗಲ",
+    "ಚೌಕದ ವಿಸ್ತೀರ್ಣ = ಬಾಹು × ಬಾಹು"
+  ],
+  "chunk_id": "MEN-AREA-1_concept_2_chunk_019"
+}

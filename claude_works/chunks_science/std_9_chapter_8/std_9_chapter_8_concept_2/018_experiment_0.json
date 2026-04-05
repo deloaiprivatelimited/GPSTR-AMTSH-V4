@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ನಾಣ್ಯ ಮತ್ತು ಕಾರ್ಡ್‌ಬೋರ್ಡ್ ಪ್ರಯೋಗ: ಬೇಕಾದ ವಸ್ತುಗಳು",
+  "script": "ಈಗ ನಾವು ಜಡತ್ವದ ಒಂದು ಪ್ರಮುಖ ಗುಣವಾದ ನಿಶ್ಚಲ ಸ್ಥಿತಿಯ ಜಡತ್ವವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಮತ್ತು ಕುತೂಹಲಕಾರಿ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಪ್ರಯೋಗಕ್ಕೆ ನಮಗೆ ಕೇವಲ ಮೂರು ವಸ್ತುಗಳು ಬೇಕು. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಖಾಲಿ ಗಾಜಿನ ಲೋಟ. ಎರಡನೆಯದಾಗಿ, ಲೋಟದ ಬಾಯಿಯನ್ನು ಮುಚ್ಚುವಷ್ಟು ದೊಡ್ಡದಾದ ಒಂದು ಗಟ್ಟಿಯಾದ ಕಾರ್ಡ್‌ಬೋರ್ಡ್ ಅಥವಾ ಆಟದ ಕಾರ್ಡ್. ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಒಂದು ನಾಣ್ಯ. ಈ ವಸ್ತುಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಜಡತ್ವದ ಒಂದು ಪ್ರಮುಖ ಗುಣವಾದ ನಿಶ್ಚಲ ಸ್ಥಿತಿಯ ಜಡತ್ವವನ್ನು (Inertia of Rest) ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಮತ್ತು ಕುತೂಹಲಕಾರಿ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಪ್ರಯೋಗಕ್ಕೆ ನಮಗೆ ಕೇವಲ ಮೂರು ವಸ್ತುಗಳು ಬೇಕು. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಖಾಲಿ ಗಾಜಿನ ಲೋಟ. ಎರಡನೆಯದಾಗಿ, ಲೋಟದ ಬಾಯಿಯನ್ನು ಮುಚ್ಚುವಷ್ಟು ದೊಡ್ಡದಾದ ಒಂದು ಗಟ್ಟಿಯಾದ ಕಾರ್ಡ್‌ಬೋರ್ಡ್ ಅಥವಾ ಆಟದ ಕಾರ್ಡ್. ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಒಂದು ನಾಣ್ಯ. ಈ ವಸ್ತುಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "display_bullets": [
+    "ಒಂದು ಖಾಲಿ ಗಾಜಿನ ಲೋಟ",
+    "ಒಂದು ಗಟ್ಟಿಯಾದ ಕಾರ್ಡ್‌ಬೋರ್ಡ್",
+    "ಒಂದು ನಾಣ್ಯ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A glass tumbler on a table. A stiff cardboard is placed over the mouth of the tumbler. A coin is placed at the center of the cardboard, directly above the tumbler's opening.",
+    "labels": "ಗಾಜಿನ ಲೋಟ, ಕಾರ್ಡ್‌ಬೋರ್ಡ್, ನಾಣ್ಯ",
+    "scientific_significance": "This diagram shows the initial setup for the inertia of rest experiment. It clearly labels the three components required for the activity.",
+    "placeholder_note": "Image to be generated showing the setup: tumbler, cardboard on top, coin on cardboard."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_9_chapter_8_concept_2_chunk_018"
+}

@@ -1,0 +1,134 @@
+{
+  "module_id": "std_6_chapter_4_concept_1",
+  "chapter_code": "std_6_chapter_4",
+  "voice": "Erinome",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 11,
+  "total_duration": 509.881,
+  "total_duration_formatted": "8:29",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_4_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಕಾಂತಗಳು ಮತ್ತು ಅವುಗಳ ವಿಧಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 61.011,
+      "duration": 61.011,
+      "script_words": 82
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_1_chunk_002",
+      "chunk_file": "002_definition_0.json",
+      "wav_file": "002_definition_0.wav",
+      "slide_title": "ಕಾಂತಗಳು: ಒಂದು ಪರಿಚಯ",
+      "type": "definition",
+      "start": 61.611,
+      "end": 99.862,
+      "duration": 38.251,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_1_chunk_003",
+      "chunk_file": "003_definition_cont_0_1.json",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "slide_title": "ಕಾಂತಗಳ ಪರಿಭಾಷೆ",
+      "type": "definition",
+      "start": 100.462,
+      "end": 144.633,
+      "duration": 44.171,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_1_chunk_004",
+      "chunk_file": "004_definition_cont_0_2.json",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "slide_title": "ಕಾಂತೀಯ ಮತ್ತು ಅಕಾಂತೀಯ ವಸ್ತುಗಳು",
+      "type": "definition",
+      "start": 145.233,
+      "end": 192.324,
+      "duration": 47.091,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_1_chunk_005",
+      "chunk_file": "005_definition_cont_0_3.json",
+      "wav_file": "005_definition_cont_0_3.wav",
+      "slide_title": "ಕಾಂತಗಳ ಅನ್ವೇಷಣೆ",
+      "type": "definition",
+      "start": 192.924,
+      "end": 234.295,
+      "duration": 41.371,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_1_chunk_006",
+      "chunk_file": "006_classification_0.json",
+      "wav_file": "006_classification_0.wav",
+      "slide_title": "ಕಾಂತಗಳ ವಿಧಗಳು: ಮೂಲದ ಆಧಾರದ ಮೇಲೆ",
+      "type": "concept_explanation",
+      "start": 234.895,
+      "end": 267.186,
+      "duration": 32.291,
+      "script_words": 40
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_1_chunk_007",
+      "chunk_file": "007_classification_cont_0_1.json",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "slide_title": "ನೈಸರ್ಗಿಕ ಕಾಂತ (Natural Magnet)",
+      "type": "concept_explanation",
+      "start": 267.786,
+      "end": 312.437,
+      "duration": 44.651,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_1_chunk_008",
+      "chunk_file": "008_classification_cont_0_2.json",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "slide_title": "ಕೃತಕ ಕಾಂತ (Artificial Magnet)",
+      "type": "concept_explanation",
+      "start": 313.037,
+      "end": 358.448,
+      "duration": 45.411,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_1_chunk_009",
+      "chunk_file": "009_classification_1.json",
+      "wav_file": "009_classification_1.wav",
+      "slide_title": "ಆಕಾರದ ಆಧಾರದ ಮೇಲೆ ಕಾಂತಗಳ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "start": 359.048,
+      "end": 412.059,
+      "duration": 53.011,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_1_chunk_010",
+      "chunk_file": "010_classification_cont_1_1.json",
+      "wav_file": "010_classification_cont_1_1.wav",
+      "slide_title": "ಆಕಾರದ ಆಧಾರದ ಮೇಲೆ ಕಾಂತಗಳ ವಿಧಗಳು (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "start": 412.659,
+      "end": 463.15,
+      "duration": 50.491,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_1_chunk_011",
+      "chunk_file": "011_recap_0.json",
+      "wav_file": "011_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ (Recap)",
+      "type": "recap",
+      "start": 463.75,
+      "end": 509.281,
+      "duration": 45.531,
+      "script_words": 54
+    }
+  ]
+}

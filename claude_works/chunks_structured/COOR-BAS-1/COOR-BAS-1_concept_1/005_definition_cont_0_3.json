@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಕ್ಷಗಳು ಸಂಖ್ಯಾರೇಖೆಗಳಾಗಿ",
+  "script": "ಈ x-ಅಕ್ಷ ಮತ್ತು y-ಅಕ್ಷಗಳು ಸಾಮಾನ್ಯ ರೇಖೆಗಳಲ್ಲ, ಅವು ಸಂಖ್ಯಾರೇಖೆಗಳು. x-ಅಕ್ಷವನ್ನು ಗಮನಿಸಿ. ಮೂಲಬಿಂದು 'O' ನಿಂದ ಬಲಕ್ಕೆ ಧನಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು ಇರುತ್ತವೆ, ಅಂದರೆ ಒಂದು, ಎರಡು, ಮೂರು, ಹೀಗೆ. ಎಡಕ್ಕೆ ಋಣಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು ಇರುತ್ತವೆ, ಅಂದರೆ ಮೈನಸ್ ಒಂದು, ಮೈನಸ್ ಎರಡು, ಹೀಗೆ. ಇದೇ ರೀತಿ, y-ಅಕ್ಷದಲ್ಲಿ, ಮೂಲಬಿಂದು 'O' ನಿಂದ ಮೇಲಕ್ಕೆ ಧನಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಕೆಳಕ್ಕೆ ಋಣಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು ಇರುತ್ತವೆ. ಮೂಲಬಿಂದು 'O' ಎರಡೂ ಅಕ್ಷಗಳ ಮೇಲೆ ಸೊನ್ನೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, ಮೂಲಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು ಸೊನ್ನೆ, ಸೊನ್ನೆ ಆಗಿರುತ್ತವೆ.",
+  "script_display": "ಈ $x$-ಅಕ್ಷ ಮತ್ತು $y$-ಅಕ್ಷಗಳು ಸಾಮಾನ್ಯ ರೇಖೆಗಳಲ್ಲ, ಅವು ಸಂಖ್ಯಾರೇಖೆಗಳು (number lines). $x$-ಅಕ್ಷವನ್ನು ಗಮನಿಸಿ. ಮೂಲಬಿಂದು 'O' ನಿಂದ ಬಲಕ್ಕೆ ಧನಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು ($1, 2, 3, ...$) ಇರುತ್ತವೆ. ಎಡಕ್ಕೆ ಋಣಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು ($-1, -2, -3, ...$) ಇರುತ್ತವೆ. ಇದೇ ರೀತಿ, $y$-ಅಕ್ಷದಲ್ಲಿ, ಮೂಲಬಿಂದು 'O' ನಿಂದ ಮೇಲಕ್ಕೆ ಧನಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಕೆಳಕ್ಕೆ ಋಣಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು ಇರುತ್ತವೆ. ಮೂಲಬಿಂದು 'O' ಎರಡೂ ಅಕ್ಷಗಳ ಮೇಲೆ ಸೊನ್ನೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, ಮೂಲಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು $(0, 0)$ ಆಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "$x$-ಅಕ್ಷ: ಬಲಕ್ಕೆ ಧನಾತ್ಮಕ ($OX$), ಎಡಕ್ಕೆ ಋಣಾತ್ಮಕ ($OX'$).",
+    "$y$-ಅಕ್ಷ: ಮೇಲಕ್ಕೆ ಧನಾತ್ಮಕ ($OY$), ಕೆಳಕ್ಕೆ ಋಣಾತ್ಮಕ ($OY'$).",
+    "ಮೂಲಬಿಂದು (O) ಎರಡೂ ಅಕ್ಷಗಳ ಮೇಲೆ $0$ ಅನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A Cartesian coordinate plane showing the horizontal X'X axis and the vertical Y'Y axis intersecting perpendicularly at the origin O. The positive and negative directions on both axes are clearly marked with numbers.",
+    "labels": "X-axis, Y-axis, Origin, 1, 2, 3, -1, -2, -3",
+    "mathematical_significance": "Emphasizes that the axes are number lines with positive and negative values relative to the origin.",
+    "placeholder_note": "Based on ಚಿತ್ರ 3.8 from the module context, with numbers added."
+  },
+  "chunk_id": "COOR-BAS-1_concept_1_chunk_005"
+}

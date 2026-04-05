@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಕೊಳವೆಯ ಗಾತ್ರ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಹದಿನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ಅಗಲದ ಆಯತಾಕಾರದ ಕಾಗದವನ್ನು ಅದರ ಅಗಲದ ಗುಂಟ ಸುತ್ತಿ ಇಪ್ಪತ್ತು ಸೆಂಟಿಮೀಟರ್ ತ್ರಿಜ್ಯದ ಕೊಳವೆಯನ್ನು ಮಾಡಲಾಗಿದೆ. ಕೊಳವೆಯ ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ ಎಂದು ಕೇಳಿದ್ದಾರೆ. ಇಲ್ಲಿ ಪೈ ಬೆಲೆಯನ್ನು ಏಳನೇ ಇಪ್ಪತ್ತೆರಡು ಎಂದು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ ನಮಗೆ ನೀಡಿರುವ ಅಂಶಗಳು: ಆಯತಾಕಾರದ ಕಾಗದದ ಅಗಲ ಹದಿನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್. ಕೊಳವೆಯ ತ್ರಿಜ್ಯ ಆರ್ ಇಪ್ಪತ್ತು ಸೆಂಟಿಮೀಟರ್. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು ಕೊಳವೆಯ ಗಾತ್ರ ವಿ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 14 ಸೆಂ.ಮೀ ಅಗಲದ ಆಯತಾಕಾರದ ಕಾಗದವನ್ನು ಅದರ ಅಗಲದ ಗುಂಟ ಸುತ್ತಿ 20 ಸೆಂ.ಮೀ. ತ್ರಿಜ್ಯದ ಕೊಳವೆಯನ್ನು ಮಾಡಲಾಗಿದೆ. ಕೊಳವೆಯ ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ ಎಂದು ಕೇಳಿದ್ದಾರೆ. ($\\pi = \\frac{22}{7}$ ಎಂದು ತೆಗೆದುಕೊಳ್ಳಿರಿ). ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ ನಮಗೆ ನೀಡಿರುವ ಅಂಶಗಳು:\n\n* ದತ್ತಾಂಶ: ಆಯತಾಕಾರದ ಕಾಗದದ ಅಗಲ = 14 ಸೆಂ.ಮೀ.\n* ಕೊಳವೆಯ ತ್ರಿಜ್ಯ ($r$) = 20 ಸೆಂ.ಮೀ.\n* ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಕೊಳವೆಯ ಗಾತ್ರ ($V$).",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ಆಯತಾಕಾರದ ಕಾಗದದ ಅಗಲ = 14 ಸೆಂ.ಮೀ.",
+    "ಕೊಳವೆಯ ತ್ರಿಜ್ಯ (r) = 20 ಸೆಂ.ಮೀ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಕೊಳವೆಯ ಗಾತ್ರ (V)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A rectangular sheet of paper with its width labeled as 14 cm. An arrow shows it being rolled 'along its width' to form a cylinder. The resulting cylinder has its height labeled as 'h = 14 cm' and its radius as 'r = 20 cm'.",
+    "labels": "ಕಾಗದದ ಅಗಲ (Width), ಕೊಳವೆಯ ಎತ್ತರ (Height), ತ್ರಿಜ್ಯ (Radius)",
+    "mathematical_significance": "ಕಾಗದವನ್ನು ಅದರ ಅಗಲದ ಗುಂಟ ಸುತ್ತಿದಾಗ, ಅಗಲವೇ ಸಿಲಿಂಡರ್‌ನ ಎತ್ತರವಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing a rectangle rolling into a cylinder, mapping width to height."
+  },
+  "source_example_id": "MEN-MEN-2_example_10",
+  "chunk_id": "MEN-MEN-2_concept_3_chunk_054"
+}

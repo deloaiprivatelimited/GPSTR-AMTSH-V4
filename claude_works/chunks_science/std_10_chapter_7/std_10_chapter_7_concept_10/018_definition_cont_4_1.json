@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಶೇಚನ: ಎರಡು ಸಾಧ್ಯತೆಗಳು",
+  "script": "ಈಗ ಎರಡು ಸಾಧ್ಯತೆಗಳಿವೆ. ಒಂದು ವೇಳೆ ಅಂಡಾಣುವು ವೀರ್ಯಾಣುವಿನೊಂದಿಗೆ ಸೇರಿ ನಿಶೇಚನಗೊಂಡರೆ, ಆ ಭ್ರೂಣವು ಗರ್ಭಕೋಶದ ಈ ಸಿದ್ಧಪಡಿಸಿದ ಪದರದಲ್ಲಿ ನೆಲೆಗೊಂಡು ಬೆಳೆಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಆಗ ಗರ್ಭಧಾರಣೆ ಆರಂಭವಾಗುತ್ತದೆ. ಆದರೆ, ಒಂದು ವೇಳೆ ಅಂಡಾಣುವು ನಿಶೇಚನಗೊಳ್ಳದಿದ್ದರೆ ಏನಾಗುತ್ತದೆ? ಆಗ ಗರ್ಭಕೋಶವು ಸಿದ್ಧಪಡಿಸಿದ ಈ ದಪ್ಪನೆಯ, ರಕ್ತಭರಿತ ಪದರಕ್ಕೆ ಯಾವುದೇ ಉಪಯೋಗವಿರುವುದಿಲ್ಲ. ಅದು ಅನಗತ್ಯವಾಗುತ್ತದೆ. ಈ ಅನಗತ್ಯ ಪದರವು ಒಡೆಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಎರಡು ಸಾಧ್ಯತೆಗಳಿವೆ. ಒಂದು ವೇಳೆ ಅಂಡಾಣುವು ವೀರ್ಯಾಣುವಿನೊಂದಿಗೆ ಸೇರಿ ನಿಶೇಚನಗೊಂಡರೆ, ಆ ಭ್ರೂಣವು ಗರ್ಭಕೋಶದ ಈ ಸಿದ್ಧಪಡಿಸಿದ ಪದರದಲ್ಲಿ ನೆಲೆಗೊಂಡು ಬೆಳೆಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಆಗ ಗರ್ಭಧಾರಣೆ ಆರಂಭವಾಗುತ್ತದೆ. ಆದರೆ, ಒಂದು ವೇಳೆ ಅಂಡಾಣುವು ನಿಶೇಚನಗೊಳ್ಳದಿದ್ದರೆ ಏನಾಗುತ್ತದೆ? ಆಗ ಗರ್ಭಕೋಶವು ಸಿದ್ಧಪಡಿಸಿದ ಈ ದಪ್ಪನೆಯ, ರಕ್ತಭರಿತ ಪದರಕ್ಕೆ ಯಾವುದೇ ಉಪಯೋಗವಿರುವುದಿಲ್ಲ. ಅದು ಅನಗತ್ಯವಾಗುತ್ತದೆ. ಈ ಅನಗತ್ಯ ಪದರವು ಒಡೆಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "video_split",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen visual. Left side titled 'ನಿಶೇಚನ ನಡೆದರೆ' shows a fertilized egg implanting into the thick uterine lining. Right side titled 'ನಿಶೇಚನ ನಡೆಯದಿದ್ದರೆ' shows an unfertilized egg and the uterine lining beginning to break down.",
+    "labels": "ಎಡಭಾಗ: ಭ್ರೂಣದ ಅಳವಡಿಕೆ (Implantation). ಬಲಭಾಗ: ಒಳಪದರದ ವಿಘಟನೆ (Lining breakdown).",
+    "scientific_significance": "Contrasts the two possible outcomes after ovulation: implantation following fertilization, or the breakdown of the endometrium in the absence of fertilization. This directly explains the trigger for menstruation.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_10_chapter_7_concept_10_chunk_018"
+}

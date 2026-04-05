@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಬೀಜೋಕ್ತಿ 3 ($13 – y + 5y^2$)",
+  "script": "ಈಗ ಮೂರನೇ ಬೀಜೋಕ್ತಿ, ಹದಿಮೂರು ಮೈನಸ್ y ಪ್ಲಸ್ ಐದು y ಸ್ಕ್ವೇರ್ಡ್. ಇದರಲ್ಲಿ ಎರಡು ಸ್ಥಿರವಲ್ಲದ ಪದಗಳಿವೆ: ಮೈನಸ್ y ಮತ್ತು ಐದು y ಸ್ಕ್ವೇರ್ಡ್. ಮೈನಸ್ y ಪದದ ಸಹಗುಣಕ ಮೈನಸ್ ಒಂದು. ಐದು y ಸ್ಕ್ವೇರ್ಡ್ ಪದದ ಸಹಗುಣಕ ಐದು ಆಗಿದೆ.",
+  "script_display": "ಈಗ ಮೂರನೇ ಬೀಜೋಕ್ತಿ, $13 – y + 5y^2$. ಇದರಲ್ಲಿ ಎರಡು ಸ್ಥಿರವಲ್ಲದ ಪದಗಳಿವೆ: $-y$ ಮತ್ತು $5y^2$. $-y$ ಪದದ ಸಹಗುಣಕ -1. $5y^2$ ಪದದ ಸಹಗುಣಕ 5 ಆಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "ALG-EXP-1_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸ್ಥಿರವಲ್ಲದ ಪದಗಳು: $-y$ ಮತ್ತು $5y^2$",
+      "justification": "ಈ ಬೀಜೋಕ್ತಿಯಲ್ಲಿ ಎರಡು ಚರಾಕ್ಷರ ಪದಗಳಿವೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$-y$ ಪದದ ಸಹಗುಣಕ: -1",
+      "justification": "$-y = -1 \\times y$."
+    },
+    {
+      "step": 3,
+      "action_display": "$5y^2$ ಪದದ ಸಹಗುಣಕ: 5",
+      "justification": "ಸಂಖ್ಯಾತ್ಮಕ ಅಪವರ್ತನ 5 ಆಗಿದೆ."
+    }
+  ],
+  "chunk_id": "ALG-EXP-1_concept_2_chunk_021"
+}

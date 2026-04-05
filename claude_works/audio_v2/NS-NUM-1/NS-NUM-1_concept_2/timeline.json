@@ -1,0 +1,166 @@
+{
+  "module_id": "NS-NUM-1_concept_2",
+  "voice": "Charon",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 14,
+  "total_duration": 712.714,
+  "total_duration_formatted": "11:52",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಅಂಕಿಗಳ ಮೊತ್ತ ಮತ್ತು ಎಣಿಕೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 62.931,
+      "duration": 62.931,
+      "script_words": 84
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 63.531,
+      "end": 87.382,
+      "duration": 23.851,
+      "script_words": 35
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ಅಂಕಿಗಳ ಮೊತ್ತ: ಪರಿಚಯ",
+      "type": "definition",
+      "start": 87.982,
+      "end": 131.193,
+      "duration": 43.211,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯೆ: ಅಂಕಿಗಳ ಮೊತ್ತ",
+      "type": "definition",
+      "start": 131.793,
+      "end": 169.404,
+      "duration": 37.611,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಉದಾಹರಣೆ: 345",
+      "type": "definition",
+      "start": 170.004,
+      "end": 205.855,
+      "duration": 35.851,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_006",
+      "chunk_file": "006_definition_cont_0_3.json",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "slide_title": "ಉದಾಹರಣೆ: 7081",
+      "type": "definition",
+      "start": 206.455,
+      "end": 263.746,
+      "duration": 57.291,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_007",
+      "chunk_file": "007_definition_cont_0_4.json",
+      "wav_file": "007_definition_cont_0_4.wav",
+      "slide_title": "ಅಂಕಿಗಳ ಮೊತ್ತದ ಉಪಯೋಗವೇನು?",
+      "type": "definition",
+      "start": 264.346,
+      "end": 311.557,
+      "duration": 47.211,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_008",
+      "chunk_file": "008_property_0.json",
+      "wav_file": "008_property_0.wav",
+      "slide_title": "n-ಅಂಕಿಯ ಸಂಖ್ಯೆಗಳ ಎಣಿಕೆ",
+      "type": "concept_explanation",
+      "start": 312.157,
+      "end": 384.848,
+      "duration": 72.691,
+      "script_words": 102
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_009",
+      "chunk_file": "009_property_cont_0_1.json",
+      "wav_file": "009_property_cont_0_1.wav",
+      "slide_title": "ಅಂಕಿಗಳ ಮೊತ್ತ (Sum of Digits)",
+      "type": "concept_explanation",
+      "start": 385.448,
+      "end": 449.139,
+      "duration": 63.691,
+      "script_words": 88
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_010",
+      "chunk_file": "010_example_0.json",
+      "wav_file": "010_example_0.wav",
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+      "type": "worked_example",
+      "start": 449.739,
+      "end": 484.19,
+      "duration": 34.451,
+      "script_words": 44
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_011",
+      "chunk_file": "011_example_cont_0_1.json",
+      "wav_file": "011_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಅತಿ ದೊಡ್ಡ ಸಂಖ್ಯೆ",
+      "type": "worked_example",
+      "start": 484.79,
+      "end": 546.521,
+      "duration": 61.731,
+      "script_words": 93
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_012",
+      "chunk_file": "012_example_cont_0_2.json",
+      "wav_file": "012_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಅತಿ ಚಿಕ್ಕ ಸಂಖ್ಯೆ",
+      "type": "worked_example",
+      "start": 547.121,
+      "end": 632.732,
+      "duration": 85.611,
+      "script_words": 122
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_013",
+      "chunk_file": "013_example_cont_0_3.json",
+      "wav_file": "013_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 633.332,
+      "end": 670.703,
+      "duration": 37.371,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_2_chunk_014",
+      "chunk_file": "014_recap_0.json",
+      "wav_file": "014_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ: ಅಂಕಿಗಳ ಮೊತ್ತ ಮತ್ತು ಎಣಿಕೆ",
+      "type": "recap",
+      "start": 671.303,
+      "end": 712.114,
+      "duration": 40.811,
+      "script_words": 63
+    }
+  ]
+}

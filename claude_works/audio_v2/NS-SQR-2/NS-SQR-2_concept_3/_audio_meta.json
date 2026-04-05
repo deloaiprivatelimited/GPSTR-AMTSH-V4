@@ -1,0 +1,147 @@
+{
+  "module_id": "NS-SQR-2_concept_3",
+  "merge_code": "NS-SQR-2",
+  "voice": "Alnilam",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 17:20:25",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "e5c07cd857b2c409564d3bf11af06f15",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 23.491,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 38,
+      "generated_at": "2026-03-30 17:18:08"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "7ce3140cc0e61dee47ccea324b67dc7d",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 45.731,
+      "slide_title": "ವರ್ಗಸಂಖ್ಯೆಗಳ ನಡುವಿನ ಸಂಖ್ಯೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-03-30 17:18:11"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "3c6acff26829efbd0e75888a7f584963",
+      "wav_file": "003_property_0.wav",
+      "duration": 54.731,
+      "slide_title": "ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಮಾದರಿಗಳು: ತ್ರಿಕೋನೀಯ ಸಂಖ್ಯೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 79,
+      "generated_at": "2026-03-30 17:18:14"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "545e32e5afc7a2def15990755afb4f66",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 34.331,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "concept_explanation",
+      "script_words": 46,
+      "generated_at": "2026-03-30 17:18:17"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "abb50b3c24ea97979b632c276af937fb",
+      "wav_file": "001_intro_0.wav",
+      "duration": 51.451,
+      "slide_title": "ಪರಿಚಯ: ವರ್ಗ ಸಂಖ್ಯೆಗಳಲ್ಲಿನ ಮಾದರಿಗಳು",
+      "type": "intro",
+      "script_words": 75,
+      "generated_at": "2026-03-30 17:18:22"
+    },
+    "007_property_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "cfd4b590b1b8fd12a2e4517989ae88b6",
+      "wav_file": "007_property_1.wav",
+      "duration": 48.411,
+      "slide_title": "ಬೆಸ ಸಂಖ್ಯೆಯ ವರ್ಗದ ವಿಶೇಷ ಗುಣ",
+      "type": "concept_explanation",
+      "script_words": 82,
+      "generated_at": "2026-03-30 17:19:00"
+    },
+    "008_property_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "9eab3a140f63437cd71dd88d157f7c9c",
+      "wav_file": "008_property_cont_1_1.wav",
+      "duration": 55.291,
+      "slide_title": "ಕ್ರಮಾನುಗತ ಸಮ/ಬೆಸ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧ",
+      "type": "concept_explanation",
+      "script_words": 83,
+      "generated_at": "2026-03-30 17:19:03"
+    },
+    "009_property_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "ebd348db7e1726f4c6a4934871ebeeda",
+      "wav_file": "009_property_cont_1_2.wav",
+      "duration": 57.571,
+      "slide_title": "1ರ ಪುನರಾವರ್ತನೆಯಿಂದಾಗುವ ಮಾದರಿಗಳು",
+      "type": "concept_explanation",
+      "script_words": 78,
+      "generated_at": "2026-03-30 17:19:05"
+    },
+    "010_property_2.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "ccb7628b8ea82a62fea332ff7ca796b1",
+      "wav_file": "010_property_2.wav",
+      "duration": 72.291,
+      "slide_title": "ವಿಶೇಷ ಮಾದರಿ: 6 ಮತ್ತು 7 ರ ಪುನರಾವರ್ತನೆ",
+      "type": "concept_explanation",
+      "script_words": 98,
+      "generated_at": "2026-03-30 17:19:18"
+    },
+    "006_property_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "14ff83f3e674ae4f0200d92857cf5287",
+      "wav_file": "006_property_cont_0_3.wav",
+      "duration": 49.091,
+      "slide_title": "ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಮಾದರಿಗಳು: ಬೆಸ ಸಂಖ್ಯೆಗಳ ಮೊತ್ತ",
+      "type": "concept_explanation",
+      "script_words": 76,
+      "generated_at": "2026-03-30 17:19:29"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "bee467b618a694ac84cffc8354e42443",
+      "wav_file": "012_recap_0.wav",
+      "duration": 38.371,
+      "slide_title": "ಸಾರಾಂಶ: ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಮಾದರಿಗಳು",
+      "type": "recap",
+      "script_words": 67,
+      "generated_at": "2026-03-30 17:19:54"
+    },
+    "011_property_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "2093c2bfd55511dbf7edc326e432b2fb",
+      "wav_file": "011_property_cont_2_1.wav",
+      "duration": 61.251,
+      "slide_title": "ವಿಶೇಷ ಮಾದರಿ: ವರ್ಗಗಳ ಮೊತ್ತ",
+      "type": "concept_explanation",
+      "script_words": 96,
+      "generated_at": "2026-03-30 17:20:25"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಚಟುವಟಿಕೆ 1.2: ಪುನರಾವರ್ತನೆ",
+  "script": "ಈಗ ಇದೇ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪುನರಾವರ್ತಿಸೋಣ. ಎರಡನೇ ಬೀಕರ್‌ನಿಂದ ಹತ್ತು ಮಿಲಿಲೀಟರ್ ತಿಳಿ ನೇರಳೆ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಂಡು, ತೊಂಬತ್ತು ಮಿಲಿಲೀಟರ್ ಶುದ್ಧ ನೀರಿರುವ ಮೂರನೇ ಬೀಕರ್‌ಗೆ ಸೇರಿಸೋಣ. ಬಣ್ಣವು ಇನ್ನಷ್ಟು ತಿಳಿಯಾಗುತ್ತದೆ. ನಾವು ಈ ಸಾರರಿಕ್ತಗೊಳಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಐದರಿಂದ ಎಂಟು ಬಾರಿ ಮುಂದುವರಿಸೋಣ. ಪ್ರತಿ ಹಂತದಲ್ಲೂ, ದ್ರಾವಣದ ಬಣ್ಣವು ತಿಳಿಯಾಗುತ್ತಾ ಹೋಗುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುವಂತೆ, ಪ್ರತಿ ಮುಂದಿನ ಬೀಕರ್‌ನಲ್ಲಿ ಬಣ್ಣದ ತೀವ್ರತೆ ಕಡಿಮೆಯಾಗುತ್ತಾ ಸಾಗುತ್ತದೆ. ಇದು ಒಂದು ಸರಣಿ ಸಾರರಿಕ್ತಗೊಳಿಸುವಿಕೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಇದೇ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪುನರಾವರ್ತಿಸೋಣ. ಎರಡನೇ ಬೀಕರ್‌ನಿಂದ 10 mL ತಿಳಿ ನೇರಳೆ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಂಡು, 90 mL ಶುದ್ಧ ನೀರಿರುವ ಮೂರನೇ ಬೀಕರ್‌ಗೆ ಸೇರಿಸೋಣ. ಬಣ್ಣವು ಇನ್ನಷ್ಟು ತಿಳಿಯಾಗುತ್ತದೆ. ನಾವು ಈ ಸಾರರಿಕ್ತಗೊಳಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು 5 ರಿಂದ 8 ಬಾರಿ ಮುಂದುವರಿಸೋಣ. ಪ್ರತಿ ಹಂತದಲ್ಲೂ, ದ್ರಾವಣದ ಬಣ್ಣವು ತಿಳಿಯಾಗುತ್ತಾ ಹೋಗುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುವಂತೆ, ಪ್ರತಿ ಮುಂದಿನ ಬೀಕರ್‌ನಲ್ಲಿ ಬಣ್ಣದ ತೀವ್ರತೆ ಕಡಿಮೆಯಾಗುತ್ತಾ ಸಾಗುತ್ತದೆ. ಇದು ಒಂದು ಸರಣಿ ಸಾರರಿಕ್ತಗೊಳಿಸುವಿಕೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪುನರಾವರ್ತಿಸಿ: ಎರಡನೇ ಬೀಕರ್‌ನಿಂದ 10 mL ದ್ರಾವಣ ತೆಗೆದು, 90 mL ನೀರಿರುವ ಮೂರನೇ ಬೀಕರ್‌ಗೆ ಹಾಕಿ.",
+    "ಈ ಸಾರರಿಕ್ತಗೊಳಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು 5 ರಿಂದ 8 ಬಾರಿ ಮುಂದುವರಿಸಿ.",
+    "ಪ್ರತಿ ಹಂತದಲ್ಲೂ ಬಣ್ಣವು ತಿಳಿಯಾಗುತ್ತಾ ಹೋಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A series of 5-6 beakers. The first is deep purple, and each subsequent beaker is progressively lighter in color, illustrating serial dilution.",
+    "labels": "ಸಾರರಿಕ್ತ ಸರಣಿ (Serial Dilution)",
+    "scientific_significance": "Visual representation of serial dilution, showing the persistence of color despite repeated dilution.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_1_concept_1_chunk_025"
+}

@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, p(x) ಈಕ್ವಲ್ಸ್ 2x ಪ್ಲಸ್ 1 ರ ಶೂನ್ಯತೆಯು x ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ 1 ಬೈ 2 ಆಗಿದೆ. ಇದರರ್ಥ, ನಾವು x ನ ಜಾಗದಲ್ಲಿ ಮೈನಸ್ 1 ಬೈ 2 ಅನ್ನು ಆದೇಶಿಸಿದರೆ, ಬಹುಪದೋಕ್ತಿಯ ಮೌಲ್ಯವು ಸೊನ್ನೆ ಆಗುತ್ತದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, $p(x) = 2x + 1$ ರ ಶೂನ್ಯತೆಯು $x = -\\frac{1}{2}$ ಆಗಿದೆ. ಇದರರ್ಥ, ನಾವು $x$ ನ ಜಾಗದಲ್ಲಿ $-\\frac{1}{2}$ ಅನ್ನು ಆದೇಶಿಸಿದರೆ, ಬಹುಪದೋಕ್ತಿಯ ಮೌಲ್ಯವು ಸೊನ್ನೆ ಆಗುತ್ತದೆ.",
+  "display_bullets": [
+    "$p(x) = 2x + 1$ ರ ಶೂನ್ಯತೆಯು $x = -\\frac{1}{2}$ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x = -\\frac{1}{2}",
+    "placeholder_note": "Final answer showing the zero of the polynomial"
+  },
+  "source_example_id": "ALG-POL-3_example_2",
+  "steps": [],
+  "final_answer": "-1/2",
+  "final_answer_display": "$-\\frac{1}{2}$",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "ALG-POL-3_concept_2_chunk_025"
+}

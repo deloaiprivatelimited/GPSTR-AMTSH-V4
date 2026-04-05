@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ವೇಗ (Velocity)",
+  "script": "ಈಗ ನಾವು ಚಲನೆಯ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆಯಾದ ವೇಗದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ವೇಗ ಎಂದರೆ ಒಂದು ನಿರ್ದಿಷ್ಟ ದಿಕ್ಕಿನಲ್ಲಿ ವಸ್ತುವಿನ ಜವ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಏಕಮಾನ ಕಾಲದಲ್ಲಿ ಒಂದು ವಸ್ತುವು ಹೊಂದಿದ ಸ್ಥಾನ ಪಲ್ಲಟವೇ ಅದರ ವೇಗ. ಇದು ಒಂದು ಸದಿಶ ಪರಿಮಾಣವಾಗಿದೆ, ಅಂದರೆ ಇದಕ್ಕೆ ಪರಿಮಾಣ ಮತ್ತು ದಿಕ್ಕು ಎರಡೂ ಇರುತ್ತದೆ, ಇದು ಜವಕ್ಕಿಂತ ಭಿನ್ನವಾಗಿದೆ. ವೇಗದ ಎಸ್ ಐ ಏಕಮಾನವು ಜವದಂತೆಯೇ ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್ ಆಗಿದೆ. ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ನಾವು ಚಲನೆಯ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆಯಾದ ವೇಗದ (Velocity) ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ವೇಗ ಎಂದರೆ ಒಂದು ನಿರ್ದಿಷ್ಟ ದಿಕ್ಕಿನಲ್ಲಿ ವಸ್ತುವಿನ ಜವ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಏಕಮಾನ ಕಾಲದಲ್ಲಿ ಒಂದು ವಸ್ತುವು ಹೊಂದಿದ ಸ್ಥಾನ ಪಲ್ಲಟವೇ ಅದರ ವೇಗ. ಇದು ಒಂದು ಸದಿಶ ಪರಿಮಾಣವಾಗಿದೆ (Vector Quantity), ಅಂದರೆ ಇದಕ್ಕೆ ಪರಿಮಾಣ ಮತ್ತು ದಿಕ್ಕು ಎರಡೂ ಇರುತ್ತದೆ. ವೇಗದ SI ಏಕಮಾನವು ಜವದಂತೆಯೇ ಮೀಟರ್/ಸೆಕೆಂಡ್ (m/s) ಆಗಿದೆ.",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯಾನ: ಏಕಮಾನ ಕಾಲದಲ್ಲಿ ಒಂದು ವಸ್ತುವು ಹೊಂದಿದ ಸ್ಥಾನ ಪಲ್ಲಟ.",
+    "ಇದು ಒಂದು ಸದಿಶ ಪರಿಮಾಣ (Vector Quantity) - ಇದಕ್ಕೆ ಪರಿಮಾಣ ಮತ್ತು ದಿಕ್ಕು ಎರಡೂ ಇವೆ.",
+    "SI ಏಕಮಾನ: ಮೀಟರ್/ಸೆಕೆಂಡ್ (m/s)."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ವೇಗ } (v) = \\frac{\\text{ಸ್ಥಾನ ಪಲ್ಲಟ } (s)}{\\text{ಕಾಲ } (t)}",
+    "placeholder_note": "Formula for Velocity"
+  },
+  "sub_type": "definition_spotlight",
+  "difficulty": "medium",
+  "source_example_id": "std_9_chapter_7_concept_2_def_5",
+  "chunk_id": "std_9_chapter_7_concept_2_chunk_016"
+}

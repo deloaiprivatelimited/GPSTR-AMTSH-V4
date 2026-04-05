@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಭಾಗ (ii): (5p - 3q)³ ವಿಸ್ತರಣೆ",
+  "script": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ, ಅಂದರೆ ಐದು p ಮೈನಸ್ ಮೂರು q, ಹೋಲ್ ಕ್ಯೂಬ್ಡ್. ಇಲ್ಲಿ ನಾವು x ಮೈನಸ್ y ಹೋಲ್ ಕ್ಯೂಬ್ಡ್ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ನಿತ್ಯಸಮೀಕರಣವು x ಕ್ಯೂಬ್ಡ್ ಮೈನಸ್ y ಕ್ಯೂಬ್ಡ್ ಮೈನಸ್ ಮೂರು x y ಇಂಟು x ಮೈನಸ್ y ಆಗಿದೆ. ಇಲ್ಲಿ x ನ ಜಾಗದಲ್ಲಿ ಐದು p ಮತ್ತು y ನ ಜಾಗದಲ್ಲಿ ಮೂರು q ಇದೆ. ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ ಐದು p ಹೋಲ್ ಕ್ಯೂಬ್ಡ್, ಮೈನಸ್ ಮೂರು q ಹೋಲ್ ಕ್ಯೂಬ್ಡ್, ಮೈನಸ್ ಮೂರು ಇಂಟು ಐದು p ಇಂಟು ಮೂರು q, ಇಂಟು ಐದು p ಮೈನಸ್ ಮೂರು q ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಭಾಗ (ii) $(5p - 3q)^3$ ನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನಾವು ನಿತ್ಯಸಮೀಕರಣ $(x-y)^3 = x^3-y^3-3xy(x-y)$ ನ್ನು ಬಳಸುತ್ತೇವೆ. ಇಲ್ಲಿ $x=5p$ ಮತ್ತು $y=3q$ ಆಗಿದೆ. ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ $(5p)^3 - (3q)^3 - 3(5p)(3q)(5p-3q)$ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_vertical",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_20",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಗುರುತಿಸಬೇಕಾದ ನಿತ್ಯಸಮೀಕರಣ: $(x-y)^3 = x^3-y^3-3xy(x-y)$",
+      "justification": "ಇಲ್ಲಿ $x=5p$ ಮತ್ತು $y=3q$ ಎಂದು ಪರಿಗಣಿಸಿ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿ: $(5p-3q)^3 = (5p)^3 - (3q)^3 - 3(5p)(3q)(5p-3q)$",
+      "justification": "ನಿತ್ಯಸಮೀಕರಣದಲ್ಲಿ $x$ ಮತ್ತು $y$ ಜಾಗದಲ್ಲಿ $5p$ ಮತ್ತು $3q$ ನ್ನು ಹಾಕುವುದು."
+    }
+  ],
+  "chunk_id": "ALG-POL-3_concept_6_chunk_069"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಯಮದ ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಒಂದು ಸರಳ ವಿದ್ಯುತ್ ಮಂಡಲವನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಇದರಲ್ಲಿ ಒಂದು ಬ್ಯಾಟರಿ, ಒಂದು ಸ್ವಿಚ್ ಮತ್ತು ಒಂದು ರೋಧಕವಿದೆ. ಸ್ವಿಚ್ ಆನ್ ಮಾಡಿದಾಗ, ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಬ್ಯಾಟರಿಯಿಂದ ಹೊರಟು ರೋಧಕದ ಮೂಲಕ ಹರಿಯುತ್ತವೆ. ರೋಧಕವು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಚಲನೆಗೆ ಅಡಚಣೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಈ ಅಡಚಣೆಯನ್ನು ನಿವಾರಿಸಲು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು ತಮ್ಮ ಶಕ್ತಿಯನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತವೆ. ಈ ಕಳೆದುಹೋದ ವಿದ್ಯುತ್ ಶಕ್ತಿಯು ಉಷ್ಣ ಶಕ್ತಿಯಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ, ಇದರಿಂದಾಗಿ ರೋಧಕವು ಬಿಸಿಯಾಗುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಜೌಲ್‌ನ ಉಷ್ಣ ಪರಿಣಾಮ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಒಂದು ಸರಳ ವಿದ್ಯುತ್ ಮಂಡಲವನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಇದರಲ್ಲಿ ಒಂದು ಬ್ಯಾಟರಿ, ಒಂದು ಸ್ವಿಚ್ ಮತ್ತು ಒಂದು ರೋಧಕವಿದೆ. ಸ್ವಿಚ್ ಆನ್ ಮಾಡಿದಾಗ, ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಬ್ಯಾಟರಿಯಿಂದ ಹೊರಟು ರೋಧಕದ ಮೂಲಕ ಹರಿಯುತ್ತವೆ. ರೋಧಕವು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಚಲನೆಗೆ ಅಡಚಣೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಈ ಅಡಚಣೆಯನ್ನು ನಿವಾರಿಸಲು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು ತಮ್ಮ ಶಕ್ತಿಯನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತವೆ. ಈ ಕಳೆದುಹೋದ ವಿದ್ಯುತ್ ಶಕ್ತಿಯು ಉಷ್ಣ ಶಕ್ತಿಯಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ, ಇದರಿಂದಾಗಿ ರೋಧಕವು ಬಿಸಿಯಾಗುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಜೌಲ್‌ನ ಉಷ್ಣ ಪರಿಣಾಮ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple circuit diagram showing a battery, a switch, and a resistor. Arrows indicate the flow of current (I) from the positive terminal of the battery, through the switch and resistor, and back to the negative terminal. The resistor is shown glowing or with heat waves emanating from it, labeled 'Heat (H = I²Rt)'.",
+    "labels": "Battery, Switch, Resistor (R), Current (I), Heat (H)",
+    "scientific_significance": "Illustrates the fundamental concept of Joule's law of heating where electrical energy is converted into heat energy as current flows through a resistance.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_11_concept_7_chunk_006"
+}

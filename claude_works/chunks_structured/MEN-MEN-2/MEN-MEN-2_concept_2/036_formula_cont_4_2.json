@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಿಲಿಂಡರ್‌ನ ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ",
+  "script": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನೋಡಿದಂತೆ, ಆಯತದ ವಿಸ್ತೀರ್ಣವೇ ಸಿಲಿಂಡರ್‌ನ ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ. ಆದ್ದರಿಂದ, ಸೂತ್ರವು ಸಿ ಎಸ್ ಎ ಸಮನಾಗಿದೆ ಟೂ ಪೈ ಆರ್ ಎಚ್. ಇಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಅಕ್ಷರವೂ ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಸಿ ಎಸ್ ಎ ಎಂದರೆ ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ. ಆರ್ ಎಂಬುದು ಸಿಲಿಂಡರ್‌ನ ಪಾದದ ತ್ರಿಜ್ಯ, ಅಂದರೆ ವೃತ್ತದ ಕೇಂದ್ರದಿಂದ ಅಂಚಿಗೆ ಇರುವ ದೂರ. ಮತ್ತು ಎಚ್ ಎಂಬುದು ಸಿಲಿಂಡರ್‌ನ ಎತ್ತರ. ಪೈ ಒಂದು ಸ್ಥಿರಾಂಕವಾಗಿದ್ದು, ಅದರ ಮೌಲ್ಯ ಸುಮಾರು ಏಳನೇ ಇಪ್ಪತ್ತೆರಡು.",
+  "script_display": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನೋಡಿದಂತೆ, ಆಯತದ ವಿಸ್ತೀರ್ಣವೇ ಸಿಲಿಂಡರ್‌ನ ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ. ಆದ್ದರಿಂದ, ಸೂತ್ರವು:\n* **ಸೂತ್ರ:** `$CSA = 2\\pi rh$`\n\nಇದರಲ್ಲಿ:\n* `$CSA$` = ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (Curved Surface Area)\n* `$r$` = ಸಿಲಿಂಡರ್‌ನ ಪಾದದ ತ್ರಿಜ್ಯ (Radius of the base)\n* `$h$` = ಸಿಲಿಂಡರ್‌ನ ಎತ್ತರ (Height of the cylinder)",
+  "display_bullets": [
+    "ಸೂತ್ರ: $CSA = 2\\pi rh$",
+    "$CSA$ = ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (Curved Surface Area)",
+    "$r$ = ಸಿಲಿಂಡರ್‌ನ ಪಾದದ ತ್ರಿಜ್ಯ (Radius of the base)",
+    "$h$ = ಸಿಲಿಂಡರ್‌ನ ಎತ್ತರ (Height of the cylinder)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CSA = 2\\pi rh",
+    "placeholder_note": "Formula for Curved Surface Area of a Cylinder"
+  },
+  "chunk_id": "MEN-MEN-2_concept_2_chunk_036"
+}

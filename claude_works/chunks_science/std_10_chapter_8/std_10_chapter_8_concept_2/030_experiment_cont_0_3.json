@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಹಂತ 2: F1 ಪೀಳಿಗೆಯ ಸ್ವಕೀಯ ಪರಾಗಸ್ಪರ್ಶ",
+  "script": "ಈಗ ಪ್ರಯೋಗದ ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ನಾವು ಎಫ್ ಒನ್ ಪೀಳಿಗೆಯಿಂದ ಒಂದು ಎತ್ತರದ ಸಸ್ಯವನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದಕ್ಕೆ ಸ್ವಕೀಯ ಪರಾಗಸ್ಪರ್ಶ ನಡೆಸುತ್ತೇವೆ. ಅಂದರೆ, ಅದೇ ಸಸ್ಯದ ಹೂವಿನ ಪರಾಗವನ್ನು ಅದೇ ಹೂವಿನ ಶಲಾಕಾಗ್ರಕ್ಕೆ ವರ್ಗಾಯಿಸುತ್ತೇವೆ. ನೆನಪಿಡಿ, ಈ ಸಸ್ಯವು ಎತ್ತರವಾಗಿ ಕಂಡರೂ, ಅದು ತನ್ನ ಕುಬ್ಜ ಪೋಷಕರಿಂದ ಒಂದು ಗುಣವನ್ನು ಪಡೆದಿದೆ. ಆದ್ದರಿಂದ ಅದರ ಜೀನ್ ಮಾದರಿ ಕ್ಯಾಪಿಟಲ್ ಟಿ ಸ್ಮಾಲ್ ಟಿ ಆಗಿರುತ್ತದೆ. ಈ ಸ್ವಕೀಯ ಪರಾಗಸ್ಪರ್ಶದಿಂದ ಎರಡನೇ ಸಂತತಿ, ಅಂದರೆ ಎಫ್ ಟೂ ಪೀಳಿಗೆಯು ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗದ ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ನಾವು F1 ಪೀಳಿಗೆಯಿಂದ ಒಂದು ಎತ್ತರದ ಸಸ್ಯವನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದಕ್ಕೆ 'ಸ್ವಕೀಯ ಪರಾಗಸ್ಪರ್ಶ' ನಡೆಸುತ್ತೇವೆ. ಅಂದರೆ, ಅದೇ ಸಸ್ಯದ ಹೂವಿನ ಪರಾಗವನ್ನು ಅದೇ ಹೂವಿನ ಶಲಾಕಾಗ್ರಕ್ಕೆ ವರ್ಗಾಯಿಸುತ್ತೇವೆ. ನೆನಪಿಡಿ, ಈ ಸಸ್ಯವು ಎತ್ತರವಾಗಿ ಕಂಡರೂ, ಅದು ತನ್ನ ಕುಬ್ಜ ಪೋಷಕರಿಂದ ಒಂದು ಗುಣವನ್ನು ಪಡೆದಿದೆ. ಆದ್ದರಿಂದ ಅದರ ಜೀನ್ ಮಾದರಿ (Tt) ಆಗಿರುತ್ತದೆ. ಈ ಸ್ವಕೀಯ ಪರಾಗಸ್ಪರ್ಶದಿಂದ (Tt x Tt) ಎರಡನೇ ಸಂತತಿ, ಅಂದರೆ F2 ಪೀಳಿಗೆಯು ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "F1 ಪೀಳಿಗೆಯ ಎತ್ತರದ ಸಸ್ಯವನ್ನು (Tt) ಆಯ್ಕೆ ಮಾಡಲಾಯಿತು.",
+    "ಕ್ರಿಯೆ: ಸ್ವಕೀಯ ಪರಾಗಸ್ಪರ್ಶ (Self-pollination) ನಡೆಸಲಾಯಿತು.",
+    "ಫಲಿತಾಂಶ: ಎರಡನೇ ಸಂತತಿ (F2) ಉತ್ಪತ್ತಿಯಾಯಿತು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a single tall F1 plant (Tt) with a circular arrow indicating self-pollination. An arrow points downwards towards a question mark, representing the upcoming F2 generation.",
+    "labels": "F1 ಪೀಳಿಗೆ (Tt), ಸ್ವಕೀಯ ಪರಾಗಸ್ಪರ್ಶ",
+    "scientific_significance": "Illustrates the second step of the experiment: the self-pollination of the heterozygous F1 generation to produce the F2 generation.",
+    "placeholder_note": "Image to be generated for the self-pollination step."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_8_concept_2_chunk_030"
+}

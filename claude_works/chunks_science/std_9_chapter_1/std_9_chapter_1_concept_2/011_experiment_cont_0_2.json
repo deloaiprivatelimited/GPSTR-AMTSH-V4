@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಹಂತ 2: ವೀಕ್ಷಣೆ (ಹೊತ್ತಿಸಿದಾಗ)",
+  "script": "ಈಗ, ಅಗರಬತ್ತಿಯನ್ನು ಹೊತ್ತಿಸೋಣ. ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ಅಗರಬತ್ತಿ ಉರಿಯಲು ಪ್ರಾರಂಭಿಸಿದ ತಕ್ಷಣ, ಅದರಿಂದ ಹೊಗೆಯು ಹೊರಬರುತ್ತದೆ. ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ನೀವು ಕೋಣೆಯ ಯಾವುದೇ ಮೂಲೆಯಲ್ಲಿದ್ದರೂ, ಅಂದರೆ ದೂರದಲ್ಲಿ ಕುಳಿತಿದ್ದರೂ ಸಹ, ಅದರ ಸುವಾಸನೆಯು ನಿಮ್ಮನ್ನು ತಲುಪುತ್ತದೆ. ಹೊತ್ತಿಸಿದಾಗ ಉತ್ಪತ್ತಿಯಾದ ಅನಿಲ ಕಣಗಳು ಗಾಳಿಯ ಎಲ್ಲಾ ಕಡೆ ವೇಗವಾಗಿ ಹರಡಿಕೊಳ್ಳುತ್ತವೆ. ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನೇ ನಾವು ವಿಸರಣೆ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಈಗ, ಅಗರಬತ್ತಿಯನ್ನು ಹೊತ್ತಿಸೋಣ. ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ಅಗರಬತ್ತಿ ಉರಿಯಲು ಪ್ರಾರಂಭಿಸಿದ ತಕ್ಷಣ, ಅದರಿಂದ ಹೊಗೆಯು ಹೊರಬರುತ್ತದೆ. ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ನೀವು ಕೋಣೆಯ ಯಾವುದೇ ಮೂಲೆಯಲ್ಲಿದ್ದರೂ, ಅಂದರೆ ದೂರದಲ್ಲಿ ಕುಳಿತಿದ್ದರೂ ಸಹ, ಅದರ ಸುವಾಸನೆಯು ನಿಮ್ಮನ್ನು ತಲುಪುತ್ತದೆ. ಹೊತ್ತಿಸಿದಾಗ ಉತ್ಪತ್ತಿಯಾದ ಅನಿಲ ಕಣಗಳು ಗಾಳಿಯ ಎಲ್ಲಾ ಕಡೆ ವೇಗವಾಗಿ ಹರಡಿಕೊಳ್ಳುತ್ತವೆ. ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನೇ ನಾವು ವಿಸರಣೆ (diffusion) ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಈಗ ಅಗರಬತ್ತಿಯನ್ನು ಹೊತ್ತಿಸಿ.",
+    "ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ದೂರದಲ್ಲಿ ಕುಳಿತಿದ್ದರೂ ವಾಸನೆ ಬರುತ್ತದೆ.",
+    "ಅನಿಲ ಕಣಗಳು ಗಾಳಿಯಲ್ಲಿ ವೇಗವಾಗಿ ಹರಡುತ್ತವೆ (ವಿಸರಣೆ)."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_steps_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The incense stick is now lit and emitting visible smoke trails. These trails are spreading across the entire room. The person is now sitting far away but has a pleasant expression, indicating they can smell the fragrance.",
+    "labels": "ಹೊಗೆಯ ಕಣಗಳು, ವಿಸರಣೆ",
+    "scientific_significance": "Demonstrates that heating increases the kinetic energy of particles, causing them to move faster and diffuse more rapidly through the air.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_1_concept_2_chunk_011"
+}

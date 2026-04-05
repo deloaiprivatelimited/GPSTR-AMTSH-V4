@@ -1,0 +1,111 @@
+{
+  "module_id": "std_10_chapter_11_concept_8",
+  "module_title": "ವಿದ್ಯುತ್ ಸಾಮರ್ಥ್ಯ (Electric Power)",
+  "class": "10",
+  "chapter": "11",
+  "chapter_title": "ವಿದ್ಯುಚ್ಛಕ್ತಿ (Electricity)",
+  "domain": "ಭೌತಶಾಸ್ತ್ರ (Physics)",
+  "prerequisites": [
+    "std_10_chapter_11_concept_1",
+    "std_10_chapter_11_concept_2",
+    "std_10_chapter_11_concept_3",
+    "std_10_chapter_11_concept_7"
+  ],
+  "theory": {
+    "concept_summary": "ವಿದ್ಯುತ್ ಸಾಮರ್ಥ್ಯವು ವಿದ್ಯುತ್ ಶಕ್ತಿಯು ಬಳಕೆಯಾಗುವ ಅಥವಾ ವ್ಯಯವಾಗುವ ದರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಂದರೆ, ಏಕಮಾನ ಕಾಲದಲ್ಲಿ ಬಳಕೆಯಾದ ವಿದ್ಯುತ್ ಶಕ್ತಿ. ಇದನ್ನು ವ್ಯಾಟ್ (Watt) ಎಂಬ ಏಕಮಾನದಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ವಿದ್ಯುತ್ ಸಾಮರ್ಥ್ಯ (Electric Power, P)",
+        "definition": "ಕೆಲಸ ಮಾಡುವ ದರ ಅಥವಾ ಶಕ್ತಿ ವ್ಯಯವಾಗುವ ದರ. ಇದರ SI ಏಕಮಾನ ವ್ಯಾಟ್ (W)."
+      },
+      {
+        "term": "ವ್ಯಾಟ್ (Watt)",
+        "definition": "1 ವೋಲ್ಟ್ ವಿಭವಾಂತರದಲ್ಲಿ 1 ಆಂಪಿಯರ್ ವಿದ್ಯುತ್ ಪ್ರವಾಹವನ್ನು ಬಳಸಿಕೊಳ್ಳುವ ವಿದ್ಯುತ್ ಸಾಧನದ ಸಾಮರ್ಥ್ಯವನ್ನು 1 ವ್ಯಾಟ್ ಎನ್ನಲಾಗುತ್ತದೆ. 1 W = 1 V × 1 A."
+      },
+      {
+        "term": "ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ (Kilowatt-hour, kWh)",
+        "definition": "ವಿದ್ಯುತ್ ಶಕ್ತಿಯ ವ್ಯವಹಾರಿಕ ಏಕಮಾನ. 1 ಕಿಲೋವ್ಯಾಟ್ ಸಾಮರ್ಥ್ಯದ ಉಪಕರಣವನ್ನು 1 ಗಂಟೆ ಬಳಸಿದಾಗ ವ್ಯಯವಾಗುವ ಶಕ್ತಿ. ಇದನ್ನು 'ಯೂನಿಟ್' ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. 1 kWh = 3.6 × 10⁶ J."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Electric Power (General)",
+        "latex": "P = VI",
+        "condition": "ಯಾವುದೇ ವಿದ್ಯುತ್ ಸಾಧನಕ್ಕೆ.",
+        "exception": "",
+        "derived_from": "P = W/t ಮತ್ತು W = VQ, I = Q/t",
+        "used_in": "ಸಾಮರ್ಥ್ಯ, ವೋಲ್ಟೇಜ್ ಅಥವಾ ಪ್ರವಾಹವನ್ನು ಕಂಡುಹಿಡಿಯಲು.",
+        "derivation": []
+      },
+      {
+        "formula_name": "Electric Power (for Resistors)",
+        "latex": "P = I^2R",
+        "condition": "ರೋಧಕಗಳಿಗೆ, ಪ್ರವಾಹ ಮತ್ತು ರೋಧ ತಿಳಿದಿದ್ದಾಗ.",
+        "exception": "",
+        "derived_from": "P = VI ಮತ್ತು V = IR",
+        "used_in": "ರೋಧಕದಲ್ಲಿನ ಸಾಮರ್ಥ್ಯ ನಷ್ಟವನ್ನು ಕಂಡುಹಿಡಿಯಲು.",
+        "derivation": []
+      },
+      {
+        "formula_name": "Electric Power (for Resistors)",
+        "latex": "P = \\frac{V^2}{R}",
+        "condition": "ರೋಧಕಗಳಿಗೆ, ವೋಲ್ಟೇಜ್ ಮತ್ತು ರೋಧ ತಿಳಿದಿದ್ದಾಗ.",
+        "exception": "",
+        "derived_from": "P = VI ಮತ್ತು I = V/R",
+        "used_in": "ರೋಧಕದಲ್ಲಿನ ಸಾಮರ್ಥ್ಯ ನಷ್ಟವನ್ನು ಕಂಡುಹಿಡಿಯಲು.",
+        "derivation": []
+      },
+      {
+        "formula_name": "Electrical Energy",
+        "latex": "E = P \\times t",
+        "condition": "",
+        "exception": "",
+        "derived_from": "P = E/t",
+        "used_in": "ಬಳಕೆಯಾದ ವಿದ್ಯುತ್ ಶಕ್ತಿಯನ್ನು ಲೆಕ್ಕ ಮಾಡಲು.",
+        "derivation": []
+      }
+    ],
+    "laws": [],
+    "chemical_equations": [],
+    "properties": [],
+    "classifications": [],
+    "experiments": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "std_10_chapter_11_example_11.13",
+      "difficulty": "intermediate",
+      "problem": "400 W ದರದ ರೆಫ್ರಿಜರೇಟರ್ ದಿನಕ್ಕೆ 8 ಗಂಟೆಗಳ ಕಾಲ ಬಳಕೆಯಾಗುತ್ತದೆ. 1 kWh ಗೆ ರೂ 3 ರಂತೆ 30 ದಿನಗಳವರೆಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ತಗಲುವ ವೆಚ್ಚವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "30 ದಿನಗಳಲ್ಲಿ ಬಳಕೆಯಾದ ಒಟ್ಟು ಶಕ್ತಿಯನ್ನು kWh ನಲ್ಲಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "ಶಕ್ತಿ (E) = ಸಾಮರ್ಥ್ಯ (P) × ಕಾಲ (t). ಸಾಮರ್ಥ್ಯವನ್ನು kW ಗೆ ಪರಿವರ್ತಿಸಬೇಕು.",
+          "calculation": "ದಿನಕ್ಕೆ ಬಳಕೆಯಾದ ಶಕ್ತಿ = 400 W × 8 h = 3200 Wh = 3.2 kWh\n30 ದಿನಗಳಿಗೆ ಒಟ್ಟು ಶಕ್ತಿ = 3.2 kWh/ದಿನ × 30 ದಿನಗಳು = 96 kWh"
+        },
+        {
+          "step": 2,
+          "action": "ಒಟ್ಟು ವೆಚ್ಚವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "ಒಟ್ಟು ವೆಚ್ಚ = ಒಟ್ಟು ಶಕ್ತಿ (kWh) × ಪ್ರತಿ ಯೂನಿಟ್‌ನ ಬೆಲೆ.",
+          "calculation": "ಒಟ್ಟು ವೆಚ್ಚ = 96 kWh × ರೂ 3/kWh = ರೂ 288"
+        }
+      ],
+      "result": "30 ದಿನಗಳಿಗೆ ತಗಲುವ ಒಟ್ಟು ವೆಚ್ಚ ರೂ 288 ಆಗಿದೆ.",
+      "common_trap": "ಸಾಮರ್ಥ್ಯವನ್ನು ವ್ಯಾಟ್‌ನಿಂದ ಕಿಲೋವ್ಯಾಟ್‌ಗೆ ಪರಿವರ್ತಿಸಲು ಮರೆಯುವುದು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಸಾಮರ್ಥ್ಯದ ಏಕಮಾನ, ಶಕ್ತಿಯ ವ್ಯವಹಾರಿಕ ಏಕಮಾನ, 1 kWh ಮತ್ತು ಜೌಲ್ ನಡುವಿನ ಸಂಬಂಧ.",
+    "two_mark_note": "ವಿದ್ಯುತ್ ಸಾಮರ್ಥ್ಯವನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಿ. ಅದರ SI ಏಕಮಾನವನ್ನು ತಿಳಿಸಿ.",
+    "five_mark_note": "ವಿದ್ಯುತ್ ಬಿಲ್ ಲೆಕ್ಕಾಚಾರದ ಮೇಲೆ ಆಧಾರಿತ ಸಂಖ್ಯಾತ್ಮಕ ಸಮಸ್ಯೆ.",
+    "common_mistakes": [
+      "ಸಾಮರ್ಥ್ಯ (Power) ಮತ್ತು ಶಕ್ತಿ (Energy) ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುವುದು. ಸಾಮರ್ಥ್ಯವು ಶಕ್ತಿ ಬಳಕೆಯ ದರವಾದರೆ, ಶಕ್ತಿಯು ಕೆಲಸ ಮಾಡುವ ಸಾಮರ್ಥ್ಯವಾಗಿದೆ."
+    ],
+    "boundary_conditions": [
+      "ನಾವು ವಿದ್ಯುತ್ ಕಂಪನಿಗಳಿಗೆ ಹಣ ಪಾವತಿಸುವುದು ವಿದ್ಯುತ್ ಸಾಮರ್ಥ್ಯಕ್ಕೆ (Power, kW) ಅಲ್ಲ, ಬದಲಾಗಿ ನಾವು ಬಳಸಿದ ವಿದ್ಯುತ್ ಶಕ್ತಿಗೆ (Energy, kWh)."
+    ],
+    "connects_to": []
+  }
+}

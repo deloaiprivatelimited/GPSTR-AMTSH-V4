@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಎತ್ತರ",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಾಂತರ ಚತುರ್ಭುಜ ಎಬಿಸಿಡಿ ಯ ಬಾಹುಗಳು 6 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು 4 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಪಾದ ಸಿಡಿ, ಅಂದರೆ 6 ಸೆಂಟಿಮೀಟರ್, ಅದರ ಅನುರೂಪ ಎತ್ತರ 3 ಸೆಂಟಿಮೀಟರ್. ನಾವು ಎರಡು ವಿಷಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು: ಮೊದಲನೆಯದು, ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ, ಮತ್ತು ಎರಡನೆಯದು, ಪಾದ ಎಡಿ, ಅಂದರೆ 4 ಸೆಂಟಿಮೀಟರ್, ಅದಕ್ಕೆ ಅನುರೂಪವಾದ ಎತ್ತರ.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCD ಯ ಬಾಹುಗಳು 6 cm ಮತ್ತು 4 cm ಆಗಿದೆ. ಪಾದ CD (6 cm) ಯ ಅನುರೂಪ ಎತ್ತರ 3 cm. ನಾವು ಎರಡು ವಿಷಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು: (i) ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ, ಮತ್ತು (ii) ಪಾದ AD (4 cm) ಗೆ ಅನುರೂಪವಾದ ಎತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ (Given):",
+    "ಪಾದ (CD) = 6 cm",
+    "ಪಕ್ಕದ ಬಾಹು (AD) = 4 cm",
+    "ಪಾದ CD ಗೆ ಎತ್ತರ (h₁) = 3 cm",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದುದು (To Find):",
+    "(i) ವಿಸ್ತೀರ್ಣ (Area)",
+    "(ii) ಪಾದ AD ಗೆ ಎತ್ತರ (h₂)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCD. ಪಾದ CD = 6 cm, ಪಕ್ಕದ ಬಾಹು AD = 4 cm. ಪಾದ CD ಯಿಂದ A ಗೆ ಎಳೆದ ಲಂಬ ರೇಖೆಯು ಎತ್ತರ h₁ = 3 cm ಎಂದು ತೋರಿಸುತ್ತದೆ. ಪಾದ AD ಯಿಂದ B ಗೆ ಎಳೆದ ಲಂಬ ರೇಖೆಯು ಎತ್ತರ h₂ ಎಂದು ತೋರಿಸುತ್ತದೆ.",
+    "labels": "A, B, C, D, 6 cm, 4 cm, h₁=3 cm, h₂=?",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯಲ್ಲಿ ನೀಡಿರುವ ಅಳತೆಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ, ಎರಡು ವಿಭಿನ್ನ ಪಾದಗಳು ಮತ್ತು ಅವುಗಳ ಅನುರೂಪ ಎತ್ತರಗಳನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for parallelogram with labeled sides and heights."
+  },
+  "source_example_id": "MEN-AREA-1_example_4",
+  "prerequisites_display": [
+    "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಗುಣಲಕ್ಷಣಗಳು",
+    "ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ: A = b × h"
+  ],
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 1,
+    "theorems": 0,
+    "properties": 1,
+    "worked_examples": 1
+  },
+  "chunk_id": "MEN-AREA-1_concept_3_chunk_014"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ ಹಂತದ ಪರಿಹಾರ: ಭಾಗ 2",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಸಮೀಕರಣ ನಾಲ್ಕು equals ಐದು x minus ಮೂರು y. ಇಲ್ಲಿ ನಾವು ಎಲ್ಲಾ ಪದಗಳನ್ನು ಒಂದು ಬದಿಗೆ ತರಬೇಕು. ಇದನ್ನು ಐದು x minus ಮೂರು y minus ನಾಲ್ಕು equals ಸೊನ್ನೆ ಎಂದು ಬರೆಯಬಹುದು. ಇದನ್ನು a x plus b y plus c equals ಸೊನ್ನೆ ಜೊತೆ ಹೋಲಿಸಿದಾಗ, a equals ಐದು, b equals ಮೈನಸ್ ಮೂರು, ಮತ್ತು c equals ಮೈನಸ್ ನಾಲ್ಕು. ಕೊನೆಯದಾಗಿ, ನಾಲ್ಕನೇ ಸಮೀಕರಣ, ಎರಡು x equals y. y ಅನ್ನು ಎಡಕ್ಕೆ ತಂದರೆ, ಎರಡು x minus y equals ಸೊನ್ನೆ ಆಗುತ್ತದೆ. ಇಲ್ಲಿ ಸ್ಥಿರಾಂಕ ಪದ ಇಲ್ಲ, ಅಂದರೆ ಅದು ಸೊನ್ನೆ. ಆದ್ದರಿಂದ, ನಾವು ಇದನ್ನು ಎರಡು x minus ಒಂದು y plus ಸೊನ್ನೆ equals ಸೊನ್ನೆ ಎಂದು ಬರೆಯಬಹುದು. ಇದನ್ನು ಪ್ರಮಾಣಿತ ರೂಪದೊಂದಿಗೆ ಹೋಲಿಸಿದಾಗ, a equals ಎರಡು, b equals ಮೈನಸ್ ಒಂದು, ಮತ್ತು c equals ಸೊನ್ನೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಸಮೀಕರಣ `$4 = 5x - 3y$`. ಇಲ್ಲಿ ನಾವು ಎಲ್ಲಾ ಪದಗಳನ್ನು ಒಂದು ಬದಿಗೆ ತರಬೇಕು. ಇದನ್ನು `$5x - 3y - 4 = 0$` ಎಂದು ಬರೆಯಬಹುದು. ಇದನ್ನು `$ax + by + c = 0$` ಜೊತೆ ಹೋಲಿಸಿದಾಗ, `$a = 5, b = -3$`, ಮತ್ತು `$c = -4$`. ಕೊನೆಯದಾಗಿ, ನಾಲ್ಕನೇ ಸಮೀಕರಣ, `$2x = y$`. `$y$` ಅನ್ನು ಎಡಕ್ಕೆ ತಂದರೆ, `$2x - y = 0$` ಆಗುತ್ತದೆ. ಇಲ್ಲಿ ಸ್ಥಿರಾಂಕ ಪದ ಇಲ್ಲ, ಅಂದರೆ ಅದು ಸೊನ್ನೆ. ಆದ್ದರಿಂದ, ನಾವು ಇದನ್ನು `$2x - 1y + 0 = 0$` ಎಂದು ಬರೆಯಬಹುದು. ಇದನ್ನು ಪ್ರಮಾಣಿತ ರೂಪದೊಂದಿಗೆ ಹೋಲಿಸಿದಾಗ, `$a = 2, b = -1$`, ಮತ್ತು `$c = 0$`.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "basic",
+  "source_example_id": "ALG-EQ2-3_example_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "(iii) `4 = 5x - 3y`\n`\\implies 5x - 3y - 4 = 0`\n`a=5, b=-3, c=-4`",
+      "justification": "ಎಲ್ಲಾ ಪದಗಳನ್ನು ಸಮೀಕರಣದ ಒಂದು ಬದಿಗೆ ತಂದು, ಇನ್ನೊಂದು ಬದಿಯನ್ನು ಸೊನ್ನೆಗೆ ಸಮೀಕರಿಸುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "(iv) `2x = y`\n`\\implies 2x - y + 0 = 0`\n`a=2, b=-1, c=0`",
+      "justification": "`y` ಪದವನ್ನು ಎಡಭಾಗಕ್ಕೆ ತಂದು, ಸ್ಥಿರಾಂಕ ಪದವನ್ನು `0` ಎಂದು ಪರಿಗಣಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "ALG-EQ2-3_concept_1_chunk_023"
+}

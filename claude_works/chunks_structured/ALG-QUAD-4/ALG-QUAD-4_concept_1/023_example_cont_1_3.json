@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ (iii): $x(2x+3)=x^2+1$",
+  "script": "ಈಗ ಮೂರನೇ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. x times two x plus three equals x squared plus one. ಎಡಭಾಗದಲ್ಲಿ ಗುಣಿಸಿದಾಗ, ನಮಗೆ two x squared plus three x ಸಿಗುತ್ತದೆ. ಸಮೀಕರಣವು two x squared plus three x equals x squared plus one ಎಂದಾಗುತ್ತದೆ. ಬಲಭಾಗದ ಪದಗಳನ್ನು ಎಡಕ್ಕೆ ತಂದಾಗ, two x squared minus x squared plus three x minus one equals zero ಆಗುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿದರೆ, x squared plus three x minus one equals zero ಸಿಗುತ್ತದೆ. ಇದು ax squared plus bx plus c equals zero ರೂಪದಲ್ಲಿದೆ, ಇಲ್ಲಿ a ಯ ಬೆಲೆ ಒಂದು. ಆದ್ದರಿಂದ, ಇದು ಒಂದು ವರ್ಗ ಸಮೀಕರಣವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಮೂರನೇ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. $x(2x+3)=x^2+1$. ಎಡಭಾಗದಲ್ಲಿ ಗುಣಿಸಿದಾಗ, ನಮಗೆ $2x^2+3x$ ಸಿಗುತ್ತದೆ. ಸಮೀಕರಣವು $2x^2+3x = x^2+1$ ಎಂದಾಗುತ್ತದೆ. ಬಲಭಾಗದ ಪದಗಳನ್ನು ಎಡಕ್ಕೆ ತಂದಾಗ, $2x^2 - x^2 + 3x - 1 = 0$ ಆಗುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿದರೆ, $x^2+3x-1=0$ ಸಿಗುತ್ತದೆ. ಇದು $ax^2+bx+c=0$ ರೂಪದಲ್ಲಿದೆ, ಇಲ್ಲಿ $a=1$. ಆದ್ದರಿಂದ, ಇದು ಒಂದು ವರ್ಗ ಸಮೀಕರಣವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-QUAD-4_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$x(2x+3) = x^2+1$",
+      "justification": "ದತ್ತ ಸಮೀಕರಣ."
+    },
+    {
+      "step": 2,
+      "action_display": "$2x^2 + 3x = x^2 + 1$",
+      "justification": "ಎಡಭಾಗವನ್ನು ವಿಸ್ತರಿಸುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "$x^2 + 3x - 1 = 0$",
+      "justification": "ಎಲ್ಲಾ ಪದಗಳನ್ನು ಒಂದು ಬದಿಗೆ ತಂದು ಸರಳೀಕರಿಸುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "ಇದು $ax^2+bx+c=0$ ರೂಪದಲ್ಲಿದೆ. ಆದ್ದರಿಂದ, ಇದು ವರ್ಗ ಸಮೀಕರಣವಾಗಿದೆ.",
+      "justification": "ಅಂತಿಮ ತೀರ್ಮಾನ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-QUAD-4_concept_1_chunk_023"
+}

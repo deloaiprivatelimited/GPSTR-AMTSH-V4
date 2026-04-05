@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ನೂಕುಬಲವನ್ನು ಲೆಕ್ಕ ಹಾಕಿ",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಮರದ ತುಂಡು ಮೇಜಿನ ಮೇಲೆ ಪ್ರಯೋಗಿಸುವ ನೂಕುಬಲವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ನೂಕುಬಲವು ಮರದ ತುಂಡಿನ ತೂಕಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ತೂಕವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರ F equals m times g. ಇಲ್ಲಿ ರಾಶಿ m ಐದು kg ಮತ್ತು g ಒಂಬತ್ತು ಪಾಯಿಂಟ್ ಎಂಟು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್. ಆದ್ದರಿಂದ, ಬಲ F ಸಮ ಐದು ಗುಣಿಸು ಒಂಬತ್ತು ಪಾಯಿಂಟ್ ಎಂಟು, ಅಂದರೆ ನಲವತ್ತೊಂಬತ್ತು ನ್ಯೂಟನ್.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಮರದ ತುಂಡು ಮೇಜಿನ ಮೇಲೆ ಪ್ರಯೋಗಿಸುವ ನೂಕುಬಲವನ್ನು (Thrust) ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ನೂಕುಬಲವು ಮರದ ತುಂಡಿನ ತೂಕಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ನೂಕುಬಲ (F) = ತೂಕ (W) = ರಾಶಿ (m) × ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ (g)",
+    "F = 5 kg × 9.8 m/s²",
+    "F = 49 N"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "std_9_chapter_9_example_4",
+  "chunk_id": "std_9_chapter_9_concept_6_chunk_014"
+}

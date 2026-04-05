@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಪರಿಹಾರದ ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಕೊಟ್ಟಿರುವ ಎಲ್ಲಾ ದತ್ತಾಂಶಗಳನ್ನು SI ಏಕಮಾನಗಳಿಗೆ ಪರಿವರ್ತಿಸಬೇಕು. ಇಲ್ಲಿ, ಭೂಮಿ ಮತ್ತು ಚಂದ್ರನ ನಡುವಿನ ದೂರವನ್ನು ಕಿಲೋಮೀಟರ್‌ಗಳಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ನಾವು ಅದನ್ನು ಮೀಟರ್‌ಗಳಿಗೆ ಪರಿವರ್ತಿಸಬೇಕು. ಒಂದು ಕಿಲೋಮೀಟರ್ ಅಂದರೆ 1000 ಮೀಟರ್, ಅಥವಾ 10 ರ ಘಾತ 3 ಮೀಟರ್. ಆದ್ದರಿಂದ, 3.84 ಇಂಟು 10 ರ ಘಾತ 5 ಕಿಲೋಮೀಟರ್, 3.84 ಇಂಟು 10 ರ ಘಾತ 8 ಮೀಟರ್ ಆಗುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಬಳಸಬೇಕಾದ ಸೂತ್ರವನ್ನು ಬರೆಯೋಣ. ಅದು ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ನಿಯಮದ ಸೂತ್ರ: F equals G times M m divided by d squared.",
+  "script_display": "**ಹಂತ 1: ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸಿ ಮತ್ತು ಏಕಮಾನಗಳನ್ನು SI ಪದ್ಧತಿಗೆ ಪರಿವರ್ತಿಸಿ.**\nಲೆಕ್ಕಾಚಾರದಲ್ಲಿ ಬಳಸುವ ಎಲ್ಲಾ ಮೌಲ್ಯಗಳು ಪ್ರಮಾಣಿತ ಏಕಮಾನಗಳಲ್ಲಿರಬೇಕು. ದೂರ 'd' ಅನ್ನು ಕಿಲೋಮೀಟರ್‌ನಿಂದ ಮೀಟರ್‌ಗೆ ಪರಿವರ್ತಿಸಬೇಕು.\n$d = 3.84 \\times 10^5 \\text{ km} = 3.84 \\times 10^5 \\times 1000 \\text{ m} = 3.84 \\times 10^8 \\text{ m}$\n\n**ಹಂತ 2: ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ನಿಯಮದ ಸೂತ್ರವನ್ನು ಬಳಸಿ.**\nಎರಡು ರಾಶಿಗಳ ನಡುವಿನ ಗುರುತ್ವ ಬಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಈ ಸೂತ್ರವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.\n$F = G \\frac{Mm}{d^2}$",
+  "display_bullets": [
+    "ಹಂತ 1: ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸಿ ಮತ್ತು ಏಕಮಾನಗಳನ್ನು SI ಪದ್ಧತಿಗೆ ಪರಿವರ್ತಿಸಿ.",
+    "ಹಂತ 2: ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ನಿಯಮದ ಸೂತ್ರವನ್ನು ಬಳಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_step_walkthrough_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "d = 3.84 \\times 10^5 \\text{ km} = 3.84 \\times 10^8 \\text{ m} \\\\ \\\\ F = G \\frac{Mm}{d^2}",
+    "placeholder_note": "Show the unit conversion for distance and the formula for gravitational force."
+  },
+  "source_example_id": "std_9_chapter_9_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸಿ ಮತ್ತು ಏಕಮಾನಗಳನ್ನು SI ಪದ್ಧತಿಗೆ ಪರಿವರ್ತಿಸಿ.",
+      "justification": "ಲೆಕ್ಕಾಚಾರದಲ್ಲಿ ಬಳಸುವ ಎಲ್ಲಾ ಮೌಲ್ಯಗಳು ಪ್ರಮಾಣಿತ ಏಕಮಾನಗಳಲ್ಲಿರಬೇಕು."
+    },
+    {
+      "step": 2,
+      "action_display": "ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ನಿಯಮದ ಸೂತ್ರವನ್ನು ಬಳಸಿ.",
+      "justification": "ಎರಡು ರಾಶಿಗಳ ನಡುವಿನ ಗುರುತ್ವ ಬಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಈ ಸೂತ್ರವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "std_9_chapter_9_concept_2_chunk_025"
+}

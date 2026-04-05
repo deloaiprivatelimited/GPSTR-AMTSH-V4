@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಎಥನಾಲ್ ಸೋಡಿಯಂನೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ಸೋಡಿಯಂ ಎಥಾಕ್ಸೈಡ್ ಮತ್ತು ಹೈಡೋಜನ್ ಅನಿಲ ಉಂಟಾಗುತ್ತದೆ. ಸಮೀಕರಣವನ್ನು ಹೀಗೆ ಓದಬಹುದು: ಎರಡು ಘನ ಸೋಡಿಯಂ ಪರಮಾಣುಗಳು, ಎರಡು ದ್ರವ ಎಥನಾಲ್ ಅಣುಗಳೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎರಡು ಸೋಡಿಯಂ ಎಥಾಕ್ಸೈಡ್ ಮತ್ತು ಒಂದು ಹೈಡೋಜನ್ ಅನಿಲದ ಅಣುವನ್ನು ಉತ್ಪನ್ನವಾಗಿ ನೀಡುತ್ತವೆ.",
+  "script_display": "ಎಥನಾಲ್ ಸೋಡಿಯಂನೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ಸೋಡಿಯಂ ಎಥಾಕ್ಸೈಡ್ ಮತ್ತು ಹೈಡೋಜನ್ ಅನಿಲ ಉಂಟಾಗುತ್ತದೆ. ಸಮೀಕರಣ:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_with_description",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2Na(s) + 2CH_3CH_2OH(l) \\rightarrow 2CH_3CH_2O^-Na^+(aq) + H_2(g)",
+    "placeholder_note": "Balanced chemical equation for the reaction of sodium with ethanol."
+  },
+  "chunk_id": "std_10_chapter_4_concept_9_chunk_008"
+}

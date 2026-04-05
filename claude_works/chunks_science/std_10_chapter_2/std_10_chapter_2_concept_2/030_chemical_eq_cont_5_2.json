@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ತಾಮ್ರದ ಆಕ್ಸೈಡ್ ಮತ್ತು HCl",
+  "script": "ಒಂದು ಪ್ರಾಯೋಗಿಕ ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ಸ್ವಲ್ಪ ಕಪ್ಪು ಬಣ್ಣದ ತಾಮ್ರದ ಆಕ್ಸೈಡ್ ಪುಡಿಯನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದಕ್ಕೆ ನಿಧಾನವಾಗಿ ಸಾರರಿಕ್ತ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವನ್ನು ಸೇರಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸೋಣ. ಇಲ್ಲಿ ಪ್ರತಿಕ್ರಿಯಾಕಾರಿಗಳು ತಾಮ್ರದ ಆಕ್ಸೈಡ್ ಮತ್ತು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ. ನಾವು ದ್ರಾವಣದ ಬಣ್ಣದಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಯನ್ನು ವೀಕ್ಷಿಸಬಹುದು.",
+  "script_display": "ಒಂದು ಪ್ರಾಯೋಗಿಕ ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ಸ್ವಲ್ಪ ಕಪ್ಪು ಬಣ್ಣದ ತಾಮ್ರದ ಆಕ್ಸೈಡ್ (CuO) ಪುಡಿಯನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದಕ್ಕೆ ನಿಧಾನವಾಗಿ ಸಾರರಿಕ್ತ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವನ್ನು (HCl) ಸೇರಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸೋಣ.",
+  "display_bullets": [
+    "ಪ್ರತಿಕ್ರಿಯಾಕಾರಿಗಳು: ತಾಮ್ರದ(II) ಆಕ್ಸೈಡ್ (CuO) ಮತ್ತು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl).",
+    "ವೀಕ್ಷಣೆ: ದ್ರಾವಣದ ಬಣ್ಣದಲ್ಲಿ ಬದಲಾವಣೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker containing black copper(II) oxide powder. An arrow indicates dilute hydrochloric acid being added to it.",
+    "labels": "ಬೀಕರ್, ತಾಮ್ರದ(II) ಆಕ್ಸೈಡ್ (CuO), ಸಾರರಿಕ್ತ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl)",
+    "scientific_significance": "Shows the initial setup for the reaction between an acid and a metallic oxide.",
+    "placeholder_note": "Image to be generated: Beaker with black powder (CuO), with an arrow showing liquid (HCl) being poured in."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_030"
+}

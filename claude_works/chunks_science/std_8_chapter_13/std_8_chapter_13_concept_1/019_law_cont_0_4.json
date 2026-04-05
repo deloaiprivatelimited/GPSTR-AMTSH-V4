@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಮತಲದ ಪರಿಕಲ್ಪನೆ",
+  "script": "ಈ ಚಿತ್ರವು ಎರಡನೇ ನಿಯಮವನ್ನು ಚೆನ್ನಾಗಿ ವಿವರಿಸುತ್ತದೆ. ಇಲ್ಲಿ ಬೂದು ಬಣ್ಣದ ಹಾಳೆಯನ್ನು ಒಂದು ಸಮತಲ ಎಂದು ಭಾವಿಸಿ. ಪತನ ಕಿರಣವು ಆ ಹಾಳೆಯ ಮೇಲೆ ಬರುತ್ತದೆ, ಮತ್ತು ಪ್ರತಿಫಲಿತ ಕಿರಣವೂ ಅದೇ ಹಾಳೆಯ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ. ಲಂಬ ರೇಖೆಯೂ ಸಹ ಅದೇ ಹಾಳೆಯಲ್ಲಿದೆ. ಪ್ರತಿಫಲಿತ ಕಿರಣವು ಮೇಲಕ್ಕೆ ಅಥವಾ ಕೆಳಕ್ಕೆ, ಅಂದರೆ ಆ ಹಾಳೆಯಿಂದ ಹೊರಗೆ ಹೋಗುವುದಿಲ್ಲ. ಇದರರ್ಥ, ಪ್ರತಿಫಲನವು ಒಂದು ಎರಡು ಆಯಾಮದ ಅಥವಾ ಟೂ ಡೈಮೆನ್ಶನಲ್ ವಿದ್ಯಮಾನವಾಗಿದೆ. ಇದು ಬೆಳಕಿನ ಚಲನೆಯನ್ನು ಊಹಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವು ಎರಡನೇ ನಿಯಮವನ್ನು ಚೆನ್ನಾಗಿ ವಿವರಿಸುತ್ತದೆ. ಇಲ್ಲಿ ಬೂದು ಬಣ್ಣದ ಹಾಳೆಯನ್ನು ಒಂದು ಸಮತಲ ಎಂದು ಭಾವಿಸಿ. ಪತನ ಕಿರಣವು ಆ ಹಾಳೆಯ ಮೇಲೆ ಬರುತ್ತದೆ, ಮತ್ತು ಪ್ರತಿಫಲಿತ ಕಿರಣವೂ ಅದೇ ಹಾಳೆಯ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ. ಲಂಬ ರೇಖೆಯೂ ಸಹ ಅದೇ ಹಾಳೆಯಲ್ಲಿದೆ. ಪ್ರತಿಫಲಿತ ಕಿರಣವು ಮೇಲಕ್ಕೆ ಅಥವಾ ಕೆಳಕ್ಕೆ, ಅಂದರೆ ಆ ಹಾಳೆಯಿಂದ ಹೊರಗೆ ಹೋಗುವುದಿಲ್ಲ. ಇದರರ್ಥ, ಪ್ರತಿಫಲನವು ಒಂದು 2-ಆಯಾಮದ (2D) ವಿದ್ಯಮಾನವಾಗಿದೆ. ಇದು ಬೆಳಕಿನ ಚಲನೆಯನ್ನು ಊಹಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪತನ ಕಿರಣ, ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬವು ಒಂದೇ ಸಮತಲದಲ್ಲಿವೆ.",
+    "ಪ್ರತಿಫಲಿತ ಕಿರಣವು ಸಮತಲದಿಂದ ಹೊರಗೆ ಬರುವುದಿಲ್ಲ.",
+    "ಇದು ಪ್ರತಿಫಲನವನ್ನು 2-ಆಯಾಮದ ವಿದ್ಯಮಾನವನ್ನಾಗಿ ಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating the second law of reflection. It shows a 3D perspective. A flat plane (like a sheet of paper or glass, shaded grey) is shown. The incident ray, reflected ray, and the normal are all drawn *on* this plane. The key is to show that the reflected ray does not leave the plane (e.g., by showing a faint 'X' on a path popping out of the plane).",
+    "labels": "ಸಮತಲ, ಪತನ ಕಿರಣ, ಪ್ರತಿಫಲಿತ ಕಿರಣ, ಲಂಬ",
+    "scientific_significance": "This visual clarifies the concept of 'same plane' in the second law of reflection, showing that reflection is a 2D phenomenon.",
+    "placeholder_note": "Image to be generated for the second law of reflection (plane concept)."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_13_concept_1_chunk_019"
+}

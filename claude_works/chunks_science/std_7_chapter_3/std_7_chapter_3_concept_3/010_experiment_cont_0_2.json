@@ -1,0 +1,35 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಕಾರ್ಯವಿಧಾನ: ಮೊದಲ ಹಂತಗಳು",
+  "script": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ಒಂದು ಬೀಕರ್ ತೆಗೆದುಕೊಂಡು ಅದರಲ್ಲಿ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ನಲ್ಲಿ ನೀರನ್ನು ತುಂಬಿಸಿ. ನೀರು ತುಂಬಾ ಬಿಸಿಯಾಗಿಯೂ ಅಥವಾ ತಣ್ಣಗಾಗಿಯೂ ಇರಬೇಕಾಗಿಲ್ಲ, ಸಾಮಾನ್ಯ ಕೊಠಡಿ ತಾಪಮಾನದ ನೀರಾದರೆ ಸಾಕು. ನಂತರ, ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕವನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದರ ಬುರುಡೆಯ ಭಾಗವನ್ನು ನಿಧಾನವಾಗಿ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿಸಿ. ತಾಪಮಾಪಕವನ್ನು ಯಾವಾಗಲೂ ಲಂಬವಾಗಿ, ಅಂದರೆ ನೇರವಾಗಿ ಹಿಡಿದುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ಒಂದು ಬೀಕರ್ ತೆಗೆದುಕೊಂಡು ಅದರಲ್ಲಿ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ನಲ್ಲಿ ನೀರನ್ನು ತುಂಬಿಸಿ. ನೀರು ತುಂಬಾ ಬಿಸಿಯಾಗಿಯೂ ಅಥವಾ ತಣ್ಣಗಾಗಿಯೂ ಇರಬೇಕಾಗಿಲ್ಲ, ಸಾಮಾನ್ಯ ಕೊಠಡಿ ತಾಪಮಾನದ ನೀರಾದರೆ ಸಾಕು. ನಂತರ, ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕವನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದರ ಬುರುಡೆಯ ಭಾಗವನ್ನು ನಿಧಾನವಾಗಿ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿಸಿ. ತಾಪಮಾಪಕವನ್ನು ಯಾವಾಗಲೂ ಲಂಬವಾಗಿ, ಅಂದರೆ ನೇರವಾಗಿ ಹಿಡಿದುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ಸ್ವಲ್ಪ ನೀರನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "ತಾಪಮಾಪಕವನ್ನು ನೀರಿನಲ್ಲಿ ಮುಳುಗಿಸಿ, ಅದನ್ನು ಲಂಬವಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a hand holding a laboratory thermometer vertically and immersing its bulb into a beaker of water. The thermometer should not be tilted.",
+    "labels": "Vertical immersion",
+    "scientific_significance": "Illustrates the correct initial step of the procedure.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_3_concept_3_chunk_010"
+}

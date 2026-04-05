@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪರಿಮಾಣದ ಏಕಮಾನಗಳು",
+  "script": "ಈಗ ಪರಿಮಾಣದ ಏಕಮಾನಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಪರಿಮಾಣದ ಎಸ್ ಐ ಏಕಮಾನವು ಘನ ಮೀಟರ್ ಆಗಿದೆ, ಇದನ್ನು ಎಂ ಕ್ಯೂಬ್ಡ್ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇದು ಬಹಳ ದೊಡ್ಡ ಅಳತೆಯಾಗಿದ್ದು, ಉದಾಹರಣೆಗೆ ಒಂದು ದೊಡ್ಡ ನೀರಿನ ಟ್ಯಾಂಕ್‌ನ ಸಾಮರ್ಥ್ಯವನ್ನು ಅಳೆಯಲು ಬಳಸಬಹುದು. ಆದರೆ, ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಮತ್ತು ಪ್ರಯೋಗಾಲಯಗಳಲ್ಲಿ, ನಾವು ದ್ರವಗಳನ್ನು ಅಳೆಯಲು ಹೆಚ್ಚು ಅನುಕೂಲಕರವಾದ ಏಕಮಾನಗಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಅವುಗಳಲ್ಲಿ ಮುಖ್ಯವಾದುದು ಲೀಟರ್. ಲೀಟರ್ ಅನ್ನು ದೊಡ್ಡಕ್ಷರ ಎಲ್ ನಿಂದ ಸೂಚಿಸಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ಅಂಗಡಿಯಿಂದ ಒಂದು ಲೀಟರ್ ಹಾಲು ಅಥವಾ ಎಣ್ಣೆಯನ್ನು ತರುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಪರಿಮಾಣದ ಏಕಮಾನಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಪರಿಮಾಣದ SI ಏಕಮಾನವು ಘನ ಮೀಟರ್ ಆಗಿದೆ, ಇದನ್ನು m³ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇದು ಬಹಳ ದೊಡ್ಡ ಅಳತೆಯಾಗಿದ್ದು, ಉದಾಹರಣೆಗೆ ಒಂದು ದೊಡ್ಡ ನೀರಿನ ಟ್ಯಾಂಕ್‌ನ ಸಾಮರ್ಥ್ಯವನ್ನು ಅಳೆಯಲು ಬಳಸಬಹುದು. ಆದರೆ, ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಮತ್ತು ಪ್ರಯೋಗಾಲಯಗಳಲ್ಲಿ, ನಾವು ದ್ರವಗಳನ್ನು ಅಳೆಯಲು ಹೆಚ್ಚು ಅನುಕೂಲಕರವಾದ ಏಕಮಾನಗಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಅವುಗಳಲ್ಲಿ ಮುಖ್ಯವಾದುದು ಲೀಟರ್. ಲೀಟರ್ ಅನ್ನು ದೊಡ್ಡಕ್ಷರ L ನಿಂದ ಸೂಚಿಸಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ಅಂಗಡಿಯಿಂದ 1 L ಹಾಲು ಅಥವಾ ಎಣ್ಣೆಯನ್ನು ತರುತ್ತೇವೆ.",
+  "display_bullets": [
+    "SI ಏಕಮಾನ: ಘನ ಮೀಟರ್ (m³)",
+    "ದ್ರವಗಳಿಗೆ ಸಾಮಾನ್ಯ ಏಕಮಾನ: ಲೀಟರ್ (L)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A large cube with dimensions 1m x 1m x 1m is labeled '1 ಘನ ಮೀಟರ್ (m³)' or '1 cubic meter'. Next to it, for scale, is a much smaller 1-liter milk or juice carton labeled '1 ಲೀಟರ್ (L)'. This visually contrasts the SI unit with the common unit.",
+    "labels": "1 m³ cube, 1 L carton",
+    "scientific_significance": "Helps learners visualize the significant difference in scale between the SI unit of volume (cubic meter) and the commonly used unit (liter).",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_6_chapter_6_concept_6_chunk_004"
+}

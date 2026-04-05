@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ನೈಜ ಪ್ರಪಂಚದ ಉದಾಹರಣೆ: ಕಡಲ್ಗಾಳಿ",
+  "script": "ಸಂವಹನಕ್ಕೆ ಒಂದು ಅತ್ಯುತ್ತಮ ನೈಸರ್ಗಿಕ ಉದಾಹರಣೆ ಎಂದರೆ ಕಡಲ್ಗಾಳಿ. ಹಗಲಿನ ಸಮಯದಲ್ಲಿ, ಭೂಮಿಯು ಸಮುದ್ರದ ನೀರಿಗಿಂತ ವೇಗವಾಗಿ ಬಿಸಿಯಾಗುತ್ತದೆ. ಇದರಿಂದ ಭೂಮಿಯ ಮೇಲಿರುವ ಗಾಳಿಯು ಬಿಸಿಯಾಗಿ, ಹಗುರವಾಗಿ ಮೇಲಕ್ಕೆ ಏರುತ್ತದೆ. ಆಗ ಆ ಖಾಲಿ ಜಾಗವನ್ನು ತುಂಬಲು, ಸಮುದ್ರದ ಮೇಲಿರುವ ತಂಪಾದ ಗಾಳಿಯು ಭೂಮಿಯ ಕಡೆಗೆ ಬೀಸುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಕಡಲ್ಗಾಳಿ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ರಾತ್ರಿಯಲ್ಲಿ ಇದರ ವಿರುದ್ಧ ಪ್ರಕ್ರಿಯೆ ನಡೆದು ನೆಲಗಾಳಿ ಉಂಟಾಗುತ್ತದೆ. ಇವೆರಡೂ ಸಂವಹನದಿಂದ ಉಂಟಾಗುವ ಸುಂದರ ವಿದ್ಯಮಾನಗಳು.",
+  "script_display": "ಸಂವಹನಕ್ಕೆ ಒಂದು ಅತ್ಯುತ್ತಮ ನೈಸರ್ಗಿಕ ಉದಾಹರಣೆ ಎಂದರೆ ಕಡಲ್ಗಾಳಿ (Sea Breeze). ಹಗಲಿನ ಸಮಯದಲ್ಲಿ, ಭೂಮಿಯು ಸಮುದ್ರದ ನೀರಿಗಿಂತ ವೇಗವಾಗಿ ಬಿಸಿಯಾಗುತ್ತದೆ. ಇದರಿಂದ ಭೂಮಿಯ ಮೇಲಿರುವ ಗಾಳಿಯು ಬಿಸಿಯಾಗಿ, ಹಗುರವಾಗಿ ಮೇಲಕ್ಕೆ ಏರುತ್ತದೆ. ಆಗ ಆ ಖಾಲಿ ಜಾಗವನ್ನು ತುಂಬಲು, ಸಮುದ್ರದ ಮೇಲಿರುವ ತಂಪಾದ ಗಾಳಿಯು ಭೂಮಿಯ ಕಡೆಗೆ ಬೀಸುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಕಡಲ್ಗಾಳಿ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ರಾತ್ರಿಯಲ್ಲಿ ಇದರ ವಿರುದ್ಧ ಪ್ರಕ್ರಿಯೆ ನಡೆದು ನೆಲಗಾಳಿ (Land Breeze) ಉಂಟಾಗುತ್ತದೆ. ಇವೆರಡೂ ಸಂವಹನದಿಂದ ಉಂಟಾಗುವ ಸುಂದರ ವಿದ್ಯಮಾನಗಳು.",
+  "display_bullets": [
+    "ಹಗಲಿನಲ್ಲಿ, ಭೂಮಿ ಬೇಗ ಬಿಸಿಯಾಗುತ್ತದೆ.",
+    "ಭೂಮಿಯ ಮೇಲಿನ ಬಿಸಿ ಗಾಳಿ ಮೇಲಕ್ಕೆ ಏರುತ್ತದೆ.",
+    "ಸಮುದ್ರದ ಮೇಲಿನ ತಂಪು ಗಾಳಿ ಭೂಮಿಯತ್ತ ಬೀಸುತ್ತದೆ.",
+    "ಇದನ್ನೇ 'ಕಡಲ್ಗಾಳಿ' (Sea Breeze) ಎನ್ನುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing sea breeze during the day. The sun is shining. The land is hot, with red arrows showing hot air rising. The sea is cooler, with blue arrows showing cool air moving from the sea to the land to replace the rising hot air.",
+    "labels": "ಹಗಲಿನ ಸಮಯ, ಭೂಮಿ (ಬಿಸಿ), ಸಮುದ್ರ (ತಂಪು), ಬಿಸಿ ಗಾಳಿ, ತಂಪು ಗಾಳಿ (ಕಡಲ್ಗಾಳಿ)",
+    "scientific_significance": "Illustrates a large-scale, natural convection process (sea breeze) driven by the differential heating of land and sea, a key concept in meteorology and geography.",
+    "placeholder_note": "Image to be generated to illustrate sea breeze."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_3_concept_5_chunk_005"
+}

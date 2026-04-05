@@ -1,0 +1,101 @@
+{
+  "module_id": "std_8_science_ch_12_concept_5",
+  "chapter_code": "std_8_chapter_12",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 346.848,
+  "total_duration_formatted": "5:46",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_science_ch_12_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಭೂಕಂಪಗಳಿಂದ ರಕ್ಷಣೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 44.931,
+      "duration": 44.931,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_8_science_ch_12_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 45.531,
+      "end": 80.982,
+      "duration": 35.451,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "std_8_science_ch_12_concept_5_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಭೂಕಂಪಗಳಿಂದ ರಕ್ಷಣೆ: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 81.582,
+      "end": 117.633,
+      "duration": 36.051,
+      "script_words": 43
+    },
+    {
+      "chunk_id": "std_8_science_ch_12_concept_5_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಮುನ್ನೆಚ್ಚರಿಕೆ ಕ್ರಮಗಳು: ಕಟ್ಟಡಗಳ ಸುರಕ್ಷತೆ",
+      "type": "concept_explanation",
+      "start": 118.233,
+      "end": 161.284,
+      "duration": 43.051,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_8_science_ch_12_concept_5_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಮುನ್ನೆಚ್ಚರಿಕೆ ಕ್ರಮಗಳು: ಮನೆಯೊಳಗಿನ ಸುರಕ್ಷತೆ",
+      "type": "concept_explanation",
+      "start": 161.884,
+      "end": 204.175,
+      "duration": 42.291,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_8_science_ch_12_concept_5_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ತಕ್ಷಣದ ಸುರಕ್ಷತಾ ಕ್ರಮಗಳು: ನೀವು ಮನೆಯಲ್ಲಿದ್ದರೆ",
+      "type": "concept_explanation",
+      "start": 204.775,
+      "end": 256.626,
+      "duration": 51.851,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "std_8_science_ch_12_concept_5_chunk_007",
+      "chunk_file": "007_classification_cont_0_4.json",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "slide_title": "ತಕ್ಷಣದ ಸುರಕ್ಷತಾ ಕ್ರಮಗಳು: ಹೊರಗೆ ಅಥವಾ ವಾಹನದಲ್ಲಿದ್ದರೆ",
+      "type": "concept_explanation",
+      "start": 257.226,
+      "end": 299.197,
+      "duration": 41.971,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_8_science_ch_12_concept_5_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 299.797,
+      "end": 346.248,
+      "duration": 46.451,
+      "script_words": 59
+    }
+  ]
+}

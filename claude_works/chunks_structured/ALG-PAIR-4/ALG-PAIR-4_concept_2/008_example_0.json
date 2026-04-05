@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ನಕ್ಷಾ ವಿಧಾನ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ x ಪ್ಲಸ್ ಮೂರು y ಈಕ್ವಲ್ಸ್ ಆರು ಮತ್ತು ಎರಡು x ಮೈನಸ್ ಮೂರು y ಈಕ್ವಲ್ಸ್ ಹನ್ನೆರಡು ಎಂಬ ಎರಡು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ಈ ಸಮೀಕರಣಗಳ ಜೋಡಿಯು ಸ್ಥಿರವೇ ಎಂದು ನಾವು ನಕ್ಷೆಯ ಮೂಲಕ ಪರೀಕ್ಷಿಸಬೇಕು ಮತ್ತು ಪರಿಹಾರವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ $x + 3y = 6$ ಮತ್ತು $2x – 3y = 12$ ಎಂಬ ಎರಡು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ಈ ಸಮೀಕರಣಗಳ ಜೋಡಿಯು ಸ್ಥಿರವೇ ಎಂದು ನಾವು ನಕ್ಷೆಯ ಮೂಲಕ ಪರೀಕ್ಷಿಸಬೇಕು ಮತ್ತು ಪರಿಹಾರವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "$x + 3y = 6$ ಮತ್ತು $2x – 3y = 12$ ಸಮೀಕರಣಗಳ ಜೋಡಿಯು ಸ್ಥಿರವೇ ಎಂಬುದನ್ನು ನಕ್ಷೆಯ ಮೂಲಕ ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಪರಿಹಾರವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x + 3y = 6 \\\\ 2x - 3y = 12",
+    "placeholder_note": "Display the two equations clearly."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "ALG-PAIR-4_example_1",
+  "chunk_id": "ALG-PAIR-4_concept_2_chunk_008"
+}

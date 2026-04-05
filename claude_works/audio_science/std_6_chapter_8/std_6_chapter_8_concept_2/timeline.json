@@ -1,0 +1,145 @@
+{
+  "module_id": "std_6_chapter_8_concept_2",
+  "chapter_code": "std_6_chapter_8",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 12,
+  "total_duration": 474.732,
+  "total_duration_formatted": "7:54",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_8_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸ್ಥಿತಿ ಪರಿವರ್ತನೆ: ಕಾಸುವಿಕೆಯಿಂದ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 43.451,
+      "duration": 43.451,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "start": 44.051,
+      "end": 66.542,
+      "duration": 22.491,
+      "script_words": 36
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_2_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ದ್ರವಿಸುವಿಕೆ (Melting)",
+      "type": "definition",
+      "start": 67.142,
+      "end": 106.913,
+      "duration": 39.771,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_2_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಮಂಜುಗಡ್ಡೆಯ ದ್ರವಿಸುವಿಕೆ",
+      "type": "definition",
+      "start": 107.513,
+      "end": 145.084,
+      "duration": 37.571,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_2_chunk_005",
+      "chunk_file": "005_definition_1.json",
+      "wav_file": "005_definition_1.wav",
+      "slide_title": "ಆವೀಕರಣ (Evaporation)",
+      "type": "definition",
+      "start": 145.684,
+      "end": 192.135,
+      "duration": 46.451,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_2_chunk_006",
+      "chunk_file": "006_definition_cont_1_1.json",
+      "wav_file": "006_definition_cont_1_1.wav",
+      "slide_title": "ಆವೀಕರಣ: ಒಂದು ದೃಶ್ಯ ಉದಾಹರಣೆ",
+      "type": "definition",
+      "start": 192.735,
+      "end": 233.026,
+      "duration": 40.291,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_2_chunk_007",
+      "chunk_file": "007_definition_cont_1_2.json",
+      "wav_file": "007_definition_cont_1_2.wav",
+      "slide_title": "ಆವೀಕರಣ vs. ಕುದಿಯುವಿಕೆ",
+      "type": "definition",
+      "start": 233.626,
+      "end": 274.717,
+      "duration": 41.091,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_2_chunk_008",
+      "chunk_file": "008_experiment_0.json",
+      "wav_file": "008_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ 8.1: ದ್ರವಿಸುವಿಕೆಯ ಅವಲೋಕನ",
+      "type": "experiment_activity",
+      "start": 275.317,
+      "end": 320.648,
+      "duration": 45.331,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_2_chunk_009",
+      "chunk_file": "009_experiment_cont_0_1.json",
+      "wav_file": "009_experiment_cont_0_1.wav",
+      "slide_title": "ಚಟುವಟಿಕೆಯ ವಿಧಾನ",
+      "type": "experiment_activity",
+      "start": 321.248,
+      "end": 362.099,
+      "duration": 40.851,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_2_chunk_010",
+      "chunk_file": "010_experiment_cont_0_2.json",
+      "wav_file": "010_experiment_cont_0_2.wav",
+      "slide_title": "ಅವಲೋಕನ (Observation)",
+      "type": "experiment_activity",
+      "start": 362.699,
+      "end": 401.19,
+      "duration": 38.491,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_2_chunk_011",
+      "chunk_file": "011_experiment_cont_0_3.json",
+      "wav_file": "011_experiment_cont_0_3.wav",
+      "slide_title": "ತೀರ್ಮಾನ ಮತ್ತು ವ್ಯಾಖ್ಯೆ",
+      "type": "experiment_activity",
+      "start": 401.79,
+      "end": 431.521,
+      "duration": 29.731,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_2_chunk_012",
+      "chunk_file": "012_recap_0.json",
+      "wav_file": "012_recap_0.wav",
+      "slide_title": "ಸ್ಥಿತಿ ಪರಿವರ್ತನೆ - ಕಾಸುವಿಕೆಯಿಂದ: ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 432.121,
+      "end": 474.132,
+      "duration": 42.011,
+      "script_words": 53
+    }
+  ]
+}

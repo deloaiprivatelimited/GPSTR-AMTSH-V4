@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಈಗ ಅಂತಿಮ ಹಂತವನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಲೆಕ್ಕಾಚಾರವು ಏಳು ಮೈನಸ್ ಮೂರು ರೂಟ್ ಎರಡು ಭಾಗದ ನಲವತ್ತೊಂಬತ್ತು ಮೈನಸ್ ಹದಿನೆಂಟು, ಇದು ಏಳು ಮೈನಸ್ ಮೂರು ರೂಟ್ ಎರಡು ಭಾಗದ ಮೂವತ್ತೊಂದು ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ ಏಳು ಮೈನಸ್ ಮೂರು ರೂಟ್ ಎರಡು ಭಾಗದ ಮೂವತ್ತೊಂದು. ಇಲ್ಲಿ ಛೇದವಾದ ಮೂವತ್ತೊಂದು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿದೆ, ಹಾಗಾಗಿ ನಮ್ಮ ಅಕರಣೀಕರಣ ಪೂರ್ಣಗೊಂಡಿದೆ.",
+  "script_display": "ಈಗ ಅಂತಿಮ ಹಂತವನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಲೆಕ್ಕಾಚಾರವು $\\frac{7-3\\sqrt{2}}{49-18} = \\frac{7-3\\sqrt{2}}{31}$ ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ $\\frac{7-3\\sqrt{2}}{31}$. ಇಲ್ಲಿ ಛೇದವಾದ $31$ ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿದೆ, ಹಾಗಾಗಿ ನಮ್ಮ ಅಕರಣೀಕರಣ ಪೂರ್ಣಗೊಂಡಿದೆ.",
+  "display_bullets": [
+    "ಲೆಕ್ಕಾಚಾರ: $\\frac{7-3\\sqrt{2}}{49-18} = \\frac{7-3\\sqrt{2}}{31}$",
+    "ಅಂತಿಮ ಉತ್ತರ: $\\frac{7-3\\sqrt{2}}{31}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{7-3\\sqrt{2}}{31}",
+    "placeholder_note": "The final answer."
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SYS-3_example_19",
+  "final_answer": "(7-3*sqrt(2))/31",
+  "final_answer_display": "$\\frac{7-3\\sqrt{2}}{31}$",
+  "chunk_id": "NS-SYS-3_concept_5_chunk_025"
+}

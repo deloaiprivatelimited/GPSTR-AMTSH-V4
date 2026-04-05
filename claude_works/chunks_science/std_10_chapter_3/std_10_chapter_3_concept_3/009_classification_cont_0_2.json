@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಪವಾದಗಳು: ಮೃದುವಾದ ಲೋಹಗಳು",
+  "script": "ಲೋಹಗಳು ಕಠಿಣ ಮತ್ತು ಗಟ್ಟಿಯಾಗಿರುತ್ತವೆ ಎಂಬುದು ಸಾಮಾನ್ಯ ನಿಯಮ. ಆದರೆ, ಕ್ಷಾರ ಲೋಹಗಳು, ಉದಾಹರಣೆಗೆ ಲಿಥಿಯಂ, ಸೋಡಿಯಂ ಮತ್ತು ಪೊಟ್ಯಾಸಿಯಂ, ಇದಕ್ಕೆ ಅಪವಾದಗಳಾಗಿವೆ. ಈ ಲೋಹಗಳು ಬೆಣ್ಣೆಯಷ್ಟು ಮೃದುವಾಗಿದ್ದು, ಇವುಗಳನ್ನು ನಾವು ಚಾಕುವಿನಿಂದ ಸುಲಭವಾಗಿ ಕತ್ತರಿಸಬಹುದು. ಇವುಗಳ ಸಾಂದ್ರತೆ ಕೂಡಾ ತುಂಬಾ ಕಡಿಮೆ, ಎಷ್ಟೆಂದರೆ ಇವು ನೀರಿನ ಮೇಲೆ ತೇಲುತ್ತವೆ. ಇದಕ್ಕೆ ಕಾರಣ, ಇವುಗಳ ಪರಮಾಣುಗಳ ನಡುವಿನ ಲೋಹೀಯ ಬಂಧಗಳು ದುರ್ಬಲವಾಗಿರುವುದು. ಈ ಗುಣಗಳು ಅವುಗಳನ್ನು ವಿಶಿಷ್ಟವಾಗಿಸುತ್ತವೆ.",
+  "script_display": "ಲೋಹಗಳು ಕಠಿಣ ಮತ್ತು ಗಟ್ಟಿಯಾಗಿರುತ್ತವೆ ಎಂಬುದು ಸಾಮಾನ್ಯ ನಿಯಮ. ಆದರೆ, ಕ್ಷಾರ ಲೋಹಗಳು (Alkali Metals), ಉದಾಹರಣೆಗೆ ಲಿಥಿಯಂ (Li), ಸೋಡಿಯಂ (Na) ಮತ್ತು ಪೊಟ್ಯಾಸಿಯಂ (K), ಇದಕ್ಕೆ ಅಪವಾದಗಳಾಗಿವೆ. ಈ ಲೋಹಗಳು ಬೆಣ್ಣೆಯಷ್ಟು ಮೃದುವಾಗಿದ್ದು, ಇವುಗಳನ್ನು ನಾವು ಚಾಕುವಿನಿಂದ ಸುಲಭವಾಗಿ ಕತ್ತರಿಸಬಹುದು. ಇವುಗಳ ಸಾಂದ್ರತೆ (density) ಕೂಡಾ ತುಂಬಾ ಕಡಿಮೆ, ಎಷ್ಟೆಂದರೆ ಇವು ನೀರಿನ ಮೇಲೆ ತೇಲುತ್ತವೆ. ಇದಕ್ಕೆ ಕಾರಣ, ಇವುಗಳ ಪರಮಾಣುಗಳ ನಡುವಿನ ಲೋಹೀಯ ಬಂಧಗಳು (metallic bonds) ದುರ್ಬಲವಾಗಿರುವುದು.",
+  "display_bullets": [
+    "ಕ್ಷಾರ ಲೋಹಗಳು (Li, Na, K): ಚಾಕುವಿನಿಂದ ಕತ್ತರಿಸಬಹುದಾದಷ್ಟು ಮೃದುವಾಗಿವೆ.",
+    "ಗುಣಗಳು: ಕಡಿಮೆ ಸಾಂದ್ರತೆ ಮತ್ತು ಕಡಿಮೆ ಕರಗುವ ಬಿಂದು ಹೊಂದಿವೆ.",
+    "ಕಾರಣ: ದುರ್ಬಲವಾದ ಲೋಹೀಯ ಬಂಧಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear, scientific image showing a piece of sodium metal being cut with a laboratory knife. The freshly cut surface should be shiny, contrasting with the duller, oxidized outer layer.",
+    "labels": "ಚಾಕುವಿನಿಂದ ಸೋಡಿಯಂ ಅನ್ನು ಕತ್ತರಿಸುವುದು",
+    "scientific_significance": "Demonstrates the exceptional softness of alkali metals, contrasting with the typical hardness of most other metals.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_3_chunk_009"
+}

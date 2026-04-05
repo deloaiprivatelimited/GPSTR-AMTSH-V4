@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು ಎರಡು ಗುಣಿಸು ಐದನೇ ಎರಡು ಸಮ ಐದನೇ ನಾಲ್ಕು ಎಂಬುದನ್ನು ಚಿತ್ರಗಳ ಸಹಾಯದಿಂದ ಯಶಸ್ವಿಯಾಗಿ ಪ್ರತಿನಿಧಿಸಿದ್ದೇವೆ. ಇಲ್ಲಿ ಮುಖ್ಯವಾದ ಅಂಶವೆಂದರೆ, ಗುಣಾಕಾರ ಎರಡು ಗುಣಿಸು ಐದನೇ ಎರಡು ಎಂದರೆ ಐದನೇ ಎರಡರ ಎರಡು ಗುಂಪುಗಳು. ಚಿತ್ರಾತ್ಮಕವಾಗಿ, ಇದು ಒಟ್ಟು ಐದನೇ ನಾಲ್ಕು ಭಾಗವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ನಾವು $2 \\times \\frac{2}{5} = \\frac{4}{5}$ ಎಂಬುದನ್ನು ಚಿತ್ರಗಳ ಸಹಾಯದಿಂದ ಯಶಸ್ವಿಯಾಗಿ ಪ್ರತಿನಿಧಿಸಿದ್ದೇವೆ. ಇಲ್ಲಿ ಮುಖ್ಯವಾದ ಅಂಶವೆಂದರೆ, ಗುಣಾಕಾರ $2 \\times \\frac{2}{5}$ ಎಂದರೆ $\\frac{2}{5}$ ರ ಎರಡು ಗುಂಪುಗಳು. ಚಿತ್ರಾತ್ಮಕವಾಗಿ, ಇದು ಒಟ್ಟು $\\frac{4}{5}$ ಭಾಗವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಗುಣಾಕಾರ $2 \\times \\frac{2}{5}$ ಎಂದರೆ $\\frac{2}{5}$ ರ ಎರಡು ಗುಂಪುಗಳು.",
+    "ಚಿತ್ರಾತ್ಮಕವಾಗಿ, ಇದು ಒಟ್ಟು $\\frac{4}{5}$ ಭಾಗವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಪೂರ್ಣ ದೃಶ್ಯ ಸಮೀಕರಣವನ್ನು ತೋರಿಸುವ ಅಂತಿಮ ಸಾರಾಂಶ ಚಿತ್ರ: '2 x' ನಂತರ 2/5 ಛಾಯೆಗೊಳಿಸಿದ ಆಯತ, ನಂತರ '=' ಚಿಹ್ನೆ, ಮತ್ತು ಅಂತಿಮವಾಗಿ 4/5 ಛಾಯೆಗೊಳಿಸಿದ ಆಯತ. ಇದು ಇಡೀ ಸಮಸ್ಯೆಯನ್ನು ಮತ್ತು ಪರಿಹಾರವನ್ನು ದೃಷ್ಟಿಗೋಚರವಾಗಿ ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸುತ್ತದೆ.",
+    "labels": "2, 2/5, 4/5",
+    "mathematical_significance": "ಇದು ಪೂರ್ಣಾಂಕ ಮತ್ತು ಭಿನ್ನರಾಶಿಯ ಗುಣಾಕಾರದ ದೃಶ್ಯ ನಿರೂಪಣೆಯ ಸಂಪೂರ್ಣ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಒಂದೇ ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated: A visual equation showing '2 x (shape with 2/5 shaded) = (shape with 4/5 shaded)'."
+  },
+  "source_example_id": "NS-FRA-1_example_6",
+  "steps": [],
+  "final_answer": "ಎರಡು 2/5 ಭಾಗಗಳು ಸೇರಿ 4/5 ಆಗುತ್ತದೆ.",
+  "final_answer_display": "ಎರಡು $\\frac{2}{5}$ ಭಾಗಗಳು ಸೇರಿ $\\frac{4}{5}$ ಆಗುತ್ತದೆ.",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "NS-FRA-1_concept_5_chunk_021"
+}

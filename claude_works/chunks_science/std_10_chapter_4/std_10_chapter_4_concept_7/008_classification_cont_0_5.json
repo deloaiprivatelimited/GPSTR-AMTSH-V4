@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹಂತ 4: ಹೆಸರನ್ನು ಸಂಯೋಜಿಸುವುದು",
+  "script": "ನಾಮಕರಣದ ಅಂತಿಮ ಹಂತದಲ್ಲಿ, ನಾವು ಎಲ್ಲಾ ಭಾಗಗಳನ್ನು ಒಟ್ಟಿಗೆ ಸೇರಿಸಿ ಪೂರ್ಣ ಹೆಸರನ್ನು ರಚಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ನಿಯಮವಿದೆ. ಕ್ರಿಯಾಗುಂಪಿನ ಅಂತ್ಯ ಪ್ರತ್ಯಯವು ಎ, ಇ, ಐ, ಓ, ಅಥವಾ ಯು ನಂತಹ ಸ್ವರದಿಂದ ಆರಂಭವಾದರೆ, ಮೂಲ ಆಲ್ಕೇನ್ ಹೆಸರಿನ ಕೊನೆಯ 'ಇ' ಅಕ್ಷರವನ್ನು ತೆಗೆದುಹಾಕಬೇಕು. ಉದಾಹರಣೆಗೆ, ಮೂರು ಕಾರ್ಬನ್ ಇರುವ ಕೀಟೋನ್ ಅನ್ನು ಹೆಸರಿಸುವಾಗ, ಮೂಲ ಪದ 'ಪ್ರೋಪ್', ಏಕಬಂಧಕ್ಕೆ 'ಏನ್', ಮತ್ತು ಕೀಟೋನ್ ಗುಂಪಿಗೆ 'ಓನ್' ಸೇರಿಸುತ್ತೇವೆ. 'ಓನ್' ಸ್ವರದಿಂದ ಆರಂಭವಾಗುವುದರಿಂದ, ಪ್ರೊಪೇನ್‌ನ ಕೊನೆಯ 'ಇ' ತೆಗೆದು ಪ್ರೊಪೆನೋನ್ ಎಂದು ಆಗುತ್ತದೆ.",
+  "script_display": "ನಾಮಕರಣದ ಅಂತಿಮ ಹಂತದಲ್ಲಿ, ನಾವು ಎಲ್ಲಾ ಭಾಗಗಳನ್ನು ಒಟ್ಟಿಗೆ ಸೇರಿಸಿ ಪೂರ್ಣ ಹೆಸರನ್ನು ರಚಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ನಿಯಮವಿದೆ. ಕ್ರಿಯಾಗುಂಪಿನ ಅಂತ್ಯ ಪ್ರತ್ಯಯವು ಸ್ವರದಿಂದ (a, e, i, o, u) ಆರಂಭವಾದರೆ, ಮೂಲ ಆಲ್ಕೇನ್ ಹೆಸರಿನ ಕೊನೆಯ 'e' ಅಕ್ಷರವನ್ನು ತೆಗೆದುಹಾಕಬೇಕು. ಉದಾಹರಣೆಗೆ, ಮೂರು ಕಾರ್ಬನ್ ಇರುವ ಕೀಟೋನ್ ಅನ್ನು ಹೆಸರಿಸುವಾಗ, ಮೂಲ ಪದ 'ಪ್ರೋಪ್', ಏಕಬಂಧಕ್ಕೆ '-ಏನ್', ಮತ್ತು ಕೀಟೋನ್ ಗುಂಪಿಗೆ '-ಓನ್' ಸೇರಿಸುತ್ತೇವೆ. 'ಓನ್' ಸ್ವರದಿಂದ ಆರಂಭವಾಗುವುದರಿಂದ, Propane ನ ಕೊನೆಯ 'e' ತೆಗೆದು Propanone ಎಂದು ಆಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕ್ರಿಯಾಗುಂಪಿನ ಅಂತ್ಯ ಪ್ರತ್ಯಯವು ಸ್ವರದಿಂದ (a, e, i, o, u) ಆರಂಭವಾದರೆ, ಮೂಲ ಆಲ್ಕೇನ್ ಹೆಸರಿನ ಕೊನೆಯ 'e' ಅಕ್ಷರವನ್ನು ತೆಗೆದುಹಾಕಬೇಕು.",
+    "ಉದಾಹರಣೆ: ಪ್ರೊಪೇನ್ (Propane) + ಓನ್ (one)",
+    "ಸರಿಯಾದ ಹೆಸರು: ಪ್ರೊಪೆನೋನ್ (Propanone)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{Propane} + \\text{one} \\rightarrow \\text{Propan}\\cancel{\\text{e}} + \\text{one} \\rightarrow \\text{Propanone}",
+    "placeholder_note": "Visual representation of combining Propane and -one to form Propanone, showing the 'e' being dropped."
+  },
+  "chunk_id": "std_10_chapter_4_concept_7_chunk_008"
+}

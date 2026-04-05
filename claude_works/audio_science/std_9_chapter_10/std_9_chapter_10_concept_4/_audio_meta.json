@@ -1,0 +1,213 @@
+{
+  "module_id": "std_9_chapter_10_concept_4",
+  "chapter_code": "std_9_chapter_10",
+  "voice": "Kore",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 18,
+  "ok_count": 18,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:10:08",
+  "chunks": {
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "e8c6743e3dbc73e39c051f74c3aba324",
+      "wav_file": "003_definition_0.wav",
+      "duration": 38.971,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಚಲನಶಕ್ತಿ",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 15:06:59"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "b75d074cc6052fe19a0fdddb1a70ad72",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 33.731,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು (Prerequisites)",
+      "type": "chunk",
+      "script_words": 47,
+      "generated_at": "2026-04-02 15:07:04"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "ebd8e1e543e66098aa7d4de5f0d04437",
+      "wav_file": "001_intro_0.wav",
+      "duration": 53.611,
+      "slide_title": "ಪರಿಚಯ: ಚಲನಶಕ್ತಿ (Kinetic Energy)",
+      "type": "chunk",
+      "script_words": 74,
+      "generated_at": "2026-04-02 15:07:05"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "50bb435f9476da32bd1dc4eb02a7b3c2",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 49.531,
+      "slide_title": "ಹೋಲಿಕೆ: ವೇಗ ಮತ್ತು ಚಲನಶಕ್ತಿ",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 15:07:13"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "c69ef4cb76321d050440dc4ae4f3d821",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 48.851,
+      "slide_title": "ಚಲನಶಕ್ತಿ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "definition",
+      "script_words": 68,
+      "generated_at": "2026-04-02 15:07:35"
+    },
+    "007_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "e5b51d99d88de3bc0541f73263d01b26",
+      "wav_file": "007_formula_cont_0_1.wav",
+      "duration": 33.571,
+      "slide_title": "ಉದಾಹರಣೆ: ಚಲನಶಕ್ತಿ ಲೆಕ್ಕಾಚಾರ",
+      "type": "concept_explanation",
+      "script_words": 45,
+      "generated_at": "2026-04-02 15:07:51"
+    },
+    "006_formula_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "e6d0af994f247d191861f2362bfe2317",
+      "wav_file": "006_formula_0.wav",
+      "duration": 40.531,
+      "slide_title": "ಚಲನಶಕ್ತಿಯ ಸೂತ್ರ",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 15:07:59"
+    },
+    "009_formula_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "a10596648957f2b29ed259f28a6349ca",
+      "wav_file": "009_formula_cont_0_3.wav",
+      "duration": 47.611,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 15:08:00"
+    },
+    "010_example_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "7435a9204434eb3c61c524e597087396",
+      "wav_file": "010_example_0.wav",
+      "duration": 34.531,
+      "slide_title": "ಲೆಕ್ಕಾತ್ಮಕ ಉದಾಹರಣೆ: ಚಲನಶಕ್ತಿ",
+      "type": "worked_example",
+      "script_words": 52,
+      "generated_at": "2026-04-02 15:08:01"
+    },
+    "008_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "8ae47edf06c7aa62570ec8f03ffaeb81",
+      "wav_file": "008_formula_cont_0_2.wav",
+      "duration": 43.811,
+      "slide_title": "ಲೆಕ್ಕಾಚಾರದ ಹಂತಗಳು",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 15:08:01"
+    },
+    "012_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "4cf7bdf4ef60feb66907151e891bb29e",
+      "wav_file": "012_example_cont_0_2.wav",
+      "duration": 16.051,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 20,
+      "generated_at": "2026-04-02 15:08:37"
+    },
+    "013_example_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "3c4dd0eb99222faf835f39530e7f645c",
+      "wav_file": "013_example_1.wav",
+      "duration": 40.571,
+      "slide_title": "ಮಾದರಿ ಸಮಸ್ಯೆ: ಚಲನಶಕ್ತಿ ಮತ್ತು ಕೆಲಸ",
+      "type": "worked_example",
+      "script_words": 54,
+      "generated_at": "2026-04-02 15:08:57"
+    },
+    "014_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "50787c10b60b908497421f8f67ca371d",
+      "wav_file": "014_example_cont_1_1.wav",
+      "duration": 50.171,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1",
+      "type": "worked_example",
+      "script_words": 68,
+      "generated_at": "2026-04-02 15:09:07"
+    },
+    "011_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "c5cb566df413fc160d9f8d03afa2e932",
+      "wav_file": "011_example_cont_0_1.wav",
+      "duration": 62.171,
+      "slide_title": "ಪರಿಹಾರದ ಹಂತಗಳು",
+      "type": "worked_example",
+      "script_words": 77,
+      "generated_at": "2026-04-02 15:09:08"
+    },
+    "015_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "a6506b9509a0d4680308d62c838f362b",
+      "wav_file": "015_example_cont_1_2.wav",
+      "duration": 42.251,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 2 ಮತ್ತು 3",
+      "type": "worked_example",
+      "script_words": 65,
+      "generated_at": "2026-04-02 15:09:14"
+    },
+    "017_example_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "f7798cb64871266c20dec6cb7742e367",
+      "wav_file": "017_example_cont_1_4.wav",
+      "duration": 37.211,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "script_words": 54,
+      "generated_at": "2026-04-02 15:10:03"
+    },
+    "016_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "8c1186bc94d7a9596ff13c18448fe032",
+      "wav_file": "016_example_cont_1_3.wav",
+      "duration": 50.891,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 4 ಮತ್ತು 5",
+      "type": "worked_example",
+      "script_words": 78,
+      "generated_at": "2026-04-02 15:10:05"
+    },
+    "018_recap_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "e81e08ee947523a49dfcd9f1882cbc4d",
+      "wav_file": "018_recap_0.wav",
+      "duration": 40.171,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 49,
+      "generated_at": "2026-04-02 15:10:08"
+    }
+  }
+}

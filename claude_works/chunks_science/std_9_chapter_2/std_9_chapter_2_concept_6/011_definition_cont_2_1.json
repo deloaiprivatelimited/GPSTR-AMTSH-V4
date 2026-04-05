@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಹಾಲಿನಲ್ಲಿ ಪ್ರಸರಣ ಮಾಧ್ಯಮ",
+  "script": "ಈಗ ಒಂದು ದೈನಂದಿನ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ, ಅದು ಹಾಲು. ಹಾಲು ಒಂದು ಸಾಮಾನ್ಯ ಕಲಿಲ. ಇದರಲ್ಲಿ, ನೀರು ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದಲ್ಲಿರುತ್ತದೆ ಮತ್ತು ಅತಿ ಸಣ್ಣ ಕೊಬ್ಬಿನ ಕಣಗಳು ಆ ನೀರಿನಲ್ಲಿ ಸಮವಾಗಿ ಹರಡಿಕೊಂಡಿರುತ್ತವೆ. ಇಲ್ಲಿ, ನೀರು ಆ ಕೊಬ್ಬಿನ ಕಣಗಳಿಗೆ ಹರಡಿಕೊಳ್ಳಲು ಜಾಗವನ್ನು ಒದಗಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, ಹಾಲಿನಲ್ಲಿ ನೀರು 'ಪ್ರಸರಣ ಮಾಧ್ಯಮ'ವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಈ ಮಾಧ್ಯಮವೇ ಹಾಲಿಗೆ ಅದರ ದ್ರವ ರೂಪವನ್ನು ಮತ್ತು ಸ್ಥಿರತೆಯನ್ನು ನೀಡುತ್ತದೆ. ಹೀಗೆ, ಪ್ರಸರಣ ಮಾಧ್ಯಮವು ಕಲಿಲದ ಮುಖ್ಯ ಭಾಗವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ದೈನಂದಿನ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ, ಅದು ಹಾಲು. ಹಾಲು ಒಂದು ಸಾಮಾನ್ಯ ಕಲಿಲ (colloid). ಇದರಲ್ಲಿ, ನೀರು ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದಲ್ಲಿರುತ್ತದೆ ಮತ್ತು ಅತಿ ಸಣ್ಣ ಕೊಬ್ಬಿನ ಕಣಗಳು (fat globules) ಆ ನೀರಿನಲ್ಲಿ ಸಮವಾಗಿ ಹರಡಿಕೊಂಡಿರುತ್ತವೆ. ಇಲ್ಲಿ, ನೀರು ಆ ಕೊಬ್ಬಿನ ಕಣಗಳಿಗೆ ಹರಡಿಕೊಳ್ಳಲು ಜಾಗವನ್ನು ಒದಗಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, ಹಾಲಿನಲ್ಲಿ ನೀರು 'ಪ್ರಸರಣ ಮಾಧ್ಯಮ'ವಾಗಿ (dispersion medium) ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಈ ಮಾಧ್ಯಮವೇ ಹಾಲಿಗೆ ಅದರ ದ್ರವ ರೂಪವನ್ನು ಮತ್ತು ಸ್ಥಿರತೆಯನ್ನು ನೀಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: ಹಾಲು, ಒಂದು ಕಲಿಲ ದ್ರಾವಣ.",
+    "ಹಾಲಿನಲ್ಲಿ, ನೀರು 'ಪ್ರಸರಣ ಮಾಧ್ಯಮ' ವಾಗಿರುತ್ತದೆ.",
+    "ಕೊಬ್ಬಿನ ಸಣ್ಣ ಕಣಗಳು ನೀರಿನಲ್ಲಿ ಹರಡಿಕೊಂಡಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a glass of milk. An arrow points from the milk to a magnified circular view. Inside the magnified view, small yellow fat globules (labeled 'ಪ್ರಸರಣ ಹಂತ - ಕೊಬ್ಬು') are shown suspended in a blue liquid (labeled 'ಪ್ರಸರಣ ಮಾಧ್ಯಮ - ನೀರು').",
+    "labels": "ಪ್ರಸರಣ ಮಾಧ್ಯಮ (ನೀರು), ಪ್ರಸರಣ ಹಂತ (ಕೊಬ್ಬಿನ ಕಣಗಳು), ಹಾಲು",
+    "scientific_significance": "This visual illustrates the two main components of a colloid using the familiar example of milk, making the abstract concepts of dispersion medium and dispersed phase concrete and easy to understand.",
+    "placeholder_note": "Image to be generated for milk as a colloid."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_2_concept_6_chunk_011"
+}

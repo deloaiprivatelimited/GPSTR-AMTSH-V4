@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+  "script": "ಈ ಪರಿವರ್ತನೆಯನ್ನು ಅಣುಗಳ ಮಟ್ಟದಲ್ಲಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಎಥನಾಲ್ ಅಣುವಿದೆ. ಇದರಲ್ಲಿ ಒಂದು ಹೈಡ್ರಾಕ್ಸಿಲ್, ಅಂದರೆ ಓ ಎಚ್ ಗುಂಪು ಇದೆ. ಉತ್ಕರ್ಷಣಕಾರಿಯು ಆಕ್ಸಿಜನ್ ಅನ್ನು ಒದಗಿಸಿದಾಗ, ಈ ಅಣುವು ಬಲಭಾಗದಲ್ಲಿರುವ ಎಥನೋಯಿಕ್ ಆಮ್ಲವಾಗಿ ಬದಲಾಗುತ್ತದೆ. ಎಥನೋಯಿಕ್ ಆಮ್ಲದ ಅಣುವಿನಲ್ಲಿ ಕಾರ್ಬಾಕ್ಸಿಲ್, ಅಂದರೆ ಸಿ ಓ ಓ ಎಚ್ ಗುಂಪು ಇರುವುದನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಆಲ್ಕೋಹಾಲ್ ಗುಂಪು, ಆಮ್ಲದ ಗುಂಪಾಗಿ ಉತ್ಕರ್ಷಣೆಗೊಂಡಿದೆ.",
+  "script_display": "ಈ ಪರಿವರ್ತನೆಯನ್ನು ಅಣುಗಳ ಮಟ್ಟದಲ್ಲಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಎಥನಾಲ್ ಅಣುವಿದೆ. ಇದರಲ್ಲಿ ಒಂದು ಹೈಡ್ರಾಕ್ಸಿಲ್ (-OH) ಗುಂಪು ಇದೆ. ಉತ್ಕರ್ಷಣಕಾರಿಯು ಆಕ್ಸಿಜನ್ ಅನ್ನು ಒದಗಿಸಿದಾಗ, ಈ ಅಣುವು ಬಲಭಾಗದಲ್ಲಿರುವ ಎಥನೋಯಿಕ್ ಆಮ್ಲವಾಗಿ ಬದಲಾಗುತ್ತದೆ. ಎಥನೋಯಿಕ್ ಆಮ್ಲದ ಅಣುವಿನಲ್ಲಿ ಕಾರ್ಬಾಕ್ಸಿಲ್ (-COOH) ಗುಂಪು ಇರುವುದನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಆಲ್ಕೋಹಾಲ್ ಗುಂಪು, ಆಮ್ಲದ ಗುಂಪಾಗಿ ಉತ್ಕರ್ಷಣೆಗೊಂಡಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_clean",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the molecular structure of ethanol (CH3-CH2OH) on the left. An arrow labeled 'ಉತ್ಕರ್ಷಣೆ (+[O])' points to the molecular structure of ethanoic acid (CH3COOH) on the right. The -OH functional group in ethanol and the -COOH functional group in ethanoic acid should be highlighted in different colors to show the transformation.",
+    "labels": "ಎಥನಾಲ್, ಎಥನೋಯಿಕ್ ಆಮ್ಲ, ಉತ್ಕರ್ಷಣೆ",
+    "scientific_significance": "Visually represents the structural change during the oxidation of an alcohol to a carboxylic acid, showing the conversion of the hydroxyl functional group to a carboxyl functional group.",
+    "placeholder_note": "Image to be generated showing molecular structures of ethanol and ethanoic acid with the transformation highlighted."
+  },
+  "chunk_id": "std_10_chapter_4_concept_8_chunk_017"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 (ಭಾಗ 2)",
+  "script": "ಈಗ ಛೇದವನ್ನು, ಅಂದರೆ ಕೆಳಭಾಗವನ್ನು, ಲೆಕ್ಕ ಮಾಡೋಣ. ಆರು ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಆರರ ವರ್ಗ. ಆರು ಪಾಯಿಂಟ್ ನಾಲ್ಕರ ವರ್ಗವು ನಲವತ್ತು ಪಾಯಿಂಟ್ ಒಂಬತ್ತಾರು. ಹತ್ತರ ಘಾತ ಆರರ ವರ್ಗವು ಹತ್ತರ ಘಾತ ಹನ್ನೆರಡು. ಹಾಗಾಗಿ ಛೇದವು ನಲವತ್ತು ಪಾಯಿಂಟ್ ಒಂಬತ್ತಾರು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಹನ್ನೆರಡು ಆಗುತ್ತದೆ. ಈಗ ನಮ್ಮ ಸಮೀಕರಣ g ಈಕ್ವಲ್ಸ್ ನಲವತ್ತು ಪಾಯಿಂಟ್ ಎರಡು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಹದಿಮೂರು ಭಾಗಿಸು ನಲವತ್ತು ಪಾಯಿಂಟ್ ಒಂಬತ್ತಾರು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಹನ್ನೆರಡು.",
+  "script_display": "ಈಗ ಛೇದವನ್ನು ಲೆಕ್ಕ ಮಾಡೋಣ.\n\n**ಹಂತ 3: ಗಣಿತೀಯ ಲೆಕ್ಕಾಚಾರ (ಮುಂದುವರಿದಿದೆ)**\n\n2.  **ಛೇದ (Denominator):**\n    $(6.4 \\times 10^6)^2 = (6.4)^2 \\times (10^6)^2 = 40.96 \\times 10^{12}$\n\n3.  **ಪೂರ್ಣ ಸಮೀಕರಣ:**\n    $$g = \\frac{40.2 \\times 10^{13}}{40.96 \\times 10^{12}}$$",
+  "display_bullets": [
+    "ಛೇದವನ್ನು (Denominator) ಲೆಕ್ಕ ಹಾಕಿ: $40.96 \\times 10^{12}$",
+    "ಪೂರ್ಣ ಸಮೀಕರಣ: $g = \\frac{40.2 \\times 10^{13}}{40.96 \\times 10^{12}}$"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "g = \\frac{40.2 \\times 10^{13}}{40.96 \\times 10^{12}}",
+    "placeholder_note": "Calculation showing denominator simplification and full fraction"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_9_example_calc_g",
+  "chunk_id": "std_9_chapter_9_concept_3_chunk_022"
+}

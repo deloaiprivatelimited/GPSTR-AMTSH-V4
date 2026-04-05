@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಬಾಹ್ಯ ಕೋನ: ಒಂದು ಪರಿಚಯ",
+  "script": "ಈಗ ನಾವು ತ್ರಿಭುಜದ ಬಾಹ್ಯ ಕೋನದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಾವು ಈಗಾಗಲೇ ತ್ರಿಭುಜದ ಒಳಕೋನಗಳ ಬಗ್ಗೆ, ಅಂದರೆ ತ್ರಿಭುಜದ ಒಳಗಿರುವ ಮೂರು ಕೋನಗಳ ಬಗ್ಗೆ ತಿಳಿದುಕೊಂಡಿದ್ದೇವೆ. ಆದರೆ ತ್ರಿಭುಜದ ಹೊರಗೂ ಕೋನಗಳನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಿದೆ. ಅಂತಹ ಒಂದು ವಿಶೇಷ ಕೋನವೇ ಬಾಹ್ಯ ಕೋನ. ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಮೊದಲು ಒಂದು ತ್ರಿಭುಜವನ್ನು ಪರಿಗಣಿಸೋಣ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ಯನ್ನು ನೋಡಬಹುದು. ಇದರ ಒಳಕೋನಗಳು ಕೋನ ಎ, ಕೋನ ಬಿ, ಮತ್ತು ಕೋನ ಸಿ ಆಗಿವೆ.",
+  "script_display": "ಈಗ ನಾವು ತ್ರಿಭುಜದ 'ಬಾಹ್ಯ ಕೋನ' (Exterior Angle) ಪರಿಕಲ್ಪನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಾವು ಈಗಾಗಲೇ ತ್ರಿಭುಜದ ಒಳಕೋನಗಳ ಬಗ್ಗೆ, ಅಂದರೆ ತ್ರಿಭುಜದ ಒಳಗಿರುವ ಮೂರು ಕೋನಗಳ ಬಗ್ಗೆ ತಿಳಿದುಕೊಂಡಿದ್ದೇವೆ. ಆದರೆ ತ್ರಿಭುಜದ ಹೊರಗೂ ಕೋನಗಳನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಿದೆ. ಅಂತಹ ಒಂದು ವಿಶೇಷ ಕೋನವೇ ಬಾಹ್ಯ ಕೋನ. ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಮೊದಲು ಒಂದು ತ್ರಿಭುಜವನ್ನು ಪರಿಗಣಿಸೋಣ. ಚಿತ್ರದಲ್ಲಿ ನೀವು $\\triangle ABC$ ಯನ್ನು ನೋಡಬಹುದು. ಇದರ ಒಳಕೋನಗಳು $\\angle A$, $\\angle B$, ಮತ್ತು $\\angle C$ ಆಗಿವೆ.",
+  "display_bullets": [
+    "ನಾವು ತ್ರಿಭುಜದ ಹೊರಗಿನ ಕೋನಗಳ ಬಗ್ಗೆ ಕಲಿಯೋಣ.",
+    "ಅಂತಹ ಒಂದು ವಿಶೇಷ ಕೋನವೇ 'ಬಾಹ್ಯ ಕೋನ'.",
+    "ಚಿತ್ರದಲ್ಲಿರುವುದು ಒಂದು ಸಾಮಾನ್ಯ ತ್ರಿಭುಜ $ABC$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple triangle with vertices labeled A, B, C. The interior angles are lightly marked.",
+    "labels": "Vertices A, B, C",
+    "mathematical_significance": "Represents a basic triangle before introducing the concept of an exterior angle.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-1_concept_2_chunk_003"
+}

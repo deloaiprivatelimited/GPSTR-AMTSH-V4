@@ -1,0 +1,133 @@
+{
+  "module_id": "NS-INT-1_concept_4",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 11,
+  "total_duration": 473.041,
+  "total_duration_formatted": "7:53",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "NS-INT-1_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನದ ಗುಣಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 50.131,
+      "duration": 50.131,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 50.731,
+      "end": 79.382,
+      "duration": 28.651,
+      "script_words": 41
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_4_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನದ ಗುಣಗಳು: ಆವೃತ ಗುಣ",
+      "type": "concept_explanation",
+      "start": 79.982,
+      "end": 130.153,
+      "duration": 50.171,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_4_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಗುಣಗಳು: ಪರಿವರ್ತನೀಯ ಗುಣ",
+      "type": "concept_explanation",
+      "start": 130.753,
+      "end": 179.644,
+      "duration": 48.891,
+      "script_words": 79
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_4_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಗುಣಗಳು: ಸಹವರ್ತನೀಯ ಗುಣ",
+      "type": "concept_explanation",
+      "start": 180.244,
+      "end": 253.615,
+      "duration": 73.371,
+      "script_words": 107
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_4_chunk_006",
+      "chunk_file": "006_property_1.json",
+      "wav_file": "006_property_1.wav",
+      "slide_title": "ಸಂಕಲನದ ಅನನ್ಯತಾಂಶ (Additive Identity)",
+      "type": "concept_explanation",
+      "start": 254.215,
+      "end": 302.826,
+      "duration": 48.611,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_4_chunk_007",
+      "chunk_file": "007_example_0.json",
+      "wav_file": "007_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಖಾಲಿ ಸ್ಥಳಗಳನ್ನು ಭರ್ತಿಮಾಡಿ",
+      "type": "worked_example",
+      "start": 303.426,
+      "end": 335.637,
+      "duration": 32.211,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_4_chunk_008",
+      "chunk_file": "008_example_cont_0_1.json",
+      "wav_file": "008_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i)",
+      "type": "worked_example",
+      "start": 336.237,
+      "end": 368.008,
+      "duration": 31.771,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_4_chunk_009",
+      "chunk_file": "009_example_cont_0_2.json",
+      "wav_file": "009_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (ii)",
+      "type": "worked_example",
+      "start": 368.608,
+      "end": 402.939,
+      "duration": 34.331,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_4_chunk_010",
+      "chunk_file": "010_example_cont_0_3.json",
+      "wav_file": "010_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 403.539,
+      "end": 429.75,
+      "duration": 26.211,
+      "script_words": 35
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_4_chunk_011",
+      "chunk_file": "011_recap_0.json",
+      "wav_file": "011_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನದ ಗುಣಗಳು",
+      "type": "recap",
+      "start": 430.35,
+      "end": 472.441,
+      "duration": 42.091,
+      "script_words": 54
+    }
+  ]
+}

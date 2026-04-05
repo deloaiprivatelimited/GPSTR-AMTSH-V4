@@ -1,0 +1,37 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ವಿಧಾನ: ಭಾಗ 1 - ಸಜಾತೀಯ ಆವೇಶಗಳ ಪರೀಕ್ಷೆ",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಎರಡು ಬಲೂನ್‌ಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಅವುಗಳಿಗೆ ಗಾಳಿ ಊದೋಣ. ನಂತರ, ಪ್ರತಿಯೊಂದು ಬಲೂನನ್ನೂ ಉಣ್ಣೆಯ ಬಟ್ಟೆಯಿಂದ ಚೆನ್ನಾಗಿ ಉಜ್ಜಬೇಕು. ಹೀಗೆ ಉಜ್ಜಿದಾಗ ಎರಡೂ ಬಲೂನ್‌ಗಳು ಒಂದೇ ರೀತಿಯ ವಿದ್ಯುದಾವೇಶವನ್ನು ಪಡೆಯುತ್ತವೆ. ಈಗ, ಆ ಎರಡು ಬಲೂನ್‌ಗಳನ್ನು ಒಂದಕ್ಕೊಂದು ಹತ್ತಿರ ತಂದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ನೀವು ನೋಡುವಂತೆ, ಅವು ಒಂದನ್ನೊಂದು ದೂರ ತಳ್ಳುತ್ತವೆ, ಅಂದರೆ ವಿಕರ್ಷಿಸುತ್ತವೆ. ಇದು ಸಜಾತೀಯ ಆವೇಶಗಳ ನಡುವಿನ ವಿಕರ್ಷಣೆಯನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ. ಈ ವೀಕ್ಷಣೆಯನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಎರಡು ಬಲೂನ್‌ಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಅವುಗಳಿಗೆ ಗಾಳಿ ಊದೋಣ. ನಂತರ, ಪ್ರತಿಯೊಂದು ಬಲೂನನ್ನೂ ಉಣ್ಣೆಯ ಬಟ್ಟೆಯಿಂದ ಚೆನ್ನಾಗಿ ಉಜ್ಜಬೇಕು. ಹೀಗೆ ಉಜ್ಜಿದಾಗ ಎರಡೂ ಬಲೂನ್‌ಗಳು ಒಂದೇ ರೀತಿಯ ವಿದ್ಯುದಾವೇಶವನ್ನು (charge) ಪಡೆಯುತ್ತವೆ. ಈಗ, ಆ ಎರಡು ಬಲೂನ್‌ಗಳನ್ನು ಒಂದಕ್ಕೊಂದು ಹತ್ತಿರ ತಂದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ನೀವು ನೋಡುವಂತೆ, ಅವು ಒಂದನ್ನೊಂದು ದೂರ ತಳ್ಳುತ್ತವೆ, ಅಂದರೆ ವಿಕರ್ಷಿಸುತ್ತವೆ (repel). ಇದು ಸಜಾತೀಯ ಆವೇಶಗಳ (like charges) ನಡುವಿನ ವಿಕರ್ಷಣೆಯನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಎರಡು ಬಲೂನ್‌ಗಳಿಗೆ ಗಾಳಿ ಊದಿ.",
+    "ಪ್ರತಿಯೊಂದನ್ನು ಉಣ್ಣೆಯ ಬಟ್ಟೆಯಿಂದ ಉಜ್ಜಿ.",
+    "ಎರಡೂ ಬಲೂನ್‌ಗಳನ್ನು ಒಂದಕ್ಕೊಂದು ಹತ್ತಿರ ತನ್ನಿ.",
+    "ಗಮನಿಸಿ: ಬಲೂನ್‌ಗಳು ಪರಸ್ಪರ ವಿಕರ್ಷಿಸುತ್ತವೆ (ದೂರ ತಳ್ಳುತ್ತವೆ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-part diagram. Part 1: A hand rubbing a balloon with a woolen cloth. Part 2: Two similarly charged balloons hanging close to each other and pushing apart, with arrows indicating repulsion.",
+    "labels": "1. ಉಣ್ಣೆಯಿಂದ ಉಜ್ಜುವುದು 2. ಬಲೂನ್‌ಗಳ ವಿಕರ್ಷಣೆ",
+    "scientific_significance": "This demonstrates that rubbing two identical objects (balloons) with the same material (wool) imparts the same type of charge to both, leading to electrostatic repulsion.",
+    "placeholder_note": "Image to be generated showing the two steps with balloons."
+  },
+  "chunk_id": "std_8_science_ch_12_concept_1_chunk_026"
+}

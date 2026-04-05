@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಹಂತ 2: ಉಪ್ಪಿನ ದ್ರಾವಣದ ಪರೀಕ್ಷೆ",
+  "script": "ಈಗ ಪ್ರಯೋಗದ ಎರಡನೇ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ಅದೇ ಬೀಕರ್‌ನಲ್ಲಿರುವ ಆಸವಿತ ನೀರಿಗೆ, ನಾವು ಒಂದು ಚಮಚ ಅಡುಗೆ ಉಪ್ಪನ್ನು ಸೇರಿಸೋಣ. ಉಪ್ಪು ಸಂಪೂರ್ಣವಾಗಿ ನೀರಿನಲ್ಲಿ ಕರಗುವವರೆಗೆ ಅದನ್ನು ಚೆನ್ನಾಗಿ ಕಲಕಿ. ಈಗ ನಮಗೆ ಉಪ್ಪಿನ ದ್ರಾವಣ ಸಿದ್ಧವಾಗಿದೆ. ಹಿಂದಿನ ಹಂತದಂತೆಯೇ, ಪರೀಕ್ಷಕದ ತುದಿಗಳನ್ನು ಈ ಉಪ್ಪಿನ ದ್ರಾವಣದಲ್ಲಿ ಮುಳುಗಿಸಿ ಮತ್ತು ಎಲ್ ಇ ಡಿ ಬಲ್ಬ್ ಕಡೆಗೆ ಗಮನ ಹರಿಸಿ. ಈ ಬಾರಿ ಏನಾದರೂ ಬದಲಾವಣೆ ಆಗುತ್ತದೆಯೇ? ಈ ಫಲಿತಾಂಶವು ನಮಗೆ ಬಹಳ ಮುಖ್ಯವಾದ ವಿಷಯವನ್ನು ತಿಳಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗದ ಎರಡನೇ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ಅದೇ ಬೀಕರ್‌ನಲ್ಲಿರುವ ಆಸವಿತ ನೀರಿಗೆ, ನಾವು ಒಂದು ಚಮಚ ಅಡುಗೆ ಉಪ್ಪನ್ನು ಸೇರಿಸೋಣ. ಉಪ್ಪು ಸಂಪೂರ್ಣವಾಗಿ ನೀರಿನಲ್ಲಿ ಕರಗುವವರೆಗೆ ಅದನ್ನು ಚೆನ್ನಾಗಿ ಕಲಕಿ. ಈಗ ನಮಗೆ ಉಪ್ಪಿನ ದ್ರಾವಣ ಸಿದ್ಧವಾಗಿದೆ. ಹಿಂದಿನ ಹಂತದಂತೆಯೇ, ಪರೀಕ್ಷಕದ ತುದಿಗಳನ್ನು ಈ ಉಪ್ಪಿನ ದ್ರಾವಣದಲ್ಲಿ ಮುಳುಗಿಸಿ ಮತ್ತು LED ಬಲ್ಬ್ ಕಡೆಗೆ ಗಮನ ಹರಿಸಿ. ಈ ಬಾರಿ ಏನಾದರೂ ಬದಲಾವಣೆ ಆಗುತ್ತದೆಯೇ? ಈ ಫಲಿತಾಂಶವು ನಮಗೆ ಬಹಳ ಮುಖ್ಯವಾದ ವಿಷಯವನ್ನು ತಿಳಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಆಸವಿತ ನೀರಿಗೆ ಸ್ವಲ್ಪ ಅಡುಗೆ ಉಪ್ಪನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಕಲಕಿ.",
+    "ಉಪ್ಪು ಕರಗಿದ ನಂತರ, ಅದು ಉಪ್ಪಿನ ದ್ರಾವಣವಾಗುತ್ತದೆ.",
+    "ಪರೀಕ್ಷಕದಿಂದ ವಾಹಕತೆಯನ್ನು ಮತ್ತೆ ಪರೀಕ್ಷಿಸಿ ಮತ್ತು LED ಬಲ್ಬ್ ಅನ್ನು ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_a",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing salt being added to the beaker of water, followed by the tester's electrodes being dipped into the resulting salt solution. The LED is shown glowing brightly.",
+    "labels": "Salt Solution, Electrodes, LED (On)",
+    "scientific_significance": "Demonstrates the procedure for testing the conductivity of a salt solution.",
+    "placeholder_note": "Image to be generated showing the second step of the experiment."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_8_science_chapter_11_concept_3_chunk_012"
+}

@@ -1,0 +1,43 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 2",
+  "script": "ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. g ಈಕ್ವಲ್ಸ್, G ಯ ಬದಲಿಗೆ ಆರು ಪಾಯಿಂಟ್ ಏಳು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಮೈನಸ್ ಹನ್ನೊಂದು, M ಬದಲಿಗೆ ಆರು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಇಪ್ಪತ್ನಾಲ್ಕು, ಮತ್ತು R ಸ್ಕ್ವೇರ್ ಬದಲಿಗೆ ಆರು ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಆರರ ವರ್ಗ.",
+  "script_display": "ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ.\n\n**ಹಂತ 2: ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ**\n\n$$g = \\frac{(6.7 \\times 10^{-11}) \\times (6 \\times 10^{24})}{(6.4 \\times 10^6)^2}$$",
+  "display_bullets": [
+    "ಹಂತ 2: ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "g = \\frac{(6.7 \\times 10^{-11}) \\times (6 \\times 10^{24})}{(6.4 \\times 10^6)^2}",
+    "placeholder_note": "Formula with substituted values"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_9_example_calc_g",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ.",
+      "justification": "ತಿಳಿದಿರುವ ಸ್ಥಿರಾಂಕಗಳು ಮತ್ತು ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕುವುದು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_9_concept_3_chunk_020"
+}

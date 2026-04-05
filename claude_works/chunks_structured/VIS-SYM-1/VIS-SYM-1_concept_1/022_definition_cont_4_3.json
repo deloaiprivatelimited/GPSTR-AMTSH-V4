@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಇನ್ನೊಂದು ಉದಾಹರಣೆ",
+  "script": "ಇನ್ನೊಂದು ಹೋಲಿಕೆಯನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಸಮಬಾಹು ತ್ರಿಭುಜವಿದೆ. ಇದರ ಎಲ್ಲಾ ಮೂರು ಬಾಹುಗಳು ಸಮ ಮತ್ತು ಎಲ್ಲಾ ಮೂರು ಕೋನಗಳು ಅರವತ್ತು ಡಿಗ್ರಿ. ಹಾಗಾಗಿ ಇದು ಒಂದು ನಿಯತ ಬಹುಭುಜಾಕೃತಿ. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ ವಜ್ರಾಕೃತಿಯನ್ನು, ಅಂದರೆ ರಾಂಬಸ್ ಅನ್ನು ನೋಡಿ. ಇದರಲ್ಲಿ, ಎಲ್ಲಾ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮವಾಗಿವೆ. ಆದರೆ, ಅದರ ಎಲ್ಲಾ ಕೋನಗಳು ಸಮವಾಗಿಲ್ಲ. ಕೇವಲ ಅಭಿಮುಖ ಕೋನಗಳು ಮಾತ್ರ ಸಮ. ಇಲ್ಲಿ ಕೋನಗಳು ಸಮವಾಗಿಲ್ಲದ ಕಾರಣ, ವಜ್ರಾಕೃತಿಯು ನಿಯತ ಬಹುಭುಜಾಕೃತಿಯಲ್ಲ. ಇದು ಕೂಡ ಒಂದು ಅನಿಯತ ಬಹುಭುಜಾಕೃತಿಯಾಗಿದೆ. ನೆನಪಿಡಿ, ಎರಡೂ ಶರತ್ತುಗಳು ಕಡ್ಡಾಯ.",
+  "script_display": "ಇನ್ನೊಂದು ಹೋಲಿಕೆಯನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಸಮಬಾಹು ತ್ರಿಭುಜವಿದೆ. ಇದರ ಎಲ್ಲಾ 3 ಬಾಹುಗಳು ಸಮ ಮತ್ತು ಎಲ್ಲಾ 3 ಕೋನಗಳು $60^{\\circ}$. ಹಾಗಾಗಿ ಇದು ಒಂದು ನಿಯತ ಬಹುಭುಜಾಕೃತಿ. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ ವಜ್ರಾಕೃತಿಯನ್ನು (Rhombus) ನೋಡಿ. ಇದರಲ್ಲಿ, ಎಲ್ಲಾ 4 ಬಾಹುಗಳು ಸಮವಾಗಿವೆ. ಆದರೆ, ಅದರ ಎಲ್ಲಾ ಕೋನಗಳು ಸಮವಾಗಿಲ್ಲ. ಕೇವಲ ಅಭಿಮುಖ ಕೋನಗಳು ಮಾತ್ರ ಸಮ. ಇಲ್ಲಿ ಕೋನಗಳು ಸಮವಾಗಿಲ್ಲದ ಕಾರಣ, ವಜ್ರಾಕೃತಿಯು ನಿಯತ ಬಹುಭುಜಾಕೃತಿಯಲ್ಲ. ಇದು ಕೂಡ ಒಂದು ಅನಿಯತ ಬಹುಭುಜಾಕೃತಿಯಾಗಿದೆ. ನೆನಪಿಡಿ, ಎರಡೂ ಶರತ್ತುಗಳು ಕಡ್ಡಾಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "side_by_side_visual",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side comparison. Left: An equilateral triangle labeled 'ನಿಯತ ಬಹುಭುಜಾಕೃತಿ' with text 'ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮ, ಎಲ್ಲಾ ಕೋನಗಳು ಸಮ'. Right: A rhombus labeled 'ಅನಿಯತ ಬಹುಭುಜಾಕೃತಿ' with text 'ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮ, ಆದರೆ ಎಲ್ಲಾ ಕೋನಗಳು ಸಮವಲ್ಲ'.",
+    "labels": "ಸಮಬಾಹು ತ್ರಿಭುಜ, ವಜ್ರಾಕೃತಿ, ನಿಯತ, ಅನಿಯತ",
+    "mathematical_significance": "Contrasts a regular polygon (equilateral triangle) with a non-regular polygon (rhombus) where the 'equal angles' condition fails, further reinforcing the definition.",
+    "placeholder_note": "Image to be generated: Equilateral Triangle vs Rhombus comparison."
+  },
+  "chunk_id": "VIS-SYM-1_concept_1_chunk_022"
+}

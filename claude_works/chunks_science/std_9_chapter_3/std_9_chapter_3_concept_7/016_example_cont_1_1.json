@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸೂತ್ರವನ್ನು ಬರೆಯುವ ಹಂತಗಳು",
+  "script": "ಮೊದಲನೇ ಹಂತ, ಸಂಕೇತ ಮತ್ತು ವೇಲೆನ್ಸಿಗಳನ್ನು ಬರೆಯುವುದು. ಅಲ್ಯೂಮಿನಿಯಂನ ಸಂಕೇತ ಎ ಎಲ್ ಮತ್ತು ಅದರ ವೇಲೆನ್ಸಿ ಮೂರು. ಆಕ್ಸೈಡ್, ಅಂದರೆ ಆಮ್ಲಜನಕದ ಅಯಾನಿನ ಸಂಕೇತ ಓ ಮತ್ತು ಅದರ ವೇಲೆನ್ಸಿ ಎರಡು. ಎರಡನೇ ಹಂತ, ವೇಲೆನ್ಸಿಗಳನ್ನು ಅಡ್ಡಹಾಯಿಸುವುದು. ಅಲ್ಯೂಮಿನಿಯಂನ ವೇಲೆನ್ಸಿ ಮೂರನ್ನು ಆಕ್ಸಿಜನ್‌ಗೆ ಮತ್ತು ಆಕ್ಸಿಜನ್‌ನ ವೇಲೆನ್ಸಿ ಎರಡನ್ನು ಅಲ್ಯೂಮಿನಿಯಂಗೆ ಪಾದಸೂಚಿಯಾಗಿ ಬರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಹಂತ 1: ಸಂಕೇತ ಮತ್ತು ವೇಲೆನ್ಸಿಗಳನ್ನು ಬರೆಯಿರಿ.\nಹಂತ 2: ವೇಲೆನ್ಸಿಗಳನ್ನು ಅಡ್ಡಹಾಯಿಸಿ (Criss-cross).",
+  "display_bullets": [
+    "ಹಂತ 1: ಸಂಕೇತ (Al, O) ಮತ್ತು ವೇಲೆನ್ಸಿ (3, 2) ಬರೆಯಿರಿ.",
+    "ಹಂತ 2: ವೇಲೆನ್ಸಿಗಳನ್ನು ಅಡ್ಡಹಾಯಿಸಿ.",
+    "Al ನ ವೇಲೆನ್ಸಿ (3) ⟶ O ಗೆ ಪಾದಸೂಚಿಯಾಗುತ್ತದೆ.",
+    "O ನ ವೇಲೆನ್ಸಿ (2) ⟶ Al ಗೆ ಪಾದಸೂಚಿಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the criss-cross method for Aluminium Oxide. It shows the symbols Al and O. Below them, their valencies 3 and 2. Arrows cross from the valency 3 to the subscript of O, and from the valency 2 to the subscript of Al, resulting in the formula Al₂O₃.",
+    "labels": "Al, O, Valency 3, Valency 2, Al₂O₃",
+    "scientific_significance": "Demonstrates the criss-cross method to balance charges and form a neutral compound.",
+    "placeholder_note": "Image showing criss-cross method for Al and O."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_3_example_4",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸಂಕೇತ ಮತ್ತು ವೇಲೆನ್ಸಿಗಳನ್ನು ಬರೆಯುವುದು: ಅಲ್ಯೂಮಿನಿಯಂ (Al) ಗೆ ವೇಲೆನ್ಸಿ 3, ಮತ್ತು ಆಕ್ಸೈಡ್ (O) ಗೆ ವೇಲೆನ್ಸಿ 2.",
+      "justification": "ಅಲ್ಯೂಮಿನಿಯಂ ಅಯಾನು Al³⁺ ಮತ್ತು ಆಕ್ಸೈಡ್ ಅಯಾನು O²⁻ ಆಗಿರುವುದರಿಂದ, ಅವುಗಳ ವೇಲೆನ್ಸಿಗಳು ಕ್ರಮವಾಗಿ 3 ಮತ್ತು 2 ಆಗಿರುತ್ತವೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ವೇಲೆನ್ಸಿಗಳನ್ನು ಅಡ್ಡಹಾಯಿಸುವುದು: Al ನ ವೇಲೆನ್ಸಿಯನ್ನು O ಗೆ ಮತ್ತು O ನ ವೇಲೆನ್ಸಿಯನ್ನು Al ಗೆ ಪಾದಸೂಚಿಯಾಗಿ ಬರೆಯುವುದು.",
+      "justification": "ಸಂಯುಕ್ತವು ವಿದ್ಯುತ್ ತಟಸ್ಥವಾಗಿರಲು, ಒಟ್ಟು ಧನ ಮತ್ತು ಋಣ ಆವೇಶಗಳು ಸಮನಾಗಿರಬೇಕು. ಅಡ್ಡಹಾಯಿಸುವ ವಿಧಾನವು ಇದನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "std_9_chapter_3_concept_7_chunk_016"
+}

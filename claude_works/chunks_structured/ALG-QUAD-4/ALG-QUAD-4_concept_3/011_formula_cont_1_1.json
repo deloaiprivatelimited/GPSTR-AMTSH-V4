@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಮೂಲಗಳ ಸ್ವಭಾವ: ಸಂದರ್ಭ 1",
+  "script": "ಶೋಧಕದ ಮೌಲ್ಯವು ನಮಗೆ ಮೂಲಗಳ ಬಗ್ಗೆ ಹೇಗೆ ಮಾಹಿತಿ ನೀಡುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಮೊದಲನೇ ಸಂದರ್ಭ, ಶೋಧಕವು ಸೊನ್ನೆಗಿಂತ ದೊಡ್ಡದಾಗಿದ್ದರೆ, ಅಂದರೆ ಡಿ ಗ್ರೇಟರ್ ದ್ಯಾನ್ ಜೀರೋ. ಇದರರ್ಥ, ಬಿ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಫೋರ್ ಎ ಸಿ ಯ ಬೆಲೆಯು ಧನಾತ್ಮಕ ಸಂಖ್ಯೆಯಾಗಿದ್ದರೆ, ಆ ವರ್ಗ ಸಮೀಕರಣವು ಎರಡು ಭಿನ್ನ ವಾಸ್ತವ ಮೂಲಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. 'ಭಿನ್ನ' ಎಂದರೆ ಬೇರೆ ಬೇರೆಯಾದ, ಮತ್ತು 'ವಾಸ್ತವ' ಎಂದರೆ ರಿಯಲ್ ನಂಬರ್ಸ್. ಅಂದರೆ, ನಾವು ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿದಾಗ ಎಕ್ಸ್ ಗೆ ಎರಡು ಬೇರೆ ಬೇರೆ ವಾಸ್ತವ ಬೆಲೆಗಳು ಉತ್ತರಗಳಾಗಿ ಸಿಗುತ್ತವೆ.",
+  "script_display": "ಶೋಧಕದ ಮೌಲ್ಯವು ನಮಗೆ ಮೂಲಗಳ ಬಗ್ಗೆ ಹೇಗೆ ಮಾಹಿತಿ ನೀಡುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಮೊದಲನೇ ಸಂದರ್ಭ, ಶೋಧಕವು ಸೊನ್ನೆಗಿಂತ ದೊಡ್ಡದಾಗಿದ್ದರೆ, ಅಂದರೆ $D > 0$. ಇದರರ್ಥ, $b^2-4ac$ ಯ ಬೆಲೆಯು ಧನಾತ್ಮಕ ಸಂಖ್ಯೆಯಾಗಿದ್ದರೆ, ಆ ವರ್ಗ ಸಮೀಕರಣವು ಎರಡು **ಭಿನ್ನ ವಾಸ್ತವ ಮೂಲಗಳನ್ನು** ಹೊಂದಿರುತ್ತದೆ. 'ಭಿನ್ನ' ಎಂದರೆ ಬೇರೆ ಬೇರೆಯಾದ, ಮತ್ತು 'ವಾಸ್ತವ' ಎಂದರೆ real numbers. ಅಂದರೆ, ನಾವು ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿದಾಗ $x$ ಗೆ ಎರಡು ಬೇರೆ ಬೇರೆ ವಾಸ್ತವ ಬೆಲೆಗಳು ಉತ್ತರಗಳಾಗಿ ಸಿಗುತ್ತವೆ.",
+  "display_bullets": [
+    "**ಸಂದರ್ಭ 1: ಶೋಧಕವು ಸೊನ್ನೆಗಿಂತ ದೊಡ್ಡದಾಗಿದ್ದರೆ ($D > 0$)**",
+    "$b^2-4ac > 0$ ಆದರೆ, ವರ್ಗ ಸಮೀಕರಣವು ಎರಡು **ಭಿನ್ನ ವಾಸ್ತವ ಮೂಲಗಳನ್ನು** ಹೊಂದಿರುತ್ತದೆ.",
+    "ಅಂದರೆ, $x$ ಗೆ ಎರಡು ಬೇರೆ ಬೇರೆ ವಾಸ್ತವ ಬೆಲೆಗಳು ಸಿಗುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A parabola opening upwards that intersects the x-axis at two distinct points, labeled x1 and x2. A label indicates 'D > 0'.",
+    "labels": "Parabola, x-axis, roots x1, x2, D > 0",
+    "mathematical_significance": "Visually represents the case where the discriminant is positive, leading to two distinct real roots, which are the x-intercepts of the parabola.",
+    "placeholder_note": "Image to be generated. Show a standard parabola y = ax^2+bx+c cutting the x-axis at two different points."
+  },
+  "chunk_id": "ALG-QUAD-4_concept_3_chunk_011"
+}

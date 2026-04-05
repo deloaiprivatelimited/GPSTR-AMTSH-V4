@@ -1,0 +1,123 @@
+{
+  "module_id": "std_9_chapter_12_concept_3",
+  "chapter_code": "std_9_chapter_12",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 366.91,
+  "total_duration_formatted": "6:06",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_12_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಬೆಳೆ ಉತ್ಪಾದನೆಯ ನಿರ್ವಹಣೆ: ಪೋಷಕಾಂಶಗಳು",
+      "type": "title_hero",
+      "start": 0.0,
+      "end": 46.851,
+      "duration": 46.851,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "bullet_list",
+      "start": 47.451,
+      "end": 74.542,
+      "duration": 27.091,
+      "script_words": 39
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_3_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಸಸ್ಯ ಪೋಷಕಾಂಶಗಳ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "start": 75.142,
+      "end": 105.753,
+      "duration": 30.611,
+      "script_words": 40
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_3_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಬೃಹತ್ ಪೋಷಕಾಂಶಗಳು (Macronutrients)",
+      "type": "concept_explanation",
+      "start": 106.353,
+      "end": 139.204,
+      "duration": 32.851,
+      "script_words": 40
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_3_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಬೃಹತ್ ಪೋಷಕಾಂಶಗಳು: ಪ್ರಮುಖ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "start": 139.804,
+      "end": 175.655,
+      "duration": 35.851,
+      "script_words": 44
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_3_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಬೃಹತ್ ಪೋಷಕಾಂಶಗಳು: ಇತರ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "start": 176.255,
+      "end": 212.906,
+      "duration": 36.651,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_3_chunk_007",
+      "chunk_file": "007_classification_cont_0_4.json",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "slide_title": "ಸೂಕ್ಷ್ಮ ಪೋಷಕಾಂಶಗಳು (Micronutrients)",
+      "type": "concept_explanation",
+      "start": 213.506,
+      "end": 247.077,
+      "duration": 33.571,
+      "script_words": 43
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_3_chunk_008",
+      "chunk_file": "008_classification_cont_0_5.json",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "slide_title": "ಸೂಕ್ಷ್ಮ ಪೋಷಕಾಂಶಗಳು: ಉದಾಹರಣೆಗಳು",
+      "type": "concept_explanation",
+      "start": 247.677,
+      "end": 282.128,
+      "duration": 34.451,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_3_chunk_009",
+      "chunk_file": "009_classification_cont_0_6.json",
+      "wav_file": "009_classification_cont_0_6.wav",
+      "slide_title": "ಪರೀಕ್ಷಾ ದೃಷ್ಟಿಯಿಂದ ಗಮನಿಸಿ",
+      "type": "concept_explanation",
+      "start": 282.728,
+      "end": 318.459,
+      "duration": 35.731,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_3_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 319.059,
+      "end": 366.31,
+      "duration": 47.251,
+      "script_words": 57
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "module_id": "std_8_chapter_1_concept_1",
+  "chapter_code": "std_8_chapter_1",
+  "voice": "Gacrux",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:30:24",
+  "chunks": {
+    "002_definition_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "5db1f417af2cbda27e95976a0d3bc2eb",
+      "wav_file": "002_definition_0.wav",
+      "duration": 37.211,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಬೆಳೆ (Crop)",
+      "type": "definition",
+      "script_words": 57,
+      "generated_at": "2026-04-02 14:28:15"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "544f6242c3e45b7f775c0e4d1a15762b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 41.251,
+      "slide_title": "ಪರಿಚಯ: ಕೃಷಿ ಮತ್ತು ಬೆಳೆಗಳ ವಿಧಗಳು",
+      "type": "chunk",
+      "script_words": 61,
+      "generated_at": "2026-04-02 14:28:20"
+    },
+    "004_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "ab4ed7fcfc81474447fcbcb9ff3e45c3",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "duration": 46.971,
+      "slide_title": "ಹೋಲಿಕೆ: ಬೆಳೆ vs. ಕೈತೋಟ",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 14:28:27"
+    },
+    "003_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "787908047f37636bc3772e1af7a384b0",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "duration": 48.851,
+      "slide_title": "ಬೆಳೆ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 14:28:44"
+    },
+    "005_definition_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "e24f7e14a5f359e089543e2b5bcb9c99",
+      "wav_file": "005_definition_1.wav",
+      "duration": 47.051,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಕೃಷಿ (Agriculture)",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-04-02 14:28:45"
+    },
+    "008_classification_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "1923147081afe3b413b8d3bdbda18655",
+      "wav_file": "008_classification_0.wav",
+      "duration": 56.251,
+      "slide_title": "ಬೆಳೆಗಳು ಮತ್ತು ಅವುಗಳ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 14:29:18"
+    },
+    "006_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "592d6e39983a4b9c4cc167e3376dc812",
+      "wav_file": "006_definition_cont_1_1.wav",
+      "duration": 41.851,
+      "slide_title": "ಕೃಷಿ: ಒಂದು ವಿಜ್ಞಾನ ಮತ್ತು ಕಲೆ",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 14:29:25"
+    },
+    "007_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "da673afea269a2fb48df88cd436b43d6",
+      "wav_file": "007_definition_cont_1_2.wav",
+      "duration": 48.891,
+      "slide_title": "ಹೋಲಿಕೆ: ಕೃಷಿ vs ಕೈತೋಟ",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 14:29:27"
+    },
+    "009_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "f896ab3310950fe02bc75b323cceb0b7",
+      "wav_file": "009_classification_cont_0_1.wav",
+      "duration": 46.531,
+      "slide_title": "ಖಾರಿಫ್ ಬೆಳೆಗಳು (Kharif Crops)",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 14:29:44"
+    },
+    "010_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "558174aa45c8440c0989718b69373e66",
+      "wav_file": "010_classification_cont_0_2.wav",
+      "duration": 40.011,
+      "slide_title": "ರಬಿ ಬೆಳೆಗಳು (Rabi Crops)",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 14:29:45"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "c84e7b3a16cec53f4ce403d3acd29140",
+      "wav_file": "013_recap_0.wav",
+      "duration": 38.171,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 49,
+      "generated_at": "2026-04-02 14:30:09"
+    },
+    "011_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "d46f70789d2532804233daaff3abb3ff",
+      "wav_file": "011_classification_cont_0_3.wav",
+      "duration": 54.011,
+      "slide_title": "ಭತ್ತವನ್ನು ಚಳಿಗಾಲದಲ್ಲಿ ಏಕೆ ಬೆಳೆಯುವುದಿಲ್ಲ?",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 14:30:20"
+    },
+    "012_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "9c98bf5281305cfbc37e6b9024e51cd4",
+      "wav_file": "012_classification_cont_0_4.wav",
+      "duration": 41.451,
+      "slide_title": "ಖಾರಿಫ್ vs. ರಬಿ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸಗಳು",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 14:30:24"
+    }
+  }
+}

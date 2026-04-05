@@ -1,0 +1,103 @@
+{
+  "module_id": "std_6_chapter_11_concept_3",
+  "chapter_code": "std_6_chapter_11",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:45:10",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "1bfd26e066c3802734e8dfbe9557d8d9",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 16.931,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 27,
+      "generated_at": "2026-04-02 12:43:33"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "3362f201bfa6f22b42722bcc2930c852",
+      "wav_file": "003_classification_0.wav",
+      "duration": 29.731,
+      "slide_title": "ನೀರಿನ ಆಕರಗಳು: ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 12:44:01"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "8c04d4f0aa9148141b048aa5de039b1d",
+      "wav_file": "001_intro_0.wav",
+      "duration": 63.611,
+      "slide_title": "ನೀರು",
+      "type": "chunk",
+      "script_words": 96,
+      "generated_at": "2026-04-02 12:44:02"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "9f871386abf9d0312cdee77975c9b41c",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 40.851,
+      "slide_title": "ಸಿಹಿನೀರಿನ ವಿವಿಧ ಆಕರಗಳು",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 12:44:15"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "d2cc487b7d2aa9b0330ec24f6cbfc0af",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 42.251,
+      "slide_title": "ಲವಣಯುಕ್ತ ನೀರು (Saltwater)",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 12:44:17"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "a8a0dc98395686877386c19ea67f49e1",
+      "wav_file": "008_recap_0.wav",
+      "duration": 35.771,
+      "slide_title": "ಸಾರಾಂಶ: ನೀರು",
+      "type": "recap",
+      "script_words": 49,
+      "generated_at": "2026-04-02 12:44:49"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "c3d1c7492ea83f9017605a264fc8caab",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 41.491,
+      "slide_title": "ಸಿಹಿನೀರು (Freshwater)",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 12:44:54"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "4121263ed3a5b99933597b7bba7ef2ad",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 38.331,
+      "slide_title": "ನೀರಿನ ಲಭ್ಯತೆ: ಒಂದು ವಾಸ್ತವ",
+      "type": "concept_explanation",
+      "script_words": 48,
+      "generated_at": "2026-04-02 12:45:10"
+    }
+  }
+}

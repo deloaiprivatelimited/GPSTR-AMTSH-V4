@@ -1,0 +1,92 @@
+{
+  "module_id": "std_10_chapter_7_concept_9",
+  "chapter_code": "std_10_chapter_7",
+  "voice": "Achird",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:16:57",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "9ba360c91cd3dbce11d9f6e2d50ed23e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 29.571,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 37,
+      "generated_at": "2026-04-02 13:15:48"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "654be2fb060829dde57147c8cc521e59",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 39.011,
+      "slide_title": "ಗಂಡು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹ (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:15:52"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "fe851ea106590588d450691e29a3c78b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 43.051,
+      "slide_title": "ಮನುಷ್ಯರಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹಗಳು",
+      "type": "chunk",
+      "script_words": 68,
+      "generated_at": "2026-04-02 13:15:55"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "0b4a283315d9a3eff300bf8cb5d53503",
+      "wav_file": "003_classification_0.wav",
+      "duration": 37.571,
+      "slide_title": "ಗಂಡು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹ",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:15:57"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "8009fda544b2fca61543f8568e46e7b1",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 51.971,
+      "slide_title": "ಹೆಣ್ಣು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹ",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:16:19"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "d86822744dfcbfafebe773a1a4b0723f",
+      "wav_file": "007_recap_0.wav",
+      "duration": 36.571,
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "script_words": 48,
+      "generated_at": "2026-04-02 13:16:49"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "98744e4618c300624c5fc39ad7358c2b",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 41.371,
+      "slide_title": "ಹೆಣ್ಣು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹ (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:16:57"
+    }
+  }
+}

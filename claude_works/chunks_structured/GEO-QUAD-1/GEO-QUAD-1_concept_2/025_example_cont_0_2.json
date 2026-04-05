@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ನಾಲ್ಕನೇ ಹೊರಕೋನದ ಅಳತೆ, ಎಕ್ಸ್ ಸಮ ನೂರ ಹತ್ತು ಡಿಗ್ರಿ. ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತವು ಮುನ್ನೂರ ಅರವತ್ತು ಡಿಗ್ರಿ ಎಂಬ ಪ್ರಮುಖ ಗುಣವನ್ನು ಬಳಸಿ ನಾವು ಈ ಉತ್ತರವನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಕೊಂಡಿದ್ದೇವೆ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ನಾಲ್ಕನೇ ಹೊರಕೋನದ ಅಳತೆ, $x = 110°$. ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತವು $360°$ ಎಂಬ ಪ್ರಮುಖ ಗುಣವನ್ನು ಬಳಸಿ ನಾವು ಈ ಉತ್ತರವನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಕೊಂಡಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ನಾಲ್ಕನೇ ಹೊರಕೋನದ ಅಳತೆ, $x = 110°$."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_result",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x = 110°",
+    "placeholder_note": "Final answer highlighted in a box."
+  },
+  "source_example_id": "GEO-QUAD-1_example_1",
+  "steps": [],
+  "final_answer": "x ನ ಬೆಲೆ 110°.",
+  "final_answer_display": "$x = 110°$",
+  "chunk_id": "GEO-QUAD-1_concept_2_chunk_025"
+}

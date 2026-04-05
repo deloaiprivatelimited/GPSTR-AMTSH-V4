@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ವಿಧ: ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆ",
+  "script": "ಈ ಕ್ರಿಯೆಯು ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆಗೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ. ಇಲ್ಲಿ, ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ ಲೋಹವಾದ ಕಬ್ಬಿಣವು, ಕಾಪರ್ ಸಲ್ಫೇಟ್ ದ್ರಾವಣದಿಂದ ಕಡಿಮೆ ಕ್ರಿಯಾಶೀಲ ಲೋಹವಾದ ತಾಮ್ರವನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ದ್ರಾವಣದ ಬಣ್ಣ ಬದಲಾಗುತ್ತದೆ ಮತ್ತು ತಾಮ್ರವು ಮೊಳೆಯ ಮೇಲೆ ಶೇಖರಣೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯು ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆಗೆ (Displacement Reaction) ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ ಲೋಹ (ಕಬ್ಬಿಣ) ಕಡಿಮೆ ಕ್ರಿಯಾಶೀಲ ಲೋಹವನ್ನು (ತಾಮ್ರ) ಅದರ ಸಂಯುಕ್ತದಿಂದ ಸ್ಥಳಾಂತರಿಸುತ್ತದೆ.",
+    "ಸಾಮಾನ್ಯ ರೂಪ: A + BC → AC + B",
+    "ಬಣ್ಣ ಬದಲಾವಣೆಯು ಈ ಕ್ರಿಯೆಯ ಒಂದು ಸ್ಪಷ್ಟ ಸೂಚಕವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_025"
+}

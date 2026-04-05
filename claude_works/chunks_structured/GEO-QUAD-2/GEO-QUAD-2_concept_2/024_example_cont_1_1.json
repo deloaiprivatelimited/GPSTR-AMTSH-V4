@@ -1,0 +1,57 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1-3",
+  "script": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ನಾವು ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ COD ಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸಲು ಪ್ರಯತ್ನಿಸೋಣ. ಮೊದಲಿಗೆ, ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ COD ಗಳಲ್ಲಿ, OA ಯು OC ಗೆ ಸಮ. ಏಕೆಂದರೆ ವಜ್ರಾಕೃತಿಯು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ, ಮತ್ತು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, OD ಯು OD ಗೆ ಸಮ, ಏಕೆಂದರೆ ಇದು ಉಭಯ ಸಾಮಾನ್ಯ ಬಾಹು. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, AD ಯು CD ಗೆ ಸಮ, ಏಕೆಂದರೆ ವಜ್ರಾಕೃತಿಯ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮ. ಆದ್ದರಿಂದ, ಬಾಹು ಬಾಹು ಬಾಹು ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ AOD ಯು ತ್ರಿಭುಜ COD ಗೆ ಸರ್ವಸಮವಾಗಿದೆ.",
+  "script_display": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ನಾವು $∆AOD$ ಮತ್ತು $∆COD$ ಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸಲು ಪ್ರಯತ್ನಿಸೋಣ. ಮೊದಲಿಗೆ, $∆AOD$ ಮತ್ತು $∆COD$ ಗಳಲ್ಲಿ, $OA = OC$. ಏಕೆಂದರೆ ವಜ್ರಾಕೃತಿಯು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ, ಮತ್ತು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, $OD = OD$, ಏಕೆಂದರೆ ಇದು ಉಭಯ ಸಾಮಾನ್ಯ ಬಾಹು. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, $AD = CD$, ಏಕೆಂದರೆ ವಜ್ರಾಕೃತಿಯ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮ. ಆದ್ದರಿಂದ, ಬಾ.ಬಾ.ಬಾ (SSS) ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, $∆AOD ≅ ∆COD$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ವಜ್ರಾಕೃತಿ ABCD. ತ್ರಿಭುಜಗಳಾದ AOD ಮತ್ತು COD ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. ಸಮವಾದ ಬಾಹುಗಳನ್ನು (OA=OC, AD=CD) ಮತ್ತು ಸಾಮಾನ್ಯ ಬಾಹುವನ್ನು (OD) ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "SSS ಸರ್ವಸಮತೆಯನ್ನು ತೋರಿಸಲು ತ್ರಿಭುಜಗಳನ್ನು ಹೋಲಿಸುವುದು.",
+    "placeholder_note": "Image of rhombus ABCD. Triangles AOD and COD are highlighted. Tick marks indicate OA=OC and AD=CD. OD is shown as common."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-QUAD-2_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$OA = OC$",
+      "justification": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$OD = OD$",
+      "justification": "ಉಭಯ ಸಾಮಾನ್ಯ ಬಾಹು."
+    },
+    {
+      "step": 3,
+      "action_display": "$AD = CD$",
+      "justification": "ವಜ್ರಾಕೃತಿಯ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮ."
+    },
+    {
+      "step": 4,
+      "action_display": "$∴ ∆AOD ≅ ∆COD$",
+      "justification": "ಬಾ.ಬಾ.ಬಾ (SSS) ಸರ್ವಸಮತೆಯ ನಿಯಮ."
+    }
+  ],
+  "chunk_id": "GEO-QUAD-2_concept_2_chunk_024"
+}

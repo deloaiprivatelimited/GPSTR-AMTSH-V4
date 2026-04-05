@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸ್ಥಾಯಿ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಸ್ಥಾಯಿಯನ್ನು ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಸೀಟಿಯ ಶಬ್ದವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ನೀವು ಸೀಟಿ ಊದಿದಾಗ, ಅದು ಹೆಚ್ಚಿನ ಆವೃತ್ತಿಯ ಶಬ್ದ ತರಂಗಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಅಂದರೆ, ಒಂದು ಸೆಕೆಂಡಿನಲ್ಲಿ ಹೆಚ್ಚು ಕಂಪನಗಳು ಉಂಟಾಗುತ್ತವೆ. ನಮ್ಮ ಮೆದುಳು ಈ ಹೆಚ್ಚಿನ ಆವೃತ್ತಿಯನ್ನು 'ಕೀಚಲು' ಅಥವಾ ಹೆಚ್ಚಿನ ಸ್ಥಾಯಿಯ ಧ್ವನಿ ಎಂದು ಗ್ರಹಿಸುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಹೆಚ್ಚಿನ ಆವೃತ್ತಿಯ ತರಂಗಗಳು ಬಹಳ ಹತ್ತಿರ-ಹತ್ತಿರ ಇರುತ್ತವೆ. ಈ ಗುಣವೇ ಶಬ್ದಕ್ಕೆ ಅದರ ಕೀಚಲು ಸ್ವಭಾವವನ್ನು ನೀಡುತ್ತದೆ.",
+  "script_display": "ಸ್ಥಾಯಿಯನ್ನು ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಸೀಟಿಯ (whistle) ಶಬ್ದವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ನೀವು ಸೀಟಿ ಊದಿದಾಗ, ಅದು ಹೆಚ್ಚಿನ ಆವೃತ್ತಿಯ (high frequency) ಶಬ್ದ ತರಂಗಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ನಮ್ಮ ಮೆದುಳು ಈ ಹೆಚ್ಚಿನ ಆವೃತ್ತಿಯನ್ನು 'ಕೀಚಲು' ಅಥವಾ ಹೆಚ್ಚಿನ ಸ್ಥಾಯಿಯ ಧ್ವನಿ ಎಂದು ಗ್ರಹಿಸುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಹೆಚ್ಚಿನ ಆವೃತ್ತಿಯ ತರಂಗಗಳು ಬಹಳ ಹತ್ತಿರ-ಹತ್ತಿರ ಇರುತ್ತವೆ. ಈ ಗುಣವೇ ಶಬ್ದಕ್ಕೆ ಅದರ ಕೀಚಲು ಸ್ವಭಾವವನ್ನು ನೀಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: ಸೀಟಿಯ ಶಬ್ದ (Whistle sound).",
+    "ಇದು ಹೆಚ್ಚಿನ ಆವೃತ್ತಿಯ (high frequency) ತರಂಗಗಳನ್ನು ಹೊಂದಿದೆ.",
+    "ನಮ್ಮ ಮೆದುಳು ಇದನ್ನು 'ಕೀಚಲು' ಅಥವಾ ಹೆಚ್ಚಿನ ಸ್ಥಾಯಿಯ ಧ್ವನಿ ಎಂದು ಗ್ರಹಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A sine wave representing a high-frequency sound. The waves are packed closely together, indicating many cycles per second. The wave is labelled 'ಹೆಚ್ಚಿನ ಆವೃತ್ತಿ (High Frequency)' and an arrow points to it with the text 'ಹೆಚ್ಚಿನ ಸ್ಥಾಯಿ (High Pitch)'.",
+    "labels": "High Frequency, High Pitch",
+    "scientific_significance": "Visually demonstrates the relationship between closely packed (high frequency) waves and the concept of high pitch.",
+    "placeholder_note": "Image to be generated: A clear, simple sine wave diagram for high frequency."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_11_concept_3_chunk_015"
+}

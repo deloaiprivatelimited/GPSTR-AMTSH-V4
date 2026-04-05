@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 (ಲೆಕ್ಕಾಚಾರ)",
+  "script": "ಈಗ ಮೂರನೇ ಹಂತ, ಲೆಕ್ಕಾಚಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸೋಣ. 120 ಅನ್ನು 75 ರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ 1.6 ಸಿಗುತ್ತದೆ. ನಂತರ, 1.6 ಅನ್ನು 100 ರಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ 160 ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, ಹುಡುಗನ ಅಂದಾಜು ಪೂರ್ಣ ಎತ್ತರ 160 ಸೆಂಟಿಮೀಟರ್.",
+  "script_display": "ಈಗ ಮೂರನೇ ಹಂತ, ಲೆಕ್ಕಾಚಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸೋಣ. 120 ಅನ್ನು 75 ರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ 1.6 ಸಿಗುತ್ತದೆ. ನಂತರ, 1.6 ಅನ್ನು 100 ರಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ 160 ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, ಹುಡುಗನ ಅಂದಾಜು ಪೂರ್ಣ ಎತ್ತರ 160 cm.",
+  "display_bullets": [
+    "ಹಂತ 3: ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+    "ಮೊದಲು, 120 ಅನ್ನು 75 ರಿಂದ ಭಾಗಿಸಿ: 120 ÷ 75 = 1.6",
+    "ನಂತರ, ಫಲಿತಾಂಶವನ್ನು 100 ರಿಂದ ಗುಣಿಸಿ: 1.6 x 100 = 160 cm"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "= 1.6 \\times 100 \\\\ \\\\ = 160 \\text{ cm}",
+    "placeholder_note": "Show the result of the division and the final multiplication."
+  },
+  "source_example_id": "std_8_science_ch_7_example_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು: 1.6 x 100 = 160 cm",
+      "justification": "ಗಣಿತದ ಲೆಕ್ಕಾಚಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ ಅಂತಿಮ ಉತ್ತರವನ್ನು ಪಡೆಯುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "std_8_science_ch_7_concept_2_chunk_013"
+}

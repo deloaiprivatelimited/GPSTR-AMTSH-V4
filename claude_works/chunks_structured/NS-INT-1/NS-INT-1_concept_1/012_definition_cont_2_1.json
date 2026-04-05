@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಋಣ ಪೂರ್ಣಾಂಕಗಳು",
+  "script": "ಈಗ ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಋಣ ಪೂರ್ಣಾಂಕಗಳ ಸ್ಥಾನವನ್ನು ನೋಡೋಣ. ಸಂಖ್ಯಾ ರೇಖೆಯ ಮಧ್ಯದಲ್ಲಿ ಸೊನ್ನೆ ಇರುತ್ತದೆ. ಸೊನ್ನೆಯ ಬಲಭಾಗಕ್ಕೆ ಹೋದಂತೆ ಧನ ಪೂರ್ಣಾಂಕಗಳು, ಅಂದರೆ ಒಂದು, ಎರಡು, ಮೂರು, ಹೀಗೆ ಬರುತ್ತವೆ. ಅದೇ ರೀತಿ, ಸೊನ್ನೆಯಿಂದ ಎಡಭಾಗಕ್ಕೆ ಚಲಿಸಿದಾಗ ನಮಗೆ ಋಣ ಪೂರ್ಣಾಂಕಗಳು ಸಿಗುತ್ತವೆ. ಮೈನಸ್ ಒಂದು, ಮೈನಸ್ ಎರಡು, ಮೈನಸ್ ಮೂರು, ಹೀಗೆ. ಒಂದು ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಎಡಕ್ಕೆ ಹೋದಂತೆ ಸಂಖ್ಯೆಯ ಮೌಲ್ಯವು ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಅಂದರೆ, ಮೈನಸ್ ಐದು, ಮೈನಸ್ ಎರಡಕ್ಕಿಂತ ಚಿಕ್ಕದಾದ ಸಂಖ್ಯೆ.",
+  "script_display": "ಈಗ ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಋಣ ಪೂರ್ಣಾಂಕಗಳ ಸ್ಥಾನವನ್ನು ನೋಡೋಣ. ಸಂಖ್ಯಾ ರೇಖೆಯ ಮಧ್ಯದಲ್ಲಿ 0 ಇರುತ್ತದೆ. ಸೊನ್ನೆಯ ಬಲಭಾಗಕ್ಕೆ ಹೋದಂತೆ ಧನ ಪೂರ್ಣಾಂಕಗಳು, ಅಂದರೆ 1, 2, 3, ಹೀಗೆ ಬರುತ್ತವೆ. ಅದೇ ರೀತಿ, ಸೊನ್ನೆಯಿಂದ ಎಡಭಾಗಕ್ಕೆ ಚಲಿಸಿದಾಗ ನಮಗೆ ಋಣ ಪೂರ್ಣಾಂಕಗಳು ಸಿಗುತ್ತವೆ. -1, -2, -3, ಹೀಗೆ. ಒಂದು ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಎಡಕ್ಕೆ ಹೋದಂತೆ ಸಂಖ್ಯೆಯ ಮೌಲ್ಯವು ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಅಂದರೆ, -5, -2 ಕ್ಕಿಂತ ಚಿಕ್ಕದಾದ ಸಂಖ್ಯೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_full",
+    "template": "visual_full_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line centered at 0. Positive integers (1, 2, 3, 4, 5) are shown to the right of 0 in blue. Negative integers (-1, -2, -3, -4, -5) are shown to the left of 0 in red. An arrow points to the left from 0 with the label 'ಋಣ ಪೂರ್ಣಾಂಕಗಳು (Negative Integers)'. An arrow points to the right from 0 with the label 'ಧನ ಪೂರ್ಣಾಂಕಗಳು (Positive Integers)'.",
+    "labels": "ಸೊನ್ನೆ, ಧನ ಪೂರ್ಣಾಂಕಗಳು, ಋಣ ಪೂರ್ಣಾಂಕಗಳು",
+    "mathematical_significance": "Visually separates positive and negative integers relative to zero, establishing the concept of direction and order on the number line.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_full",
+  "chunk_id": "NS-INT-1_concept_1_chunk_012"
+}

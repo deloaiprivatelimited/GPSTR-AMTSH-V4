@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: BPT ಯ ಉಪಸಿದ್ಧಾಂತ",
+  "script": "ಈಗ ನಾವು ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯದ ಒಂದು ಪ್ರಮುಖ ಉಪಸಿದ್ಧಾಂತವನ್ನು ಸಾಧಿಸುವ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, AB ಮತ್ತು AC ಬಾಹುಗಳನ್ನು ಕ್ರಮವಾಗಿ D ಮತ್ತು E ಬಿಂದುಗಳಲ್ಲಿ ಛೇದಿಸುವ ಒಂದು ರೇಖೆಯು BC ಗೆ ಸಮಾಂತರವಾಗಿದೆ. ನಾವು AD ಭಾಗಿಸು AB ಸಮ AE ಭಾಗಿಸು AC ಎಂದು ಸಾಧಿಸಬೇಕು. ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶವೆಂದರೆ DE ಯು BC ಗೆ ಸಮಾಂತರವಾಗಿದೆ. ಮತ್ತು ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು AD ಭಾಗಿಸು AB ಸಮ AE ಭಾಗಿಸು AC.",
+  "script_display": "ಈಗ ನಾವು ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯದ ಒಂದು ಪ್ರಮುಖ ಉಪಸಿದ್ಧಾಂತವನ್ನು ಸಾಧಿಸುವ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $\\triangle ABC$ ಯ AB ಮತ್ತು AC ಬಾಹುಗಳನ್ನು ಕ್ರಮವಾಗಿ D ಮತ್ತು E ಬಿಂದುಗಳಲ್ಲಿ ಛೇದಿಸುವ ರೇಖೆಯು BC ಗೆ ಸಮಾಂತರವಾಗಿದ್ದರೆ $\\frac{AD}{AB} = \\frac{AE}{AC}$ ಎಂದು ಸಾಧಿಸಿ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶವೆಂದರೆ $DE || BC$. ಮತ್ತು ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು $\\frac{AD}{AB} = \\frac{AE}{AC}$.",
+  "display_bullets": [
+    "ದತ್ತ: $\\triangle ABC$ ಯಲ್ಲಿ $DE || BC$.",
+    "ಸಾಧನೀಯ: $\\frac{AD}{AB} = \\frac{AE}{AC}$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ತ್ರಿಭುಜ ABC. Dಯು AB ಮೇಲಿದೆ ಮತ್ತು Eಯು AC ಮೇಲಿದೆ. DE ರೇಖೆಯು BCಗೆ ಸಮಾಂತರವಾಗಿದೆ. ಇದು BPT ಯ ಉಪಸಿದ್ಧಾಂತವನ್ನು ವಿವರಿಸುತ್ತದೆ. (ಚಿತ್ರ 6.13)",
+    "labels": "A, B, C, D, E",
+    "mathematical_significance": "BPT ಯ ಉಪಸಿದ್ಧಾಂತವನ್ನು ಸಾಧಿಸಲು ಬಳಸುವ ಚಿತ್ರ. DE || BC ಎಂದು ತೋರಿಸಲಾಗಿದೆ.",
+    "placeholder_note": "Image to be generated for Figure 6.13"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_12",
+  "chunk_id": "GEO-TRI-2_concept_4_chunk_024"
+}

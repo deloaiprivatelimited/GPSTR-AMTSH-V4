@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕೊಸೈನ್ ಸೂತ್ರ",
+  "script": "ಈಗ ಕೋನ A ಯ ಕೊಸೈನ್ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಸೂತ್ರವು ಹೀಗಿದೆ: cos A ಸಮನಾಗಿರುತ್ತದೆ ಪಾರ್ಶ್ವ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ. ನಮ್ಮ ಉಲ್ಲೇಖ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, ಕೋನ A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು AB ಮತ್ತು ವಿಕರ್ಣ AC ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಈ ತ್ರಿಭುಜಕ್ಕೆ ಸೂತ್ರವು cos A ಸಮನಾಗಿರುತ್ತದೆ AB ಭಾಗಿಸು AC ಎಂದಾಗುತ್ತದೆ. ನೆನಪಿಡಿ, 'cos' ಎಂಬುದು 'cosine' ನ ಸಂಕ್ಷಿಪ್ತ ರೂಪ. ಈ ಅನುಪಾತದ ಮೌಲ್ಯವು ಕೋನ A ಯ ಅಳತೆಯನ್ನು ಮಾತ್ರ ಅವಲಂಬಿಸಿರುತ್ತದೆ, ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಉದ್ದವನ್ನಲ್ಲ. ತ್ರಿಭುಜವು ದೊಡ್ಡದಾಗಲಿ ಅಥವಾ ಚಿಕ್ಕದಾಗಲಿ, ಕೋನ A ಒಂದೇ ಆಗಿದ್ದರೆ, cos A ಯ ಬೆಲೆ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ಕೋನ A ಯ ಕೊಸೈನ್ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಸೂತ್ರವು ಹೀಗಿದೆ: $\\cos A = \\frac{\\text{ಪಾರ್ಶ್ವ ಬಾಹು (Adjacent Side)}}{\\text{ವಿಕರ್ಣ (Hypotenuse)}}$. ನಮ್ಮ ಉಲ್ಲೇಖ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, ಕೋನ A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು AB ಮತ್ತು ವಿಕರ್ಣ AC ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಈ ತ್ರಿಭುಜಕ್ಕೆ ಸೂತ್ರವು $\\cos A = \\frac{AB}{AC}$ ಎಂದಾಗುತ್ತದೆ. ನೆನಪಿಡಿ, 'cos' ಎಂಬುದು 'cosine' ನ ಸಂಕ್ಷಿಪ್ತ ರೂಪ. ಈ ಅನುಪಾತದ ಮೌಲ್ಯವು ಕೋನ A ಯ ಅಳತೆಯನ್ನು ಮಾತ್ರ ಅವಲಂಬಿಸಿರುತ್ತದೆ, ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಉದ್ದವನ್ನಲ್ಲ. ತ್ರಿಭುಜವು ದೊಡ್ಡದಾಗಲಿ ಅಥವಾ ಚಿಕ್ಕದಾಗಲಿ, ಕೋನ A ಒಂದೇ ಆಗಿದ್ದರೆ, $\\cos A$ ಯ ಬೆಲೆ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸೂತ್ರ: $\\cos A = \\frac{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}}$",
+    "ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ: $\\cos A = \\frac{AB}{AC}$",
+    "'cos' ಎಂಬುದು 'cosine' ನ ಸಂಕ್ಷಿಪ್ತ ರೂಪ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\cos A = \\frac{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}} = \\frac{AB}{AC}",
+    "placeholder_note": "Formula for Cosine of angle A"
+  },
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_038"
+}

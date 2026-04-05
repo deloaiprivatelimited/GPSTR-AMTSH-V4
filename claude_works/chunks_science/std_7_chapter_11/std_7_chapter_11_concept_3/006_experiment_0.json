@@ -1,0 +1,37 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಚಮಚವನ್ನು ದರ್ಪಣವಾಗಿ ಬಳಸುವುದು",
+  "script": "ಈಗ ನಾವು ಒಂದು ಸರಳವಾದ ಆದರೆ ಅಷ್ಟೇ ಕುತೂಹಲಕಾರಿಯಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಇದಕ್ಕಾಗಿ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಒಂದು ಹೊಳಪಾದ ಸ್ಟೀಲ್ ಚಮಚ. ಈ ಚಟುವಟಿಕೆಯ ಮೂಲಕ, ವಕ್ರವಾದ ಮೇಲ್ಮೈಗಳು ಬೆಳಕನ್ನು ಹೇಗೆ ಪ್ರತಿಫಲಿಸುತ್ತವೆ ಮತ್ತು ಗೋಲೀಯ ದರ್ಪಣಗಳು ಹೇಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ನಾವು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲಿದ್ದೇವೆ. ನಿಮ್ಮ ಮನೆಯಲ್ಲಿರುವ ಒಂದು ಸ್ಟೀಲ್ ಚಮಚವನ್ನು ತೆಗೆದುಕೊಂಡು ಈ ಪ್ರಯೋಗವನ್ನು ನನ್ನ ಜೊತೆ ಮಾಡಿ. ಈ ಚಟುವಟಿಕೆಯು ನಿಮ್ಮ ದರ್ಪಣ ಮತ್ತು ಪೀನ ದರ್ಪಣಗಳ ಗುಣಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಸರಳವಾದ ಆದರೆ ಅಷ್ಟೇ ಕುತೂಹಲಕಾರಿಯಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಇದಕ್ಕಾಗಿ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಒಂದು ಹೊಳಪಾದ ಸ್ಟೀಲ್ ಚಮಚ. ಈ ಚಟುವಟಿಕೆಯ ಮೂಲಕ, ವಕ್ರವಾದ ಮೇಲ್ಮೈಗಳು ಬೆಳಕನ್ನು ಹೇಗೆ ಪ್ರತಿಫಲಿಸುತ್ತವೆ ಮತ್ತು ಗೋಲೀಯ ದರ್ಪಣಗಳು (spherical mirrors) ಹೇಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ನಾವು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲಿದ್ದೇವೆ. ನಿಮ್ಮ ಮನೆಯಲ್ಲಿರುವ ಒಂದು ಸ್ಟೀಲ್ ಚಮಚವನ್ನು ತೆಗೆದುಕೊಂಡು ಈ ಪ್ರಯೋಗವನ್ನು ನನ್ನ ಜೊತೆ ಮಾಡಿ. ಈ ಚಟುವಟಿಕೆಯು ನಿಮ್ಮ ದರ್ಪಣ (concave mirror) ಮತ್ತು ಪೀನ ದರ್ಪಣಗಳ (convex mirror) ಗುಣಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅಗತ್ಯವಿರುವ ವಸ್ತು: ಒಂದು ಹೊಳಪಾದ ಸ್ಟೀಲ್ ಚಮಚ.",
+    "ಉದ್ದೇಶ: ಗೋಲೀಯ ದರ್ಪಣಗಳ ಗುಣಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು.",
+    "ಚಮಚದ ಒಳ ಮತ್ತು ಹೊರ ಮೇಲ್ಮೈಗಳನ್ನು ಗಮನಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A shiny, clean stainless steel spoon, ready for the experiment.",
+    "labels": "ಹೊಳಪಾದ ಸ್ಟೀಲ್ ಚಮಚ",
+    "scientific_significance": "Represents a common object with curved reflecting surfaces, analogous to concave and convex mirrors.",
+    "placeholder_note": "Image of a shiny steel spoon."
+  },
+  "sub_type": "experiment_intro",
+  "chunk_id": "std_7_chapter_11_concept_3_chunk_006"
+}

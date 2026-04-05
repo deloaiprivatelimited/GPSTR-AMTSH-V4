@@ -1,0 +1,125 @@
+{
+  "module_id": "std_9_chapter_5_concept_8",
+  "chapter_code": "std_9_chapter_5",
+  "voice": "Fenrir",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 17:04:19",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "548986b87c0953a3a2db7968e990dceb",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 36.011,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 48,
+      "generated_at": "2026-04-02 17:02:47"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "d92b55a4888d5108b8083f1b705b668b",
+      "wav_file": "003_definition_0.wav",
+      "duration": 42.291,
+      "slide_title": "ಕೋಶ ವಿಭಜನೆ (Cell Division)",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 17:02:52"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "28711406c2508d3ed9f9041d1ebecc05",
+      "wav_file": "001_intro_0.wav",
+      "duration": 58.011,
+      "slide_title": "ಕೋಶ ವಿಭಜನೆ",
+      "type": "intro",
+      "script_words": 80,
+      "generated_at": "2026-04-02 17:03:14"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "f5042cda628990eb50222613fd3f1866",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 40.891,
+      "slide_title": "ಕೋಶ ವಿಭಜನೆಯ ಪ್ರಮುಖ ವಿಧಗಳು",
+      "type": "definition",
+      "script_words": 47,
+      "generated_at": "2026-04-02 17:03:15"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "6230c59c7ef76cce4eea508870402c32",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 48.531,
+      "slide_title": "ಕೋಶ ವಿಭಜನೆ ಏಕೆ ಮುಖ್ಯ?",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-04-02 17:03:16"
+    },
+    "006_classification_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "105255585fefbb4223295439fa7b72b2",
+      "wav_file": "006_classification_0.wav",
+      "duration": 43.651,
+      "slide_title": "ಕೋಶ ವಿಭಜನೆಯ ವಿಧಗಳು: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 17:03:53"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "0cb8002bbf06d9f3e8202954b4c6049d",
+      "wav_file": "010_recap_0.wav",
+      "duration": 53.571,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 66,
+      "generated_at": "2026-04-02 17:04:02"
+    },
+    "007_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "e73655728eb7d06399db645140a80349",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "duration": 57.851,
+      "slide_title": "ಮೈಟಾಸಿಸ್ (ಸಮಸೂತ್ರಿ ವಿಭಜನೆ)",
+      "type": "concept_explanation",
+      "script_words": 70,
+      "generated_at": "2026-04-02 17:04:03"
+    },
+    "009_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "5ae591a63c18aea2e9a73c1392848e67",
+      "wav_file": "009_classification_cont_0_3.wav",
+      "duration": 47.171,
+      "slide_title": "ಮೈಟಾಸಿಸ್ ಮತ್ತು ಮಿಯಾಸಿಸ್: ಹೋಲಿಕೆ",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 17:04:17"
+    },
+    "008_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "7918a8f121b1f509c86dace7dcc622b8",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "duration": 47.571,
+      "slide_title": "ಮಿಯಾಸಿಸ್ (ಕ್ಷೀಣಕಾರಿ ವಿಭಜನೆ)",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 17:04:19"
+    }
+  }
+}

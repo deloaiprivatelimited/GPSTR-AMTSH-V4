@@ -1,0 +1,103 @@
+{
+  "module_id": "std_9_chapter_12_concept_5",
+  "chapter_code": "std_9_chapter_12",
+  "voice": "Vindemiatrix",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 17:17:17",
+  "chunks": {
+    "005_classification_1.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "f74719f9055290cb7d50850c4808b956",
+      "wav_file": "005_classification_1.wav",
+      "duration": 42.171,
+      "slide_title": "ಜಲ ಸಂರಕ್ಷಣೆ: ಏಕೆ ಮುಖ್ಯ?",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 17:16:04"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "309c596805449d7d161fc4cd35d50435",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 34.251,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 45,
+      "generated_at": "2026-04-02 17:16:07"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "2a3bb3250ce2d37299c16711a1679112",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 50.251,
+      "slide_title": "ನೀರಾವರಿ ವ್ಯವಸ್ಥೆಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 17:16:12"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "fa61b231c337e27384c8fd37a9b93e3e",
+      "wav_file": "003_classification_0.wav",
+      "duration": 51.971,
+      "slide_title": "ನೀರಾವರಿ ವ್ಯವಸ್ಥೆಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 17:16:14"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "a076b51bb8a878e83340008d38bda429",
+      "wav_file": "001_intro_0.wav",
+      "duration": 54.771,
+      "slide_title": "ಪರಿಚಯ: ನೀರಾವರಿ ಮತ್ತು ಜಲ ಸಂರಕ್ಷಣೆ",
+      "type": "chunk",
+      "script_words": 77,
+      "generated_at": "2026-04-02 17:16:15"
+    },
+    "006_classification_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "7ca69b13feb40943d7336bb655aea766",
+      "wav_file": "006_classification_cont_1_1.wav",
+      "duration": 44.931,
+      "slide_title": "ಜಲ ಸಂರಕ್ಷಣಾ ವಿಧಾನ 1: ಮಳೆನೀರು ಕೊಯ್ಲು",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 17:17:07"
+    },
+    "007_classification_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "b55e43ec9ea5e9f7fda7170c3346b8a3",
+      "wav_file": "007_classification_cont_1_2.wav",
+      "duration": 42.931,
+      "slide_title": "ಜಲ ಸಂರಕ್ಷಣಾ ವಿಧಾನ 2: ನೀರುತಡೆ ಜಲಾಶಯ",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 17:17:10"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "63dd68074e0be4dad8e16a7a6f7e63d4",
+      "wav_file": "008_recap_0.wav",
+      "duration": 43.411,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 50,
+      "generated_at": "2026-04-02 17:17:17"
+    }
+  }
+}

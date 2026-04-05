@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಹಂತ 1",
+  "script": "ಮೊದಲಿಗೆ, ಮೊದಲನೇ ಸಮೀಕರಣವಾದ x ಪ್ಲಸ್ ಮೂರು y ಈಕ್ವಲ್ಸ್ ಆರಕ್ಕೆ ಪರಿಹಾರದ ಬಿಂದುಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಕ್ಷೆಯಲ್ಲಿ ಒಂದು ಸರಳರೇಖೆಯನ್ನು ಎಳೆಯಲು ನಮಗೆ ಕನಿಷ್ಠ ಎರಡು ಬಿಂದುಗಳು ಬೇಕು. y ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಪುನರ್ರಚಿಸಿದಾಗ, y ಈಕ್ವಲ್ಸ್ ಆರು ಮೈನಸ್ x, ಇಡೀ ಭಾಗಿಸು ಮೂರು ಎಂದು ಸಿಗುತ್ತದೆ. ಈಗ, x ಗೆ ಸೊನ್ನೆ ಎಂದು ಆದೇಶಿಸಿದಾಗ, y ಈಕ್ವಲ್ಸ್ ಆರರಿಂದ ಸೊನ್ನೆ ಕಳೆದರೆ ಆರು, ಆರನ್ನು ಮೂರರಿಂದ ಭಾಗಿಸಿದರೆ ಎರಡು. ಹಾಗಾಗಿ ಮೊದಲ ಬಿಂದು A ಸೊನ್ನೆ, ಎರಡು. ನಂತರ, x ಗೆ ಆರು ಎಂದು ಆದೇಶಿಸಿದಾಗ, y ಈಕ್ವಲ್ಸ್ ಆರರಿಂದ ಆರು ಕಳೆದರೆ ಸೊನ್ನೆ, ಸೊನ್ನೆಯನ್ನು ಮೂರರಿಂದ ಭಾಗಿಸಿದರೆ ಸೊನ್ನೆ. ಹಾಗಾಗಿ ಎರಡನೇ ಬಿಂದು B ಆರು, ಸೊನ್ನೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಮೊದಲನೇ ಸಮೀಕರಣವಾದ $x + 3y = 6$ ಕ್ಕೆ ಪರಿಹಾರದ ಬಿಂದುಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಕ್ಷೆಯಲ್ಲಿ ಒಂದು ಸರಳರೇಖೆಯನ್ನು ಎಳೆಯಲು ನಮಗೆ ಕನಿಷ್ಠ ಎರಡು ಬಿಂದುಗಳು ಬೇಕು. $y$ ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಪುನರ್ರಚಿಸಿದಾಗ, $y = \\frac{6-x}{3}$ ಎಂದು ಸಿಗುತ್ತದೆ. ಈಗ, $x=0$ ಎಂದು ಆದೇಶಿಸಿದಾಗ, $y = \\frac{6-0}{3} = 2$. ಹಾಗಾಗಿ ಮೊದಲ ಬಿಂದು A(0, 2). ನಂತರ, $x=6$ ಎಂದು ಆದೇಶಿಸಿದಾಗ, $y = \\frac{6-6}{3} = 0$. ಹಾಗಾಗಿ ಎರಡನೇ ಬಿಂದು B(6, 0).",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "Table of values for the first equation x+3y=6. x values are 0 and 6. y values are 2 and 0. The points are A(0,2) and B(6,0). Caption: x + 3y = 6 ಕ್ಕೆ ಬಿಂದುಗಳು (Points for x + 3y = 6). Headers: x, y. Rows: [0, 2], [6, 0]. "
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "ALG-PAIR-4_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಮೊದಲನೇ ಸಮೀಕರಣ $x + 3y = 6$ ಕ್ಕೆ ಪರಿಹಾರದ ಬಿಂದುಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು. <br> $y = \\frac{6-x}{3}$ <br> $x=0$ ಆದರೆ, $y = \\frac{6-0}{3} = 2 \\implies A(0, 2)$ <br> $x=6$ ಆದರೆ, $y = \\frac{6-6}{3} = 0 \\implies B(6, 0)$",
+      "justification": "ನಕ್ಷೆಯಲ್ಲಿ ರೇಖೆಯನ್ನು ಎಳೆಯಲು ಕನಿಷ್ಠ ಎರಡು ಬಿಂದುಗಳು ಬೇಕು."
+    }
+  ],
+  "chunk_id": "ALG-PAIR-4_concept_2_chunk_009"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಬೇಕಾಗುವ ಕಚ್ಚಾ ವಸ್ತುಗಳು",
+  "script": "ಅಡುಗೆ ಸೋಡಾವನ್ನು ತಯಾರಿಸಲು ನಮಗೆ ನಾಲ್ಕು ಮುಖ್ಯ ಕಚ್ಚಾ ವಸ್ತುಗಳು ಬೇಕು. ಅವುಗಳೆಂದರೆ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ಜಲೀಯ ದ್ರಾವಣ, ನೀರು, ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲ, ಮತ್ತು ಅಮೋನಿಯಾ ಅನಿಲ.",
+  "script_display": "ಅಡುಗೆ ಸೋಡಾವನ್ನು ತಯಾರಿಸಲು ನಮಗೆ ನಾಲ್ಕು ಮುಖ್ಯ ಕಚ್ಚಾ ವಸ್ತುಗಳು ಬೇಕು. ಅವುಗಳೆಂದರೆ:",
+  "display_bullets": [
+    "ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ದ್ರಾವಣ (NaCl)",
+    "ನೀರು (H₂O)",
+    "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (CO₂)",
+    "ಅಮೋನಿಯಾ (NH₃)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "dynamic_bullets",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_2_concept_9_chunk_012"
+}

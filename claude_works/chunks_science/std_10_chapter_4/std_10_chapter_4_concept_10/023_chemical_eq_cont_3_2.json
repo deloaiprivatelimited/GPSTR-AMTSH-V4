@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ವೀಕ್ಷಣೆ",
+  "script": "ಈ ಕ್ರಿಯೆಯನ್ನು ಪ್ರಯೋಗಶಾಲೆಯಲ್ಲಿ ಮಾಡಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಒಂದು ಪ್ರನಾಳದಲ್ಲಿ ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ ಪುಡಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದಕ್ಕೆ ಎಥನೋಯಿಕ್ ಆಮ್ಲವನ್ನು ಸೇರಿಸಿದಾಗ, ತಕ್ಷಣವೇ ನೊರೆ ಬರುತ್ತದೆ. ಈ ನೊರೆಯು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲದ ಬಿಡುಗಡೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಆಮ್ಲಗಳನ್ನು ಗುರುತಿಸುವ ಒಂದು ಪರೀಕ್ಷೆಯಾಗಿದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯನ್ನು ಪ್ರಯೋಗಶಾಲೆಯಲ್ಲಿ ಮಾಡಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಒಂದು ಪ್ರನಾಳದಲ್ಲಿ ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ ($Na_2CO_3$) ಪುಡಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದಕ್ಕೆ ಎಥನೋಯಿಕ್ ಆಮ್ಲವನ್ನು ($CH_3COOH$) ಸೇರಿಸಿದಾಗ, ತಕ್ಷಣವೇ ನೊರೆ ಬರುತ್ತದೆ. ಈ ನೊರೆಯು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ($CO_2$) ಅನಿಲದ ಬಿಡುಗಡೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಆಮ್ಲಗಳನ್ನು ಗುರುತಿಸುವ ಒಂದು ಪರೀಕ್ಷೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪ್ರನಾಳದಲ್ಲಿ ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ + ಎಥನೋಯಿಕ್ ಆಮ್ಲ.",
+    "ತೀವ್ರವಾದ ನೊರೆ (ನುರಗು) ಉಂಟಾಗುತ್ತದೆ.",
+    "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ($CO_2$) ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a test tube containing sodium carbonate powder. Ethanoic acid is being added from a dropper, causing vigorous effervescence (bubbles). A delivery tube carries the gas away from the test tube.",
+    "labels": "ಎಥನೋಯಿಕ್ ಆಮ್ಲ, ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್, ಪ್ರನಾಳ, ನುರಗು (CO₂ ಅನಿಲ)",
+    "scientific_significance": "Illustrates the characteristic reaction of an acid with a carbonate, producing carbon dioxide gas, which is observed as effervescence.",
+    "placeholder_note": "Image to be generated showing the experimental setup for the reaction of ethanoic acid with sodium carbonate."
+  },
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_023"
+}

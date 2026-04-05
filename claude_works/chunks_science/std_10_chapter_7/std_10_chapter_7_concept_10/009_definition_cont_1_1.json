@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಭ್ರೂಣಾಂಕುರದ ರಚನೆ ಮತ್ತು ಅಳವಡಿಕೆ",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ನಿಶೇಚನವು ಅಂಡನಾಳದಲ್ಲಿ ನಡೆದ ನಂತರ, ಯುಗ್ಮಜವು ಗರ್ಭಕೋಶದ ಕಡೆಗೆ ಪ್ರಯಾಣ ಬೆಳೆಸುತ್ತದೆ. ಈ ಪ್ರಯಾಣದ ಸಮಯದಲ್ಲಿ, ಅದು ನಿರಂತರವಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತಾ ಇರುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುವಂತೆ, ಒಂದೇ ಕೋಶವು ಅನೇಕ ಕೋಶಗಳ ಒಂದು ಚೆಂಡಿನಂತೆ ಆಗುತ್ತದೆ. ಇದೇ ಭ್ರೂಣಾಂಕುರ. ಅಂತಿಮವಾಗಿ, ಈ ಭ್ರೂಣಾಂಕುರವು ಗರ್ಭಕೋಶವನ್ನು ತಲುಪಿ, ಅದರ ದಪ್ಪನೆಯ ಒಳಪದರಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ. ಈ ಹಂತವು ಭ್ರೂಣದ ಮುಂದಿನ ಬೆಳವಣಿಗೆಗೆ ಬೇಕಾದ ಪೋಷಣೆ ಮತ್ತು ಆಶ್ರಯವನ್ನು ಒದಗಿಸಲು ನಿರ್ಣಾಯಕವಾಗಿದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ನಿಶೇಚನವು ಅಂಡನಾಳದಲ್ಲಿ (Fallopian tube) ನಡೆದ ನಂತರ, ಯುಗ್ಮಜವು (Zygote) ಗರ್ಭಕೋಶದ ಕಡೆಗೆ ಪ್ರಯಾಣ ಬೆಳೆಸುತ್ತದೆ. ಈ ಪ್ರಯಾಣದ ಸಮಯದಲ್ಲಿ, ಅದು ನಿರಂತರವಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತಾ ಇರುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುವಂತೆ, ಒಂದೇ ಕೋಶವು ಅನೇಕ ಕೋಶಗಳ ಒಂದು ಚೆಂಡಿನಂತೆ (ಭ್ರೂಣಾಂಕುರ) ಆಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಈ ಭ್ರೂಣಾಂಕುರವು ಗರ್ಭಕೋಶವನ್ನು ತಲುಪಿ, ಅದರ ದಪ್ಪನೆಯ ಒಳಪದರಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ (Implantation). ಈ ಹಂತವು ಭ್ರೂಣದ ಮುಂದಿನ ಬೆಳವಣಿಗೆಗೆ ನಿರ್ಣಾಯಕವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಯುಗ್ಮಜವು ಅಂಡನಾಳದಲ್ಲಿ ವಿಭಜನೆಗೊಳ್ಳಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ.",
+    "ಇದು ಅನೇಕ ಜೀವಕೋಶಗಳಿರುವ ಒಂದು ಗೋಳವಾಗಿ (ಭ್ರೂಣಾಂಕುರ) ಬದಲಾಗುತ್ತದೆ.",
+    "ಈ ಭ್ರೂಣಾಂಕುರವು ಗರ್ಭಕೋಶವನ್ನು ತಲುಪಿ, ಅದರ ಒಳಪದರಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the stages from fertilization to implantation. It should show the zygote (single cell) in the fallopian tube, dividing into 2, 4, 8 cells (cleavage), forming a morula, then a blastocyst (which is the embryo), and finally the blastocyst implanting into the uterine wall (endometrium).",
+    "labels": "ಅಂಡಾಣು (Ovum), ವೀರ್ಯಾಣು (Sperm), ನಿಶೇಚನ (Fertilization), ಯುಗ್ಮಜ (Zygote), ಕೋಶ ವಿಭಜನೆ (Cell Division), ಭ್ರೂಣಾಂಕುರ (Embryo/Blastocyst), ಗರ್ಭಕೋಶ (Uterus), ಅಂಡನಾಳ (Fallopian Tube), ಅಳವಡಿಕೆ (Implantation)",
+    "scientific_significance": "Illustrates the critical early stages of human development, showing the transformation of a single-celled zygote into a multicellular embryo and its journey to the uterus for implantation.",
+    "placeholder_note": "Image to be generated showing fertilization in the fallopian tube, cell division of the zygote, formation of the embryo, and its implantation in the uterus."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_7_concept_10_chunk_009"
+}

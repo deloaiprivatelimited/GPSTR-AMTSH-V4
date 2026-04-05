@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಒಂದು ಸುಲಭ ಹೋಲಿಕೆ: ಚೆಂಡಿನ ಪುಟಿತ",
+  "script": "ಬೆಳಕಿನ ಪ್ರತಿಫಲನವನ್ನು ಇನ್ನಷ್ಟು ಚೆನ್ನಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಒಂದು ಸುಲಭವಾದ ಹೋಲಿಕೆ ಇಲ್ಲಿದೆ. ಒಂದು ರಬ್ಬರ್ ಚೆಂಡು ಗೋಡೆಗೆ ಬಡಿದು ಹಿಂತಿರುಗುತ್ತದೆ ಅಲ್ಲವೇ? ಅದೇ ರೀತಿ, ಬೆಳಕು ಮೇಲ್ಮೈಗೆ ಬಡಿದು ಹಿಂತಿರುಗುತ್ತದೆ. ಬೆಳಕಿನ ಕಿರಣಗಳು ಕೂಡ ಇದೇ ರೀತಿ ವರ್ತಿಸುತ್ತವೆ. ಅವು ಒಂದು ಮೇಲ್ಮೈಯನ್ನು ತಲುಪಿದಾಗ, ಚೆಂಡಿನಂತೆ ಪುಟಿದು ಹಿಂತಿರುಗುತ್ತವೆ. ಆದ್ದರಿಂದ, ಪ್ರತಿಫಲನ ಎಂದರೆ ಮೂಲಭೂತವಾಗಿ ಬೆಳಕಿನ ಪುಟಿತ ಅಥವಾ ಬೌನ್ಸಿಂಗ್ ಆಫ್ ಲೈಟ್ ಎಂದು ನೆನಪಿಡಬಹುದು. ಈ ಹೋಲಿಕೆಯು ನಿಮಗೆ ಪರಿಕಲ್ಪನೆಯನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಬೆಳಕಿನ ಪ್ರತಿಫಲನವನ್ನು ಇನ್ನಷ್ಟು ಚೆನ್ನಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಒಂದು ಸುಲಭವಾದ ಹೋಲಿಕೆ ಇಲ್ಲಿದೆ.",
+  "display_bullets": [
+    "ಚೆಂಡು ಗೋಡೆಗೆ ಬಡಿದು ಹಿಂತಿರುಗುತ್ತದೆ.",
+    "ಅದೇ ರೀತಿ, ಬೆಳಕು ಮೇಲ್ಮೈಗೆ ಬಡಿದು ಹಿಂತಿರುಗುತ್ತದೆ.",
+    "ಪ್ರತಿಫಲನ ಎಂದರೆ ಮೂಲಭೂತವಾಗಿ 'ಬೆಳಕಿನ ಪುಟಿತ' (Bouncing of Light)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_dark_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clear diagram showing a ball bouncing off a flat floor. Show the path of the ball towards the floor and the path as it bounces away, similar to an incident and reflected ray.",
+    "labels": "ಚೆಂಡು, ಪುಟಿಯುವ ಮೇಲ್ಮೈ",
+    "scientific_significance": "Provides a simple, macroscopic analogy for the microscopic phenomenon of light reflection, making the concept more intuitive.",
+    "placeholder_note": "Image to be generated showing a ball bouncing off a surface."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_9_concept_1_chunk_005"
+}

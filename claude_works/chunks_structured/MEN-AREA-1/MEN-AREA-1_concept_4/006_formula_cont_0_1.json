@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪಾದ ಮತ್ತು ಎತ್ತರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+  "script": "ಸೂತ್ರದಲ್ಲಿರುವ ಬಿ ಮತ್ತು ಎಚ್, ಅಂದರೆ ಪಾದ ಮತ್ತು ಎತ್ತರವನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ನೀವು ತ್ರಿಭುಜದ ಯಾವುದೇ ಬಾಹುವನ್ನು ಪಾದವಾಗಿ ಆಯ್ಕೆ ಮಾಡಬಹುದು. ಆದರೆ, ನೀವು ಯಾವ ಬಾಹುವನ್ನು ಪಾದವಾಗಿ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರೋ, ಅದರ ವಿರುದ್ಧ ಶೃಂಗದಿಂದ ಆ ಪಾದಕ್ಕೆ ಎಳೆದ ಲಂಬ ರೇಖೆಯ ಅಳತೆಯೇ ಎತ್ತರವಾಗಿರುತ್ತದೆ. ನೆನಪಿಡಿ, ಪಾದ ಮತ್ತು ಎತ್ತರ ಯಾವಾಗಲೂ ಒಂದಕ್ಕೊಂದು ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಕೋನದಲ್ಲಿ, ಅಂದರೆ ಲಂಬವಾಗಿರುತ್ತವೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಪಾದ 'ಬಿ' ಗೆ ಎತ್ತರ 'ಎಚ್' ಲಂಬವಾಗಿದೆ.",
+  "script_display": "ಸೂತ್ರದಲ್ಲಿರುವ $b$ ಮತ್ತು $h$, ಅಂದರೆ ಪಾದ ಮತ್ತು ಎತ್ತರವನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ನೀವು ತ್ರಿಭುಜದ ಯಾವುದೇ ಬಾಹುವನ್ನು ಪಾದವಾಗಿ ಆಯ್ಕೆ ಮಾಡಬಹುದು. ಆದರೆ, ನೀವು ಯಾವ ಬಾಹುವನ್ನು ಪಾದವಾಗಿ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರೋ, ಅದರ ವಿರುದ್ಧ ಶೃಂಗದಿಂದ ಆ ಪಾದಕ್ಕೆ ಎಳೆದ ಲಂಬ ರೇಖೆಯ ಅಳತೆಯೇ ಎತ್ತರವಾಗಿರುತ್ತದೆ. ನೆನಪಿಡಿ, ಪಾದ ಮತ್ತು ಎತ್ತರ ಯಾವಾಗಲೂ ಒಂದಕ್ಕೊಂದು 90° ಕೋನದಲ್ಲಿ, ಅಂದರೆ ಲಂಬವಾಗಿರುತ್ತವೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಪಾದ 'b' ಗೆ ಎತ್ತರ 'h' ಲಂಬವಾಗಿದೆ.",
+  "display_bullets": [
+    "'ಪಾದ' (base) ತ್ರಿಭುಜದ ಯಾವುದೇ ಬಾಹುವಾಗಿರಬಹುದು.",
+    "'ಎತ್ತರ' (height) ಎಂಬುದು ಆಯ್ದ ಪಾದಕ್ಕೆ, ಅದರ ವಿರುದ್ಧ ಶೃಂಗದಿಂದ ಎಳೆದ ಲಂಬವಾಗಿರುತ್ತದೆ.",
+    "ಪಾದ ಮತ್ತು ಎತ್ತರ ಯಾವಾಗಲೂ ಒಂದಕ್ಕೊಂದು ಲಂಬವಾಗಿರುತ್ತವೆ ($90^\\circ$)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An acute triangle with base 'b' highlighted on the bottom side. A dotted line representing the height 'h' is drawn from the top vertex, perpendicular to the base. A right-angle symbol is shown where the height meets the base.",
+    "labels": "b, h",
+    "mathematical_significance": "Illustrates the relationship between the base and corresponding height of a triangle, which must be perpendicular to each other.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-AREA-1_concept_4_chunk_006"
+}

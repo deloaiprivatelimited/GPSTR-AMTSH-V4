@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಚತುರ್ಭುಜಕ್ಕೆ ಎಷ್ಟು ಕರ್ಣಗಳಿವೆ?",
+  "script": "ಹಾಗಾದರೆ, ಒಂದು ಚತುರ್ಭುಜಕ್ಕೆ ಎಷ್ಟು ಕರ್ಣಗಳನ್ನು ಎಳೆಯಬಹುದು? ಸ್ವಲ್ಪ ಯೋಚಿಸಿ. ಒಂದು ಚತುರ್ಭುಜವು ಎರಡು ಜೊತೆ ಅಭಿಮುಖ ಮೂಲೆಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಮೊದಲನೇ ಜೊತೆ A ಮತ್ತು C, ಎರಡನೇ ಜೊತೆ B ಮತ್ತು D. ಪ್ರತಿ ಜೊತೆ ಅಭಿಮುಖ ಮೂಲೆಗಳನ್ನು ಸೇರಿಸಿದಾಗ ನಮಗೆ ಒಂದು ಕರ್ಣ ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಪ್ರತಿಯೊಂದು ಚತುರ್ಭುಜಕ್ಕೂ ಎರಡು ಕರ್ಣಗಳಿರುತ್ತವೆ. ಅದು ಚೌಕವಾಗಿರಲಿ, ಆಯತವಾಗಿರಲಿ, ಅಥವಾ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಚತುರ್ಭುಜವಾಗಿರಲಿ, ಅದಕ್ಕೆ ಯಾವಾಗಲೂ ಎರಡೇ ಕರ್ಣಗಳು ಇರುತ್ತವೆ. ಈ ಅಂಶವನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳಿ.",
+  "script_display": "ಹಾಗಾದರೆ, ಒಂದು ಚತುರ್ಭುಜಕ್ಕೆ ಎಷ್ಟು ಕರ್ಣಗಳನ್ನು ಎಳೆಯಬಹುದು? ಸ್ವಲ್ಪ ಯೋಚಿಸಿ. ಒಂದು ಚತುರ್ಭುಜವು ಎರಡು ಜೊತೆ ಅಭಿಮುಖ ಮೂಲೆಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ ($A$ & $C$, ಮತ್ತು $B$ & $D$). ಪ್ರತಿ ಜೊತೆ ಅಭಿಮುಖ ಮೂಲೆಗಳನ್ನು ಸೇರಿಸಿದಾಗ ನಮಗೆ ಒಂದು ಕರ್ಣ ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಪ್ರತಿಯೊಂದು ಚತುರ್ಭುಜಕ್ಕೂ ಎರಡು ಕರ್ಣಗಳಿರುತ್ತವೆ. ಅದು ಚೌಕವಾಗಿರಲಿ, ಆಯತವಾಗಿರಲಿ, ಅಥವಾ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಚತುರ್ಭುಜವಾಗಿರಲಿ, ಅದಕ್ಕೆ ಯಾವಾಗಲೂ ಎರಡೇ ಕರ್ಣಗಳು ಇರುತ್ತವೆ. ಈ ಅಂಶವನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳಿ.",
+  "display_bullets": [
+    "ಒಂದು ಚತುರ್ಭುಜವು ಎರಡು ಜೊತೆ ಅಭಿಮುಖ ಮೂಲೆಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+    "ಪ್ರತಿ ಜೊತೆ ಅಭಿಮುಖ ಮೂಲೆಗಳು ಒಂದು ಕರ್ಣವನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+    "ಆದ್ದರಿಂದ, ಯಾವುದೇ ಚತುರ್ಭುಜಕ್ಕೆ ನಿಖರವಾಗಿ ಎರಡು ಕರ್ಣಗಳಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "template_3",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The quadrilateral ABCD with both diagonals AC and BD clearly shown. A large number '2' is placed in the center of the quadrilateral with arrows pointing to both diagonals to emphasize the count.",
+    "labels": "Diagonal 1 (AC), Diagonal 2 (BD)",
+    "mathematical_significance": "Reinforces the property that a quadrilateral has exactly two diagonals.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "VIS-CON-1_concept_2_chunk_014"
+}

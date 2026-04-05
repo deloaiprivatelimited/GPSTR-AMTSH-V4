@@ -1,0 +1,32 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ನಿತ್ಯಸಮೀಕರಣದ ಸಾಧನೆ: ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+  "script": "ಈ ನಿತ್ಯಸಮೀಕರಣವು ಎಲ್ಲಿಂದ ಬಂತು ಎಂದು ನೀವು ಯೋಚಿಸುತ್ತಿರಬಹುದು. ಇದು ನೇರವಾಗಿ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಬಂದಿದೆ. ಬಲಬದಿಯಲ್ಲಿರುವ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ನಮ್ಮಲ್ಲಿ ಎಬಿಸಿ ಎಂಬ ಲಂಬಕೋನ ತ್ರಿಕೋನವಿದೆ, ಇದರಲ್ಲಿ ಕೋನ ಬಿ ತೊಂಬತ್ತು ಡಿಗ್ರಿ. ಕೋನ ಎ ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಬಿ ಸಿ ಅಭಿಮುಖ ಬಾಹು, ಎ ಬಿ ಪಾರ್ಶ್ವ ಬಾಹು, ಮತ್ತು ಎ ಸಿ ವಿಕರ್ಣವಾಗಿದೆ. ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, ಪಾರ್ಶ್ವ ಬಾಹುವಿನ ವರ್ಗ ಮತ್ತು ಅಭಿಮುಖ ಬಾಹುವಿನ ವರ್ಗದ ಮೊತ್ತವು ವಿಕರ್ಣದ ವರ್ಗಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ಎ ಬಿ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಬಿ ಸಿ ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ ಎ ಸಿ ಸ್ಕ್ವೇರ್ಡ್. ಈ ಸರಳ ಸಮೀಕರಣವೇ ನಮ್ಮ ನಿತ್ಯಸಮೀಕರಣದ ಸಾಧನೆಗೆ ಆರಂಭಿಕ ಹಂತವಾಗಿದೆ.",
+  "script_display": "ಈ ನಿತ್ಯಸಮೀಕರಣವು ಎಲ್ಲಿಂದ ಬಂತು ಎಂದು ನೀವು ಯೋಚಿಸುತ್ತಿರಬಹುದು. ಇದು ನೇರವಾಗಿ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಬಂದಿದೆ. ಬಲಬದಿಯಲ್ಲಿರುವ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ನಮ್ಮಲ್ಲಿ ABC ಎಂಬ ಲಂಬಕೋನ ತ್ರಿಕೋನವಿದೆ, ಇದರಲ್ಲಿ $\\angle B = 90^\\circ$. ಕೋನ A ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ, BC ಅಭಿಮುಖ ಬಾಹು, AB ಪಾರ್ಶ್ವ ಬಾಹು, ಮತ್ತು AC ವಿಕರ್ಣವಾಗಿದೆ. ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, ಪಾರ್ಶ್ವ ಬಾಹುವಿನ ವರ್ಗ ಮತ್ತು ಅಭಿಮುಖ ಬಾಹುವಿನ ವರ್ಗದ ಮೊತ್ತವು ವಿಕರ್ಣದ ವರ್ಗಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಅಂದರೆ, $AB^2 + BC^2 = AC^2$. ಈ ಸರಳ ಸಮೀಕರಣವೇ ನಮ್ಮ ನಿತ್ಯಸಮೀಕರಣದ ಸಾಧನೆಗೆ ಆರಂಭಿಕ ಹಂತವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right-angled triangle ABC, right-angled at B. Angle A is marked. Side BC is labeled 'ಅಭಿಮುಖ ಬಾಹು (Opposite)', side AB is labeled 'ಪಾರ್ಶ್ವ ಬಾಹು (Adjacent)', and side AC is labeled 'ವಿಕರ್ಣ (Hypotenuse)'.",
+    "labels": "A, B, C, Opposite, Adjacent, Hypotenuse",
+    "mathematical_significance": "Illustrates the sides of a right-angled triangle with respect to an angle A, which is the basis for defining trigonometric ratios and deriving the identity from the Pythagorean theorem.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_009"
+}

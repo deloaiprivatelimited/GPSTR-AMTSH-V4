@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಮುದ್ರ ಮೀನುಗಾರಿಕೆ: ವಿಧಾನಗಳು",
+  "script": "ಸಮುದ್ರದಲ್ಲಿ ಮೀನು ಹಿಡಿಯಲು ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ದೋಣಿಗಳು ಮತ್ತು ವಿವಿಧ ರೀತಿಯ ಬಲೆಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಆದರೆ, ತಂತ್ರಜ್ಞಾನದ ಮುಂದುವರಿಕೆಯಿಂದಾಗಿ ಈಗ ಮೀನುಗಾರಿಕೆ ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗಿದೆ. ಮೀನುಗಳ ದೊಡ್ಡ ಹಿಂಡುಗಳು ಎಲ್ಲಿದೆ ಎಂದು ಪತ್ತೆಹಚ್ಚಲು ಸೋನಾರ್ ಮತ್ತು ಉಪಗ್ರಹಗಳಂತಹ ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾನವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಈ ತಂತ್ರಜ್ಞಾನಗಳು ಮೀನುಗಾರರಿಗೆ ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಹೆಚ್ಚು ಮೀನುಗಳನ್ನು ಹಿಡಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ, ಇದರಿಂದಾಗಿ ಇಳುವರಿ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+  "script_display": "ಸಮುದ್ರದಲ್ಲಿ ಮೀನು ಹಿಡಿಯಲು ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ದೋಣಿಗಳು ಮತ್ತು ವಿವಿಧ ರೀತಿಯ ಬಲೆಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಆದರೆ, ತಂತ್ರಜ್ಞಾನದ ಮುಂದುವರಿಕೆಯಿಂದಾಗಿ ಈಗ ಮೀನುಗಾರಿಕೆ ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗಿದೆ. ಮೀನುಗಳ ದೊಡ್ಡ ಹಿಂಡುಗಳು ಎಲ್ಲಿದೆ ಎಂದು ಪತ್ತೆಹಚ್ಚಲು ಸೋನಾರ್ (Sonar) ಮತ್ತು ಉಪಗ್ರಹಗಳಂತಹ (Satellites) ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾನವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಈ ತಂತ್ರಜ್ಞಾನಗಳು ಮೀನುಗಾರರಿಗೆ ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಹೆಚ್ಚು ಮೀನುಗಳನ್ನು ಹಿಡಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ, ಇದರಿಂದಾಗಿ ಇಳುವರಿ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನ: ದೋಣಿಗಳು ಮತ್ತು ಬಲೆಗಳ ಬಳಕೆ.",
+    "ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾನ: ಮೀನಿನ ಹಿಂಡುಗಳನ್ನು ಪತ್ತೆಹಚ್ಚಲು ಸೋನಾರ್ ಮತ್ತು ಉಪಗ್ರಹಗಳ ಬಳಕೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A fishing trawler in the sea using sonar technology. A satellite is shown above, relaying information. The sonar waves are shown detecting a school of fish underwater.",
+    "labels": "ಉಪಗ್ರಹ (Satellite), ಸೋನಾರ್ (Sonar), ಮೀನಿನ ಹಿಂಡು (School of fish), ಮೀನುಗಾರಿಕಾ ದೋಣಿ (Fishing Trawler)",
+    "scientific_significance": "Illustrates the use of modern technology in marine fisheries to increase catch efficiency.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_10_chunk_008"
+}

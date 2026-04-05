@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಬೀಜೋಕ್ತಿ 2 ($13 – y^2$)",
+  "script": "ಮುಂದಿನ ಬೀಜೋಕ್ತಿ ಹದಿಮೂರು ಮೈನಸ್ y ಸ್ಕ್ವೇರ್ಡ್. ಇದರಲ್ಲಿ ಸ್ಥಿರವಲ್ಲದ ಪದ ಮೈನಸ್ y ಸ್ಕ್ವೇರ್ಡ್ ಆಗಿದೆ. ನೆನಪಿಡಿ, ಪದದ ಹಿಂದಿನ ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಬೇಕು. ಈಗ ಸಹಗುಣಕವನ್ನು ನೋಡೋಣ. ಮೈನಸ್ y ಸ್ಕ್ವೇರ್ಡ್ ಅನ್ನು ಮೈನಸ್ ಒಂದು ಗುಣಿಸು y ಸ್ಕ್ವೇರ್ಡ್ ಎಂದು ಬರೆಯಬಹುದು. ಹಾಗಾಗಿ, ಸಂಖ್ಯಾ ಸಹಗುಣಕ ಮೈನಸ್ ಒಂದು.",
+  "script_display": "ಮುಂದಿನ ಬೀಜೋಕ್ತಿ $13 – y^2$. ಇದರಲ್ಲಿ ಸ್ಥಿರವಲ್ಲದ ಪದ $-y^2$ ಆಗಿದೆ. ನೆನಪಿಡಿ, ಪದದ ಹಿಂದಿನ ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಬೇಕು. ಈಗ ಸಹಗುಣಕವನ್ನು ನೋಡೋಣ. $-y^2$ ಅನ್ನು $-1 \\times y^2$ ಎಂದು ಬರೆಯಬಹುದು. ಹಾಗಾಗಿ, ಸಂಖ್ಯಾ ಸಹಗುಣಕ -1.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "ALG-EXP-1_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸ್ಥಿರವಲ್ಲದ ಪದ: $-y^2$",
+      "justification": "ಪದದ ಹಿಂದಿನ ಋಣ ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಬೇಕು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಸಂಖ್ಯಾ ಸಹಗುಣಕ: -1",
+      "justification": "$-y^2 = -1 \\times y^2$."
+    }
+  ],
+  "chunk_id": "ALG-EXP-1_concept_2_chunk_020"
+}

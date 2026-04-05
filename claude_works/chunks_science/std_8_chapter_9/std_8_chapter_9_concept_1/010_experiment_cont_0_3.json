@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 2 ಮತ್ತು ತೀರ್ಮಾನ",
+  "script": "ಈಗ, ಇದೇ ಚಟುವಟಿಕೆಯನ್ನು ಪುನರಾವರ್ತಿಸೋಣ, ಆದರೆ ಈ ಬಾರಿ ಪುಸ್ತಕವನ್ನು ವಿರುದ್ಧ ದಿಕ್ಕಿನಿಂದ ತಳ್ಳಿರಿ. ಉದಾಹರಣೆಗೆ, ಮೊದಲು ಬಲದಿಂದ ಎಡಕ್ಕೆ ತಳ್ಳಿದ್ದರೆ, ಈಗ ಎಡದಿಂದ ಬಲಕ್ಕೆ ತಳ್ಳಿರಿ. ಆಗಲೂ ಪುಸ್ತಕವು ಮತ್ತೆ ಚಲಿಸಿ ನಿಲ್ಲುತ್ತದೆ. ಇದರರ್ಥ, ನಾವು ಯಾವುದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಬಲ ಪ್ರಯೋಗಿಸಿದರೂ, ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುವ ಬಲವು ಯಾವಾಗಲೂ ಚಲನೆಯ ದಿಕ್ಕಿಗೆ ವಿರುದ್ಧವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಈ ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುವ ಬಲವನ್ನೇ ನಾವು ಘರ್ಷಣಾ ಬಲ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಈಗ, ಇದೇ ಚಟುವಟಿಕೆಯನ್ನು ಪುನರಾವರ್ತಿಸೋಣ, ಆದರೆ ಈ ಬಾರಿ ಪುಸ್ತಕವನ್ನು ವಿರುದ್ಧ ದಿಕ್ಕಿನಿಂದ ತಳ್ಳಿರಿ. ಉದಾಹರಣೆಗೆ, ಮೊದಲು ಬಲದಿಂದ ಎಡಕ್ಕೆ ತಳ್ಳಿದ್ದರೆ, ಈಗ ಎಡದಿಂದ ಬಲಕ್ಕೆ ತಳ್ಳಿರಿ. ಆಗಲೂ ಪುಸ್ತಕವು ಮತ್ತೆ ಚಲಿಸಿ ನಿಲ್ಲುತ್ತದೆ. ಇದರರ್ಥ, ನಾವು ಯಾವುದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಬಲ ಪ್ರಯೋಗಿಸಿದರೂ, ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುವ ಬಲವು ಯಾವಾಗಲೂ ಚಲನೆಯ ದಿಕ್ಕಿಗೆ ವಿರುದ್ಧವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಈ ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುವ ಬಲವನ್ನೇ ನಾವು ಘರ್ಷಣಾ ಬಲ (Force of Friction) ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಪುಸ್ತಕವನ್ನು ವಿರುದ್ಧ ದಿಕ್ಕಿನಿಂದ ತಳ್ಳಿರಿ.",
+    "ಪುಸ್ತಕವು ಮತ್ತೆ ಚಲಿಸಿ ನಿಲ್ಲುತ್ತದೆ.",
+    "ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುವ ಈ ಬಲವೇ ಘರ್ಷಣಾ ಬಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Two diagrams side-by-side. Left diagram: Hand pushes book to the right, friction arrow points left. Right diagram: Hand pushes book to the left, friction arrow points right. This clearly shows friction opposes motion.",
+    "labels": "ಪ್ರಯೋಗಿಸಿದ ಬಲ, ಘರ್ಷಣಾ ಬಲ",
+    "scientific_significance": "Demonstrates that the direction of the frictional force is always opposite to the direction of the applied force or motion.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_8_chapter_9_concept_1_chunk_010"
+}

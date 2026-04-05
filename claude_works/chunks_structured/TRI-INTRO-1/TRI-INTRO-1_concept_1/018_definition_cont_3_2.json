@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಬಂಧ: ಸೈನ್ ಮತ್ತು ಕೋಟಿ ಛೇದಕ",
+  "script": "ಕೋಟಿ ಛೇದಕವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಒಂದು ಸುಲಭವಾದ ಮಾರ್ಗವಿದೆ. ನಾವು ಕಲಿತಂತೆ, ಸೈನ್ A ಸಮನಾಗಿರುತ್ತದೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ. ಮತ್ತು, csc A ಸಮನಾಗಿರುತ್ತದೆ ವಿಕರ್ಣ ಭಾಗಿಸು ಅಭಿಮುಖ ಬಾಹು. ಇವೆರಡನ್ನೂ ಹೋಲಿಸಿದಾಗ, csc A ಎಂಬುದು sin A ಯ ವ್ಯುತ್ಕ್ರಮವಾಗಿದೆ ಎಂದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಾವು csc A ಸಮನಾಗಿರುತ್ತದೆ ಒಂದು ಭಾಗಿಸು sin A ಎಂದು ಬರೆಯಬಹುದು. ಈ ಪ್ರಮುಖ ಸಂಬಂಧವು ಅನೇಕ ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಕೋಟಿ ಛೇದಕವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಒಂದು ಸುಲಭವಾದ ಮಾರ್ಗವಿದೆ. ನಾವು ಕಲಿತಂತೆ, $\\sin A = \\frac{\\text{ಅಭಿಮುಖ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}}$. ಮತ್ತು, $\\csc A = \\frac{\\text{ವಿಕರ್ಣ}}{\\text{ಅಭಿಮುಖ ಬಾಹು}}$. ಇವೆರಡನ್ನೂ ಹೋಲಿಸಿದಾಗ, $\\csc A$ ಎಂಬುದು $\\sin A$ ಯ ವ್ಯುತ್ಕ್ರಮವಾಗಿದೆ ಎಂದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಾವು $\\csc A = \\frac{1}{\\sin A}$ ಎಂದು ಬರೆಯಬಹುದು. ಈ ಪ್ರಮುಖ ಸಂಬಂಧವು ಅನೇಕ ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ನಾವು ಕಲಿತಂತೆ, $\\sin A = \\frac{\\text{ಅಭಿಮುಖ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}}$",
+    "ಮತ್ತು, $\\csc A = \\frac{\\text{ವಿಕರ್ಣ}}{\\text{ಅಭಿಮುಖ ಬಾಹು}}$",
+    "ಆದ್ದರಿಂದ, $\\csc A$ ಎಂಬುದು $\\sin A$ ಯ ವ್ಯುತ್ಕ್ರಮವಾಗಿದೆ.",
+    "$\\csc A = \\frac{1}{\\sin A}$"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_and_bullets",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\csc A = \\frac{1}{\\sin A}",
+    "placeholder_note": "Cosecant is the reciprocal of Sine"
+  },
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_018"
+}

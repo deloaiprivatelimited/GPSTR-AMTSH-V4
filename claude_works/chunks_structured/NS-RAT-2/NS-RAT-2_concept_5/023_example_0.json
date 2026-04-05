@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ಸತ್ಪಾಲ್ P ಸ್ಥಳದಿಂದ ಪೂರ್ವಕ್ಕೆ ಮೂರನೇ ಎರಡು ಭಾಗ ಕಿಲೋಮೀಟರ್ ಚಲಿಸಿ, ನಂತರ ಅಲ್ಲಿಂದ ಪಶ್ಚಿಮಕ್ಕೆ ಒಂದು ಮತ್ತು ಏಳನೇ ಐದು ಭಾಗ ಕಿಲೋಮೀಟರ್ ಚಲಿಸಿದನು. ಈಗ ಅವನು P ಇಂದ ಎಲ್ಲಿರುವನು? ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಎರಡು ಚಲನೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ಒಂದು ಪೂರ್ವದ ಕಡೆಗೆ, ಇನ್ನೊಂದು ಪಶ್ಚಿಮದ ಕಡೆಗೆ. ನಾವು ಸತ್ಪಾಲ್‌ನ ಅಂತಿಮ ಸ್ಥಾನವನ್ನು ಅವನ ಆರಂಭಿಕ ಸ್ಥಾನ P ಗೆ ಹೋಲಿಸಿದರೆ ಎಲ್ಲಿರುತ್ತದೆ ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ಸತ್ಪಾಲ್ P ಸ್ಥಳದಿಂದ ಪೂರ್ವಕ್ಕೆ $\\frac{2}{3}$ km ಚಲಿಸಿ, ನಂತರ ಅಲ್ಲಿಂದ ಪಶ್ಚಿಮಕ್ಕೆ $1\\frac{5}{7}$ km ಚಲಿಸಿದನು. ಈಗ ಅವನು P ಇಂದ ಎಲ್ಲಿರುವನು? ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಎರಡು ಚಲನೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ಒಂದು ಪೂರ್ವದ ಕಡೆಗೆ, ಇನ್ನೊಂದು ಪಶ್ಚಿಮದ ಕಡೆಗೆ. ನಾವು ಸತ್ಪಾಲ್‌ನ ಅಂತಿಮ ಸ್ಥಾನವನ್ನು ಅವನ ಆರಂಭಿಕ ಸ್ಥಾನ P ಗೆ ಹೋಲಿಸಿದರೆ ಎಲ್ಲಿರುತ್ತದೆ ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಸತ್ಪಾಲ್ P ಸ್ಥಳದಿಂದ ಪೂರ್ವಕ್ಕೆ $\\frac{2}{3}$ km ಮತ್ತು ನಂತರ ಪಶ್ಚಿಮಕ್ಕೆ $1\\frac{5}{7}$ km ಚಲಿಸುತ್ತಾನೆ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: P ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಅವನ ಅಂತಿಮ ಸ್ಥಾನ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line showing point P at the origin (0). An arrow points to the right (East, positive direction) to the point +2/3. From +2/3, a longer arrow points to the left (West, negative direction) for a distance of 1 5/7, ending at a point to the left of the origin P. This final point is labeled '-1 1/21'.",
+    "labels": "P (0), East (+), West (-), 2/3 km, 1 5/7 km, Final Position (-1 1/21 km)",
+    "mathematical_significance": "This diagram visually represents displacement on a number line. Movement in the positive direction (East) is added, and movement in the negative direction (West) is subtracted (or a negative number is added), showing the final position relative to the starting point.",
+    "placeholder_note": "Image to be generated"
+  },
+  "source_example_id": "NS-RAT-2_example_5",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-RAT-2_concept_5_chunk_023"
+}

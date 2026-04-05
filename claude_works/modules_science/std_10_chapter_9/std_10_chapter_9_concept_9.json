@@ -1,0 +1,85 @@
+{
+  "module_id": "std_10_chapter_9_concept_9",
+  "module_title": "ಮಸೂರದ ಸಾಮರ್ಥ್ಯ (Power of a Lens)",
+  "class": "10",
+  "chapter": "9",
+  "chapter_title": "ಬೆಳಕು, ಪ್ರತಿಫಲನ ಮತ್ತು ವಕ್ರೀಭವನ (Light, Reflection and Refraction)",
+  "domain": "ಭೌತಶಾಸ್ತ್ರ (Physics)",
+  "prerequisites": [
+    "std_10_chapter_9_concept_1",
+    "std_10_chapter_9_concept_2",
+    "std_10_chapter_9_concept_3",
+    "std_10_chapter_9_concept_4",
+    "std_10_chapter_9_concept_5",
+    "std_10_chapter_9_concept_6",
+    "std_10_chapter_9_concept_7",
+    "std_10_chapter_9_concept_8"
+  ],
+  "theory": {
+    "concept_summary": "ಮಸೂರದ ಸಾಮರ್ಥ್ಯವು ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನು ಕೇಂದ್ರೀಕರಿಸುವ ಅಥವಾ ವಿಕೇಂದ್ರೀಕರಿಸುವ ಅದರ ಮಟ್ಟದ ಅಳತೆಯಾಗಿದೆ. ಇದು ಮಸೂರದ ಸಂಗಮ ದೂರದ ವ್ಯುತ್ಕ್ರಮಕ್ಕೆ ಸಮನಾಗಿದ್ದು, ಇದರ SI ಏಕಮಾನ ಡಯಾಪ್ಟರ್ (D) ಆಗಿದೆ. ಪೀನ ಮಸೂರಗಳು ಧನಾತ್ಮಕ ಸಾಮರ್ಥ್ಯವನ್ನು ಮತ್ತು ನಿಮ್ಮ ಮಸೂರಗಳು ಋಣಾತ್ಮಕ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
+    "definitions": [
+      {
+        "term": "ಮಸೂರದ ಸಾಮರ್ಥ್ಯ (Power of a Lens, P)",
+        "definition": "ಮೀಟರ್‌ಗಳಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿದ ಸಂಗಮ ದೂರದ (f) ವ್ಯುತ್ಕ್ರಮ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Power of a Lens",
+        "latex": "P = \\frac{1}{f}",
+        "condition": "ಸಂಗಮ ದೂರ (f) ಅನ್ನು ಮೀಟರ್‌ಗಳಲ್ಲಿ (m) ಅಳೆಯಬೇಕು.",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಮಸೂರದ ಸಾಮರ್ಥ್ಯ ಅಥವಾ ಸಂಗಮ ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯಲು.",
+        "derivation": []
+      }
+    ],
+    "laws": [],
+    "chemical_equations": [],
+    "properties": [
+      "**ಏಕಮಾನ:** ಮಸೂರದ ಸಾಮರ್ಥ್ಯದ SI ಏಕಮಾನ **ಡಯಾಪ್ಟರ್ (dioptre, D)**.",
+      "$1 \\text{ D} = 1 \\text{ m}^{-1}$.",
+      "**ಚಿಹ್ನೆಗಳ ಸಂಪ್ರದಾಯ:**",
+      "- ಪೀನ ಮಸೂರದ ಸಾಮರ್ಥ್ಯ: **ಧನಾತ್ಮಕ (+ve)** (ಏಕೆಂದರೆ f ಧನಾತ್ಮಕ).",
+      "- ನಿಮ್ಮ ಮಸೂರದ ಸಾಮರ್ಥ್ಯ: **ಋಣಾತ್ಮಕ (-ve)** (ಏಕೆಂದರೆ f ಋಣಾತ್ಮಕ).",
+      "**ಮಸೂರಗಳ ಸಂಯೋಜನೆ:** ಹಲವಾರು ಮಸೂರಗಳನ್ನು ಸಂಪರ್ಕದಲ್ಲಿರಿಸಿದಾಗ, ಸಂಯೋಜನೆಯ ಒಟ್ಟು ಸಾಮರ್ಥ್ಯವು (P) ಅವುಗಳ ಪ್ರತ್ಯೇಕ ಸಾಮರ್ಥ್ಯಗಳ ಬೀಜಗಣಿತೀಯ ಮೊತ್ತಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. $P = P_1 + P_2 + P_3 + \\dots$"
+    ],
+    "classifications": [],
+    "experiments": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "std_10_chapter_9_example_power_1",
+      "difficulty": "basic",
+      "problem": "ಒಬ್ಬ ನೇತ್ರತಜ್ಞರು +2.0 D ಸಾಮರ್ಥ್ಯದ ಮಸೂರವನ್ನು ಸೂಚಿಸಿದ್ದಾರೆ. ಅದರ ಸಂಗಮ ದೂರವೆಷ್ಟು ಮತ್ತು ಅದು ಯಾವ ವಿಧದ ಮಸೂರ?",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶವನ್ನು ಬರೆಯುವುದು.",
+          "justification": "ಸಾಮರ್ಥ್ಯವನ್ನು (P) ನೀಡಲಾಗಿದೆ.",
+          "calculation": "P = +2.0 D"
+        },
+        {
+          "step": 2,
+          "action": "ಸಂಗಮ ದೂರ (f) ಕಂಡುಹಿಡಿಯುವುದು.",
+          "justification": "f = 1/P ಸೂತ್ರವನ್ನು ಬಳಸಿ.",
+          "calculation": "f = 1 / (+2.0 D) = +0.50 m"
+        }
+      ],
+      "result": "ಮಸೂರದ ಸಂಗಮ ದೂರ +0.50 m. ಸಾಮರ್ಥ್ಯವು ಧನಾತ್ಮಕವಾಗಿರುವುದರಿಂದ, ಇದು ಪೀನ ಮಸೂರವಾಗಿದೆ.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಸಾಮರ್ಥ್ಯದ ಏಕಮಾನ, ಪೀನ/ನಿಮ್ಮ ಮಸೂರದ ಸಾಮರ್ಥ್ಯದ ಚಿಹ್ನೆ.",
+    "two_mark_note": "ಮಸೂರದ ಸಾಮರ್ಥ್ಯವನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಿ. 1 ಡಯಾಪ್ಟರ್ ಎಂದರೇನು?",
+    "five_mark_note": "ಮಸೂರಗಳ ಸಂಯೋಜನೆಯ ಸಾಮರ್ಥ್ಯದ ಮೇಲೆ ಲೆಕ್ಕ.",
+    "common_mistakes": [
+      "ಸಂಗಮ ದೂರವನ್ನು ಸೆಂಟಿಮೀಟರ್‌ನಲ್ಲಿ ಬಳಸಿ ಸಾಮರ್ಥ್ಯವನ್ನು ಲೆಕ್ಕ ಹಾಕುವುದು (ಮೀಟರ್‌ಗೆ ಪರಿವರ್ತಿಸಬೇಕು)."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

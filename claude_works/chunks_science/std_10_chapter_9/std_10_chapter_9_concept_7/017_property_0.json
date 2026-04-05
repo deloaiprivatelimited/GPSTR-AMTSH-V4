@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರೇಖಾಚಿತ್ರ ರಚನೆ: ನಿಯಮ 1",
+  "script": "ಮೊದಲನೆಯ ನಿಯಮವನ್ನು ನೋಡೋಣ. ಪ್ರಧಾನಾಕ್ಷಕ್ಕೆ ಸಮಾಂತರವಾಗಿ ಬರುವ ಯಾವುದೇ ಬೆಳಕಿನ ಕಿರಣವು, ಪೀನ ಮಸೂರದ ಮೂಲಕ ವಕ್ರೀಭವನಗೊಂಡ ನಂತರ, ಅದರ ಎರಡನೇ ಪ್ರಧಾನ ಸಂಗಮವಾದ ಎಫ್ ಟೂ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಕೇಂದ್ರೀಕರಿಸುವ ಪರಿಣಾಮ ಎನ್ನುತ್ತೇವೆ. ಅದೇ ರೀತಿ, ನಿಮ್ಮ ಮಸೂರದ ವಿಷಯದಲ್ಲಿ, ಪ್ರಧಾನಾಕ್ಷಕ್ಕೆ ಸಮಾಂತರವಾಗಿ ಬರುವ ಕಿರಣವು ವಕ್ರೀಭವನದ ನಂತರ, ಮೊದಲ ಪ್ರಧಾನ ಸಂಗಮವಾದ ಎಫ್ ಒನ್ ನಿಂದ ಹೊರಬಂದಂತೆ ಕಾಣುತ್ತದೆ. ಅಂದರೆ, ಅದು ವಿಕೇಂದ್ರೀಕರಿಸಲ್ಪಡುತ್ತದೆ. ಈ ನಿಯಮವು ಮಸೂರಗಳ ಮೂಲಭೂತ ಗುಣಲಕ್ಷಣವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಮೊದಲನೆಯ ನಿಯಮವನ್ನು ನೋಡೋಣ. ಪ್ರಧಾನಾಕ್ಷಕ್ಕೆ ಸಮಾಂತರವಾಗಿ ಬರುವ ಯಾವುದೇ ಬೆಳಕಿನ ಕಿರಣವು, ಪೀನ ಮಸೂರದ ಮೂಲಕ ವಕ್ರೀಭವನಗೊಂಡ ನಂತರ, ಅದರ ಎರಡನೇ ಪ್ರಧಾನ ಸಂಗಮವಾದ F₂ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಕೇಂದ್ರೀಕರಿಸುವ ಪರಿಣಾಮ ಎನ್ನುತ್ತೇವೆ. ಅದೇ ರೀತಿ, ನಿಮ್ಮ ಮಸೂರದ ವಿಷಯದಲ್ಲಿ, ಪ್ರಧಾನಾಕ್ಷಕ್ಕೆ ಸಮಾಂತರವಾಗಿ ಬರುವ ಕಿರಣವು ವಕ್ರೀಭವನದ ನಂತರ, ಮೊದಲ ಪ್ರಧಾನ ಸಂಗಮವಾದ F₁ ನಿಂದ ಹೊರಬಂದಂತೆ ಕಾಣುತ್ತದೆ. ಅಂದರೆ, ಅದು ವಿಕೇಂದ್ರೀಕರಿಸಲ್ಪಡುತ್ತದೆ. ಈ ನಿಯಮವು ಮಸೂರಗಳ ಮೂಲಭೂತ ಗುಣಲಕ್ಷಣವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪ್ರಧಾನಾಕ್ಷಕ್ಕೆ ಸಮಾಂತರವಾಗಿ ಬರುವ ಕಿರಣ.",
+    "ಪೀನ ಮಸೂರ: ವಕ್ರೀಭವನದ ನಂತರ ಪ್ರಧಾನ ಸಂಗಮದ (F₂) ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ.",
+    "ನಿಮ್ಮ ಮಸೂರ: ವಕ್ರೀಭವನದ ನಂತರ ಪ್ರಧಾನ ಸಂಗಮದಿಂದ (F₁) ಹೊರಬಂದಂತೆ ಭಾಸವಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side comparison. Left: A convex lens with a ray parallel to the principal axis. The ray refracts and passes through the focus F₂ on the other side. Right: A concave lens with a ray parallel to the principal axis. The ray refracts and diverges, appearing to come from the focus F₁ on the same side. Both F₁ and F₂ should be labelled for both lenses.",
+    "labels": "ಪ್ರಧಾನಾಕ್ಷ, ಪೀನ ಮಸೂರ, ನಿಮ್ಮ ಮಸೂರ, ಪ್ರಧಾನ ಸಂಗಮ (F₁, F₂), ಸಮಾಂತರ ಕಿರಣ, ವಕ್ರೀಭವನಗೊಂಡ ಕಿರಣ",
+    "scientific_significance": "Illustrates the fundamental behavior of parallel rays after refraction through convex (converging) and concave (diverging) lenses.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_9_concept_7_chunk_017"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಆನುವಂಶೀಯತೆ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಇದನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಪೋಷಕರು ಅಂದರೆ ತಂದೆ ಮತ್ತು ತಾಯಿ ತಮ್ಮ ಗುಣಗಳನ್ನು ಮಕ್ಕಳಿಗೆ ವರ್ಗಾಯಿಸುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, ತಂದೆಗೆ ಗುಂಗುರು ಕೂದಲು ಮತ್ತು ತಾಯಿಗೆ ನೇರವಾದ ಕೂದಲು ಇದ್ದರೆ, ಮಗುವಿಗೆ ಇಬ್ಬರಲ್ಲಿ ಒಬ್ಬರ ಕೂದಲಿನ ವಿಧ ಬರಬಹುದು. ಇದೇ ರೀತಿ ಕಣ್ಣಿನ ಬಣ್ಣ, ಎತ್ತರ, ಮತ್ತು ಚರ್ಮದ ಬಣ್ಣದಂತಹ ಅನೇಕ ಗುಣಗಳು ಪೀಳಿಗೆಯಿಂದ ಪೀಳಿಗೆಗೆ ಸಾಗುತ್ತವೆ. ಈ ಎಲ್ಲಾ ಗುಣಗಳು ನಮ್ಮ ದೇಹದ ಕೋಶಗಳಲ್ಲಿರುವ ಡಿಎನ್‌ಎ ಎಂಬ ಅಣುವಿನ ಮೂಲಕ ವರ್ಗಾವಣೆಯಾಗುತ್ತವೆ. ಡಿಎನ್‌ಎ ಒಂದು ಬ್ಲೂಪ್ರಿಂಟ್ ಇದ್ದ ಹಾಗೆ.",
+  "script_display": "ಇದನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಪೋಷಕರು (ತಂದೆ ಮತ್ತು ತಾಯಿ) ತಮ್ಮ ಗುಣಗಳನ್ನು ಮಕ್ಕಳಿಗೆ ವರ್ಗಾಯಿಸುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, ತಂದೆಗೆ ಗುಂಗುರು ಕೂದಲು ಮತ್ತು ತಾಯಿಗೆ ನೇರವಾದ ಕೂದಲು ಇದ್ದರೆ, ಮಗುವಿಗೆ ಇಬ್ಬರಲ್ಲಿ ಒಬ್ಬರ ಕೂದಲಿನ ವಿಧ ಬರಬಹುದು. ಇದೇ ರೀತಿ ಕಣ್ಣಿನ ಬಣ್ಣ, ಎತ್ತರ, ಮತ್ತು ಚರ್ಮದ ಬಣ್ಣದಂತಹ ಅನೇಕ ಗುಣಗಳು ಪೀಳಿಗೆಯಿಂದ ಪೀಳಿಗೆಗೆ ಸಾಗುತ್ತವೆ. ಈ ಎಲ್ಲಾ ಗುಣಗಳು ನಮ್ಮ ದೇಹದ ಕೋಶಗಳಲ್ಲಿರುವ ಡಿಎನ್‌ಎ (DNA) ಎಂಬ ಅಣುವಿನ ಮೂಲಕ ವರ್ಗಾವಣೆಯಾಗುತ್ತವೆ. DNA ಒಂದು ಬ್ಲೂಪ್ರಿಂಟ್ ಇದ್ದ ಹಾಗೆ.",
+  "display_bullets": [
+    "ಪೋಷಕರು ತಮ್ಮ ಗುಣಗಳನ್ನು ಮಕ್ಕಳಿಗೆ ವರ್ಗಾಯಿಸುತ್ತಾರೆ.",
+    "ಉದಾಹರಣೆಗಳು: ಕಣ್ಣಿನ ಬಣ್ಣ, ಕೂದಲಿನ ವಿಧ, ಎತ್ತರ.",
+    "ಈ ಗುಣಗಳು ಡಿಎನ್‌ಎ (DNA) ಮೂಲಕ ವರ್ಗಾವಣೆಯಾಗುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a father, a mother, and a child. Arrows point from the parents to the child, indicating the transfer of traits. Text labels point out shared traits like 'curly hair' from the father being passed to the child.",
+    "labels": "Father (curly hair), Mother (straight hair), Child (curly hair)",
+    "scientific_significance": "This visual illustrates the core concept of heredity – the transmission of genetic traits from parents to offspring. It provides a simple, relatable example to make the abstract definition concrete.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_8_concept_1_chunk_009"
+}

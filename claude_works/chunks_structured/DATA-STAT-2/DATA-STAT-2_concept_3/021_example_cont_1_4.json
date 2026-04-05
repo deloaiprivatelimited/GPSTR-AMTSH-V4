@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ದತ್ತಾಂಶಗಳ ಅಂಕಗಳ ಬಹುಲಕವು 52 ಆಗಿದೆ. ಇದರರ್ಥ, ಗರಿಷ್ಠ ಸಂಖ್ಯೆಯ ವಿದ್ಯಾರ್ಥಿಗಳು ಸುಮಾರು 52 ಅಂಕಗಳನ್ನು ಗಳಿಸಿದ್ದಾರೆ. ನಾನು ಈಗ ಪರದೆಯ ಮೇಲೆ ತೋರಿಸುವ ಎರಡು ಅಂಶಗಳನ್ನು ಗಮನಿಸಿ. ಮೊದಲನೆಯದು, ಅಂತಿಮ ಉತ್ತರ, ಬಹುಲಕ 52. ಎರಡನೆಯದು, ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪು, f zero ಮತ್ತು f two ಮೌಲ್ಯಗಳನ್ನು ಅದಲು ಬದಲು ಮಾಡುವುದು. f zero ಯಾವಾಗಲೂ ಬಹುಲಕವಿರುವ ವರ್ಗಾಂತರದ ಹಿಂದಿನ ಆವೃತ್ತಿ ಮತ್ತು f two ಮುಂದಿನ ಆವೃತ್ತಿ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ದತ್ತಾಂಶಗಳ ಅಂಕಗಳ ಬಹುಲಕವು 52 ಆಗಿದೆ. ಇದರರ್ಥ, ಗರಿಷ್ಠ ಸಂಖ್ಯೆಯ ವಿದ್ಯಾರ್ಥಿಗಳು ಸುಮಾರು 52 ಅಂಕಗಳನ್ನು ಗಳಿಸಿದ್ದಾರೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: ಬಹುಲಕ = 52",
+    "ಸಾಮಾನ್ಯ ತಪ್ಪು: $f_0$ ಮತ್ತು $f_2$ ಮೌಲ್ಯಗಳನ್ನು ಅದಲು ಬದಲು ಮಾಡುವುದು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "DATA-STAT-2_example_9",
+  "final_answer": "ಅಂಕಗಳ ಬಹುಲಕವು 52 ಆಗಿದೆ.",
+  "final_answer_display": "$\\text{ಬಹುಲಕ} = 52$",
+  "exam_tip": {
+    "question_pattern": "2-mark",
+    "skill_tested": "ವರ್ಗೀಕೃತ ದತ್ತಾಂಶಗಳ ಬಹುಲಕವನ್ನು ಸೂತ್ರ ಬಳಸಿ ಕಂಡುಹಿಡಿಯುವುದು.",
+    "distractor": "$f_0$ ಮತ್ತು $f_2$ ಮೌಲ್ಯಗಳನ್ನು ಅದಲು ಬದಲು ಮಾಡುವುದು.",
+    "why_distractor_works": "$f_0$ (ಹಿಂದಿನ) ಮತ್ತು $f_2$ (ಮುಂದಿನ) ಆವೃತ್ತಿಗಳ ನಡುವಿನ ಗೊಂದಲದಿಂದಾಗಿ ವಿದ್ಯಾರ್ಥಿಗಳು ತಪ್ಪು ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸಬಹುದು, ಇದು ತಪ್ಪಾದ ಉತ್ತರಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ."
+  },
+  "chunk_id": "DATA-STAT-2_concept_3_chunk_021"
+}

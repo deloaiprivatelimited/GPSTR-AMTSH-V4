@@ -1,0 +1,30 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಪನ್ನಗಳು (Products)",
+  "script": "ಈ ಪ್ರತಿವರ್ತನೆ ನಡೆದಾಗ, ಎರಡು ಉತ್ಪನ್ನಗಳು ಉಂಟಾಗುತ್ತವೆ. ಮೊದಲನೆಯದು ಸತುವಿನ ಆಕ್ಸೈಡ್, ಇದು ಒಂದು ಘನ. ಮುಂದೆ ಇದರಿಂದ ಲೋಹವನ್ನು ಸುಲಭವಾಗಿ ಅಪಕರ್ಷಿಸಬಹುದು. ಎರಡನೆಯದು ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್, ಇದು ಅನಿಲ ರೂಪದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಪ್ರತಿವರ್ತನೆ ನಡೆದಾಗ, ಎರಡು ಉತ್ಪನ್ನಗಳು (Products) ಉಂಟಾಗುತ್ತವೆ. ಮೊದಲನೆಯದು ಸತುವಿನ ಆಕ್ಸೈಡ್ (ZnO), ಇದು ಒಂದು ಘನ. ಮುಂದೆ ಇದರಿಂದ ಲೋಹವನ್ನು ಸುಲಭವಾಗಿ ಅಪಕರ್ಷಿಸಬಹುದು. ಎರಡನೆಯದು ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ (SO₂), ಇದು ಅನಿಲ ರೂಪದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸತುವಿನ ಆಕ್ಸೈಡ್ (ZnO): ಅಪಕರ್ಷಣೆಗೆ ಸುಲಭವಾದ ಘನ.",
+    "ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ (SO₂): ಅನಿಲ ರೂಪದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_3_concept_9_chunk_011"
+}

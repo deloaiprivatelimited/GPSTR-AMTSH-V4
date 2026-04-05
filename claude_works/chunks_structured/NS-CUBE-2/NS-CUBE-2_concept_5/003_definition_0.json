@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಿಕಲ್ಪನೆ: ಘನಮೂಲ ಎಂದರೇನು?",
+  "script": "ನಾವು ಈಗಾಗಲೇ ಒಂದು ಸಂಖ್ಯೆಯ ಘನವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ಕಲಿತಿದ್ದೇವೆ. ಉದಾಹರಣೆಗೆ, ಎರಡರ ಘನ ಎಂಟು. ಈಗ, ನಾವು ಅದರ ವಿಲೋಮ ಕ್ರಿಯೆಯ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಅಂದರೆ, ನಮಗೆ ಘನ ಸಂಖ್ಯೆ ಎಂಟು ತಿಳಿದಿದ್ದರೆ, ಅದರ ಮೂಲ ಸಂಖ್ಯೆ ಎರಡನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು? ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನೇ ನಾವು ಘನಮೂಲ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ವರ್ಗಮೂಲದಂತೆಯೇ, ಆದರೆ ಇಲ್ಲಿ ನಾವು ಮೂರು ಸಮಾನ ಅಪವರ್ತನಗಳಲ್ಲಿ ಒಂದನ್ನು ಹುಡುಕುತ್ತೇವೆ. ಘನಮೂಲವು ಘನ ಕ್ರಿಯೆಯ ತದ್ವಿರುದ್ಧವಾದ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "script_display": "ನಾವು ಈಗಾಗಲೇ ಒಂದು ಸಂಖ್ಯೆಯ ಘನವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ಕಲಿತಿದ್ದೇವೆ. ಉದಾಹರಣೆಗೆ, $2^3 = 8$. ಈಗ, ನಾವು ಅದರ ವಿಲೋಮ ಕ್ರಿಯೆಯ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಅಂದರೆ, ನಮಗೆ ಘನ ಸಂಖ್ಯೆ 8 ತಿಳಿದಿದ್ದರೆ, ಅದರ ಮೂಲ ಸಂಖ್ಯೆ 2 ಅನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು? ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನೇ ನಾವು ಘನಮೂಲ (Cube Root) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ವರ್ಗಮೂಲದಂತೆಯೇ, ಆದರೆ ಇಲ್ಲಿ ನಾವು ಮೂರು ಸಮಾನ ಅಪವರ್ತನಗಳಲ್ಲಿ ಒಂದನ್ನು ಹುಡುಕುತ್ತೇವೆ. ಘನಮೂಲವು ಘನ ಕ್ರಿಯೆಯ ತದ್ವಿರುದ್ಧವಾದ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಘನ ಕ್ರಿಯೆಯ ವಿಲೋಮವೇ ಘನಮೂಲ.",
+    "ಒಂದು ಸಂಖ್ಯೆಯ ಘನದಿಂದ ಅದರ ಮೂಲ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಪ್ರಕ್ರಿಯೆ.",
+    "ಉದಾಹರಣೆಗೆ, 8 ರ ಮೂಲ ಸಂಖ್ಯೆ 2 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_style_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing the number 2 going into a 'Cube' machine and the number 8 coming out. Then, an arrow reversing the process, showing 8 going into a 'Cube Root' machine and 2 coming out. This visually represents the inverse relationship.",
+    "labels": "Cube, Cube Root, Inverse Operation",
+    "mathematical_significance": "Illustrates that cube root is the inverse operation of cubing a number.",
+    "placeholder_note": "Image to be generated showing the inverse relationship between cube and cube root."
+  },
+  "chunk_id": "NS-CUBE-2_concept_5_chunk_003"
+}

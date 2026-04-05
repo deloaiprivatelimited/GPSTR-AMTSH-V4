@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಪದಗಳು ಮತ್ತು ಸಹಗುಣಕಗಳು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮುಂದಿನ ಬೀಜೋಕ್ತಿಗಳಲ್ಲಿ ಸ್ಥಿರಾಂಕವಲ್ಲದ ಪದಗಳನ್ನು ಗುರುತಿಸಿ ಮತ್ತು ಅವುಗಳ ಸಂಖ್ಯಾ ಸಹಗುಣಕವನ್ನು ಬರೆಯಿರಿ ಎಂದು ಕೇಳಲಾಗಿದೆ. ನಮಗೆ ನಾಲ್ಕು ಬೀಜೋಕ್ತಿಗಳನ್ನು ನೀಡಲಾಗಿದೆ: x y ಪ್ಲಸ್ ನಾಲ್ಕು, ಹದಿಮೂರು ಮೈನಸ್ y ಸ್ಕ್ವೇರ್ಡ್, ಹದಿಮೂರು ಮೈನಸ್ y ಪ್ಲಸ್ ಐದು y ಸ್ಕ್ವೇರ್ಡ್, ಮತ್ತು ನಾಲ್ಕು p ಸ್ಕ್ವೇರ್ಡ್ q ಮೈನಸ್ ಮೂರು p q ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಐದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 'ಮುಂದಿನ ಬೀಜೋಕ್ತಿಗಳಲ್ಲಿ ಸ್ಥಿರಾಂಕವಲ್ಲದ ಪದಗಳನ್ನು ಗುರುತಿಸಿ. ಅವುಗಳ ಸಂಖ್ಯಾ ಸಹಗುಣಕವನ್ನು ಬರೆಯಿರಿ.' ಎಂದು ಕೇಳಲಾಗಿದೆ. ನಮಗೆ ನಾಲ್ಕು ಬೀಜೋಕ್ತಿಗಳನ್ನು ನೀಡಲಾಗಿದೆ: $xy + 4$, $13 – y^2$, $13 – y + 5y^2$, ಮತ್ತು $4p^2q – 3pq^2 + 5$.",
+  "display_bullets": [
+    "ಸ್ಥಿರಾಂಕವಲ್ಲದ ಪದಗಳನ್ನು ಗುರುತಿಸಿ.",
+    "ಅವುಗಳ ಸಂಖ್ಯಾ ಸಹಗುಣಕವನ್ನು ಬರೆಯಿರಿ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "xy + 4 \\\\ 13 – y^2 \\\\ 13 – y + 5y^2 \\\\ 4p^2q – 3pq^2 + 5",
+    "placeholder_note": "ಪರಿಹರಿಸಬೇಕಾದ ಬೀಜೋಕ್ತಿಗಳ ಪಟ್ಟಿ"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "ALG-EXP-1_example_1",
+  "chunk_id": "ALG-EXP-1_concept_2_chunk_018"
+}

@@ -1,0 +1,56 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ವಿಶ್ಲೇಷಣೆ",
+  "script": "ಹಾಗಾದರೆ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸೋಣ. ಪ್ರತಿಬಿಂಬದ ಸ್ಥಾನ, ವಿ, ಪ್ಲಸ್ ಮೂವತ್ತು ಸೆಂಟಿಮೀಟರ್. ಇದರರ್ಥ ಪ್ರತಿಬಿಂಬವು ಮಸೂರದ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ಮೂವತ್ತು ಸೆಂಟಿಮೀಟರ್ ದೂರದಲ್ಲಿ ಉಂಟಾಗುತ್ತದೆ. ವಿ ಧನಾತ್ಮಕವಾಗಿರುವುದರಿಂದ, ಪ್ರತಿಬಿಂಬವು ಸತ್ಯವಾಗಿದೆ. ವರ್ಧನೆ, ಎಂ, ಮೈನಸ್ ಎರಡು ಮತ್ತು ಪ್ರತಿಬಿಂಬದ ಎತ್ತರ, ಎಚ್ ಪ್ರೈಮ್, ಮೈನಸ್ ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್. ಋಣಾತ್ಮಕ ಚಿಹ್ನೆಯು ಪ್ರತಿಬಿಂಬವು ತಲೆಕೆಳಗಾಗಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಪ್ರತಿಬಿಂಬದ ಗಾತ್ರ ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್, ಇದು ವಸ್ತುವಿನ ಎರಡು ಸೆಂಟಿಮೀಟರ್ ಗಾತ್ರಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿದೆ, ಅಂದರೆ ವರ್ಧಿತವಾಗಿದೆ. ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪು ಎಂದರೆ ಪೀನ ಮಸೂರಕ್ಕೆ ಸಂಗಮ ದೂರವನ್ನು ಋಣಾತ್ಮಕವಾಗಿ ತೆಗೆದುಕೊಳ್ಳುವುದು. ನೆನಪಿಡಿ, ಪೀನ ಮಸೂರಕ್ಕೆ ಎಫ್ ಯಾವಾಗಲೂ ಧನಾತ್ಮಕ.",
+  "script_display": "ಹಾಗಾದರೆ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸೋಣ.",
+  "display_bullets": [
+    "**ಸ್ಥಾನ (Position):** v = +30 cm (ಮಸೂರದ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ)",
+    "**ಸ್ವಭಾವ (Nature):** ಸತ್ಯ ಮತ್ತು ತಲೆಕೆಳಗಾದ (Real & Inverted)",
+    "**ಗಾತ್ರ (Size):** h' = -4.0 cm (ವರ್ಧಿತ, Magnified)",
+    "**ವರ್ಧನೆ (Magnification):** m = -2"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "exam_tip": {
+    "question_pattern": "Lens formula and magnification problems are frequently asked for 2-3 marks.",
+    "skill_tested": "Correct application of sign convention and lens formula.",
+    "distractor": "Taking the focal length (f) for a convex lens as negative.",
+    "why_distractor_works": "This is a common confusion with concave mirrors/lenses. For a convex lens, f is always positive."
+  },
+  "prerequisites_display": [
+    "ಕಾರ್ಟಿಸಿಯನ್ ಚಿಹ್ನೆಗಳ ಸಂಪ್ರದಾಯ (Cartesian Sign Convention)",
+    "ಮಸೂರ ಸೂತ್ರ (Lens Formula)",
+    "ವರ್ಧನೆಯ ಸೂತ್ರ (Magnification Formula)"
+  ],
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 2,
+    "laws": 0,
+    "chemical_equations": 0,
+    "properties": 0,
+    "experiments": 0,
+    "worked_examples": 1
+  },
+  "next_modules": [
+    "std_10_chapter_9_concept_9"
+  ],
+  "chunk_id": "std_10_chapter_9_concept_8_chunk_025",
+  "source_example_id": "std_10_chapter_9_example_9.4"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಮೊದಲನೇ ಹಂತ, ಐವತ್ತಾರನ್ನು ಅದರ ಅತ್ಯಂತ ಚಿಕ್ಕ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನವಾದ ಎರಡರಿಂದ ಭಾಗಿಸೋಣ. ಐವತ್ತಾರು ಭಾಗಿಸು ಎರಡು ಎಂದರೆ ಇಪ್ಪತ್ತೆಂಟು. ಆದ್ದರಿಂದ, ಐವತ್ತಾರು ಸಮ ಎರಡು ಗುಣಿಸು ಇಪ್ಪತ್ತೆಂಟು. ಎರಡನೇ ಹಂತ, ಬಂದ ಭಾಗಲಬ್ಧ ಇಪ್ಪತ್ತೆಂಟನ್ನು ಪುನಃ ಎರಡರಿಂದ ಭಾಗಿಸೋಣ. ಇಪ್ಪತ್ತೆಂಟು ಭಾಗಿಸು ಎರಡು ಎಂದರೆ ಹದಿನಾಲ್ಕು. ಆದ್ದರಿಂದ, ಇಪ್ಪತ್ತೆಂಟು ಸಮ ಎರಡು ಗುಣಿಸು ಹದಿನಾಲ್ಕು.",
+  "script_display": "ಮೊದಲನೇ ಹಂತ, 56ನ್ನು ಅದರ ಅತ್ಯಂತ ಚಿಕ್ಕ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನವಾದ 2 ರಿಂದ ಭಾಗಿಸೋಣ. $56 \\div 2 = 28$. ಆದ್ದರಿಂದ, $56 = 2 \\times 28$. ಎರಡನೇ ಹಂತ, ಬಂದ ಭಾಗಲಬ್ಧ 28ನ್ನು ಪುನಃ 2 ರಿಂದ ಭಾಗಿಸೋಣ. $28 \\div 2 = 14$. ಆದ್ದರಿಂದ, $28 = 2 \\times 14$.",
+  "display_bullets": [
+    "ಹಂತ 1: 56ನ್ನು ಅತ್ಯಂತ ಚಿಕ್ಕ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನದಿಂದ (2) ಭಾಗಿಸಿ. $56 = 2 \\times 28$",
+    "ಹಂತ 2: ಭಾಗಲಬ್ಧ 28ನ್ನು ಪುನಃ 2 ರಿಂದ ಭಾಗಿಸಿ. $28 = 2 \\times 14$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "56ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣವನ್ನು ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ ತೋರಿಸುವ ಚಿತ್ರ. ಮೊದಲ ಹಂತದಲ್ಲಿ 56ನ್ನು 2ರಿಂದ ಭಾಗಿಸಿ 28 ಬರುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ 28ನ್ನು 2ರಿಂದ ಭಾಗಿಸಿ 14 ಬರುತ್ತದೆ.",
+    "labels": "ಭಾಗಾಕಾರ ವಿಧಾನ, ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು",
+    "mathematical_significance": "ಸಂಖ್ಯೆಯನ್ನು ಅದರ ಚಿಕ್ಕ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನದಿಂದ ಪುನರಾವರ್ತಿತವಾಗಿ ಭಾಗಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Show the standard vertical line division method for prime factorization. Step 1: 2 | 56 -> 28. Step 2: 2 | 28 -> 14."
+  },
+  "source_example_id": "NS-PRI-1_example_5",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "56 = 2 \\times 28",
+      "justification": "56 ಒಂದು ಸಮ ಸಂಖ್ಯೆ, ಆದ್ದರಿಂದ 2 ರಿಂದ ಭಾಗಿಸಬಹುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "56 = 2 \\times (2 \\times 14)",
+      "justification": "28 ಕೂಡ ಸಮ ಸಂಖ್ಯೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-PRI-1_concept_3_chunk_015"
+}

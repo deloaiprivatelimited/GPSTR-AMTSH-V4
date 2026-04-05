@@ -1,0 +1,37 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಸಾಧನೆ: ನಿರ್ಣಯ",
+  "script": "ಈಗ ನಮ್ಮಲ್ಲಿ ಎರಡು ಸಮೀಕರಣಗಳಿವೆ. ಸಮೀಕರಣ ಒಂದು ಮತ್ತು ಎರಡನ್ನು ಕೂಡಿಸೋಣ. ಎಡಬದಿಯಲ್ಲಿ, ಕೋನ BOP ಪ್ಲಸ್ ಕೋನ BOQ. ಬಲಬದಿಯಲ್ಲಿ, ಎರಡು ಗುಣಿಸು ಕೋನ OAP ಪ್ಲಸ್ ಎರಡು ಗುಣಿಸು ಕೋನ OAQ. ಚಿತ್ರವನ್ನು ಗಮನಿಸಿದರೆ, ಕೋನ BOP ಮತ್ತು ಕೋನ BOQ ಸೇರಿದಾಗ ನಮಗೆ ಪೂರ್ಣ ಕೋನ POQ ಸಿಗುತ್ತದೆ. ಹಾಗೆಯೇ, ಕೋನ OAP ಮತ್ತು ಕೋನ OAQ ಸೇರಿದಾಗ ಕೋನ PAQ ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಕೋನ POQ ಸಮ ಎರಡು ಗುಣಿಸು, ಕೋನ OAP ಪ್ಲಸ್ ಕೋನ OAQ, ಅಂದರೆ ಕೋನ POQ ಸಮ ಎರಡು ಗುಣಿಸು ಕೋನ PAQ. ಹೀಗೆ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಲಾಗಿದೆ. ಇದು ಲಘು ಕಂಸದ ಪ್ರಕರಣ. ಅಧಿಕ ಕಂಸ ಮತ್ತು ಅರ್ಧವೃತ್ತದ ಪ್ರಕರಣಗಳಿಗೂ ಇದೇ ರೀತಿ ಸಾಧಿಸಬಹುದು.",
+  "script_display": "ಸಮೀಕರಣ (1) ಮತ್ತು (2) ನ್ನು ಕೂಡಿದಾಗ (ಲಘು ಕಂಸದ ಪ್ರಕರಣದಲ್ಲಿ):\n*   $\\angle BOP + \\angle BOQ = 2\\angle OAP + 2\\angle OAQ$\n*   ಚಿತ್ರದ ಪ್ರಕಾರ, $\\angle BOP + \\angle BOQ = \\angle POQ$ ಮತ್ತು $\\angle OAP + \\angle OAQ = \\angle PAQ$.\n*   ಆದ್ದರಿಂದ, $\\angle POQ = 2(\\angle OAP + \\angle OAQ)$\n*   $\\implies \\angle POQ = 2\\angle PAQ$. (ಸಾಧಿಸಿದೆ)",
+  "display_bullets": [
+    "ಸಮೀಕರಣ (1) ಮತ್ತು (2) ನ್ನು ಕೂಡಿದಾಗ: $\\angle BOP + \\angle BOQ = 2\\angle OAP + 2\\angle OAQ$",
+    "ಇದನ್ನು ಹೀಗೆ ಬರೆಯಬಹುದು: $\\angle POQ = 2(\\angle OAP + \\angle OAQ)$",
+    "ಆದ್ದರಿಂದ, $\\angle POQ = 2\\angle PAQ$. (ಸಾಧಿಸಿದೆ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸಾಧನೆಯ ಚಿತ್ರ, ಇದರಲ್ಲಿ ∠BOP ಮತ್ತು ∠BOQ ಕೋನಗಳು ಸೇರಿ ∠POQ ಆಗುವುದನ್ನು ಮತ್ತು ∠OAP ಮತ್ತು ∠OAQ ಕೋನಗಳು ಸೇರಿ ∠PAQ ಆಗುವುದನ್ನು ಬಣ್ಣಗಳಿಂದ ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "P, Q, O, A, B",
+    "mathematical_significance": "ಸಾಧನೆಯ ಅಂತಿಮ ಹಂತವನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ, ಕೋನಗಳ ಸಂಕಲನವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "proof_conclusion",
+  "chunk_id": "GEO-CIR-2_concept_3_chunk_007"
+}

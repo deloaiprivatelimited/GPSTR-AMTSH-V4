@@ -1,0 +1,38 @@
+{
+  "type": "intro",
+  "slide_title": "ಸಂಯುಕ್ತ ಮೀನು ಕೃಷಿ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಇಂದಿನ ತರಗತಿಗೆ ನಿಮಗೆ ಸ್ವಾಗತ. ನೀವು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ, ಒಂದೇ ಕೊಳದಲ್ಲಿ ಹಲವು ಬಗೆಯ ಮೀನುಗಳನ್ನು ಒಟ್ಟಿಗೆ ಹೇಗೆ ಬೆಳೆಸಬಹುದು ಅಂತ? ಇದೇ ಸಂಯುಕ್ತ ಮೀನು ಕೃಷಿ. ಇದು ಮೀನು ಉತ್ಪಾದನೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ಒಂದು ಅದ್ಭುತ ತಂತ್ರ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಸಂಯುಕ್ತ ಮೀನು ಕೃಷಿ ಎಂದರೇನು ಎಂದು ವಿವರವಾಗಿ ಕಲಿಯೋಣ. ಇದರಲ್ಲಿ ಬಳಸುವ ವಿವಿಧ ಮೀನು ಪ್ರಭೇದಗಳು ಮತ್ತು ಅವುಗಳ ಆಹಾರ ವಲಯಗಳ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳೋಣ. ಜೊತೆಗೆ, ಈ ಪದ್ಧತಿಯ ಅನುಕೂಲಗಳು ಮತ್ತು ಇದರಲ್ಲಿ ಎದುರಾಗುವ ಒಂದು ಪ್ರಮುಖ ಸಮಸ್ಯೆಯ ಬಗ್ಗೆಯೂ ಚರ್ಚಿಸೋಣ. ಹಾಗಾದರೆ, ಈ ಆಸಕ್ತಿದಾಯಕ ವಿಷಯದ ಬಗ್ಗೆ ತಿಳಿಯಲು ಸಿದ್ಧರಿದ್ದೀರಾ? ಶುರು ಮಾಡೋಣ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ! ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಕಲಿಯುವ ವಿಷಯಗಳು:",
+  "display_bullets": [
+    "ಸಂಯುಕ್ತ ಮೀನು ಕೃಷಿ ಎಂದರೇನು?",
+    "ವಿವಿಧ ಮೀನು ಪ್ರಭೇದಗಳು ಮತ್ತು ಅವುಗಳ ಆಹಾರ ವಲಯಗಳು",
+    "ಸಂಯುಕ್ತ ಮೀನು ಕೃಷಿಯ ಅನುಕೂಲಗಳು",
+    "ಈ ಪದ್ಧತಿಯಲ್ಲಿನ ಒಂದು ಪ್ರಮುಖ ಸಮಸ್ಯೆ"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An engaging animation showing a cross-section of a pond with different types of fish swimming at different levels (surface, middle, bottom). Text labels pop up for each zone: ಮೇಲ್ಮೈ, ಮಧ್ಯ, ತಳ.",
+    "labels": "Surface feeders, Middle-zone feeders, Bottom feeders",
+    "scientific_significance": "Illustrates the core principle of composite fish culture: utilizing all ecological niches within a single water body to maximize productivity.",
+    "placeholder_note": "Create an animated diagram for the intro showing a pond cross-section with fish at different levels."
+  },
+  "sub_type": "title",
+  "chunk_id": "std_9_chapter_12_concept_11_chunk_001"
+}

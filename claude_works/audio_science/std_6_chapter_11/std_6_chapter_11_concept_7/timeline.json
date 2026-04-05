@@ -1,0 +1,123 @@
+{
+  "module_id": "std_6_chapter_11_concept_7",
+  "chapter_code": "std_6_chapter_11",
+  "voice": "Iapetus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 431.83,
+  "total_duration_formatted": "7:11",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_11_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 47.691,
+      "duration": 47.691,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 48.291,
+      "end": 73.302,
+      "duration": 25.011,
+      "script_words": 35
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_7_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು",
+      "type": "definition",
+      "start": 73.902,
+      "end": 120.233,
+      "duration": 46.331,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_7_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು ಹೇಗೆ ಉಂಟಾಗುತ್ತವೆ?",
+      "type": "definition",
+      "start": 120.833,
+      "end": 176.524,
+      "duration": 55.691,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_7_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಉದಾಹರಣೆಗಳು: ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳ ವಿಧಗಳು",
+      "type": "definition",
+      "start": 177.124,
+      "end": 234.455,
+      "duration": 57.331,
+      "script_words": 78
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_7_chunk_006",
+      "chunk_file": "006_classification_0.json",
+      "wav_file": "006_classification_0.wav",
+      "slide_title": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "start": 235.055,
+      "end": 269.866,
+      "duration": 34.811,
+      "script_words": 44
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_7_chunk_007",
+      "chunk_file": "007_classification_cont_0_1.json",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "slide_title": "ಕಲ್ಲಿದ್ದಲು (Coal)",
+      "type": "concept_explanation",
+      "start": 270.466,
+      "end": 308.597,
+      "duration": 38.131,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_7_chunk_008",
+      "chunk_file": "008_classification_cont_0_2.json",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "slide_title": "ಪೆಟ್ರೋಲಿಯಂ (Petroleum)",
+      "type": "concept_explanation",
+      "start": 309.197,
+      "end": 351.248,
+      "duration": 42.051,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_7_chunk_009",
+      "chunk_file": "009_classification_cont_0_3.json",
+      "wav_file": "009_classification_cont_0_3.wav",
+      "slide_title": "ನೈಸರ್ಗಿಕ ಅನಿಲ (Natural Gas)",
+      "type": "concept_explanation",
+      "start": 351.848,
+      "end": 390.099,
+      "duration": 38.251,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_7_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 390.699,
+      "end": 431.23,
+      "duration": 40.531,
+      "script_words": 53
+    }
+  ]
+}

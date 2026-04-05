@@ -1,0 +1,134 @@
+{
+  "module_id": "std_6_chapter_4_concept_6",
+  "chapter_code": "std_6_chapter_4",
+  "voice": "Erinome",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 11,
+  "total_duration": 481.121,
+  "total_duration_formatted": "8:01",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_4_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಕಾಂತೀಯ ದಿಕ್ಕೂಚಿ ಮತ್ತು ಅದರ ತಯಾರಿಕೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 47.291,
+      "duration": 47.291,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "recap",
+      "start": 47.891,
+      "end": 80.862,
+      "duration": 32.971,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_6_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಕಾಂತೀಯ ದಿಕ್ಕೂಚಿಯ ರಚನೆ",
+      "type": "concept_explanation",
+      "start": 81.462,
+      "end": 133.793,
+      "duration": 52.331,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_6_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ದಿಕ್ಕೂಚಿ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?",
+      "type": "concept_explanation",
+      "start": 134.393,
+      "end": 176.604,
+      "duration": 42.211,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_6_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ದಿಕ್ಕುಗಳನ್ನು ಗುರುತಿಸುವುದು",
+      "type": "concept_explanation",
+      "start": 177.204,
+      "end": 227.815,
+      "duration": 50.611,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_6_chunk_006",
+      "chunk_file": "006_experiment_0.json",
+      "wav_file": "006_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ: ಮನೆಯಲ್ಲಿ ದಿಕ್ಕೂಚಿ ತಯಾರಿಸುವುದು",
+      "type": "visual_explain",
+      "start": 228.415,
+      "end": 265.346,
+      "duration": 36.931,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_6_chunk_007",
+      "chunk_file": "007_experiment_cont_0_1.json",
+      "wav_file": "007_experiment_cont_0_1.wav",
+      "slide_title": "ವಿಧಾನ: ಹಂತ 1 - ಸೂಜಿಯನ್ನು ಕಾಂತೀಕರಿಸುವುದು",
+      "type": "visual_explain",
+      "start": 265.946,
+      "end": 306.997,
+      "duration": 41.051,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_6_chunk_008",
+      "chunk_file": "008_experiment_cont_0_2.json",
+      "wav_file": "008_experiment_cont_0_2.wav",
+      "slide_title": "ವಿಧಾನ: ಹಂತ 2 ಮತ್ತು 3 - ದಿಕ್ಕೂಚಿಯನ್ನು ಜೋಡಿಸುವುದು",
+      "type": "visual_explain",
+      "start": 307.597,
+      "end": 345.688,
+      "duration": 38.091,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_6_chunk_009",
+      "chunk_file": "009_experiment_cont_0_3.json",
+      "wav_file": "009_experiment_cont_0_3.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ: ಏನಾಗುತ್ತದೆ?",
+      "type": "visual_explain",
+      "start": 346.288,
+      "end": 388.699,
+      "duration": 42.411,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_6_chunk_010",
+      "chunk_file": "010_experiment_cont_0_4.json",
+      "wav_file": "010_experiment_cont_0_4.wav",
+      "slide_title": "ತೀರ್ಮಾನ: ನಮ್ಮದೇ ದಿಕ್ಕೂಚಿ",
+      "type": "key_takeaway",
+      "start": 389.299,
+      "end": 436.67,
+      "duration": 47.371,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_6_chunk_011",
+      "chunk_file": "011_recap_0.json",
+      "wav_file": "011_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಕಾಂತೀಯ ದಿಕ್ಕೂಚಿ",
+      "type": "recap",
+      "start": 437.27,
+      "end": 480.521,
+      "duration": 43.251,
+      "script_words": 54
+    }
+  ]
+}

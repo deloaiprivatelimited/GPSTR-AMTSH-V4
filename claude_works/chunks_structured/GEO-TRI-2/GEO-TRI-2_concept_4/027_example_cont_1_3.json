@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ತೀರ್ಮಾನ",
+  "script": "ನಾವು ಸಾಧನೆಯ ಕೊನೆಯ ಹಂತಕ್ಕೆ ಬಂದಿದ್ದೇವೆ. ನಮಗೆ ಬೇಕಾದ ರೂಪದಲ್ಲಿ ಉತ್ತರವನ್ನು ಪಡೆಯಲು, ನಾವು ಪಡೆದ ಸಮೀಕರಣದ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. AB ಭಾಗಿಸು AD ಸಮ AC ಭಾಗಿಸು AE ಯ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಂಡಾಗ, ನಮಗೆ AD ಭಾಗಿಸು AB ಸಮ AE ಭಾಗಿಸು AC ಸಿಗುತ್ತದೆ. ಹೀಗೆ ನಾವು ಕೇಳಿದ ಫಲಿತಾಂಶವನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ. ಇದು ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯದ ಒಂದು ಪ್ರಮುಖ ಉಪಸಿದ್ಧಾಂತವಾಗಿದೆ. ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "script_display": "ನಾವು ಸಾಧನೆಯ ಕೊನೆಯ ಹಂತಕ್ಕೆ ಬಂದಿದ್ದೇವೆ. ನಮಗೆ ಬೇಕಾದ ರೂಪದಲ್ಲಿ ಉತ್ತರವನ್ನು ಪಡೆಯಲು, ನಾವು ಪಡೆದ ಸಮೀಕರಣದ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. $\\frac{AB}{AD} = \\frac{AC}{AE}$ ಯ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಂಡಾಗ, ನಮಗೆ $\\frac{AD}{AB} = \\frac{AE}{AC}$ ಸಿಗುತ್ತದೆ. ಹೀಗೆ ನಾವು ಕೇಳಿದ ಫಲಿತಾಂಶವನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ. ಇದು ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯದ ಒಂದು ಪ್ರಮುಖ ಉಪಸಿದ್ಧಾಂತವಾಗಿದೆ. ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "display_bullets": [
+    "ಹಿಂದಿನ ಹಂತದಿಂದ: $\\frac{AB}{AD} = \\frac{AC}{AE}$",
+    "ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ: $\\frac{AD}{AB} = \\frac{AE}{AC}$",
+    "ಇದೇ ಸಾಧಿಸಬೇಕಾದ ಫಲಿತಾಂಶ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_12",
+  "final_answer": "$\\frac{AD}{AB} = \\frac{AE}{AC}$",
+  "final_answer_display": "$\\frac{AD}{AB} = \\frac{AE}{AC}$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "chunk_id": "GEO-TRI-2_concept_4_chunk_027"
+}

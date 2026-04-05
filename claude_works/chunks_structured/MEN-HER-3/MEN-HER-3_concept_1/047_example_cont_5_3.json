@@ -1,0 +1,30 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 3: ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ತ್ರಿಭುಜಾಕಾರದ ಜಾಗದ ವಿಸ್ತೀರ್ಣವು ಒಂದು ಸಾವಿರದ ಐನೂರು ವರ್ಗಮೂಲ ಮೂರು ಚದರ ಮೀಟರ್ ಆಗಿದೆ. ಈ ರೀತಿಯ ಅನುಪಾತದ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಮೊದಲು ಸುತ್ತಳತೆಯ ಸಹಾಯದಿಂದ ಬಾಹುಗಳ ನಿಜವಾದ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿದು, ನಂತರ ಹೆರಾನ್‌ನ ಸೂತ್ರವನ್ನು ಅನ್ವಯಿಸುವುದು ಮುಖ್ಯವಾದ ಕ್ರಮವಾಗಿದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ತ್ರಿಭುಜಾಕಾರದ ಜಾಗದ ವಿಸ್ತೀರ್ಣವು $1500\\sqrt{3}$ m² ಆಗಿದೆ. ಈ ರೀತಿಯ ಅನುಪಾತದ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಮೊದಲು ಸುತ್ತಳತೆಯ ಸಹಾಯದಿಂದ ಬಾಹುಗಳ ನಿಜವಾದ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿದು, ನಂತರ ಹೆರಾನ್‌ನ ಸೂತ್ರವನ್ನು ಅನ್ವಯಿಸುವುದು ಮುಖ್ಯವಾದ ಕ್ರಮವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "MEN-HER-3_example_3",
+  "final_answer": "1500\\sqrt{3} m^2",
+  "final_answer_display": "ವಿಸ್ತೀರ್ಣ = $1500\\sqrt{3}$ m²",
+  "chunk_id": "MEN-HER-3_concept_1_chunk_047"
+}

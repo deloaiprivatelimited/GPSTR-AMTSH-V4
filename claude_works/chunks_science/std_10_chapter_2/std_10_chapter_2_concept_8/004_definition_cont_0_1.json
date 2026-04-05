@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಲವಣದ ರಚನೆ (Formation of a Salt)",
+  "script": "ಈಗ ಒಂದು ಲವಣ ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ನೋಡೋಣ. ಇಲ್ಲಿ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ, ಅಂದರೆ H C L, ಮತ್ತು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಅಂದರೆ N a O H ಎಂಬ ಪ್ರತ್ಯಾಮ್ಲವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇವೆರಡರ ನಡುವೆ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆದಾಗ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್, ಅಂದರೆ N a C l ಎಂಬ ಲವಣ ಮತ್ತು ನೀರು, ಅಂದರೆ H two O, ಉತ್ಪನ್ನಗಳಾಗಿ ದೊರೆಯುತ್ತವೆ. ಈ ಕ್ರಿಯೆಯನ್ನು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ ಎನ್ನುತ್ತೇವೆ. ಇದರಲ್ಲಿ ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲ ತಮ್ಮ ಗುಣಗಳನ್ನು ಕಳೆದುಕೊಂಡು ತಟಸ್ಥ ವಸ್ತುಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.",
+  "script_display": "ಈಗ ಒಂದು ಲವಣ ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ನೋಡೋಣ. ಇಲ್ಲಿ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl) ಮತ್ತು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) ಎಂಬ ಪ್ರತ್ಯಾಮ್ಲವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇವೆರಡರ ನಡುವೆ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆದಾಗ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ (NaCl) ಎಂಬ ಲವಣ ಮತ್ತು ನೀರು (H₂O) ಉತ್ಪನ್ನಗಳಾಗಿ ದೊರೆಯುತ್ತವೆ. ಈ ಕ್ರಿಯೆಯನ್ನು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ ಎನ್ನುತ್ತೇವೆ. ಇದರಲ್ಲಿ ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲ ತಮ್ಮ ಗುಣಗಳನ್ನು ಕಳೆದುಕೊಂಡು ತಟಸ್ಥ ವಸ್ತುಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ಆಮ್ಲ + ಪ್ರತ್ಯಾಮ್ಲ → ಲವಣ + ನೀರು",
+    "ಇದು ಒಂದು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ (Neutralization Reaction)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "HCl + NaOH \\rightarrow NaCl + H_2O",
+    "placeholder_note": "Chemical equation for the neutralization of HCl and NaOH."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_2_concept_8_chunk_004"
+}

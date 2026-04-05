@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ವಿಸರಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+  "script": "ವಿಸರಣೆಯನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ಕೋಣೆಯ ಮೂಲೆಯಲ್ಲಿ ನೀವು ಒಂದು ಅಗರಬತ್ತಿಯನ್ನು ಹಚ್ಚಿದಾಗ, ಅದರ ಹೊಗೆಯ ಕಣಗಳು ಮೊದಲು ಆ ಮೂಲೆಯಲ್ಲಿ ಅಧಿಕ ಸಾರತೆಯಲ್ಲಿರುತ್ತವೆ. ಆದರೆ, ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಆ ಕಣಗಳು ನಿಧಾನವಾಗಿ ಕೋಣೆಯ ಎಲ್ಲಾ ಭಾಗಗಳಿಗೂ ಹರಡುತ್ತವೆ. ಅಂದರೆ, ಅಧಿಕ ಸಾರತೆ ಇದ್ದ ಮೂಲೆಯಿಂದ ಕಡಿಮೆ ಸಾರತೆ ಇದ್ದ ಇಡೀ ಕೋಣೆಗೆ ಅವು ಚಲಿಸುತ್ತವೆ. ಕೊನೆಗೆ, ಇಡೀ ಕೋಣೆಯಲ್ಲಿ ಸುವಾಸನೆ ಸಮನಾಗಿ ಹರಡುತ್ತದೆ. ಇದೇ ವಿಸರಣೆ.",
+  "script_display": "ವಿಸರಣೆಯನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ಕೋಣೆಯ ಮೂಲೆಯಲ್ಲಿ ನೀವು ಒಂದು ಅಗರಬತ್ತಿಯನ್ನು ಹಚ್ಚಿದಾಗ, ಅದರ ಹೊಗೆಯ ಕಣಗಳು ಮೊದಲು ಆ ಮೂಲೆಯಲ್ಲಿ ಅಧಿಕ ಸಾರತೆಯಲ್ಲಿರುತ್ತವೆ. ಆದರೆ, ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಆ ಕಣಗಳು ನಿಧಾನವಾಗಿ ಕೋಣೆಯ ಎಲ್ಲಾ ಭಾಗಗಳಿಗೂ ಹರಡುತ್ತವೆ. ಅಂದರೆ, ಅಧಿಕ ಸಾರತೆ ಇದ್ದ ಮೂಲೆಯಿಂದ ಕಡಿಮೆ ಸಾರತೆ ಇದ್ದ ಇಡೀ ಕೋಣೆಗೆ ಅವು ಚಲಿಸುತ್ತವೆ. ಕೊನೆಗೆ, ಇಡೀ ಕೋಣೆಯಲ್ಲಿ ಸುವಾಸನೆ ಸಮನಾಗಿ ಹರಡುತ್ತದೆ. ಇದೇ ವಿಸರಣೆ.",
+  "display_bullets": [
+    "ಅಗರಬತ್ತಿಯ ಹೊಗೆ ಮೊದಲು ಒಂದು ಸ್ಥಳದಲ್ಲಿ ಕೇಂದ್ರೀಕೃತವಾಗಿರುತ್ತದೆ (ಅಧಿಕ ಸಾರತೆ).",
+    "ನಂತರ, ಹೊಗೆಯ ಕಣಗಳು ಕೋಣೆಯಾದ್ಯಂತ ಹರಡಲು ಪ್ರಾರಂಭಿಸುತ್ತವೆ.",
+    "ಕಣಗಳು ಕಡಿಮೆ ಸಾರತೆಯ ಪ್ರದೇಶದ ಕಡೆಗೆ ಚಲಿಸುತ್ತವೆ.",
+    "ಕೊನೆಗೆ, ಕಣಗಳು ಕೋಣೆಯಲ್ಲಿ ಸಮಾನವಾಗಿ ಹಂಚಿಹೋಗುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 3-stage diagram illustrating diffusion. Stage 1: A lit incense stick in the corner of a room, with smoke particles concentrated around it. Stage 2: The smoke particles are shown spreading out towards the center of the room. Stage 3: The smoke particles are evenly distributed throughout the entire room.",
+    "labels": "Stage 1: High Concentration, Stage 2: Movement of particles, Stage 3: Equilibrium (Even distribution)",
+    "scientific_significance": "This visual analogy helps explain the abstract concept of particles moving from an area of high concentration to an area of low concentration until equilibrium is reached.",
+    "placeholder_note": "Image to be generated showing incense smoke spreading in a room."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_5_concept_3_chunk_010"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆದೇಶನ ಕ್ರಿಯೆ: ಮೀಥೇನ್ ಮತ್ತು ಕ್ಲೋರಿನ್",
+  "script": "ಈಗ ನಾವು ಆದೇಶನ ಕ್ರಿಯೆಯ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಒಂದು ಮೀಥೇನ್ ಅಣುವು ಒಂದು ಕ್ಲೋರಿನ್ ಅಣುವಿನೊಂದಿಗೆ ಸೂರ್ಯನ ಬೆಳಕಿನ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ವರ್ತಿಸಿ, ಒಂದು ಕ್ಲೋರೋಮೀಥೇನ್ ಅಣು ಮತ್ತು ಒಂದು ಹೈಡ್ರೋಜನ್ ಕ್ಲೋರೈಡ್ ಅಣುವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಇದು ಪರ್ಯಾಪ್ತ ಹೈಡ್ರೋಕಾರ್ಬನ್‌ಗಳ ಒಂದು ವಿಶಿಷ್ಟ ಗುಣವಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಆದೇಶನ ಕ್ರಿಯೆಯ (Substitution Reaction) ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಒಂದು ಮೀಥೇನ್ ಅಣುವು (CH₄) ಒಂದು ಕ್ಲೋರಿನ್ ಅಣುವಿನೊಂದಿಗೆ (Cl₂) ಸೂರ್ಯನ ಬೆಳಕಿನ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ವರ್ತಿಸಿ, ಒಂದು ಕ್ಲೋರೋಮೀಥೇನ್ ಅಣು (CH₃Cl) ಮತ್ತು ಒಂದು ಹೈಡ್ರೋಜನ್ ಕ್ಲೋರೈಡ್ ಅಣುವನ್ನು (HCl) ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಇದು ಪರ್ಯಾಪ್ತ ಹೈಡ್ರೋಕಾರ್ಬನ್‌ಗಳ ಒಂದು ವಿಶಿಷ್ಟ ಗುಣವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "chemistry_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CH_4(g) + Cl_2(g) \\xrightarrow{\\text{ಸೂರ್ಯನ ಬೆಳಕು}} CH_3Cl(g) + HCl(g)",
+    "placeholder_note": "Chemical equation for the substitution reaction of methane with chlorine."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_10_chapter_4_concept_8_chunk_024"
+}

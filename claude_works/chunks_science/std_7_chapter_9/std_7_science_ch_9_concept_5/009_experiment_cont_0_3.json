@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಹಂತ 3: ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ ರೇಖೆ ಎಳೆಯುವುದು",
+  "script": "ನಾವು ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ಗ್ರಾಫ್ ಮೇಲೆ ಗುರುತಿಸಿದ ನಂತರ, ಮುಂದಿನ ಹಂತವು ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಒಂದು ಸ್ಕೇಲ್ ತೆಗೆದುಕೊಂಡು, ಗುರುತಿಸಿದ ಎಲ್ಲಾ ಬಿಂದುಗಳ ಮೂಲಕ ಹಾದುಹೋಗುವಂತೆ ಒಂದು ಸರಳ ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಈ ಬಿಂದುಗಳು ಏಕರೂಪದ ಚಲನೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುವುದರಿಂದ, ಅವೆಲ್ಲವೂ ಒಂದೇ ಸರಳ ರೇಖೆಯ ಮೇಲೆ ಇರುವುದನ್ನು ನೀವು ಗಮನಿಸಬಹುದು. ಈ ರೇಖೆಯು ಮೂಲಬಿಂದುವಿನಿಂದ ಪ್ರಾರಂಭವಾಗಿ ಮೇಲ್ಮುಖವಾಗಿ ಸಾಗುತ್ತದೆ. ಈ ರೇಖೆಯೇ ನಮ್ಮ ದೂರ-ಕಾಲ ನಕ್ಷೆಯಾಗಿದೆ. ಇದು ವಸ್ತುವಿನ ಚಲನೆಯನ್ನು ಚಿತ್ರಾತ್ಮಕವಾಗಿ ನಿರೂಪಿಸುತ್ತದೆ.",
+  "script_display": "ನಾವು ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ಗ್ರಾಫ್ ಮೇಲೆ ಗುರುತಿಸಿದ ನಂತರ, ಮುಂದಿನ ಹಂತವು ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಒಂದು ಸ್ಕೇಲ್ ತೆಗೆದುಕೊಂಡು, ಗುರುತಿಸಿದ ಎಲ್ಲಾ ಬಿಂದುಗಳ ಮೂಲಕ ಹಾದುಹೋಗುವಂತೆ ಒಂದು ಸರಳ ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಈ ಬಿಂದುಗಳು ಏಕರೂಪದ ಚಲನೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುವುದರಿಂದ, ಅವೆಲ್ಲವೂ ಒಂದೇ ಸರಳ ರೇಖೆಯ ಮೇಲೆ ಇರುವುದನ್ನು ನೀವು ಗಮನಿಸಬಹುದು. ಈ ರೇಖೆಯು ಮೂಲಬಿಂದುವಿನಿಂದ ಪ್ರಾರಂಭವಾಗಿ ಮೇಲ್ಮುಖವಾಗಿ ಸಾಗುತ್ತದೆ. ಈ ರೇಖೆಯೇ ನಮ್ಮ ದೂರ-ಕಾಲ ನಕ್ಷೆಯಾಗಿದೆ. ಇದು ವಸ್ತುವಿನ ಚಲನೆಯನ್ನು ಚಿತ್ರಾತ್ಮಕವಾಗಿ ನಿರೂಪಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಗುರುತಿಸಿದ ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ಗಮನಿಸಿ.",
+    "ಒಂದು ಸ್ಕೇಲ್ ಬಳಸಿ, ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ ಒಂದು ಸರಳ ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ.",
+    "ಈ ರೇಖೆಯು ಚಲನೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುವ ದೂರ-ಕಾಲ ನಕ್ಷೆಯಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The final graph. A straight line is drawn with a ruler, passing through all the plotted points, starting from the origin (0,0) and extending upwards and to the right.",
+    "labels": "Distance-Time Graph, Straight Line",
+    "scientific_significance": "The resulting line is the graphical representation of the object's motion over time. Its properties, like slope, reveal physical quantities like speed.",
+    "placeholder_note": "Image to be generated: The graph with points, now with a straight line drawn through them."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_7_science_ch_9_concept_5_chunk_009"
+}

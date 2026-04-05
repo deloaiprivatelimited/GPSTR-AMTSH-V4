@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸುವುದು",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಈ ಮೌಲ್ಯಗಳನ್ನು ಬಹುಲಕದ ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಸೂತ್ರವು, ಬಹುಲಕ ಸಮನಾಗಿದೆ l plus, f one minus f zero, bhaagisidu eradu f one minus f zero minus f two, idannu h ninda gunisalaagide. ಈಗ ಮೌಲ್ಯಗಳನ್ನು ಹಾಕೋಣ. l ಅಂದರೆ 40, f one ಅಂದರೆ 7, f zero ಅಂದರೆ 3, f two ಅಂದರೆ 6, ಮತ್ತು h ಅಂದರೆ 15. ಹಾಗಾಗಿ ನಮಗೆ ಸಿಗುವುದು, 40 plus, 7 minus 3, bhaagisidu eradu gunisu 7 minus 3 minus 6, idannu 15 rinda gunisalaagide.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಈ ಮೌಲ್ಯಗಳನ್ನು ಬಹುಲಕದ ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಸೂತ್ರವು: $\\text{ಬಹುಲಕ} = l + \\left[ \\frac{f_1 - f_0}{2f_1 - f_0 - f_2} \\right] \\times h$. ಈಗ ಮೌಲ್ಯಗಳನ್ನು ಹಾಕೋಣ. ಹಾಗಾಗಿ ನಮಗೆ ಸಿಗುವುದು: $\\text{ಬಹುಲಕ} = 40 + \\left[ \\frac{7 - 3}{2(7) - 3 - 6} \\right] \\times 15$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "DATA-STAT-2_example_9",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\text{ಬಹುಲಕ} = l + \\left[ \\frac{f_1 - f_0}{2f_1 - f_0 - f_2} \\right] \\times h$\n\n$= 40 + \\left[ \\frac{7 - 3}{2(7) - 3 - 6} \\right] \\times 15$",
+      "justification": "ಗುರುತಿಸಿದ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "DATA-STAT-2_concept_3_chunk_019"
+}

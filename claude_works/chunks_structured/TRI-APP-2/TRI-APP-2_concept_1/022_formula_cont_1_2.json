@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತ್ವರಿತ ಉದಾಹರಣೆ: ಏಣಿಯ ಸಮಸ್ಯೆ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು 10 ಮೀಟರ್ ಉದ್ದದ ಏಣಿಯನ್ನು ಗೋಡೆಗೆ ಒರಗಿಸಿ ಇಡಲಾಗಿದೆ. ಅದು ನೆಲದೊಂದಿಗೆ 60 ಡಿಗ್ರಿ ಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಹಾಗಾದರೆ, ಏಣಿಯು ಗೋಡೆಯ ಮೇಲೆ ಎಷ್ಟು ಎತ್ತರವನ್ನು ತಲುಪುತ್ತದೆ? ಇಲ್ಲಿ, ಏಣಿಯ ಉದ್ದವು ವಿಕರ್ಣ, ಅಂದರೆ 10 ಮೀಟರ್. ಕೋನ ತೀಟಾ 60 ಡಿಗ್ರಿ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು, ಅಂದರೆ ಗೋಡೆಯ ಮೇಲಿನ ಎತ್ತರ ಎಚ್. ನಮ್ಮ ಸೈನ್ ಸೂತ್ರವನ್ನು ಬಳಸೋಣ. ಸೈನ್ 60 ಡಿಗ್ರಿ ಸಮನಾಗಿರುತ್ತದೆ ಎಚ್ ಭಾಗಿಸು 10. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಸೈನ್ 60 ಡಿಗ್ರಿಯ ಬೆಲೆ ರೂಟ್ 3 ಭಾಗಿಸು 2. ಆದ್ದರಿಂದ, ರೂಟ್ 3 ಭಾಗಿಸು 2 ಸಮನಾಗಿರುತ್ತದೆ ಎಚ್ ಭಾಗಿಸು 10. ಇದನ್ನು ಬಿಡಿಸಿದಾಗ, ಎಚ್ ಸಮನಾಗಿರುತ್ತದೆ 10 ಗುಣಿಸು ರೂಟ್ 3 ಭಾಗಿಸು 2, ಅಂದರೆ 5 ರೂಟ್ 3 ಮೀಟರ್. ಹೀಗೆ ನಾವು ಎತ್ತರವನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು 10 ಮೀಟರ್ ಉದ್ದದ ಏಣಿಯನ್ನು ಗೋಡೆಗೆ ಒರಗಿಸಿ ಇಡಲಾಗಿದೆ. ಅದು ನೆಲದೊಂದಿಗೆ 60 ಡಿಗ್ರಿ ಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಹಾಗಾದರೆ, ಏಣಿಯು ಗೋಡೆಯ ಮೇಲೆ ಎಷ್ಟು ಎತ್ತರವನ್ನು ತಲುಪುತ್ತದೆ? ಇಲ್ಲಿ, ಏಣಿಯ ಉದ್ದವು ವಿಕರ್ಣ, ಅಂದರೆ 10 ಮೀಟರ್. ಕೋನ $\\theta$ 60 ಡಿಗ್ರಿ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು, ಅಂದರೆ ಗೋಡೆಯ ಮೇಲಿನ ಎತ್ತರ h. ನಮ್ಮ ಸೈನ್ ಸೂತ್ರವನ್ನು ಬಳಸೋಣ. $\\sin(60^\\circ)$ ಸಮನಾಗಿರುತ್ತದೆ $\\frac{h}{10}$. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, $\\sin(60^\\circ)$ ಯ ಬೆಲೆ $\\frac{\\sqrt{3}}{2}$. ಆದ್ದರಿಂದ, $\\frac{\\sqrt{3}}{2} = \\frac{h}{10}$. ಇದನ್ನು ಬಿಡಿಸಿದಾಗ, $h = 10 \\times \\frac{\\sqrt{3}}{2}$, ಅಂದರೆ $5\\sqrt{3}$ ಮೀಟರ್. ಹೀಗೆ ನಾವು ಎತ್ತರವನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "display_bullets": [
+    "**ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ:** ವಿಕರ್ಣ (ಏಣಿಯ ಉದ್ದ) = 10 m, ಕೋನ $\\theta = 60^\\circ$.",
+    "**ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು:** ಅಭಿಮುಖ ಬಾಹು (ಎತ್ತರ $h$).",
+    "**ಸೂತ್ರದ ಅನ್ವಯ:** $\\sin(60^\\circ) = \\frac{h}{10}$.",
+    "**ಲೆಕ್ಕಾಚಾರ:** $\\frac{\\sqrt{3}}{2} = \\frac{h}{10} \\implies h = 10 \\times \\frac{\\sqrt{3}}{2} = 5\\sqrt{3}$ m."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A ladder leaning against a vertical wall. The ladder forms the hypotenuse of a right-angled triangle. The length of the ladder is marked as 10m. The angle the ladder makes with the ground is 60 degrees. The height the ladder reaches on the wall is marked as 'h' (the opposite side).",
+    "labels": "Wall, Ground, Ladder (10m), Angle (60°), Height (h)",
+    "mathematical_significance": "A practical application scenario for the sine formula, where the hypotenuse and an angle are known, and the opposite side needs to be found.",
+    "placeholder_note": "Image to be generated for the ladder problem."
+  },
+  "chunk_id": "TRI-APP-2_concept_1_chunk_022"
+}

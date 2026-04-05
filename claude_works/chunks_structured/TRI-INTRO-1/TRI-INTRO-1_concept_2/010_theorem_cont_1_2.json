@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಷ್ಪತ್ತಿ: ಹಂತ 2 - ಲಂಬವನ್ನು ಎಳೆಯುವುದು",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು A ಶೃಂಗದಿಂದ BC ಬಾಹುವಿಗೆ ಒಂದು ಲಂಬವನ್ನು ಎಳೆಯೋಣ. ಈ ಲಂಬವು BC ಯನ್ನು D ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸಲಿ. ಸಮಬಾಹು ತ್ರಿಭुಜದಲ್ಲಿ, ಶೃಂಗದಿಂದ ಎಳೆದ ಲಂಬವು ಆಧಾರವನ್ನು ಸಮನಾಗಿ ವಿಭಾಗಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, D ಯು BC ಯ ಮಧ್ಯಬಿಂದುವಾಗುತ್ತದೆ ಮತ್ತು BD ಯ ಉದ್ದವು BC ಯ ಅರ್ಧದಷ್ಟು, ಅಂದರೆ a ಆಗುತ್ತದೆ. ಇದಲ್ಲದೆ, ಈ ಲಂಬವು ಶೃಂಗದಲ್ಲಿನ ಕೋನವನ್ನು ಸಹ ವಿಭಾಗಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, ಕೋನ BAD ಯು 60 ಡಿಗ್ರಿಯ ಅರ್ಧ, ಅಂದರೆ 30 ಡಿಗ್ರಿ ಆಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು A ಶೃಂಗದಿಂದ BC ಬಾಹುವಿಗೆ ಒಂದು ಲಂಬವನ್ನು ಎಳೆಯೋಣ. ಈ ಲಂಬವು BC ಯನ್ನು D ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸಲಿ. ಸಮಬಾಹು ತ್ರಿಭುಜದಲ್ಲಿ, ಶೃಂಗದಿಂದ ಎಳೆದ ಲಂಬವು ಆಧಾರವನ್ನು ಸಮನಾಗಿ ವಿಭಾಗಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, D ಯು BC ಯ ಮಧ್ಯಬಿಂದುವಾಗುತ್ತದೆ ಮತ್ತು $BD$ ಯ ಉದ್ದವು $BC$ ಯ ಅರ್ಧದಷ್ಟು, ಅಂದರೆ $a$ ಆಗುತ್ತದೆ. ಇದಲ್ಲದೆ, ಈ ಲಂಬವು ಶೃಂಗದಲ್ಲಿನ ಕೋನವನ್ನು ಸಹ ವಿಭಾಗಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, $\\angle BAD$ ಯು 60° ಯ ಅರ್ಧ, ಅಂದರೆ 30° ಆಗುತ್ತದೆ.",
+  "display_bullets": [
+    "A ಯಿಂದ BC ಗೆ AD ಲಂಬವನ್ನು ಎಳೆಯಿರಿ.",
+    "D ಯು BC ಯ ಮಧ್ಯಬಿಂದು. ಆದ್ದರಿಂದ, $BD = a$.",
+    "AD ಯು $\\angle A$ ಯನ್ನು ಅರ್ಧಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, $\\angle BAD = 30^\\circ$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ತ್ರಿಭುಜ, ಈಗ A ಯಿಂದ BC ಗೆ AD ಲಂಬವನ್ನು ಎಳೆಯಲಾಗಿದೆ. D ನಲ್ಲಿ ಲಂಬಕೋನ ಚಿಹ್ನೆ ಇದೆ. BD ಭಾಗವನ್ನು 'a' ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಕೋನ BAD ಯನ್ನು 30° ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಲಂಬಕೋನ ತ್ರಿಭುಜ ABD ಯನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, 60°, 30°, 2a, a",
+    "mathematical_significance": "ಸಮಬಾಹು ತ್ರಿಭುಜವನ್ನು ಎರಡು ಸಮರೂಪದ 30-60-90 ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಜಿಸುವುದು.",
+    "placeholder_note": "Image to be generated showing the equilateral triangle with altitude AD drawn. BD is labeled 'a', angle BAD is 30 degrees, and the right angle at D is marked."
+  },
+  "chunk_id": "TRI-INTRO-1_concept_2_chunk_010"
+}

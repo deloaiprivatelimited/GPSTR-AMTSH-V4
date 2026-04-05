@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಈಗ ಸಾಧನೆಯ ಮೊದಲ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ತ್ರಿಭುಜ TPQ ಯನ್ನು ಗಮನಿಸಿ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಬಾಹ್ಯ ಬಿಂದುವಿನಿಂದ ವೃತ್ತಕ್ಕೆ ಎಳೆದ ಸ್ಪರ್ಶಕಗಳ ಉದ್ದವು ಸಮನಾಗಿರುತ್ತದೆ. ಇದು ಪ್ರಮೇಯ 10.2. ಹಾಗಾಗಿ, TP ಯು TQ ಗೆ ಸಮ. ಇದರರ್ಥ, ತ್ರಿಭುಜ TPQ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ. ಆದ್ದರಿಂದ, ಅದರ ಪಾದ ಕೋನಗಳು, ಅಂದರೆ ಕೋನ TPQ ಮತ್ತು ಕೋನ TQP, ಸಮವಾಗಿರುತ್ತವೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಕೋನ PTQ ವನ್ನು 'ತೀಟಾ' ಎಂದು ಭಾವಿಸೋಣ. ತ್ರಿಭುಜದ ಮೂರು ಒಳಕೋನಗಳ ಮೊತ್ತ 180 ಡಿಗ್ರಿ. ಹಾಗಾಗಿ, ಕೋನ TPQ ಮತ್ತು ಕೋನ TQP ಎರಡೂ ಸೇರಿ 180 ಡಿಗ್ರಿ ಮೈನಸ್ ತೀಟಾ ಆಗುತ್ತದೆ. ಇವೆರಡೂ ಸಮವಿರುವುದರಿಂದ, ಪ್ರತಿಯೊಂದು ಕೋನವು 180 ಡಿಗ್ರಿ ಮೈನಸ್ ತೀಟಾ ಭಾಗಿಸು ಎರಡು, ಅಂದರೆ 90 ಡಿಗ್ರಿ ಮೈನಸ್ ತೀಟಾ ಬೈ ಟೂ ಆಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ಸಾಧನೆಯ ಮೊದಲ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, $\\triangle TPQ$ ಯನ್ನು ಗಮನಿಸಿ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಬಾಹ್ಯ ಬಿಂದುವಿನಿಂದ ವೃತ್ತಕ್ಕೆ ಎಳೆದ ಸ್ಪರ್ಶಕಗಳ ಉದ್ದವು ಸಮನಾಗಿರುತ್ತದೆ. ಇದು ಪ್ರಮೇಯ 10.2. ಹಾಗಾಗಿ, $TP = TQ$. ಇದರರ್ಥ, $\\triangle TPQ$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ. ಆದ್ದರಿಂದ, ಅದರ ಪಾದ ಕೋನಗಳು, ಅಂದರೆ $\\angle TPQ$ ಮತ್ತು $\\angle TQP$, ಸಮವಾಗಿರುತ್ತವೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು $\\angle PTQ$ ವನ್ನು '$\\theta$' ಎಂದು ಭಾವಿಸೋಣ. ತ್ರಿಭುಜದ ಮೂರು ಒಳಕೋನಗಳ ಮೊತ್ತ $180^\\circ$. ಹಾಗಾಗಿ, $\\angle TPQ$ ಮತ್ತು $\\angle TQP$ ಎರಡೂ ಸೇರಿ $180^\\circ - \\theta$ ಆಗುತ್ತದೆ. ಇವೆರಡೂ ಸಮವಿರುವುದರಿಂದ, ಪ್ರತಿಯೊಂದು ಕೋನವು $\\frac{180^\\circ - \\theta}{2}$, ಅಂದರೆ $90^\\circ - \\frac{\\theta}{2}$ ಆಗಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿರುವ ಅದೇ ರೇಖಾಚಿತ್ರ. ಇಲ್ಲಿ ತ್ರಿಭುಜ TPQ ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ ಮತ್ತು TP ಮತ್ತು TQ ಬದಿಗಳು ಸಮಾನವೆಂದು ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "O, P, T, Q",
+    "mathematical_significance": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ TPQ ಮತ್ತು ಅದರ ಕೋನಗಳ ಗುಣಲಕ್ಷಣಗಳನ್ನು ವಿವರಿಸಲು.",
+    "placeholder_note": "Reuse diagram, highlight triangle TPQ."
+  },
+  "source_example_id": "GEO-CIR-2_example_5",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಪ್ರಮೇಯ 10.2 ರಿಂದ, $TP = TQ$. ಆದ್ದರಿಂದ, $\\triangle TPQ$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ. $\\implies \\angle TPQ = \\angle TQP$.",
+      "justification": "ಬಾಹ್ಯ ಬಿಂದುವಿನಿಂದ ವೃತ್ತಕ್ಕೆ ಎಳೆದ ಸ್ಪರ್ಶಕಗಳ ಉದ್ದವು ಸಮವಾಗಿರುತ್ತದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\angle PTQ = \\theta$ ಆಗಿರಲಿ. $\\triangle TPQ$ ನಲ್ಲಿ, $\\angle TPQ = \\angle TQP = \\frac{180^\\circ - \\theta}{2} = 90^\\circ - \\frac{\\theta}{2}$.",
+      "justification": "ತ್ರಿಭುಜದ ಒಳಕೋನಗಳ ಮೊತ್ತ $180^\\circ$."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-CIR-2_concept_6_chunk_020"
+}

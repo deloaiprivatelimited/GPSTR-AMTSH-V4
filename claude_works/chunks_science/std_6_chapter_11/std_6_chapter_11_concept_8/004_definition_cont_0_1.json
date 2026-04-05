@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ನೀರು (ಜಲಚಕ್ರ)",
+  "script": "ಒಂದು ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ ಎಂದರೆ ನೀರು. ನೀರು ಹೇಗೆ ನವೀಕರಿಸಲ್ಪಡುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಸೂರ್ಯನ ಶಾಖಕ್ಕೆ ಸಮುದ್ರ ಮತ್ತು ನದಿಗಳಲ್ಲಿನ ನೀರು ಆವಿಯಾಗಿ ಆಕಾಶಕ್ಕೆ ಹೋಗುತ್ತದೆ. ನಂತರ, ಈ ಆವಿಯು ತಣ್ಣಗಾಗಿ ಘನೀಕರಿಸಿ ಮೋಡಗಳಾಗಿ ಬದಲಾಗುತ್ತದೆ. ಈ ಮೋಡಗಳಿಂದ ಮಳೆಯಾಗಿ ನೀರು ಮತ್ತೆ ಭೂಮಿಗೆ, ನದಿಗಳಿಗೆ ಮತ್ತು ಸಮುದ್ರಗಳಿಗೆ ಮರಳುತ್ತದೆ. ಈ ನಿರಂತರವಾದ ಜಲಚಕ್ರದ ಮೂಲಕ, ನೀರು ಒಂದು ನವೀಕರಿಸಬಹುದಾದ ಸಂಪನ್ಮೂಲವಾಗಿ ನಮಗೆ ಲಭ್ಯವಾಗುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ನೀರನ್ನು ನವೀಕರಿಸಬಹುದಾದ ಸಂಪನ್ಮೂಲ ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ ಎಂದರೆ ನೀರು. ನೀರು ಹೇಗೆ ನವೀಕರಿಸಲ್ಪಡುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಸೂರ್ಯನ ಶಾಖಕ್ಕೆ ಸಮುದ್ರ ಮತ್ತು ನದಿಗಳಲ್ಲಿನ ನೀರು ಆವಿಯಾಗುತ್ತದೆ. ನಂತರ, ಈ ಆವಿಯು ತಣ್ಣಗಾಗಿ ಘನೀಕರಿಸಿ ಮೋಡಗಳಾಗುತ್ತವೆ. ಈ ಮೋಡಗಳಿಂದ ಮಳೆಯಾಗಿ ನೀರು ಮತ್ತೆ ಭೂಮಿಗೆ, ನದಿಗಳಿಗೆ ಮತ್ತು ಸಮುದ್ರಗಳಿಗೆ ಮರಳುತ್ತದೆ. ಈ ನಿರಂತರವಾದ ಜಲಚಕ್ರದ (Water Cycle) ಮೂಲಕ, ನೀರು ಒಂದು ನವೀಕರಿಸಬಹುದಾದ ಸಂಪನ್ಮೂಲವಾಗಿ ನಮಗೆ ಲಭ್ಯವಾಗುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ನೀರನ್ನು ನವೀಕರಿಸಬಹುದಾದ ಸಂಪನ್ಮೂಲ ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸಮುದ್ರದ ನೀರು ಸೂರ್ಯನ ಶಾಖದಿಂದ ಆವಿಯಾಗುತ್ತದೆ.",
+    "ಆವಿ ಘನೀಕರಿಸಿ ಮೋಡಗಳಾಗುತ್ತವೆ.",
+    "ಮೋಡಗಳಿಂದ ಮಳೆಯಾಗಿ ನೀರು ಭೂಮಿಗೆ ಮರಳುತ್ತದೆ.",
+    "ಈ ಚಕ್ರವು ನೀರನ್ನು ನಿರಂತರವಾಗಿ ನವೀಕರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of the water cycle showing evaporation from a body of water, condensation into clouds, precipitation as rain, and collection back into the water body.",
+    "labels": "Evaporation (ಆವೀಕರಣ), Condensation (ಘನೀಕರಣ), Precipitation (ಮಳೆ), Collection (ಸಂಗ್ರಹ)",
+    "scientific_significance": "Illustrates the natural process that makes water a renewable resource.",
+    "placeholder_note": "Image to be generated: A clear, labeled diagram of the water cycle."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "chunk_id": "std_6_chapter_11_concept_8_chunk_004"
+}

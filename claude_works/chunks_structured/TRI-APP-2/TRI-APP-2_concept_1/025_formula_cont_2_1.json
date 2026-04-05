@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕೋಸೈನ್ ಅನುಪಾತವನ್ನು ಯಾವಾಗ ಬಳಸಬೇಕು?",
+  "script": "ಹಾಗಾದರೆ, ಯಾವ ಸಂದರ್ಭಗಳಲ್ಲಿ ನಾವು ಕೋಸೈನ್ ಅನುಪಾತವನ್ನು ಬಳಸಬೇಕು? ಮುಖ್ಯವಾಗಿ ಮೂರು ಅಳತೆಗಳನ್ನು ಗಮನಿಸಿ: ಕೋನ, ಪಾರ್ಶ್ವ ಬಾಹು ಮತ್ತು ವಿಕರ್ಣ. ಇವುಗಳಲ್ಲಿ ಯಾವುದಾದರೂ ಎರಡನ್ನು ಕೊಟ್ಟು ಮೂರನೆಯದನ್ನು ಕಂಡುಹಿಡಿಯಲು ಹೇಳಿದಾಗ ಕೋಸೈನ್ ಸೂಕ್ತವಾಗಿದೆ. ಉದಾಹರಣೆಗೆ, ನಿಮಗೆ ಕೋನ ಮತ್ತು ವಿಕರ್ಣದ ಉದ್ದ ತಿಳಿದಿದ್ದರೆ, ಪಾರ್ಶ್ವ ಬಾಹುವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೋಸೈನ್ ಬಳಸಿ. ಅಂದರೆ, ಏಣಿಯ ಉದ್ದ ಮತ್ತು ಅದು ನೆಲದೊಂದಿಗೆ ಮಾಡುವ ಕೋನ ತಿಳಿದಿದ್ದರೆ, ಗೋಡೆಯಿಂದ ಏಣಿಯ ಪಾದಕ್ಕಿರುವ ದೂರವನ್ನು ಲೆಕ್ಕ ಹಾಕಬಹುದು. ಹಾಗೆಯೇ, ನಿಮಗೆ ಕೋನ ಮತ್ತು ಪಾರ್ಶ್ವ ಬಾಹು ತಿಳಿದಿದ್ದರೆ, ವಿಕರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಇದು ಸೈನ್ ಮತ್ತು ಟ್ಯಾನ್ ಅನುಪಾತಗಳಿಗಿಂತ ಭಿನ್ನವಾಗಿದೆ, ಏಕೆಂದರೆ ಇದು ಎತ್ತರವನ್ನು (ಎದುರು ಬಾಹು) ಪರಿಗಣಿಸುವುದಿಲ್ಲ.",
+  "script_display": "ಹಾಗಾದರೆ, ಯಾವ ಸಂದರ್ಭಗಳಲ್ಲಿ ನಾವು ಕೋಸೈನ್ ಅನುಪಾತವನ್ನು ಬಳಸಬೇಕು? ಮುಖ್ಯವಾಗಿ ಮೂರು ಅಳತೆಗಳನ್ನು ಗಮನಿಸಿ: ಕೋನ, ಪಾರ್ಶ್ವ ಬಾಹು ಮತ್ತು ವಿಕರ್ಣ. ಇವುಗಳಲ್ಲಿ ಯಾವುದಾದರೂ ಎರಡನ್ನು ಕೊಟ್ಟು ಮೂರನೆಯದನ್ನು ಕಂಡುಹಿಡಿಯಲು ಹೇಳಿದಾಗ ಕೋಸೈನ್ ಸೂಕ್ತವಾಗಿದೆ. ಉದಾಹರಣೆಗೆ, ನಿಮಗೆ ಕೋನ ($\\theta$) ಮತ್ತು ವಿಕರ್ಣದ ಉದ್ದ ತಿಳಿದಿದ್ದರೆ, ಪಾರ್ಶ್ವ ಬಾಹುವನ್ನು ಕಂಡುಹಿಡಿಯಲು `cos` ಬಳಸಿ. ಅಂದರೆ, ಏಣಿಯ ಉದ್ದ ಮತ್ತು ಅದು ನೆಲದೊಂದಿಗೆ ಮಾಡುವ ಕೋನ ತಿಳಿದಿದ್ದರೆ, ಗೋಡೆಯಿಂದ ಏಣಿಯ ಪಾದಕ್ಕಿರುವ ದೂರವನ್ನು ಲೆಕ್ಕ ಹಾಕಬಹುದು. ಹಾಗೆಯೇ, ನಿಮಗೆ ಕೋನ ($\\theta$) ಮತ್ತು ಪಾರ್ಶ್ವ ಬಾಹು ತಿಳಿದಿದ್ದರೆ, ವಿಕರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಇದು `sin` ಮತ್ತು `tan` ಅನುಪಾತಗಳಿಗಿಂತ ಭಿನ್ನವಾಗಿದೆ, ಏಕೆಂದರೆ ಇದು ಎತ್ತರವನ್ನು (ಎದುರು ಬಾಹು) ಪರಿಗಣಿಸುವುದಿಲ್ಲ.",
+  "display_bullets": [
+    "ನಿಮಗೆ ತಿಳಿದಿರುವುದು: ಕೋನ ($\\theta$) ಮತ್ತು ವಿಕರ್ಣ. ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: ಪಾರ್ಶ್ವ ಬಾಹು.",
+    "ನಿಮಗೆ ತಿಳಿದಿರುವುದು: ಕೋನ ($\\theta$) ಮತ್ತು ಪಾರ್ಶ್ವ ಬಾಹು. ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: ವಿಕರ್ಣ.",
+    "ಸಾರಾಂಶ: ಕೋಸೈನ್, ಕೋನವನ್ನು ನೆಲದ ಮೇಲಿನ ದೂರ (ಪಾರ್ಶ್ವ ಬಾಹು) ಮತ್ತು ಓರೆಯಾದ ದೂರ (ವಿಕರ್ಣ) ದೊಂದಿಗೆ ಸಂಬಂಧಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right-angled triangle illustrating a practical scenario for cosine. A ladder (hypotenuse) is leaning against a wall. The distance from the wall's base to the ladder's foot is the adjacent side. The angle θ is between the ladder and the ground.",
+    "labels": "Hypotenuse (ಏಣಿ), Adjacent Side (ನೆಲದ ಮೇಲಿನ ದೂರ), Angle θ",
+    "mathematical_significance": "Visually connects the terms of the cosine formula to a real-world example, making it clear when to use it.",
+    "placeholder_note": "Image to be generated showing a ladder against a wall, with hypotenuse, adjacent side, and angle theta clearly marked."
+  },
+  "chunk_id": "TRI-APP-2_concept_1_chunk_025"
+}

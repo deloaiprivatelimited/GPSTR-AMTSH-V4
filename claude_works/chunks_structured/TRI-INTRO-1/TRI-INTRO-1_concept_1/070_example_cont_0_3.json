@@ -1,0 +1,31 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಮಗೆ ಕೊಟ್ಟಿದ್ದ ಸೈನ್ A ಸಮ ಒಂದು ಬೈ ಮೂರು ಬಳಸಿ, ಉಳಿದ ಅನುಪಾತಗಳನ್ನು ನಾವು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಕೋಸೈನ್ A ಸಮ ಎರಡು ರೂಟ್ ಎರಡು ಬೈ ಮೂರು, ಟ್ಯಾಂಜೆಂಟ್ A ಸಮ ಒಂದು ಬೈ ಎರಡು ರೂಟ್ ಎರಡು. ಹಾಗೆಯೇ, ಇವುಗಳ ವ್ಯುತ್ಕ್ರಮಗಳಾದ ಕೋಸಿಕೆಂಟ್ A ಸಮ ಮೂರು, ಸಿಕೆಂಟ್ A ಸಮ ಮೂರು ಬೈ ಎರಡು ರೂಟ್ ಎರಡು, ಮತ್ತು ಕೋಟ್ಯಾಂಜೆಂಟ್ A ಸಮ ಎರಡು ರೂಟ್ ಎರಡು ಆಗಿರುತ್ತದೆ. ಈ ರೀತಿ ಒಂದು ಅನುಪಾತ ಕೊಟ್ಟಾಗ, ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಬಳಸಿ ಉಳಿದ ಎಲ್ಲಾ ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "script_display": "ಹೀಗೆ, ನಮಗೆ ಕೊಟ್ಟಿದ್ದ $\\sin A = \\frac{1}{3}$ ಬಳಸಿ, ಉಳಿದ ಅನುಪಾತಗಳನ್ನು ನಾವು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. $\\cos A = \\frac{2\\sqrt{2}}{3}$, $\\tan A = \\frac{1}{2\\sqrt{2}}$. ಹಾಗೆಯೇ, ಇವುಗಳ ವ್ಯುತ್ಕ್ರಮಗಳಾದ $\\text{cosec } A = 3$, $\\sec A = \\frac{3}{2\\sqrt{2}}$, ಮತ್ತು $\\cot A = 2\\sqrt{2}$ ಆಗಿರುತ್ತದೆ. ಈ ರೀತಿ ಒಂದು ಅನುಪಾತ ಕೊಟ್ಟಾಗ, ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಬಳಸಿ ಉಳಿದ ಎಲ್ಲಾ ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "TRI-INTRO-1_example_p6",
+  "steps": [],
+  "final_answer": "sin A = 1/3, cos A = (2√2)/3, tan A = 1/(2√2), cosec A = 3, sec A = 3/(2√2), cot A = 2√2",
+  "final_answer_display": "$\\sin A = \\frac{1}{3} \\quad (\\text{ದತ್ತ}) \\newline \\cos A = \\frac{2\\sqrt{2}}{3} \\newline \\tan A = \\frac{1}{2\\sqrt{2}} \\newline \\text{cosec } A = 3 \\newline \\sec A = \\frac{3}{2\\sqrt{2}} \\newline \\cot A = 2\\sqrt{2}$",
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_070"
+}

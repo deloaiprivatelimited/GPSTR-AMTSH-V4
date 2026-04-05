@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ತ್ರಿಭುಜದ ರಚನೆ ಸಾಧ್ಯವೇ?",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಹತ್ತು ಪಾಯಿಂಟ್ ಎರಡು ಸೆಂಟಿಮೀಟರ್, ಐದು ಪಾಯಿಂಟ್ ಎಂಟು ಸೆಂಟಿಮೀಟರ್, ಮತ್ತು ನಾಲ್ಕು ಪಾಯಿಂಟ್ ಐದು ಸೆಂಟಿಮೀಟರ್ ಉದ್ದದ ಬಾಹುಗಳಿರುವ ತ್ರಿಭುಜವನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವೇ ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ನಮಗೆ ಮೂರು ಬಾಹುಗಳ ಅಳತೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ಈ ಅಳತೆಗಳು ತ್ರಿಭುಜದ ಅಸಮಾನತೆಯ ಗುಣವನ್ನು ಪಾಲಿಸುತ್ತವೆಯೇ ಎಂದು ನಾವು ಪರೀಕ್ಷಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 10.2 cm, 5.8 cm, ಮತ್ತು 4.5 cm ಉದ್ದದ ಬಾಹುಗಳಿರುವ ತ್ರಿಭುಜವನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವೇ ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ನಮಗೆ ಮೂರು ಬಾಹುಗಳ ಅಳತೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ಈ ಅಳತೆಗಳು ತ್ರಿಭುಜದ ಅಸಮಾನತೆಯ ಗುಣವನ್ನು ಪಾಲಿಸುತ್ತವೆಯೇ ಎಂದು ನಾವು ಪರೀಕ್ಷಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಬಾಹುಗಳು: 10.2 cm, 5.8 cm, 4.5 cm",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಈ ಅಳತೆಗಳಿಂದ ತ್ರಿಭುಜವನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವೇ?",
+    "ಬಳಸುವ ನಿಯಮ: ತ್ರಿಭುಜದ ಅಸಮಾನತೆಯ ಗುಣ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "a+b > c \\\\ b+c > a \\\\ a+c > b",
+    "placeholder_note": "A box showing the three conditions of the triangle inequality theorem."
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-1_example_3",
+  "chunk_id": "GEO-TRI-1_concept_4_chunk_005"
+}

@@ -1,0 +1,123 @@
+{
+  "module_id": "std_6_chapter_2_concept_5",
+  "chapter_code": "std_6_chapter_2",
+  "voice": "Algenib",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 446.03,
+  "total_duration_formatted": "7:26",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_2_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪ್ರಾಣಿಗಳ ವರ್ಗೀಕರಣ: ಆವಾಸಸ್ಥಾನ ಮತ್ತು ಚಲನೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 53.171,
+      "duration": 53.171,
+      "script_words": 80
+    },
+    {
+      "chunk_id": "std_6_chapter_2_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 53.771,
+      "end": 78.222,
+      "duration": 24.451,
+      "script_words": 34
+    },
+    {
+      "chunk_id": "std_6_chapter_2_concept_5_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಪ್ರಾಣಿಗಳ ವರ್ಗೀಕರಣ: ಆವಾಸಸ್ಥಾನ",
+      "type": "concept_explanation",
+      "start": 78.822,
+      "end": 120.313,
+      "duration": 41.491,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_2_concept_5_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಆವಾಸಸ್ಥಾನದ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "start": 120.913,
+      "end": 164.684,
+      "duration": 43.771,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_2_concept_5_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಆವಾಸಸ್ಥಾನದ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "start": 165.284,
+      "end": 208.095,
+      "duration": 42.811,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "std_6_chapter_2_concept_5_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಆವಾಸಸ್ಥಾನದ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "start": 208.695,
+      "end": 254.546,
+      "duration": 45.851,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_2_concept_5_chunk_007",
+      "chunk_file": "007_classification_1.json",
+      "wav_file": "007_classification_1.wav",
+      "slide_title": "ಚಲನೆಯ ಆಧಾರದ ಮೇಲೆ ಪ್ರಾಣಿಗಳ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "start": 255.146,
+      "end": 296.077,
+      "duration": 40.931,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_2_concept_5_chunk_008",
+      "chunk_file": "008_classification_cont_1_1.json",
+      "wav_file": "008_classification_cont_1_1.wav",
+      "slide_title": "ಚಲನೆಯ ವಿಧಾನಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "start": 296.677,
+      "end": 341.448,
+      "duration": 44.771,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_6_chapter_2_concept_5_chunk_009",
+      "chunk_file": "009_classification_cont_1_2.json",
+      "wav_file": "009_classification_cont_1_2.wav",
+      "slide_title": "ಚಲನೆಯ ವಿಧಾನಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "start": 342.048,
+      "end": 393.219,
+      "duration": 51.171,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_6_chapter_2_concept_5_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಆವಾಸಸ್ಥಾನ ಮತ್ತು ಚಲನೆ",
+      "type": "recap",
+      "start": 393.819,
+      "end": 445.43,
+      "duration": 51.611,
+      "script_words": 66
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ವಿಭವಾಂತರವನ್ನು (V) ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ನಮ್ಮ ಹತ್ತಿರ ಪ್ರವಾಹ I ಮತ್ತು ರೋಧ R ಇವೆ. ಓಮ್‌ನ ನಿಯಮವನ್ನು ಬಳಸಿ ನಾವು ಸುಲಭವಾಗಿ ವಿಭವಾಂತರ V ಅನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಓಮ್‌ನ ನಿಯಮದ ಸೂತ್ರ V equals I R. ಇಲ್ಲಿ, ನಾವು ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ಕಂಡುಕೊಂಡ I ನ ಬೆಲೆ 5 ಆಂಪಿಯರ್ ಮತ್ತು ನಮಗೆ ಕೊಟ್ಟಿರುವ R ನ ಬೆಲೆ 4 ಓಮ್. ಹಾಗಾಗಿ, V equals 5 ಗುಣಿಸು 4, ಅಂದರೆ 20 ವೋಲ್ಟ್. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "script_display": "ಈಗ ನಮ್ಮ ಹತ್ತಿರ ಪ್ರವಾಹ (I) ಮತ್ತು ರೋಧ (R) ಇವೆ. ಓಮ್‌ನ ನಿಯಮವನ್ನು ಬಳಸಿ ನಾವು ಸುಲಭವಾಗಿ ವಿಭವಾಂತರ (V) ಅನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಓಮ್‌ನ ನಿಯಮದ ಸೂತ್ರ V = IR. ಇಲ್ಲಿ, ನಾವು ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ಕಂಡುಕೊಂಡ I ನ ಬೆಲೆ 5 A ಮತ್ತು ನಮಗೆ ಕೊಟ್ಟಿರುವ R ನ ಬೆಲೆ 4 Ω. ಹಾಗಾಗಿ, V = 5 × 4, ಅಂದರೆ 20 V. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "display_bullets": [
+    "ಈಗ, ಓಮ್‌ನ ನಿಯಮವನ್ನು ಬಳಸಿ ವಿಭವಾಂತರವನ್ನು (V) ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಸೂತ್ರ: V = IR",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: V = 5 A × 4 Ω = 20 V"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_physics_green",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "V = IR",
+    "placeholder_note": "Ohm's law formula"
+  },
+  "source_example_id": "std_10_chapter_11_example_11.11",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಓಮ್‌ನ ನಿಯಮದಿಂದ ವಿಭವಾಂತರವನ್ನು (V) ಕಂಡುಹಿಡಿಯುವುದು: V = IR = 5 A × 4 Ω = 20 V.",
+      "justification": "ಪ್ರವಾಹ ಮತ್ತು ರೋಧವನ್ನು ಬಳಸಿ ವಿಭವಾಂತರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು."
+    }
+  ],
+  "chunk_id": "std_10_chapter_11_concept_7_chunk_016"
+}

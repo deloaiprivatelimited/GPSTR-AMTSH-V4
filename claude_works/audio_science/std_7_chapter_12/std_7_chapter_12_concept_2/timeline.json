@@ -1,0 +1,112 @@
+{
+  "module_id": "std_7_chapter_12_concept_2",
+  "chapter_code": "std_7_chapter_12",
+  "voice": "Charon",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 9,
+  "total_duration": 388.099,
+  "total_duration_formatted": "6:28",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_12_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಕಾಡಿನ ಉತ್ಪನ್ನಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 53.411,
+      "duration": 53.411,
+      "script_words": 77
+    },
+    {
+      "chunk_id": "std_7_chapter_12_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 54.011,
+      "end": 76.862,
+      "duration": 22.851,
+      "script_words": 35
+    },
+    {
+      "chunk_id": "std_7_chapter_12_concept_2_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಕಾಡಿನ ಪ್ರಮುಖ ಉತ್ಪನ್ನಗಳು",
+      "type": "concept_explanation",
+      "start": 77.462,
+      "end": 103.153,
+      "duration": 25.691,
+      "script_words": 43
+    },
+    {
+      "chunk_id": "std_7_chapter_12_concept_2_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಮರ-ಆಧಾರಿತ ಉತ್ಪನ್ನಗಳು",
+      "type": "concept_explanation",
+      "start": 103.753,
+      "end": 153.084,
+      "duration": 49.331,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_7_chapter_12_concept_2_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಮರ-ಆಧಾರಿತ ಉತ್ಪನ್ನಗಳು (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "start": 153.684,
+      "end": 193.695,
+      "duration": 40.011,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "std_7_chapter_12_concept_2_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಮರವಲ್ಲದ ಉತ್ಪನ್ನಗಳು",
+      "type": "concept_explanation",
+      "start": 194.295,
+      "end": 251.346,
+      "duration": 57.051,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_7_chapter_12_concept_2_chunk_007",
+      "chunk_file": "007_classification_cont_0_4.json",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "slide_title": "ಮರವಲ್ಲದ ಉತ್ಪನ್ನಗಳು (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "start": 251.946,
+      "end": 298.837,
+      "duration": 46.891,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_7_chapter_12_concept_2_chunk_008",
+      "chunk_file": "008_classification_cont_0_5.json",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "slide_title": "ಮರವಲ್ಲದ ಉತ್ಪನ್ನಗಳು (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "start": 299.437,
+      "end": 345.568,
+      "duration": 46.131,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "std_7_chapter_12_concept_2_chunk_009",
+      "chunk_file": "009_recap_0.json",
+      "wav_file": "009_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 346.168,
+      "end": 387.499,
+      "duration": 41.331,
+      "script_words": 49
+    }
+  ]
+}

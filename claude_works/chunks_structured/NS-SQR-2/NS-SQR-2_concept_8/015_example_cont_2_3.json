@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ದೀರ್ಘ ಭಾಗಾಕಾರ (ಮುಂದುವರಿದಿದೆ)",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಾವು ಮುಂದಿನ ಜೋಡಿ, ಅಂದರೆ 01 ಅನ್ನು ಶೇಷ 8 ರ ಪಕ್ಕದಲ್ಲಿ ಕೆಳಗೆ ತರುತ್ತೇವೆ. ಇದರಿಂದ ಹೊಸ ಭಾಜ್ಯ 801 ಆಗುತ್ತದೆ. ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಭಾಗಲಬ್ಧದಲ್ಲಿರುವ 4 ಅನ್ನು ದ್ವಿಗುಣಗೊಳಿಸುತ್ತೇವೆ, ಅದು 8 ಆಗುತ್ತದೆ. ಈ 8 ನಮ್ಮ ಹೊಸ ಭಾಜಕದ ಮೊದಲ ಅಂಕಿಯಾಗುತ್ತದೆ. ಈಗ ನಾವು 8 ರ ಪಕ್ಕದಲ್ಲಿ ಒಂದು ಅಂಕಿಯನ್ನು ಸೇರಿಸಬೇಕು, ಮತ್ತು ಅದೇ ಅಂಕಿಯಿಂದ ಗುಣಿಸಿದಾಗ 801 ಅಥವಾ ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ಸಂಖ್ಯೆ ಬರಬೇಕು. ನಾವು 89 ಅನ್ನು 9 ರಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ ನಿಖರವಾಗಿ 801 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಾವು ಭಾಗಲಬ್ಧದಲ್ಲಿ 9 ಅನ್ನು ಬರೆಯುತ್ತೇವೆ. 801 ರಿಂದ 801 ಅನ್ನು ಕಳೆದಾಗ ಶೇಷ ಸೊನ್ನೆ ಬರುತ್ತದೆ. ಭಾಗಾಕಾರ ಪೂರ್ಣಗೊಂಡಿದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಾವು ಮುಂದಿನ ಜೋಡಿ, ಅಂದರೆ 01 ಅನ್ನು ಶೇಷ 8 ರ ಪಕ್ಕದಲ್ಲಿ ಕೆಳಗೆ ತರುತ್ತೇವೆ. ಇದರಿಂದ ಹೊಸ ಭಾಜ್ಯ 801 ಆಗುತ್ತದೆ. ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಭಾಗಲಬ್ಧದಲ್ಲಿರುವ 4 ಅನ್ನು ದ್ವಿಗುಣಗೊಳಿಸುತ್ತೇವೆ, ಅದು 8 ಆಗುತ್ತದೆ. ಈ 8 ನಮ್ಮ ಹೊಸ ಭಾಜಕದ ಮೊದಲ ಅಂಕಿಯಾಗುತ್ತದೆ. ಈಗ ನಾವು 8 ರ ಪಕ್ಕದಲ್ಲಿ ಒಂದು ಅಂಕಿಯನ್ನು ($y$) ಸೇರಿಸಬೇಕು, ಮತ್ತು ಅದೇ ಅಂಕಿಯಿಂದ ($y$) ಗುಣಿಸಿದಾಗ ($8y \\times y$) 801 ಅಥವಾ ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ಸಂಖ್ಯೆ ಬರಬೇಕು. ನಾವು $89 \\times 9$ ಮಾಡಿದಾಗ, ನಮಗೆ ನಿಖರವಾಗಿ 801 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಾವು ಭಾಗಲಬ್ಧದಲ್ಲಿ 9 ಅನ್ನು ಬರೆಯುತ್ತೇವೆ. $801 - 801$ ಮಾಡಿದಾಗ ಶೇಷ 0 ಬರುತ್ತದೆ. ಭಾಗಾಕಾರ ಪೂರ್ಣಗೊಂಡಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Completed long division for square root of 2401. This image continues from the previous slide. It shows the new dividend 801. The new divisor is 89, and 9 is added to the quotient. 89 times 9 is 801, which is subtracted, leaving a remainder of 0. The final quotient is 49.",
+    "labels": "New Dividend, New Divisor, Final Quotient",
+    "mathematical_significance": "Illustrates the iterative process of the long division method for square roots, culminating in the final answer.",
+    "placeholder_note": "Image to be generated showing the complete long division for sqrt(2401)."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SQR-2_example_15",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಮುಂದಿನ ಜೋಡಿ 01 ನ್ನು ಕೆಳಗೆ ತನ್ನಿ. ಹೊಸ ಭಾಜ್ಯ 801.",
+      "justification": "ಮುಂದಿನ ಅಂಕಿಯ ಜೋಡಿಯನ್ನು ಕೆಳಗೆ ತರುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "ಭಾಗಲಬ್ಧ 4 ನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿ (8). ಹೊಸ ಭಾಜಕ $8y$ ಆಗಿರುತ್ತದೆ.",
+      "justification": "ಹೊಸ ಭಾಜಕವನ್ನು ರೂಪಿಸುವುದು."
+    },
+    {
+      "step": 5,
+      "action_display": "$89 \\times 9 = 801$. ಭಾಗಲಬ್ಧಕ್ಕೆ 9 ಸೇರಿಸಿ. \\\\ ಶೇಷ: $801 - 801 = 0$.",
+      "justification": "ಸರಿಯಾದ ಅಂಕಿಯನ್ನು ಕಂಡುಹಿಡಿದು ಭಾಗಾಕಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "NS-SQR-2_concept_8_chunk_015"
+}

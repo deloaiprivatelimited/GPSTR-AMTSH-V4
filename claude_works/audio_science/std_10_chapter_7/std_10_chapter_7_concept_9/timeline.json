@@ -1,0 +1,90 @@
+{
+  "module_id": "std_10_chapter_7_concept_9",
+  "chapter_code": "std_10_chapter_7",
+  "voice": "Achird",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 283.317,
+  "total_duration_formatted": "4:43",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_7_concept_9_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಮನುಷ್ಯರಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹಗಳು",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 43.051,
+      "duration": 43.051,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "std_10_chapter_7_concept_9_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 43.651,
+      "end": 73.222,
+      "duration": 29.571,
+      "script_words": 37
+    },
+    {
+      "chunk_id": "std_10_chapter_7_concept_9_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಗಂಡು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹ",
+      "type": "concept_explanation",
+      "start": 73.822,
+      "end": 111.393,
+      "duration": 37.571,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_10_chapter_7_concept_9_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಗಂಡು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹ (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "start": 111.993,
+      "end": 151.004,
+      "duration": 39.011,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_10_chapter_7_concept_9_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಹೆಣ್ಣು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹ",
+      "type": "concept_explanation",
+      "start": 151.604,
+      "end": 203.575,
+      "duration": 51.971,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_10_chapter_7_concept_9_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಹೆಣ್ಣು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹ (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "start": 204.175,
+      "end": 245.546,
+      "duration": 41.371,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_10_chapter_7_concept_9_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "start": 246.146,
+      "end": 282.717,
+      "duration": 36.571,
+      "script_words": 48
+    }
+  ]
+}

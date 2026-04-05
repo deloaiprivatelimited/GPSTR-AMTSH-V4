@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರತಿಫಲನ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?",
+  "script": "ಈಗ ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಒಂದು ನಯವಾದ ಮೇಲ್ಮೈ ಇದೆ, ಉದಾಹರಣೆಗೆ ಕನ್ನಡಿ. ಒಂದು ಬೆಳಕಿನ ಕಿರಣವು ಗಾಳಿಯ ಮೂಲಕ ಬಂದು ಕನ್ನಡಿಯ ಮೇಲೆ ಬೀಳುತ್ತಿದೆ. ಈ ಕಿರಣವನ್ನು ನಾವು ಪತನ ಕಿರಣ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಮೇಲ್ಮೈಗೆ ಬಡಿದ ನಂತರ, ಬೆಳಕು ಹಿಂತಿರುಗುತ್ತದೆ. ಹೀಗೆ ಹಿಂತಿರುಗುವ ಕಿರಣವನ್ನು ಪ್ರತಿಫಲಿತ ಕಿರಣ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈ ವಿದ್ಯಮಾನವೇ ಬೆಳಕಿನ ಪ್ರತಿಫಲನ. ಇದೇ ಕಾರಣದಿಂದ ನಾವು ಕನ್ನಡಿಯಲ್ಲಿ ನಮ್ಮ ಪ್ರತಿಬಿಂಬವನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಇದು ತುಂಬಾ ಸರಳವಾದ ಪ್ರಕ್ರಿಯೆ.",
+  "script_display": "ಈಗ ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಒಂದು ನಯವಾದ ಮೇಲ್ಮೈ (ಉದಾ: ಕನ್ನಡಿ) ಇದೆ.",
+  "display_bullets": [
+    "ಬೆಳಕಿನ ಕಿರಣವು ಮೇಲ್ಮೈ ಮೇಲೆ ಬೀಳುತ್ತದೆ (ಪತನ ಕಿರಣ).",
+    "ಮೇಲ್ಮೈಗೆ ಬಡಿದ ನಂತರ, ಬೆಳಕು ಹಿಂತಿರುಗುತ್ತದೆ (ಪ್ರತಿಫಲಿತ ಕಿರಣ).",
+    "ಈ ವಿದ್ಯಮಾನವೇ 'ಬೆಳಕಿನ ಪ್ರತಿಫಲನ'."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_dark_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing reflection of light from a plane surface. An incident ray hits the surface and a reflected ray bounces off. The normal is shown as a dotted line perpendicular to the surface. Label 'Incident Ray' (ಪತನ ಕಿರಣ), 'Reflected Ray' (ಪ್ರತಿಫಲಿತ ಕಿರಣ), 'Normal' (ಲಂಬ), and 'Reflecting Surface' (ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈ).",
+    "labels": "ಪತನ ಕಿರಣ, ಪ್ರತಿಫಲಿತ ಕಿರಣ, ಲಂಬ, ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈ",
+    "scientific_significance": "Illustrates the basic principle of reflection, showing the path of light before and after hitting a surface.",
+    "placeholder_note": "Image to be generated showing a light ray reflecting off a mirror."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_9_concept_1_chunk_004"
+}

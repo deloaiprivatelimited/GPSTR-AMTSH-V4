@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+  "script": "ದ್ರಾವಣವನ್ನು ಕಾಯಿಸುವುದನ್ನು ಮುಂದುವರಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ? ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಚೀನಾ ಪಾತ್ರೆಯಲ್ಲಿದ್ದ ನೀರೆಲ್ಲವೂ ಆವಿಯಾಗಿ ಹೋಗುತ್ತದೆ. ನೀವು ಗಮನಿಸಬಹುದು, ಪಾತ್ರೆಯ ತಳದಲ್ಲಿ ಬಿಳಿಯ ಬಣ್ಣದ ಪುಡಿಯಂತಹ ವಸ್ತು ಉಳಿದುಕೊಂಡಿರುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ಇದೇ ನಾವು ದ್ರಾವಣದಲ್ಲಿ ಕರಗಿಸಿದ್ದ ಉಪ್ಪು. ಇದರಿಂದ ನಾವು ಯಾವ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು? ಆವೀಕರಣ ಎಂಬ ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕ, ದ್ರವದಲ್ಲಿ ಕರಗಿರುವ ಘನ ವಸ್ತುವನ್ನು ನಾವು ಯಶಸ್ವಿಯಾಗಿ ಬೇರ್ಪಡಿಸಬಹುದು. ಇದು ಸಮುದ್ರದ ನೀರಿನಿಂದ ಉಪ್ಪನ್ನು ತಯಾರಿಸುವ ಮೂಲ ತತ್ವವಾಗಿದೆ. ಅಲ್ಲಿ ಸೂರ್ಯನ ಶಾಖದಿಂದ ನೀರು ಆವಿಯಾಗುತ್ತದೆ ಮತ್ತು ಉಪ್ಪು ಉಳಿಯುತ್ತದೆ.",
+  "script_display": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+  "display_bullets": [
+    "ವೀಕ್ಷಣೆ: ನೀರು ಆವಿಯಾದ ನಂತರ, ಪಾತ್ರೆಯ ತಳದಲ್ಲಿ ಬಿಳಿಯ ಪುಡಿ (ಉಪ್ಪು) ಉಳಿಯುತ್ತದೆ.",
+    "ತೀರ್ಮಾನ: ಆವೀಕರಣದ (Evaporation) ಮೂಲಕ ದ್ರವದಲ್ಲಿ ಕರಗಿದ ಘನವನ್ನು ಬೇರ್ಪಡಿಸಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left_text_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A china dish after heating, showing white salt crystals left behind at the bottom.",
+    "labels": "ಚೀನಾ ಪಾತ್ರೆ, ಉಳಿದಿರುವ ಉಪ್ಪು",
+    "scientific_significance": "This visualizes the result of evaporation, where the non-volatile solute (salt) is left behind after the volatile solvent (water) has evaporated.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "experiment_observation_conclusion",
+  "chunk_id": "std_6_chapter_9_concept_8_chunk_009"
+}

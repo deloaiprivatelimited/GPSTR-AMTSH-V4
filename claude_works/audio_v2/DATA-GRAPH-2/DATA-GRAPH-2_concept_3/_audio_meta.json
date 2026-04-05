@@ -1,0 +1,92 @@
+{
+  "module_id": "DATA-GRAPH-2_concept_3",
+  "merge_code": "DATA-GRAPH-2",
+  "voice": "Achird",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:46:07",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "c1ce4b088db6c6e777572b7378b90032",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 24.731,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "intro",
+      "script_words": 35,
+      "generated_at": "2026-03-30 14:45:02"
+    },
+    "005_property_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "7dd4a4853db4c06c434667caa0984397",
+      "wav_file": "005_property_cont_1_1.wav",
+      "duration": 46.211,
+      "slide_title": "ಲಂಬ ರೇಖಾ ಪರೀಕ್ಷೆ (Vertical Line Test)",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-03-30 14:45:10"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "d41dfd7c1f6a5480f5f7a5afc537bf34",
+      "wav_file": "001_intro_0.wav",
+      "duration": 53.691,
+      "slide_title": "ನಕ್ಷೆಗಳ ಸಾಧ್ಯತೆ ಮತ್ತು ವ್ಯಾಖ್ಯಾನ",
+      "type": "intro",
+      "script_words": 79,
+      "generated_at": "2026-03-30 14:45:11"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "c57f146654ea6af615497886fe77b52e",
+      "wav_file": "003_property_0.wav",
+      "duration": 69.851,
+      "slide_title": "ಕಾಲ-ತಾಪಮಾನ ನಕ್ಷೆ: ಸಾಧ್ಯವಿರುವ ಆಕಾರಗಳು",
+      "type": "concept_explanation",
+      "script_words": 81,
+      "generated_at": "2026-03-30 14:45:28"
+    },
+    "004_property_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "c523a51e2760c958cd72b50c0ddcf3ee",
+      "wav_file": "004_property_1.wav",
+      "duration": 51.451,
+      "slide_title": "ಅಸಾಧ್ಯವಾದ ನಕ್ಷೆ: ಲಂಬ ರೇಖೆ",
+      "type": "concept_explanation",
+      "script_words": 76,
+      "generated_at": "2026-03-30 14:45:39"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "219de0d869e12232724b9c51d5e37d86",
+      "wav_file": "007_recap_0.wav",
+      "duration": 42.011,
+      "slide_title": "ಸಾರಾಂಶ: ನಕ್ಷೆಗಳ ಸಾಧ್ಯತೆ ಮತ್ತು ವ್ಯಾಖ್ಯಾನ",
+      "type": "recap",
+      "script_words": 52,
+      "generated_at": "2026-03-30 14:46:05"
+    },
+    "006_property_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "b34decd6e0c13ce4df717c55c96532e9",
+      "wav_file": "006_property_cont_1_2.wav",
+      "duration": 44.651,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-03-30 14:46:07"
+    }
+  }
+}

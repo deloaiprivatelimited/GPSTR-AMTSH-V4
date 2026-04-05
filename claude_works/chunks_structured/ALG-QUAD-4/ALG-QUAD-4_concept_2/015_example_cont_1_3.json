@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ಕೊಟ್ಟಿರುವ ವರ್ಗ ಸಮೀಕರಣ 6x ವರ್ಗ ಮೈನಸ್ x ಮೈನಸ್ 2 ಈಕ್ವಲ್ಸ್ 0 ದ ಮೂಲಗಳು ಮೈನಸ್ 1 ಬೈ 2 ಮತ್ತು 2 ಬೈ 3 ಆಗಿವೆ. ಇವೇ ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "script_display": "ಹೀಗಾಗಿ, ಕೊಟ್ಟಿರುವ ವರ್ಗ ಸಮೀಕರಣ $6x^2 - x - 2 = 0$ ದ ಮೂಲಗಳು $-\\frac{1}{2}$ ಮತ್ತು $\\frac{2}{3}$ ಆಗಿವೆ. ಇವೇ ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "display_bullets": [
+    "ದತ್ತ ಸಮೀಕರಣದ ಮೂಲಗಳು: $x = -\\frac{1}{2}$ ಮತ್ತು $x = \\frac{2}{3}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text_visual_bottom",
+    "text_zone": "center",
+    "visual_zone": "bottom",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x = -\\frac{1}{2}, \\quad x = \\frac{2}{3}",
+    "placeholder_note": "The final roots of the equation."
+  },
+  "source_example_id": "ALG-QUAD-4_example_4",
+  "steps": [],
+  "final_answer": "ಸಮೀಕರಣದ ಮೂಲಗಳು -1/2 ಮತ್ತು 2/3.",
+  "final_answer_display": "ಸಮೀಕರಣದ ಮೂಲಗಳು $-\\frac{1}{2}$ ಮತ್ತು $\\frac{2}{3}$.",
+  "chunk_id": "ALG-QUAD-4_concept_2_chunk_015"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಆವರ್ತಕ ದಶಮಾಂಶವನ್ನು p/q ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಮೂರು ಮೂರು ಮೂರು, ಅಂದರೆ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಮೂರು ಬಾರ್ ಅನ್ನು, ಪಿ ಬೈ ಕ್ಯೂ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಬೇಕು. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಅಂತ್ಯಗೊಳ್ಳದ ಆವರ್ತಕ ದಶಮಾಂಶವನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಅದನ್ನು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯ ರೂಪದಲ್ಲಿ ಬರೆಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $0.3333... = 0.\\bar{3}$ ಅನ್ನು $\\frac{p}{q}$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಅಂತ್ಯಗೊಳ್ಳದ ಆವರ್ತಕ ದಶಮಾಂಶವನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಅದನ್ನು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯ ರೂಪದಲ್ಲಿ ಬರೆಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತ ಸಂಖ್ಯೆ: $0.3333... = 0.\\bar{3}$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $\\frac{p}{q}$ ರೂಪ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "0.3333... = 0.\\bar{3}\\text{ ಅನ್ನು } \\frac{p}{q} \\text{ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿ.}",
+    "placeholder_note": "Problem statement"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "NS-SYS-3_example_7",
+  "chunk_id": "NS-SYS-3_concept_3_chunk_007"
+}

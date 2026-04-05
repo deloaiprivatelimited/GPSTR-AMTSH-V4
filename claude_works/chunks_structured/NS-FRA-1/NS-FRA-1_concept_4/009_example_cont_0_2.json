@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಒಂದ್ ಭಾಗಿಸು ನಾಲ್ಕು ಮತ್ತು ಒಂದ್ ಭಾಗಿಸು ಮೂರು ಇವುಗಳ ಮೊತ್ತವು ಹನ್ನೆರಡನೇ ಏಳು ಆಗಿದೆ. ನೆನಪಿಡಿ, ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳನ್ನು ಕೂಡಲು ಅಥವಾ ಕಳೆಯಲು, ಮೊದಲು ಅವುಗಳನ್ನು ಲ ಸಾ ಅ ಬಳಸಿ ಸಮಛೇದ ಭಿನ್ನರಾಶಿಗಳಾಗಿ ಪರಿವರ್ತಿಸುವುದು ಅತ್ಯಂತ ಪ್ರಮುಖ ಹಂತವಾಗಿದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, $\\frac{1}{4}$ ಮತ್ತು $\\frac{1}{3}$ ಇವುಗಳ ಮೊತ್ತವು $\\frac{7}{12}$ ಆಗಿದೆ. ನೆನಪಿಡಿ, ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳನ್ನು ಕೂಡಲು ಅಥವಾ ಕಳೆಯಲು, ಮೊದಲು ಅವುಗಳನ್ನು ಲ.ಸಾ.ಅ. ಬಳಸಿ ಸಮಛೇದ ಭಿನ್ನರಾಶಿಗಳಾಗಿ ಪರಿವರ್ತಿಸುವುದು ಅತ್ಯಂತ ಪ್ರಮುಖ ಹಂತವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $\\frac{1}{4} + \\frac{1}{3} = \\frac{7}{12}$",
+    "ಪ್ರಮುಖ ಪಾಠ: ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳನ್ನು ಸಂಕಲನ ಮಾಡುವ ಮೊದಲು ಯಾವಾಗಲೂ ಸಾಮಾನ್ಯ ಛೇದವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{1}{4} + \\frac{1}{3} = \\frac{7}{12}",
+    "placeholder_note": "A formula box showing the final answer."
+  },
+  "source_example_id": "NS-FRA-1_example_4",
+  "steps": [],
+  "final_answer": "\\frac{7}{12}",
+  "final_answer_display": "$\\frac{7}{12}$",
+  "chunk_id": "NS-FRA-1_concept_4_chunk_009"
+}

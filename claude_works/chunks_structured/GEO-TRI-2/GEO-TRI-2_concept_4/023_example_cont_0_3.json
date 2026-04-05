@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಫಲಿತಾಂಶ",
+  "script": "ಹೀಗಾಗಿ, ನಾವು ಫಲಿತಾಂಶವನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ. ತ್ರಾಪಿಜ್ಯ ABCD ಯಲ್ಲಿ, AB ಸಮಾಂತರ DC ಮತ್ತು EF ಸಮಾಂತರ AB ಆಗಿದ್ದರೆ, ಆಗ AE ಭಾಗಿಸು ED ಸಮ BF ಭಾಗಿಸು FC ಆಗಿರುತ್ತದೆ. ಇದು ತ್ರಾಪಿಜ್ಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಪ್ರಮುಖ ಗುಣವಾಗಿದೆ ಮತ್ತು ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳುವುದು ಉಪಯುಕ್ತ.",
+  "script_display": "ಹೀಗಾಗಿ, ನಾವು ಫಲಿತಾಂಶವನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ. ತ್ರಾಪಿಜ್ಯ ABCD ಯಲ್ಲಿ, $AB || DC$ ಮತ್ತು $EF || AB$ ಆಗಿದ್ದರೆ, ಆಗ $\\frac{AE}{ED} = \\frac{BF}{FC}$ ಆಗಿರುತ್ತದೆ. ಇದು ತ್ರಾಪಿಜ್ಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಪ್ರಮುಖ ಗುಣವಾಗಿದೆ ಮತ್ತು ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳುವುದು ಉಪಯುಕ್ತ.",
+  "display_bullets": [
+    "ಸಾಧಿಸಿದ ಫಲಿತಾಂಶ: $\\frac{AE}{ED} = \\frac{BF}{FC}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{AE}{ED} = \\frac{BF}{FC}",
+    "placeholder_note": "Final result in a box"
+  },
+  "source_example_id": "GEO-TRI-2_example_4",
+  "steps": [],
+  "final_answer": "\\frac{AE}{ED} = \\frac{BF}{FC}",
+  "final_answer_display": "$\\frac{AE}{ED} = \\frac{BF}{FC}$",
+  "chunk_id": "GEO-TRI-2_concept_4_chunk_023"
+}

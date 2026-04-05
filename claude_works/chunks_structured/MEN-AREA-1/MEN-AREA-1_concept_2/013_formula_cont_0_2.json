@@ -1,0 +1,45 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಸೂತ್ರದ ಬಳಕೆ",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಆಯತದ ಉದ್ದ 5 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಅಗಲ 3 ಸೆಂಟಿಮೀಟರ್ ಇದ್ದರೆ, ಅದರ ವಿಸ್ತೀರ್ಣವೆಷ್ಟು? ಮೊದಲ ಹಂತ, ನಾವು ಸೂತ್ರವನ್ನು ಬರೆಯುತ್ತೇವೆ: A ಸಮನಾಗಿರುತ್ತದೆ l ಗುಣಿಸು b. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಕೊಟ್ಟಿರುವ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕುತ್ತೇವೆ. l ನ ಜಾಗದಲ್ಲಿ 5 ಮತ್ತು b ನ ಜಾಗದಲ್ಲಿ 3 ಅನ್ನು ಆದೇಶಿಸಿದಾಗ, ಸಮೀಕರಣವು A ಸಮನಾಗಿರುತ್ತದೆ 5 ಸೆಂಟಿಮೀಟರ್ ಗುಣಿಸು 3 ಸೆಂಟಿಮೀಟರ್ ಎಂದಾಗುತ್ತದೆ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತೇವೆ. 5 ಗುಣಿಸು 3 ಎಂದರೆ 15. ಘಟಕವು ಚದರ ಸೆಂಟಿಮೀಟರ್. ಆದ್ದರಿಂದ, ಆಯತದ ವಿಸ್ತೀರ್ಣ 15 ಚದರ ಸೆಂಟಿಮೀಟರ್.",
+  "script_display": "ಒಂದು ಆಯತದ ಉದ್ದ $5$ cm ಮತ್ತು ಅಗಲ $3$ cm ಇದ್ದರೆ, ಅದರ ವಿಸ್ತೀರ್ಣವೆಷ್ಟು?",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_steps_centered",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$A = l \\times b$",
+      "justification": "ಆಯತದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವನ್ನು ಬಳಸಿ."
+    },
+    {
+      "step": 2,
+      "action_display": "$A = 5 \\text{ cm} \\times 3 \\text{ cm}$",
+      "justification": "$l=5$ cm ಮತ್ತು $b=3$ cm ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿ."
+    },
+    {
+      "step": 3,
+      "action_display": "$A = 15 \\text{ cm}^2$",
+      "justification": "ಗುಣಾಕಾರ ಮಾಡಿ ಮತ್ತು ಘಟಕವನ್ನು ಬರೆಯಿರಿ."
+    }
+  ],
+  "final_answer_display": "ಆಯತದ ವಿಸ್ತೀರ್ಣ $15 \\text{ cm}^2$.",
+  "chunk_id": "MEN-AREA-1_concept_2_chunk_013"
+}

@@ -1,0 +1,136 @@
+{
+  "module_id": "std_7_chapter_11_concept_3",
+  "chapter_code": "std_7_chapter_11",
+  "voice": "Umbriel",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:34:49",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "c906d6c516a733dc988556095208d9ed",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.451,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 33,
+      "generated_at": "2026-04-02 16:32:45"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "4705be96815d29c66ef7014c595f420d",
+      "wav_file": "003_classification_0.wav",
+      "duration": 36.531,
+      "slide_title": "ಗೋಲೀಯ ದರ್ಪಣಗಳು: ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 16:32:51"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "c4f8f42913a1d1e4733d5f7e3dedb88c",
+      "wav_file": "001_intro_0.wav",
+      "duration": 46.051,
+      "slide_title": "ಗೋಲೀಯ ದರ್ಪಣಗಳು",
+      "type": "intro",
+      "script_words": 65,
+      "generated_at": "2026-04-02 16:33:00"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "cb6a5656c57a9845f16c85c92d85dd7a",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 41.291,
+      "slide_title": "ನಿಮ್ಮ ದರ್ಪಣ (Concave Mirror)",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 16:33:00"
+    },
+    "006_experiment_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "8522b3467b546e120df35f666baffce4",
+      "wav_file": "006_experiment_0.wav",
+      "duration": 37.131,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಚಮಚವನ್ನು ದರ್ಪಣವಾಗಿ ಬಳಸುವುದು",
+      "type": "visual_explain",
+      "script_words": 54,
+      "generated_at": "2026-04-02 16:33:21"
+    },
+    "007_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "90b448313a78750341dfde762aef3c18",
+      "wav_file": "007_experiment_cont_0_1.wav",
+      "duration": 30.051,
+      "slide_title": "ಹಂತ 1: ಚಮಚದ ಹೊರಭಾಗವನ್ನು ಗಮನಿಸಿ",
+      "type": "step_walkthrough",
+      "script_words": 45,
+      "generated_at": "2026-04-02 16:33:45"
+    },
+    "010_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "98282427aabf3f3c6683c185dddd6dc1",
+      "wav_file": "010_experiment_cont_0_4.wav",
+      "duration": 36.651,
+      "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+      "type": "key_takeaway",
+      "script_words": 47,
+      "generated_at": "2026-04-02 16:33:52"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "27c2a3b2f049783e791d2195b1b19ae3",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 40.611,
+      "slide_title": "ಪೀನ ದರ್ಪಣ (Convex Mirror)",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 16:33:54"
+    },
+    "008_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "d89510a75deb048546e0cc21b18745f4",
+      "wav_file": "008_experiment_cont_0_2.wav",
+      "duration": 33.051,
+      "slide_title": "ಹಂತ 2: ಚಮಚದ ಒಳಭಾಗವನ್ನು ಗಮನಿಸಿ",
+      "type": "step_walkthrough",
+      "script_words": 46,
+      "generated_at": "2026-04-02 16:33:57"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "e79819d12390596765d45f78c5d37f21",
+      "wav_file": "011_recap_0.wav",
+      "duration": 37.651,
+      "slide_title": "ಸಾರಾಂಶ: ಗೋಲೀಯ ದರ್ಪಣಗಳು",
+      "type": "recap",
+      "script_words": 61,
+      "generated_at": "2026-04-02 16:34:21"
+    },
+    "009_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "829e12dc6d5c3c9b394eddb23a8e40a7",
+      "wav_file": "009_experiment_cont_0_3.wav",
+      "duration": 35.291,
+      "slide_title": "ಗಮನಿಸಿದ ಅಂಶಗಳು (Observations)",
+      "type": "bullet_list",
+      "script_words": 42,
+      "generated_at": "2026-04-02 16:34:49"
+    }
+  }
+}

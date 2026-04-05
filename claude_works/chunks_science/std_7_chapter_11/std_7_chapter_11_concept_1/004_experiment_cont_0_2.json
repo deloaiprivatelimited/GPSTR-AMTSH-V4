@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ಉರಿಯುತ್ತಿರುವ ಮೇಣದಬತ್ತಿಯನ್ನು ಒಂದು ಮೇಜಿನ ಮೇಲೆ ಸ್ಥಿರವಾಗಿ ಇಡಿ. ಜ್ವಾಲೆಯು ಅಲುಗಾಡದಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನೇರವಾದ ಕೊಳವೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ಒಂದು ತುದಿಯನ್ನು ನಿಮ್ಮ ಕಣ್ಣಿಗೆ ಇಟ್ಟುಕೊಂಡು, ಇನ್ನೊಂದು ತುದಿಯಿಂದ ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯನ್ನು ನೋಡಿ. ನಿಮಗೆ ಜ್ವಾಲೆ ಕಾಣಿಸುತ್ತದೆಯೇ? ಹೌದು, ನೇರವಾದ ಕೊಳವೆಯ ಮೂಲಕ ನೋಡಿದಾಗ ಜ್ವಾಲೆಯು ಸ್ಪಷ್ಟವಾಗಿ ಗೋಚರಿಸುತ್ತದೆ. ಏಕೆಂದರೆ ಬೆಳಕು ನೇರವಾಗಿ ನಿಮ್ಮ ಕಣ್ಣನ್ನು ತಲುಪುತ್ತಿದೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ಉರಿಯುತ್ತಿರುವ ಮೇಣದಬತ್ತಿಯನ್ನು ಒಂದು ಮೇಜಿನ ಮೇಲೆ ಸ್ಥಿರವಾಗಿ ಇಡಿ. ಜ್ವಾಲೆಯು ಅಲುಗಾಡದಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನೇರವಾದ ಕೊಳವೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ಒಂದು ತುದಿಯನ್ನು ನಿಮ್ಮ ಕಣ್ಣಿಗೆ ಇಟ್ಟುಕೊಂಡು, ಇನ್ನೊಂದು ತುದಿಯಿಂದ ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯನ್ನು ನೋಡಿ. ನಿಮಗೆ ಜ್ವಾಲೆ ಕಾಣಿಸುತ್ತದೆಯೇ? ಹೌದು, ನೇರವಾದ ಕೊಳವೆಯ ಮೂಲಕ ನೋಡಿದಾಗ ಜ್ವಾಲೆಯು ಸ್ಪಷ್ಟವಾಗಿ ಗೋಚರಿಸುತ್ತದೆ. ಏಕೆಂದರೆ ಬೆಳಕು ನೇರವಾಗಿ ನಿಮ್ಮ ಕಣ್ಣನ್ನು ತಲುಪುತ್ತಿದೆ.",
+  "display_bullets": [
+    "ಹಂತ 1: ಉರಿಯುತ್ತಿರುವ ಮೇಣದಬತ್ತಿಯನ್ನು ಮೇಜಿನ ಮೇಲಿಡಿ.",
+    "ಹಂತ 2: ನೇರವಾದ ಕೊಳವೆಯ ಮೂಲಕ ಜ್ವಾಲೆಯನ್ನು ವೀಕ್ಷಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_physics_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A person looking at a lit candle through a straight pipe. A straight line of sight is drawn from the candle flame, through the pipe, to the person's eye, indicating the path of light. The candle flame is clearly visible.",
+    "labels": "ನೇರ ಕೊಳವೆ, ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆ, ವೀಕ್ಷಕ, ಬೆಳಕಿನ ಪಥ",
+    "scientific_significance": "Illustrates the first part of the experiment where light travels in a straight line from the candle to the observer's eye through the pipe.",
+    "placeholder_note": "Image to be generated."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_7_chapter_11_concept_1_chunk_004"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಈ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಬೇಕು: ಆರು ಎಕ್ಸ್ ಪ್ಲಸ್ ಒಂದು, ಭಾಗಿಸು ಮೂರು, ಪ್ಲಸ್ ಒಂದು, ಸಮನಾಗಿದೆ ಎಕ್ಸ್ ಮೈನಸ್ ಮೂರು, ಭಾಗಿಸು ಆರು. ಇಲ್ಲಿ, ಸಮೀಕರಣವು ಭಿನ್ನರಾಶಿಗಳನ್ನು ಹೊಂದಿದೆ. ನಮ್ಮ ಮೊದಲ ಗುರಿ ಈ ಭಿನ್ನರಾಶಿಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಸಮೀಕರಣವನ್ನು ಸುಲಭ ರೂಪಕ್ಕೆ ತರುವುದು. ನಾವು ಎಕ್ಸ್ ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಈ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಬೇಕು: $\\frac{6x + 1}{3} + 1 = \\frac{x-3}{6}$. ಇಲ್ಲಿ, ಸಮೀಕರಣವು ಭಿನ್ನರಾಶಿಗಳನ್ನು ಹೊಂದಿದೆ. ನಮ್ಮ ಮೊದಲ ಗುರಿ ಈ ಭಿನ್ನರಾಶಿಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಸಮೀಕರಣವನ್ನು ಸುಲಭ ರೂಪಕ್ಕೆ ತರುವುದು. ನಾವು $x$ ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $\\frac{6x + 1}{3} + 1 = \\frac{x-3}{6}$ ಅನ್ನು ಬಿಡಿಸಿ.",
+    "ಗುರಿ: $x$ ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{6x + 1}{3} + 1 = \\frac{x-3}{6}",
+    "placeholder_note": "The equation to be solved is displayed prominently."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ1-2_example_3",
+  "chunk_id": "ALG-EQ1-2_concept_3_chunk_005"
+}

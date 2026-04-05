@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1",
+  "script": "ಈಗ ಪ್ರಯೋಗದ ಮೊದಲ ಹಂತವನ್ನು ನೋಡೋಣ. ಒಂದು ಪ್ರನಾಳವನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದರಲ್ಲಿ ಸುಮಾರು ಎರಡು ಮಿಲಿ ಲೀಟರ್ ನಷ್ಟು ಸಾರರಿಕ್ತ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣವನ್ನು ಹಾಕಿ. ನೆನಪಿಡಿ, ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಒಂದು ಪ್ರತ್ಯಾಮ್ಲ. ನಂತರ, ಡ್ರಾಪರ್ ಬಳಸಿ ಇದಕ್ಕೆ ಎರಡು ಹನಿ ಫಿನಾಫ್ತಲೀನ್ ಸೂಚಕವನ್ನು ಸೇರಿಸಿ ಮತ್ತು ನಿಧಾನವಾಗಿ ಕುಲುಕಿ. ದ್ರಾವಣದಲ್ಲಿ ಆಗುವ ಬಣ್ಣದ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಿ. ದ್ರಾವಣವು ತಕ್ಷಣವೇ ಗಾಢ ಗುಲಾಬಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಇದು ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮಾಧ್ಯಮದಲ್ಲಿ ಫಿನಾಫ್ತಲೀನ್ ಗುಲಾಬಿ ಬಣ್ಣವನ್ನು ತೋರಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗದ ಮೊದಲ ಹಂತವನ್ನು ನೋಡೋಣ. ಒಂದು ಪ್ರನಾಳವನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದರಲ್ಲಿ ಸುಮಾರು 2 mL ನಷ್ಟು ಸಾರರಿಕ್ತ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) ದ್ರಾವಣವನ್ನು ಹಾಕಿ. ನೆನಪಿಡಿ, NaOH ಒಂದು ಪ್ರತ್ಯಾಮ್ಲ. ನಂತರ, ಡ್ರಾಪರ್ ಬಳಸಿ ಇದಕ್ಕೆ ಎರಡು ಹನಿ ಫಿನಾಫ್ತಲೀನ್ ಸೂಚಕವನ್ನು ಸೇರಿಸಿ ಮತ್ತು ನಿಧಾನವಾಗಿ ಕುಲುಕಿ. ದ್ರಾವಣದಲ್ಲಿ ಆಗುವ ಬಣ್ಣದ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಿ. ದ್ರಾವಣವು ತಕ್ಷಣವೇ ಗಾಢ ಗುಲಾಬಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಇದು ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮಾಧ್ಯಮದಲ್ಲಿ ಫಿನಾಫ್ತಲೀನ್ ಗುಲಾಬಿ ಬಣ್ಣವನ್ನು ತೋರಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪ್ರನಾಳದಲ್ಲಿ ~2 mL ಸಾರರಿಕ್ತ NaOH ದ್ರಾವಣ ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "ಅದಕ್ಕೆ ಎರಡು ಹನಿ ಫಿನಾಫ್ತಲೀನ್ ದ್ರಾವಣವನ್ನು ಸೇರಿಸಿ.",
+    "ಗಮನಿಸಿ: ದ್ರಾವಣವು ಗುಲಾಬಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a test tube containing a clear NaOH solution. A dropper is adding phenolphthalein, and the solution inside is turning pink.",
+    "labels": "NaOH ದ್ರಾವಣ, ಫಿನಾಫ್ತಲೀನ್, ಗುಲಾಬಿ ಬಣ್ಣ",
+    "scientific_significance": "Demonstrates that phenolphthalein turns pink in a basic solution like Sodium Hydroxide.",
+    "placeholder_note": "Image to be generated showing phenolphthalein being added to NaOH solution, resulting in a pink color."
+  },
+  "chunk_id": "std_10_chapter_2_concept_4_chunk_020"
+}

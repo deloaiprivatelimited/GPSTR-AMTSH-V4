@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 5 (x ನ ಬೆಲೆ)",
+  "script": "ಈಗ ಐದನೇ ಹಂತ. ನಾವು ಗುರುತಿಸಿದ ಮೌಲ್ಯಗಳನ್ನು ಮಧ್ಯಾಂಕದ ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಸೂತ್ರದ ಪ್ರಕಾರ, 525 ಸಮ 500 ಪ್ಲಸ್, ಬ್ರಾಕೆಟ್ ಒಳಗೆ 50 ಮೈನಸ್ 36 ಪ್ಲಸ್ x, ಇದನ್ನು 20 ರಿಂದ ಭಾಗಿಸಿ, 100 ರಿಂದ ಗುಣಿಸಬೇಕು. ಮೊದಲು 500 ಅನ್ನು ಎಡಕ್ಕೆ ತಂದರೆ, 525 ಮೈನಸ್ 500, ಅಂದರೆ 25 ಸಿಗುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿ, 100 ಭಾಗಿಸು 20 ಅಂದರೆ 5. ಹಾಗಾಗಿ, 25 ಸಮ, ಬ್ರಾಕೆಟ್ ಒಳಗೆ 14 ಮೈನಸ್ x, ಗುಣಿಸು 5. ಎರಡೂ ಬದಿಗಳನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದಾಗ, 5 ಸಮ 14 ಮೈನಸ್ x. ಇದನ್ನು ಪರಿಹರಿಸಿದಾಗ, x ಸಮ 9 ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಐದನೇ ಹಂತ. ನಾವು ಗುರುತಿಸಿದ ಮೌಲ್ಯಗಳನ್ನು ಮಧ್ಯಾಂಕದ ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಸೂತ್ರದ ಪ್ರಕಾರ, $525 = 500 + \\left[ \\frac{50 - (36 + x)}{20} \\right] \\times 100$. ಮೊದಲು 500 ಅನ್ನು ಎಡಕ್ಕೆ ತಂದರೆ, $525 - 500 = 25$. ಬಲಭಾಗದಲ್ಲಿ, $\\frac{100}{20}=5$. ಹಾಗಾಗಿ, $25 = (50 - 36 - x) \\times 5 \\implies 25 = (14 - x) \\times 5$. ಎರಡೂ ಬದಿಗಳನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದಾಗ, $5 = 14 - x$. ಇದನ್ನು ಪರಿಹರಿಸಿದಾಗ, $x = 9$ ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_simple",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "DATA-STAT-2_example_5",
+  "steps": [
+    {
+      "step": 5,
+      "action_display": "$525 = 500 + \\left[ \\frac{50 - (36 + x)}{20} \\right] \\times 100$",
+      "justification": "ಮಧ್ಯಾಂಕ ಸೂತ್ರದಲ್ಲಿ ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸುವುದು."
+    },
+    {
+      "step": 5,
+      "action_display": "$25 = (14 - x) \\times 5$",
+      "justification": "ಸಮೀಕರಣವನ್ನು ಸರಳೀಕರಿಸುವುದು."
+    },
+    {
+      "step": 5,
+      "action_display": "$5 = 14 - x \\implies x = 9$",
+      "justification": "x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "DATA-STAT-2_concept_4_chunk_019"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಭಾಗ 1 - ದೊಡ್ಡ ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆ",
+  "script": "ಪರಿಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲು, ನಾವು ತ್ರಿಭुಜ PAQ ಮತ್ತು ತ್ರಿಭುಜ PBQ ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಮಗೆ ಕೊಟ್ಟಿರುವಂತೆ AP ಯು BP ಗೆ ಸಮವಾಗಿದೆ. ಹಾಗೆಯೇ, AQ ಯು BQ ಗೆ ಸಮವಾಗಿದೆ. ಮತ್ತು PQ ಬಾಹು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯ ಬಾಹು ಆಗಿದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಮೂರು ಅನುರೂಪ ಬಾಹುಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, ಬಾಹು-ಬಾಹು-ಬಾಹು ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ PAQ ವು ತ್ರಿಭುಜ PBQ ಗೆ ಸರ್ವಸಮವಾಗಿದೆ. ಮೂರನೇ ಹಂತವಾಗಿ, ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, ಅಂದರೆ ಸಿಪಿ ಸಿಟಿ ಸಿ ಬಳಸಿ, ಕೋನ APQ ಯು ಕೋನ BPQ ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಇದು ನಮ್ಮ ಮುಂದಿನ ಹಂತಕ್ಕೆ ಬಹಳ ಮುಖ್ಯವಾದ ಫಲಿತಾಂಶ.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲು, ನಾವು $\\triangle PAQ$ ಮತ್ತು $\\triangle PBQ$ ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಮಗೆ ಕೊಟ್ಟಿರುವಂತೆ $AP = BP$. ಹಾಗೆಯೇ, $AQ = BQ$. ಮತ್ತು $PQ$ ಬಾಹು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯ ಬಾಹು ಆಗಿದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಮೂರು ಅನುರೂಪ ಬಾಹುಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, ಬಾ.ಬಾ.ಬಾ (SSS) ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, $\\triangle PAQ \\cong \\triangle PBQ$. ಮೂರನೇ ಹಂತವಾಗಿ, ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, ಅಂದರೆ ಸ.ತ್ರಿ.ಅ.ಭಾ (CPCTC) ಬಳಸಿ, $\\angle APQ = \\angle BPQ$. ಇದು ನಮ್ಮ ಮುಂದಿನ ಹಂತಕ್ಕೆ ಬಹಳ ಮುಖ್ಯವಾದ ಫಲಿತಾಂಶ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಚಿತ್ರವನ್ನೇ ಬಳಸಿ, ಆದರೆ ತ್ರಿಭುಜ PAQ ಮತ್ತು ತ್ರಿಭುಜ PBQ ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ.",
+    "labels": "A, B, P, Q, C",
+    "mathematical_significance": "ಬಾ.ಬಾ.ಬಾ ಸರ್ವಸಮತೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+    "placeholder_note": "Highlight triangles PAQ and PBQ in the existing diagram."
+  },
+  "source_example_id": "GEO-TRI-2_example_7",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\triangle PAQ$ ಮತ್ತು $\\triangle PBQ$ ಗಳಲ್ಲಿ:\n$AP = BP$ (ದತ್ತ)\n$AQ = BQ$ (ದತ್ತ)\n$PQ = PQ$ (ಸಾಮಾನ್ಯ ಬಾಹು)",
+      "justification": "ಕೋನಗಳ ಸಮಾನತೆಯನ್ನು ಸಾಧಿಸಲು ಈ ತ್ರಿಭುಜಗಳನ್ನು ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\triangle PAQ \\cong \\triangle PBQ$",
+      "justification": "ಬಾ.ಬಾ.ಬಾ (SSS) ಸರ್ವಸಮತೆ ನಿಯಮದಿಂದ."
+    },
+    {
+      "step": 3,
+      "action_display": "$\\angle APQ = \\angle BPQ$",
+      "justification": "ಸ.ತ್ರಿ.ಅ.ಭಾ (CPCTC) ನಿಯಮದಿಂದ."
+    }
+  ],
+  "final_answer": "PQ ವು AB ಯ ಲಂಬಾರ್ಧಕ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "PQ ವು AB ಯ ಲಂಬಾರ್ಧಕ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_060"
+}

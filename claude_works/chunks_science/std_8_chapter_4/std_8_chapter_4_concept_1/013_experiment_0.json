@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆ: ದಹ್ಯ ಮತ್ತು ಅದಹ್ಯ ವಸ್ತುಗಳು",
+  "script": "ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೇ. ಇಂದಿನ ಚಟುವಟಿಕೆಯಲ್ಲಿ ನಾವು ದಹನ ಕ್ರಿಯೆಯ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ನಮ್ಮ ಸುತ್ತಮುತ್ತ ಇರುವ ಕೆಲವು ವಸ್ತುಗಳು ಸುಲಭವಾಗಿ ಬೆಂಕಿಯನ್ನು ಹಿಡಿಯುತ್ತವೆ, ಇನ್ನು ಕೆಲವು ಹಿಡಿಯುವುದಿಲ್ಲ. ಹಾಗಾದರೆ, ಯಾವ ವಸ್ತುಗಳು ಉರಿಯುತ್ತವೆ ಮತ್ತು ಯಾವ ವಸ್ತುಗಳು ಉರಿಯುವುದಿಲ್ಲ ಎಂಬುದನ್ನು ಪರೀಕ್ಷಿಸಲು ಒಂದು ಸರಳ ಪ್ರಯೋಗವನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಗುರಿ ದಹ್ಯ ಮತ್ತು ಅದಹ್ಯ ವಸ್ತುಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸುವುದು. ಇದಕ್ಕೆ ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು ಅಂದರೆ ಮೇಣದಬತ್ತಿ, ಕಟ್ಟಿಗೆ, ಕಾಗದ, ಕಬ್ಬಿಣದ ಮೊಳೆ, ಇತ್ಯಾದಿಗಳನ್ನು ಇಲ್ಲಿ ಚಿತ್ರದಲ್ಲಿ ನೋಡಬಹುದು.",
+  "script_display": "ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೇ. ಇಂದಿನ ಚಟುವಟಿಕೆಯಲ್ಲಿ ನಾವು ದಹನ ಕ್ರಿಯೆಯ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ನಮ್ಮ ಸುತ್ತಮುತ್ತ ಇರುವ ಕೆಲವು ವಸ್ತುಗಳು ಸುಲಭವಾಗಿ ಬೆಂಕಿಯನ್ನು ಹಿಡಿಯುತ್ತವೆ, ಇನ್ನು ಕೆಲವು ಹಿಡಿಯುವುದಿಲ್ಲ. ಹಾಗಾದರೆ, ಯಾವ ವಸ್ತುಗಳು ಉರಿಯುತ್ತವೆ ಮತ್ತು ಯಾವ ವಸ್ತುಗಳು ಉರಿಯುವುದಿಲ್ಲ ಎಂಬುದನ್ನು ಪರೀಕ್ಷಿಸಲು ಒಂದು ಸರಳ ಪ್ರಯೋಗವನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಗುರಿ: ದಹ್ಯ ಮತ್ತು ಅದಹ್ಯ ವಸ್ತುಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸುವುದು. ಇದಕ್ಕೆ ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು (ಮೇಣದಬತ್ತಿ, ಕಟ್ಟಿಗೆ, ಕಾಗದ, ಕಬ್ಬಿಣದ ಮೊಳೆ, ಇತ್ಯಾದಿ) ಇಲ್ಲಿವೆ.",
+  "display_bullets": [
+    "ಚಟುವಟಿಕೆಯ ಗುರಿ: ದಹ್ಯ ಮತ್ತು ಅದಹ್ಯ ವಸ್ತುಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸುವುದು.",
+    "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು: ಮೇಣದಬತ್ತಿ, ಕಟ್ಟಿಗೆ, ಕಾಗದ, ಕಬ್ಬಿಣದ ಮೊಳೆ, ಇತ್ಯಾದಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collection of materials for the experiment laid out on a table: a burning candle, a piece of wood, paper, an iron nail, a stone, straw, charcoal, and a glass piece.",
+    "labels": "Experiment materials",
+    "scientific_significance": "Shows the items to be tested for combustibility.",
+    "placeholder_note": "Image to be generated showing the listed materials for the experiment."
+  },
+  "sub_type": "activity_intro",
+  "chunk_id": "std_8_chapter_4_concept_1_chunk_013"
+}

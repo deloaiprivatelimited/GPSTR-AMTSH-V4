@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 3: ಸಾಧಿಸಿ",
+  "script": "ಈಗ ಒಂದು ಸಾಧಿಸುವ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 6.11 ರಲ್ಲಿ, ಓಪಿ, ಓಕ್ಯೂ, ಓಆರ್, ಮತ್ತು ಓಎಸ್ ನಾಲ್ಕು ಕಿರಣಗಳಾಗಿವೆ. ನಾವು ಕೋನ ಪಿಓಕ್ಯೂ ಪ್ಲಸ್ ಕೋನ ಕ್ಯೂಓಆರ್ ಪ್ಲಸ್ ಕೋನ ಎಸ್ಓಆರ್ ಪ್ಲಸ್ ಕೋನ ಪಿಓಎಸ್ ಸಮ 360 ಡಿಗ್ರಿ ಎಂದು ಸಾಧಿಸಬೇಕು. ಇಲ್ಲಿ ನಮಗೆ ನೀಡಿರುವುದು ನಾಲ್ಕು ಕಿರಣಗಳು ಒಂದು ಸಾಮಾನ್ಯ ಬಿಂದು ಓ ನಿಂದ ಹೊರಹೊಮ್ಮುತ್ತವೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಆ ಬಿಂದುವಿನ ಸುತ್ತಲಿನ ಎಲ್ಲಾ ಕೋನಗಳ ಮೊತ್ತ 360 ಡಿಗ್ರಿ ಎಂದು.",
+  "script_display": "ಈಗ ಒಂದು ಸಾಧಿಸುವ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 6.11 ರಲ್ಲಿ, OP, OQ, OR, ಮತ್ತು OS ನಾಲ್ಕು ಕಿರಣಗಳಾಗಿವೆ. ನಾವು $\\angle POQ + \\angle QOR + \\angle SOR + \\angle POS = 360°$ ಎಂದು ಸಾಧಿಸಬೇಕು. ಇಲ್ಲಿ ನಮಗೆ ನೀಡಿರುವುದು ನಾಲ್ಕು ಕಿರಣಗಳು ಒಂದು ಸಾಮಾನ್ಯ ಬಿಂದು O ನಿಂದ ಹೊರಹೊಮ್ಮುತ್ತವೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಆ ಬಿಂದುವಿನ ಸುತ್ತಲಿನ ಎಲ್ಲಾ ಕೋನಗಳ ಮೊತ್ತ $360°$ ಎಂದು.",
+  "display_bullets": [
+    "ದತ್ತ: OP, OQ, OR, ಮತ್ತು OS ನಾಲ್ಕು ಕಿರಣಗಳು.",
+    "ಸಾಧನೀಯ: $\\angle POQ + \\angle QOR + \\angle SOR + \\angle POS = 360°$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ಬಿಂದು O ನಿಂದ ಹೊರಹೊಮ್ಮುವ ನಾಲ್ಕು ಕಿರಣಗಳು OP, OQ, OR, ಮತ್ತು OS.",
+    "labels": "ಚಿತ್ರ 6.11",
+    "mathematical_significance": "ಒಂದು ಬಿಂದುವಿನ ಸುತ್ತಲಿನ ಕೋನಗಳ ಮೊತ್ತವನ್ನು ಸಾಧಿಸಲು ಬೇಕಾದ ಆರಂಭಿಕ ಸ್ಥಿತಿಯನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "render_target": "image",
+    "placeholder_note": "Generate an image showing point O with four rays OP, OQ, OR, OS originating from it, forming four angles POQ, QOR, SOR, POS."
+  },
+  "sub_type": "proof",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-LA-2_example_3",
+  "chunk_id": "GEO-LA-2_concept_2_chunk_044"
+}

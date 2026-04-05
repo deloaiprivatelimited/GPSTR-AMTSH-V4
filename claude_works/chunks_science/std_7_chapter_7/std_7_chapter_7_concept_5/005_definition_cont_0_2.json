@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ವಿಸರ್ಜನೆ ಮತ್ತು ಮಲ ವಿಸರ್ಜನೆ: ವ್ಯತ್ಯಾಸ",
+  "script": "ಈಗ ಒಂದು ಪ್ರಮುಖ ಗೊಂದಲವನ್ನು ನಿವಾರಿಸೋಣ. ಅನೇಕರು ವಿಸರ್ಜನೆ ಮತ್ತು ಮಲ ವಿಸರ್ಜನೆಯನ್ನು ಒಂದೇ ಎಂದು ಭಾವಿಸುತ್ತಾರೆ, ಆದರೆ ಅವು ವಿಭಿನ್ನ. ವಿಸರ್ಜನೆ, ಅಂದರೆ ಎಕ್ಸ್‌ಕ್ರಿಶನ್, ಜೀವಕೋಶಗಳಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾದ ಚಯಾಪಚಯ ತ್ಯಾಜ್ಯಗಳನ್ನು, ಉದಾಹರಣೆಗೆ ಯೂರಿಯಾವನ್ನು ರಕ್ತದಿಂದ ಶೋಧಿಸಿ ಹೊರಹಾಕುತ್ತದೆ. ಆದರೆ, ಮಲ ವಿಸರ್ಜನೆ, ಅಂದರೆ ಇಜೆಶನ್, ನಾವು ತಿಂದ ಆಹಾರದಲ್ಲಿ ಜೀರ್ಣವಾಗದ ಭಾಗವನ್ನು ದೇಹದಿಂದ ಹೊರಹಾಕುವ ಕ್ರಿಯೆ. ಇದು ಜೀರ್ಣಾಂಗವ್ಯೂಹದ ಕೊನೆಯ ಹಂತ. ಹಾಗಾಗಿ, ವಿಸರ್ಜನೆಯು ರಕ್ತದ ಶುದ್ಧೀಕರಣಕ್ಕೆ ಸಂಬಂಧಿಸಿದ್ದರೆ, ಮಲ ವಿಸರ್ಜನೆಯು ಜೀರ್ಣವಾಗದ ಆಹಾರವನ್ನು ಹೊರಹಾಕುವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಪ್ರಮುಖ ಗೊಂದಲವನ್ನು ನಿವಾರಿಸೋಣ. ಅನೇಕರು ವಿಸರ್ಜನೆ ಮತ್ತು ಮಲ ವಿಸರ್ಜನೆಯನ್ನು ಒಂದೇ ಎಂದು ಭಾವಿಸುತ್ತಾರೆ, ಆದರೆ ಅವು ವಿಭಿನ್ನ. ವಿಸರ್ಜನೆ (Excretion), ಜೀವಕೋಶಗಳಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾದ ಚಯಾಪಚಯ ತ್ಯಾಜ್ಯಗಳನ್ನು, ಉದಾಹರಣೆಗೆ ಯೂರಿಯಾವನ್ನು ರಕ್ತದಿಂದ ಶೋಧಿಸಿ ಹೊರಹಾಕುತ್ತದೆ. ಆದರೆ, ಮಲ ವಿಸರ್ಜನೆ (Egestion), ನಾವು ತಿಂದ ಆಹಾರದಲ್ಲಿ ಜೀರ್ಣವಾಗದ ಭಾಗವನ್ನು ದೇಹದಿಂದ ಹೊರಹಾಕುವ ಕ್ರಿಯೆ. ಇದು ಜೀರ್ಣಾಂಗವ್ಯೂಹದ ಕೊನೆಯ ಹಂತ. ಹಾಗಾಗಿ, ವಿಸರ್ಜನೆಯು ರಕ್ತದ ಶುದ್ಧೀಕರಣಕ್ಕೆ ಸಂಬಂಧಿಸಿದ್ದರೆ, ಮಲ ವಿಸರ್ಜನೆಯು ಜೀರ್ಣವಾಗದ ಆಹಾರವನ್ನು ಹೊರಹಾಕುವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "left_right_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A two-column table comparing Excretion and Egestion. Left column header: ವಿಸರ್ಜನೆ (Excretion). Right column header: ಮಲ ವಿಸರ್ಜನೆ (Egestion). Each column has bullet points describing the process, type of waste, and example, as detailed in the script and common mistakes section of the prompt. This visual directly supports the script's comparison. The table should be rendered in the 'full' text_zone as part of the split_comparison layout, with the script narrating over it. The table itself is the visual element of the comparison, even though it's rendered in the text zone. For clarity, I'll put the content in the table structure here. Headers: ['ವಿಸರ್ಜನೆ (Excretion)', 'ಮಲ ವಿಸರ್ಜನೆ (Egestion)']. Rows: [['ಚಯಾಪಚಯ ಕ್ರಿಯೆಯ ತ್ಯಾಜ್ಯಗಳನ್ನು (metabolic waste) ಹೊರಹಾಕುವುದು.', 'ಜೀರ್ಣವಾಗದ ಆಹಾರವನ್ನು (undigested food) ಹೊರಹಾಕುವುದು.'], ['ತ್ಯಾಜ್ಯಗಳು ಜೀವಕೋಶಗಳಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾಗುತ್ತವೆ.', 'ತ್ಯಾಜ್ಯಗಳು ಜೀರ್ಣಾಂಗವ್ಯೂಹದಲ್ಲಿ ಉಳಿಯುತ್ತವೆ.'], ['ಉದಾ: ಯೂರಿಯಾ, ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್, ಬೆವರು.', 'ಉದಾ: ಮಲ (faeces).'], ['ರಕ್ತದಿಂದ ತ್ಯಾಜ್ಯಗಳನ್ನು ಶೋಧಿಸಲಾಗುತ್ತದೆ.', 'ಜೀರ್ಣಾಂಗವ್ಯೂಹದಿಂದ ನೇರವಾಗಿ ಹೊರಹಾಕಲಾಗುತ್ತದೆ.']]"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_7_chapter_7_concept_5_chunk_005"
+}

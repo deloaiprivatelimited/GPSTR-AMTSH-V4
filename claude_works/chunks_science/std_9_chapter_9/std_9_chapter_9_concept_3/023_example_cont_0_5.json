@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 (ಭಾಗ 3)",
+  "script": "ಅಂತಿಮವಾಗಿ, ಭಾಗಾಕಾರ ಮಾಡೋಣ. ನಲವತ್ತು ಪಾಯಿಂಟ್ ಎರಡನ್ನು ನಲವತ್ತು ಪಾಯಿಂಟ್ ಒಂಬತ್ತಾರರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಸರಿಸುಮಾರು ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಒಂಬತ್ತೆಂಟು ಸಿಗುತ್ತದೆ. ಹತ್ತರ ಘಾತ ಹದಿಮೂರನ್ನು ಹತ್ತರ ಘಾತ ಹನ್ನೆರಡರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಹತ್ತರ ಘಾತ ಒಂದು, ಅಂದರೆ ಹತ್ತು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, g ಈಕ್ವಲ್ಸ್ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಒಂಬತ್ತೆಂಟು ಗುಣಿಸು ಹತ್ತು. ಇದು ಒಂಬತ್ತು ಪಾಯಿಂಟ್ ಎಂಟು ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್ ಆಗುತ್ತದೆ.",
+  "script_display": "ಅಂತಿಮವಾಗಿ, ಭಾಗಾಕಾರ ಮಾಡೋಣ.\n\n**ಹಂತ 3: ಗಣಿತೀಯ ಲೆಕ್ಕಾಚಾರ (ಅಂತಿಮ)**\n\n$$g = \\frac{40.2}{40.96} \\times 10^{13-12}$$\n$$g \\approx 0.98 \\times 10^1$$\n$$g \\approx 9.8 \\text{ m/s}^2$$",
+  "display_bullets": [
+    "ಸಂಖ್ಯೆಗಳನ್ನು ಮತ್ತು ಘಾತಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಭಾಗಿಸಿ.",
+    "$g \\approx 0.98 \\times 10$",
+    "ಅಂತಿಮ ಮೌಲ್ಯ: $g \\approx 9.8 \\text{ m/s}^2$"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "g = \\frac{40.2}{40.96} \\times 10^{13-12} \\approx 0.98 \\times 10 = 9.8 \\text{ m/s}^2",
+    "placeholder_note": "Final calculation steps"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_9_example_calc_g",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಗಣಿತೀಯ ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+      "justification": "ಅಂತಿಮ ಉತ್ತರವನ್ನು ಪಡೆಯಲು ಅಂಕಗಣಿತದ ಕಾರ್ಯಾಚರಣೆಗಳನ್ನು ನಿರ್ವಹಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_9_concept_3_chunk_023"
+}

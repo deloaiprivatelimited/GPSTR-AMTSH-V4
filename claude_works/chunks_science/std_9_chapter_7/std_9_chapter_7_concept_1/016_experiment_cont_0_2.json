@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆಯ ವಿಧಾನ",
+  "script": "ಈಗ ನಾವು ಚಟುವಟಿಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ನಾವು ಆರಂಭಿಕ ಬಿಂದು 'A' ಯಿಂದ ಅಂಕಣದ ಬದಿಯಗುಂಟ 'B' ಬಿಂದುವಿನವರೆಗೆ ನಡೆಯಬೇಕು. ನಂತರ, 'B' ಬಿಂದುವಿನಿಂದ, ಇನ್ನೊಂದು ಬದಿಯಗುಂಟ 'C' ಬಿಂದುವನ್ನು ತಲುಪಬೇಕು. ಅಂದರೆ, ನಮ್ಮ ಚಲನೆಯ ಪಥವು A ಇಂದ B ಗೆ, ನಂತರ B ಇಂದ C ಗೆ ಇರುತ್ತದೆ. ಈ ಚಲನೆಯನ್ನು ಗಮನವಿಟ್ಟು ಮಾಡಿ. ನಾವು ಅಂಕಣದ ಅಂಚುಗಳ ಮೇಲೆಯೇ ನಡೆಯುತ್ತಿದ್ದೇವೆ, ಇದು ನಮ್ಮ ಚಲಿಸಿದ ಪಥವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಗುರುತಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಚಟುವಟಿಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ನಾವು ಆರಂಭಿಕ ಬಿಂದು 'A' ಯಿಂದ ಅಂಕಣದ ಬದಿಯಗುಂಟ 'B' ಬಿಂದುವಿನವರೆಗೆ ನಡೆಯಬೇಕು. ನಂತರ, 'B' ಬಿಂದುವಿನಿಂದ, ಇನ್ನೊಂದು ಬದಿಯಗುಂಟ 'C' ಬಿಂದುವನ್ನು ತಲುಪಬೇಕು. ಅಂದರೆ, ನಮ್ಮ ಚಲನೆಯ ಪಥವು A → B → C ಆಗಿರುತ್ತದೆ. ಈ ಚಲನೆಯನ್ನು ಗಮನವಿಟ್ಟು ಮಾಡಿ. ನಾವು ಅಂಕಣದ ಅಂಚುಗಳ ಮೇಲೆಯೇ ನಡೆಯುತ್ತಿದ್ದೇವೆ, ಇದು ನಮ್ಮ ಚಲಿಸಿದ ಪಥವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಗುರುತಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಆರಂಭಿಕ ಬಿಂದು 'A' ನಿಂದ ಚಲನೆ ಪ್ರಾರಂಭಿಸಿ.",
+    "ಅಂಕಣದ ಬದಿಯಗುಂಟ ನಡೆದು 'B' ಬಿಂದುವನ್ನು ತಲುಪಿ.",
+    "'B' ನಿಂದ ಮುಂದುವರೆದು 'C' ಬಿಂದುವನ್ನು ತಲುಪಿ.",
+    "ಚಲಿಸಿದ ಪಥ: A → B → C."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The basketball court diagram from the previous slide, but now with a dotted line and arrows showing the path from A to B, and then from B to C.",
+    "labels": "A, B, C, ಚಲಿಸಿದ ಪಥ",
+    "scientific_significance": "Visualizes the actual path taken by the object, which is used to calculate the distance.",
+    "placeholder_note": "Image to be generated: Same court as before, but with a path highlighted from A to B to C."
+  },
+  "chunk_id": "std_9_chapter_7_concept_1_chunk_016"
+}

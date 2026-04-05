@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಸರಾಸರಿ ಜವ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಸರಾಸರಿ ಜವವನ್ನು ಹೇಗೆ ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು ಎಂದು ನೋಡೋಣ. ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ಒಂದು ಸ್ಥಳದಿಂದ ಇನ್ನೊಂದು ಸ್ಥಳಕ್ಕೆ ಪ್ರಯಾಣಿಸುತ್ತಾನೆ. ಅವನ ಪ್ರಯಾಣವನ್ನು ಮೂರು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು. ಮೊದಲನೇ ಭಾಗದಲ್ಲಿ, ಅವನು 50 ಸೆಕೆಂಡುಗಳಲ್ಲಿ 100 ಮೀಟರ್ ನಡೆಯುತ್ತಾನೆ. ಎರಡನೇ ಭಾಗದಲ್ಲಿ, 10 ಸೆಕೆಂಡುಗಳ ಕಾಲ ವಿಶ್ರಾಂತಿ ಪಡೆಯುತ್ತಾನೆ. ಮತ್ತು ಮೂರನೇ ಭಾಗದಲ್ಲಿ, 40 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಇನ್ನೂ 50 ಮೀಟರ್ ನಡೆಯುತ್ತಾನೆ. ನಮ್ಮ ಗುರಿ ಅವನ ಸಂಪೂರ್ಣ ಪ್ರಯಾಣದ ಸರಾಸರಿ ಜವವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಸರಾಸರಿ ಜವವನ್ನು ಹೇಗೆ ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು ಎಂದು ನೋಡೋಣ.\n\n**ಸನ್ನಿವೇಶ:**\nಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಪ್ರಯಾಣ:\n*   ಭಾಗ 1: 50 ಸೆಕೆಂಡುಗಳಲ್ಲಿ 100 ಮೀಟರ್\n*   ಭಾಗ 2: 10 ಸೆಕೆಂಡುಗಳ ವಿಶ್ರಾಂತಿ\n*   ಭಾಗ 3: 40 ಸೆಕೆಂಡುಗಳಲ್ಲಿ 50 ಮೀಟರ್\n\n**ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು:** ಸರಾಸರಿ ಜವ",
+  "display_bullets": [
+    "ಸನ್ನಿವೇಶ: ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಪ್ರಯಾಣವನ್ನು ವಿಭಜಿಸಲಾಗಿದೆ.",
+    "ಭಾಗ 1: 100 ಮೀಟರ್, 50 ಸೆಕೆಂಡುಗಳಲ್ಲಿ.",
+    "ಭಾಗ 2: 10 ಸೆಕೆಂಡುಗಳ ವಿಶ್ರಾಂತಿ.",
+    "ಭಾಗ 3: 50 ಮೀಟರ್, 40 ಸೆಕೆಂಡುಗಳಲ್ಲಿ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "classic_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple timeline diagram showing the three parts of the journey. Part 1: arrow labeled '100 m, 50 s'. Part 2: pause icon labeled '10 s'. Part 3: arrow labeled '50 m, 40 s'.",
+    "labels": "Start, Part 1, Part 2 (Rest), Part 3, End",
+    "scientific_significance": "Visually sets up the problem by breaking down the journey into distinct segments.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "chunk_id": "std_9_chapter_7_concept_2_chunk_014"
+}

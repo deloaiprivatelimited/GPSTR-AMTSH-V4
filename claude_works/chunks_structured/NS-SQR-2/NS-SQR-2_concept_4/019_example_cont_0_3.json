@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, 39 ರ ವರ್ಗ 1521 ಆಗಿದೆ. ನಾವು ನೋಡಿದಂತೆ, ನೇರ ಗುಣಾಕಾರದ ಬದಲು ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸುವುದರಿಂದ, ನಾವು ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳ ವರ್ಗಗಳನ್ನು ಸಹ ಮನಸ್ಸಿನಲ್ಲೇ ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, 39 ರ ವರ್ಗ 1521.",
+  "script_display": "ಹೀಗಾಗಿ, $39$ ರ ವರ್ಗ $1521$ ಆಗಿದೆ. ನಾವು ನೋಡಿದಂತೆ, ನೇರ ಗುಣಾಕಾರದ ಬದಲು ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸುವುದರಿಂದ, ನಾವು ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳ ವರ್ಗಗಳನ್ನು ಸಹ ಮನಸ್ಸಿನಲ್ಲೇ ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, $39^2 = 1521$.",
+  "display_bullets": [
+    "ಆದ್ದರಿಂದ, $39^2 = 1521$."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_center",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SQR-2_example_2",
+  "final_answer": "$39^2 = 1521$",
+  "final_answer_display": "$39^2 = 1521$",
+  "chunk_id": "NS-SQR-2_concept_4_chunk_019"
+}

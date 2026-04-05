@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂವೇಗ (Momentum) ಎಂದರೇನು?",
+  "script": "ಭೌತಶಾಸ್ತ್ರದಲ್ಲಿ, ಚಲಿಸುತ್ತಿರುವ ವಸ್ತುವಿನ ಪರಿಣಾಮವನ್ನು ಅಳೆಯಲು ನಾವು ಸಂವೇಗ ಎಂಬ ಪರಿಕಲ್ಪನೆಯನ್ನು ಬಳಸುತ್ತೇವೆ. ಸಂವೇಗವನ್ನು ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿ ಮತ್ತು ಅದರ ವೇಗದ ಗುಣಲಬ್ಧ ಎಂದು ವ್ಯಾಖ್ಯಾನಿಸಲಾಗಿದೆ. ಇದರ ಸೂತ್ರ ಪಿ ಈಕ್ವಲ್ಸ್ ಎಂ ಇಂಟು ವಿ, ಇಲ್ಲಿ ಪಿ ಸಂವೇಗವನ್ನು, ಎಂ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಮತ್ತು ವಿ ವೇಗವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸಂವೇಗವು ಒಂದು ಸದಿಶ ಪರಿಮಾಣ, ಅಂದರೆ ಅದಕ್ಕೆ ಪರಿಮಾಣ ಮತ್ತು ದಿಕ್ಕು ಎರಡೂ ಇರುತ್ತದೆ. ಅದರ ದಿಕ್ಕು ಯಾವಾಗಲೂ ವಸ್ತುವಿನ ವೇಗದ ದಿಕ್ಕಿನಲ್ಲಿಯೇ ಇರುತ್ತದೆ. ಇದರ ಎಸ್ಐ ಏಕಮಾನ ಕಿಲೋಗ್ರಾಂ ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಆಗಿದೆ.",
+  "script_display": "ಭೌತಶಾಸ್ತ್ರದಲ್ಲಿ, ಚಲಿಸುತ್ತಿರುವ ವಸ್ತುವಿನ ಪರಿಣಾಮವನ್ನು ಅಳೆಯಲು ನಾವು 'ಸಂವೇಗ' (Momentum) ಎಂಬ ಪರಿಕಲ್ಪನೆಯನ್ನು ಬಳಸುತ್ತೇವೆ. ಸಂವೇಗವನ್ನು ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿ (m) ಮತ್ತು ಅದರ ವೇಗದ (v) ಗುಣಲಬ್ಧ ಎಂದು ವ್ಯಾಖ್ಯಾನಿಸಲಾಗಿದೆ. ಇದರ ಸೂತ್ರ $p = m \\times v$. ಸಂವೇಗವು ಒಂದು ಸದಿಶ ಪರಿಮಾಣ (vector quantity), ಅಂದರೆ ಅದಕ್ಕೆ ಪರಿಮಾಣ ಮತ್ತು ದಿಕ್ಕು ಎರಡೂ ಇರುತ್ತದೆ. ಅದರ ದಿಕ್ಕು ಯಾವಾಗಲೂ ವಸ್ತುವಿನ ವೇಗದ ದಿಕ್ಕಿನಲ್ಲಿಯೇ ಇರುತ್ತದೆ. ಇದರ SI ಏಕಮಾನ kg·m/s ಆಗಿದೆ.",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯಾನ: ದ್ರವ್ಯರಾಶಿ (mass) ಮತ್ತು ವೇಗದ (velocity) ಗುಣಲಬ್ಧ.",
+    "ಸೂತ್ರ: p = m × v",
+    "ಇದು ಸದಿಶ ಪರಿಮಾಣ (vector quantity) - ಇದಕ್ಕೆ ಪರಿಮಾಣ ಮತ್ತು ದಿಕ್ಕು ಎರಡೂ ಇವೆ.",
+    "SI ಏಕಮಾನ: kg·m/s"
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "classic_dark",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "p = m \\times v",
+    "placeholder_note": "Display the formula for momentum prominently."
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_9_chapter_8_concept_3_chunk_003"
+}

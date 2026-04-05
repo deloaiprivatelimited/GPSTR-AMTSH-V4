@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+  "script": "ಹಾಗಾದರೆ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ, ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ಘಟಕ ಸೂತ್ರರಾಶಿ ನೂರ ಹನ್ನೊಂದು ಯು. ಪರೀಕ್ಷೆಯಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಮಾಡುವ ಒಂದು ತಪ್ಪೆಂದರೆ, ಸಿ ಎ ಸಿ ಎಲ್ ಟೂ ನಂತಹ ಸೂತ್ರಗಳಲ್ಲಿ, ಕ್ಲೋರಿನ್‌ನ ರಾಶಿಯನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಲು ಮರೆಯುವುದು. ಯಾವಾಗಲೂ ಸೂತ್ರದಲ್ಲಿರುವ ಪ್ರತಿಯೊಂದು ಪರಮಾಣುವಿನ ಸಂಖ್ಯೆಯನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಂಡು ಲೆಕ್ಕ ಮಾಡಿ.",
+  "script_display": "ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ (CaCl₂) ಘಟಕ ಸೂತ್ರರಾಶಿ 111 u ಆಗಿದೆ.",
+  "display_bullets": [
+    "**ಅಂತಿಮ ಉತ್ತರ:** ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ (CaCl₂) ಘಟಕ ಸೂತ್ರರಾಶಿ **111 u** ಆಗಿದೆ.",
+    "**ಪರೀಕ್ಷಾ ಸಲಹೆ:** ಸೂತ್ರದಲ್ಲಿರುವ ಪಾದಸೂಚಿಗಳನ್ನು (subscripts) ಗಮನಿಸಿ. CaCl₂ ನಲ್ಲಿ, Cl ನ ರಾಶಿಯನ್ನು 2 ರಿಂದ ಗುಣಿಸಬೇಕು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CaCl_2 = 111 \\text{ u}",
+    "placeholder_note": "Final answer for the formula unit mass of Calcium Chloride"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_3_example_7",
+  "final_answer": "111 u",
+  "final_answer_display": "ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ಘಟಕ ಸೂತ್ರರಾಶಿ 111 u.",
+  "exam_tip": {
+    "question_pattern": "ಘಟಕ ಸೂತ್ರರಾಶಿ ಅಥವಾ ಅಣುರಾಶಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಪ್ರಶ್ನೆಗಳು.",
+    "skill_tested": "ರಾಸಾಯನಿಕ ಸೂತ್ರದಿಂದ ಘಟಕ ಸೂತ್ರರಾಶಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಸಾಮರ್ಥ್ಯ.",
+    "distractor": "75.5 u (40 + 35.5, ಕ್ಲೋರಿನ್ ಅನ್ನು 2 ರಿಂದ ಗುಣಿಸಲು ಮರೆತಾಗ)",
+    "why_distractor_works": "ವಿದ್ಯಾರ್ಥಿಗಳು ಸೂತ್ರದಲ್ಲಿರುವ ಪಾದಸೂಚಿಯನ್ನು (subscript) ನಿರ್ಲಕ್ಷಿಸಿ, ಕೇವಲ ಪರಮಾಣು ರಾಶಿಗಳನ್ನು ಕೂಡಿಸಿದಾಗ ಈ ತಪ್ಪು ಉತ್ತರ ಬರುತ್ತದೆ."
+  },
+  "chunk_id": "std_9_chapter_3_concept_8_chunk_020"
+}

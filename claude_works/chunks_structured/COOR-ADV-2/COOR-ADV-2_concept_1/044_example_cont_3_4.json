@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ಎಕ್ಸ್ ಮತ್ತು ವೈ ನಡುವಿನ ಅಪೇಕ್ಷಿತ ಸಂಬಂಧವು ಎಕ್ಸ್ ಮೈನಸ್ ವೈ ಸಮ ಎರಡು ಆಗಿದೆ. ಜ್ಯಾಮಿತೀಯವಾಗಿ, ಈ ಸಮೀಕರಣವು ಎ ಮತ್ತು ಬಿ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡದ ಲಂಬ ಸಮದ್ವಿಭಾಜಕವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅಂದರೆ, ಈ ರೇಖೆಯ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವು ಎ ಮತ್ತು ಬಿ ಗಳಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿರುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, $x$ ಮತ್ತು $y$ ನಡುವಿನ ಅಪೇಕ್ಷಿತ ಸಂಬಂಧವು $x - y = 2$ ಆಗಿದೆ. ಜ್ಯಾಮಿತೀಯವಾಗಿ, ಈ ಸಮೀಕರಣವು $A$ ಮತ್ತು $B$ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡದ ಲಂಬ ಸಮದ್ವಿಭಾಜಕವನ್ನು (perpendicular bisector) ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅಂದರೆ, ಈ ರೇಖೆಯ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವು $A$ ಮತ್ತು $B$ ಗಳಿಂದ ಸಮಾನ ದೂರದಲ್ಲಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಸಂಬಂಧ: $x - y = 2$.",
+    "ಜ್ಯಾಮಿತೀಯ ಅರ್ಥ: ಇದು $A(7, 1)$ ಮತ್ತು $B(3, 5)$ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡದ ಲಂಬ ಸಮದ್ವಿಭಾಜಕದ ಸಮೀಕರಣವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_top_visual_bottom",
+    "text_zone": "full",
+    "visual_zone": "bottom",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x - y = 2",
+    "placeholder_note": "Final answer"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "COOR-ADV-2_example_4",
+  "final_answer": "x - y = 2",
+  "final_answer_display": "$x - y = 2$",
+  "chunk_id": "COOR-ADV-2_concept_1_chunk_044"
+}

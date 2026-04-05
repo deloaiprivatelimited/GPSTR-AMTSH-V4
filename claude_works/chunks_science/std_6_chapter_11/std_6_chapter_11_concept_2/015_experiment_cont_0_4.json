@@ -1,0 +1,37 @@
+{
+  "type": "experiment",
+  "slide_title": "ತೀರ್ಮಾನ: ಚಲಿಸುವ ಗಾಳಿಯ ಶಕ್ತಿ",
+  "script": "ಈ ಸರಳ ಚಟುವಟಿಕೆಯಿಂದ ನಾವು ಒಂದು ಪ್ರಮುಖ ವೈಜ್ಞಾನಿಕ ತತ್ವವನ್ನು ಕಲಿಯುತ್ತೇವೆ. ಚಲಿಸುವ ಗಾಳಿಗೆ, ಅಂದರೆ ಮಾರುತಕ್ಕೆ ಶಕ್ತಿ ಇದೆ. ಗಿರಗಿಟ್ಟೆ ತಿರುಗಿದ್ದೇ ಇದಕ್ಕೆ ಸಾಕ್ಷಿ. ಅಂದರೆ, ಮಾರುತವು ಯಾಂತ್ರಿಕ ಕೆಲಸವನ್ನು ಮಾಡಬಲ್ಲದು. ಇದೇ ತತ್ವದ ಮೇಲೆ ದೊಡ್ಡ ಗಾಳಿಯಂತ್ರಗಳು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ಗಾಳಿಯಂತ್ರಗಳು ಮಾರುತದ ಶಕ್ತಿಯನ್ನು ಬಳಸಿ ವಿದ್ಯುತ್ ಉತ್ಪಾದಿಸುತ್ತವೆ. ಹೀಗೆ, ನಮ್ಮ ಪುಟ್ಟ ಗಿರಗಿಟ್ಟೆ ಒಂದು ದೊಡ್ಡ ತಂತ್ರಜ್ಞಾನದ ಮೂಲತತ್ವವನ್ನು ನಮಗೆ ವಿವರಿಸುತ್ತದೆ.",
+  "script_display": "ಈ ಸರಳ ಚಟುವಟಿಕೆಯಿಂದ ನಾವು ಒಂದು ಪ್ರಮುಖ ವೈಜ್ಞಾನಿಕ ತತ್ವವನ್ನು ಕಲಿಯುತ್ತೇವೆ. ಚಲಿಸುವ ಗಾಳಿಗೆ (ಮಾರುತ) ಶಕ್ತಿ ಇದೆ. ಗಿರಗಿಟ್ಟೆ ತಿರುಗಿದ್ದೇ ಇದಕ್ಕೆ ಸಾಕ್ಷಿ. ಅಂದರೆ, ಮಾರುತವು ಯಾಂತ್ರಿಕ ಕೆಲಸವನ್ನು ಮಾಡಬಲ್ಲದು. ಇದೇ ತತ್ವದ ಮೇಲೆ ದೊಡ್ಡ ಗಾಳಿಯಂತ್ರಗಳು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ಗಾಳಿಯಂತ್ರಗಳು ಮಾರುತದ ಶಕ್ತಿಯನ್ನು ಬಳಸಿ ವಿದ್ಯುತ್ ಉತ್ಪಾದಿಸುತ್ತವೆ. ಹೀಗೆ, ನಮ್ಮ ಪುಟ್ಟ ಗಿರಗಿಟ್ಟೆ ಒಂದು ದೊಡ್ಡ ತಂತ್ರಜ್ಞಾನದ ಮೂಲತತ್ವವನ್ನು ನಮಗೆ ವಿವರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಚಲಿಸುವ ಗಾಳಿಗೆ (ಮಾರುತ) ಶಕ್ತಿ ಇದೆ.",
+    "ಮಾರುತವು ಯಾಂತ್ರಿಕ ಕೆಲಸವನ್ನು ಮಾಡಬಲ್ಲದು.",
+    "ಗಾಳಿಯಂತ್ರಗಳು ಇದೇ ತತ್ವದ ಮೇಲೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "takeaway_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split image. On the left, the simple pinwheel from the experiment. On the right, a large modern wind turbine. An arrow connects them, labeled 'ಇದೇ ತತ್ವ' (Same Principle).",
+    "labels": "ಗಿರಗಿಟ್ಟೆ, ಗಾಳಿಯಂತ್ರ",
+    "scientific_significance": "Connects the simple, hands-on experiment to its real-world, large-scale application (wind energy), reinforcing the learning.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "conclusion",
+  "chunk_id": "std_6_chapter_11_concept_2_chunk_015"
+}

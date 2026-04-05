@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು: ಭಾಗ 2",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, y equals 0 ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇದು x-ಅಕ್ಷದ ಮೇಲಿನ ಬಿಂದುವನ್ನು ನೀಡುತ್ತದೆ. ಸಮೀಕರಣದಲ್ಲಿ y ಜಾಗದಲ್ಲಿ 0 ಆದೇಶಿಸಿದಾಗ, x plus 2 times 0 equals 6, ಅಂದರೆ x plus 0 equals 6, ಇದರಿಂದ x equals 6 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, 6, 0 ಮತ್ತೊಂದು ಪರಿಹಾರವಾಗಿದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, y equals 1 ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಸಮೀಕರಣದಲ್ಲಿ ಆದೇಶಿಸಿದಾಗ, x plus 2 times 1 equals 6, ಅಂದರೆ x plus 2 equals 6. ಎರಡನ್ನು ಬಲಭಾಗಕ್ಕೆ ತೆಗೆದುಕೊಂಡು ಹೋದರೆ, x equals 6 minus 2, ಅಂದರೆ x equals 4. ಆದ್ದರಿಂದ, 4, 1 ನಮ್ಮ ನಾಲ್ಕನೇ ಪರಿಹಾರವಾಗಿದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, $y=0$ ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇದು $x$-ಅಕ್ಷದ ಮೇಲಿನ ಬಿಂದುವನ್ನು ನೀಡುತ್ತದೆ. ಸಮೀಕರಣದಲ್ಲಿ $y$ ಜಾಗದಲ್ಲಿ 0 ಆದೇಶಿಸಿದಾಗ, $x + 2(0) = 6$, ಅಂದರೆ $x + 0 = 6$, ಇದರಿಂದ $x = 6$ ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, $(6, 0)$ ಮತ್ತೊಂದು ಪರಿಹಾರವಾಗಿದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, $y=1$ ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಸಮೀಕರಣದಲ್ಲಿ ಆದೇಶಿಸಿದಾಗ, $x + 2(1) = 6$, ಅಂದರೆ $x + 2 = 6$. ಎರಡನ್ನು ಬಲಭಾಗಕ್ಕೆ ತೆಗೆದುಕೊಂಡು ಹೋದರೆ, $x = 6 - 2$, ಅಂದರೆ $x = 4$. ಆದ್ದರಿಂದ, $(4, 1)$ ನಮ್ಮ ನಾಲ್ಕನೇ ಪರಿಹಾರವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ2-3_example_3",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "y = 0 ಆದೇಶಿಸಿದಾಗ:\n$x + 2(0) = 6$\n$x = 6$\nಪರಿಹಾರ: $(6, 0)$",
+      "justification": "$x$-ಅಕ್ಷವನ್ನು ರೇಖೆಯು ಛೇದಿಸುವ ಬಿಂದುವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "y = 1 ಆದೇಶಿಸಿದಾಗ:\n$x + 2(1) = 6$\n$x + 2 = 6$\n$x = 4$\nಪರಿಹಾರ: $(4, 1)$",
+      "justification": "$y$ ಗೆ ಇನ್ನೊಂದು ಮೌಲ್ಯವನ್ನು ಆಯ್ದುಕೊಂಡು $x$ ಗಾಗಿ ಬಿಡಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "ALG-EQ2-3_concept_2_chunk_014"
+}

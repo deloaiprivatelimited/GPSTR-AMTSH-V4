@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಶ್ರವ್ಯ ಶಬ್ದ (Audible Sound)",
+  "script": "ಮೊದಲಿಗೆ, ಶ್ರವ್ಯ ಶಬ್ದದ ಬಗ್ಗೆ ನೋಡೋಣ. ಶ್ರವ್ಯ ಎಂದರೆ ಕೇಳಲು ಸಾಧ್ಯವಿರುವುದು. ಮಾನವನ ಕಿವಿಗಳು ಒಂದು ನಿರ್ದಿಷ್ಟ ಆವೃತ್ತಿಯ ವ್ಯಾಪ್ತಿಯಲ್ಲಿರುವ ಶಬ್ದಗಳನ್ನು ಮಾತ್ರ ಗ್ರಹಿಸಬಲ್ಲವು. ಈ ವ್ಯಾಪ್ತಿಯು ಸಾಮಾನ್ಯವಾಗಿ ಇಪ್ಪತ್ತು ಹರ್ಟ್ಸ್ ನಿಂದ ಇಪ್ಪತ್ತು ಸಾವಿರ ಹರ್ಟ್ಸ್ ವರೆಗೆ ಇರುತ್ತದೆ. ಇದನ್ನು ನಾವು ಇಪ್ಪತ್ತು ಕಿಲೋಹರ್ಟ್ಸ್ ಎಂದೂ ಹೇಳಬಹುದು. ನಮ್ಮ ದಿನನಿತ್ಯದ ಮಾತುಕತೆ, ನಾವು ಕೇಳುವ ಸಂಗೀತ, ಪಕ್ಷಿಗಳ ಕಲರವ ಇವೆಲ್ಲವೂ ಈ ಶ್ರವ್ಯ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಬರುವ ಶಬ್ದಗಳಿಗೆ ಉದಾಹರಣೆಗಳಾಗಿವೆ. ಆರೋಗ್ಯವಂತ ಯುವಕರಲ್ಲಿ ಈ ವ್ಯಾಪ್ತಿ ಸರಿಯಾಗಿದ್ದು, ವಯಸ್ಸಾದಂತೆ ಮೇಲಿನ ಮಿತಿ ಸ್ವಲ್ಪ ಕಡಿಮೆಯಾಗಬಹುದು.",
+  "script_display": "ಮೊದಲಿಗೆ, ಶ್ರವ್ಯ ಶಬ್ದದ (Audible Sound) ಬಗ್ಗೆ ನೋಡೋಣ. ಶ್ರವ್ಯ ಎಂದರೆ 'ಕೇಳಲು ಸಾಧ್ಯವಿರುವುದು'. ಮಾನವನ ಕಿವಿಗಳು ಒಂದು ನಿರ್ದಿಷ್ಟ ಆವೃತ್ತಿಯ ವ್ಯಾಪ್ತಿಯಲ್ಲಿರುವ ಶಬ್ದಗಳನ್ನು ಮಾತ್ರ ಗ್ರಹಿಸಬಲ್ಲವು. ಈ ವ್ಯಾಪ್ತಿಯು ಸಾಮಾನ್ಯವಾಗಿ 20 Hz ನಿಂದ 20,000 Hz ವರೆಗೆ ಇರುತ್ತದೆ. ಇದನ್ನು ನಾವು 20 kHz ಎಂದೂ ಹೇಳಬಹುದು. ನಮ್ಮ ದಿನನಿತ್ಯದ ಮಾತುಕತೆ, ನಾವು ಕೇಳುವ ಸಂಗೀತ, ಪಕ್ಷಿಗಳ ಕಲರವ ಇವೆಲ್ಲವೂ ಈ ಶ್ರವ್ಯ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಬರುವ ಶಬ್ದಗಳಿಗೆ ಉದಾಹರಣೆಗಳಾಗಿವೆ. ಆರೋಗ್ಯವಂತ ಯುವಕರಲ್ಲಿ ಈ ವ್ಯಾಪ್ತಿ ಸರಿಯಾಗಿದ್ದು, ವಯಸ್ಸಾದಂತೆ ಮೇಲಿನ ಮಿತಿ ಸ್ವಲ್ಪ ಕಡಿಮೆಯಾಗಬಹುದು.",
+  "display_bullets": [
+    "ಆವೃತ್ತಿ ವ್ಯಾಪ್ತಿ: 20 Hz ನಿಂದ 20,000 Hz (20 kHz)",
+    "ಮಾನವನ ಕಿವಿಗೆ ಕೇಳಿಸುವ ಶಬ್ದ.",
+    "ಉದಾಹರಣೆ: ಮಾನವನ ಮಾತು, ಸಂಗೀತ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A graph of the sound frequency spectrum. The range from 20 Hz to 20,000 Hz is highlighted in a bright color and labeled in Kannada as 'ಮಾನವನ ಶ್ರವ್ಯ ವ್ಯಾಪ್ತಿ' (Human Audible Range). Icons representing human speech and music notes are placed within this highlighted range.",
+    "labels": "Frequency (Hz), Audible Range",
+    "scientific_significance": "Illustrates the limited range of frequencies detectable by the human ear.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_10_concept_5_chunk_004"
+}

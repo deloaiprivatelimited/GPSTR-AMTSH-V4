@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಗೊಂದಲ ಬೇಡ: ಕಿಲೋವ್ಯಾಟ್ vs ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ",
+  "script": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಗೊಂದಲ ಉಂಟುಮಾಡುವ ಒಂದು ಸಾಮಾನ್ಯ ವಿಷಯವೆಂದರೆ ಕಿಲೋವ್ಯಾಟ್ ಮತ್ತು ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ ನಡುವಿನ ವ್ಯತ್ಯಾಸ. ಕಿಲೋವ್ಯಾಟ್, ಅಂದರೆ kW, ಇದು ಸಾಮರ್ಥ್ಯದ ಏಕಮಾನ. ಇದು ಒಂದು ಉಪಕರಣವು ಎಷ್ಟು ವೇಗವಾಗಿ ಶಕ್ತಿಯನ್ನು ಬಳಸುತ್ತದೆ ಅಥವಾ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಅಳೆಯುತ್ತದೆ. ಆದರೆ, ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ, ಅಂದರೆ kWh, ಇದು ಶಕ್ತಿಯ ಏಕಮಾನ. ಇದು ಒಂದು ನಿರ್ದಿಷ್ಟ ಸಮಯದಲ್ಲಿ ಒಟ್ಟು ಎಷ್ಟು ಶಕ್ತಿ ಬಳಕೆಯಾಗಿದೆ ಎಂದು ತೋರಿಸುತ್ತದೆ. ನಿಮ್ಮ ಮನೆಯ ವಿದ್ಯುತ್ ಬಿಲ್ kWh ಲೆಕ್ಕದಲ್ಲಿರುತ್ತದೆ, ಅಂದರೆ ನೀವು ಎಷ್ಟು ಶಕ್ತಿಯನ್ನು ಬಳಸಿದ್ದೀರಿ ಎಂಬುದರ ಮೇಲೆ, ನಿಮ್ಮ ಉಪಕರಣದ ಸಾಮರ್ಥ್ಯದ ಮೇಲಲ್ಲ.",
+  "script_display": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಗೊಂದಲ ಉಂಟುಮಾಡುವ ಒಂದು ಸಾಮಾನ್ಯ ವಿಷಯವೆಂದರೆ ಕಿಲೋವ್ಯಾಟ್ (kW) ಮತ್ತು ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ (kWh) ನಡುವಿನ ವ್ಯತ್ಯಾಸ. ಕಿಲೋವ್ಯಾಟ್ (kW), ಇದು ಸಾಮರ್ಥ್ಯದ (Power) ಏಕಮಾನ. ಇದು ಒಂದು ಉಪಕರಣವು ಎಷ್ಟು ವೇಗವಾಗಿ ಶಕ್ತಿಯನ್ನು ಬಳಸುತ್ತದೆ ಅಥವಾ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಅಳೆಯುತ್ತದೆ. ಆದರೆ, ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ (kWh), ಇದು ಶಕ್ತಿಯ (Energy) ಏಕಮಾನ. ಇದು ಒಂದು ನಿರ್ದಿಷ್ಟ ಸಮಯದಲ್ಲಿ ಒಟ್ಟು ಎಷ್ಟು ಶಕ್ತಿ ಬಳಕೆಯಾಗಿದೆ ಎಂದು ತೋರಿಸುತ್ತದೆ. ನಿಮ್ಮ ಮನೆಯ ವಿದ್ಯುತ್ ಬಿಲ್ kWh ಲೆಕ್ಕದಲ್ಲಿರುತ್ತದೆ, ಅಂದರೆ ನೀವು ಎಷ್ಟು ಶಕ್ತಿಯನ್ನು ಬಳಸಿದ್ದೀರಿ ಎಂಬುದರ ಮೇಲೆ, ನಿಮ್ಮ ಉಪಕರಣದ ಸಾಮರ್ಥ್ಯದ ಮೇಲಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "split_comparison_table",
+    "placeholder_note": "A two-column comparison table. Left column for Kilowatt (kW) and right column for Kilowatt-hour (kWh). Each column explains what it measures (Power vs Energy) and its purpose (rate of energy use vs total energy used). This visual is rendered by the 'split_comparison' layout itself based on the structured data provided here. Left Header: 'ಕಿಲೋವ್ಯಾಟ್ (kW)', Left Body: 'ಇದು ಸಾಮರ್ಥ್ಯದ (Power) ಏಕಮಾನ. ಶಕ್ತಿಯು ಬಳಕೆಯಾಗುವ ದರವನ್ನು ಅಳೆಯುತ್ತದೆ.'. Right Header: 'ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ (kWh)', Right Body: 'ಇದು ಶಕ್ತಿಯ (Energy) ಏಕಮಾನ. ಒಟ್ಟು ಬಳಕೆಯಾದ ಶಕ್ತಿಯನ್ನು ಅಳೆಯುತ್ತದೆ.'"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_10_concept_7_chunk_011"
+}

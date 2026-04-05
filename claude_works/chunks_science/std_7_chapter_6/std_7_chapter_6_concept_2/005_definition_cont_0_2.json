@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಕೋಶೀಯ ಉಸಿರಾಟದ ಸಮೀಕರಣ",
+  "script": "ಕೋಶೀಯ ಉಸಿರಾಟದ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಒಂದು ಸರಳ ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಈ ಸಮೀಕರಣವು ಆಮ್ಲಜನಕ ಸಹಿತ ಉಸಿರಾಟವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇಲ್ಲಿ, ಗ್ಲೂಕೋಸ್ ಮತ್ತು ಆಮ್ಲಜನಕಗಳು ಪ್ರತಿವರ್ತಕಗಳಾಗಿವೆ. ಇವು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುತ್ತವೆ. ಕ್ರಿಯೆಯ ನಂತರ, ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್, ನೀರು ಮತ್ತು ಶಕ್ತಿ ಉತ್ಪನ್ನಗಳಾಗಿ ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ. ಸಮೀಕರಣ ಹೀಗಿದೆ: ಗ್ಲೂಕೋಸ್ ಅಂದರೆ C six H twelve O six, ಆಮ್ಲಜನಕ ಅಂದರೆ six O two ಜೊತೆ ವರ್ತಿಸಿ, six C O two ಅಂದರೆ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್, six H two O ಅಂದರೆ ನೀರು, ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಕೋಶೀಯ ಉಸಿರಾಟದ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಒಂದು ಸರಳ ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಈ ಸಮೀಕರಣವು ಆಮ್ಲಜನಕ ಸಹಿತ ಉಸಿರಾಟವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇಲ್ಲಿ, ಗ್ಲೂಕೋಸ್ ಮತ್ತು ಆಮ್ಲಜನಕಗಳು ಪ್ರತಿವರ್ತಕಗಳಾಗಿವೆ. ಇವು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುತ್ತವೆ. ಕ್ರಿಯೆಯ ನಂತರ, ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್, ನೀರು ಮತ್ತು ಶಕ್ತಿ ಉತ್ಪನ್ನಗಳಾಗಿ ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳು (Reactants): ಗ್ಲೂಕೋಸ್ + ಆಮ್ಲಜನಕ",
+    "ಉತ್ಪನ್ನಗಳು (Products): ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ + ನೀರು + ಶಕ್ತಿ"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_top_explanation_bottom",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "C_6H_{12}O_6 + 6O_2 \\rightarrow 6CO_2 + 6H_2O + \\text{ಶಕ್ತಿ (ATP)}",
+    "placeholder_note": "Render the chemical equation for aerobic cellular respiration using KaTeX."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_7_chapter_6_concept_2_chunk_005"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ: ವಾಸನೆಯಲ್ಲಿನ ಬದಲಾವಣೆ",
+  "script": "ಈಗ ಅತಿ ಮುಖ್ಯವಾದ ಭಾಗ, ವೀಕ್ಷಣೆ. ಎರಡೂ ಬಟ್ಟೆಯ ಪಟ್ಟಿಗಳ ವಾಸನೆಯನ್ನು ನಾವು ಪರೀಕ್ಷಿಸಿದಾಗ, ನಮಗೆ ಸ್ಪಷ್ಟವಾದ ವ್ಯತ್ಯಾಸ ಕಂಡುಬರುತ್ತದೆ. ಮೊದಲನೆಯದಾಗಿ, ಆಮ್ಲವನ್ನು, ಅಂದರೆ H C L ಅನ್ನು ಹಾಕಿದ ಬಟ್ಟೆಯ ಪಟ್ಟಿಯಲ್ಲಿ ಈರುಳ್ಳಿಯ ವಿಶಿಷ್ಟ ವಾಸನೆ ಹಾಗೆಯೇ ಉಳಿದಿರುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಪ್ರತ್ಯಾಮ್ಲವನ್ನು, ಅಂದರೆ N a O H ಅನ್ನು ಹಾಕಿದ ಬಟ್ಟೆಯ ಪಟ್ಟಿಯಲ್ಲಿ ಈರುಳ್ಳಿಯ ವಾಸನೆ ಸಂಪೂರ್ಣವಾಗಿ ಮಾಯವಾಗಿರುತ್ತದೆ. ಈ ಕೋಷ್ಟಕದಲ್ಲಿ ನೀವು ಫಲಿತಾಂಶವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಆಮ್ಲದೊಂದಿಗೆ ವಾಸನೆ ಇದೆ, ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ವಾಸನೆ ಇಲ್ಲ.",
+  "script_display": "ಈಗ ಅತಿ ಮುಖ್ಯವಾದ ಭಾಗ, ವೀಕ್ಷಣೆ. ಎರಡೂ ಬಟ್ಟೆಯ ಪಟ್ಟಿಗಳ ವಾಸನೆಯನ್ನು ನಾವು ಪರೀಕ್ಷಿಸಿದಾಗ, ನಮಗೆ ಸ್ಪಷ್ಟವಾದ ವ್ಯತ್ಯಾಸ ಕಂಡುಬರುತ್ತದೆ. ಮೊದಲನೆಯದಾಗಿ, ಆಮ್ಲವನ್ನು (HCl) ಹಾಕಿದ ಬಟ್ಟೆಯ ಪಟ್ಟಿಯಲ್ಲಿ ಈರುಳ್ಳಿಯ ವಿಶಿಷ್ಟ ವಾಸನೆ ಹಾಗೆಯೇ ಉಳಿದಿರುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಪ್ರತ್ಯಾಮ್ಲವನ್ನು (NaOH) ಹಾಕಿದ ಬಟ್ಟೆಯ ಪಟ್ಟಿಯಲ್ಲಿ ಈರುಳ್ಳಿಯ ವಾಸನೆ ಸಂಪೂರ್ಣವಾಗಿ ಮಾಯವಾಗಿರುತ್ತದೆ. ಈ ಕೋಷ್ಟಕದಲ್ಲಿ ನೀವು ಫಲಿತಾಂಶವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಆಮ್ಲದೊಂದಿಗೆ ವಾಸನೆ ಇದೆ, ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ವಾಸನೆ ಇಲ್ಲ.",
+  "display_bullets": [
+    "ಆಮ್ಲದೊಂದಿಗೆ (HCl) ಪರೀಕ್ಷೆ: ಈರುಳ್ಳಿಯ ವಾಸನೆ ಉಳಿದಿದೆ.",
+    "ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ (NaOH) ಪರೀಕ್ಷೆ: ಈರುಳ್ಳಿಯ ವಾಸನೆ ನಾಶವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_table",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "{\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{|l|l|}\n\\hline\n\\textbf{ಪರೀಕ್ಷೆ} & \\textbf{ಫಲಿತಾಂಶ (ವಾಸನೆ)} \\\\\n\\hline\n\\text{ಬಟ್ಟೆ ಪಟ್ಟಿ + ಆಮ್ಲ (HCl)} & \\text{✅ ಈರುಳ್ಳಿ ವಾಸನೆ ಇದೆ} \\\\\n\\hline\n\\text{ಬಟ್ಟೆ ಪಟ್ಟಿ + ಪ್ರತ್ಯಾಮ್ಲ (NaOH)} & \\text{❌ ವಾಸನೆ ಇಲ್ಲ} \\\\\n\\hline\n\\end{array}}",
+    "placeholder_note": "A simple table showing the results. Row 1: Cloth strip + Acid (HCl) -> Onion smell remains. Row 2: Cloth strip + Base (NaOH) -> Smell is gone."
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_10_chapter_2_concept_1_chunk_015"
+}

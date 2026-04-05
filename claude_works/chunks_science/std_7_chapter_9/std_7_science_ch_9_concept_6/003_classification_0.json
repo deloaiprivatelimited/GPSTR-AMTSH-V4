@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಲನೆ ಮಾಪನ ಸಾಧನಗಳು",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ವಾಹನಗಳಲ್ಲಿ ಚಲನೆಯನ್ನು ಅಳೆಯಲು ಬಳಸುವ ಎರಡು ಪ್ರಮುಖ ಸಾಧನಗಳ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ನೀವು ಕಾರು ಅಥವಾ ಬೈಕ್‌ನಲ್ಲಿ ಪ್ರಯಾಣಿಸುವಾಗ, ಚಾಲಕನ ಮುಂದೆ ಇರುವ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಮೇಲೆ ಕೆಲವು ಮೀಟರ್‌ಗಳನ್ನು ನೋಡಿರುತ್ತೀರಿ. ಇವು ವಾಹನದ ವೇಗ ಮತ್ತು ಅದು ಎಷ್ಟು ದೂರ ಚಲಿಸಿದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತವೆ. ಈ ಸಾಧನಗಳೇ ವೇಗಮಾಪಕ ಮತ್ತು ದೂರಮಾಪಕ. ಅವು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು ಎಂಬುದನ್ನು ಈಗ ವಿವರವಾಗಿ ತಿಳಿಯೋಣ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ವಾಹನಗಳಲ್ಲಿ ಚಲನೆಯನ್ನು ಅಳೆಯಲು ಬಳಸುವ ಎರಡು ಪ್ರಮುಖ ಸಾಧನಗಳ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ನೀವು ಕಾರು ಅಥವಾ ಬೈಕ್‌ನಲ್ಲಿ ಪ್ರಯಾಣಿಸುವಾಗ, ಚಾಲಕನ ಮುಂದೆ ಇರುವ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಮೇಲೆ ಕೆಲವು ಮೀಟರ್‌ಗಳನ್ನು ನೋಡಿರುತ್ತೀರಿ. ಇವು ವಾಹನದ ವೇಗ ಮತ್ತು ಅದು ಎಷ್ಟು ದೂರ ಚಲಿಸಿದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತವೆ. ಈ ಸಾಧನಗಳೇ ವೇಗಮಾಪಕ (Speedometer) ಮತ್ತು ದೂರಮಾಪಕ (Odometer). ಅವು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು ಎಂಬುದನ್ನು ಈಗ ವಿವರವಾಗಿ ತಿಳಿಯೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "template_physics_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A modern car's dashboard is shown, with the speedometer and odometer clearly visible. The speedometer needle is pointing to a certain speed, and the odometer shows a digital reading of the total kilometers traveled.",
+    "labels": "ವೇಗಮಾಪಕ (Speedometer), ದೂರಮಾಪಕ (Odometer)",
+    "scientific_significance": "Illustrates the real-world application of motion measurement instruments in everyday vehicles.",
+    "placeholder_note": "Image to be generated of a car dashboard with speedometer and odometer highlighted."
+  },
+  "chunk_id": "std_7_science_ch_9_concept_6_chunk_003"
+}

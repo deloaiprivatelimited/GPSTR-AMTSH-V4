@@ -1,0 +1,44 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು",
+  "script": "ಈಗ ನಾವು ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸೋಣ. ನಮ್ಮ ಸಮೀಕರಣ y ಬೈ ನಾಲ್ಕು ಮೈನಸ್ 7 ಈಕ್ವಲ್ಸ್ 3. ಇಲ್ಲಿ, ಮೈನಸ್ 7 ಅನ್ನು ಸಮೀಕರಣದ ಬಲಭಾಗಕ್ಕೆ ಸ್ಥಳಾಂತರಿಸೋಣ. ಆಗ ಅದು ಪ್ಲಸ್ 7 ಆಗುತ್ತದೆ. ಹಾಗಾಗಿ, y ಬೈ ನಾಲ್ಕು ಈಕ್ವಲ್ಸ್ 3 ಪ್ಲಸ್ 7, ಅಂದರೆ 10. ಈಗ ನಮಗೆ y ಬೈ ನಾಲ್ಕು ಈಕ್ವಲ್ಸ್ 10 ಸಿಕ್ಕಿದೆ. y ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಎರಡೂ ಬದಿಗಳನ್ನು 4 ರಿಂದ ಗುಣಿಸಬೇಕು. ಆಗ y ಈಕ್ವಲ್ಸ್ 10 ಇಂಟು 4, ಅಂದರೆ 40.",
+  "script_display": "ಈಗ ನಾವು ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸೋಣ. ನಮ್ಮ ಸಮೀಕರಣ $\\frac{y}{4} - 7 = 3$. ಇಲ್ಲಿ, $-7$ ಅನ್ನು ಸಮೀಕರಣದ ಬಲಭಾಗಕ್ಕೆ ಸ್ಥಳಾಂತರಿಸೋಣ. ಆಗ ಅದು $+7$ ಆಗುತ್ತದೆ. ಹಾಗಾಗಿ, $\\frac{y}{4} = 3 + 7$, ಅಂದರೆ $10$. ಈಗ ನಮಗೆ $\\frac{y}{4} = 10$ ಸಿಕ್ಕಿದೆ. $y$ ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಎರಡೂ ಬದಿಗಳನ್ನು 4 ರಿಂದ ಗುಣಿಸಬೇಕು. ಆಗ $y = 10 \\times 4$, ಅಂದರೆ $40$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_only",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-EQ1-1_example_9",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$-7$ ಅನ್ನು ಬಲಭಾಗಕ್ಕೆ ಸ್ಥಳಾಂತರಿಸಿದಾಗ, $\\frac{y}{4} = 3 + 7 \\implies \\frac{y}{4} = 10$.",
+      "justification": "ಸ್ಥಳಾಂತರ ನಿಯಮದ ಬಳಕೆ."
+    },
+    {
+      "step": 4,
+      "action_display": "ಎರಡೂ ಬದಿಗಳನ್ನು 4 ರಿಂದ ಗುಣಿಸಿದಾಗ, $y = 10 \\times 4 \\implies y = 40$.",
+      "justification": "ಚರಾಕ್ಷರವನ್ನು ಪ್ರತ್ಯೇಕಿಸಲು ವಿಲೋಮ ಕ್ರಿಯೆ ಮಾಡುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "ALG-EQ1-1_concept_4_chunk_009"
+}

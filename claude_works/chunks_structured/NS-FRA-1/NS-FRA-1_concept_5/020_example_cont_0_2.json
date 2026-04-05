@@ -1,0 +1,44 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ಚಿತ್ರಾತ್ಮಕವಾಗಿ ಸಂಯೋಜಿಸುವುದು",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಈ ಛಾಯೆಗೊಳಿಸಿದ ಭಾಗಗಳನ್ನು ಒಂದೇ ಚಿತ್ರದಲ್ಲಿ ಸೇರಿಸೋಣ. ಮೊದಲ ಚಿತ್ರದಿಂದ ಎರಡು ಭಾಗಗಳು ಮತ್ತು ಎರಡನೇ ಚಿತ್ರದಿಂದ ಎರಡು ಭಾಗಗಳು, ಒಟ್ಟಾಗಿ ನಾಲ್ಕು ಭಾಗಗಳು ಆಗುತ್ತವೆ. ಈ ನಾಲ್ಕು ಛಾಯೆಗೊಳಿಸಿದ ಭಾಗಗಳನ್ನು ಐದು ಸಮಭಾಗಗಳಿರುವ ಒಂದೇ ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಾಗ, ನಮಗೆ ಐದನೇ ನಾಲ್ಕು ಸಿಗುತ್ತದೆ. ಹೀಗೆ, ಎರಡು ಗುಣಿಸು ಐದನೇ ಎರಡು ಸಮ ಐದನೇ ನಾಲ್ಕು ಎಂದು ಚಿತ್ರದ ಮೂಲಕ ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಈ ಛಾಯೆಗೊಳಿಸಿದ ಭಾಗಗಳನ್ನು ಒಂದೇ ಚಿತ್ರದಲ್ಲಿ ಸೇರಿಸೋಣ. ಮೊದಲ ಚಿತ್ರದಿಂದ 2 ಭಾಗಗಳು ಮತ್ತು ಎರಡನೇ ಚಿತ್ರದಿಂದ 2 ಭಾಗಗಳು, ಒಟ್ಟಾಗಿ 4 ಭಾಗಗಳು ಆಗುತ್ತವೆ. ಈ 4 ಛಾಯೆಗೊಳಿಸಿದ ಭಾಗಗಳನ್ನು 5 ಸಮಭಾಗಗಳಿರುವ ಒಂದೇ ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಾಗ, ನಮಗೆ $\\frac{4}{5}$ ಸಿಗುತ್ತದೆ. ಹೀಗೆ, $2 \\times \\frac{2}{5} = \\frac{4}{5}$ ಎಂದು ಚಿತ್ರದ ಮೂಲಕ ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನ ಎರಡು ಆಯತಗಳಿಂದ ಬಾಣಗಳು ಒಂದು ಅಂತಿಮ ಆಯತದ ಕಡೆಗೆ ತೋರಿಸುತ್ತಿವೆ. ಈ ಅಂತಿಮ ಆಯತವನ್ನು ಸಹ 5 ಸಮಾನ ಲಂಬ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ. ಇದರಲ್ಲಿ ಎಡಭಾಗದ 4 ಭಾಗಗಳನ್ನು ಛಾಯೆಗೊಳಿಸಲಾಗಿದೆ. ಈ ಆಯತದ ಕೆಳಗೆ '4/5' ಎಂದು ಬರೆಯಲಾಗಿದೆ.",
+    "labels": "4/5",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಎರಡು 2/5 ಭಾಗಗಳನ್ನು ಸಂಯೋಜಿಸಿದಾಗ 4/5 ಆಗುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ, ಇದು ಗುಣಾಕಾರದ ಫಲಿತಾಂಶವನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated: A single rectangle with 4/5 shaded, representing the final result of combining the two 2/5 parts."
+  },
+  "source_example_id": "NS-FRA-1_example_6",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಎರಡು $\\frac{2}{5}$ ಭಾಗಗಳನ್ನು ಒಂದೇ ಚಿತ್ರದಲ್ಲಿ ಸೇರಿಸಿದಾಗ $\\frac{4}{5}$ ಸಿಗುತ್ತದೆ.",
+      "justification": "ಛಾಯೆಗೊಳಿಸಿದ ಭಾಗಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "NS-FRA-1_concept_5_chunk_020"
+}

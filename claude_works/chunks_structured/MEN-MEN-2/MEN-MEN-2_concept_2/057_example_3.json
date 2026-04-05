@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಿಲಿಂಡರ್‌ನ ಎತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಬಿಡಿಸೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ 7 ಸೆಂ.ಮೀ. ತ್ರಿಜ್ಯ ಮತ್ತು 968 ಚದರ ಸೆಂ.ಮೀ. ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ಹೊಂದಿರುವ ಒಂದು ಕೊಳವೆ, ಅಂದರೆ ಸಿಲಿಂಡರ್ ಇದೆ. ನಾವು ಈ ಕೊಳವೆಯ ಎತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು ದತ್ತಾಂಶಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. ತ್ರಿಜ್ಯ ಆರ್ ಈಕ್ವಲ್ಸ್ 7 ಸೆಂ.ಮೀ. ಮತ್ತು ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ, ಅಂದರೆ ಟಿ ಎಸ್ ಎ, ಈಕ್ವಲ್ಸ್ 968 ಚದರ ಸೆಂ.ಮೀ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಎತ್ತರ ಹೆಚ್.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಬಿಡಿಸೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ 7 ಸೆಂ.ಮೀ. ತ್ರಿಜ್ಯ ಮತ್ತು 968 ಚ.ಸೆಂ.ಮೀ. ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ಹೊಂದಿರುವ ಒಂದು ಕೊಳವೆ, ಅಂದರೆ ಸಿಲಿಂಡರ್ ಇದೆ. ನಾವು ಈ ಕೊಳವೆಯ ಎತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು ದತ್ತಾಂಶಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. ತ್ರಿಜ್ಯ (r) = 7 ಸೆಂ.ಮೀ. ಮತ್ತು ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (TSA) = 968 ಚ.ಸೆಂ.ಮೀ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಎತ್ತರ (h).",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 7 ಸೆಂ.ಮೀ. ತ್ರಿಜ್ಯ ಮತ್ತು 968 ಚ. ಸೆಂ.ಮೀ. ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ಹೊಂದಿರುವ ಕೊಳವೆಯೊಂದರ ಎತ್ತರವೆಷ್ಟು?",
+    "ದತ್ತಾಂಶ: ತ್ರಿಜ್ಯ (r) = 7 ಸೆಂ.ಮೀ.",
+    "ದತ್ತಾಂಶ: ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (TSA) = 968 ಚ.ಸೆಂ.ಮೀ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಎತ್ತರ (h) = ?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cylinder with its dimensions labeled. The radius 'r' is shown as 7 cm, and the total surface area 'TSA' is noted as 968 sq. cm. The height 'h' is marked with a question mark.",
+    "labels": "r=7 cm, h=?, TSA=968 cm^2",
+    "mathematical_significance": "Visual representation of the problem's given values and the unknown variable.",
+    "placeholder_note": "Image to be generated for a cylinder with labeled radius, height, and TSA."
+  },
+  "source_example_id": "MEN-MEN-2_example_7",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸುವುದು: ತ್ರಿಜ್ಯ (r) = 7 ಸೆಂ.ಮೀ., ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (TSA) = 968 ಚ.ಸೆಂ.ಮೀ.",
+      "justification": "ಸಮಸ್ಯೆಯಲ್ಲಿ ನೀಡಿರುವ ಮೌಲ್ಯಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಲಾಗಿದೆ."
+    }
+  ],
+  "chunk_id": "MEN-MEN-2_concept_2_chunk_057"
+}

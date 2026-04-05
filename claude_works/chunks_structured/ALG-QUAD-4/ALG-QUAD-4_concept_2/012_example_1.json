@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಪವರ್ತನ ವಿಧಾನ",
+  "script": "ಈಗ ಅಪವರ್ತನ ವಿಧಾನವನ್ನು ಬಳಸಿಕೊಂಡು ವರ್ಗ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 6x ವರ್ಗ ಮೈನಸ್ x ಮೈನಸ್ 2 ಈಕ್ವಲ್ಸ್ 0 ಸಮೀಕರಣದ ಮೂಲಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ನಾವು ಮಧ್ಯಪದವನ್ನು ವಿಭಜಿಸುವ ಮೂಲಕ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಅಪವರ್ತನ ವಿಧಾನವನ್ನು ಬಳಸಿಕೊಂಡು ವರ್ಗ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $6x^2 - x - 2 = 0$ ಸಮೀಕರಣದ ಮೂಲಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ನಾವು ಮಧ್ಯಪದವನ್ನು ವಿಭಜಿಸುವ ಮೂಲಕ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $6x^2 - x - 2 = 0$ ಸಮೀಕರಣದ ಮೂಲಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ವಿಧಾನ: ಅಪವರ್ತನ (ಮಧ್ಯಪದ ವಿಭಜನೆ)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "6x^2 - x - 2 = 0",
+    "placeholder_note": "The quadratic equation to be solved."
+  },
+  "source_example_id": "ALG-QUAD-4_example_4",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-QUAD-4_concept_2_chunk_012"
+}

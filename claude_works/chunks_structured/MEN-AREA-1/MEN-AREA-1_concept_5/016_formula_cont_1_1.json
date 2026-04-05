@@ -1,0 +1,37 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರ ಹೇಗೆ ಬಂತು?",
+  "script": "ಈ ಹೊಸ ಸೂತ್ರ, ಸಿ ಈಕ್ವಲ್ಸ್ ಟೂ ಪೈ ಆರ್, ಹೇಗೆ ಬಂತು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇದು ತುಂಬಾ ಸರಳ. ನಮ್ಮ ಮೂಲ ಪರಿಧಿಯ ಸೂತ್ರ ಸಿ ಈಕ್ವಲ್ಸ್ ಪೈ ಡಿ. ನಮಗೆ ವೃತ್ತದ ಮೂಲಭೂತ ಗುಣಲಕ್ಷಣದಿಂದ ತಿಳಿದಿದೆ, ವ್ಯಾಸವು ತ್ರಿಜ್ಯದ ಎರಡು ಪಟ್ಟು ಇರುತ್ತದೆ, ಅಂದರೆ ಡಿ ಈಕ್ವಲ್ಸ್ ಟೂ ಆರ್. ಈಗ, ನಾವು ಮೂಲ ಸೂತ್ರದಲ್ಲಿರುವ ಡಿ ಯ ಜಾಗದಲ್ಲಿ ಟೂ ಆರ್ ಅನ್ನು ಆದೇಶಿಸೋಣ. ಆಗ, ಸಿ ಈಕ್ವಲ್ಸ್ ಪೈ ಗುಣಿಸು ಟೂ ಆರ್ ಎಂದಾಗುತ್ತದೆ. ಗಣಿತದ ನಿಯಮದಂತೆ, ನಾವು ಇದನ್ನು ಸಿ ಈಕ್ವಲ್ಸ್ ಟೂ ಪೈ ಆರ್ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಹೀಗೆ, ವ್ಯಾಸದ ಸೂತ್ರದಿಂದಲೇ ತ್ರಿಜ್ಯದ ಸೂತ್ರವನ್ನು ಪಡೆಯಲಾಗಿದೆ. ಇವೆರಡೂ ಒಂದೇ ವಿಷಯವನ್ನು ಹೇಳುತ್ತವೆ, ಕೇವಲ ಬೇರೆ ಬೇರೆ ಅಳತೆಗಳನ್ನು ಬಳಸುತ್ತವೆ.",
+  "script_display": "ಈ ಹೊಸ ಸೂತ್ರ, $C = 2\\pi r$, ಹೇಗೆ ಬಂತು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇದು ತುಂಬಾ ಸರಳ. ನಮ್ಮ ಮೂಲ ಪರಿಧಿಯ ಸೂತ್ರ $C = \\pi d$. ನಮಗೆ ವೃತ್ತದ ಮೂಲಭೂತ ಗುಣಲಕ್ಷಣದಿಂದ ತಿಳಿದಿದೆ, ವ್ಯಾಸವು ತ್ರಿಜ್ಯದ ಎರಡು ಪಟ್ಟು ಇರುತ್ತದೆ, ಅಂದರೆ $d = 2r$. ಈಗ, ನಾವು ಮೂಲ ಸೂತ್ರದಲ್ಲಿರುವ 'd' ಯ ಜಾಗದಲ್ಲಿ '2r' ಅನ್ನು ಆದೇಶಿಸೋಣ. ಆಗ, $C = \\pi \\times (2r)$ ಎಂದಾಗುತ್ತದೆ. ಗಣಿತದ ನಿಯಮದಂತೆ, ನಾವು ಇದನ್ನು $C = 2\\pi r$ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಹೀಗೆ, ವ್ಯಾಸದ ಸೂತ್ರದಿಂದಲೇ ತ್ರಿಜ್ಯದ ಸೂತ್ರವನ್ನು ಪಡೆಯಲಾಗಿದೆ. ಇವೆರಡೂ ಒಂದೇ ವಿಷಯವನ್ನು ಹೇಳುತ್ತವೆ, ಕೇವಲ ಬೇರೆ ಬೇರೆ ಅಳತೆಗಳನ್ನು ಬಳಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಮೂಲ ಸೂತ್ರ: $C = \\pi d$",
+    "ನಮಗೆ ತಿಳಿದಿದೆ: $d = 2r$",
+    "ಆದೇಶಿಸಿದಾಗ: $C = \\pi \\times (2r)$",
+    "ಅಂತಿಮ ಸೂತ್ರ: $C = 2\\pi r$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A circle with its center marked. A line segment from the center to the edge is labeled 'r' (radius). A line segment passing through the center from one edge to the other is labeled 'd' (diameter). An arrow or label should clearly indicate that d is equal to r plus r, or 2r.",
+    "labels": "r, d, d=2r",
+    "mathematical_significance": "Visually demonstrates the relationship between the diameter and radius of a circle, which is the basis for deriving C=2πr from C=πd.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-AREA-1_concept_5_chunk_016"
+}

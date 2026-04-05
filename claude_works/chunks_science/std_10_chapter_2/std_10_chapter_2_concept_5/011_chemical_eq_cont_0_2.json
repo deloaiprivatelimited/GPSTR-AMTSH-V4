@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಯಾನೀಕರಣ ಪ್ರಕ್ರಿಯೆಯ ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈ ಚಿತ್ರದಲ್ಲಿ ಅಯಾನೀಕರಣ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡಬಹುದು. ಎಡಭಾಗದಲ್ಲಿ, ಹೈಡ್ರೋಜನ್ ಕ್ಲೋರೈಡ್ ಅಣು ಮತ್ತು ನೀರಿನ ಅಣು ಇವೆ. ಕ್ರಿಯೆ ನಡೆದಾಗ, H C L ನಿಂದ ಹೈಡ್ರೋಜನ್ ಅಯಾನು ಬೇರ್ಪಟ್ಟು, ನೀರಿನ ಅಣುವಿನೊಂದಿಗೆ ಸೇರಿಕೊಂಡು H three O plus, ಅಂದರೆ ಹೈಡ್ರೋನಿಯಂ ಅಯಾನು ಆಗುತ್ತದೆ. ಉಳಿದ ಕ್ಲೋರಿನ್, C L minus, ಅಂದರೆ ಕ್ಲೋರೈಡ್ ಅಯಾನು ಆಗಿ ದ್ರಾವಣದಲ್ಲಿ ಸ್ವತಂತ್ರವಾಗಿ ಉಳಿಯುತ್ತದೆ.",
+  "script_display": "ಈ ಚಿತ್ರದಲ್ಲಿ ಅಯಾನೀಕರಣ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡಬಹುದು. ಎಡಭಾಗದಲ್ಲಿ, ಹೈಡ್ರೋಜನ್ ಕ್ಲೋರೈಡ್ (HCl) ಅಣು ಮತ್ತು ನೀರಿನ (H₂O) ಅಣು ಇವೆ. ಕ್ರಿಯೆ ನಡೆದಾಗ, HCl ನಿಂದ ಹೈಡ್ರೋಜನ್ ಅಯಾನು (H⁺) ಬೇರ್ಪಟ್ಟು, ನೀರಿನ ಅಣುವಿನೊಂದಿಗೆ ಸೇರಿಕೊಂಡು H₃O⁺ (ಹೈಡ್ರೋನಿಯಂ ಅಯಾನು) ಆಗುತ್ತದೆ. ಉಳಿದ ಕ್ಲೋರಿನ್, Cl⁻ (ಕ್ಲೋರೈಡ್ ಅಯಾನು) ಆಗಿ ದ್ರಾವಣದಲ್ಲಿ ಸ್ವತಂತ್ರವಾಗಿ ಉಳಿಯುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating the ionization of HCl in water. On the left, show a single HCl molecule (a large green sphere for Cl bonded to a small white sphere for H) and a single H₂O molecule. An arrow points to the right. On the right, show an H₃O⁺ ion (an oxygen atom bonded to three hydrogen atoms, with a '+' sign) and a separate Cl⁻ ion (the large green sphere with a '-' sign).",
+    "labels": "ಹೈಡ್ರೋಜನ್ ಕ್ಲೋರೈಡ್ (HCl), ನೀರು (H₂O), ಹೈಡ್ರೋನಿಯಂ ಅಯಾನು (H₃O⁺), ಕ್ಲೋರೈಡ್ ಅಯಾನು (Cl⁻)",
+    "scientific_significance": "This visual representation clarifies the concept of ionization by showing the transfer of a proton (H⁺) from the acid to a water molecule, resulting in the formation of hydronium and chloride ions.",
+    "placeholder_note": "Image to be generated to show the transfer of H+ from HCl to H2O."
+  },
+  "chunk_id": "std_10_chapter_2_concept_5_chunk_011"
+}

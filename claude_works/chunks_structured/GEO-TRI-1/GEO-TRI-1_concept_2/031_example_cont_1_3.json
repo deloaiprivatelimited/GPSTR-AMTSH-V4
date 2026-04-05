@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು ತ್ರಿಭುಜದ ಒಳಕೋನಗಳ ಮೊತ್ತದ ಗುಣವನ್ನು ಬಳಸಿ ಕೋನ P ಯ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದೇವೆ. ಅಂತಿಮ ಉತ್ತರ, ಕೋನ P ಯ ಅಳತೆ 81 ಡಿಗ್ರಿ.",
+  "script_display": "ಹೀಗೆ, ನಾವು ತ್ರಿಭುಜದ ಒಳಕೋನಗಳ ಮೊತ್ತದ ಗುಣವನ್ನು ಬಳಸಿ m∠P ಯನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದೇವೆ. ಅಂತಿಮ ಉತ್ತರ, m∠P = 81°.",
+  "display_bullets": [
+    "ΔPQR ನಲ್ಲಿ, m∠P = 81°."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_highlight",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "GEO-TRI-1_example_2",
+  "final_answer": "m∠P = 81°",
+  "final_answer_display": "$m\\angle P = 81^\\circ$",
+  "chunk_id": "GEO-TRI-1_concept_2_chunk_031"
+}

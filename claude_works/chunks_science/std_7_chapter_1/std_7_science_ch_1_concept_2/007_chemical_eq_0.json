@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ನಮಸ್ಕಾರ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ಪ್ರಮುಖ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ಕಲಿಯೋಣ. ಈ ಸಮೀಕರಣವು, ಆರು ಅಣುಗಳ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೆಡ್ ಮತ್ತು ಆರು ಅಣುಗಳ ನೀರು, ಸೂರ್ಯನ ಬೆಳಕು ಮತ್ತು ಕ್ಲೋರೊಫಿಲ್ ನ ಸಮ್ಮುಖದಲ್ಲಿ ವರ್ತಿಸಿ, ಒಂದು ಅಣು ಗ್ಲೂಕೋಸ್ ಅಂದರೆ ಕಾರ್ಬೊಹೈಡ್ರೇಟ್ ಮತ್ತು ಆರು ಅಣುಗಳ ಆಮ್ಲಜನಕವನ್ನು ಹೇಗೆ ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ನಮಸ್ಕಾರ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ಪ್ರಮುಖ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ಕಲಿಯೋಣ. ಈ ಸಮೀಕರಣವು, 6 ಅಣುಗಳ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೆಡ್ (CO₂) ಮತ್ತು 6 ಅಣುಗಳ ನೀರು (H₂O), ಸೂರ್ಯನ ಬೆಳಕು ಮತ್ತು ಕ್ಲೋರೊಫಿಲ್ ನ ಸಮ್ಮುಖದಲ್ಲಿ ವರ್ತಿಸಿ, 1 ಅಣು ಗ್ಲೂಕೋಸ್ (C₆H₁₂O₆) ಮತ್ತು 6 ಅಣುಗಳ ಆಮ್ಲಜನಕವನ್ನು (O₂) ಹೇಗೆ ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "center_formula_top_title",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "6CO_{2} + 6H_{2}O \\xrightarrow[\\text{ಕ್ಲೋರೊಫಿಲ್}]{\\text{ಸೂರ್ಯನ ಬೆಳಕು}} C_{6}H_{12}O_{6} + 6O_{2}",
+    "placeholder_note": "Balanced chemical equation for photosynthesis"
+  },
+  "chunk_id": "std_7_science_ch_1_concept_2_chunk_007"
+}

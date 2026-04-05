@@ -1,0 +1,114 @@
+{
+  "module_id": "std_8_science_ch_7_concept_3",
+  "chapter_code": "std_8_chapter_7",
+  "voice": "Algenib",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:05:04",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "25180b6055ec45e88b2c3b2af66067ef",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 21.411,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 31,
+      "generated_at": "2026-04-02 15:03:21"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "308f2498f4e05cd17f0e50b42ec5066c",
+      "wav_file": "001_intro_0.wav",
+      "duration": 40.531,
+      "slide_title": "ಲೈಂಗಿಕ ಲಕ್ಷಣಗಳ ಬೆಳವಣಿಗೆ",
+      "type": "chunk",
+      "script_words": 67,
+      "generated_at": "2026-04-02 15:03:38"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "62b1c269c714ba9e33e9db30946e9321",
+      "wav_file": "003_definition_0.wav",
+      "duration": 35.691,
+      "slide_title": "ದ್ವಿತೀಯಕ ಲೈಂಗಿಕ ಲಕ್ಷಣಗಳು: ವ್ಯಾಖ್ಯಾನ",
+      "type": "definition",
+      "script_words": 49,
+      "generated_at": "2026-04-02 15:03:42"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "0f5525effd4980ca9ef9503957db9063",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 46.051,
+      "slide_title": "ಹುಡುಗರು ಮತ್ತು ಹುಡುಗಿಯರಲ್ಲಿನ ವ್ಯತ್ಯಾಸಗಳು",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 15:04:07"
+    },
+    "006_classification_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "68689a33e686b5428153f4bf81e34f4f",
+      "wav_file": "006_classification_0.wav",
+      "duration": 43.611,
+      "slide_title": "ಪ್ರಾಥಮಿಕ ಲೈಂಗಿಕ ಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 15:04:11"
+    },
+    "008_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "75234cb67c6b9a434b45d789a4146d89",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "duration": 35.651,
+      "slide_title": "ದ್ವಿತೀಯಕ ಲೈಂಗಿಕ ಲಕ್ಷಣಗಳು - ಭಾಗ 2",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 15:04:29"
+    },
+    "007_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "d385c65366b88efd4baf7864c1e5aa20",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "duration": 40.131,
+      "slide_title": "ದ್ವಿತೀಯಕ ಲೈಂಗಿಕ ಲಕ್ಷಣಗಳು - ಭಾಗ 1",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 15:04:31"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "b168760b21674c8b00a58fe5153a1abe",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 40.211,
+      "slide_title": "ಈ ಬದಲಾವಣೆಗಳಿಗೆ ಕಾರಣವೇನು?",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 15:04:32"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "24f3f2442288a38adbe6078c935a3992",
+      "wav_file": "009_recap_0.wav",
+      "duration": 32.371,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 47,
+      "generated_at": "2026-04-02 15:05:04"
+    }
+  }
+}

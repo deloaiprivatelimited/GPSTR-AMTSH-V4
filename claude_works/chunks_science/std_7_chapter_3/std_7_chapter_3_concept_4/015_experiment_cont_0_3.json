@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 2",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಸರಳನ್ನು ಸ್ಥಿರವಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಬೇಕು. ಒಂದು ವೇಳೆ ನಿಮ್ಮ ಬಳಿ ಸ್ಟ್ಯಾಂಡ್ ಇದ್ದರೆ, ಅದಕ್ಕೆ ಸರಳನ್ನು ಸಿಕ್ಕಿಸಬಹುದು, ಇಲ್ಲದಿದ್ದರೆ ಎರಡು ಇಟ್ಟಿಗೆಗಳ ನಡುವೆಯೂ ಇಡಬಹುದು. ಈಗ, ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯನ್ನು ಬಳಸಿ ಸರಳಿನ ಒಂದು ತುದಿಯನ್ನು ಮಾತ್ರ ಕಾಯಿಸಲು ಪ್ರಾರಂಭಿಸಿ. ನೆನಪಿಡಿ, ನಾವು ಜ್ವಾಲೆಯನ್ನು ನೇರವಾಗಿ ಮೇಣದ ತುಣುಕುಗಳಿಗೆ ತಾಗಿಸಬಾರದು, ಬದಲಾಗಿ ಸರಳಿನ ಖಾಲಿ ತುದಿಗೆ ಮಾತ್ರ ತಾಗಿಸಬೇಕು. ಈಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನವಿಟ್ಟು ನೋಡೋಣ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಸರಳನ್ನು ಸ್ಥಿರವಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಬೇಕು. ಒಂದು ವೇಳೆ ನಿಮ್ಮ ಬಳಿ ಸ್ಟ್ಯಾಂಡ್ ಇದ್ದರೆ, ಅದಕ್ಕೆ ಸರಳನ್ನು ಸಿಕ್ಕಿಸಬಹುದು, ಇಲ್ಲದಿದ್ದರೆ ಎರಡು ಇಟ್ಟಿಗೆಗಳ ನಡುವೆಯೂ ಇಡಬಹುದು. ಈಗ, ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯನ್ನು ಬಳಸಿ ಸರಳಿನ ಒಂದು ತುದಿಯನ್ನು ಮಾತ್ರ ಕಾಯಿಸಲು ಪ್ರಾರಂಭಿಸಿ. ನೆನಪಿಡಿ, ನಾವು ಜ್ವಾಲೆಯನ್ನು ನೇರವಾಗಿ ಮೇಣದ ತುಣುಕುಗಳಿಗೆ ತಾಗಿಸಬಾರದು, ಬದಲಾಗಿ ಸರಳಿನ ಖಾಲಿ ತುದಿಗೆ ಮಾತ್ರ ತಾಗಿಸಬೇಕು. ಈಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನವಿಟ್ಟು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಸರಳನ್ನು ಸ್ಟ್ಯಾಂಡ್ ಅಥವಾ ಇಟ್ಟಿಗೆಗಳ ಮೇಲೆ ಸ್ಥಿರವಾಗಿ ಇರಿಸಿ.",
+    "ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯಿಂದ ಸರಳಿನ ಒಂದು ತುದಿಯನ್ನು ಕಾಯಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_3",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the metal rod clamped to a stand (or placed between two bricks). A candle flame is heating one free end of the rod.",
+    "labels": "ಸ್ಟ್ಯಾಂಡ್, ಜ್ವಾಲೆ, ಬಿಸಿಯಾದ ತುದಿ",
+    "scientific_significance": "Depicts the application of a heat source to one end of the solid, initiating the conduction process.",
+    "placeholder_note": "Image to be generated showing the heating step."
+  },
+  "sub_type": "procedure",
+  "chunk_id": "std_7_chapter_3_concept_4_chunk_015"
+}

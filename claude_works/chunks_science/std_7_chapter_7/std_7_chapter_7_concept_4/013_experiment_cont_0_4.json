@@ -1,0 +1,40 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಹೃದಯ ಬಡಿತವನ್ನು ಆಲಿಸುವುದು",
+  "script": "ಈಗ ನಮ್ಮ ಮಾದರಿಯನ್ನು ಪರೀಕ್ಷಿಸುವ ಸಮಯ. ಕೊಳವೆಯ ತೆರೆದ ತುದಿಯನ್ನು ನಿಮ್ಮ ಒಂದು ಕಿವಿಗೆ ಇಟ್ಟುಕೊಳ್ಳಿ. ನಂತರ, ಆಲಿಕೆಯ ಬಾಯಿಯನ್ನು, ಅಂದರೆ ರಬ್ಬರ್ ಹಾಳೆ ಇರುವ ಭಾಗವನ್ನು, ನಿಮ್ಮ ಎದೆಯ ಮೇಲೆ ಹೃದಯದ ಹತ್ತಿರ ಇರಿಸಿ. ನಿಶ್ಯಬ್ದವಾಗಿರಿ ಮತ್ತು ಗಮನವಿಟ್ಟು ಕೇಳಿ. ನಿಮಗೆ ಒಂದು ಲಯಬದ್ಧವಾದ ಬಡಿತದ ಶಬ್ದ ಕೇಳಿಸುತ್ತದೆಯೇ? ಈ ಶಬ್ದವೇ ನಿಮ್ಮ ಹೃದಯ ಬಡಿತ. ಇದನ್ನು ಒಂದು ನಿಮಿಷಕ್ಕೆ ಎಷ್ಟು ಬಾರಿ ಬಡಿಯುತ್ತದೆ ಎಂದು ಎಣಿಸಲು ಪ್ರಯತ್ನಿಸಿ.",
+  "script_display": "ಈಗ ನಮ್ಮ ಮಾದರಿಯನ್ನು ಪರೀಕ್ಷಿಸುವ ಸಮಯ. ಕೊಳವೆಯ ತೆರೆದ ತುದಿಯನ್ನು ನಿಮ್ಮ ಒಂದು ಕಿವಿಗೆ ಇಟ್ಟುಕೊಳ್ಳಿ. ನಂತರ, ಆಲಿಕೆಯ ಬಾಯಿಯನ್ನು (ರಬ್ಬರ್ ಹಾಳೆ ಇರುವ ಭಾಗ) ನಿಮ್ಮ ಎದೆಯ ಮೇಲೆ ಹೃದಯದ ಹತ್ತಿರ ಇರಿಸಿ. ನಿಶ್ಯಬ್ದವಾಗಿರಿ ಮತ್ತು ಗಮನವಿಟ್ಟು ಕೇಳಿ. ನಿಮಗೆ ಒಂದು ಲಯಬದ್ಧವಾದ ಬಡಿತದ ಶಬ್ದ ('ಲಬ್-ಡಬ್') ಕೇಳಿಸುತ್ತದೆಯೇ? ಈ ಶಬ್ದವೇ ನಿಮ್ಮ ಹೃದಯ ಬಡಿತ. ಇದನ್ನು ಒಂದು ನಿಮಿಷಕ್ಕೆ ಎಷ್ಟು ಬಾರಿ ಬಡಿಯುತ್ತದೆ ಎಂದು ಎಣಿಸಲು ಪ್ರಯತ್ನಿಸಿ.",
+  "display_bullets": [
+    "ಕೊಳವೆಯ ತುದಿಯನ್ನು ಕಿವಿಗೆ ಇಡಿ.",
+    "ಆಲಿಕೆಯ ಬಾಯಿಯನ್ನು ಎದೆಯ ಮೇಲೆ ಹೃದಯದ ಬಳಿ ಇರಿಸಿ.",
+    "ಲಯಬದ್ಧವಾದ 'ಲಬ್-ಡಬ್' ಶಬ್ದವನ್ನು ಆಲಿಸಿ.",
+    "ಒಂದು ನಿಮಿಷದಲ್ಲಿ ಬಡಿತಗಳನ್ನು ಎಣಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple drawing of a person placing the funnel part of the model stethoscope on their chest and the tube end in their ear, listening intently.",
+    "labels": "ಎದೆಯ ಮೇಲಿರಿಸಿದ ಆಲಿಕೆ, ಕಿವಿಯಲ್ಲಿಟ್ಟ ಕೊಳವೆ",
+    "scientific_significance": "Demonstrates the correct usage of the model to listen to internal body sounds, specifically the heartbeat.",
+    "placeholder_note": "Image to be generated showing a person using the DIY stethoscope."
+  },
+  "sub_type": "observation",
+  "difficulty": "easy",
+  "source_example_id": "ಚಟುವಟಿಕೆ 7.2",
+  "chunk_id": "std_7_chapter_7_concept_4_chunk_013"
+}

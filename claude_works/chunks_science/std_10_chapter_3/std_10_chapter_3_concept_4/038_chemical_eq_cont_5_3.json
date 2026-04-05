@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಇದನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ನಮ್ಮ ಬಳಿ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣವಿರುವ ಒಂದು ಬೀಕರ್ ಇದೆ. ಅದಕ್ಕೆ ನಾವು ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಪುಡಿಯನ್ನು ಸೇರಿಸಿದಾಗ, ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯುತ್ತದೆ. ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಕರಗಿ, ಸೋಡಿಯಂ ಅಲ್ಯುಮಿನೇಟ್ ಎಂಬ ಹೊಸ ಲವಣ ಮತ್ತು ನೀರು ಉಂಟಾಗುತ್ತದೆ. ಇಲ್ಲಿ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಆಮ್ಲದಂತೆ ವರ್ತಿಸಿ, ಪ್ರತ್ಯಾಮ್ಲವನ್ನು ತಟಸ್ಥಗೊಳಿಸುತ್ತಿದೆ.",
+  "script_display": "ಇದನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ನಮ್ಮ ಬಳಿ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) ದ್ರಾವಣವಿರುವ ಒಂದು ಬೀಕರ್ ಇದೆ. ಅದಕ್ಕೆ ನಾವು ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ (Al₂O₃) ಪುಡಿಯನ್ನು ಸೇರಿಸಿದಾಗ, ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯುತ್ತದೆ. ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಕರಗಿ, ಸೋಡಿಯಂ ಅಲ್ಯುಮಿನೇಟ್ (NaAlO₂) ಎಂಬ ಹೊಸ ಲವಣ ಮತ್ತು ನೀರು (H₂O) ಉಂಟಾಗುತ್ತದೆ. ಇಲ್ಲಿ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಆಮ್ಲದಂತೆ ವರ್ತಿಸಿ, ಪ್ರತ್ಯಾಮ್ಲವನ್ನು ತಟಸ್ಥಗೊಳಿಸುತ್ತಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker containing a clear solution labeled 'Sodium Hydroxide (NaOH) solution'. Solid white powder labeled 'Aluminum Oxide (Al₂O₃)' is being added from a spatula. Inside the beaker, the solution is shown transforming, with labels pointing to 'Sodium Aluminate (NaAlO₂) (dissolved)' and 'Water (H₂O)'.",
+    "labels": "Beaker, Sodium Hydroxide solution, Aluminum Oxide powder, Sodium Aluminate, Water",
+    "scientific_significance": "Illustrates the reaction of an amphoteric oxide with a strong base, showing the dissolution of the solid oxide and the formation of a salt and water.",
+    "placeholder_note": "Image to be generated showing the reaction process."
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_038"
+}

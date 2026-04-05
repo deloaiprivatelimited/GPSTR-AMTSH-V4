@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಲೆಕ್ಕಾಚಾರದ ಹಂತಗಳು",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಮ್ಮ ಸೂತ್ರ E k ಈಕ್ವಲ್ಸ್ ಹಾಫ್ m v ಸ್ಕ್ವೇರ್ಡ್. ಇದರಲ್ಲಿ m ಮತ್ತು v ಯ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. ಆಗ E k ಈಕ್ವಲ್ಸ್ ಹಾಫ್ ಇಂಟು 10 ಇಂಟು 4 ಸ್ಕ್ವೇರ್ಡ್. ಮೊದಲು, ವೇಗದ ವರ್ಗವನ್ನು ಲೆಕ್ಕ ಮಾಡಬೇಕು. 4 ರ ವರ್ಗ 16. ಈಗ ಸಮೀಕರಣವು E k ಈಕ್ವಲ್ಸ್ ಹಾಫ್ ಇಂಟು 10 ಇಂಟು 16 ಎಂದಾಗುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿದಾಗ, ನಮಗೆ 80 ಜೌಲ್‌ಗಳು ಸಿಗುತ್ತವೆ. ಹೀಗೆ, ವಸ್ತುವಿನ ಚಲನಶಕ್ತಿ 80 ಜೌಲ್ ಆಗಿದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ನಮ್ಮ ಸೂತ್ರ Eₖ = ½mv². ಇದರಲ್ಲಿ m ಮತ್ತು v ಯ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. ಆಗ Eₖ = ½ × 10 × 4². ಮೊದಲು, ವೇಗದ ವರ್ಗವನ್ನು ಲೆಕ್ಕ ಮಾಡಬೇಕು. 4² = 16. ಈಗ ಸಮೀಕರಣವು Eₖ = ½ × 10 × 16 ಎಂದಾಗುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿದಾಗ, ನಮಗೆ 80 ಜೌಲ್‌ಗಳು ಸಿಗುತ್ತವೆ. ಹೀಗೆ, ವಸ್ತುವಿನ ಚಲನಶಕ್ತಿ 80 ಜೌಲ್ ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಸೂತ್ರದಲ್ಲಿ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿ: Eₖ = ½ × 10 × (4)²",
+    "ವೇಗದ ವರ್ಗವನ್ನು ಲೆಕ್ಕ ಮಾಡಿ: 4² = 16",
+    "ಸರಳೀಕರಿಸಿ: Eₖ = 5 × 16 = 80 J",
+    "ಅಂತಿಮ ಉತ್ತರ: ಚಲನಶಕ್ತಿ 80 ಜೌಲ್ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_template_3",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "E_k = \\frac{1}{2}mv^2 \\\\ E_k = \\frac{1}{2} \\times 10 \\times (4)^2 \\\\ E_k = 5 \\times 16 \\\\ E_k = 80 \\text{ J}",
+    "placeholder_note": "Show the step-by-step calculation for the kinetic energy example."
+  },
+  "chunk_id": "std_9_chapter_10_concept_4_chunk_008"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಈಗ ಮೂರನೇ ಹಂತಕ್ಕೆ ಬರೋಣ, ಇಲ್ಲಿ ನಾವು ದರ್ಪಣ ಸೂತ್ರವನ್ನು ಬಳಸಿ ಪ್ರತಿಬಿಂಬದ ದೂರ, ವಿ, ಅನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ. ದರ್ಪಣ ಸೂತ್ರವು, ಒನ್ ಬೈ ವಿ ಪ್ಲಸ್ ಒನ್ ಬೈ ಯು ಈಕ್ವಲ್ಸ್ ಒನ್ ಬೈ ಎಫ್. ನಮಗೆ ವಿ ಬೇಕಾಗಿರುವುದರಿಂದ, ಸೂತ್ರವನ್ನು ಬದಲಾಯಿಸಿ ಬರೆದರೆ, ಒನ್ ಬೈ ವಿ ಈಕ್ವಲ್ಸ್ ಒನ್ ಬೈ ಎಫ್ ಮೈನಸ್ ಒನ್ ಬೈ ಯು. ಈಗ, ಎಫ್ ಮತ್ತು ಯು ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸೋಣ. ಒನ್ ಬೈ ವಿ ಈಕ್ವಲ್ಸ್ ಒನ್ ಬೈ ಪ್ಲಸ್ ಒಂದು ಪಾಯಿಂಟ್ ಐದು ಸೊನ್ನೆ, ಮೈನಸ್ ಒನ್ ಬೈ ಮೈನಸ್ ಐದು ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಸೊನ್ನೆ. ಇದು ಒನ್ ಬೈ ಒಂದು ಪಾಯಿಂಟ್ ಐದು ಪ್ಲಸ್ ಒನ್ ಬೈ ಐದು ಆಗುತ್ತದೆ. ಲ.ಸಾ.ಅ. ತೆಗೆದಾಗ, ನಮಗೆ ಒನ್ ಬೈ ವಿ ಈಕ್ವಲ್ಸ್ ಆರು ಪಾಯಿಂಟ್ ಐದು ಸೊನ್ನೆ ಭಾಗಿಸು ಏಳು ಪಾಯಿಂಟ್ ಐದು ಸೊನ್ನೆ ಸಿಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ವಿ ಈಕ್ವಲ್ಸ್ ಏಳು ಪಾಯಿಂಟ್ ಐದು ಸೊನ್ನೆ ಭಾಗಿಸು ಆರು ಪಾಯಿಂಟ್ ಐದು ಸೊನ್ನೆ, ಅಂದರೆ ಸರಿಸುಮಾರು ಪ್ಲಸ್ ಒಂದು ಪಾಯಿಂಟ್ ಒಂದು ಐದು ಮೀಟರ್.",
+  "script_display": "**ಹಂತ 3: ದರ್ಪಣ ಸೂತ್ರವನ್ನು ಬಳಸಿ ಪ್ರತಿಬಿಂಬ ದೂರ (v) ಕಂಡುಹಿಡಿಯುವುದು.**\nದರ್ಪಣ ಸೂತ್ರ: 1/v + 1/u = 1/f\n1/v = 1/f - 1/u",
+  "display_bullets": [
+    "ಹಂತ 3: ದರ್ಪಣ ಸೂತ್ರ ಬಳಸಿ ಪ್ರತಿಬಿಂಬ ದೂರ (v) ಕಂಡುಹಿಡಿಯುವುದು.",
+    "ಸೂತ್ರ: 1/v + 1/u = 1/f",
+    "ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, v ≈ +1.15 m."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{1}{v} = \\frac{1}{+1.50} - \\frac{1}{-5.00} \\\\ \\frac{1}{v} = \\frac{1}{1.5} + \\frac{1}{5} = \\frac{5+1.5}{7.5} = \\frac{6.5}{7.5} \\\\ v = \\frac{7.5}{6.5} \\approx +1.15 \\text{ m}",
+    "placeholder_note": "Calculation of image distance v using the mirror formula"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_9_example_9.1",
+  "chunk_id": "std_10_chapter_9_concept_4_chunk_021"
+}

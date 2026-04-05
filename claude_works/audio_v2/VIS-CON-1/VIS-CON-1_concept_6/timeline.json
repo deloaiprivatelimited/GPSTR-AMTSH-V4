@@ -1,0 +1,144 @@
+{
+  "module_id": "VIS-CON-1_concept_6",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 12,
+  "total_duration": 570.732,
+  "total_duration_formatted": "9:30",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "VIS-CON-1_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಆಯತಗಳ ವಿಶೇಷ ರಚನೆಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 75.971,
+      "duration": 75.971,
+      "script_words": 92
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 76.571,
+      "end": 121.342,
+      "duration": 44.771,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_6_chunk_003",
+      "chunk_file": "003_example_0.json",
+      "wav_file": "003_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ವಿಶೇಷ ಆಯತದ ರಚನೆ",
+      "type": "worked_example",
+      "start": 121.942,
+      "end": 157.873,
+      "duration": 35.931,
+      "script_words": 40
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_6_chunk_004",
+      "chunk_file": "004_example_cont_0_1.json",
+      "wav_file": "004_example_cont_0_1.wav",
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 1",
+      "type": "worked_example",
+      "start": 158.473,
+      "end": 199.964,
+      "duration": 41.491,
+      "script_words": 43
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_6_chunk_005",
+      "chunk_file": "005_example_cont_0_2.json",
+      "wav_file": "005_example_cont_0_2.wav",
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 2",
+      "type": "worked_example",
+      "start": 200.564,
+      "end": 251.495,
+      "duration": 50.931,
+      "script_words": 76
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_6_chunk_006",
+      "chunk_file": "006_example_cont_0_3.json",
+      "wav_file": "006_example_cont_0_3.wav",
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 3",
+      "type": "worked_example",
+      "start": 252.095,
+      "end": 298.986,
+      "duration": 46.891,
+      "script_words": 79
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_6_chunk_007",
+      "chunk_file": "007_example_cont_0_4.json",
+      "wav_file": "007_example_cont_0_4.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "start": 299.586,
+      "end": 338.877,
+      "duration": 39.291,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_6_chunk_008",
+      "chunk_file": "008_example_1.json",
+      "wav_file": "008_example_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ವಿಶೇಷ ಕೋನಗಳೊಂದಿಗೆ ಆಯತದ ರಚನೆ",
+      "type": "worked_example",
+      "start": 339.477,
+      "end": 378.368,
+      "duration": 38.891,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_6_chunk_009",
+      "chunk_file": "009_example_cont_1_1.json",
+      "wav_file": "009_example_cont_1_1.wav",
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 1",
+      "type": "worked_example",
+      "start": 378.968,
+      "end": 430.219,
+      "duration": 51.251,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_6_chunk_010",
+      "chunk_file": "010_example_cont_1_2.json",
+      "wav_file": "010_example_cont_1_2.wav",
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 2",
+      "type": "worked_example",
+      "start": 430.819,
+      "end": 487.67,
+      "duration": 56.851,
+      "script_words": 98
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_6_chunk_011",
+      "chunk_file": "011_example_cont_1_3.json",
+      "wav_file": "011_example_cont_1_3.wav",
+      "slide_title": "ಅಂತಿಮ ಫಲಿತಾಂಶ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "start": 488.27,
+      "end": 529.401,
+      "duration": 41.131,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_6_chunk_012",
+      "chunk_file": "012_recap_0.json",
+      "wav_file": "012_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಆಯತಗಳ ವಿಶೇಷ ರಚನೆಗಳು",
+      "type": "recap",
+      "start": 530.001,
+      "end": 570.132,
+      "duration": 40.131,
+      "script_words": 52
+    }
+  ]
+}

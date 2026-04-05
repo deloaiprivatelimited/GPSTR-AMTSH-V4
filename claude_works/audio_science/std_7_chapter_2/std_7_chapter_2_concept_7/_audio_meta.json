@@ -1,0 +1,81 @@
+{
+  "module_id": "std_7_chapter_2_concept_7",
+  "chapter_code": "std_7_chapter_2",
+  "voice": "Rasalgethi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:47:59",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "16c23ebcce84798eb106b14864536013",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 22.971,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 34,
+      "generated_at": "2026-04-02 13:46:42"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "2113ba857b89fe33043904021984014f",
+      "wav_file": "001_intro_0.wav",
+      "duration": 42.011,
+      "slide_title": "ದೊಡ್ಡ ಕರುಳು ಮತ್ತು ಪೋಷಣೆಯ ಪ್ರಕ್ರಿಯೆಗಳು",
+      "type": "chunk",
+      "script_words": 62,
+      "generated_at": "2026-04-02 13:46:58"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "d104a0b94d3dfff029f756c5fda213f9",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 50.211,
+      "slide_title": "ಪೋಷಣೆಯ ಐದು ಹಂತಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:47:00"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "8334b58df7366550f007a8e73b69ad64",
+      "wav_file": "003_classification_0.wav",
+      "duration": 47.451,
+      "slide_title": "ಪೋಷಣೆಯ ಐದು ಹಂತಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 13:47:01"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "df07dd01f7550211657ac56505bc43a5",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 52.331,
+      "slide_title": "ಪೋಷಣೆಯ ಅಂತಿಮ ಹಂತ",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 13:47:27"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "d4531ba0da35e1d9d421a17a54377c2e",
+      "wav_file": "006_recap_0.wav",
+      "duration": 48.891,
+      "slide_title": "ಸಾರಾಂಶ: ದೊಡ್ಡ ಕರುಳು ಮತ್ತು ಪೋಷಣೆಯ ಹಂತಗಳು",
+      "type": "recap",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:47:59"
+    }
+  }
+}

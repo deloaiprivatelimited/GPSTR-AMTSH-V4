@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ಎರಡನೇ ಸಂದರ್ಭದ ವೇಗೋತ್ಕರ್ಷ",
+  "script": "ಈಗ, ಎರಡನೇ ಸಂದರ್ಭವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಸೈಕಲ್ ಈಗಾಗಲೇ ಚಲನೆಯಲ್ಲಿದೆ, ಹಾಗಾಗಿ ಆರಂಭಿಕ ವೇಗ u ಆರು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಆಗುತ್ತದೆ. ಬ್ರೇಕ್ ಹಾಕಿದ ನಂತರ ಅಂತಿಮ ವೇಗ v ನಾಲ್ಕು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಆಗುತ್ತದೆ. ಇದಕ್ಕೆ ತೆಗೆದುಕೊಂಡ ಸಮಯ t ಐದು ಸೆಕೆಂಡುಗಳು. ಮತ್ತೆ ಅದೇ ಸೂತ್ರವನ್ನು ಬಳಸೋಣ: a equals v minus u divided by t. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, a ಎರಡು equals ನಾಲ್ಕು ಮೈನಸ್ ಆರು, ಭಾಗಿಸು ಐದು. ಇದು ಮೈನಸ್ ಎರಡನ್ನು ಐದರಿಂದ ಭಾಗಿಸಿದಂತೆ ಆಗುತ್ತದೆ. ಲೆಕ್ಕ ಮಾಡಿದಾಗ, ವೇಗೋತ್ಕರ್ಷ a ಎರಡು equals ಮೈನಸ್ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್ ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ, ಎರಡನೇ ಸಂದರ್ಭವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಸೈಕಲ್ ಈಗಾಗಲೇ ಚಲನೆಯಲ್ಲಿದೆ, ಹಾಗಾಗಿ ಆರಂಭಿಕ ವೇಗ u = 6 ms⁻¹ ಆಗುತ್ತದೆ. ಬ್ರೇಕ್ ಹಾಕಿದ ನಂತರ ಅಂತಿಮ ವೇಗ v = 4 ms⁻¹ ಆಗುತ್ತದೆ. ಇದಕ್ಕೆ ತೆಗೆದುಕೊಂಡ ಸಮಯ t = 5 s. ಮತ್ತೆ ಅದೇ ಸೂತ್ರವನ್ನು ಬಳಸೋಣ: a = (v - u) / t. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, a₂ = (4 - 6) / 5. ಇದು -2/5 ಆಗುತ್ತದೆ. ಲೆಕ್ಕ ಮಾಡಿದಾಗ, ವೇಗೋತ್ಕರ್ಷ a₂ = -0.4 ms⁻² ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಈಗ, ಆರಂಭಿಕ ವೇಗ u = 6 ms⁻¹ ಮತ್ತು ಅಂತಿಮ ವೇಗ v = 4 ms⁻¹.",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: a₂ = (4 ms⁻¹ - 6 ms⁻¹) / 5 s",
+    "ಲೆಕ್ಕಾಚಾರ: a₂ = -2 / 5 ms⁻²",
+    "ಫಲಿತಾಂಶ: a₂ = -0.4 ms⁻²"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "a_2 = \\frac{v - u}{t} = \\frac{4 - 6}{5} = -0.4 \\, \\text{ms}^{-2}",
+    "placeholder_note": "Show the calculation for the second case."
+  },
+  "source_example_id": "std_9_chapter_7_example_7.4",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಎರಡನೇ ಸಂದರ್ಭದ ವೇಗೋತ್ಕರ್ಷವನ್ನು ಲೆಕ್ಕ ಹಾಕಿ.",
+      "justification": "ಈಗ ಆರಂಭಿಕ ವೇಗ (u) = 6 ms⁻¹, ಅಂತಿಮ ವೇಗ (v) = 4 ms⁻¹, ಕಾಲ (t) = 5 s."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "std_9_chapter_7_concept_3_chunk_017"
+}

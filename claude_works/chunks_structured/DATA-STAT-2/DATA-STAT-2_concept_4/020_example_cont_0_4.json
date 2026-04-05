@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 6 (y ನ ಬೆಲೆ)",
+  "script": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು y ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ x ನ ಬೆಲೆ 9 ಎಂದು ಸಿಕ್ಕಿದೆ. ಇದನ್ನು ನಾವು ಮೊದಲೇ ರಚಿಸಿದ ಸಮೀಕರಣ ಒಂದರಲ್ಲಿ, ಅಂದರೆ x ಪ್ಲಸ್ y ಸಮ 24 ರಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಆಗ 9 ಪ್ಲಸ್ y ಸಮ 24 ಆಗುತ್ತದೆ. 24 ರಿಂದ 9 ಕಳೆದರೆ, y ಸಮ 15 ಎಂದು ಉತ್ತರ ಸಿಗುತ್ತದೆ. ಹೀಗೆ, ನಾವು ಎರಡೂ ಬಿಟ್ಟುಹೋದ ಆವೃತ್ತಿಗಳನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದೇವೆ.",
+  "script_display": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು y ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ x ನ ಬೆಲೆ 9 ಎಂದು ಸಿಕ್ಕಿದೆ. ಇದನ್ನು ನಾವು ಮೊದಲೇ ರಚಿಸಿದ ಸಮೀಕರಣ (1) ರಲ್ಲಿ, ಅಂದರೆ $x + y = 24$ ರಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಆಗ $9 + y = 24$ ಆಗುತ್ತದೆ. 24 ರಿಂದ 9 ಕಳೆದರೆ, $y = 15$ ಎಂದು ಉತ್ತರ ಸಿಗುತ್ತದೆ. ಹೀಗೆ, ನಾವು ಎರಡೂ ಬಿಟ್ಟುಹೋದ ಆವೃತ್ತಿಗಳನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_simple",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "DATA-STAT-2_example_5",
+  "steps": [
+    {
+      "step": 6,
+      "action_display": "$x=9$ ಅನ್ನು ಸಮೀಕರಣ (1) ರಲ್ಲಿ ಆದೇಶಿಸಿದಾಗ, $x+y=24 \\implies 9+y=24$",
+      "justification": "ಮೊದಲ ಸಮೀಕರಣವನ್ನು ಬಳಸಿ y ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು."
+    },
+    {
+      "step": 6,
+      "action_display": "$y = 24 - 9 \\implies y = 15$",
+      "justification": "y ನ ಅಂತಿಮ ಬೆಲೆಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "DATA-STAT-2_concept_4_chunk_020"
+}

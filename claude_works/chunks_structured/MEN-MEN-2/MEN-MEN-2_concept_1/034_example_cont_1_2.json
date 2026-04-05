@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ, ವಜ್ರಾಕೃತಿಯ ಮತ್ತೊಂದು ಕರ್ಣದ ಉದ್ದ 30 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ, ವಜ್ರಾಕೃತಿಯ ಮತ್ತೊಂದು ಕರ್ಣದ ಉದ್ದ 30 ಸೆಂ.ಮೀ. ಆಗಿದೆ.",
+  "display_bullets": [
+    "ವಜ್ರಾಕೃತಿಯ ಮತ್ತೊಂದು ಕರ್ಣದ ಉದ್ದ 30 ಸೆಂ.ಮೀ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "takeaway_center",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "MEN-MEN-2_example_2",
+  "steps": [],
+  "final_answer": "30 cm",
+  "final_answer_display": "30 \\text{ ಸೆಂ.ಮೀ.}",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "MEN-MEN-2_concept_1_chunk_034"
+}

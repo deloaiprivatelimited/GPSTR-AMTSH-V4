@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಸುರಕ್ಷಿತ ಆಹಾರ vs ವಿಷಪೂರಿತ ಆಹಾರ",
+  "script": "ಹಾಗಾದರೆ, ಸುರಕ್ಷಿತ ಆಹಾರ ಮತ್ತು ವಿಷಪೂರಿತ ಆಹಾರದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಆಹಾರವನ್ನು ಸರಿಯಾಗಿ ಮುಚ್ಚಿ ರೆಫ್ರಿಜರೇಟರ್‌ನಂತಹ ತಂಪಾದ ಸ್ಥಳದಲ್ಲಿ ಇಡಲಾಗಿದೆ. ಇಲ್ಲಿ ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಬೆಳವಣಿಗೆಯು ತುಂಬಾ ನಿಧಾನವಾಗಿರುತ್ತದೆ, ಹಾಗಾಗಿ ಆಹಾರವು ತಿನ್ನಲು ಸುರಕ್ಷಿತವಾಗಿರುತ್ತದೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಅದೇ ಆಹಾರವನ್ನು ಹೊರಗೆ ತೆರೆದಿಟ್ಟಾಗ, ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ಸುಲಭವಾಗಿ ಬೆಳೆದು ವಿಷವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡಿವೆ. ಈ ಆಹಾರವನ್ನು ತಿಂದರೆ ಆಹಾರ ವಿಷಮಯ ಉಂಟಾಗುತ್ತದೆ. ಇದರಿಂದ ಆಹಾರ ಸಂರಕ್ಷಣೆಯ ಮಹತ್ವ ನಮಗೆ ತಿಳಿಯುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಸುರಕ್ಷಿತ ಆಹಾರ ಮತ್ತು ವಿಷಪೂರಿತ ಆಹಾರದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಆಹಾರವನ್ನು ಸರಿಯಾಗಿ ಮುಚ್ಚಿ ರೆಫ್ರಿಜರೇಟರ್‌ನಂತಹ ತಂಪಾದ ಸ್ಥಳದಲ್ಲಿ ಇಡಲಾಗಿದೆ. ಇಲ್ಲಿ ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಬೆಳವಣಿಗೆಯು ತುಂಬಾ ನಿಧಾನವಾಗಿರುತ್ತದೆ, ಹಾಗಾಗಿ ಆಹಾರವು ತಿನ್ನಲು ಸುರಕ್ಷಿತವಾಗಿರುತ್ತದೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಅದೇ ಆಹಾರವನ್ನು ಹೊರಗೆ ತೆರೆದಿಟ್ಟಾಗ, ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ಸುಲಭವಾಗಿ ಬೆಳೆದು ವಿಷವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡಿವೆ. ಈ ಆಹಾರವನ್ನು ತಿಂದರೆ ಆಹಾರ ವಿಷಮಯ ಉಂಟಾಗುತ್ತದೆ. ಇದರಿಂದ ಆಹಾರ ಸಂರಕ್ಷಣೆಯ ಮಹತ್ವ ನಮಗೆ ತಿಳಿಯುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "side_by_side",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen image. Left side: A bowl of food, covered with a lid, inside a clean refrigerator. Label: 'ಸುರಕ್ಷಿತ ಆಹಾರ (ಸಂರಕ್ಷಿತ)'. Right side: The same bowl of food, uncovered, on a table with flies and cartoon germs around it, looking slightly discolored. Label: 'ವಿಷಪೂರಿತ ಆಹಾರ (ಹಾಳಾದ)'.",
+    "labels": "ಎಡಭಾಗ: ಸುರಕ್ಷಿತ ಆಹಾರ, ಬಲಭಾಗ: ವಿಷಪೂರಿತ ಆಹಾರ",
+    "scientific_significance": "Visually contrasts proper food storage (refrigeration) with improper storage (leaving food out), directly linking the condition of the food to its safety and the risk of food poisoning.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_8_chapter_2_concept_6_chunk_005"
+}

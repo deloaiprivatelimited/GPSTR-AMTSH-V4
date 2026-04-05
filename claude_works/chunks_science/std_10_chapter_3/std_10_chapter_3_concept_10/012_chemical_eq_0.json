@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕಾರ್ಬನ್‌ನಿಂದ ಅಪಕರ್ಷಣ: ಸತುವಿನ ಉತ್ಪಾದನೆ",
+  "script": "ಈಗ ನಾವು ಮಧ್ಯಮ ಕ್ರಿಯಾಶೀಲ ಲೋಹಗಳನ್ನು ಹೇಗೆ ಅಪಕರ್ಷಿಸಲಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಒಂದು ಸಾಮಾನ್ಯ ಉದಾಹರಣೆ ಎಂದರೆ ಸತುವಿನ ಆಕ್ಸೈಡ್ ಅನ್ನು ಕಾರ್ಬನ್ ಬಳಸಿ ಅಪಕರ್ಷಿಸುವುದು. ರಾಸಾಯನಿಕ ಸಮೀಕರಣವು ಹೀಗಿದೆ: ಒಂದು ಘನ ಸತುವಿನ ಆಕ್ಸೈಡ್, ಒಂದು ಘನ ಕಾರ್ಬನ್ ಜೊತೆ ವರ್ತಿಸಿ, ಒಂದು ಘನ ಸತು ಮತ್ತು ಒಂದು ಕಾರ್ಬನ್ ಮಾನಾಕ್ಸೈಡ್ ಅನಿಲವನ್ನು ನೀಡುತ್ತದೆ. ಇಲ್ಲಿ ಕಾರ್ಬನ್, ಸತುವಿನ ಆಕ್ಸೈಡ್‌ನಿಂದ ಆಕ್ಸಿಜನ್ ಅನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಮಧ್ಯಮ ಕ್ರಿಯಾಶೀಲ ಲೋಹಗಳನ್ನು ಹೇಗೆ ಅಪಕರ್ಷಿಸಲಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಒಂದು ಸಾಮಾನ್ಯ ಉದಾಹರಣೆ ಎಂದರೆ ಸತುವಿನ ಆಕ್ಸೈಡ್ ಅನ್ನು ಕಾರ್ಬನ್ ಬಳಸಿ ಅಪಕರ್ಷಿಸುವುದು. ರಾಸಾಯನಿಕ ಸಮೀಕರಣವು ಹೀಗಿದೆ: ZnO(s) + C(s) → Zn(s) + CO(g). ಇಲ್ಲಿ ಕಾರ್ಬನ್, ಸತುವಿನ ಆಕ್ಸೈಡ್‌ನಿಂದ ಆಕ್ಸಿಜನ್ ಅನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "classic_blue",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ZnO(s) + C(s) \\xrightarrow{\\Delta} Zn(s) + CO(g)",
+    "placeholder_note": "Chemical equation for the reduction of zinc oxide by carbon."
+  },
+  "chunk_id": "std_10_chapter_3_concept_10_chunk_012"
+}

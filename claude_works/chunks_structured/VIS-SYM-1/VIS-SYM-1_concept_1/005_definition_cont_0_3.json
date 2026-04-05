@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಸಮಮಿತೀಯ vs. ಅಸಮಮಿತೀಯ",
+  "script": "ಈಗ ಸಮಮಿತೀಯ ಮತ್ತು ಅಸಮಮಿತೀಯ ಚಿತ್ರಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ 'A' ಅಕ್ಷರವಿದೆ. ಇದರ ಮಧ್ಯದಲ್ಲಿ ನಾವು ಒಂದು ಲಂಬ ರೇಖೆಯನ್ನು ಎಳೆದರೆ, ಅದು ಎರಡು ಸಮಾನ, ಪ್ರತಿಬಿಂಬಿತ ಭಾಗಗಳಾಗಿ ವಿಂಗಡನೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, 'A' ಅಕ್ಷರವು ಒಂದು ಸಮಮಿತೀಯ ಚಿತ್ರ. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ 'F' ಅಕ್ಷರವನ್ನು ನೋಡಿ. ನಾವು ಎಲ್ಲಿಯೇ ರೇಖೆಯನ್ನು ಎಳೆಯಲು ಪ್ರಯತ್ನಿಸಿದರೂ, ಅದನ್ನು ಎರಡು ಸಮಾನ, ಪ್ರತಿಬಿಂಬಿತ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಆದ್ದರಿಂದ, 'F' ಅಕ್ಷರವು ಒಂದು ಅಸಮಮಿತೀಯ ಚಿತ್ರವಾಗಿದೆ. ಈ ಹೋಲಿಕೆಯು ಸಮಮಿತಿಯ ಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಸಮಮಿತೀಯ ಮತ್ತು ಅಸಮಮಿತೀಯ ಚಿತ್ರಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ 'A' ಅಕ್ಷರವಿದೆ. ಇದರ ಮಧ್ಯದಲ್ಲಿ ನಾವು ಒಂದು ಲಂಬ ರೇಖೆಯನ್ನು ಎಳೆದರೆ, ಅದು ಎರಡು ಸಮಾನ, ಪ್ರತಿಬಿಂಬಿತ ಭಾಗಗಳಾಗಿ ವಿಂಗಡನೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, 'A' ಅಕ್ಷರವು ಒಂದು ಸಮಮಿತೀಯ ಚಿತ್ರ. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ 'F' ಅಕ್ಷರವನ್ನು ನೋಡಿ. ನಾವು ಎಲ್ಲಿಯೇ ರೇಖೆಯನ್ನು ಎಳೆಯಲು ಪ್ರಯತ್ನಿಸಿದರೂ, ಅದನ್ನು ಎರಡು ಸಮಾನ, ಪ್ರತಿಬಿಂಬಿತ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಆದ್ದರಿಂದ, 'F' ಅಕ್ಷರವು ಒಂದು ಅಸಮಮಿತೀಯ ಚಿತ್ರವಾಗಿದೆ. ಈ ಹೋಲಿಕೆಯು ಸಮಮಿತಿಯ ಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "video_style_1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. On the left, the letter 'A' with a vertical dotted line of symmetry down the middle, labeled 'ಸಮಮಿತೀಯ ಚಿತ್ರ (Symmetrical)'. On the right, the letter 'F' with no possible line of symmetry, labeled 'ಅಸಮಮಿತೀಯ ಚಿತ್ರ (Asymmetrical)'.",
+    "labels": "ಸಮಮಿತೀಯ, ಅಸಮಮಿತೀಯ",
+    "mathematical_significance": "Provides a clear example and counter-example to solidify the student's understanding of what constitutes a symmetrical figure versus an asymmetrical one.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "VIS-SYM-1_concept_1_chunk_005"
+}

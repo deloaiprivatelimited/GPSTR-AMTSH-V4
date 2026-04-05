@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ಬಲದ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಬಲವನ್ನು ಲೆಕ್ಕ ಹಾಕಲು ನ್ಯೂಟನ್‌ರ ಎರಡನೇ ನಿಯಮದ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ. ಸೂತ್ರ F equals m ಗುಣಿಸು v minus u, ಭಾಗಿಸು t. ಈಗ ಬೆಲೆಗಳನ್ನು ಹಾಕೋಣ. F equals 1000 ಗುಣಿಸು ಸೊನ್ನೆ ಮೈನಸ್ 30, ಭಾಗಿಸು 4. ಅಂದರೆ 1000 ಗುಣಿಸು ಮೈನಸ್ 30, ಇದು ಮೈನಸ್ 30000 ಆಗುತ್ತದೆ. ಇದನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಮೈನಸ್ 7500 ನ್ಯೂಟನ್ ಸಿಗುತ್ತದೆ.",
+  "script_display": "**ಹಂತ 2: ನ್ಯೂಟನ್‌ರ ಎರಡನೇ ನಿಯಮವನ್ನು ಬಳಸಿ ಬಲವನ್ನು (F) ಕಂಡುಹಿಡಿಯುವುದು.**\n\nಸೂತ್ರ: F = m(v-u)/t\n\nಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ:\nF = 1000 kg × (0 m/s - 30 m/s) / 4 s\nF = -30000 / 4\nF = -7500 N",
+  "display_bullets": [
+    "ಹಂತ 2: ನ್ಯೂಟನ್‌ರ ಎರಡನೇ ನಿಯಮವನ್ನು ಬಳಸಿ ಬಲವನ್ನು (F) ಕಂಡುಹಿಡಿಯುವುದು.",
+    "ಸೂತ್ರ: F = m(v-u)/t",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: F = 1000 kg × (0 m/s - 30 m/s) / 4 s",
+    "F = -30000 / 4 = -7500 N"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "F = \\frac{m(v-u)}{t} \\\\ F = \\frac{1000 \\times (0 - 30)}{4} \\\\ F = -7500 \\text{ N}",
+    "placeholder_note": "Formula box showing the calculation of force."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_8_example_8.3",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಬಲವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಸೂತ್ರ ಬಳಸುವುದು.",
+      "justification": "F = m(v-u)/t"
+    }
+  ],
+  "chunk_id": "std_9_chapter_8_concept_4_chunk_012"
+}

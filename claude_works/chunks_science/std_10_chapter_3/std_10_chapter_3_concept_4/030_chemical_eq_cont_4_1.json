@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಸಮೀಕರಣ ಹೀಗಿದೆ: ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ನ ಒಂದು ಅಣು, ಆರು ಅಣುಗಳ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎರಡು ಅಣುಗಳ ಅಲ್ಯೂಮಿನಿಯಂ ಕ್ಲೋರೈಡ್ ಮತ್ತು ಮೂರು ಅಣುಗಳ ನೀರನ್ನು ಕೊಡುತ್ತದೆ.",
+  "script_display": "ಸಮೀಕರಣ: $Al_2O_3(s) + 6HCl(aq) \\rightarrow 2AlCl_3(aq) + 3H_2O(l)$",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Al_2O_3(s) + 6HCl(aq) \\rightarrow 2AlCl_3(aq) + 3H_2O(l)",
+    "placeholder_note": "The balanced chemical equation for the reaction of aluminum oxide with hydrochloric acid."
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_030"
+}

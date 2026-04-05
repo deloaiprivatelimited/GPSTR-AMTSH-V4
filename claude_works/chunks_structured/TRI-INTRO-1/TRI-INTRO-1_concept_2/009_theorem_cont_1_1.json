@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಷ್ಪತ್ತಿ: ಹಂತ 1 - ಸಮಬಾಹು ತ್ರಿಭುಜ",
+  "script": "30 ಡಿಗ್ರಿ ಮತ್ತು 60 ಡಿಗ್ರಿ ಕೋನಗಳ ಅನುಪಾತಗಳನ್ನು ಪಡೆಯಲು, ನಾವು ಒಂದು ಸಮಬಾಹು ತ್ರಿಭುಜ ABC ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಸಮಬಾಹು ತ್ರಿಭುಜದ ಗುಣಲಕ್ಷಣದ ಪ್ರಕಾರ, ಅದರ ಎಲ್ಲಾ ಕೋನಗಳು 60 ಡಿಗ್ರಿಗಳಾಗಿರುತ್ತವೆ. ಅಂದರೆ, ಕೋನ A, ಕೋನ B, ಮತ್ತು ಕೋನ C, ಎಲ್ಲವೂ 60 ಡಿಗ್ರಿ. ಲೆಕ್ಕಾಚಾರವನ್ನು ಸುಲಭಗೊಳಿಸಲು, ನಾವು ಪ್ರತಿ ಬಾಹುವಿನ ಉದ್ದವನ್ನು ಎರಡು a ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಅಂದರೆ, AB, BC, ಮತ್ತು CA ಬಾಹುಗಳ ಉದ್ದ ಎರಡು a ಆಗಿರುತ್ತದೆ.",
+  "script_display": "30° ಮತ್ತು 60° ಕೋನಗಳ ಅನುಪಾತಗಳನ್ನು ಪಡೆಯಲು, ನಾವು ಒಂದು ಸಮಬಾಹು ತ್ರಿಭುಜ ABC ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಸಮಬಾಹು ತ್ರಿಭುಜದ ಗುಣಲಕ್ಷಣದ ಪ್ರಕಾರ, ಅದರ ಎಲ್ಲಾ ಕೋನಗಳು 60°ಗಳಾಗಿರುತ್ತವೆ. ಅಂದರೆ, $\\angle A = \\angle B = \\angle C = 60^\\circ$. ಲೆಕ್ಕಾಚಾರವನ್ನು ಸುಲಭಗೊಳಿಸಲು, ನಾವು ಪ್ರತಿ ಬಾಹುವಿನ ಉದ್ದವನ್ನು $2a$ ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಅಂದರೆ, $AB = BC = CA = 2a$ ಆಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಸಮಬಾಹು ತ್ರಿಭುಜ ABC ಯನ್ನು ಪರಿಗಣಿಸಿ.",
+    "ಎಲ್ಲಾ ಕೋನಗಳು 60° ಆಗಿರುತ್ತವೆ: $\\angle A = \\angle B = \\angle C = 60^\\circ$.",
+    "ಪ್ರತಿ ಬಾಹುವಿನ ಉದ್ದ $2a$ ಆಗಿರಲಿ: $AB = BC = CA = 2a$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ಸಮಬಾಹು ತ್ರಿಭುಜ ABC. ಎಲ್ಲಾ ಮೂರು ಕೋನಗಳನ್ನು 60° ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಎಲ್ಲಾ ಮೂರು ಬಾಹುಗಳನ್ನು '2a' ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, C, 60°, 2a",
+    "mathematical_significance": "30° ಮತ್ತು 60° ಅನುಪಾತಗಳ ನಿಷ್ಪತ್ತಿಗಾಗಿ ಆರಂಭಿಕ ಜ್ಯಾಮಿತೀಯ ರಚನೆ.",
+    "placeholder_note": "Image to be generated for an equilateral triangle ABC with angles labeled 60 degrees and sides labeled 2a."
+  },
+  "chunk_id": "TRI-INTRO-1_concept_2_chunk_009"
+}

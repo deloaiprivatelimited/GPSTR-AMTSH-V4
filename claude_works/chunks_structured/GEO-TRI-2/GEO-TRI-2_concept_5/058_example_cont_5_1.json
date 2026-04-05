@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಪರಿಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣವನ್ನು, ಅಂದರೆ OA ಗುಣಿಸು OB ಸಮ OC ಗುಣಿಸು OD, ಅನುಪಾತದ ರೂಪದಲ್ಲಿ ಬರೆಯೋಣ. OC ಯನ್ನು ಸಮೀಕರಣದ ಎಡಭಾಗಕ್ಕೂ ಮತ್ತು OB ಯನ್ನು ಬಲಭಾಗಕ್ಕೂ ತಂದರೆ, ನಮಗೆ OA ಭಾಗಿಸು OC ಸಮ OD ಭಾಗಿಸು OB ಎಂದು ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಸಮೀಕರಣ ಒಂದು ಎಂದು ಕರೆಯೋಣ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಯಾವ ತ್ರಿಭುಜಗಳನ್ನು ಹೋಲಿಸಬೇಕು ಎಂದು ನಿರ್ಧರಿಸೋಣ. ಚಿತ್ರದ ಪ್ರಕಾರ, ನಾವು ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ COB ಗಳನ್ನು ಪರಿಗಣಿಸಬೇಕು.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣವನ್ನು, ಅಂದರೆ $OA \\cdot OB = OC \\cdot OD$, ಅನುಪಾತದ ರೂಪದಲ್ಲಿ ಬರೆಯೋಣ. $OC$ ಯನ್ನು ಸಮೀಕರಣದ ಎಡಭಾಗಕ್ಕೂ ಮತ್ತು $OB$ ಯನ್ನು ಬಲಭಾಗಕ್ಕೂ ತಂದರೆ, ನಮಗೆ $\\frac{OA}{OC} = \\frac{OD}{OB}$ ಎಂದು ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಸಮೀಕರಣ (1) ಎಂದು ಕರೆಯೋಣ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಯಾವ ತ್ರಿಭುಜಗಳನ್ನು ಹೋಲಿಸಬೇಕು ಎಂದು ನಿರ್ಧರಿಸೋಣ. ಚಿತ್ರದ ಪ್ರಕಾರ, ನಾವು $\\triangle AOD$ ಮತ್ತು $\\triangle COB$ ಗಳನ್ನು ಪರಿಗಣಿಸಬೇಕು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ರೇಖೆಗಳು, AC ಮತ್ತು BD, O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. ಇದರಿಂದ ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ COB ಉಂಟಾಗಿವೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಬಾ.ಕೋ.ಬಾ (SAS) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ವಿವರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಮತ್ತು ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಇಲ್ಲಿ ಗುರುತಿಸಬಹುದು.",
+    "placeholder_note": "Please generate an image based on Figure 6.31 from the textbook, showing two lines AC and BD intersecting at O."
+  },
+  "source_example_id": "GEO-TRI-2_example_16",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತ: $OA \\cdot OB = OC \\cdot OD$. ಆದ್ದರಿಂದ, $\\frac{OA}{OC} = \\frac{OD}{OB}$ --- (1).",
+      "justification": "ಬಾ.ಕೋ.ಬಾ ಸಮರೂಪತೆಯನ್ನು ಅನ್ವಯಿಸಲು ಬೇಕಾದ ರೂಪಕ್ಕೆ ತರುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\triangle AOD$ ಮತ್ತು $\\triangle COB$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+      "justification": "ಸಮರೂಪತೆಯನ್ನು ಸಾಧಿಸಲು ಬೇಕಾದ ತ್ರಿಭುಜಗಳನ್ನು ಆರಿಸಿಕೊಳ್ಳುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_058"
+}

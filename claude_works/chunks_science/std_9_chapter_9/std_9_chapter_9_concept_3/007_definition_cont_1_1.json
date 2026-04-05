@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಇದನ್ನು ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ವಸ್ತುವನ್ನು ಎತ್ತರದಿಂದ ಬಿಟ್ಟಾಗ, ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಅದರ ವೇಗ ಹೇಗೆ ಬದಲಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ಮೊದಲನೇ ಸೆಕೆಂಡಿನ ಕೊನೆಯಲ್ಲಿ, ಅದರ ವೇಗ ಸೆಕೆಂಡಿಗೆ ಸುಮಾರು 9.8 ಮೀಟರ್ ಆಗಿರುತ್ತದೆ. ಎರಡನೇ ಸೆಕೆಂಡಿನ ಕೊನೆಯಲ್ಲಿ, ಅದರ ವೇಗ ಸೆಕೆಂಡಿಗೆ ಸುಮಾರು 19.6 ಮೀಟರ್ ಆಗಿರುತ್ತದೆ. ಮೂರನೇ ಸೆಕೆಂಡಿನ ಕೊನೆಯಲ್ಲಿ, ಅದು ಸೆಕೆಂಡಿಗೆ ಸುಮಾರು 29.4 ಮೀಟರ್ ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ, ವಸ್ತುವಿನ ವೇಗವು 9.8 ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್‌ನಷ್ಟು ಹೆಚ್ಚಾಗುತ್ತಲೇ ಇರುತ್ತದೆ. ಈ ಸ್ಥಿರವಾದ ವೇಗೋತ್ಕರ್ಷವೇ 'g'.",
+  "script_display": "ಇದನ್ನು ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ವಸ್ತುವನ್ನು ಎತ್ತರದಿಂದ ಬಿಟ್ಟಾಗ, ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಅದರ ವೇಗ ಹೇಗೆ ಬದಲಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ಮೊದಲನೇ ಸೆಕೆಂಡಿನ ಕೊನೆಯಲ್ಲಿ, ಅದರ ವೇಗ ≈ $9.8 \\text{ m/s}$ ಆಗಿರುತ್ತದೆ. ಎರಡನೇ ಸೆಕೆಂಡಿನ ಕೊನೆಯಲ್ಲಿ, ಅದರ ವೇಗ ≈ $19.6 \\text{ m/s}$ ಆಗಿರುತ್ತದೆ. ಮೂರನೇ ಸೆಕೆಂಡಿನ ಕೊನೆಯಲ್ಲಿ, ಅದು ≈ $29.4 \\text{ m/s}$ ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ, ವಸ್ತುವಿನ ವೇಗವು $9.8 \\text{ m/s}$ ನಷ್ಟು ಹೆಚ್ಚಾಗುತ್ತಲೇ ಇರುತ್ತದೆ. ಈ ಸ್ಥಿರವಾದ ವೇಗೋತ್ಕರ್ಷವೇ 'g'.",
+  "display_bullets": [
+    "ಸಮಯ = 1 ಸೆಕೆಂಡ್, ವೇಗ ≈ $9.8 \\text{ m/s}$",
+    "ಸಮಯ = 2 ಸೆಕೆಂಡ್, ವೇಗ ≈ $19.6 \\text{ m/s}$",
+    "ಸಮಯ = 3 ಸೆಕೆಂಡ್, ವೇಗ ≈ $29.4 \\text{ m/s}$",
+    "ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ವೇಗವು $9.8 \\text{ m/s}$ ರಷ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a ball being dropped from a height. At time t=0s, its velocity v=0 m/s. At t=1s, v=9.8 m/s. At t=2s, v=19.6 m/s. At t=3s, v=29.4 m/s. Arrows indicating downward motion and increasing velocity at each time interval.",
+    "labels": "Time, Velocity, Falling object",
+    "scientific_significance": "Demonstrates the concept of constant acceleration due to gravity, where velocity increases by a fixed amount (9.8 m/s) every second.",
+    "placeholder_note": "Generate a diagram showing a falling object's velocity increasing linearly with time."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_9_concept_3_chunk_007"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆ 5.3: ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈಗ ನಾವು ಭೌತ ಬದಲಾವಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಹೆಸರು ನೀರು ಮಂಜುಗಡ್ಡೆಯಾಗುವುದು ಮತ್ತು ಕರಗುವುದು. ಇದಕ್ಕಾಗಿ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಎರಡು ವಸ್ತುಗಳು. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಕೆಲವು ಮಂಜುಗಡ್ಡೆಯ ತುಂಡುಗಳು ಬೇಕು. ಎರಡನೆಯದಾಗಿ, ಆ ಮಂಜುಗಡ್ಡೆಯನ್ನು ಇಡಲು ಒಂದು ಗಾಜಿನ ಲೋಟ ಅಥವಾ ಬೀಕರ್ ಬೇಕು. ಈ ಸರಳ ಸಾಮಗ್ರಿಗಳನ್ನು ಬಳಸಿ, ನಾವು ವಸ್ತುವಿನ ಸ್ಥಿತಿ ಬದಲಾವಣೆಯನ್ನು, ಅಂದರೆ ಒಂದು ಭೌತ ಬದಲಾವಣೆಯನ್ನು, ಸ್ಪಷ್ಟವಾಗಿ ಗಮನಿಸಲಿದ್ದೇವೆ.",
+  "script_display": "ಈಗ ನಾವು ಭೌತ ಬದಲಾವಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಹೆಸರು ನೀರು ಮಂಜುಗಡ್ಡೆಯಾಗುವುದು ಮತ್ತು ಕರಗುವುದು. ಇದಕ್ಕಾಗಿ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಎರಡು ವಸ್ತುಗಳು. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಕೆಲವು ಮಂಜುಗಡ್ಡೆಯ ತುಂಡುಗಳು ಬೇಕು. ಎರಡನೆಯದಾಗಿ, ಆ ಮಂಜುಗಡ್ಡೆಯನ್ನು ಇಡಲು ಒಂದು ಗಾಜಿನ ಲೋಟ ಅಥವಾ ಬೀಕರ್ ಬೇಕು. ಈ ಸರಳ ಸಾಮಗ್ರಿಗಳನ್ನು ಬಳಸಿ, ನಾವು ವಸ್ತುವಿನ ಸ್ಥಿತಿ ಬದಲಾವಣೆಯನ್ನು, ಅಂದರೆ ಒಂದು ಭೌತ ಬದಲಾವಣೆಯನ್ನು, ಸ್ಪಷ್ಟವಾಗಿ ಗಮನಿಸಲಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ಕೆಲವು ಮಂಜುಗಡ್ಡೆಯ ತುಂಡುಗಳು",
+    "ಒಂದು ಗಾಜಿನ ಲೋಟ ಅಥವಾ ಬೀಕರ್"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing the materials for the experiment: a few ice cubes and an empty glass beaker placed next to each other on a table.",
+    "labels": "ಮಂಜುಗಡ್ಡೆ, ಲೋಟ",
+    "scientific_significance": "Illustrates the simple setup required to observe a physical change (change of state) in water.",
+    "placeholder_note": "Image to be generated: A glass beaker and some ice cubes."
+  },
+  "chunk_id": "std_7_chapter_5_concept_1_chunk_012"
+}

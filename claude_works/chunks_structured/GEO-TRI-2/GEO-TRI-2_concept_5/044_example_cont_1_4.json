@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಭಾಗ (iii) $\\triangle CMB \\sim \\triangle RNQ$",
+  "script": "ಈಗ ಕೊನೆಯ ಭಾಗವನ್ನು ಸಾಧಿಸೋಣ, ಅಂದರೆ ತ್ರಿಭುಜ CMB ಮತ್ತು ತ್ರಿಭುಜ RNQ ಗಳು ಸಮರೂಪವೆಂದು ತೋರಿಸೋಣ. ಈ ಎರಡು ತ್ರಿಭುಜಗಳಲ್ಲಿ, ಕೋನ B ಯು ಕೋನ Q ಗೆ ಸಮನಾಗಿದೆ. ಈಗ ಈ ಕೋನಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ನೋಡೋಣ. ದತ್ತಾಂಶದ ಪ್ರಕಾರ, BC ಭಾಗಿಸು QR ಸಮ AB ಭಾಗಿಸು PQ. M ಮತ್ತು N ಗಳು ಮಧ್ಯಬಿಂದುಗಳಾಗಿರುವುದರಿಂದ, MB ಎಂಬುದು AB ಯ ಅರ್ಧ ಮತ್ತು NQ ಎಂಬುದು PQ ಯ ಅರ್ಧ. ಆದ್ದರಿಂದ, MB ಭಾಗಿಸು NQ ಅನುಪಾತವು AB ಭಾಗಿಸು PQ ಅನುಪಾತಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇದರಿಂದ, BC ಭಾಗಿಸು QR ಸಮ MB ಭಾಗಿಸು NQ ಎಂದು ನಾವು ತೀರ್ಮಾನಿಸಬಹುದು. ಆದ್ದರಿಂದ, ಬಾಹು-ಕೋನ-ಬಾಹು, ಅಂದರೆ ಎಸ್ ಎ ಎಸ್ ಸಮರೂಪತೆಯ ಪ್ರಕಾರ, ತ್ರಿಭುಜ CMB ಯು ತ್ರಿಭುಜ RNQ ಗೆ ಸಮರೂಪವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಕೊನೆಯ ಭಾಗವನ್ನು ಸಾಧಿಸೋಣ: $\\triangle CMB \\sim \\triangle RNQ$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-TRI-2_example_6",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\triangle CMB$ ಮತ್ತು $\\triangle RNQ$ ಗಳಲ್ಲಿ, $\\angle B = \\angle Q$.",
+      "justification": "ದತ್ತಾಂಶ (2) ರಿಂದ."
+    },
+    {
+      "step": 2,
+      "action_display": "ದತ್ತಾಂಶ (1) ರಿಂದ, $\\frac{BC}{QR} = \\frac{AB}{PQ}$.\n$MB = \\frac{1}{2}AB$ ಮತ್ತು $NQ = \\frac{1}{2}PQ$ ಆಗಿರುವುದರಿಂದ, $\\frac{MB}{NQ} = \\frac{AB}{PQ}$.\nಆದ್ದರಿಂದ, $\\frac{BC}{QR} = \\frac{MB}{NQ}$.",
+      "justification": "ಮಧ್ಯರೇಖೆಯ ವ್ಯಾಖ್ಯೆ ಮತ್ತು ದತ್ತಾಂಶ."
+    },
+    {
+      "step": 3,
+      "action_display": "ಆದ್ದರಿಂದ, ಬಾ.ಕೋ.ಬಾ (SAS) ಸಮರೂಪತೆಯ ಪ್ರಕಾರ, $\\triangle CMB \\sim \\triangle RNQ$.",
+      "justification": "ಒಂದು ಕೋನ ಮತ್ತು ಅದನ್ನು ಒಳಗೊಂಡ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿವೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_044"
+}

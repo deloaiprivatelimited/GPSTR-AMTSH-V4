@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಘಾತ (Power) ಎಂದರೇನು?",
+  "script": "ನಾವು ಹಿಂದಿನ ಸ್ಲೈಡ್‌ಗಳಲ್ಲಿ ಆಧಾರ ಮತ್ತು ಘಾತಸೂಚಿಯ ಬಗ್ಗೆ ಕಲಿತಿದ್ದೇವೆ. ಈಗ, ಇವೆರಡನ್ನೂ ಒಳಗೊಂಡ ಸಂಪೂರ್ಣ ಸಂಕೇತವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ ಎಂದು ನೋಡೋಣ. ಈ ಸಂಪೂರ್ಣ ಸಂಕೇತವನ್ನು ನಾವು ಘಾತ, ಅಂದರೆ ಪವರ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಇಲ್ಲಿ ನೀವು ಹತ್ತರ ಘಾತ ನಾಲ್ಕು, ಅಂದರೆ ಟೆನ್ ಟು ದಿ ಪವರ್ ಫೋರ್ ಅನ್ನು ನೋಡಬಹುದು. ಇದರಲ್ಲಿ ಹತ್ತು ಆಧಾರ, ನಾಲ್ಕು ಘಾತಸೂಚಿ, ಮತ್ತು ಈ ಸಂಪೂರ್ಣವಾದ ಹತ್ತರ ಘಾತ ನಾಲ್ಕು ಎಂಬುದೇ ಒಂದು ಘಾತವಾಗಿದೆ. ಇದು ಕೇವಲ ಒಂದು ಸಂಖ್ಯೆಯಲ್ಲ, ಬದಲಾಗಿ ಒಂದು ಸಂಪೂರ್ಣ ಗಣಿತದ ಅಭಿವ್ಯಕ್ತಿ.",
+  "script_display": "ನಾವು ಹಿಂದಿನ ಸ್ಲೈಡ್‌ಗಳಲ್ಲಿ ಆಧಾರ ಮತ್ತು ಘಾತಸೂಚಿಯ ಬಗ್ಗೆ ಕಲಿತಿದ್ದೇವೆ. ಈಗ, ಇವೆರಡನ್ನೂ ಒಳಗೊಂಡ ಸಂಪೂರ್ಣ ಸಂಕೇತವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ ಎಂದು ನೋಡೋಣ. ಈ ಸಂಪೂರ್ಣ ಸಂಕೇತವನ್ನು ನಾವು ಘಾತ (Power) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಇಲ್ಲಿ ನೀವು $10^4$ ಅನ್ನು ನೋಡಬಹುದು. ಇದರಲ್ಲಿ 10 ಆಧಾರ, 4 ಘಾತಸೂಚಿ, ಮತ್ತು ಈ ಸಂಪೂರ್ಣವಾದ $10^4$ ಎಂಬುದೇ ಒಂದು ಘಾತವಾಗಿದೆ. ಇದು ಕೇವಲ ಒಂದು ಸಂಖ್ಯೆಯಲ್ಲ, ಬದಲಾಗಿ ಒಂದು ಸಂಪೂರ್ಣ ಗಣಿತದ ಅಭಿವ್ಯಕ್ತಿ.",
+  "display_bullets": [
+    "ಆಧಾರ ಮತ್ತು ಘಾತಸೂಚಿಯನ್ನು ಒಳಗೊಂಡ ಸಂಪೂರ್ಣ ಸಂಕೇತವನ್ನು ಘಾತ (Power) ಎನ್ನುತ್ತೇವೆ.",
+    "ಉದಾಹರಣೆಗೆ, $10^4$ ಒಂದು ಘಾತವಾಗಿದೆ.",
+    "ಇಲ್ಲಿ, 10 ಆಧಾರ, 4 ಘಾತಸೂಚಿ, ಮತ್ತು $10^4$ ಎಂಬುದು ಘಾತ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An image showing the expression 10^4. An arrow points from the whole expression to a label 'ಘಾತ (Power)'. Another arrow points from '10' to a label 'ಆಧಾರ (Base)'. A third arrow points from '4' to a label 'ಘಾತಸೂಚಿ (Exponent)'.",
+    "labels": "Power, Base, Exponent, ಘಾತ, ಆಧಾರ, ಘಾತಸೂಚಿ",
+    "mathematical_significance": "Visually deconstructs the term 'Power' into its constituent parts, 'Base' and 'Exponent', making the definition clear.",
+    "placeholder_note": "Image to be generated showing 10^4 with labels for Base, Exponent, and Power."
+  },
+  "chunk_id": "NS-EXP-2_concept_1_chunk_014"
+}

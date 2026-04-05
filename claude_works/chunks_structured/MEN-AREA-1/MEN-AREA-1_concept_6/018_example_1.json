@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಕಂಕಣದ ವಿಸ್ತೀರ್ಣ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದೇ ಕೇಂದ್ರವಿರುವ ಎರಡು ವೃತ್ತಗಳಿವೆ. ದೊಡ್ಡ ವೃತ್ತದ ತ್ರಿಜ್ಯ 10 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಚಿಕ್ಕ ವೃತ್ತದ ತ್ರಿಜ್ಯ 4 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ನಾವು ಈ ಎರಡು ವೃತ್ತಗಳ ನಡುವಿನ ಛಾಯೀಕೃತ ಭಾಗದ, ಅಂದರೆ ಕಂಕಣದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಪೈ ನ ಮೌಲ್ಯವನ್ನು 3.14 ಎಂದು ಬಳಸಲು ಸೂಚಿಸಲಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದೇ ಕೇಂದ್ರವಿರುವ ಎರಡು ವೃತ್ತಗಳಿವೆ. ದೊಡ್ಡ ವೃತ್ತದ ತ್ರಿಜ್ಯ $10 \\text{ cm}$ ಮತ್ತು ಚಿಕ್ಕ ವೃತ್ತದ ತ್ರಿಜ್ಯ $4 \\text{ cm}$ ಆಗಿದೆ. ನಾವು ಈ ಎರಡು ವೃತ್ತಗಳ ನಡುವಿನ ಛಾಯೀಕೃತ ಭಾಗದ (ಕಂಕಣ) ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ($\\\\[pi = 3.14\\\\]$ ಬಳಸಿ).",
+  "display_bullets": [
+    "ದೊಡ್ಡ ವೃತ್ತದ ತ್ರಿಜ್ಯ (R) = 10 cm",
+    "ಚಿಕ್ಕ ವೃತ್ತದ ತ್ರಿಜ್ಯ (r) = 4 cm",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಛಾಯೀಕೃತ ಭಾಗದ (ಕಂಕಣ) ವಿಸ್ತೀರ್ಣ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದೇ ಕೇಂದ್ರವಿರುವ ಎರಡು ವೃತ್ತಗಳು. ದೊಡ್ಡ ವೃತ್ತದ ತ್ರಿಜ್ಯ R=10cm ಮತ್ತು ಚಿಕ್ಕ ವೃತ್ತದ ತ್ರಿಜ್ಯ r=4cm ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಎರಡೂ ವೃತ್ತಗಳ ನಡುವಿನ ಪ್ರದೇಶವನ್ನು (ಕಂಕಣ) ಛಾಯೆ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "concentric circles, annulus, radius R, radius r, shaded region",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಕಂಕಣದ (annulus) ಪರಿಕಲ್ಪನೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ, ಇದರ ವಿಸ್ತೀರ್ಣವನ್ನು ದೊಡ್ಡ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣದಿಂದ ಚಿಕ್ಕ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಳೆಯುವ ಮೂಲಕ ಕಂಡುಹಿಡಿಯಲಾಗುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for two concentric circles with labeled radii and shaded annulus."
+  },
+  "source_example_id": "MEN-AREA-1_example_7",
+  "prerequisites_display": [
+    "ವೃತ್ತದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ"
+  ],
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 1,
+    "theorems": 0,
+    "properties": 0,
+    "worked_examples": 1
+  },
+  "chunk_id": "MEN-AREA-1_concept_6_chunk_018"
+}

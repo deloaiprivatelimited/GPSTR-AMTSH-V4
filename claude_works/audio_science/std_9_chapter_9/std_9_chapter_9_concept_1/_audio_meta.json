@@ -1,0 +1,169 @@
+{
+  "module_id": "std_9_chapter_9_concept_1",
+  "chapter_code": "std_9_chapter_9",
+  "voice": "Erinome",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 14,
+  "ok_count": 14,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:00:18",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "8052b70d21c82e5cbb4c5dc6438db009",
+      "wav_file": "001_intro_0.wav",
+      "duration": 57.291,
+      "slide_title": "ಕೇಂದ್ರಾಭಿಮುಖ ಬಲ (Centripetal Force)",
+      "type": "intro",
+      "script_words": 66,
+      "generated_at": "2026-04-02 15:58:05"
+    },
+    "003_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "8d18da48dc17ce679e8b3c70137ec56f",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "duration": 33.291,
+      "slide_title": "ಕೇಂದ್ರಾಭಿಮುಖ ಬಲ: ವ್ಯಾಖ್ಯಾನ",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 15:58:07"
+    },
+    "002_definition_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "4d843c72c073bcb62f0ab9972e671e30",
+      "wav_file": "002_definition_0.wav",
+      "duration": 35.211,
+      "slide_title": "ವೃತ್ತಾಕಾರದ ಚಲನೆಗೆ ಕಾರಣವೇನು?",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 15:58:10"
+    },
+    "004_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "ad643fd6636c1362d25af9695ff8bd94",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "duration": 41.131,
+      "slide_title": "ಬಲವಿಲ್ಲದಿದ್ದರೆ ಏನಾಗುತ್ತದೆ?",
+      "type": "definition",
+      "script_words": 48,
+      "generated_at": "2026-04-02 15:58:16"
+    },
+    "005_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "cb16c71f902fa123928468720318068a",
+      "wav_file": "005_definition_cont_0_3.wav",
+      "duration": 54.331,
+      "slide_title": "ಕೇಂದ್ರಾಭಿಮುಖ ಬಲ: ನೈಜ ಉದಾಹರಣೆಗಳು",
+      "type": "definition",
+      "script_words": 75,
+      "generated_at": "2026-04-02 15:58:21"
+    },
+    "009_experiment_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "1a7dd2cbaabfc302c55a69c02d3c4593",
+      "wav_file": "009_experiment_0.wav",
+      "duration": 40.411,
+      "slide_title": "ಚಟುವಟಿಕೆ 9.1: ದಾರಕ್ಕೆ ಕಟ್ಟಿದ ಕಲ್ಲಿನ ಚಲನೆ",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 15:58:49"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "0644f80d81dc86542d8875a87df0f65c",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 34.051,
+      "slide_title": "ಸ್ಪರ್ಶಕದ ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "definition",
+      "script_words": 48,
+      "generated_at": "2026-04-02 15:59:10"
+    },
+    "010_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "0639ace53bf26e1dc202cbfed432ccfe",
+      "wav_file": "010_experiment_cont_0_1.wav",
+      "duration": 34.051,
+      "slide_title": "ಅಗತ್ಯವಿರುವ ಉಪಕರಣಗಳು ಮತ್ತು ಜೋಡಣೆ",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 15:59:13"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "6670b5de9e9b632ce092d8e4508be3ff",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 38.251,
+      "slide_title": "ಕೇಂದ್ರಾಭಿಮುಖ ಬಲ ಮತ್ತು ಸ್ಪರ್ಶಕೀಯ ಚಲನೆ",
+      "type": "definition",
+      "script_words": 42,
+      "generated_at": "2026-04-02 15:59:15"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "1f91b0cd67ddf38496e5fbbf07cc840e",
+      "wav_file": "006_definition_1.wav",
+      "duration": 39.891,
+      "slide_title": "ಸ್ಪರ್ಶಕ (Tangent) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 49,
+      "generated_at": "2026-04-02 15:59:17"
+    },
+    "014_recap_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "82d342ff0c290f1e14937b31cb9c5d94",
+      "wav_file": "014_recap_0.wav",
+      "duration": 45.131,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 59,
+      "generated_at": "2026-04-02 15:59:54"
+    },
+    "011_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "38f54d5e9ca20637b19a547a09b85de0",
+      "wav_file": "011_experiment_cont_0_2.wav",
+      "duration": 36.851,
+      "slide_title": "ಚಟುವಟಿಕೆಯ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 16:00:12"
+    },
+    "012_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "985108a049610397e1994ddb6e878b18",
+      "wav_file": "012_experiment_cont_0_3.wav",
+      "duration": 43.491,
+      "slide_title": "ವೀಕ್ಷಣೆ: ಏನಾಗುತ್ತದೆ?",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 16:00:14"
+    },
+    "013_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "e541c0138ef70684a808be9c85df88f3",
+      "wav_file": "013_experiment_cont_0_4.wav",
+      "duration": 45.691,
+      "slide_title": "ತೀರ್ಮಾನ: ಕೇಂದ್ರಾಭಿಮುಖ ಬಲ",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 16:00:18"
+    }
+  }
+}

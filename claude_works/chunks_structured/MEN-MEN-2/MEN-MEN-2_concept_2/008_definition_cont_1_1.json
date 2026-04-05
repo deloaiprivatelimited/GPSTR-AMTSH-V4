@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಆಯತ ಘನದ LSA",
+  "script": "ಒಂದು ಆಯತ ಘನದ ಮೂಲಕ ಇದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯೋಣ. ಒಂದು ಆಯತ ಘನಕ್ಕೆ ಆರು ಮುಖಗಳಿರುತ್ತವೆ. ಇದರ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಅದರ ತಳ ಮತ್ತು ಮೇಲ್ಭಾಗದ ಮುಖಗಳನ್ನು ಬಿಟ್ಟುಬಿಡಬೇಕು. ಉಳಿದ ನಾಲ್ಕು ಪಾರ್ಶ್ವ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣವನ್ನು ಮಾತ್ರ ಕೂಡಿಸಬೇಕು. ಮುಂಭಾಗ ಮತ್ತು ಹಿಂಭಾಗದ ಮುಖಗಳು, ಹಾಗೂ ಎಡ ಮತ್ತು ಬಲ ಬದಿಯ ಮುಖಗಳು - ಈ ನಾಲ್ಕು ಮುಖಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವೇ ಆಯತ ಘನದ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ. ಅಂದರೆ, ಕೋಣೆಯ ನಾಲ್ಕು ಗೋಡೆಗಳ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕ ಹಾಕಿದಂತೆ.",
+  "script_display": "ಒಂದು ಆಯತ ಘನದ ಮೂಲಕ ಇದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯೋಣ. ಒಂದು ಆಯತ ಘನಕ್ಕೆ ಆರು ಮುಖಗಳಿರುತ್ತವೆ. ಇದರ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಅದರ ತಳ ಮತ್ತು ಮೇಲ್ಭಾಗದ ಮುಖಗಳನ್ನು ಬಿಟ್ಟುಬಿಡಬೇಕು. ಉಳಿದ ನಾಲ್ಕು ಪಾರ್ಶ್ವ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣವನ್ನು ಮಾತ್ರ ಕೂಡಿಸಬೇಕು. ಮುಂಭಾಗ ಮತ್ತು ಹಿಂಭಾಗದ ಮುಖಗಳು, ಹಾಗೂ ಎಡ ಮತ್ತು ಬಲ ಬದಿಯ ಮುಖಗಳು - ಈ ನಾಲ್ಕು ಮುಖಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವೇ ಆಯತ ಘನದ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (LSA). ಅಂದರೆ, ಕೋಣೆಯ ನಾಲ್ಕು ಗೋಡೆಗಳ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕ ಹಾಕಿದಂತೆ.",
+  "display_bullets": [
+    "ಒಂದು ಆಯತ ಘನವನ್ನು ಪರಿಗಣಿಸಿ.",
+    "ತಳ ಮತ್ತು ಮೇಲ್ಭಾಗದ ಮುಖಗಳನ್ನು ಹೊರತುಪಡಿಸಿ.",
+    "ಉಳಿದ ನಾಲ್ಕು ಪಾರ್ಶ್ವ ಮುಖಗಳ (ಮುಂಭಾಗ, ಹಿಂಭಾಗ, ಎಡ, ಬಲ) ವಿಸ್ತೀರ್ಣವನ್ನು ಕೂಡಿಸಲಾಗುತ್ತದೆ.",
+    "ಇದೇ ಆಯತ ಘನದ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (LSA)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cuboid with dimensions l, b, h labeled. The four lateral faces are highlighted. Arrows point to the front, back, left, and right faces, which are colored. The top and bottom faces are uncolored or transparent.",
+    "labels": "l (ಉದ್ದ), b (ಅಗಲ), h (ಎತ್ತರ), ಪಾರ್ಶ್ವ ಮುಖಗಳು",
+    "mathematical_significance": "Illustrates the specific faces that contribute to the LSA of a cuboid, connecting the abstract definition to a concrete shape.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-MEN-2_concept_2_chunk_008"
+}

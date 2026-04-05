@@ -1,0 +1,147 @@
+{
+  "module_id": "std_8_science_ch_12_concept_3",
+  "chapter_code": "std_8_chapter_12",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:42:32",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "21b80fa5b9acdb8b9b3ec28d880183b0",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 29.251,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 42,
+      "generated_at": "2026-04-02 14:40:18"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "d09f3052f9aca6037facaa4d6e40de2e",
+      "wav_file": "003_definition_0.wav",
+      "duration": 43.731,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಮಿಂಚು (Lightning)",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 14:40:27"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "04501dcf3d389bd8e4f81f34dc469e10",
+      "wav_file": "001_intro_0.wav",
+      "duration": 50.051,
+      "slide_title": "ಮಿಂಚು: ಕಾರಣ ಮತ್ತು ರಕ್ಷಣೆ",
+      "type": "chunk",
+      "script_words": 76,
+      "generated_at": "2026-04-02 14:40:30"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "97d9397f83d1189e1cca00ba1e3347a1",
+      "wav_file": "006_definition_1.wav",
+      "duration": 46.771,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಮಿಂಚು ಬಂಧಕ",
+      "type": "definition",
+      "script_words": 64,
+      "generated_at": "2026-04-02 14:41:02"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "a307aead6d88ef5e075a38825c4e4f8a",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 48.091,
+      "slide_title": "ಮಿಂಚು ಬಂಧಕ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?",
+      "type": "definition",
+      "script_words": 70,
+      "generated_at": "2026-04-02 14:41:05"
+    },
+    "008_classification_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "7861f4105679c816c00dcb665c5f0670",
+      "wav_file": "008_classification_0.wav",
+      "duration": 36.571,
+      "slide_title": "ಮಿಂಚಿನಿಂದ ಸುರಕ್ಷತಾ ಕ್ರಮಗಳು",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 14:41:25"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "b4bf6a6680902f37dffe6ca17bb202c5",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 44.971,
+      "slide_title": "ಮಿಂಚಿನ ವಿಧಗಳು",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 14:41:34"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "db28af65addc7c0287fb95a7ca19ea49",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 47.011,
+      "slide_title": "ಮಿಂಚು ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ?",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-04-02 14:41:41"
+    },
+    "009_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "e5c8ba216a152fe1d8d88918532a87d4",
+      "wav_file": "009_classification_cont_0_1.wav",
+      "duration": 39.891,
+      "slide_title": "ತೆರೆದ ಪ್ರದೇಶದಲ್ಲಿ ಸುರಕ್ಷತೆ",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 14:42:01"
+    },
+    "011_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "674650d27c0029587c42bdae3be2ea94",
+      "wav_file": "011_classification_cont_0_3.wav",
+      "duration": 52.571,
+      "slide_title": "ಮನೆಯೊಳಗೆ ಸುರಕ್ಷತೆ",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-04-02 14:42:11"
+    },
+    "010_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "aea5469b0d40274753088fd6b470f8d2",
+      "wav_file": "010_classification_cont_0_2.wav",
+      "duration": 38.451,
+      "slide_title": "ತೆರೆದ ಪ್ರದೇಶದಲ್ಲಿ ಸುರಕ್ಷತೆ (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 14:42:23"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "47967afb1d753689f9166808336e8e3f",
+      "wav_file": "012_recap_0.wav",
+      "duration": 44.971,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 62,
+      "generated_at": "2026-04-02 14:42:32"
+    }
+  }
+}

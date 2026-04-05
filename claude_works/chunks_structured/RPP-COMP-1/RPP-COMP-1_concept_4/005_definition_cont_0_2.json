@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ನಮೂದಿತ ಬೆಲೆ",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಾಮಾನ್ಯವಾಗಿ, ನಾವು ಅಂಗಡಿಯಲ್ಲಿ ಒಂದು ವಸ್ತುವನ್ನು ಖರೀದಿಸುವಾಗ, ಅದರ ಮೇಲೆ ಒಂದು ಬೆಲೆಪಟ್ಟಿ ಅಂದರೆ price tag ಇರುತ್ತದೆ. ಈ ಬೆಲೆಪಟ್ಟಿಯ ಮೇಲಿರುವ ಬೆಲೆಯೇ ನಮೂದಿತ ಬೆಲೆ ಅಥವಾ MP ಆಗಿದೆ. ಉದಾಹರಣೆಗೆ, ಈ ಶರ್ಟಿನ ಮೇಲಿನ ಬೆಲೆ 999 ರೂಪಾಯಿಗಳಾಗಿದ್ದರೆ, ಆಗ ಆ ಶರ್ಟಿನ ನಮೂದಿತ ಬೆಲೆ, ಅಂದರೆ MP, 999 ರೂಪಾಯಿಗಳಾಗಿರುತ್ತದೆ. ಇದು ಮಾರಾಟಗಾರನು ನಿಗದಿಪಡಿಸಿದ ಆರಂಭಿಕ ಬೆಲೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಾಮಾನ್ಯವಾಗಿ, ನಾವು ಅಂಗಡಿಯಲ್ಲಿ ಒಂದು ವಸ್ತುವನ್ನು ಖರೀದಿಸುವಾಗ, ಅದರ ಮೇಲೆ ಒಂದು ಬೆಲೆಪಟ್ಟಿ (price tag) ಇರುತ್ತದೆ. ಈ ಬೆಲೆಪಟ್ಟಿಯ ಮೇಲಿರುವ ಬೆಲೆಯೇ ನಮೂದಿತ ಬೆಲೆ (MP) ಆಗಿದೆ. ಉದಾಹರಣೆಗೆ, ಈ ಶರ್ಟಿನ ಮೇಲಿನ ಬೆಲೆ ₹999 ಆಗಿದ್ದರೆ, ಆಗ ಆ ಶರ್ಟಿನ ನಮೂದಿತ ಬೆಲೆ (MP) ₹999 ಆಗಿರುತ್ತದೆ. ಇದು ಮಾರಾಟಗಾರನು ನಿಗದಿಪಡಿಸಿದ ಆರಂಭಿಕ ಬೆಲೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಅಂಗಡಿಯಲ್ಲಿ ವಸ್ತುವಿನ ಮೇಲೆ ಇರುವ ಬೆಲೆಪಟ್ಟಿ (price tag) ಮೇಲಿನ ಬೆಲೆಯೇ ನಮೂದಿತ ಬೆಲೆ.",
+    "ಉದಾಹರಣೆಗೆ, ಶರ್ಟಿನ ಮೇಲಿನ ಬೆಲೆ ₹999 ಆಗಿದ್ದರೆ, ಅದರ MP ₹999 ಆಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up illustration of a price tag. The tag clearly says '₹999'. An arrow or a label points to the price and identifies it as 'ನಮೂದಿತ ಬೆಲೆ (MP)'. The style is clean and graphical.",
+    "labels": "Price Tag, ₹999, ನಮೂದಿತ ಬೆಲೆ (MP)",
+    "mathematical_significance": "This visual explicitly connects the numerical value on the tag to the mathematical term 'Marked Price (MP)', reinforcing the definition with a concrete example.",
+    "placeholder_note": "Image to be generated. Show a price tag with '₹999' and label it as MP."
+  },
+  "chunk_id": "RPP-COMP-1_concept_4_chunk_005"
+}

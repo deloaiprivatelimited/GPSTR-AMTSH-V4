@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 3: 49p² - 36 ಅನ್ನು ಅಪವರ್ತಿಸಿ",
+  "script": "ಈಗ ನಾವು ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಲವತ್ತೊಂಬತ್ತು p ಸ್ಕ್ವೇರ್ ಮೈನಸ್ ಮೂವತ್ತಾರು ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯನ್ನು ಗಮನಿಸಿದಾಗ, ಇದರಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ ಮತ್ತು ಅವುಗಳ ನಡುವೆ ವ್ಯವಕಲನ ಚಿಹ್ನೆ ಇದೆ. ನಾವು ಇದನ್ನು ಯಾವುದಾದರೂ ನಿತ್ಯಸಮೀಕರಣದ ರೂಪಕ್ಕೆ ತರಬಹುದೇ ಎಂದು ಪರಿಶೀಲಿಸೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $49p^2 - 36$ ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯನ್ನು ಗಮನಿಸಿದಾಗ, ಇದರಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ ಮತ್ತು ಅವುಗಳ ನಡುವೆ ವ್ಯವಕಲನ ಚಿಹ್ನೆ ಇದೆ. ನಾವು ಇದನ್ನು ಯಾವುದಾದರೂ ನಿತ್ಯಸಮೀಕರಣದ ರೂಪಕ್ಕೆ ತರಬಹುದೇ ಎಂದು ಪರಿಶೀಲಿಸೋಣ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $49p^2 - 36$ ಅನ್ನು ಅಪವರ್ತಿಸಿ.",
+    "ಗುರಿ: ಬೀಜೋಕ್ತಿಯನ್ನು ಅಪವರ್ತನಗಳ ಗುಣಲಬ್ಧವಾಗಿ ಬರೆಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "49p^2 - 36",
+    "placeholder_note": "Problem statement"
+  },
+  "source_example_id": "ALG-FAC-2_example_7",
+  "prerequisites_display": [
+    "ನಿತ್ಯಸಮೀಕರಣ III: $a^2 - b^2 = (a+b)(a-b)$"
+  ],
+  "chunk_id": "ALG-FAC-2_concept_4_chunk_024"
+}

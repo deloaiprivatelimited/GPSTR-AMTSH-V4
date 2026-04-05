@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವೀಕ್ಷಣೆ: ದೂರ ಮತ್ತು ಸ್ಥಾನ ಪಲ್ಲಟವನ್ನು ಅಳೆಯುವುದು",
+  "script": "ನಾವು ಚಲಿಸಿದ ನಂತರ, ಈಗ ಅಳತೆ ಮಾಡುವ ಸಮಯ. ಮೊದಲಿಗೆ, ಚಲಿಸಿದ ಒಟ್ಟು ಪಥದ ಉದ್ದವನ್ನು ಅಳೆಯೋಣ. ಮೀಟರ್ ಅಳತೆ ಪಟ್ಟಿಯನ್ನು ಬಳಸಿ AB ಯ ಉದ್ದವನ್ನು, ನಂತರ BC ಯ ಉದ್ದವನ್ನು ಅಳೆಯಿರಿ. ಇವೆರಡನ್ನು ಕೂಡಿಸಿದಾಗ ಸಿಗುವುದೇ 'ದೂರ'. ಈಗ, 'ಸ್ಥಾನ ಪಲ್ಲಟ'ವನ್ನು ಅಳೆಯೋಣ. ಇದು ಆರಂಭಿಕ ಬಿಂದು A ಮತ್ತು ಅಂತಿಮ ಬಿಂದು C ನಡುವಿನ ಕನಿಷ್ಠ, ನೇರ ಅಂತರ. ಅಳತೆ ಪಟ್ಟಿಯನ್ನು ಬಳಸಿ A ಇಂದ C ಗೆ ನೇರವಾಗಿ ಅಳೆಯಿರಿ. ಇದು ಅಂಕಣದ ಕರ್ಣವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ನಾವು ಚಲಿಸಿದ ನಂತರ, ಈಗ ಅಳತೆ ಮಾಡುವ ಸಮಯ. ಮೊದಲಿಗೆ, ಚಲಿಸಿದ ಒಟ್ಟು ಪಥದ ಉದ್ದವನ್ನು ಅಳೆಯೋಣ. ಮೀಟರ್ ಅಳತೆ ಪಟ್ಟಿಯನ್ನು ಬಳಸಿ AB ಯ ಉದ್ದವನ್ನು, ನಂತರ BC ಯ ಉದ್ದವನ್ನು ಅಳೆಯಿರಿ. ಇವೆರಡನ್ನು ಕೂಡಿಸಿದಾಗ ಸಿಗುವುದೇ 'ದೂರ'. ಈಗ, 'ಸ್ಥಾನ ಪಲ್ಲಟ'ವನ್ನು ಅಳೆಯೋಣ. ಇದು ಆರಂಭಿಕ ಬಿಂದು A ಮತ್ತು ಅಂತಿಮ ಬಿಂದು C ನಡುವಿನ ಕನಿಷ್ಠ, ನೇರ ಅಂತರ. ಅಳತೆ ಪಟ್ಟಿಯನ್ನು ಬಳಸಿ A ಇಂದ C ಗೆ ನೇರವಾಗಿ ಅಳೆಯಿರಿ. ಇದು ಅಂಕಣದ ಕರ್ಣವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ದೂರವನ್ನು ಅಳೆಯಿರಿ: ದೂರ = AB ಯ ಉದ್ದ + BC ಯ ಉದ್ದ.",
+    "ಸ್ಥಾನ ಪಲ್ಲಟವನ್ನು ಅಳೆಯಿರಿ: ಸ್ಥಾನ ಪಲ್ಲಟ = AC ಯ ನೇರ ಉದ್ದ (ಕರ್ಣ).",
+    "ಎರಡೂ ಮೌಲ್ಯಗಳನ್ನು ದಾಖಲಿಸಿಕೊಳ್ಳಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The basketball court diagram again. This time, a straight, solid line is drawn directly from A to C, representing the displacement. The previous path (A->B->C) is also shown faintly.",
+    "labels": "A, B, C, ದೂರ (AB+BC), ಸ್ಥಾನ ಪಲ್ಲಟ (AC)",
+    "scientific_significance": "Visualizes both distance and displacement on the same diagram for direct comparison.",
+    "placeholder_note": "Image to be generated: Same court, with path A->B->C labeled 'ದೂರ' and the direct line A->C labeled 'ಸ್ಥಾನ ಪಲ್ಲಟ'."
+  },
+  "chunk_id": "std_9_chapter_7_concept_1_chunk_017"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತಗಳು 1-2: ಮೊಟ್ಟೆ ಮತ್ತು ಗೊದಮೊಟ್ಟೆ",
+  "script": "ಮೊದಲ ಹಂತ, ಮೊಟ್ಟೆ. ಹೆಣ್ಣು ಕಪ್ಪೆಯು ನೀರಿನಲ್ಲಿ ನೂರಾರು ಮೊಟ್ಟೆಗಳನ್ನು ಇಡುತ್ತದೆ. ಇದು ಜೀವನ ಚಕ್ರದ ಆರಂಭ. ಎರಡನೇ ಹಂತ, ಗೊದಮೊಟ್ಟೆ. ಮೊಟ್ಟೆಯೊಡೆದು ಲಾರ್ವಾ ಹಂತದ ಗೊದಮೊಟ್ಟೆ ಹೊರಬರುತ್ತದೆ. ಇದು ನೋಡಲು ಮೀನಿನಂತೆ ಇರುತ್ತದೆ, ಕಿವಿರುಗಳ ಮೂಲಕ ಉಸಿರಾಡುತ್ತದೆ ಮತ್ತು ಈಜಲು ಬಾಲವನ್ನು ಬಳಸುತ್ತದೆ.",
+  "script_display": "ಮೊದಲ ಹಂತ, ಮೊಟ್ಟೆ (Egg). ಹೆಣ್ಣು ಕಪ್ಪೆಯು ನೀರಿನಲ್ಲಿ ನೂರಾರು ಮೊಟ್ಟೆಗಳನ್ನು ಇಡುತ್ತದೆ. ಇದು ಜೀವನ ಚಕ್ರದ ಆರಂಭ. ಎರಡನೇ ಹಂತ, ಗೊದಮೊಟ್ಟೆ (Tadpole/Larva). ಮೊಟ್ಟೆಯೊಡೆದು ಲಾರ್ವಾ ಹಂತದ ಗೊದಮೊಟ್ಟೆ ಹೊರಬರುತ್ತದೆ. ಇದು ನೋಡಲು ಮೀನಿನಂತೆ ಇರುತ್ತದೆ, ಕಿವಿರುಗಳ (gills) ಮೂಲಕ ಉಸಿರಾಡುತ್ತದೆ ಮತ್ತು ಈಜಲು ಬಾಲವನ್ನು ಬಳಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹಂತ 1: ಮೊಟ್ಟೆ (Egg) - ಹೆಣ್ಣು ಕಪ್ಪೆ ನೀರಿನಲ್ಲಿ ಮೊಟ್ಟೆಗಳನ್ನು ಇಡುತ್ತದೆ.",
+    "ಹಂತ 2: ಗೊದಮೊಟ್ಟೆ (Tadpole) - ಮೊಟ್ಟೆಯೊಡೆದು ಲಾರ್ವಾ ಹೊರಬರುತ್ತದೆ. ಇದು ಕಿವಿರುಗಳಿಂದ ಉಸಿರಾಡುತ್ತದೆ ಮತ್ತು ಬಾಲದಿಂದ ಈಜುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a cluster of frog eggs in water, and a separate illustration of a tadpole with a tail and visible gills.",
+    "labels": "ಮೊಟ್ಟೆಗಳು, ಗೊದಮೊಟ್ಟೆ",
+    "scientific_significance": "Shows the first two stages of the frog life cycle, highlighting the aquatic nature of the early stages.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_8_chapter_6_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಮೊಟ್ಟೆ (Egg): ಜೀವನ ಚಕ್ರದ ಆರಂಭ. ಹೆಣ್ಣು ಕಪ್ಪೆ ನೀರಿನಲ್ಲಿ ನೂರಾರು ಮೊಟ್ಟೆಗಳನ್ನು ಇಡುತ್ತದೆ.",
+      "justification": "This is the first stage of the life cycle."
+    },
+    {
+      "step": 2,
+      "action_display": "ಗೊದಮೊಟ್ಟೆ (Tadpole/Larva): ಮೊಟ್ಟೆಯೊಡೆದು ಲಾರ್ವಾ ಹಂತದ ಗೊದಮೊಟ್ಟೆ ಹೊರಬರುತ್ತದೆ. ಇದು ಮೀನಿನಂತೆ ಕಾಣುತ್ತದೆ, ಕಿವಿರುಗಳ (gills) ಮೂಲಕ ಉಸಿರಾಡುತ್ತದೆ ಮತ್ತು ಬಾಲದ ಸಹಾಯದಿಂದ ಈಜುತ್ತದೆ.",
+      "justification": "This is the larval stage, which is fully aquatic."
+    }
+  ],
+  "chunk_id": "std_8_chapter_6_concept_6_chunk_007"
+}

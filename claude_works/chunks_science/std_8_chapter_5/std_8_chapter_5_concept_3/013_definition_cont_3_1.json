@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಡೋಡೋ ಹಕ್ಕಿ",
+  "script": "ಅಳಿದುಹೋದ ಪ್ರಭೇದಕ್ಕೆ ಒಂದು ಸ್ಪಷ್ಟ ಉದಾಹರಣೆ ನೋಡೋಣ, ಅದುವೇ ಡೋಡೋ ಹಕ್ಕಿ. ಈ ಹಕ್ಕಿಯು ಹಿಂದೂ ಮಹಾಸಾಗರದ ಮಾರಿಷಸ್ ದ್ವೀಪದಲ್ಲಿ ಮಾತ್ರ ಕಂಡುಬರುತ್ತಿತ್ತು. ಅದಕ್ಕೆ ಹಾರಲು ಬರುತ್ತಿರಲಿಲ್ಲ. ಸುಮಾರು ಹದಿನೇಳನೇ ಶತಮಾನದಲ್ಲಿ, ಮಾನವರು ಆ ದ್ವೀಪಕ್ಕೆ ತಲುಪಿದಾಗ, ಬೇಟೆಯಾಡುವುದು ಮತ್ತು ಅವರೊಂದಿಗೆ ಬಂದ ಪ್ರಾಣಿಗಳಿಂದಾಗಿ, ಡೋಡೋ ಹಕ್ಕಿಗಳು ವೇಗವಾಗಿ ನಾಶವಾದವು. ಕೇವಲ ನೂರು ವರ್ಷಗಳಲ್ಲಿ, ಈ ಸಂಪೂರ್ಣ ಪ್ರಭೇದವೇ ಭೂಮಿಯ ಮೇಲಿಂದ ಕಣ್ಮರೆಯಾಯಿತು. ಇದು ಮಾನವನ ಚಟುವಟಿಕೆಗಳು ಹೇಗೆ ಒಂದು ಪ್ರಭೇದವನ್ನು ಅಳಿವಿನಂಚಿಗೆ ತಳ್ಳಬಹುದು ಎಂಬುದಕ್ಕೆ ಒಂದು ದುರಂತದ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "script_display": "ಅಳಿದುಹೋದ ಪ್ರಭೇದಕ್ಕೆ ಒಂದು ಸ್ಪಷ್ಟ ಉದಾಹರಣೆ ನೋಡೋಣ, ಅದುವೇ ಡೋಡೋ ಹಕ್ಕಿ. \n* ಈ ಹಕ್ಕಿಯು ಹಿಂದೂ ಮಹಾಸಾಗರದ ಮಾರಿಷಸ್ ದ್ವೀಪದಲ್ಲಿ ಮಾತ್ರ ಕಂಡುಬರುತ್ತಿತ್ತು.\n* ಅದಕ್ಕೆ ಹಾರಲು ಬರುತ್ತಿರಲಿಲ್ಲ.\n* 17ನೇ ಶತಮಾನದಲ್ಲಿ, ಮಾನವನ ಬೇಟೆ ಮತ್ತು ಇತರ ಪ್ರಾಣಿಗಳ ದಾಳಿಯಿಂದಾಗಿ ಈ ಪ್ರಭೇದವು ಸಂಪೂರ್ಣವಾಗಿ ನಾಶವಾಯಿತು.\n* ಇದು ಮಾನವನ ಚಟುವಟಿಕೆಗಳಿಂದ ಉಂಟಾದ ಅಳಿವಿಗೆ ಒಂದು ಪ್ರಮುಖ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಮಾರಿಷಸ್ ದ್ವೀಪಕ್ಕೆ ಸೀಮಿತವಾಗಿದ್ದ ಹಾರಲಾರದ ಹಕ್ಕಿ.",
+    "17ನೇ ಶತಮಾನದಲ್ಲಿ ಮಾನವನ ಚಟುವಟಿಕೆಗಳಿಂದಾಗಿ ಅಳಿದುಹೋಯಿತು.",
+    "ಇದು ಇತ್ತೀಚಿನ ಅಳಿವಿಗೆ ಒಂದು ಪ್ರಮುಖ ಉದಾಹರಣೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A realistic illustration of a Dodo bird in its natural habitat on the island of Mauritius. The bird is plump, greyish, with a large hooked beak.",
+    "labels": "ಡೋಡೋ ಹಕ್ಕಿ (ಅಳಿದುಹೋದ ಪ್ರಭೇದ)",
+    "scientific_significance": "Illustrates a well-documented case of human-induced extinction.",
+    "placeholder_note": "Image to be generated of a Dodo bird."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_5_concept_3_chunk_013"
+}

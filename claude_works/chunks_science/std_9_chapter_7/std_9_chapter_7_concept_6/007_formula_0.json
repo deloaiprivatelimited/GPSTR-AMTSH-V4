@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವೃತ್ತೀಯ ಪಥದಲ್ಲಿ ಜವದ ಸೂತ್ರ",
+  "script": "ಏಕರೂಪ ವೃತ್ತೀಯ ಚಲನೆಯಲ್ಲಿ ವಸ್ತುವಿನ ಜವವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಾವು ಈ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ: v ಈಕ್ವಲ್ಸ್ two pi r ಡಿವೈಡೆಡ್ ಬೈ t. ಈ ಸೂತ್ರವು ಜವ ಈಕ್ವಲ್ಸ್ ದೂರ ಡಿವೈಡೆಡ್ ಬೈ ಕಾಲ ಎಂಬ ಮೂಲಭೂತ ಸಂಬಂಧದಿಂದ ಬಂದಿದೆ. ಇಲ್ಲಿ, ಒಂದು ಸುತ್ತಿನಲ್ಲಿ ಚಲಿಸಿದ ದೂರವು ವೃತ್ತದ ಪರಿಧಿಯಾಗಿದೆ. ಬನ್ನಿ, ಈ ಸೂತ್ರದಲ್ಲಿನ ಪ್ರತಿಯೊಂದು ಚಿಹ್ನೆಯ ಅರ್ಥವನ್ನು ತಿಳಿದುಕೊಳ್ಳೋಣ. v ಎಂದರೆ ವಸ್ತುವಿನ ಜವ. r ಎಂದರೆ ವೃತ್ತಾಕಾರದ ಪಥದ ತ್ರಿಜ್ಯ. t ಎಂದರೆ ವಸ್ತುವು ಒಂದು ಪೂರ್ಣ ಸುತ್ತನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ. ಮತ್ತು two pi r ಎಂಬುದು ವೃತ್ತದ ಪರಿಧಿಯನ್ನು, ಅಂದರೆ ಒಂದು ಸುತ್ತಿನಲ್ಲಿ ಚಲಿಸಿದ ಒಟ್ಟು ದೂರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "script_display": "ಏಕರೂಪ ವೃತ್ತೀಯ ಚಲನೆಯಲ್ಲಿ ವಸ್ತುವಿನ ಜವವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಾವು ಈ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ: $v = \\frac{2 \\pi r}{t}$. ಈ ಸೂತ್ರವು 'ಜವ = ದೂರ/ಕಾಲ' ಎಂಬ ಮೂಲಭೂತ ಸಂಬಂಧದಿಂದ ಬಂದಿದೆ. ಇಲ್ಲಿ, ಒಂದು ಸುತ್ತಿನಲ್ಲಿ ಚಲಿಸಿದ ದೂರವು ವೃತ್ತದ ಪರಿಧಿಯಾಗಿದೆ. ಬನ್ನಿ, ಈ ಸೂತ್ರದಲ್ಲಿನ ಪ್ರತಿಯೊಂದು ಚಿಹ್ನೆಯ ಅರ್ಥವನ್ನು ತಿಳಿದುಕೊಳ್ಳೋಣ.\n\n*   **v** = ವಸ್ತುವಿನ ಜವ (Speed)\n*   **r** = ವೃತ್ತಾಕಾರದ ಪಥದ ತ್ರಿಜ್ಯ (Radius)\n*   **t** = ಒಂದು ಸುತ್ತಿಗೆ ತೆಗೆದುಕೊಂಡ ಕಾಲ (Time for one revolution)\n*   **2πr** = ವೃತ್ತದ ಪರಿಧಿ (Circumference)",
+  "display_bullets": [
+    "v = ಜವ (Speed)",
+    "r = ವೃತ್ತದ ತ್ರಿಜ್ಯ (Radius of the circle)",
+    "t = ಒಂದು ಸುತ್ತಿಗೆ ತೆಗೆದುಕೊಂಡ ಕಾಲ (Time for one revolution)",
+    "2πr = ವೃತ್ತದ ಪರಿಧಿ (Circumference of the circle)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "physics_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "v = \\frac{2 \\pi r}{t}",
+    "placeholder_note": "Formula for speed in a circular path."
+  },
+  "chunk_id": "std_9_chapter_7_concept_6_chunk_007"
+}

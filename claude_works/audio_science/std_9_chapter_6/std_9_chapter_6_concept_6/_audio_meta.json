@@ -1,0 +1,125 @@
+{
+  "module_id": "std_9_chapter_6_concept_6",
+  "chapter_code": "std_9_chapter_6",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:14:42",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "6f86aaea969fdcd8a8a66ec5b9b07da3",
+      "wav_file": "001_intro_0.wav",
+      "duration": 38.171,
+      "slide_title": "ಸಸ್ಯಗಳಲ್ಲಿ ರಕ್ಷಣಾತ್ಮಕ ಅಂಗಾಂಶ",
+      "type": "intro",
+      "script_words": 54,
+      "generated_at": "2026-04-02 16:13:12"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "6042bbb10de6e0cfc57f8a856ed13cc6",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 21.771,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 33,
+      "generated_at": "2026-04-02 16:13:27"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "d1ff2769fa313e0e9b5bf989ece2d5dc",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 34.811,
+      "slide_title": "ಎಪಿಡರ್ಮಿಸ್ (Epidermis) - ರಚನೆ",
+      "type": "concept_explanation",
+      "script_words": 46,
+      "generated_at": "2026-04-02 16:13:31"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "74335aec4261077b52a24a95acef2313",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 41.611,
+      "slide_title": "ಎಪಿಡರ್ಮಿಸ್‌ನ ಕಾರ್ಯಗಳು ಮತ್ತು ವಿಶೇಷತೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 16:13:41"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "8c5af7540b721defb82af9077ef4712a",
+      "wav_file": "003_classification_0.wav",
+      "duration": 42.851,
+      "slide_title": "ಸಸ್ಯಗಳಲ್ಲಿ ರಕ್ಷಣಾತ್ಮಕ ಅಂಗಾಂಶ",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 16:13:42"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "44a1ce41e28c52f3efd24d2957ce8553",
+      "wav_file": "010_recap_0.wav",
+      "duration": 47.811,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 57,
+      "generated_at": "2026-04-02 16:14:21"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "671c12b22e7465dc72a38e5e12294932",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 35.651,
+      "slide_title": "ತೊಗಟೆ ಅಥವಾ ಕಾರ್ಕ್ (Cork)",
+      "type": "concept_explanation",
+      "script_words": 48,
+      "generated_at": "2026-04-02 16:14:33"
+    },
+    "008_classification_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "4bb28d8c7a48e568bd070999e365c3be",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "duration": 37.411,
+      "slide_title": "ತೊಗಟೆ (ಕಾರ್ಕ್) - ರಚನೆ ಮತ್ತು ಕಾರ್ಯ",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 16:14:36"
+    },
+    "009_classification_cont_0_6.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "4401555c18b3dea847686568a70b3158",
+      "wav_file": "009_classification_cont_0_6.wav",
+      "duration": 43.211,
+      "slide_title": "ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸ: ಕ್ಯೂಟಿನ್ vs ಸುಬೆರಿನ್",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 16:14:37"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "a823b3a4a0b9cf8f1f836322cad218ec",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 45.291,
+      "slide_title": "ಎಪಿಡರ್ಮಿಸ್‌ನ ವಿಶೇಷತೆಗಳು (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "script_words": 46,
+      "generated_at": "2026-04-02 16:14:42"
+    }
+  }
+}

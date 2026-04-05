@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಆದೇಶ ವಿಧಾನ",
+  "script": "ಈಗ ಆದೇಶ ವಿಧಾನವನ್ನು ಬಳಸಿಕೊಂಡು ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಮಗೆ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ಮೊದಲನೆಯದು, ಏಳು x ಮೈನಸ್ ಹದಿನೈದು y ಈಕ್ವಲ್ಸ್ ಎರಡು, ಮತ್ತು ಎರಡನೆಯದು, x ಪ್ಲಸ್ ಎರಡು y ಈಕ್ವಲ್ಸ್ ಮೂರು. ನಾವು ಈ ಸಮೀಕರಣಗಳ ಜೋಡಿಯನ್ನು ಆದೇಶ ವಿಧಾನದಿಂದ ಬಿಡಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಆದೇಶ ವಿಧಾನವನ್ನು ಬಳಸಿಕೊಂಡು ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಮಗೆ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ಮೊದಲನೆಯದು, $7x - 15y = 2$ (1), ಮತ್ತು ಎರಡನೆಯದು, $x + 2y = 3$ (2). ನಾವು ಈ ಸಮೀಕರಣಗಳ ಜೋಡಿಯನ್ನು ಆದೇಶ ವಿಧಾನದಿಂದ ಬಿಡಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಸಮೀಕರಣ 1: $7x - 15y = 2$",
+    "ಸಮೀಕರಣ 2: $x + 2y = 3$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "7x - 15y = 2 \\\\ x + 2y = 3",
+    "placeholder_note": "Display the two equations clearly."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-PAIR-4_example_4",
+  "chunk_id": "ALG-PAIR-4_concept_3_chunk_007"
+}

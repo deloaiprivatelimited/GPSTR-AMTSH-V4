@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಅದ್ಭುತ ವಿನ್ಯಾಸಗಳು",
+  "script": "ಈಗ ನಮ್ಮ ಕೆಲಿಡೋಸ್ಕೋಪ್ ಸಿದ್ಧವಾಗಿದೆ! ವೀಕ್ಷಣಾ ರಂಧ್ರದ ಮೂಲಕ ಒಳಗೆ ನೋಡಿ ಮತ್ತು ಕೊಳವೆಯನ್ನು ನಿಧಾನವಾಗಿ ತಿರುಗಿಸಿ. ನಿಮಗೆ ಏನು ಕಾಣಿಸುತ್ತದೆ? ಹೌದು, ಬಣ್ಣದ ಗಾಜಿನ ಚೂರುಗಳ ಬಹು ಪ್ರತಿಬಿಂಬಗಳಿಂದ ಉಂಟಾದ ಅಸಂಖ್ಯಾತ, ಸುಂದರವಾದ ಮತ್ತು ಸಮ್ಮಿತೀಯ ವಿನ್ಯಾಸಗಳನ್ನು ನೀವು ನೋಡಬಹುದು. ಪ್ರತಿ ಬಾರಿ ನೀವು ಕೊಳವೆಯನ್ನು ತಿರುಗಿಸಿದಾಗ, ಗಾಜಿನ ಚೂರುಗಳು ತಮ್ಮ ಸ್ಥಾನವನ್ನು ಬದಲಾಯಿಸುತ್ತವೆ ಮತ್ತು ಒಂದು ಸಂಪೂರ್ಣ ಹೊಸ ವಿನ್ಯಾಸವು ರೂಪುಗೊಳ್ಳುತ್ತದೆ. ಒಮ್ಮೆ ಕಂಡ ವಿನ್ಯಾಸವು ಮತ್ತೆಂದೂ ಪುನರಾವರ್ತನೆಯಾಗುವುದಿಲ್ಲ, ಇದೇ ಇದರ ವಿಶೇಷತೆ.",
+  "script_display": "ಈಗ ನಮ್ಮ ಕೆಲಿಡೋಸ್ಕೋಪ್ ಸಿದ್ಧವಾಗಿದೆ! ವೀಕ್ಷಣಾ ರಂಧ್ರದ ಮೂಲಕ ಒಳಗೆ ನೋಡಿ ಮತ್ತು ಕೊಳವೆಯನ್ನು ನಿಧಾನವಾಗಿ ತಿರುಗಿಸಿ. ನಿಮಗೆ ಏನು ಕಾಣಿಸುತ್ತದೆ? ಹೌದು, ಬಣ್ಣದ ಗಾಜಿನ ಚೂರುಗಳ ಬಹು ಪ್ರತಿಬಿಂಬಗಳಿಂದ ಉಂಟಾದ ಅಸಂಖ್ಯಾತ, ಸುಂದರವಾದ ಮತ್ತು ಸಮ್ಮಿತೀಯ (symmetrical) ವಿನ್ಯಾಸಗಳನ್ನು ನೀವು ನೋಡಬಹುದು. ಪ್ರತಿ ಬಾರಿ ನೀವು ಕೊಳವೆಯನ್ನು ತಿರುಗಿಸಿದಾಗ, ಗಾಜಿನ ಚೂರುಗಳು ತಮ್ಮ ಸ್ಥಾನವನ್ನು ಬದಲಾಯಿಸುತ್ತವೆ ಮತ್ತು ಒಂದು ಸಂಪೂರ್ಣ ಹೊಸ ವಿನ್ಯಾಸವು ರೂಪುಗೊಳ್ಳುತ್ತದೆ. ಒಮ್ಮೆ ಕಂಡ ವಿನ್ಯಾಸವು ಮತ್ತೆಂದೂ ಪುನರಾವರ್ತನೆಯಾಗುವುದಿಲ್ಲ, ಇದೇ ಇದರ ವಿಶೇಷತೆ.",
+  "display_bullets": [
+    "ಕೊಳವೆಯನ್ನು ತಿರುಗಿಸಿದಾಗ, ಬಣ್ಣದ ಚೂರುಗಳ ಬಹು ಪ್ರತಿಬಿಂಬಗಳು ಕಾಣಿಸುತ್ತವೆ.",
+    "ಸುಂದರವಾದ, ಸಮ್ಮಿತೀಯ ವಿನ್ಯಾಸಗಳು ರೂಪುಗೊಳ್ಳುತ್ತವೆ.",
+    "ಪ್ರತಿ ಬಾರಿ ಹೊಸ ವಿನ್ಯಾಸವು ಕಾಣಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_template_5",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An animation or a vibrant, colorful, symmetrical pattern as seen through a kaleidoscope. The pattern should be intricate and beautiful, formed from shapes like triangles and hexagons, originating from the reflections of simple colored pieces.",
+    "labels": "ಕೆಲಿಡೋಸ್ಕೋಪ್ ವಿನ್ಯಾಸ",
+    "scientific_significance": "Visually represents the outcome of multiple reflections, turning a few simple objects into a complex and aesthetically pleasing pattern.",
+    "placeholder_note": "Animation or image to be generated showing a kaleidoscope pattern."
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_8_chapter_13_concept_4_chunk_011"
+}

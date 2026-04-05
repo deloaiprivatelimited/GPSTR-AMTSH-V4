@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಪವರ್ತನ ವಿಧಾನ",
+  "script": "ಈಗ ಅಪವರ್ತನ ವಿಧಾನವನ್ನು ಬಳಸಿಕೊಂಡು ಒಂದು ವರ್ಗ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸೋಣ. ನಮ್ಮ ಮುಂದಿರುವ ಸಮಸ್ಯೆ: ಮೂರು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ ಮೈನಸ್ ಎರಡು ರೂಟ್ ಆರು ಎಕ್ಸ್ ಪ್ಲಸ್ ಎರಡು ಈಕ್ವಲ್ಸ್ ಸೊನ್ನೆ. ಇಲ್ಲಿ ನಾವು ಈ ಸಮೀಕರಣದ ಮೂಲಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಅಪವರ್ತನ ವಿಧಾನವನ್ನು ಬಳಸಿಕೊಂಡು ಒಂದು ವರ್ಗ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸೋಣ. ನಮ್ಮ ಮುಂದಿರುವ ಸಮಸ್ಯೆ: $3x^2-2\\sqrt{6}x+2=0$. ಇಲ್ಲಿ ನಾವು ಈ ಸಮೀಕರಣದ ಮೂಲಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣ: $3x^2-2\\sqrt{6}x+2=0$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: ಸಮೀಕರಣದ ಮೂಲಗಳು"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "3x^2-2\\sqrt{6}x+2=0",
+    "placeholder_note": "Display the quadratic equation in a prominent box."
+  },
+  "source_example_id": "ALG-QUAD-4_example_5",
+  "prerequisites_display": [
+    "ವರ್ಗ ಸಮೀಕರಣದ ಆದರ್ಶ ರೂಪ",
+    "ಮಧ್ಯಪದ ವಿಭಜನೆ",
+    "ಕರಣಿಗಳ ಗುಣಾಕಾರ"
+  ],
+  "chunk_id": "ALG-QUAD-4_concept_2_chunk_016"
+}

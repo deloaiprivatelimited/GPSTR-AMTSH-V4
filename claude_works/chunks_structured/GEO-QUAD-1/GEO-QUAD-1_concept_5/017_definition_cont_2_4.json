@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ಚೌಕ: ಒಂದು ಸಾರಾಂಶ",
+  "script": "ಹಾಗಾದರೆ, ಚೌಕದ ಬಗ್ಗೆ ನಾವು ಕಲಿತದ್ದನ್ನು ಒಮ್ಮೆ ಸಾರಾಂಶ ಮಾಡೋಣ. ಚೌಕವು ಕೇವಲ ಒಂದು ಚತುರ್ಭುಜವಲ್ಲ, ಅದು ಸಮಾಂತರ ಚತುರ್ಭುಜ, ಆಯತ, ಮತ್ತು ವಜ್ರಾಕೃತಿ - ಈ ಎಲ್ಲವುಗಳ ಗುಣಗಳನ್ನು ಹೊಂದಿದೆ. ಇದನ್ನು ನೆನಪಿಡಲು ಸುಲಭವಾದ ದಾರಿ ಎಂದರೆ, ಚೌಕವು ಆಯತ ಮತ್ತು ವಜ್ರಾಕೃತಿಯ ಪರಿಪೂರ್ಣ ಮಿಶ್ರಣ. ಅಂದರೆ, ಇದು ಎಲ್ಲಾ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮ ಮತ್ತು ಎಲ್ಲಾ ನಾಲ್ಕು ಕೋನಗಳು ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಇರುವ ಚತುರ್ಭುಜ. ಪರೀಕ್ಷಾ ದೃಷ್ಟಿಯಿಂದ, ಒಂದು ಆಕೃತಿಯು ಚೌಕ ಎಂದು ಸಾಬೀತುಪಡಿಸಲು, ಅದು ಆಯತ ಮತ್ತು ವಜ್ರಾಕೃತಿ ಎರಡೂ ಆಗಿದೆ ಎಂದು ತೋರಿಸಿದರೆ ಸಾಕು.",
+  "script_display": "ಹಾಗಾದರೆ, ಚೌಕದ ಬಗ್ಗೆ ನಾವು ಕಲಿತದ್ದನ್ನು ಒಮ್ಮೆ ಸಾರಾಂಶ ಮಾಡೋಣ. ಚೌಕವು ಕೇವಲ ಒಂದು ಚತುರ್ಭುಜವಲ್ಲ, ಅದು ಸಮಾಂತರ ಚತುರ್ಭುಜ, ಆಯತ, ಮತ್ತು ವಜ್ರಾಕೃತಿ - ಈ ಎಲ್ಲವುಗಳ ಗುಣಗಳನ್ನು ಹೊಂದಿದೆ. ಇದನ್ನು ನೆನಪಿಡಲು ಸುಲಭವಾದ ದಾರಿ ಎಂದರೆ, ಚೌಕವು ಆಯತ ಮತ್ತು ವಜ್ರಾಕೃತಿಯ ಪರಿಪೂರ್ಣ ಮಿಶ್ರಣ. ಅಂದರೆ, ಇದು ಎಲ್ಲಾ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮ ಮತ್ತು ಎಲ್ಲಾ ನಾಲ್ಕು ಕೋನಗಳು $90°$ ಇರುವ ಚತುರ್ಭುಜ. ಪರೀಕ್ಷಾ ದೃಷ್ಟಿಯಿಂದ, ಒಂದು ಆಕೃತಿಯು ಚೌಕ ಎಂದು ಸಾಬೀತುಪಡಿಸಲು, ಅದು ಆಯತ ಮತ್ತು ವಜ್ರಾಕೃತಿ ಎರಡೂ ಆಗಿದೆ ಎಂದು ತೋರಿಸಿದರೆ ಸಾಕು.",
+  "display_bullets": [
+    "ಚೌಕವು ಆಯತ ಮತ್ತು ವಜ್ರಾಕೃತಿ ಎರಡರ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿದೆ.",
+    "A square has the properties of both a rectangle and a rhombus.",
+    "ಎಲ್ಲಾ ಚೌಕಗಳು ಆಯತಗಳು ಮತ್ತು ವಜ್ರಾಕೃತಿಗಳಾಗಿವೆ.",
+    "All squares are rectangles and rhombuses.",
+    "ಕರ್ಣಗಳು ಸಮ, ಮತ್ತು ಪರಸ್ಪರ ಲಂಬವಾಗಿ ಅರ್ಧಿಸುತ್ತವೆ.",
+    "Its diagonals are equal, and they bisect each other at right angles."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "simple_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A Venn diagram. There is a large circle for 'ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳು (Parallelograms)'. Inside it, two overlapping circles. One is labeled 'ಆಯತಗಳು (Rectangles)' and the other is labeled 'ವಜ್ರಾಕೃತಿಗಳು (Rhombuses)'. The overlapping intersection area is shaded and labeled 'ಚೌಕಗಳು (Squares)'.",
+    "labels": "ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳು, ಆಯತಗಳು, ವಜ್ರಾಕೃತಿಗಳು, ಚೌಕಗಳು",
+    "mathematical_significance": "Clearly shows the hierarchical relationship between quadrilaterals, with the square being the most specific type that satisfies the conditions of both a rectangle and a rhombus.",
+    "placeholder_note": "Venn diagram to be generated."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_5_chunk_017"
+}

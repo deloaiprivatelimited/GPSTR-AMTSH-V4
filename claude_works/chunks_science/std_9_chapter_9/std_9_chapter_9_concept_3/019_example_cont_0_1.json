@@ -1,0 +1,43 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1",
+  "script": "ಪರಿಹಾರದ ಮೊದಲನೇ ಹಂತ. ನಾವು ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸರಿಯಾದ ಸೂತ್ರವನ್ನು ಬಳಸಬೇಕು. ಆ ಸೂತ್ರವು, ಸ್ಮಾಲ್ g ಈಕ್ವಲ್ಸ್ ಕ್ಯಾಪಿಟಲ್ G ಇಂಟು ಕ್ಯಾಪಿಟಲ್ M ಡಿವೈಡೆಡ್ ಬೈ ಕ್ಯಾಪಿಟಲ್ R ಸ್ಕ್ವೇರ್. ಇಲ್ಲಿ G ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ, M ಭೂಮಿಯ ರಾಶಿ, ಮತ್ತು R ಭೂಮಿಯ ತ್ರಿಜ್ಯ.",
+  "script_display": "ಪರಿಹಾರದ ಮೊದಲನೇ ಹಂತ. ನಾವು ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸರಿಯಾದ ಸೂತ್ರವನ್ನು ಬಳಸಬೇಕು. \n\n**ಹಂತ 1: ಸೂತ್ರವನ್ನು ಗುರುತಿಸಿ**\n\n$$g = \\frac{GM}{R^2}$$",
+  "display_bullets": [
+    "ಹಂತ 1: ಭೂಮಿಯ ಮೇಲ್ಮೈಯಲ್ಲಿ 'g' ಯ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ಬಳಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "g = \\frac{GM}{R^2}",
+    "placeholder_note": "Formula for acceleration due to gravity"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_9_example_calc_g",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಭೂಮಿಯ ಮೇಲ್ಮೈಯಲ್ಲಿ 'g' ಯ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ಬಳಸಿ.",
+      "justification": "ಭೂಮಿಯ ರಾಶಿ ಮತ್ತು ತ್ರಿಜ್ಯ ತಿಳಿದಿರುವಾಗ ಈ ಸೂತ್ರವು 'g' ಯ ಮೌಲ್ಯವನ್ನು ನೀಡುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "std_9_chapter_9_concept_3_chunk_019"
+}

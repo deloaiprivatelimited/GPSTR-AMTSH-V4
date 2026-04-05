@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಪವಾದಗಳು: ಅಲೋಹಗಳ ವಾಹಕತೆ ಮತ್ತು ಸ್ಥಿತಿ",
+  "script": "ಇಂಗಾಲದ ಇನ್ನೊಂದು ಬಹುರೂಪವಾದ ಗ್ರಾಫೈಟ್ ಕೂಡ ಒಂದು ಅಪವಾದ. ಸಾಮಾನ್ಯವಾಗಿ ಅಲೋಹಗಳು ವಿದ್ಯುತ್ತಿನ ಅವಾಹಕಗಳು. ಆದರೆ ಗ್ರಾಫೈಟ್ ವಿದ್ಯುತ್ತಿನ ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ. ಗ್ರಾಫೈಟ್‌ನಲ್ಲಿರುವ ಮುಕ್ತ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು ವಿದ್ಯುತ್ ಪ್ರವಾಹಕ್ಕೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಇದನ್ನು ವಿದ್ಯುತ್ ಕೋಶಗಳಲ್ಲಿ, ಅಂದರೆ ಬ್ಯಾಟರಿಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ. ಕೊನೆಯದಾಗಿ, ಬ್ರೋಮಿನ್. ಪಾದರಸವು ದ್ರವರೂಪದ ಲೋಹವಾದರೆ, ಬ್ರೋಮಿನ್ ಕೊಠಡಿಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ದ್ರವರೂಪದಲ್ಲಿರುವ ಏಕೈಕ ಅಲೋಹವಾಗಿದೆ. ಇದು ಕೆಂಪು-ಕಂದು ಬಣ್ಣದ ದ್ರವವಾಗಿದ್ದು, ಸುಲಭವಾಗಿ ಆವಿಯಾಗುತ್ತದೆ.",
+  "script_display": "ಇಂಗಾಲದ (Carbon, C) ಇನ್ನೊಂದು ಬಹುರೂಪವಾದ ಗ್ರಾಫೈಟ್ (Graphite) ಕೂಡ ಒಂದು ಅಪವಾದ. ಸಾಮಾನ್ಯವಾಗಿ ಅಲೋಹಗಳು ವಿದ್ಯುತ್ತಿನ ಅವಾಹಕಗಳು (insulators). ಆದರೆ ಗ್ರಾಫೈಟ್ ವಿದ್ಯುತ್ತಿನ ಉತ್ತಮ ವಾಹಕವಾಗಿದೆ (conductor). ಗ್ರಾಫೈಟ್‌ನಲ್ಲಿರುವ ಮುಕ್ತ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು ವಿದ್ಯುತ್ ಪ್ರವಾಹಕ್ಕೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತವೆ. ಕೊನೆಯದಾಗಿ, ಬ್ರೋಮಿನ್ (Bromine, Br). ಪಾದರಸವು ದ್ರವರೂಪದ ಲೋಹವಾದರೆ, ಬ್ರೋಮಿನ್ ಕೊಠಡಿಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ದ್ರವರೂಪದಲ್ಲಿರುವ ಏಕೈಕ ಅಲೋಹವಾಗಿದೆ. ಇದು ಕೆಂಪು-ಕಂದು ಬಣ್ಣದ ದ್ರವವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಇಂಗಾಲ (C) - ಗ್ರಾಫೈಟ್: ಅಲೋಹವಾಗಿದ್ದರೂ ವಿದ್ಯುತ್ತಿನ ಉತ್ತಮ ವಾಹಕ.",
+    "ಬ್ರೋಮಿನ್ (Br): ಕೊಠಡಿಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ದ್ರವರೂಪದಲ್ಲಿರುವ ಏಕೈಕ ಅಲೋಹ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split image. On the left, the layered hexagonal structure of graphite with an arrow indicating electron flow, representing conductivity. On the right, a sealed glass ampoule containing reddish-brown liquid bromine, with some vapor visible above the liquid.",
+    "labels": "ಗ್ರಾಫೈಟ್‌ನ ರಚನೆ (ವಿದ್ಯುತ್ ವಾಹಕ), ದ್ರವರೂಪದ ಬ್ರೋಮಿನ್",
+    "scientific_significance": "Shows that non-metals can be conductive (graphite) and can exist as liquids at room temperature (bromine), breaking the general rules for non-metals.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_3_chunk_011"
+}

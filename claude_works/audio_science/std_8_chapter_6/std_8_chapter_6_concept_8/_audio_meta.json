@@ -1,0 +1,125 @@
+{
+  "module_id": "std_8_chapter_6_concept_8",
+  "chapter_code": "std_8_chapter_6",
+  "voice": "Pulcherrima",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:05:52",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "456a1fd05a8411f9b6f1c6f221e6280d",
+      "wav_file": "001_intro_0.wav",
+      "duration": 46.971,
+      "slide_title": "ತದ್ರೂಪಿಸೃಷ್ಟಿ (Cloning)",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-04-02 15:04:31"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "4580ed41cbd7cf2557861cab5197252f",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 43.971,
+      "slide_title": "ಉದಾಹರಣೆ: ಡಾಲಿ ಕುರಿ",
+      "type": "definition",
+      "script_words": 66,
+      "generated_at": "2026-04-02 15:04:44"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "bc5d753bd7fcff507399303dbd2c9c57",
+      "wav_file": "003_definition_0.wav",
+      "duration": 42.051,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ತದ್ರೂಪಿಸೃಷ್ಟಿ (Cloning)",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 15:04:46"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "d36a440b04991a7c51bb660f73eeb091",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 49.331,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶ",
+      "type": "definition",
+      "script_words": 57,
+      "generated_at": "2026-04-02 15:04:50"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "a3ee4e3ca307290d2ce7b997445b9f96",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 32.691,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 40,
+      "generated_at": "2026-04-02 15:05:01"
+    },
+    "006_example_0.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "ad5562658ab47721b5fb4fed42f84bc7",
+      "wav_file": "006_example_0.wav",
+      "duration": 20.851,
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಡಾಲಿ ಕುರಿಯ ತದ್ರೂಪಿಸೃಷ್ಟಿ",
+      "type": "worked_example",
+      "script_words": 30,
+      "generated_at": "2026-04-02 15:05:16"
+    },
+    "007_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "c85ae6d3cbe78eeee15d1b3ad4f06731",
+      "wav_file": "007_example_cont_0_1.wav",
+      "duration": 58.451,
+      "slide_title": "ಹಂತ 1-3: ಕೋಶಕೇಂದ್ರ ವರ್ಗಾವಣೆ",
+      "type": "worked_example",
+      "script_words": 74,
+      "generated_at": "2026-04-02 15:05:39"
+    },
+    "009_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "ed0140c00212b0f9212ece99f2a4433c",
+      "wav_file": "009_example_cont_0_3.wav",
+      "duration": 41.251,
+      "slide_title": "ಪ್ರಮುಖ ತೀರ್ಮಾನ ಮತ್ತು ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "worked_example",
+      "script_words": 58,
+      "generated_at": "2026-04-02 15:05:48"
+    },
+    "008_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "e267d0823061ff3612713b35138a15e2",
+      "wav_file": "008_example_cont_0_2.wav",
+      "duration": 35.491,
+      "slide_title": "ಹಂತ 4-5: ಭ್ರೂಣದ ಬೆಳವಣಿಗೆ ಮತ್ತು ಜನನ",
+      "type": "worked_example",
+      "script_words": 49,
+      "generated_at": "2026-04-02 15:05:51"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "c74fbdca2397be1e2c451ff2337334f4",
+      "wav_file": "010_recap_0.wav",
+      "duration": 34.371,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 49,
+      "generated_at": "2026-04-02 15:05:52"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ಸರಾಸರಿ ಸೂತ್ರದ ಬಳಕೆ",
+  "script": "ಈಗ ನಾವು ಸರಾಸರಿಯನ್ನು ಕಂಡುಹಿಡಿಯಲು ಹಂತ ವಿಚಲನಾ ವಿಧಾನದ ಸೂತ್ರವನ್ನು ಬಳಸೋಣ. ಸೂತ್ರವು, x ಬಾರ್ ಈಕ್ವಲ್ಸ್ a ಪ್ಲಸ್ h ಗುಣಿಸು, ಸಿಗ್ಮಾ f i u i ಭಾಗಿಸು ಸಿಗ್ಮಾ f i. ಈಗ ನಾವು ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸೋಣ. a ಅಂದರೆ 47.5, h ಅಂದರೆ 15, ಸಿಗ್ಮಾ f i u i ಅಂದರೆ 29, ಮತ್ತು ಸಿಗ್ಮಾ f i ಅಂದರೆ 30. ಹಾಗಾಗಿ, x ಬಾರ್ ಈಕ್ವಲ್ಸ್ 47.5 ಪ್ಲಸ್ 15 ಗುಣಿಸು 29 ಭಾಗಿಸು 30. 15 ಗುಣಿಸು 29 ಭಾಗಿಸು 30 ಅನ್ನು ಸುಲಭೀಕರಿಸಿದರೆ, ನಮಗೆ 29 ಭಾಗಿಸು 2 ಸಿಗುತ್ತದೆ, ಅದು 14.5 ಕ್ಕೆ ಸಮ. ಅಂತಿಮವಾಗಿ, 47.5 ಪ್ಲಸ್ 14.5 ಮಾಡಿದಾಗ ನಮಗೆ 62 ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಸರಾಸರಿಯನ್ನು ಕಂಡುಹಿಡಿಯಲು ಹಂತ ವಿಚಲನಾ ವಿಧಾನದ ಸೂತ್ರವನ್ನು ಬಳಸೋಣ. ಸೂತ್ರವು, $\\bar{x} = a + h \\left( \\frac{\\sum f_i u_i}{\\sum f_i} \\right)$. ಈಗ ನಾವು ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸೋಣ. $a=47.5, h=15, \\sum f_i u_i=29, \\sum f_i=30$. ಹಾಗಾಗಿ, $\\bar{x} = 47.5 + 15 \\left( \\frac{29}{30} \\right)$. $15 \\left( \\frac{29}{30} \\right)$ ಅನ್ನು ಸುಲಭೀಕರಿಸಿದರೆ, ನಮಗೆ $\\frac{29}{2}$ ಸಿಗುತ್ತದೆ, ಅದು $14.5$ ಕ್ಕೆ ಸಮ. ಅಂತಿಮವಾಗಿ, $47.5 + 14.5$ ಮಾಡಿದಾಗ ನಮಗೆ 62 ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "center_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "DATA-STAT-2_example_3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸೂತ್ರ: $\\bar{x} = a + h \\left( \\frac{\\sum f_i u_i}{\\sum f_i} \\right)$",
+      "justification": "ಹಂತ ವಿಚಲನಾ ವಿಧಾನದ ಸರಾಸರಿ ಸೂತ್ರ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಆದೇಶ: $\\bar{x} = 47.5 + 15 \\left( \\frac{29}{30} \\right)$",
+      "justification": "ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "ಲೆಕ್ಕಾಚಾರ: $\\bar{x} = 47.5 + \\frac{29}{2} = 47.5 + 14.5 = 62$",
+      "justification": "ಅಂತಿಮ ಸರಾಸರಿಯನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸುಲಭೀಕರಿಸುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "DATA-STAT-2_concept_2_chunk_037"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಕರಣಿಗಳ ಭಾಗಾಕಾರ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಎಂಟು ರೂಟ್ ಹದಿನೈದನ್ನು ಎರಡು ರೂಟ್ ಮೂರರಿಂದ ಭಾಗಿಸಬೇಕು. ಅಂದರೆ, ಎಂಟು ರೂಟ್ ಹದಿನೈದು ಭಾಗಿಸು ಎರಡು ರೂಟ್ ಮೂರು. ಇದನ್ನು ಹೇಗೆ ಮಾಡುವುದು ಎಂದು ನೋಡೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $8\\sqrt{15}$ ನ್ನು $2\\sqrt{3}$ ರಿಂದ ಭಾಗಿಸಬೇಕು. ಅಂದರೆ, $8\\sqrt{15} \\div 2\\sqrt{3}$. ಇದನ್ನು ಹೇಗೆ ಮಾಡುವುದು ಎಂದು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $8\\sqrt{15}$ ನ್ನು $2\\sqrt{3}$ ರಿಂದ ಭಾಗಿಸಿ.",
+    "ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: $\\frac{8\\sqrt{15}}{2\\sqrt{3}}$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "8\\sqrt{15} \\div 2\\sqrt{3} = ?",
+    "placeholder_note": "The problem to be solved."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "NS-SYS-3_example_14",
+  "chunk_id": "NS-SYS-3_concept_4_chunk_043"
+}

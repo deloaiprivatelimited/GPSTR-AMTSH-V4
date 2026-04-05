@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಮಧ್ಯಪದ ವಿಭಜನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಅಪವರ್ತಿಸಬೇಕಾದ ಬಹುಪದೋಕ್ತಿ ಆರು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ಹದಿನೇಳು ಎಕ್ಸ್ ಪ್ಲಸ್ ಐದು. ನಾವು ಬಳಸುವ ವಿಧಾನ ಮಧ್ಯಪದವನ್ನು ವಿಭಜಿಸಿ ಅಪವರ್ತಿಸುವುದು. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ವರ್ಗ ಬಹುಪದೋಕ್ತಿ ನೀಡಲಾಗಿದೆ ಮತ್ತು ನಾವು ಅದನ್ನು ಅಪವರ್ತನಗಳ ಗುಣಲಬ್ಧವಾಗಿ ವ್ಯಕ್ತಪಡಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಅಪವರ್ತಿಸಬೇಕಾದ ಬಹುಪದೋಕ್ತಿ $6x^2 + 17x + 5$. ನಾವು ಬಳಸುವ ವಿಧಾನ ಮಧ್ಯಪದವನ್ನು ವಿಭಜಿಸಿ ಅಪವರ್ತಿಸುವುದು. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ವರ್ಗ ಬಹುಪದೋಕ್ತಿ ನೀಡಲಾಗಿದೆ ಮತ್ತು ನಾವು ಅದನ್ನು ಅಪವರ್ತನಗಳ ಗುಣಲಬ್ಧವಾಗಿ ವ್ಯಕ್ತಪಡಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಬಹುಪದೋಕ್ತಿ: $6x^2 + 17x + 5$",
+    "ಬಳಸುವ ವಿಧಾನ: ಮಧ್ಯಪದವನ್ನು ವಿಭಜಿಸಿ ಅಪವರ್ತಿಸುವುದು"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "6x^2 + 17x + 5",
+    "placeholder_note": "Problem statement displayed in a box"
+  },
+  "source_example_id": "ALG-POL-3_example_9",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_085"
+}

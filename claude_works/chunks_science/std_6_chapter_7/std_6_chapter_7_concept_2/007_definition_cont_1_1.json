@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ತಾಪಮಾಪಕದ ಕಾರ್ಯವಿಧಾನ",
+  "script": "ಹಾಗಾದರೆ, ಈ ತಾಪಮಾಪಕ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ? ಹೆಚ್ಚಿನ ತಾಪಮಾಪಕಗಳು ಒಂದು ಸರಳ ತತ್ವದ ಮೇಲೆ ಆಧಾರಿತವಾಗಿವೆ. ಅವುಗಳೆಂದರೆ, ವಸ್ತುಗಳು ಬಿಸಿಯಾದಾಗ ಹಿಗ್ಗುತ್ತವೆ ಮತ್ತು ತಂಪಾದಾಗ ಕುಗ್ಗುತ್ತವೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಸಾಮಾನ್ಯ ತಾಪಮಾಪಕದಲ್ಲಿ ಒಂದು ಸಣ್ಣ ಬುರುಡೆ ಮತ್ತು ಅದಕ್ಕೆ ಜೋಡಿಸಲಾದ ಒಂದು ತೆಳುವಾದ ಗಾಜಿನ ಕೊಳವೆ ಇರುತ್ತದೆ. ಈ ಬುರುಡೆಯಲ್ಲಿ ಪಾದರಸ ಅಥವಾ ಆಲ್ಕೋಹಾಲ್‌ನಂತಹ ದ್ರವವಿರುತ್ತದೆ. ತಾಪ ಹೆಚ್ಚಾದಾಗ, ದ್ರವವು ಹಿಗ್ಗಿ ಕೊಳವೆಯಲ್ಲಿ ಮೇಲಕ್ಕೆ ಏರುತ್ತದೆ. ತಾಪ ಕಡಿಮೆಯಾದಾಗ, ದ್ರವವು ಕುಗ್ಗಿ ಕೆಳಗೆ ಇಳಿಯುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ತಾಪಮಾಪಕ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ? ಹೆಚ್ಚಿನ ತಾಪಮಾಪಕಗಳು ಒಂದು ಸರಳ ತತ್ವದ ಮೇಲೆ ಆಧಾರಿತವಾಗಿವೆ: ವಸ್ತುಗಳು ಬಿಸಿಯಾದಾಗ ಹಿಗ್ಗುತ್ತವೆ (expand) ಮತ್ತು ತಂಪಾದಾಗ ಕುಗ್ಗುತ್ತವೆ (contract). ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಸಾಮಾನ್ಯ ತಾಪಮಾಪಕದಲ್ಲಿ ಒಂದು ಸಣ್ಣ ಬುರುಡೆ (bulb) ಮತ್ತು ಅದಕ್ಕೆ ಜೋಡಿಸಲಾದ ಒಂದು ತೆಳುವಾದ ಗಾಜಿನ ಕೊಳವೆ (stem) ಇರುತ್ತದೆ. ಈ ಬುರುಡೆಯಲ್ಲಿ ಪಾದರಸ ಅಥವಾ ಆಲ್ಕೋಹಾಲ್‌ನಂತಹ ದ್ರವವಿರುತ್ತದೆ. ತಾಪ ಹೆಚ್ಚಾದಾಗ, ದ್ರವವು ಹಿಗ್ಗಿ ಕೊಳವೆಯಲ್ಲಿ ಮೇಲಕ್ಕೆ ಏರುತ್ತದೆ. ತಾಪ ಕಡಿಮೆಯಾದಾಗ, ದ್ರವವು ಕುಗ್ಗಿ ಕೆಳಗೆ ಇಳಿಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ತತ್ವ: ವಸ್ತುಗಳು ಬಿಸಿಯಾದಾಗ ಹಿಗ್ಗುತ್ತವೆ, ತಂಪಾದಾಗ ಕುಗ್ಗುತ್ತವೆ.",
+    "ರಚನೆ: ದ್ರವ ತುಂಬಿದ ಬುರುಡೆ ಮತ್ತು ತೆಳುವಾದ ಗಾಜಿನ ಕೊಳವೆ.",
+    "ಕಾರ್ಯ: ತಾಪಕ್ಕೆ ಅನುಗುಣವಾಗಿ ದ್ರವದ ಮಟ್ಟ ಏರಿಳಿತವಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a liquid-in-glass thermometer. It should clearly show the bulb at the bottom containing a liquid (colored red or silver), a narrow stem (capillary tube) where the liquid column rises, and a scale with markings alongside the stem.",
+    "labels": "Bulb (ಬುರುಡೆ), Stem (ಕೊಳವೆ), Liquid column (ದ್ರವದ ಮಟ್ಟ), Scale (ಮಾಪಕ)",
+    "scientific_significance": "Illustrates the basic principle of thermal expansion used in most common thermometers.",
+    "placeholder_note": "Image to be generated: A clear, labeled diagram of a basic thermometer."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_7_concept_2_chunk_007"
+}

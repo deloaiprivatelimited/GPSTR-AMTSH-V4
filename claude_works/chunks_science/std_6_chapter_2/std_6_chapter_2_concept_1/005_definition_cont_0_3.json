@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಪದದ ಅರ್ಥ: ಜೀವ + ವೈವಿಧ್ಯತೆ",
+  "script": "ಜೀವವೈವಿಧ್ಯತೆ ಎಂಬ ಪದವನ್ನು ಇನ್ನಷ್ಟು ಸರಳವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಅದನ್ನು ಎರಡು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸೋಣ. ಮೊದಲ ಭಾಗ 'ಜೀವ', ಅಂದರೆ ಜೀವಿಗಳು, ಬದುಕು ಅಥವಾ ಜೀವಾಳ. ಎರಡನೇ ಭಾಗ 'ವೈವಿಧ್ಯತೆ', ಅಂದರೆ ಭಿನ್ನತೆ, ಹಲವು ಬಗೆಯ, ಅಥವಾ ನಾನಾ ರೂಪಗಳು. ಹೀಗೆ, ಈ ಎರಡು ಪದಗಳನ್ನು ಸೇರಿಸಿದಾಗ, ಜೀವವೈವಿಧ್ಯತೆ ಎಂದರೆ 'ಜೀವಿಗಳಲ್ಲಿನ ವೈವಿಧ್ಯತೆ' ಅಥವಾ 'ಬದುಕಿನಲ್ಲಿನ ಭಿನ್ನತೆ' ಎಂಬ ಸರಳ ಅರ್ಥ ಸಿಗುತ್ತದೆ. ಇದು ಕೇವಲ ಪ್ರಾಣಿಗಳಲ್ಲ, ಸಸ್ಯಗಳು ಮತ್ತು ಸೂಕ್ಷ್ಮಜೀವಿಗಳಿಗೂ ಅನ್ವಯಿಸುತ್ತದೆ.",
+  "script_display": "ಜೀವವೈವಿಧ್ಯತೆ (Biodiversity) ಎಂಬ ಪದವನ್ನು ವಿಭಜಿಸಿ ನೋಡೋಣ:\n\n*   **ಜೀವ (Bio):** ಇದರ ಅರ್ಥ 'ಜೀವಿಗಳು' ಅಥವಾ 'ಬದುಕು'.\n\n*   **ವೈವಿಧ್ಯತೆ (Diversity):** ಇದರ ಅರ್ಥ 'ವಿಭಿನ್ನತೆ', 'ಹಲವು ಬಗೆಯ' ಅಥವಾ 'ನಾನಾ ರೂಪಗಳು'.\n\n**ಹೀಗಾಗಿ, ಜೀವವೈವಿಧ್ಯತೆ = ಜೀವಿಗಳಲ್ಲಿನ ವೈವಿಧ್ಯತೆ**",
+  "display_bullets": [
+    "ಜೀವ (Bio): ಇದರ ಅರ್ಥ 'ಜೀವಿಗಳು' ಅಥವಾ 'ಬದುಕು'.",
+    "ವೈವಿಧ್ಯತೆ (Diversity): ಇದರ ಅರ್ಥ 'ವಿಭಿನ್ನತೆ', 'ಹಲವು ಬಗೆಯ' ಅಥವಾ 'ನಾನಾ ರೂಪಗಳು'."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "left_right_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಜೀವವೈವಿಧ್ಯತೆ} = \\text{ಜೀವ} + \\text{ವೈವಿಧ್ಯತೆ}",
+    "placeholder_note": "A simple visual equation showing the breakdown of the word."
+  },
+  "sub_type": "conceptual_breakdown",
+  "chunk_id": "std_6_chapter_2_concept_1_chunk_005"
+}

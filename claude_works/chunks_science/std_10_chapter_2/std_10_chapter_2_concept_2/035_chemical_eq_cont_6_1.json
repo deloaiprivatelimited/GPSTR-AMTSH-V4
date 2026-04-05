@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ: ಎರಡು ಎಚ್ ಸಿ ಎಲ್ ಅಕ್ವಿಯಸ್ ಪ್ಲಸ್ ಸಿ ಯು ಓ ಸಾಲಿಡ್ ಗಿವ್ಸ್ ಸಿ ಯು ಸಿ ಎಲ್ ಟು ಅಕ್ವಿಯಸ್ ಪ್ಲಸ್ ಎಚ್ ಟು ಓ ಲಿಕ್ವಿಡ್. ಅಂದರೆ, ಎರಡು ಅಣುಗಳು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವು, ತಾಮ್ರದ ಎರಡು ಆಕ್ಸೈಡ್‌ನ ಒಂದು ಅಣುವಿನೊಂದಿಗೆ ವರ್ತಿಸಿ, ತಾಮ್ರದ ಎರಡು ಕ್ಲೋರೈಡ್ ಮತ್ತು ನೀರನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ:\n\n`2HCl(aq) + CuO(s) → CuCl₂(aq) + H₂O(l)`\n\nಅಂದರೆ, ಎರಡು ಅಣುಗಳು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವು, ತಾಮ್ರದ (II) ಆಕ್ಸೈಡ್‌ನ ಒಂದು ಅಣುವಿನೊಂದಿಗೆ ವರ್ತಿಸಿ, ತಾಮ್ರದ (II) ಕ್ಲೋರೈಡ್ ಮತ್ತು ನೀರನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "modern_dark",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2\\text{HCl}_{\\text{(aq)}} + \\text{CuO}_{\\text{(s)}} \\rightarrow \\text{CuCl}_{2\\text{(aq)}} + \\text{H}_2\\text{O}_{\\text{(l)}}",
+    "placeholder_note": "Reaction of Hydrochloric Acid with Copper(II) Oxide"
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_035"
+}

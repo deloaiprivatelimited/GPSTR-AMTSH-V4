@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಮೂಲಗಳ ಸ್ವಭಾವ: ಸಂದರ್ಭ 2",
+  "script": "ಈಗ ಎರಡನೇ ಸಂದರ್ಭವನ್ನು ನೋಡೋಣ. ಶೋಧಕವು ನಿಖರವಾಗಿ ಸೊನ್ನೆಗೆ ಸಮನಾಗಿದ್ದರೆ, ಅಂದರೆ ಡಿ ಈಕ್ವಲ್ಸ್ ಜೀರೋ. ಇದರರ್ಥ, ಬಿ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಫೋರ್ ಎ ಸಿ ಯ ಬೆಲೆಯು ಸೊನ್ನೆಯಾಗಿದ್ದರೆ, ವರ್ಗ ಸಮೀಕರಣವು ಎರಡು ಸಮನಾದ ವಾಸ್ತವ ಮೂಲಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. 'ಸಮನಾದ' ಎಂದರೆ ಒಂದೇ ರೀತಿಯ, ಅಂದರೆ ಎರಡೂ ಮೂಲಗಳು ಒಂದೇ ಆಗಿರುತ್ತವೆ. ಹೀಗಾಗಿ, ನಾವು ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿದಾಗ ಎಕ್ಸ್ ಗೆ ಒಂದೇ ಒಂದು ವಾಸ್ತವ ಬೆಲೆ ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಎರಡು ಸಮನಾದ ಮೂಲಗಳು ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಸಂದರ್ಭವನ್ನು ನೋಡೋಣ. ಶೋಧಕವು ನಿಖರವಾಗಿ ಸೊನ್ನೆಗೆ ಸಮನಾಗಿದ್ದರೆ, ಅಂದರೆ $D = 0$. ಇದರರ್ಥ, $b^2-4ac$ ಯ ಬೆಲೆಯು ಸೊನ್ನೆಯಾಗಿದ್ದರೆ, ವರ್ಗ ಸಮೀಕರಣವು ಎರಡು **ಸಮನಾದ ವಾಸ್ತವ ಮೂಲಗಳನ್ನು** ಹೊಂದಿರುತ್ತದೆ. 'ಸಮನಾದ' ಎಂದರೆ ಒಂದೇ ರೀತಿಯ, ಅಂದರೆ ಎರಡೂ ಮೂಲಗಳು ಒಂದೇ ಆಗಿರುತ್ತವೆ. ಹೀಗಾಗಿ, ನಾವು ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿದಾಗ $x$ ಗೆ ಒಂದೇ ಒಂದು ವಾಸ್ತವ ಬೆಲೆ ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಎರಡು ಸಮನಾದ ಮೂಲಗಳು ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "**ಸಂದರ್ಭ 2: ಶೋಧಕವು ಸೊನ್ನೆಗೆ ಸಮನಾಗಿದ್ದರೆ ($D = 0$)**",
+    "$b^2-4ac = 0$ ಆದರೆ, ವರ್ಗ ಸಮೀಕರಣವು ಎರಡು **ಸಮನಾದ ವಾಸ್ತವ ಮೂಲಗಳನ್ನು** ಹೊಂದಿರುತ್ತದೆ.",
+    "ಅಂದರೆ, $x$ ಗೆ ಒಂದೇ ಒಂದು ವಾಸ್ತವ ಬೆಲೆ ಸಿಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A parabola opening upwards that touches the x-axis at exactly one point (the vertex). A label indicates 'D = 0'.",
+    "labels": "Parabola, x-axis, single root, D = 0",
+    "mathematical_significance": "Visually represents the case where the discriminant is zero, leading to two equal real roots, which corresponds to the single x-intercept of the parabola.",
+    "placeholder_note": "Image to be generated. Show a standard parabola y = ax^2+bx+c touching the x-axis at its vertex."
+  },
+  "chunk_id": "ALG-QUAD-4_concept_3_chunk_012"
+}

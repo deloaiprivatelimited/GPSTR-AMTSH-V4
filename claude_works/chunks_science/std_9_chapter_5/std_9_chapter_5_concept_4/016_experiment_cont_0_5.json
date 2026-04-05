@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ 2: ಮೊಟ್ಟೆ ಸಂಕುಚಿಸುತ್ತದೆ!",
+  "script": "ನೋಡಿ, ಉಪ್ಪಿನ ದ್ರಾವಣದಲ್ಲಿಟ್ಟ ಮೊಟ್ಟೆಯು ಸಂಕುಚಿಸಿದೆ, ಅಂದರೆ ಕುಗ್ಗಿದೆ. ಇದರ ಗಾತ್ರ ಚಿಕ್ಕದಾಗಿದೆ. ಹೀಗೇಕಾಯಿತು? ಏಕೆಂದರೆ, ಮೊಟ್ಟೆಯೊಳಗಿನ ದ್ರವಕ್ಕೆ ಹೋಲಿಸಿದರೆ, ಹೊರಗಿನ ಉಪ್ಪಿನ ದ್ರಾವಣದಲ್ಲಿ ನೀರಿನ ಸಾರತೆ ಕಡಿಮೆ ಇತ್ತು. ಆದ್ದರಿಂದ, ನೀರು ಮೊಟ್ಟೆಯೊಳಗಿನಿಂದ ಪೊರೆಯನ್ನು ದಾಟಿ ಹೊರಗಿನ ದ್ರಾವಣಕ್ಕೆ ಚಲಿಸಿದೆ. ಹೀಗೆ ನೀರು ಕೋಶದಿಂದ ಹೊರಹೋಗುವ ಪ್ರಕ್ರಿಯೆಗೆ ಬಹಿರ್‍ಅಭಿಸರಣೆ ಅಥವಾ ಎಕ್ಸೋಸ್ಮೋಸಿಸ್ ಎನ್ನುತ್ತೇವೆ. ಇದರಿಂದಾಗಿಯೇ ಮೊಟ್ಟೆಯು ಸಂಕುಚಿಸಿತು.",
+  "script_display": "ನೋಡಿ, ಉಪ್ಪಿನ ದ್ರಾವಣದಲ್ಲಿಟ್ಟ ಮೊಟ್ಟೆಯು ಸಂಕುಚಿಸಿದೆ, ಅಂದರೆ ಕುಗ್ಗಿದೆ. ಇದರ ಗಾತ್ರ ಚಿಕ್ಕದಾಗಿದೆ. ಹೀಗೇಕಾಯಿತು? ಏಕೆಂದರೆ, ಮೊಟ್ಟೆಯೊಳಗಿನ ದ್ರವಕ್ಕೆ ಹೋಲಿಸಿದರೆ, ಹೊರಗಿನ ಉಪ್ಪಿನ ದ್ರಾವಣದಲ್ಲಿ ನೀರಿನ ಸಾರತೆ ಕಡಿಮೆ ಇತ್ತು. ಆದ್ದರಿಂದ, ನೀರು ಮೊಟ್ಟೆಯೊಳಗಿನಿಂದ ಪೊರೆಯನ್ನು ದಾಟಿ ಹೊರಗಿನ ದ್ರಾವಣಕ್ಕೆ ಚಲಿಸಿದೆ. ಹೀಗೆ ನೀರು ಕೋಶದಿಂದ ಹೊರಹೋಗುವ ಪ್ರಕ್ರಿಯೆಗೆ ಬಹಿರ್‍ಅಭಿಸರಣೆ (Exosmosis) ಎನ್ನುತ್ತೇವೆ. ಇದರಿಂದಾಗಿಯೇ ಮೊಟ್ಟೆಯು ಸಂಕುಚಿಸಿತು.",
+  "display_bullets": [
+    "ವೀಕ್ಷಣೆ: ಮೊಟ್ಟೆಯು ಸಂಕುಚಿಸುತ್ತದೆ (ಕುಗ್ಗುತ್ತದೆ).",
+    "ಕಾರಣ: ನೀರು ಮೊಟ್ಟೆಯಿಂದ ಹೊರಗಿನ ದ್ರಾವಣಕ್ಕೆ ಬಂದಿದೆ.",
+    "ಪ್ರಕ್ರಿಯೆ: ಬಹಿರ್‍ಅಭಿಸರಣೆ (Exosmosis).",
+    "ನೀರು ತನ್ನ ಅಧಿಕ ಸಾರತೆಯ ಪ್ರದೇಶದಿಂದ (ಮೊಟ್ಟೆಯ ಒಳಭಾಗ) ಕಡಿಮೆ ಸಾರತೆಯ ಪ್ರದೇಶಕ್ಕೆ (ಉಪ್ಪಿನ ದ್ರಾವಣ) ಚಲಿಸಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A comparative diagram. On the left, the initial de-shelled egg. On the right, the same egg shown smaller and shrunken after being in salt solution. Arrows point from the egg into the solution, indicating the direction of water movement.",
+    "labels": "ಆರಂಭಿಕ ಮೊಟ್ಟೆ, ಸಂಕುಚಿಸಿದ ಮೊಟ್ಟೆ, ನೀರಿನ ಚಲನೆ (ಹೊರಮುಖವಾಗಿ)",
+    "scientific_significance": "Visually demonstrates the result of placing the egg in a hypertonic solution, leading to shrinking due to exosmosis.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "key_takeaway",
+  "chunk_id": "std_9_chapter_5_concept_4_chunk_016"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 2 ಮತ್ತು 3",
+  "script": "ಮುಂದಿನ ಹಂತ, ಕೊಟ್ಟಿರುವ ಜವದ ಮೌಲ್ಯವನ್ನು ಈ ಸೂತ್ರದಲ್ಲಿ ಹಾಕೋಣ. ಜವವು 320 ಗುಣಿಸು 5 ಭಾಗಿಸು 18 ಆಗುತ್ತದೆ. ಈಗ ಮೂರನೇ ಹಂತ, ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. 320 ಅನ್ನು 5 ರಿಂದ ಗುಣಿಸಿದಾಗ 1600 ಬರುತ್ತದೆ. ನಂತರ 1600 ಅನ್ನು 18 ರಿಂದ ಭಾಗಿಸಬೇಕು. ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಸರಿಸುಮಾರು 88.89 ಎಂಬ ಉತ್ತರ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತ, ಕೊಟ್ಟಿರುವ ಜವದ ಮೌಲ್ಯವನ್ನು ಈ ಸೂತ್ರದಲ್ಲಿ ಹಾಕೋಣ. ಜವ = 320 × (5/18). ಈಗ ಮೂರನೇ ಹಂತ, ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. 320 × 5 = 1600. ನಂತರ 1600 ÷ 18. ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಸರಿಸುಮಾರು 88.89 ಎಂಬ ಉತ್ತರ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹಂತ 2: ಕೊಟ್ಟಿರುವ ಮೌಲ್ಯವನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ.",
+    "ಹಂತ 3: ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಜವ} = 320 \\times \\frac{5}{18} = \\frac{1600}{18} \\approx 88.89 \\, \\text{m/s}",
+    "placeholder_note": "Calculation showing the substitution and result"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_7_science_ch_9_example_1",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಕೊಟ್ಟಿರುವ ಮೌಲ್ಯವನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ.",
+      "justification": ""
+    },
+    {
+      "step": 3,
+      "action_display": "ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+      "justification": ""
+    }
+  ],
+  "chunk_id": "std_7_science_ch_9_concept_4_chunk_013"
+}

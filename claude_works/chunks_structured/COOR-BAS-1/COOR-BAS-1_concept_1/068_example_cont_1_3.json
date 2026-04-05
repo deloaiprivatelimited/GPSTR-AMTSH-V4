@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 5",
+  "script": "ಕೊನೆಯದಾಗಿ, E ಬಿಂದುವನ್ನು ನೋಡೋಣ. ಈ ಬಿಂದು ಕೂಡ ಋಣಾತ್ಮಕ x ಅಕ್ಷದ ಮೇಲಿದೆ, ಆದರೆ ಸೊನ್ನೆ ಮತ್ತು ಮೈನಸ್ ಒಂದರ ನಡುವೆ ಇದೆ. ಚಿತ್ರದ ಪ್ರಕಾರ, ಅದರ ಸ್ಥಾನ ಮೈನಸ್ ಮೂರನೇ ಎರಡು. ಇದು x ಅಕ್ಷದ ಮೇಲೆ ಇರುವುದರಿಂದ, ಅದರ y ನಿರ್ದೇಶಾಂಕ ಸೊನ್ನೆ ಆಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, E ಯ ನಿರ್ದೇಶಾಂಕಗಳು ಮೈನಸ್ ಮೂರನೇ ಎರಡು, ಸೊನ್ನೆ.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, E ಬಿಂದುವನ್ನು ನೋಡೋಣ. ಈ ಬಿಂದು ಕೂಡ ಋಣಾತ್ಮಕ x-ಅಕ್ಷದ ಮೇಲಿದೆ, ಆದರೆ 0 ಮತ್ತು -1 ರ ನಡುವೆ ಇದೆ. ಚಿತ್ರದ ಪ್ರಕಾರ, ಅದರ ಸ್ಥಾನ -2/3. ಇದು x-ಅಕ್ಷದ ಮೇಲೆ ಇರುವುದರಿಂದ, ಅದರ y-ನಿರ್ದೇಶಾಂಕ 0 ಆಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, E ಯ ನಿರ್ದೇಶಾಂಕಗಳು (-2/3, 0).",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "COOR-BAS-1_example_2",
+  "steps": [
+    {
+      "step": 5,
+      "action_display": "E ಬಿಂದುವು ಋಣಾತ್ಮಕ x-ಅಕ್ಷದ ಮೇಲೆ, ಮೂಲಬಿಂದುವಿನಿಂದ 2/3 ಏಕಮಾನ ದೂರದಲ್ಲಿದೆ. ಆದ್ದರಿಂದ, E = (-2/3, 0).",
+      "justification": "x-ಅಕ್ಷದ ಮೇಲಿನ ಬಿಂದುವಿನ y-ನಿರ್ದೇಶಾಂಕವು ಯಾವಾಗಲೂ 0."
+    }
+  ],
+  "chunk_id": "COOR-BAS-1_concept_1_chunk_068"
+}

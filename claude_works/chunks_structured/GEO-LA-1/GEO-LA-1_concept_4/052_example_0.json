@@ -1,0 +1,50 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮಾಂತರ ರೇಖೆಗಳು ಮತ್ತು ಕೋನಗಳು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ಚಿತ್ರದಲ್ಲಿ, l ಮತ್ತು m ಸಮಾಂತರ ರೇಖೆಗಳು ಮತ್ತು t ಒಂದು ಛೇದಕ ರೇಖೆ ಎಂದು ನೀಡಲಾಗಿದೆ. ಒಂದು ಕೋನದ ಅಳತೆ 60 ಡಿಗ್ರಿ. ನಾವು x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು, ದತ್ತಾಂಶಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ: l ಸಮಾಂತರ m, ಮತ್ತು ಒಂದು ಕೋನ 60 ಡಿಗ್ರಿ. ನಾವು x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ಚಿತ್ರದಲ್ಲಿ, $l \\parallel m$ ಮತ್ತು $t$ ಒಂದು ಛೇದಕ ರೇಖೆ ಎಂದು ನೀಡಲಾಗಿದೆ. ಒಂದು ಕೋನದ ಅಳತೆ $60^\\circ$. ನಾವು $x$ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು, ದತ್ತಾಂಶಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ: $l \\parallel m$, ಮತ್ತು ಒಂದು ಕೋನ $= 60^\\circ$. ನಾವು $x$ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಚಿತ್ರದಲ್ಲಿ, $l \\parallel m$ ಮತ್ತು $t$ ಒಂದು ಛೇದಕ. ಒಂದು ಕೋನದ ಅಳತೆ $60^\\circ$ ಎಂದು ನೀಡಲಾಗಿದೆ. $x$ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ದತ್ತಾಂಶ: $l \\parallel m$, ಒಂದು ಕೋನ $= 60^\\circ$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $x$ ನ ಬೆಲೆ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ಸಮಾಂತರ ರೇಖೆಗಳು l ಮತ್ತು m ಅನ್ನು ಛೇದಕ t ಛೇದಿಸುತ್ತಿದೆ. ಮೇಲಿನ ರೇಖೆಯ ಮೇಲಿನ ಬಲ ಅಂತರ್ ಕೋನವನ್ನು 60 ಡಿಗ್ರಿ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಕೆಳಗಿನ ರೇಖೆಯ ಕೆಳಗಿನ ಎಡ ಅಂತರ್ ಕೋನವನ್ನು x ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. 60 ಡಿಗ್ರಿ ಮತ್ತು x ಕೋನಗಳು ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದಲ್ಲಿವೆ.",
+    "labels": "l, m, t, 60, x",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಸಮಾಂತರ ರೇಖೆಗಳು ಮತ್ತು ಛೇದಕದಿಂದ ಉಂಟಾಗುವ ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಅಂತರ್ ಕೋನಗಳ ಸಂಬಂಧವನ್ನು ವಿವರಿಸುತ್ತದೆ. ಈ ಕೋನಗಳು ಪರಿಪೂರಕವಾಗಿರುತ್ತವೆ.",
+    "placeholder_note": "Image to be generated showing parallel lines l and m, transversal t, one angle marked as 60 degrees, and the consecutive interior angle marked as x."
+  },
+  "source_example_id": "GEO-LA-1_example_5",
+  "prerequisites_display": [
+    "ಸಮಾಂತರ ರೇಖೆಗಳು",
+    "ಛೇದಕ",
+    "ಅಂತರ್ ಕೋನಗಳು",
+    "ಪರಿಪೂರಕ ಕೋನಗಳು"
+  ],
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 0,
+    "theorems": 1,
+    "properties": 1,
+    "worked_examples": 1
+  },
+  "chunk_id": "GEO-LA-1_concept_4_chunk_052"
+}

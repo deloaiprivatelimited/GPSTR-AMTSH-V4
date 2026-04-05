@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಿಧಿ: ನೈಜ ಪ್ರಪಂಚದ ಉದಾಹರಣೆ",
+  "script": "ಪರಿಧಿಯ ಪರಿಕಲ್ಪನೆ ನಿಜ ಜೀವನದಲ್ಲಿ ಬಹಳ ಮುಖ್ಯ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ಒಂದು ಚಕ್ರವು ನೆಲದ ಮೇಲೆ ಒಂದು ಪೂರ್ಣ ಸುತ್ತು ತಿರುಗಿದಾಗ, ಅದು ಕ್ರಮಿಸುವ ದೂರವು ನಿಖರವಾಗಿ ಅದರ ಪರಿಧಿಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ, ವಾಹನಗಳು ಎಷ್ಟು ದೂರ ಚಲಿಸಿವೆ ಎಂದು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಚಕ್ರದ ಪರಿಧಿಯನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಇದಲ್ಲದೆ, ಓಟದ ಪಥದ ಅಂದರೆ ರನ್ನಿಂಗ್ ಟ್ರ್ಯಾಕ್ ನ ಒಟ್ಟು ಉದ್ದ, ಅಥವಾ ಒಂದು ವೃತ್ತಾಕಾರದ ಮೇಜಿನ ಸುತ್ತಲೂ ಅಲಂಕಾರಿಕ ಪಟ್ಟಿಯನ್ನು ಹಾಕಲು ಬೇಕಾದ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೂಡ ಪರಿಧಿಯ ಜ್ಞಾನವು ಅವಶ್ಯಕವಾಗಿದೆ.",
+  "script_display": "ಪರಿಧಿಯ ಪರಿಕಲ್ಪನೆ ನಿಜ ಜೀವನದಲ್ಲಿ ಬಹಳ ಮುಖ್ಯ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ಒಂದು ಚಕ್ರವು ನೆಲದ ಮೇಲೆ ಒಂದು ಪೂರ್ಣ ಸುತ್ತು ತಿರುಗಿದಾಗ, ಅದು ಕ್ರಮಿಸುವ ದೂರವು ನಿಖರವಾಗಿ ಅದರ ಪರಿಧಿಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ, ವಾಹನಗಳು ಎಷ್ಟು ದೂರ ಚಲಿಸಿವೆ ಎಂದು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಚಕ್ರದ ಪರಿಧಿಯನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಇದಲ್ಲದೆ, ಓಟದ ಪಥದ (running track) ಒಟ್ಟು ಉದ್ದ, ಅಥವಾ ಒಂದು ವೃತ್ತಾಕಾರದ ಮೇಜಿನ ಸುತ್ತಲೂ ಅಲಂಕಾರಿಕ ಪಟ್ಟಿಯನ್ನು ಹಾಕಲು ಬೇಕಾದ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೂಡ ಪರಿಧಿಯ ಜ್ಞಾನವು ಅವಶ್ಯಕವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಚಕ್ರವು ಒಂದು ಪೂರ್ಣ ಸುತ್ತು ತಿರುಗಿದಾಗ, ಅದು ತನ್ನ ಪರಿಧಿಯಷ್ಟು ದೂರವನ್ನು ಕ್ರಮಿಸುತ್ತದೆ.",
+    "ಉದಾಹರಣೆಗಳು: ವಾಹನವು ಚಲಿಸಿದ ದೂರ, ಓಟದ ಪಥದ ಉದ್ದ, ಬಳೆಯ ಸುತ್ತಳತೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An animation showing a bicycle wheel starting at a point on the ground. As it rolls one full revolution, a line is drawn on the ground tracing the distance covered. The length of this line is shown to be equal to the circumference of the wheel.",
+    "labels": "Wheel, Ground, Distance covered in one revolution, Circumference",
+    "mathematical_significance": "This visual connects the abstract concept of circumference to a practical, dynamic application: the distance covered by a rolling object.",
+    "placeholder_note": "Image to be generated showing a wheel's revolution."
+  },
+  "chunk_id": "MEN-AREA-1_concept_5_chunk_005"
+}

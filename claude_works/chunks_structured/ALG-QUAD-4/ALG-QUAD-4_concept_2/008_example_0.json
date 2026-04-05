@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಪವರ್ತನ ವಿಧಾನ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಅಪವರ್ತನ ವಿಧಾನದಿಂದ ಎರಡು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ ಮೈನಸ್ ಐದು ಎಕ್ಸ್ ಪ್ಲಸ್ ಮೂರು ಈಕ್ವಲ್ಸ್ ಸೊನ್ನೆ ಸಮೀಕರಣದ ಮೂಲಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ ಎಂದು ಕೇಳಲಾಗಿದೆ. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣ ಎರಡು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ ಮೈನಸ್ ಐದು ಎಕ್ಸ್ ಪ್ಲಸ್ ಮೂರು ಈಕ್ವಲ್ಸ್ ಸೊನ್ನೆ. ನಾವು ಈ ಸಮೀಕರಣದ ಮೂಲಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಅಪವರ್ತನ ವಿಧಾನದಿಂದ $2x^2-5x+3=0$ ಸಮೀಕರಣದ ಮೂಲಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ ಎಂದು ಕೇಳಲಾಗಿದೆ. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣ $2x^2-5x+3=0$. ನಾವು ಈ ಸಮೀಕರಣದ ಮೂಲಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಅಪವರ್ತನ ವಿಧಾನದಿಂದ $2x^2-5x+3=0$ ಸಮೀಕರಣದ ಮೂಲಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣ: $2x^2-5x+3=0$.",
+    "ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: ಸಮೀಕರಣದ ಮೂಲಗಳು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2x^2-5x+3=0",
+    "placeholder_note": "Display the quadratic equation to be solved."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "ALG-QUAD-4_example_3",
+  "chunk_id": "ALG-QUAD-4_concept_2_chunk_008"
+}

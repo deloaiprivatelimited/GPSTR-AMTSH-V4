@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಕುದಿಯುವಿಕೆ ಮತ್ತು ಆವೀಕರಣ: ವ್ಯತ್ಯಾಸ",
+  "script": "ಕುದಿಯುವಿಕೆ ಮತ್ತು ಆವೀಕರಣ, ಎರಡರಲ್ಲೂ ದ್ರವವು ಅನಿಲವಾಗುತ್ತದೆ, ಆದರೆ ಇವೆರಡರ ನಡುವೆ ಒಂದು ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವಿದೆ. ಆವೀಕರಣವು ಯಾವುದೇ ತಾಪಮಾನದಲ್ಲಿ ನಡೆಯಬಹುದಾದ ಮೇಲ್ಮೈ ವಿದ್ಯಮಾನವಾಗಿದೆ. ಅಂದರೆ, ದ್ರವದ ಮೇಲ್ಮೈಯಲ್ಲಿರುವ ಕಣಗಳು ಮಾತ್ರ ಆವಿಯಾಗುತ್ತವೆ. ಆದರೆ ಕುದಿಯುವಿಕೆಯು ಒಂದು ನಿರ್ದಿಷ್ಟ ತಾಪಮಾನದಲ್ಲಿ, ಅಂದರೆ ಕುದಿಯುವ ಬಿಂದುವಿನಲ್ಲಿ ಮಾತ್ರ ನಡೆಯುವ ಬೃಹತ್ ವಿದ್ಯಮಾನವಾಗಿದೆ. ಇಲ್ಲಿ ದ್ರವದ ಎಲ್ಲಾ ಭಾಗದ ಕಣಗಳು, ಅಂದರೆ ಒಳಗಿನ ಕಣಗಳೂ ಸಹ, ಆವಿಯಾಗಲು ಬೇಕಾದ ಶಕ್ತಿಯನ್ನು ಪಡೆಯುತ್ತವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಕುದಿಯುವಾಗ ದ್ರವದ ಒಳಗೆ ಗುಳ್ಳೆಗಳು ಉಂಟಾಗುತ್ತವೆ.",
+  "script_display": "ಕುದಿಯುವಿಕೆ ಮತ್ತು ಆವೀಕರಣ (Evaporation), ಎರಡರಲ್ಲೂ ದ್ರವವು ಅನಿಲವಾಗುತ್ತದೆ, ಆದರೆ ಇವೆರಡರ ನಡುವೆ ಒಂದು ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವಿದೆ. ಆವೀಕರಣವು ಯಾವುದೇ ತಾಪಮಾನದಲ್ಲಿ ನಡೆಯಬಹುದಾದ ಮೇಲ್ಮೈ ವಿದ್ಯಮಾನವಾಗಿದೆ (surface phenomenon). ಆದರೆ ಕುದಿಯುವಿಕೆಯು ಒಂದು ನಿರ್ದಿಷ್ಟ ತಾಪಮಾನದಲ್ಲಿ (ಕುದಿಯುವ ಬಿಂದು) ಮಾತ್ರ ನಡೆಯುವ ಬೃಹತ್ ವಿದ್ಯಮಾನವಾಗಿದೆ (bulk phenomenon). ಇಲ್ಲಿ ದ್ರವದ ಎಲ್ಲಾ ಭಾಗದ ಕಣಗಳು ಆವಿಯಾಗಲು ಬೇಕಾದ ಶಕ್ತಿಯನ್ನು ಪಡೆಯುತ್ತವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಕುದಿಯುವಾಗ ದ್ರವದ ಒಳಗೆ ಗುಳ್ಳೆಗಳು ಉಂಟಾಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ಆವೀಕರಣ (Evaporation): ಯಾವುದೇ ತಾಪಮಾನದಲ್ಲಿ ನಡೆಯುವ 'ಮೇಲ್ಮೈ' ವಿದ್ಯಮಾನ.",
+    "ಕುದಿಯುವಿಕೆ (Boiling): ನಿರ್ದಿಷ್ಟ ತಾಪಮಾನದಲ್ಲಿ (ಕುದಿಯುವ ಬಿಂದು) ನಡೆಯುವ 'ಬೃಹತ್' ವಿದ್ಯಮಾನ.",
+    "ಕುದಿಯುವಾಗ, ದ್ರವದ ಒಳಗಿನ ಕಣಗಳೂ ಸಹ ಅನಿಲವಾಗಿ ಬದಲಾಗುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split image. Left side shows evaporation: a glass of water at room temperature with arrows indicating vapor leaving only from the top surface. Right side shows boiling: a beaker of water being heated, with bubbles forming inside the liquid and rising, plus vapor leaving the surface.",
+    "labels": "ಎಡಭಾಗ: ಆವೀಕರಣ (ಮೇಲ್ಮೈ ಮಾತ್ರ), ಬಲಭಾಗ: ಕುದಿಯುವಿಕೆ (ದ್ರವದ ಎಲ್ಲಾ ಭಾಗ)",
+    "scientific_significance": "Visually contrasts evaporation (a surface phenomenon) with boiling (a bulk phenomenon) to reinforce the definition of boiling point.",
+    "placeholder_note": "Split image comparing evaporation and boiling to be generated."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_1_concept_4_chunk_008"
+}

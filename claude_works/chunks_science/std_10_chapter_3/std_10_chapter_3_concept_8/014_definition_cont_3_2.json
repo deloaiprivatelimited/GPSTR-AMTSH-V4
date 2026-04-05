@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಲೋಹಶಾಸ್ತ್ರ ಮತ್ತು ಭತ್ತದ ಸಂಸ್ಕರಣೆ",
+  "script": "ಲೋಹಶಾಸ್ತ್ರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸುಲಭವಾದ ಹೋಲಿಕೆಯನ್ನು ನೋಡೋಣ. ಇದು ನಾವು ಭತ್ತದಿಂದ ಅಕ್ಕಿಯನ್ನು ಪಡೆಯುವ ಹಾಗೆ. ಇಲ್ಲಿ, ಭತ್ತವು 'ಅದುರು' ಇದ್ದಂತೆ, ಅದರಲ್ಲಿ ನಮಗೆ ಬೇಕಾದ ಅಕ್ಕಿ ಮತ್ತು ಬೇಡವಾದ ಹೊಟ್ಟು ಎರಡೂ ಇರುತ್ತವೆ. ನಾವು ಗಿರಣಿಯಲ್ಲಿ ಭತ್ತವನ್ನು ಸಂಸ್ಕರಿಸಿ, ಹೊಟ್ಟನ್ನು ಬೇರ್ಪಡಿಸಿ ಶುದ್ಧ ಅಕ್ಕಿಯನ್ನು ಪಡೆಯುತ್ತೇವೆ. ಇದೇ ರೀತಿ, ಲೋಹಶಾಸ್ತ್ರದಲ್ಲಿ, ನಾವು ಭೂಮಿಯಿಂದ ಸಿಕ್ಕ 'ಅದುರನ್ನು' ತೆಗೆದುಕೊಂಡು, ಅದನ್ನು ಕಾರ್ಖಾನೆಗಳಲ್ಲಿ ಸಂಸ್ಕರಿಸಿ, ಅದರಲ್ಲಿರುವ ಕಲ್ಮಶಗಳನ್ನು, ಅಂದರೆ 'ಮಡ್ಡಿ'ಯನ್ನು, ಬೇರ್ಪಡಿಸಿ 'ಶುದ್ಧ ಲೋಹವನ್ನು' ಪಡೆಯುತ್ತೇವೆ. ಹೀಗೆ, ಅದುರನ್ನು ಸಂಸ್ಕರಿಸಿ ಲೋಹವನ್ನು ಪಡೆಯುವ ಇಡೀ ವಿಧಾನವೇ ಲೋಹಶಾಸ್ತ್ರ.",
+  "script_display": "ಲೋಹಶಾಸ್ತ್ರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸುಲಭವಾದ ಹೋಲಿಕೆಯನ್ನು ನೋಡೋಣ. ಇದು ನಾವು ಭತ್ತದಿಂದ ಅಕ್ಕಿಯನ್ನು ಪಡೆಯುವ ಹಾಗೆ.\n\n*   **ಭತ್ತದ ಸಂಸ್ಕರಣೆ:** ಭತ್ತ (ಅಕ್ಕಿ + ಹೊಟ್ಟು) → ಸಂಸ್ಕರಣೆ (ಗಿರಣಿ) → ಶುದ್ಧ ಅಕ್ಕಿ\n\n*   **ಲೋಹಶಾಸ್ತ್ರ:** ಅದುರು (ಲೋಹ + ಕಲ್ಮಶ) → ಸಂಸ್ಕರಣೆ (ಲೋಹಶಾಸ್ತ್ರ) → ಶುದ್ಧ ಲೋಹ",
+  "display_bullets": [
+    "ಭತ್ತದ ಸಂಸ್ಕರಣೆ: ಭತ್ತ (ಅಕ್ಕಿ + ಹೊಟ್ಟು) → ಸಂಸ್ಕರಣೆ (ಗಿರಣಿ) → ಶುದ್ಧ ಅಕ್ಕಿ",
+    "ಲೋಹಶಾಸ್ತ್ರ: ಅದುರು (ಲೋಹ + ಕಲ್ಮಶ) → ಸಂಸ್ಕರಣೆ (ಲೋಹಶಾಸ್ತ್ರ) → ಶುದ್ಧ ಲೋಹ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple flowchart. Top box: 'ಅದುರು (ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್ + ಮಣ್ಣು)'. Arrow pointing down to middle box: 'ಲೋಹಶಾಸ್ತ್ರ (ಅಪಕರ್ಷಣ)'. Arrow pointing down to bottom box: 'ಶುದ್ಧ ಲೋಹ (ಕಬ್ಬಿಣ)'. This visually represents the transformation process.",
+    "labels": "ಅದುರು, ಲೋಹಶಾಸ್ತ್ರ, ಶುದ್ಧ ಲೋಹ",
+    "scientific_significance": "Provides a simple, concrete example of the metallurgical process (Iron extraction) to solidify the abstract definition.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_3_concept_8_chunk_014"
+}

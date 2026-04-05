@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಬೇಕಾಗುವ ಉಪಕರಣಗಳು ಮತ್ತು ವಸ್ತುಗಳು",
+  "script": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು ನಮಗೆ ಬೇಕಾದ ಉಪಕರಣಗಳು ಮತ್ತು ವಸ್ತುಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ವಸ್ತುಗಳನ್ನು ಹಿಡಿದು ದಹಿಸಲು ನಮಗೆ ಒಂದು ಚಮಚ ಅಥವಾ ಸ್ಪ್ಯಾಚುಲಾ ಬೇಕು. ನಂತರ, ನಾವು ದಹಿಸಲು ಕೆಲವು ಕಾರ್ಬನ್ ಸಂಯುಕ್ತಗಳನ್ನು ಆರಿಸಿಕೊಳ್ಳೋಣ. ಅವುಗಳೆಂದರೆ, ನ್ಯಾಫ್ತಲೀನ್, ಕರ್ಪೂರ, ಮತ್ತು ಆಲ್ಕೋಹಾಲ್. ಇವುಗಳು ವಿಭಿನ್ನ ರೀತಿಯ ಕಾರ್ಬನ್ ಸಂಯುಕ್ತಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಕೊನೆಯದಾಗಿ, ಈ ವಸ್ತುಗಳನ್ನು ದಹಿಸಲು ನಮಗೆ ಶಾಖದ ಮೂಲವಾಗಿ ಒಂದು ಬರ್ನರ್ ಅಥವಾ ಸ್ಪಿರಿಟ್ ದೀಪ ಬೇಕಾಗುತ್ತದೆ. ಈ ಸರಳ ಸಾಮಗ್ರಿಗಳನ್ನು ಬಳಸಿ ನಾವು ದಹನ ಕ್ರಿಯೆಯನ್ನು ಗಮನಿಸಲಿದ್ದೇವೆ.",
+  "script_display": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು ನಮಗೆ ಬೇಕಾದ ಉಪಕರಣಗಳು ಮತ್ತು ವಸ್ತುಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ವಸ್ತುಗಳನ್ನು ಹಿಡಿದು ದಹಿಸಲು ನಮಗೆ ಒಂದು ಚಮಚ (spatula) ಬೇಕು. ನಂತರ, ನಾವು ದಹಿಸಲು ಕೆಲವು ಕಾರ್ಬನ್ ಸಂಯುಕ್ತಗಳನ್ನು ಆರಿಸಿಕೊಳ್ಳೋಣ. ಅವುಗಳೆಂದರೆ, ನ್ಯಾಫ್ತಲೀನ್, ಕರ್ಪೂರ, ಮತ್ತು ಆಲ್ಕೋಹಾಲ್. ಇವುಗಳು ವಿಭಿನ್ನ ರೀತಿಯ ಕಾರ್ಬನ್ ಸಂಯುಕ್ತಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಕೊನೆಯದಾಗಿ, ಈ ವಸ್ತುಗಳನ್ನು ದಹಿಸಲು ನಮಗೆ ಶಾಖದ ಮೂಲವಾಗಿ ಒಂದು ಬರ್ನರ್ ಅಥವಾ ಸ್ಪಿರಿಟ್ ದೀಪ ಬೇಕಾಗುತ್ತದೆ. ಈ ಸರಳ ಸಾಮಗ್ರಿಗಳನ್ನು ಬಳಸಿ ನಾವು ದಹನ ಕ್ರಿಯೆಯನ್ನು ಗಮನಿಸಲಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ಚಮಚ (Spatula)",
+    "ನ್ಯಾಫ್ತಲೀನ್, ಕರ್ಪೂರ, ಆಲ್ಕೋಹಾಲ್",
+    "ಬರ್ನರ್"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_dynamic_split",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple lab setup showing a spatula, small piles of naphthalene and camphor, a bottle of alcohol, and a Bunsen burner. The items are arranged neatly on a lab bench.",
+    "labels": "Spatula, Naphthalene, Camphor, Alcohol, Burner",
+    "scientific_significance": "Illustrates the basic materials required to perform a qualitative analysis of the combustion of different carbon compounds.",
+    "placeholder_note": "Image to be generated showing the listed materials for the experiment."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_10_chapter_4_concept_8_chunk_028"
+}

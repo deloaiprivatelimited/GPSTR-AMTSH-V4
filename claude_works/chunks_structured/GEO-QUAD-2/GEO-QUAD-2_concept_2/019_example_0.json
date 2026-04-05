@@ -1,0 +1,44 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಸಾಧನೆಯನ್ನು ನೋಡೋಣ. ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ ಒಂದು ಲಂಬಕೋನ ಎಂದು ತೋರಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ ABCD ಒಂದು ಆಯತ ಎಂದು ನೀಡಲಾಗಿದೆ. ಆಯತದ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಇದು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿದ್ದು, ಅದರ ಒಂದು ಕೋನ ಲಂಬಕೋನವಾಗಿರುತ್ತದೆ. ನಾವು ಕೋನ A 90 ಡಿಗ್ರಿ ಎಂದು ಭಾವಿಸೋಣ. ನಾವು ಉಳಿದ ಕೋನಗಳಾದ B, C, ಮತ್ತು D ಕೂಡ 90 ಡಿಗ್ರಿ ಎಂದು ಸಾಧಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಸಾಧನೆಯನ್ನು ನೋಡೋಣ. ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ ಒಂದು ಲಂಬಕೋನ ಎಂದು ತೋರಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ ABCD ಒಂದು ಆಯತ ಎಂದು ನೀಡಲಾಗಿದೆ. ಆಯತದ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಇದು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿದ್ದು, ಅದರ ಒಂದು ಕೋನ ಲಂಬಕೋನವಾಗಿರುತ್ತದೆ. ನಾವು $∠A = 90°$ ಎಂದು ಭಾವಿಸೋಣ. ನಾವು ಉಳಿದ ಕೋನಗಳಾದ $∠B$, $∠C$, ಮತ್ತು $∠D$ ಕೂಡ $90°$ ಎಂದು ಸಾಧಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ ಒಂದು ಲಂಬಕೋನ ಎಂದು ತೋರಿಸಿ.",
+    "ದತ್ತ: ABCD ಒಂದು ಆಯತ.",
+    "ಸಾಧನೀಯ: $∠A = ∠B = ∠C = ∠D = 90°$."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ABCD ಆಯತ. A ಶೃಂಗದಲ್ಲಿ ಲಂಬಕೋನವನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. B, C, ಮತ್ತು D ಕೋನಗಳನ್ನು ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಗಳಿಂದ ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "ಶೃಂಗಗಳು A, B, C, D",
+    "mathematical_significance": "ಸಾಧನೆಯ ಆರಂಭಿಕ ಸ್ಥಿತಿಯನ್ನು ತೋರಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಒಂದು ಕೋನ 90° ಎಂದು ತಿಳಿದಿದೆ ಮತ್ತು ಉಳಿದವುಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+    "placeholder_note": "Image to be generated"
+  },
+  "source_example_id": "GEO-QUAD-2_example_1",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "GEO-QUAD-2_concept_2_chunk_019"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಿಪೂರಕ vs ಪರಿಪೂರಕವಲ್ಲದ ಕೋನಗಳು",
+  "script": "ಈಗ ಪರಿಪೂರಕ ಮತ್ತು ಪರಿಪೂರಕವಲ್ಲದ ಕೋನಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಮ್ಮ ಹತ್ತಿರ ನೂರಾ ಮೂವತ್ತೈದು ಡಿಗ್ರಿ ಮತ್ತು ನಲವತ್ತೈದು ಡಿಗ್ರಿ ಕೋನಗಳಿವೆ. ಇವುಗಳ ಮೊತ್ತ ನೂರಾ ಮೂವತ್ತೈದು ಪ್ಲಸ್ ನಲವತ್ತೈದು, ಅಂದರೆ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ. ಹಾಗಾಗಿ ಇವು ಪರಿಪೂರಕ ಕೋನಗಳು. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ನೂರು ಡಿಗ್ರಿ ಮತ್ತು ಎಪ್ಪತ್ತು ಡಿಗ್ರಿ ಕೋನಗಳಿವೆ. ಇವುಗಳ ಮೊತ್ತ ನೂರು ಪ್ಲಸ್ ಎಪ್ಪತ್ತು, ಅಂದರೆ ನೂರಾ ಎಪ್ಪತ್ತು ಡಿಗ್ರಿ. ಈ ಮೊತ್ತವು ನೂರಾ ಎಂಬತ್ತಕ್ಕೆ ಸಮವಲ್ಲ. ಆದ್ದರಿಂದ, ಇವು ಪರಿಪೂರಕ ಕೋನಗಳಲ್ಲ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ಪರಿಪೂರಕ ಮತ್ತು ಪರಿಪೂರಕವಲ್ಲದ ಕೋನಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಮ್ಮ ಹತ್ತಿರ $135^\\circ$ ಮತ್ತು $45^\\circ$ ಕೋನಗಳಿವೆ. ಇವುಗಳ ಮೊತ್ತ $135^\\circ + 45^\\circ = 180^\\circ$. ಹಾಗಾಗಿ ಇವು ಪರಿಪೂರಕ ಕೋನಗಳು. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ $100^\\circ$ ಮತ್ತು $70^\\circ$ ಕೋನಗಳಿವೆ. ಇವುಗಳ ಮೊತ್ತ $100^\\circ + 70^\\circ = 170^\\circ$. ಈ ಮೊತ್ತವು $180^\\circ$ ಕ್ಕೆ ಸಮವಲ್ಲ. ಆದ್ದರಿಂದ, ಇವು ಪರಿಪೂರಕ ಕೋನಗಳಲ್ಲ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A two-column table comparing supplementary and non-supplementary angles. Left column shows 135 + 45 = 180. Right column shows 100 + 70 = 170, which is not 180. The columns are titled 'ಪರಿಪೂರಕ (Supplementary)' and 'ಪರಿಪೂರಕವಲ್ಲ (Not Supplementary)'. The left column should have a green checkmark and the right one a red cross mark for visual cueing. The table should be rendered directly on the slide as the main visual element, so no separate visual zone is needed, hence text_zone is full and visual_zone is none. The layout 'split_comparison' is designed to handle this structure natively. The table content will be rendered based on the provided rows and headers, which are implicitly defined by the split comparison layout's structure. The script will narrate over this visual comparison. The table will have two columns. Column 1 Header: 'ಪರಿಪೂರಕ (Supplementary) ✅'. Column 1 Content: 'ಕೋನಗಳು: $135^\\circ, 45^\\circ$', 'ಮೊತ್ತ: $135^\\circ + 45^\\circ = 180^\\circ$'. Column 2 Header: 'ಪರಿಪೂರಕವಲ್ಲ (Not Supplementary) ❌'. Column 2 Content: 'ಕೋನಗಳು: $100^\\circ, 70^\\circ$', 'ಮೊತ್ತ: $100^\\circ + 70^\\circ = 170^\\circ \\neq 180^\\circ$'."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "GEO-LA-1_concept_3_chunk_010"
+}

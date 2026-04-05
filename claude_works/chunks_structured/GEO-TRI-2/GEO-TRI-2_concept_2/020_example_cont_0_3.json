@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಫಲಿತಾಂಶ",
+  "script": "ಈ ಸಮಸ್ಯೆಯಿಂದ ನಾವು ಏನು ತೀರ್ಮಾನಿಸಬಹುದು? ನಾವು ತ್ರಿಭುಜ ABD ಮತ್ತು ತ್ರಿಭುಜ ACD ಗಳನ್ನು ಕೋನ-ಬಾಹು-ಕೋನ ನಿಯಮ ಬಳಸಿ ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸಿದೆವು. ಇದರಿಂದ, AB ಯು AC ಗೆ ಸಮ ಎಂದು ತೋರಿಸಿ, ತ್ರಿಭುಜ ABC ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ನಾವು ಯಶಸ್ವಿಯಾಗಿ ಸಾಧಿಸಿದ್ದೇವೆ. ನಮ್ಮ ಅಂತಿಮ ಫಲಿತಾಂಶ: ತ್ರಿಭುಜ ABC ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜವಾಗಿದೆ. ಇಲ್ಲಿ ಮುಖ್ಯವಾದ ಅಂಶವೆಂದರೆ, ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಶೃಂಗದಿಂದ ಪಾದಕ್ಕೆ ಎಳೆದ ರೇಖೆಯು ಕೋನಾರ್ಧಕವೂ ಮತ್ತು ಲಂಬವೂ ಆಗಿದ್ದರೆ, ಆ ತ್ರಿಭುಜವು ಖಂಡಿತವಾಗಿಯೂ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಈ ಸಮಸ್ಯೆಯಿಂದ ನಾವು ಏನು ತೀರ್ಮಾನಿಸಬಹುದು? ನಾವು $\\triangle ABD$ ಮತ್ತು $\\triangle ACD$ ಗಳನ್ನು ಕೋ.ಬಾ.ಕೋ (ASA) ನಿಯಮ ಬಳಸಿ ಸರ್ವಸಮ ($≅$) ಎಂದು ಸಾಧಿಸಿದೆವು. ಇದರಿಂದ, $AB = AC$ ಎಂದು ತೋರಿಸಿ, $\\triangle ABC$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ನಾವು ಯಶಸ್ವಿಯಾಗಿ ಸಾಧಿಸಿದ್ದೇವೆ. ನಮ್ಮ ಅಂತಿಮ ಫಲಿತಾಂಶ: $\\triangle ABC$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜವಾಗಿದೆ. ಇಲ್ಲಿ ಮುಖ್ಯವಾದ ಅಂಶವೆಂದರೆ, ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಶೃಂಗದಿಂದ ಪಾದಕ್ಕೆ ಎಳೆದ ರೇಖೆಯು ಕೋನಾರ್ಧಕವೂ ಮತ್ತು ಲಂಬವೂ ಆಗಿದ್ದರೆ, ಆ ತ್ರಿಭುಜವು ಖಂಡಿತವಾಗಿಯೂ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಫಲಿತಾಂಶ: $\\triangle ABC$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_4",
+  "final_answer": "$\\triangle ABC$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "It is proved that $\\triangle ABC$ is an isosceles triangle.",
+  "chunk_id": "GEO-TRI-2_concept_2_chunk_020"
+}

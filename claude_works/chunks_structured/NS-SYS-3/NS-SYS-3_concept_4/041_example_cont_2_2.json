@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಪ್ರತಿ ಗುಂಪನ್ನು ಗುಣಿಸುತ್ತೇವೆ. ಆರು ಗುಣಿಸು ಎರಡು ಎಂದರೆ ಹನ್ನೆರಡು. ಹಾಗೆಯೇ, ರೂಟ್ ಐದು ಗುಣಿಸು ರೂಟ್ ಐದು ಎಂದರೆ ಐದು. ಯಾಕೆಂದರೆ, ಯಾವುದೇ ಸಂಖ್ಯೆಯ ವರ್ಗಮೂಲವನ್ನು ಅದೇ ಸಂಖ್ಯೆಯ ವರ್ಗಮೂಲದಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ ಮೂಲ ಸಂಖ್ಯೆಯೇ ಸಿಗುತ್ತದೆ. ಈಗ ನಮ್ಮ ಲೆಕ್ಕ ಹನ್ನೆರಡು ಗುಣಿಸು ಐದು ಎಂದಾಗಿದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಈ ಗುಣಾಕಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದಾಗ, ನಮಗೆ ಅರವತ್ತು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಪ್ರತಿ ಗುಂಪನ್ನು ಗುಣಿಸುತ್ತೇವೆ. $6 \\times 2$ ಎಂದರೆ 12. ಹಾಗೆಯೇ, $\\sqrt{5} \\times \\sqrt{5}$ ಎಂದರೆ 5. ಯಾಕೆಂದರೆ, $\\sqrt{a} \\times \\sqrt{a} = a$. ಈಗ ನಮ್ಮ ಲೆಕ್ಕ $12 \\times 5$ ಎಂದಾಗಿದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಈ ಗುಣಾಕಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದಾಗ, ನಮಗೆ 60 ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_left",
+    "text_zone": "left",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "NS-SYS-3_example_13",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$12 \\times 5$",
+      "justification": "$\\sqrt{a} \\times \\sqrt{a} = a$ ಎಂಬ ನಿಯಮವನ್ನು ಬಳಸುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "$60$",
+      "justification": "ಲೆಕ್ಕಾಚಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "NS-SYS-3_concept_4_chunk_041"
+}

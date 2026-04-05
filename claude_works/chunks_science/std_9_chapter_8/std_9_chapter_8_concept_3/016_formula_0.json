@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಂವೇಗ (Momentum) ಸೂತ್ರ",
+  "script": "ಈಗ ನಾವು ಸಂವೇಗದ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸಂವೇಗ, ಅಥವಾ ಮೊಮೆಂಟಮ್, ಒಂದು ವಸ್ತುವಿನಲ್ಲಿರುವ ಚಲನೆಯ ಒಟ್ಟು ಪ್ರಮಾಣವನ್ನು ಅಳೆಯುತ್ತದೆ. ಇದನ್ನು ಗಣಿತೀಯವಾಗಿ p ಈಕ್ವಲ್ಸ್ m v ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಈ ಸೂತ್ರದಲ್ಲಿ, 'p' ಎಂಬುದು ಸಂವೇಗವನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'm' ಎಂಬುದು ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿಯನ್ನು, ಅಂದರೆ ಮಾಸ್ ಅನ್ನು, ಮತ್ತು 'v' ಎಂಬುದು ವಸ್ತುವಿನ ವೇಗವನ್ನು, ಅಂದರೆ ವೆಲಾಸಿಟಿಯನ್ನು, ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಸಂವೇಗದ ಎಸ್ಐ ಏಕಮಾನವು ಕಿಲೋಗ್ರಾಂ ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಆಗಿದೆ. ಈ ಸೂತ್ರವು ಚಲನೆಯನ್ನು ವಿಶ್ಲೇಷಿಸಲು ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಸಂವೇಗದ (Momentum) ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸಂವೇಗವು ಒಂದು ವಸ್ತುವಿನಲ್ಲಿರುವ ಚಲನೆಯ ಒಟ್ಟು ಪ್ರಮಾಣವನ್ನು ಅಳೆಯುತ್ತದೆ. ಇದನ್ನು ಗಣಿತೀಯವಾಗಿ p = mv ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಈ ಸೂತ್ರದಲ್ಲಿ:\n\n* 'p' ಎಂಬುದು ಸಂವೇಗವನ್ನು ಸೂಚಿಸುತ್ತದೆ.\n* 'm' ಎಂಬುದು ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿಯನ್ನು (mass) ಸೂಚಿಸುತ್ತದೆ.\n* 'v' ಎಂಬುದು ವಸ್ತುವಿನ ವೇಗವನ್ನು (velocity) ಸೂಚಿಸುತ್ತದೆ.\n* ಸಂವೇಗದ SI ಏಕಮಾನವು kg·m/s ಆಗಿದೆ.",
+  "display_bullets": [
+    "p = ಸಂವೇಗ (Momentum)",
+    "m = ದ್ರವ್ಯರಾಶಿ (Mass)",
+    "v = ವೇಗ (Velocity)",
+    "SI ಏಕಮಾನ (Unit): kg·m/s"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "physics_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "p = mv",
+    "placeholder_note": "Formula for momentum, where p is momentum, m is mass, and v is velocity."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_9_chapter_8_concept_3_chunk_016"
+}

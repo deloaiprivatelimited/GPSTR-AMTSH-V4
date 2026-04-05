@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಮೊದಲಿಗೆ, ಈ ಭಾಗಾಕಾರವನ್ನು ಭಿನ್ನರಾಶಿ ರೂಪದಲ್ಲಿ ಬರೆಯೋಣ. ಇದು ನಮಗೆ ಎಂಟು ರೂಟ್ ಹದಿನೈದು ಭಾಗಿಸು ಎರಡು ರೂಟ್ ಮೂರು ಎಂದು ಸಿಗುತ್ತದೆ. ಈಗ, ಕರಣಿಯೊಳಗಿನ ಸಂಖ್ಯೆ ಹದಿನೈದನ್ನು ಅಪವರ್ತನಗೊಳಿಸೋಣ. ಹದಿನೈದನ್ನು ಐದು ಗುಣಿಸು ಮೂರು ಎಂದು ಬರೆಯಬಹುದು. ಆದ್ದರಿಂದ, ನಮ್ಮ ಪದವು ಎಂಟು ರೂಟ್ ಐದು ಗುಣಿಸು ಮೂರು, ಭಾಗಿಸು ಎರಡು ರೂಟ್ ಮೂರು ಎಂದಾಗುತ್ತದೆ. ರೂಟ್ ಎ ಬಿ ಸಮಾನ ರೂಟ್ ಎ ಗುಣಿಸು ರೂಟ್ ಬಿ ನಿಯಮವನ್ನು ಬಳಸಿ, ನಾವು ಇದನ್ನು ಎಂಟು ರೂಟ್ ಐದು ಗುಣಿಸು ರೂಟ್ ಮೂರು, ಭಾಗಿಸು ಎರಡು ರೂಟ್ ಮೂರು ಎಂದು ಬರೆಯಬಹುದು.",
+  "script_display": "ಮೊದಲಿಗೆ, ಈ ಭಾಗಾಕಾರವನ್ನು ಭಿನ್ನರಾಶಿ ರೂಪದಲ್ಲಿ ಬರೆಯೋಣ. ಇದು ನಮಗೆ $\\frac{8\\sqrt{15}}{2\\sqrt{3}}$ ಎಂದು ಸಿಗುತ್ತದೆ. ಈಗ, ಕರಣಿಯೊಳಗಿನ ಸಂಖ್ಯೆ 15ನ್ನು ಅಪವರ್ತನಗೊಳಿಸೋಣ. 15ನ್ನು $5 \\times 3$ ಎಂದು ಬರೆಯಬಹುದು. ಆದ್ದರಿಂದ, ನಮ್ಮ ಪದವು $\\frac{8\\sqrt{5 \\times 3}}{2\\sqrt{3}}$ ಎಂದಾಗುತ್ತದೆ. $\\sqrt{ab}=\\sqrt{a}\\sqrt{b}$ ನಿಯಮವನ್ನು ಬಳಸಿ, ನಾವು ಇದನ್ನು $\\frac{8\\sqrt{5}\\sqrt{3}}{2\\sqrt{3}}$ ಎಂದು ಬರೆಯಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "NS-SYS-3_example_14",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\frac{8\\sqrt{15}}{2\\sqrt{3}}$",
+      "justification": "ಭಾಗಾಕಾರವನ್ನು ಭಿನ್ನರಾಶಿ ರೂಪದಲ್ಲಿ ಬರೆಯುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\frac{8\\sqrt{5 \\times 3}}{2\\sqrt{3}} = \\frac{8\\sqrt{5}\\sqrt{3}}{2\\sqrt{3}}$",
+      "justification": "ಕರಣಿ ಒಳಗಿನ ಸಂಖ್ಯೆಯನ್ನು ಅಪವರ್ತನೀಕರಿಸುವುದು. ($\\sqrt{ab}=\\sqrt{a}\\sqrt{b}$)"
+    }
+  ],
+  "chunk_id": "NS-SYS-3_concept_4_chunk_044"
+}

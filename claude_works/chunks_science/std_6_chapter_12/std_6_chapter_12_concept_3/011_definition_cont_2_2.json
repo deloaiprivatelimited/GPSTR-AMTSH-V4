@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಕ್ಷುದ್ರಗ್ರಹ vs ಗ್ರಹ (Asteroid vs. Planet)",
+  "script": "ಕ್ಷುದ್ರಗ್ರಹ ಮತ್ತು ಗ್ರಹದ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸಗಳನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಕ್ಷುದ್ರಗ್ರಹದ ಗುಣಲಕ್ಷಣಗಳಿವೆ. ಇವುಗಳಿಗೆ ನಿರ್ದಿಷ್ಟ ಆಕಾರವಿಲ್ಲ, ಆಲೂಗಡ್ಡೆಯಂತೆ ಅನಿಯಮಿತವಾಗಿವೆ ಮತ್ತು ಗ್ರಹಗಳಿಗೆ ಹೋಲಿಸಿದರೆ ಗಾತ್ರದಲ್ಲಿ ಬಹಳ ಚಿಕ್ಕವು. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ ಗ್ರಹದ ಗುಣಗಳನ್ನು ನೋಡಿ. ಗ್ರಹಗಳು ತಮ್ಮ ಗುರುತ್ವಾಕರ್ಷಣೆಯಿಂದಾಗಿ ಬಹುತೇಕ ಗೋಳಾಕಾರವನ್ನು ಪಡೆದಿರುತ್ತವೆ ಮತ್ತು ಅವು ಕ್ಷುದ್ರಗ್ರಹಗಳಿಗಿಂತ ಸಾವಿರಾರು ಪಟ್ಟು ದೊಡ್ಡದಾಗಿರುತ್ತವೆ. ಈ ಆಕಾರ ಮತ್ತು ಗಾತ್ರದ ವ್ಯತ್ಯಾಸವೇ ಇವೆರಡನ್ನೂ ಪ್ರತ್ಯೇಕಿಸಲು ಇರುವ ಪ್ರಮುಖ ಅಂಶವಾಗಿದೆ.",
+  "script_display": "ಕ್ಷುದ್ರಗ್ರಹ ಮತ್ತು ಗ್ರಹದ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸಗಳನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಕ್ಷುದ್ರಗ್ರಹದ ಗುಣಲಕ್ಷಣಗಳಿವೆ. ಇವುಗಳಿಗೆ ನಿರ್ದಿಷ್ಟ ಆಕಾರವಿಲ್ಲ, ಆಲೂಗಡ್ಡೆಯಂತೆ ಅನಿಯಮಿತವಾಗಿವೆ ಮತ್ತು ಗ್ರಹಗಳಿಗೆ ಹೋಲಿಸಿದರೆ ಗಾತ್ರದಲ್ಲಿ ಬಹಳ ಚಿಕ್ಕವು. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ ಗ್ರಹದ ಗುಣಗಳನ್ನು ನೋಡಿ. ಗ್ರಹಗಳು ತಮ್ಮ ಗುರುತ್ವಾಕರ್ಷಣೆಯಿಂದಾಗಿ ಬಹುತೇಕ ಗೋಳಾಕಾರವನ್ನು (spherical) ಪಡೆದಿರುತ್ತವೆ ಮತ್ತು ಅವು ಕ್ಷುದ್ರಗ್ರಹಗಳಿಗಿಂತ ಸಾವಿರಾರು ಪಟ್ಟು ದೊಡ್ಡದಾಗಿರುತ್ತವೆ. ಈ ಆಕಾರ ಮತ್ತು ಗಾತ್ರದ ವ್ಯತ್ಯಾಸವೇ ಇವೆರಡನ್ನೂ ಪ್ರತ್ಯೇಕಿಸಲು ಇರುವ ಪ್ರಮುಖ ಅಂಶವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕ್ಷುದ್ರಗ್ರಹ: ಅನಿಯಮಿತ ಆಕಾರ, ಚಿಕ್ಕ ಗಾತ್ರ.",
+    "ಗ್ರಹ: ಗೋಳಾಕಾರ, ಅತಿ ದೊಡ್ಡ ಗಾತ್ರ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "side_by_side_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen view. On the left, under the heading 'ಕ್ಷುದ್ರಗ್ರಹ', show an illustration of an irregular, potato-shaped asteroid. Below it, list 'ಅನಿಯಮಿತ ಆಕಾರ' and 'ಚಿಕ್ಕ ಗಾತ್ರ'. On the right, under the heading 'ಗ್ರಹ', show an illustration of a large, spherical planet like Earth. Below it, list 'ಗೋಳಾಕಾರ' and 'ಅತಿ ದೊಡ್ಡ ಗಾತ್ರ'.",
+    "labels": "Asteroid, Planet, Irregular Shape, Spherical Shape, Small Size, Large Size",
+    "scientific_significance": "Clearly contrasts the defining physical characteristics (shape and size) of asteroids and planets, preventing a common confusion.",
+    "placeholder_note": "Generate a side-by-side comparison image for asteroid vs planet."
+  },
+  "chunk_id": "std_6_chapter_12_concept_3_chunk_011"
+}

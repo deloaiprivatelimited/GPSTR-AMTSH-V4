@@ -1,0 +1,158 @@
+{
+  "module_id": "ALG-EXP-2_concept_2",
+  "merge_code": "ALG-EXP-2",
+  "voice": "Callirrhoe",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:09:06",
+  "chunks": {
+    "005_example_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "268eaade0d59981d125dea7b3588c859",
+      "wav_file": "005_example_0.wav",
+      "duration": 26.171,
+      "slide_title": "ಉದಾಹರಣೆ 1: ಬೀಜೋಕ್ತಿಗಳ ಸಂಕಲನ",
+      "type": "worked_example",
+      "script_words": 51,
+      "generated_at": "2026-03-30 14:06:45"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "613274ab9d9f9f9c1709dda811e5c4b3",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 27.091,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 40,
+      "generated_at": "2026-03-30 14:06:48"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "5e894f9b22fbd80d775a30509782aed3",
+      "wav_file": "001_intro_0.wav",
+      "duration": 51.611,
+      "slide_title": "ಪರಿಚಯ: ಬೀಜೋಕ್ತಿಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "intro",
+      "script_words": 72,
+      "generated_at": "2026-03-30 14:06:58"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "d38715b578daab0cbe77870ffeaa7b2e",
+      "wav_file": "003_property_0.wav",
+      "duration": 68.091,
+      "slide_title": "ಬೀಜೋಕ್ತಿಗಳ ಸಂಕಲನದ ನಿಯಮ",
+      "type": "concept_explanation",
+      "script_words": 112,
+      "generated_at": "2026-03-30 14:07:16"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "b5598321dc7af6c63b9b4d6e75c6575f",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 66.731,
+      "slide_title": "ಬೀಜೋಕ್ತಿಗಳ ವ್ಯವಕಲನದ ನಿಯಮ",
+      "type": "concept_explanation",
+      "script_words": 103,
+      "generated_at": "2026-03-30 14:07:18"
+    },
+    "006_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "9fb61867bf728853966d429bfc2846f4",
+      "wav_file": "006_example_cont_0_1.wav",
+      "duration": 26.571,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1",
+      "type": "worked_example",
+      "script_words": 45,
+      "generated_at": "2026-03-30 14:07:47"
+    },
+    "008_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "5cb12e6a7b734baf0889abcaaf8c1fed",
+      "wav_file": "008_example_cont_0_3.wav",
+      "duration": 32.011,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 51,
+      "generated_at": "2026-03-30 14:07:52"
+    },
+    "009_example_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "17eb2bff16f6b6599afebd304a087cf9",
+      "wav_file": "009_example_1.wav",
+      "duration": 40.411,
+      "slide_title": "ಉದಾಹರಣೆ 2: ಬೀಜೋಕ್ತಿಗಳ ವ್ಯವಕಲನ",
+      "type": "worked_example",
+      "script_words": 64,
+      "generated_at": "2026-03-30 14:07:55"
+    },
+    "007_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "3e0f30cc94deaad0f8f7f879c9d0c1dd",
+      "wav_file": "007_example_cont_0_2.wav",
+      "duration": 45.171,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 2",
+      "type": "worked_example",
+      "script_words": 76,
+      "generated_at": "2026-03-30 14:07:57"
+    },
+    "010_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "eb86b975e525f15423760d8159480f5c",
+      "wav_file": "010_example_cont_1_1.wav",
+      "duration": 49.651,
+      "slide_title": "ಹಂತ 1 ಮತ್ತು 2: ಜೋಡಣೆ ಮತ್ತು ಚಿಹ್ನೆ ಬದಲಾವಣೆ",
+      "type": "worked_example",
+      "script_words": 76,
+      "generated_at": "2026-03-30 14:08:01"
+    },
+    "012_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "76a2645a1e3e8b15832276297f71942f",
+      "wav_file": "012_example_cont_1_3.wav",
+      "duration": 34.931,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಎಚ್ಚರಿಕೆ",
+      "type": "worked_example",
+      "script_words": 54,
+      "generated_at": "2026-03-30 14:08:51"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "854f1261d0c4de32275571d24a2d4ffd",
+      "wav_file": "013_recap_0.wav",
+      "duration": 39.211,
+      "slide_title": "ಸಾರಾಂಶ: ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "recap",
+      "script_words": 57,
+      "generated_at": "2026-03-30 14:08:54"
+    },
+    "011_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "c8dc09433393af6992185eae297850e2",
+      "wav_file": "011_example_cont_1_2.wav",
+      "duration": 52.251,
+      "slide_title": "ಹಂತ 3: ಸಜಾತಿ ಪದಗಳನ್ನು ಕೂಡಿಸುವುದು",
+      "type": "worked_example",
+      "script_words": 88,
+      "generated_at": "2026-03-30 14:09:06"
+    }
+  }
+}

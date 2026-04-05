@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಪವರ್ತಿಸಿ (ಭಾಗ 1)",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಎರಡು ಬೀಜೋಕ್ತಿಗಳನ್ನು ಅಪವರ್ತಿಸಬೇಕಾಗಿದೆ. ಮೊದಲನೆಯದು ನಲವತ್ತೊಂಬತ್ತು a ವರ್ಗ ಪ್ಲಸ್ ಎಪ್ಪತ್ತು ab ಪ್ಲಸ್ ಇಪ್ಪತ್ತೈದು b ವರ್ಗ, ಮತ್ತು ಎರಡನೆಯದು ಇಪ್ಪತ್ತೈದು ಬೈ ನಾಲ್ಕು x ವರ್ಗ ಮೈನಸ್ y ವರ್ಗ ಬೈ ಒಂಬತ್ತು. ನಾವು ಇವುಗಳನ್ನು ಒಂದೊಂದಾಗಿ ಬಿಡಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಎರಡು ಬೀಜೋಕ್ತಿಗಳನ್ನು ಅಪವರ್ತಿಸಬೇಕಾಗಿದೆ. ನಾವು ಇವುಗಳನ್ನು ಒಂದೊಂದಾಗಿ ಬಿಡಿಸೋಣ.",
+  "display_bullets": [
+    "ಅಪವರ್ತಿಸಿ (i): $49a^2 + 70ab + 25b^2$",
+    "ಅಪವರ್ತಿಸಿ (ii): $\\frac{25}{4}x^2 - \\frac{y^2}{9}$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಅಪವರ್ತಿಸಿ:}\n\n\\text{(i) } 49a^2 + 70ab + 25b^2 \n\n\\text{(ii) } \\frac{25}{4}x^2 - \\frac{y^2}{9}",
+    "placeholder_note": "Problem statement displayed clearly"
+  },
+  "source_example_id": "ALG-POL-3_example_16",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_052"
+}

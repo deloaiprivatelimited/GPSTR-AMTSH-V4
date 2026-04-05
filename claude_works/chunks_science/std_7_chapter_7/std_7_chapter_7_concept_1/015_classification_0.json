@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಕ್ತದ ಘಟಕಗಳು: ಪ್ಲಾಸ್ಮಾ",
+  "script": "ರಕ್ತದ ಘಟಕಗಳಲ್ಲಿ ಮೊದಲನೆಯದು ಪ್ಲಾಸ್ಮಾ. ಇದು ರಕ್ತದ ದ್ರವ ಭಾಗವಾಗಿದೆ, ಮತ್ತು ನಮ್ಮ ರಕ್ತದ ಹೆಚ್ಚಿನ ಭಾಗ, ಅಂದರೆ ಸುಮಾರು ಐವತ್ತೈದು ಪ್ರತಿಶತದಷ್ಟು ಇದೇ ಇರುತ್ತದೆ. ಇದು ತಿಳಿ ಹಳದಿ ಬಣ್ಣವನ್ನು ಹೊಂದಿದ್ದು, ಇದರಲ್ಲಿಯೇ ಕೆಂಪು ರಕ್ತಕಣ, ಬಿಳಿ ರಕ್ತಕಣ ಮತ್ತು ಕಿರುತಟ್ಟೆಗಳು ತೇಲುತ್ತಿರುತ್ತವೆ. ಇದರ ಮುಖ್ಯ ಕಾರ್ಯವೆಂದರೆ ಪೋಷಕಾಂಶಗಳು, ಹಾರ್ಮೋನುಗಳು ಮತ್ತು ತ್ಯಾಜ್ಯ ಉತ್ಪನ್ನಗಳನ್ನು ಸಾಗಿಸುವುದು. ಉದಾಹರಣೆಗೆ, ನಾವು ತಿಂದ ಆಹಾರದಿಂದ ಜೀರ್ಣವಾದ ಪೋಷಕಾಂಶಗಳನ್ನು ಕರುಳಿನಿಂದ ದೇಹದ ಇತರ ಭಾಗಗಳಿಗೆ ತಲುಪಿಸುವುದು ಪ್ಲಾಸ್ಮಾ. ಇದು ನಮ್ಮ ದೇಹದ ಸಾರಿಗೆ ವ್ಯವಸ್ಥೆಯ ಹೆದ್ದಾರಿಯಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ರಕ್ತದ ಘಟಕಗಳಲ್ಲಿ ಮೊದಲನೆಯದು ಪ್ಲಾಸ್ಮಾ (Plasma). ಇದು ರಕ್ತದ ದ್ರವ ಭಾಗವಾಗಿದೆ, ಮತ್ತು ನಮ್ಮ ರಕ್ತದ ಹೆಚ್ಚಿನ ಭಾಗ (ಸುಮಾರು 55%) ಇದೇ ಇರುತ್ತದೆ. ಇದು ತಿಳಿ ಹಳದಿ ಬಣ್ಣವನ್ನು ಹೊಂದಿದ್ದು, ಇದರಲ್ಲಿಯೇ ರಕ್ತ ಕಣಗಳು ತೇಲುತ್ತಿರುತ್ತವೆ. ಇದರ ಮುಖ್ಯ ಕಾರ್ಯವೆಂದರೆ ಪೋಷಕಾಂಶಗಳು, ಹಾರ್ಮೋನುಗಳು ಮತ್ತು ತ್ಯಾಜ್ಯ ಉತ್ಪನ್ನಗಳನ್ನು ಸಾಗಿಸುವುದು. ಉದಾಹರಣೆಗೆ, ಜೀರ್ಣವಾದ ಪೋಷಕಾಂಶಗಳನ್ನು ಕರುಳಿನಿಂದ ದೇಹದ ಇತರ ಭಾಗಗಳಿಗೆ ತಲುಪಿಸುವುದು ಪ್ಲಾಸ್ಮಾ. ಇದು ನಮ್ಮ ದೇಹದ ಸಾರಿಗೆ ವ್ಯವಸ್ಥೆಯ ಹೆದ್ದಾರಿಯಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪ್ಲಾಸ್ಮಾ (Plasma): ರಕ್ತದ ದ್ರವ ಭಾಗ, ಸುಮಾರು 55% ರಷ್ಟಿರುತ್ತದೆ.",
+    "ಕಾರ್ಯ: ಪೋಷಕಾಂಶಗಳು, ಹಾರ್ಮೋನುಗಳು ಮತ್ತು ತ್ಯಾಜ್ಯಗಳನ್ನು ಸಾಗಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a test tube of centrifuged blood. The top layer is the yellowish plasma, clearly labeled 'ಪ್ಲಾಸ್ಮಾ (Plasma)'. Below it is a thin buffy coat, and at the bottom is the dense red layer of red blood cells.",
+    "labels": "Plasma, Buffy Coat, Red Blood Cells",
+    "scientific_significance": "This visual clearly separates the liquid component (plasma) from the cellular components of blood, illustrating its proportion.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_7_concept_1_chunk_015"
+}

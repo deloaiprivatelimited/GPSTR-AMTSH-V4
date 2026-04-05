@@ -1,0 +1,57 @@
+{
+  "module_id": "std_7_science_chapter_4_concept_6",
+  "chapter_code": "std_7_chapter_4",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 4,
+  "total_duration": 174.124,
+  "total_duration_formatted": "2:54",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_science_chapter_4_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಜೈವಿಕ ವ್ಯವಸ್ಥೆಗಳಲ್ಲಿ ಆಮ್ಲಗಳು",
+      "type": "slide",
+      "start": 0.0,
+      "end": 58.371,
+      "duration": 58.371,
+      "script_words": 92
+    },
+    {
+      "chunk_id": "std_7_science_chapter_4_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "slide",
+      "start": 58.971,
+      "end": 79.862,
+      "duration": 20.891,
+      "script_words": 33
+    },
+    {
+      "chunk_id": "std_7_science_chapter_4_concept_6_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಜೈವಿಕ ವ್ಯವಸ್ಥೆಗಳಲ್ಲಿನ ಪ್ರಮುಖ ಆಮ್ಲಗಳು",
+      "type": "concept_explanation",
+      "start": 80.462,
+      "end": 139.273,
+      "duration": 58.811,
+      "script_words": 79
+    },
+    {
+      "chunk_id": "std_7_science_chapter_4_concept_6_chunk_004",
+      "chunk_file": "004_recap_0.json",
+      "wav_file": "004_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 139.873,
+      "end": 173.524,
+      "duration": 33.651,
+      "script_words": 53
+    }
+  ]
+}

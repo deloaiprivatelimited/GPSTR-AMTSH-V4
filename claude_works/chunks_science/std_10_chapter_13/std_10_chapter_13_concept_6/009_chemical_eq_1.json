@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಓಝೋನ್ ಅಣುವಿನ ರಚನೆ",
+  "script": "ಈಗ, ಓಝೋನ್ ಅಣು ಹೇಗೆ ರೂಪುಗೊಳ್ಳುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಒಂದು ಸ್ವತಂತ್ರ ಆಮ್ಲಜನಕ ಪರಮಾಣು, ಒಂದು ಆಮ್ಲಜನಕದ ಅಣುವಿನೊಂದಿಗೆ ಸಂಯೋಜನೆಗೊಂಡು, ಒಂದು ಓಝೋನ್ ಅಣು ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ. ಇದು ವಾಯುಮಂಡಲದ ಮೇಲ್ಪದರದಲ್ಲಿ ನಡೆಯುವ ಒಂದು ಪ್ರಮುಖ ಸಂಯೋಗ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ, ಓಝೋನ್ ಅಣು (O₃) ಹೇಗೆ ರೂಪುಗೊಳ್ಳುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಒಂದು ಸ್ವತಂತ್ರ ಆಮ್ಲಜನಕ ಪರಮಾಣು (O), ಒಂದು ಆಮ್ಲಜನಕದ ಅಣುವಿನೊಂದಿಗೆ (O₂) ಸಂಯೋಜನೆಗೊಂಡು, ಒಂದು ಓಝೋನ್ ಅಣು (O₃) ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ. ಇದು ವಾಯುಮಂಡಲದ ಮೇಲ್ಪದರದಲ್ಲಿ ನಡೆಯುವ ಒಂದು ಪ್ರಮುಖ ಸಂಯೋಗ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "O + O_2 \\rightarrow O_3",
+    "placeholder_note": "Display the chemical equation for the formation of ozone from an oxygen atom and an oxygen molecule."
+  },
+  "sub_type": "chemical_equation",
+  "difficulty": "medium",
+  "source_example_id": "std_10_ch_13_eq_2_slide_1",
+  "chunk_id": "std_10_chapter_13_concept_6_chunk_009"
+}

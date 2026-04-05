@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಮುಖಾಂಶ: ಹೊಸ ವಸ್ತುವಿನ ಉತ್ಪತ್ತಿ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಕ್ರಿಯೆಯ ಪ್ರಮುಖಾಂಶವೇನು? ಮೆಗ್ನಿಸಿಯಮ್, ಒಂದು ಹೊಳೆಯುವ ಲೋಹ, ಗಾಳಿಯಲ್ಲಿ ಉರಿದಾಗ, ಮೆಗ್ನಿಸಿಯಮ್ ಆಕ್ಸೈಡ್ ಎಂಬ ಬಿಳಿ ಬಣ್ಣದ ಪುಡಿಯಾಗಿ ಬದಲಾಗುತ್ತದೆ. ಇದು ಒಂದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ, ಏಕೆಂದರೆ ಮೂಲ ವಸ್ತುವಿನ ಗುಣಗಳಿಗಿಂತ ಸಂಪೂರ್ಣವಾಗಿ ಭಿನ್ನವಾದ ಗುಣಗಳನ್ನು ಹೊಂದಿರುವ ಹೊಸ ವಸ್ತು ಉಂಟಾಗಿದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಕ್ರಿಯೆಯ ಪ್ರಮುಖಾಂಶವೇನು?",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕ: ಮೆಗ್ನಿಸಿಯಮ್ (ಹೊಳೆಯುವ ಲೋಹ)",
+    "ಉತ್ಪನ್ನ: ಮೆಗ್ನಿಸಿಯಮ್ ಆಕ್ಸೈಡ್ (ಬಿಳಿ ಪುಡಿ)",
+    "ತೀರ್ಮಾನ: ಇದು ಒಂದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ, ಏಕೆಂದರೆ ಹೊಸ ವಸ್ತು ಉಂಟಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_center",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_015"
+}

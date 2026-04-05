@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಹರ್ಷಿತಳು ಎರಡು ಭಿನ್ನ ನಾಣ್ಯಗಳನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಚಿಮ್ಮಿಸಿದಾಗ, ಕನಿಷ್ಟ ಒಂದು ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ ಮೂರು ಬೈ ನಾಲ್ಕು ಆಗಿದೆ. ಕೆಲವೊಮ್ಮೆ, ಪೂರಕ ಘಟನೆಯನ್ನು ಬಳಸುವುದು ಲೆಕ್ಕವನ್ನು ಸುಲಭವಾಗಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಹರ್ಷಿತಳು ಎರಡು ಭಿನ್ನ ನಾಣ್ಯಗಳನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಚಿಮ್ಮಿಸಿದಾಗ, ಕನಿಷ್ಟ ಒಂದು ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ $\\frac{3}{4}$ ಆಗಿದೆ. ಕೆಲವೊಮ್ಮೆ, ಪೂರಕ ಘಟನೆಯನ್ನು ಬಳಸುವುದು ಲೆಕ್ಕವನ್ನು ಸುಲಭವಾಗಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "P(\\text{ಕನಿಷ್ಟ ಒಂದು ಶಿರ}) = \\frac{3}{4}",
+    "placeholder_note": ""
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "PROB-BAS-1_example_9",
+  "final_answer": "ಕನಿಷ್ಟ ಒಂದು ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ 3/4.",
+  "final_answer_display": "ಕನಿಷ್ಟ ಒಂದು ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ $\\frac{3}{4}$.",
+  "chunk_id": "PROB-BAS-1_concept_4_chunk_019"
+}

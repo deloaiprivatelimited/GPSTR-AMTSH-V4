@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರದ ಸಾಧನೆ: ಭಾಗ 1",
+  "script": "ಈ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವು ಹೇಗೆ ಬಂತು ಎಂದು ಈಗ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇದನ್ನು ಕೇವಲ ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದಕ್ಕಿಂತ, ಇದರ ಹಿಂದಿನ ತರ್ಕವನ್ನು ತಿಳಿದುಕೊಂಡರೆ ಗೊಂದಲಗಳು ಕಡಿಮೆಯಾಗುತ್ತವೆ. ಮೊದಲ ಹಂತವಾಗಿ, ನಾವು ಒಂದು ತ್ರಿಭುಜವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಈಗ, ಅದೇ ಅಳತೆಯ, ಅಂದರೆ ಅದಕ್ಕೆ ಸರ್ವಸಮವಾಗಿರುವ ಇನ್ನೊಂದು ತ್ರಿಭುಜವನ್ನು ರಚಿಸಿ ಅದರ ಪಕ್ಕದಲ್ಲಿ ಇಡೋಣ. ನಮ್ಮ ಉದ್ದೇಶ ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಬಳಸಿ ಒಂದು ಹೊಸ, ಪರಿಚಿತ ಆಕೃತಿಯನ್ನು ರಚಿಸುವುದು.",
+  "script_display": "ಈ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವು ಹೇಗೆ ಬಂತು ಎಂದು ಈಗ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇದನ್ನು ಕೇವಲ ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದಕ್ಕಿಂತ, ಇದರ ಹಿಂದಿನ ತರ್ಕವನ್ನು ತಿಳಿದುಕೊಂಡರೆ ಗೊಂದಲಗಳು ಕಡಿಮೆಯಾಗುತ್ತವೆ. ಮೊದಲ ಹಂತವಾಗಿ, ನಾವು ಒಂದು ತ್ರಿಭುಜವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಈಗ, ಅದೇ ಅಳತೆಯ, ಅಂದರೆ ಅದಕ್ಕೆ ಸರ್ವಸಮವಾಗಿರುವ (congruent) ಇನ್ನೊಂದು ತ್ರಿಭುಜವನ್ನು ರಚಿಸಿ ಅದರ ಪಕ್ಕದಲ್ಲಿ ಇಡೋಣ. ನಮ್ಮ ಉದ್ದೇಶ ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಬಳಸಿ ಒಂದು ಹೊಸ, ಪರಿಚಿತ ಆಕೃತಿಯನ್ನು ರಚಿಸುವುದು.",
+  "display_bullets": [
+    "ಈ ಸೂತ್ರ ಹೇಗೆ ಬಂತು ಎಂದು ನೋಡೋಣ.",
+    "ಮೊದಲು, ಒಂದು ತ್ರಿಭುಜವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "ಅದಕ್ಕೆ ಸರ್ವಸಮವಾಗಿರುವ (congruent) ಇನ್ನೊಂದು ತ್ರಿಭುಜವನ್ನು ಅದರ ಪಕ್ಕದಲ್ಲಿ ಇಡಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "On the right side, show a single blue triangle. Next to it, show an identical, but slightly separated, green triangle. This sets up the idea of combining two congruent triangles.",
+    "labels": "Triangle 1, Triangle 2 (Congruent)",
+    "mathematical_significance": "Step 1 of the derivation: starting with two congruent triangles.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-AREA-1_concept_4_chunk_007"
+}

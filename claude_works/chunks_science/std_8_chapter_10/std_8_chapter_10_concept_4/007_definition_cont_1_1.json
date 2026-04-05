@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪಾರ ಮತ್ತು ಘೋಷದ ಸಂಬಂಧ",
+  "script": "ಪಾರ ಮತ್ತು ಘೋಷದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಈ ಚಿತ್ರದಲ್ಲಿ ನೋಡೋಣ. ಇಲ್ಲಿ ಎರಡು ತರಂಗಗಳಿವೆ. ಮೊದಲನೆಯದು ಕಡಿಮೆ ಪಾರವನ್ನು ಹೊಂದಿದೆ, ಇದು ಪಿಸುಮಾತಿನಂತಹ ಮೆದುವಾದ ಶಬ್ದವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಎರಡನೇ ತರಂಗವು ಹೆಚ್ಚು ಪಾರವನ್ನು ಹೊಂದಿದೆ, ಇದು ಸಿಂಹದ ಘರ್ಜನೆಯಂತಹ ಜೋರಾದ ಶಬ್ದವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಶಬ್ದದ ತರಂಗದ ಎತ್ತರ, ಅಂದರೆ ಪಾರ ಹೆಚ್ಚಾದಂತೆ, ಶಬ್ದದ ಘೋಷವೂ ಹೆಚ್ಚಾಗುತ್ತದೆ. ವೈಜ್ಞಾನಿಕವಾಗಿ, ಘೋಷವು ಪಾರದ ವರ್ಗಕ್ಕೆ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ.",
+  "script_display": "ಪಾರ (Amplitude) ಮತ್ತು ಘೋಷದ (Loudness) ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಈ ಚಿತ್ರದಲ್ಲಿ ನೋಡೋಣ. ಇಲ್ಲಿ ಎರಡು ತರಂಗಗಳಿವೆ. ಮೊದಲನೆಯದು ಕಡಿಮೆ ಪಾರವನ್ನು ಹೊಂದಿದೆ, ಇದು ಪಿಸುಮಾತಿನಂತಹ ಮೆದುವಾದ ಶಬ್ದವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಎರಡನೇ ತರಂಗವು ಹೆಚ್ಚು ಪಾರವನ್ನು ಹೊಂದಿದೆ, ಇದು ಸಿಂಹದ ಘರ್ಜನೆಯಂತಹ ಜೋರಾದ ಶಬ್ದವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಶಬ್ದದ ತರಂಗದ ಎತ್ತರ, ಅಂದರೆ ಪಾರ ಹೆಚ್ಚಾದಂತೆ, ಶಬ್ದದ ಘೋಷವೂ ಹೆಚ್ಚಾಗುತ್ತದೆ. ವೈಜ್ಞಾನಿಕವಾಗಿ, ಘೋಷವು ಪಾರದ ವರ್ಗಕ್ಕೆ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ ($L \\propto A^2$).",
+  "display_bullets": [
+    "ಕಡಿಮೆ ಪಾರ (Small Amplitude) = ಮೆದುವಾದ ಶಬ್ದ (Soft Sound)",
+    "ಹೆಚ್ಚು ಪಾರ (Large Amplitude) = ಜೋರಾದ ಶಬ್ದ (Loud Sound)",
+    "ಘೋಷವು ಪಾರದ ವರ್ಗಕ್ಕೆ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ ($L \\propto A^2$)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram comparing two sound waves to illustrate amplitude and loudness. The top wave has a low amplitude, labeled 'ಮೆದು ಶಬ್ದ (ಕಡಿಮೆ ಪಾರ) - Soft Sound (Low Amplitude)'. The bottom wave has a high amplitude, labeled 'ಜೋರಾದ ಶಬ್ದ (ಹೆಚ್ಚು ಪಾರ) - Loud Sound (High Amplitude)'. Both waves have the same frequency. The amplitude (ಪಾರ) is clearly marked as the vertical displacement from the equilibrium position.",
+    "labels": "Amplitude, Loudness, Soft Sound, Loud Sound, Waveform",
+    "scientific_significance": "Visually demonstrates the direct relationship between the physical property of a wave (amplitude) and the perceived characteristic of sound (loudness).",
+    "placeholder_note": "Image to be generated based on the description. Show two sine waves, one with low amplitude and one with high amplitude, with clear labels in Kannada and English."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_10_concept_4_chunk_007"
+}

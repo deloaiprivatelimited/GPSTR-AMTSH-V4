@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕಂಕಣದ ವಿಸ್ತೀರ್ಣ: ಪರಿಚಯ",
+  "script": "ಈಗ ನಾವು ಕಂಕಣದ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ಕಲಿಯೋಣ. ಕಂಕಣ ಅಥವಾ ಆನ್ಯುಲಸ್ ಎಂದರೆ ಎರಡು ಏಕಕೇಂದ್ರೀಯ ವೃತ್ತಗಳ ನಡುವೆ ಇರುವ ಪ್ರದೇಶ. ಅಂದರೆ, ಎರಡೂ ವೃತ್ತಗಳಿಗೆ ಒಂದೇ ಕೇಂದ್ರವಿರುತ್ತದೆ, ಆದರೆ ತ್ರಿಜ್ಯಗಳು ವಿಭಿನ್ನವಾಗಿರುತ್ತವೆ. ಹೊರಗಿನ ವೃತ್ತವು ದೊಡ್ಡ ತ್ರಿಜ್ಯ, ಕ್ಯಾಪಿಟಲ್ ಆರ್, ಮತ್ತು ಒಳಗಿನ ವೃತ್ತವು ಸಣ್ಣ ತ್ರಿಜ್ಯ, ಸ್ಮಾಲ್ ಆರ್, ಹೊಂದಿರುತ್ತದೆ. ನಮ್ಮ ಗುರಿ ಈ ಎರಡು ವೃತ್ತಗಳ ನಡುವಿನ ಬಣ್ಣದ ಪ್ರದೇಶದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು. ಉದಾಹರಣೆಗೆ, ಒಂದು ವೃತ್ತಾಕಾರದ ಉದ್ಯಾನವನದ ಸುತ್ತಲೂ ಇರುವ ಕಾಲುದಾರಿ ಅಥವಾ ಒಂದು ವಾಷರ್, ಇವೆಲ್ಲವೂ ಕಂಕಣಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆಗಳಾಗಿವೆ.",
+  "script_display": "ಈಗ ನಾವು ಕಂಕಣದ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ಕಲಿಯೋಣ. ಕಂಕಣ (annulus) ಎಂದರೆ ಎರಡು ಏಕಕೇಂದ್ರೀಯ ವೃತ್ತಗಳ ನಡುವೆ ಇರುವ ಪ್ರದೇಶ. ಅಂದರೆ, ಎರಡೂ ವೃತ್ತಗಳಿಗೆ ಒಂದೇ ಕೇಂದ್ರವಿರುತ್ತದೆ, ಆದರೆ ತ್ರಿಜ್ಯಗಳು ವಿಭಿನ್ನವಾಗಿರುತ್ತವೆ. ನಮ್ಮ ಗುರಿ ಈ ಎರಡು ವೃತ್ತಗಳ ನಡುವಿನ ಬಣ್ಣದ ಪ್ರದೇಶದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "display_bullets": [
+    "ಕಂಕಣವು ಎರಡು ಏಕಕೇಂದ್ರೀಯ ವೃತ್ತಗಳ ನಡುವಿನ ಪ್ರದೇಶವಾಗಿದೆ.",
+    "ಹೊರಗಿನ ವೃತ್ತವು ದೊಡ್ಡ ತ್ರಿಜ್ಯ ($R$) ಮತ್ತು ಒಳಗಿನ ವೃತ್ತವು ಸಣ್ಣ ತ್ರಿಜ್ಯ ($r$) ಹೊಂದಿರುತ್ತದೆ.",
+    "ಉದಾಹರಣೆ: ವೃತ್ತಾಕಾರದ ಪಥ, ವಾಷರ್, ಕಡಗ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of an annulus (a ring). It shows two concentric circles. The outer circle has radius 'R' marked from the center to its edge. The inner circle has radius 'r' marked from the center to its edge. The area between the two circles is shaded to indicate the area of the ring.",
+    "labels": "Outer Radius (R), Inner Radius (r), Area of Ring (shaded)",
+    "mathematical_significance": "This visual representation helps students understand the geometric shape of an annulus and the meaning of outer and inner radii, which are crucial for applying the area formula.",
+    "placeholder_note": "Image to be generated for an annulus with R and r labeled."
+  },
+  "chunk_id": "MEN-AREA-1_concept_6_chunk_009"
+}

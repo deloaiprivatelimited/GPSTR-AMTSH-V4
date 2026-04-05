@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಂಗೀತ (Music)",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ಸಂಗೀತದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಸಂಗೀತ ಅಂದರೆ ಕೇಳಲು ಇಂಪಾದ ಮತ್ತು ಆಹ್ಲಾದಕರವಾದ ಶಬ್ದ. ಇದು ನಮ್ಮ ಮನಸ್ಸಿಗೆ ಸಂತೋಷವನ್ನು ನೀಡುತ್ತದೆ. ವೈಜ್ಞಾನಿಕವಾಗಿ ಹೇಳುವುದಾದರೆ, ಸಂಗೀತವು ನಿಯಮಿತ ಮತ್ತು ಆವರ್ತಕ ಕಂಪನಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಅಂದರೆ, ಕಂಪನಗಳು ಒಂದು ನಿರ್ದಿಷ್ಟ ಲಯದಲ್ಲಿ ಪುನರಾವರ್ತನೆಯಾಗುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಸಿತಾರ್, ಕೊಳಲು, ಅಥವಾ ಹಾರ್ಮೋನಿಯಂನಂತಹ ಸಂಗೀತ ವಾದ್ಯಗಳಿಂದ ಬರುವ ಧ್ವನಿಯನ್ನು ಗಮನಿಸಿ. ಈ ಧ್ವನಿಗಳು ಒಂದು ಕ್ರಮಬದ್ಧವಾದ ಮಾದರಿಯನ್ನು ಹೊಂದಿರುತ್ತವೆ, ಅದಕ್ಕಾಗಿಯೇ ಅವು ಕೇಳಲು ಸುಮಧುರವಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ಸಂಗೀತದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಸಂಗೀತ ಅಂದರೆ ಕೇಳಲು ಇಂಪಾದ ಮತ್ತು ಆಹ್ಲಾದಕರವಾದ ಶಬ್ದ. ಇದು ನಮ್ಮ ಮನಸ್ಸಿಗೆ ಸಂತೋಷವನ್ನು ನೀಡುತ್ತದೆ. ವೈಜ್ಞಾನಿಕವಾಗಿ ಹೇಳುವುದಾದರೆ, ಸಂಗೀತವು ನಿಯಮಿತ ಮತ್ತು ಆವರ್ತಕ ಕಂಪನಗಳಿಂದ (periodic vibrations) ಉಂಟಾಗುತ್ತದೆ. ಅಂದರೆ, ಕಂಪನಗಳು ಒಂದು ನಿರ್ದಿಷ್ಟ ಲಯದಲ್ಲಿ ಪುನರಾವರ್ತನೆಯಾಗುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಸಿತಾರ್, ಕೊಳಲು, ಅಥವಾ ಹಾರ್ಮೋನಿಯಂನಂತಹ ಸಂಗೀತ ವಾದ್ಯಗಳಿಂದ ಬರುವ ಧ್ವನಿಯನ್ನು ಗಮನಿಸಿ. ಈ ಧ್ವನಿಗಳು ಒಂದು ಕ್ರಮಬದ್ಧವಾದ ಮಾದರಿಯನ್ನು ಹೊಂದಿರುತ್ತವೆ, ಅದಕ್ಕಾಗಿಯೇ ಅವು ಕೇಳಲು ಸುಮಧುರವಾಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಸಂಗೀತ (Music): ಕೇಳಲು ಇಂಪಾದ ಮತ್ತು ಆಹ್ಲಾದಕರವಾದ ಶಬ್ದ.",
+    "ಗುಣಲಕ್ಷಣ: ನಿಯಮಿತ ಮತ್ತು ಆವರ್ತಕ ಕಂಪನಗಳಿಂದ (periodic vibrations) ಉಂಟಾಗುತ್ತದೆ.",
+    "ಉದಾಹರಣೆ: ಸಂಗೀತ ವಾದ್ಯಗಳಿಂದ ಹೊಮ್ಮುವ ಸುಮಧುರ ಧ್ವನಿ, ಹಕ್ಕಿಗಳ ಚಿಲಿಪಿಲಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, smooth sine wave representing a musical sound. The wave should have a consistent amplitude and frequency, showing regular and periodic oscillations.",
+    "labels": "ನಿಯಮಿತ ಕಂಪನಗಳು (Regular Vibrations)",
+    "scientific_significance": "Illustrates the periodic nature of sound waves that are perceived as music.",
+    "placeholder_note": "Image to be generated: A clean graph showing a perfect sine wave."
+  },
+  "chunk_id": "std_8_chapter_10_concept_6_chunk_004"
+}

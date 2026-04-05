@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಸರಳ ಪದ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. 7xy ಎಂಬ ಪದವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಈ ಪದವು ಹೇಗೆ ರೂಪುಗೊಂಡಿದೆ? ಇಲ್ಲಿ, 7, x, ಮತ್ತು y ಈ ಮೂರು ಘಟಕಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಣಿಸಲಾಗಿದೆ. ಅಂದರೆ, 7 ಗುಣಿಸು x ಗುಣಿಸು y. ಆದ್ದರಿಂದ, 7xy ಪದದ ಅಪವರ್ತನಗಳು 7, x, ಮತ್ತು y ಆಗಿವೆ. ಈ ಪ್ರತಿಯೊಂದು ಭಾಗವನ್ನು ನಾವು ಪ್ರತ್ಯೇಕವಾಗಿ ಅಪವರ್ತನ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ಒಂದು ಪದದ ಮೂಲಭೂತ ನಿರ್ಮಾಣದ ಭಾಗಗಳಿದ್ದಂತೆ. ಈ ಅಪವರ್ತನಗಳನ್ನು ಮತ್ತೆ ಒಟ್ಟಿಗೆ ಗುಣಿಸಿದರೆ ನಮಗೆ ಮೂಲ ಪದವೇ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. $7xy$ ಎಂಬ ಪದವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಈ ಪದವು ಹೇಗೆ ರೂಪುಗೊಂಡಿದೆ? ಇಲ್ಲಿ, $7$, $x$, ಮತ್ತು $y$ ಈ ಮೂರು ಘಟಕಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಣಿಸಲಾಗಿದೆ. ಅಂದರೆ, $7 \\times x \\times y$. ಆದ್ದರಿಂದ, $7xy$ ಪದದ ಅಪವರ್ತನಗಳು $7$, $x$, ಮತ್ತು $y$ ಆಗಿವೆ. ಈ ಪ್ರತಿಯೊಂದು ಭಾಗವನ್ನು ನಾವು ಪ್ರತ್ಯೇಕವಾಗಿ ಅಪವರ್ತನ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ಒಂದು ಪದದ ಮೂಲಭೂತ ನಿರ್ಮಾಣದ ಭಾಗಗಳಿದ್ದಂತೆ. ಈ ಅಪವರ್ತನಗಳನ್ನು ಮತ್ತೆ ಒಟ್ಟಿಗೆ ಗುಣಿಸಿದರೆ ನಮಗೆ ಮೂಲ ಪದವೇ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪದ: $7xy$",
+    "ಇದನ್ನು $7 \\times x \\times y$ ಎಂದು ಬರೆಯಬಹುದು.",
+    "$7xy$ ಯ ಅಪವರ್ತನಗಳು: $7, x, y$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A factor tree diagram. The term 7xy is at the top in a box. Three arrows point downwards from this box to three separate boxes below. The box on the left contains '7', the middle box contains 'x', and the box on the right contains 'y'. The title above the diagram is '7xy ಪದದ ಅಪವರ್ತನಗಳು'.",
+    "labels": "factor tree, algebraic term, factors, 7xy",
+    "mathematical_significance": "Illustrates the decomposition of a simple algebraic term into its constituent factors.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "ALG-EXP-2_concept_1_chunk_012"
+}

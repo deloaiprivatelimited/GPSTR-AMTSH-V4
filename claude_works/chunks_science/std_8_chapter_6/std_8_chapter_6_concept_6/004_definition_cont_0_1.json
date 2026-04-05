@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಕಪ್ಪೆಯ ಜೀವನ ಚಕ್ರ",
+  "script": "ರೂಪಪರಿವರ್ತನೆಗೆ ಕಪ್ಪೆಯು ಒಂದು ಶ್ರೇಷ್ಠ ಉದಾಹರಣೆಯಾಗಿದೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಕಪ್ಪೆಯು ಮೊಟ್ಟೆಗಳನ್ನು ಇಡುತ್ತದೆ. ಈ ಮೊಟ್ಟೆಗಳಿಂದ ಹೊರಬರುವ ಮರಿಯನ್ನು 'ಗೊದಮೊಟ್ಟೆ' ಅಥವಾ ಟ್ಯಾಡ್ಪೋಲ್ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಗೊದಮೊಟ್ಟೆಯು ಪ್ರೌಢ ಕಪ್ಪೆಯನ್ನು ಸ್ವಲ್ಪವೂ ಹೋಲುವುದಿಲ್ಲ. ಮೊದಲನೆಯದಾಗಿ, ಇದು ಮೀನಿನಂತೆ ಕಾಣುತ್ತದೆ ಮತ್ತು ಬಾಲವನ್ನು ಬಳಸಿ ನೀರಿನಲ್ಲಿ ಈಜುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಇದು ಕಿವಿರುಗಳ ಮೂಲಕ ಉಸಿರಾಡುತ್ತದೆ. ಆದರೆ, ಅದು ಬೆಳೆದಂತೆ, ಕಾಲುಗಳು ಬೆಳೆಯಲು ಪ್ರಾರಂಭಿಸುತ್ತವೆ, ಬಾಲವು ಕಣ್ಮರೆಯಾಗುತ್ತದೆ, ಮತ್ತು ಉಸಿರಾಟಕ್ಕಾಗಿ ಶ್ವಾಸಕೋಶಗಳು ರೂಪುಗೊಳ್ಳುತ್ತವೆ. ಕೊನೆಗೆ, ಅದು ಸಂಪೂರ್ಣವಾಗಿ ಬದಲಾಗಿ, ನೆಲದ ಮೇಲೆ ಜಿಗಿಯುವ ಪ್ರೌಢ ಕಪ್ಪೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಕಪ್ಪೆಯ ಜೀವನ ಚಕ್ರವು ರೂಪಪರಿವರ್ತನೆಯ ಸ್ಪಷ್ಟ ಉದಾಹರಣೆಯಾಗಿದೆ. ಮೊಟ್ಟೆಯಿಂದ ಹೊರಬಂದ 'ಗೊದಮೊಟ್ಟೆ' (ಲಾರ್ವಾ) ಮತ್ತು ಪ್ರೌಢ ಕಪ್ಪೆಯ ನಡುವೆ ಅಪಾರ ವ್ಯತ್ಯಾಸಗಳಿವೆ.",
+  "display_bullets": [
+    "**ಲಾರ್ವಾ (ಗೊದಮೊಟ್ಟೆ):** ಮೀನಿನಂತೆ ಕಾಣುತ್ತದೆ, ಬಾಲದಿಂದ ಈಜುತ್ತದೆ, ಕಿವಿರುಗಳಿಂದ ಉಸಿರಾಡುತ್ತದೆ.",
+    "**ಬದಲಾವಣೆಗಳು:** ಕಾಲುಗಳು ಬೆಳೆಯುತ್ತವೆ, ಬಾಲ ಕಣ್ಮರೆಯಾಗುತ್ತದೆ, ಶ್ವಾಸಕೋಶಗಳು ರೂಪುಗೊಳ್ಳುತ್ತವೆ.",
+    "**ಪ್ರೌಢ ಕಪ್ಪೆ:** ಕಾಲುಗಳಿಂದ ಜಿಗಿಯುತ್ತದೆ, ಶ್ವಾಸಕೋಶಗಳಿಂದ ಉಸಿರಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A flowchart showing the life cycle of a frog, starting from eggs, to an early tadpole, a later tadpole with legs, and finally an adult frog. Arrows indicate the progression of stages.",
+    "labels": "ಮೊಟ್ಟೆಗಳು, ಪ್ರಾರಂಭಿಕ ಗೊದಮೊಟ್ಟೆ, ಬೆಳೆದ ಗೊದಮೊಟ್ಟೆ, ಪ್ರೌಢಕಪ್ಪೆ",
+    "scientific_significance": "Visually demonstrates the distinct stages of metamorphosis in a frog, highlighting the drastic physical differences between the larval (tadpole) and adult forms.",
+    "placeholder_note": "Image to be generated based on the description. Should match textbook diagram 6.10."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_6_concept_6_chunk_004"
+}

@@ -1,0 +1,70 @@
+{
+  "module_id": "std_7_science_chapter_4_concept_4",
+  "chapter_code": "std_7_chapter_4",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 5,
+  "ok_count": 5,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:00:00",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "8de96d216d0d2aae9ccf76e3932afd94",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.931,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisite",
+      "script_words": 45,
+      "generated_at": "2026-04-02 13:59:12"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "ebfa1c22e2686c34efcc4a41b7a995dd",
+      "wav_file": "001_intro_0.wav",
+      "duration": 48.851,
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ತಟಸ್ಥೀಕರಣ",
+      "type": "intro",
+      "script_words": 68,
+      "generated_at": "2026-04-02 13:59:26"
+    },
+    "005_recap_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "9b198c9e24836a3d2f37e23cd32b67cf",
+      "wav_file": "005_recap_0.wav",
+      "duration": 43.491,
+      "slide_title": "ಸಾರಾಂಶ: ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ತಟಸ್ಥೀಕರಣ",
+      "type": "recap",
+      "script_words": 61,
+      "generated_at": "2026-04-02 13:59:37"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "e01426566f289f4a65bd26c0efa63d4d",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 68.051,
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ತಟಸ್ಥೀಕರಣ: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "script_words": 74,
+      "generated_at": "2026-04-02 13:59:55"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "90eae974719c6248dfc03271e6f95e5c",
+      "wav_file": "003_property_0.wav",
+      "duration": 52.971,
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ತಟಸ್ಥೀಕರಣ: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "script_words": 74,
+      "generated_at": "2026-04-02 14:00:00"
+    }
+  }
+}

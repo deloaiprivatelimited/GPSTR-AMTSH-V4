@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ತಳಸೇರುವಿಕೆಯ ಪರಿಣಾಮ",
+  "script": "ತಳಸೇರುವಿಕೆ ಪ್ರಕ್ರಿಯೆ ಪೂರ್ಣಗೊಂಡ ನಂತರ, ನಮಗೆ ಎರಡು ಸ್ಪಷ್ಟವಾದ ಪದರಗಳು ಸಿಗುತ್ತವೆ. ಪಾತ್ರೆಯ ತಳದಲ್ಲಿ ಸಂಗ್ರಹವಾದ ಭಾರವಾದ, ಕರಗದ ಘನ ವಸ್ತುವನ್ನು ನಾವು 'ತಳछನ' ಅಥವಾ 'ಸೆಡಿಮೆಂಟ್' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಅದರ ಮೇಲಿರುವ ಸ್ಪಷ್ಟವಾದ ದ್ರವವನ್ನು 'ಮೇಲ್ದ್ರವ' ಅಥವಾ 'ಸೂಪರ್ನಾಟೆಂಟ್' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ನಮ್ಮ ಉದಾಹರಣೆಯಲ್ಲಿ, ತಳದಲ್ಲಿ ಮಣ್ಣು ಮತ್ತು ಮೇಲೆ ಸ್ಪಷ್ಟ ನೀರು ಇರುತ್ತದೆ. ಈ ಎರಡು ಪದರಗಳನ್ನು ಬೇರ್ಪಡಿಸಲು ಮುಂದಿನ ಹಂತ ಅಗತ್ಯವಿದೆ, ಅದನ್ನು ನಾವು ಬಸಿಯುವಿಕೆ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ತಳಸೇರುವಿಕೆಯ ನಂತರ, ಮಿಶ್ರಣವು ಎರಡು ಪದರಗಳಾಗಿ ಬೇರ್ಪಡುತ್ತದೆ: ತಳದಲ್ಲಿ ಸಂಗ್ರಹವಾದ ಘನ ವಸ್ತುವನ್ನು 'ತಳछನ' (Sediment) ಎನ್ನುತ್ತಾರೆ. ಮೇಲಿರುವ ಸ್ಪಷ್ಟ ದ್ರವವನ್ನು 'ಮೇಲ್ದ್ರವ' (Supernatant) ಎನ್ನುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ತಳಸೇರುವಿಕೆಯ ಪರಿಣಾಮ: ಎರಡು ಪದರಗಳು.",
+    "ತಳದ ಪದರ: ತಳछನ (Sediment)",
+    "ಮೇಲಿನ ಪದರ: ಮೇಲ್ದ್ರವ (Supernatant)",
+    "ಮುಂದಿನ ಹಂತ: ಈ ಪದರಗಳನ್ನು ಬೇರ್ಪಡಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A single beaker after sedimentation is complete. The image clearly labels the two layers. The bottom layer is labeled 'ತಳछನ (Sediment)' with an arrow pointing to the settled mud. The top layer is labeled 'ಮೇಲ್ದ್ರವ (Supernatant)' with an arrow pointing to the clear water.",
+    "labels": "ಬೀಕರ್, ಮೇಲ್ದ್ರವ (Supernatant), ತಳछನ (Sediment)",
+    "scientific_significance": "Clearly defines the two components resulting from sedimentation - the sediment and the supernatant liquid - which is crucial for understanding the subsequent step of decantation.",
+    "placeholder_note": "Image to be generated showing a beaker post-sedimentation with clear labels for Sediment and Supernatant."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "",
+  "chunk_id": "std_6_chapter_9_concept_6_chunk_005"
+}

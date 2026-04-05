@@ -1,0 +1,37 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1 - ಗಾಳಿಯಲ್ಲಿ ತೂಕ",
+  "script": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ತೆಗೆದುಕೊಂಡ ಕಲ್ಲನ್ನು ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸಿನ ಕೊಕ್ಕೆಗೆ ನೇತುಹಾಕೋಣ. ಕಲ್ಲನ್ನು ಗಾಳಿಯಲ್ಲಿ ಮುಕ್ತವಾಗಿ ತೂಗಾಡುವಂತೆ ಬಿಡಿ. ಈಗ, ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸಿನಲ್ಲಿನ ಅಳತೆಯನ್ನು ಗಮನಿಸಿ. ಈ ಅಳತೆಯು ಗಾಳಿಯಲ್ಲಿ ಕಲ್ಲಿನ ನಿಜವಾದ ತೂಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸಿನ ಹಿಗ್ಗುವಿಕೆಯು ಕಲ್ಲಿನ ತೂಕಕ್ಕೆ ಅನುಗುಣವಾಗಿರುತ್ತದೆ. ಈ ಮೌಲ್ಯವನ್ನು ನಾವು ನಮ್ಮ ವೀಕ್ಷಣಾ ಪುಸ್ತಕದಲ್ಲಿ ದಾಖಲಿಸಿಕೊಳ್ಳೋಣ. ಇದು ನಮ್ಮ ಆರಂಭಿಕ ಅಳತೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ತೆಗೆದುಕೊಂಡ ಕಲ್ಲನ್ನು ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸಿನ ಕೊಕ್ಕೆಗೆ ನೇತುಹಾಕೋಣ. ಕಲ್ಲನ್ನು ಗಾಳಿಯಲ್ಲಿ ಮುಕ್ತವಾಗಿ ತೂಗಾಡುವಂತೆ ಬಿಡಿ. ಈಗ, ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸಿನಲ್ಲಿನ ಅಳತೆಯನ್ನು ಗಮನಿಸಿ. ಈ ಅಳತೆಯು ಗಾಳಿಯಲ್ಲಿ ಕಲ್ಲಿನ ನಿಜವಾದ ತೂಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸಿನ ಹಿಗ್ಗುವಿಕೆಯು ಕಲ್ಲಿನ ತೂಕಕ್ಕೆ ಅನುಗುಣವಾಗಿರುತ್ತದೆ. ಈ ಮೌಲ್ಯವನ್ನು (W_air) ನಾವು ನಮ್ಮ ವೀಕ್ಷಣಾ ಪುಸ್ತಕದಲ್ಲಿ ದಾಖಲಿಸಿಕೊಳ್ಳೋಣ. ಇದು ನಮ್ಮ ಆರಂಭಿಕ ಅಳತೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕಲ್ಲನ್ನು ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸಿಗೆ ಕಟ್ಟಿ.",
+    "ಗಾಳಿಯಲ್ಲಿ ಅದರ ತೂಕವನ್ನು ಅಳೆಯಿರಿ.",
+    "ಈ ಅಳತೆಯನ್ನು (W_air) ದಾಖಲಿಸಿಕೊಳ್ಳಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a stone hanging from a spring balance. The balance shows a reading. This setup is in the air.",
+    "labels": "ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸು, ಕಲ್ಲು, ಗಾಳಿಯಲ್ಲಿ ತೂಕ (W_air)",
+    "scientific_significance": "Demonstrates the measurement of the actual weight of an object in the air before immersion.",
+    "placeholder_note": "Image to be generated based on visual_aids_in_module, ಚಿತ್ರ 9.6 (a)"
+  },
+  "sub_type": "experiment_procedure",
+  "chunk_id": "std_9_chapter_9_concept_7_chunk_017"
+}

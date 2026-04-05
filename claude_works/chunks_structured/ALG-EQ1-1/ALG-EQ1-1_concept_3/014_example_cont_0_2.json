@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ಸಮೀಕರಣದ ಪರಿಹಾರ x ಈಕ್ವಲ್ಸ್ ಹದಿನೈದು ಆಗಿದೆ. ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸೋಣ. ಸಮೀಕರಣದಲ್ಲಿ x ನ ಜಾಗದಲ್ಲಿ ಹದಿನೈದನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಾಲ್ಕು ಇಂಟು ಹದಿನೈದು ಪ್ಲಸ್ ಐದು, ಅಂದರೆ ಅರವತ್ತು ಪ್ಲಸ್ ಐದು, ನಮಗೆ ಅರವತ್ತೈದು ನೀಡುತ್ತದೆ. ಇದು ಸಮೀಕರಣದ ಬಲಭಾಗಕ್ಕೆ ಸಮವಾಗಿದೆ. ಆದ್ದರಿಂದ ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆ. ಕುತೂಹಲಕಾರಿ ವಿಷಯವೆಂದರೆ, ಈ ಲೆಕ್ಕವು ನಾವು ಪಾಠದ ಆರಂಭದಲ್ಲಿ ನೋಡಿದ 'ಮನಸ್ಸಿನಲ್ಲಿರುವುದನ್ನು ಹೇಳುವ ಆಟ'ದ ಗಣಿತೀಯ ರೂಪವಾಗಿದೆ.",
+  "script_display": "ಹೀಗೆ, ಸಮೀಕರಣದ ಪರಿಹಾರ $x = 15$ ಆಗಿದೆ. ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸೋಣ. ಸಮೀಕರಣದಲ್ಲಿ $x$ ನ ಜಾಗದಲ್ಲಿ 15ನ್ನು ಆದೇಶಿಸಿದಾಗ, $4(15) + 5 = 60 + 5 = 65$. ಇದು ಸಮೀಕರಣದ ಬಲಭಾಗಕ್ಕೆ ಸಮವಾಗಿದೆ. ಆದ್ದರಿಂದ ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆ. ಕುತೂಹಲಕಾರಿ ವಿಷಯವೆಂದರೆ, ಈ ಲೆಕ್ಕವು ನಾವು ಪಾಠದ ಆರಂಭದಲ್ಲಿ ನೋಡಿದ 'ಮನಸ್ಸಿನಲ್ಲಿರುವುದನ್ನು ಹೇಳುವ ಆಟ'ದ ಗಣಿತೀಯ ರೂಪವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪರಿಹಾರ: $x = 15$",
+    "ಪರಿಶೀಲನೆ: $4(15) + 5 = 60 + 5 = 65$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x = 15",
+    "placeholder_note": "The final answer is highlighted."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ1-1_example_mindread1",
+  "final_answer": "x = 15",
+  "final_answer_display": "$x = 15$",
+  "chunk_id": "ALG-EQ1-1_concept_3_chunk_014"
+}

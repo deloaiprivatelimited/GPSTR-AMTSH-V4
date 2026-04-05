@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಲೆಕ್ಕಾಚಾರ ಮತ್ತು ಉತ್ತರ",
+  "script": "ಹಿಂದಿನ ಹಂತದಿಂದ ನಮಗೆ ಸಿಕ್ಕ ಸಮೀಕರಣ, ಎಕ್ಸ್ ಪ್ಲಸ್ ಎಕ್ಸ್ ಈಕ್ವಲ್ಸ್ ತೊಂಬತ್ತು ಡಿಗ್ರಿ. ಇದನ್ನು ಸರಳೀಕರಿಸೋಣ, ಆಗ ನಮಗೆ ಎರಡು ಎಕ್ಸ್ ಈಕ್ವಲ್ಸ್ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಸಿಗುತ್ತದೆ. ಈಗ ಎಕ್ಸ್ ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಲು, ನಾವು ತೊಂಬತ್ತನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಬೇಕು. ಆಗ ಎಕ್ಸ್ ಈಕ್ವಲ್ಸ್ ನಲವತ್ತೈದು ಡಿಗ್ರಿ ಎಂದು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಮಗೆ ಬೇಕಾದ ಕೋನದ ಅಳತೆಯು ನಲವತ್ತೈದು ಡಿಗ್ರಿ ಆಗಿದೆ.",
+  "script_display": "ಹಿಂದಿನ ಹಂತದಿಂದ ನಮಗೆ ಸಿಕ್ಕ ಸಮೀಕರಣ, $x + x = 90^\\circ$. ಇದನ್ನು ಸರಳೀಕರಿಸೋಣ, ಆಗ ನಮಗೆ $2x = 90^\\circ$ ಸಿಗುತ್ತದೆ. ಈಗ $x$ ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಲು, ನಾವು $90^\\circ$ ಅನ್ನು $2$ ರಿಂದ ಭಾಗಿಸಬೇಕು. ಆಗ $x = 45^\\circ$ ಎಂದು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಮಗೆ ಬೇಕಾದ ಕೋನದ ಅಳತೆಯು $45^\\circ$ ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಸಮೀಕರಣ: $x + x = 90^\\circ$",
+    "ಸರಳೀಕರಿಸಿ: $2x = 90^\\circ$",
+    "$x$ ಗಾಗಿ ಬಿಡಿಸಿ: $x = \\frac{90^\\circ}{2} = 45^\\circ$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "GEO-LA-1_example_3",
+  "final_answer": "ಕೋನದ ಅಳತೆಯು 45 ಡಿಗ್ರಿ ಆಗಿದೆ.",
+  "final_answer_display": "ಕೋನದ ಅಳತೆಯು $45^\\circ$ ಆಗಿದೆ.",
+  "chunk_id": "GEO-LA-1_concept_3_chunk_032"
+}

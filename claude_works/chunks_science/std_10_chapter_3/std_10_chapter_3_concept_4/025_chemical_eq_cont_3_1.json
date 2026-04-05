@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸೋಡಿಯಂ ಆಕ್ಸೈಡ್ + ನೀರು",
+  "script": "ಸೋಡಿಯಂ ಆಕ್ಸೈಡ್, ಅಂದರೆ Na two O, ಘನ ರೂಪದಲ್ಲಿ, ನೀರಿನೊಂದಿಗೆ, ಅಂದರೆ H two O, ದ್ರವ ರೂಪದಲ್ಲಿ, ವರ್ತಿಸಿ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಅಂದರೆ ಎರಡು NaOH, ಜಲೀಯ ದ್ರಾವಣವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+  "script_display": "ಸೋಡಿಯಂ ಆಕ್ಸೈಡ್ (Na₂O), ಘನ ರೂಪದಲ್ಲಿ, ನೀರಿನೊಂದಿಗೆ (H₂O), ದ್ರವ ರೂಪದಲ್ಲಿ, ವರ್ತಿಸಿ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (2NaOH), ಜಲೀಯ ದ್ರಾವಣವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Na_2O(s) + H_2O(l) \\rightarrow 2NaOH(aq)",
+    "placeholder_note": "Equation showing Sodium Oxide reacting with Water to form Sodium Hydroxide"
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_025"
+}

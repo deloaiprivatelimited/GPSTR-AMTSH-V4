@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ತ್ರಿಪದಿಯ ವರ್ಗವನ್ನು ವಿಸ್ತರಿಸುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಫೋರ್ ಎ ಮೈನಸ್ ಟೂ ಬಿ ಮೈನಸ್ ತ್ರೀ ಸಿ, ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಅನ್ನು ವಿಸ್ತರಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯು ಎಕ್ಸ್ ಪ್ಲಸ್ ವೈ ಪ್ಲಸ್ ಝೆಡ್ ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ರೂಪದಲ್ಲಿದೆ, ಆದರೆ ಇಲ್ಲಿ ಕೆಲವು ಪದಗಳು ಋಣಾತ್ಮಕವಾಗಿವೆ. ಇದನ್ನು ಹೇಗೆ ಬಿಡಿಸುವುದು ಎಂದು ನೋಡೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $(4a – 2b – 3c)^2$ ನ್ನು ವಿಸ್ತರಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯು $(x+y+z)^2$ ರೂಪದಲ್ಲಿದೆ, ಆದರೆ ಇಲ್ಲಿ ಕೆಲವು ಪದಗಳು ಋಣಾತ್ಮಕವಾಗಿವೆ. ಇದನ್ನು ಹೇಗೆ ಬಿಡಿಸುವುದು ಎಂದು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $(4a – 2b – 3c)^2$ ನ್ನು ವಿಸ್ತರಿಸಿ.",
+    "ಗುರುತಿಸಬೇಕಾದ ಅಂಶ: ಇದು $(x+y+z)^2$ ರೂಪದಲ್ಲಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "(4a – 2b – 3c)^2 = ?",
+    "placeholder_note": "Display the problem expression to be expanded."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_18",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_059"
+}

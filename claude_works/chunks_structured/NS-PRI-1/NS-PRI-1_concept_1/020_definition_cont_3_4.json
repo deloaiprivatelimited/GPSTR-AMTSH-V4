@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: 12 ಮತ್ತು 18",
+  "script": "ಈಗ ನಮ್ಮ ಮೂರನೇ ಮತ್ತು ಕೊನೆಯ ಹಂತ. ನಮ್ಮಲ್ಲಿ ಈಗ ಎರಡು ಪಟ್ಟಿಗಳಿವೆ. ಹನ್ನೆರಡರ ಅಪವರ್ತನಗಳು: ಒಂದು, ಎರಡು, ಮೂರು, ನಾಲ್ಕು, ಆರು, ಹನ್ನೆರಡು. ಮತ್ತು ಹದಿನೆಂಟರ ಅಪವರ್ತನಗಳು: ಒಂದು, ಎರಡು, ಮೂರು, ಆರು, ಒಂಬತ್ತು, ಹದಿನೆಂಟು. ಈ ಎರಡೂ ಪಟ್ಟಿಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿರುವ, ಅಂದರೆ ಎರಡರಲ್ಲೂ ಇರುವ ಸಂಖ್ಯೆಗಳನ್ನು ಗುರುತಿಸೋಣ. ಒಂದು, ಎರಡು, ಮೂರು, ಮತ್ತು ಆರು. ಈ ನಾಲ್ಕು ಸಂಖ್ಯೆಗಳು ಎರಡೂ ಪಟ್ಟಿಗಳಲ್ಲಿವೆ. ಆದ್ದರಿಂದ, ಇವು ಹನ್ನೆರಡು ಮತ್ತು ಹದಿನೆಂಟರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳು.",
+  "script_display": "ಈಗ ನಮ್ಮ ಮೂರನೇ ಮತ್ತು ಕೊನೆಯ ಹಂತ. ನಮ್ಮಲ್ಲಿ ಈಗ ಎರಡು ಪಟ್ಟಿಗಳಿವೆ. 12ರ ಅಪವರ್ತನಗಳು: **1, 2, 3**, 4, **6**, 12. ಮತ್ತು 18ರ ಅಪವರ್ತನಗಳು: **1, 2, 3**, **6**, 9, 18. ಈ ಎರಡೂ ಪಟ್ಟಿಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿರುವ, ಅಂದರೆ ಎರಡರಲ್ಲೂ ಇರುವ ಸಂಖ್ಯೆಗಳನ್ನು ಗುರುತಿಸೋಣ. 1, 2, 3, ಮತ್ತು 6. ಈ ನಾಲ್ಕು ಸಂಖ್ಯೆಗಳು ಎರಡೂ ಪಟ್ಟಿಗಳಲ್ಲಿವೆ. ಆದ್ದರಿಂದ, ಇವು 12 ಮತ್ತು 18ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳು.",
+  "display_bullets": [
+    "**ಹಂತ 3:** ಎರಡೂ ಪಟ್ಟಿಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿರುವ ಸಂಖ್ಯೆಗಳನ್ನು ಗುರುತಿಸಿ.",
+    "12ರ ಅಪವರ್ತನಗಳು: **1, 2, 3**, 4, **6**, 12",
+    "18ರ ಅಪವರ್ತನಗಳು: **1, 2, 3**, **6**, 9, 18",
+    "ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳು: **1, 2, 3, 6**"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Two lists of factors, one for 12 and one for 18. The common numbers (1, 2, 3, 6) are highlighted in both lists with connecting lines or a shared color to show they are common.",
+    "labels": "List 1: Factors of 12, List 2: Factors of 18, Highlighted numbers: 1, 2, 3, 6",
+    "mathematical_significance": "Visually identifies the common elements between two sets of factors, making the concept of 'common factor' intuitive.",
+    "placeholder_note": "Image to be generated showing the two lists with common factors highlighted."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "NS-PRI-1_concept_1_chunk_020"
+}

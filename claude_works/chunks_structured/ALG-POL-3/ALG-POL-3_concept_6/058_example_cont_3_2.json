@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ಮೂರು ಎ ಪ್ಲಸ್ ನಾಲ್ಕು ಬಿ ಪ್ಲಸ್ ಐದು ಸಿ ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ನ ವಿಸ್ತೃತ ರೂಪವು ಒಂಬತ್ತು ಎ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಹದಿನಾರು ಬಿ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಇಪ್ಪತ್ತೈದು ಸಿ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಇಪ್ಪತ್ತನಾಲ್ಕು ಎ ಬಿ ಪ್ಲಸ್ ನಲವತ್ತು ಬಿ ಸಿ ಪ್ಲಸ್ ಮೂವತ್ತು ಸಿ ಎ ಆಗಿದೆ. ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸರಿಯಾಗಿ ಅನ್ವಯಿಸುವುದರಿಂದ ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳನ್ನು ಸುಲಭವಾಗಿ ಬಿಡಿಸಬಹುದು.",
+  "script_display": "ಹೀಗಾಗಿ, $(3a + 4b + 5c)^2$ ನ ವಿಸ್ತೃತ ರೂಪವು $9a^2 + 16b^2 + 25c^2 + 24ab + 40bc + 30ca$ ಆಗಿದೆ. ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸರಿಯಾಗಿ ಅನ್ವಯಿಸುವುದರಿಂದ ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳನ್ನು ಸುಲಭವಾಗಿ ಬಿಡಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $9a^2 + 16b^2 + 25c^2 + 24ab + 40bc + 30ca$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "(3a + 4b + 5c)^2 = 9a^2 + 16b^2 + 25c^2 + 24ab + 40bc + 30ca",
+    "placeholder_note": "Final expanded form of the expression"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_17",
+  "final_answer": "$(3a + 4b + 5c)^2 = 9a^2 + 16b^2 + 25c^2 + 24ab + 40bc + 30ca$",
+  "final_answer_display": "$(3a + 4b + 5c)^2 = 9a^2 + 16b^2 + 25c^2 + 24ab + 40bc + 30ca$",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_058"
+}

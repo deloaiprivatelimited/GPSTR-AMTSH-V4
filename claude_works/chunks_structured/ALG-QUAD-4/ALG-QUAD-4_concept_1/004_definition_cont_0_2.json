@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಯಾವುದು ವರ್ಗ ಸಮೀಕರಣ ಅಲ್ಲ?",
+  "script": "ಈಗ a ಯ ಬೆಲೆ ಸೊನ್ನೆ ಆಗಬಾರದು ಎಂಬ ನಿಯಮ ಏಕೆ ಮುಖ್ಯ ಎಂದು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಎರಡು x squared plus ಐದು x plus ಮೂರು equals zero ಇದೆ. ಇದು ವರ್ಗ ಸಮೀಕರಣ, ಏಕೆಂದರೆ x squared ನ ಗುಣಕ, ಅಂದರೆ a, ಎರಡು ಆಗಿದೆ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿರುವ ಸಮೀಕರಣವನ್ನು ನೋಡಿ: ಐದು x plus ಮೂರು equals zero. ಇಲ್ಲಿ x ನ ಅತ್ಯುನ್ನತ ಘಾತ ಒಂದಾಗಿದೆ. ಇದು ವರ್ಗ ಸಮೀಕರಣವಲ್ಲ, ಇದೊಂದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ. ಆದರ್ಶ ರೂಪ a x squared plus b x plus c equals zero ದಲ್ಲಿ a ಸೊನ್ನೆಯಾದರೆ, a x squared ಪದವು ಮಾಯವಾಗಿ, ಸಮೀಕರಣವು b x plus c equals zero ಆಗಿ ಬದಲಾಗುತ್ತದೆ. ಅದಕ್ಕಾಗಿಯೇ a ಸೊನ್ನೆಗೆ ಸಮನಾಗಿರಬಾರದು ಎಂಬ ನಿಯಮ ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ $a$ ಯ ಬೆಲೆ ಸೊನ್ನೆ ಆಗಬಾರದು ಎಂಬ ನಿಯಮ ಏಕೆ ಮುಖ್ಯ ಎಂದು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, $2x^2 + 5x + 3 = 0$ ಇದೆ. ಇದು ವರ್ಗ ಸಮೀಕರಣ, ಏಕೆಂದರೆ $x^2$ ನ ಗುಣಕ, ಅಂದರೆ $a$, 2 ಆಗಿದೆ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿರುವ ಸಮೀಕರಣವನ್ನು ನೋಡಿ: $5x + 3 = 0$. ಇಲ್ಲಿ $x$ ನ ಅತ್ಯುನ್ನತ ಘಾತ 1 ಆಗಿದೆ. ಇದು ವರ್ಗ ಸಮೀಕರಣವಲ್ಲ, ಇದೊಂದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ (Linear Equation). ಆದರ್ಶ ರೂಪ $ax^2+bx+c=0$ ದಲ್ಲಿ $a=0$ ಆದರೆ, $ax^2$ ಪದವು ಮಾಯವಾಗಿ, ಸಮೀಕರಣವು $bx+c=0$ ಆಗಿ ಬದಲಾಗುತ್ತದೆ. ಅದಕ್ಕಾಗಿಯೇ $a \\neq 0$ ಎಂಬ ನಿಯಮ ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "full",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A table comparing a quadratic equation with a linear equation. Left column header: 'ವರ್ಗ ಸಮೀಕರಣ (Quadratic Equation)', content: '$2x^2 + 5x + 3 = 0$' and 'ಇಲ್ಲಿ $a=2$, ಇದು ಸೊನ್ನೆ ಅಲ್ಲ.'. Right column header: 'ವರ್ಗ ಸಮೀಕರಣ ಅಲ್ಲ (Not a Quadratic Equation)', content: '$5x + 3 = 0$' and 'ಇಲ್ಲಿ $x^2$ ಪದವೇ ಇಲ್ಲ, ಅಂದರೆ $a=0$. ಇದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ.'"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "ALG-QUAD-4_concept_1_chunk_004"
+}

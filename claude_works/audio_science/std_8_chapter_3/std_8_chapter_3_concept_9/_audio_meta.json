@@ -1,0 +1,158 @@
+{
+  "module_id": "std_8_chapter_3_concept_9",
+  "chapter_code": "std_8_chapter_3",
+  "voice": "Kore",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:07:54",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "d1a9de774d4696db856263bf96520303",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 30.651,
+      "slide_title": "ಅವಶ್ಯಕ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 38,
+      "generated_at": "2026-04-02 15:05:17"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "f7e331931ffed7c180f191db1caab961",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 50.691,
+      "slide_title": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳ ಸಂರಕ್ಷಣೆ: ಏಕೆ ಅಗತ್ಯ?",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 15:05:30"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "2b9a013df064fd8a23e7bf158d7bbaac",
+      "wav_file": "003_property_0.wav",
+      "duration": 51.171,
+      "slide_title": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳ ಸಂರಕ್ಷಣೆ: ಏಕೆ ಅಗತ್ಯ?",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 15:05:44"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "259609f7e1b6f593997e30f6a20f57af",
+      "wav_file": "001_intro_0.wav",
+      "duration": 52.971,
+      "slide_title": "ಪರಿಚಯ: ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂ_ಲಗಳ ಸಂರಕ್ಷಣೆ",
+      "type": "chunk",
+      "script_words": 71,
+      "generated_at": "2026-04-02 15:05:44"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "4e7b45eac602bd7672192a1655d89b43",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 53.531,
+      "slide_title": "PCRA ಸಲಹೆಗಳು: ಪೆಟ್ರೋಲ್/ಡೀಸೆಲ್ ಉಳಿತಾಯ",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 15:05:49"
+    },
+    "007_experiment_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "59bf4ce09bb17dacf809b83a0593c4fa",
+      "wav_file": "007_experiment_0.wav",
+      "duration": 38.691,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಸಂಪನ್ಮೂಲ ಬರಿದಾಗುವಿಕೆಯ ಸಿಮ್ಯುಲೇಶನ್",
+      "type": "experiment_activity",
+      "script_words": 48,
+      "generated_at": "2026-04-02 15:06:20"
+    },
+    "006_property_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "c66c100cee89d4dcfcb8add64195059d",
+      "wav_file": "006_property_cont_0_3.wav",
+      "duration": 50.411,
+      "slide_title": "PCRA ಸಲಹೆಗಳು: ಪೆಟ್ರೋಲ್/ಡೀಸೆಲ್ ಉಳಿತಾಯ",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 15:06:36"
+    },
+    "008_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "4b3e961c30d536c1f4e497c7f1651249",
+      "wav_file": "008_experiment_cont_0_1.wav",
+      "duration": 37.131,
+      "slide_title": "ಚಟುವಟಿಕೆಗೆ ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳು",
+      "type": "experiment_activity",
+      "script_words": 50,
+      "generated_at": "2026-04-02 15:06:59"
+    },
+    "009_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "2eade49efc3ba29593fd62dc4f3ea89b",
+      "wav_file": "009_experiment_cont_0_2.wav",
+      "duration": 47.451,
+      "slide_title": "ಚಟುವಟಿಕೆಯ ವಿಧಾನ: ಹಂತ 1",
+      "type": "experiment_activity",
+      "script_words": 53,
+      "generated_at": "2026-04-02 15:07:04"
+    },
+    "010_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "6bf7adf0130a601b109001d0412106e8",
+      "wav_file": "010_experiment_cont_0_3.wav",
+      "duration": 40.491,
+      "slide_title": "ಚಟುವಟಿಕೆಯ ವಿಧಾನ: ಹಂತ 2",
+      "type": "experiment_activity",
+      "script_words": 53,
+      "generated_at": "2026-04-02 15:07:04"
+    },
+    "011_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "b4cfc88cd5f7d8d8a5f0ea76b16aaf24",
+      "wav_file": "011_experiment_cont_0_4.wav",
+      "duration": 41.171,
+      "slide_title": "ಗಮನಿಸಬೇಕಾದ ಅಂಶಗಳು (Observation)",
+      "type": "experiment_activity",
+      "script_words": 50,
+      "generated_at": "2026-04-02 15:07:17"
+    },
+    "012_experiment_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "b0801a1d6ce8f7465436a80128b5d3fa",
+      "wav_file": "012_experiment_cont_0_5.wav",
+      "duration": 42.811,
+      "slide_title": "ತೀರ್ಮಾನ ಮತ್ತು ಪಾಠ (Conclusion)",
+      "type": "experiment_activity",
+      "script_words": 49,
+      "generated_at": "2026-04-02 15:07:19"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "c9c7770dccd522d333b2a8d5e70f56a5",
+      "wav_file": "013_recap_0.wav",
+      "duration": 48.811,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 65,
+      "generated_at": "2026-04-02 15:07:54"
+    }
+  }
+}

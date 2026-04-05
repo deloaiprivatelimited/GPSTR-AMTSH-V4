@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ನಾವು ಅಂತಿಮ ಉತ್ತರವನ್ನು ತಲುಪಿದ್ದೇವೆ. ಅಫ್ತಾಬ್ ಅವರ ಈಗಿನ ವಯಸ್ಸು 42 ವರ್ಷಗಳು ಮತ್ತು ಅವರ ಮಗಳ ಈಗಿನ ವಯಸ್ಸು 12 ವರ್ಷಗಳು. ನೀವು ಈ ಉತ್ತರವನ್ನು ಮೂಲ ಸಮೀಕರಣಗಳಲ್ಲಿ ಆದೇಶಿಸಿ ಪರಿಶೀಲಿಸಬಹುದು.",
+  "script_display": "ಆದ್ದರಿಂದ, ನಾವು ಅಂತಿಮ ಉತ್ತರವನ್ನು ತಲುಪಿದ್ದೇವೆ. ಅಫ್ತಾಬ್ ಅವರ ಈಗಿನ ವಯಸ್ಸು 42 ವರ್ಷಗಳು ಮತ್ತು ಅವರ ಮಗಳ ಈಗಿನ ವಯಸ್ಸು 12 ವರ್ಷಗಳು. ನೀವು ಈ ಉತ್ತರವನ್ನು ಮೂಲ ಸಮೀಕರಣಗಳಲ್ಲಿ ಆದೇಶಿಸಿ ಪರಿಶೀಲಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಅಫ್ತಾಬ್ ಅವರ ಈಗಿನ ವಯಸ್ಸು (s) = 42 ವರ್ಷಗಳು",
+    "ಮಗಳ ಈಗಿನ ವಯಸ್ಸು (t) = 12 ವರ್ಷಗಳು"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_top_visual_bottom",
+    "text_zone": "full",
+    "visual_zone": "bottom",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ಅಫ್ತಾಬ್ ಅವರ ಈಗಿನ ವಯಸ್ಸು = 42 ವರ್ಷಗಳು\nಮಗಳ ಈಗಿನ ವಯಸ್ಸು = 12 ವರ್ಷಗಳು",
+    "placeholder_note": "Final answer"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-PAIR-4_example_5",
+  "final_answer": "ಅಫ್ತಾಬ್ ಅವರ ಈಗಿನ ವಯಸ್ಸು 42 ವರ್ಷಗಳು ಮತ್ತು ಅವರ ಮಗಳ ಈಗಿನ ವಯಸ್ಸು 12 ವರ್ಷಗಳು.",
+  "final_answer_display": "ಅಫ್ತಾಬ್ ಅವರ ಈಗಿನ ವಯಸ್ಸು = 42 ವರ್ಷಗಳು\nಮಗಳ ಈಗಿನ ವಯಸ್ಸು = 12 ವರ್ಷಗಳು",
+  "chunk_id": "ALG-PAIR-4_concept_3_chunk_015"
+}

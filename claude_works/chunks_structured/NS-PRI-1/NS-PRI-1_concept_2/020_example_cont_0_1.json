@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತಗಳು 1-3: ಜರಡಿ ಹಿಡಿಯುವ ಆರಂಭ",
+  "script": "ಈಗ ನಾವು ಜರಡಿ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತ, ಒಂದನ್ನು ಹೊಡೆದುಹಾಕಿ, ಏಕೆಂದರೆ ಒಂದು ಅವಿಭಾಜ್ಯವೂ ಅಲ್ಲ, ಸಂಯುಕ್ತವೂ ಅಲ್ಲ. ಎರಡನೇ ಹಂತ, ಹೊಡೆದುಹಾಕದ ಮೊದಲ ಸಂಖ್ಯೆ ಎರಡನ್ನು ವೃತ್ತ ಮಾಡಿ. ಇದು ನಮ್ಮ ಮೊದಲ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ. ಮೂರನೇ ಹಂತ, ಈಗ ಎರಡರ ಎಲ್ಲಾ ಅಪವರ್ತ್ಯಗಳನ್ನು, ಅಂದರೆ ಎರಡನ್ನು ಹೊರತುಪಡಿಸಿ ಉಳಿದ ಎಲ್ಲಾ ಸಮ ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಡೆದುಹಾಕಿ. ಉದಾಹರಣೆಗೆ ನಾಲ್ಕು, ಆರು, ಎಂಟು, ಹತ್ತು, ಹೀಗೆ ನೂರರ ವರೆಗೆ.",
+  "script_display": "ಈಗ ನಾವು ಜರಡಿ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತ, 1ನ್ನು ಹೊಡೆದುಹಾಕಿ, ಏಕೆಂದರೆ 1 ಅವಿಭಾಜ್ಯವೂ ಅಲ್ಲ, ಸಂಯುಕ್ತವೂ ಅಲ್ಲ. ಎರಡನೇ ಹಂತ, ಹೊಡೆದುಹಾಕದ ಮೊದಲ ಸಂಖ್ಯೆ 2ನ್ನು ವೃತ್ತ ಮಾಡಿ. ಇದು ನಮ್ಮ ಮೊದಲ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ. ಮೂರನೇ ಹಂತ, ಈಗ 2ರ ಎಲ್ಲಾ ಅಪವರ್ತ್ಯಗಳನ್ನು, ಅಂದರೆ 2ನ್ನು ಹೊರತುಪಡಿಸಿ ಉಳಿದ ಎಲ್ಲಾ ಸಮ ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಡೆದುಹಾಕಿ. ಉದಾಹರಣೆಗೆ 4, 6, 8, 10, ಹೀಗೆ 100ರ ವರೆಗೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The 10x10 grid. '1' is crossed out with a red 'X'. '2' is circled in blue. All multiples of 2 (4, 6, 8, ..., 100) are crossed out with a light gray 'X'.",
+    "labels": "Step 1, Step 2, Step 3",
+    "mathematical_significance": "This visual shows the elimination of the non-prime number 1 and all composite numbers that are multiples of the first prime, 2.",
+    "placeholder_note": "Image to be generated: Grid with 1 crossed out, 2 circled, and all multiples of 2 crossed out."
+  },
+  "source_example_id": "NS-PRI-1_example_4",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "1ನ್ನು ಹೊಡೆದುಹಾಕಿ.",
+      "justification": "1 ಅವಿಭಾಜ್ಯವೂ ಅಲ್ಲ, ಸಂಯುಕ್ತವೂ ಅಲ್ಲ."
+    },
+    {
+      "step": 2,
+      "action_display": "2ನ್ನು ವೃತ್ತ ಹಾಕಿ (ಮೊದಲ ಅವಿಭಾಜ್ಯ).",
+      "justification": "ಇದು ಹೊಡೆದುಹಾಕದ ಮೊದಲ ಸಂಖ್ಯೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "2ರ ಎಲ್ಲಾ ಅಪವರ್ತ್ಯಗಳನ್ನು (4, 6, 8, ...) ಹೊಡೆದುಹಾಕಿ.",
+      "justification": "2ರ ಅಪವರ್ತ್ಯಗಳು ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಗಳಾಗಿರುತ್ತವೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-PRI-1_concept_2_chunk_020"
+}

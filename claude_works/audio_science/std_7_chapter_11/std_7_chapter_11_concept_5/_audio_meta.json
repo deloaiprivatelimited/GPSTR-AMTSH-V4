@@ -1,0 +1,114 @@
+{
+  "module_id": "std_7_chapter_11_concept_5",
+  "chapter_code": "std_7_chapter_11",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:36:10",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "a6efdabc76a96d11351b912fc8c74064",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.211,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 41,
+      "generated_at": "2026-04-02 13:34:58"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "2af483d3ad82248da5945b907b418b71",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 47.131,
+      "slide_title": "ಪೀನ ದರ್ಪಣದ ಅನ್ವಯಗಳು",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 13:35:05"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "d499dffc76d75f70138b9469e135329b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 47.651,
+      "slide_title": "ಪೀನ ದರ್ಪಣದಿಂದ ಪ್ರತಿಬಿಂಬ ರಚನೆ",
+      "type": "chunk",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:35:10"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "c637503270c51555a2d6526a8bc8c437",
+      "wav_file": "003_property_0.wav",
+      "duration": 52.251,
+      "slide_title": "ಪೀನ ದರ್ಪಣದಿಂದ ಉಂಟಾಗುವ ಪ್ರತಿಬಿಂಬದ ಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 74,
+      "generated_at": "2026-04-02 13:35:12"
+    },
+    "005_example_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "238d6f544fd9251f4a8adbf50b28548b",
+      "wav_file": "005_example_0.wav",
+      "duration": 43.251,
+      "slide_title": "ಲೆಕ್ಕಾಚಾರದ ಉದಾಹರಣೆ: ಸಮಸ್ಯೆ",
+      "type": "worked_example",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:35:42"
+    },
+    "008_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "65af51e29e806fef23913e4aac8a004e",
+      "wav_file": "008_example_cont_0_3.wav",
+      "duration": 35.011,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 50,
+      "generated_at": "2026-04-02 13:35:57"
+    },
+    "006_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "e41c8accf99b73a53650f6ec85068e13",
+      "wav_file": "006_example_cont_0_1.wav",
+      "duration": 35.251,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತಗಳು 1-2",
+      "type": "worked_example",
+      "script_words": 49,
+      "generated_at": "2026-04-02 13:36:03"
+    },
+    "007_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "0de75f0fc0378b1ba64336531be62bcf",
+      "wav_file": "007_example_cont_0_2.wav",
+      "duration": 37.971,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+      "type": "worked_example",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:36:05"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "631deebc04382e7876f89e536df8b5e0",
+      "wav_file": "009_recap_0.wav",
+      "duration": 46.971,
+      "slide_title": "ಸಾರಾಂಶ (Recap)",
+      "type": "recap",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:36:10"
+    }
+  }
+}

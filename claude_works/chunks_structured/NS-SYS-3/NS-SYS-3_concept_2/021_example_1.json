@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ √3 ನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ಈಗ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಾವು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ವರ್ಗಮೂಲ ಮೂರನ್ನು ಗುರುತಿಸಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಮತ್ತು ಜ್ಯಾಮಿತೀಯ ರಚನೆಯನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ರಚನೆಗೆ, ನಾವು ಮೊದಲು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ವರ್ಗಮೂಲ ಎರಡನ್ನು ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂದು ತಿಳಿದಿರಬೇಕು, ಏಕೆಂದರೆ ಅದು ನಮ್ಮ ಆಧಾರವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಾವು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ $\\sqrt{3}$ ನ್ನು ಗುರುತಿಸಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಮತ್ತು ಜ್ಯಾಮಿತೀಯ ರಚನೆಯನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ರಚನೆಗೆ, ನಾವು ಮೊದಲು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ $\\sqrt{2}$ ನ್ನು ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂದು ತಿಳಿದಿರಬೇಕು, ಏಕೆಂದರೆ ಅದು ನಮ್ಮ ಆಧಾರವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ $\\sqrt{3}$ ನ್ನು ಗುರುತಿಸಿ.",
+    "ಬಳಸುವ ವಿಧಾನ: ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಮತ್ತು ಜ್ಯಾಮಿತೀಯ ರಚನೆ.",
+    "ಪೂರ್ವಾಪೇಕ್ಷಿತ: ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ $\\sqrt{2}$ ನ್ನು ರಚಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard_problem_setup",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line from -1 to 3. The problem statement 'Locate sqrt(3) on the number line' is displayed prominently above it. The text highlights the key method: Pythagorean theorem.",
+    "labels": "Number line, 0, 1, 2, 3",
+    "mathematical_significance": "This slide sets up the problem, clearly stating the goal and the geometric approach required.",
+    "placeholder_note": "Image to be generated"
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SYS-3_example_4",
+  "prerequisites_display": [
+    "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+    "ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ $\\sqrt{2}$ ನ್ನು ಗುರುತಿಸುವುದು"
+  ],
+  "chunk_id": "NS-SYS-3_concept_2_chunk_021"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 4",
+  "script": "ನಾಲ್ಕನೇ ಹಂತ, ಲೆಕ್ಕಾಚಾರ. ಮೊದಲು ಅಂಶವನ್ನು, ಅಂದರೆ ಮೇಲ್ಭಾಗವನ್ನು ಸರಳೀಕರಿಸೋಣ. 6.7 ಗುಣಿಸು 6 ಗುಣಿಸು 7.4 ಮಾಡಿದಾಗ ನಮಗೆ 297.48 ಸಿಗುತ್ತದೆ. ಘಾತಗಳನ್ನು ಕೂಡಿಸಿದಾಗ, ಮೈನಸ್ 11 ಪ್ಲಸ್ 24 ಪ್ಲಸ್ 22, ನಮಗೆ 10 ರ ಘಾತ 35 ಸಿಗುತ್ತದೆ. ಈಗ ಛೇದವನ್ನು, ಅಂದರೆ ಕೆಳಭಾಗವನ್ನು ನೋಡೋಣ. 3.84 ರ ವರ್ಗವು 14.7456 ಆಗುತ್ತದೆ, ಮತ್ತು 10 ರ ಘಾತ 8 ರ ವರ್ಗವು 10 ರ ಘಾತ 16 ಆಗುತ್ತದೆ. ಈಗ 297.48 ಇಂಟು 10 ರ ಘಾತ 35 ಅನ್ನು 14.7456 ಇಂಟು 10 ರ ಘಾತ 16 ರಿಂದ ಭಾಗಿಸೋಣ. ಇದು ನಮಗೆ ಸುಮಾರು 20.17 ಇಂಟು 10 ರ ಘಾತ 19 ನ್ಯೂಟನ್ ನೀಡುತ್ತದೆ.",
+  "script_display": "**ಹಂತ 4: ಗಣಿತೀಯ ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.**\nಅಂತಿಮ ಉತ್ತರವನ್ನು ಪಡೆಯಲು ಅಂಕಗಣಿತದ ಕಾರ್ಯಾಚರಣೆಗಳನ್ನು ನಿರ್ವಹಿಸುವುದು.\n*   **ಅಂಶ (Numerator):**\n    $(6.7 \\times 6 \\times 7.4) \\times 10^{(-11+24+22)} = 297.48 \\times 10^{35}$\n*   **ಛೇದ (Denominator):**\n    $(3.84)^2 \\times (10^8)^2 = 14.7456 \\times 10^{16}$\n*   **ಭಾಗಾಕಾರ:**\n    $F = \\frac{297.48 \\times 10^{35}}{14.7456 \\times 10^{16}} \\approx 20.17 \\times 10^{19} \\text{ N}$",
+  "display_bullets": [
+    "ಹಂತ 4: ಗಣಿತೀಯ ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_step_walkthrough_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "F = \\frac{297.48 \\times 10^{35}}{14.7456 \\times 10^{16}} \\\\ \\\\ F \\approx 20.17 \\times 10^{19} \\text{ N}",
+    "placeholder_note": "Show the simplified numerator and denominator, and the result of the division."
+  },
+  "source_example_id": "std_9_chapter_9_example_1",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "ಗಣಿತೀಯ ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+      "justification": "ಅಂತಿಮ ಉತ್ತರವನ್ನು ಪಡೆಯಲು ಅಂಕಗಣಿತದ ಕಾರ್ಯಾಚರಣೆಗಳನ್ನು ನಿರ್ವಹಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_9_concept_2_chunk_027"
+}

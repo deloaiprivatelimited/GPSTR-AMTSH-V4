@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ದ್ವಿಪದೋಕ್ತಿ ಮತ್ತು ಇತರ ಬಹುಪದೋಕ್ತಿಗಳು",
+  "script": "ಈಗ ದ್ವಿಪದೋಕ್ತಿ ಮತ್ತು ಇತರ ಬಹುಪದೋಕ್ತಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯೋಣ. ಎಡಭಾಗದಲ್ಲಿ ದ್ವಿಪದೋಕ್ತಿಗಳಿವೆ. ಉದಾಹರಣೆಗೆ, x ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ನಾಲ್ಕು. ಇದರಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ. ಹಾಗೆಯೇ, ಏಳು y ಮೈನಸ್ ಎರಡು y ಸ್ಕ್ವೇರ್ಡ್. ಇಲ್ಲೂ ಕೂಡ ಎರಡು ಪದಗಳಿವೆ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ. ಹದಿನೈದು x. ಇದರಲ್ಲಿ ಒಂದೇ ಒಂದು ಪದವಿದೆ, ಆದ್ದರಿಂದ ಇದು ಏಕಪದೋಕ್ತಿ. ಕೆಳಗೆ, x ಕ್ಯೂಬ್ಡ್ ಪ್ಲಸ್ ಎರಡು x ಮೈನಸ್ ಒಂದು. ಇದರಲ್ಲಿ ಮೂರು ಪದಗಳಿವೆ, ಆದ್ದರಿಂದ ಇದು ತ್ರಿಪದೋಕ್ತಿ. ಹಾಗಾಗಿ, ದ್ವಿಪದೋಕ್ತಿ ಎಂದರೆ ಪದಗಳ ಸಂಖ್ಯೆ ನಿಖರವಾಗಿ ಎರಡೇ ಇರಬೇಕು, ಎರಡಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಥವಾ ಕಡಿಮೆ ಇರಬಾರದು.",
+  "script_display": "ಈಗ ದ್ವಿಪದೋಕ್ತಿ ಮತ್ತು ಇತರ ಬಹುಪದೋಕ್ತಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯೋಣ. ಎಡಭಾಗದಲ್ಲಿ ದ್ವಿಪದೋಕ್ತಿಗಳಿವೆ. ಉದಾಹರಣೆಗೆ, $x^2+4$. ಇದರಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ. ಹಾಗೆಯೇ, $7y-2y^2$. ಇಲ್ಲೂ ಕೂಡ ಎರಡು ಪದಗಳಿವೆ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ. $15x$. ಇದರಲ್ಲಿ ಒಂದೇ ಒಂದು ಪದವಿದೆ, ಆದ್ದರಿಂದ ಇದು ಏಕಪದೋಕ್ತಿ (Monomial). ಕೆಳಗೆ, $x^3+2x-1$. ಇದರಲ್ಲಿ ಮೂರು ಪದಗಳಿವೆ, ಆದ್ದರಿಂದ ಇದು ತ್ರಿಪದೋಕ್ತಿ (Trinomial). ಹಾಗಾಗಿ, ದ್ವಿಪದೋಕ್ತಿ ಎಂದರೆ ಪದಗಳ ಸಂಖ್ಯೆ ನಿಖರವಾಗಿ ಎರಡೇ ಇರಬೇಕು, ಎರಡಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಥವಾ ಕಡಿಮೆ ಇರಬಾರದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "classic_dark",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A two-column comparison table. Left column titled 'ದ್ವಿಪದೋಕ್ತಿಗಳು (Binomials)' with examples x^2+4 and 7y-2y^2. Right column titled 'ದ್ವಿಪದೋಕ್ತಿಗಳಲ್ಲ (Not Binomials)' with examples 15x (Monomial) and x^3+2x-1 (Trinomial). The Kannada terms for Monomial and Trinomial should be included as shown in script_display. The table should be rendered to fill the screen area as per the split_comparison layout, with clear headings for each column. The script will narrate this comparison, so the visual should directly reflect the examples mentioned in the script. The left side represents 'correct' examples and the right side represents 'incorrect' examples (counter-examples). The visual should be designed to make this distinction immediately obvious, perhaps using a green checkmark icon on the left and a red 'x' icon on the right for each column header, if the template supports it. Otherwise, clear titles are sufficient."
+  },
+  "chunk_id": "ALG-POL-3_concept_1_chunk_029"
+}

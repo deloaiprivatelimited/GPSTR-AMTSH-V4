@@ -1,0 +1,191 @@
+{
+  "module_id": "std_6_chapter_7_concept_5",
+  "chapter_code": "std_6_chapter_7",
+  "voice": "Callirrhoe",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 16,
+  "ok_count": 16,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:31:55",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "e8270b8b4a182b5e781b768a0bdc8eae",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.051,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 38,
+      "generated_at": "2026-04-02 13:28:17"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "eab05f79ae97aa14a1efff848542fa94",
+      "wav_file": "001_intro_0.wav",
+      "duration": 55.931,
+      "slide_title": "ಪರಿಚಯ: ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕ",
+      "type": "chunk",
+      "script_words": 70,
+      "generated_at": "2026-04-02 13:28:34"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "28096d121d1c4ce05fcde1c09b6b851c",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 45.531,
+      "slide_title": "ಕನಿಷ್ಠ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಹೇಗೆ?",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:28:40"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "5bdd177854f0d345f41073f32bd1a498",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 43.971,
+      "slide_title": "ಉದಾಹರಣೆ: ಕನಿಷ್ಠ ಮೌಲ್ಯದ ಲೆಕ್ಕಾಚಾರ",
+      "type": "definition",
+      "script_words": 69,
+      "generated_at": "2026-04-02 13:28:41"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "4b36d5b11b525bcece6632205eb89630",
+      "wav_file": "003_definition_0.wav",
+      "duration": 40.451,
+      "slide_title": "ಕನಿಷ್ಠ ಮೌಲ್ಯ (Least Count) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:28:44"
+    },
+    "008_experiment_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "478de6ae11f6ebab7ee96158077581b3",
+      "wav_file": "008_experiment_0.wav",
+      "duration": 37.811,
+      "slide_title": "ಪ್ರಯೋಗ: ನೀರಿನ ತಾಪವನ್ನು ಅಳೆಯುವುದು",
+      "type": "experiment_activity",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:29:23"
+    },
+    "007_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "7b2bf4653e8376a80af8ada9ece08a8d",
+      "wav_file": "007_property_cont_0_1.wav",
+      "duration": 42.571,
+      "slide_title": "ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕದ ವ್ಯಾಪ್ತಿ",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 13:29:32"
+    },
+    "010_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "b071c3287a24ce69d3763692aa22f4f6",
+      "wav_file": "010_experiment_cont_0_2.wav",
+      "duration": 38.331,
+      "slide_title": "ಹಂತ 2: ದ್ರವದ ತಾಪವನ್ನು ಅಳೆಯುವುದು",
+      "type": "experiment_activity",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:29:35"
+    },
+    "006_property_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "1fbfb6d47e5ceddff7516dff3b396d21",
+      "wav_file": "006_property_0.wav",
+      "duration": 44.251,
+      "slide_title": "ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕದ ರಚನೆ",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 13:29:40"
+    },
+    "009_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "5cb0edb0f7674fa80d2da8aea42ce17d",
+      "wav_file": "009_experiment_cont_0_1.wav",
+      "duration": 44.731,
+      "slide_title": "ಹಂತ 1: ಕನಿಷ್ಠ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "experiment_activity",
+      "script_words": 66,
+      "generated_at": "2026-04-02 13:29:41"
+    },
+    "015_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "397530cf30a63c9c26adb18624d60388",
+      "wav_file": "015_example_cont_0_2.wav",
+      "duration": 21.251,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 29,
+      "generated_at": "2026-04-02 13:30:13"
+    },
+    "014_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "045a146a503abb6905ab1d303729797a",
+      "wav_file": "014_example_cont_0_1.wav",
+      "duration": 48.651,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ ಹಂತವಾಗಿ",
+      "type": "worked_example",
+      "script_words": 69,
+      "generated_at": "2026-04-02 13:30:27"
+    },
+    "013_example_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "75687d641ca799225b1c6fc81390faf8",
+      "wav_file": "013_example_0.wav",
+      "duration": 30.331,
+      "slide_title": "ಲೆಕ್ಕದ ಉದಾಹರಣೆ: ಕನಿಷ್ಠ ಮೌಲ್ಯ",
+      "type": "worked_example",
+      "script_words": 45,
+      "generated_at": "2026-04-02 13:30:33"
+    },
+    "012_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "99458effe81b153316f073da90f03bab",
+      "wav_file": "012_experiment_cont_0_4.wav",
+      "duration": 37.091,
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:30:36"
+    },
+    "011_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "225d3d3e0ddd1a49eb42dacd1e8c0645",
+      "wav_file": "011_experiment_cont_0_3.wav",
+      "duration": 51.171,
+      "slide_title": "ಗಮನಿಸಬೇಕಾದ ಮುನ್ನೆಚ್ಚರಿಕೆಗಳು",
+      "type": "experiment_activity",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:30:53"
+    },
+    "016_recap_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "a1257ebe449ccac236b9dd85c6518aa3",
+      "wav_file": "016_recap_0.wav",
+      "duration": 55.651,
+      "slide_title": "ಸಾರಾಂಶ: ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕ",
+      "type": "recap",
+      "script_words": 65,
+      "generated_at": "2026-04-02 13:31:55"
+    }
+  }
+}

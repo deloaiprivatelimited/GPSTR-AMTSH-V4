@@ -1,0 +1,114 @@
+{
+  "module_id": "std_7_science_ch_1_concept_3",
+  "chapter_code": "std_7_chapter_1",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 17:11:46",
+  "chunks": {
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "4eea683ae3e3bb02b91f399aa4303865",
+      "wav_file": "003_classification_0.wav",
+      "duration": 36.931,
+      "slide_title": "ಪರಿಚಯ: ಸಸ್ಯಗಳಲ್ಲಿ ಪರಪೋಷಿತ ಪೋಷಣೆ",
+      "type": "concept_explanation",
+      "script_words": 45,
+      "generated_at": "2026-04-02 17:10:32"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "0ab03d6348baf8a927b1dc9450b51cae",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 44.371,
+      "slide_title": "1. ಪರಾವಲಂಬಿ ಪೋಷಣೆ (Parasitic Nutrition)",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 17:10:36"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "4fccf5292e1239ac7a73219d2a95833d",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 38.411,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 55,
+      "generated_at": "2026-04-02 17:10:36"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "ed6d5a9889c0e6bf98cb268bd2be7d9b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 45.451,
+      "slide_title": "ಸಸ್ಯಗಳಲ್ಲಿ ಇತರ ಪೋಷಣಾ ವಿಧಾನಗಳು",
+      "type": "intro",
+      "script_words": 70,
+      "generated_at": "2026-04-02 17:10:38"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "ad0bed68b25f61b89a62b80e421ec9c0",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 39.091,
+      "slide_title": "2. ಕೀಟಾಹಾರಿ ಪೋಷಣೆ (Insectivorous Nutrition)",
+      "type": "concept_explanation",
+      "script_words": 44,
+      "generated_at": "2026-04-02 17:11:21"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "306a923a573bdec020c093bf130245fe",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 31.291,
+      "slide_title": "3. ಕೊಳೆತಿನಿ ಪೋಷಣೆ (Saprotrophic Nutrition)",
+      "type": "concept_explanation",
+      "script_words": 45,
+      "generated_at": "2026-04-02 17:11:31"
+    },
+    "008_classification_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "489801a7f4bff81059f9fc4b69f4747b",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "duration": 37.131,
+      "slide_title": "ಸಹಜೀವನ: ಇನ್ನೊಂದು ಉದಾಹರಣೆ",
+      "type": "concept_explanation",
+      "script_words": 45,
+      "generated_at": "2026-04-02 17:11:33"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "b8c5c048f4729b4b33db144235fdd19a",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 40.491,
+      "slide_title": "4. ಸಹಜೀವನ (Symbiotic Relationship)",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 17:11:39"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "8bfc02e7968ba01dd7282f4e8a4f0be2",
+      "wav_file": "009_recap_0.wav",
+      "duration": 51.371,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 17:11:46"
+    }
+  }
+}

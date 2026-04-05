@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮೀಕರಣ ಬಿಡಿಸುವುದು (ಸ್ಥಳಾಂತರ ವಿಧಾನ)",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ಸಮೀಕರಣವನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ಅದನ್ನು ಸ್ಥಳಾಂತರ ವಿಧಾನವನ್ನು ಬಳಸಿ ಬಿಡಿಸಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ ನೀಡಿರುವ ಸಮೀಕರಣ ಹನ್ನೆರಡು p ಮೈನಸ್ ಐದು ಸಮನಾಗಿ ಇಪ್ಪತ್ತೈದು. ನಮ್ಮ ಗುರಿ p ಎಂಬ ಚರಾಕ್ಷರದ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ಸಮೀಕರಣವನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ಅದನ್ನು ಸ್ಥಳಾಂತರ ವಿಧಾನವನ್ನು ಬಳಸಿ ಬಿಡಿಸಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ ನೀಡಿರುವ ಸಮೀಕರಣ $12p - 5 = 25$. ನಮ್ಮ ಗುರಿ $p$ ಎಂಬ ಚರಾಕ್ಷರದ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $12p - 5 = 25$ ಸಮೀಕರಣವನ್ನು ಸ್ಥಳಾಂತರ ವಿಧಾನ ಬಳಸಿ ಬಿಡಿಸಿ.",
+    "ಗುರಿ: 'p' ಚರಾಕ್ಷರದ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_visual_split",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "12p - 5 = 25",
+    "placeholder_note": "Display the equation 12p - 5 = 25 prominently."
+  },
+  "source_example_id": "ALG-EQ1-1_example_6",
+  "prerequisites_display": [
+    "ಸರಳ ಸಮೀಕರಣಗಳ ಪರಿಚಯ",
+    "ಸ್ಥಳಾಂತರ ವಿಧಾನದ ನಿಯಮಗಳು"
+  ],
+  "chunk_id": "ALG-EQ1-1_concept_3_chunk_022"
+}

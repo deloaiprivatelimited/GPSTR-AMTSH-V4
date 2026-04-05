@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "1. ಅಂತರ ತಳೀಯ ಸಂಕರಣ (Inter-varietal)",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ಅಂತರ ತಳೀಯ ಸಂಕರಣ. ಇದು ಒಂದೇ ಪ್ರಭೇದಕ್ಕೆ ಸೇರಿದ ಎರಡು ವಿಭಿನ್ನ ತಳಿಗಳ ನಡುವೆ ನಡೆಯುವ ಸಂಕರಣವಾಗಿದೆ. ಇದು ಅತ್ಯಂತ ಸಾಮಾನ್ಯವಾದ ಮತ್ತು ಸುಲಭವಾದ ಸಂಕರಣ ವಿಧಾನ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಗೋಧಿ ತಳಿಯು ಅಧಿಕ ಇಳುವರಿ ನೀಡಬಹುದು, ಆದರೆ ಇನ್ನೊಂದು ತಳಿಯು ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿರಬಹುದು. ಈ ಎರಡೂ ತಳಿಗಳನ್ನು ಸಂಕರಿಸಿ, ಅಧಿಕ ಇಳುವರಿ ಮತ್ತು ರೋಗ ನಿರೋಧಕತೆ ಎರಡನ್ನೂ ಹೊಂದಿರುವ ಹೊಸ, ಉತ್ತಮ ತಳಿಯನ್ನು ಸೃಷ್ಟಿಸುವುದೇ ಇದರ ಮುಖ್ಯ ಉದ್ದೇಶವಾಗಿದೆ.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ಅಂತರ ತಳೀಯ ಸಂಕರಣ (Inter-varietal). ಇದು ಒಂದೇ ಪ್ರಭೇದಕ್ಕೆ ಸೇರಿದ ಎರಡು ವಿಭಿನ್ನ ತಳಿಗಳ ನಡುವೆ ನಡೆಯುವ ಸಂಕರಣವಾಗಿದೆ. ಇದು ಅತ್ಯಂತ ಸಾಮಾನ್ಯವಾದ ಮತ್ತು ಸುಲಭವಾದ ಸಂಕರಣ ವಿಧಾನ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಗೋಧಿ ತಳಿಯು ಅಧಿಕ ಇಳುವರಿ ನೀಡಬಹುದು, ಆದರೆ ಇನ್ನೊಂದು ತಳಿಯು ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿರಬಹುದು. ಈ ಎರಡೂ ತಳಿಗಳನ್ನು ಸಂಕರಿಸಿ, ಅಧಿಕ ಇಳುವರಿ ಮತ್ತು ರೋಗ ನಿರೋಧಕತೆ ಎರಡನ್ನೂ ಹೊಂದಿರುವ ಹೊಸ, ಉತ್ತಮ ತಳಿಯನ್ನು ಸೃಷ್ಟಿಸುವುದೇ ಇದರ ಮುಖ್ಯ ಉದ್ದೇಶವಾಗಿದೆ.",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯೆ: ಒಂದೇ ಪ್ರಭೇದದ (species) ಎರಡು ವಿಭಿನ್ನ ತಳಿಗಳ (varieties) ನಡುವಿನ ಸಂಕರಣ.",
+    "ಉದಾಹರಣೆ: ಅಧಿಕ ಇಳುವರಿ ನೀಡುವ ಗೋಧಿ ತಳಿ ಮತ್ತು ರೋಗ ನಿರೋಧಕ ಗೋಧಿ ತಳಿಯ ನಡುವೆ ಸಂಕರಣ.",
+    "ಉದ್ದೇಶ: ಎರಡೂ ಪೋಷಕ ತಳಿಗಳ ಉತ್ತಮ ಗುಣಗಳನ್ನು ಒಂದೇ ಹೊಸ ತಳಿಯಲ್ಲಿ ಸಂಯೋಜಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing two slightly different wheat plants. Plant A is labeled 'ಅಧಿಕ ಇಳುವರಿ' (High Yield). Plant B is labeled 'ರೋಗ ನಿರೋಧಕ' (Disease Resistant). An arrow points from both to a new Plant C, which is labeled 'ಹೊಸ ತಳಿ (ಅಧಿಕ ಇಳುವರಿ + ರೋಗ ನಿರೋಧಕ)' (New Variety (High Yield + Disease Resistant)).",
+    "labels": "Wheat Variety A, Wheat Variety B, New Hybrid Variety",
+    "scientific_significance": "Illustrates the concept of inter-varietal hybridization by combining desirable traits from two varieties of the same species.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_2_chunk_010"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಅನಿಲಗಳ ಒತ್ತಡ ಮತ್ತು ಏಕಮಾನಗಳು",
+  "script": "ದ್ರವ ಮತ್ತು ಘನಗಳಂತೆ, ಅನಿಲಗಳೂ ಕೂಡ ಒತ್ತಡವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿರುವ ಅನಿಲದ ಕಣಗಳು ನಿರಂತರವಾಗಿ ಚಲಿಸುತ್ತಾ ಪಾತ್ರೆಯ ಗೋಡೆಗಳಿಗೆ ಡಿಕ್ಕಿ ಹೊಡೆಯುತ್ತವೆ. ಈ ಡಿಕ್ಕಿಗಳಿಂದ ಉಂಟಾಗುವ ಒಟ್ಟು ಬಲವೇ ಅನಿಲದ ಒತ್ತಡ. ವಾತಾವರಣದಲ್ಲಿರುವ ಗಾಳಿಯು ನಮ್ಮ ಮೇಲೆ ಬೀರುವ ಒತ್ತಡವನ್ನು ವಾತಾವರಣದ ಒತ್ತಡ ಎನ್ನುತ್ತೇವೆ. ಅನಿಲಗಳ ಒತ್ತಡವನ್ನು ಅಳೆಯಲು ಪ್ಯಾಸ್ಕಲ್ ಜೊತೆಗೆ ಅಟ್ಮಾಸ್ಫಿಯರ್ ಅಥವಾ ಎಟಿಎಂ ಎಂಬ ಇನ್ನೊಂದು ಏಕಮಾನವನ್ನು ಸಹ ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. ಸಮುದ್ರ ಮಟ್ಟದಲ್ಲಿ, ಒಂದು ಅಟ್ಮಾಸ್ಫಿಯರ್ ಒತ್ತಡವು ಸುಮಾರು ಒಂದು ಲಕ್ಷದ ಒಂದು ಸಾವಿರದ ಮುನ್ನೂರ ಇಪ್ಪತ್ತೈದು ಪ್ಯಾಸ್ಕಲ್‌ಗಳಿಗೆ ಸಮವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ದ್ರವ ಮತ್ತು ಘನಗಳಂತೆ, ಅನಿಲಗಳೂ ಕೂಡ ಒತ್ತಡವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿರುವ ಅನಿಲದ ಕಣಗಳು ನಿರಂತರವಾಗಿ ಚಲಿಸುತ್ತಾ ಪಾತ್ರೆಯ ಗೋಡೆಗಳಿಗೆ ಡಿಕ್ಕಿ ಹೊಡೆಯುತ್ತವೆ. ಈ ಡಿಕ್ಕಿಗಳಿಂದ ಉಂಟಾಗುವ ಒಟ್ಟು ಬಲವೇ ಅನಿಲದ ಒತ್ತಡ. ವಾತಾವರಣದ ಒತ್ತಡ: ನಮ್ಮ ಸುತ್ತಲಿನ ಗಾಳಿಯು ಬೀರುವ ಒತ್ತಡ. ಅನಿಲಗಳ ಒತ್ತಡವನ್ನು ಅಳೆಯಲು 'ಅಟ್ಮಾಸ್ಫಿಯರ್' (atm) ಎಂಬ ಏಕಮಾನವನ್ನು ಸಹ ಬಳಸುತ್ತಾರೆ. 1 atm ≈ 101325 Pa.",
+  "display_bullets": [
+    "ಅನಿಲದ ಕಣಗಳು ಪಾತ್ರೆಯ ಗೋಡೆಗಳಿಗೆ ಡಿಕ್ಕಿ ಹೊಡೆಯುವುದರಿಂದ ಒತ್ತಡ ಉಂಟಾಗುತ್ತದೆ.",
+    "ವಾತಾವರಣದ ಒತ್ತಡ: ನಮ್ಮ ಸುತ್ತಲಿನ ಗಾಳಿಯು ಬೀರುವ ಒತ್ತಡ.",
+    "ಸಾಮಾನ್ಯ ಏಕಮಾನ: ಅಟ್ಮಾಸ್ಫಿಯರ್ (atm).",
+    "ಸಂಬಂಧ: 1 atm ≈ 101325 Pa."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Animation-style diagram of a sealed container. Inside, small dots representing gas particles are moving randomly and bouncing off the inner walls. Arrows point outwards from the walls to represent the pressure exerted by the gas.",
+    "labels": "ಅನಿಲ ಕಣಗಳು (Gas particles), ಒತ್ತಡ (Pressure)",
+    "scientific_significance": "Illustrates the microscopic origin of gas pressure as collisions of particles with the container walls.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_1_concept_7_chunk_010"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪತ್ರರಂಧ್ರದ ಕಾರ್ಯಗಳು",
+  "script": "ಪತ್ರರಂಧ್ರದ ಎರಡು ಮುಖ್ಯ ಕಾರ್ಯಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಮೊದಲನೆಯದು ಅನಿಲ ವಿನಿಮಯ. ಸಸ್ಯಗಳು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗಾಗಿ ವಾತಾವರಣದಿಂದ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಈ ಅನಿಲವು ಪತ್ರರಂಧ್ರಗಳ ಮೂಲಕವೇ ಎಲೆಯೊಳಗೆ ಪ್ರವೇಶಿಸುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ಉಪಉತ್ಪನ್ನವಾದ ಆಮ್ಲಜನಕವು ಇದೇ ರಂಧ್ರಗಳ ಮೂಲಕ ಹೊರಹೋಗುತ್ತದೆ. ಎರಡನೆಯ ಪ್ರಮುಖ ಕಾರ್ಯವೆಂದರೆ ಬಾಷ್ಪವಿಸರ್ಜನೆ. ಅಂದರೆ, ಸಸ್ಯದಲ್ಲಿರುವ ಹೆಚ್ಚುವರಿ ನೀರು ಪತ್ರರಂಧ್ರಗಳ ಮೂಲಕ ಆವಿಯ ರೂಪದಲ್ಲಿ ಹೊರಹೋಗುತ್ತದೆ. ಇದು ಸಸ್ಯವನ್ನು ತಂಪಾಗಿಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಪತ್ರರಂಧ್ರದ ಎರಡು ಮುಖ್ಯ ಕಾರ್ಯಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಮೊದಲನೆಯದು ಅನಿಲ ವಿನಿಮಯ. ಸಸ್ಯಗಳು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗಾಗಿ ವಾತಾವರಣದಿಂದ CO₂ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಈ ಅನಿಲವು ಪತ್ರರಂಧ್ರಗಳ ಮೂಲಕವೇ ಎಲೆಯೊಳಗೆ ಪ್ರವೇಶಿಸುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ಉಪಉತ್ಪನ್ನವಾದ O₂ ಇದೇ ರಂಧ್ರಗಳ ಮೂಲಕ ಹೊರಹೋಗುತ್ತದೆ. ಎರಡನೆಯ ಪ್ರಮುಖ ಕಾರ್ಯವೆಂದರೆ ಬಾಷ್ಪವಿಸರ್ಜನೆ. ಅಂದರೆ, ಸಸ್ಯದಲ್ಲಿರುವ ಹೆಚ್ಚುವರಿ ನೀರು (H₂O) ಪತ್ರರಂಧ್ರಗಳ ಮೂಲಕ ಆವಿಯ ರೂಪದಲ್ಲಿ ಹೊರಹೋಗುತ್ತದೆ. ಇದು ಸಸ್ಯವನ್ನು ತಂಪಾಗಿಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕಾರ್ಯ 1: ಅನಿಲ ವಿನಿಮಯ - ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗಾಗಿ CO₂ ಒಳಗೆ ಬರುತ್ತದೆ ಮತ್ತು O₂ ಹೊರಗೆ ಹೋಗುತ್ತದೆ.",
+    "ಕಾರ್ಯ 2: ಬಾಷ್ಪವಿಸರ್ಜನೆ - ಹೆಚ್ಚುವರಿ ನೀರು (H₂O) ಆವಿಯ ರೂಪದಲ್ಲಿ ಹೊರಹೋಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a single open stoma. An arrow labeled 'CO₂' points into the pore. An arrow labeled 'O₂' points out of the pore. A third, wavy arrow labeled 'H₂O ಆವಿ' (water vapor) also points out of the pore. This visually shows both gas exchange and transpiration.",
+    "labels": "CO₂, O₂, H₂O ಆವಿ, ಅನಿಲ ವಿನಿಮಯ, ಬಾಷ್ಪವಿಸರ್ಜನೆ",
+    "scientific_significance": "Visually combines the processes of gas exchange and transpiration occurring through a single stoma, reinforcing its multifunctional role.",
+    "placeholder_note": "Image to be generated showing a stoma with arrows for CO2 in, O2 out, and H2O vapor out."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_7_concept_7_chunk_011"
+}

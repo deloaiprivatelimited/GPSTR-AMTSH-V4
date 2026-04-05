@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಮ್ಮ ಮಸೂರ (Concave Lens)",
+  "script": "ಈಗ ಎರಡನೇ ವಿಧವಾದ ನಿಮ್ಮ ಮಸೂರದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇದು ಪೀನ ಮಸೂರಕ್ಕೆ ತದ್ವಿರುದ್ಧವಾಗಿದೆ. ನಿಮ್ಮ ಮಸೂರವು ಮಧ್ಯದಲ್ಲಿ ತೆಳುವಾಗಿದ್ದು, ಅಂಚುಗಳಲ್ಲಿ ದಪ್ಪನಾಗಿರುತ್ತದೆ. ಇದರ ಮೂಲಕ ಬೆಳಕಿನ ಸಮಾಂತರ ಕಿರಣಗಳು ಹಾದುಹೋದಾಗ, ಅವು ಒಳಗೆ ಬಾಗುವ ಬದಲು ಹೊರಕ್ಕೆ ಹರಡುತ್ತವೆ. ಅಂದರೆ, ಇದು ಬೆಳಕನ್ನು ವಿಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ. ಈ ಕಾರಣದಿಂದಾಗಿಯೇ ಇದನ್ನು ವಿಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಇದು ಸಾಮಾನ್ಯವಾಗಿ ವಸ್ತುಗಳ ಚಿಕ್ಕದಾದ ಪ್ರತಿಬಿಂಬವನ್ನು ರೂಪಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ವಿಧವಾದ ನಿಮ್ಮ ಮಸೂರ (Concave Lens) ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇದು ಪೀನ ಮಸೂರಕ್ಕೆ ತದ್ವಿರುದ್ಧವಾಗಿದೆ. ನಿಮ್ಮ ಮಸೂರವು ಮಧ್ಯದಲ್ಲಿ ತೆಳುವಾಗಿದ್ದು, ಅಂಚುಗಳಲ್ಲಿ ದಪ್ಪನಾಗಿರುತ್ತದೆ. ಇದರ ಮೂಲಕ ಬೆಳಕಿನ ಸಮಾಂತರ ಕಿರಣಗಳು ಹಾದುಹೋದಾಗ, ಅವು ಒಳಗೆ ಬಾಗುವ ಬದಲು ಹೊರಕ್ಕೆ ಹರಡುತ್ತವೆ. ಅಂದರೆ, ಇದು ಬೆಳಕನ್ನು ವಿಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ. ಈ ಕಾರಣದಿಂದಾಗಿಯೇ ಇದನ್ನು **ವಿಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ (Diverging Lens)** ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಇದು ಸಾಮಾನ್ಯವಾಗಿ ವಸ್ತುಗಳ ಚಿಕ್ಕದಾದ ಪ್ರತಿಬಿಂಬವನ್ನು ರೂಪಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಆಕಾರ: ಮಧ್ಯದಲ್ಲಿ ತೆಳು, ಅಂಚುಗಳಲ್ಲಿ ದಪ್ಪ.",
+    "ಬೆಳಕಿನ ಮೇಲೆ ಪರಿಣಾಮ: ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನು ವಿಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ (Diverges).",
+    "ಇನ್ನೊಂದು ಹೆಸರು: ವಿಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ (Diverging Lens)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a concave lens. Parallel rays of light enter from the left, pass through the lens, and diverge (spread out) as if coming from a virtual focal point on the left. The lens is thinner in the middle and thicker at the edges.",
+    "labels": "ನಿಮ್ಮ ಮಸೂರ, ಸಮಾಂತರ ಕಿರಣಗಳು, ವಿಕೇಂದ್ರೀಕೃತ ಕಿರಣಗಳು",
+    "scientific_significance": "Illustrates the diverging property of a concave lens, which is key to its use in correcting nearsightedness and in optical instruments like telescopes.",
+    "placeholder_note": "Image to be generated showing light diverging through a concave lens."
+  },
+  "chunk_id": "std_7_chapter_11_concept_6_chunk_004"
+}

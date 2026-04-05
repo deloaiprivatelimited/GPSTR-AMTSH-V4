@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ತುಕ್ಕು ಹಿಡಿಯಲು ಏನು ಬೇಕು?",
+  "script": "ತುಕ್ಕು ಹಿಡಿಯುವ ಪ್ರಕ್ರಿಯೆ ನಡೆಯಲು ಎರಡು ಮುಖ್ಯ ಅಂಶಗಳು ಅತ್ಯಗತ್ಯ. ಮೊದಲನೆಯದು ಆಮ್ಲಜನಕ, ಇದು ನಮಗೆ ಗಾಳಿಯಿಂದ ಸಿಗುತ್ತದೆ. ಎರಡನೆಯದು ನೀರು ಅಥವಾ ತೇವಾಂಶ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಒಂದು ಕಬ್ಬಿಣದ ತುಂಡು ಇದೆ. ಗಾಳಿಯಲ್ಲಿರುವ ಆಮ್ಲಜನಕ ಮತ್ತು ನೀರಿನ ಹನಿಗಳು ಅದರ ಮೇಲೆ ಬಿದ್ದಾಗ, ಒಂದು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ಆರಂಭವಾಗುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ, ಕಬ್ಬಿಣದ ಮೇಲ್ಮೈಯಲ್ಲಿ ತುಕ್ಕು ಎಂಬ ಹೊಸ ಪದರವು ರೂಪುಗೊಳ್ಳುತ್ತದೆ. ನೆನಪಿಡಿ, ಕೇವಲ ಆಮ್ಲಜನಕ ಅಥವಾ ಕೇವಲ ನೀರು ಇದ್ದರೆ ತುಕ್ಕು ಹಿಡಿಯುವ ಪ್ರಕ್ರಿಯೆ ನಡೆಯುವುದಿಲ್ಲ. ಇವೆರಡೂ ಒಟ್ಟಿಗೆ ಇದ್ದಾಗ ಮಾತ್ರ ಕಬ್ಬಿಣವು ತುಕ್ಕು ಹಿಡಿಯುತ್ತದೆ.",
+  "script_display": "ತುಕ್ಕು ಹಿಡಿಯುವ ಪ್ರಕ್ರಿಯೆ ನಡೆಯಲು ಎರಡು ಮುಖ್ಯ ಅಂಶಗಳು ಅತ್ಯಗತ್ಯ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಕಬ್ಬಿಣದ ತುಂಡು (Iron) ಗಾಳಿಯಲ್ಲಿರುವ ಆಮ್ಲಜನಕ ಮತ್ತು ನೀರಿನೊಂದಿಗೆ ಸಂಪರ್ಕಕ್ಕೆ ಬಂದಾಗ, ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆದು ತುಕ್ಕು (Rust) ಉಂಟಾಗುವುದನ್ನು ತೋರಿಸಲಾಗಿದೆ.",
+  "display_bullets": [
+    "ಅಗತ್ಯ ಅಂಶ 1: ಆಮ್ಲಜನಕ (ಗಾಳಿಯಿಂದ)",
+    "ಅಗತ್ಯ ಅಂಶ 2: ನೀರು ಅಥವಾ ತೇವಾಂಶ",
+    "ಫಲಿತಾಂಶ: ಕಬ್ಬಿಣದ ಮೇಲ್ಮೈಯಲ್ಲಿ ತುಕ್ಕು (ಜಲಯುಕ್ತ ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್) ಉಂಟಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a piece of iron. Arrows indicating Oxygen (O₂) from the air and Water (H₂O) droplets are pointing towards the iron. A flaky, brownish layer labeled 'Rust (Fe₂O₃·xH₂O)' is shown forming on the surface of the iron.",
+    "labels": "ಕಬ್ಬಿಣ (Iron), ಆಮ್ಲಜನಕ (Oxygen), ನೀರು (Water), ತುಕ್ಕು (Rust)",
+    "scientific_significance": "Visually demonstrates the two essential components (oxygen and water) required for the chemical reaction of rusting to occur on an iron surface.",
+    "placeholder_note": "Image to be generated showing the process of rusting."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_5_concept_3_chunk_004"
+}

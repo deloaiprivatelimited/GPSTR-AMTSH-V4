@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹದ ಉದಾಹರಣೆ ನೋಡೋಣ. ನಮ್ಮ ಭೂಮಿಯ ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹ ಯಾವುದು? ಹೌದು, ಅದು ಚಂದ್ರ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಚಂದ್ರನು ಭೂಮಿಯ ಸುತ್ತ ಒಂದು ನಿರ್ದಿಷ್ಟ ಪಥದಲ್ಲಿ ಸುತ್ತುತ್ತಿದ್ದಾನೆ. ಭೂಮಿಯು ಸೂರ್ಯನ ಸುತ್ತ ಸುತ್ತುವಂತೆಯೇ, ಚಂದ್ರನು ಭೂಮಿಯ ಸುತ್ತ ಸುತ್ತುತ್ತಾನೆ. ಈ ಕಾರಣದಿಂದಲೇ ಚಂದ್ರನನ್ನು ಭೂಮಿಯ 'ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಹೀಗೆಯೇ, ಸೌರವ್ಯೂಹದ ಬೇರೆ ಗ್ರಹಗಳಿಗೂ ತಮ್ಮದೇ ಆದ ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹಗಳಿವೆ. ಉದಾಹರಣೆಗೆ, ಗುರು ಗ್ರಹಕ್ಕೆ ಎಪ್ಪತ್ತಕ್ಕೂ ಹೆಚ್ಚು ಉಪಗ್ರಹಗಳಿವೆ.",
+  "script_display": "ಈಗ ಒಂದು ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹದ (Natural Satellite) ಉದಾಹರಣೆ ನೋಡೋಣ. ನಮ್ಮ ಭೂಮಿಯ ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹ ಯಾವುದು? ಹೌದು, ಅದು ಚಂದ್ರ (Moon). ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಚಂದ್ರನು ಭೂಮಿಯ ಸುತ್ತ ಒಂದು ನಿರ್ದಿಷ್ಟ ಪಥದಲ್ಲಿ ಸುತ್ತುತ್ತಿದ್ದಾನೆ. ಭೂಮಿಯು ಸೂರ್ಯನ ಸುತ್ತ ಸುತ್ತುವಂತೆಯೇ, ಚಂದ್ರನು ಭೂಮಿಯ ಸುತ್ತ ಸುತ್ತುತ್ತಾನೆ. ಈ ಕಾರಣದಿಂದಲೇ ಚಂದ್ರನನ್ನು ಭೂಮಿಯ 'ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಹೀಗೆಯೇ, ಸೌರವ್ಯೂಹದ ಬೇರೆ ಗ್ರಹಗಳಿಗೂ ತಮ್ಮದೇ ಆದ ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹಗಳಿವೆ. ಉದಾಹರಣೆಗೆ, ಗುರು ಗ್ರಹಕ್ಕೆ 70ಕ್ಕೂ ಹೆಚ್ಚು ಉಪಗ್ರಹಗಳಿವೆ.",
+  "display_bullets": [
+    "ಚಂದ್ರನು ಭೂಮಿಯ ಏಕೈಕ ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹ.",
+    "ಭೂಮಿಯು ಸೂರ್ಯನ ಸುತ್ತ ಸುತ್ತುವಂತೆ, ಚಂದ್ರನು ಭೂಮಿಯ ಸುತ್ತ ಸುತ್ತುತ್ತಾನೆ.",
+    "ಇತರ ಗ್ರಹಗಳಿಗೂ ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹಗಳಿವೆ (ಉದಾ: ಗುರು ಗ್ರಹ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing the Earth at the center and the Moon revolving around it in an elliptical orbit. The orbit path should be clearly marked with an arrow indicating the direction of revolution.",
+    "labels": "ಭೂಮಿ (Earth), ಚಂದ್ರ (Moon), ಪರಿಭ್ರಮಣಾ ಕಕ್ಷೆ (Orbit)",
+    "scientific_significance": "Illustrates the core concept of a satellite (the Moon) orbiting a planet (the Earth), which is the definition of a natural satellite.",
+    "placeholder_note": "Image to be generated showing Moon orbiting Earth."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_12_concept_3_chunk_004"
+}

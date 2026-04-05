@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಶ್ವಾಸದ ಕಾರ್ಯವಿಧಾನ",
+  "script": "ನಿಶ್ವಾಸದ ಸಮಯದಲ್ಲಿ ನಮ್ಮ ದೇಹದಲ್ಲಿ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ನಮ್ಮ ಪಕ್ಕೆಲುಬುಗಳು ಕೆಳಕ್ಕೆ ಮತ್ತು ಒಳಕ್ಕೆ ಚಲಿಸುತ್ತವೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ನಮ್ಮ ಎದೆಯ ಗೂಡಿನ ಕೆಳಗಿರುವ ವಪೆ ಅಂದರೆ ಡಯಾಫ್ರಮ್, ಮೇಲಕ್ಕೆ ಚಲಿಸುತ್ತದೆ. ಈ ಎರಡೂ ಚಲನೆಗಳಿಂದ, ನಮ್ಮ ಎದೆಯ ಗೂಡಿನ ಒಳಭಾಗದ ಸ್ಥಳ ಅಥವಾ ಗಾತ್ರ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಈ ಒತ್ತಡದಿಂದಾಗಿ, ಶ್ವಾಸಕೋಶದಲ್ಲಿರುವ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೆಡ್ ಯುಕ್ತ ಗಾಳಿಯು ಹೊರಹೋಗುತ್ತದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಪಕ್ಕೆಲುಬುಗಳು ಮತ್ತು ವಪೆಯ ಚಲನೆಯನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು.",
+  "script_display": "ನಿಶ್ವಾಸದ ಸಮಯದಲ್ಲಿ ನಮ್ಮ ದೇಹದಲ್ಲಿ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ನಮ್ಮ ಪಕ್ಕೆಲುಬುಗಳು ಕೆಳಕ್ಕೆ ಮತ್ತು ಒಳಕ್ಕೆ ಚಲಿಸುತ್ತವೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ನಮ್ಮ ಎದೆಯ ಗೂಡಿನ ಕೆಳಗಿರುವ ವಪೆ (Diaphragm), ಮೇಲಕ್ಕೆ ಚಲಿಸುತ್ತದೆ. ಈ ಎರಡೂ ಚಲನೆಗಳಿಂದ, ನಮ್ಮ ಎದೆಯ ಗೂಡಿನ ಒಳಭಾಗದ ಸ್ಥಳ ಅಥವಾ ಗಾತ್ರ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಈ ಒತ್ತಡದಿಂದಾಗಿ, ಶ್ವಾಸಕೋಶದಲ್ಲಿರುವ CO₂ ಯುಕ್ತ ಗಾಳಿಯು ಹೊರಹೋಗುತ್ತದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಪಕ್ಕೆಲುಬುಗಳು ಮತ್ತು ವಪೆಯ ಚಲನೆಯನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು.",
+  "display_bullets": [
+    "ಪಕ್ಕೆಲುಬುಗಳು ಕೆಳಕ್ಕೆ ಮತ್ತು ಒಳಕ್ಕೆ ಚಲಿಸುತ್ತವೆ.",
+    "ವಪೆ (Diaphragm) ಮೇಲಕ್ಕೆ ಚಲಿಸುತ್ತದೆ.",
+    "ಎದೆಯ ಗೂಡಿನ ಗಾತ್ರ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+    "ಶ್ವಾಸಕೋಶದಿಂದ ಗಾಳಿಯು ಹೊರಹೋಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_sky",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of the human respiratory system during exhalation. The ribs are shown moving downwards and inwards, and the diaphragm is shown in a relaxed, upwardly curved position. An arrow points out of the mouth/nose, indicating air leaving the body. The chest cavity is visibly smaller compared to inhalation.",
+    "labels": "Lungs, Ribs (moving down and in), Diaphragm (moving up), Air (CO2 rich) exiting",
+    "scientific_significance": "Illustrates the mechanical process of exhalation, showing how the relaxation of intercostal muscles and the diaphragm decrease thoracic volume, forcing air out of the lungs.",
+    "placeholder_note": "Image to be generated showing the mechanics of exhalation."
+  },
+  "chunk_id": "std_7_chapter_6_concept_3_chunk_010"
+}

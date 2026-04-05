@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ. ಟು ಸಿ ಯು ಪ್ಲಸ್ ಓ ಟು ಗಿವ್ಸ್ ಟು ಸಿ ಯು ಓ. ಅಂದರೆ, ಎರಡು ಘನರೂಪದ ತಾಮ್ರದ ಪರಮಾಣುಗಳು, ಅನಿಲರೂಪದ ಒಂದು ಆಕ್ಸಿಜನ್ ಅಣುವಿನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎರಡು ಘನರೂಪದ ತಾಮ್ರದ ಎರಡು ಆಕ್ಸೈಡ್ ಅಣುಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಇಲ್ಲಿ ಬಾಣದ ಮೇಲಿರುವ ಚಿಹ್ನೆಯು ಕಾಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ: 2Cu(s) + O₂(g) → 2CuO(s). ಅಂದರೆ, ಎರಡು ಘನರೂಪದ ತಾಮ್ರದ ಪರಮಾಣುಗಳು, ಅನಿಲರೂಪದ ಒಂದು ಆಕ್ಸಿಜನ್ ಅಣುವಿನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎರಡು ಘನರೂಪದ ತಾಮ್ರದ(II) ಆಕ್ಸೈಡ್ ಅಣುಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಇಲ್ಲಿ ಬಾಣದ ಮೇಲಿರುವ ಚಿಹ್ನೆಯು ಕಾಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2\\text{Cu}(\\text{s}) + \\text{O}_2(\\text{g}) \\xrightarrow{\\Delta} 2\\text{CuO}(\\text{s})",
+    "placeholder_note": "Balanced chemical equation for the oxidation of copper. The delta symbol over the arrow indicates that heat is supplied."
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_017"
+}

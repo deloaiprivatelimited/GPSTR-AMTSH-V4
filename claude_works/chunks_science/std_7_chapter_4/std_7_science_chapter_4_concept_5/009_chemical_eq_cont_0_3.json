@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+  "script": "ಇದನ್ನು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ವಾತಾವರಣದಲ್ಲಿರುವ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅಣುವು, ಮಳೆಯ ಹನಿಯಾಗಿರುವ ನೀರಿನ ಅಣುವಿನೊಂದಿಗೆ ಸೇರಿಕೊಳ್ಳುತ್ತದೆ. ಈ ಸಂಯೋಜನೆಯಿಂದ, ಹೊಸದಾದ ಕಾರ್ಬೋನಿಕ್ ಆಮ್ಲದ ಅಣುವು ರೂಪುಗೊಳ್ಳುತ್ತದೆ. ಈ ಕಾರ್ಬೋನಿಕ್ ಆಮ್ಲವು ಮಳೆನೀರನ್ನು ಸ್ವಲ್ಪ ಆಮ್ಲೀಯವಾಗಿಸುತ್ತದೆ.",
+  "script_display": "ಇದನ್ನು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "display_bullets": [
+    "ವಾತಾವರಣದಲ್ಲಿನ CO₂ ಅಣು ಮಳೆಹನಿಯಲ್ಲಿನ H₂O ಅಣುವಿನೊಂದಿಗೆ ಸೇರುತ್ತದೆ.",
+    "ಈ ಸಂಯೋಜನೆಯಿಂದ ಹೊಸ H₂CO₃ ಅಣು (ಕಾರ್ಬೋನಿಕ್ ಆಮ್ಲ) ರಚನೆಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dynamic_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple molecular diagram showing one CO2 molecule and one H2O molecule on the left, with an arrow pointing to one H2CO3 molecule on the right. The background should be atmospheric, with clouds and raindrops.",
+    "labels": "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂), ನೀರು (H₂O), ಕಾರ್ಬೋನಿಕ್ ಆಮ್ಲ (H₂CO₃)",
+    "scientific_significance": "Illustrates the synthesis reaction where atmospheric carbon dioxide dissolves in water to form carbonic acid. This is the fundamental reaction that makes natural rainwater slightly acidic.",
+    "placeholder_note": "Image to be generated showing a CO2 molecule and H2O molecule combining to form an H2CO3 molecule."
+  },
+  "chunk_id": "std_7_science_chapter_4_concept_5_chunk_009"
+}

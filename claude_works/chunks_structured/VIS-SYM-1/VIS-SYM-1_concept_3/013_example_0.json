@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೆಳಗಿನ ಕೋಷ್ಟಕದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಆಕೃತಿಗಳ ಪರಿಭ್ರಮಣಾ ಕೇಂದ್ರ, ಕ್ರಮ ಮತ್ತು ಕೋನವನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಾವು ಈ ಕೆಳಗಿನ ಆಕೃತಿಗಳನ್ನು ವಿಶ್ಲೇಷಿಸುತ್ತೇವೆ: ಚೌಕ, ಆಯತ, ಸಮಬಾಹು ತ್ರಿಭುಜ, ಮತ್ತು ವೃತ್ತ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೆಳಗಿನ ಕೋಷ್ಟಕದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಆಕೃತಿಗಳ ಪರಿಭ್ರಮಣಾ ಕೇಂದ್ರ, ಕ್ರಮ ಮತ್ತು ಕೋನವನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಾವು ಈ ಕೆಳಗಿನ ಆಕೃತಿಗಳನ್ನು ವಿಶ್ಲೇಷಿಸುತ್ತೇವೆ: ಚೌಕ, ಆಯತ, ಸಮಬಾಹು ತ್ರಿಭುಜ, ಮತ್ತು ವೃತ್ತ.",
+  "display_bullets": [
+    "ಚೌಕ (Square)",
+    "ಆಯತ (Rectangle)",
+    "ಸಮಬಾಹು ತ್ರಿಭುಜ (Equilateral Triangle)",
+    "ವೃತ್ತ (Circle)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A table with shapes in the first column and empty columns for Center, Order, and Angle of Rotation. This sets up the problem visually for the user to understand what needs to be filled in. The rows are Square, Rectangle, Equilateral Triangle, and Circle. The columns are 'ಆಕೃತಿ', 'ಪರಿಭ್ರಮಣಾ ಕೇಂದ್ರ', 'ಪರಿಭ್ರಮಣೆಯ ಕ್ರಮ', 'ಪರಿಭ್ರಮಣಾ ಕೋನ'. The last three columns are empty initially."
+  },
+  "source_example_id": "VIS-SYM-1_example_3",
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "VIS-SYM-1_concept_3_chunk_013"
+}

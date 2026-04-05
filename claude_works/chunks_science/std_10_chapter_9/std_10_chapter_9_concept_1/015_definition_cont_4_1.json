@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಪತನ ಕೋನ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈಗ, ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಒಂದು ಸಮತಲ ದರ್ಪಣವನ್ನು ತೋರಿಸಲಾಗಿದೆ, ಅದು ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈಯಾಗಿದೆ. ಒಂದು ಬೆಳಕಿನ ಕಿರಣ, ಅಂದರೆ ಪತನ ಕಿರಣ, ದರ್ಪಣದ ಮೇಲೆ ಬಂದು ಬೀಳುತ್ತಿದೆ. ನಾವು ಕಿರಣವು ತಾಗುವ ಬಿಂದುವಿನಲ್ಲಿ ದರ್ಪಣಕ್ಕೆ ಲಂಬವಾಗಿ ಒಂದು ರೇಖೆಯನ್ನು ಎಳೆದಿದ್ದೇವೆ. ಇದನ್ನು ಲಂಬ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವೆ ಉಂಟಾಗುವ ಕೋನವೇ ಪತನ ಕೋನ. ಚಿತ್ರದಲ್ಲಿ ಇದನ್ನು ಐ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಈ ಕೋನವು ಪ್ರತಿಫಲನದ ನಿಯಮಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಮೂಲಭೂತವಾಗಿದೆ.",
+  "script_display": "ಈಗ, ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಒಂದು ಸಮತಲ ದರ್ಪಣವನ್ನು ತೋರಿಸಲಾಗಿದೆ, ಅದು ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈಯಾಗಿದೆ. ಒಂದು ಬೆಳಕಿನ ಕಿರಣ (ಪತನ ಕಿರಣ) ದರ್ಪಣದ ಮೇಲೆ ಬಂದು ಬೀಳುತ್ತಿದೆ. ನಾವು ಕಿರಣವು ತಾಗುವ ಬಿಂದುವಿನಲ್ಲಿ ದರ್ಪಣಕ್ಕೆ ಲಂಬವಾಗಿ ಒಂದು ರೇಖೆಯನ್ನು ಎಳೆದಿದ್ದೇವೆ. ಇದನ್ನು 'ಲಂಬ' (Normal) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವೆ ಉಂಟಾಗುವ ಕೋನವೇ 'ಪತನ ಕೋನ'. ಚಿತ್ರದಲ್ಲಿ ಇದನ್ನು 'i' ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಈ ಕೋನವು ಪ್ರತಿಫಲನದ ನಿಯಮಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಮೂಲಭೂತವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈ (ದರ್ಪಣ).",
+    "ಪತನ ಕಿರಣ (Incident Ray) ಮೇಲ್ಮೈಯನ್ನು ತಾಗುತ್ತದೆ.",
+    "ಲಂಬ (Normal) ಎಂಬುದು ಮೇಲ್ಮೈಗೆ 90° ಕೋನದಲ್ಲಿರುವ ರೇಖೆ.",
+    "ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನವೇ ಪತನ ಕೋನ (i)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a flat reflecting surface (like a mirror). An incident ray of light hits the surface. A normal line is drawn perpendicular to the surface at the point of incidence. The angle of incidence (i) is clearly marked between the incident ray and the normal.",
+    "labels": "Reflecting Surface, Incident Ray, Normal, Angle of Incidence (i)",
+    "scientific_significance": "This diagram visually defines the angle of incidence, which is a fundamental parameter in the laws of reflection and refraction.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_9_concept_1_chunk_015"
+}

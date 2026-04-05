@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆವೀಕರಣದ ದರ: ಉಷ್ಣತೆ",
+  "script": "ಮುಂದಿನ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ ಉಷ್ಣತೆ. ಸುತ್ತಮುತ್ತಲಿನ ಉಷ್ಣತೆ ಹೆಚ್ಚಾದಾಗ, ಆವೀಕರಣದ ದರವೂ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಇದಕ್ಕೆ ಕಾರಣ, ಹೆಚ್ಚಿನ ಉಷ್ಣತೆಯು ನೀರಿನ ಕಣಗಳಿಗೆ ಹೆಚ್ಚು ಚಲನ ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ. ಈ ಹೆಚ್ಚುವರಿ ಶಕ್ತಿಯಿಂದಾಗಿ, ಕಣಗಳು ದ್ರವದ ಮೇಲ್ಮೈಯಿಂದ ತಪ್ಪಿಸಿಕೊಂಡು ಆವಿಯಾಗುವುದು ಸುಲಭವಾಗುತ್ತದೆ. ಇದಕ್ಕಾಗಿಯೇ ಬಿಸಿಲಿರುವ ದಿನಗಳಲ್ಲಿ ಬಟ್ಟೆಗಳು ಬೇಗನೆ ಒಣಗುತ್ತವೆ. ನೆರಳಿನಲ್ಲಿಟ್ಟ ನೀರಿಗಿಂತ ಸೂರ್ಯನ ಬೆಳಕಿನಲ್ಲಿಟ್ಟ ನೀರು ಬೇಗ ಆವಿಯಾಗುವುದನ್ನು ನೀವು ಗಮನಿಸಿರಬಹುದು.",
+  "script_display": "ಮುಂದಿನ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ ಉಷ್ಣತೆ (Temperature). ಸುತ್ತಮುತ್ತಲಿನ ಉಷ್ಣತೆ ಹೆಚ್ಚಾದಾಗ, ಆವೀಕರಣದ ದರವೂ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಇದಕ್ಕೆ ಕಾರಣ, ಹೆಚ್ಚಿನ ಉಷ್ಣತೆಯು ನೀರಿನ ಕಣಗಳಿಗೆ ಹೆಚ್ಚು ಚಲನ ಶಕ್ತಿಯನ್ನು (kinetic energy) ನೀಡುತ್ತದೆ. ಈ ಹೆಚ್ಚುವರಿ ಶಕ್ತಿಯಿಂದಾಗಿ, ಕಣಗಳು ದ್ರವದ ಮೇಲ್ಮೈಯಿಂದ ತಪ್ಪಿಸಿಕೊಂಡು ಆವಿಯಾಗುವುದು ಸುಲಭವಾಗುತ್ತದೆ. ಇದಕ್ಕಾಗಿಯೇ ಬಿಸಿಲಿರುವ ದಿನಗಳಲ್ಲಿ ಬಟ್ಟೆಗಳು ಬೇಗನೆ ಒಣಗುತ್ತವೆ. ನೆರಳಿನಲ್ಲಿಟ್ಟ ನೀರಿಗಿಂತ ಸೂರ್ಯನ ಬೆಳಕಿನಲ್ಲಿಟ್ಟ ನೀರು ಬೇಗ ಆವಿಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉಷ್ಣತೆ ಹೆಚ್ಚಾದಂತೆ, ಆವೀಕರಣದ ದರ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+    "ಉದಾಹರಣೆ: ಬೇಸಿಗೆಯಲ್ಲಿ ಬಟ್ಟೆಗಳು ಬೇಗ ಒಣಗುತ್ತವೆ.",
+    "ವಿವರಣೆ: ಹೆಚ್ಚಿನ ಉಷ್ಣತೆಯು ನೀರಿನ ಕಣಗಳಿಗೆ ಹೆಚ್ಚು ಚಲನ ಶಕ್ತಿಯನ್ನು ನೀಡಿ, ಅವು ಬೇಗ ಆವಿಯಾಗುವಂತೆ ಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side comparison. Left: A container of water in a cool, shady environment with few evaporation arrows. Right: A container of water under a bright sun with many evaporation arrows.",
+    "labels": "ಕಡಿಮೆ ಉಷ್ಣತೆ (ನಿಧಾನ ಆವೀಕರಣ), ಹೆಚ್ಚು ಉಷ್ಣತೆ (ವೇಗದ ಆವೀಕರಣ)",
+    "scientific_significance": "Illustrates the direct relationship between temperature and the rate of evaporation, linking it to the kinetic energy of particles.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "property_classification",
+  "chunk_id": "std_6_chapter_8_concept_4_chunk_007"
+}

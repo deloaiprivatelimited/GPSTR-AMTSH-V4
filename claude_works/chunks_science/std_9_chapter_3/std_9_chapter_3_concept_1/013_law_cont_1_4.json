@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಮತ್ತೊಂದು ಉದಾಹರಣೆ: ಅಮೋನಿಯಾ (NH₃)",
+  "script": "ಈ ನಿಯಮವನ್ನು ಇನ್ನಷ್ಟು ದೃಢಪಡಿಸಲು ಅಮೋನಿಯಾದ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಅಮೋನಿಯಾದ ರಾಸಾಯನಿಕ ಸೂತ್ರ N H three. ಇದು ನೈಟ್ರೋಜನ್ ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಧಾತುಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ. ನೈಟ್ರೋಜನ್‌ನ ಪರಮಾಣು ರಾಶಿ ಹದಿನಾಲ್ಕು ಯು ಮತ್ತು ಹೈಡ್ರೋಜನ್‌ನ ಪರಮಾಣು ರಾಶಿ ಒಂದು ಯು. ಅಮೋನಿಯಾದ ಒಂದು ಅಣುವಿನಲ್ಲಿ ಒಂದು ನೈಟ್ರೋಜನ್ ಪರಮಾಣು ಮತ್ತು ಮೂರು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳಿವೆ. ಹಾಗಾಗಿ, ಅವುಗಳ ರಾಶಿಯ ಅನುಪಾತವು ಹದಿನಾಲ್ಕಕ್ಕೆ ಮೂರು ಆಗಿರುತ್ತದೆ. ನೀವು ಯಾವುದೇ ವಿಧಾನದಲ್ಲಿ ಅಮೋನಿಯಾವನ್ನು ತಯಾರಿಸಿದರೂ, ಅದರಲ್ಲಿ ನೈಟ್ರೋಜನ್ ಮತ್ತು ಹೈಡ್ರೋಜನ್‌ನ ರಾಶಿಯ ಅನುಪಾತವು ಯಾವಾಗಲೂ ಹದಿನಾಲ್ಕಕ್ಕೆ ಮೂರು ಆಗಿರುತ್ತದೆ.",
+  "script_display": "ಈ ನಿಯಮವನ್ನು ಇನ್ನಷ್ಟು ದೃಢಪಡಿಸಲು ಅಮೋನಿಯಾ (NH₃) ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇದು ನೈಟ್ರೋಜನ್ (N) ಮತ್ತು ಹೈಡ್ರೋಜನ್ (H) ಧಾತುಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ.",
+  "display_bullets": [
+    "ನೈಟ್ರೋಜನ್ ಪರಮಾಣು ರಾಶಿ (N) ≈ 14 u",
+    "ಹೈಡ್ರೋಜನ್ ಪರಮಾಣು ರಾಶಿ (H) ≈ 1 u",
+    "ಅಮೋನಿಯಾ ಸೂತ್ರ NH₃, ಅಂದರೆ 1 N ಪರಮಾಣು ಮತ್ತು 3 H ಪರಮಾಣುಗಳು.",
+    "ರಾಶಿಗಳ ಅನುಪಾತ (N : H) = (1 × 14) : (3 × 1) = 14 : 3"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "light_and_clean",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{Ratio by mass (N:H)} \\\\ = (1 \\times m_N) : (3 \\times m_H) \\\\ = (1 \\times 14) : (3 \\times 1) \\\\ = \\bf{14 : 3}",
+    "placeholder_note": "Calculation showing the derivation of the 14:3 mass ratio for ammonia."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_3_concept_1_chunk_013"
+}

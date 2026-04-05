@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಗಮನಿಸಿ: ಕೋನ ಬದಲಾದರೆ ಅನುಪಾತವೂ ಬದಲಾಗುತ್ತದೆ",
+  "script": "ಈಗ, ಅದೇ ತ್ರಿಭುಜದಲ್ಲಿ C ಕೋನದ ಸೈನ್, ಅಂದರೆ sin C ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇಲ್ಲಿ ನಾವು C ಕೋನವನ್ನು ಪರಿಗಣಿಸುತ್ತಿದ್ದೇವೆ, A ಕೋನವನ್ನಲ್ಲ. C ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು AB, ಅದರ ಉದ್ದ 4. ವಿಕರ್ಣ AC, ಅದರ ಉದ್ದ 5, ಅದು ಬದಲಾಗುವುದಿಲ್ಲ. ಹಾಗಾಗಿ, sin C ಯ ಬೆಲೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ, ಅಂದರೆ 4 ಭಾಗಿಸು 5 ಆಗುತ್ತದೆ. ಗಮನಿಸಿ, sin A ಯ ಬೆಲೆ 3 ಭಾಗಿಸು 5 ಆಗಿದ್ದರೆ, sin C ಯ ಬೆಲೆ 4 ಭಾಗಿಸು 5 ಆಗಿದೆ. ಇದರಿಂದ ನಮಗೆ ತಿಳಿಯುವುದೇನೆಂದರೆ, ಅನುಪಾತವು ನಾವು ಯಾವ ಲಘುಕೋನವನ್ನು ಆಯ್ಕೆ ಮಾಡುತ್ತೇವೆ ಎಂಬುದರ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ.",
+  "script_display": "ಈಗ, ಅದೇ ತ್ರಿಭುಜದಲ್ಲಿ $\\sin C$ ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇಲ್ಲಿ ನಾವು $\\angle C$ ಯನ್ನು ಪರಿಗಣಿಸುತ್ತಿದ್ದೇವೆ, $\\angle A$ ಯನ್ನಲ್ಲ. $\\angle C$ ಗೆ ಅಭಿಮುಖ ಬಾಹು $AB$, ಅದರ ಉದ್ದ $4$. ವಿಕರ್ಣ $AC$, ಅದರ ಉದ್ದ $5$, ಅದು ಬದಲಾಗುವುದಿಲ್ಲ. ಹಾಗಾಗಿ, $\\sin C = \\frac{\\text{ಅಭಿಮುಖ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}} = \\frac{4}{5}$. ಗಮನಿಸಿ, $\\sin A = \\frac{3}{5}$ ಆಗಿದ್ದರೆ, $\\sin C = \\frac{4}{5}$ ಆಗಿದೆ. ಇದರಿಂದ ನಮಗೆ ತಿಳಿಯುವುದೇನೆಂದರೆ, ಅನುಪಾತವು ನಾವು ಯಾವ ಲಘುಕೋನವನ್ನು ಆಯ್ಕೆ ಮಾಡುತ್ತೇವೆ ಎಂಬುದರ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಅದೇ ತ್ರಿಭುಜದಲ್ಲಿ, ಈಗ $\\sin C$ ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.",
+    "$\\angle C$ ಗೆ, ಅಭಿಮುಖ ಬಾಹು = $AB = 4$.",
+    "ವಿಕರ್ಣ = $AC = 5$.",
+    "ಆದ್ದರಿಂದ, $\\sin C = \\frac{\\text{ಅಭಿಮುಖ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}} = \\frac{4}{5}$.",
+    "ಗಮನಿಸಿ: $\\sin A \\neq \\sin C$. ಅನುಪಾತವು ಕೋನವನ್ನು ಅವಲಂಬಿಸಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right-angled triangle ABC, right-angled at B, with sides AB=4, BC=3, AC=5. Used to compare sin A and sin C.",
+    "labels": "A, B, C, 3, 4, 5",
+    "mathematical_significance": "Demonstrates that the value of sine depends on the chosen acute angle.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_006"
+}

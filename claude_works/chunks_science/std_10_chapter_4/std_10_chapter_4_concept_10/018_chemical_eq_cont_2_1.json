@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತಟಸ್ಥೀಕರಣ ಸಮೀಕರಣ",
+  "script": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ. ಎಥನೋಯಿಕ್ ಆಮ್ಲವು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಜೊತೆ ವರ್ತಿಸಿ, ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್ ಮತ್ತು ನೀರನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತದೆ.",
+  "script_display": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ: $CH_3COOH(aq) + NaOH(aq) → CH_3COONa(aq) + H_2O(l)$",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_only",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CH_3COOH(aq) + NaOH(aq) \\rightarrow CH_3COONa(aq) + H_2O(l)",
+    "placeholder_note": "Display the balanced chemical equation for the neutralization of ethanoic acid with sodium hydroxide."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_018"
+}

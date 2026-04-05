@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಇಸ್ಪೀಟ್ ಕಾರ್ಡ್‌ಗಳು",
+  "script": "ಈಗ ಇಸ್ಪೀಟ್ ಕಾರ್ಡ್‌ಗಳ ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಚೆನ್ನಾಗಿ ಕಲಸಿದ 52 ಕಾರ್ಡ್‌ಗಳ ಪ್ಯಾಕ್‌ನಿಂದ ಒಂದು ಕಾರ್ಡ್ ಅನ್ನು ತೆಗೆಯಲಾಗಿದೆ. ಆ ಕಾರ್ಡ್ ಕೆಂಪು ಬಣ್ಣದ ಸ್ಪೇಡ್ ಕಾರ್ಡ್ ಆಗಿರುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು? ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಸ್ಪೇಡ್ ಕಾರ್ಡ್‌ಗಳು ಯಾವಾಗಲೂ ಕಪ್ಪು ಬಣ್ಣದಲ್ಲಿರುತ್ತವೆ. ಕೆಂಪು ಬಣ್ಣದ ಸ್ಪೇಡ್ ಕಾರ್ಡ್ ಇರುವುದೇ ಇಲ್ಲ. ಆದ್ದರಿಂದ, ಈ ಘಟನೆಗೆ ಅನುಕೂಲಕರವಾದ ಫಲಿತಗಳ ಸಂಖ್ಯೆ ಸೊನ್ನೆ. ಹಾಗಾಗಿ, ಇದರ ಸಂಭವನೀಯತೆಯು ಪಿ ಆಫ್ ಇ ಈಕ್ವಲ್ಸ್ ಸೊನ್ನೆ ಭಾಗಿಸು ಐವತ್ತೆರಡು, ಅಂದರೆ ಸೊನ್ನೆ ಆಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಇಸ್ಪೀಟ್ ಕಾರ್ಡ್‌ಗಳ ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಚೆನ್ನಾಗಿ ಕಲಸಿದ 52 ಕಾರ್ಡ್‌ಗಳ ಪ್ಯಾಕ್‌ನಿಂದ ಒಂದು ಕಾರ್ಡ್ ಅನ್ನು ತೆಗೆಯಲಾಗಿದೆ. ಆ ಕಾರ್ಡ್ ಕೆಂಪು ಬಣ್ಣದ ಸ್ಪೇಡ್ ಕಾರ್ಡ್ ಆಗಿರುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು? ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಸ್ಪೇಡ್ ಕಾರ್ಡ್‌ಗಳು ಯಾವಾಗಲೂ ಕಪ್ಪು ಬಣ್ಣದಲ್ಲಿರುತ್ತವೆ. ಕೆಂಪು ಬಣ್ಣದ ಸ್ಪೇಡ್ ಕಾರ್ಡ್ ಇರುವುದೇ ಇಲ್ಲ. ಆದ್ದರಿಂದ, ಈ ಘಟನೆಗೆ ಅನುಕೂಲಕರವಾದ ಫಲಿತಗಳ ಸಂಖ್ಯೆ 0. ಹಾಗಾಗಿ, ಇದರ ಸಂಭವನೀಯತೆಯು $P(E) = \\frac{0}{52} = 0$ ಆಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪ್ರಯೋಗ: 52 ಕಾರ್ಡ್‌ಗಳಿಂದ ಒಂದನ್ನು ಎಳೆಯುವುದು.",
+    "ಘಟನೆ E: ಕೆಂಪು ಬಣ್ಣದ ಸ್ಪೇಡ್ ಕಾರ್ಡ್ ಪಡೆಯುವುದು.",
+    "ವಿಶ್ಲೇಷಣೆ: ಸ್ಪೇಡ್ ಕಾರ್ಡ್‌ಗಳು ಯಾವಾಗಲೂ ಕಪ್ಪು ಬಣ್ಣದಲ್ಲಿರುತ್ತವೆ. ಕೆಂಪು ಸ್ಪೇಡ್ ಕಾರ್ಡ್ ಇಲ್ಲ.",
+    "ಅನುಕೂಲಕರ ಫಲಿತಗಳ ಸಂಖ್ಯೆ = 0.",
+    "ಸಂಭವನೀಯತೆ: $P(E) = \\frac{0}{52} = 0$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_visual_split",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An image showing the four suits of playing cards. The spade symbol is clearly black. A red spade symbol is shown next to it with a large cross mark over it.",
+    "labels": "card suits, spade, red spade, impossible",
+    "mathematical_significance": "Illustrates an event with no favorable outcomes within the defined sample space.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "PROB-BAS-1_concept_2_chunk_013"
+}

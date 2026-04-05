@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಯತದ ಗುಣಲಕ್ಷಣ 1: ಅಭಿಮುಖ ಬಾಹುಗಳು",
+  "script": "ಈಗ ನಾವು ಆಯತದ ಮೊದಲನೇ ಗುಣಲಕ್ಷಣವನ್ನು ನೋಡೋಣ. ಗುಣಲಕ್ಷಣ ಒಂದು ಹೇಳುವಂತೆ, ಆಯತದ ಅಭಿಮುಖ ಬಾಹುಗಳ ಉದ್ದಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಅಂದರೆ ಎದುರುಬದುರಾಗಿರುವ ಬಾಹುಗಳು ಒಂದೇ ಅಳತೆಯನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಚಿತ್ರದಲ್ಲಿರುವ ಎ ಬಿ ಸಿ ಡಿ ಆಯತದಲ್ಲಿ, ಎ ಬಿ ಬಾಹುವಿನ ಉದ್ದವು ಅದರ ಅಭಿಮುಖ ಬಾಹು ಸಿ ಡಿ ಯ ಉದ್ದಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ಹಾಗೆಯೇ, ಇನ್ನೊಂದು ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳಾದ ಬಿ ಸಿ ಮತ್ತು ಡಿ ಎ ಗಳ ಉದ್ದಗಳೂ ಸಹ ಸಮನಾಗಿರುತ್ತವೆ. ಒಂದು ವೇಳೆ ಎ ಬಿ ಯು 8 ಸೆಂಟಿಮೀಟರ್ ಇದ್ದರೆ, ಸಿ ಡಿ ಕೂಡ 8 ಸೆಂಟಿಮೀಟರ್ ಇರಲೇಬೇಕು. ಇದು ಆಯತದ ಒಂದು ಪ್ರಮುಖ ನಿಯಮ.",
+  "script_display": "ಈಗ ನಾವು ಆಯತದ ಮೊದಲನೇ ಗುಣಲಕ್ಷಣವನ್ನು ನೋಡೋಣ. ಗುಣಲಕ್ಷಣ 1 ಹೇಳುವಂತೆ, ಆಯತದ ಅಭಿಮುಖ ಬಾಹುಗಳ ಉದ್ದಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಅಂದರೆ ಎದುರುಬದುರಾಗಿರುವ ಬಾಹುಗಳು ಒಂದೇ ಅಳತೆಯನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಚಿತ್ರದಲ್ಲಿರುವ ABCD ಆಯತದಲ್ಲಿ, $AB$ ಬಾಹುವಿನ ಉದ್ದವು ಅದರ ಅಭಿಮುಖ ಬಾಹು $CD$ ಯ ಉದ್ದಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ಹಾಗೆಯೇ, ಇನ್ನೊಂದು ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳಾದ $BC$ ಮತ್ತು $DA$ ಗಳ ಉದ್ದಗಳೂ ಸಹ ಸಮನಾಗಿರುತ್ತವೆ. ಒಂದು ವೇಳೆ $AB$ ಯು 8 cm ಇದ್ದರೆ, $CD$ ಕೂಡ 8 cm ಇರಲೇಬೇಕು. ಇದು ಆಯತದ ಒಂದು ಪ್ರಮುಖ ನಿಯಮ.",
+  "display_bullets": [
+    "ಗುಣಲಕ್ಷಣ 1: ಆಯತದ ಅಭಿಮುಖ ಬಾಹುಗಳ ಉದ್ದಗಳು ಸಮವಾಗಿರುತ್ತವೆ.",
+    "ಉದಾಹರಣೆಗೆ, ABCD ಆಯತದಲ್ಲಿ, $AB = CD$.",
+    "ಹಾಗೆಯೇ, $BC = DA$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A rectangle ABCD. The sides AB and CD are highlighted and have identical tick marks (e.g., double ticks). The sides BC and DA are also highlighted and have identical tick marks (e.g., single ticks) to show they are equal to each other.",
+    "labels": "Vertices A, B, C, D; Sides AB, BC, CD, DA",
+    "mathematical_significance": "Visually demonstrates the property that opposite sides of a rectangle are equal in length.",
+    "placeholder_note": "Generate a rectangle ABCD. Use double tick marks on AB and CD. Use single tick marks on BC and DA."
+  },
+  "chunk_id": "VIS-CON-1_concept_2_chunk_016"
+}

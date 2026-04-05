@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ (Observation)",
+  "script": "ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ನಾವು ಒಂದು ಕುತೂಹಲಕಾರಿ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಬಹುದು. ಜ್ವಾಲೆಗೆ ಅತ್ಯಂತ ಹತ್ತಿರದಲ್ಲಿರುವ ಮೇಣದ ತುಣುಕು ಮೊದಲು ಕರಗಿ, ಕೆಳಗೆ ಬೀಳುತ್ತದೆ. ನಂತರ, ಅದರ ಪಕ್ಕದಲ್ಲಿದ್ದ ತುಣುಕು ಕರಗುತ್ತದೆ. ಹೀಗೆ ಒಂದರ ನಂತರ ಒಂದರಂತೆ, ಜ್ವಾಲೆಯಿಂದ ದೂರದಲ್ಲಿರುವ ಮೇಣದ ತುಣುಕುಗಳು ಕ್ರಮವಾಗಿ ಕರಗಿ ಬೀಳಲು ಪ್ರಾರಂಭಿಸುತ್ತವೆ. ಈ ವೀಕ್ಷಣೆಯು ಉಷ್ಣವು ಸರಳಿನ ಮೂಲಕ ಹೇಗೆ ಚಲಿಸುತ್ತಿದೆ ಎಂಬುದರ ಬಗ್ಗೆ ನಮಗೆ ಸ್ಪಷ್ಟವಾದ ಸುಳಿವನ್ನು ನೀಡುತ್ತದೆ. ಇದು ಹಂತ ಹಂತವಾಗಿ ನಡೆಯುವುದನ್ನು ಗಮನಿಸಿ.",
+  "script_display": "ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ನಾವು ಒಂದು ಕುತೂಹಲಕಾರಿ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಬಹುದು. ಜ್ವಾಲೆಗೆ ಅತ್ಯಂತ ಹತ್ತಿರದಲ್ಲಿರುವ ಮೇಣದ ತುಣುಕು ಮೊದಲು ಕರಗಿ, ಕೆಳಗೆ ಬೀಳುತ್ತದೆ. ನಂತರ, ಅದರ ಪಕ್ಕದಲ್ಲಿದ್ದ ತುಣುಕು ಕರಗುತ್ತದೆ. ಹೀಗೆ ಒಂದರ ನಂತರ ಒಂದರಂತೆ, ಜ್ವಾಲೆಯಿಂದ ದೂರದಲ್ಲಿರುವ ಮೇಣದ ತುಣುಕುಗಳು ಕ್ರಮವಾಗಿ ಕರಗಿ ಬೀಳಲು ಪ್ರಾರಂಭಿಸುತ್ತವೆ. ಈ ವೀಕ್ಷಣೆಯು ಉಷ್ಣವು ಸರಳಿನ ಮೂಲಕ ಹೇಗೆ ಚಲಿಸುತ್ತಿದೆ ಎಂಬುದರ ಬಗ್ಗೆ ನಮಗೆ ಸ್ಪಷ್ಟವಾದ ಸುಳಿವನ್ನು ನೀಡುತ್ತದೆ. ಇದು ಹಂತ ಹಂತವಾಗಿ ನಡೆಯುವುದನ್ನು ಗಮನಿಸಿ.",
+  "display_bullets": [
+    "ಜ್ವಾಲೆಗೆ ಹತ್ತಿರವಿರುವ ಮೇಣದ ತುಣುಕು ಮೊದಲು ಕರಗುತ್ತದೆ.",
+    "ನಂತರ, ಒಂದರ ನಂತರ ಒಂದರಂತೆ ದೂರದ ತುಣುಕುಗಳು ಕರಗಿ ಬೀಳುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A sequence of images or a single diagram showing the wax piece nearest the flame melting and falling, while the others are still intact. An arrow indicates the direction of heat flow.",
+    "labels": "ಉಷ್ಣದ ಹರಿವು, ಕರಗುತ್ತಿರುವ ಮೇಣ",
+    "scientific_significance": "Visually confirms that heat travels progressively along the solid from the hot end to the cold end.",
+    "placeholder_note": "Image to be generated showing the observation."
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_7_chapter_3_concept_4_chunk_016"
+}

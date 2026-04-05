@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿರ್ಜಲೀಕರಣ: ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಾವು ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ಮೂಲಕ ಹೀಗೆ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಜಲೀಯ ತಾಮ್ರದ ಸಲ್ಫೇಟ್, ಅಂದರೆ ಸಿ ಯು ಎಸ್ ಓ ಫೋರ್ ಡಾಟ್ ಫೈವ್ ಎಚ್ ಟು ಓ, ಇದನ್ನು ಉಷ್ಣ ನೀಡಿದಾಗ, ನಿರ್ಜಲ ತಾಮ್ರದ ಸಲ್ಫೇಟ್, ಅಂದರೆ ಸಿ ಯು ಎಸ್ ಓ ಫೋರ್, ಮತ್ತು ಐದು ನೀರಿನ ಅಣುಗಳು, ಅಂದರೆ ಫೈವ್ ಎಚ್ ಟು ಓ, ಆಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಾವು ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ಮೂಲಕ ಹೀಗೆ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಜಲೀಯ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ (CuSO₄·5H₂O), ಇದನ್ನು ಉಷ್ಣ ನೀಡಿದಾಗ, ನಿರ್ಜಲ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ (CuSO₄) ಮತ್ತು ಐದು ನೀರಿನ ಅಣುಗಳು (5H₂O) ಆಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_only",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{CuSO}_4 \\cdot 5\\text{H}_2\\text{O(s)} \\xrightarrow{\\text{ಉಷ್ಣ}} \\text{CuSO}_4\\text{(s)} + 5\\text{H}_2\\text{O(g)}",
+    "placeholder_note": "Dehydration of hydrated copper sulfate"
+  },
+  "chunk_id": "std_10_chapter_2_concept_10_chunk_010"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ನಾವು ಚಿತ್ರಿಸುವ ಚುಕ್ಕೆ vs ಗಣಿತದ ಬಿಂದು",
+  "script": "ನಾವು ಕಾಗದದ ಮೇಲೆ ಪೆನ್ಸಿಲ್‌ನಿಂದ ಒಂದು ಬಿಂದುವನ್ನು ಗುರುತಿಸಿದಾಗ, ನಾವು ಒಂದು ಚುಕ್ಕೆಯನ್ನು ಚಿತ್ರಿಸುತ್ತೇವೆ. ಆದರೆ ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸವನ್ನು ನಾವು ಗಮನಿಸಬೇಕು. ನಾವು ಚಿತ್ರಿಸುವ ಚುಕ್ಕೆಗೆ ಸ್ವಲ್ಪವಾದರೂ ಗಾತ್ರವಿರುತ್ತದೆ. ಅದನ್ನು ಸೂಕ್ಷ್ಮದರ್ಶಕದಡಿಯಲ್ಲಿ ನೋಡಿದರೆ, ಅದಕ್ಕೆ ಒಂದು ನಿರ್ದಿಷ್ಟ ಉದ್ದ ಮತ್ತು ಅಗಲ ಇರುವುದು ಕಾಣಿಸುತ್ತದೆ. ಆದರೆ, ಗಣಿತದ ಆದರ್ಶ ಬಿಂದು ಎಂಬುದು ಒಂದು ಪರಿಕಲ್ಪನೆ. ಅದಕ್ಕೆ ಯಾವುದೇ ಗಾತ್ರವಿಲ್ಲ. ಅದನ್ನು ಅಳೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ನಾವು ಚಿತ್ರಿಸುವ ಚುಕ್ಕೆ ಆ ಆದರ್ಶ ಬಿಂದುವಿನ ಒಂದು ಭೌತಿಕ ಪ್ರತಿನಿಧೀಕರಣವಷ್ಟೇ.",
+  "script_display": "ನಾವು ಕಾಗದದ ಮೇಲೆ ಪೆನ್ಸಿಲ್‌ನಿಂದ ಒಂದು ಬಿಂದುವನ್ನು ಗುರುತಿಸಿದಾಗ, ನಾವು ಒಂದು ಚುಕ್ಕೆಯನ್ನು ಚಿತ್ರಿಸುತ್ತೇವೆ. ಆದರೆ ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸವನ್ನು ನಾವು ಗಮನಿಸಬೇಕು. ನಾವು ಚಿತ್ರಿಸುವ ಚುಕ್ಕೆಗೆ ಸ್ವಲ್ಪವಾದರೂ ಗಾತ್ರವಿರುತ್ತದೆ. ಅದನ್ನು ಸೂಕ್ಷ್ಮದರ್ಶಕದಡಿಯಲ್ಲಿ ನೋಡಿದರೆ, ಅದಕ್ಕೆ ಒಂದು ನಿರ್ದಿಷ್ಟ ಉದ್ದ ಮತ್ತು ಅಗಲ ಇರುವುದು ಕಾಣಿಸುತ್ತದೆ. ಆದರೆ, ಗಣಿತದ ಆದರ್ಶ ಬಿಂದು ಎಂಬುದು ಒಂದು ಪರಿಕಲ್ಪನೆ. ಅದಕ್ಕೆ ಯಾವುದೇ ಗಾತ್ರವಿಲ್ಲ. ಅದನ್ನು ಅಳೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ನಾವು ಚಿತ್ರಿಸುವ ಚುಕ್ಕೆ ಆ ಆದರ್ಶ ಬಿಂದುವಿನ ಒಂದು ಭೌತಿಕ ಪ್ರತಿನಿಧೀಕರಣವಷ್ಟೇ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen comparison. On the left, under the heading 'ನಾವು ಚಿತ್ರಿಸುವ ಚುಕ್ಕೆ', there is a large, visible, slightly irregular black dot. Below it, text says 'ಸ್ವಲ್ಪವಾದರೂ ಗಾತ್ರವಿದೆ. ಅಳೆಯಲು ಸಾಧ್ಯ.'. On the right, under the heading 'ಗಣಿತದ ಆದರ್ಶ ಬಿಂದು', there is just the capital letter 'P' in an empty space, representing a location. Below it, text says 'ಗಾತ್ರವಿಲ್ಲ. ಕೇವಲ ಒಂದು ಸ್ಥಾನ. ಅಳೆಯಲು ಅಸಾಧ್ಯ.'",
+    "labels": "ನಾವು ಚಿತ್ರಿಸುವ ಚುಕ್ಕೆ, ಗಣಿತದ ಆದರ್ಶ ಬಿಂದು, ಗಾತ್ರ, ಸ್ಥಾನ",
+    "mathematical_significance": "Illustrates the crucial difference between a physical representation of a point (a dot) and the abstract, sizeless mathematical concept of a point.",
+    "placeholder_note": "Generate a split-screen image as described."
+  },
+  "chunk_id": "GEO-EUC-2_concept_1_chunk_004"
+}

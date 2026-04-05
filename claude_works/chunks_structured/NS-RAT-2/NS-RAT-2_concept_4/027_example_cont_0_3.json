@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣವನ್ನು ಸಂಕ್ಷೇಪಿಸಿದಾಗ, ನಮಗೆ ಸಿಗುವ ಅಂತಿಮ ಉತ್ತರ ಮೈನಸ್ ಒಂದು ಭಾಗಲಬ್ಧ ಎರಡು. ಈ ಲೆಕ್ಕದಲ್ಲಿ, ಪರಿವರ್ತನೀಯ ಮತ್ತು ವಿತರಣಾ ನಿಯಮಗಳನ್ನು ಸರಿಯಾಗಿ ಬಳಸಿ ಪದಗಳನ್ನು ಮರುಜೋಡಿಸುವುದು ಮತ್ತು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು ಹೊರತೆಗೆಯುವುದು ಪ್ರಮುಖ ಹಂತಗಳಾಗಿವೆ. ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ಬಹಳಷ್ಟು ಸರಳಗೊಳಿಸುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣವನ್ನು ಸಂಕ್ಷೇಪಿಸಿದಾಗ, ನಮಗೆ ಸಿಗುವ ಅಂತಿಮ ಉತ್ತರ $\\frac{-1}{2}$. ಈ ಲೆಕ್ಕದಲ್ಲಿ, ಪರಿವರ್ತನೀಯ ಮತ್ತು ವಿತರಣಾ ನಿಯಮಗಳನ್ನು ಸರಿಯಾಗಿ ಬಳಸಿ ಪದಗಳನ್ನು ಮರುಜೋಡಿಸುವುದು ಮತ್ತು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು ಹೊರತೆಗೆಯುವುದು ಪ್ರಮುಖ ಹಂತಗಳಾಗಿವೆ. ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ಬಹಳಷ್ಟು ಸರಳಗೊಳಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $\\frac{-1}{2}$",
+    "ಪ್ರಮುಖ ಅಂಶ: ಪರಿವರ್ತನೀಯ ಮತ್ತು ವಿತರಣಾ ನಿಯಮಗಳ ಸಂಯೋಜಿತ ಬಳಕೆಯು ಲೆಕ್ಕಾಚಾರವನ್ನು ಸರಳಗೊಳಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text_visual_bottom",
+    "text_zone": "center",
+    "visual_zone": "bottom",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{-1}{2}",
+    "placeholder_note": "The final answer highlighted in a box."
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "NS-RAT-2_example_4",
+  "final_answer": "-1/2",
+  "final_answer_display": "$\\frac{-1}{2}$",
+  "chunk_id": "NS-RAT-2_concept_4_chunk_027"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಪಾರ್ಶ್ವಕೋನಗಳು",
+  "script": "ಈಗ ಚಿತ್ರ 6.2 ಅನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ನಾವು ಎರಡು ಕೋನಗಳನ್ನು ನೋಡಬಹುದು: ಕೋನ ಎಬಿಡಿ ಮತ್ತು ಕೋನ ಡಿಬಿಸಿ. ಈ ಎರಡು ಕೋನಗಳಿಗೆ ಸಾಮಾನ್ಯ ಶೃಂಗ ಬಿಂದು ಬಿ ಆಗಿದೆ. ಇವೆರಡಕ್ಕೂ ಇರುವ ಸಾಮಾನ್ಯ ಬಾಹು ಕಿರಣ ಬಿಡಿ ಆಗಿದೆ. ಮತ್ತು, ಸಾಮಾನ್ಯವಲ್ಲದ ಬಾಹುಗಳಾದ ಕಿರಣ ಬಿಎ ಮತ್ತು ಕಿರಣ ಬಿಸಿ, ಸಾಮಾನ್ಯ ಬಾಹು ಬಿಡಿ ಯ ಎರಡು ವಿರುದ್ಧ ಬದಿಗಳಲ್ಲಿವೆ. ನಮ್ಮ ಮೂರೂ ಷರತ್ತುಗಳು ಇಲ್ಲಿ ಪಾಲನೆಯಾಗಿರುವುದರಿಂದ, ನಾವು ಕೋನ ಎಬಿಡಿ ಮತ್ತು ಕೋನ ಡಿಬಿಸಿ ಗಳನ್ನು ಪಾರ್ಶ್ವಕೋನಗಳ ಜೋಡಿ ಎಂದು ಖಚಿತವಾಗಿ ಹೇಳಬಹುದು.",
+  "script_display": "ಈಗ ಚಿತ್ರ 6.2 ಅನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ನಾವು ಎರಡು ಕೋನಗಳನ್ನು ನೋಡಬಹುದು: $\\angle ABD$ ಮತ್ತು $\\angle DBC$. ಈ ಎರಡು ಕೋನಗಳಿಗೆ ಸಾಮಾನ್ಯ ಶೃಂಗ ಬಿಂದು B ಆಗಿದೆ. ಇವೆರಡಕ್ಕೂ ಇರುವ ಸಾಮಾನ್ಯ ಬಾಹು ಕಿರಣ BD ಆಗಿದೆ. ಮತ್ತು, ಸಾಮಾನ್ಯವಲ್ಲದ ಬಾಹುಗಳಾದ ಕಿರಣ BA ಮತ್ತು ಕಿರಣ BC, ಸಾಮಾನ್ಯ ಬಾಹು BD ಯ ಎರಡು ವಿರುದ್ಧ ಬದಿಗಳಲ್ಲಿವೆ. ನಮ್ಮ ಮೂರೂ ಷರತ್ತುಗಳು ಇಲ್ಲಿ ಪಾಲನೆಯಾಗಿರುವುದರಿಂದ, ನಾವು $\\angle ABD$ ಮತ್ತು $\\angle DBC$ ಗಳನ್ನು ಪಾರ್ಶ್ವಕೋನಗಳ ಜೋಡಿ ಎಂದು ಖಚಿತವಾಗಿ ಹೇಳಬಹುದು.",
+  "display_bullets": [
+    "ಚಿತ್ರದಲ್ಲಿ, $\\angle ABD$ ಮತ್ತು $\\angle DBC$ ಪಾರ್ಶ್ವಕೋನಗಳಾಗಿವೆ.",
+    "ಸಾಮಾನ್ಯ ಶೃಂಗ (Common Vertex): B",
+    "ಸಾಮಾನ್ಯ ಬಾಹು (Common Arm): BD",
+    "ಸಾಮಾನ್ಯವಲ್ಲದ ಬಾಹುಗಳು (Non-common Arms): BA ಮತ್ತು BC"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ಕೋನ ∠ABC ಯನ್ನು ಕಿರಣ BD ಯು ಎರಡು ಪಾರ್ಶ್ವಕೋನಗಳಾಗಿ, ∠ABD ಮತ್ತು ∠DBC, ವಿಭಜಿಸುತ್ತಿದೆ. B ಸಾಮಾನ್ಯ ಶೃಂಗ, BD ಸಾಮಾನ್ಯ ಬಾಹು, ಮತ್ತು BA ಹಾಗೂ BC ಸಾಮಾನ್ಯವಲ್ಲದ ಬಾಹುಗಳು.",
+    "labels": "ಚಿತ್ರ 6.2",
+    "mathematical_significance": "ಪಾರ್ಶ್ವಕೋನಗಳ ಮೂರು ಷರತ್ತುಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated based on description. Show angle ABC with ray BD originating from B, inside the angle."
+  },
+  "chunk_id": "GEO-LA-2_concept_2_chunk_012"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರಮುಖ ಗುಣ: ಕೋನಗಳು ಮತ್ತು ಬಾಹುಗಳು",
+  "script": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ಗುಣವನ್ನು ಈಗ ನೋಡೋಣ. ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದಲ್ಲಿ, ಸಮನಾದ ಬಾಹುಗಳಿಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮವಾಗಿರುತ್ತವೆ. ಇದು ಒಂದು ಪ್ರಮೇಯ. ನಮ್ಮ ಉದಾಹರಣೆ ತ್ರಿಭುಜ ಎಕ್ಸ್ ವೈ ಝಡ್ ನಲ್ಲಿ, ಬಾಹು ಎಕ್ಸ್ ವೈ ಮತ್ತು ಬಾಹು ಎಕ್ಸ್ ಝಡ್ ಸಮವಾಗಿವೆ. ಬಾಹು ಎಕ್ಸ್ ವೈ ಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಕೋನ ಯಾವುದು? ಅದು ಕೋನ ಝಡ್. ಹಾಗೆಯೇ, ಬಾಹು ಎಕ್ಸ್ ಝಡ್ ಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಕೋನ ಯಾವುದು? ಅದು ಕೋನ ವೈ. ಆದ್ದರಿಂದ, ಎಕ್ಸ್ ವೈ ಈಕ್ವಲ್ಸ್ ಎಕ್ಸ್ ಝಡ್ ಆದರೆ, ಕೋನ ಝಡ್ ಈಕ್ವಲ್ಸ್ ಕೋನ ವೈ ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, ಪಾದ ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮವಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ಗುಣವನ್ನು ಈಗ ನೋಡೋಣ. ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದಲ್ಲಿ, ಸಮನಾದ ಬಾಹುಗಳಿಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮವಾಗಿರುತ್ತವೆ. ಇದು ಒಂದು ಪ್ರಮೇಯ. ನಮ್ಮ ಉದಾಹರಣೆ ತ್ರಿಭುಜ $XYZ$ ನಲ್ಲಿ, ಬಾಹು $XY$ ಮತ್ತು ಬಾಹು $XZ$ ಸಮವಾಗಿವೆ. ಬಾಹು $XY$ ಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಕೋನ ಯಾವುದು? ಅದು $\\angle Z$. ಹಾಗೆಯೇ, ಬಾಹು $XZ$ ಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಕೋನ ಯಾವುದು? ಅದು $\\angle Y$. ಆದ್ದರಿಂದ, $XY = XZ$ ಆದರೆ, $\\angle Z = \\angle Y$ ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, ಪಾದ ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮವಾಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಪ್ರಮುಖ ಗುಣ: ಸಮನಾದ ಬಾಹುಗಳಿಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ.",
+    "If $XY = XZ$, then $\\angle Y = \\angle Z$.",
+    "ಬೇರೆ ರೀತಿಯಲ್ಲಿ ಹೇಳುವುದಾದರೆ, ಪಾದ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ XYZ. ಸಮ ಬಾಹುಗಳಾದ XY ಮತ್ತು XZ ಗಳಿಂದ ಅವುಗಳ ಅಭಿಮುಖ ಕೋನಗಳಾದ ∠Z ಮತ್ತು ∠Y ಗೆ ಬಾಣದ ಗುರುತುಗಳನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಇದು 'ಅಭಿಮುಖ ಕೋನಗಳು ಸಮ' ಎಂಬ ಗುಣವನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "labels": "Isosceles triangle, equal sides, opposite angles, arrows",
+    "mathematical_significance": "Visually demonstrates the property that angles opposite to equal sides are equal.",
+    "placeholder_note": "Image to be generated showing arrows from sides to opposite angles."
+  },
+  "chunk_id": "GEO-TRI-1_concept_3_chunk_008"
+}

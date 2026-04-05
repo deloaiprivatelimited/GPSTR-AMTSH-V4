@@ -1,0 +1,34 @@
+{
+  "type": "prerequisites",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನಾವು ಹಿಂದಿನ ತರಗತಿಗಳಲ್ಲಿ ಕಲಿತ ಕೆಲವು ಪ್ರಮುಖ ವಿಷಯಗಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುವುದು ಒಳ್ಳೆಯದು. ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಾವು ಏಕೆ ಉಸಿರಾಡುತ್ತೇವೆ ಮತ್ತು ಜೀವಕೋಶೀಯ ಉಸಿರಾಟ ಎಂದರೇನು ಎಂಬ ವಿಷಯಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿದಿರಬೇಕು. ನಿಮಗೆ ಈ ವಿಷಯಗಳ ಬಗ್ಗೆ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಹಿಂದಿನ ಪಾಠಗಳನ್ನು ಒಮ್ಮೆ ನೋಡಿ ಬರುವುದು ಉತ್ತಮ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನಾವು ಹಿಂದಿನ ತರಗತಿಗಳಲ್ಲಿ ಕಲಿತ ಕೆಲವು ಪ್ರಮುಖ ವಿಷಯಗಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುವುದು ಒಳ್ಳೆಯದು. ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಈ ಕೆಳಗಿನ ವಿಷಯಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿದಿರಬೇಕು:",
+  "display_bullets": [
+    "ನಾವು ಏಕೆ ಉಸಿರಾಡುತ್ತೇವೆ? (Why we respire)",
+    "ಜೀವಕೋಶೀಯ ಉಸಿರಾಟ (Cellular Respiration)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "prerequisites_display": [
+    "ನಾವು ಏಕೆ ಉಸಿರಾಡುತ್ತೇವೆ? (Why we respire)",
+    "ಜೀವಕೋಶೀಯ ಉಸಿರಾಟ (Cellular Respiration)"
+  ],
+  "chunk_id": "std_7_chapter_6_concept_3_chunk_002"
+}

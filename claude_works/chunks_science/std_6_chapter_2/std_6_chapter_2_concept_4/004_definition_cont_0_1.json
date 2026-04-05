@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ನೈಜ ಉದಾಹರಣೆ: ದ್ವಿದಳ ಬೀಜ",
+  "script": "ಇದನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಕಡಲೆ ಬೀಜವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನೀವು ಕಡಲೆ ಬೀಜವನ್ನು ನೀರಿನಲ್ಲಿ ನೆನೆಸಿ, ಅದರ ಮೇಲಿನ ಸಿಪ್ಪೆಯನ್ನು ತೆಗೆದರೆ, ಅದನ್ನು ಸುಲಭವಾಗಿ ಎರಡು ಸಮವಾದ ಭಾಗಗಳಾಗಿ ಬೇರ್ಪಡಿಸಬಹುದು. ಈ ಪ್ರತಿಯೊಂದು ಭಾಗವೂ ಒಂದೊಂದು ಬೀಜದಳ. ಈ ಎರಡು ದಪ್ಪನೆಯ ಬೀಜದಳಗಳಲ್ಲಿ, ಸಸ್ಯ ಬೆಳೆಯಲು ಬೇಕಾದ ಆಹಾರವು ಪಿಷ್ಟ ಮತ್ತು ಪ್ರೋಟೀನ್ ರೂಪದಲ್ಲಿ ಸಂಗ್ರಹವಾಗಿರುತ್ತದೆ. ಈ ರೀತಿ ಎರಡು ಬೀಜದಳಗಳನ್ನು ಹೊಂದಿರುವ ಸಸ್ಯಗಳನ್ನೇ ನಾವು ದ್ವಿದಳ ಸಸ್ಯಗಳು ಅಂತ ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಇದನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಕಡಲೆ ಬೀಜವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನೀವು ಕಡಲೆ ಬೀಜವನ್ನು ನೀರಿನಲ್ಲಿ ನೆನೆಸಿ, ಅದರ ಮೇಲಿನ ಸಿಪ್ಪೆಯನ್ನು ತೆಗೆದರೆ, ಅದನ್ನು ಸುಲಭವಾಗಿ ಎರಡು ಸಮವಾದ ಭಾಗಗಳಾಗಿ ಬೇರ್ಪಡಿಸಬಹುದು. ಈ ಪ್ರತಿಯೊಂದು ಭಾಗವೂ ಒಂದೊಂದು ಬೀಜದಳ (Cotyledon). ಈ ಎರಡು ದಪ್ಪನೆಯ ಬೀಜದಳಗಳಲ್ಲಿ, ಸಸ್ಯ ಬೆಳೆಯಲು ಬೇಕಾದ ಆಹಾರವು (ಪಿಷ್ಟ, ಪ್ರೋಟೀನ್) ಸಂಗ್ರಹವಾಗಿರುತ್ತದೆ. ಈ ರೀತಿ ಎರಡು ಬೀಜದಳಗಳನ್ನು ಹೊಂದಿರುವ ಸಸ್ಯಗಳನ್ನೇ ನಾವು 'ದ್ವಿದಳ ಸಸ್ಯಗಳು' (Dicotyledonous plants) ಎನ್ನುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: ನೆನೆಸಿದ ಕಡಲೆ ಬೀಜ.",
+    "ಇದನ್ನು ಎರಡು ಸಮವಾದ ಭಾಗಗಳಾಗಿ ಬೇರ್ಪಡಿಸಬಹುದು.",
+    "ಈ ಪ್ರತಿಯೊಂದು ಭಾಗವೂ ಒಂದು ಬೀಜದಳ.",
+    "ಎರಡು ಬೀಜದಳಗಳನ್ನು ಹೊಂದಿರುವ ಸಸ್ಯಗಳು 'ದ್ವಿದಳ ಸಸ್ಯಗಳು'."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A soaked and split chickpea (ಕಡಲೆ) showing the two fleshy cotyledons clearly. The small embryo is visible at the junction where the two halves meet.",
+    "labels": "ಬೀಜದಳ (Cotyledon), ಭ್ರೂಣ (Embryo)",
+    "scientific_significance": "Visually demonstrates the two cotyledons in a typical dicot seed, making the definition concrete and easy to understand.",
+    "placeholder_note": "Image of a split bean/chickpea with labels for cotyledon and embryo."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_2_concept_4_chunk_004"
+}

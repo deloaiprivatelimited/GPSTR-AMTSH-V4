@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಮಂಜುಗಡ್ಡೆಯ ದ್ರವಿಸುವಿಕೆ",
+  "script": "ದ್ರವಿಸುವಿಕೆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಒಂದು ದೃಶ್ಯದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ ಘನ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ಮಂಜುಗಡ್ಡೆಯನ್ನು ಇಡಲಾಗಿದೆ. ಕೋಣೆಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ, ಈ ಮಂಜುಗಡ್ಡೆಯು ತನ್ನ ಸುತ್ತಲಿನ ವಾತಾವರಣದಿಂದ ಉಷ್ಣವನ್ನು ನಿಧಾನವಾಗಿ ಹೀರಿಕೊಳ್ಳಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ, ಮಂಜುಗಡ್ಡೆ ಕರಗಲು ಆರಂಭವಾಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಎಲ್ಲಾ ಮಂಜುಗಡ್ಡೆಯು ಸಂಪೂರ್ಣವಾಗಿ ನೀರಾಗಿ, ಅಂದರೆ ದ್ರವ ಸ್ಥಿತಿಗೆ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಹೀಗೆ ಘನ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದ ವಸ್ತುವು ಉಷ್ಣವನ್ನು ಪಡೆದು ದ್ರವ ಸ್ಥಿತಿಗೆ ಬದಲಾಯಿತು.",
+  "script_display": "ದ್ರವಿಸುವಿಕೆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಒಂದು ದೃಶ್ಯದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ ಘನ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ಮಂಜುಗಡ್ಡೆಯನ್ನು ಇಡಲಾಗಿದೆ. ಕೋಣೆಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ, ಈ ಮಂಜುಗಡ್ಡೆಯು ತನ್ನ ಸುತ್ತಲಿನ ವಾತಾವರಣದಿಂದ ಉಷ್ಣವನ್ನು (Heat) ನಿಧಾನವಾಗಿ ಹೀರಿಕೊಳ್ಳಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ, ಮಂಜುಗಡ್ಡೆ ಕರಗಲು ಆರಂಭವಾಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಎಲ್ಲಾ ಮಂಜುಗಡ್ಡೆಯು ಸಂಪೂರ್ಣವಾಗಿ ನೀರಾಗಿ, ಅಂದರೆ ದ್ರವ ಸ್ಥಿತಿಗೆ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಹೀಗೆ ಘನ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದ ವಸ್ತುವು ಉಷ್ಣವನ್ನು ಪಡೆದು ದ್ರವ ಸ್ಥಿತಿಗೆ ಬದಲಾಯಿತು.",
+  "display_bullets": [
+    "ಪಾತ್ರೆಯಲ್ಲಿ ಘನ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ಮಂಜುಗಡ್ಡೆ.",
+    "ಸುತ್ತಲಿನಿಂದ ಉಷ್ಣವನ್ನು ಹೀರಿಕೊಂಡು ಕರಗಲು ಆರಂಭ.",
+    "ಸಂಪೂರ್ಣವಾಗಿ ದ್ರವ ಸ್ಥಿತಿಯ ನೀರಾಗಿ ಪರಿವರ್ತನೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A sequence of three simple diagrams showing the process of melting. 1. A beaker with solid ice cubes, labeled 'ಮಂಜುಗಡ್ಡೆ (ಘನ)'. 2. An arrow labeled 'ಉಷ್ಣ' points to the beaker, which now contains a mix of ice and water. 3. The final beaker contains only water, labeled 'ನೀರು (ದ್ರವ)'.",
+    "labels": "ಮಂಜುಗಡ್ಡೆ, ನೀರು, ಉಷ್ಣ, ಘನ, ದ್ರವ, ಪಾತ್ರೆ",
+    "scientific_significance": "This visual sequence clearly illustrates the phase transition of water from solid (ice) to liquid (water) due to the absorption of heat, which is the core concept of melting.",
+    "placeholder_note": "Image to be generated showing ice melting in a beaker."
+  },
+  "chunk_id": "std_6_chapter_8_concept_2_chunk_004"
+}

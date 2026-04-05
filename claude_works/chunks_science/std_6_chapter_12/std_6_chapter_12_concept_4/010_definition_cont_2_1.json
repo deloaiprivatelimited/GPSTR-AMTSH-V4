@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ವಿಶ್ವದ ಅಗಾಧತೆ",
+  "script": "ವಿಶ್ವ ಎಷ್ಟು ದೊಡ್ಡದು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಮ್ಮ 'ವಿಶ್ವ ವಿಳಾಸ'ವನ್ನು ನೋಡೋಣ. ನಾವು ಭೂಮಿ ಎಂಬ ಗ್ರಹದ ಮೇಲೆ ವಾಸಿಸುತ್ತೇವೆ. ಈ ಭೂಮಿಯು ಸೌರವ್ಯೂಹದ ಒಂದು ಭಾಗವಾಗಿದೆ. ನಮ್ಮ ಸೌರವ್ಯೂಹವು ಹಾಲುಹಾದಿ ಅಥವಾ ಮಿಲ್ಕಿ ವೇ ಎಂಬ ಗೆಲಾಕ್ಸಿಯಲ್ಲಿದೆ. ಮತ್ತು ಈ ಹಾಲುಹಾದಿಯಂತಹ ಕೋಟ್ಯಂತರ ಗೆಲಾಕ್ಸಿಗಳು ಸೇರಿ ವಿಶ್ವವು ರೂಪುಗೊಂಡಿದೆ. ಅಂದರೆ, ನಾವು ವಿಶ್ವ ಎಂಬ ಮಹಾಸಾಗರದಲ್ಲಿ ಒಂದು ಸಣ್ಣ ಕಣವಿದ್ದಂತೆ.",
+  "script_display": "ವಿಶ್ವ ಎಷ್ಟು ದೊಡ್ಡದು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಮ್ಮ 'ವಿಶ್ವ ವಿಳಾಸ'ವನ್ನು ನೋಡೋಣ. ನಾವು ಭೂಮಿ ಎಂಬ ಗ್ರಹದ ಮೇಲೆ ವಾಸಿಸುತ್ತೇವೆ. ಈ ಭೂಮಿಯು ಸೌರವ್ಯೂಹದ ಒಂದು ಭಾಗವಾಗಿದೆ. ನಮ್ಮ ಸೌರವ್ಯೂಹವು ಹಾಲುಹಾದಿ (Milky Way) ಎಂಬ ಗೆಲಾಕ್ಸಿಯಲ್ಲಿದೆ. ಮತ್ತು ಈ ಹಾಲುಹಾದಿಯಂತಹ ಕೋಟ್ಯಂತರ ಗೆಲಾಕ್ಸಿಗಳು ಸೇರಿ ವಿಶ್ವವು (Universe) ರೂಪುಗೊಂಡಿದೆ. ಅಂದರೆ, ನಾವು ವಿಶ್ವ ಎಂಬ ಮಹಾಸಾಗರದಲ್ಲಿ ಒಂದು ಸಣ್ಣ ಕಣವಿದ್ದಂತೆ.",
+  "display_bullets": [
+    "ನಮ್ಮ 'ವಿಶ್ವ ವಿಳಾಸ'ವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ:",
+    "ಗ್ರಹ: ಭೂಮಿ",
+    "ಸೌರವ್ಯೂಹ (Solar System)",
+    "ಗೆಲಾಕ್ಸಿ: ಹಾಲುಹಾದಿ (Milky Way)",
+    "ವಿಶ್ವ (Universe)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing nested levels of the cosmic hierarchy. Innermost circle is 'Earth', next is 'Solar System', then 'Milky Way Galaxy', and the outermost box is 'Universe', containing many other galaxies.",
+    "labels": "Earth, Solar System, Milky Way Galaxy, Other Galaxies, Universe",
+    "scientific_significance": "Illustrates the scale of the universe and our place within it, showing that galaxies are the building blocks of the universe.",
+    "placeholder_note": "Generate a nested diagram showing Earth -> Solar System -> Milky Way -> Universe."
+  },
+  "chunk_id": "std_6_chapter_12_concept_4_chunk_010"
+}

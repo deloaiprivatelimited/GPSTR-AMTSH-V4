@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: 8000 ದ ಘನಮೂಲ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು 8000 ದ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಹಾಗಾದರೆ, ಮೊದಲಿಗೆ ಸಮಸ್ಯೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು 8000 ದ ಘನಮೂಲ. ನಾವು ಬಳಸಲಿರುವ ವಿಧಾನ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನೀಕರಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು 8000 ದ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 8000 ದ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಬಳಸುವ ವಿಧಾನ: ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನೀಕರಣ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sqrt[3]{8000} = ?",
+    "placeholder_note": "Problem statement: Cube root of 8000 equals question mark"
+  },
+  "source_example_id": "NS-CUBE-2_example_6",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-CUBE-2_concept_5_chunk_020"
+}

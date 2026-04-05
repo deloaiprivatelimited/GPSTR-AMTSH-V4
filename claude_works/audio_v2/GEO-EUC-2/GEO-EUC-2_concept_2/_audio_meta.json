@@ -1,0 +1,202 @@
+{
+  "module_id": "GEO-EUC-2_concept_2",
+  "merge_code": "GEO-EUC-2",
+  "voice": "Kore",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 17,
+  "ok_count": 17,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:32:14",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "c9f08e002b1a3b959e8e47ee07bcfdfe",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 33.611,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 44,
+      "generated_at": "2026-03-30 15:28:53"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "b1705490b771f6663a5a7a5037275928",
+      "wav_file": "003_property_0.wav",
+      "duration": 34.691,
+      "slide_title": "ಯೂಕ್ಲಿಡನ ಸ್ವಯಂಸಿದ್ಧಗಳು (Euclid's Axioms)",
+      "type": "concept_explanation",
+      "script_words": 38,
+      "generated_at": "2026-03-30 15:28:54"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "631d077186f76d1db246af7554a54032",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 52.251,
+      "slide_title": "ಸ್ವಯಂಸಿದ್ಧ 1",
+      "type": "concept_explanation",
+      "script_words": 81,
+      "generated_at": "2026-03-30 15:29:02"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "af867755425e5daafb946bd6e82234c2",
+      "wav_file": "001_intro_0.wav",
+      "duration": 52.851,
+      "slide_title": "ಪರಿಚಯ: ಯೂಕ್ಲಿಡನ ಸ್ವಯಂಸಿದ್ಧಗಳು ಮತ್ತು ಆಧಾರ ಪ್ರತಿಜ್ಞೆಗಳು",
+      "type": "intro",
+      "script_words": 71,
+      "generated_at": "2026-03-30 15:29:10"
+    },
+    "006_property_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "f16bfe9e8accc4525872fc7b0ddb312b",
+      "wav_file": "006_property_1.wav",
+      "duration": 77.011,
+      "slide_title": "ಯೂಕ್ಲಿಡನ ಸ್ವಯಂಸಿದ್ಧಗಳು (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "script_words": 98,
+      "generated_at": "2026-03-30 15:29:56"
+    },
+    "008_property_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "b0f298ac4a2fd592926511ef4214a771",
+      "wav_file": "008_property_cont_2_1.wav",
+      "duration": 46.091,
+      "slide_title": "ಯೂಕ್ಲಿಡನ ಆಧಾರ ಪ್ರತಿಜ್ಞೆಗಳು (Euclid's Postulates)",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-03-30 15:30:00"
+    },
+    "007_property_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "4e86c6623d5163cb683ca5a50b52acdc",
+      "wav_file": "007_property_2.wav",
+      "duration": 65.691,
+      "slide_title": "ಯೂಕ್ಲಿಡನ ಸ್ವಯಂಸಿದ್ಧಗಳು (ಮುಂದುವರೆದಿದೆ)",
+      "type": "concept_explanation",
+      "script_words": 104,
+      "generated_at": "2026-03-30 15:30:22"
+    },
+    "009_property_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "afaa6efa347214963f39f93908a9140e",
+      "wav_file": "009_property_3.wav",
+      "duration": 59.331,
+      "slide_title": "ಆಧಾರ ಪ್ರತಿಜ್ಞೆಗಳು 1 ಮತ್ತು 2",
+      "type": "concept_explanation",
+      "script_words": 76,
+      "generated_at": "2026-03-30 15:30:23"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "55c301d08bb1b726b714df185861e19d",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 63.451,
+      "slide_title": "ಸ್ವಯಂಸಿದ್ಧ 2",
+      "type": "concept_explanation",
+      "script_words": 90,
+      "generated_at": "2026-03-30 15:30:28"
+    },
+    "011_property_4.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "6ae7448eaec43e6419de3b771cb3dcf2",
+      "wav_file": "011_property_4.wav",
+      "duration": 46.891,
+      "slide_title": "ಆಧಾರ ಪ್ರತಿಜ್ಞೆ 4",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-03-30 15:30:38"
+    },
+    "010_property_cont_3_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "23f7d4483994071d1eae4764c3dad079",
+      "wav_file": "010_property_cont_3_1.wav",
+      "duration": 50.291,
+      "slide_title": "ಆಧಾರ ಪ್ರತಿಜ್ಞೆ 3",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-03-30 15:31:03"
+    },
+    "014_property_cont_4_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "051994c8c10ae7bd466cd7869057d333",
+      "wav_file": "014_property_cont_4_3.wav",
+      "duration": 49.571,
+      "slide_title": "ಆಧಾರ ಪ್ರತಿಜ್ಞೆ 5 ರ ಸಮಾನಾಂತರ ರೂಪ",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-03-30 15:31:07"
+    },
+    "013_property_cont_4_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "f65db1653ce093b239c961405c502518",
+      "wav_file": "013_property_cont_4_2.wav",
+      "duration": 46.691,
+      "slide_title": "ಆಧಾರ ಪ್ರತಿಜ್ಞೆ 5: ವಿವರಣೆ",
+      "type": "concept_explanation",
+      "script_words": 73,
+      "generated_at": "2026-03-30 15:31:13"
+    },
+    "012_property_cont_4_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "4517cb766bf8983de9a5b1891ca4ee6a",
+      "wav_file": "012_property_cont_4_1.wav",
+      "duration": 49.651,
+      "slide_title": "ಆಧಾರ ಪ್ರತಿಜ್ಞೆ 5: ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-03-30 15:31:14"
+    },
+    "015_property_cont_4_4.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "e40572000b98f438b2566008e48061fa",
+      "wav_file": "015_property_cont_4_4.wav",
+      "duration": 49.531,
+      "slide_title": "ಆಧಾರ ಪ್ರತಿಜ್ಞೆ 1ಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಸ್ವಯಂಸಿದ್ಧ",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-03-30 15:31:41"
+    },
+    "016_property_5.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "2406514ae042bfd247879069cb2360e3",
+      "wav_file": "016_property_5.wav",
+      "duration": 56.371,
+      "slide_title": "ಸ್ವಯಂಸಿದ್ಧ 5.1: ಅನನ್ಯ ರೇಖೆ",
+      "type": "concept_explanation",
+      "script_words": 82,
+      "generated_at": "2026-03-30 15:32:06"
+    },
+    "017_recap_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "adbe22757cf3435ddbabe9114e993d18",
+      "wav_file": "017_recap_0.wav",
+      "duration": 45.771,
+      "slide_title": "ಮಾಡ್ಯೂಲ್ ಸಾರಾಂಶ: ಸ್ವಯಂಸಿದ್ಧಗಳು ಮತ್ತು ಆಧಾರ ಪ್ರತಿಜ್ಞೆಗಳು",
+      "type": "recap",
+      "script_words": 54,
+      "generated_at": "2026-03-30 15:32:14"
+    }
+  }
+}

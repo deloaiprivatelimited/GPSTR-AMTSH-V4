@@ -1,0 +1,33 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ಫೋರ್ ವೈ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಟುಯೆಲ್ವ್ ವೈ ಪ್ಲಸ್ ನೈನ್ ನ ಅಪವರ್ತನ ರೂಪವು ಟೂ ವೈ ಮೈನಸ್ ಥ್ರೀ ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ನಾವು ನಿತ್ಯಸಮೀಕರಣ ಎ ಮೈನಸ್ ಬಿ ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ ಎ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಟೂ ಎ ಬಿ ಪ್ಲಸ್ ಬಿ ಸ್ಕ್ವೇರ್ಡ್ ಅನ್ನು ಬಳಸಿದ್ದೇವೆ.",
+  "script_display": "ಹೀಗಾಗಿ, $4y^2 - 12y + 9$ ನ ಅಪವರ್ತನ ರೂಪವು $(2y-3)^2$ ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ನಾವು ನಿತ್ಯಸಮೀಕರಣ $(a-b)^2 = a^2 - 2ab + b^2$ ಅನ್ನು ಬಳಸಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $(2y-3)^2$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "light_gradient",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "basic",
+  "source_example_id": "ALG-FAC-2_example_6",
+  "final_answer": "(2y-3)^2",
+  "final_answer_display": "$(2y-3)^2$",
+  "chunk_id": "ALG-FAC-2_concept_4_chunk_023"
+}

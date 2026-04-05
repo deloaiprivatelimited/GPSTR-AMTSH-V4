@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಪ್ರತಿಫಲನ ಕೋನ",
+  "script": "ಈಗ, ಪ್ರತಿಫಲನ ಕೋನ ಅಂದರೆ ಆಂಗಲ್ ಆಫ್ ರಿಫ್ಲೆಕ್ಷನ್, ಇದನ್ನು ನಾವು ಸಣ್ಣ ಅಕ್ಷರ 'ಆರ್' ನಿಂದ ಸೂಚಿಸುತ್ತೇವೆ, ಇದರ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇದರ ವ್ಯಾಖ್ಯಾನ ಹೀಗಿದೆ: ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವೆ ಉಂಟಾಗುವ ಕೋನವೇ ಪ್ರತಿಫಲನ ಕೋನ. ಇಲ್ಲಿ ಎರಡು ಪ್ರಮುಖ ಅಂಶಗಳಿವೆ. ಮೊದಲನೆಯದು, ಪ್ರತಿಫಲಿತ ಕಿರಣ, ಅಂದರೆ ಮೇಲ್ಮೈಗೆ ಬಡಿದು ಹಿಂತಿರುಗುವ ಬೆಳಕಿನ ಕಿರಣ. ಎರಡನೆಯದು, ಲಂಬ, ಅಂದರೆ ಮೇಲ್ಮೈಗೆ ತೊಂಬತ್ತು ಡಿಗ್ರಿಯಲ್ಲಿ ಎಳೆದ ಕಾಲ್ಪನಿಕ ರೇಖೆ. ಈ ಎರಡರ ನಡುವಿನ ಕೋನವನ್ನು ನಾವು ಪ್ರತಿಫಲನ ಕೋನ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಈಗ, ಪ್ರತಿಫಲನ ಕೋನ (Angle of Reflection, r) ಬಗ್ಗೆ ತಿಳಿಯೋಣ.\n\n**ವ್ಯಾಖ್ಯಾನ:** ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವೆ ಉಂಟಾಗುವ ಕೋನವೇ **ಪ್ರತಿಫಲನ ಕೋನ**.\n\nಇದರಲ್ಲಿ ಎರಡು ಪ್ರಮುಖ ಅಂಶಗಳಿವೆ:",
+  "display_bullets": [
+    "**ಪ್ರತಿಫಲಿತ ಕಿರಣ:** ಮೇಲ್ಮೈಗೆ ಬಡಿದು ಹಿಂತಿರುಗುವ ಬೆಳಕಿನ ಕಿರಣ.",
+    "**ಲಂಬ:** ಮೇಲ್ಮೈಗೆ 90° ಕೋನದಲ್ಲಿ ಎಳೆದ ಕಾಲ್ಪನಿಕ ರೇಖೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "r",
+    "placeholder_note": "Symbol for Angle of Reflection"
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_10_chapter_9_concept_1_chunk_016"
+}

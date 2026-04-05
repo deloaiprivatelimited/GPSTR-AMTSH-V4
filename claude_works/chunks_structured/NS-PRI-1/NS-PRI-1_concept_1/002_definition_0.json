@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಪವರ್ತ್ಯ (Multiple) ಎಂದರೇನು?",
+  "script": "ಈಗ ನಾವು ಅಪವರ್ತ್ಯಗಳು ಅಥವಾ ಮಲ್ಟಿಪಲ್ಸ್ ಎಂದರೇನು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಸರಳವಾಗಿ ಹೇಳಬೇಕೆಂದರೆ, ಅಪವರ್ತ್ಯ ಎನ್ನುವುದು ಒಂದು ಸಂಖ್ಯೆಯ ಗುಣಾಕಾರದ ಕೋಷ್ಟಕ ಅಥವಾ ಮಗ್ಗಿಯಲ್ಲಿ ಬರುವ ಸಂಖ್ಯೆಗಳಾಗಿವೆ. ಉದಾಹರಣೆಗೆ, 4ರ ಮಗ್ಗಿಯನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಿ. ನಾಲ್ಕು ಒಂದ್ಲಿ ನಾಲ್ಕು, ನಾಲ್ಕು ಎರಡ್ಲಿ ಎಂಟು, ನಾಲ್ಕು ಮೂರ್ಲಿ ಹನ್ನೆರಡು, ಹೀಗೆ ಮುಂದುವರೆಯುತ್ತದೆ. ಇಲ್ಲಿ ಬರುವ 4, 8, 12, 16, 20 ಈ ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳೂ 4ರ ಅಪವರ್ತ್ಯಗಳಾಗಿವೆ. ಇದು ಅಪವರ್ತ್ಯದ ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಅಪವರ್ತ್ಯಗಳು (Multiples) ಎಂದರೇನು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಸರಳವಾಗಿ ಹೇಳಬೇಕೆಂದರೆ, ಅಪವರ್ತ್ಯ ಎನ್ನುವುದು ಒಂದು ಸಂಖ್ಯೆಯ ಗುಣಾಕಾರದ ಕೋಷ್ಟಕ (ಮಗ್ಗಿ)ಯಲ್ಲಿ ಬರುವ ಸಂಖ್ಯೆಗಳಾಗಿವೆ. ಉದಾಹರಣೆಗೆ, 4ರ ಮಗ್ಗಿಯನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಿ. $4 \\times 1 = 4, 4 \\times 2 = 8, 4 \\times 3 = 12$, ಹೀಗೆ ಮುಂದುವರೆಯುತ್ತದೆ. ಇಲ್ಲಿ ಬರುವ 4, 8, 12, 16, 20 ಈ ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳೂ 4ರ ಅಪವರ್ತ್ಯಗಳಾಗಿವೆ. ಇದು ಅಪವರ್ತ್ಯದ ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಸಂಖ್ಯೆಯ ಗುಣಾಕಾರದ ಕೋಷ್ಟಕದಲ್ಲಿ (ಮಗ್ಗಿ) ಬರುವ ಸಂಖ್ಯೆಗಳೇ ಅಪವರ್ತ್ಯಗಳು.",
+    "ಉದಾಹರಣೆಗೆ, 4ರ ಅಪವರ್ತ್ಯಗಳು: 4, 8, 12, 16, 20, ..."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "kan_v01",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number '4' is shown on the left. From this number, a horizontal arrow points to the right towards a sequence of numbers: 4, 8, 12, 16, 20, ... The arrow and the sequence are labeled '4ರ ಅಪವರ್ತ್ಯಗಳು' (Multiples of 4). This visually represents the concept of generating multiples from a starting number.",
+    "labels": "Number '4', Arrow label '4ರ ಅಪವರ್ತ್ಯಗಳು', Sequence '4, 8, 12, 16, 20, ...'",
+    "mathematical_significance": "This diagram provides an intuitive visual link between a number and its multiples, reinforcing the idea that multiples are generated from a base number, much like a multiplication table.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "NS-PRI-1_concept_1_chunk_002"
+}

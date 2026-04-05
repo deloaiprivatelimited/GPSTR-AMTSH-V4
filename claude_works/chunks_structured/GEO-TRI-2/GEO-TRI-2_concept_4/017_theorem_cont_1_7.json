@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ವಿಲೋಮ ಪ್ರಮೇಯದ ಅನ್ವಯ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ವಿಲೋಮ ಪ್ರಮೇಯದ ಬಳಕೆಯನ್ನು ನೋಡೋಣ. ತ್ರಿಭುಜ PQR ನಲ್ಲಿ, PQ ಬಾಹುವಿನ ಮೇಲೆ S ಬಿಂದು ಮತ್ತು PR ಬಾಹುವಿನ ಮೇಲೆ T ಬಿಂದುಗಳಿವೆ. ನಮಗೆ ಕೆಲವು ಅಳತೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ. PS ನ ಉದ್ದ ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್, SQ ನ ಉದ್ದ ಆರು ಸೆಂಟಿಮೀಟರ್, PT ನ ಉದ್ದ ಆರು ಸೆಂಟಿಮೀಟರ್, ಮತ್ತು TR ನ ಉದ್ದ ಒಂಬತ್ತು ಸೆಂಟಿಮೀಟರ್. ಈಗ ನಾವು ST ರೇಖೆಯು QR ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಬಾಹುಗಳ ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ವಿಲೋಮ ಪ್ರಮೇಯದ ಬಳಕೆಯನ್ನು ನೋಡೋಣ. $\\triangle PQR$ ನಲ್ಲಿ, PQ ಬಾಹುವಿನ ಮೇಲೆ S ಬಿಂದು ಮತ್ತು PR ಬಾಹುವಿನ ಮೇಲೆ T ಬಿಂದುಗಳಿವೆ. ನಮಗೆ ಕೆಲವು ಅಳತೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ. $PS = 4$ cm, $SQ = 6$ cm, $PT = 6$ cm, ಮತ್ತು $TR = 9$ cm. ಈಗ ನಾವು ST ರೇಖೆಯು QR ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಬಾಹುಗಳ ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತ: $\\triangle PQR$ ನಲ್ಲಿ, $PS = 4$ cm, $SQ = 6$ cm, $PT = 6$ cm, $TR = 9$ cm.",
+    "ಪ್ರಶ್ನೆ: $ST$ ರೇಖೆಯು $QR$ ಗೆ ಸಮಾಂತರವಾಗಿದೆಯೇ? ($ST || QR$ ?)",
+    "ವಿಧಾನ: BPT ಯ ವಿಲೋಮ ಪ್ರಮೇಯವನ್ನು ಬಳಸಿ ಅನುಪಾತಗಳನ್ನು ಹೋಲಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard_yellow",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ತ್ರಿಭುಜ PQR. S ಬಿಂದುವು PQ ಮೇಲಿದೆ ಮತ್ತು T ಬಿಂದುವು PR ಮೇಲಿದೆ. ST ರೇಖೆಯನ್ನು ಎಳೆಯಲಾಗಿದೆ. ಬಾಹುಗಳ ಅಳತೆಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ: PS=4, SQ=6, PT=6, TR=9.",
+    "labels": "P, Q, R, S, T, 4, 6, 6, 9",
+    "mathematical_significance": "BPT ಯ ವಿಲೋಮ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸಲು ಒಂದು ಸಂಖ್ಯಾತ್ಮಕ ಉದಾಹರಣೆ.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "worked_example_intro",
+  "chunk_id": "GEO-TRI-2_concept_4_chunk_017"
+}

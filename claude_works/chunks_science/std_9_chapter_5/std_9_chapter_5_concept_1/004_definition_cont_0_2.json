@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹುಕ್ ಕಂಡದ್ದು vs ನಿಜವಾದ ಜೀವಕೋಶ",
+  "script": "ರಾಬರ್ಟ್ ಹುಕ್ ಅವರ ಆವಿಷ್ಕಾರವು ಅದ್ಭುತವಾಗಿದ್ದರೂ, ಅವರು ಕಂಡದ್ದು ಕಥೆಯ ಒಂದು ಭಾಗ ಮಾತ್ರ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಹುಕ್ ಅವರು ಕಂಡಂತೆ, ಕಾರ್ಕ್‌ನಲ್ಲಿ ಕೇವಲ ಖಾಲಿ, ಪೆಟ್ಟಿಗೆಯಂತಹ ರಚನೆಗಳಿದ್ದವು. ಇವು ನಿರ್ಜೀವ ಕೋಶಗಳ ಗೋಡೆಗಳಾಗಿದ್ದವು. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ, ಆಧುನಿಕ ಸೂಕ್ಷ್ಮದರ್ಶಕದಲ್ಲಿ ನೋಡಿದಾಗ, ಒಂದು ಜೀವಂತ ಕೋಶವು ಹೆಚ್ಚು ಸಂಕೀರ್ಣವಾದ, ಜೀವಂತ ಘಟಕವಾಗಿ ಕಾಣುತ್ತದೆ. ಇದು ಕೋಶಕೇಂದ್ರ, ಸೈಟೋಪ್ಲಾಸಂ ಮತ್ತು ಇತರ ಅನೇಕ ಕಣದಂಗಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ಹುಕ್ ಅವರ ವೀಕ್ಷಣೆಗೂ ಇಂದಿನ ತಿಳುವಳಿಕೆಗೂ ಇರುವ ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ರಾಬರ್ಟ್ ಹುಕ್ ಅವರ ಆವಿಷ್ಕಾರವು ಅದ್ಭುತವಾಗಿದ್ದರೂ, ಅವರು ಕಂಡದ್ದು ಕಥೆಯ ಒಂದು ಭಾಗ ಮಾತ್ರ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "classic_dark",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "{\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{|p{5.5cm}|p{5.5cm}|}\n\\hline\n\\textbf{ರಾಬರ್ಟ್ ಹುಕ್ ಕಂಡಂತೆ (ಕಾರ್ಕ್)} & \\textbf{ಆಧುನಿಕ ಸೂಕ್ಷ್ಮದರ್ಶಕದಲ್ಲಿ (ಜೀವಂತ ಕೋಶ)} \\\\\n\\hline\n\n* ಖಾಲಿ, ಪೆಟ್ಟಿಗೆಯಂತಹ ರಚನೆಗಳು & \n* ಸಂಕೀರ್ಣ, ಜೀವಂತ ಘಟಕ \\\\\n\n* ನಿರ್ಜೀವ ಕೋಶಭಿತ್ತಿಗಳು & \n* ಕೋಶಕೇಂದ್ರ, ಸೈಟೋಪ್ಲಾಸಂ ಇತ್ಯಾದಿಗಳನ್ನು ಹೊಂದಿದೆ \\\\\n\n* ಜೇನುಗೂಡಿನಂತೆ ಕಾಣುತ್ತದೆ & \n* ಚಟುವಟಿಕೆಯಿಂದ ಕೂಡಿದ ಕಾರ್ಖಾನೆಯಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ \\\\\n\\hline\n\\end{array}}",
+    "placeholder_note": "A two-column comparison table. Left column describes Hooke's observation of dead cork cells (empty, box-like). Right column describes a modern view of a living cell (complex, with organelles)."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_5_concept_1_chunk_004"
+}

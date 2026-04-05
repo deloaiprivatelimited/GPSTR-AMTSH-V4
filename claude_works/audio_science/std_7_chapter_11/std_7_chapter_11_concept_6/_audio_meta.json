@@ -1,0 +1,70 @@
+{
+  "module_id": "std_7_chapter_11_concept_6",
+  "chapter_code": "std_7_chapter_11",
+  "voice": "Schedar",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 5,
+  "ok_count": 5,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:44:14",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "d27793f14ba1afa6bdf9777184b516a0",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.171,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 43,
+      "generated_at": "2026-04-02 13:43:39"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "6e724d59641fdf1a491d52d0c6d585cf",
+      "wav_file": "003_classification_0.wav",
+      "duration": 38.451,
+      "slide_title": "ಪೀನ ಮಸೂರ (Convex Lens)",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:43:42"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "5b86aa57f409218c209a64a2ffcca6eb",
+      "wav_file": "001_intro_0.wav",
+      "duration": 49.891,
+      "slide_title": "ಮಸೂರಗಳು ಮತ್ತು ಅವುಗಳ ವಿಧಗಳು",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-04-02 13:43:49"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "a4707e384e2a378d0d4bb4443136ee3f",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 35.011,
+      "slide_title": "ನಿಮ್ಮ ಮಸೂರ (Concave Lens)",
+      "type": "concept_explanation",
+      "script_words": 46,
+      "generated_at": "2026-04-02 13:44:10"
+    },
+    "005_recap_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "fa9a2be9bc052ddc277931029c66fdbf",
+      "wav_file": "005_recap_0.wav",
+      "duration": 39.851,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:44:14"
+    }
+  }
+}

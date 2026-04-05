@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಸರ್ಜನಾ ವಸ್ತು: ಅಮೋನಿಯಾ",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ಅಮೋನಿಯಾ. ಇದು ಅತ್ಯಂತ ವಿಷಕಾರಿ ಸಾರಜನಕಯುಕ್ತ ತ್ಯಾಜ್ಯವಾಗಿದೆ. ಇದರ ವಿಷಕಾರಿತ್ವದಿಂದಾಗಿ, ದೇಹದಿಂದ ಇದನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಹೊರಹಾಕಲು ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ನೀರಿನ ಅಗತ್ಯವಿದೆ. ಈ ಕಾರಣದಿಂದ, ಮೀನುಗಳಂತಹ ಜಲಚರ ಪ್ರಾಣಿಗಳು ಅಮೋನಿಯಾವನ್ನು ತಮ್ಮ ಮುಖ್ಯ ವಿಸರ್ಜನಾ ವಸ್ತುವಾಗಿ ಹೊಂದಿವೆ. ಅವು ನೀರಿನಲ್ಲೇ ವಾಸಿಸುವುದರಿಂದ, ಅಮೋನಿಯಾವನ್ನು ನೇರವಾಗಿ ತಮ್ಮ ಕಿವಿರುಗಳ ಮೂಲಕ ಸುತ್ತಮುತ್ತಲಿನ ನೀರಿಗೆ ವಿಸರ್ಜಿಸುತ್ತವೆ. ಹೀಗೆ ಮಾಡುವುದರಿಂದ, ಅವುಗಳ ದೇಹದಲ್ಲಿ ವಿಷಕಾರಿ ಅಮೋನಿಯಾ ಸಂಗ್ರಹವಾಗುವುದಿಲ್ಲ.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ಅಮೋನಿಯಾ. ಇದು ಅತ್ಯಂತ ವಿಷಕಾರಿ ಸಾರಜನಕಯುಕ್ತ ತ್ಯಾಜ್ಯವಾಗಿದೆ. ಇದರ ವಿಷಕಾರಿತ್ವದಿಂದಾಗಿ, ದೇಹದಿಂದ ಇದನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಹೊರಹಾಕಲು ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ನೀರಿನ ಅಗತ್ಯವಿದೆ. ಈ ಕಾರಣದಿಂದ, ಮೀನುಗಳಂತಹ ಜಲಚರ ಪ್ರಾಣಿಗಳು ಅಮೋನಿಯಾವನ್ನು (Ammonia) ತಮ್ಮ ಮುಖ್ಯ ವಿಸರ್ಜನಾ ವಸ್ತುವಾಗಿ ಹೊಂದಿವೆ. ಅವು ನೀರಿನಲ್ಲೇ ವಾಸಿಸುವುದರಿಂದ, ಅಮೋನಿಯಾವನ್ನು ನೇರವಾಗಿ ತಮ್ಮ ಕಿವಿರುಗಳ ಮೂಲಕ ಸುತ್ತಮುತ್ತಲಿನ ನೀರಿಗೆ ವಿಸರ್ಜಿಸುತ್ತವೆ. ಹೀಗೆ ಮಾಡುವುದರಿಂದ, ಅವುಗಳ ದೇಹದಲ್ಲಿ ವಿಷಕಾರಿ ಅಮೋನಿಯಾ ಸಂಗ್ರಹವಾಗುವುದಿಲ್ಲ.",
+  "display_bullets": [
+    "ವಿಸರ್ಜನಾ ವಸ್ತು: ಅಮೋನಿಯಾ (Ammonia)",
+    "ವಿಶೇಷತೆ: ಅತಿ ವಿಷಕಾರಿ, ವಿಸರ್ಜನೆಗೆ ಹೆಚ್ಚು ನೀರಿನ ಅಗತ್ಯ.",
+    "ಉದಾಹರಣೆ: ಮೀನುಗಳಂತಹ ಜಲಚರಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a fish in water. Arrows from the gills show ammonia (NH3) being released directly into the water.",
+    "labels": "ಮೀನು, ನೀರು, ಅಮೋನಿಯಾ ವಿಸರ್ಜನೆ",
+    "scientific_significance": "Illustrates how aquatic animals excrete highly toxic ammonia directly into their environment, where it is diluted.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_7_concept_5_chunk_017"
+}

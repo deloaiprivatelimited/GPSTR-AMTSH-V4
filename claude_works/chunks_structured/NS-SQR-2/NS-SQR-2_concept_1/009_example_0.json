@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಶೀಲಿಸಬೇಕಾದ ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 32 ಒಂದು ವರ್ಗ ಸಂಖ್ಯೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ಸಂಖ್ಯೆ, 32, ನೀಡಲಾಗಿದೆ. ನಾವು ಈ ಸಂಖ್ಯೆಯು ಪೂರ್ಣವರ್ಗ ಹೌದೋ ಅಲ್ಲವೋ ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 32 ಒಂದು ವರ್ಗ ಸಂಖ್ಯೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ಸಂಖ್ಯೆ, 32, ನೀಡಲಾಗಿದೆ. ನಾವು ಈ ಸಂಖ್ಯೆಯು ಪೂರ್ಣವರ್ಗ ಹೌದೋ ಅಲ್ಲವೋ ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 32 ಒಂದು ವರ್ಗ ಸಂಖ್ಯೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ.",
+    "ದತ್ತಾಂಶ: ಸಂಖ್ಯೆ 32.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: 32 ಒಂದು ಪೂರ್ಣವರ್ಗವೇ?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "32 = n^2 ?",
+    "placeholder_note": "A visual representation of the question: is 32 the square of some natural number n?"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "NS-SQR-2_example_1",
+  "chunk_id": "NS-SQR-2_concept_1_chunk_009"
+}

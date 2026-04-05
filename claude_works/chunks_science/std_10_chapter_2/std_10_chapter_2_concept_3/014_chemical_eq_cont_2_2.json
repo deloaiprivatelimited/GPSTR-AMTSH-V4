@@ -1,0 +1,30 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ವಿಶ್ಲೇಷಣೆ",
+  "script": "ಈ ಸಮೀಕರಣದಲ್ಲಿನ ಘಟಕಗಳನ್ನು ನೋಡೋಣ. ಪ್ರತಿವರ್ತಕಗಳು: ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಇದು ಒಂದು ಪ್ರತ್ಯಾಮ್ಲ, ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ಇದು ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್. ಉತ್ಪನ್ನಗಳು: ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್, ಇದು ಒಂದು ಲವಣ, ಮತ್ತು ನೀರು.",
+  "script_display": "ಈ ಸಮೀಕರಣದಲ್ಲಿನ ಘಟಕಗಳನ್ನು ನೋಡೋಣ. ಪ್ರತಿವರ್ತಕಗಳು: ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (Ca(OH)₂), ಇದು ಒಂದು ಪ್ರತ್ಯಾಮ್ಲ, ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂), ಇದು ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್. ಉತ್ಪನ್ನಗಳು: ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್ (CaCO₃), ಇದು ಒಂದು ಲವಣ, ಮತ್ತು ನೀರು (H₂O).",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳು: Ca(OH)₂ (ಪ್ರತ್ಯಾಮ್ಲ) + CO₂ (ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್)",
+    "ಉತ್ಪನ್ನಗಳು: CaCO₃ (ಲವಣ) + H₂O (ನೀರು)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_2_concept_3_chunk_014"
+}

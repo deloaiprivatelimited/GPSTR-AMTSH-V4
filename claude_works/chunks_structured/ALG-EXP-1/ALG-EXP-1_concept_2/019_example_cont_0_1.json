@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಬೀಜೋಕ್ತಿ 1 ($xy + 4$)",
+  "script": "ಮೊದಲ ಬೀಜೋಕ್ತಿ x y ಪ್ಲಸ್ ನಾಲ್ಕು ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಮೊದಲ ಹಂತ, ಸ್ಥಿರವಲ್ಲದ ಪದವನ್ನು ಗುರುತಿಸುವುದು. ಚರಾಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ಪದವೇ ಸ್ಥಿರವಲ್ಲದ ಪದ. ಇಲ್ಲಿ x y ಎಂಬುದು ಸ್ಥಿರವಲ್ಲದ ಪದವಾಗಿದೆ. ಎರಡನೇ ಹಂತ, ಅದರ ಸಂಖ್ಯಾ ಸಹಗುಣಕವನ್ನು ಬರೆಯುವುದು. x y ಯನ್ನು ಒಂದು ಗುಣಿಸು x y ಎಂದು ಬರೆಯಬಹುದು. ಆದ್ದರಿಂದ, ಸಂಖ್ಯಾ ಸಹಗುಣಕ ಒಂದು ಆಗಿದೆ.",
+  "script_display": "ಮೊದಲ ಬೀಜೋಕ್ತಿ $xy + 4$ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಮೊದಲ ಹಂತ, ಸ್ಥಿರವಲ್ಲದ ಪದವನ್ನು ಗುರುತಿಸುವುದು. ಚರಾಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ಪದವೇ ಸ್ಥಿರವಲ್ಲದ ಪದ. ಇಲ್ಲಿ $xy$ ಎಂಬುದು ಸ್ಥಿರವಲ್ಲದ ಪದವಾಗಿದೆ. ಎರಡನೇ ಹಂತ, ಅದರ ಸಂಖ್ಯಾ ಸಹಗುಣಕವನ್ನು ಬರೆಯುವುದು. $xy$ ಯನ್ನು $1 \\times xy$ ಎಂದು ಬರೆಯಬಹುದು. ಆದ್ದರಿಂದ, ಸಂಖ್ಯಾ ಸಹಗುಣಕ 1 ಆಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "ALG-EXP-1_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸ್ಥಿರವಲ್ಲದ ಪದ: $xy$",
+      "justification": "ಈ ಪದವು $x$ ಮತ್ತು $y$ ಚರಾಕ್ಷರಗಳನ್ನು ಹೊಂದಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಸಂಖ್ಯಾ ಸಹಗುಣಕ: 1",
+      "justification": "ಯಾವುದೇ ಸಂಖ್ಯೆ ಇಲ್ಲದಿದ್ದಾಗ, ಸಹಗುಣಕ 1 ಆಗಿರುತ್ತದೆ ($xy = 1xy$)."
+    }
+  ],
+  "chunk_id": "ALG-EXP-1_concept_2_chunk_019"
+}

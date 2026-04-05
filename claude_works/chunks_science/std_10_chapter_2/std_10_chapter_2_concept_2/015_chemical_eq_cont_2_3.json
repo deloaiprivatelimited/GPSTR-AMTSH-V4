@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. ಎರಡು ಅಣು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವು, ಒಂದು ಅಣು ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್‌ನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎರಡು ಅಣು ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್, ಒಂದು ಅಣು ನೀರು, ಮತ್ತು ಒಂದು ಅಣು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ನೀಡುತ್ತದೆ. ಇಲ್ಲಿ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ಲವಣವಾಗಿದೆ.",
+  "script_display": "ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. 2HCl + Na₂CO₃ → 2NaCl + H₂O + CO₂. ಇಲ್ಲಿ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ (NaCl) ಲವಣವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "dynamic",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2\\text{HCl}_{(aq)} + \\text{Na}_2\\text{CO}_{3(s)} \\rightarrow 2\\text{NaCl}_{(aq)} + \\text{H}_2\\text{O}_{(l)} + \\text{CO}_{2(g)}",
+    "placeholder_note": "Balanced chemical equation for the reaction between Hydrochloric acid and Sodium Carbonate."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_015"
+}

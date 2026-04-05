@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಪಕರ್ಷಣ ಪ್ರಕ್ರಿಯೆ: ಒಂದು ನೋಟ",
+  "script": "ಈಗ ಈ ಪ್ರಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಋಣಾತ್ಮಕವಾಗಿ ಚಾರ್ಜ್ ಆದ ಋಣಾಗ್ರವು, ಧನಾತ್ಮಕವಾಗಿ ಚಾರ್ಜ್ ಆದ ಸೋಡಿಯಂ ಅಯಾನುಗಳನ್ನು ತನ್ನತ್ತ ಆಕರ್ಷಿಸುತ್ತದೆ. ನಂತರ, ಪ್ರತಿಯೊಂದು ಸೋಡಿಯಂ ಅಯಾನು ಋಣಾಗ್ರದಿಂದ ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಸ್ವೀಕರಿಸುತ್ತದೆ. ಈ ಎಲೆಕ್ಟ್ರಾನ್ ಸೇರ್ಪಡೆಯಾದಾಗ, ಸೋಡಿಯಂ ಅಯಾನು ಸೋಡಿಯಂ ಲೋಹವಾಗಿ ಅಪಕರ್ಷಣೆಗೊಂಡು ಋಣಾಗ್ರದ ಮೇಲೆ ಸಂಗ್ರಹವಾಗುತ್ತದೆ. ಹೀಗೆ ಶುದ್ಧ ಸೋಡಿಯಂ ಲೋಹವು ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಈ ಪ್ರಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಋಣಾತ್ಮಕವಾಗಿ ಚಾರ್ಜ್ ಆದ ಋಣಾಗ್ರ (cathode), ಧನಾತ್ಮಕವಾಗಿ ಚಾರ್ಜ್ ಆದ ಸೋಡಿಯಂ ಅಯಾನುಗಳನ್ನು (Na⁺) ತನ್ನತ್ತ ಆಕರ್ಷಿಸುತ್ತದೆ. ನಂತರ, ಪ್ರತಿಯೊಂದು ಸೋಡಿಯಂ ಅಯಾನು ಋಣಾಗ್ರದಿಂದ ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ (e⁻) ಅನ್ನು ಸ್ವೀಕರಿಸುತ್ತದೆ. ಈ ಎಲೆಕ್ಟ್ರಾನ್ ಸೇರ್ಪಡೆಯಾದಾಗ, ಸೋಡಿಯಂ ಅಯಾನು ಸೋಡಿಯಂ ಲೋಹವಾಗಿ (Na) ಅಪಕರ್ಷಣೆಗೊಂಡು ಋಣಾಗ್ರದ ಮೇಲೆ ಸಂಗ್ರಹವಾಗುತ್ತದೆ. ಹೀಗೆ ಶುದ್ಧ ಸೋಡಿಯಂ ಲೋಹವು ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಋಣಾಗ್ರವು (cathode) ಸೋಡಿಯಂ ಅಯಾನುಗಳನ್ನು (Na⁺) ಆಕರ್ಷಿಸುತ್ತದೆ.",
+    "ಪ್ರತಿ Na⁺ ಅಯಾನು ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ (e⁻) ಅನ್ನು ಪಡೆಯುತ್ತದೆ.",
+    "Na⁺ ಅಯಾನು ಸೋಡಿಯಂ ಲೋಹವಾಗಿ (Na) ಅಪಕರ್ಷಣೆಗೊಳ್ಳುತ್ತದೆ.",
+    "ಶುದ್ಧ ಸೋಡಿಯಂ ಲೋಹವು ಋಣಾಗ್ರದ ಮೇಲೆ ಸಂಗ್ರಹವಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating the reduction of a sodium ion at the cathode. A negatively charged cathode is shown. A positively charged sodium ion (Na+) is moving towards it. An electron (e-) is shown transferring from the cathode to the Na+ ion. The result is a neutral sodium atom (Na) deposited on the surface of the cathode.",
+    "labels": "ಋಣಾಗ್ರ (-), ಸೋಡಿಯಂ ಅಯಾನು (Na⁺), ಎಲೆಕ್ಟ್ರಾನ್ (e⁻), ಸೋಡಿಯಂ ಪರಮಾಣು (Na)",
+    "scientific_significance": "This visualizes the fundamental process of reduction at the cathode during electrolysis, where a cation gains an electron to become a neutral atom.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "std_10_chapter_3_concept_10_chunk_021"
+}

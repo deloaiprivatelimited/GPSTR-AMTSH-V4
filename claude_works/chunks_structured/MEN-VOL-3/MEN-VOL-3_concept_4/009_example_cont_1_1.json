@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಗೋಚರ ಸಾಮರ್ಥ್ಯ",
+  "script": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ಸಿಲಿಂಡರ್‌ನ ವ್ಯಾಸ 5 ಸೆಂಟಿಮೀಟರ್, ಆದ್ದರಿಂದ ತ್ರಿಜ್ಯ ಆರ್ ಸಮ 5 ಭಾಗಿಸು 2, ಅಂದರೆ 2.5 ಸೆಂಟಿಮೀಟರ್ ಆಗುತ್ತದೆ. ಎತ್ತರ ಎಚ್ ಸಮ 10 ಸೆಂಟಿಮೀಟರ್. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಲೋಟದ ಗೋಚರ ಸಾಮರ್ಥ್ಯವನ್ನು ಲೆಕ್ಕ ಹಾಕೋಣ. ಇದು ಸಿಲಿಂಡರ್‌ನ ಪೂರ್ಣ ಘನಫಲಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ಸಿಲಿಂಡರ್‌ನ ಘನಫಲದ ಸೂತ್ರ ವಿ ಸಮ ಪೈ ಆರ್ ಸ್ಕ್ವೇರ್ ಎಚ್. ಈಗ ಬೆಲೆಗಳನ್ನು ಹಾಕೋಣ. ವಿ ಸಮ 3.14 ಗುಣಿಸು 2.5 ಸ್ಕ್ವೇರ್ ಗುಣಿಸು 10. 2.5 ಸ್ಕ್ವೇರ್ ಎಂದರೆ 6.25. ಹಾಗಾಗಿ, 3.14 ಗುಣಿಸು 6.25 ಗುಣಿಸು 10. ಇದು 196.25 ಘನ ಸೆಂಟಿಮೀಟರ್ ಆಗುತ್ತದೆ.",
+  "script_display": "ಪರಿಹಾರದ ಹಂತಗಳು:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "MEN-VOL-3_example_9",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸುವುದು: \nಸಿಲಿಂಡರ್: $d=5 \\text{ cm} \\implies r = \\frac{5}{2} = 2.5 \\text{ cm}$, $h=10 \\text{ cm}$\nಅರ್ಧಗೋಳ: $r=2.5 \\text{ cm}$",
+      "justification": "ವ್ಯಾಸದ ಅರ್ಧ ತ್ರಿಜ್ಯವಾಗಿರುತ್ತದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಗೋಚರ ಸಾಮರ್ಥ್ಯ (Apparent Capacity) ಲೆಕ್ಕಾಚಾರ:\n$V_{\\text{apparent}} = \\pi r^2 h$\n$= 3.14 \\times (2.5)^2 \\times 10$\n$= 3.14 \\times 6.25 \\times 10$\n$= 196.25 \\text{ cm}^3$",
+      "justification": "ಗೋಚರ ಸಾಮರ್ಥ್ಯವು ಸಿಲಿಂಡರ್‌ನ ಘನಫಲಕ್ಕೆ ಸಮ."
+    }
+  ],
+  "chunk_id": "MEN-VOL-3_concept_4_chunk_009"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಬೆಳಕಿನ ವಿವರ್ತನೆ (Dispersion of Light)",
+  "script": "ಬೆಳಕಿನ ವಿವರ್ತನೆಯನ್ನು ನೋಡಲು ನಾವು ಪ್ರಯೋಗಾಲಯಕ್ಕೆ ಹೋಗಬೇಕಾಗಿಲ್ಲ. ಪ್ರಕೃತಿಯೇ ನಮಗೆ ಒಂದು ಅದ್ಭುತ ಉದಾಹರಣೆಯನ್ನು ನೀಡುತ್ತದೆ, ಅದುವೇ ಕಾಮನಬಿಲ್ಲು. ಮಳೆ ಬಂದು ನಿಂತ ನಂತರ, ಗಾಳಿಯಲ್ಲಿ ತೇಲುತ್ತಿರುವ ನೀರಿನ ಸಣ್ಣ ಹನಿಗಳು ಲಕ್ಷಾಂತರ ಚಿಕ್ಕ ಚಿಕ್ಕ ಪಟ್ಟಕಗಳಂತೆ ವರ್ತಿಸುತ್ತವೆ. ಸೂರ್ಯನ ಬಿಳಿ ಬೆಳಕು ಈ ಹನಿಗಳ ಮೂಲಕ ಹಾದುಹೋದಾಗ, ಅದು ವಿವರ್ತನೆಗೊಂಡು ಏಳು ಬಣ್ಣಗಳ ಕಾಮನಬಿಲ್ಲಿನಂತೆ ನಮಗೆ ಕಾಣಿಸುತ್ತದೆ. ಹಾಗಾಗಿ, ಕಾಮನಬಿಲ್ಲು ಬೆಳಕಿನ ವಿವರ್ತನೆಯ ಒಂದು ನೈಸರ್ಗಿಕ ವಿದ್ಯಮಾನವಾಗಿದೆ ಎಂದು ನಾವು ಹೇಳಬಹುದು.",
+  "script_display": "ಬೆಳಕಿನ ವಿವರ್ತನೆಯನ್ನು ನೋಡಲು ನಾವು ಪ್ರಯೋಗಾಲಯಕ್ಕೆ ಹೋಗಬೇಕಾಗಿಲ್ಲ. ಪ್ರಕೃತಿಯೇ ನಮಗೆ ಒಂದು ಅದ್ಭುತ ಉದಾಹರಣೆಯನ್ನು ನೀಡುತ್ತದೆ, ಅದುವೇ ಕಾಮನಬಿಲ್ಲು. ಮಳೆ ಬಂದು ನಿಂತ ನಂತರ, ಗಾಳಿಯಲ್ಲಿ ತೇಲುತ್ತಿರುವ ನೀರಿನ ಸಣ್ಣ ಹನಿಗಳು ಲಕ್ಷಾಂತರ ಚಿಕ್ಕ ಚಿಕ್ಕ ಪಟ್ಟಕಗಳಂತೆ (prisms) ವರ್ತಿಸುತ್ತವೆ. ಸೂರ್ಯನ ಬಿಳಿ ಬೆಳಕು ಈ ಹನಿಗಳ ಮೂಲಕ ಹಾದುಹೋದಾಗ, ಅದು ವಿವರ್ತನೆಗೊಂಡು ಏಳು ಬಣ್ಣಗಳ ಕಾಮನಬಿಲ್ಲಿನಂತೆ ನಮಗೆ ಕಾಣಿಸುತ್ತದೆ. ಹಾಗಾಗಿ, ಕಾಮನಬಿಲ್ಲು ಬೆಳಕಿನ ವಿವರ್ತನೆಯ ಒಂದು ನೈಸರ್ಗಿಕ ವಿದ್ಯಮಾನವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕಾಮನಬಿಲ್ಲು ಬೆಳಕಿನ ವಿವರ್ತನೆಯ ಒಂದು ನೈಸರ್ಗಿಕ ಉದಾಹರಣೆ.",
+    "ಮಳೆಯ ನೀರಿನ ಹನಿಗಳು ಸಣ್ಣ ಪಟ್ಟಕಗಳಂತೆ (prisms) ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ.",
+    "ಸೂರ್ಯನ ಬೆಳಕು ಈ ಹನಿಗಳ ಮೂಲಕ ಹಾದುಹೋದಾಗ ವಿಭಜನೆಗೊಂಡು ಕಾಮನಬಿಲ್ಲು ಮೂಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beautiful, clear photograph of a rainbow in the sky after rainfall, with the sun likely behind the viewer.",
+    "labels": "Rainbow, Sky, Clouds",
+    "scientific_significance": "Illustrates the natural occurrence of dispersion of light through water droplets in the atmosphere.",
+    "placeholder_note": "Image to be generated. Use the label 'ಚಿತ್ರ 11.28: ಕಾಮನಬಿಲ್ಲು' from the context."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_11_concept_8_chunk_006"
+}

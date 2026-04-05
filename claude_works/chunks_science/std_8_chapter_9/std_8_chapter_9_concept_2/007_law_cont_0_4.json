@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉರುಳು ಘರ್ಷಣೆ ಏಕೆ ಅತಿ ಕಡಿಮೆ?",
+  "script": "ಈಗ, ಅದೇ ಕಪಾಟಿನ ಕೆಳಗೆ ಚಕ್ರಗಳನ್ನು ಅಳವಡಿಸೋಣ. ಒಂದು ವಸ್ತುವನ್ನು ಜಾರಿಸುವಾಗ, ಅದರ ಸಂಪೂರ್ಣ ಕೆಳಭಾಗವು ನೆಲದೊಂದಿಗೆ ಸಂಪರ್ಕದಲ್ಲಿರುತ್ತದೆ. ಆದರೆ, ಚಕ್ರಗಳ ಮೇಲೆ ಉರುಳುವಾಗ, ನೆಲದೊಂದಿಗೆ ಸಂಪರ್ಕದಲ್ಲಿರುವ ಪ್ರದೇಶವು ತುಂಬಾ ಚಿಕ್ಕದಾಗಿರುತ್ತದೆ. ಚಕ್ರಗಳು ಮೇಲ್ಮೈಯ ಮೇಲೆ ಜಾರುವ ಬದಲು ಉರುಳುತ್ತವೆ. ಈ ಉರುಳುವ ಚಲನೆಯು ಮೇಲ್ಮೈಗಳ ಇಂಟರ್‌ಲಾಕಿಂಗ್ ಅನ್ನು ಬಹುತೇಕ ಇಲ್ಲವಾಗಿಸುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಉರುಳು ಘರ್ಷಣೆಯು ಜಾರು ಘರ್ಷಣೆಗಿಂತ ಅತ್ಯಂತ ಕಡಿಮೆಯಿರುತ್ತದೆ. ಲಗೇಜ್ ಬ್ಯಾಗ್‌ಗಳು ಮತ್ತು ಟ್ರಾಲಿಗಳಲ್ಲಿ ಚಕ್ರಗಳ ಬಳಕೆಗೆ ಇದೇ ತತ್ವ ಕಾರಣ.",
+  "script_display": "ಈಗ, ಅದೇ ಕಪಾಟಿನ ಕೆಳಗೆ ಚಕ್ರಗಳನ್ನು ಅಳವಡಿಸೋಣ. ಒಂದು ವಸ್ತುವನ್ನು ಜಾರಿಸುವಾಗ, ಅದರ ಸಂಪೂರ್ಣ ಕೆಳಭಾಗವು ನೆಲದೊಂದಿಗೆ ಸಂಪರ್ಕದಲ್ಲಿರುತ್ತದೆ. ಆದರೆ, ಚಕ್ರಗಳ ಮೇಲೆ ಉರುಳುವಾಗ, ನೆಲದೊಂದಿಗೆ ಸಂಪರ್ಕದಲ್ಲಿರುವ ಪ್ರದೇಶವು ತುಂಬಾ ಚಿಕ್ಕದಾಗಿರುತ್ತದೆ. ಚಕ್ರಗಳು ಮೇಲ್ಮೈಯ ಮೇಲೆ ಜಾರುವ ಬದಲು ಉರುಳುತ್ತವೆ. ಈ ಉರುಳುವ ಚಲನೆಯು ಮೇಲ್ಮೈಗಳ ಇಂಟರ್‌ಲಾಕಿಂಗ್ ಅನ್ನು ಬಹುತೇಕ ಇಲ್ಲವಾಗಿಸುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಉರುಳು ಘರ್ಷಣೆಯು (Rolling Friction) ಜಾರು ಘರ್ಷಣೆಗಿಂತ ಅತ್ಯಂತ ಕಡಿಮೆಯಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉರುಳುವಾಗ, ಸಂಪರ್ಕದಲ್ಲಿರುವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ತುಂಬಾ ಕಡಿಮೆ.",
+    "ಚಕ್ರಗಳು ಜಾರುವ ಬದಲು ಉರುಳುತ್ತವೆ, ಇಂಟರ್‌ಲಾಕಿಂಗ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತವೆ.",
+    "ಆದ್ದರಿಂದ, ಉರುಳು ಘರ್ಷಣೆ << ಜಾರು ಘರ್ಷಣೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_dark_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same person now easily pushing the cupboard which is placed on a wheeled trolley. The magnified view shows the wheel's small point of contact with the floor.",
+    "labels": "ಚಕ್ರಗಳ ಮೇಲಿರುವ ಕಪಾಟು, ಉರುಳು ಘರ್ಷಣೆ, ಕಡಿಮೆ ಸಂಪರ್ಕ ಪ್ರದೇಶ",
+    "scientific_significance": "Demonstrates how converting sliding motion to rolling motion drastically reduces the contact area and interlocking, thereby reducing friction.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_9_concept_2_chunk_007"
+}

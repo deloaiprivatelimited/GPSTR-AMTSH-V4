@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಲೋಹಗಳ ಸಂಕ್ಷಾರಣ: ಉದಾಹರಣೆಗಳು",
+  "script": "ಮುಂದಿನ ಉದಾಹರಣೆ ಬೆಳ್ಳಿ. ಬೆಳ್ಳಿಯ ವಸ್ತುಗಳು ಕಾಲಕ್ರಮೇಣ ತಮ್ಮ ಹೊಳಪನ್ನು ಕಳೆದುಕೊಂಡು ಕಪ್ಪಾಗುವುದನ್ನು ನೀವು ಗಮನಿಸಿರಬಹುದು. ಇದು ಕೂಡ ಒಂದು ರೀತಿಯ ಸಂಕ್ಷಾರಣ. ಗಾಳಿಯಲ್ಲಿರುವ ಸಲ್ಫರ್ ಸಂಯುಕ್ತಗಳೊಂದಿಗೆ, ವಿಶೇಷವಾಗಿ ಹೈಡ್ರೋಜನ್ ಸಲ್ಫೈಡ್‌ನೊಂದಿಗೆ ಬೆಳ್ಳಿಯು ವರ್ತಿಸುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯಿಂದಾಗಿ ಬೆಳ್ಳಿಯ ಮೇಲೆ ಕಪ್ಪು ಬಣ್ಣದ ಸಿಲ್ವರ್ ಸಲ್ಫೈಡ್ ಎಂಬ ಪದರವು ಉಂಟಾಗುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಬೆಳ್ಳಿಯ ಆಭರಣಗಳು ಅಥವಾ ಪಾತ್ರೆಗಳು ಕಪ್ಪಾಗುತ್ತವೆ. ಇದನ್ನು ನಾವು ಬೆಳ್ಳಿ ಕಳಂಕಿತಗೊಂಡಿದೆ ಎನ್ನುತ್ತೇವೆ.",
+  "script_display": "ಮುಂದಿನ ಉದಾಹರಣೆ ಬೆಳ್ಳಿ (Silver). ಬೆಳ್ಳಿಯ ವಸ್ತುಗಳು ಕಾಲಕ್ರಮೇಣ ತಮ್ಮ ಹೊಳಪನ್ನು ಕಳೆದುಕೊಂಡು ಕಪ್ಪಾಗುವುದನ್ನು ನೀವು ಗಮನಿಸಿರಬಹುದು. ಇದು ಕೂಡ ಒಂದು ರೀತಿಯ ಸಂಕ್ಷಾರಣ. ಗಾಳಿಯಲ್ಲಿರುವ ಸಲ್ಫರ್ ಸಂಯುಕ್ತಗಳೊಂದಿಗೆ (ಉದಾಹರಣೆಗೆ, H₂S) ಬೆಳ್ಳಿಯು ವರ್ತಿಸುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯಿಂದಾಗಿ ಬೆಳ್ಳಿಯ ಮೇಲೆ ಕಪ್ಪು ಬಣ್ಣದ ಸಿಲ್ವರ್ ಸಲ್ಫೈಡ್ (Ag₂S) ಎಂಬ ಪದರವು ಉಂಟಾಗುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಬೆಳ್ಳಿಯ ಆಭರಣಗಳು ಅಥವಾ ಪಾತ್ರೆಗಳು ಕಪ್ಪಾಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ಬೆಳ್ಳಿ: ಗಾಳಿಯಲ್ಲಿನ ಸಲ್ಫರ್‌ನೊಂದಿಗೆ ವರ್ತಿಸಿ ಕಪ್ಪು ಬಣ್ಣದ ಬೆಳ್ಳಿಯ ಸಲ್ಫೈಡ್ (Ag₂S) ಪದರ ಉಂಟಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A silver spoon that is half polished and shiny, and half tarnished with a black layer of silver sulfide.",
+    "labels": "ಹೊಳಪಾದ ಬೆಳ್ಳಿ, ಕಳಂಕಿತ ಬೆಳ್ಳಿ (ಕಪ್ಪು ಪದರ)",
+    "scientific_significance": "Demonstrates the tarnishing of silver as a form of corrosion.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_11_chunk_013"
+}

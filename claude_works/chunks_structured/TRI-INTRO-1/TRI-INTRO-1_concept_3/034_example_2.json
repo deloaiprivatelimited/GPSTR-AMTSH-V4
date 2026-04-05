@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ನಿತ್ಯಸಮೀಕರಣ ಸಾಧನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಕಾಟ್ ಎ ಮೈನಸ್ ಕಾಸ್ ಎ ಭಾಗಿಸು ಕಾಟ್ ಎ ಪ್ಲಸ್ ಕಾಸ್ ಎ, ಇದು ಕೊಸೆಕ್ ಎ ಮೈನಸ್ ಒಂದು ಭಾಗಿಸು ಕೊಸೆಕ್ ಎ ಪ್ಲಸ್ ಒಂದಕ್ಕೆ ಸಮ ಎಂದು ಸಾಧಿಸಬೇಕು. ಇದನ್ನು ಸಾಧಿಸಲು, ನಾವು ಸಾಮಾನ್ಯವಾಗಿ ಹೆಚ್ಚು ಸಂಕೀರ್ಣವಾಗಿ ಕಾಣುವ ಬದಿಯಿಂದ ಪ್ರಾರಂಭಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ, ಎಡಭಾಗ, ಅಂದರೆ ಎಲ್ ಎಚ್ ಎಸ್, ಹೆಚ್ಚು ಸಂಕೀರ್ಣವಾಗಿದೆ, ಆದ್ದರಿಂದ ನಾವು ಅಲ್ಲಿಂದ ಪ್ರಾರಂಭಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $\\frac{\\cot A - \\cos A}{\\cot A + \\cos A} = \\frac{\\csc A - 1}{\\csc A + 1}$ ಎಂದು ಸಾಧಿಸಬೇಕು. ಇದನ್ನು ಸಾಧಿಸಲು, ನಾವು ಸಾಮಾನ್ಯವಾಗಿ ಹೆಚ್ಚು ಸಂಕೀರ್ಣವಾಗಿ ಕಾಣುವ ಬದಿಯಿಂದ ಪ್ರಾರಂಭಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ, ಎಡಭಾಗ (LHS) ಹೆಚ್ಚು ಸಂಕೀರ್ಣವಾಗಿದೆ, ಆದ್ದರಿಂದ ನಾವು ಅಲ್ಲಿಂದ ಪ್ರಾರಂಭಿಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸಾಧಿಸಿ: } \\frac{\\cot A - \\cos A}{\\cot A + \\cos A} = \\frac{\\csc A - 1}{\\csc A + 1}",
+    "placeholder_note": "Problem statement"
+  },
+  "source_example_id": "TRI-INTRO-1_example_11",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_034"
+}

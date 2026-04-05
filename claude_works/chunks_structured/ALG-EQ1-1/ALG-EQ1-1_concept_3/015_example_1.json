@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ ಪರಿಚಯ: 10y - 20 = 50",
+  "script": "ಈಗ ನಾವು ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯು ನಾವು ಪಾಠದ ಆರಂಭದಲ್ಲಿ ಆಡಿದ 'ಮನಸ್ಸಿನಲ್ಲಿರುವುದನ್ನು ಹೇಳುವ ಆಟ'ದ ಗಣಿತೀಯ ರೂಪವಾಗಿದೆ. ನಮಗೆ ನೀಡಿದ ಸಮೀಕರಣ, ಹತ್ತು ವೈ ಮೈನಸ್ ಇಪ್ಪತ್ತು ಸಮ ಐವತ್ತು. ಇಲ್ಲಿ ನಾವು ಚರಾಕ್ಷರ ವೈ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು, ಅಂದರೆ, ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಬೇಕು.",
+  "script_display": "ಈಗ ನಾವು ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯು ನಾವು ಪಾಠದ ಆರಂಭದಲ್ಲಿ ಆಡಿದ 'ಮನಸ್ಸಿನಲ್ಲಿರುವುದನ್ನು ಹೇಳುವ ಆಟ'ದ ಗಣಿತೀಯ ರೂಪವಾಗಿದೆ. ನಮಗೆ ನೀಡಿದ ಸಮೀಕರಣ, $10y - 20 = 50$. ಇಲ್ಲಿ ನಾವು ಚರಾಕ್ಷರ $y$ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು, ಅಂದರೆ, ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಸಮೀಕರಣ ಬಿಡಿಸಿ: $10y - 20 = 50$",
+    "ಗುರಿ: ಚರಾಕ್ಷರ 'y' ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "10y - 20 = 50",
+    "placeholder_note": "Display the equation prominently."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ1-1_example_mindread2",
+  "chunk_id": "ALG-EQ1-1_concept_3_chunk_015"
+}

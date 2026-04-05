@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಪರೀಕ್ಷೆಗೆ ಬೇಕಾದ ಉಪಕರಣಗಳು",
+  "script": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಉಪಕರಣಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ದ್ರಾವಣವನ್ನು ಇಡಲು ನಮಗೆ ಒಂದು ಬೀಕರ್ ಬೇಕು. ನಂತರ, ವಾಹಕತೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು ಒಂದು ಪರೀಕ್ಷಕ, ಅಂದರೆ ಟೆಸ್ಟರ್, ಬೇಕಾಗುತ್ತದೆ. ಈ ಪರೀಕ್ಷಕವು ಒಂದು ಬ್ಯಾಟರಿ ಮತ್ತು ಎಲ್ ಇ ಡಿ ಬಲ್ಬ್‌ಗೆ ಸಂಪರ್ಕಿಸಲಾದ ಎರಡು ತಂತಿಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ನಾವು ಶುದ್ಧವಾದ ಆಸವಿತ ನೀರನ್ನು ಬಳಸುತ್ತೇವೆ. ಇದರ ಜೊತೆಗೆ, ನಾವು ಪರೀಕ್ಷಿಸಬೇಕಾದ ವಸ್ತುಗಳಾದ ಅಡುಗೆ ಉಪ್ಪು, ನಿಂಬೆರಸ, ಕಾಸ್ಟಿಕ್ ಸೋಡಾ ಮತ್ತು ಸಕ್ಕರೆಯನ್ನು ಸಿದ್ಧವಾಗಿಟ್ಟುಕೊಳ್ಳಬೇಕು. ಇವಿಷ್ಟು ಸಾಮಗ್ರಿಗಳು ನಮ್ಮ ಪ್ರಯೋಗಕ್ಕೆ ಸಾಕಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಉಪಕರಣಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ದ್ರಾವಣವನ್ನು ಇಡಲು ನಮಗೆ ಒಂದು ಬೀಕರ್ ಬೇಕು. ನಂತರ, ವಾಹಕತೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು ಒಂದು ಪರೀಕ್ಷಕ (Tester) ಬೇಕಾಗುತ್ತದೆ. ಈ ಪರೀಕ್ಷಕವು ಒಂದು ಬ್ಯಾಟರಿ ಮತ್ತು LED ಬಲ್ಬ್‌ಗೆ ಸಂಪರ್ಕಿಸಲಾದ ಎರಡು ತಂತಿಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ನಾವು ಶುದ್ಧವಾದ ಆಸವಿತ ನೀರನ್ನು ಬಳಸುತ್ತೇವೆ. ಇದರ ಜೊತೆಗೆ, ನಾವು ಪರೀಕ್ಷಿಸಬೇಕಾದ ವಸ್ತುಗಳಾದ ಅಡುಗೆ ಉಪ್ಪು, ನಿಂಬೆರಸ, ಕಾಸ್ಟಿಕ್ ಸೋಡಾ ಮತ್ತು ಸಕ್ಕರೆಯನ್ನು ಸಿದ್ಧವಾಗಿಟ್ಟುಕೊಳ್ಳಬೇಕು. ಇವಿಷ್ಟು ಸಾಮಗ್ರಿಗಳು ನಮ್ಮ ಪ್ರಯೋಗಕ್ಕೆ ಸಾಕಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬೀಕರ್",
+    "ಪರೀಕ್ಷಕ (ಬ್ಯಾಟರಿ ಮತ್ತು LED ಬಲ್ಬ್ ಸಹಿತ)",
+    "ಆಸವಿತ ನೀರು",
+    "ಪರೀಕ್ಷಿಸಬೇಕಾದ ವಸ್ತುಗಳು (ಉಪ್ಪು, ನಿಂಬೆರಸ, ಇತ್ಯಾದಿ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the conductivity experiment. It includes a beaker, a tester made of a battery, an LED, and two wires (electrodes). Also shown are small containers of salt, lemon, and sugar.",
+    "labels": "Beaker, Tester, Battery, LED, Electrodes, Distilled Water, Salt, Lemon Juice, Sugar",
+    "scientific_significance": "Illustrates the basic setup required to test the electrical conductivity of liquids.",
+    "placeholder_note": "Image to be generated showing the labeled apparatus for the experiment."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_8_science_chapter_11_concept_3_chunk_009"
+}

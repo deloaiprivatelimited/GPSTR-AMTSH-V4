@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಲವಣದಲ್ಲಿನ ಅಯಾನುಗಳು (Ions in a Salt)",
+  "script": "ಒಂದು ಲವಣದಲ್ಲಿ ಯಾವಾಗಲೂ ಎರಡು ಭಾಗಗಳಿರುತ್ತವೆ. ಒಂದು ಧನ ಅಯಾನು, ಇದನ್ನು ಕ್ಯಾಟಯಾನ್ ಎನ್ನುತ್ತೇವೆ, ಮತ್ತು ಇನ್ನೊಂದು ಋಣ ಅಯಾನು, ಇದನ್ನು ಆನಯಾನ್ ಎನ್ನುತ್ತೇವೆ. ನಮ್ಮ ಉದಾಹರಣೆಯಾದ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ನಲ್ಲಿ, ಧನ ಅಯಾನು ಪ್ರತ್ಯಾಮ್ಲದಿಂದ ಬರುತ್ತದೆ. ಅಂದರೆ, ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ನಿಂದ ಸೋಡಿಯಂ ಅಯಾನು, Na ಪ್ಲಸ್, ಬರುತ್ತದೆ. ಹಾಗೆಯೇ, ಋಣ ಅಯಾನು ಆಮ್ಲದಿಂದ ಬರುತ್ತದೆ. ಅಂದರೆ, ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದಿಂದ ಕ್ಲೋರೈಡ್ ಅಯಾನು, C l ಮೈನಸ್, ಬರುತ್ತದೆ. ಈ ಧನ ಮತ್ತು ಋಣ ಅಯಾನುಗಳು ಸೇರಿಯೇ ಅಯಾನಿಕ್ ಸಂಯುಕ್ತವಾದ ಲವಣ ಉಂಟಾಗಿರುವುದು.",
+  "script_display": "ಒಂದು ಲವಣದಲ್ಲಿ ಯಾವಾಗಲೂ ಎರಡು ಭಾಗಗಳಿರುತ್ತವೆ. ಒಂದು ಧನ ಅಯಾನು (Cation) ಮತ್ತು ಇನ್ನೊಂದು ಋಣ ಅಯಾನು (Anion). ನಮ್ಮ ಉದಾಹರಣೆಯಾದ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್‌ನಲ್ಲಿ (NaCl), ಧನ ಅಯಾನು ಪ್ರತ್ಯಾಮ್ಲದಿಂದ ಬರುತ್ತದೆ. ಅಂದರೆ, ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್‌ನಿಂದ (NaOH) ಸೋಡಿಯಂ ಅಯಾನು (Na⁺) ಬರುತ್ತದೆ. ಹಾಗೆಯೇ, ಋಣ ಅಯಾನು ಆಮ್ಲದಿಂದ ಬರುತ್ತದೆ. ಅಂದರೆ, ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದಿಂದ (HCl) ಕ್ಲೋರೈಡ್ ಅಯಾನು (Cl⁻) ಬರುತ್ತದೆ. ಈ ಧನ ಮತ್ತು ಋಣ ಅಯಾನುಗಳು ಸೇರಿಯೇ ಅಯಾನಿಕ್ ಸಂಯುಕ್ತವಾದ ಲವಣ ಉಂಟಾಗಿರುವುದು.",
+  "display_bullets": [
+    "ಪ್ರತ್ಯಾಮ್ಲದಿಂದ ಧನ ಅಯಾನು (Cation) ಬರುತ್ತದೆ. (ಉದಾ: NaOH ನಿಂದ Na⁺)",
+    "ಆಮ್ಲದಿಂದ ಋಣ ಅಯಾನು (Anion) ಬರುತ್ತದೆ. (ಉದಾ: HCl ನಿಂದ Cl⁻)",
+    "ಧನ ಅಯಾನು + ಋಣ ಅಯಾನು → ಅಯಾನಿಕ್ ಸಂಯುಕ್ತ (ಲವಣ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the origin of ions in Sodium Chloride (NaCl). On the left, show NaOH splitting into Na+ and OH-. On the right, show HCl splitting into H+ and Cl-. Arrows should show Na+ and Cl- coming together to form NaCl.",
+    "labels": "NaOH, HCl, Na+, Cl-, NaCl",
+    "scientific_significance": "Illustrates that a salt is composed of a cation from a base and an anion from an acid.",
+    "placeholder_note": "Image to be generated: Two sources (NaOH, HCl) providing their respective ions (Na+, Cl-) which combine to form the salt (NaCl)."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_2_concept_8_chunk_005"
+}

@@ -1,0 +1,191 @@
+{
+  "module_id": "std_6_chapter_11_concept_2",
+  "chapter_code": "std_6_chapter_11",
+  "voice": "Aoede",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 16,
+  "ok_count": 16,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:36:37",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "23141952fdf2b730ee1c5bcbbca47d83",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 24.931,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 28,
+      "generated_at": "2026-04-02 12:33:22"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "9594dff68d0a245bed5a05147de6830b",
+      "wav_file": "003_definition_0.wav",
+      "duration": 38.531,
+      "slide_title": "ಮಾರುತ ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 12:33:32"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "dda457792ea57312957dc13c12651f1d",
+      "wav_file": "001_intro_0.wav",
+      "duration": 48.611,
+      "slide_title": "ಗಾಳಿ",
+      "type": "intro",
+      "script_words": 70,
+      "generated_at": "2026-04-02 12:33:36"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "b0aa9c78ddfcd050dbd1242373f9900e",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 45.011,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಮಾರುತ (Wind)",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 12:33:59"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "658866fd340ccbe45bff54de537ab99e",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 45.091,
+      "slide_title": "ಮಾರುತದ ವೇಗದ ವ್ಯತ್ಯಾಸಗಳು",
+      "type": "definition",
+      "script_words": 50,
+      "generated_at": "2026-04-02 12:34:05"
+    },
+    "007_property_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "f13fd0527ee3986f76540b5ce8c667d4",
+      "wav_file": "007_property_0.wav",
+      "duration": 41.891,
+      "slide_title": "ಗಾಳಿಯ ಸಂಯೋಜನೆ: ಒಂದು ಮಿಶ್ರಣ",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 12:34:33"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "38e37abfcc5a717a63a1cbd14006dd43",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 43.411,
+      "slide_title": "ಉದಾಹರಣೆ ಮತ್ತು ಪ್ರತೀ-ಉದಾಹರಣೆ",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 12:34:36"
+    },
+    "009_property_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "51e0b2c3a237b33a177848466f345035",
+      "wav_file": "009_property_1.wav",
+      "duration": 50.891,
+      "slide_title": "ಗಾಳಿಯಲ್ಲಿನ ಇತರ ಅನಿಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-04-02 12:34:41"
+    },
+    "008_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "53f44c274401b69f79e947973f4a3aca",
+      "wav_file": "008_property_cont_0_1.wav",
+      "duration": 57.691,
+      "slide_title": "ಗಾಳಿಯ ಪ್ರಮುಖ ಅನಿಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 12:35:04"
+    },
+    "010_property_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "b9364fdfe65ea29e7ff142fd0fdff446",
+      "wav_file": "010_property_cont_1_1.wav",
+      "duration": 55.451,
+      "slide_title": "ಆಮ್ಲಜನಕದ ಪ್ರಾಮುಖ್ಯತೆ",
+      "type": "concept_explanation",
+      "script_words": 74,
+      "generated_at": "2026-04-02 12:35:07"
+    },
+    "012_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "b26ebf1461f9f17688f5fc8f0c0f9c6e",
+      "wav_file": "012_experiment_cont_0_1.wav",
+      "duration": 44.411,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "experiment",
+      "script_words": 55,
+      "generated_at": "2026-04-02 12:35:33"
+    },
+    "014_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "8de07b9f34b8fa79a378a7f92723aa76",
+      "wav_file": "014_experiment_cont_0_3.wav",
+      "duration": 39.011,
+      "slide_title": "ವೀಕ್ಷಣೆ: ಏನಾಗುತ್ತದೆ?",
+      "type": "experiment",
+      "script_words": 52,
+      "generated_at": "2026-04-02 12:35:34"
+    },
+    "013_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "4eb3437d7ef2e1d87131660cdb972895",
+      "wav_file": "013_experiment_cont_0_2.wav",
+      "duration": 38.411,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 3 (ಅಂತಿಮ ಜೋಡಣೆ)",
+      "type": "experiment",
+      "script_words": 49,
+      "generated_at": "2026-04-02 12:35:37"
+    },
+    "015_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "018e12b38c50622065e946e92e5b57fe",
+      "wav_file": "015_experiment_cont_0_4.wav",
+      "duration": 38.331,
+      "slide_title": "ತೀರ್ಮಾನ: ಚಲಿಸುವ ಗಾಳಿಯ ಶಕ್ತಿ",
+      "type": "experiment",
+      "script_words": 46,
+      "generated_at": "2026-04-02 12:35:57"
+    },
+    "011_experiment_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "38d3517d15a1b21066153095993aea5e",
+      "wav_file": "011_experiment_0.wav",
+      "duration": 44.531,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಗಿರಗಿಟ್ಟೆ ತಯಾರಿಸಲು ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳು",
+      "type": "experiment",
+      "script_words": 60,
+      "generated_at": "2026-04-02 12:35:59"
+    },
+    "016_recap_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "50aa4bfb20e4f24a6a66da623fd2d7ed",
+      "wav_file": "016_recap_0.wav",
+      "duration": 34.331,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 45,
+      "generated_at": "2026-04-02 12:36:37"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: OH ನ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಅಂತಿಮ ಹಂತಕ್ಕೆ ಬರೋಣ. ನಾವು OH ನ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ ಎಂಬ ಗುಣಲಕ್ಷಣವು HL ಕರ್ಣಕ್ಕೂ ಅನ್ವಯಿಸುತ್ತದೆ. ಅಂದರೆ, OH ನ ಉದ್ದವು HL ನ ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ. ನಾವು ಹಿಂದಿನ ಹಂತದಲ್ಲಿ HL ನ ಉದ್ದ 13 ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, OH ಸಮ ಒಂದು ಬೈ ಎರಡು ಗುಣಿಸು 13, ಅಂದರೆ 13 ನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ 6.5 ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಅಂತಿಮ ಹಂತಕ್ಕೆ ಬರೋಣ. ನಾವು $OH$ ನ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ ಎಂಬ ಗುಣಲಕ್ಷಣವು $HL$ ಕರ್ಣಕ್ಕೂ ಅನ್ವಯಿಸುತ್ತದೆ. ಅಂದರೆ, $OH$ ನ ಉದ್ದವು $HL$ ನ ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ. ನಾವು ಹಿಂದಿನ ಹಂತದಲ್ಲಿ $HL = 13$ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, $OH = \\frac{1}{2} \\times 13$, ಅಂದರೆ $13$ ನ್ನು $2$ ರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ $6.5$ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_only",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-QUAD-1_example_6",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$OH = \\frac{1}{2} \\times HL = \\frac{1}{2} \\times 13 = 6.5$",
+      "justification": "ಕರ್ಣ HL ಅನ್ನು O ಬಿಂದುವು ಅರ್ಧಿಸುತ್ತದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-QUAD-1_concept_4_chunk_028"
+}

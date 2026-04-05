@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ನಮ್ಮ ಅಂತಿಮ ತೀರ್ಮಾನವೇನೆಂದರೆ, ಎನ್ ನ ಯಾವುದೇ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಯ ಬೆಲೆಗೆ ನಾಲ್ಕರ ಘಾತ ಎನ್ ಎಂಬ ಸಂಖ್ಯೆಯು ಸೊನ್ನೆಯಿಂದ ಕೊನೆಗೊಳ್ಳುವುದಿಲ್ಲ. ಏಕೆಂದರೆ ಅದರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳಲ್ಲಿ ಐದು ಇರುವುದಿಲ್ಲ, ಇದು ಸೊನ್ನೆಯಿಂದ ಕೊನೆಗೊಳ್ಳಲು ಅತ್ಯಗತ್ಯ.",
+  "script_display": "ಹಾಗಾಗಿ, ನಮ್ಮ ಅಂತಿಮ ತೀರ್ಮಾನವೇನೆಂದರೆ, $n$ ನ ಯಾವುದೇ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಯ ಬೆಲೆಗೆ $4^n$ ಎಂಬ ಸಂಖ್ಯೆಯು ಸೊನ್ನೆಯಿಂದ ಕೊನೆಗೊಳ್ಳುವುದಿಲ್ಲ. ಏಕೆಂದರೆ ಅದರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳಲ್ಲಿ 5 ಇರುವುದಿಲ್ಲ, ಇದು ಸೊನ್ನೆಯಿಂದ ಕೊನೆಗೊಳ್ಳಲು ಅತ್ಯಗತ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-REAL-4_example_1",
+  "steps": [],
+  "final_answer": "n ನ ಯಾವುದೇ ಬೆಲೆಗೆ $4^n$ ಇದು ಸೊನ್ನೆಯಿಂದ ಕೊನೆಗೊಳ್ಳುವುದಿಲ್ಲ.",
+  "final_answer_display": "$n$ ನ ಯಾವುದೇ ಬೆಲೆಗೆ $4^n$ ಇದು ಸೊನ್ನೆಯಿಂದ ಕೊನೆಗೊಳ್ಳುವುದಿಲ್ಲ.",
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-REAL-4_concept_1_chunk_053"
+}

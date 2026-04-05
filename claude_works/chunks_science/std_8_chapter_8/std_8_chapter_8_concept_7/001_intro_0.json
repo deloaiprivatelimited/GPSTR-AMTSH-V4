@@ -1,0 +1,38 @@
+{
+  "type": "intro",
+  "slide_title": "ವಾತಾವರಣದ ಒತ್ತಡ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ನಮ್ಮ ಇಂದಿನ ಪಾಠಕ್ಕೆ ನಿಮಗೆಲ್ಲರಿಗೂ ಸ್ವಾಗತ. ನೀವು ಎಂದಾದರೂ ಸ್ಟ್ರಾ ಬಳಸಿ ಜ್ಯೂಸ್ ಕುಡಿಯುವಾಗ ಅದು ಹೇಗೆ ಮೇಲೆ ಬರುತ್ತದೆ ಎಂದು ಯೋಚಿಸಿದ್ದೀರಾ? ಅಥವಾ, ನಮ್ಮ ಸುತ್ತಲೂ ಇರುವ ಗಾಳಿಗೆ ಅಪಾರವಾದ ತೂಕವಿದ್ದರೂ, ನಾವು ಯಾಕೆ ಅದರ ಭಾರದಿಂದ ಜಜ್ಜಿ ಹೋಗುವುದಿಲ್ಲ? ಈ ಎಲ್ಲಾ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ವಾತಾವರಣದ ಒತ್ತಡದಲ್ಲಿದೆ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ವಾತಾವರಣದ ಒತ್ತಡ ಎಂದರೇನು, ವಾತಾವರಣದ ಒತ್ತಡವನ್ನು ಅಳೆಯುವುದು ಹೇಗೆ, ಅದರ ಕೆಲವು ಅದ್ಭುತ ನೈಜ ಪ್ರಪಂಚದ ಉದಾಹರಣೆಗಳು ಮತ್ತು ಅನ್ವಯಗಳು, ಮತ್ತು ಪ್ರಸಿದ್ಧ ಮ್ಯಾಗ್ಡೆಬರ್ಗ್ ಅರ್ಧಗೋಳಗಳ ಪ್ರಯೋಗದ ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ. ಈ ಅದ್ಭುತ ವೈಜ್ಞಾನಿಕ ಪರಿಕಲ್ಪನೆಯನ್ನು ಅನ್ವೇಷಿಸಲು ಸಿದ್ಧರಾಗಿ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ನಮ್ಮ ಇಂದಿನ ಪಾಠಕ್ಕೆ ನಿಮಗೆಲ್ಲರಿಗೂ ಸ್ವಾಗತ. ನೀವು ಎಂದಾದರೂ ಸ್ಟ್ರಾ ಬಳಸಿ ಜ್ಯೂಸ್ ಕುಡಿಯುವಾಗ ಅದು ಹೇಗೆ ಮೇಲೆ ಬರುತ್ತದೆ ಎಂದು ಯೋಚಿಸಿದ್ದೀರಾ? ಅಥವಾ, ನಮ್ಮ ಸುತ್ತಲೂ ಇರುವ ಗಾಳಿಗೆ ಅಪಾರವಾದ ತೂಕವಿದ್ದರೂ, ನಾವು ಯಾಕೆ ಅದರ ಭಾರದಿಂದ ಜಜ್ಜಿ ಹೋಗುವುದಿಲ್ಲ? ಈ ಎಲ್ಲಾ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ 'ವಾತಾವರಣದ ಒತ್ತಡ' (Atmospheric Pressure) ದಲ್ಲಿದೆ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಈ ಕೆಳಗಿನ ವಿಷಯಗಳನ್ನು ಕಲಿಯಲಿದ್ದೇವೆ:",
+  "display_bullets": [
+    "ವಾತಾವರಣದ ಒತ್ತಡ (Atmospheric Pressure) ಎಂದರೇನು?",
+    "ವಾತಾವರಣದ ಒತ್ತಡವನ್ನು ಅಳೆಯುವುದು ಹೇಗೆ?",
+    "ನೈಜ-ಪ್ರಪಂಚದ ಉದಾಹರಣೆಗಳು ಮತ್ತು ಅನ್ವಯಗಳು",
+    "ಮ್ಯಾಗ್ಡೆಬರ್ಗ್ ಅರ್ಧಗೋಳಗಳ ಪ್ರಯೋಗ"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "modern_dark",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A visually striking image of the Earth surrounded by its atmosphere. The atmosphere should be depicted as a visible, glowing blue layer of gas pressing down on the planet's surface. The style should be clean and modern, suitable for a YouTube science channel.",
+    "labels": "Earth, Atmosphere",
+    "scientific_significance": "Represents the concept of a sea of air surrounding the Earth, which is the source of atmospheric pressure.",
+    "placeholder_note": "Generate a beautiful, high-resolution image of Earth from space, with a clearly visible and slightly exaggerated atmospheric haze. The lighting should be dramatic."
+  },
+  "sub_type": "title",
+  "chunk_id": "std_8_chapter_8_concept_7_chunk_001"
+}

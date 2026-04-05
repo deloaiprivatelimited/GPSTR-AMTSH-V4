@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಕಂಪನ vs. ನಿಶ್ಚಲ ಸ್ಥಿತಿ",
+  "script": "ಶಬ್ದ ಮತ್ತು ಕಂಪನದ ನಡುವಿನ ಈ ಸಂಬಂಧವನ್ನು ಇನ್ನಷ್ಟು ದೃಢಪಡಿಸಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಗಿಟಾರ್‌ನ ತಂತಿಯನ್ನು ಮೀಟಿದಾಗ ಅದು ವೇಗವಾಗಿ ಕಂಪಿಸುತ್ತದೆ. ಈ ಕಂಪನದಿಂದ ನಮಗೆ ಸಂಗೀತದ ಸ್ವರ ಕೇಳಿಸುತ್ತದೆ. ಅಂದರೆ, ಕಂಪನ ಇದ್ದರೆ ಶಬ್ದ ಇರುತ್ತದೆ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಅದೇ ಗಿಟಾರ್ ತಂತಿಯು ನಿಶ್ಚಲ ಸ್ಥಿತಿಯಲ್ಲಿದೆ, ಅದು ಕಂಪಿಸುತ್ತಿಲ್ಲ. ಹಾಗಾಗಿ, ಯಾವುದೇ ಶಬ್ದ ಉತ್ಪತ್ತಿಯಾಗುತ್ತಿಲ್ಲ. ಇದರಿಂದ ನಮಗೆ ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯುವುದೇನೆಂದರೆ, ಶಬ್ದದ ಮೂಲವೇ ಕಂಪನ. ಕಂಪನವಿಲ್ಲದೆ ಶಬ್ದವಿಲ್ಲ. ಇದು ಶಬ್ದದ ಒಂದು ಮೂಲಭೂತ ಸತ್ಯ.",
+  "script_display": "ಶಬ್ದ ಮತ್ತು ಕಂಪನದ ನಡುವಿನ ಈ ಸಂಬಂಧವನ್ನು ಇನ್ನಷ್ಟು ದೃಢಪಡಿಸಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಗಿಟಾರ್‌ನ ತಂತಿಯನ್ನು ಮೀಟಿದಾಗ ಅದು ವೇಗವಾಗಿ ಕಂಪಿಸುತ್ತದೆ. ಈ ಕಂಪನದಿಂದ ನಮಗೆ ಸಂಗೀತದ ಸ್ವರ ಕೇಳಿಸುತ್ತದೆ. ಅಂದರೆ, ಕಂಪನ ಇದ್ದರೆ ಶಬ್ದ ಇರುತ್ತದೆ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಅದೇ ಗಿಟಾರ್ ತಂತಿಯು ನಿಶ್ಚಲ ಸ್ಥಿತಿಯಲ್ಲಿದೆ, ಅದು ಕಂಪಿಸುತ್ತಿಲ್ಲ. ಹಾಗಾಗಿ, ಯಾವುದೇ ಶಬ್ದ ಉತ್ಪತ್ತಿಯಾಗುತ್ತಿಲ್ಲ. ಇದರಿಂದ ನಮಗೆ ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯುವುದೇನೆಂದರೆ, ಶಬ್ದದ ಮೂಲವೇ ಕಂಪನ. ಕಂಪನವಿಲ್ಲದೆ ಶಬ್ದವಿಲ್ಲ. ಇದು ಶಬ್ದದ ಒಂದು ಮೂಲಭೂತ ಸತ್ಯ.",
+  "display_bullets": [
+    "ಕಂಪನ ಇರುವಾಗ: ಶಬ್ದ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ.",
+    "ಕಂಪನ ಇಲ್ಲದಿರುವಾಗ: ಶಬ್ದ ಉತ್ಪತ್ತಿಯಾಗುವುದಿಲ್ಲ.",
+    "ತೀರ್ಮಾನ: ಶಬ್ದದ ಅಸ್ತಿತ್ವಕ್ಕೆ ಕಂಪನ ಅತ್ಯಗತ್ಯ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "left_vs_right",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen image. On the left, a close-up of a guitar string that is visibly vibrating (shown with motion blur) with sound waves emanating from it. The label says 'ಕಂಪನ (Vibration)'. On the right, the same guitar string is stationary and still. The label says 'ನಿಶ್ಚಲ ಸ್ಥಿತಿ (At Rest)'.",
+    "labels": "ಎಡಭಾಗ: ಕಂಪನ, ಶಬ್ದ ಉತ್ಪತ್ತಿ. ಬಲಭಾಗ: ನಿಶ್ಚಲ ಸ್ಥಿತಿ, ಶಬ್ದ ಇಲ್ಲ.",
+    "scientific_significance": "This comparison visually reinforces the causal link between vibration and sound. It serves as a simple, undeniable proof that without vibration, there is no sound.",
+    "placeholder_note": "Image to be generated showing a vibrating guitar string vs a still one."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_11_concept_1_chunk_004"
+}

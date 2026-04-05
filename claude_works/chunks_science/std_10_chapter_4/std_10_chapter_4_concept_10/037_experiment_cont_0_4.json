@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 3 ಮತ್ತು ವೀಕ್ಷಣೆ",
+  "script": "ಐದು ನಿಮಿಷಗಳ ಕಾಲ ಕಾಯಿಸಿದ ನಂತರ, ಪ್ರನಾಳವನ್ನು ಜಲತಪ್ತಕದಿಂದ ಎಚ್ಚರಿಕೆಯಿಂದ ಹೊರತೆಗೆಯಿರಿ. ಈಗ, ಪ್ರನಾಳದಲ್ಲಿರುವ ಬಿಸಿ ಮಿಶ್ರಣವನ್ನು, ಸುಮಾರು ಇಪ್ಪತ್ತರಿಂದ ಐವತ್ತು ಮಿಲಿಲೀಟರ್ ನೀರಿರುವ ಬೀಕರ್‌ಗೆ ಸುರಿಯಿರಿ. ಹೀಗೆ ಮಾಡಿದ ತಕ್ಷಣ, ನೀವು ಒಂದು ವಿಶಿಷ್ಟವಾದ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಬಹುದು. ಬೀಕರ್‌ನಿಂದ ಬರುವ ವಾಸನೆಯನ್ನು ನಿಧಾನವಾಗಿ ಆಘ್ರಾಣಿಸಿ. ನಿಮಗೆ ಒಂದು ಮಧುರವಾದ, ಹಣ್ಣಿನಂತಹ ಸುವಾಸನೆ ಬರುತ್ತದೆ. ಇದು ನಮ್ಮ ಪ್ರಯೋಗದ ಪ್ರಮುಖ ವೀಕ್ಷಣೆಯಾಗಿದೆ. ಈ ವಾಸನೆಯೇ ಎಸ್ಟರ್ ಉಂಟಾಗಿದೆ ಎಂಬುದಕ್ಕೆ ಸಾಕ್ಷಿ.",
+  "script_display": "ಐದು ನಿಮಿಷಗಳ ಕಾಲ ಕಾಯಿಸಿದ ನಂತರ, ಪ್ರನಾಳವನ್ನು ಜಲತಪ್ತಕದಿಂದ ಎಚ್ಚರಿಕೆಯಿಂದ ಹೊರತೆಗೆಯಿರಿ. ಈಗ, ಪ್ರನಾಳದಲ್ಲಿರುವ ಬಿಸಿ ಮಿಶ್ರಣವನ್ನು, ಸುಮಾರು 20-50 mL ನೀರಿರುವ ಬೀಕರ್‌ಗೆ ಸುರಿಯಿರಿ. ನಂತರ, ಮಿಶ್ರಣದ ವಾಸನೆಯನ್ನು ಆಘ್ರಾಣಿಸಿ. ನಿಮಗೆ ಒಂದು ಮಧುರವಾದ, ಹಣ್ಣಿನಂತಹ ಸುವಾಸನೆ ಬರುತ್ತದೆ. ಇದು ನಮ್ಮ ಪ್ರಯೋಗದ ಪ್ರಮುಖ ವೀಕ್ಷಣೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕಾಯಿಸಿದ ಮಿಶ್ರಣವನ್ನು ನೀರಿರುವ ಬೀಕರ್‌ಗೆ ಸುರಿಯಿರಿ.",
+    "ಮಿಶ್ರಣದ ವಾಸನೆಯನ್ನು ಆಘ್ರಾಣಿಸಿ.",
+    "ವೀಕ್ಷಣೆ: ಮಧುರವಾದ, ಹಣ್ಣಿನಂತಹ ವಾಸನೆ ಬರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "split_left_text",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Illustration showing the contents of the heated test tube being poured into a beaker of water. Wafting lines indicate a sweet smell.",
+    "labels": "ಬೀಕರ್, ನೀರು, ಎಸ್ಟರ್ ಮಿಶ್ರಣ, ಮಧುರ ವಾಸನೆ",
+    "scientific_significance": "Shows the final step of the procedure and the point of observation.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_037"
+}

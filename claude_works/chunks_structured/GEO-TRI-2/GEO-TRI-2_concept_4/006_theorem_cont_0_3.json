@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 2",
+  "script": "ಈಗ, ಸಾಧನೆಯ ಎರಡನೇ ಹಂತಕ್ಕೆ ಬರೋಣ. ಇದು ಮೊದಲನೇ ಹಂತದಂತೆಯೇ ಇದೆ, ಆದರೆ ನಾವು ತ್ರಿಭುಜದ ಇನ್ನೊಂದು ಬದಿಯನ್ನು ಪರಿಗಣಿಸುತ್ತೇವೆ. ನಾವು ತ್ರಿಭುಜ ADE ಮತ್ತು ತ್ರಿಭುಜ DEC ಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಅನುಪಾತವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ. ತ್ರಿಭುಜ ADE ಯಲ್ಲಿ, ಈ ಬಾರಿ AE ಯನ್ನು ಪಾದವಾಗಿ ಮತ್ತು DM ಅನ್ನು ಎತ್ತರವಾಗಿ ತೆಗೆದುಕೊಳ್ಳೋಣ. ಆಗ, ತ್ರಿಭುಜ ADE ಯ ವಿಸ್ತೀರ್ಣವು ಅರ್ಧ ಗುಣ AE ಗುಣ DM ಆಗುತ್ತದೆ. ತ್ರಿಭುಜ DEC ಯಲ್ಲಿ, EC ಯನ್ನು ಪಾದವಾಗಿ ಮತ್ತು DM ಅನ್ನು ಎತ್ತರವಾಗಿ ತೆಗೆದುಕೊಂಡರೆ, ಅದರ ವಿಸ್ತೀರ್ಣವು ಅರ್ಧ ಗುಣ EC ಗುಣ DM ಆಗುತ್ತದೆ. ಇವುಗಳ ಅನುಪಾತವನ್ನು ತೆಗೆದುಕೊಂಡಾಗ, ಅರ್ಧ ಮತ್ತು DM ರದ್ದಾಗಿ, ನಮಗೆ AE ಭಾಗಿಸು EC ಉಳಿಯುತ್ತದೆ. ಇದನ್ನು ಸಮೀಕರಣ ಎರಡು ಎಂದು ಕರೆಯೋಣ.",
+  "script_display": "ಈಗ, ಸಾಧನೆಯ ಎರಡನೇ ಹಂತಕ್ಕೆ ಬರೋಣ. ನಾವು $\\triangle ADE$ ಮತ್ತು $\\triangle DEC$ ಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಅನುಪಾತವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ.\n\n*   $\\triangle ADE$ ಯ ವಿಸ್ತೀರ್ಣ, ವಿ(ADE) = $\\frac{1}{2} \\times AE \\times DM$.\n*   $\\triangle DEC$ ಯ ವಿಸ್ತೀರ್ಣ, ವಿ(DEC) = $\\frac{1}{2} \\times EC \\times DM$.\n*   ಅನುಪಾತ: $\\frac{\\text{ವಿ(ADE)}}{\\text{ವಿ(DEC)}} = \\frac{\\frac{1}{2} \\times AE \\times DM}{\\frac{1}{2} \\times EC \\times DM} = \\frac{AE}{EC}$ --- (2)",
+  "display_bullets": [
+    "$\\triangle ADE$ ಯ ವಿಸ್ತೀರ್ಣ, ವಿ(ADE) = $\\frac{1}{2} \\times AE \\times DM$.",
+    "$\\triangle DEC$ ಯ ವಿಸ್ತೀರ್ಣ, ವಿ(DEC) = $\\frac{1}{2} \\times EC \\times DM$.",
+    "ಅನುಪಾತ: $\\frac{\\text{ವಿ(ADE)}}{\\text{ವಿ(DEC)}} = \\frac{AE}{EC}$ --- (2)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "BPT ಸಾಧನೆಯ ಚಿತ್ರ. ತ್ರಿಭುಜಗಳಾದ ADE ಮತ್ತು DEC ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. DM ಲಂಬವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "A, E, C, D, M",
+    "mathematical_significance": "ಸಾಧನೆಯ ಎರಡನೇ ಹಂತವನ್ನು ವಿವರಿಸುತ್ತದೆ, ಇದು ಮೊದಲ ಹಂತಕ್ಕೆ ಸಮರೂಪವಾಗಿದೆ.",
+    "placeholder_note": "Image for BPT proof step 2."
+  },
+  "sub_type": "proof_step",
+  "chunk_id": "GEO-TRI-2_concept_4_chunk_006"
+}

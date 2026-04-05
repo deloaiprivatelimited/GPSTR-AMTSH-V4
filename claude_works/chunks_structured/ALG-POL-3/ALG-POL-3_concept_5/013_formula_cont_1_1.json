@@ -1,0 +1,31 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರ 1: ಶೂನ್ಯತೆಗಳ ಮೊತ್ತ",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ಶೂನ್ಯತೆಗಳ ಮೊತ್ತದ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಮೂರು ಶೂನ್ಯತೆಗಳಾದ ಆಲ್ಫಾ, ಬೀಟಾ ಮತ್ತು ಗಾಮ ಇವುಗಳ ಮೊತ್ತವು ಮೈನಸ್ b ಬೈ a ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ, b ಎಂಬುದು x ಸ್ಕ್ವೇರ್ ನ ಸಹಗುಣಕ ಮತ್ತು a ಎಂಬುದು x ಕ್ಯೂಬ್ ನ ಸಹಗುಣಕವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಆಲ್ಫಾ ಪ್ಲಸ್ ಬೀಟಾ ಪ್ಲಸ್ ಗಾಮ ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ x ಸ್ಕ್ವೇರ್ ನ ಸಹಗುಣಕ ಬೈ x ಕ್ಯೂಬ್ ನ ಸಹಗುಣಕ. ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿ ಶೂನ್ಯತೆಗಳ ಮೊತ್ತವು ಮೈನಸ್ b ಬೈ a ಆಗಿತ್ತು ಎಂಬುದನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಿ. ಇಲ್ಲೂ ಅದೇ ಸೂತ್ರ, ಆದರೆ ಇಲ್ಲಿ b ಮತ್ತು a ಗಳು ಘನ ಬಹುಪದೋಕ್ತಿಯ ಸಹಗುಣಕಗಳಾಗಿವೆ.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ಶೂನ್ಯತೆಗಳ ಮೊತ್ತದ (Sum of Zeros) ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಮೂರು ಶೂನ್ಯತೆಗಳಾದ $\\alpha, \\beta$ ಮತ್ತು $\\gamma$ ಇವುಗಳ ಮೊತ್ತವು $-\\frac{b}{a}$ ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ, $b$ ಎಂಬುದು $x^2$ ನ ಸಹಗುಣಕ ಮತ್ತು $a$ ಎಂಬುದು $x^3$ ನ ಸಹಗುಣಕವಾಗಿದೆ. ಆದ್ದರಿಂದ, $\\alpha + \\beta + \\gamma = -\\frac{x^2 \\text{ ನ ಸಹಗುಣಕ}}{x^3 \\text{ ನ ಸಹಗುಣಕ}}$. ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿ ಶೂನ್ಯತೆಗಳ ಮೊತ್ತವು $-\\frac{b}{a}$ ಆಗಿತ್ತು ಎಂಬುದನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಿ. ಇಲ್ಲೂ ಅದೇ ಸೂತ್ರ, ಆದರೆ ಇಲ್ಲಿ $b$ ಮತ್ತು $a$ ಗಳು ಘನ ಬಹುಪದೋಕ್ತಿಯ ಸಹಗುಣಕಗಳಾಗಿವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಶೂನ್ಯತೆಗಳ ಮೊತ್ತ: } \\alpha + \\beta + \\gamma = -\\frac{b}{a}",
+    "placeholder_note": "Formula for the sum of zeros of a cubic polynomial."
+  },
+  "chunk_id": "ALG-POL-3_concept_5_chunk_013"
+}

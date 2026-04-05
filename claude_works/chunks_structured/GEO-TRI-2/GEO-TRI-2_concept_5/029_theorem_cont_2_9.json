@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ನಿರ್ಣಯ (Example: Conclusion)",
+  "script": "ಹಾಗಾದರೆ, ನಮ್ಮ ಪರಿಶೀಲನೆಯಿಂದ ಏನು ತಿಳಿಯಿತು? ಒಂದು ಜೋಡಿ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿವೆ, ಅಂದರೆ ಕೋನ ಪಿ ಸಮ ಕೋನ ಟಿ. ಮತ್ತು ಆ ಕೋನಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಬಾಹುಗಳ ಅನುಪಾತವೂ ಸಮವಾಗಿದೆ, ಅಂದರೆ ಪಿ ಕ್ಯೂ ಬೈ ಟಿ ಯು ಸಮ ಪಿ ಆರ್ ಬೈ ಟಿ ಎಸ್. ಈ ಎರಡೂ ಷರತ್ತುಗಳು ಪೂರೈಕೆಯಾಗಿರುವುದರಿಂದ, ನಾವು ಬಾಹು-ಕೋನ-ಬಾಹು ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದ ಪ್ರಕಾರ, ಟ್ರೈಯಾಂಗಲ್ ಪಿ ಕ್ಯೂ ಆರ್ ಮತ್ತು ಟ್ರೈಯಾಂಗಲ್ ಟಿ ಯು ಎಸ್ ಸಮರೂಪವಾಗಿವೆ ಎಂದು ಖಚಿತವಾಗಿ ಹೇಳಬಹುದು. ಸಮರೂಪತೆಯನ್ನು ಬರೆಯುವಾಗ ಅನುರೂಪ ಶೃಂಗಗಳನ್ನು ಸರಿಯಾದ ಕ್ರಮದಲ್ಲಿ ಬರೆಯುವುದು ಮುಖ್ಯ. ಇಲ್ಲಿ ಪಿ ಗೆ ಟಿ, ಕ್ಯೂ ಗೆ ಯು, ಮತ್ತು ಆರ್ ಗೆ ಎಸ್ ಅನುರೂಪವಾಗಿವೆ. ಆದ್ದರಿಂದ, ಟ್ರೈಯಾಂಗಲ್ ಪಿ ಕ್ಯೂ ಆರ್ ಸಿಮಿಲರ್ ಟು ಟ್ರೈಯಾಂಗಲ್ ಟಿ ಯು ಎಸ್.",
+  "script_display": "ಹಾಗಾದರೆ, ನಮ್ಮ ಪರಿಶೀಲನೆಯಿಂದ ಏನು ತಿಳಿಯಿತು? ಒಂದು ಜೋಡಿ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿವೆ ($\\∠ P = \\∠ T$) ಮತ್ತು ಆ ಕೋನಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಬಾಹುಗಳ ಅನುಪಾತವೂ ಸಮವಾಗಿದೆ ($\\frac{PQ}{TU} = \\frac{PR}{TS}$). ಈ ಎರಡೂ ಷರತ್ತುಗಳು ಪೂರೈಕೆಯಾಗಿರುವುದರಿಂದ, ನಾವು ಬಾಹು-ಕೋನ-ಬಾಹು (SAS) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದ ಪ್ರಕಾರ, $\\triangle PQR$ ಮತ್ತು $\\triangle TUS$ ಸಮರೂಪವಾಗಿವೆ ಎಂದು ಖಚಿತವಾಗಿ ಹೇಳಬಹುದು. ಸಮರೂಪತೆಯನ್ನು ಬರೆಯುವಾಗ ಅನುರೂಪ ಶೃಂಗಗಳನ್ನು ಸರಿಯಾದ ಕ್ರಮದಲ್ಲಿ ಬರೆಯುವುದು ಮುಖ್ಯ. ಇಲ್ಲಿ $P \\leftrightarrow T$, $Q \\leftrightarrow U$, ಮತ್ತು $R \\leftrightarrow S$ ಅನುರೂಪವಾಗಿವೆ.",
+  "display_bullets": [
+    "$\\angle P = \\angle T$ ಮತ್ತು $\\frac{PQ}{TU} = \\frac{PR}{TS}$ ಆಗಿರುವುದರಿಂದ,",
+    "ಬಾ.ಕೋ.ಬಾ (SAS) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದ ಪ್ರಕಾರ,",
+    "$\\triangle PQR \\sim \\triangle TUS$."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "highlight_box",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\triangle PQR \\sim \\triangle TUS",
+    "placeholder_note": "A highlighted box containing the final similarity statement."
+  },
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_029"
+}

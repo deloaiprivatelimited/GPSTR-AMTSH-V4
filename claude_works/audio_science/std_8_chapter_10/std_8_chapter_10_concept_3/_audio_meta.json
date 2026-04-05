@@ -1,0 +1,114 @@
+{
+  "module_id": "std_8_chapter_10_concept_3",
+  "chapter_code": "std_8_chapter_10",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:34:52",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "5214dbba2c3a0f0e1f2bf5318f0ea464",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 40.011,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 57,
+      "generated_at": "2026-04-02 14:33:35"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "0ba3a5fbd86d84b28ea1a7ab14df6ebe",
+      "wav_file": "001_intro_0.wav",
+      "duration": 53.651,
+      "slide_title": "ಮಾನವರಲ್ಲಿ ಶಬ್ದದ ಉತ್ಪತ್ತಿ ಮತ್ತು ಗ್ರಹಿಕೆ",
+      "type": "intro",
+      "script_words": 81,
+      "generated_at": "2026-04-02 14:33:45"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "123c6f9fed36669eeed0b4219e5bf0a1",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 40.731,
+      "slide_title": "ಧ್ವನಿತಂತುಗಳು ಮತ್ತು ಶಬ್ದದ ಸೃಷ್ಟಿ",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 14:34:00"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "16d3d87054bafe9af49bb2e7bf63a3c9",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 42.971,
+      "slide_title": "ಧ್ವನಿಯ ಸ್ಥಾಯಿ ಮತ್ತು ಧ್ವನಿತಂತುಗಳು",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 14:34:02"
+    },
+    "006_classification_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "bf87df20c0eaca52be21c8f9e0d11d73",
+      "wav_file": "006_classification_1.wav",
+      "duration": 41.131,
+      "slide_title": "ಶಬ್ದ ಗ್ರಹಿಕೆ: ಹೊರಕಿವಿ",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 14:34:25"
+    },
+    "008_classification_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "2feb5339fb38f4391c52f7a5e6b665c1",
+      "wav_file": "008_classification_cont_1_2.wav",
+      "duration": 42.731,
+      "slide_title": "ಶಬ್ದ ಗ್ರಹಿಕೆ: ಒಳಕಿವಿ",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 14:34:40"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "c7c93a06958b7d9a3e91ee690e394991",
+      "wav_file": "009_recap_0.wav",
+      "duration": 41.451,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 47,
+      "generated_at": "2026-04-02 14:34:41"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "84ddb6a0c225ed72e2dbea3195a38cbd",
+      "wav_file": "003_classification_0.wav",
+      "duration": 39.331,
+      "slide_title": "ಮಾನವರಲ್ಲಿ ಶಬ್ದ ಉತ್ಪತ್ತಿ",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 14:34:52"
+    },
+    "007_classification_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "9caa0edc458c40d63c21d196b2007e0f",
+      "wav_file": "007_classification_cont_1_1.wav",
+      "duration": 38.451,
+      "slide_title": "ಶಬ್ದ ಗ್ರಹಿಕೆ: ಮಧ್ಯ ಕಿವಿ",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 14:34:52"
+    }
+  }
+}

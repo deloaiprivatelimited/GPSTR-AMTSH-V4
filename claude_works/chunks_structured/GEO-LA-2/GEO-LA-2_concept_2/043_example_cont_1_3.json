@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಕೋನ ROT ಯ ಅಳತೆ 90 ಡಿಗ್ರಿ. ಇಲ್ಲಿ ಒಂದು ಕುತೂಹಲಕಾರಿ ವಿಷಯವನ್ನು ಗಮನಿಸಿ. ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರವು x ನ ಮೌಲ್ಯವನ್ನು ಅವಲಂಬಿಸಿಲ್ಲ. ಇದರರ್ಥ, ಕೋನ POS ಯಾವುದೇ ಅಳತೆಯದ್ದಾಗಿರಲಿ, ಒಂದು ಸರಳಯುಗ್ಮವನ್ನು ಉಂಟುಮಾಡುವ ಎರಡು ಕೋನಗಳ ಕೋನಾರ್ಧಕಗಳ ನಡುವಿನ ಕೋನವು ಯಾವಾಗಲೂ 90 ಡಿಗ್ರಿ ಇರುತ್ತದೆ. ಇದು ಒಂದು ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವಾಗಿದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, $\\angle ROT$ ಯ ಅಳತೆ $90°$. ಇಲ್ಲಿ ಒಂದು ಕುತೂಹಲಕಾರಿ ವಿಷಯವನ್ನು ಗಮನಿಸಿ. ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರವು $x$ ನ ಮೌಲ್ಯವನ್ನು ಅವಲಂಬಿಸಿಲ್ಲ. ಇದರರ್ಥ, $\\angle POS$ ಯಾವುದೇ ಅಳತೆಯದ್ದಾಗಿರಲಿ, ಒಂದು ಸರಳಯುಗ್ಮವನ್ನು ಉಂಟುಮಾಡುವ ಎರಡು ಕೋನಗಳ ಕೋನಾರ್ಧಕಗಳ ನಡುವಿನ ಕೋನವು ಯಾವಾಗಲೂ $90°$ ಇರುತ್ತದೆ. ಇದು ಒಂದು ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $\\angle ROT = 90°$.",
+    "ಪ್ರಮುಖ ಅಂಶ: ಒಂದು ಸರಳಯುಗ್ಮದ ಕೋನಾರ್ಧಕಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_highlight",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-LA-2_example_2",
+  "steps": [],
+  "final_answer": "$\\angle ROT = 90°$",
+  "final_answer_display": "$\\angle ROT = 90°$",
+  "chunk_id": "GEO-LA-2_concept_2_chunk_043"
+}

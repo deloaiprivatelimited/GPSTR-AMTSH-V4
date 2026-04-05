@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ಮನೋಹರ್ ಪಾವತಿಸಿದ ಬಡ್ಡಿಯ ವಾರ್ಷಿಕ ದರವು ಎಂಟು ಮತ್ತು ಮೂರನೇ ಒಂದು ಭಾಗ ಶೇಕಡಾ ಆಗಿದೆ. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಕೊಟ್ಟಿರುವ ಎಲ್ಲಾ ದತ್ತಾಂಶಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸಿ, ಸೂತ್ರದಲ್ಲಿ ಸರಿಯಾದ ಜಾಗದಲ್ಲಿ ಹಾಕುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ಮನೋಹರ್ ಪಾವತಿಸಿದ ಬಡ್ಡಿಯ ವಾರ್ಷಿಕ ದರವು $8\\frac{1}{3}\\%$ ಆಗಿದೆ. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಕೊಟ್ಟಿರುವ ಎಲ್ಲಾ ದತ್ತಾಂಶಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸಿ, ಸೂತ್ರದಲ್ಲಿ ಸರಿಯಾದ ಜಾಗದಲ್ಲಿ ಹಾಕುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ವಾರ್ಷಿಕ ಬಡ್ಡಿಯ ದರ: $8\\frac{1}{3}\\%$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_result",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "R = 8\\frac{1}{3}\\%",
+    "placeholder_note": "Final answer for the rate of interest."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "RPP-COMP-1_example_9",
+  "final_answer": "ವಾರ್ಷಿಕ ಬಡ್ಡಿಯ ದರ 8 1/3%.",
+  "final_answer_display": "ವಾರ್ಷಿಕ ಬಡ್ಡಿಯ ದರ: $8\\frac{1}{3}\\%$",
+  "chunk_id": "RPP-COMP-1_concept_5_chunk_032"
+}

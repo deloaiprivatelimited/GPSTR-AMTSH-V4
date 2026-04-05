@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಸರಿ ಮತ್ತು ತಪ್ಪು ರೂಪಗಳು",
+  "script": "ಆದರ್ಶ ರೂಪದ ಅತ್ಯಂತ ಪ್ರಮುಖ ನಿಯಮವೆಂದರೆ k ಯ ಮೌಲ್ಯವು ಒಂದು ಮತ್ತು ಹತ್ತರ ನಡುವೆ ಇರಬೇಕು. ಇದನ್ನು ಒಂದು ಹೋಲಿಕೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಾಲ್ಕು ಪಾಯಿಂಟ್ ಎಂಟು times ten to the power ಐದು ಇದೆ. ಇದು ಸರಿಯಾದ ರೂಪ, ಏಕೆಂದರೆ ನಾಲ್ಕು ಪಾಯಿಂಟ್ ಎಂಟು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಮತ್ತು ಹತ್ತಕ್ಕಿಂತ ಕಡಿಮೆ ಇದೆ. ಬಲಭಾಗದಲ್ಲಿ, ನಲವತ್ತೆಂಟು times ten to the power ನಾಲ್ಕು ಇದೆ. ಇದು ತಪ್ಪು, ಏಕೆಂದರೆ ನಲವತ್ತೆಂಟು ಹತ್ತಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿದೆ. ಹಾಗೆಯೇ, ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಎಂಟು times ten to the power ಆರು ಕೂಡ ತಪ್ಪು, ಏಕೆಂದರೆ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಎಂಟು ಒಂದಕ್ಕಿಂತ ಚಿಕ್ಕದಾಗಿದೆ. ಯಾವಾಗಲೂ k ಯ ಮೌಲ್ಯವನ್ನು ಪರೀಕ್ಷಿಸಲು ಮರೆಯದಿರಿ.",
+  "script_display": "ಆದರ್ಶ ರೂಪದ ಅತ್ಯಂತ ಪ್ರಮುಖ ನಿಯಮವೆಂದರೆ $k$ ಯ ಮೌಲ್ಯವು $1 \\le k < 10$ ಆಗಿರಬೇಕು. ಇದನ್ನು ಒಂದು ಹೋಲಿಕೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ, $4.8 \\times 10^5$ ಇದೆ. ಇದು ಸರಿಯಾದ ರೂಪ, ಏಕೆಂದರೆ $4.8$ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಮತ್ತು ಹತ್ತಕ್ಕಿಂತ ಕಡಿಮೆ ಇದೆ. ಬಲಭಾಗದಲ್ಲಿ, $48 \\times 10^4$ ಇದೆ. ಇದು ತಪ್ಪು, ಏಕೆಂದರೆ 48 ಹತ್ತಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿದೆ. ಹಾಗೆಯೇ, $0.48 \\times 10^6$ ಕೂಡ ತಪ್ಪು, ಏಕೆಂದರೆ 0.48 ಒಂದಕ್ಕಿಂತ ಚಿಕ್ಕದಾಗಿದೆ. ಯಾವಾಗಲೂ $k$ ಯ ಮೌಲ್ಯವನ್ನು ಪರೀಕ್ಷಿಸಲು ಮರೆಯದಿರಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_1",
+    "text_zone": "full",
+    "visual_zone": "full",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "[{\"title\": \"ಸರಿಯಾದ ರೂಪ (Correct Form)\", \"content\": \"$4.8 \\times 10^5$ <br><br> <b>ಕಾರಣ:</b> $1 \\le 4.8 < 10$\"}, {\"title\": \"ತಪ್ಪಾದ ರೂಪಗಳು (Incorrect Forms)\", \"content\": \"$48 \\times 10^4$ <br> <b>ಕಾರಣ:</b> $48 \\ge 10$ <br><br> $0.48 \\times 10^6$ <br> <b>ಕಾರಣ:</b> $0.48 < 1$\"}]",
+    "placeholder_note": "This latex field contains a JSON string that will be parsed to create the split comparison view."
+  },
+  "chunk_id": "NS-EXP-2_concept_3_chunk_013"
+}

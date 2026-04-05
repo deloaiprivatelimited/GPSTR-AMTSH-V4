@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರತಿಫಲನ ಸಮಮಿತಿ ಎಂದರೇನು?",
+  "script": "ಈಗ ನಾವು ಪ್ರತಿಫಲನ ಸಮಮಿತಿ ಅಂದರೆ ಏನು ಎಂದು ನೋಡೋಣ. ಒಂದು ಆಕೃತಿಯಲ್ಲಿ ಸಮಮಿತಿ ರೇಖೆ ಇದ್ದರೆ, ಆ ಆಕೃತಿಗೆ ಪ್ರತಿಫಲನ ಸಮಮಿತಿ ಇದೆ ಎಂದು ನಾವು ಹೇಳುತ್ತೇವೆ. ಇಲ್ಲಿ, ಸಮಮಿತಿ ರೇಖೆಯು ಒಂದು ದರ್ಪಣ ಅಥವಾ ಕನ್ನಡಿಯಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ. ಅಂದರೆ, ಆಕೃತಿಯ ಒಂದು ಭಾಗವು ಇನ್ನೊಂದು ಭಾಗದ ನಿಖರವಾದ ಪ್ರತಿಬಿಂಬವಾಗಿರುತ್ತದೆ. ಇದನ್ನು ನಾವು ದರ್ಪಣ ಪ್ರತಿಬಿಂಬ ಅಥವಾ ಮಿರರ್ ಇಮೇಜ್ ಎಂದೂ ಕರೆಯುತ್ತೇವೆ. ಆದ್ದರಿಂದ, ರೇಖಾ ಸಮಮಿತಿಯನ್ನು ಪ್ರತಿಫಲನ ಸಮಮಿತಿ ಎಂದೂ ಕರೆಯಬಹುದು, ಏಕೆಂದರೆ ಒಂದು ಭಾಗವು ಇನ್ನೊಂದರ ಪ್ರತಿಫಲನವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಪ್ರತಿಫಲನ ಸಮಮಿತಿ ಅಂದರೆ ಏನು ಎಂದು ನೋಡೋಣ. ಒಂದು ಆಕೃತಿಯಲ್ಲಿ ಸಮಮಿತಿ ರೇಖೆ ಇದ್ದರೆ, ಆ ಆಕೃತಿಗೆ ಪ್ರತಿಫಲನ ಸಮಮಿತಿ ಇದೆ ಎಂದು ನಾವು ಹೇಳುತ್ತೇವೆ. ಇಲ್ಲಿ, ಸಮಮಿತಿ ರೇಖೆಯು ಒಂದು ದರ್ಪಣ ಅಥವಾ ಕನ್ನಡಿಯಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ. ಅಂದರೆ, ಆಕೃತಿಯ ಒಂದು ಭಾಗವು ಇನ್ನೊಂದು ಭಾಗದ ನಿಖರವಾದ ಪ್ರತಿಬಿಂಬವಾಗಿರುತ್ತದೆ. ಇದನ್ನು ನಾವು ದರ್ಪಣ ಪ್ರತಿಬಿಂಬ (mirror image) ಎಂದೂ ಕರೆಯುತ್ತೇವೆ. ಆದ್ದರಿಂದ, ರೇಖಾ ಸಮಮಿತಿಯನ್ನು ಪ್ರತಿಫಲನ ಸಮಮಿತಿ ಎಂದೂ ಕರೆಯಬಹುದು, ಏಕೆಂದರೆ ಒಂದು ಭಾಗವು ಇನ್ನೊಂದರ ಪ್ರತಿಫಲನವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಆಕೃತಿಯು ಸಮಮಿತಿ ರೇಖೆಯನ್ನು ಹೊಂದಿದ್ದರೆ, ಅದು ಪ್ರತಿಫಲನ ಸಮಮಿತಿಯನ್ನು ಹೊಂದಿದೆ.",
+    "ಸಮಮಿತಿ ರೇಖೆಯು ದರ್ಪಣದಂತೆ (mirror) ವರ್ತಿಸುತ್ತದೆ.",
+    "ಆಕೃತಿಯ ಒಂದು ಭಾಗವು ಇನ್ನೊಂದು ಭಾಗದ ನಿಖರವಾದ ಪ್ರತಿಬಿಂಬವಾಗಿರುತ್ತದೆ (mirror image)."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A butterfly with its left wing shown. A vertical dotted line represents the line of symmetry (mirror line). The right wing is shown as a reflection of the left wing, creating a complete, symmetrical butterfly.",
+    "labels": "ಸಮಮಿತಿ ರೇಖೆ (ದರ್ಪಣ), ಮೂಲ ಭಾಗ, ಪ್ರತಿಬಿಂಬ",
+    "mathematical_significance": "Illustrates that the line of symmetry acts as a mirror, with one half of the figure being a perfect reflection of the other half.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "VIS-SYM-1_concept_1_chunk_015"
+}

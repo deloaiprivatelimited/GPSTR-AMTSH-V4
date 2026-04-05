@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಮುದ್ರ ಮೀನುಗಾರಿಕೆ: ಉದಾಹರಣೆಗಳು ಮತ್ತು ಕೃಷಿ",
+  "script": "ಸಮುದ್ರದಲ್ಲಿ ಸಿಗುವ ಕೆಲವು ಜನಪ್ರಿಯ ಮತ್ತು ಆರ್ಥಿಕವಾಗಿ ಪ್ರಮುಖವಾದ ಮೀನುಗಳೆಂದರೆ ಪಾಂಫ್ರೆಟ್, ಮ್ಯಾಕೆರಲ್ ಅಥವಾ ಬಾಂಗ್ಡ, ಟ್ಯೂನ, ಮತ್ತು ಸಾರ್ಡಿನ್. ಇವುಗಳನ್ನು ಹಿಡಿಯುವುದರ ಜೊತೆಗೆ, ಸಮುದ್ರದ ನೀರಿನಲ್ಲಿ ಮೀನುಗಳನ್ನು ಕೃಷಿ ಮಾಡುವ ಪದ್ಧತಿಯೂ ಇದೆ. ಇದನ್ನು ಸಮುದ್ರ ಕೃಷಿ ಅಥವಾ ಮ್ಯಾರಿಕಲ್ಚರ್ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದರಲ್ಲಿ ಭೇಟ್ಕಿ, ಪರ್ಲ್ ಸ್ಪಾಟ್ ನಂತಹ ಮೀನುಗಳು, ಸೀಗಡಿ ಮತ್ತು ಕಪ್ಪೆಚಿಪ್ಪಿನಂತಹ ಜೀವಿಗಳನ್ನು ಕೃತಕವಾಗಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ. ಇದು ಮೀನಿನ ಬೇಡಿಕೆಯನ್ನು ಪೂರೈಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಸಮುದ್ರದಲ್ಲಿ ಸಿಗುವ ಕೆಲವು ಜನಪ್ರಿಯ ಮತ್ತು ಆರ್ಥಿಕವಾಗಿ ಪ್ರಮುಖವಾದ ಮೀನುಗಳೆಂದರೆ ಪಾಂಫ್ರೆಟ್, ಮ್ಯಾಕೆರಲ್ (ಬಾಂಗ್ಡ), ಟ್ಯೂನ, ಮತ್ತು ಸಾರ್ಡಿನ್. ಇವುಗಳನ್ನು ಹಿಡಿಯುವುದರ ಜೊತೆಗೆ, ಸಮುದ್ರದ ನೀರಿನಲ್ಲಿ ಮೀನುಗಳನ್ನು ಕೃಷಿ ಮಾಡುವ ಪದ್ಧತಿಯೂ ಇದೆ. ಇದನ್ನು ಸಮುದ್ರ ಕೃಷಿ (Mariculture) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದರಲ್ಲಿ ಭೇಟ್ಕಿ, ಪರ್ಲ್ ಸ್ಪಾಟ್ ನಂತಹ ಮೀನುಗಳು, ಸೀಗಡಿ (Prawns) ಮತ್ತು ಕಪ್ಪೆಚಿಪ್ಪು (Mussels) ನಂತಹ ಜೀವಿಗಳನ್ನು ಕೃತಕವಾಗಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ. ಇದು ಮೀನಿನ ಬೇಡಿಕೆಯನ್ನು ಪೂರೈಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಜನಪ್ರಿಯ ಮೀನುಗಳು: ಪಾಂಫ್ರೆಟ್, ಮ್ಯಾಕೆರಲ್ (ಬಾಂಗ್ಡ), ಟ್ಯೂನ, ಸಾರ್ಡಿನ್.",
+    "ಸಮುದ್ರ ಕೃಷಿ (Mariculture): ಸಮುದ್ರದ ನೀರಿನಲ್ಲಿ ಮೀನು ಮತ್ತು ಸೀಗಡಿಗಳಂತಹ ಜೀವಿಗಳನ್ನು ಕೃಷಿ ಮಾಡುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An image showing some popular marine fish like Pomfret and Mackerel, and also a visual of marine aquaculture, like prawn farming in coastal waters.",
+    "labels": "ಪಾಂಫ್ರೆಟ್, ಬಾಂಗ್ಡ, ಸಮುದ್ರ ಕೃಷಿ (ಸೀಗಡಿ)",
+    "scientific_significance": "Shows examples of commercially important marine fish and the practice of mariculture, which is crucial for meeting seafood demand.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_10_chunk_009"
+}

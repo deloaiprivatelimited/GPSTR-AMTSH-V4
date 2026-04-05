@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ವಿಸರಣೆ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ವಿಸರಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸುಲಭವಾದ ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ಕೋಣೆಯ ಮೂಲೆಯಲ್ಲಿ ಹಚ್ಚಿದ ಊದಿನಬತ್ತಿಯ ಸುವಾಸನೆಯು ಸ್ವಲ್ಪ ಸಮಯದಲ್ಲೇ ಇಡೀ ಕೋಣೆಗೆ ಹರಡುತ್ತದೆ. ಇಲ್ಲಿ ಊದಿನಬತ್ತಿಯ ಹೊಗೆಯ ಕಣಗಳು ಒಂದು ಬಗೆಯ ದ್ರವ್ಯ, ಮತ್ತು ಕೋಣೆಯಲ್ಲಿರುವ ಗಾಳಿಯ ಕಣಗಳು ಇನ್ನೊಂದು ಬಗೆಯ ದ್ರವ್ಯ. ಈ ಹೊಗೆಯ ಕಣಗಳು ಗಾಳಿಯ ಕಣಗಳ ನಡುವಿನ ಖಾಲಿ ಜಾಗವನ್ನು ಪ್ರವೇಶಿಸಿ, ಅವುಗಳೊಂದಿಗೆ ಬೆರೆತು, ಕೋಣೆಯ ಎಲ್ಲಾ ಭಾಗಗಳಿಗೂ ತಲುಪುತ್ತವೆ. ಇದೇ ವಿಸರಣೆಗೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ. ಇದು ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ನಡೆಯುವ ಪ್ರಕ್ರಿಯೆ.",
+  "script_display": "ವಿಸರಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸುಲಭವಾದ ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ಕೋಣೆಯ ಮೂಲೆಯಲ್ಲಿ ಹಚ್ಚಿದ ಊದಿನಬತ್ತಿಯ ಸುವಾಸನೆಯು ಸ್ವಲ್ಪ ಸಮಯದಲ್ಲೇ ಇಡೀ ಕೋಣೆಗೆ ಹರಡುತ್ತದೆ. ಇಲ್ಲಿ ಊದಿನಬತ್ತಿಯ ಹೊಗೆಯ ಕಣಗಳು ಒಂದು ಬಗೆಯ ದ್ರವ್ಯ, ಮತ್ತು ಕೋಣೆಯಲ್ಲಿರುವ ಗಾಳಿಯ ಕಣಗಳು ಇನ್ನೊಂದು ಬಗೆಯ ದ್ರವ್ಯ. ಈ ಹೊಗೆಯ ಕಣಗಳು ಗಾಳಿಯ ಕಣಗಳ ನಡುವಿನ ಖಾಲಿ ಜಾಗವನ್ನು ಪ್ರವೇಶಿಸಿ, ಅವುಗಳೊಂದಿಗೆ ಬೆರೆತು, ಕೋಣೆಯ ಎಲ್ಲಾ ಭಾಗಗಳಿಗೂ ತಲುಪುತ್ತವೆ. ಇದೇ ವಿಸರಣೆಗೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ. ಇದು ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ನಡೆಯುವ ಪ್ರಕ್ರಿಯೆ.",
+  "display_bullets": [
+    "ಊದಿನಬತ್ತಿಯ ಹೊಗೆಯ ಕಣಗಳು ಗಾಳಿಯ ಕಣಗಳೊಂದಿಗೆ ಬೆರೆಯುತ್ತವೆ.",
+    "ಈ ಕಣಗಳು ಕೋಣೆಯ ಎಲ್ಲಾ ಭಾಗಗಳಿಗೂ ತಲುಪುತ್ತವೆ.",
+    "ಇದೇ ವಿಸರಣೆಗೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a room. In one corner, an incense stick is lit, and its smoke particles are shown spreading out and mixing with the air particles throughout the room. Arrows indicate the direction of spread.",
+    "labels": "ಊದಿನಬತ್ತಿ (Incense Stick), ಹೊಗೆಯ ಕಣಗಳು (Smoke Particles), ಗಾಳಿಯ ಕಣಗಳು (Air Particles), ವಿಸರಣೆ (Diffusion)",
+    "scientific_significance": "Illustrates the spontaneous intermixing of particles of two different types of matter, which is the core concept of diffusion.",
+    "placeholder_note": "Image to be generated showing smoke from an incense stick spreading in a room."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_1_concept_2_chunk_004"
+}

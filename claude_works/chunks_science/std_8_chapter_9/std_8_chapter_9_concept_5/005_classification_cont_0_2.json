@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಟೈರ್‌ಗಳು ಮತ್ತು ಪಾದರಕ್ಷೆಗಳು",
+  "script": "ವಾಹನಗಳ ಟೈರ್‌ಗಳು ಮತ್ತು ನಮ್ಮ ಶೂಗಳ ಅಟ್ಟೆಗಳನ್ನು ಗಮನಿಸಿದ್ದೀರಾ? ಅವುಗಳ ಮೇಲೆ ಆಳವಾದ ವಿನ್ಯಾಸಗಳಿರುತ್ತವೆ, ಇವುಗಳನ್ನು ಟ್ರೇಡ್ಸ್ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ವಿನ್ಯಾಸಗಳು ಮೇಲ್ಮೈಯನ್ನು ಒರಟಾಗಿಸುತ್ತವೆ. ಹೀಗೆ ಒರಟಾದ ಮೇಲ್ಮೈ, ರಸ್ತೆ ಅಥವಾ ನೆಲದೊಂದಿಗೆ ಹೆಚ್ಚು ಬಲವಾಗಿ ಒಂದಕ್ಕೊಂದು ಹೆಣೆದುಕೊಳ್ಳುತ್ತದೆ. ಇದು ಘರ್ಷಣೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ, ಇದರಿಂದಾಗಿ ವಾಹನಕ್ಕೆ ರಸ್ತೆಯ ಮೇಲೆ ಉತ್ತಮ ಹಿಡಿತ ಸಿಗುತ್ತದೆ ಮತ್ತು ನಾವು ಜಾರಿ ಬೀಳದಂತೆ ನಡೆಯಲು ಸಹಾಯವಾಗುತ್ತದೆ. ಮಳೆಗಾಲದಲ್ಲಿ ಇದು ಅತ್ಯಂತ ಮುಖ್ಯ.",
+  "script_display": "ವಾಹನಗಳ ಟೈರ್‌ಗಳು ಮತ್ತು ನಮ್ಮ ಶೂಗಳ ಅಟ್ಟೆಗಳನ್ನು ಗಮನಿಸಿದ್ದೀರಾ? ಅವುಗಳ ಮೇಲೆ ಆಳವಾದ ವಿನ್ಯಾಸಗಳಿರುತ್ತವೆ, ಇವುಗಳನ್ನು 'ಟ್ರೇಡ್ಸ್' (treads) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ವಿನ್ಯಾಸಗಳು ಮೇಲ್ಮೈಯನ್ನು ಒರಟಾಗಿಸುತ್ತವೆ. ಹೀಗೆ ಒರಟಾದ ಮೇಲ್ಮೈ, ರಸ್ತೆ ಅಥವಾ ನೆಲದೊಂದಿಗೆ ಹೆಚ್ಚು ಬಲವಾಗಿ ಒಂದಕ್ಕೊಂದು ಹೆಣೆದುಕೊಳ್ಳುತ್ತದೆ (interlock). ಇದು ಘರ್ಷಣೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ, ಇದರಿಂದಾಗಿ ವಾಹನಕ್ಕೆ ರಸ್ತೆಯ ಮೇಲೆ ಉತ್ತಮ ಹಿಡಿತ (grip) ಸಿಗುತ್ತದೆ ಮತ್ತು ನಾವು ಜಾರಿ ಬೀಳದಂತೆ ನಡೆಯಲು ಸಹಾಯವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ವಿಧಾನ: ಮೇಲ್ಮೈಯನ್ನು ಒರಟಾಗಿಸುವುದು.",
+    "ಉದಾಹರಣೆ: ಟೈರ್‌ಗಳು ಮತ್ತು ಶೂಗಳ ಮೇಲಿನ 'ಟ್ರೇಡ್ಸ್'.",
+    "ಕಾರಣ: ಒರಟು ಮೇಲ್ಮೈಗಳು ಒಂದಕ್ಕೊಂದು ಉತ್ತಮವಾಗಿ ಹೆಣೆದುಕೊಂಡು (interlock) ಘರ್ಷಣೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ, ಇದು ಉತ್ತಮ ಹಿಡಿತವನ್ನು ನೀಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_dark_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up image showing the deep treads on a car tire and the sole of a sports shoe, side-by-side.",
+    "labels": "ಟೈರ್ ಟ್ರೇಡ್, ಶೂ ಅಟ್ಟೆ",
+    "scientific_significance": "Illustrates how creating rough surfaces (treads) increases friction for better grip.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_9_concept_5_chunk_005"
+}

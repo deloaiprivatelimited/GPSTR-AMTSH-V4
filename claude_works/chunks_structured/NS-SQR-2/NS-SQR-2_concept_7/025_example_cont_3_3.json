@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+  "script": "ಆದ್ದರಿಂದ, 6, 9 ಮತ್ತು 15 ರಿಂದ ಭಾಗವಾಗುವ ಕನಿಷ್ಠ ವರ್ಗ ಸಂಖ್ಯೆ 900 ಆಗಿದೆ. ಈ ರೀತಿಯ ಪ್ರಶ್ನೆಗಳಲ್ಲಿ ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪು ನಡೆಯುತ್ತದೆ. ಅನೇಕರು ಲ.ಸಾ.ಅ 90 ನ್ನೇ ಅಂತಿಮ ಉತ್ತರವೆಂದು ಭಾವಿಸುತ್ತಾರೆ. ಆದರೆ ಪ್ರಶ್ನೆಯಲ್ಲಿ 'ಕನಿಷ್ಠ ವರ್ಗ ಸಂಖ್ಯೆ' ಎಂದು ಸ್ಪಷ್ಟವಾಗಿ ಕೇಳಲಾಗಿದೆ, 'ಕನಿಷ್ಠ ಸಂಖ್ಯೆ' ಎಂದಲ್ಲ. ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "script_display": "ಆದ್ದರಿಂದ, 6, 9 ಮತ್ತು 15 ರಿಂದ ಭಾಗವಾಗುವ ಕನಿಷ್ಠ ವರ್ಗ ಸಂಖ್ಯೆ 900 ಆಗಿದೆ. ಈ ರೀತಿಯ ಪ್ರಶ್ನೆಗಳಲ್ಲಿ ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪು ನಡೆಯುತ್ತದೆ. ಅನೇಕರು ಲ.ಸಾ.ಅ (LCM) 90 ನ್ನೇ ಅಂತಿಮ ಉತ್ತರವೆಂದು ಭಾವಿಸುತ್ತಾರೆ. ಆದರೆ ಪ್ರಶ್ನೆಯಲ್ಲಿ 'ಕನಿಷ್ಠ ವರ್ಗ ಸಂಖ್ಯೆ' ಎಂದು ಸ್ಪಷ್ಟವಾಗಿ ಕೇಳಲಾಗಿದೆ, 'ಕನಿಷ್ಠ ಸಂಖ್ಯೆ' ಎಂದಲ್ಲ. ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: 900",
+    "ಸಾಮಾನ್ಯ ತಪ್ಪು: ಲ.ಸಾ.ಅ (90) ನ್ನೇ ಉತ್ತರವೆಂದು ಭಾವಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "900",
+    "placeholder_note": "Final answer in a highlighted box"
+  },
+  "source_example_id": "NS-SQR-2_example_10",
+  "steps": [],
+  "final_answer": "6, 9 ಮತ್ತು 15 ರಿಂದ ಭಾಗವಾಗುವ ಕನಿಷ್ಠ ವರ್ಗ ಸಂಖ್ಯೆ 900 ಆಗಿದೆ.",
+  "final_answer_display": "6, 9 ಮತ್ತು 15 ರಿಂದ ಭಾಗವಾಗುವ ಕನಿಷ್ಠ ವರ್ಗ ಸಂಖ್ಯೆ 900 ಆಗಿದೆ.",
+  "exam_tip": {
+    "question_pattern": "2-mark",
+    "skill_tested": "ಲ.ಸಾ.ಅ ಮತ್ತು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಬಳಸಿ ಪೂರ್ಣವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+    "distractor": "90",
+    "why_distractor_works": "ವಿದ್ಯಾರ್ಥಿಗಳು ಕನಿಷ್ಠ ಸಂಖ್ಯೆ (ಲ.ಸಾ.ಅ) ಕಂಡುಹಿಡಿದು, ಪ್ರಶ್ನೆಯಲ್ಲಿರುವ 'ವರ್ಗ' ಎಂಬ ಪದವನ್ನು ಕಡೆಗಣಿಸಬಹುದು."
+  },
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "NS-SQR-2_concept_7_chunk_025"
+}

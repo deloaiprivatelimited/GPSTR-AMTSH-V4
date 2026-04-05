@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರದ ಸಾಧನೆ: ಭಾಗ 2",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಾವು ತೆಗೆದುಕೊಂಡ ಎರಡು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳನ್ನು ಅವುಗಳ ಒಂದು ಅನುರೂಪ ಬಾಹುವಿನ ಉದ್ದಕ್ಕೂ ಜೋಡಿಸಿದಾಗ, ನಮಗೆ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ, ಅಂದರೆ ಪ್ಯಾರಲೆಲೋಗ್ರಾಮ್ ಸಿಗುತ್ತದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ. ಈ ಹೊಸದಾಗಿ ಉಂಟಾದ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಪಾದವು ನಮ್ಮ ಮೂಲ ತ್ರಿಭುಜದ ಪಾದ 'ಬಿ' ಗೆ ಸಮನಾಗಿದೆ. ಹಾಗೆಯೇ, ಅದರ ಎತ್ತರವು ಕೂಡ ನಮ್ಮ ತ್ರಿಭುಜದ ಎತ್ತರ 'ಎಚ್' ಗೆ ಸಮನಾಗಿದೆ. ನಮಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿರುವಂತೆ, ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣವು ಪಾದ ಗುಣಿಸು ಎತ್ತರ, ಅಂದರೆ ಬಿ ಟೈಮ್ಸ್ ಎಚ್ ಆಗಿರುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ನಾವು ತೆಗೆದುಕೊಂಡ ಎರಡು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳನ್ನು ಅವುಗಳ ಒಂದು ಅನುರೂಪ ಬಾಹುವಿನ ಉದ್ದಕ್ಕೂ ಜೋಡಿಸಿದಾಗ, ನಮಗೆ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ (parallelogram) ಸಿಗುತ್ತದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ. ಈ ಹೊಸದಾಗಿ ಉಂಟಾದ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಪಾದವು ನಮ್ಮ ಮೂಲ ತ್ರಿಭುಜದ ಪಾದ 'b' ಗೆ ಸಮನಾಗಿದೆ. ಹಾಗೆಯೇ, ಅದರ ಎತ್ತರವು ಕೂಡ ನಮ್ಮ ತ್ರಿಭುಜದ ಎತ್ತರ 'h' ಗೆ ಸಮನಾಗಿದೆ. ನಮಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿರುವಂತೆ, ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣವು ಪಾದ × ಎತ್ತರ, ಅಂದರೆ $b \\times h$ ಆಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಜೋಡಿಸಿದಾಗ, ನಮಗೆ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ (parallelogram) ಸಿಗುತ್ತದೆ.",
+    "ಈ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಪಾದವು 'b' ಮತ್ತು ಎತ್ತರವು 'h' ಆಗಿರುತ್ತದೆ.",
+    "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ = ಪಾದ × ಎತ್ತರ = $b \\times h$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A parallelogram formed by the two congruent triangles from the previous slide (one blue, one green) joined along their hypotenuse (or longest side). The base 'b' and height 'h' of the parallelogram are clearly labeled.",
+    "labels": "b, h, Parallelogram",
+    "mathematical_significance": "Step 2 of the derivation: showing that two congruent triangles form a parallelogram with the same base and height.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-AREA-1_concept_4_chunk_008"
+}

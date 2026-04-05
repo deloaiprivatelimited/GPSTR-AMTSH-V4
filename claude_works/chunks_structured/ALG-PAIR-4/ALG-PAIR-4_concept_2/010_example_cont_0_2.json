@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಹಂತ 2",
+  "script": "ಈಗ, ಎರಡನೇ ಸಮೀಕರಣವಾದ ಎರಡು x ಮೈನಸ್ ಮೂರು y ಈಕ್ವಲ್ಸ್ ಹನ್ನೆರಡಕ್ಕೆ ಪರಿಹಾರದ ಬಿಂದುಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇಲ್ಲೂ ಕೂಡ, y ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಪುನರ್ರಚಿಸೋಣ. y ಈಕ್ವಲ್ಸ್ ಎರಡು x ಮೈನಸ್ ಹನ್ನೆರಡು, ಇಡೀ ಭಾಗಿಸು ಮೂರು. x ಗೆ ಸೊನ್ನೆ ಎಂದು ಆದೇಶಿಸಿದಾಗ, y ಈಕ್ವಲ್ಸ್ ಎರಡು ಇಂಟು ಸೊನ್ನೆ ಅಂದರೆ ಸೊನ್ನೆ, ಸೊನ್ನೆ ಮೈನಸ್ ಹನ್ನೆರಡು ಅಂದರೆ ಮೈನಸ್ ಹನ್ನೆರಡು. ಮೈನಸ್ ಹನ್ನೆರಡನ್ನು ಮೂರರಿಂದ ಭಾಗಿಸಿದರೆ ಮೈನಸ್ ನಾಲ್ಕು. ಹಾಗಾಗಿ ಮೊದಲ ಬಿಂದು P ಸೊನ್ನೆ, ಮೈನಸ್ ನಾಲ್ಕು. ನಂತರ, x ಗೆ ಮೂರು ಎಂದು ಆದೇಶಿಸಿದಾಗ, y ಈಕ್ವಲ್ಸ್ ಎರಡು ಇಂಟು ಮೂರು ಅಂದರೆ ಆರು, ಆರರಿಂದ ಹನ್ನೆರಡು ಕಳೆದರೆ ಮೈನಸ್ ಆರು. ಮೈನಸ್ ಆರನ್ನು ಮೂರರಿಂದ ಭಾಗಿಸಿದರೆ ಮೈನಸ್ ಎರಡು. ಹಾಗಾಗಿ ಎರಡನೇ ಬಿಂದು Q ಮೂರು, ಮೈನಸ್ ಎರಡು.",
+  "script_display": "ಈಗ, ಎರಡನೇ ಸಮೀಕರಣವಾದ $2x - 3y = 12$ ಕ್ಕೆ ಪರಿಹಾರದ ಬಿಂದುಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇಲ್ಲೂ ಕೂಡ, $y$ ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಪುನರ್ರಚಿಸೋಣ. $y = \\frac{2x-12}{3}$. $x=0$ ಎಂದು ಆದೇಶಿಸಿದಾಗ, $y = \\frac{2(0)-12}{3} = -4$. ಹಾಗಾಗಿ ಮೊದಲ ಬಿಂದು P(0, -4). ನಂತರ, $x=3$ ಎಂದು ಆದೇಶಿಸಿದಾಗ, $y = \\frac{2(3)-12}{3} = \\frac{-6}{3} = -2$. ಹಾಗಾಗಿ ಎರಡನೇ ಬಿಂದು Q(3, -2).",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "Table of values for the second equation 2x-3y=12. x values are 0 and 3. y values are -4 and -2. The points are P(0,-4) and Q(3,-2). Caption: 2x - 3y = 12 ಕ್ಕೆ ಬಿಂದುಗಳು (Points for 2x - 3y = 12). Headers: x, y. Rows: [0, -4], [3, -2]."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "ALG-PAIR-4_example_1",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಎರಡನೇ ಸಮೀಕರಣ $2x - 3y = 12$ ಕ್ಕೆ ಪರಿಹಾರದ ಬಿಂದುಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು. <br> $y = \\frac{2x-12}{3}$ <br> $x=0$ ಆದರೆ, $y = \\frac{2(0)-12}{3} = -4 \\implies P(0, -4)$ <br> $x=3$ ಆದರೆ, $y = \\frac{2(3)-12}{3} = -2 \\implies Q(3, -2)$",
+      "justification": "ಎರಡನೇ ರೇಖೆಯನ್ನು ಎಳೆಯಲು ಬಿಂದುಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    }
+  ],
+  "chunk_id": "ALG-PAIR-4_concept_2_chunk_010"
+}

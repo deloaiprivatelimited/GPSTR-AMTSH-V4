@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಗಮನಿಸಬೇಕಾದ ಅಂಶಗಳು",
+  "script": "ವಿದ್ಯುತ್ ಪ್ರವಾಹವನ್ನು ಹರಿಸಿದ ತಕ್ಷಣ, ನೀವು ಏನು ಗಮನಿಸುತ್ತೀರಿ? ಎರಡೂ ಕಾರ್ಬನ್ ದಂಡಗಳ ಬಳಿ ಸಣ್ಣ ಸಣ್ಣ ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಉತ್ಪತ್ತಿಯಾಗುವುದನ್ನು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಇದು ಬಹಳ ಮುಖ್ಯವಾದ ವೀಕ್ಷಣೆ. ಬ್ಯಾಟರಿಯ ಧನ ತುದಿಗೆ ಜೋಡಿಸಲಾದ ವಿದ್ಯುದ್ವಾರ ಮತ್ತು ಋಣ ತುದಿಗೆ ಜೋಡಿಸಲಾದ ವಿದ್ಯುದ್ವಾರ, ಎರಡರ ಮೇಲೂ ಈ ಗುಳ್ಳೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಈ ಗುಳ್ಳೆಗಳ ಉತ್ಪತ್ತಿಯು ದ್ರಾವಣದಲ್ಲಿ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯುತ್ತಿದೆ ಎಂಬುದಕ್ಕೆ ಸಾಕ್ಷಿಯಾಗಿದೆ. ವಿದ್ಯುತ್ ಪ್ರವಾಹವು ನೀರನ್ನು ವಿಭಜಿಸುತ್ತಿದೆ.",
+  "script_display": "ವಿದ್ಯುತ್ ಪ್ರವಾಹವನ್ನು ಹರಿಸಿದ ತಕ್ಷಣ, ನೀವು ಏನು ಗಮನಿಸುತ್ತೀರಿ? ಎರಡೂ ಕಾರ್ಬನ್ ದಂಡಗಳ ಬಳಿ ಸಣ್ಣ ಸಣ್ಣ ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಉತ್ಪತ್ತಿಯಾಗುವುದನ್ನು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಇದು ಬಹಳ ಮುಖ್ಯವಾದ ವೀಕ್ಷಣೆ. ಬ್ಯಾಟರಿಯ ಧನ ತುದಿಗೆ (+) ಜೋಡಿಸಲಾದ ವಿದ್ಯುದ್ವಾರ ಮತ್ತು ಋಣ ತುದಿಗೆ (-) ಜೋಡಿಸಲಾದ ವಿದ್ಯುದ್ವಾರ, ಎರಡರ ಮೇಲೂ ಈ ಗುಳ್ಳೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಈ ಗುಳ್ಳೆಗಳ ಉತ್ಪತ್ತಿಯು ದ್ರಾವಣದಲ್ಲಿ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯುತ್ತಿದೆ ಎಂಬುದಕ್ಕೆ ಸಾಕ್ಷಿಯಾಗಿದೆ. ವಿದ್ಯುತ್ ಪ್ರವಾಹವು ನೀರನ್ನು ವಿಭಜಿಸುತ್ತಿದೆ.",
+  "display_bullets": [
+    "ಎರಡೂ ವಿದ್ಯುದ್ವಾರಗಳ ಬಳಿ ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+    "ಧನಾಗ್ರ (+) ಮತ್ತು ಋಣಾಗ್ರ (-) ಎರಡರಲ್ಲೂ ಗುಳ್ಳೆಗಳು ಉತ್ಪತ್ತಿಯಾಗುತ್ತವೆ.",
+    "ಇದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯ ಸಂಕೇತವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up view of the two electrodes in the water. Bubbles of gas are shown rising from the surface of both the anode and the cathode.",
+    "labels": "ಅನಿಲದ ಗುಳ್ಳೆಗಳು, ಆನೋಡ್ (+), ಕ್ಯಾಥೋಡ್ (-)",
+    "scientific_significance": "Visually represents the key observation of electrolysis: gas evolution at the electrodes.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_8_science_chapter_11_concept_4_chunk_015"
+}

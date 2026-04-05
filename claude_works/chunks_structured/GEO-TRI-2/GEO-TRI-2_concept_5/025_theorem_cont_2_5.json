@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಧನೆ: ನಿರ್ಣಯ (Proof: Conclusion)",
+  "script": "ಈಗ ನಾವು ಸಾಧನೆಯ ಅಂತಿಮ ಹಂತದಲ್ಲಿದ್ದೇವೆ. ಪಿ ಕ್ಯೂ ಮತ್ತು ಇ ಎಫ್ ಸಮಾಂತರವಾಗಿರುವುದರಿಂದ, ಅವುಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಅಂದರೆ, ಕೋನ ಪಿ ಯು ಕೋನ ಇ ಗೆ ಸಮ ಮತ್ತು ಕೋನ ಕ್ಯೂ ಯು ಕೋನ ಎಫ್ ಗೆ ಸಮ. ಆದರೆ, ನಾವು ಹಂತ ಎರಡರಲ್ಲಿ ಏನು ಕಂಡುಕೊಂಡಿದ್ದೆವು? ಕೋನ ಬಿ ಯು ಕೋನ ಪಿ ಗೆ ಸಮ ಮತ್ತು ಕೋನ ಸಿ ಯು ಕೋನ ಕ್ಯೂ ಗೆ ಸಮ ಎಂದು. ಈ ಎರಡು ಫಲಿತಾಂಶಗಳನ್ನು ಒಟ್ಟಿಗೆ ಸೇರಿಸಿದರೆ, ನಮಗೆ ಕೋನ ಬಿ ಯು ಕೋನ ಇ ಗೆ ಸಮ ಮತ್ತು ಕೋನ ಸಿ ಯು ಕೋನ ಎಫ್ ಗೆ ಸಮ ಎಂದು ಸಿಗುತ್ತದೆ. ನಮಗೆ ಮೊದಲೇ ಕೋನ ಎ ಯು ಕೋನ ಡಿ ಗೆ ಸಮ ಎಂದು ತಿಳಿದಿದೆ. ಹಾಗಾಗಿ, ಟ್ರೈಯಾಂಗಲ್ ಎ ಬಿ ಸಿ ಮತ್ತು ಟ್ರೈಯಾಂಗಲ್ ಡಿ ಇ ಎಫ್ ಗಳಲ್ಲಿ, ಮೂರೂ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿವೆ. ಆದ್ದರಿಂದ, ಕೋನ-ಕೋನ-ಕೋನ, ಅಂದರೆ ಎ.ಎ.ಎ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದ ಪ್ರಕಾರ, ಟ್ರೈಯಾಂಗಲ್ ಎ ಬಿ ಸಿ ಯು ಟ್ರೈಯಾಂಗಲ್ ಡಿ ಇ ಎಫ್ ಗೆ ಸಮರೂಪಿಯಾಗಿದೆ. ಹೀಗೆ ಪ್ರಮೇಯವು ಸಾಧಿಸಲ್ಪಟ್ಟಿತು.",
+  "script_display": "ಈಗ ನಾವು ಸಾಧನೆಯ ಅಂತಿಮ ಹಂತದಲ್ಲಿದ್ದೇವೆ. $PQ \\parallel EF$ ಆಗಿರುವುದರಿಂದ, ಅವುಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಅಂದರೆ, $\\angle P = \\angle E$ ಮತ್ತು $\\angle Q = \\angle F$. ಆದರೆ, ನಾವು ಹಂತ 2 ರಲ್ಲಿ ಏನು ಕಂಡುಕೊಂಡಿದ್ದೆವು? $\\angle B = \\angle P$ ಮತ್ತು $\\angle C = \\angle Q$ ಎಂದು. ಈ ಎರಡು ಫಲಿತಾಂಶಗಳನ್ನು ಒಟ್ಟಿಗೆ ಸೇರಿಸಿದರೆ, ನಮಗೆ $\\angle B = \\angle E$ ಮತ್ತು $\\angle C = \\angle F$ ಎಂದು ಸಿಗುತ್ತದೆ. ನಮಗೆ ಮೊದಲೇ $\\angle A = \\angle D$ ಎಂದು ತಿಳಿದಿದೆ. ಹಾಗಾಗಿ, $\\triangle ABC$ ಮತ್ತು $\\triangle DEF$ ಗಳಲ್ಲಿ, ಮೂರೂ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿವೆ. ಆದ್ದರಿಂದ, ಕೋ.ಕೋ.ಕೋ (AAA) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದ ಪ್ರಕಾರ, $\\triangle ABC \\sim \\triangle DEF$. ಹೀಗೆ ಪ್ರಮೇಯವು ಸಾಧಿಸಲ್ಪಟ್ಟಿತು.",
+  "display_bullets": [
+    "$PQ \\parallel EF$ ಆಗಿರುವುದರಿಂದ, ಅನುರೂಪ ಕೋನಗಳು ಸಮ: $\\angle P = \\angle E$ ಮತ್ತು $\\angle Q = \\angle F$.",
+    "ಆದರೆ ಹಂತ 2 ರಿಂದ, $\\angle B = \\angle P$ ಮತ್ತು $\\angle C = \\angle Q$.",
+    "ಆದ್ದರಿಂದ, $\\angle B = \\angle E$ ಮತ್ತು $\\angle C = \\angle F$.",
+    "ಹೀಗಾಗಿ, $\\triangle ABC$ ಮತ್ತು $\\triangle DEF$ ಗಳಲ್ಲಿ $\\angle A = \\angle D, \\angle B = \\angle E, \\angle C = \\angle F$.",
+    "$\\therefore \\triangle ABC \\sim \\triangle DEF$ (ಕೋ.ಕೋ.ಕೋ ಸಮರೂಪತೆ)."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "proof_steps",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ತ್ರಿಭುಜ ABC ಮತ್ತು DEF ಅಕ್ಕಪಕ್ಕದಲ್ಲಿವೆ. ಅವುಗಳ ಮೂರು ಜೋಡಿ ಅನುರೂಪ ಕೋನಗಳನ್ನು (A=D, B=E, C=F) ಒಂದೇ ಬಣ್ಣ ಅಥವಾ ಚಿಹ್ನೆಗಳಿಂದ ಗುರುತಿಸಲಾಗಿದೆ. ಅಂತಿಮ ಫಲಿತಾಂಶ '△ABC ~ △DEF' ಅನ್ನು ಕೆಳಗೆ ಪ್ರಮುಖವಾಗಿ ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, E, F",
+    "mathematical_significance": "ಸಾಧನೆಯ ತಾರ್ಕಿಕ ಹಂತಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ಅಂತಿಮ ನಿರ್ಣಯವನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_025"
+}

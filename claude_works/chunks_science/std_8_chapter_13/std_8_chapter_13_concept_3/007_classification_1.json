@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸ್ವಯಂ ಪ್ರಕಾಶಕ ವಸ್ತುಗಳು (Luminous Objects)",
+  "script": "ನಾವು ವಸ್ತುಗಳನ್ನು ಅವು ಬೆಳಕನ್ನು ಹೇಗೆ ನೀಡುತ್ತವೆ ಎಂಬುದರ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಿಸಬಹುದು. ಮೊದಲನೆಯದಾಗಿ, ಸ್ವಯಂ ಪ್ರಕಾಶಕ ವಸ್ತುಗಳು. ನಮ್ಮ ಮೊದಲ ಬುಲೆಟ್ ಪಾಯಿಂಟ್ ಹೇಳುವಂತೆ, ಇವು ತಮ್ಮದೇ ಆದ ಬೆಳಕನ್ನು ಹೊರಸೂಸುವ ವಸ್ತುಗಳು. ಇವುಗಳಿಗೆ ಬೇರೆ ಯಾವುದೇ ಬೆಳಕಿನ ಆಕರದ ಅವಶ್ಯಕತೆ ಇರುವುದಿಲ್ಲ. ಎರಡನೇ ಬುಲೆಟ್ ಪಾಯಿಂಟ್ ನಲ್ಲಿ ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ: ಸೂರ್ಯ, ನಕ್ಷತ್ರಗಳು, ಮತ್ತು ಉರಿಯುತ್ತಿರುವ ವಿದ್ಯುತ್ ಬಲ್ಬ್. ಇವೆಲ್ಲವೂ ಸ್ವಯಂ ಪ್ರಕಾಶಕ ವಸ್ತುಗಳು. ಇದಕ್ಕೆ ಕಾರಣವೇನು? ನಮ್ಮ ಮೂರನೇ ಬುಲೆಟ್ ಪಾಯಿಂಟ್ ವಿವರಿಸುವಂತೆ, ಈ ವಸ್ತುಗಳು ತಮ್ಮಲ್ಲಿರುವ ಬೇರೆ ರೂಪದ ಶಕ್ತಿಯನ್ನು, ಉದಾಹರಣೆಗೆ ರಾಸಾಯನಿಕ ಅಥವಾ ವಿದ್ಯುತ್ ಶಕ್ತಿಯನ್ನು, ಬೆಳಕಿನ ಶಕ್ತಿಯನ್ನಾಗಿ ಪರಿವರ್ತಿಸುತ್ತವೆ. ಈ ಬೆಳಕು ನೇರವಾಗಿ ನಮ್ಮ ಕಣ್ಣುಗಳನ್ನು ತಲುಪುವುದರಿಂದ ನಾವು ಅವುಗಳನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.",
+  "script_display": "ತಮ್ಮದೇ ಆದ ಬೆಳಕನ್ನು ಹೊರಸೂಸುವ ವಸ್ತುಗಳನ್ನು **ಸ್ವಯಂ ಪ್ರಕಾಶಕ ವಸ್ತುಗಳು** ಎನ್ನುತ್ತಾರೆ.",
+  "display_bullets": [
+    "**ವ್ಯಾಖ್ಯಾನ:** ತಮ್ಮದೇ ಆದ ಬೆಳಕನ್ನು ಹೊರಸೂಸುವ ವಸ್ತುಗಳು.",
+    "**ಉದಾಹರಣೆ:** ಸೂರ್ಯ, ನಕ್ಷತ್ರಗಳು, ವಿದ್ಯುತ್ ಬಲ್ಬ್.",
+    "**ಕಾರಣ:** ಇತರ ಶಕ್ತಿಯ ರೂಪಗಳನ್ನು (ಉದಾ: ರಾಸಾಯನಿಕ, ವಿದ್ಯುತ್) ಬೆಳಕಿನ ಶಕ್ತಿಯನ್ನಾಗಿ ಪರಿವರ್ತಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_light",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a sun, a star, and a lit light bulb, all emitting rays of light outwards. This visually represents that they are sources of their own light.",
+    "labels": "ಸೂರ್ಯ, ನಕ್ಷತ್ರ, ಬಲ್ಬ್",
+    "scientific_significance": "Demonstrates the concept of luminous objects that generate and emit their own light.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_13_concept_3_chunk_007"
+}

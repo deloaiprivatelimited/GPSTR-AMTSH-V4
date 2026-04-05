@@ -1,0 +1,114 @@
+{
+  "module_id": "std_10_chapter_6_concept_7",
+  "chapter_code": "std_10_chapter_6",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:12:18",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "aeabce24c6260282843eaebeb2b97eef",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.051,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 37,
+      "generated_at": "2026-04-02 12:10:41"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "903229b9a40c88abbe7feac490801b73",
+      "wav_file": "003_definition_0.wav",
+      "duration": 47.571,
+      "slide_title": "ಹಾರ್ಮೋನುಗಳು (Hormones) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 12:10:56"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "9fd4039e81df97ca8b9262c49b5ffbb5",
+      "wav_file": "001_intro_0.wav",
+      "duration": 53.291,
+      "slide_title": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಹಾರ್ಮೋನುಗಳು - ಅಂತಃಸ್ರಾವಕ ವ್ಯವಸ್ಥೆ",
+      "type": "intro",
+      "script_words": 80,
+      "generated_at": "2026-04-02 12:11:03"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "55ae02b6c0843c27dbb3ed6808bd8fde",
+      "wav_file": "006_definition_1.wav",
+      "duration": 39.811,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಅಂತಃಸ್ರಾವಕ ಗ್ರಂಥಿಗಳು",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 12:11:11"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "bba428f7d4d5ef5b4d4344a1248a74b0",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 40.091,
+      "slide_title": "ಹಾರ್ಮೋನುಗಳ ಕಾರ್ಯ: ಒಂದು ಹೋಲಿಕೆ",
+      "type": "definition",
+      "script_words": 52,
+      "generated_at": "2026-04-02 12:11:19"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "b8f80823661505b6227872fa4345277f",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 44.131,
+      "slide_title": "ಹೋಲಿಕೆ: ಅಂತಃಸ್ರಾವಕ vs ಬಹಿಸ್ಸ್ರಾವಕ ಗ್ರಂಥಿಗಳು",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 12:11:50"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "f559d52967a71d7f901f0030dd174bca",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 41.531,
+      "slide_title": "ಹಾರ್ಮೋನುಗಳ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "definition",
+      "script_words": 45,
+      "generated_at": "2026-04-02 12:11:51"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "0a6d92ba92cdc7b49da6fb6e3932fcb5",
+      "wav_file": "009_recap_0.wav",
+      "duration": 49.131,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 62,
+      "generated_at": "2026-04-02 12:11:55"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "5e705da9b1e8131715e20a3d64300867",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 41.931,
+      "slide_title": "ಅಂತಃಸ್ರಾವಕ ಗ್ರಂಥಿಗಳು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ?",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 12:12:18"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೈಡ್ರೋಕಾರ್ಬನ್‌ಗಳ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಸರಳವಾದ ಹೈಡ್ರೋಕಾರ್ಬನ್‌ಗೆ ಉದಾಹರಣೆ ನೋಡೋಣ. ಇದು ಮೀಥೇನ್ ಅಣು. ಇದರ ರಾಸಾಯನಿಕ ಸೂತ್ರ ಸಿ ಎಚ್ ಫೋರ್. ನೀವು ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಲ್ಲಿ ನೋಡಬಹುದು, ಒಂದು ಕಾರ್ಬನ್ ಪರಮಾಣು ಕೇಂದ್ರದಲ್ಲಿದೆ ಮತ್ತು ಅದು ನಾಲ್ಕು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳೊಂದಿಗೆ ಬಂಧವನ್ನು ఏర్పరಸಿಕೊಂಡಿದೆ. ಈ ಅಣುವಿನಲ್ಲಿ ಕಾರ್ಬನ್ ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಧಾತು ಇದೆಯೇ? ಇಲ್ಲ. ಆದ್ದರಿಂದ, ಮೀಥೇನ್ ಒಂದು ಪರಿಪೂರ್ಣ ಹೈಡ್ರೋಕಾರ್ಬನ್. ಇದೇ ರೀತಿ, ಈಥೇನ್, ಅಂದರೆ ಸಿ ಟೂ ಎಚ್ ಸಿಕ್ಸ್, ಕೂಡ ಒಂದು ಹೈಡ್ರೋಕಾರ್ಬನ್.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳವಾದ ಹೈಡ್ರೋಕಾರ್ಬನ್‌ಗೆ ಉದಾಹರಣೆ ನೋಡೋಣ. ಇದು ಮೀಥೇನ್ ಅಣು. ಇದರ ರಾಸಾಯನಿಕ ಸೂತ್ರ $CH_4$. ನೀವು ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಲ್ಲಿ ನೋಡಬಹುದು, ಒಂದು ಕಾರ್ಬನ್ ಪರಮಾಣು ಕೇಂದ್ರದಲ್ಲಿದೆ ಮತ್ತು ಅದು ನಾಲ್ಕು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳೊಂದಿಗೆ ಬಂಧವನ್ನು ఏర్పరಸಿಕೊಂಡಿದೆ. ಈ ಅಣುವಿನಲ್ಲಿ ಕಾರ್ಬನ್ ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಧಾತು ಇದೆಯೇ? ಇಲ್ಲ. ಆದ್ದರಿಂದ, ಮೀಥೇನ್ ಒಂದು ಪರಿಪೂರ್ಣ ಹೈಡ್ರೋಕಾರ್ಬನ್. ಇದೇ ರೀತಿ, ಈಥೇನ್ ($C_2H_6$) ಕೂಡ ಒಂದು ಹೈಡ್ರೋಕಾರ್ಬನ್.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: ಮೀಥೇನ್ ($CH_4$)",
+    "ರಚನೆ: 1 ಕಾರ್ಬನ್ ಪರಮಾಣು, 4 ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳು.",
+    "ಈ ಅಣುವಿನಲ್ಲಿ ಕೇವಲ ಕಾರ್ಬನ್ ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳಿವೆ.",
+    "ಇನ್ನೊಂದು ಉದಾಹರಣೆ: ಈಥೇನ್ ($C_2H_6$)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 3D ball-and-stick model of a Methane molecule (CH4). A central black sphere (Carbon) is connected to four smaller white spheres (Hydrogen).",
+    "labels": "Carbon atom, Hydrogen atom, Covalent bond",
+    "scientific_significance": "Illustrates the simplest alkane and a fundamental example of a hydrocarbon, showing the tetrahedral geometry and the exclusive presence of C and H atoms.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_4_concept_4_chunk_004"
+}

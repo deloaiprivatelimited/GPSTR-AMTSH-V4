@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು ತ್ರಿಭುಜಗಳ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಮತ್ತು ವೃತ್ತದ ಪ್ರಮೇಯಗಳನ್ನು ಬಳಸಿ ಕೋನ AEB ಯು 60 ಡಿಗ್ರಿ ಎಂದು ಯಶಸ್ವಿಯಾಗಿ ಸಾಧಿಸಿದ್ದೇವೆ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ನಾವು ಮೂರು ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಬಳಸಿದ್ದೇವೆ: ತ್ರಿಜ್ಯಕ್ಕೆ ಸಮನಾದ ಜ್ಯಾದಿಂದ ಸಮಬಾಹು ತ್ರಿಭುಜ, ಕೇಂದ್ರದಲ್ಲಿನ ಕೋನ ಮತ್ತು ಪರಿಧಿಯ ಮೇಲಿನ ಕೋನದ ಸಂಬಂಧ, ಮತ್ತು ಅರ್ಧವೃತ್ತದಲ್ಲಿನ ಕೋನ ಲಂಬಕೋನವಾಗಿರುತ್ತದೆ ಎಂಬುದು.",
+  "script_display": "ಹೀಗೆ, ನಾವು ತ್ರಿಭುಜಗಳ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಮತ್ತು ವೃತ್ತದ ಪ್ರಮೇಯಗಳನ್ನು ಬಳಸಿ $∠AEB$ ಯು $60°$ ಎಂದು ಯಶಸ್ವಿಯಾಗಿ ಸಾಧಿಸಿದ್ದೇವೆ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ನಾವು ಮೂರು ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಬಳಸಿದ್ದೇವೆ: ತ್ರಿಜ್ಯಕ್ಕೆ ಸಮನಾದ ಜ್ಯಾದಿಂದ ಸಮಬಾಹು ತ್ರಿಭುಜ, ಕೇಂದ್ರದಲ್ಲಿನ ಕೋನ ಮತ್ತು ಪರಿಧಿಯ ಮೇಲಿನ ಕೋನದ ಸಂಬಂಧ, ಮತ್ತು ಅರ್ಧವೃತ್ತದಲ್ಲಿನ ಕೋನ ಲಂಬಕೋನವಾಗಿರುತ್ತದೆ ಎಂಬುದು.",
+  "display_bullets": [
+    "ಸಾಧನೆ: ∠AEB = 60°.",
+    "ಬಳಸಿದ ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆಗಳು: ಸಮಬಾಹು ತ್ರಿಭುಜ, ಪ್ರಮೇಯ 9.7, ಮತ್ತು ಅರ್ಧವೃತ್ತದ ಕೋನ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_highlight",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "∠AEB = 60°",
+    "placeholder_note": "Final answer highlighted"
+  },
+  "source_example_id": "GEO-CIR-2_example_2",
+  "final_answer": "∠AEB = 60°",
+  "final_answer_display": "$∠AEB = 60°$",
+  "chunk_id": "GEO-CIR-2_concept_3_chunk_021"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಪವರ್ತಿಸಿ",
+  "script": "ಈಗ ಒಂದು ಸಂಕೀರ್ಣ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಎ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಎರಡು ಎ ಬಿ ಪ್ಲಸ್ ಬಿ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಸಿ ಸ್ಕ್ವೇರ್ಡ್ ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯನ್ನು ಗಮನವಿಟ್ಟು ನೋಡೋಣ. ಇದರಲ್ಲಿ ನಾಲ್ಕು ಪದಗಳಿವೆ. ಇದನ್ನು ಹೇಗೆ ಅಪವರ್ತಿಸುವುದು ಎಂದು ನಾವು ಹಂತ ಹಂತವಾಗಿ ಕಲಿಯೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಸಂಕೀರ್ಣ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $a^2 - 2ab + b^2 - c^2$ ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯನ್ನು ಗಮನವಿಟ್ಟು ನೋಡೋಣ. ಇದರಲ್ಲಿ ನಾಲ್ಕು ಪದಗಳಿವೆ. ಇದನ್ನು ಹೇಗೆ ಅಪವರ್ತಿಸುವುದು ಎಂದು ನಾವು ಹಂತ ಹಂತವಾಗಿ ಕಲಿಯೋಣ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $a^2 - 2ab + b^2 - c^2$ ಅನ್ನು ಅಪವರ್ತಿಸಿ.",
+    "ನಾವು ಈ ಬೀಜೋಕ್ತಿಯನ್ನು ಅಪವರ್ತನಗಳ ಗುಣಲಬ್ಧವಾಗಿ ಬರೆಯಬೇಕು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "a^2 - 2ab + b^2 - c^2",
+    "placeholder_note": "Problem statement in a box"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "ALG-FAC-2_example_8",
+  "chunk_id": "ALG-FAC-2_concept_4_chunk_027"
+}

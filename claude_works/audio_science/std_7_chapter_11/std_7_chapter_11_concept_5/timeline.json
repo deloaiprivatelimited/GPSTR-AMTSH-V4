@@ -1,0 +1,112 @@
+{
+  "module_id": "std_7_chapter_11_concept_5",
+  "chapter_code": "std_7_chapter_11",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 9,
+  "total_duration": 382.099,
+  "total_duration_formatted": "6:22",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_11_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪೀನ ದರ್ಪಣದಿಂದ ಪ್ರತಿಬಿಂಬ ರಚನೆ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 47.651,
+      "duration": 47.651,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 48.251,
+      "end": 79.462,
+      "duration": 31.211,
+      "script_words": 41
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_5_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಪೀನ ದರ್ಪಣದಿಂದ ಉಂಟಾಗುವ ಪ್ರತಿಬಿಂಬದ ಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "start": 80.062,
+      "end": 132.313,
+      "duration": 52.251,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_5_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಪೀನ ದರ್ಪಣದ ಅನ್ವಯಗಳು",
+      "type": "concept_explanation",
+      "start": 132.913,
+      "end": 180.044,
+      "duration": 47.131,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_5_chunk_005",
+      "chunk_file": "005_example_0.json",
+      "wav_file": "005_example_0.wav",
+      "slide_title": "ಲೆಕ್ಕಾಚಾರದ ಉದಾಹರಣೆ: ಸಮಸ್ಯೆ",
+      "type": "worked_example",
+      "start": 180.644,
+      "end": 223.895,
+      "duration": 43.251,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_5_chunk_006",
+      "chunk_file": "006_example_cont_0_1.json",
+      "wav_file": "006_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತಗಳು 1-2",
+      "type": "worked_example",
+      "start": 224.495,
+      "end": 259.746,
+      "duration": 35.251,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_5_chunk_007",
+      "chunk_file": "007_example_cont_0_2.json",
+      "wav_file": "007_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+      "type": "worked_example",
+      "start": 260.346,
+      "end": 298.317,
+      "duration": 37.971,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_5_chunk_008",
+      "chunk_file": "008_example_cont_0_3.json",
+      "wav_file": "008_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 298.917,
+      "end": 333.928,
+      "duration": 35.011,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_5_chunk_009",
+      "chunk_file": "009_recap_0.json",
+      "wav_file": "009_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ (Recap)",
+      "type": "recap",
+      "start": 334.528,
+      "end": 381.499,
+      "duration": 46.971,
+      "script_words": 55
+    }
+  ]
+}

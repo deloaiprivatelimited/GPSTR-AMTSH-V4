@@ -1,0 +1,37 @@
+{
+  "type": "chunk",
+  "slide_title": "ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿಗಳ ಜೀವನ ಚಕ್ರ",
+  "script": "ನಮಸ್ಕಾರ ಶಿಕ್ಷಕ ಮಿತ್ರರೇ! ಜೀವಿಗಳ ಜಗತ್ತು ಅದ್ಭುತಗಳಿಂದ ತುಂಬಿದೆ. ಒಂದು ಸಣ್ಣ ಬೀಜ ಹೇಗೆ ದೊಡ್ಡ ಮರವಾಗುತ್ತದೆ? ಅಥವಾ ನೀರಿನಲ್ಲಿ ಕಾಣುವ ಸಣ್ಣ ಹುಳು ಹೇಗೆ ಸೊಳ್ಳೆಯಾಗಿ ಬದಲಾಗುತ್ತದೆ? ಇದೆಲ್ಲದರ ಹಿಂದಿನ ರಹಸ್ಯವೇ ಜೀವನ ಚಕ್ರ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿಗಳ ಜೀವನ ಚಕ್ರದ ಬಗ್ಗೆ ಆಳವಾಗಿ ಕಲಿಯಲಿದ್ದೇವೆ. ನಾವು ಸಸ್ಯದ ಜೀವನ ಚಕ್ರದ ಹಂತಗಳನ್ನು ಅನ್ವೇಷಿಸುತ್ತೇವೆ. ನಂತರ, ಸೊಳ್ಳೆಯ ಜೀವನ ಚಕ್ರ ಮತ್ತು ಅದರ ಹಂತಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತೇವೆ. ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಕಪ್ಪೆಯ ಜೀವನ ಚಕ್ರ ಮತ್ತು ರೂಪಾಂತರದ ಅದ್ಭುತ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಚರ್ಚಿಸುತ್ತೇವೆ. ಈ ಜ್ಞಾನವು ಪರೀಕ್ಷೆಗೆ ಮಾತ್ರವಲ್ಲ, ನಮ್ಮ ಸುತ್ತಲಿನ ಪರಿಸರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಕೂಡ ಬಹಳ ಮುಖ್ಯ. ಶುರು ಮಾಡೋಣವೇ?",
+  "script_display": "ನಮಸ್ಕಾರ ಶಿಕ್ಷಕ ಮಿತ್ರರೇ! ಜೀವಿಗಳ ಜಗತ್ತು ಅದ್ಭುತಗಳಿಂದ ತುಂಬಿದೆ. ಒಂದು ಸಣ್ಣ ಬೀಜ ಹೇಗೆ ದೊಡ್ಡ ಮರವಾಗುತ್ತದೆ? ಅಥವಾ ನೀರಿನಲ್ಲಿ ಕಾಣುವ ಸಣ್ಣ ಹುಳು ಹೇಗೆ ಸೊಳ್ಳೆಯಾಗಿ ಬದಲಾಗುತ್ತದೆ? ಇದೆಲ್ಲದರ ಹಿಂದಿನ ರಹಸ್ಯವೇ 'ಜೀವನ ಚಕ್ರ' (Life Cycle). ಈ ಪಾಠದಲ್ಲಿ ನೀವು ಕಲಿಯುವ ವಿಷಯಗಳು:",
+  "display_bullets": [
+    "ಸಸ್ಯದ ಜೀವನ ಚಕ್ರದ ಹಂತಗಳು",
+    "ಸೊಳ್ಳೆಯ ಜೀವನ ಚಕ್ರ ಮತ್ತು ಅದರ ಹಂತಗಳು",
+    "ಕಪ್ಪೆಯ ಜೀವನ ಚಕ್ರ ಮತ್ತು ರೂಪಾಂತರ"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A visually appealing split-screen or collage. On one side, the time-lapse growth of a bean plant from seed to pod. On the other side, the metamorphosis of a butterfly from caterpillar to chrysalis to adult. The image should evoke a sense of wonder about life cycles.",
+    "labels": "Plant life cycle, Animal metamorphosis",
+    "scientific_significance": "Visually introduces the core concept of life cycles in both plants and animals, setting an engaging tone for the module.",
+    "placeholder_note": "Generate a vibrant collage showing plant growth and animal metamorphosis."
+  },
+  "sub_type": "intro",
+  "chunk_id": "std_6_chapter_10_concept_4_chunk_001"
+}

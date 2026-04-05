@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಬಲ",
+  "script": "ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಬಲದ ಅನೇಕ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡಬಹುದು. ಉದಾಹರಣೆಗೆ, ಒಂದು ಬಾಗಿಲನ್ನು ತೆರೆಯಲು ನಾವು ಅದನ್ನು ಎಳೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ಎಳೆಯುವಿಕೆಯು ಒಂದು ಬಲ. ಅದೇ ರೀತಿ, ಅಂಗಡಿಯಲ್ಲಿ ಶಾಪಿಂಗ್ ಕಾರ್ಟ್ ಅನ್ನು ಮುಂದೆ ಸಾಗಿಸಲು ನಾವು ಅದನ್ನು ತಳ್ಳುತ್ತೇವೆ. ಇಲ್ಲಿ ತಳ್ಳುವಿಕೆಯು ಒಂದು ಬಲ. ಈ ಎರಡೂ ಕ್ರಿಯೆಗಳು ವಸ್ತುವಿನ ಚಲನೆಯ ಸ್ಥಿತಿಯನ್ನು ಬದಲಾಯಿಸುತ್ತವೆ. ಅಷ್ಟೇ ಅಲ್ಲ, ಬಲವು ವಸ್ತುವಿನ ಆಕಾರವನ್ನು ಸಹ ಬದಲಾಯಿಸಬಹುದು. ಉದಾಹರಣೆಗೆ, ಒಂದು ಸ್ಪಂಜನ್ನು ಕೈಯಲ್ಲಿ ಹಿಂಡಿದಾಗ ಅದರ ಆಕಾರ ಬದಲಾಗುತ್ತದೆ. ಇದಕ್ಕೂ ಬಲವೇ ಕಾರಣ.",
+  "script_display": "ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಬಲದ ಅನೇಕ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡಬಹುದು. ಉದಾಹರಣೆಗೆ, ಒಂದು ಬಾಗಿಲನ್ನು ತೆರೆಯಲು ನಾವು ಅದನ್ನು ಎಳೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ಎಳೆಯುವಿಕೆಯು ಒಂದು ಬಲ. ಅದೇ ರೀತಿ, ಅಂಗಡಿಯಲ್ಲಿ ಶಾಪಿಂಗ್ ಕಾರ್ಟ್ ಅನ್ನು ಮುಂದೆ ಸಾಗಿಸಲು ನಾವು ಅದನ್ನು ತಳ್ಳುತ್ತೇವೆ. ಇಲ್ಲಿ ತಳ್ಳುವಿಕೆಯು ಒಂದು ಬಲ. ಈ ಎರಡೂ ಕ್ರಿಯೆಗಳು ವಸ್ತುವಿನ ಚಲನೆಯ ಸ್ಥಿತಿಯನ್ನು ಬದಲಾಯಿಸುತ್ತವೆ. ಅಷ್ಟೇ ಅಲ್ಲ, ಬಲವು ವಸ್ತುವಿನ ಆಕಾರವನ್ನು ಸಹ ಬದಲಾಯಿಸಬಹುದು. ಉದಾಹರಣೆಗೆ, ಒಂದು ಸ್ಪಂಜನ್ನು ಕೈಯಲ್ಲಿ ಹಿಂಡಿದಾಗ ಅದರ ಆಕಾರ ಬದಲಾಗುತ್ತದೆ. ಇದಕ್ಕೂ ಬಲವೇ ಕಾರಣ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ 1: ಬಾಗಿಲನ್ನು ತೆರೆಯಲು ಎಳೆಯುವುದು (Pull).",
+    "ಉದಾಹರಣೆ 2: ಶಾಪಿಂಗ್ ಕಾರ್ಟ್ ಅನ್ನು ತಳ್ಳುವುದು (Push).",
+    "ಬಲವು ವಸ್ತುವಿನ ಆಕಾರವನ್ನು ಬದಲಾಯಿಸಬಹುದು (ಉದಾ: ಸ್ಪಂಜನ್ನು ಹಿಂಡುವುದು)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split image. On the left, a person pulling a door open. On the right, a person pushing a shopping cart. Simple line art style to illustrate push and pull forces.",
+    "labels": "ಎಳೆಯುವಿಕೆ (Pull), ತಳ್ಳುವಿಕೆ (Push)",
+    "scientific_significance": "Visually represents the two basic types of forces, push and pull, in everyday contexts, making the abstract concept of force more relatable.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_8_concept_1_chunk_003"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸೂಕ್ತವಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಉಪಯೋಗಿಸಿ ನಾವು ಒಂದು ನೂರ ನಾಲ್ಕರ ಘನ ಮತ್ತು ಒಂಬೈನೂರ ತೊಂಬತ್ತೊಂಬತ್ತರ ಘನ, ಇವುಗಳ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ನಾವು ನೇರವಾಗಿ ಗುಣಾಕಾರ ಮಾಡುವ ಬದಲು, ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಲೆಕ್ಕಾಚಾರವನ್ನು ಹೇಗೆ ಸುಲಭ ಮಾಡಬಹುದು ಎಂದು ಕಲಿಯೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸೂಕ್ತವಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಉಪಯೋಗಿಸಿ ನಾವು $(104)^3$ ಮತ್ತು $(999)^3$ ಇವುಗಳ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ನಾವು ನೇರವಾಗಿ ಗುಣಾಕಾರ ಮಾಡುವ ಬದಲು, ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಲೆಕ್ಕಾಚಾರವನ್ನು ಹೇಗೆ ಸುಲಭ ಮಾಡಬಹುದು ಎಂದು ಕಲಿಯೋಣ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಸೂಕ್ತವಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಉಪಯೋಗಿಸಿ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:",
+    "(i) $(104)^3$",
+    "(ii) $(999)^3$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸೂಕ್ತವಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಉಪಯೋಗಿಸಿ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:}\\\\ \\text{(i) } (104)^3 \\\\ \\text{(ii) } (999)^3",
+    "placeholder_note": "Problem statement displayed in a box"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_21",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_072"
+}

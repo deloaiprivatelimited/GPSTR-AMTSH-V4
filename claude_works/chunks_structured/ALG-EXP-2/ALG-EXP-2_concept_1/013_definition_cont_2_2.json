@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಘಾತಾಂಕವಿರುವ ಪದ",
+  "script": "ಈಗ ಘಾತಾಂಕ ಅಂದರೆ ಪವರ್ ಇರುವ ಪದವನ್ನು ನೋಡೋಣ. 7x squared ಎಂಬ ಪದವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ x squared ಎಂದರೆ x ಅನ್ನು ಎರಡು ಬಾರಿ ಗುಣಿಸಲಾಗಿದೆ, ಅಂದರೆ x ಗುಣಿಸು x. ಹಾಗಾಗಿ, 7x squared ಪದವನ್ನು ನಾವು 7 ಗುಣಿಸು x ಗುಣಿಸು x ಎಂದು ಬರೆಯಬಹುದು. ಆದ್ದರಿಂದ, ಈ ಪದದ ಅಪವರ್ತನಗಳು 7, x, ಮತ್ತು ಇನ್ನೊಂದು x. ಇಲ್ಲಿ x ಎರಡು ಬಾರಿ ಅಪವರ್ತನವಾಗಿ ಬರುತ್ತದೆ ಎಂಬುದನ್ನು ಗಮನಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಚರಾಕ್ಷರದ ಘಾತಾಂಕ ಎಷ್ಟಿರುತ್ತದೆಯೋ, ಅಷ್ಟು ಬಾರಿ ಆ ಚರಾಕ್ಷರವು ಅಪವರ್ತನವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ಘಾತಾಂಕ (exponent) ಇರುವ ಪದವನ್ನು ನೋಡೋಣ. $7x^2$ ಎಂಬ ಪದವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ $x^2$ ಎಂದರೆ $x$ ಅನ್ನು ಎರಡು ಬಾರಿ ಗುಣಿಸಲಾಗಿದೆ, ಅಂದರೆ $x \\times x$. ಹಾಗಾಗಿ, $7x^2$ ಪದವನ್ನು ನಾವು $7 \\times x \\times x$ ಎಂದು ಬರೆಯಬಹುದು. ಆದ್ದರಿಂದ, ಈ ಪದದ ಅಪವರ್ತನಗಳು $7, x,$ ಮತ್ತು ಇನ್ನೊಂದು $x$. ಇಲ್ಲಿ $x$ ಎರಡು ಬಾರಿ ಅಪವರ್ತನವಾಗಿ ಬರುತ್ತದೆ ಎಂಬುದನ್ನು ಗಮನಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಚರಾಕ್ಷರದ ಘಾತಾಂಕ ಎಷ್ಟಿರುತ್ತದೆಯೋ, ಅಷ್ಟು ಬಾರಿ ಆ ಚರಾಕ್ಷರವು ಅಪವರ್ತನವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪದ: $7x^2$",
+    "$x^2$ ಎಂದರೆ $x \\times x$.",
+    "ಪದವನ್ನು $7 \\times x \\times x$ ಎಂದು ಬರೆಯಬಹುದು.",
+    "$7x^2$ ಯ ಅಪವರ್ತನಗಳು: $7, x, x$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A factor tree diagram for 7x^2. The term 7x^2 is at the top. It has two branches leading to boxes containing '7' and 'x^2'. The 'x^2' box then has two more branches leading to two boxes, each containing 'x'. The title above the diagram is '7x^2 ಪದದ ಅಪವರ್ತನಗಳು'.",
+    "labels": "factor tree, exponent, algebraic term, factors, 7x^2",
+    "mathematical_significance": "Demonstrates how to find factors for a term containing an exponent, by expanding the exponent term.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "ALG-EXP-2_concept_1_chunk_013"
+}

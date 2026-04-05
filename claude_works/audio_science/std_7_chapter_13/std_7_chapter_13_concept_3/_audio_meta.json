@@ -1,0 +1,103 @@
+{
+  "module_id": "std_7_chapter_13_concept_3",
+  "chapter_code": "std_7_chapter_13",
+  "voice": "Algenib",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:51:18",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "03b624cbb1d9995d704362747e232269",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 34.091,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 49,
+      "generated_at": "2026-04-02 13:50:15"
+    },
+    "004_classification_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "db8296fdd36be2a903d79a9769d76595",
+      "wav_file": "004_classification_0.wav",
+      "duration": 33.891,
+      "slide_title": "ಉತ್ತಮ ಮನೆಗೆಲಸದ ಅಭ್ಯಾಸಗಳು",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:50:17"
+    },
+    "005_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "5bf15ebd28a76323b8392dca77616201",
+      "wav_file": "005_classification_cont_0_1.wav",
+      "duration": 40.211,
+      "slide_title": "ಅಡುಗೆ ಎಣ್ಣೆ ಮತ್ತು ಕೊಬ್ಬು",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:50:22"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "3b3cd9cab88c581cbcb997f9ce81a5ea",
+      "wav_file": "001_intro_0.wav",
+      "duration": 63.771,
+      "slide_title": "ನೈರ್ಮಲ್ಯ, ರೋಗ ಮತ್ತು ಉತ್ತಮ ಮನೆಗೆಲಸದ ಅಭ್ಯಾಸಗಳು",
+      "type": "chunk",
+      "script_words": 100,
+      "generated_at": "2026-04-02 13:50:29"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "f6dea7ddc67c4d6f148b6fcd3bc14454",
+      "wav_file": "003_property_0.wav",
+      "duration": 66.091,
+      "slide_title": "ನೈರ್ಮಲ್ಯ ಮತ್ತು ರೋಗ",
+      "type": "concept_explanation",
+      "script_words": 77,
+      "generated_at": "2026-04-02 13:50:58"
+    },
+    "006_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "660bfa3e1380138768ff32b48d3881b9",
+      "wav_file": "006_classification_cont_0_2.wav",
+      "duration": 37.531,
+      "slide_title": "ರಾಸಾಯನಿಕಗಳ ವಿಲೇವಾರಿ",
+      "type": "concept_explanation",
+      "script_words": 45,
+      "generated_at": "2026-04-02 13:51:12"
+    },
+    "007_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "382f3c50fd6b31af61f9f0c3d9e86ce2",
+      "wav_file": "007_classification_cont_0_3.wav",
+      "duration": 41.451,
+      "slide_title": "ಘನ ತ್ಯಾಜ್ಯಗಳ ವಿಲೇವಾರಿ",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:51:16"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "b812a70be7c3b17f650d2d0b900386f3",
+      "wav_file": "008_recap_0.wav",
+      "duration": 37.411,
+      "slide_title": "ಸಾರಾಂಶ: ನೈರ್ಮಲ್ಯ ಮತ್ತು ಉತ್ತಮ ಅಭ್ಯಾಸಗಳು",
+      "type": "recap",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:51:18"
+    }
+  }
+}

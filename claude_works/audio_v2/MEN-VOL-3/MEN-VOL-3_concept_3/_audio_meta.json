@@ -1,0 +1,169 @@
+{
+  "module_id": "MEN-VOL-3_concept_3",
+  "merge_code": "MEN-VOL-3",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 14,
+  "ok_count": 14,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:42:23",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "bdfab24bad5edba18feeb23d8ea9acba",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 40.091,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 55,
+      "generated_at": "2026-03-30 15:39:16"
+    },
+    "005_example_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "edd8180ad40dbc7195cdecd386a6b5c6",
+      "wav_file": "005_example_0.wav",
+      "duration": 27.611,
+      "slide_title": "ಉದಾಹರಣೆ: ಘನ ಮತ್ತು ಅರ್ಧಗೋಳದ ಸಂಯೋಜನೆ",
+      "type": "worked_example",
+      "script_words": 37,
+      "generated_at": "2026-03-30 15:39:19"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "24622ca3c9f71c8a8fe9ad5feb290359",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 49.531,
+      "slide_title": "ಮುಚ್ಚಿದ ಪಾದಗಳು: ವಿಸ್ತೀರ್ಣದ ಪರಿಗಣನೆ",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-03-30 15:39:31"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "382e1153cbe2f91504afae69d999fa35",
+      "wav_file": "003_property_0.wav",
+      "duration": 55.691,
+      "slide_title": "ಜೋಡಿಸಿದ ಘನಗಳ ಮೇಲೈ ವಿಸ್ತೀರ್ಣದ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 78,
+      "generated_at": "2026-03-30 15:39:44"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "6cd633035b06d8f6d24280ae95f47f00",
+      "wav_file": "001_intro_0.wav",
+      "duration": 60.651,
+      "slide_title": "ಪರಿಚಯ: ಜೋಡಿಸಿದ ಘನಗಳ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ",
+      "type": "intro",
+      "script_words": 80,
+      "generated_at": "2026-03-30 15:39:45"
+    },
+    "009_example_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "6e3a5e871d9f6ba3c51956128d73ebff",
+      "wav_file": "009_example_1.wav",
+      "duration": 40.651,
+      "slide_title": "ಉದಾಹರಣೆ: ರಾಕೆಟ್ ಆಟಿಕೆಯ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "script_words": 56,
+      "generated_at": "2026-03-30 15:40:12"
+    },
+    "008_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "e0039d8d2b84fa7100f5b92fb51231fe",
+      "wav_file": "008_example_cont_0_3.wav",
+      "duration": 57.211,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "script_words": 67,
+      "generated_at": "2026-03-30 15:40:28"
+    },
+    "006_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "0442a67dc236dc053e52de1ebe759032",
+      "wav_file": "006_example_cont_0_1.wav",
+      "duration": 60.771,
+      "slide_title": "ಹಂತ 1: ಸೂತ್ರವನ್ನು ರೂಪಿಸುವುದು",
+      "type": "worked_example",
+      "script_words": 79,
+      "generated_at": "2026-03-30 15:40:35"
+    },
+    "007_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "59d954369086dcba89faa168da62d9c9",
+      "wav_file": "007_example_cont_0_2.wav",
+      "duration": 67.331,
+      "slide_title": "ಹಂತ 2: ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿ ಲೆಕ್ಕಾಚಾರ",
+      "type": "worked_example",
+      "script_words": 91,
+      "generated_at": "2026-03-30 15:40:39"
+    },
+    "010_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "0e857a026555c61ccbf6309e61962446",
+      "wav_file": "010_example_cont_1_1.wav",
+      "duration": 83.851,
+      "slide_title": "ಹಂತ 1 & 2: ಅಳತೆಗಳ ಮತ್ತು ಓರೆ ಎತ್ತರದ ಲೆಕ್ಕಾಚಾರ",
+      "type": "worked_example",
+      "script_words": 115,
+      "generated_at": "2026-03-30 15:41:23"
+    },
+    "013_example_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "5f5e4a0cfa8d322a7731c2846268e88f",
+      "wav_file": "013_example_cont_1_4.wav",
+      "duration": 45.851,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "script_words": 56,
+      "generated_at": "2026-03-30 15:41:37"
+    },
+    "014_recap_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "bef5cb68805bf19a904893b04386afe4",
+      "wav_file": "014_recap_0.wav",
+      "duration": 45.531,
+      "slide_title": "ಸಾರಾಂಶ: ಜೋಡಿಸಿದ ಘನಗಳ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ",
+      "type": "recap",
+      "script_words": 61,
+      "generated_at": "2026-03-30 15:41:42"
+    },
+    "012_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "e40175e9f75d91858037d37bdac021bb",
+      "wav_file": "012_example_cont_1_3.wav",
+      "duration": 62.291,
+      "slide_title": "ಹಂತ 4: ಹಳದಿ ಬಣ್ಣದ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "script_words": 83,
+      "generated_at": "2026-03-30 15:41:46"
+    },
+    "011_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "ffddf88a2051fba80a1d399368de5b7a",
+      "wav_file": "011_example_cont_1_2.wav",
+      "duration": 90.331,
+      "slide_title": "ಹಂತ 3: ಕಿತ್ತಳೆ ಬಣ್ಣದ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "script_words": 104,
+      "generated_at": "2026-03-30 15:42:23"
+    }
+  }
+}

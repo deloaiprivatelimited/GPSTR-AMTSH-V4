@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ 1: ಮೊಟ್ಟೆ ಉಬ್ಬುತ್ತದೆ!",
+  "script": "ಐದು ನಿಮಿಷಗಳ ನಂತರ ನೋಡಿ! ಶುದ್ಧ ನೀರಿನಲ್ಲಿಟ್ಟ ಮೊಟ್ಟೆಯು ಗಾತ್ರದಲ್ಲಿ ದೊಡ್ಡದಾಗಿದೆ, ಅಂದರೆ ಉಬ್ಬಿಕೊಂಡಿದೆ. ಇದಕ್ಕೆ ಕಾರಣವೇನು? ಮೊಟ್ಟೆಯ ಹೊರಗೆ ನೀರಿನ ಸಾರತೆ ಹೆಚ್ಚಿದ್ದು, ಒಳಗೆ ಕಡಿಮೆಯಿದ್ದ ಕಾರಣ, ನೀರು ಅಭಿಸರಣೆ ಕ್ರಿಯೆಯ ಮೂಲಕ ಮೊಟ್ಟೆಯ ಪೊರೆಯನ್ನು ದಾಟಿ ಒಳಪ್ರವೇಶಿಸಿದೆ. ಹೀಗೆ ನೀರು ಕೋಶದೊಳಗೆ ಪ್ರವೇಶಿಸುವ ಪ್ರಕ್ರಿಯೆಗೆ ನಾವು ಅಂತಃಅಭಿಸರಣೆ ಅಥವಾ ಎಂಡೋಸ್ಮೋಸಿಸ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದೇ ಕಾರಣದಿಂದ ಮೊಟ್ಟೆಯು ಉಬ್ಬಿಕೊಂಡಿದೆ.",
+  "script_display": "ಐದು ನಿಮಿಷಗಳ ನಂತರ ನೋಡಿ! ಶುದ್ಧ ನೀರಿನಲ್ಲಿಟ್ಟ ಮೊಟ್ಟೆಯು ಗಾತ್ರದಲ್ಲಿ ದೊಡ್ಡದಾಗಿದೆ, ಅಂದರೆ ಉಬ್ಬಿಕೊಂಡಿದೆ. ಇದಕ್ಕೆ ಕಾರಣವೇನು? ಮೊಟ್ಟೆಯ ಹೊರಗೆ ನೀರಿನ ಸಾರತೆ ಹೆಚ್ಚಿದ್ದು, ಒಳಗೆ ಕಡಿಮೆಯಿದ್ದ ಕಾರಣ, ನೀರು ಅಭಿಸರಣೆ ಕ್ರಿಯೆಯ ಮೂಲಕ ಮೊಟ್ಟೆಯ ಪೊರೆಯನ್ನು ದಾಟಿ ಒಳಪ್ರವೇಶಿಸಿದೆ. ಹೀಗೆ ನೀರು ಕೋಶದೊಳಗೆ ಪ್ರವೇಶಿಸುವ ಪ್ರಕ್ರಿಯೆಗೆ ನಾವು ಅಂತಃಅಭಿಸರಣೆ (Endosmosis) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದೇ ಕಾರಣದಿಂದ ಮೊಟ್ಟೆಯು ಉಬ್ಬಿಕೊಂಡಿದೆ.",
+  "display_bullets": [
+    "ವೀಕ್ಷಣೆ: ಮೊಟ್ಟೆಯು ಉಬ್ಬುತ್ತದೆ.",
+    "ಕಾರಣ: ನೀರು ಹೊರಗಿನಿಂದ ಮೊಟ್ಟೆಯೊಳಗೆ ಪ್ರವೇಶಿಸಿದೆ.",
+    "ಪ್ರಕ್ರಿಯೆ: ಅಂತಃಅಭಿಸರಣೆ (Endosmosis).",
+    "ನೀರು ತನ್ನ ಅಧಿಕ ಸಾರತೆಯ ಪ್ರದೇಶದಿಂದ (ಶುದ್ಧ ನೀರು) ಕಡಿಮೆ ಸಾರತೆಯ ಪ್ರದೇಶಕ್ಕೆ (ಮೊಟ್ಟೆಯ ಒಳಭಾಗ) ಚಲಿಸಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A comparative diagram. On the left, the initial de-shelled egg. On the right, the same egg shown larger and swollen after being in water. Arrows point from the water into the egg, indicating the direction of water movement.",
+    "labels": "ಆರಂಭಿಕ ಮೊಟ್ಟೆ, ಉಬ್ಬಿದ ಮೊಟ್ಟೆ, ನೀರಿನ ಚಲನೆ (ಒಳಮುಖವಾಗಿ)",
+    "scientific_significance": "Visually demonstrates the result of placing the egg in a hypotonic solution, leading to swelling due to endosmosis.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "key_takeaway",
+  "chunk_id": "std_9_chapter_5_concept_4_chunk_014"
+}

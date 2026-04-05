@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ವಿಧಾನ 1: 100% ರಿಂದ ಗುಣಿಸುವುದು",
+  "script": "ಮೊದಲ ವಿಧಾನವು ತುಂಬಾ ಸರಳವಾಗಿದೆ. ದಶಮಾಂಶವನ್ನು ಶೇಕಡಾವಾರಿಗೆ ಪರಿವರ್ತಿಸಲು, ಅದನ್ನು ನೂರು ಪರ್ಸೆಂಟ್ ನಿಂದ ಗುಣಿಸಬೇಕು. ಇಲ್ಲಿ, ನಾವು ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಏಳು ಐದನ್ನು ನೂರು ಪರ್ಸೆಂಟ್ ನಿಂದ ಗುಣಿಸುತ್ತೇವೆ. ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಏಳು ಐದು ಗುಣಿಸು ನೂರು ಎಂದರೆ ಎಪ್ಪತ್ತೈದು. ಹಾಗಾಗಿ, ನಮಗೆ ಎಪ್ಪತ್ತೈದು ಪರ್ಸೆಂಟ್ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲ ವಿಧಾನವು ತುಂಬಾ ಸರಳವಾಗಿದೆ. ದಶಮಾಂಶವನ್ನು ಶೇಕಡಾವಾರಿಗೆ ಪರಿವರ್ತಿಸಲು, ಅದನ್ನು $100\\%$ ರಿಂದ ಗುಣಿಸಬೇಕು. ಇಲ್ಲಿ, ನಾವು $0.75$ ನ್ನು $100\\%$ ರಿಂದ ಗುಣಿಸುತ್ತೇವೆ. $0.75 \\times 100$ ಎಂದರೆ $75$. ಹಾಗಾಗಿ, ನಮಗೆ $75\\%$ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "RPP-COMP-1_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$0.75 \\times 100\\% = 75\\%$",
+      "justification": "ದಶಮಾಂಶವನ್ನು ಶೇಕಡಾವಾರಿಗೆ ಪರಿವರ್ತಿಸುವ ನಿಯಮದ ಪ್ರಕಾರ, ಅದನ್ನು $100\\%$ ರಿಂದ ಗುಣಿಸಬೇಕು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "RPP-COMP-1_concept_1_chunk_035"
+}

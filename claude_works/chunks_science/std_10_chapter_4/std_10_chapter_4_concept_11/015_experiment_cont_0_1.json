@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಗತ್ಯವಿರುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು ನಮಗೆ ಕೆಲವು ಸರಳ ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಎರಡು ಪ್ರನಾಳಗಳು ಬೇಕು. ನಂತರ, ಒಂದು ಪ್ರನಾಳಕ್ಕೆ ಹಾಕಲು ಆಸವಿತ ನೀರು, ಅಂದರೆ ಮೃದು ನೀರು ಬೇಕು. ಇನ್ನೊಂದು ಪ್ರನಾಳಕ್ಕಾಗಿ, ನಾವು ಕೊಳವೆ ಬಾವಿ ನೀರನ್ನು ಬಳಸುತ್ತೇವೆ, ಇದು ಗಡಸು ನೀರಾಗಿರುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಎರಡೂ ಪ್ರನಾಳಗಳಿಗೆ ಸೇರಿಸಲು ನಮಗೆ ಸ್ವಲ್ಪ ಸಾಬೂನಿನ ದ್ರಾವಣ ಬೇಕಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ನಾವು ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸಬಹುದು. ಇವುಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ ಸುಲಭವಾಗಿ ಲಭ್ಯವಿರುತ್ತವೆ.",
+  "script_display": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು ನಮಗೆ ಕೆಲವು ಸರಳ ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಎರಡು ಪ್ರನಾಳಗಳು ಬೇಕು. ನಂತರ, ಒಂದು ಪ್ರನಾಳಕ್ಕೆ ಹಾಕಲು ಆಸವಿತ ನೀರು (ಮೃದು ನೀರು) ಬೇಕು. ಇನ್ನೊಂದು ಪ್ರನಾಳಕ್ಕಾಗಿ, ನಾವು ಕೊಳವೆ ಬಾವಿ ನೀರನ್ನು (ಗಡಸು ನೀರು) ಬಳಸುತ್ತೇವೆ. ಅಂತಿಮವಾಗಿ, ಎರಡೂ ಪ್ರನಾಳಗಳಿಗೆ ಸೇರಿಸಲು ನಮಗೆ ಸ್ವಲ್ಪ ಸಾಬೂನಿನ ದ್ರಾವಣ ಬೇಕಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ನಾವು ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಎರಡು ಪ್ರನಾಳಗಳು",
+    "ಆಸವಿತ ನೀರು (ಮೃದು ನೀರು)",
+    "ಕೊಳವೆ ಬಾವಿ ನೀರು (ಗಡಸು ನೀರು)",
+    "ಸಾಬೂನಿನ ದ್ರಾವಣ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the experiment: two test tubes, a beaker of distilled water labeled 'ಮೃದು ನೀರು', a beaker of borewell water labeled 'ಗಡಸು ನೀರು', and a dropper bottle with soap solution labeled 'ಸಾಬೂನಿನ ದ್ರಾವಣ'.",
+    "labels": "ಪ್ರನಾಳ, ಆಸವಿತ ನೀರು, ಕೊಳವೆ ಬಾವಿ ನೀರು, ಸಾಬೂನಿನ ದ್ರಾವಣ",
+    "scientific_significance": "Illustrates the simple setup required to compare the effect of soap on hard and soft water.",
+    "placeholder_note": "Image to be generated showing the listed materials."
+  },
+  "sub_type": "activity_setup",
+  "chunk_id": "std_10_chapter_4_concept_11_chunk_015"
+}

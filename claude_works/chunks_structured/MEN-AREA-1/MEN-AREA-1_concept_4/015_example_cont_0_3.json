@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: (ii) QM ಗಾಗಿ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸೋಣ. ಬಲಭಾಗದಲ್ಲಿ, ಎಂಟರ ಅರ್ಧ ನಾಲ್ಕು. ಹಾಗಾಗಿ, ಸಮೀಕರಣವು ಹತ್ತು ಸಮ ನಾಲ್ಕು ಗುಣಿಸು QM ಎಂದಾಗುತ್ತದೆ. QM ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಹತ್ತನ್ನು ನಾಲ್ಕರಿಂದ ಭಾಗಿಸಬೇಕು. ಹತ್ತನ್ನು ನಾಲ್ಕರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ ಎರಡು ಪಾಯಿಂಟ್ ಐದು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಎತ್ತರ QM ನ ಉದ್ದ ಎರಡು ಪಾಯಿಂಟ್ ಐದು ಸೆಂಟಿಮೀಟರ್.",
+  "script_display": "ಈ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸೋಣ. ಬಲಭಾಗದಲ್ಲಿ, $1/2 \\times 8 = 4$. ಹಾಗಾಗಿ, ಸಮೀಕರಣವು $10 = 4 \\times QM$ ಎಂದಾಗುತ್ತದೆ. $QM$ ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು 10ನ್ನು 4ರಿಂದ ಭಾಗಿಸಬೇಕು. $10 / 4$ ನಮಗೆ 2.5 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಎತ್ತರ $QM$ ನ ಉದ್ದ 2.5 cm.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_3",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "MEN-AREA-1_example_5",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$10 = 4 \\times QM$",
+      "justification": "ಸಮೀಕರಣವನ್ನು ಸರಳೀಕರಿಸಲಾಗಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$QM = \\frac{10}{4}$",
+      "justification": "QM ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಪುನರ್ರಚಿಸಲಾಗಿದೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "$QM = 2.5$ cm",
+      "justification": "ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "MEN-AREA-1_concept_4_chunk_015"
+}

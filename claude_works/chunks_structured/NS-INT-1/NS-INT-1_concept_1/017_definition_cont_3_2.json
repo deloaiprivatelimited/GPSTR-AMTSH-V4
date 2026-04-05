@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸೊನ್ನೆಯ ನೈಜ-ಪ್ರಪಂಚದ ಉದಾಹರಣೆಗಳು",
+  "script": "ಸೊನ್ನೆಯು ಕೇವಲ ಗಣಿತದ ಪುಸ್ತಕದಲ್ಲಿರುವ ಸಂಖ್ಯೆಯಲ್ಲ. ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿಯೂ ಇದು ಮಹತ್ವದ ಪಾತ್ರ ವಹಿಸುತ್ತದೆ. ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಸಮುದ್ರ ಮಟ್ಟವನ್ನು ಸೊನ್ನೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ. ಪರ್ವತದ ಎತ್ತರವನ್ನು ಧನ ಸಂಖ್ಯೆಯಲ್ಲಿ ಮತ್ತು ಸಮುದ್ರದ ಆಳವನ್ನು ಋಣ ಸಂಖ್ಯೆಯಲ್ಲಿ ಅಳೆಯುತ್ತೇವೆ. ಎರಡನೆಯದಾಗಿ, ತಾಪಮಾನದಲ್ಲಿ ಸೊನ್ನೆ ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್, ನೀರು ಮಂಜುಗಡ್ಡೆಯಾಗುವ ಬಿಂದುವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಮೂರನೆಯದಾಗಿ, ನಮ್ಮ 'ಬೇಲಾಳ ಮೋಜಿನ ಕಟ್ಟಡ'ದ ಉದಾಹರಣೆಯಲ್ಲಿ, ನೆಲಮಹಡಿಯನ್ನು ಸೊನ್ನೆ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಇದು ಮೇಲಿನ ಮಹಡಿಗಳು ಮತ್ತು ಕೆಳಗಿನ ಮಹಡಿಗಳ ನಡುವಿನ ಆರಂಭಿಕ ಬಿಂದುವಾಗಿದೆ.",
+  "script_display": "ಸೊನ್ನೆಯು ಕೇವಲ ಗಣಿತದ ಪುಸ್ತಕದಲ್ಲಿರುವ ಸಂಖ್ಯೆಯಲ್ಲ. ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿಯೂ ಇದು ಮಹತ್ವದ ಪಾತ್ರ ವಹಿಸುತ್ತದೆ. ಕೆಲವು ಉದಾಹರಣೆಗಳು:<ul><li><b>ಸಮುದ್ರ ಮಟ್ಟ (Sea level):</b> ಇದನ್ನು $0$ ಮೀಟರ್ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ, ಇದು ಎತ್ತರ ಮತ್ತು ಆಳಕ್ಕೆ ಉಲ್ಲೇಖ ಬಿಂದುವಾಗಿದೆ.</li><li><b>ತಾಪಮಾನ:</b> $0°C$ ಯು ನೀರು ಘನೀಕರಿಸುವ ಬಿಂದು.</li><li><b>'ಬೇಲಾಳ ಮೋಜಿನ ಕಟ್ಟಡ':</b> ನೆಲಮಹಡಿಯನ್ನು ಮಹಡಿ $0$ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ, ಇದು ಮೇಲಿನ ಮತ್ತು ಕೆಳಗಿನ ಮಹಡಿಗಳಿಗೆ ಆರಂಭಿಕ ಬಿಂದುವಾಗಿದೆ.</li></ul>",
+  "display_bullets": [
+    "ಸಮುದ್ರ ಮಟ್ಟ (Sea level)",
+    "ತಾಪಮಾನದಲ್ಲಿ 0°C",
+    "'ಬೇಲಾಳ ಮೋಜಿನ ಕಟ್ಟಡ'ದಲ್ಲಿ ನೆಲಮಹಡಿ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The 'Belala Fun Building' diagram as described in the module context. The ground floor is labeled '0' (ಸ್ವಾಗತ ಸಭಾಂಗಣ). Floors above are +1, +2, etc. and floors below are -1, -2, etc. An arrow or highlight should point specifically to the '0' floor, labeling it as the reference point.",
+    "labels": "Belala Fun Building, Ground Floor (0), Upper Floors (+), Lower Floors (-), Reference Point",
+    "mathematical_significance": "Illustrates zero as a reference point (ground floor) in a relatable, real-world context, separating positive (upper floors) and negative (lower floors) values.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "NS-INT-1_concept_1_chunk_017"
+}

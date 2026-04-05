@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ. ಅಸಿಟಿಕ್ ಆಮ್ಲ ಮತ್ತು ಸೋಡಿಯಂ ಬೈಕಾರ್ಬೊನೇಟ್ ವರ್ತಿಸಿ, ಸೋಡಿಯಂ ಅಸಿಟೇಟ್, ನೀರು ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ. ಇಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುವ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲವೇ ನಮಗೆ ಬುರುಗಿನ ರೂಪದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ. ಅಸಿಟಿಕ್ ಆಮ್ಲ ಮತ್ತು ಸೋಡಿಯಂ ಬೈಕಾರ್ಬೊನೇಟ್ ವರ್ತಿಸಿ, ಸೋಡಿಯಂ ಅಸಿಟೇಟ್, ನೀರು ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ. ಇಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುವ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲವೇ ನಮಗೆ ಬುರುಗಿನ ರೂಪದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_with_description",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CH₃COOH(aq) + NaHCO₃(s) \\rightarrow CH₃COONa(aq) + H₂O(l) + CO₂(g)",
+    "placeholder_note": "Chemical equation for acetic acid and sodium bicarbonate reaction."
+  },
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_028"
+}

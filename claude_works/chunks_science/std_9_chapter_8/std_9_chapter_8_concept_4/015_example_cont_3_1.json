@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ಏಕಮಾನ ಪರಿವರ್ತನೆ",
+  "script": "ಲೆಕ್ಕವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನಾವು ಎಲ್ಲಾ ದತ್ತಾಂಶಗಳನ್ನು SI ಏಕಮಾನಗಳಿಗೆ ಪರಿವರ್ತಿಸಬೇಕು. ಮೊದಲಿಗೆ, ದ್ರವ್ಯರಾಶಿಯನ್ನು ಗ್ರಾಂನಿಂದ ಕಿಲೋಗ್ರಾಂಗೆ ಪರಿವರ್ತಿಸೋಣ. 20 ಗ್ರಾಂ ಅಂದರೆ 0.02 ಕಿಲೋಗ್ರಾಂ. ನಂತರ, ಆರಂಭಿಕ ವೇಗವನ್ನು ಸೆಂಟಿಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್‌ನಿಂದ ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್‌ಗೆ ಪರಿವರ್ತಿಸೋಣ. 20 ಸೆಂಟಿಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಅಂದರೆ 0.2 ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್. ಅಂತಿಮ ವೇಗ ಮತ್ತು ಕಾಲ ಈಗಾಗಲೇ SI ಏಕಮಾನಗಳಲ್ಲಿವೆ.",
+  "script_display": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ಎಲ್ಲಾ ದತ್ತಾಂಶಗಳನ್ನು SI ಏಕಮಾನಗಳಿಗೆ ಪರಿವರ್ತಿಸಬೇಕು.",
+  "display_bullets": [
+    "ದ್ರವ್ಯರಾಶಿ (m): 20 g = 20 / 1000 kg = 0.02 kg",
+    "ಆರಂಭಿಕ ವೇಗ (u): 20 cm/s = 20 / 100 m/s = 0.2 m/s",
+    "ಅಂತಿಮ ವೇಗ (v) = 0 m/s (ಯಾವುದೇ ಬದಲಾವಣೆ ಇಲ್ಲ)",
+    "ಕಾಲ (t) = 10 s (ಯಾವುದೇ ಬದಲಾವಣೆ ಇಲ್ಲ)"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_blue",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_8_example_8.5",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತಾಂಶಗಳನ್ನು SI ಏಕಮಾನಗಳಿಗೆ ಪರಿವರ್ತಿಸುವುದು.",
+      "justification": "ದ್ರವ್ಯರಾಶಿ ಮತ್ತು ವೇಗವನ್ನು kg ಮತ್ತು m/s ಗೆ ಪರಿವರ್ತಿಸಬೇಕು. m = 20 g = 0.02 kg. u = 20 cm/s = 0.2 m/s. v = 0 m/s. t = 10 s."
+    }
+  ],
+  "chunk_id": "std_9_chapter_8_concept_4_chunk_015"
+}

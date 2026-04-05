@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಆರ್ಗಾನ್ ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ",
+  "script": "ಐಸೋಬಾರ್‌ಗಳಿಗೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯೆಂದರೆ ಆರ್ಗಾನ್ ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ. ಆರ್ಗಾನ್‌ನ ಪರಮಾಣು ಸಂಖ್ಯೆ ಹದಿನೆಂಟು ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂನ ಪರಮಾಣು ಸಂಖ್ಯೆ ಇಪ್ಪತ್ತು. ಇವು ಬೇರೆ ಬೇರೆ ಧಾತುಗಳು. ಆದರೆ, ಇವೆರಡರ ರಾಶಿ ಸಂಖ್ಯೆ ನಲವತ್ತು ಆಗಿದೆ. ಇದು ಹೇಗೆ ಸಾಧ್ಯ? ಆರ್ಗಾನ್ ನಲವತ್ತರಲ್ಲಿ ಹದಿನೆಂಟು ಪ್ರೋಟಾನ್‌ಗಳು ಮತ್ತು ಇಪ್ಪತ್ತೆರಡು ನ್ಯೂಟ್ರಾನ್‌ಗಳಿವೆ. ಇವುಗಳ ಮೊತ್ತ ನಲವತ್ತು. ಅದೇ ರೀತಿ, ಕ್ಯಾಲ್ಸಿಯಂ ನಲವತ್ತರಲ್ಲಿ ಇಪ್ಪತ್ತು ಪ್ರೋಟಾನ್‌ಗಳು ಮತ್ತು ಇಪ್ಪತ್ತು ನ್ಯೂಟ್ರಾನ್‌ಗಳಿವೆ. ಇಲ್ಲಿಯೂ ಮೊತ್ತ ನಲವತ್ತು. ಹೀಗೆ, ಪರಮಾಣು ಸಂಖ್ಯೆಗಳು ಬೇರೆಯಾಗಿದ್ದರೂ, ರಾಶಿ ಸಂಖ್ಯೆ ಒಂದೇ ಆಗಿರುವುದರಿಂದ, ಆರ್ಗಾನ್ ನಲವತ್ತು ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ ನಲವತ್ತು ಪರಸ್ಪರ ಐಸೋಬಾರ್‌ಗಳಾಗಿವೆ.",
+  "script_display": "ಐಸೋಬಾರ್‌ಗಳಿಗೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯೆಂದರೆ ಆರ್ಗಾನ್ ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ.\n\n*   **ಆರ್ಗಾನ್ ($^{40}_{18}Ar$):**\n    *   ಪರಮಾಣು ಸಂಖ್ಯೆ (Z) = 18 (18 ಪ್ರೋಟಾನ್‌ಗಳು)\n    *   ರಾಶಿ ಸಂಖ್ಯೆ (A) = 40\n    *   ನ್ಯೂಟ್ರಾನ್‌ಗಳ ಸಂಖ್ಯೆ = 40 - 18 = 22\n\n*   **ಕ್ಯಾಲ್ಸಿಯಂ ($^{40}_{20}Ca$):**\n    *   ಪರಮಾಣು ಸಂಖ್ಯೆ (Z) = 20 (20 ಪ್ರೋಟಾನ್‌ಗಳು)\n    *   ರಾಶಿ ಸಂಖ್ಯೆ (A) = 40\n    *   ನ್ಯೂಟ್ರಾನ್‌ಗಳ ಸಂಖ್ಯೆ = 40 - 20 = 20\n\nಇವೆರಡರ ರಾಶಿ ಸಂಖ್ಯೆ (A) 40 ಆಗಿ ಒಂದೇ ಆಗಿರುವುದರಿಂದ, ಇವು ಐಸೋಬಾರ್‌ಗಳು.",
+  "display_bullets": [
+    "ಆರ್ಗಾನ್ ($^{40}_{18}Ar$): 18 ಪ್ರೋಟಾನ್ + 22 ನ್ಯೂಟ್ರಾನ್ = 40",
+    "ಕ್ಯಾಲ್ಸಿಯಂ ($^{40}_{20}Ca$): 20 ಪ್ರೋಟಾನ್ + 20 ನ್ಯೂಟ್ರಾನ್ = 40"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the nuclei of Argon-40 and Calcium-40 side-by-side. Argon-40 nucleus shows 18 protons and 22 neutrons. Calcium-40 nucleus shows 20 protons and 20 neutrons. Both are labeled with their names, symbols, and the total mass number 'A=40'.",
+    "labels": "ಆರ್ಗಾನ್-40, ಕ್ಯಾಲ್ಸಿಯಂ-40, ಪ್ರೋಟಾನ್, ನ್ಯೂಟ್ರಾನ್, ರಾಶಿ ಸಂಖ್ಯೆ A=40",
+    "scientific_significance": "Visually demonstrates the concept of isobars: different elements (different proton counts) having the same total mass number.",
+    "placeholder_note": "Image to be generated showing the nuclei of Ar-40 and Ca-40."
+  },
+  "chunk_id": "std_9_chapter_4_concept_8_chunk_013"
+}

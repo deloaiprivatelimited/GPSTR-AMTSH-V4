@@ -1,0 +1,36 @@
+{
+  "type": "formula_showcase",
+  "slide_title": "ವೇಗೋತ್ಕರ್ಷದ ಸೂತ್ರ",
+  "script": "ಈಗ ನಾವು ವೇಗೋತ್ಕರ್ಷವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸೂತ್ರವು ಹೀಗಿದೆ: a ಈಕ್ವಲ್ಸ್ v ಮೈನಸ್ u ಡಿವೈಡೆಡ್ ಬೈ t. ಇಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಅಕ್ಷರಕ್ಕೂ ಒಂದು ನಿರ್ದಿಷ್ಟ ಅರ್ಥವಿದೆ. ಮೊದಲನೆಯದಾಗಿ, 'a' ಅಂದರೆ ವೇಗೋತ್ಕರ್ಷ ಅಥವಾ acceleration. ಎರಡನೆಯದಾಗಿ, 'v' ಎಂಬುದು ವಸ್ತುವಿನ ಅಂತಿಮ ವೇಗ ಅಥವಾ final velocity. ಮೂರನೆಯದಾಗಿ, 'u' ಎಂಬುದು ವಸ್ತುವಿನ ಆರಂಭಿಕ ವೇಗ ಅಥವಾ initial velocity. ಮತ್ತು ಕೊನೆಯದಾಗಿ, 't' ಎಂದರೆ ಈ ವೇಗದ ಬದಲಾವಣೆಗೆ ತೆಗೆದುಕೊಂಡ ಕಾಲ ಅಥವಾ time. ಈ ಸೂತ್ರವನ್ನು ನಾವು ಒಂದು ವಸ್ತುವಿನ ವೇಗವು ಕಾಲದೊಂದಿಗೆ ಹೇಗೆ ಬದಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ನಾವು ವೇಗೋತ್ಕರ್ಷವನ್ನು (acceleration) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸೂತ್ರವು ಹೀಗಿದೆ: $a = \\frac{v - u}{t}$. ಇಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಅಕ್ಷರಕ್ಕೂ ಒಂದು ನಿರ್ದಿಷ್ಟ ಅರ್ಥವಿದೆ. ಮೊದಲನೆಯದಾಗಿ, 'a' ಅಂದರೆ ವೇಗೋತ್ಕರ್ಷ (acceleration). ಎರಡನೆಯದಾಗಿ, 'v' ಎಂಬುದು ವಸ್ತುವಿನ ಅಂತಿಮ ವೇಗ (final velocity). ಮೂರನೆಯದಾಗಿ, 'u' ಎಂಬುದು ವಸ್ತುವಿನ ಆರಂಭಿಕ ವೇಗ (initial velocity). ಮತ್ತು ಕೊನೆಯದಾಗಿ, 't' ಎಂದರೆ ಈ ವೇಗದ ಬದಲಾವಣೆಗೆ ತೆಗೆದುಕೊಂಡ ಕಾಲ (time). ಈ ಸೂತ್ರವನ್ನು ನಾವು ಒಂದು ವಸ್ತುವಿನ ವೇಗವು ಕಾಲದೊಂದಿಗೆ ಹೇಗೆ ಬದಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "a = ವೇಗೋತ್ಕರ್ಷ (Acceleration)",
+    "v = ಅಂತಿಮ ವೇಗ (Final Velocity)",
+    "u = ಆರಂಭಿಕ ವೇಗ (Initial Velocity)",
+    "t = ಕಾಲ (Time)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "a = \\frac{v - u}{t}",
+    "placeholder_note": "Formula for acceleration"
+  },
+  "chunk_id": "std_9_chapter_7_concept_3_chunk_012"
+}

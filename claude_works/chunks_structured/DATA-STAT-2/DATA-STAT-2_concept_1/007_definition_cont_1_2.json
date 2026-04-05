@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಹಿಸ್ಟೋಗ್ರಾಂ vs. ಸ್ತಂಭಲೇಖ",
+  "script": "ಹಿಸ್ಟೋಗ್ರಾಂ ಮತ್ತು ಸ್ತಂಭಲೇಖದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ತಿಳಿಯುವುದು ಬಹಳ ಮುಖ್ಯ. ಹಿಸ್ಟೋಗ್ರಾಂ ಅನ್ನು ನಿರಂತರ ದತ್ತಾಂಶಗಳಿಗಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ಎತ್ತರ, ತೂಕ ಅಥವಾ ಅಂಕಗಳು. ಇಲ್ಲಿ ಸ್ತಂಭಗಳ ನಡುವೆ ಯಾವುದೇ ಅಂತರವಿರುವುದಿಲ್ಲ. ಆದರೆ, ಸ್ತಂಭಲೇಖವನ್ನು ಪ್ರತ್ಯೇಕ ಅಥವಾ ವರ್ಗೀಕರಿಸಿದ ದತ್ತಾಂಶಗಳಿಗಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ವಿವಿಧ ತಿಂಗಳುಗಳಲ್ಲಿನ ಮಾರಾಟ ಅಥವಾ ಬೇರೆ ಬೇರೆ ಬಣ್ಣದ ಕಾರುಗಳ ಸಂಖ್ಯೆ. ಇಲ್ಲಿ ಸ್ತಂಭಗಳ ನಡುವೆ ಸ್ಪಷ್ಟವಾದ ಅಂತರವಿರುತ್ತದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಳ್ಳಿ.",
+  "script_display": "ಹಿಸ್ಟೋಗ್ರಾಂ ಮತ್ತು ಸ್ತಂಭಲೇಖದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ತಿಳಿಯುವುದು ಬಹಳ ಮುಖ್ಯ. ಹಿಸ್ಟೋಗ್ರಾಂ ಅನ್ನು ನಿರಂತರ ದತ್ತಾಂಶಗಳಿಗಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ಎತ್ತರ, ತೂಕ ಅಥವಾ ಅಂಕಗಳು. ಇಲ್ಲಿ ಸ್ತಂಭಗಳ ನಡುವೆ ಯಾವುದೇ ಅಂತರವಿರುವುದಿಲ್ಲ. ಆದರೆ, ಸ್ತಂಭಲೇಖವನ್ನು ಪ್ರತ್ಯೇಕ ಅಥವಾ ವರ್ಗೀಕರಿಸಿದ ದತ್ತಾಂಶಗಳಿಗಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ವಿವಿಧ ತಿಂಗಳುಗಳಲ್ಲಿನ ಮಾರಾಟ ಅಥವಾ ಬೇರೆ ಬೇರೆ ಬಣ್ಣದ ಕಾರುಗಳ ಸಂಖ್ಯೆ. ಇಲ್ಲಿ ಸ್ತಂಭಗಳ ನಡುವೆ ಸ್ಪಷ್ಟವಾದ ಅಂತರವಿರುತ್ತದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಳ್ಳಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_comparison_visual",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. Left side: A histogram labeled 'ಹಿಸ್ಟೋಗ್ರಾಂ'. It shows continuous data on the x-axis (e.g., 150-155, 155-160 cm) and has no gaps between bars. Below it, bullet points: 'ನಿರಂತರ ದತ್ತಾಂಶ (Continuous Data)' and 'ಸ್ತಂಭಗಳ ನಡುವೆ ಅಂತರವಿಲ್ಲ (No gaps)'. Right side: A bar graph labeled 'ಸ್ತಂಭಲೇಖ'. It shows discrete categories on the x-axis (e.g., 'ಕೆಂಪು', 'ನೀಲಿ', 'ಹಸಿರು') and has clear gaps between bars. Below it, bullet points: 'ಪ್ರತ್ಯೇಕ ದತ್ತಾಂಶ (Discrete Data)' and 'ಸ್ತಂಭಗಳ ನಡುವೆ ಅಂತರವಿದೆ (Gaps exist)'.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "DATA-STAT-2_concept_1_chunk_007"
+}

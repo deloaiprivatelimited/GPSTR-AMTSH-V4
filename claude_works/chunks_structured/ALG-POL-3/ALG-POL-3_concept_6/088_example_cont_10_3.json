@@ -1,0 +1,33 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ, ಆರು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ಹದಿನೇಳು ಎಕ್ಸ್ ಪ್ಲಸ್ ಐದು ಸಮ ಮೂರು ಎಕ್ಸ್ ಪ್ಲಸ್ ಒಂದು ಗುಣಿಸು ಎರಡು ಎಕ್ಸ್ ಪ್ಲಸ್ ಐದು. ಮಧ್ಯಪದವನ್ನು ಸರಿಯಾದ ಸಂಖ್ಯೆಗಳಾಗಿ ವಿಭಜಿಸುವುದು ಈ ವಿಧಾನದ ಪ್ರಮುಖ ಹಂತವಾಗಿದೆ. ಗುಣಲಬ್ಧ ಎ ಸಿ ಮತ್ತು ಮೊತ್ತ ಬಿ ಗೆ ಸರಿಹೊಂದುವ ಸಂಖ್ಯೆಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಹೀಗಾಗಿ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ, $6x^2 + 17x + 5 = (3x+1)(2x+5)$. ಮಧ್ಯಪದವನ್ನು ಸರಿಯಾದ ಸಂಖ್ಯೆಗಳಾಗಿ ವಿಭಜಿಸುವುದು ಈ ವಿಧಾನದ ಪ್ರಮುಖ ಹಂತವಾಗಿದೆ. ಗುಣಲಬ್ಧ $ac$ ಮತ್ತು ಮೊತ್ತ $b$ ಗೆ ಸರಿಹೊಂದುವ ಸಂಖ್ಯೆಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "$6x^2 + 17x + 5 = (3x+1)(2x+5)$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-POL-3_example_9",
+  "steps": [],
+  "final_answer": "(3x+1)(2x+5)",
+  "final_answer_display": "$6x^2 + 17x + 5 = (3x+1)(2x+5)$",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_088"
+}

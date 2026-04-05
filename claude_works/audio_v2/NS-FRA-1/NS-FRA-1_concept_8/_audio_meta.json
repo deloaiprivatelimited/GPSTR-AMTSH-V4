@@ -1,0 +1,114 @@
+{
+  "module_id": "NS-FRA-1_concept_8",
+  "merge_code": "NS-FRA-1",
+  "voice": "Aoede",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 17:39:45",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "46bf4ff4fa1c9ebcd46f6cbebc3dc021",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 25.411,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 32,
+      "generated_at": "2026-03-30 17:38:28"
+    },
+    "005_example_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "bc20eacf52ecb3fd24c41b13c07dce6f",
+      "wav_file": "005_example_0.wav",
+      "duration": 39.411,
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+      "type": "worked_example",
+      "script_words": 43,
+      "generated_at": "2026-03-30 17:38:34"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "4a6e8a7f9bbd85dd52d703ee283ee450",
+      "wav_file": "001_intro_0.wav",
+      "duration": 54.891,
+      "slide_title": "ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳ ಭಾಗಾಕಾರ",
+      "type": "intro",
+      "script_words": 72,
+      "generated_at": "2026-03-30 17:38:48"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "2ea968748344f314c2ce0578af644d61",
+      "wav_file": "003_property_0.wav",
+      "duration": 68.251,
+      "slide_title": "10, 100, 1000 ದಿಂದ ಭಾಗಾಕಾರ",
+      "type": "concept_explanation",
+      "script_words": 95,
+      "generated_at": "2026-03-30 17:38:55"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "33947d9d98883f876d6f57d3c28a904d",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 85.451,
+      "slide_title": "ಭಾಗಾಕಾರದ ಇತರ ನಿಯಮಗಳು",
+      "type": "concept_explanation",
+      "script_words": 110,
+      "generated_at": "2026-03-30 17:39:05"
+    },
+    "008_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "d0cc7d16bd0141ebe975ddef0d9b3a7c",
+      "wav_file": "008_example_cont_0_3.wav",
+      "duration": 27.251,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 27,
+      "generated_at": "2026-03-30 17:39:24"
+    },
+    "006_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "6a563df482581aeacc91fb54dd5148a2",
+      "wav_file": "006_example_cont_0_1.wav",
+      "duration": 56.731,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "script_words": 60,
+      "generated_at": "2026-03-30 17:39:39"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "7564665aea6a68bba6d1aa7c45846496",
+      "wav_file": "009_recap_0.wav",
+      "duration": 56.851,
+      "slide_title": "ಸಾರಾಂಶ: ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳ ಭಾಗಾಕಾರ",
+      "type": "recap",
+      "script_words": 72,
+      "generated_at": "2026-03-30 17:39:41"
+    },
+    "007_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "cc48539dc1e1c5ee7b5bf10c25e24e09",
+      "wav_file": "007_example_cont_0_2.wav",
+      "duration": 56.731,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+      "type": "worked_example",
+      "script_words": 68,
+      "generated_at": "2026-03-30 17:39:45"
+    }
+  }
+}

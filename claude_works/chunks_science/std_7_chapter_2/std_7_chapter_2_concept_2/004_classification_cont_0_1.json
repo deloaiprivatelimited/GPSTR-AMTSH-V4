@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನಗಳು: ಹೀರುವುದು ಮತ್ತು ಜಗಿಯುವುದು",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ಹೀರುವುದು ಅಥವಾ ಸಕ್ಕಿಂಗ್ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಇದು ದ್ರವರೂಪದ ಆಹಾರವನ್ನು ಸೇವಿಸಲು ಬಳಸುವ ವಿಧಾನವಾಗಿದೆ. ಉದಾಹರಣೆಗೆ, ಜೇನುನೊಣಗಳು ಹೂವಿನ ಮಕರಂದವನ್ನು ಹೀರುತ್ತವೆ, ಇದು ಅವುಗಳ ಪ್ರಮುಖ ಆಹಾರ. ಹಾಗೆಯೇ ಸೊಳ್ಳೆಗಳು ಪ್ರಾಣಿಗಳ ರಕ್ತವನ್ನು ಹೀರುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಜಗಿಯುವುದು ಅಥವಾ ಚ್ಯೂಯಿಂಗ್. ಇದು ನಮಗೆಲ್ಲರಿಗೂ ಪರಿಚಿತವಿರುವ ವಿಧಾನ. ಮನುಷ್ಯರು ಮತ್ತು ಹಸುಗಳಂತಹ ಸಸ್ತನಿಗಳು ಹಲ್ಲುಗಳನ್ನು ಬಳಸಿ ಘನ ಆಹಾರವನ್ನು ಸಣ್ಣ, ಜೀರ್ಣಿಸಿಕೊಳ್ಳಲು ಸುಲಭವಾದ ತುಂಡುಗಳಾಗಿ ಮಾಡುತ್ತವೆ. ಈ ಕ್ರಿಯೆಯು ಜೀರ್ಣಕ್ರಿಯೆಯ ಮೊದಲ ಹಂತವಾಗಿದೆ.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ಹೀರುವುದು (Sucking) ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಇದು ದ್ರವರೂಪದ ಆಹಾರವನ್ನು ಸೇವಿಸಲು ಬಳಸುವ ವಿಧಾನವಾಗಿದೆ. ಉದಾಹರಣೆಗೆ, ಜೇನುನೊಣಗಳು ಹೂವಿನ ಮಕರಂದವನ್ನು ಹೀರುತ್ತವೆ, ಇದು ಅವುಗಳ ಪ್ರಮುಖ ಆಹಾರ. ಹಾಗೆಯೇ ಸೊಳ್ಳೆಗಳು ಪ್ರಾಣಿಗಳ ರಕ್ತವನ್ನು ಹೀರುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಜಗಿಯುವುದು (Chewing). ಇದು ನಮಗೆಲ್ಲರಿಗೂ ಪರಿಚಿತವಿರುವ ವಿಧಾನ. ಮನುಷ್ಯರು ಮತ್ತು ಹಸುಗಳಂತಹ ಸಸ್ತನಿಗಳು ಹಲ್ಲುಗಳನ್ನು ಬಳಸಿ ಘನ ಆಹಾರವನ್ನು ಸಣ್ಣ, ಜೀರ್ಣಿಸಿಕೊಳ್ಳಲು ಸುಲಭವಾದ ತುಂಡುಗಳಾಗಿ ಮಾಡುತ್ತವೆ. ಈ ಕ್ರಿಯೆಯು ಜೀರ್ಣಕ್ರಿಯೆಯ ಮೊದಲ ಹಂತವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಹೀರುವುದು (Sucking): ದ್ರವರೂಪದ ಆಹಾರವನ್ನು ಹೀರಿಕೊಳ್ಳುವ ವಿಧಾನ. ಉದಾಹರಣೆಗೆ, ಜೇನುನೊಣ, ಸೊಳ್ಳೆ.",
+    "ಜಗಿಯುವುದು (Chewing): ಹಲ್ಲುಗಳನ್ನು ಬಳಸಿ ಆಹಾರವನ್ನು ಸಣ್ಣ ತುಂಡುಗಳಾಗಿ ಮಾಡುವ ವಿಧಾನ. ಉದಾಹರಣೆಗೆ, ಮನುಷ್ಯ, ಹಸು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_b",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split image. Left side: A close-up of a honeybee sucking nectar from a flower. Right side: A cow in a field, chewing grass.",
+    "labels": "ಹೀರುವುದು (Sucking), ಜಗಿಯುವುದು (Chewing)",
+    "scientific_significance": "Illustrates two common but distinct modes of ingestion adapted for different food types (liquid vs. solid). Sucking involves specialized mouthparts for liquids, while chewing requires teeth for mechanical breakdown of solids.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "classification",
+  "chunk_id": "std_7_chapter_2_concept_2_chunk_004"
+}

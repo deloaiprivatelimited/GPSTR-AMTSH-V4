@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯೆ: ನಮೂದಿತ ಬೆಲೆ (MP)",
+  "script": "ಮೊದಲಿಗೆ, ನಮೂದಿತ ಬೆಲೆಯ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. ವಸ್ತುವಿನ ಮೇಲೆ ನಮೂದಿಸಲಾದ ಅಥವಾ ಅಂಟಿಸಲಾದ ಬೆಲೆಯನ್ನು 'ನಮೂದಿತ ಬೆಲೆ' ಅಂದರೆ Marked Price ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದನ್ನು 'ಪಟ್ಟಿ ಬೆಲೆ' ಅಥವಾ List Price ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ ಸುಲಭವಾಗಲು, ನಾವು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಇದನ್ನು MP ಎಂದು ಸೂಚಿಸುತ್ತೇವೆ. ನೆನಪಿಡಿ, MP ಎಂದರೆ ವಸ್ತುವಿನ ಮೇಲೆ ಮುದ್ರಿತವಾಗಿರುವ ಬೆಲೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಮೂದಿತ ಬೆಲೆಯ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. ವಸ್ತುವಿನ ಮೇಲೆ ನಮೂದಿಸಲಾದ ಅಥವಾ ಅಂಟಿಸಲಾದ ಬೆಲೆಯನ್ನು 'ನಮೂದಿತ ಬೆಲೆ' (Marked Price) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದನ್ನು 'ಪಟ್ಟಿ ಬೆಲೆ' (List Price) ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ ಸುಲಭವಾಗಲು, ನಾವು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಇದನ್ನು MP ಎಂದು ಸೂಚಿಸುತ್ತೇವೆ. ನೆನಪಿಡಿ, MP ಎಂದರೆ ವಸ್ತುವಿನ ಮೇಲೆ ಮುದ್ರಿತವಾಗಿರುವ ಬೆಲೆ.",
+  "display_bullets": [
+    "ವಸ್ತುವಿನ ಮೇಲೆ ನಮೂದಿಸಲಾದ ಅಥವಾ ಅಂಟಿಸಲಾದ ಬೆಲೆಯನ್ನು 'ನಮೂದಿತ ಬೆಲೆ' (Marked Price) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+    "ಇದನ್ನು 'ಪಟ್ಟಿ ಬೆಲೆ' (List Price) ಎಂದೂ ಕರೆಯುತ್ತಾರೆ.",
+    "ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಇದನ್ನು MP ಎಂದು ಸೂಚಿಸಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "template_2",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ನಮೂದಿತ ಬೆಲೆ (Marked Price - MP)}",
+    "placeholder_note": "A styled box that highlights the term being defined."
+  },
+  "chunk_id": "RPP-COMP-1_concept_4_chunk_004"
+}

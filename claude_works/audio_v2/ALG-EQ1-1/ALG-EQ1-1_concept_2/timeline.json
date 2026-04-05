@@ -1,0 +1,155 @@
+{
+  "module_id": "ALG-EQ1-1_concept_2",
+  "voice": "Leda",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 13,
+  "total_duration": 542.063,
+  "total_duration_formatted": "9:02",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಹೇಳಿಕೆಗಳಿಂದ ಸಮೀಕರಣ ರಚನೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 50.051,
+      "duration": 50.051,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 50.651,
+      "end": 77.662,
+      "duration": 27.011,
+      "script_words": 39
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_003",
+      "chunk_file": "003_example_0.json",
+      "wav_file": "003_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ 1: ಹೇಳಿಕೆಯಿಂದ ಸಮೀಕರಣ",
+      "type": "worked_example",
+      "start": 78.262,
+      "end": 119.953,
+      "duration": 41.691,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_004",
+      "chunk_file": "004_example_cont_0_1.json",
+      "wav_file": "004_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i)",
+      "type": "worked_example",
+      "start": 120.553,
+      "end": 156.524,
+      "duration": 35.971,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_005",
+      "chunk_file": "005_example_cont_0_2.json",
+      "wav_file": "005_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (ii)",
+      "type": "worked_example",
+      "start": 157.124,
+      "end": 200.735,
+      "duration": 43.611,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_006",
+      "chunk_file": "006_example_cont_0_3.json",
+      "wav_file": "006_example_cont_0_3.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (iii)",
+      "type": "worked_example",
+      "start": 201.335,
+      "end": 234.426,
+      "duration": 33.091,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_007",
+      "chunk_file": "007_example_cont_0_4.json",
+      "wav_file": "007_example_cont_0_4.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (iv)",
+      "type": "worked_example",
+      "start": 235.026,
+      "end": 277.877,
+      "duration": 42.851,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_008",
+      "chunk_file": "008_example_cont_0_5.json",
+      "wav_file": "008_example_cont_0_5.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರಗಳು",
+      "type": "worked_example",
+      "start": 278.477,
+      "end": 318.408,
+      "duration": 39.931,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_009",
+      "chunk_file": "009_example_1.json",
+      "wav_file": "009_example_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಸಮೀಕರಣದಿಂದ ಹೇಳಿಕೆ",
+      "type": "worked_example",
+      "start": 319.008,
+      "end": 356.179,
+      "duration": 37.171,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_010",
+      "chunk_file": "010_example_cont_1_1.json",
+      "wav_file": "010_example_cont_1_1.wav",
+      "slide_title": "ಹಂತ ಹಂತದ ಪರಿಹಾರ: ಭಾಗ 1",
+      "type": "worked_example",
+      "start": 356.779,
+      "end": 393.55,
+      "duration": 36.771,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_011",
+      "chunk_file": "011_example_cont_1_2.json",
+      "wav_file": "011_example_cont_1_2.wav",
+      "slide_title": "ಹಂತ ಹಂತದ ಪರಿಹಾರ: ಭಾಗ 2",
+      "type": "worked_example",
+      "start": 394.15,
+      "end": 436.681,
+      "duration": 42.531,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_012",
+      "chunk_file": "012_example_cont_1_3.json",
+      "wav_file": "012_example_cont_1_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "start": 437.281,
+      "end": 495.612,
+      "duration": 58.331,
+      "script_words": 78
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_2_chunk_013",
+      "chunk_file": "013_recap_0.json",
+      "wav_file": "013_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಹೇಳಿಕೆಗಳಿಂದ ಸಮೀಕರಣ ರಚನೆ",
+      "type": "recap",
+      "start": 496.212,
+      "end": 541.463,
+      "duration": 45.251,
+      "script_words": 55
+    }
+  ]
+}

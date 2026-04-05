@@ -1,0 +1,136 @@
+{
+  "module_id": "std_6_chapter_2_concept_4",
+  "chapter_code": "std_6_chapter_2",
+  "voice": "Sadaltager",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:58:25",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "14c52825a2329850e86787ace146e299",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 25.451,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 42,
+      "generated_at": "2026-04-02 12:56:09"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "4c987b39c12e0c77820d7b4230201278",
+      "wav_file": "001_intro_0.wav",
+      "duration": 56.291,
+      "slide_title": "ಸಸ್ಯಗಳ ವರ್ಗೀಕರಣ: ಬೀಜದಳಗಳ ಆಧಾರದ ಮೇಲೆ",
+      "type": "intro",
+      "script_words": 87,
+      "generated_at": "2026-04-02 12:56:31"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "deec0cfb7b3c1516e76bc0653ceb1363",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 32.571,
+      "slide_title": "ನೈಜ ಉದಾಹರಣೆ: ದ್ವಿದಳ ಬೀಜ",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 12:56:37"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "51dea82f1d61991a3e39670f20cef20b",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 36.131,
+      "slide_title": "ಹೋಲಿಕೆ: ದ್ವಿದಳ vs. ಏಕದಳ ಬೀಜಗಳು",
+      "type": "definition",
+      "script_words": 52,
+      "generated_at": "2026-04-02 12:56:40"
+    },
+    "006_classification_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "aa826935117ff83cc92ac0c4bdcb7eab",
+      "wav_file": "006_classification_0.wav",
+      "duration": 37.811,
+      "slide_title": "ಸಸ್ಯಗಳ ವರ್ಗೀಕರಣ: ಬೀಜದಳಗಳು",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 12:56:43"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "0e49340360f5708c7133f155fae4e09c",
+      "wav_file": "003_definition_0.wav",
+      "duration": 40.371,
+      "slide_title": "ಬೀಜದಳ (Cotyledon) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 12:57:18"
+    },
+    "010_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "c668c438a07cca9d8dbfa0ea70d62b09",
+      "wav_file": "010_classification_cont_0_4.wav",
+      "duration": 40.931,
+      "slide_title": "ಎಲೆಯ ನಾಳವಿನ್ಯಾಸದಲ್ಲಿನ ವ್ಯತ್ಯಾಸಗಳು",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 12:57:23"
+    },
+    "009_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "e7c90a7a1127e58e609162dc07096551",
+      "wav_file": "009_classification_cont_0_3.wav",
+      "duration": 35.971,
+      "slide_title": "ಬೇರಿನ ವ್ಯವಸ್ಥೆಯಲ್ಲಿನ ವ್ಯತ್ಯಾಸಗಳು",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 12:57:40"
+    },
+    "008_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "d59246831ff578badc7bab815b3ab438",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "duration": 37.211,
+      "slide_title": "ಏಕದಳ ಸಸ್ಯಗಳು (Monocot Plants)",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 12:57:40"
+    },
+    "007_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "de4e55bde4a834449846e59628ec4899",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "duration": 41.251,
+      "slide_title": "ದ್ವಿದಳ ಸಸ್ಯಗಳು (Dicot Plants)",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 12:57:45"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "cbfddaa1c23d553837baca88bd5169a0",
+      "wav_file": "011_recap_0.wav",
+      "duration": 48.051,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 60,
+      "generated_at": "2026-04-02 12:58:25"
+    }
+  }
+}

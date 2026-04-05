@@ -1,0 +1,30 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿವರ್ತಕಗಳು (Reactants)",
+  "script": "ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಪ್ರತಿವರ್ತಕಗಳಿವೆ. ಮೊದಲನೆಯದು ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್, ಇದು ಒಂದು ಘನ ಲೋಹದ ಆಕ್ಸೈಡ್. ಎರಡನೆಯದು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ, ಇದು ಜಲೀಯ ದ್ರಾವಣವಾಗಿದೆ.",
+  "script_display": "ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಪ್ರತಿವರ್ತಕಗಳಿವೆ.",
+  "display_bullets": [
+    "ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ($Al_2O_3$): ಒಂದು ಘನ, ಉಭಯವರ್ತಿ ಆಕ್ಸೈಡ್.",
+    "ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ ($HCl$): ಒಂದು ಪ್ರಬಲ ಆಮ್ಲ (ಜಲೀಯ ದ್ರಾವಣ)."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_031"
+}

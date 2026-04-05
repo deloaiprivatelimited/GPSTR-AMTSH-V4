@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಚಿಕ್ಕ ಸಂಖ್ಯೆ",
+  "script": "ಈಗ ಒಂದಕ್ಕಿಂತ ಚಿಕ್ಕ ಸಂಖ್ಯೆಯ ಉದಾಹರಣೆ ನೋಡೋಣ, ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಸೊನ್ನೆ ಸೊನ್ನೆ ಸೊನ್ನೆ ಆರು ಏಳು. ಇಲ್ಲೂ ಕೂಡ, ನಾವು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಸರಿಸಿ k ಯ ಮೌಲ್ಯವನ್ನು ಒಂದು ಮತ್ತು ಹತ್ತರ ನಡುವೆ ತರಬೇಕು. ಇದಕ್ಕಾಗಿ, ನಾವು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಬಲಕ್ಕೆ ಸರಿಸಬೇಕು, ಮೊದಲ ಶೂನ್ಯವಲ್ಲದ ಅಂಕಿಯಾದ ಆರರ ನಂತರ ಬರುವ ಹಾಗೆ. ಆಗ ನಮಗೆ ಆರು ಪಾಯಿಂಟ್ ಏಳು ಸಿಗುತ್ತದೆ. ನಾವು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಎಷ್ಟು ಸ್ಥಾನ ಬಲಕ್ಕೆ ಸರಿಸಿದ್ದೇವೆ? ಎಣಿಸಿ ನೋಡೋಣ, ಒಟ್ಟು ಐದು ಸ್ಥಾನಗಳನ್ನು ಬಲಕ್ಕೆ ಸರಿಸಿದ್ದೇವೆ. ದಶಮಾಂಶವನ್ನು ಬಲಕ್ಕೆ ಸರಿಸಿದಾಗ, ಹತ್ತರ ಘಾತಾಂಕವು ಋಣಾತ್ಮಕವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಆದರ್ಶ ರೂಪವು ಆರು ಪಾಯಿಂಟ್ ಏಳು times ten to the power ಮೈನಸ್ ಐದು ಆಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಒಂದಕ್ಕಿಂತ ಚಿಕ್ಕ ಸಂಖ್ಯೆಯ ಉದಾಹರಣೆ ನೋಡೋಣ, 0.000067. ಇಲ್ಲೂ ಕೂಡ, ನಾವು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಸರಿಸಿ $k$ ಯ ಮೌಲ್ಯವನ್ನು 1 ಮತ್ತು 10ರ ನಡುವೆ ತರಬೇಕು. ಇದಕ್ಕಾಗಿ, ನಾವು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಬಲಕ್ಕೆ ಸರಿಸಬೇಕು, ಮೊದಲ ಶೂನ್ಯವಲ್ಲದ ಅಂಕಿಯಾದ 6ರ ನಂತರ ಬರುವ ಹಾಗೆ. ಆಗ ನಮಗೆ 6.7 ಸಿಗುತ್ತದೆ. ನಾವು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಎಷ್ಟು ಸ್ಥಾನ ಬಲಕ್ಕೆ ಸರಿಸಿದ್ದೇವೆ? ಎಣಿಸಿ ನೋಡೋಣ, ಒಟ್ಟು 5 ಸ್ಥಾನಗಳನ್ನು ಬಲಕ್ಕೆ ಸರಿಸಿದ್ದೇವೆ. ದಶಮಾಂಶವನ್ನು ಬಲಕ್ಕೆ ಸರಿಸಿದಾಗ, 10ರ ಘಾತಾಂಕವು ಋಣಾತ್ಮಕವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಆದರ್ಶ ರೂಪವು $6.7 \\times 10^{-5}$ ಆಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಂಖ್ಯೆ: 0.000067",
+    "ದಶಮಾಂಶವನ್ನು 5 ಸ್ಥಾನ ಬಲಕ್ಕೆ ಸರಿಸಿ: $6.7$",
+    "ಆದ್ದರಿಂದ, ಆದರ್ಶ ರೂಪ: $6.7 \\times 10^{-5}$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The number 0.000067 is shown. Curved arrows below the number indicate the decimal point moving 5 places to the right, from its original position to a position between 6 and 7. The text '5 ಸ್ಥಾನಗಳು ಬಲಕ್ಕೆ' (5 places right) is shown near the arrows. The final form 6.7 x 10^-5 is highlighted.",
+    "labels": "Original number, decimal point movement, standard form, negative exponent",
+    "mathematical_significance": "Illustrates converting a small number (less than 1) to standard form by moving the decimal point to the right, resulting in a negative exponent.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "NS-EXP-2_concept_3_chunk_012"
+}

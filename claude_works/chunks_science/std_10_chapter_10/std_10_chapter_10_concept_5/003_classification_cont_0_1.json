@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಕ್ಷತ್ರಗಳ ಮಿನುಗುವಿಕೆ",
+  "script": "ಮೊದಲಿಗೆ, ನಕ್ಷತ್ರಗಳು ಏಕೆ ಮಿನುಗುತ್ತವೆ ಎಂದು ನೋಡೋಣ. ನಕ್ಷತ್ರಗಳು ನಮ್ಮಿಂದ ಬಹಳ ದೂರದಲ್ಲಿವೆ, ಆದ್ದರಿಂದ ಅವು ಬೆಳಕಿನ ಬಿಂದು ಮೂಲಗಳಂತೆ ಕಾಣಿಸುತ್ತವೆ. ಈ ನಕ್ಷತ್ರಗಳಿಂದ ಬರುವ ಬೆಳಕು ಭೂಮಿಯ ವಾಯುಮಂಡಲವನ್ನು ಪ್ರವೇಶಿಸಿದಾಗ, ಅದು ನಿರಂತರವಾಗಿ ವಕ್ರೀಭವನಕ್ಕೆ ಒಳಗಾಗುತ್ತದೆ. ನಮ್ಮ ವಾಯುಮಂಡಲವು ಸ್ಥಿರವಾಗಿಲ್ಲ, ಅದರಲ್ಲಿ ಗಾಳಿಯ ಪದರಗಳು ಚಲಿಸುತ್ತಿರುತ್ತವೆ ಮತ್ತು ಅವುಗಳ ಸಾಂದ್ರತೆ ಹಾಗೂ ತಾಪಮಾನ ಬದಲಾಗುತ್ತಿರುತ್ತದೆ. ಇದರಿಂದಾಗಿ, ಬೆಳಕಿನ ಕಿರಣವು ನಮ್ಮ ಕಣ್ಣನ್ನು ತಲುಪುವ ಮಾರ್ಗವು ಸ್ವಲ್ಪಮಟ್ಟಿಗೆ ಬದಲಾಗುತ್ತಲೇ ಇರುತ್ತದೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ, ನಕ್ಷತ್ರದ ತೋರಿಕೆಯ ಸ್ಥಾನವು ಬದಲಾದಂತೆ ಮತ್ತು ನಮ್ಮ ಕಣ್ಣನ್ನು ಪ್ರವೇಶಿಸುವ ಬೆಳಕಿನ ಪ್ರಮಾಣವು ಏರಿಳಿತವಾದಂತೆ ಭಾಸವಾಗುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ನಕ್ಷತ್ರಗಳ ಮಿನುಗುವಿಕೆ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ನಕ್ಷತ್ರಗಳು ಬೆಳಕಿನ ಬಿಂದು ಮೂಲಗಳಂತೆ ವರ್ತಿಸುತ್ತವೆ. ಅವುಗಳಿಂದ ಬರುವ ಬೆಳಕು ಭೂಮಿಯ ಚಲನಶೀಲ ವಾಯುಮಂಡಲದ ಪದರಗಳ ಮೂಲಕ ಹಾದು ಬರುವಾಗ ನಿರಂತರವಾಗಿ ವಕ್ರೀಭವನಗೊಳ್ಳುತ್ತದೆ. ಇದರಿಂದಾಗಿ, ಬೆಳಕಿನ ಪಥವು ಬದಲಾಗುತ್ತಾ, ನಮ್ಮ ಕಣ್ಣನ್ನು ತಲುಪುವ ಬೆಳಕಿನ ಪ್ರಮಾಣದಲ್ಲಿ ಏರಿಳಿತ ಉಂಟಾಗುತ್ತದೆ. ಈ ಕಾರಣದಿಂದ ನಕ್ಷತ್ರಗಳು ಮಿನುಗಿದಂತೆ ಕಾಣಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ನಕ್ಷತ್ರಗಳು ದೂರದಲ್ಲಿರುವ ಬಿಂದು ರೂಪದ ಬೆಳಕಿನ ಮೂಲಗಳು.",
+    "ವಾಯುಮಂಡಲದ ಚಲನಶೀಲ ಪದರಗಳು ಬೆಳಕನ್ನು ನಿರಂತರವಾಗಿ ವಕ್ರೀಭವಿಸುತ್ತವೆ.",
+    "ಕಣ್ಣನ್ನು ತಲುಪುವ ಬೆಳಕಿನ ಪ್ರಮಾಣ ಬದಲಾಗುವುದರಿಂದ ಮಿನುಗುವಿಕೆ ಉಂಟಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing light from a distant star passing through Earth's atmosphere. The path of light is shown as wavy, and the apparent position of the star is shown to be different from its actual position. Based on textbook figure 10.9.",
+    "labels": "Actual position of star, Apparent position of star, Increasing refractive index, Path of light",
+    "scientific_significance": "Illustrates how atmospheric refraction causes the apparent position of celestial objects to differ from their real position, leading to the twinkling effect.",
+    "placeholder_note": "Image to be generated based on Physics textbook figure 10.9"
+  },
+  "sub_type": "classification",
+  "chunk_id": "std_10_chapter_10_concept_5_chunk_003"
+}

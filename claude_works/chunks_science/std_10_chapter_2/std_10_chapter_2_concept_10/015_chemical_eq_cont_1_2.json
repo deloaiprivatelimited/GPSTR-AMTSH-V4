@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ನಾವು ಜಿಪ್ಸಂ ಹರಳುಗಳನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದನ್ನು 373 ಕೆಲ್ವಿನ್ ತಾಪಮಾನದಲ್ಲಿ ಎಚ್ಚರಿಕೆಯಿಂದ ಕಾಸಿದಾಗ, ಅದರಲ್ಲಿದ್ದ ಸ್ಪಟಿಕೀಕರಣದ ನೀರು ಭಾಗಶಃ ಆವಿಯಾಗುತ್ತದೆ. ಪ್ರತಿ ಎರಡು ಕ್ಯಾಲ್ಸಿಯಂ ಸಲ್ಫೇಟ್ ಘಟಕಗಳಿಂದ ಮೂರು ನೀರಿನ ಅಣುಗಳು ಹೊರಹೋಗುತ್ತವೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ, ಜಿಪ್ಸಂ ಗಟ್ಟಿಯಾದ ಪದಾರ್ಥದಿಂದ ಬಿಳಿ ಪುಡಿಯಾಗಿ ಬದಲಾಗುತ್ತದೆ. ಈ ಪುಡಿಯೇ ಪ್ಲಾಸ್ಟರ್ ಆಫ್ ಪ್ಯಾರಿಸ್.",
+  "script_display": "ನಾವು ಜಿಪ್ಸಂ (Gypsum) ಹರಳುಗಳನ್ನು 373 K ತಾಪಮಾನದಲ್ಲಿ ಎಚ್ಚರಿಕೆಯಿಂದ ಕಾಸಿದಾಗ, ಅದರಲ್ಲಿದ್ದ ಸ್ಪಟಿಕೀಕರಣದ ನೀರು (water of crystallisation) ಭಾಗಶಃ ಆವಿಯಾಗುತ್ತದೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ, ಜಿಪ್ಸಂ ಗಟ್ಟಿಯಾದ ಪದಾರ್ಥದಿಂದ ಬಿಳಿ ಪುಡಿಯಾಗಿ ಬದಲಾಗುತ್ತದೆ. ಈ ಪುಡಿಯೇ ಪ್ಲಾಸ್ಟರ್ ಆಫ್ ಪ್ಯಾರಿಸ್ (Plaster of Paris).",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a solid block of Gypsum (CaSO₄·2H₂O) being heated. Arrows indicate water molecules (H₂O) escaping as vapor. The resulting solid is Plaster of Paris (CaSO₄·½H₂O), which looks like a powder.",
+    "labels": "ಜಿಪ್ಸಂ (CaSO₄·2H₂O), ತಾಪ (Heat, 373 K), ನೀರಿನ ಆವಿ (Water Vapour, 1½H₂O), ಪ್ಲಾಸ್ಟರ್ ಆಫ್ ಪ್ಯಾರಿಸ್ (CaSO₄·½H₂O)",
+    "scientific_significance": "Visually represents the loss of water of crystallization from gypsum upon controlled heating to form Plaster of Paris.",
+    "placeholder_note": "Image to be generated showing the transformation of gypsum to plaster of paris with heat."
+  },
+  "chunk_id": "std_10_chapter_2_concept_10_chunk_015"
+}

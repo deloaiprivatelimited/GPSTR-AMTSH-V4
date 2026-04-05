@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೆಳಗಿನ ಕೋಷ್ಟಕದಲ್ಲಿ, 626 ಮತ್ತು 200 ಸಂಖ್ಯೆಗಳು ಸೂಪರ್ ಸೆಲ್ ಆಗಿವೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಸಾಲಿನಲ್ಲಿ ಕೆಲವು ಸಂಖ್ಯೆಗಳನ್ನು ಕೊಟ್ಟಿದ್ದಾರೆ. ನಾವು ಮಾಡಬೇಕಾಗಿರುವುದು ಇಷ್ಟೇ, 626 ಮತ್ತು 200 ಈ ಎರಡು ಸಂಖ್ಯೆಗಳು ಸೂಪರ್ ಸೆಲ್ ಹೌದೋ ಅಲ್ಲವೋ ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೆಳಗಿನ ಕೋಷ್ಟಕದಲ್ಲಿ, 626 ಮತ್ತು 200 ಸಂಖ್ಯೆಗಳು ಸೂಪರ್ ಸೆಲ್ ಆಗಿವೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಸಾಲಿನಲ್ಲಿ ಕೆಲವು ಸಂಖ್ಯೆಗಳನ್ನು ಕೊಟ್ಟಿದ್ದಾರೆ. ನಾವು ಮಾಡಬೇಕಾಗಿರುವುದು ಇಷ್ಟೇ, 626 ಮತ್ತು 200 ಈ ಎರಡು ಸಂಖ್ಯೆಗಳು ಸೂಪರ್ ಸೆಲ್ ಹೌದೋ ಅಲ್ಲವೋ ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಕೋಷ್ಟಕ: | 200 | 577 | 626 | 345 | 790 |",
+    "ಪರಿಶೀಲಿಸಬೇಕಾದ ಸಂಖ್ಯೆಗಳು: 626 ಮತ್ತು 200."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A simple table showing the row of numbers from the problem statement. The numbers 626 and 200 can be highlighted for emphasis. | 200 | 577 | 626 | 345 | 790 |"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "NS-NUM-1_example_1",
+  "chunk_id": "NS-NUM-1_concept_1_chunk_009"
+}

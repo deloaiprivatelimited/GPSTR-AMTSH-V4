@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತಗಳು 4-5",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಾವು ಲಂಬಕೋನ, ವಿಕರ್ಣ, ಮತ್ತು ಒಂದು ಬಾಹುವನ್ನು ಸಮವೆಂದು ಗುರುತಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಲಂ.ವಿ.ಬಾ. ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ PAB ಯು ತ್ರಿಭುಜ PAC ಗೆ ಸರ್ವಸಮವಾಗಿದೆ. ಗಣಿತದಲ್ಲಿ, ಎರಡು ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾದರೆ, ಅವುಗಳ ಅನುರೂಪ ಭಾಗಗಳು, ಅಂದರೆ ಅನುರೂಪ ಕೋನಗಳು ಮತ್ತು ಅನುರೂಪ ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಇದನ್ನು ನಾವು ಸ.ತ್ರಿ.ಅ.ಭಾ. ಎಂದು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಕರೆಯುತ್ತೇವೆ. ಈ ನಿಯಮವನ್ನು ಬಳಸಿಕೊಂಡು, ನಾವು ಕೋನ PAB ಯು ಅನುರೂಪ ಕೋನ PAC ಗೆ ಸಮ ಎಂದು ಹೇಳಬಹುದು.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ನಾವು ಲಂಬಕೋನ, ವಿಕರ್ಣ, ಮತ್ತು ಒಂದು ಬಾಹುವನ್ನು ಸಮವೆಂದು ಗುರುತಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಲಂ.ವಿ.ಬಾ. (RHS) ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, $\\triangle PAB \\cong \\triangle PAC$. ಗಣಿತದಲ್ಲಿ, ಎರಡು ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾದರೆ, ಅವುಗಳ ಅನುರೂಪ ಭಾಗಗಳು, ಅಂದರೆ ಅನುರೂಪ ಕೋನಗಳು ಮತ್ತು ಅನುರೂಪ ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಇದನ್ನು ನಾವು ಸ.ತ್ರಿ.ಅ.ಭಾ. (CPCTC) ಎಂದು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಕರೆಯುತ್ತೇವೆ. ಈ ನಿಯಮವನ್ನು ಬಳಸಿಕೊಂಡು, ನಾವು $\\angle PAB$ ಯು ಅನುರೂಪ ಕೋನ $\\angle PAC$ ಗೆ ಸಮ ಎಂದು ಹೇಳಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Same diagram, but now with angles PAB and PAC highlighted to show they are congruent as a result of CPCTC.",
+    "labels": "A, B, C, P, l, m",
+    "mathematical_significance": "Visually confirming the result of the proof - the equality of the two angles.",
+    "placeholder_note": "Use same base image, highlight angles PAB and PAC."
+  },
+  "source_example_id": "GEO-TRI-2_example_8",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "ಲಂ.ವಿ.ಬಾ. ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, $\\triangle PAB \\cong \\triangle PAC$.",
+      "justification": "ಒಂದು ಲಂಬಕೋನ, ವಿಕರ್ಣ ಮತ್ತು ಒಂದು ಬಾಹು ಸಮವಾಗಿವೆ."
+    },
+    {
+      "step": 5,
+      "action_display": "ಆದ್ದರಿಂದ, $\\angle PAB = \\angle PAC$.",
+      "justification": "ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮ (ಸ.ತ್ರಿ.ಅ.ಭಾ)."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_066"
+}

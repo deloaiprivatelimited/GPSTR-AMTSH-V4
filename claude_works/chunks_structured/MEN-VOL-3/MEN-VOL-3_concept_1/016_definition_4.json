@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಶಂಕುವಿನ ಮೇಲ್ಮೈಗಳು",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ನೇರವೃತ್ತಪಾದ ಶಂಕುವಿನ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಒಂದು ಶಂಕುವನ್ನು ಗಮನಿಸಿದಾಗ, ಅದರಲ್ಲಿ ಎರಡು ರೀತಿಯ ಮೇಲ್ಮೈಗಳಿರುವುದನ್ನು ನಾವು ನೋಡಬಹುದು. ಮೊದಲನೆಯದು, ಅದರ ತಳದಲ್ಲಿರುವ ಸಮತಟ್ಟಾದ ವೃತ್ತಾಕಾರದ ಪಾದ. ಎರಡನೆಯದು, ಅದರ ಪಕ್ಕದಲ್ಲಿರುವ ಬಾಗಿದ ಅಥವಾ ವಕ್ರವಾದ ಮೇಲ್ಮೈ. ಈ ಎರಡು ಮೇಲ್ಮೈಗಳ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ನಾವು ಈ ಅಧ್ಯಾಯದಲ್ಲಿ ಕಲಿಯುತ್ತೇವೆ. ಮೊದಲು, ನಾವು ವಕ್ರ ಮೇಲ್ಮೈಯ ಮೇಲೆ ಗಮನ ಹರಿಸೋಣ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ನೇರವೃತ್ತಪಾದ ಶಂಕುವಿನ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಒಂದು ಶಂಕುವನ್ನು ಗಮನಿಸಿದಾಗ, ಅದರಲ್ಲಿ ಎರಡು ರೀತಿಯ ಮೇಲ್ಮೈಗಳಿರುವುದನ್ನು ನಾವು ನೋಡಬಹುದು. ಮೊದಲನೆಯದು, ಅದರ ತಳದಲ್ಲಿರುವ ಸಮತಟ್ಟಾದ ವೃತ್ತಾಕಾರದ ಪಾದ. ಎರಡನೆಯದು, ಅದರ ಪಕ್ಕದಲ್ಲಿರುವ ಬಾಗಿದ ಅಥವಾ ವಕ್ರವಾದ ಮೇಲ್ಮೈ. ಈ ಎರಡು ಮೇಲ್ಮೈಗಳ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ನಾವು ಈ ಅಧ್ಯಾಯದಲ್ಲಿ ಕಲಿಯುತ್ತೇವೆ. ಮೊದಲು, ನಾವು ವಕ್ರ ಮೇಲ್ಮೈಯ ಮೇಲೆ ಗಮನ ಹರಿಸೋಣ.",
+  "display_bullets": [
+    "ಶಂಕುವು ಎರಡು ವಿಧದ ಮೇಲ್ಮೈಗಳನ್ನು ಹೊಂದಿದೆ:",
+    "ಒಂದು ಸಮತಟ್ಟಾದ ವೃತ್ತಾಕಾರದ ಪಾದ (Flat circular base)",
+    "ಒಂದು ವಕ್ರ ಮೇಲ್ಮೈ (Curved surface)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_explainer_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 3D diagram of a right circular cone. The circular base is highlighted in one color (e.g., blue) and the curved surface is highlighted in another color (e.g., green). Arrows point to each part with labels 'ಪಾದ' and 'ವಕ್ರ ಮೇಲ್ಮೈ'.",
+    "labels": "ಶಂಕು, ಪಾದ, ವಕ್ರ ಮೇಲ್ಮೈ",
+    "mathematical_significance": "Visually distinguishes between the two surfaces of a cone, setting the stage for defining their respective areas.",
+    "placeholder_note": "Image to be generated."
+  },
+  "chunk_id": "MEN-VOL-3_concept_1_chunk_016"
+}

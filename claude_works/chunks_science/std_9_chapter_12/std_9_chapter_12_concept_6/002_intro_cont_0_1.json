@@ -1,0 +1,41 @@
+{
+  "type": "chunk",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನೀವು ಈಗಾಗಲೇ ತಿಳಿದುಕೊಳ್ಳಬೇಕಾದ ಕೆಲವು ವಿಷಯಗಳಿವೆ. ನಾವು ಹಿಂದಿನ ಪಾಠಗಳಲ್ಲಿ ಚರ್ಚಿಸಿದಂತೆ, ಬೆಳೆ ಉತ್ಪಾದನೆಯಲ್ಲಿ ಸುಧಾರಣೆ, ಪೋಷಕಾಂಶಗಳ ನಿರ್ವಹಣೆ, ಗೊಬ್ಬರಗಳ ಬಳಕೆ, ನೀರಾವರಿ ವಿಧಾನಗಳು ಮತ್ತು ಕಳೆಗಳಿಂದ ಬೆಳೆ ರಕ್ಷಣೆಯ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿದಿರಬೇಕು. ಈ ವಿಷಯಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ಸ್ಪಷ್ಟತೆ ಇದ್ದರೆ, ಇಂದಿನ ಬೆಳೆಯ ಮಾದರಿಗಳ ಪಾಠ ಇನ್ನಷ್ಟು ಸುಲಭವಾಗಿ ಅರ್ಥವಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನೀವು ಈ ಕೆಳಗಿನ ವಿಷಯಗಳ ಬಗ್ಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿರಬೇಕು:",
+  "display_bullets": [
+    "ಬೆಳೆ ಉತ್ಪಾದನೆಯಲ್ಲಿ ಸುಧಾರಣೆ",
+    "ಪೋಷಕಾಂಶಗಳ ನಿರ್ವಹಣೆ",
+    "ಗೊಬ್ಬರಗಳು ಮತ್ತು ರಸಗೊಬ್ಬರಗಳು",
+    "ನೀರಾವರಿ ಮತ್ತು ಅದರ ಮೂಲಗಳು",
+    "ಕಳೆ, ಕೀಟ ಮತ್ತು ರೋಗಗಳಿಂದ ಬೆಳೆ ರಕ್ಷಣೆ"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_2",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "prerequisites",
+  "prerequisites_display": [
+    "ಬೆಳೆ ಉತ್ಪಾದನೆಯಲ್ಲಿ ಸುಧಾರಣೆ (Improvement in Crop Production)",
+    "ಪೋಷಕಾಂಶಗಳ ನಿರ್ವಹಣೆ (Nutrient Management)",
+    "ಗೊಬ್ಬರಗಳು (Manures and Fertilizers)",
+    "ನೀರಾವರಿ (Irrigation)",
+    "ಕಳೆಗಳಿಂದ ಬೆಳೆ ರಕ್ಷಣೆ (Protecting from Weeds)"
+  ],
+  "chunk_id": "std_9_chapter_12_concept_6_chunk_002"
+}

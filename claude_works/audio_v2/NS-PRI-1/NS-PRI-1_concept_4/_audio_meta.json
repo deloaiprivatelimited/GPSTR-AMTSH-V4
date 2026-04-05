@@ -1,0 +1,191 @@
+{
+  "module_id": "NS-PRI-1_concept_4",
+  "merge_code": "NS-PRI-1",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 16,
+  "ok_count": 16,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 17:17:23",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "2870a201a56c2aaac9c2a963d711dc30",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.371,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 45,
+      "generated_at": "2026-03-30 17:14:17"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "a6cb396a63038e46ef9e4faaf1fbae3b",
+      "wav_file": "003_definition_0.wav",
+      "duration": 39.771,
+      "slide_title": "ಪರಿಚಯ: ಸಹಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-03-30 17:14:21"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "971b4a7fc858b901d5c6a3dc2deb3a99",
+      "wav_file": "001_intro_0.wav",
+      "duration": 48.251,
+      "slide_title": "ಸಹಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು: ಪರಿಚಯ",
+      "type": "intro",
+      "script_words": 66,
+      "generated_at": "2026-03-30 17:14:28"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "c623105b8fc819e9a42966bd2903a0c0",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 45.131,
+      "slide_title": "ವ್ಯಾಖ್ಯೆ: ಸಹಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-03-30 17:14:56"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "6c5db47a108c2e88003d8bc942726430",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 49.971,
+      "slide_title": "ಉದಾಹರಣೆ: (8, 15) ಸಹಅವಿಭಾಜ್ಯಗಳೇ?",
+      "type": "definition",
+      "script_words": 66,
+      "generated_at": "2026-03-30 17:14:59"
+    },
+    "008_definition_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "8e2a0bfef3e7b777594cdf88db877126",
+      "wav_file": "008_definition_cont_0_5.wav",
+      "duration": 44.811,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-03-30 17:15:26"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "e3c9af85d5667dcbb1ea8218631756ca",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 52.971,
+      "slide_title": "ಗಮನಿಸಿ: ಸಹಅವಿಭಾಜ್ಯಗಳು ಅವಿಭಾಜ್ಯಗಳಾಗಿರಬೇಕಿಲ್ಲ",
+      "type": "definition",
+      "script_words": 67,
+      "generated_at": "2026-03-30 17:15:32"
+    },
+    "007_definition_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "e4a07deff2594e37be0ec6a51e882cbb",
+      "wav_file": "007_definition_cont_0_4.wav",
+      "duration": 57.371,
+      "slide_title": "ಸಹಅವಿಭಾಜ್ಯಗಳ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-03-30 17:15:37"
+    },
+    "010_property_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "bbe023ee28a0f11305882ab930122380",
+      "wav_file": "010_property_1.wav",
+      "duration": 50.131,
+      "slide_title": "ಸಹಅವಿಭಾಜ್ಯಗಳ ಗುಣಲಕ್ಷಣ",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-03-30 17:15:55"
+    },
+    "012_example_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "3dab2e3831565d1c392aeb0f49e8dc26",
+      "wav_file": "012_example_0.wav",
+      "duration": 20.491,
+      "slide_title": "ಉದಾಹರಣೆ: ಸಹಅವಿಭಾಜ್ಯ ಪರೀಕ್ಷೆ",
+      "type": "worked_example",
+      "script_words": 27,
+      "generated_at": "2026-03-30 17:16:10"
+    },
+    "011_property_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "f9c140e33898447c3c686823187dddc5",
+      "wav_file": "011_property_cont_1_1.wav",
+      "duration": 39.931,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಸಹಅವಿಭಾಜ್ಯಗಳನ್ನು ವೇಗವಾಗಿ ಗುರುತಿಸುವುದು",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-03-30 17:16:22"
+    },
+    "013_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "22baaa55aa2a43a15a1e689bfb47c5fa",
+      "wav_file": "013_example_cont_0_1.wav",
+      "duration": 37.771,
+      "slide_title": "ಪರಿಹಾರ: ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣ",
+      "type": "worked_example",
+      "script_words": 54,
+      "generated_at": "2026-03-30 17:16:22"
+    },
+    "009_property_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "3f19e9bde93c08f275f26111b942ebe0",
+      "wav_file": "009_property_0.wav",
+      "duration": 91.051,
+      "slide_title": "ಸಹಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 115,
+      "generated_at": "2026-03-30 17:16:24"
+    },
+    "015_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "6574c46804a658b01dfd40b982144f76",
+      "wav_file": "015_example_cont_0_3.wav",
+      "duration": 35.731,
+      "slide_title": "ತೀರ್ಮಾನ",
+      "type": "worked_example",
+      "script_words": 38,
+      "generated_at": "2026-03-30 17:16:43"
+    },
+    "014_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "15c33a890927643c7e35d9428435c591",
+      "wav_file": "014_example_cont_0_2.wav",
+      "duration": 61.011,
+      "slide_title": "ಪರಿಹಾರ: ಅಪವರ್ತನಗಳ ಹೋಲಿಕೆ",
+      "type": "worked_example",
+      "script_words": 73,
+      "generated_at": "2026-03-30 17:16:59"
+    },
+    "016_recap_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "13e4e2e9037e475f73b5cf218c946731",
+      "wav_file": "016_recap_0.wav",
+      "duration": 41.891,
+      "slide_title": "ಸಾರಾಂಶ: ಸಹಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು",
+      "type": "recap",
+      "script_words": 48,
+      "generated_at": "2026-03-30 17:17:23"
+    }
+  }
+}

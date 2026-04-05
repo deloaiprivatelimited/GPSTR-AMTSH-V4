@@ -1,0 +1,136 @@
+{
+  "module_id": "std_9_chapter_11_concept_8",
+  "chapter_code": "std_9_chapter_11",
+  "voice": "Aoede",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:35:53",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "369367506fae977060bcaefe45e609f0",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 36.171,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "bullet_list",
+      "script_words": 44,
+      "generated_at": "2026-04-02 15:33:49"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "9fe3aa7ad313411e53ef0899f9b6206b",
+      "wav_file": "003_property_0.wav",
+      "duration": 66.971,
+      "slide_title": "ಶ್ರವಣಾತೀತ ಶಬ್ದದ ಅನ್ವಯಗಳು: ಕೈಗಾರಿಕೆ",
+      "type": "concept_explanation",
+      "script_words": 82,
+      "generated_at": "2026-04-02 15:34:04"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "fc00d5fe16c95ccd8eb1d21c15d48b86",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 67.371,
+      "slide_title": "ಶ್ರವಣಾತೀತ ಶಬ್ದದ ಅನ್ವಯಗಳು: ವೈದ್ಯಕೀಯ ಚಿತ್ರಣ",
+      "type": "concept_explanation",
+      "script_words": 80,
+      "generated_at": "2026-04-02 15:34:07"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "25c3930a053599613485bd417a36cc52",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 55.411,
+      "slide_title": "ಶ್ರವಣಾತೀತ ಶಬ್ದದ ಅನ್ವಯಗಳು: ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 15:34:08"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "3b8b18e8a671739f56a844d94865e45f",
+      "wav_file": "001_intro_0.wav",
+      "duration": 60.611,
+      "slide_title": "ಶ್ರವಣಾತೀತ ಶಬ್ದದ ಅನ್ವಯಗಳು",
+      "type": "title_hero",
+      "script_words": 83,
+      "generated_at": "2026-04-02 15:34:28"
+    },
+    "008_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "7685a461c79a1ca0dcd23e0b9c2bb847",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "duration": 29.771,
+      "slide_title": "ಕೈಗಾರಿಕಾ ಉಪಯೋಗಗಳು",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 15:34:43"
+    },
+    "006_classification_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "c3349d790480637bd0cb3ba2e81340a2",
+      "wav_file": "006_classification_0.wav",
+      "duration": 39.611,
+      "slide_title": "ಪರಿಚಯ: ಶ್ರವಣಾತೀತ ಶಬ್ದದ ಅನ್ವಯಗಳು",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 15:34:54"
+    },
+    "007_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "bb6399d59b066bafc2ada3723a780e40",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "duration": 44.291,
+      "slide_title": "ಕೈಗಾರಿಕಾ ಉಪಯೋಗಗಳು",
+      "type": "concept_explanation",
+      "script_words": 48,
+      "generated_at": "2026-04-02 15:34:56"
+    },
+    "009_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "7c71d87eb900d8d42cafb78f9f30a789",
+      "wav_file": "009_classification_cont_0_3.wav",
+      "duration": 50.691,
+      "slide_title": "ವೈದ್ಯಕೀಯ ಉಪಯೋಗಗಳು",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 15:34:57"
+    },
+    "010_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "548b2c0998172817cb9b1d892ea89179",
+      "wav_file": "010_classification_cont_0_4.wav",
+      "duration": 52.571,
+      "slide_title": "ವೈದ್ಯಕೀಯ ಉಪಯೋಗಗಳು",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 15:35:05"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "f74a2609399213bc12d68aea8775aae3",
+      "wav_file": "011_recap_0.wav",
+      "duration": 44.451,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 15:35:53"
+    }
+  }
+}

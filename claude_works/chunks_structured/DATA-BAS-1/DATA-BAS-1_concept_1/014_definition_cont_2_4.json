@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ತಾಳೆ ಗುರುತುಗಳು ಮತ್ತು ಆವೃತ್ತಿ",
+  "script": "ಪರೀಕ್ಷೆಯಲ್ಲಿ, ಆವೃತ್ತಿ ವಿತರಣಾ ಕೋಷ್ಟಕಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ನೇರ ಪ್ರಶ್ನೆಗಳು ಬರುತ್ತವೆ. ನಿಮಗೆ ಕೆಲವು ಕಚ್ಚಾ ದತ್ತಾಂಶವನ್ನು ನೀಡಿ ಕೋಷ್ಟಕವನ್ನು ರಚಿಸಲು ಕೇಳಬಹುದು, ಅಥವಾ ಒಂದು ಕೋಷ್ಟಕವನ್ನು ನೀಡಿ ನಿರ್ದಿಷ್ಟ ಮೌಲ್ಯದ ಆವೃತ್ತಿಯನ್ನು ಕೇಳಬಹುದು. ಸಾಮಾನ್ಯ ತಪ್ಪು ಎಂದರೆ ತಾಳೆ ಗುರುತುಗಳನ್ನು ತಪ್ಪಾಗಿ ಎಣಿಸುವುದು. ಯಾವಾಗಲೂ ಐದರ ಗುಂಪುಗಳನ್ನು ಮೊದಲು ಎಣಿಸಿ, ನಂತರ ಬಿಡಿ ಗುರುತುಗಳನ್ನು ಸೇರಿಸಿ. ಉದಾಹರಣೆಗೆ, ತಾಳೆ ಗುರುತುಗಳು ಐದರ ಎರಡು ಗುಂಪುಗಳು ಮತ್ತು ಎರಡು ಬಿಡಿ ಗುರುತುಗಳಿದ್ದರೆ, ಅದು ಐದು ಪ್ಲಸ್ ಐದು ಪ್ಲಸ್ ಎರಡು, ಅಂದರೆ ಹನ್ನೆರಡು. ಈ ಮೂಲಭೂತ ಕೌಶಲ್ಯವು ಮುಂದಿನ ಹಂತದ ಸ್ತಂಭ ನಕ್ಷೆಗಳಂತಹ ವಿಷಯಗಳಿಗೆ ಅಡಿಪಾಯವಾಗಿದೆ.",
+  "script_display": "ಪರೀಕ್ಷೆಯಲ್ಲಿ, ಆವೃತ್ತಿ ವಿತರಣಾ ಕೋಷ್ಟಕಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ನೇರ ಪ್ರಶ್ನೆಗಳು ಬರುತ್ತವೆ. ನಿಮಗೆ ಕೆಲವು ಕಚ್ಚಾ ದತ್ತಾಂಶವನ್ನು ನೀಡಿ ಕೋಷ್ಟಕವನ್ನು ರಚಿಸಲು ಕೇಳಬಹುದು, ಅಥವಾ ಒಂದು ಕೋಷ್ಟಕವನ್ನು ನೀಡಿ ನಿರ್ದಿಷ್ಟ ಮೌಲ್ಯದ ಆವೃತ್ತಿಯನ್ನು ಕೇಳಬಹುದು. ಸಾಮಾನ್ಯ ತಪ್ಪು ಎಂದರೆ ತಾಳೆ ಗುರುತುಗಳನ್ನು ತಪ್ಪಾಗಿ ಎಣಿಸುವುದು. ಯಾವಾಗಲೂ 5ರ ಗುಂಪುಗಳನ್ನು ($~~IIII~~$) ಮೊದಲು ಎಣಿಸಿ, ನಂತರ ಬಿಡಿ ಗುರುತುಗಳನ್ನು ಸೇರಿಸಿ. ಉದಾಹರಣೆಗೆ, $~~IIII~~$ $~~IIII~~$ $II$ ಎಂದರೆ $5 + 5 + 2$, ಅಂದರೆ 12. ಈ ಮೂಲಭೂತ ಕೌಶಲ್ಯವು ಮುಂದಿನ ಹಂತದ ಸ್ತಂಭ ನಕ್ಷೆಗಳಂತಹ ವಿಷಯಗಳಿಗೆ ಅಡಿಪಾಯವಾಗಿದೆ.",
+  "display_bullets": [
+    "**ಪ್ರಶ್ನೆ ಮಾದರಿ:** ಒಂದು ದತ್ತಾಂಶ ಗಣವನ್ನು ನೀಡಿ, ನಿರ್ದಿಷ್ಟ ಮೌಲ್ಯದ ಆವೃತ್ತಿ ಎಷ್ಟು? ಅಥವಾ \"ತಾಳೆ ಗುರುತು $~~IIII~~$ $~~IIII~~$ $II$ ಯಾವ ಸಂಖ್ಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ?\" ಎಂದು ಕೇಳಬಹುದು.",
+    "**ಸಾಮಾನ್ಯ ತಪ್ಪು:** ತಾಳೆ ಗುರುತುಗಳ ಐದರ ಗುಂಪುಗಳನ್ನು ಸರಿಯಾಗಿ ಎಣಿಸದಿರುವುದು. ಯಾವಾಗಲೂ ಎಚ್ಚರಿಕೆಯಿಂದ ಎಣಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard_centered",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "exam_tip": {
+    "question_pattern": "MCQ/2-mark",
+    "skill_tested": "Reading tally marks and identifying the frequency of an item from a raw data set or a frequency table.",
+    "distractor": "Miscounting the tally marks, especially when multiple groups of five are present. For example, counting ~~IIII~~ ~~IIII~~ II as 11 or 13 instead of 12.",
+    "why_distractor_works": "Careless counting or misunderstanding that the diagonal slash completes a group of five, not four or six."
+  },
+  "chunk_id": "DATA-BAS-1_concept_1_chunk_014"
+}

@@ -1,0 +1,79 @@
+{
+  "module_id": "std_6_chapter_11_concept_4",
+  "chapter_code": "std_6_chapter_11",
+  "voice": "Iapetus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 258.186,
+  "total_duration_formatted": "4:18",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_11_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸೂರ್ಯನ ಶಕ್ತಿ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 44.531,
+      "duration": 44.531,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 45.131,
+      "end": 73.822,
+      "duration": 28.691,
+      "script_words": 32
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_4_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಸೌರಶಕ್ತಿಯ ನೇರ ಉಪಯೋಗಗಳು",
+      "type": "concept_explanation",
+      "start": 74.422,
+      "end": 118.353,
+      "duration": 43.931,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_4_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಶಾಖಕ್ಕಾಗಿ ಬಳಕೆ",
+      "type": "concept_explanation",
+      "start": 118.953,
+      "end": 164.204,
+      "duration": 45.251,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_4_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ವಿದ್ಯುತ್‌ಗಾಗಿ ಬಳಕೆ",
+      "type": "concept_explanation",
+      "start": 164.804,
+      "end": 211.055,
+      "duration": 46.251,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_11_concept_4_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 211.655,
+      "end": 257.586,
+      "duration": 45.931,
+      "script_words": 49
+    }
+  ]
+}

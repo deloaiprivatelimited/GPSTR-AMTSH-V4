@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಈಗ, ಪ್ರತಿಬಿಂಬದ ಎತ್ತರ h ಪ್ರೈಮ್ ಅನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇದಕ್ಕಾಗಿ ವರ್ಧನೆಯ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ. m ಈಕ್ವಲ್ಸ್ h ಪ್ರೈಮ್ ಭಾಗಿಸು h, ಅದು ಮೈನಸ್ v ಭಾಗಿಸು u ಗೆ ಸಮ. ನಮಗೆ h ಪ್ರೈಮ್ ಬೇಕಾಗಿರುವುದರಿಂದ, h ಪ್ರೈಮ್ ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ v ಗುಣಿಸು h ಭಾಗಿಸು u. ಈಗ ನಾವು v, u ಮತ್ತು h ನ ಬೆಲೆಗಳನ್ನು ಹಾಕೋಣ. h ಪ್ರೈಮ್ ಈಕ್ವಲ್ಸ್ ಮೈನಸ್, ಬ್ರಾಕೆಟ್ ನಲ್ಲಿ ಮೈನಸ್ ಮೂವತ್ತೇಳು ಪಾಯಿಂಟ್ ಐದು, ಗುಣಿಸು ನಾಲ್ಕು, ಎಲ್ಲವನ್ನೂ ಮೈನಸ್ ಇಪ್ಪತ್ತೈದರಿಂದ ಭಾಗಿಸಬೇಕು. ಲೆಕ್ಕ ಮಾಡಿದಾಗ, h ಪ್ರೈಮ್ ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ ಆರು ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಸೆಂಟಿಮೀಟರ್ ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಹಂತ 3: ಪ್ರತಿಬಿಂಬದ ಎತ್ತರ (h') ಕಂಡುಹಿಡಿಯುವುದು.",
+  "display_bullets": [
+    "ವರ್ಧನೆಯ ಸೂತ್ರ: m = h'/h = -v/u",
+    "h' ಗಾಗಿ ಸೂತ್ರ: h' = -v * h / u",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: h' = -(-37.5 cm) * (4.0 cm) / (-25.0 cm)",
+    "ಪ್ರತಿಬಿಂಬದ ಎತ್ತರ: h' = - (150 / 25) = -6.0 cm"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "h' = -\\frac{v \\times h}{u} \\\\ h' = -\\frac{(-37.5) \\times 4}{-25} \\\\ h' = -\\frac{150}{25} = -6.0 \\text{ cm}",
+    "placeholder_note": "Show the calculation steps for finding h'."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_9_example_9.2",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಪ್ರತಿಬಿಂಬದ ಎತ್ತರ (h') ಕಂಡುಹಿಡಿಯುವುದು.",
+      "justification": "ವರ್ಧನೆಯ ಸೂತ್ರ m = h'/h = -v/u ಬಳಸಿ."
+    }
+  ],
+  "chunk_id": "std_10_chapter_9_concept_4_chunk_027"
+}

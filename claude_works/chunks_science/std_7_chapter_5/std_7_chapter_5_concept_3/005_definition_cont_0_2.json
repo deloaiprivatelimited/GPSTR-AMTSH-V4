@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ತುಕ್ಕು ಹಿಡಿಯುವಿಕೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ತುಕ್ಕು ಹಿಡಿಯುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಾವು ಒಂದು ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ಮೂಲಕವೂ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಇಲ್ಲಿ, ಎಫ್ ಇ ಅಂದರೆ ಕಬ್ಬಿಣವು, ಓ ಟು ಅಂದರೆ ಆಮ್ಲಜನಕ ಮತ್ತು ಎಚ್ ಟು ಓ ಅಂದರೆ ನೀರಿನೊಂದಿಗೆ ವರ್ತಿಸುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯ ಫಲವಾಗಿ, ಎಫ್ ಇ ಟು ಓ ಥ್ರೀ ಡಾಟ್ ಎಕ್ಸ್ ಎಚ್ ಟು ಓ, ಅಂದರೆ ಜಲಯುಕ್ತ ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್ ಅಥವಾ ತುಕ್ಕು ಉಂಟಾಗುತ್ತದೆ. ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಕಬ್ಬಿಣ, ಆಮ್ಲಜನಕ ಮತ್ತು ನೀರು ಇವುಗಳನ್ನು 'ಪ್ರತಿವರ್ತಕಗಳು' ಎನ್ನುತ್ತೇವೆ. ಮತ್ತು ಬಾಣದ ಗುರುತಿನ ನಂತರ ಬರುವ ಜಲಯುಕ್ತ ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್ ಅನ್ನು 'ಉತ್ಪನ್ನ' ಎನ್ನುತ್ತೇವೆ. ಇಲ್ಲಿ ಎಕ್ಸ್ ಎಂಬುದು ನೀರಿನ ಅಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಬದಲಾಗಬಹುದು.",
+  "script_display": "ತುಕ್ಕು ಹಿಡಿಯುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಈ ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. \n\n*   **ಪ್ರತಿವರ್ತಕಗಳು (Reactants):** ಕಬ್ಬಿಣ (Fe), ಆಮ್ಲಜನಕ (O₂), ನೀರು (H₂O)\n*   **ಉತ್ಪನ್ನ (Product):** ಜಲಯುಕ್ತ ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್ (ತುಕ್ಕು)",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "4\\text{Fe} + 3\\text{O}_2 + x\\text{H}_2\\text{O} \\rightarrow 2\\text{Fe}_2\\text{O}_3 \\cdot x\\text{H}_2\\text{O}",
+    "placeholder_note": "ತುಕ್ಕು (ಜಲಯುಕ್ತ ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್)"
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_7_chapter_5_concept_3_chunk_005"
+}

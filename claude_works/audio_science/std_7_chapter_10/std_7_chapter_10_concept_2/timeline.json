@@ -1,0 +1,134 @@
+{
+  "module_id": "std_7_chapter_10_concept_2",
+  "chapter_code": "std_7_chapter_10",
+  "voice": "Schedar",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 11,
+  "total_duration": 437.881,
+  "total_duration_formatted": "7:17",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_10_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಉಷ್ಣ ಪರಿಣಾಮ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 54.691,
+      "duration": 54.691,
+      "script_words": 79
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "start": 55.291,
+      "end": 80.062,
+      "duration": 24.771,
+      "script_words": 36
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_2_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಉಷ್ಣ ಪರಿಣಾಮ",
+      "type": "definition",
+      "start": 80.662,
+      "end": 115.513,
+      "duration": 34.851,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_2_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಇದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ? ಒಂದು ಉದಾಹರಣೆ",
+      "type": "definition",
+      "start": 116.113,
+      "end": 150.004,
+      "duration": 33.891,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_2_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಎಲ್ಲಾ ತಂತಿಗಳೂ ಒಂದೇ ರೀತಿ ಬಿಸಿಯಾಗುತ್ತವೆಯೇ?",
+      "type": "definition",
+      "start": 150.604,
+      "end": 203.175,
+      "duration": 52.571,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_2_chunk_006",
+      "chunk_file": "006_experiment_0.json",
+      "wav_file": "006_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ: ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಉಷ್ಣ ಪರಿಣಾಮ",
+      "type": "concept_explanation",
+      "start": 203.775,
+      "end": 241.386,
+      "duration": 37.611,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_2_chunk_007",
+      "chunk_file": "007_experiment_cont_0_1.json",
+      "wav_file": "007_experiment_cont_0_1.wav",
+      "slide_title": "ಅಗತ್ಯವಿರುವ ಉಪಕರಣಗಳು ಮತ್ತು ಜೋಡಣೆ",
+      "type": "concept_explanation",
+      "start": 241.986,
+      "end": 286.077,
+      "duration": 44.091,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_2_chunk_008",
+      "chunk_file": "008_experiment_cont_0_2.json",
+      "wav_file": "008_experiment_cont_0_2.wav",
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "start": 286.677,
+      "end": 327.208,
+      "duration": 40.531,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_2_chunk_009",
+      "chunk_file": "009_experiment_cont_0_3.json",
+      "wav_file": "009_experiment_cont_0_3.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ (Observation)",
+      "type": "concept_explanation",
+      "start": 327.808,
+      "end": 369.859,
+      "duration": 42.051,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_2_chunk_010",
+      "chunk_file": "010_experiment_cont_0_4.json",
+      "wav_file": "010_experiment_cont_0_4.wav",
+      "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+      "type": "concept_explanation",
+      "start": 370.459,
+      "end": 401.19,
+      "duration": 30.731,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_2_chunk_011",
+      "chunk_file": "011_recap_0.json",
+      "wav_file": "011_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 401.79,
+      "end": 437.281,
+      "duration": 35.491,
+      "script_words": 47
+    }
+  ]
+}

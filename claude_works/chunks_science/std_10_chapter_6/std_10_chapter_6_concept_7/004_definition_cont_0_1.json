@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಹಾರ್ಮೋನುಗಳ ಕಾರ್ಯ: ಒಂದು ಹೋಲಿಕೆ",
+  "script": "ಹಾರ್ಮೋನುಗಳ ಕಾರ್ಯವನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಹೋಲಿಕೆ ನೋಡೋಣ. ಒಂದು ಗ್ರಂಥಿಯನ್ನು ಸಂದೇಶ ಕಳುಹಿಸುವವ ಎಂದು ಭಾವಿಸಿ. ಅದು ಹಾರ್ಮೋನ್ ಎಂಬ ಸಂದೇಶವನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ. ಈ ಸಂದೇಶವನ್ನು ರಕ್ತ ಎಂಬ ಸಾರಿಗೆ ವ್ಯವಸ್ಥೆಯು ಇಡೀ ದೇಹದಾದ್ಯಂತ ಕೊಂಡೊಯ್ಯುತ್ತದೆ. ಆದರೆ, ಆ ಸಂದೇಶವು ಎಲ್ಲರಿಗೂ ಅಲ್ಲ. ಅದು ಕೇವಲ ಗುರಿ ಜೀವಕೋಶ ಎಂಬ ನಿರ್ದಿಷ್ಟ ಸ್ವೀಕರಿಸುವವನಿಗೆ ಮಾತ್ರ ತಲುಪುತ್ತದೆ ಮತ್ತು ಆ ಜೀವಕೋಶ ಮಾತ್ರ ಅದಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತದೆ. ಬೇರೆ ಜೀವಕೋಶಗಳಿಗೆ ಆ ಸಂದೇಶ ಅರ್ಥವಾಗುವುದಿಲ್ಲ.",
+  "script_display": "ಹಾರ್ಮೋನುಗಳ ಕಾರ್ಯವನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಹೋಲಿಕೆ ನೋಡೋಣ. ಒಂದು ಗ್ರಂಥಿಯನ್ನು ಸಂದೇಶ ಕಳುಹಿಸುವವ ಎಂದು ಭಾವಿಸಿ. ಅದು ಹಾರ್ಮೋನ್ ಎಂಬ ಸಂದೇಶವನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ. ಈ ಸಂದೇಶವನ್ನು ರಕ್ತ ಎಂಬ ಸಾರಿಗೆ ವ್ಯವಸ್ಥೆಯು ಇಡೀ ದೇಹದಾದ್ಯಂತ ಕೊಂಡೊಯ್ಯುತ್ತದೆ. ಆದರೆ, ಆ ಸಂದೇಶವು ಎಲ್ಲರಿಗೂ ಅಲ್ಲ. ಅದು ಕೇವಲ ಗುರಿ ಜೀವಕೋಶ ಎಂಬ ನಿರ್ದಿಷ್ಟ ಸ್ವೀಕರಿಸುವವನಿಗೆ ಮಾತ್ರ ತಲುಪುತ್ತದೆ ಮತ್ತು ಆ ಜೀವಕೋಶ ಮಾತ್ರ ಅದಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತದೆ. ಬೇರೆ ಜೀವಕೋಶಗಳಿಗೆ ಆ ಸಂದೇಶ ಅರ್ಥವಾಗುವುದಿಲ್ಲ.",
+  "display_bullets": [
+    "ಗ್ರಂಥಿ (ಕಳುಹಿಸುವವ): ಹಾರ್ಮೋನ್ ಅನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ.",
+    "ರಕ್ತ (ಸಾರಿಗೆ ವ್ಯವಸ್ಥೆ): ಹಾರ್ಮೋನ್ ಅನ್ನು ದೇಹದಾದ್ಯಂತ ಸಾಗಿಸುತ್ತದೆ.",
+    "ಗುರಿ ಜೀವಕೋಶ (ಸ್ವೀಕರಿಸುವವ): ಹಾರ್ಮೋನ್‌ಗೆ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple flowchart showing an endocrine gland releasing hormones (dots) into a blood vessel. The blood vessel carries the hormones throughout the body, but only a specific target cell with matching receptors responds to the hormone, while non-target cells ignore it.",
+    "labels": "Endocrine Gland, Hormone, Bloodstream, Target Cell, Non-target Cell",
+    "scientific_significance": "Illustrates the specificity of hormone action, where hormones travel widely via the bloodstream but only affect target cells that have the correct receptors.",
+    "placeholder_note": "Image to be generated showing a gland releasing molecules into blood, which then travel to a specific cell with receptors."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_6_concept_7_chunk_004"
+}

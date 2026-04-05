@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಯಾವುದು ಸರಿ, ಯಾವುದು ತಪ್ಪು?",
+  "script": "ಈಗ ಒಂದು ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸೋಣ. ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣ ಎಂದರೆ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳೇ ಆಗಿರಬೇಕು. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, 36 ಸಮ ಎರಡು ಗುಣಿಸು ಎರಡು ಗುಣಿಸು ಮೂರು ಗುಣಿಸು ಮೂರು. ಇಲ್ಲಿರುವ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳು, ಅಂದರೆ ಎರಡು ಮತ್ತು ಮೂರು, ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು. ಆದ್ದರಿಂದ, ಇದು ಸರಿಯಾದ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, 36 ಸಮ ನಾಲ್ಕು ಗುಣಿಸು ಒಂಬತ್ತು. ಇದು ಗಣಿತದ ಪ್ರಕಾರ ಸರಿ, ಆದರೆ ಇದು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣ ಅಲ್ಲ. ಯಾಕೆಂದರೆ, ನಾಲ್ಕು ಮತ್ತು ಒಂಬತ್ತು ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಗಳು, ಅವಿಭಾಜ್ಯಗಳಲ್ಲ. ಅವನ್ನು ಇನ್ನೂ ಮುಂದೆ ವಿಭಜಿಸಬಹುದು.",
+  "script_display": "ಈಗ ಒಂದು ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸೋಣ. ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣ ಎಂದರೆ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳೇ ಆಗಿರಬೇಕು. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, $36 = 2 \\times 2 \\times 3 \\times 3$. ಇಲ್ಲಿರುವ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳು, ಅಂದರೆ 2 ಮತ್ತು 3, ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು. ಆದ್ದರಿಂದ, ಇದು ಸರಿಯಾದ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, $36 = 4 \\times 9$. ಇದು ಗಣಿತದ ಪ್ರಕಾರ ಸರಿ, ಆದರೆ ಇದು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣ ಅಲ್ಲ. ಯಾಕೆಂದರೆ, 4 ಮತ್ತು 9 ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಗಳು, ಅವಿಭಾಜ್ಯಗಳಲ್ಲ. ಅವನ್ನು ಇನ್ನೂ ಮುಂದೆ ವಿಭಜಿಸಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "left_right_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_panel",
+    "status": "ready",
+    "render_target": "katex",
+    "placeholder_note": "Left panel shows correct prime factorization, right panel shows incorrect factorization with composite numbers. Both panels have titles 'ಸರಿಯಾದ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣ' and 'ಅಪವರ್ತಿಕರಣ (ಆದರೆ ಅವಿಭಾಜ್ಯವಲ್ಲ)' respectively. Checkmark on left, cross mark on right. Left: $36 = 2 \\times 2 \\times 3 \\times 3$. Right: $36 = 4 \\times 9$. Explanation text below each formula. Left: 'ಇಲ್ಲಿ 2 ಮತ್ತು 3 ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು.' Right: 'ಇಲ್ಲಿ 4 ಮತ್ತು 9 ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಗಳು.' "
+  },
+  "chunk_id": "NS-PRI-1_concept_3_chunk_005"
+}

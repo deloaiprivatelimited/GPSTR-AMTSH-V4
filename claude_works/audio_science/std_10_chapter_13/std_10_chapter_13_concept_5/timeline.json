@@ -1,0 +1,79 @@
+{
+  "module_id": "std_10_chapter_13_concept_5",
+  "chapter_code": "std_10_chapter_13",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 297.786,
+  "total_duration_formatted": "4:57",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_13_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಜೈವಿಕ ಸಂವರ್ಧನೆ (Biological Magnification)",
+      "type": "intro",
+      "start": 0.0,
+      "end": 59.331,
+      "duration": 59.331,
+      "script_words": 79
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪಾಠದ ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisite",
+      "start": 59.931,
+      "end": 91.822,
+      "duration": 31.891,
+      "script_words": 41
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_5_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ಜೈವಿಕ ಸಂವರ್ಧನೆ ಎಂದರೇನು?",
+      "type": "definition",
+      "start": 92.422,
+      "end": 140.313,
+      "duration": 47.891,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_5_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಆಹಾರ ಸರಪಳಿಯಲ್ಲಿ ಸಂವರ್ಧನೆ",
+      "type": "definition",
+      "start": 140.913,
+      "end": 195.604,
+      "duration": 54.691,
+      "script_words": 87
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_5_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಜೈವಿಕ ಸಂವರ್ಧನೆಯ ಪರಿಣಾಮ",
+      "type": "definition",
+      "start": 196.204,
+      "end": 254.255,
+      "duration": 58.051,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_5_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಜೈವಿಕ ಸಂವರ್ಧನೆ",
+      "type": "recap",
+      "start": 254.855,
+      "end": 297.186,
+      "duration": 42.331,
+      "script_words": 48
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "module_id": "std_7_chapter_2_concept_7",
+  "chapter_code": "std_7_chapter_2",
+  "voice": "Rasalgethi",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 267.466,
+  "total_duration_formatted": "4:27",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_2_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ದೊಡ್ಡ ಕರುಳು ಮತ್ತು ಪೋಷಣೆಯ ಪ್ರಕ್ರಿಯೆಗಳು",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 42.011,
+      "duration": 42.011,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 42.611,
+      "end": 65.582,
+      "duration": 22.971,
+      "script_words": 34
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_7_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಪೋಷಣೆಯ ಐದು ಹಂತಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "start": 66.182,
+      "end": 113.633,
+      "duration": 47.451,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_7_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಪೋಷಣೆಯ ಐದು ಹಂತಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "start": 114.233,
+      "end": 164.444,
+      "duration": 50.211,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_7_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಪೋಷಣೆಯ ಅಂತಿಮ ಹಂತ",
+      "type": "concept_explanation",
+      "start": 165.044,
+      "end": 217.375,
+      "duration": 52.331,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_7_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ದೊಡ್ಡ ಕರುಳು ಮತ್ತು ಪೋಷಣೆಯ ಹಂತಗಳು",
+      "type": "recap",
+      "start": 217.975,
+      "end": 266.866,
+      "duration": 48.891,
+      "script_words": 58
+    }
+  ]
+}

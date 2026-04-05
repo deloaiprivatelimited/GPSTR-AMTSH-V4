@@ -1,0 +1,90 @@
+{
+  "module_id": "std_10_chapter_4_concept_1",
+  "chapter_code": "std_10_chapter_4",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 294.757,
+  "total_duration_formatted": "4:54",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_4_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಕಾರ್ಬನ್‌ನಲ್ಲಿ ಸಹವೇಲೆನ್ಸಿಯ ಬಂಧ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 43.451,
+      "duration": 43.451,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "std_10_chapter_4_concept_1_chunk_002",
+      "chunk_file": "002_definition_0.json",
+      "wav_file": "002_definition_0.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಸಹವೇಲೆನ್ಸಿಯ ಬಂಧ",
+      "type": "definition",
+      "start": 44.051,
+      "end": 82.582,
+      "duration": 38.531,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_10_chapter_4_concept_1_chunk_003",
+      "chunk_file": "003_definition_cont_0_1.json",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಹೈಡ್ರೋಜನ್ ಅಣು",
+      "type": "definition",
+      "start": 83.182,
+      "end": 122.433,
+      "duration": 39.251,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_10_chapter_4_concept_1_chunk_004",
+      "chunk_file": "004_definition_cont_0_2.json",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "slide_title": "ಹೋಲಿಕೆ: ಸಹವೇಲೆನ್ಸಿಯ vs ಅಯಾನಿಕ್ ಬಂಧ",
+      "type": "definition",
+      "start": 123.033,
+      "end": 168.404,
+      "duration": 45.371,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_10_chapter_4_concept_1_chunk_005",
+      "chunk_file": "005_property_0.json",
+      "wav_file": "005_property_0.wav",
+      "slide_title": "ಸಹವೇಲೆನ್ಸಿಯ ಸಂಯುಕ್ತಗಳ ಗುಣಗಳು",
+      "type": "concept_explanation",
+      "start": 169.004,
+      "end": 215.735,
+      "duration": 46.731,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_10_chapter_4_concept_1_chunk_006",
+      "chunk_file": "006_property_cont_0_1.json",
+      "wav_file": "006_property_cont_0_1.wav",
+      "slide_title": "ಸಹವೇಲೆನ್ಸಿಯ ಸಂಯುಕ್ತಗಳ ಗುಣಗಳು (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "start": 216.335,
+      "end": 259.586,
+      "duration": 43.251,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_10_chapter_4_concept_1_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 260.186,
+      "end": 294.157,
+      "duration": 33.971,
+      "script_words": 53
+    }
+  ]
+}

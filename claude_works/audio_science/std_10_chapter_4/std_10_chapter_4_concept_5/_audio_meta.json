@@ -1,0 +1,169 @@
+{
+  "module_id": "std_10_chapter_4_concept_5",
+  "chapter_code": "std_10_chapter_4",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 14,
+  "ok_count": 14,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:12:36",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "a6c2b2643f5def67eebf0645e17d5f44",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 23.291,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisite",
+      "script_words": 33,
+      "generated_at": "2026-04-02 12:10:10"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "1046f0511b4068f85819c31122227c18",
+      "wav_file": "003_definition_0.wav",
+      "duration": 39.851,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ರಚನಾ ಸಮಾಂಗಿಗಳು",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 12:10:38"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "fb1bb583d91fc771cdb9c6682bdc0cbd",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 43.451,
+      "slide_title": "ಉದಾಹರಣೆ: ಬ್ಯೂಟೇನ್ (C₄H₁₀)",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 12:10:39"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "83af0d6a74b6d73add38155510945818",
+      "wav_file": "001_intro_0.wav",
+      "duration": 64.411,
+      "slide_title": "ರಚನಾ ಸಮಾಂಗಿಗಳು ಮತ್ತು ಕಾರ್ಬನ್ ಸರಪಳಿಗಳು",
+      "type": "intro",
+      "script_words": 94,
+      "generated_at": "2026-04-02 12:10:52"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "67d512c1267df5f7143e41be83547f5b",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 44.691,
+      "slide_title": "ಗುಣಲಕ್ಷಣಗಳಲ್ಲಿ ವ್ಯತ್ಯಾಸ",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 12:10:54"
+    },
+    "010_example_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "2aed1e925647035bc3702eaf57951ab1",
+      "wav_file": "010_example_0.wav",
+      "duration": 27.331,
+      "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಬ್ಯೂಟೇನ್ ಸಮಾಂಗಿಗಳು",
+      "type": "worked_example",
+      "script_words": 36,
+      "generated_at": "2026-04-02 12:11:26"
+    },
+    "009_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "383579d43258c6f795efddd844ef324e",
+      "wav_file": "009_classification_cont_0_3.wav",
+      "duration": 44.731,
+      "slide_title": "ಉಂಗುರಾಕಾರದ ರಚನೆ: ಅಪರ್ಯಾಪ್ತ",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 12:11:28"
+    },
+    "008_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "b5e23261f77a7e23648879a4e1f0cf07",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "duration": 50.571,
+      "slide_title": "ಉಂಗುರಾಕಾರದ ರಚನೆ: ಪರ್ಯಾಪ್ತ",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 12:11:48"
+    },
+    "006_classification_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "cf6c92beec7da11c789b7a2937347e80",
+      "wav_file": "006_classification_0.wav",
+      "duration": 48.851,
+      "slide_title": "ಕಾರ್ಬನ್ ಸರಪಳಿಗಳ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 12:11:49"
+    },
+    "007_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "1dc26abfb0e1a2bff307987ffdd78dd8",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "duration": 54.491,
+      "slide_title": "ನೇರ ಮತ್ತು ಕವಲು ಸರಪಳಿಗಳು",
+      "type": "concept_explanation",
+      "script_words": 71,
+      "generated_at": "2026-04-02 12:11:53"
+    },
+    "011_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "c7fe68c05ebd292e04d2ce36ebf12ea6",
+      "wav_file": "011_example_cont_0_1.wav",
+      "duration": 25.451,
+      "slide_title": "ಹಂತ 1: ನೇರ ಸರಪಳಿ ರಚನೆ",
+      "type": "worked_example",
+      "script_words": 33,
+      "generated_at": "2026-04-02 12:12:25"
+    },
+    "012_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "f57076baefbc959da73516a9e7cc6aab",
+      "wav_file": "012_example_cont_0_2.wav",
+      "duration": 31.211,
+      "slide_title": "ಹಂತ 2: ಕವಲು ಸರಪಳಿ ರಚನೆ",
+      "type": "worked_example",
+      "script_words": 38,
+      "generated_at": "2026-04-02 12:12:28"
+    },
+    "013_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "94cfd35dea0f314e118c54f7e1a3d1ea",
+      "wav_file": "013_example_cont_0_3.wav",
+      "duration": 29.611,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 33,
+      "generated_at": "2026-04-02 12:12:29"
+    },
+    "014_recap_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "a059b074a861965993381e233de424c4",
+      "wav_file": "014_recap_0.wav",
+      "duration": 42.411,
+      "slide_title": "ಸಾರಾಂಶ: ರಚನಾ ಸಮಾಂಗಿಗಳು ಮತ್ತು ಕಾರ್ಬನ್ ಸರಪಳಿಗಳು",
+      "type": "recap",
+      "script_words": 57,
+      "generated_at": "2026-04-02 12:12:36"
+    }
+  }
+}

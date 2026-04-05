@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಗಳು: ವ್ಯಾಖ್ಯಾನ",
+  "script": "ಮೊದಲಿಗೆ, ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಗಳು ಅಂದರೆ ಏನು ಎಂದು ನೋಡೋಣ. ಮೂರು ಧನ ಪೂರ್ಣಾಂಕಗಳ ಗುಂಪಿನಲ್ಲಿ, ಎರಡು ಚಿಕ್ಕ ಸಂಖ್ಯೆಗಳ ವರ್ಗಗಳ ಮೊತ್ತವು ಮೂರನೇ ಅತಿದೊಡ್ಡ ಸಂಖ್ಯೆಯ ವರ್ಗಕ್ಕೆ ಸಮನಾಗಿದ್ದರೆ, ಆ ಗುಂಪನ್ನು ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಮೂರು, ನಾಲ್ಕು, ಮತ್ತು ಐದು ಎಂಬ ಸಂಖ್ಯೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಇಲ್ಲಿ, ಮೂರರ ವರ್ಗ ಒಂಬತ್ತು, ಮತ್ತು ನಾಲ್ಕರ ವರ್ಗ ಹದಿನಾರು. ಇವೆರಡನ್ನು ಕೂಡಿಸಿದಾಗ ಇಪ್ಪತ್ತೈದು ಬರುತ್ತದೆ, ಇದು ಐದರ ವರ್ಗಕ್ಕೆ ಸಮ. ಆದ್ದರಿಂದ, ಮೂರು, ನಾಲ್ಕು, ಐದು ಒಂದು ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಯಾಗಿದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಗಳು ಅಂದರೆ ಏನು ಎಂದು ನೋಡೋಣ. ಮೂರು ಧನ ಪೂರ್ಣಾಂಕಗಳ ಗುಂಪಿನಲ್ಲಿ, ಎರಡು ಚಿಕ್ಕ ಸಂಖ್ಯೆಗಳ ವರ್ಗಗಳ ಮೊತ್ತವು ಮೂರನೇ ಅತಿದೊಡ್ಡ ಸಂಖ್ಯೆಯ ವರ್ಗಕ್ಕೆ ಸಮನಾಗಿದ್ದರೆ, ಆ ಗುಂಪನ್ನು ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, $(3, 4, 5)$ ಎಂಬ ಸಂಖ್ಯೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಇಲ್ಲಿ, $3^2 = 9$, ಮತ್ತು $4^2 = 16$. ಇವೆರಡನ್ನು ಕೂಡಿಸಿದಾಗ $9 + 16 = 25$ ಬರುತ್ತದೆ, ಇದು $5^2$ ಕ್ಕೆ ಸಮ. ಆದ್ದರಿಂದ, $(3, 4, 5)$ ಒಂದು ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಮೂರು ಧನ ಪೂರ್ಣಾಂಕಗಳ ಗುಂಪು $(a, b, c)$.",
+    "ಷರತ್ತು: $a^2 + b^2 = c^2$.",
+    "ಉದಾಹರಣೆ: $(3, 4, 5)$ ಒಂದು ತ್ರಿವಳಿಯಾಗಿದೆ.",
+    "$3^2 + 4^2 = 9 + 16 = 25 = 5^2$."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right-angled triangle with its sides labeled 3, 4, and 5. The side with length 5 is the hypotenuse. Below the triangle, the Pythagorean theorem is illustrated with these numbers: 3^2 + 4^2 = 5^2.",
+    "labels": "Sides: 3, 4, 5; Hypotenuse: 5; Equation: 3^2 + 4^2 = 5^2",
+    "mathematical_significance": "Illustrates the definition of a Pythagorean triplet with the most common example.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "NS-SQR-2_concept_5_chunk_008"
+}

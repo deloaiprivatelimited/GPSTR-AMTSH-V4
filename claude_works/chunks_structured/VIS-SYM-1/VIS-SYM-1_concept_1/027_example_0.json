@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚೌಕುಳಿ ಹಾಳೆಯಲ್ಲಿ ನೀಲಿ ರೇಖೆಯನ್ನು ಸಮಮಿತಿ ರೇಖೆಯಾಗಿ ಪರಿಗಣಿಸಿ, ಕೊಟ್ಟಿರುವ ಕೆಂಪು ಬಣ್ಣದ ಆಕೃತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಅಪೂರ್ಣ ಆಕೃತಿ ಮತ್ತು ಒಂದು ಸಮಮಿತಿ ರೇಖೆಯನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಈ ಆಕೃತಿಯ ಪ್ರತಿಬಿಂಬವನ್ನು ರಚಿಸಿ ಅದನ್ನು ಪೂರ್ಣಗೊಳಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚೌಕುಳಿ ಹಾಳೆಯಲ್ಲಿ (grid paper) ನೀಲಿ ರೇಖೆಯನ್ನು ಸಮಮಿತಿ ರೇಖೆಯಾಗಿ ಪರಿಗಣಿಸಿ, ಕೊಟ್ಟಿರುವ ಕೆಂಪು ಬಣ್ಣದ ಆಕೃತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಅಪೂರ್ಣ ಆಕೃತಿ ಮತ್ತು ಒಂದು ಸಮಮಿತಿ ರೇಖೆಯನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಈ ಆಕೃತಿಯ ಪ್ರತಿಬಿಂಬವನ್ನು ರಚಿಸಿ ಅದನ್ನು ಪೂರ್ಣಗೊಳಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಚೌಕುಳಿ ಹಾಳೆಯಲ್ಲಿ (grid paper) ನೀಲಿ ರೇಖೆಯನ್ನು ಸಮಮಿತಿ ರೇಖೆಯಾಗಿ ಪರಿಗಣಿಸಿ, ಕೊಟ್ಟಿರುವ ಕೆಂಪು ಬಣ್ಣದ ಆಕೃತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಚೌಕುಳಿ ಹಾಳೆಯ ಮೇಲೆ ಒಂದು ಲಂಬವಾದ ನೀಲಿ ರೇಖೆ (ಸಮಮಿತಿ ರೇಖೆ). ರೇಖೆಯ ಎಡಭಾಗದಲ್ಲಿ ಕೆಂಪು ಬಣ್ಣದಲ್ಲಿ ಒಂದು ಅಪೂರ್ಣ ಆಕೃತಿ ಇದೆ. ಆಕೃತಿಯು ಕೆಲವು ಶೃಂಗಗಳನ್ನು ಹೊಂದಿದೆ, ಮತ್ತು ಅದನ್ನು ಪೂರ್ಣಗೊಳಿಸಬೇಕಾಗಿದೆ.",
+    "labels": "ಸಮಮಿತಿ ರೇಖೆ, ಅಪೂರ್ಣ ಆಕೃತಿ",
+    "mathematical_significance": "ಪ್ರತಿಫಲನ ಸಮಮಿತಿಯ ತತ್ವವನ್ನು ಅನ್ವಯಿಸಲು ಆರಂಭಿಕ ಸ್ಥಿತಿಯನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing a grid, a vertical blue line, and an incomplete red shape on one side."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "VIS-SYM-1_example_1",
+  "chunk_id": "VIS-SYM-1_concept_1_chunk_027"
+}

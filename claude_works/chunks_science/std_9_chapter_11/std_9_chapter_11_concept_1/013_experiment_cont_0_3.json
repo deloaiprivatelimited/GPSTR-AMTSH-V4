@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಹಂತ 3",
+  "script": "ಈಗ ನಾವು ಕಂಪನವು ಶಕ್ತಿಯನ್ನು ವರ್ಗಾಯಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡೋಣ. ದಾರದಿಂದ ನೇತುಹಾಕಿದ ಟೇಬಲ್ ಟೆನ್ನಿಸ್ ಚೆಂಡನ್ನು ಸ್ಥಿರವಾಗಿ ನಿಲ್ಲುವಂತೆ ಮಾಡಿ. ಮತ್ತೊಮ್ಮೆ ಶ್ರುತಿಕವೆಯನ್ನು ರಬ್ಬರ್ ಪ್ಯಾಡಿಗೆ ಬಡಿದು ಕಂಪಿಸುವಂತೆ ಮಾಡಿ. ಈಗ, ಕಂಪಿಸುತ್ತಿರುವ ಶ್ರುತಿಕವೆಯ ತುದಿಯನ್ನು ಚೆಂಡಿಗೆ ನಿಧಾನವಾಗಿ ತಾಗಿಸಿ. ನೀವು ತಾಗಿಸಿದ ತಕ್ಷಣ, ಚೆಂಡು ತನ್ನ ಸ್ಥಾನದಿಂದ ದೂರಕ್ಕೆ ತಳ್ಳಲ್ಪಡುತ್ತದೆ. ಶ್ರುತಿಕವೆಯ ಕಂಪನವು ತನ್ನ ಶಕ್ತಿಯನ್ನು ಚೆಂಡಿಗೆ ವರ್ಗಾಯಿಸಿದ್ದರಿಂದ ಹೀಗಾಯಿತು. ಇದು ಕಂಪನವು ಕೇವಲ ಶಬ್ದವನ್ನಲ್ಲ, ಶಕ್ತಿಯನ್ನೂ ಹೊಂದಿದೆ ಎಂದು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಕಂಪನವು ಶಕ್ತಿಯನ್ನು ವರ್ಗಾಯಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡೋಣ. ದಾರದಿಂದ ನೇತುಹಾಕಿದ ಟೇಬಲ್ ಟೆನ್ನಿಸ್ ಚೆಂಡನ್ನು ಸ್ಥಿರವಾಗಿ ನಿಲ್ಲುವಂತೆ ಮಾಡಿ. ಮತ್ತೊಮ್ಮೆ ಶ್ರುತಿಕವೆಯನ್ನು ರಬ್ಬರ್ ಪ್ಯಾಡಿಗೆ ಬಡಿದು ಕಂಪಿಸುವಂತೆ ಮಾಡಿ. ಈಗ, ಕಂಪಿಸುತ್ತಿರುವ ಶ್ರುತಿಕವೆಯ ತುದಿಯನ್ನು ಚೆಂಡಿಗೆ ನಿಧಾನವಾಗಿ ತಾಗಿಸಿ. ನೀವು ತಾಗಿಸಿದ ತಕ್ಷಣ, ಚೆಂಡು ತನ್ನ ಸ್ಥಾನದಿಂದ ದೂರಕ್ಕೆ ತಳ್ಳಲ್ಪಡುತ್ತದೆ. ಶ್ರುತಿಕವೆಯ ಕಂಪನವು ತನ್ನ ಶಕ್ತಿಯನ್ನು ಚೆಂಡಿಗೆ ವರ್ಗಾಯಿಸಿದ್ದರಿಂದ ಹೀಗಾಯಿತು. ಇದು ಕಂಪನವು ಕೇವಲ ಶಬ್ದವನ್ನಲ್ಲ, ಶಕ್ತಿಯನ್ನೂ ಹೊಂದಿದೆ ಎಂದು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕಂಪಿಸುತ್ತಿರುವ ಶ್ರುತಿಕವೆಯನ್ನು ನೇತುಹಾಕಿದ ಟೇಬಲ್ ಟೆನ್ನಿಸ್ ಚೆಂಡಿಗೆ ತಾಗಿಸಿ.",
+    "ಚೆಂಡು ದೂರಕ್ಕೆ ತಳ್ಳಲ್ಪಡುವುದನ್ನು ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-part diagram. Part 1: A vibrating tuning fork approaches a hanging table tennis ball. Part 2: The tuning fork touches the ball, and the ball is shown being pushed away, indicating a transfer of energy.",
+    "labels": "ಕಂಪಿಸುತ್ತಿರುವ ಶ್ರುತಿಕವೆ, ಟೇಬಲ್ ಟೆನ್ನಿಸ್ ಚೆಂಡು, ಶಕ್ತಿ ವರ್ಗಾವಣೆ",
+    "scientific_significance": "Visually proves that vibrating objects possess and can transfer energy, causing macroscopic motion.",
+    "placeholder_note": "Image to be generated showing the tuning fork pushing the ball."
+  },
+  "sub_type": "experiment_walkthrough",
+  "chunk_id": "std_9_chapter_11_concept_1_chunk_013"
+}

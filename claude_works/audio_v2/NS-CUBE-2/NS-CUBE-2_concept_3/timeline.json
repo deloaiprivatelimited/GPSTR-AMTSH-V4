@@ -1,0 +1,122 @@
+{
+  "module_id": "NS-CUBE-2_concept_3",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 444.11,
+  "total_duration_formatted": "7:24",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "NS-CUBE-2_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪೂರ್ಣ ಘನಗಳ ಪರಿಶೀಲನೆ ಮತ್ತು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 65.851,
+      "duration": 65.851,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "NS-CUBE-2_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 66.451,
+      "end": 102.462,
+      "duration": 36.011,
+      "script_words": 44
+    },
+    {
+      "chunk_id": "NS-CUBE-2_concept_3_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಪೂರ್ಣ ಘನದ ನಿಯಮ",
+      "type": "concept_explanation",
+      "start": 103.062,
+      "end": 142.433,
+      "duration": 39.371,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "NS-CUBE-2_concept_3_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: 216 ಪೂರ್ಣ ಘನವೇ?",
+      "type": "concept_explanation",
+      "start": 143.033,
+      "end": 204.724,
+      "duration": 61.691,
+      "script_words": 82
+    },
+    {
+      "chunk_id": "NS-CUBE-2_concept_3_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಉದಾಹರಣೆ: 500 ಪೂರ್ಣ ಘನವೇ?",
+      "type": "concept_explanation",
+      "start": 205.324,
+      "end": 261.135,
+      "duration": 55.811,
+      "script_words": 72
+    },
+    {
+      "chunk_id": "NS-CUBE-2_concept_3_chunk_006",
+      "chunk_file": "006_example_0.json",
+      "wav_file": "006_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: 243 ಪೂರ್ಣ ಘನವೇ?",
+      "type": "worked_example",
+      "start": 261.735,
+      "end": 282.946,
+      "duration": 21.211,
+      "script_words": 28
+    },
+    {
+      "chunk_id": "NS-CUBE-2_concept_3_chunk_007",
+      "chunk_file": "007_example_cont_0_1.json",
+      "wav_file": "007_example_cont_0_1.wav",
+      "slide_title": "ಹಂತ 1: ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ",
+      "type": "worked_example",
+      "start": 283.546,
+      "end": 344.877,
+      "duration": 61.331,
+      "script_words": 78
+    },
+    {
+      "chunk_id": "NS-CUBE-2_concept_3_chunk_008",
+      "chunk_file": "008_example_cont_0_2.json",
+      "wav_file": "008_example_cont_0_2.wav",
+      "slide_title": "ಹಂತ 2 ಮತ್ತು 3: ಗುಂಪು ಮಾಡುವುದು ಮತ್ತು ವಿಶ್ಲೇಷಣೆ",
+      "type": "worked_example",
+      "start": 345.477,
+      "end": 382.488,
+      "duration": 37.011,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "NS-CUBE-2_concept_3_chunk_009",
+      "chunk_file": "009_example_cont_0_3.json",
+      "wav_file": "009_example_cont_0_3.wav",
+      "slide_title": "ತೀರ್ಮಾನ",
+      "type": "worked_example",
+      "start": 383.088,
+      "end": 402.819,
+      "duration": 19.731,
+      "script_words": 25
+    },
+    {
+      "chunk_id": "NS-CUBE-2_concept_3_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಪೂರ್ಣ ಘನಗಳ ಪರೀಕ್ಷೆ",
+      "type": "recap",
+      "start": 403.419,
+      "end": 443.51,
+      "duration": 40.091,
+      "script_words": 55
+    }
+  ]
+}

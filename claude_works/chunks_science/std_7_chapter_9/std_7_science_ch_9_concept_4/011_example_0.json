@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಜವದ ಪರಿವರ್ತನೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೋಷ್ಟಕ 9.4 ರ ಪ್ರಕಾರ, ಗಿಡುಗದ ಜವ 320 ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ಗಂಟೆಗೆ. ಇದನ್ನು ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ವ್ಯಕ್ತಪಡಿಸಿ. ಇಲ್ಲಿ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ಜವ 320 ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ಗಂಟೆಗೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು, ಅದೇ ಜವವನ್ನು ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡಿನಲ್ಲಿ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೋಷ್ಟಕ 9.4 ರ ಪ್ರಕಾರ, ಗಿಡುಗದ ಜವ 320 km/h. ಇದನ್ನು m/s ನಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿ. ಇಲ್ಲಿ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ಜವ 320 km/h. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು, ಅದೇ ಜವವನ್ನು m/s ನಲ್ಲಿ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಗಿಡುಗದ ಜವ 320 km/h. ಇದನ್ನು m/s ನಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿ.",
+    "ದತ್ತ (Given): ಜವ = 320 km/h",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To Find): ಜವ (m/s ನಲ್ಲಿ)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "std_7_science_ch_9_example_1",
+  "chunk_id": "std_7_science_ch_9_concept_4_chunk_011"
+}

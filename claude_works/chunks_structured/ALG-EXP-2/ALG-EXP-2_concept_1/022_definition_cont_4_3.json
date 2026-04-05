@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಏಕಪದೋಕ್ತಿ ಯಾವುದು? ಯಾವುದು ಅಲ್ಲ?",
+  "script": "ಈಗ ಒಂದು ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಏಳು ಎಕ್ಸ್ ವೈ. ನಾವು ಈಗಾಗಲೇ ನೋಡಿದಂತೆ, ಇದು ಒಂದೇ ಪದವನ್ನು ಹೊಂದಿರುವುದರಿಂದ ಒಂದು ಏಕಪದೋಕ್ತಿ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಏಳು ಎಕ್ಸ್ ವೈ ಪ್ಲಸ್ ಮೂರು ಝೆಡ್. ಇಲ್ಲಿ, ಪ್ಲಸ್ ಚಿಹ್ನೆಯು ಎರಡು ಪ್ರತ್ಯೇಕ ಪದಗಳನ್ನು, ಅಂದರೆ ಏಳು ಎಕ್ಸ್ ವೈ ಮತ್ತು ಮೂರು ಝೆಡ್ ಅನ್ನು, ಜೋಡಿಸುತ್ತಿದೆ. ಇಲ್ಲಿ ಒಟ್ಟು ಎರಡು ಪದಗಳಿರುವುದರಿಂದ, ಇದು ಏಕಪದೋಕ್ತಿ ಅಲ್ಲ. ಇದನ್ನು ನಾವು 'ದ್ವಿಪದೋಕ್ತಿ' ಎಂದು ಕರೆಯುತ್ತೇವೆ, ಅದರ ಬಗ್ಗೆ ಮುಂದೆ ಕಲಿಯೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, $7xy$. ನಾವು ಈಗಾಗಲೇ ನೋಡಿದಂತೆ, ಇದು ಒಂದೇ ಪದವನ್ನು ಹೊಂದಿರುವುದರಿಂದ ಒಂದು ಏಕಪದೋಕ್ತಿ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, $7xy + 3z$. ಇಲ್ಲಿ, '+' ಚಿಹ್ನೆಯು ಎರಡು ಪ್ರತ್ಯೇಕ ಪದಗಳನ್ನು, ಅಂದರೆ $7xy$ ಮತ್ತು $3z$ ಅನ್ನು, ಜೋಡಿಸುತ್ತಿದೆ. ಇಲ್ಲಿ ಒಟ್ಟು ಎರಡು ಪದಗಳಿರುವುದರಿಂದ, ಇದು ಏಕಪದೋಕ್ತಿ ಅಲ್ಲ. ಇದನ್ನು ನಾವು 'ದ್ವಿಪದೋಕ್ತಿ' (Binomial) ಎಂದು ಕರೆಯುತ್ತೇವೆ, ಅದರ ಬಗ್ಗೆ ಮುಂದೆ ಕಲಿಯೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "comparison_visual_left_right",
+    "text_zone": "bottom",
+    "visual_zone": "full",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A two-column comparison. Left column titled 'ಏಕಪದೋಕ್ತಿ (Monomial)' with content '7xy'. Right column titled 'ಏಕಪದೋಕ್ತಿ ಅಲ್ಲ (Not a Monomial)' with content '7xy + 3z'. A caption below explains that the '+' sign separates the terms on the right side, making it a binomial, not a monomial."
+  },
+  "chunk_id": "ALG-EXP-2_concept_1_chunk_022"
+}

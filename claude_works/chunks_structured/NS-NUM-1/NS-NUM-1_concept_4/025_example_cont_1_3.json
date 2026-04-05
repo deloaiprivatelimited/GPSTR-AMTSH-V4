@@ -1,0 +1,33 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಎಲ್ಲಾ ಹಂತಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ, 12 ರಿಂದ ಪ್ರಾರಂಭವಾಗುವ ಸಂಪೂರ್ಣ ಕೊಲಾಟ್ಸ್ ಶ್ರೇಣಿ ಹೀಗಿದೆ: 12, 6, 3, 10, 5, 16, 8, 4, 2, ಮತ್ತು 1. ಈ ಶ್ರೇಣಿಯು 1 ರಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ, ಇದು ಕೊಲಾಟ್ಸ್ ಊಹೆಗೆ ಅನುಗುಣವಾಗಿದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಎಲ್ಲಾ ಹಂತಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ, 12 ರಿಂದ ಪ್ರಾರಂಭವಾಗುವ ಸಂಪೂರ್ಣ ಕೊಲಾಟ್ಸ್ ಶ್ರೇಣಿ ಹೀಗಿದೆ: $12, 6, 3, 10, 5, 16, 8, 4, 2, 1$. ಈ ಶ್ರೇಣಿಯು 1 ರಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ, ಇದು ಕೊಲಾಟ್ಸ್ ಊಹೆಗೆ ಅನುಗುಣವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-NUM-1_example_5",
+  "steps": [],
+  "final_answer": "12, 6, 3, 10, 5, 16, 8, 4, 2, 1.",
+  "final_answer_display": "$12, 6, 3, 10, 5, 16, 8, 4, 2, 1$.",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "NS-NUM-1_concept_4_chunk_025"
+}

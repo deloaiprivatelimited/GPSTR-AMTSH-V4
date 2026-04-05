@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಶೀಲನೆಯ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ವಿಭಾಜಕ ಗುಣವನ್ನು ಬಳಸಿ ಈ ಹೇಳಿಕೆಯನ್ನು ಪರೀಕ್ಷಿಸಬೇಕು: ಹದಿನೆಂಟು ಗುಣಿಸು ಏಳು ಪ್ಲಸ್ ಮೈನಸ್ ಮೂರು, ಇದು ಹದಿನೆಂಟು ಗುಣಿಸು ಏಳು ಪ್ಲಸ್ ಹದಿನೆಂಟು ಗುಣಿಸು ಮೈನಸ್ ಮೂರಕ್ಕೆ ಸಮನಾಗಿದೆಯೇ ಎಂದು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಮೊದಲು ಸಮೀಕರಣದ ಎಡಭಾಗದ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ. ನಂತರ, ಬಲಭಾಗದ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ. ಕೊನೆಯಲ್ಲಿ, ಎರಡೂ ಮೌಲ್ಯಗಳು ಸಮವಾಗಿದೆಯೇ ಎಂದು ಹೋಲಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ವಿಭಾಜಕ ಗುಣವನ್ನು ಬಳಸಿ ಈ ಹೇಳಿಕೆಯನ್ನು ಪರೀಕ್ಷಿಸಬೇಕು: $18 \\times [7 + (-3)] = [18 \\times 7] + [18 \\times (-3)]$. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಮೊದಲು ಸಮೀಕರಣದ ಎಡಭಾಗದ (LHS) ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ. ನಂತರ, ಬಲಭಾಗದ (RHS) ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ. ಕೊನೆಯಲ್ಲಿ, ಎರಡೂ ಮೌಲ್ಯಗಳು ಸಮವಾಗಿದೆಯೇ ಎಂದು ಹೋಲಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $18 \\times [7 + (-3)] = [18 \\times 7] + [18 \\times (-3)]$ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ.",
+    "ವಿಧಾನ: ಎಡಭಾಗ (LHS) ಮತ್ತು ಬಲಭಾಗ (RHS) ಎರಡರ ಮೌಲ್ಯವನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಕಂಡುಹಿಡಿದು ಹೋಲಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "18 \\times [7 + (-3)] = [18 \\times 7] + [18 \\times (-3)]",
+    "placeholder_note": "Problem to be verified"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-INT-1_example_4",
+  "chunk_id": "NS-INT-1_concept_6_chunk_011"
+}

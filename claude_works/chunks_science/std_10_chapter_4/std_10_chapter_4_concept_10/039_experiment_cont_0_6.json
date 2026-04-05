@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಎಸ್ಟರೀಕರಣದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ C H three C O O H, ಅಂದರೆ ಎಥನೋಯಿಕ್ ಆಮ್ಲ, C H three C H two O H, ಅಂದರೆ ಎಥನಾಲ್‌ನೊಂದಿಗೆ ಆಮ್ಲದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ವರ್ತಿಸುತ್ತದೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ, C H three C O O C H two C H three, ಅಂದರೆ ಈಥೈಲ್ ಎಥನೋಯೇಟ್ ಎಂಬ ಎಸ್ಟರ್ ಮತ್ತು H two O, ಅಂದರೆ ನೀರು ಉತ್ಪನ್ನಗಳಾಗಿ ದೊರೆಯುತ್ತವೆ. ಸಾರ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲವು ಇಲ್ಲಿ ಎರಡು ಪ್ರಮುಖ ಪಾತ್ರಗಳನ್ನು ವಹಿಸುತ್ತದೆ: ಒಂದು, ಇದು ಕ್ರಿಯಾವರ್ಧಕವಾಗಿ ವರ್ತಿಸಿ ಕ್ರಿಯೆಯ ವೇಗವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. ಎರಡು, ಇದು ನಿರ್ಜಲಕಾರಿಯಾಗಿ ವರ್ತಿಸಿ, ಉತ್ಪನ್ನವಾದ ನೀರನ್ನು ಹೀರಿಕೊಂಡು ಕ್ರಿಯೆಯು ಮುಮ್ಮುಖವಾಗಿ ಸಾಗಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ $CH_3COOH$ (ಎಥನೋಯಿಕ್ ಆಮ್ಲ), $CH_3CH_2OH$ (ಎಥನಾಲ್) ನೊಂದಿಗೆ ಆಮ್ಲದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ವರ್ತಿಸುತ್ತದೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ, $CH_3COOCH_2CH_3$ (ಈಥೈಲ್ ಎಥನೋಯೇಟ್) ಎಂಬ ಎಸ್ಟರ್ ಮತ್ತು $H_2O$ (ನೀರು) ಉತ್ಪನ್ನಗಳಾಗಿ ದೊರೆಯುತ್ತವೆ. ಸಾರ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲವು ಕ್ರಿಯಾವರ್ಧಕ ಮತ್ತು ನಿರ್ಜಲಕಾರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳು: ಎಥನೋಯಿಕ್ ಆಮ್ಲ ಮತ್ತು ಎಥನಾಲ್.",
+    "ಉತ್ಪನ್ನಗಳು: ಈಥೈಲ್ ಎಥನೋಯೇಟ್ (ಎಸ್ಟರ್) ಮತ್ತು ನೀರು.",
+    "ಕ್ರಿಯಾವರ್ಧಕ: ಸಾರ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "single_column",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\underset{\\text{(ಎಥನೋಯಿಕ್ ಆಮ್ಲ)}}{CH_3COOH} + \\underset{\\text{(ಎಥನಾಲ್)}}{CH_3CH_2OH} \\xrightarrow{\\text{ಆಮ್ಲ}} \\underset{\\text{(ಎಸ್ಟರ್)}}{CH_3COOCH_2CH_3} + \\underset{\\text{(ನೀರು)}}{H_2O}",
+    "placeholder_note": "Detailed chemical equation for esterification showing reactants, products, and catalyst."
+  },
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_039"
+}

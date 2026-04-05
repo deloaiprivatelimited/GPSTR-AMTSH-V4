@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಫಲಿತ ಬಲದ ಸೂತ್ರ",
+  "script": "ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿರುವ ಬಲಗಳ ಫಲಿತ ಬಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಾವು ಈ ಸರಳ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ. ಎಫ್ ನೆಟ್ ಈಕ್ವಲ್ಸ್ ಎಫ್ ಒನ್ ಪ್ಲಸ್ ಎಫ್ ಟು. ಇಲ್ಲಿ, ಎಫ್ ನೆಟ್ ಎಂದರೆ ಫಲಿತ ಬಲ, ಅಂದರೆ ಎಲ್ಲಾ ಬಲಗಳ ಒಟ್ಟು ಪರಿಣಾಮ. ಎಫ್ ಒನ್ ಎಂದರೆ ಮೊದಲ ಬಲ ಮತ್ತು ಎಫ್ ಟು ಎಂದರೆ ಎರಡನೇ ಬಲ. ಒಂದು ವೇಳೆ ಎರಡಕ್ಕಿಂತ ಹೆಚ್ಚು ಬಲಗಳಿದ್ದರೆ, ಉದಾಹರಣೆಗೆ ಎಫ್ ತ್ರೀ, ಎಫ್ ಫೋರ್, ಅವೆಲ್ಲವನ್ನೂ ನಾವು ಕೂಡಿಸುತ್ತಾ ಹೋಗುತ್ತೇವೆ. ನೆನಪಿಡಿ, ಈ ಸೂತ್ರವು ಬಲಗಳು ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿದ್ದಾಗ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ.",
+  "script_display": "ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿರುವ ಬಲಗಳ ಫಲಿತ ಬಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಾವು ಈ ಸರಳ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ. ಇಲ್ಲಿ, F_net ಎಂದರೆ ಫಲಿತ ಬಲ (Net Force). F₁ ಎಂದರೆ ಮೊದಲ ಬಲ ಮತ್ತು F₂ ಎಂದರೆ ಎರಡನೇ ಬಲ. ಒಂದು ವೇಳೆ ಎರಡಕ್ಕಿಂತ ಹೆಚ್ಚು ಬಲಗಳಿದ್ದರೆ (F₃, F₄, ...), ಅವೆಲ್ಲವನ್ನೂ ನಾವು ಕೂಡಿಸುತ್ತಾ ಹೋಗುತ್ತೇವೆ. ನೆನಪಿಡಿ, ಈ ಸೂತ್ರವು ಬಲಗಳು ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿದ್ದಾಗ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "F_net = ಫಲಿತ ಬಲ (Net Force)",
+    "F₁ = ಮೊದಲ ಬಲ (First Force)",
+    "F₂ = ಎರಡನೇ ಬಲ (Second Force)",
+    "ಎಲ್ಲಾ ಬಲಗಳು ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿದ್ದಾಗ ಅವುಗಳನ್ನು ಕೂಡಿಸಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "F_{net} = F_1 + F_2",
+    "placeholder_note": "Display the formula for net force when forces are in the same direction."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_8_chapter_8_concept_2_chunk_005"
+}

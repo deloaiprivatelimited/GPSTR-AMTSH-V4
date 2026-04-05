@@ -1,0 +1,37 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಪ್ರಮೇಯ 9.3: ಸಾಧನೆ (ಭಾಗ 2)",
+  "script": "ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು, ಅಂದರೆ ತ್ರಿಭುಜ OAM ಮತ್ತು ತ್ರಿಭುಜ OBM ಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, OA ಮತ್ತು OB ಬಾಹುಗಳು ಸಮವಾಗಿವೆ, ಏಕೆಂದರೆ ಅವು ಒಂದೇ ವೃತ್ತದ ತ್ರಿಜ್ಯಗಳು. ಎರಡನೆಯದಾಗಿ, OM ಬಾಹು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿದೆ, ಆದ್ದರಿಂದ OM ಈಕ್ವಲ್ಸ್ OM. ಮೂರನೆಯದಾಗಿ, OM ರೇಖೆಯು AB ಗೆ ಲಂಬವಾಗಿರುವುದರಿಂದ, ಕೋನ OMA ಮತ್ತು ಕೋನ OMB ಎರಡೂ ತೊಂಬತ್ತು ಡಿಗ್ರಿಗಳಿಗೆ ಸಮನಾಗಿರುತ್ತವೆ. ಇದನ್ನು ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲಿ ನೀಡಲಾಗಿದೆ.",
+  "script_display": "ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು, ಅಂದರೆ ΔOAM ಮತ್ತು ΔOBM ಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, OA ಮತ್ತು OB ಬಾಹುಗಳು ಸಮವಾಗಿವೆ, ಏಕೆಂದರೆ ಅವು ಒಂದೇ ವೃತ್ತದ ತ್ರಿಜ್ಯಗಳು. ಎರಡನೆಯದಾಗಿ, OM ಬಾಹು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿದೆ, ಆದ್ದರಿಂದ OM = OM. ಮೂರನೆಯದಾಗಿ, OM ರೇಖೆಯು AB ಗೆ ಲಂಬವಾಗಿರುವುದರಿಂದ, ∠OMA ಮತ್ತು ∠OMB ಎರಡೂ 90° ಗೆ ಸಮನಾಗಿರುತ್ತವೆ. ಇದನ್ನು ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲಿ ನೀಡಲಾಗಿದೆ.",
+  "display_bullets": [
+    "$\\Delta OAM$ ಮತ್ತು $\\Delta OBM$ ಗಳಲ್ಲಿ:",
+    "$OA = OB$ (ಒಂದೇ ವೃತ್ತದ ತ್ರಿಜ್ಯಗಳು)",
+    "$OM = OM$ (ಸಾಮಾನ್ಯ ಬಾಹು)",
+    "$\\angle OMA = \\angle OMB = 90^\\circ$ (ದತ್ತ, $OM \\perp AB$)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸಾಧನೆಯ ಹಂತಗಳನ್ನು ತೋರಿಸುವ ಚಿತ್ರ. ಸಮನಾದ ತ್ರಿಜ್ಯಗಳನ್ನು (OA=OB), ಸಾಮಾನ್ಯ ಬಾಹುವನ್ನು (OM) ಮತ್ತು ಲಂಬ ಕೋನಗಳನ್ನು (∠OMA, ∠OMB) ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "O, A, B, M, =, ||, ∟",
+    "mathematical_significance": "ಲಂ.ಕ.ಬಾ ಸರ್ವಸಮತೆಯ ನಿಯಮಕ್ಕೆ ಬೇಕಾದ ಅಂಶಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image for proof steps, with markings for equal sides and angles."
+  },
+  "chunk_id": "GEO-CIR-2_concept_2_chunk_010"
+}

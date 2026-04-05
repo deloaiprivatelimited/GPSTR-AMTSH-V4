@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ವಿಶೇಷ ಪ್ರಕರಣ: ಸಿಲಿಂಡರ್‌ನ ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (CSA)",
+  "script": "ಈಗ ಸಿಲಿಂಡರ್‌ನಂತಹ ವಕ್ರ ಆಕಾರಗಳ ಬಗ್ಗೆ ನೋಡೋಣ. ಆಯತ ಘನದಂತೆ ಸಿಲಿಂಡರ್‌ಗೆ ಚಪ್ಪಟೆಯಾದ ಪಾರ್ಶ್ವ ಮುಖಗಳಿಲ್ಲ. ಬದಲಾಗಿ, ಅದಕ್ಕೆ ಒಂದೇ ಒಂದು ವಕ್ರವಾದ ಮೇಲ್ಮೈ ಇರುತ್ತದೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ, ನಾವು 'ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ' ಎನ್ನುವ ಬದಲು, ಹೆಚ್ಚು ನಿಖರವಾದ 'ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ' ಅಥವಾ ಕರ್ವ್ಡ್ ಸರ್ಫೇಸ್ ಏರಿಯಾ, ಅಂದರೆ CSA ಎಂಬ ಪದವನ್ನು ಬಳಸುತ್ತೇವೆ. ಪರಿಕಲ್ಪನೆ ಒಂದೇ ಆಗಿದೆ: ನಾವು ಮೇಲಿನ ಮತ್ತು ಕೆಳಗಿನ ವೃತ್ತಾಕಾರದ ಮುಖಗಳನ್ನು ಬಿಟ್ಟು, ಕೇವಲ ವಕ್ರ ಭಾಗದ ವಿಸ್ತೀರ್ಣವನ್ನು ಮಾತ್ರ ಲೆಕ್ಕ ಹಾಕುತ್ತೇವೆ. ಆದ್ದರಿಂದ, ಸಿಲಿಂಡರ್‌ನ ವಿಷಯದಲ್ಲಿ, LSA ಮತ್ತು CSA ಒಂದೇ ಅರ್ಥವನ್ನು ಸೂಚಿಸುತ್ತವೆ.",
+  "script_display": "ಈಗ ಸಿಲಿಂಡರ್‌ನಂತಹ ವಕ್ರ ಆಕಾರಗಳ ಬಗ್ಗೆ ನೋಡೋಣ. ಆಯತ ಘನದಂತೆ ಸಿಲಿಂಡರ್‌ಗೆ ಚಪ್ಪಟೆಯಾದ ಪಾರ್ಶ್ವ ಮುಖಗಳಿಲ್ಲ. ಬದಲಾಗಿ, ಅದಕ್ಕೆ ಒಂದೇ ಒಂದು ವಕ್ರವಾದ ಮೇಲ್ಮೈ ಇರುತ್ತದೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ, ನಾವು 'ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ' (LSA) ಎನ್ನುವ ಬದಲು, ಹೆಚ್ಚು ನಿಖರವಾದ 'ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ' (Curved Surface Area - CSA) ಎಂಬ ಪದವನ್ನು ಬಳಸುತ್ತೇವೆ. ಪರಿಕಲ್ಪನೆ ಒಂದೇ ಆಗಿದೆ: ನಾವು ಮೇಲಿನ ಮತ್ತು ಕೆಳಗಿನ ವೃತ್ತಾಕಾರದ ಮುಖಗಳನ್ನು ಬಿಟ್ಟು, ಕೇವಲ ವಕ್ರ ಭಾಗದ ವಿಸ್ತೀರ್ಣವನ್ನು ಮಾತ್ರ ಲೆಕ್ಕ ಹಾಕುತ್ತೇವೆ. ಆದ್ದರಿಂದ, ಸಿಲಿಂಡರ್‌ನ ವಿಷಯದಲ್ಲಿ, LSA ಮತ್ತು CSA ಒಂದೇ ಅರ್ಥವನ್ನು ಸೂಚಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಸಿಲಿಂಡರ್‌ನಂತಹ ವಕ್ರ ಆಕೃತಿಗಳಿಗೆ, ಪ್ರತ್ಯೇಕ 'ಪಾರ್ಶ್ವ' ಮುಖಗಳಿರುವುದಿಲ್ಲ.",
+    "ಬದಲಾಗಿ, ಒಂದೇ ವಕ್ರವಾದ ಮೇಲ್ಮೈ ಇರುತ್ತದೆ.",
+    "ಈ ವಕ್ರ ಮೇಲ್ಮೈಯ ವಿಸ್ತೀರ್ಣವನ್ನು **ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (Curved Surface Area - CSA)** ಎನ್ನುತ್ತೇವೆ.",
+    "ಸಿಲಿಂಡರ್‌ಗೆ, LSA ಮತ್ತು CSA ಒಂದೇ ಆಗಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cylinder is shown. An arrow points to the curved body of the cylinder, labeled 'ವಕ್ರ ಮೇಲ್ಮೈ (Curved Surface)'. The top and bottom circular bases are shown being separated or are colored differently to indicate they are excluded.",
+    "labels": "ವಕ್ರ ಮೇಲ್ಮೈ, ತಳ (ವೃತ್ತ), ಮೇಲ್ಭಾಗ (ವೃತ್ತ)",
+    "mathematical_significance": "Introduces the term Curved Surface Area (CSA) as the equivalent of LSA for objects with curved surfaces like cylinders.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-MEN-2_concept_2_chunk_009"
+}

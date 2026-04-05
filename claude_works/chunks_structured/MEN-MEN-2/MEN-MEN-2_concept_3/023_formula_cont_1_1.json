@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸೂತ್ರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+  "script": "ಈ ಸೂತ್ರವು ಹೇಗೆ ಬಂತು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಚೌಕಘನವು ಒಂದು ವಿಶೇಷ ರೀತಿಯ ಆಯತ ಘನವಾಗಿದೆ, ಇದರಲ್ಲಿ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರಗಳು ಸಮಾನವಾಗಿರುತ್ತವೆ. ಅಂದರೆ, ಎಲ್ ಈಕ್ವಲ್ಸ್ ಬಿ ಈಕ್ವಲ್ಸ್ ಎಚ್. ನಮಗೆ ಆಯತ ಘನದ ಗಾತ್ರದ ಸೂತ್ರ ತಿಳಿದಿದೆ, ಅದು ವಿ ಈಕ್ವಲ್ಸ್ ಎಲ್ ಇಂಟು ಬಿ ಇಂಟು ಎಚ್. ಚೌಕಘನದ ವಿಷಯದಲ್ಲಿ, ನಾವು ಬಿ ಮತ್ತು ಎಚ್ ಎರಡನ್ನೂ ಎಲ್ ನಿಂದ ಬದಲಾಯಿಸಬಹುದು. ಆಗ ಸೂತ್ರವು ವಿ ಈಕ್ವಲ್ಸ್ ಎಲ್ ಇಂಟು ಎಲ್ ಇಂಟು ಎಲ್ ಎಂದಾಗುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿ ವಿ ಈಕ್ವಲ್ಸ್ ಎಲ್ ಕ್ಯೂಬ್ಡ್ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇದರರ್ಥ, ಚೌಕಘನದ ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಿಮಗೆ ಅದರ ಯಾವುದೇ ಒಂದು ಅಂಚಿನ ಅಳತೆ ತಿಳಿದಿದ್ದರೆ ಸಾಕು.",
+  "script_display": "ಈ ಸೂತ್ರವು ಹೇಗೆ ಬಂತು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಚೌಕಘನವು ಒಂದು ವಿಶೇಷ ರೀತಿಯ ಆಯತ ಘನವಾಗಿದೆ, ಇದರಲ್ಲಿ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರಗಳು ಸಮಾನವಾಗಿರುತ್ತವೆ. ಅಂದರೆ, $l=b=h$. ನಮಗೆ ಆಯತ ಘನದ ಗಾತ್ರದ ಸೂತ್ರ ತಿಳಿದಿದೆ, ಅದು $V = l \\times b \\times h$. ಚೌಕಘನದ ವಿಷಯದಲ್ಲಿ, ನಾವು $b$ ಮತ್ತು $h$ ಎರಡನ್ನೂ $l$ ನಿಂದ ಬದಲಾಯಿಸಬಹುದು. ಆಗ ಸೂತ್ರವು $V = l \\times l \\times l$ ಎಂದಾಗುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿ $V = l^3$ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇದರರ್ಥ, ಚೌಕಘನದ ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಿಮಗೆ ಅದರ ಯಾವುದೇ ಒಂದು ಅಂಚಿನ ಅಳತೆ ತಿಳಿದಿದ್ದರೆ ಸಾಕು.",
+  "display_bullets": [
+    "ಚೌಕಘನವು ಒಂದು ವಿಶೇಷ ರೀತಿಯ ಆಯತ ಘನವಾಗಿದ್ದು, ಇದರಲ್ಲಿ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರಗಳು ಸಮಾನವಾಗಿರುತ್ತವೆ ($l=b=h$).",
+    "ಆಯತ ಘನದ ಗಾತ್ರದ ಸೂತ್ರ $V = l \\times b \\times h$ ಆಗಿದೆ.",
+    "ಚೌಕಘನಕ್ಕೆ, ಇದು $V = l \\times l \\times l$ ಆಗುತ್ತದೆ, ಅಂದರೆ $V = l^3$.",
+    "ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಿಮಗೆ ಕೇವಲ ಒಂದು ಅಂಚಿನ ಅಳತೆ ತಿಳಿದಿದ್ದರೆ ಸಾಕು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 3D cube with one of its edges labeled as 'l'. The length, width, and height are all visually equal.",
+    "labels": "l (edge length)",
+    "mathematical_significance": "Illustrates that for a cube, all dimensions are the same, simplifying the volume calculation.",
+    "placeholder_note": "Image to be generated: A simple 3D cube with the letter 'l' next to one edge."
+  },
+  "chunk_id": "MEN-MEN-2_concept_3_chunk_023"
+}

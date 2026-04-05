@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಉಪ್ಪು ನೀರು (ಒಂದು ಮಿಶ್ರಣ)",
+  "script": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನೋಡಿದ ಶುದ್ಧ ವಸ್ತುವಿಗೆ ವಿರುದ್ಧವಾಗಿರುವುದನ್ನು ಈಗ ನೋಡೋಣ, ಅದನ್ನೇ ನಾವು ಮಿಶ್ರಣ ಎನ್ನುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಉಪ್ಪು ನೀರು. ನಾವು ನೀರಿಗೆ ಉಪ್ಪನ್ನು ಸೇರಿಸಿ ಕರಗಿಸಿದಾಗ, ನಮಗೆ ಉಪ್ಪು ನೀರು ಸಿಗುತ್ತದೆ. ಈಗ ನಾವು ಇದನ್ನು ಸೂಕ್ಷ್ಮ ಮಟ್ಟದಲ್ಲಿ ನೋಡಿದರೆ, ನಮಗೆ ಎರಡು ವಿಭಿನ್ನ ರೀತಿಯ ಕಣಗಳು ಕಾಣಿಸುತ್ತವೆ. ಮೊದಲನೆಯದು, ನೀರಿನ ಅಣುಗಳು, ಅಂದರೆ ಎಚ್ ಟು ಓ. ಎರಡನೆಯದು, ಉಪ್ಪಿನ ಕಣಗಳು, ಅಂದರೆ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್. ಹೀಗೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಬಗೆಯ ಕಣಗಳಿರುವುದರಿಂದ, ಉಪ್ಪು ನೀರು ಒಂದು ಮಿಶ್ರಣವಾಗಿದೆಯೇ ಹೊರತು ಶುದ್ಧ ವಸ್ತುವಲ್ಲ.",
+  "script_display": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನೋಡಿದ ಶುದ್ಧ ವಸ್ತುವಿಗೆ ವಿರುದ್ಧವಾಗಿರುವುದನ್ನು ಈಗ ನೋಡೋಣ, ಅದನ್ನೇ ನಾವು ಮಿಶ್ರಣ ಎನ್ನುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಉಪ್ಪು ನೀರು. ನಾವು ನೀರಿಗೆ ಉಪ್ಪನ್ನು ಸೇರಿಸಿ ಕರಗಿಸಿದಾಗ, ನಮಗೆ ಉಪ್ಪು ನೀರು ಸಿಗುತ್ತದೆ. ಈಗ ನಾವು ಇದನ್ನು ಸೂಕ್ಷ್ಮ ಮಟ್ಟದಲ್ಲಿ ನೋಡಿದರೆ, ನಮಗೆ ಎರಡು ವಿಭಿನ್ನ ರೀತಿಯ ಕಣಗಳು ಕಾಣಿಸುತ್ತವೆ. ಮೊದಲನೆಯದು, ನೀರಿನ ಅಣುಗಳು (H₂O). ಎರಡನೆಯದು, ಉಪ್ಪಿನ ಕಣಗಳು (NaCl). ಹೀಗೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಬಗೆಯ ಕಣಗಳಿರುವುದರಿಂದ, ಉಪ್ಪು ನೀರು ಒಂದು ಮಿಶ್ರಣವಾಗಿದೆಯೇ ಹೊರತು ಶುದ್ಧ ವಸ್ತುವಲ್ಲ.",
+  "display_bullets": [
+    "ಉಪ್ಪು ನೀರು ಎರಡು ಬಗೆಯ ಕಣಗಳನ್ನು ಹೊಂದಿದೆ.",
+    "1. ನೀರಿನ ಅಣುಗಳು (H₂O)",
+    "2. ಉಪ್ಪಿನ ಕಣಗಳು (NaCl)",
+    "ಆದ್ದರಿಂದ, ಇದು ಶುದ್ಧ ವಸ್ತುವಲ್ಲ, ಇದೊಂದು ಮಿಶ್ರಣ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a beaker of salt water. An arrow points to a magnified circular view showing H₂O molecules interspersed with separate Na+ (sodium ions) and Cl- (chloride ions). This illustrates the presence of multiple types of particles.",
+    "labels": "Beaker of Salt Water, Magnified View, H₂O Molecules, Na+ and Cl- ions",
+    "scientific_significance": "Visually contrasts with a pure substance by showing a mixture contains more than one type of particle, reinforcing the definition of both concepts.",
+    "placeholder_note": "Image to be generated: Zoom-in from a beaker of salt water to show H₂O molecules mixed with Na+ and Cl- ions."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_2_concept_1_chunk_004"
+}

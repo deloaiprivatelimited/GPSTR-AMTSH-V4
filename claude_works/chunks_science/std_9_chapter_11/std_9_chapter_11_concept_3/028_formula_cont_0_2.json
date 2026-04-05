@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಪರಿಹಾರ",
+  "script": "ಪರಿಹಾರವನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. ಮೊದಲಿಗೆ, ನಮಗೆ ತಿಳಿದಿರುವ ಸೂತ್ರವನ್ನು ಬರೆಯೋಣ, nu ಈಕ್ವಲ್ಸ್ ಒಂದು ಭಾಗಿಸು T. ನಂತರ, T ಯ ಬೆಲೆಯನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಆಗ, nu ಈಕ್ವಲ್ಸ್ ಒಂದು ಭಾಗಿಸು ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಎರಡು. ಇದನ್ನು ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಉತ್ತರ ಐವತ್ತು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಶಬ್ದ ತರಂಗದ ಆವೃತ್ತಿ ಐವತ್ತು ಹರ್ಟ್ಜ್ ಆಗಿದೆ. ಇದು ತುಂಬಾ ಸರಳವಾದ ಲೆಕ್ಕಾಚಾರ, ಆದರೆ ಸೂತ್ರದ ಬಳಕೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. ಮೊದಲಿಗೆ, ನಮಗೆ ತಿಳಿದಿರುವ ಸೂತ್ರವನ್ನು ಬರೆಯೋಣ: $\\nu = \\frac{1}{T}$. ನಂತರ, T ಯ ಬೆಲೆಯನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಆಗ, $\\nu = \\frac{1}{0.02}$. ಇದನ್ನು ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಉತ್ತರ 50 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಶಬ್ದ ತರಂಗದ ಆವೃತ್ತಿ 50 Hz ಆಗಿದೆ. ಇದು ತುಂಬಾ ಸರಳವಾದ ಲೆಕ್ಕಾಚಾರ, ಆದರೆ ಸೂತ್ರದ ಬಳಕೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸೂತ್ರ: $\\nu = \\frac{1}{T}$",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: $\\nu = \\frac{1}{0.02}$",
+    "ಉತ್ತರ: $\\nu = 50$ Hz"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_steps_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\nu = \\frac{1}{T} \\\\ \\nu = \\frac{1}{0.02} \\\\ \\nu = 50 \\text{ Hz}",
+    "placeholder_note": "Calculation steps for finding frequency from time period."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_9_chapter_11_concept_3_chunk_028"
+}

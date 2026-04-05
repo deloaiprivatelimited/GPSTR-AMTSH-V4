@@ -1,0 +1,34 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರಧಾನ ಸಂಗಮ: ಒಂದು ಹೋಲಿಕೆ",
+  "script": "ಹಾಗಾದರೆ, ಇವೆರಡರ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ನೋಡೋಣ. ಪೀನ ಮಸೂರವು ಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ. ಅದು ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನು ಒಂದು ಬಿಂದುವಿನಲ್ಲಿ ನಿಜವಾಗಿಯೂ ಸೇರಿಸುತ್ತದೆ, ಆದ್ದರಿಂದ ಅದಕ್ಕೆ ಸತ್ಯ ಸಂಗಮ ಇರುತ್ತದೆ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ನಿಮ್ಮ ಮಸೂರವು ವಿಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ. ಅದು ಕಿರಣಗಳನ್ನು ಹರಡುತ್ತದೆ, ಮತ್ತು ಅವು ಒಂದು ಬಿಂದುವಿನಿಂದ ಬಂದಂತೆ ಕೇವಲ ಭಾಸವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಅದಕ್ಕೆ ಮಿಥ್ಯ ಸಂಗಮ ಇರುತ್ತದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಹಾಗಾದರೆ, ಇವೆರಡರ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ನೋಡೋಣ. ಪೀನ ಮಸೂರವು ಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ. ಅದು ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನು ಒಂದು ಬಿಂದುವಿನಲ್ಲಿ ನಿಜವಾಗಿಯೂ ಸೇರಿಸುತ್ತದೆ, ಆದ್ದರಿಂದ ಅದಕ್ಕೆ ಸತ್ಯ ಸಂಗಮ (Real Focus) ಇರುತ್ತದೆ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ನಿಮ್ಮ ಮಸೂರವು ವಿಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ. ಅದು ಕಿರಣಗಳನ್ನು ಹರಡುತ್ತದೆ, ಮತ್ತು ಅವು ಒಂದು ಬಿಂದುವಿನಿಂದ ಬಂದಂತೆ ಕೇವಲ ಭಾಸವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಅದಕ್ಕೆ ಮಿಥ್ಯ ಸಂಗಮ (Virtual Focus) ಇರುತ್ತದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "**ಪೀನ ಮಸೂರ:** ಕೇಂದ್ರೀಕರಿಸುವ ಸ್ವಭಾವ, ಸತ್ಯ ಸಂಗಮ (ಕಿರಣಗಳು ನಿಜವಾಗಿ ಸಂಧಿಸುತ್ತವೆ).",
+    "**ನಿಮ್ಮ ಮಸೂರ:** ವಿಕೇಂದ್ರೀಕರಿಸುವ ಸ್ವಭಾವ, ಮಿಥ್ಯ ಸಂಗಮ (ಕಿರಣಗಳು ಸಂಧಿಸಿದಂತೆ ಭಾಸವಾಗುತ್ತವೆ)."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "{\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{|l|l|l|}\n\\hline\n\\textbf{ಗುಣಲಕ್ಷಣ} & \\textbf{ಪೀನ ಮಸೂರ} & \\textbf{ನಿಮ್ಮ ಮಸೂರ} \\\\\n\\hline\n\\text{ಸ್ವಭಾವ} & \\text{ಕೇಂದ್ರೀಕರಿಸುವ (Converging)} & \\text{ವಿಕೇಂದ್ರೀಕರಿಸುವ (Diverging)} \\\\\n\\hline\n\\text{ಸಂಗಮದ ವಿಧ} & \\text{ಸತ್ಯ ಸಂಗಮ (Real Focus)} & \\text{ಮಿಥ್ಯ ಸಂಗಮ (Virtual Focus)} \\\\\n\\hline\n\\text{ಕಿರಣಗಳ ವರ್ತನೆ} & \\text{ಕಿರಣಗಳು ನಿಜವಾಗಿ ಸಂಧಿಸುತ್ತವೆ} & \\text{ಕಿರಣಗಳು ಸಂಧಿಸಿದಂತೆ ಭಾಸವಾಗುತ್ತವೆ} \\\\\n\\hline\n\\end{array}}",
+    "placeholder_note": "A comparison table is better here. The layout should support a full-width visual. If not, this can be split into two columns of text."
+  },
+  "chunk_id": "std_10_chapter_9_concept_7_chunk_013"
+}

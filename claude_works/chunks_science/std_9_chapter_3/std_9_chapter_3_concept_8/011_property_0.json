@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಣುರಾಶಿ (Molecular Mass)",
+  "script": "ಈಗ ನಾವು ಅಣುರಾಶಿಯ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಅಣುರಾಶಿ ಎಂಬ ಪದವನ್ನು ನಾವು ಮುಖ್ಯವಾಗಿ ಸಹವೇಲೆನ್ಸೀಯ ಸಂಯುಕ್ತಗಳಿಗೆ ಬಳಸುತ್ತೇವೆ. ಇದರ ವ್ಯಾಖ್ಯಾನ ಸರಳವಾಗಿದೆ: ಒಂದು ಅಣುವಿನಲ್ಲಿರುವ ಎಲ್ಲಾ ಪರಮಾಣುಗಳ ಪರಮಾಣು ರಾಶಿಗಳನ್ನು ಕೂಡಿದಾಗ ಬರುವ ಮೊತ್ತವೇ ಅಣುರಾಶಿ. ಉದಾಹರಣೆಗೆ, ನೀರು, ಅಂದರೆ H two O. ನೀರಿನ ಒಂದು ಅಣುವು ಎರಡು ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಒಂದು ಆಕ್ಸಿಜನ್ ಪರಮಾಣುಗಳಿಂದ ಕೂಡಿದ ಒಂದು ಪ್ರತ್ಯೇಕ ಘಟಕವಾಗಿ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ. ಆದ್ದರಿಂದ, ನಾವು ಅದರ ಅಣುರಾಶಿಯನ್ನು ಲೆಕ್ಕ ಹಾಕಬಹುದು. ಇದೇ ರೀತಿ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ಮೀಥೇನ್ ಇವುಗಳಿಗೂ ಅಣುರಾಶಿ ಇರುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಅಣುರಾಶಿಯ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಅಣುರಾಶಿ (Molecular Mass) ಎಂಬ ಪದವನ್ನು ನಾವು ಮುಖ್ಯವಾಗಿ ಸಹವೇಲೆನ್ಸೀಯ (covalent) ಸಂಯುಕ್ತಗಳಿಗೆ ಬಳಸುತ್ತೇವೆ. ಇದರ ವ್ಯಾಖ್ಯಾನ ಸರಳವಾಗಿದೆ: ಒಂದು ಅಣುವಿನಲ್ಲಿರುವ ಎಲ್ಲಾ ಪರಮಾಣುಗಳ ಪರಮಾಣು ರಾಶಿಗಳನ್ನು ಕೂಡಿದಾಗ ಬರುವ ಮೊತ್ತವೇ ಅಣುರಾಶಿ. ಉದಾಹರಣೆಗೆ, ನೀರು (H₂O). ನೀರಿನ ಒಂದು ಅಣುವು ಎರಡು ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಒಂದು ಆಕ್ಸಿಜನ್ ಪರಮಾಣುಗಳಿಂದ ಕೂಡಿದ ಒಂದು ಪ್ರತ್ಯೇಕ ಘಟಕವಾಗಿ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ. ಆದ್ದರಿಂದ, ನಾವು ಅದರ ಅಣುರಾಶಿಯನ್ನು ಲೆಕ್ಕ ಹಾಕಬಹುದು. ಇದೇ ರೀತಿ CO₂, CH₄ ಇವುಗಳಿಗೂ ಅಣುರಾಶಿ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬಳಕೆ: ಸಹವೇಲೆನ್ಸೀಯ (covalent) ಸಂಯುಕ್ತಗಳಿಗೆ.",
+    "ವ್ಯಾಖ್ಯಾನ: ಒಂದು ಅಣುವಿನಲ್ಲಿರುವ ಎಲ್ಲಾ ಪರಮಾಣುಗಳ ಪರಮಾಣು ರಾಶಿಗಳ ಮೊತ್ತ.",
+    "ಉದಾಹರಣೆ: ನೀರಿನ (H₂O) ಅಣುವು ಪ್ರತ್ಯೇಕ ಘಟಕವಾಗಿ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a single water molecule (H₂O). One red sphere for Oxygen is in the center, bonded to two smaller white spheres for Hydrogen. The entire unit is shown as a distinct, separate molecule. Label: 'ನೀರಿನ ಅಣು (H₂O) - ಒಂದು ಪ್ರತ್ಯೇಕ ಘಟಕ' (Water molecule - a discrete unit).",
+    "labels": "Oxygen atom, Hydrogen atoms, Covalent bond, Discrete molecule",
+    "scientific_significance": "Illustrates that covalent compounds like water exist as discrete, individual molecules, which is why the term 'molecular mass' is appropriate.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_3_concept_8_chunk_011"
+}

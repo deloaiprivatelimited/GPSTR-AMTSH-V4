@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಎಡಬದಿಯನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 4x ಪ್ಲಸ್ 5 ಈಕ್ವಲ್ಸ್ 65 ಎಂಬ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಸಮತೆಯ ಚಿಹ್ನೆಯ ಎಡಭಾಗದಲ್ಲಿ 4x ಪ್ಲಸ್ 5 ಎಂಬ ಬೀಜೋಕ್ತಿ ಇದೆ. ಆದ್ದರಿಂದ, ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಎಡಬದಿ ಅಥವಾ ಎಲ್ ಎಚ್ ಎಸ್ 4x ಪ್ಲಸ್ 5 ಆಗಿದೆ. ಇದೇ ರೀತಿ, y ಮೈನಸ್ 7 ಈಕ್ವಲ್ಸ್ 10 ಎಂಬ ಇನ್ನೊಂದು ಸಮೀಕರಣವನ್ನು ತೆಗೆದುಕೊಂಡರೆ, ಅದರಲ್ಲಿ ಎಡಬದಿಯು y ಮೈನಸ್ 7 ಆಗಿರುತ್ತದೆ. ಹೀಗೆ ಸಮೀಕರಣದ ಎಡಬದಿಯನ್ನು ಗುರುತಿಸುವುದು ಬಹಳ ಸುಲಭ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $4x + 5 = 65$ ಎಂಬ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಸಮತೆಯ ಚಿಹ್ನೆಯ ($=$) ಎಡಭಾಗದಲ್ಲಿ $4x + 5$ ಎಂಬ ಬೀಜೋಕ್ತಿ ಇದೆ. ಆದ್ದರಿಂದ, ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಎಡಬದಿ (LHS) = $4x + 5$ ಆಗಿದೆ. ಇದೇ ರೀತಿ, $y - 7 = 10$ ಎಂಬ ಇನ್ನೊಂದು ಸಮೀಕರಣವನ್ನು ತೆಗೆದುಕೊಂಡರೆ, ಅದರಲ್ಲಿ ಎಡಬದಿಯು $y - 7$ ಆಗಿರುತ್ತದೆ. ಹೀಗೆ ಸಮೀಕರಣದ ಎಡಬದಿಯನ್ನು ಗುರುತಿಸುವುದು ಬಹಳ ಸುಲಭ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ 1: $4x + 5 = 65$",
+    "ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಎಡಬದಿ (LHS) = $4x + 5$",
+    "ಉದಾಹರಣೆ 2: $y - 7 = 10$",
+    "ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಎಡಬದಿ (LHS) = $y - 7$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An equation 4x + 5 = 65 is shown. A colored box highlights the '4x + 5' part, with an arrow pointing to it and a label 'LHS (ಎಡಬದಿ)'. The '=' sign is also labeled 'ಸಮತೆಯ ಚಿಹ್ನೆ'.",
+    "labels": "Equation, LHS, Equality Sign",
+    "mathematical_significance": "Visually isolates and identifies the Left Hand Side (LHS) of an equation, reinforcing the definition.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "ALG-EQ1-1_concept_1_chunk_014"
+}

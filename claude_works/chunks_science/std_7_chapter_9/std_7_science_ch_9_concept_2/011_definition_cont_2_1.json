@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ನಗರದಲ್ಲಿ ಚಲಿಸುವ ಕಾರು",
+  "script": "ಏಕರೂಪವಲ್ಲದ ಚಲನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ ನೋಡೋಣ. ಜನನಿಬಿಡ ರಸ್ತೆಯಲ್ಲಿ ಚಲಿಸುವ ಕಾರನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಆ ಕಾರು ಟ್ರಾಫಿಕ್ ಸಿಗ್ನಲ್‌ನಲ್ಲಿ ನಿಲ್ಲುತ್ತದೆ, ನಂತರ ಹಸಿರು ದೀಪ ಬಂದಾಗ ವೇಗವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. ಮುಂದೆ ಬೇರೆ ವಾಹನಗಳು ಬಂದಾಗ ನಿಧಾನವಾಗುತ್ತದೆ. ಹೀಗೆ, ಕಾರಿನ ಜವವು ನಿರಂತರವಾಗಿ ಬದಲಾಗುತ್ತದೆ, ಅಂದರೆ ಅದು ಹೆಚ್ಚಾಗುತ್ತದೆ ಅಥವಾ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಜವವು ಸ್ಥಿರವಾಗಿಲ್ಲದ ಕಾರಣ, ಇದು ಏಕರೂಪವಲ್ಲದ ಚಲನೆಯಾಗಿದೆ. ಇಲ್ಲಿ ಚಲನೆಯ ವೇಗ ಒಂದೇ ಸಮನಾಗಿಲ್ಲ.",
+  "script_display": "ಏಕರೂಪವಲ್ಲದ ಚಲನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ ನೋಡೋಣ. ಜನನಿಬಿಡ ರಸ್ತೆಯಲ್ಲಿ ಚಲಿಸುವ ಕಾರನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಆ ಕಾರು ಟ್ರಾಫಿಕ್ ಸಿಗ್ನಲ್‌ನಲ್ಲಿ ನಿಲ್ಲುತ್ತದೆ, ನಂತರ ಹಸಿರು ದೀಪ ಬಂದಾಗ ವೇಗವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. ಮುಂದೆ ಬೇರೆ ವಾಹನಗಳು ಬಂದಾಗ ನಿಧಾನವಾಗುತ್ತದೆ. ಹೀಗೆ, ಕಾರಿನ ಜವವು ನಿರಂತರವಾಗಿ ಬದಲಾಗುತ್ತದೆ, ಅಂದರೆ ಅದು ಹೆಚ್ಚಾಗುತ್ತದೆ ಅಥವಾ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಜವವು ಸ್ಥಿರವಾಗಿಲ್ಲದ ಕಾರಣ, ಇದು ಏಕರೂಪವಲ್ಲದ ಚಲನೆಯಾಗಿದೆ. ಇಲ್ಲಿ ಚಲನೆಯ ವೇಗ ಒಂದೇ ಸಮನಾಗಿಲ್ಲ.",
+  "display_bullets": [
+    "ಜನನಿಬಿಡ ರಸ್ತೆಯಲ್ಲಿ ಚಲಿಸುವ ಕಾರು.",
+    "ಕಾರಿನ ಜವವು ನಿರಂತರವಾಗಿ ಬದಲಾಗುತ್ತದೆ (ಹೆಚ್ಚಾಗುತ್ತದೆ/ಕಡಿಮೆಯಾಗುತ್ತದೆ).",
+    "ಜವವು ಸ್ಥಿರವಾಗಿಲ್ಲದ ಕಾರಣ, ಇದು ಏಕರೂಪವಲ್ಲದ ಚಲನೆಯಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cartoon-style illustration of a car on a city street. The car is shown at three points: stopped at a red traffic light, accelerating as the light turns green, and then slowing down behind another car. Speedometer icons above the car could show 0 km/h, 30 km/h, and then 15 km/h to visually represent the changing speed.",
+    "labels": "ಟ್ರಾಫಿಕ್ ಲೈಟ್, ವೇಗ ಹೆಚ್ಚಳ, ವೇಗ ಇಳಿಕೆ",
+    "scientific_significance": "This visual provides a clear, relatable, real-world example of non-uniform motion, where the speed of an object changes over time due to external factors like traffic.",
+    "placeholder_note": "Image to be generated for car in traffic showing changing speed."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_science_ch_9_concept_2_chunk_011"
+}

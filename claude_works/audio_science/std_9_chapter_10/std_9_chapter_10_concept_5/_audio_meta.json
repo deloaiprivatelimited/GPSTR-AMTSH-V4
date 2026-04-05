@@ -1,0 +1,202 @@
+{
+  "module_id": "std_9_chapter_10_concept_5",
+  "chapter_code": "std_9_chapter_10",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 17,
+  "ok_count": 17,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:25:17",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "98ab4170faf772b93e795be2663682eb",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 25.891,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ (Prerequisites)",
+      "type": "chunk",
+      "script_words": 33,
+      "generated_at": "2026-04-02 15:22:06"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "585a81d25190bcfa3a2566079558c0d6",
+      "wav_file": "001_intro_0.wav",
+      "duration": 47.451,
+      "slide_title": "ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ (Potential Energy)",
+      "type": "chunk",
+      "script_words": 60,
+      "generated_at": "2026-04-02 15:22:24"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "a41a9bea340bb7df17f09ba10f9725b1",
+      "wav_file": "006_definition_1.wav",
+      "duration": 38.611,
+      "slide_title": "ಗುರುತ್ವಾಕರ್ಷಣ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 15:22:34"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "596b3c418da63ce135905df8f3bc6cd4",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 44.851,
+      "slide_title": "ಉದಾಹರಣೆ 1: ಸ್ಥಾನದಿಂದಾಗಿ ಶಕ್ತಿ",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 15:22:41"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "0a55ad66a65050e34b128610519ff0cc",
+      "wav_file": "003_definition_0.wav",
+      "duration": 47.371,
+      "slide_title": "ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ (Potential Energy)",
+      "type": "definition",
+      "script_words": 65,
+      "generated_at": "2026-04-02 15:22:42"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "827076dc6ee73dbb2185a86bbfe1e1e9",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 46.891,
+      "slide_title": "ಗುರುತ್ವಾಕರ್ಷಣ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿಯ ಸೂತ್ರ",
+      "type": "definition",
+      "script_words": 68,
+      "generated_at": "2026-04-02 15:23:19"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "cfd38da2944c1fece4f618706e936611",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 49.331,
+      "slide_title": "ಶಕ್ತಿ ಹೇಗೆ ಸಂಗ್ರಹವಾಗುತ್ತದೆ?",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 15:23:21"
+    },
+    "009_definition_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "5bd8b7c376195f578c65c0fea92f3b08",
+      "wav_file": "009_definition_cont_1_3.wav",
+      "duration": 50.811,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶ: ಶೂನ್ಯ ಮಟ್ಟದ ಆಯ್ಕೆ",
+      "type": "definition",
+      "script_words": 73,
+      "generated_at": "2026-04-02 15:23:40"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "fba7b6ef9536b25c863c5b85d2197a5c",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 47.091,
+      "slide_title": "ಉದಾಹರಣೆ 2: ವಿನ್ಯಾಸದಿಂದಾಗಿ ಶಕ್ತಿ",
+      "type": "definition",
+      "script_words": 65,
+      "generated_at": "2026-04-02 15:23:41"
+    },
+    "010_formula_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "a12f2cfdf7ed7fab89c660b42d8bdeff",
+      "wav_file": "010_formula_0.wav",
+      "duration": 51.091,
+      "slide_title": "ಗುರುತ್ವಾಕರ್ಷಣ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-04-02 15:23:49"
+    },
+    "011_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "58a3542b2e9e45263cf32ff0f88c5591",
+      "wav_file": "011_formula_cont_0_1.wav",
+      "duration": 43.211,
+      "slide_title": "ಉದಾಹರಣೆ: ಲೆಕ್ಕಾಚಾರ",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 15:24:18"
+    },
+    "012_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "2d1d499bc0c3a30e64f922f0fd901c92",
+      "wav_file": "012_formula_cont_0_2.wav",
+      "duration": 49.731,
+      "slide_title": "ಉದಾಹರಣೆ: ಪರಿಹಾರ",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 15:24:24"
+    },
+    "015_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "3421df57f4e43f79f490fc7d605c747b",
+      "wav_file": "015_example_cont_0_1.wav",
+      "duration": 44.571,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ ಹಂತವಾಗಿ",
+      "type": "worked_example",
+      "script_words": 58,
+      "generated_at": "2026-04-02 15:24:38"
+    },
+    "013_formula_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "d0cba52f36be0ee733d05651e96d5217",
+      "wav_file": "013_formula_cont_0_3.wav",
+      "duration": 48.971,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+      "type": "concept_explanation",
+      "script_words": 73,
+      "generated_at": "2026-04-02 15:24:42"
+    },
+    "016_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "f779f4b469768c306c7a9176a44e698b",
+      "wav_file": "016_example_cont_0_2.wav",
+      "duration": 19.131,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 28,
+      "generated_at": "2026-04-02 15:25:00"
+    },
+    "017_recap_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "ddc48b2596b64e6e220b62c7069fd767",
+      "wav_file": "017_recap_0.wav",
+      "duration": 36.451,
+      "slide_title": "ಸಾರಾಂಶ: ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ",
+      "type": "recap",
+      "script_words": 46,
+      "generated_at": "2026-04-02 15:25:15"
+    },
+    "014_example_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "4a68d080b6d9f8a564fbc42efeb8b881",
+      "wav_file": "014_example_0.wav",
+      "duration": 48.851,
+      "slide_title": "ಲೆಕ್ಕಾಚಾರದ ಉದಾಹರಣೆ: ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ",
+      "type": "worked_example",
+      "script_words": 64,
+      "generated_at": "2026-04-02 15:25:17"
+    }
+  }
+}

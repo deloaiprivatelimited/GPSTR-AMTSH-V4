@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ನಾಳರಹಿತ ಎಂದರೆ ಏನು?",
+  "script": "ನಾಳರಹಿತ ಎಂದರೆ ಏನು ಎಂಬುದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಅಂತಃಸ್ರಾವಕ ಗ್ರಂಥಿಗಳಿಗೆ ತಮ್ಮ ಸ್ರವಿಕೆಗಳನ್ನು ಸಾಗಿಸಲು ವಿಶೇಷ ನಾಳಗಳು ಅಥವಾ ಕೊಳವೆಗಳು ಇರುವುದಿಲ್ಲ. ಬದಲಾಗಿ, ಗ್ರಂಥಿಯಿಂದ ಉತ್ಪತ್ತಿಯಾದ ಹಾರ್ಮೋನ್‌ಗಳು ನೇರವಾಗಿ ಸುತ್ತಮುತ್ತಲಿನ ರಕ್ತನಾಳಗಳಿಗೆ ಸೇರಿಕೊಳ್ಳುತ್ತವೆ. ಹೀಗೆ ಹಾರ್ಮೋನ್‌ಗಳು ನೇರವಾಗಿ ರಕ್ತಕ್ಕೆ ಸೇರಿಕೊಂಡು, ರಕ್ತಪರಿಚಲನಾ ವ್ಯವಸ್ಥೆಯ ಮೂಲಕ ದೇಹದಾದ್ಯಂತ ಸಂಚರಿಸಿ, ಅವು ಯಾವ ಅಂಗದ ಮೇಲೆ ಕೆಲಸ ಮಾಡಬೇಕೋ ಆ ಗುರಿ ಅಂಗವನ್ನು ತಲುಪುತ್ತವೆ.",
+  "script_display": "ನಾಳರಹಿತ ಎಂದರೆ ಏನು ಎಂಬುದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಅಂತಃಸ್ರಾವಕ ಗ್ರಂಥಿಗಳಿಗೆ ತಮ್ಮ ಸ್ರವಿಕೆಗಳನ್ನು ಸಾಗಿಸಲು ವಿಶೇಷ ನಾಳಗಳು ಅಥವಾ ಕೊಳವೆಗಳು ಇರುವುದಿಲ್ಲ. ಬದಲಾಗಿ, ಗ್ರಂಥಿಯಿಂದ ಉತ್ಪತ್ತಿಯಾದ ಹಾರ್ಮೋನ್‌ಗಳು ನೇರವಾಗಿ ಸುತ್ತಮುತ್ತಲಿನ ರಕ್ತನಾಳಗಳಿಗೆ ಸೇರಿಕೊಳ್ಳುತ್ತವೆ. ಹೀಗೆ ಹಾರ್ಮೋನ್‌ಗಳು ನೇರವಾಗಿ ರಕ್ತಕ್ಕೆ ಸೇರಿಕೊಂಡು, ರಕ್ತಪರಿಚಲನಾ ವ್ಯವಸ್ಥೆಯ ಮೂಲಕ ದೇಹದಾದ್ಯಂತ ಸಂಚರಿಸಿ, ಅವು ಯಾವ ಅಂಗದ ಮೇಲೆ ಕೆಲಸ ಮಾಡಬೇಕೋ ಆ ಗುರಿ ಅಂಗವನ್ನು ತಲುಪುತ್ತವೆ.",
+  "display_bullets": [
+    "ಅಂತಃಸ್ರಾವಕ ಗ್ರಂಥಿಗಳಿಗೆ ತಮ್ಮ ಸ್ರವಿಕೆಗಳನ್ನು ಸಾಗಿಸಲು ವಿಶೇಷ ನಾಳಗಳು ಅಥವಾ ಕೊಳವೆಗಳು ಇರುವುದಿಲ್ಲ.",
+    "ಹಾರ್ಮೋನ್‌ಗಳು ನೇರವಾಗಿ ರಕ್ತಕ್ಕೆ ಸೇರಿಕೊಂಡು ದೇಹದಾದ್ಯಂತ ಸಂಚರಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "classic_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing an endocrine gland. The gland is depicted as a cluster of cells. It is surrounded by a network of capillaries (tiny blood vessels). Arrows originate from the gland cells and point directly into the capillaries, indicating that hormones are being released into the bloodstream.",
+    "labels": "ಅಂತಃಸ್ರಾವಕ ಗ್ರಂಥಿ, ಹಾರ್ಮೋನ್‌ಗಳು, ರಕ್ತನಾಳ (ಕ್ಯಾಪಿಲರಿ), ರಕ್ತಪ್ರವಾಹ",
+    "scientific_significance": "Visually demonstrates the key characteristic of endocrine glands: being 'ductless' and secreting hormones directly into the circulatory system.",
+    "placeholder_note": "Image to be generated showing hormone secretion into blood."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_science_ch_7_concept_4_chunk_007"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: $z^2 - 4z - 12$ ಅನ್ನು ಅಪವರ್ತಿಸಿ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು z ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ನಾಲ್ಕು z ಮೈನಸ್ ಹನ್ನೆರಡು ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯು x ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ p x ಪ್ಲಸ್ q ರೂಪದಲ್ಲಿದೆ. ಇಲ್ಲಿ, ಸ್ಥಿರಾಂಕ q ಎಂಬುದು ಮೈನಸ್ ಹನ್ನೆರಡು ಮತ್ತು z ನ ಸಹಗುಣಕ p ಎಂಬುದು ಮೈನಸ್ ನಾಲ್ಕು. ನಮ್ಮ ಗುರಿ, ಗುಣಲಬ್ಧವು ಮೈನಸ್ ಹನ್ನೆರಡು ಮತ್ತು ಮೊತ್ತವು ಮೈನಸ್ ನಾಲ್ಕು ಆಗಿರುವ ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $z^2 - 4z - 12$ ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯು $x^2 + px + q$ ರೂಪದಲ್ಲಿದೆ. ಇಲ್ಲಿ, ಸ್ಥಿರಾಂಕ $q = -12$ ಮತ್ತು $z$ ನ ಸಹಗುಣಕ $p = -4$. ನಮ್ಮ ಗುರಿ, ಗುಣಲಬ್ಧವು $-12$ ಮತ್ತು ಮೊತ್ತವು $-4$ ಆಗಿರುವ ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $z^2 - 4z - 12$ ಅನ್ನು ಅಪವರ್ತಿಸಿ.",
+    "ಗುಣಲಬ್ಧ (Product) = $-12$",
+    "ಮೊತ್ತ (Sum) = $-4$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard_problem_setup",
+    "text_zone": "left",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-FAC-2_example_12",
+  "chunk_id": "ALG-FAC-2_concept_5_chunk_016"
+}

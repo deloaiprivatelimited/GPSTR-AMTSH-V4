@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ವಾಹಕ vs ಅವಾಹಕ",
+  "script": "ವಾಹಕ ಮತ್ತು ಅವಾಹಕಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಒಂದು ಲೋಟದಲ್ಲಿ ಬಿಸಿ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರಲ್ಲಿ ಒಂದು ಲೋಹದ ಚಮಚವನ್ನು ಇಡಿ. ಇನ್ನೊಂದು ಲೋಟದಲ್ಲಿ ಅಷ್ಟೇ ಬಿಸಿ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಒಂದು ಪ್ಲಾಸ್ಟಿಕ್ ಚಮಚವನ್ನು ಇಡಿ. ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಲೋಹದ ಚಮಚದ ಇನ್ನೊಂದು ತುದಿ ಬಿಸಿಯಾಗಿರುವುದನ್ನು ನೀವು ಗಮನಿಸಬಹುದು. ಏಕೆಂದರೆ ಲೋಹವು ಉತ್ತಮ ವಾಹಕ. ಆದರೆ, ಪ್ಲಾಸ್ಟಿಕ್ ಚಮಚವು ಅಷ್ಟೊಂದು ಬಿಸಿಯಾಗಿರುವುದಿಲ್ಲ. ಏಕೆಂದರೆ ಪ್ಲಾಸ್ಟಿಕ್ ಒಂದು ಅವಾಹಕ, ಅದು ಉಷ್ಣವನ್ನು ತನ್ನ ಮೂಲಕ ಸಾಗಿಸುವುದಿಲ್ಲ.",
+  "script_display": "ವಾಹಕ (Conductor) ಮತ್ತು ಅವಾಹಕ (Insulator) ಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಒಂದು ಲೋಟದಲ್ಲಿ ಬಿಸಿ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರಲ್ಲಿ ಒಂದು ಲೋಹದ ಚಮಚವನ್ನು (metal spoon) ಇಡಿ. ಇನ್ನೊಂದು ಲೋಟದಲ್ಲಿ ಅಷ್ಟೇ ಬಿಸಿ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಒಂದು ಪ್ಲಾಸ್ಟಿಕ್ ಚಮಚವನ್ನು (plastic spoon) ಇಡಿ. ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಲೋಹದ ಚಮಚದ ಇನ್ನೊಂದು ತುದಿ ಬಿಸಿಯಾಗಿರುವುದನ್ನು ನೀವು ಗಮನಿಸಬಹುದು. ಏಕೆಂದರೆ ಲೋಹವು ಉತ್ತಮ ವಾಹಕ. ಆದರೆ, ಪ್ಲಾಸ್ಟಿಕ್ ಚಮಚವು ಅಷ್ಟೊಂದು ಬಿಸಿಯಾಗಿರುವುದಿಲ್ಲ. ಏಕೆಂದರೆ ಪ್ಲಾಸ್ಟಿಕ್ ಒಂದು ಅವಾಹಕ, ಅದು ಉಷ್ಣವನ್ನು ತನ್ನ ಮೂಲಕ ಸಾಗಿಸುವುದಿಲ್ಲ.",
+  "display_bullets": [
+    "**ವಾಹಕ (Conductor):**",
+    "ಲೋಹದ ಚಮಚವು ಬಿಸಿ ನೀರಿನಿಂದ ಉಷ್ಣವನ್ನು ಪಡೆದು ಬೇಗನೆ ಬಿಸಿಯಾಗುತ್ತದೆ.",
+    "**ಅವಾಹಕ (Insulator):**",
+    "ಪ್ಲಾಸ್ಟಿಕ್ ಚಮಚವು ಉಷ್ಣವನ್ನು ಸಾಗಿಸದ ಕಾರಣ ತಂಪಾಗಿಯೇ ಉಳಿಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen image. On the left, a glass of hot water with a metal spoon. Red arrows show heat traveling up the spoon. Labeled 'ವಾಹಕ (Conductor)'. On the right, a glass of hot water with a plastic spoon. No arrows on the spoon. Labeled 'ಅವಾಹಕ (Insulator)'.",
+    "labels": "ಲೋಹದ ಚಮಚ, ಪ್ಲಾಸ್ಟಿಕ್ ಚಮಚ, ಉಷ್ಣದ ಹರಿವು",
+    "scientific_significance": "Provides a direct visual comparison of heat conduction in a good conductor versus a poor conductor (insulator), reinforcing the definition and properties of each.",
+    "placeholder_note": "Image to be generated showing the spoon experiment."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_7_chapter_3_concept_4_chunk_011"
+}

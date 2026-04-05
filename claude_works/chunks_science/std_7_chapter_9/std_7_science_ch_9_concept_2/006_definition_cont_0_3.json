@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಜವದ ಹೋಲಿಕೆ: ಚಿರತೆ vs ಆಮೆ",
+  "script": "ಜವದ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯಲು, ಎರಡು ವಿಭಿನ್ನ ಜೀವಿಗಳನ್ನು ಹೋಲಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ವೇಗವಾಗಿ ಓಡುವ ಚಿರತೆ ಇದೆ. ಅದು ಒಂದು ಗಂಟೆಯಲ್ಲಿ ಸುಮಾರು ನೂರಾ ಇಪ್ಪತ್ತು ಕಿಲೋಮೀಟರ್ ದೂರವನ್ನು ಕ್ರಮಿಸಬಲ್ಲದು. ಆದ್ದರಿಂದ ಅದರ ಜವ ಗಂಟೆಗೆ ನೂರಾ ಇಪ್ಪತ್ತು ಕಿಲೋಮೀಟರ್. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ ಆಮೆಯನ್ನು ನೋಡಿ. ಅದು ತುಂಬಾ ನಿಧಾನವಾಗಿ ಚಲಿಸುತ್ತದೆ. ಒಂದು ಗಂಟೆಯಲ್ಲಿ ಅದು ಕೇವಲ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಒಂದು ಕಿಲೋಮೀಟರ್ ದೂರ ಕ್ರಮಿಸಬಹುದು. ಆದ್ದರಿಂದ ಅದರ ಜವ ಗಂಟೆಗೆ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಒಂದು ಕಿಲೋಮೀಟರ್. ಒಂದೇ ಸಮಯದಲ್ಲಿ ಹೆಚ್ಚು ದೂರ ಕ್ರಮಿಸುವ ವಸ್ತುವಿಗೆ ಹೆಚ್ಚು ಜವ ಇರುತ್ತದೆ.",
+  "script_display": "ಜವದ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯಲು, ಎರಡು ವಿಭಿನ್ನ ಜೀವಿಗಳನ್ನು ಹೋಲಿಸೋಣ. ಒಂದೇ ಸಮಯದಲ್ಲಿ ಹೆಚ್ಚು ದೂರ ಕ್ರಮಿಸುವ ವಸ್ತುವಿಗೆ ಹೆಚ್ಚು ಜವ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹೆಚ್ಚು ಜವ: ಚಿರತೆ 1 ಗಂಟೆಯಲ್ಲಿ 120 km ಕ್ರಮಿಸುತ್ತದೆ (ಜವ = 120 km/h).",
+    "ಕಡಿಮೆ ಜವ: ಆಮೆ 1 ಗಂಟೆಯಲ್ಲಿ 0.1 km ಕ್ರಮಿಸುತ್ತದೆ (ಜವ = 0.1 km/h).",
+    "ತೀರ್ಮಾನ: ಒಂದೇ ಸಮಯದಲ್ಲಿ ಹೆಚ್ಚು ದೂರ ಕ್ರಮಿಸಿದರೆ, ಜವ ಹೆಚ್ಚು."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen visual. The left side has an image of a running cheetah. Below it, text reads: 'ಹೆಚ್ಚು ಜವ (High Speed)', 'ಚಿರತೆ', 'ದೂರ: 120 km', 'ಕಾಲ: 1 ಗಂಟೆ', 'ಜವ: 120 km/h'. The right side has an image of a walking tortoise. Below it, text reads: 'ಕಡಿಮೆ ಜವ (Low Speed)', 'ಆಮೆ', 'ದೂರ: 0.1 km', 'ಕಾಲ: 1 ಗಂಟೆ', 'ಜವ: 0.1 km/h'. A vertical line separates the two halves.",
+    "labels": "Cheetah, Tortoise, Speed, Distance, Time",
+    "scientific_significance": "Compares high speed and low speed using a concrete, relatable example, showing that for the same unit of time, greater distance covered means greater speed.",
+    "placeholder_note": "Generate a split-screen image comparing a cheetah and a tortoise's speed."
+  },
+  "chunk_id": "std_7_science_ch_9_concept_2_chunk_006"
+}

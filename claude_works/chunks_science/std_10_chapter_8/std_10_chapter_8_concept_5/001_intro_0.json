@@ -1,0 +1,36 @@
+{
+  "type": "intro",
+  "slide_title": "ಲಿಂಗ ನಿರ್ಧರಣೆ",
+  "script": "ಎಲ್ಲರಿಗೂ ನಮಸ್ಕಾರ ಮತ್ತು ಸ್ವಾಗತ. ಹುಟ್ಟುವ ಮಗು ಗಂಡೋ ಅಥವಾ ಹೆಣ್ಣೋ ಎಂದು ಹೇಗೆ ನಿರ್ಧಾರವಾಗುತ್ತದೆ ಎಂದು ನೀವು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ? ಇದು ಕೇವಲ ಕುತೂಹಲದ ಪ್ರಶ್ನೆಯಲ್ಲ, ನಮ್ಮ ಸಮಾಜದಲ್ಲಿನ ಅನೇಕ ತಪ್ಪು ಕಲ್ಪನೆಗಳನ್ನು ದೂರ ಮಾಡಲು ಇದರ ವೈಜ್ಞಾನಿಕ ತಿಳುವಳಿಕೆ ಬಹಳ ಮುಖ್ಯ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಲಿಂಗ ನಿರ್ಧರಣೆಯ ಹಿಂದಿನ ರಹಸ್ಯವನ್ನು ಭೇದಿಸಲಿದ್ದೇವೆ. ಕೆಲವು ಜೀವಿಗಳಲ್ಲಿ ಪರಿಸರದಿಂದ ಲಿಂಗ ನಿರ್ಧರಣೆ ಹೇಗೆ ಆಗುತ್ತದೆ, ಅನೇಕ ಜೀವಿಗಳಲ್ಲಿ ಆನುವಂಶೀಯ ಲಿಂಗ ನಿರ್ಧರಣೆ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ, ಮತ್ತು ಮುಖ್ಯವಾಗಿ, ಮಾನವರಲ್ಲಿ ಲಿಂಗ ನಿರ್ಧರಣೆ ಹೇಗೆ ಆಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವು ಕಲಿಯಲಿದ್ದೇವೆ. ಈ ಜ್ಞಾನವು ನಿಮಗೆ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಸಹಾಯ ಮಾಡುವುದಲ್ಲದೆ, ವೈಜ್ಞಾನಿಕ ದೃಷ್ಟಿಕೋನವನ್ನು ಬೆಳೆಸುತ್ತದೆ.",
+  "script_display": "ಎಲ್ಲರಿಗೂ ನಮಸ್ಕಾರ ಮತ್ತು ಸ್ವಾಗತ. ಹುಟ್ಟುವ ಮಗು ಗಂಡೋ ಅಥವಾ ಹೆಣ್ಣೋ ಎಂದು ಹೇಗೆ ನಿರ್ಧಾರವಾಗುತ್ತದೆ ಎಂದು ನೀವು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ? ಇದು ಕೇವಲ ಕುತೂಹಲದ ಪ್ರಶ್ನೆಯಲ್ಲ, ನಮ್ಮ ಸಮಾಜದಲ್ಲಿನ ಅನೇಕ ತಪ್ಪು ಕಲ್ಪನೆಗಳನ್ನು ದೂರ ಮಾಡಲು ಇದರ ವೈಜ್ಞಾನಿಕ ತಿಳುವಳಿಕೆ ಬಹಳ ಮುಖ್ಯ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಲಿಂಗ ನಿರ್ಧರಣೆಯ (Sex Determination) ಹಿಂದಿನ ರಹಸ್ಯವನ್ನು ಭೇದಿಸಲಿದ್ದೇವೆ. ನಾವು ಕಲಿಯಲಿರುವ ಪ್ರಮುಖ ವಿಷಯಗಳು:",
+  "display_bullets": [
+    "ಪರಿಸರದಿಂದ ಲಿಂಗ ನಿರ್ಧರಣೆ",
+    "ಆನುವಂಶೀಯ ಲಿಂಗ ನಿರ್ಧರಣೆ",
+    "ಮಾನವರಲ್ಲಿ ಲಿಂಗ ನಿರ್ಧರಣೆ"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "standard_hero",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An engaging background visual for the title slide. A stylized representation of male (XY) and female (XX) chromosomes with a question mark, symbolizing the topic of sex determination.",
+    "labels": "None",
+    "scientific_significance": "Sets the theme for the module, visually representing the core concept of genetic sex determination through chromosomes.",
+    "placeholder_note": "Image to be generated for the title card."
+  },
+  "chunk_id": "std_10_chapter_8_concept_5_chunk_001"
+}

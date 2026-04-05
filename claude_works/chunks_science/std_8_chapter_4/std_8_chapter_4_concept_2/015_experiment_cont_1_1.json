@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಹಂತ 1",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಎರಡು ಕಾಗದದ ಬಟ್ಟಲುಗಳನ್ನು ತಯಾರಿಸೋಣ. ನಂತರ, ಒಂದು ಮೇಣದಬತ್ತಿಯನ್ನು ಹೊತ್ತಿಸಿ, ಅದರ ಜ್ವಾಲೆಯ ಮೇಲೆ ಖಾಲಿ ಇರುವ ಕಾಗದದ ಬಟ್ಟಲನ್ನು ಹಿಡಿಯೋಣ. ಜಾಗರೂಕರಾಗಿರಿ, ಏಕೆಂದರೆ ಕಾಗದವು ಬೇಗನೆ ಬೆಂಕಿ ಹೊತ್ತಿಕೊಳ್ಳಬಹುದು. ಏನಾಗುತ್ತದೆ ಎಂದು ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ. ಕಾಗದವು ಜ್ವಾಲೆಗೆ ತಾಗಿದ ತಕ್ಷಣ ಏನಾಯಿತು? ಅದು ತಕ್ಷಣವೇ ಉರಿಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ ಅಲ್ಲವೇ? ಈ ಬದಲಾವಣೆಯನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಳ್ಳಿ. ನಾವು ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗುವ ಮೊದಲು ಇದು ಯಾಕೆ ಹೀಗಾಯಿತು ಎಂದು ಯೋಚಿಸಿ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಎರಡು ಕಾಗದದ ಬಟ್ಟಲುಗಳನ್ನು ತಯಾರಿಸೋಣ. ನಂತರ, ಒಂದು ಮೇಣದಬತ್ತಿಯನ್ನು ಹೊತ್ತಿಸಿ, ಅದರ ಜ್ವಾಲೆಯ ಮೇಲೆ ಖಾಲಿ ಇರುವ ಕಾಗದದ ಬಟ್ಟಲನ್ನು ಹಿಡಿಯೋಣ. ಜಾಗರೂಕರಾಗಿರಿ, ಏಕೆಂದರೆ ಕಾಗದವು ಬೇಗನೆ ಬೆಂಕಿ ಹೊತ್ತಿಕೊಳ್ಳಬಹುದು. ಏನಾಗುತ್ತದೆ ಎಂದು ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ. ಕಾಗದವು ಜ್ವಾಲೆಗೆ ತಾಗಿದ ತಕ್ಷಣ ಏನಾಯಿತು? ಅದು ತಕ್ಷಣವೇ ಉರಿಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ ಅಲ್ಲವೇ? ಈ ಬದಲಾವಣೆಯನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಳ್ಳಿ. ನಾವು ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗುವ ಮೊದಲು ಇದು ಯಾಕೆ ಹೀಗಾಯಿತು ಎಂದು ಯೋಚಿಸಿ.",
+  "display_bullets": [
+    "ಎರಡು ಕಾಗದದ ಬಟ್ಟಲುಗಳನ್ನು ತಯಾರಿಸಿ.",
+    "ಖಾಲಿ ಕಾಗದದ ಬಟ್ಟಲನ್ನು ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯ ಮೇಲೆ ಕಾಸಿ.",
+    "ಕಾಗದಕ್ಕೆ ಏನಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An animation or diagram showing a hand holding an empty paper cup over a candle flame. The paper cup catches fire almost immediately.",
+    "labels": "ಖಾಲಿ ಕಾಗದದ ಬಟ್ಟಲು, ಜ್ವಾಲೆ, ಉರಿಯುವಿಕೆ",
+    "scientific_significance": "Demonstrates that a combustible material (paper) quickly catches fire when heated alone.",
+    "placeholder_note": "Image to be generated showing the empty paper cup catching fire."
+  },
+  "chunk_id": "std_8_chapter_4_concept_2_chunk_015"
+}

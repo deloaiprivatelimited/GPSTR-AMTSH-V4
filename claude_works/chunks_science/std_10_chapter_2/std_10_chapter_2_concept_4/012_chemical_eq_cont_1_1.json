@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿವರ್ತಕಗಳು ಮತ್ತು ಉತ್ಪನ್ನಗಳು",
+  "script": "ಈ ರಾಸಾಯನಿಕ ಸಮೀಕರಣದಲ್ಲಿನ ಪ್ರತಿವರ್ತಕಗಳು ಮತ್ತು ಉತ್ಪನ್ನಗಳನ್ನು ಗುರುತಿಸೋಣ. ಪ್ರತಿವರ್ತಕಗಳು, ಅಂದರೆ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುವ ವಸ್ತುಗಳು, ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ, ಇದು ಒಂದು ಪ್ರಬಲ ಆಮ್ಲ, ಮತ್ತು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಇದು ಒಂದು ಪ್ರಬಲ ಪ್ರತ್ಯಾಮ್ಲ. ಇನ್ನು ಉತ್ಪನ್ನಗಳು, ಅಂದರೆ ಕ್ರಿಯೆಯ ನಂತರ ಉಂಟಾಗುವ ವಸ್ತುಗಳು, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್, ಇದು ಒಂದು ಲವಣ, ಮತ್ತು ನೀರು.",
+  "script_display": "ಈ ರಾಸಾಯನಿಕ ಸಮೀಕರಣದಲ್ಲಿನ ಪ್ರತಿವರ್ತಕಗಳು ಮತ್ತು ಉತ್ಪನ್ನಗಳನ್ನು ಗುರುತಿಸೋಣ.",
+  "display_bullets": [
+    "<strong>ಪ್ರತಿವರ್ತಕಗಳು (Reactants):</strong>",
+    "ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl) - ಪ್ರಬಲ ಆಮ್ಲ",
+    "ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) - ಪ್ರಬಲ ಪ್ರತ್ಯಾಮ್ಲ",
+    "<strong>ಉತ್ಪನ್ನಗಳು (Products):</strong>",
+    "ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ (NaCl) - ಲವಣ",
+    "ನೀರು (H₂O)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "chemical_equation",
+  "difficulty": "medium",
+  "source_example_id": "std_10_ch_2_eq_2",
+  "chunk_id": "std_10_chapter_2_concept_4_chunk_012"
+}

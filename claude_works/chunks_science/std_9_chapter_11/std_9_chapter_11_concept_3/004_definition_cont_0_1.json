@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ತರಂಗದೂರವನ್ನು ದೃಶ್ಯೀಕರಿಸುವುದು",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಶಬ್ದ ತರಂಗವು ಚಲಿಸುತ್ತಿರುವುದನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಕಣಗಳು ಒಟ್ಟಿಗೆ ಸೇರಿರುವ ಭಾಗಗಳನ್ನು ಸಂಪೀಡನಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ, ಇವುಗಳನ್ನು ಸಿ ಅಕ್ಷರದಿಂದ ಗುರುತಿಸಲಾಗಿದೆ. ಕಣಗಳು ದೂರ ದೂರ ಇರುವ ಭಾಗಗಳನ್ನು ವಿರಳನಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ, ಇವುಗಳನ್ನು ಆರ್ ಅಕ್ಷರದಿಂದ ಗುರುತಿಸಲಾಗಿದೆ. ಈಗ ನೋಡಿ, ಒಂದು ಸಂಪೀಡನದಿಂದ ಅದರ ಮುಂದಿನ ಸಂಪೀಡನದವರೆಗಿನ ದೂರವೇ ತರಂಗದೂರ, ಲ್ಯಾಮ್ಡಾ. ಹಾಗೆಯೇ, ಒಂದು ವಿರಳನದಿಂದ ಅದರ ಮುಂದಿನ ವಿರಳನದವರೆಗಿನ ದೂರವೂ ಕೂಡ ಅದೇ ತರಂಗದೂರ ಆಗಿರುತ್ತದೆ. ಇದು ತರಂಗದ ಒಂದು ಸಂಪೂರ್ಣ ಆವರ್ತನದ ಉದ್ದವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಶಬ್ದ ತರಂಗವು ಚಲಿಸುತ್ತಿರುವುದನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಕಣಗಳು ಒಟ್ಟಿಗೆ ಸೇರಿರುವ ಭಾಗಗಳನ್ನು ಸಂಪೀಡನಗಳು (Compressions) ಎಂದು ಕರೆಯುತ್ತೇವೆ, ಇವುಗಳನ್ನು 'C' ಅಕ್ಷರದಿಂದ ಗುರುತಿಸಲಾಗಿದೆ. ಕಣಗಳು ದೂರ ದೂರ ಇರುವ ಭಾಗಗಳನ್ನು ವಿರಳನಗಳು (Rarefactions) ಎಂದು ಕರೆಯುತ್ತೇವೆ, ಇವುಗಳನ್ನು 'R' ಅಕ್ಷರದಿಂದ ಗುರುತಿಸಲಾಗಿದೆ. ಈಗ ನೋಡಿ, ಒಂದು ಸಂಪೀಡನದಿಂದ (C) ಅದರ ಮುಂದಿನ ಸಂಪೀಡನದವರೆಗಿನ (C) ದೂರವೇ ತರಂಗದೂರ (λ). ಹಾಗೆಯೇ, ಒಂದು ವಿರಳನದಿಂದ (R) ಅದರ ಮುಂದಿನ ವಿರಳನದವರೆಗಿನ (R) ದೂರವೂ ಕೂಡ ಅದೇ ತರಂಗದೂರ (λ) ಆಗಿರುತ್ತದೆ. ಇದು ತರಂಗದ ಒಂದು ಸಂಪೂರ್ಣ ಆವರ್ತನದ ಉದ್ದವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಂಪೀಡನ (C): ಕಣಗಳು ಹತ್ತಿರವಿರುವ ಅಧಿಕ ಒತ್ತಡದ ಪ್ರದೇಶ.",
+    "ವಿರಳನ (R): ಕಣಗಳು ದೂರವಿರುವ ಕಡಿಮೆ ಒತ್ತಡದ ಪ್ರದೇಶ.",
+    "ತರಂಗದೂರ (λ): ಎರಡು ಅನುಕ್ರಮ ಸಂಪೀಡನಗಳ (C-C) ಅಥವಾ ವಿರಳನಗಳ (R-R) ನಡುವಿನ ದೂರ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a longitudinal wave showing compressions and rarefactions. The distance between two consecutive compressions is labeled with the Greek letter lambda (λ). The distance between two consecutive rarefactions is also labeled with lambda (λ). The compressions are marked with 'C' and rarefactions with 'R'.",
+    "labels": "ಸಂಪೀಡನ (C), ವಿರಳನ (R), ತರಂಗದೂರ (λ)",
+    "scientific_significance": "This visual representation helps students understand the abstract concept of wavelength by mapping it onto a physical model of a wave, showing it as a measurable distance between repeating parts of the wave pattern.",
+    "placeholder_note": "Image to be generated showing a longitudinal wave with C, R, and λ marked clearly."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "std_9_chapter_11_concept_3_def_1",
+  "chunk_id": "std_9_chapter_11_concept_3_chunk_004"
+}

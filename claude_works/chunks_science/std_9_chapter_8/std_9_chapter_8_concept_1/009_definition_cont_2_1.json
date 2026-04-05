@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಪೆಟ್ಟಿಗೆಯನ್ನು ತಳ್ಳುವುದು",
+  "script": "ಇದನ್ನು ಒಂದು ದೃಶ್ಯ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಬ್ಬ ವ್ಯಕ್ತಿ ಒಂದು ಭಾರವಾದ ಪೆಟ್ಟಿಗೆಯನ್ನು ನೆಲದ ಮೇಲೆ ತಳ್ಳುತ್ತಿದ್ದಾನೆ. ಅವನು ಪ್ರಯೋಗಿಸುವ ತಳ್ಳುವ ಬಲವು, ನೆಲ ಮತ್ತು ಪೆಟ್ಟಿಗೆಯ ನಡುವಿನ ಘರ್ಷಣಾ ಬಲಕ್ಕಿಂತ ಹೆಚ್ಚಾದಾಗ, ಬಲಗಳು ಅಸಂತುಲಿತವಾಗುತ್ತವೆ. ಈ ಅಸಂತುಲಿತ ಬಲದ ಕಾರಣದಿಂದಾಗಿ, ಪೆಟ್ಟಿಗೆಯು ಬಲಕ್ಕೆ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಅಂದರೆ, ಅದು ವೇಗೋತ್ಕರ್ಷವನ್ನು ಪಡೆಯುತ್ತದೆ. ಚಲನೆ ಉಂಟಾಗಲು ಕಾರಣವೇ ಈ ಅಸಂತುಲಿತ ಬಲ.",
+  "script_display": "ಇದನ್ನು ಒಂದು ದೃಶ್ಯ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಬ್ಬ ವ್ಯಕ್ತಿ ಒಂದು ಭಾರವಾದ ಪೆಟ್ಟಿಗೆಯನ್ನು ನೆಲದ ಮೇಲೆ ತಳ್ಳುತ್ತಿದ್ದಾನೆ. ಅವನು ಪ್ರಯೋಗಿಸುವ ತಳ್ಳುವ ಬಲವು (Pushing Force), ನೆಲ ಮತ್ತು ಪೆಟ್ಟಿಗೆಯ ನಡುವಿನ ಘರ್ಷಣಾ ಬಲಕ್ಕಿಂತ (Frictional Force) ಹೆಚ್ಚಾದಾಗ, ಬಲಗಳು ಅಸಂತುಲಿತವಾಗುತ್ತವೆ. ಈ ಅಸಂತುಲಿತ ಬಲದ ಕಾರಣದಿಂದಾಗಿ, ಪೆಟ್ಟಿಗೆಯು ಬಲಕ್ಕೆ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಅಂದರೆ, ಅದು ವೇಗೋತ್ಕರ್ಷವನ್ನು (accelerates) ಪಡೆಯುತ್ತದೆ. ಚಲನೆ ಉಂಟಾಗಲು ಕಾರಣವೇ ಈ ಅಸಂತುಲಿತ ಬಲ.",
+  "display_bullets": [
+    "ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ನೆಲದ ಮೇಲಿರುವ ಪೆಟ್ಟಿಗೆಯನ್ನು ತಳ್ಳುತ್ತಿದ್ದಾನೆ.",
+    "ತಳ್ಳುವ ಬಲವು (Pushing Force) ಘರ್ಷಣಾ ಬಲಕ್ಕಿಂತ (Frictional Force) ಹೆಚ್ಚಾಗಿದ್ದರೆ, ಬಲಗಳು ಅಸಂತುಲಿತವಾಗುತ್ತವೆ.",
+    "ಈ ಅಸಂತುಲಿತ ಬಲದಿಂದಾಗಿ, ಪೆಟ್ಟಿಗೆಯು ಬಲಕ್ಕೆ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ (ವೇಗೋತ್ಕರ್ಷಗೊಳ್ಳುತ್ತದೆ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a wooden box on a rough floor. A large arrow representing 'Pushing Force' points to the right. A smaller arrow representing 'Frictional Force' points to the left. The box is shown moving to the right, indicating acceleration.",
+    "labels": "Pushing Force, Frictional Force, Direction of Motion, Unbalanced Force results in acceleration",
+    "scientific_significance": "This visualizes the concept of unbalanced forces. When the applied force overcomes the opposing frictional force, the net force is non-zero, causing the object to accelerate in the direction of the net force.",
+    "placeholder_note": "Image to be generated based on description. This corresponds to Scenario 2 from the module's visual aids."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_8_concept_1_chunk_009"
+}

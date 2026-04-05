@@ -1,0 +1,103 @@
+{
+  "module_id": "std_8_science_chapter_11_concept_2",
+  "chapter_code": "std_8_chapter_11",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:41:08",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "e17a10edef775aeb3ccc94425584ecf0",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.371,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "intro",
+      "script_words": 39,
+      "generated_at": "2026-04-02 16:39:57"
+    },
+    "003_experiment_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "33ac9a95e84ed992116f1315e2abb220",
+      "wav_file": "003_experiment_0.wav",
+      "duration": 41.731,
+      "slide_title": "ದ್ರವಗಳ ವಾಹಕತೆ ಪರೀಕ್ಷೆ: ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 16:40:08"
+    },
+    "005_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "a7c5b7966fe5728352124a3ee6743727",
+      "wav_file": "005_experiment_cont_0_2.wav",
+      "duration": 41.411,
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಹಂತ 2",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 16:40:14"
+    },
+    "004_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "a163a6d41465acc7b90964285f4b8a33",
+      "wav_file": "004_experiment_cont_0_1.wav",
+      "duration": 35.731,
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಹಂತ 1",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 16:40:14"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "40c9fbab7b7c7582f8e9ee8d5d9bd0b0",
+      "wav_file": "001_intro_0.wav",
+      "duration": 60.771,
+      "slide_title": "ದ್ರವಗಳ ವಾಹಕತೆ ಮತ್ತು ಸೂಕ್ಷ್ಮ ಪರೀಕ್ಷಕಗಳು",
+      "type": "intro",
+      "script_words": 92,
+      "generated_at": "2026-04-02 16:40:21"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "5e3b9ab53f84876a6d76f2d8f896fa08",
+      "wav_file": "008_recap_0.wav",
+      "duration": 32.131,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 47,
+      "generated_at": "2026-04-02 16:41:00"
+    },
+    "007_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "5cc8b93053f09c29be92838be6bcbdd9",
+      "wav_file": "007_experiment_cont_0_4.wav",
+      "duration": 42.771,
+      "slide_title": "ಪ್ರಯೋಗದ ತೀರ್ಮಾನ",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 16:41:06"
+    },
+    "006_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "b23f6d2b6f7f9dfc3691d72c8e305065",
+      "wav_file": "006_experiment_cont_0_3.wav",
+      "duration": 33.491,
+      "slide_title": "ವೀಕ್ಷಣೆಗಳು: ಫಲಿತಾಂಶಗಳ ಕೋಷ್ಟಕ",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 16:41:08"
+    }
+  }
+}

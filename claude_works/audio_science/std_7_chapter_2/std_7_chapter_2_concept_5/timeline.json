@@ -1,0 +1,46 @@
+{
+  "module_id": "std_7_chapter_2_concept_5",
+  "chapter_code": "std_7_chapter_2",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 138.993,
+  "total_duration_formatted": "2:18",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_2_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಅನ್ನನಾಳ ಮತ್ತು ಜಠರ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 59.571,
+      "duration": 59.571,
+      "script_words": 83
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "intro",
+      "start": 60.171,
+      "end": 96.982,
+      "duration": 36.811,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_5_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 97.582,
+      "end": 138.393,
+      "duration": 40.811,
+      "script_words": 47
+    }
+  ]
+}

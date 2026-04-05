@@ -1,0 +1,36 @@
+{
+  "type": "intro",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನೀವು ಕೆಲವು ಮೂಲಭೂತ ವಿಷಯಗಳಲ್ಲಿ ಚೆನ್ನಾಗಿ ಪರಿಣತಿ ಹೊಂದಿದ್ದೀರಿ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ನೀವು ಬೀಜೋಕ್ತಿಗಳ ಮೂಲಭೂತ ಅಂಶಗಳನ್ನು ತಿಳಿದಿರಬೇಕು. ಹಾಗೆಯೇ, ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳ ವಿಧಾನವನ್ನು ಬಳಸಿ ಅಪವರ್ತಿಸುವುದು ಮತ್ತು ಪದಗಳನ್ನು ಮರುಗುಂಪು ಮಾಡಿ ಅಪವರ್ತಿಸುವುದು ಹೇಗೆ ಎಂಬುದನ್ನು ನೀವು ಈಗಾಗಲೇ ಕಲಿತಿರಬೇಕು. ಈ ಹಿಂದಿನ ಪರಿಕಲ್ಪನೆಗಳು ನಿಮಗೆ ಚೆನ್ನಾಗಿ ತಿಳಿದಿದ್ದರೆ, ಈ ಪಾಠವು ಇನ್ನಷ್ಟು ಸುಲಭವಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನೀವು ಈ ಕೆಳಗಿನ ವಿಷಯಗಳಲ್ಲಿ ಪರಿಣತಿ ಹೊಂದಿರಬೇಕು:",
+  "display_bullets": [
+    "ಬೀಜೋಕ್ತಿಗಳ ಮೂಲಭೂತ ಅಂಶಗಳು (Basics of algebraic expressions)",
+    "ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳ ವಿಧಾನ (Method of common factors)",
+    "ಪದಗಳ ಮರುಗುಂಪು ಮಾಡಿ ಅಪವರ್ತಿಸುವಿಕೆ (Factorisation by regrouping terms)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "prerequisites_display": [
+    "ಬೀಜೋಕ್ತಿಗಳ ಮೂಲಭೂತ ಅಂಶಗಳು (Basics of algebraic expressions)",
+    "ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳ ವಿಧಾನ (Method of common factors)",
+    "ಪದಗಳ ಮರುಗುಂಪು ಮಾಡಿ ಅಪವರ್ತಿಸುವಿಕೆ (Factorisation by regrouping terms)"
+  ],
+  "chunk_id": "ALG-FAC-2_concept_4_chunk_002"
+}

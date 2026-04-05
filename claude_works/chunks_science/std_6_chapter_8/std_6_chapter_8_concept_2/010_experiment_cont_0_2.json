@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಅವಲೋಕನ (Observation)",
+  "script": "ನೋಡಿ, ಸ್ವಲ್ಪ ಸಮಯ ಕಳೆದಿದೆ. ಈಗ ಬಟ್ಟಲಿನಲ್ಲಿ ಏನಾಗುತ್ತಿದೆ ಎಂದು ಗಮನಿಸಿ. ಘನವಾಗಿದ್ದ, ಗಟ್ಟಿಯಾಗಿದ್ದ ಮಂಜುಗಡ್ಡೆಯ ತುಂಡುಗಳು ಈಗ ನಿಧಾನವಾಗಿ ಕರಗಲು ಪ್ರಾರಂಭಿಸಿವೆ. ಅವುಗಳ ಆಕಾರ ಬದಲಾಗುತ್ತಿದೆ. ಮಂಜುಗಡ್ಡೆಯ ಕೆಳಗೆ ನೀರು ಸಂಗ್ರಹವಾಗುತ್ತಿರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಅಂದರೆ, ಘನ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದ ಮಂಜುಗಡ್ಡೆ ಈಗ ದ್ರವ ಸ್ಥಿತಿಗೆ, ಅಂದರೆ ನೀರಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತಿದೆ. ಬಟ್ಟಲಿನ ಹೊರಭಾಗವನ್ನು ಮುಟ್ಟಿದರೆ ತಂಪಾಗಿರುತ್ತದೆ. ಇದು ಮಂಜುಗಡ್ಡೆ ತನ್ನ ಸುತ್ತಲಿನ ಗಾಳಿಯಿಂದ ಉಷ್ಣವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತಿದೆ ಎಂಬುದರ ಸಂಕೇತವಾಗಿದೆ.",
+  "script_display": "ನೋಡಿ, ಸ್ವಲ್ಪ ಸಮಯ ಕಳೆದಿದೆ. ಈಗ ಬಟ್ಟಲಿನಲ್ಲಿ ಏನಾಗುತ್ತಿದೆ ಎಂದು ಗಮನಿಸಿ. ಘನವಾಗಿದ್ದ, ಗಟ್ಟಿಯಾಗಿದ್ದ ಮಂಜುಗಡ್ಡೆಯ ತುಂಡುಗಳು ಈಗ ನಿಧಾನವಾಗಿ ಕರಗಲು ಪ್ರಾರಂಭಿಸಿವೆ. ಅವುಗಳ ಆಕಾರ ಬದಲಾಗುತ್ತಿದೆ. ಮಂಜುಗಡ್ಡೆಯ ಕೆಳಗೆ ನೀರು ಸಂಗ್ರಹವಾಗುತ್ತಿರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಅಂದರೆ, ಘನ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದ ಮಂಜುಗಡ್ಡೆ ಈಗ ದ್ರವ ಸ್ಥಿತಿಗೆ, ಅಂದರೆ ನೀರಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತಿದೆ. ಬಟ್ಟಲಿನ ಹೊರಭಾಗವನ್ನು ಮುಟ್ಟಿದರೆ ತಂಪಾಗಿರುತ್ತದೆ. ಇದು ಮಂಜುಗಡ್ಡೆ ತನ್ನ ಸುತ್ತಲಿನ ಗಾಳಿಯಿಂದ ಉಷ್ಣವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತಿದೆ ಎಂಬುದರ ಸಂಕೇತವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಮಂಜುಗಡ್ಡೆ ಕರಗಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ.",
+    "ಘನ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದ ಮಂಜುಗಡ್ಡೆ, ದ್ರವ ಸ್ಥಿತಿಯ ನೀರಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of the bowl on the table after some time. The ice cubes are smaller and partially melted, and there is a pool of water at the bottom of the bowl. An arrow indicates heat from the surroundings moving towards the bowl.",
+    "labels": "ಕರಗುತ್ತಿರುವ ಮಂಜುಗಡ್ಡೆ, ನೀರು, ಸುತ್ತಲಿನಿಂದ ಉಷ್ಣ",
+    "scientific_significance": "Visually represents the process of melting, where the solid (ice) is turning into a liquid (water) by absorbing ambient heat.",
+    "placeholder_note": "Image to be generated showing half-melted ice in a pool of water."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_8_concept_2_chunk_010"
+}

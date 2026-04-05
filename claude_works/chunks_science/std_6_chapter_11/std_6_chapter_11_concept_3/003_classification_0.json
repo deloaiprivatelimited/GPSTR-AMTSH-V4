@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನೀರಿನ ಆಕರಗಳು: ಒಂದು ಪರಿಚಯ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ನಮ್ಮ ಭೂಮಿಯನ್ನು 'ನೀಲಿ ಗ್ರಹ' ಎಂದು ಕರೆಯುತ್ತಾರೆ, ಏಕೆಂದರೆ ಅದರ ಮೇಲ್ಮೈಯ ಹೆಚ್ಚಿನ ಭಾಗ ನೀರಿನಿಂದ ಆವೃತವಾಗಿದೆ. ಆದರೆ, ಈ ಎಲ್ಲಾ ನೀರು ಒಂದೇ ರೀತಿಯಾಗಿಲ್ಲ. ಕೆಲವು ನೀರು ಕುಡಿಯಲು ಮತ್ತು ಕೃಷಿಗೆ ಯೋಗ್ಯವಾಗಿದ್ದರೆ, ಇನ್ನು ಕೆಲವು ಅಲ್ಲ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಭೂಮಿಯ ಮೇಲಿರುವ ವಿವಿಧ ರೀತಿಯ ನೀರಿನ ಆಕರಗಳ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಅವುಗಳನ್ನು ಮುಖ್ಯವಾಗಿ ಎರಡು ವಿಧಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ. ಅವು ಯಾವುವು ಎಂದು ತಿಳಿಯೋಣ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ನಮ್ಮ ಭೂಮಿಯನ್ನು 'ನೀಲಿ ಗ್ರಹ' (Blue Planet) ಎಂದು ಕರೆಯುತ್ತಾರೆ, ಏಕೆಂದರೆ ಅದರ ಮೇಲ್ಮೈಯ ಹೆಚ್ಚಿನ ಭಾಗ ನೀರಿನಿಂದ ಆವೃತವಾಗಿದೆ. ಆದರೆ, ಈ ಎಲ್ಲಾ ನೀರು ಒಂದೇ ರೀತಿಯಾಗಿಲ್ಲ. ಕೆಲವು ನೀರು ಕುಡಿಯಲು ಮತ್ತು ಕೃಷಿಗೆ ಯೋಗ್ಯವಾಗಿದ್ದರೆ, ಇನ್ನು ಕೆಲವು ಅಲ್ಲ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಭೂಮಿಯ ಮೇಲಿರುವ ವಿವಿಧ ರೀತಿಯ ನೀರಿನ ಆಕರಗಳ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಅವುಗಳನ್ನು ಮುಖ್ಯವಾಗಿ ಎರಡು ವಿಧಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ. ಅವು ಯಾವುವು ಎಂದು ತಿಳಿಯೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "centered_title_with_bg",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beautiful shot of Earth from space, highlighting the vast blue oceans, earning it the name 'Blue Planet'.",
+    "labels": "Earth, Oceans, Continents",
+    "scientific_significance": "Visually establishes the prevalence of water on Earth's surface, setting the context for the lesson.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_6_chapter_11_concept_3_chunk_003"
+}

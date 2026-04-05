@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆ 4.6: ಎಥನಾಲ್ ಮತ್ತು ಸೋಡಿಯಂ ವರ್ತನೆ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಇಂದಿನ ತರಗತಿಯಲ್ಲಿ ನಾವು ಎಥನಾಲ್‌ನ ಒಂದು ಪ್ರಮುಖ ರಾಸಾಯನಿಕ ಗುಣವನ್ನು ಪ್ರಯೋಗದ ಮೂಲಕ ತಿಳಿಯೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಹೆಸರು 'ಎಥನಾಲ್‌ನ ಸೋಡಿಯಂನೊಂದಿಗೆ ವರ್ತನೆ'. ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು ನಮಗೆ ಬೇಕಾದ ಉಪಕರಣಗಳು ಮತ್ತು ರಾಸಾಯನಿಕಗಳನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ಪ್ರನಾಳ, ಶುದ್ಧ ಎಥನಾಲ್, ಮತ್ತು ಒಂದು ಸಣ್ಣ ಸೋಡಿಯಂ ತುಣುಕು ಬೇಕಾಗುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಈ ಸರಳವಾದ ಉಪಕರಣಗಳ ಜೋಡಣೆಯನ್ನು ನೋಡಬಹುದು. ಈ ಪ್ರಯೋಗವು ಎಥನಾಲ್‌ನ ಆಮ್ಲೀಯ ಸ್ವಭಾವವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಇಂದಿನ ತರಗತಿಯಲ್ಲಿ ನಾವು ಎಥನಾಲ್‌ನ ಒಂದು ಪ್ರಮುಖ ರಾಸಾಯನಿಕ ಗುಣವನ್ನು ಪ್ರಯೋಗದ ಮೂಲಕ ತಿಳಿಯೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಹೆಸರು 'ಎಥನಾಲ್‌ನ ಸೋಡಿಯಂನೊಂದಿಗೆ ವರ್ತನೆ'. ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು ನಮಗೆ ಬೇಕಾದ ಉಪಕರಣಗಳು ಮತ್ತು ರಾಸಾಯನಿಕಗಳನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ಪ್ರನಾಳ, ಶುದ್ಧ ಎಥನಾಲ್ (C₂H₅OH), ಮತ್ತು ಒಂದು ಸಣ್ಣ ಸೋಡಿಯಂ (Na) ತುಣುಕು ಬೇಕಾಗುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಈ ಸರಳವಾದ ಉಪಕರಣಗಳ ಜೋಡಣೆಯನ್ನು ನೋಡಬಹುದು. ಈ ಪ್ರಯೋಗವು ಎಥನಾಲ್‌ನ ಆಮ್ಲೀಯ ಸ್ವಭಾವವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬೇಕಾಗುವ ವಸ್ತುಗಳು:",
+    "ಪ್ರನಾಳ",
+    "ಶುದ್ಧ ಎಥನಾಲ್ (C₂H₅OH)",
+    "ಸೋಡಿಯಂ (Na) ತುಣುಕು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the reaction of ethanol with sodium. A test tube contains ethanol, and a small piece of sodium metal is being dropped into it. Bubbles are shown rising from the sodium piece.",
+    "labels": "ಪ್ರನಾಳ, ಎಥನಾಲ್, ಸೋಡಿಯಂ ತುಣುಕು, ಅನಿಲದ ಗುಳ್ಳೆಗಳು",
+    "scientific_significance": "Illustrates the simple setup required to demonstrate the acidic nature of ethanol.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_4_concept_9_chunk_019"
+}

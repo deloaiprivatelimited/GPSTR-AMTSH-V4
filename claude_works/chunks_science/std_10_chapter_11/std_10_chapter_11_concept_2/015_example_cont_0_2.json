@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಅಂತಿಮ ಉತ್ತರ, 12 ವೋಲ್ಟ್ ವಿಭವಾಂತರವಿರುವ ಎರಡು ಬಿಂದುಗಳ ನಡುವೆ 2 ಕೂಲೊಂಬ್ ಆವೇಶವನ್ನು ಚಲಿಸಲು ಮಾಡಿದ ಕೆಲಸ 24 ಜೌಲ್ ಆಗಿದೆ. ಕೆಲಸದ ಎಸ್ಐ ಏಕಮಾನ ಜೌಲ್, ಅಕ್ಷರ J, ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.",
+  "script_display": "ಹಾಗಾಗಿ, ಅಂತಿಮ ಉತ್ತರ: 12 V ವಿಭವಾಂತರವಿರುವ ಎರಡು ಬಿಂದುಗಳ ನಡುವೆ 2 C ಆವೇಶವನ್ನು ಚಲಿಸಲು ಮಾಡಿದ ಕೆಲಸ 24 J ಆಗಿದೆ. ಕೆಲಸದ SI ಏಕಮಾನ ಜೌಲ್ (J) ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.",
+  "display_bullets": [
+    "ನಡೆದ ಕೆಲಸ (W) = 24 J"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "W = 24 \\text{ J}",
+    "placeholder_note": "Final answer highlighted in a box"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "std_10_chapter_11_example_11.2",
+  "final_answer": "24 J",
+  "final_answer_display": "ನಡೆದ ಕೆಲಸ 24 ಜೌಲ್ (J) ಆಗಿದೆ.",
+  "chunk_id": "std_10_chapter_11_concept_2_chunk_015"
+}

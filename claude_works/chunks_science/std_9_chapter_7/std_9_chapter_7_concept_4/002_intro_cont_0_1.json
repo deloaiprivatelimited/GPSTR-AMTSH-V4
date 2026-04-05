@@ -1,0 +1,31 @@
+{
+  "type": "prerequisites",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಿಮಗೆ ಕೆಲವು ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರಬೇಕು. ಮೊದಲನೆಯದಾಗಿ, ಚಲನೆ, ದೂರ ಮತ್ತು ಸ್ಥಾನ ಪಲ್ಲಟ. ಎರಡನೆಯದಾಗಿ, ಜವ ಮತ್ತು ವೇಗ. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ವೇಗೋತ್ಕರ್ಷ. ಈ ವಿಷಯಗಳಲ್ಲಿ ನಿಮಗೆ ಏನಾದರೂ ಅನುಮಾನಗಳಿದ್ದರೆ, ಹಿಂದಿನ ಪಾಠಗಳನ್ನು ಒಮ್ಮೆ ಪುನರಾವರ್ತಿಸಿ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಿಮಗೆ ಈ ಕೆಳಗಿನ ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರಬೇಕು. ಈ ವಿಷಯಗಳಲ್ಲಿ ನಿಮಗೆ ಏನಾದರೂ ಅನುಮಾನಗಳಿದ್ದರೆ, ಹಿಂದಿನ ಪಾಠಗಳನ್ನು ಒಮ್ಮೆ ಪುನರಾವರ್ತಿಸಿ.",
+  "display_bullets": [
+    "ಚಲನೆ, ದೂರ ಮತ್ತು ಸ್ಥಾನ ಪಲ್ಲಟ (Motion, Distance, and Displacement)",
+    "ಜವ ಮತ್ತು ವೇಗ (Speed and Velocity)",
+    "ವೇಗೋತ್ಕರ್ಷ (Acceleration)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "left_text_bullet_list",
+    "text_zone": "left",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_9_chapter_7_concept_4_chunk_002"
+}

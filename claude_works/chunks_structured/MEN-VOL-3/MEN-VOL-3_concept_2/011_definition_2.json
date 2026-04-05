@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಗೋಳದ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ: ಪರಿಚಯ",
+  "script": "ಈಗ ನಾವು ಗೋಳದ ಮೇಲೈ ವಿಸ್ತೀರ್ಣದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಗೋಳಕ್ಕೆ ಒಂದೇ ಒಂದು ನಿರಂತರ ವಕ್ರ ಮೇಲ್ಮೈ ಇರುತ್ತದೆ. ಸಿಲಿಂಡರ್ ಅಥವಾ ಶಂಕುವಿನಂತೆ ಇದಕ್ಕೆ ಬೇರೆ ಬೇರೆ ಮೇಲ್ಮೈಗಳಿಲ್ಲ. ಈ ಕಾರಣದಿಂದ, ಗೋಳಕ್ಕೆ 'ಪಾರ್ಶ್ವ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ' ಮತ್ತು 'ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ' ಎಂಬ ವ್ಯತ್ಯಾಸವಿಲ್ಲ. ಇವೆರಡೂ ಒಂದೇ ಆಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, ನಾವು ಗೋಳದ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಎಂದು ಹೇಳಿದಾಗ, ಅದು ಅದರ ಸಂಪೂರ್ಣ ಹೊರಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "script_display": "ಈಗ ನಾವು ಗೋಳದ ಮೇಲೈ ವಿಸ್ತೀರ್ಣದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಗೋಳಕ್ಕೆ ಒಂದೇ ಒಂದು ನಿರಂತರ ವಕ್ರ ಮೇಲ್ಮೈ ಇರುತ್ತದೆ. ಸಿಲಿಂಡರ್ ಅಥವಾ ಶಂಕುವಿನಂತೆ ಇದಕ್ಕೆ ಬೇರೆ ಬೇರೆ ಮೇಲ್ಮೈಗಳಿಲ್ಲ. ಈ ಕಾರಣದಿಂದ, ಗೋಳಕ್ಕೆ 'ಪಾರ್ಶ್ವ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ' ಮತ್ತು 'ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ' ಎಂಬ ವ್ಯತ್ಯಾಸವಿಲ್ಲ. ಇವೆರಡೂ ಒಂದೇ ಆಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, ನಾವು ಗೋಳದ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಎಂದು ಹೇಳಿದಾಗ, ಅದು ಅದರ ಸಂಪೂರ್ಣ ಹೊರಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "display_bullets": [
+    "ಗೋಳಕ್ಕೆ ಒಂದೇ ಒಂದು ನಿರಂತರ ವಕ್ರ ಮೇಲ್ಮೈ ಇರುತ್ತದೆ.",
+    "ಆದ್ದರಿಂದ, 'ಪಾರ್ಶ್ವ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ' ಮತ್ತು 'ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ' ಎಂಬ ವ್ಯತ್ಯಾಸವಿಲ್ಲ.",
+    "ಗೋಳದ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಎಂದರೆ ಅದರ ಸಂಪೂರ್ಣ ಹೊರಮೈ ವಿಸ್ತೀರ್ಣ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_layout_11",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple 3D sphere with its radius 'r' marked from the center to the surface. The surface is highlighted to indicate 'surface area'.",
+    "labels": "Sphere, Radius (r), Surface Area",
+    "mathematical_significance": "Represents a sphere, the subject of the surface area calculation, and clarifies that it has a single, continuous surface.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-VOL-3_concept_2_chunk_011"
+}

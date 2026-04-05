@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: (i) ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಮೊದಲಿಗೆ, ತ್ರಿಭुಜ PQR ನ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವು ಅರ್ಧ ಗುಣಿಸು ಪಾದ ಗುಣಿಸು ಎತ್ತರ. ಇಲ್ಲಿ, ನಾವು ಪಾದ QR ಮತ್ತು ಅದರ ಅನುರೂಪ ಎತ್ತರ PL ಅನ್ನು ಬಳಸುತ್ತೇವೆ. QR ನ ಉದ್ದ ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು PL ನ ಉದ್ದ ಐದು ಸೆಂಟಿಮೀಟರ್. ಈ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿದಾಗ, ವಿಸ್ತೀರ್ಣ ಸಮ ಅರ್ಧ ಗುಣಿಸು ನಾಲ್ಕು ಗುಣಿಸು ಐದು. ನಾಲ್ಕರ ಅರ್ಧ ಎರಡು, ಮತ್ತು ಎರಡನ್ನು ಐದರಿಂದ ಗುಣಿಸಿದಾಗ ನಮಗೆ ಹತ್ತು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ ಹತ್ತು ಚದರ ಸೆಂಟಿಮೀಟರ್.",
+  "script_display": "ಮೊದಲಿಗೆ, ΔPQR ನ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವು $1/2 \\times \\text{ಪಾದ} \\times \\text{ಎತ್ತರ}$. ಇಲ್ಲಿ, ನಾವು ಪಾದ $QR$ ಮತ್ತು ಅದರ ಅನುರೂಪ ಎತ್ತರ $PL$ ಅನ್ನು ಬಳಸುತ್ತೇವೆ. $QR$ ನ ಉದ್ದ 4 cm ಮತ್ತು $PL$ ನ ಉದ್ದ 5 cm. ಈ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿದಾಗ, ವಿಸ್ತೀರ್ಣ $= 1/2 \\times 4 \\times 5$. 4ರ ಅರ್ಧ 2, ಮತ್ತು $2 \\times 5$ ನಮಗೆ 10 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ 10 cm².",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_3",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "MEN-AREA-1_example_5",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ವಿಸ್ತೀರ್ಣ = $\\frac{1}{2} \\times$ ಪಾದ $\\times$ ಎತ್ತರ",
+      "justification": "ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ."
+    },
+    {
+      "step": 2,
+      "action_display": "ವಿಸ್ತೀರ್ಣ = $\\frac{1}{2} \\times QR \\times PL = \\frac{1}{2} \\times 4 \\times 5$",
+      "justification": "ಪಾದ QR ಮತ್ತು ಎತ್ತರ PL ನ ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸಲಾಗಿದೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "ವಿಸ್ತೀರ್ಣ = $2 \\times 5 = 10$ cm²",
+      "justification": "ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲಾಗಿದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "MEN-AREA-1_concept_4_chunk_013"
+}

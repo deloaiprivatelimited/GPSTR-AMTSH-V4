@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಪರಾವರ್ತಿತ vs ಐಚ್ಛಿಕ ಕ್ರಿಯೆ",
+  "script": "ಈಗ, ಪರಾವರ್ತಿತ ಕ್ರಿಯೆ ಮತ್ತು ಐಚ್ಛಿಕ ಕ್ರಿಯೆಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಬಿಸಿ ವಸ್ತುವನ್ನು ಮುಟ್ಟಿದಾಗ ಕೈಯನ್ನು ಹಿಂದಕ್ಕೆ ಎಳೆಯುವುದು ಪರಾವರ್ತಿತ ಕ್ರಿಯೆ. ಇದು ಮಿದುಳುಬಳ್ಳಿಯಿಂದ ನಿಯಂತ್ರಿಸಲ್ಪಡುತ್ತದೆ ಮತ್ತು ಅತ್ಯಂತ ವೇಗವಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ ಆಲೋಚನೆಗೆ ಸಮಯವಿರುವುದಿಲ್ಲ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಬಲಭಾಗದಲ್ಲಿ, ಮೇಜಿನ ಮೇಲಿರುವ ಪುಸ್ತಕವನ್ನು ಎತ್ತಿಕೊಳ್ಳುವುದು ಒಂದು ಐಚ್ಛಿಕ ಕ್ರಿಯೆ. ಇದು ಮಿದುಳಿನಿಂದ ನಿಯಂತ್ರಿಸಲ್ಪಡುತ್ತದೆ. ನೀವು ಪುಸ್ತಕವನ್ನು ನೋಡುತ್ತೀರಿ, ಅದನ್ನು ಎತ್ತಿಕೊಳ್ಳಲು ನಿರ್ಧರಿಸುತ್ತೀರಿ, ಮತ್ತು ನಂತರ ನಿಮ್ಮ ಸ್ನಾಯುಗಳಿಗೆ ಆದೇಶ ನೀಡುತ್ತೀರಿ. ಇದು ನಿಧಾನವಾದ ಮತ್ತು ಆಲೋಚನಾಪೂರ್ವಕ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ, ಪರಾವರ್ತಿತ ಕ್ರಿಯೆ ಮತ್ತು ಐಚ್ಛಿಕ ಕ್ರಿಯೆಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "side_by_side_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "{\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{|p{5cm}|p{5cm}|}\n\\hline\n\\textbf{ಪರಾವರ್ತಿತ ಕ್ರಿಯೆ (Reflex Action)} & \\textbf{ಐಚ್ಛಿಕ ಕ್ರಿಯೆ (Voluntary Action)} \\\\\n\\hline\nಬಿಸಿ ವಸ್ತುವನ್ನು ಮುಟ್ಟಿದಾಗ ಕೈ ಹಿಂದಕ್ಕೆ ಎಳೆಯುವುದು & ಮೇಜಿನ ಮೇಲಿರುವ ಪುಸ್ತಕವನ್ನು ಎತ್ತಿಕೊಳ್ಳುವುದು \\\\\n\\hline\nಅನೈಚ್ಛಿಕ ಮತ್ತು ಹಠಾತ್ & ಐಚ್ಛಿಕ ಮತ್ತು ಆಲೋಚನಾಪೂರ್ವಕ \\\\\n\\hline\nಮಿದುಳುಬಳ್ಳಿಯಿಂದ ನಿಯಂತ್ರಿಸಲ್ಪಡುತ್ತದೆ & ಮಿದುಳಿನಿಂದ ನಿಯಂತ್ರಿಸಲ್ಪಡುತ್ತದೆ \\\\\n\\hline\nಅತ್ಯಂತ ವೇಗವಾದ ಪ್ರತಿಕ್ರಿಯೆ & ನಿಧಾನವಾದ ಪ್ರತಿಕ್ರಿಯೆ \\\\\n\\hline\n\\end{array}}",
+    "placeholder_note": "A two-column table comparing Reflex Action and Voluntary Action."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_10_chapter_6_concept_2_chunk_006"
+}

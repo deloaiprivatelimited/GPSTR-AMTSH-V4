@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ಒಂದು ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್ ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನೀರಿನಿಂದ ತುಂಬಿಸಿ. ನೀರು ಬೀಜಗಳ ಬೇರುಗಳಿಗೆ ತೇವಾಂಶವನ್ನು ಒದಗಿಸುತ್ತದೆ. ನಂತರ, ಫ್ಲಾಸ್ಕ್‌ನ ಬಾಯಿಯನ್ನು ಒಂದು ತಂತಿಯ ಜಾಲರಿಯಿಂದ ಎಚ್ಚರಿಕೆಯಿಂದ ಮುಚ್ಚಿ. ಈಗ, ನಾವು ಮೊದಲೇ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡ ಕೆಲವು ಮೊಳಕೆಯೊಡೆದ ಬೀಜಗಳನ್ನು ಆ ಜಾಲರಿಯ ಮೇಲೆ ಇಡೋಣ. ಬೀಜಗಳ ಬೇರುಗಳು ಜಾಲರಿಯ ಮೂಲಕ ಕೆಳಗೆ ನೀರಿನ ಕಡೆಗೆ ಬೆಳೆಯಲು ಇದು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ಒಂದು ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್ ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನೀರಿನಿಂದ ತುಂಬಿಸಿ. ನೀರು ಬೀಜಗಳ ಬೇರುಗಳಿಗೆ ತೇವಾಂಶವನ್ನು ಒದಗಿಸುತ್ತದೆ. ನಂತರ, ಫ್ಲಾಸ್ಕ್‌ನ ಬಾಯಿಯನ್ನು ಒಂದು ತಂತಿಯ ಜಾಲರಿಯಿಂದ ಎಚ್ಚರಿಕೆಯಿಂದ ಮುಚ್ಚಿ. ಈಗ, ನಾವು ಮೊದಲೇ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡ ಕೆಲವು ಮೊಳಕೆಯೊಡೆದ ಬೀಜಗಳನ್ನು ಆ ಜಾಲರಿಯ ಮೇಲೆ ಇಡೋಣ. ಬೀಜಗಳ ಬೇರುಗಳು ಜಾಲರಿಯ ಮೂಲಕ ಕೆಳಗೆ ನೀರಿನ ಕಡೆಗೆ ಬೆಳೆಯಲು ಇದು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್‌ನಲ್ಲಿ ನೀರು ತುಂಬಿ, ಅದರ ಬಾಯಿಯನ್ನು ತಂತಿಯ ಜಾಲರಿಯಿಂದ ಮುಚ್ಚಿ.",
+    "ಜಾಲರಿಯ ಮೇಲೆ ಕೆಲವು ಮೊಳಕೆಯೊಡೆದ ಬೀಜಗಳನ್ನಿಡಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_video_centric",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing the first two steps. A hand is placing a wire mesh over a water-filled conical flask. Another illustration shows sprouted seeds being placed on the mesh.",
+    "labels": "ನೀರು ತುಂಬಿದ ಫ್ಲಾಸ್ಕ್, ತಂತಿಯ ಜಾಲರಿ, ಮೊಳಕೆಯೊಡೆದ ಬೀಜ",
+    "scientific_significance": "Shows the initial setup of providing water and support for the germinating seeds.",
+    "placeholder_note": "Image to be generated for steps 1 and 2."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_6_concept_4_chunk_017"
+}

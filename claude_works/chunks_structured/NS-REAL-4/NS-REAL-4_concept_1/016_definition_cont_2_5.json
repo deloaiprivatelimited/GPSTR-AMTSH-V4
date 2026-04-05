@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಪವರ್ತನ ವೃಕ್ಷದ ಫಲಿತಾಂಶ",
+  "script": "ಅಪವರ್ತನ ವೃಕ್ಷದಿಂದ ನಮಗೆ 36 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು 2, 2, 3, ಮತ್ತು 3 ಎಂದು ಸಿಕ್ಕಿವೆ. ಇವುಗಳನ್ನು ಗುಣಿಸಿದಾಗ ನಮಗೆ ಮೂಲ ಸಂಖ್ಯೆ 36 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, 36 ಸಮ 2 ಗುಣಿಸು 2 ಗುಣಿಸು 3 ಗುಣಿಸು 3. ಇದನ್ನು ಘಾತಾಂಕ ರೂಪದಲ್ಲಿ ಬರೆದಾಗ, 36 ಸಮ 2 ರ ವರ್ಗ ಗುಣಿಸು 3 ರ ವರ್ಗ ಎಂದಾಗುತ್ತದೆ. ಈ ವಿಧಾನವು ಯಾವುದೇ ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಯ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಹಳ ಉಪಯುಕ್ತವಾಗಿದೆ. ಇದು ಅಂಕಗಣಿತದ ಮೂಲ ಪ್ರಮೇಯದ ಪ್ರಾಯೋಗಿಕ ಅನ್ವಯವಾಗಿದೆ.",
+  "script_display": "ಅಪವರ್ತನ ವೃಕ್ಷದಿಂದ ನಮಗೆ 36 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು 2, 2, 3, ಮತ್ತು 3 ಎಂದು ಸಿಕ್ಕಿವೆ. ಇವುಗಳನ್ನು ಗುಣಿಸಿದಾಗ ನಮಗೆ ಮೂಲ ಸಂಖ್ಯೆ 36 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, $36 = 2 \\times 2 \\times 3 \\times 3$. ಇದನ್ನು ಘಾತಾಂಕ ರೂಪದಲ್ಲಿ ಬರೆದಾಗ, $36 = 2^2 \\times 3^2$ ಎಂದಾಗುತ್ತದೆ. ಈ ವಿಧಾನವು ಯಾವುದೇ ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಯ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಹಳ ಉಪಯುಕ್ತವಾಗಿದೆ. ಇದು ಅಂಕಗಣಿತದ ಮೂಲ ಪ್ರಮೇಯದ ಪ್ರಾಯೋಗಿಕ ಅನ್ವಯವಾಗಿದೆ.",
+  "display_bullets": [
+    "36 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು: 2, 2, 3, 3",
+    "ಗುಣಲಬ್ಧ: $36 = 2 \\times 2 \\times 3 \\times 3$",
+    "ಘಾತಾಂಕ ರೂಪ: $36 = 2^2 \\times 3^2$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "kan_v1_key_takeaway_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "36 = 2 \\times 2 \\times 3 \\times 3 = 2^2 \\times 3^2",
+    "placeholder_note": "Final prime factorization of 36"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "easy",
+  "source_example_id": "",
+  "chunk_id": "NS-REAL-4_concept_1_chunk_016"
+}

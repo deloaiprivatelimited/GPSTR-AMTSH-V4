@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: 12.25 ರ ವರ್ಗಮೂಲ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 12.25 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಾವು ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಇಲ್ಲಿ ಮುಖ್ಯವಾದ ಮೊದಲ ಹಂತವೆಂದರೆ ಅಂಕಿಗಳನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿ ಮಾಡುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 12.25 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಾವು ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಇಲ್ಲಿ ಮುಖ್ಯವಾದ ಮೊದಲ ಹಂತವೆಂದರೆ ಅಂಕಿಗಳನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿ ಮಾಡುವುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 12.25 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ವಿಧಾನ: ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನ (Long Division Method)."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sqrt{12.25} = ?",
+    "placeholder_note": "A formula box showing the problem: square root of 12.25 equals question mark."
+  },
+  "source_example_id": "NS-SQR-2_example_7",
+  "prerequisites_display": [
+    "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನ",
+    "ವರ್ಗ ಸಂಖ್ಯೆಗಳು"
+  ],
+  "chunk_id": "NS-SQR-2_concept_8_chunk_005"
+}

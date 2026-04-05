@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ನಾಸ್ಟಿಕ್ ಚಲನೆ vs ಅನುವರ್ತನಾ ಚಲನೆ",
+  "script": "ಈಗ ನಾಸ್ಟಿಕ್ ಚಲನೆ ಮತ್ತು ಅನುವರ್ತನಾ ಚಲನೆಗೆ ಇರುವ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಾಸ್ಟಿಕ್ ಚಲನೆಯು ದಿಕ್ಕನ್ನು ಅವಲಂಬಿಸುವುದಿಲ್ಲ ಮತ್ತು ವೇಗವಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಮುಟ್ಟಿದರೆ ಮುನಿ ಗಿಡ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಅನುವರ್ತನಾ ಚಲನೆಯು ದಿಕ್ಕನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ ಮತ್ತು ನಿಧಾನವಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಸಸ್ಯದ ಕಾಂಡವು ಬೆಳಕಿನ ಕಡೆಗೆ ಬಾಗುವುದು. ಅತ್ಯಂತ ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸವೆಂದರೆ, ನಾಸ್ಟಿಕ್ ಚಲನೆಯು ಬೆಳವಣಿಗೆಗೆ ಸಂಬಂಧಿಸಿಲ್ಲ, ಆದರೆ ಅನುವರ್ತನಾ ಚಲನೆಯು ಸಸ್ಯದ ಬೆಳವಣಿಗೆಯ ಒಂದು ಭಾಗವಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾಸ್ಟಿಕ್ ಚಲನೆ (Nastic Movement) ಮತ್ತು ಅನುವರ್ತನಾ ಚಲನೆಗೆ (Tropic Movement) ಇರುವ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಾಸ್ಟಿಕ್ ಚಲನೆಯು ದಿಕ್ಕನ್ನು ಅವಲಂಬಿಸುವುದಿಲ್ಲ ಮತ್ತು ವೇಗವಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಮುಟ್ಟಿದರೆ ಮುನಿ ಗಿಡ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಅನುವರ್ತನಾ ಚಲನೆಯು ದಿಕ್ಕನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ ಮತ್ತು ನಿಧಾನವಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಸಸ್ಯದ ಕಾಂಡವು ಬೆಳಕಿನ ಕಡೆಗೆ ಬಾಗುವುದು. ಅತ್ಯಂತ ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸವೆಂದರೆ, ನಾಸ್ಟಿಕ್ ಚಲನೆಯು ಬೆಳವಣಿಗೆಗೆ ಸಂಬಂಧಿಸಿಲ್ಲ, ಆದರೆ ಅನುವರ್ತನಾ ಚಲನೆಯು ಸಸ್ಯದ ಬೆಳವಣಿಗೆಯ ಒಂದು ಭಾಗವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A table comparing Nastic and Tropic movements based on direction, speed, and relation to growth. The script will narrate the comparison points shown in the table. The table will have two columns, one for Nastic and one for Tropic movement, and rows for the comparison criteria (Direction, Speed, Growth). The left column will be for Nastic Movement and the right for Tropic Movement. The headers will be 'ಗುಣಲಕ್ಷಣ', 'ನಾಸ್ಟಿಕ್ ಚಲನೆ', 'ಅನುವರ್ತನಾ ಚಲನೆ'. The rows will be ['ದಿಕ್ಕು', 'ದಿಕ್ಕು-ರಹಿತ (Non-directional)', 'ದಿಕ್ಕು-ಸಂಬಂಧಿತ (Directional)'], ['ವೇಗ', 'ವೇಗವಾದ (Fast)', 'ನಿಧಾನವಾದ (Slow)'], and ['ಬೆಳವಣಿಗೆ', 'ಬೆಳವಣಿಗೆ-ರಹಿತ (Non-growth)', 'ಬೆಳವಣಿಗೆ-ಸಂಬಂಧಿತ (Growth-related)']. The caption will be 'ನಾಸ್ಟಿಕ್ ಮತ್ತು ಅನುವರ್ತನಾ ಚಲನೆಗಳ ನಡುವಿನ ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸಗಳು.'."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_10_chapter_6_concept_5_chunk_005"
+}

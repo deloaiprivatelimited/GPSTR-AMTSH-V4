@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯಾನ (Definition)",
+  "script": "ಈಗ ನಾವು ಇದರ ನಿಖರವಾದ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. ಯಾವ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು a ಒಂದು x ಪ್ಲಸ್ b ಒಂದು y ಪ್ಲಸ್ c ಒಂದು ಈಕ್ವಲ್ಸ್ ಸೊನ್ನೆ, ಮತ್ತು a ಎರಡು x ಪ್ಲಸ್ b ಎರಡು y ಪ್ಲಸ್ c ಎರಡು ಈಕ್ವಲ್ಸ್ ಸೊನ್ನೆ, ಈ ರೂಪದಲ್ಲಿ ಬರೆಯಬಹುದೇ, ಅವುಗಳನ್ನು ಎರಡು ಚರಾಕ್ಷರಗಳಿರುವ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳ ಜೋಡಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ x ಮತ್ತು y ಚರಾಕ್ಷರಗಳು. a ಒಂದು, b ಒಂದು, c ಒಂದು, ಮತ್ತು a ಎರಡು, b ಎರಡು, c ಎರಡು ಇವೆಲ್ಲವೂ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳಾಗಿವೆ, ಅಂದರೆ ರಿಯಲ್ ನಂಬರ್ಸ್.",
+  "script_display": "ಈಗ ನಾವು ಇದರ ನಿಖರವಾದ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. ಯಾವ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು $a_1x + b_1y + c_1 = 0$ ಮತ್ತು $a_2x + b_2y + c_2 = 0$ ರೂಪದಲ್ಲಿ ಬರೆಯಬಹುದೇ, ಅವುಗಳನ್ನು ಎರಡು ಚರಾಕ್ಷರಗಳಿರುವ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳ ಜೋಡಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ $x$ ಮತ್ತು $y$ ಚರಾಕ್ಷರಗಳು. $a_1, b_1, c_1$ ಮತ್ತು $a_2, b_2, c_2$ ಇವೆಲ್ಲವೂ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳಾಗಿವೆ (real numbers).",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "modern",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "a_1x + b_1y + c_1 = 0 \\\\ a_2x + b_2y + c_2 = 0",
+    "placeholder_note": "Display the two general form equations one below the other."
+  },
+  "chunk_id": "ALG-PAIR-4_concept_1_chunk_003"
+}

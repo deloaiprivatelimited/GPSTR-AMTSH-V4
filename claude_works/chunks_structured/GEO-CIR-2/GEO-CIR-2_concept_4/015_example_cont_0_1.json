@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಈ ಸಮಸ್ಯೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ಬಿಡಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ಒಂದೇ ವೃತ್ತಖಂಡದಲ್ಲಿನ ಕೋನಗಳ ಗುಣವನ್ನು ಬಳಸೋಣ. ಇಲ್ಲಿ, ಕೋನ CAD ಮತ್ತು ಕೋನ CBD, ಇವೆರಡೂ ಕಂಸ CD ಯಿಂದ ಉಂಟಾದ ಕೋನಗಳಾಗಿವೆ. ಆದ್ದರಿಂದ, ಅವು ಸಮವಾಗಿರುತ್ತವೆ. ಕೋನ CBD ಐವತ್ತೈದು ಡಿಗ್ರಿ ಆಗಿರುವುದರಿಂದ, ಕೋನ CAD ಕೂಡ ಐವತ್ತೈದು ಡಿಗ್ರಿ ಆಗುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಕೋನ DAB ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಚಿತ್ರವನ್ನು ಗಮನಿಸಿದರೆ, ಕೋನ DAB ಯು ಕೋನ CAD ಮತ್ತು ಕೋನ BAC ಗಳ ಮೊತ್ತವಾಗಿದೆ. ಅಂದರೆ, ಐವತ್ತೈದು ಡಿಗ್ರಿ ಪ್ಲಸ್ ನಲವತ್ತೈದು ಡಿಗ್ರಿ, ಇದು ನೂರು ಡಿಗ್ರಿಗಳಿಗೆ ಸಮ.",
+  "script_display": "ಈ ಸಮಸ್ಯೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ಬಿಡಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ಒಂದೇ ವೃತ್ತಖಂಡದಲ್ಲಿನ ಕೋನಗಳ ಗುಣವನ್ನು ಬಳಸೋಣ. ಇಲ್ಲಿ, $\\angle CAD$ ಮತ್ತು $\\angle CBD$, ಇವೆರಡೂ ಕಂಸ CD ಯಿಂದ ಉಂಟಾದ ಕೋನಗಳಾಗಿವೆ. ಆದ್ದರಿಂದ, ಅವು ಸಮವಾಗಿರುತ್ತವೆ. $\\angle CBD = 55^{\\circ}$ ಆಗಿರುವುದರಿಂದ, $\\angle CAD$ ಕೂಡ $55^{\\circ}$ ಆಗುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು $\\angle DAB$ ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಚಿತ್ರವನ್ನು ಗಮನಿಸಿದರೆ, $\\angle DAB$ ಯು $\\angle CAD$ ಮತ್ತು $\\angle BAC$ ಗಳ ಮೊತ್ತವಾಗಿದೆ. ಅಂದರೆ, $55^{\\circ}$ ಪ್ಲಸ್ $45^{\\circ}$, ಇದು $100^{\\circ}$ ಕ್ಕೆ ಸಮ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_2_col",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "basic",
+  "source_example_id": "GEO-CIR-2_example_3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\angle CAD = \\angle CBD = 55^{\\circ}$",
+      "justification": "ಒಂದೇ ವೃತ್ತಖಂಡದಲ್ಲಿನ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\angle DAB = \\angle CAD + \\angle BAC = 55^{\\circ} + 45^{\\circ} = 100^{\\circ}$",
+      "justification": "ಕೋನಗಳ ಸಂಕಲನ."
+    }
+  ],
+  "chunk_id": "GEO-CIR-2_concept_4_chunk_015"
+}

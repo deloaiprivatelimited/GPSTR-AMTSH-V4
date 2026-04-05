@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ಮುಂದಿನ ಹಂತಗಳಿಗೆ ಹೋಗೋಣ. ಮೂರನೇ ಹಂತ, ಅಕ್ಷಗಳನ್ನು ಗುರುತಿಸಿ, ದತ್ತಾಂಶ ಬಿಂದುಗಳನ್ನು ನಕ್ಷೆಯ ಮೇಲೆ ಗುರುತಿಸುವುದು. ನಮ್ಮ ಬಿಂದುಗಳು ಹತ್ತು, ಐನೂರು; ಹದಿನೈದು, ಏಳನೂರ ಐವತ್ತು; ಇಪ್ಪತ್ತು, ಒಂದು ಸಾವಿರ; ಮತ್ತು ಇಪ್ಪತ್ತೈದು, ಒಂದು ಸಾವಿರದ ಇನ್ನೂರ ಐವತ್ತು. ನಾಲ್ಕನೇ ಹಂತ, ಈ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ ಒಂದು ಸರಳರೇಖೆಯನ್ನು ಎಳೆಯುವುದು. ನೀವು ನೋಡುವಂತೆ, ಎಲ್ಲಾ ಬಿಂದುಗಳು ಒಂದೇ ಸರಳರೇಖೆಯ ಮೇಲೆ ಬರುತ್ತವೆ. ಈ ರೇಖೆಯು ಮೂಲಬಿಂದು, ಅಂದರೆ ಸೊನ್ನೆ, ಸೊನ್ನೆ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ, ಏಕೆಂದರೆ ಸೊನ್ನೆ ಲೀಟರ್ ಪೆಟ್ರೋಲ್ ಬೆಲೆ ಸೊನ್ನೆ ರೂಪಾಯಿ.",
+  "script_display": "ಮುಂದಿನ ಹಂತಗಳಿಗೆ ಹೋಗೋಣ. ಮೂರನೇ ಹಂತ, ಅಕ್ಷಗಳನ್ನು ಗುರುತಿಸಿ, ದತ್ತಾಂಶ ಬಿಂದುಗಳನ್ನು ನಕ್ಷೆಯ ಮೇಲೆ ಗುರುತಿಸುವುದು. ನಮ್ಮ ಬಿಂದುಗಳು $(10, 500)$; $(15, 750)$; $(20, 1000)$; ಮತ್ತು $(25, 1250)$. ನಾಲ್ಕನೇ ಹಂತ, ಈ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ ಒಂದು ಸರಳರೇಖೆಯನ್ನು ಎಳೆಯುವುದು. ನೀವು ನೋಡುವಂತೆ, ಎಲ್ಲಾ ಬಿಂದುಗಳು ಒಂದೇ ಸರಳರೇಖೆಯ ಮೇಲೆ ಬರುತ್ತವೆ. ಈ ರೇಖೆಯು ಮೂಲಬಿಂದು, ಅಂದರೆ $(0,0)$ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ, ಏಕೆಂದರೆ $0$ ಲೀಟರ್ ಪೆಟ್ರೋಲ್ ಬೆಲೆ $₹0$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 2D graph. X-axis is 'ಪೆಟ್ರೋಲ್‌ನ ಪ್ರಮಾಣ (ಲೀಟರ್‌ಗಳಲ್ಲಿ)' with scale 1cm=5 units, marked at 5, 10, 15, 20, 25. Y-axis is 'ಪೆಟ್ರೋಲ್ ಬೆಲೆ (ರೂಪಾಯಿಗಳಲ್ಲಿ)' with scale 1cm=250 units, marked at 250, 500, 750, 1000, 1250. The points (10, 500), (15, 750), (20, 1000), and (25, 1250) are plotted. A straight line passes through these points and the origin (0,0).",
+    "labels": "x-axis, y-axis, scale, plotted points, straight line",
+    "mathematical_significance": "This visual shows the process of plotting points from a data table and observing that they form a straight line, indicating a linear relationship.",
+    "placeholder_note": "Image to be generated"
+  },
+  "source_example_id": "DATA-GRAPH-2_example_3",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ದತ್ತಾಂಶ ಬಿಂದುಗಳನ್ನು ನಕ್ಷೆಯ ಮೇಲೆ ಗುರುತಿಸುವುದು:\n$(10, 500)$, $(15, 750)$, $(20, 1000)$, $(25, 1250)$",
+      "justification": "ಕೋಷ್ಟಕದಲ್ಲಿನ ಪ್ರತಿ ಜೋಡಿ ಮೌಲ್ಯಗಳನ್ನು (x, y) ನಿರ್ದೇಶಾಂಕಗಳಾಗಿ ಪರಿಗಣಿಸಿ ನಕ್ಷೆಯಲ್ಲಿ ಗುರುತಿಸುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ ಸರಳರೇಖೆಯನ್ನು ಎಳೆಯುವುದು.",
+      "justification": "ಎಲ್ಲಾ ಬಿಂದುಗಳು ಒಂದೇ ಸರಳರೇಖೆಯ ಮೇಲೆ ಇರುವುದರಿಂದ, ಅವುಗಳನ್ನು ಸೇರಿಸಿ ರೇಖೆಯನ್ನು ಎಳೆಯಲಾಗುತ್ತದೆ. ಈ ರೇಖೆಯು ಮೂಲಬಿಂದು $(0,0)$ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "DATA-GRAPH-2_concept_2_chunk_023"
+}

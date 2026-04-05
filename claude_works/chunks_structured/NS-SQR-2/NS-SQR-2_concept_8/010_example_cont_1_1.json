@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನ",
+  "script": "2304 ರ ವರ್ಗಮೂಲವನ್ನು ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ ಕಂಡುಹಿಡಿಯೋಣ. ಮೊದಲಿಗೆ, ಅಂಕಿಗಳನ್ನು ಬಲದಿಂದ ಎಡಕ್ಕೆ ಜೋಡಿಗಳಾಗಿ ವಿಂಗಡಿಸಿ, ಅಂದರೆ 23 ಮತ್ತು 04. ಈಗ, ಮೊದಲ ಜೋಡಿ 23 ಕ್ಕೆ ಸಮನಾದ ಅಥವಾ ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ ಸಂಖ್ಯೆಯನ್ನು ಹುಡುಕಿ. ಅದು 16, ಇದು 4 ರ ವರ್ಗ. ಆದ್ದರಿಂದ, ನಮ್ಮ ಭಾಗಲಬ್ಧದ ಮೊದಲ ಅಂಕಿ 4. ಈಗ 23 ರಿಂದ 16 ನ್ನು ಕಳೆದರೆ 7 ಸಿಗುತ್ತದೆ. ಮುಂದಿನ ಜೋಡಿ 04 ನ್ನು ಕೆಳಗೆ ತನ್ನಿ, ಆಗ ನಮಗೆ 704 ಸಿಗುತ್ತದೆ. ಈಗ, ಭಾಗಲಬ್ಧದಲ್ಲಿರುವ 4 ನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿ, ಅಂದರೆ 8. ನಾವು 8 ರ ಮುಂದೆ ಒಂದು ಅಂಕಿಯನ್ನು ಇಡಬೇಕು, ಮತ್ತು ಅದೇ ಅಂಕಿಯಿಂದ ಗುಣಿಸಿದಾಗ 704 ಅಥವಾ ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ಬರಬೇಕು. 88 ನ್ನು 8 ರಿಂದ ಗುಣಿಸಿದಾಗ ನಮಗೆ ನಿಖರವಾಗಿ 704 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಭಾಗಲಬ್ಧದ ಎರಡನೇ ಅಂಕಿ 8. ಶೇಷ ಸೊನ್ನೆ. ಹೀಗಾಗಿ, 2304 ರ ವರ್ಗಮೂಲ 48.",
+  "script_display": "$\\sqrt{2304}$ ನ್ನು ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ ಕಂಡುಹಿಡಿಯೋಣ. ಮೊದಲಿಗೆ, ಅಂಕಿಗಳನ್ನು ಬಲದಿಂದ ಎಡಕ್ಕೆ ಜೋಡಿಗಳಾಗಿ ವಿಂಗಡಿಸಿ: 23 ಮತ್ತು 04. ಮೊದಲ ಜೋಡಿ 23 ಕ್ಕೆ ಸಮನಾದ ಅಥವಾ ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ ಸಂಖ್ಯೆ $4^2 = 16$. ಭಾಗಲಬ್ಧದ ಮೊದಲ ಅಂಕಿ 4. $23 - 16 = 7$. ಮುಂದಿನ ಜೋಡಿ 04 ನ್ನು ಕೆಳಗೆ ತನ್ನಿ, ಹೊಸ ಭಾಜ್ಯ 704. ಭಾಗಲಬ್ಧ 4 ನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿ (8). ಹೊಸ ಭಾಜಕವನ್ನು ಕಂಡುಹಿಡಿಯಲು, $8y \\times y \\le 704$ ಆಗಿರುವಂತೆ $y$ ನ್ನು ಹುಡುಕಿ. $y=8$ ಆದರೆ, $88 \\times 8 = 704$. ಭಾಗಲಬ್ಧದ ಎರಡನೇ ಅಂಕಿ 8. ಶೇಷ 0. ಹೀಗಾಗಿ, $\\sqrt{2304} = 48$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the long division method to find the square root of 2304. It should clearly show the pairing of digits (23 and 04), the divisor (4, then 88), the quotient (4, then 48), the subtraction (23-16=7), bringing down the next pair (04), and the final calculation (88 * 8 = 704). The layout should be the standard long division format for square roots.",
+    "labels": "ಭಾಜ್ಯ (Dividend), ಭಾಜಕ (Divisor), ಭಾಗಲಬ್ಧ (Quotient), ಶೇಷ (Remainder)",
+    "mathematical_significance": "Illustrates the standard algorithm for finding the square root of a perfect square integer.",
+    "placeholder_note": "Image to be generated showing the long division calculation for sqrt(2304)."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SQR-2_example_8",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸಂಖ್ಯೆ 2304 ರ ಅಂಕಿಗಳನ್ನು ಬಲದಿಂದ ಎಡಕ್ಕೆ ಜೋಡಿ ಮಾಡಿ: $23 \\, 04$.",
+      "justification": "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದ ಮೊದಲ ಹಂತ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಮೊದಲ ಜೋಡಿ 23 ಕ್ಕೆ, $4^2=16$. ಭಾಗಲಬ್ಧದ ಮೊದಲ ಅಂಕಿ 4. ಶೇಷ $23-16=7$.",
+      "justification": "ಅತಿದೊಡ್ಡ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "ಮುಂದಿನ ಜೋಡಿ 04 ನ್ನು ಕೆಳಗೆ ತನ್ನಿ. ಹೊಸ ಭಾಜ್ಯ 704. ಹೊಸ ಭಾಜಕ $88 \\times 8 = 704$. ಭಾಗಲಬ್ಧದ ಎರಡನೇ ಅಂಕಿ 8.",
+      "justification": "ವಿಧಾನವನ್ನು ಪುನರಾವರ್ತಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "NS-SQR-2_concept_8_chunk_010"
+}

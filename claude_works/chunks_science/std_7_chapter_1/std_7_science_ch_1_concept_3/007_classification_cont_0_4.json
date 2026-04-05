@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "4. ಸಹಜೀವನ (Symbiotic Relationship)",
+  "script": "ಕೊನೆಯದಾಗಿ, ಸಹಜೀವನ. ಇದೊಂದು ವಿಶೇಷ ಸಂಬಂಧ, ಇದರಲ್ಲಿ ಎರಡು ವಿಭಿನ್ನ ಜೀವಿಗಳು ಒಟ್ಟಿಗೆ ವಾಸಿಸುತ್ತಾ, ಆಶ್ರಯ ಮತ್ತು ಪೋಷಕಾಂಶಗಳನ್ನು ಪರಸ್ಪರ ಹಂಚಿಕೊಳ್ಳುತ್ತವೆ. ಇಲ್ಲಿ ಎರಡೂ ಜೀವಿಗಳಿಗೆ ಲಾಭವಾಗುತ್ತದೆ. ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ ಎಂದರೆ ಕಲ್ಲು ಹೂಗಳು. ಇದು ಶೈವಲ ಮತ್ತು ಶಿಲೀಂಧ್ರದ ನಡುವಿನ ಸಹಜೀವನ. ಇದರಲ್ಲಿ, ಶಿಲೀಂಧ್ರವು ನೀರು, ಖನಿಜ ಮತ್ತು ಆಶ್ರಯವನ್ನು ಒದಗಿಸುತ್ತದೆ. ಪ್ರತಿಯಾಗಿ, ಕ್ಲೋರೊಫಿಲ್ ಹೊಂದಿರುವ ಶೈವಲವು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ಮೂಲಕ ಆಹಾರ ತಯಾರಿಸಿ ಎರಡಕ್ಕೂ ಒದಗಿಸುತ್ತದೆ.",
+  "script_display": "ಎರಡು ವಿಭಿನ್ನ ಜೀವಿಗಳು ಒಟ್ಟಿಗೆ ವಾಸಿಸುತ್ತಾ, ಆಶ್ರಯ ಮತ್ತು ಪೋಷಕಾಂಶಗಳನ್ನು ಪರಸ್ಪರ ಹಂಚಿಕೊಳ್ಳುವ ಸಂಬಂಧ. ಇದರಲ್ಲಿ ಎರಡೂ ಜೀವಿಗಳಿಗೆ ಲಾಭವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ವಿವರಣೆ: ಜೀವಿಗಳು ಪರಸ್ಪರ ಸಹಾಯ ಮಾಡಿಕೊಂಡು ಒಟ್ಟಿಗೆ ಬದುಕುತ್ತವೆ.",
+    "ಉದಾಹರಣೆ 1: ಕಲ್ಲು ಹೂಗಳು (Lichens).",
+    "ಕಾರಣ: ಶೈವಲವು ಆಹಾರ ನೀಡಿದರೆ, ಶಿಲೀಂಧ್ರವು ಆಶ್ರಯ, ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_light",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cross-section of a lichen, showing the fungal hyphae (filaments) forming the main structure, with algal cells embedded within the top layer.",
+    "labels": "ಶೈವಲದ ಜೀವಕೋಶಗಳು (Algal Cells), ಶಿಲೀಂಧ್ರದ ಎಳೆಗಳು (Fungal Hyphae)",
+    "scientific_significance": "Illustrates the symbiotic partnership in lichens, where a phototroph (alga) and a heterotroph (fungus) coexist for mutual benefit.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_science_ch_1_concept_3_chunk_007"
+}

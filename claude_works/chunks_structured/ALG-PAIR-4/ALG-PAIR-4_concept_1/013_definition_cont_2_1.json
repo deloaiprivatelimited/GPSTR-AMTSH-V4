@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಜ್ಯಾಮಿತೀಯ ಅರ್ಥ (Geometric Meaning)",
+  "script": "ಜ್ಯಾಮಿತೀಯವಾಗಿ ಅಸ್ಥಿರ ಜೋಡಿಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ತುಂಬಾ ಸುಲಭ. ನಾವು ಈ ಜೋಡಿಯ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು ನಕ್ಷೆಯಲ್ಲಿ ಚಿತ್ರಿಸಿದಾಗ, ನಮಗೆ ಎರಡು ಸಮಾಂತರ ರೇಖೆಗಳು ಸಿಗುತ್ತವೆ. ನಿಮಗೆ ಗೊತ್ತಿರುವ ಹಾಗೆ, ಸಮಾಂತರ ರೇಖೆಗಳು ಒಂದನ್ನೊಂದು ಎಲ್ಲೂ, ಎಂದಿಗೂ ಛೇದಿಸುವುದಿಲ್ಲ. ಅವುಗಳ ನಡುವಿನ ಅಂತರ ಯಾವಾಗಲೂ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳ ಪರಿಹಾರ ಅಂದರೆ ರೇಖೆಗಳು ಛೇದಿಸುವ ಬಿಂದು. ಇಲ್ಲಿ ರೇಖೆಗಳು ಛೇದಿಸುವುದೇ ಇಲ್ಲವಾದ್ದರಿಂದ, ಯಾವುದೇ ಸಾಮಾನ್ಯ ಪರಿಹಾರ ಬಿಂದು ಇರುವುದಿಲ್ಲ. ಇದೇ ಕಾರಣಕ್ಕೆ ನಾವು ಇದನ್ನು 'ಅಸ್ಥಿರ ಜೋಡಿ' ಎನ್ನುತ್ತೇವೆ.",
+  "script_display": "ಜ್ಯಾಮಿತೀಯವಾಗಿ ಅಸ್ಥಿರ ಜೋಡಿಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ತುಂಬಾ ಸುಲಭ. ನಾವು ಈ ಜೋಡಿಯ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು ನಕ್ಷೆಯಲ್ಲಿ ಚಿತ್ರಿಸಿದಾಗ, ನಮಗೆ ಎರಡು ಸಮಾಂತರ ರೇಖೆಗಳು ಸಿಗುತ್ತವೆ. ನಿಮಗೆ ಗೊತ್ತಿರುವ ಹಾಗೆ, ಸಮಾಂತರ ರೇಖೆಗಳು ಒಂದನ್ನೊಂದು ಎಲ್ಲೂ, ಎಂದಿಗೂ ಛೇದಿಸುವುದಿಲ್ಲ. ಅವುಗಳ ನಡುವಿನ ಅಂತರ ಯಾವಾಗಲೂ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳ ಪರಿಹಾರ ಅಂದರೆ ರೇಖೆಗಳು ಛೇದಿಸುವ ಬಿಂದು. ಇಲ್ಲಿ ರೇಖೆಗಳು ಛೇದಿಸುವುದೇ ಇಲ್ಲವಾದ್ದರಿಂದ, ಯಾವುದೇ ಸಾಮಾನ್ಯ ಪರಿಹಾರ ಬಿಂದು ಇರುವುದಿಲ್ಲ. ಇದೇ ಕಾರಣಕ್ಕೆ ನಾವು ಇದನ್ನು 'ಅಸ್ಥಿರ ಜೋಡಿ' ಎನ್ನುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಅಸ್ಥಿರ ಜೋಡಿಯ ಸಮೀಕರಣಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುವ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ.",
+    "ಸಮಾಂತರ ರೇಖೆಗಳು ಎಂದಿಗೂ ಒಂದನ್ನೊಂದು ಛೇದಿಸುವುದಿಲ್ಲ.",
+    "ಆದ್ದರಿಂದ, ಯಾವುದೇ ಸಾಮಾನ್ಯ ಪರಿಹಾರ ಬಿಂದು ಇರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A graph showing two parallel lines on a Cartesian coordinate system. The lines are labeled L1 and L2. They have the same slope but different y-intercepts and do not intersect anywhere. The x-axis and y-axis are clearly marked.",
+    "labels": "Parallel lines, No intersection point, Inconsistent system",
+    "mathematical_significance": "This diagram visually represents an inconsistent system of linear equations, where the parallel lines indicate that there is no common point (x, y) that satisfies both equations, hence no solution.",
+    "placeholder_note": "Image to be generated: Two parallel lines on a graph."
+  },
+  "chunk_id": "ALG-PAIR-4_concept_1_chunk_013"
+}

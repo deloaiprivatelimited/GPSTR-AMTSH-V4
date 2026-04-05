@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಸರಾಸರಿ ಸಾಮರ್ಥ್ಯ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಸರಾಸರಿ ಸಾಮರ್ಥ್ಯವನ್ನು ಒಂದು ದೈನಂದಿನ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ಒಂದು ಕಟ್ಟಡದ ಮೆಟ್ಟಿಲುಗಳನ್ನು ಹತ್ತುತ್ತಿದ್ದಾನೆ ಎಂದು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಅವನು ಆರಂಭದಲ್ಲಿ ತುಂಬಾ ವೇಗವಾಗಿ ಹತ್ತುತ್ತಾನೆ, ಆದರೆ ಮೇಲಕ್ಕೆ ಹೋದಂತೆ ಸುಸ್ತಾಗಿ ಅವನ ವೇಗ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಇಲ್ಲಿ, ಪ್ರತಿ ಕ್ಷಣದಲ್ಲಿ ಅವನ ಸಾಮರ್ಥ್ಯವು ಒಂದೇ ಆಗಿರುವುದಿಲ್ಲ, ಅದು ಬದಲಾಗುತ್ತಿರುತ್ತದೆ. ಹಾಗಾದರೆ, ಅವನ ಒಟ್ಟಾರೆ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೇಗೆ ಅಳೆಯುವುದು? ಇಲ್ಲಿಯೇ ಸರಾಸರಿ ಸಾಮರ್ಥ್ಯದ ಪರಿಕಲ್ಪನೆ ಬರುತ್ತದೆ. ಅವನು ಮಾಡಿದ ಒಟ್ಟು ಕೆಲಸವನ್ನು, ಅಂದರೆ ನೆಲದಿಂದ ತಲುಪಿದ ಎತ್ತರಕ್ಕೆ ತನ್ನ ದೇಹವನ್ನು ಎತ್ತಲು ಮಾಡಿದ ಕೆಲಸವನ್ನು, ಮೆಟ್ಟಿಲು ಹತ್ತಲು ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಸಮಯದಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಅವನ ಸರಾಸರಿ ಸಾಮರ್ಥ್ಯ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಸರಾಸರಿ ಸಾಮರ್ಥ್ಯವನ್ನು ಒಂದು ದೈನಂದಿನ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ಒಂದು ಕಟ್ಟಡದ ಮೆಟ್ಟಿಲುಗಳನ್ನು ಹತ್ತುತ್ತಿದ್ದಾನೆ ಎಂದು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ.",
+  "display_bullets": [
+    "ವ್ಯಕ್ತಿಯು ಮೆಟ್ಟಿಲು ಹತ್ತುವಾಗ, ಅವನ ವೇಗ ಮತ್ತು ಸಾಮರ್ಥ್ಯವು ಬದಲಾಗಬಹುದು.",
+    "ಆರಂಭದಲ್ಲಿ ಹೆಚ್ಚು ಸಾಮರ್ಥ್ಯ, ನಂತರ ಸುಸ್ತಾದಾಗ ಕಡಿಮೆ ಸಾಮರ್ಥ್ಯ ಇರಬಹುದು.",
+    "ಒಟ್ಟು ಕೆಲಸವನ್ನು (Total Work) ಒಟ್ಟು ಸಮಯದಿಂದ (Total Time) ಭಾಗಿಸಿ ಸರಾಸರಿ ಸಾಮರ್ಥ್ಯವನ್ನು ಲೆಕ್ಕಹಾಕಲಾಗುತ್ತದೆ.",
+    "ಇದು ಅವನ ಇಡೀ ಪ್ರಯಾಣದ ಸರಾಸರಿ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple animated diagram showing a person climbing stairs. Initially, the person moves quickly, but slows down towards the top. Text labels 'Total Work Done (ಒಟ್ಟು ಕೆಲಸ)' and 'Total Time Taken (ಒಟ್ಟು ಸಮಯ)' appear.",
+    "labels": "Person, Stairs, Total Work, Total Time",
+    "scientific_significance": "Illustrates a real-world scenario where power is not constant, making the concept of average power necessary.",
+    "placeholder_note": "Image to be generated for a person climbing stairs with varying speed."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_10_concept_7_chunk_013"
+}

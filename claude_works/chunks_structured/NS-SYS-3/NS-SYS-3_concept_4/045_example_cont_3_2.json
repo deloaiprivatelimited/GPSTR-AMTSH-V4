@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಸಹಗುಣಕಗಳನ್ನು ಮತ್ತು ಕರಣಿಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಭಾಗಿಸೋಣ. ಅಂದರೆ, ಎಂಟು ಭಾಗಿಸು ಎರಡು, ಗುಣಿಸು ರೂಟ್ ಐದು ಗುಣಿಸು ರೂಟ್ ಮೂರು ಭಾಗಿಸು ರೂಟ್ ಮೂರು. ಅಂಶ ಮತ್ತು ಛೇದದಲ್ಲಿರುವ ರೂಟ್ ಮೂರನ್ನು ನಾವು ರದ್ದುಗೊಳಿಸಬಹುದು. ಹಾಗೆಯೇ, ಎಂಟನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ ನಾಲ್ಕು ಸಿಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ನಮಗೆ ನಾಲ್ಕು ಗುಣಿಸು ರೂಟ್ ಐದು ಉಳಿಯುತ್ತದೆ, ಅದು ನಾಲ್ಕು ರೂಟ್ ಐದು ಆಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಸಹಗುಣಕಗಳನ್ನು ಮತ್ತು ಕರಣಿಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಭಾಗಿಸೋಣ. ಅಂದರೆ, $(\\frac{8}{2}) \\times (\\frac{\\sqrt{5}\\sqrt{3}}{\\sqrt{3}})$. ಅಂಶ ಮತ್ತು ಛೇದದಲ್ಲಿರುವ $\\sqrt{3}$ ನ್ನು ನಾವು ರದ್ದುಗೊಳಿಸಬಹುದು. ಹಾಗೆಯೇ, 8ನ್ನು 2ರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ 4 ಸಿಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ನಮಗೆ $4 \\times \\sqrt{5}$ ಉಳಿಯುತ್ತದೆ, ಅದು $4\\sqrt{5}$ ಆಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "NS-SYS-3_example_14",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$(\\frac{8}{2}) \\times (\\frac{\\sqrt{5}\\cancel{\\sqrt{3}}}{\\cancel{\\sqrt{3}}})$",
+      "justification": "ಸಹಗುಣಕಗಳನ್ನು ಮತ್ತು ಕರಣಿಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಭಾಗಿಸುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "$4 \\times \\sqrt{5} = 4\\sqrt{5}$",
+      "justification": "ಅಂತಿಮ ಸಂಕ್ಷೇಪಣೆ."
+    }
+  ],
+  "chunk_id": "NS-SYS-3_concept_4_chunk_045"
+}

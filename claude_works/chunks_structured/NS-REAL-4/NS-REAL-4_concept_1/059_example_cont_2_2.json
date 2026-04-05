@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಲ.ಸಾ.ಅ. ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ನಾವು ಲ.ಸಾ.ಅ.ವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಎರಡು ಪೂರ್ಣಾಂಕಗಳಾದ a ಮತ್ತು b ಗಾಗಿ ಇರುವ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ, ಅದು ಮ.ಸಾ.ಅ. ಗುಣಿಸು ಲ.ಸಾ.ಅ. ಸಮ a ಗುಣಿಸು b. ಇಲ್ಲಿ, a ಸಮ 96, b ಸಮ 404, ಮತ್ತು ಮ.ಸಾ.ಅ. 4 ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಲ.ಸಾ.ಅ. ಸಮ 96 ಗುಣಿಸು 404, ಭಾಗಿಸು 4. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಲೆಕ್ಕಾಚಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸೋಣ. 404 ನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ 101 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಲ.ಸಾ.ಅ.ವು 96 ಗುಣಿಸು 101 ಆಗುತ್ತದೆ, ಇದರ ಗುಣಲಬ್ಧ 9696. ಹೀಗೆ, 96 ಮತ್ತು 404 ರ ಲ.ಸಾ.ಅ. 9696 ಆಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಲ.ಸಾ.ಅ.ವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಎರಡು ಪೂರ್ಣಾಂಕಗಳಾದ a ಮತ್ತು b ಗಾಗಿ ಇರುವ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ, ಅದು $HCF(a, b) \\times LCM(a, b) = a \\times b$. ಇಲ್ಲಿ, $a=96$, $b=404$, ಮತ್ತು $HCF=4$ ಆಗಿದೆ. ಆದ್ದರಿಂದ, $LCM(96, 404) = \\frac{96 \\times 404}{4}$. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಲೆಕ್ಕಾಚಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸೋಣ. 404 ನ್ನು 4 ರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ 101 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಲ.ಸಾ.ಅ.ವು $96 \\times 101$ ಆಗುತ್ತದೆ, ಇದರ ಗುಣಲಬ್ಧ 9696. ಹೀಗೆ, 96 ಮತ್ತು 404 ರ ಲ.ಸಾ.ಅ. 9696 ಆಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-REAL-4_example_3",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$LCM(96, 404) = \\frac{96 \\times 404}{HCF(96, 404)} = \\frac{96 \\times 404}{4}$",
+      "justification": "$HCF(a, b) \\times LCM(a, b) = a \\times b$ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "$LCM(96, 404) = 96 \\times 101 = 9696$",
+      "justification": "ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರ."
+    }
+  ],
+  "chunk_id": "NS-REAL-4_concept_1_chunk_059"
+}

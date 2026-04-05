@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸ್ಪರ್ಶಕಗಳ ಕೋನ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ 'O' ವೃತ್ತಕೇಂದ್ರವಿರುವ ಒಂದು ವೃತ್ತವನ್ನು ನೀಡಲಾಗಿದೆ. ಬಾಹ್ಯಬಿಂದು T ಯಿಂದ TP ಮತ್ತು TQ ಎಂಬ ಎರಡು ಸ್ಪರ್ಶಕಗಳನ್ನು ಎಳೆದಿದೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಏನೆಂದರೆ, ಕೋನ PTQ ವು ಕೋನ OPQ ಯ ಎರಡರಷ್ಟಿದೆ. ಅಂದರೆ, ಕೋನ PTQ ಈಕ್ವಲ್ಸ್ ಟೂ ಟೈಮ್ಸ್ ಕೋನ OPQ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ 'O' ವೃತ್ತಕೇಂದ್ರವಿರುವ ಒಂದು ವೃತ್ತವನ್ನು ನೀಡಲಾಗಿದೆ. ಬಾಹ್ಯಬಿಂದು T ಯಿಂದ TP ಮತ್ತು TQ ಎಂಬ ಎರಡು ಸ್ಪರ್ಶಕಗಳನ್ನು ಎಳೆದಿದೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಏನೆಂದರೆ, $\\angle PTQ = 2\\angle OPQ$.",
+  "display_bullets": [
+    "ದತ್ತ: 'O' ವೃತ್ತಕೇಂದ್ರ, T ಬಾಹ್ಯ ಬಿಂದು, TP ಮತ್ತು TQ ಸ್ಪರ್ಶಕಗಳು.",
+    "ಸಾಧನೀಯ: $\\angle PTQ = 2\\angle OPQ$."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "O ಕೇಂದ್ರವಿರುವ ವೃತ್ತ. T ಬಾಹ್ಯ ಬಿಂದು. T ಯಿಂದ ವೃತ್ತಕ್ಕೆ TP ಮತ್ತು TQ ಸ್ಪರ್ಶಕಗಳನ್ನು ಎಳೆಯಲಾಗಿದೆ. O, P, Q, ಮತ್ತು T ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. OP, OQ, OT ಮತ್ತು PQ ರೇಖೆಗಳನ್ನು ಎಳೆಯಲಾಗಿದೆ. ಕೋನಗಳಾದ PTQ ಮತ್ತು OPQ ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "O, P, T, Q",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯಲ್ಲಿ ವಿವರಿಸಿದ ರೇಖಾಗಣಿತದ ಸನ್ನಿವೇಶವನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ಈ ಚಿತ್ರವು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದು ತ್ರಿಭುಜ TPQ ಮತ್ತು ಕೋನಗಳಾದ ∠PTQ, ∠OPT, ಮತ್ತು ∠OPQ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for the problem statement."
+  },
+  "source_example_id": "GEO-CIR-2_example_5",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-CIR-2_concept_6_chunk_019"
+}

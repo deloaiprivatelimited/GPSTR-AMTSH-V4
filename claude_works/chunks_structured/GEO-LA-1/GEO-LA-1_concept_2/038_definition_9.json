@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪೂರ್ಣ ಕೋನ: ಪರಿಚಯ",
+  "script": "ಈಗ ನಾವು ಕೋನಗಳ ವಿಧಗಳಲ್ಲಿ ಒಂದಾದ ಪೂರ್ಣ ಕೋನದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಒಂದು ಕಿರಣವು ತನ್ನ ಆರಂಭಿಕ ಸ್ಥಾನದಿಂದ ಪೂರ್ತಿಯಾಗಿ ಒಂದು ಸುತ್ತು ತಿರುಗಿ ಮತ್ತೆ ಅದೇ ಸ್ಥಾನಕ್ಕೆ ಬಂದರೆ, ಅದು ಒಂದು ಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಈ ಪೂರ್ಣ ಸುತ್ತುವಿಕೆಯಿಂದ ಉಂಟಾಗುವ ಕೋನವನ್ನೇ ನಾವು ಪೂರ್ಣ ಕೋನ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಒಂದು ಕಿರಣವು ತನ್ನ ಆರಂಭಿಕ ಬಿಂದುವಿನ ಸುತ್ತ ಪೂರ್ಣವಾಗಿ ತಿರುಗಿ ಮತ್ತೆ ತನ್ನ ಮೂಲ ಸ್ಥಾನಕ್ಕೆ ಬಂದಿದೆ. ಈ ಸಂಪೂರ್ಣ ತಿರುಗುವಿಕೆಯ ಅಳತೆಯೇ ಪೂರ್ಣ ಕೋನ. ಇದು ಒಂದು ಸಂಪೂರ್ಣ ವೃತ್ತವನ್ನು ಪೂರ್ಣಗೊಳಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಕೋನಗಳ ವಿಧಗಳಲ್ಲಿ ಒಂದಾದ ಪೂರ್ಣ ಕೋನದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಒಂದು ಕಿರಣವು ತನ್ನ ಆರಂಭಿಕ ಸ್ಥಾನದಿಂದ ಪೂರ್ತಿಯಾಗಿ ಒಂದು ಸುತ್ತು ತಿರುಗಿ ಮತ್ತೆ ಅದೇ ಸ್ಥಾನಕ್ಕೆ ಬಂದರೆ, ಅದು ಒಂದು ಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಈ ಪೂರ್ಣ ಸುತ್ತುವಿಕೆಯಿಂದ ಉಂಟಾಗುವ ಕೋನವನ್ನೇ ನಾವು ಪೂರ್ಣ ಕೋನ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಒಂದು ಕಿರಣವು ತನ್ನ ಆರಂಭಿಕ ಬಿಂದುವಿನ ಸುತ್ತ ಪೂರ್ಣವಾಗಿ ತಿರುಗಿ ಮತ್ತೆ ತನ್ನ ಮೂಲ ಸ್ಥಾನಕ್ಕೆ ಬಂದಿದೆ. ಈ ಸಂಪೂರ್ಣ ತಿರುಗುವಿಕೆಯ ಅಳತೆಯೇ ಪೂರ್ಣ ಕೋನ. ಇದು ಒಂದು ಸಂಪೂರ್ಣ ವೃತ್ತವನ್ನು ಪೂರ್ಣಗೊಳಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಕಿರಣವು ಪೂರ್ಣವಾಗಿ ಒಂದು ಸುತ್ತು ತಿರುಗಿದಾಗ ಉಂಟಾಗುವ ಕೋನ.",
+    "ಕಿರಣವು ತನ್ನ ಆರಂಭಿಕ ಸ್ಥಾನಕ್ಕೆ ಮರಳಿ ಬರುತ್ತದೆ.",
+    "ಈ ತಿರುಗುವಿಕೆಯು ಒಂದು ಸಂಪೂರ್ಣ ವೃತ್ತವನ್ನು ರೂಪಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A ray OA starting from point O. An arrow shows the ray rotating a full 360 degrees counter-clockwise, ending up back at its original position, forming a complete circle.",
+    "labels": "ಆರಂಭಿಕ ಸ್ಥಾನ (Initial Position), ಅಂತಿಮ ಸ್ಥಾನ (Final Position), 360° ತಿರುಗುವಿಕೆ (360° Rotation)",
+    "mathematical_significance": "Illustrates the concept of a complete angle as a full rotation of a ray around its endpoint.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-LA-1_concept_2_chunk_038"
+}

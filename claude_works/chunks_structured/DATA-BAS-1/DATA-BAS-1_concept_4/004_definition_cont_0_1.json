@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 1: ನಾಣ್ಯ ಚಿಮ್ಮುವುದು",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ, ಅದುವೇ ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು. ನಾವು ಒಂದು ನಾಣ್ಯವನ್ನು ಗಾಳಿಯಲ್ಲಿ ಚಿಮ್ಮಿದಾಗ, ಅದು ಕೆಳಗೆ ಬೀಳುವಾಗ 'ಶಿರ' ಅಂದರೆ ಹೆಡ್, ಅಥವಾ 'ಪುಚ್ಛ' ಅಂದರೆ ಟೇಲ್ ಬರಬಹುದು. ಇವು ಎರಡೇ ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳು. ಆದರೆ, ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವ ಮೊದಲೇ, ಖಚಿತವಾಗಿ ಹೆಡ್ ಬರುತ್ತದೆಯೋ ಅಥವಾ ಟೇಲ್ ಬರುತ್ತದೆಯೋ ಎಂದು ಯಾರಾದರೂ ಹೇಳಲು ಸಾಧ್ಯವೇ? ಖಂಡಿತ ಇಲ್ಲ. ಪ್ರತಿ ಬಾರಿಯೂ ಫಲಿತಾಂಶ ಅನಿಶ್ಚಿತವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು ಒಂದು ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ, ಅದುವೇ ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು. ನಾವು ಒಂದು ನಾಣ್ಯವನ್ನು ಗಾಳಿಯಲ್ಲಿ ಚಿಮ್ಮಿದಾಗ, ಅದು ಕೆಳಗೆ ಬೀಳುವಾಗ 'ಶಿರ' (Head), ಅಥವಾ 'ಪುಚ್ಛ' (Tail) ಬರಬಹುದು. ಇವು ಎರಡೇ ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳು. ಆದರೆ, ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವ ಮೊದಲೇ, ಖಚಿತವಾಗಿ Head ಬರುತ್ತದೆಯೋ ಅಥವಾ Tail ಬರುತ್ತದೆಯೋ ಎಂದು ಯಾರಾದರೂ ಹೇಳಲು ಸಾಧ್ಯವೇ? ಖಂಡಿತ ಇಲ್ಲ. ಪ್ರತಿ ಬಾರಿಯೂ ಫಲಿತಾಂಶ ಅನಿಶ್ಚಿತವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು ಒಂದು ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳು: ಶಿರ (Head) ಅಥವಾ ಪುಚ್ಛ (Tail).",
+    "ಫಲಿತಾಂಶವನ್ನು ಮುಂಚಿತವಾಗಿ ಊಹಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+    "ಇದು ಒಂದು ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a coin being tossed in the air. Two arrows point from the coin to two possible outcomes: one showing the 'Heads' side of a coin and the other showing the 'Tails' side. Each outcome is clearly labeled in Kannada as 'ಶಿರ' and 'ಪುಚ್ಛ'.",
+    "labels": "ನಾಣ್ಯ, ಶಿರ, ಪುಚ್ಛ, ಫಲಿತಾಂಶ",
+    "mathematical_significance": "Demonstrates a simple random experiment with two equally likely outcomes, a foundational example in probability theory.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_004"
+}

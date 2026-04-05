@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದೃಷ್ಟಾಂತ: ಹಗ್ಗ ಜಗ್ಗಾಟ",
+  "script": "ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಹಗ್ಗ ಜಗ್ಗಾಟದ ಆಟ ಒಂದು ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಎರಡು ತಂಡಗಳು ಹಗ್ಗವನ್ನು ತಮ್ಮ ತಮ್ಮ ಕಡೆಗೆ ಎಳೆಯುತ್ತಿವೆ. ಒಂದು ತಂಡ ಎಡಕ್ಕೆ ಎಳೆದರೆ, ಇನ್ನೊಂದು ತಂಡ ಬಲಕ್ಕೆ ಎಳೆಯುತ್ತದೆ. ಅಂದರೆ, ಬಲಗಳು ವಿರುದ್ಧ ದಿಕ್ಕುಗಳಲ್ಲಿವೆ. ಇಲ್ಲಿ, ಯಾವ ತಂಡವು ಹೆಚ್ಚು ಶಕ್ತಿಯಿಂದ, ಅಂದರೆ ಹೆಚ್ಚು ಬಲದಿಂದ ಹಗ್ಗವನ್ನು ಎಳೆಯುತ್ತದೆಯೋ, ಆ ತಂಡದ ಕಡೆಗೆ ಹಗ್ಗ ಮತ್ತು ಎದುರಾಳಿ ತಂಡ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಇದು ವಿರುದ್ಧ ದಿಕ್ಕಿನ ಬಲಗಳ ಫಲಿತಾಂಶವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಹಗ್ಗ ಜಗ್ಗಾಟದ ಆಟ ಒಂದು ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಎರಡು ತಂಡಗಳು ಹಗ್ಗವನ್ನು ತಮ್ಮ ತಮ್ಮ ಕಡೆಗೆ ಎಳೆಯುತ್ತಿವೆ. ಒಂದು ತಂಡ ಎಡಕ್ಕೆ ಎಳೆದರೆ, ಇನ್ನೊಂದು ತಂಡ ಬಲಕ್ಕೆ ಎಳೆಯುತ್ತದೆ. ಅಂದರೆ, ಬಲಗಳು ವಿರುದ್ಧ ದಿಕ್ಕುಗಳಲ್ಲಿವೆ. ಇಲ್ಲಿ, ಯಾವ ತಂಡವು ಹೆಚ್ಚು ಶಕ್ತಿಯಿಂದ, ಅಂದರೆ ಹೆಚ್ಚು ಬಲದಿಂದ ಹಗ್ಗವನ್ನು ಎಳೆಯುತ್ತದೆಯೋ, ಆ ತಂಡದ ಕಡೆಗೆ ಹಗ್ಗ ಮತ್ತು ಎದುರಾಳಿ ತಂಡ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಇದು ವಿರುದ್ಧ ದಿಕ್ಕಿನ ಬಲಗಳ ಫಲಿತಾಂಶವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹಗ್ಗ ಜಗ್ಗಾಟದ ಆಟವನ್ನು ಪರಿಗಣಿಸಿ.",
+    "ಎರಡು ತಂಡಗಳು ಹಗ್ಗವನ್ನು ವಿರುದ್ಧ ದಿಕ್ಕುಗಳಲ್ಲಿ ಎಳೆಯುತ್ತವೆ.",
+    "ಯಾವ ತಂಡ ಹೆಚ್ಚು ಬಲವನ್ನು ಪ್ರಯೋಗಿಸುತ್ತದೆಯೋ, ಆ ತಂಡದ ಕಡೆಗೆ ಹಗ್ಗವು ಚಲಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a tug-of-war. Two teams, Team A and Team B, are pulling a rope in opposite directions. An arrow labeled 'F1 = 100 N' points left from the center. A larger arrow labeled 'F2 = 120 N' points right from the center. A third arrow below, labeled 'ಫಲಿತ ಬಲ (Net Force) = 20 N', points to the right, indicating the direction of motion.",
+    "labels": "ತಂಡ ಎ (Team A), ತಂಡ ಬಿ (Team B), ಬಲ F1 (Force F1), ಬಲ F2 (Force F2), ಫಲಿತ ಬಲ (Net Force)",
+    "scientific_significance": "Visually demonstrates how opposing forces result in a net force that is the difference between the two, and its direction is determined by the larger force.",
+    "placeholder_note": "Image to be generated for tug-of-war example."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_8_concept_2_chunk_010"
+}

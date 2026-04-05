@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಹಂತ 2: ದತ್ತಾಂಶದ ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ಈಗ ನಮ್ಮ ಬಳಿ ಒಂದು ದತ್ತಾಂಶ ಕೋಷ್ಟಕವಿದೆ ಎಂದು ಭಾವಿಸೋಣ. ಉದಾಹರಣೆಗೆ, ಕಾಲ ಸೊನ್ನೆ ನಿಮಿಷ ಇದ್ದಾಗ ದೂರ ಸೊನ್ನೆ ಕಿಲೋಮೀಟರ್, ಒಂದು ನಿಮಿಷದಲ್ಲಿ ಎರಡು ಕಿಲೋಮೀಟರ್, ಎರಡು ನಿಮಿಷದಲ್ಲಿ ನಾಲ್ಕು ಕಿಲೋಮೀಟರ್. ಈಗ ಈ ಮೌಲ್ಯಗಳನ್ನು ನಕ್ಷೆಯ ಮೇಲೆ ಬಿಂದುಗಳಾಗಿ ಗುರುತಿಸೋಣ. ಮೊದಲ ಬಿಂದು ಮೂಲಬಿಂದು, ಅಂದರೆ ಸೊನ್ನೆ ಕಾಮಾ ಸೊನ್ನೆ. ಎರಡನೇ ಬಿಂದುವಿಗೆ, ಎಕ್ಸ್ ಅಕ್ಷದ ಮೇಲೆ ಒಂದು ನಿಮಿಷವನ್ನು ಮತ್ತು ವೈ ಅಕ್ಷದ ಮೇಲೆ ಎರಡು ಕಿಲೋಮೀಟರ್ ಅನ್ನು ನೋಡಿ, ಅವೆರಡೂ ಸಂಧಿಸುವ ಜಾಗದಲ್ಲಿ ಒಂದು ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ. ಇದೇ ರೀತಿ, ಕೋಷ್ಟಕದಲ್ಲಿರುವ ಎಲ್ಲಾ ಜೋಡಿ ಮೌಲ್ಯಗಳಿಗೂ ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಿ.",
+  "script_display": "ಈಗ ನಮ್ಮ ಬಳಿ ಒಂದು ದತ್ತಾಂಶ ಕೋಷ್ಟಕವಿದೆ ಎಂದು ಭಾವಿಸೋಣ. ಉದಾಹರಣೆಗೆ: (ಕಾಲ: 0 min, ದೂರ: 0 km), (ಕಾಲ: 1 min, ದೂರ: 2 km), (ಕಾಲ: 2 min, ದೂರ: 4 km). ಈಗ ಈ ಮೌಲ್ಯಗಳನ್ನು ನಕ್ಷೆಯ ಮೇಲೆ ಬಿಂದುಗಳಾಗಿ ಗುರುತಿಸೋಣ. ಮೊದಲ ಬಿಂದು ಮೂಲಬಿಂದು (0,0). ಎರಡನೇ ಬಿಂದುವಿಗೆ, X-ಅಕ್ಷದ ಮೇಲೆ 1 min ಮತ್ತು Y-ಅಕ್ಷದ ಮೇಲೆ 2 km ಅನ್ನು ನೋಡಿ, ಅವೆರಡೂ ಸಂಧಿಸುವ ಜಾಗದಲ್ಲಿ ಒಂದು ಬಿಂದುವನ್ನು (1, 2) ಗುರುತಿಸಿ. ಇದೇ ರೀತಿ, ಕೋಷ್ಟಕದಲ್ಲಿರುವ ಎಲ್ಲಾ ಜೋಡಿ ಮೌಲ್ಯಗಳಿಗೂ ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಿ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ ಕೋಷ್ಟಕದಲ್ಲಿರುವ ಪ್ರತಿ ಜೋಡಿ (ಕಾಲ, ದೂರ) ಮೌಲ್ಯವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "X-ಅಕ್ಷದ ಮೇಲೆ ಕಾಲದ ಮೌಲ್ಯವನ್ನು ಮತ್ತು Y-ಅಕ್ಷದ ಮೇಲೆ ದೂರದ ಮೌಲ್ಯವನ್ನು ಪತ್ತೆ ಮಾಡಿ.",
+    "ಎರಡೂ ಮೌಲ್ಯಗಳು ಸಂಧಿಸುವ ಸ್ಥಳದಲ್ಲಿ ಒಂದು ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ (Plot the point).",
+    "ಕೋಷ್ಟಕದಲ್ಲಿರುವ ಎಲ್ಲಾ ದತ್ತಾಂಶಗಳಿಗೂ ಈ ಹಂತವನ್ನು ಪುನರಾವರ್ತಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The graph from the previous slide, now with data points plotted on it. For example, points at (0,0), (1,2), (2,4), (3,6) are clearly marked with dots or small crosses.",
+    "labels": "Data points, Coordinates",
+    "scientific_significance": "This step translates numerical data from a table into a visual format on the graph, allowing for pattern recognition.",
+    "placeholder_note": "Image to be generated: The graph with axes, now showing plotted points like (0,0), (1,2), (2,4)."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_7_science_ch_9_concept_5_chunk_008"
+}

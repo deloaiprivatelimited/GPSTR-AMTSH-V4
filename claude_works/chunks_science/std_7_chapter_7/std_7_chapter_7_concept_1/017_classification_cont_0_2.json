@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಕ್ತದ ಘಟಕಗಳು: ಬಿಳಿ ರಕ್ತಕಣಗಳು",
+  "script": "ಈಗ ಬಿಳಿ ರಕ್ತಕಣಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ, ಇವುಗಳನ್ನು ಡಬ್ಲ್ಯೂ ಬಿ ಸಿ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಇವು ನಮ್ಮ ದೇಹದ ರಕ್ಷಣಾ ವ್ಯವಸ್ಥೆಯ ಸೈನಿಕರಿದ್ದಂತೆ. ಇವುಗಳ ಮುಖ್ಯ ಕೆಲಸವೆಂದರೆ ದೇಹವನ್ನು ಸೋಂಕಿನಿಂದ ರಕ್ಷಿಸುವುದು. ನಮ್ಮ ದೇಹಕ್ಕೆ ಬ್ಯಾಕ್ಟೀರಿಯಾ, ವೈರಸ್ ಅಥವಾ ಇತರ ರೋಗಾಣುಗಳು ಪ್ರವೇಶಿಸಿದಾಗ, ಬಿಳಿ ರಕ್ತಕಣಗಳು ಅವುಗಳನ್ನು ಗುರುತಿಸಿ, ಅವುಗಳ ವಿರುದ್ಧ ಹೋರಾಡಿ ನಾಶಪಡಿಸುತ್ತವೆ. ಈ ಮೂಲಕ, ಅವು ನಮ್ಮ ರೋಗನಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ಬಲಪಡಿಸುತ್ತವೆ ಮತ್ತು ನಮ್ಮನ್ನು ಅನಾರೋಗ್ಯದಿಂದ ದೂರವಿಡುತ್ತವೆ. ಆದ್ದರಿಂದ, ಇವು ನಮ್ಮ ಆರೋಗ್ಯವನ್ನು ಕಾಪಾಡುವಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತವೆ.",
+  "script_display": "ಈಗ ಬಿಳಿ ರಕ್ತಕಣಗಳ (White Blood Cells - WBC) ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇವು ನಮ್ಮ ದೇಹದ ರಕ್ಷಣಾ ವ್ಯವಸ್ಥೆಯ 'ಸೈನಿಕರು'. ಇವುಗಳ ಮುಖ್ಯ ಕೆಲಸವೆಂದರೆ ದೇಹವನ್ನು ಸೋಂಕಿನಿಂದ ರಕ್ಷಿಸುವುದು. ನಮ್ಮ ದೇಹಕ್ಕೆ ಬ್ಯಾಕ್ಟೀರಿಯಾ, ವೈರಸ್ ಅಥವಾ ಇತರ ರೋಗಾಣುಗಳು ಪ್ರವೇಶಿಸಿದಾಗ, WBCಗಳು ಅವುಗಳನ್ನು ಗುರುತಿಸಿ, ಅವುಗಳ ವಿರುದ್ಧ ಹೋರಾಡಿ ನಾಶಪಡಿಸುತ್ತವೆ. ಈ ಮೂಲಕ, ಅವು ನಮ್ಮ ರೋಗನಿರೋಧಕ ಶಕ್ತಿಯನ್ನು (immunity) ಬಲಪಡಿಸುತ್ತವೆ ಮತ್ತು ನಮ್ಮನ್ನು ಅನಾರೋಗ್ಯದಿಂದ ದೂರವಿಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ಬಿಳಿ ರಕ್ತಕಣಗಳು (WBC): ದೇಹದ 'ಸೈನಿಕರು' ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತವೆ.",
+    "ಕಾರ್ಯ: ದೇಹವನ್ನು ಪ್ರವೇಶಿಸುವ ರೋಗಾಣುಗಳ ವಿರುದ್ಧ ಹೋರಾಡುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration depicting phagocytosis. A large, amoeboid-shaped White Blood Cell is shown extending pseudopods to engulf several smaller, green-colored bacteria, which are labeled 'ರೋಗಾಣುಗಳು (Pathogens)'.",
+    "labels": "White Blood Cell, Pathogen",
+    "scientific_significance": "Clearly demonstrates the primary function of WBCs – fighting pathogens – in a visually intuitive way.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_7_concept_1_chunk_017"
+}

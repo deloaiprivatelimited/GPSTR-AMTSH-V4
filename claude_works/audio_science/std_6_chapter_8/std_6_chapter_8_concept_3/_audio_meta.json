@@ -1,0 +1,158 @@
+{
+  "module_id": "std_6_chapter_8_concept_3",
+  "chapter_code": "std_6_chapter_8",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:05:34",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "88bed0f4c150e5770b8f3bf39f2cfc1b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 60.771,
+      "slide_title": "ಸ್ಥಿತಿ ಪರಿವರ್ತನೆ - ತಂಪಾಗಿಸುವಿಕೆಯಿಂದ",
+      "type": "chunk",
+      "script_words": 78,
+      "generated_at": "2026-04-02 13:03:21"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "bb7a453d5763e4d6640bdf045e759377",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 34.651,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "chunk",
+      "script_words": 43,
+      "generated_at": "2026-04-02 13:03:25"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "fb593e099bdcc6d896d43b6ac01b74db",
+      "wav_file": "003_definition_0.wav",
+      "duration": 36.451,
+      "slide_title": "ಸಾಂದ್ರೀಕರಣ (Condensation)",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:03:26"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "cd675bdc91a3610aa8a7f1a9101ccfd7",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 41.771,
+      "slide_title": "ಪ್ರಯೋಗ: ತಣ್ಣನೆಯ ಲೋಟದ ಮೇಲಿನ ನೀರು",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:03:28"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "24441f6f892d2ae61ba9abcc47d4023c",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 44.451,
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಸಾಂದ್ರೀಕರಣ",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 13:03:29"
+    },
+    "010_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "01b11d689b2c90dd50de9fb3b10d9ec5",
+      "wav_file": "010_experiment_cont_0_1.wav",
+      "duration": 43.171,
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+      "type": "step_walkthrough",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:04:05"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "f65b508406b5113458d8ade95793986f",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 45.011,
+      "slide_title": "ತಂಪಾಗಿಸುವಿಕೆಯಿಂದ ಸ್ಥಿತಿ ಪರಿವರ್ತನೆಗಳು",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:04:27"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "9ca41da8f5a52b85e64735a97a943b81",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 39.531,
+      "slide_title": "ಘನೀಕರಣ: ಒಂದು ದೃಶ್ಯ ಉದಾಹರಣೆ",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:04:28"
+    },
+    "009_experiment_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "74fe6a81a85de7669695846b83a12a14",
+      "wav_file": "009_experiment_0.wav",
+      "duration": 48.451,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಸಾಂದ್ರೀಕರಣದ ಪರೀಕ್ಷೆ",
+      "type": "visual_explain",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:04:35"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "e53a205454612f0840171a185ab5791b",
+      "wav_file": "006_definition_1.wav",
+      "duration": 46.051,
+      "slide_title": "ಘನೀಕರಣ (Freezing)",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:04:35"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "c5307548f94effaa6e5d8efca40f09ea",
+      "wav_file": "013_recap_0.wav",
+      "duration": 46.131,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:05:08"
+    },
+    "011_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "2dbe70bdbedea67631635fc2388d3ae2",
+      "wav_file": "011_experiment_cont_0_2.wav",
+      "duration": 39.971,
+      "slide_title": "ನಮ್ಮ ವೀಕ್ಷಣೆಗಳು",
+      "type": "visual_explain",
+      "script_words": 62,
+      "generated_at": "2026-04-02 13:05:29"
+    },
+    "012_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "00d753abe13e45bc697445df56733777",
+      "wav_file": "012_experiment_cont_0_3.wav",
+      "duration": 49.851,
+      "slide_title": "ತೀರ್ಮಾನ: ಸಾಂದ್ರೀಕರಣ",
+      "type": "key_takeaway",
+      "script_words": 69,
+      "generated_at": "2026-04-02 13:05:34"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಕಾಯಿಕ ಭಾಗ vs. ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗ",
+  "script": "ಸಸ್ಯದ ಭಾಗಗಳನ್ನು ನಾವು ಎರಡು ಮುಖ್ಯ ಗುಂಪುಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು. ಒಂದು, ಕಾಯಿಕ ಭಾಗಗಳು, ಅಂದರೆ ಬೇರು, ಕಾಂಡ, ಮತ್ತು ಎಲೆಗಳು. ಇವುಗಳ ಮುಖ್ಯ ಕೆಲಸ ಸಸ್ಯದ ಬೆಳವಣಿಗೆ, ಪೋಷಣೆ ಮತ್ತು ಜೀವಿತಾವಧಿಯನ್ನು ನೋಡಿಕೊಳ್ಳುವುದು. ಇನ್ನೊಂದು, ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗ, ಅಂದರೆ ಹೂವು. ಇದರ ಮುಖ್ಯ ಕೆಲಸವೆಂದರೆ ಬೀಜಗಳು ಮತ್ತು ಹಣ್ಣುಗಳನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡಿ, ಹೊಸ ಸಸ್ಯಗಳ ಹುಟ್ಟಿಗೆ ಕಾರಣವಾಗುವುದು. ಆದ್ದರಿಂದ, ಕಾಯಿಕ ಭಾಗಗಳು ಸಸ್ಯವನ್ನು ಬದುಕಿಸುತ್ತವೆ, ಸಂತಾನೋತ್ಪತ್ತಿಯ ಭಾಗಗಳು ವಂಶವನ್ನು ಮುಂದುವರಿಸುತ್ತವೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಸಸ್ಯದ ಭಾಗಗಳನ್ನು ನಾವು ಎರಡು ಮುಖ್ಯ ಗುಂಪುಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು. ಒಂದು, ಕಾಯಿಕ ಭಾಗಗಳು, ಅಂದರೆ ಬೇರು, ಕಾಂಡ, ಮತ್ತು ಎಲೆಗಳು. ಇವುಗಳ ಮುಖ್ಯ ಕೆಲಸ ಸಸ್ಯದ ಬೆಳವಣಿಗೆ, ಪೋಷಣೆ ಮತ್ತು ಜೀವಿತಾವಧಿಯನ್ನು ನೋಡಿಕೊಳ್ಳುವುದು. ಇನ್ನೊಂದು, ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗ, ಅಂದರೆ ಹೂವು. ಇದರ ಮುಖ್ಯ ಕೆಲಸವೆಂದರೆ ಬೀಜಗಳು ಮತ್ತು ಹಣ್ಣುಗಳನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡಿ, ಹೊಸ ಸಸ್ಯಗಳ ಹುಟ್ಟಿಗೆ ಕಾರಣವಾಗುವುದು. ಆದ್ದರಿಂದ, ಕಾಯಿಕ ಭಾಗಗಳು ಸಸ್ಯವನ್ನು ಬದುಕಿಸುತ್ತವೆ, ಸಂತಾನೋತ್ಪತ್ತಿಯ ಭಾಗಗಳು ವಂಶವನ್ನು ಮುಂದುವರಿಸುತ್ತವೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_full",
+    "template": "visual_full_caption_bottom",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "<table><thead><tr><th>ಭಾಗ (Part)</th><th>ಮುಖ್ಯ ಕಾರ್ಯ (Main Function)</th></tr></thead><tbody><tr><td><strong>ಕಾಯಿಕ ಭಾಗಗಳು</strong><br>(ಬೇರು, ಕಾಂಡ, ಎಲೆ)</td><td>ಬೆಳವಣಿಗೆ, ಪೋಷಣೆ, ಮತ್ತು ಸಸ್ಯದ ನಿರ್ವಹಣೆ</td></tr><tr><td><strong>ಸಂತಾನೋತ್ಪತ್ತಿ ಭಾಗ</strong><br>(ಹೂವು)</td><td>ಹೊಸ ಸಸ್ಯಗಳನ್ನು (ಸಂತತಿ) ಉತ್ಪತ್ತಿ ಮಾಡುವುದು</td></tr></tbody></table>",
+    "placeholder_note": "Render the HTML table provided in the 'latex' field. The table compares Vegetative Parts (Root, Stem, Leaf) with Reproductive Parts (Flower) based on their main function."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_7_chapter_8_concept_1_chunk_007"
+}

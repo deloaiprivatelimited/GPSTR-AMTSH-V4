@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ, ಅಂತಿಮ ಹಂತ. ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ಘಟಕ ಸೂತ್ರರಾಶಿಯನ್ನು ಪಡೆಯಲು ನಾವು ಈ ಎರಡೂ ರಾಶಿಗಳನ್ನು ಕೂಡಿಸಬೇಕು. ಅಂದರೆ, ನಲವತ್ತು ಯು ಪ್ಲಸ್ ಎಪ್ಪತ್ತೊಂದು ಯು. ಇವೆರಡನ್ನೂ ಕೂಡಿಸಿದಾಗ ನಮಗೆ ನೂರ ಹನ್ನೊಂದು ಯು ಸಿಗುತ್ತದೆ. ಹೀಗೆ, ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ಘಟಕ ಸೂತ್ರರಾಶಿ ನೂರ ಹನ್ನೊಂದು ಯು.",
+  "script_display": "**ಹಂತ 2: ಎಲ್ಲಾ ಧಾತುಗಳ ಒಟ್ಟು ರಾಶಿಗಳನ್ನು ಕೂಡಿಸುವುದು.**\nಘಟಕ ಸೂತ್ರರಾಶಿಯನ್ನು ಪಡೆಯಲು ಎಲ್ಲಾ ಧಾತುಗಳ ಒಟ್ಟು ರಾಶಿಗಳನ್ನು ಸಂಕಲಿಸಿ.",
+  "display_bullets": [
+    "**CaCl₂ ನ ಘಟಕ ಸೂತ್ರರಾಶಿ:**",
+    "= (Ca ನ ಒಟ್ಟು ರಾಶಿ) + (Cl ನ ಒಟ್ಟು ರಾಶಿ)",
+    "= 40 u + 71 u",
+    "= 111 u"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_3_example_7",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಎಲ್ಲಾ ಧಾತುಗಳ ಒಟ್ಟು ರಾಶಿಗಳನ್ನು ಕೂಡಿಸುವುದು.",
+      "justification": "ಘಟಕ ಸೂತ್ರರಾಶಿ = Σ (ಧಾತುಗಳ ಒಟ್ಟು ರಾಶಿ)."
+    }
+  ],
+  "chunk_id": "std_9_chapter_3_concept_8_chunk_019"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆ 5.3: ಮಾಡುವ ವಿಧಾನ (ಹಂತ 2)",
+  "script": "ಈಗ ಲೋಟದಲ್ಲಿರುವ ಎಲ್ಲಾ ಮಂಜುಗಡ್ಡೆಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಕರಗಿ ನೀರಾಗಿದೆ. ನಾವು ಈಗ ಈ ಬದಲಾವಣೆಯನ್ನು ಹಿಮ್ಮುಖಗೊಳಿಸಬಹುದೇ ಎಂದು ಪರೀಕ್ಷಿಸೋಣ. ಅದಕ್ಕಾಗಿ, ನೀರಿರುವ ಇದೇ ಲೋಟವನ್ನು ತೆಗೆದುಕೊಂಡು ಫ್ರೀಜರ್ ಅಥವಾ ರೆಫ್ರಿಜರೇಟರ್‌ನ ಅತೀ ತಂಪಾದ ಭಾಗದಲ್ಲಿ ಇಡೋಣ. ಕೆಲವು ಗಂಟೆಗಳ ನಂತರ ನಾವು ಅದನ್ನು ಹೊರತೆಗೆದು ನೋಡಿದಾಗ, ದ್ರವ ರೂಪದಲ್ಲಿದ್ದ ನೀರು ಮತ್ತೆ ಘನ ರೂಪದ ಮಂಜುಗಡ್ಡೆಯಾಗಿ ಬದಲಾಗಿರುತ್ತದೆ. ಇದು ಸ್ಥಿತಿ ಬದಲಾವಣೆಯ ಎರಡನೇ ಹಂತ, ಅಂದರೆ ಘನೀಕರಣ.",
+  "script_display": "ಈಗ ಲೋಟದಲ್ಲಿರುವ ಎಲ್ಲಾ ಮಂಜುಗಡ್ಡೆಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಕರಗಿ ನೀರಾಗಿದೆ. ನಾವು ಈಗ ಈ ಬದಲಾವಣೆಯನ್ನು ಹಿಮ್ಮುಖಗೊಳಿಸಬಹುದೇ ಎಂದು ಪರೀಕ್ಷಿಸೋಣ. ಅದಕ್ಕಾಗಿ, ನೀರಿರುವ ಇದೇ ಲೋಟವನ್ನು ತೆಗೆದುಕೊಂಡು ಫ್ರೀಜರ್ ಅಥವಾ ರೆಫ್ರಿಜರೇಟರ್‌ನ ಅತೀ ತಂಪಾದ ಭಾಗದಲ್ಲಿ ಇಡೋಣ. ಕೆಲವು ಗಂಟೆಗಳ ನಂತರ ನಾವು ಅದನ್ನು ಹೊರತೆಗೆದು ನೋಡಿದಾಗ, ದ್ರವ ರೂಪದಲ್ಲಿದ್ದ ನೀರು ಮತ್ತೆ ಘನ ರೂಪದ ಮಂಜುಗಡ್ಡೆಯಾಗಿ ಬದಲಾಗಿರುತ್ತದೆ. ಇದು ಸ್ಥಿತಿ ಬದಲಾವಣೆಯ ಎರಡನೇ ಹಂತ, ಅಂದರೆ ಘನೀಕರಣ (freezing).",
+  "display_bullets": [
+    "ಮಂಜುಗಡ್ಡೆ ಕರಗಿ ನೀರಾದ ನಂತರ, ಆ ಲೋಟವನ್ನು ಫ್ರೀಜರ್‌ನಲ್ಲಿ ಇಡಿ.",
+    "ಕೆಲವು ಗಂಟೆಗಳ ಕಾಲ ತಂಪುಗೊಳಿಸಿ.",
+    "ನೀರು ಮತ್ತೆ ಮಂಜುಗಡ್ಡೆಯಾಗುವುದನ್ನು ಗಮನಿಸಿ (ದ್ರವ → ಘನ)."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_2",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a glass beaker containing water being placed inside a freezer. An arrow points from the beaker to another image of the same beaker, now containing solid ice.",
+    "labels": "ನೀರು, ಫ್ರೀಜರ್, ಮಂಜುಗಡ್ಡೆ",
+    "scientific_significance": "Depicts the process of freezing, where a liquid (water) turns into a solid (ice) upon cooling.",
+    "placeholder_note": "Image to be generated: Water in a beaker turning into ice inside a freezer."
+  },
+  "chunk_id": "std_7_chapter_5_concept_1_chunk_014"
+}

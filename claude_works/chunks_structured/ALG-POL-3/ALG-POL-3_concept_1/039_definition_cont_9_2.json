@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರಮುಖ ನಿಯಮ: $a \\neq 0$ ಏಕೆ?",
+  "script": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನಾವು a ಯು ಸೊನ್ನೆಗೆ ಸಮನಾಗಿರಬಾರದು ಎಂದು ಹೇಳಿದ್ದೆವು. ಅದು ಯಾಕೆ ಅಷ್ಟು ಮುಖ್ಯ? ಬನ್ನಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಎರಡು x squared plus ಮೂರು x plus ಒಂದು ಇದೆ. ಇಲ್ಲಿ a ಯ ಮೌಲ್ಯ ಎರಡು, ಇದು ಸೊನ್ನೆಯಲ್ಲ. ಆದ್ದರಿಂದ ಇದು ವರ್ಗ ಬಹುಪದೋಕ್ತಿ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಒಂದು ವೇಳೆ a ಸೊನ್ನೆ ಆಗಿದ್ದರೆ ಏನಾಗುತ್ತದೆ? ಸೊನ್ನೆ x squared plus ನಾಲ್ಕು x minus ಎರಡು. ಸೊನ್ನೆಯಿಂದ ಗುಣಿಸಿದಾಗ x squared ಪದವು ಕಣ್ಮರೆಯಾಗುತ್ತದೆ. ಆಗ ನಮಗೆ ಉಳಿಯುವುದು ಕೇವಲ ನಾಲ್ಕು x minus ಎರಡು. ಇದರ ಡಿಗ್ರಿ ಒಂದು. ಇದು ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿಯಾಗುತ್ತದೆ, ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯಾಗಿ ಉಳಿಯುವುದಿಲ್ಲ. ಅದಕ್ಕಾಗಿಯೇ, ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿ x squared ಪದದ ಸಹಗುಣಕ, ಅಂದರೆ a, ಎಂದಿಗೂ ಸೊನ್ನೆಯಾಗಿರಬಾರದು.",
+  "script_display": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನಾವು $a \\neq 0$ ಎಂದು ಹೇಳಿದ್ದೆವು. ಅದು ಯಾಕೆ ಅಷ್ಟು ಮುಖ್ಯ? ಬನ್ನಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, $2x^2 + 3x + 1$ ಇದೆ. ಇಲ್ಲಿ $a=2$, ಇದು ಸೊನ್ನೆಯಲ್ಲ. ಆದ್ದರಿಂದ ಇದು ವರ್ಗ ಬಹುಪದೋಕ್ತಿ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಒಂದು ವೇಳೆ $a=0$ ಆಗಿದ್ದರೆ ಏನಾಗುತ್ತದೆ? $0x^2 + 4x - 2$. ಸೊನ್ನೆಯಿಂದ ಗುಣಿಸಿದಾಗ $x^2$ ಪದವು ಕಣ್ಮರೆಯಾಗುತ್ತದೆ. ಆಗ ನಮಗೆ ಉಳಿಯುವುದು ಕೇವಲ $4x-2$. ಇದರ ಡಿಗ್ರಿ 1. ಇದು ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿಯಾಗುತ್ತದೆ, ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯಾಗಿ ಉಳಿಯುವುದಿಲ್ಲ. ಅದಕ್ಕಾಗಿಯೇ, ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿ $x^2$ ಪದದ ಸಹಗುಣಕ, ಅಂದರೆ $a$, ಎಂದಿಗೂ ಸೊನ್ನೆಯಾಗಿರಬಾರದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen comparison. Left side shows a valid quadratic polynomial: 2x^2 + 3x + 1, with a label 'a=2 (not zero), so it is a Quadratic Polynomial'. Right side shows what happens when a=0: 0x^2 + 4x - 2, which simplifies to 4x - 2, with a label 'a=0, so it becomes a Linear Polynomial'.",
+    "labels": "quadratic polynomial, linear polynomial, coefficient 'a'",
+    "mathematical_significance": "Illustrates the critical condition a != 0 for a polynomial to be quadratic. If a=0, the degree of the polynomial reduces from 2 to 1, changing its classification.",
+    "placeholder_note": "Generate a split screen image. Left side header: 'ವರ್ಗ ಬಹುಪದೋಕ್ತಿ ಹೌದು (a≠0)', with the equation 2x^2+3x+1 and a green checkmark. Right side header: 'ವರ್ಗ ಬಹುಪದೋಕ್ತಿ ಅಲ್ಲ (a=0)', with the equation 0x^2+4x-2 simplifying to 4x-2, and a red cross mark."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "ALG-POL-3_concept_1_chunk_039"
+}

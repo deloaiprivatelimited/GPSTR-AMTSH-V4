@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಯಮಗಳ ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈ ಚಿತ್ರದಲ್ಲಿ, ವಕ್ರೀಭವನದ ಎರಡೂ ನಿಯಮಗಳನ್ನು ನಾವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಬೆಳಕಿನ ಕಿರಣವು ಗಾಳಿಯಿಂದ (ವಿರಳ ಮಾಧ್ಯಮ) ಗಾಜಿನ ಚಪ್ಪಡಿಗೆ (ಸಾಂದ್ರ ಮಾಧ್ಯಮ) ಪ್ರವೇಶಿಸುತ್ತಿದೆ. ಮೊದಲನೆಯದಾಗಿ, ಪತನ ಕಿರಣ, ವಕ್ರೀಭವನ ಕಿರಣ ಮತ್ತು ಲಂಬ ರೇಖೆ, ಇವೆಲ್ಲವೂ ಈ ಪರದೆಯ ಸಮತಲದಲ್ಲಿಯೇ ಇವೆ. ಇದು ಮೊದಲನೇ ನಿಯಮ. ಎರಡನೆಯದಾಗಿ, ಬೆಳಕಿನ ಕಿರಣವು ಸಾಂದ್ರ ಮಾಧ್ಯಮವನ್ನು ಪ್ರವೇಶಿಸಿದಾಗ ಲಂಬದ ಕಡೆಗೆ ಬಾಗಿದೆ. ಇದರಿಂದ, ಪತನ ಕೋನ 'i' ಗಿಂತ ವಕ್ರೀಭವನ ಕೋನ 'r' ಚಿಕ್ಕದಾಗಿದೆ. ಇದರರ್ಥ, ಸೈನ್ i ಭಾಗಿಸು ಸೈನ್ r ಅನುಪಾತವು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಇದು ಸ್ನೆಲ್‌ನ ನಿಯಮದ ಪ್ರಾಯೋಗಿಕ ದೃಢೀಕರಣವಾಗಿದೆ.",
+  "script_display": "ಈ ಚಿತ್ರದಲ್ಲಿ, ವಕ್ರೀಭವನದ ಎರಡೂ ನಿಯಮಗಳನ್ನು ನಾವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಬೆಳಕಿನ ಕಿರಣವು ಗಾಳಿಯಿಂದ (ವಿರಳ ಮಾಧ್ಯಮ) ಗಾಜಿನ ಚಪ್ಪಡಿಗೆ (ಸಾಂದ್ರ ಮಾಧ್ಯಮ) ಪ್ರವೇಶಿಸುತ್ತಿದೆ. ಮೊದಲನೆಯದಾಗಿ, ಪತನ ಕಿರಣ, ವಕ್ರೀಭವನ ಕಿರಣ ಮತ್ತು ಲಂಬ ರೇಖೆ, ಇವೆಲ್ಲವೂ ಈ ಪರದೆಯ ಸಮತಲದಲ್ಲಿಯೇ ಇವೆ. ಇದು ಮೊದಲನೇ ನಿಯಮ. ಎರಡನೆಯದಾಗಿ, ಬೆಳಕಿನ ಕಿರಣವು ಸಾಂದ್ರ ಮಾಧ್ಯಮವನ್ನು ಪ್ರವೇಶಿಸಿದಾಗ ಲಂಬದ ಕಡೆಗೆ ಬಾಗಿದೆ. ಇದರಿಂದ, ಪತನ ಕೋನ 'i' ಗಿಂತ ವಕ್ರೀಭವನ ಕೋನ 'r' ಚಿಕ್ಕದಾಗಿದೆ. ಇದರರ್ಥ, $\\frac{\\sin i}{\\sin r}$ ಅನುಪಾತವು 1ಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಇದು ಸ್ನೆಲ್‌ನ ನಿಯಮದ ಪ್ರಾಯೋಗಿಕ ದೃಢೀಕರಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಬೆಳಕು ವಿರಳ ಮಾಧ್ಯಮದಿಂದ (ಗಾಳಿ) ಸಾಂದ್ರ ಮಾಧ್ಯಮಕ್ಕೆ (ಗಾಜು) ಚಲಿಸುತ್ತಿದೆ.",
+    "ಕಿರಣವು ಲಂಬದ ಕಡೆಗೆ ಬಾಗುತ್ತದೆ.",
+    "ಪತನ ಕೋನ (i) > ವಕ್ರೀಭವನ ಕೋನ (r)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a ray of light passing from a rarer medium (Air) to a denser medium (Glass slab). The incident ray, refracted ray, and the normal are shown. The angle of incidence 'i' and angle of refraction 'r' are marked, with 'i' being visibly larger than 'r'. The ray bends towards the normal.",
+    "labels": "Air, Glass, Incident Ray, Refracted Ray, Normal, Angle i, Angle r",
+    "scientific_significance": "Illustrates both laws of refraction, especially Snell's law in action where light bends towards the normal when entering a denser medium.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_9_concept_5_chunk_022"
+}

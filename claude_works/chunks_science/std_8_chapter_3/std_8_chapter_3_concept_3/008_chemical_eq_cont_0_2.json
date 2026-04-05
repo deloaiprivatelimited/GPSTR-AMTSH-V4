@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿವರ್ತಕಗಳು ಮತ್ತು ಉತ್ಪನ್ನಗಳು",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ, ಕಾರ್ಬನ್ ಮತ್ತು ಆಮ್ಲಜನಕಗಳು ಪ್ರತಿವರ್ತಕಗಳು, ಅಂದರೆ ಇವು ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುವ ವಸ್ತುಗಳು. ಇವುಗಳ ನಡುವಿನ ಕ್ರಿಯೆಯಿಂದ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ಉಷ್ಣ ಉತ್ಪನ್ನಗಳಾಗಿ, ಅಂದರೆ ಹೊಸದಾಗಿ ಉಂಟಾದ ವಸ್ತುಗಳಾಗಿ, ದೊರೆಯುತ್ತವೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ, ಕಾರ್ಬನ್ (C) ಮತ್ತು ಆಮ್ಲಜನಕ (O₂) ಪ್ರತಿವರ್ತಕಗಳು (Reactants). ಇವುಗಳ ನಡುವಿನ ಕ್ರಿಯೆಯಿಂದ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಮತ್ತು ಉಷ್ಣ (Heat) ಉತ್ಪನ್ನಗಳಾಗಿ (Products) ದೊರೆಯುತ್ತವೆ.",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳು (Reactants): ಕಾರ್ಬನ್ (C), ಆಮ್ಲಜನಕ (O₂)",
+    "ಉತ್ಪನ್ನಗಳು (Products): ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂), ಉಷ್ಣ (Heat)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎಡಭಾಗದಲ್ಲಿ ಒಂದು ಕಲ್ಲಿದ್ದಲಿನ ತುಂಡು (ಕಾರ್ಬನ್ ಪರಮಾಣುವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ) ಮತ್ತು ಒಂದು ಆಮ್ಲಜನಕದ ಅಣು (O₂). ಬಲಭಾಗದಲ್ಲಿ ಒಂದು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅಣು (CO₂) ಮತ್ತು ಉಷ್ಣವನ್ನು ಸೂಚಿಸುವ ಜ್ವಾಲೆಯ ಚಿಹ್ನೆ. ಇವುಗಳ ನಡುವೆ ಬಾಣದ ಗುರುತು.",
+    "labels": "ಕಾರ್ಬನ್ (C), ಆಮ್ಲಜನಕ (O₂), ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂), ಉಷ್ಣ",
+    "scientific_significance": "ದಹನ ಕ್ರಿಯೆಯಲ್ಲಿ ಪ್ರತಿವರ್ತಕಗಳು ಉತ್ಪನ್ನಗಳಾಗಿ ಹೇಗೆ ಪರಿವರ್ತನೆಯಾಗುತ್ತವೆ ಎಂಬುದನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing C + O2 -> CO2 + Heat using molecular models or simple shapes."
+  },
+  "chunk_id": "std_8_chapter_3_concept_3_chunk_008"
+}

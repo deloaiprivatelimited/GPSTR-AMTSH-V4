@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ನಿತ್ಯಸಮೀಕರಣ I ಬಳಸಿ ಅಪವರ್ತಿಸುವಿಕೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು x ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ಎಂಟು x ಪ್ಲಸ್ ಹದಿನಾರು ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಮೊದಲು, ಈ ಬೀಜೋಕ್ತಿಯನ್ನು ಗಮನಿಸೋಣ. ನಾವು ಯಾವ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಬಹುದು ಎಂದು ಯೋಚಿಸಬೇಕು. ಅಪವರ್ತಿಸಬೇಕಾದ ಬೀಜೋಕ್ತಿ x ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ಎಂಟು x ಪ್ಲಸ್ ಹದಿನಾರು. ನಮ್ಮ ಗುರಿ ಈ ಬೀಜೋಕ್ತಿಯನ್ನು ಅಪವರ್ತನಗಳ ಗುಣಲಬ್ಧವಾಗಿ ಬರೆಯುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $x^2 + 8x + 16$ ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಮೊದಲು, ಈ ಬೀಜೋಕ್ತಿಯನ್ನು ಗಮನಿಸೋಣ. ನಾವು ಯಾವ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಬಹುದು ಎಂದು ಯೋಚಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಅಪವರ್ತಿಸಬೇಕಾದ ಬೀಜೋಕ್ತಿ: $x^2 + 8x + 16$",
+    "ಗುರಿ: ಈ ಬೀಜೋಕ್ತಿಯನ್ನು ಅಪವರ್ತನಗಳ ಗುಣಲಬ್ಧವಾಗಿ ಬರೆಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x^2 + 8x + 16",
+    "placeholder_note": "Problem statement displayed prominently"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "ALG-FAC-2_example_5",
+  "chunk_id": "ALG-FAC-2_concept_4_chunk_018"
+}

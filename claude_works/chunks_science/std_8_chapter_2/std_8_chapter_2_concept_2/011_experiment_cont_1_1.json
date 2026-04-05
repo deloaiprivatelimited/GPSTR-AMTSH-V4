@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆ 2.4: ಮಾಡುವ ವಿಧಾನ",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ತೆಗೆದುಕೊಂಡ ಬೀಕರ್‌ಗೆ ಮುಕ್ಕಾಲು ಭಾಗದಷ್ಟು ನೀರನ್ನು ತುಂಬೋಣ. ಈಗ, ಇದಕ್ಕೆ ಎರಡು ಅಥವಾ ಮೂರು ಚಮಚ ಸಕ್ಕರೆಯನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಅದು ಸಂಪೂರ್ಣವಾಗಿ ಕರಗುವವರೆಗೆ ಚೆನ್ನಾಗಿ ಕಲಕಿ. ಸಕ್ಕರೆ ಕರಗಿದ ನಂತರ, ಅರ್ಧ ಚಮಚ ಯೀಸ್ಟ್ ಪುಡಿಯನ್ನು ಈ ಸಕ್ಕರೆ ದ್ರಾವಣಕ್ಕೆ ಸೇರಿಸಿ. ನಂತರ, ಈ ಬೀಕರ್ ಅನ್ನು ಒಂದು ಮುಚ್ಚಳದಿಂದ ಮುಚ್ಚಿ, ಸುಮಾರು ನಾಲ್ಕರಿಂದ ಐದು ಗಂಟೆಗಳ ಕಾಲ ಬೆಚ್ಚಗಿನ ಸ್ಥಳದಲ್ಲಿ ಇಡಬೇಕು. ಯೀಸ್ಟ್ ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡಲು ಸ್ವಲ್ಪ ಉಷ್ಣತೆ ಬೇಕು. ನಿಗದಿತ ಸಮಯದ ನಂತರ, ದ್ರಾವಣದ ವಾಸನೆಯನ್ನು ಪರೀಕ್ಷಿಸಿ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ತೆಗೆದುಕೊಂಡ ಬೀಕರ್‌ಗೆ ¾ ಭಾಗದಷ್ಟು ನೀರನ್ನು ತುಂಬೋಣ. ಈಗ, ಇದಕ್ಕೆ 2-3 ಚಮಚ ಸಕ್ಕರೆಯನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಅದು ಸಂಪೂರ್ಣವಾಗಿ ಕರಗುವವರೆಗೆ ಚೆನ್ನಾಗಿ ಕಲಕಿ. ಸಕ್ಕರೆ ಕರಗಿದ ನಂತರ, ½ ಚಮಚ ಯೀಸ್ಟ್ ಪುಡಿಯನ್ನು ಈ ಸಕ್ಕರೆ ದ್ರಾವಣಕ್ಕೆ ಸೇರಿಸಿ. ನಂತರ, ಈ ಬೀಕರ್ ಅನ್ನು ಒಂದು ಮುಚ್ಚಳದಿಂದ ಮುಚ್ಚಿ, ಸುಮಾರು 4-5 ಗಂಟೆಗಳ ಕಾಲ ಬೆಚ್ಚಗಿನ ಸ್ಥಳದಲ್ಲಿ ಇಡಬೇಕು. ಯೀಸ್ಟ್ ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡಲು ಸ್ವಲ್ಪ ಉಷ್ಣತೆ ಬೇಕು. ನಿಗದಿತ ಸಮಯದ ನಂತರ, ದ್ರಾವಣದ ವಾಸನೆಯನ್ನು ಪರೀಕ್ಷಿಸಿ.",
+  "display_bullets": [
+    "ಬೀಕರ್‌ನಲ್ಲಿ ನೀರು, ಸಕ್ಕರೆ ಮತ್ತು ಯೀಸ್ಟ್ ಪುಡಿಯನ್ನು ಮಿಶ್ರಣ ಮಾಡಿ.",
+    "ಬೀಕರ್ ಅನ್ನು ಮುಚ್ಚಿ, 4-5 ಗಂಟೆಗಳ ಕಾಲ ಬೆಚ್ಚಗಿನ ಸ್ಥಳದಲ್ಲಿ ಇಡಿ.",
+    "ಸಮಯದ ನಂತರ, ದ್ರಾವಣದ ವಾಸನೆಯನ್ನು ಪರೀಕ್ಷಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A sequence of three illustrations. 1: Adding sugar and yeast powder to a beaker of water. 2: The beaker is covered and placed in a warm spot, with a clock showing 4-5 hours passing. 3: A person carefully wafts the air from the beaker's opening towards their nose to smell the contents.",
+    "labels": "ಹಂತ 1: ಮಿಶ್ರಣ, ಹಂತ 2: ಬೆಚ್ಚಗಿನ ಸ್ಥಳದಲ್ಲಿ ಇಡುವುದು, ಹಂತ 3: ವಾಸನೆ ಪರೀಕ್ಷಿಸುವುದು",
+    "scientific_significance": "Visually demonstrates the experimental procedure for fermentation, highlighting the key steps of mixing reactants, providing optimal conditions (warmth), and observing the product.",
+    "placeholder_note": "Image to be generated showing the procedure steps."
+  },
+  "chunk_id": "std_8_chapter_2_concept_2_chunk_011"
+}

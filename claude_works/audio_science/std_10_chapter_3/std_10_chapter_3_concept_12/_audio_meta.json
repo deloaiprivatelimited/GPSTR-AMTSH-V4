@@ -1,0 +1,191 @@
+{
+  "module_id": "std_10_chapter_3_concept_12",
+  "chapter_code": "std_10_chapter_3",
+  "voice": "Schedar",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 16,
+  "ok_count": 16,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:50:12",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "1a6be134dc475c3a1c8df26dbbc831aa",
+      "wav_file": "001_intro_0.wav",
+      "duration": 37.371,
+      "slide_title": "ಮಿಶ್ರಲೋಹಗಳು",
+      "type": "intro",
+      "script_words": 69,
+      "generated_at": "2026-04-02 11:47:22"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "4f2c613fb67fe49df8ecdcffd9772e1c",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 32.011,
+      "slide_title": "ಅವಶ್ಯಕವಾದ ಪೂರ್ವ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 44,
+      "generated_at": "2026-04-02 11:47:23"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "f896304be47453501460677e0a641c65",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 41.971,
+      "slide_title": "ಉದಾಹರಣೆ: ಚಿನ್ನ",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 11:47:35"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "c2f5cb841d678fdcde4e2ce52d520730",
+      "wav_file": "003_definition_0.wav",
+      "duration": 40.771,
+      "slide_title": "ಮಿಶ್ರಲೋಹ ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 11:47:47"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "835c98dafada2d6418efe18fb1d44c00",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 46.651,
+      "slide_title": "ಶುದ್ಧ ಲೋಹ vs. ಮಿಶ್ರಲೋಹ",
+      "type": "definition",
+      "script_words": 65,
+      "generated_at": "2026-04-02 11:47:51"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "230f09814b7c9f2c11614404274a270e",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 42.571,
+      "slide_title": "ಅಮಾಲ್ಗಂ vs. ಇತರ ಮಿಶ್ರಲೋಹಗಳು",
+      "type": "definition",
+      "script_words": 57,
+      "generated_at": "2026-04-02 11:48:13"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "c58e99fb431ddc095387e7dd13cc3db1",
+      "wav_file": "006_definition_1.wav",
+      "duration": 35.931,
+      "slide_title": "ಅಮಾಲ್ಗಂ (Amalgam): ವ್ಯಾಖ್ಯಾನ",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 11:48:25"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "80e29ee97e7d6c2b6e24b3dba86c9381",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 39.851,
+      "slide_title": "ಅಮಾಲ್ಗಂ: ಒಂದು ಉದಾಹರಣೆ",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 11:48:28"
+    },
+    "010_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "cc4bb89728b4cab5dba572550732fbed",
+      "wav_file": "010_property_cont_0_1.wav",
+      "duration": 56.011,
+      "slide_title": "ಗುಣ 1: ಗಡಸುತನ",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 11:48:40"
+    },
+    "011_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "039470dc93866595e1ee7853536c3e5c",
+      "wav_file": "011_property_cont_0_2.wav",
+      "duration": 48.291,
+      "slide_title": "ಗುಣ 2: ಕರಗುವ ಬಿಂದು ಮತ್ತು ವಾಹಕತೆ",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:48:51"
+    },
+    "012_property_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "13935b37c96d95327c05b1daa66e383d",
+      "wav_file": "012_property_cont_0_3.wav",
+      "duration": 50.171,
+      "slide_title": "ಗುಣ 3: ಸಂಕ್ಷಾರಣ ನಿರೋಧಕತೆ",
+      "type": "concept_explanation",
+      "script_words": 70,
+      "generated_at": "2026-04-02 11:49:17"
+    },
+    "014_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "b53040b69a91e889f4dada6c2d3a66ed",
+      "wav_file": "014_classification_cont_0_1.wav",
+      "duration": 43.411,
+      "slide_title": "ಕೆಲವು ಪ್ರಮುಖ ಮಿಶ್ರಲೋಹಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 11:49:29"
+    },
+    "013_classification_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "d5ea1237d336d0aa8bcb7abbb2373c60",
+      "wav_file": "013_classification_0.wav",
+      "duration": 50.211,
+      "slide_title": "ಕೆಲವು ಪ್ರಮುಖ ಮಿಶ್ರಲೋಹಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:49:34"
+    },
+    "009_property_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "4f5a79fb095805e0a845e8ff3f4af7cb",
+      "wav_file": "009_property_0.wav",
+      "duration": 52.851,
+      "slide_title": "ಮಿಶ್ರಲೋಹಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 11:49:37"
+    },
+    "015_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "449f5968c909b6dcd9ed2393a2fcefe8",
+      "wav_file": "015_classification_cont_0_2.wav",
+      "duration": 45.811,
+      "slide_title": "ಆಭರಣದ ಚಿನ್ನ: ಒಂದು ಮಿಶ್ರಲೋಹ",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 11:49:49"
+    },
+    "016_recap_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "820c50416a00345023cf8e092466b330",
+      "wav_file": "016_recap_0.wav",
+      "duration": 37.091,
+      "slide_title": "ಸಾರಾಂಶ: ಮಿಶ್ರಲೋಹಗಳು",
+      "type": "recap",
+      "script_words": 50,
+      "generated_at": "2026-04-02 11:50:12"
+    }
+  }
+}

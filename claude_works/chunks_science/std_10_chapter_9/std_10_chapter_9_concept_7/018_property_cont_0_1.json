@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರೇಖಾಚಿತ್ರ ರಚನೆ: ನಿಯಮ 2",
+  "script": "ಈಗ ಎರಡನೇ ನಿಯಮವನ್ನು ಗಮನಿಸೋಣ. ಇದು ಮೊದಲನೇ ನಿಯಮದ ತದ್ವಿರುದ್ಧವಾಗಿದೆ. ಪೀನ ಮಸೂರದ ಮೊದಲ ಪ್ರಧಾನ ಸಂಗಮವಾದ ಎಫ್ ಒನ್ ಮೂಲಕ ಹಾದುಹೋಗುವ ಬೆಳಕಿನ ಕಿರಣವು, ಮಸೂರದಿಂದ ವಕ್ರೀಭವನಗೊಂಡ ನಂತರ ಪ್ರಧಾನಾಕ್ಷಕ್ಕೆ ಸಮಾಂತರವಾಗಿ ಚಲಿಸುತ್ತದೆ. ನಿಮ್ಮ ಮಸೂರದ ವಿಷಯದಲ್ಲಿ, ಎರಡನೇ ಪ್ರಧಾನ ಸಂಗಮವಾದ ಎಫ್ ಟೂ ಕಡೆಗೆ ನಿರ್ದೇಶಿತವಾದ ಕಿರಣವು, ವಕ್ರೀಭವನದ ನಂತರ ಪ್ರಧಾನಾಕ್ಷಕ್ಕೆ ಸಮಾಂತರವಾಗಿ ಹೊರಹೊಮ್ಮುತ್ತದೆ. ಈ ನಿಯಮವು ಬೆಳಕಿನ ಪಥದ ಹಿಮ್ಮುಖತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ ಮತ್ತು ಪ್ರತಿಬಿಂಬ ರಚನೆಯನ್ನು ವಿಶ್ಲೇಷಿಸಲು ಇದು ಕೂಡ ಅಷ್ಟೇ ಮುಖ್ಯವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ನಿಯಮವನ್ನು ಗಮನಿಸೋಣ. ಇದು ಮೊದಲನೇ ನಿಯಮದ ತದ್ವಿರುದ್ಧವಾಗಿದೆ. ಪೀನ ಮಸೂರದ ಮೊದಲ ಪ್ರಧಾನ ಸಂಗಮವಾದ F₁ ಮೂಲಕ ಹಾದುಹೋಗುವ ಬೆಳಕಿನ ಕಿರಣವು, ಮಸೂರದಿಂದ ವಕ್ರೀಭವನಗೊಂಡ ನಂತರ ಪ್ರಧಾನಾಕ್ಷಕ್ಕೆ ಸಮಾಂತರವಾಗಿ ಚಲಿಸುತ್ತದೆ. ನಿಮ್ಮ ಮಸೂರದ ವಿಷಯದಲ್ಲಿ, ಎರಡನೇ ಪ್ರಧಾನ ಸಂಗಮವಾದ F₂ ಕಡೆಗೆ ನಿರ್ದೇಶಿತವಾದ ಕಿರಣವು, ವಕ್ರೀಭವನದ ನಂತರ ಪ್ರಧಾನಾಕ್ಷಕ್ಕೆ ಸಮಾಂತರವಾಗಿ ಹೊರಹೊಮ್ಮುತ್ತದೆ. ಈ ನಿಯಮವು ಬೆಳಕಿನ ಪಥದ ಹಿಮ್ಮುಖತೆಯನ್ನು (reversibility) ತೋರಿಸುತ್ತದೆ ಮತ್ತು ಪ್ರತಿಬಿಂಬ ರಚನೆಯನ್ನು ವಿಶ್ಲೇಷಿಸಲು ಇದು ಕೂಡ ಅಷ್ಟೇ ಮುಖ್ಯವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪ್ರಧಾನ ಸಂಗಮದ ಮೂಲಕ ಹಾದುಹೋಗುವ ಕಿರಣ.",
+    "ಪೀನ ಮಸೂರ: ಪ್ರಧಾನ ಸಂಗಮದ (F₁) ಮೂಲಕ ಹಾದುಹೋಗುವ ಕಿರಣವು ವಕ್ರೀಭವನದ ನಂತರ ಸಮಾಂತರವಾಗುತ್ತದೆ.",
+    "ನಿಮ್ಮ ಮಸೂರ: ಪ್ರಧಾನ ಸಂಗಮದ (F₂) ಕಡೆಗೆ ನಿರ್ದೇಶಿತವಾದ ಕಿರಣವು ವಕ್ರೀಭವನದ ನಂತರ ಸಮಾಂತರವಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side comparison. Left: A convex lens with a ray passing through the first focus F₁. After refraction, the ray becomes parallel to the principal axis. Right: A concave lens with a ray directed towards the second focus F₂. After refraction, the ray becomes parallel to the principal axis. Both F₁ and F₂ should be labelled for both lenses.",
+    "labels": "ಪ್ರಧಾನಾಕ್ಷ, ಪೀನ ಮಸೂರ, ನಿಮ್ಮ ಮಸೂರ, ಪ್ರಧಾನ ಸಂಗಮ (F₁, F₂), ವಕ್ರೀಭವನಗೊಂಡ ಕಿರಣ, ಸಮಾಂತರ ಕಿರಣ",
+    "scientific_significance": "Demonstrates the principle of reversibility of light paths for lenses. It's the inverse of Rule 1 and is crucial for locating images.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_9_concept_7_chunk_018"
+}

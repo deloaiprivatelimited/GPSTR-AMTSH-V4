@@ -1,0 +1,136 @@
+{
+  "module_id": "std_7_chapter_3_concept_2",
+  "chapter_code": "std_7_chapter_3",
+  "voice": "Leda",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:37:22",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "2b1149ecbb8853d0d82d8272df97034b",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 21.091,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ (Prerequisites)",
+      "type": "intro",
+      "script_words": 29,
+      "generated_at": "2026-04-02 16:35:07"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "e8b2bd59f4847bbe27c84f2457c0e76f",
+      "wav_file": "003_property_0.wav",
+      "duration": 44.571,
+      "slide_title": "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ: ಉದ್ದೇಶ ಮತ್ತು ವ್ಯಾಪ್ತಿ",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 16:35:22"
+    },
+    "005_property_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "01d4f24572a2be108b49fe261401a5c0",
+      "wav_file": "005_property_1.wav",
+      "duration": 44.651,
+      "slide_title": "ವಕ್ರತೆಯ ಕಾರ್ಯ",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 16:35:31"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "f059881f79588c246de3612262daecb2",
+      "wav_file": "001_intro_0.wav",
+      "duration": 57.211,
+      "slide_title": "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ (Clinical Thermometer)",
+      "type": "intro",
+      "script_words": 80,
+      "generated_at": "2026-04-02 16:35:32"
+    },
+    "006_property_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "a36bac0514caf94f38855c62938e378a",
+      "wav_file": "006_property_cont_1_1.wav",
+      "duration": 44.931,
+      "slide_title": "ಮಾನವನ ದೇಹದ ಸಾಮಾನ್ಯ ತಾಪ",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 16:35:56"
+    },
+    "008_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "9e08bd715ce7f17754d004b994a6c39a",
+      "wav_file": "008_experiment_cont_0_1.wav",
+      "duration": 39.811,
+      "slide_title": "ವಿಧಾನ: ಮೊದಲ ಹಂತಗಳು",
+      "type": "experiment_activity",
+      "script_words": 55,
+      "generated_at": "2026-04-02 16:36:21"
+    },
+    "007_experiment_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "0e15fff6e2d697070173f25fa9e07699",
+      "wav_file": "007_experiment_0.wav",
+      "duration": 42.091,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳು",
+      "type": "experiment_activity",
+      "script_words": 65,
+      "generated_at": "2026-04-02 16:36:23"
+    },
+    "010_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "d32c0d0f029e3833647ea5f2a2ecd961",
+      "wav_file": "010_experiment_cont_0_3.wav",
+      "duration": 52.011,
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "script_words": 62,
+      "generated_at": "2026-04-02 16:36:31"
+    },
+    "009_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "58a4497fb7c3cf5e5220c5f74823582d",
+      "wav_file": "009_experiment_cont_0_2.wav",
+      "duration": 44.251,
+      "slide_title": "ವಿಧಾನ: ತಾಪವನ್ನು ಅಳೆಯುವುದು",
+      "type": "experiment_activity",
+      "script_words": 59,
+      "generated_at": "2026-04-02 16:36:40"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "114e3b1151d4158515871efee07bd7f1",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 41.131,
+      "slide_title": "ತಾಪಮಾಪಕದ ರಚನೆ: ವಕ್ರತೆಯ ಪಾತ್ರ",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 16:36:55"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "dd3261e151e36ec2d078bdabdef22038",
+      "wav_file": "011_recap_0.wav",
+      "duration": 45.491,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-04-02 16:37:22"
+    }
+  }
+}

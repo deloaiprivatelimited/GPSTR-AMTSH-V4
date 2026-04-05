@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 2",
+  "script": "ಈಗ, ನಾವು ಕತ್ತರಿಸಿದ ಕಾಂಡದ ತುಂಡನ್ನು ಮಣ್ಣು ತುಂಬಿದ ಕುಂಡದಲ್ಲಿ ನೆಡೋಣ. ತುಂಡಿನ ಗಿಣ್ಣು ಇರುವ ಭಾಗವು ಮಣ್ಣಿನ ಕೆಳಗೆ ಇರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ನೆಟ್ಟ ನಂತರ, ಅದಕ್ಕೆ ಪ್ರತಿದಿನ ನಿಯಮಿತವಾಗಿ ನೀರು ಹಾಕಬೇಕು. ಮಣ್ಣು ಯಾವಾಗಲೂ ತೇವವಾಗಿರಬೇಕು, ಆದರೆ ಅತಿಯಾದ ನೀರು ಹಾಕಬಾರದು. ಸೂರ್ಯನ ಬೆಳಕು ನೇರವಾಗಿ ಬೀಳದ, ಪ್ರಕಾಶಮಾನವಾದ ಸ್ಥಳದಲ್ಲಿ ಕುಂಡವನ್ನು ಇಡುವುದು ಉತ್ತಮ. ಇದು ಹೊಸ ಬೇರುಗಳು ಬೆಳೆಯಲು ಅನುಕೂಲಕರ ವಾತಾವರಣವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ, ನಾವು ಕತ್ತರಿಸಿದ ಕಾಂಡದ ತುಂಡನ್ನು ಮಣ್ಣು ತುಂಬಿದ ಕುಂಡದಲ್ಲಿ ನೆಡೋಣ. ತುಂಡಿನ ಗಿಣ್ಣು ಇರುವ ಭಾಗವು ಮಣ್ಣಿನ ಕೆಳಗೆ ಇರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ನೆಟ್ಟ ನಂತರ, ಅದಕ್ಕೆ ಪ್ರತಿದಿನ ನಿಯಮಿತವಾಗಿ ನೀರು ಹಾಕಬೇಕು. ಮಣ್ಣು ಯಾವಾಗಲೂ ತೇವವಾಗಿರಬೇಕು. ಸೂರ್ಯನ ಬೆಳಕು ನೇರವಾಗಿ ಬೀಳದ, ಪ್ರಕಾಶಮಾನವಾದ ಸ್ಥಳದಲ್ಲಿ ಕುಂಡವನ್ನು ಇಡುವುದು ಉತ್ತಮ.",
+  "display_bullets": [
+    "ಕತ್ತರಿಸಿದ ಕಾಂಡದ ತುಂಡನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ನೆಡಿ.",
+    "ಪ್ರತಿದಿನ ನಿಯಮಿತವಾಗಿ ನೀರು ಹಾಕಿ.",
+    "ಮಣ್ಣನ್ನು ತೇವವಾಗಿಡಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_bullets",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the rose stem cutting being planted in a pot of soil. A hand is shown watering the pot.",
+    "labels": "ಕಾಂಡದ ತುಂಡು, ಮಣ್ಣು, ಕುಂಡ",
+    "scientific_significance": "Demonstrates the process of planting the stem cutting, which is a crucial step for initiating root growth.",
+    "placeholder_note": "Image to be generated."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_7_chapter_8_concept_2_chunk_024"
+}

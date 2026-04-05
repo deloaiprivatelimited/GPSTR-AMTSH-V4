@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಛೇದದ ಮೌಲ್ಯ ಮತ್ತು ಭಾಗದ ಗಾತ್ರ",
+  "script": "ಛೇದದ ಮೌಲ್ಯವು ಭಾಗದ ಗಾತ್ರದ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ. ಇಲ್ಲಿ ಹೋಲಿಕೆ ಮಾಡಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಒಂದು ರೋಟಿಯನ್ನು ಇಬ್ಬರಿಗೆ ಹಂಚಲಾಗಿದೆ. ಇಲ್ಲಿ ಛೇದ ಎರಡು. ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಅರ್ಧ ರೋಟಿ ಸಿಗುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿ, ಅದೇ ರೋಟಿಯನ್ನು ನಾಲ್ಕು ಜನರಿಗೆ ಹಂಚಲಾಗಿದೆ. ಇಲ್ಲಿ ಛೇದ ನಾಲ್ಕು. ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಕಾಲು ಭಾಗದಷ್ಟು ರೋಟಿ ಸಿಗುತ್ತದೆ. ಗಮನಿಸಿ, ಛೇದದ ಸಂಖ್ಯೆ ಹೆಚ್ಚಾದಂತೆ, ಅಂದರೆ ಎರಡರಿಂದ ನಾಲ್ಕಕ್ಕೆ, ಪ್ರತಿಯೊಂದು ಭಾಗದ ಗಾತ್ರವು ಚಿಕ್ಕದಾಗುತ್ತದೆ. ಅಂದರೆ, ಹೆಚ್ಚು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿದಾಗ, ಪ್ರತಿ ಭಾಗವು ಚಿಕ್ಕದಾಗುತ್ತದೆ. ಇದು ಒಂದು ಪ್ರಮುಖ ನಿಯಮ.",
+  "script_display": "ಛೇದದ ಮೌಲ್ಯವು ಭಾಗದ ಗಾತ್ರದ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ. ಇಲ್ಲಿ ಹೋಲಿಕೆ ಮಾಡಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಒಂದು ರೋಟಿಯನ್ನು ಇಬ್ಬರಿಗೆ ಹಂಚಲಾಗಿದೆ. ಇಲ್ಲಿ ಛೇದ = 2. ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಅರ್ಧ ($\frac{1}{2}$) ರೋಟಿ ಸಿಗುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿ, ಅದೇ ರೋಟಿಯನ್ನು ನಾಲ್ಕು ಜನರಿಗೆ ಹಂಚಲಾಗಿದೆ. ಇಲ್ಲಿ ಛೇದ = 4. ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಕಾಲು ಭಾಗದಷ್ಟು ($\frac{1}{4}$) ರೋಟಿ ಸಿಗುತ್ತದೆ. ಗಮನಿಸಿ, ಛೇದದ ಸಂಖ್ಯೆ ಹೆಚ್ಚಾದಂತೆ, ಅಂದರೆ 2 ರಿಂದ 4ಕ್ಕೆ, ಪ್ರತಿಯೊಂದು ಭಾಗದ ಗಾತ್ರವು ಚಿಕ್ಕದಾಗುತ್ತದೆ. ಅಂದರೆ, ಹೆಚ್ಚು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿದಾಗ, ಪ್ರತಿ ಭಾಗವು ಚಿಕ್ಕದಾಗುತ್ತದೆ. ಇದು ಒಂದು ಪ್ರಮುಖ ನಿಯಮ.",
+  "display_bullets": [
+    "ಎಡಕ್ಕೆ: ಛೇದ = 2. ಪ್ರತಿ ಭಾಗ ದೊಡ್ಡದಾಗಿದೆ ($\frac{1}{2}$).",
+    "ಬಲಕ್ಕೆ: ಛೇದ = 4. ಪ್ರತಿ ಭಾಗ ಚಿಕ್ಕದಾಗಿದೆ ($\frac{1}{4}$).",
+    "ಛೇದದ ಸಂಖ್ಯೆ ಹೆಚ್ಚಾದಂತೆ, ಪ್ರತಿ ಭಾಗದ ಗಾತ್ರವು ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side comparison. Left side: A circle divided into 2 halves, with one half shaded. Caption: 'ಛೇದ = 2'. Right side: A circle divided into 4 quarters, with one quarter shaded. Caption: 'ಛೇದ = 4'. The shaded half on the left is visibly larger than the shaded quarter on the right.",
+    "labels": "ಚಿತ್ರ 1: 2 ಭಾಗಗಳು, ಚಿತ್ರ 2: 4 ಭಾಗಗಳು",
+    "mathematical_significance": "Visually contrasts how a larger denominator results in smaller individual parts, illustrating the inverse relationship between the denominator's value and the part's size for unit fractions.",
+    "placeholder_note": "Image to be generated based on module context visual aid description."
+  },
+  "chunk_id": "NS-FRA-1_concept_1_chunk_011"
+}

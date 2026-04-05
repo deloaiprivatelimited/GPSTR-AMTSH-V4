@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾವಯವ ಗೊಬ್ಬರದ ವಿಧಗಳು - 2",
+  "script": "ಮತ್ತೊಂದು ಪ್ರಮುಖವಾದ ಸಾವಯವ ಗೊಬ್ಬರದ ವಿಧವೆಂದರೆ ಹಸಿರು ಗೊಬ್ಬರ. ಈ ವಿಧಾನದಲ್ಲಿ, ಸಣಬಿನಂತಹ ಕೆಲವು ಗಿಡಗಳನ್ನು ಹೊಲದಲ್ಲಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ. ಈ ಗಿಡಗಳು ಚೆನ್ನಾಗಿ ಬೆಳೆದ ನಂತರ, ಹೂವು ಬಿಡುವ ಮುನ್ನ, ಅವುಗಳನ್ನು ನೇಗಿಲಿನಿಂದ ಅದೇ ಹೊಲದಲ್ಲಿ ಉಳುಮೆ ಮಾಡಿ ಮಣ್ಣಿನೊಂದಿಗೆ ಬೆರೆಸಲಾಗುತ್ತದೆ. ಹೀಗೆ ಮಣ್ಣಿನಲ್ಲಿ ಸೇರಿದ ಸಸ್ಯ ಭಾಗಗಳು ಕೊಳೆತು, ಮಣ್ಣಿಗೆ ಪೋಷಕಾಂಶಗಳನ್ನು, ವಿಶೇಷವಾಗಿ ನೈಟ್ರೋಜನ್ ಮತ್ತು ಫಾಸ್ಪರಸ್ ಅನ್ನು ಒದಗಿಸುತ್ತವೆ. ಇದು ಮಣ್ಣಿನ ಫಲವತ್ತತೆಯನ್ನು ನೈಸರ್ಗಿಕವಾಗಿ ಹೆಚ್ಚಿಸುವ ಒಂದು ಅತ್ಯುತ್ತಮ ವಿಧಾನವಾಗಿದೆ.",
+  "script_display": "*   **ಹಸಿರು ಗೊಬ್ಬರ (Green Manure):**\n    *   ಸಣಬು (Sunn hemp) ಅಥವಾ ಗೌರ್ ನಂತಹ ಸಸ್ಯಗಳನ್ನು ಬೆಳೆಸಿ, ಅವುಗಳನ್ನು ಉಳುಮೆ ಮಾಡಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸುವುದು.\n    *   ಈ ಸಸ್ಯಗಳು ಕೊಳೆತು ಮಣ್ಣಿಗೆ ನೈಟ್ರೋಜನ್ ಮತ್ತು ಫಾಸ್ಪರಸ್‌ನಂತಹ ಪೋಷಕಾಂಶಗಳನ್ನು ಸೇರಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಹಸಿರು ಗೊಬ್ಬರ (Green Manure): ಸಸ್ಯಗಳನ್ನು ಬೆಳೆಸಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸುವುದು.",
+    "ಉದಾಹರಣೆ: ಸಣಬು (Sunn hemp).",
+    "ಮಣ್ಣಿಗೆ ನೈಟ್ರೋಜನ್ ಮತ್ತು ಫಾಸ್ಪರಸ್ ಅನ್ನು ಸೇರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_3",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-step diagram. Step 1 shows a field of green plants (like sunn hemp). Step 2 shows a tractor plowing these plants back into the soil.",
+    "labels": "1. ಹಸಿರು ಗೊಬ್ಬರದ ಬೆಳೆ, 2. ಮಣ್ಣಿಗೆ ಉಳುಮೆ",
+    "scientific_significance": "Illustrates the process of green manuring for soil enrichment.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_4_chunk_007"
+}

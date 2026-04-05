@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಉಳಿದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಮೊದಲು ಎಚ್ಚರಿಕೆಯಿಂದ ಓದೋಣ. ನಮಗೆ 12 ಮೀಟರ್ ಉದ್ದ ಮತ್ತು 10 ಮೀಟರ್ ಅಗಲವಿರುವ ಒಂದು ಆಯತಾಕಾರದ ಜಮೀನು ಇದೆ ಎಂದು ಕೊಡಲಾಗಿದೆ. ಈ ಜಮೀನಿನ ನಾಲ್ಕು ಮೂಲೆಗಳಲ್ಲಿ, ಪ್ರತಿ ಬಾಹುವಿನ ಉದ್ದ 4 ಮೀಟರ್ ಇರುವ ನಾಲ್ಕು ಚೌಕಾಕಾರದ ಹೂವಿನ ಹಾಸುಗಳಿವೆ. ನಾವು ಜಮೀನಿನ ಉಳಿದ ಭಾಗದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಅಂದರೆ, ಹೂವಿನ ಹಾಸುಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಉಳಿದ ಜಾಗದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಮೊದಲು ಎಚ್ಚರಿಕೆಯಿಂದ ಓದೋಣ. ನಮಗೆ 12 m ಉದ್ದ ಮತ್ತು 10 m ಅಗಲವಿರುವ ಒಂದು ಆಯತಾಕಾರದ ಜಮೀನು ಇದೆ ಎಂದು ಕೊಡಲಾಗಿದೆ. ಈ ಜಮೀನಿನ ನಾಲ್ಕು ಮೂಲೆಗಳಲ್ಲಿ, ಪ್ರತಿ ಬಾಹುವಿನ ಉದ್ದ 4 m ಇರುವ ನಾಲ್ಕು ಚೌಕಾಕಾರದ ಹೂವಿನ ಹಾಸುಗಳಿವೆ. ನಾವು ಜಮೀನಿನ ಉಳಿದ ಭಾಗದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಅಂದರೆ, ಹೂವಿನ ಹಾಸುಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಉಳಿದ ಜಾಗದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 12 m ಉದ್ದ ಮತ್ತು 10 m ಅಗಲವಿರುವ ಒಂದು ತುಂಡು ಜಮೀನಿನ ನಾಲ್ಕು ಮೂಲೆಗಳಲ್ಲಿ, ಪ್ರತಿ ಬದಿಯ (ಬಾಹುವಿನ) ಉದ್ದ 4 m ಇರುವ ನಾಲ್ಕು ಚೌಕಾಕಾರದ ಹೂವಿನ ಹಾಸುಗಳಿವೆ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಜಮೀನಿನ ಉಳಿದ ಭಾಗದ ವಿಸ್ತೀರ್ಣ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A large rectangle representing the plot of land. In each of the four corners, there is a smaller square representing a flower bed. The dimensions should be labeled: the rectangle's length as 12m and width as 10m, and the side of each square as 4m. The area to be found (the area of the rectangle minus the four squares) should be shaded or highlighted.",
+    "labels": "ಆಯತಾಕಾರದ ಜಮೀನು, ಚೌಕಾಕಾರದ ಹೂವಿನ ಹಾಸು, ಉದ್ದ = 12 m, ಅಗಲ = 10 m, ಬಾಹು = 4 m, ಉಳಿದ ಭಾಗ",
+    "mathematical_significance": "This visual helps students understand the geometry of the problem: a large area from which smaller areas are subtracted. It makes the concept of 'remaining area' tangible.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "MEN-AREA-1_example_8",
+  "chunk_id": "MEN-AREA-1_concept_2_chunk_023"
+}

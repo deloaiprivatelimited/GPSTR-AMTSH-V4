@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವೀಕ್ಷಣೆ: ನಾವು ಏನು ಗಮನಿಸಿದೆವು?",
+  "script": "ಅಯೋಡಿನ್ ದ್ರಾವಣವನ್ನು ಹಾಕಿದ ನಂತರ ನಾವು ಏನು ಗಮನಿಸುತ್ತೇವೆ? ಎಲೆಯ ಯಾವ ಭಾಗವು ಸೂರ್ಯನ ಬೆಳಕಿಗೆ ತೆರೆದುಕೊಂಡಿತ್ತೋ, ಆ ಭಾಗವು ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಆದರೆ, ಕಪ್ಪು ಕಾಗದದಿಂದ ಮುಚ್ಚಲ್ಪಟ್ಟಿದ್ದ, ಅಂದರೆ ಸೂರ್ಯನ ಬೆಳಕು ತಾಗದಿದ್ದ ಭಾಗದಲ್ಲಿ ಯಾವುದೇ ಬಣ್ಣದ ಬದಲಾವಣೆ ಆಗುವುದಿಲ್ಲ. ಅದು ಅಯೋಡಿನ್ ದ್ರಾವಣದ ಹಳದಿ-ಕಂದು ಬಣ್ಣದಲ್ಲಿಯೇ ಉಳಿಯುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು.",
+  "script_display": "ಅಯೋಡಿನ್ ದ್ರಾವಣವನ್ನು ಹಾಕಿದ ನಂತರ ನಾವು ಏನು ಗಮನಿಸುತ್ತೇವೆ? ಎಲೆಯ ಯಾವ ಭಾಗವು ಸೂರ್ಯನ ಬೆಳಕಿಗೆ ತೆರೆದುಕೊಂಡಿತ್ತೋ, ಆ ಭಾಗವು ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಆದರೆ, ಕಪ್ಪು ಕಾಗದದಿಂದ ಮುಚ್ಚಲ್ಪಟ್ಟಿದ್ದ, ಅಂದರೆ ಸೂರ್ಯನ ಬೆಳಕು ತಾಗದಿದ್ದ ಭಾಗದಲ್ಲಿ ಯಾವುದೇ ಬಣ್ಣದ ಬದಲಾವಣೆ ಆಗುವುದಿಲ್ಲ. ಅದು ಅಯೋಡಿನ್ ದ್ರಾವಣದ ಹಳದಿ-ಕಂದು ಬಣ್ಣದಲ್ಲಿಯೇ ಉಳಿಯುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು.",
+  "display_bullets": [
+    "ಬೆಳಕಿಗೆ ತೆರೆದಿದ್ದ ಭಾಗ: ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ (ಪಿಷ್ಟ ಇದೆ).",
+    "ಕಾಗದದಿಂದ ಮುಚ್ಚಿದ್ದ ಭಾಗ: ಬಣ್ಣ ಬದಲಾಗುವುದಿಲ್ಲ (ಪಿಷ್ಟ ಇಲ್ಲ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_split",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of the leaf after the iodine test. The parts of the leaf that were exposed to sunlight are colored dark blue-black. The central strip, which was covered by the black paper, remains a yellowish-brown color.",
+    "labels": "ನೀಲಿ-ಕಪ್ಪು ಭಾಗ (Blue-black area), ಬಣ್ಣ ಬದಲಾಗದ ಭಾಗ (Unchanged area)",
+    "scientific_significance": "Visually demonstrates the result of the experiment, showing the presence of starch (blue-black) only where sunlight was available and its absence where sunlight was blocked.",
+    "placeholder_note": "Image to be generated showing the leaf post-iodine test with distinct color differences."
+  },
+  "sub_type": "key_takeaway",
+  "chunk_id": "std_7_science_ch_1_concept_2_chunk_026"
+}

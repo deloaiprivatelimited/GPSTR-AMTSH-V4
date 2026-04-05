@@ -1,0 +1,81 @@
+{
+  "module_id": "std_10_chapter_10_concept_7",
+  "chapter_code": "std_10_chapter_10",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:17:12",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "89f3bd415a3c44ba1f0964119ce577d9",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 35.091,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 48,
+      "generated_at": "2026-04-02 11:16:04"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "50340bdf8891ffa7b8f5e38bf611dbd5",
+      "wav_file": "003_property_0.wav",
+      "duration": 39.371,
+      "slide_title": "ಕಾಮನಬಿಲ್ಲು: ಹಂತ 1 - ವಕ್ರೀಭವನ ಮತ್ತು ವರ್ಣವಿಭಜನೆ",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 11:16:07"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "270aaeaa4a5d2e2a3a8881db86d3237a",
+      "wav_file": "001_intro_0.wav",
+      "duration": 58.891,
+      "slide_title": "ಕಾಮನಬಿಲ್ಲು",
+      "type": "intro",
+      "script_words": 81,
+      "generated_at": "2026-04-02 11:16:21"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "fd32a91e8fb14a9104cbabb8338b1071",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 33.251,
+      "slide_title": "ಕಾಮನಬಿಲ್ಲು: ಹಂತ 2 - ಪೂರ್ಣ ಆಂತರಿಕ ಪ್ರತಿಫಲನ",
+      "type": "concept_explanation",
+      "script_words": 46,
+      "generated_at": "2026-04-02 11:16:26"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "38e965f1465c979172669d0cd71d0b51",
+      "wav_file": "006_recap_0.wav",
+      "duration": 35.331,
+      "slide_title": "ಸಾರಾಂಶ: ಕಾಮನಬಿಲ್ಲು",
+      "type": "recap",
+      "script_words": 50,
+      "generated_at": "2026-04-02 11:16:34"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "a9ad55e2a613f3c179c1dd70c29eb87d",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 47.571,
+      "slide_title": "ಕಾಮನಬಿಲ್ಲು: ಹಂತ 3 - ಪುನಃ ವಕ್ರೀಭವನ",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 11:17:12"
+    }
+  }
+}

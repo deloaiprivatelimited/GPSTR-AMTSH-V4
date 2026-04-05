@@ -1,0 +1,33 @@
+{
+  "type": "intro",
+  "slide_title": "ಒಂದೇ ತರ, ಆದರೂ ಬೇರೆ ಬೇರೆ!",
+  "script": "ಒಂದೇ ತಾಯಿ-ತಂದೆಯ ಮಕ್ಕಳು ಕೂಡಾ ಪೂರ್ತಿಯಾಗಿ ಒಂದೇ ರೀತಿ ಇರುವುದಿಲ್ಲ. ಯಾಕೆ ಗೊತ್ತಾ?",
+  "script_display": "ಒಂದೇ ತಾಯಿ-ತಂದೆಯ ಮಕ್ಕಳು ಕೂಡಾ ಪೂರ್ತಿಯಾಗಿ ಒಂದೇ ರೀತಿ ಇರುವುದಿಲ್ಲ. ಯಾಕೆ ಗೊತ್ತಾ?",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_a",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A visually striking collage of diverse human faces, or a split screen showing two siblings who look related but are clearly not identical. The tone should be curious and engaging.",
+    "labels": "siblings, family, diversity, resemblance, difference",
+    "scientific_significance": "This visual serves as a 'hook', posing a relatable, real-world question that the module will answer. It immediately connects the scientific concept of variation to the student's own experience.",
+    "placeholder_note": "Image to be generated. Focus on a relatable human element. This will be the background for the title text."
+  },
+  "sub_type": "hook",
+  "chunk_id": "std_10_chapter_8_concept_1_chunk_001"
+}

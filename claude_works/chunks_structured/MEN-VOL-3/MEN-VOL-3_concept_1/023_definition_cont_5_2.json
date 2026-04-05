@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈ ಸೂತ್ರವನ್ನು ದೃಶ್ಯದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಒಂದು ಶಂಕುವನ್ನು ಅದರ ಮೇಲ್ಮೈಯನ್ನು ಬಿಡಿಸಿ ತೋರಿಸಲಾಗಿದೆ. ನೀವು ನೋಡುವಂತೆ, ಶಂಕುವಿನ ಮೇಲ್ಮೈಯನ್ನು ಬಿಚ್ಚಿದಾಗ ನಮಗೆ ಎರಡು ಪ್ರತ್ಯೇಕ ಆಕಾರಗಳು ಸಿಗುತ್ತವೆ. ಒಂದು, ಅದರ ವಕ್ರ ಮೇಲ್ಮೈ, ಇದರ ವಿಸ್ತೀರ್ಣ ಪೈ ಆರ್ ಎಲ್. ಇನ್ನೊಂದು, ಅದರ ವೃತ್ತಾಕಾರದ ಪಾದ, ಇದರ ವಿಸ್ತೀರ್ಣ ಪೈ ಆರ್ ಸ್ಕ್ವೇರ್ಡ್. ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಎಂದರೆ ಬೇರೇನೂ ಅಲ್ಲ, ಈ ಎರಡೂ ಬಿಡಿ ಭಾಗಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಒಟ್ಟು ಮೊತ್ತ.",
+  "script_display": "ಈ ಸೂತ್ರವನ್ನು ದೃಶ್ಯದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಒಂದು ಶಂಕುವನ್ನು ಅದರ ಮೇಲ್ಮೈಯನ್ನು ಬಿಡಿಸಿ ತೋರಿಸಲಾಗಿದೆ. ನೀವು ನೋಡುವಂತೆ, ಶಂಕುವಿನ ಮೇಲ್ಮೈಯನ್ನು 'ಬಿಚ್ಚಿದಾಗ' ನಮಗೆ ಎರಡು ಪ್ರತ್ಯೇಕ ಆಕಾರಗಳು ಸಿಗುತ್ತವೆ: 1. ವಕ್ರ ಮೇಲ್ಮೈ, ಇದರ ವಿಸ್ತೀರ್ಣ $\\pi rl$. 2. ವೃತ್ತಾಕಾರದ ಪಾದ, ಇದರ ವಿಸ್ತೀರ್ಣ $\\pi r^2$. ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಎಂದರೆ ಬೇರೇನೂ ಅಲ್ಲ, ಈ ಎರಡೂ ಬಿಡಿ ಭಾಗಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಒಟ್ಟು ಮೊತ್ತ.",
+  "display_bullets": [
+    "ಶಂಕುವಿನ ಮೇಲ್ಮೈಯನ್ನು 'ಬಿಚ್ಚಿದಾಗ' ನಮಗೆ ಎರಡು ಭಾಗಗಳು ಸಿಗುತ್ತವೆ:",
+    "1. ವಕ್ರ ಮೇಲ್ಮೈ (ವಿಸ್ತೀರ್ಣ = $\\pi rl$)",
+    "2. ವೃತ್ತಾಕಾರದ ಪಾದ (ವಿಸ್ತೀರ್ಣ = $\\pi r^2$)",
+    "ಇವೆರಡರ ಮೊತ್ತವೇ ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (TSA)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cone is shown being 'unwrapped' or flattened. To its right, the two resulting shapes are shown: a circular sector (representing the curved surface) and a circle (representing the base). The sector is labeled with 'ವಿಸ್ತೀರ್ಣ = πrl'. The circle is labeled with 'ವಿಸ್ತೀರ್ಣ = πr²'.",
+    "labels": "Cone, Unwrapped Cone, Net of a Cone, Curved Surface (Sector), Circular Base, Area = πrl, Area = πr²",
+    "mathematical_significance": "Visually decomposes the Total Surface Area of a cone into its constituent parts: the Curved Surface Area and the Base Area, reinforcing the formula TSA = CSA + Base Area.",
+    "placeholder_note": "Image to be generated showing the net of a cone."
+  },
+  "chunk_id": "MEN-VOL-3_concept_1_chunk_023"
+}

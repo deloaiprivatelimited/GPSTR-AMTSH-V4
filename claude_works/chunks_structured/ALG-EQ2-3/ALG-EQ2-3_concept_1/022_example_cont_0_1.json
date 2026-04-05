@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ ಹಂತದ ಪರಿಹಾರ: ಭಾಗ 1",
+  "script": "ಮೊದಲನೇ ಸಮೀಕರಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ, ಎರಡು x plus ಮೂರು y equals ನಾಲ್ಕು ಪಾಯಿಂಟ್ ಮೂರು ಏಳು. ಇದನ್ನು ಪ್ರಮಾಣಿತ ರೂಪಕ್ಕೆ ತರಲು, ಬಲಭಾಗದಲ್ಲಿರುವ ನಾಲ್ಕು ಪಾಯಿಂಟ್ ಮೂರು ಏಳನ್ನು ಎಡಭಾಗಕ್ಕೆ ತರೋಣ. ಆಗ ಅದು ಎರಡು x plus ಮೂರು y minus ನಾಲ್ಕು ಪಾಯಿಂಟ್ ಮೂರು ಏಳು equals ಸೊನ್ನೆ ಆಗುತ್ತದೆ. ಇದನ್ನು a x plus b y plus c equals ಸೊನ್ನೆ ಜೊತೆ ಹೋಲಿಸಿದಾಗ, ನಮಗೆ a equals ಎರಡು, b equals ಮೂರು, ಮತ್ತು c equals ಮೈನಸ್ ನಾಲ್ಕು ಪಾಯಿಂಟ್ ಮೂರು ಏಳು ಸಿಗುತ್ತದೆ. ಈಗ ಎರಡನೇ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ, x minus ನಾಲ್ಕು equals ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಮೂರು y. ಇಲ್ಲಿ y ಪದವನ್ನು ಎಡಭಾಗಕ್ಕೆ ತಂದರೆ, ಅದು x minus ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಮೂರು y minus ನಾಲ್ಕು equals ಸೊನ್ನೆ ಆಗುತ್ತದೆ. ಇದನ್ನು ಪ್ರಮಾಣಿತ ರೂಪದೊಂದಿಗೆ ಹೋಲಿಸಿದಾಗ, a equals ಒಂದು, b equals ಮೈನಸ್ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಮೂರು, ಮತ್ತು c equals ಮೈನಸ್ ನಾಲ್ಕು.",
+  "script_display": "ಮೊದಲನೇ ಸಮೀಕರಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ, `$2x + 3y = 4.37$`. ಇದನ್ನು ಪ್ರಮಾಣಿತ ರೂಪಕ್ಕೆ ತರಲು, ಬಲಭಾಗದಲ್ಲಿರುವ `4.37` ಅನ್ನು ಎಡಭಾಗಕ್ಕೆ ತರೋಣ. ಆಗ ಅದು `$2x + 3y - 4.37 = 0$` ಆಗುತ್ತದೆ. ಇದನ್ನು `$ax + by + c = 0$` ಜೊತೆ ಹೋಲಿಸಿದಾಗ, ನಮಗೆ `$a = 2, b = 3$`, ಮತ್ತು `$c = -4.37$` ಸಿಗುತ್ತದೆ. ಈಗ ಎರಡನೇ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ, `$x - 4 = \\sqrt{3}y$`. ಇಲ್ಲಿ `$y$` ಪದವನ್ನು ಎಡಭಾಗಕ್ಕೆ ತಂದರೆ, ಅದು `$x - \\sqrt{3}y - 4 = 0$` ಆಗುತ್ತದೆ. ಇದನ್ನು ಪ್ರಮಾಣಿತ ರೂಪದೊಂದಿಗೆ ಹೋಲಿಸಿದಾಗ, `$a = 1, b = -\\sqrt{3}$`, ಮತ್ತು `$c = -4$`.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "basic",
+  "source_example_id": "ALG-EQ2-3_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "(i) `2x + 3y = 4.37`\n`\\implies 2x + 3y - 4.37 = 0`\n`a=2, b=3, c=-4.37`",
+      "justification": "`ax + by + c = 0` ರೂಪಕ್ಕೆ ತರಲು, ಬಲಭಾಗದಲ್ಲಿರುವ ಪದವನ್ನು ಎಡಭಾಗಕ್ಕೆ ಸ್ಥಳಾಂತರಿಸಬೇಕು."
+    },
+    {
+      "step": 2,
+      "action_display": "(ii) `x - 4 = \\sqrt{3}y`\n`\\implies x - \\sqrt{3}y - 4 = 0`\n`a=1, b=-\\sqrt{3}, c=-4`",
+      "justification": "`y` ಪದವನ್ನು ಎಡಭಾಗಕ್ಕೆ ತಂದು ಪ್ರಮಾಣಿತ ರೂಪದಲ್ಲಿ ಬರೆಯುವುದು."
+    }
+  ],
+  "chunk_id": "ALG-EQ2-3_concept_1_chunk_022"
+}

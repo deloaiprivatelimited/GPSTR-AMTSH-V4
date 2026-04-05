@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 6: ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 6.22 ರಲ್ಲಿ, ಎಬಿ ಸಮಾಂತರ ಸಿಡಿ ಮತ್ತು ಸಿಡಿ ಸಮಾಂತರ ಇಎಫ್ ಹಾಗೂ ಇಎ ಲಂಬ ಎಬಿ ಆಗಿದೆ. ಕೋನ ಬಿಇಎಫ್ ಐವತ್ತೈದು ಡಿಗ್ರಿ ಆದರೆ, ಎಕ್ಸ್, ವೈ ಮತ್ತು ಝೆಡ್ ಕೋನಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ನೋಡೋಣ. ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶಗಳು: ಎಬಿ ರೇಖೆಯು ಸಿಡಿ ರೇಖೆಗೆ ಸಮಾಂತರವಾಗಿದೆ, ಸಿಡಿ ರೇಖೆಯು ಇಎಫ್ ರೇಖೆಗೆ ಸಮಾಂತರವಾಗಿದೆ, ಇಎ ರೇಖೆಯು ಎಬಿ ರೇಖೆಗೆ ಲಂಬವಾಗಿದೆ, ಮತ್ತು ಕೋನ ಬಿಇಎಫ್ ಐವತ್ತೈದು ಡಿಗ್ರಿ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು ಎಕ್ಸ್, ವೈ ಮತ್ತು ಝೆಡ್ ಕೋನಗಳ ಬೆಲೆಗಳು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 6.22 ರಲ್ಲಿ, $AB \\parallel CD$ ಮತ್ತು $CD \\parallel EF$ ಹಾಗೂ $EA \\perp AB$ ಆಗಿದೆ. $\\angle BEF = 55°$ ಆದರೆ x, y ಮತ್ತು z ಕೋನಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ನೋಡೋಣ. ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶಗಳು: $AB \\parallel CD$, $CD \\parallel EF$, $EA \\perp AB$, ಮತ್ತು $\\angle BEF = 55°$. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು x, y ಮತ್ತು z ಕೋನಗಳ ಬೆಲೆಗಳು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ (Given): $AB \\parallel CD$, $CD \\parallel EF$, $EA \\perp AB$, $\\angle BEF = 55°$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To Find): x, y ಮತ್ತು z ಗಳ ಬೆಲೆಗಳು"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing three parallel lines AB, CD, and EF. A transversal line intersects them. Another line EA is perpendicular to AB. Angles x, y, z, and 55 degrees are marked as per the problem.",
+    "labels": "ಚಿತ್ರ 6.22",
+    "mathematical_significance": "Illustrates the problem setup for finding unknown angles using properties of parallel lines and transversals.",
+    "placeholder_note": "Image to be generated based on NCERT Class 9 Maths, Chapter 6, Example 6, Figure 6.22."
+  },
+  "source_example_id": "GEO-LA-2_example_6",
+  "prerequisites_display": [
+    "ಸಮಾಂತರ ರೇಖೆಗಳು ಮತ್ತು ಛೇದಕ",
+    "ಅನುರೂಪ ಕೋನಗಳು",
+    "ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು",
+    "ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದ ಅಂತರ್ ಕೋನಗಳು"
+  ],
+  "chunk_id": "GEO-LA-2_concept_3_chunk_041"
+}

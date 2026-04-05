@@ -1,0 +1,114 @@
+{
+  "module_id": "std_8_chapter_3_concept_1",
+  "chapter_code": "std_8_chapter_3",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:43:17",
+  "chunks": {
+    "002_definition_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "8decd0bfc7305e311d330f805625e85d",
+      "wav_file": "002_definition_0.wav",
+      "duration": 40.131,
+      "slide_title": "ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳು: ವ್ಯಾಖ್ಯಾನ",
+      "type": "definition",
+      "script_words": 49,
+      "generated_at": "2026-04-02 16:41:40"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "548aefff4a4932d5bba46c3601eadcef",
+      "wav_file": "001_intro_0.wav",
+      "duration": 49.091,
+      "slide_title": "ಪರಿಚಯ: ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳು",
+      "type": "intro",
+      "script_words": 69,
+      "generated_at": "2026-04-02 16:41:49"
+    },
+    "004_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "ed67e3e279252eff7626ae8ee418d337",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "duration": 44.971,
+      "slide_title": "ನೈಸರ್ಗಿಕ vs. ಮಾನವ ನಿರ್ಮಿತ",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 16:42:18"
+    },
+    "005_classification_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "5d38158a1b19ef47909b725dd2432609",
+      "wav_file": "005_classification_0.wav",
+      "duration": 49.251,
+      "slide_title": "ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 16:42:27"
+    },
+    "003_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "7123916f8892bb89f6d26c8b721fafd8",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "duration": 51.411,
+      "slide_title": "ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳ ಉದಾಹರಣೆಗಳು",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 16:42:27"
+    },
+    "007_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "7a278b5f9aeeb2b91fe98d970fd36098",
+      "wav_file": "007_classification_cont_0_2.wav",
+      "duration": 43.651,
+      "slide_title": "ಬರಿದಾಗುವ ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 16:42:40"
+    },
+    "006_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "15eb6c5a4fa5b3d005322b59a2401683",
+      "wav_file": "006_classification_cont_0_1.wav",
+      "duration": 41.771,
+      "slide_title": "ಬರಿದಾಗದ ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 16:42:43"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "8cfef7282bd2e015b5824b2935d42a6b",
+      "wav_file": "009_recap_0.wav",
+      "duration": 35.451,
+      "slide_title": "ಸಾರಾಂಶ: ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳು",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 16:43:08"
+    },
+    "008_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "6db57f548f0e1bf398ad62a5da82f504",
+      "wav_file": "008_classification_cont_0_3.wav",
+      "duration": 55.171,
+      "slide_title": "ಬರಿದಾಗುವ ಸಂಪನ್ಮೂಲಗಳು: ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-04-02 16:43:17"
+    }
+  }
+}

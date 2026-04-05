@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ನಕ್ಷೆಯಿಂದ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಕೊನೆಯ ಹಂತ. ನಕ್ಷೆಯಿಂದ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಾವು 12 ಲೀಟರ್ ಪೆಟ್ರೋಲ್‌ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಎಕ್ಸ್-ಅಕ್ಷದ ಮೇಲೆ 12 ಅನ್ನು ಗುರುತಿಸಿ. ಆ ಬಿಂದುವಿನಿಂದ, ಲಂಬವಾಗಿ ಮೇಲಕ್ಕೆ ರೇಖೆಯನ್ನು ಸಂಧಿಸುವವರೆಗೆ ಒಂದು ಗೆರೆ ಎಳೆಯಿರಿ. ರೇಖೆಯನ್ನು ಸಂಧಿಸಿದ ಬಿಂದುವಿನಿಂದ, ಸಮತಲವಾಗಿ ವೈ-ಅಕ್ಷದ ಕಡೆಗೆ ಇನ್ನೊಂದು ಗೆರೆ ಎಳೆಯಿರಿ. ವೈ-ಅಕ್ಷದ ಮೇಲೆ ಆ ರೇಖೆ ಸಂಧಿಸುವ ಮೌಲ್ಯವನ್ನು ಓದಿ. ಅದು 600 ಆಗಿದೆ. ಆದ್ದರಿಂದ, 12 ಲೀಟರ್ ಪೆಟ್ರೋಲ್‌ನ ಬೆಲೆ 600 ರೂಪಾಯಿಗಳು.",
+  "script_display": "ಈಗ ಕೊನೆಯ ಹಂತ. ನಕ್ಷೆಯಿಂದ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ (Interpolation). ನಾವು $12$ ಲೀಟರ್ ಪೆಟ್ರೋಲ್‌ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. x-ಅಕ್ಷದ ಮೇಲೆ $12$ ಅನ್ನು ಗುರುತಿಸಿ. ಆ ಬಿಂದುವಿನಿಂದ, ಲಂಬವಾಗಿ ಮೇಲಕ್ಕೆ ರೇಖೆಯನ್ನು ಸಂಧಿಸುವವರೆಗೆ ಒಂದು ಗೆರೆ ಎಳೆಯಿರಿ. ರೇಖೆಯನ್ನು ಸಂಧಿಸಿದ ಬಿಂದುವಿನಿಂದ, ಸಮತಲವಾಗಿ y-ಅಕ್ಷದ ಕಡೆಗೆ ಇನ್ನೊಂದು ಗೆರೆ ಎಳೆಯಿರಿ. y-ಅಕ್ಷದ ಮೇಲೆ ಆ ರೇಖೆ ಸಂಧಿಸುವ ಮೌಲ್ಯವನ್ನು ಓದಿ. ಅದು $600$ ಆಗಿದೆ. ಆದ್ದರಿಂದ, $12$ ಲೀಟರ್ ಪೆಟ್ರೋಲ್‌ನ ಬೆಲೆ $₹600$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same graph as the previous slide. Additionally, there are dotted lines to show interpolation. A vertical dotted line goes up from x=12 to the graph line. From that intersection point, a horizontal dotted line goes across to the y-axis, hitting it at y=600.",
+    "labels": "x=12, y=600, interpolation lines",
+    "mathematical_significance": "This visual demonstrates how to use a linear graph to interpolate values that are not explicitly in the data table. It shows the graphical method of finding the y-value for a given x-value.",
+    "placeholder_note": "Image to be generated"
+  },
+  "source_example_id": "DATA-GRAPH-2_example_3",
+  "steps": [
+    {
+      "step": 5,
+      "action_display": "ನಕ್ಷೆಯಿಂದ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು:\n1.  x-ಅಕ್ಷದ ಮೇಲೆ $12$ ಅನ್ನು ಗುರುತಿಸಿ.\n2.  ಲಂಬವಾಗಿ ಮೇಲಕ್ಕೆ ರೇಖೆಯನ್ನು ಸಂಧಿಸುವವರೆಗೆ ಎಳೆಯಿರಿ.\n3.  ಸಂಧಿಸಿದ ಬಿಂದುವಿನಿಂದ, ಸಮತಲವಾಗಿ y-ಅಕ್ಷವನ್ನು ಸಂಧಿಸುವವರೆಗೆ ಎಳೆಯಿರಿ.\n4.  y-ಅಕ್ಷದ ಮೇಲಿನ ಮೌಲ್ಯವನ್ನು ಓದಿ: $₹600$.",
+      "justification": "ರಚಿಸಿದ ನಕ್ಷೆಯನ್ನು ಬಳಸಿ ಕೋಷ್ಟಕದಲ್ಲಿ ಇಲ್ಲದ ಮೌಲ್ಯವನ್ನು ಅಂದಾಜಿಸುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "DATA-GRAPH-2_concept_2_chunk_024"
+}

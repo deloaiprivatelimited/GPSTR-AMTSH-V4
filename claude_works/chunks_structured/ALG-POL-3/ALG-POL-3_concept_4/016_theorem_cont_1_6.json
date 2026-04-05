@@ -1,0 +1,32 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಪರಿಹಾರ",
+  "script": "ಈಗ k ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ p(1) equals 0 ಎಂದು ತಿಳಿದಿದೆ. p(x) ನಲ್ಲಿ x ನ ಜಾಗದಲ್ಲಿ 1 ಅನ್ನು ಆದೇಶಿಸೋಣ. ಆಗ, 4 times 1 cubed, plus 3 times 1 squared, minus 4 times 1, plus k, equals 0. ಇದನ್ನು ಸುಲಭೀಕರಿಸೋಣ. 1 cubed ಎಂದರೆ 1, 4 times 1 is 4. 1 squared ಎಂದರೆ 1, 3 times 1 is 3. 4 times 1 is 4. ಹಾಗಾಗಿ, ಸಮೀಕರಣವು 4 plus 3 minus 4 plus k equals 0 ಎಂದಾಗುತ್ತದೆ. ಇಲ್ಲಿ 4 ಮತ್ತು minus 4 ಕ್ಯಾನ್ಸಲ್ ಆಗುತ್ತವೆ. ಉಳಿದಿರುವುದು 3 plus k equals 0. k ಯ ಬೆಲೆಯನ್ನು ಪಡೆಯಲು, 3 ಅನ್ನು ಸಮೀಕರಣದ ಇನ್ನೊಂದು ಬದಿಗೆ ತೆಗೆದುಕೊಂಡು ಹೋದರೆ, k equals minus 3 ಎಂದು ಸಿಗುತ್ತದೆ. ಹೀಗೆ, ಅಪವರ್ತನ ಪ್ರಮೇಯವನ್ನು ಬಳಸಿ ನಾವು ಅಜ್ಞಾತ ಸಹಗುಣಕದ ಬೆಲೆಯನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "script_display": "ಈಗ $k$ ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.\n\n*   **ಹಂತ 1: $p(1)=0$ ಎಂದು ಸಮೀಕರಿಸಿ**\n    $p(1) = 4(1)^3 + 3(1)^2 - 4(1) + k = 0$\n\n*   **ಹಂತ 2: ಲೆಕ್ಕಾಚಾರ**\n    $4(1) + 3(1) - 4 + k = 0$\n    $4 + 3 - 4 + k = 0$\n\n*   **ಹಂತ 3: $k$ ಗಾಗಿ ಬಿಡಿಸಿ**\n    $(4 - 4) + 3 + k = 0$\n    $3 + k = 0$\n    $k = -3$\n\n*   **ತೀರ್ಮಾನ:**\n    $k$ ಯ ಬೆಲೆ $-3$ ಆಗಿದೆ.",
+  "display_bullets": [
+    "$p(1) = 0$ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ.",
+    "$4(1)^3 + 3(1)^2 - 4(1) + k = 0$",
+    "$4 + 3 - 4 + k = 0$",
+    "$3 + k = 0$, ಆದ್ದರಿಂದ $k = -3$."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "modern_dark",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "ALG-POL-3_concept_4_chunk_016"
+}

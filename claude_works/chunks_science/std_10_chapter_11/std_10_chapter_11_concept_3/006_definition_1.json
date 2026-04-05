@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ರೋಧದ ಏಕಮಾನ: ಓಮ್",
+  "script": "ಓಮ್ ನ ನಿಯಮದಿಂದ ನಮಗೆ ರೋಧದ ಸೂತ್ರ ಆರ್ ಈಕ್ವಲ್ಸ್ ವಿ ಬೈ ಐ ಸಿಕ್ಕಿದೆ. ಹಾಗಾದರೆ, ಈ ರೋಧವನ್ನು ಅಳೆಯುವ ಏಕಮಾನ ಯಾವುದು? ರೋಧದ ಎಸ್ಐ ಏಕಮಾನ ಓಮ್, ಮತ್ತು ಇದನ್ನು ಗ್ರೀಕ್ ಅಕ್ಷರ ಒಮೆಗಾ ದಿಂದ ಸೂಚಿಸಲಾಗುತ್ತದೆ. ಈಗ, ಒಂದು ಓಮ್ ಅಂದರೆ ಏನು ಅಂತ ವ್ಯಾಖ್ಯಾನಿಸೋಣ. ಒಂದು ವಾಹಕದ ತುದಿಗಳ ನಡುವೆ ಒಂದು ವೋಲ್ಟ್ ವಿಭವಾಂತರವನ್ನು ನೀಡಿದಾಗ, ಆ ವಾಹಕದ ಮೂಲಕ ಒಂದು ಆಂಪಿಯರ್ ವಿದ್ಯುತ್ ಪ್ರವಹಿಸಿದರೆ, ಆಗ ಆ ವಾಹಕದ ರೋಧವನ್ನು ಒಂದು ಓಮ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದನ್ನೇ ಸೂತ್ರದ ರೂಪದಲ್ಲಿ ಒಂದು ಓಮ್ ಸಮ ಒಂದು ವೋಲ್ಟ್ ಭಾಗಿಸು ಒಂದು ಆಂಪಿಯರ್ ಎಂದು ಬರೆಯಬಹುದು.",
+  "script_display": "ಓಮ್‌ನ ನಿಯಮದಿಂದ ನಮಗೆ ರೋಧದ ಸೂತ್ರ R = V/I ಸಿಕ್ಕಿದೆ. ಹಾಗಾದರೆ, ಈ ರೋಧವನ್ನು ಅಳೆಯುವ ಏಕಮಾನ ಯಾವುದು? ರೋಧದ SI ಏಕಮಾನ **ಓಮ್ (Ohm)**, ಮತ್ತು ಇದನ್ನು ಗ್ರೀಕ್ ಅಕ್ಷರ **Ω** ದಿಂದ ಸೂಚಿಸಲಾಗುತ್ತದೆ. ಈಗ, 1 ಓಮ್ ಅನ್ನು ವ್ಯಾಖ್ಯಾನಿಸೋಣ.\n\n**ವ್ಯಾಖ್ಯಾನ:**",
+  "display_bullets": [
+    "ಒಂದು ವಾಹಕದ ತುದಿಗಳ ನಡುವೆ 1 ವೋಲ್ಟ್ (V) ವಿಭವಾಂತರವನ್ನು ಅನ್ವಯಿಸಿದಾಗ,",
+    "ಅದರ ಮೂಲಕ 1 ಆಂಪಿಯರ್ (A) ವಿದ್ಯುತ್ ಪ್ರವಹಿಸಿದರೆ,",
+    "ಆ ವಾಹಕದ ರೋಧವನ್ನು 1 ಓಮ್ (Ω) ಎನ್ನಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "physics_template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "1~\\Omega = \\frac{1~V}{1~A}",
+    "placeholder_note": "Formula showing the relationship between Ohm, Volt, and Ampere."
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_10_chapter_11_concept_3_chunk_006"
+}

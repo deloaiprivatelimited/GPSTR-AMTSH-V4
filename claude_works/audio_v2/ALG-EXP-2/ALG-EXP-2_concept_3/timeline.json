@@ -1,0 +1,166 @@
+{
+  "module_id": "ALG-EXP-2_concept_3",
+  "voice": "Schedar",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 14,
+  "total_duration": 645.074,
+  "total_duration_formatted": "10:45",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಏಕಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 40.411,
+      "duration": 40.411,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವ-ಅವಶ್ಯಕತೆಗಳು",
+      "type": "intro",
+      "start": 41.011,
+      "end": 81.822,
+      "duration": 40.811,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಏಕಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರದ ನಿಯಮ",
+      "type": "concept_explanation",
+      "start": 82.422,
+      "end": 129.433,
+      "duration": 47.011,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಘಾತಾಂಕಗಳ ನಿಯಮ",
+      "type": "concept_explanation",
+      "start": 130.033,
+      "end": 190.924,
+      "duration": 60.891,
+      "script_words": 109
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_005",
+      "chunk_file": "005_example_0.json",
+      "wav_file": "005_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಆಯತದ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "start": 191.524,
+      "end": 219.095,
+      "duration": 27.571,
+      "script_words": 37
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_006",
+      "chunk_file": "006_example_cont_0_1.json",
+      "wav_file": "006_example_cont_0_1.wav",
+      "slide_title": "ಮೊದಲ ಎರಡು ಜೋಡಿಗಳ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "start": 219.695,
+      "end": 285.426,
+      "duration": 65.731,
+      "script_words": 92
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_007",
+      "chunk_file": "007_example_cont_0_2.json",
+      "wav_file": "007_example_cont_0_2.wav",
+      "slide_title": "ಕೊನೆಯ ಎರಡು ಜೋಡಿಗಳ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "start": 286.026,
+      "end": 354.557,
+      "duration": 68.531,
+      "script_words": 112
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_008",
+      "chunk_file": "008_example_cont_0_3.json",
+      "wav_file": "008_example_cont_0_3.wav",
+      "slide_title": "ಪೂರ್ಣಗೊಂಡ ಕೋಷ್ಟಕ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "start": 355.157,
+      "end": 391.568,
+      "duration": 36.411,
+      "script_words": 43
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_009",
+      "chunk_file": "009_example_1.json",
+      "wav_file": "009_example_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಆಯತಾಕಾರದ ಪೆಟ್ಟಿಗೆಯ ಗಾತ್ರ",
+      "type": "worked_example",
+      "start": 392.168,
+      "end": 417.019,
+      "duration": 24.851,
+      "script_words": 34
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_010",
+      "chunk_file": "010_example_cont_1_1.json",
+      "wav_file": "010_example_cont_1_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಮೊದಲ ಪೆಟ್ಟಿಗೆ (i)",
+      "type": "worked_example",
+      "start": 417.619,
+      "end": 465.03,
+      "duration": 47.411,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_011",
+      "chunk_file": "011_example_cont_1_2.json",
+      "wav_file": "011_example_cont_1_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಎರಡನೇ ಪೆಟ್ಟಿಗೆ (ii)",
+      "type": "worked_example",
+      "start": 465.63,
+      "end": 510.121,
+      "duration": 44.491,
+      "script_words": 92
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_012",
+      "chunk_file": "012_example_cont_1_3.json",
+      "wav_file": "012_example_cont_1_3.wav",
+      "slide_title": "ಪರಿಹಾರ: ಮೂರನೇ ಪೆಟ್ಟಿಗೆ (iii)",
+      "type": "worked_example",
+      "start": 510.721,
+      "end": 561.692,
+      "duration": 50.971,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_013",
+      "chunk_file": "013_example_cont_1_4.json",
+      "wav_file": "013_example_cont_1_4.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 562.292,
+      "end": 605.943,
+      "duration": 43.651,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_3_chunk_014",
+      "chunk_file": "014_recap_0.json",
+      "wav_file": "014_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಏಕಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರ",
+      "type": "recap",
+      "start": 606.543,
+      "end": 644.474,
+      "duration": 37.931,
+      "script_words": 58
+    }
+  ]
+}

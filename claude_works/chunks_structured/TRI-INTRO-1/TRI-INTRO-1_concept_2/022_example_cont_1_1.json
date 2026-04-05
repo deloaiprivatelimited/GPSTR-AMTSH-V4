@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತವನ್ನು ಬಳಸಿ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಕೋನ R ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ ಕೋನ R ಗೆ ಅಭಿಮುಖ ಬಾಹು PQ ಮತ್ತು ವಿಕರ್ಣ PR ತಿಳಿದಿದೆ. ಅಭಿಮುಖ ಬಾಹು ಮತ್ತು ವಿಕರ್ಣವನ್ನು ಬಳಸುವ ಅನುಪಾತ ಸೈನ್ ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಸೈನ್ R ಸಮ PQ ಭಾಗಿಸು PR. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, ನಮಗೆ ಮೂರನೇ ಆರಾಂಶ ಸಿಗುತ್ತದೆ, ಅದು ಒಂದನೇ ಎರಡಾಂಶಕ್ಕೆ ಸರಳೀಕರಿಸಲ್ಪಡುತ್ತದೆ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಸೈನ್ ಮೂವತ್ತು ಡಿಗ್ರಿ ಒಂದನೇ ಎರಡಾಂಶಕ್ಕೆ ಸಮ. ಆದ್ದರಿಂದ, ಕೋನ R ಮೂವತ್ತು ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, ಕೋನ PRQ ಮೂವತ್ತು ಡಿಗ್ರಿ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು $\\angle R$ ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ $\\angle R$ ಗೆ ಅಭಿಮುಖ ಬಾಹು $PQ$ ಮತ್ತು ವಿಕರ್ಣ $PR$ ತಿಳಿದಿದೆ. ಅಭಿಮುಖ ಬಾಹು ಮತ್ತು ವಿಕರ್ಣವನ್ನು ಬಳಸುವ ಅನುಪಾತ `sin` ಆಗಿದೆ. ಆದ್ದರಿಂದ, $\\sin R = \\frac{PQ}{PR}$. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, ನಮಗೆ $\\frac{3}{6}$ ಸಿಗುತ್ತದೆ, ಅದು $\\frac{1}{2}$ ಕ್ಕೆ ಸರಳೀಕರಿಸಲ್ಪಡುತ್ತದೆ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, $\\sin 30^\\circ = \\frac{1}{2}$. ಆದ್ದರಿಂದ, $\\angle R = 30^\\circ$ ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, $\\angle PRQ = 30^\\circ$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-INTRO-1_example_7",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\sin R = \\frac{\\text{ಅಭಿಮುಖ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}} = \\frac{PQ}{PR} = \\frac{3}{6} = \\frac{1}{2}$",
+      "justification": "$\\angle R$ ಗೆ, PQ ಅಭಿಮುಖ ಬಾಹು ಮತ್ತು PR ವಿಕರ್ಣ. ಆದ್ದರಿಂದ `sin` ಅನುಪಾತವನ್ನು ಬಳಸುತ್ತೇವೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\sin R = \\frac{1}{2}$ ಆದ್ದರಿಂದ, $\\angle R = 30^\\circ$. ಅಂದರೆ, $\\angle PRQ = 30^\\circ$.",
+      "justification": "$\\sin 30^\\circ = \\frac{1}{2}$ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ."
+    }
+  ],
+  "chunk_id": "TRI-INTRO-1_concept_2_chunk_022"
+}

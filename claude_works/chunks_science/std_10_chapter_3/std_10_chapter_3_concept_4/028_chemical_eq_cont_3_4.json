@@ -1,0 +1,30 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಮುಖ ತೀರ್ಮಾನ",
+  "script": "ಇದರಿಂದ ನಾವು ಒಂದು ಸಾಮಾನ್ಯ ನಿಯಮವನ್ನು ರೂಪಿಸಬಹುದು: ಲೋಹದ ಆಕ್ಸೈಡ್ ನೀರಿನೊಂದಿಗೆ ಸೇರಿದಾಗ ಕ್ಷಾರ ಉಂಟಾಗುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ, ಹೆಚ್ಚಿನ ಲೋಹದ ಆಕ್ಸೈಡ್‌ಗಳು ಪ್ರತ್ಯಾಮ್ಲೀಯ ಸ್ವಭಾವವನ್ನು ಹೊಂದಿವೆ ಎಂದು ನಾವು ಹೇಳುತ್ತೇವೆ. ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "script_display": "ಇದರಿಂದ ನಾವು ಒಂದು ಸಾಮಾನ್ಯ ನಿಯಮವನ್ನು ರೂಪಿಸಬಹುದು:",
+  "display_bullets": [
+    "ಸಾಮಾನ್ಯ ನಿಯಮ: ಲೋಹದ ಆಕ್ಸೈಡ್ + ನೀರು → ಕ್ಷಾರ (Alkali)",
+    "ತೀರ್ಮಾನ: ಹೆಚ್ಚಿನ ಲೋಹದ ಆಕ್ಸೈಡ್‌ಗಳು 'ಪ್ರತ್ಯಾಮ್ಲೀಯ ಆಕ್ಸೈಡ್‌ಗಳು' (Basic Oxides) ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_028"
+}

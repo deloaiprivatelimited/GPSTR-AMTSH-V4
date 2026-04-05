@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಗಳು: ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: ಒಂದು ಸಂಖ್ಯೆ 12 ಇರುವ ಪೈಥಾಗೋರಸ್‌ನ ತ್ರಿವಳಿಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ನಮಗೆ ತ್ರಿವಳಿಯ ಒಂದು ಸದಸ್ಯ 12 ಎಂದು ಕೊಡಲಾಗಿದೆ. ನಾವು ಉಳಿದ ಎರಡು ಸದಸ್ಯರನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಯ ಸಾಮಾನ್ಯ ರೂಪವಾದ 2m, m ಸ್ಕ್ವೇರ್ ಮೈನಸ್ 1, ಮತ್ತು m ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ 1 ಅನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: ಒಂದು ಸಂಖ್ಯೆ 12 ಇರುವ ಪೈಥಾಗೋರಸ್‌ನ ತ್ರಿವಳಿಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ನಮಗೆ ತ್ರಿವಳಿಯ ಒಂದು ಸದಸ್ಯ 12 ಎಂದು ಕೊಡಲಾಗಿದೆ. ನಾವು ಉಳಿದ ಎರಡು ಸದಸ್ಯರನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಯ ಸಾಮಾನ್ಯ ರೂಪವಾದ $2m$, $m^2-1$, ಮತ್ತು $m^2+1$ ಅನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಒಂದು ಸಂಖ್ಯೆ 12 ಇರುವ ಪೈಥಾಗೋರಸ್‌ನ ತ್ರಿವಳಿಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ದತ್ತಾಂಶ: ತ್ರಿವಳಿಯ ಒಂದು ಸದಸ್ಯ 12 ಆಗಿದೆ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ತ್ರಿವಳಿಯ ಉಳಿದ ಎರಡು ಸದಸ್ಯರು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "(2m, m^2-1, m^2+1)",
+    "placeholder_note": "A box showing the general form of a Pythagorean triplet."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SQR-2_example_13",
+  "chunk_id": "NS-SQR-2_concept_5_chunk_021"
+}

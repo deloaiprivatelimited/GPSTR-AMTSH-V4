@@ -1,0 +1,101 @@
+{
+  "module_id": "std_6_chapter_9_concept_5",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 353.488,
+  "total_duration_formatted": "5:53",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_9_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಜರಡಿ ಹಿಡಿಯುವಿಕೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 45.571,
+      "duration": 45.571,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "start": 46.171,
+      "end": 70.342,
+      "duration": 24.171,
+      "script_words": 31
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_5_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಜರಡಿ ಹಿಡಿಯುವಿಕೆ",
+      "type": "definition",
+      "start": 70.942,
+      "end": 117.073,
+      "duration": 46.131,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_5_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಹಿಟ್ಟನ್ನು ಜರಡಿ ಹಿಡಿಯುವುದು",
+      "type": "definition",
+      "start": 117.673,
+      "end": 164.204,
+      "duration": 46.531,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_5_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ನಿರ್ಮಾಣ ಸ್ಥಳದಲ್ಲಿ",
+      "type": "definition",
+      "start": 164.804,
+      "end": 205.415,
+      "duration": 40.611,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_5_chunk_006",
+      "chunk_file": "006_definition_cont_0_3.json",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "slide_title": "ಮೂಲ ತತ್ವ",
+      "type": "definition",
+      "start": 206.015,
+      "end": 253.666,
+      "duration": 47.651,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_5_chunk_007",
+      "chunk_file": "007_property_0.json",
+      "wav_file": "007_property_0.wav",
+      "slide_title": "ಜರಡಿ ಹಿಡಿಯುವಿಕೆಯ ತತ್ವ",
+      "type": "concept_explanation",
+      "start": 254.266,
+      "end": 308.677,
+      "duration": 54.411,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_5_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 309.277,
+      "end": 352.888,
+      "duration": 43.611,
+      "script_words": 56
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ನಾವು ಪಡೆದ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಮೂರು a ಪ್ಲಸ್ ನಾಲ್ಕು b ಹೋಲ್ ಕ್ಯೂಬ್ಡ್ ನ ವಿಸ್ತೃತ ರೂಪ ಇಪ್ಪತ್ತೇಳು a ಕ್ಯೂಬ್ಡ್ ಪ್ಲಸ್ ನೂರಾ ಎಂಟು a ಸ್ಕ್ವೇರ್ b ಪ್ಲಸ್ ನೂರಾ ನಲವತ್ತನಾಲ್ಕು a b ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ಅರವತ್ತನಾಲ್ಕು b ಕ್ಯೂಬ್ಡ್. ಎರಡನೆಯದಾಗಿ, ಐದು p ಮೈನಸ್ ಮೂರು q ಹೋಲ್ ಕ್ಯೂಬ್ಡ್ ನ ವಿಸ್ತೃತ ರೂಪ ನೂರಾ ಇಪ್ಪತ್ತೈದು p ಕ್ಯೂಬ್ಡ್ ಮೈನಸ್ ಇನ್ನೂರಾ ಇಪ್ಪತ್ತೈದು p ಸ್ಕ್ವೇರ್ q ಪ್ಲಸ್ ನೂರಾ ಮೂವತ್ತೈದು p q ಸ್ಕ್ವೇರ್ ಮೈನಸ್ ಇಪ್ಪತ್ತೇಳು q ಕ್ಯೂಬ್ಡ್. ಈ ರೀತಿ ನಾವು ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಘನಗಳನ್ನು ವಿಸ್ತರಿಸಬಹುದು.",
+  "script_display": "ಹಾಗಾದರೆ, ನಾವು ಪಡೆದ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ನೋಡೋಣ.\n\n(i) $(3a + 4b)^3$ ನ ವಿಸ್ತೃತ ರೂಪ $27a^3 + 108a^2b + 144ab^2 + 64b^3$.\n\n(ii) $(5p - 3q)^3$ ನ ವಿಸ್ತೃತ ರೂಪ $125p^3 - 225p^2q + 135pq^2 - 27q^3$.\n\nಈ ರೀತಿ ನಾವು ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಘನಗಳನ್ನು ವಿಸ್ತರಿಸಬಹುದು.",
+  "display_bullets": [
+    "(i) $(3a + 4b)^3 = 27a^3 + 108a^2b + 144ab^2 + 64b^3$",
+    "(ii) $(5p - 3q)^3 = 125p^3 - 225p^2q + 135pq^2 - 27q^3$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_20",
+  "final_answer": "(i) $27a^3 + 108a^2b + 144ab^2 + 64b^3$\n(ii) $125p^3 - 225p^2q + 135pq^2 - 27q^3$",
+  "final_answer_display": "(i) $27a^3 + 108a^2b + 144ab^2 + 64b^3$ \n\n (ii) $125p^3 - 225p^2q + 135pq^2 - 27q^3$",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_071"
+}

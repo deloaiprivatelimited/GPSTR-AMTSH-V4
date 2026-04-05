@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ ಪರಿಚಯ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ, PQ ರೇಖೆಯು RS ರೇಖೆಗೆ ಸಮಾಂತರವಾಗಿದ್ದರೆ, ತ್ರಿಭುಜ POQ ಮತ್ತು ತ್ರಿಭುಜ SOR ಸಮರೂಪಿಗಳು ಎಂದು ಸಾಧಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ PQ ಸಮಾಂತರ RS ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ತ್ರಿಭುಜ POQ ಮತ್ತು ತ್ರಿಭುಜ SOR ಸಮರೂಪಿಗಳು ಎಂದು ಸಾಧಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ, $PQ || RS$ ಆದರೆ, $\\triangle POQ \\sim \\triangle SOR$ ಎಂದು ಸಾಧಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ ದತ್ತಾಂಶ $PQ || RS$ ಆಗಿದೆ. ನಾವು $\\triangle POQ \\sim \\triangle SOR$ ಎಂದು ಸಾಧಿಸಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತ: $PQ || RS$",
+    "ಸಾಧನೀಯ: $\\triangle POQ \\sim \\triangle SOR$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ರೇಖೆಗಳಾದ PR ಮತ್ತು QS ಗಳು O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. PQ ಮತ್ತು RS ಗಳನ್ನು ಸೇರಿಸಿದಾಗ ಎರಡು ತ್ರಿಭುಜಗಳು, POQ ಮತ್ತು SOR ಉಂಟಾಗುತ್ತವೆ. PQ ರೇಖೆಯು RS ರೇಖೆಗೆ ಸಮಾಂತರವಾಗಿದೆ. ಕೋನ P ಮತ್ತು ಕೋನ S ಪರ್ಯಾಯ ಕೋನಗಳಾಗಿವೆ. ಕೋನ Q ಮತ್ತು ಕೋನ R ಪರ್ಯಾಯ ಕೋನಗಳಾಗಿವೆ. ಕೋನ POQ ಮತ್ತು ಕೋನ SOR ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ.",
+    "labels": "P, Q, R, S, O",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಎರಡು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಎರಡು ಛೇದಕ ರೇಖೆಗಳು ಕತ್ತರಿಸಿದಾಗ ಉಂಟಾಗುವ ಎರಡು ಸಮರೂಪ ತ್ರಿಭುಜಗಳನ್ನು ತೋರಿಸುತ್ತದೆ. ಇದು ಕೋ.ಕೋ.ಕೋ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ವಿವರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for Figure 6.29"
+  },
+  "source_example_id": "GEO-TRI-2_example_14",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_050"
+}

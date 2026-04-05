@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಕೆಲಸದ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಪರಿಹರಿಸೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: ಐದು ನ್ಯೂಟನ್ ನಷ್ಟು ಬಲ ಕಾಯವೊಂದರ ಮೇಲೆ ಪ್ರಯೋಗಿಸಿದೆ. ಬಲದ ದಿಕ್ಕಿನಲ್ಲಿ ಎರಡು ಮೀಟರ್ ನಷ್ಟು ದೂರ ಕಾಯ ಚಲಿಸಿದೆ. ಸ್ಥಾನ ಬದಲಾವಣೆಯವರೆಗೂ ಬಲ ಕಾಯದ ಮೇಲೆ ಪ್ರಯೋಗಿಸಲ್ಪಟ್ಟಿದ್ದರೆ ನಡೆದ ಕೆಲಸವೆಷ್ಟು? ಮೊದಲು, ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ಪ್ರಯೋಗಿಸಿದ ಬಲ, ಎಫ್, ಐದು ನ್ಯೂಟನ್ ಆಗಿದೆ. ಉಂಟಾದ ಸ್ಥಾನಪಲ್ಲಟ, ಎಸ್, ಎರಡು ಮೀಟರ್ ಆಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ನಡೆದ ಕೆಲಸ, ಅಂದರೆ ಡಬ್ಲ್ಯೂ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಪರಿಹರಿಸೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: 5 N ನಷ್ಟು ಬಲ ಕಾಯವೊಂದರ ಮೇಲೆ ಪ್ರಯೋಗಿಸಿದೆ. ಬಲದ ದಿಕ್ಕಿನಲ್ಲಿ 2 m ನಷ್ಟು ದೂರ ಕಾಯ ಚಲಿಸಿದೆ. ಸ್ಥಾನ ಬದಲಾವಣೆಯವರೆಗೂ ಬಲ ಕಾಯದ ಮೇಲೆ ಪ್ರಯೋಗಿಸಲ್ಪಟ್ಟಿದ್ದರೆ ನಡೆದ ಕೆಲಸವೆಷ್ಟು? ಮೊದಲು, ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ಪ್ರಯೋಗಿಸಿದ ಬಲ (F) 5 N ಆಗಿದೆ. ಉಂಟಾದ ಸ್ಥಾನಪಲ್ಲಟ (s) 2 m ಆಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ನಡೆದ ಕೆಲಸ (W).",
+  "display_bullets": [
+    "ಪ್ರಶ್ನೆ: 5 N ಬಲದಿಂದ ಒಂದು ಕಾಯವು ಬಲದ ದಿಕ್ಕಿನಲ್ಲಿ 2 m ಚಲಿಸಿದರೆ, ನಡೆದ ಕೆಲಸವೆಷ್ಟು?",
+    "ದತ್ತಾಂಶ (Given): ಬಲ (F) = 5 N",
+    "ದತ್ತಾಂಶ (Given): ಸ್ಥಾನಪಲ್ಲಟ (s) = 2 m",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To Find): ನಡೆದ ಕೆಲಸ (W)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "physics_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ಬ್ಲಾಕ್ ಮೇಲೆ ಬಲ (F) ಪ್ರಯೋಗಿಸಿದಾಗ ಅದು ಸ್ಥಾನಪಲ್ಲಟ (s) ಹೊಂದುವುದನ್ನು ತೋರಿಸುವ ಸರಳ ರೇಖಾಚಿತ್ರ. ಬಲ ಮತ್ತು ಸ್ಥಾನಪಲ್ಲಟ ಎರಡೂ ಬಲಕ್ಕೆ ಇವೆ.",
+    "labels": "F = 5 N, s = 2 m, ಬ್ಲಾಕ್",
+    "scientific_significance": "ಬಲ ಮತ್ತು ಸ್ಥಾನಪಲ್ಲಟ ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿರುವುದನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ, ಇದು ಧನಾತ್ಮಕ ಕೆಲಸದ ಲೆಕ್ಕಾಚಾರಕ್ಕೆ ಅವಶ್ಯಕ.",
+    "placeholder_note": "A simple block on a flat surface. A horizontal arrow labeled 'F = 5 N' points to the right, pushing the block. Below the block, another horizontal arrow labeled 's = 2 m' also points to the right, indicating the direction of displacement."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_10_example_1",
+  "chunk_id": "std_9_chapter_10_concept_2_chunk_014"
+}

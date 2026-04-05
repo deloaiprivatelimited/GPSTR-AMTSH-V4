@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ನಮಗೆ ಸಿಕ್ಕ ಉತ್ತರಗಳು ಎ ಸಮ ನಲವತ್ತೈದು ಡಿಗ್ರಿ ಮತ್ತು ಬಿ ಸಮ ಹದಿನೈದು ಡಿಗ್ರಿ. ನಾವು ಷರತ್ತುಗಳನ್ನು ಪರಿಶೀಲಿಸೋಣ. ಎ ಪ್ಲಸ್ ಬಿ ಸಮ ನಲವತ್ತೈದು ಪ್ಲಸ್ ಹದಿನೈದು, ಅಂದರೆ ಅರವತ್ತು ಡಿಗ್ರಿ. ಇದು ಸೊನ್ನೆ ಮತ್ತು ತೊಂಬತ್ತು ಡಿಗ್ರಿಗಳ ನಡುವೆ ಇದೆ. ಹಾಗೂ, ಎ ಯು ಬಿ ಗಿಂತ ದೊಡ್ಡದಾಗಿದೆ, ಅಂದರೆ ನಲವತ್ತೈದು ಡಿಗ್ರಿ ಹದಿನೈದು ಡಿಗ್ರಿಗಿಂತ ದೊಡ್ಡದಾಗಿದೆ. ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ನಮಗೆ ಸಿಕ್ಕ ಉತ್ತರಗಳು $A = 45^\\circ$ ಮತ್ತು $B = 15^\\circ$. ನಾವು ಷರತ್ತುಗಳನ್ನು ಪರಿಶೀಲಿಸೋಣ. $A+B = 45^\\circ + 15^\\circ = 60^\\circ$. ಇದು $0^\\circ$ ಮತ್ತು $90^\\circ$ ಗಳ ನಡುವೆ ಇದೆ. ಹಾಗೂ, $A > B$ ಆಗಿದೆ, ಅಂದರೆ $45^\\circ > 15^\\circ$. ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆ.",
+  "display_bullets": [
+    "A ಯ ಬೆಲೆ: $45^\\circ$",
+    "B ಯ ಬೆಲೆ: $15^\\circ$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-INTRO-1_example_8",
+  "final_answer": "$A = 45^\\circ$ ಮತ್ತು $B = 15^\\circ$.",
+  "final_answer_display": "$A = 45^\\circ$ and $B = 15^\\circ$.",
+  "chunk_id": "TRI-INTRO-1_concept_2_chunk_028"
+}

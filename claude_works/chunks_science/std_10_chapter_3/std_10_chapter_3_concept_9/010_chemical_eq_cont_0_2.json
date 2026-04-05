@@ -1,0 +1,30 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿವರ್ತಕಗಳು (Reactants)",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುವ ಪ್ರತಿವರ್ತಕಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು ಸತುವಿನ ಸಲ್ಫೈಡ್, ಇದು ಘನ ರೂಪದಲ್ಲಿರುವ ಸತುವಿನ ಅದುರು. ಎರಡನೆಯದು ಆಮ್ಲಜನಕ, ಇದು ಉತ್ಕರ್ಷಣ ಕ್ರಿಯೆಗಾಗಿ ಅಧಿಕ ಪ್ರಮಾಣದಲ್ಲಿ ಪೂರೈಸುವ ಅನಿಲ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುವ ಪ್ರತಿವರ್ತಕಗಳನ್ನು (Reactants) ನೋಡೋಣ. ಮೊದಲನೆಯದು ಸತುವಿನ ಸಲ್ಫೈಡ್ (ZnS), ಇದು ಘನ ರೂಪದಲ್ಲಿರುವ ಸತುವಿನ ಅದುರು. ಎರಡನೆಯದು ಆಮ್ಲಜನಕ (O₂), ಇದು ಉತ್ಕರ್ಷಣ ಕ್ರಿಯೆಗಾಗಿ ಅಧಿಕ ಪ್ರಮಾಣದಲ್ಲಿ ಪೂರೈಸುವ ಅನಿಲ.",
+  "display_bullets": [
+    "ಸತುವಿನ ಸಲ್ಫೈಡ್ (ZnS): ಘನ ರೂಪದಲ್ಲಿರುವ ಸತುವಿನ ಅದುರು.",
+    "ಆಮ್ಲಜನಕ (O₂): ಅಧಿಕ ಪ್ರಮಾಣದಲ್ಲಿ ಪೂರೈಸುವ ಅನಿಲ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_3_concept_9_chunk_010"
+}

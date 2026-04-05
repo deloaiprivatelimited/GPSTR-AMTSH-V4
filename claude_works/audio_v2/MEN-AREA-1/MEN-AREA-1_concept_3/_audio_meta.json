@@ -1,0 +1,213 @@
+{
+  "module_id": "MEN-AREA-1_concept_3",
+  "merge_code": "MEN-AREA-1",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 18,
+  "ok_count": 18,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:08:15",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "3880d90c341a21bc053519ac75de5ccb",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 22.131,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 35,
+      "generated_at": "2026-03-30 15:04:55"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "d302951d47bec35358c32ebe5c6d250a",
+      "wav_file": "001_intro_0.wav",
+      "duration": 48.491,
+      "slide_title": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ",
+      "type": "intro",
+      "script_words": 69,
+      "generated_at": "2026-03-30 15:05:12"
+    },
+    "006_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "4441d9633ff75664d27bd761e3a8b263",
+      "wav_file": "006_formula_cont_0_2.wav",
+      "duration": 37.731,
+      "slide_title": "ಸೂತ್ರದ ನಿಷ್ಪತ್ತಿ: ಆಯತವಾಗಿ ಪರಿವರ್ತನೆ",
+      "type": "formula_derivation",
+      "script_words": 47,
+      "generated_at": "2026-03-30 15:05:35"
+    },
+    "004_formula_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "38a9b0239e308b75363a5897a5863bce",
+      "wav_file": "004_formula_0.wav",
+      "duration": 39.531,
+      "slide_title": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-03-30 15:05:38"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "61b94d51d43e8aa5bc14790ff212f469",
+      "wav_file": "003_property_0.wav",
+      "duration": 75.331,
+      "slide_title": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ: ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 105,
+      "generated_at": "2026-03-30 15:05:49"
+    },
+    "005_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "55cf316e61f8b9fb50dafb7014eed4ec",
+      "wav_file": "005_formula_cont_0_1.wav",
+      "duration": 44.331,
+      "slide_title": "ಸೂತ್ರದ ನಿಷ್ಪತ್ತಿ: ಆಯತವಾಗಿ ಪರಿವರ್ತನೆ",
+      "type": "formula_derivation",
+      "script_words": 60,
+      "generated_at": "2026-03-30 15:06:09"
+    },
+    "007_formula_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "2f3dda33ba1b88e20d0a8bc7b05019bb",
+      "wav_file": "007_formula_cont_0_3.wav",
+      "duration": 40.851,
+      "slide_title": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-03-30 15:06:10"
+    },
+    "009_formula_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "e0ef0248e37dbca536272a23480255a4",
+      "wav_file": "009_formula_cont_0_5.wav",
+      "duration": 49.291,
+      "slide_title": "ತ್ವರಿತ ಉದಾಹರಣೆ",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-03-30 15:06:16"
+    },
+    "008_formula_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "00a628b46b7e3262430e6a1771d3ae8c",
+      "wav_file": "008_formula_cont_0_4.wav",
+      "duration": 37.291,
+      "slide_title": "ಸೂತ್ರದಲ್ಲಿನ ಸಂಕೇತಗಳು",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-03-30 15:06:36"
+    },
+    "010_formula_cont_0_6.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "2f7fc2b89f71d27bc2d60269b65a954a",
+      "wav_file": "010_formula_cont_0_6.wav",
+      "duration": 48.331,
+      "slide_title": "ಪ್ರಮುಖ ಎಚ್ಚರಿಕೆ: ಎತ್ತರ vs ಪಕ್ಕದ ಬಾಹು",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-03-30 15:06:43"
+    },
+    "011_example_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "c5f1f1f5d0995455e93ec09b4c8fac62",
+      "wav_file": "011_example_0.wav",
+      "duration": 30.131,
+      "slide_title": "ಉದಾಹರಣೆ 1",
+      "type": "worked_example",
+      "script_words": 47,
+      "generated_at": "2026-03-30 15:07:00"
+    },
+    "013_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "2150a4d19ab18054c3f4b2631c9a427e",
+      "wav_file": "013_example_cont_0_2.wav",
+      "duration": 21.451,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 31,
+      "generated_at": "2026-03-30 15:07:03"
+    },
+    "012_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "858e705937d6e8021163aa1d4aa045b2",
+      "wav_file": "012_example_cont_0_1.wav",
+      "duration": 50.011,
+      "slide_title": "ಪರಿಹಾರ",
+      "type": "worked_example",
+      "script_words": 69,
+      "generated_at": "2026-03-30 15:07:16"
+    },
+    "017_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "e12f799fe290fa02216ff51db5ade663",
+      "wav_file": "017_example_cont_1_3.wav",
+      "duration": 26.731,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 41,
+      "generated_at": "2026-03-30 15:07:26"
+    },
+    "014_example_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "09447dacadead27674a0f8e69bfda652",
+      "wav_file": "014_example_1.wav",
+      "duration": 28.531,
+      "slide_title": "ಉದಾಹರಣೆ 2: ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಎತ್ತರ",
+      "type": "worked_example",
+      "script_words": 43,
+      "generated_at": "2026-03-30 15:07:29"
+    },
+    "015_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "c70d42017ffc8cc3dfedd971fb39bdee",
+      "wav_file": "015_example_cont_1_1.wav",
+      "duration": 36.171,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i) ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "worked_example",
+      "script_words": 45,
+      "generated_at": "2026-03-30 15:08:04"
+    },
+    "018_recap_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "d75b5dbf765f2d9552cee2164578cca5",
+      "wav_file": "018_recap_0.wav",
+      "duration": 40.731,
+      "slide_title": "ಸಾರಾಂಶ: ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-03-30 15:08:09"
+    },
+    "016_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "d9ecf97b0178fe29c0511cf16d957f80",
+      "wav_file": "016_example_cont_1_2.wav",
+      "duration": 49.971,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (ii) ಇನ್ನೊಂದು ಎತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "worked_example",
+      "script_words": 72,
+      "generated_at": "2026-03-30 15:08:15"
+    }
+  }
+}

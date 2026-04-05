@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಧನ ಅಯಾನು (ಕ್ಯಾಟಯಾನು) ರಚನೆ",
+  "script": "ಮೆಗ್ನಿಸಿಯಂ ತನ್ನ ಎರಡು ವೇಲೆನ್ಸ್ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಂಡಾಗ, ಅದು ಮೆಗ್ನಿಸಿಯಂ ಧನ ಅಯಾನು, ಅಂದರೆ ಕ್ಯಾಟಯಾನು, ಎಂಜಿ ಟೂ ಪ್ಲಸ್ ಆಗಿ ಬದಲಾಗುತ್ತದೆ. ಈಗ ಇದರಲ್ಲಿ 12 ಪ್ರೋಟಾನ್‌ಗಳು ಮತ್ತು 10 ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳಿರುವುದರಿಂದ, ಇದು ಪ್ಲಸ್ ಟೂ ಚಾರ್ಜ್ ಅನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಇದರ ಹೊಸ ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ ಎರಡು, ಎಂಟು ಆಗಿರುತ್ತದೆ, ಇದು ಸ್ಥಿರವಾದ ಅಷ್ಟಕ ರಚನೆಯಾಗಿದೆ.",
+  "script_display": "Mg ತನ್ನ 2 ವೇಲೆನ್ಸ್ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಂಡಾಗ:\n*   ಉಂಟಾದ ಅಯಾನು: Mg²⁺ (ಮೆಗ್ನಿಸಿಯಂ ಕ್ಯಾಟಯಾನು)\n*   ಚಾರ್ಜ್: +2 (12 ಪ್ರೋಟಾನ್‌ಗಳು, 10 ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು)\n*   ಹೊಸ ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ: 2, 8 (ಸ್ಥಿರ ಅಷ್ಟಕ)",
+  "display_bullets": [
+    "ಉಂಟಾದ ಅಯಾನು: Mg²⁺ (ಮೆಗ್ನಿಸಿಯಂ ಕ್ಯಾಟಯಾನು)",
+    "ಚಾರ್ಜ್: +2 (12 ಪ್ರೋಟಾನ್‌ಗಳು, 10 ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು)",
+    "ಹೊಸ ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ: 2, 8 (ಸ್ಥಿರ ಅಷ್ಟಕ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the result of oxidation. On the left, the Magnesium atom (2,8,2). An arrow points to the right, showing two electrons leaving. On the right, the resulting Magnesium ion Mg²⁺ with a stable configuration (2,8) is shown, along with the two lost electrons (2e⁻) shown separately.",
+    "labels": "Mg (2,8,2), Mg²⁺ (2,8), 2e⁻",
+    "scientific_significance": "Visually demonstrates the process of oxidation where an atom loses electrons to form a stable cation with a full outer shell.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_7_chunk_020"
+}

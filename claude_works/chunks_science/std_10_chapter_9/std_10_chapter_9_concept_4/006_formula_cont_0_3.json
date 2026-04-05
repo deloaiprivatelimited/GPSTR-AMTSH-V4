@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಲಸಾಅ ವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. 15 ಮತ್ತು 25 ರ ಲಸಾಅ 75. ಸಮೀಕರಣವನ್ನು ಸರಳೀಕರಿಸಿದಾಗ, ವಿ ಯ ಒಂದನೇ ಭಾಗ ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ 5 ಪ್ಲಸ್ 3 ಭಾಗಿಸು 75, ಅಂದರೆ ಮೈನಸ್ 2 ಭಾಗಿಸು 75. ವಿ ಯ ಮೌಲ್ಯವನ್ನು ಪಡೆಯಲು, ನಾವು ಇದರ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಆದ್ದರಿಂದ, ವಿ ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ 75 ಭಾಗಿಸು 2, ಅಂದರೆ ಮೈನಸ್ 37.5 ಸೆಂಟಿಮೀಟರ್. ಋಣಾತ್ಮಕ ಚಿಹ್ನೆಯು ಪ್ರತಿಬಿಂಬವು ದರ್ಪಣದ ಎಡಭಾಗದಲ್ಲಿ, ಅಂದರೆ ವಸ್ತುವಿರುವ ಕಡೆಯೇ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಒಂದು ಸತ್ಯ ಪ್ರತಿಬಿಂಬ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಲ.ಸಾ.ಅ. (LCM) ವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "**ಹಂತ 4: ಲ.ಸಾ.ಅ. ಬಳಸಿ ಕೂಡಿಸಿ (LCM of 15, 25 is 75)**\n$\\frac{1}{v} = \\frac{-5 + 3}{75} = \\frac{-2}{75}$",
+    "**ಹಂತ 5: $v$ ಗಾಗಿ ಪರಿಹರಿಸಿ (ವ್ಯುತ್ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳಿ)**\n$v = -\\frac{75}{2}$",
+    "**ಅಂತಿಮ ಉತ್ತರ:**\n$v = -37.5$ cm. ಋಣಾತ್ಮಕ ಚಿಹ್ನೆಯು ಇದು ಸತ್ಯ ಮತ್ತು ತಲೆಕೆಳಗಾದ ಪ್ರತಿಬಿಂಬ ಎಂದು ಸೂಚಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "classic_blue",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "v = -37.5 \\text{ cm}",
+    "placeholder_note": "Final calculated value of the image distance, v."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_9_concept_4_chunk_006"
+}

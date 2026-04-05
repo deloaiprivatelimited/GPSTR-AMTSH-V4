@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಿದ ನಂತರ ನಮಗೆ ಸಿಕ್ಕ ಅಂತಿಮ ಉತ್ತರಗಳು ಹೀಗಿವೆ. ರೈಲಿನ ವೇಗೋತ್ಕರ್ಷ 1 ಬೈ 15 ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್ಡ್ ಆಗಿದೆ. ಮತ್ತು ಈ ವೇಗವನ್ನು ಪಡೆಯಲು ಅದು ಚಲಿಸಿದ ದೂರ 3 ಕಿಲೋಮೀಟರ್ ಆಗಿದೆ. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಏಕಮಾನಗಳನ್ನು ಎಸ್ಐ ಪದ್ಧತಿಗೆ ಪರಿವರ್ತಿಸುವುದು ಮತ್ತು ಸಮಸ್ಯೆಗೆ ಸೂಕ್ತವಾದ ಚಲನೆಯ ಸಮೀಕರಣವನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳುವುದು ಅತ್ಯಂತ ಪ್ರಮುಖ ಹಂತಗಳಾಗಿವೆ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಿದ ನಂತರ ನಮಗೆ ಸಿಕ್ಕ ಅಂತಿಮ ಉತ್ತರಗಳು ಹೀಗಿವೆ. ರೈಲಿನ ವೇಗೋತ್ಕರ್ಷ $\\frac{1}{15}$ m/s² ಆಗಿದೆ. ಮತ್ತು ಈ ವೇಗವನ್ನು ಪಡೆಯಲು ಅದು ಚಲಿಸಿದ ದೂರ 3 km ಆಗಿದೆ. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಏಕಮಾನಗಳನ್ನು SI ಪದ್ಧತಿಗೆ ಪರಿವರ್ತಿಸುವುದು ಮತ್ತು ಸಮಸ್ಯೆಗೆ ಸೂಕ್ತವಾದ ಚಲನೆಯ ಸಮೀಕರಣವನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳುವುದು ಅತ್ಯಂತ ಪ್ರಮುಖ ಹಂತಗಳಾಗಿವೆ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ವೇಗೋತ್ಕರ್ಷ (a)} = \\frac{1}{15} \\text{ m/s}^2 \\\\ \\text{ಚಲಿಸಿದ ದೂರ (s)} = 3 \\text{ km}",
+    "placeholder_note": "Final answer box"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_7_example_7.5",
+  "final_answer": "ರೈಲಿನ ವೇಗೋತ್ಕರ್ಷ 1/15 ms⁻² ಮತ್ತು ಅದು ಚಲಿಸಿದ ದೂರ 3 km.",
+  "final_answer_display": "ರೈಲಿನ ವೇಗೋತ್ಕರ್ಷ $\\frac{1}{15}$ m/s² ಮತ್ತು ಅದು ಚಲಿಸಿದ ದೂರ 3 km.",
+  "chunk_id": "std_9_chapter_7_concept_5_chunk_018"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪಾರವನ್ನು ದೃಶ್ಯೀಕರಿಸುವುದು",
+  "script": "ಈಗ ಪಾರವನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಒಂದು ತರಂಗವನ್ನು ನೋಡಬಹುದು. ಮಧ್ಯದಲ್ಲಿರುವ ನೇರ ರೇಖೆಯು ಕಣಗಳ ಸಮತೋಲನ ಸ್ಥಿತಿ ಅಥವಾ ಶೂನ್ಯ ಸ್ಥಾನಪಲ್ಲಟವನ್ನು ತೋರಿಸುತ್ತದೆ. ತರಂಗದ ಶಿಖರ, ಅಂದರೆ ಅತಿ ಎತ್ತರದ ಬಿಂದು, ಮತ್ತು ಸಮತೋಲನ ರೇಖೆಯ ನಡುವಿನ ಲಂಬ ಅಂತರವೇ ಪಾರ. ಹಾಗೆಯೇ, ತರಂಗದ ದ್ರೋಣಿ, ಅಂದರೆ ಅತಿ ತಗ್ಗಾದ ಬಿಂದು, ಮತ್ತು ಸಮತೋಲನ ರೇಖೆಯ ನಡುವಿನ ಅಂತರವೂ ಪಾರವೇ ಆಗಿದೆ. ಈ ಗರಿಷ್ಠ ಸ್ಥಾನಪಲ್ಲಟವನ್ನು 'A' ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಪಾರವು ಹೆಚ್ಚಾದಷ್ಟೂ, ತರಂಗವು ಹೆಚ್ಚು ಶಕ್ತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ಪಾರವನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಒಂದು ತರಂಗವನ್ನು ನೋಡಬಹುದು. ಮಧ್ಯದಲ್ಲಿರುವ ನೇರ ರೇಖೆಯು ಕಣಗಳ ಸಮತೋಲನ ಸ್ಥಿತಿ (equilibrium position) ಅಥವಾ ಶೂನ್ಯ ಸ್ಥಾನಪಲ್ಲಟವನ್ನು ತೋರಿಸುತ್ತದೆ. ತರಂಗದ ಶಿಖರ (crest) ಮತ್ತು ಸಮತೋಲನ ರೇಖೆಯ ನಡುವಿನ ಲಂಬ ಅಂತರವೇ ಪಾರ (A). ಹಾಗೆಯೇ, ತರಂಗದ ದ್ರೋಣಿ (trough) ಮತ್ತು ಸಮತೋಲನ ರೇಖೆಯ ನಡುವಿನ ಅಂತರವೂ ಪಾರವೇ ಆಗಿದೆ. ಪಾರವು ಹೆಚ್ಚಾದಷ್ಟೂ, ತರಂಗವು ಹೆಚ್ಚು ಶಕ್ತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಮತೋಲನ ರೇಖೆಯು (Equilibrium line) ಕಣಗಳ ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+    "ಶಿಖರ (Crest) ಅಥವಾ ದ್ರೋಣಿ (Trough) ಯಿಂದ ಸಮತೋಲನ ರೇಖೆಗಿರುವ ಗರಿಷ್ಠ ಲಂಬ ಅಂತರವೇ ಪಾರ (A).",
+    "ಹೆಚ್ಚು ಪಾರ ಎಂದರೆ ಹೆಚ್ಚು ಶಕ್ತಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a transverse wave. A horizontal dashed line indicates the equilibrium position. The amplitude 'A' is clearly labeled with a vertical double-headed arrow from the equilibrium line to the crest of the wave. The crest and trough are also labeled.",
+    "labels": "Equilibrium line, Crest, Trough, Amplitude (A)",
+    "scientific_significance": "Visually defines amplitude as the maximum displacement from the equilibrium position.",
+    "placeholder_note": "Image to be generated showing a wave with its amplitude marked."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_11_concept_3_chunk_012"
+}

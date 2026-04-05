@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: $3m^2 + 9m + 6$ ಅನ್ನು ಅಪವರ್ತಿಸಿ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಮೂರು ಎಂ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಒಂಬತ್ತು ಎಂ ಪ್ಲಸ್ ಆರು ಎಂಬ ಬೀಜೋಕ್ತಿಯನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಮೊದಲ ಪದದ ಸಹಗುಣಕ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿದೆ. ಈ ರೀತಿಯ ಸಮಸ್ಯೆಯನ್ನು ಹೇಗೆ ಬಿಡಿಸುವುದು ಎಂದು ನೋಡೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $3m^2 + 9m + 6$ ಎಂಬ ಬೀಜೋಕ್ತಿಯನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಮೊದಲ ಪದದ ಸಹಗುಣಕ 1ಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿದೆ. ಈ ರೀತಿಯ ಸಮಸ್ಯೆಯನ್ನು ಹೇಗೆ ಬಿಡಿಸುವುದು ಎಂದು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಅಪವರ್ತಿಸಬೇಕಾದ ಬೀಜೋಕ್ತಿ: $3m^2 + 9m + 6$",
+    "ಇಲ್ಲಿ $m^2$ ನ ಸಹಗುಣಕ 3 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "3m^2 + 9m + 6",
+    "placeholder_note": "Problem statement to be factorised"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "ALG-FAC-2_example_13",
+  "chunk_id": "ALG-FAC-2_concept_5_chunk_019"
+}

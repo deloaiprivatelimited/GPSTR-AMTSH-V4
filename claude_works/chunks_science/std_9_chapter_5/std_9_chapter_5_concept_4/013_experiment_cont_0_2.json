@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ 1: ಶುದ್ಧ ನೀರಿನಲ್ಲಿ ಮೊಟ್ಟೆ",
+  "script": "ಈಗ ನಮ್ಮ ಬಳಿ ಚಿಪ್ಪಿಲ್ಲದ ಮೊಟ್ಟೆ ಸಿದ್ಧವಾಗಿದೆ. ಪ್ರಯೋಗದ ಮೊದಲ ಭಾಗದಲ್ಲಿ, ಈ ಮೊಟ್ಟೆಯನ್ನು ಶುದ್ಧ ನೀರು ತುಂಬಿದ ಬೀಕರ್‌ನಲ್ಲಿ ಇಡೋಣ. ಸುಮಾರು ಐದು ನಿಮಿಷಗಳ ಕಾಲ ಅದನ್ನು ಹಾಗೆಯೇ ಬಿಟ್ಟು, ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸೋಣ. ಇಲ್ಲಿ, ಮೊಟ್ಟೆಯ ಹೊರಗಿನ ವಾತಾವರಣದಲ್ಲಿ, ಅಂದರೆ ಬೀಕರ್‌ನಲ್ಲಿ, ನೀರಿನ ಸಾರತೆ ಹೆಚ್ಚಾಗಿದೆ ಮತ್ತು ಮೊಟ್ಟೆಯೊಳಗಿನ ದ್ರವದಲ್ಲಿ ನೀರಿನ ಸಾರತೆ ಕಡಿಮೆ ಇದೆ. ಅಭಿಸರಣೆಯ ನಿಯಮದ ಪ್ರಕಾರ ನೀರು ಎಲ್ಲಿಂದ ಎಲ್ಲಿಗೆ ಚಲಿಸಬಹುದು ಎಂದು ಊಹಿಸಿ.",
+  "script_display": "ಈಗ ನಮ್ಮ ಬಳಿ ಚಿಪ್ಪಿಲ್ಲದ ಮೊಟ್ಟೆ ಸಿದ್ಧವಾಗಿದೆ. ಪ್ರಯೋಗದ ಮೊದಲ ಭಾಗದಲ್ಲಿ, ಈ ಮೊಟ್ಟೆಯನ್ನು ಶುದ್ಧ ನೀರು ತುಂಬಿದ ಬೀಕರ್‌ನಲ್ಲಿ ಇಡೋಣ. ಸುಮಾರು 5 ನಿಮಿಷಗಳ ಕಾಲ ಅದನ್ನು ಹಾಗೆಯೇ ಬಿಟ್ಟು, ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸೋಣ. ಇಲ್ಲಿ, ಮೊಟ್ಟೆಯ ಹೊರಗಿನ ವಾತಾವರಣದಲ್ಲಿ, ಅಂದರೆ ಬೀಕರ್‌ನಲ್ಲಿ, ನೀರಿನ ಸಾರತೆ ಹೆಚ್ಚಾಗಿದೆ ಮತ್ತು ಮೊಟ್ಟೆಯೊಳಗಿನ ದ್ರವದಲ್ಲಿ ನೀರಿನ ಸಾರತೆ ಕಡಿಮೆ ಇದೆ. ಅಭಿಸರಣೆಯ ನಿಯಮದ ಪ್ರಕಾರ ನೀರು ಎಲ್ಲಿಂದ ಎಲ್ಲಿಗೆ ಚಲಿಸಬಹುದು ಎಂದು ಊಹಿಸಿ.",
+  "display_bullets": [
+    "ಚಿಪ್ಪಿಲ್ಲದ ಮೊಟ್ಟೆಯನ್ನು ಶುದ್ಧ ನೀರಿರುವ ಬೀಕರ್‌ನಲ್ಲಿ ಇಡಿ.",
+    "ಸುಮಾರು 5 ನಿಮಿಷಗಳ ಕಾಲ ವೀಕ್ಷಿಸಿ.",
+    "ಇದು ಅತಿಕಡಿಮೆ ಸಾರತೆಯ ದ್ರಾವಣದಲ್ಲಿ (Hypotonic solution) ಕೋಶವನ್ನು ಇರಿಸಿದಂತೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the de-shelled egg being placed into a beaker filled with pure water. An arrow indicates the placement.",
+    "labels": "ಚಿಪ್ಪಿಲ್ಲದ ಮೊಟ್ಟೆ, ಶುದ್ಧ ನೀರು, ಬೀಕರ್",
+    "scientific_significance": "Depicts the setup for the first part of the experiment, where the egg is placed in a hypotonic environment.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_9_chapter_5_concept_4_chunk_013"
+}

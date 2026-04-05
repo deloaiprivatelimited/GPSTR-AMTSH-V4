@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಮೊದಲ ಮತ್ತು ಪ್ರಮುಖ ಹಂತ",
+  "script": "ಮಧ್ಯಾಂಕವನ್ನು ಕಂಡುಹಿಡಿಯುವಾಗ ನಾವು ಮಾಡುವ ಮೊದಲ ಮತ್ತು ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ಹಂತವೆಂದರೆ ದತ್ತಾಂಶಗಳನ್ನು ಕ್ರಮಬದ್ಧವಾಗಿ ಜೋಡಿಸುವುದು. ನೀವು ಇದನ್ನು ಏರಿಕೆ ಕ್ರಮದಲ್ಲಿ, ಅಂದರೆ ಚಿಕ್ಕದರಿಂದ ದೊಡ್ಡದಕ್ಕೆ, ಅಥವಾ ಇಳಿಕೆ ಕ್ರಮದಲ್ಲಿ, ಅಂದರೆ ದೊಡ್ಡದರಿಂದ ಚಿಕ್ಕದಕ್ಕೆ ಜೋಡಿಸಬಹುದು. ಸಾಮಾನ್ಯವಾಗಿ ನಾವು ಏರಿಕೆ ಕ್ರಮವನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ಹಂತವನ್ನು ಯಾವುದೇ ಕಾರಣಕ್ಕೂ ಮರೆಯಬಾರದು, ಏಕೆಂದರೆ ಇದನ್ನು ಮರೆತರೆ ಉತ್ತರ ಖಂಡಿತವಾಗಿಯೂ ತಪ್ಪಾಗುತ್ತದೆ. ಇದು ಮಧ್ಯಾಂಕ ಲೆಕ್ಕಾಚಾರದ ಅಡಿಪಾಯವಾಗಿದೆ.",
+  "script_display": "ಮಧ್ಯಾಂಕವನ್ನು ಕಂಡುಹಿಡಿಯುವಾಗ ನಾವು ಮಾಡುವ ಮೊದಲ ಮತ್ತು ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ಹಂತವೆಂದರೆ ದತ್ತಾಂಶಗಳನ್ನು ಕ್ರಮಬದ್ಧವಾಗಿ ಜೋಡಿಸುವುದು. ನೀವು ಇದನ್ನು ಏರಿಕೆ ಕ್ರಮದಲ್ಲಿ (ascending order), ಅಂದರೆ ಚಿಕ್ಕದರಿಂದ ದೊಡ್ಡದಕ್ಕೆ, ಅಥವಾ ಇಳಿಕೆ ಕ್ರಮದಲ್ಲಿ (descending order), ಅಂದರೆ ದೊಡ್ಡದರಿಂದ ಚಿಕ್ಕದಕ್ಕೆ ಜೋಡಿಸಬಹುದು. ಸಾಮಾನ್ಯವಾಗಿ ನಾವು ಏರಿಕೆ ಕ್ರಮವನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ಹಂತವನ್ನು ಯಾವುದೇ ಕಾರಣಕ್ಕೂ ಮರೆಯಬಾರದು, ಏಕೆಂದರೆ ಇದನ್ನು ಮರೆತರೆ ಉತ್ತರ ಖಂಡಿತವಾಗಿಯೂ ತಪ್ಪಾಗುತ್ತದೆ. ಇದು ಮಧ್ಯಾಂಕ ಲೆಕ್ಕಾಚಾರದ ಅಡಿಪಾಯವಾಗಿದೆ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶಗಳನ್ನು ಏರಿಕೆ ಕ್ರಮದಲ್ಲಿ (ascending order) ಜೋಡಿಸಿ.",
+    "ಅಥವಾ ಇಳಿಕೆ ಕ್ರಮದಲ್ಲಿ (descending order) ಜೋಡಿಸಿ.",
+    "ಈ ಹಂತವು ಕಡ್ಡಾಯವಾಗಿದೆ ಮತ್ತು ಇದನ್ನು ಮರೆತರೆ ಉತ್ತರ ತಪ್ಪಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An animation showing a set of unordered numbers (e.g., 5, 2, 8, 1, 7) rearranging themselves into ascending order (1, 2, 5, 7, 8). The middle number (5) is then highlighted with a box and labeled 'ಮಧ್ಯಾಂಕ'.",
+    "labels": "Unordered data, Ordered data, Median",
+    "mathematical_significance": "Illustrates the prerequisite step of ordering data before finding the median. This visual distinction is critical for understanding the concept.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "conceptual_step",
+  "chunk_id": "DATA-BAS-1_concept_2_chunk_018"
+}

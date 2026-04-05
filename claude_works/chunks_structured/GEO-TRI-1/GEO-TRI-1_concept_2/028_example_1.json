@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ತ್ರಿಭುಜ PQR ನಲ್ಲಿ, ಕೋನ Q ನ ಅಳತೆ 47 ಡಿಗ್ರಿ ಮತ್ತು ಕೋನ R ನ ಅಳತೆ 52 ಡಿಗ್ರಿ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ಕೋನ P ಯ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ದತ್ತಾಂಶದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ PQR ನಲ್ಲಿ, ಕೋನ Q ನ ಅಳತೆ 47 ಡಿಗ್ರಿ ಮತ್ತು ಕೋನ R ನ ಅಳತೆ 52 ಡಿಗ್ರಿ. ನಾವು ಕೋನ P ಯ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿದೆ.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ΔPQR ನಲ್ಲಿ, ∠Q = 47° ಮತ್ತು ∠R = 52° ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು m∠P ಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ (Given): ΔPQR ನಲ್ಲಿ, m∠Q = 47° ಮತ್ತು m∠R = 52°.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To find): m∠P."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ತ್ರಿಭುಜ PQR. ಶೃಂಗ Q ನಲ್ಲಿ ಕೋನ 47° ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಶೃಂಗ R ನಲ್ಲಿ ಕೋನ 52° ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಶೃಂಗ P ಯಲ್ಲಿನ ಕೋನವನ್ನು ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯಿಂದ ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "P, Q, R, 47°, 52°, ?",
+    "mathematical_significance": "ತ್ರಿಭುಜದ ಎರಡು ಕೋನಗಳನ್ನು ನೀಡಿದಾಗ ಮೂರನೇ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸಮಸ್ಯೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "GEO-TRI-1_example_2",
+  "chunk_id": "GEO-TRI-1_concept_2_chunk_028"
+}

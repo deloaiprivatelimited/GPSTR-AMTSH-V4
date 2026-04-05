@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಂತರಿಕ ಗ್ರಹಗಳು (Inner Planets)",
+  "script": "ಈಗ ಆಂತರಿಕ ಗ್ರಹಗಳ ಬಗ್ಗೆ ನೋಡೋಣ. ಇವು ಸೂರ್ಯನಿಗೆ ಅತ್ಯಂತ ಸಮೀಪದಲ್ಲಿರುವ ಮೊದಲ ನಾಲ್ಕು ಗ್ರಹಗಳಾಗಿವೆ. ಇವುಗಳ ಮುಖ್ಯ ಲಕ್ಷಣವೆಂದರೆ ಇವು ಶಿಲೆ ಮತ್ತು ಲೋಹಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿವೆ, ಅದಕ್ಕಾಗಿಯೇ ಇವುಗಳನ್ನು ಶಿಲಾಗ್ರಹಗಳು ಅಥವಾ ಭೂಸದೃಶ ಗ್ರಹಗಳು ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಗಾತ್ರದಲ್ಲಿ ಇವು ಬಾಹ್ಯ ಗ್ರಹಗಳಿಗಿಂತ ಚಿಕ್ಕದಾಗಿರುತ್ತವೆ. ಈ ಗುಂಪಿಗೆ ಸೇರುವ ಗ್ರಹಗಳೆಂದರೆ ಬುಧ, ಶುಕ್ರ, ಭೂಮಿ ಮತ್ತು ಮಂಗಳ. ಇವು ಕ್ಷುದ್ರಗ್ರಹ ಪಟ್ಟಿಯ ಒಳಗೆ ಇರುವುದರಿಂದ ಇವಕ್ಕೆ ಆಂತರಿಕ ಗ್ರಹಗಳು ಎಂಬ ಹೆಸರು ಬಂದಿದೆ.",
+  "script_display": "ಈಗ ಆಂತರಿಕ ಗ್ರಹಗಳ ಬಗ್ಗೆ ನೋಡೋಣ. ಇವು ಸೂರ್ಯನಿಗೆ ಅತ್ಯಂತ ಸಮೀಪದಲ್ಲಿರುವ ಮೊದಲ ನಾಲ್ಕು ಗ್ರಹಗಳಾಗಿವೆ. ಇವುಗಳ ಮುಖ್ಯ ಲಕ್ಷಣವೆಂದರೆ ಇವು ಶಿಲೆ ಮತ್ತು ಲೋಹಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿವೆ, ಅದಕ್ಕಾಗಿಯೇ ಇವುಗಳನ್ನು ಶಿಲಾಗ್ರಹಗಳು (Terrestrial Planets) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಗಾತ್ರದಲ್ಲಿ ಇವು ಬಾಹ್ಯ ಗ್ರಹಗಳಿಗಿಂತ ಚಿಕ್ಕದಾಗಿರುತ್ತವೆ. ಈ ಗುಂಪಿಗೆ ಸೇರುವ ಗ್ರಹಗಳೆಂದರೆ: ಬುಧ (Mercury), ಶುಕ್ರ (Venus), ಭೂಮಿ (Earth), ಮತ್ತು ಮಂಗಳ (Mars). ಇವು ಕ್ಷುದ್ರಗ್ರಹ ಪಟ್ಟಿಯ (Asteroid Belt) ಒಳಗೆ ಇರುವುದರಿಂದ ಇವಕ್ಕೆ ಆಂತರಿಕ ಗ್ರಹಗಳು ಎಂಬ ಹೆಸರು ಬಂದಿದೆ.",
+  "display_bullets": [
+    "ಸೂರ್ಯನಿಗೆ ಸಮೀಪದಲ್ಲಿವೆ.",
+    "ಶಿಲೆ ಮತ್ತು ಲೋಹಗಳಿಂದ ರಚಿತವಾಗಿವೆ (ಶಿಲಾಗ್ರಹಗಳು).",
+    "ಉದಾಹರಣೆಗಳು: ಬುಧ, ಶುಕ್ರ, ಭೂಮಿ, ಮಂಗಳ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dynamic_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple illustration of the solar system focusing on the first four planets orbiting the sun. The planets (Mercury, Venus, Earth, Mars) should be shown as small, rocky bodies. An arrow should point to this group with the label 'ಆಂತರಿಕ ಗ್ರಹಗಳು'.",
+    "labels": "Sun, Mercury, Venus, Earth, Mars",
+    "scientific_significance": "Visually represents the inner, terrestrial planets and their proximity to the sun.",
+    "placeholder_note": "Image to be generated showing the sun and the first four rocky planets."
+  },
+  "chunk_id": "std_6_chapter_12_concept_2_chunk_020"
+}

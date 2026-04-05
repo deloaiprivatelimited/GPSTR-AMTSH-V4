@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಶೇಚನ (Fertilization) ಎಂದರೇನು?",
+  "script": "ಹಿಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಪರಾಗಸ್ಪರ್ಶದ ಬಗ್ಗೆ ಕಲಿತಿದ್ದೇವೆ. ಈಗ, ಅದರ ಮುಂದಿನ ಹಂತವಾದ ನಿಶೇಚನದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ನಿಶೇಚನ ಎಂದರೆ ಗಂಡು ಲಿಂಗಾಣು ಮತ್ತು ಹೆಣ್ಣು ಲಿಂಗಾಣುಗಳ ಸಮ್ಮಿಲನ, ಅಂದರೆ ಅವು ಒಂದಾಗುವ ಪ್ರಕ್ರಿಯೆ. ಸಸ್ಯಗಳಲ್ಲಿ, ಈ ಪ್ರಕ್ರಿಯೆಯು ಪರಾಗರೇಣು ಶಲಾಕಾಗ್ರದ ಮೇಲೆ ಬಿದ್ದ ನಂತರ ಆರಂಭವಾಗುತ್ತದೆ. ಈ ಸಮ್ಮಿಲನದಿಂದ ಯುಗ್ಮಜ ಅಥವಾ ಜೈಗೋಟ್ ಉಂಟಾಗುತ್ತದೆ, ಇದು ಮುಂದೆ ಭ್ರೂಣವಾಗಿ ಬೆಳೆಯುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ನಿಶೇಚನ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಹಿಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಪರಾಗಸ್ಪರ್ಶದ ಬಗ್ಗೆ ಕಲಿತಿದ್ದೇವೆ. ಈಗ, ಅದರ ಮುಂದಿನ ಹಂತವಾದ ನಿಶೇಚನದ (Fertilization) ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ನಿಶೇಚನ ಎಂದರೆ ಗಂಡು ಲಿಂಗಾಣು (male gamete) ಮತ್ತು ಹೆಣ್ಣು ಲಿಂಗಾಣುಗಳ (female gamete) ಸಮ್ಮಿಲನ, ಅಂದರೆ ಅವು ಒಂದಾಗುವ ಪ್ರಕ್ರಿಯೆ. ಸಸ್ಯಗಳಲ್ಲಿ, ಈ ಪ್ರಕ್ರಿಯೆಯು ಪರಾಗರೇಣು ಶಲಾಕಾಗ್ರದ ಮೇಲೆ ಬಿದ್ದ ನಂತರ ಆರಂಭವಾಗುತ್ತದೆ. ಈ ಸಮ್ಮಿಲನದಿಂದ ಯುಗ್ಮಜ (Zygote) ಉಂಟಾಗುತ್ತದೆ, ಇದು ಮುಂದೆ ಭ್ರೂಣವಾಗಿ (embryo) ಬೆಳೆಯುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ನಿಶೇಚನ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಗಂಡು ಮತ್ತು ಹೆಣ್ಣು ಲಿಂಗಾಣುಗಳ ಸಮ್ಮಿಲನ (Fusion of male and female gametes).",
+    "ಪರಾಗಸ್ಪರ್ಶದ ನಂತರ ನಡೆಯುವ ಪ್ರಮುಖ ಹಂತ.",
+    "ಈ ಪ್ರಕ್ರಿಯೆಯ ಫಲಿತಾಂಶವೇ ಯುಗ್ಮಜ (Zygote) ದ ರಚನೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಗಂಡು ಲಿಂಗಾಣು} + \\text{ಹೆಣ್ಣು ಲಿಂಗಾಣು} \\rightarrow \\text{ಯುಗ್ಮಜ (Zygote)}",
+    "placeholder_note": "Formula showing the fusion of gametes to form a zygote."
+  },
+  "chunk_id": "std_10_chapter_7_concept_7_chunk_016"
+}

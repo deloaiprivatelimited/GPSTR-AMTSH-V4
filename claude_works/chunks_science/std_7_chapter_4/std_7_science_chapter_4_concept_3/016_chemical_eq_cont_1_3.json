@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ನೆನಪಿಡಿ. ಮೊದಲನೆಯದಾಗಿ, ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲ ಸೇರಿದಾಗ ಲವಣ ಮತ್ತು ನೀರು ಉಂಟಾಗುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಇದು ಒಂದು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ಇದು ಒಂದು ಉಷ್ಣಕ್ಷೇಪಕ ಕ್ರಿಯೆಯಾಗಿದ್ದು, ಇದರಲ್ಲಿ ಶಾಖವು ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ನೆನಪಿಡಿ.",
+  "display_bullets": [
+    "ಆಮ್ಲ + ಪ್ರತ್ಯಾಮ್ಲ → ಲವಣ + ನೀರು",
+    "ಇದು ಒಂದು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ (Neutralization Reaction).",
+    "ಇದು ಒಂದು ಉಷ್ಣಕ್ಷೇಪಕ ಕ್ರಿಯೆ (Exothermic Reaction)."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "classic_dark",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_7_science_chapter_4_concept_3_chunk_016"
+}

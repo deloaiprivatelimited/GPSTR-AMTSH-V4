@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1",
+  "script": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, AB ಯು ಚಿಕ್ಕ ವೃತ್ತ C2 ಗೆ P ಬಿಂದುವಿನಲ್ಲಿ ಸ್ಪರ್ಶಕವಾಗಿದೆ ಮತ್ತು OP ಯು ಅದೇ ವೃತ್ತದ ತ್ರಿಜ್ಯವಾಗಿದೆ. ನಾವು ಪ್ರಮೇಯ 10.1 ರಲ್ಲಿ ಕಲಿತಂತೆ, ಸ್ಪರ್ಶ ಬಿಂದುವಿನಲ್ಲಿ ತ್ರಿಜ್ಯವು ಸ್ಪರ್ಶಕಕ್ಕೆ ಲಂಬವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, OP ಯು AB ಗೆ ಲಂಬವಾಗಿರುತ್ತದೆ. ಇದನ್ನು ನಾವು OP ಲಂಬ AB ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇದು ನಮ್ಮ ಸಾಧನೆಯ ಮೊದಲ ಪ್ರಮುಖ ಹಂತವಾಗಿದೆ.",
+  "script_display": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, $AB$ ಯು ಚಿಕ್ಕ ವೃತ್ತ $C_2$ ಗೆ $P$ ಬಿಂದುವಿನಲ್ಲಿ ಸ್ಪರ್ಶಕವಾಗಿದೆ ಮತ್ತು $OP$ ಯು ಅದೇ ವೃತ್ತದ ತ್ರಿಜ್ಯವಾಗಿದೆ. ನಾವು ಪ್ರಮೇಯ 10.1 ರಲ್ಲಿ ಕಲಿತಂತೆ, ಸ್ಪರ್ಶ ಬಿಂದುವಿನಲ್ಲಿ ತ್ರಿಜ್ಯವು ಸ್ಪರ್ಶಕಕ್ಕೆ ಲಂಬವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, $OP$ ಯು $AB$ ಗೆ ಲಂಬವಾಗಿರುತ್ತದೆ. ಇದನ್ನು ನಾವು $OP \\perp AB$ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇದು ನಮ್ಮ ಸಾಧನೆಯ ಮೊದಲ ಪ್ರಮುಖ ಹಂತವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಚಿತ್ರದಂತೆಯೇ, ಆದರೆ ಈಗ O ಮತ್ತು P ನಡುವೆ ತ್ರಿಜ್ಯವನ್ನು ಎಳೆಯಲಾಗಿದೆ ಮತ್ತು P ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬ ಕೋನದ ಚಿಹ್ನೆಯನ್ನು ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "O, P, A, B, C1, C2",
+    "mathematical_significance": "OP ⊥ AB ಸಂಬಂಧವನ್ನು ದೃಶ್ಯೀಕರಿಸಲು. ಇದು ಪ್ರಮೇಯ 10.1 ರ ಅನ್ವಯವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for step 1."
+  },
+  "source_example_id": "GEO-CIR-2_example_4",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$AB$ ಯು $C_2$ ವೃತ್ತಕ್ಕೆ ಸ್ಪರ್ಶಕ ಮತ್ತು $OP$ ತ್ರಿಜ್ಯ.",
+      "justification": "ದತ್ತಾಂಶ ಮತ್ತು ರಚನೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$OP \\perp AB$",
+      "justification": "ಪ್ರಮೇಯ 10.1: ಸ್ಪರ್ಶ ಬಿಂದುವಿನಲ್ಲಿ ತ್ರಿಜ್ಯವು ಸ್ಪರ್ಶಕಕ್ಕೆ ಲಂಬವಾಗಿರುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "GEO-CIR-2_concept_6_chunk_016"
+}

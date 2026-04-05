@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಮರುಚಕ್ರೀಕರಣದ ಮಹತ್ವ",
+  "script": "ಕಾಗದದ ಮರುಚಕ್ರೀಕರಣ ಯಾಕೆ ಇಷ್ಟು ಮುಖ್ಯ? ಏಕೆಂದರೆ ಕಾಗದದ ಮುಖ್ಯ ಮೂಲ ಮರಗಳು. ನಿಮಗೆ ಗೊತ್ತಾ, ಕೇವಲ ಒಂದು ಟನ್, ಅಂದರೆ ಸುಮಾರು ಒಂದು ಸಾವಿರ ಕೆಜಿ, ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಕಾಗದವನ್ನು ತಯಾರಿಸಲು, ಸುಮಾರು ಹದಿನೇಳು ಪೂರ್ಣವಾಗಿ ಬೆಳೆದ ಮರಗಳನ್ನು ಕಡಿಯಬೇಕಾಗುತ್ತದೆ. ಇದು ಒಂದು ದೊಡ್ಡ ಸಂಖ್ಯೆ. ಆದರೆ, ನಾವು ಒಂದು ಟನ್ ಕಾಗದವನ್ನು ಮರುಚಕ್ರೀಕರಣ ಮಾಡಿದರೆ, ಆ ಹದಿನೇಳು ಮರಗಳನ್ನು ನಾವು ಉಳಿಸಬಹುದು. ಇದು ನಮ್ಮ ಅರಣ್ಯಗಳ ಮೇಲೆ ಬೀಳುವ ಒತ್ತಡವನ್ನು ನೇರವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಕಾಗದದ ಮರುಚಕ್ರೀಕರಣ ಯಾಕೆ ಇಷ್ಟು ಮುಖ್ಯ? ಏಕೆಂದರೆ ಕಾಗದದ ಮುಖ್ಯ ಮೂಲ ಮರಗಳು. ನಿಮಗೆ ಗೊತ್ತಾ, ಕೇವಲ 1 ಟನ್ (ಸುಮಾರು 1000 kg) ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಕಾಗದವನ್ನು ತಯಾರಿಸಲು, ಸುಮಾರು 17 ಪೂರ್ಣವಾಗಿ ಬೆಳೆದ ಮರಗಳನ್ನು ಕಡಿಯಬೇಕಾಗುತ್ತದೆ. ಇದು ಒಂದು ದೊಡ್ಡ ಸಂಖ್ಯೆ. ಆದರೆ, ನಾವು 1 ಟನ್ ಕಾಗದವನ್ನು ಮರುಚಕ್ರೀಕರಣ ಮಾಡಿದರೆ, ಆ 17 ಮರಗಳನ್ನು ನಾವು ಉಳಿಸಬಹುದು. ಇದು ನಮ್ಮ ಅರಣ್ಯಗಳ ಮೇಲೆ ಬೀಳುವ ಒತ್ತಡವನ್ನು ನೇರವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "1 ಟನ್ ಹೊಸ ಕಾಗದ ತಯಾರಿಸಲು 17 ಪೂರ್ಣ ಬೆಳೆದ ಮರಗಳು ಬೇಕು.",
+    "1 ಟನ್ ಕಾಗದವನ್ನು ಮರುಚಕ್ರೀಕರಣ ಮಾಡುವುದರಿಂದ ಈ 17 ಮರಗಳನ್ನು ಉಳಿಸಬಹುದು.",
+    "ಇದು ಅರಣ್ಯಗಳ ಮೇಲಿನ ಒತ್ತಡವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple graphic showing '1 ton of recycled paper' with an arrow pointing to an image of '17 saved trees'. The visual should be clear and impactful, with the numbers '1' and '17' clearly visible.",
+    "labels": "Recycled Paper, Saved Trees, Ton, Quantity",
+    "scientific_significance": "Visually represents the direct impact of paper recycling on forest conservation, quantifying the benefit as mentioned in ecological studies.",
+    "placeholder_note": "Image to be generated: 1 ton of paper = 17 trees saved"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_5_concept_5_chunk_008"
+}

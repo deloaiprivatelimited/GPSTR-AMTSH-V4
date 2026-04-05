@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವ್ಯವಕಲನ: ಋಣ ಪೂರ್ಣಾಂಕವನ್ನು ಕಳೆಯುವುದು",
+  "script": "ಮುಂದುವರಿದು, ಒಂದು ಪೂರ್ಣಾಂಕದಿಂದ ಋಣ ಸಂಖ್ಯೆಯನ್ನು ಕಳೆದರೆ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಇದು ಸ್ವಲ್ಪ ವಿಭಿನ್ನವಾಗಿದೆ. ಒಂದು ಪೂರ್ಣಾಂಕದಿಂದ ಋಣ ಸಂಖ್ಯೆಯನ್ನು ಕಳೆಯುವುದು ಎಂದರೆ ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಬಲಕ್ಕೆ ಚಲಿಸುವುದು. ಇದು ಯಾಕೆಂದರೆ, ಎರಡು ಋಣ ಚಿಹ್ನೆಗಳು ಒಟ್ಟಿಗೆ ಬಂದಾಗ, ಅವು ಧನ ಚಿಹ್ನೆಯಾಗುತ್ತವೆ. ಅಂದರೆ, a ಮೈನಸ್ ಮೈನಸ್ b ಎಂಬುದು a ಪ್ಲಸ್ b ಗೆ ಸಮ. ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ: ಒಂದು ಮೈನಸ್ ಮೈನಸ್ ಎರಡು. ಇದರರ್ಥ, ನಾವು ಒಂದರಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಎರಡು ಹೆಜ್ಜೆಗಳನ್ನು ಬಲಕ್ಕೆ ಚಲಿಸಬೇಕು. ಒಂದು, ಎರಡು. ನಾವು ಮೂರಕ್ಕೆ ತಲುಪುತ್ತೇವೆ. ಆದ್ದರಿಂದ, ಒಂದು ಮೈನಸ್ ಮೈನಸ್ ಎರಡು ಸಮ ಮೂರು.",
+  "script_display": "ಮುಂದುವರಿದು, ಒಂದು ಪೂರ್ಣಾಂಕದಿಂದ ಋಣ ಸಂಖ್ಯೆಯನ್ನು ಕಳೆದರೆ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಇದು ಸ್ವಲ್ಪ ವಿಭಿನ್ನವಾಗಿದೆ. ಒಂದು ಪೂರ್ಣಾಂಕದಿಂದ ಋಣ ಸಂಖ್ಯೆಯನ್ನು ಕಳೆಯುವುದು ಎಂದರೆ ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಬಲಕ್ಕೆ ಚಲಿಸುವುದು. ಇದು ಯಾಕೆಂದರೆ, ಎರಡು ಋಣ ಚಿಹ್ನೆಗಳು ಒಟ್ಟಿಗೆ ಬಂದಾಗ, ಅವು ಧನ ಚಿಹ್ನೆಯಾಗುತ್ತವೆ. ಅಂದರೆ, $a - (-b) = a + b$. ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ: $1 - (-2)$. ಇದರರ್ಥ, ನಾವು 1 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ, 2 ಹೆಜ್ಜೆಗಳನ್ನು ಬಲಕ್ಕೆ ಚಲಿಸಬೇಕು. ಒಂದು, ಎರಡು. ನಾವು 3 ಕ್ಕೆ ತಲುಪುತ್ತೇವೆ. ಆದ್ದರಿಂದ, $1 - (-2) = 3$.",
+  "display_bullets": [
+    "ಒಂದು ಪೂರ್ಣಾಂಕದಿಂದ ಋಣ ಸಂಖ್ಯೆಯನ್ನು ಕಳೆಯುವುದು ಎಂದರೆ ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಬಲಕ್ಕೆ ಚಲಿಸುವುದು.",
+    "ಇದು ಎರಡು ಋಣ ಚಿಹ್ನೆಗಳು ಧನ ಚಿಹ್ನೆಯಾಗುವುದಕ್ಕೆ ಸಮ. ಅಂದರೆ, $a - (-b) = a + b$.",
+    "ಉದಾಹರಣೆಗೆ, $1 - (-2)$ ಎಂದರೆ, 1 ರಿಂದ ಪ್ರಾರಂಭಿಸಿ 2 ಹೆಜ್ಜೆ ಬಲಕ್ಕೆ ಚಲಿಸುವುದು. ನಾವು 3 ಕ್ಕೆ ತಲುಪುತ್ತೇವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_text_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line from -5 to 5. An arrow starts at the point '1', moves two units to the right with two distinct hops, and ends at the point '3'. A small callout can show '-(-2)' becomes '+2'. The movement arrow is labeled '+2'.",
+    "labels": "Number line, 1, 3, Rightward movement, Subtracting a negative",
+    "mathematical_significance": "Visually demonstrates the rule that subtracting a negative number is equivalent to adding a positive number, represented by moving right on the number line.",
+    "placeholder_note": "Image to be generated showing subtraction of a negative integer on a number line."
+  },
+  "chunk_id": "NS-INT-1_concept_2_chunk_008"
+}

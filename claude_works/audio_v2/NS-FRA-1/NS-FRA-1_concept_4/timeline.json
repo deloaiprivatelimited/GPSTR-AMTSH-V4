@@ -1,0 +1,155 @@
+{
+  "module_id": "NS-FRA-1_concept_4",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 13,
+  "total_duration": 607.463,
+  "total_duration_formatted": "10:07",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಭಿನ್ನರಾಶಿಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 52.731,
+      "duration": 52.731,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "intro",
+      "start": 53.331,
+      "end": 97.342,
+      "duration": 44.011,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಸಮಛೇದ ಭಿನ್ನರಾಶಿಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "concept_explanation",
+      "start": 97.942,
+      "end": 159.193,
+      "duration": 61.251,
+      "script_words": 92
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳ ಸಂಕಲನ",
+      "type": "concept_explanation",
+      "start": 159.793,
+      "end": 210.484,
+      "duration": 50.691,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳ ಕ್ರಿಯೆ: ಸಾಮಾನ್ಯ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "start": 211.084,
+      "end": 265.575,
+      "duration": 54.491,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_006",
+      "chunk_file": "006_property_cont_0_3.json",
+      "wav_file": "006_property_cont_0_3.wav",
+      "slide_title": "ಐತಿಹಾಸಿಕ ಉಲ್ಲೇಖ: ಬ್ರಹ್ಮಗುಪ್ತ (ಕ್ರಿ.ಶ. 628)",
+      "type": "concept_explanation",
+      "start": 266.175,
+      "end": 317.426,
+      "duration": 51.251,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_007",
+      "chunk_file": "007_example_0.json",
+      "wav_file": "007_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳ ಸಂಕಲನ",
+      "type": "worked_example",
+      "start": 318.026,
+      "end": 342.237,
+      "duration": 24.211,
+      "script_words": 30
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_008",
+      "chunk_file": "008_example_cont_0_1.json",
+      "wav_file": "008_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರದ ಹಂತಗಳು",
+      "type": "worked_example",
+      "start": 342.837,
+      "end": 412.128,
+      "duration": 69.291,
+      "script_words": 86
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_009",
+      "chunk_file": "009_example_cont_0_2.json",
+      "wav_file": "009_example_cont_0_2.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 412.728,
+      "end": 435.659,
+      "duration": 22.931,
+      "script_words": 31
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_010",
+      "chunk_file": "010_example_1.json",
+      "wav_file": "010_example_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಭಿನ್ನರಾಶಿಗಳ ವ್ಯವಕಲನ",
+      "type": "worked_example",
+      "start": 436.259,
+      "end": 459.11,
+      "duration": 22.851,
+      "script_words": 29
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_011",
+      "chunk_file": "011_example_cont_1_1.json",
+      "wav_file": "011_example_cont_1_1.wav",
+      "slide_title": "ಪರಿಹಾರದ ಹಂತಗಳು",
+      "type": "worked_example",
+      "start": 459.71,
+      "end": 540.241,
+      "duration": 80.531,
+      "script_words": 113
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_012",
+      "chunk_file": "012_example_cont_1_2.json",
+      "wav_file": "012_example_cont_1_2.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 540.841,
+      "end": 564.172,
+      "duration": 23.331,
+      "script_words": 28
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_4_chunk_013",
+      "chunk_file": "013_recap_0.json",
+      "wav_file": "013_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಭಿನ್ನರಾಶಿಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "recap",
+      "start": 564.772,
+      "end": 606.863,
+      "duration": 42.091,
+      "script_words": 54
+    }
+  ]
+}

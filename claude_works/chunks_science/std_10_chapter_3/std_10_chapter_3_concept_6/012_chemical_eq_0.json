@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆ: ಸಾಮಾನ್ಯ ಸಮೀಕರಣ",
+  "script": "ಈಗ ನಾವು ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆಯ ಸಾಮಾನ್ಯ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಲೋಹ A ಯು, ಲೋಹ B ಯ ಲವಣ ದ್ರಾವಣದೊಂದಿಗೆ ವರ್ತಿಸಿ, ಲೋಹ A ಯ ಲವಣ ದ್ರಾವಣ ಮತ್ತು ಲೋಹ B ಯನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತದೆ. ಇದು ಒಂದು ಸಾಮಾನ್ಯ ಮಾದರಿಯಾಗಿದ್ದು, ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ ಲೋಹವು ಕಡಿಮೆ ಕ್ರಿಯಾಶೀಲ ಲೋಹವನ್ನು ಹೇಗೆ ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆಯ ಸಾಮಾನ್ಯ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಲೋಹ A ಯು, ಲೋಹ B ಯ ಲವಣ ದ್ರಾವಣದೊಂದಿಗೆ ವರ್ತಿಸಿ, ಲೋಹ A ಯ ಲವಣ ದ್ರಾವಣ ಮತ್ತು ಲೋಹ B ಯನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತದೆ. ಇದು ಒಂದು ಸಾಮಾನ್ಯ ಮಾದರಿಯಾಗಿದ್ದು, ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ ಲೋಹವು ಕಡಿಮೆ ಕ್ರಿಯಾಶೀಲ ಲೋಹವನ್ನು ಹೇಗೆ ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_chemistry_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಲೋಹ A} + \\text{ಲೋಹ B ಯ ಲವಣ ದ್ರಾವಣ} \\rightarrow \\text{ಲೋಹ A ಯ ಲವಣ ದ್ರಾವಣ} + \\text{ಲೋಹ B}",
+    "placeholder_note": "General equation for a displacement reaction."
+  },
+  "chunk_id": "std_10_chapter_3_concept_6_chunk_012"
+}

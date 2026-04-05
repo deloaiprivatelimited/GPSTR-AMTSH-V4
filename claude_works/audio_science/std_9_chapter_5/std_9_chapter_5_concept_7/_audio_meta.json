@@ -1,0 +1,48 @@
+{
+  "module_id": "std_9_chapter_5_concept_7",
+  "chapter_code": "std_9_chapter_5",
+  "voice": "Alnilam",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 3,
+  "ok_count": 3,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:03:37",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "337655e8640bbfa6aef8064dc29e277e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 34.731,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 51,
+      "generated_at": "2026-04-02 16:03:12"
+    },
+    "003_recap_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "d24da8cffce066d11bb15e9ec43e768f",
+      "wav_file": "003_recap_0.wav",
+      "duration": 44.291,
+      "slide_title": "ಸಾರಾಂಶ: ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ಜೀವಕೋಶಗಳ ಹೋಲಿಕೆ",
+      "type": "recap",
+      "script_words": 65,
+      "generated_at": "2026-04-02 16:03:14"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "4e522db14b909ce95b4a94f20afcad9b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 63.611,
+      "slide_title": "ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ಜೀವಕೋಶಗಳ ಹೋಲಿಕೆ",
+      "type": "chunk",
+      "script_words": 95,
+      "generated_at": "2026-04-02 16:03:37"
+    }
+  }
+}

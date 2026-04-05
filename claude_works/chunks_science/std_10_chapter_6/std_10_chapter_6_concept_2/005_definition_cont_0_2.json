@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಬಿಸಿ ವಸ್ತುವನ್ನು ಮುಟ್ಟುವುದು",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನೀವು ಆಕಸ್ಮಿಕವಾಗಿ ಬಿಸಿಯಾದ ಪಾತ್ರೆಯನ್ನು ಮುಟ್ಟಿದ್ದೀರಿ ಎಂದು ಭಾವಿಸಿ. ತಕ್ಷಣವೇ, ನೀವು ಯೋಚಿಸುವ ಮೊದಲೇ ನಿಮ್ಮ ಕೈಯನ್ನು ಹಿಂದಕ್ಕೆ ಎಳೆಯುತ್ತೀರಿ. ಇದೇ ಪರಾವರ್ತಿತ ಕ್ರಿಯೆ. ಇಲ್ಲಿ, ಬಿಸಿಯಾದ ಪಾತ್ರೆಯು ಒಂದು ಪ್ರಚೋದನೆ. ನಿಮ್ಮ ಕೈಯನ್ನು ತಕ್ಷಣವೇ ಹಿಂದಕ್ಕೆ ಎಳೆದುಕೊಳ್ಳುವುದು ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ. ಈ ಸಂಪೂರ್ಣ ಪ್ರಕ್ರಿಯೆಯು ನಮ್ಮ ಅರಿವಿಗೆ ಬರುವ ಮುನ್ನವೇ ನಡೆದುಹೋಗುತ್ತದೆ. ಇದು ನಮ್ಮ ದೇಹವನ್ನು ತೀವ್ರವಾದ ಹಾನಿಯಿಂದ ರಕ್ಷಿಸುವ ಒಂದು ಸ್ವಾಭಾವಿಕ ಮತ್ತು ಸ್ವಯಂಚಾಲಿತ ರಕ್ಷಣಾ ವ್ಯವಸ್ಥೆಯಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನೀವು ಆಕಸ್ಮಿಕವಾಗಿ ಬಿಸಿಯಾದ ಪಾತ್ರೆಯನ್ನು ಮುಟ್ಟಿದ್ದೀರಿ ಎಂದು ಭಾವಿಸಿ. ತಕ್ಷಣವೇ, ನೀವು ಯೋಚಿಸುವ ಮೊದಲೇ ನಿಮ್ಮ ಕೈಯನ್ನು ಹಿಂದಕ್ಕೆ ಎಳೆಯುತ್ತೀರಿ. ಇದೇ ಪರಾವರ್ತಿತ ಕ್ರಿಯೆ.",
+  "display_bullets": [
+    "ಪ್ರಚೋದನೆ: ಬಿಸಿ ವಸ್ತುವಿನ ಸ್ಪರ್ಶ",
+    "ಪ್ರತಿಕ್ರಿಯೆ: ತಕ್ಷಣ ಕೈಯನ್ನು ಹಿಂದಕ್ಕೆ ಎಳೆಯುವುದು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a hand quickly pulling away from a hot red pot on a stove. A 'zap' or 'spark' icon near the point of contact indicates the stimulus. An arrow shows the rapid withdrawal motion of the hand.",
+    "labels": "ಬಿಸಿ ಪಾತ್ರೆ (ಪ್ರಚೋದನೆ), ಕೈ ಹಿಂದಕ್ಕೆ ಎಳೆಯುವುದು (ಪ್ರತಿಕ್ರಿಯೆ)",
+    "scientific_significance": "Illustrates a classic example of a reflex action, where an external stimulus (heat) triggers an immediate, involuntary motor response to prevent tissue damage.",
+    "placeholder_note": "Image to be generated showing a hand pulling away from a hot pot."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_6_concept_2_chunk_005"
+}

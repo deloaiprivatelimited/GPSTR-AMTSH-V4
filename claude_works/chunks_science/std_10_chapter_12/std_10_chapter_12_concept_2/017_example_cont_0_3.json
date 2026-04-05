@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 12.1: ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ ಹೀಗಿದೆ. ವಿದ್ಯುತ್ ಪ್ರವಾಹವು ಪೂರ್ವದಿಂದ ಪಶ್ಚಿಮಕ್ಕೆ ಹರಿಯುವಾಗ, ತಂತಿಯ ಕೆಳಗೆ ಕಾಂತಕ್ಷೇತ್ರದ ದಿಕ್ಕು ದಕ್ಷಿಣದ ಕಡೆಗೂ ಮತ್ತು ತಂತಿಯ ಮೇಲೆ ಉತ್ತರದ ಕಡೆಗೂ ಇರುತ್ತದೆ. ಬಲಗೈ ಹೆಬ್ಬೆರಳ ನಿಯಮವನ್ನು ಸರಿಯಾಗಿ ಅನ್ವಯಿಸುವುದರಿಂದ ಈ ಉತ್ತರವನ್ನು ಸುಲಭವಾಗಿ ಪಡೆಯಬಹುದು.",
+  "script_display": "ತಂತಿಯ ಕೆಳಗೆ ಕಾಂತಕ್ಷೇತ್ರದ ದಿಕ್ಕು ದಕ್ಷಿಣದ ಕಡೆಗೂ ಮತ್ತು ತಂತಿಯ ಮೇಲೆ ಉತ್ತರದ ಕಡೆಗೂ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ತಂತಿಯ ಕೆಳಗೆ: ಕಾಂತಕ್ಷೇತ್ರದ ದಿಕ್ಕು ದಕ್ಷಿಣ.",
+    "ತಂತಿಯ ಮೇಲೆ: ಕಾಂತಕ್ಷೇತ್ರದ ದಿಕ್ಕು ಉತ್ತರ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_12_example_12.1",
+  "final_answer": "ತಂತಿಯ ಕೆಳಗೆ ಕಾಂತಕ್ಷೇತ್ರದ ದಿಕ್ಕು ದಕ್ಷಿಣದ ಕಡೆಗೂ ಮತ್ತು ತಂತಿಯ ಮೇಲೆ ಉತ್ತರದ ಕಡೆಗೂ ಇರುತ್ತದೆ.",
+  "final_answer_display": "ತಂತಿಯ ಕೆಳಗೆ ಕಾಂತಕ್ಷೇತ್ರದ ದಿಕ್ಕು ದಕ್ಷಿಣದ ಕಡೆಗೂ ಮತ್ತು ತಂತಿಯ ಮೇಲೆ ಉತ್ತರದ ಕಡೆಗೂ ಇರುತ್ತದೆ.",
+  "chunk_id": "std_10_chapter_12_concept_2_chunk_017"
+}

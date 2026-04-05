@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಗಾಣಿಕೆಯ ಎರಡು ಮುಖ್ಯ ಕಾರ್ಯಗಳು",
+  "script": "ಪರಿಚಲನಾವ್ಯೂಹದ ಸಾಗಾಣಿಕಾ ಕೆಲಸದಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಪಾತ್ರಗಳಿವೆ. ಒಂದೆಡೆ, ಇದು ಅಗತ್ಯ ವಸ್ತುಗಳನ್ನು ತಲುಪಿಸುವ ಸೇವೆಯಾಗಿದೆ. ಇದು ಶ್ವಾಸಕೋಶಗಳಿಂದ ಆಮ್ಲಜನಕವನ್ನು ಮತ್ತು ಜೀರ್ಣವಾದ ಆಹಾರದಿಂದ ಪೋಷಕಾಂಶಗಳನ್ನು ದೇಹದ ಎಲ್ಲಾ ಜೀವಕೋಶಗಳಿಗೆ ತಲುಪಿಸುತ್ತದೆ. ಮತ್ತೊಂದೆಡೆ, ಇದು ತ್ಯಾಜ್ಯ ಸಂಗ್ರಹಣಾ ಸೇವೆಯಾಗಿಯೂ ಕೆಲಸ ಮಾಡುತ್ತದೆ. ಇದು ಜೀವಕೋಶಗಳಿಂದ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್‌ನಂತಹ ತ್ಯಾಜ್ಯ ವಸ್ತುಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ, ಅವುಗಳನ್ನು ದೇಹದಿಂದ ಹೊರಹಾಕಲು ಶ್ವಾಸಕೋಶ ಮತ್ತು ಮೂತ್ರಪಿಂಡಗಳಿಗೆ ಸಾಗಿಸುತ್ತದೆ. ಹೀಗೆ, ಇದು ಒಳ್ಳೆಯದನ್ನು ತಲುಪಿಸಿ, ಕೆಟ್ಟದ್ದನ್ನು ಹೊರಹಾಕುತ್ತದೆ.",
+  "script_display": "ಪರಿಚಲನಾವ್ಯೂಹದ ಸಾಗಾಣಿಕಾ ಕೆಲಸದಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಪಾತ್ರಗಳಿವೆ: ಒಳ್ಳೆಯ ವಸ್ತುಗಳನ್ನು ತಲುಪಿಸುವುದು ಮತ್ತು ಕೆಟ್ಟ ವಸ್ತುಗಳನ್ನು ಹೊರಹಾಕುವುದು.",
+  "display_bullets": [
+    "**ತಲುಪಿಸುವುದು (Delivery):** ಆಮ್ಲಜನಕ (O₂) ಮತ್ತು ಪೋಷಕಾಂಶಗಳನ್ನು ಜೀವಕೋಶಗಳಿಗೆ ಸಾಗಿಸುವುದು.",
+    "**ಸಂಗ್ರಹಿಸುವುದು (Collection):** ಜೀವಕೋಶಗಳಿಂದ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಮತ್ತು ಇತರ ತ್ಯಾಜ್ಯಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದು."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen visual. Left side titled 'ತಲುಪಿಸುವುದು' shows icons for Oxygen (O₂) and Nutrients (a fruit icon) moving towards a cell. Right side titled 'ಸಂಗ್ರಹಿಸುವುದು' shows icons for Carbon Dioxide (CO₂) and Waste (a trash bin icon) moving away from the cell.",
+    "labels": "Delivery, Collection, Oxygen, Nutrients, Carbon Dioxide, Waste, Cell",
+    "scientific_significance": "Visually separates the two primary functions of the circulatory system: delivering essential substances and removing waste products.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_7_chapter_7_concept_1_chunk_004"
+}

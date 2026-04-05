@@ -1,0 +1,90 @@
+{
+  "module_id": "std_6_chapter_9_concept_7",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 322.757,
+  "total_duration_formatted": "5:22",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_9_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸೋಸುವಿಕೆ (Filtration)",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 58.051,
+      "duration": 58.051,
+      "script_words": 83
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ (Prerequisites)",
+      "type": "chunk",
+      "start": 58.651,
+      "end": 93.342,
+      "duration": 34.691,
+      "script_words": 39
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_7_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ಸೋಸುವಿಕೆ (Filtration) ಎಂದರೇನು?",
+      "type": "definition",
+      "start": 93.942,
+      "end": 137.313,
+      "duration": 43.371,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_7_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಸೋಸುವಿಕೆ: ಒಂದು ಉದಾಹರಣೆ",
+      "type": "definition",
+      "start": 137.913,
+      "end": 181.204,
+      "duration": 43.291,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_7_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಕರಗುವ vs ಕರಗದ ವಸ್ತುಗಳು",
+      "type": "definition",
+      "start": 181.804,
+      "end": 224.295,
+      "duration": 42.491,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_7_chunk_006",
+      "chunk_file": "006_property_0.json",
+      "wav_file": "006_property_0.wav",
+      "slide_title": "ಸೋಸುವಿಕೆಯ ತತ್ವ",
+      "type": "concept_explanation",
+      "start": 224.895,
+      "end": 283.106,
+      "duration": 58.211,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_7_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 283.706,
+      "end": 322.157,
+      "duration": 38.451,
+      "script_words": 49
+    }
+  ]
+}

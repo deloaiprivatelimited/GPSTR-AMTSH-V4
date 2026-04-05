@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು ಎಡಭಾಗದಿಂದ, ಅಂದರೆ ಎಲ್ ಎಚ್ ಎಸ್ ನಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಬಲಭಾಗಕ್ಕೆ, ಅಂದರೆ ಆರ್ ಎಚ್ ಎಸ್ ಗೆ ಸಮನಾಗಿದೆ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣವು ಒಂದು ನಿತ್ಯಸಮೀಕರಣವಾಗಿದೆ. ಈ ರೀತಿಯ ಸಂಕೀರ್ಣ ಸಮಸ್ಯೆಗಳಲ್ಲಿ, ಸಾಮಾನ್ಯವಾಗಿ ಸೈನ್ ಮತ್ತು ಕಾಸ್ ಪದಗಳನ್ನು ಟ್ಯಾನ್ ಮತ್ತು ಸೆಕ್ ಪದಗಳಿಗೆ ಪರಿವರ್ತಿಸುವುದು, ದತ್ತ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸರಿಯಾದ ಸ್ಥಳದಲ್ಲಿ ಬಳಸುವುದು, ಮತ್ತು ನಂತರ ಬೀಜಗಣಿತದ ಸೂತ್ರಗಳನ್ನು ಬಳಸಿ ಸರಳೀಕರಿಸುವುದು ಮುಖ್ಯವಾದ ತಂತ್ರಗಳಾಗಿವೆ.",
+  "script_display": "ಹೀಗೆ, ನಾವು ಎಡಭಾಗದಿಂದ, ಅಂದರೆ LHS ನಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಬಲಭಾಗಕ್ಕೆ, ಅಂದರೆ RHS ಗೆ ಸಮನಾಗಿದೆ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣವು ಒಂದು ನಿತ್ಯಸಮೀಕರಣವಾಗಿದೆ. ಈ ರೀತಿಯ ಸಂಕೀರ್ಣ ಸಮಸ್ಯೆಗಳಲ್ಲಿ, ಸಾಮಾನ್ಯವಾಗಿ $\\sin$ ಮತ್ತು $\\cos$ ಪದಗಳನ್ನು $\\tan$ ಮತ್ತು $\\sec$ ಪದಗಳಿಗೆ ಪರಿವರ್ತಿಸುವುದು, ದತ್ತ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸರಿಯಾದ ಸ್ಥಳದಲ್ಲಿ ಬಳಸುವುದು, ಮತ್ತು ನಂತರ ಬೀಜಗಣಿತದ ಸೂತ್ರಗಳನ್ನು ಬಳಸಿ ಸರಳೀಕರಿಸುವುದು ಮುಖ್ಯವಾದ ತಂತ್ರಗಳಾಗಿವೆ.",
+  "display_bullets": [
+    "LHS = $\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1}$",
+    "RHS = $\\frac{1}{\\sec \\theta - \\tan \\theta}$",
+    "ನಾವು LHS = RHS ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}",
+    "placeholder_note": "Final proven identity"
+  },
+  "source_example_id": "TRI-INTRO-1_example_12",
+  "steps": [],
+  "final_answer": "LHS = RHS. ಆದ್ದರಿಂದ ಸಾಧಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "LHS = RHS. ಆದ್ದರಿಂದ ಸಾಧಿಸಲಾಗಿದೆ.",
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_042"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಚಟುವಟಿಕೆ 7.6: ಮಾಡುವ ವಿಧಾನ",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ತೆಗೆದುಕೊಂಡ ಮನಿಪ್ಲಾಂಟ್‌ನ ಕಾಂಡವನ್ನು ಹಲವು ತುಂಡುಗಳಾಗಿ ಕತ್ತರಿಸೋಣ. ಇಲ್ಲಿ ಒಂದು ಮುಖ್ಯವಾದ ಅಂಶವನ್ನು ಗಮನಿಸಬೇಕು. ಪ್ರತಿಯೊಂದು ತುಂಡಿನಲ್ಲಿ ಕನಿಷ್ಠ ಒಂದು ಎಲೆಯಾದರೂ ಇರಬೇಕು. ಎಲೆಗಳು ಸಸ್ಯಕ್ಕೆ ಆಹಾರ ತಯಾರಿಸಲು ಮತ್ತು ಬೆಳೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ. ನಂತರ, ಈ ಕತ್ತರಿಸಿದ ತುಂಡುಗಳ ಒಂದು ತುದಿಯನ್ನು ನೀರು ತುಂಬಿದ ಬೀಕರ್‌ನಲ್ಲಿ ಮುಳುಗಿಸಿಡಬೇಕು. ಕಾಂಡದ ಗಣ್ಣುಗಳು ನೀರಿನ ಸಂಪರ್ಕದಲ್ಲಿರುವುದು ಬಹಳ ಮುಖ್ಯ. ಈಗ ನಾವು ಕೆಲವು ದಿನಗಳವರೆಗೆ ಇದರಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸೋಣ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ತೆಗೆದುಕೊಂಡ ಮನಿಪ್ಲಾಂಟ್‌ನ ಕಾಂಡವನ್ನು ಹಲವು ತುಂಡುಗಳಾಗಿ ಕತ್ತರಿಸೋಣ. ಇಲ್ಲಿ ಒಂದು ಮುಖ್ಯವಾದ ಅಂಶವನ್ನು ಗಮನಿಸಬೇಕು. ಪ್ರತಿಯೊಂದು ತುಂಡಿನಲ್ಲಿ ಕನಿಷ್ಠ ಒಂದು ಎಲೆಯಾದರೂ ಇರಬೇಕು. ಎಲೆಗಳು ಸಸ್ಯಕ್ಕೆ ಆಹಾರ ತಯಾರಿಸಲು ಮತ್ತು ಬೆಳೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ. ನಂತರ, ಈ ಕತ್ತರಿಸಿದ ತುಂಡುಗಳ ಒಂದು ತುದಿಯನ್ನು ನೀರು ತುಂಬಿದ ಬೀಕರ್‌ನಲ್ಲಿ ಮುಳುಗಿಸಿಡಬೇಕು. ಕಾಂಡದ ಗಣ್ಣುಗಳು ನೀರಿನ ಸಂಪರ್ಕದಲ್ಲಿರುವುದು ಬಹಳ ಮುಖ್ಯ. ಈಗ ನಾವು ಕೆಲವು ದಿನಗಳವರೆಗೆ ಇದರಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸೋಣ.",
+  "display_bullets": [
+    "ಮನಿಪ್ಲಾಂಟ್ ಕಾಂಡವನ್ನು ಕನಿಷ್ಠ ಒಂದು ಎಲೆ ಇರುವಂತೆ ತುಂಡುಗಳಾಗಿ ಕತ್ತರಿಸಿ.",
+    "ತುಂಡುಗಳ ಒಂದು ತುದಿಯನ್ನು ನೀರು ತುಂಬಿದ ಬೀಕರ್‌ನಲ್ಲಿ ಮುಳುಗಿಸಿ.",
+    "ಕೆಲವು ದಿನಗಳವರೆಗೆ ಬದಲಾವಣೆಗಳನ್ನು ವೀಕ್ಷಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the two main steps: 1. A hand cutting a money plant stem into pieces, each with a leaf. 2. The stem cuttings being placed inside a beaker of water.",
+    "labels": "ಕಾಂಡದ ತುಂಡು, ಎಲೆ, ಬೀಕರ್, ನೀರು",
+    "scientific_significance": "Illustrates the correct procedure for setting up the vegetative propagation experiment.",
+    "placeholder_note": "Image to be generated showing the procedure."
+  },
+  "chunk_id": "std_10_chapter_7_concept_4_chunk_021"
+}

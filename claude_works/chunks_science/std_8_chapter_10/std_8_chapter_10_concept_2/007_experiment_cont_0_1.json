@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಬೇಕಾಗುವ ಉಪಕರಣಗಳು",
+  "script": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು ನಮಗೆ ಕೇವಲ ಎರಡು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಸಂಪೂರ್ಣವಾಗಿ ಒಣಗಿರುವ ಗಾಜಿನ ಲೋಟ. ಲೋಟವು ಒದ್ದೆಯಾಗಿದ್ದರೆ ಪ್ರಯೋಗದ ಫಲಿತಾಂಶದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದು, ಆದ್ದರಿಂದ ಅದು ಒಣಗಿರಲಿ. ಎರಡನೆಯದಾಗಿ, ನಮಗೆ ಒಂದು ಮೊಬೈಲ್ ಫೋನ್ ಬೇಕು. ಈ ಎರಡು ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ, ಶಬ್ದದ ಪ್ರಸಾರಕ್ಕೆ ಗಾಳಿಯಂತಹ ಮಾಧ್ಯಮವು ಎಷ್ಟು ಮುಖ್ಯ ಎಂಬುದನ್ನು ನಾವು ಪ್ರಾಯೋಗಿಕವಾಗಿ ಪರೀಕ್ಷಿಸಲಿದ್ದೇವೆ. ಈ ಸರಳ ಉಪಕರಣಗಳು ನಮ್ಮ ಪ್ರಯೋಗಕ್ಕೆ ಸಾಕಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು ನಮಗೆ ಕೇವಲ ಎರಡು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಸಂಪೂರ್ಣವಾಗಿ ಒಣಗಿರುವ ಗಾಜಿನ ಲೋಟ. ಲೋಟವು ಒದ್ದೆಯಾಗಿದ್ದರೆ ಪ್ರಯೋಗದ ಫಲಿತಾಂಶದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದು, ಆದ್ದರಿಂದ ಅದು ಒಣಗಿರಲಿ. ಎರಡನೆಯದಾಗಿ, ನಮಗೆ ಒಂದು ಮೊಬೈಲ್ ಫೋನ್ ಬೇಕು. ಈ ಎರಡು ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ, ಶಬ್ದದ ಪ್ರಸಾರಕ್ಕೆ ಗಾಳಿಯಂತಹ ಮಾಧ್ಯಮವು ಎಷ್ಟು ಮುಖ್ಯ ಎಂಬುದನ್ನು ನಾವು ಪ್ರಾಯೋಗಿಕವಾಗಿ ಪರೀಕ್ಷಿಸಲಿದ್ದೇವೆ. ಈ ಸರಳ ಉಪಕರಣಗಳು ನಮ್ಮ ಪ್ರಯೋಗಕ್ಕೆ ಸಾಕಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಗಾಜಿನ ಲೋಟ (ಒಣಗಿರಬೇಕು)",
+    "ಒಂದು ಮೊಬೈಲ್ ಫೋನ್"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A dry glass tumbler and a mobile phone placed side-by-side, representing the materials needed for the experiment.",
+    "labels": "ಗಾಜಿನ ಲೋಟ, ಮೊಬೈಲ್ ಫೋನ್",
+    "scientific_significance": "Shows the simple apparatus required to demonstrate that sound needs a medium for propagation.",
+    "placeholder_note": "Image to be generated showing a glass tumbler and a mobile phone."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_8_chapter_10_concept_2_chunk_007"
+}

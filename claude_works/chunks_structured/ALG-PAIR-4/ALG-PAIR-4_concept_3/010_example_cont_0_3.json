@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ಈ ಸಮೀಕರಣಗಳ ಜೋಡಿಯ ಪರಿಹಾರವೆಂದರೆ x ಈಕ್ವಲ್ಸ್ ನಲವತ್ತೊಂಬತ್ತು ಭಾಗಿಸು ಇಪ್ಪತ್ತೊಂಬತ್ತು ಮತ್ತು y ಈಕ್ವಲ್ಸ್ ಹತ್ತೊಂಬತ್ತು ಭಾಗಿಸು ಇಪ್ಪತ್ತೊಂಬತ್ತು.",
+  "script_display": "ಹೀಗಾಗಿ, ಈ ಸಮೀಕರಣಗಳ ಜೋಡಿಯ ಪರಿಹಾರವೆಂದರೆ $x = \\frac{49}{29}$ ಮತ್ತು $y = \\frac{19}{29}$.",
+  "display_bullets": [
+    "ಪರಿಹಾರ: $x = \\frac{49}{29}, y = \\frac{19}{29}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x = \\frac{49}{29} \\\\ y = \\frac{19}{29}",
+    "placeholder_note": "Display the final answer prominently."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-PAIR-4_example_4",
+  "final_answer": "x = 49/29, y = 19/29",
+  "final_answer_display": "$x = \\frac{49}{29}, y = \\frac{19}{29}$",
+  "chunk_id": "ALG-PAIR-4_concept_3_chunk_010"
+}

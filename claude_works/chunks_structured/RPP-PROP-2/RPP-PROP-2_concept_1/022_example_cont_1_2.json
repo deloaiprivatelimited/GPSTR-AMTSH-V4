@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಲೆಕ್ಕಾಚಾರದ ನಂತರ ನಮಗೆ ಸಿಕ್ಕ ಉತ್ತರವೇನೆಂದರೆ, 15 ಮೀಟರ್ ಉದ್ದದ ನೆರಳನ್ನು ಉಂಟುಮಾಡುವ ಮರದ ಎತ್ತರ 21 ಮೀಟರ್ ಆಗಿದೆ. ನಾವು ವಸ್ತುವಿನ ಎತ್ತರ ಮತ್ತು ಅದರ ನೆರಳಿನ ಉದ್ದದ ನಡುವಿನ ನೇರ ಅನುಪಾತದ ಸಂಬಂಧವನ್ನು ಬಳಸಿಕೊಂಡು ಈ ಉತ್ತರವನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಲೆಕ್ಕಾಚಾರದ ನಂತರ ನಮಗೆ ಸಿಕ್ಕ ಉತ್ತರವೇನೆಂದರೆ, $15$ ಮೀಟರ್ ಉದ್ದದ ನೆರಳನ್ನು ಉಂಟುಮಾಡುವ ಮರದ ಎತ್ತರ $21$ ಮೀಟರ್ ಆಗಿದೆ. ನಾವು ವಸ್ತುವಿನ ಎತ್ತರ ಮತ್ತು ಅದರ ನೆರಳಿನ ಉದ್ದದ ನಡುವಿನ ನೇರ ಅನುಪಾತದ ಸಂಬಂಧವನ್ನು ಬಳಸಿಕೊಂಡು ಈ ಉತ್ತರವನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "15 ಮೀಟರ್ ಉದ್ದದ ನೆರಳನ್ನು ಉಂಟುಮಾಡುವ ಮರದ ಎತ್ತರ 21 ಮೀಟರ್ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "RPP-PROP-2_example_2",
+  "final_answer": "ಮರದ ಎತ್ತರವು 21 ಮೀಟರ್ ಆಗಿದೆ.",
+  "final_answer_display": "ಮರದ ಎತ್ತರವು $21$ ಮೀಟರ್ ಆಗಿದೆ.",
+  "chunk_id": "RPP-PROP-2_concept_1_chunk_022"
+}

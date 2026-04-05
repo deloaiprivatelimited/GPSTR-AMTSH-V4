@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಪಿಷ್ಟದ ಮೇಲೆ ಲಾಲಾರಸದ ಪರಿಣಾಮ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಸರಳವಾದ ಆದರೆ ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಹೆಸರು ಪಿಷ್ಟದ ಮೇಲೆ ಲಾಲಾರಸದ ಪರಿಣಾಮ. ಇದಕ್ಕಾಗಿ ನಮಗೆ ಬೇಕಾದ ಉಪಕರಣಗಳನ್ನು ನೋಡೋಣ. ನಮಗೆ ಎರಡು ಪ್ರನಾಳಗಳು, ಸ್ವಲ್ಪ ಬೇಯಿಸಿದ ಅನ್ನ, ನೀರು, ಅಯೋಡಿನ್ ದ್ರಾವಣ ಮತ್ತು ಒಂದು ಡ್ರಾಪರ್ ಬೇಕಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ನಾವು ನಮ್ಮ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಈ ಪ್ರಯೋಗವು ನಮ್ಮ ಬಾಯಿಯಲ್ಲಿ ಜೀರ್ಣಕ್ರಿಯೆ ಹೇಗೆ ಆರಂಭವಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಸರಳವಾದ ಆದರೆ ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಹೆಸರು: ಪಿಷ್ಟದ ಮೇಲೆ ಲಾಲಾರಸದ ಪರಿಣಾಮ. ಇದಕ್ಕಾಗಿ ನಮಗೆ ಬೇಕಾದ ಉಪಕರಣಗಳನ್ನು ನೋಡೋಣ. ನಮಗೆ ಎರಡು ಪ್ರನಾಳಗಳು, ಸ್ವಲ್ಪ ಬೇಯಿಸಿದ ಅನ್ನ, ನೀರು, ಅಯೋಡಿನ್ ದ್ರಾವಣ ಮತ್ತು ಒಂದು ಡ್ರಾಪರ್ ಬೇಕಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ನಾವು ನಮ್ಮ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಈ ಪ್ರಯೋಗವು ನಮ್ಮ ಬಾಯಿಯಲ್ಲಿ ಜೀರ್ಣಕ್ರಿಯೆ ಹೇಗೆ ಆರಂಭವಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಚಟುವಟಿಕೆಯ ಹೆಸರು: ಪಿಷ್ಟದ ಮೇಲೆ ಲಾಲಾರಸದ ಪರಿಣಾಮ",
+    "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು: ಎರಡು ಪ್ರನಾಳಗಳು, ಬೇಯಿಸಿದ ಅನ್ನ, ನೀರು, ಅಯೋಡಿನ್ ದ್ರಾವಣ, ಡ್ರಾಪರ್."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the starch and saliva experiment. It should include two test tubes, a beaker of boiled rice, a beaker of water, a dropper bottle labeled 'Iodine Solution', and a dropper.",
+    "labels": "ಪ್ರನಾಳಗಳು, ಬೇಯಿಸಿದ ಅನ್ನ, ನೀರು, ಅಯೋಡಿನ್ ದ್ರಾವಣ, ಡ್ರಾಪರ್",
+    "scientific_significance": "Illustrates the materials required to test the action of salivary amylase on starch.",
+    "placeholder_note": "Image to be generated showing the listed lab equipment."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_7_chapter_2_concept_4_chunk_010"
+}

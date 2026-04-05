@@ -1,0 +1,90 @@
+{
+  "module_id": "std_7_chapter_11_concept_1",
+  "chapter_code": "std_7_chapter_11",
+  "voice": "Pulcherrima",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 285.517,
+  "total_duration_formatted": "4:45",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_11_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಬೆಳಕಿನ ಸರಳ ರೇಖಾ ಚಲನೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 47.931,
+      "duration": 47.931,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_1_chunk_002",
+      "chunk_file": "002_experiment_0.json",
+      "wav_file": "002_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ: ಬೆಳಕಿನ ಸರಳ ರೇಖಾ ಚಲನೆ",
+      "type": "experiment_activity",
+      "start": 48.531,
+      "end": 81.382,
+      "duration": 32.851,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_1_chunk_003",
+      "chunk_file": "003_experiment_cont_0_1.json",
+      "wav_file": "003_experiment_cont_0_1.wav",
+      "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "experiment_activity",
+      "start": 81.982,
+      "end": 122.993,
+      "duration": 41.011,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_1_chunk_004",
+      "chunk_file": "004_experiment_cont_0_2.json",
+      "wav_file": "004_experiment_cont_0_2.wav",
+      "slide_title": "ವಿಧಾನ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "experiment_activity",
+      "start": 123.593,
+      "end": 163.324,
+      "duration": 39.731,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_1_chunk_005",
+      "chunk_file": "005_experiment_cont_0_3.json",
+      "wav_file": "005_experiment_cont_0_3.wav",
+      "slide_title": "ವಿಧಾನ: ಹಂತ 3",
+      "type": "experiment_activity",
+      "start": 163.924,
+      "end": 204.455,
+      "duration": 40.531,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_1_chunk_006",
+      "chunk_file": "006_experiment_cont_0_4.json",
+      "wav_file": "006_experiment_cont_0_4.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "start": 205.055,
+      "end": 247.666,
+      "duration": 42.611,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_1_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 248.266,
+      "end": 284.917,
+      "duration": 36.651,
+      "script_words": 44
+    }
+  ]
+}

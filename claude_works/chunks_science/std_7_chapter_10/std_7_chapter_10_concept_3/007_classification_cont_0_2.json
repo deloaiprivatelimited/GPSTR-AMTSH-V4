@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾಂದ್ರ ಪ್ರತಿದೀಪ್ತ ದೀಪ (CFL)",
+  "script": "ಮುಂದೆ, ಸಾಂದ್ರ ಪ್ರತಿದೀಪ್ತ ದೀಪ ಅಥವಾ ಸಿ ಎಫ್ ಎಲ್ ಬಗ್ಗೆ ನೋಡೋಣ. ಇವು ತಾಪದೀಪ್ತ ಬಲ್ಬ್‌ಗಳಿಗಿಂತ ಹೆಚ್ಚು ದಕ್ಷತೆಯನ್ನು ಹೊಂದಿವೆ, ಅಂದರೆ ಕಡಿಮೆ ವಿದ್ಯುತ್ ಬಳಸುತ್ತವೆ. ಆದರೆ, ಸಿ ಎಫ್ ಎಲ್ ಗಳಲ್ಲಿ ಒಂದು ಗಂಭೀರ ಸಮಸ್ಯೆಯಿದೆ. ಈ ದೀಪಗಳ ಟ್ಯೂಬ್ ಒಳಗೆ ವಿಷಕಾರಿ ಪಾದರಸದ ಆವಿ ಇರುತ್ತದೆ. ಒಂದು ವೇಳೆ ಸಿ ಎಫ್ ಎಲ್ ಒಡೆದು ಹೋದರೆ, ಪಾದರಸ ಪರಿಸರಕ್ಕೆ ಸೇರಿಕೊಳ್ಳುವ ಅಪಾಯವಿದೆ. ಆದ್ದರಿಂದ, ಇವುಗಳನ್ನು ವಿಲೇವಾರಿ ಮಾಡುವಾಗ ಬಹಳ ಜಾಗರೂಕತೆ ವಹಿಸುವುದು ಅತ್ಯಗತ್ಯ.",
+  "script_display": "ಮುಂದೆ, ಸಾಂದ್ರ ಪ್ರತಿದೀಪ್ತ ದೀಪ (Compact Fluorescent Lamp - CFL) ಬಗ್ಗೆ ನೋಡೋಣ.\n\n*   ಇವು ತಾಪದೀಪ್ತ ಬಲ್ಬ್‌ಗಳಿಗಿಂತ ಹೆಚ್ಚು ದಕ್ಷತೆ ಹೊಂದಿವೆ; ಕಡಿಮೆ ವಿದ್ಯುತ್ ಬಳಸುತ್ತವೆ.\n*   ಪ್ರಮುಖ ಅನಾನುಕೂಲ: ಇವು ವಿಷಕಾರಿ ಪಾದರಸದ ಆವಿಯನ್ನು (mercury vapour) ಹೊಂದಿರುತ್ತವೆ.\n*   ಒಡೆದುಹೋದರೆ ಪರಿಸರಕ್ಕೆ ಹಾನಿಕಾರಕ. ಆದ್ದರಿಂದ ಇವುಗಳ ಸುರಕ್ಷಿತ ವಿಲೇವಾರಿ ಅತ್ಯಗತ್ಯ.",
+  "display_bullets": [
+    "ತಾಪದೀಪ್ತ ಬಲ್ಬ್‌ಗಿಂತ ಹೆಚ್ಚು ದಕ್ಷ",
+    "ವಿಷಕಾರಿ ಪಾದರಸದ ಆವಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ",
+    "ಸುರಕ್ಷಿತ ವಿಲೇವಾರಿ ಅತ್ಯಗತ್ಯ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_b",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Image of a typical spiral-shaped Compact Fluorescent Lamp (CFL).",
+    "labels": "Fluorescent tube, Ballast, Base",
+    "scientific_significance": "Shows the distinct shape of a CFL, which contains gas and mercury vapor that produce UV light when excited by electricity. A phosphor coating converts this to visible light.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_10_concept_3_chunk_007"
+}

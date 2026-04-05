@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಪ್ರಯೋಗ ಮತ್ತು ಫಲಿತಾಂಶದ ವೀಕ್ಷಣೆ",
+  "script": "ನಮ್ಮ ಊಹೆ, ಅಂದರೆ 'ನೀರು ಜಾಸ್ತಿಯಾಗಿದೆ' ಎಂಬುದು ಸರಿಯೇ ತಪ್ಪೇ ಎಂದು ತಿಳಿಯಲು ನಾವು ಅದನ್ನು ಪರೀಕ್ಷಿಸಬೇಕು. ಇದನ್ನೇ 'ಪ್ರಯೋಗ' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ನಮ್ಮ ಪ್ರಯೋಗ ಬಹಳ ಸರಳ. ಮುಂದಿನ ಬಾರಿ ಬೇಳೆ ಬೇಯಿಸುವಾಗ, ನಾವು ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ಸ್ವಲ್ಪ ಕಡಿಮೆ ನೀರನ್ನು ಹಾಕುತ್ತೇವೆ. ಇದು ನಮ್ಮ ಪರೀಕ್ಷೆ. ಪ್ರಯೋಗ ಮಾಡಿದ ನಂತರ, ನಾವು ಫಲಿತಾಂಶವನ್ನು ಗಮನಿಸಬೇಕು. ಕಡಿಮೆ ನೀರು ಹಾಕಿದಾಗ ಏನಾಯಿತು? ಆಗಲೂ ಬೇಳೆ ಹೊರಗೆ ಚಿಮ್ಮಿತೇ ಅಥವಾ ಇಲ್ಲವೇ? ಇದನ್ನು ಗಮನಿಸುವುದೇ ಫಲಿತಾಂಶದ ವೀಕ್ಷಣೆ. ಇದು ವೈಜ್ಞಾನಿಕ ವಿಧಾನದ ನಾಲ್ಕನೇ ಮತ್ತು ಐದನೇ ಹಂತಗಳು.",
+  "script_display": "ನಮ್ಮ ಊಹೆ, ಅಂದರೆ 'ನೀರು ಜಾಸ್ತಿಯಾಗಿದೆ' ಎಂಬುದು ಸರಿಯೇ ತಪ್ಪೇ ಎಂದು ತಿಳಿಯಲು ನಾವು ಅದನ್ನು ಪರೀಕ್ಷಿಸಬೇಕು. ಇದನ್ನೇ 'ಪ್ರಯೋಗ' (Experiment) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ನಮ್ಮ ಪ್ರಯೋಗ ಬಹಳ ಸರಳ. ಮುಂದಿನ ಬಾರಿ ಬೇಳೆ ಬೇಯಿಸುವಾಗ, ನಾವು ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ಸ್ವಲ್ಪ ಕಡಿಮೆ ನೀರನ್ನು ಹಾಕುತ್ತೇವೆ. ಇದು ನಮ್ಮ ಪರೀಕ್ಷೆ. ಪ್ರಯೋಗ ಮಾಡಿದ ನಂತರ, ನಾವು ಫಲಿತಾಂಶವನ್ನು ಗಮನಿಸಬೇಕು. ಕಡಿಮೆ ನೀರು ಹಾಕಿದಾಗ ಏನಾಯಿತು? ಆಗಲೂ ಬೇಳೆ ಹೊರಗೆ ಚಿಮ್ಮಿತೇ ಅಥವಾ ಇಲ್ಲವೇ? ಇದನ್ನು ಗಮನಿಸುವುದೇ ಫಲಿತಾಂಶದ ವೀಕ್ಷಣೆ. ಇದು ವೈಜ್ಞಾನಿಕ ವಿಧಾನದ 4ನೇ ಮತ್ತು 5ನೇ ಹಂತಗಳು.",
+  "display_bullets": [
+    "ಹಂತ 4: ಪ್ರಯೋಗ (Experiment) - \"ಮುಂದಿನ ಬಾರಿ, ಕಡಿಮೆ ನೀರು ಹಾಕಿ ಬೇಳೆ ಬೇಯಿಸುವುದು.\"",
+    "ಹಂತ 5: ಫಲಿತಾಂಶವನ್ನು ಗಮನಿಸುವುದು - \"ಈಗಲೂ ಬೇಳೆ ಹೊರಚೆಲ್ಲುತ್ತಿದೆಯೇ?\""
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. Left side: A hand pouring water from a measuring cup into a cooker, with the water level marked 'High'. Right side: A hand pouring water, with the water level marked 'Low'. An arrow points from the 'Low' image to the next step.",
+    "labels": "ಹೆಚ್ಚು ನೀರು, ಕಡಿಮೆ ನೀರು",
+    "scientific_significance": "Visually demonstrates the 'experiment' – changing one variable (water level) to test the hypothesis.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "experiment_activity",
+  "difficulty": "easy",
+  "source_example_id": "std_6_chapter_1_activity_1.1",
+  "chunk_id": "std_6_chapter_1_concept_2_chunk_008"
+}

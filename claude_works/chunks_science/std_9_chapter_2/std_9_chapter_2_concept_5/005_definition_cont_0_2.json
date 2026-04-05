@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ದ್ರಾವಣ vs ನಿಲಂಬಿತ ಮಿಶ್ರಣ",
+  "script": "ನಿಲಂಬಿತ ಮಿಶ್ರಣವನ್ನು ದ್ರಾವಣದೊಂದಿಗೆ ಹೋಲಿಸಿದಾಗ ವ್ಯತ್ಯಾಸ ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ದ್ರಾವಣವು ಒಂದು ಸಮರೂಪ, ಸ್ಥಿರ ಮಿಶ್ರಣವಾಗಿದ್ದು, ಅದರಲ್ಲಿನ ಕಣಗಳು ಕಣ್ಣಿಗೆ ಕಾಣಿಸುವುದಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ನೀರಿನಲ್ಲಿ ಕರಗಿದ ಉಪ್ಪು. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ನಿಲಂಬಿತ ಮಿಶ್ರಣವು ಅಸಮರೂಪ, ಅಸ್ಥಿರ ಮಿಶ್ರಣವಾಗಿದ್ದು, ಅದರಲ್ಲಿನ ಕಣಗಳು ಸ್ಪಷ್ಟವಾಗಿ ಗೋಚರಿಸುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ನೀರಿನಲ್ಲಿರುವ ಮರಳು. ಈ ಹೋಲಿಕೆಯು ನಿಲಂಬಿತ ಮಿಶ್ರಣದ ಸ್ವರೂಪವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ನಿಲಂಬಿತ ಮಿಶ್ರಣವನ್ನು ದ್ರಾವಣದೊಂದಿಗೆ ಹೋಲಿಸಿದಾಗ ವ್ಯತ್ಯಾಸ ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ದ್ರಾವಣವು (Solution) ಒಂದು ಸಮರೂಪ, ಸ್ಥಿರ ಮಿಶ್ರಣವಾಗಿದ್ದು, ಅದರಲ್ಲಿನ ಕಣಗಳು ಕಣ್ಣಿಗೆ ಕಾಣಿಸುವುದಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ನೀರಿನಲ್ಲಿ ಕರಗಿದ ಉಪ್ಪು. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ನಿಲಂಬಿತ ಮಿಶ್ರಣವು (Suspension) ಅಸಮರೂಪ, ಅಸ್ಥಿರ ಮಿಶ್ರಣವಾಗಿದ್ದು, ಅದರಲ್ಲಿನ ಕಣಗಳು ಸ್ಪಷ್ಟವಾಗಿ ಗೋಚರಿಸುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ನೀರಿನಲ್ಲಿರುವ ಮರಳು. ಈ ಹೋಲಿಕೆಯು ನಿಲಂಬಿತ ಮಿಶ್ರಣದ ಸ್ವರೂಪವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ದ್ರಾವಣ (Solution): ಸಮರೂಪ, ಸ್ಥಿರ, ಕಣಗಳು ಕಾಣಿಸುವುದಿಲ್ಲ.",
+    "ನಿಲಂಬಿತ ಮಿಶ್ರಣ (Suspension): ಅಸಮರೂಪ, ಅಸ್ಥಿರ, ಕಣಗಳು ಕಾಣಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. On the left, a beaker labeled 'ದ್ರಾವಣ' with clear salt water. On the right, a beaker labeled 'ನಿಲಂಬಿತ ಮಿಶ್ರಣ' with cloudy sandy water, showing some sand settled at the bottom.",
+    "labels": "ದ್ರಾವಣ (ಸಮರೂಪ), ನಿಲಂಬಿತ ಮಿಶ್ರಣ (ಅಸಮರೂಪ)",
+    "scientific_significance": "Visually contrasts a homogeneous solution with a heterogeneous suspension, highlighting the key differences in appearance and stability.",
+    "placeholder_note": "Image to be generated showing a beaker of solution vs a beaker of suspension."
+  },
+  "sub_type": "split_comparison",
+  "difficulty": "easy",
+  "chunk_id": "std_9_chapter_2_concept_5_chunk_005"
+}

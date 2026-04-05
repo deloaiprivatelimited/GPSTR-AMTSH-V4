@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಮ್ಲ ಮತ್ತು ಲೋಹದ ವರ್ತನೆ: ಸಾಮಾನ್ಯ ಸಮೀಕರಣ",
+  "script": "ಆಮ್ಲಗಳು ಲೋಹಗಳೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ಅವು ಲವಣ ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಅನಿಲವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ. ಇದನ್ನು ನಾವು ಸಾಮಾನ್ಯ ಪದ ಸಮೀಕರಣದ ಮೂಲಕ ಹೀಗೆ ವ್ಯಕ್ತಪಡಿಸಬಹುದು: ಆಮ್ಲ ಪ್ಲಸ್ ಲೋಹ ಗಿವ್ಸ್ ಲವಣ ಪ್ಲಸ್ ಹೈಡ್ರೋಜನ್ ಅನಿಲ.",
+  "script_display": "ಆಮ್ಲಗಳು ಲೋಹಗಳೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ಅವು ಲವಣ ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಅನಿಲವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ. ಇದನ್ನು ನಾವು ಸಾಮಾನ್ಯ ಪದ ಸಮೀಕರಣದ ಮೂಲಕ ಹೀಗೆ ವ್ಯಕ್ತಪಡಿಸಬಹುದು:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "chemistry_green",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಆಮ್ಲ} + \\text{ಲೋಹ} \\rightarrow \\text{ಲವಣ} + \\text{ಹೈಡ್ರೋಜನ್ ಅನಿಲ}",
+    "placeholder_note": "General word equation for the reaction of an acid with a metal."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_003"
+}

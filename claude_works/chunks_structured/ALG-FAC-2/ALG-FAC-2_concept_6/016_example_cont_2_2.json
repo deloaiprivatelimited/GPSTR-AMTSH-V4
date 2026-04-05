@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ಭಾಗಾಕಾರ ಮತ್ತು ಸರಳೀಕರಣ",
+  "script": "ಈಗ ನಾವು ಭಾಗಾಕಾರವನ್ನು ಮಾಡೋಣ. ಭಾಜ್ಯದ ಅಪವರ್ತಿಸಿದ ರೂಪವನ್ನು ಭಾಜಕದಿಂದ ಭಾಗಿಸೋಣ. ಅಂದರೆ, 5z ಇಂಟು z ಮೈನಸ್ 4 ಇಂಟು z ಪ್ಲಸ್ 4 ಅನ್ನು 5z ಇಂಟು z ಪ್ಲಸ್ 4 ರಿಂದ ಭಾಗಿಸಬೇಕು. ಇಲ್ಲಿ, ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡರಲ್ಲೂ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳಿವೆ. 5z ಮತ್ತು 5z ರದ್ದಾಗುತ್ತವೆ. ಹಾಗೆಯೇ, z ಪ್ಲಸ್ 4 ಮತ್ತು z ಪ್ಲಸ್ 4 ಕೂಡ ರದ್ದಾಗುತ್ತವೆ. ಅಂತಿಮವಾಗಿ ನಮಗೆ z ಮೈನಸ್ 4 ಮಾತ್ರ ಉಳಿಯುತ್ತದೆ. ಆದ್ದರಿಂದ, ಭಾಗಲಬ್ಧವು z ಮೈನಸ್ 4 ಆಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಭಾಗಾಕಾರವನ್ನು ಮಾಡೋಣ. ಭಾಜ್ಯದ ಅಪವರ್ತಿಸಿದ ರೂಪವನ್ನು ಭಾಜಕದಿಂದ ಭಾಗಿಸೋಣ. ಅಂದರೆ, $\\frac{5z(z-4)(z+4)}{5z(z+4)}$. ಇಲ್ಲಿ, ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡರಲ್ಲೂ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳಿವೆ. $5z$ ಮತ್ತು $5z$ ರದ್ದಾಗುತ್ತವೆ. ಹಾಗೆಯೇ, $z+4$ ಮತ್ತು $z+4$ ಕೂಡ ರದ್ದಾಗುತ್ತವೆ. ಅಂತಿಮವಾಗಿ ನಮಗೆ $z-4$ ಮಾತ್ರ ಉಳಿಯುತ್ತದೆ. ಆದ್ದರಿಂದ, ಭಾಗಲಬ್ಧವು $z-4$ ಆಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "ALG-FAC-2_example_16",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\frac{z(5z^2 - 80)}{5z(z+4)} = \\frac{5z(z-4)(z+4)}{5z(z+4)}$",
+      "justification": "ಭಾಜ್ಯದ ಅಪವರ್ತಿಸಿದ ರೂಪವನ್ನು ಆದೇಶಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$= (\\frac{\\cancel{5z}}{\\cancel{5z}}) \\times (z-4) \\times (\\frac{\\cancel{z+4}}{\\cancel{z+4}})$",
+      "justification": "ಅಂಶ ಮತ್ತು ಛೇದದಲ್ಲಿರುವ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ರದ್ದುಗೊಳಿಸುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "$= z-4$",
+      "justification": "ಸರಳೀಕರಿಸಿದ ನಂತರ ಉಳಿದಿರುವ ಪದ."
+    }
+  ],
+  "chunk_id": "ALG-FAC-2_concept_6_chunk_016"
+}

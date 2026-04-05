@@ -1,0 +1,90 @@
+{
+  "module_id": "std_9_chapter_6_concept_7",
+  "chapter_code": "std_9_chapter_6",
+  "voice": "Charon",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 337.957,
+  "total_duration_formatted": "5:37",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_6_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಂಕೀರ್ಣ ಶಾಶ್ವತ ಅಂಗಾಂಶ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 51.571,
+      "duration": 51.571,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 52.171,
+      "end": 80.422,
+      "duration": 28.251,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_7_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಸಂಕೀರ್ಣ ಶಾಶ್ವತ ಅಂಗಾಂಶಗಳು: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 81.022,
+      "end": 126.753,
+      "duration": 45.731,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_7_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಕೈಲಂ (Xylem)",
+      "type": "concept_explanation",
+      "start": 127.353,
+      "end": 182.004,
+      "duration": 54.651,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_7_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಫ್ಲೋಯಂ (Phloem)",
+      "type": "concept_explanation",
+      "start": 182.604,
+      "end": 234.615,
+      "duration": 52.011,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_7_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಕೈಲಂ ಮತ್ತು ಫ್ಲೋಯಂ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸಗಳು",
+      "type": "concept_explanation",
+      "start": 235.215,
+      "end": 285.466,
+      "duration": 50.251,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_7_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 286.066,
+      "end": 337.357,
+      "duration": 51.291,
+      "script_words": 61
+    }
+  ]
+}

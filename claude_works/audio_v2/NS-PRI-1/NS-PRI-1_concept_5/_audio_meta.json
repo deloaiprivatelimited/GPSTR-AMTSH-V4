@@ -1,0 +1,158 @@
+{
+  "module_id": "NS-PRI-1_concept_5",
+  "merge_code": "NS-PRI-1",
+  "voice": "Fenrir",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 16:54:59",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "ef5cf64ad493c13da423c33315089ddb",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 38.091,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 48,
+      "generated_at": "2026-03-30 16:52:33"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "785b1187bb15e47f2995c8c306505dcf",
+      "wav_file": "001_intro_0.wav",
+      "duration": 60.131,
+      "slide_title": "ಭಾಜ್ಯತೆಯ ನಿಯಮಗಳು",
+      "type": "intro",
+      "script_words": 86,
+      "generated_at": "2026-03-30 16:52:51"
+    },
+    "005_property_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "da24cf86dbc50df476f89ace323542d4",
+      "wav_file": "005_property_cont_1_1.wav",
+      "duration": 53.331,
+      "slide_title": "3ರ ಭಾಜ್ಯತೆಯ ನಿಯಮ",
+      "type": "concept_explanation",
+      "script_words": 69,
+      "generated_at": "2026-03-30 16:53:03"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "3c06af44d0cd276e97fe5f08b093a2c7",
+      "wav_file": "003_property_0.wav",
+      "duration": 90.491,
+      "slide_title": "2, 5, ಮತ್ತು 10ರ ಭಾಜ್ಯತೆಯ ನಿಯಮಗಳು",
+      "type": "concept_explanation",
+      "script_words": 116,
+      "generated_at": "2026-03-30 16:53:08"
+    },
+    "004_property_1.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "a3d4aaf096b916f1129833899f980c54",
+      "wav_file": "004_property_1.wav",
+      "duration": 88.011,
+      "slide_title": "4 ಮತ್ತು 8ರ ಭಾಜ್ಯತೆಯ ನಿಯಮಗಳು",
+      "type": "concept_explanation",
+      "script_words": 109,
+      "generated_at": "2026-03-30 16:53:28"
+    },
+    "006_property_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "9670996b93a8183c76e64fd004819c7a",
+      "wav_file": "006_property_cont_1_2.wav",
+      "duration": 42.291,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಸಾಮಾನ್ಯ ಗೊಂದಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-03-30 16:53:42"
+    },
+    "008_property_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "33571ccd656f15f9c451bab23a846bee",
+      "wav_file": "008_property_cont_2_1.wav",
+      "duration": 55.771,
+      "slide_title": "9 ರಿಂದ ಭಾಜ್ಯತೆ",
+      "type": "concept_explanation",
+      "script_words": 81,
+      "generated_at": "2026-03-30 16:53:54"
+    },
+    "009_example_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "de92b69fd84ecaeeef373d7f6623b84d",
+      "wav_file": "009_example_0.wav",
+      "duration": 43.691,
+      "slide_title": "ಬಿಡಿಸಿದ ಉದಾಹರಣೆ: ಭಾಜ್ಯತೆ ಪರೀಕ್ಷೆ",
+      "type": "worked_example",
+      "script_words": 52,
+      "generated_at": "2026-03-30 16:53:57"
+    },
+    "007_property_2.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "0b3df70ea62a312290d65d471fa0e6ad",
+      "wav_file": "007_property_2.wav",
+      "duration": 64.091,
+      "slide_title": "6 ರಿಂದ ಭಾಜ್ಯತೆ",
+      "type": "concept_explanation",
+      "script_words": 92,
+      "generated_at": "2026-03-30 16:54:00"
+    },
+    "010_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "6bc35cb0c768f619a6cff7186a637495",
+      "wav_file": "010_example_cont_0_1.wav",
+      "duration": 58.851,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1-3 (10, 5, ಮತ್ತು 2ರ ಭಾಜ್ಯತೆ)",
+      "type": "worked_example",
+      "script_words": 87,
+      "generated_at": "2026-03-30 16:54:20"
+    },
+    "012_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "708f81bc0a24c30d01f8fe217196a782",
+      "wav_file": "012_example_cont_0_3.wav",
+      "duration": 43.531,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "script_words": 58,
+      "generated_at": "2026-03-30 16:54:38"
+    },
+    "011_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "820275114fad02775973d41924f66d9c",
+      "wav_file": "011_example_cont_0_2.wav",
+      "duration": 59.731,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 4-5 (4 ಮತ್ತು 8ರ ಭಾಜ್ಯತೆ)",
+      "type": "worked_example",
+      "script_words": 71,
+      "generated_at": "2026-03-30 16:54:54"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "9dfb012119b09b1423d566eba64750a3",
+      "wav_file": "013_recap_0.wav",
+      "duration": 53.131,
+      "slide_title": "ಸಾರಾಂಶ: ಭಾಜ್ಯತೆಯ ನಿಯಮಗಳು",
+      "type": "recap",
+      "script_words": 82,
+      "generated_at": "2026-03-30 16:54:59"
+    }
+  }
+}

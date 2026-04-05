@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಯಮದ ಗಣಿತೀಯ ರೂಪ",
+  "script": "ಈಗ ನಾವು ಗುರುತ್ವ ನಿಯಮದ ಗಣಿತೀಯ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಗುರುತ್ವ ಬಲ F ಎಂಬುದು, F equals G ಗುಣಿಸು ದೊಡ್ಡ M ಮತ್ತು ಸಣ್ಣ m ನ ಗುಣಲಬ್ಧವನ್ನು d ವರ್ಗದಿಂದ ಭಾಗಿಸಿದಾಗ ಸಿಗುವ ಮೌಲ್ಯಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ, F ಎಂದರೆ ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ. M ಮತ್ತು m ಗಳು ಎರಡು ವಸ್ತುಗಳ ರಾಶಿಗಳು. d ಎಂಬುದು ಅವುಗಳ ನಡುವಿನ ಅಂತರ. ಮತ್ತು G ಎಂಬುದು ಒಂದು ಸ್ಥಿರಾಂಕ, ಇದನ್ನು ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಸೂತ್ರವು ಗುರುತ್ವ ಬಲವನ್ನು ನಿಖರವಾಗಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಗುರುತ್ವ ನಿಯಮದ ಗಣಿತೀಯ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಗುರುತ್ವ ಬಲ (F) ವನ್ನು ಈ ಕೆಳಗಿನಂತೆ ವ್ಯಕ್ತಪಡಿಸಬಹುದು:\n\n*   **F**: ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ (Gravitational Force)\n*   **M, m**: ಎರಡು ವಸ್ತುಗಳ ರಾಶಿಗಳು (Masses of the objects)\n*   **d**: ವಸ್ತುಗಳ ಕೇಂದ್ರಗಳ ನಡುವಿನ ಅಂತರ (Distance between centers)\n*   **G**: ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ (Universal Gravitational Constant)",
+  "display_bullets": [
+    "F: ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ (Gravitational Force)",
+    "M, m: ಎರಡು ವಸ್ತುಗಳ ರಾಶಿಗಳು (Masses of the objects)",
+    "d: ವಸ್ತುಗಳ ಕೇಂದ್ರಗಳ ನಡುವಿನ ಅಂತರ (Distance between centers)",
+    "G: ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ (Universal Gravitational Constant)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "physics_dark_blue",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "F = G \\frac{Mm}{d^2}",
+    "placeholder_note": "Display the formula for the Universal Law of Gravitation."
+  },
+  "chunk_id": "std_9_chapter_9_concept_2_chunk_006"
+}

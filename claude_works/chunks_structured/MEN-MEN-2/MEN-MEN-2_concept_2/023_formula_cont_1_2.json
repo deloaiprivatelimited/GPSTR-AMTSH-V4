@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಆಯತ ಘನದ LSA ಸೂತ್ರ",
+  "script": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನಾವು ಪಡೆದ ಎರಡು l h ಕೂಡಿಸು ಎರಡು b h ಎಂಬ ಅಭಿವ್ಯಕ್ತಿಯಿಂದ, ನಾವು ಎರಡು h ಅನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ಹೊರತೆಗೆಯಬಹುದು. ಆಗ ನಮಗೆ ಅಂತಿಮ ಸೂತ್ರ ಸಿಗುತ್ತದೆ. ಆಯತ ಘನದ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ, LSA, ಸಮನಾಗಿದೆ ಎರಡು h ಗುಣಿಸು l ಕೂಡಿಸು b. ಇಲ್ಲಿ l ಎಂಬುದು ಉದ್ದ, b ಎಂಬುದು ಅಗಲ, ಮತ್ತು h ಎಂಬುದು ಎತ್ತರ. ಇನ್ನೊಂದು ರೀತಿಯಲ್ಲಿ ಹೇಳುವುದಾದರೆ, ಎರಡು ಗುಣಿಸು l ಕೂಡಿಸು b ಎಂಬುದು ಆಯತ ಘನದ ಪಾದದ ಸುತ್ತಳತೆಯಾಗಿದೆ. ಆದ್ದರಿಂದ, ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವು ಪಾದದ ಸುತ್ತಳತೆ ಗುಣಿಸು ಎತ್ತರಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನಾವು ಪಡೆದ $2lh + 2bh$ ಎಂಬ ಅಭಿವ್ಯಕ್ತಿಯಿಂದ, ನಾವು $2h$ ಅನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ಹೊರತೆಗೆಯಬಹುದು. ಆಗ ನಮಗೆ ಅಂತಿಮ ಸೂತ್ರ ಸಿಗುತ್ತದೆ. ಆಯತ ಘನದ ಪಾರ್ಶ್ವ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (LSA) ಸೂತ್ರ:",
+  "display_bullets": [
+    "l = ಉದ್ದ (length)",
+    "b = ಅಗಲ (breadth)",
+    "h = ಎತ್ತರ (height)",
+    "ಪರ್ಯಾಯವಾಗಿ: LSA = (ಪಾದದ ಸುತ್ತಳತೆ) × ಎತ್ತರ"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "LSA = 2h(l+b)",
+    "placeholder_note": "Formula for Lateral Surface Area of a Cuboid"
+  },
+  "chunk_id": "MEN-MEN-2_concept_2_chunk_023"
+}

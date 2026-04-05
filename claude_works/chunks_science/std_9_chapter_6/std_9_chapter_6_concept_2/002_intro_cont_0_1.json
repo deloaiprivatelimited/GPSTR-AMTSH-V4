@@ -1,0 +1,30 @@
+{
+  "type": "prerequisites",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+  "script": "ಈ ಪಾಠವನ್ನು ಮುಂದುವರಿಸುವ ಮೊದಲು, ಅಂಗಾಂಶಗಳು ಎಂದರೇನು ಮತ್ತು ಅವುಗಳ ಮೂಲಭೂತ ಪರಿಚಯದ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿದಿರುವುದು ಬಹಳ ಮುಖ್ಯ. ಅಗತ್ಯವಿದ್ದರೆ, ಹಿಂದಿನ ಪಾಠವನ್ನು ಒಮ್ಮೆ ಪುನರಾವರ್ತಿಸಿ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಮುಂದುವರಿಸುವ ಮೊದಲು, ಈ ಕೆಳಗಿನ ಪರಿಕಲ್ಪನೆಯ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿದಿರುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard_bullets",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "prerequisites_display": [
+    "ಅಂಗಾಂಶಗಳು: ಒಂದು ಪರಿಚಯ (std_9_chapter_6_concept_1)"
+  ],
+  "chunk_id": "std_9_chapter_6_concept_2_chunk_002"
+}

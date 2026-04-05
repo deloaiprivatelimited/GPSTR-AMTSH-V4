@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, ಸೈನ್ A ಸಮ ಒಂದು ಬೈ ಮೂರು ಆದರೆ, ಕೋನ A ದ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಪಡೆಯಿರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶವೆಂದರೆ, ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ ಸೈನ್ A ಯ ಬೆಲೆ ಒಂದು ಬೈ ಮೂರು ಆಗಿದೆ. ನಾವು ಕೋನ A ಯ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳನ್ನು, ಅಂದರೆ ಕೋಸೈನ್ A, ಟ್ಯಾಂಜೆಂಟ್ A, ಮತ್ತು ಅವುಗಳ ವ್ಯುತ್ಕ್ರಮಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\\sin A = \\frac{1}{3}$ ಆದರೆ, ಕೋನ A ದ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಪಡೆಯಿರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶವೆಂದರೆ, ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ $\\sin A$ ಯ ಬೆಲೆ $\\frac{1}{3}$ ಆಗಿದೆ. ನಾವು ಕೋನ A ಯ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳನ್ನು, ಅಂದರೆ $\\cos A$, $\\tan A$, ಮತ್ತು ಅವುಗಳ ವ್ಯುತ್ಕ್ರಮಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ $\\sin A = \\frac{1}{3}$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಕೋನ A ಯ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳು"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, } \\sin A = \\frac{1}{3} \\text{ ಆದರೆ, ಕೋನ A ದ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಪಡೆಯಿರಿ.}",
+    "placeholder_note": "Problem statement"
+  },
+  "source_example_id": "TRI-INTRO-1_example_p6",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_067"
+}

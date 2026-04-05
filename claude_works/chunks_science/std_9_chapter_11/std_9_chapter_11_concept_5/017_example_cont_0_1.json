@@ -1,0 +1,50 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಪರಿಹಾರದ ಮೊದಲ ಹಂತವಾಗಿ, ಶಬ್ದವು ಚಲಿಸಿದ ಒಟ್ಟು ದೂರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಶಬ್ದವು ಚಪ್ಪಾಳೆ ಹೊಡೆದ ವ್ಯಕ್ತಿಯಿಂದ ಗುಡ್ಡಕ್ಕೆ ತಲುಪಿ, ಅಲ್ಲಿಂದ ಪ್ರತಿಫಲಿಸಿ ಮತ್ತೆ ಅವನ ಕಿವಿಗೆ ಬೀಳಲು ಒಟ್ಟು 5 ಸೆಕೆಂಡುಗಳನ್ನು ತೆಗೆದುಕೊಂಡಿದೆ. ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಾವು ಬಳಸುವ ಸೂತ್ರ, ದೂರ ಈಕ್ವಲ್ಸ್ ಜವ ಇಂಟು ಕಾಲ. ಇಲ್ಲಿ, ಜವ 346 ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಮತ್ತು ಕಾಲ 5 ಸೆಕೆಂಡುಗಳು. ಆದ್ದರಿಂದ, ಒಟ್ಟು ದೂರ ಡಿ ಈಕ್ವಲ್ಸ್ 346 ಗುಣಿಸು 5, ಅಂದರೆ 1730 ಮೀಟರ್.",
+  "script_display": "ಪರಿಹಾರದ ಮೊದಲ ಹಂತವಾಗಿ, ಶಬ್ದವು ಚಲಿಸಿದ ಒಟ್ಟು ದೂರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಶಬ್ದವು ಚಪ್ಪಾಳೆ ಹೊಡೆದ ವ್ಯಕ್ತಿಯಿಂದ ಗುಡ್ಡಕ್ಕೆ ತಲುಪಿ, ಅಲ್ಲಿಂದ ಪ್ರತಿಫಲಿಸಿ ಮತ್ತೆ ಅವನ ಕಿವಿಗೆ ಬೀಳಲು ಒಟ್ಟು 5 ಸೆಕೆಂಡುಗಳನ್ನು ತೆಗೆದುಕೊಂಡಿದೆ.",
+  "display_bullets": [
+    "ಶಬ್ದವು ಚಲಿಸಿದ ಒಟ್ಟು ದೂರ (2d) = ಜವ × ಕಾಲ",
+    "2d = 346 m/s × 5 s",
+    "2d = 1730 m"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ದೂರ = ಜವ \\times ಕಾಲ",
+    "placeholder_note": "Formula for distance"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_11_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸುವುದು.",
+      "justification": "ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ಬೇಕಾದ ಮಾಹಿತಿ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಶಬ್ದವು ಚಲಿಸಿದ ಒಟ್ಟು ದೂರವನ್ನು (2d) ಲೆಕ್ಕ ಹಾಕುವುದು.",
+      "justification": "ಶಬ್ದವು ಮನುಷ್ಯನಿಂದ ಗುಡ್ಡಕ್ಕೆ ಹೋಗಿ ವಾಪಸ್ ಬರಲು 5 ಸೆಕೆಂಡುಗಳನ್ನು ತೆಗೆದುಕೊಂಡಿದೆ. ದೂರ = ಜವ × ಕಾಲ."
+    }
+  ],
+  "chunk_id": "std_9_chapter_11_concept_5_chunk_017"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಲಂಬದ ಪ್ರಾಮುಖ್ಯತೆ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಕಾಲ್ಪನಿಕ ರೇಖೆಯಾದ ಲಂಬದ ಉಪಯೋಗವೇನು? ಇದರ ಪ್ರಾಮುಖ್ಯತೆ ಏನೆಂದರೆ, ಪ್ರತಿಫಲನದ ನಿಯಮಗಳಲ್ಲಿ ಬರುವ ಪತನ ಕೋನ ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನಗಳನ್ನು ಯಾವಾಗಲೂ ಈ ಲಂಬದ সাপেক্ষে ಅಳೆಯಲಾಗುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನವೇ ಪತನ ಕೋನ 'ಐ'. ಹಾಗೆಯೇ, ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನವೇ ಪ್ರತಿಫಲನ ಕೋನ 'ಆರ್'. ಯಾವುದೇ ಕಾರಣಕ್ಕೂ ಕೋನಗಳನ್ನು ದರ್ಪಣದ ಮೇಲ್ಮೈಯಿಂದ ಅಳೆಯಬಾರದು. ಇದು ಪರೀಕ್ಷೆಯಲ್ಲಿ ಮಾಡುವ ಸಾಮಾನ್ಯ ತಪ್ಪು.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಕಾಲ್ಪನಿಕ ರೇಖೆಯಾದ ಲಂಬದ ಉಪಯೋಗವೇನು? ಪ್ರತಿಫಲನದ ನಿಯಮಗಳಲ್ಲಿ ಬರುವ ಪತನ ಕೋನ (i) ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನ (r) ಗಳನ್ನು ಯಾವಾಗಲೂ ಈ ಲಂಬದ সাপেক্ষে ಅಳೆಯಲಾಗುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ: ಪತನ ಕೋನ (i) = ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನ. ಪ್ರತಿಫಲನ ಕೋನ (r) = ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನ. **ಗಮನಿಸಿ:** ಕೋನಗಳನ್ನು ದರ್ಪಣದ ಮೇಲ್ಮೈಯಿಂದ ಅಳೆಯಬಾರದು.",
+  "display_bullets": [
+    "ಪತನ ಕೋನ (i) ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನ (r) ಗಳನ್ನು ಅಳೆಯಲು ಲಂಬವು ಉಲ್ಲೇಖ ರೇಖೆಯಾಗಿದೆ.",
+    "ಪತನ ಕೋನ (i) = ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನ.",
+    "ಪ್ರತಿಫಲನ ಕೋನ (r) = ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನ.",
+    "ಪ್ರಮುಖ ಎಚ್ಚರಿಕೆ: ಕೋನಗಳನ್ನು ಮೇಲ್ಮೈಯಿಂದ ಅಳೆಯಬಾರದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A complete reflection diagram. A horizontal line for the mirror. A dashed Normal line perpendicular to it. An incident ray coming in and hitting the point of incidence. A reflected ray going out. The angle of incidence 'i' is marked between the incident ray and the Normal. The angle of reflection 'r' is marked between the reflected ray and the Normal. Arrows on rays indicate the direction of light.",
+    "labels": "ಪತನ ಕಿರಣ, ಪ್ರತಿಫಲಿತ ಕಿರಣ, ಲಂಬ, ಪತನ ಕೋನ (i), ಪ್ರತಿಫಲನ ಕೋನ (r), ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈ",
+    "scientific_significance": "This diagram shows the application of the Normal in the Law of Reflection. It visually demonstrates that the angles of incidence and reflection are measured relative to the Normal, not the surface itself, which is a critical point in optics.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "chunk_id": "std_10_chapter_9_concept_1_chunk_013"
+}

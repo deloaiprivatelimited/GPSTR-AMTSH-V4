@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಮತ್ಸ್ಯಾಗಾರ ರಚನೆ",
+  "script": "ಈಗ ನಾವು ಪರಿಸರ ವ್ಯವಸ್ಥೆಯ ಘಟಕಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ನಾವು ನಮ್ಮದೇ ಆದ ಒಂದು ಸಣ್ಣ, ಮಾನವ ನಿರ್ಮಿತ ಪರಿಸರ ವ್ಯವಸ್ಥೆಯನ್ನು ರಚಿಸಲಿದ್ದೇವೆ, ಅದೇ ಮತ್ಸ್ಯಾಗಾರ ಅಥವಾ ಅಕ್ವೇರಿಯಂ. ಇದಕ್ಕಾಗಿ ನಮಗೆ ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳೆಂದರೆ: ಒಂದು ದೊಡ್ಡ ಗಾಜಿನ ತೊಟ್ಟಿ, ಅದನ್ನು ತುಂಬಲು ಶುದ್ಧ ನೀರು, ಮೀನುಗಳಿಗೆ ಆಮ್ಲಜನಕ ಪೂರೈಸಲು ಒಂದು ಆಮ್ಲಜನಕ ಪಂಪ್, ಕೆಲವು ಅಲಂಕಾರಿಕ ಮೀನುಗಳು, ಕೆಲವು ಜಲಸಸ್ಯಗಳು, ಮತ್ತು ಅಂತಿಮವಾಗಿ ಮೀನುಗಳಿಗೆ ಆಹಾರ. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ನಾವು ಈಗ ನಮ್ಮ ಪ್ರಯೋಗದ ಮೇಜಿನ ಮೇಲೆ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡಿದ್ದೇವೆ.",
+  "script_display": "ಈಗ ನಾವು ಪರಿಸರ ವ್ಯವಸ್ಥೆಯ ಘಟಕಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ನಾವು ನಮ್ಮದೇ ಆದ ಒಂದು ಸಣ್ಣ, ಮಾನವ ನಿರ್ಮಿತ ಪರಿಸರ ವ್ಯವಸ್ಥೆಯನ್ನು ರಚಿಸಲಿದ್ದೇವೆ, ಅದೇ ಮತ್ಸ್ಯಾಗಾರ (Aquarium). ಇದಕ್ಕಾಗಿ ನಮಗೆ ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳೆಂದರೆ: ಒಂದು ದೊಡ್ಡ ಗಾಜಿನ ತೊಟ್ಟಿ, ಅದನ್ನು ತುಂಬಲು ಶುದ್ಧ ನೀರು, ಮೀನುಗಳಿಗೆ ಆಮ್ಲಜನಕ ಪೂರೈಸಲು ಒಂದು ಆಮ್ಲಜನಕ ಪಂಪ್, ಕೆಲವು ಅಲಂಕಾರಿಕ ಮೀನುಗಳು, ಕೆಲವು ಜಲಸಸ್ಯಗಳು, ಮತ್ತು ಅಂತಿಮವಾಗಿ ಮೀನುಗಳಿಗೆ ಆಹಾರ. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ನಾವು ಈಗ ನಮ್ಮ ಪ್ರಯೋಗದ ಮೇಜಿನ ಮೇಲೆ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ದೊಡ್ಡ ಗಾಜಿನ ತೊಟ್ಟಿ",
+    "ನೀರು ಮತ್ತು ಆಮ್ಲಜನಕ ಪಂಪ್",
+    "ಮೀನುಗಳು ಮತ್ತು ಜಲಸಸ್ಯಗಳು",
+    "ಮೀನಿನ ಆಹಾರ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the materials for building an aquarium laid out on a table. This includes a large empty glass tank, a water bottle, an air pump with a tube, a small net with cartoonish fish, a couple of aquatic plants, and a small container of fish food.",
+    "labels": "ಗಾಜಿನ ತೊಟ್ಟಿ, ನೀರು, ಆಮ್ಲಜನಕ ಪಂಪ್, ಮೀನುಗಳು, ಜಲಸಸ್ಯಗಳು, ಮೀನಿನ ಆಹಾರ",
+    "scientific_significance": "Illustrates the necessary components, both abiotic and biotic, for creating an artificial ecosystem.",
+    "placeholder_note": "Image to be generated showing all the listed materials for the aquarium experiment."
+  },
+  "sub_type": "experiment_setup",
+  "chunk_id": "std_10_chapter_13_concept_1_chunk_011"
+}

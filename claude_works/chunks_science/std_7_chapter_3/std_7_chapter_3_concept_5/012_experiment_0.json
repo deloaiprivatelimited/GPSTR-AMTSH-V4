@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆ: ದ್ರವಗಳಲ್ಲಿ ಸಂವಹನ",
+  "script": "ನಾವು ದ್ರವಗಳಲ್ಲಿ ಉಷ್ಣವು ಹೇಗೆ ಸಂವಹನಗೊಳ್ಳುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡಲು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಮೊದಲಿಗೆ, ನಮಗೆ ಬೇಕಾದ ಉಪಕರಣಗಳನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ದುಂಡು ತಳದ ಫ್ಲಾಸ್ಕ್, ನೀರು, ಒಂದು ಪೊಟ್ಯಾಸಿಯಮ್ ಪರ್ಮಾಂಗನೇಟ್ ಹರಳು ಮತ್ತು ಕಾಯಿಸಲು ಒಂದು ಬರ್ನರ್ ಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಫ್ಲಾಸ್ಕ್‌ನ ಸುಮಾರು ಮೂರನೇ ಎರಡರಷ್ಟು ಭಾಗಕ್ಕೆ ನೀರನ್ನು ತುಂಬಿಸೋಣ. ನಂತರ, ಪೊಟ್ಯಾಸಿಯಮ್ ಪರ್ಮಾಂಗನೇಟ್‌ನ ಒಂದು ಸಣ್ಣ ಹರಳನ್ನು ನಿಧಾನವಾಗಿ ಫ್ಲಾಸ್ಕ್‌ನ ತಳದಲ್ಲಿ ಇಡೋಣ. ಈಗ ನಮ್ಮ ಪ್ರಯೋಗದ ಸಿದ್ಧತೆ ಪೂರ್ಣಗೊಂಡಿದೆ.",
+  "script_display": "ನಾವು ದ್ರವಗಳಲ್ಲಿ ಉಷ್ಣವು ಹೇಗೆ ಸಂವಹನಗೊಳ್ಳುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡಲು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಮೊದಲಿಗೆ, ನಮಗೆ ಬೇಕಾದ ಉಪಕರಣಗಳನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ದುಂಡು ತಳದ ಫ್ಲಾಸ್ಕ್ (round-bottom flask), ನೀರು, ಒಂದು ಪೊಟ್ಯಾಸಿಯಮ್ ಪರ್ಮಾಂಗನೇಟ್ (Potassium Permanganate) ಹರಳು ಮತ್ತು ಕಾಯಿಸಲು ಒಂದು ಬರ್ನರ್ ಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಫ್ಲಾಸ್ಕ್‌ನ ಸುಮಾರು 2/3 ಭಾಗಕ್ಕೆ ನೀರನ್ನು ತುಂಬಿಸೋಣ. ನಂತರ, ಪೊಟ್ಯಾಸಿಯಮ್ ಪರ್ಮಾಂಗನೇಟ್‌ನ ಒಂದು ಸಣ್ಣ ಹರಳನ್ನು ನಿಧಾನವಾಗಿ ಫ್ಲಾಸ್ಕ್‌ನ ತಳದಲ್ಲಿ ಇಡೋಣ. ಈಗ ನಮ್ಮ ಪ್ರಯೋಗದ ಸಿದ್ಧತೆ ಪೂರ್ಣಗೊಂಡಿದೆ.",
+  "display_bullets": [
+    "ದುಂಡು ತಳದ ಫ್ಲಾಸ್ಕ್ (Round-bottom flask)",
+    "ನೀರು (Water)",
+    "ಪೊಟ್ಯಾಸಿಯಮ್ ಪರ್ಮಾಂಗನೇಟ್ ಹರಳು (Potassium permanganate crystal)",
+    "ಬರ್ನರ್ (Burner)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left_text_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Apparatus setup for convection experiment. A round-bottom flask on a stand, filled two-thirds with water. A single crystal of potassium permanganate is at the bottom. A Bunsen burner is placed underneath the flask, ready to heat.",
+    "labels": "ದುಂಡು ತಳದ ಫ್ಲಾಸ್ಕ್, ನೀರು, ಪೊಟ್ಯಾಸಿಯಮ್ ಪರ್ಮಾಂಗನೇಟ್ ಹರಳು, ಬರ್ನರ್, ಸ್ಟ್ಯಾಂಡ್",
+    "scientific_significance": "Shows the initial setup required to observe convection in liquids. The placement of the heat source and the colored crystal is crucial for visualizing the fluid movement.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_3_concept_5_chunk_012"
+}

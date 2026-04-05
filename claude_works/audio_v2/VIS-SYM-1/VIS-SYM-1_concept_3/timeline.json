@@ -1,0 +1,199 @@
+{
+  "module_id": "VIS-SYM-1_concept_3",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 17,
+  "total_duration": 832.787,
+  "total_duration_formatted": "13:52",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ರೇಖಾ ಮತ್ತು ಭ್ರಮಣ ಸಮಮಿತಿಗಳ ಸಂಯೋಜನೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 59.131,
+      "duration": 59.131,
+      "script_words": 82
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 59.731,
+      "end": 110.102,
+      "duration": 50.371,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_003",
+      "chunk_file": "003_theorem_0.json",
+      "wav_file": "003_theorem_0.wav",
+      "slide_title": "ಪ್ರಮೇಯ: ಬಹು-ರೇಖಾ ಸಮಮಿತಿ ಮತ್ತು ಭ್ರಮಣ ಸಮಮಿತಿ",
+      "type": "definition",
+      "start": 110.702,
+      "end": 155.393,
+      "duration": 44.691,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_004",
+      "chunk_file": "004_theorem_cont_0_1.json",
+      "wav_file": "004_theorem_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ 1: ಚೌಕ",
+      "type": "concept_explanation",
+      "start": 155.993,
+      "end": 206.244,
+      "duration": 50.251,
+      "script_words": 72
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_005",
+      "chunk_file": "005_theorem_cont_0_2.json",
+      "wav_file": "005_theorem_cont_0_2.wav",
+      "slide_title": "ಉದಾಹರಣೆ 2: ಸಮಬಾಹು ತ್ರಿಭುಜ",
+      "type": "concept_explanation",
+      "start": 206.844,
+      "end": 257.015,
+      "duration": 50.171,
+      "script_words": 76
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_006",
+      "chunk_file": "006_theorem_cont_0_3.json",
+      "wav_file": "006_theorem_cont_0_3.wav",
+      "slide_title": "ಪ್ರಮೇಯದ ವಿಲೋಮ: ಇದು ಸತ್ಯವೇ?",
+      "type": "concept_explanation",
+      "start": 257.615,
+      "end": 314.306,
+      "duration": 56.691,
+      "script_words": 80
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_007",
+      "chunk_file": "007_theorem_cont_0_4.json",
+      "wav_file": "007_theorem_cont_0_4.wav",
+      "slide_title": "ಪ್ರಮುಖಾಂಶ ಮತ್ತು ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "key_takeaway",
+      "start": 314.906,
+      "end": 367.917,
+      "duration": 53.011,
+      "script_words": 84
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_008",
+      "chunk_file": "008_property_0.json",
+      "wav_file": "008_property_0.wav",
+      "slide_title": "ಕೇವಲ ರೇಖಾ ಸಮಮಿತಿ ಇರುವ ಆಕೃತಿಗಳು",
+      "type": "concept_explanation",
+      "start": 368.517,
+      "end": 428.208,
+      "duration": 59.691,
+      "script_words": 76
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_009",
+      "chunk_file": "009_property_cont_0_1.json",
+      "wav_file": "009_property_cont_0_1.wav",
+      "slide_title": "ಕೇವಲ ಭ್ರಮಣ ಸಮಮಿತಿ ಇರುವ ಆಕೃತಿಗಳು",
+      "type": "concept_explanation",
+      "start": 428.808,
+      "end": 481.899,
+      "duration": 53.091,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_010",
+      "chunk_file": "010_property_cont_0_2.json",
+      "wav_file": "010_property_cont_0_2.wav",
+      "slide_title": "ಎರಡೂ ಸಮಮಿತಿಗಳನ್ನು ಹೊಂದಿರುವ ಆಕೃತಿಗಳು",
+      "type": "concept_explanation",
+      "start": 482.499,
+      "end": 533.55,
+      "duration": 51.051,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_011",
+      "chunk_file": "011_property_1.json",
+      "wav_file": "011_property_1.wav",
+      "slide_title": "ಯಾವುದೇ ಸಮಮಿತಿ ಇಲ್ಲದ ಆಕೃತಿಗಳು",
+      "type": "concept_explanation",
+      "start": 534.15,
+      "end": 586.601,
+      "duration": 52.451,
+      "script_words": 76
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_012",
+      "chunk_file": "012_property_cont_1_1.json",
+      "wav_file": "012_property_cont_1_1.wav",
+      "slide_title": "ವೃತ್ತದ ವಿಶೇಷ ಗುಣ",
+      "type": "concept_explanation",
+      "start": 587.201,
+      "end": 651.212,
+      "duration": 64.011,
+      "script_words": 91
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_013",
+      "chunk_file": "013_example_0.json",
+      "wav_file": "013_example_0.wav",
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+      "type": "worked_example",
+      "start": 651.812,
+      "end": 671.023,
+      "duration": 19.211,
+      "script_words": 26
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_014",
+      "chunk_file": "014_example_cont_0_1.json",
+      "wav_file": "014_example_cont_0_1.wav",
+      "slide_title": "ಹಂತ ಹಂತದ ಪರಿಹಾರ",
+      "type": "worked_example",
+      "start": 671.623,
+      "end": 718.314,
+      "duration": 46.691,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_015",
+      "chunk_file": "015_example_cont_0_2.json",
+      "wav_file": "015_example_cont_0_2.wav",
+      "slide_title": "ಹಂತ ಹಂತದ ಪರಿಹಾರ (ಮುಂದುವರಿದಿದೆ)",
+      "type": "worked_example",
+      "start": 718.914,
+      "end": 753.565,
+      "duration": 34.651,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_016",
+      "chunk_file": "016_example_cont_0_3.json",
+      "wav_file": "016_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 754.165,
+      "end": 791.936,
+      "duration": 37.771,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "VIS-SYM-1_concept_3_chunk_017",
+      "chunk_file": "017_recap_0.json",
+      "wav_file": "017_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಸಂಯೋಜಿತ ಸಮಮಿತಿ",
+      "type": "recap",
+      "start": 792.536,
+      "end": 832.187,
+      "duration": 39.651,
+      "script_words": 54
+    }
+  ]
+}

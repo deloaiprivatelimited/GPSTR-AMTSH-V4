@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಕಡಿಮೆ ಪಾರ vs. ಹೆಚ್ಚು ಪಾರ",
+  "script": "ಈಗ ಪಾರದ ವ್ಯತ್ಯಾಸದಿಂದ ಶಬ್ದದ ಘೋಷವು ಹೇಗೆ ಬದಲಾಗುತ್ತದೆ ಎಂದು ಹೋಲಿಸಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಕಡಿಮೆ ಪಾರದ ತರಂಗವಿದೆ. ಇದು ಕಡಿಮೆ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ ಮತ್ತು ಮೃದುವಾದ ಶಬ್ದವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ಪಿಸುಮಾತನಾಡಿದಾಗ ಉಂಟಾಗುವ ಶಬ್ದದ ಪಾರ ಕಡಿಮೆ ಇರುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿ ಹೆಚ್ಚು ಪಾರದ ತರಂಗವಿದೆ. ಇದು ಹೆಚ್ಚು ಶಕ್ತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ ಮತ್ತು ಗಟ್ಟಿಯಾದ ಅಥವಾ ಕರ್ಕಶವಾದ ಶಬ್ದವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಸಿಂಹದ ಘರ್ಜನೆ ಅಥವಾ ಗುಡುಗಿನ ಶಬ್ದದ ಪಾರವು ತುಂಬಾ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಪಾರವು ಶಬ್ದದ ಘೋಷವನ್ನು ನೇರವಾಗಿ ನಿರ್ಧರಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಪಾರದ ವ್ಯತ್ಯಾಸದಿಂದ ಶಬ್ದದ ಘೋಷವು (Loudness) ಹೇಗೆ ಬದಲಾಗುತ್ತದೆ ಎಂದು ಹೋಲಿಸಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಕಡಿಮೆ ಪಾರದ ತರಂಗವಿದೆ. ಇದು ಕಡಿಮೆ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ ಮತ್ತು ಮೃದುವಾದ ಶಬ್ದವನ್ನು (Soft Sound) ಉಂಟುಮಾಡುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ಪಿಸುಮಾತನಾಡಿದಾಗ ಉಂಟಾಗುವ ಶಬ್ದದ ಪಾರ ಕಡಿಮೆ ಇರುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿ ಹೆಚ್ಚು ಪಾರದ ತರಂಗವಿದೆ. ಇದು ಹೆಚ್ಚು ಶಕ್ತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ ಮತ್ತು ಗಟ್ಟಿಯಾದ ಶಬ್ದವನ್ನು (Loud Sound) ಉಂಟುಮಾಡುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಸಿಂಹದ ಘರ್ಜನೆ ಅಥವಾ ಗುಡುಗಿನ ಶಬ್ದದ ಪಾರವು ತುಂಬಾ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಪಾರವು ಶಬ್ದದ ಘೋಷವನ್ನು ನೇರವಾಗಿ ನಿರ್ಧರಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "full",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen comparison. The left side is titled 'ಕಡಿಮೆ ಪಾರ (ಮೃದು ಶಬ್ದ)' and shows a sine wave with a low amplitude. Below it, an icon or simple drawing of a person whispering. The right side is titled 'ಹೆಚ್ಚು ಪಾರ (ಗಟ್ಟಿ ಶಬ್ದ)' and shows a sine wave with a high amplitude. Below it, an icon or simple drawing of a roaring lion.",
+    "labels": "ಕಡಿಮೆ ಪಾರ, ಹೆಚ್ಚು ಪಾರ, ಮೃದು ಶಬ್ದ, ಗಟ್ಟಿ ಶಬ್ದ, ಕಡಿಮೆ ಶಕ್ತಿ, ಹೆಚ್ಚು ಶಕ್ತಿ",
+    "scientific_significance": "This comparative visualization directly links the physical property of amplitude to the perceptual quality of loudness, using concrete examples (whisper vs. roar) to make the concept intuitive and memorable.",
+    "placeholder_note": "Image to be generated showing a side-by-side comparison of low and high amplitude waves with corresponding examples."
+  },
+  "chunk_id": "std_8_chapter_10_concept_4_chunk_005"
+}

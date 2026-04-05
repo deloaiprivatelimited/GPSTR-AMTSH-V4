@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ನಾವು ಸಂಕ್ಷೇಪಿಸಿದಾಗ ಸಿಕ್ಕ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ಒಮ್ಮೆ ನೋಡೋಣ. ಮೊದಲನೆಯದರ ಉತ್ತರ ಎರಡು. ಎರಡನೆಯದರ ಉತ್ತರ ಮೂರರ ಘಾತ ಐದನೇ ನಾಲ್ಕು. ಮೂರನೆಯದರ ಉತ್ತರ ಏಳರ ಘಾತ ಹದಿನೈದನೇ ಮೈನಸ್ ಎರಡು. ಮತ್ತು ನಾಲ್ಕನೆಯದರ ಉತ್ತರ ಇನ್ನೂರ ಇಪ್ಪತ್ತೊಂದರ ಘಾತ ಐದನೇ ಒಂದು. ಈ ಉದಾಹರಣೆಯಲ್ಲಿ, ನಾವು ಘಾತಾಂಕಗಳ ವಿಭಿನ್ನ ನಿಯಮಗಳನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂದು ನೋಡಿದ್ದೇವೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ನಾವು ಸಂಕ್ಷೇಪಿಸಿದಾಗ ಸಿಕ್ಕ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ಒಮ್ಮೆ ನೋಡೋಣ. ಈ ಉದಾಹರಣೆಯಲ್ಲಿ, ನಾವು ಘಾತಾಂಕಗಳ ವಿಭಿನ್ನ ನಿಯಮಗಳನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂದು ನೋಡಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "(i) ಉತ್ತರ: 2",
+    "(ii) ಉತ್ತರ: $3^{\\frac{4}{5}}$",
+    "(iii) ಉತ್ತರ: $7^{\\frac{-2}{15}}$",
+    "(iv) ಉತ್ತರ: $(221)^{\\frac{1}{5}}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-SYS-3_example_20",
+  "steps": [],
+  "final_answer": "(i) 2\n(ii) $3^{\\frac{4}{5}}$\n(iii) $7^{\\frac{-2}{15}}$\n(iv) $(221)^{\\frac{1}{5}}$",
+  "final_answer_display": "(i) 2<br>(ii) $3^{\\frac{4}{5}}$<br>(iii) $7^{\\frac{-2}{15}}$<br>(iv) $(221)^{\\frac{1}{5}}$",
+  "chunk_id": "NS-SYS-3_concept_6_chunk_043"
+}

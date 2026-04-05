@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ತಾಳೆ ಗುರುತು ಕೋಷ್ಟಕ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿನ ಸಮಸ್ಯೆ, ನೀಡಲಾದ ತಾಳೆ ಗುರುತು ಕೋಷ್ಟಕವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು. ನಮಗೆ ಸಿಹಿತಿಂಡಿಗಳು ಮತ್ತು ಅವುಗಳ ತಾಳೆ ಗುರುತುಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಪ್ರತಿ ಸಿಹಿತಿಂಡಿಯನ್ನು ಇಷ್ಟಪಡುವ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿನ ಸಮಸ್ಯೆ, ನೀಡಲಾದ ತಾಳೆ ಗುರುತು ಕೋಷ್ಟಕವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು. ನಮಗೆ ಸಿಹಿತಿಂಡಿಗಳು ಮತ್ತು ಅವುಗಳ ತಾಳೆ ಗುರುತುಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಪ್ರತಿ ಸಿಹಿತಿಂಡಿಯನ್ನು ಇಷ್ಟಪಡುವ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "**ಸಮಸ್ಯೆ:** ನೀಡಲಾದ ತಾಳೆ ಗುರುತು ಕೋಷ್ಟಕವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ.",
+    "**ನೀಡಲಾಗಿದೆ:** ಸಿಹಿತಿಂಡಿಗಳು ಮತ್ತು ಅವುಗಳ ತಾಳೆ ಗುರುತುಗಳು.",
+    "**ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು:** ಪ್ರತಿ ಸಿಹಿತಿಂಡಿಯನ್ನು ಇಷ್ಟಪಡುವ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A table with three columns: Sweets, Tally Marks, and Number of Students. The first two columns are filled, the last one is empty with question marks, representing the problem to be solved."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "DATA-BAS-1_example_1",
+  "chunk_id": "DATA-BAS-1_concept_1_chunk_017"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಪರಿಹಾರದ ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ವಸ್ತುವನ್ನು ಎತ್ತಲು ಬೇಕಾದ ಬಲವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಬೇಕು. ವಸ್ತುವನ್ನು ಗುರುತ್ವಾಕರ್ಷಣೆಯ ವಿರುದ್ಧ ಎತ್ತಲು, ನಾವು ಅದರ ತೂಕಕ್ಕೆ ಸಮನಾದ ಕನಿಷ್ಠ ಬಲವನ್ನು ಪ್ರಯೋಗಿಸಬೇಕು. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಈ ಬಲವನ್ನು ಲೆಕ್ಕ ಹಾಕೋಣ. ಬಲದ ಸೂತ್ರ F equals m times g. ಇಲ್ಲಿ ರಾಶಿ m 15 kg ಮತ್ತು ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ g 10 ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್ ಆಗಿದೆ. ಹಾಗಾಗಿ, ಬಲ F equals 15 ಗುಣಿಸು 10, ಅಂದರೆ 150 ನ್ಯೂಟನ್ ಆಗುತ್ತದೆ.",
+  "script_display": "**ಹಂತ 1: ವಸ್ತುವನ್ನು ಎತ್ತಲು ಬೇಕಾದ ಬಲವನ್ನು (F) ಗುರುತಿಸುವುದು.**\nವಸ್ತುವನ್ನು ಮೇಲೆತ್ತಲು ಅದರ ತೂಕಕ್ಕೆ (mg) ಸಮನಾದ ಕನಿಷ್ಠ ಬಲವನ್ನು ಪ್ರಯೋಗಿಸಬೇಕು.\n\n**ಹಂತ 2: ಬಲವನ್ನು (F) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.**\nಸೂತ್ರ: F = mg\nF = 15 kg × 10 ms⁻²\nF = 150 N",
+  "display_bullets": [
+    "ಹಂತ 1: ವಸ್ತುವನ್ನು ಎತ್ತಲು ಬೇಕಾದ ಬಲವನ್ನು (F) ಗುರುತಿಸಿ. ಇದು ವಸ್ತುವಿನ ತೂಕಕ್ಕೆ (mg) ಸಮ.",
+    "ಹಂತ 2: ಬಲವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ: F = mg",
+    "F = 15 kg × 10 ms⁻² = 150 N"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_step_walkthrough_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "F = m \\times g",
+    "placeholder_note": "Formula for Force"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_10_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸುವುದು.",
+      "justification": "ರಾಶಿ (m) ಮತ್ತು ಎತ್ತರ (h) ಅಥವಾ ಸ್ಥಾನಪಲ್ಲಟ (s) ನೀಡಲಾಗಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ವಸ್ತುವನ್ನು ಎತ್ತಲು ಬೇಕಾದ ಬಲವನ್ನು (F) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+      "justification": "ವಸ್ತುವನ್ನು ಮೇಲೆತ್ತಲು ಅದರ ತೂಕಕ್ಕೆ (mg) ಸಮನಾದ ಕನಿಷ್ಠ ಬಲವನ್ನು ಪ್ರಯೋಗಿಸಬೇಕು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_10_concept_2_chunk_019"
+}

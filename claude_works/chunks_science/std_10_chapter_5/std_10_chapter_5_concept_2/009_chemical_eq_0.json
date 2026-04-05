@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ಸಮೀಕರಣ",
+  "script": "ಈಗ ನಾವು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ಸಮತೋಲಿತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಆರು ಅಣು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ಹನ್ನೆರಡು ಅಣು ನೀರು, ಸೂರ್ಯನ ಬೆಳಕು ಮತ್ತು ಕ್ಲೋರೋಫಿಲ್ ನ ಸಹಾಯದಿಂದ, ಒಂದು ಅಣು ಗ್ಲುಕೋಸ್, ಆರು ಅಣು ಆಮ್ಲಜನಕ ಮತ್ತು ಆರು ಅಣು ನೀರನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ.",
+  "script_display": "ಈಗ ನಾವು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ಸಮತೋಲಿತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. 6 ಅಣು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಮತ್ತು 12 ಅಣು ನೀರು (H₂O), ಸೂರ್ಯನ ಬೆಳಕು ಮತ್ತು ಕ್ಲೋರೋಫಿಲ್‌ನ ಸಹಾಯದಿಂದ, 1 ಅಣು ಗ್ಲುಕೋಸ್ (C₆H₁₂O₆), 6 ಅಣು ಆಮ್ಲಜನಕ (O₂) ಮತ್ತು 6 ಅಣು ನೀರನ್ನು (H₂O) ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "6\\text{CO}_2\\text{(aq)} + 12\\text{H}_2\\text{O(l)} \\xrightarrow{\\text{ಸೌರಬೆಳಕು, ಕ್ಲೋರೋಫಿಲ್}} \\text{C}_6\\text{H}_{12}\\text{O}_6\\text{(aq)} + 6\\text{O}_2\\text{(g)} + 6\\text{H}_2\\text{O(l)}",
+    "placeholder_note": "Balanced chemical equation for photosynthesis"
+  },
+  "chunk_id": "std_10_chapter_5_concept_2_chunk_009"
+}

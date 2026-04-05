@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದೃಶ್ಯ ವಿವರಣೆ: ಚಲನೆಯ ಜಡತ್ವ",
+  "script": "ಈ ಚಿತ್ರವು ಚಲನೆಯ ಜಡತ್ವವನ್ನು ತೋರಿಸುತ್ತದೆ. ಬಸ್ಸು ಚಲನೆಯಲ್ಲಿರುವಾಗ, ಪ್ರಯಾಣಿಕನ ಇಡೀ ದೇಹವು ಬಸ್ಸಿನ ಜೊತೆ ಚಲಿಸುತ್ತಿರುತ್ತದೆ. ಚಾಲಕನು ಬ್ರೇಕ್ ಹಾಕಿದಾಗ, ಬಸ್ಸು ನಿಲ್ಲುತ್ತದೆ. ಪ್ರಯಾಣಿಕನ ಪಾದಗಳು ನೆಲದ ಸಂಪರ್ಕದಿಂದಾಗಿ ತಕ್ಷಣ ನಿಲ್ಲುತ್ತವೆ. ಆದರೆ, ಅವನ ದೇಹದ ಮೇಲ್ಭಾಗವು ತನ್ನ ಚಲನೆಯನ್ನು ಮುಂದುವರಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ. ಇದರಿಂದಾಗಿ ಅವನು ಮುಂದಕ್ಕೆ ಬೀಳುವಂತೆ ಆಗುತ್ತದೆ. ಅಪಘಾತದ ಸಂದರ್ಭದಲ್ಲಿ ಸೀಟ್ ಬೆಲ್ಟ್ ನಮ್ಮನ್ನು ಮುಂದಕ್ಕೆ ಹೋಗದಂತೆ ತಡೆದು, ಗಾಯಗಳಿಂದ ರಕ್ಷಿಸುತ್ತದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವು ಚಲನೆಯ ಜಡತ್ವವನ್ನು ತೋರಿಸುತ್ತದೆ. ಬಸ್ಸು ಚಲನೆಯಲ್ಲಿರುವಾಗ, ಪ್ರಯಾಣಿಕನ ಇಡೀ ದೇಹವು ಬಸ್ಸಿನ ಜೊತೆ ಚಲಿಸುತ್ತಿರುತ್ತದೆ. ಚಾಲಕನು ಬ್ರೇಕ್ ಹಾಕಿದಾಗ, ಬಸ್ಸು ನಿಲ್ಲುತ್ತದೆ. ಪ್ರಯಾಣಿಕನ ಪಾದಗಳು ತಕ್ಷಣ ನಿಲ್ಲುತ್ತವೆ. ಆದರೆ, ಅವನ ದೇಹದ ಮೇಲ್ಭಾಗವು ತನ್ನ ಚಲನೆಯನ್ನು ಮುಂದುವರಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ. ಇದರಿಂದಾಗಿ ಅವನು ಮುಂದಕ್ಕೆ ಬೀಳುವಂತೆ ಆಗುತ್ತದೆ. ಸೀಟ್ ಬೆಲ್ಟ್ ಈ ಪರಿಣಾಮವನ್ನು ತಡೆಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪ್ರಯಾಣಿಕನ ಪಾದಗಳು ಬಸ್ಸಿನೊಂದಿಗೆ ನಿಲ್ಲುತ್ತವೆ.",
+    "ದೇಹದ ಮೇಲ್ಭಾಗವು ಚಲನೆಯನ್ನು ಮುಂದುವರಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ.",
+    "ಸೀಟ್ ಬೆಲ್ಟ್ ನಮ್ಮನ್ನು ಮುಂದಕ್ಕೆ ಹೋಗುವುದರಿಂದ ರಕ್ಷಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-panel diagram. Panel 1: A person standing inside a moving bus. Panel 2: The bus suddenly stops (indicated by brake marks/lines). The person's feet stop with the bus, but their upper body lurches forward due to inertia.",
+    "labels": "ಬಸ್ಸು ಚಲನೆಯಲ್ಲಿದೆ (Bus in motion), ಬಸ್ಸು ನಿಲ್ಲುತ್ತದೆ (Bus stops), ಜಡತ್ವದ ಪರಿಣಾಮ (Effect of inertia)",
+    "scientific_significance": "Visually demonstrates the concept of inertia of motion, where the upper body resists the change in state from motion to rest.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_8_concept_2_chunk_015"
+}

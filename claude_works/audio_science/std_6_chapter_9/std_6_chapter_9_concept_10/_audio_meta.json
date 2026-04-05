@@ -1,0 +1,92 @@
+{
+  "module_id": "std_6_chapter_9_concept_10",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Autonoe",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:09:01",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "9b2e761d16acd6a7e56fe774207f6ba9",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.771,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 36,
+      "generated_at": "2026-04-02 13:07:47"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "ef3b52ccc6d369e2cd10375a8694dfbf",
+      "wav_file": "003_definition_0.wav",
+      "duration": 43.811,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಕಡೆಯುವಿಕೆ (Churning)",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:08:02"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "f2aea1db9d9cfab127e3d869439baac5",
+      "wav_file": "001_intro_0.wav",
+      "duration": 44.531,
+      "slide_title": "ಕಡೆಯುವಿಕೆ (Churning)",
+      "type": "intro",
+      "script_words": 63,
+      "generated_at": "2026-04-02 13:08:05"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "5eab249e366f471dcbc5741b55e0abab",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 47.251,
+      "slide_title": "ಉದಾಹರಣೆ: ಮೊಸರಿನಿಂದ ಬೆಣ್ಣೆ",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:08:36"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "f788f84820de6d43617a334aeef5cb0c",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 57.171,
+      "slide_title": "ಹೋಲಿಕೆ: ಯಾವಾಗ ಬಳಸಬೇಕು?",
+      "type": "definition",
+      "script_words": 69,
+      "generated_at": "2026-04-02 13:08:37"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "95e5480c36530e5734adff6caee3e769",
+      "wav_file": "007_recap_0.wav",
+      "duration": 33.011,
+      "slide_title": "ಸಾರಾಂಶ (Recap)",
+      "type": "recap",
+      "script_words": 44,
+      "generated_at": "2026-04-02 13:08:52"
+    },
+    "006_property_0.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "7b3bbe07c90c8f815310ff843301b63f",
+      "wav_file": "006_property_0.wav",
+      "duration": 50.091,
+      "slide_title": "ಕಡೆಯುವಿಕೆ: ತತ್ವ",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 13:09:01"
+    }
+  }
+}

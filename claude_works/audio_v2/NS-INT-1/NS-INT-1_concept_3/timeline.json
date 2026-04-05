@@ -1,0 +1,177 @@
+{
+  "module_id": "NS-INT-1_concept_3",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 15,
+  "total_duration": 714.405,
+  "total_duration_formatted": "11:54",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪೂರ್ಣಾಂಕಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 55.171,
+      "duration": 55.171,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 55.771,
+      "end": 83.582,
+      "duration": 27.811,
+      "script_words": 37
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಸಂಕಲನದ ನಿಯಮಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "start": 84.182,
+      "end": 133.753,
+      "duration": 49.571,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಸಂಕಲನದ ನಿಯಮಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "start": 134.353,
+      "end": 175.244,
+      "duration": 40.891,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಸಂಕಲನದ ನಿಯಮಗಳು: ಭಾಗ 3",
+      "type": "concept_explanation",
+      "start": 175.844,
+      "end": 223.855,
+      "duration": 48.011,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_006",
+      "chunk_file": "006_property_cont_0_3.json",
+      "wav_file": "006_property_cont_0_3.wav",
+      "slide_title": "ವ್ಯವಕಲನದ ನಿಯಮಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "start": 224.455,
+      "end": 267.186,
+      "duration": 42.731,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_007",
+      "chunk_file": "007_property_cont_0_4.json",
+      "wav_file": "007_property_cont_0_4.wav",
+      "slide_title": "ವ್ಯವಕಲನದ ನಿಯಮಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "start": 267.786,
+      "end": 288.157,
+      "duration": 20.371,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_008",
+      "chunk_file": "008_property_cont_0_5.json",
+      "wav_file": "008_property_cont_0_5.wav",
+      "slide_title": "ಟೋಕನ್ ಮಾದರಿ: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 288.757,
+      "end": 333.608,
+      "duration": 44.851,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_009",
+      "chunk_file": "009_property_cont_0_6.json",
+      "wav_file": "009_property_cont_0_6.wav",
+      "slide_title": "ಟೋಕನ್ ಮಾದರಿ: ಸಂಕಲನ",
+      "type": "concept_explanation",
+      "start": 334.208,
+      "end": 388.859,
+      "duration": 54.651,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_010",
+      "chunk_file": "010_property_cont_0_7.json",
+      "wav_file": "010_property_cont_0_7.wav",
+      "slide_title": "ಟೋಕನ್ ಮಾದರಿ: ವ್ಯವಕಲನ",
+      "type": "concept_explanation",
+      "start": 389.459,
+      "end": 435.91,
+      "duration": 46.451,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_011",
+      "chunk_file": "011_example_0.json",
+      "wav_file": "011_example_0.wav",
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಸಮಸ್ಯೆ",
+      "type": "worked_example",
+      "start": 436.51,
+      "end": 483.001,
+      "duration": 46.491,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_012",
+      "chunk_file": "012_example_cont_0_1.json",
+      "wav_file": "012_example_cont_0_1.wav",
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ರಾಧಿಕಾಳ ಲೆಕ್ಕಾಚಾರ",
+      "type": "worked_example",
+      "start": 483.601,
+      "end": 551.812,
+      "duration": 68.211,
+      "script_words": 98
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_013",
+      "chunk_file": "013_example_cont_0_2.json",
+      "wav_file": "013_example_cont_0_2.wav",
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಜಯ್‌ನ ಲೆಕ್ಕಾಚಾರ",
+      "type": "worked_example",
+      "start": 552.412,
+      "end": 604.703,
+      "duration": 52.291,
+      "script_words": 86
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_014",
+      "chunk_file": "014_example_cont_0_3.json",
+      "wav_file": "014_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "start": 605.303,
+      "end": 659.674,
+      "duration": 54.371,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_3_chunk_015",
+      "chunk_file": "015_recap_0.json",
+      "wav_file": "015_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಪೂರ್ಣಾಂಕಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "recap",
+      "start": 660.274,
+      "end": 713.805,
+      "duration": 53.531,
+      "script_words": 82
+    }
+  ]
+}

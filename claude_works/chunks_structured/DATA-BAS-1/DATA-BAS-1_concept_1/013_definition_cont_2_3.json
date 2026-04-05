@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ತಾಳೆ ಗುರುತುಗಳನ್ನು ಬಳಸುವುದು ಹೇಗೆ?",
+  "script": "ಆವೃತ್ತಿ ಕೋಷ್ಟಕವನ್ನು ರಚಿಸುವಾಗ ತಾಳೆ ಗುರುತುಗಳು ಬಹಳ ಮುಖ್ಯ. ಇವುಗಳನ್ನು ಬಳಸಿ ಎಣಿಕೆ ಮಾಡುವುದು ಸುಲಭ. ಮೊದಲ ನಾಲ್ಕು ಮೌಲ್ಯಗಳಿಗೆ, ನಾವು ಒಂದು, ಎರಡು, ಮೂರು, ನಾಲ್ಕು ಹೀಗೆ ನಾಲ್ಕು ಲಂಬ ರೇಖೆಗಳನ್ನು ಎಳೆಯುತ್ತೇವೆ. ಐದನೇ ಮೌಲ್ಯ ಬಂದಾಗ, ಆ ನಾಲ್ಕು ರೇಖೆಗಳನ್ನು ಅಡ್ಡಲಾಗಿ ಒಂದು ರೇಖೆಯಿಂದ ಕತ್ತರಿಸುತ್ತೇವೆ. ಇದು ಐದರ ಒಂದು ಗುಂಪನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಇದು ಎಣಿಕೆಯನ್ನು ವೇಗವಾಗಿ ಮತ್ತು ದೋಷಗಳಿಲ್ಲದೆ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಏಳು ಎಂದು ಗುರುತಿಸಲು, ನಾವು ಐದರ ಒಂದು ಗುಂಪು ಮತ್ತು ಎರಡು ಪ್ರತ್ಯೇಕ ರೇಖೆಗಳನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ಆವೃತ್ತಿ ಕೋಷ್ಟಕವನ್ನು ರಚಿಸುವಾಗ ತಾಳೆ ಗುರುತುಗಳು ಬಹಳ ಮುಖ್ಯ. ಇವುಗಳನ್ನು ಬಳಸಿ ಎಣಿಕೆ ಮಾಡುವುದು ಸುಲಭ. ಮೊದಲ ನಾಲ್ಕು ಮೌಲ್ಯಗಳಿಗೆ, ನಾವು $I, II, III, IIII$ ಹೀಗೆ ನಾಲ್ಕು ಲಂಬ ರೇಖೆಗಳನ್ನು ಎಳೆಯುತ್ತೇವೆ. ಐದನೇ ಮೌಲ್ಯ ಬಂದಾಗ, ಆ ನಾಲ್ಕು ರೇಖೆಗಳನ್ನು ಅಡ್ಡಲಾಗಿ ಒಂದು ರೇಖೆಯಿಂದ ಕತ್ತರಿಸುತ್ತೇವೆ ($~~IIII~~$). ಇದು 5ರ ಒಂದು ಗುಂಪನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಇದು ಎಣಿಕೆಯನ್ನು ವೇಗವಾಗಿ ಮತ್ತು ದೋಷಗಳಿಲ್ಲದೆ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, 7 ಎಂದು ಗುರುತಿಸಲು, ನಾವು 5ರ ಒಂದು ಗುಂಪು ಮತ್ತು 2 ಪ್ರತ್ಯೇಕ ರೇಖೆಗಳನ್ನು ಬಳಸುತ್ತೇವೆ ($~~IIII~~$ $II$).",
+  "display_bullets": [
+    "ಮೊದಲ ನಾಲ್ಕು ಆವೃತ್ತಿಗಳಿಗೆ ನಾಲ್ಕು ಲಂಬ ರೇಖೆಗಳನ್ನು ($I, II, III, IIII$) ಎಳೆಯಿರಿ.",
+    "ಐದನೇ ಆವೃತ್ತಿಗೆ, ಹಿಂದಿನ ನಾಲ್ಕು ರೇಖೆಗಳನ್ನು ಅಡ್ಡಲಾಗಿ ಕತ್ತರಿಸಿ ($~~IIII~~$). ಇದು 5ರ ಒಂದು ಗುಂಪನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+    "ಈ ವಿಧಾನವು ದೊಡ್ಡ ಸಂಖ್ಯೆಯ ದತ್ತಾಂಶವನ್ನು ಎಣಿಸಲು ಸುಲಭ ಮತ್ತು ನಿಖರವಾಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_left_text",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A sequence of images showing the creation of tally marks. 1 is 'I'. 2 is 'II'. 3 is 'III'. 4 is 'IIII'. 5 is a diagonal line crossing the four vertical lines. The number 7 is shown as one group of 5 and two single lines: ~~IIII~~ II.",
+    "labels": "1, 2, 3, 4, 5, 7",
+    "mathematical_significance": "Illustrates the standard convention for using tally marks, which groups data into sets of five for easier counting.",
+    "placeholder_note": "Image to be generated showing tally mark progression for numbers 1 through 5, and then an example for number 7."
+  },
+  "chunk_id": "DATA-BAS-1_concept_1_chunk_013"
+}

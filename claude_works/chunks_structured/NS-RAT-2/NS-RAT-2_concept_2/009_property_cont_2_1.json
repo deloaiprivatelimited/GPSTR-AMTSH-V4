@@ -1,0 +1,42 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಛೇದಗಳನ್ನು ಸಮಾನಗೊಳಿಸುವುದು",
+  "script": "ಒಂದು ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಾವು ಒಂದನೇ ನಾಲ್ಕು ಮತ್ತು ಒಂದನೇ ಎರಡು ನಡುವೆ ಮೂರು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮ್ಮ ಮೊದಲ ಹಂತವೆಂದರೆ ಛೇದಗಳನ್ನು ಸಮಾನಗೊಳಿಸುವುದು. ಇಲ್ಲಿ ಛೇದಗಳು ನಾಲ್ಕು ಮತ್ತು ಎರಡು. ಇವುಗಳ ಲಾಸಅ, ಅಂದರೆ ಲಘುತ್ತಮ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ, ನಾಲ್ಕು ಆಗಿದೆ. ಆದ್ದರಿಂದ, ನಾವು ಒಂದನೇ ಎರಡನ್ನು ನಾಲ್ಕರ ಛೇದಕ್ಕೆ ಪರಿವರ್ತಿಸೋಣ. ಇದಕ್ಕಾಗಿ ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ ಎರಡನೇ ನಾಲ್ಕು ಸಿಗುತ್ತದೆ. ಈಗ ನಮ್ಮ ಸಂಖ್ಯೆಗಳು ಒಂದನೇ ನಾಲ್ಕು ಮತ್ತು ಎರಡನೇ ನಾಲ್ಕು.",
+  "script_display": "ನಾವು $\\frac{1}{4}$ ಮತ್ತು $\\frac{1}{2}$ ನಡುವೆ ಮೂರು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "worked_example",
+  "difficulty": "medium",
+  "source_example_id": "NS-RAT-2_prop_3_ex_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಹಂತ 1: ಛೇದಗಳನ್ನು ಸಮಾನಗೊಳಿಸಿ (ಲ.ಸಾ.ಅ ಬಳಸಿ).",
+      "justification": "ಇಲ್ಲಿ ಛೇದಗಳು 4 ಮತ್ತು 2. ಲ.ಸಾ.ಅ = 4. ಆದ್ದರಿಂದ, $\\frac{1}{2}$ ನ್ನು ಪರಿವರ್ತಿಸೋಣ. <br> $\\frac{1}{2} = \\frac{1 \\times 2}{2 \\times 2} = \\frac{2}{4}$"
+    },
+    {
+      "step": 2,
+      "action_display": "ಹೊಸ ಸಂಖ್ಯೆಗಳು.",
+      "justification": "ಈಗ ನಮ್ಮ ಸಂಖ್ಯೆಗಳು $\\frac{1}{4}$ ಮತ್ತು $\\frac{2}{4}$."
+    }
+  ],
+  "chunk_id": "NS-RAT-2_concept_2_chunk_009"
+}

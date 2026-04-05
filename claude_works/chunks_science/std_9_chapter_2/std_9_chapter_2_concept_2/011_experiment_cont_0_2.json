@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಗುಂಪು A ಮತ್ತು B",
+  "script": "ಈಗ ನಾವು ಪ್ರಯೋಗದ ಮೊದಲ ಭಾಗವನ್ನು ನೋಡೋಣ. ಗುಂಪು ಎ ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ಸುಮಾರು ಐವತ್ತು ಮಿಲಿಲೀಟರ್ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದಕ್ಕೆ ಒಂದು ಚಮಚದಷ್ಟು ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಪುಡಿಯನ್ನು ಸೇರಿಸಿ ಗಾಜಿನ ಕಡ್ಡಿಯಿಂದ ಚೆನ್ನಾಗಿ ಕಲಕಬೇಕು. ಇದೇ ರೀತಿ, ಗುಂಪು ಬಿ ಕೂಡ ಐವತ್ತು ಮಿಲಿಲೀಟರ್ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದಕ್ಕೆ ಹೆಚ್ಚು ಪ್ರಮಾಣದಲ್ಲಿ, ಅಂದರೆ ಸುಮಾರು ಎರಡು ಚಮಚದಷ್ಟು ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಪುಡಿಯನ್ನು ಸೇರಿಸಿ ಚೆನ್ನಾಗಿ ಕಲಕಬೇಕು. ಎರಡೂ ಗುಂಪುಗಳು ತಮ್ಮ ಮಿಶ್ರಣದಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸಬೇಕು.",
+  "script_display": "ಈಗ ನಾವು ಪ್ರಯೋಗದ ಮೊದಲ ಭಾಗವನ್ನು ನೋಡೋಣ. ಗುಂಪು A ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ಸುಮಾರು 50 mL ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದಕ್ಕೆ ಸ್ವಲ್ಪ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ (CuSO₄) ಪುಡಿಯನ್ನು ಸೇರಿಸಿ ಗಾಜಿನ ಕಡ್ಡಿಯಿಂದ ಚೆನ್ನಾಗಿ ಕಲಕಬೇಕು. ಇದೇ ರೀತಿ, ಗುಂಪು B ಕೂಡ 50 mL ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದಕ್ಕೆ ಹೆಚ್ಚು ಪ್ರಮಾಣದ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ (CuSO₄) ಪುಡಿಯನ್ನು ಸೇರಿಸಿ ಚೆನ್ನಾಗಿ ಕಲಕಬೇಕು. ಎರಡೂ ಗುಂಪುಗಳು ತಮ್ಮ ಮಿಶ್ರಣದಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಗುಂಪು A: 50 mL ನೀರಿಗೆ ಸ್ವಲ್ಪ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಸೇರಿಸಿ ಕಲಕಿ.",
+    "ಗುಂಪು B: 50 mL ನೀರಿಗೆ ಹೆಚ್ಚು ಪ್ರಮಾಣದ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಸೇರಿಸಿ ಕಲಕಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side illustration. Left: A hand adding a small spoonful of blue copper sulphate to a beaker of water, labeled 'ಗುಂಪು A'. Right: A hand adding a larger spoonful of blue copper sulphate to another beaker of water, labeled 'ಗುಂಪು B'. Both show a stirring rod.",
+    "labels": "ಗುಂಪು A, ಗುಂಪು B, ತಾಮ್ರದ ಸಲ್ಫೇಟ್, ನೀರು",
+    "scientific_significance": "Shows the preparation of solutions with different concentrations of the same solute.",
+    "placeholder_note": "Image to be generated."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_9_chapter_2_concept_2_chunk_011"
+}

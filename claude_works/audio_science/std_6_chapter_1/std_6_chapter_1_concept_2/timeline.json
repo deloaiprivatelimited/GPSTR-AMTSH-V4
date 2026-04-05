@@ -1,0 +1,123 @@
+{
+  "module_id": "std_6_chapter_1_concept_2",
+  "chapter_code": "std_6_chapter_1",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 395.83,
+  "total_duration_formatted": "6:35",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_1_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ವೈಜ್ಞಾನಿಕ ವಿಧಾನ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 50.251,
+      "duration": 50.251,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "std_6_chapter_1_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "start": 50.851,
+      "end": 72.862,
+      "duration": 22.011,
+      "script_words": 35
+    },
+    {
+      "chunk_id": "std_6_chapter_1_concept_2_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ವೈಜ್ಞಾನಿಕ ವಿಧಾನ: ಮೊದಲ ಹೆಜ್ಜೆಗಳು",
+      "type": "concept_explanation",
+      "start": 73.462,
+      "end": 108.993,
+      "duration": 35.531,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_1_concept_2_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ವೈಜ್ಞಾನಿಕ ವಿಧಾನ: ಊಹೆ ರೂಪಿಸುವುದು",
+      "type": "concept_explanation",
+      "start": 109.593,
+      "end": 150.124,
+      "duration": 40.531,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_6_chapter_1_concept_2_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ವೈಜ್ಞಾನಿಕ ವಿಧಾನ: ಪರೀಕ್ಷೆ ಮತ್ತು ನಿರ್ಧಾರ",
+      "type": "concept_explanation",
+      "start": 150.724,
+      "end": 192.215,
+      "duration": 41.491,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_6_chapter_1_concept_2_chunk_006",
+      "chunk_file": "006_experiment_0.json",
+      "wav_file": "006_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ: ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ವೈಜ್ಞಾನಿಕ ವಿಧಾನ",
+      "type": "experiment_activity",
+      "start": 192.815,
+      "end": 233.306,
+      "duration": 40.491,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_6_chapter_1_concept_2_chunk_007",
+      "chunk_file": "007_experiment_cont_0_1.json",
+      "wav_file": "007_experiment_cont_0_1.wav",
+      "slide_title": "ಪ್ರಶ್ನೆ ಮತ್ತು ಊಹೆ (Hypothesis)",
+      "type": "experiment_activity",
+      "start": 233.906,
+      "end": 270.397,
+      "duration": 36.491,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_1_concept_2_chunk_008",
+      "chunk_file": "008_experiment_cont_0_2.json",
+      "wav_file": "008_experiment_cont_0_2.wav",
+      "slide_title": "ಪ್ರಯೋಗ ಮತ್ತು ಫಲಿತಾಂಶದ ವೀಕ್ಷಣೆ",
+      "type": "experiment_activity",
+      "start": 270.997,
+      "end": 307.608,
+      "duration": 36.611,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_6_chapter_1_concept_2_chunk_009",
+      "chunk_file": "009_experiment_cont_0_3.json",
+      "wav_file": "009_experiment_cont_0_3.wav",
+      "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+      "type": "experiment_activity",
+      "start": 308.208,
+      "end": 350.939,
+      "duration": 42.731,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_6_chapter_1_concept_2_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 351.539,
+      "end": 395.23,
+      "duration": 43.691,
+      "script_words": 53
+    }
+  ]
+}

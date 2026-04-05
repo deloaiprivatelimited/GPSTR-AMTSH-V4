@@ -1,0 +1,31 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರದ ಸಂಕೇತಗಳು: ಭಾಗ 1",
+  "script": "ಈಗ ಸೂತ್ರದಲ್ಲಿನ ಪ್ರತಿಯೊಂದು ಸಂಕೇತದ ಅರ್ಥವನ್ನು ತಿಳಿದುಕೊಳ್ಳೋಣ. ಮೊದಲು, 'l' ಎಂದರೆ ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರದ ಕೆಳಮಿತಿ. ಉದಾಹರಣೆಗೆ, ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗ 20 ರಿಂದ 30 ಆಗಿದ್ದರೆ, 'l' ನ ಮೌಲ್ಯ 20 ಆಗಿರುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, 'n' ಎಂದರೆ ಒಟ್ಟು ಆವೃತ್ತಿಗಳ ಸಂಖ್ಯೆ. ಇದು ಎಲ್ಲಾ ವರ್ಗಾಂತರಗಳ ಆವೃತ್ತಿಗಳನ್ನು ಕೂಡಿದಾಗ ಸಿಗುವ ಮೊತ್ತ. ಮೂರನೆಯದಾಗಿ, 'h' ಎಂದರೆ ವರ್ಗಾಂತರದ ಗಾತ್ರ. ಇದನ್ನು ವರ್ಗಾಂತರದ ಮೇಲ್ಮಿತಿ ಮತ್ತು ಕೆಳಮಿತಿಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸದಿಂದ ಕಂಡುಹಿಡಿಯಬಹುದು. ಉದಾಹರಣೆಗೆ, 20 ರಿಂದ 30 ರ ವರ್ಗಾಂತರದ ಗಾತ್ರ 10 ಆಗಿರುತ್ತದೆ. ಈ ಮೂರು ಮೌಲ್ಯಗಳು ಲೆಕ್ಕಾಚಾರದ ಆಧಾರವನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+  "script_display": "ಈಗ ಸೂತ್ರದಲ್ಲಿನ ಪ್ರತಿಯೊಂದು ಸಂಕೇತದ ಅರ್ಥವನ್ನು ತಿಳಿದುಕೊಳ್ಳೋಣ.\n\n*   $l$ = ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರದ ಕೆಳಮಿತಿ (Lower limit of the median class)\n*   $n$ = ಒಟ್ಟು ಆವೃತ್ತಿಗಳ ಸಂಖ್ಯೆ (Total number of observations, $\\Sigma f_i$)\n*   $h$ = ವರ್ಗಾಂತರದ ಗಾತ್ರ (Class size)",
+  "display_bullets": [
+    "$l$ = ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರದ ಕೆಳಮಿತಿ (Lower limit of the median class)",
+    "$n$ = ಒಟ್ಟು ಆವೃತ್ತಿಗಳ ಸಂಖ್ಯೆ (Total number of observations, $\\Sigma f_i$)",
+    "$h$ = ವರ್ಗಾಂತರದ ಗಾತ್ರ (Class size)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "list_only",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "DATA-STAT-2_concept_4_chunk_011"
+}

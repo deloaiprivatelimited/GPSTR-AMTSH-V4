@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದ್ವಿತಳಿ ಸಂಕರ ಪ್ರಯೋಗದ அமைப்பு",
+  "script": "ಮೆಂಡಲ್ ತಮ್ಮ ಪ್ರಯೋಗಕ್ಕಾಗಿ ಎರಡು ಜೊತೆ ವ್ಯತಿರಿಕ್ತ ಗುಣಗಳನ್ನು ಹೊಂದಿರುವ ಬಟಾಣಿ ಸಸ್ಯಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡರು. ಮೊದಲನೆಯದು ಬೀಜದ ಆಕಾರ, ಅಂದರೆ ದುಂಡನೆಯ ಅಥವಾ ಸುಕ್ಕಾದ. ಎರಡನೆಯದು ಬೀಜದ ಬಣ್ಣ, ಅಂದರೆ ಹಳದಿ ಅಥವಾ ಹಸಿರು. ಅವರು ಪೋಷಕ ಪೀಳಿಗೆಯಲ್ಲಿ, ದುಂಡನೆಯ ಮತ್ತು ಹಳದಿ ಬೀಜಗಳನ್ನು ಉತ್ಪಾದಿಸುವ ಶುದ್ಧ ತಳಿಯ ಸಸ್ಯವನ್ನು, ಸುಕ್ಕಾದ ಮತ್ತು ಹಸಿರು ಬೀಜಗಳನ್ನು ಉತ್ಪಾದಿಸುವ ಇನ್ನೊಂದು ಶುದ್ಧ ತಳಿಯ ಸಸ್ಯದೊಂದಿಗೆ ಪರಾಗಸ್ಪರ್ಶ ಮಾಡಿದರು. ಇಲ್ಲಿ ದುಂಡನೆಯ ಆಕಾರ ಮತ್ತು ಹಳದಿ ಬಣ್ಣಗಳು ಪ್ರಬಲ ಗುಣಗಳಾಗಿವೆ.",
+  "script_display": "ಮೆಂಡಲ್ ತಮ್ಮ ಪ್ರಯೋಗಕ್ಕಾಗಿ ಎರಡು ಜೊತೆ ವ್ಯತಿರಿಕ್ತ ಗುಣಗಳನ್ನು ಹೊಂದಿರುವ ಬಟಾಣಿ ಸಸ್ಯಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡರು. ಅವರು ಪೋಷಕ ಪೀಳಿಗೆಯಲ್ಲಿ (P generation) ಈ ಕೆಳಗಿನ ಸಸ್ಯಗಳನ್ನು ಸಂಕರಿಸಿದರು:",
+  "display_bullets": [
+    "ಪೋಷಕ 1: ದುಂಡನೆಯ ಮತ್ತು ಹಳದಿ ಬೀಜಗಳು (RRYY)",
+    "ಪೋಷಕ 2: ಸುಕ್ಕಾದ ಮತ್ತು ಹಸಿರು ಬೀಜಗಳು (rryy)",
+    "ಇಲ್ಲಿ, ದುಂಡನೆಯ ಆಕಾರ (R) ಮತ್ತು ಹಳದಿ ಬಣ್ಣ (Y) ಪ್ರಬಲ ಗುಣಗಳಾಗಿವೆ.",
+    "ಸುಕ್ಕಾದ ಆಕಾರ (r) ಮತ್ತು ಹಸಿರು ಬಣ್ಣ (y) ದುರ್ಬಲ ಗುಣಗಳಾಗಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the two parent pea plants. One plant has round, yellow peas (labeled RRYY). The other plant has wrinkled, green peas (labeled rryy). An arrow indicates a cross between them.",
+    "labels": "P Generation: Round, Yellow (RRYY) x Wrinkled, Green (rryy)",
+    "scientific_significance": "Illustrates the parental generation (P) in Mendel's dihybrid cross, establishing the initial traits being studied.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_8_concept_3_chunk_007"
+}

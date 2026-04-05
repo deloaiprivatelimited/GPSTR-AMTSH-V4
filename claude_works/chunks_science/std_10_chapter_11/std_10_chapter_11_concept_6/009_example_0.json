@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಸಮಾಂತರ ರೋಧಕಗಳು",
+  "script": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಇಲ್ಲಿ ನಮಗೆ ಮೂರು ರೋಧಕಗಳಿವೆ, ಆರ್ ಒನ್ ಐದು ಓಮ್, ಆರ್ ಟು ಹತ್ತು ಓಮ್, ಮತ್ತು ಆರ್ ತ್ರೀ ಮೂವತ್ತು ಓಮ್. ಇವುಗಳನ್ನು ಹನ್ನೆರಡು ವೋಲ್ಟ್ ಬ್ಯಾಟರಿಗೆ ಸಮಾಂತರವಾಗಿ ಜೋಡಿಸಲಾಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: ಪ್ರತಿ ರೋಧಕದ ಮೂಲಕ ಹರಿಯುವ ಪ್ರವಾಹ, ಮಂಡಲದಲ್ಲಿನ ಒಟ್ಟು ಪ್ರವಾಹ, ಮತ್ತು ಮಂಡಲದ ಒಟ್ಟು ರೋಧ.",
+  "script_display": "R₁=5Ω, R₂=10Ω, ಮತ್ತು R₃=30Ω ರೋಧಕಗಳನ್ನು 12V ಬ್ಯಾಟರಿಗೆ ಸಮಾಂತರವಾಗಿ ಜೋಡಿಸಲಾಗಿದೆ. (a) ಪ್ರತಿ ರೋಧಕದ ಮೂಲಕ ಪ್ರವಾಹ, (b) ಒಟ್ಟು ಪ್ರವಾಹ, ಮತ್ತು (c) ಒಟ್ಟು ರೋಧವನ್ನು ಲೆಕ್ಕಮಾಡಿ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ (Given): R₁ = 5 Ω, R₂ = 10 Ω, R₃ = 30 Ω, V = 12 V",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To Find):",
+    "(a) ಪ್ರತಿ ಪ್ರವಾಹ (I₁, I₂, I₃)",
+    "(b) ಒಟ್ಟು ಪ್ರವಾಹ (I)",
+    "(c) ಒಟ್ಟು ರೋಧ (Rₚ)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "physics_green",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಮೂರು ರೋಧಕಗಳು R1, R2, ಮತ್ತು R3 ಗಳನ್ನು ಸಮಾಂತರವಾಗಿ ಜೋಡಿಸಲಾಗಿದೆ. ಈ ಸಂಯೋಜನೆಯನ್ನು 12V ಬ್ಯಾಟರಿ, ಒಂದು ಪ್ಲಗ್ ಕೀ ಮತ್ತು ಒಂದು ಆಮ್ಮಿಟರ್‌ಗೆ ಸರಣಿಯಲ್ಲಿ ಸಂಪರ್ಕಿಸಲಾಗಿದೆ. ಪ್ರತಿ ರೋಧಕದಾದ್ಯಂತ ವಿಭವಾಂತರವನ್ನು ಅಳೆಯಲು ವೋಲ್ಟ್‍ಮೀಟರ್ ಅನ್ನು ಸಮಾಂತರವಾಗಿ ಜೋಡಿಸಲಾಗಿದೆ.",
+    "labels": "R₁, R₂, R₃, 12V Battery, Ammeter, Voltmeter, Key",
+    "scientific_significance": "ಸಮಾಂತರ ಮಂಡಲದಲ್ಲಿ ರೋಧಕಗಳನ್ನು ಹೇಗೆ ಜೋಡಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಪ್ರವಾಹವು ಹೇಗೆ ವಿಭಜನೆಯಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಈ ಚಿತ್ರ ತೋರಿಸುತ್ತದೆ. ವಿಭವಾಂತರವು ಎಲ್ಲಾ ರೋಧಕಗಳಾದ್ಯಂತ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ.",
+    "placeholder_note": "Generate a circuit diagram showing three resistors (5, 10, 30 ohm) in parallel, connected to a 12V battery, an ammeter in series, and a voltmeter across the parallel combination."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_11_example_11.8",
+  "chunk_id": "std_10_chapter_11_concept_6_chunk_009"
+}

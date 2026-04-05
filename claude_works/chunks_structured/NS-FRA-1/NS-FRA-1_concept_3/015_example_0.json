@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಭಿನ್ನರಾಶಿಗಳ ಹೋಲಿಕೆ",
+  "script": "ಈಗ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಾವು ಮೂರನೇ ನಾಲ್ಕು ಮತ್ತು ಏಳನೇ ಹತ್ತು ಈ ಎರಡು ಭಿನ್ನರಾಶಿಗಳನ್ನು ಹೋಲಿಸಬೇಕು. ಅಂದರೆ, ಇವುಗಳಲ್ಲಿ ಯಾವುದು ದೊಡ್ಡದು ಮತ್ತು ಯಾವುದು ಚಿಕ್ಕದು ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಾವು $\\frac{3}{4}$ ಮತ್ತು $\\frac{7}{10}$ ಈ ಎರಡು ಭಿನ್ನರಾಶಿಗಳನ್ನು ಹೋಲಿಸಬೇಕು. ಅಂದರೆ, ಇವುಗಳಲ್ಲಿ ಯಾವುದು ದೊಡ್ಡದು ಮತ್ತು ಯಾವುದು ಚಿಕ್ಕದು ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $\\frac{3}{4}$ ಮತ್ತು $\\frac{7}{10}$ ನ್ನು ಹೋಲಿಸಿ.",
+    "ಗುರಿ: ಯಾವ ಭಿನ್ನರಾಶಿ ದೊಡ್ಡದು ಎಂದು ನಿರ್ಧರಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಹೋಲಿಸಿ: } \\frac{3}{4} \\text{ ಮತ್ತು } \\frac{7}{10}",
+    "placeholder_note": "A box showing the problem: Compare 3/4 and 7/10"
+  },
+  "source_example_id": "NS-FRA-1_example_3",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-FRA-1_concept_3_chunk_015"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ತಾಮ್ರದ ಉತ್ಕರ್ಷಣ: ಸಮೀಕರಣ",
+  "script": "ಈಗ ಆ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸೋಣ. two C u plus O two gives two C u O. ಇಲ್ಲಿ, ಕ್ರಿಯೆಯ ಎಡಭಾಗದಲ್ಲಿರುವ ತಾಮ್ರ, ಅಂದರೆ ಸಿ ಯು, ಬಲಭಾಗದಲ್ಲಿ ತಾಮ್ರದ ಆಕ್ಸೈಡ್, ಅಂದರೆ ಸಿ ಯು ಓ, ಆಗಿ ಬದಲಾಗಿದೆ. ಇದರರ್ಥ, ತಾಮ್ರವು ಆಕ್ಸಿಜನ್ ಅನ್ನು ಪಡೆದುಕೊಂಡಿದೆ. ನಮ್ಮ ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, ಒಂದು ವಸ್ತುವು ಆಕ್ಸಿಜನ್ ಪಡೆದುಕೊಂಡರೆ ಅದು ಉತ್ಕರ್ಷಣ. ಹಾಗಾಗಿ, ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ತಾಮ್ರವು ಉತ್ಕರ್ಷಣಗೊಂಡಿದೆ. ಇದು ಉತ್ಕರ್ಷಣಕ್ಕೆ ಒಂದು ಸ್ಪಷ್ಟ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಆ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸೋಣ: 2Cu + O₂ → 2CuO. ಇಲ್ಲಿ, ಕ್ರಿಯೆಯ ಎಡಭಾಗದಲ್ಲಿರುವ ತಾಮ್ರ (Cu), ಬಲಭಾಗದಲ್ಲಿ ತಾಮ್ರದ ಆಕ್ಸೈಡ್ (CuO) ಆಗಿ ಬದಲಾಗಿದೆ. ಇದರರ್ಥ, ತಾಮ್ರವು ಆಕ್ಸಿಜನ್ ಅನ್ನು ಪಡೆದುಕೊಂಡಿದೆ. ನಮ್ಮ ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, ಒಂದು ವಸ್ತುವು ಆಕ್ಸಿಜನ್ ಪಡೆದುಕೊಂಡರೆ ಅದು ಉತ್ಕರ್ಷಣ. ಹಾಗಾಗಿ, ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ತಾಮ್ರವು ಉತ್ಕರ್ಷಣಗೊಂಡಿದೆ. ಇದು ಉತ್ಕರ್ಷಣಕ್ಕೆ ಒಂದು ಸ್ಪಷ್ಟ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ತಾಮ್ರ (Cu) ಆಕ್ಸಿಜನ್ (O₂) ಜೊತೆ ಸೇರಿ ತಾಮ್ರದ (II) ಆಕ್ಸೈಡ್ (CuO) ಆಗುತ್ತದೆ.",
+    "Cu → CuO: ತಾಮ್ರವು ಆಕ್ಸಿಜನ್ ಪಡೆದುಕೊಂಡಿದೆ.",
+    "ಆದ್ದರಿಂದ, ತಾಮ್ರವು ಉತ್ಕರ್ಷಣಗೊಂಡಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_with_explanation",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2Cu + O_2 \\xrightarrow{\\Delta} 2CuO",
+    "placeholder_note": "Equation for oxidation of copper"
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_10_chapter_1_concept_4_chunk_005"
+}

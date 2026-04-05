@@ -1,0 +1,48 @@
+{
+  "module_id": "std_10_chapter_5_concept_8",
+  "chapter_code": "std_10_chapter_5",
+  "voice": "Sadachbia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 3,
+  "ok_count": 3,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:18:16",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "d5f7d57959bb16dd318877b8df7aa9bf",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 21.571,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 26,
+      "generated_at": "2026-04-02 12:17:34"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "fa338c92df703701503faa160f24843e",
+      "wav_file": "001_intro_0.wav",
+      "duration": 47.611,
+      "slide_title": "ಪರಿಚಯ: ಸಸ್ಯಗಳಲ್ಲಿ ಸಾಗಾಣಿಕೆ",
+      "type": "chunk",
+      "script_words": 62,
+      "generated_at": "2026-04-02 12:17:49"
+    },
+    "003_recap_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "11a014562ffedb468f805412f5434c5f",
+      "wav_file": "003_recap_0.wav",
+      "duration": 42.451,
+      "slide_title": "ಸಾರಾಂಶ: ಸಸ್ಯಗಳಲ್ಲಿ ಸಾಗಾಣಿಕೆ",
+      "type": "recap",
+      "script_words": 54,
+      "generated_at": "2026-04-02 12:18:16"
+    }
+  }
+}

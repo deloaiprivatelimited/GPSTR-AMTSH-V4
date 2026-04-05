@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 1: ದೊಡ್ಡ ಸಂಖ್ಯೆ",
+  "script": "ಒಂದು ದೊಡ್ಡ ಸಂಖ್ಯೆಯ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ, ಉದಾಹರಣೆಗೆ ಮುನ್ನೂರ ನಲವತ್ತೈದು ಮಿಲಿಯನ್. ನಮ್ಮ ಗುರಿ ಇದನ್ನು k times ten to the power n ರೂಪಕ್ಕೆ ತರುವುದು, ಅಲ್ಲಿ k ಯು ಒಂದು ಮತ್ತು ಹತ್ತರ ನಡುವೆ ಇರಬೇಕು. ಇದಕ್ಕಾಗಿ, ನಾವು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಸರಿಸಬೇಕು. ಈ ಸಂಖ್ಯೆಯಲ್ಲಿ, ದಶಮಾಂಶ ಬಿಂದು ಕೊನೆಯಲ್ಲಿದೆ. ನಾವು ಅದನ್ನು ಎಡಕ್ಕೆ ಸರಿಸಿ ಮೊದಲ ಅಂಕಿಯಾದ ಮೂರರ ನಂತರ ಇಡಬೇಕು. ಆಗ ನಮಗೆ ಮೂರು ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಐದು ಸಿಗುತ್ತದೆ. ನಾವು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಎಷ್ಟು ಸ್ಥಾನ ಸರಿಸಿದ್ದೇವೆ? ಎಣಿಸಿ ನೋಡೋಣ, ಒಟ್ಟು ಎಂಟು ಸ್ಥಾನಗಳನ್ನು ಎಡಕ್ಕೆ ಸರಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಆದರ್ಶ ರೂಪವು ಮೂರು ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಐದು times ten to the power ಎಂಟು ಆಗುತ್ತದೆ. ಇಲ್ಲಿ n ಧನಾತ್ಮಕವಾಗಿದೆ.",
+  "script_display": "ಒಂದು ದೊಡ್ಡ ಸಂಖ್ಯೆಯ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ, ಉದಾಹರಣೆಗೆ 345,000,000. ನಮ್ಮ ಗುರಿ ಇದನ್ನು $k \\times 10^n$ ರೂಪಕ್ಕೆ ತರುವುದು, ಅಲ್ಲಿ $k$ ಯು 1 ಮತ್ತು 10ರ ನಡುವೆ ಇರಬೇಕು. ಇದಕ್ಕಾಗಿ, ನಾವು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಸರಿಸಬೇಕು. ಈ ಸಂಖ್ಯೆಯಲ್ಲಿ, ದಶಮಾಂಶ ಬಿಂದು ಕೊನೆಯಲ್ಲಿದೆ. ನಾವು ಅದನ್ನು ಎಡಕ್ಕೆ ಸರಿಸಿ ಮೊದಲ ಅಂಕಿಯಾದ 3ರ ನಂತರ ಇಡಬೇಕು. ಆಗ ನಮಗೆ 3.45 ಸಿಗುತ್ತದೆ. ನಾವು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಎಷ್ಟು ಸ್ಥಾನ ಸರಿಸಿದ್ದೇವೆ? ಎಣಿಸಿ ನೋಡೋಣ, ಒಟ್ಟು 8 ಸ್ಥಾನಗಳನ್ನು ಎಡಕ್ಕೆ ಸರಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಆದರ್ಶ ರೂಪವು $3.45 \\times 10^8$ ಆಗುತ್ತದೆ. ಇಲ್ಲಿ $n$ ಧನಾತ್ಮಕವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸಂಖ್ಯೆ: 345,000,000",
+    "ದಶಮಾಂಶವನ್ನು 8 ಸ್ಥಾನ ಎಡಕ್ಕೆ ಸರಿಸಿ: $3.45$",
+    "ಆದ್ದರಿಂದ, ಆದರ್ಶ ರೂಪ: $3.45 \\times 10^8$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The number 345,000,000 is shown. Curved arrows above the number indicate the decimal point moving 8 places to the left, from the end of the number to a position between 3 and 4. The text '8 ಸ್ಥಾನಗಳು ಎಡಕ್ಕೆ' (8 places left) is shown near the arrows. The final form 3.45 x 10^8 is highlighted.",
+    "labels": "Original number, decimal point movement, standard form, positive exponent",
+    "mathematical_significance": "Illustrates converting a large number to standard form by moving the decimal point to the left, resulting in a positive exponent.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "NS-EXP-2_concept_3_chunk_011"
+}

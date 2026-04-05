@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 4",
+  "script": "ಕೊನೆಯದಾಗಿ, ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಸರಾಸರಿ ಜವವನ್ನು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಗೆ ಪರಿವರ್ತಿಸಬೇಕು. ಕಿಲೋಮೀಟರ್ ಪರ್ ಹವರ್ ಅನ್ನು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಗೆ ಪರಿವರ್ತಿಸಲು 5 ಬೈ 18 ರಿಂದ ಗುಣಿಸಬೇಕು. ನಮ್ಮ ಉತ್ತರ 50 ಕಿಲೋಮೀಟರ್ ಪರ್ ಹವರ್. ಆದ್ದರಿಂದ, 50 ಅನ್ನು 5 ಬೈ 18 ರಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ ಸುಮಾರು 13.9 ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಸರಾಸರಿ ಜವವನ್ನು m/s ಗೆ ಪರಿವರ್ತಿಸಬೇಕು. km/h ಅನ್ನು m/s ಗೆ ಪರಿವರ್ತಿಸಲು 5/18 ರಿಂದ ಗುಣಿಸಬೇಕು. ನಮ್ಮ ಉತ್ತರ 50 km/h. ಆದ್ದರಿಂದ, 50 ಅನ್ನು 5/18 ರಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ ಸುಮಾರು 13.9 m/s ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "**ಹಂತ 4: km/h ನಿಂದ m/s ಗೆ ಪರಿವರ್ತಿಸಿ.**",
+    "ಪರಿವರ್ತನಾ ಅಂಶ: 1 km/h = 5/18 m/s"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "50 \\text{ km/h} = 50 \\times \\frac{5}{18} \\text{ m/s} \\\\ \\\\ \\approx 13.888... \\text{ m/s} \\\\ \\\\ \\approx 13.9 \\text{ m/s}",
+    "placeholder_note": "Calculation for converting km/h to m/s."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_7_example_7.2",
+  "chunk_id": "std_9_chapter_7_concept_2_chunk_039"
+}

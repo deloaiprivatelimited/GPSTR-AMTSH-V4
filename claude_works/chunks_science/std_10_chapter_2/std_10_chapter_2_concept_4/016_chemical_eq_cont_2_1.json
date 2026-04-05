@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಯಾನುಗಳ ಸಂಯೋಗ",
+  "script": "ಈ ಕ್ರಿಯೆಯನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ನೋಡೋಣ. ಆಮ್ಲದಿಂದ ಬರುವ ಧನಾವೇಶದ ಹೈಡ್ರೋಜನ್ ಅಯಾನು, ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲದಿಂದ ಬರುವ ಋಣಾವೇಶದ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಯಾನು, ಇವೆರಡೂ ಪರಸ್ಪರ ಆಕರ್ಷಿಸಲ್ಪಡುತ್ತವೆ. ಅವು ಸಂಯೋಗಗೊಂಡು ವಿದ್ಯುತ್ ತಟಸ್ಥವಾದ, ಅಂದರೆ ಯಾವುದೇ ಆವೇಶವಿಲ್ಲದ, ಸ್ಥಿರವಾದ ನೀರಿನ ಅಣುವನ್ನು ರೂಪಿಸುತ್ತವೆ. ಇದೇ ತಟಸ್ಥೀಕರಣದ ಮೂಲ ಪ್ರಕ್ರಿಯೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ನೋಡೋಣ. ಆಮ್ಲದಿಂದ ಬರುವ ಧನಾವೇಶದ ಹೈಡ್ರೋಜನ್ ಅಯಾನು (H⁺), ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲದಿಂದ ಬರುವ ಋಣಾವೇಶದ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಯಾನು (OH⁻), ಇವೆರಡೂ ಪರಸ್ಪರ ಆಕರ್ಷಿಸಲ್ಪಡುತ್ತವೆ. ಅವು ಸಂಯೋಗಗೊಂಡು ವಿದ್ಯುತ್ ತಟಸ್ಥವಾದ (neutral) ಸ್ಥಿರವಾದ ನೀರಿನ ಅಣುವನ್ನು (H₂O) ರೂಪಿಸುತ್ತವೆ. ಇದೇ ತಟಸ್ಥೀಕರಣದ ಮೂಲ ಪ್ರಕ್ರಿಯೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "chemistry_dark_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a hydrogen ion (H+) and a hydroxide ion (OH-) on the left, with an arrow pointing to a water molecule (H2O) on the right. The ions should have visible + and - charges, and the water molecule should appear neutral.",
+    "labels": "Hydrogen ion (H+), Hydroxide ion (OH-), Water molecule (H2O)",
+    "scientific_significance": "Illustrates the fundamental combination of ions in a neutralization reaction.",
+    "placeholder_note": "Image to be generated: H+ ion + OH- ion -> H2O molecule."
+  },
+  "chunk_id": "std_10_chapter_2_concept_4_chunk_016"
+}

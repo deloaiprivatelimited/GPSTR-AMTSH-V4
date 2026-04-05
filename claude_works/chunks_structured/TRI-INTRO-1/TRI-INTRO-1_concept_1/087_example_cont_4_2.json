@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಮಗೆ ತ್ರಿಭುಜದ ಮೂರೂ ಬಾಹುಗಳ ಅಳತೆಗಳು ಕೆ ಯ ರೂಪದಲ್ಲಿ ತಿಳಿದಿವೆ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಸೈನ್ ಎ ಮತ್ತು ಕಾಸ್ ಎ ಯ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಸೈನ್ ಎ ಅಂದರೆ ಅಭಿಮುಖ ಬಾಹು ಬಿ ಸಿ ಮತ್ತು ವಿಕರ್ಣ ಎ ಸಿ ಯ ಅನುಪಾತ. ಅಂದರೆ ಕೆ ಬೈ ಕೆ ರೂಟ್ ಎರಡು. ಇಲ್ಲಿ ಕೆ ಕ್ಯಾನ್ಸಲ್ ಆಗಿ ನಮಗೆ ಒಂದ ಬೈ ರೂಟ್ ಎರಡು ಸಿಗುತ್ತದೆ. ಹಾಗೆಯೇ, ಕಾಸ್ ಎ ಅಂದರೆ ಪಾರ್ಶ್ವ ಬಾಹು ಎ ಬಿ ಮತ್ತು ವಿಕರ್ಣ ಎ ಸಿ ಯ ಅನುಪಾತ. ಅಂದರೆ ಕೆ ಬೈ ಕೆ ರೂಟ್ ಎರಡು. ಇಲ್ಲೂ ಕೂಡ ನಮಗೆ ಒಂದ ಬೈ ರೂಟ್ ಎರಡು ಸಿಗುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಈ ಬೆಲೆಗಳನ್ನು ನಾವು ಪರಿಶೀಲಿಸಬೇಕಾದ ಅಭಿವ್ಯಕ್ತಿಯಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಅಭಿವ್ಯಕ್ತಿ ಎರಡು ಸೈನ್ ಎ ಕಾಸ್ ಎ. ಇದು ಎರಡು ಗುಣಿಸು ಒಂದ ಬೈ ರೂಟ್ ಎರಡು ಗುಣಿಸು ಒಂದ ಬೈ ರೂಟ್ ಎರಡು ಆಗುತ್ತದೆ. ಒಂದ ಬೈ ರೂಟ್ ಎರಡನ್ನು ಒಂದ ಬೈ ರೂಟ್ ಎರಡರಿಂದ ಗುಣಿಸಿದಾಗ ಒಂದ ಬೈ ಎರಡು ಬರುತ್ತದೆ. ಹಾಗಾಗಿ, ಎರಡು ಗುಣಿಸು ಒಂದ ಬೈ ಎರಡು, ಅಂದರೆ ಒಂದು.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಮಗೆ ತ್ರಿಭುಜದ ಮೂರೂ ಬಾಹುಗಳ ಅಳತೆಗಳು k ಯ ರೂಪದಲ್ಲಿ ತಿಳಿದಿವೆ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, $\\sin A$ ಮತ್ತು $\\cos A$ ಯ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. $\\sin A = \\frac{BC}{AC} = \\frac{k}{k\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$. ಹಾಗೆಯೇ, $\\cos A = \\frac{AB}{AC} = \\frac{k}{k\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಈ ಬೆಲೆಗಳನ್ನು ನಾವು ಪರಿಶೀಲಿಸಬೇಕಾದ ಅಭಿವ್ಯಕ್ತಿಯಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಅಭಿವ್ಯಕ್ತಿ $2 \\sin A \\cos A$. ಇದು $2(\\frac{1}{\\sqrt{2}})(\\frac{1}{\\sqrt{2}}) = 2(\\frac{1}{2}) = 1$ ಆಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-INTRO-1_example_4",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\sin A = \\frac{BC}{AC} = \\frac{k}{k\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$ ಮತ್ತು $\\cos A = \\frac{AB}{AC} = \\frac{k}{k\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$",
+      "justification": "$\\sin A$ ಮತ್ತು $\\cos A$ ದ ವ್ಯಾಖ್ಯೆಗಳು"
+    },
+    {
+      "step": 4,
+      "action_display": "$2 \\sin A \\cos A = 2\\left(\\frac{1}{\\sqrt{2}}\\right)\\left(\\frac{1}{\\sqrt{2}}\\right) = 2\\left(\\frac{1}{2}\\right) = 1$",
+      "justification": "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸುವುದು"
+    }
+  ],
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_087"
+}

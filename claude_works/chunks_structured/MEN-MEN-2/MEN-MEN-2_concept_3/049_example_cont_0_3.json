@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ನಮ್ಮ ಲೆಕ್ಕಾಚಾರದ ಅಂತಿಮ ಉತ್ತರ, ಆಯತಘನದ ಎತ್ತರ 11 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯು ಗಾತ್ರ, ಪಾದದ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಎತ್ತರದ ನಡುವಿನ ನೇರ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ. ಸೂತ್ರವನ್ನು ತಿಳಿದಿದ್ದರೆ ಮತ್ತು ಅದನ್ನು ಸರಿಯಾಗಿ ಪುನರ್ರಚಿಸಿದರೆ, ಈ ರೀತಿಯ ಪ್ರಶ್ನೆಗಳನ್ನು ಸುಲಭವಾಗಿ ಬಿಡಿಸಬಹುದು.",
+  "script_display": "ಹೀಗಾಗಿ, ನಮ್ಮ ಲೆಕ್ಕಾಚಾರದ ಅಂತಿಮ ಉತ್ತರ, ಆಯತಘನದ ಎತ್ತರ 11 ಸೆಂ.ಮೀ. ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯು ಗಾತ್ರ, ಪಾದದ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಎತ್ತರದ ನಡುವಿನ ನೇರ ಸಂಬಂಧವನ್ನು ($V = A_{base} \\times h$) ತೋರಿಸುತ್ತದೆ. ಸೂತ್ರವನ್ನು ತಿಳಿದಿದ್ದರೆ ಮತ್ತು ಅದನ್ನು ಸರಿಯಾಗಿ ಪುನರ್ರಚಿಸಿದರೆ, ಈ ರೀತಿಯ ಪ್ರಶ್ನೆಗಳನ್ನು ಸುಲಭವಾಗಿ ಬಿಡಿಸಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಆಯತಘನದ ಎತ್ತರ } (h) = 11 \\text{ ಸೆಂ.ಮೀ.}",
+    "placeholder_note": "Final answer in a highlighted box"
+  },
+  "source_example_id": "MEN-MEN-2_example_8",
+  "final_answer": "11 cm",
+  "final_answer_display": "ಆಯತಘನದ ಎತ್ತರ 11 ಸೆಂ.ಮೀ.",
+  "chunk_id": "MEN-MEN-2_concept_3_chunk_049"
+}

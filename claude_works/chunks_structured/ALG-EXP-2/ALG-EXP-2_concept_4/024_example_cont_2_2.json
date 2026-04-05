@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ಬೀಜೋಕ್ತಿಗಳ ಸಂಕ್ಷೇಪಣೆ (ಮುಂದುವರಿದಿದೆ)",
+  "script": "ಈಗ ಎರಡನೇ ಬೀಜೋಕ್ತಿಯನ್ನು ಸಂಕ್ಷೇಪಿಸೋಣ, ಅದು 3pq ಇಂಟು p ಮೈನಸ್ q. ಇಲ್ಲೂ ಕೂಡ ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸುತ್ತೇವೆ. 3pq ಗುಣಿಸು p ನಮಗೆ 3 p ಸ್ಕ್ವೇರ್ಡ್ q ಅನ್ನು ಕೊಡುತ್ತದೆ. ನಂತರ, 3pq ಗುಣಿಸು ಮೈನಸ್ q ನಮಗೆ ಮೈನಸ್ 3 p q ಸ್ಕ್ವೇರ್ಡ್ ಅನ್ನು ಕೊಡುತ್ತದೆ. ಆದ್ದರಿಂದ, ಎರಡನೇ ಬೀಜೋಕ್ತಿಯ ಸಂಕ್ಷಿಪ್ತ ರೂಪ 3 p ಸ್ಕ್ವೇರ್ಡ್ q ಮೈನಸ್ 3 p q ಸ್ಕ್ವೇರ್ಡ್ ಆಗಿದೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಬೀಜೋಕ್ತಿಯನ್ನು ಸಂಕ್ಷೇಪಿಸೋಣ, ಅದು $3pq(p-q)$. ಇಲ್ಲೂ ಕೂಡ ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸುತ್ತೇವೆ. $3pq \\times p$ ನಮಗೆ $3p^2q$ ಅನ್ನು ಕೊಡುತ್ತದೆ. ನಂತರ, $3pq \\times (-q)$ ನಮಗೆ $-3pq^2$ ಅನ್ನು ಕೊಡುತ್ತದೆ. ಆದ್ದರಿಂದ, ಎರಡನೇ ಬೀಜೋಕ್ತಿಯ ಸಂಕ್ಷಿಪ್ತ ರೂಪ $3p^2q - 3pq^2$ ಆಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-EXP-2_example_7",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$3pq(p-q) = (3pq \\times p) - (3pq \\times q)$",
+      "justification": "ವಿತರಣಾ ನಿಯಮವನ್ನು (distributive law) ಬಳಸಿ."
+    },
+    {
+      "step": 2,
+      "action_display": "$= 3p^2q - 3pq^2$",
+      "justification": "ಘಾತಾಂಕಗಳ ನಿಯಮ ಮತ್ತು ಚಿಹ್ನೆಗಳ ಗುಣಾಕಾರ."
+    }
+  ],
+  "chunk_id": "ALG-EXP-2_concept_4_chunk_024"
+}

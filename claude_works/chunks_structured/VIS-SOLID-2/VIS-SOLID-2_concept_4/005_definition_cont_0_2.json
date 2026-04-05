@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಘನದ ಓರೆ ರೇಖಾಚಿತ್ರ",
+  "script": "ಒಂದು ಘನದ ಓರೆ ರೇಖಾಚಿತ್ರವನ್ನು ಹೇಗೆ ರಚಿಸುವುದು ಎಂದು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ಘನದ ಮುಮ್ಮುಖವನ್ನು, ಅಂದರೆ ಒಂದು ಚೌಕವನ್ನು ಚಿತ್ರಿಸುವುದು. ಇದು ವಸ್ತುವಿನ ಮುಂಭಾಗದ ನೋಟ. ಎರಡನೇ ಹಂತ, ಈ ಚೌಕದ ಮೂಲೆಗಳಿಂದ, ಸಾಮಾನ್ಯವಾಗಿ ಮೇಲಿನ ಬಲಕ್ಕೆ, ನಲವತ್ತೈದು ಡಿಗ್ರಿ ಕೋನದಲ್ಲಿ ಓರೆಯಾದ ರೇಖೆಗಳನ್ನು ಎಳೆಯುವುದು. ಈ ರೇಖೆಗಳು ಘನದ ಆಳವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಮೂರನೇ ಮತ್ತು ಕೊನೆಯ ಹಂತ, ಈ ಓರೆಯಾದ ರೇಖೆಗಳ ತುದಿಗಳನ್ನು ಸೇರಿಸಿ ಘನದ ಹಿಮ್ಮುಖವನ್ನು ರಚಿಸುವುದು. ಈಗ ನೋಡಿ, ನಮ್ಮ ಘನದ ಸರಳವಾದ ಓರೆ ರೇಖಾಚಿತ್ರ ಸಿದ್ಧವಾಗಿದೆ. ಇದು 3-D ಆಕೃತಿಯನ್ನು 2-D ಹಾಳೆಯ ಮೇಲೆ ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಘನದ ಓರೆ ರೇಖಾಚಿತ್ರವನ್ನು ಹೇಗೆ ರಚಿಸುವುದು ಎಂದು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ಘನದ ಮುಮ್ಮುಖವನ್ನು, ಅಂದರೆ ಒಂದು ಚೌಕವನ್ನು ಚಿತ್ರಿಸುವುದು. ಇದು ವಸ್ತುವಿನ ಮುಂಭಾಗದ ನೋಟ. ಎರಡನೇ ಹಂತ, ಈ ಚೌಕದ ಮೂಲೆಗಳಿಂದ, ಸಾಮಾನ್ಯವಾಗಿ ಮೇಲಿನ ಬಲಕ್ಕೆ, $45°$ ಕೋನದಲ್ಲಿ ಓರೆಯಾದ ರೇಖೆಗಳನ್ನು ಎಳೆಯುವುದು. ಈ ರೇಖೆಗಳು ಘನದ ಆಳವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಮೂರನೇ ಮತ್ತು ಕೊನೆಯ ಹಂತ, ಈ ಓರೆಯಾದ ರೇಖೆಗಳ ತುದಿಗಳನ್ನು ಸೇರಿಸಿ ಘನದ ಹಿಮ್ಮುಖವನ್ನು ರಚಿಸುವುದು. ಈಗ ನೋಡಿ, ನಮ್ಮ ಘನದ ಸರಳವಾದ ಓರೆ ರೇಖಾಚಿತ್ರ ಸಿದ್ಧವಾಗಿದೆ. ಇದು 3-D ಆಕೃತಿಯನ್ನು 2-D ಹಾಳೆಯ ಮೇಲೆ ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹಂತ 1: ಮುಮ್ಮುಖವಾಗಿ ಒಂದು ಚೌಕವನ್ನು ಎಳೆಯಿರಿ.",
+    "ಹಂತ 2: ಮೂಲೆಗಳಿಂದ $45°$ ಕೋನದಲ್ಲಿ ಓರೆ ರೇಖೆಗಳನ್ನು ಎಳೆಯಿರಿ.",
+    "ಹಂತ 3: ಓರೆ ರೇಖೆಗಳ ತುದಿಗಳನ್ನು ಸೇರಿಸಿ ಹಿಮ್ಮುಖವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 3-step diagram showing how to draw an oblique sketch of a cube. Step 1 shows a square (front face). Step 2 shows receding lines drawn from the corners of the square at a 45-degree angle. Step 3 shows the back face drawn by connecting the ends of the receding lines.",
+    "labels": "ಹಂತ 1, ಹಂತ 2, ಹಂತ 3, ಮುಮ್ಮುಖ, ಓರೆ ರೇಖೆಗಳು, ಹಿಮ್ಮುಖ",
+    "mathematical_significance": "Illustrates the procedural construction of an oblique sketch, a fundamental technique in representing 3D objects in 2D.",
+    "placeholder_note": "Image to be generated showing the 3 steps to draw a cube's oblique sketch."
+  },
+  "chunk_id": "VIS-SOLID-2_concept_4_chunk_005"
+}

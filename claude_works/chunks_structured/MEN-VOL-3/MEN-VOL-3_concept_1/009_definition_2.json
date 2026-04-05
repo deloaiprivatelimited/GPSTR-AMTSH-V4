@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಶಂಕುವಿನ ಎತ್ತರ (h): ಪರಿಚಯ",
+  "script": "ನಾವು ಈಗ ಶಂಕುವಿನ ಒಂದು ಪ್ರಮುಖ ಅಳತೆಯಾದ ಎತ್ತರದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ನಿಮ್ಮ ಕಣ್ಣ ಮುಂದೆ ಒಂದು ಐಸ್ ಕ್ರೀಮ್ ಕೋನ್ ಅಥವಾ ಹುಟ್ಟುಹಬ್ಬದ ಟೋಪಿಯನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಅದರ ಮೇಲ್ಭಾಗದ ಚೂಪಾದ ಬಿಂದುವನ್ನು ನಾವು ಶೃಂಗ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಕೆಳಗಿರುವ ವೃತ್ತಾಕಾರದ ಭಾಗವನ್ನು ಪಾದ ಎನ್ನುತ್ತೇವೆ. ಈ ಶೃಂಗದಿಂದ, ಪಾದದ ವೃತ್ತದ ಸರಿಯಾಗಿ ಮಧ್ಯದಲ್ಲಿರುವ ಬಿಂದುವಿಗೆ, ನೇರವಾಗಿ ಕೆಳಗೆ ಬರುವ ಅಂತರವೇ ಶಂಕುವಿನ ಎತ್ತರ. ಇದು ಒಂದು ಲಂಬವಾದ ಅಂತರವಾಗಿದೆ.",
+  "script_display": "ನಾವು ಈಗ ಶಂಕುವಿನ ಒಂದು ಪ್ರಮುಖ ಅಳತೆಯಾದ 'ಎತ್ತರ'ದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ನಿಮ್ಮ ಕಣ್ಣ ಮುಂದೆ ಒಂದು ಐಸ್ ಕ್ರೀಮ್ ಕೋನ್ ಅಥವಾ ಹುಟ್ಟುಹಬ್ಬದ ಟೋಪಿಯನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಅದರ ಮೇಲ್ಭಾಗದ ಚೂಪಾದ ಬಿಂದುವನ್ನು ನಾವು 'ಶೃಂಗ' (Apex) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಕೆಳಗಿರುವ ವೃತ್ತಾಕಾರದ ಭಾಗವನ್ನು 'ಪಾದ' (Base) ಎನ್ನುತ್ತೇವೆ. ಈ ಶೃಂಗದಿಂದ, ಪಾದದ ವೃತ್ತದ ಸರಿಯಾಗಿ ಮಧ್ಯದಲ್ಲಿರುವ ಬಿಂದುವಿಗೆ, ನೇರವಾಗಿ ಕೆಳಗೆ ಬರುವ ಅಂತರವೇ ಶಂಕುವಿನ ಎತ್ತರ. ಇದು ಒಂದು ಲಂಬವಾದ ಅಂತರವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಶೃಂಗ (Apex): ಶಂಕುವಿನ ಮೇಲ್ಭಾಗದ ಚೂಪಾದ ಬಿಂದು.",
+    "ಪಾದ (Base): ಶಂಕುವಿನ ಕೆಳಗಿನ ವೃತ್ತಾಕಾರದ ಭಾಗ.",
+    "ಎತ್ತರ (Height): ಶೃಂಗದಿಂದ ಪಾದದ ಕೇಂದ್ರಕ್ಕೆ ಇರುವ ಲಂಬ ಅಂತರ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right circular cone with labels. The apex is at the top. The circular base is at the bottom. A vertical dashed line runs from the apex to the center of the base, and this line is labeled 'h' (ಎತ್ತರ).",
+    "labels": "ಶೃಂಗ (Apex), ಪಾದ (Base), ಪಾದದ ಕೇಂದ್ರ (Center of Base), ಎತ್ತರ (h)",
+    "mathematical_significance": "Introduces the key components of a cone needed to define its height.",
+    "placeholder_note": "Image to be generated. Show a simple line drawing of a cone."
+  },
+  "chunk_id": "MEN-VOL-3_concept_1_chunk_009"
+}

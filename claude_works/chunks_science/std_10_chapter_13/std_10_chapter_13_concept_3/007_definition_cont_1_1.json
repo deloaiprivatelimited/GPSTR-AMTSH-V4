@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಪೋಷಣಾಸ್ತರಗಳ ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಪೋಷಣಾಸ್ತರಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಹುಲ್ಲುಗಾವಲಿನ ಆಹಾರ ಸರಪಳಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ, ಹುಲ್ಲು, ಮಿಡತೆ, ಮತ್ತು ಕಪ್ಪೆ. ಇಲ್ಲಿ, ಹುಲ್ಲು ಸೂರ್ಯನ ಶಕ್ತಿಯನ್ನು ಬಳಸಿ ಆಹಾರ ತಯಾರಿಸುತ್ತದೆ, ಆದ್ದರಿಂದ ಅದು ಉತ್ಪಾದಕ. ಇದು ಮೊದಲ ಪೋಷಣಾಸ್ತರದಲ್ಲಿದೆ. ಹುಲ್ಲನ್ನು ತಿನ್ನುವ ಮಿಡತೆ ಪ್ರಾಥಮಿಕ ಭಕ್ಷಕ, ಇದು ಎರಡನೇ ಪೋಷಣಾಸ್ತರದಲ್ಲಿದೆ. ಮಿಡತೆಯನ್ನು ತಿನ್ನುವ ಕಪ್ಪೆ ದ್ವಿತೀಯಕ ಭಕ್ಷಕ, ಇದು ಮೂರನೇ ಪೋಷಣಾಸ್ತರದಲ್ಲಿದೆ. ಹೀಗೆ ಶಕ್ತಿಯು ಮೊದಲನೆಯ ಸ್ತರದಿಂದ ಎರಡನೆಯದಕ್ಕೆ, ನಂತರ ಮೂರನೆಯದಕ್ಕೆ ಹರಿಯುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಪೋಷಣಾಸ್ತರಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಹುಲ್ಲುಗಾವಲಿನ ಆಹಾರ ಸರಪಳಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ: ಹುಲ್ಲು → ಮಿಡತೆ → ಕಪ್ಪೆ. ಇಲ್ಲಿ, ಹುಲ್ಲು ಸೂರ್ಯನ ಶಕ್ತಿಯನ್ನು ಬಳಸಿ ಆಹಾರ ತಯಾರಿಸುತ್ತದೆ, ಆದ್ದರಿಂದ ಅದು ಉತ್ಪಾದಕ. ಇದು **ಮೊದಲ ಪೋಷಣಾಸ್ತರ (T1)**ದಲ್ಲಿದೆ. ಹುಲ್ಲನ್ನು ತಿನ್ನುವ ಮಿಡತೆ ಪ್ರಾಥಮಿಕ ಭಕ್ಷಕ, ಇದು **ಎರಡನೇ ಪೋಷಣಾಸ್ತರ (T2)**ದಲ್ಲಿದೆ. ಮಿಡತೆಯನ್ನು ತಿನ್ನುವ ಕಪ್ಪೆ ದ್ವಿತೀಯಕ ಭಕ್ಷಕ, ಇದು **ಮೂರನೇ ಪೋಷಣಾಸ್ತರ (T3)**ದಲ್ಲಿದೆ. ಹೀಗೆ ಶಕ್ತಿಯು T1 ನಿಂದ T2 ಗೆ, ನಂತರ T3 ಗೆ ಹರಿಯುತ್ತದೆ.",
+  "display_bullets": [
+    "**ಮೊದಲ ಪೋಷಣಾಸ್ತರ (T1):** ಉತ್ಪಾದಕರು (ಉದಾ: ಹುಲ್ಲು)",
+    "**ಎರಡನೇ ಪೋಷಣಾಸ್ತರ (T2):** ಪ್ರಾಥಮಿಕ ಭಕ್ಷಕರು (ಉದಾ: ಮಿಡತೆ)",
+    "**ಮೂರನೇ ಪೋಷಣಾಸ್ತರ (T3):** ದ್ವಿತೀಯಕ ಭಕ್ಷಕರು (ಉದಾ: ಕಪ್ಪೆ)",
+    "ಶಕ್ತಿಯು T1 ನಿಂದ T2 ಗೆ, ನಂತರ T3 ಗೆ ಹರಿಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple food chain diagram showing grass, a grasshopper, and a frog. Arrows point from grass to grasshopper, and from grasshopper to frog. Each organism is labeled with its trophic level: Grass (ಮೊದಲ ಪೋಷಣಾಸ್ತರ - T1), Grasshopper (ಎರಡನೇ ಪೋಷಣಾಸ್ತರ - T2), Frog (ಮೂರನೇ ಪೋಷಣಾಸ್ತರ - T3).",
+    "labels": "ಹುಲ್ಲು, ಮಿಡತೆ, ಕಪ್ಪೆ, ಮೊದಲ ಪೋಷಣಾಸ್ತರ, ಎರಡನೇ ಪೋಷಣಾಸ್ತರ, ಮೂರನೇ ಪೋಷಣಾಸ್ತರ, ಶಕ್ತಿಯ ಹರಿವು",
+    "scientific_significance": "Illustrates the concept of discrete trophic levels within a linear food chain, showing the pathway of energy transfer.",
+    "placeholder_note": "Image to be generated showing the grass -> grasshopper -> frog food chain with trophic level labels."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_13_concept_3_chunk_007"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ಈ ದತ್ತಾಂಶಗಳನ್ನು ಬಳಸಿ ನಾವು ಮಾಡಿದ ಲೆಕ್ಕಾಚಾರದ ಪ್ರಕಾರ, ಭೂಮಿಯ ಮೇಲ್ಮೈಯಲ್ಲಿ ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷದ ಮೌಲ್ಯವು ಸರಿಸುಮಾರು ಒಂಬತ್ತು ಪಾಯಿಂಟ್ ಎಂಟು ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್ ಆಗಿದೆ. ಇದು ಒಂದು ಪ್ರಮುಖವಾದ ಸ್ಥಿರಾಂಕವಾಗಿದ್ದು, ಭೌತಶಾಸ್ತ್ರದ ಅನೇಕ ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಹೀಗಾಗಿ, ಭೂಮಿಯ ಮೇಲ್ಮೈಯಲ್ಲಿ ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷದ ಮೌಲ್ಯವು ಸರಿಸುಮಾರು $9.8 \\text{ m/s}^2$ ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಭೂಮಿಯ ಮೇಲ್ಮೈಯಲ್ಲಿ ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ (g) $\\approx 9.8 \\text{ m/s}^2$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "physics_warm",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_9_example_calc_g",
+  "final_answer": "g ≈ 9.8 m/s²",
+  "final_answer_display": "ಭೂಮಿಯ ಮೇಲ್ಮೈಯಲ್ಲಿ ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷದ ಮೌಲ್ಯವು ಸುಮಾರು $9.8 \\text{ m/s}^2$ ಆಗಿದೆ.",
+  "chunk_id": "std_9_chapter_9_concept_3_chunk_024"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹೋಲಿಕೆ 1: ಆಮ್ಲಜನಕ (Oxygen)",
+  "script": "ಮೊದಲಿಗೆ ಆಮ್ಲಜನಕವನ್ನು ನೋಡೋಣ. ನಾವು ಉಸಿರಾಟಕ್ಕಾಗಿ ಒಳಗೆಳೆದುಕೊಳ್ಳುವ ಗಾಳಿಯಲ್ಲಿ ಸುಮಾರು ಇಪ್ಪತ್ತೊಂದು ಪ್ರತಿಶತದಷ್ಟು ಆಮ್ಲಜನಕ ಇರುತ್ತದೆ. ಆದರೆ, ನಾವು ಹೊರಬಿಡುವ ಗಾಳಿಯಲ್ಲಿ ಇದರ ಪ್ರಮಾಣ ಸುಮಾರು ಹದಿನಾರು ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಪ್ರತಿಶತಕ್ಕೆ ಇಳಿಯುತ್ತದೆ. ಈ ವ್ಯತ್ಯಾಸಕ್ಕೆ ಕಾರಣವೇನು? ನಮ್ಮ ದೇಹದ ಪ್ರತಿಯೊಂದು ಜೀವಕೋಶಕ್ಕೂ ಶಕ್ತಿ ಬೇಕು. ಈ ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸಲು, ಜೀವಕೋಶಗಳು ನಾವು ಸೇವಿಸಿದ ಆಹಾರವನ್ನು ಆಮ್ಲಜನಕದ ಸಹಾಯದಿಂದ ವಿಭಜಿಸುತ್ತವೆ. ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಕೋಶೀಯ ಉಸಿರಾಟ ಎನ್ನುತ್ತೇವೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಆಮ್ಲಜನಕವು ಬಳಕೆಯಾಗುವುದರಿಂದ, ನಿಶ್ವಾಸದ ಗಾಳಿಯಲ್ಲಿ ಅದರ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ ಆಮ್ಲಜನಕವನ್ನು (O₂) ನೋಡೋಣ. ನಾವು ಉಚ್ಛಾಸದ ಮೂಲಕ ಒಳಗೆಳೆದುಕೊಳ್ಳುವ ಗಾಳಿಯಲ್ಲಿ ಸುಮಾರು 21% ಆಮ್ಲಜನಕ ಇರುತ್ತದೆ. ಆದರೆ, ನಾವು ನಿಶ್ವಾಸದ ಮೂಲಕ ಹೊರಬಿಡುವ ಗಾಳಿಯಲ್ಲಿ ಇದರ ಪ್ರಮಾಣ ಸುಮಾರು 16.4% ಕ್ಕೆ ಇಳಿಯುತ್ತದೆ. ಈ ವ್ಯತ್ಯಾಸಕ್ಕೆ ಕಾರಣವೇನು? ನಮ್ಮ ದೇಹದ ಜೀವಕೋಶಗಳು ಶಕ್ತಿಯ ಉತ್ಪಾದನೆಗಾಗಿ ಆಮ್ಲಜನಕವನ್ನು ಬಳಸಿಕೊಳ್ಳುತ್ತವೆ. ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು 'ಕೋಶೀಯ ಉಸಿರಾಟ' ಎನ್ನುತ್ತೇವೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಆಮ್ಲಜನಕವು ಬಳಕೆಯಾಗುವುದರಿಂದ, ನಿಶ್ವಾಸದ ಗಾಳಿಯಲ್ಲಿ ಅದರ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉಚ್ಛಾಸದ ಗಾಳಿ: ~21% ಆಮ್ಲಜನಕ",
+    "ನಿಶ್ವಾಸದ ಗಾಳಿ: ~16.4% ಆಮ್ಲಜನಕ",
+    "ಕಾರಣ: ಕೋಶೀಯ ಉಸಿರಾಟದಲ್ಲಿ ಶಕ್ತಿ ಉತ್ಪಾದನೆಗೆ ಆಮ್ಲಜನಕ ಬಳಕೆಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_clean",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing the human respiratory system. An arrow labeled 'ಉಚ್ಛಾಸ: 21% O₂' points into the lungs. Another arrow labeled 'ನಿಶ್ವಾಸ: 16.4% O₂' points out of the lungs. A small box next to the lungs represents a body cell, with an arrow showing O₂ entering the cell for 'ಕೋಶೀಯ ಉಸಿರಾಟ'.",
+    "labels": "Lungs, Inhaled Air, Exhaled Air, Oxygen percentage, Cellular Respiration",
+    "scientific_significance": "Illustrates the consumption of oxygen by the body during respiration.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_6_concept_5_chunk_009"
+}

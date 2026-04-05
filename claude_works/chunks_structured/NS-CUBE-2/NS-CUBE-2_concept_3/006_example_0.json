@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: 243 ಪೂರ್ಣ ಘನವೇ?",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 243 ಪೂರ್ಣ ಘನವೇ ಎಂದು ನಾವು ಪರೀಕ್ಷಿಸಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ವಿಧಾನದಲ್ಲಿ, ಸಂಖ್ಯೆಯ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು ಮೂರರ ಗುಂಪುಗಳಲ್ಲಿ ಇವೆಯೇ ಎಂದು ನಾವು ಪರಿಶೀಲಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $243$ ಪೂರ್ಣ ಘನವೇ ಎಂದು ನಾವು ಪರೀಕ್ಷಿಸಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ವಿಧಾನದಲ್ಲಿ, ಸಂಖ್ಯೆಯ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು ಮೂರರ ಗುಂಪುಗಳಲ್ಲಿ ಇವೆಯೇ ಎಂದು ನಾವು ಪರಿಶೀಲಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 243 ಪೂರ್ಣ ಘನವೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ.",
+    "ವಿಧಾನ: ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-CUBE-2_example_1",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-CUBE-2_concept_3_chunk_006"
+}

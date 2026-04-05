@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು (ಮುಂದುವರಿದಿದೆ)",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತ, ಕಾಗದದ ಮೇಲೆ ಒಂದು ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ ಮತ್ತು ಅದನ್ನು ಪಿ ಎಂದು ಹೆಸರಿಸಿ. ಈ ಬಿಂದುವು ನಮ್ಮ ವೃತ್ತದ ಕೇಂದ್ರವಾಗಲಿದೆ. ನಾಲ್ಕನೇ ಹಂತ, ಈಗ ವೃತ್ತವನ್ನು ರಚಿಸೋಣ. ಕೈವಾರದ ಲೋಹದ ತುದಿಯನ್ನು ಪಿ ಬಿಂದುವಿನ ಮೇಲೆ ಸ್ಥಿರವಾಗಿ ಇರಿಸಿ. ಪೆನ್ಸಿಲ್ ತುದಿಯನ್ನು ಕಾಗದದ ಮೇಲೆ ನಿಧಾನವಾಗಿ ಒತ್ತಿ, ಕೈವಾರವನ್ನು ಪೂರ್ಣ ಒಂದು ಸುತ್ತು ಬರುವಂತೆ ತಿರುಗಿಸಿ. ಇದನ್ನು ಮಾಡುವಾಗ ಕೈವಾರದ ಅಳತೆ ಬದಲಾಗದಂತೆ ಎಚ್ಚರವಹಿಸಿ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತ, ಕಾಗದದ ಮೇಲೆ ಒಂದು ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ ಮತ್ತು ಅದನ್ನು 'P' ಎಂದು ಹೆಸರಿಸಿ. ಈ ಬಿಂದುವು ನಮ್ಮ ವೃತ್ತದ ಕೇಂದ್ರವಾಗಲಿದೆ. ನಾಲ್ಕನೇ ಹಂತ, ಈಗ ವೃತ್ತವನ್ನು ರಚಿಸೋಣ. ಕೈವಾರದ ಲೋಹದ ತುದಿಯನ್ನು 'P' ಬಿಂದುವಿನ ಮೇಲೆ ಸ್ಥಿರವಾಗಿ ಇರಿಸಿ. ಪೆನ್ಸಿಲ್ ತುದಿಯನ್ನು ಕಾಗದದ ಮೇಲೆ ನಿಧಾನವಾಗಿ ಒತ್ತಿ, ಕೈವಾರವನ್ನು ಪೂರ್ಣ ಒಂದು ಸುತ್ತು ಬರುವಂತೆ ತಿರುಗಿಸಿ. ಇದನ್ನು ಮಾಡುವಾಗ ಕೈವಾರದ ಅಳತೆ ಬದಲಾಗದಂತೆ ಎಚ್ಚರವಹಿಸಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-panel image. Left panel shows a point 'P' marked on a sheet of paper. Right panel shows the final step: the compass is placed on 'P' and a circle is being drawn.",
+    "labels": "ಹಂತ 3, ಹಂತ 4, ಕೇಂದ್ರ P",
+    "mathematical_significance": "Shows the process of anchoring the compass at the center and sweeping it to form the circle, which is the core action of the construction.",
+    "placeholder_note": "Image showing marking the center and drawing the circle."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "VIS-CON-1_example_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಹಂತ 3: ಕಾಗದದ ಮೇಲೆ ಒಂದು ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ ಮತ್ತು ಅದನ್ನು 'P' ಎಂದು ಹೆಸರಿಸಿ.",
+      "justification": "ವೃತ್ತದ ಕೇಂದ್ರವನ್ನು ಸ್ಥಾಪಿಸಲು."
+    },
+    {
+      "step": 4,
+      "action_display": "ಹಂತ 4: ಕೈವಾರದ ಲೋಹದ ತುದಿಯನ್ನು 'P' ಮೇಲೆ ಇರಿಸಿ ಮತ್ತು ಪೆನ್ಸಿಲ್ ತುದಿಯನ್ನು ತಿರುಗಿಸಿ ವೃತ್ತವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ.",
+      "justification": "ಕೇಂದ್ರ 'P' ಮತ್ತು 4 cm ತ್ರಿಜ್ಯದೊಂದಿಗೆ ವೃತ್ತವನ್ನು ಎಳೆಯಲು."
+    }
+  ],
+  "chunk_id": "VIS-CON-1_concept_1_chunk_020"
+}

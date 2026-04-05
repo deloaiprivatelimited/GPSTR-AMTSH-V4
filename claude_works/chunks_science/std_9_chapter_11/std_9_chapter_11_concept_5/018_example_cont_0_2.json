@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಈಗ ಪರಿಹಾರದ ಅಂತಿಮ ಹಂತ. ನಾವು ಲೆಕ್ಕ ಹಾಕಿದ 1730 ಮೀಟರ್ ಎಂಬುದು ಶಬ್ದವು ಹೋಗಿ-ಬರಲು ಚಲಿಸಿದ ಒಟ್ಟು ದೂರ. ಆದರೆ ಪ್ರಶ್ನೆಯಲ್ಲಿ ಕೇಳಿರುವುದು ಮನುಷ್ಯ ಮತ್ತು ಗುಡ್ಡದ ನಡುವಿನ ದೂರ ಮಾತ್ರ. ಅಂದರೆ, ನಮಗೆ ಕೇವಲ ಒಂದು ಬದಿಯ ದೂರ ಬೇಕು. ಇದಕ್ಕಾಗಿ, ನಾವು ಒಟ್ಟು ದೂರವನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಬೇಕು. ಹಾಗಾಗಿ, 1730 ಭಾಗಿಸು 2 ಮಾಡಿದಾಗ ನಮಗೆ 865 ಮೀಟರ್ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ನಾವು ಲೆಕ್ಕ ಹಾಕಿದ 1730 m ಎಂಬುದು ಶಬ್ದವು ಹೋಗಿ-ಬರಲು ಚಲಿಸಿದ ಒಟ್ಟು ದೂರ (2d). ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಮನುಷ್ಯ ಮತ್ತು ಗುಡ್ಡದ ನಡುವಿನ ದೂರ (d).",
+  "display_bullets": [
+    "ಮನುಷ್ಯ ಮತ್ತು ಗುಡ್ಡದ ನಡುವಿನ ದೂರ (d) = ಒಟ್ಟು ದೂರ / 2",
+    "d = 1730 m / 2",
+    "d = 865 m"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "d = \\frac{ಒಟ್ಟು \\ ದೂರ}{2}",
+    "placeholder_note": "Formula for one-way distance"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_11_example_2",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಮನುಷ್ಯ ಮತ್ತು ಗುಡ್ಡದ ನಡುವಿನ ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+      "justification": "ಲೆಕ್ಕ ಹಾಕಿದ ದೂರವು ಶಬ್ದವು ಹೋಗಿ-ಬರಲು ಚಲಿಸಿದ ದೂರ. ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಒಂದು ಬದಿಯ ದೂರ, ಅಂದರೆ ಅದರ ಅರ್ಧ."
+    }
+  ],
+  "chunk_id": "std_9_chapter_11_concept_5_chunk_018"
+}

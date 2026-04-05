@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತಗಳು 3-4",
+  "script": "ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ವಿಲೋಮ ಅನುಪಾತದ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ, ಅಂದರೆ x ಒಂದು y ಒಂದು ಸಮ x ಎರಡು y ಎರಡು. ಈಗ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. 6 ಗುಣಿಸು 80 ಸಮ 5 ಗುಣಿಸು y ಎರಡು. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, y ಎರಡಕ್ಕಾಗಿ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸೋಣ. y ಎರಡು ಸಮ 6 ಗುಣಿಸು 80, ಭಾಗಿಸು 5. 80 ಅನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ 16 ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, y ಎರಡು ಸಮ 6 ಗುಣಿಸು 16, ಅಂದರೆ 96 ನಿಮಿಷಗಳು.",
+  "script_display": "ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ವಿಲೋಮ ಅನುಪಾತದ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ, ಅಂದರೆ $x_1 y_1 = x_2 y_2$. ಈಗ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. $6 \\times 80 = 5 \\times y_2$. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, $y_2$ ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸೋಣ. $y_2 = \\frac{6 \\times 80}{5}$. $80$ ಅನ್ನು $5$ ರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ $16$ ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, $y_2 = 6 \\times 16$, ಅಂದರೆ $96$ ನಿಮಿಷಗಳು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "full_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "RPP-PROP-2_example_7",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ವಿಲೋಮ ಅನುಪಾತದ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು: $x_1 y_1 = x_2 y_2 \\implies 6 \\times 80 = 5 \\times y_2$",
+      "justification": "ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿ, ಪರಿಮಾಣಗಳ ಗುಣಲಬ್ಧವು ಸ್ಥಿರವಾಗಿರುತ್ತದೆ."
+    },
+    {
+      "step": 4,
+      "action_display": "$y_2$ ಗಾಗಿ ಬಿಡಿಸುವುದು: $y_2 = \\frac{6 \\times 80}{5} = 6 \\times 16 = 96$ ನಿಮಿಷಗಳು.",
+      "justification": "ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "RPP-PROP-2_concept_2_chunk_018"
+}

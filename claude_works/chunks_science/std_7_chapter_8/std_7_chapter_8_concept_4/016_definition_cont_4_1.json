@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಂಡಾಶಯದ ಸ್ಥಾನ ಮತ್ತು ರಚನೆ",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ನೀವು ಹೂವಿನ ಸ್ತ್ರೀ ಪ್ರಜನನ ಭಾಗವಾದ ಶಲಾಕೆಯನ್ನು ನೋಡಬಹುದು. ಶಲಾಕೆಯ ತಳದಲ್ಲಿರುವ ಉಬ್ಬಿದ ರಚನೆಯೇ ಅಂಡಾಶಯ. ಈ ಅಂಡಾಶಯದ ಒಳಗೆ, ನೀವು ಸಣ್ಣ ಮಣಿಗಳಂತಹ ರಚನೆಗಳನ್ನು ನೋಡಬಹುದು, ಇವುಗಳೇ ಅಂಡಕಗಳು ಅಥವಾ ಓವ್ಯೂಲ್ಸ್. ನೆನಪಿಡಿ, ಪ್ರತಿಯೊಂದು ಅಂಡಕವು ಸ್ತ್ರೀ ಲಿಂಗಾಣುವನ್ನು, ಅಂದರೆ ಫೀಮೇಲ್ ಗ್ಯಾಮೀಟ್ ಅನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಈ ರಚನೆಗಳು ಸಸ್ಯದ ಸಂತಾನೋತ್ಪತ್ತಿಗೆ ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ನೀವು ಹೂವಿನ ಸ್ತ್ರೀ ಪ್ರಜನನ ಭಾಗವಾದ ಶಲಾಕೆಯನ್ನು (pistil) ನೋಡಬಹುದು. ಶಲಾಕೆಯ ತಳದಲ್ಲಿರುವ ಉಬ್ಬಿದ ರಚನೆಯೇ ಅಂಡಾಶಯ. ಈ ಅಂಡಾಶಯದ ಒಳಗೆ, ನೀವು ಸಣ್ಣ ಮಣಿಗಳಂತಹ ರಚನೆಗಳನ್ನು ನೋಡಬಹುದು, ಇವುಗಳೇ ಅಂಡಕಗಳು (ovules). ನೆನಪಿಡಿ, ಪ್ರತಿಯೊಂದು ಅಂಡಕವು ಸ್ತ್ರೀ ಲಿಂಗಾಣುವನ್ನು (female gamete) ಹೊಂದಿರುತ್ತದೆ. ಈ ರಚನೆಗಳು ಸಸ್ಯದ ಸಂತಾನೋತ್ಪತ್ತಿಗೆ ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಚಿತ್ರದಲ್ಲಿ, ಶಲಾಕೆಯ (pistil) ತಳಭಾಗದಲ್ಲಿರುವ ಉಬ್ಬಿದ ರಚನೆಯೇ ಅಂಡಾಶಯ.",
+    "ಅಂಡಾಶಯದ ಒಳಗೆ ಅಂಡಕಗಳು (ovules) ಇರುತ್ತವೆ.",
+    "ಪ್ರತಿಯೊಂದು ಅಂಡಕವು ಸ್ತ್ರೀ ಲಿಂಗಾಣುವನ್ನು (female gamete) ಹೊಂದಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear diagram of the flower's pistil (ಶಲಾಕೆ), with labels pointing to the stigma (ಶಲಾಕಾಗ್ರ), style (ಶಲಾಕ ನಳಿಕೆ), and the basal swollen ovary (ಅಂಡಾಶಯ). A cross-section of the ovary shows the ovules (ಅಂಡಕ) inside.",
+    "labels": "ಶಲಾಕಾಗ್ರ (Stigma), ಶಲಾಕ ನಳಿಕೆ (Style), ಅಂಡಾಶಯ (Ovary), ಅಂಡಕ (Ovule)",
+    "scientific_significance": "Illustrates the structure of the female reproductive part of a flower, showing the location of the ovary and the ovules within it, which are essential for sexual reproduction in plants.",
+    "placeholder_note": "Image to be generated based on description. Should match the style of a 7th-grade biology textbook diagram."
+  },
+  "chunk_id": "std_7_chapter_8_concept_4_chunk_016"
+}

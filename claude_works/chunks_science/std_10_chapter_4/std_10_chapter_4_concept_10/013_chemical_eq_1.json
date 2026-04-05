@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾಬೂನೀಕರಣ ಕ್ರಿಯೆ",
+  "script": "ಈಗ ನಾವು ಎಥನೋಯಿಕ್ ಆಮ್ಲದ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಕ್ರಿಯೆಯಾದ ಸಾಬೂನೀಕರಣವನ್ನು ನೋಡೋಣ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ, ಈಥೈಲ್ ಎಥನೋಯೇಟ್ ಎಂಬ ಎಸ್ಟರ್, ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಎಂಬ ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎಥನಾಲ್ ಮತ್ತು ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್ ಅನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯನ್ನು ಸಾಬೂನು ತಯಾರಿಕೆಯಲ್ಲಿ ಬಳಸುವುದರಿಂದ, ಇದನ್ನು ಸಾಬೂನೀಕರಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+  "script_display": "ಈಗ ನಾವು ಎಥನೋಯಿಕ್ ಆಮ್ಲದ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಕ್ರಿಯೆಯಾದ ಸಾಬೂನೀಕರಣವನ್ನು (Saponification) ನೋಡೋಣ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ, ಈಥೈಲ್ ಎಥನೋಯೇಟ್ ($CH_3COOC_2H_5$) ಎಂಬ ಎಸ್ಟರ್, ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ($NaOH$) ಎಂಬ ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎಥನಾಲ್ ($C_2H_5OH$) ಮತ್ತು ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್ ($CH_3COONa$) ಅನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯನ್ನು ಸಾಬೂನು ತಯಾರಿಕೆಯಲ್ಲಿ ಬಳಸುವುದರಿಂದ, ಇದನ್ನು ಸಾಬೂನೀಕರಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CH_3COOC_2H_5(l) + NaOH(aq) \\xrightarrow{ಶಾಖ} C_2H_5OH(aq) + CH_3COONa(aq)",
+    "placeholder_note": "Balanced chemical equation for saponification."
+  },
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_013"
+}

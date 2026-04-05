@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಹಂತ 2: ಮರದ ಹಲಗೆಯ ಪರೀಕ್ಷೆ",
+  "script": "ಈಗ ನಾವು ಗಾಜಿನ ಹಾಳೆಯನ್ನು ಬದಿಗಿಟ್ಟು ಮರದ ಹಲಗೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಹಿಂದಿನಂತೆಯೇ, ಟಾರ್ಚ್ ಬೆಳಕನ್ನು ಈ ಮರದ ಹಲಗೆಯ ಮೇಲೆ ಹಾಯಿಸೋಣ. ಏನಾಯಿತು? ಹಲಗೆಯ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ಬೆಳಕು ಕಾಣಿಸುತ್ತಿದೆಯೇ? ಇಲ್ಲ, ಸ್ವಲ್ಪವೂ ಬೆಳಕು ಆಚೆ ಬರುತ್ತಿಲ್ಲ. ಮರದ ಹಲಗೆಯು ಬೆಳಕನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಡೆಯುತ್ತದೆ. ಆದ್ದರಿಂದ, ಅದರ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ನೆರಳು ಉಂಟಾಗುತ್ತದೆ. ಈ ರೀತಿ ಬೆಳಕನ್ನು ತನ್ನ ಮೂಲಕ ಹಾದುಹೋಗಲು ಬಿಡದ ವಸ್ತುಗಳನ್ನು ನಾವು ಅಪಾರದರ್ಶಕ ವಸ್ತುಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ನಾವು ಗಾಜಿನ ಹಾಳೆಯನ್ನು ಬದಿಗಿಟ್ಟು ಮರದ ಹಲಗೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಹಿಂದಿನಂತೆಯೇ, ಟಾರ್ಚ್ ಬೆಳಕನ್ನು ಈ ಮರದ ಹಲಗೆಯ ಮೇಲೆ ಹಾಯಿಸೋಣ. ಏನಾಯಿತು? ಹಲಗೆಯ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ಬೆಳಕು ಕಾಣಿಸುತ್ತಿದೆಯೇ? ಇಲ್ಲ, ಸ್ವಲ್ಪವೂ ಬೆಳಕು ಆಚೆ ಬರುತ್ತಿಲ್ಲ. ಮರದ ಹಲಗೆಯು ಬೆಳಕನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಡೆಯುತ್ತದೆ. ಆದ್ದರಿಂದ, ಅದರ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ನೆರಳು ಉಂಟಾಗುತ್ತದೆ. ಈ ರೀತಿ ಬೆಳಕನ್ನು ತನ್ನ ಮೂಲಕ ಹಾದುಹೋಗಲು ಬಿಡದ ವಸ್ತುಗಳನ್ನು ನಾವು ಅಪಾರದರ್ಶಕ ವಸ್ತುಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಟಾರ್ಚ್ ಬೆಳಕನ್ನು ಮರದ ಹಲಗೆಯ ಮೇಲೆ ಹಾಯಿಸಿ.",
+    "ವೀಕ್ಷಣೆ: ಬೆಳಕು ಸ್ವಲ್ಪವೂ ಹಾದುಹೋಗುವುದಿಲ್ಲ.",
+    "ತೀರ್ಮಾನ: ಮರ ಒಂದು ಅಪಾರದರ್ಶಕ ವಸ್ತು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_A",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a lit torch's beam of light being completely blocked by a wooden plank. A dark shadow is cast behind the plank, and no light passes through.",
+    "labels": "ಟಾರ್ಚ್, ಮರದ ಹಲಗೆ, ತಡೆಯಲ್ಪಟ್ಟ ಬೆಳಕು (ನೆರಳು)",
+    "scientific_significance": "Visually demonstrates the concept of opacity, where an object completely blocks the passage of light, creating a shadow.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_6_chapter_6_concept_3_chunk_011"
+}

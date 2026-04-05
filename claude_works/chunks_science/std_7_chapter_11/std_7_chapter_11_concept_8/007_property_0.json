@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಬಿಳಿ ಬೆಳಕಿನ ಘಟಕ ಬಣ್ಣಗಳು (ವರ್ಣಪಂಕ್ತಿ)",
+  "script": "ಬಿಳಿ ಬೆಳಕನ್ನು ಪಟ್ಟಕದ ಮೂಲಕ ಹಾಯಿಸಿದಾಗ, ಅದು ಏಳು ಬಣ್ಣಗಳ ಸುಂದರ ಪಟ್ಟಿಯಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ. ಇದನ್ನು ಬೆಳಕಿನ ವರ್ಣಪಂಕ್ತಿ ಅಥವಾ ಸ್ಪೆಕ್ಟ್ರಮ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಏಳು ಬಣ್ಣಗಳ ಕ್ರಮವನ್ನು ನೆನಪಿಡಲು ಒಂದು ಸುಲಭವಾದ ಇಂಗ್ಲಿಷ್ ಪದವಿದೆ, ಅದುವೇ ವಿಬ್ಗಯೋರ್. ಇದರಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಅಕ್ಷರವೂ ಒಂದು ಬಣ್ಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಮೊದಲನೆಯದಾಗಿ, ವಿ ಅಂದರೆ ನೇರಳೆ ಬಣ್ಣ. ಇದು ವರ್ಣಪಂಕ್ತಿಯ ಮೊದಲ ಬಣ್ಣವಾಗಿದೆ. ನಂತರ, ಐ ಅಂದರೆ ಊದಾ ಬಣ್ಣ. ಇದು ನೇರಳೆ ಮತ್ತು ನೀಲಿ ಬಣ್ಣಗಳ ನಡುವೆ ಬರುವ ಒಂದು ಆಳವಾದ ಬಣ್ಣವಾಗಿದೆ.",
+  "script_display": "ಬಿಳಿ ಬೆಳಕನ್ನು ಪಟ್ಟಕದ (Prism) ಮೂಲಕ ಹಾಯಿಸಿದಾಗ, ಅದು ಏಳು ಬಣ್ಣಗಳ ಪಟ್ಟಿಯಾಗಿ (ವರ್ಣಪಂಕ್ತಿ - Spectrum) ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ. ಈ ಏಳು ಬಣ್ಣಗಳ ಕ್ರಮವನ್ನು ನೆನಪಿಡಲು ಒಂದು ಸುಲಭವಾದ ಮಾರ್ಗವಿದೆ, ಅದುವೇ VIBGYOR. ಇದರಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಅಕ್ಷರವೂ ಒಂದು ಬಣ್ಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಮೊದಲನೆಯದಾಗಿ, V ಅಂದರೆ ನೇರಳೆ (Violet). ಇದು ವರ್ಣಪಂಕ್ತಿಯ ಮೊದಲ ಬಣ್ಣವಾಗಿದೆ. ನಂತರ, I ಅಂದರೆ ಊದಾ (Indigo). ಇದು ನೇರಳೆ ಮತ್ತು ನೀಲಿ ಬಣ್ಣಗಳ ನಡುವೆ ಬರುವ ಬಣ್ಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಏಳು ಬಣ್ಣಗಳ ಕ್ರಮವನ್ನು VIBGYOR ಎಂದು ನೆನಪಿಡಬಹುದು.",
+    "V - ನೇರಳೆ (Violet)",
+    "I - ಊದಾ (Indigo)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಬೆಳಕಿನ ವರ್ಣಪಂಕ್ತಿ (spectrum) ಯನ್ನು ತೋರಿಸುವ ಚಿತ್ರ. VIBGYOR ಬಣ್ಣಗಳಲ್ಲಿ ನೇರಳೆ (Violet) ಮತ್ತು ಊದಾ (Indigo) ಬಣ್ಣಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "VIBGYOR Spectrum - Violet & Indigo",
+    "scientific_significance": "ಬಿಳಿ ಬೆಳಕಿನ ಘಟಕ ಬಣ್ಣಗಳನ್ನು ಮತ್ತು ಅವುಗಳ ಕ್ರಮವನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing the color spectrum with Violet and Indigo bands highlighted."
+  },
+  "chunk_id": "std_7_chapter_11_concept_8_chunk_007"
+}

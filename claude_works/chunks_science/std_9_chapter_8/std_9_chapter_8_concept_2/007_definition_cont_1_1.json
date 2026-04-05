@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಕಲ್ಲು ಮತ್ತು ಚೆಂಡು",
+  "script": "ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ಒಂದು ಸುಲಭ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಹೋಲಿಸಿ ನೋಡೋಣ. ನಿಮ್ಮ ಮುಂದೆ ಒಂದು ದೊಡ್ಡ ಕಲ್ಲು ಮತ್ತು ಒಂದು ಸಣ್ಣ ರಬ್ಬರ್ ಚೆಂಡು ಇದೆ ಎಂದು ಊಹಿಸಿಕೊಳ್ಳಿ. ಕಲ್ಲಿಗೆ ಹೆಚ್ಚು ದ್ರವ್ಯರಾಶಿ ಇರುತ್ತದೆ, ಆದ್ದರಿಂದ ಅದಕ್ಕೆ ಹೆಚ್ಚು ಜಡತ್ವ ಇರುತ್ತದೆ. ಈ ಕಾರಣದಿಂದ, ನಿಶ್ಚಲ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ಕಲ್ಲನ್ನು ಚಲನೆಗೆ ತರಲು ಹೆಚ್ಚು ಬಲ ಬೇಕಾಗುತ್ತದೆ. ಮತ್ತೊಂದೆಡೆ, ರಬ್ಬರ್ ಚೆಂಡಿಗೆ ಕಡಿಮೆ ದ್ರವ್ಯರಾಶಿ ಇರುವುದರಿಂದ, ಅದಕ್ಕೆ ಕಡಿಮೆ ಜಡತ್ವ ಇರುತ್ತದೆ. ಹಾಗಾಗಿ, ಅದನ್ನು ಚಲನೆಗೆ ತರಲು ನಮಗೆ ಕಡಿಮೆ ಬಲ ಸಾಕಾಗುತ್ತದೆ. ಜಡತ್ವವು ಸ್ಥಿತಿ ಬದಲಾವಣೆಯನ್ನು ವಿರೋಧಿಸುವ ಗುಣವಾಗಿದೆ.",
+  "script_display": "ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ಒಂದು ಸುಲಭ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಹೋಲಿಸಿ ನೋಡೋಣ. ನಿಮ್ಮ ಮುಂದೆ ಒಂದು ದೊಡ್ಡ ಕಲ್ಲು ಮತ್ತು ಒಂದು ಸಣ್ಣ ರಬ್ಬರ್ ಚೆಂಡು ಇದೆ ಎಂದು ಊಹಿಸಿಕೊಳ್ಳಿ. ಕಲ್ಲಿಗೆ ಹೆಚ್ಚು ದ್ರವ್ಯರಾಶಿ ಇರುತ್ತದೆ, ಆದ್ದರಿಂದ ಅದಕ್ಕೆ ಹೆಚ್ಚು ಜಡತ್ವ ಇರುತ್ತದೆ. ಈ ಕಾರಣದಿಂದ, ನಿಶ್ಚಲ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ಕಲ್ಲನ್ನು ಚಲನೆಗೆ ತರಲು ಹೆಚ್ಚು ಬಲ ಬೇಕಾಗುತ್ತದೆ. ಮತ್ತೊಂದೆಡೆ, ರಬ್ಬರ್ ಚೆಂಡಿಗೆ ಕಡಿಮೆ ದ್ರವ್ಯರಾಶಿ ಇರುವುದರಿಂದ, ಅದಕ್ಕೆ ಕಡಿಮೆ ಜಡತ್ವ ಇರುತ್ತದೆ. ಹಾಗಾಗಿ, ಅದನ್ನು ಚಲನೆಗೆ ತರಲು ನಮಗೆ ಕಡಿಮೆ ಬಲ ಸಾಕಾಗುತ್ತದೆ. ಜಡತ್ವವು ಸ್ಥಿತಿ ಬದಲಾವಣೆಯನ್ನು ವಿರೋಧಿಸುವ ಗುಣವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "physics_template_2",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A two-column comparison table. Left column for Stone, Right for Rubber Ball. Each column has an image and bullet points describing mass, inertia, and force required. The table should visually represent the comparison made in the script. The headers are 'ದೊಡ್ಡ ಕಲ್ಲು (Heavy Stone)' and 'ರಬ್ಬರ್ ಚೆಂಡು (Rubber Ball)'. The rows compare 'ದ್ರವ್ಯರಾಶಿ (Mass)', 'ಜಡತ್ವ (Inertia)', and 'ಅಗತ್ಯವಿರುವ ಬಲ (Force Needed)'. For the stone, values are 'ಹೆಚ್ಚು', 'ಹೆಚ್ಚು', 'ಹೆಚ್ಚು'. For the ball, values are 'ಕಡಿಮೆ', 'ಕಡಿಮೆ', 'ಕಡಿಮೆ'. Each column should also have a simple icon/image of a stone and a ball respectively."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_8_concept_2_chunk_007"
+}

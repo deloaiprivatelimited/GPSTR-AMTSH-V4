@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಪನ್ನ: ಎಸ್ಟರ್‌ಗಳು",
+  "script": "ಎಸ್ಟರೀಕರಣ ಕ್ರಿಯೆಯ ಮುಖ್ಯ ಉತ್ಪನ್ನವಾದ ಎಸ್ಟರ್‌ಗಳು ಕೆಲವು ವಿಶಿಷ್ಟ ಗುಣಗಳನ್ನು ಹೊಂದಿವೆ. ಎಸ್ಟರ್‌ಗಳು ಮಧುರವಾದ, ಹಣ್ಣಿನಂತಹ ವಾಸನೆಯನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಈ ಆಹ್ಲಾದಕರ ವಾಸನೆಯಿಂದಾಗಿ, ಅವುಗಳನ್ನು ಸುಗಂಧ ದ್ರವ್ಯಗಳ ತಯಾರಿಕೆಯಲ್ಲಿ ಬಳಸುತ್ತಾರೆ. ಅಲ್ಲದೆ, ಆಹಾರ ಪದಾರ್ಥಗಳಿಗೆ ಸುವಾಸನೆ ನೀಡುವ ಕಾರಕಗಳಾಗಿಯೂ ಇವುಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಎಸ್ಟರೀಕರಣ ಕ್ರಿಯೆಯ ಮುಖ್ಯ ಉತ್ಪನ್ನವಾದ ಎಸ್ಟರ್‌ಗಳು ಕೆಲವು ವಿಶಿಷ್ಟ ಗುಣಗಳನ್ನು ಹೊಂದಿವೆ.",
+  "display_bullets": [
+    "ಎಸ್ಟರ್‌ಗಳು ಮಧುರವಾದ, ಹಣ್ಣಿನಂತಹ ವಾಸನೆಯನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
+    "ಬಳಕೆ: ಸುಗಂಧ ದ್ರವ್ಯಗಳ (Perfumes) ತಯಾರಿಕೆಯಲ್ಲಿ.",
+    "ಬಳಕೆ: ಸುವಾಸನೆ ನೀಡುವ ಕಾರಕಗಳಾಗಿ (Flavouring agents)."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_lavender",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_012"
+}

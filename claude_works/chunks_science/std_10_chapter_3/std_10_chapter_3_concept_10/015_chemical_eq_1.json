@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಥರ್ಮೈಟ್ ಕ್ರಿಯೆ: ಸಮೀಕರಣ",
+  "script": "ಈಗ ನಾವು ಒಂದು ವಿಶೇಷವಾದ ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆಯಾದ ಥರ್ಮೈಟ್ ಕ್ರಿಯೆಯ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದರಲ್ಲಿ, ಘನ ರೂಪದಲ್ಲಿರುವ ಕಬ್ಬಿಣದ ಮೂರು ಆಕ್ಸೈಡ್, ಘನ ರೂಪದಲ್ಲಿರುವ ಎರಡು ಅಲ್ಯೂಮಿನಿಯಂ ಪರಮಾಣುಗಳೊಂದಿಗೆ ವರ್ತಿಸಿ, ದ್ರವ ರೂಪದಲ್ಲಿರುವ ಎರಡು ಕಬ್ಬಿಣದ ಪರಮಾಣುಗಳು, ಘನ ರೂಪದಲ್ಲಿರುವ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಮತ್ತು ಅಪಾರ ಪ್ರಮಾಣದ ಉಷ್ಣವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯು ಅತ್ಯಂತ ಉಷ್ಣಕ್ಷೇಪಕವಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ವಿಶೇಷವಾದ ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆಯಾದ ಥರ್ಮೈಟ್ ಕ್ರಿಯೆಯ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದರಲ್ಲಿ, ಘನ ರೂಪದಲ್ಲಿರುವ ಕಬ್ಬಿಣದ(III) ಆಕ್ಸೈಡ್, ಘನ ರೂಪದಲ್ಲಿರುವ ಅಲ್ಯೂಮಿನಿಯಂನೊಂದಿಗೆ ವರ್ತಿಸಿ, ದ್ರವ ರೂಪದಲ್ಲಿರುವ ಕಬ್ಬಿಣ, ಘನ ರೂಪದಲ್ಲಿರುವ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಮತ್ತು ಅಪಾರ ಪ್ರಮಾಣದ ಉಷ್ಣವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯು ಅತ್ಯಂತ ಉಷ್ಣಕ್ಷೇಪಕವಾಗಿದೆ (exothermic).",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Fe_{2}O_{3}(s) + 2Al(s) \\rightarrow 2Fe(l) + Al_{2}O_{3}(s) + \\text{ಉಷ್ಣ}",
+    "placeholder_note": "Balanced chemical equation for the Thermite reaction."
+  },
+  "chunk_id": "std_10_chapter_3_concept_10_chunk_015"
+}

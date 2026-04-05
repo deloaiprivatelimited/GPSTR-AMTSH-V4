@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥೈಸಿಕೊಳ್ಳೋಣ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು ನಮ್ಮ ಪ್ರಯೋಗ ಎಂದು ಭಾವಿಸೋಣ. ಈ ಪ್ರಯೋಗದ ಎಲ್ಲಾ ಸಾಧ್ಯವಿರುವ ಫಲಿತಗಳು ಒಂದು, ಎರಡು, ಮೂರು, ನಾಲ್ಕು, ಐದು, ಮತ್ತು ಆರು. ಈಗ, 'ಒಂದು ಸಮ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವುದು' ಎಂಬುದನ್ನು ಒಂದು ಘಟನೆ ಎಂದು ಪರಿಗಣಿಸೋಣ. ಈ ಘಟನೆಗೆ ಅನುಕೂಲಕರವಾದ ಫಲಿತಗಳು ಯಾವುವು? ಅವುಗಳೆಂದರೆ ಎರಡು, ನಾಲ್ಕು, ಮತ್ತು ಆರು. ಹೀಗೆ, ಈ ಮೂರು ಫಲಿತಗಳ ಸಂಗ್ರಹವೇ ನಮ್ಮ ಘಟನೆ 'E' ಆಗುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು ನಮ್ಮ ಪ್ರಯೋಗ ಎಂದು ಭಾವಿಸೋಣ. ಈ ಪ್ರಯೋಗದ ಎಲ್ಲಾ ಸಾಧ್ಯವಿರುವ ಫಲಿತಗಳು {1, 2, 3, 4, 5, 6}. ಈಗ, 'ಒಂದು ಸಮ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವುದು' ಎಂಬುದನ್ನು ಒಂದು ಘಟನೆ (Event) ಎಂದು ಪರಿಗಣಿಸೋಣ. ಈ ಘಟನೆಗೆ ಅನುಕೂಲಕರವಾದ ಫಲಿತಗಳು ಯಾವುವು? ಅವುಗಳೆಂದರೆ {2, 4, 6}. ಹೀಗೆ, ಈ ಮೂರು ಫಲಿತಗಳ ಸಂಗ್ರಹವೇ ನಮ್ಮ ಘಟನೆ 'E' ಆಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪ್ರಯೋಗ: ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು.",
+    "ಎಲ್ಲಾ ಫಲಿತಗಳು: ${1, 2, 3, 4, 5, 6}$",
+    "ಘಟನೆ (E): ಒಂದು ಸಮ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವುದು.",
+    "ಘಟನೆಗೆ ಅನುಕೂಲಕರ ಫಲಿತಗಳು: ${2, 4, 6}$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram shows the full set of outcomes for rolling a die, S = {1, 2, 3, 4, 5, 6}. An arrow points from this set to a smaller, highlighted subset E = {2, 4, 6}, which is labeled 'ಘಟನೆ E: ಸಮ ಸಂಖ್ಯೆ'. This visually demonstrates that an event is a subset of the total outcomes.",
+    "labels": "Sample Space, Event, Outcomes",
+    "mathematical_significance": "Illustrates the relationship between a sample space and an event as its subset.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "PROB-BAS-1_concept_2_chunk_004"
+}

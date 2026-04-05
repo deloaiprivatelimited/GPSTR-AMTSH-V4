@@ -1,0 +1,44 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಮೊದಲಿಗೆ, ಆಯತದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವನ್ನು ಬಳಸೋಣ, ಅದು ಉದ್ದ ಗುಣಿಸು ಅಗಲ. ಇಲ್ಲಿ ಉದ್ದ ಏಳು ಪಾಯಿಂಟ್ ಒಂದು ಮತ್ತು ಅಗಲ ಎರಡು ಪಾಯಿಂಟ್ ಐದು. ಆದ್ದರಿಂದ, ವಿಸ್ತೀರ್ಣವು ಏಳು ಪಾಯಿಂಟ್ ಒಂದು ಗುಣಿಸು ಎರಡು ಪಾಯಿಂಟ್ ಐದು ಆಗುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ದಶಮಾಂಶ ಬಿಂದುಗಳನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿರ್ಲಕ್ಷಿಸಿ ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳಂತೆ ಗುಣಿಸೋಣ. ಅಂದರೆ, ಎಪ್ಪತ್ತೊಂದು ಗುಣಿಸು ಇಪ್ಪತ್ತೈದು. ಇದನ್ನು ಗುಣಿಸಿದಾಗ ನಮಗೆ ಒಂದು ಸಾವಿರದ ಏಳುನೂರ ಎಪ್ಪತ್ತೈದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಆಯತದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವನ್ನು ಬಳಸೋಣ, ಅದು ಉದ್ದ $\\times$ ಅಗಲ. ಇಲ್ಲಿ ಉದ್ದ 7.1 ಮತ್ತು ಅಗಲ 2.5. ಆದ್ದರಿಂದ, ವಿಸ್ತೀರ್ಣವು $7.1 \\times 2.5$ ಆಗುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ದಶಮಾಂಶ ಬಿಂದುಗಳನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿರ್ಲಕ್ಷಿಸಿ ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳಂತೆ ಗುಣಿಸೋಣ. ಅಂದರೆ, $71 \\times 25$. ಇದನ್ನು ಗುಣಿಸಿದಾಗ ನಮಗೆ 1775 ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-FRA-1_example_10",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ವಿಸ್ತೀರ್ಣ = ಉದ್ದ $\\times$ ಅಗಲ = $7.1 \\times 2.5$ cm²",
+      "justification": "ಆಯತದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$71 \\times 25 = 1775$",
+      "justification": "ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ನಿರ್ಲಕ್ಷಿಸಿ ಗುಣಿಸುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "NS-FRA-1_concept_7_chunk_005"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ವೇಗ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ವೇಗದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಂದು ಕಾರು 'ಎ' ಬಿಂದುವಿನಿಂದ 'ಬಿ' ಬಿಂದುವಿಗೆ ಚಲಿಸುತ್ತಿದೆ ಎಂದು ಭಾವಿಸೋಣ. ಅದರ ಸ್ಥಾನ ಪಲ್ಲಟ 100 ಮೀಟರ್ ಪೂರ್ವಕ್ಕೆ ಮತ್ತು ಅದಕ್ಕೆ ತೆಗೆದುಕೊಂಡ ಕಾಲ 10 ಸೆಕೆಂಡುಗಳು. ಕಾರಿನ ವೇಗವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು, ನಾವು ಅದರ ಸ್ಥಾನ ಪಲ್ಲಟವನ್ನು ತೆಗೆದುಕೊಂಡ ಸಮಯದಿಂದ ಭಾಗಿಸಬೇಕು. ಅಂದರೆ, 100 ಮೀಟರ್ ಅನ್ನು 10 ಸೆಕೆಂಡುಗಳಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ 10 ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್ ಸಿಗುತ್ತದೆ. ವೇಗವು ಸದಿಶವಾಗಿರುವುದರಿಂದ, ನಾವು ದಿಕ್ಕನ್ನು ಸಹ ಸೇರಿಸಬೇಕು. ಆದ್ದರಿಂದ, ಪೂರ್ಣ ಉತ್ತರ: ಕಾರಿನ ವೇಗವು 10 ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್, ಪೂರ್ವಕ್ಕೆ.",
+  "script_display": "ವೇಗದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಂದು ಕಾರು 'A' ಬಿಂದುವಿನಿಂದ 'B' ಬಿಂದುವಿಗೆ ಚಲಿಸುತ್ತಿದೆ ಎಂದು ಭಾವಿಸೋಣ. ಅದರ ಸ್ಥಾನ ಪಲ್ಲಟ 100 ಮೀಟರ್ ಪೂರ್ವಕ್ಕೆ ಮತ್ತು ಅದಕ್ಕೆ ತೆಗೆದುಕೊಂಡ ಕಾಲ 10 ಸೆಕೆಂಡುಗಳು. ಕಾರಿನ ವೇಗವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು, ನಾವು ಅದರ ಸ್ಥಾನ ಪಲ್ಲಟವನ್ನು ತೆಗೆದುಕೊಂಡ ಸಮಯದಿಂದ ಭಾಗಿಸಬೇಕು. ಅಂದರೆ, 100 m ಅನ್ನು 10 s ರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ 10 m/s ಸಿಗುತ್ತದೆ. ವೇಗವು ಸದಿಶವಾಗಿರುವುದರಿಂದ, ನಾವು ದಿಕ್ಕನ್ನು ಸಹ ಸೇರಿಸಬೇಕು. ಆದ್ದರಿಂದ, ಪೂರ್ಣ ಉತ್ತರ: ಕಾರಿನ ವೇಗವು 10 m/s, ಪೂರ್ವಕ್ಕೆ.",
+  "display_bullets": [
+    "ಸ್ಥಾನ ಪಲ್ಲಟ (Displacement) = 100 ಮೀಟರ್, ಪೂರ್ವಕ್ಕೆ",
+    "ತೆಗೆದುಕೊಂಡ ಕಾಲ (Time) = 10 ಸೆಕೆಂಡುಗಳು",
+    "ವೇಗ = ಸ್ಥಾನ ಪಲ್ಲಟ / ಕಾಲ = 100 m / 10 s = 10 m/s",
+    "ಪೂರ್ಣ ಉತ್ತರ: ವೇಗ = 10 m/s, ಪೂರ್ವಕ್ಕೆ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a car moving from point A on the left to point B on the right. An arrow points from A to B, labeled 'ಸ್ಥಾನ ಪಲ್ಲಟ = 100 m, ಪೂರ್ವಕ್ಕೆ'. A clock icon nearby is labeled 'ಕಾಲ = 10 s'. The car is at point B.",
+    "labels": "Car, Point A, Point B, Displacement Arrow, Time Icon",
+    "scientific_significance": "Illustrates the components of velocity: magnitude (calculated from displacement and time) and direction.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "medium",
+  "source_example_id": "std_9_chapter_7_concept_2_def_5",
+  "chunk_id": "std_9_chapter_7_concept_2_chunk_017"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ನೈಜ ಸಾಮರ್ಥ್ಯ",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಲೋಟದ ಸಾಮರ್ಥ್ಯವನ್ನು ಕಡಿಮೆ ಮಾಡುವ ಅರ್ಧಗೋಳದ ಘನಫಲವನ್ನು ಲೆಕ್ಕ ಹಾಕೋಣ. ಅರ್ಧಗೋಳದ ಘನಫಲದ ಸೂತ್ರ ವಿ ಸಮ 2 ಭಾಗಿಸು 3, ಗುಣಿಸು ಪೈ ಆರ್ ಕ್ಯೂಬ್. ಇಲ್ಲಿ ತ್ರಿಜ್ಯ ಆರ್ ಸಮ 2.5 ಸೆಂಟಿಮೀಟರ್. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, 2 ಭಾಗಿಸು 3, ಗುಣಿಸು 3.14 ಗುಣಿಸು 2.5 ಕ್ಯೂಬ್. 2.5 ಕ್ಯೂಬ್ ಎಂದರೆ 15.625. ಇದನ್ನು ಲೆಕ್ಕ ಮಾಡಿದಾಗ ನಮಗೆ ಸರಿಸುಮಾರು 32.71 ಘನ ಸೆಂಟಿಮೀಟರ್ ಸಿಗುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಲೋಟದ ನೈಜ ಸಾಮರ್ಥ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇದು ಗೋಚರ ಸಾಮರ್ಥ್ಯದಿಂದ ಅರ್ಧಗೋಳದ ಘನಫಲವನ್ನು ಕಳೆದಾಗ ಸಿಗುತ್ತದೆ. ಅಂದರೆ, 196.25 ಮೈನಸ್ 32.71. ಕಳೆದಾಗ ನಮಗೆ 163.54 ಘನ ಸೆಂಟಿಮೀಟರ್ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಪರಿಹಾರದ ಮುಂದಿನ ಹಂತಗಳು:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "MEN-VOL-3_example_9",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಅರ್ಧಗೋಳದ ಘನಫಲವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು:\n$V_{\\text{hemisphere}} = \\frac{2}{3} \\pi r^3$\n$= \\frac{2}{3} \\times 3.14 \\times (2.5)^3$\n$= \\frac{2}{3} \\times 3.14 \\times 15.625$\n$\\approx 32.71 \\text{ cm}^3$",
+      "justification": "ಉಬ್ಬಿದ ಭಾಗದ ಘನಫಲ."
+    },
+    {
+      "step": 4,
+      "action_display": "ನೈಜ ಸಾಮರ್ಥ್ಯ (Actual Capacity) ಲೆಕ್ಕಾಚಾರ:\n$V_{\\text{actual}} = V_{\\text{apparent}} - V_{\\text{hemisphere}}$\n$= 196.25 - 32.71$\n$= 163.54 \\text{ cm}^3$",
+      "justification": "ನೈಜ ಸಾಮರ್ಥ್ಯ = ಸಿಲಿಂಡರ್ ಘನಫಲ - ಅರ್ಧಗೋಳ ಘನಫಲ."
+    }
+  ],
+  "chunk_id": "MEN-VOL-3_concept_4_chunk_010"
+}

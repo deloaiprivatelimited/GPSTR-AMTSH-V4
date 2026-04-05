@@ -1,0 +1,158 @@
+{
+  "module_id": "std_7_chapter_12_concept_3",
+  "chapter_code": "std_7_chapter_12",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:46:52",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "acbc5a2662b89453af384a0a4b16f8d7",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 25.091,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 30,
+      "generated_at": "2026-04-02 13:44:42"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "fe47ffd83e2c4d9d34b3f9d5708464a9",
+      "wav_file": "001_intro_0.wav",
+      "duration": 60.611,
+      "slide_title": "ಕಾಡಿನಲ್ಲಿ ಆಹಾರ ಸರಪಳಿ ಮತ್ತು ಆಹಾರ ಜಾಲ",
+      "type": "intro",
+      "script_words": 85,
+      "generated_at": "2026-04-02 13:44:55"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "f0ff53bea3da19c5a809636d6eb07a7e",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 54.491,
+      "slide_title": "ಆಹಾರ ಸರಪಳಿ: ಒಂದು ರೇಖೀಯ ಮಾರ್ಗ",
+      "type": "definition",
+      "script_words": 67,
+      "generated_at": "2026-04-02 13:44:57"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "c9d129c6b98a9a127bf3dbfaa874ab40",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 42.811,
+      "slide_title": "ಉದಾಹರಣೆ: ಕಾಡಿನ ಆಹಾರ ಸರಪಳಿ",
+      "type": "definition",
+      "script_words": 64,
+      "generated_at": "2026-04-02 13:45:16"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "121b94c16f1a57498174a287080dfd72",
+      "wav_file": "003_definition_0.wav",
+      "duration": 50.931,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಆಹಾರ ಸರಪಳಿ",
+      "type": "definition",
+      "script_words": 66,
+      "generated_at": "2026-04-02 13:45:17"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "dc852ad8be8bb6241b06d5ae8983b756",
+      "wav_file": "006_definition_1.wav",
+      "duration": 55.331,
+      "slide_title": "ಆಹಾರ ಜಾಲ (Food Web) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 71,
+      "generated_at": "2026-04-02 13:45:51"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "2c569ebb8eed8c0ad253b71f8c6cc56c",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 50.971,
+      "slide_title": "ಆಹಾರ ಜಾಲ: ಒಂದು ಉದಾಹರಣೆ",
+      "type": "definition",
+      "script_words": 70,
+      "generated_at": "2026-04-02 13:45:54"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "62b580a0849c78abde10b1044988ea97",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 54.891,
+      "slide_title": "ಆಹಾರ ಸರಪಳಿ vs. ಆಹಾರ ಜಾಲ",
+      "type": "definition",
+      "script_words": 72,
+      "generated_at": "2026-04-02 13:45:59"
+    },
+    "010_classification_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "cb5bf03fedde74b8122da245a523339a",
+      "wav_file": "010_classification_0.wav",
+      "duration": 42.251,
+      "slide_title": "ಆಹಾರ ಸರಪಳಿಯಲ್ಲಿ ಜೀವಿಗಳ ಪಾತ್ರ: ಉತ್ಪಾದಕರು",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:46:16"
+    },
+    "009_property_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "6528b872caddfdaf410ab9bb66f98bfe",
+      "wav_file": "009_property_0.wav",
+      "duration": 53.891,
+      "slide_title": "ಆಹಾರ ಸರಪಳಿಯ ಉದಾಹರಣೆ",
+      "type": "concept_explanation",
+      "script_words": 73,
+      "generated_at": "2026-04-02 13:46:20"
+    },
+    "011_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "90763c4e9f631fa6ff95b181417be1b9",
+      "wav_file": "011_classification_cont_0_1.wav",
+      "duration": 47.571,
+      "slide_title": "ಆಹಾರ ಸರಪಳಿಯಲ್ಲಿ ಜೀವಿಗಳ ಪಾತ್ರ: ಗ್ರಾಹಕರು",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:46:49"
+    },
+    "012_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "6540f9273c453bd26f427cfca27e4bd3",
+      "wav_file": "012_classification_cont_0_2.wav",
+      "duration": 45.291,
+      "slide_title": "ಆಹಾರ ಸರಪಳಿಯಲ್ಲಿ ಜೀವಿಗಳ ಪಾತ್ರ: ವಿಘಟಕಗಳು",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:46:51"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "281d1043094cda22babf6ce1b3e2c1fa",
+      "wav_file": "013_recap_0.wav",
+      "duration": 46.691,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 57,
+      "generated_at": "2026-04-02 13:46:52"
+    }
+  }
+}

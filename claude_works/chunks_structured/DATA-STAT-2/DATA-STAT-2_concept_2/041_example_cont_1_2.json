@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ವಿಧಾನ 1: ನೇರ ವಿಧಾನ (Direct Method)",
+  "script": "ಈಗ ನಾವು ಮೊದಲ ವಿಧಾನವಾದ ನೇರ ವಿಧಾನವನ್ನು ಬಳಸಿ ಸರಾಸರಿಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಈ ವಿಧಾನದ ಸೂತ್ರವನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಿ. ಸರಾಸರಿ x ಬಾರ್ ಈಕ್ವಲ್ಸ್ ಸಿಗ್ಮಾ f i x i ಭಾಗಿಸು ಸಿಗ್ಮಾ f i. ನಮ್ಮ ಕೋಷ್ಟಕದಿಂದ, ಸಿಗ್ಮಾ f i x i ಯ ಮೌಲ್ಯ 1390 ಮತ್ತು ಸಿಗ್ಮಾ f i ಯ ಮೌಲ್ಯ 35 ಆಗಿದೆ. ಈ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿದಾಗ, ನಮಗೆ x ಬಾರ್ ಈಕ್ವಲ್ಸ್ 1390 ಭಾಗಿಸು 35 ಸಿಗುತ್ತದೆ. ಈ ಭಾಗಾಕಾರವನ್ನು ಮಾಡಿದಾಗ, ಉತ್ತರವು ಸುಮಾರು 39.71 ಬರುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಮೊದಲ ವಿಧಾನವಾದ ನೇರ ವಿಧಾನವನ್ನು ಬಳಸಿ ಸರಾಸರಿಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಈ ವಿಧಾನದ ಸೂತ್ರವನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಿ. ಸರಾಸರಿ $\\bar{x} = \\frac{\\sum f_i x_i}{\\sum f_i}$. ನಮ್ಮ ಕೋಷ್ಟಕದಿಂದ, $\\sum f_i x_i$ ಯ ಮೌಲ್ಯ 1390 ಮತ್ತು $\\sum f_i$ ಯ ಮೌಲ್ಯ 35 ಆಗಿದೆ. ಈ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿದಾಗ, ನಮಗೆ $\\bar{x} = \\frac{1390}{35}$ ಸಿಗುತ್ತದೆ. ಈ ಭಾಗಾಕಾರವನ್ನು ಮಾಡಿದಾಗ, ಉತ್ತರವು ಸುಮಾರು 39.71 ಬರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "DATA-STAT-2_example_7",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ನೇರ ವಿಧಾನದ ಸೂತ್ರ: $\\bar{x} = \\frac{\\sum f_i x_i}{\\sum f_i}$",
+      "justification": "ನೇರ ವಿಧಾನದ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಬೆಲೆಗಳನ್ನು ಹಾಕುವುದು: $\\bar{x} = \\frac{1390}{35}$",
+      "justification": "ಕೋಷ್ಟಕದಿಂದ $\\sum f_i x_i = 1390$ ಮತ್ತು $\\sum f_i = 35$ ಅನ್ನು ಬಳಸುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "ಸರಾಸರಿ ಲೆಕ್ಕಾಚಾರ: $\\bar{x} \\approx 39.71$",
+      "justification": "ಭಾಗಾಕಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "DATA-STAT-2_concept_2_chunk_041"
+}

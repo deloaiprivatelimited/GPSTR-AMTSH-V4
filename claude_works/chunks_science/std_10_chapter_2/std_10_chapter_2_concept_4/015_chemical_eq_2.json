@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತಟಸ್ಥೀಕರಣದ ನಿವ್ವಳ ಅಯಾನಿಕ್ ಸಮೀಕರಣ",
+  "script": "ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯ ಹೃದಯಭಾಗದಲ್ಲಿರುವ ಮೂಲಭೂತ ಸಮೀಕರಣವನ್ನು ಈಗ ನೋಡೋಣ. ಇದನ್ನು ನಿವ್ವಳ ಅಯಾನಿಕ್ ಸಮೀಕರಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇಲ್ಲಿ, ಒಂದು ಹೈಡ್ರೋಜನ್ ಅಯಾನು, ಅಂದರೆ H ಪ್ಲಸ್, ಒಂದು ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಯಾನು, ಅಂದರೆ O H ಮೈನಸ್ ಜೊತೆ ವರ್ತಿಸಿ, ಒಂದು ನೀರಿನ ಅಣು, ಅಂದರೆ H two O, ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ. ಇದು ಯಾವುದೇ ಪ್ರಬಲ ಆಮ್ಲ ಮತ್ತು ಪ್ರಬಲ ಪ್ರತ್ಯಾಮ್ಲದ ನಡುವಿನ ಕ್ರಿಯೆಯ ಸಾರಾಂಶವಾಗಿದೆ.",
+  "script_display": "ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯ ಹೃದಯಭಾಗದಲ್ಲಿರುವ ಮೂಲಭೂತ ಸಮೀಕರಣವನ್ನು ಈಗ ನೋಡೋಣ. ಇದನ್ನು ನಿವ್ವಳ ಅಯಾನಿಕ್ ಸಮೀಕರಣ (Net Ionic Equation) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇಲ್ಲಿ, ಒಂದು ಹೈಡ್ರೋಜನ್ ಅಯಾನು (H⁺) ಒಂದು ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಯಾನಿನ (OH⁻) ಜೊತೆ ವರ್ತಿಸಿ, ಒಂದು ನೀರಿನ ಅಣು (H₂O) ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ. ಇದು ಯಾವುದೇ ಪ್ರಬಲ ಆಮ್ಲ ಮತ್ತು ಪ್ರಬಲ ಪ್ರತ್ಯಾಮ್ಲದ ನಡುವಿನ ಕ್ರಿಯೆಯ ಸಾರಾಂಶವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "chemistry_dark_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "H⁺(aq) + OH⁻(aq) \\rightarrow H₂O(l)",
+    "placeholder_note": "Display the net ionic equation for neutralization prominently."
+  },
+  "chunk_id": "std_10_chapter_2_concept_4_chunk_015"
+}

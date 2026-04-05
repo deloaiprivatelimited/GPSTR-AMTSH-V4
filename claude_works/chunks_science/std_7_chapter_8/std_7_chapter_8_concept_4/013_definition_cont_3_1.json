@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಶಲಾಕಾಗ್ರದ ಕಾರ್ಯ",
+  "script": "ಶಲಾಕಾಗ್ರದ ಅಂಟಂಟಾದ ಸ್ವಭಾವ ಯಾಕೆ ಇಷ್ಟು ಮುಖ್ಯ? ಯೋಚಿಸಿ, ಶಲಾಕಾಗ್ರವು ಪರಾಗರೇಣುಗಳಿಗೆ ಒಂದು ಲ್ಯಾಂಡಿಂಗ್ ಪ್ಯಾಡ್ ನಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ. ಗಾಳಿ ಅಥವಾ ಕೀಟಗಳಿಂದ ಸಾಗಿಸಲ್ಪಟ್ಟ ಪರಾಗರೇಣುಗಳು ಹೂವಿನ ಮೇಲೆ ಬಿದ್ದಾಗ, ಅವು ಶಲಾಕಾಗ್ರದ ಮೇಲೆ ಇಳಿಯುತ್ತವೆ. ಆಗ, ಇದರ ಅಂಟಂಟಾದ ಮೇಲ್ಮೈಯು ಪರಾಗರೇಣುಗಳು ಅದಕ್ಕೆ ಭದ್ರವಾಗಿ ಅಂಟಿಕೊಳ್ಳುವಂತೆ ಮಾಡುತ್ತದೆ, ಅವು ಕೆಳಗೆ ಬೀಳದಂತೆ ತಡೆಯುತ್ತದೆ. ಇದುವೇ ಸಸ್ಯಗಳಲ್ಲಿ ನಿಷೇಚನ ಪ್ರಕ್ರಿಯೆಯ ಮೊದಲ ಮತ್ತು ಅತಿ ಮುಖ್ಯವಾದ ಹೆಜ್ಜೆ.",
+  "script_display": "ಶಲಾಕಾಗ್ರದ ಅಂಟಂಟಾದ ಸ್ವಭಾವ ಯಾಕೆ ಇಷ್ಟು ಮುಖ್ಯ? ಯೋಚಿಸಿ, ಶಲಾಕಾಗ್ರವು ಪರಾಗರೇಣುಗಳಿಗೆ ಒಂದು 'ಲ್ಯಾಂಡಿಂಗ್ ಪ್ಯಾಡ್' ನಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ. ಗಾಳಿ ಅಥವಾ ಕೀಟಗಳಿಂದ ಸಾಗಿಸಲ್ಪಟ್ಟ ಪರಾಗರೇಣುಗಳು ಹೂವಿನ ಮೇಲೆ ಬಿದ್ದಾಗ, ಅವು ಶಲಾಕಾಗ್ರದ ಮೇಲೆ ಇಳಿಯುತ್ತವೆ. ಆಗ, ಇದರ ಅಂಟಂಟಾದ ಮೇಲ್ಮೈಯು ಪರಾಗರೇಣುಗಳು ಅದಕ್ಕೆ ಭದ್ರವಾಗಿ ಅಂಟಿಕೊಳ್ಳುವಂತೆ ಮಾಡುತ್ತದೆ, ಅವು ಕೆಳಗೆ ಬೀಳದಂತೆ ತಡೆಯುತ್ತದೆ. ಇದುವೇ ಸಸ್ಯಗಳಲ್ಲಿ ನಿಷೇಚನ (fertilization) ಪ್ರಕ್ರಿಯೆಯ ಮೊದಲ ಮತ್ತು ಅತಿ ಮುಖ್ಯವಾದ ಹೆಜ್ಜೆ.",
+  "display_bullets": [
+    "ಶಲಾಕಾಗ್ರವು ಪರಾಗರೇಣುಗಳಿಗೆ ಒಂದು 'ಲ್ಯಾಂಡಿಂಗ್ ಪ್ಯಾಡ್' ನಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+    "ಇದರ ಅಂಟಂಟಾದ ಮೇಲ್ಮೈ ಪರಾಗರೇಣುಗಳು ಅಂಟಿಕೊಳ್ಳುವಂತೆ ಮಾಡುತ್ತದೆ.",
+    "ಇದು ನಿಷೇಚನ ಪ್ರಕ್ರಿಯೆಯ ಮೊದಲ ಹೆಜ್ಜೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a flower's pistil (ಶಲಾಕೆ). The stigma (ಶಲಾಕಾಗ್ರ) at the very top is highlighted. Several pollen grains (ಪರಾಗರೇಣು) are shown sticking to its sticky surface. An arrow points to the stigma with the label 'ಶಲಾಕಾಗ್ರ'.",
+    "labels": "ಶಲಾಕಾಗ್ರ (Stigma), ಶಲಾಕ ನಳಿಕೆ (Style), ಅಂಡಾಶಯ (Ovary), ಪರಾಗರೇಣು (Pollen grain)",
+    "scientific_significance": "Illustrates the primary function of the stigma, which is to act as a receptive surface for pollen grains, initiating the process of fertilization.",
+    "placeholder_note": "Image to be generated based on the description. Show pollen grains on the stigma."
+  },
+  "chunk_id": "std_7_chapter_8_concept_4_chunk_013"
+}

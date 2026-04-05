@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಬಹುಪದೋಕ್ತಿಯ ಭಾಗಾಕಾರ",
+  "script": "ಈಗ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಾವು 44 ಇಂಟು x ಘಾತ 4 ಮೈನಸ್ 5x ಘಾತ 3 ಮೈನಸ್ 24x ವರ್ಗ ವನ್ನು 11x ಇಂಟು x ಮೈನಸ್ 8 ರಿಂದ ಭಾಗಿಸಬೇಕು. ಇಲ್ಲಿ ಭಾಜ್ಯವು 44 ಇಂಟು x ಘಾತ 4 ಮೈನಸ್ 5x ಘಾತ 3 ಮೈನಸ್ 24x ವರ್ಗ ಆಗಿದೆ ಮತ್ತು ಭಾಜಕವು 11x ಇಂಟು x ಮೈನಸ್ 8 ಆಗಿದೆ. ಭಾಗಾಕಾರವನ್ನು ಸುಲಭಗೊಳಿಸಲು, ನಾವು ಮೊದಲು ಭಾಜ್ಯವನ್ನು ಅಪವರ್ತಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಾವು $44(x^4 - 5x^3 - 24x^2)$ ನ್ನು $11x(x-8)$ ರಿಂದ ಭಾಗಿಸಬೇಕು. ಇಲ್ಲಿ ಭಾಜ್ಯವು (dividend) $44(x^4 - 5x^3 - 24x^2)$ ಆಗಿದೆ ಮತ್ತು ಭಾಜಕವು (divisor) $11x(x-8)$ ಆಗಿದೆ. ಭಾಗಾಕಾರವನ್ನು ಸುಲಭಗೊಳಿಸಲು, ನಾವು ಮೊದಲು ಭಾಜ್ಯವನ್ನು ಅಪವರ್ತಿಸಬೇಕು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಭಾಗಿಸಿ: } 44(x^4 - 5x^3 - 24x^2) \\text{ ನ್ನು } 11x(x-8) \\text{ ರಿಂದ.}",
+    "placeholder_note": "Display the problem statement in a box."
+  },
+  "source_example_id": "ALG-FAC-2_example_15",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-FAC-2_concept_6_chunk_009"
+}

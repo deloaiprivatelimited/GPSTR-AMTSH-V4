@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಬೆಳಕಿನ ವಿವರ್ತನೆ (Dispersion of Light)",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಇಲ್ಲಿ ಒಂದು ಗಾಜಿನ ಪಟ್ಟಕವನ್ನು, ಅಂದರೆ ಪ್ರಿಸಂ ಅನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಒಂದು ಕಡೆಯಿಂದ ಬಿಳಿ ಬೆಳಕಿನ ಕಿರಿದಾದ ಕಿರಣವು ಪಟ್ಟಕದೊಳಗೆ ಪ್ರವೇಶಿಸುತ್ತಿದೆ. ಪಟ್ಟಕದಿಂದ ಹೊರಬಂದಾಗ ಏನಾಗುತ್ತದೆ ನೋಡಿ. ಆ ಒಂದೇ ಒಂದು ಬಿಳಿ ಕಿರಣವು ಏಳು ಬಣ್ಣಗಳ ಸುಂದರ ಪಟ್ಟಿಯಾಗಿ ವಿಭಜನೆಗೊಂಡಿದೆ. ಈ ವಿದ್ಯಮಾನವೇ ಬೆಳಕಿನ ವಿವರ್ತನೆ. ಈ ಬಣ್ಣಗಳ ಪಟ್ಟಿಯನ್ನು ನಾವು ವರ್ಣಪಟಲ ಅಥವಾ ಸ್ಪೆಕ್ಟ್ರಮ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ವಿವರ್ತನೆಗೆ ಒಂದು ಸ್ಪಷ್ಟವಾದ ಪ್ರಾಯೋಗಿಕ ಸಾಕ್ಷಿಯಾಗಿದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಇಲ್ಲಿ ಒಂದು ಗಾಜಿನ ಪಟ್ಟಕವನ್ನು (Prism) ತೋರಿಸಲಾಗಿದೆ. ಒಂದು ಕಡೆಯಿಂದ ಬಿಳಿ ಬೆಳಕಿನ ಕಿರಿದಾದ ಕಿರಣವು ಪಟ್ಟಕದೊಳಗೆ ಪ್ರವೇಶಿಸುತ್ತಿದೆ. ಪಟ್ಟಕದಿಂದ ಹೊರಬಂದಾಗ ಏನಾಗುತ್ತದೆ ನೋಡಿ. ಆ ಒಂದೇ ಒಂದು ಬಿಳಿ ಕಿರಣವು ಏಳು ಬಣ್ಣಗಳ ಸುಂದರ ಪಟ್ಟಿಯಾಗಿ ವಿಭಜನೆಗೊಂಡಿದೆ. ಈ ವಿದ್ಯಮಾನವೇ ಬೆಳಕಿನ ವಿವರ್ತನೆ. ಈ ಬಣ್ಣಗಳ ಪಟ್ಟಿಯನ್ನು ನಾವು ವರ್ಣಪಟಲ (Spectrum) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ವಿವರ್ತನೆಗೆ ಒಂದು ಸ್ಪಷ್ಟವಾದ ಪ್ರಾಯೋಗಿಕ ಸಾಕ್ಷಿಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಬಿಳಿ ಬೆಳಕಿನ ಕಿರಣವು ಪಟ್ಟಕವನ್ನು (Prism) ಪ್ರವೇಶಿಸುತ್ತದೆ.",
+    "ಪಟ್ಟಕದ ಮೂಲಕ ಹಾದುಹೋದಾಗ, ಬೆಳಕು ಬಾಗುತ್ತದೆ ಮತ್ತು ವಿಭಜನೆಯಾಗುತ್ತದೆ.",
+    "ಏಳು ಬಣ್ಣಗಳ ಪಟ್ಟಿಯಾಗಿ (ವರ್ಣಪಟಲ/Spectrum) ಹೊರಬರುತ್ತದೆ.",
+    "ಈ ವಿದ್ಯಮಾನವೇ ಬೆಳಕಿನ ವಿವರ್ತನೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beam of white light enters a glass prism from the left. The light refracts and disperses inside the prism, exiting on the right as a spectrum of seven colors (Red, Orange, Yellow, Green, Blue, Indigo, Violet).",
+    "labels": "White Light, Prism, Spectrum (VIBGYOR)",
+    "scientific_significance": "Demonstrates the dispersion of light, proving that white light is a composite of multiple colors.",
+    "placeholder_note": "Image to be generated based on the description. Use the label 'ಚಿತ್ರ 11.30: ಪಟ್ಟಕವು ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಏಳು ಬಣ್ಣಗಳಾಗಿ ವಿಭಜಿಸಿರುವುದು' from the context."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_11_concept_8_chunk_004"
+}

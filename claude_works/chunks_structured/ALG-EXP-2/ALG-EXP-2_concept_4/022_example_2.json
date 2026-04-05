@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಬೀಜೋಕ್ತಿಗಳ ವ್ಯವಕಲನ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 3pq ಇಂಟು p ಮೈನಸ್ q ಅನ್ನು 2pq ಇಂಟು p ಪ್ಲಸ್ q ನಿಂದ ಕಳೆಯಬೇಕು. ಅಂದರೆ, ನಾವು ಮೊದಲು ಎರಡೂ ಬೀಜೋಕ್ತಿಗಳನ್ನು ಸಂಕ್ಷೇಪಿಸಿ ನಂತರ ವ್ಯವಕಲನವನ್ನು ಮಾಡಬೇಕು. ಇಲ್ಲಿ, ಕಳೆಯಬೇಕಾದದ್ದು 3pq ಇಂಟು p ಮೈನಸ್ q. ಮತ್ತು ಇದನ್ನು 2pq ಇಂಟು p ಪ್ಲಸ್ q ನಿಂದ ಕಳೆಯಬೇಕು. ನಾವು ಮಾಡಬೇಕಾದ ಕ್ರಿಯೆ ವ್ಯವಕಲನ, ಅಂದರೆ ಕಳೆಯುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $3pq(p-q)$ ನ್ನು $2pq(p+q)$ ರಿಂದ ಕಳೆಯಬೇಕು. ಅಂದರೆ, ನಾವು ಮೊದಲು ಎರಡೂ ಬೀಜೋಕ್ತಿಗಳನ್ನು ಸಂಕ್ಷೇಪಿಸಿ ನಂತರ ವ್ಯವಕಲನವನ್ನು ಮಾಡಬೇಕು. ಇಲ್ಲಿ, ಕಳೆಯಬೇಕಾದದ್ದು $3pq(p-q)$. ಮತ್ತು ಇದನ್ನು $2pq(p+q)$ ನಿಂದ ಕಳೆಯಬೇಕು. ನಾವು ಮಾಡಬೇಕಾದ ಕ್ರಿಯೆ ವ್ಯವಕಲನ (ಕಳೆಯುವುದು).",
+  "display_bullets": [
+    "ಕಳೆಯಬೇಕಾದದ್ದು: $3pq(p-q)$",
+    "ಯಾವುದರಿಂದ ಕಳೆಯಬೇಕು: $2pq(p+q)$",
+    "ಮಾಡಬೇಕಾದ ಕ್ರಿಯೆ: ವ್ಯವಕಲನ (ಕಳೆಯುವುದು)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "$2pq(p+q) - 3pq(p-q) = ?",
+    "placeholder_note": "Problem statement"
+  },
+  "source_example_id": "ALG-EXP-2_example_7",
+  "prerequisites_display": [
+    "ಏಕಪದೋಕ್ತಿಯಿಂದ ದ್ವಿಪದೋಕ್ತಿಯ ಗುಣಾಕಾರ",
+    "ಸಜಾತಿ ಪದಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ"
+  ],
+  "chunk_id": "ALG-EXP-2_concept_4_chunk_022"
+}

@@ -1,0 +1,43 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು x ನ ಬೆಲೆಯನ್ನು 120 ಡಿಗ್ರಿ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ ಬಳಸಿದ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ಎರಡು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಒಂದು ಛೇದಕವು ಛೇದಿಸಿದಾಗ, ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಅಂತರ್ ಕೋನಗಳ ಮೊತ್ತವು ಯಾವಾಗಲೂ 180 ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ. ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "script_display": "ಹೀಗೆ, ನಾವು $x$ ನ ಬೆಲೆಯನ್ನು $120^\\circ$ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ ಬಳಸಿದ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ಎರಡು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಒಂದು ಛೇದಕವು ಛೇದಿಸಿದಾಗ, ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಅಂತರ್ ಕೋನಗಳ ಮೊತ್ತವು ಯಾವಾಗಲೂ $180^\\circ$ ಆಗಿರುತ್ತದೆ. ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "display_bullets": [
+    "ಪರಿಹಾರ: $x$ ನ ಬೆಲೆ $120^\\circ$ ಆಗಿದೆ.",
+    "ಪ್ರಮುಖ ಅಂಶ: ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಅಂತರ್ ಕೋನಗಳು ಪರಿಪೂರಕವಾಗಿರುತ್ತವೆ, ಅಂದರೆ ಅವುಗಳ ಮೊತ್ತ $180^\\circ$."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x = 120^\\circ",
+    "placeholder_note": "A box highlighting the final answer: x = 120 degrees."
+  },
+  "source_example_id": "GEO-LA-1_example_5",
+  "final_answer": "x = 120",
+  "final_answer_display": "$x = 120^\\circ$",
+  "exam_tip": {
+    "question_pattern": "mcq",
+    "skill_tested": "ಸಮಾಂತರ ರೇಖೆಗಳ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಅನ್ವಯಿಸಿ ಅಜ್ಞಾತ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+    "distractor": "$x = 60^\\circ$",
+    "why_distractor_works": "ವಿದ್ಯಾರ್ಥಿಗಳು ಅಂತರ್ ಪರ್ಯಾಯ ಕೋನಗಳು (alternate interior angles) ಮತ್ತು ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಅಂತರ್ ಕೋನಗಳ (consecutive interior angles) ನಡುವೆ ಗೊಂದಲಕ್ಕೊಳಗಾಗಬಹುದು. ಅಂತರ್ ಪರ್ಯಾಯ ಕೋನಗಳು ಸಮಾನವಾಗಿರುತ್ತವೆ, ಆದರೆ ಇಲ್ಲಿ ನೀಡಿರುವ ಕೋನಗಳು ಪರಿಪೂರಕವಾಗಿರುತ್ತವೆ. ಈ ಗೊಂದಲದಿಂದಾಗಿ $x = 60^\\circ$ ಎಂದು ತಪ್ಪಾಗಿ ಉತ್ತರಿಸುವ ಸಾಧ್ಯತೆ ಇದೆ."
+  },
+  "chunk_id": "GEO-LA-1_concept_4_chunk_054"
+}

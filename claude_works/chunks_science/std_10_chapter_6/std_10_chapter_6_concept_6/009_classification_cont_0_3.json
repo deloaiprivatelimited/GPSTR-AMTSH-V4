@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಬೆಳವಣಿಗೆ ಉತ್ತೇಜಕ: ಜಿಬ್ಬರ್‌ಲಿನ್‌ಗಳು",
+  "script": "ಮತ್ತೊಂದು ಪ್ರಮುಖ ಬೆಳವಣಿಗೆ ಉತ್ತೇಜಕ ಹಾರ್ಮೋನ್ ಎಂದರೆ ಜಿಬ್ಬರ್‌ಲಿನ್‌ಗಳು. ಇವು ಆಕ್ಸಿನ್‌ಗಳ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ಕಾಂಡದ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ. ಕುಬ್ಜ ಸಸ್ಯಗಳಿಗೆ ಜಿಬ್ಬರ್‌ಲಿನ್‌ಗಳನ್ನು ನೀಡಿದಾಗ ಅವು ಉದ್ದವಾಗಿ ಬೆಳೆಯುವುದನ್ನು ಗಮನಿಸಲಾಗಿದೆ. ಇದರ ಇನ್ನೊಂದು ಪ್ರಮುಖ ಕಾರ್ಯವೆಂದರೆ ಬೀಜಗಳ ಸುಪ್ತಾವಸ್ಥೆಯನ್ನು ಮುರಿಯುವುದು. ಅನೇಕ ಬೀಜಗಳು ಸೂಕ್ತ ಪರಿಸ್ಥಿತಿ ಸಿಗುವವರೆಗೂ ಮೊಳಕೆಯೊಡೆಯುವುದಿಲ್ಲ, ಇದನ್ನು ಸುಪ್ತಾವಸ್ಥೆ ಎನ್ನುತ್ತೇವೆ. ಜಿಬ್ಬರ್‌ಲಿನ್‌ಗಳು ಈ ಸುಪ್ತಾವಸ್ಥೆಯನ್ನು ಮುರಿದು, ಬೀಜ ಮೊಳಕೆಯೊಡೆಯಲು ಪ್ರಚೋದನೆ ನೀಡುತ್ತವೆ.",
+  "script_display": "ಮತ್ತೊಂದು ಪ್ರಮುಖ ಬೆಳವಣಿಗೆ ಉತ್ತೇಜಕ ಹಾರ್ಮೋನ್ ಎಂದರೆ ಜಿಬ್ಬರ್‌ಲಿನ್‌ಗಳು (Gibberellins). ಇವು ಆಕ್ಸಿನ್‌ಗಳ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ಕಾಂಡದ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ. ಕುಬ್ಜ ಸಸ್ಯಗಳಿಗೆ ಜಿಬ್ಬರ್‌ಲಿನ್‌ಗಳನ್ನು ನೀಡಿದಾಗ ಅವು ಉದ್ದವಾಗಿ ಬೆಳೆಯುವುದನ್ನು ಗಮನಿಸಲಾಗಿದೆ. ಇದರ ಇನ್ನೊಂದು ಪ್ರಮುಖ ಕಾರ್ಯವೆಂದರೆ ಬೀಜಗಳ ಸುಪ್ತಾವಸ್ಥೆಯನ್ನು ಮುರಿಯುವುದು (breaking seed dormancy). ಅನೇಕ ಬೀಜಗಳು ಸೂಕ್ತ ಪರಿಸ್ಥಿತಿ ಸಿಗುವವರೆಗೂ ಮೊಳಕೆಯೊಡೆಯುವುದಿಲ್ಲ, ಇದನ್ನು ಸುಪ್ತಾವಸ್ಥೆ ಎನ್ನುತ್ತೇವೆ. ಜಿಬ್ಬರ್‌ಲಿನ್‌ಗಳು ಈ ಸುಪ್ತಾವಸ್ಥೆಯನ್ನು ಮುರಿದು, ಬೀಜ ಮೊಳಕೆಯೊಡೆಯಲು ಪ್ರಚೋದನೆ ನೀಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ಕಾರ್ಯ 1: ಕಾಂಡದ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯ.",
+    "ಕಾರ್ಯ 2: ಬೀಜಗಳ ಸುಪ್ತಾವಸ್ಥೆಯನ್ನು ಮುರಿಯುವುದು (Breaks seed dormancy)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. On the left, a dormant seed is shown, labeled in Kannada 'ಸುಪ್ತ ಬೀಜ' (Dormant Seed). On the right, the same type of seed is shown germinating with a small root and shoot, labeled 'ಮೊಳಕೆಯೊಡೆಯುತ್ತಿರುವ ಬೀಜ' (Germinating Seed). A large arrow labeled 'ಜಿಬ್ಬರ್‌ಲಿನ್‌ಗಳು' points from the dormant seed to the germinating one.",
+    "labels": "Dormant Seed, Germinating Seed, Gibberellins",
+    "scientific_significance": "Visually explains the role of gibberellins in breaking seed dormancy and initiating germination.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_6_concept_6_chunk_009"
+}

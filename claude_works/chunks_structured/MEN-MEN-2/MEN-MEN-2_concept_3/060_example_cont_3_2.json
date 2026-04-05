@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಗಾತ್ರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು",
+  "script": "ಈಗ ನಮ್ಮಲ್ಲಿ ತ್ರಿಜ್ಯ ಮತ್ತು ಎತ್ತರ ಎರಡೂ ಇವೆ. ಸಿಲಿಂಡರ್‌ನ ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸೂತ್ರ V ಸಮ ಪೈ r ವರ್ಗ h ಅನ್ನು ಬಳಸೋಣ. ಇಲ್ಲಿ r ಸಮ 7 ಭಾಗಿಸು 4 ಮತ್ತು h ಸಮ 4 ಅನ್ನು ಆದೇಶಿಸೋಣ. ಆಗ V ಸಮ 22 ಭಾಗಿಸು 7 ಗುಣಿಸು, 7 ಭಾಗಿಸು 4 ರ ವರ್ಗ, ಗುಣಿಸು 4. ಇದನ್ನು ಬಿಡಿಸಿದಾಗ, 22 ಭಾಗಿಸು 7 ಗುಣಿಸು 49 ಭಾಗಿಸು 16 ಗುಣಿಸು 4. 7 ಮತ್ತು 49 ಅನ್ನು, ಹಾಗೂ 4 ಮತ್ತು 16 ಅನ್ನು ಸರಳೀಕರಿಸಿದಾಗ, ನಮಗೆ 22 ಗುಣಿಸು 7 ಭಾಗಿಸು 4 ಸಿಗುತ್ತದೆ. ಅಂದರೆ 154 ಭಾಗಿಸು 4. ಇದನ್ನು ಭಾಗಿಸಿದಾಗ, ನಮಗೆ 38.5 ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಮ್ಮಲ್ಲಿ ತ್ರಿಜ್ಯ ಮತ್ತು ಎತ್ತರ ಎರಡೂ ಇವೆ. ಸಿಲಿಂಡರ್‌ನ ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸೂತ್ರ $V = \\pi r^2 h$ ಅನ್ನು ಬಳಸೋಣ. ಇಲ್ಲಿ $r = \\frac{7}{4}$ ಮತ್ತು $h = 4$ ಅನ್ನು ಆದೇಶಿಸೋಣ. ಆಗ $V = \\frac{22}{7} \\times (\\frac{7}{4})^2 \\times 4$. ಇದನ್ನು ಬಿಡಿಸಿದಾಗ, $\\frac{22}{7} \\times \\frac{49}{16} \\times 4$. 7 ಮತ್ತು 49 ಅನ್ನು, ಹಾಗೂ 4 ಮತ್ತು 16 ಅನ್ನು ಸರಳೀಕರಿಸಿದಾಗ, ನಮಗೆ $\\frac{22 \\times 7}{4}$ ಸಿಗುತ್ತದೆ. ಅಂದರೆ $\\frac{154}{4}$. ಇದನ್ನು ಭಾಗಿಸಿದಾಗ, ನಮಗೆ 38.5 ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "MEN-MEN-2_example_11",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$V = \\pi r^2 h = \\frac{22}{7} \\times (\\frac{7}{4})^2 \\times 4$ \n$= \\frac{22}{7} \\times \\frac{49}{16} \\times 4$ \n$= \\frac{22 \\times 7}{4} = \\frac{154}{4} = 38.5$ ಘ.ಸೆಂ.ಮೀ.",
+      "justification": "ಸಿಲಿಂಡರ್‌ನ ಗಾತ್ರದ ಸೂತ್ರದಲ್ಲಿ $r$ ಮತ್ತು $h$ ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "MEN-MEN-2_concept_3_chunk_060"
+}

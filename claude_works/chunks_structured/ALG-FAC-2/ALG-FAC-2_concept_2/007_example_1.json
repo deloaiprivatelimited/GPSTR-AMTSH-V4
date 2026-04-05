@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಅಪವರ್ತಿಸಿ",
+  "script": "ಈಗ ನಾವು ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 10x ವರ್ಗ ಮೈನಸ್ 18x ಘನ ಪ್ಲಸ್ 14x ಟು ದ ಪವರ್ 4 ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಇಲ್ಲಿ ನಮಗೆ ಮೂರು ಪದಗಳಿರುವ ಒಂದು ಬೀಜೋಕ್ತಿ ನೀಡಲಾಗಿದೆ. ನಮ್ಮ ಗುರಿ ಇದರ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "script_display": "ಈಗ ನಾವು ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $10x^2 - 18x^3 + 14x^4$ ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಇಲ್ಲಿ ನಮಗೆ ಮೂರು ಪದಗಳಿರುವ ಒಂದು ಬೀಜೋಕ್ತಿ ನೀಡಲಾಗಿದೆ. ನಮ್ಮ ಗುರಿ ಇದರ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "display_bullets": [
+    "ಅಪವರ್ತಿಸಬೇಕಾದ ಬೀಜೋಕ್ತಿ: $10x^2 - 18x^3 + 14x^4$",
+    "ವಿಧಾನ: ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ವಿಧಾನ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "10x^2 - 18x^3 + 14x^4",
+    "placeholder_note": "Expression to be factorized"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-FAC-2_example_2",
+  "chunk_id": "ALG-FAC-2_concept_2_chunk_007"
+}

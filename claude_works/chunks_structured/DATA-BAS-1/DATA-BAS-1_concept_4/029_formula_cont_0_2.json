@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ 1: ನಾಣ್ಯ ಚಿಮ್ಮುವಿಕೆ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಈ ಸೂತ್ರವನ್ನು ಅನ್ವಯಿಸೋಣ. ನಮ್ಮ ಪ್ರಯೋಗ ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು. ನಾವು 'ಹೆಡ್' ಅಂದರೆ ಶಿರ ಬೀಳುವ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದು ನಮ್ಮ ಘಟನೆ. ಮೊದಲು, ಒಟ್ಟು ಸಾಧ್ಯವಿರುವ ಫಲಿತಾಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮಿದಾಗ, ನಮಗೆ 'ಹೆಡ್' ಅಥವಾ 'ಟೇಲ್' ಬರಬಹುದು. ಅಂದರೆ, ಒಟ್ಟು ಎರಡು ಸಾಧ್ಯತೆಗಳಿವೆ. ಈಗ, ನಮ್ಮ ಘಟನೆಗೆ ಪೂರಕವಾದ ಫಲಿತಾಂಶ ಯಾವುದು? ನಾವು 'ಹೆಡ್' ಬೀಳುವುದನ್ನು ನಿರೀಕ್ಷಿಸುತ್ತಿದ್ದೇವೆ, ಹಾಗಾಗಿ ಪೂರಕವಾದ ಫಲಿತಾಂಶ ಒಂದೇ ಒಂದು, ಅದು 'ಹೆಡ್'. ಈಗ ಸೂತ್ರವನ್ನು ಬಳಸೋಣ. ಹೆಡ್ ಬೀಳುವ ಸಂಭವನೀಯತೆ, ಪಿ ಆಫ್ ಹೆಡ್, ಈಕ್ವಲ್ಸ್ ಪೂರಕ ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ, ಅಂದರೆ ಒಂದು, ಇದನ್ನು ಒಟ್ಟು ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ, ಅಂದರೆ ಎರಡರಿಂದ ಭಾಗಿಸಬೇಕು. ಆದ್ದರಿಂದ, ಉತ್ತರ ಒಂದನೇ ಎರಡು.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಈ ಸೂತ್ರವನ್ನು ಅನ್ವಯಿಸೋಣ.\n\n* **ಪ್ರಯೋಗ:** ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು.\n* **ಘಟನೆ (E):** 'ಹೆಡ್' (ಶಿರ) ಬೀಳುವುದು.\n* **ಲೆಕ್ಕಾಚಾರ:**\n  * ಒಟ್ಟು ಸಾಧ್ಯವಿರುವ ಫಲಿತಾಂಶಗಳು = {ಹೆಡ್, ಟೇಲ್} (ಸಂಖ್ಯೆ = 2)\n  * ಪೂರಕವಾದ ಫಲಿತಾಂಶಗಳು = {ಹೆಡ್} (ಸಂಖ್ಯೆ = 1)\n  * $P(\\text{ಹೆಡ್}) = \\frac{\\text{ಪೂರಕ ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ}}{\\text{ಒಟ್ಟು ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ}} = \\frac{1}{2}$",
+  "display_bullets": [
+    "ಪ್ರಯೋಗ: ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು.",
+    "ಘಟನೆ (E): 'ಹೆಡ್' (ಶಿರ) ಬೀಳುವುದು.",
+    "ಒಟ್ಟು ಫಲಿತಾಂಶಗಳು: {ಹೆಡ್, ಟೇಲ್} (ಸಂಖ್ಯೆ = 2)",
+    "ಪೂರಕ ಫಲಿತಾಂಶ: {ಹೆಡ್} (ಸಂಖ್ಯೆ = 1)",
+    "ಸಂಭವನೀಯತೆ: P(ಹೆಡ್) = 1/2"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_3a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a coin being tossed, with two possible outcomes: Heads and Tails. The 'Heads' outcome is highlighted to show it is the favorable outcome.",
+    "labels": "ನಾಣ್ಯ, ಹೆಡ್, ಟೇಲ್",
+    "mathematical_significance": "Illustrates a simple random experiment with two equally likely outcomes.",
+    "placeholder_note": "Image to be generated: A coin toss illustration."
+  },
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_029"
+}

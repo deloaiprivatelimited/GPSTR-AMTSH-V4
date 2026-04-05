@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 4-5",
+  "script": "ಈಗ ನಾವು ಕೋನ POR ಮತ್ತು ಕೋನ ROQ ಅನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳ ಗುಣಲಕ್ಷಣವನ್ನು ಬಳಸಿ ಉಳಿದ ಎರಡು ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಕೋನ SOQ, ಕೋನ POR ಗೆ ಶೃಂಗಾಭಿಮುಖವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಪ್ರಮೇಯ 6.1 ರ ಪ್ರಕಾರ, ಕೋನ SOQ ಕೂಡ 75 ಡಿಗ್ರಿಗಳಿಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಹಾಗೆಯೇ, ಕೋನ POS, ಕೋನ ROQ ಗೆ ಶೃಂಗಾಭಿಮುಖವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಕೋನ POS 105 ಡಿಗ್ರಿಗಳಿಗೆ ಸಮವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು $\\angle POR$ ಮತ್ತು $\\angle ROQ$ ಅನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳ ಗುಣಲಕ್ಷಣವನ್ನು ಬಳಸಿ ಉಳಿದ ಎರಡು ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. $\\angle SOQ$, $\\angle POR$ ಗೆ ಶೃಂಗಾಭಿಮುಖವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಪ್ರಮೇಯ 6.1 ರ ಪ್ರಕಾರ, $\\angle SOQ$ ಕೂಡ $75°$ ಗಳಿಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಹಾಗೆಯೇ, $\\angle POS$, $\\angle ROQ$ ಗೆ ಶೃಂಗಾಭಿಮುಖವಾಗಿದೆ. ಆದ್ದರಿಂದ, $\\angle POS$ $105°$ ಗಳಿಗೆ ಸಮವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_left",
+    "text_zone": "left",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-LA-2_example_1",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "$\\angle SOQ = \\angle POR = 75°$",
+      "justification": "ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಸಮ (ಪ್ರಮೇಯ 6.1)"
+    },
+    {
+      "step": 5,
+      "action_display": "$\\angle POS = \\angle ROQ = 105°$",
+      "justification": "ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಸಮ (ಪ್ರಮೇಯ 6.1)"
+    }
+  ],
+  "chunk_id": "GEO-LA-2_concept_2_chunk_038"
+}

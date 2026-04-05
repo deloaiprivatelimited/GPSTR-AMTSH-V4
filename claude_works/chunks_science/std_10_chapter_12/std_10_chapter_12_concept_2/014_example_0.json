@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 12.1: ಸಮಸ್ಯೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕ್ಷಿತಿಜಕ್ಕೆ ಸಮಾಂತರವಿರುವ ವಿದ್ಯುತ್ ತಂತಿಯಲ್ಲಿ ವಿದ್ಯುತ್‌ಪ್ರವಾಹವು ಪೂರ್ವದಿಂದ ಪಶ್ಚಿಮ ದಿಕ್ಕಿಗೆ ಹರಿಯುತ್ತದೆ. ಸರಿಯಾಗಿ ಇದರ ಕೆಳಗೆ ಯಾವುದೇ ಬಿಂದುವಿನಲ್ಲಿ ಹಾಗೂ ಅದರ ಮೇಲೆ ಯಾವುದೇ ಬಿಂದುವಿನಲ್ಲಿನ ಕಾಂತಕ್ಷೇತ್ರವು ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿರುತ್ತದೆ? ಇಲ್ಲಿ, ನಮಗೆ ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ದಿಕ್ಕನ್ನು ನೀಡಲಾಗಿದೆ, ಅದು ಪೂರ್ವದಿಂದ ಪಶ್ಚಿಮಕ್ಕೆ. ನಾವು ತಂತಿಯ ಕೆಳಗೆ ಮತ್ತು ಮೇಲೆ ಕಾಂತಕ್ಷೇತ್ರದ ದಿಕ್ಕನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಕ್ಷಿತಿಜಕ್ಕೆ ಸಮಾಂತರವಿರುವ ವಿದ್ಯುತ್ ತಂತಿಯಲ್ಲಿ ವಿದ್ಯುತ್‌ಪ್ರವಾಹವು ಪೂರ್ವದಿಂದ ಪಶ್ಚಿಮ ದಿಕ್ಕಿಗೆ ಹರಿಯುತ್ತದೆ. ಸರಿಯಾಗಿ ಇದರ ಕೆಳಗೆ ಯಾವುದೇ ಬಿಂದುವಿನಲ್ಲಿ ಹಾಗೂ ಅದರ ಮೇಲೆ ಯಾವುದೇ ಬಿಂದುವಿನಲ್ಲಿನ ಕಾಂತಕ್ಷೇತ್ರವು ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿರುತ್ತದೆ?",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ದಿಕ್ಕು ಪೂರ್ವದಿಂದ ಪಶ್ಚಿಮಕ್ಕೆ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ತಂತಿಯ ಕೆಳಗೆ ಮತ್ತು ಮೇಲೆ ಕಾಂತಕ್ಷೇತ್ರದ ದಿಕ್ಕು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸಮಸ್ಯೆಯನ್ನು ವಿವರಿಸುವ ಚಿತ್ರ. ಒಂದು ಸಮತಲ ರೇಖೆಯು ವಿದ್ಯುತ್ ತಂತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಬಾಣದ ಗುರುತು ಪೂರ್ವದಿಂದ ಪಶ್ಚಿಮಕ್ಕೆ (ಬಲದಿಂದ ಎಡಕ್ಕೆ) ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ದಿಕ್ಕನ್ನು ತೋರಿಸುತ್ತದೆ. ತಂತಿಯ ಮೇಲೆ ಮತ್ತು ಕೆಳಗೆ ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಗಳಿರುವ ಎರಡು ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. ದಿಕ್ಕುಗಳನ್ನು (ಉತ್ತರ, ದಕ್ಷಿಣ, ಪೂರ್ವ, ಪಶ್ಚಿಮ) ಸ್ಪಷ್ಟವಾಗಿ ಲೇಬಲ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "ವಿದ್ಯುತ್ ಪ್ರವಾಹ, ಪೂರ್ವ, ಪಶ್ಚಿಮ, ಕಾಂತಕ್ಷೇತ್ರದ ದಿಕ್ಕು?",
+    "scientific_significance": "ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಮತ್ತು ಕಾಂತಕ್ಷೇತ್ರದ ದಿಕ್ಕಿನ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated: A horizontal line representing a wire with an arrow pointing from East (right) to West (left). Label 'Current'. Mark a point 'P1' above the wire and 'P2' below the wire, each with a question mark. Add compass directions (N, S, E, W)."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_12_example_12.1",
+  "chunk_id": "std_10_chapter_12_concept_2_chunk_014"
+}

@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ ಹೀಗಿದೆ: ಮಸೂರದ ಸಂಗಮ ದೂರವು ಪ್ಲಸ್ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಐದು ಸೊನ್ನೆ ಮೀಟರ್, ಮತ್ತು ಇದು ಒಂದು ಪೀನ ಮಸೂರವಾಗಿದೆ. ಇಲ್ಲಿ ನೆನಪಿಡಬೇಕಾದ ಪ್ರಮುಖ ವಿಷಯವೆಂದರೆ, ಧನಾತ್ಮಕ ಸಾಮರ್ಥ್ಯವು ಪೀನ ಮಸೂರವನ್ನು ಸೂಚಿಸುತ್ತದೆ ಮತ್ತು ಋಣಾತ್ಮಕ ಸಾಮರ್ಥ್ಯವು ನಿಮ್ಮ ಮಸೂರವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ ಹೀಗಿದೆ: ಮಸೂರದ ಸಂಗಮ ದೂರವು +0.50 m, ಮತ್ತು ಇದು ಒಂದು ಪೀನ ಮಸೂರವಾಗಿದೆ. ಇಲ್ಲಿ ನೆನಪಿಡಬೇಕಾದ ಪ್ರಮುಖ ವಿಷಯವೆಂದರೆ, ಧನಾತ್ಮಕ (+) ಸಾಮರ್ಥ್ಯವು ಪೀನ ಮಸೂರವನ್ನು ಸೂಚಿಸುತ್ತದೆ ಮತ್ತು ಋಣಾತ್ಮಕ (-) ಸಾಮರ್ಥ್ಯವು ನಿಮ್ಮ ಮಸೂರವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಂಗಮ ದೂರ (f) = +0.50 m",
+    "ಮಸೂರದ ವಿಧ: ಪೀನ ಮಸೂರ (Convex Lens)",
+    "ಪ್ರಮುಖಾಂಶ: ಧನಾತ್ಮಕ ಸಾಮರ್ಥ್ಯ (+) = ಪೀನ ಮಸೂರ. ಋಣಾತ್ಮಕ ಸಾಮರ್ಥ್ಯ (-) = ನಿಮ್ಮ ಮಸೂರ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸಂಗಮ ದೂರ (f) = +0.50 m} \\\\ \\text{ಮಸೂರದ ವಿಧ = ಪೀನ ಮಸೂರ}",
+    "placeholder_note": "Box displaying the final answer."
+  },
+  "source_example_id": "std_10_chapter_9_example_power_1",
+  "steps": [],
+  "final_answer": "ಮಸೂರದ ಸಂಗಮ ದೂರ +0.50 m. ಸಾಮರ್ಥ್ಯವು ಧನಾತ್ಮಕವಾಗಿರುವುದರಿಂದ, ಇದು ಪೀನ ಮಸೂರವಾಗಿದೆ.",
+  "final_answer_display": "ಮಸೂರದ ಸಂಗಮ ದೂರ +0.50 m. ಸಾಮರ್ಥ್ಯವು ಧನಾತ್ಮಕವಾಗಿರುವುದರಿಂದ, ಇದು ಪೀನ ಮಸೂರವಾಗಿದೆ.",
+  "chunk_id": "std_10_chapter_9_concept_9_chunk_018"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಮ್ಲಜನಕ ಸಹಿತ ಉಸಿರಾಟ: ಸಮೀಕರಣ",
+  "script": "ಇದು ಆಮ್ಲಜನಕ ಸಹಿತ ಉಸಿರಾಟದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ. ಗ್ಲೂಕೋಸ್, ಅಂದರೆ ಸಿ ಸಿಕ್ಸ್ ಎಚ್ ಟ್ವೆಲ್ವ್ ಓ ಸಿಕ್ಸ್, ಆರು ಆಮ್ಲಜನಕದ ಅಣುಗಳೊಂದಿಗೆ ವರ್ತಿಸಿ, ಆರು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅಣುಗಳು, ಆರು ನೀರಿನ ಅಣುಗಳು ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಇದು ಆಮ್ಲಜನಕ ಸಹಿತ ಉಸಿರಾಟದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ. ಗ್ಲೂಕೋಸ್ (C₆H₁₂O₆), ಆರು ಆಮ್ಲಜನಕದ (6O₂) ಅಣುಗಳೊಂದಿಗೆ ವರ್ತಿಸಿ, ಆರು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (6CO₂) ಅಣುಗಳು, ಆರು ನೀರಿನ (6H₂O) ಅಣುಗಳು ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "modern_dark",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "C_6H_{12}O_6 + 6O_2 \\rightarrow 6CO_2 + 6H_2O + \\text{ಶಕ್ತಿ}",
+    "placeholder_note": "Balanced chemical equation for aerobic respiration."
+  },
+  "chunk_id": "std_7_chapter_6_concept_2_chunk_016"
+}

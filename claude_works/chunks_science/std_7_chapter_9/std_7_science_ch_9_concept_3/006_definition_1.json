@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಆಂದೋಲಕ ಚಲನೆ: ಒಂದು ಪರಿಚಯ",
+  "script": "ಈಗ ನಾವು ಸರಳ ಲೋಲಕದ ಒಂದು ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವಾದ ಆಂದೋಲನದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಒಂದು ಲೋಲಕವು ತನ್ನ ಸ್ಥಿರ ಸ್ಥಾನದಿಂದ ಅತ್ತ ಇತ್ತ ಚಲಿಸುತ್ತದೆ. ಈ ಚಲನೆಯನ್ನು ನಾವು ಆಂದೋಲಕ ಚಲನೆ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಲೋಲಕವು ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಯಲ್ಲಿರುವಾಗ, ಆ ಸ್ಥಾನವನ್ನು 'ಮಧ್ಯಮ ಸ್ಥಾನ' ಅಥವಾ 'O' ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಅದು ಚಲಿಸಿ ತಲುಪುವ ಎರಡು ತುದಿಗಳನ್ನು 'ಅಂತ್ಯ ಸ್ಥಾನಗಳು' ಅಥವಾ 'A' ಮತ್ತು 'B' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಅತ್ತ-ಇತ್ತ ಚಲನೆಯೇ ಆಂದೋಲನದ ಮೂಲಭೂತ ಸ್ವರೂಪವಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಸರಳ ಲೋಲಕದ ಒಂದು ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವಾದ ಆಂದೋಲನದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಒಂದು ಲೋಲಕವು ತನ್ನ ಸ್ಥಿರ ಸ್ಥಾನದಿಂದ ಅತ್ತ ಇತ್ತ ಚಲಿಸುತ್ತದೆ. ಈ ಚಲನೆಯನ್ನು ನಾವು ಆಂದೋಲಕ ಚಲನೆ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಲೋಲಕವು ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಯಲ್ಲಿರುವಾಗ, ಆ ಸ್ಥಾನವನ್ನು 'ಮಧ್ಯಮ ಸ್ಥಾನ' (Mean Position) ಅಥವಾ 'O' ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಅದು ಚಲಿಸಿ ತಲುಪುವ ಎರಡು ತುದಿಗಳನ್ನು 'ಅಂತ್ಯ ಸ್ಥಾನಗಳು' (Extreme Positions) ಅಥವಾ 'A' ಮತ್ತು 'B' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಅತ್ತ-ಇತ್ತ ಚಲನೆಯೇ ಆಂದೋಲನದ ಮೂಲಭೂತ ಸ್ವರೂಪವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸರಳ ಲೋಲಕದ ಅತ್ತ-ಇತ್ತ ಚಲನೆಯನ್ನು ಆಂದೋಲಕ ಚಲನೆ ಎನ್ನುತ್ತಾರೆ.",
+    "ಮಧ್ಯಮ ಸ್ಥಾನ (O): ಲೋಲಕವು ಸ್ಥಿರವಾಗಿರುವ ಬಿಂದು.",
+    "ಅಂತ್ಯ ಸ್ಥಾನಗಳು (A ಮತ್ತು B): ಚಲನೆಯ ಎರಡು ತುದಿಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple pendulum at rest, showing the mean position 'O'. Arrows indicate the to-and-fro motion towards the two extreme positions, labeled 'A' and 'B'.",
+    "labels": "Pendulum bob, string, point of suspension, Mean position (O), Extreme position (A), Extreme position (B)",
+    "scientific_significance": "Illustrates the basic components and terminology of an oscillating simple pendulum.",
+    "placeholder_note": "Image to be generated showing a simple pendulum with labeled positions O, A, and B."
+  },
+  "chunk_id": "std_7_science_ch_9_concept_3_chunk_006"
+}

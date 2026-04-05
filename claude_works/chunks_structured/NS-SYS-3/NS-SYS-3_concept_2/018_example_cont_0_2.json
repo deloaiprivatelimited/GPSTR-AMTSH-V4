@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಲೆಕ್ಕಾಚಾರ: ಹಂತ 3",
+  "script": "ಈಗ, OAB ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸೋಣ. ವಿಕರ್ಣ OB ಯ ವರ್ಗವು, OA ವರ್ಗ ಮತ್ತು AB ವರ್ಗಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. OA ಮತ್ತು AB ಎರಡೂ ಒಂದು ಏಕಮಾನ ಆಗಿರುವುದರಿಂದ, OB ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ ಒನ್ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಒನ್ ಸ್ಕ್ವೇರ್ಡ್, ಅಂದರೆ ಒಂದು ಪ್ಲಸ್ ಒಂದು, ಸಮ ಎರಡು. ಆದ್ದರಿಂದ, OB ಯ ಉದ್ದವು ವರ್ಗಮೂಲ ಎರಡು, ಅಂದರೆ ರೂಟ್ ಟೂ ಆಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ, OAB ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸೋಣ. ವಿಕರ್ಣ $OB^2 = OA^2 + AB^2$. OA ಮತ್ತು AB ಎರಡೂ 1 ಏಕಮಾನ ಆಗಿರುವುದರಿಂದ, $OB^2 = 1^2 + 1^2 = 1 + 1 = 2$. ಆದ್ದರಿಂದ, $OB = \\sqrt{2}$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same diagram as the previous slide, but now the hypotenuse OB is drawn, completing the triangle OAB. The lengths OA=1 and AB=1 are labeled. The hypotenuse OB is labeled with '√2'.",
+    "labels": "O, A, B, 1, 1, √2",
+    "mathematical_significance": "This step visually represents the application of Pythagoras' theorem, showing that the hypotenuse of the constructed triangle has the desired length of sqrt(2).",
+    "placeholder_note": "Image to be generated showing the completed triangle OAB with all sides labeled."
+  },
+  "source_example_id": "NS-SYS-3_example_3",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$OB^2 = OA^2 + AB^2 = 1^2 + 1^2 = 2 \\implies OB = \\sqrt{2}$",
+      "justification": "OAB ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಅನ್ವಯ."
+    }
+  ],
+  "chunk_id": "NS-SYS-3_concept_2_chunk_018"
+}

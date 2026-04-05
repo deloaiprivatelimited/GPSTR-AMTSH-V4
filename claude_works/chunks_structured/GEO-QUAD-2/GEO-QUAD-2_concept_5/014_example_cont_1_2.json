@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 2 - $∆ACF$ ನಲ್ಲಿ ವಿಲೋಮ ಪ್ರಮೇಯ",
+  "script": "ಮೊದಲಿಗೆ, ತ್ರಿಭುಜ ಎ ಸಿ ಎಫ್ ಅನ್ನು ಪರಿಗಣಿಸೋಣ. ಇಲ್ಲಿ, ಬಿ ಯು ಎ ಸಿ ಯ ಮಧ್ಯಬಿಂದು, ಏಕೆಂದರೆ ದತ್ತಾಂಶದ ಪ್ರಕಾರ ಎ ಬಿ ಯು ಬಿ ಸಿ ಗೆ ಸಮ. ಹಾಗೆಯೇ, ಬಿ ಜಿ ಯು ಸಿ ಎಫ್ ಗೆ ಸಮಾಂತರವಾಗಿದೆ, ಏಕೆಂದರೆ ಎಂ ಮತ್ತು ಎನ್ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿವೆ. ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ವಿಲೋಮದ ಪ್ರಕಾರ, ತ್ರಿಭುಜದ ಒಂದು ಬಾಹುವಿನ ಮಧ್ಯಬಿಂದುವಿನಿಂದ ಮತ್ತೊಂದು ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿ ಎಳೆದ ರೇಖೆಯು ಮೂರನೇ ಬಾಹುವನ್ನು ಅರ್ಧಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, ಜಿ ಯು ಎ ಎಫ್ ನ ಮಧ್ಯಬಿಂದು ಆಗುತ್ತದೆ. ಅಂದರೆ, ಎ ಜಿ ಯು ಜಿ ಎಫ್ ಗೆ ಸಮ.",
+  "script_display": "ಮೊದಲಿಗೆ, $∆ACF$ ಅನ್ನು ಪರಿಗಣಿಸೋಣ. ಇಲ್ಲಿ, B ಯು AC ಯ ಮಧ್ಯಬಿಂದು ($AB = BC$ ದತ್ತ). ಹಾಗೂ, $BG \\parallel CF$ ($m \\parallel n$ ದತ್ತ). ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ವಿಲೋಮದ (ಪ್ರಮೇಯ 8.9) ಪ್ರಕಾರ, G ಯು AF ನ ಮಧ್ಯಬಿಂದು ಆಗುತ್ತದೆ. ಅಂದರೆ, $AG = GF$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಚಿತ್ರದಲ್ಲಿ, ತ್ರಿಭುಜ ACF ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. B ಯು AC ಯ ಮಧ್ಯಬಿಂದು ಮತ್ತು BG || CF ಎಂದು ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "A, C, F, B, G",
+    "mathematical_significance": "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ವಿಲೋಮವನ್ನು $∆ACF$ ಗೆ ಅನ್ವಯಿಸುವುದನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated with triangle ACF highlighted."
+  },
+  "source_example_id": "GEO-QUAD-2_example_7",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "$∆ACF$ ನಲ್ಲಿ, B ಯು AC ಯ ಮಧ್ಯಬಿಂದು ಮತ್ತು $BG \\parallel CF$.",
+      "justification": "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ವಿಲೋಮವನ್ನು ಅನ್ವಯಿಸಿದಾಗ, G ಯು AF ನ ಮಧ್ಯಬಿಂದುವಾಗುತ್ತದೆ. $\\implies AG = GF$."
+    }
+  ],
+  "chunk_id": "GEO-QUAD-2_concept_5_chunk_014"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ",
+  "script": "ಈಗ ನಾವು ಎಲ್ಲಾ ನಾಲ್ಕು ಗುಂಪುಗಳ ಫಲಿತಾಂಶಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡೋಣ. ಗುಂಪು ಎ ಮತ್ತು ಬಿ ಯ ಬೀಕರ್‌ಗಳನ್ನು ಗಮನಿಸಿದಾಗ, ಮಿಶ್ರಣವು ಪೂರ್ತಿಯಾಗಿ ಒಂದೇ ರೀತಿಯ ಸಂಯೋಜನೆ ಮತ್ತು ಬಣ್ಣವನ್ನು ಹೊಂದಿರುವುದನ್ನು ಕಾಣಬಹುದು. ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಕಣಗಳು ನೀರಿನಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಕರಗಿಹೋಗಿವೆ. ಆದರೆ, ಗುಂಪು ಸಿ ಮತ್ತು ಡಿ ಯ ಮಿಶ್ರಣಗಳನ್ನು ನೋಡಿದಾಗ, ಪರಿಸ್ಥಿತಿ ವಿಭಿನ್ನವಾಗಿದೆ. ಇಲ್ಲಿ ಮಿಶ್ರಣವು ಏಕರೂಪವಲ್ಲದ ಸಂಯೋಜನೆಯನ್ನು ಹೊಂದಿದೆ. ಉದಾಹರಣೆಗೆ, ಗುಂಪು ಡಿ ಯಲ್ಲಿ, ಮರಳಿನ ಕಣಗಳು ನೀರಿನಲ್ಲಿ ಕೆಳಗೆ ಕುಳಿತಿರುವುದನ್ನು ನಾವು ಬರಿಗಣ್ಣಿನಿಂದ ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು.",
+  "script_display": "ಈಗ ನಾವು ಎಲ್ಲಾ ನಾಲ್ಕು ಗುಂಪುಗಳ ಫಲಿತಾಂಶಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡೋಣ. ಗುಂಪು A ಮತ್ತು B ಯ ಬೀಕರ್‌ಗಳನ್ನು ಗಮನಿಸಿದಾಗ, ಮಿಶ್ರಣವು ಪೂರ್ತಿಯಾಗಿ ಒಂದೇ ರೀತಿಯ ಸಂಯೋಜನೆ ಮತ್ತು ಬಣ್ಣವನ್ನು ಹೊಂದಿರುವುದನ್ನು ಕಾಣಬಹುದು. ಆದರೆ, ಗುಂಪು C ಮತ್ತು D ಯ ಮಿಶ್ರಣಗಳನ್ನು ನೋಡಿದಾಗ, ಪರಿಸ್ಥಿತಿ ವಿಭಿನ್ನವಾಗಿದೆ. ಇಲ್ಲಿ ಮಿಶ್ರಣವು ಏಕರೂಪವಲ್ಲದ ಸಂಯೋಜನೆಯನ್ನು ಹೊಂದಿದೆ. ಉದಾಹರಣೆಗೆ, ಗುಂಪು D ಯಲ್ಲಿ, ಮರಳಿನ ಕಣಗಳು ನೀರಿನಲ್ಲಿ ಕೆಳಗೆ ಕುಳಿತಿರುವುದನ್ನು ನಾವು ಬರಿಗಣ್ಣಿನಿಂದ ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು.",
+  "display_bullets": [
+    "ಗುಂಪು A ಮತ್ತು B: ಮಿಶ್ರಣವು ಏಕರೂಪದ ಸಂಯೋಜನೆ ಮತ್ತು ಬಣ್ಣವನ್ನು ಹೊಂದಿದೆ. ಘಟಕಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ನೋಡಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+    "ಗುಂಪು C ಮತ್ತು D: ಮಿಶ್ರಣವು ಏಕರೂಪವಲ್ಲದ ಸಂಯೋಜನೆಯನ್ನು ಹೊಂದಿದೆ. ಘಟಕಗಳನ್ನು ಬರಿಗಣ್ಣಿನಿಂದ ಪ್ರತ್ಯೇಕವಾಗಿ ನೋಡಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Four beakers shown side-by-side. Beakers A and B contain clear, uniform blue solutions (B is darker blue). Beaker C contains a solution with mixed colors/particles. Beaker D contains water with sand settled at the bottom.",
+    "labels": "ಗುಂಪು A, ಗುಂಪು B, ಗುಂಪು C, ಗುಂಪು D",
+    "scientific_significance": "Visually contrasts the appearance of homogeneous and heterogeneous mixtures.",
+    "placeholder_note": "Image to be generated showing the final state of the four beakers."
+  },
+  "sub_type": "key_takeaway",
+  "chunk_id": "std_9_chapter_2_concept_2_chunk_013"
+}

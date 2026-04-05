@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಆಂಪಿಯರ್: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಇದನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಒಂದು ವಾಹಕ ತಂತಿಯನ್ನು ನೀರಿನ ಪೈಪ್ ಎಂದು ಭಾವಿಸಿ. ಮತ್ತು ಅದರಲ್ಲಿ ಹರಿಯುವ ವಿದ್ಯುದಾವೇಶಗಳನ್ನು, ಅಂದರೆ ಚಾರ್ಜ್‌ಗಳನ್ನು, ಪೈಪಿನಲ್ಲಿ ಹರಿಯುವ ನೀರು ಎಂದು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಪೈಪಿನ ಒಂದು ನಿರ್ದಿಷ್ಟ ಜಾಗವನ್ನು ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಎಷ್ಟು ನೀರು ದಾಟುತ್ತದೆ ಎಂದು ಅಳೆಯುವಂತೆ, ವಾಹಕದ ಒಂದು ಅಡ್ಡಕೊಯ್ತವನ್ನು ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಎಷ್ಟು ಪ್ರಮಾಣದ ಆವೇಶ ದಾಟುತ್ತದೆ ಎಂಬುದೇ ವಿದ್ಯುತ್ ಪ್ರವಾಹ. ಈ ಪ್ರವಾಹವನ್ನು ನಾವು ಆಂಪಿಯರ್‌ಗಳಲ್ಲಿ ಅಳೆಯುತ್ತೇವೆ. ಹೆಚ್ಚು ಚಾರ್ಜ್ ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಹರಿದರೆ, ಆಂಪಿಯರ್ ಮೌಲ್ಯ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಇದನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಒಂದು ವಾಹಕ ತಂತಿಯನ್ನು ನೀರಿನ ಪೈಪ್ ಎಂದು ಭಾವಿಸಿ. ಮತ್ತು ಅದರಲ್ಲಿ ಹರಿಯುವ ವಿದ್ಯುದಾವೇಶಗಳನ್ನು (charges), ಪೈಪಿನಲ್ಲಿ ಹರಿಯುವ ನೀರು ಎಂದು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಪೈಪಿನ ಒಂದು ನಿರ್ದಿಷ್ಟ ಜಾಗವನ್ನು ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಎಷ್ಟು ನೀರು ದಾಟುತ್ತದೆ ಎಂದು ಅಳೆಯುವಂತೆ, ವಾಹಕದ ಒಂದು ಅಡ್ಡಕೊಯ್ತವನ್ನು ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಎಷ್ಟು ಪ್ರಮಾಣದ ಆವೇಶ ದಾಟುತ್ತದೆ ಎಂಬುದೇ ವಿದ್ಯುತ್ ಪ್ರವಾಹ. ಈ ಪ್ರವಾಹವನ್ನು ನಾವು ಆಂಪಿಯರ್‌ಗಳಲ್ಲಿ ಅಳೆಯುತ್ತೇವೆ. ಹೆಚ್ಚು ಚಾರ್ಜ್ ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಹರಿದರೆ, ಆಂಪಿಯರ್ ಮೌಲ್ಯ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹೋಲಿಕೆ: ವಾಹಕ ತಂತಿ ↔ ನೀರಿನ ಪೈಪ್",
+    "ಹೋಲಿಕೆ: ವಿದ್ಯುದಾವೇಶ (Charge) ↔ ನೀರು (Water)",
+    "ವಿದ್ಯುತ್ ಪ್ರವಾಹ (ಆಂಪಿಯರ್) ಎಂಬುದು ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಹರಿಯುವ ಆವೇಶದ ಪ್ರಮಾಣ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating the concept of electric current. It shows a cross-section of a wire (like a pipe). Small circles representing charges are flowing from left to right. A vertical dashed line represents a point of observation. An arrow labeled '1 second' indicates the time frame, and a counter shows '1 Coulomb' of charge passing the line. The overall flow is labeled '1 Ampere'.",
+    "labels": "ವಾಹಕ (Conductor), ವಿದ್ಯುದಾವೇಶಗಳು (Charges), 1 ಸೆಕೆಂಡ್, 1 ಕೂಲಮ್, 1 ಆಂಪಿಯರ್ ಪ್ರವಾಹ",
+    "scientific_significance": "Visually connects the abstract definition of Ampere (charge per time) to a more intuitive concept of flow rate, like water in a pipe.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_11_concept_1_chunk_014"
+}

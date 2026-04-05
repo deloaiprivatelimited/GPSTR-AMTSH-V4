@@ -1,0 +1,36 @@
+{
+  "type": "formula_showcase",
+  "slide_title": "ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಅಡಿಯಲ್ಲಿ ಚಲನೆಯ ಸಮೀಕರಣಗಳು",
+  "script": "ನಾವು ಈಗ ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಪ್ರಭಾವದಿಂದ ಚಲಿಸುವ ವಸ್ತುಗಳಿಗೆ ಅನ್ವಯವಾಗುವ ಚಲನೆಯ ಸಮೀಕರಣಗಳನ್ನು ನೋಡೋಣ. ಇವು ನಮ್ಮ ಸಾಮಾನ್ಯ ಚಲನೆಯ ಸಮೀಕರಣಗಳಂತೆಯೇ ಇವೆ, ಆದರೆ ಇಲ್ಲಿ ವೇಗೋತ್ಕರ್ಷ 'a' ಬದಲಿಗೆ ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ 'g' ಯನ್ನು ಬಳಸುತ್ತೇವೆ. ಮೊದಲನೆಯದು, v equals u plus g t. ಎರಡನೆಯದು, s equals u t plus half g t squared. ಮತ್ತು ಮೂರನೆಯದು, v squared equals u squared plus two g s. ಇಲ್ಲಿ u ಅಂದರೆ ಆರಂಭಿಕ ವೇಗ, v ಅಂದರೆ ಅಂತಿಮ ವೇಗ, t ಅಂದರೆ ಸಮಯ, ಮತ್ತು s ಅಂದರೆ ಚಲಿಸಿದ ದೂರ. g ಎಂಬುದು ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ.",
+  "script_display": "ನಾವು ಈಗ ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಪ್ರಭಾವದಿಂದ ಚಲಿಸುವ ವಸ್ತುಗಳಿಗೆ ಅನ್ವಯವಾಗುವ ಚಲನೆಯ ಸಮೀಕರಣಗಳನ್ನು ನೋಡೋಣ. ಇವು ನಮ್ಮ ಸಾಮಾನ್ಯ ಚಲನೆಯ ಸಮೀಕರಣಗಳಂತೆಯೇ ಇವೆ, ಆದರೆ ಇಲ್ಲಿ ವೇಗೋತ್ಕರ್ಷ 'a' ಬದಲಿಗೆ ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ 'g' ಯನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "$v = u + gt$",
+    "$s = ut + \\frac{1}{2}gt^2$",
+    "$v^2 = u^2 + 2gs$",
+    "$u$ = ಆರಂಭಿಕ ವೇಗ, $v$ = ಅಂತಿಮ ವೇಗ, $t$ = ಸಮಯ, $s$ = ದೂರ, $g$ = ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "v = u + gt \\\\ s = ut + \\frac{1}{2}gt^2 \\\\ v^2 = u^2 + 2gs",
+    "placeholder_note": "The three equations of motion under gravity stacked vertically."
+  },
+  "chunk_id": "std_9_chapter_9_concept_4_chunk_003"
+}

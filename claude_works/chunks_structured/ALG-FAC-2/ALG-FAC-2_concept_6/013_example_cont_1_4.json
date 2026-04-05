@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ 4x ಇಂಟು x ಪ್ಲಸ್ 3. ಈ ಉದಾಹರಣೆಯ ಪ್ರಮುಖ ಪಾಠವೆಂದರೆ, ಬೀಜೋಕ್ತಿಗಳನ್ನು ಭಾಗಿಸುವಾಗ, ಮೊದಲು ಅವುಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಅಪವರ್ತಿಸಬೇಕು. ಇದು ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಸುಲಭವಾಗಿ ಗುರುತಿಸಲು ಮತ್ತು ರದ್ದುಗೊಳಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ನೇರವಾಗಿ ಪದಗಳನ್ನು ರದ್ದುಗೊಳಿಸಲು ಪ್ರಯತ್ನಿಸಿದರೆ ಉತ್ತರ ತಪ್ಪಾಗುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು.",
+  "script_display": "ಹಾಗಾದರೆ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ $4x(x+3)$. ಈ ಉದಾಹರಣೆಯ ಪ್ರಮುಖ ಪಾಠವೆಂದರೆ, ಬೀಜೋಕ್ತಿಗಳನ್ನು ಭಾಗಿಸುವಾಗ, ಮೊದಲು ಅವುಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಅಪವರ್ತಿಸಬೇಕು. ಇದು ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಸುಲಭವಾಗಿ ಗುರುತಿಸಲು ಮತ್ತು ರದ್ದುಗೊಳಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ನೇರವಾಗಿ ಪದಗಳನ್ನು ರದ್ದುಗೊಳಿಸಲು ಪ್ರಯತ್ನಿಸಿದರೆ ಉತ್ತರ ತಪ್ಪಾಗುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $4x(x+3)$",
+    "ಪ್ರಮುಖ ಪಾಠ: ಭಾಗಾಕಾರ ಮಾಡುವ ಮೊದಲು ಬೀಜೋಕ್ತಿಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಅಪವರ್ತಿಸಿ.",
+    "ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ರದ್ದುಗೊಳಿಸುವ ಮೂಲಕ ಭಾಗಲಬ್ಧವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "4x(x+3)",
+    "placeholder_note": "Display the final answer in a highlighted box."
+  },
+  "source_example_id": "ALG-FAC-2_example_15",
+  "steps": [],
+  "final_answer": "4x(x+3)",
+  "final_answer_display": "$4x(x+3)$",
+  "chunk_id": "ALG-FAC-2_concept_6_chunk_013"
+}

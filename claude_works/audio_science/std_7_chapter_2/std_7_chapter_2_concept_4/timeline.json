@@ -1,0 +1,178 @@
+{
+  "module_id": "std_7_chapter_2_concept_4",
+  "chapter_code": "std_7_chapter_2",
+  "voice": "Alnilam",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 15,
+  "total_duration": 633.285,
+  "total_duration_formatted": "10:33",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಬಾಯಿ, ಹಲ್ಲುಗಳು ಮತ್ತು ನಾಲಿಗೆ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 55.051,
+      "duration": 55.051,
+      "script_words": 81
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 55.651,
+      "end": 76.422,
+      "duration": 20.771,
+      "script_words": 31
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಆಹಾರ ಸೇವನೆ (Ingestion)",
+      "type": "definition",
+      "start": 77.022,
+      "end": 121.473,
+      "duration": 44.451,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಆಹಾರ ಸೇವನೆ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "definition",
+      "start": 122.073,
+      "end": 167.004,
+      "duration": 44.931,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಹೋಲಿಕೆ: ಆಹಾರ ಸೇವನೆ vs. ಜೀರ್ಣಕ್ರಿಯೆ",
+      "type": "definition",
+      "start": 167.604,
+      "end": 216.375,
+      "duration": 48.771,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_006",
+      "chunk_file": "006_classification_0.json",
+      "wav_file": "006_classification_0.wav",
+      "slide_title": "ಹಲ್ಲುಗಳ ವಿಧಗಳು ಮತ್ತು ಕಾರ್ಯಗಳು - ಭಾಗ 1",
+      "type": "concept_explanation",
+      "start": 216.975,
+      "end": 272.666,
+      "duration": 55.691,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_007",
+      "chunk_file": "007_classification_cont_0_1.json",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "slide_title": "ಹಲ್ಲುಗಳ ವಿಧಗಳು ಮತ್ತು ಕಾರ್ಯಗಳು - ಭಾಗ 2",
+      "type": "concept_explanation",
+      "start": 273.266,
+      "end": 312.957,
+      "duration": 39.691,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_008",
+      "chunk_file": "008_classification_1.json",
+      "wav_file": "008_classification_1.wav",
+      "slide_title": "ಹಲ್ಲುಗಳ ಜೀವನಚಕ್ರ: ಹಾಲು ಹಲ್ಲುಗಳು",
+      "type": "concept_explanation",
+      "start": 313.557,
+      "end": 350.768,
+      "duration": 37.211,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_009",
+      "chunk_file": "009_classification_cont_1_1.json",
+      "wav_file": "009_classification_cont_1_1.wav",
+      "slide_title": "ಹಲ್ಲುಗಳ ಜೀವನಚಕ್ರ: ಶಾಶ್ವತ ಹಲ್ಲುಗಳು",
+      "type": "concept_explanation",
+      "start": 351.368,
+      "end": 390.179,
+      "duration": 38.811,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_010",
+      "chunk_file": "010_experiment_0.json",
+      "wav_file": "010_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ: ಪಿಷ್ಟದ ಮೇಲೆ ಲಾಲಾರಸದ ಪರಿಣಾಮ",
+      "type": "experiment_activity",
+      "start": 390.779,
+      "end": 426.87,
+      "duration": 36.091,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_011",
+      "chunk_file": "011_experiment_cont_0_1.json",
+      "wav_file": "011_experiment_cont_0_1.wav",
+      "slide_title": "ವಿಧಾನ: ಹಂತ 1 ರಿಂದ 3",
+      "type": "experiment_activity",
+      "start": 427.47,
+      "end": 463.881,
+      "duration": 36.411,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_012",
+      "chunk_file": "012_experiment_cont_0_2.json",
+      "wav_file": "012_experiment_cont_0_2.wav",
+      "slide_title": "ವಿಧಾನ: ಹಂತ 4 ಮತ್ತು 5",
+      "type": "experiment_activity",
+      "start": 464.481,
+      "end": 502.132,
+      "duration": 37.651,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_013",
+      "chunk_file": "013_experiment_cont_0_3.json",
+      "wav_file": "013_experiment_cont_0_3.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ: ಏನನ್ನು ಗಮನಿಸಿದೆವು?",
+      "type": "experiment_activity",
+      "start": 502.732,
+      "end": 538.103,
+      "duration": 35.371,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_014",
+      "chunk_file": "014_experiment_cont_0_4.json",
+      "wav_file": "014_experiment_cont_0_4.wav",
+      "slide_title": "ತೀರ್ಮಾನ: ಲಾಲಾರಸದ ಕಾರ್ಯ",
+      "type": "experiment_activity",
+      "start": 538.703,
+      "end": 593.074,
+      "duration": 54.371,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_4_chunk_015",
+      "chunk_file": "015_recap_0.json",
+      "wav_file": "015_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 593.674,
+      "end": 632.685,
+      "duration": 39.011,
+      "script_words": 52
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಹೊಸ ಕಾರ್ಟಿಸಿಯನ್ ಚಿಹ್ನೆಗಳ ಸಂಪ್ರದಾಯದ ಪ್ರಕಾರ ದತ್ತಾಂಶಗಳನ್ನು ಬರೆಯೋಣ. ವಸ್ತುವಿನ ಎತ್ತರ, h, ಧನಾತ್ಮಕವಾಗಿರುತ್ತದೆ, ಆದ್ದರಿಂದ h ಈಕ್ವಲ್ಸ್ ಪ್ಲಸ್ ನಾಲ್ಕು ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಸೆಂಟಿಮೀಟರ್. ವಸ್ತುವನ್ನು ಯಾವಾಗಲೂ ದರ್ಪಣದ ಎಡಭಾಗದಲ್ಲಿ ಇಡುವುದರಿಂದ, ವಸ್ತು ದೂರ u ಋಣಾತ್ಮಕವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ u ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ ಇಪ್ಪತ್ತೈದು ಸೆಂಟಿಮೀಟರ್. ಇದು ನಿಮ್ಮ ದರ್ಪಣವಾದ್ದರಿಂದ, ಅದರ ಸಂಗಮ ದೂರ f ಕೂಡ ಋಣಾತ್ಮಕವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ f ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ ಹದಿನೈದು ಸೆಂಟಿಮೀಟರ್.",
+  "script_display": "ಹಂತ 1: ದತ್ತಾಂಶಗಳನ್ನು ಚಿಹ್ನೆಗಳ ಸಂಪ್ರದಾಯದಂತೆ ಬರೆಯುವುದು.",
+  "display_bullets": [
+    "ವಸ್ತುವಿನ ಎತ್ತರ (h) = +4.0 cm (ವಸ್ತು ನೇರವಾಗಿರುವುದರಿಂದ ಧನಾತ್ಮಕ)",
+    "ವಸ್ತು ದೂರ (u) = -25.0 cm (ವಸ್ತು ದರ್ಪಣದ ಎಡಭಾಗದಲ್ಲಿರುವುದರಿಂದ ಋಣಾತ್ಮಕ)",
+    "ಸಂಗಮ ದೂರ (f) = -15.0 cm (ನಿಮ್ಮ ದರ್ಪಣವಾದ್ದರಿಂದ ಋಣಾತ್ಮಕ)"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "h = +4.0 \\text{ cm} \\\\ u = -25.0 \\text{ cm} \\\\ f = -15.0 \\text{ cm}",
+    "placeholder_note": "Display the given values with their signs."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_9_example_9.2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತಾಂಶಗಳನ್ನು ಚಿಹ್ನೆಗಳ ಸಂಪ್ರದಾಯದಂತೆ ಬರೆಯುವುದು.",
+      "justification": "ನಿಮ್ಮ ದರ್ಪಣಕ್ಕೆ f ಋಣಾತ್ಮಕ. ವಸ್ತು ನೇರವಾಗಿರುವುದರಿಂದ h ಧನಾತ್ಮಕ."
+    }
+  ],
+  "chunk_id": "std_10_chapter_9_concept_4_chunk_025"
+}

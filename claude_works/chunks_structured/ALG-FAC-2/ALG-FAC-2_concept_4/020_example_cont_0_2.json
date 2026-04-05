@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, x ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ಎಂಟು x ಪ್ಲಸ್ ಹದಿನಾರು ಇದರ ಅಪವರ್ತನ ರೂಪ x ಪ್ಲಸ್ ನಾಲ್ಕು ಹೋಲ್ ಸ್ಕ್ವೇರ್. ಇದನ್ನು ನಾವು x ಪ್ಲಸ್ ನಾಲ್ಕು ಗುಣಿಸು x ಪ್ಲಸ್ ನಾಲ್ಕು ಎಂದೂ ಬರೆಯಬಹುದು. ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ x ಪ್ಲಸ್ ನಾಲ್ಕು ಹೋಲ್ ಸ್ಕ್ವೇರ್. ಇಲ್ಲಿ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ಬೀಜೋಕ್ತಿಯು ನಿತ್ಯಸಮೀಕರಣ ಒಂದು, ಅಂದರೆ a ಪ್ಲಸ್ b ಹೋಲ್ ಸ್ಕ್ವೇರ್ ಸಮ a ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ಎರಡು ab ಪ್ಲಸ್ b ಸ್ಕ್ವೇರ್ ಮಾದರಿಯಲ್ಲಿದೆ ಎಂದು ಗುರುತಿಸುವುದು.",
+  "script_display": "ಹಾಗಾಗಿ, $x^2 + 8x + 16$ ಇದರ ಅಪವರ್ತನ ರೂಪ $(x+4)^2$. ಇದನ್ನು ನಾವು $(x+4)(x+4)$ ಎಂದೂ ಬರೆಯಬಹುದು.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $(x+4)^2$",
+    "ಪ್ರಮುಖ ಅಂಶ: ಬೀಜೋಕ್ತಿಯು ನಿತ್ಯಸಮೀಕರಣ I, $(a+b)^2 = a^2 + 2ab + b^2$ ಮಾದರಿಯಲ್ಲಿದೆ ಎಂದು ಗುರುತಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x^2 + 8x + 16 = (x+4)^2",
+    "placeholder_note": "Final answer highlighted"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "ALG-FAC-2_example_5",
+  "final_answer": "$(x+4)^2",
+  "final_answer_display": "$(x+4)^2$",
+  "chunk_id": "ALG-FAC-2_concept_4_chunk_020"
+}

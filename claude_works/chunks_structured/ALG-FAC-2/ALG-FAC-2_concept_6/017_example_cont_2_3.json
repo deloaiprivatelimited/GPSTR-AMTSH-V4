@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, z ಇಂಟು 5z ಸ್ಕ್ವೇರ್ ಮೈನಸ್ 80 ಅನ್ನು 5z ಇಂಟು z ಪ್ಲಸ್ 4 ರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಸಿಗುವ ಉತ್ತರ z ಮೈನಸ್ 4. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ನಾವು ಬಳಸಿದ ಪ್ರಮುಖ ತಂತ್ರವೆಂದರೆ, ಮೊದಲು ಭಾಜ್ಯವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಅಪವರ್ತಿಸಿ, ನಂತರ ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ರದ್ದುಗೊಳಿಸುವುದು. ಇದು ಬಹುಪದಗಳ ಭಾಗಾಕಾರದಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ವಿಧಾನವಾಗಿದೆ.",
+  "script_display": "ಹಾಗಾಗಿ, $z(5z^2 - 80)$ ಅನ್ನು $5z(z+4)$ ರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಸಿಗುವ ಉತ್ತರ $z-4$. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ನಾವು ಬಳಸಿದ ಪ್ರಮುಖ ತಂತ್ರವೆಂದರೆ, ಮೊದಲು ಭಾಜ್ಯವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಅಪವರ್ತಿಸಿ, ನಂತರ ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ರದ್ದುಗೊಳಿಸುವುದು. ಇದು ಬಹುಪದಗಳ ಭಾಗಾಕಾರದಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ವಿಧಾನವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "advanced",
+  "source_example_id": "ALG-FAC-2_example_16",
+  "final_answer": "z-4",
+  "final_answer_display": "$z-4$",
+  "chunk_id": "ALG-FAC-2_concept_6_chunk_017"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ (iv): $(x+2)^3=x^3-4$",
+  "script": "ಕೊನೆಯದಾಗಿ, ನಾಲ್ಕನೇ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. x plus two whole cubed equals x cubed minus four. ಮೊದಲ ನೋಟಕ್ಕೆ ಇದು ಘನ ಸಮೀಕರಣದಂತೆ ಕಾಣಬಹುದು, ಏಕೆಂದರೆ ಘಾತ ಮೂರು ಇದೆ. ಆದರೆ ನಾವು ಯಾವಾಗಲೂ ಮೊದಲು ಸರಳೀಕರಿಸಬೇಕು. a plus b whole cubed ಸೂತ್ರವನ್ನು ಬಳಸಿ ವಿಸ್ತರಿಸೋಣ. ಆಗ x cubed plus six x squared plus twelve x plus eight ಸಿಗುತ್ತದೆ. ಇದು x cubed minus four ಗೆ ಸಮ. ಈಗ ಗಮನಿಸಿ, ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳಲ್ಲಿ x cubed ಪದಗಳಿವೆ. ಇವು ರದ್ದಾಗುತ್ತವೆ. ಉಳಿದ ಪದಗಳನ್ನು ಒಂದು ಕಡೆಗೆ ತಂದರೆ, six x squared plus twelve x plus eight plus four equals zero ಆಗುತ್ತದೆ. ಅಂದರೆ, six x squared plus twelve x plus twelve equals zero. ಈ ಸಮೀಕರಣವನ್ನು ಆರರಿಂದ ಭಾಗಿಸಿದರೆ, x squared plus two x plus two equals zero ಸಿಗುತ್ತದೆ. ಇದು ವರ್ಗ ಸಮೀಕರಣದ ಆದರ್ಶ ರೂಪದಲ್ಲಿದೆ. ಆದ್ದರಿಂದ, ಇದು ಒಂದು ವರ್ಗ ಸಮೀಕರಣ.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ನಾಲ್ಕನೇ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. $(x+2)^3=x^3-4$. ಮೊದಲ ನೋಟಕ್ಕೆ ಇದು ಘನ ಸಮೀಕರಣದಂತೆ ಕಾಣಬಹುದು, ಏಕೆಂದರೆ ಘಾತ 3 ಇದೆ. ಆದರೆ ನಾವು ಯಾವಾಗಲೂ ಮೊದಲು ಸರಳೀಕರಿಸಬೇಕು. $(a+b)^3$ ಸೂತ್ರವನ್ನು ಬಳಸಿ ವಿಸ್ತರಿಸೋಣ. ಆಗ $x^3 + 6x^2 + 12x + 8$ ಸಿಗುತ್ತದೆ. ಇದು $x^3-4$ ಗೆ ಸಮ. ಈಗ ಗಮನಿಸಿ, ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳಲ್ಲಿ $x^3$ ಪದಗಳಿವೆ. ಇವು ರದ್ದಾಗುತ್ತವೆ. ಉಳಿದ ಪದಗಳನ್ನು ಒಂದು ಕಡೆಗೆ ತಂದರೆ, $6x^2 + 12x + 8 + 4 = 0$ ಆಗುತ್ತದೆ. ಅಂದರೆ, $6x^2 + 12x + 12 = 0$. ಈ ಸಮೀಕರಣವನ್ನು 6 ರಿಂದ ಭಾಗಿಸಿದರೆ, $x^2 + 2x + 2 = 0$ ಸಿಗುತ್ತದೆ. ಇದು ವರ್ಗ ಸಮೀಕರಣದ ಆದರ್ಶ ರೂಪದಲ್ಲಿದೆ. ಆದ್ದರಿಂದ, ಇದು ಒಂದು ವರ್ಗ ಸಮೀಕರಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-QUAD-4_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$(x+2)^3 = x^3-4$",
+      "justification": "ದತ್ತ ಸಮೀಕರಣ."
+    },
+    {
+      "step": 2,
+      "action_display": "$x^3 + 6x^2 + 12x + 8 = x^3 - 4$",
+      "justification": "$(a+b)^3$ ಸೂತ್ರ ಬಳಸಿ ವಿಸ್ತರಿಸುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "$6x^2 + 12x + 12 = 0$",
+      "justification": "$x^3$ ಪದಗಳು ರದ್ದಾಗುತ್ತವೆ ಮತ್ತು ಪದಗಳನ್ನು ಒಂದುಗೂಡಿಸುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "ಇದು $ax^2+bx+c=0$ ರೂಪದಲ್ಲಿದೆ. ಆದ್ದರಿಂದ, ಇದು ವರ್ಗ ಸಮೀಕರಣವಾಗಿದೆ.",
+      "justification": "ಅಂತಿಮ ತೀರ್ಮಾನ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-QUAD-4_concept_1_chunk_024"
+}

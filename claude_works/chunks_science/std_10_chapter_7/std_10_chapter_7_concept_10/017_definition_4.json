@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಗರ್ಭಧಾರಣೆಗೆ ಗರ್ಭಕೋಶದ ಸಿದ್ಧತೆ",
+  "script": "ಪ್ರತಿ ತಿಂಗಳು, ಹೆಣ್ಣಿನ ದೇಹವು ಸಂಭವನೀಯ ಗರ್ಭಧಾರಣೆಗೆ ಸಿದ್ಧವಾಗುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಗರ್ಭಕೋಶದ ಒಳಪದರವು ದಪ್ಪವಾಗುತ್ತದೆ ಮತ್ತು ರಕ್ತನಾಳಗಳಿಂದ ಸಮೃದ್ಧವಾಗುತ್ತದೆ. ಇದು ನಿಶೇಚನಗೊಂಡ ಅಂಡಾಣು, ಅಂದರೆ ಭ್ರೂಣವು ಬಂದು ನೆಲೆಸಲು ಮತ್ತು ಬೆಳೆಯಲು ಒಂದು ಮೆತ್ತನೆಯ, ಪೋಷಕಾಂಶಯುಕ್ತ ಹಾಸಿಗೆಯನ್ನು ಸಿದ್ಧಪಡಿಸಿದಂತೆ. ಈ ದಪ್ಪನೆಯ ಪದರವನ್ನು ಎಂಡೊಮೆಟ್ರಿಯಮ್ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದು ಭ್ರೂಣದ ಆರಂಭಿಕ ಬೆಳವಣಿಗೆಗೆ ಅತ್ಯಗತ್ಯವಾದ ವಾತಾವರಣವನ್ನು ಒದಗಿಸುತ್ತದೆ.",
+  "script_display": "ಪ್ರತಿ ತಿಂಗಳು, ಹೆಣ್ಣಿನ ದೇಹವು ಸಂಭವನೀಯ ಗರ್ಭಧಾರಣೆಗೆ ಸಿದ್ಧವಾಗುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಗರ್ಭಕೋಶದ ಒಳಪದರವು ದಪ್ಪವಾಗುತ್ತದೆ ಮತ್ತು ರಕ್ತನಾಳಗಳಿಂದ ಸಮೃದ್ಧವಾಗುತ್ತದೆ. ಇದು ನಿಶೇಚನಗೊಂಡ ಅಂಡಾಣು (ಭ್ರೂಣ) ಬಂದು ನೆಲೆಸಲು ಮತ್ತು ಬೆಳೆಯಲು ಒಂದು ಮೆತ್ತನೆಯ, ಪೋಷಕಾಂಶಯುಕ್ತ ಹಾಸಿಗೆಯನ್ನು ಸಿದ್ಧಪಡಿಸಿದಂತೆ. ಈ ದಪ್ಪನೆಯ ಪದರವನ್ನು ಎಂಡೊಮೆಟ್ರಿಯಮ್ (Endometrium) ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಪ್ರತಿ ತಿಂಗಳು ಗರ್ಭಕೋಶದ ಒಳಪದರ ದಪ್ಪವಾಗುತ್ತದೆ.",
+    "ರಕ್ತನಾಳಗಳಿಂದ ಸಮೃದ್ಧವಾಗಿ, ಪೋಷಕಾಂಶಯುಕ್ತವಾಗಿರುತ್ತದೆ.",
+    "ನಿಶೇಚನಗೊಂಡ ಅಂಡಾಣು (ಭ್ರೂಣ) ನೆಲೆಸಲು ಸಿದ್ಧತೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of the female reproductive system, highlighting the uterus. An inset shows a close-up of the uterine wall (endometrium) which is thick and rich with blood vessels.",
+    "labels": "ಗರ್ಭಕೋಶ (Uterus), ಅಂಡಾಶಯ (Ovary), ಅಂಡನಾಳ (Fallopian Tube), ದಪ್ಪನಾದ ಒಳಪದರ (Thickened Endometrium)",
+    "scientific_significance": "Illustrates the preparatory phase of the menstrual cycle where the uterus prepares for potential implantation of a fertilized egg.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_7_concept_10_chunk_017"
+}

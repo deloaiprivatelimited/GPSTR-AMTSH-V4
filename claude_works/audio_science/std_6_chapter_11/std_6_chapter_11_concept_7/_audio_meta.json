@@ -1,0 +1,125 @@
+{
+  "module_id": "std_6_chapter_11_concept_7",
+  "chapter_code": "std_6_chapter_11",
+  "voice": "Iapetus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:38:33",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "c089061c01a0ef8fbae1c112ae8ceadc",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 25.011,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 35,
+      "generated_at": "2026-04-02 12:36:56"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "3b72c5949e09afdf08193afd96aecc80",
+      "wav_file": "001_intro_0.wav",
+      "duration": 47.691,
+      "slide_title": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು",
+      "type": "intro",
+      "script_words": 71,
+      "generated_at": "2026-04-02 12:37:07"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "65a9537d757e3650c3dac54cd7f1da3b",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 55.691,
+      "slide_title": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು ಹೇಗೆ ಉಂಟಾಗುತ್ತವೆ?",
+      "type": "definition",
+      "script_words": 75,
+      "generated_at": "2026-04-02 12:37:13"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "1cf72c7c3c59cda368d4c66c1bf44b8a",
+      "wav_file": "003_definition_0.wav",
+      "duration": 46.331,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು",
+      "type": "definition",
+      "script_words": 67,
+      "generated_at": "2026-04-02 12:37:13"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "f339759576c4ea4d7764a13712ff65cb",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 57.331,
+      "slide_title": "ಉದಾಹರಣೆಗಳು: ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳ ವಿಧಗಳು",
+      "type": "definition",
+      "script_words": 78,
+      "generated_at": "2026-04-02 12:37:48"
+    },
+    "007_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "995d3a9b5f62c9be001ab9e89677aaa0",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "duration": 38.131,
+      "slide_title": "ಕಲ್ಲಿದ್ದಲು (Coal)",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 12:38:02"
+    },
+    "006_classification_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "57f22cd9d2020b8b446e305b18aabfac",
+      "wav_file": "006_classification_0.wav",
+      "duration": 34.811,
+      "slide_title": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "script_words": 44,
+      "generated_at": "2026-04-02 12:38:08"
+    },
+    "009_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "cb8a424ffb086e2712585654cc978f9e",
+      "wav_file": "009_classification_cont_0_3.wav",
+      "duration": 38.251,
+      "slide_title": "ನೈಸರ್ಗಿಕ ಅನಿಲ (Natural Gas)",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 12:38:13"
+    },
+    "008_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "072eb93e4a746335c86c14d111c76fa5",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "duration": 42.051,
+      "slide_title": "ಪೆಟ್ರೋಲಿಯಂ (Petroleum)",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 12:38:14"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "5be45bbad62119929fd27a1b954dcb7b",
+      "wav_file": "010_recap_0.wav",
+      "duration": 40.531,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 12:38:33"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ನಾವು ಮೊದಲು ಒಂದು ರಚನೆಯನ್ನು ಮಾಡಬೇಕಾಗಿದೆ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, M ಬಿಂದುವಿನ ಮೂಲಕ ಹಾದುಹೋಗುವಂತೆ ಮತ್ತು PQ ರೇಖೆಗೆ ಸಮಾಂತರವಾಗಿರುವಂತೆ AB ಎಂಬ ಒಂದು ರೇಖೆಯನ್ನು ಎಳೆಯೋಣ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಕೋನ XMB ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. AB ರೇಖೆಯು PQ ಗೆ ಸಮಾಂತರವಾಗಿರುವುದರಿಂದ, ಕೋನ QXM ಮತ್ತು ಕೋನ XMB ಗಳು ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದ ಅಂತರ್ ಕೋನಗಳಾಗುತ್ತವೆ. ಅವುಗಳ ಮೊತ್ತ 180 ಡಿಗ್ರಿ ಇರುತ್ತದೆ. ನಮಗೆ ಕೋನ QXM ನ ಅಳತೆ 135 ಡಿಗ್ರಿ ಎಂದು ತಿಳಿದಿದೆ. ಹಾಗಾಗಿ, 135 ಡಿಗ್ರಿ ಪ್ಲಸ್ ಕೋನ XMB ಸಮ 180 ಡಿಗ್ರಿ. ಇದರಿಂದ, ಕೋನ XMB ಯ ಅಳತೆಯು 180 ಮೈನಸ್ 135, ಅಂದರೆ 45 ಡಿಗ್ರಿ ಆಗುತ್ತದೆ.",
+  "script_display": "ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ನಾವು ಮೊದಲು ಒಂದು ರಚನೆಯನ್ನು ಮಾಡಬೇಕಾಗಿದೆ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, M ಬಿಂದುವಿನ ಮೂಲಕ ಹಾದುಹೋಗುವಂತೆ ಮತ್ತು $PQ$ ರೇಖೆಗೆ ಸಮಾಂತರವಾಗಿರುವಂತೆ $AB$ ಎಂಬ ಒಂದು ರೇಖೆಯನ್ನು ಎಳೆಯೋಣ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, $\\angle XMB$ ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. $AB$ ರೇಖೆಯು $PQ$ ಗೆ ಸಮಾಂತರವಾಗಿರುವುದರಿಂದ, $\\angle QXM$ ಮತ್ತು $\\angle XMB$ ಗಳು ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದ ಅಂತರ್ ಕೋನಗಳಾಗುತ್ತವೆ. ಅವುಗಳ ಮೊತ್ತ $180°$ ಇರುತ್ತದೆ. ನಮಗೆ $\\angle QXM$ ನ ಅಳತೆ $135°$ ಎಂದು ತಿಳಿದಿದೆ. ಹಾಗಾಗಿ, $135° + \\angle XMB = 180°$. ಇದರಿಂದ, $\\angle XMB$ ಯ ಅಳತೆಯು $180° - 135°$, ಅಂದರೆ $45°$ ಆಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಉದಾಹರಣೆ 4 ರ ರೇಖಾಚಿತ್ರ, M ಬಿಂದುವಿನ ಮೂಲಕ PQ ಮತ್ತು RS ಗೆ ಸಮಾಂತರವಾಗಿ AB ಎಂಬ ಸಹಾಯಕ ರೇಖೆಯನ್ನು ಎಳೆಯಲಾಗಿದೆ. ಕೋನ XMB ಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಹಂತವನ್ನು ಇದು ತೋರಿಸುತ್ತದೆ.",
+    "labels": "ಚಿತ್ರ 6.20",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯನ್ನು ಸಣ್ಣ ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸಲು ಸಹಾಯಕ ರೇಖೆಯ ಬಳಕೆಯನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-LA-2_example_4",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ರಚನೆ: M ಬಿಂದುವಿನ ಮೂಲಕ $PQ$ ಗೆ ಸಮಾಂತರವಾಗಿ $AB$ ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ.",
+      "justification": "ಸಹಾಯಕ ರೇಖೆ (Auxiliary line)"
+    },
+    {
+      "step": 2,
+      "action_display": "$AB \\parallel PQ$ ಆಗಿರುವುದರಿಂದ, $\\angle QXM + \\angle XMB = 180°$. <br> $135° + \\angle XMB = 180° \\implies \\angle XMB = 45°$.",
+      "justification": "ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದ ಅಂತರ್ ಕೋನಗಳು ಪೂರಕವಾಗಿವೆ."
+    }
+  ],
+  "chunk_id": "GEO-LA-2_concept_3_chunk_034"
+}

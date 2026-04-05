@@ -1,0 +1,92 @@
+{
+  "module_id": "std_9_chapter_7_concept_4",
+  "chapter_code": "std_9_chapter_7",
+  "voice": "Sadachbia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 17:05:55",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "2d925d5ce9fc4aff07d4c824f0dbff89",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 24.691,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 32,
+      "generated_at": "2026-04-02 17:04:40"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "29ab686dad4cc7e16bc92a718ed2bce9",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 50.931,
+      "slide_title": "ವೇಗ-ಕಾಲ ನಕ್ಷೆ (Velocity-Time Graph)",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 17:04:57"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "cbaf116093065573553c76eb6073ac3e",
+      "wav_file": "001_intro_0.wav",
+      "duration": 64.811,
+      "slide_title": "ಚಲನೆಯ ರೇಖಾನಕ್ಷಾ ನಿರೂಪಣೆ",
+      "type": "intro",
+      "script_words": 90,
+      "generated_at": "2026-04-02 17:05:06"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "72db6b40c50dd068533f96f0e82a10de",
+      "wav_file": "003_classification_0.wav",
+      "duration": 45.251,
+      "slide_title": "ದೂರ-ಕಾಲ ನಕ್ಷೆ (Distance-Time Graph)",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 17:05:13"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "141a8ce6548a18d47ac81f5e095e184c",
+      "wav_file": "007_recap_0.wav",
+      "duration": 37.531,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 17:05:46"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "3fe1075968bdcf7cb79d157cd5e15db5",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 48.931,
+      "slide_title": "ದೂರ-ಕಾಲ ನಕ್ಷೆಯ ವಿಶ್ಲೇಷಣೆ",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 17:05:47"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "cdbc58cf7b0c7768534cdad131f185e5",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 47.011,
+      "slide_title": "ವೇಗ-ಕಾಲ ನಕ್ಷೆಯ ವಿಶ್ಲೇಷಣೆ",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 17:05:55"
+    }
+  }
+}

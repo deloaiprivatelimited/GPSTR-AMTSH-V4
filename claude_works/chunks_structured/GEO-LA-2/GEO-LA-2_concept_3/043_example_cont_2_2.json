@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಈಗ ಕೊನೆಯ ಹಂತ, ಝೆಡ್ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ ಎಬಿ ಸಮಾಂತರ ಸಿಡಿ ಮತ್ತು ಸಿಡಿ ಸಮಾಂತರ ಇಎಫ್ ಎಂದು ತಿಳಿದಿದೆ. ಒಂದೇ ರೇಖೆಗೆ ಸಮಾಂತರವಾಗಿರುವ ರೇಖೆಗಳು ಪರಸ್ಪರ ಸಮಾಂತರವಾಗಿರುತ್ತವೆ. ಹಾಗಾಗಿ, ಎಬಿ ರೇಖೆಯು ಇಎಫ್ ರೇಖೆಗೆ ಸಮಾಂತರವಾಗಿದೆ. ಈಗ, ಇಎ ಯನ್ನು ಛೇದಕವಾಗಿ ಪರಿಗಣಿಸಿದರೆ, ಕೋನ ಇಎಬಿ ಮತ್ತು ಕೋನ ಎಫ್ಇಎ ಇವು ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದ ಅಂತರ್ ಕೋನಗಳಾಗಿವೆ. ಅವುಗಳ ಮೊತ್ತ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ. ದತ್ತಾಂಶದ ಪ್ರಕಾರ, ಇಎ ಲಂಬ ಎಬಿ, ಆದ್ದರಿಂದ ಕೋನ ಇಎಬಿ ತೊಂಬತ್ತು ಡಿಗ್ರಿ. ಕೋನ ಎಫ್ಇಎ ಎಂಬುದು ಝೆಡ್ ಪ್ಲಸ್ ಐವತ್ತೈದು ಡಿಗ್ರಿ. ಹಾಗಾಗಿ, ತೊಂಬತ್ತು ಪ್ಲಸ್ ಝೆಡ್ ಪ್ಲಸ್ ಐವತ್ತೈದು ಸಮ ನೂರಾ ಎಂಬತ್ತು. ಅಂದರೆ, ನೂರಾ ನಲವತ್ತೈದು ಪ್ಲಸ್ ಝೆಡ್ ಸಮ ನೂರಾ ಎಂಬತ್ತು. ಇದರಿಂದ ಝೆಡ್ ಸಮ ನೂರಾ ಎಂಬತ್ತು ಮೈನಸ್ ನೂರಾ ನಲವತ್ತೈದು, ಅಂದರೆ ಮೂವತ್ತೈದು ಡಿಗ್ರಿ.",
+  "script_display": "ಈಗ ಕೊನೆಯ ಹಂತ, z ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ $AB \\parallel CD$ ಮತ್ತು $CD \\parallel EF$ ಎಂದು ತಿಳಿದಿದೆ. ಒಂದೇ ರೇಖೆಗೆ ಸಮಾಂತರವಾಗಿರುವ ರೇಖೆಗಳು ಪರಸ್ಪರ ಸಮಾಂತರವಾಗಿರುತ್ತವೆ. ಹಾಗಾಗಿ, $AB \\parallel EF$. ಈಗ, EA ಯನ್ನು ಛೇದಕವಾಗಿ ಪರಿಗಣಿಸಿದರೆ, $\\angle EAB$ ಮತ್ತು $\\angle FEA$ ಇವು ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದ ಅಂತರ್ ಕೋನಗಳಾಗಿವೆ. ಅವುಗಳ ಮೊತ್ತ $180°$. ದತ್ತಾಂಶದ ಪ್ರಕಾರ, $EA \\perp AB$, ಆದ್ದರಿಂದ $\\angle EAB = 90°$. $\\angle FEA$ ಎಂಬುದು $z + 55°$. ಹಾಗಾಗಿ, $90° + (z + 55°) = 180°$. ಅಂದರೆ, $145° + z = 180°$. ಇದರಿಂದ $z = 180° - 145°$, ಅಂದರೆ $35°$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing three parallel lines AB, CD, and EF. A transversal line intersects them. Another line EA is perpendicular to AB. Angles x, y, z, and 55 degrees are marked. The value of z=35 can be highlighted.",
+    "labels": "ಚಿತ್ರ 6.22",
+    "mathematical_significance": "Illustrates the calculation of angle z using properties of parallel and perpendicular lines.",
+    "placeholder_note": "Image to be generated based on NCERT Class 9 Maths, Chapter 6, Example 6, Figure 6.22."
+  },
+  "source_example_id": "GEO-LA-2_example_6",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$AB \\parallel EF$ ಮತ್ತು EA ಛೇದಕವಾಗಿದೆ. \\\\ $\\angle EAB + \\angle FEA = 180°$ \\\\ $90° + (z + 55°) = 180°$ \\\\ $145° + z = 180° \\implies z = 35°$",
+      "justification": "ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದ ಅಂತರ್ ಕೋನಗಳು."
+    }
+  ],
+  "chunk_id": "GEO-LA-2_concept_3_chunk_043"
+}

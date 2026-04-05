@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ: ಸೂತ್ರ",
+  "script": "ಈಗ ನಾವು ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಇದು ಮೆನ್ಸುರೇಷನ್ ಅಥವಾ ಕ್ಷೇತ್ರಗಣಿತದಲ್ಲಿ ಬಹಳ ಮುಖ್ಯವಾದ ಸೂತ್ರವಾಗಿದೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: ಎ ಈಕ್ವಲ್ಸ್ ಒಂದು ಬೈ ಎರಡು, ಗುಣಿಸು ಬಿ, ಗುಣಿಸು ಎಚ್. ಇಲ್ಲಿ, ಎ ಎಂದರೆ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ ಅಥವಾ ಏರಿಯಾ. ಬಿ ಎಂದರೆ ತ್ರಿಭುಜದ ಪಾದ ಅಥವಾ ಬೇಸ್. ಮತ್ತು ಎಚ್ ಎಂದರೆ ಪಾದಕ್ಕೆ ಎಳೆದ ಅನುರೂಪ ಎತ್ತರ ಅಥವಾ ಕರೆಸ್ಪಾಂಡಿಂಗ್ ಹೈಟ್. ಈ ಸೂತ್ರವನ್ನು ಯಾವುದೇ ರೀತಿಯ ತ್ರಿಭುಜಕ್ಕೆ, ಅದು ಲಘುಕೋನ, ಲಂಬಕೋನ ಅಥವಾ ವಿಶಾಲಕೋನ ತ್ರಿಭುಜವೇ ಆಗಿರಲಿ, ಬಳಸಬಹುದು.",
+  "script_display": "ಈಗ ನಾವು ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಇದು ಮೆನ್ಸುರೇಷನ್ ಅಥವಾ ಕ್ಷೇತ್ರಗಣಿತದಲ್ಲಿ ಬಹಳ ಮುಖ್ಯವಾದ ಸೂತ್ರವಾಗಿದೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: $A = \\frac{1}{2} \\times b \\times h$. ಇಲ್ಲಿ, $A$ ಎಂದರೆ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ (Area). $b$ ಎಂದರೆ ತ್ರಿಭುಜದ ಪಾದ (Base). ಮತ್ತು $h$ ಎಂದರೆ ಪಾದಕ್ಕೆ ಎಳೆದ ಅನುರೂಪ ಎತ್ತರ (Corresponding Height). ಈ ಸೂತ್ರವನ್ನು ಯಾವುದೇ ರೀತಿಯ ತ್ರಿಭುಜಕ್ಕೆ, ಅದು ಲಘುಕೋನ, ಲಂಬಕೋನ ಅಥವಾ ವಿಶಾಲಕೋನ ತ್ರಿಭುಜವೇ ಆಗಿರಲಿ, ಬಳಸಬಹುದು.",
+  "display_bullets": [
+    "ಸೂತ್ರ: $A = \\frac{1}{2} \\times b \\times h$",
+    "$A$ = ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ (Area)",
+    "$b$ = ತ್ರಿಭುಜದ ಪಾದ (Base)",
+    "$h$ = ಪಾದಕ್ಕೆ ಎಳೆದ ಅನುರೂಪ ಎತ್ತರ (Corresponding Height)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "A = \\frac{1}{2} \\times b \\times h",
+    "placeholder_note": "Formula for the area of a triangle."
+  },
+  "chunk_id": "MEN-AREA-1_concept_4_chunk_005"
+}

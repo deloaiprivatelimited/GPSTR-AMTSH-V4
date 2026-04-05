@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಬಹುಪದೋಕ್ತಿಯ ಬೆಲೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚರಾಕ್ಷರಗಳಿಗೆ ಸೂಚಿಸಿದ ಬೆಲೆಗಳಿಗೆ ಅನುಸಾರವಾಗಿ ಕೆಳಗಿನ ಬಹುಪದೋಕ್ತಿಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ನಮಗೆ ಕೊಟ್ಟಿರುವ ಬಹುಪದೋಕ್ತಿ ಪಿ ಆಫ್ ಎಕ್ಸ್ ಈಕ್ವಲ್ಸ್ ಐದು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಮೂರು ಎಕ್ಸ್ ಪ್ಲಸ್ ಏಳು. ನಾವು ಎಕ್ಸ್ ಈಕ್ವಲ್ಸ್ ಒಂದು ಆದಾಗ ಈ ಬಹುಪದೋಕ್ತಿಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚರಾಕ್ಷರಗಳಿಗೆ ಸೂಚಿಸಿದ ಬೆಲೆಗಳಿಗೆ ಅನುಸಾರವಾಗಿ ಕೆಳಗಿನ ಬಹುಪದೋಕ್ತಿಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ನಮಗೆ ಕೊಟ್ಟಿರುವ ಬಹುಪದೋಕ್ತಿ $p(x) = 5x^2 – 3x + 7$. ನಾವು $x = 1$ ಆದಾಗ ಈ ಬಹುಪದೋಕ್ತಿಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತ ಬಹುಪದೋಕ್ತಿ: $p(x) = 5x^2 – 3x + 7$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $x = 1$ ಆದಾಗ $p(x)$ ನ ಬೆಲೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "p(x) = 5x^2 – 3x + 7",
+    "placeholder_note": "Display the polynomial given in the problem."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "ALG-POL-3_example_12",
+  "chunk_id": "ALG-POL-3_concept_2_chunk_020"
+}

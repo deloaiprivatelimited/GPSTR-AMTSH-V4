@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಪೊಟ್ಯಾಸಿಯಂ ಮತ್ತು ನೀರಿನ ನಡುವಿನ ವರ್ತನೆಯನ್ನು ಈ ರಾಸಾಯನಿಕ ಸಮೀಕರಣದಿಂದ ಪ್ರತಿನಿಧಿಸಬಹುದು. ಎರಡು ಪೊಟ್ಯಾಸಿಯಂ ಅಣುಗಳು, ಘನ ಸ್ಥಿತಿಯಲ್ಲಿ, ಎರಡು ನೀರಿನ ಅಣುಗಳೊಂದಿಗೆ, ದ್ರವ ಸ್ಥಿತಿಯಲ್ಲಿ, ವರ್ತಿಸಿ ಎರಡು ಪೊಟ್ಯಾಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಣುಗಳನ್ನು, ಜಲೀಯ ದ್ರಾವಣದಲ್ಲಿ, ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಅನಿಲವನ್ನು, ಅನಿಲ ಸ್ಥಿತಿಯಲ್ಲಿ, ಜೊತೆಗೆ ಉಷ್ಣ ಶಕ್ತಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ.",
+  "script_display": "ಪೊಟ್ಯಾಸಿಯಂ ಮತ್ತು ನೀರಿನ ನಡುವಿನ ವರ್ತನೆಯನ್ನು ಈ ರಾಸಾಯನಿಕ ಸಮೀಕರಣದಿಂದ ಪ್ರತಿನಿಧಿಸಬಹುದು. 2K(s) + 2H₂O(l) → 2KOH(aq) + H₂(g) + ಉಷ್ಣ ಶಕ್ತಿ",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "style_a",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2K(s) + 2H₂O(l) \\rightarrow 2KOH(aq) + H₂(g) + \\text{ಉಷ್ಣ ಶಕ್ತಿ}",
+    "placeholder_note": ""
+  },
+  "chunk_id": "std_10_chapter_3_concept_5_chunk_004"
+}

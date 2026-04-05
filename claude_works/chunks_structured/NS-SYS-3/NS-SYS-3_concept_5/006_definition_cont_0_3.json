@@ -1,0 +1,34 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಕರಣೀಕಾರಕ ಅಂಶ (Rationalizing Factor)",
+  "script": "ಹಿಂದಿನ ಉದಾಹರಣೆಯಲ್ಲಿ ನಾವು ರೂಟ್ ಎರಡರಿಂದ ಏಕೆ ಗುಣಿಸಿದೆವು? ಏಕೆಂದರೆ, ಛೇದದಲ್ಲಿರುವ ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯನ್ನು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿ ಪರಿವರ್ತಿಸಲು ನಾವು ಯಾವ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸುತ್ತೇವೆಯೋ, ಅದನ್ನೇ 'ಅಕರಣೀಕಾರಕ ಅಂಶ' ಅಥವಾ 'Rationalizing Factor' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಒಂದು ವೇಳೆ ಛೇದವು ರೂಟ್ a ರೂಪದಲ್ಲಿದ್ದರೆ, ಅದರ ಅಕರಣೀಕಾರಕ ಅಂಶವು ರೂಟ್ a ಆಗಿರುತ್ತದೆ. ಏಕೆಂದರೆ ರೂಟ್ a ಗುಣಿಸು ರೂಟ್ a ಸಮ a, ಇದು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ಉದಾಹರಣೆಗೆ, ರೂಟ್ ಏಳರ ಅಕರಣೀಕಾರಕ ಅಂಶ ರೂಟ್ ಏಳು.",
+  "script_display": "ಹಿಂದಿನ ಉದಾಹರಣೆಯಲ್ಲಿ ನಾವು $\\sqrt{2}$ ರಿಂದ ಏಕೆ ಗುಣಿಸಿದೆವು? ಏಕೆಂದರೆ, ಛೇದದಲ್ಲಿರುವ ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯನ್ನು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿ ಪರಿವರ್ತಿಸಲು ನಾವು ಯಾವ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸುತ್ತೇವೆಯೋ, ಅದನ್ನೇ 'ಅಕರಣೀಕಾರಕ ಅಂಶ' (Rationalizing Factor) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಒಂದು ವೇಳೆ ಛೇದವು $\\sqrt{a}$ ರೂಪದಲ್ಲಿದ್ದರೆ, ಅದರ ಅಕರಣೀಕಾರಕ ಅಂಶವು $\\sqrt{a}$ ಆಗಿರುತ್ತದೆ. ಏಕೆಂದರೆ $\\sqrt{a} \\times \\sqrt{a} = a$, ಇದು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ಉದಾಹರಣೆಗೆ, $\\sqrt{7}$ ರ ಅಕರಣೀಕಾರಕ ಅಂಶ $\\sqrt{7}$ ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಛೇದವನ್ನು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿ ಪರಿವರ್ತಿಸಲು ಬಳಸುವ ಸಂಖ್ಯೆಯೇ 'ಅಕರಣೀಕಾರಕ ಅಂಶ'.",
+    "$\\sqrt{a}$ ರೂಪದ ಕರಣಿಗೆ, ಅಕರಣೀಕಾರಕ ಅಂಶವು $\\sqrt{a}$ ಆಗಿರುತ್ತದೆ.",
+    "ಏಕೆಂದರೆ: $\\sqrt{a} \\times \\sqrt{a} = a$ (ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A table showing simple surds and their rationalizing factors and the resulting rational product. Headers: ಕರಣಿ (Surd), ಅಕರಣೀಕಾರಕ ಅಂಶ (Rationalizing Factor), ಗುಣಲಬ್ಧ (Product). Rows: (sqrt(2), sqrt(2), 2), (sqrt(3), sqrt(3), 3), (sqrt(7), sqrt(7), 7). Caption: ಕೆಲವು ಸರಳ ಅಕರಣೀಕಾರಕ ಅಂಶಗಳು (Some simple rationalizing factors). "
+  },
+  "chunk_id": "NS-SYS-3_concept_5_chunk_006"
+}

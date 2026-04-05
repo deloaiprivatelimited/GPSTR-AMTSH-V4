@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ಲಾಸ್ಟರ್ ಆಫ್ ಪ್ಯಾರಿಸ್ ತಯಾರಿಕೆ",
+  "script": "ಈಗ ನಾವು ಪ್ಲಾಸ್ಟರ್ ಆಫ್ ಪ್ಯಾರಿಸ್ ಹೇಗೆ ತಯಾರಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡೋಣ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಜಿಪ್ಸಂ ಅನ್ನು ಕಾಸುವುದನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ರಾಸಾಯನಿಕ ಸಮೀಕರಣವು ಹೀಗಿದೆ: ಕ್ಯಾಲ್ಸಿಯಂ ಸಲ್ಫೇಟ್ ಡೈಹೈಡ್ರೇಟ್, ಅಂದರೆ ಜಿಪ್ಸಂ, ಇದನ್ನು 373 ಕೆಲ್ವಿನ್ ತಾಪಮಾನದಲ್ಲಿ ಕಾಸಿದಾಗ, ಅದು ಕ್ಯಾಲ್ಸಿಯಂ ಸಲ್ಫೇಟ್ ಹೆಮಿಹೈಡ್ರೇಟ್, ಅಂದರೆ ಪ್ಲಾಸ್ಟರ್ ಆಫ್ ಪ್ಯಾರಿಸ್, ಮತ್ತು ಒಂದೂವರೆ ನೀರಿನ ಅಣುಗಳನ್ನು ನೀಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಪ್ಲಾಸ್ಟರ್ ಆಫ್ ಪ್ಯಾರಿಸ್ (Plaster of Paris) ಹೇಗೆ ತಯಾರಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡೋಣ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಜಿಪ್ಸಂ ಅನ್ನು ಕಾಸುವುದನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ರಾಸಾಯನಿಕ ಸಮೀಕರಣವು ಹೀಗಿದೆ:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CaSO_4 \\cdot 2H_2O(s) \\xrightarrow{373 K} CaSO_4 \\cdot \\frac{1}{2}H_2O(s) + 1\\frac{1}{2}H_2O(g)",
+    "placeholder_note": "Equation showing the heating of Gypsum to form Plaster of Paris."
+  },
+  "chunk_id": "std_10_chapter_2_concept_10_chunk_013"
+}

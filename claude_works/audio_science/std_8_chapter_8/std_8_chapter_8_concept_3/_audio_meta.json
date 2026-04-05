@@ -1,0 +1,191 @@
+{
+  "module_id": "std_8_chapter_8_concept_3",
+  "chapter_code": "std_8_chapter_8",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 16,
+  "ok_count": 16,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:57:26",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "468786ca8697b759da8e477dec1c4461",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.211,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "script_words": 42,
+      "generated_at": "2026-04-02 16:54:12"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "86aac6dccefd559ac3c8f109f805d527",
+      "wav_file": "001_intro_0.wav",
+      "duration": 45.811,
+      "slide_title": "ಬಲದ ಪರಿಣಾಮಗಳು",
+      "type": "intro",
+      "script_words": 70,
+      "generated_at": "2026-04-02 16:54:23"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "a1769cc325decdd0c7bd515cbabf8650",
+      "wav_file": "003_definition_0.wav",
+      "duration": 42.131,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಚಲನೆಯ ಸ್ಥಿತಿ",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 16:54:38"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "22afc786264e3e00a2042913c2229401",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 47.211,
+      "slide_title": "ಉದಾಹರಣೆಯೊಂದಿಗೆ ವಿವರಣೆ",
+      "type": "definition",
+      "script_words": 70,
+      "generated_at": "2026-04-02 16:54:43"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "d0bc364b7e37b5b9d4b6ca24463774ca",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 53.731,
+      "slide_title": "ಹೋಲಿಕೆ: ಜವ vs ದಿಕ್ಕಿನ ಬದಲಾವಣೆ",
+      "type": "definition",
+      "script_words": 71,
+      "generated_at": "2026-04-02 16:54:47"
+    },
+    "008_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "569ca6b96b0f92c3290cfbdf9cac151f",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "duration": 45.731,
+      "slide_title": "ಉದಾಹರಣೆ: ಚಲನೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವುದು ಮತ್ತು ನಿಲ್ಲಿಸುವುದು",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 16:55:23"
+    },
+    "007_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "0ce1f78c5617725eb89a9a3657a64950",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "duration": 43.051,
+      "slide_title": "ಪರಿಣಾಮ 1: ಚಲನೆಯ ಸ್ಥಿತಿಯಲ್ಲಿ ಬದಲಾವಣೆ",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 16:55:27"
+    },
+    "009_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "87683ceeefa8a844225ec0928e5c3f2f",
+      "wav_file": "009_classification_cont_0_3.wav",
+      "duration": 39.971,
+      "slide_title": "ಉದಾಹರಣೆ: ಜವ ಮತ್ತು ದಿಕ್ಕಿನ ಬದಲಾವಣೆ",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 16:55:33"
+    },
+    "010_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "d2b7479538673ac9e20e969d59eb69fb",
+      "wav_file": "010_classification_cont_0_4.wav",
+      "duration": 46.771,
+      "slide_title": "ಪರಿಣಾಮ 2: ಆಕಾರದಲ್ಲಿ ಬದಲಾವಣೆ",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 16:55:37"
+    },
+    "006_classification_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "0c001df82ddadd1dee188d0348f45d66",
+      "wav_file": "006_classification_0.wav",
+      "duration": 41.291,
+      "slide_title": "ಬಲದ ಪರಿಣಾಮಗಳು",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 16:55:40"
+    },
+    "015_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "e26cafc2c445be5c13e140e2e4e627bc",
+      "wav_file": "015_experiment_cont_0_3.wav",
+      "duration": 46.891,
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "key_takeaway",
+      "script_words": 58,
+      "generated_at": "2026-04-02 16:56:27"
+    },
+    "013_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "a041b70b09aeb1adafcb919419ed5202",
+      "wav_file": "013_experiment_cont_0_1.wav",
+      "duration": 50.011,
+      "slide_title": "ವಿಧಾನ: ನಿಶ್ಚಲ ಮತ್ತು ಚಲಿಸುವ ಚೆಂಡಿನ ಮೇಲೆ ಬಲ",
+      "type": "step_walkthrough",
+      "script_words": 52,
+      "generated_at": "2026-04-02 16:56:30"
+    },
+    "012_experiment_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "a04fcec9bd3427bb7254f129e81f1c61",
+      "wav_file": "012_experiment_0.wav",
+      "duration": 36.571,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಬಲದ ಪರಿಣಾಮವನ್ನು ಅರಿಯುವುದು",
+      "type": "visual_explain",
+      "script_words": 60,
+      "generated_at": "2026-04-02 16:56:35"
+    },
+    "014_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "5395dda55b0ea5c26307335e3daa819e",
+      "wav_file": "014_experiment_cont_0_2.wav",
+      "duration": 41.491,
+      "slide_title": "ವಿಧಾನ: ಚಲನೆಯನ್ನು ತಡೆಯುವುದು ಮತ್ತು ದಿಕ್ಕನ್ನು ಬದಲಿಸುವುದು",
+      "type": "step_walkthrough",
+      "script_words": 57,
+      "generated_at": "2026-04-02 16:56:39"
+    },
+    "011_classification_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "a869cd4b8b29d010bfe7c24619036af7",
+      "wav_file": "011_classification_cont_0_5.wav",
+      "duration": 51.891,
+      "slide_title": "ಸಾರಾಂಶ: ಬಲದ ಪ್ರಮುಖ ಪರಿಣಾಮಗಳು",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 16:56:43"
+    },
+    "016_recap_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "991c537c5e4bd3044395f0251a73b342",
+      "wav_file": "016_recap_0.wav",
+      "duration": 41.691,
+      "slide_title": "ಸಾರಾಂಶ: ಬಲದ ಪರಿಣಾಮಗಳು",
+      "type": "recap",
+      "script_words": 57,
+      "generated_at": "2026-04-02 16:57:26"
+    }
+  }
+}

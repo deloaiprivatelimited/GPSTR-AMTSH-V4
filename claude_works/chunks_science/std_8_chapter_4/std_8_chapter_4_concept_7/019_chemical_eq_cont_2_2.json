@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಮ್ಲ ಮಳೆ ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ?",
+  "script": "ಈ ಪ್ರಕ್ರಿಯೆ ಪರಿಸರದಲ್ಲಿ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ಕಾರ್ಖಾನೆಗಳು ಮತ್ತು ವಾಹನಗಳಿಂದ ನೈಟ್ರೋಜನ್ ಡೈಆಕ್ಸೆಡ್ ಅನಿಲ ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ನಂತರ, ಈ ಅನಿಲವು ಮೋಡಗಳಲ್ಲಿರುವ ನೀರಿನ ಹನಿಗಳೊಂದಿಗೆ ಸೇರಿಕೊಳ್ಳುತ್ತದೆ. ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಿಂದಾಗಿ ನೈಟ್ರಿಕ್ ಆಮ್ಲ ಮತ್ತು ನೈಟ್ರಸ್ ಆಮ್ಲಗಳು ಉಂಟಾಗುತ್ತವೆ. ಅಂತಿಮವಾಗಿ, ಈ ಆಮ್ಲಗಳು ಮಳೆಯೊಂದಿಗೆ ಭೂಮಿಗೆ ಬಿದ್ದು, ಆಮ್ಲ ಮಳೆಗೆ ಕಾರಣವಾಗುತ್ತವೆ.",
+  "script_display": "ಈ ಪ್ರಕ್ರಿಯೆ ಪರಿಸರದಲ್ಲಿ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ಕಾರ್ಖಾನೆಗಳು ಮತ್ತು ವಾಹನಗಳಿಂದ ನೈಟ್ರೋಜನ್ ಡೈಆಕ್ಸೆಡ್ (NO₂) ಅನಿಲ ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ನಂತರ, ಈ ಅನಿಲವು ಮೋಡಗಳಲ್ಲಿರುವ ನೀರಿನ ಹನಿಗಳೊಂದಿಗೆ (H₂O) ಸೇರಿಕೊಳ್ಳುತ್ತದೆ. ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಿಂದಾಗಿ ನೈಟ್ರಿಕ್ ಆಮ್ಲ (HNO₃) ಮತ್ತು ನೈಟ್ರಸ್ ಆಮ್ಲ (HNO₂) ಉಂಟಾಗುತ್ತವೆ. ಅಂತಿಮವಾಗಿ, ಈ ಆಮ್ಲಗಳು ಮಳೆಯೊಂದಿಗೆ ಭೂಮಿಗೆ ಬಿದ್ದು, ಆಮ್ಲ ಮಳೆಗೆ ಕಾರಣವಾಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ಕಾರ್ಖಾನೆ ಮತ್ತು ವಾಹನಗಳಿಂದ NO₂ ಬಿಡುಗಡೆ.",
+    "ವಾತಾವರಣದಲ್ಲಿ ನೀರಿನೊಂದಿಗೆ (H₂O) ಮಿಶ್ರಣ.",
+    "ನೈಟ್ರಿಕ್ ಆಮ್ಲ (HNO₃) ಮತ್ತು ನೈಟ್ರಸ್ ಆಮ್ಲ (HNO₂) ರಚನೆ.",
+    "ಆಮ್ಲ ಮಳೆಯಾಗಿ ಭೂಮಿಗೆ ಬೀಳುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_c",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing factory and car exhaust releasing NO₂ gas into the air. The NO₂ gas rises and mixes with water droplets (H₂O) in the clouds. Rain falling from the clouds is labeled 'Acid Rain (HNO₃ + HNO₂)' and is shown affecting trees and buildings.",
+    "labels": "ಕಾರ್ಖಾನೆ, ವಾಹನಗಳು, NO₂, H₂O (ನೀರು), ಆಮ್ಲ ಮಳೆ (HNO₃ + HNO₂)",
+    "scientific_significance": "Illustrates the environmental process where pollutants from human activity are converted into acid rain, which has detrimental effects on the environment.",
+    "placeholder_note": "Image to be generated showing the formation of acid rain from nitrogen oxides."
+  },
+  "chunk_id": "std_8_chapter_4_concept_7_chunk_019"
+}

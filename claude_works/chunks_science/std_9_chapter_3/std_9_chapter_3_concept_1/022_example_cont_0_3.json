@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ರಾಶಿಗಳನ್ನು ಹೋಲಿಸಿ ಮತ್ತು ತೀರ್ಮಾನ",
+  "script": "ಮೂರನೇ ಮತ್ತು ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು ಪ್ರತಿವರ್ತಕಗಳ ಮತ್ತು ಉತ್ಪನ್ನಗಳ ಒಟ್ಟು ರಾಶಿಗಳನ್ನು ಹೋಲಿಸೋಣ. ನಾವು ಲೆಕ್ಕ ಮಾಡಿದಂತೆ, ಪ್ರತಿವರ್ತಕಗಳ ಒಟ್ಟು ರಾಶಿ ಹನ್ನೊಂದು ಪಾಯಿಂಟ್ ಮೂರು ಗ್ರಾಂ. ಹಾಗೆಯೇ, ಉತ್ಪನ್ನಗಳ ಒಟ್ಟು ರಾಶಿಯೂ ಹನ್ನೊಂದು ಪಾಯಿಂಟ್ ಮೂರು ಗ್ರಾಂ. ಇಲ್ಲಿ, ಪ್ರತಿವರ್ತಕಗಳ ಒಟ್ಟು ರಾಶಿಯು ಉತ್ಪನ್ನಗಳ ಒಟ್ಟು ರಾಶಿಗೆ ಸಮನಾಗಿದೆ.",
+  "script_display": "ಮೂರನೇ ಮತ್ತು ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು ಪ್ರತಿವರ್ತಕಗಳ ಮತ್ತು ಉತ್ಪನ್ನಗಳ ಒಟ್ಟು ರಾಶಿಗಳನ್ನು ಹೋಲಿಸೋಣ. ನಾವು ಲೆಕ್ಕ ಮಾಡಿದಂತೆ, ಪ್ರತಿವರ್ತಕಗಳ ಒಟ್ಟು ರಾಶಿ 11.3 g. ಹಾಗೆಯೇ, ಉತ್ಪನ್ನಗಳ ಒಟ್ಟು ರಾಶಿಯೂ 11.3 g. ಇಲ್ಲಿ, ಪ್ರತಿವರ್ತಕಗಳ ಒಟ್ಟು ರಾಶಿಯು ಉತ್ಪನ್ನಗಳ ಒಟ್ಟು ರಾಶಿಗೆ ಸಮನಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳ ಒಟ್ಟು ರಾಶಿ = 11.3 g",
+    "ಉತ್ಪನ್ನಗಳ ಒಟ್ಟು ರಾಶಿ = 11.3 g",
+    "ಆದ್ದರಿಂದ, ಪ್ರತಿವರ್ತಕಗಳ ಒಟ್ಟು ರಾಶಿ = ಉತ್ಪನ್ನಗಳ ಒಟ್ಟು ರಾಶಿ"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "chemistry_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "11.3 \\text{ g} = 11.3 \\text{ g}",
+    "placeholder_note": "Visual confirmation of mass equality"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_3_example_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಪ್ರತಿವರ್ತಕಗಳ ಮತ್ತು ಉತ್ಪನ್ನಗಳ ಒಟ್ಟು ರಾಶಿಯನ್ನು ಹೋಲಿಸುವುದು.",
+      "justification": "ರಾಶಿ ಸಂರಕ್ಷಣಾ ನಿಯಮದ ಪ್ರಕಾರ, ಇವೆರಡೂ ಸಮನಾಗಿರಬೇಕು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_3_concept_1_chunk_022"
+}

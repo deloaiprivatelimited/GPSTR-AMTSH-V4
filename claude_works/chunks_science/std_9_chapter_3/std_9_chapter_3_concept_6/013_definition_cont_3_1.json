@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಲ್ಫೇಟ್ ಅಯಾನು (SO₄²⁻)",
+  "script": "ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ: ಸಲ್ಫೇಟ್ ಅಯಾನು, ಅಂದರೆ ಎಸ್ ಓ ಫೋರ್ ಟೂ ಮೈನಸ್. ಇಲ್ಲಿ ಒಂದು ಗಂಧಕದ ಪರಮಾಣು ಮತ್ತು ನಾಲ್ಕು ಆಮ್ಲಜನಕದ ಪರಮಾಣುಗಳು ಒಟ್ಟಿಗೆ ಬಂಧಿಸಲ್ಪಟ್ಟಿವೆ. ಈ ಐದು ಪರಮಾಣುಗಳ ಗುಂಪು ಒಂದೇ ಘಟಕವಾಗಿ ವರ್ತಿಸುತ್ತದೆ. ಅತ್ಯಂತ ಮುಖ್ಯವಾದ ವಿಷಯವೆಂದರೆ, ಇದರ ಮೇಲಿರುವ ಟೂ ಮೈನಸ್ ಆವೇಶವು ಇಡೀ ಗುಂಪಿಗೆ ಸೇರಿದ್ದು, ಕೇವಲ ಒಂದು ಪರಮಾಣುವಿಗಲ್ಲ. ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಗಳಲ್ಲಿ, ಈ ಎಸ್ ಓ ಫೋರ್ ಗುಂಪು ಒಟ್ಟಾಗಿಯೇ ಚಲಿಸುತ್ತದೆ ಮತ್ತು ಭಾಗವಹಿಸುತ್ತದೆ, ಅದು ವಿಭಜನೆಯಾಗುವುದಿಲ್ಲ.",
+  "script_display": "ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ: ಸಲ್ಫೇಟ್ ಅಯಾನು (SO₄²⁻).",
+  "display_bullets": [
+    "ಒಂದು ಗಂಧಕ (S) ಮತ್ತು ನಾಲ್ಕು ಆಮ್ಲಜನಕ (O) ಪರಮಾಣುಗಳ ಗುಂಪು.",
+    "ಈ ಸಂಪೂರ್ಣ ಗುಂಪು (SO₄) ಒಂದೇ ಘಟಕವಾಗಿ ವರ್ತಿಸುತ್ತದೆ.",
+    "ಇಡೀ ಗುಂಪಿನ ನಿವ್ವಳ ಆವೇಶ 2- ಆಗಿದೆ. ಈ ಆವೇಶವು ಯಾವುದೇ ಒಂದು ಪರಮಾಣುವಿಗೆ ಸೀಮಿತವಾಗಿಲ್ಲ, ಬದಲಾಗಿ ಇಡೀ ಗುಂಪಿಗೆ ಸೇರಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_modern",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple ball-and-stick model of the sulfate ion (SO₄²⁻). A central yellow sphere representing Sulfur (S) is bonded to four red spheres representing Oxygen (O). The entire structure is enclosed in brackets with a '2-' charge shown on the top right. This visually emphasizes that the charge belongs to the whole group.",
+    "labels": "Sulfur atom, Oxygen atom, Covalent bonds, Net charge 2-",
+    "scientific_significance": "Illustrates the concept of a polyatomic ion where multiple atoms are covalently bonded and share a net ionic charge, acting as a single chemical unit.",
+    "placeholder_note": "Image to be generated showing the 3D structure of a sulfate ion."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_3_concept_6_chunk_013"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಈಗ, ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಸರಾಸರಿ ಜವವನ್ನು ಕಿಲೋಮೀಟರ್ ಪರ್ ಹವರ್ ನಲ್ಲಿ ಲೆಕ್ಕ ಹಾಕೋಣ. ಸರಾಸರಿ ಜವದ ಸೂತ್ರವು, ಚಲಿಸಿದ ಒಟ್ಟು ದೂರವನ್ನು ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಕಾಲದಿಂದ ಭಾಗಿಸುವುದು. ಇಲ್ಲಿ, ದೂರ 400 ಕಿಲೋಮೀಟರ್ ಮತ್ತು ಕಾಲ 8 ಗಂಟೆಗಳು. ಆದ್ದರಿಂದ, ಸರಾಸರಿ ಜವ ಈಕ್ವಲ್ಸ್ 400 ಭಾಗಿಸು 8, ಅಂದರೆ 50 ಕಿಲೋಮೀಟರ್ ಪರ್ ಹವರ್.",
+  "script_display": "ಈಗ, ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಸರಾಸರಿ ಜವವನ್ನು km/h ನಲ್ಲಿ ಲೆಕ್ಕ ಹಾಕೋಣ. ಸರಾಸರಿ ಜವದ ಸೂತ್ರವು, ಚಲಿಸಿದ ಒಟ್ಟು ದೂರವನ್ನು ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಕಾಲದಿಂದ ಭಾಗಿಸುವುದು. ಇಲ್ಲಿ, ದೂರ 400 km ಮತ್ತು ಕಾಲ 8 h. ಆದ್ದರಿಂದ, ಸರಾಸರಿ ಜವ = 400 / 8, ಅಂದರೆ 50 km/h.",
+  "display_bullets": [
+    "**ಹಂತ 3: ಸರಾಸರಿ ಜವವನ್ನು km/h ನಲ್ಲಿ ಲೆಕ್ಕ ಹಾಕಿ.**"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸರಾಸರಿ ಜವ} = \\frac{\\text{ಚಲಿಸಿದ ಒಟ್ಟು ದೂರ}}{\\text{ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಕಾಲ}} \\\\ \\\\ v_{avg} = \\frac{s}{t} = \\frac{400 \\text{ km}}{8 \\text{ h}} = 50 \\text{ km/h}",
+    "placeholder_note": "Formula for average speed and the calculation with values."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_7_example_7.2",
+  "chunk_id": "std_9_chapter_7_concept_2_chunk_038"
+}

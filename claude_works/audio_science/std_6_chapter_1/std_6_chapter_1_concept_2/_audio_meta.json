@@ -1,0 +1,125 @@
+{
+  "module_id": "std_6_chapter_1_concept_2",
+  "chapter_code": "std_6_chapter_1",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:38:53",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "717599c4beabcc93244c3ce3585cf2e3",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 22.011,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "script_words": 35,
+      "generated_at": "2026-04-02 12:37:25"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "09b6aa827949c7926b66ba83ed482b92",
+      "wav_file": "003_classification_0.wav",
+      "duration": 35.531,
+      "slide_title": "ವೈಜ್ಞಾನಿಕ ವಿಧಾನ: ಮೊದಲ ಹೆಜ್ಜೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 12:37:33"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "1cf94194fc39e5d37d5276112521c62c",
+      "wav_file": "001_intro_0.wav",
+      "duration": 50.251,
+      "slide_title": "ಪರಿಚಯ: ವೈಜ್ಞಾನಿಕ ವಿಧಾನ",
+      "type": "intro",
+      "script_words": 74,
+      "generated_at": "2026-04-02 12:37:43"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "15d10ebf9901b8c760ecd4017b7312e5",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 40.531,
+      "slide_title": "ವೈಜ್ಞಾನಿಕ ವಿಧಾನ: ಊಹೆ ರೂಪಿಸುವುದು",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 12:37:49"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "c7d473e9a8bcf8aeaf68e6f7ae306574",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 41.491,
+      "slide_title": "ವೈಜ್ಞಾನಿಕ ವಿಧಾನ: ಪರೀಕ್ಷೆ ಮತ್ತು ನಿರ್ಧಾರ",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 12:37:54"
+    },
+    "007_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "1bd2f225a0ae057ec83a2b7316c49ecc",
+      "wav_file": "007_experiment_cont_0_1.wav",
+      "duration": 36.491,
+      "slide_title": "ಪ್ರಶ್ನೆ ಮತ್ತು ಊಹೆ (Hypothesis)",
+      "type": "experiment_activity",
+      "script_words": 58,
+      "generated_at": "2026-04-02 12:38:31"
+    },
+    "009_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "5acdb4875016f32d0e8f2626ac4095db",
+      "wav_file": "009_experiment_cont_0_3.wav",
+      "duration": 42.731,
+      "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+      "type": "experiment_activity",
+      "script_words": 57,
+      "generated_at": "2026-04-02 12:38:36"
+    },
+    "006_experiment_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "410d49255ee4935a89c548d83ab0e2bd",
+      "wav_file": "006_experiment_0.wav",
+      "duration": 40.491,
+      "slide_title": "ಚಟುವಟಿಕೆ: ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ವೈಜ್ಞಾನಿಕ ವಿಧಾನ",
+      "type": "experiment_activity",
+      "script_words": 63,
+      "generated_at": "2026-04-02 12:38:36"
+    },
+    "008_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "2220ea7d098eec70e98e41867b965147",
+      "wav_file": "008_experiment_cont_0_2.wav",
+      "duration": 36.611,
+      "slide_title": "ಪ್ರಯೋಗ ಮತ್ತು ಫಲಿತಾಂಶದ ವೀಕ್ಷಣೆ",
+      "type": "experiment_activity",
+      "script_words": 62,
+      "generated_at": "2026-04-02 12:38:51"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "0c2bdfdd1780300708cc956f9993470f",
+      "wav_file": "010_recap_0.wav",
+      "duration": 43.691,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 12:38:53"
+    }
+  }
+}

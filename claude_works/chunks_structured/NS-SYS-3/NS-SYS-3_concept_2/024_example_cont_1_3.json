@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಎರಡು ಬಾರಿ ಬಳಸಿ ವರ್ಗಮೂಲ ಮೂರನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಯಶಸ್ವಿಯಾಗಿ ಗುರುತಿಸಿದ್ದೇವೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, Q ಬಿಂದುವು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ವರ್ಗಮೂಲ ಮೂರರ ಸ್ಥಾನವನ್ನು ನಿಖರವಾಗಿ ಸೂಚಿಸುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ನಾವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಎರಡು ಬಾರಿ ಬಳಸಿ $\\sqrt{3}$ ನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಯಶಸ್ವಿಯಾಗಿ ಗುರುತಿಸಿದ್ದೇವೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, Q ಬಿಂದುವು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ $\\sqrt{3}$ ರ ಸ್ಥಾನವನ್ನು ನಿಖರವಾಗಿ ಸೂಚಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲಿನ Q ಬಿಂದುವು $\\sqrt{3}$ ನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard_key_takeaway",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The final, clean diagram showing the number line with point Q clearly marked at the position of sqrt(3), which is approximately 1.732. The construction lines (triangles, arc) are shown lightly in the background.",
+    "labels": "O, Q, 1, 2, sqrt(3)",
+    "mathematical_significance": "This slide provides the final answer, visually confirming the location of the irrational number sqrt(3) on the real number line.",
+    "placeholder_note": "Image to be generated"
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SYS-3_example_4",
+  "final_answer": "ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲಿನ Q ಬಿಂದುವು ವರ್ಗಮೂಲ 3 ನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "final_answer_display": "ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲಿನ Q ಬಿಂದುವು $\\sqrt{3}$ ನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "chunk_id": "NS-SYS-3_concept_2_chunk_024"
+}

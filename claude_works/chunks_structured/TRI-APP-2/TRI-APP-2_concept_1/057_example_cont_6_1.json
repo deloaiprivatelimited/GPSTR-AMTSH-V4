@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಸಮಸ್ಯೆಯನ್ನು ಜ್ಯಾಮಿತೀಯವಾಗಿ ನಿರೂಪಿಸೋಣ. ಚಿತ್ರದಲ್ಲಿ, AB ನದಿಯ ಅಗಲವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅವನತ ಕೋನಗಳು 30 ಡಿಗ್ರಿ ಮತ್ತು 45 ಡಿಗ್ರಿ ಆಗಿರುವುದರಿಂದ, ಪರ್ಯಾಯ ಕೋನಗಳಾದ ಕೋನ P A D ಮತ್ತು ಕೋನ P B D ಗಳು ಕೂಡ ಕ್ರಮವಾಗಿ 30 ಡಿಗ್ರಿ ಮತ್ತು 45 ಡಿಗ್ರಿ ಆಗಿರುತ್ತವೆ. ಈಗ, ಲಂಬಕೋನ ತ್ರಿಭುಜ A P D ಯಲ್ಲಿ, ನಾವು ಟ್ಯಾನ್ ಅನುಪಾತವನ್ನು ಬಳಸೋಣ. ಟ್ಯಾನ್ 30 ಡಿಗ್ರಿ ಸಮ DP ಬೈ AD. ಟ್ಯಾನ್ 30 ಡಿಗ್ರಿಯ ಬೆಲೆ ಒಂದು ಬೈ ರೂಟ್ ಮೂರು. ಆದ್ದರಿಂದ, ಒಂದು ಬೈ ರೂಟ್ ಮೂರು ಸಮ ಮೂರು ಬೈ AD. ಇದನ್ನು ಬಿಡಿಸಿದಾಗ, ನಮಗೆ AD ಸಮ ಮೂರು ರೂಟ್ ಮೂರು ಮೀಟರ್ ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಸಮಸ್ಯೆಯನ್ನು ಜ್ಯಾಮಿತೀಯವಾಗಿ ನಿರೂಪಿಸೋಣ. ಚಿತ್ರದಲ್ಲಿ, AB ನದಿಯ ಅಗಲವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅವನತ ಕೋನಗಳು 30° ಮತ್ತು 45° ಆಗಿರುವುದರಿಂದ, ಪರ್ಯಾಯ ಕೋನಗಳಾದ $\\angle PAD$ ಮತ್ತು $\\angle PBD$ ಗಳು ಕೂಡ ಕ್ರಮವಾಗಿ 30° ಮತ್ತು 45° ಆಗಿರುತ್ತವೆ. ಈಗ, ಲಂಬಕೋನ ತ್ರಿಭುಜ APD ಯಲ್ಲಿ, ನಾವು tan ಅನುಪಾತವನ್ನು ಬಳಸೋಣ. $\\tan(30°)$ = $\\frac{DP}{AD}$. $\\tan(30°)$ ಯ ಬೆಲೆ $\\frac{1}{\\sqrt{3}}$. ಆದ್ದರಿಂದ, $\\frac{1}{\\sqrt{3}} = \\frac{3}{AD}$. ಇದನ್ನು ಬಿಡಿಸಿದಾಗ, ನಮಗೆ $AD = 3\\sqrt{3}$ m ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-APP-2_example_7",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಚಿತ್ರದ ಪ್ರಕಾರ, $AB = AD + DB$. ಅವನತ ಕೋನಗಳು ಪರ್ಯಾಯ ಕೋನಗಳಿಗೆ ಸಮ. ಆದ್ದರಿಂದ, $\\angle PAD = 30°$ ಮತ್ತು $\\angle PBD = 45°$.",
+      "justification": "ಸಮಸ್ಯೆಯ ಜ್ಯಾಮಿತೀಯ ನಿರೂಪಣೆ ಮತ್ತು ಪರ್ಯಾಯ ಕೋನಗಳ ಗುಣಲಕ್ಷಣ."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\triangle APD$ ಯಲ್ಲಿ, $\\tan(30°) = \\frac{DP}{AD} \\Rightarrow \\frac{1}{\\sqrt{3}} = \\frac{3}{AD} \\Rightarrow AD = 3\\sqrt{3}$ m.",
+      "justification": "ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ `tan` ಅನುಪಾತದ ಬಳಕೆ."
+    }
+  ],
+  "chunk_id": "TRI-APP-2_concept_1_chunk_057"
+}

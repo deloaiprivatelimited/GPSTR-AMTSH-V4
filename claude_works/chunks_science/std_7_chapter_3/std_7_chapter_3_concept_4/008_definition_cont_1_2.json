@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ವಾಹಕಗಳು vs. ಅವಾಹಕಗಳು (Conductors vs. Insulators)",
+  "script": "ಹಾಗಾದರೆ, ಎಲ್ಲಾ ವಸ್ತುಗಳು ಹೀಗೆಯೇ ಉಷ್ಣವನ್ನು ಸಾಗಿಸುತ್ತವೆಯೇ? ಖಂಡಿತ ಇಲ್ಲ. ಲೋಹದ ಚಮಚದ ಬದಲು ನೀವು ಒಂದು ಪ್ಲಾಸ್ಟಿಕ್ ಅಥವಾ ಮರದ ಚಮಚವನ್ನು ಬಳಸಿದರೆ, ಇನ್ನೊಂದು ತುದಿ ಅಷ್ಟು ಬೇಗ ಬಿಸಿಯಾಗುವುದಿಲ್ಲ. ಏಕೆಂದರೆ ಪ್ಲಾಸ್ಟಿಕ್ ಮತ್ತು ಮರ ಉಷ್ಣವನ್ನು ತಮ್ಮ ಮೂಲಕ ಸುಲಭವಾಗಿ ಹರಿಯಲು ಬಿಡುವುದಿಲ್ಲ. ಇವುಗಳನ್ನು ನಾವು ಉಷ್ಣ ಅವಾಹಕಗಳು ಅಥವಾ ಇನ್ಸುಲೇಟರ್ಸ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಅಡುಗೆ ಪಾತ್ರೆಗಳ ಹಿಡಿಕೆಗಳನ್ನು ಪ್ಲಾಸ್ಟಿಕ್ ಅಥವಾ ಮರದಿಂದ ಮಾಡಿರುತ್ತಾರೆ, ಇದರಿಂದ ನಮ್ಮ ಕೈ ಸುಡುವುದಿಲ್ಲ.",
+  "script_display": "ಹಾಗಾದರೆ, ಎಲ್ಲಾ ವಸ್ತುಗಳು ಹೀಗೆಯೇ ಉಷ್ಣವನ್ನು ಸಾಗಿಸುತ್ತವೆಯೇ? ಖಂಡಿತ ಇಲ್ಲ. ಲೋಹದ ಚಮಚದ ಬದಲು ನೀವು ಒಂದು ಪ್ಲಾಸ್ಟಿಕ್ ಅಥವಾ ಮರದ ಚಮಚವನ್ನು ಬಳಸಿದರೆ, ಇನ್ನೊಂದು ತುದಿ ಅಷ್ಟು ಬೇಗ ಬಿಸಿಯಾಗುವುದಿಲ್ಲ. ಏಕೆಂದರೆ ಪ್ಲಾಸ್ಟಿಕ್ ಮತ್ತು ಮರ ಉಷ್ಣವನ್ನು ತಮ್ಮ ಮೂಲಕ ಸುಲಭವಾಗಿ ಹರಿಯಲು ಬಿಡುವುದಿಲ್ಲ. ಇವುಗಳನ್ನು ನಾವು ಉಷ್ಣ ಅವಾಹಕಗಳು ಅಥವಾ ಇನ್ಸುಲೇಟರ್ಸ್ (Insulators) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಅಡುಗೆ ಪಾತ್ರೆಗಳ ಹಿಡಿಕೆಗಳನ್ನು ಪ್ಲಾಸ್ಟಿಕ್ ಅಥವಾ ಮರದಿಂದ ಮಾಡಿರುತ್ತಾರೆ, ಇದರಿಂದ ನಮ್ಮ ಕೈ ಸುಡುವುದಿಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_full",
+    "template": "visual_full_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "<table><thead><tr><th>ಗುಣ (Property)</th><th>ಉಷ್ಣವಾಹಕ (Conductor)</th><th>ಉಷ್ಣ ಅವಾಹಕ (Insulator)</th></tr></thead><tbody><tr><td>ವಸ್ತು</td><td>ಲೋಹದ ಚಮಚ</td><td>ಪ್ಲಾಸ್ಟಿಕ್ ಚಮಚ</td></tr><tr><td>ಉಷ್ಣ ಸಾಗಣೆ</td><td>ಸುಲಭವಾಗಿ ಸಾಗಿಸುತ್ತದೆ</td><td>ಸಾಗಿಸುವುದಿಲ್ಲ</td></tr><tr><td>ಪರಿಣಾಮ</td><td>ಕೈಗೆ ಬೇಗ ಬಿಸಿ ತಟ್ಟುತ್ತದೆ</td><td>ಕೈಗೆ ಬಿಸಿ ತಟ್ಟುವುದಿಲ್ಲ</td></tr><tr><td>ಉದಾಹರಣೆಗಳು</td><td>ಕಬ್ಬಿಣ, ತಾಮ್ರ, ಅಲ್ಯೂಮಿನಿಯಮ್</td><td>ಪ್ಲಾಸ್ಟಿಕ್, ಮರ, ಗಾಜು</td></tr></tbody></table>",
+    "placeholder_note": "A comparison table between conductors and insulators using the example of a metal spoon vs a plastic spoon."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_7_chapter_3_concept_4_chunk_008"
+}

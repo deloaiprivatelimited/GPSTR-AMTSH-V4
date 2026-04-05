@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ತೀರ್ಮಾನ: ನಕ್ಷೆಯಿಂದ ಏನು ತಿಳಿಯುತ್ತದೆ?",
+  "script": "ನಮ್ಮ ಪ್ರಯೋಗದ ಅಂತಿಮ ಹಂತಕ್ಕೆ ಬಂದಿದ್ದೇವೆ. ನಾವು ರಚಿಸಿದ ನಕ್ಷೆಯನ್ನು ಗಮನಿಸಿ. ಅದು ಒಂದು ಸರಳ ರೇಖೆಯಾಗಿದೆ. ದೂರ-ಕಾಲ ನಕ್ಷೆಯು ಸರಳ ರೇಖೆಯಾಗಿದ್ದರೆ, ಅದು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ? ಇದರರ್ಥ, ವಸ್ತುವು ಏಕರೂಪದ ಜವದಲ್ಲಿ ಚಲಿಸುತ್ತಿದೆ. ಅಂದರೆ, ಅದು ಸಮಾನ ಕಾಲಾವಧಿಯಲ್ಲಿ ಸಮಾನ ದೂರವನ್ನು ಕ್ರಮಿಸುತ್ತಿದೆ. ನಕ್ಷೆಯ ಇಳಿಜಾರು ಅಥವಾ ಕಡಿದಾದಷ್ಟೂ, ವಸ್ತುವಿನ ಜವ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಹಾಗಾಗಿ, ಈ ನಕ್ಷೆಯ ಆಕಾರದಿಂದಲೇ ನಾವು ವಸ್ತುವಿನ ಚಲನೆಯ ಬಗ್ಗೆ ಪ್ರಮುಖ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು. ಇದುವೇ ದೂರ-ಕಾಲ ನಕ್ಷೆಯ ಶಕ್ತಿ.",
+  "script_display": "ನಮ್ಮ ಪ್ರಯೋಗದ ಅಂತಿಮ ಹಂತಕ್ಕೆ ಬಂದಿದ್ದೇವೆ. ನಾವು ರಚಿಸಿದ ನಕ್ಷೆಯನ್ನು ಗಮನಿಸಿ. ಅದು ಒಂದು ಸರಳ ರೇಖೆಯಾಗಿದೆ. ದೂರ-ಕಾಲ ನಕ್ಷೆಯು ಸರಳ ರೇಖೆಯಾಗಿದ್ದರೆ, ಅದು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ? ಇದರರ್ಥ, ವಸ್ತುವು ಏಕರೂಪದ ಜವದಲ್ಲಿ (uniform speed) ಚಲಿಸುತ್ತಿದೆ. ಅಂದರೆ, ಅದು ಸಮಾನ ಕಾಲಾವಧಿಯಲ್ಲಿ ಸಮಾನ ದೂರವನ್ನು ಕ್ರಮಿಸುತ್ತಿದೆ. ನಕ್ಷೆಯ ಇಳಿಜಾರು (slope) ಹೆಚ್ಚಾದಷ್ಟೂ, ವಸ್ತುವಿನ ಜವ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಹಾಗಾಗಿ, ಈ ನಕ್ಷೆಯ ಆಕಾರದಿಂದಲೇ ನಾವು ವಸ್ತುವಿನ ಚಲನೆಯ ಬಗ್ಗೆ ಪ್ರಮುಖ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು.",
+  "display_bullets": [
+    "ಗಮನಿಸಿದ ಅಂಶ (Observation): ನಕ್ಷೆಯು ಮೂಲಬಿಂದುವಿನಿಂದ ಪ್ರಾರಂಭವಾಗುವ ಒಂದು ಸರಳ ರೇಖೆಯಾಗಿದೆ.",
+    "ತೀರ್ಮಾನ (Conclusion): ದೂರ-ಕಾಲ ನಕ್ಷೆಯು ಸರಳ ರೇಖೆಯಾಗಿದ್ದರೆ, ವಸ್ತುವು ಏಕರೂಪದ ಜವದಲ್ಲಿ (constant speed) ಚಲಿಸುತ್ತಿದೆ ಎಂದು ಅರ್ಥ.",
+    "ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ: ನಕ್ಷೆಯ ಇಳಿಜಾರು (slope) ವಸ್ತುವಿನ ಜವವನ್ನು ನೀಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The final distance-time graph is shown. A highlighted box or callout points to the straight line, with text inside it saying 'ಸರಳ ರೇಖೆ = ಏಕರೂಪದ ಜವ (Straight Line = Uniform Speed)'.",
+    "labels": "Conclusion box, Straight line",
+    "scientific_significance": "Visually reinforces the core concept that a straight line on a distance-time graph signifies uniform speed, which is a fundamental principle in kinematics.",
+    "placeholder_note": "Image to be generated: The final graph with a callout box emphasizing that the straight line means uniform speed."
+  },
+  "sub_type": "key_takeaway",
+  "chunk_id": "std_7_science_ch_9_concept_5_chunk_010"
+}

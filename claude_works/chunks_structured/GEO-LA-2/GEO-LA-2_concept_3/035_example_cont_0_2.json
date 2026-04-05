@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಕೋನ BMY ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಾವು AB ಯನ್ನು PQ ಗೆ ಸಮಾಂತರವಾಗಿ ಎಳೆದಿದ್ದೇವೆ ಮತ್ತು ದತ್ತಾಂಶದ ಪ್ರಕಾರ PQ ಯು RS ಗೆ ಸಮಾಂತರವಾಗಿದೆ. ಇದರರ್ಥ, AB ರೇಖೆಯು RS ರೇಖೆಗೂ ಸಮಾಂತರವಾಗಿರುತ್ತದೆ. ಈಗ, AB ಮತ್ತು RS ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಛೇದಕ MY ಕತ್ತರಿಸಿದಾಗ, ಕೋನ BMY ಮತ್ತು ಕೋನ MYR ಗಳು ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳಾಗುತ್ತವೆ. ಆದ್ದರಿಂದ, ಅವು ಸಮನಾಗಿರುತ್ತವೆ. ಕೋನ MYR ನ ಅಳತೆ 40 ಡಿಗ್ರಿ ಆಗಿರುವುದರಿಂದ, ಕೋನ BMY ಕೂಡ 40 ಡಿಗ್ರಿ ಆಗುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದ ಕೋನ XMY ಯು, ಕೋನ XMB ಮತ್ತು ಕೋನ BMY ಗಳ ಮೊತ್ತವಾಗಿದೆ. ಅಂದರೆ, 45 ಡಿಗ್ರಿ ಪ್ಲಸ್ 40 ಡಿಗ್ರಿ, ಒಟ್ಟು 85 ಡಿಗ್ರಿ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, $\\angle BMY$ ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಾವು $AB$ ಯನ್ನು $PQ$ ಗೆ ಸಮಾಂತರವಾಗಿ ಎಳೆದಿದ್ದೇವೆ ಮತ್ತು ದತ್ತಾಂಶದ ಪ್ರಕಾರ $PQ \\parallel RS$. ಇದರರ್ಥ, $AB \\parallel RS$. ಈಗ, $AB$ ಮತ್ತು $RS$ ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಛೇದಕ $MY$ ಕತ್ತರಿಸಿದಾಗ, $\\angle BMY$ ಮತ್ತು $\\angle MYR$ ಗಳು ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳಾಗುತ್ತವೆ. ಆದ್ದರಿಂದ, ಅವು ಸಮನಾಗಿರುತ್ತವೆ. $\\angle MYR = 40°$ ಆಗಿರುವುದರಿಂದ, $\\angle BMY$ ಕೂಡ $40°$ ಆಗುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದ $\\angle XMY$ ಯು, $\\angle XMB$ ಮತ್ತು $\\angle BMY$ ಗಳ ಮೊತ್ತವಾಗಿದೆ. ಅಂದರೆ, $45° + 40°$, ಒಟ್ಟು $85°$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಉದಾಹರಣೆ 4 ರ ರೇಖಾಚಿತ್ರ, M ಬಿಂದುವಿನ ಮೂಲಕ PQ ಮತ್ತು RS ಗೆ ಸಮಾಂತರವಾಗಿ AB ಎಂಬ ಸಹಾಯಕ ರೇಖೆಯನ್ನು ಎಳೆಯಲಾಗಿದೆ. ಕೋನ BMY ಮತ್ತು ಕೋನ MYR ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "ಚಿತ್ರ 6.20",
+    "mathematical_significance": "ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳ ಗುಣಲಕ್ಷಣ ಮತ್ತು ಕೋನ ಸಂಕಲನ ಆಧಾರಾಂಶದ ಬಳಕೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-LA-2_example_4",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$PQ \\parallel RS$ ಮತ್ತು $AB \\parallel PQ \\implies AB \\parallel RS$. <br> $\\angle BMY = \\angle MYR = 40°$.",
+      "justification": "ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು ಸಮ."
+    },
+    {
+      "step": 4,
+      "action_display": "$\\angle XMY = \\angle XMB + \\angle BMY$ <br> $\\angle XMY = 45° + 40° = 85°$.",
+      "justification": "ಕೋನ ಸಂಕಲನ ಆಧಾರಾಂಶ (Angle Addition Postulate)."
+    }
+  ],
+  "chunk_id": "GEO-LA-2_concept_3_chunk_035"
+}

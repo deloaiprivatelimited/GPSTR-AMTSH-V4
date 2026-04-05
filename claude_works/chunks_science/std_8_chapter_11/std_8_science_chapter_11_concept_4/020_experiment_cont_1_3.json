@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಗಮನಿಸಿದ ಅಂಶ (Observation)",
+  "script": "ಹದಿನೈದು ನಿಮಿಷಗಳ ನಂತರ, ಆಲೂಗಡ್ಡೆಯನ್ನು ಪರೀಕ್ಷಿಸೋಣ. ನಿಮಗೆ ಒಂದು ಸ್ಪಷ್ಟವಾದ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತದೆ. ಎರಡು ತಂತಿಗಳಲ್ಲಿ, ಒಂದು ತಂತಿಯ ಸುತ್ತಲೂ ಹಸಿರು ಮಿಶ್ರಿತ ನೀಲಿ ಬಣ್ಣದ ಒಂದು ಚುಕ್ಕೆ ರೂಪುಗೊಂಡಿರುತ್ತದೆ. ಇದು ಯಾವ ತಂತಿಯ ಸುತ್ತ ಆಗಿದೆ ಎಂದು ಗಮನಿಸಿದಾಗ, ಅದು ಬ್ಯಾಟರಿಯ ಧನಾಗ್ರಕ್ಕೆ, ಅಂದರೆ ಪಾಸಿಟಿವ್ ಟರ್ಮಿನಲ್ ಗೆ ಸಂಪರ್ಕಿಸಿದ ತಂತಿಯಾಗಿದೆ ಎಂದು ತಿಳಿಯುತ್ತದೆ. ಬ್ಯಾಟರಿಯ ಋಣಾಗ್ರಕ್ಕೆ, ಅಂದರೆ ನೆಗೆಟಿವ್ ಟರ್ಮಿನಲ್ ಗೆ ಸಂಪರ್ಕಿಸಿದ ತಂತಿಯ ಸುತ್ತ ಯಾವುದೇ ಬಣ್ಣದ ಬದಲಾವಣೆ ಕಂಡುಬರುವುದಿಲ್ಲ. ಇದು ನಮ್ಮ ಪ್ರಮುಖ ವೀಕ್ಷಣೆಯಾಗಿದೆ.",
+  "script_display": "15 ನಿಮಿಷಗಳ ನಂತರ, ಆಲೂಗಡ್ಡೆಯನ್ನು ಪರೀಕ್ಷಿಸೋಣ. ನಿಮಗೆ ಒಂದು ಸ್ಪಷ್ಟವಾದ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತದೆ. ಎರಡು ತಂತಿಗಳಲ್ಲಿ, ಒಂದು ತಂತಿಯ ಸುತ್ತಲೂ ಹಸಿರು-ನೀಲಿ ಬಣ್ಣದ ಒಂದು ಚುಕ್ಕೆ ರೂಪುಗೊಂಡಿರುತ್ತದೆ. ಇದು ಯಾವ ತಂತಿಯ ಸುತ್ತ ಆಗಿದೆ ಎಂದು ಗಮನಿಸಿದಾಗ, ಅದು ಬ್ಯಾಟರಿಯ ಧನಾಗ್ರಕ್ಕೆ (+ve terminal) ಸಂಪರ್ಕಿಸಿದ ತಂತಿಯಾಗಿದೆ ಎಂದು ತಿಳಿಯುತ್ತದೆ. ಬ್ಯಾಟರಿಯ ಋಣಾಗ್ರಕ್ಕೆ (-ve terminal) ಸಂಪರ್ಕಿಸಿದ ತಂತಿಯ ಸುತ್ತ ಯಾವುದೇ ಬಣ್ಣದ ಬದಲಾವಣೆ ಕಂಡುಬರುವುದಿಲ್ಲ. ಇದು ನಮ್ಮ ಪ್ರಮುಖ ವೀಕ್ಷಣೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಬ್ಯಾಟರಿಯ ಧನಾಗ್ರಕ್ಕೆ (+ve) ಸಂಪರ್ಕಿಸಿದ ತಂತಿಯ ಸುತ್ತ ಹಸಿರು-ನೀಲಿ ಚುಕ್ಕೆ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ.",
+    "ಋಣಾಗ್ರದ (-ve) ತಂತಿಯ ಬಳಿ ಯಾವುದೇ ಬದಲಾವಣೆ ಇರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up view of the potato slice after 15 minutes. A distinct greenish-blue spot is visible around the wire connected to the positive terminal. The area around the negative terminal wire is unchanged.",
+    "labels": "ಧನಾಗ್ರ (+), ಋಣಾಗ್ರ (-), ಹಸಿರು-ನೀಲಿ ಚುಕ್ಕೆ",
+    "scientific_significance": "The colored spot is the result of a chemical reaction (oxidation) occurring at the anode (positive terminal), demonstrating the chemical effect of electric current.",
+    "placeholder_note": "Image to be generated showing the result of the potato experiment."
+  },
+  "sub_type": "experiment",
+  "chunk_id": "std_8_science_chapter_11_concept_4_chunk_020"
+}

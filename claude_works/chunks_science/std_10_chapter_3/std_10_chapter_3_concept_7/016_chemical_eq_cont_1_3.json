@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಫಲಿತಾಂಶ: ಕ್ಲೋರೈಡ್ ಅಯಾನು (Cl⁻)",
+  "script": "ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಪಡೆದ ನಂತರ, ಕ್ಲೋರಿನ್ ಪರಮಾಣು ಕ್ಲೋರೈಡ್ ಅಯಾನು ಆಗಿ ಬದಲಾಗುತ್ತದೆ. ಇದರ ಫಲಿತಾಂಶ ಕ್ಲೋರೈಡ್ ಅಯಾನು, ಅಂದರೆ ಸಿ ಎಲ್ ಮೈನಸ್. ಇದರ ಹೊಸ ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ 2, 8, 8 ಆಗಿ, ಸ್ಥಿರ ಅಷ್ಟಕವನ್ನು ತಲುಪುತ್ತದೆ. ಇದು ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಹೆಚ್ಚುವರಿಯಾಗಿ ಪಡೆದಿರುವುದರಿಂದ, ಇದರ ಆವೇಶ ಋಣಾತ್ಮಕ, ಅಂದರೆ ಮೈನಸ್ ಒಂದು ಆಗಿರುತ್ತದೆ. ಎಲೆಕ್ಟ್ರಾನ್ ಪಡೆಯುವ ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಅಪಕರ್ಷಣ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಪಡೆದ ನಂತರ, ಕ್ಲೋರಿನ್ ಪರಮಾಣು ಕ್ಲೋರೈಡ್ ಅಯಾನು (Cl⁻) ಆಗಿ ಬದಲಾಗುತ್ತದೆ. ಇದರ ಫಲಿತಾಂಶ ಕ್ಲೋರೈಡ್ ಅಯಾನು (Cl⁻). ಇದರ ಹೊಸ ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ 2, 8, 8 ಆಗಿ, ಸ್ಥಿರ ಅಷ್ಟಕವನ್ನು ತಲುಪುತ್ತದೆ. ಇದು ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಹೆಚ್ಚುವರಿಯಾಗಿ ಪಡೆದಿರುವುದರಿಂದ, ಇದರ ಆವೇಶ ಋಣಾತ್ಮಕ (-1) ಆಗಿರುತ್ತದೆ. ಎಲೆಕ್ಟ್ರಾನ್ ಪಡೆಯುವ ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಅಪಕರ್ಷಣ (Reduction) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಫಲಿತಾಂಶ: ಕ್ಲೋರೈಡ್ ಅಯಾನು (Cl⁻)",
+    "ಹೊಸ ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ: 2, 8, 8 (ಸ್ಥಿರ ಅಷ್ಟಕ)",
+    "ಆವೇಶ: ಋಣಾತ್ಮಕ (-1)",
+    "ಪ್ರಕ್ರಿಯೆ: ಅಪಕರ್ಷಣ (Reduction)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Diagram showing the resulting chloride ion (Cl⁻) with its electron shells now filled (2, 8, 8). The ion should be depicted with a bracket and a negative sign to indicate the charge.",
+    "labels": "ಕ್ಲೋರೈಡ್ ಅಯಾನು (Cl⁻), ಪೂರ್ಣಗೊಂಡ ಅಷ್ಟಕ",
+    "scientific_significance": "Shows the stable electron configuration of the chloride ion after gaining an electron.",
+    "placeholder_note": "Image to be generated: Bohr model of Chloride ion (2,8,8) with a bracket and a minus sign [Cl]⁻."
+  },
+  "chunk_id": "std_10_chapter_3_concept_7_chunk_016"
+}

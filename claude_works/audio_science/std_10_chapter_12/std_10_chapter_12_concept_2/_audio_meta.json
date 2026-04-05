@@ -1,0 +1,213 @@
+{
+  "module_id": "std_10_chapter_12_concept_2",
+  "chapter_code": "std_10_chapter_12",
+  "voice": "Achird",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 18,
+  "ok_count": 18,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:29:06",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "855e5eecb7343365a45e96dbe8249e12",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 19.931,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "bullet_list",
+      "script_words": 36,
+      "generated_at": "2026-04-02 11:25:38"
+    },
+    "003_law_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "2a5ee17e1d80ec5d98d2cb7cf54a04f1",
+      "wav_file": "003_law_0.wav",
+      "duration": 31.491,
+      "slide_title": "ಬಲಗೈ ಹೆಬ್ಬೆರಳ ನಿಯಮ",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 11:25:46"
+    },
+    "004_law_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "af5c685f342c1a4d55a94acc0f5f840c",
+      "wav_file": "004_law_cont_0_1.wav",
+      "duration": 37.531,
+      "slide_title": "ನಿಯಮದ ನಿರೂಪಣೆ",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 11:25:52"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "b63dc1b845450d396d89574087328620",
+      "wav_file": "001_intro_0.wav",
+      "duration": 59.611,
+      "slide_title": "ನೇರ ವಾಹಕದಲ್ಲಿ ವಿದ್ಯುತ್ ಪ್ರವಾಹದಿಂದ ಉಂಟಾಗುವ ಕಾಂತಕ್ಷೇತ್ರ",
+      "type": "title_hero",
+      "script_words": 97,
+      "generated_at": "2026-04-02 11:26:01"
+    },
+    "005_law_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "56a4d6cf8cf384ac14421243053c5678",
+      "wav_file": "005_law_cont_0_2.wav",
+      "duration": 47.571,
+      "slide_title": "ನಿಯಮದ ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 11:26:20"
+    },
+    "008_property_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "b2e45afd963d6e0c2f624e6326dc3fdb",
+      "wav_file": "008_property_0.wav",
+      "duration": 38.411,
+      "slide_title": "ನೇರ ವಾಹಕದ ಕಾಂತಕ್ಷೇತ್ರ: ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 11:26:50"
+    },
+    "007_law_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "8bb2fbf04553fa6061d4ef788d016ae5",
+      "wav_file": "007_law_cont_0_4.wav",
+      "duration": 36.291,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ ಮತ್ತು ಪ್ರಮುಖ ಅನ್ವಯ",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 11:26:52"
+    },
+    "009_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "3473ccc9e4693d7f03d85852bacc8efa",
+      "wav_file": "009_property_cont_0_1.wav",
+      "duration": 44.251,
+      "slide_title": "ನೇರ ವಾಹಕದ ಕಾಂತಕ್ಷೇತ್ರ: ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 11:26:54"
+    },
+    "006_law_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "2bdfe0fd9e1c9e083468020b94de1e0a",
+      "wav_file": "006_law_cont_0_3.wav",
+      "duration": 42.251,
+      "slide_title": "ಕಾಂತಕ್ಷೇತ್ರದ ಪ್ರಬಲತೆಯ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವ ಅಂಶಗಳು",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 11:26:55"
+    },
+    "010_experiment_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "764c1aa330d6e26276cda2fe33aa9e35",
+      "wav_file": "010_experiment_0.wav",
+      "duration": 41.531,
+      "slide_title": "ಪ್ರಯೋಗ: ಸಾಮಗ್ರಿಗಳು ಮತ್ತು ಜೋಡಣೆ",
+      "type": "experiment_activity",
+      "script_words": 64,
+      "generated_at": "2026-04-02 11:27:10"
+    },
+    "014_example_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "b7202b66f7d14b5c6b6b7c6f7c868b7d",
+      "wav_file": "014_example_0.wav",
+      "duration": 34.771,
+      "slide_title": "ಉದಾಹರಣೆ 12.1: ಸಮಸ್ಯೆ",
+      "type": "worked_example",
+      "script_words": 42,
+      "generated_at": "2026-04-02 11:27:50"
+    },
+    "015_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "2df505504465267918624588c71db2ea",
+      "wav_file": "015_example_cont_0_1.wav",
+      "duration": 30.971,
+      "slide_title": "ಉದಾಹರಣೆ 12.1: ಪರಿಹಾರ",
+      "type": "worked_example",
+      "script_words": 39,
+      "generated_at": "2026-04-02 11:27:51"
+    },
+    "012_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "33ecbf8df437c527f6bf26a35bbd0da2",
+      "wav_file": "012_experiment_cont_0_2.wav",
+      "duration": 43.491,
+      "slide_title": "ಗಮನಿಸಿದ ಅಂಶ (Observation)",
+      "type": "experiment_activity",
+      "script_words": 55,
+      "generated_at": "2026-04-02 11:27:53"
+    },
+    "011_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "2f063f81828d1274b232c186c1d85b34",
+      "wav_file": "011_experiment_cont_0_1.wav",
+      "duration": 47.971,
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+      "type": "experiment_activity",
+      "script_words": 54,
+      "generated_at": "2026-04-02 11:28:02"
+    },
+    "013_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "d426d0294bbde9d461e65611e369f04b",
+      "wav_file": "013_experiment_cont_0_3.wav",
+      "duration": 41.931,
+      "slide_title": "ಪ್ರಯೋಗದ ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "script_words": 53,
+      "generated_at": "2026-04-02 11:28:14"
+    },
+    "017_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "d14efbf6c2c1525f3ff4bab1f69c5a8e",
+      "wav_file": "017_example_cont_0_3.wav",
+      "duration": 23.531,
+      "slide_title": "ಉದಾಹರಣೆ 12.1: ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 32,
+      "generated_at": "2026-04-02 11:28:41"
+    },
+    "016_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "49a91aed7cdea63de11e6cda9dc353f8",
+      "wav_file": "016_example_cont_0_2.wav",
+      "duration": 34.731,
+      "slide_title": "ಉದಾಹರಣೆ 12.1: ಪರಿಹಾರ (ಮುಂದುವರಿದಿದೆ)",
+      "type": "worked_example",
+      "script_words": 46,
+      "generated_at": "2026-04-02 11:28:48"
+    },
+    "018_recap_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "c06955ac58eceb7e69c1838ed08760ec",
+      "wav_file": "018_recap_0.wav",
+      "duration": 38.971,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 48,
+      "generated_at": "2026-04-02 11:29:06"
+    }
+  }
+}

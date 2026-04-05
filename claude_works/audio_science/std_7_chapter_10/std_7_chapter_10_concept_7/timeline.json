@@ -1,0 +1,90 @@
+{
+  "module_id": "std_7_chapter_10_concept_7",
+  "chapter_code": "std_7_chapter_10",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 293.517,
+  "total_duration_formatted": "4:53",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_10_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ವಿದ್ಯುತ್ಕಾಂತದ ಅನ್ವಯ: ವಿದ್ಯುತ್ ಘಂಟೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 44.571,
+      "duration": 44.571,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್્ઞಾನ",
+      "type": "intro",
+      "start": 45.171,
+      "end": 75.022,
+      "duration": 29.851,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_7_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಹಂತಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "start": 75.622,
+      "end": 124.153,
+      "duration": 48.531,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_7_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಹಂತಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "start": 124.753,
+      "end": 166.404,
+      "duration": 41.651,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_7_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಹಂತಗಳು: ಭಾಗ 3",
+      "type": "concept_explanation",
+      "start": 167.004,
+      "end": 208.255,
+      "duration": 41.251,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_7_chunk_006",
+      "chunk_file": "006_property_cont_0_3.json",
+      "wav_file": "006_property_cont_0_3.wav",
+      "slide_title": "ನಿರಂತರ ಪ್ರಕ್ರಿಯೆ",
+      "type": "concept_explanation",
+      "start": 208.855,
+      "end": 253.666,
+      "duration": 44.811,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_7_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 254.266,
+      "end": 292.917,
+      "duration": 38.651,
+      "script_words": 53
+    }
+  ]
+}

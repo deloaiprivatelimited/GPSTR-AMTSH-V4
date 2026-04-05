@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ಅಣುರಾಶಿಯ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ ಎರಡನೇ ಹಂತ. ನಾವು ಮೊದಲನೇ ಹಂತದಲ್ಲಿ ಲೆಕ್ಕ ಮಾಡಿದ ರಾಶಿಗಳನ್ನು ಕೂಡಿಸಬೇಕು. ಅಂದರೆ, ನೀರಿನ ಅಣುರಾಶಿಯು ಹೈಡ್ರೋಜನ್‌ನ ಒಟ್ಟು ರಾಶಿ ಮತ್ತು ಆಮ್ಲಜನಕದ ಒಟ್ಟು ರಾಶಿಯ ಮೊತ್ತವಾಗಿರುತ್ತದೆ. ಹಾಗಾಗಿ, ಎರಡು ಯು ಪ್ಲಸ್ ಹದಿನಾರು ಯು, ನಮಗೆ ಹದಿನೆಂಟು ಯು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಹಂತ. ನಾವು ಮೊದಲನೇ ಹಂತದಲ್ಲಿ ಲೆಕ್ಕ ಮಾಡಿದ ರಾಶಿಗಳನ್ನು ಕೂಡಿಸಬೇಕು. ಅಂದರೆ, H₂O ನ ಅಣುರಾಶಿಯು ಹೈಡ್ರೋಜನ್‌ನ ಒಟ್ಟು ರಾಶಿ ಮತ್ತು ಆಮ್ಲಜನಕದ ಒಟ್ಟು ರಾಶಿಯ ಮೊತ್ತವಾಗಿರುತ್ತದೆ. ಹಾಗಾಗಿ, 2u + 16u, ನಮಗೆ 18u ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹಂತ 2: ಎಲ್ಲಾ ಧಾತುಗಳ ಒಟ್ಟು ರಾಶಿಗಳನ್ನು ಕೂಡಿಸುವುದು.",
+    "H₂O ನ ಅಣುರಾಶಿ = (ಹೈಡ್ರೋಜನ್‌ನ ಒಟ್ಟು ರಾಶಿ) + (ಆಮ್ಲಜನಕದ ಒಟ್ಟು ರಾಶಿ)",
+    "ಅಣುರಾಶಿ = 2u + 16u = 18u"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "chemistry_template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_3_example_6",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಎಲ್ಲಾ ಧಾತುಗಳ ಒಟ್ಟು ರಾಶಿಗಳನ್ನು ಕೂಡಿಸುವುದು. <br> H₂O ನ ಅಣುರಾಶಿ = 2u + 16u = 18u",
+      "justification": "ಅಣುರಾಶಿ = Σ (ಧಾತುಗಳ ಒಟ್ಟು ರಾಶಿ)."
+    }
+  ],
+  "chunk_id": "std_9_chapter_3_concept_8_chunk_015"
+}

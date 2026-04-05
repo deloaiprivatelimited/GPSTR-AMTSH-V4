@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಸಂಭವ ಘಟನೆ (Impossible Event)",
+  "script": "ಈಗ ನಾವು ಅಸಂಭವ ಘಟನೆ ಅಂದರೆ ಇಂಪಾಸಿಬಲ್ ಇವೆಂಟ್ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಹೆಸರೇ ಹೇಳುವಂತೆ, ಕೆಲವು ಘಟನೆಗಳು ಸಂಭವಿಸಲು ಸಾಧ್ಯವೇ ಇರುವುದಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ ಏಳು ಬರುವುದು. ಇದು ಸಾಧ್ಯವೇ? ಖಂಡಿತ ಇಲ್ಲ. ದಾಳದ ಮೇಲೆ ಒಂದರಿಂದ ಆರು ಸಂಖ್ಯೆಗಳು ಮಾತ್ರ ಇರುತ್ತವೆ. ಇಂತಹ, ನಡೆಯಲು ಸಾಧ್ಯವೇ ಇಲ್ಲದ ಘಟನೆಗಳನ್ನು ನಾವು ಅಸಂಭವ ಘಟನೆಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ಸಂಭವನೀಯತೆಯ ಒಂದು ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಅಸಂಭವ ಘಟನೆ (Impossible Event) ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಹೆಸರೇ ಹೇಳುವಂತೆ, ಕೆಲವು ಘಟನೆಗಳು ಸಂಭವಿಸಲು ಸಾಧ್ಯವೇ ಇರುವುದಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ 7 ಬರುವುದು. ಇದು ಸಾಧ್ಯವೇ? ಖಂಡಿತ ಇಲ್ಲ. ದಾಳದ ಮೇಲೆ 1 ರಿಂದ 6 ಸಂಖ್ಯೆಗಳು ಮಾತ್ರ ಇರುತ್ತವೆ. ಇಂತಹ, ನಡೆಯಲು ಸಾಧ್ಯವೇ ಇಲ್ಲದ ಘಟನೆಗಳನ್ನು ನಾವು \"ಅಸಂಭವ ಘಟನೆಗಳು\" ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ಸಂಭವನೀಯತೆಯ ಒಂದು ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪರಿಚಯ: ಕೆಲವು ಘಟನೆಗಳು ಸಂಭವಿಸಲು ಸಾಧ್ಯವೇ ಇರುವುದಿಲ್ಲ.",
+    "ಉದಾಹರಣೆ: ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ 7 ಬರುವುದು.",
+    "ಇಂತಹ ಘಟನೆಗಳನ್ನು 'ಅಸಂಭವ ಘಟನೆಗಳು' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "text_visual_split",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A standard six-sided die is shown. Next to it, the number '7' is shown with a large red cross mark over it, indicating impossibility.",
+    "labels": "die, number 7, cross mark",
+    "mathematical_significance": "Visually represents an outcome that is not in the sample space of rolling a single die.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "PROB-BAS-1_concept_2_chunk_010"
+}

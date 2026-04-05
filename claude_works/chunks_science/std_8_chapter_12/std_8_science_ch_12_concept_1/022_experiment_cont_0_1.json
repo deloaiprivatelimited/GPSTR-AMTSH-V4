@@ -1,0 +1,35 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1",
+  "script": "ಈಗ ನಾವು ಚಟುವಟಿಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ನಿಮ್ಮ ಕೈಯಲ್ಲಿರುವ ಪ್ಲಾಸ್ಟಿಕ್ ರೀಫಿಲ್ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ನಂತರ, ಪಾಲಿಥೀನ್ ತುಂಡಿನಿಂದ ಆ ರೀಫಿಲ್ ಅನ್ನು ಚೆನ್ನಾಗಿ, ರಭಸವಾಗಿ ಉಜ್ಜಿ. ಸುಮಾರು ಒಂದು ನಿಮಿಷದ ಕಾಲ ಹೀಗೆ ಉಜ್ಜುವುದರಿಂದ, ರೀಫಿಲ್ ಮತ್ತು ಪಾಲಿಥೀನ್ ನಡುವೆ ಘರ್ಷಣೆ ಉಂಟಾಗುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಒಂದು ವಸ್ತುವಿನಿಂದ ಇನ್ನೊಂದು ವಸ್ತುವಿಗೆ ವರ್ಗಾವಣೆಯಾಗುತ್ತವೆ. ಇದರಿಂದ ರೀಫಿಲ್ ವಿದ್ಯುದಾವೇಶವನ್ನು ಪಡೆಯುತ್ತದೆ. ಈ ಹಂತವನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಮಾಡಿ.",
+  "script_display": "ಈಗ ನಾವು ಚಟುವಟಿಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ನಿಮ್ಮ ಕೈಯಲ್ಲಿರುವ ಪ್ಲಾಸ್ಟಿಕ್ ರೀಫಿಲ್ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ನಂತರ, ಪಾಲಿಥೀನ್ ತುಂಡಿನಿಂದ ಆ ರೀಫಿಲ್ ಅನ್ನು ಚೆನ್ನಾಗಿ, ರಭಸವಾಗಿ ಉಜ್ಜಿ. ಸುಮಾರು ಒಂದು ನಿಮಿಷದ ಕಾಲ ಹೀಗೆ ಉಜ್ಜುವುದರಿಂದ, ರೀಫಿಲ್ ಮತ್ತು ಪಾಲಿಥೀನ್ ನಡುವೆ ಘರ್ಷಣೆ ಉಂಟಾಗುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಒಂದು ವಸ್ತುವಿನಿಂದ ಇನ್ನೊಂದು ವಸ್ತುವಿಗೆ ವರ್ಗಾವಣೆಯಾಗುತ್ತವೆ. ಇದರಿಂದ ರೀಫಿಲ್ ವಿದ್ಯುದಾವೇಶವನ್ನು (electric charge) ಪಡೆಯುತ್ತದೆ. ಈ ಹಂತವನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಮಾಡಿ.",
+  "display_bullets": [
+    "ಒಂದು ಪ್ಲಾಸ್ಟಿಕ್ ರೀಫಿಲ್ ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "ಅದನ್ನು ಪಾಲಿಥೀನ್ ತುಂಡಿನಿಂದ ರಭಸವಾಗಿ ಉಜ್ಜಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of a hand rubbing a plastic refill with a piece of polythene sheet. Arrows should indicate the rubbing motion.",
+    "labels": "ಕೈ, ಪ್ಲಾಸ್ಟಿಕ್ ರೀಫಿಲ್, ಪಾಲಿಥೀನ್ ತುಂಡು, ಘರ್ಷಣೆ",
+    "scientific_significance": "Shows the action of charging an object by friction.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_science_ch_12_concept_1_chunk_022"
+}

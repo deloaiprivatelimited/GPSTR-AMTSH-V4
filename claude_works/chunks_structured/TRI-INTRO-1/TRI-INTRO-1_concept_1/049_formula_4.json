@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ವ್ಯುತ್ಕ್ರಮ ಸಂಬಂಧ: Secant ಮತ್ತು Cosine",
+  "script": "ಈಗ ನಾವು ಸೀಕಂಟ್ ಮತ್ತು ಕೊಸೈನ್ ಅನುಪಾತಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ನೋಡೋಣ. ಈ ಸಂಬಂಧವನ್ನು ಸೀಕ್ ಎ ಸಮ ಒಂದು ಬೈ ಕಾಸ್ ಎ ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ. ಇದರರ್ಥ ಸೀಕಂಟ್ ಎ ಎಂಬುದು ಕಾಸ್ ಎ ಯ ವ್ಯುತ್ಕ್ರಮವಾಗಿದೆ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಕಾಸ್ ಎ ಎಂದರೆ ಪಾರ್ಶ್ವ ಬಾಹು ಬೈ ವಿಕರ್ಣ. ಹಾಗೆಯೇ, ಸೀಕಂಟ್ ಎ ಎಂದರೆ ವಿಕರ್ಣ ಬೈ ಪಾರ್ಶ್ವ ಬಾಹು. ಆದ್ದರಿಂದ, ಕಾಸ್ ಎ ಯ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಂಡರೆ, ಅಂದರೆ ಒಂದು ಬೈ ಪಾರ್ಶ್ವ ಬಾಹು ಬೈ ವಿಕರ್ಣ, ಅದು ವಿಕರ್ಣ ಬೈ ಪಾರ್ಶ್ವ ಬಾಹು ಆಗುತ್ತದೆ, ಇದು ನಿಖರವಾಗಿ ಸೀಕಂಟ್ ಎ ಗೆ ಸಮ. ಆದ್ದರಿಂದ, ಸೀಕ್ ಎ ಸಮ ಒಂದು ಬೈ ಕಾಸ್ ಎ.",
+  "script_display": "ಈಗ ನಾವು secant ಮತ್ತು cosine ಅನುಪಾತಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ನೋಡೋಣ. ಈ ಸಂಬಂಧವನ್ನು $\\sec A = \\frac{1}{\\cos A}$ ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ. ಇದರರ್ಥ $\\sec A$ ಎಂಬುದು $\\cos A$ ದ ವ್ಯುತ್ಕ್ರಮವಾಗಿದೆ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, $\\cos A = \\frac{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}}$. ಹಾಗೆಯೇ, $\\sec A = \\frac{\\text{ವಿಕರ್ಣ}}{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}$. ಆದ್ದರಿಂದ, $\\cos A$ ಯ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಂಡರೆ, ಅಂದರೆ $\\frac{1}{\\frac{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}}}$, ಅದು $\\frac{\\text{ವಿಕರ್ಣ}}{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}$ ಆಗುತ್ತದೆ, ಇದು ನಿಖರವಾಗಿ $\\sec A$ ಗೆ ಸಮ. ಆದ್ದರಿಂದ, $\\sec A = \\frac{1}{\\cos A}$.",
+  "display_bullets": [
+    "sec A ಎಂಬುದು cos A ದ ವ್ಯುತ್ಕ್ರಮವಾಗಿದೆ.",
+    "$\\cos A = \\frac{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}}$",
+    "$\\sec A = \\frac{\\text{ವಿಕರ್ಣ}}{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}$",
+    "ಆದ್ದರಿಂದ, $\\sec A = \\frac{1}{\\cos A}$"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "center_formula_with_bullets",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sec A = \\frac{1}{\\cos A}",
+    "placeholder_note": "Formula showing secant as the reciprocal of cosine."
+  },
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_049"
+}

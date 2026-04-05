@@ -1,0 +1,37 @@
+{
+  "type": "intro",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನೀವು ಈಗಾಗಲೇ ಕಲಿತಿರುವ ಕೆಲವು ವಿಷಯಗಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುವುದು ಒಳ್ಳೆಯದು. ಅವುಗಳೆಂದರೆ, ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳ ಪರಿಚಯ, ನವೀಕರಿಸಬಹುದಾದ ಮತ್ತು ನವೀಕರಿಸಲಾಗದ ಸಂಪನ್ಮೂಲಗಳು, ಹಾಗೂ ಶಕ್ತಿಯ ವಿವಿಧ ರೂಪಗಳು. ಈ ವಿಷಯಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿದಿದ್ದರೆ, ಸೌರಶಕ್ತಿಯ ಪಾಠವು ಇನ್ನಷ್ಟು ಸುಲಭವಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನೀವು ಈಗಾಗಲೇ ಕಲಿತಿರುವ ಕೆಲವು ವಿಷಯಗಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುವುದು ಒಳ್ಳೆಯದು:",
+  "display_bullets": [
+    "ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳ ಪರಿಚಯ (Introduction to Natural Resources)",
+    "ನವೀಕರಿಸಬಹುದಾದ ಮತ್ತು ನವೀಕರಿಸಲಾಗದ ಸಂಪನ್ಮೂಲಗಳು (Renewable and Non-renewable Resources)",
+    "ಶಕ್ತಿಯ ವಿವಿಧ ರೂಪಗಳು (Different Forms of Energy)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard_bullets",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "prerequisites",
+  "prerequisites_display": [
+    "ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳ ಪರಿಚಯ (Introduction to Natural Resources)",
+    "ನವೀಕರಿಸಬಹುದಾದ ಮತ್ತು ನವೀಕರಿಸಲಾಗದ ಸಂಪನ್ಮೂಲಗಳು (Renewable and Non-renewable Resources)",
+    "ಶಕ್ತಿಯ ವಿವಿಧ ರೂಪಗಳು (Different Forms of Energy)"
+  ],
+  "chunk_id": "std_6_chapter_11_concept_4_chunk_002"
+}

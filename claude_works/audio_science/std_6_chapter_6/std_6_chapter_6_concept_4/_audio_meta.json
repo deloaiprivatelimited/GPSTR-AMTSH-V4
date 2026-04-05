@@ -1,0 +1,158 @@
+{
+  "module_id": "std_6_chapter_6_concept_4",
+  "chapter_code": "std_6_chapter_6",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:26:16",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "214592ecf6fffef09aa06e5eb83f8f7e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 20.851,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 32,
+      "generated_at": "2026-04-02 13:23:47"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "c13c40682dec168cdf811f75cbe2713b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 57.611,
+      "slide_title": "ಸಾಮಗ್ರಿಗಳ ಭೌತಿಕ ಗುಣಗಳು: ನೀರಿನಲ್ಲಿ ವಿಲೀನತೆ",
+      "type": "intro",
+      "script_words": 89,
+      "generated_at": "2026-04-02 13:24:12"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "735aa2f5c35e76c9cc77d3484a9f58db",
+      "wav_file": "003_classification_0.wav",
+      "duration": 37.491,
+      "slide_title": "ಪರಿಚಯ: ನೀರಿನಲ್ಲಿ ವಿಲೀನತೆ",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:24:22"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "9a53e25354d19ea9288f070511d7e775",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 45.971,
+      "slide_title": "ನೀರಿನಲ್ಲಿ ವಿಲೀನವಾಗದ ವಸ್ತುಗಳು",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-04-02 13:24:24"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "dde66d5fa6b13e8a634371579a8acad6",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 49.531,
+      "slide_title": "ನೀರಿನಲ್ಲಿ ವಿಲೀನವಾಗುವ ವಸ್ತುಗಳು",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 13:24:32"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "49f63400c62903a362dd14b28bae02e3",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 38.971,
+      "slide_title": "ಬೆರೆಯದ ದ್ರವಗಳು (Immiscible Liquids)",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:24:57"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "e2431562ed5fd679f4586d0afc01f0ef",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 43.651,
+      "slide_title": "ಕರಗುವ ಅನಿಲಗಳು ಮತ್ತು ಅವುಗಳ ಮಹತ್ವ",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 13:25:00"
+    },
+    "008_experiment_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "b2254e2f7bc974381b5f7b04176056dc",
+      "wav_file": "008_experiment_0.wav",
+      "duration": 28.651,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಮನೆಯಲ್ಲಿ ORS ದ್ರಾವಣ ತಯಾರಿಕೆ",
+      "type": "experiment_activity",
+      "script_words": 47,
+      "generated_at": "2026-04-02 13:25:16"
+    },
+    "009_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "ad903c690c1086770e89f96440ef850c",
+      "wav_file": "009_experiment_cont_0_1.wav",
+      "duration": 25.851,
+      "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "experiment_activity",
+      "script_words": 41,
+      "generated_at": "2026-04-02 13:25:16"
+    },
+    "010_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "42bee7f2f83745242d74c4dba2a2715b",
+      "wav_file": "010_experiment_cont_0_2.wav",
+      "duration": 30.451,
+      "slide_title": "ವಿಧಾನ",
+      "type": "experiment_activity",
+      "script_words": 42,
+      "generated_at": "2026-04-02 13:25:25"
+    },
+    "011_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "ee37407cdc5fae82b253735a3df0fd52",
+      "wav_file": "011_experiment_cont_0_3.wav",
+      "duration": 36.811,
+      "slide_title": "ಅವಲೋಕನ (Observation)",
+      "type": "experiment_activity",
+      "script_words": 42,
+      "generated_at": "2026-04-02 13:25:55"
+    },
+    "012_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "7136949389bd9b2d3853d369e8e73497",
+      "wav_file": "012_experiment_cont_0_4.wav",
+      "duration": 38.091,
+      "slide_title": "ತೀರ್ಮಾನ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "experiment_activity",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:25:59"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "24ab37c324386913609da60b725e9d87",
+      "wav_file": "013_recap_0.wav",
+      "duration": 36.251,
+      "slide_title": "ಸಾರಾಂಶ: ನೀರಿನಲ್ಲಿ ವಿಲೀನತೆ",
+      "type": "recap",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:26:16"
+    }
+  }
+}

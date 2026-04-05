@@ -1,0 +1,39 @@
+{
+  "type": "prerequisite",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಈ ಪಾಠವನ್ನು ಮುಂದುವರಿಸುವ ಮೊದಲು, ನಿಮಗೆ ಕೆಲವು ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರುವುದು ಅವಶ್ಯಕ. ನಿಮಗೆ ಓಮ್ ನ ನಿಯಮ, ವಿದ್ಯುತ್ ಪ್ರವಾಹ, ವಿಭವಾಂತರ, ಮತ್ತು ರೋಧದ ಬಗ್ಗೆ ಸ್ಪಷ್ಟವಾದ ತಿಳುವಳಿಕೆ ಇದೆಯಾ ಅಂತ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಈ ವಿಷಯಗಳಲ್ಲಿ ನಿಮಗೆ ಏನಾದರೂ ಅನುಮಾನಗಳಿದ್ದರೆ, ದಯವಿಟ್ಟು ಹಿಂದಿನ ಪಾಠಗಳನ್ನು ಒಮ್ಮೆ ಪುನರಾವರ್ತಿಸಿ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಮುಂದುವರಿಸುವ ಮೊದಲು, ನಿಮಗೆ ಈ ಕೆಳಗಿನ ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರುವುದು ಅವಶ್ಯಕ. ಇವುಗಳಲ್ಲಿ ನಿಮಗೆ ಏನಾದರೂ ಅನುಮಾನಗಳಿದ್ದರೆ, ದಯವಿಟ್ಟು ಹಿಂದಿನ ಪಾಠಗಳನ್ನು ಒಮ್ಮೆ ಪುನರಾವರ್ತಿಸಿ.",
+  "display_bullets": [
+    "ಓಮ್‌ನ ನಿಯಮ (Ohm's Law)",
+    "ವಿದ್ಯುತ್ ಪ್ರವಾಹ (Electric Current)",
+    "ವಿಭವಾಂತರ (Potential Difference)",
+    "ರೋಧ ಮತ್ತು ರೋಧಶೀಲತೆ (Resistance and Resistivity)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_a",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "bullet_list",
+  "prerequisites_display": [
+    "ಓಮ್‌ನ ನಿಯಮ",
+    "ವಿದ್ಯುತ್ ಪ್ರವಾಹ",
+    "ವಿಭವಾಂತರ",
+    "ರೋಧ"
+  ],
+  "chunk_id": "std_10_chapter_11_concept_5_chunk_002"
+}

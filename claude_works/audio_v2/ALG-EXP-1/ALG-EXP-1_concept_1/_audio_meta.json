@@ -1,0 +1,191 @@
+{
+  "module_id": "ALG-EXP-1_concept_1",
+  "merge_code": "ALG-EXP-1",
+  "voice": "Kore",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 16,
+  "ok_count": 16,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:39:30",
+  "chunks": {
+    "005_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "b252d1c742d3b11a265461d08d4b7c79",
+      "wav_file": "005_definition_cont_0_3.wav",
+      "duration": 39.771,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "definition",
+      "script_words": 52,
+      "generated_at": "2026-03-30 14:36:28"
+    },
+    "004_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "180f696ac105a59ad178ea3c44a2bf9c",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "duration": 41.451,
+      "slide_title": "ಚರಾಕ್ಷರ vs ಸ್ಥಿರಾಂಕ",
+      "type": "definition",
+      "script_words": 52,
+      "generated_at": "2026-03-30 14:36:31"
+    },
+    "003_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "f7da3bd7242b5701b218fbc75de70235",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "duration": 44.851,
+      "slide_title": "ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-03-30 14:36:31"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "4d4a3cf53671fccd7f7c888ccc4a01b2",
+      "wav_file": "001_intro_0.wav",
+      "duration": 54.731,
+      "slide_title": "ಬೀಜೋಕ್ತಿಗಳ ಮೂಲಭೂತಾಂಶಗಳು",
+      "type": "intro",
+      "script_words": 70,
+      "generated_at": "2026-03-30 14:36:43"
+    },
+    "002_definition_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "5b8ee97666556a53d538a270f83e5ca0",
+      "wav_file": "002_definition_0.wav",
+      "duration": 51.851,
+      "slide_title": "ಚರಾಕ್ಷರ (Variable) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-03-30 14:36:46"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "b5dced3269136f7fad4218f007fe2623",
+      "wav_file": "006_definition_1.wav",
+      "duration": 38.771,
+      "slide_title": "ಸ್ಥಿರಾಂಕ (Constant) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 49,
+      "generated_at": "2026-03-30 14:37:29"
+    },
+    "009_definition_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "ea70014847d7ee789b19d68f9117529d",
+      "wav_file": "009_definition_cont_1_3.wav",
+      "duration": 44.091,
+      "slide_title": "ಸ್ಥಿರಾಂಕ vs. ಚರಾಕ್ಷರ",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-03-30 14:37:32"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "837d52b0745266549e4d1c3b23b2cbd5",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 48.331,
+      "slide_title": "ಬೀಜೋಕ್ತಿಯಲ್ಲಿ ಸ್ಥಿರಾಂಕ",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-03-30 14:37:35"
+    },
+    "010_definition_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "b4d9cc4a9023455826a8d23c8eeac43e",
+      "wav_file": "010_definition_2.wav",
+      "duration": 50.331,
+      "slide_title": "ಬೀಜೋಕ್ತಿ: ವ್ಯಾಖ್ಯಾನ",
+      "type": "definition",
+      "script_words": 66,
+      "generated_at": "2026-03-30 14:37:39"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "084263f734608e99712862d91697692e",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 43.971,
+      "slide_title": "ಸ್ಥಿರಾಂಕಗಳಿಗೆ ಉದಾಹರಣೆಗಳು",
+      "type": "definition",
+      "script_words": 50,
+      "generated_at": "2026-03-30 14:37:40"
+    },
+    "011_definition_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "3987b8f39f6aeb0cf10bac42c00f90d9",
+      "wav_file": "011_definition_cont_2_1.wav",
+      "duration": 42.131,
+      "slide_title": "ಬೀಜೋಕ್ತಿ: ಒಂದು ಉದಾಹರಣೆ",
+      "type": "definition",
+      "script_words": 70,
+      "generated_at": "2026-03-30 14:38:34"
+    },
+    "013_definition_cont_2_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "1eeecf8830d8a7a525f9708751ca131c",
+      "wav_file": "013_definition_cont_2_3.wav",
+      "duration": 47.931,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+      "type": "definition",
+      "script_words": 68,
+      "generated_at": "2026-03-30 14:38:36"
+    },
+    "014_property_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "af99a79fb25a00fff4c72e3ec5d896e5",
+      "wav_file": "014_property_0.wav",
+      "duration": 52.611,
+      "slide_title": "ಬೀಜೋಕ್ತಿಗಳ ರಚನೆ: ಚರಾಕ್ಷರ ಮತ್ತು ಸ್ಥಿರಾಂಕ",
+      "type": "concept_explanation",
+      "script_words": 76,
+      "generated_at": "2026-03-30 14:38:38"
+    },
+    "015_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "0cf2e1380f9731b6742dad7df55391e2",
+      "wav_file": "015_property_cont_0_1.wav",
+      "duration": 53.051,
+      "slide_title": "ಬೀಜೋಕ್ತಿಗಳ ರಚನೆ: ಚರಾಕ್ಷರಗಳ ಸಂಯೋಜನೆ",
+      "type": "concept_explanation",
+      "script_words": 77,
+      "generated_at": "2026-03-30 14:38:41"
+    },
+    "012_definition_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "e31c39ce70539f1fc8a6e6efc03ec184",
+      "wav_file": "012_definition_cont_2_2.wav",
+      "duration": 55.611,
+      "slide_title": "ಬೀಜೋಕ್ತಿಗಳು ಮತ್ತು ಸಮೀಕರಣಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸ",
+      "type": "definition",
+      "script_words": 79,
+      "generated_at": "2026-03-30 14:38:42"
+    },
+    "016_recap_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "cf2b94a638a414eef4fbe975e9afa58b",
+      "wav_file": "016_recap_0.wav",
+      "duration": 44.091,
+      "slide_title": "Recap: ಬೀಜೋಕ್ತಿಗಳ ಮೂಲಭೂತಾಂಶಗಳು",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-03-30 14:39:30"
+    }
+  }
+}

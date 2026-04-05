@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ಕರಗುವಿಕೆ ಮತ್ತು ಸೋಸುವಿಕೆ",
+  "script": "ಈಗ ನಮ್ಮ ಬಳಿ ಮರಳು ಮತ್ತು ಉಪ್ಪಿನ ಮಿಶ್ರಣ ಉಳಿದಿದೆ. ಎರಡನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು ಈ ಮಿಶ್ರಣಕ್ಕೆ ನೀರನ್ನು ಸೇರಿಸುತ್ತೇವೆ. ಉಪ್ಪು ನೀರಿನಲ್ಲಿ ಕರಗುತ್ತದೆ, ಆದರೆ ಮರಳು ಕರಗುವುದಿಲ್ಲ. ನಂತರ, ಈ ದ್ರಾವಣವನ್ನು ಸೋಸು ಕಾಗದ ಬಳಸಿ ಸೋಸೋಣ. ಆಗ, ಕರಗದ ಮರಳು ಸೋಸು ಕಾಗದದ ಮೇಲೆ ಉಳಿಯುತ್ತದೆ. ಉಪ್ಪು ಕರಗಿದ ನೀರು ಕೆಳಗೆ ಸಂಗ್ರಹವಾಗುತ್ತದೆ. ಇದನ್ನು ಶೋಧಿತ ದ್ರವ ಎನ್ನುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ನಮ್ಮ ಬಳಿ ಮರಳು ಮತ್ತು ಉಪ್ಪಿನ ಮಿಶ್ರಣ ಉಳಿದಿದೆ. ಎರಡನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು ಈ ಮಿಶ್ರಣಕ್ಕೆ ನೀರನ್ನು ಸೇರಿಸುತ್ತೇವೆ. ಉಪ್ಪು ನೀರಿನಲ್ಲಿ ಕರಗುತ್ತದೆ, ಆದರೆ ಮರಳು ಕರಗುವುದಿಲ್ಲ. ನಂತರ, ಈ ದ್ರಾವಣವನ್ನು ಸೋಸು ಕಾಗದ ಬಳಸಿ ಸೋಸೋಣ. ಆಗ, ಕರಗದ ಮರಳು ಸೋಸು ಕಾಗದದ ಮೇಲೆ ಉಳಿಯುತ್ತದೆ. ಉಪ್ಪು ಕರಗಿದ ನೀರು ಕೆಳಗೆ ಸಂಗ್ರಹವಾಗುತ್ತದೆ. ಇದನ್ನು ಶೋಧಿತ ದ್ರವ ಎನ್ನುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಹಂತ 2: ನೀರು ಸೇರಿಸಿ, ಕರಗಿಸಿ ಮತ್ತು ಸೋಸಿ (Dissolving & Filtration)",
+    "ವಿಧಾನ: ಉಳಿದ ಮಿಶ್ರಣಕ್ಕೆ ನೀರನ್ನು ಸೇರಿಸಿ. ನಂತರ ಸೋಸು ಕಾಗದ ಬಳಸಿ ಸೋಸಿ.",
+    "ಫಲಿತಾಂಶ: ಮರಳು ಸೋಸು ಕಾಗದದ ಮೇಲೆ ಉಳಿಯುತ್ತದೆ (ಶೇಷ). ಉಪ್ಪುನೀರು ಕೆಳಗೆ ಸಂಗ್ರಹವಾಗುತ್ತದೆ (ಶೋಧಿತ ದ್ರವ)."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a filtration setup. A beaker with salt water and sand is being poured through a funnel with filter paper into another beaker. Sand particles are shown trapped on the filter paper, while clear salt water (filtrate) collects in the beaker below.",
+    "labels": "ಸೋಸು ಕಾಗದ, ಆಲಿಕೆ, ಮರಳು (ಶೇಷ), ಉಪ್ಪುನೀರು (ಶೋಧಿತ ದ್ರವ)",
+    "scientific_significance": "Illustrates separation based on solubility and particle size. Insoluble solids are separated from a liquid using a filter.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "source_example_id": "std_6_chapter_9_we_1",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಕರಗುವಿಕೆ ಮತ್ತು ಸೋಸುವಿಕೆ: ಮಿಶ್ರಣಕ್ಕೆ ನೀರನ್ನು ಸೇರಿಸಿ ಸೋಸಿದಾಗ, ಕರಗದ ಮರಳು ಶೇಷವಾಗಿ ಉಳಿಯುತ್ತದೆ.",
+      "justification": "ಉಪ್ಪು ನೀರಿನಲ್ಲಿ ಕರಗುತ್ತದೆ ಆದರೆ ಮರಳು ಕರಗುವುದಿಲ್ಲ ಎಂಬ ಗುಣವನ್ನು ಬಳಸಿಕೊಳ್ಳಲಾಗಿದೆ."
+    }
+  ],
+  "chunk_id": "std_6_chapter_9_concept_12_chunk_011"
+}

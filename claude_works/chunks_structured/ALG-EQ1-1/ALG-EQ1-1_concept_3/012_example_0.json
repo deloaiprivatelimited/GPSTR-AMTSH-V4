@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಸಮೀಕರಣ ಬಿಡಿಸಿ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ನಾಲ್ಕು x ಪ್ಲಸ್ ಐದು ಈಕ್ವಲ್ಸ್ ಅರವತ್ತೈದು ಎಂಬ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಬೇಕು. ನಮ್ಮ ಗುರಿ ಚರಾಕ್ಷರ x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು. ಈ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಲು ನಾವು ಸಮತೋಲನ ವಿಧಾನವನ್ನು ಬಳಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $4x + 5 = 65$ ಎಂಬ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಬೇಕು. ನಮ್ಮ ಗುರಿ ಚರಾಕ್ಷರ $x$ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು. ಈ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಲು ನಾವು ಸಮತೋಲನ ವಿಧಾನವನ್ನು ಬಳಸೋಣ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $4x + 5 = 65$ ಅನ್ನು ಬಿಡಿಸಿ.",
+    "ಗುರಿ: ಚರಾಕ್ಷರ $x$ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "4x + 5 = 65",
+    "placeholder_note": "The equation to be solved is displayed prominently."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ1-1_example_mindread1",
+  "chunk_id": "ALG-EQ1-1_concept_3_chunk_012"
+}

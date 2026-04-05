@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಇಂಧನ ಎಂದರೇನು?",
+  "script": "ನಾವು ಅಡುಗೆ ಮಾಡಲು, ವಾಹನಗಳನ್ನು ಓಡಿಸಲು ಅಥವಾ ಕಾರ್ಖಾನೆಗಳನ್ನು ನಡೆಸಲು ಶಕ್ತಿ ಎಲ್ಲಿಂದ ಬರುತ್ತದೆ ಎಂದು ನೀವು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ? ಈ ಎಲ್ಲಾ ಚಟುವಟಿಕೆಗಳಿಗೆ ನಮಗೆ ಉಷ್ಣ ಶಕ್ತಿಯ ಅಗತ್ಯವಿದೆ. ಈ ಉಷ್ಣ ಶಕ್ತಿಯನ್ನು ನಾವು ಕೆಲವು ವಸ್ತುಗಳನ್ನು ಸುಡುವುದರಿಂದ ಪಡೆಯುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ಅಡುಗೆ ಮಾಡಲು ಎಲ್ ಪಿ ಜಿ ಗ್ಯಾಸ್ ಬಳಸುತ್ತೇವೆ, ವಾಹನಗಳಿಗೆ ಪೆಟ್ರೋಲ್ ಅಥವಾ ಡೀಸೆಲ್ ಹಾಕುತ್ತೇವೆ. ಈ ರೀತಿ ಉಷ್ಣ ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸಲು ನಾವು ಬಳಸುವ ವಸ್ತುಗಳನ್ನೇ 'ಇಂಧನಗಳು' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇವು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದ ಪ್ರಮುಖ ಭಾಗವಾಗಿವೆ.",
+  "script_display": "ನಾವು ಅಡುಗೆ ಮಾಡಲು, ವಾಹನಗಳನ್ನು ಓಡಿಸಲು ಅಥವಾ ಕಾರ್ಖಾನೆಗಳನ್ನು ನಡೆಸಲು ಶಕ್ತಿ ಎಲ್ಲಿಂದ ಬರುತ್ತದೆ ಎಂದು ನೀವು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ? ಈ ಎಲ್ಲಾ ಚಟುವಟಿಕೆಗಳಿಗೆ ನಮಗೆ ಉಷ್ಣ ಶಕ್ತಿಯ (heat energy) ಅಗತ್ಯವಿದೆ. ಈ ಉಷ್ಣ ಶಕ್ತಿಯನ್ನು ನಾವು ಕೆಲವು ವಸ್ತುಗಳನ್ನು ಸುಡುವುದರಿಂದ ಪಡೆಯುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ಅಡುಗೆ ಮಾಡಲು LPG ಗ್ಯಾಸ್ ಬಳಸುತ್ತೇವೆ, ವಾಹನಗಳಿಗೆ ಪೆಟ್ರೋಲ್ ಅಥವಾ ಡೀಸೆಲ್ ಹಾಕುತ್ತೇವೆ. ಈ ರೀತಿ ಉಷ್ಣ ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸಲು ನಾವು ಬಳಸುವ ವಸ್ತುಗಳನ್ನೇ 'ಇಂಧನಗಳು' (Fuels) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇವು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದ ಪ್ರಮುಖ ಭಾಗವಾಗಿವೆ.",
+  "display_bullets": [
+    "ಅಡುಗೆ, ಸಾರಿಗೆ, ಮತ್ತು ಕೈಗಾರಿಕೆಗಳಿಗೆ ಉಷ್ಣ ಶಕ್ತಿ ಬೇಕು.",
+    "ಈ ಶಕ್ತಿಯನ್ನು ಪಡೆಯಲು ನಾವು ವಸ್ತುಗಳನ್ನು ಸುಡುತ್ತೇವೆ.",
+    "ಈ ವಸ್ತುಗಳನ್ನೇ 'ಇಂಧನಗಳು' ಎಂದು ಕರೆಯುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collage of three images: 1. A person cooking on an LPG gas stove. 2. A car being refueled with petrol at a station. 3. A factory with smoke coming from a chimney, indicating industrial fuel use.",
+    "labels": "ಗೃಹಬಳಕೆ (ಅಡುಗೆ), ಸಾರಿಗೆ (ವಾಹನ), ಕೈಗಾರಿಕೆ",
+    "scientific_significance": "Shows the diverse applications of fuels in daily life and industry, making the concept relatable.",
+    "placeholder_note": "Image to be generated showing these three common uses of fuel."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_4_concept_6_chunk_003"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರಗಳು ಹೀಗಿವೆ: ಸೈನ್ ಎ ಸಮ ಐದನೇ ನಾಲ್ಕು, ಕಾಸ್ ಎ ಸಮ ಐದನೇ ಮೂರು, ಕೊಸಿಕೆಂಟ್ ಎ ಸಮ ನಾಲ್ಕನೇ ಐದು, ಸಿಕೆಂಟ್ ಎ ಸಮ ಮೂರನೇ ಐದು, ಮತ್ತು ಕಾಟ್ ಎ ಸಮ ನಾಲ್ಕನೇ ಮೂರು.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರಗಳು ಹೀಗಿವೆ: $\\sin A = \\frac{4}{5}$, $\\cos A = \\frac{3}{5}$, $\\csc A = \\frac{5}{4}$, $\\sec A = \\frac{5}{3}$, ಮತ್ತು $\\cot A = \\frac{3}{4}$.",
+  "display_bullets": [
+    "$\\sin A = \\frac{4}{5}$",
+    "$\\cos A = \\frac{3}{5}$",
+    "$\\csc A = \\frac{5}{4}$",
+    "$\\sec A = \\frac{5}{3}$",
+    "$\\cot A = \\frac{3}{4}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "TRI-INTRO-1_example_1",
+  "final_answer": "$\\sin A = \\frac{4}{5}, \\cos A = \\frac{3}{5}, \\csc A = \\frac{5}{4}, \\sec A = \\frac{5}{3}, \\cot A = \\frac{3}{4}$",
+  "final_answer_display": "$\\sin A = \\frac{4}{5}, \\cos A = \\frac{3}{5}, \\csc A = \\frac{5}{4}, \\sec A = \\frac{5}{3}, \\cot A = \\frac{3}{4}$",
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_074"
+}

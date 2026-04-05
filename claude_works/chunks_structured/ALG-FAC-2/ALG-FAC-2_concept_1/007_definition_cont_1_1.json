@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: 30ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು",
+  "script": "ಈಗ ಒಂದು ಸಂಖ್ಯೆಯ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಹಂತ ಹಂತವಾಗಿ ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ನೋಡೋಣ. ನಾವು ಮೂವತ್ತು ಸಂಖ್ಯೆಯನ್ನೇ ತೆಗೆದುಕೊಳ್ಳೋಣ. ಮೊದಲಿಗೆ, ಮೂವತ್ತನ್ನು ಭಾಗಿಸಬಲ್ಲ ಅತ್ಯಂತ ಚಿಕ್ಕ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ ಯಾವುದು ಎಂದು ಯೋಚಿಸಬೇಕು. ಅದು ಎರಡು. ಆದ್ದರಿಂದ, ನಾವು ಮೂವತ್ತನ್ನು ಎರಡು ಗುಣಿಸು ಹದಿನೈದು ಎಂದು ಬರೆಯಬಹುದು. ಇಲ್ಲಿ ನಮಗೆ ಮೊದಲ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ಸಿಕ್ಕಿತು, ಅದು ಎರಡು. ಯಾಕೆಂದರೆ ಎರಡು ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ. ಈಗ ನಮ್ಮ ಗಮನ ಹದಿನೈದರ ಮೇಲೆ ಇರಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಸಂಖ್ಯೆಯ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಹಂತ ಹಂತವಾಗಿ ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ನೋಡೋಣ. ನಾವು 30 ಸಂಖ್ಯೆಯನ್ನೇ ತೆಗೆದುಕೊಳ್ಳೋಣ. ಮೊದಲಿಗೆ, 30ನ್ನು ಭಾಗಿಸಬಲ್ಲ ಅತ್ಯಂತ ಚಿಕ್ಕ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ ಯಾವುದು ಎಂದು ಯೋಚಿಸಬೇಕು. ಅದು 2. ಆದ್ದರಿಂದ, ನಾವು $30 = 2 \\times 15$ ಎಂದು ಬರೆಯಬಹುದು. ಇಲ್ಲಿ ನಮಗೆ ಮೊದಲ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ಸಿಕ್ಕಿತು, ಅದು 2. ಯಾಕೆಂದರೆ 2 ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ. ಈಗ ನಮ್ಮ ಗಮನ 15ರ ಮೇಲೆ ಇರಬೇಕು.",
+  "display_bullets": [
+    "ಸಂಖ್ಯೆ 30 ಅನ್ನು ಪರಿಗಣಿಸೋಣ.",
+    "30 ಅನ್ನು ಅದರ ಅತ್ಯಂತ ಚಿಕ್ಕ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನದಿಂದ ಭಾಗಿಸಿ. ಅದು 2.",
+    "$30 = 2 \\times 15$",
+    "ಇಲ್ಲಿ, 2 ಒಂದು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple factor tree diagram. The number 30 is at the top. Two branches come down from it. One branch leads to a circle with the number 2. The other branch leads to a circle with the number 15. The circle with 2 should be highlighted or colored to indicate it's a prime factor.",
+    "labels": "Factor tree, prime factor, composite number",
+    "mathematical_significance": "Illustrates the first step of prime factorization by dividing by the smallest prime factor.",
+    "placeholder_note": "Image to be generated for 30 splitting into 2 and 15."
+  },
+  "chunk_id": "ALG-FAC-2_concept_1_chunk_007"
+}

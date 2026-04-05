@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಜಡತ್ವ ಮತ್ತು ದ್ರವ್ಯರಾಶಿ (Inertia and Mass)",
+  "script": "ಜಡತ್ವವು ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಅವಲಂಬಿಸಿದೆ. ದ್ರವ್ಯರಾಶಿ ಹೆಚ್ಚಾದಂತೆ, ಜಡತ್ವವೂ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಅಂದರೆ, ಹೆಚ್ಚು ಭಾರವಾದ ವಸ್ತುವಿನ ಸ್ಥಿತಿಯನ್ನು ಬದಲಾಯಿಸಲು ಹೆಚ್ಚು ಬಲ ಬೇಕಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಖಾಲಿ ಶಾಪಿಂಗ್ ಕಾರ್ಟ್ ಅನ್ನು ತಳ್ಳುವುದು ಸುಲಭ. ಆದರೆ, ಅದೇ ಕಾರ್ಟ್ ಸಾಮಾನುಗಳಿಂದ ತುಂಬಿದ್ದರೆ, ಅದನ್ನು ತಳ್ಳಲು ಹೆಚ್ಚು ಬಲ ಬೇಕು. ಏಕೆಂದರೆ, ತುಂಬಿದ ಕಾರ್ಟ್‌ನ ದ್ರವ್ಯರಾಶಿ ಹೆಚ್ಚು, ಹಾಗಾಗಿ ಅದರ ಜಡತ್ವವೂ ಹೆಚ್ಚು. ಇದೇ ರೀತಿ, ಒಂದು ಕ್ರಿಕೆಟ್ ಚೆಂಡಿಗಿಂತ ರೈಲಿಗೆ ಸಾವಿರಾರು ಪಟ್ಟು ಹೆಚ್ಚು ಜಡತ್ವ ಇರುತ್ತದೆ.",
+  "script_display": "ಜಡತ್ವವು ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿಯನ್ನು (mass) ನೇರವಾಗಿ ಅವಲಂಬಿಸಿದೆ. ದ್ರವ್ಯರಾಶಿ ಹೆಚ್ಚಾದಂತೆ, ಜಡತ್ವವೂ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಇದರರ್ಥ, ಹೆಚ್ಚು ದ್ರವ್ಯರಾಶಿಯ ವಸ್ತುವಿನ ಸ್ಥಿತಿಯನ್ನು ಬದಲಾಯಿಸಲು ಹೆಚ್ಚು ಬಲ ಬೇಕಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ: ಒಂದು ಖಾಲಿ ಶಾಪಿಂಗ್ ಕಾರ್ಟ್ (ಕಡಿಮೆ ದ್ರವ್ಯರಾಶಿ, ಕಡಿಮೆ ಜಡತ್ವ) ತಳ್ಳುವುದು ಸುಲಭ. ಸಾಮಾನುಗಳಿಂದ ತುಂಬಿದ ಕಾರ್ಟ್ (ಹೆಚ್ಚು ದ್ರವ್ಯರಾಶಿ, ಹೆಚ್ಚು ಜಡತ್ವ) ತಳ್ಳುವುದು ಕಷ್ಟ.",
+  "display_bullets": [
+    "ಜಡತ್ವ ∝ ದ್ರವ್ಯರಾಶಿ (Inertia is proportional to mass)",
+    "ಹೆಚ್ಚು ದ್ರವ್ಯರಾಶಿ = ಹೆಚ್ಚು ಜಡತ್ವ.",
+    "ಕಡಿಮೆ ದ್ರವ್ಯರಾಶಿ = ಕಡಿಮೆ ಜಡತ್ವ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side comparison. Left: A person easily pushing an empty shopping cart. Right: The same person struggling to push a shopping cart full of heavy items. Arrows indicate the force applied.",
+    "labels": "ಕಡಿಮೆ ದ್ರವ್ಯರಾಶಿ, ಕಡಿಮೆ ಜಡತ್ವ (Low mass, low inertia), ಹೆಚ್ಚು ದ್ರವ್ಯರಾಶಿ, ಹೆಚ್ಚು ಜಡತ್ವ (High mass, high inertia)",
+    "scientific_significance": "Clearly illustrates the direct relationship between mass and inertia. More mass requires more force to overcome inertia.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_8_concept_2_chunk_016"
+}

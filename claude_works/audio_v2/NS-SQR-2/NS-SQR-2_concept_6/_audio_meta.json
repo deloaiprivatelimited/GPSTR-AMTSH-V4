@@ -1,0 +1,180 @@
+{
+  "module_id": "NS-SQR-2_concept_6",
+  "merge_code": "NS-SQR-2",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 15,
+  "ok_count": 15,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 17:10:12",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "2e95bdb7eae174c51ebc826762ac2798",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.251,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 34,
+      "generated_at": "2026-03-30 17:07:17"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "4f210fbe24a1b99f161634abdb81af04",
+      "wav_file": "001_intro_0.wav",
+      "duration": 44.851,
+      "slide_title": "ವರ್ಗಮೂಲಗಳು",
+      "type": "intro",
+      "script_words": 68,
+      "generated_at": "2026-03-30 17:07:25"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "93cf4d97fd48c4bb00542b21236b0495",
+      "wav_file": "003_definition_0.wav",
+      "duration": 48.131,
+      "slide_title": "ಪರಿಚಯ: ವರ್ಗಮೂಲ ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 66,
+      "generated_at": "2026-03-30 17:07:36"
+    },
+    "007_definition_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "6f601f58179e805e29a129afb740a210",
+      "wav_file": "007_definition_cont_0_4.wav",
+      "duration": 49.171,
+      "slide_title": "ಪ್ರಧಾನ ವರ್ಗಮೂಲ (Principal Square Root)",
+      "type": "definition",
+      "script_words": 74,
+      "generated_at": "2026-03-30 17:08:00"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "0b16123dcd21648eade4d3fd8489e83f",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 51.131,
+      "slide_title": "ವರ್ಗ ಮತ್ತು ವರ್ಗಮೂಲದ ಸಂಬಂಧ",
+      "type": "definition",
+      "script_words": 72,
+      "generated_at": "2026-03-30 17:08:01"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "96586a081e94d19589044017601d89f2",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 42.891,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ವರ್ಗಮೂಲ (Square Root)",
+      "type": "definition",
+      "script_words": 66,
+      "generated_at": "2026-03-30 17:08:24"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "b6349e81004e56c6c1c1a6d9a9c7825b",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 47.931,
+      "slide_title": "ಧನ ಮತ್ತು ಋಣ ವರ್ಗಮೂಲಗಳು",
+      "type": "definition",
+      "script_words": 73,
+      "generated_at": "2026-03-30 17:08:26"
+    },
+    "008_definition_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "7c496d93251e982e6c01b5f3c6fd25c3",
+      "wav_file": "008_definition_cont_0_5.wav",
+      "duration": 53.091,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಸಾಮಾನ್ಯ ತಪ್ಪು",
+      "type": "definition",
+      "script_words": 89,
+      "generated_at": "2026-03-30 17:08:31"
+    },
+    "009_definition_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "079f89617f1142c6c2686bc2fb6659c8",
+      "wav_file": "009_definition_1.wav",
+      "duration": 35.811,
+      "slide_title": "ಧನಾತ್ಮಕ ವರ್ಗಮೂಲ (Positive Square Root)",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-03-30 17:08:54"
+    },
+    "010_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "cac89f0cac4033f95bd4a1300e0eb833",
+      "wav_file": "010_definition_cont_1_1.wav",
+      "duration": 41.451,
+      "slide_title": "ಉದಾಹರಣೆ: 9 ರ ವರ್ಗಮೂಲ",
+      "type": "definition",
+      "script_words": 65,
+      "generated_at": "2026-03-30 17:09:01"
+    },
+    "011_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "85bcebf929c1d646f2e645a40382eb10",
+      "wav_file": "011_definition_cont_1_2.wav",
+      "duration": 44.131,
+      "slide_title": "ಸರಿಯಾದ ಮತ್ತು ತಪ್ಪಾದ ಬಳಕೆ",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-03-30 17:09:25"
+    },
+    "013_definition_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "80686940db055d36621271c50c35854b",
+      "wav_file": "013_definition_cont_1_4.wav",
+      "duration": 46.691,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+      "type": "definition",
+      "script_words": 75,
+      "generated_at": "2026-03-30 17:09:27"
+    },
+    "012_definition_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "75bcc54cfe66c195ca1587d863aefbdd",
+      "wav_file": "012_definition_cont_1_3.wav",
+      "duration": 63.771,
+      "slide_title": "ಅಭಿವ್ಯಕ್ತಿ vs ಸಮೀಕರಣ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸ",
+      "type": "definition",
+      "script_words": 86,
+      "generated_at": "2026-03-30 17:09:38"
+    },
+    "015_recap_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "4dbbfe405b37607776f5d02846024f48",
+      "wav_file": "015_recap_0.wav",
+      "duration": 31.371,
+      "slide_title": "ಸಾರಾಂಶ: ವರ್ಗಮೂಲಗಳು",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-03-30 17:09:47"
+    },
+    "014_property_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "6f28820a8a00e25ee775e1e4beaccd50",
+      "wav_file": "014_property_0.wav",
+      "duration": 75.011,
+      "slide_title": "ವರ್ಗಮೂಲಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 99,
+      "generated_at": "2026-03-30 17:10:12"
+    }
+  }
+}

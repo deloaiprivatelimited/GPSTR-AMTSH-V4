@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಾಮರ್ಥ್ಯದ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು 12 ವೋಲ್ಟ್ ಬ್ಯಾಟರಿಯನ್ನು 4 ಓಮ್ ರೋಧಕಕ್ಕೆ ಸಂಪರ್ಕಿಸಲಾಗಿದೆ ಎಂದು ಭಾವಿಸೋಣ. ಹಾಗಾದರೆ, ಆ ರೋಧಕದಲ್ಲಿ ವ್ಯಯವಾಗುವ ವಿದ್ಯುತ್ ಸಾಮರ್ಥ್ಯ ಎಷ್ಟು? ಮೊದಲಿಗೆ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ವೋಲ್ಟೇಜ್ V equals 12 ವೋಲ್ಟ್ ಮತ್ತು ರೋಧ R equals 4 ಓಮ್. ನಮ್ಮ ಸೂತ್ರ P equals V squared by R ಅನ್ನು ಬಳಸೋಣ. ಸೂತ್ರದಲ್ಲಿ V ಯ ಜಾಗದಲ್ಲಿ 12 ಮತ್ತು R ನ ಜಾಗದಲ್ಲಿ 4 ಅನ್ನು ಆದೇಶಿಸೋಣ. ಈಗ ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. P equals 12 squared divided by 4. ಅಂದರೆ, 144 ಭಾಗಿಸು 4, ಇದು 36 ಕ್ಕೆ ಸಮ. ಆದ್ದರಿಂದ, ವ್ಯಯವಾದ ಸಾಮರ್ಥ್ಯ 36 ವ್ಯಾಟ್ ಆಗಿದೆ.",
+  "script_display": "ಒಂದು 12 V ಬ್ಯಾಟರಿಯನ್ನು 4 Ω ರೋಧಕಕ್ಕೆ ಸಂಪರ್ಕಿಸಲಾಗಿದೆ. ರೋಧಕದಲ್ಲಿ ವ್ಯಯವಾದ ವಿದ್ಯುತ್ ಸಾಮರ್ಥ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.\n\n*   **ದತ್ತಾಂಶ (Given):** V = 12 V, R = 4 Ω\n*   **ಸೂತ್ರ (Formula):** P = \\frac{V^2}{R}\n*   **ಆದೇಶ (Substitution):** P = \\frac{(12)^2}{4}\n*   **ಲೆಕ್ಕಾಚಾರ (Calculation):** P = \\frac{144}{4} = 36 W",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ (Given): V = 12 V, R = 4 Ω",
+    "ಸೂತ್ರ (Formula): P = \\frac{V^2}{R}",
+    "ಆದೇಶ (Substitution): P = \\frac{(12)^2}{4}",
+    "ಲೆಕ್ಕಾಚಾರ (Calculation): P = \\frac{144}{4} = 36 W"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "P = \\frac{V^2}{R} = \\frac{(12)^2}{4} = \\frac{144}{4} = 36 \\text{ W}",
+    "placeholder_note": "Worked example for P = V^2/R"
+  },
+  "chunk_id": "std_10_chapter_11_concept_8_chunk_021"
+}

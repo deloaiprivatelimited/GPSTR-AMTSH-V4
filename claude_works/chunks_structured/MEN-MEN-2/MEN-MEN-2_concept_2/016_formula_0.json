@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಯತ ಘನದ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ",
+  "script": "ಈಗ ನಾವು ಆಯತ ಘನದ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಆಯತ ಘನ, ಅಂದರೆ ಕ್ಯೂಬಾಯ್ಡ್, ಒಂದು ತ್ರಿವಿಮತೀಯ ಅಥವಾ 3D ಆಕೃತಿಯಾಗಿದೆ, ಉದಾಹರಣೆಗೆ ಒಂದು ಇಟ್ಟಿಗೆ ಅಥವಾ ಪುಸ್ತಕ. ನೀವು ಗಮನಿಸುವಂತೆ, ಆಯತ ಘನವು ಆರು ಆಯತಾಕಾರದ ಮುಖಗಳನ್ನು ಹೊಂದಿದೆ. ಒಂದು ವಸ್ತುವಿನ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದೆಂದರೆ, ಅದರ ಎಲ್ಲಾ ಆರು ಮುಖಗಳ ವಿಸ್ತೀರ್ಣಗಳನ್ನು ಕೂಡಿಸಿ ಬರುವ ಒಟ್ಟು ಮೊತ್ತವನ್ನು ಲೆಕ್ಕ ಮಾಡುವುದು. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಆಯತ ಘನದ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರವನ್ನು ನೋಡಬಹುದು, ಇವುಗಳನ್ನು ಬಳಸಿ ನಾವು ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕ ಹಾಕುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ನಾವು ಆಯತ ಘನದ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಆಯತ ಘನ (Cuboid), ಒಂದು ತ್ರಿವಿಮತೀಯ (3D) ಆಕೃತಿಯಾಗಿದೆ, ಉದಾಹರಣೆಗೆ ಒಂದು ಇಟ್ಟಿಗೆ ಅಥವಾ ಪುಸ್ತಕ. ನೀವು ಗಮನಿಸುವಂತೆ, ಆಯತ ಘನವು 6 ಆಯತಾಕಾರದ ಮುಖಗಳನ್ನು ಹೊಂದಿದೆ. ಒಂದು ವಸ್ತುವಿನ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದೆಂದರೆ, ಅದರ ಎಲ್ಲಾ 6 ಮುಖಗಳ ವಿಸ್ತೀರ್ಣಗಳನ್ನು ಕೂಡಿಸಿ ಬರುವ ಒಟ್ಟು ಮೊತ್ತವನ್ನು ಲೆಕ್ಕ ಮಾಡುವುದು. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಆಯತ ಘನದ ಉದ್ದ ($l$), ಅಗಲ ($b$) ಮತ್ತು ಎತ್ತರವನ್ನು ($h$) ನೋಡಬಹುದು, ಇವುಗಳನ್ನು ಬಳಸಿ ನಾವು ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕ ಹಾಕುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಆಯತ ಘನವು ತ್ರಿವಿಮತೀಯ (3D) ಆಕೃತಿಯಾಗಿದ್ದು, 6 ಆಯತಾಕಾರದ ಮುಖಗಳನ್ನು ಹೊಂದಿದೆ.",
+    "ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವೆಂದರೆ ಅದರ ಎಲ್ಲಾ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಒಟ್ಟು ಮೊತ್ತ.",
+    "ಇದನ್ನು ಲೆಕ್ಕಹಾಕಲು ನಮಗೆ ಉದ್ದ ($l$), ಅಗಲ ($b$), ಮತ್ತು ಎತ್ತರ ($h$) ಬೇಕು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 3D cuboid with its dimensions clearly labeled. Length 'l' is the longest horizontal edge. Breadth 'b' is the edge going into the page (depth). Height 'h' is the vertical edge.",
+    "labels": "l, b, h",
+    "mathematical_significance": "This visual introduces the geometric solid and its fundamental dimensions (length, breadth, height) which are the variables in the surface area formula.",
+    "placeholder_note": "Image of a cuboid with l, b, h labeled."
+  },
+  "chunk_id": "MEN-MEN-2_concept_2_chunk_016"
+}

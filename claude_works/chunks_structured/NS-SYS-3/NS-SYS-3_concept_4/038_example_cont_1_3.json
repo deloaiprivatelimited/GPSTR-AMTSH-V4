@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಕೊಟ್ಟಿರುವ ಪದಗಳ ಮೊತ್ತ ಮೂರು ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಎರಡು ಪ್ಲಸ್ ಎರಡು ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಮೂರು. ಇದೇ ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ. ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ನೆನಪಿಡಿ: ಸಜಾತೀಯ ಕರಣಿಗಳನ್ನು ಮಾತ್ರ ಕೂಡಿಸಬಹುದು ಅಥವಾ ಕಳೆಯಬಹುದು. ಇಲ್ಲಿ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಎರಡು ಮತ್ತು ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಮೂರು ವಿಜಾತೀಯ ಕರಣಿಗಳಾಗಿರುವುದರಿಂದ, ಇವುಗಳನ್ನು ಮತ್ತಷ್ಟು ಸಂಕ್ಷೇಪಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಕೊಟ್ಟಿರುವ ಪದಗಳ ಮೊತ್ತ $3\\sqrt{2} + 2\\sqrt{3}$. ಇದೇ ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ. ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ನೆನಪಿಡಿ: ಸಜಾತೀಯ ಕರಣಿಗಳನ್ನು (like surds) ಮಾತ್ರ ಕೂಡಿಸಬಹುದು ಅಥವಾ ಕಳೆಯಬಹುದು. ಇಲ್ಲಿ $\\sqrt{2}$ ಮತ್ತು $\\sqrt{3}$ ವಿಜಾತೀಯ ಕರಣಿಗಳಾಗಿರುವುದರಿಂದ (unlike surds), ಇವುಗಳನ್ನು ಮತ್ತಷ್ಟು ಸಂಕ್ಷೇಪಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $3\\sqrt{2} + 2\\sqrt{3}$",
+    "ಪ್ರಮುಖ ಅಂಶ: ಸಜಾತೀಯ ಕರಣಿಗಳನ್ನು (like surds) ಮಾತ್ರ ಕೂಡಿಸಬಹುದು ಅಥವಾ ಕಳೆಯಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "NS-SYS-3_example_12",
+  "final_answer": "$3\\sqrt{2} + 2\\sqrt{3}$",
+  "final_answer_display": "$3\\sqrt{2} + 2\\sqrt{3}$",
+  "chunk_id": "NS-SYS-3_concept_4_chunk_038"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, D ಮತ್ತು E ಗಳು ಕ್ರಮವಾಗಿ AB ಮತ್ತು BC ಯ ಮಧ್ಯಬಿಂದುಗಳಾಗಿವೆ. ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ಪ್ರಕಾರ, DE ಯು AC ಗೆ ಸಮಾಂತರವಾಗಿರುತ್ತದೆ ಮತ್ತು DE ಯು AC ಯ ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ. ಅಂದರೆ, DE ಪ್ಯಾರಲಲ್ AC ಮತ್ತು DE ಈಕ್ವಲ್ಸ್ ಹಾಫ್ AC. ಇದೇ ರೀತಿ, E ಮತ್ತು F ಗಳು BC ಮತ್ತು CA ಯ ಮಧ್ಯಬಿಂದುಗಳಾಗಿರುವುದರಿಂದ, EF ಪ್ಯಾರಲಲ್ AB ಮತ್ತು EF ಈಕ್ವಲ್ಸ್ ಹಾಫ್ AB. ಹಾಗೆಯೇ, D ಮತ್ತು F ಗಳು AB ಮತ್ತು CA ಯ ಮಧ್ಯಬಿಂದುಗಳಾಗಿರುವುದರಿಂದ, DF ಪ್ಯಾರಲಲ್ BC ಮತ್ತು DF ಈಕ್ವಲ್ಸ್ ಹಾಫ್ BC.",
+  "script_display": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, $∆ ABC$ ಯಲ್ಲಿ, D ಮತ್ತು E ಗಳು ಕ್ರಮವಾಗಿ AB ಮತ್ತು BC ಯ ಮಧ್ಯಬಿಂದುಗಳಾಗಿವೆ. ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ಪ್ರಕಾರ, DE ಯು AC ಗೆ ಸಮಾಂತರವಾಗಿರುತ್ತದೆ ಮತ್ತು DE ಯು AC ಯ ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ. ಇದೇ ರೀತಿ, ಇತರ ಬಾಹುಗಳಿಗೂ ಈ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-QUAD-2_example_6",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$DE \\parallel AC$ ಮತ್ತು $DE = \\frac{1}{2} AC$",
+      "justification": "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯ (D, E ಗಳು AB, BC ಯ ಮಧ್ಯಬಿಂದುಗಳು)."
+    },
+    {
+      "step": 2,
+      "action_display": "$EF \\parallel AB$ ಮತ್ತು $EF = \\frac{1}{2} AB$",
+      "justification": "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯ (E, F ಗಳು BC, CA ಯ ಮಧ್ಯಬಿಂದುಗಳು)."
+    },
+    {
+      "step": 3,
+      "action_display": "$DF \\parallel BC$ ಮತ್ತು $DF = \\frac{1}{2} BC$",
+      "justification": "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯ (D, F ಗಳು AB, CA ಯ ಮಧ್ಯಬಿಂದುಗಳು)."
+    }
+  ],
+  "chunk_id": "GEO-QUAD-2_concept_5_chunk_009"
+}

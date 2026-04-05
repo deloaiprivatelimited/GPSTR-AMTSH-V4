@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತಗಳು 3-4",
+  "script": "ಮುಂದಿನ ಹಂತ, ಮೂರನೆಯದು, ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು. ಸೂತ್ರದಲ್ಲಿ ಬೆಲೆಗಳನ್ನು ಹಾಕೋಣ. ಡಬ್ಲ್ಯೂ ಈಕ್ವಲ್ಸ್ ಐದು ನ್ಯೂಟನ್ ಗುಣಿಸು ಎರಡು ಮೀಟರ್. ಇದು ನಮಗೆ ಹತ್ತು ನ್ಯೂಟನ್ ಮೀಟರ್ ಕೊಡುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತ, ಏಕಮಾನವನ್ನು ಪರಿವರ್ತಿಸುವುದು. ಒಂದು ನ್ಯೂಟನ್ ಮೀಟರ್, ಒಂದು ಜೂಲ್ ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಡೆದ ಕೆಲಸ ಹತ್ತು ಜೂಲ್ ಆಗಿದೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತ, ಮೂರನೆಯದು, ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು. ಸೂತ್ರದಲ್ಲಿ ಬೆಲೆಗಳನ್ನು ಹಾಕೋಣ: W = 5 N × 2 m. ಇದು ನಮಗೆ 10 Nm ಕೊಡುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತ, ಏಕಮಾನವನ್ನು ಪರಿವರ್ತಿಸುವುದು. 1 ನ್ಯೂಟನ್-ಮೀಟರ್ (Nm) = 1 ಜೂಲ್ (J). ಆದ್ದರಿಂದ, ನಡೆದ ಕೆಲಸ 10 J ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಹಂತ 3: ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.\nW = 5 N × 2 m = 10 Nm",
+    "ಹಂತ 4: ಏಕಮಾನವನ್ನು ಪರಿವರ್ತಿಸುವುದು.\n1 Nm = 1 J, ಆದ್ದರಿಂದ W = 10 J"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_10_example_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು: W = 5 N × 2 m = 10 Nm",
+      "justification": "ಗುಣಲಬ್ಧವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "ಏಕಮಾನವನ್ನು ಪರಿವರ್ತಿಸುವುದು: W = 10 J",
+      "justification": "ನ್ಯೂಟನ್-ಮೀಟರ್ (Nm) ಎನ್ನುವುದು ಜೂಲ್ (J) ಗೆ ಸಮ."
+    }
+  ],
+  "chunk_id": "std_9_chapter_10_concept_2_chunk_016"
+}

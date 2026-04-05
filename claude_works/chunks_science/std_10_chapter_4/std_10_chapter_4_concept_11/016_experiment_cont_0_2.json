@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+  "script": "ಈಗ ಪ್ರಯೋಗದ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ನಾವು ಎರಡು ಪ್ರತ್ಯೇಕ ಪ್ರನಾಳಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಅವುಗಳಿಗೆ 'ಎ' ಮತ್ತು 'ಬಿ' ಎಂದು ಗುರುತಿಸಬೇಕು. ನಂತರ, ಪ್ರನಾಳ 'ಎ' ಗೆ ಸುಮಾರು ಹತ್ತು ಮಿಲಿ ಲೀಟರ್ ಆಸವಿತ ನೀರನ್ನು, ಅಂದರೆ ಮೃದು ನೀರನ್ನು ಸೇರಿಸಿ. ಅದೇ ರೀತಿ, ಪ್ರನಾಳ 'ಬಿ' ಗೆ ಅಷ್ಟೇ ಪ್ರಮಾಣದ, ಅಂದರೆ ಹತ್ತು ಮಿಲಿ ಲೀಟರ್ ಕೊಳವೆ ಬಾವಿಯ ನೀರನ್ನು, ಅಂದರೆ ಗಡಸು ನೀರನ್ನು ಸೇರಿಸಿ. ಈಗ ನಮ್ಮ ಎರಡೂ ಪ್ರನಾಳಗಳಲ್ಲಿ ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾದ ಬೇರೆ ಬೇರೆ ವಿಧದ ನೀರು ಸಿದ್ಧವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗದ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ನಾವು ಎರಡು ಪ್ರತ್ಯೇಕ ಪ್ರನಾಳಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಅವುಗಳಿಗೆ 'A' ಮತ್ತು 'B' ಎಂದು ಗುರುತಿಸಬೇಕು. ನಂತರ, ಪ್ರನಾಳ 'A' ಗೆ ಸುಮಾರು 10 mL ಆಸವಿತ ನೀರನ್ನು (ಮೃದು ನೀರು) ಸೇರಿಸಿ. ಅದೇ ರೀತಿ, ಪ್ರನಾಳ 'B' ಗೆ ಅಷ್ಟೇ ಪ್ರಮಾಣದ, ಅಂದರೆ 10 mL ಕೊಳವೆ ಬಾವಿಯ ನೀರನ್ನು (ಗಡಸು ನೀರು) ಸೇರಿಸಿ. ಈಗ ನಮ್ಮ ಎರಡೂ ಪ್ರನಾಳಗಳಲ್ಲಿ ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾದ ಬೇರೆ ಬೇರೆ ವಿಧದ ನೀರು ಸಿದ್ಧವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಎರಡು ಪ್ರನಾಳಗಳನ್ನು ತೆಗೆದುಕೊಂಡು 'A' ಮತ್ತು 'B' ಎಂದು ಗುರುತಿಸಿ.",
+    "ಪ್ರನಾಳ 'A' ಗೆ 10 mL ಆಸವಿತ ನೀರನ್ನು (ಮೃದು ನೀರು) ಸೇರಿಸಿ.",
+    "ಪ್ರನಾಳ 'B' ಗೆ 10 mL ಕೊಳವೆ ಬಾವಿ ನೀರನ್ನು (ಗಡಸು ನೀರು) ಸೇರಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_3",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing two labeled test tubes. Test tube 'A' is being filled with distilled water from a beaker. Test tube 'B' is being filled with borewell water from another beaker.",
+    "labels": "ಪ್ರನಾಳ A (ಮೃದು ನೀರು), ಪ್ರನಾಳ B (ಗಡಸು ನೀರು)",
+    "scientific_significance": "Visual representation of the initial step of the experiment, preparing the water samples.",
+    "placeholder_note": "Image to be generated."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_4_concept_11_chunk_016"
+}

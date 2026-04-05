@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಫಲಿತಗಳಿಗೆ ಉದಾಹರಣೆಗಳು",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಸಾಮಾನ್ಯ ಪ್ರಯೋಗವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ - ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು. ಒಂದು ಸಾಮಾನ್ಯ ದಾಳಕ್ಕೆ ಆರು ಮುಖಗಳಿರುತ್ತವೆ, ಮತ್ತು ಪ್ರತಿ ಮುಖದ ಮೇಲೆ ಒಂದರಿಂದ ಆರರವರೆಗಿನ ಸಂಖ್ಯೆಗಳಿರುತ್ತವೆ. ನೀವು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು ನಮ್ಮ ಪ್ರಯೋಗ. ಈ ಪ್ರಯೋಗದ ಸಂಭವನೀಯ ಫಲಿತಗಳು ಯಾವುವು? ಒಂದು, ಎರಡು, ಮೂರು, ನಾಲ್ಕು, ಐದು, ಅಥವಾ ಆರು. ಈ ಪ್ರತಿಯೊಂದು ಸಾಧ್ಯತೆಯೂ ಒಂದೊಂದು ಫಲಿತ. ಉದಾಹರಣೆಗೆ, ದಾಳ ಉರುಳಿಸಿದಾಗ 'ಮೂರು' ಬರುವುದು ಒಂದು ಫಲಿತ. ಹಾಗೆಯೇ, 'ಐದು' ಬರುವುದು ಮತ್ತೊಂದು ಫಲಿತ. ಒಟ್ಟಾರೆಯಾಗಿ ಈ ಪ್ರಯೋಗಕ್ಕೆ ಆರು ಸಂಭವನೀಯ ಫಲಿತಗಳಿವೆ.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಸಾಮಾನ್ಯ ಪ್ರಯೋಗವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ - ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು. ಒಂದು ಸಾಮಾನ್ಯ ದಾಳಕ್ಕೆ ಆರು ಮುಖಗಳಿರುತ್ತವೆ, ಮತ್ತು ಪ್ರತಿ ಮುಖದ ಮೇಲೆ 1 ರಿಂದ 6 ರವರೆಗಿನ ಸಂಖ್ಯೆಗಳಿರುತ್ತವೆ. ನೀವು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು ನಮ್ಮ ಪ್ರಯೋಗ. ಈ ಪ್ರಯೋಗದ ಸಂಭವನೀಯ ಫಲಿತಗಳು ಯಾವುವು? 1, 2, 3, 4, 5, ಅಥವಾ 6. ಈ ಪ್ರತಿಯೊಂದು ಸಾಧ್ಯತೆಯೂ ಒಂದೊಂದು ಫಲಿತ. ಉದಾಹರಣೆಗೆ, ದಾಳ ಉರುಳಿಸಿದಾಗ '3' ಬರುವುದು ಒಂದು ಫಲಿತ. ಹಾಗೆಯೇ, '5' ಬರುವುದು ಮತ್ತೊಂದು ಫಲಿತ. ಒಟ್ಟಾರೆಯಾಗಿ ಈ ಪ್ರಯೋಗಕ್ಕೆ ಆರು ಸಂಭವನೀಯ ಫಲಿತಗಳಿವೆ.",
+  "display_bullets": [
+    "ಪ್ರಯೋಗ: ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು.",
+    "ಸಂಭವನೀಯ ಫಲಿತಗಳು: 1, 2, 3, 4, 5, ಅಥವಾ 6.",
+    "ಇಲ್ಲಿ, '3' ಬರುವುದು ಒಂದು ಫಲಿತ.",
+    "'5' ಬರುವುದು ಮತ್ತೊಂದು ಫಲಿತ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "classic_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A standard six-sided die, showing the faces with 1, 2, and 3 dots clearly visible. The die should look clean and simple.",
+    "labels": "ದಾಳ, ಫಲಿತಗಳು",
+    "mathematical_significance": "Illustrates the set of all possible outcomes for the experiment of rolling a die.",
+    "placeholder_note": "Image of a single, standard six-sided die."
+  },
+  "chunk_id": "PROB-BAS-1_concept_1_chunk_006"
+}

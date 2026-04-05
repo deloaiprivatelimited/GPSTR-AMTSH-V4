@@ -1,0 +1,169 @@
+{
+  "module_id": "std_6_chapter_6_concept_3",
+  "chapter_code": "std_6_chapter_6",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 14,
+  "ok_count": 14,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:02:36",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "a445d84bdbd989aaa75aabeb15e38aab",
+      "wav_file": "001_intro_0.wav",
+      "duration": 16.051,
+      "slide_title": "ಸಾಮಗ್ರಿಗಳ ಭೌತಿಕ ಗುಣಗಳು: ಪಾರದರ್ಶಕತೆ",
+      "type": "chunk",
+      "script_words": 22,
+      "generated_at": "2026-04-02 13:00:16"
+    },
+    "003_intro_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "9a1395869fc1f73ed5fc37ba811669f1",
+      "wav_file": "003_intro_cont_0_2.wav",
+      "duration": 27.931,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 41,
+      "generated_at": "2026-04-02 13:00:20"
+    },
+    "004_classification_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "852b866e17e1fac2481ca1312bf0d8d6",
+      "wav_file": "004_classification_0.wav",
+      "duration": 36.531,
+      "slide_title": "ಪಾರದರ್ಶಕತೆಯ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "script_words": 46,
+      "generated_at": "2026-04-02 13:00:34"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "d54ca69576d6769bb815f0801e504254",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 49.051,
+      "slide_title": "ಪಾರದರ್ಶಕತೆ: ನಾವು ಏಕೆ ಕಲಿಯಬೇಕು?",
+      "type": "chunk",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:00:35"
+    },
+    "005_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "82b714ce18191ed1e29c4fcd064d9d0a",
+      "wav_file": "005_classification_cont_0_1.wav",
+      "duration": 30.691,
+      "slide_title": "ಪಾರದರ್ಶಕ ವಸ್ತುಗಳು (Transparent Materials)",
+      "type": "concept_explanation",
+      "script_words": 38,
+      "generated_at": "2026-04-02 13:00:47"
+    },
+    "006_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "6be6cd2869258c2ef722363eef3c7b1e",
+      "wav_file": "006_classification_cont_0_2.wav",
+      "duration": 36.571,
+      "slide_title": "ಅಪಾರದರ್ಶಕ ವಸ್ತುಗಳು (Opaque Materials)",
+      "type": "concept_explanation",
+      "script_words": 44,
+      "generated_at": "2026-04-02 13:01:23"
+    },
+    "007_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "0afd546c1229b04abeec036f52ed9340",
+      "wav_file": "007_classification_cont_0_3.wav",
+      "duration": 39.611,
+      "slide_title": "ಅರೆಪಾರದರ್ಶಕ ವಸ್ತುಗಳು (Translucent Materials)",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:01:25"
+    },
+    "008_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "f4c89138d368e681d4e54b56c1f08da1",
+      "wav_file": "008_classification_cont_0_4.wav",
+      "duration": 33.331,
+      "slide_title": "ಚಟುವಟಿಕೆ: ವಸ್ತುಗಳನ್ನು ವರ್ಗೀಕರಿಸಿ",
+      "type": "concept_explanation",
+      "script_words": 43,
+      "generated_at": "2026-04-02 13:01:26"
+    },
+    "009_experiment_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "c388788ea4524c995899c2986a200cc8",
+      "wav_file": "009_experiment_0.wav",
+      "duration": 41.371,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಸಾಮಗ್ರಿಗಳ ಪಾರದರ್ಶಕತೆ ಪರೀಕ್ಷೆ",
+      "type": "experiment_activity",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:01:29"
+    },
+    "010_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "f9e0958ef3e3eca97fb42fcceafd7544",
+      "wav_file": "010_experiment_cont_0_1.wav",
+      "duration": 38.771,
+      "slide_title": "ಹಂತ 1: ಗಾಜಿನ ಹಾಳೆಯ ಪರೀಕ್ಷೆ",
+      "type": "experiment_activity",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:01:55"
+    },
+    "011_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "c528c20d0cd69004b00c486b354d515c",
+      "wav_file": "011_experiment_cont_0_2.wav",
+      "duration": 32.651,
+      "slide_title": "ಹಂತ 2: ಮರದ ಹಲಗೆಯ ಪರೀಕ್ಷೆ",
+      "type": "experiment_activity",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:02:21"
+    },
+    "012_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "1964e550f74948c8a71efcf3d9e30372",
+      "wav_file": "012_experiment_cont_0_3.wav",
+      "duration": 33.651,
+      "slide_title": "ಹಂತ 3: ಟ್ರೇಸಿಂಗ್ ಕಾಗದದ ಪರೀಕ್ಷೆ",
+      "type": "experiment_activity",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:02:24"
+    },
+    "014_recap_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "1080ad62a79ae5195ffcbb9bbc1073d9",
+      "wav_file": "014_recap_0.wav",
+      "duration": 37.171,
+      "slide_title": "ಸಾರಾಂಶ: ಸಾಮಗ್ರಿಗಳ ಪಾರದರ್ಶಕತೆ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:02:26"
+    },
+    "013_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "c9e40e49883b4750f6703097591e3b2a",
+      "wav_file": "013_experiment_cont_0_4.wav",
+      "duration": 42.691,
+      "slide_title": "ಚಟುವಟಿಕೆಯ ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "script_words": 57,
+      "generated_at": "2026-04-02 13:02:36"
+    }
+  }
+}

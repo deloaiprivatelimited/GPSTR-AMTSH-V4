@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು",
+  "script": "ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತ, ಅಳತೆಪಟ್ಟಿಯ ಮೇಲೆ ಕೈವಾರವನ್ನು ಇರಿಸಿ. ಕೈವಾರದ ಲೋಹದ ತುದಿಯನ್ನು ಅಳತೆಪಟ್ಟಿಯ ಸೊನ್ನೆ ಸೆಂಟಿಮೀಟರ್ ಗುರುತಿನ ಮೇಲೆ ಇರಿಸಿ. ಎರಡನೇ ಹಂತ, ಕೈವಾರವನ್ನು ಬೇಕಾದ ಅಳತೆಗೆ ತೆರೆಯಿರಿ. ಪೆನ್ಸಿಲ್ ತುದಿಯನ್ನು ಅಳತೆಪಟ್ಟಿಯ ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ಗುರುತಿಗೆ ಸರಿಹೊಂದುವಂತೆ ಕೈವಾರವನ್ನು ಹಿಗ್ಗಿಸಿ. ಈಗ ಕೈವಾರದ ಎರಡು ತುದಿಗಳ ನಡುವಿನ ಅಂತರವು ನಿಖರವಾಗಿ ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಇದು ನಮ್ಮ ವೃತ್ತದ ತ್ರಿಜ್ಯವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತ, ಅಳತೆಪಟ್ಟಿಯ ಮೇಲೆ ಕೈವಾರವನ್ನು ಇರಿಸಿ. ಕೈವಾರದ ಲೋಹದ ತುದಿಯನ್ನು ಅಳತೆಪಟ್ಟಿಯ '0' cm ಗುರುತಿನ ಮೇಲೆ ಇರಿಸಿ. ಎರಡನೇ ಹಂತ, ಕೈವಾರವನ್ನು ಬೇಕಾದ ಅಳತೆಗೆ ತೆರೆಯಿರಿ. ಪೆನ್ಸಿಲ್ ತುದಿಯನ್ನು ಅಳತೆಪಟ್ಟಿಯ '4' cm ಗುರುತಿಗೆ ಸರಿಹೊಂದುವಂತೆ ಕೈವಾರವನ್ನು ಹಿಗ್ಗಿಸಿ. ಈಗ ಕೈವಾರದ ಎರಡು ತುದಿಗಳ ನಡುವಿನ ಅಂತರವು ನಿಖರವಾಗಿ 4 cm ಆಗಿದೆ. ಇದು ನಮ್ಮ ವೃತ್ತದ ತ್ರಿಜ್ಯವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-panel image. Left panel shows a compass's metal tip being placed on the '0' mark of a ruler. Right panel shows the compass being opened, with the pencil tip reaching the '4 cm' mark on the ruler.",
+    "labels": "ಹಂತ 1, ಹಂತ 2, 0 cm, 4 cm",
+    "mathematical_significance": "Visually demonstrates the crucial first steps of setting the compass to the correct radius using a ruler, which is a fundamental skill in geometric constructions.",
+    "placeholder_note": "Image showing how to measure 4 cm using a ruler and compass."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "VIS-CON-1_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಹಂತ 1: ಅಳತೆಪಟ್ಟಿಯ ಮೇಲೆ ಕೈವಾರದ ಲೋಹದ ತುದಿಯನ್ನು '0' cm ಗುರುತಿನ ಮೇಲೆ ಇರಿಸಿ.",
+      "justification": "ತ್ರಿಜ್ಯವನ್ನು ನಿಖರವಾಗಿ ಅಳೆಯಲು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಹಂತ 2: ಪೆನ್ಸಿಲ್ ತುದಿಯನ್ನು '4' cm ಗುರುತಿಗೆ ಸರಿಹೊಂದುವಂತೆ ಕೈವಾರವನ್ನು ಹಿಗ್ಗಿಸಿ.",
+      "justification": "ಕೈವಾರದ ಅಂತರವನ್ನು 4 cm ತ್ರಿಜ್ಯಕ್ಕೆ ಹೊಂದಿಸಲು."
+    }
+  ],
+  "chunk_id": "VIS-CON-1_concept_1_chunk_019"
+}

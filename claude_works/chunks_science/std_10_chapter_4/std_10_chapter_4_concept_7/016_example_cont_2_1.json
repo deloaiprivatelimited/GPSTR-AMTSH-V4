@@ -1,0 +1,51 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1 ಮತ್ತು 2: ಮೂಲ ಪದ ಮತ್ತು ಬಂಧವನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ಹೆಸರಿಸುವಿಕೆಯ ಮೊದಲನೇ ಹಂತ, ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸುವುದು. ಇಲ್ಲಿ, ಸರಪಳಿಯಲ್ಲಿ ಒಟ್ಟು ಮೂರು ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳಿವೆ. ಸಿ ಓ ಓ ಎಚ್ ಗುಂಪಿನಲ್ಲಿರುವ ಕಾರ್ಬನ್ ಅನ್ನೂ ಸೇರಿಸಬೇಕು. ಮೂರು ಕಾರ್ಬನ್ ಇರುವುದರಿಂದ, ಮೂಲ ಪದ 'ಪ್ರೋಪ್' ಆಗುತ್ತದೆ. ಎರಡನೇ ಹಂತ, ಬಂಧದ ವಿಧವನ್ನು ಗುರುತಿಸುವುದು. ಕಾರ್ಬನ್-ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳ ನಡುವೆ ಏಕಬಂಧಗಳಿವೆ. ಆದ್ದರಿಂದ, ಪ್ರಾಥಮಿಕ ಪ್ರತ್ಯಯ 'ಏನ್' ಆಗುತ್ತದೆ. ಇವೆರಡನ್ನೂ ಸೇರಿಸಿದಾಗ, ನಮಗೆ 'ಪ್ರೋಪೇನ್' ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಹೆಸರಿಸುವಿಕೆಯ ಮೊದಲನೇ ಹಂತ, ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸುವುದು. ಇಲ್ಲಿ, ಸರಪಳಿಯಲ್ಲಿ ಒಟ್ಟು 3 ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳಿವೆ (COOH ನಲ್ಲಿನ C ಸೇರಿ). 3 ಕಾರ್ಬನ್ ಇರುವುದರಿಂದ, ಮೂಲ ಪದ 'ಪ್ರೋಪ್' (Prop) ಆಗುತ್ತದೆ. ಎರಡನೇ ಹಂತ, ಬಂಧದ ವಿಧವನ್ನು ಗುರುತಿಸುವುದು. ಕಾರ್ಬನ್-ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳ ನಡುವೆ ಏಕಬಂಧಗಳಿವೆ. ಆದ್ದರಿಂದ, ಪ್ರಾಥಮಿಕ ಪ್ರತ್ಯಯ '-ಏನ್' (-ane) ಆಗುತ್ತದೆ. ಇವೆರಡನ್ನೂ ಸೇರಿಸಿದಾಗ, ನಮಗೆ 'ಪ್ರೋಪೇನ್' (Propane) ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "**ಹಂತ 1:** ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸಿ. ಸರಪಳಿಯಲ್ಲಿ 3 ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳಿವೆ. ಮೂಲ ಪದ: **ಪ್ರೋಪ್ (Prop)**.",
+    "**ಹಂತ 2:** ಬಂಧದ ವಿಧವನ್ನು ಗುರುತಿಸಿ. ಕಾರ್ಬನ್-ಕಾರ್ಬನ್ ನಡುವೆ ಏಕಬಂಧಗಳಿವೆ. ಪ್ರಾಥಮಿಕ ಪ್ರತ್ಯಯ: **-ಏನ್ (-ane)**.",
+    "ಹೆಸರು ಇಲ್ಲಿಯವರೆಗೆ: **ಪ್ರೋಪೇನ್ (Propane)**"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "chemistry_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The structure of propanoic acid with the three carbon atoms in the main chain highlighted and numbered 1, 2, 3 from right to left, starting with the carboxyl carbon.",
+    "labels": "ಕಾರ್ಬನ್ 1, ಕಾರ್ಬನ್ 2, ಕಾರ್ಬನ್ 3",
+    "scientific_significance": "Illustrates the first step of IUPAC naming: identifying the longest carbon chain.",
+    "placeholder_note": "Image to be generated showing CH3-CH2-COOH with the 3 carbons highlighted."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_10_chapter_4_we_4",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸಿ.",
+      "justification": "ಸರಪಳಿಯಲ್ಲಿ 3 ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳಿವೆ (COOH ನಲ್ಲಿನ C ಸೇರಿ). ಮೂಲ ಪದ: ಪ್ರೋಪ್ (Prop)"
+    },
+    {
+      "step": 2,
+      "action_display": "ಬಂಧದ ವಿಧವನ್ನು ಗುರುತಿಸಿ.",
+      "justification": "ಕಾರ್ಬನ್-ಕಾರ್ಬನ್ ನಡುವೆ ಏಕಬಂಧಗಳಿವೆ. ಪ್ರಾಥಮಿಕ ಪ್ರತ್ಯಯ: -ಏನ್ (ane). ಹೆಸರು: ಪ್ರೋಪೇನ್ (Propane)."
+    }
+  ],
+  "chunk_id": "std_10_chapter_4_concept_7_chunk_016"
+}

@@ -1,0 +1,44 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ತರಂಗದ ಜವದ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ ಎರಡನೇ ಹಂತ. ನಾವು ತರಂಗದ ಜವವನ್ನು, ಅಂದರೆ ವಿ ಯನ್ನು, ಕಂಡುಹಿಡಿಯೋಣ. ಇದಕ್ಕಾಗಿ ನಾವು ತರಂಗ ಸಮೀಕರಣ ವಿ ಈಕ್ವಲ್ಸ್ ಲ್ಯಾಮ್ಡಾ ಇಂಟು ನ್ಯೂ ಅನ್ನು ಬಳಸುತ್ತೇವೆ. ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಲ್ಯಾಮ್ಡಾ 0.35 ಮೀಟರ್ ಮತ್ತು ನ್ಯೂ 2000 ಹರ್ಟ್ಝ್ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಈ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, ವಿ ಈಕ್ವಲ್ಸ್ 0.35 ಗುಣಿಸು 2000, ಇದು ನಮಗೆ 700 ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಎಂದು ಉತ್ತರ ಕೊಡುತ್ತದೆ. ಇದು ಶಬ್ದ ತರಂಗದ ಜವ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಹಂತ. ನಾವು ತರಂಗದ ಜವವನ್ನು (V) ಕಂಡುಹಿಡಿಯೋಣ. ಇದಕ್ಕಾಗಿ ನಾವು ತರಂಗ ಸಮೀಕರಣ V = λν ಅನ್ನು ಬಳಸುತ್ತೇವೆ. ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು λ = 0.35 m ಮತ್ತು ν = 2000 Hz ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಈ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, V = 0.35 × 2000 = 700 m/s. ಇದು ಶಬ್ದ ತರಂಗದ ಜವ.",
+  "display_bullets": [
+    "**ಹಂತ 2: ತರಂಗದ ಜವವನ್ನು (V) ಕಂಡುಹಿಡಿಯುವುದು.**",
+    "ಬಳಸುವ ಸೂತ್ರ: ತರಂಗದ ಜವ = ತರಂಗದೂರ × ಆವೃತ್ತಿ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "V = \\lambda \\nu \\\\ \\space \\\\ V = 0.35 \\text{ m} \\times 2000 \\text{ Hz} \\\\ \\space \\\\ V = 700 \\text{ m/s}",
+    "placeholder_note": "Formula box showing the calculation for speed (V)"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_11_example_1",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ತರಂಗದ ಜವವನ್ನು (V) ಕಂಡುಹಿಡಿಯುವುದು.",
+      "justification": "ತರಂಗ ಸಮೀಕರಣ V = λν ಬಳಸಿ ಜವವನ್ನು ಲೆಕ್ಕ ಹಾಕಬಹುದು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_11_concept_4_chunk_009"
+}

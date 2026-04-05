@@ -1,0 +1,57 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು",
+  "script": "ಮೊದಲು, ರಚನೆಯ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ರೇಖಾಖಂಡ AB ಯನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು. ಎರಡನೇ ಹಂತ, ಯೂಕ್ಲಿಡ್‌ನ ಮೂರನೇ ಆಧಾರ ಪ್ರತಿಜ್ಞೆಯ ಪ್ರಕಾರ, A ಯನ್ನು ಕೇಂದ್ರವಾಗಿ ಮತ್ತು AB ಯನ್ನು ತ್ರಿಜ್ಯವಾಗಿಟ್ಟುಕೊಂಡು ಒಂದು ವೃತ್ತವನ್ನು ಎಳೆಯುತ್ತೇವೆ. ಮೂರನೇ ಹಂತ, ಇದೇ ರೀತಿ, B ಯನ್ನು ಕೇಂದ್ರವಾಗಿ ಮತ್ತು BA ಯನ್ನು ತ್ರಿಜ್ಯವಾಗಿಟ್ಟುಕೊಂಡು ಇನ್ನೊಂದು ವೃತ್ತವನ್ನು ಎಳೆಯುತ್ತೇವೆ. ನಾಲ್ಕನೇ ಹಂತ, ಈ ಎರಡು ವೃತ್ತಗಳು ಸಂಧಿಸುವ ಬಿಂದುವನ್ನು C ಎಂದು ಗುರುತಿಸಿ. ನಂತರ, ಯೂಕ್ಲಿಡ್‌ನ ಮೊದಲನೇ ಆಧಾರ ಪ್ರತಿಜ್ಞೆಯ ಪ್ರಕಾರ, A ಯಿಂದ C ಗೆ ಮತ್ತು B ಯಿಂದ C ಗೆ ರೇಖಾಖಂಡಗಳನ್ನು ಎಳೆಯುತ್ತೇವೆ. ಈಗ ನಮಗೆ ತ್ರಿಭುಜ ABC ಸಿಕ್ಕಿದೆ.",
+  "script_display": "ಮೊದಲು, ರಚನೆಯ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ರೇಖಾಖಂಡ $AB$ ಯನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು. ಎರಡನೇ ಹಂತ, ಯೂಕ್ಲಿಡ್‌ನ ಮೂರನೇ ಆಧಾರ ಪ್ರತಿಜ್ಞೆಯ ಪ್ರಕಾರ, $A$ ಯನ್ನು ಕೇಂದ್ರವಾಗಿ ಮತ್ತು $AB$ ಯನ್ನು ತ್ರಿಜ್ಯವಾಗಿಟ್ಟುಕೊಂಡು ಒಂದು ವೃತ್ತವನ್ನು ಎಳೆಯುತ್ತೇವೆ. ಮೂರನೇ ಹಂತ, ಇದೇ ರೀತಿ, $B$ ಯನ್ನು ಕೇಂದ್ರವಾಗಿ ಮತ್ತು $BA$ ಯನ್ನು ತ್ರಿಜ್ಯವಾಗಿಟ್ಟುಕೊಂಡು ಇನ್ನೊಂದು ವೃತ್ತವನ್ನು ಎಳೆಯುತ್ತೇವೆ. ನಾಲ್ಕನೇ ಹಂತ, ಈ ಎರಡು ವೃತ್ತಗಳು ಸಂಧಿಸುವ ಬಿಂದುವನ್ನು $C$ ಎಂದು ಗುರುತಿಸಿ. ನಂತರ, ಯೂಕ್ಲಿಡ್‌ನ ಮೊದಲನೇ ಆಧಾರ ಪ್ರತಿಜ್ಞೆಯ ಪ್ರಕಾರ, $A$ ಯಿಂದ $C$ ಗೆ ಮತ್ತು $B$ ಯಿಂದ $C$ ಗೆ ರೇಖಾಖಂಡಗಳನ್ನು ಎಳೆಯುತ್ತೇವೆ. ಈಗ ನಮಗೆ ತ್ರಿಭುಜ $ABC$ ಸಿಕ್ಕಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸಮಬಾಹು ತ್ರಿಭುಜದ ರಚನೆಯ ಹಂತಗಳನ್ನು ತೋರಿಸುವ ಚಿತ್ರ. (i) ರೇಖಾಖಂಡ AB. (ii) A ಮತ್ತು B ಕೇಂದ್ರವಾಗಿ ಕಂಸಗಳನ್ನು ಎಳೆದು C ಬಿಂದುವನ್ನು ಗುರುತಿಸುವುದು. (iii) ABC ತ್ರಿಭುಜವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು.",
+    "labels": "A, B, C",
+    "mathematical_significance": "ಯೂಕ್ಲಿಡ್‌ನ ಆಧಾರ ಪ್ರತಿಜ್ಞೆ 1 ಮತ್ತು 3 ರ ಪ್ರಾಯೋಗಿಕ ಅನ್ವಯವನ್ನು ಇದು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated: A multi-stage diagram. Stage 1: Line segment AB. Stage 2: A circle with center A, radius AB. Stage 3: Another circle with center B, radius BA. Stage 4: The intersection point C is marked, and lines AC and BC are drawn to form triangle ABC."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-EUC-2_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತ ರೇಖಾಖಂಡ $AB$ ಯನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು.",
+      "justification": "ರಚನೆಯ ಪ್ರಾರಂಭ."
+    },
+    {
+      "step": 2,
+      "action_display": "$A$ ಕೇಂದ್ರ, $AB$ ತ್ರಿಜ್ಯದಿಂದ ವೃತ್ತವನ್ನು ಎಳೆಯುವುದು.",
+      "justification": "ಆಧಾರ ಪ್ರತಿಜ್ಞೆ 3: ಯಾವುದೇ ಕೇಂದ್ರ ಮತ್ತು ತ್ರಿಜ್ಯದಿಂದ ವೃತ್ತವನ್ನು ಎಳೆಯಬಹುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "$B$ ಕೇಂದ್ರ, $BA$ ತ್ರಿಜ್ಯದಿಂದ ವೃತ್ತವನ್ನು ಎಳೆಯುವುದು.",
+      "justification": "ಆಧಾರ ಪ್ರತಿಜ್ಞೆ 3."
+    },
+    {
+      "step": 4,
+      "action_display": "ವೃತ್ತಗಳು $C$ ಯಲ್ಲಿ ಸಂಧಿಸಲಿ. $AC$ ಮತ್ತು $BC$ ಯನ್ನು ಸೇರಿಸುವುದು.",
+      "justification": "ಆಧಾರ ಪ್ರತಿಜ್ಞೆ 1: ಎರಡು ಬಿಂದುಗಳ ನಡುವೆ ರೇಖೆ ಎಳೆಯಬಹುದು."
+    }
+  ],
+  "chunk_id": "GEO-EUC-2_concept_3_chunk_012"
+}

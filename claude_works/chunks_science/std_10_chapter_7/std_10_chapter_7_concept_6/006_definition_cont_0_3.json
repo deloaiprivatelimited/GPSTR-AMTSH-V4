@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಲೈಂಗಿಕ vs ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ",
+  "script": "ಹಾಗಾದರೆ, ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಗೂ ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಗೂ ಇರುವ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೇನು? ಇದನ್ನು ಹೋಲಿಸಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿರುವಂತೆ, ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯಲ್ಲಿ ಇಬ್ಬರು ಪೋಷಕರು ಭಾಗವಹಿಸುತ್ತಾರೆ. ಇದರಿಂದಾಗಿ ಹುಟ್ಟುವ ಸಂತತಿಯು ಪೋಷಕರಿಗಿಂತ ಭಿನ್ನವಾದ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ, ಅಂದರೆ ಭಿನ್ನತೆ ಉಂಟಾಗುತ್ತದೆ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯಲ್ಲಿ ಒಬ್ಬನೇ ಪೋಷಕ ಇರುತ್ತಾನೆ. ಹಾಗಾಗಿ, ಹುಟ್ಟುವ ಸಂತತಿಯು ಪೋಷಕರ точной ನಕಲಾಗಿರುತ್ತದೆ. ಈ ಭಿನ್ನತೆಯೇ ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಪ್ರಮುಖ ಅನುಕೂಲವಾಗಿದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಗೂ ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಗೂ ಇರುವ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೇನು? ಇದನ್ನು ಹೋಲಿಸಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿರುವಂತೆ, ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯಲ್ಲಿ ಇಬ್ಬರು ಪೋಷಕರು ಭಾಗವಹಿಸುತ್ತಾರೆ. ಇದರಿಂದಾಗಿ ಹುಟ್ಟುವ ಸಂತತಿಯು ಪೋಷಕರಿಗಿಂತ ಭಿನ್ನವಾದ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ, ಅಂದರೆ ಭಿನ್ನತೆ (variation) ಉಂಟಾಗುತ್ತದೆ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯಲ್ಲಿ ಒಬ್ಬನೇ ಪೋಷಕ ಇರುತ್ತಾನೆ. ಹಾಗಾಗಿ, ಹುಟ್ಟುವ ಸಂತತಿಯು ಪೋಷಕರ точной ನಕಲಾಗಿರುತ್ತದೆ (clone). ಈ ಭಿನ್ನತೆಯೇ ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಪ್ರಮುಖ ಅನುಕೂಲವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಲೈಂಗಿಕ: ಎರಡು ಪೋಷಕರು, ಭಿನ್ನತೆಯುಳ್ಳ ಸಂತತಿ.",
+    "ಅಲೈಂಗಿಕ: ಒಬ್ಬನೇ ಪೋಷಕ, ಪೋಷಕರನ್ನು ಹೋಲುವ ಸಂತತಿ (ನಕಲು)."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "template_3",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen comparison. Left side titled 'ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ' shows two different parent icons leading to a unique offspring icon. Right side titled 'ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ' shows a single parent icon leading to two identical offspring icons.",
+    "labels": "ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ, ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ, ಪೋಷಕರು, ಸಂತತಿ, ಭಿನ್ನತೆ, ನಕಲು",
+    "scientific_significance": "Contrasts the outcomes of sexual and asexual reproduction, highlighting the generation of genetic variation in sexual reproduction versus the production of clones in asexual reproduction.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_10_chapter_7_concept_6_chunk_006"
+}

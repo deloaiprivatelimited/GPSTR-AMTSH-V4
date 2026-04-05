@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾವಯವ ಗೊಬ್ಬರದ ಅನುಕೂಲಗಳು",
+  "script": "ಸಾವಯವ ಗೊಬ್ಬರವನ್ನು ಬಳಸುವುದರಿಂದ ಹಲವಾರು ಅನುಕೂಲಗಳಿವೆ. ಮೊದಲನೆಯದಾಗಿ, ಇದು ಮಣ್ಣಿನ ರಚನೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ, ಮಣ್ಣನ್ನು ಹೆಚ್ಚು ರಂಧ್ರಯುಕ್ತವಾಗಿಸುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಇದು ಮಣ್ಣಿನ ನೀರು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ, ವಿಶೇಷವಾಗಿ ಮರಳು ಮಣ್ಣಿನಲ್ಲಿ ಇದು ಬಹಳ ಉಪಯುಕ್ತ. ಮೂರನೆಯದಾಗಿ, ಇದು ಮಣ್ಣಿನಲ್ಲಿರುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳಿಗೆ ಆಹಾರವನ್ನು ಒದಗಿಸಿ, ಅವುಗಳ ಚಟುವಟಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. ಇವೆಲ್ಲದರ ಜೊತೆಗೆ, ಇದು ಪರಿಸರ ಸ್ನೇಹಿಯಾಗಿದೆ ಮತ್ತು ಕೃಷಿ ತ್ಯಾಜ್ಯವನ್ನು ಮರುಬಳಕೆ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಸಾವಯವ ಗೊಬ್ಬರವನ್ನು ಬಳಸುವುದರಿಂದ ಹಲವಾರು ಅನುಕೂಲಗಳಿವೆ:\n\n*   **ಮಣ್ಣಿನ ರಚನೆ ಸುಧಾರಣೆ:** ಮಣ್ಣನ್ನು ಹೆಚ್ಚು ರಂಧ್ರಯುಕ್ತವಾಗಿಸುತ್ತದೆ.\n*   **ನೀರು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಸಾಮರ್ಥ್ಯ ಹೆಚ್ಚಳ:** ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶವನ್ನು ಹೆಚ್ಚು ಕಾಲ ಉಳಿಸುತ್ತದೆ.\n*   **ಸೂಕ್ಷ್ಮಜೀವಿಗಳಿಗೆ ಆಹಾರ:** ಮಣ್ಣಿನ ಜೈವಿಕ ಚಟುವಟಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.\n*   **ಪರಿಸರ ಸ್ನೇಹಿ:** ತ್ಯಾಜ್ಯವನ್ನು ಮರುಬಳಕೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ಮಾಲಿನ್ಯವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮಣ್ಣಿನ ರಚನೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ.",
+    "ನೀರು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+    "ಮಣ್ಣಿನ ಸೂಕ್ಷ್ಮಜೀವಿಗಳಿಗೆ ಆಹಾರ ಒದಗಿಸುತ್ತದೆ.",
+    "ಪರಿಸರ ಸ್ನೇಹಿ ಮತ್ತು ತ್ಯಾಜ್ಯ ಮರುಬಳಕೆಗೆ ಸಹಕಾರಿ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple infographic with three icons. 1. Icon showing soil with pores. 2. Icon showing a sponge-like soil holding water drops. 3. Icon showing friendly microbes (like cartoon bacteria) in the soil.",
+    "labels": "ರಚನೆ ಸುಧಾರಣೆ, ನೀರು ಹಿಡಿದಿಡುವಿಕೆ, ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಚಟುವಟಿಕೆ",
+    "scientific_significance": "Visually represents the key benefits of using organic manure on soil health.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_4_chunk_005"
+}

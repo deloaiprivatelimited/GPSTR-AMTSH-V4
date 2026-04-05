@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಕಿರಣವನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ಒಂದು ಕಿರಣವನ್ನು ಹೇಗೆ ಗುರುತಿಸುವುದು ಮತ್ತು ಹೆಸರಿಸುವುದು ಎಂದು ನೋಡೋಣ. ಇಲ್ಲಿರುವ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. A ಎಂಬುದು ಕಿರಣದ ಆರಂಭಿಕ ಬಿಂದು. ಈ ಕಿರಣವು P ಎಂಬ ಇನ್ನೊಂದು ಬಿಂದುವಿನ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ. ನಾವು ಇದನ್ನು ಕಿರಣ AP ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದನ್ನು ಬರೆಯುವಾಗ, A P ಎಂದು ಬರೆದು ಅದರ ಮೇಲೆ ಬಲಕ್ಕೆ ಚಲಿಸುವ ಬಾಣದ ಚಿಹ್ನೆಯನ್ನು ಹಾಕುತ್ತೇವೆ. ಇಲ್ಲಿ A ಆರಂಭಿಕ ಬಿಂದು ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ ಮತ್ತು ಬಾಣದ ಗುರುತು ಅದು P ಯ ದಿಕ್ಕಿನಲ್ಲಿ ಅನಂತವಾಗಿ ಚಲಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ಸಂಕೇತವನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಒಂದು ಕಿರಣವನ್ನು ಹೇಗೆ ಗುರುತಿಸುವುದು ಮತ್ತು ಹೆಸರಿಸುವುದು ಎಂದು ನೋಡೋಣ. ಇಲ್ಲಿರುವ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. 'A' ಎಂಬುದು ಕಿರಣದ ಆರಂಭಿಕ ಬಿಂದು. ಈ ಕಿರಣವು 'P' ಎಂಬ ಇನ್ನೊಂದು ಬಿಂದುವಿನ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ. ನಾವು ಇದನ್ನು 'ಕಿರಣ AP' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದನ್ನು ಬರೆಯುವಾಗ, $\\overrightarrow{AP}$ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ 'A' ಆರಂಭಿಕ ಬಿಂದು ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ ಮತ್ತು ಬಾಣದ ಗುರುತು ಅದು 'P' ಯ ದಿಕ್ಕಿನಲ್ಲಿ ಅನಂತವಾಗಿ ಚಲಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ಸಂಕೇತವನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "A ಎಂಬುದು ಆರಂಭಿಕ ಬಿಂದು (starting point).",
+    "ಕಿರಣವು P ಬಿಂದುವಿನ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ.",
+    "ಇದನ್ನು $\\overrightarrow{AP}$ ಎಂದು ಸೂಚಿಸಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_right_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "ready",
+    "description": "A ray starting from point A and passing through point P. The ray has an arrowhead at the end passing through P, indicating it extends infinitely in that direction. The label AP with an arrow on top is shown.",
+    "labels": "A (ಆರಂಭಿಕ ಬಿಂದು), P, $\\overrightarrow{AP}$",
+    "mathematical_significance": "Demonstrates the standard notation for a ray, emphasizing the starting point and the direction of infinite extension.",
+    "placeholder_note": "This visual corresponds to the one described in the module's visual aids list."
+  },
+  "chunk_id": "GEO-LA-1_concept_1_chunk_012"
+}

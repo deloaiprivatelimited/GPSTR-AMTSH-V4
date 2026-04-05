@@ -1,0 +1,210 @@
+{
+  "module_id": "ALG-EXP-2_concept_5",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 18,
+  "total_duration": 920.638,
+  "total_duration_formatted": "15:20",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಬಹುಪದೋಕ್ತಿಯಿಂದ ಬಹುಪದೋಕ್ತಿಯ ಗುಣಾಕಾರ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 50.291,
+      "duration": 50.291,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 50.891,
+      "end": 79.782,
+      "duration": 28.891,
+      "script_words": 39
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ದ್ವಿಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರದ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "start": 80.382,
+      "end": 151.233,
+      "duration": 70.851,
+      "script_words": 87
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಗುಣಾಕಾರದ ಸಾಮಾನ್ಯ ನಿಯಮ",
+      "type": "concept_explanation",
+      "start": 151.833,
+      "end": 203.484,
+      "duration": 51.651,
+      "script_words": 72
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_005",
+      "chunk_file": "005_example_0.json",
+      "wav_file": "005_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ದ್ವಿಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರ",
+      "type": "worked_example",
+      "start": 204.084,
+      "end": 224.815,
+      "duration": 20.731,
+      "script_words": 32
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_006",
+      "chunk_file": "006_example_cont_0_1.json",
+      "wav_file": "006_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i)",
+      "type": "worked_example",
+      "start": 225.415,
+      "end": 305.386,
+      "duration": 79.971,
+      "script_words": 123
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_007",
+      "chunk_file": "007_example_cont_0_2.json",
+      "wav_file": "007_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (ii)",
+      "type": "worked_example",
+      "start": 305.986,
+      "end": 373.597,
+      "duration": 67.611,
+      "script_words": 136
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_008",
+      "chunk_file": "008_example_cont_0_3.json",
+      "wav_file": "008_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 374.197,
+      "end": 417.568,
+      "duration": 43.371,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_009",
+      "chunk_file": "009_example_1.json",
+      "wav_file": "009_example_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ದ್ವಿಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರ",
+      "type": "worked_example",
+      "start": 418.168,
+      "end": 443.619,
+      "duration": 25.451,
+      "script_words": 35
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_010",
+      "chunk_file": "010_example_cont_1_1.json",
+      "wav_file": "010_example_cont_1_1.wav",
+      "slide_title": "ಭಾಗ (i) ರ ಪರಿಹಾರ",
+      "type": "worked_example",
+      "start": 444.219,
+      "end": 505.59,
+      "duration": 61.371,
+      "script_words": 95
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_011",
+      "chunk_file": "011_example_cont_1_2.json",
+      "wav_file": "011_example_cont_1_2.wav",
+      "slide_title": "ಭಾಗ (ii) ರ ಪರಿಹಾರ",
+      "type": "worked_example",
+      "start": 506.19,
+      "end": 569.441,
+      "duration": 63.251,
+      "script_words": 102
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_012",
+      "chunk_file": "012_example_cont_1_3.json",
+      "wav_file": "012_example_cont_1_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಸಲಹೆ",
+      "type": "worked_example",
+      "start": 570.041,
+      "end": 634.252,
+      "duration": 64.211,
+      "script_words": 105
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_013",
+      "chunk_file": "013_example_2.json",
+      "wav_file": "013_example_2.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಸಂಕ್ಷೇಪಿಸಿ",
+      "type": "worked_example",
+      "start": 634.852,
+      "end": 661.143,
+      "duration": 26.291,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_014",
+      "chunk_file": "014_example_cont_2_1.json",
+      "wav_file": "014_example_cont_2_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಮೊದಲ ಭಾಗದ ವಿಸ್ತರಣೆ",
+      "type": "worked_example",
+      "start": 661.743,
+      "end": 727.514,
+      "duration": 65.771,
+      "script_words": 102
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_015",
+      "chunk_file": "015_example_cont_2_2.json",
+      "wav_file": "015_example_cont_2_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಎರಡನೇ ಭಾಗ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "worked_example",
+      "start": 728.114,
+      "end": 770.845,
+      "duration": 42.731,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_016",
+      "chunk_file": "016_example_cont_2_3.json",
+      "wav_file": "016_example_cont_2_3.wav",
+      "slide_title": "ಪರಿಹಾರ: ಅಂತಿಮ ಸರಳೀಕರಣ",
+      "type": "worked_example",
+      "start": 771.445,
+      "end": 822.776,
+      "duration": 51.331,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_017",
+      "chunk_file": "017_example_cont_2_4.json",
+      "wav_file": "017_example_cont_2_4.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "worked_example",
+      "start": 823.376,
+      "end": 878.227,
+      "duration": 54.851,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_5_chunk_018",
+      "chunk_file": "018_recap_0.json",
+      "wav_file": "018_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಬಹುಪದೋಕ್ತಿಯಿಂದ ಬಹುಪದೋಕ್ತಿಯ ಗುಣಾಕಾರ",
+      "type": "recap",
+      "start": 878.827,
+      "end": 920.038,
+      "duration": 41.211,
+      "script_words": 51
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನೈಸರ್ಗಿಕ ಕಾರಣಗಳು",
+  "script": "ಮಾನವ ಚಟುವಟಿಕೆಗಳಲ್ಲದೆ, ಕೆಲವು ನೈಸರ್ಗಿಕ ವಿದ್ಯಮಾನಗಳೂ ಅರಣ್ಯನಾಶಕ್ಕೆ ಕಾರಣವಾಗುತ್ತವೆ. ಇದರಲ್ಲಿ ಮುಖ್ಯವಾದುದು ಕಾಡ್ಗಿಚ್ಚು. ಮಿಂಚಿನಿಂದ ಅಥವಾ ಅತಿಯಾದ ಒಣ ಹವೆಯಿಂದ ಕಾಡ್ಗಿಚ್ಚುಗಳು ಸ್ವಾಭಾವಿಕವಾಗಿ ಸಂಭವಿಸಬಹುದು. ಇವು ಕೆಲವೇ ಗಂಟೆಗಳಲ್ಲಿ ಸಾವಿರಾರು ಎಕರೆ ಅರಣ್ಯವನ್ನು ಬೂದಿಮಾಡಬಲ್ಲವು. ಮತ್ತೊಂದು ಪ್ರಮುಖ ನೈಸರ್ಗಿಕ ಕಾರಣವೆಂದರೆ ತೀವ್ರ ಬರಗಾಲ. ದೀರ್ಘಕಾಲದವರೆಗೆ ಮಳೆ ಬಾರದಿದ್ದಾಗ, ಮರಗಳು ನೀರಿಲ್ಲದೆ ಒಣಗಿ ಸಾಯುತ್ತವೆ. ಇದು ನಿಧಾನವಾದರೂ, ದೊಡ್ಡ ಪ್ರಮಾಣದ ಅರಣ್ಯ ಪ್ರದೇಶದ ನಾಶಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಈ ನೈಸರ್ಗಿಕ ಕಾರಣಗಳು ಮಾನವ ನಿರ್ಮಿತ ಕಾರಣಗಳಷ್ಟು ವ್ಯಾಪಕವಾಗಿಲ್ಲದಿದ್ದರೂ, ಪರಿಸರದ ಮೇಲೆ ಗಮನಾರ್ಹ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ.",
+  "script_display": "ಮಾನವ ಚಟುವಟಿಕೆಗಳಲ್ಲದೆ, ಕೆಲವು ನೈಸರ್ಗಿಕ ವಿದ್ಯಮಾನಗಳೂ ಅರಣ್ಯನಾಶಕ್ಕೆ ಕಾರಣವಾಗುತ್ತವೆ. ಇದರಲ್ಲಿ ಮುಖ್ಯವಾದುದು ಕಾಡ್ಗಿಚ್ಚು (Forest Fire). ಮಿಂಚಿನಿಂದ ಅಥವಾ ಅತಿಯಾದ ಒಣ ಹವೆಯಿಂದ ಕಾಡ್ಗಿಚ್ಚುಗಳು ಸ್ವಾಭಾವಿಕವಾಗಿ ಸಂಭವಿಸಬಹುದು. ಇವು ಕೆಲವೇ ಗಂಟೆಗಳಲ್ಲಿ ಸಾವಿರಾರು ಎಕರೆ ಅರಣ್ಯವನ್ನು ಬೂದಿಮಾಡಬಲ್ಲವು. ಮತ್ತೊಂದು ಪ್ರಮುಖ ನೈಸರ್ಗಿಕ ಕಾರಣವೆಂದರೆ ತೀವ್ರ ಬರಗಾಲ (Severe Drought). ದೀರ್ಘಕಾಲದವರೆಗೆ ಮಳೆ ಬಾರದಿದ್ದಾಗ, ಮರಗಳು ನೀರಿಲ್ಲದೆ ಒಣಗಿ ಸಾಯುತ್ತವೆ. ಇದು ನಿಧಾನವಾದರೂ, ದೊಡ್ಡ ಪ್ರಮಾಣದ ಅರಣ್ಯ ಪ್ರದೇಶದ ನಾಶಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕಾಡ್ಗಿಚ್ಚು (Forest Fire)",
+    "ತೀವ್ರ ಬರಗಾಲ (Severe Drought)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "default",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split image showing natural causes of deforestation. The left side shows a raging forest fire. The right side shows a landscape of dead, dry trees under a harsh sun, indicating a severe drought.",
+    "labels": "ಕಾಡ್ಗಿಚ್ಚು, ಬರಗಾಲ",
+    "scientific_significance": "Illustrates the primary natural drivers of deforestation, which include wildfires and drought, both of which can cause widespread tree mortality.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_5_concept_1_chunk_011"
+}

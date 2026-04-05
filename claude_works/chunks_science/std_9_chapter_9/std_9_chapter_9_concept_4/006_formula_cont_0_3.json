@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಪರಿಹಾರ (ವೇಗ)",
+  "script": "ಮೊದಲು ಅಂತಿಮ ವೇಗ v ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ u, g ಮತ್ತು s ತಿಳಿದಿದೆ, ಮತ್ತು v ಬೇಕು. ಹಾಗಾಗಿ, v squared equals u squared plus two g s ಸಮೀಕರಣವು ಸೂಕ್ತವಾಗಿದೆ. u ಶೂನ್ಯವಾಗಿರುವುದರಿಂದ, ಸಮೀಕರಣವು v squared equals two g s ಆಗುತ್ತದೆ. ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, v squared equals two times ten times twenty, ಅಂದರೆ ನಾಲ್ಕುನೂರು. ಆದ್ದರಿಂದ, v ಎಂಬುದು ನಾಲ್ಕುನೂರರ ವರ್ಗಮೂಲ, ಅಂದರೆ 20 ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್. ಇದುವೇ ಕಲ್ಲು ನೆಲಕ್ಕೆ ಬಡಿಯುವಾಗ ಇರುವ ವೇಗ.",
+  "script_display": "**ಹಂತ 1: ಅಂತಿಮ ವೇಗ ($v$) ಕಂಡುಹಿಡಿಯುವುದು**",
+  "display_bullets": [
+    "ಸೂಕ್ತ ಸಮೀಕರಣ: $v^2 = u^2 + 2gs$",
+    "ನಮಗೆ ತಿಳಿದಿದೆ, $u=0$. ಆದ್ದರಿಂದ, $v^2 = 2gs$.",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: $v^2 = 2 \\times 10 \\times 20 = 400$",
+    "ಅಂತಿಮ ವೇಗ: $v = \\sqrt{400} = 20$ m/s"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "v^2 = u^2 + 2gs \\\\ v^2 = (0)^2 + 2(10)(20) \\\\ v^2 = 400 \\\\ v = \\sqrt{400} = 20 \\text{ m/s}",
+    "placeholder_note": "Calculation steps for finding the final velocity 'v'."
+  },
+  "chunk_id": "std_9_chapter_9_concept_4_chunk_006"
+}

@@ -1,0 +1,134 @@
+{
+  "module_id": "std_6_chapter_9_concept_3",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Callirrhoe",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 11,
+  "total_duration": 480.841,
+  "total_duration_formatted": "8:00",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_9_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಬಡಿಯುವಿಕೆ / ಒಕ್ಕಣೆ (Threshing)",
+      "type": "intro",
+      "start": 0.0,
+      "end": 58.331,
+      "duration": 58.331,
+      "script_words": 81
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು (Prerequisites)",
+      "type": "prerequisites",
+      "start": 58.931,
+      "end": 89.462,
+      "duration": 30.531,
+      "script_words": 37
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_3_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ಬಡಿಯುವಿಕೆ / ಒಕ್ಕಣೆ (Threshing)",
+      "type": "definition",
+      "start": 90.062,
+      "end": 128.633,
+      "duration": 38.571,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_3_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಸಾಂಪ್ರದಾಯಿಕ ಬಡಿಯುವಿಕೆ ವಿಧಾನ",
+      "type": "definition",
+      "start": 129.233,
+      "end": 169.724,
+      "duration": 40.491,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_3_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಆಧುನಿಕ ಬಡಿಯುವಿಕೆ ವಿಧಾನಗಳು",
+      "type": "definition",
+      "start": 170.324,
+      "end": 208.975,
+      "duration": 38.651,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_3_chunk_006",
+      "chunk_file": "006_definition_cont_0_3.json",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "slide_title": "ಬಡಿಯುವಿಕೆ vs ತೂರುವಿಕೆ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸ",
+      "type": "definition",
+      "start": 209.575,
+      "end": 251.026,
+      "duration": 41.451,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_3_chunk_007",
+      "chunk_file": "007_property_0.json",
+      "wav_file": "007_property_0.wav",
+      "slide_title": "ಬಡಿಯುವಿಕೆ: ಮೂಲ ತತ್ವ",
+      "type": "concept_explanation",
+      "start": 251.626,
+      "end": 299.517,
+      "duration": 47.891,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_3_chunk_008",
+      "chunk_file": "008_classification_0.json",
+      "wav_file": "008_classification_0.wav",
+      "slide_title": "ಬಡಿಯುವಿಕೆ (Threshing): ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 300.117,
+      "end": 346.328,
+      "duration": 46.211,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_3_chunk_009",
+      "chunk_file": "009_classification_cont_0_1.json",
+      "wav_file": "009_classification_cont_0_1.wav",
+      "slide_title": "ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "start": 346.928,
+      "end": 394.659,
+      "duration": 47.731,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_3_chunk_010",
+      "chunk_file": "010_classification_cont_0_2.json",
+      "wav_file": "010_classification_cont_0_2.wav",
+      "slide_title": "ಆಧುನಿಕ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "start": 395.259,
+      "end": 444.83,
+      "duration": 49.571,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_3_chunk_011",
+      "chunk_file": "011_recap_0.json",
+      "wav_file": "011_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಬಡಿಯುವಿಕೆ",
+      "type": "recap",
+      "start": 445.43,
+      "end": 480.241,
+      "duration": 34.811,
+      "script_words": 49
+    }
+  ]
+}

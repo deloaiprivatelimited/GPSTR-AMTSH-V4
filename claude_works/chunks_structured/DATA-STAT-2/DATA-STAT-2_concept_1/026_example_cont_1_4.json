@@ -1,0 +1,44 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+  "script": "ಹೀಗೆ, ನಾವು ಅಸಮ ವರ್ಗಾಂತರಗಳಿದ್ದ ದತ್ತಾಂಶಕ್ಕೆ ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರಗಳನ್ನು ಬಳಸಿ ಹಿಸ್ಟೋಗ್ರಾಂ ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಿದ್ದೇವೆ. ಈ ನಕ್ಷೆಯು ವಿದ್ಯಾರ್ಥಿಗಳ ಅಂಕಗಳ ಹಂಚಿಕೆಯನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುತ್ತದೆ. ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ನೆನಪಿಡಿ. ಅಸಮ ವರ್ಗಾಂತರಗಳಿದ್ದಾಗ, ಆವೃತ್ತಿಯನ್ನೇ ನೇರವಾಗಿ ಎತ್ತರವೆಂದು ತೆಗೆದುಕೊಳ್ಳುವುದು ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪು. ಹೀಗೆ ಮಾಡಿದರೆ, ಅಗಲವಾದ ವರ್ಗಾಂತರಗಳು ಹೆಚ್ಚು ಪ್ರಾಮುಖ್ಯತೆ ಪಡೆದು, ದತ್ತಾಂಶದ ತಪ್ಪು ಚಿತ್ರಣವನ್ನು ನೀಡುತ್ತವೆ. ಆದ್ದರಿಂದ, ಎತ್ತರವನ್ನು ಸರಿಹೊಂದಿಸುವುದು ಅತ್ಯಗತ್ಯ.",
+  "script_display": "ಹೀಗೆ, ನಾವು ಅಸಮ ವರ್ಗಾಂತರಗಳಿದ್ದ ದತ್ತಾಂಶಕ್ಕೆ ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರಗಳನ್ನು ಬಳಸಿ ಹಿಸ್ಟೋಗ್ರಾಂ ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಿದ್ದೇವೆ. ಈ ನಕ್ಷೆಯು ವಿದ್ಯಾರ್ಥಿಗಳ ಅಂಕಗಳ ಹಂಚಿಕೆಯನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುತ್ತದೆ. **ಪರೀಕ್ಷಾ ಸಲಹೆ:** ಅಸಮ ವರ್ಗಾಂತರಗಳಿದ್ದಾಗ, ಆವೃತ್ತಿಯನ್ನೇ ನೇರವಾಗಿ ಎತ್ತರವೆಂದು ತೆಗೆದುಕೊಳ್ಳುವುದು ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪು. ಹೀಗೆ ಮಾಡಿದರೆ, ಅಗಲವಾದ ವರ್ಗಾಂತರಗಳು ಹೆಚ್ಚು ಪ್ರಾಮುಖ್ಯತೆ ಪಡೆದು, ದತ್ತಾಂಶದ ತಪ್ಪು ಚಿತ್ರಣವನ್ನು ನೀಡುತ್ತವೆ. ಆದ್ದರಿಂದ, ಎತ್ತರವನ್ನು ಸರಿಹೊಂದಿಸುವುದು ಅತ್ಯಗತ್ಯ.",
+  "display_bullets": [
+    "ಅಸಮ ವರ್ಗಾಂತರಗಳಿಗೆ ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರಗಳೊಂದಿಗೆ ಹಿಸ್ಟೋಗ್ರಾಂ ಅನ್ನು ರಚಿಸಲಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The final, complete histogram with unequal class widths. X-axis is labeled 'ಅಂಕಗಳು' (Marks) and scaled from 0 to 100. Y-axis is labeled 'ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರ' (Adjusted Height). The rectangles are drawn with their respective class widths and adjusted heights: (0-20, 3.5), (20-30, 10), (30-40, 10), (40-50, 20), (50-60, 20), (60-70, 15), (70-100, 2.67).",
+    "labels": "X-axis, Y-axis, class intervals, adjusted heights",
+    "mathematical_significance": "This is the final visual representation of the data, correctly showing frequency distribution for unequal class intervals.",
+    "placeholder_note": "Image to be generated"
+  },
+  "source_example_id": "DATA-STAT-2_example_2",
+  "steps": [],
+  "final_answer": "ಅಸಮ ವರ್ಗಾಂತರಗಳಿಗೆ ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರಗಳೊಂದಿಗೆ ಹಿಸ್ಟೋಗ್ರಾಂ ಅನ್ನು ರಚಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "ಅಸಮ ವರ್ಗಾಂತರಗಳಿಗೆ ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರಗಳೊಂದಿಗೆ ಹಿಸ್ಟೋಗ್ರಾಂ ಅನ್ನು ರಚಿಸಲಾಗಿದೆ.",
+  "exam_tip": {
+    "question_pattern": "2-mark|5-mark",
+    "skill_tested": "ಅಸಮ ವರ್ಗಾಂತರಗಳಿರುವ ದತ್ತಾಂಶಕ್ಕೆ ಹಿಸ್ಟೋಗ್ರಾಂ ರಚಿಸುವುದು.",
+    "distractor": "ಆವೃತ್ತಿಯನ್ನೇ ನೇರವಾಗಿ ಆಯತದ ಎತ್ತರವಾಗಿ ಬಳಸುವುದು.",
+    "why_distractor_works": "ವರ್ಗಾಂತರದ ಅಗಲಗಳನ್ನು ಪರಿಗಣಿಸದೆ, ನೇರವಾಗಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿದರೆ, ಅಗಲವಾದ ವರ್ಗಗಳು (ಉದಾ: 0-20 ಮತ್ತು 70-100) ದತ್ತಾಂಶದಲ್ಲಿ ತಮ್ಮ ನಿಜವಾದ ಪ್ರಭಾವಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಥವಾ ಕಡಿಮೆ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಪಡೆದುಕೊಳ್ಳುತ್ತವೆ, ಇದು ತಪ್ಪು ತೀರ್ಮಾನಗಳಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ."
+  },
+  "chunk_id": "DATA-STAT-2_concept_1_chunk_026"
+}

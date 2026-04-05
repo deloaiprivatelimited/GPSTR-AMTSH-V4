@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 2",
+  "script": "ಈಗ ಮುಂದಿನ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ನಾಲ್ಕನೇ ಹಂತ, ಮೂರನೇ ಮೂಲೆ ಸಿ ಯನ್ನು ಗುರುತಿಸುವುದು. ನಾವು ಮೊದಲು ಎಳೆದ ಕಿರಣ ಎ ಎಕ್ಸ್ ಮತ್ತು ಕಿರಣ ಬಿ ವೈ ಗಳು ಛೇದಿಸುವ ಬಿಂದುವೇ ನಮ್ಮ ಮೂರನೇ ಮೂಲೆ, ಸಿ. ಇದನ್ನು ಗುರುತಿಸಿ. ಈಗ ನಮಗೆ ಎ ಬಿ ಸಿ ಲಂಬಕೋನ ತ್ರಿಭುಜ ಸಿಕ್ಕಿದೆ. ಐದನೇ ಹಂತ, ನಾಲ್ಕನೇ ಮೂಲೆ ಡಿ ಯನ್ನು ರಚಿಸುವುದು. ಆಯತದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ ಮತ್ತು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ. ಈ ಗುಣವನ್ನು ಬಳಸಿ, ಎ ಬಿಂದುವಿನಿಂದ ಬಿ ಸಿ ಗೆ ಸಮಾಂತರವಾದ ರೇಖೆಯನ್ನು ಮತ್ತು ಸಿ ಬಿಂದುವಿನಿಂದ ಎ ಬಿ ಗೆ ಸಮಾಂತರವಾದ ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಈ ಎರಡು ರೇಖೆಗಳು ಛೇದಿಸುವ ಬಿಂದುವೇ ಡಿ. ಆರನೇ ಹಂತ, ಆಯತವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು. ಎ ಮತ್ತು ಡಿ ಹಾಗೂ ಸಿ ಮತ್ತು ಡಿ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ. ಈಗ ಎ ಬಿ ಸಿ ಡಿ ಯು ನಮಗೆ ಬೇಕಾದ ಆಯತವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಮುಂದಿನ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ನಾಲ್ಕನೇ ಹಂತ, ಮೂರನೇ ಮೂಲೆ $C$ ಯನ್ನು ಗುರುತಿಸುವುದು. ನಾವು ಮೊದಲು ಎಳೆದ ಕಿರಣ $AX$ ಮತ್ತು ಕಿರಣ $BY$ ಗಳು ಛೇದಿಸುವ ಬಿಂದುವೇ ನಮ್ಮ ಮೂರನೇ ಮೂಲೆ, $C$. ಇದನ್ನು ಗುರುತಿಸಿ. ಈಗ ನಮಗೆ $ABC$ ಲಂಬಕೋನ ತ್ರಿಭುಜ ಸಿಕ್ಕಿದೆ. ಐದನೇ ಹಂತ, ನಾಲ್ಕನೇ ಮೂಲೆ $D$ ಯನ್ನು ರಚಿಸುವುದು. ಆಯತದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ ಮತ್ತು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ. ಈ ಗುಣವನ್ನು ಬಳಸಿ, $A$ ಬಿಂದುವಿನಿಂದ $BC$ ಗೆ ಸಮಾಂತರವಾದ ರೇಖೆಯನ್ನು ಮತ್ತು $C$ ಬಿಂದುವಿನಿಂದ $AB$ ಗೆ ಸಮಾಂತರವಾದ ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಈ ಎರಡು ರೇಖೆಗಳು ಛೇದಿಸುವ ಬಿಂದುವೇ $D$. ಆರನೇ ಹಂತ, ಆಯತವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು. $A$ ಮತ್ತು $D$ ಹಾಗೂ $C$ ಮತ್ತು $D$ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ. ಈಗ $ABCD$ ಯು ನಮಗೆ ಬೇಕಾದ ಆಯತವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Animation showing the final three steps. 4. The intersection of rays AX and BY is marked as C, forming triangle ABC. 5. A line parallel to BC is drawn from A, and a line parallel to AB is drawn from C. Their intersection is marked as D. 6. Points A and D, and C and D are joined to form the final rectangle ABCD.",
+    "labels": "A, B, C, D",
+    "mathematical_significance": "Completing the triangle and then using properties of parallel lines or equal opposite sides to find the fourth vertex are standard geometric construction techniques.",
+    "placeholder_note": "Animation to be generated showing these steps sequentially."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "VIS-CON-1_example_6",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "ಮೂರನೇ ಮೂಲೆ $C$ ಯನ್ನು ಗುರುತಿಸಿ: $AX$ ಮತ್ತು $BY$ ಕಿರಣಗಳ ಛೇದನ ಬಿಂದುವನ್ನು $C$ ಎಂದು ಹೆಸರಿಸಿ.",
+      "justification": "$C$ ಬಿಂದುವು ತ್ರಿಭುಜ $ABC$ ಯನ್ನು ಪೂರ್ಣಗೊಳಿಸುತ್ತದೆ."
+    },
+    {
+      "step": 5,
+      "action_display": "ನಾಲ್ಕನೇ ಮೂಲೆ $D$ ಯನ್ನು ರಚಿಸಿ: $A$ ಯಿಂದ $BC$ ಗೆ ಮತ್ತು $C$ ಯಿಂದ $AB$ ಗೆ ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಎಳೆದು ಛೇದನ ಬಿಂದು $D$ ಯನ್ನು ಗುರುತಿಸಿ.",
+      "justification": "ಆಯತದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ."
+    },
+    {
+      "step": 6,
+      "action_display": "ಆಯತವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ: $AD$ ಮತ್ತು $CD$ ರೇಖಾಖಂಡಗಳನ್ನು ಸೇರಿಸಿ.",
+      "justification": "ಎಲ್ಲಾ ಮೂಲೆಗಳನ್ನು ಸೇರಿಸಿದಾಗ $ABCD$ ಆಯತವು ಪೂರ್ಣಗೊಳ್ಳುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "VIS-CON-1_concept_6_chunk_010"
+}

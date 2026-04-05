@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಆಯತ vs. ಸಮಾಂತರ ಚತುರ್ಭುಜ",
+  "script": "ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಈ ಹೋಲಿಕೆಯನ್ನು ನೋಡಿ. ಎಡಭಾಗದಲ್ಲಿ ಆಯತವಿದೆ. ಇಲ್ಲಿ ಎಲ್ಲಾ ಕೋನಗಳು ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಮತ್ತು ಕರ್ಣಗಳು ಸಮವಾಗಿವೆ. ಬಲಭಾಗದಲ್ಲಿ ಒಂದು ಸಾಮಾನ್ಯ, ವಾಲಿದ ಸಮಾಂತರ ಚತುರ್ಭುಜವಿದೆ. ಇಲ್ಲಿ ಕೋನಗಳು ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಅಲ್ಲ, ಮತ್ತು ಒಂದು ಕರ್ಣವು ಇನ್ನೊಂದಕ್ಕಿಂತ ಉದ್ದವಾಗಿರುವುದನ್ನು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಎರಡೂ ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳೇ, ಆದರೆ ಎಡಭಾಗದಲ್ಲಿರುವುದು ಮಾತ್ರ ಆಯತ, ಏಕೆಂದರೆ ಅದರ ಕೋನಗಳು ಲಂಬಕೋನಗಳಾಗಿವೆ ಮತ್ತು ಕರ್ಣಗಳು ಸಮವಾಗಿವೆ. ಈ ದೃಶ್ಯ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳಿ.",
+  "script_display": "ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಈ ಹೋಲಿಕೆಯನ್ನು ನೋಡಿ. ಎಡಭಾಗದಲ್ಲಿ ಆಯತವಿದೆ. ಇಲ್ಲಿ ಎಲ್ಲಾ ಕೋನಗಳು $90°$ ಮತ್ತು ಕರ್ಣಗಳು ಸಮವಾಗಿವೆ. ಬಲಭಾಗದಲ್ಲಿ ಒಂದು ಸಾಮಾನ್ಯ, ವಾಲಿದ ಸಮಾಂತರ ಚತುರ್ಭುಜವಿದೆ. ಇಲ್ಲಿ ಕೋನಗಳು $90°$ ಅಲ್ಲ, ಮತ್ತು ಒಂದು ಕರ್ಣವು ಇನ್ನೊಂದಕ್ಕಿಂತ ಉದ್ದವಾಗಿರುವುದನ್ನು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಎರಡೂ ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳೇ, ಆದರೆ ಎಡಭಾಗದಲ್ಲಿರುವುದು ಮಾತ್ರ ಆಯತ, ಏಕೆಂದರೆ ಅದರ ಕೋನಗಳು ಲಂಬಕೋನಗಳಾಗಿವೆ ಮತ್ತು ಕರ್ಣಗಳು ಸಮವಾಗಿವೆ. ಈ ದೃಶ್ಯ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen image. Left side: A rectangle labeled 'ಆಯತ (Rectangle)'. Below it, bullet points: 'ಎಲ್ಲಾ ಕೋನಗಳು 90°' and 'ಕರ್ಣಗಳು ಸಮ (AC = BD)'. Right side: A non-rectangular (slanted) parallelogram labeled 'ಸಮಾಂತರ ಚತುರ್ಭುಜ (Parallelogram)'. Below it, bullet points: 'ಕೋನಗಳು 90° ಅಲ್ಲ' and 'ಕರ್ಣಗಳು ಅಸಮ (AC ≠ BD)'. The diagonals should be drawn in both figures to make the comparison clear.",
+    "labels": "ಆಯತ, ಸಮಾಂತರ ಚತುರ್ಭುಜ, 90°, AC, BD",
+    "mathematical_significance": "Provides a direct visual comparison to solidify the understanding of what makes a rectangle special compared to a general parallelogram, focusing on angles and diagonal lengths.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-QUAD-1_concept_5_chunk_011"
+}

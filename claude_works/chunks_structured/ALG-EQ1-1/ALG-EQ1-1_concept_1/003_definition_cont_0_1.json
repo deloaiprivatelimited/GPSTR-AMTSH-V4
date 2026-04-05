@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಚರಾಕ್ಷರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಚರಾಕ್ಷರವನ್ನು ಇನ್ನಷ್ಟು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದವನ್ನು ಪರಿಗಣಿಸಿ. ನಾವು ಈ ಉದ್ದವನ್ನು 'a' ಎಂದು ಕರೆಯೋಣ. ಇಲ್ಲಿ 'a' ಒಂದು ಚರಾಕ್ಷರವಾಗಿದೆ. ಯಾಕೆಂದರೆ, ಚೌಕವು ಚಿಕ್ಕದಾಗಿರಬಹುದು ಅಥವಾ ದೊಡ್ಡದಾಗಿರಬಹುದು. ಅದರ ಬಾಹುವಿನ ಉದ್ದ 5 ಸೆಂಟಿಮೀಟರ್ ಇರಬಹುದು, 10 ಸೆಂಟಿಮೀಟರ್ ಇರಬಹುದು, ಅಥವಾ 2.5 ಸೆಂಟಿಮೀಟರ್ ಕೂಡ ಇರಬಹುದು. ಅಂದರೆ, 'a' ಯ ಬೆಲೆ ನಿಗದಿತವಾಗಿಲ್ಲ, ಅದು ಬದಲಾಗಬಹುದು. ಹೀಗೆ, ಯಾವ ರಾಶಿಯ ಬೆಲೆ ಬದಲಾಗುತ್ತದೆಯೋ, ಅದನ್ನು ನಾವು ಚರಾಕ್ಷರದಿಂದ ಸೂಚಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಚರಾಕ್ಷರವನ್ನು ಇನ್ನಷ್ಟು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದವನ್ನು ಪರಿಗಣಿಸಿ. ನಾವು ಈ ಉದ್ದವನ್ನು '$a$' ಎಂದು ಕರೆಯೋಣ. ಇಲ್ಲಿ '$a$' ಒಂದು ಚರಾಕ್ಷರವಾಗಿದೆ. ಯಾಕೆಂದರೆ, ಚೌಕವು ಚಿಕ್ಕದಾಗಿರಬಹುದು ಅಥವಾ ದೊಡ್ಡದಾಗಿರಬಹುದು. ಅದರ ಬಾಹುವಿನ ಉದ್ದ $5$ cm ಇರಬಹುದು, $10$ cm ಇರಬಹುದು, ಅಥವಾ $2.5$ cm ಕೂಡ ಇರಬಹುದು. ಅಂದರೆ, '$a$' ಯ ಬೆಲೆ ನಿಗದಿತವಾಗಿಲ್ಲ, ಅದು ಬದಲಾಗಬಹುದು. ಹೀಗೆ, ಯಾವ ರಾಶಿಯ ಬೆಲೆ ಬದಲಾಗುತ್ತದೆಯೋ, ಅದನ್ನು ನಾವು ಚರಾಕ್ಷರದಿಂದ ಸೂಚಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಒಂದು ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದವನ್ನು '$a$' ಎಂದು ಪರಿಗಣಿಸೋಣ.",
+    "ಇಲ್ಲಿ '$a$' ಒಂದು ಚರಾಕ್ಷರ, ಏಕೆಂದರೆ ಅದರ ಬೆಲೆ ಸ್ಥಿರವಾಗಿಲ್ಲ.",
+    "ಬಾಹುವಿನ ಉದ್ದ $5$ cm, $10$ cm, ಅಥವಾ $2.5$ cm ಹೀಗೆ ಯಾವುದೇ ಬೆಲೆಯನ್ನು ಹೊಂದಿರಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a square. One of its sides is labeled with the letter 'a' to represent the variable length of the side. Arrows pointing outwards from the side could indicate that the length 'a' can increase or decrease.",
+    "labels": "Square, side 'a'",
+    "mathematical_significance": "This visual illustrates that 'a' is a variable whose value can change. It connects the abstract concept of a variable to a concrete geometric property.",
+    "placeholder_note": "Image to be generated: A square with one side labeled 'a'."
+  },
+  "chunk_id": "ALG-EQ1-1_concept_1_chunk_003"
+}

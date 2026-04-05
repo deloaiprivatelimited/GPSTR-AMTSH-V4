@@ -1,0 +1,40 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮಸ್ಯೆ ಪರಿಚಯ",
+  "script": "ಈಗ, ಸ್ನೆಲ್ ನಿಯಮವನ್ನು ಬಳಸಿಕೊಂಡು ಒಂದು ಸರಳ ಲೆಕ್ಕವನ್ನು ನೋಡೋಣ. ಬೆಳಕಿನ ಕಿರಣವೊಂದು ಗಾಳಿಯಿಂದ ಗಾಜಿನ ಚಪ್ಪಡಿಗೆ ಪ್ರವೇಶಿಸುತ್ತಿದೆ ಎಂದು ಭಾವಿಸೋಣ. ಪತನ ಕೋನ, ಅಂದರೆ ಐ, 30 ಡಿಗ್ರಿ ಆಗಿದೆ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶಗಳೆಂದರೆ: ಮಾಧ್ಯಮ ಒಂದು, ಅಂದರೆ ಗಾಳಿಯ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ ಎನ್ ಒನ್, 1.0 ಆಗಿದೆ. ಮಾಧ್ಯಮ ಎರಡು, ಅಂದರೆ ಗಾಜಿನ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ ಎನ್ ಟೂ, 1.5 ಆಗಿದೆ. ಈ ದತ್ತಾಂಶಗಳನ್ನು ಬಳಸಿ, ನಾವು ಗಾಜಿನಲ್ಲಿ ಉಂಟಾಗುವ ವಕ್ರೀಭವನ ಕೋನ, ಅಂದರೆ ಆರ್ ಅನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ಹೇಗೆ ಪರಿಹರಿಸುವುದು ಎಂದು ನೋಡೋಣ.",
+  "script_display": "ಈಗ, ಸ್ನೆಲ್ ನಿಯಮವನ್ನು ಬಳಸಿಕೊಂಡು ಒಂದು ಸರಳ ಲೆಕ್ಕವನ್ನು ನೋಡೋಣ. ಬೆಳಕಿನ ಕಿರಣವೊಂದು ಗಾಳಿಯಿಂದ ಗಾಜಿನ ಚಪ್ಪಡಿಗೆ ಪ್ರವೇಶಿಸುತ್ತಿದೆ ಎಂದು ಭಾವಿಸೋಣ. ಪತನ ಕೋನ, ಅಂದರೆ 'i', 30° ಆಗಿದೆ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶಗಳೆಂದರೆ: ಮಾಧ್ಯಮ 1 (ಗಾಳಿ)ಯ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ $n_1 = 1.0$ ಆಗಿದೆ. ಮಾಧ್ಯಮ 2 (ಗಾಜು)ವಿನ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ $n_2 = 1.5$ ಆಗಿದೆ. ಈ ದತ್ತಾಂಶಗಳನ್ನು ಬಳಸಿ, ನಾವು ಗಾಜಿನಲ್ಲಿ ಉಂಟಾಗುವ ವಕ್ರೀಭವನ ಕೋನ, ಅಂದರೆ 'r' ಅನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ಹೇಗೆ ಪರಿಹರಿಸುವುದು ಎಂದು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ (Given):",
+    "ಮಾಧ್ಯಮ 1 (ಗಾಳಿ): n₁ = 1.0",
+    "ಮಾಧ್ಯಮ 2 (ಗಾಜು): n₂ = 1.5",
+    "ಪತನ ಕೋನ (Angle of incidence): i = 30°",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದುದು (To find):",
+    "ವಕ್ರೀಭವನ ಕೋನ (Angle of refraction): r = ?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "physics_dark_green",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A ray of light travelling from air (medium 1) into a glass slab (medium 2). The angle of incidence 'i' with the normal is 30 degrees. The angle of refraction 'r' needs to be found.",
+    "labels": "Air, Glass, Incident Ray, Refracted Ray, Normal, Angle i, Angle r",
+    "scientific_significance": "Visual representation of Snell's law for the given problem.",
+    "placeholder_note": "Diagram showing refraction from air to glass."
+  },
+  "sub_type": "worked_example",
+  "chunk_id": "std_10_chapter_9_concept_6_chunk_017"
+}

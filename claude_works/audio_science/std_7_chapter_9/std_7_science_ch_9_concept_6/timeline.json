@@ -1,0 +1,134 @@
+{
+  "module_id": "std_7_science_ch_9_concept_6",
+  "chapter_code": "std_7_chapter_9",
+  "voice": "Leda",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 11,
+  "total_duration": 464.641,
+  "total_duration_formatted": "7:44",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_science_ch_9_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಚಲನೆ ಮಾಪನ ಸಾಧನಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 76.051,
+      "duration": 76.051,
+      "script_words": 106
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 76.651,
+      "end": 94.942,
+      "duration": 18.291,
+      "script_words": 26
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_6_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಚಲನೆ ಮಾಪನ ಸಾಧನಗಳು",
+      "type": "concept_explanation",
+      "start": 95.542,
+      "end": 131.193,
+      "duration": 35.651,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_6_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ವೇಗಮಾಪಕ (Speedometer)",
+      "type": "concept_explanation",
+      "start": 131.793,
+      "end": 178.564,
+      "duration": 46.771,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_6_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ದೂರಮಾಪಕ (Odometer)",
+      "type": "concept_explanation",
+      "start": 179.164,
+      "end": 226.015,
+      "duration": 46.851,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_6_chunk_006",
+      "chunk_file": "006_example_0.json",
+      "wav_file": "006_example_0.wav",
+      "slide_title": "ಲೆಕ್ಕದ ಉದಾಹರಣೆ: ಕಾರಿನ ಜವ",
+      "type": "worked_example",
+      "start": 226.615,
+      "end": 281.786,
+      "duration": 55.171,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_6_chunk_007",
+      "chunk_file": "007_example_cont_0_1.json",
+      "wav_file": "007_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "start": 282.386,
+      "end": 310.637,
+      "duration": 28.251,
+      "script_words": 37
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_6_chunk_008",
+      "chunk_file": "008_example_cont_0_2.json",
+      "wav_file": "008_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+      "type": "worked_example",
+      "start": 311.237,
+      "end": 340.168,
+      "duration": 28.931,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_6_chunk_009",
+      "chunk_file": "009_example_cont_0_3.json",
+      "wav_file": "009_example_cont_0_3.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 4",
+      "type": "worked_example",
+      "start": 340.768,
+      "end": 383.339,
+      "duration": 42.571,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_6_chunk_010",
+      "chunk_file": "010_example_cont_0_4.json",
+      "wav_file": "010_example_cont_0_4.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "worked_example",
+      "start": 383.939,
+      "end": 421.91,
+      "duration": 37.971,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_6_chunk_011",
+      "chunk_file": "011_recap_0.json",
+      "wav_file": "011_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 422.51,
+      "end": 464.041,
+      "duration": 41.531,
+      "script_words": 59
+    }
+  ]
+}

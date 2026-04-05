@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಮ್ಮ ಬಳಿ ಕೆಲವು ವರ್ಗ ಮಧ್ಯಬಿಂದುಗಳು x i ಇವೆ: 15, 25, 35, 45. ಇಲ್ಲಿ ವರ್ಗಾಂತರದ ಗಾತ್ರ h ಈಕ್ವಲ್ಸ್ 10. ನಾವು ಅಂದಾಜು ಸರಾಸರಿ a ಅನ್ನು 35 ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಮೊದಲು, ವಿಚಲನೆ d i ಅನ್ನು ಲೆಕ್ಕ ಮಾಡೋಣ, ಅದು x i ಮೈನಸ್ a. ಆಗ ನಮಗೆ ಮೈನಸ್ 20, ಮೈನಸ್ 10, 0, ಮತ್ತು 10 ಸಿಗುತ್ತದೆ. ಈಗ, ಹಂತ ವಿಚಲನೆ u i ಅನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಸೂತ್ರ u i ಈಕ್ವಲ್ಸ್ d i ಬೈ h. ಹಾಗಾಗಿ, ಮೈನಸ್ 20 ಭಾಗಿಸು 10 ಎಂದರೆ ಮೈನಸ್ 2. ಮೈನಸ್ 10 ಭಾಗಿಸು 10 ಎಂದರೆ ಮೈನಸ್ 1. 0 ಭಾಗಿಸು 10 ಎಂದರೆ 0. ಮತ್ತು 10 ಭಾಗಿಸು 10 ಎಂದರೆ 1. ನೋಡಿ, u i ಮೌಲ್ಯಗಳು ಎಷ್ಟು ಚಿಕ್ಕದಾಗಿವೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಮ್ಮ ಬಳಿ ಕೆಲವು ವರ್ಗ ಮಧ್ಯಬಿಂದುಗಳು ($x_i$) ಇವೆ: 15, 25, 35, 45. ಇಲ್ಲಿ ವರ್ಗಾಂತರದ ಗಾತ್ರ $h=10$. ನಾವು ಅಂದಾಜು ಸರಾಸರಿ ($a$) ಅನ್ನು 35 ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಮೊದಲು, ವಿಚಲನೆ $d_i$ ಅನ್ನು ಲೆಕ್ಕ ಮಾಡೋಣ ($d_i = x_i - a$). ಆಗ ನಮಗೆ -20, -10, 0, ಮತ್ತು 10 ಸಿಗುತ್ತದೆ. ಈಗ, ಹಂತ ವಿಚಲನೆ $u_i$ ಅನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಸೂತ್ರ $u_i = d_i / h$. ಹಾಗಾಗಿ, -20/10 = -2, -10/10 = -1, 0/10 = 0, ಮತ್ತು 10/10 = 1. ನೋಡಿ, $u_i$ ಮೌಲ್ಯಗಳು ಎಷ್ಟು ಚಿಕ್ಕದಾಗಿವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_full",
+    "template": "visual_full",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "Table showing calculation of u_i from x_i, a, and h. The script walks through this table calculation step-by-step. The caption should be 'ಹಂತ ವಿಚಲನೆ (uᵢ) ಲೆಕ್ಕಾಚಾರದ ಉದಾಹರಣೆ'. The headers are $x_i$, $a$, $d_i = x_i - a$, $h$, and $u_i = d_i/h$. The rows contain the numerical example from the script: (15, 35, -20, 10, -2), (25, 35, -10, 10, -1), (35, 35, 0, 10, 0), (45, 35, 10, 10, 1). The table should be the main focus of the slide, with the script narrating the calculation process shown in it. The layout should be visual_full to emphasize the table."
+  },
+  "chunk_id": "DATA-STAT-2_concept_2_chunk_016"
+}

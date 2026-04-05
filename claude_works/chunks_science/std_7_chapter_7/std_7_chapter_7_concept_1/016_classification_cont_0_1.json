@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಕ್ತದ ಘಟಕಗಳು: ಕೆಂಪು ರಕ್ತಕಣಗಳು",
+  "script": "ಮುಂದಿನ ಪ್ರಮುಖ ಘಟಕ ಕೆಂಪು ರಕ್ತಕಣಗಳು, ಇವುಗಳನ್ನು ಆರ್ ಬಿ ಸಿ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ರಕ್ತಕ್ಕೆ ಅದರ ಕೆಂಪು ಬಣ್ಣ ಬರಲು ಇವೇ ಕಾರಣ. ಯಾಕೆಂದರೆ, ಈ ಕಣಗಳು ಹಿಮೋಗ್ಲೋಬಿನ್ ಎಂಬ ವಿಶೇಷ ಪ್ರೋಟೀನ್ ಅನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಈ ಹಿಮೋಗ್ಲೋಬಿನ್ ಶ್ವಾಸಕೋಶದಲ್ಲಿ ಆಮ್ಲಜನಕದೊಂದಿಗೆ ಸೇರಿಕೊಂಡು, ಅದನ್ನು ದೇಹದ ಪ್ರತಿಯೊಂದು ಜೀವಕೋಶಕ್ಕೂ ತಲುಪಿಸುತ್ತದೆ. ಜೀವಕೋಶಗಳಿಗೆ ತಮ್ಮ ಕಾರ್ಯ ನಿರ್ವಹಿಸಲು ಶಕ್ತಿ ಬೇಕು, ಮತ್ತು ಆ ಶಕ್ತಿಯ ಉತ್ಪಾದನೆಗೆ ಆಮ್ಲಜನಕ ಅತ್ಯಗತ್ಯ. ಹೀಗಾಗಿ, ಕೆಂಪು ರಕ್ತಕಣಗಳು ನಮ್ಮ ದೇಹದ ಜೀವನಾಡಿಯಾದ ಆಮ್ಲಜನಕದ ಸಾಗಣೆಯ ಜವಾಬ್ದಾರಿಯನ್ನು ಹೊತ್ತಿವೆ.",
+  "script_display": "ಮುಂದಿನ ಪ್ರಮುಖ ಘಟಕ ಕೆಂಪು ರಕ್ತಕಣಗಳು (Red Blood Cells - RBC). ರಕ್ತಕ್ಕೆ ಅದರ ಕೆಂಪು ಬಣ್ಣ ಬರಲು ಇವೇ ಕಾರಣ. ಯಾಕೆಂದರೆ, ಈ ಕಣಗಳು ಹಿಮೋಗ್ಲೋಬಿನ್ (Haemoglobin) ಎಂಬ ವಿಶೇಷ ಪ್ರೋಟೀನ್ ಅನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಈ ಹಿಮೋಗ್ಲೋಬಿನ್ ಶ್ವಾಸಕೋಶದಲ್ಲಿ ಆಮ್ಲಜನಕದೊಂದಿಗೆ ಸೇರಿಕೊಂಡು, ಅದನ್ನು ದೇಹದ ಪ್ರತಿಯೊಂದು ಜೀವಕೋಶಕ್ಕೂ ತಲುಪಿಸುತ್ತದೆ. ಜೀವಕೋಶಗಳಿಗೆ ತಮ್ಮ ಕಾರ್ಯ ನಿರ್ವಹಿಸಲು ಶಕ್ತಿ ಬೇಕು, ಮತ್ತು ಆ ಶಕ್ತಿಯ ಉತ್ಪಾದನೆಗೆ ಆಮ್ಲಜನಕ ಅತ್ಯಗತ್ಯ. ಹೀಗಾಗಿ, RBCಗಳು ನಮ್ಮ ದೇಹದ ಜೀವನಾಡಿಯಾದ ಆಮ್ಲಜನಕದ ಸಾಗಣೆಯ ಜವಾಬ್ದಾರಿಯನ್ನು ಹೊತ್ತಿವೆ.",
+  "display_bullets": [
+    "ಕೆಂಪು ರಕ್ತಕಣಗಳು (RBC): ಹಿಮೋಗ್ಲೋಬಿನ್ ಅನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
+    "ಕಾರ್ಯ: ಶ್ವಾಸಕೋಶಗಳಿಂದ ದೇಹದಾದ್ಯಂತ ಆಮ್ಲಜನಕವನ್ನು ಸಾಗಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of several Red Blood Cells, highlighting their biconcave disc shape. One cell is shown carrying oxygen molecules (represented as small 'O2' spheres) bound to hemoglobin inside.",
+    "labels": "Red Blood Cell, Hemoglobin, Oxygen",
+    "scientific_significance": "Visually connects the structure of RBCs with their function of oxygen transport via hemoglobin.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_7_concept_1_chunk_016"
+}

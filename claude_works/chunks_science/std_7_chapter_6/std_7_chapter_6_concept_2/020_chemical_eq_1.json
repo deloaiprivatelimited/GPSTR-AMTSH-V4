@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅವಾಯುವಿಕ ಉಸಿರಾಟ: ಯೀಸ್ಟ್‌ನಲ್ಲಿ",
+  "script": "ಈಗ, ಯೀಸ್ಟ್‌ನಲ್ಲಿ ನಡೆಯುವ ಆಮ್ಲಜನಕ ರಹಿತ ಉಸಿರಾಟದ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಆಮ್ಲಜನಕದ ಅನುಪಸ್ಥಿತಿಯಲ್ಲಿ, ಒಂದು ಗ್ಲೂಕೋಸ್ ಅಣು, ಅಂದರೆ C six H twelve O six, ವಿಭಜನೆಗೊಂಡು ಎರಡು ಆಲ್ಕೋಹಾಲ್ ಅಣುಗಳು, ಅಂದರೆ two C two H five O H, ಮತ್ತು ಎರಡು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅಣುಗಳು, ಅಂದರೆ two C O two, ಜೊತೆಗೆ ಶಕ್ತಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ, ಯೀಸ್ಟ್‌ನಲ್ಲಿ ನಡೆಯುವ ಆಮ್ಲಜನಕ ರಹಿತ ಉಸಿರಾಟದ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಆಮ್ಲಜನಕದ ಅನುಪಸ್ಥಿತಿಯಲ್ಲಿ, ಒಂದು ಗ್ಲೂಕೋಸ್ ಅಣು (C₆H₁₂O₆) ವಿಭಜನೆಗೊಂಡು ಎರಡು ಆಲ್ಕೋಹಾಲ್ ಅಣುಗಳು (2C₂H₅OH) ಮತ್ತು ಎರಡು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅಣುಗಳು (2CO₂) ಜೊತೆಗೆ ಶಕ್ತಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "C_6H_{12}O_6 \\xrightarrow{\\text{ಯೀಸ್ಟ್, O}_2 \\text{ ಅನುಪಸ್ಥಿತಿ}} 2C_2H_5OH + 2CO_2 + \\text{ಶಕ್ತಿ}",
+    "placeholder_note": "Chemical equation for anaerobic respiration in yeast."
+  },
+  "chunk_id": "std_7_chapter_6_concept_2_chunk_020"
+}

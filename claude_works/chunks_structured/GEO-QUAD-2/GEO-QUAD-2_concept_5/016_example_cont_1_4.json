@@ -1,0 +1,33 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಫಲಿತಾಂಶ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+  "script": "ಹೀಗೆ, ನಾವು ಡಿ ಇ ಯು ಇ ಎಫ್ ಗೆ ಸಮ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಈ ಫಲಿತಾಂಶವನ್ನು ಛೇದಕ ಪ್ರಮೇಯ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದು ಹೇಳುವುದೇನೆಂದರೆ, ಮೂರು ಅಥವಾ ಹೆಚ್ಚು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಎರಡು ಛೇದಕಗಳು ಛೇದಿಸಿದಾಗ, ಒಂದು ಛೇದಕದ ಮೇಲಿನ ಅಂತರ್ ಖಂಡಗಳು ಸಮವಾಗಿದ್ದರೆ, ಇನ್ನೊಂದು ಛೇದಕದ ಮೇಲಿನ ಅನುರೂಪ ಅಂತರ್ ಖಂಡಗಳು ಸಹ ಸಮವಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಹೀಗೆ, ನಾವು $DE = EF$ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಈ ಫಲಿತಾಂಶವನ್ನು ಛೇದಕ ಪ್ರಮೇಯ (Intercept Theorem) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದು ಹೇಳುವುದೇನೆಂದರೆ, ಮೂರು ಅಥವಾ ಹೆಚ್ಚು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಎರಡು ಛೇದಕಗಳು ಛೇದಿಸಿದಾಗ, ಒಂದು ಛೇದಕದ ಮೇಲಿನ ಅಂತರ್ ಖಂಡಗಳು ಸಮವಾಗಿದ್ದರೆ, ಇನ್ನೊಂದು ಛೇದಕದ ಮೇಲಿನ ಅನುರೂಪ ಅಂತರ್ ಖಂಡಗಳು ಸಹ ಸಮವಾಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಸಾಧನೆ: $DE = EF$",
+    "ಈ ಪ್ರಮೇಯವನ್ನು ಛೇದಕ ಪ್ರಮೇಯ (Intercept Theorem) ಎನ್ನುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "full_bleed",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-QUAD-2_example_7",
+  "final_answer": "DE = EF",
+  "final_answer_display": "$DE = EF$",
+  "chunk_id": "GEO-QUAD-2_concept_5_chunk_016"
+}

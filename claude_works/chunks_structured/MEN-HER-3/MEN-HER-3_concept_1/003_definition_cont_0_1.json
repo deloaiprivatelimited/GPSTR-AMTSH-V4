@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಅರ್ಧ-ಸುತ್ತಳತೆಯ ಸೂತ್ರ",
+  "script": "ಈಗ ಅರ್ಧ-ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಒಂದು ತ್ರಿಭುಜದ ಮೂರು ಬಾಹುಗಳ ಉದ್ದಗಳು a, b, ಮತ್ತು c ಆಗಿರಲಿ. ಆಗ, ಅದರ ಸುತ್ತಳತೆಯು a ಪ್ಲಸ್ b ಪ್ಲಸ್ c ಆಗುತ್ತದೆ. ಅರ್ಧ-ಸುತ್ತಳತೆ 's' ಅನ್ನು ಪಡೆಯಲು, ನಾವು ಈ ಒಟ್ಟು ಮೊತ್ತವನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸುತ್ತೇವೆ. ಆದ್ದರಿಂದ, ಸೂತ್ರವು ಹೀಗಿದೆ: s ಈಕ್ವಲ್ಸ್ a ಪ್ಲಸ್ b ಪ್ಲಸ್ c, ಹೋಲ್ ಡಿವೈಡೆಡ್ ಬೈ ಟು. ಹೆರಾನ್‌ನ ಸೂತ್ರವನ್ನು ಬಳಸುವ ಯಾವುದೇ ಲೆಕ್ಕದಲ್ಲಿ, ನಾವು ಮೊದಲು ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ 's' ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಅರ್ಧ-ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಒಂದು ತ್ರಿಭುಜದ ಮೂರು ಬಾಹುಗಳ ಉದ್ದಗಳು $a, b,$ ಮತ್ತು $c$ ಆಗಿರಲಿ. ಆಗ, ಅದರ ಸುತ್ತಳತೆಯು $a+b+c$ ಆಗುತ್ತದೆ. ಅರ್ಧ-ಸುತ್ತಳತೆ 's' ಅನ್ನು ಪಡೆಯಲು, ನಾವು ಈ ಒಟ್ಟು ಮೊತ್ತವನ್ನು 2 ರಿಂದ ಭಾಗಿಸುತ್ತೇವೆ. ಆದ್ದರಿಂದ, ಸೂತ್ರವು ಹೀಗಿದೆ: $s = \\frac{a+b+c}{2}$. ಹೆರಾನ್‌ನ ಸೂತ್ರವನ್ನು ಬಳಸುವ ಯಾವುದೇ ಲೆಕ್ಕದಲ್ಲಿ, ನಾವು ಮೊದಲು ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ 's' ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "s = \\frac{a+b+c}{2}",
+    "placeholder_note": "Formula for semi-perimeter, where a, b, c are the sides of the triangle."
+  },
+  "chunk_id": "MEN-HER-3_concept_1_chunk_003"
+}

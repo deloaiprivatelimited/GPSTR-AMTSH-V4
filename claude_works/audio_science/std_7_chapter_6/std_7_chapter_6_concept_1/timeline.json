@@ -1,0 +1,101 @@
+{
+  "module_id": "std_7_chapter_6_concept_1",
+  "chapter_code": "std_7_chapter_6",
+  "voice": "Autonoe",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 411.968,
+  "total_duration_formatted": "6:51",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_6_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ನಾವು ಏಕೆ ಉಸಿರಾಡುತ್ತೇವೆ?",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 48.291,
+      "duration": 48.291,
+      "script_words": 77
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_1_chunk_002",
+      "chunk_file": "002_definition_0.json",
+      "wav_file": "002_definition_0.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಜೀವಕೋಶ (Cell)",
+      "type": "definition",
+      "start": 48.891,
+      "end": 99.182,
+      "duration": 50.291,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_1_chunk_003",
+      "chunk_file": "003_definition_cont_0_1.json",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "slide_title": "ಜೀವಕೋಶದ ರಚನೆ",
+      "type": "definition",
+      "start": 99.782,
+      "end": 152.273,
+      "duration": 52.491,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_1_chunk_004",
+      "chunk_file": "004_definition_cont_0_2.json",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "slide_title": "ಹೋಲಿಕೆ: ಜೀವಕೋಶ vs. ಮರಳಿನ ಕಣ",
+      "type": "definition",
+      "start": 152.873,
+      "end": 203.884,
+      "duration": 51.011,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_1_chunk_005",
+      "chunk_file": "005_definition_1.json",
+      "wav_file": "005_definition_1.wav",
+      "slide_title": "ಉಸಿರಾಟ (Respiration) ಎಂದರೇನು?",
+      "type": "definition",
+      "start": 204.484,
+      "end": 252.735,
+      "duration": 48.251,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_1_chunk_006",
+      "chunk_file": "006_definition_cont_1_1.json",
+      "wav_file": "006_definition_cont_1_1.wav",
+      "slide_title": "ಶ್ವಾಸಕ್ರಿಯೆ vs. ಉಸಿರಾಟ",
+      "type": "definition",
+      "start": 253.335,
+      "end": 306.546,
+      "duration": 53.211,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_1_chunk_007",
+      "chunk_file": "007_definition_cont_1_2.json",
+      "wav_file": "007_definition_cont_1_2.wav",
+      "slide_title": "ಉಸಿರಾಟ: ಒಂದು ಸಂಪೂರ್ಣ ನೋಟ",
+      "type": "definition",
+      "start": 307.146,
+      "end": 364.677,
+      "duration": 57.531,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_1_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 365.277,
+      "end": 411.368,
+      "duration": 46.091,
+      "script_words": 63
+    }
+  ]
+}

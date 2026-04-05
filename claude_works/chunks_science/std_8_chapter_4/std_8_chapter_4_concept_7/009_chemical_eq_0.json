@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಮ್ಲ ಮಳೆಗೆ ಕಾರಣ: ಸಲ್ಫರ್ ಡೈಆಕ್ಸೆಡ್",
+  "script": "ಕಲ್ಲಿದ್ದಲು ಮತ್ತು ಡೀಸೆಲ್‌ನಂತಹ ಇಂಧನಗಳನ್ನು ಉರಿಸಿದಾಗ, ಅವುಗಳಲ್ಲಿರುವ ಸಲ್ಫರ್ ಆಮ್ಲಜನಕದೊಂದಿಗೆ ಸೇರಿ ಸಲ್ಫರ್ ಡೈಆಕ್ಸೆಡ್ ಎಂಬ ಅನಿಲವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ. ಈ ಅನಿಲವು ವಾಯು ಮಾಲಿನ್ಯಕ್ಕೆ ಮತ್ತು ಆಮ್ಲ ಮಳೆಗೆ ಪ್ರಮುಖ ಕಾರಣವಾಗಿದೆ. ಉದಾಹರಣೆಗೆ, ಕಲ್ಲಿದ್ದಲು ಮತ್ತು ಡೀಸೆಲ್ ಇಂಧನಗಳು, ಸಲ್ಫರ್ ಡೈಆಕ್ಸೆಡ್ ಅನಿಲವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ, ಇದು ವಾಯು ಮಾಲಿನ್ಯ ಮತ್ತು ಆಮ್ಲ ಮಳೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+  "script_display": "ಕಲ್ಲಿದ್ದಲು ಮತ್ತು ಡೀಸೆಲ್‌ನಂತಹ ಇಂಧನಗಳನ್ನು ಉರಿಸಿದಾಗ, ಅವುಗಳಲ್ಲಿರುವ ಸಲ್ಫರ್ ಆಮ್ಲಜನಕದೊಂದಿಗೆ ಸೇರಿ ಸಲ್ಫರ್ ಡೈಆಕ್ಸೆಡ್ (SO₂) ಎಂಬ ಅನಿಲವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ. ಈ ಅನಿಲವು ವಾಯು ಮಾಲಿನ್ಯಕ್ಕೆ ಮತ್ತು ಆಮ್ಲ ಮಳೆಗೆ ಪ್ರಮುಖ ಕಾರಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಇಂಧನಗಳು: ಕಲ್ಲಿದ್ದಲು, ಡೀಸೆಲ್",
+    "ಬಿಡುಗಡೆಯಾಗುವ ಅನಿಲ: ಸಲ್ಫರ್ ಡೈಆಕ್ಸೆಡ್ (SO₂)",
+    "ಪರಿಣಾಮ: ವಾಯು ಮಾಲಿನ್ಯ ಮತ್ತು ಆಮ್ಲ ಮಳೆ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A factory with a smokestack releasing dark smoke into the atmosphere. The smoke is labeled with the chemical formula 'SO₂'. The sky looks slightly polluted, indicating air pollution.",
+    "labels": "Factory, Smokestack, SO₂ emissions",
+    "scientific_significance": "Illustrates a primary source of sulfur dioxide pollution, which is the burning of fossil fuels containing sulfur in industrial processes.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_4_concept_7_chunk_009"
+}

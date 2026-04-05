@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮಾಂತರ ರೇಖೆಗಳು ಮತ್ತು ಕೋನಗಳು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 6.19 ರಲ್ಲಿ, ರೇಖೆ PQ ರೇಖೆ RS ಗೆ ಸಮಾಂತರವಾಗಿದೆ. ಕೋನ MXQ ನ ಅಳತೆ 135 ಡಿಗ್ರಿ ಮತ್ತು ಕೋನ MYR ನ ಅಳತೆ 40 ಡಿಗ್ರಿ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ಕೋನ XMY ನ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ದತ್ತಾಂಶಗಳು: PQ ಸಮಾಂತರ RS, ಕೋನ MXQ ಸಮ 135 ಡಿಗ್ರಿ, ಮತ್ತು ಕೋನ MYR ಸಮ 40 ಡಿಗ್ರಿ. ನಾವು ಕೋನ XMY ಅನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 6.19 ರಲ್ಲಿ, ರೇಖೆ $PQ \\parallel RS$. $\\angle MXQ = 135°$ ಮತ್ತು $\\angle MYR = 40°$ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು $\\angle XMY$ ನ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ದತ್ತಾಂಶಗಳು: $PQ \\parallel RS$, $\\angle MXQ = 135°$, ಮತ್ತು $\\angle MYR = 40°$. ನಾವು $\\angle XMY$ ಅನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ (Given): $PQ \\parallel RS$, $\\angle MXQ = 135°$, $\\angle MYR = 40°$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದುದು (To Find): $\\angle XMY$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಉದಾಹರಣೆ 4 ಕ್ಕಾಗಿ ರೇಖಾಚಿತ್ರ. ಎರಡು ಸಮಾಂತರ ರೇಖೆಗಳು PQ ಮತ್ತು RS ಗಳನ್ನು ಒಂದು 'zigzag' ರೇಖೆ XMY ಛೇದಿಸುತ್ತಿದೆ. ಕೋನ MXQ ಮತ್ತು ಕೋನ MYR ಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "ಚಿತ್ರ 6.19",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯಲ್ಲಿ ವಿವರಿಸಿದ ಜ್ಯಾಮಿತೀಯ ಸನ್ನಿವೇಶವನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-LA-2_example_4",
+  "chunk_id": "GEO-LA-2_concept_3_chunk_033"
+}

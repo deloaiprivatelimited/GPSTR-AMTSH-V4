@@ -1,0 +1,202 @@
+{
+  "module_id": "GEO-QUAD-2_concept_5",
+  "merge_code": "GEO-QUAD-2",
+  "voice": "Sadachbia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 17,
+  "ok_count": 17,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 16:27:39",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "76ce917daf753b613533ccac133a0d19",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.171,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 43,
+      "generated_at": "2026-03-30 16:24:29"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "5631d932cfd1665367470f13c9d0eedf",
+      "wav_file": "001_intro_0.wav",
+      "duration": 49.811,
+      "slide_title": "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ಅನ್ವಯಗಳು",
+      "type": "intro",
+      "script_words": 66,
+      "generated_at": "2026-03-30 16:24:41"
+    },
+    "004_theorem_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "b1f2ef163a39e0bcb4a4d9e7ff1069eb",
+      "wav_file": "004_theorem_cont_0_1.wav",
+      "duration": 44.371,
+      "slide_title": "ಛೇದಕ ಪ್ರಮೇಯ: ಸಾಧನೆ (ಹಂತ 1)",
+      "type": "step_walkthrough",
+      "script_words": 75,
+      "generated_at": "2026-03-30 16:24:52"
+    },
+    "003_theorem_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "2313193a66e77c186bdb570d428ec43b",
+      "wav_file": "003_theorem_0.wav",
+      "duration": 52.051,
+      "slide_title": "ಛೇದಕ ಪ್ರಮೇಯ (Intercept Theorem)",
+      "type": "definition_spotlight",
+      "script_words": 72,
+      "generated_at": "2026-03-30 16:24:57"
+    },
+    "005_theorem_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "9838c55472cc7ddf283308de6ce4848d",
+      "wav_file": "005_theorem_cont_0_2.wav",
+      "duration": 48.771,
+      "slide_title": "ಛೇದಕ ಪ್ರಮೇಯ: ಸಾಧನೆ (ಹಂತ 2)",
+      "type": "step_walkthrough",
+      "script_words": 68,
+      "generated_at": "2026-03-30 16:24:58"
+    },
+    "009_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "c6a0dfb5642c26a6452893e3dc5754f6",
+      "wav_file": "009_example_cont_0_1.wav",
+      "duration": 54.531,
+      "slide_title": "ಸಾಧನೆ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "script_words": 76,
+      "generated_at": "2026-03-30 16:25:41"
+    },
+    "008_example_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "1dae993652e4fab26d5d82040b96b88e",
+      "wav_file": "008_example_0.wav",
+      "duration": 33.931,
+      "slide_title": "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ಅನ್ವಯ: ಉದಾಹರಣೆ",
+      "type": "worked_example",
+      "script_words": 47,
+      "generated_at": "2026-03-30 16:25:42"
+    },
+    "006_theorem_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "5dec8e6158f78690128cd4ba5372309a",
+      "wav_file": "006_theorem_cont_0_3.wav",
+      "duration": 55.811,
+      "slide_title": "ಛೇದಕ ಪ್ರಮೇಯ: ಸಾಧನೆ (ಹಂತ 3)",
+      "type": "step_walkthrough",
+      "script_words": 75,
+      "generated_at": "2026-03-30 16:25:48"
+    },
+    "007_theorem_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "6aa2ba5e4c859193a052a51a8c3885f3",
+      "wav_file": "007_theorem_cont_0_4.wav",
+      "duration": 45.371,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "key_takeaway",
+      "script_words": 61,
+      "generated_at": "2026-03-30 16:25:50"
+    },
+    "010_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "a638dca3b89c1905174fd52870dd67e2",
+      "wav_file": "010_example_cont_0_2.wav",
+      "duration": 70.891,
+      "slide_title": "ಸಾಧನೆ: ಹಂತ 3 ಮತ್ತು 4",
+      "type": "worked_example",
+      "script_words": 78,
+      "generated_at": "2026-03-30 16:26:12"
+    },
+    "012_example_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "b1339ee925f5c0badc5140e24e4ff25b",
+      "wav_file": "012_example_1.wav",
+      "duration": 31.011,
+      "slide_title": "ಉದಾಹರಣೆ: ಛೇದಕ ಪ್ರಮೇಯ",
+      "type": "worked_example",
+      "script_words": 48,
+      "generated_at": "2026-03-30 16:26:33"
+    },
+    "014_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "852abcac9bdb6f1843fbb0e6682c791e",
+      "wav_file": "014_example_cont_1_2.wav",
+      "duration": 40.011,
+      "slide_title": "ಸಾಧನೆ: ಹಂತ 2 - $∆ACF$ ನಲ್ಲಿ ವಿಲೋಮ ಪ್ರಮೇಯ",
+      "type": "worked_example",
+      "script_words": 70,
+      "generated_at": "2026-03-30 16:26:36"
+    },
+    "015_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "21846770288716b3ceb24aa1899871f9",
+      "wav_file": "015_example_cont_1_3.wav",
+      "duration": 33.171,
+      "slide_title": "ಸಾಧನೆ: ಹಂತ 3 - $∆AFD$ ನಲ್ಲಿ ವಿಲೋಮ ಪ್ರಮೇಯ",
+      "type": "worked_example",
+      "script_words": 63,
+      "generated_at": "2026-03-30 16:26:39"
+    },
+    "013_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "ac7aade10c55a19893c0d6674f425fec",
+      "wav_file": "013_example_cont_1_1.wav",
+      "duration": 32.611,
+      "slide_title": "ಸಾಧನೆ: ಹಂತ 1 - ರಚನೆ",
+      "type": "worked_example",
+      "script_words": 45,
+      "generated_at": "2026-03-30 16:26:41"
+    },
+    "011_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "bbe7841a8dee9b4f02ee0ebf6f2708ea",
+      "wav_file": "011_example_cont_0_3.wav",
+      "duration": 52.331,
+      "slide_title": "ತೀರ್ಮಾನ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "script_words": 71,
+      "generated_at": "2026-03-30 16:27:04"
+    },
+    "016_example_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "ad95b953665202de0300b9ce8cc9523d",
+      "wav_file": "016_example_cont_1_4.wav",
+      "duration": 27.611,
+      "slide_title": "ಫಲಿತಾಂಶ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "script_words": 41,
+      "generated_at": "2026-03-30 16:27:26"
+    },
+    "017_recap_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "a852972633d16953909f0fee9ef73c6e",
+      "wav_file": "017_recap_0.wav",
+      "duration": 49.011,
+      "slide_title": "ಸಾರಾಂಶ: ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ಅನ್ವಯಗಳು",
+      "type": "recap",
+      "script_words": 66,
+      "generated_at": "2026-03-30 16:27:39"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಜವದ ಸೂತ್ರ",
+  "script": "ಈಗ ನಾವು ಜವವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಜವವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಒಂದು ವಸ್ತುವು ಕ್ರಮಿಸಿದ ಒಟ್ಟು ದೂರವನ್ನು, ಆ ದೂರವನ್ನು ಕ್ರಮಿಸಲು ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಕಾಲದಿಂದ ಭಾಗಿಸಬೇಕು. ಇಲ್ಲಿ, ಜವ ಎಂದರೆ ಒಂದು ವಸ್ತುವು ಎಷ್ಟು ವೇಗವಾಗಿ ಚಲಿಸುತ್ತಿದೆ ಎಂಬುದರ ಅಳತೆ. ಕ್ರಮಿಸಿದ ಒಟ್ಟು ದೂರ ಎಂದರೆ ವಸ್ತುವು ಚಲಿಸಿದ ಪೂರ್ಣ ಮಾರ್ಗದ ಉದ್ದ. ಮತ್ತು ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಕಾಲ ಎಂದರೆ ಆ ದೂರವನ್ನು ಕ್ರಮಿಸಲು ಬೇಕಾದ ಸಮಯ. ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿದಾಗ ನಮಗೆ ಸಿಗುವುದು ವಸ್ತುವಿನ ಸರಾಸರಿ ಜವ.",
+  "script_display": "ಈಗ ನಾವು ಜವವನ್ನು (Speed) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಜವವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಒಂದು ವಸ್ತುವು ಕ್ರಮಿಸಿದ ಒಟ್ಟು ದೂರವನ್ನು, ಆ ದೂರವನ್ನು ಕ್ರಮಿಸಲು ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಕಾಲದಿಂದ ಭಾಗಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಜವ (Speed): ಒಂದು ವಸ್ತುವು ಎಷ್ಟು ವೇಗವಾಗಿ ಚಲಿಸುತ್ತಿದೆ ಎಂಬುದರ ಅಳತೆ.",
+    "ಕ್ರಮಿಸಿದ ಒಟ್ಟು ದೂರ (Total distance): ವಸ್ತುವು ಚಲಿಸಿದ ಪೂರ್ಣ ಮಾರ್ಗದ ಉದ್ದ.",
+    "ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಕಾಲ (Total time): ಆ ದೂರವನ್ನು ಕ್ರಮಿಸಲು ತೆಗೆದುಕೊಂಡ ಸಮಯ.",
+    "ಈ ಸೂತ್ರವು 'ಸರಾಸರಿ ಜವ'ವನ್ನು (Average Speed) ನೀಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "physics_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": " \\text{ಜವ} = \\frac{\\text{ಕ್ರಮಿಸಿದ ಒಟ್ಟು ದೂರ}}{\\text{ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಕಾಲ}} ",
+    "placeholder_note": "Formula for Speed: Speed = Total Distance / Total Time"
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_7_science_ch_9_concept_2_chunk_013"
+}

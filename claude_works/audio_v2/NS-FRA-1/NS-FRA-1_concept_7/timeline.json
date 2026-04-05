@@ -1,0 +1,100 @@
+{
+  "module_id": "NS-FRA-1_concept_7",
+  "voice": "Algenib",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 358.048,
+  "total_duration_formatted": "5:58",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "NS-FRA-1_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳ ಗುಣಾಕಾರ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 56.651,
+      "duration": 56.651,
+      "script_words": 81
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_7_chunk_002",
+      "chunk_file": "002_property_0.json",
+      "wav_file": "002_property_0.wav",
+      "slide_title": "ದಶಮಾಂಶಗಳ ಗುಣಾಕಾರದ ನಿಯಮ",
+      "type": "concept_explanation",
+      "start": 57.251,
+      "end": 117.502,
+      "duration": 60.251,
+      "script_words": 93
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_7_chunk_003",
+      "chunk_file": "003_property_cont_0_1.json",
+      "wav_file": "003_property_cont_0_1.wav",
+      "slide_title": "10, 100, 1000 ದಿಂದ ಗುಣಾಕಾರ",
+      "type": "concept_explanation",
+      "start": 118.102,
+      "end": 182.833,
+      "duration": 64.731,
+      "script_words": 91
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_7_chunk_004",
+      "chunk_file": "004_example_0.json",
+      "wav_file": "004_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಆಯತದ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "start": 183.433,
+      "end": 213.644,
+      "duration": 30.211,
+      "script_words": 41
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_7_chunk_005",
+      "chunk_file": "005_example_cont_0_1.json",
+      "wav_file": "005_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "start": 214.244,
+      "end": 252.575,
+      "duration": 38.331,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_7_chunk_006",
+      "chunk_file": "006_example_cont_0_2.json",
+      "wav_file": "006_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+      "type": "worked_example",
+      "start": 253.175,
+      "end": 293.706,
+      "duration": 40.531,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_7_chunk_007",
+      "chunk_file": "007_example_cont_0_3.json",
+      "wav_file": "007_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 294.306,
+      "end": 308.557,
+      "duration": 14.251,
+      "script_words": 22
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_7_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳ ಗುಣಾಕಾರ",
+      "type": "recap",
+      "start": 309.157,
+      "end": 357.448,
+      "duration": 48.291,
+      "script_words": 57
+    }
+  ]
+}

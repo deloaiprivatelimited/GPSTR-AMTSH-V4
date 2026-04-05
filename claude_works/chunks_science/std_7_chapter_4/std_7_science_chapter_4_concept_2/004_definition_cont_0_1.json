@@ -1,0 +1,28 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಸೂಚಕ (Indicator)",
+  "script": "ಹಾಗಾದರೆ, ಸೂಚಕ ಎಂದರೇನು? ಇದರ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. ಒಂದು ದ್ರಾವಣವು ಆಮ್ಲೀಯವೇ ಅಥವಾ ಪ್ರತ್ಯಾಮ್ಲೀಯವೇ ಎಂಬುದನ್ನು ತನ್ನ ಬಣ್ಣ ಬದಲಾವಣೆಯ ಮೂಲಕ ತಿಳಿಸುವ ಪದಾರ್ಥವೇ ಸೂಚಕ. ಅಂದರೆ, ಈ ವಿಶೇಷ ಪದಾರ್ಥಗಳನ್ನು ನಾವು ಪರೀಕ್ಷಿಸಬೇಕಾದ ದ್ರಾವಣಕ್ಕೆ ಹಾಕಿದಾಗ, ಅವು ತಮ್ಮ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸುತ್ತವೆ. ಆ ಬಣ್ಣದ ಬದಲಾವಣೆಯನ್ನು ನೋಡಿ, ನಾವು ಆ ದ್ರಾವಣವು ಆಮ್ಲದ ಗುಣವನ್ನು ಹೊಂದಿದೆಯೇ ಅಥವಾ ಪ್ರತ್ಯಾಮ್ಲದ ಗುಣವನ್ನು ಹೊಂದಿದೆಯೇ ಎಂದು ಸುಲಭವಾಗಿ ಹೇಳಬಹುದು. ಇದು ಒಂದು ರೀತಿಯ ರಾಸಾಯನಿಕ ಪರೀಕ್ಷಕ ಇದ್ದಂತೆ.",
+  "script_display": "ಒಂದು ದ್ರಾವಣವು ಆಮ್ಲೀಯವೇ ಅಥವಾ ಪ್ರತ್ಯಾಮ್ಲೀಯವೇ ಎಂಬುದನ್ನು ತನ್ನ ಬಣ್ಣ ಬದಲಾವಣೆಯ ಮೂಲಕ ತಿಳಿಸುವ ಪದಾರ್ಥ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "term_definition_example",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_7_science_chapter_4_concept_2_chunk_004"
+}

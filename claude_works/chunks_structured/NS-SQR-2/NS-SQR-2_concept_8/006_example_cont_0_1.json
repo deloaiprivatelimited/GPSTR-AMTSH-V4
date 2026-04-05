@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಅಂಕಿಗಳ ಮೇಲೆ ಅಡ್ಡಗೆರೆ ಎಳೆದು ಜೋಡಿ ಮಾಡುತ್ತೇವೆ. ಪೂರ್ಣಾಂಕ ಭಾಗವಾದ 12 ಒಂದು ಜೋಡಿ, ಮತ್ತು ದಶಮಾಂಶ ಭಾಗವಾದ 25 ಇನ್ನೊಂದು ಜೋಡಿ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಮೊದಲ ಜೋಡಿಯಾದ 12 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ ಸಂಖ್ಯೆಯನ್ನು ಹುಡುಕೋಣ. ಅದು 9, ಅಂದರೆ 3 ರ ವರ್ಗ. ಆದ್ದರಿಂದ, ಭಾಜಕ ಮತ್ತು ಭಾಗಲಬ್ಧದಲ್ಲಿ 3 ನ್ನು ಬರೆಯಿರಿ. 12 ರಿಂದ 9 ನ್ನು ಕಳೆದಾಗ, ನಮಗೆ ಶೇಷ 3 ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಅಂಕಿಗಳ ಮೇಲೆ ಅಡ್ಡಗೆರೆ ಎಳೆದು ಜೋಡಿ ಮಾಡುತ್ತೇವೆ. ಪೂರ್ಣಾಂಕ ಭಾಗವಾದ 12 ಒಂದು ಜೋಡಿ, ಮತ್ತು ದಶಮಾಂಶ ಭಾಗವಾದ 25 ಇನ್ನೊಂದು ಜೋಡಿ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಮೊದಲ ಜೋಡಿಯಾದ 12 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ ಸಂಖ್ಯೆಯನ್ನು ಹುಡುಕೋಣ. ಅದು 9, ಅಂದರೆ $3^2$. ಆದ್ದರಿಂದ, ಭಾಜಕ ಮತ್ತು ಭಾಗಲಬ್ಧದಲ್ಲಿ 3 ನ್ನು ಬರೆಯಿರಿ. 12 ರಿಂದ 9 ನ್ನು ಕಳೆದಾಗ, ನಮಗೆ ಶೇಷ 3 ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Long division setup for finding the square root of 12.25. Step 1 shows the number with bars over 12 and 25. Step 2 shows the first division: divisor 3, quotient 3, dividend 12, with 9 subtracted to get a remainder of 3.",
+    "labels": "divisor, quotient, dividend, remainder",
+    "mathematical_significance": "Illustrates the initial steps of the long division method for square roots of decimals, including pairing and the first division cycle.",
+    "placeholder_note": "Image to be generated showing the first two steps of the long division."
+  },
+  "source_example_id": "NS-SQR-2_example_7",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಅಂಕಿಗಳ ಮೇಲೆ ಅಡ್ಡಗೆರೆ ಎಳೆಯುವುದು: $\\overline{12}.\\overline{25}$",
+      "justification": "ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳ ನಿಯಮದಂತೆ ಜೋಡಿ ಮಾಡುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಪೂರ್ಣಾಂಕ ಭಾಗದ (12) ವರ್ಗಮೂಲವನ್ನು ಅಂದಾಜಿಸುವುದು. $3^2=9$. ಶೇಷ: $12 - 9 = 3$.",
+      "justification": "12 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ 9 ($3^2$) ಆಗಿದೆ."
+    }
+  ],
+  "chunk_id": "NS-SQR-2_concept_8_chunk_006"
+}

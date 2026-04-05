@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಮೊದಲ ಪೆಟ್ಟಿಗೆ (i)",
+  "script": "ಮೊದಲ ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇದರ ಅಳತೆಗಳು ಎರಡು a x, ಮೂರು b y, ಮತ್ತು ಐದು c z. ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಈ ಮೂರು ಏಕಪದೋಕ್ತಿಗಳನ್ನು ಗುಣಿಸಬೇಕು. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಸಹಗುಣಕಗಳನ್ನು ಒಟ್ಟಿಗೆ ಮತ್ತು ಚರಾಕ್ಷರಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಂಪು ಮಾಡುತ್ತೇವೆ. ಅಂದರೆ, ಎರಡು ಗುಣಿಸು ಮೂರು ಗುಣಿಸು ಐದು, ಮತ್ತು a x ಗುಣಿಸು b y ಗುಣಿಸು c z. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಸಹಗುಣಕಗಳನ್ನು ಗುಣಿಸೋಣ. ಎರಡು ಗುಣಿಸು ಮೂರು ಆರು, ಮತ್ತು ಆರು ಗುಣಿಸು ಐದು ಮೂವತ್ತು. ಚರಾಕ್ಷರಗಳು ವಿಜಾತೀಯವಾಗಿರುವುದರಿಂದ, ಅವುಗಳನ್ನು ಹಾಗೆಯೇ ಬರೆಯುತ್ತೇವೆ. ಆದ್ದರಿಂದ, ಅಂತಿಮ ಉತ್ತರ ಮೂವತ್ತು a b c x y z.",
+  "script_display": "ಮೊದಲ ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇದರ ಅಳತೆಗಳು $2ax, 3by, \\text{ ಮತ್ತು } 5cz$. ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಈ ಮೂರು ಏಕಪದೋಕ್ತಿಗಳನ್ನು ಗುಣಿಸಬೇಕು. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಸಹಗುಣಕಗಳನ್ನು ಒಟ್ಟಿಗೆ ಮತ್ತು ಚರಾಕ್ಷರಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಂಪು ಮಾಡುತ್ತೇವೆ. ಅಂದರೆ, $(2 \\times 3 \\times 5)$ ಮತ್ತು $(a \\times x \\times b \\times y \\times c \\times z)$. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಸಹಗುಣಕಗಳನ್ನು ಗುಣಿಸೋಣ. $2 \\times 3 \\times 5 = 30$. ಚರಾಕ್ಷರಗಳು ವಿಜಾತೀಯವಾಗಿರುವುದರಿಂದ, ಅವುಗಳನ್ನು ಹಾಗೆಯೇ ಬರೆಯುತ್ತೇವೆ. ಆದ್ದರಿಂದ, ಅಂತಿಮ ಉತ್ತರ $30abcxyz$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EXP-2_example_4",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಗಾತ್ರ = $(2ax) \\times (3by) \\times (5cz)$",
+      "justification": "ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರವನ್ನು ಗುಣಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "= $(2 \\times 3 \\times 5) \\times (a \\times b \\times c \\times x \\times y \\times z)$",
+      "justification": "ಸಹಗುಣಕಗಳನ್ನು ಮತ್ತು ಚರಾಕ್ಷರಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಗುಂಪು ಮಾಡುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "= $30abcxyz$",
+      "justification": "ಸಹಗುಣಕಗಳನ್ನು ಗುಣಿಸಿ ಮತ್ತು ಚರಾಕ್ಷರಗಳನ್ನು ಒಗ್ಗೂಡಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "ALG-EXP-2_concept_3_chunk_010"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಉತ್ಪನ್ನಗಳನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣದಲ್ಲಿ ಉತ್ಪನ್ನಗಳನ್ನು ಸುಲಭವಾಗಿ ಗುರುತಿಸಬಹುದು. ಯಾವಾಗಲೂ ಬಾಣದ ಗುರುತಿನ ಬಲಭಾಗದಲ್ಲಿ ಬರೆಯಲಾದ ವಸ್ತುಗಳೇ ಉತ್ಪನ್ನಗಳು. ಇವು ಕ್ರಿಯೆಯ ಕೊನೆಯಲ್ಲಿ ನಮಗೆ ಸಿಗುವ ಹೊಸ ಪದಾರ್ಥಗಳಾಗಿವೆ. ಉದಾಹರಣೆಗೆ, ಎರಡು Mg ಪ್ಲಸ್ O two ಗಿವ್ಸ್ ಎರಡು MgO ಎಂಬ ಸಮೀಕರಣವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಬಾಣದ ಗುರುತಿನ ಬಲಬದಿಯಲ್ಲಿ ಮೆಗ್ನಿಸಿಯಂ ಆಕ್ಸೈಡ್, ಅಂದರೆ MgO ಇದೆ. ಆದ್ದರಿಂದ, ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಮೆಗ್ನಿಸಿಯಂ ಆಕ್ಸೈಡ್ ಉತ್ಪನ್ನವಾಗಿದೆ. ಪ್ರತಿವರ್ತಕಗಳು ಸೇರಿ ಉತ್ಪನ್ನಗಳು ಉಂಟಾಗುತ್ತವೆ.",
+  "script_display": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣದಲ್ಲಿ ಉತ್ಪನ್ನಗಳನ್ನು ಸುಲಭವಾಗಿ ಗುರುತಿಸಬಹುದು. ಯಾವಾಗಲೂ ಬಾಣದ ಗುರುತಿನ ಬಲಭಾಗದಲ್ಲಿ ಬರೆಯಲಾದ ವಸ್ತುಗಳೇ ಉತ್ಪನ್ನಗಳು. ಇವು ಕ್ರಿಯೆಯ ಕೊನೆಯಲ್ಲಿ ನಮಗೆ ಸಿಗುವ ಹೊಸ ಪದಾರ್ಥಗಳಾಗಿವೆ. ಉದಾಹರಣೆಗೆ, ಈ ಸಮೀಕರಣವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಬಾಣದ ಗುರುತಿನ ಬಲಬದಿಯಲ್ಲಿ ಮೆಗ್ನಿಸಿಯಂ ಆಕ್ಸೈಡ್, ಅಂದರೆ MgO ಇದೆ. ಆದ್ದರಿಂದ, ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಮೆಗ್ನಿಸಿಯಂ ಆಕ್ಸೈಡ್ (MgO) ಉತ್ಪನ್ನವಾಗಿದೆ. ಪ್ರತಿವರ್ತಕಗಳು ಸೇರಿ ಉತ್ಪನ್ನಗಳು ಉಂಟಾಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ರಾಸಾಯನಿಕ ಸಮೀಕರಣದಲ್ಲಿ, ಬಾಣದ ಗುರುತಿನ ಬಲಭಾಗದಲ್ಲಿ ಉತ್ಪನ್ನಗಳನ್ನು ಬರೆಯಲಾಗುತ್ತದೆ.",
+    "ಇವು ಕ್ರಿಯೆಯ ನಂತರ ಉಂಟಾಗುವ ಸಂಪೂರ್ಣ ಹೊಸ ಗುಣಗಳಿರುವ ವಸ್ತುಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\underbrace{2\\text{Mg} + \\text{O}_2}_{\\text{ಪ್ರತಿವರ್ತಕಗಳು (Reactants)}} \\rightarrow \\underbrace{2\\text{MgO}}_{\\text{ಉತ್ಪನ್ನ (Product)}}",
+    "placeholder_note": "A chemical equation showing reactants on the left (2Mg + O2) and the product on the right (2MgO), with labels underneath each part."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_1_concept_1_chunk_010"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ ಹಂತದ ಪರಿಹಾರ: ಭಾಗ 1",
+  "script": "ಮೊದಲ ಸಮೀಕರಣ x ಮೈನಸ್ 5 ಈಕ್ವಲ್ಸ್ 9 ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಚರಾಕ್ಷರ x ನಿಂದ 5 ನ್ನು ಕಳೆಯಲಾಗಿದೆ ಮತ್ತು ಫಲಿತಾಂಶ 9 ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಇದರ ಹೇಳಿಕೆ ರೂಪ 'x ನಿಂದ 5 ನ್ನು ಕಳೆದಾಗ 9 ದೊರೆಯುತ್ತದೆ'. ಈಗ ಎರಡನೇ ಸಮೀಕರಣ 5p ಈಕ್ವಲ್ಸ್ 20 ಅನ್ನು ನೋಡೋಣ. 5p ಎಂದರೆ p ಯ ಐದರಷ್ಟು. ಹಾಗಾಗಿ, ಇದರ ಹೇಳಿಕೆ 'p ಯ ಐದರಷ್ಟು 20 ಆಗಿದೆ' ಎಂದಾಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲ ಸಮೀಕರಣ $x-5 = 9$ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಚರಾಕ್ಷರ $x$ ನಿಂದ 5 ನ್ನು ಕಳೆಯಲಾಗಿದೆ ಮತ್ತು ಫಲಿತಾಂಶ 9 ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಇದರ ಹೇಳಿಕೆ ರೂಪ 'x ನಿಂದ 5 ನ್ನು ಕಳೆದಾಗ 9 ದೊರೆಯುತ್ತದೆ'. ಈಗ ಎರಡನೇ ಸಮೀಕರಣ $5p = 20$ ಅನ್ನು ನೋಡೋಣ. $5p$ ಎಂದರೆ $p$ ಯ ಐದರಷ್ಟು. ಹಾಗಾಗಿ, ಇದರ ಹೇಳಿಕೆ 'p ಯ ಐದರಷ್ಟು 20 ಆಗಿದೆ' ಎಂದಾಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "ALG-EQ1-1_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "(i) $x-5 = 9 \\rightarrow$ 'x' ನಿಂದ 5 ನ್ನು ಕಳೆದಾಗ 9 ದೊರೆಯುತ್ತದೆ.",
+      "justification": "'-' ಚಿಹ್ನೆಯು 'ಕಳೆದಾಗ' ಮತ್ತು '=' ಚಿಹ್ನೆಯು 'ಫಲಿತಾಂಶ' ವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "(ii) $5p = 20 \\rightarrow$ 'p' ಯ ಐದರಷ್ಟು 20 ಆಗಿದೆ.",
+      "justification": "$5p$ ಎಂದರೆ 'p ಯ 5 ರಷ್ಟು' ಎಂದರ್ಥ."
+    }
+  ],
+  "chunk_id": "ALG-EQ1-1_concept_2_chunk_010"
+}

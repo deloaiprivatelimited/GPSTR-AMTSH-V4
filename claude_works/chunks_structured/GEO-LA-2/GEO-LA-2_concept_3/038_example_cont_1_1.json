@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಸಾಧನೆಯ ಮೊದಲ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ಬಿ ಇ ಯು ಕೋನ ಎ ಬಿ ಕ್ಯೂ ನ ಕೋನಾರ್ಧಕವಾಗಿದೆ. ಕೋನಾರ್ಧಕದ ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, ಅದು ಕೋನವನ್ನು ಎರಡು ಸಮ ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, ಕೋನ ಎ ಬಿ ಇ ಯು ಪೂರ್ಣ ಕೋನ ಎ ಬಿ ಕ್ಯೂ ನ ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ. ಇದನ್ನು ನಾವು ಸಮೀಕರಣ ಒಂದು ಎಂದು ಬರೆಯೋಣ. ಅದೇ ರೀತಿ, ಸಿ ಜಿ ಯು ಕೋನ ಬಿ ಸಿ ಎಸ್ ನ ಕೋನಾರ್ಧಕವಾಗಿದೆ. ಹಾಗಾಗಿ, ಕೋನ ಬಿ ಸಿ ಜಿ ಯು ಪೂರ್ಣ ಕೋನ ಬಿ ಸಿ ಎಸ್ ನ ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ. ಇದನ್ನು ನಾವು ಸಮೀಕರಣ ಎರಡು ಎಂದು ಗುರುತಿಸೋಣ.",
+  "script_display": "ಸಾಧನೆಯ ಮೊದಲ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲಿಗೆ, BE ಯು $\\angle ABQ$ ನ ಕೋನಾರ್ಧಕವಾಗಿದೆ. ಕೋನಾರ್ಧಕದ ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, ಅದು ಕೋನವನ್ನು ಎರಡು ಸಮ ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, $\\angle ABE$ ಯು ಪೂರ್ಣ $\\angle ABQ$ ನ ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ. ಇದನ್ನು ನಾವು ಸಮೀಕರಣ (1) ಎಂದು ಬರೆಯೋಣ. ಅದೇ ರೀತಿ, CG ಯು $\\angle BCS$ ನ ಕೋನಾರ್ಧಕವಾಗಿದೆ. ಹಾಗಾಗಿ, $\\angle BCG$ ಯು ಪೂರ್ಣ $\\angle BCS$ ನ ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ. ಇದನ್ನು ನಾವು ಸಮೀಕರಣ (2) ಎಂದು ಗುರುತಿಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ರೇಖೆಗಳು PQ ಮತ್ತು RS ಅನ್ನು ಛೇದಕ ADಯು B ಮತ್ತು C ಬಿಂದುಗಳಲ್ಲಿ ಛೇದಿಸಿದೆ. ಅನುರೂಪ ಕೋನಗಳಾದ ∠ABQ ಮತ್ತು ∠BCS ಗಳ ಕೋನಾರ್ಧಕಗಳು BE ಮತ್ತು CG ಆಗಿವೆ. BE ಮತ್ತು CG ಸಮಾಂತರವಾಗಿವೆ.",
+    "labels": "ಚಿತ್ರ 6.21",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯಲ್ಲಿ ವಿವರಿಸಿದ ಜ್ಯಾಮಿತೀಯ ಸನ್ನಿವೇಶವನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ. ಕೋನಾರ್ಧಕಗಳು ಸಮಾಂತರವಾಗಿದ್ದರೆ ಮೂಲ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ ಎಂದು ಸಾಧಿಸಲು ಈ ಚಿತ್ರವು ಆಧಾರವಾಗಿದೆ.",
+    "placeholder_note": "Image to be generated for Example 5, showing lines PQ, RS, transversal AD, and bisectors BE, CG."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "GEO-LA-2_example_5",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\angle ABE = \\frac{1}{2} \\angle ABQ$ --- (1)",
+      "justification": "BEಯು $\\angle ABQ$ ನ ಕೋನಾರ್ಧಕವಾಗಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\angle BCG = \\frac{1}{2} \\angle BCS$ --- (2)",
+      "justification": "CGಯು $\\angle BCS$ ನ ಕೋನಾರ್ಧಕವಾಗಿದೆ."
+    }
+  ],
+  "chunk_id": "GEO-LA-2_concept_3_chunk_038"
+}

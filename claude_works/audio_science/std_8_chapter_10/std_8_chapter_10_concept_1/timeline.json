@@ -1,0 +1,189 @@
+{
+  "module_id": "std_8_chapter_10_concept_1",
+  "chapter_code": "std_8_chapter_10",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 16,
+  "total_duration": 640.336,
+  "total_duration_formatted": "10:40",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಶಬ್ದದ ಉತ್ಪತ್ತಿ ಮತ್ತು ಕಂಪನ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 48.371,
+      "duration": 48.371,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_002",
+      "chunk_file": "002_definition_0.json",
+      "wav_file": "002_definition_0.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಕಂಪನ (Vibration)",
+      "type": "definition",
+      "start": 48.971,
+      "end": 77.102,
+      "duration": 28.131,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_003",
+      "chunk_file": "003_definition_cont_0_1.json",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಕಂಪನ (Vibration)",
+      "type": "definition",
+      "start": 77.702,
+      "end": 123.873,
+      "duration": 46.171,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_004",
+      "chunk_file": "004_definition_cont_0_2.json",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ರಬ್ಬರ್ ಬ್ಯಾಂಡ್",
+      "type": "definition",
+      "start": 124.473,
+      "end": 159.804,
+      "duration": 35.331,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_005",
+      "chunk_file": "005_definition_cont_0_3.json",
+      "wav_file": "005_definition_cont_0_3.wav",
+      "slide_title": "ಹೋಲಿಕೆ: ಕಂಪನ vs. ನಿಶ್ಚಲ",
+      "type": "definition",
+      "start": 160.404,
+      "end": 202.495,
+      "duration": 42.091,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_006",
+      "chunk_file": "006_experiment_0.json",
+      "wav_file": "006_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ 10.1: ಉಪಕರಣಗಳ ಜೋಡಣೆ",
+      "type": "experiment_activity",
+      "start": 203.095,
+      "end": 244.746,
+      "duration": 41.651,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_007",
+      "chunk_file": "007_experiment_cont_0_1.json",
+      "wav_file": "007_experiment_cont_0_1.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ 10.1: ಕಾರ್ಯವಿಧಾನ",
+      "type": "experiment_activity",
+      "start": 245.346,
+      "end": 284.757,
+      "duration": 39.411,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_008",
+      "chunk_file": "008_experiment_cont_0_2.json",
+      "wav_file": "008_experiment_cont_0_2.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ 10.1: ವೀಕ್ಷಣೆ",
+      "type": "experiment_activity",
+      "start": 285.357,
+      "end": 316.608,
+      "duration": 31.251,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_009",
+      "chunk_file": "009_experiment_cont_0_3.json",
+      "wav_file": "009_experiment_cont_0_3.wav",
+      "slide_title": "ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "start": 317.208,
+      "end": 350.379,
+      "duration": 33.171,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_010",
+      "chunk_file": "010_experiment_1.json",
+      "wav_file": "010_experiment_1.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ 10.3: ನೀರಿನಲ್ಲಿ ಅಲೆಗಳ ಸೃಷ್ಟಿ",
+      "type": "visual_explain",
+      "start": 350.979,
+      "end": 393.19,
+      "duration": 42.211,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_011",
+      "chunk_file": "011_experiment_cont_1_1.json",
+      "wav_file": "011_experiment_cont_1_1.wav",
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+      "type": "step_walkthrough",
+      "start": 393.79,
+      "end": 435.281,
+      "duration": 41.491,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_012",
+      "chunk_file": "012_experiment_cont_1_2.json",
+      "wav_file": "012_experiment_cont_1_2.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "visual_explain",
+      "start": 435.881,
+      "end": 477.212,
+      "duration": 41.331,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_013",
+      "chunk_file": "013_experiment_2.json",
+      "wav_file": "013_experiment_2.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ 10.5: ಜಲತರಂಗ - ಉಪಕರಣಗಳು",
+      "type": "visual_explain",
+      "start": 477.812,
+      "end": 520.503,
+      "duration": 42.691,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_014",
+      "chunk_file": "014_experiment_cont_2_1.json",
+      "wav_file": "014_experiment_cont_2_1.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ 10.5: ಜಲತರಂಗ - ವಿಧಾನ",
+      "type": "step_walkthrough",
+      "start": 521.103,
+      "end": 559.074,
+      "duration": 37.971,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_015",
+      "chunk_file": "015_experiment_cont_2_2.json",
+      "wav_file": "015_experiment_cont_2_2.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "visual_explain",
+      "start": 559.674,
+      "end": 598.205,
+      "duration": 38.531,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_1_chunk_016",
+      "chunk_file": "016_recap_0.json",
+      "wav_file": "016_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಶಬ್ದದ ಉತ್ಪತ್ತಿ ಮತ್ತು ಕಂಪನ",
+      "type": "recap",
+      "start": 598.805,
+      "end": 639.736,
+      "duration": 40.931,
+      "script_words": 52
+    }
+  ]
+}

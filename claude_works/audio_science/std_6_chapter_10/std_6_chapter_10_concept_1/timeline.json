@@ -1,0 +1,90 @@
+{
+  "module_id": "std_6_chapter_10_concept_1",
+  "chapter_code": "std_6_chapter_10",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 316.597,
+  "total_duration_formatted": "5:16",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_10_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಜೀವಿಗಳು ಮತ್ತು ನಿರ್ಜೀವಿಗಳು",
+      "type": "title_hero",
+      "start": 0.0,
+      "end": 50.331,
+      "duration": 50.331,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_1_chunk_002",
+      "chunk_file": "002_classification_0.json",
+      "wav_file": "002_classification_0.wav",
+      "slide_title": "ಜೀವಿಗಳ ಗುಣಲಕ್ಷಣಗಳು: ಪೀಠಿಕೆ",
+      "type": "concept_explanation",
+      "start": 50.931,
+      "end": 95.462,
+      "duration": 44.531,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_1_chunk_003",
+      "chunk_file": "003_classification_cont_0_1.json",
+      "wav_file": "003_classification_cont_0_1.wav",
+      "slide_title": "ಗುಣಲಕ್ಷಣಗಳು 1: ಬೆಳವಣಿಗೆ ಮತ್ತು ಚಲನೆ",
+      "type": "concept_explanation",
+      "start": 96.062,
+      "end": 114.473,
+      "duration": 18.411,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_1_chunk_004",
+      "chunk_file": "004_classification_cont_0_2.json",
+      "wav_file": "004_classification_cont_0_2.wav",
+      "slide_title": "ಗುಣಲಕ್ಷಣಗಳು 2: ಪೋಷಣೆ ಮತ್ತು ಶ್ವಾಸಕ್ರಿಯೆ",
+      "type": "concept_explanation",
+      "start": 115.073,
+      "end": 166.284,
+      "duration": 51.211,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_1_chunk_005",
+      "chunk_file": "005_classification_cont_0_3.json",
+      "wav_file": "005_classification_cont_0_3.wav",
+      "slide_title": "ಗುಣಲಕ್ಷಣಗಳು 3: ವಿಸರ್ಜನೆ ಮತ್ತು ಪ್ರಚೋದನೆಗೆ ಪ್ರತಿಕ್ರಿಯೆ",
+      "type": "concept_explanation",
+      "start": 166.884,
+      "end": 220.535,
+      "duration": 53.651,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_1_chunk_006",
+      "chunk_file": "006_classification_cont_0_4.json",
+      "wav_file": "006_classification_cont_0_4.wav",
+      "slide_title": "ಗುಣಲಕ್ಷಣಗಳು 4: ಸಂತಾನೋತ್ಪತ್ತಿ ಮತ್ತು ಸಾವು",
+      "type": "concept_explanation",
+      "start": 221.135,
+      "end": 274.466,
+      "duration": 53.331,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_1_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 275.066,
+      "end": 315.997,
+      "duration": 40.931,
+      "script_words": 49
+    }
+  ]
+}

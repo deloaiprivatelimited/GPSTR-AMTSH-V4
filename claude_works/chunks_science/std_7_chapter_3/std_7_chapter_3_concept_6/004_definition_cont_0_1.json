@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ವಿಕಿರಣ: ಸೂರ್ಯನ ಉದಾಹರಣೆ",
+  "script": "ವಿಕಿರಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ ಸೂರ್ಯ. ಸೂರ್ಯ ಮತ್ತು ನಮ್ಮ ಭೂಮಿಯ ನಡುವೆ ಇರುವ ಬಾಹ್ಯಾಕಾಶವು ಬಹುತೇಕ ನಿರ್ವಾತವಾಗಿದೆ, ಅಂದರೆ ಅಲ್ಲಿ ಯಾವುದೇ ಕಣಗಳಿಲ್ಲ. ನಾವು ಕಲಿತಂತೆ, ವಹನ ಮತ್ತು ಸಂವಹನಕ್ಕೆ ಉಷ್ಣವನ್ನು ಸಾಗಿಸಲು ಮಾಧ್ಯಮದ ಕಣಗಳು ಬೇಕು. ನಿರ್ವಾತದಲ್ಲಿ ಕಣಗಳೇ ಇಲ್ಲದಿರುವುದರಿಂದ, ಆ ಎರಡು ವಿಧಾನಗಳು ಇಲ್ಲಿ ವಿಫಲವಾಗುತ್ತವೆ. ಆದರೂ, ಸೂರ್ಯನಿಂದ ಬರುವ ಅಪಾರವಾದ ಉಷ್ಣವು ವಿಕಿರಣದ ಮೂಲಕವೇ ನಮ್ಮನ್ನು ತಲುಪುತ್ತದೆ. ಇದು ವಿಕಿರಣದ ಅತ್ಯಂತ ಪ್ರಮುಖ ಲಕ್ಷಣವಾಗಿದೆ.",
+  "script_display": "ವಿಕಿರಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ ಸೂರ್ಯ. ಸೂರ್ಯ ಮತ್ತು ನಮ್ಮ ಭೂಮಿಯ ನಡುವೆ ಇರುವ ಬಾಹ್ಯಾಕಾಶವು ಬಹುತೇಕ ನಿರ್ವಾತವಾಗಿದೆ (vacuum), ಅಂದರೆ ಅಲ್ಲಿ ಯಾವುದೇ ಕಣಗಳಿಲ್ಲ. ನಾವು ಕಲಿತಂತೆ, ವಹನ ಮತ್ತು ಸಂವಹನಕ್ಕೆ ಉಷ್ಣವನ್ನು ಸಾಗಿಸಲು ಮಾಧ್ಯಮದ ಕಣಗಳು ಬೇಕು. ನಿರ್ವಾತದಲ್ಲಿ ಕಣಗಳೇ ಇಲ್ಲದಿರುವುದರಿಂದ, ಆ ಎರಡು ವಿಧಾನಗಳು ಇಲ್ಲಿ ವಿಫಲವಾಗುತ್ತವೆ. ಆದರೂ, ಸೂರ್ಯನಿಂದ ಬರುವ ಅಪಾರವಾದ ಉಷ್ಣವು ವಿಕಿರಣದ ಮೂಲಕವೇ ನಮ್ಮನ್ನು ತಲುಪುತ್ತದೆ. ಇದು ವಿಕಿರಣದ ಅತ್ಯಂತ ಪ್ರಮುಖ ಲಕ್ಷಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸೂರ್ಯ ಮತ್ತು ಭೂಮಿಯ ನಡುವೆ ಬಹುತೇಕ ನಿರ್ವಾತ (vacuum) ಇದೆ.",
+    "ವಹನ ಮತ್ತು ಸಂವಹನಕ್ಕೆ ಮಾಧ್ಯಮದ ಕಣಗಳು ಬೇಕು, ಆದ್ದರಿಂದ ಅವು ನಿರ್ವಾತದಲ್ಲಿ ಸಾಧ್ಯವಿಲ್ಲ.",
+    "ಸೂರ್ಯನಿಂದ ಬರುವ ಉಷ್ಣವು ವಿಕಿರಣದ ಮೂಲಕವೇ ಭೂಮಿಯನ್ನು ತಲುಪುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing the Sun on one side and the Earth on the other. The space between them is labeled 'ನಿರ್ವಾತ (Vacuum)'. Wavy arrows labeled 'ವಿಕಿರಣ (Radiation)' are shown traveling from the Sun to the Earth.",
+    "labels": "Sun, Earth, Vacuum, Radiation",
+    "scientific_significance": "Illustrates that heat transfer via radiation can occur through a vacuum, which is impossible for conduction or convection.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_3_concept_6_chunk_004"
+}

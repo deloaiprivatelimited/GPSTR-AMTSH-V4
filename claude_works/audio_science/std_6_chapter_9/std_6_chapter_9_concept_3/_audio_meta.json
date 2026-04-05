@@ -1,0 +1,136 @@
+{
+  "module_id": "std_6_chapter_9_concept_3",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Callirrhoe",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:36:31",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "56835d5e923bcfab4aeddeb7de595687",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 30.531,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು (Prerequisites)",
+      "type": "prerequisites",
+      "script_words": 37,
+      "generated_at": "2026-04-02 13:34:34"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "a7faa84c698be38bfaeaeb730c166c0d",
+      "wav_file": "003_definition_0.wav",
+      "duration": 38.571,
+      "slide_title": "ಬಡಿಯುವಿಕೆ / ಒಕ್ಕಣೆ (Threshing)",
+      "type": "definition",
+      "script_words": 48,
+      "generated_at": "2026-04-02 13:34:35"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "a8a82cf33b7ab86ca064a75ba1540937",
+      "wav_file": "001_intro_0.wav",
+      "duration": 58.331,
+      "slide_title": "ಬಡಿಯುವಿಕೆ / ಒಕ್ಕಣೆ (Threshing)",
+      "type": "intro",
+      "script_words": 81,
+      "generated_at": "2026-04-02 13:34:46"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "ff229de442882a36765715fe0c97b2d3",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 40.491,
+      "slide_title": "ಸಾಂಪ್ರದಾಯಿಕ ಬಡಿಯುವಿಕೆ ವಿಧಾನ",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:34:59"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "e00e9feb4addff52b303454e837249f7",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 38.651,
+      "slide_title": "ಆಧುನಿಕ ಬಡಿಯುವಿಕೆ ವಿಧಾನಗಳು",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:35:02"
+    },
+    "008_classification_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "47892254c6e368065e56c6ea828c9468",
+      "wav_file": "008_classification_0.wav",
+      "duration": 46.211,
+      "slide_title": "ಬಡಿಯುವಿಕೆ (Threshing): ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 48,
+      "generated_at": "2026-04-02 13:35:39"
+    },
+    "009_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "43c85eed98511fe1fb487e8e97b63c20",
+      "wav_file": "009_classification_cont_0_1.wav",
+      "duration": 47.731,
+      "slide_title": "ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 13:35:42"
+    },
+    "010_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "0328baaa532761797c9ed7cab81eeb9b",
+      "wav_file": "010_classification_cont_0_2.wav",
+      "duration": 49.571,
+      "slide_title": "ಆಧುನಿಕ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 13:35:48"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "9248cfe5a1c4f1e390cc41006968cdbc",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 41.451,
+      "slide_title": "ಬಡಿಯುವಿಕೆ vs ತೂರುವಿಕೆ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸ",
+      "type": "definition",
+      "script_words": 47,
+      "generated_at": "2026-04-02 13:36:03"
+    },
+    "007_property_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "d2a1037577e07c85b8e74c6455c0d1d0",
+      "wav_file": "007_property_0.wav",
+      "duration": 47.891,
+      "slide_title": "ಬಡಿಯುವಿಕೆ: ಮೂಲ ತತ್ವ",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:36:09"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "0e299f3f70f7ae52b85baace6c18675d",
+      "wav_file": "011_recap_0.wav",
+      "duration": 34.811,
+      "slide_title": "ಸಾರಾಂಶ: ಬಡಿಯುವಿಕೆ",
+      "type": "recap",
+      "script_words": 49,
+      "generated_at": "2026-04-02 13:36:31"
+    }
+  }
+}

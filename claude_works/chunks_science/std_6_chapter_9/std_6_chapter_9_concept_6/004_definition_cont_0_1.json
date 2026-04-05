@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಮಣ್ಣು ಮಿಶ್ರಿತ ನೀರು",
+  "script": "ಇದನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ಮಣ್ಣು ಮಿಶ್ರಿತ ನೀರನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಆರಂಭದಲ್ಲಿ ನೀರು ಸಂಪೂರ್ಣವಾಗಿ ಕಂದು ಬಣ್ಣದಲ್ಲಿರುತ್ತದೆ. ಈಗ, ಈ ಬೀಕರ್‌ಗೆ ಯಾವುದೇ ಅಡಚಣೆಯಾಗದಂತೆ ಸ್ವಲ್ಪ ಸಮಯ ಹಾಗೆಯೇ ಬಿಡಿ. ಸಮಯ ಕಳೆದಂತೆ, ನೀರಿಗಿಂತ ಭಾರವಾಗಿರುವ ಮಣ್ಣಿನ ಕಣಗಳು ನಿಧಾನವಾಗಿ ಬೀಕರ್‌ನ ತಳಭಾಗದಲ್ಲಿ ಸಂಗ್ರಹವಾಗುವುದನ್ನು ನೀವು ಗಮನಿಸಬಹುದು. ಇದರ ಪರಿಣಾಮವಾಗಿ, ಮೇಲ್ಭಾಗದಲ್ಲಿ ಸ್ಪಷ್ಟವಾದ ನೀರು ಉಳಿಯುತ್ತದೆ. ಈ ಸಂಪೂರ್ಣ ಪ್ರಕ್ರಿಯೆಯೇ ತಳಸೇರುವಿಕೆ.",
+  "script_display": "ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ಮಣ್ಣು ಮಿಶ್ರಿತ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದನ್ನು ಸ್ವಲ್ಪ ಸಮಯ ಸ್ಥಿರವಾಗಿ ಬಿಟ್ಟಾಗ, ಭಾರವಾದ ಮಣ್ಣಿನ ಕಣಗಳು ಗುರುತ್ವಾಕರ್ಷಣೆಯಿಂದಾಗಿ ಬೀಕರ್‌ನ ತಳದಲ್ಲಿ ಸಂಗ್ರಹವಾಗುತ್ತವೆ. ಈ ಪ್ರಕ್ರಿಯೆಯೇ ತಳಸೇರುವಿಕೆ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: ಮಣ್ಣು ಮಿಶ್ರಿತ ನೀರು.",
+    "ಮಿಶ್ರಣವನ್ನು ಸ್ವಲ್ಪ ಸಮಯ ಸ್ಥಿರವಾಗಿ ಬಿಡಿ.",
+    "ಭಾರವಾದ ಮಣ್ಣಿನ ಕಣಗಳು ತಳದಲ್ಲಿ ಸಂಗ್ರಹವಾಗುತ್ತವೆ.",
+    "ಮೇಲ್ಭಾಗದಲ್ಲಿ ಸ್ಪಷ್ಟವಾದ ನೀರು ಉಳಿಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-stage diagram. Stage 1: A beaker filled with cloudy, muddy water, labeled 'ಆರಂಭದಲ್ಲಿ (Initially)'. Stage 2: The same beaker after some time, showing clear water on top and a layer of mud settled at the bottom, labeled 'ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ (After some time)'. The settled mud is labeled 'ತಳछನ (Sediment)' and the clear water is labeled 'ಸ್ಪಷ್ಟ ದ್ರವ (Clear liquid)'.",
+    "labels": "ಬೀಕರ್, ಮಣ್ಣು ಮಿಶ್ರಿತ ನೀರು, ಸ್ಪಷ್ಟ ದ್ರವ, ತಳछನ",
+    "scientific_significance": "Illustrates the process of sedimentation where heavier, insoluble particles (mud) settle down in a liquid (water) over time due to gravity, separating into two distinct layers.",
+    "placeholder_note": "Image to be generated showing the sedimentation of muddy water in a beaker over time."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "",
+  "chunk_id": "std_6_chapter_9_concept_6_chunk_004"
+}

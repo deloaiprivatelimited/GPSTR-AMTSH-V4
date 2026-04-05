@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಮ್ಲ ಮಳೆ: ನೈಟ್ರಿಕ್ ಆಮ್ಲದ ರಚನೆ",
+  "script": "ಈಗ ನಾವು ಆಮ್ಲ ಮಳೆಯ ರಚನೆಯಲ್ಲಿ ಮತ್ತೊಂದು ಪ್ರಮುಖ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಎರಡು ಅಣುಗಳ ನೈಟ್ರೋಜನ್ ಡೈಆಕ್ಸೆಡ್ ಅನಿಲವು, ಒಂದು ಅಣು ನೀರಿನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಒಂದು ಅಣು ನೈಟ್ರಿಕ್ ಆಮ್ಲ ಮತ್ತು ಒಂದು ಅಣು ನೈಟ್ರಸ್ ಆಮ್ಲವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಈ ಆಮ್ಲಗಳು ಮಳೆ ನೀರಿನಲ್ಲಿ ಕರಗಿ ಭೂಮಿಗೆ ಬೀಳುತ್ತವೆ.",
+  "script_display": "ಈಗ ನಾವು ಆಮ್ಲ ಮಳೆಯ ರಚನೆಯಲ್ಲಿ ಮತ್ತೊಂದು ಪ್ರಮುಖ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಎರಡು ಅಣುಗಳ ನೈಟ್ರೋಜನ್ ಡೈಆಕ್ಸೆಡ್ ಅನಿಲವು (2NO₂), ಒಂದು ಅಣು ನೀರಿನೊಂದಿಗೆ (H₂O) ವರ್ತಿಸಿ, ಒಂದು ಅಣು ನೈಟ್ರಿಕ್ ಆಮ್ಲ (HNO₃) ಮತ್ತು ಒಂದು ಅಣು ನೈಟ್ರಸ್ ಆಮ್ಲವನ್ನು (HNO₂) ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಈ ಆಮ್ಲಗಳು ಮಳೆ ನೀರಿನಲ್ಲಿ ಕರಗಿ ಭೂಮಿಗೆ ಬೀಳುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_a",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2NO_2(g) + H_2O(l) \\rightarrow HNO_3(aq) + HNO_2(aq)",
+    "placeholder_note": "Chemical equation for the formation of nitric and nitrous acid from nitrogen dioxide and water."
+  },
+  "chunk_id": "std_8_chapter_4_concept_7_chunk_017"
+}

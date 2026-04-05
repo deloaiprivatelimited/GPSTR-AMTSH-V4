@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಸ್ಯಗಳಿಗೆ ಸಾರಜನಕದ ಸಮಸ್ಯೆ",
+  "script": "ಸಸ್ಯಗಳು ಆರೋಗ್ಯವಾಗಿ ಬೆಳೆಯಲು ಮನುಷ್ಯರಂತೆ ಪೋಷಕಾಂಶಗಳು ಬೇಕು. ಅವುಗಳಲ್ಲಿ ಸಾರಜನಕ ಒಂದು ಬಹಳ ಮುಖ್ಯವಾದ ಪೋಷಕಾಂಶ. ನಿಮಗೆ ಗೊತ್ತಾ, ನಮ್ಮ ಸುತ್ತಲಿನ ಗಾಳಿಯಲ್ಲಿ ಸುಮಾರು ಎಪ್ಪತ್ತೆಂಟು ಪ್ರತಿಶತದಷ್ಟು ಸಾರಜನಕ ಅನಿಲವಿದೆ. ಆದರೆ, ಒಂದು ದೊಡ್ಡ ಸಮಸ್ಯೆ ಇದೆ. ಸಸ್ಯಗಳು ಈ ಸಾರಜನಕವನ್ನು ನೇರವಾಗಿ ಗಾಳಿಯಿಂದ ತೆಗೆದುಕೊಳ್ಳಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇದು ಸಮುದ್ರದ ಮಧ್ಯೆ ಇದ್ದು, ಉಪ್ಪು ನೀರನ್ನು ಕುಡಿಯಲು ಆಗದ ಹಾಗೆ. ಸಸ್ಯಗಳಿಗೆ ಸಾರಜನಕ ಬೇಕು, ಆದರೆ ಗಾಳಿಯಲ್ಲಿರುವ ರೂಪದಲ್ಲಿ ಅದು ನಿಷ್ಪ್ರಯೋಜಕ. ಹಾಗಾದರೆ ಸಸ್ಯಗಳಿಗೆ ಈ ಸಾರಜನಕ ಹೇಗೆ ಸಿಗುತ್ತದೆ?",
+  "script_display": "ಸಸ್ಯಗಳು ಆರೋಗ್ಯವಾಗಿ ಬೆಳೆಯಲು ಮನುಷ್ಯರಂತೆ ಪೋಷಕಾಂಶಗಳು ಬೇಕು. ಅವುಗಳಲ್ಲಿ ಸಾರಜನಕ (Nitrogen) ಒಂದು ಬಹಳ ಮುಖ್ಯವಾದ ಪೋಷಕಾಂಶ. ನಮ್ಮ ಸುತ್ತಲಿನ ಗಾಳಿಯಲ್ಲಿ ಸುಮಾರು 78% ರಷ್ಟು ಸಾರಜನಕ ಅನಿಲ (N₂) ಇದೆ. ಆದರೆ, ಒಂದು ದೊಡ್ಡ ಸಮಸ್ಯೆ ಇದೆ: ಸಸ್ಯಗಳು ಈ ಸಾರಜನಕವನ್ನು ನೇರವಾಗಿ ಗಾಳಿಯಿಂದ ತೆಗೆದುಕೊಳ್ಳಲು ಸಾಧ್ಯವಿಲ್ಲ. ಹಾಗಾದರೆ ಸಸ್ಯಗಳಿಗೆ ಈ ಸಾರಜನಕ ಹೇಗೆ ಸಿಗುತ್ತದೆ?",
+  "display_bullets": [
+    "ಸಸ್ಯಗಳ ಬೆಳವಣಿಗೆಗೆ ಸಾರಜನಕ ಅತ್ಯಗತ್ಯ.",
+    "ವಾತಾವರಣದಲ್ಲಿ 78% ಸಾರಜನಕ (N₂) ಇದೆ.",
+    "ಆದರೆ, ಸಸ್ಯಗಳು ವಾತಾವರಣದ ಸಾರಜನಕವನ್ನು ನೇರವಾಗಿ ಬಳಸಲಾಗುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating that plants cannot directly absorb atmospheric nitrogen (N₂). An arrow points from 'N₂ in the air' to the plant, but it is crossed out with a large red 'X'. The plant may look slightly unhealthy to signify a lack of nutrients.",
+    "labels": "Plant, Atmospheric Nitrogen (N₂), Cannot Absorb",
+    "scientific_significance": "Visually represents the core problem that nitrogen fixation solves: the unavailability of atmospheric nitrogen to plants.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_2_concept_4_chunk_006"
+}

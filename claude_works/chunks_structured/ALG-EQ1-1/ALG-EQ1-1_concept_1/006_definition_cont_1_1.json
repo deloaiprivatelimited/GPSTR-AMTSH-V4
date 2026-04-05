@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಬೀಜೋಕ್ತಿಯ ವಿಶ್ಲೇಷಣೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ವಿವರವಾಗಿ ನೋಡೋಣ. 'ನಾಲ್ಕು x ಪ್ಲಸ್ ಐದು' ಎಂಬ ಬೀಜೋಕ್ತಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಇದರಲ್ಲಿ 'x' ಎಂಬುದು ಒಂದು ಚರಾಕ್ಷರ, ಅಂದರೆ ಅದರ ಬೆಲೆ ಬದಲಾಗಬಹುದು. 'ನಾಲ್ಕು' ಮತ್ತು 'ಐದು' ಸ್ಥಿರಾಂಕಗಳು, ಅವುಗಳ ಬೆಲೆ ಯಾವಾಗಲೂ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ 'ನಾಲ್ಕು' ಮತ್ತು 'x' ನಡುವೆ ಗುಣಾಕಾರದ ಕ್ರಿಯೆ ಇದೆ, ಮತ್ತು 'ನಾಲ್ಕು x' ಹಾಗೂ 'ಐದು' ನಡುವೆ ಸಂಕಲನದ ಕ್ರಿಯೆ ಇದೆ. ಈ ಸಂಪೂರ್ಣ ರಚನೆಯೇ ಒಂದು ಬೀಜೋಕ್ತಿ. ಇದರಲ್ಲಿ ಎಲ್ಲಿಯೂ ಸಮ ಚಿಹ್ನೆ ಇಲ್ಲದಿರುವುದನ್ನು ಗಮನಿಸಿ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ವಿವರವಾಗಿ ನೋಡೋಣ. $4x + 5$ ಎಂಬ ಬೀಜೋಕ್ತಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಇದರಲ್ಲಿ '$x$' ಎಂಬುದು ಒಂದು ಚರಾಕ್ಷರ, ಅಂದರೆ ಅದರ ಬೆಲೆ ಬದಲಾಗಬಹುದು. '$4$' ಮತ್ತು '$5$' ಸ್ಥಿರಾಂಕಗಳು, ಅವುಗಳ ಬೆಲೆ ಯಾವಾಗಲೂ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ '$4$' ಮತ್ತು '$x$' ನಡುವೆ ಗುಣಾಕಾರದ ಕ್ರಿಯೆ ಇದೆ, ಮತ್ತು '$4x$' ಹಾಗೂ '$5$' ನಡುವೆ ಸಂಕಲನದ ಕ್ರಿಯೆ ಇದೆ. ಈ ಸಂಪೂರ್ಣ ರಚನೆಯೇ ಒಂದು ಬೀಜೋಕ್ತಿ. ಇದರಲ್ಲಿ ಎಲ್ಲಿಯೂ ಸಮ ಚಿಹ್ನೆ ಇಲ್ಲದಿರುವುದನ್ನು ಗಮನಿಸಿ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: $4x + 5$",
+    "$x$ ಒಂದು ಚರಾಕ್ಷರ (variable).",
+    "$4$ ಮತ್ತು $5$ ಸ್ಥಿರಾಂಕಗಳು (constants).",
+    "ಇಲ್ಲಿ ಗುಣಾಕಾರ ಮತ್ತು ಸಂಕಲನ ಕ್ರಿಯೆಗಳಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "simple_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An annotation diagram showing the expression 4x + 5. An arrow from 'x' is labelled 'ಚರಾಕ್ಷರ (Variable)'. Arrows from '4' and '5' are labelled 'ಸ್ಥಿರಾಂಕ (Constant)'. The '+' sign is labelled 'ಮೂಲಕ್ರಿಯೆ (Operation)'.",
+    "labels": "algebraic expression, variable, constant, operation",
+    "mathematical_significance": "This visual breaks down an algebraic expression into its fundamental components: variables, constants, and operations, making the definition more concrete and easier to understand.",
+    "placeholder_note": "Image to be generated showing the breakdown of 4x+5."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "ALG-EQ1-1_concept_1_chunk_006"
+}

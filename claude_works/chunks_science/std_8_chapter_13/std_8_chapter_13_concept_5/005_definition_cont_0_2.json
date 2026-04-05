@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ನೈಸರ್ಗಿಕ ಉದಾಹರಣೆ: ಕಾಮನಬಿಲ್ಲು",
+  "script": "ಬೆಳಕಿನ ಚದುರುವಿಕೆಗೆ ನಮ್ಮ ಪ್ರಕೃತಿಯಲ್ಲಿಯೇ ಒಂದು ಸುಂದರವಾದ ಉದಾಹರಣೆ ಇದೆ, ಅದುವೇ ಕಾಮನಬಿಲ್ಲು. ಮಳೆ ಬಂದು ನಿಂತ ನಂತರ, ವಾತಾವರಣದಲ್ಲಿ ತೇಲಾಡುತ್ತಿರುವ ನೀರಿನ ಸಣ್ಣ ಸಣ್ಣ ಹನಿಗಳು ಲಕ್ಷಾಂತರ ಚಿಕ್ಕ ಚಿಕ್ಕ ಪಟ್ಟಕಗಳಂತೆ, ಅಂದರೆ ಪ್ರಿಸಂಗಳಂತೆ ವರ್ತಿಸುತ್ತವೆ. ಸೂರ್ಯನ ಬೆಳಕು ಈ ನೀರಿನ ಹನಿಗಳ ಮೂಲಕ ಹಾದುಹೋದಾಗ, ಅದು ಚದುರಿ, ಅಂದರೆ ಬೇರೆ ಬೇರೆ ಬಣ್ಣಗಳಾಗಿ ವಿಭಜನೆಗೊಂಡು, ಆಕಾಶದಲ್ಲಿ ಒಂದು ಬೃಹತ್ ವರ್ಣಪಟಲವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಕಾಮನಬಿಲ್ಲು ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಬೆಳಕಿನ ಚದುರುವಿಕೆಗೆ ನಮ್ಮ ಪ್ರಕೃತಿಯಲ್ಲಿಯೇ ಒಂದು ಸುಂದರವಾದ ಉದಾಹರಣೆ ಇದೆ, ಅದುವೇ ಕಾಮನಬಿಲ್ಲು. ಮಳೆ ಬಂದು ನಿಂತ ನಂತರ, ವಾತಾವರಣದಲ್ಲಿ ತೇಲಾಡುತ್ತಿರುವ ನೀರಿನ ಸಣ್ಣ ಸಣ್ಣ ಹನಿಗಳು ಲಕ್ಷಾಂತರ ಚಿಕ್ಕ ಚಿಕ್ಕ ಪಟ್ಟಕಗಳಂತೆ (prisms) ವರ್ತಿಸುತ್ತವೆ. ಸೂರ್ಯನ ಬೆಳಕು ಈ ನೀರಿನ ಹನಿಗಳ ಮೂಲಕ ಹಾದುಹೋದಾಗ, ಅದು ಚದುರಿ, ಅಂದರೆ ಬೇರೆ ಬೇರೆ ಬಣ್ಣಗಳಾಗಿ ವಿಭಜನೆಗೊಂಡು, ಆಕಾಶದಲ್ಲಿ ಒಂದು ಬೃಹತ್ ವರ್ಣಪಟಲವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಕಾಮನಬಿಲ್ಲು ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಕಾಮನಬಿಲ್ಲು ಬೆಳಕಿನ ಚದುರುವಿಕೆಗೆ ಒಂದು ಅತ್ಯುತ್ತಮ ನೈಸರ್ಗಿಕ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+    "ಮಳೆಯ ನಂತರ ವಾತಾವರಣದಲ್ಲಿರುವ ನೀರಿನ ಸಣ್ಣ ಹನಿಗಳು ಚಿಕ್ಕ ಚಿಕ್ಕ ಪಟ್ಟಕಗಳಂತೆ ವರ್ತಿಸುತ್ತವೆ.",
+    "ಸೂರ್ಯನ ಬೆಳಕು ಈ ಹನಿಗಳ ಮೂಲಕ ಹಾದುಹೋದಾಗ, ಅದು ಚದುರಿ ಕಾಮನಬಿಲ್ಲನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_basic",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing sunlight entering a single spherical water droplet. The light refracts, reflects internally, and then refracts again as it exits, splitting into the colors of the spectrum. This process, repeated across many droplets, forms a rainbow.",
+    "labels": "Sunlight, Water Droplet, Refraction, Internal Reflection, Dispersed Light (Rainbow colors)",
+    "scientific_significance": "Demonstrates the natural mechanism of dispersion that creates a rainbow. It shows that water droplets in the atmosphere can act like prisms to separate sunlight.",
+    "placeholder_note": "Image to be generated showing how a water droplet disperses sunlight to form a rainbow."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_13_concept_5_chunk_005"
+}

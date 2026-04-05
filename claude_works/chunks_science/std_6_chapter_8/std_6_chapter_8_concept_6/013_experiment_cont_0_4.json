@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+  "script": "ನೀವು ಬಾಟಲಿಯನ್ನು ಅಮುಕಿ ಬಿಟ್ಟಾಗ, ಬಾಟಲಿಯೊಳಗೆ ಒಂದು ಮಬ್ಬಾದ, ಮೋಡದಂತಹ ರಚನೆ ಕಾಣಿಸುವುದನ್ನು ನೀವು ಗಮನಿಸಬಹುದು. ಹೊಗೆಯನ್ನು ಸೇರಿಸುವ ಮೊದಲು ಇದು ಕಾಣಿಸಿರಲಿಲ್ಲ. ಇದರ ತೀರ್ಮಾನವೇನೆಂದರೆ, ನೀರಾವಿಯು ಸಾಂದ್ರೀಕರಣಗೊಂಡು ನೀರಿನ ಹನಿಗಳಾಗಲು, ಅದಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳಲು ಧೂಳು ಅಥವಾ ಹೊಗೆಯಂತಹ ಸಣ್ಣ ಕಣಗಳು ಬೇಕು. ಈ ಕಣಗಳನ್ನು 'ಸಾಂದ್ರೀಕರಣ ನ್ಯೂಕ್ಲಿಯಸ್' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ವಾತಾವರಣದಲ್ಲಿಯೂ ಇದೇ ರೀತಿ ನಡೆಯುತ್ತದೆ. ಧೂಳಿನ ಕಣಗಳ ಮೇಲೆ ನೀರಾವಿ ಸಾಂದ್ರೀಕರಣಗೊಂಡು ಮೋಡಗಳು ರೂಪುಗೊಳ್ಳುತ್ತವೆ.",
+  "script_display": "ನೀವು ಬಾಟಲಿಯನ್ನು ಅಮುಕಿ ಬಿಟ್ಟಾಗ, ಬಾಟಲಿಯೊಳಗೆ ಒಂದು ಮಬ್ಬಾದ, ಮೋಡದಂತಹ ರಚನೆ ಕಾಣಿಸುವುದನ್ನು ನೀವು ಗಮನಿಸಬಹುದು. ಹೊಗೆಯನ್ನು ಸೇರಿಸುವ ಮೊದಲು ಇದು ಕಾಣಿಸಿರಲಿಲ್ಲ. ಇದರ ತೀರ್ಮಾನವೇನೆಂದರೆ, ನೀರಾವಿಯು ಸಾಂದ್ರೀಕರಣಗೊಂಡು (condensation) ನೀರಿನ ಹನಿಗಳಾಗಲು, ಅದಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳಲು ಧೂಳು ಅಥವಾ ಹೊಗೆಯಂತಹ ಸಣ್ಣ ಕಣಗಳು (condensation nuclei) ಬೇಕು. ಈ ಕಣಗಳನ್ನು 'ಸಾಂದ್ರೀಕರಣ ನ್ಯೂಕ್ಲಿಯಸ್' (condensation nuclei) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ವಾತಾವರಣದಲ್ಲಿಯೂ ಇದೇ ರೀತಿ ನಡೆಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ವೀಕ್ಷಣೆ: ಹೊಗೆಯನ್ನು ಸೇರಿಸಿದ ನಂತರ ಬಾಟಲಿಯಲ್ಲಿ ಮಬ್ಬು/ಮೋಡ ಕಾಣಿಸುತ್ತದೆ.",
+    "ತೀರ್ಮಾನ: ನೀರಾವಿ ಸಾಂದ್ರೀಕರಣಗೊಳ್ಳಲು ಧೂಳಿನಂತಹ ಕಣಗಳು ಆಧಾರವಾಗಿ ಬೇಕು.",
+    "ಈ ಕಣಗಳನ್ನು 'ಸಾಂದ್ರೀಕರಣ ನ್ಯೂಕ್ಲಿಯಸ್' (condensation nuclei) ಎನ್ನುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing the final result: the bottle is squeezed and released, and a visible cloud has formed inside, swirling around the smoke particles.",
+    "labels": "ಮೋಡ ರಚನೆ",
+    "scientific_significance": "Visually confirms the hypothesis that condensation nuclei are necessary for cloud formation under these conditions.",
+    "placeholder_note": "Image to be generated."
+  },
+  "chunk_id": "std_6_chapter_8_concept_6_chunk_013"
+}

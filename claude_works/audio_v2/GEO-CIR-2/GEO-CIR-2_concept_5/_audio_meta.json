@@ -1,0 +1,191 @@
+{
+  "module_id": "GEO-CIR-2_concept_5",
+  "merge_code": "GEO-CIR-2",
+  "voice": "Aoede",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 16,
+  "ok_count": 16,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:01:06",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "0284a969cc88caff04bc789cd18040fd",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 45.331,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 56,
+      "generated_at": "2026-03-30 14:58:04"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "7f7669a7a1f4538de0838931a662bdad",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 42.731,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಛೇದಕವಲ್ಲದ ರೇಖೆ",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-03-30 14:58:13"
+    },
+    "005_definition_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "9f746625d0aa5bb9c4bbb1323d3ba97d",
+      "wav_file": "005_definition_1.wav",
+      "duration": 44.251,
+      "slide_title": "ಛೇದಕ (Secant): ವ್ಯಾಖ್ಯಾನ",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-03-30 14:58:14"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "1c72bd9a01d73357f2b65e8c0b79607a",
+      "wav_file": "003_definition_0.wav",
+      "duration": 46.731,
+      "slide_title": "ವೃತ್ತ ಮತ್ತು ರೇಖೆ: ಮೊದಲ ಸಾಧ್ಯತೆ",
+      "type": "definition",
+      "script_words": 73,
+      "generated_at": "2026-03-30 14:58:18"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "9d9e5183164d108f81a8a84545cdb912",
+      "wav_file": "001_intro_0.wav",
+      "duration": 69.371,
+      "slide_title": "ಸ್ಪರ್ಶಕಗಳು ಮತ್ತು ಛೇದಕಗಳು",
+      "type": "intro",
+      "script_words": 86,
+      "generated_at": "2026-03-30 14:58:20"
+    },
+    "007_definition_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "a65321e1bc3b8bf8d10f015b8043fc9b",
+      "wav_file": "007_definition_2.wav",
+      "duration": 37.971,
+      "slide_title": "ವೃತ್ತ ಮತ್ತು ರೇಖೆ: ಮೂರನೇ ಸಾಧ್ಯತೆ",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-03-30 14:58:57"
+    },
+    "010_definition_3.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "3dbec06fb9a2af5021d52aee989343b6",
+      "wav_file": "010_definition_3.wav",
+      "duration": 29.211,
+      "slide_title": "ಸ್ಪರ್ಶ ಬಿಂದು: ಪರಿಚಯ",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-03-30 14:59:01"
+    },
+    "008_definition_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "18ac5d805e389e0b03e00664d82401c9",
+      "wav_file": "008_definition_cont_2_1.wav",
+      "duration": 39.811,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಸ್ಪರ್ಶಕ (Tangent)",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-03-30 14:59:04"
+    },
+    "009_definition_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "e0e67997bd96e29dedadaf6232e54e44",
+      "wav_file": "009_definition_cont_2_2.wav",
+      "duration": 41.291,
+      "slide_title": "ಸ್ಪರ್ಶಕ: ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-03-30 14:59:19"
+    },
+    "006_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "f976d113205759eefc97c0772b3cf342",
+      "wav_file": "006_definition_cont_1_1.wav",
+      "duration": 48.291,
+      "slide_title": "ಛೇದಕ ಮತ್ತು ಜ್ಯಾ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸ",
+      "type": "definition",
+      "script_words": 65,
+      "generated_at": "2026-03-30 14:59:20"
+    },
+    "011_definition_cont_3_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "403a4b3fc9c881603311f0cc4d05aca1",
+      "wav_file": "011_definition_cont_3_1.wav",
+      "duration": 36.931,
+      "slide_title": "ಸ್ಪರ್ಶ ಬಿಂದು: ವ್ಯಾಖ್ಯಾನ",
+      "type": "definition",
+      "script_words": 49,
+      "generated_at": "2026-03-30 14:59:58"
+    },
+    "015_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "1b10e1081c5d2a282cefd561415cd509",
+      "wav_file": "015_property_cont_0_2.wav",
+      "duration": 49.651,
+      "slide_title": "ಒಂದು ಬಿಂದುವಿನಿಂದ ವೃತ್ತಕ್ಕೆ ಸ್ಪರ್ಶಕಗಳು",
+      "type": "concept_explanation",
+      "script_words": 69,
+      "generated_at": "2026-03-30 15:00:06"
+    },
+    "012_definition_cont_3_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "623f013f08040d80766909ed765287c7",
+      "wav_file": "012_definition_cont_3_2.wav",
+      "duration": 44.331,
+      "slide_title": "ಸ್ಪರ್ಶ ಬಿಂದು: ಪ್ರಮುಖ ಅಂಶಗಳು",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-03-30 15:00:14"
+    },
+    "014_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "1fcd173f14e8de6e58e1922c0250d506",
+      "wav_file": "014_property_cont_0_1.wav",
+      "duration": 49.891,
+      "slide_title": "ಸ್ಪರ್ಶಕವು ಛೇದಕದ ವಿಶೇಷ ಪ್ರಕರಣ",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-03-30 15:00:14"
+    },
+    "013_property_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "f9e775b7caaa8f3c246c40f245543824",
+      "wav_file": "013_property_0.wav",
+      "duration": 54.811,
+      "slide_title": "ವೃತ್ತದ ಮೇಲಿನ ಬಿಂದುವಿನಲ್ಲಿ ಸ್ಪರ್ಶಕ",
+      "type": "concept_explanation",
+      "script_words": 76,
+      "generated_at": "2026-03-30 15:00:18"
+    },
+    "016_recap_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "a11680f6d49f8110c0e9e30727d152dc",
+      "wav_file": "016_recap_0.wav",
+      "duration": 46.891,
+      "slide_title": "ಮಾಡ್ಯೂಲ್ ಸಾರಾಂಶ: ಸ್ಪರ್ಶಕಗಳು ಮತ್ತು ಛೇದಕಗಳು",
+      "type": "recap",
+      "script_words": 66,
+      "generated_at": "2026-03-30 15:01:06"
+    }
+  }
+}

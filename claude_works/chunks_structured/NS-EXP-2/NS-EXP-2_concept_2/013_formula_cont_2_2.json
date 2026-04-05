@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ನಿಯಮದ ಸಾಮಾನ್ಯೀಕರಣ",
+  "script": "ಈಗ ಇದನ್ನೇ ಸಾಮಾನ್ಯ ರೂಪದಲ್ಲಿ ನೋಡೋಣ. a ಯ ಘಾತ m, ಪೂರ್ತಿ ಘಾತ n ಎಂದರೆ, ನಾವು a ಯ ಘಾತ m ಅನ್ನು n ಬಾರಿ ಗುಣಿಸಬೇಕು. ಅಂದರೆ, a ಯ ಘಾತ m ಗುಣಿಸು a ಯ ಘಾತ m, ಹೀಗೆ n ಬಾರಿ. ನಮಗೆ ಈಗಾಗಲೇ ಗುಣಾಕಾರದ ನಿಯಮ ತಿಳಿದಿದೆ, ಆಧಾರಗಳು ಒಂದೇ ಆಗಿದ್ದರೆ, ನಾವು ಘಾತಸೂಚಿಗಳನ್ನು ಕೂಡಿಸುತ್ತೇವೆ. ಹಾಗಾಗಿ, ಇದು a ಯ ಘಾತ m ಪ್ಲಸ್ m ಪ್ಲಸ್ m, ಹೀಗೆ n ಬಾರಿ ಆಗುತ್ತದೆ. m ಅನ್ನು n ಬಾರಿ ಕೂಡಿಸಿದರೆ, ಅದು m ಗುಣಿಸು n ಗೆ ಸಮ. ಆದ್ದರಿಂದ, a ಯ ಘಾತ m, ಪೂರ್ತಿ ಘಾತ n ಸಮ a ಯ ಘಾತ m ಗುಣಿಸು n. ಹೀಗೆ ಈ ನಿಯಮವು ಗುಣಾಕಾರದ ನಿಯಮದಿಂದಲೇ ಬಂದಿದೆ.",
+  "script_display": "ಈಗ ಇದನ್ನೇ ಸಾಮಾನ್ಯ ರೂಪದಲ್ಲಿ ನೋಡೋಣ. $(a^m)^n$ ಎಂದರೆ, ನಾವು $a^m$ ಅನ್ನು 'n' ಬಾರಿ ಗುಣಿಸಬೇಕು. ಅಂದರೆ, $a^m \\times a^m \\times ... \\times a^m$ ('n' ಬಾರಿ). ನಮಗೆ ಈಗಾಗಲೇ ಗುಣಾಕಾರದ ನಿಯಮ ($a^x \\times a^y = a^{x+y}$) ತಿಳಿದಿದೆ. ಆಧಾರಗಳು ಒಂದೇ ಆಗಿದ್ದರೆ, ನಾವು ಘಾತಸೂಚಿಗಳನ್ನು ಕೂಡಿಸುತ್ತೇವೆ. ಹಾಗಾಗಿ, ಇದು $a^{m+m+...+m}$ ('n' ಬಾರಿ) ಆಗುತ್ತದೆ. 'm' ಅನ್ನು 'n' ಬಾರಿ ಕೂಡಿಸಿದರೆ, ಅದು $m \\times n$ ಗೆ ಸಮ. ಆದ್ದರಿಂದ, $(a^m)^n = a^{mn}$. ಹೀಗೆ ಈ ನಿಯಮವು ಗುಣಾಕಾರದ ನಿಯಮದಿಂದಲೇ ಬಂದಿದೆ.",
+  "display_bullets": [
+    "$(a^m)^n = a^m \\times a^m \\times ... \\times a^m$ ('n' ಬಾರಿ).",
+    "ಗುಣಾಕಾರ ನಿಯಮದಂತೆ, ಘಾತಗಳನ್ನು ಕೂಡಿಸಿ: $a^{m+m+...+m}$ ('n' ಬಾರಿ).",
+    "'m' ನ್ನು 'n' ಬಾರಿ ಕೂಡಿಸುವುದು $m \\times n$ ಗೆ ಸಮ.",
+    "ಆದ್ದರಿಂದ, $(a^m)^n = a^{mn}$."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "$$(a^m)^n = \\underbrace{a^m \\times a^m \\times \\dots \\times a^m}_{n \\text{ times}} = a^{\\overbrace{m+m+\\dots+m}^{n \\text{ times}}} = a^{mn}$$",
+    "placeholder_note": "Show the general derivation of the power of a power rule."
+  },
+  "chunk_id": "NS-EXP-2_concept_2_chunk_013"
+}

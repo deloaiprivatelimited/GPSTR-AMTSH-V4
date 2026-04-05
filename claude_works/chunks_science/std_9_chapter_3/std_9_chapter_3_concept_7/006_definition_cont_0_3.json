@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಎಲೆಕ್ಟ್ರಾನ್ ಕಳೆದುಕೊಳ್ಳುವುದು vs. ಪಡೆದುಕೊಳ್ಳುವುದು",
+  "script": "ಈಗ ಎರಡು ವಿಭಿನ್ನ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಸೋಡಿಯಂ ಇದೆ. ಇದು ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಕಳೆದುಕೊಂಡು ಧನ ಅಯಾನು ಆಗುತ್ತದೆ. ಕಳೆದುಕೊಂಡ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಸಂಖ್ಯೆ ಒಂದು, ಆದ್ದರಿಂದ ಸೋಡಿಯಂನ ವೇಲೆನ್ಸಿ ಒಂದು. ಬಲಭಾಗದಲ್ಲಿ ಕ್ಲೋರಿನ್ ಇದೆ. ಇದು ಸ್ಥಿರವಾಗಲು ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಪಡೆದುಕೊಳ್ಳುತ್ತದೆ ಮತ್ತು ಋಣ ಅಯಾನು ಆಗುತ್ತದೆ. ಪಡೆದುಕೊಂಡ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಸಂಖ್ಯೆ ಒಂದು, ಆದ್ದರಿಂದ ಕ್ಲೋರಿನ್‌ನ ವೇಲೆನ್ಸಿಯೂ ಕೂಡ ಒಂದು. ಹೀಗೆ, ವೇಲೆನ್ಸಿ ಎಂದರೆ ಕಳೆದುಕೊಂಡ, ಪಡೆದುಕೊಂಡ ಅಥವಾ ಹಂಚಿಕೊಂಡ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಸಂಖ್ಯೆ.",
+  "script_display": "ಈಗ ಎರಡು ವಿಭಿನ್ನ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಸೋಡಿಯಂ (Na) ಇದೆ. ಇದು 1 ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಕಳೆದುಕೊಂಡು ಧನ ಅಯಾನು (Na⁺) ಆಗುತ್ತದೆ. ಕಳೆದುಕೊಂಡ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಸಂಖ್ಯೆ 1, ಆದ್ದರಿಂದ ಸೋಡಿಯಂನ ವೇಲೆನ್ಸಿ 1. ಬಲಭಾಗದಲ್ಲಿ ಕ್ಲೋರಿನ್ (Cl) ಇದೆ. ಇದು ಸ್ಥಿರವಾಗಲು 1 ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಪಡೆದುಕೊಳ್ಳುತ್ತದೆ ಮತ್ತು ಋಣ ಅಯಾನು (Cl⁻) ಆಗುತ್ತದೆ. ಪಡೆದುಕೊಂಡ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಸಂಖ್ಯೆ 1, ಆದ್ದರಿಂದ ಕ್ಲೋರಿನ್‌ನ ವೇಲೆನ್ಸಿಯೂ ಕೂಡ 1. ಹೀಗೆ, ವೇಲೆನ್ಸಿ ಎಂದರೆ ಕಳೆದುಕೊಂಡ, ಪಡೆದುಕೊಂಡ ಅಥವಾ ಹಂಚಿಕೊಂಡ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಸಂಖ್ಯೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen diagram. Left side: Shows a Sodium atom (Na) losing one electron to become a Sodium ion (Na⁺). Text below says 'ಸೋಡಿಯಂ (Na) | ವೇಲೆನ್ಸಿ = 1 | 1 ಎಲೆಕ್ಟ್ರಾನ್ ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ'. Right side: Shows a Chlorine atom (Cl) gaining one electron to become a Chloride ion (Cl⁻). Text below says 'ಕ್ಲೋರಿನ್ (Cl) | ವೇಲೆನ್ಸಿ = 1 | 1 ಎಲೆಕ್ಟ್ರಾನ್ ಪಡೆದುಕೊಳ್ಳುತ್ತದೆ'.",
+    "labels": "Na, Na⁺, e⁻, Cl, Cl⁻",
+    "scientific_significance": "Compares a metal that achieves stability by losing an electron with a non-metal that achieves stability by gaining one, showing that the valency is 1 in both cases because the number of electrons exchanged is one.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_3_concept_7_chunk_006"
+}

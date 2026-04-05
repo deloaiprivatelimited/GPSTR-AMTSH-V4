@@ -1,0 +1,39 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಸಾಮಗ್ರಿಗಳ ಪಾರದರ್ಶಕತೆ ಪರೀಕ್ಷೆ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಪಾರದರ್ಶಕ, ಅಪಾರದರ್ಶಕ ಮತ್ತು ಅರೆಪಾರದರ್ಶಕ ವಸ್ತುಗಳನ್ನು ಗುರುತಿಸೋಣ. ಈ ಪ್ರಯೋಗಕ್ಕೆ ನಮಗೆ ಕೆಲವು ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಬೆಳಕಿನ ಮೂಲವಾಗಿ ಒಂದು ಟಾರ್ಚ್. ನಂತರ, ಪರೀಕ್ಷಿಸಲು ಮೂರು ವಿಭಿನ್ನ ಸಾಮಗ್ರಿಗಳು: ಒಂದು ಗಾಜಿನ ಹಾಳೆ, ಒಂದು ಮರದ ಹಲಗೆ, ಮತ್ತು ಒಂದು ಟ್ರೇಸಿಂಗ್ ಕಾಗದ. ಈ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ, ಬೆಳಕು ಅವುಗಳ ಮೂಲಕ ಹೇಗೆ ಹಾದುಹೋಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವು ಗಮನಿಸಲಿದ್ದೇವೆ. ಸಿದ್ಧರಿದ್ದೀರಾ? ಹಾಗಾದರೆ, ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಪಾರದರ್ಶಕ, ಅಪಾರದರ್ಶಕ ಮತ್ತು ಅರೆಪಾರದರ್ಶಕ ವಸ್ತುಗಳನ್ನು ಗುರುತಿಸೋಣ. ಈ ಪ್ರಯೋಗಕ್ಕೆ ನಮಗೆ ಕೆಲವು ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಬೆಳಕಿನ ಮೂಲವಾಗಿ ಒಂದು ಟಾರ್ಚ್. ನಂತರ, ಪರೀಕ್ಷಿಸಲು ಮೂರು ವಿಭಿನ್ನ ಸಾಮಗ್ರಿಗಳು: ಒಂದು ಗಾಜಿನ ಹಾಳೆ, ಒಂದು ಮರದ ಹಲಗೆ, ಮತ್ತು ಒಂದು ಟ್ರೇಸಿಂಗ್ ಕಾಗದ. ಈ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ, ಬೆಳಕು ಅವುಗಳ ಮೂಲಕ ಹೇಗೆ ಹಾದುಹೋಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವು ಗಮನಿಸಲಿದ್ದೇವೆ. ಸಿದ್ಧರಿದ್ದೀರಾ? ಹಾಗಾದರೆ, ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "display_bullets": [
+    "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು:",
+    "ಟಾರ್ಚ್",
+    "ಗಾಜಿನ ಹಾಳೆ",
+    "ಮರದ ಹಲಗೆ",
+    "ಟ್ರೇಸಿಂಗ್ ಕಾಗದ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_A",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the materials needed for the experiment: a handheld torch, a flat sheet of glass, a small wooden plank, and a sheet of tracing paper, all arranged neatly on a table.",
+    "labels": "ಟಾರ್ಚ್, ಗಾಜಿನ ಹಾಳೆ, ಮರದ ಹಲಗೆ, ಟ್ರೇಸಿಂಗ್ ಕಾಗದ",
+    "scientific_significance": "Shows the simple setup required to test the property of transparency in materials.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_6_concept_3_chunk_009"
+}

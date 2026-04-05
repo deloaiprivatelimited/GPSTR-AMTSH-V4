@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಓರೆ vs ಸಮಮಿತಿ ರೇಖಾಚಿತ್ರ",
+  "script": "ಈಗ ಓರೆ ಮತ್ತು ಸಮಮಿತಿ ರೇಖಾಚಿತ್ರಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಓರೆ ರೇಖಾಚಿತ್ರವಿದೆ. ಇಲ್ಲಿ ಮುಂಭಾಗದ ಮುಖವು ಚಪ್ಪಟೆಯಾಗಿ ಕಾಣುತ್ತದೆ ಮತ್ತು ಆಳವನ್ನು ತೋರಿಸುವ ರೇಖೆಗಳು ಪ್ರಮಾಣಾನುಗುಣವಾಗಿಲ್ಲ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿರುವ ಸಮಮಿತಿ ರೇಖಾಚಿತ್ರವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಘನದ ಎಲ್ಲಾ ಅಂಚುಗಳು ಸರಿಯಾದ ಅನುಪಾತದಲ್ಲಿವೆ. ಇದು ನೋಡಲು ಹೆಚ್ಚು ನೈಜವಾಗಿ ಕಾಣುತ್ತದೆ, ಅಲ್ಲವೇ? ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೆಂದರೆ, ಸಮಮಿತಿ ಚಿತ್ರದಲ್ಲಿ ಅಳತೆಗಳು ನಿಖರವಾಗಿರುತ್ತವೆ, ಆದರೆ ಓರೆ ಚಿತ್ರದಲ್ಲಿ ಅಳತೆಗಳು ಕೇವಲ ಅಂದಾಜಿಗಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಈಗ ಓರೆ ಮತ್ತು ಸಮಮಿತಿ ರೇಖಾಚಿತ್ರಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಓರೆ ರೇಖಾಚಿತ್ರವಿದೆ. ಇಲ್ಲಿ ಮುಂಭಾಗದ ಮುಖವು ಚಪ್ಪಟೆಯಾಗಿ ಕಾಣುತ್ತದೆ ಮತ್ತು ಆಳವನ್ನು ತೋರಿಸುವ ರೇಖೆಗಳು ಪ್ರಮಾಣಾನುಗುಣವಾಗಿಲ್ಲ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿರುವ ಸಮಮಿತಿ ರೇಖಾಚಿತ್ರವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಘನದ ಎಲ್ಲಾ ಅಂಚುಗಳು ಸರಿಯಾದ ಅನುಪಾತದಲ್ಲಿವೆ. ಇದು ನೋಡಲು ಹೆಚ್ಚು ನೈಜವಾಗಿ ಕಾಣುತ್ತದೆ, ಅಲ್ಲವೇ? ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೆಂದರೆ, ಸಮಮಿತಿ ಚಿತ್ರದಲ್ಲಿ ಅಳತೆಗಳು ನಿಖರವಾಗಿರುತ್ತವೆ, ಆದರೆ ಓರೆ ಚಿತ್ರದಲ್ಲಿ ಅಳತೆಗಳು ಕೇವಲ ಅಂದಾಜಿಗಾಗಿರುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "template_3",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. On the left, an oblique sketch of a cube with the caption 'ಓರೆ ರೇಖಾಚಿತ್ರ (Oblique Sketch)' and a sub-caption 'ಅಳತೆಗಳು ಪ್ರಮಾಣಾನುಗುಣವಾಗಿಲ್ಲ'. On the right, an isometric sketch of the same cube with the caption 'ಸಮಮಿತಿ ರೇಖಾಚಿತ್ರ (Isometric Sketch)' and a sub-caption 'ಅಳತೆಗಳು ಪ್ರಮಾಣಾನುಗುಣವಾಗಿವೆ'.",
+    "labels": "ಓರೆ ರೇಖಾಚಿತ್ರ, ಸಮಮಿತಿ ರೇಖಾಚಿತ್ರ, ಅನುಪಾತ",
+    "mathematical_significance": "Visually contrasts the non-proportional, distorted nature of oblique sketches with the proportional, true-to-length representation in isometric sketches, making the definition concrete.",
+    "placeholder_note": "Side-by-side image of oblique vs isometric cube."
+  },
+  "chunk_id": "VIS-SOLID-2_concept_4_chunk_010"
+}

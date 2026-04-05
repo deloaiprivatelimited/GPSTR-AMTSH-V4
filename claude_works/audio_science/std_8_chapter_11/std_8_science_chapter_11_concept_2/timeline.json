@@ -1,0 +1,101 @@
+{
+  "module_id": "std_8_science_chapter_11_concept_2",
+  "chapter_code": "std_8_chapter_11",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 319.208,
+  "total_duration_formatted": "5:19",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ದ್ರವಗಳ ವಾಹಕತೆ ಮತ್ತು ಸೂಕ್ಷ್ಮ ಪರೀಕ್ಷಕಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 60.771,
+      "duration": 60.771,
+      "script_words": 92
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "intro",
+      "start": 61.371,
+      "end": 87.742,
+      "duration": 26.371,
+      "script_words": 39
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_2_chunk_003",
+      "chunk_file": "003_experiment_0.json",
+      "wav_file": "003_experiment_0.wav",
+      "slide_title": "ದ್ರವಗಳ ವಾಹಕತೆ ಪರೀಕ್ಷೆ: ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "concept_explanation",
+      "start": 88.342,
+      "end": 130.073,
+      "duration": 41.731,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_2_chunk_004",
+      "chunk_file": "004_experiment_cont_0_1.json",
+      "wav_file": "004_experiment_cont_0_1.wav",
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಹಂತ 1",
+      "type": "concept_explanation",
+      "start": 130.673,
+      "end": 166.404,
+      "duration": 35.731,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_2_chunk_005",
+      "chunk_file": "005_experiment_cont_0_2.json",
+      "wav_file": "005_experiment_cont_0_2.wav",
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಹಂತ 2",
+      "type": "concept_explanation",
+      "start": 167.004,
+      "end": 208.415,
+      "duration": 41.411,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_2_chunk_006",
+      "chunk_file": "006_experiment_cont_0_3.json",
+      "wav_file": "006_experiment_cont_0_3.wav",
+      "slide_title": "ವೀಕ್ಷಣೆಗಳು: ಫಲಿತಾಂಶಗಳ ಕೋಷ್ಟಕ",
+      "type": "concept_explanation",
+      "start": 209.015,
+      "end": 242.506,
+      "duration": 33.491,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_2_chunk_007",
+      "chunk_file": "007_experiment_cont_0_4.json",
+      "wav_file": "007_experiment_cont_0_4.wav",
+      "slide_title": "ಪ್ರಯೋಗದ ತೀರ್ಮಾನ",
+      "type": "concept_explanation",
+      "start": 243.106,
+      "end": 285.877,
+      "duration": 42.771,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_2_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 286.477,
+      "end": 318.608,
+      "duration": 32.131,
+      "script_words": 47
+    }
+  ]
+}

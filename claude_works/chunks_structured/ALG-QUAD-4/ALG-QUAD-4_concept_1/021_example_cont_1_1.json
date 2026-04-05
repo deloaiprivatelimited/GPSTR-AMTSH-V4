@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ (i): $(x-2)^2+1=2x-3$",
+  "script": "ಮೊದಲ ಸಮೀಕರಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. x minus two whole squared plus one equals two x minus three. ಮೊದಲಿಗೆ, a minus b whole squared ಸೂತ್ರವನ್ನು ಬಳಸಿ x minus two whole squared ಅನ್ನು ವಿಸ್ತರಿಸೋಣ. ಆಗ ನಮಗೆ x squared minus four x plus four ಸಿಗುತ್ತದೆ. ಈಗ ಸಮೀಕರಣವು x squared minus four x plus four plus one equals two x minus three ಎಂದಾಗುತ್ತದೆ. ಇದನ್ನು ಮತ್ತಷ್ಟು ಸರಳೀಕರಿಸಿದಾಗ, x squared minus four x plus five equals two x minus three ಆಗುತ್ತದೆ. ಈಗ, ಬಲಭಾಗದಲ್ಲಿರುವ ಎಲ್ಲಾ ಪದಗಳನ್ನು ಎಡಭಾಗಕ್ಕೆ ತರೋಣ. ಆಗ x squared minus four x minus two x plus five plus three equals zero ಆಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ನಮಗೆ x squared minus six x plus eight equals zero ಸಿಗುತ್ತದೆ. ಇದು ax squared plus bx plus c equals zero ರೂಪದಲ್ಲಿದೆ, ಇಲ್ಲಿ a ಯ ಬೆಲೆ ಒಂದು. ಆದ್ದರಿಂದ, ಇದು ಒಂದು ವರ್ಗ ಸಮೀಕರಣವಾಗಿದೆ.",
+  "script_display": "ಮೊದಲ ಸಮೀಕರಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. $(x-2)^2+1=2x-3$. ಮೊದಲಿಗೆ, $(a-b)^2$ ಸೂತ್ರವನ್ನು ಬಳಸಿ $(x-2)^2$ ಅನ್ನು ವಿಸ್ತರಿಸೋಣ. ಆಗ ನಮಗೆ $x^2 - 4x + 4$ ಸಿಗುತ್ತದೆ. ಈಗ ಸಮೀಕರಣವು $x^2 - 4x + 4 + 1 = 2x - 3$ ಎಂದಾಗುತ್ತದೆ. ಇದನ್ನು ಮತ್ತಷ್ಟು ಸರಳೀಕರಿಸಿದಾಗ, $x^2 - 4x + 5 = 2x - 3$ ಆಗುತ್ತದೆ. ಈಗ, ಬಲಭಾಗದಲ್ಲಿರುವ ಎಲ್ಲಾ ಪದಗಳನ್ನು ಎಡಭಾಗಕ್ಕೆ ತರೋಣ. ಆಗ $x^2 - 4x - 2x + 5 + 3 = 0$ ಆಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ನಮಗೆ $x^2 - 6x + 8 = 0$ ಸಿಗುತ್ತದೆ. ಇದು $ax^2+bx+c=0$ ರೂಪದಲ್ಲಿದೆ, ಇಲ್ಲಿ $a=1$. ಆದ್ದರಿಂದ, ಇದು ಒಂದು ವರ್ಗ ಸಮೀಕರಣವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-QUAD-4_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$(x-2)^2+1 = 2x-3$",
+      "justification": "ದತ್ತ ಸಮೀಕರಣ."
+    },
+    {
+      "step": 2,
+      "action_display": "$x^2 - 4x + 4 + 1 = 2x - 3$",
+      "justification": "$(a-b)^2 = a^2-2ab+b^2$ ಸೂತ್ರವನ್ನು ಬಳಸಿ ವಿಸ್ತರಿಸುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "$x^2 - 6x + 8 = 0$",
+      "justification": "ಎಲ್ಲಾ ಪದಗಳನ್ನು ಒಂದು ಬದಿಗೆ ತಂದು ಸರಳೀಕರಿಸುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "ಇದು $ax^2+bx+c=0$ ರೂಪದಲ್ಲಿದೆ. ಆದ್ದರಿಂದ, ಇದು ವರ್ಗ ಸಮೀಕರಣವಾಗಿದೆ.",
+      "justification": "ಅಂತಿಮ ತೀರ್ಮಾನ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-QUAD-4_concept_1_chunk_021"
+}

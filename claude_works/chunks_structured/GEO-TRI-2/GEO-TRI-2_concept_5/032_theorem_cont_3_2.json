@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಲಂ.ವಿ.ಬಾ ಸಮರೂಪತೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಲಂ ವಿ ಬಾ ಸಮರೂಪತೆಯನ್ನು ಹೇಗೆ ಬಳಸಬಹುದು ಎಂದು ನೋಡೋಣ. ನಮ್ಮ ಮುಂದಿರುವ ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: ಟ್ರಯಾಂಗಲ್ ಪಿ ಕ್ಯೂ ಆರ್ ನಲ್ಲಿ, ಆಂಗಲ್ ಕ್ಯೂ ತೊಂಬತ್ತು ಡಿಗ್ರಿ, ಪಿ ಕ್ಯೂ ಮೂರು ಸೆಂಟಿಮೀಟರ್, ಮತ್ತು ಪಿ ಆರ್ ಐದು ಸೆಂಟಿಮೀಟರ್. ಹಾಗೆಯೇ, ಟ್ರಯಾಂಗಲ್ ಎಕ್ಸ್ ವೈ ಝೆಡ್ ನಲ್ಲಿ, ಆಂಗಲ್ ವೈ ತೊಂಬತ್ತು ಡಿಗ್ರಿ, ಎಕ್ಸ್ ವೈ ಆರು ಸೆಂಟಿಮೀಟರ್, ಮತ್ತು ಎಕ್ಸ್ ಝೆಡ್ ಹತ್ತು ಸೆಂಟಿಮೀಟರ್. ಈ ಎರಡು ತ್ರಿಭುಜಗಳು ಸಮರೂಪವೇ ಎಂದು ನಾವು ಪರೀಕ್ಷಿಸಬೇಕು. ನಮಗೆ ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳು ಮತ್ತು ಅವುಗಳ ಬಾಹುಗಳ ಅಳತೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಟ್ರಯಾಂಗಲ್ ಪಿ ಕ್ಯೂ ಆರ್ ಮತ್ತು ಟ್ರಯಾಂಗಲ್ ಎಕ್ಸ್ ವೈ ಝೆಡ್ ಸಮರೂಪವೇ ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ RHS ಸಮರೂಪತೆಯನ್ನು ಹೇಗೆ ಬಳಸಬಹುದು ಎಂದು ನೋಡೋಣ. ನಮ್ಮ ಮುಂದಿರುವ ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: $\\triangle PQR$ ನಲ್ಲಿ, $\\angle Q = 90^\\circ$, $PQ = 3$ cm, ಮತ್ತು $PR = 5$ cm. ಹಾಗೆಯೇ, $\\triangle XYZ$ ನಲ್ಲಿ, $\\angle Y = 90^\\circ$, $XY = 6$ cm, ಮತ್ತು $XZ = 10$ cm. ಈ ಎರಡು ತ್ರಿಭುಜಗಳು ಸಮರೂಪವೇ ಎಂದು ನಾವು ಪರೀಕ್ಷಿಸಬೇಕು. ನಮಗೆ ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳು ಮತ್ತು ಅವುಗಳ ಬಾಹುಗಳ ಅಳತೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು $\\triangle PQR \\sim \\triangle XYZ$ ಹೌದೇ ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "**ಪ್ರಶ್ನೆ:** $\\triangle PQR$ ನಲ್ಲಿ $\\angle Q = 90^\\circ$, $PQ = 3$ cm, $PR = 5$ cm. $\\triangle XYZ$ ನಲ್ಲಿ $\\angle Y = 90^\\circ$, $XY = 6$ cm, $XZ = 10$ cm. ಈ ತ್ರಿಭುಜಗಳು ಸಮರೂಪವೇ?",
+    "**ದತ್ತ (Given):** ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳು ಮತ್ತು ಅವುಗಳ ಬಾಹುಗಳ ಅಳತೆಗಳು.",
+    "**ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To Find):** $\\triangle PQR \\sim \\triangle XYZ$ ಹೌದೇ?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "template_3",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳು, PQR ಮತ್ತು XYZ. PQR ನಲ್ಲಿ, Q=90, PQ=3, PR=5. XYZ ನಲ್ಲಿ, Y=90, XY=6, XZ=10. ಅಳತೆಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಲೇಬಲ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "P, Q, R, X, Y, Z, 3 cm, 5 cm, 6 cm, 10 cm",
+    "mathematical_significance": "ಲಂ.ವಿ.ಬಾ ಸಮರೂಪತೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು ಒಂದು ನಿರ್ದಿಷ್ಟ ಉದಾಹರಣೆಯನ್ನು ಒದಗಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for the RHS example problem."
+  },
+  "sub_type": "worked_example_intro",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_032"
+}

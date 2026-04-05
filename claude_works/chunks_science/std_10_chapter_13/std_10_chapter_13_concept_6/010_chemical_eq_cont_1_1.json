@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಓಝೋನ್ ರಚನೆ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಇಲ್ಲಿ, ಒಂದು ಒಂಟಿ ಆಮ್ಲಜನಕದ ಪರಮಾಣು, ಅಂದರೆ O, ಮತ್ತೊಂದು ಜೋಡಿ ಆಮ್ಲಜನಕದ ಅಣು, ಅಂದರೆ O two ಜೊತೆ ಸೇರಿಕೊಳ್ಳುತ್ತಿದೆ. ಈ ಸಂಯೋಗದಿಂದ, ಮೂರು ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳಿರುವ ಓಝೋನ್ ಅಣು, ಅಂದರೆ O three, ರೂಪುಗೊಳ್ಳುತ್ತದೆ. ಇದು ವಾಯುಮಂಡಲದ ಮೇಲ್ಪದರದಲ್ಲಿ ನಿರಂತರವಾಗಿ ನಡೆಯುವ ಒಂದು ಪ್ರಕ್ರಿಯೆ.",
+  "script_display": "ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಇಲ್ಲಿ, ಒಂದು ಒಂಟಿ ಆಮ್ಲಜನಕದ ಪರಮಾಣು (O), ಮತ್ತೊಂದು ಜೋಡಿ ಆಮ್ಲಜನಕದ ಅಣು (O₂) ಜೊತೆ ಸೇರಿಕೊಳ್ಳುತ್ತಿದೆ. ಈ ಸಂಯೋಗದಿಂದ, ಮೂರು ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳಿರುವ ಓಝೋನ್ ಅಣು (O₃) ರೂಪುಗೊಳ್ಳುತ್ತದೆ. ಇದು ವಾಯುಮಂಡಲದ ಮೇಲ್ಪದರದಲ್ಲಿ ನಿರಂತರವಾಗಿ ನಡೆಯುವ ಒಂದು ಪ್ರಕ್ರಿಯೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a single oxygen atom (labeled 'O') and a diatomic oxygen molecule (labeled 'O₂') approaching each other. An arrow points from them to a triatomic ozone molecule (labeled 'O₃'). The O atom is a single sphere, O₂ is two connected spheres, and O₃ is three connected spheres in a bent shape.",
+    "labels": "ಸ್ವತಂತ್ರ ಆಮ್ಲಜನಕ ಪರಮಾಣು (O), ಆಮ್ಲಜನಕ ಅಣು (O₂), ಓಝೋನ್ ಅಣು (O₃)",
+    "scientific_significance": "Illustrates the combination reaction that forms ozone in the stratosphere.",
+    "placeholder_note": "Image to be generated showing the combination of O and O2 to form O3."
+  },
+  "sub_type": "chemical_equation",
+  "difficulty": "medium",
+  "source_example_id": "std_10_ch_13_eq_2_slide_2",
+  "chunk_id": "std_10_chapter_13_concept_6_chunk_010"
+}

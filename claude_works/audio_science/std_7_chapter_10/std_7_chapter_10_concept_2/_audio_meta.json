@@ -1,0 +1,136 @@
+{
+  "module_id": "std_7_chapter_10_concept_2",
+  "chapter_code": "std_7_chapter_10",
+  "voice": "Schedar",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:41:45",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "08dec430c68b5edd168c9b46ee5edbfb",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 24.771,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "script_words": 36,
+      "generated_at": "2026-04-02 13:39:40"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "1a833a6da191dbf6330dc0cfb4d7269e",
+      "wav_file": "003_definition_0.wav",
+      "duration": 34.851,
+      "slide_title": "ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಉಷ್ಣ ಪರಿಣಾಮ",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:39:45"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "ecac875210146e17e1fbfe436c607ed1",
+      "wav_file": "001_intro_0.wav",
+      "duration": 54.691,
+      "slide_title": "ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಉಷ್ಣ ಪರಿಣಾಮ",
+      "type": "intro",
+      "script_words": 79,
+      "generated_at": "2026-04-02 13:39:54"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "1024d3c4d7297d509fae722c003d633e",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 33.891,
+      "slide_title": "ಇದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ? ಒಂದು ಉದಾಹರಣೆ",
+      "type": "definition",
+      "script_words": 57,
+      "generated_at": "2026-04-02 13:40:11"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "10940c1864ffc6eca1b8798b101d37fc",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 52.571,
+      "slide_title": "ಎಲ್ಲಾ ತಂತಿಗಳೂ ಒಂದೇ ರೀತಿ ಬಿಸಿಯಾಗುತ್ತವೆಯೇ?",
+      "type": "definition",
+      "script_words": 71,
+      "generated_at": "2026-04-02 13:40:17"
+    },
+    "010_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "700dfad0d6518c8a449cfc76a267a3b9",
+      "wav_file": "010_experiment_cont_0_4.wav",
+      "duration": 30.731,
+      "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:40:44"
+    },
+    "009_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "03386ac254bbd3f387883c49e72dcb8a",
+      "wav_file": "009_experiment_cont_0_3.wav",
+      "duration": 42.051,
+      "slide_title": "ವೀಕ್ಷಣೆ (Observation)",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:40:50"
+    },
+    "007_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "5a91472e075ab5fcba012c91dea31355",
+      "wav_file": "007_experiment_cont_0_1.wav",
+      "duration": 44.091,
+      "slide_title": "ಅಗತ್ಯವಿರುವ ಉಪಕರಣಗಳು ಮತ್ತು ಜೋಡಣೆ",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 13:40:51"
+    },
+    "008_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "f7177e6b1f94f0439e369ef0a9eaee4c",
+      "wav_file": "008_experiment_cont_0_2.wav",
+      "duration": 40.531,
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:41:05"
+    },
+    "006_experiment_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "a6b12524b37888124830c2a4eba3e970",
+      "wav_file": "006_experiment_0.wav",
+      "duration": 37.611,
+      "slide_title": "ಚಟುವಟಿಕೆ: ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಉಷ್ಣ ಪರಿಣಾಮ",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:41:06"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "61b3174c2c6cb1704d564058060b079b",
+      "wav_file": "011_recap_0.wav",
+      "duration": 35.491,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 47,
+      "generated_at": "2026-04-02 13:41:45"
+    }
+  }
+}

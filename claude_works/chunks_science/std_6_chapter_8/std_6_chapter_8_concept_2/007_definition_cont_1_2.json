@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಆವೀಕರಣ vs. ಕುದಿಯುವಿಕೆ",
+  "script": "ಆವೀಕರಣ ಮತ್ತು ಕುದಿಯುವಿಕೆ, ಇವೆರಡೂ ದ್ರವವನ್ನು ಅನಿಲವನ್ನಾಗಿ ಪರಿವರ್ತಿಸುತ್ತವೆ, ಆದರೆ ಅವು ಒಂದೇ ಅಲ್ಲ. ಇವುಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ತಿಳಿಯುವುದು ಬಹಳ ಮುಖ್ಯ. ಆವೀಕರಣವು ದ್ರವದ ಮೇಲ್ಮೈಯಲ್ಲಿ ಮಾತ್ರ ನಡೆಯುವ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಇದು ಯಾವುದೇ ತಾಪಮಾನದಲ್ಲಿ ಸಂಭವಿಸಬಹುದು. ಉದಾಹರಣೆಗೆ, ನೆಲದ ಮೇಲಿನ ನೀರು ಒಣಗುವುದು. ಆದರೆ, ಕುದಿಯುವಿಕೆಯು ದ್ರವದ ಎಲ್ಲಾ ಭಾಗದಲ್ಲಿ, ಅಂದರೆ ಒಳಗಿನಿಂದಲೂ ನಡೆಯುತ್ತದೆ. ಇದು ಒಂದು ನಿರ್ದಿಷ್ಟ ತಾಪಮಾನದಲ್ಲಿ ಮಾತ್ರ ಆಗುತ್ತದೆ, ಅದನ್ನು ನಾವು ಕುದಿಯುವ ಬಿಂದು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಆವೀಕರಣವು ನಿಧಾನವಾದ ಪ್ರಕ್ರಿಯೆಯಾದರೆ, ಕುದಿಯುವಿಕೆಯು ಬಹಳ ವೇಗದ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "script_display": "ಆವೀಕರಣ (Evaporation) ಮತ್ತು ಕುದಿಯುವಿಕೆ (Boiling), ಇವೆರಡೂ ದ್ರವವನ್ನು ಅನಿಲವನ್ನಾಗಿ ಪರಿವರ್ತಿಸುತ್ತವೆ, ಆದರೆ ಅವು ಒಂದೇ ಅಲ್ಲ. ಇವುಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ತಿಳಿಯುವುದು ಬಹಳ ಮುಖ್ಯ. ಆವೀಕರಣವು ದ್ರವದ ಮೇಲ್ಮೈಯಲ್ಲಿ ಮಾತ್ರ ನಡೆಯುವ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಇದು ಯಾವುದೇ ತಾಪಮಾನದಲ್ಲಿ ಸಂಭವಿಸಬಹುದು. ಉದಾಹರಣೆಗೆ, ನೆಲದ ಮೇಲಿನ ನೀರು ಒಣಗುವುದು. ಆದರೆ, ಕುದಿಯುವಿಕೆಯು ದ್ರವದ ಎಲ್ಲಾ ಭಾಗದಲ್ಲಿ, ಅಂದರೆ ಒಳಗಿನಿಂದಲೂ ನಡೆಯುತ್ತದೆ. ಇದು ಒಂದು ನಿರ್ದಿಷ್ಟ ತಾಪಮಾನದಲ್ಲಿ (ಕುದಿಯುವ ಬಿಂದು) ಮಾತ್ರ ಆಗುತ್ತದೆ. ಆವೀಕರಣವು ನಿಧಾನವಾದ ಪ್ರಕ್ರಿಯೆಯಾದರೆ, ಕುದಿಯುವಿಕೆಯು ಬಹಳ ವೇಗದ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A two-column comparison table will be rendered here based on the provided data, comparing Evaporation and Boiling across different factors like location, temperature, and speed. The layout will handle the rendering of this table as the main visual element of the slide."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_6_chapter_8_concept_2_chunk_007"
+}

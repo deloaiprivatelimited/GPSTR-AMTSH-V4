@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1",
+  "script": "ಈಗ ನಾವು ವಿಧಾನವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲು, ನೀವು ತಂದಿರುವ ಆಲೂಗಡ್ಡೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ಮೇಲ್ಮೈಯನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ. ನಿಮಗೆ ಅದರ ಮೇಲೆ ಸಣ್ಣ ಸಣ್ಣ ಗುರುತುಗಳು ಅಥವಾ ತಗ್ಗುಗಳು ಕಾಣಿಸುತ್ತವೆ. ಇವುಗಳನ್ನು 'ಕಣ್ಣುಗಳು' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಕಣ್ಣುಗಳೇ ವಾಸ್ತವವಾಗಿ ಕಾಯಿಕ ಮೊಗ್ಗುಗಳಾಗಿವೆ. ಪ್ರತಿಯೊಂದು ಕಣ್ಣು ಕೂಡ ಒಂದು ಹೊಸ ಸಸ್ಯವಾಗಿ ಬೆಳೆಯುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಈ ಕಣ್ಣುಗಳನ್ನು ಗುರುತಿಸಿ.",
+  "script_display": "ಈಗ ನಾವು ವಿಧಾನವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲು, ನೀವು ತಂದಿರುವ ಆಲೂಗಡ್ಡೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ಮೇಲ್ಮೈಯನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ. ನಿಮಗೆ ಅದರ ಮೇಲೆ ಸಣ್ಣ ಸಣ್ಣ ಗುರುತುಗಳು ಅಥವಾ ತಗ್ಗುಗಳು ಕಾಣಿಸುತ್ತವೆ. ಇವುಗಳನ್ನು 'ಕಣ್ಣುಗಳು' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಕಣ್ಣುಗಳೇ ವಾಸ್ತವವಾಗಿ ಕಾಯಿಕ ಮೊಗ್ಗುಗಳಾಗಿವೆ (vegetative buds). ಪ್ರತಿಯೊಂದು ಕಣ್ಣು ಕೂಡ ಒಂದು ಹೊಸ ಸಸ್ಯವಾಗಿ ಬೆಳೆಯುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಈ ಕಣ್ಣುಗಳನ್ನು ಗುರುತಿಸಿ.",
+  "display_bullets": [
+    "ಆಲೂಗಡ್ಡೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ಮೇಲ್ಮೈಯನ್ನು ಗಮನಿಸಿ.",
+    "ಅದರ ಮೇಲಿರುವ ಗುರುತುಗಳನ್ನು ಅಥವಾ 'ಕಣ್ಣು'ಗಳನ್ನು ಗುರುತಿಸಿ.",
+    "ಈ 'ಕಣ್ಣು'ಗಳೇ ಕಾಯಿಕ ಮೊಗ್ಗುಗಳಾಗಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up diagram of a potato, with arrows pointing to the 'eyes' or buds. The labels should clearly mark these 'eyes'.",
+    "labels": "ಕಣ್ಣು (ಕಾಯಿಕ ಮೊಗ್ಗು)",
+    "scientific_significance": "Highlights the 'eyes' of the potato, which are the vegetative buds responsible for asexual reproduction.",
+    "placeholder_note": "Image to be generated based on visual_aids_in_module, ಚಿತ್ರ 8.2."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_7_chapter_8_concept_2_chunk_029"
+}

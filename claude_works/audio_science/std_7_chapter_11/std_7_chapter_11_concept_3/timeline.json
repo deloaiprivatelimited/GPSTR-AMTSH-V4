@@ -1,0 +1,134 @@
+{
+  "module_id": "std_7_chapter_11_concept_3",
+  "chapter_code": "std_7_chapter_11",
+  "voice": "Umbriel",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 11,
+  "total_duration": 407.361,
+  "total_duration_formatted": "6:47",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_11_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಗೋಲೀಯ ದರ್ಪಣಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 46.051,
+      "duration": 46.051,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 46.651,
+      "end": 73.102,
+      "duration": 26.451,
+      "script_words": 33
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_3_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಗೋಲೀಯ ದರ್ಪಣಗಳು: ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 73.702,
+      "end": 110.233,
+      "duration": 36.531,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_3_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ನಿಮ್ಮ ದರ್ಪಣ (Concave Mirror)",
+      "type": "concept_explanation",
+      "start": 110.833,
+      "end": 152.124,
+      "duration": 41.291,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_3_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಪೀನ ದರ್ಪಣ (Convex Mirror)",
+      "type": "concept_explanation",
+      "start": 152.724,
+      "end": 193.335,
+      "duration": 40.611,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_3_chunk_006",
+      "chunk_file": "006_experiment_0.json",
+      "wav_file": "006_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ: ಚಮಚವನ್ನು ದರ್ಪಣವಾಗಿ ಬಳಸುವುದು",
+      "type": "visual_explain",
+      "start": 193.935,
+      "end": 231.066,
+      "duration": 37.131,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_3_chunk_007",
+      "chunk_file": "007_experiment_cont_0_1.json",
+      "wav_file": "007_experiment_cont_0_1.wav",
+      "slide_title": "ಹಂತ 1: ಚಮಚದ ಹೊರಭಾಗವನ್ನು ಗಮನಿಸಿ",
+      "type": "step_walkthrough",
+      "start": 231.666,
+      "end": 261.717,
+      "duration": 30.051,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_3_chunk_008",
+      "chunk_file": "008_experiment_cont_0_2.json",
+      "wav_file": "008_experiment_cont_0_2.wav",
+      "slide_title": "ಹಂತ 2: ಚಮಚದ ಒಳಭಾಗವನ್ನು ಗಮನಿಸಿ",
+      "type": "step_walkthrough",
+      "start": 262.317,
+      "end": 295.368,
+      "duration": 33.051,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_3_chunk_009",
+      "chunk_file": "009_experiment_cont_0_3.json",
+      "wav_file": "009_experiment_cont_0_3.wav",
+      "slide_title": "ಗಮನಿಸಿದ ಅಂಶಗಳು (Observations)",
+      "type": "bullet_list",
+      "start": 295.968,
+      "end": 331.259,
+      "duration": 35.291,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_3_chunk_010",
+      "chunk_file": "010_experiment_cont_0_4.json",
+      "wav_file": "010_experiment_cont_0_4.wav",
+      "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+      "type": "key_takeaway",
+      "start": 331.859,
+      "end": 368.51,
+      "duration": 36.651,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_3_chunk_011",
+      "chunk_file": "011_recap_0.json",
+      "wav_file": "011_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಗೋಲೀಯ ದರ್ಪಣಗಳು",
+      "type": "recap",
+      "start": 369.11,
+      "end": 406.761,
+      "duration": 37.651,
+      "script_words": 61
+    }
+  ]
+}

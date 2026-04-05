@@ -1,0 +1,35 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+  "script": "ಈಗ ನಾವು ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ಒಂದು ಕಬ್ಬಿಣದ ಮೊಳೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ಮೇಲೆ ಅವಾಹಕ ಹೊದಿಕೆಯಿರುವ ತಾಮ್ರದ ತಂತಿಯನ್ನು ಬಿಗಿಯಾಗಿ ಸುತ್ತಬೇಕು. ತಂತಿಯನ್ನು ಸುರುಳಿಯ ರೂಪದಲ್ಲಿ, ಒಂದಕ್ಕೊಂದು ತಾಗುವಂತೆ ಆದರೆ ಒಂದರ ಮೇಲೊಂದು ಬರದಂತೆ ಅಚ್ಚುಕಟ್ಟಾಗಿ ಸುತ್ತಿ. ನಂತರ, ತಂತಿಯ ಎರಡು ಮುಕ್ತ ತುದಿಗಳನ್ನು ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಒಂದು ಸ್ವಿಚ್ ಮೂಲಕ ವಿದ್ಯುತ್ ಕೋಶಕ್ಕೆ ಜೋಡಿಸಿ. ಈ ಜೋಡಣೆಯನ್ನು ಮಾಡುವಾಗ ಜಾಗರೂಕರಾಗಿರಿ. ಈಗ ನಮ್ಮ ವಿದ್ಯುತ್ಕಾಂತದ ವ್ಯವಸ್ಥೆ ಸಿದ್ಧವಾಗಿದೆ. ಈ ಸರಳ ಮಂಡಲವು ವಿದ್ಯುತ್ಕಾಂತದ ಕಾರ್ಯನಿರ್ವಹಣೆಗೆ ಆಧಾರವಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ಒಂದು ಕಬ್ಬಿಣದ ಮೊಳೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ಮೇಲೆ ಅವಾಹಕ ಹೊದಿಕೆಯಿರುವ ತಾಮ್ರದ ತಂತಿಯನ್ನು ಬಿಗಿಯಾಗಿ ಸುತ್ತಬೇಕು. ತಂತಿಯನ್ನು ಸುರುಳಿಯ ರೂಪದಲ್ಲಿ, ಒಂದಕ್ಕೊಂದು ತಾಗುವಂತೆ ಆದರೆ ಒಂದರ ಮೇಲೊಂದು ಬರದಂತೆ ಅಚ್ಚುಕಟ್ಟಾಗಿ ಸುತ್ತಿ. ನಂತರ, ತಂತಿಯ ಎರಡು ಮುಕ್ತ ತುದಿಗಳನ್ನು ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಒಂದು ಸ್ವಿಚ್ ಮೂಲಕ ವಿದ್ಯುತ್ ಕೋಶಕ್ಕೆ ಜೋಡಿಸಿ. ಈಗ ನಮ್ಮ ವಿದ್ಯುತ್ಕಾಂತದ ವ್ಯವಸ್ಥೆ ಸಿದ್ಧವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕಬ್ಬಿಣದ ಮೊಳೆಯ ಮೇಲೆ ತಾಮ್ರದ ತಂತಿಯನ್ನು ಬಿಗಿಯಾಗಿ ಸುರುಳಿಯಂತೆ ಸುತ್ತಿ.",
+    "ತಂತಿಯ ತುದಿಗಳನ್ನು ಸ್ವಿಚ್ ಮೂಲಕ ವಿದ್ಯುತ್ ಕೋಶಕ್ಕೆ ಜೋಡಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the setup of a simple electromagnet. An insulated copper wire is coiled tightly around an iron nail. The two ends of the wire are connected to a switch and an electric cell in series, forming a complete circuit.",
+    "labels": "ಕಬ್ಬಿಣದ ಮೊಳೆ, ತಾಮ್ರದ ಸುರುಳಿ, ಸ್ವಿಚ್, ವಿದ್ಯುತ್ ಕೋಶ",
+    "scientific_significance": "Illustrates the construction of a solenoid around a ferromagnetic core, which is the fundamental structure of an electromagnet.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_10_concept_6_chunk_010"
+}

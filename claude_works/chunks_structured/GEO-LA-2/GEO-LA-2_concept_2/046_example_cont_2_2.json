@@ -1,0 +1,48 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 3-4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಅದೇ ರೀತಿ, ಸರಳರೇಖೆ ಟಿಓಕ್ಯೂ ಮೇಲೆ ಕಿರಣ ಓಎಸ್ ನಿಂತಿದೆ. ಹಾಗಾಗಿ, ಮತ್ತೆ ಸರಳಯುಗ್ಮ ಆಧಾರ ಪ್ರತಿಜ್ಞೆಯನ್ನು ಬಳಸಿದರೆ, ಕೋನ ಟಿಓಎಸ್ ಮತ್ತು ಕೋನ ಎಸ್ಓಕ್ಯೂ ಗಳ ಮೊತ್ತ 180 ಡಿಗ್ರಿ ಆಗುತ್ತದೆ. ಇದನ್ನು ಸಮೀಕರಣ ಎರಡು ಎಂದು ಗುರುತಿಸೋಣ. ಈಗ, ನಾವು ಸಮೀಕರಣ ಒಂದು ಮತ್ತು ಎರಡನ್ನು ಕೂಡಿಸೋಣ. ಎಡಬದಿಯಲ್ಲಿ, ಕೋನ ಟಿಓಪಿ ಪ್ಲಸ್ ಕೋನ ಪಿಓಕ್ಯೂ ಪ್ಲಸ್ ಕೋನ ಟಿಓಎಸ್ ಪ್ಲಸ್ ಕೋನ ಎಸ್ಓಕ್ಯೂ ಸಿಗುತ್ತದೆ. ಬಲಬದಿಯಲ್ಲಿ, 180 ಡಿಗ್ರಿ ಪ್ಲಸ್ 180 ಡಿಗ್ರಿ, ಅಂದರೆ 360 ಡಿಗ್ರಿ ಆಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಅದೇ ರೀತಿ, ಸರಳರೇಖೆ TOQ ಮೇಲೆ ಕಿರಣ OS ನಿಂತಿದೆ. ಹಾಗಾಗಿ, ಮತ್ತೆ ಸರಳಯುಗ್ಮ ಆಧಾರ ಪ್ರತಿಜ್ಞೆಯನ್ನು ಬಳಸಿದರೆ, $\\angle TOS + \\angle SOQ = 180°$ ಆಗುತ್ತದೆ. ಇದನ್ನು ಸಮೀಕರಣ (2) ಎಂದು ಗುರುತಿಸೋಣ. ಈಗ, ನಾವು ಸಮೀಕರಣ (1) ಮತ್ತು (2) ನ್ನು ಕೂಡಿಸೋಣ. ಎಡಬದಿಯಲ್ಲಿ, $(\\angle TOP + \\angle POQ) + (\\angle TOS + \\angle SOQ)$ ಸಿಗುತ್ತದೆ. ಬಲಬದಿಯಲ್ಲಿ, $180° + 180°$, ಅಂದರೆ $360°$ ಆಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಚಿತ್ರಕ್ಕೆ ರಚನೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ. ಕಿರಣ OQ ಅನ್ನು T ವರೆಗೆ ವೃದ್ಧಿಸಿ TOQ ಸರಳರೇಖೆಯನ್ನು ರಚಿಸಲಾಗಿದೆ.",
+    "labels": "ಚಿತ್ರ 6.12",
+    "mathematical_significance": "ಸರಳಯುಗ್ಮ ಆಧಾರ ಪ್ರತಿಜ್ಞೆಯನ್ನು ಅನ್ವಯಿಸಲು ಬೇಕಾದ ಸರಳರೇಖೆಯನ್ನು ರಚಿಸಲಾಗಿದೆ.",
+    "render_target": "image",
+    "placeholder_note": "Use the same image as the previous slide."
+  },
+  "sub_type": "proof",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-LA-2_example_3",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\angle TOS + \\angle SOQ = 180°$ --- (2)",
+      "justification": "ಸರಳಯುಗ್ಮ ಆಧಾರ ಪ್ರತಿಜ್ಞೆ (ಕಿರಣ OS, ರೇಖೆ TOQ ಮೇಲೆ ನಿಂತಿದೆ)."
+    },
+    {
+      "step": 4,
+      "action_display": "ಸಮೀಕರಣ (1) + (2) $\\implies (\\angle TOP + \\angle POQ) + (\\angle TOS + \\angle SOQ) = 360°$",
+      "justification": "ಸಮೀಕರಣಗಳನ್ನು ಕೂಡಿಸಿದೆ."
+    }
+  ],
+  "chunk_id": "GEO-LA-2_concept_2_chunk_046"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಅಪವರ್ತನ ಪ್ರಮೇಯದ ಅನ್ವಯ",
+  "script": "ಈಗ ಅಪವರ್ತನ ಪ್ರಮೇಯವನ್ನು ಬಳಸುವ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ಒಂದು ಬಹುಪದೋಕ್ತಿ ಪಿ ಆಫ್ ಎಕ್ಸ್, ಅಂದರೆ ನಾಲ್ಕು ಎಕ್ಸ್ ಕ್ಯೂಬ್ಡ್ ಪ್ಲಸ್ ಮೂರು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ನಾಲ್ಕು ಎಕ್ಸ್ ಪ್ಲಸ್ ಕೆ, ಕೊಡಲಾಗಿದೆ. ಎಕ್ಸ್ ಮೈನಸ್ ಒಂದು, ಈ ಬಹುಪದೋಕ್ತಿಯ ಒಂದು ಅಪವರ್ತನ ಎಂದು ಹೇಳಲಾಗಿದೆ. ನಾವು ಕೆ ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಅಪವರ್ತನ ಪ್ರಮೇಯವನ್ನು ಬಳಸುವ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ಒಂದು ಬಹುಪದೋಕ್ತಿ $p(x) = 4x^3 + 3x^2 - 4x + k$ ಕೊಡಲಾಗಿದೆ. $x-1$ ಈ ಬಹುಪದೋಕ್ತಿಯ ಒಂದು ಅಪವರ್ತನ ಎಂದು ಹೇಳಲಾಗಿದೆ. ನಾವು $k$ ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತ ಬಹುಪದೋಕ್ತಿ: $p(x) = 4x^3 + 3x^2 - 4x + k$",
+    "ದತ್ತ ಅಪವರ್ತನ: $x-1$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $k$ ಯ ಬೆಲೆ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "p(x) = 4x^3 + 3x^2 - 4x + k \\\\ \\text{ಮತ್ತು } (x-1) \\text{ ಒಂದು ಅಪವರ್ತನವಾದರೆ,} \\\\ k = ?",
+    "placeholder_note": "The problem statement: Given p(x) and that (x-1) is a factor, find k."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_5",
+  "chunk_id": "ALG-POL-3_concept_4_chunk_022"
+}

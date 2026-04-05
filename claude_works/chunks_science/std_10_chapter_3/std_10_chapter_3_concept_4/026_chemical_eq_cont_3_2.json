@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಮೀಕರಣದ ವಿಶ್ಲೇಷಣೆ",
+  "script": "ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು ವಿಶ್ಲೇಷಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಪ್ರತಿವರ್ತಕಗಳು ಸೋಡಿಯಂ ಆಕ್ಸೈಡ್ ಮತ್ತು ನೀರು. ಎರಡನೆಯದಾಗಿ, ಉತ್ಪನ್ನವು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್. ಅಂತಿಮವಾಗಿ, ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಒಂದು ಪ್ರಬಲ ಕ್ಷಾರ, ಅಂದರೆ ನೀರಿನಲ್ಲಿ ಕರಗುವ ಪ್ರತ್ಯಾಮ್ಲ.",
+  "script_display": "ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು ವಿಶ್ಲೇಷಿಸೋಣ:",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳು: ಸೋಡಿಯಂ ಆಕ್ಸೈಡ್ (Na₂O) ಮತ್ತು ನೀರು (H₂O)",
+    "ಉತ್ಪನ್ನ: ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH)",
+    "ಸ್ವಭಾವ: NaOH ಒಂದು ಪ್ರಬಲ ಕ್ಷಾರ (ನೀರಿನಲ್ಲಿ ಕರಗುವ ಪ್ರತ್ಯಾಮ್ಲ)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_026"
+}

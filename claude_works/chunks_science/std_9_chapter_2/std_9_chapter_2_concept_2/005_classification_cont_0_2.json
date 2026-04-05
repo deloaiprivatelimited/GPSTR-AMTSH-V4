@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆಗಳು: ಸಮರೂಪ ಮಿಶ್ರಣ",
+  "script": "ಸಮರೂಪ ಮಿಶ್ರಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು, ನೀರಿನಲ್ಲಿ ಕರಗಿದ ಉಪ್ಪು. ಉಪ್ಪನ್ನು ನೀರಿಗೆ ಸೇರಿಸಿದಾಗ, ಅದು ಸಂಪೂರ್ಣವಾಗಿ ಕರಗಿ, ನೀರಿನ ಅಣುಗಳ ನಡುವೆ ಸಮನಾಗಿ ಹರಡಿಕೊಳ್ಳುತ್ತದೆ. ಇದರಿಂದಾಗಿ ಉಪ್ಪಿನ ದ್ರಾವಣವು ಒಂದು ಸಮರೂಪ ಮಿಶ್ರಣವಾಗುತ್ತದೆ. ಮತ್ತೊಂದು ಉದಾಹರಣೆ ಗಾಳಿ. ಗಾಳಿಯು ಸಾರಜನಕ, ಆಮ್ಲಜನಕ, ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ನಂತಹ ವಿವಿಧ ಅನಿಲಗಳ ಮಿಶ್ರಣವಾಗಿದೆ. ಈ ಎಲ್ಲಾ ಅನಿಲಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಮಿಶ್ರಣಗೊಂಡಿರುವುದರಿಂದ, ನಾವು ಅವುಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಗುರುತಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+  "script_display": "ಸಮರೂಪ ಮಿಶ್ರಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು, ನೀರಿನಲ್ಲಿ ಕರಗಿದ ಉಪ್ಪು. ಉಪ್ಪನ್ನು ನೀರಿಗೆ ಸೇರಿಸಿದಾಗ, ಅದು ಸಂಪೂರ್ಣವಾಗಿ ಕರಗಿ, ನೀರಿನ ಅಣುಗಳ ನಡುವೆ ಸಮನಾಗಿ ಹರಡಿಕೊಳ್ಳುತ್ತದೆ. ಇದರಿಂದಾಗಿ ಉಪ್ಪಿನ ದ್ರಾವಣವು ಒಂದು ಸಮರೂಪ ಮಿಶ್ರಣವಾಗುತ್ತದೆ. ಮತ್ತೊಂದು ಉದಾಹರಣೆ ಗಾಳಿ. ಗಾಳಿಯು ಸಾರಜನಕ (N₂), ಆಮ್ಲಜನಕ (O₂), ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (CO₂) ನಂತಹ ವಿವಿಧ ಅನಿಲಗಳ ಮಿಶ್ರಣವಾಗಿದೆ. ಈ ಎಲ್ಲಾ ಅನಿಲಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಮಿಶ್ರಣಗೊಂಡಿರುವುದರಿಂದ, ನಾವು ಅವುಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಗುರುತಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+  "display_bullets": [
+    "ನೀರಿನಲ್ಲಿ ಕರಗಿದ ಉಪ್ಪು: ಉಪ್ಪಿನ ಕಣಗಳು ನೀರಿನಲ್ಲಿ ಏಕರೂಪವಾಗಿ ಹರಡಿಕೊಂಡಿರುತ್ತವೆ.",
+    "ಗಾಳಿ: ವಿವಿಧ ಅನಿಲಗಳು (N₂, O₂, ಇತ್ಯಾದಿ) ಸಂಪೂರ್ಣವಾಗಿ ಮಿಶ್ರಣಗೊಂಡಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker of water with salt crystals dissolving into it, becoming a clear solution. Arrows indicate the uniform distribution of salt particles (represented as small dots) throughout the water.",
+    "labels": "ನೀರು, ಉಪ್ಪಿನ ಕಣಗಳು, ಸಮರೂಪ ದ್ರಾವಣ",
+    "scientific_significance": "Illustrates the concept of dissolution and uniform composition in a homogeneous mixture.",
+    "placeholder_note": "Image showing salt dissolving in water to form a clear, uniform solution."
+  },
+  "chunk_id": "std_9_chapter_2_concept_2_chunk_005"
+}

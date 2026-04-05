@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2 ಮತ್ತು 3: tan A ಮತ್ತು sec A",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಮ್ಮ ಬಳಿ cos A ಯ ಮೌಲ್ಯ sin A ರೂಪದಲ್ಲಿದೆ. ಇದನ್ನು ಬಳಸಿ tan A ಮತ್ತು sec A ಯನ್ನು ವ್ಯಕ್ತಪಡಿಸೋಣ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, tan A ಯನ್ನು sin A ರೂಪದಲ್ಲಿ ಬರೆಯೋಣ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, tan A ಈಕ್ವಲ್ಸ್ sin A ಬೈ cos A. ಇಲ್ಲಿ ನಾವು ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ಕಂಡುಕೊಂಡ cos A ಯ ಮೌಲ್ಯವನ್ನು ಆದೇಶಿಸಿದಾಗ, tan A ಈಕ್ವಲ್ಸ್ sin A ಬೈ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಒಂದು ಮೈನಸ್ sin ಸ್ಕ್ವೇರ್ A ಆಗುತ್ತದೆ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, sec A ಯನ್ನು ವ್ಯಕ್ತಪಡಿಸೋಣ. sec A ಎಂಬುದು cos A ಯ ವ್ಯುತ್ಕ್ರಮ, ಅಂದರೆ sec A ಈಕ್ವಲ್ಸ್ ಒಂದು ಬೈ cos A. ಮತ್ತೊಮ್ಮೆ cos A ಯ ಮೌಲ್ಯವನ್ನು ಆದೇಶಿಸಿದಾಗ, sec A ಈಕ್ವಲ್ಸ್ ಒಂದು ಬೈ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಒಂದು ಮೈನಸ್ sin ಸ್ಕ್ವೇರ್ A ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಮ್ಮ ಬಳಿ $\\cos A$ ಯ ಮೌಲ್ಯ $\\sin A$ ರೂಪದಲ್ಲಿದೆ. ಇದನ್ನು ಬಳಸಿ $\\tan A$ ಮತ್ತು $\\sec A$ ಯನ್ನು ವ್ಯಕ್ತಪಡಿಸೋಣ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, $\\tan A$ ಯನ್ನು $\\sin A$ ರೂಪದಲ್ಲಿ ಬರೆಯೋಣ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, $\\tan A = \\frac{\\sin A}{\\cos A}$. ಇಲ್ಲಿ ನಾವು ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ಕಂಡುಕೊಂಡ $\\cos A$ ಯ ಮೌಲ್ಯವನ್ನು ಆದೇಶಿಸಿದಾಗ, $\\tan A = \\frac{\\sin A}{\\sqrt{1 - \\sin^2 A}}$ ಆಗುತ್ತದೆ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, $\\sec A$ ಯನ್ನು ವ್ಯಕ್ತಪಡಿಸೋಣ. $\\sec A$ ಎಂಬುದು $\\cos A$ ಯ ವ್ಯುತ್ಕ್ರಮ, ಅಂದರೆ $\\sec A = \\frac{1}{\\cos A}$. ಮತ್ತೊಮ್ಮೆ $\\cos A$ ಯ ಮೌಲ್ಯವನ್ನು ಆದೇಶಿಸಿದಾಗ, $\\sec A = \\frac{1}{\\sqrt{1 - \\sin^2 A}}$ ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "two_column",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "TRI-INTRO-1_example_9",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "$\\tan A$ ಯನ್ನು $\\sin A$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವುದು.",
+      "justification": "$\\tan A = \\frac{\\sin A}{\\cos A}$ ಸಂಬಂಧವನ್ನು ಬಳಸಿ, $\\tan A = \\frac{\\sin A}{\\sqrt{1 - \\sin^2 A}}$."
+    },
+    {
+      "step": 3,
+      "action_display": "$\\sec A$ ಯನ್ನು $\\sin A$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವುದು.",
+      "justification": "$\\sec A = \\frac{1}{\\cos A}$ ಸಂಬಂಧವನ್ನು ಬಳಸಿ, $\\sec A = \\frac{1}{\\sqrt{1 - \\sin^2 A}}$."
+    }
+  ],
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_028"
+}

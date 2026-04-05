@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತಗಳು 4-5",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಾವು ಕೋನ P ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಬೇಕು. ಇದಕ್ಕಾಗಿ, ನಾವು 99 ಡಿಗ್ರಿಯನ್ನು ಸಮೀಕರಣದ ಬಲಭಾಗಕ್ಕೆ ವರ್ಗಾಯಿಸುತ್ತೇವೆ. ಆಗ ಅದು ಮೈನಸ್ 99 ಡಿಗ್ರಿ ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಕೋನ P ಈಕ್ವಲ್ಸ್ 180 ಡಿಗ್ರಿ ಮೈನಸ್ 99 ಡಿಗ್ರಿ. ಅಂತಿಮವಾಗಿ, 180 ರಿಂದ 99 ನ್ನು ಕಳೆದಾಗ ನಮಗೆ 81 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಕೋನ P ಯ ಅಳತೆ 81 ಡಿಗ್ರಿ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಾವು m∠P ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಬೇಕು. ಇದಕ್ಕಾಗಿ, ನಾವು 99° ಯನ್ನು ಸಮೀಕರಣದ ಬಲಭಾಗಕ್ಕೆ ವರ್ಗಾಯಿಸುತ್ತೇವೆ. ಆಗ ಅದು -99° ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, m∠P = 180° - 99°. ಅಂತಿಮವಾಗಿ, 180° ರಿಂದ 99° ನ್ನು ಕಳೆದಾಗ ನಮಗೆ 81° ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, m∠P = 81°.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_left",
+    "text_zone": "left",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "GEO-TRI-1_example_2",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "$m\\angle P = 180^\\circ - 99^\\circ$",
+      "justification": "m∠P ಗಾಗಿ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು."
+    },
+    {
+      "step": 5,
+      "action_display": "$m\\angle P = 81^\\circ$",
+      "justification": "ಅಂತಿಮ ಉತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    }
+  ],
+  "chunk_id": "GEO-TRI-1_concept_2_chunk_030"
+}

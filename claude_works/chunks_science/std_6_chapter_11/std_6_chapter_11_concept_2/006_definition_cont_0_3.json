@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಮಾರುತದ ವೇಗದ ವ್ಯತ್ಯಾಸಗಳು",
+  "script": "ಮಾರುತ ಎಂದರೆ ಕೇವಲ ಚಲಿಸುವ ಗಾಳಿ ಮಾತ್ರವಲ್ಲ, ಅದರ ವೇಗದಲ್ಲಿಯೂ ಬಹಳಷ್ಟು ವ್ಯತ್ಯಾಸಗಳಿವೆ. ನಮ್ಮ ವ್ಯಾಖ್ಯಾನದಲ್ಲಿ ಹೇಳಿದಂತೆ, ಮಾರುತದ ವೇಗವು ತಂಗಾಳಿಯಿಂದ ಚಂಡಮಾರುತದವರೆಗೆ ಬದಲಾಗಬಹುದು. ಮೆಲ್ಲನೆ ಬೀಸುವ ತಂಗಾಳಿಯು ಹಿತಕರವಾಗಿರುತ್ತದೆ. ಆದರೆ, ಅದರ ವೇಗ ಹೆಚ್ಚಾದಂತೆ, ಅದು ಬಿರುಗಾಳಿಯಾಗಿ, ನಂತರ ಚಂಡಮಾರುತವಾಗಿ ಬದಲಾಗಿ ವಿನಾಶಕಾರಿಯಾಗಬಹುದು. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಮಾರುತದ ವಿವಿಧ ವೇಗಗಳನ್ನು ನೋಡಬಹುದು - ಸೌಮ್ಯವಾದ ತಂಗಾಳಿಯಿಂದ ಹಿಡಿದು, ಎಲ್ಲವನ್ನೂ ಹಾರಿಸುವಂತಹ ಚಂಡಮಾರುತದವರೆಗೆ. ಇವೆಲ್ಲವೂ 'ಮಾರುತ'ದ ವಿವಿಧ ರೂಪಗಳೇ.",
+  "script_display": "ಮಾರುತ ಎಂದರೆ ಕೇವಲ ಚಲಿಸುವ ಗಾಳಿ ಮಾತ್ರವಲ್ಲ, ಅದರ ವೇಗದಲ್ಲಿಯೂ ಬಹಳಷ್ಟು ವ್ಯತ್ಯಾಸಗಳಿವೆ. ನಮ್ಮ ವ್ಯಾಖ್ಯಾನದಲ್ಲಿ ಹೇಳಿದಂತೆ, ಮಾರುತದ ವೇಗವು ತಂಗಾಳಿಯಿಂದ ಚಂಡಮಾರುತದವರೆಗೆ ಬದಲಾಗಬಹುದು. ಮೆಲ್ಲನೆ ಬೀಸುವ ತಂಗಾಳಿಯು ಹಿತಕರವಾಗಿರುತ್ತದೆ. ಆದರೆ, ಅದರ ವೇಗ ಹೆಚ್ಚಾದಂತೆ, ಅದು ಬಿರುಗಾಳಿಯಾಗಿ, ನಂತರ ಚಂಡಮಾರುತವಾಗಿ ಬದಲಾಗಿ ವಿನಾಶಕಾರಿಯಾಗಬಹುದು. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಮಾರುತದ ವಿವಿಧ ವೇಗಗಳನ್ನು ನೋಡಬಹುದು - ಸೌಮ್ಯವಾದ ತಂಗಾಳಿಯಿಂದ ಹಿಡಿದು, ಎಲ್ಲವನ್ನೂ ಹಾರಿಸುವಂತಹ ಚಂಡಮಾರುತದವರೆಗೆ. ಇವೆಲ್ಲವೂ 'ಮಾರುತ'ದ ವಿವಿಧ ರೂಪಗಳೇ.",
+  "display_bullets": [
+    "ತಂಗಾಳಿ (Breeze): ಸೌಮ್ಯ ಮತ್ತು ಹಿತಕರವಾದ ಚಲನೆ.",
+    "ಬಿರುಗಾಳಿ (Gale/Storm): ಹೆಚ್ಚು ವೇಗದ, ಶಕ್ತಿಯುತವಾದ ಚಲನೆ.",
+    "ಚಂಡಮಾರುತ (Cyclone): ಅತ್ಯಂತ ವಿನಾಶಕಾರಿ ವೇಗ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right_text_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A horizontal visual scale or infographic. On the left, an icon of a gentle breeze (e.g., a leaf gently falling). In the middle, an icon for a strong wind (e.g., an umbrella being blown inside out). On the right, an icon for a hurricane/cyclone (e.g., a swirling storm symbol with debris flying). Labels below each icon: 'ತಂಗಾಳಿ', 'ಬಿರುಗಾಳಿ', 'ಚಂಡಮಾರುತ'.",
+    "labels": "ತಂಗಾಳಿ, ಬಿರುಗಾಳಿ, ಚಂಡಮಾರುತ, ವೇಗ",
+    "scientific_significance": "Expands the definition by introducing the concept of a spectrum of intensity, showing that 'wind' is a category with a wide range of manifestations.",
+    "placeholder_note": "Image to be generated: Infographic scale showing wind speed from breeze to storm."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_11_concept_2_chunk_006"
+}

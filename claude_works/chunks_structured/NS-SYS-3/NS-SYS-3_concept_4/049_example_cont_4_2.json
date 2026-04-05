@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಂಕ್ಷೇಪಣೆ: ಭಾಗ (ii)",
+  "script": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ: ಐದು ಪ್ಲಸ್ ರೂಟ್ ಐದು ಗುಣಿಸು ಐದು ಮೈನಸ್ ರೂಟ್ ಐದು. ಇದು 'a ಪ್ಲಸ್ b' ಗುಣಿಸು 'a ಮೈನಸ್ b' ರೂಪದಲ್ಲಿದೆ, ಇಲ್ಲಿ a ಎಂಬುದು ಐದು ಮತ್ತು b ಎಂಬುದು ರೂಟ್ ಐದು. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, 'a ಪ್ಲಸ್ b' ಗುಣಿಸು 'a ಮೈನಸ್ b' ಸಮ 'a ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ b ಸ್ಕ್ವೇರ್ಡ್'. ಆದ್ದರಿಂದ, ಇದು ಐದರ ವರ್ಗ ಮೈನಸ್ ರೂಟ್ ಐದರ ವರ್ಗ ಆಗುತ್ತದೆ. ಐದರ ವರ್ಗ ಇಪ್ಪತ್ತೈದು ಮತ್ತು ರೂಟ್ ಐದರ ವರ್ಗ ಐದು. ಇಪ್ಪತ್ತೈದರಲ್ಲಿ ಐದನ್ನು ಕಳೆದರೆ, ನಮಗೆ ಇಪ್ಪತ್ತು ಸಿಗುತ್ತದೆ. ಇದು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ: $(5+\\sqrt{5})(5-\\sqrt{5})$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-SYS-3_example_15",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಇದು $(a+b)(a-b)$ ರೂಪದಲ್ಲಿದೆ, ಇಲ್ಲಿ $a=5, b=\\sqrt{5}$.",
+      "justification": "ನಿತ್ಯ ಸಮೀಕರಣವನ್ನು ಗುರುತಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$(5+\\sqrt{5})(5-\\sqrt{5}) = 5^2 - (\\sqrt{5})^2$",
+      "justification": "$(a+b)(a-b)=a^2-b^2$ ನಿತ್ಯ ಸಮೀಕರಣವನ್ನು ಬಳಸಿ."
+    },
+    {
+      "step": 3,
+      "action_display": "$= 25 - 5 = 20$",
+      "justification": "ವರ್ಗಗಳನ್ನು ಮತ್ತು ವ್ಯತ್ಯಾಸವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    }
+  ],
+  "chunk_id": "NS-SYS-3_concept_4_chunk_049"
+}

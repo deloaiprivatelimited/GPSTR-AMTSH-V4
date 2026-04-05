@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1",
+  "script": "ಪರಿಹಾರದ ಮೊದಲ ಹಂತದಲ್ಲಿ, ಹುಡುಗ ಹತ್ತಿದ ಒಟ್ಟು ಎತ್ತರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಒಟ್ಟು ಎತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಮೆಟ್ಟಿಲುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರತಿ ಮೆಟ್ಟಿಲಿನ ಎತ್ತರದಿಂದ ಗುಣಿಸಬೇಕು. ಅಂದರೆ, h equals 45 ಗುಣಿಸು 15 cm. ಇದು ನಮಗೆ 675 cm ಕೊಡುತ್ತದೆ. ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ SI ಏಕಮಾನಗಳನ್ನು ಬಳಸಬೇಕಾಗಿರುವುದರಿಂದ, ನಾವು ಸೆಂಟಿಮೀಟರ್‌ಗಳನ್ನು ಮೀಟರ್‌ಗಳಿಗೆ ಪರಿವರ್ತಿಸಬೇಕು. 100 cm ಗಳು 1 ಮೀಟರ್‌ಗೆ ಸಮ. ಹಾಗಾಗಿ, 675 cm ಎಂದರೆ 6.75 ಮೀಟರ್‌ಗಳು.",
+  "script_display": "ಪರಿಹಾರದ ಮೊದಲ ಹಂತದಲ್ಲಿ, ಹುಡುಗ ಹತ್ತಿದ ಒಟ್ಟು ಎತ್ತರವನ್ನು (h) ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಒಟ್ಟು ಎತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಮೆಟ್ಟಿಲುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರತಿ ಮೆಟ್ಟಿಲಿನ ಎತ್ತರದಿಂದ ಗುಣಿಸಬೇಕು. ಅಂದರೆ, h = 45 × 15 cm. ಇದು ನಮಗೆ 675 cm ಕೊಡುತ್ತದೆ. ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ SI ಏಕಮಾನಗಳನ್ನು ಬಳಸಬೇಕಾಗಿರುವುದರಿಂದ, ನಾವು ಸೆಂಟಿಮೀಟರ್‌ಗಳನ್ನು ಮೀಟರ್‌ಗಳಿಗೆ ಪರಿವರ್ತಿಸಬೇಕು. 100 cm = 1 m. ಹಾಗಾಗಿ, 675 cm ಎಂದರೆ 6.75 m.",
+  "display_bullets": [
+    "ಒಟ್ಟು ಎತ್ತರ = ಮೆಟ್ಟಿಲುಗಳ ಸಂಖ್ಯೆ × ಪ್ರತಿ ಮೆಟ್ಟಿಲಿನ ಎತ್ತರ",
+    "h = 45 × 15 cm = 675 cm",
+    "h = 6.75 m (SI ಏಕಮಾನಕ್ಕೆ ಪರಿವರ್ತನೆ)"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "h = 45 \\times 15 \\text{ cm} = 675 \\text{ cm} \\\\ h = 6.75 \\text{ m}",
+    "placeholder_note": "Show the calculation for total height."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "std_9_chapter_10_example_8",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಒಟ್ಟು ಎತ್ತರವನ್ನು (h) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+      "justification": "ಒಟ್ಟು ಎತ್ತರ = ಮೆಟ್ಟಿಲುಗಳ ಸಂಖ್ಯೆ × ಪ್ರತಿ ಮೆಟ್ಟಿಲಿನ ಎತ್ತರ. cm ಅನ್ನು m ಗೆ ಪರಿವರ್ತಿಸಬೇಕು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_10_concept_7_chunk_023"
+}

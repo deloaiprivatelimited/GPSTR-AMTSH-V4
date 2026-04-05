@@ -1,0 +1,33 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಲುವೆ ಪುಡಿ ತಯಾರಿಕೆ",
+  "script": "ಕ್ಲೋರ್-ಆಲ್ಕಲಿ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುವ ಕ್ಲೋರಿನ್ ಅನಿಲದ ಒಂದು ಪ್ರಮುಖ ಉಪಯೋಗವನ್ನು ಈಗ ನೋಡೋಣ. ಈ ಕ್ಲೋರಿನ್ ಬಳಸಿ ನಾವು ಚಲುವೆ ಪುಡಿ ಅಥವಾ ಬ್ಲೀಚಿಂಗ್ ಪೌಡರ್ ಅನ್ನು ತಯಾರಿಸುತ್ತೇವೆ. ಇದರ ರಾಸಾಯನಿಕ ಹೆಸರು ಕ್ಯಾಲ್ಸಿಯಂ ಆಕ್ಸಿಕ್ಲೋರೈಡ್.",
+  "script_display": "ಕ್ಲೋರ್-ಆಲ್ಕಲಿ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುವ ಕ್ಲೋರಿನ್ (Cl₂) ಅನಿಲದ ಒಂದು ಪ್ರಮುಖ ಉಪಯೋಗವನ್ನು ಈಗ ನೋಡೋಣ. ಈ ಕ್ಲೋರಿನ್ ಬಳಸಿ ನಾವು ಚಲುವೆ ಪುಡಿ (Bleaching Powder) ಅನ್ನು ತಯಾರಿಸುತ್ತೇವೆ. ಇದರ ರಾಸಾಯನಿಕ ಹೆಸರು ಕ್ಯಾಲ್ಸಿಯಂ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ (CaOCl₂).",
+  "display_bullets": [
+    "ಕ್ಲೋರ್-ಆಲ್ಕಲಿ ಪ್ರಕ್ರಿಯೆಯ ಉತ್ಪನ್ನ: ಕ್ಲೋರಿನ್ (Cl₂)",
+    "ಚಲುವೆ ಪುಡಿ (Bleaching Powder) ತಯಾರಿಕೆಯಲ್ಲಿ ಬಳಕೆ",
+    "ರಾಸಾಯನಿಕ ಹೆಸರು: ಕ್ಯಾಲ್ಸಿಯಂ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ (CaOCl₂)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "chemical_equation",
+  "difficulty": "medium",
+  "chunk_id": "std_10_chapter_2_concept_9_chunk_007"
+}

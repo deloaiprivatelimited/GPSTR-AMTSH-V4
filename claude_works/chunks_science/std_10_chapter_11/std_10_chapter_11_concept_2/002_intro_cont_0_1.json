@@ -1,0 +1,30 @@
+{
+  "type": "prerequisites",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಿಮಗೆ ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಮತ್ತು ವಿದ್ಯುತ್ ಮಂಡಲಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರುವುದು ಅವಶ್ಯಕ. ಹಿಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಈ ವಿಷಯಗಳನ್ನು ಕಲಿತಿದ್ದೇವೆ. ಒಂದು ವೇಳೆ ನಿಮಗೆ ಪುನರಾವರ್ತನೆ ಬೇಕಿದ್ದರೆ, ದಯವಿಟ್ಟು ಆ ಪಾಠವನ್ನು ಮತ್ತೊಮ್ಮೆ ನೋಡಿ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಿಮಗೆ ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಮತ್ತು ವಿದ್ಯುತ್ ಮಂಡಲಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರುವುದು ಅವಶ್ಯಕ. ಹಿಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಈ ವಿಷಯಗಳನ್ನು ಕಲಿತಿದ್ದೇವೆ. ಒಂದು ವೇಳೆ ನಿಮಗೆ ಪುನರಾವರ್ತನೆ ಬೇಕಿದ್ದರೆ, ದಯವಿಟ್ಟು ಆ ಪಾಠವನ್ನು ಮತ್ತೊಮ್ಮೆ ನೋಡಿ.",
+  "display_bullets": [
+    "ವಿದ್ಯುತ್ ಪ್ರವಾಹ (Electric Current)",
+    "ವಿದ್ಯುತ್ ಮಂಡಲಗಳು (Electric Circuits)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_a",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_11_concept_2_chunk_002"
+}

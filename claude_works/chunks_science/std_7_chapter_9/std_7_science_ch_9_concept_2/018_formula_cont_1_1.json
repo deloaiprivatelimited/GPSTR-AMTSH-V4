@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ದೂರದ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಈ ಸೂತ್ರದ ಬಳಕೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಕಾರು ಗಂಟೆಗೆ ಐವತ್ತು ಕಿಲೋಮೀಟರ್ ಜವದಲ್ಲಿ ಎರಡು ಗಂಟೆಗಳ ಕಾಲ ಚಲಿಸುತ್ತದೆ ಎಂದು ಭಾವಿಸೋಣ. ಹಾಗಾದರೆ ಅದು ಕ್ರಮಿಸಿದ ದೂರವೆಷ್ಟು? ಮೊದಲಿಗೆ, ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ಜವವು ಐವತ್ತು ಕಿಲೋಮೀಟರ್ ಪರ್ ಅವರ್ ಮತ್ತು ಕಾಲವು ಎರಡು ಗಂಟೆಗಳು. ನಮ್ಮ ಸೂತ್ರ, ಚಲಿಸಿದ ದೂರ ಈಕ್ವಲ್ಸ್ ಜವ ಇಂಟು ಕಾಲ. ಈ ಸೂತ್ರದಲ್ಲಿ ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, ನಮಗೆ ಐವತ್ತು ಇಂಟು ಎರಡು ಸಿಗುತ್ತದೆ. ಇದರ ಗುಣಲಬ್ಧ ನೂರು. ಆದ್ದರಿಂದ, ಕಾರು ಕ್ರಮಿಸಿದ ದೂರ ನೂರು ಕಿಲೋಮೀಟರ್. ನೋಡಿದಿರಲ್ಲ, ಲೆಕ್ಕಾಚಾರ ಎಷ್ಟು ಸುಲಭವಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಈ ಸೂತ್ರದ ಬಳಕೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.\n\n*   **ಸಮಸ್ಯೆ:** ಒಂದು ಕಾರು 50 km/h ಜವದಲ್ಲಿ 2 ಗಂಟೆಗಳ ಕಾಲ ಚಲಿಸುತ್ತದೆ. ಅದು ಕ್ರಮಿಸಿದ ದೂರವೆಷ್ಟು?\n*   **ದತ್ತಾಂಶ:** ಜವ = 50 km/h, ಕಾಲ = 2 h\n*   **ಸೂತ್ರ:** ಚಲಿಸಿದ ದೂರ = ಜವ × ಕಾಲ\n*   **ಲೆಕ್ಕಾಚಾರ:** ದೂರ = 50 km/h × 2 h = 100 km",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಒಂದು ಕಾರು 50 km/h ಜವದಲ್ಲಿ 2 ಗಂಟೆಗಳ ಕಾಲ ಚಲಿಸಿದರೆ, ಅದು ಕ್ರಮಿಸಿದ ದೂರವೆಷ್ಟು?",
+    "ದತ್ತಾಂಶ: ಜವ = 50 km/h, ಕಾಲ = 2 h.",
+    "ಸೂತ್ರವನ್ನು ಬಳಸಿ: ಚಲಿಸಿದ ದೂರ = ಜವ × ಕಾಲ.",
+    "ಲೆಕ್ಕಾಚಾರ: ದೂರ = 50 × 2 = 100 km."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_dark_green",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\begin{aligned} \\text{ದತ್ತಾಂಶ (Given):} \\\\ \\text{ಜವ} &= 50 \\text{ km/h} \\\\ \\text{ಕಾಲ} &= 2 \\text{ h} \\\\ \\hline \\\\ \\text{ಸೂತ್ರ (Formula):} \\\\ \\text{ದೂರ} &= \\text{ಜವ} \\times \\text{ಕಾಲ} \\\\ \\\\ \\text{ಆದೇಶ (Substitution):} \\\\ \\text{ದೂರ} &= 50 \\text{ km/h} \\times 2 \\text{ h} \\\\ &= 100 \\text{ km} \\end{aligned}",
+    "placeholder_note": "Calculation steps for finding distance given speed and time."
+  },
+  "chunk_id": "std_7_science_ch_9_concept_2_chunk_018"
+}

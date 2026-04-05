@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹಂತ 1: ಅದುರಿನ ಸಾರವರ್ಧನೆ",
+  "script": "ಮೊದಲ ಹಂತವಾದ ಅದುರಿನ ಸಾರವರ್ಧನೆಯನ್ನು ನೋಡೋಣ. ಭೂಮಿಯಿಂದ ಗಣಿಗಾರಿಕೆ ಮಾಡಿದ ಅದುರುಗಳು ಮಣ್ಣು, ಮರಳು ಮತ್ತು ಕಲ್ಲಿನಂತಹ ಕಲ್ಮಶಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಈ ಕಲ್ಮಶಗಳನ್ನು ಒಟ್ಟಾಗಿ ಮಡ್ಡಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಅದುರಿನ ಸಾರವರ್ಧನೆ ಎಂದರೆ ಈ ಮಡ್ಡಿಯನ್ನು ಅದುರಿನಿಂದ ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆ. ಇದನ್ನು ಮಾಡುವುದರಿಂದ, ಮುಂದಿನ ಹಂತಗಳಲ್ಲಿ ಲೋಹವನ್ನು ಉದ್ಧರಿಸುವುದು ಸುಲಭ ಮತ್ತು ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗುತ್ತದೆ. ತರಕಾರಿಗಳನ್ನು ಅಡುಗೆ ಮಾಡುವ ಮೊದಲು ತೊಳೆಯುವಂತೆ, ಇದು ಒಂದು ರೀತಿಯ ಶುಚಿಗೊಳಿಸುವ ಹಂತವಾಗಿದೆ.",
+  "script_display": "ಮೊದಲ ಹಂತವಾದ ಅದುರಿನ ಸಾರವರ್ಧನೆಯನ್ನು ನೋಡೋಣ. ಭೂಮಿಯಿಂದ ಗಣಿಗಾರಿಕೆ ಮಾಡಿದ ಅದುರುಗಳು ಮಣ್ಣು, ಮರಳು ಮತ್ತು ಕಲ್ಲಿನಂತಹ ಕಲ್ಮಶಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಈ ಕಲ್ಮಶಗಳನ್ನು ಒಟ್ಟಾಗಿ 'ಮಡ್ಡಿ' (Gangue) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಅದುರಿನ ಸಾರವರ್ಧನೆ ಎಂದರೆ ಈ ಮಡ್ಡಿಯನ್ನು ಅದುರಿನಿಂದ ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆ. ಇದನ್ನು ಮಾಡುವುದರಿಂದ, ಮುಂದಿನ ಹಂತಗಳಲ್ಲಿ ಲೋಹವನ್ನು ಉದ್ಧರಿಸುವುದು ಸುಲಭ ಮತ್ತು ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗುತ್ತದೆ. ತರಕಾರಿಗಳನ್ನು ಅಡುಗೆ ಮಾಡುವ ಮೊದಲು ತೊಳೆಯುವಂತೆ, ಇದು ಒಂದು ರೀತಿಯ ಶುಚಿಗೊಳಿಸುವ ಹಂತವಾಗಿದೆ.",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯಾನ: ಅದುರಿನಿಂದ ಮಡ್ಡಿಯನ್ನು (ಮರಳು, ಮಣ್ಣು ಇತ್ಯಾದಿ) ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆ.",
+    "ಉದ್ದೇಶ: ಮುಂದಿನ ಹಂತಗಳ ದಕ್ಷತೆಯನ್ನು ಹೆಚ್ಚಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a piece of raw ore with visible impurities (like sand and rock particles). An arrow points to a process (like washing or magnetic separation), and another arrow points to the resulting concentrated ore (cleaner) and separated gangue.",
+    "labels": "ಕಚ್ಚಾ ಅದುರು, ಮಡ್ಡಿ (ಕಲ್ಮಶ), ಸಾರವರ್ಧಿತ ಅದುರು",
+    "scientific_significance": "Illustrates the first step of metallurgy, which is to remove unwanted materials from the ore.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_8_chunk_018"
+}

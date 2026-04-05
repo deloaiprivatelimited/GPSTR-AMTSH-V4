@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಂದ್ರತೆಯ ಸೂತ್ರ",
+  "script": "ಸಾಂದ್ರತೆಯನ್ನು ಗಣಿತದ ಸೂತ್ರದ ಮೂಲಕವೂ ನಿರೂಪಿಸಬಹುದು. ಸಾಂದ್ರತೆ ಈಕ್ವಲ್ಸ್ ರಾಶಿ ಭಾಗಿಸು ಗಾತ್ರ. ಸಾಮಾನ್ಯವಾಗಿ, ಸಾಂದ್ರತೆಯನ್ನು 'ರೋ' ಎಂಬ ಗ್ರೀಕ್ ಅಕ್ಷರದಿಂದ ಸೂಚಿಸುತ್ತೇವೆ. ರಾಶಿಯನ್ನು 'm' ನಿಂದ ಮತ್ತು ಗಾತ್ರವನ್ನು 'V' ನಿಂದ ಸೂಚಿಸುತ್ತೇವೆ. ಹಾಗಾಗಿ, ರೋ ಈಕ್ವಲ್ಸ್ ಎಂ ಬೈ ವಿ. ಈ ಸೂತ್ರವು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ಒಂದು ವಸ್ತುವಿನ ರಾಶಿ ಮತ್ತು ಗಾತ್ರ ನಮಗೆ ತಿಳಿದಿದ್ದರೆ, ನಾವು ಅದರ ಸಾಂದ್ರತೆಯನ್ನು ಸುಲಭವಾಗಿ ಲೆಕ್ಕ ಹಾಕಬಹುದು.",
+  "script_display": "ಸಾಂದ್ರತೆಯನ್ನು ಗಣಿತದ ಸೂತ್ರದ ಮೂಲಕ ನಿರೂಪಿಸಬಹುದು.\n*   ಸಾಂದ್ರತೆ = ರಾಶಿ / ಗಾತ್ರ\n*   ಸಂಕೇತಗಳಲ್ಲಿ: ρ = m / V\n*   ಇಲ್ಲಿ, ρ (ರೋ) = ಸಾಂದ್ರತೆ, m = ರಾಶಿ, ಮತ್ತು V = ಗಾತ್ರ.",
+  "display_bullets": [
+    "ಸಾಂದ್ರತೆ = ರಾಶಿ / ಗಾತ್ರ",
+    "ಸಂಕೇತಗಳಲ್ಲಿ: ρ = m / V",
+    "ಇಲ್ಲಿ, ρ (ರೋ) = ಸಾಂದ್ರತೆ, m = ರಾಶಿ, ಮತ್ತು V = ಗಾತ್ರ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\rho = \\frac{m}{V}",
+    "placeholder_note": "The formula for density, where rho (ρ) is density, m is mass, and V is volume."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_9_chapter_1_concept_7_chunk_005"
+}

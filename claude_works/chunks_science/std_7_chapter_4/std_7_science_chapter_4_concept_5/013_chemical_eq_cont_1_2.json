@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಪನ್ನ: ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲ",
+  "script": "ಈ ಪ್ರತಿವರ್ತಕಗಳು ಸೇರಿದಾಗ, ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲ ಎಂಬ ಉತ್ಪನ್ನವು ಉಂಟಾಗುತ್ತದೆ. ಇದು ನೀರಿನಲ್ಲಿ ಕರಗಿರುವ ಒಂದು ದ್ರಾವಣ. ಇದು ಆಮ್ಲಮಳೆಗೆ ಕಾರಣವಾಗುವ ಒಂದು ಪ್ರಮುಖ ಮಧ್ಯಂತರ ಸಂಯುಕ್ತವಾಗಿದೆ.",
+  "script_display": "ಈ ಪ್ರತಿವರ್ತಕಗಳು ಸೇರಿದಾಗ, ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲ (H₂SO₃) ಎಂಬ ಉತ್ಪನ್ನವು ಉಂಟಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉತ್ಪನ್ನ: ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲ (H₂SO₃)",
+    "ಸ್ಥಿತಿ: ಜಲೀಯ ದ್ರಾವಣ (Aqueous Solution)",
+    "ಪ್ರಾಮುಖ್ಯತೆ: ಆಮ್ಲಮಳೆಗೆ ಕಾರಣವಾಗುವ ಮಧ್ಯಂತರ ಸಂಯುಕ್ತ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "chemistry_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple icon of a beaker containing a clear liquid, with the label H₂SO₃(aq) next to it, representing the aqueous solution of sulfurous acid.",
+    "labels": "H₂SO₃(aq)",
+    "scientific_significance": "Represents the product of the reaction between sulfur dioxide and water, a key intermediate in acid rain formation.",
+    "placeholder_note": "Icon of a beaker with liquid, labeled H₂SO₃(aq)."
+  },
+  "chunk_id": "std_7_science_chapter_4_concept_5_chunk_013"
+}

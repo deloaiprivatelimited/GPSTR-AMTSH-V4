@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+  "script": "ಈ ಚಟುವಟಿಕೆಯಿಂದ ನಾವು ಯಾವ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು? ಉಷ್ಣವು ಸರಳಿನ ಬಿಸಿಯಾದ ತುದಿಯಿಂದ ತಂಪಾದ ತುದಿಗೆ ವರ್ಗಾವಣೆಯಾಗಿದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ವಸ್ತುವಿನ ಕಣಗಳು ತಮ್ಮ ಸ್ಥಾನದಿಂದ ಚಲಿಸದೆ, ಕೇವಲ ಕಂಪನದಿಂದ ತಮ್ಮ ಪಕ್ಕದ ಕಣಗಳಿಗೆ ಉಷ್ಣ ಶಕ್ತಿಯನ್ನು ವರ್ಗಾಯಿಸುತ್ತವೆ. ಘನವಸ್ತುಗಳಲ್ಲಿ ಈ ರೀತಿ ಉಷ್ಣ ಪ್ರಸಾರವಾಗುವ ವಿಧಾನಕ್ಕೆ 'ವಹನ' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹೀಗಾಗಿ, ಈ ಪ್ರಯೋಗವು ವಹನ ಕ್ರಿಯೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಪ್ರದರ್ಶಿಸುತ್ತದೆ ಮತ್ತು ಇದು ಮುಖ್ಯವಾಗಿ ಘನವಸ್ತುಗಳಲ್ಲಿ ನಡೆಯುತ್ತದೆ ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ.",
+  "script_display": "ಈ ಚಟುವಟಿಕೆಯಿಂದ ನಾವು ಯಾವ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು? ಉಷ್ಣವು ಸರಳಿನ ಬಿಸಿಯಾದ ತುದಿಯಿಂದ ತಂಪಾದ ತುದಿಗೆ ವರ್ಗಾವಣೆಯಾಗಿದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ವಸ್ತುವಿನ ಕಣಗಳು ತಮ್ಮ ಸ್ಥಾನದಿಂದ ಚಲಿಸದೆ, ಕೇವಲ ಕಂಪನದಿಂದ ತಮ್ಮ ಪಕ್ಕದ ಕಣಗಳಿಗೆ ಉಷ್ಣ ಶಕ್ತಿಯನ್ನು ವರ್ಗಾಯಿಸುತ್ತವೆ. ಘನವಸ್ತುಗಳಲ್ಲಿ ಈ ರೀತಿ ಉಷ್ಣ ಪ್ರಸಾರವಾಗುವ ವಿಧಾನಕ್ಕೆ 'ವಹನ' (Conduction) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹೀಗಾಗಿ, ಈ ಪ್ರಯೋಗವು ವಹನ ಕ್ರಿಯೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಪ್ರದರ್ಶಿಸುತ್ತದೆ ಮತ್ತು ಇದು ಮುಖ್ಯವಾಗಿ ಘನವಸ್ತುಗಳಲ್ಲಿ ನಡೆಯುತ್ತದೆ ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉಷ್ಣವು ಬಿಸಿಯಾದ ತುದಿಯಿಂದ ತಂಪಾದ ತುದಿಗೆ ವರ್ಗಾವಣೆಯಾಗುತ್ತದೆ.",
+    "ಘನವಸ್ತುಗಳಲ್ಲಿ ಉಷ್ಣ ಪ್ರಸಾರವಾಗುವ ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು 'ವಹನ' (Conduction) ಎನ್ನುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "template_5",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A conceptual diagram showing particles in a solid vibrating and passing energy to their neighbors. An arrow labeled 'ಉಷ್ಣ ಶಕ್ತಿ' (Heat Energy) shows the direction of transfer.",
+    "labels": "ಕಂಪಿಸುವ ಕಣಗಳು, ಶಕ್ತಿ ವರ್ಗಾವಣೆ",
+    "scientific_significance": "Illustrates the microscopic mechanism of heat conduction, where energy is transferred through particle vibrations without mass transfer.",
+    "placeholder_note": "Image to be generated showing the particle-level explanation of conduction."
+  },
+  "sub_type": "conclusion",
+  "chunk_id": "std_7_chapter_3_concept_4_chunk_017"
+}

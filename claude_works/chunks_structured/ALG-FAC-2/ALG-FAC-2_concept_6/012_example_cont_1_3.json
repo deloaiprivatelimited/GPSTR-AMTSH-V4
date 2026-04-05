@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ಭಾಗಾಕಾರ ಮಾಡುವುದು",
+  "script": "ಈಗ ನಮ್ಮಲ್ಲಿ ಭಾಜ್ಯದ ಸಂಪೂರ್ಣ ಅಪವರ್ತಿಸಿದ ರೂಪವಿದೆ, ಅದು 44x ವರ್ಗ ಇಂಟು x ಮೈನಸ್ 8 ಇಂಟು x ಪ್ಲಸ್ 3. ಇದನ್ನು ಭಾಜಕವಾದ 11x ಇಂಟು x ಮೈನಸ್ 8 ರಿಂದ ಭಾಗಿಸೋಣ. ಈಗ ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ರದ್ದುಗೊಳಿಸೋಣ. ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡರಲ್ಲೂ x ಮೈನಸ್ 8 ಇದೆ, ಅದನ್ನು ರದ್ದುಗೊಳಿಸಬಹುದು. 44 ಅನ್ನು 11 ರಿಂದ ಭಾಗಿಸಿದರೆ 4 ಸಿಗುತ್ತದೆ. x ವರ್ಗವನ್ನು x ನಿಂದ ಭಾಗಿಸಿದರೆ x ಉಳಿಯುತ್ತದೆ. ಹಾಗಾಗಿ, ನಮಗೆ 4 ಗುಣಿಸು x ಗುಣಿಸು x ಪ್ಲಸ್ 3 ಉಳಿಯುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿದಾಗ 4x ಇಂಟು x ಪ್ಲಸ್ 3 ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಮ್ಮಲ್ಲಿ ಭಾಜ್ಯದ ಸಂಪೂರ್ಣ ಅಪವರ್ತಿಸಿದ ರೂಪವಿದೆ: $44x^2(x-8)(x+3)$. ಇದನ್ನು ಭಾಜಕವಾದ $11x(x-8)$ ರಿಂದ ಭಾಗಿಸೋಣ. ಈಗ ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ರದ್ದುಗೊಳಿಸೋಣ. ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡರಲ್ಲೂ $(x-8)$ ಇದೆ, ಅದನ್ನು ರದ್ದುಗೊಳಿಸಬಹುದು. $\\frac{44}{11}$ ಎಂದರೆ 4. $\\frac{x^2}{x}$ ಎಂದರೆ $x$. ಹಾಗಾಗಿ, ನಮಗೆ $4 \\times x \\times (x+3)$ ಉಳಿಯುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿದಾಗ $4x(x+3)$ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-FAC-2_example_15",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\frac{44x^2(x-8)(x+3)}{11x(x-8)}$",
+      "justification": "ಭಾಜ್ಯದ ಅಪವರ್ತಿಸಿದ ರೂಪವನ್ನು ಬಳಸಿ ಭಾಗಾಕಾರವನ್ನು ಬರೆಯುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$= (\\frac{44}{11}) \\times (\\frac{x^2}{x}) \\times (\\frac{x-8}{x-8}) \\times (x+3)$",
+      "justification": "ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ರದ್ದುಗೊಳಿಸುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "$= 4 \\times x \\times 1 \\times (x+3) = 4x(x+3)$",
+      "justification": "ಸರಳೀಕರಿಸಿ ಅಂತಿಮ ಉತ್ತರವನ್ನು ಪಡೆಯುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-FAC-2_concept_6_chunk_012"
+}

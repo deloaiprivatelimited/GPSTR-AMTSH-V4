@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಕರ್ಷಣ ಮತ್ತು ಅಪಕರ್ಷಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯನ್ನು ಗಮನಿಸಿದಾಗ, ತಾಮ್ರದ ಆಕ್ಸೈಡ್ ಆಕ್ಸಿಜನ್ ಕಳೆದುಕೊಂಡು ಅಪಕರ್ಷಣಗೊಂಡಿದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ಹೈಡ್ರೋಜನ್ ಆಕ್ಸಿಜನ್ ಪಡೆದುಕೊಂಡು ಉತ್ಕರ್ಷಣಗೊಂಡಿದೆ. ನೆನಪಿಡಿ, ಒಂದು ಕ್ರಿಯೆಯಲ್ಲಿ ಒಂದು ಪ್ರತಿವರ್ತಕ ಉತ್ಕರ್ಷಣಗೊಂಡರೆ, ಇನ್ನೊಂದು ಅಪಕರ್ಷಣಗೊಳ್ಳಲೇಬೇಕು. ಇಂತಹ ಕ್ರಿಯೆಗಳನ್ನೇ ನಾವು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯನ್ನು ಗಮನಿಸಿದಾಗ:",
+  "display_bullets": [
+    "ತಾಮ್ರದ ಆಕ್ಸೈಡ್ (CuO) ಆಕ್ಸಿಜನ್ ಕಳೆದುಕೊಂಡು ಅಪಕರ್ಷಣಗೊಂಡಿದೆ.",
+    "ಹೈಡ್ರೋಜನ್ (H₂) ಆಕ್ಸಿಜನ್ ಪಡೆದುಕೊಂಡು ಉತ್ಕರ್ಷಣಗೊಂಡಿದೆ.",
+    "ಒಂದು ಕ್ರಿಯೆಯಲ್ಲಿ ಒಂದು ಪ್ರತಿವರ್ತಕ ಉತ್ಕರ್ಷಣಗೊಂಡು, ಇನ್ನೊಂದು ಅಪಕರ್ಷಣಗೊಂಡರೆ, ಅಂತಹ ಕ್ರಿಯೆಗಳನ್ನು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಗಳು ಎನ್ನುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A flowchart showing the reaction CuO + H₂ → Cu + H₂O. An arrow from CuO to Cu is labeled 'ಅಪಕರ್ಷಣ (ಆಕ್ಸಿಜನ್ ನಷ್ಟ)'. An arrow from H₂ to H₂O is labeled 'ಉತ್ಕರ್ಷಣ (ಆಕ್ಸಿಜನ್ ಗಳಿಕೆ)'.",
+    "labels": "CuO, H₂, Cu, H₂O, ಉತ್ಕರ್ಷಣ, ಅಪಕರ್ಷಣ, ಆಕ್ಸಿಜನ್ ನಷ್ಟ, ಆಕ್ಸಿಜನ್ ಗಳಿಕೆ",
+    "scientific_significance": "Visually separates the oxidation and reduction processes within a single redox reaction, clarifying which species loses oxygen and which one gains it.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "std_10_chapter_1_concept_4_chunk_016"
+}

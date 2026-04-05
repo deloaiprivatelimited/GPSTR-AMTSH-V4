@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಕಡಿಮೆ ಜ್ವಲನ ತಾಪದ ಅರ್ಥವೇನು?",
+  "script": "ಹಾಗಾದರೆ, ಕಡಿಮೆ ಜ್ವಲನ ತಾಪ ಎಂದರೆ ನಿಖರವಾಗಿ ಏನು? ಇದರ ಅರ್ಥ, ಈ ವಸ್ತುಗಳು ಕೊಠಡಿಯ ತಾಪಮಾನದಲ್ಲಿಯೇ ಸುಲಭವಾಗಿ ಆವಿಯಾಗಿ, ಸಣ್ಣ ಕಿಡಿಯೊಂದು ಸಿಕ್ಕರೂ ಸಾಕು, ತಕ್ಷಣವೇ ಹೊತ್ತಿಕೊಳ್ಳುತ್ತವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ, ಇವುಗಳನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ, ಸುರಕ್ಷಿತ ಸ್ಥಳಗಳಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು ಮತ್ತು ಬಳಸುವಾಗ ವಿಶೇಷ ಕಾಳಜಿ ವಹಿಸಬೇಕು. ಕಟ್ಟಿಗೆಯಂತಹ ವಸ್ತುಗಳಿಗೆ ಹೋಲಿಸಿದರೆ ಇವುಗಳ ಜ್ವಲನ ತಾಪ ಬಹಳ ಕಡಿಮೆ ಇರುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಕಡಿಮೆ ಜ್ವಲನ ತಾಪ ಎಂದರೆ ನಿಖರವಾಗಿ ಏನು? ಇದರ ಅರ್ಥ, ಈ ವಸ್ತುಗಳು ಕೊಠಡಿಯ ತಾಪಮಾನದಲ್ಲಿಯೇ ಸುಲಭವಾಗಿ ಆವಿಯಾಗಿ, ಸಣ್ಣ ಕಿಡಿಯೊಂದು ಸಿಕ್ಕರೂ ಸಾಕು, ತಕ್ಷಣವೇ ಹೊತ್ತಿಕೊಳ್ಳುತ್ತವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ, ಇವುಗಳನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ, ಸುರಕ್ಷಿತ ಸ್ಥಳಗಳಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು ಮತ್ತು ಬಳಸುವಾಗ ವಿಶೇಷ ಕಾಳಜಿ ವಹಿಸಬೇಕು. ಕಟ್ಟಿಗೆಯಂತಹ ವಸ್ತುಗಳಿಗೆ ಹೋಲಿಸಿದರೆ ಇವುಗಳ ಜ್ವಲನ ತಾಪ ಬಹಳ ಕಡಿಮೆ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕಡಿಮೆ ಜ್ವಲನ ತಾಪ: ಕೊಠಡಿಯ ತಾಪಮಾನದಲ್ಲಿಯೇ ಸುಲಭವಾಗಿ ಆವಿಯಾಗಿ, ಸಣ್ಣ ಕಿಡಿ ಸಿಕ್ಕರೂ ಹೊತ್ತಿಕೊಳ್ಳುತ್ತವೆ.",
+    "ಹೆಚ್ಚಿನ ಅಪಾಯ: ಇವುಗಳನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಸಂಗ್ರಹಿಸಬೇಕು ಮತ್ತು ಬಳಸಬೇಕು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a can of petrol with a flammable symbol on it. Vapors are shown rising from the open can. A small spark nearby ignites these vapors, causing a large flame. This visually represents how easily inflammable substances catch fire due to their low ignition temperature.",
+    "labels": "Petrol can, Vapors, Spark, Flame, Flammable symbol",
+    "scientific_significance": "Demonstrates the concept of low ignition temperature and high volatility of inflammable substances.",
+    "placeholder_note": "Image to be generated showing a petrol can, vapors, a spark, and a resulting flame."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_4_concept_2_chunk_007"
+}

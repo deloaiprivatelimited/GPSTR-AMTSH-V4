@@ -1,0 +1,35 @@
+{
+  "type": "experiment_apparatus",
+  "slide_title": "ಚಟುವಟಿಕೆಗೆ ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಪರಿಸರ ನಡಿಗೆಗೆ ನಮಗೆ ಯಾವುದೇ ಸಂಕೀರ್ಣ ಉಪಕರಣಗಳು ಬೇಕಾಗಿಲ್ಲ. ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಎರಡು ಸರಳ ವಸ್ತುಗಳು. ಮೊದಲನೆಯದು, ಒಂದು ನೋಟ್‌ಪುಸ್ತಕ. ನಾವು ನೋಡುವ ಪ್ರತಿಯೊಂದು ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿಯ ಬಗ್ಗೆ ವಿವರಗಳನ್ನು ಬರೆದುಕೊಳ್ಳಲು ಇದು ಬೇಕು. ಎರಡನೆಯದು, ಒಂದು ಲೇಖನಿ ಅಥವಾ ಪೆನ್ಸಿಲ್. ಈ ನೋಟ್‌ಪುಸ್ತಕದಲ್ಲಿ ನಮ್ಮ ವೀಕ್ಷಣೆಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ದಾಖಲಿಸಲು ಇದು ಅತ್ಯಗತ್ಯ. ಇವೆರಡೇ ನಮ್ಮ ಇಂದಿನ ಚಟುವಟಿಕೆಯ ಪ್ರಮುಖ ಉಪಕರಣಗಳು. ಇವುಗಳನ್ನು ಬಳಸಿ ನಾವು ವಿಜ್ಞಾನಿಗಳಂತೆ ವೀಕ್ಷಣೆಗಳನ್ನು ದಾಖಲಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈ ಪರಿಸರ ನಡಿಗೆಗೆ ನಮಗೆ ಯಾವುದೇ ಸಂಕೀರ್ಣ ಉಪಕರಣಗಳು ಬೇಕಾಗಿಲ್ಲ. ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಎರಡು ಸರಳ ವಸ್ತುಗಳು. ಮೊದಲನೆಯದು, ಒಂದು ನೋಟ್‌ಪುಸ್ತಕ. ನಾವು ನೋಡುವ ಪ್ರತಿಯೊಂದು ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿಯ ಬಗ್ಗೆ ವಿವರಗಳನ್ನು ಬರೆದುಕೊಳ್ಳಲು ಇದು ಬೇಕು. ಎರಡನೆಯದು, ಒಂದು ಲೇಖನಿ ಅಥವಾ ಪೆನ್ಸಿಲ್. ಈ ನೋಟ್‌ಪುಸ್ತಕದಲ್ಲಿ ನಮ್ಮ ವೀಕ್ಷಣೆಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ದಾಖಲಿಸಲು ಇದು ಅತ್ಯಗತ್ಯ. ಇವೆರಡೇ ನಮ್ಮ ಇಂದಿನ ಚಟುವಟಿಕೆಯ ಪ್ರಮುಖ ಉಪಕರಣಗಳು. ಇವುಗಳನ್ನು ಬಳಸಿ ನಾವು ವಿಜ್ಞಾನಿಗಳಂತೆ ವೀಕ್ಷಣೆಗಳನ್ನು ದಾಖಲಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ನೋಟ್‌ಪುಸ್ತಕ: ವೀಕ್ಷಣೆಗಳನ್ನು ದಾಖಲಿಸಲು.",
+    "ಲೇಖನಿ: ಟಿಪ್ಪಣಿಗಳನ್ನು ಮಾಡಲು."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_center",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clean graphic showing a notebook and a pen side-by-side. The style should be minimalist and clear.",
+    "labels": "ನೋಟ್‌ಪುಸ್ತಕ, ಲೇಖನಿ",
+    "scientific_significance": "Represents the fundamental scientific practice of data collection and recording observations, even with simple tools.",
+    "placeholder_note": "Image of a notebook and a pen."
+  },
+  "chunk_id": "std_6_chapter_2_concept_1_chunk_010"
+}

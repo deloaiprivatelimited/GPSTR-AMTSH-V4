@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಫಲಿತಾಂಶ",
+  "script": "ಹೀಗೆ ನಾವು ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಿದ್ದೇವೆ. ಈ ವೃತ್ತದ ಕೇಂದ್ರವು ಪಿ ಆಗಿದೆ. ಈ ವೃತ್ತದ ಮೇಲಿರುವ ಯಾವುದೇ ಬಿಂದುವು ಕೇಂದ್ರ ಪಿ ಯಿಂದ ನಿಖರವಾಗಿ ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ದೂರದಲ್ಲಿರುತ್ತದೆ. ಇದುವೇ ವೃತ್ತದ ಮೂಲಭೂತ ಗುಣಲಕ್ಷಣ.",
+  "script_display": "ಹೀಗೆ ನಾವು 4 cm ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಿದ್ದೇವೆ. ಈ ವೃತ್ತದ ಕೇಂದ್ರವು 'P' ಆಗಿದೆ. ಈ ವೃತ್ತದ ಮೇಲಿರುವ ಯಾವುದೇ ಬಿಂದುವು ಕೇಂದ್ರ 'P' ಯಿಂದ ನಿಖರವಾಗಿ 4 cm ದೂರದಲ್ಲಿರುತ್ತದೆ. ಇದುವೇ ವೃತ್ತದ ಮೂಲಭೂತ ಗುಣಲಕ್ಷಣ.",
+  "display_bullets": [
+    "ಫಲಿತಾಂಶ: 'P' ಕೇಂದ್ರವಾಗಿರುವ 4 cm ತ್ರಿಜ್ಯದ ವೃತ್ತವನ್ನು ರಚಿಸಲಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clean diagram of the final constructed circle. The center is labeled 'P'. A radius is drawn and labeled '4 cm'.",
+    "labels": "ಕೇಂದ್ರ P, ತ್ರಿಜ್ಯ = 4 cm",
+    "mathematical_significance": "Represents the final, correct output of the construction, reinforcing the relationship between the center, radius, and the points on the circle.",
+    "placeholder_note": "Image of the final circle with center P and radius 4 cm labeled."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "VIS-CON-1_example_1",
+  "final_answer": "'P' ಕೇಂದ್ರ ಮತ್ತು 4 cm ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತವು ರಚನೆಯಾಗುತ್ತದೆ. ಈ ವೃತ್ತದ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದು 'P' ಯಿಂದ 4 cm ದೂರದಲ್ಲಿರುತ್ತದೆ.",
+  "final_answer_display": "'P' ಕೇಂದ್ರ ಮತ್ತು 4 cm ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತವು ರಚನೆಯಾಗುತ್ತದೆ. ಈ ವೃತ್ತದ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದು 'P' ಯಿಂದ 4 cm ದೂರದಲ್ಲಿರುತ್ತದೆ.",
+  "chunk_id": "VIS-CON-1_concept_1_chunk_021"
+}

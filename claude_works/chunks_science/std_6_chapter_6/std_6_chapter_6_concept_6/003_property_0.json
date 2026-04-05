@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದ್ರವ್ಯರಾಶಿಯ ಏಕಮಾನಗಳು",
+  "script": "ಮೊದಲಿಗೆ, ದ್ರವ್ಯರಾಶಿಯ ಏಕಮಾನಗಳನ್ನು ನೋಡೋಣ. ದ್ರವ್ಯರಾಶಿಯ ಅಂತರರಾಷ್ಟ್ರೀಯ ಏಕಮಾನ ಅಥವಾ ಎಸ್ ಐ ಏಕಮಾನವು ಕಿಲೋಗ್ರಾಂ ಆಗಿದೆ, ಇದನ್ನು ನಾವು ಕೆ ಜಿ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ದೊಡ್ಡ ಕಲ್ಲಂಗಡಿ ಹಣ್ಣಿನ ದ್ರವ್ಯರಾಶಿ ಸುಮಾರು ಎರಡು ಕೆ ಜಿ ಇರಬಹುದು. ಚಿಕ್ಕ ಪ್ರಮಾಣದ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಅಳೆಯಲು ನಾವು ಗ್ರಾಮ್ ಎಂಬ ಏಕಮಾನವನ್ನು ಬಳಸುತ್ತೇವೆ, ಇದನ್ನು ಜಿ ಎಂದು ಸಂಕೇತಿಸಲಾಗುತ್ತದೆ. ಒಂದು ಸಣ್ಣ ಸೇಬು ಸುಮಾರು ನೂರ ಐವತ್ತು ಜಿ ತೂಗಬಹುದು. ಇವುಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಮುಖ್ಯ: ಒಂದು ಕಿಲೋಗ್ರಾಂ ಎಂದರೆ ಒಂದು ಸಾವಿರ ಗ್ರಾಮ್‌ಗಳಿಗೆ ಸಮ. ಅಂದರೆ, ಒಂದು ಕೆ ಜಿ ಈಕ್ವಲ್ಸ್ ಸಾವಿರ ಜಿ.",
+  "script_display": "ಮೊದಲಿಗೆ, ದ್ರವ್ಯರಾಶಿಯ ಏಕಮಾನಗಳನ್ನು ನೋಡೋಣ. ದ್ರವ್ಯರಾಶಿಯ ಅಂತರರಾಷ್ಟ್ರೀಯ ಏಕಮಾನ ಅಥವಾ SI ಏಕಮಾನವು ಕಿಲೋಗ್ರಾಂ ಆಗಿದೆ, ಇದನ್ನು ನಾವು kg ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ದೊಡ್ಡ ಕಲ್ಲಂಗಡಿ ಹಣ್ಣಿನ ದ್ರವ್ಯರಾಶಿ ಸುಮಾರು 2 kg ಇರಬಹುದು. ಚಿಕ್ಕ ಪ್ರಮಾಣದ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಅಳೆಯಲು ನಾವು ಗ್ರಾಮ್ ಎಂಬ ಏಕಮಾನವನ್ನು ಬಳಸುತ್ತೇವೆ, ಇದನ್ನು g ಎಂದು ಸಂಕೇತಿಸಲಾಗುತ್ತದೆ. ಒಂದು ಸಣ್ಣ ಸೇಬು ಸುಮಾರು 150 g ತೂಗಬಹುದು. ಇವುಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಮುಖ್ಯ: ಒಂದು ಕಿಲೋಗ್ರಾಂ ಎಂದರೆ ಒಂದು ಸಾವಿರ ಗ್ರಾಮ್‌ಗಳಿಗೆ ಸಮ. ಅಂದರೆ, 1 kg = 1000 g.",
+  "display_bullets": [
+    "SI ಏಕಮಾನ: ಕಿಲೋಗ್ರಾಂ (kg)",
+    "ಸಾಮಾನ್ಯ ಏಕಮಾನ: ಗ್ರಾಮ್ (g)",
+    "ಸಂಬಂಧ: 1 kg = 1000 g"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple balance scale. On the left pan, there is a single standard 1 kg weight. On the right pan, there are multiple small weights that add up to 1000 g. This visually represents the equality 1 kg = 1000 g.",
+    "labels": "1 kg weight, 1000 g weights",
+    "scientific_significance": "Visually demonstrates the conversion factor between kilograms and grams, a fundamental concept in mass measurement.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_6_chapter_6_concept_6_chunk_003"
+}

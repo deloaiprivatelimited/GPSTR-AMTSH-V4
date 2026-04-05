@@ -1,0 +1,33 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ: ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಕ್ಲೋರಿನ್ ಜೊತೆ ವರ್ತಿಸಿ ಕ್ಯಾಲ್ಸಿಯಂ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ ಮತ್ತು ನೀರನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಸಮೀಕರಣದಲ್ಲಿ, ಸಿ ಎ ಓ ಎಚ್ ಟ್ವೈಸ್ ಪ್ಲಸ್ ಸಿ ಎಲ್ ಟು ಗಿವ್ಸ್ ಸಿ ಎ ಓ ಸಿ ಎಲ್ ಟು ಪ್ಲಸ್ ಎಚ್ ಟು ಓ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ: ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (Ca(OH)₂), ಕ್ಲೋರಿನ್ (Cl₂) ಜೊತೆ ವರ್ತಿಸಿ ಕ್ಯಾಲ್ಸಿಯಂ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ (CaOCl₂) ಮತ್ತು ನೀರನ್ನು (H₂O) ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Ca(OH)_2(s) + Cl_2(g) \\rightarrow CaOCl_2(s) + H_2O(l)",
+    "placeholder_note": "Balanced chemical equation for the formation of bleaching powder."
+  },
+  "sub_type": "chemical_equation",
+  "difficulty": "medium",
+  "chunk_id": "std_10_chapter_2_concept_9_chunk_009"
+}

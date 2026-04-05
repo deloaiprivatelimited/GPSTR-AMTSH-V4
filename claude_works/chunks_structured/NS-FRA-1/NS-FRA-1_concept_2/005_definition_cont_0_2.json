@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಮ ಭಿನ್ನರಾಶಿಯ ಮೌಲ್ಯ",
+  "script": "ಈಗ ಸಮ ಭಿನ್ನರಾಶಿಯ ಮೌಲ್ಯದ ಬಗ್ಗೆ ನೋಡೋಣ. ನಾವು ಮೊದಲೇ ಹೇಳಿದಂತೆ, ಸಮ ಭಿನ್ನರಾಶಿಯು ಯಾವಾಗಲೂ 'ಒಂದು ಪೂರ್ಣ'ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುತ್ತದೆ. ನಮ್ಮ ಹಿಂದಿನ ಉದಾಹರಣೆಯಾದ ಎರಡು ಬೈ ಮೂರನ್ನು ಗಮನಿಸಿ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುವಂತೆ, ನಾವು ಪೂರ್ಣ ವೃತ್ತವನ್ನು ಬಣ್ಣಿಸಿಲ್ಲ. ಮೂರು ಭಾಗಗಳಲ್ಲಿ ಕೇವಲ ಎರಡು ಭಾಗಗಳನ್ನು ಮಾತ್ರ ಬಣ್ಣಿಸಲಾಗಿದೆ. ಅಂದರೆ, ನಾವು ಪೂರ್ಣ ವಸ್ತುವಿನ ಒಂದು ಭಾಗವನ್ನು ಮಾತ್ರ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದೇವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಸಮ ಭಿನ್ನರಾಶಿಯ ಮೌಲ್ಯವು ಒಂದಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುತ್ತದೆ.",
+  "script_display": "ಈಗ ಸಮ ಭಿನ್ನರಾಶಿಯ ಮೌಲ್ಯದ ಬಗ್ಗೆ ನೋಡೋಣ. ನಾವು ಮೊದಲೇ ಹೇಳಿದಂತೆ, ಸಮ ಭಿನ್ನರಾಶಿಯು ಯಾವಾಗಲೂ 'ಒಂದು ಪೂರ್ಣ'ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುತ್ತದೆ. ನಮ್ಮ ಹಿಂದಿನ ಉದಾಹರಣೆಯಾದ $\\frac{2}{3}$ ಅನ್ನು ಗಮನಿಸಿ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುವಂತೆ, ನಾವು ಪೂರ್ಣ ವೃತ್ತವನ್ನು ಬಣ್ಣಿಸಿಲ್ಲ. ಮೂರು ಭಾಗಗಳಲ್ಲಿ ಕೇವಲ ಎರಡು ಭಾಗಗಳನ್ನು ಮಾತ್ರ ಬಣ್ಣಿಸಲಾಗಿದೆ. ಅಂದರೆ, ನಾವು ಪೂರ್ಣ ವಸ್ತುವಿನ ಒಂದು ಭಾಗವನ್ನು ಮಾತ್ರ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದೇವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಸಮ ಭಿನ್ನರಾಶಿಯ ಮೌಲ್ಯವು $1$ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಮ ಭಿನ್ನರಾಶಿಯು ಯಾವಾಗಲೂ 'ಒಂದು ಪೂರ್ಣ'ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುತ್ತದೆ.",
+    "ಉದಾಹರಣೆ $\\frac{2}{3}$: ನಾವು ಪೂರ್ಣ ವಸ್ತುವಿನ ಒಂದು ಭಾಗವನ್ನು ಮಾತ್ರ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದೇವೆ.",
+    "ಚಿತ್ರದಲ್ಲಿ, ಬಣ್ಣ ಹಚ್ಚಿದ ಭಾಗವು ಪೂರ್ಣ ವೃತ್ತಕ್ಕಿಂತ ಕಡಿಮೆಯಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same circle with 2/3 shaded. An arrow points to the entire circle with the label '1 ಪೂರ್ಣ' (1 Whole). Another arrow points to the shaded area, emphasizing it's less than the whole.",
+    "labels": "1 ಪೂರ್ಣ, < 1",
+    "mathematical_significance": "Connects the visual representation of a proper fraction to the mathematical concept that its value is less than 1.",
+    "placeholder_note": "Use the 2/3 circle diagram and add labels to show it's less than one whole."
+  },
+  "chunk_id": "NS-FRA-1_concept_2_chunk_005"
+}

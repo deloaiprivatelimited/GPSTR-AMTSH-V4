@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 4-5",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ದತ್ತಾಂಶದ ಪ್ರಕಾರ AD ಯು ಕೋನ PAC ಯ ಕೋನಾರ್ಧಕವಾಗಿದೆ. ಇದರರ್ಥ, ಕೋನ PAC ಯು ಎರಡು ಕೋನ DAC ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಇದನ್ನು ಸಮೀಕರಣ ಎರಡು ಎಂದು ಗುರುತಿಸೋಣ. ಈಗ ಐದನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಮೊದಲ ಭಾಗವನ್ನು ಸಾಧಿಸಬಹುದು. ಸಮೀಕರಣ ಒಂದು ಮತ್ತು ಎರಡನ್ನು ಗಮನಿಸಿ. ಎರಡೂ ಕೋನ PAC ಗೆ ಸಮವಾಗಿವೆ. ಆದ್ದರಿಂದ, ಎರಡು ಕೋನ DAC ಸಮನಾಗಿದೆ ಎರಡು ಕೋನ ACB. ಎರಡೂ ಬದಿಗಳಲ್ಲಿ ಎರಡನ್ನು ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಕೋನ DAC ಸಮನಾಗಿದೆ ಕೋನ ACB ಎಂದು ಸಿಗುತ್ತದೆ. ಹೀಗೆ ಮೊದಲ ಭಾಗವನ್ನು ಸಾಧಿಸಿದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ದತ್ತಾಂಶದ ಪ್ರಕಾರ AD ಯು $∠ PAC$ ಯ ಕೋನಾರ್ಧಕವಾಗಿದೆ. ಇದರರ್ಥ, $∠ PAC = 2 ∠ DAC$. ಇದನ್ನು ಸಮೀಕರಣ (2) ಎಂದು ಗುರುತಿಸೋಣ. ಈಗ ಐದನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಮೊದಲ ಭಾಗವನ್ನು ಸಾಧಿಸಬಹುದು. ಸಮೀಕರಣ (1) ಮತ್ತು (2)ನ್ನು ಗಮನಿಸಿ. ಎರಡೂ $∠ PAC$ ಗೆ ಸಮವಾಗಿವೆ. ಆದ್ದರಿಂದ, $2 ∠ DAC = 2 ∠ ACB$. ಎರಡೂ ಬದಿಗಳಲ್ಲಿ 2ನ್ನು ಭಾಗಿಸಿದಾಗ, ನಮಗೆ $∠ DAC = ∠ ACB$ ಎಂದು ಸಿಗುತ್ತದೆ. ಹೀಗೆ ಮೊದಲ ಭಾಗವನ್ನು ಸಾಧಿಸಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABC. ಬಾಹು BA ಯನ್ನು P ವರೆಗೆ ವೃದ್ಧಿಸಿದೆ. ಬಾಹ್ಯಕೋನ PAC ಯ ಕೋನಾರ್ಧಕ AD. CD ಯನ್ನು AB ಗೆ ಸಮಾಂತರವಾಗಿ ಎಳೆಯಲಾಗಿದೆ.",
+    "labels": "ಶೃಂಗಗಳು A, B, C, D ಮತ್ತು ಬಿಂದು P.",
+    "mathematical_significance": "ಉದಾಹರಣೆ 3 ರ ಜ್ಯಾಮಿತೀಯ ಸನ್ನಿವೇಶವನ್ನು ವಿವರಿಸುತ್ತದೆ. AB = AC, AD ಕೋನಾರ್ಧಕ, ಮತ್ತು CD || AB ಎಂಬ ಸಂಬಂಧಗಳನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for example 3, showing the described geometric setup."
+  },
+  "source_example_id": "GEO-QUAD-2_example_3",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "$∠ PAC = 2 ∠ DAC$ --- (2)",
+      "justification": "AD ಯು $∠ PAC$ ಯ ಕೋನಾರ್ಧಕ (ದತ್ತ)."
+    },
+    {
+      "step": 5,
+      "action_display": "$2 ∠ DAC = 2 ∠ ACB \\implies ∠ DAC = ∠ ACB$.",
+      "justification": "ಸಮೀಕರಣ (1) ಮತ್ತು (2) ರಿಂದ. (i) ಸಾಧಿಸಿದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-QUAD-2_concept_3_chunk_005"
+}

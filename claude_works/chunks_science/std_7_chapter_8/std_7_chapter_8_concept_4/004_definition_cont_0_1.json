@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಕೇಸರದ ಭಾಗಗಳು",
+  "script": "ಈಗ ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಇಲ್ಲಿ ಕೇಸರದ ರಚನೆಯನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸಲಾಗಿದೆ. ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಚೀಲದಂತಹ ರಚನೆಯೇ ಪರಾಗಕೋಶ. ಈ ಪರಾಗಕೋಶದ ಒಳಗೆ ಪರಾಗರೇಣುಗಳು ಉತ್ಪತ್ತಿಯಾಗುತ್ತವೆ. ಈ ಪರಾಗರೇಣುಗಳು ಪುಡಿಯಂತೆ ಇರುತ್ತವೆ. ಪರಾಗಕೋಶವನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಉದ್ದನೆಯ, ತೆಳುವಾದ ದಾರದಂತಹ ರಚನೆಯನ್ನು ಕೇಸರದಂಡ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದರ ಮುಖ್ಯ ಕೆಲಸವೆಂದರೆ ಪರಾಗಕೋಶಕ್ಕೆ ಆಧಾರ ನೀಡುವುದು ಮತ್ತು ಅದನ್ನು ಹೂವಿನ ಇತರ ಭಾಗಗಳಿಂದ ಸ್ವಲ್ಪ ಎತ್ತರದಲ್ಲಿ ಇಡುವುದು. ಇದರಿಂದ ಪರಾಗಸ್ಪರ್ಶಕ್ಕೆ ಸಹಾಯವಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಇಲ್ಲಿ ಕೇಸರದ (stamen) ರಚನೆಯನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸಲಾಗಿದೆ. ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಚೀಲದಂತಹ ರಚನೆಯೇ ಪರಾಗಕೋಶ (anther). ಈ ಪರಾಗಕೋಶದ ಒಳಗೆ ಪರಾಗರೇಣುಗಳು (pollen grains) ಉತ್ಪತ್ತಿಯಾಗುತ್ತವೆ. ಈ ಪರಾಗರೇಣುಗಳು ಪುಡಿಯಂತೆ ಇರುತ್ತವೆ. ಪರಾಗಕೋಶವನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಉದ್ದನೆಯ, ತೆಳುವಾದ ದಾರದಂತಹ ರಚನೆಯನ್ನು ಕೇಸರದಂಡ (filament) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದರ ಮುಖ್ಯ ಕೆಲಸವೆಂದರೆ ಪರಾಗಕೋಶಕ್ಕೆ ಆಧಾರ ನೀಡುವುದು ಮತ್ತು ಅದನ್ನು ಹೂವಿನ ಇತರ ಭಾಗಗಳಿಂದ ಸ್ವಲ್ಪ ಎತ್ತರದಲ್ಲಿ ಇಡುವುದು. ಇದರಿಂದ ಪರಾಗಸ್ಪರ್ಶಕ್ಕೆ ಸಹಾಯವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪರಾಗಕೋಶ (Anther): ಪರಾಗರೇಣುಗಳನ್ನು ಉತ್ಪಾದಿಸುವ ಚೀಲದಂತಹ ರಚನೆ.",
+    "ಕೇಸರದಂಡ (Filament): ಪರಾಗಕೋಶಕ್ಕೆ ಆಧಾರ ನೀಡುವ ಉದ್ದನೆಯ ದಾರದಂತಹ ಭಾಗ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear diagram of a single stamen, showing the anther and filament. The anther should be shown with some pollen grains on it to indicate its function.",
+    "labels": "ಪರಾಗಕೋಶ (Anther), ಕೇಸರದಂಡ (Filament), ಪರಾಗರೇಣು (Pollen grain)",
+    "scientific_significance": "Illustrates the two key components of the stamen, the male reproductive part of a flower, and their spatial relationship.",
+    "placeholder_note": "Image to be generated based on textbook diagram 8.9(a)."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_8_concept_4_chunk_004"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ (ಮುಂದುವರಿದಿದೆ)",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ, ತ್ರಿಭುಜ PCA ಮತ್ತು ತ್ರಿಭುಜ PCB ಗಳಲ್ಲಿ ಸಮನಾದ ಭಾಗಗಳನ್ನು ಗುರುತಿಸೋಣ. ನಾವು ಈಗಾಗಲೇ ನೋಡಿದಂತೆ, ಬಾಹು AC ಯು ಬಾಹು BC ಗೆ ಸಮ. ಕೋನ PCA ಯು ಕೋನ PCB ಗೆ ಸಮ, ಪ್ರತಿಯೊಂದೂ 90 ಡಿಗ್ರಿ. ಹಾಗೂ, PC ಬಾಹುವು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿದೆ, ಆದ್ದರಿಂದ PC ಯು PC ಗೆ ಸಮ. ಇಲ್ಲಿ ನಮಗೆ ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನ ಸಮನಾಗಿರುವುದು ಸಿಕ್ಕಿದೆ. ಆದ್ದರಿಂದ, ಬಾಹು ಕೋನ ಬಾಹು ಸರ್ವಸಮತೆಯ ನಿಬಂಧನೆಯ ಪ್ರಕಾರ, ತ್ರಿಭುಜ PCA ಯು ತ್ರಿಭುಜ PCB ಗೆ ಸರ್ವಸಮವಾಗಿದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ, $\\triangle PCA$ ಮತ್ತು $\\triangle PCB$ ಗಳಲ್ಲಿ ಸಮನಾದ ಭಾಗಗಳನ್ನು ಗುರುತಿಸೋಣ. ನಾವು ಈಗಾಗಲೇ ನೋಡಿದಂತೆ, ಬಾಹು $AC$ ಯು ಬಾಹು $BC$ ಗೆ ಸಮ. ಕೋನ $\\angle PCA$ ಯು ಕೋನ $\\angle PCB$ ಗೆ ಸಮ, ಪ್ರತಿಯೊಂದೂ $90^\\circ$. ಹಾಗೂ, $PC$ ಬಾಹುವು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿದೆ, ಆದ್ದರಿಂದ $PC = PC$. ಇಲ್ಲಿ ನಮಗೆ ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನ ಸಮನಾಗಿರುವುದು ಸಿಕ್ಕಿದೆ. ಆದ್ದರಿಂದ, ಬಾ.ಕೋ.ಬಾ ಸರ್ವಸಮತೆಯ ನಿಬಂಧನೆಯ ಪ್ರಕಾರ, $\\triangle PCA \\cong \\triangle PCB$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_2",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\triangle PCA$ ಮತ್ತು $\\triangle PCB$ ಗಳಲ್ಲಿ:\n$AC = BC$ (C ಯು AB ಯ ಮಧ್ಯಬಿಂದು)\n$\\angle PCA = \\angle PCB$ (ಪ್ರತಿಯೊಂದೂ $90^\\circ$)\n$PC = PC$ (ಸಾಮಾನ್ಯ ಬಾಹು)",
+      "justification": "ದತ್ತ ಮತ್ತು ಸಾಮಾನ್ಯ ಬಾಹು"
+    },
+    {
+      "step": 4,
+      "action_display": "$\\triangle PCA \\cong \\triangle PCB$",
+      "justification": "ಬಾ.ಕೋ.ಬಾ (SAS) ಸರ್ವಸಮತೆ ನಿಬಂಧನೆ"
+    }
+  ],
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_053"
+}

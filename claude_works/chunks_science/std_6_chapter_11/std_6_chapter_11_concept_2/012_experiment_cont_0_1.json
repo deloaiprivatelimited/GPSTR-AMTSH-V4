@@ -1,0 +1,36 @@
+{
+  "type": "experiment",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ತೆಗೆದುಕೊಂಡ ಚೌಕಾಕಾರದ ಕಾಗದವನ್ನು ಮೇಜಿನ ಮೇಲೆ ಇಡೋಣ. ಈಗ, ಕತ್ತರಿಯನ್ನು ಬಳಸಿ ಕಾಗದದ ನಾಲ್ಕು ಮೂಲೆಗಳಿಂದ ಕೇಂದ್ರದ ಕಡೆಗೆ ಕತ್ತರಿಸಬೇಕು. ಆದರೆ ಜಾಗರೂಕರಾಗಿರಿ, ಪೂರ್ತಿಯಾಗಿ ಕತ್ತರಿಸಬಾರದು. ಕೇಂದ್ರವನ್ನು ತಲುಪುವ ಮೊದಲೇ, ಅಂದರೆ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ದೂರ ಮಾತ್ರ ಕತ್ತರಿಸಬೇಕು. ಹೀಗೆ ಮಾಡಿದಾಗ, ಕಾಗದದ ನಾಲ್ಕು ಭಾಗಗಳು ಕೇಂದ್ರಕ್ಕೆ ಅಂಟಿಕೊಂಡಿರುತ್ತವೆ. ಈ ಹಂತವನ್ನು ಸರಿಯಾಗಿ ಮಾಡುವುದು ಗಿರಗಿಟ್ಟೆಯ ರಚನೆಗೆ ಬಹಳ ಮುಖ್ಯ. ಮೊದಲು ಚೌಕಾಕಾರದ ಕಾಗದವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ, ನಂತರ ಮೂಲೆಗಳಿಂದ ಕೇಂದ್ರದ ಕಡೆಗೆ ಅರ್ಧದಷ್ಟು ಕತ್ತರಿಸಿ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ತೆಗೆದುಕೊಂಡ ಚೌಕಾಕಾರದ ಕಾಗದವನ್ನು ಮೇಜಿನ ಮೇಲೆ ಇಡೋಣ. ಈಗ, ಕತ್ತರಿಯನ್ನು ಬಳಸಿ ಕಾಗದದ ನಾಲ್ಕು ಮೂಲೆಗಳಿಂದ ಕೇಂದ್ರದ ಕಡೆಗೆ ಕತ್ತರಿಸಬೇಕು. ಆದರೆ ಜಾಗರೂಕರಾಗಿರಿ, ಪೂರ್ತಿಯಾಗಿ ಕತ್ತರಿಸಬಾರದು. ಕೇಂದ್ರವನ್ನು ತಲುಪುವ ಮೊದಲೇ, ಅಂದರೆ ಸುಮಾರು ಅರ್ಧದಷ್ಟು ದೂರ ಮಾತ್ರ ಕತ್ತರಿಸಬೇಕು. ಹೀಗೆ ಮಾಡಿದಾಗ, ಕಾಗದದ ನಾಲ್ಕು ಭಾಗಗಳು ಕೇಂದ್ರಕ್ಕೆ ಅಂಟಿಕೊಂಡಿರುತ್ತವೆ. ಈ ಹಂತವನ್ನು ಸರಿಯಾಗಿ ಮಾಡುವುದು ಗಿರಗಿಟ್ಟೆಯ ರಚನೆಗೆ ಬಹಳ ಮುಖ್ಯ. ಮೊದಲು ಚೌಕಾಕಾರದ ಕಾಗದವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ, ನಂತರ ಮೂಲೆಗಳಿಂದ ಕೇಂದ್ರದ ಕಡೆಗೆ ಅರ್ಧದಷ್ಟು ಕತ್ತರಿಸಿ.",
+  "display_bullets": [
+    "ಚೌಕಾಕಾರದ ಕಾಗದವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "ಕಾಗದದ ನಾಲ್ಕು ಮೂಲೆಗಳಿಂದ ಕೇಂದ್ರದ ಕಡೆಗೆ ಅರ್ಧದಷ್ಟು ಕತ್ತರಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-panel diagram. Panel 1 shows a square paper with dotted lines from each corner towards the center. Panel 2 shows the paper after being cut along those lines, with the cuts stopping before the center.",
+    "labels": "ಹಂತ 1, ಹಂತ 2",
+    "scientific_significance": "Illustrates the initial preparation of the paper which is crucial for the pinwheel's structure.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "procedure_step",
+  "chunk_id": "std_6_chapter_11_concept_2_chunk_012"
+}

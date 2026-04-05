@@ -1,0 +1,213 @@
+{
+  "module_id": "ALG-FAC-2_concept_6",
+  "merge_code": "ALG-FAC-2",
+  "voice": "Sadaltager",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 18,
+  "ok_count": 18,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:26:35",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "0af3bc703e8f4cbf18be98e864467bae",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.531,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "intro",
+      "script_words": 41,
+      "generated_at": "2026-03-30 14:23:08"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "259c6854416a0305d5f5a4f544d25f34",
+      "wav_file": "001_intro_0.wav",
+      "duration": 44.291,
+      "slide_title": "ಪರಿಚಯ: ಬೀಜೋಕ್ತಿಗಳ ಭಾಗಾಕಾರ",
+      "type": "intro",
+      "script_words": 61,
+      "generated_at": "2026-03-30 14:23:18"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "4052288972fc225d8286696a16b213ef",
+      "wav_file": "003_property_0.wav",
+      "duration": 53.971,
+      "slide_title": "ಏಕಪದದಿಂದ ಏಕಪದದ ಭಾಗಾಕಾರ",
+      "type": "concept_explanation",
+      "script_words": 85,
+      "generated_at": "2026-03-30 14:23:50"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "049914cab4503a97d35187ed4c728edb",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 64.971,
+      "slide_title": "ಬಹುಪದದಿಂದ ಏಕಪದದ ಭಾಗಾಕಾರ",
+      "type": "concept_explanation",
+      "script_words": 90,
+      "generated_at": "2026-03-30 14:23:54"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "2cd7896fde734753eaa471bddb2c7602",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 68.011,
+      "slide_title": "ಬಹುಪದದಿಂದ ಬಹುಪದದ ಭಾಗಾಕಾರ",
+      "type": "concept_explanation",
+      "script_words": 92,
+      "generated_at": "2026-03-30 14:24:06"
+    },
+    "006_example_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "12bd94e917c02309d14f51573696e28d",
+      "wav_file": "006_example_0.wav",
+      "duration": 29.571,
+      "slide_title": "ಉದಾಹರಣೆ: ಬಹುಪದದ ಭಾಗಾಕಾರ",
+      "type": "worked_example",
+      "script_words": 59,
+      "generated_at": "2026-03-30 14:24:09"
+    },
+    "010_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "d7919697e9aedcd1ea344037dc34db30",
+      "wav_file": "010_example_cont_1_1.wav",
+      "duration": 31.011,
+      "slide_title": "ಹಂತ 1: ಭಾಜ್ಯವನ್ನು ಅಪವರ್ತಿಸುವುದು (ಭಾಗ 1)",
+      "type": "worked_example",
+      "script_words": 46,
+      "generated_at": "2026-03-30 14:24:31"
+    },
+    "008_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "4f4955b45c52dded9ec4f43e5cfbbccd",
+      "wav_file": "008_example_cont_0_2.wav",
+      "duration": 32.571,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 50,
+      "generated_at": "2026-03-30 14:24:32"
+    },
+    "009_example_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "f2a4dea1a75888964802fcbaa8ee7532",
+      "wav_file": "009_example_1.wav",
+      "duration": 38.531,
+      "slide_title": "ಉದಾಹರಣೆ: ಬಹುಪದೋಕ್ತಿಯ ಭಾಗಾಕಾರ",
+      "type": "worked_example",
+      "script_words": 54,
+      "generated_at": "2026-03-30 14:24:35"
+    },
+    "007_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "adf9ea50bf5f9590e2f74e959cc58f15",
+      "wav_file": "007_example_cont_0_1.wav",
+      "duration": 76.891,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ ಹಂತವಾಗಿ",
+      "type": "worked_example",
+      "script_words": 116,
+      "generated_at": "2026-03-30 14:24:42"
+    },
+    "015_example_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "a8b097cfbb832dd6d6ae4f4d71996d43",
+      "wav_file": "015_example_cont_2_1.wav",
+      "duration": 59.811,
+      "slide_title": "ಹಂತ 1: ಭಾಜ್ಯವನ್ನು ಅಪವರ್ತಿಸುವುದು",
+      "type": "worked_example",
+      "script_words": 110,
+      "generated_at": "2026-03-30 14:25:30"
+    },
+    "013_example_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "1e8c7030cfb01c8e47d227882e503542",
+      "wav_file": "013_example_cont_1_4.wav",
+      "duration": 32.291,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 36,
+      "generated_at": "2026-03-30 14:25:36"
+    },
+    "014_example_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "c472da0606d7820f9aee2798c2f6a046",
+      "wav_file": "014_example_2.wav",
+      "duration": 34.811,
+      "slide_title": "ಉದಾಹರಣೆ 3: ಬಹುಪದದ ಭಾಗಾಕಾರ",
+      "type": "worked_example",
+      "script_words": 51,
+      "generated_at": "2026-03-30 14:25:40"
+    },
+    "011_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "6985f8e1361f34397dbea4becdc6d5f3",
+      "wav_file": "011_example_cont_1_2.wav",
+      "duration": 62.571,
+      "slide_title": "ಹಂತ 1: ಭಾಜ್ಯವನ್ನು ಅಪವರ್ತಿಸುವುದು (ಭಾಗ 2)",
+      "type": "worked_example",
+      "script_words": 86,
+      "generated_at": "2026-03-30 14:25:45"
+    },
+    "012_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "33aba4fd0e905eee5cea4cb0b21fe1c5",
+      "wav_file": "012_example_cont_1_3.wav",
+      "duration": 49.331,
+      "slide_title": "ಹಂತ 2: ಭಾಗಾಕಾರ ಮಾಡುವುದು",
+      "type": "worked_example",
+      "script_words": 72,
+      "generated_at": "2026-03-30 14:25:49"
+    },
+    "017_example_cont_2_3.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "9cc75fb1bf9ebe93502a70eadbaacd29",
+      "wav_file": "017_example_cont_2_3.wav",
+      "duration": 24.651,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 42,
+      "generated_at": "2026-03-30 14:26:05"
+    },
+    "018_recap_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "445981e54b070b5b70bde3221ec7ee00",
+      "wav_file": "018_recap_0.wav",
+      "duration": 49.291,
+      "slide_title": "ಸಾರಾಂಶ: ಬೀಜೋಕ್ತಿಗಳ ಭಾಗಾಕಾರ",
+      "type": "recap",
+      "script_words": 58,
+      "generated_at": "2026-03-30 14:26:20"
+    },
+    "016_example_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "16e093ec640a5b2d08ab6b0f63eb07be",
+      "wav_file": "016_example_cont_2_2.wav",
+      "duration": 37.531,
+      "slide_title": "ಹಂತ 2: ಭಾಗಾಕಾರ ಮತ್ತು ಸರಳೀಕರಣ",
+      "type": "worked_example",
+      "script_words": 61,
+      "generated_at": "2026-03-30 14:26:35"
+    }
+  }
+}

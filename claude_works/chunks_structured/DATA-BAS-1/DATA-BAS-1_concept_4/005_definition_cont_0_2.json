@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 2: ದಾಳ ಉರುಳಿಸುವುದು",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಪ್ರಸಿದ್ಧ ಉದಾಹರಣೆಯನ್ನು ಪರಿಗಣಿಸೋಣ, ಅದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು. ನಾವು ಸಾಮಾನ್ಯವಾಗಿ ಆಟಗಳಲ್ಲಿ ಬಳಸುವ ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ, ಅದರ ಮೇಲ್ಮುಖದಲ್ಲಿ ಒಂದು, ಎರಡು, ಮೂರು, ನಾಲ್ಕು, ಐದು, ಅಥವಾ ಆರು ಎಂಬ ಸಂಖ್ಯೆಗಳು ಬರಬಹುದು. ಇಲ್ಲಿ ಒಟ್ಟು ಆರು ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳಿವೆ. ಆದರೆ, ದಾಳವನ್ನು ಕೈಯಿಂದ ಬಿಡುವ ಮುನ್ನ, ಯಾವ ನಿರ್ದಿಷ್ಟ ಸಂಖ್ಯೆ ಬರಲಿದೆ ಎಂದು ನಾವು ಖಚಿತವಾಗಿ ಹೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ. ಪ್ರತಿ ಬಾರಿ ಉರುಳಿಸಿದಾಗಲೂ ಫಲಿತಾಂಶವು ಈ ಆರು ಸಂಖ್ಯೆಗಳಲ್ಲಿ ಯಾವುದಾದರೂ ಒಂದಾಗಿರಬಹುದು. ಇದೂ ಕೂಡ ಒಂದು ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಪ್ರಸಿದ್ಧ ಉದಾಹರಣೆಯನ್ನು ಪರಿಗಣಿಸೋಣ, ಅದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು. ನಾವು ಸಾಮಾನ್ಯವಾಗಿ ಆಟಗಳಲ್ಲಿ ಬಳಸುವ ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ, ಅದರ ಮೇಲ್ಮುಖದಲ್ಲಿ 1, 2, 3, 4, 5, ಅಥವಾ 6 ಎಂಬ ಸಂಖ್ಯೆಗಳು ಬರಬಹುದು. ಇಲ್ಲಿ ಒಟ್ಟು ಆರು ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳಿವೆ. ಆದರೆ, ದಾಳವನ್ನು ಕೈಯಿಂದ ಬಿಡುವ ಮುನ್ನ, ಯಾವ ನಿರ್ದಿಷ್ಟ ಸಂಖ್ಯೆ ಬರಲಿದೆ ಎಂದು ನಾವು ಖಚಿತವಾಗಿ ಹೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ. ಪ್ರತಿ ಬಾರಿ ಉರುಳಿಸಿದಾಗಲೂ ಫಲಿತಾಂಶವು ಈ ಆರು ಸಂಖ್ಯೆಗಳಲ್ಲಿ ಯಾವುದಾದರೂ ಒಂದಾಗಿರಬಹುದು. ಇದೂ ಕೂಡ ಒಂದು ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳು: 1, 2, 3, 4, 5, ಅಥವಾ 6.",
+    "ಒಟ್ಟು ಆರು ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳಿವೆ.",
+    "ಯಾವ ಸಂಖ್ಯೆ ಬರುತ್ತದೆ ಎಂದು ಮುಂಚಿತವಾಗಿ ಊಹಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of a standard six-sided die being rolled. Surrounding the die are the six possible outcomes, each showing a face of the die with dots from 1 to 6. The numbers 1, 2, 3, 4, 5, 6 are clearly visible.",
+    "labels": "ದಾಳ, ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳು, ಸಂಖ್ಯೆಗಳು",
+    "mathematical_significance": "Illustrates a random experiment with multiple (six) outcomes, extending the concept from the binary coin toss example.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_005"
+}

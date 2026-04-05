@@ -1,0 +1,202 @@
+{
+  "module_id": "NS-SQR-2_concept_8",
+  "merge_code": "NS-SQR-2",
+  "voice": "Algenib",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 17,
+  "ok_count": 17,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 17:24:36",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "6c4a39c60c918303504b9977c69e6395",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.691,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 43,
+      "generated_at": "2026-03-30 17:21:22"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "35dac2ca9600a54122dbf1e2a0c5302e",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 47.371,
+      "slide_title": "ದಶಮಾಂಶ ವರ್ಗಮೂಲ: ಪ್ರಮುಖ ನಿಯಮಗಳು",
+      "type": "concept_explanation",
+      "script_words": 71,
+      "generated_at": "2026-03-30 17:21:31"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "ae5d70217f37e1aa2de67f1cead694df",
+      "wav_file": "001_intro_0.wav",
+      "duration": 49.571,
+      "slide_title": "ಪರಿಚಯ: ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳ ವರ್ಗಮೂಲಗಳು",
+      "type": "intro",
+      "script_words": 75,
+      "generated_at": "2026-03-30 17:21:36"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "331bf52168e9cbb171d3380c0ab7e4bc",
+      "wav_file": "003_property_0.wav",
+      "duration": 56.771,
+      "slide_title": "ದಶಮಾಂಶ ವರ್ಗಮೂಲ: ಅಂಕಿಗಳನ್ನು ಜೋಡಿಸುವುದು",
+      "type": "concept_explanation",
+      "script_words": 83,
+      "generated_at": "2026-03-30 17:21:41"
+    },
+    "005_example_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "003d713b9ece4d24b01848be537b1432",
+      "wav_file": "005_example_0.wav",
+      "duration": 25.051,
+      "slide_title": "ಉದಾಹರಣೆ: 12.25 ರ ವರ್ಗಮೂಲ",
+      "type": "worked_example",
+      "script_words": 26,
+      "generated_at": "2026-03-30 17:21:42"
+    },
+    "008_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "d5ea1ce72603815ba6f9a00fd579cb5a",
+      "wav_file": "008_example_cont_0_3.wav",
+      "duration": 23.531,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 30,
+      "generated_at": "2026-03-30 17:22:19"
+    },
+    "006_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "b4b5cd55a8bd1f004935199abdb3f956",
+      "wav_file": "006_example_cont_0_1.wav",
+      "duration": 36.051,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "script_words": 54,
+      "generated_at": "2026-03-30 17:22:22"
+    },
+    "007_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "fb0ea3c245904d25b39eb09fd0a8cb1d",
+      "wav_file": "007_example_cont_0_2.wav",
+      "duration": 44.211,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+      "type": "worked_example",
+      "script_words": 65,
+      "generated_at": "2026-03-30 17:22:28"
+    },
+    "010_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "bd9579e463f6344646a2122ff4bc7982",
+      "wav_file": "010_example_cont_1_1.wav",
+      "duration": 77.011,
+      "slide_title": "ಪರಿಹಾರ: ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನ",
+      "type": "worked_example",
+      "script_words": 105,
+      "generated_at": "2026-03-30 17:22:50"
+    },
+    "009_example_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "068cae5da0422f7b71b9570a2b9c9c48",
+      "wav_file": "009_example_1.wav",
+      "duration": 30.091,
+      "slide_title": "ಉದಾಹರಣೆ 2: ಚೌಕದ ಬಾಹು",
+      "type": "worked_example",
+      "script_words": 36,
+      "generated_at": "2026-03-30 17:22:50"
+    },
+    "014_example_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "b4d29e41d57431ee7b3878a0303f04ec",
+      "wav_file": "014_example_cont_2_2.wav",
+      "duration": 40.411,
+      "slide_title": "ಪರಿಹಾರ: ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನ",
+      "type": "worked_example",
+      "script_words": 63,
+      "generated_at": "2026-03-30 17:23:27"
+    },
+    "012_example_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "837838ca61946a320f1a3b1bf48d9713",
+      "wav_file": "012_example_2.wav",
+      "duration": 38.331,
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+      "type": "worked_example",
+      "script_words": 47,
+      "generated_at": "2026-03-30 17:23:28"
+    },
+    "013_example_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "83e02c252b0297aabd37daf752fe95cb",
+      "wav_file": "013_example_cont_2_1.wav",
+      "duration": 54.331,
+      "slide_title": "ಪರಿಹಾರ: ಗಣಿತದ ರೂಪ",
+      "type": "worked_example",
+      "script_words": 61,
+      "generated_at": "2026-03-30 17:23:38"
+    },
+    "015_example_cont_2_3.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "5ab8ae48a5500e7edcfa3a6e8ba805a6",
+      "wav_file": "015_example_cont_2_3.wav",
+      "duration": 58.331,
+      "slide_title": "ಪರಿಹಾರ: ದೀರ್ಘ ಭಾಗಾಕಾರ (ಮುಂದುವರಿದಿದೆ)",
+      "type": "worked_example",
+      "script_words": 80,
+      "generated_at": "2026-03-30 17:23:40"
+    },
+    "011_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "852e26a79607dbfb8dc16893f26d556b",
+      "wav_file": "011_example_cont_1_2.wav",
+      "duration": 22.651,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 30,
+      "generated_at": "2026-03-30 17:23:44"
+    },
+    "016_example_cont_2_4.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "ddca615efa7545db9f0b6ed6dbc6775d",
+      "wav_file": "016_example_cont_2_4.wav",
+      "duration": 26.611,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 30,
+      "generated_at": "2026-03-30 17:24:18"
+    },
+    "017_recap_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "bca78df5d3cf6c4104c2c78f5b099fbc",
+      "wav_file": "017_recap_0.wav",
+      "duration": 42.091,
+      "slide_title": "ಸಾರಾಂಶ: ದಶಮಾಂಶಗಳ ವರ್ಗಮೂಲಗಳು",
+      "type": "recap",
+      "script_words": 57,
+      "generated_at": "2026-03-30 17:24:36"
+    }
+  }
+}

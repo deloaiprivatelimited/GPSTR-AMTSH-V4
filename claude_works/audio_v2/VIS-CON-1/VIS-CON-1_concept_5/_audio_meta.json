@@ -1,0 +1,92 @@
+{
+  "module_id": "VIS-CON-1_concept_5",
+  "merge_code": "VIS-CON-1",
+  "voice": "Gacrux",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 17:10:23",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "13f5c8e366627a20b5c8e6fd8a3a89e6",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 27.731,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 38,
+      "generated_at": "2026-03-30 17:09:07"
+    },
+    "003_example_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "357b180e147bbc1b1cf8a1838d04004e",
+      "wav_file": "003_example_0.wav",
+      "duration": 42.011,
+      "slide_title": "ಸಮಸ್ಯೆ: ಸಮದೂರದಲ್ಲಿರುವ ಬಿಂದುವಿನ ರಚನೆ",
+      "type": "worked_example",
+      "script_words": 54,
+      "generated_at": "2026-03-30 17:09:23"
+    },
+    "004_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "8687e1b502aa5fb45f6342d224b82d8a",
+      "wav_file": "004_example_cont_0_1.wav",
+      "duration": 51.371,
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 1",
+      "type": "worked_example",
+      "script_words": 68,
+      "generated_at": "2026-03-30 17:09:27"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "f896114e3be33823de293da718e7a895",
+      "wav_file": "001_intro_0.wav",
+      "duration": 53.931,
+      "slide_title": "ಎರಡು ಬಿಂದುಗಳಿಂದ ಸಮದೂರದಲ್ಲಿರುವ ಬಿಂದುವಿನ ರಚನೆ",
+      "type": "intro",
+      "script_words": 87,
+      "generated_at": "2026-03-30 17:09:36"
+    },
+    "006_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "da2aaaf42364a85d32054592099f3ce5",
+      "wav_file": "006_example_cont_0_3.wav",
+      "duration": 35.851,
+      "slide_title": "ಅಂತಿಮ ಫಲಿತಾಂಶ",
+      "type": "worked_example",
+      "script_words": 48,
+      "generated_at": "2026-03-30 17:09:38"
+    },
+    "005_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "4153c8e2e9947f8dd4457775ab6faa28",
+      "wav_file": "005_example_cont_0_2.wav",
+      "duration": 47.851,
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 2",
+      "type": "worked_example",
+      "script_words": 56,
+      "generated_at": "2026-03-30 17:10:20"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "8d5cdf7b06189c502f9f23612478c990",
+      "wav_file": "007_recap_0.wav",
+      "duration": 55.291,
+      "slide_title": "ಸಾರಾಂಶ: ಸಮದೂರ ಬಿಂದುವಿನ ರಚನೆ",
+      "type": "recap",
+      "script_words": 62,
+      "generated_at": "2026-03-30 17:10:23"
+    }
+  }
+}

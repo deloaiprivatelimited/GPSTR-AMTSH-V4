@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಗುರುತ್ವಾಕರ್ಷಣ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿಯ ಸೂತ್ರ",
+  "script": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನೋಡಿದಂತೆ, ಮಾಡಿದ ಕೆಲಸವು m g h ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಈ ಕೆಲಸವೇ ಗುರುತ್ವಾಕರ್ಷಣ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿಯಾಗಿ ಸಂಗ್ರಹವಾಗುವುದರಿಂದ, ಅದರ ಸೂತ್ರವು E p ಈಕ್ವಲ್ಸ್ m g h ಆಗಿದೆ. ಇಲ್ಲಿ, E p ಎಂದರೆ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ, ಇದನ್ನು ಪೊಟೆನ್ಶಿಯಲ್ ಎನರ್ಜಿ ಎಂದು ಕರೆಯುತ್ತಾರೆ. m ಎಂದರೆ ವಸ್ತುವಿನ ರಾಶಿ, ಇದನ್ನು ಕಿಲೋಗ್ರಾಂಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ. g ಎಂದರೆ ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ, ಇದರ ಮೌಲ್ಯವು ಭೂಮಿಯ ಮೇಲೆ ಸರಿಸುಮಾರು 9.8 ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್ ಇರುತ್ತದೆ. ಮತ್ತು h ಎಂದರೆ ವಸ್ತುವನ್ನು ಎತ್ತಿದ ಲಂಬ ಎತ್ತರ, ಇದನ್ನು ಮೀಟರ್‌ಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ.",
+  "script_display": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನೋಡಿದಂತೆ, ಮಾಡಿದ ಕೆಲಸವು mgh ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಈ ಕೆಲಸವೇ ಗುರುತ್ವಾಕರ್ಷಣ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿಯಾಗಿ (Ep) ಸಂಗ್ರಹವಾಗುವುದರಿಂದ, ಅದರ ಸೂತ್ರವು: Ep = mgh. ಇಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಪದದ ಅರ್ಥವನ್ನು ತಿಳಿಯೋಣ:",
+  "display_bullets": [
+    "Ep = ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ (Potential Energy)",
+    "m = ವಸ್ತುವಿನ ರಾಶಿ (mass)",
+    "g = ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ (acceleration due to gravity)",
+    "h = ಲಂಬ ಎತ್ತರ (vertical height)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_with_breakdown",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "E_p = mgh",
+    "placeholder_note": "Formula for Gravitational Potential Energy"
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_9_chapter_10_concept_5_chunk_008"
+}

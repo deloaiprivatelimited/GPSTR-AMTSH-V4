@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಮೇಣದಬತ್ತಿ ಉರಿಯುವಿಕೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮೇಣದಬತ್ತಿ ಉರಿಯುವಾಗ ನಡೆಯುವ ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳನ್ನು ಗುರುತಿಸಿ ವಿವರಿಸಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಮೇಣದಬತ್ತಿ ಉರಿಯುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ವಿಶ್ಲೇಷಿಸಿ, ಅದರಲ್ಲಿ ಅಡಗಿರುವ ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಗುರುತಿಸಬೇಕು.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮೇಣದಬತ್ತಿ ಉರಿಯುವಾಗ ನಡೆಯುವ ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳನ್ನು ಗುರುತಿಸಿ ವಿವರಿಸಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಮೇಣದಬತ್ತಿ ಉರಿಯುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ವಿಶ್ಲೇಷಿಸಿ, ಅದರಲ್ಲಿ ಅಡಗಿರುವ ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಗುರುತಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಮೇಣದಬತ್ತಿ ಉರಿಯುವಾಗ ನಡೆಯುವ ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳನ್ನು ಗುರುತಿಸಿ ವಿವರಿಸಿ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿನ ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a burning candle, showing the flame, the wick, the pool of molten wax at the top, and the solid wax body of the candle.",
+    "labels": "Flame, Wick, Molten Wax, Solid Wax",
+    "scientific_significance": "Illustrates a process involving both physical (melting) and chemical (combustion) changes.",
+    "placeholder_note": "Image to be generated for std_7_chapter_5_we_1"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "std_7_chapter_5_we_1",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "std_7_chapter_5_concept_5_chunk_003"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಂಕ್ಷೇಪಣೆ: ಭಾಗ (iv)",
+  "script": "ಕೊನೆಯದಾಗಿ, ನಾಲ್ಕನೇ ಭಾಗವನ್ನು ನೋಡೋಣ: ರೂಟ್ ಹನ್ನೊಂದು ಮೈನಸ್ ರೂಟ್ ಏಳು ಗುಣಿಸು ರೂಟ್ ಹನ್ನೊಂದು ಪ್ಲಸ್ ರೂಟ್ ಏಳು. ಇದು ಕೂಡ 'a ಮೈನಸ್ b' ಗುಣಿಸು 'a ಪ್ಲಸ್ b' ರೂಪದಲ್ಲಿದೆ. ಇಲ್ಲಿ a ಎಂಬುದು ರೂಟ್ ಹನ್ನೊಂದು ಮತ್ತು b ಎಂಬುದು ರೂಟ್ ಏಳು. ಇದರ ಉತ್ತರ 'a ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ b ಸ್ಕ್ವೇರ್ಡ್' ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, ರೂಟ್ ಹನ್ನೊಂದರ ವರ್ಗ ಮೈನಸ್ ರೂಟ್ ಏಳರ ವರ್ಗ. ರೂಟ್ ಹನ್ನೊಂದರ ವರ್ಗ ಹನ್ನೊಂದು, ಮತ್ತು ರೂಟ್ ಏಳರ ವರ್ಗ ಏಳು. ಹನ್ನೊಂದರಲ್ಲಿ ಏಳನ್ನು ಕಳೆದರೆ, ಉತ್ತರ ನಾಲ್ಕು. ಇದು ಕೂಡ ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ನಾಲ್ಕನೇ ಭಾಗವನ್ನು ನೋಡೋಣ: $(\\sqrt{11}-\\sqrt{7})(\\sqrt{11}+\\sqrt{7})$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-SYS-3_example_15",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಇದು $(a-b)(a+b)$ ರೂಪದಲ್ಲಿದೆ, ಇಲ್ಲಿ $a=\\sqrt{11}, b=\\sqrt{7}$.",
+      "justification": "ನಿತ್ಯ ಸಮೀಕರಣವನ್ನು ಗುರುತಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$(\\sqrt{11}-\\sqrt{7})(\\sqrt{11}+\\sqrt{7}) = (\\sqrt{11})^2 - (\\sqrt{7})^2$",
+      "justification": "$(a-b)(a+b)=a^2-b^2$ ನಿತ್ಯ ಸಮೀಕರಣವನ್ನು ಬಳಸಿ."
+    },
+    {
+      "step": 3,
+      "action_display": "$= 11 - 7 = 4$",
+      "justification": "ವರ್ಗಗಳನ್ನು ಮತ್ತು ವ್ಯತ್ಯಾಸವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    }
+  ],
+  "chunk_id": "NS-SYS-3_concept_4_chunk_051"
+}

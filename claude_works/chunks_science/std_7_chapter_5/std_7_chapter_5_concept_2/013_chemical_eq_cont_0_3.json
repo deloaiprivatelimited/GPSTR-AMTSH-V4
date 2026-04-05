@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ವಿವರಗಳು",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯೋಣ. ಈ ಕ್ರಿಯೆ ನಡೆಯಲು ದಹನ, ಅಂದರೆ ಉರಿಯುವಿಕೆ ಅಗತ್ಯ. ಇದು ಒಂದು ಸಂಯೋಗ ಕ್ರಿಯೆಯಾಗಿದೆ, ಏಕೆಂದರೆ ಎರಡು ವಸ್ತುಗಳು ಸೇರಿ ಒಂದೇ ಉತ್ಪನ್ನವನ್ನು ನೀಡುತ್ತವೆ. ಇದನ್ನು ದಹನ ಕ್ರಿಯೆ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ, ಏಕೆಂದರೆ ಇದು ಆಮ್ಲಜನಕದೊಂದಿಗೆ ವರ್ತಿಸಿ ಉಷ್ಣ ಮತ್ತು ಬೆಳಕನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯೋಣ.",
+  "display_bullets": [
+    "ಕ್ರಿಯೆಯ ಪರಿಸ್ಥಿತಿ (Condition): ದಹನ (Burning)",
+    "ಕ್ರಿಯೆಯ ವಿಧ (Type): ಸಂಯೋಗ ಕ್ರಿಯೆ (Combination Reaction)",
+    "ಕ್ರಿಯೆಯ ವಿಧ (Type): ದಹನ ಕ್ರಿಯೆ (Combustion)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_013"
+}

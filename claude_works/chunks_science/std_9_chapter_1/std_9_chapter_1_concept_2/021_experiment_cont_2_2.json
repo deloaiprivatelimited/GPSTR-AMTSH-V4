@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಏನಾಯಿತು?",
+  "script": "ನಮ್ಮ ಪ್ರಯೋಗದ ಫಲಿತಾಂಶಗಳು ಬಹಳ ಸ್ಪಷ್ಟವಾಗಿವೆ. ಮೊದಲನೆಯದಾಗಿ, ಕಬ್ಬಿಣದ ಮೊಳೆಗೆ ಏನೂ ಆಗಿಲ್ಲ. ನಾವು ಬಲವಾಗಿ ಹೊಡೆದರೂ ಅದು ಮುರಿಯಲಿಲ್ಲ, ಇದು ಅದರ ಕಣಗಳು ಎಷ್ಟು ದೃಢವಾಗಿ ಬಂಧಿಸಲ್ಪಟ್ಟಿವೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಸೀಮೆಸುಣ್ಣದ ತುಂಡು ಸಣ್ಣ ಪೆಟ್ಟಿಗೆಯೇ ಪುಡಿಪುಡಿಯಾಗಿದೆ. ಇದರರ್ಥ ಅದರ ಕಣಗಳು ಬಹಳ ದುರ್ಬಲವಾಗಿ ಹಿಡಿದುಕೊಂಡಿವೆ. ಮೂರನೆಯದಾಗಿ, ರಬ್ಬರ್ ಬ್ಯಾಂಡ್, ನಾವು ಎಳೆದಾಗ ಅದು ತನ್ನ ಮೂಲ ಉದ್ದಕ್ಕಿಂತ ಹೆಚ್ಚು ಹಿಗ್ಗಿತು. ಈ ಮೂರು ವಿಭಿನ್ನ ಫಲಿತಾಂಶಗಳು ನಮಗೆ ಪ್ರಮುಖವಾದದ್ದನ್ನು ಹೇಳುತ್ತವೆ.",
+  "script_display": "ಪ್ರಯೋಗದ ಫಲಿತಾಂಶಗಳು:\n*   **ಕಬ್ಬಿಣದ ಮೊಳೆ:** ಒಡೆಯಲು ಅತ್ಯಂತ ಕಷ್ಟಕರ. ಕಣಗಳು ದೃಢವಾಗಿ ಬಂಧಿಸಲ್ಪಟ್ಟಿವೆ.\n*   **ಸೀಮೆಸುಣ್ಣ:** ಸುಲಭವಾಗಿ ಪುಡಿಯಾಗುತ್ತದೆ. ಕಣಗಳು ದುರ್ಬಲವಾಗಿ ಬಂಧಿಸಲ್ಪಟ್ಟಿವೆ.\n*   **ರಬ್ಬರ್ ಬ್ಯಾಂಡ್:** ಹಿಗ್ಗುತ್ತದೆ, ಆದರೆ ತುಂಡರಿಸಲು ಬಲ ಬೇಕು. ಕಣಗಳ ನಡುವಿನ ಆಕರ್ಷಣೆ ಮಧ್ಯಮವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕಬ್ಬಿಣದ ಮೊಳೆ: ಒಡೆಯಲು ಅತ್ಯಂತ ಕಷ್ಟಕರ.",
+    "ಸೀಮೆಸುಣ್ಣ: ಸುಲಭವಾಗಿ ಪುಡಿಯಾಗುತ್ತದೆ.",
+    "ರಬ್ಬರ್ ಬ್ಯಾಂಡ್: ಹಿಗ್ಗುತ್ತದೆ (ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A three-panel image showing the results. Panel 1: An intact iron nail next to a hammer. Panel 2: A piece of chalk shattered into powder. Panel 3: A rubber band being stretched.",
+    "labels": "ಬಾಗದ ಮೊಳೆ, ಪುಡಿಯಾದ ಸೀಮೆಸುಣ್ಣ, ಹಿಗ್ಗಿದ ರಬ್ಬರ್ ಬ್ಯಾಂಡ್",
+    "scientific_significance": "Visually represents the different responses of materials to external force, indicating varying strengths of intermolecular attraction.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_9_chapter_1_concept_2_chunk_021"
+}

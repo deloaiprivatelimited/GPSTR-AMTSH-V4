@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+  "script": "ಹೀಗೆ, ನಾವು ಹಂತ ಹಂತವಾಗಿ ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿಯನ್ನು ರಚಿಸಿದ್ದೇವೆ. ಈ ನಕ್ಷೆಯು ಜೀವನ ನಿರ್ವಹಣಾ ಸೂಚ್ಯಾಂಕದ ಹಂಚಿಕೆಯನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ. ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ಗಮನಿಸಬೇಕು. ಅನೇಕರು ಬಹುಭುಜಾಕೃತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಮೊದಲ ಮತ್ತು ಕೊನೆಯ ಬಿಂದುಗಳನ್ನು ಎಕ್ಸ್-ಅಕ್ಷಕ್ಕೆ ಸೇರಿಸುವುದನ್ನು ಮರೆಯುತ್ತಾರೆ. ಇದು ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪು. ಬಹುಭುಜಾಕೃತಿಯು ಯಾವಾಗಲೂ ಎಕ್ಸ್-ಅಕ್ಷದಿಂದ ಪ್ರಾರಂಭವಾಗಿ, ಎಕ್ಸ್-ಅಕ್ಷದಲ್ಲಿಯೇ ಕೊನೆಗೊಳ್ಳಬೇಕು.",
+  "script_display": "ಹೀಗೆ, ನಾವು ಹಂತ ಹಂತವಾಗಿ ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿಯನ್ನು ರಚಿಸಿದ್ದೇವೆ. ಈ ನಕ್ಷೆಯು ಜೀವನ ನಿರ್ವಹಣಾ ಸೂಚ್ಯಾಂಕದ ಹಂಚಿಕೆಯನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ. ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ಗಮನಿಸಬೇಕು. ಅನೇಕರು ಬಹುಭುಜಾಕೃತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಮೊದಲ ಮತ್ತು ಕೊನೆಯ ಬಿಂದುಗಳನ್ನು x-ಅಕ್ಷಕ್ಕೆ ಸೇರಿಸುವುದನ್ನು ಮರೆಯುತ್ತಾರೆ. ಇದು ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪು. ಬಹುಭುಜಾಕೃತಿಯು ಯಾವಾಗಲೂ x-ಅಕ್ಷದಿಂದ ಪ್ರಾರಂಭವಾಗಿ, x-ಅಕ್ಷದಲ್ಲಿಯೇ ಕೊನೆಗೊಳ್ಳಬೇಕು.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿಯು ದತ್ತಾಂಶದ ಹಂಚಿಕೆಯನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+    "ಪ್ರಮುಖ ಅಂಶ: ಬಹುಭುಜಾಕೃತಿಯು x-ಅಕ್ಷದಿಂದ ಪ್ರಾರಂಭವಾಗಿ, x-ಅಕ್ಷದಲ್ಲಿಯೇ ಕೊನೆಗೊಳ್ಳಬೇಕು.",
+    "ಸಾಮಾನ್ಯ ತಪ್ಪು: ಕಾಲ್ಪನಿಕ ವರ್ಗಗಳನ್ನು ಬಳಸಿ ಬಹುಭುಜಾಕೃತಿಯನ್ನು x-ಅಕ್ಷಕ್ಕೆ ಸೇರಿಸುವುದನ್ನು ಮರೆಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The final frequency polygon graph, identical to the one in the previous slide, possibly with the start and end points on the x-axis highlighted to emphasize the key takeaway.",
+    "labels": "X-axis: ಜೀವನ ನಿರ್ವಹಣಾ ಸೂಚ್ಯಾಂಕ (ವರ್ಗ-ಅಂಕ), Y-axis: ವಾರಗಳ ಸಂಖ್ಯೆ (ಆವೃತ್ತಿ)",
+    "mathematical_significance": "This slide reinforces the final result and highlights a common error, ensuring students remember to close the polygon on the x-axis.",
+    "placeholder_note": "Image to be generated: Same graph as the previous slide. The points (135, 0) and (205, 0) could be circled or highlighted to draw attention to them."
+  },
+  "source_example_id": "DATA-STAT-2_example_6",
+  "final_answer": "ಮೇಲಿನ ಹಂತಗಳ ಪ್ರಕಾರ ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿಯನ್ನು ರಚಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "ಮೇಲಿನ ಹಂತಗಳ ಪ್ರಕಾರ ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿಯನ್ನು ರಚಿಸಲಾಗಿದೆ.",
+  "exam_tip": {
+    "question_pattern": "2-mark|5-mark",
+    "skill_tested": "ಹಿಸ್ಟೋಗ್ರಾಂ ಇಲ್ಲದೆ ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿಯನ್ನು ರಚಿಸುವುದು, ವರ್ಗ-ಅಂಕಗಳನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು, ಮತ್ತು ಬಹುಭುಜಾಕೃತಿಯನ್ನು ಸರಿಯಾಗಿ ಪೂರ್ಣಗೊಳಿಸುವುದು.",
+    "distractor": "ಬಹುಭುಜಾಕೃತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಮೊದಲ ಮತ್ತು ಕೊನೆಯ ಬಿಂದುಗಳನ್ನು x-ಅಕ್ಷಕ್ಕೆ ಸೇರಿಸುವುದನ್ನು ಮರೆಯುವುದು.",
+    "why_distractor_works": "ವಿದ್ಯಾರ್ಥಿಗಳು ಕೇವಲ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶದ ಬಿಂದುಗಳನ್ನು ಮಾತ್ರ ಗುರುತಿಸಿ ಸೇರಿಸುತ್ತಾರೆ ಮತ್ತು ಬಹುಭುಜಾಕೃತಿಯು ಮುಚ್ಚಿದ ಆಕೃತಿಯಾಗಿರಬೇಕು ಎಂಬುದನ್ನು ಮರೆಯುತ್ತಾರೆ. ಇದರಿಂದಾಗಿ ಅದು x-ಅಕ್ಷದಲ್ಲಿ ಪ್ರಾರಂಭವಾಗಿ ಕೊನೆಗೊಳ್ಳುವುದಿಲ್ಲ."
+  },
+  "chunk_id": "DATA-STAT-2_concept_1_chunk_030"
+}

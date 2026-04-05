@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರಧಾನಾಕ್ಷವನ್ನು ದೃಶ್ಯೀಕರಿಸುವುದು",
+  "script": "ಈಗ, ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ ಪ್ರಧಾನಾಕ್ಷವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಒಂದು ನಿಮ್ಮ ದರ್ಪಣವಿದೆ. ನಾವು ಈಗಾಗಲೇ ಕಲಿತಂತೆ, P ಎಂಬುದು ದರ್ಪಣದ ಮೇಲ್ಮೈಯ ಮಧ್ಯಬಿಂದು, ಅಂದರೆ ಧ್ರುವ. C ಎಂಬುದು ವಕ್ರತಾ ಕೇಂದ್ರ. ಈ ಎರಡೂ ಬಿಂದುಗಳಾದ P ಮತ್ತು C ಯನ್ನು ಸಂಪರ್ಕಿಸುವ ನೇರ ರೇಖೆಯನ್ನೇ ನಾವು ಪ್ರಧಾನಾಕ್ಷ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಪ್ರಧಾನಾಕ್ಷವು ದರ್ಪಣದ ಮೇಲ್ಮೈಗೆ ಧ್ರುವದಲ್ಲಿ, ಅಂದರೆ P ಬಿಂದುವಿನಲ್ಲಿ, ಲಂಬವಾಗಿರುತ್ತದೆ. ಇದು ದರ್ಪಣ ವ್ಯವಸ್ಥೆಯ ಒಂದು ರೀತಿಯ ಬೆನ್ನೆಲುಬಿನಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ ಮತ್ತು ಎಲ್ಲಾ ಮಾಪನಗಳಿಗೆ ಆಧಾರವಾಗಿದೆ.",
+  "script_display": "ಈಗ, ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ ಪ್ರಧಾನಾಕ್ಷವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಒಂದು ನಿಮ್ಮ ದರ್ಪಣವಿದೆ. ನಾವು ಈಗಾಗಲೇ ಕಲಿತಂತೆ, P ಎಂಬುದು ದರ್ಪಣದ ಮೇಲ್ಮೈಯ ಮಧ್ಯಬಿಂದು, ಅಂದರೆ ಧ್ರುವ. C ಎಂಬುದು ವಕ್ರತಾ ಕೇಂದ್ರ. ಈ ಎರಡೂ ಬಿಂದುಗಳಾದ P ಮತ್ತು C ಯನ್ನು ಸಂಪರ್ಕಿಸುವ ನೇರ ರೇಖೆಯನ್ನೇ ನಾವು ಪ್ರಧಾನಾಕ್ಷ (Principal Axis) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಪ್ರಧಾನಾಕ್ಷವು ದರ್ಪಣದ ಮೇಲ್ಮೈಗೆ ಧ್ರುವದಲ್ಲಿ (P) ಲಂಬವಾಗಿರುತ್ತದೆ. ಇದು ದರ್ಪಣ ವ್ಯವಸ್ಥೆಯ ಒಂದು ರೀತಿಯ ಬೆನ್ನೆಲುಬಿನಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ ಮತ್ತು ಎಲ್ಲಾ ಮಾಪನಗಳಿಗೆ ಆಧಾರವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಚಿತ್ರದಲ್ಲಿ, 'P' ಎಂಬುದು ದರ್ಪಣದ ಧ್ರುವ ಮತ್ತು 'C' ಎಂಬುದು ವಕ್ರತಾ ಕೇಂದ್ರ.",
+    "P ಮತ್ತು C ಬಿಂದುಗಳ ಮೂಲಕ ಹಾದುಹೋಗುವ ಕಾಲ್ಪನಿಕ ಸರಳರೇಖೆಯೇ ಪ್ರಧಾನಾಕ್ಷ.",
+    "ಪ್ರಧಾನಾಕ್ಷವು ದರ್ಪಣದ ಮೇಲ್ಮೈಗೆ ಧ್ರುವದಲ್ಲಿ (P) ಲಂಬವಾಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A concave mirror is shown. The pole (P) is marked at the center of the mirror surface. The center of curvature (C) is marked to the left of the mirror. A straight horizontal line passes through both C and P, extending beyond them. This line is clearly labeled 'ಪ್ರಧಾನಾಕ್ಷ (Principal Axis)'.",
+    "labels": "ನಿಮ್ಮ ದರ್ಪಣ, P (ಧ್ರುವ), C (ವಕ್ರತಾ ಕೇಂದ್ರ), ಪ್ರಧಾನಾಕ್ಷ",
+    "scientific_significance": "Visually defines the Principal Axis as the line connecting the Pole and Center of Curvature, establishing it as the primary reference axis for a spherical mirror.",
+    "placeholder_note": "Image to be generated showing a concave mirror with P, C, and the principal axis clearly labeled."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_9_concept_2_chunk_011"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ನಕ್ಷಾತ್ಮಕ ನಿರೂಪಣೆ",
+  "script": "ಈ ಸಮೀಕರಣಗಳನ್ನು ನಕ್ಷೆಯಲ್ಲಿ ಚಿತ್ರಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಮೊದಲ ಸಮೀಕರಣ x ಪ್ಲಸ್ y ಈಕ್ವಲ್ಸ್ 3 ಕ್ಕೆ ನಾವು ಒಂದು ಸರಳ ರೇಖೆಯನ್ನು ಎಳೆಯುತ್ತೇವೆ. ನಂತರ, ಎರಡನೇ ಸಮೀಕರಣ 2x ಪ್ಲಸ್ 2y ಈಕ್ವಲ್ಸ್ 6 ಕ್ಕೆ ರೇಖೆಯನ್ನು ಎಳೆದರೆ, ಅದು ಕೂಡಾ ಮೊದಲ ರೇಖೆಯ ಮೇಲೆಯೇ ಬರುತ್ತದೆ. ಅಂದರೆ, ಈ ಎರಡು ರೇಖೆಗಳು ಒಂದರ ಮೇಲೊಂದು ಐಕ್ಯವಾಗುತ್ತವೆ. ಇವುಗಳನ್ನು 'ಐಕ್ಯವಾಗುವ ರೇಖೆಗಳು' ಎನ್ನುತ್ತೇವೆ. ಈ ರೇಖೆಯ ಮೇಲಿನ ಪ್ರತಿಯೊಂದು ಬಿಂದುವೂ ಎರಡೂ ಸಮೀಕರಣಗಳಿಗೆ ಪರಿಹಾರವಾಗಿರುತ್ತದೆ. ರೇಖೆಯ ಮೇಲೆ ಅನಂತ ಬಿಂದುಗಳಿರುವುದರಿಂದ, ಈ ಜೋಡಿಗೆ ಅಪರಿಮಿತ ಪರಿಹಾರಗಳಿವೆ.",
+  "script_display": "ಈ ಸಮೀಕರಣಗಳನ್ನು ನಕ್ಷೆಯಲ್ಲಿ ಚಿತ್ರಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಮೊದಲ ಸಮೀಕರಣ $x + y = 3$ ಕ್ಕೆ ನಾವು ಒಂದು ಸರಳ ರೇಖೆಯನ್ನು ಎಳೆಯುತ್ತೇವೆ. ನಂತರ, ಎರಡನೇ ಸಮೀಕರಣ $2x + 2y = 6$ ಕ್ಕೆ ರೇಖೆಯನ್ನು ಎಳೆದರೆ, ಅದು ಕೂಡಾ ಮೊದಲ ರೇಖೆಯ ಮೇಲೆಯೇ ಬರುತ್ತದೆ. ಅಂದರೆ, ಈ ಎರಡು ರೇಖೆಗಳು ಒಂದರ ಮೇಲೊಂದು ಐಕ್ಯವಾಗುತ್ತವೆ. ಇವುಗಳನ್ನು 'ಐಕ್ಯವಾಗುವ ರೇಖೆಗಳು' (Coincident Lines) ಎನ್ನುತ್ತೇವೆ. ಈ ರೇಖೆಯ ಮೇಲಿನ ಪ್ರತಿಯೊಂದು ಬಿಂದುವೂ ಎರಡೂ ಸಮೀಕರಣಗಳಿಗೆ ಪರಿಹಾರವಾಗಿರುತ್ತದೆ. ರೇಖೆಯ ಮೇಲೆ ಅನಂತ ಬಿಂದುಗಳಿರುವುದರಿಂದ, ಈ ಜೋಡಿಗೆ ಅಪರಿಮಿತ ಪರಿಹಾರಗಳಿವೆ.",
+  "display_bullets": [
+    "ಈ ಸಮೀಕರಣಗಳನ್ನು ನಕ್ಷೆಯಲ್ಲಿ ಪ್ರತಿನಿಧಿಸಿದಾಗ, ಎರಡೂ ರೇಖೆಗಳು ಒಂದರ ಮೇಲೊಂದು ಐಕ್ಯವಾಗುತ್ತವೆ (Coincident Lines).",
+    "ರೇಖೆಯ ಮೇಲಿನ ಪ್ರತಿಯೊಂದು ಬಿಂದುವೂ ಒಂದು ಪರಿಹಾರವಾಗಿರುತ್ತದೆ.",
+    "ಆದ್ದರಿಂದ, ಇಂತಹ ಜೋಡಿಗೆ ಅಪರಿಮಿತ ಸಂಖ್ಯೆಯ ಪರಿಹಾರಗಳಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 2D coordinate plane (X and Y axes). A single straight line is drawn passing through points like (0,3) and (3,0). The line is labeled with both equations: 'x+y=3' and '2x+2y=6', indicating they represent the same line. A few points on the line like (1,2) and (2,1) can be highlighted.",
+    "labels": "X-axis, Y-axis, Coincident line, x+y=3, 2x+2y=6",
+    "mathematical_significance": "Graphically illustrates the concept of coincident lines, which is the geometric interpretation of a dependent pair of linear equations, leading to infinite solutions.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "ALG-PAIR-4_concept_1_chunk_021"
+}

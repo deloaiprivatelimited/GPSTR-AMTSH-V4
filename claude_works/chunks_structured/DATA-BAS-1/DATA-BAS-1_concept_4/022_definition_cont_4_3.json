@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 1: ನಾಣ್ಯ ಚಿಮ್ಮುವುದು",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮಿದಾಗ, ನಮಗೆ ಸಿಗಬಹುದಾದ ಒಟ್ಟು ಫಲಿತಾಂಶಗಳು ಯಾವುವು? ಒಂದು ಹೆಡ್ ಅಥವಾ ಒಂದು ಟೇಲ್. ಅಂದರೆ, ಒಟ್ಟು ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ ಎರಡು. ಈಗ, ಹೆಡ್ ಬೀಳುವ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಹೆಡ್, ಅದು ಒಂದೇ ಒಂದು ಸಾಧ್ಯತೆ. ಆದ್ದರಿಂದ, ಪೂರಕ ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ ಒಂದು. ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, ಪಿ ಆಫ್ ಹೆಡ್ ಈಕ್ವಲ್ಸ್ ಒಂದು ಬೈ ಎರಡು.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮಿದಾಗ, ನಮಗೆ ಸಿಗಬಹುದಾದ ಒಟ್ಟು ಫಲಿತಾಂಶಗಳು ಯಾವುವು? ಒಂದು ಹೆಡ್ ಅಥವಾ ಒಂದು ಟೇಲ್. ಅಂದರೆ, ಒಟ್ಟು ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ 2. ಈಗ, ಹೆಡ್ ಬೀಳುವ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಹೆಡ್, ಅದು ಒಂದೇ ಒಂದು ಸಾಧ್ಯತೆ. ಆದ್ದರಿಂದ, ಪೂರಕ ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ 1. ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, $P(\\text{ಹೆಡ್}) = \\frac{1}{2}$.",
+  "display_bullets": [
+    "ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮಿದಾಗ, ಒಟ್ಟು ಫಲಿತಾಂಶಗಳು: ಹೆಡ್ (H), ಟೇಲ್ (T).",
+    "ಒಟ್ಟು ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ = 2.",
+    "ಹೆಡ್ ಬರುವ ಘಟನೆಗೆ ಪೂರಕವಾದ ಫಲಿತಾಂಶ = 1 (ಅದು H).",
+    "ಆದ್ದರಿಂದ, ಹೆಡ್ ಬರುವ ಸಂಭವನೀಯತೆ, $P(\\text{ಹೆಡ್}) = \\frac{1}{2}$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dynamic_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of a coin being tossed. One side shows the 'Head' and the other side shows the 'Tail'. The labels 'ಹೆಡ್ (H)' and 'ಟೇಲ್ (T)' are clearly visible.",
+    "labels": "Coin, Head, Tail",
+    "mathematical_significance": "This visual represents a simple random experiment with two equally likely outcomes, which is a classic introductory example for probability.",
+    "placeholder_note": "Image to be generated showing a coin with Head and Tail."
+  },
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_022"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಭಾಗಪ್ರಮಾಣದ ಮೌಲ್ಯ",
+  "script": "ಹಿಂದಿನ ಉದಾಹರಣೆಯಲ್ಲಿ, ನಾವು ನೋಡಿದಂತೆ, ಎಲ್ಲಾ ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತವು ಸ್ಥಿರವಾಗಿತ್ತು ಮತ್ತು ಅದರ ಮೌಲ್ಯ ಎರಡು ಆಗಿತ್ತು. ಈ ಸ್ಥಿರ ಮೌಲ್ಯವೇ ಭಾಗಪ್ರಮಾಣ. ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ 'k' ಎಂಬ ಅಕ್ಷರದಿಂದ ಸೂಚಿಸಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಈ ಉದಾಹರಣೆಯಲ್ಲಿ, ಭಾಗಪ್ರಮಾಣ k ಸಮ ಎರಡು. ಇದರರ್ಥ, ತ್ರಿಭುಜ PQR ನ ಪ್ರತಿಯೊಂದು ಬಾಹುವು ತ್ರಿಭುಜ ABC ಯ ಅನುರೂಪ ಬಾಹುವಿನ ಎರಡು ಪಟ್ಟು ಇದೆ. ಅಂದರೆ, ತ್ರಿಭುಜ PQR, ತ್ರಿಭುಜ ABC ಯ ಎರಡು ಪಟ್ಟು ದೊಡ್ಡದಾದ ಆವೃತ್ತಿಯಾಗಿದೆ.",
+  "script_display": "ಹಿಂದಿನ ಉದಾಹರಣೆಯಲ್ಲಿ, ನಾವು ನೋಡಿದಂತೆ, ಎಲ್ಲಾ ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತವು ಸ್ಥಿರವಾಗಿತ್ತು ಮತ್ತು ಅದರ ಮೌಲ್ಯ 2 ಆಗಿತ್ತು. ಈ ಸ್ಥಿರ ಮೌಲ್ಯವೇ ಭಾಗಪ್ರಮಾಣ. ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ 'k' ಎಂಬ ಅಕ್ಷರದಿಂದ ಸೂಚಿಸಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಈ ಉದಾಹರಣೆಯಲ್ಲಿ, ಭಾಗಪ್ರಮಾಣ $k=2$. ಇದರರ್ಥ, $\\triangle PQR$ ನ ಪ್ರತಿಯೊಂದು ಬಾಹುವು $\\triangle ABC$ ಯ ಅನುರೂಪ ಬಾಹುವಿನ 2 ಪಟ್ಟು ಇದೆ. ಅಂದರೆ, $\\triangle PQR$, $\\triangle ABC$ ಯ 2 ಪಟ್ಟು ದೊಡ್ಡದಾದ ಆವೃತ್ತಿಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಅನುರೂಪ ಬಾಹುಗಳ ಸ್ಥಿರ ಅನುಪಾತವೇ ಭಾಗಪ್ರಮಾಣ.",
+    "$\\frac{PQ}{AB} = \\frac{QR}{BC} = \\frac{PR}{AC} = 2$",
+    "ಇಲ್ಲಿ, ಭಾಗಪ್ರಮಾಣ (k) = 2."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "highlight_box",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "k = 2",
+    "placeholder_note": "A box highlighting the calculated scale factor k=2."
+  },
+  "chunk_id": "GEO-TRI-2_concept_3_chunk_015"
+}

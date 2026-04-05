@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದ್ದೇಶದ ಆಧಾರದ ಮೇಲೆ ದನಗಳ ವರ್ಗೀಕರಣ",
+  "script": "ಪಶುಸಂಗೋಪನೆಯಲ್ಲಿ, ನಾವು ಜಾನುವಾರುಗಳನ್ನು ವಿಭಿನ್ನ ಕಾರಣಗಳಿಗಾಗಿ ಸಾಕುತ್ತೇವೆ. ಭಾರತದಲ್ಲಿ, ದನಗಳ ಸಾಕಾಣಿಕೆಯು ಎರಡು ಪ್ರಮುಖ ಉದ್ದೇಶಗಳನ್ನು ಹೊಂದಿದೆ. ಈ ಉದ್ದೇಶಗಳ ಆಧಾರದ ಮೇಲೆ, ನಾವು ದನಗಳನ್ನು ಎರಡು ಮುಖ್ಯ ಗುಂಪುಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು. ಮೊದಲನೆಯದು, ಹೈನು ಪ್ರಾಣಿಗಳು, ಇವುಗಳನ್ನು ಮುಖ್ಯವಾಗಿ ಹಾಲಿಗಾಗಿ ಸಾಕಲಾಗುತ್ತದೆ. ಎರಡನೆಯದು, ಬರಡು ಪ್ರಾಣಿಗಳು, ಇವುಗಳನ್ನು ಕೃಷಿ ಕೆಲಸಗಳಿಗಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. ಈ ವಿಭಾಗದಲ್ಲಿ, ನಾವು ಈ ಎರಡೂ ಪ್ರಕಾರಗಳ ಬಗ್ಗೆ ವಿವರವಾಗಿ ಕಲಿಯೋಣ.",
+  "script_display": "ಪಶುಸಂಗೋಪನೆಯಲ್ಲಿ, ನಾವು ಜಾನುವಾರುಗಳನ್ನು ವಿಭಿನ್ನ ಕಾರಣಗಳಿಗಾಗಿ ಸಾಕುತ್ತೇವೆ. ಭಾರತದಲ್ಲಿ, ದನಗಳ ಸಾಕಾಣಿಕೆಯು ಎರಡು ಪ್ರಮುಖ ಉದ್ದೇಶಗಳನ್ನು ಹೊಂದಿದೆ. ಈ ಉದ್ದೇಶಗಳ ಆಧಾರದ ಮೇಲೆ, ನಾವು ದನಗಳನ್ನು ಎರಡು ಮುಖ್ಯ ಗುಂಪುಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು. ಮೊದಲನೆಯದು, ಹೈನು ಪ್ರಾಣಿಗಳು (Dairy Animals), ಇವುಗಳನ್ನು ಮುಖ್ಯವಾಗಿ ಹಾಲಿಗಾಗಿ ಸಾಕಲಾಗುತ್ತದೆ. ಎರಡನೆಯದು, ಬರಡು ಪ್ರಾಣಿಗಳು (Draught Animals), ಇವುಗಳನ್ನು ಕೃಷಿ ಕೆಲಸಗಳಿಗಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. ಈ ವಿಭಾಗದಲ್ಲಿ, ನಾವು ಈ ಎರಡೂ ಪ್ರಕಾರಗಳ ಬಗ್ಗೆ ವಿವರವಾಗಿ ಕಲಿಯೋಣ.",
+  "display_bullets": [
+    "ಹೈನು ಪ್ರಾಣಿಗಳು (Dairy Animals): ಹಾಲಿಗಾಗಿ ಸಾಕುವ ಪ್ರಾಣಿಗಳು",
+    "ಬರಡು ಪ್ರಾಣಿಗಳು (Draught Animals): ಕೃಷಿ ಕೆಲಸಕ್ಕಾಗಿ ಬಳಸುವ ಪ್ರಾಣಿಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split image or two icons. Left side shows a milk can or a cow being milked, labeled 'ಹಾಲು ಉತ್ಪಾದನೆ'. Right side shows an ox with a plough, labeled 'ಕೃಷಿ ಕೆಲಸ'. This visually introduces the two main purposes of cattle farming.",
+    "labels": "ಹಾಲು ಉತ್ಪಾದನೆ, ಕೃಷಿ ಕೆಲಸ",
+    "scientific_significance": "Visually represents the two primary functions of cattle in Indian agriculture and husbandry, setting the context for the classification.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_8_chunk_003"
+}

@@ -1,0 +1,177 @@
+{
+  "module_id": "ALG-EQ1-2_concept_3",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 15,
+  "total_duration": 768.485,
+  "total_duration_formatted": "12:48",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಮೀಕರಣಗಳನ್ನು ಸುಲಭ ರೂಪಕ್ಕೆ ತರುವುದು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 63.051,
+      "duration": 63.051,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 63.651,
+      "end": 97.302,
+      "duration": 33.651,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ನಿಯಮ 1: ಛೇದಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದು",
+      "type": "concept_explanation",
+      "start": 97.902,
+      "end": 161.673,
+      "duration": 63.771,
+      "script_words": 87
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ನಿಯಮ 2: ಆವರಣಗಳನ್ನು ಬಿಡಿಸುವುದು",
+      "type": "concept_explanation",
+      "start": 162.273,
+      "end": 223.084,
+      "duration": 60.811,
+      "script_words": 82
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_005",
+      "chunk_file": "005_example_0.json",
+      "wav_file": "005_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು",
+      "type": "worked_example",
+      "start": 223.684,
+      "end": 248.215,
+      "duration": 24.531,
+      "script_words": 41
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_006",
+      "chunk_file": "006_example_cont_0_1.json",
+      "wav_file": "006_example_cont_0_1.wav",
+      "slide_title": "ಹಂತ 1-3: ಭಿನ್ನರಾಶಿಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದು",
+      "type": "worked_example",
+      "start": 248.815,
+      "end": 296.466,
+      "duration": 47.651,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_007",
+      "chunk_file": "007_example_cont_0_2.json",
+      "wav_file": "007_example_cont_0_2.wav",
+      "slide_title": "ಹಂತ 4-6: ಸಮೀಕರಣವನ್ನು ಸುಲಭೀಕರಿಸುವುದು",
+      "type": "worked_example",
+      "start": 297.066,
+      "end": 354.077,
+      "duration": 57.011,
+      "script_words": 83
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_008",
+      "chunk_file": "008_example_cont_0_3.json",
+      "wav_file": "008_example_cont_0_3.wav",
+      "slide_title": "ಹಂತ 7-9: x ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "worked_example",
+      "start": 354.677,
+      "end": 422.808,
+      "duration": 68.131,
+      "script_words": 85
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_009",
+      "chunk_file": "009_example_cont_0_4.json",
+      "wav_file": "009_example_cont_0_4.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪರಿಶೀಲನೆ",
+      "type": "worked_example",
+      "start": 423.408,
+      "end": 469.299,
+      "duration": 45.891,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_010",
+      "chunk_file": "010_example_1.json",
+      "wav_file": "010_example_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು",
+      "type": "worked_example",
+      "start": 469.899,
+      "end": 487.87,
+      "duration": 17.971,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_011",
+      "chunk_file": "011_example_cont_1_1.json",
+      "wav_file": "011_example_cont_1_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1-3",
+      "type": "worked_example",
+      "start": 488.47,
+      "end": 559.441,
+      "duration": 70.971,
+      "script_words": 123
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_012",
+      "chunk_file": "012_example_cont_1_2.json",
+      "wav_file": "012_example_cont_1_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 4-6",
+      "type": "worked_example",
+      "start": 560.041,
+      "end": 627.252,
+      "duration": 67.211,
+      "script_words": 100
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_013",
+      "chunk_file": "013_example_cont_1_3.json",
+      "wav_file": "013_example_cont_1_3.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 7-8",
+      "type": "worked_example",
+      "start": 627.852,
+      "end": 670.943,
+      "duration": 43.091,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_014",
+      "chunk_file": "014_example_cont_1_4.json",
+      "wav_file": "014_example_cont_1_4.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "start": 671.543,
+      "end": 722.194,
+      "duration": 50.651,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_3_chunk_015",
+      "chunk_file": "015_recap_0.json",
+      "wav_file": "015_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಸಮೀಕರಣಗಳನ್ನು ಸುಲಭ ರೂಪಕ್ಕೆ ತರುವುದು",
+      "type": "recap",
+      "start": 722.794,
+      "end": 767.885,
+      "duration": 45.091,
+      "script_words": 63
+    }
+  ]
+}

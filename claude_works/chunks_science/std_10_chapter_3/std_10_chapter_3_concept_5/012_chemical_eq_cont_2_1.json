@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಕ್ಯಾಲ್ಸಿಯಂ ನೀರಿನೊಂದಿಗೆ ವರ್ತಿಸುವ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಒಂದು ಕ್ಯಾಲ್ಸಿಯಂ ಪರಮಾಣು, ಅಂದರೆ ಸಿ ಎ, ಎರಡು ನೀರಿನ ಅಣುಗಳೊಂದಿಗೆ, ಅಂದರೆ ಎಚ್ ಟು ಓ, ವರ್ತಿಸಿ ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಅಂದರೆ ಸಿ ಎ ಓ ಎಚ್ ಟ್ವೈಸ್, ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಅನಿಲ, ಅಂದರೆ ಎಚ್ ಟು, ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ. ಇಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುವ ಶಾಖವು ಹೈಡ್ರೋಜನ್ ಅನಿಲಕ್ಕೆ ಬೆಂಕಿಹೊತ್ತಿಕೊಳ್ಳುವಷ್ಟು ಇರುವುದಿಲ್ಲ.",
+  "script_display": "ಕ್ಯಾಲ್ಸಿಯಂ ನೀರಿನೊಂದಿಗೆ ವರ್ತಿಸುವ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಒಂದು ಕ್ಯಾಲ್ಸಿಯಂ ಪರಮಾಣು (Ca) ಎರಡು ನೀರಿನ ಅಣುಗಳೊಂದಿಗೆ (2H₂O) ವರ್ತಿಸಿ ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (Ca(OH)₂) ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಅನಿಲ (H₂) ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ. ಇಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುವ ಶಾಖವು ಹೈಡ್ರೋಜನ್ ಅನಿಲಕ್ಕೆ ಬೆಂಕಿಹೊತ್ತಿಕೊಳ್ಳುವಷ್ಟು ಇರುವುದಿಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "style_a",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Ca(s) + 2H_2O(l) \\rightarrow Ca(OH)_2(aq) + H_2(g) \\uparrow",
+    "placeholder_note": "Equation showing Calcium reacting with water to form Calcium Hydroxide and Hydrogen gas."
+  },
+  "chunk_id": "std_10_chapter_3_concept_5_chunk_012"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸರಳ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಾವು ಎರಡು ಭಾಗಿಸು ಮೂರು ಮತ್ತು ನಾಲ್ಕು ಭಾಗಿಸು ಐದು ಅನ್ನು ಗುಣಿಸಬೇಕಾಗಿದೆ. ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, ನಾವು ಮೊದಲು ಅಂಶಗಳನ್ನು ಗುಣಿಸಬೇಕು. ಇಲ್ಲಿ ಅಂಶಗಳು ಎರಡು ಮತ್ತು ನಾಲ್ಕು. ಎರಡು ಗುಣಿಸು ನಾಲ್ಕು ಎಂಟು ಆಗುತ್ತದೆ. ನಂತರ, ನಾವು ಛೇದಗಳನ್ನು ಗುಣಿಸಬೇಕು. ಇಲ್ಲಿ ಛೇದಗಳು ಮೂರು ಮತ್ತು ಐದು. ಮೂರು ಗುಣಿಸು ಐದು ಹದಿನೈದು ಆಗುತ್ತದೆ. ಹಾಗಾಗಿ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ ಎಂಟು ಭಾಗಿಸು ಹದಿನೈದು. ಇದು ತುಂಬಾ ಸುಲಭ, ಅಲ್ಲವೇ?",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಾವು $\\frac{2}{3}$ ಮತ್ತು $\\frac{4}{5}$ ಅನ್ನು ಗುಣಿಸಬೇಕಾಗಿದೆ. ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, ನಾವು ಮೊದಲು ಅಂಶಗಳನ್ನು ಗುಣಿಸಬೇಕು. ಇಲ್ಲಿ ಅಂಶಗಳು 2 ಮತ್ತು 4. $2 \\times 4 = 8$ ಆಗುತ್ತದೆ. ನಂತರ, ನಾವು ಛೇದಗಳನ್ನು ಗುಣಿಸಬೇಕು. ಇಲ್ಲಿ ಛೇದಗಳು 3 ಮತ್ತು 5. $3 \\times 5 = 15$ ಆಗುತ್ತದೆ. ಹಾಗಾಗಿ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ $\\frac{8}{15}$. ಇದು ತುಂಬಾ ಸುಲಭ, ಅಲ್ಲವೇ?",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: $\\frac{2}{3} \\times \\frac{4}{5}$ ಅನ್ನು ಗುಣಿಸಿ.",
+    "ಅಂಶಗಳ ಗುಣಲಬ್ಧ: $2 \\times 4 = 8$.",
+    "ಛೇದಗಳ ಗುಣಲಬ್ಧ: $3 \\times 5 = 15$.",
+    "ಫಲಿತಾಂಶ: $\\frac{2}{3} \\times \\frac{4}{5} = \\frac{8}{15}$."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "$\\frac{2}{3} \\times \\frac{4}{5} = \\frac{2 \\times 4}{3 \\times 5} = \\frac{8}{15}$",
+    "placeholder_note": "Numerical example of multiplying two positive rational numbers"
+  },
+  "chunk_id": "NS-RAT-2_concept_5_chunk_015"
+}

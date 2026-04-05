@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಸಂಖ್ಯಾರೇಖೆ",
+  "script": "ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳ ಒಂದು ಅತ್ಯಂತ ಪ್ರಮುಖ ಗುಣವೆಂದರೆ ಅವುಗಳನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಪ್ರತಿನಿಧಿಸಬಹುದು. ವಾಸ್ತವವಾಗಿ, ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲಿನ ಪ್ರತಿಯೊಂದು ಬಿಂದುವೂ ಒಂದು ಅನನ್ಯ ವಾಸ್ತವ ಸಂಖ್ಯೆಗೆ ಅನುರೂಪವಾಗಿದೆ. ಮತ್ತು ಪ್ರತಿಯೊಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆಗೂ ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಒಂದು ಅನನ್ಯ ಬಿಂದು ಇರುತ್ತದೆ. ಅಂದರೆ, ನೀವು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಎಲ್ಲಿಯಾದರೂ ಒಂದು ಚುಕ್ಕಿ ಇಟ್ಟರೆ, ಆ ಚುಕ್ಕಿ ಒಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅದು ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಐದು ಆಗಿರಬಹುದು, ಅಥವಾ ರೂಟ್ ಎರಡು ಆಗಿರಬಹುದು, ಅಥವಾ ಪೈ ಆಗಿರಬಹುದು. ಈ ಕಾರಣದಿಂದಾಗಿಯೇ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳ ಗಣವನ್ನು ವಾಸ್ತವ ಸಂಖ್ಯಾರೇಖೆ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಸಂಖ್ಯಾರೇಖೆಯು ಭಾಗಲಬ್ಧ ಮತ್ತು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ತುಂಬಿರುತ್ತದೆ.",
+  "script_display": "ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳ ಒಂದು ಅತ್ಯಂತ ಪ್ರಮುಖ ಗುಣವೆಂದರೆ ಅವುಗಳನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಪ್ರತಿನಿಧಿಸಬಹುದು. ವಾಸ್ತವವಾಗಿ, ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲಿನ ಪ್ರತಿಯೊಂದು ಬಿಂದುವೂ ಒಂದು ಅನನ್ಯ ವಾಸ್ತವ ಸಂಖ್ಯೆಗೆ ಅನುರೂಪವಾಗಿದೆ. ಮತ್ತು ಪ್ರತಿಯೊಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆಗೂ ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಒಂದು ಅನನ್ಯ ಬಿಂದು ಇರುತ್ತದೆ. ಅಂದರೆ, ನೀವು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಎಲ್ಲಿಯಾದರೂ ಒಂದು ಚುಕ್ಕಿ ಇಟ್ಟರೆ, ಆ ಚುಕ್ಕಿ ಒಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅದು 0.5 ಆಗಿರಬಹುದು, ಅಥವಾ $\\sqrt{2}$ ಆಗಿರಬಹುದು, ಅಥವಾ $\\pi$ ಆಗಿರಬಹುದು. ಈ ಕಾರಣದಿಂದಾಗಿಯೇ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳ ಗಣವನ್ನು ವಾಸ್ತವ ಸಂಖ್ಯಾರೇಖೆ (Real Number Line) ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಸಂಖ್ಯಾರೇಖೆಯು ಭಾಗಲಬ್ಧ ಮತ್ತು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ತುಂಬಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲಿನ ಪ್ರತಿಯೊಂದು ಬಿಂದುವೂ ಒಂದು ಅನನ್ಯ ವಾಸ್ತವ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+    "ಪ್ರತಿಯೊಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆಗೂ ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಒಂದು ಅನನ್ಯ ಬಿಂದು ಇರುತ್ತದೆ.",
+    "ಆದ್ದರಿಂದ, ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳ ಗಣವನ್ನು ವಾಸ್ತವ ಸಂಖ್ಯಾರೇಖೆ (Real Number Line) ಎಂದೂ ಕರೆಯುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line showing various types of real numbers. It should include integers (-2, -1, 0, 1, 2), rational numbers (like 1/2, -3/2), and irrational numbers (like sqrt(2) at approx 1.414 and pi at approx 3.14). This visually demonstrates that the number line is filled with both rational and irrational numbers.",
+    "labels": "0, 1, 2, -1, -2, 1/2, -3/2, sqrt(2), pi",
+    "mathematical_significance": "Illustrates the one-to-one correspondence between real numbers and points on a line.",
+    "placeholder_note": "Image to be generated: A number line with integers, fractions, and irrational numbers marked."
+  },
+  "chunk_id": "NS-SYS-3_concept_2_chunk_009"
+}

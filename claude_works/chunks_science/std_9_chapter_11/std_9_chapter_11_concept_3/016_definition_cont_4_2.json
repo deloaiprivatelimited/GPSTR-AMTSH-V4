@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಸ್ಥಾಯಿಯ ಹೋಲಿಕೆ: ಕೀಚಲು vs ಗಡುಸು",
+  "script": "ಈಗ ಹೆಚ್ಚಿನ ಸ್ಥಾಯಿ ಮತ್ತು ಕಡಿಮೆ ಸ್ಥಾಯಿಯ ಶಬ್ದಗಳನ್ನು ನೇರವಾಗಿ ಹೋಲಿಕೆ ಮಾಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಸೊಳ್ಳೆಯ ಗುಣುಗುಡುವಿಕೆಯಂತಹ ಹೆಚ್ಚಿನ ಸ್ಥಾಯಿಯ ಶಬ್ದವಿದೆ. ಇದು ಹೆಚ್ಚಿನ ಆವೃತ್ತಿಯ ತರಂಗಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಹಾಗಾಗಿ ಇದು ಕೀಚಲಾಗಿರುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿ, ಡ್ರಮ್ ಅಥವಾ ತಮಟೆಯ ಶಬ್ದದಂತಹ ಕಡಿಮೆ ಸ್ಥಾಯಿಯ ಶಬ್ದವಿದೆ. ಇದು ಕಡಿಮೆ ಆವೃತ್ತಿಯ ತರಂಗಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಹಾಗಾಗಿ ಇದು ಗಡುಸಾಗಿ ಅಥವಾ ಆಳವಾಗಿರುತ್ತದೆ. ನೆನಪಿಡಿ, ಶಬ್ದದ ಸ್ಥಾಯಿ ಸಂಪೂರ್ಣವಾಗಿ ಅದರ ಆವೃತ್ತಿಯನ್ನು ಅವಲಂಬಿಸಿದೆ. ಆವೃತ್ತಿ ಹೆಚ್ಚು, ಸ್ಥಾಯಿ ಹೆಚ್ಚು. ಆವೃತ್ತಿ ಕಡಿಮೆ, ಸ್ಥಾಯಿ ಕಡಿಮೆ.",
+  "script_display": "ಈಗ ಹೆಚ್ಚಿನ ಸ್ಥಾಯಿ ಮತ್ತು ಕಡಿಮೆ ಸ್ಥಾಯಿಯ ಶಬ್ದಗಳನ್ನು ನೇರವಾಗಿ ಹೋಲಿಕೆ ಮಾಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಸೊಳ್ಳೆಯ ಗುಣುಗುಡುವಿಕೆಯಂತಹ ಹೆಚ್ಚಿನ ಸ್ಥಾಯಿಯ ಶಬ್ದವಿದೆ. ಇದು ಹೆಚ್ಚಿನ ಆವೃತ್ತಿಯ (high frequency) ತರಂಗಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಹಾಗಾಗಿ ಇದು ಕೀಚಲಾಗಿರುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿ, ಡ್ರಮ್ (drum) ಶಬ್ದದಂತಹ ಕಡಿಮೆ ಸ್ಥಾಯಿಯ ಶಬ್ದವಿದೆ. ಇದು ಕಡಿಮೆ ಆವೃತ್ತಿಯ (low frequency) ತರಂಗಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಹಾಗಾಗಿ ಇದು ಗಡುಸಾಗಿ ಅಥವಾ ಆಳವಾಗಿರುತ್ತದೆ. ನೆನಪಿಡಿ, ಶಬ್ದದ ಸ್ಥಾಯಿ ಸಂಪೂರ್ಣವಾಗಿ ಅದರ ಆವೃತ್ತಿಯನ್ನು ಅವಲಂಬಿಸಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "full",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen comparison. Left side has a title 'ಹೆಚ್ಚಿನ ಸ್ಥಾಯಿ (High Pitch)'. Below it, a high-frequency wave is shown, labelled 'ಹೆಚ್ಚಿನ ಆವೃತ್ತಿ'. Below the wave, an icon of a mosquito is shown with the text 'ಕೀಚಲು ಧ್ವನಿ'. Right side has a title 'ಕಡಿಮೆ ಸ್ಥಾಯಿ (Low Pitch)'. Below it, a low-frequency wave is shown, labelled 'ಕಡಿಮೆ ಆವೃತ್ತಿ'. Below the wave, an icon of a drum is shown with the text 'ಗಡುಸಾದ ಧ್ವನಿ'.",
+    "labels": "High Pitch, Low Pitch, High Frequency, Low Frequency",
+    "scientific_significance": "Directly contrasts high and low pitch by linking them to high and low frequency waves and relatable sound sources (mosquito vs. drum).",
+    "placeholder_note": "Image to be generated: A split-screen diagram comparing high and low frequency/pitch."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_11_concept_3_chunk_016"
+}

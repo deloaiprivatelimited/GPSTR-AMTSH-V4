@@ -1,0 +1,49 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಬ್ರೋಮಿನ್ ಪರಮಾಣುವಿನ ಸರಾಸರಿ ದ್ರವ್ಯರಾಶಿ 80.006 ಯು. ಇದನ್ನು ನಾವು ಸಾಮಾನ್ಯವಾಗಿ 80 ಯು ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇದು ಆವರ್ತಕ ಕೋಷ್ಟಕದಲ್ಲಿ ನೀವು ನೋಡುವ ದ್ರವ್ಯರಾಶಿಯಾಗಿದೆ, ಇದು ಒಂದು ಧಾತುವಿನ ಎಲ್ಲಾ ಸಮಸ್ಥಾನಿಗಳ ತೂಕದ ಸರಾಸರಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಬ್ರೋಮಿನ್ ಪರಮಾಣುವಿನ ಸರಾಸರಿ ದ್ರವ್ಯರಾಶಿ 80.006 u. ಇದನ್ನು ನಾವು ಸಾಮಾನ್ಯವಾಗಿ 80.0 u ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇದು ಆವರ್ತಕ ಕೋಷ್ಟಕದಲ್ಲಿ ನೀವು ನೋಡುವ ದ್ರವ್ಯರಾಶಿಯಾಗಿದೆ, ಇದು ಒಂದು ಧಾತುವಿನ ಎಲ್ಲಾ ಸಮಸ್ಥಾನಿಗಳ ತೂಕದ ಸರಾಸರಿಯನ್ನು (weighted average) ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "light_on_dark",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "final_answer": "80.006 u",
+  "final_answer_display": "80.006 u",
+  "exam_tip": {
+    "question_pattern": "ಸಮಸ್ಥಾನಿಗಳ ಲಭ್ಯತೆ ಮತ್ತು ದ್ರವ್ಯರಾಶಿಗಳನ್ನು ನೀಡಿ ಸರಾಸರಿ ಪರಮಾಣು ದ್ರವ್ಯರಾಶಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಕೇಳಲಾಗುತ್ತದೆ.",
+    "skill_tested": "ತೂಕದ ಸರಾಸರಿ (weighted average) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಸಾಮರ್ಥ್ಯ.",
+    "distractor": "ಸರಳ ಸರಾಸರಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು, ಅಂದರೆ (79 + 81) / 2 = 80.",
+    "why_distractor_works": "ಲಭ್ಯತೆಯ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣವನ್ನು ಪರಿಗಣಿಸದೆ, ಕೇವಲ ದ್ರವ್ಯರಾಶಿಗಳ ಸರಳ ಸರಾಸರಿಯನ್ನು ತೆಗೆದುಕೊಂಡರೆ ಉತ್ತರ ತಪ್ಪಾಗುತ್ತದೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಲಭ್ಯತೆಗಳು ಸುಮಾರು 50% ಇರುವುದರಿಂದ ಉತ್ತರ ಹತ್ತಿರ ಬರಬಹುದು, ಆದರೆ ಬೇರೆ ಲೆಕ್ಕಗಳಲ್ಲಿ ದೊಡ್ಡ ವ್ಯತ್ಯಾಸ ಉಂಟಾಗುತ್ತದೆ."
+  },
+  "prerequisites_display": [
+    "ಸಮಸ್ಥಾನಿಗಳು (Isotopes) ಎಂದರೇನು ಎಂದು ತಿಳಿದಿರುವುದು.",
+    "ಶೇಕಡಾವಾರು (Percentage) ಲೆಕ್ಕಾಚಾರ.",
+    "ತೂಕದ ಸರಾಸರಿ (Weighted average) ಪರಿಕಲ್ಪನೆ."
+  ],
+  "coverage_summary": {
+    "worked_examples": 1
+  },
+  "next_modules": [
+    "ಐಸೋಬಾರ್‌ಗಳು (Isobars)",
+    "ಪರಮಾಣು ಮಾದರಿಗಳ ಇತಿಹಾಸ (History of Atomic Models)"
+  ],
+  "chunk_id": "std_9_chapter_4_concept_8_chunk_021",
+  "source_example_id": "std_9_chapter_4_example_3"
+}

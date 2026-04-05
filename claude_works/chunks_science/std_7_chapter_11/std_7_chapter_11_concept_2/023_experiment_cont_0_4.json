@@ -1,0 +1,33 @@
+{
+  "type": "key_takeaway",
+  "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+  "script": "ಹಾಗಾದರೆ ಈ ಪ್ರಯೋಗದ ಅಂತಿಮ ತೀರ್ಮಾನವೇನು? ಇದು ಸಮತಲ ದರ್ಪಣದ ಒಂದು ಅತ್ಯಂತ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವಾಗಿದೆ. ಸಮತಲ ದರ್ಪಣದ ಸಂದರ್ಭದಲ್ಲಿ, ದರ್ಪಣದಿಂದ ವಸ್ತುವಿಗೆ ಇರುವ ದೂರ ಮತ್ತು ದರ್ಪಣದಿಂದ ಪ್ರತಿಬಿಂಬಕ್ಕೆ ಇರುವ ದೂರ ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತದೆ. ಇದನ್ನು ನಾವು ಗಣಿತದ ರೂಪದಲ್ಲಿ 'ವಸ್ತುವಿನ ದೂರ ಸಮನಾಗಿದೆ ಪ್ರತಿಬಿಂಬದ ದೂರ' ಎಂದು ಹೇಳಬಹುದು. ಪರೀಕ್ಷಾದೃಷ್ಟಿಯಿಂದ ಇದು ಬಹಳ ಮುಖ್ಯವಾದ ಅಂಶ, ಇದನ್ನು ನೀವು ಚೆನ್ನಾಗಿ ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳಬೇಕು.",
+  "script_display": "ಸಮತಲ ದರ್ಪಣದ ಸಂದರ್ಭದಲ್ಲಿ, ದರ್ಪಣದಿಂದ ವಸ್ತುವಿಗೆ ಇರುವ ದೂರ ಮತ್ತು ದರ್ಪಣದಿಂದ ಪ್ರತಿಬಿಂಬಕ್ಕೆ ಇರುವ ದೂರ ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ವಸ್ತುವಿನ ದೂರ = ಪ್ರತಿಬಿಂಬದ ದೂರ"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "highlight_box",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ವಸ್ತುವಿನ ದೂರ} = \\text{ಪ್ರತಿಬಿಂಬದ ದೂರ}",
+    "placeholder_note": "Display the equation 'Object Distance = Image Distance' in Kannada script, centered and large."
+  },
+  "chunk_id": "std_7_chapter_11_concept_2_chunk_023"
+}

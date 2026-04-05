@@ -1,0 +1,36 @@
+{
+  "type": "title_hero",
+  "slide_title": "ಆಮ್ಲಮಳೆ (Acid Rain)",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಈ ಪಾಠಕ್ಕೆ ನಿಮಗೆಲ್ಲರಿಗೂ ಸ್ವಾಗತ. ಜಗತ್ತಿನ ಅದ್ಭುತಗಳಲ್ಲಿ ಒಂದಾದ ನಮ್ಮ ತಾಜ್ ಮಹಲ್ ಯಾಕೆ ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತಿದೆ ಎಂದು ನೀವು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ? ಅಥವಾ ಕೆಲವು ಕೆರೆಗಳಲ್ಲಿ ಮೀನುಗಳು ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಯಾಕೆ ಸಾಯುತ್ತಿವೆ? ಇದರ ಹಿಂದಿನ ಕಾರಣ ಆಕಾಶದಿಂದ ಬರುವ ಒಂದು ಅದೃಶ್ಯ ಶತ್ರು, ಅದೇ ಆಮ್ಲಮಳೆ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಆಮ್ಲಮಳೆ ಎಂದರೇನು, ಅದು ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ, ಮತ್ತು ನಮ್ಮ ಪರಿಸರದ ಮೇಲೆ ಅದರ ಹಾನಿಕಾರಕ ಪರಿಣಾಮಗಳೇನು ಎಂಬುದನ್ನು ವಿವರವಾಗಿ ಕಲಿಯಲಿದ್ದೇವೆ. ಈ ನಿಗೂಢ ಮಳೆಯ ರಹಸ್ಯವನ್ನು ಭೇದಿಸಲು ಸಿದ್ಧರಾಗಿ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಈ ಪಾಠಕ್ಕೆ ನಿಮಗೆಲ್ಲರಿಗೂ ಸ್ವಾಗತ. ಜಗತ್ತಿನ ಅದ್ಭುತಗಳಲ್ಲಿ ಒಂದಾದ ನಮ್ಮ ತಾಜ್ ಮಹಲ್ ಯಾಕೆ ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತಿದೆ ಎಂದು ನೀವು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ? ಅಥವಾ ಕೆಲವು ಕೆರೆಗಳಲ್ಲಿ ಮೀನುಗಳು ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಯಾಕೆ ಸಾಯುತ್ತಿವೆ? ಇದರ ಹಿಂದಿನ ಕಾರಣ ಆಕಾಶದಿಂದ ಬರುವ ಒಂದು ಅದೃಶ್ಯ ಶತ್ರು, ಅದೇ ಆಮ್ಲಮಳೆ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಆಮ್ಲಮಳೆ ಎಂದರೇನು, ಅದು ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ, ಮತ್ತು ನಮ್ಮ ಪರಿಸರದ ಮೇಲೆ ಅದರ ಹಾನಿಕಾರಕ ಪರಿಣಾಮಗಳೇನು ಎಂಬುದನ್ನು ವಿವರವಾಗಿ ಕಲಿಯಲಿದ್ದೇವೆ. ಈ ನಿಗೂಢ ಮಳೆಯ ರಹಸ್ಯವನ್ನು ಭೇದಿಸಲು ಸಿದ್ಧರಾಗಿ.",
+  "display_bullets": [
+    "ಆಮ್ಲಮಳೆ ಎಂದರೇನು?",
+    "ಆಮ್ಲಮಳೆ ಉಂಟಾಗಲು ಕಾರಣಗಳು",
+    "ಪರಿಸರದ ಮೇಲೆ ಆಮ್ಲಮಳೆಯ ಪರಿಣಾಮಗಳು"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_a",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustrative image showing pollutants like SO₂ and NO₂ rising from factories and cars, mixing with clouds, and falling as acid rain on forests, lakes, and buildings like the Taj Mahal.",
+    "labels": "ಕಾರ್ಖಾನೆಗಳು, ವಾಹನಗಳು, SO₂, NO₂, ಆಮ್ಲಮಳೆ, ತಾಜ್ ಮಹಲ್, ಸತ್ತ ಮರಗಳು",
+    "scientific_significance": "Visually represents the entire process of acid rain formation and its impact, connecting industrial pollution to environmental damage.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_science_chapter_4_concept_5_chunk_001"
+}

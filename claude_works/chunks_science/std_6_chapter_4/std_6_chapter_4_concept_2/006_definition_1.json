@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಕಾಂತೀಯ ವಸ್ತುಗಳು (Non-magnetic Materials)",
+  "script": "ಈಗ ಅಕಾಂತೀಯ ವಸ್ತುಗಳು ಅಂದರೆ ಏನು ಅಂತ ನೋಡೋಣ. ಯಾವ ವಸ್ತುಗಳು ಕಾಂತದ ಕಡೆಗೆ ಆಕರ್ಷಿಸಲ್ಪಡುವುದಿಲ್ಲವೋ, ಅವುಗಳನ್ನು ಅಕಾಂತೀಯ ವಸ್ತುಗಳು ಅಂತ ಕರೆಯುತ್ತೇವೆ. ಅಂದರೆ, ನೀವು ಒಂದು ಕಾಂತವನ್ನು ಈ ವಸ್ತುಗಳ ಹತ್ತಿರ ತಂದಾಗ, ಅವು ಕಾಂತಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುವುದಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ಪ್ಲಾಸ್ಟಿಕ್, ಮರ, ಗಾಜು, ರಬ್ಬರ್, ಮತ್ತು ಕಾಗದ. ಇವೆಲ್ಲವೂ ಅಕಾಂತೀಯ ವಸ್ತುಗಳಿಗೆ ಉತ್ತಮ ಉದಾಹರಣೆಗಳಾಗಿವೆ. ಇವು ಕಾಂತೀಯ ಗುಣವನ್ನು ಪ್ರದರ್ಶಿಸುವುದಿಲ್ಲ.",
+  "script_display": "ಯಾವ ವಸ್ತುಗಳು ಕಾಂತದ ಕಡೆಗೆ ಆಕರ್ಷಿಸಲ್ಪಡುವುದಿಲ್ಲವೋ, ಅವುಗಳನ್ನು ಅಕಾಂತೀಯ ವಸ್ತುಗಳು ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಕಾಂತದಿಂದ ಆಕರ್ಷಿಸಲ್ಪಡದ ವಸ್ತುಗಳು.",
+    "ಉದಾಹರಣೆ: ಪ್ಲಾಸ್ಟಿಕ್, ಮರ, ಗಾಜು, ರಬ್ಬರ್, ಕಾಗದ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_6_chapter_4_concept_2_chunk_006"
+}

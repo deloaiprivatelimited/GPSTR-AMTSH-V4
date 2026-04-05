@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಕ್ರಿಯೆಯ ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಕಾಸುವಿಕೆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನೋಡಬಹುದು. ಇಲ್ಲಿ ಒಂದು ಮೂಸೆಯಲ್ಲಿ ಸತುವಿನ ಕಾರ್ಬೋನೇಟ್ ಅದುರನ್ನು ತೆಗೆದುಕೊಂಡು, ಗಾಳಿಯ ಅನುಪಸ್ಥಿತಿಯಲ್ಲಿ ಅಥವಾ ಸೀಮಿತ ಪೂರೈಕೆಯಲ್ಲಿ ಬಿಸಮಾಡಲಾಗುತ್ತದೆ. ಉಷ್ಣದಿಂದಾಗಿ, ಕಾರ್ಬೋನೇಟ್ ವಿಭಜನೆಗೊಂಡು, ಸತುವಿನ ಆಕ್ಸೈಡ್ ಘನವಾಗಿ ಉಳಿಯುತ್ತದೆ ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲವು ಹೊರಹೋಗುತ್ತದೆ.",
+  "script_display": "ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಕಾಸುವಿಕೆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನೋಡಬಹುದು. ಇಲ್ಲಿ ಒಂದು ಮೂಸೆಯಲ್ಲಿ ಸತುವಿನ ಕಾರ್ಬೋನೇಟ್ ಅದುರನ್ನು ತೆಗೆದುಕೊಂಡು, ಗಾಳಿಯ ಅನುಪಸ್ಥಿತಿಯಲ್ಲಿ ಅಥವಾ ಸೀಮಿತ ಪೂರೈಕೆಯಲ್ಲಿ ಬಿಸಮಾಡಲಾಗುತ್ತದೆ. ಉಷ್ಣದಿಂದಾಗಿ, ಕಾರ್ಬೋನೇಟ್ ವಿಭಜನೆಗೊಂಡು, ಸತುವಿನ ಆಕ್ಸೈಡ್ (ZnO) ಘನವಾಗಿ ಉಳಿಯುತ್ತದೆ ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಅನಿಲವು ಹೊರಹೋಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating the process of calcination. A crucible contains zinc carbonate powder (ZnCO₃). It is being heated from below by a Bunsen burner. The crucible is covered with a lid, indicating limited air. Arrows pointing upwards from the crucible are labeled 'CO₂(g)' to show gas escaping. The solid remaining in the crucible is labeled 'Zinc Oxide (ZnO)'.",
+    "labels": "Crucible, Zinc Carbonate (ZnCO₃), Heat, Zinc Oxide (ZnO), Carbon Dioxide (CO₂)",
+    "scientific_significance": "Shows the thermal decomposition of a carbonate ore in the absence of excess air, a key step in extractive metallurgy.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "std_10_chapter_3_concept_9_chunk_016"
+}

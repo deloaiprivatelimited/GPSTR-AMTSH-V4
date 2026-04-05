@@ -1,0 +1,147 @@
+{
+  "module_id": "MEN-VOL-3_concept_4",
+  "merge_code": "MEN-VOL-3",
+  "voice": "Kore",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:43:09",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "e0850ea6a3dcddbe77cb914d7cec0e13",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 22.131,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 30,
+      "generated_at": "2026-03-30 15:40:42"
+    },
+    "004_example_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "ffc695c4936a200ae7d66345f0ff3c14",
+      "wav_file": "004_example_0.wav",
+      "duration": 33.131,
+      "slide_title": "ಕೈಗಾರಿಕಾ ಜೋಪಡಿಯ ಘನಫಲ",
+      "type": "worked_example",
+      "script_words": 54,
+      "generated_at": "2026-03-30 15:41:13"
+    },
+    "006_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "929797478a48697afc754c99e8955e4f",
+      "wav_file": "006_example_cont_0_2.wav",
+      "duration": 53.811,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+      "type": "worked_example",
+      "script_words": 73,
+      "generated_at": "2026-03-30 15:41:27"
+    },
+    "005_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "ec25efe94663f505c2473cd497d2a75b",
+      "wav_file": "005_example_cont_0_1.wav",
+      "duration": 52.131,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "script_words": 77,
+      "generated_at": "2026-03-30 15:41:29"
+    },
+    "007_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "f0ff00cfa8bfb52712b1c0b94a93eee0",
+      "wav_file": "007_example_cont_0_3.wav",
+      "duration": 31.651,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 53,
+      "generated_at": "2026-03-30 15:41:49"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "a0414e5dcc6b0092bd7f64d165118925",
+      "wav_file": "003_property_0.wav",
+      "duration": 119.651,
+      "slide_title": "ಜೋಡಿಸಿದ ಘನಗಳ ಘನಫಲದ ತತ್ವಗಳು",
+      "type": "concept_explanation",
+      "script_words": 165,
+      "generated_at": "2026-03-30 15:42:09"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "d20b93e115c8f769c52e1573c70824d4",
+      "wav_file": "001_intro_0.wav",
+      "duration": 46.891,
+      "slide_title": "ಪರಿಚಯ: ಜೋಡಿಸಿದ ಘನಗಳ ಘನಫಲ",
+      "type": "intro",
+      "script_words": 68,
+      "generated_at": "2026-03-30 15:42:21"
+    },
+    "008_example_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "549547d34ed5c6490e204bc5ab602fd0",
+      "wav_file": "008_example_1.wav",
+      "duration": 47.091,
+      "slide_title": "ಉದಾಹರಣೆ",
+      "type": "worked_example",
+      "script_words": 67,
+      "generated_at": "2026-03-30 15:42:23"
+    },
+    "010_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "2d23522702c01114c0c4b513f8d85971",
+      "wav_file": "010_example_cont_1_2.wav",
+      "duration": 60.411,
+      "slide_title": "ಪರಿಹಾರ: ನೈಜ ಸಾಮರ್ಥ್ಯ",
+      "type": "worked_example",
+      "script_words": 75,
+      "generated_at": "2026-03-30 15:42:32"
+    },
+    "009_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "a5533497cde8337cb36cefeb50935588",
+      "wav_file": "009_example_cont_1_1.wav",
+      "duration": 62.851,
+      "slide_title": "ಪರಿಹಾರ: ಗೋಚರ ಸಾಮರ್ಥ್ಯ",
+      "type": "worked_example",
+      "script_words": 72,
+      "generated_at": "2026-03-30 15:42:33"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "eb5b78bf86c925a10d543e3b454d60bc",
+      "wav_file": "012_recap_0.wav",
+      "duration": 55.891,
+      "slide_title": "ಸಾರಾಂಶ: ಜೋಡಿಸಿದ ಘನಗಳ ಘನಫಲ",
+      "type": "recap",
+      "script_words": 81,
+      "generated_at": "2026-03-30 15:43:07"
+    },
+    "011_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "0fb326f82484d86d3157eb940880d7c4",
+      "wav_file": "011_example_cont_1_3.wav",
+      "duration": 28.691,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 40,
+      "generated_at": "2026-03-30 15:43:09"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಂಕ್ಷೇಪಣೆ: ಭಾಗ (iii)",
+  "script": "ಮುಂದೆ, ಮೂರನೇ ಭಾಗವನ್ನು ಬಿಡಿಸೋಣ: ರೂಟ್ ಮೂರು ಪ್ಲಸ್ ರೂಟ್ ಏಳು, ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್. ಇದು 'a ಪ್ಲಸ್ b ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್' ರೂಪದಲ್ಲಿದೆ, ಇಲ್ಲಿ a ಎಂಬುದು ರೂಟ್ ಮೂರು ಮತ್ತು b ಎಂಬುದು ರೂಟ್ ಏಳು. ಈ ನಿತ್ಯ ಸಮೀಕರಣದ ವಿಸ್ತರಣೆ 'a ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಎರಡು ab ಪ್ಲಸ್ b ಸ್ಕ್ವೇರ್ಡ್'. ಹಾಗಾಗಿ, ನಮಗೆ ರೂಟ್ ಮೂರರ ವರ್ಗ, ಪ್ಲಸ್ ಎರಡು ಗುಣಿಸು ರೂಟ್ ಮೂರು ಗುಣಿಸು ರೂಟ್ ಏಳು, ಪ್ಲಸ್ ರೂಟ್ ಏಳರ ವರ್ಗ ಸಿಗುತ್ತದೆ. ರೂಟ್ ಮೂರರ ವರ್ಗ ಮೂರು, ಮತ್ತು ರೂಟ್ ಏಳರ ವರ್ಗ ಏಳು. ಎರಡು ಗುಣಿಸು ರೂಟ್ ಇಪ್ಪತ್ತೊಂದು ಹಾಗೆಯೇ ಇರುತ್ತದೆ. ಈಗ ಮೂರು ಮತ್ತು ಏಳನ್ನು ಕೂಡಿದರೆ ಹತ್ತು ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಅಂತಿಮ ಉತ್ತರ ಹತ್ತು ಪ್ಲಸ್ ಎರಡು ರೂಟ್ ಇಪ್ಪತ್ತೊಂದು.",
+  "script_display": "ಮುಂದೆ, ಮೂರನೇ ಭಾಗವನ್ನು ಬಿಡಿಸೋಣ: $(\\sqrt{3}+\\sqrt{7})^2$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-SYS-3_example_15",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಇದು $(a+b)^2$ ರೂಪದಲ್ಲಿದೆ, ಇಲ್ಲಿ $a=\\sqrt{3}, b=\\sqrt{7}$.",
+      "justification": "ನಿತ್ಯ ಸಮೀಕರಣವನ್ನು ಗುರುತಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$(\\sqrt{3}+\\sqrt{7})^2 = (\\sqrt{3})^2 + 2(\\sqrt{3})(\\sqrt{7}) + (\\sqrt{7})^2$",
+      "justification": "$(a+b)^2 = a^2+2ab+b^2$ ನಿತ್ಯ ಸಮೀಕರಣವನ್ನು ಬಳಸಿ."
+    },
+    {
+      "step": 3,
+      "action_display": "$= 3 + 2\\sqrt{21} + 7 = 10 + 2\\sqrt{21}$",
+      "justification": "ಸಂಕ್ಷೇಪಿಸಿ ಮತ್ತು ಸಜಾತೀಯ ಪದಗಳನ್ನು ಕೂಡಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "NS-SYS-3_concept_4_chunk_050"
+}

@@ -1,0 +1,101 @@
+{
+  "module_id": "std_6_chapter_6_concept_1",
+  "chapter_code": "std_6_chapter_6",
+  "voice": "Umbriel",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 371.888,
+  "total_duration_formatted": "6:11",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_6_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಾಮಗ್ರಿಗಳು ಮತ್ತು ಅವುಗಳ ವರ್ಗೀಕರಣ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 44.251,
+      "duration": 44.251,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_6_chapter_6_concept_1_chunk_002",
+      "chunk_file": "002_definition_0.json",
+      "wav_file": "002_definition_0.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಸಾಮಗ್ರಿ (Material)",
+      "type": "definition",
+      "start": 44.851,
+      "end": 84.502,
+      "duration": 39.651,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_6_concept_1_chunk_003",
+      "chunk_file": "003_definition_cont_0_1.json",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಪೆನ್‌ನಲ್ಲಿರುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "definition",
+      "start": 85.102,
+      "end": 128.873,
+      "duration": 43.771,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_6_concept_1_chunk_004",
+      "chunk_file": "004_definition_cont_0_2.json",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "slide_title": "ಹೋಲಿಕೆ: ಸಾಮಗ್ರಿ vs. ವಸ್ತು",
+      "type": "definition",
+      "start": 129.473,
+      "end": 175.084,
+      "duration": 45.611,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_6_chapter_6_concept_1_chunk_005",
+      "chunk_file": "005_definition_1.json",
+      "wav_file": "005_definition_1.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ವರ್ಗೀಕರಣ",
+      "type": "definition",
+      "start": 175.684,
+      "end": 225.455,
+      "duration": 49.771,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_6_chapter_6_concept_1_chunk_006",
+      "chunk_file": "006_definition_cont_1_1.json",
+      "wav_file": "006_definition_cont_1_1.wav",
+      "slide_title": "ವರ್ಗೀಕರಣ: ಒಂದು ದೃಶ್ಯ ಉದಾಹರಣೆ",
+      "type": "definition",
+      "start": 226.055,
+      "end": 281.586,
+      "duration": 55.531,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "std_6_chapter_6_concept_1_chunk_007",
+      "chunk_file": "007_definition_cont_1_2.json",
+      "wav_file": "007_definition_cont_1_2.wav",
+      "slide_title": "ವರ್ಗೀಕರಣದ ಪ್ರಯೋಜನಗಳೇನು?",
+      "type": "definition",
+      "start": 282.186,
+      "end": 336.237,
+      "duration": 54.051,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_6_chapter_6_concept_1_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 336.837,
+      "end": 371.288,
+      "duration": 34.451,
+      "script_words": 46
+    }
+  ]
+}

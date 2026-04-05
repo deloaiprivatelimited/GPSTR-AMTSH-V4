@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹೊಸ ವಸ್ತುವಿನ ಪರೀಕ್ಷೆ",
+  "script": "ಉತ್ಪನ್ನವಾದ ಮೆಗ್ನಿಸಿಯಮ್ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಒಂದು ಪ್ರತ್ಯಾಮ್ಲವಾಗಿದೆ. ಇದನ್ನು ನಾವು ಹೇಗೆ ಪರೀಕ್ಷಿಸಬಹುದು? ಈ ದ್ರಾವಣದಲ್ಲಿ ಕೆಂಪು ಲಿಟ್ಮಸ್ ಕಾಗದವನ್ನು ಅದ್ದಿದಾಗ, ಅದು ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಇದು ಪ್ರತ್ಯಾಮ್ಲದ ಗುಣವನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ.",
+  "script_display": "ಉತ್ಪನ್ನವಾದ ಮೆಗ್ನಿಸಿಯಮ್ ಹೈಡ್ರಾಕ್ಸೈಡ್ (Mg(OH)₂) ಒಂದು ಪ್ರತ್ಯಾಮ್ಲವಾಗಿದೆ (base). ಇದನ್ನು ನಾವು ಹೇಗೆ ಪರೀಕ್ಷಿಸಬಹುದು? ಈ ದ್ರಾವಣದಲ್ಲಿ ಕೆಂಪು ಲಿಟ್ಮಸ್ ಕಾಗದವನ್ನು ಅದ್ದಿದಾಗ, ಅದು ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಇದು ಪ್ರತ್ಯಾಮ್ಲದ ಗುಣವನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮೆಗ್ನಿಸಿಯಮ್ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಒಂದು ಪ್ರತ್ಯಾಮ್ಲ.",
+    "ಇದು ಕೆಂಪು ಲಿಟ್ಮಸ್ ಅನ್ನು ನೀಲಿಯಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_style_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a red litmus paper being dipped into the beaker containing the magnesium hydroxide solution. The part of the litmus paper in the solution is shown turning blue.",
+    "labels": "ಕೆಂಪು ಲಿಟ್ಮಸ್, ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ಬದಲಾವಣೆ, ಮೆಗ್ನಿಸಿಯಮ್ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣ",
+    "scientific_significance": "Visually demonstrates the litmus test for bases. The color change from red to blue is a definitive indicator that the product of the reaction, magnesium hydroxide, is a base.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_019"
+}

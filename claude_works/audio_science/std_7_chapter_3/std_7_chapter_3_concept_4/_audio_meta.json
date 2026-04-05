@@ -1,0 +1,213 @@
+{
+  "module_id": "std_7_chapter_3_concept_4",
+  "chapter_code": "std_7_chapter_3",
+  "voice": "Achird",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 18,
+  "ok_count": 18,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:00:21",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "43e977901b57eb237c7592332c91284e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 18.651,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 32,
+      "generated_at": "2026-04-02 13:57:09"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "3e1a4ef2bcc9ff23362c3c3fcbb88008",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 42.891,
+      "slide_title": "ವಹನ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?",
+      "type": "definition",
+      "script_words": 67,
+      "generated_at": "2026-04-02 13:57:19"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "b17a2883cdbf4b7968bc54184e985c5f",
+      "wav_file": "001_intro_0.wav",
+      "duration": 46.851,
+      "slide_title": "ಉಷ್ಣ ವರ್ಗಾವಣೆ - ವಹನ",
+      "type": "intro",
+      "script_words": 72,
+      "generated_at": "2026-04-02 13:57:21"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "fdb5d0583625cde99972d0e9c0d07f79",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 46.371,
+      "slide_title": "ವಾಹಕಗಳು vs. ಅವಾಹಕಗಳು",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:57:25"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "d3d50f4f5cffad89db77bbfc6c572db0",
+      "wav_file": "003_definition_0.wav",
+      "duration": 41.891,
+      "slide_title": "ವಹನ (Conduction) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:57:53"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "f52571b4dc3a2fb796d6317fcec799e4",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 34.291,
+      "slide_title": "ಉಷ್ಣವಾಹಕಗಳು: ಒಂದು ಚಟುವಟಿಕೆ",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:58:15"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "f3ebf62235f65c1653e5743633756e19",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 33.771,
+      "slide_title": "ವಾಹಕಗಳು vs. ಅವಾಹಕಗಳು (Conductors vs. Insulators)",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:58:19"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "e68a5227b60df130f2eab4d753a09869",
+      "wav_file": "006_definition_1.wav",
+      "duration": 37.451,
+      "slide_title": "ಉಷ್ಣವಾಹಕಗಳು (Conductors)",
+      "type": "definition",
+      "script_words": 47,
+      "generated_at": "2026-04-02 13:58:20"
+    },
+    "009_definition_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "7db59a61a269cdcdea258a72684f1a98",
+      "wav_file": "009_definition_2.wav",
+      "duration": 43.691,
+      "slide_title": "ಅವಾಹಕಗಳು (Insulators)",
+      "type": "definition",
+      "script_words": 48,
+      "generated_at": "2026-04-02 13:58:28"
+    },
+    "010_definition_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "67c97cc7270b99dafda4debf3e6145d5",
+      "wav_file": "010_definition_cont_2_1.wav",
+      "duration": 38.251,
+      "slide_title": "ಅವಾಹಕಗಳ ದೈನಂದಿನ ಬಳಕೆ",
+      "type": "definition",
+      "script_words": 57,
+      "generated_at": "2026-04-02 13:58:51"
+    },
+    "012_experiment_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "88cb1ed93521552f4d919cdee543cd12",
+      "wav_file": "012_experiment_0.wav",
+      "duration": 40.971,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಘನವಸ್ತುಗಳಲ್ಲಿ ವಹನ",
+      "type": "experiment_activity",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:59:17"
+    },
+    "011_definition_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "a6b086475e8fdd23ccf03d109b967d04",
+      "wav_file": "011_definition_cont_2_2.wav",
+      "duration": 40.291,
+      "slide_title": "ವಾಹಕ vs ಅವಾಹಕ",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:59:19"
+    },
+    "013_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "f588f933e6a39eefedce6c6d70de438b",
+      "wav_file": "013_experiment_cont_0_1.wav",
+      "duration": 42.771,
+      "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "experiment_activity",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:59:24"
+    },
+    "015_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "0a33f64c209e89c0a012064c1e0fa5ef",
+      "wav_file": "015_experiment_cont_0_3.wav",
+      "duration": 31.811,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 2",
+      "type": "experiment_activity",
+      "script_words": 48,
+      "generated_at": "2026-04-02 13:59:26"
+    },
+    "014_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "680906381525516793ffa178c2ff138a",
+      "wav_file": "014_experiment_cont_0_2.wav",
+      "duration": 34.891,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 1",
+      "type": "experiment_activity",
+      "script_words": 47,
+      "generated_at": "2026-04-02 13:59:41"
+    },
+    "018_recap_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "afa02e2f7cf80eb31355554aa2633b59",
+      "wav_file": "018_recap_0.wav",
+      "duration": 34.291,
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 14:00:14"
+    },
+    "016_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "844c4069d8ef8e33d1760bda76baed22",
+      "wav_file": "016_experiment_cont_0_4.wav",
+      "duration": 36.971,
+      "slide_title": "ವೀಕ್ಷಣೆ (Observation)",
+      "type": "experiment_activity",
+      "script_words": 52,
+      "generated_at": "2026-04-02 14:00:18"
+    },
+    "017_experiment_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "be1b9feb695ce5eeef1ff81e88cb460a",
+      "wav_file": "017_experiment_cont_0_5.wav",
+      "duration": 36.251,
+      "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+      "type": "experiment_activity",
+      "script_words": 51,
+      "generated_at": "2026-04-02 14:00:21"
+    }
+  }
+}

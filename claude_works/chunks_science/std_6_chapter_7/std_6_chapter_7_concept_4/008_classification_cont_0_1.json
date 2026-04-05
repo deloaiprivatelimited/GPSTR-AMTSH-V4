@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಫ್ಯಾರನ್‌ಹೀಟ್ ಮಾಪಕ (Fahrenheit Scale)",
+  "script": "ಮುಂದಿನದು ಫ್ಯಾರನ್‌ಹೀಟ್ ಮಾಪಕ. ಇದರ ಏಕಮಾನ ಡಿಗ್ರಿ ಫ್ಯಾರನ್‌ಹೀಟ್, ಇದನ್ನು ಸಿಂಬಲ್ ಡಿಗ್ರಿ ಎಫ್ ಎಂದು ಸೂಚಿಸುತ್ತೇವೆ. ಸೆಲ್ಸಿಯಸ್ ಮಾಪಕದಷ್ಟು ವ್ಯಾಪಕವಾಗಿಲ್ಲದಿದ್ದರೂ, ಇದನ್ನು ಮುಖ್ಯವಾಗಿ ಅಮೇರಿಕ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ ಮತ್ತು ಕೆಲವು ಇತರ ದೇಶಗಳಲ್ಲಿ ದೈನಂದಿನ ತಾಪಮಾನವನ್ನು ಅಳೆಯಲು ಬಳಸುತ್ತಾರೆ. ಸೆಲ್ಸಿಯಸ್ ಮಾಪಕದಲ್ಲಿ ಮೂವತ್ತೇಳು ಡಿಗ್ರಿ ಇರುವ ಮಾನವನ ದೇಹದ ಸಾಮಾನ್ಯ ತಾಪಮಾನವು, ಫ್ಯಾರನ್‌ಹೀಟ್ ಮಾಪಕದಲ್ಲಿ ತೊಂಬತ್ತೆಂಟು ಪಾಯಿಂಟ್ ಆರು ಡಿಗ್ರಿ ಫ್ಯಾರನ್‌ಹೀಟ್ ಆಗಿರುತ್ತದೆ. ಈ ಪರಿವರ್ತನೆಯು ಎರಡು ಮಾಪಕಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಮುಂದಿನದು ಫ್ಯಾರನ್‌ಹೀಟ್ ಮಾಪಕ. ಇದರ ಏಕಮಾನ ಡಿಗ್ರಿ ಫ್ಯಾರನ್‌ಹೀಟ್, ಇದನ್ನು (°F) ಎಂದು ಸೂಚಿಸುತ್ತೇವೆ. ಸೆಲ್ಸಿಯಸ್ ಮಾಪಕದಷ್ಟು ವ್ಯಾಪಕವಾಗಿಲ್ಲದಿದ್ದರೂ, ಇದನ್ನು ಮುಖ್ಯವಾಗಿ ಅಮೇರಿಕ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ ಮತ್ತು ಕೆಲವು ಇತರ ದೇಶಗಳಲ್ಲಿ ದೈನಂದಿನ ತಾಪಮಾನವನ್ನು ಅಳೆಯಲು ಬಳಸುತ್ತಾರೆ. ಸೆಲ್ಸಿಯಸ್ ಮಾಪಕದಲ್ಲಿ 37°C ಇರುವ ಮಾನವನ ದೇಹದ ಸಾಮಾನ್ಯ ತಾಪಮಾನವು, ಫ್ಯಾರನ್‌ಹೀಟ್ ಮಾಪಕದಲ್ಲಿ 98.6°F ಆಗಿರುತ್ತದೆ. ಈ ಪರಿವರ್ತನೆಯು ಎರಡು ಮಾಪಕಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಏಕಮಾನ: ಡಿಗ್ರಿ ಫ್ಯಾರನ್‌ಹೀಟ್ (°F)",
+    "ಬಳಕೆ: ಮುಖ್ಯವಾಗಿ ಅಮೇರಿಕ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನದಲ್ಲಿ ಬಳಕೆ",
+    "ಉದಾಹರಣೆ: ಮಾನವನ ದೇಹದ ಸಾಮಾನ್ಯ ತಾಪ: 98.6°F"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A thermometer showing the Fahrenheit scale. Key points like 32°F (water freezing), 98.6°F (human body), and 212°F (water boiling) should be clearly marked. It would be ideal to show it side-by-side with a Celsius thermometer for comparison.",
+    "labels": "Fahrenheit Scale, Freezing Point, Boiling Point, Body Temperature",
+    "scientific_significance": "Illustrates the reference points of the Fahrenheit scale and allows for visual comparison with the Celsius scale.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_7_concept_4_chunk_008"
+}

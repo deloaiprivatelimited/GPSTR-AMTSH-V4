@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಎರಡು ವೃತ್ತಗಳ ನಡುವಿನ ಛಾಯೀಕೃತ ಭಾಗದ, ಅಂದರೆ ಕಂಕಣದ ವಿಸ್ತೀರ್ಣವು 263.76 ಚದರ ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಮೊದಲು ಪ್ರತಿಯೊಂದು ವೃತ್ತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಕಂಡುಹಿಡಿದು, ನಂತರ ಅವುಗಳ ವ್ಯತ್ಯಾಸವನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು ಮುಖ್ಯ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಎರಡು ವೃತ್ತಗಳ ನಡುವಿನ ಛಾಯೀಕೃತ ಭಾಗದ (ಕಂಕಣ) ವಿಸ್ತೀರ್ಣವು $263.76 \\text{ cm}^2$ ಆಗಿದೆ. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಮೊದಲು ಪ್ರತಿಯೊಂದು ವೃತ್ತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಕಂಡುಹಿಡಿದು, ನಂತರ ಅವುಗಳ ವ್ಯತ್ಯಾಸವನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಛಾಯೀಕೃತ ಭಾಗದ ವಿಸ್ತೀರ್ಣ = 263.76 cm²"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_result",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "MEN-AREA-1_example_7",
+  "final_answer": "263.76 cm²",
+  "final_answer_display": "263.76 \\text{ cm}^2",
+  "chunk_id": "MEN-AREA-1_concept_6_chunk_020"
+}

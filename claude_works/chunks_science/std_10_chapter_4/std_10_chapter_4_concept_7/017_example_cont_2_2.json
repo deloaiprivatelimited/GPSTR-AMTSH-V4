@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ಕ್ರಿಯಾಗುಂಪನ್ನು ಸೇರಿಸುವುದು",
+  "script": "ಮುಂದಿನದು ಮೂರನೇ ಹಂತ. ಇಲ್ಲಿ ನಾವು ಕ್ರಿಯಾಗುಂಪನ್ನು ಗುರುತಿಸಿ ಹೆಸರನ್ನು ಪೂರ್ಣಗೊಳಿಸುತ್ತೇವೆ. ಈ ಸಂಯುಕ್ತದಲ್ಲಿ ಸಿ ಓ ಓ ಎಚ್, ಅಂದರೆ ಕಾರ್ಬಾಕ್ಸಿಲಿಕ್ ಆಮ್ಲದ ಗುಂಪು ಇದೆ. ಇದರ ಅಂತ್ಯ ಪ್ರತ್ಯಯ 'ಓಯಿಕ್ ಆಮ್ಲ'. ನಿಯಮದ ಪ್ರಕಾರ, ನಾವು 'ಪ್ರೋಪೇನ್' ಪದದ ಕೊನೆಯ 'ಇ' ಅಕ್ಷರವನ್ನು ತೆಗೆದು, ಅದರ ಜಾಗದಲ್ಲಿ 'ಓಯಿಕ್ ಆಮ್ಲ'ವನ್ನು ಸೇರಿಸಬೇಕು. ಪ್ರೋಪೇನ್ ಮೈನಸ್ 'ಇ' ಪ್ಲಸ್ 'ಓಯಿಕ್ ಆಮ್ಲ' ನಮಗೆ ಪ್ರೊಪೆನೋಯಿಕ್ ಆಮ್ಲವನ್ನು ಕೊಡುತ್ತದೆ.",
+  "script_display": "ಮುಂದಿನದು ಮೂರನೇ ಹಂತ. ಇಲ್ಲಿ ನಾವು ಕ್ರಿಯಾಗುಂಪನ್ನು ಗುರುತಿಸಿ ಹೆಸರನ್ನು ಪೂರ್ಣಗೊಳಿಸುತ್ತೇವೆ. ಈ ಸಂಯುಕ್ತದಲ್ಲಿ -COOH, ಅಂದರೆ ಕಾರ್ಬಾಕ್ಸಿಲಿಕ್ ಆಮ್ಲದ ಗುಂಪು ಇದೆ. ಇದರ ಅಂತ್ಯ ಪ್ರತ್ಯಯ '-ಓಯಿಕ್ ಆಮ್ಲ' (-oic acid). ನಿಯಮದ ಪ್ರಕಾರ, ನಾವು 'Propane' ಪದದ ಕೊನೆಯ 'e' ಅಕ್ಷರವನ್ನು ತೆಗೆದು, ಅದರ ಜಾಗದಲ್ಲಿ 'oic acid' ಅನ್ನು ಸೇರಿಸಬೇಕು. Propane - 'e' + 'oic acid' → Propanoic acid.",
+  "display_bullets": [
+    "**ಹಂತ 3:** ಕ್ರಿಯಾಗುಂಪನ್ನು ಗುರುತಿಸಿ. ಕ್ರಿಯಾಗುಂಪು: **-COOH (ಕಾರ್ಬಾಕ್ಸಿಲಿಕ್ ಆಮ್ಲ)**.",
+    "ಅದರ ಅಂತ್ಯ ಪ್ರತ್ಯಯ: **-ಓಯಿಕ್ ಆಮ್ಲ (-oic acid)**.",
+    "ಹೆಸರನ್ನು ಸಂಯೋಜಿಸಿ: Propane - 'e' + 'oic acid' = **Propanoic acid**."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "chemistry_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The structure of propanoic acid with the -COOH functional group highlighted.",
+    "labels": "ಕಾರ್ಬಾಕ್ಸಿಲಿಕ್ ಆಮ್ಲ ಕ್ರಿಯಾಗುಂಪು",
+    "scientific_significance": "Illustrates the identification of the functional group, which determines the suffix of the name.",
+    "placeholder_note": "Image to be generated showing CH3-CH2-COOH with the -COOH group highlighted."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_10_chapter_4_we_4",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಕ್ರಿಯಾಗುಂಪನ್ನು ಗುರುತಿಸಿ ಮತ್ತು ಹೆಸರನ್ನು ಸಂಯೋಜಿಸಿ.",
+      "justification": "ಕ್ರಿಯಾಗುಂಪು -COOH (ಕಾರ್ಬಾಕ್ಸಿಲಿಕ್ ಆಮ್ಲ), ಇದರ ಅಂತ್ಯ ಪ್ರತ್ಯಯ -ಓಯಿಕ್ ಆಮ್ಲ (oic acid). 'Propane' ಪದದ ಕೊನೆಯ 'e' ತೆಗೆದು 'oic acid' ಸೇರಿಸಿ. Propane - 'e' + 'oic acid' = Propanoic acid"
+    }
+  ],
+  "chunk_id": "std_10_chapter_4_concept_7_chunk_017"
+}

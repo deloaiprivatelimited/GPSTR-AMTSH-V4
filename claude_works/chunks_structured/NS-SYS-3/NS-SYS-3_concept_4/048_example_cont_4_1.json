@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಂಕ್ಷೇಪಣೆ: ಭಾಗ (i)",
+  "script": "ಮೊದಲಿಗೆ, ಮೊದಲನೇ ಭಾಗವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ: ಐದು ಪ್ಲಸ್ ರೂಟ್ ಏಳು ಗುಣಿಸು ಎರಡು ಪ್ಲಸ್ ರೂಟ್ ಐದು. ಇಲ್ಲಿ ನಾವು ವಿಭಾಜಕ ನಿಯಮವನ್ನು ಬಳಸುತ್ತೇವೆ. ಅಂದರೆ, ಮೊದಲ ಪದದ ಪ್ರತಿಯೊಂದು ಸಂಖ್ಯೆಯಿಂದ ಎರಡನೇ ಪದದ ಪ್ರತಿಯೊಂದು ಸಂಖ್ಯೆಯನ್ನು ಗುಣಿಸುತ್ತೇವೆ. ಇದು ಐದು ಗುಣಿಸು ಎರಡು, ಪ್ಲಸ್ ಐದು ಗುಣಿಸu ರೂಟ್ ಐದು, ಪ್ಲಸ್ ರೂಟ್ ಏಳು ಗುಣಿಸು ಎರಡು, ಪ್ಲಸ್ ರೂಟ್ ಏಳು ಗುಣಿಸು ರೂಟ್ ಐದು ಆಗುತ್ತದೆ. ಇದನ್ನು ಸಂಕ್ಷೇಪಿಸಿದಾಗ, ನಮಗೆ ಹತ್ತು ಪ್ಲಸ್ ಐದು ರೂಟ್ ಐದು ಪ್ಲಸ್ ಎರಡು ರೂಟ್ ಏಳು ಪ್ಲಸ್ ರೂಟ್ ಮೂವತ್ತೈದು ಸಿಗುತ್ತದೆ. ಇಲ್ಲಿ ಯಾವುದೇ ಸಜಾತೀಯ ಕರಣಿಗಳು ಇಲ್ಲ, ಆದ್ದರಿಂದ ಇದನ್ನು ಮತ್ತಷ್ಟು ಸಂಕ್ಷೇಪಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಮೊದಲನೇ ಭಾಗವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ: $(5+\\sqrt{7})(2+\\sqrt{5})$. ಇಲ್ಲಿ ನಾವು ವಿಭಾಜಕ ನಿಯಮವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-SYS-3_example_15",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$(5+\\sqrt{7})(2+\\sqrt{5}) = 5 \\times 2 + 5 \\times \\sqrt{5} + \\sqrt{7} \\times 2 + \\sqrt{7} \\times \\sqrt{5}$",
+      "justification": "ವಿಭಾಜಕ ನಿಯಮವನ್ನು (Distributive property) ಬಳಸಿ."
+    },
+    {
+      "step": 2,
+      "action_display": "$= 10 + 5\\sqrt{5} + 2\\sqrt{7} + \\sqrt{35}$",
+      "justification": "ಗುಣಲಬ್ಧಗಳನ್ನು ಸಂಕ್ಷೇಪಿಸುವುದು. ಇಲ್ಲಿ ಯಾವುದೇ ಸಜಾತೀಯ ಕರಣಿಗಳು ಇಲ್ಲ."
+    }
+  ],
+  "chunk_id": "NS-SYS-3_concept_4_chunk_048"
+}

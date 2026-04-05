@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಚೆನ್ನಾಗಿ ಸೂರ್ಯನ ಬೆಳಕಿಗೆ ಒಡ್ಡಿದ ಗಿಡದ ಒಂದು ಹಸಿರು ಎಲೆ. ನಂತರ, ಒಂದು ಬೀಕರ್, ಒಂದು ಪ್ರನಾಳ ಅಥವಾ ಟೆಸ್ಟ್ ಟ್ಯೂಬ್, ನೀರು, ಮತ್ತು ಆಲ್ಕೋಹಾಲ್. ಎಲೆಯನ್ನು ಬಿಸಿಮಾಡಲು ನಮಗೆ ಟ್ರೈಪಾಡ್ ಸ್ಟ್ಯಾಂಡ್ ಮತ್ತು ಬರ್ನರ್ ಬೇಕಾಗುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಪರೀಕ್ಷೆ ಮಾಡಲು ಅಯೋಡಿನ್ ದ್ರಾವಣ ಮತ್ತು ಒಂದು ಡ್ರಾಪರ್. ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ ಜೋಡಿಸಿಕೊಳ್ಳಬೇಕು.",
+  "script_display": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಚೆನ್ನಾಗಿ ಸೂರ್ಯನ ಬೆಳಕಿಗೆ ಒಡ್ಡಿದ ಗಿಡದ ಒಂದು ಹಸಿರು ಎಲೆ. ನಂತರ, ಒಂದು ಬೀಕರ್, ಒಂದು ಪ್ರನಾಳ (Test Tube), ನೀರು, ಮತ್ತು ಆಲ್ಕೋಹಾಲ್. ಎಲೆಯನ್ನು ಬಿಸಿಮಾಡಲು ನಮಗೆ ಟ್ರೈಪಾಡ್ ಸ್ಟ್ಯಾಂಡ್ ಮತ್ತು ಬರ್ನರ್ ಬೇಕಾಗುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಪರೀಕ್ಷೆ ಮಾಡಲು ಅಯೋಡಿನ್ ದ್ರಾವಣ ಮತ್ತು ಒಂದು ಡ್ರಾಪರ್. ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ ಜೋಡಿಸಿಕೊಳ್ಳಬೇಕು.",
+  "display_bullets": [
+    "ಹಸಿರು ಎಲೆ (ಸೂರ್ಯನ ಬೆಳಕಿಗೆ ಒಡ್ಡಿದ್ದು)",
+    "ಬೀಕರ್, ಪ್ರನಾಳ (Test Tube), ಬರ್ನರ್",
+    "ನೀರು ಮತ್ತು ಆಲ್ಕೋಹಾಲ್",
+    "ಅಯೋಡಿನ್ ದ್ರಾವಣ ಮತ್ತು ಡ್ರಾಪರ್"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus setup for the starch test. It should include a beaker with water on a tripod stand over a burner, a test tube with alcohol and a leaf inside it placed in the beaker, an iodine solution bottle with a dropper, and a petri dish.",
+    "labels": "ಬೀಕರ್, ನೀರು, ಪ್ರನಾಳ, ಆಲ್ಕೋಹಾಲ್, ಎಲೆ, ಬರ್ನರ್, ಅಯೋಡಿನ್ ದ್ರಾವಣ",
+    "scientific_significance": "Shows all the necessary equipment and their arrangement for safely conducting the experiment, especially the water bath method for heating alcohol.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_science_ch_1_concept_2_chunk_016"
+}

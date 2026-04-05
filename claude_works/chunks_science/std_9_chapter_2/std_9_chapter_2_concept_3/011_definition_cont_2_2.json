@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ದ್ರಾವ್ಯ vs ದ್ರಾವಕ",
+  "script": "ದ್ರಾವ್ಯ ಮತ್ತು ದ್ರಾವಕದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ ದ್ರಾವ್ಯದ ಗುಣಗಳಿವೆ. ಇದು ದ್ರಾವಣದಲ್ಲಿ ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿ ಇರುತ್ತದೆ ಮತ್ತು ಇದು ಕರಗುವ ವಸ್ತುವಾಗಿದೆ. ನಮ್ಮ ಉದಾಹರಣೆಯಲ್ಲಿ ಸಕ್ಕರೆ ದ್ರಾವ್ಯ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ, ಇದು ದ್ರಾವಕ. ಇದು ದ್ರಾವಣದಲ್ಲಿ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದಲ್ಲಿ ಇರುತ್ತದೆ ಮತ್ತು ಇದು ಇತರ ವಸ್ತುವನ್ನು ಕರಗಿಸಿಕೊಳ್ಳುವ ಮಾಧ್ಯಮವಾಗಿದೆ. ನಮ್ಮ ಉದಾಹರಣೆಯಲ್ಲಿ ನೀರು ದ್ರಾವಕ. ಈ ಎರಡು ಪದಗಳ ನಡುವೆ ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳಬೇಡಿ. ಕರಗುವುದು ದ್ರಾವ್ಯ, ಕರಗಿಸಿಕೊಳ್ಳುವುದು ದ್ರಾವಕ.",
+  "script_display": "ದ್ರಾವ್ಯ (Solute) ಮತ್ತು ದ್ರಾವಕ (Solvent) ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಕರಗುವುದು ದ್ರಾವ್ಯ, ಕರಗಿಸಿಕೊಳ್ಳುವುದು ದ್ರಾವಕ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "{\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{|p{0.4\\textwidth}|p{0.4\\textwidth}|}\n\\hline\n\\textbf{ದ್ರಾವ್ಯ (Solute)} & \\textbf{ದ್ರಾವಕ (Solvent)} \\\\\n\\hline\nದ್ರಾವಣದಲ್ಲಿ ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿರುತ್ತದೆ. & ದ್ರಾವಣದಲ್ಲಿ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದಲ್ಲಿರುತ್ತದೆ. \\\\\n\\hline\nದ್ರಾವಕದಲ್ಲಿ ಕರಗುತ್ತದೆ. & ದ್ರಾವ್ಯವನ್ನು ಕರಗಿಸಿಕೊಳ್ಳುತ್ತದೆ. \\\\\n\\hline\nಉದಾ: ಸಕ್ಕರೆ, ಉಪ್ಪು & ಉದಾ: ನೀರು, ಆಲ್ಕೋಹಾಲ್ \\\\\n\\hline\n\\end{array}}",
+    "placeholder_note": "A two-column table comparing Solute and Solvent. Column 1 (Solute): Smaller quantity, Dissolves in solvent, Ex: Sugar, Salt. Column 2 (Solvent): Larger quantity, Dissolves the solute, Ex: Water, Alcohol."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_2_concept_3_chunk_011"
+}

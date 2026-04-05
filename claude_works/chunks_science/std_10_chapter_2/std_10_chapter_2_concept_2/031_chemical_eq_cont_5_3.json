@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಫಲಿತಾಂಶ: ಬಣ್ಣದ ಬದಲಾವಣೆ",
+  "script": "ಕ್ರಿಯೆ ನಡೆದಂತೆ, ದ್ರಾವಣದ ಬಣ್ಣವು ನೀಲಿ-ಹಸಿರು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುವುದನ್ನು ನೀವು ಗಮನಿಸುವಿರಿ. ಕಪ್ಪು ಬಣ್ಣದ ತಾಮ್ರದ ಆಕ್ಸೈಡ್ ಸಂಪೂರ್ಣವಾಗಿ ಕರಗುತ್ತದೆ. ಇದಕ್ಕೆ ಕಾರಣ ತಾಮ್ರದ ಕ್ಲೋರೈಡ್ ಎಂಬ ಹೊಸ ಲವಣದ ರಚನೆ.",
+  "script_display": "ಕ್ರಿಯೆ ನಡೆದಂತೆ, ದ್ರಾವಣದ ಬಣ್ಣವು ನೀಲಿ-ಹಸಿರು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುವುದನ್ನು ನೀವು ಗಮನಿಸುವಿರಿ. ಇದಕ್ಕೆ ಕಾರಣ ತಾಮ್ರದ(II) ಕ್ಲೋರೈಡ್ (CuCl₂) ಎಂಬ ಹೊಸ ಸಂಯುಕ್ತದ ರಚನೆ.",
+  "display_bullets": [
+    "ಕಪ್ಪು ಬಣ್ಣದ ತಾಮ್ರದ ಆಕ್ಸೈಡ್ (CuO) ಕರಗುತ್ತದೆ.",
+    "ದ್ರಾವಣವು ನೀಲಿ-ಹಸಿರು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ.",
+    "ಕಾರಣ: ತಾಮ್ರದ(II) ಕ್ಲೋರೈಡ್ (CuCl₂) ಎಂಬ ಲವಣದ ಉತ್ಪತ್ತಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker containing a blue-green solution, which is copper(II) chloride.",
+    "labels": "ಬೀಕರ್, ನೀಲಿ-ಹಸಿರು ದ್ರಾವಣ (CuCl₂)",
+    "scientific_significance": "Illustrates the result of the reaction, showing the formation of copper(II) chloride solution, which is visually distinct.",
+    "placeholder_note": "Image to be generated: Beaker with a clear blue-green solution."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_031"
+}

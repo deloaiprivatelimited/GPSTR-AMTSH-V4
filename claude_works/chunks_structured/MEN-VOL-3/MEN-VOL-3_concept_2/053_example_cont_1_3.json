@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಎಲ್ಲಾ ಹಂತಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ ನಂತರ, ನಾವು ಅಂತಿಮ ಉತ್ತರವನ್ನು ತಲುಪಿದ್ದೇವೆ. ಎಸೆತದ ಗುಂಡಿನ ದ್ರವ್ಯರಾಶಿ ಸರಿಸುಮಾರು ಮೂರು ಪಾಯಿಂಟ್ ಎಂಟು ಐದು ಕಿಲೋಗ್ರಾಂ ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಮೊದಲು ಗೋಳದ ಘನಫಲವನ್ನು ಕಂಡುಹಿಡಿದು, ನಂತರ ಅದನ್ನು ಸಾಂದ್ರತೆಯೊಂದಿಗೆ ಗುಣಿಸಿ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಪಡೆದೆವು.",
+  "script_display": "ಹಾಗಾಗಿ, ಎಲ್ಲಾ ಹಂತಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ ನಂತರ, ನಾವು ಅಂತಿಮ ಉತ್ತರವನ್ನು ತಲುಪಿದ್ದೇವೆ. ಎಸೆತದ ಗುಂಡಿನ ದ್ರವ್ಯರಾಶಿ ಸರಿಸುಮಾರು $3.85 \\text{ kg}$ ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಮೊದಲು ಗೋಳದ ಘನಫಲವನ್ನು ಕಂಡುಹಿಡಿದು, ನಂತರ ಅದನ್ನು ಸಾಂದ್ರತೆಯೊಂದಿಗೆ ಗುಣಿಸಿ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಪಡೆದೆವು.",
+  "display_bullets": [
+    "ಎಸೆತದ ಗುಂಡಿನ ದ್ರವ್ಯರಾಶಿ ಸರಿಸುಮಾರು 3.85 kg ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ದ್ರವ್ಯರಾಶಿ} \\approx 3.85 \\text{ kg}",
+    "placeholder_note": "Final answer box"
+  },
+  "source_example_id": "MEN-VOL-3_example_5",
+  "steps": [],
+  "final_answer": "ಎಸೆತದ ಗುಂಡಿನ ದ್ರವ್ಯರಾಶಿ ಸರಿಸುಮಾರು 3.85 kg ಆಗಿದೆ.",
+  "final_answer_display": "ಎಸೆತದ ಗುಂಡಿನ ದ್ರವ್ಯರಾಶಿ ಸರಿಸುಮಾರು $3.85 \\text{ kg}$ ಆಗಿದೆ.",
+  "chunk_id": "MEN-VOL-3_concept_2_chunk_053"
+}

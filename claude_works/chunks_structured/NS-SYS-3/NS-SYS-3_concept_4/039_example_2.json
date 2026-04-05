@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಕರಣಿಗಳ ಗುಣಾಕಾರ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸಮಸ್ಯೆ, ಆರು ರೂಟ್ ಐದನ್ನು ಎರಡು ರೂಟ್ ಐದರಿಂದ ಗುಣಿಸಿ. ನಾವು ಈ ಎರಡು ಕರಣಿಗಳನ್ನು ಹೇಗೆ ಗುಣಿಸುವುದು ಎಂದು ನೋಡೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸಮಸ್ಯೆ, $6\\sqrt{5}$ ನ್ನು $2\\sqrt{5}$ ರಿಂದ ಗುಣಿಸಿ. ನಾವು ಈ ಎರಡು ಕರಣಿಗಳನ್ನು ಹೇಗೆ ಗುಣಿಸುವುದು ಎಂದು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $6\\sqrt{5}$ ನ್ನು $2\\sqrt{5}$ ರಿಂದ ಗುಣಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "6\\sqrt{5} \\times 2\\sqrt{5} = ?",
+    "placeholder_note": "The expression to be solved"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "NS-SYS-3_example_13",
+  "chunk_id": "NS-SYS-3_concept_4_chunk_039"
+}

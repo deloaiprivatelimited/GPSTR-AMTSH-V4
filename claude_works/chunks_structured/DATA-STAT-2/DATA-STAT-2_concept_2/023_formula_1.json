@@ -1,0 +1,37 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಅಂದಾಜು ಸರಾಸರಿ ವಿಧಾನ (Assumed Mean Method)",
+  "script": "ಈಗ, ಸರಾಸರಿಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಎರಡನೇ ವಿಧಾನವಾದ ಅಂದಾಜು ಸರಾಸರಿ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಈ ವಿಧಾನವನ್ನು ಎಕ್ಸ್ ಐ ಮತ್ತು ಎಫ್ ಐ ಗಳ ಮೌಲ್ಯಗಳು ದೊಡ್ಡದಾಗಿದ್ದಾಗ ಬಳಸಲಾಗುತ್ತದೆ, ಇದು ನೇರ ವಿಧಾನದಲ್ಲಿನ ಗುಣಾಕಾರವನ್ನು ಸರಳಗೊಳಿಸುತ್ತದೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: ಎಕ್ಸ್ ಬಾರ್ ಈಕ್ವಲ್ಸ್ ಎ ಪ್ಲಸ್ ಸಿಗ್ಮಾ ಎಫ್ ಐ ಡಿ ಐ ಬೈ ಸಿಗ್ಮಾ ಎಫ್ ಐ. ಇಲ್ಲಿ, ಎಕ್ಸ್ ಬಾರ್ ಎಂದರೆ ಸರಾಸರಿ. 'ಎ' ಎಂದರೆ ಅಂದಾಜು ಸರಾಸರಿ, ಇದನ್ನು ನಾವು ಸಾಮಾನ್ಯವಾಗಿ ಎಕ್ಸ್ ಐ ಮೌಲ್ಯಗಳ ಮಧ್ಯದಿಂದ ಆರಿಸಿಕೊಳ್ಳುತ್ತೇವೆ. ಡಿ ಐ ಎಂದರೆ ಪ್ರತಿ ಎಕ್ಸ್ ಐ ನ ವಿಚಲನೆ, ಅಂದರೆ ಡಿ ಐ ಈಕ್ವಲ್ಸ್ ಎಕ್ಸ್ ಐ ಮೈನಸ್ ಎ. ಎಫ್ ಐ ಎಂದರೆ ಪ್ರತಿ ವರ್ಗದ ಆವೃತ್ತಿ. ಮತ್ತು ಸಿಗ್ಮಾ ಎಫ್ ಐ ಎಂದರೆ ಒಟ್ಟು ಆವೃತ್ತಿಗಳ ಮೊತ್ತ.",
+  "script_display": "ಈಗ, ಸರಾಸರಿಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಎರಡನೇ ವಿಧಾನವಾದ ಅಂದಾಜು ಸರಾಸರಿ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಈ ವಿಧಾನವನ್ನು $x_i$ ಮತ್ತು $f_i$ ಗಳ ಮೌಲ್ಯಗಳು ದೊಡ್ಡದಾಗಿದ್ದಾಗ ಬಳಸಲಾಗುತ್ತದೆ, ಇದು ನೇರ ವಿಧಾನದಲ್ಲಿನ ಗುಣಾಕಾರವನ್ನು ಸರಳಗೊಳಿಸುತ್ತದೆ. ಸೂತ್ರವು ಹೀಗಿದೆ:",
+  "display_bullets": [
+    "$\\bar{x}$ = ಸರಾಸರಿ (Mean)",
+    "a = ಅಂದಾಜು ಸರಾಸರಿ (Assumed Mean)",
+    "$d_i$ = ವಿಚಲನೆ (Deviation) = $x_i - a$",
+    "$f_i$ = ಆವೃತ್ತಿ (Frequency)",
+    "$\\sum f_i$ = ಒಟ್ಟು ಆವೃತ್ತಿಗಳು (Total Frequency)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "classic_dark",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\bar{x} = a + \\frac{\\sum f_i d_i}{\\sum f_i}",
+    "placeholder_note": "Formula for Assumed Mean Method"
+  },
+  "chunk_id": "DATA-STAT-2_concept_2_chunk_023"
+}

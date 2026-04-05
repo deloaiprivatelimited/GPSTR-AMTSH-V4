@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್‌ನ ಅಯಾನೀಕರಣ",
+  "script": "ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅನ್ನು ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿದಾಗ, ಅದು ಸೋಡಿಯಂ ಅಯಾನುಗಳು ಮತ್ತು ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಯಾನುಗಳಾಗಿ ವಿಭಜನೆಯಾಗುತ್ತದೆ. ಇದರ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ: NaOH ಘನ ಸ್ಥಿತಿಯಲ್ಲಿ, ನೀರಿನ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ, Na ಪ್ಲಸ್ ಜಲೀಯ ಮತ್ತು OH ಮೈನಸ್ ಜಲೀಯ ಅಯಾನುಗಳನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅನ್ನು ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿದಾಗ, ಅದು ಸೋಡಿಯಂ ಅಯಾನುಗಳು (Na⁺) ಮತ್ತು ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಯಾನುಗಳಾಗಿ (OH⁻) ವಿಭಜನೆಯಾಗುತ್ತದೆ. ಇದರ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "NaOH(s) \\xrightarrow{H_2O} Na^+(aq) + OH^-(aq)",
+    "placeholder_note": "The chemical equation for the ionization of sodium hydroxide in water."
+  },
+  "chunk_id": "std_10_chapter_2_concept_5_chunk_014"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಒಂದು ಸರಳ ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಪುಸ್ತಕದ ನಮೂದಿತ ಬೆಲೆ, ಅಂದರೆ ಎಂ ಪಿ, 200 ರೂಪಾಯಿಗಳು ಎಂದು ಭಾವಿಸೋಣ. ಅಂಗಡಿಯವರು 30 ರೂಪಾಯಿಗಳ ರಿಯಾಯಿತಿ ನೀಡುತ್ತಾರೆ. ಹಾಗಾದರೆ, ಇಲ್ಲಿ ನಮೂದಿತ ಬೆಲೆ 200 ರೂಪಾಯಿ ಮತ್ತು ರಿಯಾಯಿತಿ 30 ರೂಪಾಯಿ. ಈ ರಿಯಾಯಿತಿಯು ನಮೂದಿತ ಬೆಲೆಯ ಮೇಲಿನ ಕಡಿತವಾಗಿದೆ. ಅಂದರೆ, 200 ರೂಪಾಯಿಗಳ ವಸ್ತುವಿಗೆ ನಾವು 30 ರೂಪಾಯಿ ಕಡಿಮೆ ಕೊಡುತ್ತೇವೆ. ನಾವು ಪಾವತಿಸಬೇಕಾದ ಅಂತಿಮ ಬೆಲೆಯು ನಮೂದಿತ ಬೆಲೆಗಿಂತ ಕಡಿಮೆಯಿರುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಪುಸ್ತಕದ ನಮೂದಿತ ಬೆಲೆ (MP) ₹200 ಎಂದು ಭಾವಿಸೋಣ. ಅಂಗಡಿಯವರು ₹30 ರಿಯಾಯಿತಿ ನೀಡುತ್ತಾರೆ. ಹಾಗಾದರೆ, ಇಲ್ಲಿ ನಮೂದಿತ ಬೆಲೆ ₹200 ಮತ್ತು ರಿಯಾಯಿತಿ ₹30. ಈ ರಿಯಾಯಿತಿಯು ನಮೂದಿತ ಬೆಲೆಯ ಮೇಲಿನ ಕಡಿತವಾಗಿದೆ. ಅಂದರೆ, ₹200 ವಸ್ತುವಿಗೆ ನಾವು ₹30 ಕಡಿಮೆ ಕೊಡುತ್ತೇವೆ. ನಾವು ಪಾವತಿಸಬೇಕಾದ ಅಂತಿಮ ಬೆಲೆಯು ನಮೂದಿತ ಬೆಲೆಗಿಂತ ಕಡಿಮೆಯಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಪುಸ್ತಕದ ನಮೂದಿತ ಬೆಲೆ (MP) = ₹200.",
+    "ಅಂಗಡಿಯವರು ನೀಡುವ ರಿಯಾಯಿತಿ (Discount) = ₹30.",
+    "ಇಲ್ಲಿ, ₹200 ರ ನಮೂದಿತ ಬೆಲೆಯ ಮೇಲೆ ₹30 ಕಡಿತವನ್ನು ನೀಡಲಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple graphic of a book. A price tag attached to it clearly shows 'MP: ₹200'. An arrow points away from the price tag, and next to the arrow, it says 'Discount: ₹30'. The visual should be clean and easy to understand.",
+    "labels": "Book, Marked Price, Discount amount",
+    "mathematical_significance": "Provides a concrete visual representation of the terms 'Marked Price' and 'Discount' using a simple numerical example.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "RPP-COMP-1_concept_4_chunk_009"
+}

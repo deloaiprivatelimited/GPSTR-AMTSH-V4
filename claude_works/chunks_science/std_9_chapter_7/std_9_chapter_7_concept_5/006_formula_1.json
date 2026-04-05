@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಲನೆಯ ಎರಡನೇ ಸಮೀಕರಣ: ಸ್ಥಾನ-ಕಾಲ ಸಂಬಂಧ",
+  "script": "ಈಗ ನಾವು ಚಲನೆಯ ಎರಡನೇ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ, ಇದನ್ನು ಸ್ಥಾನ-ಕಾಲ ಸಂಬಂಧ ಸಮೀಕರಣ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಸಮೀಕರಣವು ಎಸ್ ಈಕ್ವಲ್ಸ್ ಯು ಟಿ ಪ್ಲಸ್ ಹಾಫ್ ಎ ಟಿ ಸ್ಕ್ವೇರ್. ಈ ಸಮೀಕರಣವು ಒಂದು ವಸ್ತುವು ನಿರ್ದಿಷ್ಟ ಸಮಯದಲ್ಲಿ ಎಷ್ಟು ದೂರ ಚಲಿಸಿದೆ ಎಂಬುದನ್ನು ತಿಳಿಸುತ್ತದೆ. ಇಲ್ಲಿ, ಎಸ್ ಅಂದರೆ ವಸ್ತುವಿನ ಸ್ಥಾನಪಲ್ಲಟ ಅಥವಾ ಚಲಿಸಿದ ದೂರ. ಯು ಅಂದರೆ ವಸ್ತುವಿನ ಆರಂಭಿಕ ವೇಗ. ಎ ಅಂದರೆ ಏಕರೂಪ ವೇಗೋತ್ಕರ್ಷ. ಮತ್ತು ಟಿ ಅಂದರೆ ತೆಗೆದುಕೊಂಡ ಕಾಲ. ಒಂದು ವಸ್ತುವು ಏಕರೂಪ ವೇಗೋತ್ಕರ್ಷದೊಂದಿಗೆ ಚಲಿಸುತ್ತಿರುವಾಗ, ಅದರ ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಈ ಸಮೀಕರಣವು ಅತ್ಯಂತ ಉಪಯುಕ್ತವಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಚಲನೆಯ ಎರಡನೇ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ, ಇದನ್ನು ಸ್ಥಾನ-ಕಾಲ ಸಂಬಂಧ ಸಮೀಕರಣ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಸಮೀಕರಣವು $s = ut + \\frac{1}{2}at^2$. ಈ ಸಮೀಕರಣವು ಒಂದು ವಸ್ತುವು ನಿರ್ದಿಷ್ಟ ಸಮಯದಲ್ಲಿ ಎಷ್ಟು ದೂರ ಚಲಿಸಿದೆ ಎಂಬುದನ್ನು ತಿಳಿಸುತ್ತದೆ. ಇಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಅಕ್ಷರಕ್ಕೂ ಒಂದು ನಿರ್ದಿಷ್ಟ ಅರ್ಥವಿದೆ:",
+  "display_bullets": [
+    "s = ಸ್ಥಾನಪಲ್ಲಟ ಅಥವಾ ದೂರ (Displacement or Distance)",
+    "u = ಆರಂಭಿಕ ವೇಗ (Initial Velocity)",
+    "a = ಏಕರೂಪ ವೇಗೋತ್ಕರ್ಷ (Uniform Acceleration)",
+    "t = ಕಾಲ (Time)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "physics_dark_blue",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "s = ut + \\frac{1}{2}at^2",
+    "placeholder_note": "Formula for position-time relation"
+  },
+  "chunk_id": "std_9_chapter_7_concept_5_chunk_006"
+}

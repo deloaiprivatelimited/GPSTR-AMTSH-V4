@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ನಾವು ಪರಿಹಾರವನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಕೊಟ್ಟಿರುವ ವರ್ಗ ಸಮೀಕರಣದ ಮೂಲಗಳು ಸಮನಾಗಿವೆ, ಮತ್ತು ಆ ಮೂಲಗಳು ಎಕ್ಸ್ ಈಕ್ವಲ್ಸ್ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಎರಡು ಬೈ ಮೂರು. ಇದರರ್ಥ, ಈ ಸಮೀಕರಣವು ಎರಡು ಸಮಾನವಾದ ವಾಸ್ತವ ಮೂಲಗಳನ್ನು ಹೊಂದಿದೆ. ಕರಣಿಗಳನ್ನು, ಅಂದರೆ ಇಂತಹ ರೂಟ್ ಸಂಖ್ಯೆಗಳನ್ನು ನೋಡಿದಾಗ, ಗೊಂದಲ ಪಡಬೇಡಿ. ಮಧ್ಯಪದವನ್ನು ವಿಭಜಿಸುವ ನಿಯಮಗಳನ್ನು ಸರಿಯಾಗಿ ಪಾಲಿಸಿದರೆ, ಉತ್ತರ ಸುಲಭವಾಗಿ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ನಾವು ಪರಿಹಾರವನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಕೊಟ್ಟಿರುವ ವರ್ಗ ಸಮೀಕರಣದ ಮೂಲಗಳು ಸಮನಾಗಿವೆ, ಮತ್ತು ಆ ಮೂಲಗಳು $x = \\sqrt{\\frac{2}{3}}$. ಇದರರ್ಥ, ಈ ಸಮೀಕರಣವು ಎರಡು ಸಮಾನವಾದ ವಾಸ್ತವ ಮೂಲಗಳನ್ನು ಹೊಂದಿದೆ. ಕರಣಿಗಳನ್ನು (surds) ನೋಡಿದಾಗ, ಗೊಂದಲ ಪಡಬೇಡಿ. ಮಧ್ಯಪದವನ್ನು ವಿಭಜಿಸುವ ನಿಯಮಗಳನ್ನು ಸರಿಯಾಗಿ ಪಾಲಿಸಿದರೆ, ಉತ್ತರ ಸುಲಭವಾಗಿ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಮೀಕರಣದ ಮೂಲಗಳು: $x = \\sqrt{\\frac{2}{3}}$ ಮತ್ತು $x = \\sqrt{\\frac{2}{3}}$",
+    "ಮೂಲಗಳು ವಾಸ್ತವ ಮತ್ತು ಸಮನಾಗಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x = \\sqrt{\\frac{2}{3}}",
+    "placeholder_note": "Display the final answer in a highlighted box."
+  },
+  "source_example_id": "ALG-QUAD-4_example_5",
+  "final_answer": "x = sqrt(2/3)",
+  "final_answer_display": "$x = \\sqrt{\\frac{2}{3}}$",
+  "chunk_id": "ALG-QUAD-4_concept_2_chunk_019"
+}

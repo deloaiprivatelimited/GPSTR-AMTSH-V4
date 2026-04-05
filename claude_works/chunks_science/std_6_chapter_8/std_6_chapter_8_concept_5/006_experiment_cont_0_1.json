@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಮಾಡುವ ವಿಧಾನ",
+  "script": "ಈಗ ನಾವು ಶೈತ್ಯಕವನ್ನು ನಿರ್ಮಿಸೋಣ. ಮೊದಲನೇ ಹಂತ, ಒಂದು ದೊಡ್ಡ ಮಡಕೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ತಳದಲ್ಲಿ ಸಮತಟ್ಟಾದ ಜಾಗದಲ್ಲಿ ಇಡಿ. ನಂತರ, ಅದರೊಳಗೆ ಚಿಕ್ಕ ಮಡಕೆಯನ್ನು ನಿಖರವಾಗಿ ಮಧ್ಯದಲ್ಲಿ ಇಡಬೇಕು. ಎರಡೂ ಮಡಕೆಗಳ ಬಾಯಿಗಳು ಒಂದೇ ಮಟ್ಟದಲ್ಲಿರಬೇಕು ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಎರಡನೇ ಹಂತ, ಈ ಎರಡು ಮಡಕೆಗಳ ನಡುವೆ ಉಂಟಾದ ಖಾಲಿ ಜಾಗವನ್ನು ನಾವು ಸಂಪೂರ್ಣವಾಗಿ ಮರಳಿನಿಂದ ತುಂಬಿಸಬೇಕು. ಮರಳನ್ನು ನಿಧಾನವಾಗಿ ಸುರಿಯುತ್ತಾ, ಅದು ಎಲ್ಲಾ ಕಡೆ ಸಮನಾಗಿ ಹರಡುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಈ ಮರಳಿನ ಪದರವು ನಮ್ಮ ಶೈತ್ಯಕದ ಪ್ರಮುಖ ಭಾಗವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಶೈತ್ಯಕವನ್ನು ನಿರ್ಮಿಸೋಣ. ಮೊದಲನೇ ಹಂತ, ಒಂದು ದೊಡ್ಡ ಮಡಕೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ತಳದಲ್ಲಿ ಸಮತಟ್ಟಾದ ಜಾಗದಲ್ಲಿ ಇಡಿ. ನಂತರ, ಅದರೊಳಗೆ ಚಿಕ್ಕ ಮಡಕೆಯನ್ನು ನಿಖರವಾಗಿ ಮಧ್ಯದಲ್ಲಿ ಇಡಬೇಕು. ಎರಡೂ ಮಡಕೆಗಳ ಬಾಯಿಗಳು ಒಂದೇ ಮಟ್ಟದಲ್ಲಿರಬೇಕು ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಎರಡನೇ ಹಂತ, ಈ ಎರಡು ಮಡಕೆಗಳ ನಡುವೆ ಉಂಟಾದ ಖಾಲಿ ಜಾಗವನ್ನು ನಾವು ಸಂಪೂರ್ಣವಾಗಿ ಮರಳಿನಿಂದ ತುಂಬಿಸಬೇಕು. ಮರಳನ್ನು ನಿಧಾನವಾಗಿ ಸುರಿಯುತ್ತಾ, ಅದು ಎಲ್ಲಾ ಕಡೆ ಸಮನಾಗಿ ಹರಡುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಈ ಮರಳಿನ ಪದರವು ನಮ್ಮ ಶೈತ್ಯಕದ ಪ್ರಮುಖ ಭಾಗವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "1. ಒಂದು ದೊಡ್ಡ ಮಡಕೆಯೊಳಗೆ ಒಂದು ಚಿಕ್ಕ ಮಡಕೆಯನ್ನು ಇಡಿ.",
+    "2. ಎರಡರ ನಡುವಿನ ಜಾಗವನ್ನು ಮರಳಿನಿಂದ ತುಂಬಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-panel diagram. Panel 1 shows a smaller clay pot being placed inside a larger clay pot. Panel 2 shows sand being poured into the gap between the two pots.",
+    "labels": "ಹಂತ 1, ಹಂತ 2",
+    "scientific_significance": "Visualizes the construction process, emphasizing the creation of a porous medium (sand) between the two pots, which is crucial for holding water.",
+    "placeholder_note": "Image to be generated showing the first two steps of the procedure."
+  },
+  "sub_type": "procedure",
+  "chunk_id": "std_6_chapter_8_concept_5_chunk_006"
+}

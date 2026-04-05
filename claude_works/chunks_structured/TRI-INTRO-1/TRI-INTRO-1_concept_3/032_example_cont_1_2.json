@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ ಹಂತವಾದ ಪರಿಹಾರ (ಭಾಗ 2)",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಅಂಶ ಮತ್ತು ಛೇದಗಳನ್ನು ಗುಣಿಸುತ್ತೇವೆ. ಅಂಶದಲ್ಲಿ, ನಮಗೆ ಒಂದು ಮೈನಸ್ ಸೈನ್ ಎ ಇಂಟು ಒಂದು ಪ್ಲಸ್ ಸೈನ್ ಎ ಇದೆ. ಇದು ಎ ಮೈನಸ್ ಬಿ ಇಂಟು ಎ ಪ್ಲಸ್ ಬಿ ರೂಪದಲ್ಲಿದೆ, ಇದರ ಉತ್ತರ ಎ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಬಿ ಸ್ಕ್ವೇರ್ಡ್. ಹಾಗಾಗಿ ಇದು ಒಂದು ಮೈನಸ್ ಸೈನ್ ಸ್ಕ್ವೇರ್ಡ್ ಎ ಆಗುತ್ತದೆ. ಛೇದದಲ್ಲಿ ಕಾಸ್ ಎ ಇಂಟು ಕಾಸ್ ಎ, ಕಾಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಎ ಆಗುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಮೂಲ ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸುತ್ತೇವೆ, ಅಂದರೆ ಸೈನ್ ಸ್ಕ್ವೇರ್ಡ್ ಎ ಪ್ಲಸ್ ಕಾಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಎ ಈಕ್ವಲ್ಸ್ ಒಂದು. ಇದರಿಂದ, ಒಂದು ಮೈನಸ್ ಸೈನ್ ಸ್ಕ್ವೇರ್ಡ್ ಎ ಈಕ್ವಲ್ಸ್ ಕಾಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಎ ಎಂದು ಬರೆಯಬಹುದು. ಇದನ್ನು ಅಂಶದಲ್ಲಿ ಬದಲಾಯಿಸಿದಾಗ, ನಮಗೆ ಕಾಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಎ ಬೈ ಕಾಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಎ ಸಿಗುತ್ತದೆ, ಇದು ಒಂದಕ್ಕೆ ಸಮ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಅಂಶ ಮತ್ತು ಛೇದಗಳನ್ನು ಗುಣಿಸುತ್ತೇವೆ. ಅಂಶದಲ್ಲಿ, ನಮಗೆ $(1 - \\sin A)(1 + \\sin A)$ ಇದೆ, ಇದು $1 - \\sin^2 A$ ಆಗುತ್ತದೆ. ಛೇದದಲ್ಲಿ $\\cos A \\cdot \\cos A = \\cos^2 A$ ಆಗುತ್ತದೆ. ಸಮೀಕರಣವು $\\frac{1 - \\sin^2 A}{\\cos^2 A}$ ಆಗುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಮೂಲ ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣ $\\sin^2 A + \\cos^2 A = 1$ ಅನ್ನು ಬಳಸುತ್ತೇವೆ. ಇದರಿಂದ, $1 - \\sin^2 A = \\cos^2 A$ ಎಂದು ಬರೆಯಬಹುದು. ಇದನ್ನು ಅಂಶದಲ್ಲಿ ಬದಲಾಯಿಸಿದಾಗ, ನಮಗೆ $\\frac{\\cos^2 A}{\\cos^2 A}$ ಸಿಗುತ್ತದೆ, ಇದು $1$ಕ್ಕೆ ಸಮ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_2_steps",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "TRI-INTRO-1_example_10",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "LHS = $\\frac{(1 - \\sin A)(1 + \\sin A)}{\\cos A \\cdot \\cos A} = \\frac{1 - \\sin^2 A}{\\cos^2 A}$",
+      "justification": "ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ಸೇರಿಸುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "LHS = $\\frac{\\cos^2 A}{\\cos^2 A} = 1$",
+      "justification": "$\\sin^2 A + \\cos^2 A = 1 \\implies 1 - \\sin^2 A = \\cos^2 A$"
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_032"
+}

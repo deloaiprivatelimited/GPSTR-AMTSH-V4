@@ -1,0 +1,55 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಭಾಗ (i)",
+  "script": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲು, ನಾವು ತ್ರಿಭುಜ AOB ಮತ್ತು ತ್ರಿಭುಜ DOC ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ಈ ಎರಡು ತ್ರಿಭುಜಗಳಲ್ಲಿ ಸಮನಾದ ಭಾಗಗಳನ್ನು ಗುರುತಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, AB ಯು CD ಗೆ ಸಮಾಂತರವಾಗಿರುವುದರಿಂದ ಮತ್ತು AD ಛೇದಕವಾಗಿರುವುದರಿಂದ, ಕೋನ OAB ಯು ಕೋನ ODC ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಇವು ಪರ್ಯಾಯ ಆಂತರಿಕ ಕೋನಗಳು. ಎರಡನೇ ಹಂತದಲ್ಲಿ, O ಎಂಬುದು AD ಯ ಮಧ್ಯಬಿಂದು ಎಂದು ನಮಗೆ ನೀಡಲಾಗಿದೆ, ಅಂದರೆ OA ಬಾಹುವಿನ ಉದ್ದವು OD ಬಾಹುವಿನ ಉದ್ದಕ್ಕೆ ಸಮ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಕೋನ AOB ಮತ್ತು ಕೋನ DOC ಗಳು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ, ಆದ್ದರಿಂದ ಅವು ಸಮವಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲು, ನಾವು $\\triangle AOB$ ಮತ್ತು $\\triangle DOC$ ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ಈ ಎರಡು ತ್ರಿಭುಜಗಳಲ್ಲಿ ಸಮನಾದ ಭಾಗಗಳನ್ನು ಗುರುತಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, $AB || CD$ ಮತ್ತು AD ಛೇದಕವಾಗಿರುವುದರಿಂದ, $\\angle OAB = \\angle ODC$. ಇವು ಪರ್ಯಾಯ ಆಂತರಿಕ ಕೋನಗಳು. ಎರಡನೇ ಹಂತದಲ್ಲಿ, O ಎಂಬುದು AD ಯ ಮಧ್ಯಬಿಂದು ಎಂದು ನಮಗೆ ನೀಡಲಾಗಿದೆ, ಅಂದರೆ $OA = OD$. ಮೂರನೇ ಹಂತದಲ್ಲಿ, $\\angle AOB$ ಮತ್ತು $\\angle DOC$ ಗಳು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ, ಆದ್ದರಿಂದ ಅವು ಸಮವಾಗಿರುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ರೇಖೆಗಳು AB ಮತ್ತು CD ಸಮಾಂತರವಾಗಿವೆ. AD ಮತ್ತು BC ರೇಖಾಖಂಡಗಳು O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. O ಬಿಂದುವು AD ಯ ಮಧ್ಯಬಿಂದುವಾಗಿದೆ. ಕೋನ OAB ಮತ್ತು ಕೋನ ODC ಗಳು ಪರ್ಯಾಯ ಕೋನಗಳಾಗಿವೆ. ಕೋನ AOB ಮತ್ತು ಕೋನ DOC ಗಳು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ. ಹಂತಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ಕೋನಗಳು ಮತ್ತು ಬಾಹುಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಸಮಾಂತರ ರೇಖೆಗಳು, ಛೇದಕ ರೇಖೆ, ಪರ್ಯಾಯ ಕೋನಗಳು, ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಮತ್ತು ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆಯ (ASA) ಪರಿಕಲ್ಪನೆಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated based on the description, corresponding to figure 7.15 in the textbook. Highlight the parts as they are discussed."
+  },
+  "source_example_id": "GEO-TRI-2_example_3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\triangle AOB$ ಮತ್ತು $\\triangle DOC$ ಗಳಲ್ಲಿ,",
+      "justification": "ಸರ್ವಸಮತೆಯನ್ನು ಸಾಧಿಸಲು ತ್ರಿಭುಜಗಳ ಆಯ್ಕೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\angle OAB = \\angle ODC$ (ಕೋನ)",
+      "justification": "ಪರ್ಯಾಯ ಆಂತರಿಕ ಕೋನಗಳು, ಏಕೆಂದರೆ $AB || CD$."
+    },
+    {
+      "step": 3,
+      "action_display": "$OA = OD$ (ಬಾಹು)",
+      "justification": "ದತ್ತಾಂಶ, O ಎಂಬುದು AD ಯ ಮಧ್ಯಬಿಂದು."
+    },
+    {
+      "step": 4,
+      "action_display": "$\\angle AOB = \\angle DOC$ (ಕೋನ)",
+      "justification": "ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು."
+    }
+  ],
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_056"
+}

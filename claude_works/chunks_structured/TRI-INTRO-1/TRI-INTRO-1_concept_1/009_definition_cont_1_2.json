@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಕೋಟಿ ಜ್ಯಾ (cosine): ಉದಾಹರಣೆ",
+  "script": "ಈಗ ನಮ್ಮ ಹಿಂದಿನ ತ್ರಿಭುಜ ABC ಯ ಉದಾಹರಣೆಗೆ ಹಿಂತಿರುಗೋಣ. ಇದರಲ್ಲಿ ಕೋನ B ಯು 90 ಡಿಗ್ರಿ. ನಾವು ಕೋನ A ಯ cosine ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, cos A equals ಪಾರ್ಶ್ವ ಬಾಹು by ವಿಕರ್ಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಕೋನ A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು ಯಾವುದು? ಅದು ಬಾಹು AB. ಮತ್ತು ತ್ರಿಭುಜದ ಅತಿ ಉದ್ದದ ಬಾಹು, ಅಂದರೆ ವಿಕರ್ಣವು AC ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಈ ನಿರ್ದಿಷ್ಟ ತ್ರಿಭುಜದಲ್ಲಿ, cos A ಯ ಮೌಲ್ಯವು AB ಯ ಉದ್ದವನ್ನು AC ಯ ಉದ್ದದಿಂದ ಭಾಗಿಸಿದಾಗ ಸಿಗುತ್ತದೆ. ಅಂದರೆ, cos A equals AB by AC.",
+  "script_display": "ಈಗ ನಮ್ಮ ಹಿಂದಿನ ತ್ರಿಭುಜ ABC ಯ ಉದಾಹರಣೆಗೆ ಹಿಂತಿರುಗೋಣ. ಇದರಲ್ಲಿ $\\angle B = 90^\\circ$. ನಾವು ಕೋನ A ಯ cosine ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, $\\cos A = \\frac{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}}$. ಈ ಚಿತ್ರದಲ್ಲಿ, ಕೋನ A ಗೆ ಪಾರ್ಶ್ವ ಬಾಹು ಯಾವುದು? ಅದು ಬಾಹು AB. ಮತ್ತು ತ್ರಿಭುಜದ ಅತಿ ಉದ್ದದ ಬಾಹು, ಅಂದರೆ ವಿಕರ್ಣವು AC ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಈ ನಿರ್ದಿಷ್ಟ ತ್ರಿಭುಜದಲ್ಲಿ, $\\cos A$ ಯ ಮೌಲ್ಯವು AB ಯ ಉದ್ದವನ್ನು AC ಯ ಉದ್ದದಿಂದ ಭಾಗಿಸಿದಾಗ ಸಿಗುತ್ತದೆ. ಅಂದರೆ, $\\cos A = \\frac{AB}{AC}$.",
+  "display_bullets": [
+    "ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\\angle B = 90^\\circ$.",
+    "A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು = AB.",
+    "ವಿಕರ್ಣ = AC.",
+    "ಆದ್ದರಿಂದ, $\\cos A = \\frac{AB}{AC}$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC, B ಯಲ್ಲಿ ಲಂಬಕೋನ. ಕೋನ A ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಬಾಹುಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. AB ಮತ್ತು AC ಬಾಹುಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C. AB: ಪಾರ್ಶ್ವ ಬಾಹು, AC: ವಿಕರ್ಣ.",
+    "mathematical_significance": "ವ್ಯಾಖ್ಯಾನವನ್ನು ಒಂದು ನಿರ್ದಿಷ್ಟ ರೇಖಾಚಿತ್ರಕ್ಕೆ ಅನ್ವಯಿಸುವುದು.",
+    "placeholder_note": "Image to be generated based on visual_aids_in_module item 1."
+  },
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_009"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಸರಳಯುಗ್ಮ: ವ್ಯಾಖ್ಯೆ",
+  "script": "ಸರಳಯುಗ್ಮದ ನಿಖರವಾದ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಜೊತೆ ಪಾರ್ಶ್ವ ಕೋನಗಳ ಸಾಮಾನ್ಯವಲ್ಲದ ಬಾಹುಗಳು ಪರಸ್ಪರ ವಿರುದ್ಧ ಕಿರಣಗಳಾಗಿದ್ದರೆ, ಅಂತಹ ಕೋನಗಳ ಜೋಡಿಯನ್ನು ಸರಳಯುಗ್ಮ ಎನ್ನುತ್ತೇವೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಎರಡು ಪಾರ್ಶ್ವ ಕೋನಗಳು ಒಟ್ಟಾಗಿ ಒಂದು ಸರಳ ರೇಖೆಯನ್ನು ರೂಪಿಸಿದರೆ, ಅವು ಸರಳಯುಗ್ಮವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಕೋನ ಒಂದು ಮತ್ತು ಕೋನ ಎರಡು ಪಾರ್ಶ್ವ ಕೋನಗಳು. ಅವುಗಳ ಸಾಮಾನ್ಯವಲ್ಲದ ಬಾಹುಗಳು, ಅಂದರೆ ಹೊರಗಿನ ಬಾಹುಗಳು, ಸೇರಿ ಒಂದು ನೇರ ರೇಖೆಯನ್ನು ರೂಪಿಸುತ್ತವೆ. ಆದ್ದರಿಂದ, ಇವು ಸರಳಯುಗ್ಮದ ಕೋನಗಳಾಗಿವೆ.",
+  "script_display": "ಸರಳಯುಗ್ಮದ ನಿಖರವಾದ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಜೊತೆ ಪಾರ್ಶ್ವ ಕೋನಗಳ ಸಾಮಾನ್ಯವಲ್ಲದ ಬಾಹುಗಳು ಪರಸ್ಪರ ವಿರುದ್ಧ ಕಿರಣಗಳಾಗಿದ್ದರೆ, ಅಂತಹ ಕೋನಗಳ ಜೋಡಿಯನ್ನು ಸರಳಯುಗ್ಮ ಎನ್ನುತ್ತೇವೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಎರಡು ಪಾರ್ಶ್ವ ಕೋನಗಳು ಒಟ್ಟಾಗಿ ಒಂದು ಸರಳ ರೇಖೆಯನ್ನು ರೂಪಿಸಿದರೆ, ಅವು ಸರಳಯುಗ್ಮವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, $\\angle 1$ ಮತ್ತು $\\angle 2$ ಪಾರ್ಶ್ವ ಕೋನಗಳು. ಅವುಗಳ ಸಾಮಾನ್ಯವಲ್ಲದ ಬಾಹುಗಳು, ಅಂದರೆ ಹೊರಗಿನ ಬಾಹುಗಳು, ಸೇರಿ ಒಂದು ನೇರ ರೇಖೆಯನ್ನು ರೂಪಿಸುತ್ತವೆ. ಆದ್ದರಿಂದ, ಇವು ಸರಳಯುಗ್ಮದ ಕೋನಗಳಾಗಿವೆ.",
+  "display_bullets": [
+    "ಒಂದು ಜೊತೆ ಪಾರ್ಶ್ವ ಕೋನಗಳು.",
+    "ಸಾಮಾನ್ಯವಲ್ಲದ ಬಾಹುಗಳು ವಿರುದ್ಧ ಕಿರಣಗಳಾಗಿರುತ್ತವೆ (ಸರಳ ರೇಖೆಯನ್ನು ರೂಪಿಸುತ್ತವೆ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A straight line AB with a point O on it. A ray OC stands on the line, forming two adjacent angles, angle AOC and angle BOC. Angle 1 (AOC) and Angle 2 (BOC) are highlighted. The non-common arms OA and OB form the straight line AB.",
+    "labels": "A, B, C, O, Angle 1, Angle 2",
+    "mathematical_significance": "Illustrates the definition of a linear pair of angles. It shows two adjacent angles whose non-common sides are opposite rays.",
+    "placeholder_note": "Image to be generated for linear pair definition."
+  },
+  "chunk_id": "GEO-LA-1_concept_3_chunk_018"
+}

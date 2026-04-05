@@ -1,0 +1,145 @@
+{
+  "module_id": "std_10_chapter_10_concept_3",
+  "chapter_code": "std_10_chapter_10",
+  "voice": "Kore",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 12,
+  "total_duration": 586.812,
+  "total_duration_formatted": "9:46",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_10_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ದೃಷ್ಟಿ ದೋಷಗಳು ಮತ್ತು ಅವುಗಳ ಸರಿಪಡಿಸುವಿಕೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 51.211,
+      "duration": 51.211,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisite",
+      "start": 51.811,
+      "end": 92.062,
+      "duration": 40.251,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_3_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ದೃಷ್ಟಿ ದೋಷಗಳು: ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 92.662,
+      "end": 139.353,
+      "duration": 46.691,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_3_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಸಮೀಪದೃಷ್ಟಿ (Myopia)",
+      "type": "concept_explanation",
+      "start": 139.953,
+      "end": 188.564,
+      "duration": 48.611,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_3_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ದೂರದೃಷ್ಟಿ (Hypermetropia)",
+      "type": "concept_explanation",
+      "start": 189.164,
+      "end": 241.135,
+      "duration": 51.971,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_3_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಪ್ರಿಸ್‌ಬಯೋಪಿಯಾ (Presbyopia)",
+      "type": "concept_explanation",
+      "start": 241.735,
+      "end": 287.826,
+      "duration": 46.091,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_3_chunk_007",
+      "chunk_file": "007_classification_cont_0_4.json",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "slide_title": "ಕಣ್ಣಿನ ಪೊರೆ (Cataract)",
+      "type": "concept_explanation",
+      "start": 288.426,
+      "end": 331.117,
+      "duration": 42.691,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_3_chunk_008",
+      "chunk_file": "008_example_0.json",
+      "wav_file": "008_example_0.wav",
+      "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಸಮೀಪದೃಷ್ಟಿ ದೋಷ",
+      "type": "worked_example",
+      "start": 331.717,
+      "end": 385.088,
+      "duration": 53.371,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_3_chunk_009",
+      "chunk_file": "009_example_cont_0_1.json",
+      "wav_file": "009_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "start": 385.688,
+      "end": 439.579,
+      "duration": 53.891,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_3_chunk_010",
+      "chunk_file": "010_example_cont_0_2.json",
+      "wav_file": "010_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+      "type": "worked_example",
+      "start": 440.179,
+      "end": 504.11,
+      "duration": 63.931,
+      "script_words": 86
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_3_chunk_011",
+      "chunk_file": "011_example_cont_0_3.json",
+      "wav_file": "011_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "start": 504.71,
+      "end": 552.041,
+      "duration": 47.331,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_3_chunk_012",
+      "chunk_file": "012_recap_0.json",
+      "wav_file": "012_recap_0.wav",
+      "slide_title": "ದೃಷ್ಟಿ ದೋಷಗಳು: ಒಂದು ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 552.641,
+      "end": 586.212,
+      "duration": 33.571,
+      "script_words": 45
+    }
+  ]
+}

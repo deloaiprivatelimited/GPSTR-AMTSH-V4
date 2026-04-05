@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ತೀರ್ಮಾನ ಮತ್ತು ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಕೊನೆಯದಾಗಿ, ನಾವು ಸಾಧಿಸಿದ್ದೇವೆ, ಕೋನ ಎ ಬಿ ಕ್ಯೂ ಸಮ ಕೋನ ಬಿ ಸಿ ಎಸ್. ಈಗ ಮೂಲ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಈ ಎರಡು ಕೋನಗಳು, ಅಂದರೆ ಕೋನ ಎ ಬಿ ಕ್ಯೂ ಮತ್ತು ಕೋನ ಬಿ ಸಿ ಎಸ್, ಪಿ ಕ್ಯೂ ಮತ್ತು ಆರ್ ಎಸ್ ರೇಖೆಗಳನ್ನು ಎ ಡಿ ಛೇದಕವು ಕತ್ತರಿಸಿದಾಗ ಉಂಟಾಗುವ ಅನುರೂಪ ಕೋನಗಳಾಗಿವೆ. ಅನುರೂಪ ಕೋನಗಳ ಆಧಾರ ಪ್ರತಿಜ್ಞೆಯ ವಿಲೋಮದ ಪ್ರಕಾರ, ಒಂದು ಜೊತೆ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿದ್ದರೆ, ಆ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರಬೇಕು. ಆದ್ದರಿಂದ, ನಾವು ಪಿ ಕ್ಯೂ ರೇಖೆಯು ಆರ್ ಎಸ್ ರೇಖೆಗೆ ಸಮಾಂತರವಾಗಿದೆ ಎಂದು ಖಚಿತವಾಗಿ ಹೇಳಬಹುದು. ಹೀಗೆ ನಾವು ಈ ಹೇಳಿಕೆಯನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ನಾವು ಸಾಧಿಸಿದ್ದೇವೆ, $\\angle ABQ = \\angle BCS$. ಈಗ ಮೂಲ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಈ ಎರಡು ಕೋನಗಳು, ಅಂದರೆ $\\angle ABQ$ ಮತ್ತು $\\angle BCS$, PQ ಮತ್ತು RS ರೇಖೆಗಳನ್ನು AD ಛೇದಕವು ಕತ್ತರಿಸಿದಾಗ ಉಂಟಾಗುವ ಅನುರೂಪ ಕೋನಗಳಾಗಿವೆ. ಅನುರೂಪ ಕೋನಗಳ ಆಧಾರ ಪ್ರತಿಜ್ಞೆಯ ವಿಲೋಮದ ಪ್ರಕಾರ, ಒಂದು ಜೊತೆ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿದ್ದರೆ, ಆ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರಬೇಕು. ಆದ್ದರಿಂದ, ನಾವು PQ ರೇಖೆಯು RS ರೇಖೆಗೆ ಸಮಾಂತರವಾಗಿದೆ ಎಂದು ಖಚಿತವಾಗಿ ಹೇಳಬಹುದು. ಹೀಗೆ ನಾವು ಈ ಹೇಳಿಕೆಯನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ನಾವು $\\angle ABQ = \\angle BCS$ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ.",
+    "ಇವು PQ ಮತ್ತು RS ರೇಖೆಗಳಿಗೆ AD ಛೇದಕದಿಂದ ಉಂಟಾದ ಅನುರೂಪ ಕೋನಗಳಾಗಿವೆ.",
+    "ಅನುರೂಪ ಕೋನಗಳ ಆಧಾರ ಪ್ರತಿಜ್ಞೆಯ ವಿಲೋಮದ ಪ್ರಕಾರ, $PQ \\parallel RS$."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "PQ \\parallel RS",
+    "placeholder_note": "Final answer box showing PQ is parallel to RS."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "advanced",
+  "source_example_id": "GEO-LA-2_example_5",
+  "final_answer": "$PQ \\parallel RS$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "$PQ \\parallel RS$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "chunk_id": "GEO-LA-2_concept_3_chunk_040"
+}

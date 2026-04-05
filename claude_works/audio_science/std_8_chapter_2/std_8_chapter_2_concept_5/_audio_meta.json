@@ -1,0 +1,147 @@
+{
+  "module_id": "std_8_chapter_2_concept_5",
+  "chapter_code": "std_8_chapter_2",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:49:26",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "18359e9b49b814ea1265d3c58a024d0e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.291,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 43,
+      "generated_at": "2026-04-02 14:47:19"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "03ab722207f82a37291fbebf1d9378ad",
+      "wav_file": "003_definition_0.wav",
+      "duration": 46.491,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ರೋಗಕಾರಕ ಜೀವಿಗಳು (Pathogens)",
+      "type": "definition",
+      "script_words": 50,
+      "generated_at": "2026-04-02 14:47:28"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "d40ca4343f9d7905fd9827954d4bd296",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 42.851,
+      "slide_title": "ಹೋಲಿಕೆ: ರೋಗಕಾರಕ vs ರೋಗಕಾರಕವಲ್ಲದ ಜೀವಿ",
+      "type": "definition",
+      "script_words": 52,
+      "generated_at": "2026-04-02 14:47:35"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "f6fa15ede49f815d6499095c35de0d49",
+      "wav_file": "001_intro_0.wav",
+      "duration": 67.651,
+      "slide_title": "ಹಾನಿಕರ ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ಮತ್ತು ರೋಗಗಳು",
+      "type": "chunk",
+      "script_words": 93,
+      "generated_at": "2026-04-02 14:47:44"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "f112a060038ec29a6e208b614223eecc",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 35.731,
+      "slide_title": "ಉದಾಹರಣೆ: ಕ್ಷಯ ರೋಗದ ರೋಗಕಾರಕ",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 14:47:49"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "d0c5439e15eead4b93e119c5d6a2d4b9",
+      "wav_file": "006_definition_1.wav",
+      "duration": 41.331,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಸಂಪರ್ಕದಿಂದ ಹರಡುವ ರೋಗಗಳು",
+      "type": "definition",
+      "script_words": 49,
+      "generated_at": "2026-04-02 14:48:25"
+    },
+    "010_definition_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "d4a7bc3f5068e0e2657a49f7251495af",
+      "wav_file": "010_definition_cont_2_1.wav",
+      "duration": 41.571,
+      "slide_title": "ಉದಾಹರಣೆ: ನೊಣ ಒಂದು ವಾಹಕ",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 14:48:30"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "8cf72154cf30eeb3253ed6e4173f5a81",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 50.931,
+      "slide_title": "ರೋಗಗಳು ಹೇಗೆ ಹರಡುತ್ತವೆ?",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 14:48:31"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "0593e02dbbf085c07b0e6b6bf7a86001",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 53.891,
+      "slide_title": "ಹೋಲಿಕೆ: ಹರಡುವ ಮತ್ತು ಹರಡದ ರೋಗಗಳು",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-04-02 14:48:33"
+    },
+    "009_definition_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "8a3dc0a4f90ba240bdcad92ca360b8e5",
+      "wav_file": "009_definition_2.wav",
+      "duration": 47.371,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ವಾಹಕಗಳು (Carriers)",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 14:48:59"
+    },
+    "011_definition_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "365b0b9800a2e3fe1838c48173a2b58c",
+      "wav_file": "011_definition_cont_2_2.wav",
+      "duration": 37.891,
+      "slide_title": "ಪ್ರಮುಖ ವಾಹಕಗಳು: ಸೊಳ್ಳೆಗಳು",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 14:49:23"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "3c959589017474563ec1e32c89109ca0",
+      "wav_file": "012_recap_0.wav",
+      "duration": 43.371,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 49,
+      "generated_at": "2026-04-02 14:49:26"
+    }
+  }
+}

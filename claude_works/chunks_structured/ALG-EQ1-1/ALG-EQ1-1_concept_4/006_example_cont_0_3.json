@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ನಾವು ಹುಡುಕುತ್ತಿದ್ದ ಸಂಖ್ಯೆ 7. ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸೋಣ. ಸಂಖ್ಯೆ 7 ರ ಮೂರರಷ್ಟು 21. 21 ಕ್ಕೆ 11 ನ್ನು ಕೂಡಿದರೆ 32 ಬರುತ್ತದೆ. ಇದು ನಮ್ಮ ಸಮಸ್ಯೆಯಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಮೊತ್ತಕ್ಕೆ ಸಮನಾಗಿದೆ. ಹಾಗಾಗಿ ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ನಾವು ಹುಡುಕುತ್ತಿದ್ದ ಸಂಖ್ಯೆ 7. ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸೋಣ. ಸಂಖ್ಯೆ 7 ರ ಮೂರರಷ್ಟು 21. $21 + 11 = 32$. ಇದು ನಮ್ಮ ಸಮಸ್ಯೆಯಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಮೊತ್ತಕ್ಕೆ ಸಮನಾಗಿದೆ. ಹಾಗಾಗಿ ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಬೇಕಾದ ಸಂಖ್ಯೆ 7 ಆಗಿದೆ.",
+    "ತಾಳೆ: 7 ರ ಮೂರರಷ್ಟು 21. 21 ಕ್ಕೆ 11 ಕೂಡಿದರೆ 32. ಉತ್ತರ ಸರಿ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "full_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ1-1_example_8",
+  "final_answer": "7",
+  "final_answer_display": "x = 7",
+  "chunk_id": "ALG-EQ1-1_concept_4_chunk_006"
+}

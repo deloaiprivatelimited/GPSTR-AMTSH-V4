@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಶಾಖ ಶಕ್ತಿ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತದೆ?",
+  "script": "ಹಾಗಾದರೆ, ತಾಪಮಾನವನ್ನು ಹೆಚ್ಚಿಸದ ಈ ಶಾಖ ಶಕ್ತಿ ಏನು ಮಾಡುತ್ತದೆ? ದ್ರವದ ಕಣಗಳು ಒಂದಕ್ಕೊಂದು ಹತ್ತಿರದಲ್ಲಿರುತ್ತವೆ ಮತ್ತು ಅವುಗಳ ನಡುವೆ ಆಕರ್ಷಣ ಬಲವಿರುತ್ತದೆ. ನಾವು ಆವೀಕರಣ ಗುಪ್ತೋಷ್ಣವನ್ನು ಒದಗಿಸಿದಾಗ, ಆ ಶಕ್ತಿಯು ಕಣಗಳ ಚಲನ ಶಕ್ತಿಯನ್ನು ಹೆಚ್ಚಿಸುವ ಬದಲು, ದ್ರವದ ಕಣಗಳ ನಡುವಿನ ಆಕರ್ಷಣ ಬಲವನ್ನು ಮುರಿಯಲು ಬಳಕೆಯಾಗುತ್ತದೆ. ಈ ಬಲವನ್ನು ಮೀರಿದಾಗ, ಕಣಗಳು ದ್ರವ ಸ್ಥಿತಿಯಿಂದ ಬಿಡುಗಡೆಗೊಂಡು ಅನಿಲ ಸ್ಥಿತಿಗೆ, ಅಂದರೆ ಆವಿಯಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತವೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ತಾಪಮಾನವನ್ನು ಹೆಚ್ಚಿಸದ ಈ ಶಾಖ ಶಕ್ತಿ ಏನು ಮಾಡುತ್ತದೆ? ದ್ರವದ ಕಣಗಳು ಒಂದಕ್ಕೊಂದು ಹತ್ತಿರದಲ್ಲಿರುತ್ತವೆ ಮತ್ತು ಅವುಗಳ ನಡುವೆ ಆಕರ್ಷಣ ಬಲವಿರುತ್ತದೆ. ನಾವು ಆವೀಕರಣ ಗುಪ್ತೋಷ್ಣವನ್ನು ಒದಗಿಸಿದಾಗ, ಆ ಶಕ್ತಿಯು ಕಣಗಳ ಚಲನ ಶಕ್ತಿಯನ್ನು (kinetic energy) ಹೆಚ್ಚಿಸುವ ಬದಲು, ದ್ರವದ ಕಣಗಳ ನಡುವಿನ ಆಕರ್ಷಣ ಬಲವನ್ನು ಮುರಿಯಲು ಬಳಕೆಯಾಗುತ್ತದೆ. ಈ ಬಲವನ್ನು ಮೀರಿದಾಗ, ಕಣಗಳು ದ್ರವ ಸ್ಥಿತಿಯಿಂದ ಬಿಡುಗಡೆಗೊಂಡು ಅನಿಲ ಸ್ಥಿತಿಗೆ, ಅಂದರೆ ಆವಿಯಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ಶಾಖ ಶಕ್ತಿಯು ಕಣಗಳ ಚಲನ ಶಕ್ತಿಯನ್ನು (ತಾಪಮಾನ) ಹೆಚ್ಚಿಸುವುದಿಲ್ಲ.",
+    "ಬದಲಾಗಿ, ದ್ರವದ ಕಣಗಳ ನಡುವಿನ ಅಂತರ್-ಕಣ ಆಕರ್ಷಣ ಬಲವನ್ನು ಮುರಿಯಲು ಬಳಕೆಯಾಗುತ್ತದೆ.",
+    "ಈ ಬಲವನ್ನು ಮೀರಿದಾಗ, ಕಣಗಳು ದ್ರವ ಸ್ಥಿತಿಯಿಂದ ಅನಿಲ ಸ್ಥಿತಿಗೆ ಪರಿವರ್ತನೆಯಾಗುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-panel diagram. Left panel shows liquid particles: they are close together, randomly arranged, with faint lines between them indicating forces of attraction. Right panel shows gas particles: they are far apart and moving randomly in all directions. An arrow labeled 'ಆವೀಕರಣ ಗುಪ್ತೋಷ್ಣ' points from the liquid panel to the gas panel.",
+    "labels": "ದ್ರವ ಸ್ಥಿತಿ (ಕಣಗಳು ಹತ್ತಿರದಲ್ಲಿವೆ), ಅನಿಲ ಸ್ಥಿತಿ (ಕಣಗಳು ದೂರದಲ್ಲಿವೆ), ಅಂತರ್-ಕಣ ಆಕರ್ಷಣ ಬಲ, ಆವೀಕರಣ ಗುಪ್ತೋಷ್ಣ (ಶಕ್ತಿ ಸೇರ್ಪಡೆ)",
+    "scientific_significance": "This diagram illustrates the microscopic mechanism of vaporization. It shows that the latent heat of vaporization is the energy used to overcome the intermolecular forces holding liquid particles together, allowing them to escape into the gaseous phase.",
+    "placeholder_note": "Image to be generated showing particle arrangement in liquid vs gas."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_1_concept_4_chunk_016"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನ ಸಮವೆಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಬಾಹು-ಕೋನ-ಬಾಹು ಅಥವಾ SAS ಸರ್ವಸಮತೆಯ ನಿಯಮವನ್ನು ಅನ್ವಯಿಸಬಹುದು. ಇದರ ಪ್ರಕಾರ, ತ್ರಿಭುಜ ABF, ತ್ರಿಭುಜ ACE ಗೆ ಸರ್ವಸಮವಾಗಿದೆ. ಈಗ ನಾಲ್ಕನೇ ಹಂತ. ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾದಾಗ, ಅವುಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಇದನ್ನು ಸ ತ್ರಿ ಅ ಭಾ ಅಥವಾ CPCTC ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರ ಪ್ರಕಾರ, BF ಬಾಹುವು CE ಬಾಹುವಿಗೆ ಸಮವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನ ಸಮವೆಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಬಾ.ಕೋ.ಬಾ (SAS) ಸರ್ವಸಮತೆಯ ನಿಯಮವನ್ನು ಅನ್ವಯಿಸಬಹುದು. ಇದರ ಪ್ರಕಾರ, $\\triangle ABF \\cong \\triangle ACE$. ಈಗ ನಾಲ್ಕನೇ ಹಂತ. ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾದಾಗ, ಅವುಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಇದನ್ನು ಸ.ತ್ರಿ.ಅ.ಭಾ (CPCTC) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರ ಪ್ರಕಾರ, $BF$ ಬಾಹುವು $CE$ ಬಾಹುವಿಗೆ ಸಮವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿರುವ ಅದೇ ಚಿತ್ರ. ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳಾದ ABF ಮತ್ತು ACE ಗಳನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಅಂತಿಮವಾಗಿ ಸಮ ಎಂದು ಸಾಧಿಸಲಾದ BF ಮತ್ತು CE ಬಾಹುಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, E, F",
+    "mathematical_significance": "CPCTC ಯಿಂದ ಬರುವ ಫಲಿತಾಂಶವನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ, ಅಂದರೆ BF = CE.",
+    "placeholder_note": "Same image as previous slide, with final result BF=CE highlighted."
+  },
+  "sub_type": "proof",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_5",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಬಾ.ಕೋ.ಬಾ (SAS) ಸರ್ವಸಮತೆ ನಿಯಮದ ಪ್ರಕಾರ, $\\triangle ABF \\cong \\triangle ACE$.",
+      "justification": "ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನ ಸಮವಾಗಿರುವುದರಿಂದ ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮ."
+    },
+    {
+      "step": 4,
+      "action_display": "ಸ.ತ್ರಿ.ಅ.ಭಾ (CPCTC) ಪ್ರಕಾರ, $BF = CE$.",
+      "justification": "ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತವೆ."
+    }
+  ],
+  "chunk_id": "GEO-TRI-2_concept_2_chunk_023"
+}

@@ -1,0 +1,81 @@
+{
+  "module_id": "std_9_chapter_4_concept_1",
+  "chapter_code": "std_9_chapter_4",
+  "voice": "Callirrhoe",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 17:19:36",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "19aacb26c7f701aaa7400fa7c3569b4b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 58.331,
+      "slide_title": "ಉಪಪರಮಾಣು ಕಣಗಳು (Subatomic Particles)",
+      "type": "chunk",
+      "script_words": 78,
+      "generated_at": "2026-04-02 17:18:45"
+    },
+    "002_property_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "8cedf3692509c9d956794e818f4d6688",
+      "wav_file": "002_property_0.wav",
+      "duration": 45.211,
+      "slide_title": "ಉಪಪರಮಾಣು ಕಣಗಳು: ಇಲೆಕ್ಟ್ರಾನ್",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 17:19:06"
+    },
+    "004_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "a7c0a93f14186f2b664972959d902848",
+      "wav_file": "004_property_cont_0_2.wav",
+      "duration": 44.091,
+      "slide_title": "ಉಪಪರಮಾಣು ಕಣಗಳು: ನ್ಯೂಟ್ರಾನ್",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 17:19:08"
+    },
+    "005_property_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "1d83fff3d3537e6faae5f066ef76c49d",
+      "wav_file": "005_property_1.wav",
+      "duration": 49.331,
+      "slide_title": "ಉಪಪರಮಾಣು ಕಣಗಳ ಸ್ಥಾನ",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 17:19:09"
+    },
+    "003_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "bf0d26349174d461e6bc75a35ace0d32",
+      "wav_file": "003_property_cont_0_1.wav",
+      "duration": 44.931,
+      "slide_title": "ಉಪಪರಮಾಣು ಕಣಗಳು: ಪ್ರೋಟಾನ್",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 17:19:11"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "6d8fe64833daddba30db00e2b5f1c4c4",
+      "wav_file": "006_recap_0.wav",
+      "duration": 44.811,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 55,
+      "generated_at": "2026-04-02 17:19:36"
+    }
+  }
+}

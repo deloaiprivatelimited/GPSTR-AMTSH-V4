@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಬಹುಪದೋಕ್ತಿ ಹೌದು vs ಅಲ್ಲ",
+  "script": "ಯಾವುದು ಬಹುಪದೋಕ್ತಿ ಮತ್ತು ಯಾವುದು ಅಲ್ಲ ಎಂಬುದನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ ನೋಡೋಣ. ಇದು ನಿಮ್ಮ ಗೊಂದಲವನ್ನು ನಿವಾರಿಸುತ್ತದೆ. ಎಡಭಾಗದಲ್ಲಿ, ಮೂರು x ವರ್ಗ plus ಒಂದು ಇದೆ. ಇದು ಬಹುಪದೋಕ್ತಿ, ಏಕೆಂದರೆ x ನ ಘಾತ ಎರಡು, ಒಂದು ಪೂರ್ಣಾಂಕ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ, ಮೂರು ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ x plus ಒಂದು ನೋಡಿ. ಇದನ್ನು ಮೂರು x to the power ಒಂದು by ಎರಡು plus ಒಂದು ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ಘಾತ ಒಂದು by ಎರಡು, ಇದು ಭಿನ್ನರಾಶಿ. ಹಾಗಾಗಿ ಇದು ಬಹುಪದೋಕ್ತಿ ಅಲ್ಲ. ಅದೇ ರೀತಿ, y minus ನಾಲ್ಕು ಬಹುಪದೋಕ್ತಿ. ಆದರೆ y plus ನಾಲ್ಕು by y ಬಹುಪದೋಕ್ತಿ ಅಲ್ಲ, ಏಕೆಂದರೆ ಇದನ್ನು y plus ನಾಲ್ಕು y to the power minus ಒಂದು ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ಘಾತ minus ಒಂದು, ಇದು ಋಣ ಸಂಖ್ಯೆ. ಆದ್ದರಿಂದ, ಚರಾಕ್ಷರದ ಘಾತವು ಪೂರ್ಣಾಂಕವಾಗಿಲ್ಲದಿದ್ದರೆ, ಅದು ಬಹುಪದೋಕ್ತಿ ಆಗುವುದಿಲ್ಲ.",
+  "script_display": "ಯಾವುದು ಬಹುಪದೋಕ್ತಿ ಮತ್ತು ಯಾವುದು ಅಲ್ಲ ಎಂಬುದನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ ನೋಡೋಣ. ಇದು ನಿಮ್ಮ ಗೊಂದಲವನ್ನು ನಿವಾರಿಸುತ್ತದೆ. ಎಡಭಾಗದಲ್ಲಿ, $3x^2+1$ ಇದೆ. ಇದು ಬಹುಪದೋಕ್ತಿ, ಏಕೆಂದರೆ $x$ ನ ಘಾತ $2$, ಒಂದು ಪೂರ್ಣಾಂಕ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ, $3\\sqrt{x}+1$ ನೋಡಿ. ಇದನ್ನು $3x^{1/2}+1$ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ಘಾತ $\\frac{1}{2}$, ಇದು ಭಿನ್ನರಾಶಿ. ಹಾಗಾಗಿ ಇದು ಬಹುಪದೋಕ್ತಿ ಅಲ್ಲ. ಅದೇ ರೀತಿ, $y-4$ ಬಹುಪದೋಕ್ತಿ. ಆದರೆ $y+\\frac{4}{y}$ ಬಹುಪದೋಕ್ತಿ ಅಲ್ಲ, ಏಕೆಂದರೆ ಇದನ್ನು $y+4y^{-1}$ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ಘಾತ $-1$, ಇದು ಋಣ ಸಂಖ್ಯೆ. ಆದ್ದರಿಂದ, ಚರಾಕ್ಷರದ ಘಾತವು ಪೂರ್ಣಾಂಕವಾಗಿಲ್ಲದಿದ್ದರೆ, ಅದು ಬಹುಪದೋಕ್ತಿ ಆಗುವುದಿಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A two-column table comparing expressions that are polynomials vs those that are not. The script explains each row of the comparison table. The table should be rendered in two columns with headers 'ಬಹುಪದೋಕ್ತಿ ಹೌದು (Polynomial)' and 'ಬಹುಪದೋಕ್ತಿ ಅಲ್ಲ (Not a Polynomial)'. First row: 3x^2+1 vs 3sqrt(x)+1. Second row: y-4 vs y+4/y. Each cell should contain the expression and a brief reason, as detailed in the script_display. This visual is crucial for the split_comparison layout to work effectively. The display_bullets field is empty because the content is in the visual table itself, which the script narrates column by column, row by row. This is a valid use case for split_comparison where the visual element carries the bullet-like information for comparison. The script is structured to walk through this visual comparison explicitly. The table should have headers and rows to visually separate the examples and counter-examples, making the comparison clear and direct for the learner. The HTML table should be styled to fit the video's aesthetic, with clear demarcation between the 'yes' and 'no' columns. The mathematical expressions within the table should be rendered using KaTeX or a similar library for proper display. The reasoning (e.g., 'ಘಾತ 2 ಪೂರ್ಣಾಂಕ') should be in a smaller font or a different style to distinguish it from the expression itself. This detailed visual implementation will make the slide highly effective in clarifying the core concept of what constitutes a polynomial by directly contrasting it with what does not. The table structure should be: Column 1 Header: 'ಬಹುಪದೋಕ್ತಿ ಹೌದು (Polynomial)', Column 2 Header: 'ಬಹುಪದೋಕ್ತಿ ಅಲ್ಲ (Not a Polynomial)'. Row 1, Col 1: '$3x^2+1$ (ಘಾತ 2 ಪೂರ್ಣಾಂಕ)'. Row 1, Col 2: '$3\\sqrt{x}+1 = 3x^{1/2}+1$ (ಘಾತ 1/2 ಭಿನ್ನರಾಶಿ)'. Row 2, Col 1: '$y-4$ (ಘಾತ 1 ಪೂರ್ಣಾಂಕ)'. Row 2, Col 2: '$y+\\frac{4}{y} = y+4y^{-1}$ (ಘಾತ -1 ಋಣ ಸಂಖ್ಯೆ)'."
+  },
+  "chunk_id": "ALG-POL-3_concept_1_chunk_010"
+}

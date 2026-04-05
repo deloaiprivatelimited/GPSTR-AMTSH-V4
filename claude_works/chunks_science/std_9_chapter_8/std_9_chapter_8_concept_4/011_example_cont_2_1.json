@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ಏಕಮಾನ ಪರಿವರ್ತನೆ",
+  "script": "ಮೊದಲನೇ ಹಂತವಾಗಿ, ನಾವು ದತ್ತಾಂಶಗಳನ್ನು ಸರಿಯಾದ ಏಕಮಾನಗಳಿಗೆ ಪರಿವರ್ತಿಸಬೇಕು. ಇಲ್ಲಿ ಆರಂಭಿಕ ವೇಗ u, ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ಗಂಟೆಯಲ್ಲಿದೆ. ನಮ್ಮ ಲೆಕ್ಕಾಚಾರಕ್ಕೆ, ಇದನ್ನು ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಬದಲಾಯಿಸಬೇಕು. 108 ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ಗಂಟೆ ಅಂದರೆ, 108 ಗುಣಿಸು 1000 ಮೀಟರ್, ಇದನ್ನು 3600 ಸೆಕೆಂಡುಗಳಿಂದ ಭಾಗಿಸಬೇಕು. ಇದನ್ನು ಲೆಕ್ಕ ಹಾಕಿದಾಗ ನಮಗೆ 30 ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್ ಸಿಗುತ್ತದೆ.",
+  "script_display": "**ಹಂತ 1: ಆರಂಭಿಕ ವೇಗವನ್ನು (u) SI ಏಕಮಾನಕ್ಕೆ (m/s) ಪರಿವರ್ತಿಸುವುದು.**\n\nಲೆಕ್ಕಾಚಾರ:\n\nu = 108 km/h\n\nu = 108 × (1000 m / 3600 s)\n\nu = 30 m/s",
+  "display_bullets": [
+    "ಹಂತ 1: ಆರಂಭಿಕ ವೇಗವನ್ನು (u) SI ಏಕಮಾನಕ್ಕೆ (m/s) ಪರಿವರ್ತಿಸುವುದು.",
+    "ಲೆಕ್ಕಾಚಾರ: u = 108 km/h",
+    "u = 108 × (1000 m / 3600 s) = 30 m/s"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "u = 108 \\frac{\\text{km}}{\\text{h}} = 108 \\times \\frac{1000 \\text{ m}}{3600 \\text{ s}} = 30 \\text{ m/s}",
+    "placeholder_note": "Formula box showing the conversion of km/h to m/s."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_8_example_8.3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತಾಂಶಗಳನ್ನು SI ಏಕಮಾನಗಳಿಗೆ ಪರಿವರ್ತಿಸುವುದು.",
+      "justification": "ಆರಂಭಿಕ ವೇಗ (u) km/h ನಲ್ಲಿದೆ, ಅದನ್ನು m/s ಗೆ ಪರಿವರ್ತಿಸಬೇಕು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_8_concept_4_chunk_011"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಪ್ರೋಪೀನ್ (Propene)",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಒಂದು ಕಾರ್ಬನ್ ಸರಪಳಿಯಲ್ಲಿ ಮೂರು ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳಿದ್ದರೆ, ಅದರ ಆಲ್ಕೀನ್ ಸೂತ್ರವೇನು? ಇಲ್ಲಿ, ಎನ್ ಈಕ್ವಲ್ಸ್ ಮೂರು. ನಾವು ಈ ಮೌಲ್ಯವನ್ನು ಸಿ ಎನ್ ಎಚ್ ಟೂ ಎನ್ ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಆಗ, ಅದು ಸಿ ಮೂರು ಎಚ್ ಎರಡು ಇಂಟು ಮೂರು ಎಂದಾಗುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿದಾಗ, ನಮಗೆ ಸಿ ಮೂರು ಎಚ್ ಆರು ಸಿಗುತ್ತದೆ. ಇದು ಪ್ರೋಪೀನ್‌ನ ಅಣುಸೂತ್ರವಾಗಿದೆ. ಹೀಗೆ, ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆ ತಿಳಿದಿದ್ದರೆ, ನಾವು ಯಾವುದೇ ಆಲ್ಕೀನ್‌ನ ಸೂತ್ರವನ್ನು ಸುಲಭವಾಗಿ ಬರೆಯಬಹುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಒಂದು ಕಾರ್ಬನ್ ಸರಪಳಿಯಲ್ಲಿ 3 ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳಿದ್ದರೆ, ಅದರ ಆಲ್ಕೀನ್ ಸೂತ್ರವೇನು? ಇಲ್ಲಿ, n = 3. ನಾವು ಈ ಮೌಲ್ಯವನ್ನು $C_nH_{2n}$ ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಆಗ, ಅದು $C_3H_{2(3)}$ ಎಂದಾಗುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿದಾಗ, ನಮಗೆ $C_3H_6$ ಸಿಗುತ್ತದೆ. ಇದು ಪ್ರೋಪೀನ್‌ನ ಅಣುಸೂತ್ರವಾಗಿದೆ. ಹೀಗೆ, ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆ ತಿಳಿದಿದ್ದರೆ, ನಾವು ಯಾವುದೇ ಆಲ್ಕೀನ್‌ನ ಸೂತ್ರವನ್ನು ಸುಲಭವಾಗಿ ಬರೆಯಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{n = 3 (ಪ್ರೋಪೀನ್‌ಗಾಗಿ)}\\newline \\rightarrow C_nH_{2n} \\newline \\rightarrow C_3H_{2 \\times 3} \\newline \\rightarrow C_3H_6",
+    "placeholder_note": "Calculation for Propene using the alkene formula"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "n = 3 ಎಂದು ತೆಗೆದುಕೊಳ್ಳಿ (ಪ್ರೋಪೀನ್‌ಗಾಗಿ).",
+      "justification": "ಪ್ರೋಪ್ (Prop) ಎಂದರೆ 3 ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ: C₃H₂(₃)",
+      "justification": "n ನ ಜಾಗದಲ್ಲಿ 3 ನ್ನು ಹಾಕಲಾಗಿದೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "ಸರಳೀಕರಿಸಿ: C₃H₆",
+      "justification": "ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಲೆಕ್ಕಹಾಕಲಾಗಿದೆ (2 * 3 = 6)."
+    }
+  ],
+  "final_answer_display": "ಆದ್ದರಿಂದ, ಪ್ರೋಪೀನ್‌ನ ಅಣುಸೂತ್ರ C₃H₆ ಆಗಿದೆ.",
+  "chunk_id": "std_10_chapter_4_concept_4_chunk_010"
+}

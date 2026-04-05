@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಭಾಗ (i) $\\triangle AMC \\sim \\triangle PNR$",
+  "script": "ಈಗ ಮೊದಲ ಭಾಗವನ್ನು ಸಾಧಿಸೋಣ, ಅಂದರೆ ತ್ರಿಭುಜ AMC ಮತ್ತು ತ್ರಿಭುಜ PNR ಗಳು ಸಮರೂಪವೆಂದು ತೋರಿಸೋಣ. ಈ ಎರಡು ತ್ರಿಭುಜಗಳಲ್ಲಿ, ಕೋನ A ಯು ಕೋನ P ಗೆ ಸಮನಾಗಿದೆ ಎಂದು ನಮಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿದೆ. ಈಗ ಈ ಕೋನಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಪರಿಶೀಲಿಸೋಣ. ಸಮೀಕರಣ ಒಂದರಿಂದ, CA ಭಾಗಿಸು RP ಸಮ AB ಭಾಗಿಸು PQ ಆಗಿದೆ. ಆದರೆ AB ಎಂಬುದು ಎರಡು AM ಗೆ ಸಮ ಮತ್ತು PQ ಎಂಬುದು ಎರಡು PN ಗೆ ಸಮ. ಇದನ್ನು ಬದಲಾಯಿಸಿದಾಗ, ನಮಗೆ CA ಭಾಗಿಸು RP ಸಮ ಎರಡು AM ಭಾಗಿಸು ಎರಡು PN ಎಂದು ಸಿಗುತ್ತದೆ. ಇಲ್ಲಿ ಎರಡು ಮತ್ತು ಎರಡು ರದ್ದಾಗುತ್ತವೆ. ಆದ್ದರಿಂದ, CA ಭಾಗಿಸು RP ಸಮ AM ಭಾಗಿಸು PN. ಈಗ, ಬಾಹು-ಕೋನ-ಬಾಹು, ಅಂದರೆ ಎಸ್ ಎ ಎಸ್ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ AMC ಯು ತ್ರಿಭುಜ PNR ಗೆ ಸಮರೂಪವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಮೊದಲ ಭಾಗವನ್ನು ಸಾಧಿಸೋಣ: $\\triangle AMC \\sim \\triangle PNR$ ಎಂದು ತೋರಿಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-TRI-2_example_6",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\triangle AMC$ ಮತ್ತು $\\triangle PNR$ ಗಳಲ್ಲಿ, $\\angle A = \\angle P$.",
+      "justification": "ದತ್ತಾಂಶ (2) ರಿಂದ."
+    },
+    {
+      "step": 2,
+      "action_display": "ದತ್ತಾಂಶ (1) ರಿಂದ, $\\frac{CA}{RP} = \\frac{AB}{PQ}$.\n$AB = 2AM$ ಮತ್ತು $PQ = 2PN$ ಎಂದು ಬದಲಾಯಿಸಿದಾಗ, $\\frac{CA}{RP} = \\frac{2AM}{2PN} = \\frac{AM}{PN}$.",
+      "justification": "ಮಧ್ಯರೇಖೆಯ ವ್ಯಾಖ್ಯೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "ಆದ್ದರಿಂದ, ಬಾ.ಕೋ.ಬಾ (SAS) ಸಮರೂಪತೆಯ ಪ್ರಕಾರ, $\\triangle AMC \\sim \\triangle PNR$.",
+      "justification": "ಒಂದು ಕೋನ ಮತ್ತು ಅದನ್ನು ಒಳಗೊಂಡ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿವೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_042"
+}

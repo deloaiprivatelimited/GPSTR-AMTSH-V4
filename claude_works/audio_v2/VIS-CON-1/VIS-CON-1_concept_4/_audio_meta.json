@@ -1,0 +1,103 @@
+{
+  "module_id": "VIS-CON-1_concept_4",
+  "merge_code": "VIS-CON-1",
+  "voice": "Algenib",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 17:32:33",
+  "chunks": {
+    "004_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "daadfc88e7a86d34bd19ec93c41ccfc3",
+      "wav_file": "004_example_cont_0_1.wav",
+      "duration": 40.771,
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 1",
+      "type": "worked_example",
+      "script_words": 57,
+      "generated_at": "2026-03-30 17:31:27"
+    },
+    "003_example_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "059a1043c34bcd82f41c21675824235d",
+      "wav_file": "003_example_0.wav",
+      "duration": 46.091,
+      "slide_title": "ಉದಾಹರಣೆ: ಆಯತದ ರಚನೆ",
+      "type": "worked_example",
+      "script_words": 63,
+      "generated_at": "2026-03-30 17:31:29"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "738d189010f8f6f2be06ee3e3a8c9d85",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 46.731,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 65,
+      "generated_at": "2026-03-30 17:31:30"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "194ca5d4c18567818323cfc1525e9385",
+      "wav_file": "001_intro_0.wav",
+      "duration": 50.691,
+      "slide_title": "ದತ್ತ ಬಾಹು ಮತ್ತು ಕರ್ಣವಿರುವ ಆಯತದ ರಚನೆ",
+      "type": "intro",
+      "script_words": 71,
+      "generated_at": "2026-03-30 17:31:33"
+    },
+    "005_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "d2705db0920427153533755a6a30913a",
+      "wav_file": "005_example_cont_0_2.wav",
+      "duration": 44.331,
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 2",
+      "type": "worked_example",
+      "script_words": 75,
+      "generated_at": "2026-03-30 17:31:58"
+    },
+    "007_example_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "c6f10fabce75b7c309084cce6897027a",
+      "wav_file": "007_example_cont_0_4.wav",
+      "duration": 32.211,
+      "slide_title": "ಅಂತಿಮ ಫಲಿತಾಂಶ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "script_words": 42,
+      "generated_at": "2026-03-30 17:32:22"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "08d97945180e33938d34b27194bbef92",
+      "wav_file": "008_recap_0.wav",
+      "duration": 35.451,
+      "slide_title": "ಸಾರಾಂಶ: ಆಯತದ ರಚನೆ",
+      "type": "recap",
+      "script_words": 50,
+      "generated_at": "2026-03-30 17:32:22"
+    },
+    "006_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "743b0335ef15e9494e6b866cf5d6a9b7",
+      "wav_file": "006_example_cont_0_3.wav",
+      "duration": 53.331,
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 3",
+      "type": "worked_example",
+      "script_words": 77,
+      "generated_at": "2026-03-30 17:32:33"
+    }
+  }
+}

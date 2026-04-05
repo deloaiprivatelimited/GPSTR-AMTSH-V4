@@ -1,0 +1,37 @@
+{
+  "type": "experiment_intro",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಹೂವಿನ ಭಾಗಗಳ ಅಧ್ಯಯನ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಒಂದು ಕುತೂಹಲಕಾರಿ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಸಸ್ಯಗಳಲ್ಲಿ ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಪ್ರಮುಖ ಅಂಗವಾದ ಹೂವಿನ ಭಾಗಗಳನ್ನು ನಾವು ವಿವರವಾಗಿ ಅಧ್ಯಯನ ಮಾಡಲಿದ್ದೇವೆ. ಈ ಚಟುವಟಿಕೆಗಾಗಿ, ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ದಾಸವಾಳ ಅಥವಾ ಸಾಸಿವೆ ಹೂವು. ಎರಡನೆಯದಾಗಿ, ಭಾಗಗಳನ್ನು ಕತ್ತರಿಸಲು ಒಂದು ಬ್ಲೇಡ್. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ಸಣ್ಣ ಭಾಗಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಲು ಒಂದು ವರ್ಧಕ ಮಸೂರ. ಈ ವಸ್ತುಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳಿ, ನಾವು ಈ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಒಂದು ಕುತೂಹಲಕಾರಿ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಸಸ್ಯಗಳಲ್ಲಿ ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಪ್ರಮುಖ ಅಂಗವಾದ ಹೂವಿನ ಭಾಗಗಳನ್ನು ನಾವು ವಿವರವಾಗಿ ಅಧ್ಯಯನ ಮಾಡಲಿದ್ದೇವೆ. ಈ ಚಟುವಟಿಕೆಗಾಗಿ, ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ದಾಸವಾಳ ಅಥವಾ ಸಾಸಿವೆ ಹೂವು. ಎರಡನೆಯದಾಗಿ, ಭಾಗಗಳನ್ನು ಕತ್ತರಿಸಲು ಒಂದು ಬ್ಲೇಡ್. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ಸಣ್ಣ ಭಾಗಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಲು ಒಂದು ವರ್ಧಕ ಮಸೂರ. ಈ ವಸ್ತುಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳಿ, ನಾವು ಈ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "display_bullets": [
+    "ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು:",
+    "ದಾಸವಾಳ ಅಥವಾ ಸಾಸಿವೆ ಹೂವು",
+    "ಬ್ಲೇಡ್",
+    "ವರ್ಧಕ ಮಸೂರ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A flat lay image of the materials required for the experiment: a hibiscus flower, a simple blade, and a magnifying glass arranged neatly on a white background.",
+    "labels": "ದಾಸವಾಳ ಹೂವು, ಬ್ಲೇಡ್, ವರ್ಧಕ ಮಸೂರ",
+    "scientific_significance": "Shows the simple and accessible materials needed to perform a basic biological dissection to study flower anatomy.",
+    "placeholder_note": "Image to be generated showing the listed materials."
+  },
+  "chunk_id": "std_7_chapter_8_concept_4_chunk_024"
+}

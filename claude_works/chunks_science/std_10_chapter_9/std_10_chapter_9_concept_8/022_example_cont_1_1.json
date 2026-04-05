@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ಪ್ರತಿಬಿಂಬ ದೂರ (v) ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಮೊದಲಿಗೆ, ಪ್ರತಿಬಿಂಬದ ದೂರ, ವಿ, ಅನ್ನು ಕಂಡುಹಿಡಿಯಲು ಮಸೂರ ಸೂತ್ರವನ್ನು ಬಳಸೋಣ. ಮಸೂರ ಸೂತ್ರವು, ಒಂದರ ಕೆಳಗೆ ವಿ ಮೈನಸ್ ಒಂದರ ಕೆಳಗೆ ಯು ಸಮನಾಗಿರುತ್ತದೆ ಒಂದರ ಕೆಳಗೆ ಎಫ್. ನಮಗೆ ವಿ ಬೇಕಾಗಿರುವುದರಿಂದ, ನಾವು ಸೂತ್ರವನ್ನು ಒಂದರ ಕೆಳಗೆ ವಿ ಸಮನಾಗಿರುತ್ತದೆ ಒಂದರ ಕೆಳಗೆ ಎಫ್ ಪ್ಲಸ್ ಒಂದರ ಕೆಳಗೆ ಯು ಎಂದು ಪುನರ್ರಚಿಸಬಹುದು. ಈಗ, ಎಫ್ ಮತ್ತು ಯು ನ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. ಒಂದರ ಕೆಳಗೆ ವಿ ಸಮನಾಗಿರುತ್ತದೆ ಒಂದರ ಕೆಳಗೆ ಹತ್ತು ಪ್ಲಸ್ ಒಂದರ ಕೆಳಗೆ ಮೈನಸ್ ಹದಿನೈದು. ಇದು ಒಂದರ ಕೆಳಗೆ ಹತ್ತು ಮೈನಸ್ ಒಂದರ ಕೆಳಗೆ ಹದಿನೈದು ಆಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಪ್ರತಿಬಿಂಬದ ದೂರ (v) ಅನ್ನು ಕಂಡುಹಿಡಿಯಲು ಮಸೂರ ಸೂತ್ರವನ್ನು ಬಳಸೋಣ. ಮಸೂರ ಸೂತ್ರವು, 1/v - 1/u = 1/f. ನಮಗೆ v ಬೇಕಾಗಿರುವುದರಿಂದ, ನಾವು ಸೂತ್ರವನ್ನು 1/v = 1/f + 1/u ಎಂದು ಪುನರ್ರಚಿಸಬಹುದು. ಈಗ, f ಮತ್ತು u ನ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. 1/v = 1/10 + 1/(-15). ಇದು 1/10 - 1/15 ಆಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮಸೂರ ಸೂತ್ರವನ್ನು ಬಳಸಿ: 1/v - 1/u = 1/f",
+    "ಸೂತ್ರವನ್ನು 'v' ಗಾಗಿ ಪುನರ್ರಚಿಸಿ: 1/v = 1/f + 1/u",
+    "ದತ್ತ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿ: 1/v = 1/10 + 1/(-15)"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f} \\\\ \\implies \\frac{1}{v} = \\frac{1}{f} + \\frac{1}{u} \\\\ \\frac{1}{v} = \\frac{1}{10} + \\frac{1}{-15}",
+    "placeholder_note": "Formula box showing the lens formula and substitution of values."
+  },
+  "source_example_id": "std_10_chapter_9_example_9.4",
+  "chunk_id": "std_10_chapter_9_concept_8_chunk_022"
+}

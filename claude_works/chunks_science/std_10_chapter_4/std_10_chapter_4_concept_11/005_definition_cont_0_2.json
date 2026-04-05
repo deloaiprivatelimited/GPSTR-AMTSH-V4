@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಸೋಡಿಯಂ ಸ್ಟಿಯರೇಟ್",
+  "script": "ಒಂದು ಸಾಮಾನ್ಯ ಸಾಬೂನಿನ ಉದಾಹರಣೆ ನೋಡೋಣ, ಅದು ಸೋಡಿಯಂ ಸ್ಟಿಯರೇಟ್. ಮೊದಲಿಗೆ, ಇದರ ರಾಸಾಯನಿಕ ಸೂತ್ರವನ್ನು ಗಮನಿಸಿ: C seventeen H thirty five C O O N a. ಈಗ ಇದನ್ನು ವಿಭಜಿಸಿ ನೋಡೋಣ. C seventeen H thirty five ಎಂಬ ಭಾಗವು ಜಲವಿಕರ್ಷಕ ಬಾಲ, ಅಂದರೆ ಇದು ಉದ್ದವಾದ ಹೈಡ್ರೋಕಾರ್ಬನ್ ಸರಪಳಿ. ನಂತರ, C O O N a ಎಂಬ ಭಾಗವು ಜಲಾಕರ್ಷಕ ತಲೆ, ಅಂದರೆ ಇದು ಅಯಾನಿಕ್ ಭಾಗ. ಈ ರೀತಿಯಾಗಿ, ಉದ್ದವಾದ ಕೊಬ್ಬಿನಾಮ್ಲವಾದ ಸ್ಟಿಯರಿಕ್ ಆಮ್ಲವು ಸೋಡಿಯಂ ಜೊತೆ ಸೇರಿ ಸೋಡಿಯಂ ಸ್ಟಿಯರೇಟ್ ಎಂಬ ಸಾಬೂನನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಸಾಮಾನ್ಯ ಸಾಬೂನಿನ ಉದಾಹರಣೆ ಸೋಡಿಯಂ ಸ್ಟಿಯರೇಟ್ (Sodium Stearate).",
+  "display_bullets": [
+    "ರಾಸಾಯನಿಕ ಸೂತ್ರ: C₁₇H₃₅COONa",
+    "C₁₇H₃₅– : ಜಲವಿಕರ್ಷಕ ಬಾಲ (ಹೈಡ್ರೋಕಾರ್ಬನ್ ಸರಪಳಿ)",
+    "–COONa : ಜಲಾಕರ್ಷಕ ತಲೆ (ಅಯಾನಿಕ್ ಭಾಗ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "C_{17}H_{35}COONa",
+    "placeholder_note": "The chemical formula for Sodium Stearate, a common soap."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_4_concept_11_chunk_005"
+}

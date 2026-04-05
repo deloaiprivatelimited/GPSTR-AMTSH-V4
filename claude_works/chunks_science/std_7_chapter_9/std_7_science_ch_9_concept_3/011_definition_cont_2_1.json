@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಒಂದು ಪೂರ್ಣ ಆಂದೋಲನ ಎಂದರೇನು?",
+  "script": "ಹಾಗಾದರೆ, ಒಂದು ಪೂರ್ಣ ಆಂದೋಲನ ಎಂದರೆ ನಿಖರವಾಗಿ ಏನು? ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಲೋಲಕದ ಗುಂಡು ತನ್ನ ಒಂದು ತುದಿಯ ಸ್ಥಾನ, ಅಂದರೆ 'ಎ' ಯಿಂದ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ ಎಂದು ಭಾವಿಸೋಣ. ಅದು ಅಲ್ಲಿಂದ ಇನ್ನೊಂದು ತುದಿಯ ಸ್ಥಾನವಾದ 'ಬಿ' ಗೆ ಚಲಿಸಿ, ನಂತರ ಮತ್ತೆ ತನ್ನ ಮೊದಲಿನ ಸ್ಥಾನವಾದ 'ಎ' ಗೆ ಹಿಂತಿರುಗುತ್ತದೆ. ಈ ಸಂಪೂರ್ಣ ಚಲನೆಯನ್ನು ಒಂದು ಪೂರ್ಣ ಆಂದೋಲನ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಇಡೀ ಪ್ರಯಾಣಕ್ಕೆ ಎಷ್ಟು ಸಮಯ ಬೇಕಾಯಿತೋ, ಅದೇ ನಮ್ಮ ಆವರ್ತನಾವಧಿ.",
+  "script_display": "ಹಾಗಾದರೆ, ಒಂದು ಪೂರ್ಣ ಆಂದೋಲನ ಎಂದರೆ ನಿಖರವಾಗಿ ಏನು? ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಲೋಲಕದ ಗುಂಡು (bob) ತನ್ನ ಒಂದು ತುದಿಯ ಸ್ಥಾನ 'A' ಯಿಂದ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ ಎಂದು ಭಾವಿಸೋಣ. ಅದು ಅಲ್ಲಿಂದ ಇನ್ನೊಂದು ತುದಿಯ ಸ್ಥಾನ 'B' ಗೆ ಚಲಿಸಿ, ನಂತರ ಮತ್ತೆ ತನ್ನ ಮೊದಲಿನ ಸ್ಥಾನ 'A' ಗೆ ಹಿಂತಿರುಗುತ್ತದೆ. ಈ ಸಂಪೂರ್ಣ ಚಲನೆಯನ್ನು ಒಂದು ಪೂರ್ಣ ಆಂದೋಲನ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಇಡೀ ಪ್ರಯಾಣಕ್ಕೆ ಎಷ್ಟು ಸಮಯ ಬೇಕಾಯಿತೋ, ಅದೇ ನಮ್ಮ ಆವರ್ತನಾವಧಿ.",
+  "display_bullets": [
+    "ಲೋಲಕದ ಗುಂಡು ಒಂದು ತುದಿಯ ಸ್ಥಾನದಿಂದ (A) ಚಲಿಸಲು ಆರಂಭಿಸುತ್ತದೆ.",
+    "ಅದು ಇನ್ನೊಂದು ತುದಿಯ ಸ್ಥಾನಕ್ಕೆ (B) ಚಲಿಸುತ್ತದೆ.",
+    "ಮರಳಿ ಮೊದಲಿನ ತುದಿಯ ಸ್ಥಾನಕ್ಕೆ (A) ಬರುವುದೇ ಒಂದು ಪೂರ್ಣ ಆಂದೋಲನ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple pendulum swinging. The mean position is labeled 'O'. The two extreme positions are labeled 'A' and 'B'. An arrow indicates the path of one full oscillation: starting from A, going to B, and returning to A.",
+    "labels": "Pendulum bob, String, Point of suspension, Mean position (O), Extreme position (A), Extreme position (B), Path of one oscillation",
+    "scientific_significance": "Illustrates the path of a single complete oscillation, which is the basis for defining the time period.",
+    "placeholder_note": "Image to be generated showing a pendulum's oscillation from A to B and back to A."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_science_ch_9_concept_3_chunk_011"
+}

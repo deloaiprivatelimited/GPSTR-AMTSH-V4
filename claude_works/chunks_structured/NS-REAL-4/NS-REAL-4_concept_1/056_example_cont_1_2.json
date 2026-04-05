@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ ಹೀಗಿದೆ: 6 ಮತ್ತು 20 ರ ಮ.ಸಾ.ಅ. 2 ಆಗಿದೆ, ಮತ್ತು ಅವುಗಳ ಲ.ಸಾ.ಅ. 60 ಆಗಿದೆ. ಇದನ್ನು ನೆನಪಿಡಿ, ಮ.ಸಾ.ಅ. ಎಂದರೆ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳ ಕನಿಷ್ಠ ಘಾತಗಳ ಗುಣಲಬ್ಧ, ಮತ್ತು ಲ.ಸಾ.ಅ. ಎಂದರೆ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳ ಗರಿಷ್ಠ ಘಾತಗಳ ಗುಣಲಬ್ಧ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ ಹೀಗಿದೆ: 6 ಮತ್ತು 20 ರ ಮ.ಸಾ.ಅ. (HCF) 2 ಆಗಿದೆ, ಮತ್ತು ಅವುಗಳ ಲ.ಸಾ.ಅ. (LCM) 60 ಆಗಿದೆ. ಇದನ್ನು ನೆನಪಿಡಿ, ಮ.ಸಾ.ಅ. ಎಂದರೆ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳ ಕನಿಷ್ಠ ಘಾತಗಳ ಗುಣಲಬ್ಧ, ಮತ್ತು ಲ.ಸಾ.ಅ. ಎಂದರೆ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳ ಗರಿಷ್ಠ ಘಾತಗಳ ಗುಣಲಬ್ಧ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "NS-REAL-4_example_2",
+  "final_answer": "ಮ.ಸಾ.ಅ.(6, 20) = 2 ಮತ್ತು ಲ.ಸಾ.ಅ.(6, 20) = 60.",
+  "final_answer_display": "$HCF(6, 20) = 2$ ಮತ್ತು $LCM(6, 20) = 60$",
+  "chunk_id": "NS-REAL-4_concept_1_chunk_056"
+}

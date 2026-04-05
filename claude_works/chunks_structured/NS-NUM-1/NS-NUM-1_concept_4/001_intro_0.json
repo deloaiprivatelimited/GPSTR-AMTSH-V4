@@ -1,0 +1,36 @@
+{
+  "type": "intro",
+  "slide_title": "ಪರಿಚಯ: ಸಂಖ್ಯಾತ್ಮಕ ಸ್ಥಿರಾಂಕಗಳು ಮತ್ತು ಊಹೆಗಳು",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಗಣಿತ ಅಂದರೆ ಬರೀ ಸೂತ್ರಗಳು ಮತ್ತು ಲೆಕ್ಕಾಚಾರಗಳು ಅಂತ ಅಂದುಕೊಂಡಿದ್ದೀರಾ? ಖಂಡಿತ ಇಲ್ಲ. ಕೆಲವೊಮ್ಮೆ, ಸಂಖ್ಯೆಗಳು ನಾವು ಊಹಿಸದಂತಹ ಅದ್ಭುತ ರಹಸ್ಯಗಳನ್ನು ಬಚ್ಚಿಟ್ಟುಕೊಂಡಿರುತ್ತವೆ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಒಂದು ಮಜವಾದ ಆಟ ಆಡೋಣ. ನಾವು ಕಪ್ರೇಕರ್ ಸ್ಥಿರಾಂಕ ಎಂಬ ಮಾಂತ್ರಿಕ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ, ಮತ್ತು ಕೊಲಾಟ್ಸ್ ಊಹೆ ಎಂಬ, ಇನ್ನೂ ಬಗೆಹರಿಯದ ಗಣಿತದ ದೊಡ್ಡ ರಹಸ್ಯದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಈ ಅಧ್ಯಾಯದಲ್ಲಿ ನಾವು ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಆಟ ಆಡುವುದರ ಮೂಲಕ ಗಣಿತದ ಸೌಂದರ್ಯವನ್ನು ನೋಡಲಿದ್ದೇವೆ. ಸಿದ್ಧರಿದ್ದೀರಾ?",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಗಣಿತ ಅಂದರೆ ಬರೀ ಸೂತ್ರಗಳು ಮತ್ತು ಲೆಕ್ಕಾಚಾರಗಳು ಅಂತ ಅಂದುಕೊಂಡಿದ್ದೀರಾ? ಖಂಡಿತ ಇಲ್ಲ. ಕೆಲವೊಮ್ಮೆ, ಸಂಖ್ಯೆಗಳು ನಾವು ಊಹಿಸದಂತಹ ಅದ್ಭುತ ರಹಸ್ಯಗಳನ್ನು ಬಚ್ಚಿಟ್ಟುಕೊಂಡಿರುತ್ತವೆ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಒಂದು ಮಜವಾದ ಆಟ ಆಡೋಣ. ನಾವು ಕಪ್ರೇಕರ್ ಸ್ಥಿರಾಂಕ ಎಂಬ ಮಾಂತ್ರಿಕ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ, ಮತ್ತು ಕೊಲಾಟ್ಸ್ ಊಹೆ ಎಂಬ, ಇನ್ನೂ ಬಗೆಹರಿಯದ ಗಣಿತದ ದೊಡ್ಡ ರಹಸ್ಯದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಈ ಅಧ್ಯಾಯದಲ್ಲಿ ನಾವು ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಆಟ ಆಡುವುದರ ಮೂಲಕ ಗಣಿತದ ಸೌಂದರ್ಯವನ್ನು ನೋಡಲಿದ್ದೇವೆ. ಸಿದ್ಧರಿದ್ದೀರಾ?",
+  "display_bullets": [
+    "ಕಪ್ರೇಕರ್ ಸ್ಥಿರಾಂಕ (Kaprekar's Constant)",
+    "ಕೊಲಾಟ್ಸ್ ಊಹೆ (Collatz Conjecture)",
+    "ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಆಟ (Playing with Numbers)"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "centered_title_with_bullets",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An abstract and artistic representation of numbers and patterns, perhaps with swirling digits, question marks, and the number 6174 subtly embedded. The style should be mysterious and intriguing to capture the essence of mathematical conjectures.",
+    "labels": "Numerical patterns, Kaprekar's constant, Collatz conjecture, mathematical mystery",
+    "mathematical_significance": "Visually represents the theme of finding hidden patterns and constants within numbers, setting an engaging tone for the module.",
+    "placeholder_note": "Image to be generated to serve as a background for the title slide."
+  },
+  "chunk_id": "NS-NUM-1_concept_4_chunk_001"
+}

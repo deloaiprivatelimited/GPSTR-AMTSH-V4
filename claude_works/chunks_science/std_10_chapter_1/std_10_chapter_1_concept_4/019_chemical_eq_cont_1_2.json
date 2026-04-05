@@ -1,0 +1,30 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಕರ್ಷಣಕಾರಿ ಮತ್ತು ಅಪಕರ್ಷಣಕಾರಿ",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ವಸ್ತುವಿನ ಪಾತ್ರವನ್ನು ಗುರುತಿಸೋಣ. ಜಿಂಕ್ ಆಕ್ಸೈಡ್, ಕಾರ್ಬನ್ ಅನ್ನು ಉತ್ಕರ್ಷಿಸಲು ಆಕ್ಸಿಜನ್ ಅನ್ನು ನೀಡುವುದರಿಂದ, ಅದು ಉತ್ಕರ್ಷಣಕಾರಿಯಾಗಿದೆ. ಕಾರ್ಬನ್, ಜಿಂಕ್ ಆಕ್ಸೈಡ್ ನಿಂದ ಆಕ್ಸಿಜನ್ ಅನ್ನು ತೆಗೆದುಹಾಕಿ ಅದನ್ನು ಅಪಕರ್ಷಿಸುವುದರಿಂದ, ಅದು ಅಪಕರ್ಷಣಕಾರಿಯಾಗಿದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ವಸ್ತುವಿನ ಪಾತ್ರವನ್ನು ಗುರುತಿಸೋಣ.",
+  "display_bullets": [
+    "ಉತ್ಕರ್ಷಣಕಾರಿ (Oxidizing Agent): ಜಿಂಕ್ ಆಕ್ಸೈಡ್ (ZnO). ಇದು ಕಾರ್ಬನ್‌ಗೆ ಆಕ್ಸಿಜನ್ ನೀಡುತ್ತದೆ.",
+    "ಅಪಕರ್ಷಣಕಾರಿ (Reducing Agent): ಕಾರ್ಬನ್ (C). ಇದು ZnO ನಿಂದ ಆಕ್ಸಿಜನ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_bullets_centered",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_1_concept_4_chunk_019"
+}

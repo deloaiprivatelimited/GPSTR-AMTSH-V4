@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಘಾತಾಂಕ ರೂಪದ ಭಾಗಗಳು",
+  "script": "ಈಗ ಘಾತಾಂಕ ರೂಪದ ಪ್ರಮುಖ ಭಾಗಗಳನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಉದಾಹರಣೆಯಾದ ಹತ್ತರ ಘಾತ ನಾಲ್ಕನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ, ಹತ್ತು ಎಂಬ ಸಂಖ್ಯೆಯನ್ನು 'ಆಧಾರ' ಅಥವಾ 'ಬೇಸ್' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ಯಾವ ಸಂಖ್ಯೆಯನ್ನು ಪುನರಾವರ್ತಿತವಾಗಿ ಗುಣಿಸಲಾಗುತ್ತಿದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. ನಾಲ್ಕು ಎಂಬ ಸಂಖ್ಯೆಯನ್ನು 'ಘಾತಸೂಚಿ' ಅಥವಾ 'ಎಕ್ಸ್ಪೋನೆಂಟ್' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ಆಧಾರವನ್ನು ಎಷ್ಟು ಬಾರಿ ಗುಣಿಸಬೇಕು ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಹತ್ತರ ಘಾತ ನಾಲ್ಕು ಎಂಬ ಸಂಪೂರ್ಣ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು 'ಘಾತ' ಅಥವಾ 'ಪವರ್' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದರ ಮೌಲ್ಯ ಹತ್ತು ಸಾವಿರ.",
+  "script_display": "ಈಗ ಘಾತಾಂಕ ರೂಪದ ಪ್ರಮುಖ ಭಾಗಗಳನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಉದಾಹರಣೆಯಾದ $10^4$ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ, 10 ಎಂಬ ಸಂಖ್ಯೆಯನ್ನು 'ಆಧಾರ' (Base) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ಯಾವ ಸಂಖ್ಯೆಯನ್ನು ಪುನರಾವರ್ತಿತವಾಗಿ ಗುಣಿಸಲಾಗುತ್ತಿದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. 4 ಎಂಬ ಸಂಖ್ಯೆಯನ್ನು 'ಘಾತಸೂಚಿ' (Exponent) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ಆಧಾರವನ್ನು ಎಷ್ಟು ಬಾರಿ ಗುಣಿಸಬೇಕು ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. $10^4$ ಎಂಬ ಸಂಪೂರ್ಣ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು 'ಘಾತ' (Power) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದರ ಮೌಲ್ಯ 10,000.",
+  "display_bullets": [
+    "ಆಧಾರ (Base): ಪುನರಾವರ್ತಿತವಾಗಿ ಗುಣಿಸುವ ಸಂಖ್ಯೆ (ಇಲ್ಲಿ, 10).",
+    "ಘಾತಸೂಚಿ (Exponent): ಆಧಾರವನ್ನು ಎಷ್ಟು ಬಾರಿ ಗುಣಿಸಬೇಕು ಎಂದು ಸೂಚಿಸುವ ಸಂಖ್ಯೆ (ಇಲ್ಲಿ, 4).",
+    "ಘಾತ (Power): ಸಂಪೂರ್ಣ ಘಾತಾಂಕ ರೂಪ ($10^4$) ಮತ್ತು ಅದರ ಮೌಲ್ಯ (10,000)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An image showing the expression 10^4. An arrow points from '10' to a label 'ಆಧಾರ (Base)'. Another arrow points from '4' to a label 'ಘಾತಸೂಚಿ (Exponent)'. A bracket encloses the entire '10^4' expression, pointing to a label 'ಘಾತ (Power)'.",
+    "labels": "ಆಧಾರ, ಘಾತಸೂಚಿ, ಘಾತ, Base, Exponent, Power",
+    "mathematical_significance": "Visually breaks down the components of an exponential form, clearly labeling the base, exponent, and the power itself.",
+    "placeholder_note": "Image to be generated showing the parts of 10^4."
+  },
+  "chunk_id": "NS-EXP-2_concept_1_chunk_004"
+}

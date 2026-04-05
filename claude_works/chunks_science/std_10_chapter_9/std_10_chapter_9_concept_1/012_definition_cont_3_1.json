@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಲಂಬವನ್ನು ಚಿತ್ರಿಸುವುದು ಹೇಗೆ?",
+  "script": "ಇದನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ನೋಡಿ, ಒಂದು ಸಮತಲ ದರ್ಪಣವಿದೆ, ಅದು ನಮ್ಮ ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈ. ಒಂದು ಬೆಳಕಿನ ಕಿರಣವು ಈ ದರ್ಪಣದ ಮೇಲೆ ಒಂದು ನಿರ್ದಿಷ್ಟ ಬಿಂದುವಿನಲ್ಲಿ ಬೀಳುತ್ತದೆ. ಆ ಬಿಂದುವನ್ನು ನಾವು 'ಪತನ ಬಿಂದು' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈಗ, ನಿಖರವಾಗಿ ಆ ಪತನ ಬಿಂದುವಿನಿಂದ, ದರ್ಪಣದ ಮೇಲ್ಮೈಗೆ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಕೋನವನ್ನು ಮಾಡುವಂತೆ ಒಂದು ಸರಳ ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಈ ಚುಕ್ಕೆಗಳಿಂದ ಗುರುತಿಸಲಾದ ಕಾಲ್ಪನಿಕ ರೇಖೆಯೇ 'ಲಂಬ'. ಇದು ಯಾವಾಗಲೂ ಮೇಲ್ಮೈಗೆ ಲಂಬವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಇದನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಒಂದು ಸಮತಲ ದರ್ಪಣವಿದೆ (ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈ). ಬೆಳಕಿನ ಕಿರಣವು ದರ್ಪಣದ ಮೇಲೆ ಬೀಳುವ ಬಿಂದುವನ್ನು 'ಪತನ ಬಿಂದು' ಎನ್ನುತ್ತೇವೆ. ನಿಖರವಾಗಿ ಆ ಪತನ ಬಿಂದುವಿನಿಂದ, ದರ್ಪಣದ ಮೇಲ್ಮೈಗೆ 90° ಕೋನವನ್ನು ಮಾಡುವಂತೆ ಎಳೆದ ಕಾಲ್ಪನಿಕ ರೇಖೆಯೇ 'ಲಂಬ'. ಇದು ಯಾವಾಗಲೂ ಮೇಲ್ಮೈಗೆ ಲಂಬವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮೊದಲು, ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈಯನ್ನು (ಉದಾ: ದರ್ಪಣ) ಗುರುತಿಸಿ.",
+    "ಬೆಳಕು ಮೇಲ್ಮೈಯನ್ನು ತಾಗುವ 'ಪತನ ಬಿಂದು'ವನ್ನು ಗುರುತಿಸಿ.",
+    "ಆ ಬಿಂದುವಿನಿಂದ, ಮೇಲ್ಮೈಗೆ 90° ಕೋನದಲ್ಲಿ ಒಂದು ಕಾಲ್ಪನಿಕ ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಇದೇ ಲಂಬ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a horizontal line representing a reflecting surface (mirror). A point on this line is marked as 'Point of Incidence'. From this point, a dashed vertical line is drawn upwards, perpendicular to the surface. A square symbol indicates the 90-degree angle between the dashed line (Normal) and the surface.",
+    "labels": "ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈ, ಪತನ ಬಿಂದು, ಲಂಬ (Normal), 90°",
+    "scientific_significance": "This diagram illustrates the geometric construction of the Normal, which is a fundamental concept for understanding the laws of reflection and refraction. It is an imaginary line perpendicular to the surface at the point where light interacts with it.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "chunk_id": "std_10_chapter_9_concept_1_chunk_012"
+}

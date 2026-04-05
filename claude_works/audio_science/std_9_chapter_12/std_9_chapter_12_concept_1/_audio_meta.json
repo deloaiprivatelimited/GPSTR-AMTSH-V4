@@ -1,0 +1,92 @@
+{
+  "module_id": "std_9_chapter_12_concept_1",
+  "chapter_code": "std_9_chapter_12",
+  "voice": "Rasalgethi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:45:26",
+  "chunks": {
+    "005_classification_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "e11cfbd92975e32a745f81aa6dcbc0a8",
+      "wav_file": "005_classification_cont_1_1.wav",
+      "duration": 40.691,
+      "slide_title": "ಖಾರಿಫ್ ಬೆಳೆಗಳು (Kharif Crops)",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 15:44:20"
+    },
+    "004_classification_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "cf3fad9b8d47a5c8aa35f1d0faf636a5",
+      "wav_file": "004_classification_1.wav",
+      "duration": 40.571,
+      "slide_title": "ಬೆಳೆ ಋತುಗಳ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 15:44:33"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "2890a7121a241845d20e5f930683f61f",
+      "wav_file": "001_intro_0.wav",
+      "duration": 55.851,
+      "slide_title": "ಆಹಾರದ ಆಕರಗಳು ಮತ್ತು ಬೆಳೆಗಳ ಋತುಗಳು",
+      "type": "intro",
+      "script_words": 87,
+      "generated_at": "2026-04-02 15:44:43"
+    },
+    "002_classification_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "89f0ab40f85f3c02702b240bc8a57e5d",
+      "wav_file": "002_classification_0.wav",
+      "duration": 48.651,
+      "slide_title": "ಪೋಷಕಾಂಶ ಆಧಾರಿತ ಆಹಾರದ ಆಕರಗಳು (ಭಾಗ 1)",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 15:44:49"
+    },
+    "003_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "53aa8704c4cf569cb24f4d0bfd388636",
+      "wav_file": "003_classification_cont_0_1.wav",
+      "duration": 53.611,
+      "slide_title": "ಪೋಷಕಾಂಶ ಆಧಾರಿತ ಆಹಾರದ ಆಕರಗಳು (ಭಾಗ 2)",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 15:44:56"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "51f771aa9f749bb235694132e7d51db0",
+      "wav_file": "007_recap_0.wav",
+      "duration": 41.731,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 52,
+      "generated_at": "2026-04-02 15:45:19"
+    },
+    "006_classification_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "124ec99be941fbe41d51ec14b017d9cb",
+      "wav_file": "006_classification_cont_1_2.wav",
+      "duration": 39.091,
+      "slide_title": "ರಬಿ ಬೆಳೆಗಳು (Rabi Crops)",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 15:45:26"
+    }
+  }
+}

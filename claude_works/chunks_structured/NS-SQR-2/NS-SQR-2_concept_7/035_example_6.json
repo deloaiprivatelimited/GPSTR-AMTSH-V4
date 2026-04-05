@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ ಪರಿಚಯ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನವನ್ನು ಬಳಸಿ ನಾವು 729 ಮತ್ತು 1296 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು ನಾವು 729 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ, ನಂತರ 1296 ಕ್ಕೆ ಮುಂದುವರಿಯೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನವನ್ನು ಬಳಸಿ ನಾವು 729 ಮತ್ತು 1296 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು ನಾವು 729 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ, ನಂತರ 1296 ಕ್ಕೆ ಮುಂದುವರಿಯೋಣ.",
+  "display_bullets": [
+    "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ ಈ ಕೆಳಗಿನವುಗಳ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:",
+    "(i) 729",
+    "(ii) 1296"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_kannada",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-SQR-2_example_14",
+  "chunk_id": "NS-SQR-2_concept_7_chunk_035"
+}

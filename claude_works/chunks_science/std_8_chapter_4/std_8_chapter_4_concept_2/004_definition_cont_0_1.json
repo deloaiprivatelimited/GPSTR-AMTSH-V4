@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಜ್ವಲನ ತಾಪ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ಕಾಗದದ ಹಾಳೆ ಮತ್ತು ಒಂದು ಉರಿಯುತ್ತಿರುವ ಬೆಂಕಿ ಕಡ್ಡಿ. ಕೋಣೆಯ ತಾಪಮಾನದಲ್ಲಿ ಕಾಗದ ಉರಿಯುವುದಿಲ್ಲ. ಯಾಕೆಂದರೆ ಅದರ ತಾಪಮಾನವು ಅದರ ಜ್ವಲನ ತಾಪಕ್ಕಿಂತ ತುಂಬಾ ಕಡಿಮೆ ಇರುತ್ತದೆ. ನಾವು ಬೆಂಕಿ ಕಡ್ಡಿಯ ಉಷ್ಣವು ಕಾಗದದ ತಾಪವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. ಯಾವಾಗ ಕಾಗದದ ತಾಪಮಾನವು ಅದರ ಜ್ವಲನ ತಾಪವನ್ನು ತಲುಪುತ್ತದೆಯೋ, ಆಗ ಕಾಗದ ಹೊತ್ತಿಕೊಳ್ಳುತ್ತದೆ. ಇಲ್ಲಿ ಬೆಂಕಿ ಕಡ್ಡಿ ಜ್ವಲನ ತಾಪವನ್ನು ತಲುಪಲು ಬೇಕಾದ ಆರಂಭಿಕ ಉಷ್ಣವನ್ನು ಒದಗಿಸುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆ ನೋಡೋಣ: ಒಂದು ಕಾಗದದ ಹಾಳೆ ಮತ್ತು ಒಂದು ಉರಿಯುತ್ತಿರುವ ಬೆಂಕಿ ಕಡ್ಡಿ.\n\n* ಕೋಣೆಯ ತಾಪಮಾನದಲ್ಲಿ (room temperature) ಕಾಗದ ಉರಿಯುವುದಿಲ್ಲ. ಕಾರಣ, ಅದರ ತಾಪಮಾನವು ಅದರ ಜ್ವಲನ ತಾಪಕ್ಕಿಂತ ತುಂಬಾ ಕಡಿಮೆ ಇರುತ್ತದೆ.\n* ಬೆಂಕಿ ಕಡ್ಡಿಯ ಉಷ್ಣವು (heat) ಕಾಗದದ ತಾಪವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.\n* ಜ್ವಲನ ತಾಪವನ್ನು ತಲುಪಿದಾಗ ಕಾಗದ ಹೊತ್ತಿಕೊಳ್ಳುತ್ತದೆ. ಇಲ್ಲಿ ಬೆಂಕಿ ಕಡ್ಡಿ ಜ್ವಲನ ತಾಪವನ್ನು ತಲುಪಲು ಬೇಕಾದ ಆರಂಭಿಕ ಉಷ್ಣವನ್ನು ಒದಗಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕೋಣೆಯ ತಾಪಮಾನದಲ್ಲಿ ಕಾಗದ ಉರಿಯುವುದಿಲ್ಲ.",
+    "ಬೆಂಕಿ ಕಡ್ಡಿಯ ಉಷ್ಣವು ಕಾಗದದ ತಾಪವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+    "ಜ್ವಲನ ತಾಪವನ್ನು ತಲುಪಿದಾಗ ಕಾಗದ ಹೊತ್ತಿಕೊಳ್ಳುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a lit matchstick being brought close to a piece of paper. An arrow indicates heat transferring from the match to the paper. A thermometer icon next to the paper shows its temperature rising towards a red line marked 'Ignition Temperature'.",
+    "labels": "ಬೆಂಕಿ ಕಡ್ಡಿ, ಉಷ್ಣ, ಕಾಗದ, ಜ್ವಲನ ತಾಪ",
+    "scientific_significance": "Illustrates that an external heat source is required to raise a substance to its ignition temperature for combustion to begin.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_4_concept_2_chunk_004"
+}

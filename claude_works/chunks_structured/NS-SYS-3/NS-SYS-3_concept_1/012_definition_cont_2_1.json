@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಪೂರ್ಣಾಂಕಗಳು",
+  "script": "ಪೂರ್ಣಾಂಕಗಳನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಈ ಸಂಖ್ಯಾರೇಖೆಯನ್ನು ಗಮನಿಸಿ. ಸಂಖ್ಯಾರೇಖೆಯ ಮಧ್ಯದಲ್ಲಿ ಸೊನ್ನೆ ಇರುತ್ತದೆ. ಸೊನ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿ ಧನ ಪೂರ್ಣಾಂಕಗಳು ಇರುತ್ತವೆ, ಅಂದರೆ ಒಂದು, ಎರಡು, ಮೂರು, ಹೀಗೆ ಅನಂತದವರೆಗೆ ಮುಂದುವರೆಯುತ್ತವೆ. ಇವುಗಳನ್ನು ನಾವು ಧನ ಸಂಖ್ಯೆಗಳು ಎಂದೂ ಕರೆಯುತ್ತೇವೆ. ಸೊನ್ನೆಯ ಎಡಭಾಗದಲ್ಲಿ ಋಣ ಪೂರ್ಣಾಂಕಗಳು ಇರುತ್ತವೆ, ಅಂದರೆ ಮೈನಸ್ ಒಂದು, ಮೈನಸ್ ಎರಡು, ಮೈನಸ್ ಮೂರು, ಹೀಗೆ. ಈ ಸಂಪೂರ್ಣ ಸಂಗ್ರಹ, ಅಂದರೆ ಋಣ ಸಂಖ್ಯೆಗಳು, ಸೊನ್ನೆ, ಮತ್ತು ಧನ ಸಂಖ್ಯೆಗಳು, ಇವೆಲ್ಲವೂ ಸೇರಿ ಪೂರ್ಣಾಂಕಗಳ ಗಣವನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+  "script_display": "ಪೂರ್ಣಾಂಕಗಳನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಈ ಸಂಖ್ಯಾರೇಖೆಯನ್ನು ಗಮನಿಸಿ. ಸಂಖ್ಯಾರೇಖೆಯ ಮಧ್ಯದಲ್ಲಿ ಸೊನ್ನೆ ($0$) ಇರುತ್ತದೆ. ಸೊನ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿ ಧನ ಪೂರ್ಣಾಂಕಗಳು ($1, 2, 3, ...$) ಇರುತ್ತವೆ, ಅಂದರೆ ಧನ ಸಂಖ್ಯೆಗಳು. ಸೊನ್ನೆಯ ಎಡಭಾಗದಲ್ಲಿ ಋಣ ಪೂರ್ಣಾಂಕಗಳು ($-1, -2, -3, ...$) ಇರುತ್ತವೆ. ಈ ಸಂಪೂರ್ಣ ಸಂಗ್ರಹ, ಅಂದರೆ ಋಣ ಸಂಖ್ಯೆಗಳು, ಸೊನ್ನೆ, ಮತ್ತು ಧನ ಸಂಖ್ಯೆಗಳು, ಇವೆಲ್ಲವೂ ಸೇರಿ ಪೂರ್ಣಾಂಕಗಳ ಗಣವನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಸಂಖ್ಯಾರೇಖೆಯ ಮಧ್ಯದಲ್ಲಿ ಸೊನ್ನೆ (0) ಇರುತ್ತದೆ.",
+    "ಸೊನ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿ ಧನ ಪೂರ್ಣಾಂಕಗಳು (1, 2, 3, ...) ಇರುತ್ತವೆ.",
+    "ಸೊನ್ನೆಯ ಎಡಭಾಗದಲ್ಲಿ ಋಣ ಪೂರ್ಣಾಂಕಗಳು (-1, -2, -3, ...) ಇರುತ್ತವೆ.",
+    "ಈ ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳ ಗುಂಪು ಪೂರ್ಣಾಂಕಗಳಾಗಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_clean",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line centered at 0. To the right, positive integers 1, 2, 3 are marked. To the left, negative integers -1, -2, -3 are marked. An arrow points right labeled 'ಧನ ಪೂರ್ಣಾಂಕಗಳು' and an arrow points left labeled 'ಋಣ ಪೂರ್ಣಾಂಕಗಳು'.",
+    "labels": "Number line, Integers, Positive Integers, Negative Integers, Zero",
+    "mathematical_significance": "Visually represents the set of integers, showing their order and relationship to zero.",
+    "placeholder_note": "Image to be generated for number line showing integers."
+  },
+  "chunk_id": "NS-SYS-3_concept_1_chunk_012"
+}

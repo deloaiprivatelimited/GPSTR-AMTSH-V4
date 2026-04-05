@@ -1,0 +1,81 @@
+{
+  "module_id": "std_6_chapter_11_concept_4",
+  "chapter_code": "std_6_chapter_11",
+  "voice": "Iapetus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:23:10",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "38d8b86679100b4d5205c23c0277b055",
+      "wav_file": "001_intro_0.wav",
+      "duration": 44.531,
+      "slide_title": "ಸೂರ್ಯನ ಶಕ್ತಿ",
+      "type": "intro",
+      "script_words": 75,
+      "generated_at": "2026-04-02 13:22:03"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "e6d7233e4d401a32258e6045159a4f7f",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.691,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 32,
+      "generated_at": "2026-04-02 13:22:11"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "27fcab0c5fe8817d2eb34c312493ab81",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 45.251,
+      "slide_title": "ಶಾಖಕ್ಕಾಗಿ ಬಳಕೆ",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 13:22:17"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "63e37708d0e0a029eb9a29d21be0bfa5",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 46.251,
+      "slide_title": "ವಿದ್ಯುತ್‌ಗಾಗಿ ಬಳಕೆ",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:22:18"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "e2f3da0cd5d8953efbf80d8f1f63a483",
+      "wav_file": "003_classification_0.wav",
+      "duration": 43.931,
+      "slide_title": "ಸೌರಶಕ್ತಿಯ ನೇರ ಉಪಯೋಗಗಳು",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:22:35"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "eccf6a54d1f7768ba3b60275f7ff3d94",
+      "wav_file": "006_recap_0.wav",
+      "duration": 45.931,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 49,
+      "generated_at": "2026-04-02 13:23:10"
+    }
+  }
+}

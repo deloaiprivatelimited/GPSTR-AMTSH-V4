@@ -1,0 +1,79 @@
+{
+  "module_id": "std_10_chapter_6_concept_5",
+  "chapter_code": "std_10_chapter_6",
+  "voice": "Achird",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 235.266,
+  "total_duration_formatted": "3:55",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_6_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಸ್ಯಗಳಲ್ಲಿ ಸಹಭಾಗಿತ್ವ: ನಾಸ್ಟಿಕ್ ಚಲನೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 45.891,
+      "duration": 45.891,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_10_chapter_6_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 46.491,
+      "end": 77.462,
+      "duration": 30.971,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "std_10_chapter_6_concept_5_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ನಾಸ್ಟಿಕ್ ಚಲನೆ (Nastic Movement)",
+      "type": "definition",
+      "start": 78.062,
+      "end": 113.473,
+      "duration": 35.411,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "std_10_chapter_6_concept_5_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಕಾರ್ಯವಿಧಾನ: ಮುಟ್ಟಿದರೆ ಮುನಿ ಸಸ್ಯ",
+      "type": "definition",
+      "start": 114.073,
+      "end": 150.284,
+      "duration": 36.211,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "std_10_chapter_6_concept_5_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ನಾಸ್ಟಿಕ್ ಚಲನೆ vs ಅನುವರ್ತನಾ ಚಲನೆ",
+      "type": "definition",
+      "start": 150.884,
+      "end": 191.815,
+      "duration": 40.931,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "std_10_chapter_6_concept_5_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ನಾಸ್ಟಿಕ್ ಚಲನೆ",
+      "type": "recap",
+      "start": 192.415,
+      "end": 234.666,
+      "duration": 42.251,
+      "script_words": 51
+    }
+  ]
+}

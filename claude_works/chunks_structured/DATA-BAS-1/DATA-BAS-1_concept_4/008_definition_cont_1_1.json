@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನೀವು ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುತ್ತೀರಿ ಎಂದು ಭಾವಿಸಿ. ಈ ಕ್ರಿಯೆಯನ್ನು ನಾವು 'ಪ್ರಯೋಗ' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ನಾಣ್ಯವು ನೆಲಕ್ಕೆ ಬಿದ್ದಾಗ, ಎರಡು ಸಂಭವನೀಯ ಪರಿಣಾಮಗಳು ಉಂಟಾಗಬಹುದು. ಒಂದು, ಅದು ಶಿರ ಅಥವಾ ಹೆಡ್ಸ್ ಆಗಿರಬಹುದು. ಇನ್ನೊಂದು, ಅದು ಪುಚ್ಛ ಅಥವಾ ಟೇಲ್ಸ್ ಆಗಿರಬಹುದು. ಇಲ್ಲಿ, 'ಶಿರ' ಎಂಬುದು ಒಂದು ಫಲಿತಾಂಶ. ಹಾಗೆಯೇ, 'ಪುಚ್ಛ' ಎಂಬುದು ಇನ್ನೊಂದು ಫಲಿತಾಂಶ. ಅಂದರೆ, ಈ ಪ್ರಯೋಗದಲ್ಲಿ ಒಟ್ಟು ಎರಡು ಸಾಧ್ಯವಿರುವ ಫಲಿತಾಂಶಗಳಿವೆ. ಪ್ರತಿಯೊಂದು ಸಾಧ್ಯತೆಯನ್ನೂ ನಾವು ಒಂದು ಫಲಿತಾಂಶ ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನೀವು ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುತ್ತೀರಿ ಎಂದು ಭಾವಿಸಿ. ಈ ಕ್ರಿಯೆಯನ್ನು ನಾವು 'ಪ್ರಯೋಗ' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ನಾಣ್ಯವು ನೆಲಕ್ಕೆ ಬಿದ್ದಾಗ, ಎರಡು ಸಂಭವನೀಯ ಪರಿಣಾಮಗಳು ಉಂಟಾಗಬಹುದು. ಒಂದು, ಅದು ಶಿರ (Heads) ಆಗಿರಬಹುದು. ಇನ್ನೊಂದು, ಅದು ಪುಚ್ಛ (Tails) ಆಗಿರಬಹುದು. ಇಲ್ಲಿ, 'ಶಿರ' ಎಂಬುದು ಒಂದು ಫಲಿತಾಂಶ. ಹಾಗೆಯೇ, 'ಪುಚ್ಛ' ಎಂಬುದು ಇನ್ನೊಂದು ಫಲಿತಾಂಶ. ಅಂದರೆ, ಈ ಪ್ರಯೋಗದಲ್ಲಿ ಒಟ್ಟು ಎರಡು ಸಾಧ್ಯವಿರುವ ಫಲಿತಾಂಶಗಳಿವೆ. ಪ್ರತಿಯೊಂದು ಸಾಧ್ಯತೆಯನ್ನೂ ನಾವು ಒಂದು ಫಲಿತಾಂಶ ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಪ್ರಯೋಗ: ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು.",
+    "ಸಂಭವನೀಯ ಫಲಿತಾಂಶ 1: ಶಿರ (Heads).",
+    "ಸಂಭವನೀಯ ಫಲಿತಾಂಶ 2: ಪುಚ್ಛ (Tails).",
+    "ಇಲ್ಲಿ 'ಶಿರ' ಮತ್ತು 'ಪುಚ್ಛ' ಇವೆರಡೂ ಪ್ರತ್ಯೇಕ ಫಲಿತಾಂಶಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a coin being tossed. On one side, an arrow points to a coin showing 'Heads' (ಶಿರ). On the other side, an arrow points to a coin showing 'Tails' (ಪುಚ್ಛ).",
+    "labels": "ನಾಣ್ಯ ಚಿಮ್ಮುವಿಕೆ, ಶಿರ (Heads), ಪುಚ್ಛ (Tails)",
+    "mathematical_significance": "Illustrates the two possible outcomes of a simple random experiment (coin toss).",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_008"
+}

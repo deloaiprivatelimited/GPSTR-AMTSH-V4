@@ -1,0 +1,62 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಭಾಗ 1 (ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆ)",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ BOC ಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸೋಣ. ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಪರಿಗಣಿಸಿ. ನಮಗೆ ದತ್ತಾಂಶದ ಪ್ರಕಾರ, ಬಾಹು OA ಯು ಬಾಹು OB ಗೆ ಸಮವಾಗಿದೆ. ಹಾಗೆಯೇ, ಕೋನ AOD ಮತ್ತು ಕೋನ BOC ಗಳು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿರುವುದರಿಂದ ಅವು ಸಮವಾಗಿರುತ್ತವೆ. ಮತ್ತು, ಬಾಹು OD ಯು ಬಾಹು OC ಗೆ ಸಮ ಎಂದು ಕೂಡ ದತ್ತಾಂಶದಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ಇಲ್ಲಿ, ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನವು ಮತ್ತೊಂದು ತ್ರಿಭುಜದ ಅನುರೂಪ ಬಾಹುಗಳು ಮತ್ತು ನಡುವಿನ ಕೋನಕ್ಕೆ ಸಮವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಬಾಹು-ಕೋನ-ಬಾಹು, ಅಂದರೆ ಬಾ.ಕೋ.ಬಾ ಸರ್ವಸಮತೆಯ ನಿಬಂಧನೆಯ ಪ್ರಕಾರ, ತ್ರಿಭುಜ AOD ಯು ತ್ರಿಭುಜ BOC ಗೆ ಸರ್ವಸಮವಾಗಿದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು $\\triangle AOD$ ಮತ್ತು $\\triangle BOC$ ಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸೋಣ. ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಪರಿಗಣಿಸಿ. ನಮಗೆ ದತ್ತಾಂಶದ ಪ್ರಕಾರ, ಬಾಹು $OA$ ಯು ಬಾಹು $OB$ ಗೆ ಸಮವಾಗಿದೆ. ಹಾಗೆಯೇ, $\\angle AOD$ ಮತ್ತು $\\angle BOC$ ಗಳು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿರುವುದರಿಂದ ಅವು ಸಮವಾಗಿರುತ್ತವೆ. ಮತ್ತು, ಬಾಹು $OD$ ಯು ಬಾಹು $OC$ ಗೆ ಸಮ ಎಂದು ಕೂಡ ದತ್ತಾಂಶದಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ಇಲ್ಲಿ, ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನವು ಮತ್ತೊಂದು ತ್ರಿಭುಜದ ಅನುರೂಪ ಬಾಹುಗಳು ಮತ್ತು ನಡುವಿನ ಕೋನಕ್ಕೆ ಸಮವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಬಾಹು-ಕೋನ-ಬಾಹು, ಅಂದರೆ ಬಾ.ಕೋ.ಬಾ ಸರ್ವಸಮತೆಯ ನಿಬಂಧನೆಯ ಪ್ರಕಾರ, $\\triangle AOD \\cong \\triangle BOC$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಚಿತ್ರ 7.8, ಇದರಲ್ಲಿ ಅನುರೂಪ ಬಾಹುಗಳಾದ (OA, OB) ಮತ್ತು (OD, OC) ಹಾಗೂ ನಡುವಿನ ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾದ (∠AOD, ∠BOC) ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಬಾ.ಕೋ.ಬಾ ನಿಯಮವನ್ನು ಅನ್ವಯಿಸಲು ಬೇಕಾದ ಸಮನಾದ ಭಾಗಗಳನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for figure 7.8 with SAS parts highlighted."
+  },
+  "source_example_id": "GEO-TRI-2_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\triangle AOD$ ಮತ್ತು $\\triangle BOC$ ಗಳಲ್ಲಿ,",
+      "justification": "ತ್ರಿಭುಜಗಳ ಆಯ್ಕೆ"
+    },
+    {
+      "step": 2,
+      "action_display": "$OA = OB$ (ದತ್ತ)",
+      "justification": "ಬಾಹು"
+    },
+    {
+      "step": 3,
+      "action_display": "$\\angle AOD = \\angle BOC$ (ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು)",
+      "justification": "ಕೋನ"
+    },
+    {
+      "step": 4,
+      "action_display": "$OD = OC$ (ದತ್ತ)",
+      "justification": "ಬಾಹು"
+    },
+    {
+      "step": 5,
+      "action_display": "$\\therefore \\triangle AOD \\cong \\triangle BOC$",
+      "justification": "ಬಾ.ಕೋ.ಬಾ ಸರ್ವಸಮತೆಯ ನಿಬಂಧನೆ"
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_048"
+}

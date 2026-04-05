@@ -1,0 +1,31 @@
+{
+  "type": "prerequisites",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಿಮಗೆ ಕೆಲವು ವಿಷಯಗಳು ಮೊದಲೇ ತಿಳಿದಿರಬೇಕು. ಅವುಗಳೆಂದರೆ, ಜೀವಕೋಶದ ಮೂಲ ರಚನೆ, ಕೋಶಪೊರೆಯ ರಚನೆ ಮತ್ತು ಅದರ ಕಾರ್ಯಗಳು, ಮತ್ತು ವಿಸರಣೆ ಪ್ರಕ್ರಿಯೆ. ಈ ಪರಿಕಲ್ಪನೆಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ಸ್ಪಷ್ಟತೆ ಇದ್ದರೆ, ಅಭಿಸರಣೆಯನ್ನು ಕಲಿಯುವುದು ತುಂಬಾ ಸುಲಭವಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಿಮಗೆ ಈ ಕೆಳಗಿನ ವಿಷಯಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರಬೇಕು:",
+  "display_bullets": [
+    "ಜೀವಕೋಶದ ಮೂಲ ರಚನೆ",
+    "ಕೋಶಪೊರೆಯ ರಚನೆ ಮತ್ತು ಕಾರ್ಯ",
+    "ವಿಸರಣೆ (Diffusion) ಪ್ರಕ್ರಿಯೆ"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_9_chapter_5_concept_4_chunk_002"
+}

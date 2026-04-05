@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಮ್ಲ ಮಳೆ ರಚನೆ: ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈಗ, ಸಲ್ಫರ್ ಡೈಆಕ್ಸೆಡ್ ವಾತಾವರಣದಲ್ಲಿನ ನೀರಿನೊಂದಿಗೆ ಹೇಗೆ ವರ್ತಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡೋಣ. ಒಂದು ಸಲ್ಫರ್ ಡೈಆಕ್ಸೆಡ್ ಅಣುವು ಒಂದು ನೀರಿನ ಅಣುವಿನೊಂದಿಗೆ ಸೇರಿ ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲದ ಒಂದು ಅಣುವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ, ಸಲ್ಫರ್ ಡೈಆಕ್ಸೆಡ್ (SO₂) ವಾತಾವರಣದಲ್ಲಿನ ನೀರಿನೊಂದಿಗೆ (H₂O) ಹೇಗೆ ವರ್ತಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡೋಣ. ಈ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_center_description_bottom",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "SO_2(g) + H_2O(l) \\rightarrow H_2SO_3(aq)",
+    "placeholder_note": "The chemical equation for the formation of sulfurous acid from sulfur dioxide and water."
+  },
+  "chunk_id": "std_8_chapter_4_concept_7_chunk_010"
+}

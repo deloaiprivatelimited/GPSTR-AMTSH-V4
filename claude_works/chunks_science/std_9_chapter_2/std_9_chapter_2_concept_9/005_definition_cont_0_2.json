@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಧಾತು vs. ಸಂಯುಕ್ತ (Element vs. Compound)",
+  "script": "ಧಾತುವಿನ ಪರಿಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳಲು, ಅದನ್ನು ಒಂದು ಸಂಯುಕ್ತದೊಂದಿಗೆ ಹೋಲಿಕೆ ಮಾಡೋಣ. ಉದಾಹರಣೆಗೆ, ಚಿನ್ನ ಒಂದು ಧಾತು. ಆದರೆ ನೀರು ಒಂದು ಸಂಯುಕ್ತ ವಸ್ತುವಾಗಿದೆ, ಅದು ಧಾತುವಲ್ಲ. ಯಾಕೆ ಹೀಗೆ? ಏಕೆಂದರೆ, ಚಿನ್ನವನ್ನು ನಾವು ವಿಭಜಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ, ಅದರಲ್ಲಿ ಕೇವಲ ಚಿನ್ನದ ಪರಮಾಣುಗಳೇ ಇರುತ್ತವೆ. ಆದರೆ, ನೀರನ್ನು ನಾವು ವಿದ್ಯುದ್ವಿಭಜನೆ ಎಂಬ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯ ಮೂಲಕ ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಕ್ಸಿಜನ್ ಎಂಬ ಎರಡು ಸರಳ ಧಾತುಗಳಾಗಿ ವಿಭಜಿಸಬಹುದು. ಇದೇ ಧಾತು ಮತ್ತು ಸಂಯುಕ್ತದ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ. ಧಾತುವನ್ನು ವಿಭಜಿಸಲಾಗದು, ಸಂಯುಕ್ತವನ್ನು ವಿಭಜಿಸಬಹುದು.",
+  "script_display": "ಧಾತುವಿನ ಪರಿಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳಲು, ಅದನ್ನು ಒಂದು ಸಂಯುಕ್ತದೊಂದಿಗೆ ಹೋಲಿಕೆ ಮಾಡೋಣ. ಉದಾಹರಣೆಗೆ, ಚಿನ್ನ ಒಂದು ಧಾತು. ಆದರೆ ನೀರು (H₂O) ಒಂದು ಸಂಯುಕ್ತ ವಸ್ತುವಾಗಿದೆ, ಅದು ಧಾತುವಲ್ಲ. ಯಾಕೆ ಹೀಗೆ? ಏಕೆಂದರೆ, ಚಿನ್ನವನ್ನು ನಾವು ವಿಭಜಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ, ಅದರಲ್ಲಿ ಕೇವಲ ಚಿನ್ನದ ಪರಮಾಣುಗಳೇ ಇರುತ್ತವೆ. ಆದರೆ, ನೀರನ್ನು ನಾವು ವಿದ್ಯುದ್ವಿಭಜನೆ (electrolysis) ಎಂಬ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯ ಮೂಲಕ ಹೈಡ್ರೋಜನ್ (H₂) ಮತ್ತು ಆಕ್ಸಿಜನ್ (O₂) ಎಂಬ ಎರಡು ಸರಳ ಧಾತುಗಳಾಗಿ ವಿಭಜಿಸಬಹುದು. ಇದೇ ಧಾತು ಮತ್ತು ಸಂಯುಕ್ತದ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "simple_blue",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "{\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{|p{0.45\\textwidth}|p{0.45\\textwidth}|}\n\\hline\n\\textbf{ಧಾತು (Element)} & \\textbf{ಸಂಯುಕ್ತ (Compound)} \\\\\n\\hline\n\\textbf{ಉದಾ: ಚಿನ್ನ (Au)} & \\textbf{ಉದಾ: ನೀರು (H₂O)} \\\\\n\\hline\nಒಂದೇ ಬಗೆಯ ಪರಮಾಣುಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ. & ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಬಗೆಯ ಪರಮಾಣುಗಳಿಂದ (ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಕ್ಸಿಜನ್) ಮಾಡಲ್ಪಟ್ಟಿದೆ. \\\\\n\\hline\nರಾಸಾಯನಿಕವಾಗಿ ಸರಳ ವಸ್ತುಗಳಾಗಿ ವಿಭಜಿಸಲು \\textbf{ಸಾಧ್ಯವಿಲ್ಲ}. & ರಾಸಾಯನಿಕವಾಗಿ ಸರಳ ವಸ್ತುಗಳಾಗಿ (H₂ ಮತ್ತು O₂) ವಿಭಜಿಸಲು \\textbf{ಸಾಧ್ಯವಿದೆ}. \\\\\n\\hline\n\\end{array}}",
+    "placeholder_note": "A two-column table comparing an Element (Gold) and a Compound (Water). Column 1 (Element): Example Gold (Au), made of same type of atoms, cannot be broken down chemically. Column 2 (Compound): Example Water (H2O), made of different types of atoms (H and O), can be broken down chemically into H2 and O2."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_2_concept_9_chunk_005"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಸಮಸ್ಯೆಯಲ್ಲಿ ನೀಡಿರುವ ದತ್ತಾಂಶವನ್ನು ಗುರುತಿಸೋಣ. ನಮಗೆ ವೃತ್ತದ ತ್ರಿಜ್ಯ, ಆರ್, 30 ಸೆಂಟಿಮೀಟರ್ ಎಂದು ನೀಡಲಾಗಿದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ವೃತ್ತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬೇಕಾದ ಸೂತ್ರವನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ, ಎ, ಪೈ ಆರ್ ಸ್ಕ್ವೇರ್ ಗೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಸಮಸ್ಯೆಯಲ್ಲಿ ನೀಡಿರುವ ದತ್ತಾಂಶವನ್ನು ಗುರುತಿಸೋಣ. ನಮಗೆ ವೃತ್ತದ ತ್ರಿಜ್ಯ, $r = 30$ cm ಎಂದು ನೀಡಲಾಗಿದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ವೃತ್ತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬೇಕಾದ ಸೂತ್ರವನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ, $A = \\pi r^2$ ಗೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "MEN-AREA-1_example_12",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತಾಂಶ: ತ್ರಿಜ್ಯ (r) = 30 cm",
+      "justification": "ವೃತ್ತದ ತ್ರಿಜ್ಯವನ್ನು ನೀಡಲಾಗಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಸೂತ್ರ: ವಿಸ್ತೀರ್ಣ (A) = πr²",
+      "justification": "ವೃತ್ತದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ."
+    }
+  ],
+  "chunk_id": "MEN-AREA-1_concept_6_chunk_015"
+}

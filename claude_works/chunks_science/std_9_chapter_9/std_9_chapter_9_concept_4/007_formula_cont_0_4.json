@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಪರಿಹಾರ (ಸಮಯ)",
+  "script": "ಈಗ ಸಮಯ t ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ v, u ಮತ್ತು g ತಿಳಿದಿದೆ. ಹಾಗಾಗಿ v equals u plus g t ಸಮೀಕರಣವನ್ನು ಬಳಸಬಹುದು. ನಾವು ಈಗಾಗಲೇ v ಯನ್ನು 20 ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. u ಶೂನ್ಯ. ಆದ್ದರಿಂದ, 20 equals zero plus ten times t. ಅಂದರೆ, 20 equals ten t. ಇದರಿಂದ t equals 20 ಭಾಗಿಸು 10, ಅಂದರೆ 2 ಸೆಕೆಂಡುಗಳು. ಹಾಗಾಗಿ, ಕಲ್ಲು ನೆಲವನ್ನು ತಲುಪಲು 2 ಸೆಕೆಂಡುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ. ನಾವು s equals u t plus half g t squared ಸಮೀಕರಣವನ್ನು ಬಳಸಿಯೂ ಸಮಯವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು, ಅದರಿಂದಲೂ ಇದೇ ಉತ್ತರ ಬರುತ್ತದೆ.",
+  "script_display": "**ಹಂತ 2: ಸಮಯ ($t$) ಕಂಡುಹಿಡಿಯುವುದು**",
+  "display_bullets": [
+    "ಸೂಕ್ತ ಸಮೀಕರಣ: $v = u + gt$",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: $20 = 0 + (10)t$",
+    "$20 = 10t$",
+    "ಸಮಯ: $t = \\frac{20}{10} = 2$ s"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "v = u + gt \\\\ 20 = 0 + (10)t \\\\ 10t = 20 \\\\ t = \\frac{20}{10} = 2 \\text{ s}",
+    "placeholder_note": "Calculation steps for finding the time 't'."
+  },
+  "chunk_id": "std_9_chapter_9_concept_4_chunk_007"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪತಂಗದ ಗುಣಲಕ್ಷಣಗಳು: ಕರ್ಣಗಳು",
+  "script": "ಮುಂದೆ, ಪತಂಗದ ಗುಣಗಳನ್ನು ನೋಡೋಣ, ವಿಶೇಷವಾಗಿ ಅದರ ಕರ್ಣಗಳ ಬಗ್ಗೆ. ಪತಂಗದ ಕರ್ಣಗಳಿಗೆ ಎರಡು ಪ್ರಮುಖ ಗುಣಗಳಿವೆ. ಮೊದಲನೆಯದು, ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ. ಅಂದರೆ, ಅವು ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಕೋನದಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಒಂದು ಕರ್ಣವು ಇನ್ನೊಂದು ಕರ್ಣವನ್ನು ಅರ್ಧಿಸುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಸಮನಾದ ಬಾಹುಗಳ ನಡುವೆ ಇಲ್ಲದ ಶೃಂಗಗಳನ್ನು ಸೇರಿಸುವ ಉದ್ದವಾದ ಕರ್ಣವು, ಇನ್ನೊಂದು ಚಿಕ್ಕ ಕರ್ಣವನ್ನು ಸಮನಾಗಿ ಎರಡು ಭಾಗ ಮಾಡುತ್ತದೆ. ಆದರೆ, ಚಿಕ್ಕ ಕರ್ಣವು ದೊಡ್ಡ ಕರ್ಣವನ್ನು ಅರ್ಧಿಸುವುದಿಲ್ಲ. ಇದು ಒಂದು ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ.",
+  "script_display": "ಮುಂದೆ, ಪತಂಗದ ಗುಣಗಳನ್ನು ನೋಡೋಣ, ವಿಶೇಷವಾಗಿ ಅದರ ಕರ್ಣಗಳ ಬಗ್ಗೆ. ಪತಂಗದ ಕರ್ಣಗಳಿಗೆ ಎರಡು ಪ್ರಮುಖ ಗುಣಗಳಿವೆ. ಮೊದಲನೆಯದು, ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ. ಅಂದರೆ, ಅವು $90°$ ಕೋನದಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಒಂದು ಕರ್ಣವು ಇನ್ನೊಂದು ಕರ್ಣವನ್ನು ಅರ್ಧಿಸುತ್ತದೆ (bisects). ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಸಮನಾದ ಬಾಹುಗಳ ನಡುವೆ ಇಲ್ಲದ ಶೃಂಗಗಳನ್ನು ಸೇರಿಸುವ ಉದ್ದವಾದ ಕರ್ಣವು ($AC$), ಇನ್ನೊಂದು ಚಿಕ್ಕ ಕರ್ಣವನ್ನು ($BD$) ಸಮನಾಗಿ ಎರಡು ಭಾಗ ಮಾಡುತ್ತದೆ. ಆದರೆ, ಚಿಕ್ಕ ಕರ್ಣವು ದೊಡ್ಡ ಕರ್ಣವನ್ನು ಅರ್ಧಿಸುವುದಿಲ್ಲ. ಇದು ಒಂದು ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ.",
+  "display_bullets": [
+    "ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ ($90°$ ಕೋನದಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ).",
+    "ಒಂದು ಕರ್ಣವು ಇನ್ನೊಂದು ಕರ್ಣವನ್ನು ಅರ್ಧಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right_text_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A kite ABCD with diagonals AC and BD intersecting at point M. A right-angle symbol is shown at M. The segments BM and MD are marked with a single tick to show they are equal (BM = MD). The segments AM and MC are not marked as equal, visually showing that AC is not bisected.",
+    "labels": "ಪತಂಗ, ಕರ್ಣಗಳು, ಲಂಬ, ಅರ್ಧಿಸು",
+    "mathematical_significance": "Visually demonstrates the two key properties of a kite's diagonals: they are perpendicular, and the main diagonal bisects the cross diagonal.",
+    "placeholder_note": "Image to be generated for kite diagonal properties."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_3_chunk_015"
+}

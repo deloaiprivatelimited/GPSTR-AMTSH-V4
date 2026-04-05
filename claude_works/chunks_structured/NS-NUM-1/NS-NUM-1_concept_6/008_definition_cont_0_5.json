@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ಗೆಲ್ಲುವ ಸ್ಥಾನಗಳನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ನಾವು 17 ನ್ನು ಒಂದು ಪ್ರಮುಖ ಸ್ಥಾನವೆಂದು ಗುರುತಿಸಿದ್ದೇವೆ. ಈಗ ಇದೇ ತರ್ಕವನ್ನು ಮುಂದುವರಿಸೋಣ. ನಾವು 17 ನ್ನು ಹೇಳಬೇಕಾದರೆ, ಅದಕ್ಕೂ ಹಿಂದಿನ ಪ್ರಮುಖ ಸ್ಥಾನ ಯಾವುದು? ಪ್ರತಿ ಹಂತದ ಅಂತರವು 4 ಆಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಾವು ಪ್ರತಿ ಪ್ರಮುಖ ಸ್ಥಾನದಿಂದ 4 ನ್ನು ಕಳೆಯುತ್ತಾ ಹಿಂದಕ್ಕೆ ಹೋಗಬೇಕು. 17 ಮೈನಸ್ 4 ಎಂದರೆ 13. ಹಾಗಾಗಿ 13 ಮತ್ತೊಂದು ಪ್ರಮುಖ ಸ್ಥಾನ. ನಂತರ 13 ಮೈನಸ್ 4 ಎಂದರೆ 9. ಹಾಗೆಯೇ 9 ಮೈನಸ್ 4 ಎಂದರೆ 5. ಮತ್ತು 5 ಮೈನಸ್ 4 ಎಂದರೆ 1. ಹೀಗೆ, 1, 5, 9, 13, ಮತ್ತು 17 ಇವು 'ಗೆಲ್ಲುವ ಸ್ಥಾನಗಳು' ಅಥವಾ 'ಮ್ಯಾಜಿಕ್ ಸಂಖ್ಯೆಗಳು'. ಈ ಸಂಖ್ಯೆಗಳನ್ನು ಯಾರು ಹೇಳುತ್ತಾರೋ, ಅವರು ಆಟವನ್ನು ನಿಯಂತ್ರಿಸುತ್ತಾರೆ.",
+  "script_display": "ನಾವು 17 ನ್ನು ಒಂದು ಪ್ರಮುಖ ಸ್ಥಾನವೆಂದು ಗುರುತಿಸಿದ್ದೇವೆ. ಈಗ ಇದೇ ತರ್ಕವನ್ನು ಮುಂದುವರಿಸೋಣ. ನಾವು 17 ನ್ನು ಹೇಳಬೇಕಾದರೆ, ಅದಕ್ಕೂ ಹಿಂದಿನ ಪ್ರಮುಖ ಸ್ಥಾನ ಯಾವುದು? ಪ್ರತಿ ಹಂತದ ಅಂತರವು 4 ಆಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಾವು ಪ್ರತಿ ಪ್ರಮುಖ ಸ್ಥಾನದಿಂದ 4 ನ್ನು ಕಳೆಯುತ್ತಾ ಹಿಂದಕ್ಕೆ ಹೋಗಬೇಕು. $17 - 4 = 13$. ಹಾಗಾಗಿ 13 ಮತ್ತೊಂದು ಪ್ರಮುಖ ಸ್ಥಾನ. ನಂತರ $13 - 4 = 9$. ಹಾಗೆಯೇ $9 - 4 = 5$. ಮತ್ತು $5 - 4 = 1$. ಹೀಗೆ, 1, 5, 9, 13, ಮತ್ತು 17 ಇವು 'ಗೆಲ್ಲುವ ಸ್ಥಾನಗಳು' ಅಥವಾ 'ಮ್ಯಾಜಿಕ್ ಸಂಖ್ಯೆಗಳು'. ಈ ಸಂಖ್ಯೆಗಳನ್ನು ಯಾರು ಹೇಳುತ್ತಾರೋ, ಅವರು ಆಟವನ್ನು ನಿಯಂತ್ರಿಸುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಪ್ರಮುಖ ಸ್ಥಾನ 17 ರಿಂದ ಹಿಂದಕ್ಕೆ ಕೆಲಸ ಮಾಡೋಣ.",
+    "ಪ್ರತಿ ಹಂತದ ಅಂತರವು 4 ಆಗಿರುತ್ತದೆ.",
+    "$17 - 4 = 13$",
+    "$13 - 4 = 9$",
+    "$9 - 4 = 5$",
+    "$5 - 4 = 1$",
+    "ಗೆಲ್ಲುವ ಸ್ಥಾನಗಳು: 1, 5, 9, 13, 17."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line from 0 to 21. The numbers 1, 5, 9, 13, 17 are highlighted or circled. Arrows show subtraction of 4 to move from one highlighted number to the previous one (e.g., arrow from 17 to 13 labeled '-4').",
+    "labels": "Number line, Winning Positions, Backward step",
+    "mathematical_significance": "This visualizes the complete set of winning positions for the Game of 21. It demonstrates that these positions are an arithmetic progression with a common difference determined by the game's rules (max moves + 1).",
+    "placeholder_note": "Image to be generated showing the number line with all winning positions (1, 5, 9, 13, 17) highlighted."
+  },
+  "chunk_id": "NS-NUM-1_concept_6_chunk_008"
+}

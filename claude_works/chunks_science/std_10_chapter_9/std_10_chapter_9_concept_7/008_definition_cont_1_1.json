@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ವಕ್ರತಾ ಕೇಂದ್ರವನ್ನು ದೃಶ್ಯೀಕರಿಸುವುದು",
+  "script": "ಈಗ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಒಂದು ಪೀನ ಮಸೂರವು ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಇಲ್ಲಿ ಎರಡು ಗಾಜಿನ ಗೋಳಗಳಿವೆ ಎಂದು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಈ ಗೋಳಗಳ ಕೇಂದ್ರಗಳೇ ಸಿ ಒನ್ ಮತ್ತು ಸಿ ಟೂ. ಈಗ ಈ ಎರಡು ಗೋಳಗಳು ಒಂದರಮೇಲೊಂದು ಬಂದಾಗ, ಅವುಗಳ ನಡುವೆ ಉಂಟಾಗುವ ಭಾಗವೇ ನಮ್ಮ ಪೀನ ಮಸೂರ. ಹಾಗಾಗಿ, ಮಸೂರದ ಪ್ರತಿಯೊಂದು ಬಾಗಿದ ಮೇಲ್ಮೈಯು ಆ ಮೂಲ ಗೋಳಗಳ ಒಂದು ಭಾಗವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಆ ಮೂಲ ಗೋಳಗಳ ಕೇಂದ್ರಗಳಾದ ಸಿ ಒನ್ ಮತ್ತು ಸಿ ಟೂ ಗಳೇ ಮಸೂರದ ವಕ್ರತಾ ಕೇಂದ್ರಗಳಾಗುತ್ತವೆ. ಈ ಎರಡು ಕೇಂದ್ರಗಳನ್ನು ಸೇರಿಸುವ ನೇರ ರೇಖೆಯೇ ಪ್ರಧಾನಾಕ್ಷ. ಇದು ಮಸೂರದ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಒಂದು ಪೀನ ಮಸೂರವು ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಇಲ್ಲಿ ಎರಡು ಗಾಜಿನ ಗೋಳಗಳಿವೆ ಎಂದು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಈ ಗೋಳಗಳ ಕೇಂದ್ರಗಳೇ C₁ ಮತ್ತು C₂. ಈಗ ಈ ಎರಡು ಗೋಳಗಳು ಒಂದರಮೇಲೊಂದು ಬಂದಾಗ, ಅವುಗಳ ನಡುವೆ ಉಂಟಾಗುವ ಭಾಗವೇ ನಮ್ಮ ಪೀನ ಮಸೂರ. ಹಾಗಾಗಿ, ಮಸೂರದ ಪ್ರತಿಯೊಂದು ಬಾಗಿದ ಮೇಲ್ಮೈಯು ಆ ಮೂಲ ಗೋಳಗಳ ಒಂದು ಭಾಗವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಆ ಮೂಲ ಗೋಳಗಳ ಕೇಂದ್ರಗಳಾದ C₁ ಮತ್ತು C₂ ಗಳೇ ಮಸೂರದ ವಕ್ರತಾ ಕೇಂದ್ರಗಳಾಗುತ್ತವೆ. ಈ ಎರಡು ಕೇಂದ್ರಗಳನ್ನು ಸೇರಿಸುವ ನೇರ ರೇಖೆಯೇ ಪ್ರಧಾನಾಕ್ಷ. ಇದು ಮಸೂರದ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮಸೂರವು ಎರಡು ಕಾಲ್ಪನಿಕ ಗೋಳಗಳ ಭಾಗಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ.",
+    "ಈ ಗೋಳಗಳ ಕೇಂದ್ರಗಳೇ ($C_1, C_2$) ಮಸೂರದ ವಕ್ರತಾ ಕೇಂದ್ರಗಳು.",
+    "ಎರಡೂ ಕೇಂದ್ರಗಳನ್ನು ಸೇರಿಸುವ ರೇಖೆಯೇ ಪ್ರಧಾನಾಕ್ಷ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing how a biconvex lens is formed from the intersection of two spheres. The first sphere is on the left, with its center C1. The second sphere is on the right, with its center C2. The overlapping region is shaded to represent the lens. A horizontal line passes through C1 and C2, representing the principal axis.",
+    "labels": "Sphere 1, Sphere 2, Center of Curvature C₁, Center of Curvature C₂, Convex Lens (overlapping region), Principal Axis",
+    "scientific_significance": "This visual deconstruction helps students understand the abstract concept of the center of curvature by showing its origin from the geometry of spheres that form the lens surfaces.",
+    "placeholder_note": "Image to be generated showing two intersecting spheres forming a convex lens."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_9_concept_7_chunk_008"
+}

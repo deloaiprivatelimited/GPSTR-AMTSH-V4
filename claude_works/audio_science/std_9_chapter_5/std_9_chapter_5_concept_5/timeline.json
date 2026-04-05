@@ -1,0 +1,79 @@
+{
+  "module_id": "std_9_chapter_5_concept_5",
+  "chapter_code": "std_9_chapter_5",
+  "voice": "Achird",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 295.346,
+  "total_duration_formatted": "4:55",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_5_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಕೋಶಭಿತ್ತಿ ಮತ್ತು ಕೋಶಕೇಂದ್ರ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 61.011,
+      "duration": 61.011,
+      "script_words": 80
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "bullet_list",
+      "start": 61.611,
+      "end": 87.542,
+      "duration": 25.931,
+      "script_words": 39
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_5_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಕೋಶಭಿತ್ತಿ (Cell Wall)",
+      "type": "concept_explanation",
+      "start": 88.142,
+      "end": 148.633,
+      "duration": 60.491,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_5_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಕೋಶಕೇಂದ್ರ (Nucleus): ರಚನೆ",
+      "type": "concept_explanation",
+      "start": 149.233,
+      "end": 193.884,
+      "duration": 44.651,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_5_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಕೋಶಕೇಂದ್ರ (Nucleus): ಕಾರ್ಯಗಳು",
+      "type": "concept_explanation",
+      "start": 194.484,
+      "end": 251.495,
+      "duration": 57.011,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_5_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 252.095,
+      "end": 294.746,
+      "duration": 42.651,
+      "script_words": 57
+    }
+  ]
+}

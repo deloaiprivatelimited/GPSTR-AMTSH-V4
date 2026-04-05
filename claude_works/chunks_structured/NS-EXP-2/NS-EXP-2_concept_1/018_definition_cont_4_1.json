@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆಗಳು: ವರ್ಗ",
+  "script": "ಈಗ ಕೆಲವು ಬೇರೆ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಈ ಪಟ್ಟಿಯನ್ನು ಗಮನಿಸಿ. ಮೊದಲಿಗೆ, ಐದರ ಘಾತ ಎರಡನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಇದನ್ನು 'ಐದರ ವರ್ಗ' ಎಂದು ಓದುತ್ತೇವೆ. ಇದರ ಅರ್ಥ ಐದನ್ನು ಎರಡು ಬಾರಿ ಗುಣಿಸುವುದು, ಅಂದರೆ ಐದು ಗುಣಿಸು ಐದು, ಇದು ಇಪ್ಪತ್ತೈದಕ್ಕೆ ಸಮ. ಹಾಗೆಯೇ, ಎಂಟರ ಘಾತ ಎರಡು ಎಂದರೆ 'ಎಂಟರ ವರ್ಗ'. ಇದರ ಮೌಲ್ಯ ಎಂಟು ಗುಣಿಸು ಎಂಟು, ಅಂದರೆ ಅರವತ್ತನಾಲ್ಕು. ಬೀಜಗಣಿತದಲ್ಲಿ, ನಾವು ಎ ಯ ಘಾತ ಎರಡನ್ನು ನೋಡಿದರೆ, ಅದನ್ನು 'ಎ ಯ ವರ್ಗ' ಎಂದು ಓದುತ್ತೇವೆ, ಮತ್ತು ಅದರ ಅರ್ಥ ಎ ಗುಣಿಸು ಎ.",
+  "script_display": "ಈಗ ಕೆಲವು ಬೇರೆ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಈ ಪಟ್ಟಿಯನ್ನು ಗಮನಿಸಿ. ಮೊದಲಿಗೆ, $5^2$ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಇದನ್ನು '5ರ ವರ್ಗ' ಎಂದು ಓದುತ್ತೇವೆ. ಇದರ ಅರ್ಥ 5 ಅನ್ನು ಎರಡು ಬಾರಿ ಗುಣಿಸುವುದು, ಅಂದರೆ $5 \\times 5$, ಇದು 25ಕ್ಕೆ ಸಮ. ಹಾಗೆಯೇ, $8^2$ ಎಂದರೆ '8ರ ವರ್ಗ'. ಇದರ ಮೌಲ್ಯ $8 \\times 8$, ಅಂದರೆ 64. ಬೀಜಗಣಿತದಲ್ಲಿ, ನಾವು $a^2$ ಅನ್ನು ನೋಡಿದರೆ, ಅದನ್ನು 'a ಯ ವರ್ಗ' ಎಂದು ಓದುತ್ತೇವೆ, ಮತ್ತು ಅದರ ಅರ್ಥ $a \\times a$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A table showing examples of squares, their expanded form, and value. The script will walk through this table row by row. The table should be rendered from the provided data. The headers are 'ಘಾತಾಂಕ ರೂಪ', 'ಓದುವುದು', 'ವಿಸ್ತರಿತ ರೂಪ', and 'ಮೌಲ್ಯ'. The rows are for 5^2, 8^2, and a^2, showing their respective readings, expansions, and values (25, 64, and n/a). This visual aid is crucial for understanding the calculation of squares. The table should be clear and easy to read, with mathematical expressions rendered correctly using KaTeX. The caption should be 'ವರ್ಗಗಳ ಉದಾಹರಣೆಗಳು'. The table data is: {\"header\": [\"ಘಾತಾಂಕ ರೂಪ\", \"ಓದುವುದು\", \"ವಿಸ್ತರಿತ ರೂಪ\", \"ಮೌಲ್ಯ\"], \"rows\": [[\"$5^2$\", \"5 ರ ವರ್ಗ\", \"$5 \\times 5$\", \"25\"], [\"$8^2$\", \"8 ರ ವರ್ಗ\", \"$8 \\times 8$\", \"64\"], [\"$a^2$\", \"a ಯ ವರ್ಗ\", \"$a \\times a$\", \"-\"]], \"caption\": \"ವರ್ಗಗಳ ಉದಾಹರಣೆಗಳು\"}"
+  },
+  "chunk_id": "NS-EXP-2_concept_1_chunk_018"
+}

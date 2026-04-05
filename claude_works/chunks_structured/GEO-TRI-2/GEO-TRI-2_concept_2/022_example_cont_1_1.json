@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಈ ಸಾಧನೆಯನ್ನು ಮಾಡಲು, ನಾವು ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ತೋರಿಸಬೇಕು. ಮೊದಲ ಹಂತವಾಗಿ, ತ್ರಿಭುಜ ABF ಮತ್ತು ತ್ರಿಭುಜ ACE ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ಈಗ, ಬಾಹು-ಕೋನ-ಬಾಹು ಸರ್ವಸಮತೆಯ ನಿಯಮಕ್ಕೆ ಬೇಕಾದ ಅಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, AB ಸಮ AC. ಇದು ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲಿ ಕೊಟ್ಟಿದೆ. ಎರಡನೆಯದಾಗಿ, ಕೋನ A ಸಮ ಕೋನ A, ಏಕೆಂದರೆ ಇದು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯವಾದ ಕೋನವಾಗಿದೆ. ಮೂರನೆಯದಾಗಿ, AF ಸಮ AE. ಏಕೆಂದರೆ E ಮತ್ತು F ಗಳು ಸಮಬಾಹುಗಳಾದ AB ಮತ್ತು AC ಯ ಮಧ್ಯಬಿಂದುಗಳು. ಸಮಬಾಹುಗಳ ಅರ್ಧಭಾಗಗಳು ಕೂಡ ಸಮವಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಈ ಸಾಧನೆಯನ್ನು ಮಾಡಲು, ನಾವು ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ತೋರಿಸಬೇಕು. ಮೊದಲ ಹಂತವಾಗಿ, $\\triangle ABF$ ಮತ್ತು $\\triangle ACE$ ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ಈಗ, ಬಾ.ಕೋ.ಬಾ ಸರ್ವಸಮತೆಯ ನಿಯಮಕ್ಕೆ ಬೇಕಾದ ಅಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, $AB = AC$. ಇದು ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲಿ ಕೊಟ್ಟಿದೆ. ಎರಡನೆಯದಾಗಿ, $\\angle A = \\angle A$, ಏಕೆಂದರೆ ಇದು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯವಾದ ಕೋನವಾಗಿದೆ. ಮೂರನೆಯದಾಗಿ, $AF = AE$. ಏಕೆಂದರೆ E ಮತ್ತು F ಗಳು ಸಮಬಾಹುಗಳಾದ $AB$ ಮತ್ತು $AC$ ಯ ಮಧ್ಯಬಿಂದುಗಳು. ಸಮಬಾಹುಗಳ ಅರ್ಧಭಾಗಗಳು ಕೂಡ ಸಮವಾಗಿರುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿರುವ ಅದೇ ಚಿತ್ರ. ತ್ರಿಭುಜ ABF ಮತ್ತು ತ್ರಿಭುಜ ACE ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. ಸಮಾನವಾದ ಭಾಗಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ: AB ಮತ್ತು AC ಬಾಹುಗಳು, ಕೋನ A, ಮತ್ತು AF ಮತ್ತು AE ಬಾಹುಗಳು.",
+    "labels": "A, B, C, E, F",
+    "mathematical_significance": "SAS (ಬಾ.ಕೋ.ಬಾ) ನಿಯಮಕ್ಕೆ ಬೇಕಾದ ಸಮಾನ ಭಾಗಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Same image as previous slide, with equal parts highlighted."
+  },
+  "sub_type": "proof",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_5",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\triangle ABF$ ಮತ್ತು $\\triangle ACE$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+      "justification": "BF ಮತ್ತು CE ಬಾಹುಗಳನ್ನು ಹೋಲಿಸಲು ಈ ತ್ರಿಭುಜಗಳನ್ನು ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಬಾ.ಕೋ.ಬಾ ನಿಯಮಕ್ಕೆ ಬೇಕಾದ ಅಂಶಗಳನ್ನು ಗುರುತಿಸಿ:\n$AB = AC$ (ದತ್ತ)\n$\\angle A = \\angle A$ (ಸಾಮಾನ್ಯ ಕೋನ)\n$AF = AE$ (ಸಮಬಾಹುಗಳ ಅರ್ಧಗಳು)",
+      "justification": "ದತ್ತಾಂಶ ಮತ್ತು ಮಧ್ಯಬಿಂದುವಿನ ವ್ಯಾಖ್ಯೆಯನ್ನು ಬಳಸುವುದು."
+    }
+  ],
+  "chunk_id": "GEO-TRI-2_concept_2_chunk_022"
+}

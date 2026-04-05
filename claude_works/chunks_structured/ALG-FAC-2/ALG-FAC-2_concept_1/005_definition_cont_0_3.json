@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಗಮನಿಸಿ: 'ಅಪವರ್ತನ' vs 'ಪದ'",
+  "script": "ವಿದ್ಯಾರ್ಥಿಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಮಾಡುವ ಒಂದು ತಪ್ಪೆಂದರೆ 'ಅಪವರ್ತನ' ಮತ್ತು 'ಪದ'ಗಳ ನಡುವೆ ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುವುದು. ಇವೆರಡೂ ವಿಭಿನ್ನ. ಎಡಭಾಗದಲ್ಲಿರುವ ಬೀಜೋಕ್ತಿ ಎರಡು, ಟೈಮ್ಸ್ ಎಕ್ಸ್ ಪ್ಲಸ್ ಎರಡು ನೋಡಿ. ಇಲ್ಲಿ, ಎರಡು ಮತ್ತು ಎಕ್ಸ್ ಪ್ಲಸ್ ಎರಡು ಇವು ಅಪವರ್ತನಗಳು, ಏಕೆಂದರೆ ಅವುಗಳನ್ನು ಗುಣಿಸಲಾಗಿದೆ. ಆದರೆ, ಬಲಭಾಗದಲ್ಲಿರುವ ಬೀಜೋಕ್ತಿ ಎರಡು ಎಕ್ಸ್ ಪ್ಲಸ್ ನಾಲ್ಕು ನೋಡಿ. ಇಲ್ಲಿ, ಎರಡು ಎಕ್ಸ್ ಮತ್ತು ನಾಲ್ಕು ಇವು 'ಪದಗಳು', ಅಪವರ್ತನಗಳಲ್ಲ. ಏಕೆಂದರೆ ಅವುಗಳನ್ನು ಕೂಡಿಸಲಾಗಿದೆ. ಅಪವರ್ತನಗಳು ಗುಣಾಕಾರದ ಭಾಗಗಳಾದರೆ, ಪದಗಳು ಸಂಕಲನ ಅಥವಾ ವ್ಯವಕಲನದ ಭಾಗಗಳಾಗಿರುತ್ತವೆ. ಈ ವ್ಯತ್ಯಾಸ ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ವಿದ್ಯಾರ್ಥಿಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಮಾಡುವ ಒಂದು ತಪ್ಪೆಂದರೆ 'ಅಪವರ್ತನ' (Factor) ಮತ್ತು 'ಪದ' (Term) ಗಳ ನಡುವೆ ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುವುದು. ಇವೆರಡೂ ವಿಭಿನ್ನ. ಎಡಭಾಗದಲ್ಲಿರುವ ಬೀಜೋಕ್ತಿ $2(x+2)$ ನೋಡಿ. ಇಲ್ಲಿ, $2$ ಮತ್ತು $(x+2)$ ಇವು ಅಪವರ್ತನಗಳು, ಏಕೆಂದರೆ ಅವುಗಳನ್ನು ಗುಣಿಸಲಾಗಿದೆ. ಆದರೆ, ಬಲಭಾಗದಲ್ಲಿರುವ ಬೀಜೋಕ್ತಿ $2x+4$ ನೋಡಿ. ಇಲ್ಲಿ, $2x$ ಮತ್ತು $4$ ಇವು 'ಪದಗಳು', ಅಪವರ್ತನಗಳಲ್ಲ. ಏಕೆಂದರೆ ಅವುಗಳನ್ನು ಕೂಡಿಸಲಾಗಿದೆ. ಅಪವರ್ತನಗಳು ಗುಣಾಕಾರದ ಭಾಗಗಳಾದರೆ, ಪದಗಳು ಸಂಕಲನ ಅಥವಾ ವ್ಯವಕಲನದ ಭಾಗಗಳಾಗಿರುತ್ತವೆ. ಈ ವ್ಯತ್ಯಾಸ ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "classic_dark",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_panel",
+    "status": "ready",
+    "render_target": "katex",
+    "placeholder_note": "Two panels side-by-side. Left panel titled 'ಅಪವರ್ತನಗಳು (Factors)' with expression 2(x+2) and bullets '2' and '(x+2)' marked with checkmarks. Right panel titled 'ಪದಗಳು (Terms)' with expression 2x+4 and bullets '2x' and '4' marked with checkmarks. A cross mark should be next to the title 'ಪದಗಳು' indicating these are not factors of the expression as a whole. The visual should emphasize multiplication on the left and addition on the right. "
+  },
+  "exam_tip": {
+    "question_pattern": "MCQ",
+    "skill_tested": "'ಪದ' (term) ಮತ್ತು 'ಅಪವರ್ತನ' (factor) ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಗುರುತಿಸುವುದು.",
+    "distractor": "$2x+4$ ರ ಅಪವರ್ತನಗಳು $2x$ ಮತ್ತು $4$ ಎಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುವುದು.",
+    "why_distractor_works": "ವಿದ್ಯಾರ್ಥಿಗಳು ಬೀಜೋಕ್ತಿಯ ಭಾಗಗಳನ್ನು ಪದಗಳಾಗಿ ನೋಡುತ್ತಾರೆ ಮತ್ತು ಅವುಗಳನ್ನೇ ಅಪವರ್ತನಗಳೆಂದು ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುತ್ತಾರೆ. ಅಪವರ್ತನಗಳು ಗುಣಾಕಾರದಿಂದ ಬರುತ್ತವೆ ಎಂಬುದನ್ನು ಮರೆಯುತ್ತಾರೆ."
+  },
+  "chunk_id": "ALG-FAC-2_concept_1_chunk_005"
+}

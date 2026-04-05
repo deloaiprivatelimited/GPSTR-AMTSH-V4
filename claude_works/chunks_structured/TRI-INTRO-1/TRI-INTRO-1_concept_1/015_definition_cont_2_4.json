@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ನೆನಪಿಡಲು ಸುಲಭ ವಿಧಾನ",
+  "script": "ಈ ಮೂರು ಅನುಪಾತಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಒಂದು ಸುಲಭವಾದ ಇಂಗ್ಲಿಷ್ ವಿಧಾನವಿದೆ: SOH CAH TOA. ನಾವು ಈಗ ಕಲಿತ ಟ್ಯಾಂಜೆಂಟ್ ಭಾಗ 'TOA' ಆಗಿದೆ. T ಎಂದರೆ ಟ್ಯಾಂಜೆಂಟ್, O ಎಂದರೆ ಆಪೋಸಿಟ್ ಅಥವಾ ಅಭಿಮುಖ ಬಾಹು, ಮತ್ತು A ಎಂದರೆ ಅಡ್ಜಸೆಂಟ್ ಅಥವಾ ಪಾರ್ಶ್ವ ಬಾಹು. ಅಂದರೆ, ಟ್ಯಾಂಜೆಂಟ್ ಈಕ್ವಲ್ಸ್ ಆಪೋಸಿಟ್ ಬೈ ಅಡ್ಜಸೆಂಟ್. ಇದು ಅನುಪಾತವನ್ನು ಸುಲಭವಾಗಿ ನೆನಪಿಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಸ್ಪರ್ಶಕ ಎಂದರೆ ಅಭಿಮುಖ ಮತ್ತು ಪಾರ್ಶ್ವ ಬಾಹುಗಳ ಅನುಪಾತ.",
+  "script_display": "ಈ ಮೂರು ಅನುಪಾತಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಒಂದು ಸುಲಭವಾದ ಇಂಗ್ಲಿಷ್ ವಿಧಾನವಿದೆ: SOH CAH TOA. ನಾವು ಈಗ ಕಲಿತ ಟ್ಯಾಂಜೆಂಟ್ ಭಾಗ 'TOA' ಆಗಿದೆ. T ಎಂದರೆ Tangent, O ಎಂದರೆ Opposite (ಅಭಿಮುಖ ಬಾಹು), ಮತ್ತು A ಎಂದರೆ Adjacent (ಪಾರ್ಶ್ವ ಬಾಹು). ಅಂದರೆ, Tangent = Opposite / Adjacent. ಇದು ಅನುಪಾತವನ್ನು ಸುಲಭವಾಗಿ ನೆನಪಿಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ನೆನಪಿಡಿ: SOH CAH **TOA**",
+    "**T**angent = **O**pposite / **A**djacent",
+    "**ಸ್ಪರ್ಶಕ** = **ಅಭಿಮುಖ** / **ಪಾರ್ಶ್ವ**"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_015"
+}

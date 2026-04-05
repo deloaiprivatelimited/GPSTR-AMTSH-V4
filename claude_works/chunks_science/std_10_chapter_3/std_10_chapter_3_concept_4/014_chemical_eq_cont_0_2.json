@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ಘಟಕಗಳು",
+  "script": "ಈ ಸಾಮಾನ್ಯ ಕ್ರಿಯೆಯ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು ವರ್ತಕಗಳು, ಅಂದರೆ ರಿಯಾಕ್ಟಂಟ್ಸ್. ಇವು ಲೋಹ ಮತ್ತು ಆಕ್ಸಿಜನ್. ಎರಡನೆಯದು ಉತ್ಪನ್ನ, ಅಂದರೆ ಪ್ರಾಡಕ್ಟ್. ಇದು ಲೋಹದ ಆಕ್ಸೈಡ್. ಮೂರನೆಯದು ಕ್ರಿಯೆಯ ವಿಧ. ಇದು ಒಂದು ಸಂಯೋಗ ಕ್ರಿಯೆ, ಏಕೆಂದರೆ ಎರಡು ವಸ್ತುಗಳು ಸೇರಿ ಒಂದೇ ಉತ್ಪನ್ನವನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+  "script_display": "ಈ ಸಾಮಾನ್ಯ ಕ್ರಿಯೆಯ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ವರ್ತಕಗಳು (Reactants): ಲೋಹ ಮತ್ತು ಆಕ್ಸಿಜನ್",
+    "ಉತ್ಪನ್ನ (Product): ಲೋಹದ ಆಕ್ಸೈಡ್",
+    "ಕ್ರಿಯೆಯ ವಿಧ (Type): ಸಂಯೋಗ ಕ್ರಿಯೆ (Combination Reaction)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard_bullets",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_014"
+}

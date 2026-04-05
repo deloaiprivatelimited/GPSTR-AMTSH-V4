@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಇದರ ಬೆಲೆ ಕಂಡು ಹಿಡಿಯಿರಿ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಲೆಕ್ಕ ಮೈನಸ್ ನಾಲ್ಕು ಬೈ ಐದು, ಗುಣಿಸು ಮೂರು ಬೈ ಏಳು, ಗುಣಿಸು ಹದಿನೈದು ಬೈ ಹದಿನಾರು, ಗುಣಿಸು ಮೈನಸ್ ಹದಿನಾಲ್ಕು ಬೈ ಒಂಬತ್ತು. ಇಲ್ಲಿ ನಾವು ನೇರವಾಗಿ ಗುಣಿಸುವ ಬದಲು, ಗುಣಾಕಾರದ ಪರಿವರ್ತನೀಯ ಮತ್ತು ಸಹವರ್ತನೀಯ ಗುಣಗಳನ್ನು ಬಳಸಿ ಪದಗಳನ್ನು ಮರುಜೋಡಿಸಿ ಲೆಕ್ಕವನ್ನು ಸುಲಭ ಮಾಡಬಹುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಇದರ ಬೆಲೆ ಕಂಡು ಹಿಡಿಯಿರಿ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಲೆಕ್ಕ $\\frac{-4}{5} \\times \\frac{3}{7} \\times \\frac{15}{16} \\times \\left(\\frac{-14}{9}\\right)$. ಇಲ್ಲಿ ನಾವು ನೇರವಾಗಿ ಗುಣಿಸುವ ಬದಲು, ಗುಣಾಕಾರದ ಪರಿವರ್ತನೀಯ ಮತ್ತು ಸಹವರ್ತನೀಯ ಗುಣಗಳನ್ನು ಬಳಸಿ ಪದಗಳನ್ನು ಮರುಜೋಡಿಸಿ ಲೆಕ್ಕವನ್ನು ಸುಲಭ ಮಾಡಬಹುದು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಸಮಸ್ಯೆ: $\\frac{-4}{5} \\times \\frac{3}{7} \\times \\frac{15}{16} \\times \\left(\\frac{-14}{9}\\right)$",
+    "ಗುರಿ: ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು.",
+    "ಯೋಜನೆ: ಸುಲಭವಾಗಿ ಸರಳೀಕರಿಸಲು ಪದಗಳನ್ನು ಮರುಜೋಡಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{-4}{5} \\times \\frac{3}{7} \\times \\frac{15}{16} \\times \\left(\\frac{-14}{9}\\right)",
+    "placeholder_note": "The problem statement displayed in a large, clear format."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-RAT-2_example_7",
+  "chunk_id": "NS-RAT-2_concept_4_chunk_032"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಬೀಜೋಕ್ತಿಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ n ಸಮನಾಗಿದೆ ಮೈನಸ್ ಎರಡು ಆದಾಗ, ಮೂರು ಬೇರೆ ಬೇರೆ ಬೀಜೋಕ್ತಿಗಳ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೇಳಲಾಗಿದೆ. ನಾವು ಇವುಗಳನ್ನು ಒಂದೊಂದಾಗಿ ಬಿಡಿಸೋಣ. ಮೊದಲನೆಯದು, ಐದು n ಮೈನಸ್ ಎರಡು. ಎರಡನೆಯದು, ಐದು n ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಐದು n ಮೈನಸ್ ಎರಡು. ಮತ್ತು ಮೂರನೆಯದು, n ಕ್ಯೂಬ್ಡ್ ಪ್ಲಸ್ ಐದು n ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಐದು n ಮೈನಸ್ ಎರಡು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $n = -2$ ಆದಾಗ, ಮೂರು ಬೇರೆ ಬೇರೆ ಬೀಜೋಕ್ತಿಗಳ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೇಳಲಾಗಿದೆ. ನಾವು ಇವುಗಳನ್ನು ಒಂದೊಂದಾಗಿ ಬಿಡಿಸೋಣ.\n(i) $5n-2$\n(ii) $5n^2 + 5n – 2$\n(iii) $n^3 + 5n^2 + 5n – 2$",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "n = -2 \\text{ ಆದಾಗ ಮುಂದಿನ ಬೀಜೋಕ್ತಿಗಳ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.}\n\n(i) 5n-2 \n\n(ii) 5n^2 + 5n – 2 \n\n(iii) n^3 + 5n^2 + 5n – 2",
+    "placeholder_note": "Problem statement displayed clearly"
+  },
+  "source_example_id": "ALG-EXP-1_example_5",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-EXP-1_concept_5_chunk_007"
+}

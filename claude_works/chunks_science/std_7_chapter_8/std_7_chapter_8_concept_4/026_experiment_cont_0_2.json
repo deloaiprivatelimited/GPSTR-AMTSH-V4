@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಕೇಸರದ ಅಧ್ಯಯನ (ಪುರುಷ ಭಾಗ)",
+  "script": "ನಾವು ಮೊದಲು ಕೇಸರವನ್ನು ನೋಡೋಣ. ನೆನಪಿಡಿ, ಕೇಸರವು ಹೂವಿನ ಪುರುಷ ಪ್ರಜನನ ಭಾಗವಾಗಿದೆ. ವರ್ಧಕ ಮಸೂರವನ್ನು ಬಳಸಿ ನೋಡಿದಾಗ, ನಿಮಗೆ ಇದರಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಭಾಗಗಳು ಕಾಣಿಸುತ್ತವೆ. ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಚೀಲದಂತಹ ರಚನೆಯೇ ಪರಾಗಕೋಶ. ಇದರ ಕೆಳಗಿರುವ ತೆಳುವಾದ ದಾರದಂತಹ ಭಾಗವೇ ಕೇಸರದಂಡ. ಈ ಪರಾಗಕೋಶವು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ಇದು ಪುರುಷ ಲಿಂಗಾಣುಗಳನ್ನು ಹೊಂದಿರುವ ಸಾವಿರಾರು ಸೂಕ್ಷ್ಮ ಕಣಗಳಾದ ಪರಾಗರೇಣುಗಳನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಈ ಪರಾಗರೇಣುಗಳೇ ಸಂತಾನೋತ್ಪತ್ತಿಯಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತವೆ.",
+  "script_display": "ನಾವು ಮೊದಲು ಕೇಸರವನ್ನು ನೋಡೋಣ. ನೆನಪಿಡಿ, ಕೇಸರವು ಹೂವಿನ ಪುರುಷ ಪ್ರಜನನ ಭಾಗವಾಗಿದೆ. ವರ್ಧಕ ಮಸೂರವನ್ನು ಬಳಸಿ ನೋಡಿದಾಗ, ನಿಮಗೆ ಇದರಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಭಾಗಗಳು ಕಾಣಿಸುತ್ತವೆ. ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಚೀಲದಂತಹ ರಚನೆಯೇ ಪರಾಗಕೋಶ (Anther). ಇದರ ಕೆಳಗಿರುವ ತೆಳುವಾದ ದಾರದಂತಹ ಭಾಗವೇ ಕೇಸರದಂಡ (Filament). ಈ ಪರಾಗಕೋಶವು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ಇದು ಪುರುಷ ಲಿಂಗಾಣುಗಳನ್ನು (male gametes) ಹೊಂದಿರುವ ಸಾವಿರಾರು ಸೂಕ್ಷ್ಮ ಕಣಗಳಾದ ಪರಾಗರೇಣುಗಳನ್ನು (pollen grains) ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಈ ಪರಾಗರೇಣುಗಳೇ ಸಂತಾನೋತ್ಪತ್ತಿಯಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಕೇಸರವು ಹೂವಿನ ಪುರುಷ ಪ್ರಜನನ ಭಾಗವಾಗಿದೆ.",
+    "ಇದು ಎರಡು ಭಾಗಗಳನ್ನು ಹೊಂದಿದೆ: ಪರಾಗಕೋಶ (Anther) ಮತ್ತು ಕೇಸರದಂಡ (Filament).",
+    "ಪರಾಗಕೋಶವು ಪರಾಗರೇಣುಗಳನ್ನು (pollen grains) ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear, labeled diagram of a single stamen. The anther is shown at the top, and the filament is the stalk supporting it. A magnified inset shows pollen grains being released from the anther.",
+    "labels": "ಪರಾಗಕೋಶ (Anther), ಕೇಸರದಂಡ (Filament), ಪರಾಗರೇಣು (Pollen grain)",
+    "scientific_significance": "Illustrates the structure of the male reproductive part of a flower, highlighting the pollen-producing anther.",
+    "placeholder_note": "Use part (a) of the diagram from the module context."
+  },
+  "chunk_id": "std_7_chapter_8_concept_4_chunk_026"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಲೆಕ್ಕಾತ್ಮಕ ಉದಾಹರಣೆ: ಘರ್ಷಣಾ ಬಲ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. 20 ಗ್ರಾಂ ದ್ರವ್ಯರಾಶಿಯ ಚೆಂಡು ಮೇಜಿನ ಮೇಲೆ ಚಲಿಸುತ್ತಿದೆ. ಅದರ ವೇಗ 10 ಸೆಕೆಂಡುಗಳಲ್ಲಿ 20 ಸೆಂಟಿಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್‌ನಿಂದ ಸೊನ್ನೆ ಸೆಂಟಿಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್‌ಗೆ ಇಳಿಯುತ್ತದೆ. ಹಾಗಾದರೆ, ಮೇಜು ಚೆಂಡಿನ ಮೇಲೆ ಪ್ರಯೋಗಿಸಿದ ಘರ್ಷಣಾ ಬಲವೆಷ್ಟು? ಇಲ್ಲಿ ನಮಗೆ ದ್ರವ್ಯರಾಶಿ, ಆರಂಭಿಕ ವೇಗ, ಅಂತಿಮ ವೇಗ ಮತ್ತು ಕಾಲವನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಘರ್ಷಣಾ ಬಲವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "20 g ದ್ರವ್ಯರಾಶಿಯ ಚೆಂಡು ಮೇಜಿನ ಮೇಲೆ ಚಲಿಸುತ್ತಿದೆ. ಅದರ ವೇಗ 10 s ಗಳಲ್ಲಿ 20 cm/s ನಿಂದ 0 cm/s ಗೆ ಇಳಿಯುತ್ತದೆ. ಮೇಜು ಚೆಂಡಿನ ಮೇಲೆ ಪ್ರಯೋಗಿಸಿದ ಘರ್ಷಣಾ ಬಲವೆಷ್ಟು?",
+  "display_bullets": [
+    "ದತ್ತಾಂಶಗಳು (Given):",
+    "ದ್ರವ್ಯರಾಶಿ (m) = 20 g",
+    "ಆರಂಭಿಕ ವೇಗ (u) = 20 cm/s",
+    "ಅಂತಿಮ ವೇಗ (v) = 0 cm/s",
+    "ಕಾಲ (t) = 10 s",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (Find): ಘರ್ಷಣಾ ಬಲ (F)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "physics_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a ball moving on a flat table surface. An arrow indicates the direction of velocity (v) to the right. Another smaller arrow in the opposite direction indicates the frictional force (F).",
+    "labels": "ಚೆಂಡು, ಮೇಜು, ವೇಗ (v), ಘರ್ಷಣಾ ಬಲ (F)",
+    "scientific_significance": "Illustrates the scenario described in the problem, showing that the frictional force opposes the motion of the ball.",
+    "placeholder_note": "Image to be generated for std_9_chapter_8_example_8.5"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_8_example_8.5",
+  "chunk_id": "std_9_chapter_8_concept_4_chunk_014"
+}

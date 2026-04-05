@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಕ್ಕರೆಯ ತೂಕ ಮತ್ತು ಬೆಲೆ",
+  "script": "ಈ ಕೋಷ್ಟಕವನ್ನು ಗಮನಿಸಿ. ಇದು ಸಕ್ಕರೆಯ ತೂಕ ಮತ್ತು ಅದಕ್ಕೆ ತಗಲುವ ಬೆಲೆಯನ್ನು ತೋರಿಸುತ್ತದೆ. ಇಲ್ಲಿ x ಎಂಬುದು ಸಕ್ಕರೆಯ ತೂಕ ಮತ್ತು y ಎಂಬುದು ಅದರ ಬೆಲೆ. ನಾವು ಇವುಗಳ ಅನುಪಾತ, ಅಂದರೆ x ಭಾಗಿಸು y, ಸ್ಥಿರವಾಗಿದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸೋಣ. ಮೊದಲ ಸಾಲಿನಲ್ಲಿ, ಒಂದು ಭಾಗಿಸು 36. ಎರಡನೇ ಸಾಲಿನಲ್ಲಿ, ಮೂರು ಭಾಗಿಸು 108, ಇದನ್ನು ಸರಳೀಕರಿಸಿದರೆ ಒಂದು ಭಾಗಿಸು 36 ಸಿಗುತ್ತದೆ. ಮೂರನೇ ಸಾಲಿನಲ್ಲಿ, ಐದು ಭಾಗಿಸು 180, ಇದನ್ನೂ ಸರಳೀಕರಿಸಿದರೆ ಒಂದು ಭಾಗಿಸು 36 ಬರುತ್ತದೆ. ಎಲ್ಲಾ ಸಂದರ್ಭಗಳಲ್ಲಿಯೂ ಅನುಪಾತವು ಸ್ಥಿರವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಸಕ್ಕರೆಯ ತೂಕ ಮತ್ತು ಅದರ ಬೆಲೆ ನೇರ ಅನುಪಾತದಲ್ಲಿವೆ ಎಂದು ನಾವು ಹೇಳಬಹುದು.",
+  "script_display": "ಈ ಕೋಷ್ಟಕವನ್ನು ಗಮನಿಸಿ. ಇದು ಸಕ್ಕರೆಯ ತೂಕ ಮತ್ತು ಅದಕ್ಕೆ ತಗಲುವ ಬೆಲೆಯನ್ನು ತೋರಿಸುತ್ತದೆ. ಇಲ್ಲಿ $x$ ಎಂಬುದು ಸಕ್ಕರೆಯ ತೂಕ ಮತ್ತು $y$ ಎಂಬುದು ಅದರ ಬೆಲೆ. ನಾವು ಇವುಗಳ ಅನುಪಾತ, ಅಂದರೆ $\\frac{x}{y}$, ಸ್ಥಿರವಾಗಿದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸೋಣ. ಮೊದಲ ಸಾಲಿನಲ್ಲಿ, $\\frac{1}{36}$. ಎರಡನೇ ಸಾಲಿನಲ್ಲಿ, $\\frac{3}{108}$, ಇದನ್ನು ಸರಳೀಕರಿಸಿದರೆ $\\frac{1}{36}$ ಸಿಗುತ್ತದೆ. ಮೂರನೇ ಸಾಲಿನಲ್ಲಿ, $\\frac{5}{180}$, ಇದನ್ನೂ ಸರಳೀಕರಿಸಿದರೆ $\\frac{1}{36}$ ಬರುತ್ತದೆ. ಎಲ್ಲಾ ಸಂದರ್ಭಗಳಲ್ಲಿಯೂ ಅನುಪಾತವು ಸ್ಥಿರವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಸಕ್ಕರೆಯ ತೂಕ ಮತ್ತು ಅದರ ಬೆಲೆ ನೇರ ಅನುಪಾತದಲ್ಲಿವೆ ಎಂದು ನಾವು ಹೇಳಬಹುದು.",
+  "display_bullets": [
+    "$x$ = ಸಕ್ಕರೆಯ ತೂಕ (ಕಿ.ಗ್ರಾಂ), $y$ = ಬೆಲೆ (₹)",
+    "ಅನುಪಾತ $\\frac{x}{y}$ ಅನ್ನು ಪರೀಕ್ಷಿಸೋಣ:",
+    "$\\frac{1}{36}$, $\\frac{3}{108} = \\frac{1}{36}$, $\\frac{5}{180} = \\frac{1}{36}$",
+    "ಅನುಪಾತವು ಸ್ಥಿರವಾಗಿರುವುದರಿಂದ, ಇವು ನೇರ ಅನುಪಾತದಲ್ಲಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A table showing the weight of sugar and its corresponding price. The ratio of price to weight is constant, demonstrating direct proportion. The table should have two columns: 'Weight of Sugar (x) (in kg)' and 'Price (y) (in ₹)' with rows (1, 36), (3, 108), and (5, 180). The caption should be 'Comparison of sugar weight and price'. The mathematical significance is that the ratio x/y is constant (1/36). This visually explains direct proportion. The table data is: {\"header\": [\"ಸಕ್ಕರೆಯ ತೂಕ (x) (ಕಿ.ಗ್ರಾಂ)\", \"ಬೆಲೆ (y) (₹)\"], \"rows\": [[\"1\", \"36\"], [\"3\", \"108\"], [\"5\", \"180\"]], \"caption\": \"ಸಕ್ಕರೆಯ ತೂಕ ಮತ್ತು ಬೆಲೆಯ ಹೋಲಿಕೆ\"}"
+  },
+  "chunk_id": "RPP-PROP-2_concept_1_chunk_004"
+}

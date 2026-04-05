@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ವೃತ್ತದ ರಚನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೈವಾರ ಮತ್ತು ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತವನ್ನು ರಚಿಸಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ವೃತ್ತದ ತ್ರಿಜ್ಯವನ್ನು ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ಈ ಅಳತೆಯನ್ನು ಬಳಸಿ ಒಂದು ವೃತ್ತವನ್ನು ರಚಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೈವಾರ ಮತ್ತು ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ 4 cm ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತವನ್ನು ರಚಿಸಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ವೃತ್ತದ ತ್ರಿಜ್ಯವನ್ನು 4 cm ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ಈ ಅಳತೆಯನ್ನು ಬಳಸಿ ಒಂದು ವೃತ್ತವನ್ನು ರಚಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಕೈವಾರ ಮತ್ತು ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ 4 cm ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತವನ್ನು ರಚಿಸಿ.",
+    "ನೀಡಿರುವುದು: ತ್ರಿಜ್ಯ = 4 cm",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದುದು: 4 cm ತ್ರಿಜ್ಯದ ವೃತ್ತದ ರಚನೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A ruler and a compass placed next to each other on a piece of paper, ready for construction. The problem statement 'Construct a circle of radius 4 cm' is written at the top.",
+    "labels": "ಕೈವಾರ, ಅಳತೆಪಟ್ಟಿ",
+    "mathematical_significance": "Illustrates the tools required for the geometric construction problem.",
+    "placeholder_note": "Image showing a ruler and compass, with the problem text."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "VIS-CON-1_example_1",
+  "chunk_id": "VIS-CON-1_concept_1_chunk_018"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣ: ಕೋನಗಳು ಸಮ",
+  "script": "ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳ ಅತ್ಯಂತ ಮುಖ್ಯವಾದ ಮತ್ತು ಉಪಯುಕ್ತವಾದ ಗುಣಲಕ್ಷಣವೆಂದರೆ, ಅವುಗಳ ಅಳತೆಗಳು ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತವೆ. ಅಂದರೆ, ಒಂದು ಜೋಡಿ ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮ. ನಮ್ಮ ಚಿತ್ರದ ಪ್ರಕಾರ, ಕೋನ 1 ರ ಅಳತೆಯು ಕೋನ 3 ರ ಅಳತೆಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಅದೇ ರೀತಿ, ಕೋನ 2 ರ ಅಳತೆಯು ಕೋನ 4 ರ ಅಳತೆಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಈ ನಿಯಮವನ್ನು ಬಳಸಿಕೊಂಡು, ಛೇದಿಸುವ ರೇಖೆಗಳಲ್ಲಿ ಒಂದು ಕೋನದ ಅಳತೆ ತಿಳಿದಿದ್ದರೆ, ಅದರ ವಿರುದ್ಧ ಕೋನದ ಅಳತೆಯನ್ನು ನಾವು ಸುಲಭವಾಗಿ ಹೇಳಬಹುದು.",
+  "script_display": "ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳ ಅತ್ಯಂತ ಮುಖ್ಯವಾದ ಮತ್ತು ಉಪಯುಕ್ತವಾದ ಗುಣಲಕ್ಷಣವೆಂದರೆ, ಅವುಗಳ ಅಳತೆಗಳು ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತವೆ. ಅಂದರೆ, ಒಂದು ಜೋಡಿ ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮ.\n* $\\angle 1 = \\angle 3$\n* $\\angle 2 = \\angle 4$\nಈ ನಿಯಮವನ್ನು ಬಳಸಿಕೊಂಡು, ಛೇದಿಸುವ ರೇಖೆಗಳಲ್ಲಿ ಒಂದು ಕೋನದ ಅಳತೆ ತಿಳಿದಿದ್ದರೆ, ಅದರ ವಿರುದ್ಧ ಕೋನದ ಅಳತೆಯನ್ನು ನಾವು ಸುಲಭವಾಗಿ ಹೇಳಬಹುದು.",
+  "display_bullets": [
+    "$\\angle 1 = \\angle 3$",
+    "$\\angle 2 = \\angle 4$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಚಿತ್ರವನ್ನೇ ಬಳಸಿ, ಕೋನ 1 ಮತ್ತು 3 ಅನ್ನು ಒಂದೇ ಬಣ್ಣದಲ್ಲಿ (ಉದಾ: ನೀಲಿ) ಮತ್ತು ಕೋನ 2 ಮತ್ತು 4 ಅನ್ನು ಇನ್ನೊಂದು ಬಣ್ಣದಲ್ಲಿ (ಉದಾ: ಹಸಿರು) ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. ಸಮ ಚಿಹ್ನೆಗಳನ್ನು ಬಳಸಿ ಅವುಗಳ ಸಮಾನತೆಯನ್ನು ತೋರಿಸಲಾಗಿದೆ. $\\angle 1 = \\angle 3$ ಮತ್ತು $\\angle 2 = \\angle 4$ ಎಂದು ಲೇಬಲ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "1, 2, 3, 4, =, =",
+    "mathematical_significance": "ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಸಮವೆಂದು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated: Same intersecting lines, but angle 1 and 3 are colored blue, and angle 2 and 4 are colored green. Equality marks are shown."
+  },
+  "chunk_id": "GEO-LA-1_concept_3_chunk_024"
+}

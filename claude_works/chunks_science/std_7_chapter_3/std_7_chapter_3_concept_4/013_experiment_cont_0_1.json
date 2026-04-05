@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಒಂದು ಲೋಹದ ಸರಳು ಬೇಕು, ಇದು ಅಲ್ಯೂಮಿನಿಯಮ್ ಅಥವಾ ಕಬ್ಬಿಣದ್ದಾಗಿರಬಹುದು. ನಂತರ, ಸಣ್ಣ ಮೇಣದ ತುಣುಕುಗಳು ಬೇಕು. ಇವುಗಳನ್ನು ಸರಳಿಗೆ ಅಂಟಿಸಲು ಬಳಸುತ್ತೇವೆ. ಕೊನೆಯದಾಗಿ, ಸರಳಿನ ಒಂದು ತುದಿಯನ್ನು ಕಾಯಿಸಲು ನಮಗೆ ಒಂದು ಜ್ವಾಲೆ ಬೇಕು, ಇದಕ್ಕಾಗಿ ನಾವು ಮೇಣದಬತ್ತಿಯನ್ನು ಬಳಸಬಹುದು. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಚಿತ್ರದಲ್ಲಿ ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ನೀವು ನೋಡಬಹುದು.",
+  "script_display": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಒಂದು ಲೋಹದ ಸರಳು ಬೇಕು, ಇದು ಅಲ್ಯೂಮಿನಿಯಮ್ ಅಥವಾ ಕಬ್ಬಿಣದ್ದಾಗಿರಬಹುದು. ನಂತರ, ಸಣ್ಣ ಮೇಣದ ತುಣುಕುಗಳು ಬೇಕು. ಇವುಗಳನ್ನು ಸರಳಿಗೆ ಅಂಟಿಸಲು ಬಳಸುತ್ತೇವೆ. ಕೊನೆಯದಾಗಿ, ಸರಳಿನ ಒಂದು ತುದಿಯನ್ನು ಕಾಯಿಸಲು ನಮಗೆ ಒಂದು ಜ್ವಾಲೆ ಬೇಕು, ಇದಕ್ಕಾಗಿ ನಾವು ಮೇಣದಬತ್ತಿಯನ್ನು ಬಳಸಬಹುದು. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಚಿತ್ರದಲ್ಲಿ ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ನೀವು ನೋಡಬಹುದು.",
+  "display_bullets": [
+    "ಲೋಹದ ಸರಳು (ಅಲ್ಯೂಮಿನಿಯಮ್/ಕಬ್ಬಿಣ)",
+    "ಮೇಣದ ತುಣುಕುಗಳು",
+    "ಜ್ವಾಲೆ (ಮೇಣದಬತ್ತಿ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the materials needed for the experiment: a metal rod, a few pieces of wax, and a candle.",
+    "labels": "ಲೋಹದ ಸರಳು, ಮೇಣ, ಮೇಣದಬತ್ತಿ",
+    "scientific_significance": "Illustrates the basic components required to demonstrate heat conduction in a solid.",
+    "placeholder_note": "Image to be generated showing the materials laid out."
+  },
+  "sub_type": "apparatus",
+  "chunk_id": "std_7_chapter_3_concept_4_chunk_013"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ದೂರವನ್ನು ಲೆಕ್ಕಹಾಕಿ",
+  "script": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ಹುಡುಗಿ ನಡೆದ ದೂರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ದೂರವು ಜವ ಮತ್ತು ಸಮಯದ ಗುಣಲಬ್ಧಕ್ಕೆ ಸಮ. ಅಂದರೆ, 1.2 ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ, ಇದನ್ನು 4 ಸೆಕೆಂಡುಗಳಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ 4.8 ಮೀಟರ್ ಸಿಗುತ್ತದೆ. ಇದು ಬಿಡಿ ಅಂತರ. ಈಗ, ನೆರಳಿನ ಉದ್ದ ಡಿಇ ಯನ್ನು ಎಕ್ಸ್ ಮೀಟರ್ ಎಂದು ಭಾವಿಸೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ ನಮಗೆ ಎರಡು ತ್ರಿಭುಜಗಳು ಕಾಣಿಸುತ್ತವೆ, ದೊಡ್ಡ ತ್ರಿಭುಜ ಎಬಿಇ ಮತ್ತು ಚಿಕ್ಕ ತ್ರಿಭುಜ ಸಿಡಿಇ.",
+  "script_display": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ಹುಡುಗಿ ನಡೆದ ದೂರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ದೂರವು ಜವ ಮತ್ತು ಸಮಯದ ಗುಣಲಬ್ಧಕ್ಕೆ ಸಮ. ಅಂದರೆ, $1.2 \\text{ m/s} \\times 4 \\text{ s}$, ನಮಗೆ $4.8$ m ಸಿಗುತ್ತದೆ. ಇದು $BD$ ಅಂತರ. ಈಗ, ನೆರಳಿನ ಉದ್ದ $DE$ ಯನ್ನು $x$ m ಎಂದು ಭಾವಿಸೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ ನಮಗೆ ಎರಡು ತ್ರಿಭುಜಗಳು ಕಾಣಿಸುತ್ತವೆ, $\\triangle ABE$ ಮತ್ತು $\\triangle CDE$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿರುವ ಅದೇ ರೇಖಾಚಿತ್ರ, ಆದರೆ ಈಗ BD = 4.8m ಮತ್ತು DE = x ಎಂದು ಲೇಬಲ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, E, 3.6m, 0.9m, 4.8m, x",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯ ದತ್ತಾಂಶ ಮತ್ತು ಅಜ್ಞಾತ ಮೌಲ್ಯಗಳನ್ನು ರೇಖಾಚಿತ್ರದಲ್ಲಿ ಗುರುತಿಸುವುದು, ಪರಿಹಾರದ ಮುಂದಿನ ಹಂತಕ್ಕೆ ದೃಶ್ಯ ಆಧಾರವನ್ನು ಒದಗಿಸುತ್ತದೆ.",
+    "placeholder_note": "Update previous image with labels for BD and DE."
+  },
+  "source_example_id": "GEO-TRI-2_example_5",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಹುಡುಗಿ ನಡೆದ ದೂರ, $BD = \\text{ಜವ} \\times \\text{ಸಮಯ} = 1.2 \\text{ m/s} \\times 4 \\text{ s} = 4.8$ m.",
+      "justification": "ದೂರ = ಜವ × ಸಮಯ"
+    },
+    {
+      "step": 2,
+      "action_display": "ನೆರಳಿನ ಉದ್ದ $DE = x$ m ಆಗಿರಲಿ. ಈಗ $\\triangle ABE$ ಮತ್ತು $\\triangle CDE$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+      "justification": "ಸಮರೂಪತೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು ಈ ತ್ರಿಭುಜಗಳನ್ನು ಬಳಸುತ್ತೇವೆ."
+    }
+  ],
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_036"
+}

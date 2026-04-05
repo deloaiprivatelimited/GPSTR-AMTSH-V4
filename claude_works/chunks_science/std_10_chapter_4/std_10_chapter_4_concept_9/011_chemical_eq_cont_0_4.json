@@ -1,0 +1,30 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಮುಖ ಅಂಶ",
+  "script": "ಕೊನೆಯದಾಗಿ, ಈ ಕ್ರಿಯೆಯ ಪ್ರಮುಖ ಸಾರಾಂಶವೇನೆಂದರೆ, ಎಥನಾಲ್ ಸೋಡಿಯಂನಂತಹ ಕ್ರಿಯಾಶೀಲ ಲೋಹದೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ಹೈಡೋಜನ್ ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಇದು ಎಥನಾಲ್‌ನ ಒಂದು ವಿಶಿಷ್ಟ ಪರೀಕ್ಷೆಯಾಗಿದೆ. ಎರಡನೆಯದಾಗಿ, ಈ ಕ್ರಿಯೆಯು ಎಥನಾಲ್‌ನ ಅಲ್ಪ ಆಮ್ಲೀಯ ಸ್ವಭಾವವನ್ನು ತೋರಿಸುತ್ತದೆ. ಪರೀಕ್ಷೆಯಲ್ಲಿ ಈ ಅಂಶಗಳನ್ನು ಆಧರಿಸಿ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಪ್ರಮುಖ ಸಾರಾಂಶ:",
+  "display_bullets": [
+    "ಎಥನಾಲ್ + ಸೋಡಿಯಂ → ಹೈಡೋಜನ್ ಅನಿಲ (H₂) ಬಿಡುಗಡೆ.",
+    "ಈ ಕ್ರಿಯೆಯು ಎಥನಾಲ್‌ನ ಅಲ್ಪ ಆಮ್ಲೀಯ ಸ್ವಭಾವವನ್ನು ತೋರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "highlight_box",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_4_concept_9_chunk_011"
+}

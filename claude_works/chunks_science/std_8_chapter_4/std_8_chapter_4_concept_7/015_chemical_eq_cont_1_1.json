@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಮ್ಲ ಮಳೆ ರಚನೆ - ಹಂತ 2",
+  "script": "ಈಗ, ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ಉಂಟಾದ ಸಲ್ಫರ್ ಟ್ರೈಆಕ್ಸೈಡ್ ಅನಿಲವು ವಾತಾವರಣದಲ್ಲಿನ ನೀರಿನ ಆವಿಯೊಂದಿಗೆ, ಅಂದರೆ ಮೋಡಗಳಲ್ಲಿನ ನೀರಿನೊಂದಿಗೆ ವರ್ತಿಸುತ್ತದೆ. ಒಂದು ಸಲ್ಫರ್ ಟ್ರೈಆಕ್ಸೈಡ್ ಅನಿಲದ ಅಣು, ಒಂದು ನೀರಿನ ಅಣುವಿನೊಂದಿಗೆ ಸೇರಿ, ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಇದೇ ಆಮ್ಲ ಮಳೆಯಲ್ಲಿರುವ ಪ್ರಮುಖ ಆಮ್ಲ.",
+  "script_display": "ಈಗ, ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ಉಂಟಾದ ಸಲ್ಫರ್ ಟ್ರೈಆಕ್ಸೈಡ್ (SO₃) ಅನಿಲವು ವಾತಾವರಣದಲ್ಲಿನ ನೀರಿನ ಆವಿಯೊಂದಿಗೆ (H₂O), ಅಂದರೆ ಮೋಡಗಳಲ್ಲಿನ ನೀರಿನೊಂದಿಗೆ ವರ್ತಿಸುತ್ತದೆ. 1 ಅಣು SO₃(g) + 1 ಅಣು H₂O(l) → H₂SO₄(aq). ಇದೇ ಆಮ್ಲ ಮಳೆಯಲ್ಲಿರುವ ಪ್ರಮುಖ ಆಮ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "SO_3(g) + H_2O(l) \\rightarrow H_2SO_4(aq)",
+    "placeholder_note": "Chemical equation for the reaction of sulfur trioxide with water to form sulfuric acid."
+  },
+  "chunk_id": "std_8_chapter_4_concept_7_chunk_015"
+}

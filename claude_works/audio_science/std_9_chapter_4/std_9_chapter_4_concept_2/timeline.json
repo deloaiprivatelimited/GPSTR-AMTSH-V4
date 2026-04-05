@@ -1,0 +1,79 @@
+{
+  "module_id": "std_9_chapter_4_concept_2",
+  "chapter_code": "std_9_chapter_4",
+  "voice": "Alnilam",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 256.626,
+  "total_duration_formatted": "4:16",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_4_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಥಾಮ್ಸನ್‌ರವರ ಪರಮಾಣು ಮಾದರಿ",
+      "type": "title_hero",
+      "start": 0.0,
+      "end": 47.611,
+      "duration": 47.611,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "bullet_list",
+      "start": 48.211,
+      "end": 76.982,
+      "duration": 28.771,
+      "script_words": 43
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_2_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಥಾಮ್ಸನ್‌ರವರ ಪರಮಾಣು ಮಾದರಿ: ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 77.582,
+      "end": 122.873,
+      "duration": 45.291,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_2_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಥಾಮ್ಸನ್‌ರವರ ಮಾದರಿಯ ಪ್ರತಿಪಾದನೆಗಳು",
+      "type": "concept_explanation",
+      "start": 123.473,
+      "end": 168.524,
+      "duration": 45.051,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_2_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಮಾದರಿಯ ನ್ಯೂನತೆಗಳು",
+      "type": "concept_explanation",
+      "start": 169.124,
+      "end": 217.255,
+      "duration": 48.131,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_2_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಥಾಮ್ಸನ್‌ರವರ ಪರಮಾಣು ಮಾದರಿ",
+      "type": "recap",
+      "start": 217.855,
+      "end": 256.026,
+      "duration": 38.171,
+      "script_words": 53
+    }
+  ]
+}

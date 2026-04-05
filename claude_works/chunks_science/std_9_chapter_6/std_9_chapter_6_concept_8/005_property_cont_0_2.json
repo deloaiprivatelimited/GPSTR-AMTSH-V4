@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅನುಲೇಪಕ ಅಂಗಾಂಶ: ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣಗಳು",
+  "script": "ಮೂರನೆಯದಾಗಿ, ಅನುಲೇಪಕ ಅಂಗಾಂಶವು ಯಾವಾಗಲೂ ಒಂದು ಆಧಾರದ ಮೇಲೆ ನಿಂತಿರುತ್ತದೆ. ಈ ಆಧಾರವನ್ನು ತಳ ಪೊರೆ ಅಥವಾ ಬೇಸ್ಮೆಂಟ್ ಮೆಂಬ್ರೇನ್ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದು ಒಂದು ನಾರಿನಂತಹ, ಜೀವಕೋಶರಹಿತ ಪದರವಾಗಿದ್ದು, ಅನುಲೇಪಕ ಅಂಗಾಂಶವನ್ನು ಅದರ ಕೆಳಗಿರುವ ಸಂಯೋಜಕ ಅಂಗಾಂಶದಿಂದ ಪ್ರತ್ಯೇಕಿಸುತ್ತದೆ. ಇದು ಅನುಲೇಪಕ ಅಂಗಾಂಶಕ್ಕೆ ಭದ್ರವಾದ ಅಡಿಪಾಯವನ್ನು ಒದಗಿಸುತ್ತದೆ ಮತ್ತು ಅದಕ್ಕೆ ಬೇಕಾದ ಪೋಷಕಾಂಶಗಳು ಕೆಳಗಿನ ಅಂಗಾಂಶದಿಂದ ತಲುಪಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದು ಒಂದು ಕಟ್ಟಡದ ಅಡಿಪಾಯದಂತೆ, ಇಡೀ ರಚನೆಗೆ ಸ್ಥಿರತೆ ಮತ್ತು ಆಧಾರವನ್ನು ನೀಡುತ್ತದೆ.",
+  "script_display": "ಮೂರನೆಯದಾಗಿ, ಅನುಲೇಪಕ ಅಂಗಾಂಶವು ಯಾವಾಗಲೂ ಒಂದು ಆಧಾರದ ಮೇಲೆ ನಿಂತಿರುತ್ತದೆ. ಈ ಆಧಾರವನ್ನು ತಳ ಪೊರೆ (Basement membrane) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದು ಒಂದು ನಾರಿನಂತಹ, ಜೀವಕೋಶರಹಿತ ಪದರವಾಗಿದ್ದು, ಅನುಲೇಪಕ ಅಂಗಾಂಶವನ್ನು ಅದರ ಕೆಳಗಿರುವ ಸಂಯೋಜಕ ಅಂಗಾಂಶದಿಂದ ಪ್ರತ್ಯೇಕಿಸುತ್ತದೆ. ಇದು ಅನುಲೇಪಕ ಅಂಗಾಂಶಕ್ಕೆ ಭದ್ರವಾದ ಅಡಿಪಾಯವನ್ನು ಒದಗಿಸುತ್ತದೆ ಮತ್ತು ಅದಕ್ಕೆ ಬೇಕಾದ ಪೋಷಕಾಂಶಗಳು ಕೆಳಗಿನ ಅಂಗಾಂಶದಿಂದ ತಲುಪಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದು ಒಂದು ಕಟ್ಟಡದ ಅಡಿಪಾಯದಂತೆ, ಇಡೀ ರಚನೆಗೆ ಸ್ಥಿರತೆ ಮತ್ತು ಆಧಾರವನ್ನು ನೀಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಈ ಅಂಗಾಂಶವು ಯಾವಾಗಲೂ ಒಂದು ನಾರಿನಂತಹ ತಳ ಪೊರೆಯ (Basement membrane) ಮೇಲೆ ನಿಂತಿರುತ್ತದೆ, ಇದು ಅದನ್ನು ಕೆಳಗಿನ ಅಂಗಾಂಶದಿಂದ ಪ್ರತ್ಯೇಕಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cross-section diagram showing a layer of epithelial cells. Clearly visible beneath this layer is the basement membrane, a distinct line separating the epithelium from the underlying connective tissue which contains blood vessels.",
+    "labels": "ಅನುಲೇಪಕ ಅಂಗಾಂಶ, ತಳ ಪೊರೆ (Basement membrane), ಸಂಯೋಜಕ ಅಂಗಾಂಶ",
+    "scientific_significance": "Highlights the structural foundation of epithelial tissue, showing its attachment to the basement membrane, which is crucial for support and nutrient supply.",
+    "placeholder_note": "Image to be generated showing epithelium, basement membrane, and connective tissue."
+  },
+  "chunk_id": "std_9_chapter_6_concept_8_chunk_005"
+}

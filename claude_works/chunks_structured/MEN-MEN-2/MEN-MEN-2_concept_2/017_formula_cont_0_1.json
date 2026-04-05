@@ -1,0 +1,37 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರದ ನಿಷ್ಪತ್ತಿ (Derivation)",
+  "script": "ಈ ಸೂತ್ರ ಹೇಗೆ ಬಂತು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಆಯತ ಘನವನ್ನು ಬಿಡಿಸಿ, ಅದರ ಎಲ್ಲಾ ಮುಖಗಳನ್ನು ತೆರೆದಿಟ್ಟರೆ, ನಮಗೆ ಅದರ ಜಾಲ ಅಥವಾ ನೆಟ್ ಸಿಗುತ್ತದೆ. ಆಯತ ಘನವು ಮೂರು ಜೊತೆ ಸರ್ವಸಮ ಆಯತಾಕಾರದ ಮುಖಗಳನ್ನು ಹೊಂದಿದೆ. ತಳ ಮತ್ತು ಮೇಲ್ಭಾಗದ ಮುಖಗಳು ಒಂದೇ ಅಳತೆಯನ್ನು ಹೊಂದಿರುತ್ತವೆ, ಅವುಗಳ ವಿಸ್ತೀರ್ಣ ಎಲ್ ಇಂಟು ಬಿ. ಹಾಗಾಗಿ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ ಎರಡು ಎಲ್ ಬಿ ಆಗುತ್ತದೆ. ಅದೇ ರೀತಿ, ಮುಂಭಾಗ ಮತ್ತು ಹಿಂಭಾಗದ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣ ಬಿ ಇಂಟು ಎಚ್, ಹಾಗಾಗಿ ಒಟ್ಟು ಎರಡು ಬಿ ಎಚ್ ಆಗುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಎರಡು ಪಾರ್ಶ್ವ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣ ಎಚ್ ಇಂಟು ಎಲ್, ಹಾಗಾಗಿ ಒಟ್ಟು ಎರಡು ಎಚ್ ಎಲ್ ಆಗುತ್ತದೆ. ಇವೆಲ್ಲವನ್ನೂ ಕೂಡಿದಾಗ ನಮಗೆ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈ ಸೂತ್ರ ಹೇಗೆ ಬಂತು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಆಯತ ಘನವನ್ನು ಬಿಡಿಸಿ, ಅದರ ಎಲ್ಲಾ ಮುಖಗಳನ್ನು ತೆರೆದಿಟ್ಟರೆ, ನಮಗೆ ಅದರ ಜಾಲ (net) ಸಿಗುತ್ತದೆ. ಆಯತ ಘನವು ಮೂರು ಜೊತೆ ಸರ್ವಸಮ ಆಯತಾಕಾರದ ಮುಖಗಳನ್ನು ಹೊಂದಿದೆ. ತಳ ಮತ್ತು ಮೇಲ್ಭಾಗದ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣ $l \\times b$. ಹಾಗಾಗಿ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ $2lb$ ಆಗುತ್ತದೆ. ಅದೇ ರೀತಿ, ಮುಂಭಾಗ ಮತ್ತು ಹಿಂಭಾಗದ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣ $b \\times h$, ಹಾಗಾಗಿ ಒಟ್ಟು $2bh$ ಆಗುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಎರಡು ಪಾರ್ಶ್ವ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣ $h \\times l$, ಹಾಗಾಗಿ ಒಟ್ಟು $2hl$ ಆಗುತ್ತದೆ. ಇವೆಲ್ಲವನ್ನೂ ಕೂಡಿದಾಗ ನಮಗೆ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಆಯತ ಘನವು ಮೂರು ಜೊತೆ ಸರ್ವಸಮ ಮುಖಗಳನ್ನು ಹೊಂದಿದೆ.",
+    "ತಳ ಮತ್ತು ಮೇಲ್ಭಾಗದ ವಿಸ್ತೀರ್ಣ: $Area = lb + lb = 2lb$",
+    "ಮುಂಭಾಗ ಮತ್ತು ಹಿಂಭಾಗದ ವಿಸ್ತೀರ್ಣ: $Area = bh + bh = 2bh$",
+    "ಎರಡು ಪಾರ್ಶ್ವ ಮುಖಗಳ ವಿಸ್ತೀರ್ಣ: $Area = hl + hl = 2hl$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The net of a cuboid. It shows the 6 rectangular faces unfolded into a 2D shape. Each pair of identical faces should be colored the same. The areas should be labeled: two faces with 'lb', two with 'bh', and two with 'hl'.",
+    "labels": "l, b, h, lb, bh, hl",
+    "mathematical_significance": "Visually demonstrates that the total surface area of a 3D shape is the sum of the areas of its 2D net, making the formula's origin intuitive.",
+    "placeholder_note": "Image of the net of a cuboid with faces labeled by their areas."
+  },
+  "chunk_id": "MEN-MEN-2_concept_2_chunk_017"
+}

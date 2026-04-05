@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವೆಂದರೆ, ಲೋಲಕದ ಆವೃತ್ತಿಯು ಹತ್ತು ಹರ್ಟ್ಸ್ ಮತ್ತು ಅದರ ಕಾಲಾವಧಿಯು ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಒಂದು ಸೆಕೆಂಡುಗಳು.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವೆಂದರೆ, ಲೋಲಕದ ಆವೃತ್ತಿಯು 10 Hz ಮತ್ತು ಅದರ ಕಾಲಾವಧಿಯು 0.1 s.",
+  "display_bullets": [
+    "ಆವೃತ್ತಿ (f) = 10 Hz",
+    "ಕಾಲಾವಧಿ (T) = 0.1 s"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "physics_key_takeaway_template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "source_example_id": "std_8_chapter_10_example_1",
+  "final_answer": "ಆವೃತ್ತಿ = 10 Hz, ಕಾಲಾವಧಿ = 0.1 s.",
+  "final_answer_display": "ಆವೃತ್ತಿ (f) = 10 Hz\nಕಾಲಾವಧಿ (T) = 0.1 s",
+  "chunk_id": "std_8_chapter_10_concept_4_chunk_029"
+}

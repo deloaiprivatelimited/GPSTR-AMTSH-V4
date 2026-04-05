@@ -1,0 +1,46 @@
+{
+  "module_id": "std_10_chapter_6_concept_8",
+  "chapter_code": "std_10_chapter_6",
+  "voice": "Achernar",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 151.113,
+  "total_duration_formatted": "2:31",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_6_concept_8_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಮಾನವನ ಪ್ರಮುಖ ಹಾರ್ಮೋನುಗಳು ಮತ್ತು ಅವುಗಳ ಕಾರ್ಯಗಳು",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 62.571,
+      "duration": 62.571,
+      "script_words": 79
+    },
+    {
+      "chunk_id": "std_10_chapter_6_concept_8_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 63.171,
+      "end": 106.942,
+      "duration": 43.771,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_10_chapter_6_concept_8_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 107.542,
+      "end": 150.513,
+      "duration": 42.971,
+      "script_words": 57
+    }
+  ]
+}

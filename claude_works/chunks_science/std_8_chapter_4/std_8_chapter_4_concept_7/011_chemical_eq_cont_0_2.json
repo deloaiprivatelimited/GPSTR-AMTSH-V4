@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಣುಗಳ ಮಟ್ಟದಲ್ಲಿ ಕ್ರಿಯೆ",
+  "script": "ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಎಡಭಾಗದಲ್ಲಿ, ನಮ್ಮ ಬಳಿ ಪ್ರತಿವರ್ತಕಗಳಿವೆ: ಒಂದು ಸಲ್ಫರ್ ಡೈಆಕ್ಸೆಡ್ ಅಣು ಮತ್ತು ಒಂದು ನೀರಿನ ಅಣು. ಇವು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸಿ, ಬಲಭಾಗದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲ ಎಂಬ ಹೊಸ ಉತ್ಪನ್ನದ ಅಣುವಾಗಿ ಪರಿವರ್ತನೆಗೊಳ್ಳುತ್ತವೆ.",
+  "script_display": "ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಎಡಭಾಗದಲ್ಲಿ, ನಮ್ಮ ಬಳಿ ಪ್ರತಿವರ್ತಕಗಳಿವೆ: ಒಂದು ಸಲ್ಫರ್ ಡೈಆಕ್ಸೆಡ್ (SO₂) ಅಣು ಮತ್ತು ಒಂದು ನೀರಿನ (H₂O) ಅಣು. ಇವು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸಿ, ಬಲಭಾಗದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲ (H₂SO₃) ಎಂಬ ಹೊಸ ಉತ್ಪನ್ನದ ಅಣುವಾಗಿ ಪರಿವರ್ತನೆಗೊಳ್ಳುತ್ತವೆ.",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳು: 1 ಅಣು SO₂ + 1 ಅಣು H₂O",
+    "ಉತ್ಪನ್ನ: 1 ಅಣು H₂SO₃ (ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A molecular diagram. On the left, one molecule of SO₂ (one yellow sphere for sulfur, two red spheres for oxygen) and one molecule of H₂O (one red sphere for oxygen, two small white spheres for hydrogen). An arrow points to the right, where one molecule of H₂SO₃ is shown (one yellow sphere for sulfur, three red spheres for oxygen, and two small white spheres for hydrogen, all bonded together).",
+    "labels": "Sulfur dioxide (SO₂), Water (H₂O), Sulfurous acid (H₂SO₃)",
+    "scientific_significance": "Visually represents the rearrangement of atoms during the chemical reaction where sulfur dioxide and water combine to form sulfurous acid.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_4_concept_7_chunk_011"
+}

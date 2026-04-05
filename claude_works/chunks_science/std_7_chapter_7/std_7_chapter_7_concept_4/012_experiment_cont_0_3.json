@@ -1,0 +1,39 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 2",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಆಲಿಕೆಯ ಅಗಲವಾದ ಬಾಯಿಯ ಮೇಲೆ ರಬ್ಬರ್ ಹಾಳೆ ಅಥವಾ ಬಲೂನನ್ನು ಎಳೆದು ಹಾಕಿ. ನಂತರ, ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಬಳಸಿ ಅದನ್ನು ಬಿಗಿಯಾಗಿ ಕಟ್ಟಿ. ಈ ರಬ್ಬರ್ ಹಾಳೆಯು ಡಯಾಫ್ರಮ್ ನಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ, ಅಂದರೆ ಇದು ಶಬ್ದದ ಕಂಪನಗಳನ್ನು ಗ್ರಹಿಸುತ್ತದೆ. ಹಾಳೆಯು ಸುಕ್ಕಾಗದಂತೆ, ಸಮತಟ್ಟಾಗಿ ಮತ್ತು ಬಿಗಿಯಾಗಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಈಗ ನಮ್ಮ ಸ್ಟೆಥೋಸ್ಕೋಪ್ ಮಾದರಿ ಸಿದ್ಧವಾಗಿದೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಆಲಿಕೆಯ ಅಗಲವಾದ ಬಾಯಿಯ ಮೇಲೆ ರಬ್ಬರ್ ಹಾಳೆ ಅಥವಾ ಬಲೂನನ್ನು ಎಳೆದು ಹಾಕಿ. ನಂತರ, ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಬಳಸಿ ಅದನ್ನು ಬಿಗಿಯಾಗಿ ಕಟ್ಟಿ. ಈ ರಬ್ಬರ್ ಹಾಳೆಯು ಡಯಾಫ್ರಮ್ (diaphragm) ನಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ, ಅಂದರೆ ಇದು ಶಬ್ದದ ಕಂಪನಗಳನ್ನು ಗ್ರಹಿಸುತ್ತದೆ. ಹಾಳೆಯು ಸುಕ್ಕಾಗದಂತೆ, ಸಮತಟ್ಟಾಗಿ ಮತ್ತು ಬಿಗಿಯಾಗಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಈಗ ನಮ್ಮ ಸ್ಟೆಥೋಸ್ಕೋಪ್ ಮಾದರಿ ಸಿದ್ಧವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಆಲಿಕೆಯ ಬಾಯಿಗೆ ರಬ್ಬರ್ ಹಾಳೆ ಅಥವಾ ಬಲೂನನ್ನು ಎಳೆದು ಹಾಕಿ.",
+    "ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಬಳಸಿ ಬಿಗಿಯಾಗಿ ಕಟ್ಟಿ.",
+    "ಈ ಹಾಳೆಯು ಡಯಾಫ್ರಮ್‌ನಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a rubber sheet (or balloon) being stretched over the wide mouth of the funnel and secured with a rubber band. The final assembled model is shown.",
+    "labels": "ರಬ್ಬರ್ ಹಾಳೆ (ಡಯಾಫ್ರಮ್), ರಬ್ಬರ್‌ಬ್ಯಾಂಡ್, ಸಿದ್ಧವಾದ ಮಾದರಿ",
+    "scientific_significance": "Shows the completion of the model, highlighting the diaphragm which is crucial for capturing sound vibrations, similar to a real stethoscope.",
+    "placeholder_note": "Image to be generated showing the rubber sheet being attached and the final model."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "easy",
+  "source_example_id": "ಚಟುವಟಿಕೆ 7.2",
+  "chunk_id": "std_7_chapter_7_concept_4_chunk_012"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಹಗ್ಗ ಜಗ್ಗಾಟ",
+  "script": "ಸಮತೋಲಿತ ಬಲಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಹಗ್ಗ ಜಗ್ಗಾಟ ಒಂದು ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ. ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ಎರಡು ತಂಡಗಳು ಹಗ್ಗವನ್ನು ತಮ್ಮತ್ತ ಎಳೆಯುತ್ತಿವೆ. ಎಡ ತಂಡವು ನೂರು ನ್ಯೂಟನ್ ಬಲವನ್ನು ಪ್ರಯೋಗಿಸುತ್ತಿದೆ ಮತ್ತು ಬಲ ತಂಡವೂ ಕೂಡ ನೂರು ನ್ಯೂಟನ್ ಬಲವನ್ನು ಪ್ರಯೋಗಿಸುತ್ತಿದೆ. ಇಲ್ಲಿ, ಬಲಗಳ ಪರಿಮಾಣ ಸಮನಾಗಿದೆ, ಅಂದರೆ ನೂರು ನ್ಯೂಟನ್. ಆದರೆ ಅವುಗಳ ದಿಕ್ಕು ವಿರುದ್ಧವಾಗಿದೆ. ಇದರಿಂದಾಗಿ, ಒಂದು ಬಲವು ಇನ್ನೊಂದು ಬಲದ ಪರಿಣಾಮವನ್ನು ರದ್ದುಗೊಳಿಸುತ್ತದೆ. ಹಾಗಾಗಿ, ಹಗ್ಗವು ಯಾವುದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುವುದಿಲ್ಲ. ಇಲ್ಲಿ ಫಲಿತ ಬಲ ಸೊನ್ನೆಯಾಗಿದೆ.",
+  "script_display": "ಸಮತೋಲಿತ ಬಲಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಹಗ್ಗ ಜಗ್ಗಾಟ (Tug-of-war) ಒಂದು ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ. ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ಎರಡು ತಂಡಗಳು ಹಗ್ಗವನ್ನು ತಮ್ಮತ್ತ ಎಳೆಯುತ್ತಿವೆ. ಎಡ ತಂಡವು 100 N ಬಲವನ್ನು ಪ್ರಯೋಗಿಸುತ್ತಿದೆ ಮತ್ತು ಬಲ ತಂಡವೂ ಕೂಡ 100 N ಬಲವನ್ನು ಪ್ರಯೋಗಿಸುತ್ತಿದೆ. ಇಲ್ಲಿ, ಬಲಗಳ ಪರಿಮಾಣ (magnitude) ಸಮನಾಗಿದೆ (100 N), ಆದರೆ ಅವುಗಳ ದಿಕ್ಕು (direction) ವಿರುದ್ಧವಾಗಿದೆ. ಇದರಿಂದಾಗಿ, ಒಂದು ಬಲವು ಇನ್ನೊಂದು ಬಲದ ಪರಿಣಾಮವನ್ನು ರದ್ದುಗೊಳಿಸುತ್ತದೆ. ಹಾಗಾಗಿ, ಹಗ್ಗವು ಯಾವುದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುವುದಿಲ್ಲ. ಇಲ್ಲಿ ಫಲಿತ ಬಲ ಸೊನ್ನೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಎರಡೂ ತಂಡಗಳು ಹಗ್ಗವನ್ನು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಎಳೆಯುತ್ತಿವೆ.",
+    "ಎಡ ತಂಡದ ಬಲ = 100 N.",
+    "ಬಲ ತಂಡದ ಬಲ = 100 N.",
+    "ಬಲಗಳು ಸಮ ಮತ್ತು ವಿರುದ್ಧವಾಗಿರುವುದರಿಂದ, ಹಗ್ಗ ಚಲಿಸುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a tug-of-war. Two teams are pulling a rope. Team A on the left pulls with a force of 100N to the left. Team B on the right pulls with a force of 100N to the right. Arrows indicate the direction and magnitude of the forces. The rope in the middle is stationary.",
+    "labels": "ತಂಡ A (Team A), ತಂಡ B (Team B), ಬಲ = 100 N (Force = 100 N), ಫಲಿತ ಬಲ = 0 (Net Force = 0)",
+    "scientific_significance": "Illustrates the concept of balanced forces where two equal and opposite forces result in zero net force and no change in motion.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_8_concept_2_chunk_017"
+}

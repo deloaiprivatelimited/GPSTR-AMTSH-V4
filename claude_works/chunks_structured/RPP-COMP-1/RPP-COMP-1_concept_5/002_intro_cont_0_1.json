@@ -1,0 +1,33 @@
+{
+  "type": "intro",
+  "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+  "script": "ಸರಳ ಬಡ್ಡಿಯನ್ನು ಕಲಿಯುವ ಮೊದಲು, ಕೆಲವು ವಿಷಯಗಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಿಮಗೆ ಶೇಕಡಾವಾರು, ಅನುಪಾತ ಮತ್ತು ಸಮಾನುಪಾತ, ಲಾಭ ಮತ್ತು ನಷ್ಟ, ಹಾಗೂ ಏಕಮಾನ ವಿಧಾನದ ಬಗ್ಗೆ ತಿಳಿದಿರಬೇಕು. ಈ ಪರಿಕಲ್ಪನೆಗಳು ನಿಮಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿದ್ದರೆ, ಸರಳ ಬಡ್ಡಿ ಕಲಿಯುವುದು ತುಂಬಾ ಸುಲಭವಾಗುತ್ತದೆ.",
+  "script_display": "ಸರಳ ಬಡ್ಡಿಯನ್ನು ಕಲಿಯುವ ಮೊದಲು, ಕೆಲವು ವಿಷಯಗಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಿಮಗೆ ಈ ಕೆಳಗಿನ ಪರಿಕಲ್ಪನೆಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರಬೇಕು. ಈ ಪರಿಕಲ್ಪನೆಗಳು ನಿಮಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿದ್ದರೆ, ಸರಳ ಬಡ್ಡಿ ಕಲಿಯುವುದು ತುಂಬಾ ಸುಲಭವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಶೇಕಡಾವಾರು (Percentages)",
+    "ಅನುಪಾತ ಮತ್ತು ಸಮಾನುಪಾತ (Ratio and Proportion)",
+    "ಲಾಭ ಮತ್ತು ನಷ್ಟ (Profit and Loss)",
+    "ಏಕಮಾನ ವಿಧಾನ (Unitary Method)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_light",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "prerequisites",
+  "chunk_id": "RPP-COMP-1_concept_5_chunk_002"
+}

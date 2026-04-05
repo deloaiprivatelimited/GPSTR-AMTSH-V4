@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1 ರಿಂದ 3",
+  "script": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ದತ್ತಾಂಶವನ್ನು ಆಧರಿಸಿ ಚಿತ್ರವನ್ನು ರಚಿಸುತ್ತೇವೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಜ್ಯಾಗಳ ಉದ್ದವನ್ನು ಹೋಲಿಸಲು, ನಾವು ಕೇಂದ್ರದಿಂದ ಜ್ಯಾಗಳಿಗೆ ಲಂಬಗಳನ್ನು ಎಳೆಯುತ್ತೇವೆ. ಆದ್ದರಿಂದ, O L, A B ಗೆ ಲಂಬವಾಗಿ ಮತ್ತು O M, C D ಗೆ ಲಂಬವಾಗಿ ಎಳೆಯಿರಿ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ತ್ರಿಭುಜ O L E ಮತ್ತು ತ್ರಿಭುಜ O M E ಗಳನ್ನು ಪರಿಗಣಿಸುತ್ತೇವೆ. ದತ್ತಾಂಶದ ಪ್ರಕಾರ ಕೋನ A E Q ಮತ್ತು ಕೋನ D E Q ಸಮವಾಗಿವೆ. ಚಿತ್ರದಿಂದ, ಕೋನ L E O ಮತ್ತು ಕೋನ A E Q ಒಂದೇ ಆಗಿವೆ, ಮತ್ತು ಕೋನ M E O ಮತ್ತು ಕೋನ D E Q ಒಂದೇ ಆಗಿವೆ. ಆದ್ದರಿಂದ, ಕೋನ L E O, ಕೋನ M E O ಗೆ ಸಮವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ದತ್ತಾಂಶವನ್ನು ಆಧರಿಸಿ ಚಿತ್ರವನ್ನು ರಚಿಸುತ್ತೇವೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಜ್ಯಾಗಳ ಉದ್ದವನ್ನು ಹೋಲಿಸಲು, ನಾವು ಕೇಂದ್ರದಿಂದ ಜ್ಯಾಗಳಿಗೆ ಲಂಬಗಳನ್ನು ಎಳೆಯುತ್ತೇವೆ. ಆದ್ದರಿಂದ, $OL ⊥ AB$ ಮತ್ತು $OM ⊥ CD$ ಎಳೆಯಿರಿ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು $ΔOLE$ ಮತ್ತು $ΔOME$ ಗಳನ್ನು ಪರಿಗಣಿಸುತ್ತೇವೆ. ದತ್ತಾಂಶದ ಪ್ರಕಾರ $∠AEQ = ∠DEQ$. ಚಿತ್ರದಿಂದ, $∠LEO = ∠AEQ$ ಮತ್ತು $∠MEO = ∠DEQ$. ಆದ್ದರಿಂದ, $∠LEO = ∠MEO$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "O ಕೇಂದ್ರವಿರುವ ವೃತ್ತ. ಜ್ಯಾಗಳು AB ಮತ್ತು CD ಗಳು E ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. ವ್ಯಾಸ PQ ಯು E ಬಿಂದುವಿನ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ. ಕೇಂದ್ರದಿಂದ ಜ್ಯಾಗಳಿಗೆ ಎಳೆದ ಲಂಬಗಳು OL ಮತ್ತು OM.",
+    "labels": "O, A, B, C, D, P, Q, E, L, M",
+    "mathematical_significance": "ಸಾಧನೆಯ ಹಂತಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸಲು, ವಿಶೇಷವಾಗಿ ಲಂಬಗಳ ರಚನೆ ಮತ್ತು ತ್ರಿಭುಜ OLE ಮತ್ತು OME ಗಳ ರಚನೆ.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-CIR-2_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತ: $∠AEQ = ∠DEQ$.",
+      "justification": "ಸಮಸ್ಯೆಯಲ್ಲಿ ನೀಡಲಾಗಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ರಚನೆ: $OL ⊥ AB$ ಮತ್ತು $OM ⊥ CD$ ಎಳೆಯಿರಿ.",
+      "justification": "ಕೇಂದ್ರದಿಂದ ಜ್ಯಾಗಳ ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯಲು."
+    },
+    {
+      "step": 3,
+      "action_display": "$ΔOLE$ ಮತ್ತು $ΔOME$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ. $∠LEO = ∠MEO$.",
+      "justification": "ದತ್ತಾಂಶ ಮತ್ತು ಚಿತ್ರದಿಂದ."
+    }
+  ],
+  "chunk_id": "GEO-CIR-2_concept_2_chunk_024"
+}

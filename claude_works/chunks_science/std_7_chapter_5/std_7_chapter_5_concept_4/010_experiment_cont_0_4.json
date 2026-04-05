@@ -1,0 +1,35 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಗಮನಿಸಿದ ಅಂಶ (Observation)",
+  "script": "ಕೆಲವು ಗಂಟೆಗಳ ನಂತರ, ಬೀಕರ್ ಅನ್ನು ಗಮನಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡಿ. ದ್ರಾವಣವು ತಣ್ಣಗಾದಂತೆ, ಅದರೊಳಗಿನ ಕಾಪರ್ ಸಲ್ಫೇಟ್‌ನ ಕರಗುವಿಕೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಇದರಿಂದಾಗಿ, ಹೆಚ್ಚುವರಿ ಕಾಪರ್ ಸಲ್ಫೇಟ್, ಸುಂದರವಾದ, ಹೊಳೆಯುವ ನೀಲಿ ಬಣ್ಣದ ಹರಳುಗಳಾಗಿ ಬೀಕರ್‌ನ ತಳದಲ್ಲಿ ರೂಪುಗೊಳ್ಳಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈ ಹರಳುಗಳು ನಿರ್ದಿಷ್ಟ ಜ್ಯಾಮಿತೀಯ ಆಕಾರವನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಇದನ್ನೇ ನಾವು ಸ್ಪಟಿಕೀಕರಣ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ನೋಡಿ, ಎಷ್ಟು ಸುಂದರವಾಗಿ ಹರಳುಗಳು ರೂಪುಗೊಂಡಿವೆ!",
+  "script_display": "ಕೆಲವು ಗಂಟೆಗಳ ನಂತರ, ದ್ರಾವಣವು ತಣ್ಣಗಾದಂತೆ, ಸುಂದರವಾದ, ಹೊಳೆಯುವ ನೀಲಿ ಬಣ್ಣದ ಕಾಪರ್ ಸಲ್ಫೇಟ್ (CuSO₄) ಹರಳುಗಳು ಬೀಕರ್‌ನ ತಳದಲ್ಲಿ ರೂಪುಗೊಳ್ಳುತ್ತವೆ. ಈ ಪ್ರಕ್ರಿಯೆಯೇ ಸ್ಪಟಿಕೀಕರಣ.",
+  "display_bullets": [
+    "ದ್ರಾವಣ ತಣ್ಣಗಾದಂತೆ ಹರಳುಗಳು ರೂಪುಗೊಳ್ಳುತ್ತವೆ.",
+    "ಹರಳುಗಳು ನೀಲಿ ಬಣ್ಣ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಆಕಾರವನ್ನು ಹೊಂದಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "default",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up view of a beaker showing beautiful, well-defined blue crystals of copper sulphate that have formed at the bottom and on the sides from a clear blue solution.",
+    "labels": "ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಹರಳುಗಳು, ದ್ರಾವಣ",
+    "scientific_significance": "Illustrates the final product of crystallization, showing the formation of pure, solid crystals from a saturated solution.",
+    "placeholder_note": "Image to be generated. This should match the description of 'ಚಿತ್ರ 5.6: ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಹರಳುಗಳು' from the module context."
+  },
+  "chunk_id": "std_7_chapter_5_concept_4_chunk_010"
+}

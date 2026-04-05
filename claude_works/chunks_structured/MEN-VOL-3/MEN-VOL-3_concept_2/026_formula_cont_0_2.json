@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರದ ಹಿಂದಿನ ತರ್ಕ",
+  "script": "ಈ ಸೂತ್ರ ಹೇಗೆ ಬಂತು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಗೋಳವನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ಮೇಲ್ಮೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಆವರಿಸುವಂತೆ ದಾರವನ್ನು ಸುತ್ತಿ. ನಂತರ, ಆ ದಾರವನ್ನು ಬಿಚ್ಚಿ, ಗೋಳದ ತ್ರಿಜ್ಯಕ್ಕೆ ಸಮನಾದ ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತಗಳ ಮೇಲೆ ಹರಡಿದಾಗ, ಆ ದಾರವು ನಿಖರವಾಗಿ ನಾಲ್ಕು ವೃತ್ತಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತುಂಬುತ್ತದೆ. ನಮಗೆ ಗೊತ್ತಿರುವ ಹಾಗೆ, ಒಂದು ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ ಪೈ ಆರ್ ವರ್ಗ. ಆದ್ದರಿಂದ, ನಾಲ್ಕು ವೃತ್ತಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವು ನಾಲ್ಕು ಗುಣಿಸು ಪೈ ಆರ್ ವರ್ಗ ಆಗುತ್ತದೆ. ಇದೇ ಗೋಳದ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ಹೀಗೆ, ಗೋಳದ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ನಾಲ್ಕು ಪೈ ಆರ್ ವರ್ಗ ಎಂದು ಪ್ರಾಯೋಗಿಕವಾಗಿ ಸಾಧಿಸಬಹುದು.",
+  "script_display": "ಈ ಸೂತ್ರ ಹೇಗೆ ಬಂತು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಗೋಳವನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ಮೇಲ್ಮೈಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಆವರಿಸುವಂತೆ ದಾರವನ್ನು ಸುತ್ತಿ. ನಂತರ, ಆ ದಾರವನ್ನು ಬಿಚ್ಚಿ, ಗೋಳದ ತ್ರಿಜ್ಯಕ್ಕೆ ಸಮನಾದ ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತಗಳ ಮೇಲೆ ಹರಡಿದಾಗ, ಆ ದಾರವು ನಿಖರವಾಗಿ ನಾಲ್ಕು ವೃತ್ತಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತುಂಬುತ್ತದೆ. ನಮಗೆ ಗೊತ್ತಿರುವ ಹಾಗೆ, ಒಂದು ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ $\\pi r^2$. ಆದ್ದರಿಂದ, ನಾಲ್ಕು ವೃತ್ತಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವು $4 \\times (\\pi r^2)$ ಆಗುತ್ತದೆ. ಇದೇ ಗೋಳದ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ಹೀಗೆ, ಗೋಳದ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ $4\\pi r^2$ ಎಂದು ಪ್ರಾಯೋಗಿಕವಾಗಿ ಸಾಧಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಗೋಳದ ಮೇಲ್ಮೈಯನ್ನು ಆವರಿಸುವ ದಾರವು, ಅದೇ ತ್ರಿಜ್ಯದ ನಾಲ್ಕು ವೃತ್ತಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತುಂಬುತ್ತದೆ.",
+    "ಒಂದು ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ = $\\pi r^2$.",
+    "ಆದ್ದರಿಂದ, ಗೋಳದ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ = $4 \\times (\\pi r^2) = 4\\pi r^2$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustrative diagram showing Archimedes' activity. On the left, a sphere is wrapped in string. An arrow points to the right, where the same string is shown to perfectly cover four flat circles, each with the same radius as the sphere.",
+    "labels": "Sphere, String, 4 Circles of radius r",
+    "mathematical_significance": "This is a visual proof/demonstration that the surface area of a sphere is equal to the area of four circles with the same radius, leading to the formula 4πr².",
+    "placeholder_note": "Image to be generated based on textbook figure 11.7"
+  },
+  "chunk_id": "MEN-VOL-3_concept_2_chunk_026"
+}

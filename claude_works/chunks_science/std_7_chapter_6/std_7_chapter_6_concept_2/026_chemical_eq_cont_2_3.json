@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸ್ನಾಯು ಸೆಳೆತ: ಕಾರಣ ಮತ್ತು ಪರಿಹಾರ",
+  "script": "ತೀವ್ರ ವ್ಯಾಯಾಮದ ನಂತರ ಕಾಲು ಅಥವಾ ಕೈಗಳಲ್ಲಿ ನೋವು, ಸೆಳೆತ ಅನುಭವಿಸಿದ್ದೀರಾ? ಇದಕ್ಕೆ ಕಾರಣವೇ ಸ್ನಾಯುಗಳಲ್ಲಿ ಸಂಗ್ರಹವಾದ ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ. ಆದರೆ ಚಿಂತಿಸಬೇಡಿ, ಇದು ತಾತ್ಕಾಲಿಕ. ಬಿಸಿನೀರಿನ ಸ್ನಾನ ಅಥವಾ ಮಸಾಜ್ ಮಾಡುವುದರಿಂದ ರಕ್ತ ಸಂಚಾರವು ಹೆಚ್ಚಾಗಿ, ಸ್ನಾಯುಗಳಿಗೆ ಹೆಚ್ಚು ಆಮ್ಲಜನಕ ಸಿಗುತ್ತದೆ. ಈ ಆಮ್ಲಜನಕವು ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ವಿಭಜಿಸಿ, ನೋವನ್ನು ನಿವಾರಿಸುತ್ತದೆ.",
+  "script_display": "ತೀವ್ರ ವ್ಯಾಯಾಮದ ನಂತರ ಕಾಲು ಅಥವಾ ಕೈಗಳಲ್ಲಿ ನೋವು, ಸೆಳೆತ ಅನುಭವಿಸಿದ್ದೀರಾ? ಇದಕ್ಕೆ ಕಾರಣವೇ ಸ್ನಾಯುಗಳಲ್ಲಿ ಸಂಗ್ರಹವಾದ ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ. ಆದರೆ ಇದು ತಾತ್ಕಾಲಿಕ.",
+  "display_bullets": [
+    "**ಕಾರಣ:** ಸ್ನಾಯುಗಳಲ್ಲಿ ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲದ ಶೇಖರಣೆ.",
+    "**ಪರಿಹಾರ:** ಬಿಸಿನೀರಿನ ಸ್ನಾನ ಅಥವಾ ಮಸಾಜ್.",
+    "**ಕ್ರಿಯೆ:** ರಕ್ತ ಸಂಚಾರ ಸುಧಾರಿಸಿ, ಆಮ್ಲಜನಕ ಪೂರೈಕೆ ಹೆಚ್ಚುತ್ತದೆ.",
+    "**ಫಲಿತಾಂಶ:** ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲವು CO₂ ಮತ್ತು ನೀರಾಗಿ ವಿಭಜನೆಗೊಂಡು ನೋವು ನಿವಾರಣೆಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-part diagram. Part 1: A muscle with 'lactic acid' molecules causing a 'cramp' icon. Part 2: An arrow showing 'hot water/massage' leading to increased blood flow (red arrows) and O₂ molecules entering the muscle, breaking down the lactic acid into CO₂ and H₂O.",
+    "labels": "ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ, ಸ್ನಾಯು ಸೆಳೆತ, ರಕ್ತ ಸಂಚಾರ, ಆಮ್ಲಜನಕ, ವಿಭಜನೆ",
+    "scientific_significance": "Visually explains the cause of muscle cramps (lactic acid buildup) and the physiological mechanism of recovery (increased oxygen supply via improved circulation).",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_6_concept_2_chunk_026"
+}

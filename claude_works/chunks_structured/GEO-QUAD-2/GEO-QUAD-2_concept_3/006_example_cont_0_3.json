@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 6-7",
+  "script": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ಸಾಧಿಸೋಣ. ಆರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಈಗಷ್ಟೇ ಕೋನ DAC ಸಮನಾಗಿದೆ ಕೋನ ACB ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಇವು AC ಛೇದಕವು AD ಮತ್ತು BC ರೇಖೆಗಳನ್ನು ಛೇದಿಸಿದಾಗ ಉಂಟಾಗುವ ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳಾಗಿವೆ. ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು ಸಮವಾಗಿದ್ದರೆ, ಆ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, AD ಸಮಾಂತರವಾಗಿದೆ BC. ಏಳನೇ ಹಂತದಲ್ಲಿ, ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲಿ CD ಸಮಾಂತರವಾಗಿದೆ AB ಎಂದು ನೀಡಲಾಗಿದೆ. ಈಗ ನಮ್ಮ ಬಳಿ ಅಭಿಮುಖ ಬಾಹುಗಳ ಎರಡೂ ಜೋಡಿಗಳು ಸಮಾಂತರವಾಗಿವೆ: AD ಸಮಾಂತರ BC ಮತ್ತು AB ಸಮಾಂತರ DC. ಆದ್ದರಿಂದ, ಚತುರ್ಭುಜ ABCD ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ಸಾಧಿಸೋಣ. ಆರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಈಗಷ್ಟೇ $∠ DAC = ∠ ACB$ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಇವು AC ಛೇದಕವು AD ಮತ್ತು BC ರೇಖೆಗಳನ್ನು ಛೇದಿಸಿದಾಗ ಉಂಟಾಗುವ ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳಾಗಿವೆ. ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು ಸಮವಾಗಿದ್ದರೆ, ಆ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, $AD \\parallel BC$. ಏಳನೇ ಹಂತದಲ್ಲಿ, ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲಿ $CD \\parallel AB$ ಎಂದು ನೀಡಲಾಗಿದೆ. ಈಗ ನಮ್ಮ ಬಳಿ ಅಭಿಮುಖ ಬಾಹುಗಳ ಎರಡೂ ಜೋಡಿಗಳು ಸಮಾಂತರವಾಗಿವೆ: $AD \\parallel BC$ ಮತ್ತು $AB \\parallel DC$. ಆದ್ದರಿಂದ, ಚತುರ್ಭು-ಜ ABCD ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABC. ಬಾಹು BA ಯನ್ನು P ವರೆಗೆ ವೃದ್ಧಿಸಿದೆ. ಬಾಹ್ಯಕೋನ PAC ಯ ಕೋನಾರ್ಧಕ AD. CD ಯನ್ನು AB ಗೆ ಸಮಾಂತರವಾಗಿ ಎಳೆಯಲಾಗಿದೆ.",
+    "labels": "ಶೃಂಗಗಳು A, B, C, D ಮತ್ತು ಬಿಂದು P.",
+    "mathematical_significance": "ಉದಾಹರಣೆ 3 ರ ಜ್ಯಾಮಿತೀಯ ಸನ್ನಿವೇಶವನ್ನು ವಿವರಿಸುತ್ತದೆ. AB = AC, AD ಕೋನಾರ್ಧಕ, ಮತ್ತು CD || AB ಎಂಬ ಸಂಬಂಧಗಳನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for example 3, showing the described geometric setup."
+  },
+  "source_example_id": "GEO-QUAD-2_example_3",
+  "steps": [
+    {
+      "step": 6,
+      "action_display": "$∠ DAC = ∠ ACB$ ಆಗಿರುವುದರಿಂದ, $AD \\parallel BC$.",
+      "justification": "ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು ಸಮವಾದರೆ, ರೇಖೆಗಳು ಸಮಾಂತರ."
+    },
+    {
+      "step": 7,
+      "action_display": "$AD \\parallel BC$ ಮತ್ತು $AB \\parallel DC$ (ದತ್ತ).",
+      "justification": "ಅಭಿಮುಖ ಬಾಹುಗಳ ಎರಡೂ ಜೋಡಿಗಳು ಸಮಾಂತರವಾಗಿವೆ. (ii) ಸಾಧಿಸಿದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-QUAD-2_concept_3_chunk_006"
+}

@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು 39 ನ್ನು ಎರಡು ಸುಲಭ ಸಂಖ್ಯೆಗಳ ವ್ಯತ್ಯಾಸವಾಗಿ ಬರೆಯುತ್ತೇವೆ. 39 ನ್ನು 40 ಮೈನಸ್ 1 ಎಂದು ಬರೆಯಬಹುದು. ಇದು ನಮಗೆ ಎ ಮೈನಸ್ ಬಿ ಹೋಲ್ ಸ್ಕ್ವೇರ್ ಸೂತ್ರವನ್ನು ಬಳಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಎ ಮೈನಸ್ ಬಿ ಹೋಲ್ ಸ್ಕ್ವೇರ್ ಈಕ್ವಲ್ಸ್ ಎ ಸ್ಕ್ವೇರ್ ಮೈನಸ್ 2 ಎ ಬಿ ಪ್ಲಸ್ ಬಿ ಸ್ಕ್ವೇರ್ ಸೂತ್ರವನ್ನು ಅನ್ವಯಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ, ಎ ಎಂಬುದು 40 ಮತ್ತು ಬಿ ಎಂಬುದು 1. ಹಾಗಾಗಿ, 40 ಮೈನಸ್ 1 ಹೋಲ್ ಸ್ಕ್ವೇರ್ ಈಕ್ವಲ್ಸ್ 40 ಸ್ಕ್ವೇರ್ ಮೈನಸ್ 2 ಇಂಟು 40 ಇಂಟು 1 ಪ್ಲಸ್ 1 ಸ್ಕ್ವೇರ್.",
+  "script_display": "ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು $39$ ನ್ನು ಎರಡು ಸುಲಭ ಸಂಖ್ಯೆಗಳ ವ್ಯತ್ಯಾಸವಾಗಿ ಬರೆಯುತ್ತೇವೆ. $39$ ನ್ನು $40 - 1$ ಎಂದು ಬರೆಯಬಹುದು. ಇದು ನಮಗೆ $(a-b)^2$ ಸೂತ್ರವನ್ನು ಬಳಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು $(a-b)^2 = a^2 - 2ab + b^2$ ಸೂತ್ರವನ್ನು ಅನ್ವಯಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ, $a=40$ ಮತ್ತು $b=1$. ಹಾಗಾಗಿ, $(40-1)^2 = 40^2 - 2(40)(1) + 1^2$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "(a-b)^2 = a^2 - 2ab + b^2",
+    "placeholder_note": "The algebraic identity used for the calculation"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SQR-2_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$39 = 40 - 1$",
+      "justification": "$(a-b)^2$ ರೂಪಕ್ಕೆ ತರುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$39^2 = (40-1)^2 = 40^2 - 2(40)(1) + 1^2$",
+      "justification": "$(a-b)^2 = a^2 - 2ab + b^2$ ಸೂತ್ರದ ಬಳಕೆ."
+    }
+  ],
+  "chunk_id": "NS-SQR-2_concept_4_chunk_017"
+}

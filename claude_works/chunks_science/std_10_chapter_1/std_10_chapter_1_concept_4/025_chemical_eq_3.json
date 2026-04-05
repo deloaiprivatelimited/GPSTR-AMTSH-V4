@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹೈಡ್ರೋಜನ್ ಸಲ್ಫೈಡ್ ಮತ್ತು ಆಕ್ಸಿಜನ್ ಕ್ರಿಯೆ",
+  "script": "ಈಗ ನಾವು ಮತ್ತೊಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಎರಡು ಅಣುಗಳ ಹೈಡ್ರೋಜನ್ ಸಲ್ಫೈಡ್ ಅನಿಲವು ಮೂರು ಅಣುಗಳ ಆಕ್ಸಿಜನ್ ಅನಿಲದೊಂದಿಗೆ ಉರಿಸಿದಾಗ, ಎರಡು ಅಣುಗಳ ನೀರು ಮತ್ತು ಎರಡು ಅಣುಗಳ ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಮತ್ತೊಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, 2 ಅಣುಗಳ ಹೈಡ್ರೋಜನ್ ಸಲ್ಫೈಡ್ (H₂S) ಅನಿಲವು 3 ಅಣುಗಳ ಆಕ್ಸಿಜನ್ (O₂) ಅನಿಲದೊಂದಿಗೆ ಉರಿಸಿದಾಗ, 2 ಅಣುಗಳ ನೀರು (H₂O) ಮತ್ತು 2 ಅಣುಗಳ ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ (SO₂) ಅನಿಲವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2H_2S(g) + 3O_2(g) \\rightarrow 2H_2O(l) + 2SO_2(g)",
+    "placeholder_note": "Balanced chemical equation for the combustion of hydrogen sulfide."
+  },
+  "chunk_id": "std_10_chapter_1_concept_4_chunk_025"
+}

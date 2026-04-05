@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಸಮೀಕರಣದ ಪರಿಹಾರ ವೈ ಸಮ ಏಳು. ಇದರರ್ಥ, ಅಪ್ಪು ಮನಸ್ಸಿನಲ್ಲಿ ಅಂದುಕೊಂಡ ಸಂಖ್ಯೆ ಏಳು ಆಗಿತ್ತು. ನೀವು ನೋಡಿದಂತೆ, ಸಮತೋಲನ ವಿಧಾನವನ್ನು ಹಂತ ಹಂತವಾಗಿ ಬಳಸುವುದರಿಂದ ನಾವು ಯಾವುದೇ ಸರಳ ಸಮೀಕರಣವನ್ನು ಸುಲಭವಾಗಿ ಬಿಡಿಸಬಹುದು.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಸಮೀಕರಣದ ಪರಿಹಾರ $y = 7$. ಇದರರ್ಥ, ಅಪ್ಪು ಮನಸ್ಸಿನಲ್ಲಿ ಅಂದುಕೊಂಡ ಸಂಖ್ಯೆ 7 ಆಗಿತ್ತು. ನೀವು ನೋಡಿದಂತೆ, ಸಮತೋಲನ ವಿಧಾನವನ್ನು ಹಂತ ಹಂತವಾಗಿ ಬಳಸುವುದರಿಂದ ನಾವು ಯಾವುದೇ ಸರಳ ಸಮೀಕರಣವನ್ನು ಸುಲಭವಾಗಿ ಬಿಡಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಸಮೀಕರಣ $10y - 20 = 50$ ರ ಪರಿಹಾರ $y = 7$ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ1-1_example_mindread2",
+  "final_answer": "y = 7",
+  "final_answer_display": "y = 7",
+  "chunk_id": "ALG-EQ1-1_concept_3_chunk_017"
+}

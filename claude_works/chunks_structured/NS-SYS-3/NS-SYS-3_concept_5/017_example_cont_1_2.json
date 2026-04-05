@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ಒಂದರ ಕೆಳಗೆ ಎರಡು ಪ್ಲಸ್ ರೂಟ್ ಮೂರು ಎಂಬುದರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿದಾಗ, ನಮಗೆ ಸಿಗುವ ಅಂತಿಮ ಉತ್ತರ ಎರಡು ಮೈನಸ್ ರೂಟ್ ಮೂರು. ಛೇದವು ಒಂದಾದ ಕಾರಣ, ನಾವು ಅದನ್ನು ಬರೆಯುವ ಅಗತ್ಯವಿಲ್ಲ. ನೋಡಿ, ನಾವು ಅಭಾಗಲಬ್ಧ ಛೇದವನ್ನು ಭಾಗಲಬ್ಧ ಛೇದವಾಗಿ ಯಶಸ್ವಿಯಾಗಿ ಪರಿವರ್ತಿಸಿದ್ದೇವೆ.",
+  "script_display": "ಹೀಗಾಗಿ, $\\frac{1}{2+\\sqrt{3}}$ ಇದರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿದಾಗ, ನಮಗೆ ಸಿಗುವ ಅಂತಿಮ ಉತ್ತರ $2-\\sqrt{3}$. ಛೇದವು 1 ಆದ ಕಾರಣ, ನಾವು ಅದನ್ನು ಬರೆಯುವ ಅಗತ್ಯವಿಲ್ಲ. ನೋಡಿ, ನಾವು ಅಭಾಗಲಬ್ಧ ಛೇದವನ್ನು ಭಾಗಲಬ್ಧ ಛೇದವಾಗಿ ಯಶಸ್ವಿಯಾಗಿ ಪರಿವರ್ತಿಸಿದ್ದೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_formula",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2-\\sqrt{3}",
+    "placeholder_note": "Final Answer"
+  },
+  "source_example_id": "NS-SYS-3_example_17",
+  "steps": [],
+  "final_answer": "$2-\\sqrt{3}$",
+  "final_answer_display": "$2-\\sqrt{3}$",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-SYS-3_concept_5_chunk_017"
+}

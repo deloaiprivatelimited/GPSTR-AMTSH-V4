@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ ಐದನೇ ಎರಡು. ನಾವು ಒಂದನೇ ಮೂರನ್ನು ಐದನೇ ಆರರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಐದನೇ ಎರಡು ಸಿಗುತ್ತದೆ. ನೆನಪಿಡಿ, ಒಂದು ಭಿನ್ನರಾಶಿಯಿಂದ ಭಾಗಿಸುವುದು ಎಂದರೆ ಅದರ ವ್ಯುತ್ಕ್ರಮದಿಂದ ಗುಣಿಸುವುದು.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ $\\frac{2}{5}$. ನಾವು $\\frac{1}{3}$ ನ್ನು $\\frac{5}{6}$ ರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ $\\frac{2}{5}$ ಸಿಗುತ್ತದೆ. ನೆನಪಿಡಿ, ಒಂದು ಭಿನ್ನರಾಶಿಯಿಂದ ಭಾಗಿಸುವುದು ಎಂದರೆ ಅದರ ವ್ಯುತ್ಕ್ರಮದಿಂದ ಗುಣಿಸುವುದು.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $\\frac{2}{5}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "full_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-FRA-1_example_9",
+  "final_answer": "\\frac{2}{5}",
+  "final_answer_display": "$\\frac{1}{3} \\div \\frac{5}{6} = \\frac{2}{5}$",
+  "exam_tip": {
+    "question_pattern": "MCQ|2-mark",
+    "skill_tested": "ಭಿನ್ನರಾಶಿಗಳ ಭಾಗಾಕಾರ ಮತ್ತು ವ್ಯುತ್ಕ್ರಮದ ಪರಿಕಲ್ಪನೆ.",
+    "distractor": "ಭಾಗಾಕಾರವನ್ನು ಗುಣಾಕಾರವಾಗಿ ಪರಿವರ್ತಿಸುವಾಗ ಎರಡನೇ ಭಿನ್ನರಾಶಿಯ ಬದಲು ಮೊದಲನೇ ಭಿನ್ನರಾಶಿಯ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು. ಉದಾಹರಣೆಗೆ, $\\frac{3}{1} \\times \\frac{5}{6}$ ಎಂದು ಲೆಕ್ಕ ಹಾಕುವುದು.",
+    "why_distractor_works": "ವಿದ್ಯಾರ್ಥಿಗಳು 'ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು' ಎಂದು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುತ್ತಾರೆ, ಆದರೆ ಯಾವ ಭಿನ್ನರಾಶಿಯ ವ್ಯುತ್ಕ್ರಮ ಎಂದು ಗೊಂದಲಕ್ಕೊಳಗಾಗಬಹುದು. ಇದು ತಪ್ಪು ಉತ್ತರಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ."
+  },
+  "chunk_id": "NS-FRA-1_concept_6_chunk_024"
+}

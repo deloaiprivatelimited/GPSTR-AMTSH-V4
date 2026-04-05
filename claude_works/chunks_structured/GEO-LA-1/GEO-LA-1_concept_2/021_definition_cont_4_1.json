@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ಲಘು ಕೋನ: ಉದಾಹರಣೆಗಳು",
+  "script": "ಈ ವ್ಯಾಖ್ಯೆಯನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಕೆಲವು ದೃಶ್ಯ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿರುವ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಮೂವತ್ತು ಡಿಗ್ರಿ, ನಲವತ್ತೈದು ಡಿಗ್ರಿ, ಮತ್ತು ಅರವತ್ತು ಡಿಗ್ರಿಗಳ ಕೋನಗಳಿವೆ. ಈ ಎಲ್ಲಾ ಕೋನಗಳ ಅಳತೆಗಳು ಸೊನ್ನೆ ಡಿಗ್ರಿಗಿಂತ ಹೆಚ್ಚಿವೆ ಮತ್ತು ತೊಂಬತ್ತು ಡಿಗ್ರಿಗಿಂತ ಕಡಿಮೆ ಇವೆ. ಆದ್ದರಿಂದ, ಇವೆಲ್ಲವೂ ಲಘು ಕೋನಗಳಿಗೆ ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆಗಳಾಗಿವೆ. ಸಾಮಾನ್ಯವಾಗಿ, ಒಂದು ಕೋನವು 'ಚೂಪಾಗಿ' ಅಥವಾ 'ಕಿರಿದಾಗಿ' ಕಾಣಿಸಿದರೆ, ಅದು ಲಘು ಕೋನವಾಗಿರುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು. ಈ ಕೋನಗಳು ಲಂಬ ಕೋನಕ್ಕಿಂತ ಚಿಕ್ಕದಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಈ ವ್ಯಾಖ್ಯೆಯನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಕೆಲವು ದೃಶ್ಯ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿರುವ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ $30^\\circ$, $45^\\circ$, ಮತ್ತು $60^\\circ$ ಗಳ ಕೋನಗಳಿವೆ. ಈ ಎಲ್ಲಾ ಕೋನಗಳ ಅಳತೆಗಳು $0^\\circ$ ಗಿಂತ ಹೆಚ್ಚಿವೆ ಮತ್ತು $90^\\circ$ ಗಿಂತ ಕಡಿಮೆ ಇವೆ. ಆದ್ದರಿಂದ, ಇವೆಲ್ಲವೂ ಲಘು ಕೋನಗಳಿಗೆ ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆಗಳಾಗಿವೆ. ಸಾಮಾನ್ಯವಾಗಿ, ಒಂದು ಕೋನವು 'ಚೂಪಾಗಿ' ಅಥವಾ 'ಕಿರಿದಾಗಿ' ಕಾಣಿಸಿದರೆ, ಅದು ಲಘು ಕೋನವಾಗಿರುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು. ಈ ಕೋನಗಳು ಲಂಬ ಕೋನಕ್ಕಿಂತ ಚಿಕ್ಕದಾಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ 1: $30^\\circ$ ಕೋನ",
+    "ಉದಾಹರಣೆ 2: $45^\\circ$ ಕೋನ",
+    "ಉದಾಹರಣೆ 3: $60^\\circ$ ಕೋನ",
+    "ಈ ಎಲ್ಲಾ ಅಳತೆಗಳು $0^\\circ$ ಮತ್ತು $90^\\circ$ ನಡುವೆ ಇವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing three acute angles (30°, 45°, 60°) sharing a common vertex and a baseline ray. The angles are clearly labeled with their measures, and the arcs are colored differently to distinguish them.",
+    "labels": "30°, 45°, 60°, O, A, B, C, D",
+    "mathematical_significance": "Visually demonstrates that multiple different angle measures can all fall under the category of 'acute angle' as long as they are between 0 and 90 degrees.",
+    "placeholder_note": "Image to be generated. A single vertex O and a horizontal ray OA. Three other rays OB, OC, OD are drawn such that angle AOB = 30, angle AOC = 45, and angle AOD = 60."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "",
+  "chunk_id": "GEO-LA-1_concept_2_chunk_021"
+}

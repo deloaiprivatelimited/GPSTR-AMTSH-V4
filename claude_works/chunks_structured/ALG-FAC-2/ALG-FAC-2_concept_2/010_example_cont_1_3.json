@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, 10x ವರ್ಗ ಮೈನಸ್ 18x ಘನ ಪ್ಲಸ್ 14x ಟು ದ ಪವರ್ 4 ರ ಅಪವರ್ತನಗಳು 2x ವರ್ಗ ಮತ್ತು 7x ವರ್ಗ ಮೈನಸ್ 9x ಪ್ಲಸ್ 5 ಆಗಿವೆ. ಅಂತಿಮ ಉತ್ತರ 2x ವರ್ಗ ಗುಣಿಸು, ಆವರಣದೊಳಗೆ 7x ವರ್ಗ ಮೈನಸ್ 9x ಪ್ಲಸ್ 5.",
+  "script_display": "ಆದ್ದರಿಂದ, $10x^2 - 18x^3 + 14x^4$ ರ ಅಪವರ್ತನಗಳು $2x^2$ ಮತ್ತು $(7x^2 - 9x + 5)$ ಆಗಿವೆ. ಅಂತಿಮ ಉತ್ತರ $2x^2(7x^2 - 9x + 5)$ ಆಗಿದೆ.",
+  "display_bullets": [
+    "ದತ್ತ ಬೀಜೋಕ್ತಿ: $10x^2 - 18x^3 + 14x^4$",
+    "ಅಪವರ್ತಿಸಿದ ರೂಪ: $2x^2(7x^2 - 9x + 5)$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2x^2(7x^2 - 9x + 5)",
+    "placeholder_note": "Final answer"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-FAC-2_example_2",
+  "final_answer": "$2x^2(7x^2 - 9x + 5)$",
+  "final_answer_display": "$2x^2(7x^2 - 9x + 5)$",
+  "chunk_id": "ALG-FAC-2_concept_2_chunk_010"
+}

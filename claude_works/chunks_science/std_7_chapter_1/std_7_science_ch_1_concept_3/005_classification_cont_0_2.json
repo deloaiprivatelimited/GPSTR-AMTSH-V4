@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "2. ಕೀಟಾಹಾರಿ ಪೋಷಣೆ (Insectivorous Nutrition)",
+  "script": "ಮುಂದಿನದು, ಕೀಟಾಹಾರಿ ಪೋಷಣೆ. ಈ ವಿಧಾನದಲ್ಲಿ, ಸಸ್ಯಗಳು ಕೀಟಗಳನ್ನು ಹಿಡಿದು ಜೀರ್ಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಇವು ಸಾಮಾನ್ಯವಾಗಿ ನೈಟ್ರೋಜನ್ ಕೊರತೆಯಿರುವ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯುತ್ತವೆ. ಸಸ್ಯದ ಬೆಳವಣಿಗೆಗೆ ನೈಟ್ರೋಜನ್ ಅತ್ಯಗತ್ಯ. ಈ ಕೊರತೆಯನ್ನು ನೀಗಿಸಲು, ಅವು ಕೀಟಗಳನ್ನು ತಿನ್ನುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಹೂಜಿಗಿಡ ಮತ್ತು ವೀನಸ್ ಫ್ಲೈಟ್ರಾಪ್. ಈ ಸಸ್ಯಗಳು ಹಸಿರಾಗಿದ್ದು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ನಡೆಸುತ್ತವೆ, ಆದರೆ ನೈಟ್ರೋಜನ್‌ಗಾಗಿ ಕೀಟಗಳನ್ನು ಅವಲಂಬಿಸಿರುವುದರಿಂದ ಇವುಗಳನ್ನು 'ಭಾಗಶಃ ಪರಪೋಷಕಗಳು' ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+  "script_display": "ಕೀಟಗಳನ್ನು ಹಿಡಿದು ಜೀರ್ಣಿಸಿಕೊಳ್ಳುವ ಮೂಲಕ ಪೋಷಕಾಂಶಗಳನ್ನು (ವಿಶೇಷವಾಗಿ ನೈಟ್ರೋಜನ್) ಪಡೆಯುವ ಸಸ್ಯಗಳು.",
+  "display_bullets": [
+    "ವಿವರಣೆ: ಕೀಟಗಳನ್ನು ಹಿಡಿದು ಜೀರ್ಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+    "ಕಾರಣ: ನೈಟ್ರೋಜನ್ ಕೊರತೆಯಿರುವ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯುವುದರಿಂದ, ತಮ್ಮ ನೈಟ್ರೋಜನ್ ಅಗತ್ಯವನ್ನು ಪೂರೈಸಿಕೊಳ್ಳಲು.",
+    "ಉದಾಹರಣೆ: ಹೂಜಿಗಿಡ (Pitcher Plant), ವೀನಸ್ ಫ್ಲೈಟ್ರಾಪ್ (Venus Flytrap)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_light",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A detailed illustration of a Pitcher Plant. It should show the pitcher-like leaf structure with its lid, and an insect near the opening, about to be trapped.",
+    "labels": "ಹೂಜಿ (Pitcher), ಮುಚ್ಚಳ (Lid), ಸಿಕ್ಕಿಬಿದ್ದ ಕೀಟ (Trapped Insect)",
+    "scientific_significance": "Shows the specialized leaf modification in an insectivorous plant for trapping prey to supplement nutrient intake.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_science_ch_1_concept_3_chunk_005"
+}

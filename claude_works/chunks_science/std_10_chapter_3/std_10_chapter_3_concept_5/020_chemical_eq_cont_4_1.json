@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಕಬ್ಬಿಣ ಮತ್ತು ಹಬೆಯ ನಡುವಿನ ವರ್ತನೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ. ಮೂರು Fe ಅಂದರೆ ಘನ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ಕಬ್ಬಿಣ, ನಾಲ್ಕು H two O ಅಂದರೆ ಅನಿಲ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ನೀರು ಅಥವಾ ಹಬೆಯೊಂದಿಗೆ ವರ್ತಿಸಿ, Fe three O four ಅಂದರೆ ಕಬ್ಬಿಣದ ಎರಡು, ಮೂರು ಆಕ್ಸೈಡ್ ಮತ್ತು ನಾಲ್ಕು H two ಅಂದರೆ ಹೈಡ್ರೋಜನ್ ಅನಿಲವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಕಬ್ಬಿಣ ಮತ್ತು ಹಬೆಯ ನಡುವಿನ ವರ್ತನೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ: 3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g)",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "3\\text{Fe}(\\text{s}) + 4\\text{H}_2\\text{O}(\\text{g}) \\rightarrow \\text{Fe}_3\\text{O}_4(\\text{s}) + 4\\text{H}_2(\\text{g})",
+    "placeholder_note": "Equation showing reaction of Iron with Steam"
+  },
+  "chunk_id": "std_10_chapter_3_concept_5_chunk_020"
+}

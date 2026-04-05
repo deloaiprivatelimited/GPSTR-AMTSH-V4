@@ -1,0 +1,48 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರವನ್ನು ರೂಪಿಸುವುದು",
+  "script": "ಹಾಗಾದರೆ ಸೂತ್ರವನ್ನು ಹೇಗೆ ರೂಪಿಸುವುದು ಎಂದು ನೋಡೋಣ. ಅರ್ಧವೃತ್ತದ ಪರಿಧಿಯು ಅದರ ಬಾಗಿದ ಭಾಗದ ಉದ್ದ ಮತ್ತು ನೇರ ಭಾಗದ ಉದ್ದದ ಮೊತ್ತವಾಗಿದೆ. ಪೂರ್ಣ ವೃತ್ತದ ಪರಿಧಿಯ ಸೂತ್ರ ಎರಡು ಪೈ ಆರ್. ಹಾಗಾಗಿ, ಬಾಗಿದ ಚಾಪದ ಉದ್ದವು ಇದರಲ್ಲಿ ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ, ಅಂದರೆ ಎರಡನೇ ಒಂದು ಭಾಗ ಗುಣಿಸು ಎರಡು ಪೈ ಆರ್, ಇದು ಪೈ ಆರ್ ಗೆ ಸಮನಾಗುತ್ತದೆ. ನೇರ ಭಾಗವು ವ್ಯಾಸವಾಗಿದ್ದು, ಅದರ ಉದ್ದವು ತ್ರಿಜ್ಯದ ಎರಡು ಪಟ್ಟು, ಅಂದರೆ ಎರಡು ಆರ್. ಆದ್ದರಿಂದ, ಒಟ್ಟು ಪರಿಧಿಯು ಪೈ ಆರ್ ಪ್ಲಸ್ ಎರಡು ಆರ್ ಆಗುತ್ತದೆ. ಇದುವೇ ಅರ್ಧವೃತ್ತದ ಪರಿಧಿಯ ಸೂತ್ರ.",
+  "script_display": "ಹಾಗಾದರೆ ಸೂತ್ರವನ್ನು ಹೇಗೆ ರೂಪಿಸುವುದು ಎಂದು ನೋಡೋಣ. ಅರ್ಧವೃತ್ತದ ಪರಿಧಿಯು ಅದರ ಬಾಗಿದ ಭಾಗದ ಉದ್ದ ಮತ್ತು ನೇರ ಭಾಗದ ಉದ್ದದ ಮೊತ್ತವಾಗಿದೆ. ಪೂರ್ಣ ವೃತ್ತದ ಪರಿಧಿಯ ಸೂತ್ರ $2\\pi r$. ಹಾಗಾಗಿ, ಬಾಗಿದ ಚಾಪದ ಉದ್ದವು ಇದರಲ್ಲಿ ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ, ಅಂದರೆ $\\frac{1}{2} \\times 2\\pi r$, ಇದು $\\pi r$ ಗೆ ಸಮನಾಗುತ್ತದೆ. ನೇರ ಭಾಗವು ವ್ಯಾಸವಾಗಿದ್ದು, ಅದರ ಉದ್ದವು ತ್ರಿಜ್ಯದ ಎರಡು ಪಟ್ಟು, ಅಂದರೆ $2r$. ಆದ್ದರಿಂದ, ಒಟ್ಟು ಪರಿಧಿಯು $\\pi r + 2r$ ಆಗುತ್ತದೆ. ಇದುವೇ ಅರ್ಧವೃತ್ತದ ಪರಿಧಿಯ ಸೂತ್ರ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\begin{aligned} P &= (\\text{ಚಾಪದ ಉದ್ದ}) + (\\text{ವ್ಯಾಸದ ಉದ್ದ}) \\\\ &= \\left(\\frac{1}{2} \\times 2\\pi r\\right) + (2r) \\\\ &= \\pi r + 2r \\end{aligned}",
+    "placeholder_note": "Derivation steps for the perimeter of a semicircle."
+  },
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಪರಿಧಿ = (ವೃತ್ತದ ಪರಿಧಿಯ ಅರ್ಧ) + ವ್ಯಾಸ",
+      "justification": "ಪರಿಧಿಯ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಇದು ಪೂರ್ಣ ಸುತ್ತಳತೆಯಾಗಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$P = (\\frac{1}{2} \\times 2\\pi r) + 2r$",
+      "justification": "ವೃತ್ತದ ಪರಿಧಿ ($2\\pi r$) ಮತ್ತು ವ್ಯಾಸ ($2r$) ಸೂತ್ರಗಳನ್ನು ಬಳಸಿ."
+    },
+    {
+      "step": 3,
+      "action_display": "$P = \\pi r + 2r$",
+      "justification": "ಸರಳೀಕರಿಸಿದಾಗ ಅಂತಿಮ ಸೂತ್ರ ದೊರೆಯುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "MEN-AREA-1_concept_5_chunk_020"
+}

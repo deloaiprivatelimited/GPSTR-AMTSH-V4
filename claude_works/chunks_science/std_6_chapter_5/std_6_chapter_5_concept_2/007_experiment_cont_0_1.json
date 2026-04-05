@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಒಂದು ಅಳತೆಪಟ್ಟಿ ಅಥವಾ ಸ್ಕೇಲ್ ಬೇಕು, ಇದು ನಮ್ಮ ಮುಖ್ಯ ಉಪಕರಣ. ನಂತರ, ನಾವು ಅಳೆಯಲು ಒಂದು ವಸ್ತುವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ, ಉದಾಹರಣೆಗೆ ಒಂದು ಪೆನ್ಸಿಲ್ ಅಥವಾ ಪುಸ್ತಕ. ಕೊನೆಯದಾಗಿ, ವಕ್ರ ರೇಖೆಯ ಉದ್ದವನ್ನು ಅಳೆಯಲು ನಮಗೆ ಒಂದು ದಾರ ಬೇಕಾಗುತ್ತದೆ. ಈ ಮೂರು ವಸ್ತುಗಳನ್ನು ಬಳಸಿ, ನಾವು ನಿಖರವಾದ ಅಳತೆಯ ನಾಲ್ಕು ಪ್ರಮುಖ ತಂತ್ರಗಳನ್ನು ಕಲಿಯಲಿದ್ದೇವೆ. ಎಲ್ಲ ಸಾಮಗ್ರಿಗಳು ಸಿದ್ಧವಾಗಿವೆಯೇ?",
+  "script_display": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಒಂದು ಅಳತೆಪಟ್ಟಿ (scale) ಬೇಕು, ಇದು ನಮ್ಮ ಮುಖ್ಯ ಉಪಕರಣ. ನಂತರ, ನಾವು ಅಳೆಯಲು ಒಂದು ವಸ್ತುವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ, ಉದಾಹರಣೆಗೆ ಒಂದು ಪೆನ್ಸಿಲ್ ಅಥವಾ ಪುಸ್ತಕ. ಕೊನೆಯದಾಗಿ, ವಕ್ರ ರೇಖೆಯ ಉದ್ದವನ್ನು ಅಳೆಯಲು ನಮಗೆ ಒಂದು ದಾರ (thread) ಬೇಕಾಗುತ್ತದೆ. ಈ ಮೂರು ವಸ್ತುಗಳನ್ನು ಬಳಸಿ, ನಾವು ನಿಖರವಾದ ಅಳತೆಯ ನಾಲ್ಕು ಪ್ರಮುಖ ತಂತ್ರಗಳನ್ನು ಕಲಿಯಲಿದ್ದೇವೆ. ಎಲ್ಲ ಸಾಮಗ್ರಿಗಳು ಸಿದ್ಧವಾಗಿವೆಯೇ?",
+  "display_bullets": [
+    "ಅಳತೆಪಟ್ಟಿ (Scale)",
+    "ಅಳೆಯಬೇಕಾದ ವಸ್ತು (ಉದಾ: ಪೆನ್ಸಿಲ್)",
+    "ದಾರ (Thread)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 15cm plastic ruler, a standard yellow pencil, and a small roll of white thread, arranged neatly on a flat surface.",
+    "labels": "ಅಳತೆಪಟ್ಟಿ, ಪೆನ್ಸಿಲ್, ದಾರ",
+    "scientific_significance": "Shows the basic materials required for fundamental length measurement activities.",
+    "placeholder_note": "Image to be generated showing the three items."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_6_chapter_5_concept_2_chunk_007"
+}

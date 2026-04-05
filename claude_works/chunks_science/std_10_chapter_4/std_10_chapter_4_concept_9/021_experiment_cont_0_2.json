@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಏನಾಯಿತು?",
+  "script": "ಸೋಡಿಯಂ ತುಣುಕನ್ನು ಎಥನಾಲ್‌ಗೆ ಹಾಕಿದ ತಕ್ಷಣ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನವಿಟ್ಟು ನೋಡಿ. ನೀವು ತಕ್ಷಣವೇ ಒಂದು ಹಿಸ್ಸಿಂಗ್ ಶಬ್ದವನ್ನು ಕೇಳಬಹುದು. ಜೊತೆಗೆ, ಸೋಡಿಯಂ ತುಣುಕಿನ ಸುತ್ತಲೂ ಅನಿಲದ ಗುಳ್ಳೆಗಳು ವೇಗವಾಗಿ ಬಿಡುಗಡೆಯಾಗುವುದನ್ನು ನೀವು ನೋಡುತ್ತೀರಿ. ಇದು ಒಂದು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯುತ್ತಿದೆ ಎಂಬುದರ ಸ್ಪಷ್ಟ ಸಂಕೇತವಾಗಿದೆ. ಸೋಡಿಯಂ ಲೋಹವು ಎಥನಾಲ್‌ನೊಂದಿಗೆ ತೀವ್ರವಾಗಿ ವರ್ತಿಸಿ, ಒಂದು ಅನಿಲವನ್ನು ಉತ್ಪಾದಿಸುತ್ತಿದೆ. ಈ ವೀಕ್ಷಣೆಯನ್ನು ನಾವು ನಮ್ಮ ಪ್ರಯೋಗದ ಪುಸ್ತಕದಲ್ಲಿ ದಾಖಲಿಸಬೇಕು.",
+  "script_display": "ಸೋಡಿಯಂ ತುಣುಕನ್ನು ಎಥನಾಲ್‌ಗೆ ಹಾಕಿದ ತಕ್ಷಣ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನವಿಟ್ಟು ನೋಡಿ. ನೀವು ತಕ್ಷಣವೇ ಒಂದು ಹಿಸ್ಸಿಂಗ್ ಶಬ್ದವನ್ನು ಕೇಳಬಹುದು. ಜೊತೆಗೆ, ಸೋಡಿಯಂ ತುಣುಕಿನ ಸುತ್ತಲೂ ಅನಿಲದ ಗುಳ್ಳೆಗಳು ವೇಗವಾಗಿ ಬಿಡುಗಡೆಯಾಗುವುದನ್ನು ನೀವು ನೋಡುತ್ತೀರಿ. ಇದು ಒಂದು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯುತ್ತಿದೆ ಎಂಬುದರ ಸ್ಪಷ್ಟ ಸಂಕೇತವಾಗಿದೆ. ಸೋಡಿಯಂ ಲೋಹವು ಎಥನಾಲ್‌ನೊಂದಿಗೆ ತೀವ್ರವಾಗಿ ವರ್ತಿಸಿ, ಒಂದು ಅನಿಲವನ್ನು ಉತ್ಪಾದಿಸುತ್ತಿದೆ. ಈ ವೀಕ್ಷಣೆಯನ್ನು ನಾವು ನಮ್ಮ ಪ್ರಯೋಗದ ಪುಸ್ತಕದಲ್ಲಿ ದಾಖಲಿಸಬೇಕು.",
+  "display_bullets": [
+    "ತೀವ್ರವಾದ ಹಿಸ್ಸಿಂಗ್ ಶಬ್ದ ಕೇಳಿಸುತ್ತದೆ.",
+    "ಬಣ್ಣರಹಿತ ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ.",
+    "ಸೋಡಿಯಂ ತುಣುಕು ಕರಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up view of the test tube from the previous diagram. It clearly shows bubbles of gas rising vigorously from the surface of the sodium metal piece submerged in ethanol.",
+    "labels": "ಎಥನಾಲ್, ಸೋಡಿಯಂ, ಹೈಡ್ರೋಜನ್ ಅನಿಲದ ಗುಳ್ಳೆಗಳು",
+    "scientific_significance": "Visualizes the key observation of the experiment - the evolution of a gas.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_4_concept_9_chunk_021"
+}

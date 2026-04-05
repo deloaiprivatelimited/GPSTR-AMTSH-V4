@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ 4: ವಕ್ರ ರೇಖೆಯ ಉದ್ದವನ್ನು ಅಳೆಯುವುದು",
+  "script": "ನೇರ ರೇಖೆಗಳನ್ನು ಅಳೆಯುವುದು ಸುಲಭ. ಆದರೆ ವಕ್ರ ರೇಖೆಯ ಉದ್ದವನ್ನು ಹೇಗೆ ಅಳೆಯುವುದು? ಇದಕ್ಕಾಗಿ ನಾವು ದಾರವನ್ನು ಬಳಸುತ್ತೇವೆ. ಮೊದಲು, ದಾರದ ಒಂದು ತುದಿಯನ್ನು ವಕ್ರ ರೇಖೆಯ ಆರಂಭದ ಬಿಂದು 'ಎ' ಯಲ್ಲಿ ಇಡಿ. ಈಗ, ನಿಮ್ಮ ಬೆರಳುಗಳ ಸಹಾಯದಿಂದ ದಾರವನ್ನು ರೇಖೆಯ ಮೇಲೆ ನಿಖರವಾಗಿ ಹರಡುತ್ತಾ 'ಬಿ' ಬಿಂದುವಿನವರೆಗೆ ಹೋಗಿ. ರೇಖೆಯು ಮುಗಿದಾಗ, ಆ ಜಾಗದಲ್ಲಿ ದಾರದ ಮೇಲೆ ಗುರುತು ಮಾಡಿ. ಕೊನೆಯದಾಗಿ, ಆ ದಾರವನ್ನು ನೇರಗೊಳಿಸಿ, ಅಳತೆಪಟ್ಟಿಯ ಸಹಾಯದಿಂದ ಆರಂಭದಿಂದ ನೀವು ಮಾಡಿದ ಗುರುತಿನವರೆಗಿನ ಉದ್ದವನ್ನು ಅಳೆಯಿರಿ. ಇದೇ ವಕ್ರ ರೇಖೆಯ ಉದ್ದವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ನೇರ ರೇಖೆಗಳನ್ನು ಅಳೆಯುವುದು ಸುಲಭ. ಆದರೆ ವಕ್ರ ರೇಖೆಯ (curved line) ಉದ್ದವನ್ನು ಹೇಗೆ ಅಳೆಯುವುದು? ಇದಕ್ಕಾಗಿ ನಾವು ದಾರವನ್ನು ಬಳಸುತ್ತೇವೆ. 1. ದಾರವನ್ನು ವಕ್ರ ರೇಖೆಯ ಮೇಲೆ (A ಯಿಂದ B ವರೆಗೆ) ನಿಖರವಾಗಿ ಇಡಿ. 2. ರೇಖೆಯ ಆರಂಭ ಮತ್ತು ಅಂತ್ಯವನ್ನು ದಾರದ ಮೇಲೆ ಗುರುತಿಸಿ. 3. ದಾರವನ್ನು ನೇರಗೊಳಿಸಿ ಅಳತೆಪಟ್ಟಿಯ ಸಹಾಯದಿಂದ ಗುರುತುಗಳ ನಡುವಿನ ಉದ್ದವನ್ನು ಅಳೆಯಿರಿ. ಇದೇ ವಕ್ರ ರೇಖೆಯ ಉದ್ದವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ದಾರವನ್ನು ವಕ್ರ ರೇಖೆಯ ಮೇಲೆ (A ಯಿಂದ B ವರೆಗೆ) ನಿಖರವಾಗಿ ಇಡಿ.",
+    "ರೇಖೆಯ ಆರಂಭ ಮತ್ತು ಅಂತ್ಯವನ್ನು ದಾರದ ಮೇಲೆ ಗುರುತಿಸಿ.",
+    "ದಾರವನ್ನು ನೇರಗೊಳಿಸಿ ಅಳತೆಪಟ್ಟಿಯಿಂದ ಅಳೆಯಿರಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_3",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-step diagram. Step 1 shows a thread being carefully placed along a curved line from point A to point B. Step 2 shows the same thread straightened out and being measured against a ruler.",
+    "labels": "ವಕ್ರ ರೇಖೆ, ದಾರ, ಅಳತೆಪಟ್ಟಿ, ಬಿಂದು A, ಬಿಂದು B",
+    "scientific_significance": "Demonstrates a practical method for measuring non-linear distances using simple tools.",
+    "placeholder_note": "Image to be generated showing the two steps of measuring a curved line."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_6_chapter_5_concept_2_chunk_011"
+}

@@ -1,0 +1,81 @@
+{
+  "module_id": "std_8_chapter_3_concept_4",
+  "chapter_code": "std_8_chapter_3",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:04:42",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "ac07d35978d23bb965df858214490bf9",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 38.091,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 55,
+      "generated_at": "2026-04-02 15:03:33"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "381581ef00120af320bcdfa2b80b7b05",
+      "wav_file": "003_classification_0.wav",
+      "duration": 44.651,
+      "slide_title": "ಕಲ್ಲಿದ್ದಲಿನ ಉತ್ಪನ್ನಗಳು: ಕೋಕ್",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 15:03:35"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "58d13970b4fdfbd1a1ea161a2992a422",
+      "wav_file": "001_intro_0.wav",
+      "duration": 57.651,
+      "slide_title": "ಕಲ್ಲಿದ್ದಲಿನ ಸಂಸ್ಕರಣೆ ಮತ್ತು ಉತ್ಪನ್ನಗಳು",
+      "type": "intro",
+      "script_words": 85,
+      "generated_at": "2026-04-02 15:03:47"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "e413a8ee76fd9fcc00b3ec170079d462",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 54.491,
+      "slide_title": "ಕಲ್ಲಿದ್ದಲಿನ ಉತ್ಪನ್ನಗಳು: ಕಲ್ಲಿದ್ದಲು ಅನಿಲ",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 15:03:56"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "28068b15ae8b39913330791e2e3bb394",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 41.731,
+      "slide_title": "ಕಲ್ಲಿದ್ದಲಿನ ಉತ್ಪನ್ನಗಳು: ಕಲ್ಲಿದ್ದಲು ಡಾಂಬರು",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 15:04:09"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "03b1ed5de54dd75c0228dacfce873c86",
+      "wav_file": "006_recap_0.wav",
+      "duration": 42.211,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 55,
+      "generated_at": "2026-04-02 15:04:42"
+    }
+  }
+}

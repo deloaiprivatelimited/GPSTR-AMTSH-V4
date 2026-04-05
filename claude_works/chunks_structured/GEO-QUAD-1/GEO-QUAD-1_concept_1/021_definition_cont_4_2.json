@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಬಹಿರ್ವಕ್ರ vs ಅಂತರ್ವಕ್ರ",
+  "script": "ಈಗ ಬಹಿರ್ವಕ್ರ ಮತ್ತು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿರುವುದು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜ. ಇದರ ಎಲ್ಲಾ ಒಳಕೋನಗಳು ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿಗಿಂತ ಕಡಿಮೆ ಇವೆ. ಬಲಭಾಗದಲ್ಲಿರುವುದು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜ. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಒಂದು ಒಳಕೋನವು ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿಗಿಂತ ಹೆಚ್ಚಿದೆ, ಅದು ಒಳಮುಖವಾಗಿ ಬಾಗಿದೆ. ಹಾಗೆಯೇ, ನಾವು ಇದರಲ್ಲಿ ಒಂದು ಕರ್ಣವನ್ನು ಎಳೆದರೆ, ಅದು ಆಕೃತಿಯ ಹೊರಗೆ ಹೋಗುತ್ತದೆ. ಇದೇ ಇವೆರಡರ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ. ಬಹಿರ್ವಕ್ರದಲ್ಲಿ ಕರ್ಣಗಳು ಒಳಗೆ, ಅಂತರ್ವಕ್ರದಲ್ಲಿ ಕೆಲವು ಕರ್ಣಗಳು ಹೊರಗೆ ಹೋಗಬಹುದು.",
+  "script_display": "ಈಗ ಬಹಿರ್ವಕ್ರ (Convex) ಮತ್ತು ಅಂತರ್ವಕ್ರ (Concave) ಬಹುಭುಜಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿರುವುದು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜ. ಇದರ ಎಲ್ಲಾ ಒಳಕೋನಗಳು $180°$ ಗಿಂತ ಕಡಿಮೆ ಇವೆ. ಬಲಭಾಗದಲ್ಲಿರುವುದು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜ. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಒಂದು ಒಳಕೋನವು $180°$ ಗಿಂತ ಹೆಚ್ಚಿದೆ, ಅದು ಒಳಮುಖವಾಗಿ ಬಾಗಿದೆ. ಹಾಗೆಯೇ, ನಾವು ಇದರಲ್ಲಿ ಒಂದು ಕರ್ಣವನ್ನು ಎಳೆದರೆ, ಅದು ಆಕೃತಿಯ ಹೊರಗೆ ಹೋಗುತ್ತದೆ. ಇದೇ ಇವೆರಡರ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ. ಬಹಿರ್ವಕ್ರದಲ್ಲಿ ಕರ್ಣಗಳು ಒಳಗೆ, ಅಂತರ್ವಕ್ರದಲ್ಲಿ ಕೆಲವು ಕರ್ಣಗಳು ಹೊರಗೆ ಹೋಗಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "full",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. On the left, a convex pentagon labeled 'ಬಹಿರ್ವಕ್ರ (Convex)'. On the right, a concave pentagon (like an arrowhead) labeled 'ಅಂತರ್ವಕ್ರ (Concave)'. The concave polygon should have its reflex angle (>180°) marked, and a diagonal drawn that passes outside the shape's boundary.",
+    "labels": "ಬಹಿರ್ವಕ್ರ vs ಅಂತರ್ವಕ್ರ",
+    "mathematical_significance": "Directly contrasts convex and concave polygons, highlighting the key differences in interior angles and diagonal placement, which is a crucial concept for classification.",
+    "placeholder_note": "Image to be generated for the comparison."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_1_chunk_021"
+}

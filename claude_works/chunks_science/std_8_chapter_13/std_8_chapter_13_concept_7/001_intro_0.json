@@ -1,0 +1,37 @@
+{
+  "type": "intro",
+  "slide_title": "ಕಣ್ಣಿನ ದೋಷಗಳು ಮತ್ತು ಆರೈಕೆ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ! ನಮ್ಮ ಸುತ್ತಲಿನ ಸುಂದರ ಜಗತ್ತನ್ನು ನೋಡಲು ಸಹಾಯ ಮಾಡುವ ನಮ್ಮ ಕಣ್ಣುಗಳು ಎಷ್ಟು ಅದ್ಭುತ ಅಲ್ವಾ? ಆದರೆ, ಕೆಲವೊಮ್ಮೆ ನಮ್ಮ ಕಣ್ಣುಗಳು ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡದಿರಬಹುದು. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ನಮ್ಮ ಕಣ್ಣುಗಳ ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ. ಮೊದಲಿಗೆ, ನಾವು ಕಣ್ಣಿನ ಸಾಮಾನ್ಯ ದೋಷಗಳು ಯಾವುವು ಎಂದು ತಿಳಿಯುತ್ತೇವೆ. ನಂತರ, ಕನ್ನಡಕ ಅಥವಾ ಇತರ ವಿಧಾನಗಳಿಂದ ಆ ದೋಷಗಳ ತಿದ್ದುಪಡಿ ವಿಧಾನಗಳು ಯಾವುವು ಎಂದು ನೋಡೋಣ. ಕೊನೆಯದಾಗಿ, ಮತ್ತು ಅತೀ ಮುಖ್ಯವಾಗಿ, ನಮ್ಮ ಅಮೂಲ್ಯವಾದ ಕಣ್ಣುಗಳ ಆರೈಕೆ ಮತ್ತು ಮುನ್ನೆಚ್ಚರಿಕೆಗಳ ಬಗ್ಗೆ ಕೆಲವು ಸರಳ ಸಲಹೆಗಳನ್ನು ಕಲಿಯೋಣ. ಈ ಪಾಠದ ನಂತರ, ನಿಮ್ಮ ಕಣ್ಣುಗಳನ್ನು ಹೇಗೆ ಆರೋಗ್ಯವಾಗಿಡಬೇಕು ಎಂಬ ಜ್ಞಾನ ನಿಮ್ಮದಾಗಿರುತ್ತದೆ. ಹಾಗಾದರೆ, ಶುರು ಮಾಡೋಣವೇ?",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ! ನಮ್ಮ ಸುತ್ತಲಿನ ಸುಂದರ ಜಗತ್ತನ್ನು ನೋಡಲು ಸಹಾಯ ಮಾಡುವ ನಮ್ಮ ಕಣ್ಣುಗಳು ಎಷ್ಟು ಅದ್ಭುತ ಅಲ್ವಾ? ಆದರೆ, ಕೆಲವೊಮ್ಮೆ ನಮ್ಮ ಕಣ್ಣುಗಳು ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡದಿರಬಹುದು. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ನಮ್ಮ ಕಣ್ಣುಗಳ ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಕಲಿಯುವ ಪ್ರಮುಖ ವಿಷಯಗಳೆಂದರೆ:",
+  "display_bullets": [
+    "ಕಣ್ಣಿನ ಸಾಮಾನ್ಯ ದೋಷಗಳು",
+    "ದೋಷಗಳ ತಿದ್ದುಪಡಿ ವಿಧಾನಗಳು",
+    "ಕಣ್ಣುಗಳ ಆರೈಕೆ ಮತ್ತು ಮುನ್ನೆಚ್ಚರಿಕೆಗಳು"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A vibrant and welcoming image showing a collage of a healthy human eye, a person smiling while wearing glasses, and a variety of colorful, healthy foods like carrots and leafy greens. The overall tone should be positive and educational.",
+    "labels": "none",
+    "scientific_significance": "This visual sets a positive and relatable tone for the module on eye care, connecting defects, corrections, and health.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "title",
+  "chunk_id": "std_8_chapter_13_concept_7_chunk_001"
+}

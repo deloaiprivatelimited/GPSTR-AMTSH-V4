@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರವನ್ನು ಗುರುತಿಸುವುದು: ಹಂತ 2",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಾವು ಸಂಚಿತ ಆವೃತ್ತಿ, ಅಂದರೆ cf ಅನ್ನು ಲೆಕ್ಕ ಹಾಕಬೇಕು. ಮೊದಲ ವರ್ಗದ cf 5. ಎರಡನೆಯದು 5 ಪ್ಲಸ್ 8, ಅಂದರೆ 13. ಮೂರನೆಯದು 13 ಪ್ಲಸ್ 12, ಅಂದರೆ 25. ಹೀಗೆ ಮುಂದುವರೆಯುತ್ತದೆ. ನಮ್ಮ n ಬೈ two ಮೌಲ್ಯ 25 ಆಗಿದೆ. ಈಗ ನಾವು ಸಂಚಿತ ಆವೃತ್ತಿ ಕಾಲಂನಲ್ಲಿ 25 ಅಥವಾ ಅದಕ್ಕಿಂತ ಸ್ವಲ್ಪ ಹೆಚ್ಚಿನ ಮೌಲ್ಯವನ್ನು ಹುಡುಕಬೇಕು. ಇಲ್ಲಿ ನಮಗೆ ನಿಖರವಾಗಿ 25 ಎಂಬ cf ಮೌಲ್ಯ ಸಿಕ್ಕಿದೆ. ಈ 25 ಕ್ಕೆ ಅನುಗುಣವಾದ ವರ್ಗಾಂತರವೇ 30-40. ಆದ್ದರಿಂದ, ನಮ್ಮ ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರ 30-40 ಆಗಿದೆ. ಇದು ಮಧ್ಯಾಂಕವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ಬಳಸಲು ಆಧಾರವಾಗಿದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಾವು ಸಂಚಿತ ಆವೃತ್ತಿ (cf) ಅನ್ನು ಲೆಕ್ಕ ಹಾಕಬೇಕು. ಮೊದಲ ವರ್ಗದ cf 5. ಎರಡನೆಯದು $5+8=13$. ಮೂರನೆಯದು $13+12=25$. ಹೀಗೆ ಮುಂದುವರೆಯುತ್ತದೆ. ನಮ್ಮ $n/2$ ಮೌಲ್ಯ 25 ಆಗಿದೆ. ಈಗ ನಾವು ಸಂಚಿತ ಆವೃತ್ತಿ ಕಾಲಂನಲ್ಲಿ 25 ಅಥವಾ ಅದಕ್ಕಿಂತ ಸ್ವಲ್ಪ ಹೆಚ್ಚಿನ ಮೌಲ್ಯವನ್ನು ಹುಡುಕಬೇಕು. ಇಲ್ಲಿ ನಮಗೆ ನಿಖರವಾಗಿ 25 ಎಂಬ cf ಮೌಲ್ಯ ಸಿಕ್ಕಿದೆ. ಈ 25 ಕ್ಕೆ ಅನುಗುಣವಾದ ವರ್ಗಾಂತರವೇ 30-40. ಆದ್ದರಿಂದ, ನಮ್ಮ ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರ 30-40 ಆಗಿದೆ. ಇದು ಮಧ್ಯಾಂಕವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ಬಳಸಲು ಆಧಾರವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಈಗ, ಸಂಚಿತ ಆವೃತ್ತಿ (cf) ಲೆಕ್ಕ ಹಾಕಿ.",
+    "$n/2 = 25$ ಕ್ಕೆ ಸಮನಾದ ಅಥವಾ ಅದಕ್ಕಿಂತ ಸ್ವಲ್ಪ ಹೆಚ್ಚಿನ cf ಮೌಲ್ಯವನ್ನು ಹುಡುಕಿ.",
+    "ಇಲ್ಲಿ, 25 ಕ್ಕೆ ಸಮನಾದ cf ಮೌಲ್ಯವಿದೆ.",
+    "ಆದ್ದರಿಂದ, ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರವು 30-40 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "{\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{|c|c|c|}\n\\hline\n\\textbf{ವರ್ಗಾಂತರ} & \\textbf{ಆವೃತ್ತಿ (f)} & \\textbf{ಸಂಚಿತ ಆವೃತ್ತಿ (cf)} \\\\\n\\hline\n10-20 & 5 & 5 \\\\\n\\hline\n20-30 & 8 & 13 \\\\\n\\hline\n\\rowcolor{yellow!30} 30-40 & 12 & 25 \\\\\n\\hline\n40-50 & 15 & 40 \\\\\n\\hline\n50-60 & 10 & 50 \\\\\n\\hline\n\\end{array}}",
+    "placeholder_note": "A table with three columns: 'Class Interval', 'Frequency (f)', and 'Cumulative Frequency (cf)'. The row for class '30-40' is highlighted to indicate it is the median class."
+  },
+  "sub_type": "definition_example",
+  "chunk_id": "DATA-STAT-2_concept_4_chunk_008"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕಲ್ಲಿದ್ದಲು (Coal)",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ಕಲ್ಲಿದ್ದಲನ್ನು ನೋಡೋಣ. ಇದು ಘನ ರೂಪದಲ್ಲಿರುವ ಒಂದು ಪ್ರಮುಖ ಪಳೆಯುಳಿಕೆ ಇಂಧನವಾಗಿದೆ. ಲಕ್ಷಾಂತರ ವರ್ಷಗಳ ಹಿಂದೆ ಭೂಮಿಯೊಳಗೆ ಹೂತುಹೋದ ದಟ್ಟವಾದ ಅರಣ್ಯಗಳ ಸಸ್ಯ ರಾಶಿಯಿಂದ ಇದು ರೂಪುಗೊಂಡಿದೆ. ಅಧಿಕ ಒತ್ತಡ ಮತ್ತು ತಾಪಮಾನದಿಂದಾಗಿ, ಈ ಸಸ್ಯ ಪದಾರ್ಥಗಳು ನಿಧಾನವಾಗಿ ಕಲ್ಲಿದ್ದಲಾಗಿ ಪರಿವರ್ತನೆಯಾದವು. ಇದನ್ನು ಮುಖ್ಯವಾಗಿ ಉಷ್ಣ ವಿದ್ಯುತ್ ಸ್ಥಾವರಗಳಲ್ಲಿ ವಿದ್ಯುತ್ ಉತ್ಪಾದಿಸಲು ಮತ್ತು ಉಕ್ಕು ಹಾಗೂ ಸಿಮೆಂಟ್ ಕಾರ್ಖಾನೆಗಳಂತಹ ಕೈಗಾರಿಕೆಗಳಲ್ಲಿ ಇಂಧನವಾಗಿ ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ಕಲ್ಲಿದ್ದಲನ್ನು ನೋಡೋಣ. ಇದು ಘನ ರೂಪದಲ್ಲಿರುವ ಒಂದು ಪ್ರಮುಖ ಪಳೆಯುಳಿಕೆ ಇಂಧನವಾಗಿದೆ. ಲಕ್ಷಾಂತರ ವರ್ಷಗಳ ಹಿಂದೆ ಭೂಮಿಯೊಳಗೆ ಹೂತುಹೋದ ದಟ್ಟವಾದ ಅರಣ್ಯಗಳ ಸಸ್ಯ ರಾಶಿಯಿಂದ ಇದು ರೂಪುಗೊಂಡಿದೆ. ಅಧಿಕ ಒತ್ತಡ ಮತ್ತು ತಾಪಮಾನದಿಂದಾಗಿ, ಈ ಸಸ್ಯ ಪದಾರ್ಥಗಳು ನಿಧಾನವಾಗಿ ಕಲ್ಲಿದ್ದಲಾಗಿ ಪರಿವರ್ತನೆಯಾದವು. ಇದನ್ನು ಮುಖ್ಯವಾಗಿ ಉಷ್ಣ ವಿದ್ಯುತ್ ಸ್ಥಾವರಗಳಲ್ಲಿ ವಿದ್ಯುತ್ ಉತ್ಪಾದಿಸಲು ಮತ್ತು ಉಕ್ಕು ಹಾಗೂ ಸಿಮೆಂಟ್ ಕಾರ್ಖಾನೆಗಳಂತಹ ಕೈಗಾರಿಕೆಗಳಲ್ಲಿ ಇಂಧನವಾಗಿ ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ರೂಪ: ಘನ ಪಳೆಯುಳಿಕೆ ಇಂಧನ.",
+    "ರಚನೆ: ಸಸ್ಯಗಳ ಅವಶೇಷಗಳಿಂದ ರೂಪುಗೊಂಡಿದೆ.",
+    "ಬಳಕೆ: ವಿದ್ಯುತ್ ಉತ್ಪಾದನೆ, ಕೈಗಾರಿಕೆಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up shot of a lump of black, shiny anthracite coal against a plain white background. The texture should be visible.",
+    "labels": "",
+    "scientific_significance": "Illustrates coal, a solid fossil fuel formed from ancient terrestrial plant matter. It is a primary source for electricity generation.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_6_chapter_11_concept_7_chunk_007"
+}

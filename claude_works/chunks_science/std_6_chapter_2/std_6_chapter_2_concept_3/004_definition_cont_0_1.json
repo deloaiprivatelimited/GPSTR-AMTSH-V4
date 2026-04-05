@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ನಾಳವಿನ್ಯಾಸದ ಒಂದು ವಿಧ: ಜಾಲಬಂಧ",
+  "script": "ನಾಳವಿನ್ಯಾಸವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ದಾಸವಾಳ ಅಥವಾ ಮಾವಿನ ಎಲೆಯನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಒಂದು ಮುಖ್ಯ ನಾಳವು ಎಲೆಯ ಮಧ್ಯದಲ್ಲಿ ಹಾದುಹೋಗುತ್ತದೆ. ಅದರಿಂದ ಹಲವಾರು ಸಣ್ಣ ನಾಳಗಳು ಕವಲೊಡೆದು, ಒಂದು ಬಲೆಯ ಹಾಗೆ ಇಡೀ ಎಲೆಯನ್ನು ಆವರಿಸುತ್ತವೆ. ಈ ರೀತಿಯ ಬಲೆಯಂತಹ ವಿನ್ಯಾಸಕ್ಕೆ 'ಜಾಲಬಂಧ ನಾಳವಿನ್ಯಾಸ' ಅಥವಾ ರೆಟಿಕ್ಯುಲೇಟ್ ವಿನೇಶನ್ ಎಂದು ಕರೆಯುತ್ತಾರೆ. 'ಜಾಲ' ಎಂದರೆ ಬಲೆ. ಇದಕ್ಕೆ ಉದಾಹರಣೆ ದಾಸವಾಳ ಮತ್ತು ಮಾವು.",
+  "script_display": "ನಾಳವಿನ್ಯಾಸವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ದಾಸವಾಳ ಅಥವಾ ಮಾವಿನ ಎಲೆಯನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಒಂದು ಮುಖ್ಯ ನಾಳವು ಎಲೆಯ ಮಧ್ಯದಲ್ಲಿ ಹಾದುಹೋಗುತ್ತದೆ. ಅದರಿಂದ ಹಲವಾರು ಸಣ್ಣ ನಾಳಗಳು ಕವಲೊಡೆದು, ಒಂದು ಬಲೆಯ (net) ಹಾಗೆ ಇಡೀ ಎಲೆಯನ್ನು ಆವರಿಸುತ್ತವೆ. ಈ ರೀತಿಯ ಬಲೆಯಂತಹ ವಿನ್ಯಾಸಕ್ಕೆ 'ಜಾಲಬಂಧ ನಾಳವಿನ್ಯಾಸ' (Reticulate Venation) ಎಂದು ಕರೆಯುತ್ತಾರೆ. 'ಜಾಲ' ಎಂದರೆ ಬಲೆ. ಇದಕ್ಕೆ ಉದಾಹರಣೆ ದಾಸವಾಳ ಮತ್ತು ಮಾವು.",
+  "display_bullets": [
+    "ನಾಳಗಳು ಬಲೆಯಂತೆ (net-like) ಹೆಣೆದುಕೊಂಡಿರುತ್ತವೆ.",
+    "ಮಧ್ಯದಲ್ಲಿ ಒಂದು ಮುಖ್ಯ ನಾಳವಿದ್ದು, ಅದರಿಂದ ಕವಲುಗಳು ಹೊರಡುತ್ತವೆ.",
+    "ಇದನ್ನು 'ಜಾಲಬಂಧ ನಾಳವಿನ್ಯಾಸ' ಎನ್ನುತ್ತಾರೆ.",
+    "ಉದಾಹರಣೆ: ದಾಸವಾಳ, ಮಾವು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear image of a hibiscus leaf held against the light to show the net-like pattern of veins. A central midrib is visible with smaller veins branching out.",
+    "labels": "ಜಾಲಬಂಧ ನಾಳವಿನ್ಯಾಸ, ಮುಖ್ಯ ನಾಳ, ಉಪನಾಳಗಳು",
+    "scientific_significance": "Illustrates the branching, net-like pattern characteristic of reticulate venation.",
+    "placeholder_note": "Image of a hibiscus leaf showing reticulate venation."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_2_concept_3_chunk_004"
+}

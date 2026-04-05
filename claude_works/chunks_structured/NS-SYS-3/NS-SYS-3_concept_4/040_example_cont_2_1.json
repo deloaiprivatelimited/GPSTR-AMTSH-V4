@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಪರಿಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಗುಣಾಕಾರವನ್ನು ಬರೆಯುತ್ತೇವೆ: ಆರು ರೂಟ್ ಐದು ಗುಣಿಸು ಎರಡು ರೂಟ್ ಐದು. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಪದಗಳನ್ನು ಮರುಜೋಡಿಸುತ್ತೇವೆ. ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಒಟ್ಟಿಗೆ ಮತ್ತು ಕರಣಿಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಂಪು ಮಾಡೋಣ. ಅಂದರೆ, ಆರು ಗುಣಿಸು ಎರಡು, ಮತ್ತು ರೂಟ್ ಐದು ಗುಣಿಸು ರೂಟ್ ಐದು. ಇದು ಗುಣಾಕಾರದ ಸಹವರ್ತನೀಯ ನಿಯಮವನ್ನು ಆಧರಿಸಿದೆ.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಗುಣಾಕಾರವನ್ನು ಬರೆಯುತ್ತೇವೆ: $6\\sqrt{5} \\times 2\\sqrt{5}$. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಪದಗಳನ್ನು ಮರುಜೋಡಿಸುತ್ತೇವೆ. ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಒಟ್ಟಿಗೆ ಮತ್ತು ಕರಣಿಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಂಪು ಮಾಡೋಣ. ಅಂದರೆ, $(6 \\times 2) \\times (\\sqrt{5} \\times \\sqrt{5})$. ಇದು ಗುಣಾಕಾರದ ಸಹವರ್ತನೀಯ ನಿಯಮವನ್ನು ಆಧರಿಸಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_left",
+    "text_zone": "left",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "NS-SYS-3_example_13",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$6\\sqrt{5} \\times 2\\sqrt{5}$",
+      "justification": "ದತ್ತ ಲೆಕ್ಕವನ್ನು ಗಣಿತೀಯವಾಗಿ ನಿರೂಪಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$(6 \\times 2) \\times (\\sqrt{5} \\times \\sqrt{5})$",
+      "justification": "ಗುಣಾಕಾರದ ಪರಿವರ್ತನೀಯ ಮತ್ತು ಸಹವರ್ತನೀಯ ನಿಯಮಗಳು."
+    }
+  ],
+  "chunk_id": "NS-SYS-3_concept_4_chunk_040"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ",
+  "script": "ಒಂದು ಚೌಕವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಅದರ ಬಾಹುವಿನ ಉದ್ದವನ್ನು ನಾವು 's' ಎಂದು ಕರೆಯೋಣ. ಈ ಚೌಕದ ಸುತ್ತಳತೆ, ಅಂದರೆ ಪೆರಿಮೀಟರ್, ನಾಲ್ಕು ಗುಣಿಸು s ಆಗಿರುತ್ತದೆ. ಇಲ್ಲಿ 's' ಒಂದು ಚರಾಕ್ಷರ. ಯಾಕೆಂದರೆ, ಚೌಕದ ಗಾತ್ರ ಬದಲಾದಂತೆ 's' ನ ಬೆಲೆಯೂ ಬದಲಾಗುತ್ತದೆ. ಒಂದು ವೇಳೆ ಬಾಹುವಿನ ಉದ್ದ ಎರಡು ಸೆಂಟಿಮೀಟರ್ ಆದರೆ, ಸುತ್ತಳತೆ ಎಂಟು ಸೆಂಟಿಮೀಟರ್ ಆಗುತ್ತದೆ. ಅದೇ ಬಾಹು ಐದು ಸೆಂಟಿಮೀಟರ್ ಆದರೆ, ಸುತ್ತಳತೆ ಇಪ್ಪತ್ತು ಸೆಂಟಿಮೀಟರ್ ಆಗುತ್ತದೆ. ನೋಡಿ, 's' ನ ಬೆಲೆ ಸ್ಥಿರವಾಗಿಲ್ಲ, ಅದು ಬದಲಾಗುತ್ತಿದೆ. ಆದ್ದರಿಂದ 's' ಒಂದು ಚರಾಕ್ಷರ.",
+  "script_display": "ಒಂದು ಚೌಕವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಅದರ ಬಾಹುವಿನ ಉದ್ದವನ್ನು ನಾವು 's' ಎಂದು ಕರೆಯೋಣ. ಈ ಚೌಕದ ಸುತ್ತಳತೆ (Perimeter), $P = 4s$ ಆಗಿರುತ್ತದೆ. ಇಲ್ಲಿ 's' ಒಂದು ಚರಾಕ್ಷರ. ಯಾಕೆಂದರೆ, ಚೌಕದ ಗಾತ್ರ ಬದಲಾದಂತೆ 's' ನ ಬೆಲೆಯೂ ಬದಲಾಗುತ್ತದೆ. ಒಂದು ವೇಳೆ ಬಾಹುವಿನ ಉದ್ದ $2$ cm ಆದರೆ, ಸುತ್ತಳತೆ $8$ cm ಆಗುತ್ತದೆ. ಅದೇ ಬಾಹು $5$ cm ಆದರೆ, ಸುತ್ತಳತೆ $20$ cm ಆಗುತ್ತದೆ. ನೋಡಿ, 's' ನ ಬೆಲೆ ಸ್ಥಿರವಾಗಿಲ್ಲ, ಅದು ಬದಲಾಗುತ್ತಿದೆ. ಆದ್ದರಿಂದ 's' ಒಂದು ಚರಾಕ್ಷರ.",
+  "display_bullets": [
+    "ಒಂದು ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದವನ್ನು 's' ಎಂದುಕೊಳ್ಳಿ.",
+    "ಅದರ ಸುತ್ತಳತೆ (Perimeter) $P = 4s$ ಆಗಿರುತ್ತದೆ.",
+    "ಇಲ್ಲಿ 's' ಒಂದು ಚರಾಕ್ಷರ (variable).",
+    "'s' ನ ಬೆಲೆ ಬದಲಾದಂತೆ, ಸುತ್ತಳತೆಯ ಬೆಲೆಯೂ ಬದಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple square with its side labeled with the letter 's'. The formula for the perimeter P = 4s is shown nearby. Two smaller squares are shown below it, one with side 2cm and perimeter 8cm, and another with side 5cm and perimeter 20cm, to illustrate the variable nature of 's'.",
+    "labels": "square, side s, perimeter P, variable",
+    "mathematical_significance": "This diagram visually demonstrates the concept of a variable. The side 's' is not a fixed number but can take different values, which in turn affects the value of the perimeter 'P'.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "ALG-EXP-1_concept_1_chunk_003"
+}

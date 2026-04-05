@@ -1,0 +1,34 @@
+{
+  "type": "definition",
+  "slide_title": "ಮಾನಸಿಕ ಗಣಿತ: ಒಂದು ಪರಿಚಯ",
+  "script": "ಈಗ ನಾವು ಮಾನಸಿಕ ಗಣಿತದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದು ಕೇವಲ ಗಣಿತದ ಒಂದು ತಂತ್ರವಲ್ಲ, ಬದಲಿಗೆ ನಮ್ಮ ಮೆದುಳನ್ನು ಚುರುಕುಗೊಳಿಸುವ ಒಂದು ಕೌಶಲ್ಯ. ಹಾಗಾದರೆ, ಮಾನಸಿಕ ಗಣಿತ ಎಂದರೇನು? ಇದರ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಮಾನಸಿಕ ಗಣಿತ ಎಂದರೆ ಕಾಗದ, ಪೆನ್ನು ಅಥವಾ ಕ್ಯಾಲ್ಕುಲೇಟರ್ ಬಳಸದೆ ಮನಸ್ಸಿನಲ್ಲೇ ಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ. ಅಂದರೆ, ನಾವು ನಮ್ಮ ತಲೆಯಲ್ಲಿಯೇ ಲೆಕ್ಕಗಳನ್ನು ಮಾಡಿ ಉತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು. ಇದು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಬಹಳಷ್ಟು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಮಾನಸಿಕ ಗಣಿತದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದು ಕೇವಲ ಗಣಿತದ ಒಂದು ತಂತ್ರವಲ್ಲ, ಬದಲಿಗೆ ನಮ್ಮ ಮೆದುಳನ್ನು ಚುರುಕುಗೊಳಿಸುವ ಒಂದು ಕೌಶಲ್ಯ. ಹಾಗಾದರೆ, ಮಾನಸಿಕ ಗಣಿತ ಎಂದರೇನು? ಇದರ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಮಾನಸಿಕ ಗಣಿತ ಎಂದರೆ ಕಾಗದ, ಪೆನ್ನು ಅಥವಾ ಕ್ಯಾಲ್ಕುಲೇಟರ್ ಬಳಸದೆ ಮನಸ್ಸಿನಲ್ಲೇ ಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ. ಅಂದರೆ, ನಾವು ನಮ್ಮ ತಲೆಯಲ್ಲಿಯೇ ಲೆಕ್ಕಗಳನ್ನು ಮಾಡಿ ಉತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು. ಇದು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಬಹಳಷ್ಟು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮಾನಸಿಕ ಗಣಿತ (Mental Math): ಕಾಗದ, ಪೆನ್ನು ಅಥವಾ ಕ್ಯಾಲ್ಕುಲೇಟರ್ ಬಳಸದೆ ಮನಸ್ಸಿನಲ್ಲೇ ಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "text_top_visual_bottom",
+    "text_zone": "full",
+    "visual_zone": "bottom",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An icon showing a human brain with mathematical symbols like plus, minus, and numbers floating around it, representing mental calculation.",
+    "labels": "brain, mental math, calculation, numbers",
+    "mathematical_significance": "Visually represents the core idea of 'mental math' - calculations happening inside the brain.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "NS-NUM-1_concept_5_chunk_003"
+}

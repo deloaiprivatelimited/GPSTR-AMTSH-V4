@@ -1,0 +1,180 @@
+{
+  "module_id": "std_6_chapter_7_concept_3",
+  "chapter_code": "std_6_chapter_7",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 15,
+  "ok_count": 15,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:32:04",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "eb8a95abdde77c7a76cd885d0cabd3b5",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 20.731,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "chunk",
+      "script_words": 28,
+      "generated_at": "2026-04-02 13:29:23"
+    },
+    "003_intro_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "6d64dc584d5f87789ef10c6def3108bd",
+      "wav_file": "003_intro_cont_0_2.wav",
+      "duration": 35.011,
+      "slide_title": "ಈ ಪಾಠದಲ್ಲಿ ಕಲಿಯುವ ವಿಷಯಗಳು",
+      "type": "chunk",
+      "script_words": 37,
+      "generated_at": "2026-04-02 13:29:32"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "e26776ccee48980cfb1971c124a0123d",
+      "wav_file": "001_intro_0.wav",
+      "duration": 39.011,
+      "slide_title": "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ",
+      "type": "chunk",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:29:35"
+    },
+    "006_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "52a130d6f9003db4fb157a8474aa83fa",
+      "wav_file": "006_classification_cont_0_1.wav",
+      "duration": 44.691,
+      "slide_title": "ಪಾದರಸದ ತಾಪಮಾಪಕ",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 13:30:03"
+    },
+    "005_classification_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "5380baffddbfaf4458e4c72fb1cfac30",
+      "wav_file": "005_classification_0.wav",
+      "duration": 38.771,
+      "slide_title": "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕದ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "script_words": 46,
+      "generated_at": "2026-04-02 13:30:03"
+    },
+    "009_experiment_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "350efe6445876ab9a1ab4a9b72158f9d",
+      "wav_file": "009_experiment_0.wav",
+      "duration": 47.451,
+      "slide_title": "ಚಟುವಟಿಕೆ: ದೇಹದ ತಾಪ ಅಳೆಯುವುದು",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 13:30:38"
+    },
+    "008_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "00e035e8253fa30100df35401d35f60e",
+      "wav_file": "008_classification_cont_0_3.wav",
+      "duration": 47.171,
+      "slide_title": "ಅವಕೆಂಪು ತಾಪಮಾಪಕ",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:30:41"
+    },
+    "004_property_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "49dbef80d155864888d2e8ef6b14c824",
+      "wav_file": "004_property_0.wav",
+      "duration": 57.811,
+      "slide_title": "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕದ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 77,
+      "generated_at": "2026-04-02 13:30:57"
+    },
+    "010_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "d844e3ba63b290da3df3d3ad75dfb0cf",
+      "wav_file": "010_experiment_cont_0_1.wav",
+      "duration": 45.331,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:31:03"
+    },
+    "007_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "6b4d2948f2837d555f169b1707bfb76c",
+      "wav_file": "007_classification_cont_0_2.wav",
+      "duration": 50.371,
+      "slide_title": "ಡಿಜಿಟಲ್ ತಾಪಮಾಪಕ",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 13:31:04"
+    },
+    "013_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "5f14fb0ac064c38fe0adca81efb9114b",
+      "wav_file": "013_experiment_cont_0_4.wav",
+      "duration": 44.331,
+      "slide_title": "ಪ್ರಮುಖ ಮುನ್ನೆಚ್ಚರಿಕೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:31:34"
+    },
+    "012_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "c9978c2e4c9159052bef5742fc2af160",
+      "wav_file": "012_experiment_cont_0_3.wav",
+      "duration": 44.091,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 5 ಮತ್ತು 6",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:31:35"
+    },
+    "015_recap_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "0f3bae40582d724134dc7e2de9d41290",
+      "wav_file": "015_recap_0.wav",
+      "duration": 42.811,
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "script_words": 47,
+      "generated_at": "2026-04-02 13:31:36"
+    },
+    "011_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "2c0b6b3a8d6e010b05fa170ca1b76c08",
+      "wav_file": "011_experiment_cont_0_2.wav",
+      "duration": 39.171,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 3 ಮತ್ತು 4",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:32:00"
+    },
+    "014_experiment_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "14c79146306edff05f2556fec70e55bb",
+      "wav_file": "014_experiment_cont_0_5.wav",
+      "duration": 40.251,
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:32:04"
+    }
+  }
+}

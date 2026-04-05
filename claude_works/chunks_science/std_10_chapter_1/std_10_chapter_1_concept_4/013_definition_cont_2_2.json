@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉತ್ಕರ್ಷಣ ಮತ್ತು ಅಪಕರ್ಷಣದ ವಿಶ್ಲೇಷಣೆ",
+  "script": "ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ತಾಮ್ರದ ಆಕ್ಸೈಡ್, ಸಿ ಯು ಓ, ತನ್ನಲ್ಲಿದ್ದ ಆಕ್ಸಿಜನ್ ಅನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತಿದೆ. ಆಕ್ಸಿಜನ್ ನಷ್ಟವಾಗುವುದನ್ನು ನಾವು ಅಪಕರ್ಷಣ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹಾಗಾಗಿ, ಸಿ ಯು ಓ ಅಪಕರ್ಷಣಗೊಂಡು ಸಿ ಯು ಆಗಿದೆ. ಮತ್ತೊಂದೆಡೆ, ಹೈಡ್ರೋಜನ್, ಎಚ್ ಟು, ಆಕ್ಸಿಜನ್ ಅನ್ನು ಪಡೆದುಕೊಳ್ಳುತ್ತಿದೆ. ಆಕ್ಸಿಜನ್ ಸೇರ್ಪಡೆಯಾಗುವುದನ್ನು ನಾವು ಉತ್ಕರ್ಷಣ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹಾಗಾಗಿ, ಎಚ್ ಟು ಉತ್ಕರ್ಷಣಗೊಂಡು ಎಚ್ ಟು ಓ ಆಗಿದೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಉತ್ಕರ್ಷಣ ಮತ್ತು ಅಪಕರ್ಷಣ ಎರಡೂ ಒಟ್ಟಿಗೆ ನಡೆಯುತ್ತಿರುವುದರಿಂದ, ಇದು ಒಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "script_display": "ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ತಾಮ್ರದ ಆಕ್ಸೈಡ್ (CuO) ತನ್ನಲ್ಲಿದ್ದ ಆಕ್ಸಿಜನ್ ಅನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತಿದೆ. ಆಕ್ಸಿಜನ್ ನಷ್ಟವಾಗುವುದನ್ನು ನಾವು ಅಪಕರ್ಷಣ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹಾಗಾಗಿ, CuO ಅಪಕರ್ಷಣಗೊಂಡು Cu ಆಗಿದೆ. ಮತ್ತೊಂದೆಡೆ, ಹೈಡ್ರೋಜನ್ (H₂) ಆಕ್ಸಿಜನ್ ಅನ್ನು ಪಡೆದುಕೊಳ್ಳುತ್ತಿದೆ. ಆಕ್ಸಿಜನ್ ಸೇರ್ಪಡೆಯಾಗುವುದನ್ನು ನಾವು ಉತ್ಕರ್ಷಣ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹಾಗಾಗಿ, H₂ ಉತ್ಕರ್ಷಣಗೊಂಡು H₂O ಆಗಿದೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಉತ್ಕರ್ಷಣ ಮತ್ತು ಅಪಕರ್ಷಣ ಎರಡೂ ಒಟ್ಟಿಗೆ ನಡೆಯುತ್ತಿರುವುದರಿಂದ, ಇದು ಒಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "CuO → Cu : ಆಕ್ಸಿಜನ್ ನಷ್ಟ (ಅಪಕರ್ಷಣ)",
+    "H₂ → H₂O : ಆಕ್ಸಿಜನ್ ಸೇರ್ಪಡೆ (ಉತ್ಕರ್ಷಣ)",
+    "ಇದು ಒಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating the redox reaction between Copper Oxide and Hydrogen. An arrow labeled 'ಅಪಕರ್ಷಣ (ಆಕ್ಸಿಜನ್ ನಷ್ಟ)' points from CuO to Cu. Another arrow labeled 'ಉತ್ಕರ್ಷಣ (ಆಕ್ಸಿಜನ್ ಸೇರ್ಪಡೆ)' points from H₂ to H₂O. This visually separates the two half-reactions within the overall process.",
+    "labels": "CuO, H₂, Cu, H₂O, ಉತ್ಕರ್ಷಣ, ಅಪಕರ್ಷಣ",
+    "scientific_significance": "Clearly demonstrates that in a redox reaction, oxidation (gain of oxygen by H₂) and reduction (loss of oxygen by CuO) happen simultaneously.",
+    "placeholder_note": "Image to be generated based on the description. It should show the full reaction CuO + H2 -> Cu + H2O, with an arrow from CuO to Cu labeled 'Reduction (loss of oxygen)' and an arrow from H2 to H2O labeled 'Oxidation (gain of oxygen)'."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_1_concept_4_chunk_013"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. ಎರಡು ಎ ಎಲ್, ಘನ ಸ್ಥಿತಿಯಲ್ಲಿ, ಮೂರು ಎಚ್ ಟು ಓ, ಅನಿಲ ಸ್ಥಿತಿಯಲ್ಲಿ ಅಂದರೆ ಹಬೆಯೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎ ಎಲ್ ಟು ಓ ಥ್ರೀ, ಅಂದರೆ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್, ಘನ ಸ್ಥಿತಿಯಲ್ಲಿ, ಮತ್ತು ಮೂರು ಎಚ್ ಟು, ಅಂದರೆ ಹೈಡ್ರೋಜನ್ ಅನಿಲವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. 2Al(s) + 3H₂O(g) → Al₂O₃(s) + 3H₂(g)",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2\\text{Al(s)} + 3\\text{H}_2\\text{O(g)} \\rightarrow \\text{Al}_2\\text{O}_3\\text{(s)} + 3\\text{H}_2\\text{(g)}",
+    "placeholder_note": "Balanced chemical equation for the reaction of aluminum with steam."
+  },
+  "chunk_id": "std_10_chapter_3_concept_5_chunk_016"
+}

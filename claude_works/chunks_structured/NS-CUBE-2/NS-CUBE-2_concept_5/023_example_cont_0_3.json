@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನವನ್ನು ಬಳಸಿ, ನಾವು 8000 ದ ಘನಮೂಲ 20 ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ, 8000 ದ ಘನಮೂಲ 20 ಆಗಿದೆ. ಈ ವಿಧಾನವು ಯಾವುದೇ ಪೂರ್ಣ ಘನದ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನವನ್ನು ಬಳಸಿ, ನಾವು 8000 ದ ಘನಮೂಲ 20 ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "8000 ದ ಘನಮೂಲ 20 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sqrt[3]{8000} = 20",
+    "placeholder_note": "Final answer: Cube root of 8000 is 20"
+  },
+  "source_example_id": "NS-CUBE-2_example_6",
+  "steps": [],
+  "final_answer": "20",
+  "final_answer_display": "$\\sqrt[3]{8000} = 20$",
+  "chunk_id": "NS-CUBE-2_concept_5_chunk_023"
+}

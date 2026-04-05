@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಜೋರಾದ ಶಬ್ದಗಳು",
+  "script": "ಈಗ ಜೋರಾದ ಶಬ್ದಗಳನ್ನು ನೋಡೋಣ. ಮೆದುವಾದ ಶಬ್ದಗಳಿಗೆ ವಿರುದ್ಧವಾಗಿ, ಇವುಗಳ ಶಬ್ದ ತರಂಗಗಳು ಹೆಚ್ಚು ಪಾರವನ್ನು, ಅಂದರೆ ಬಹಳ ಎತ್ತರವನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, ಇವು ಹೆಚ್ಚು ಶಕ್ತಿಯನ್ನು ಸಾಗಿಸುತ್ತವೆ ಮತ್ತು ನಮಗೆ ತುಂಬಾ ಜೋರಾಗಿ ಕೇಳಿಸುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಸಿಂಹದ ಘರ್ಜನೆ, ಜೆಟ್ ವಿಮಾನದ ಶಬ್ದ, ಅಥವಾ ಒಂದು ರಾಕ್ ಸಂಗೀತ ಕಛೇರಿ. ಇವುಗಳ ಡೆಸಿಬೆಲ್ ಮೌಲ್ಯವು ಅಧಿಕವಾಗಿರುತ್ತದೆ ಮತ್ತು ಇವು ಹೆಚ್ಚು ಶಕ್ತಿಯುತವಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಈಗ ಜೋರಾದ ಶಬ್ದಗಳನ್ನು (Loud Sounds) ನೋಡೋಣ. ಮೆದುವಾದ ಶಬ್ದಗಳಿಗೆ ವಿರುದ್ಧವಾಗಿ, ಇವುಗಳ ಶಬ್ದ ತರಂಗಗಳು ಹೆಚ್ಚು ಪಾರವನ್ನು, ಅಂದರೆ ಬಹಳ ಎತ್ತರವನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, ಇವು ಹೆಚ್ಚು ಶಕ್ತಿಯನ್ನು ಸಾಗಿಸುತ್ತವೆ ಮತ್ತು ನಮಗೆ ತುಂಬಾ ಜೋರಾಗಿ ಕೇಳಿಸುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಸಿಂಹದ ಘರ್ಜನೆ, ಜೆಟ್ ವಿಮಾನದ ಶಬ್ದ, ಅಥವಾ ಒಂದು ರಾಕ್ ಸಂಗೀತ ಕಛೇರಿ. ಇವುಗಳ ಡೆಸಿಬೆಲ್ ಮೌಲ್ಯವು ಅಧಿಕವಾಗಿರುತ್ತದೆ ಮತ್ತು ಇವು ಹೆಚ್ಚು ಶಕ್ತಿಯುತವಾಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಗುಣಲಕ್ಷಣ: ಹೆಚ್ಚು ಪಾರ (High Amplitude)",
+    "ಪರಿಣಾಮ: ಹೆಚ್ಚು ಶಕ್ತಿ, ಹೆಚ್ಚು ಘೋಷ (High Energy, High Loudness)",
+    "ಉದಾಹರಣೆಗಳು: ಸಿಂಹದ ಘರ್ಜನೆ, ಜೆಟ್ ವಿಮಾನ, ರಾಕ್ ಸಂಗೀತ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A dynamic image representing loud sounds, such as a roaring lion, a jet plane taking off with its engines glowing, or large speakers at a rock concert. The image should convey high energy and volume.",
+    "labels": "Roaring lion, Jet engine, Loud speaker",
+    "scientific_significance": "Provides a real-world visual anchor for the concept of high-amplitude, high-loudness sounds, contrasting with soft sounds.",
+    "placeholder_note": "Generate a high-energy image representing loud sounds like a roaring lion or a jet plane."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_10_concept_4_chunk_009"
+}

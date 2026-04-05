@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸರಳ ಕೋನ ಮತ್ತು ಲಂಬ ಕೋನ",
+  "script": "ಸರಳ ಕೋನವನ್ನು ನಾವು ಲಂಬ ಕೋನದೊಂದಿಗೆ ಹೋಲಿಸಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಒಂದು ಲಂಬ ಕೋನವು ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ. ಒಂದು ಸರಳ ಕೋನವು ನಿಖರವಾಗಿ ಎರಡು ಲಂಬ ಕೋನಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಪ್ಲಸ್ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಮಾಡಿದರೆ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಸಿಗುತ್ತದೆ. ಇದರರ್ಥ, ಒಂದು ಸರಳ ರೇಖೆಯ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವಿನಲ್ಲಿ ಉಂಟಾಗುವ ಒಟ್ಟು ಕೋನವು ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ. ಈ ಗುಣಲಕ್ಷಣವು ಮುಂದೆ ನಾವು ಕಲಿಯುವ 'ರೇಖೀಯ ಜೋಡಿ' ಅಥವಾ ಲೀನಿಯರ್ ಪೇರ್ ಎಂಬ ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆಗೆ ಆಧಾರವಾಗಿದೆ.",
+  "script_display": "ಸರಳ ಕೋನವನ್ನು ನಾವು ಲಂಬ ಕೋನದೊಂದಿಗೆ ಹೋಲಿಸಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಒಂದು ಲಂಬ ಕೋನವು $90^\\circ$ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ. ಒಂದು ಸರಳ ಕೋನವು ನಿಖರವಾಗಿ ಎರಡು ಲಂಬ ಕೋನಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, $90^\\circ + 90^\\circ$ ಮಾಡಿದರೆ $180^\\circ$ ಸಿಗುತ್ತದೆ. ಇದರರ್ಥ, ಒಂದು ಸರಳ ರೇಖೆಯ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವಿನಲ್ಲಿ ಉಂಟಾಗುವ ಒಟ್ಟು ಕೋನವು $180^\\circ$ ಆಗಿರುತ್ತದೆ. ಈ ಗುಣಲಕ್ಷಣವು ಮುಂದೆ ನಾವು ಕಲಿಯುವ 'ರೇಖೀಯ ಜೋಡಿ' (Linear Pair) ಎಂಬ ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆಗೆ ಆಧಾರವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಸರಳ ಕೋನವು ಎರಡು ಲಂಬ ಕೋನಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ.",
+    "$180^\\circ = 90^\\circ + 90^\\circ$",
+    "ಒಂದು ಸರಳ ರೇಖೆಯ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವಿನಲ್ಲಿ ಉಂಟಾಗುವ ಒಟ್ಟು ಕೋನವು $180^\\circ$ ಆಗಿರುತ್ತದೆ.",
+    "ಈ ಗುಣಲಕ್ಷಣವನ್ನು 'ರೇಖೀಯ ಜೋಡಿ' (Linear Pair) ಪರಿಕಲ್ಪನೆಯಲ್ಲಿ ಬಳಸಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a straight line AB with a point O in the middle. A perpendicular line OC is drawn from O. The straight angle AOB is shown as the sum of two right angles, AOC and COB, each marked as 90 degrees.",
+    "labels": "A, B, C, O, 90°, 90°, 180°",
+    "mathematical_significance": "Visually demonstrates that a straight angle (180°) is composed of two right angles (90°).",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-LA-1_concept_2_chunk_051"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಲಘು ಕಂಸ ಮತ್ತು ಅಧಿಕ ಕಂಸ",
+  "script": "ಜ್ಯಾದಿಂದ ಉಂಟಾದ ಈ ಎರಡು ಕಂಸಗಳಿಗೆ ನಿರ್ದಿಷ್ಟ ಹೆಸರುಗಳಿವೆ. ಚಿಕ್ಕದಾದ ಕಂಸವನ್ನು ನಾವು ಲಘು ಕಂಸ ಅಥವಾ ಮೈನರ್ ಆರ್ಕ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ದೊಡ್ಡದಾದ ಕಂಸವನ್ನು ಅಧಿಕ ಕಂಸ ಅಥವಾ ಮೇಜರ್ ಆರ್ಕ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಸಾಮಾನ್ಯವಾಗಿ, ನಾವು ಕೇವಲ 'ಕಂಸ' ಎಂದು ಹೇಳಿದಾಗ, ಅದು ಲಘು ಕಂಸವನ್ನೇ ಸೂಚಿಸುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ, ಹಸಿರು ಬಣ್ಣದಲ್ಲಿ ತೋರಿಸಿರುವ ಚಿಕ್ಕ ಭಾಗವು ಲಘು ಕಂಸ ಮತ್ತು ನೀಲಿ ಬಣ್ಣದಲ್ಲಿ ತೋರಿಸಿರುವ ದೊಡ್ಡ ಭಾಗವು ಅಧಿಕ ಕಂಸವಾಗಿದೆ. ಇವುಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಜ್ಯಾದಿಂದ ಉಂಟಾದ ಈ ಎರಡು ಕಂಸಗಳಿಗೆ ನಿರ್ದಿಷ್ಟ ಹೆಸರುಗಳಿವೆ. ಚಿಕ್ಕದಾದ ಕಂಸವನ್ನು ನಾವು ಲಘು ಕಂಸ (Minor Arc) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ದೊಡ್ಡದಾದ ಕಂಸವನ್ನು ಅಧಿಕ ಕಂಸ (Major Arc) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಸಾಮಾನ್ಯವಾಗಿ, ನಾವು ಕೇವಲ 'ಕಂಸ' ಎಂದು ಹೇಳಿದಾಗ, ಅದು ಲಘು ಕಂಸವನ್ನೇ ಸೂಚಿಸುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ, ಹಸಿರು ಬಣ್ಣದಲ್ಲಿ ತೋರಿಸಿರುವ ಚಿಕ್ಕ ಭಾಗವು ಲಘು ಕಂಸ ಮತ್ತು ನೀಲಿ ಬಣ್ಣದಲ್ಲಿ ತೋರಿಸಿರುವ ದೊಡ್ಡ ಭಾಗವು ಅಧಿಕ ಕಂಸವಾಗಿದೆ. ಇವುಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಚಿಕ್ಕ ಕಂಸವನ್ನು ಲಘು ಕಂಸ (Minor Arc) ಎನ್ನುತ್ತಾರೆ.",
+    "ದೊಡ್ಡ ಕಂಸವನ್ನು ಅಧಿಕ ಕಂಸ (Major Arc) ಎನ್ನುತ್ತಾರೆ.",
+    "ಸಾಮಾನ್ಯವಾಗಿ 'ಕಂಸ' ಎಂದರೆ ಲಘು ಕಂಸವನ್ನು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same diagram as the previous slide, but now with clear labels. The green (smaller) arc is labeled 'ಲಘು ಕಂಸ (Minor Arc)'. The blue (larger) arc is labeled 'ಅಧಿಕ ಕಂಸ (Major Arc)'.",
+    "labels": "Chord AB, Minor Arc, Major Arc",
+    "mathematical_significance": "Formally defines and labels the two types of arcs created by a chord, distinguishing between minor and major arcs.",
+    "placeholder_note": "Image to be generated with labels for Minor and Major arcs."
+  },
+  "chunk_id": "GEO-CIR-2_concept_1_chunk_011"
+}

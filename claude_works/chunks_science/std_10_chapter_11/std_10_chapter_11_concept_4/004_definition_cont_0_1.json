@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ರೋಧಶೀಲತೆ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ರೋಧಶೀಲತೆಯ ಪರಿಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸರಳವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಯಾವುದೇ ಒಂದು ವಸ್ತುವಿನಿಂದ ಮಾಡಿದ ಒಂದು ಮೀಟರ್ ಉದ್ದ, ಒಂದು ಮೀಟರ್ ಅಗಲ ಮತ್ತು ಒಂದು ಮೀಟರ್ ಎತ್ತರವಿರುವ ಒಂದು ಘನವನ್ನು (ಕ್ಯೂಬ್) ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಈ ಘನದ ಅಡ್ಡಕೊಯ್ತದ ವಿಸ್ತೀರ್ಣ ಒಂದು ಚದರ ಮೀಟರ್ ಆಗಿರುತ್ತದೆ ಮತ್ತು ಉದ್ದ ಒಂದು ಮೀಟರ್ ಆಗಿರುತ್ತದೆ. ಈಗ, ಈ ಘನದ ಎರಡು ವಿರುದ್ಧ ಮುಖಗಳ ನಡುವೆ ನಾವು ವಿದ್ಯುತ್ ರೋಧವನ್ನು ಅಳೆದರೆ, ನಮಗೆ ಸಿಗುವ ಮೌಲ್ಯವೇ ಆ ವಸ್ತುವಿನ ರೋಧಶೀಲತೆ. ಅಂದರೆ, ಇದು ಒಂದು ನಿರ್ದಿಷ್ಟ ವಸ್ತುವಿನ ಒಂದು ಮೀಟರ್ ಘನವು ನೀಡುವ ರೋಧವಾಗಿದೆ.",
+  "script_display": "ರೋಧಶೀಲತೆಯ ಪರಿಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸರಳವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಯಾವುದೇ ಒಂದು ವಸ್ತುವಿನಿಂದ ಮಾಡಿದ 1 ಮೀಟರ್ ಉದ್ದ, 1 ಮೀಟರ್ ಅಗಲ ಮತ್ತು 1 ಮೀಟರ್ ಎತ್ತರವಿರುವ ಒಂದು ಘನವನ್ನು (cube) ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಈ ಘನದ ಅಡ್ಡಕೊಯ್ತದ ವಿಸ್ತೀರ್ಣ 1 m² ಆಗಿರುತ್ತದೆ ಮತ್ತು ಉದ್ದ 1 m ಆಗಿರುತ್ತದೆ. ಈಗ, ಈ ಘನದ ಎರಡು ವಿರುದ್ಧ ಮುಖಗಳ ನಡುವೆ ನಾವು ವಿದ್ಯುತ್ ರೋಧವನ್ನು (Resistance) ಅಳೆದರೆ, ನಮಗೆ ಸಿಗುವ ಮೌಲ್ಯವೇ ಆ ವಸ್ತುವಿನ ರೋಧಶೀಲತೆ (Resistivity).",
+  "display_bullets": [
+    "ಒಂದು ವಸ್ತುವಿನ 1-ಮೀಟರ್ ಘನವನ್ನು (1m x 1m x 1m) ಪರಿಗಣಿಸಿ.",
+    "ಈ ಘನದ ಉದ್ದ (l) = 1 m.",
+    "ಅಡ್ಡಕೊಯ್ತದ ವಿಸ್ತೀರ್ಣ (A) = 1 m².",
+    "ಈ ಘನದ ವಿರುದ್ಧ ಮುಖಗಳ ನಡುವಿನ ರೋಧವೇ (R) ಅದರ ರೋಧಶೀಲತೆ (ρ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_text_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 1-meter cube of a material, for example copper. Arrows indicate that electrical resistance is being measured between two opposite faces. The dimensions are labeled: 'ಉದ್ದ (l) = 1 m', 'ಅಗಲ = 1 m', 'ಎತ್ತರ = 1 m'. A label points to a face saying 'ಅಡ್ಡಕೊಯ್ತದ ವಿಸ್ತೀರ್ಣ (A) = 1 m²'. A central label says 'ಈ ಘನದ ರೋಧ (R) = ರೋಧಶೀಲತೆ (ρ)'.",
+    "labels": "1-meter cube, length, cross-sectional area, resistance measurement",
+    "scientific_significance": "This visual provides a concrete, intuitive understanding of the definition of resistivity as the resistance of a unit cube of a material.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_11_concept_4_chunk_004"
+}

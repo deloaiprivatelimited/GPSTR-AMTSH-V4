@@ -1,0 +1,31 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ವರ್ಗ ಸಮೀಕರಣ ಸೂತ್ರ (Quadratic Formula)",
+  "script": "ಈಗ ನಾವು ವರ್ಗ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸಲು ಒಂದು ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿ ಉಪಕರಣವನ್ನು ನೋಡೋಣ. ಇದನ್ನು ವರ್ಗ ಸಮೀಕರಣ ಸೂತ್ರ ಅಥವಾ ಕ್ವಾಡ್ರಾಟಿಕ್ ಫಾರ್ಮುಲಾ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಸೂತ್ರವು x ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ b ಪ್ಲಸ್ ಅಥವಾ ಮೈನಸ್ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ b ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಫೋರ್ a c, ಹೋಲ್ ಬೈ ಟೂ a. ಇಲ್ಲಿ a, b, ಮತ್ತು c ಗಳು ವರ್ಗ ಸಮೀಕರಣದ ಆದರ್ಶ ರೂಪವಾದ a x ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ b x ಪ್ಲಸ್ c ಈಕ್ವಲ್ಸ್ ಜೀರೋ ದಿಂದ ಬರುವ ಗುಣಾಂಕಗಳಾಗಿವೆ. ಈ ಸೂತ್ರವನ್ನು ಬಳಸಲು, a ಸೊನ್ನೆಗೆ ಸಮನಾಗಿರಬಾರದು. ಪ್ಲಸ್ ಅಥವಾ ಮೈನಸ್ ಚಿಹ್ನೆಯು ನಮಗೆ ಎರಡು ಸಂಭವನೀಯ ಪರಿಹಾರಗಳನ್ನು ನೀಡುತ್ತದೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ವರ್ಗ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸಲು ಒಂದು ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿ ಉಪಕರಣವನ್ನು ನೋಡೋಣ. ಇದನ್ನು ವರ್ಗ ಸಮೀಕರಣ ಸೂತ್ರ (Quadratic Formula) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಸೂತ್ರವು:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}",
+    "placeholder_note": "$ax^2+bx+c=0$ ಸಮೀಕರಣಕ್ಕೆ, ಇಲ್ಲಿ $a \\neq 0$."
+  },
+  "chunk_id": "ALG-QUAD-4_concept_3_chunk_004"
+}

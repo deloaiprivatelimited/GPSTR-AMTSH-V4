@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಪವಾದಗಳು: ಅಲೋಹಗಳ ಹೊಳಪು ಮತ್ತು ಕಠಿಣತೆ",
+  "script": "ಈಗ ಅಲೋಹಗಳಲ್ಲಿನ ಕೆಲವು ಆಸಕ್ತಿದಾಯಕ ಅಪವಾದಗಳನ್ನು ನೋಡೋಣ. ಅಲೋಹಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಹೊಳಪನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ, ಅವು ಮಂದವಾಗಿ ಕಾಣುತ್ತವೆ. ಆದರೆ, ಅಯೋಡಿನ್ ಒಂದು ಅಲೋಹವಾಗಿದ್ದರೂ, ಲೋಹಗಳಂತೆ ಹೊಳೆಯುವ ಗುಣವನ್ನು, ಅಂದರೆ ಕಾಂತಿಯನ್ನು ಹೊಂದಿದೆ. ಇದರ ಹರಳುಗಳು ಗಾಢ ನೇರಳೆ ಬಣ್ಣದಲ್ಲಿ ಹೊಳೆಯುತ್ತವೆ. ಮತ್ತೊಂದು ಪ್ರಮುಖ ಅಪವಾದ ಇಂಗಾಲ. ಇಂಗಾಲದ ಬಹುರೂಪವಾದ ವಜ್ರವು ನಮಗೆ ತಿಳಿದಿರುವ ಅತ್ಯಂತ ಕಠಿಣವಾದ ನೈಸರ್ಗಿಕ ವಸ್ತುವಾಗಿದೆ. ಇದು ಅಲೋಹವಾದರೂ, ಇದರ ಕಠಿಣತೆ ಅಸಾಧಾರಣ. ಇದಕ್ಕೆ ಕಾರಣ ವಜ್ರದಲ್ಲಿನ ಪರಮಾಣುಗಳ ಬಲವಾದ ಜೋಡಣೆ.",
+  "script_display": "ಈಗ ಅಲೋಹಗಳಲ್ಲಿನ ಕೆಲವು ಆಸಕ್ತಿದಾಯಕ ಅಪವಾದಗಳನ್ನು ನೋಡೋಣ. ಅಲೋಹಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಹೊಳಪನ್ನು (lustre) ಹೊಂದಿರುವುದಿಲ್ಲ. ಆದರೆ, ಅಯೋಡಿನ್ (Iodine, I) ಒಂದು ಅಲೋಹವಾಗಿದ್ದರೂ, ಲೋಹಗಳಂತೆ ಹೊಳೆಯುವ ಗುಣವನ್ನು (ಕಾಂತಿ) ಹೊಂದಿದೆ. ಮತ್ತೊಂದು ಪ್ರಮುಖ ಅಪವಾದ ಇಂಗಾಲ (Carbon, C). ಇಂಗಾಲದ ಬಹುರೂಪವಾದ ವಜ್ರವು (Diamond) ನಮಗೆ ತಿಳಿದಿರುವ ಅತ್ಯಂತ ಕಠಿಣವಾದ ನೈಸರ್ಗಿಕ ವಸ್ತುವಾಗಿದೆ. ಇದು ಅಲೋಹವಾದರೂ, ಇದರ ಕಠಿಣತೆ ಅಸಾಧಾರಣ. ಇದಕ್ಕೆ ಕಾರಣ ವಜ್ರದಲ್ಲಿನ ಪರಮಾಣುಗಳ ಬಲವಾದ ಜೋಡಣೆ.",
+  "display_bullets": [
+    "ಅಯೋಡಿನ್ (I): ಅಲೋಹವಾಗಿದ್ದರೂ ಲೋಹದಂತಹ ಹೊಳಪನ್ನು (ಕಾಂತಿ) ಹೊಂದಿದೆ.",
+    "ಇಂಗಾಲ (C) - ವಜ್ರ: ಅಲೋಹದ ಬಹುರೂಪ, ಆದರೆ ಅತ್ಯಂತ ಕಠಿಣವಾದ ನೈಸರ್ಗಿಕ ವಸ್ತು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split image. On the left, dark, shiny crystals of solid iodine are shown, demonstrating their lustre. On the right, a rough, uncut diamond is shown, emphasizing its natural, hard crystalline form.",
+    "labels": "ಹೊಳಪുള്ള ಅಯೋಡಿನ್ ಹರಳುಗಳು, ಕಠಿಣವಾದ ವಜ್ರ",
+    "scientific_significance": "Highlights two key exceptions for non-metals: Iodine's metallic lustre and the extreme hardness of diamond, an allotrope of carbon.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_3_chunk_010"
+}

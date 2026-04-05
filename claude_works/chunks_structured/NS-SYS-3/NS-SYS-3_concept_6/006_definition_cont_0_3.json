@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯೆ 2: ಋಣಾತ್ಮಕ ಘಾತಸೂಚಿ (Negative Exponent)",
+  "script": "ಈಗ ಋಣಾತ್ಮಕ ಘಾತಸೂಚಿಗಳನ್ನು ನೋಡೋಣ. a ಒಂದು ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆ ಮತ್ತು n ಒಂದು ಧನ ಪೂರ್ಣಾಂಕವಾಗಿದ್ದರೆ, a ಯ ಘಾತ ಮೈನಸ್ n, ಒಂದನ್ನು a ಯ ಘಾತ n ನಿಂದ ಭಾಗಿಸಿದಾಗ ಬರುವ частಕ್ಕೆ ಸಮ. ಅಂದರೆ, a to the power minus n equals one by a to the power n. ಋಣಾತ್ಮಕ ಘಾತವು ಸಂಖ್ಯೆಯ ವ್ಯುತ್ಕ್ರಮವನ್ನು (reciprocal) ತೆಗೆದುಕೊಳ್ಳುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಏಳರ ಘಾತ ಮೈನಸ್ ಎರಡು ಎಂದರೆ, ಒಂದನ್ನು ಏಳರ ಘಾತ ಎರಡರಿಂದ ಭಾಗಿಸುವುದು. ಅಂದರೆ ಒಂದು ಬೈ ನಲವತ್ತೊಂಬತ್ತು. ಈ ನಿಯಮವು ಭಿನ್ನರಾಶಿಗಳನ್ನು ಮೇಲಕ್ಕೆ ಅಥವಾ ಕೆಳಕ್ಕೆ ಸರಿಸಲು ಬಹಳ ಸಹಾಯಕವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಋಣಾತ್ಮಕ ಘಾತಸೂಚಿಗಳನ್ನು ನೋಡೋಣ. $a$ ಒಂದು ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆ ಮತ್ತು $n$ ಒಂದು ಧನ ಪೂರ್ಣಾಂಕವಾಗಿದ್ದರೆ, $a^{-n} = \\frac{1}{a^n}$. ಋಣಾತ್ಮಕ ಘಾತವು ಸಂಖ್ಯೆಯ ವ್ಯುತ್ಕ್ರಮವನ್ನು (reciprocal) ತೆಗೆದುಕೊಳ್ಳುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, $7^{-2}$ ಎಂದರೆ, $\\frac{1}{7^2}$. ಅಂದರೆ $\\frac{1}{49}$. ಈ ನಿಯಮವು ಭಿನ್ನರಾಶಿಗಳನ್ನು ಮೇಲಕ್ಕೆ ಅಥವಾ ಕೆಳಕ್ಕೆ ಸರಿಸಲು ಬಹಳ ಸಹಾಯಕವಾಗಿದೆ.",
+  "display_bullets": [
+    "ನಿಯಮ: $a > 0$ ಮತ್ತು $n$ ಧನ ಪೂರ್ಣಾಂಕವಾದಾಗ, $a^{-n} = \\frac{1}{a^n}$.",
+    "ಅರ್ಥ: ಋಣಾತ್ಮಕ ಘಾತ ಎಂದರೆ ಆಧಾರದ ಘಾತೀಯ ಪದದ ವ್ಯುತ್ಕ್ರಮ.",
+    "ಉದಾಹರಣೆ: $7^{-2} = \\frac{1}{7^2} = \\frac{1}{49}$.",
+    "ಉಪಯೋಗ: ಪದಗಳನ್ನು ಅಂಶದಿಂದ ಛೇದಕ್ಕೆ ಅಥವಾ ಛೇದದಿಂದ ಅಂಶಕ್ಕೆ ಸರಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_centered",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "a^{-n} = \\frac{1}{a^n}",
+    "placeholder_note": "A formula box showing the rule for negative exponents."
+  },
+  "chunk_id": "NS-SYS-3_concept_6_chunk_006"
+}

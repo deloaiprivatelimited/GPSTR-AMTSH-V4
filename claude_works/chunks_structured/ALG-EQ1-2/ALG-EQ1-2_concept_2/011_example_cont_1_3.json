@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 7-8",
+  "script": "ಈಗ ನಾವು ಅಂತಿಮ ಹಂತದಲ್ಲಿದ್ದೇವೆ. ನಮ್ಮಲ್ಲಿ ಏಳು ಎಕ್ಸ್ ಸಮ ಮೈನಸ್ ಮೂವತ್ತೈದು ಇದೆ. ಎಕ್ಸ್ ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳನ್ನು ಏಳರಿಂದ ಭಾಗಿಸಬೇಕು. ಆಗ ಎಕ್ಸ್ ಸಮ ಮೈನಸ್ ಮೂವತ್ತೈದರ ಭಾಗ ಏಳು ಎಂದಾಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಮೈನಸ್ ಮೂವತ್ತೈದನ್ನು ಏಳರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ ಮೈನಸ್ ಐದು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಪರಿಹಾರವು ಎಕ್ಸ್ ಸಮ ಮೈನಸ್ ಐದು.",
+  "script_display": "ಈಗ ನಾವು ಅಂತಿಮ ಹಂತದಲ್ಲಿದ್ದೇವೆ. ನಮ್ಮಲ್ಲಿ $7x = -35$ ಇದೆ. $x$ ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳನ್ನು 7 ರಿಂದ ಭಾಗಿಸಬೇಕು. ಆಗ $x = \\frac{-35}{7}$ ಎಂದಾಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, -35 ಅನ್ನು 7 ರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ -5 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಪರಿಹಾರವು $x = -5$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ1-2_example_2",
+  "steps": [
+    {
+      "step": 7,
+      "action_display": "$x = \\frac{-35}{7}$",
+      "justification": "$x$ ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಎರಡೂ ಬದಿಗಳನ್ನು 7 ರಿಂದ ಭಾಗಿಸುವುದು."
+    },
+    {
+      "step": 8,
+      "action_display": "$x = -5$",
+      "justification": "ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರ."
+    }
+  ],
+  "chunk_id": "ALG-EQ1-2_concept_2_chunk_011"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ರೋಧ: ಒಂದು ಹೋಲಿಕೆ",
+  "script": "ರೋಧದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಾವು ನೀರಿನ ಪೈಪಿನ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಒಂದು ಅಗಲವಾದ ಪೈಪಿನಲ್ಲಿ ನೀರು ಯಾವುದೇ ಅಡೆತಡೆಯಿಲ್ಲದೆ, ಸುಲಭವಾಗಿ ಹರಿಯುತ್ತದೆ. ಇದು ಕಡಿಮೆ ರೋಧವನ್ನು ಹೊಂದಿರುವ ತಾಮ್ರದ ತಂತಿಯಂತೆ. ಈಗ, ಅದೇ ಪೈಪನ್ನು ಕಿರಿದಾಗಿಸಿದರೆ, ನೀರಿನ ಹರಿವಿಗೆ ಅಡಚಣೆಯಾಗುತ್ತದೆ ಮತ್ತು ಹರಿವಿನ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಇದು ಹೆಚ್ಚು ರೋಧವನ್ನು ಹೊಂದಿರುವ ವಾಹಕದಂತೆ. ಇಲ್ಲಿ, ನೀರಿನ ಹರಿವು ವಿದ್ಯುತ್ ಪ್ರವಾಹಕ್ಕೆ ಸಮಾನವಾದರೆ, ಪೈಪಿನ ಅಡಚಣೆಯು ವಾಹಕದ ರೋಧಕ್ಕೆ ಸಮಾನ.",
+  "script_display": "ರೋಧದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಾವು ನೀರಿನ ಪೈಪಿನ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಒಂದು ಅಗಲವಾದ ಪೈಪಿನಲ್ಲಿ ನೀರು ಯಾವುದೇ ಅಡೆತಡೆಯಿಲ್ಲದೆ, ಸುಲಭವಾಗಿ ಹರಿಯುತ್ತದೆ. ಇದು ಕಡಿಮೆ ರೋಧವನ್ನು ಹೊಂದಿರುವ ತಾಮ್ರದ ತಂತಿಯಂತೆ. ಈಗ, ಅದೇ ಪೈಪನ್ನು ಕಿರಿದಾಗಿಸಿದರೆ, ನೀರಿನ ಹರಿವಿಗೆ ಅಡಚಣೆಯಾಗುತ್ತದೆ ಮತ್ತು ಹರಿವಿನ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಇದು ಹೆಚ್ಚು ರೋಧವನ್ನು ಹೊಂದಿರುವ ವಾಹಕದಂತೆ. ಇಲ್ಲಿ, ನೀರಿನ ಹರಿವು ವಿದ್ಯುತ್ ಪ್ರವಾಹಕ್ಕೆ (Current) ಸಮಾನವಾದರೆ, ಪೈಪಿನ ಅಡಚಣೆಯು ವಾಹಕದ ರೋಧಕ್ಕೆ (Resistance) ಸಮಾನ.",
+  "display_bullets": [
+    "ಅಗಲವಾದ ಪೈಪ್‌ನಲ್ಲಿ ನೀರಿನ ಸುಲಭ ಹರಿವು → ಕಡಿಮೆ ರೋಧ.",
+    "ಕಿರಿದಾದ ಪೈಪ್‌ನಲ್ಲಿ ನೀರಿನ ಹರಿವಿಗೆ ಅಡಚಣೆ → ಹೆಚ್ಚು ರೋಧ.",
+    "ನೀರಿನ ಹರಿವು ≈ ವಿದ್ಯುತ್ ಪ್ರವಾಹ (Current)",
+    "ಪೈಪ್‌ನ ಅಡಚಣೆ ≈ ವಾಹಕದ ರೋಧ (Resistance)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An analogy for electrical resistance. On the left, a wide, clear pipe labeled 'ಕಡಿಮೆ ರೋಧ (Low Resistance)' allows a large volume of water labeled 'ನೀರಿನ ಹರಿವು (Water Flow)' to pass through easily. On the right, a narrow, constricted pipe labeled 'ಹೆಚ್ಚು ರೋಧ (High Resistance)' restricts the water flow, allowing only a small amount to pass. The water flow is analogous to electric current.",
+    "labels": "Wide Pipe, Narrow Pipe, Water Flow, Low Resistance, High Resistance",
+    "scientific_significance": "This analogy helps visualize resistance as a physical obstruction to flow, making the abstract electrical concept more intuitive. Low resistance allows high current, while high resistance impedes current.",
+    "placeholder_note": "Generate a two-panel image showing the water pipe analogy for electrical resistance."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_11_concept_3_chunk_004"
+}

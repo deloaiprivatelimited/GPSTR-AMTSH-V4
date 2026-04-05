@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಪೆನ್‌ನಲ್ಲಿರುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈಗ ಒಂದು ದೈನಂದಿನ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಿಮ್ಮ ಕೈಯಲ್ಲಿರುವ ಪೆನ್ ಅನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ, ಪೆನ್ ಎನ್ನುವುದು ಒಂದು 'ವಸ್ತು'. ಆದರೆ ಈ ವಸ್ತುವನ್ನು ಒಂದೇ ಪದಾರ್ಥದಿಂದ ಮಾಡಲಾಗಿದೆಯೇ? ಇಲ್ಲ. ಪೆನ್ನಿನ ಹೊರಭಾಗ, ಅಂದರೆ ಅದರ ದೇಹವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಪ್ಲಾಸ್ಟಿಕ್‌ನಿಂದ ಮಾಡಿರುತ್ತಾರೆ. ಅದರ ನಿಬ್, ಅಂದರೆ ಬರೆಯುವ ತುದಿ, ಲೋಹದಿಂದ ಮಾಡಲ್ಪಟ್ಟಿರುತ್ತದೆ. ಮತ್ತು ಮುಖ್ಯವಾಗಿ, ಬರೆಯಲು ಬೇಕಾದ ಶಾಯಿಯೂ ಒಂದು ದ್ರವ ಪದಾರ್ಥ. ಹಾಗಾಗಿ, ಒಂದು ಪೆನ್ ಎಂಬ ವಸ್ತುವನ್ನು ತಯಾರಿಸಲು ಪ್ಲಾಸ್ಟಿಕ್, ಲೋಹ, ಮತ್ತು ಶಾಯಿಯಂತಹ ಹಲವು ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ.",
+  "script_display": "ಈಗ ಒಂದು ದೈನಂದಿನ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಿಮ್ಮ ಕೈಯಲ್ಲಿರುವ ಪೆನ್ ಅನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ, ಪೆನ್ ಎನ್ನುವುದು ಒಂದು 'ವಸ್ತು' (Object). ಆದರೆ ಈ ವಸ್ತುವನ್ನು ಒಂದೇ ಪದಾರ್ಥದಿಂದ ಮಾಡಲಾಗಿದೆಯೇ? ಇಲ್ಲ. ಪೆನ್ನಿನ ಹೊರಭಾಗ, ಅಂದರೆ ಅದರ ದೇಹವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಪ್ಲಾಸ್ಟಿಕ್‌ನಿಂದ ಮಾಡಿರುತ್ತಾರೆ. ಅದರ ನಿಬ್, ಅಂದರೆ ಬರೆಯುವ ತುದಿ, ಲೋಹದಿಂದ ಮಾಡಲ್ಪಟ್ಟಿರುತ್ತದೆ. ಮತ್ತು ಮುಖ್ಯವಾಗಿ, ಬರೆಯಲು ಬೇಕಾದ ಶಾಯಿಯೂ ಒಂದು ದ್ರವ ಪದಾರ್ಥ. ಹಾಗಾಗಿ, ಒಂದು ಪೆನ್ ಎಂಬ ವಸ್ತುವನ್ನು ತಯಾರಿಸಲು ಪ್ಲಾಸ್ಟಿಕ್, ಲೋಹ, ಮತ್ತು ಶಾಯಿಯಂತಹ ಹಲವು ಸಾಮಗ್ರಿಗಳು (Materials) ಬೇಕಾಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ವಸ್ತು (Object): ಪೆನ್",
+    "ಬಳಸಿದ ಸಾಮಗ್ರಿಗಳು (Materials):",
+    "ಪ್ಲಾಸ್ಟಿಕ್ (ದೇಹಕ್ಕಾಗಿ)",
+    "ಲೋಹ (ನಿಬ್‌ಗಾಗಿ)",
+    "ಶಾಯಿ (ಬರೆಯಲು)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a ballpoint pen, with arrows pointing to its different parts. An arrow points to the main body, labeled 'ಪ್ಲಾಸ್ಟಿಕ್ (Plastic)'. Another arrow points to the tip/nib, labeled 'ಲೋಹ (Metal)'. A third arrow points to the ink cartridge inside, labeled 'ಶಾಯಿ (Ink)'.",
+    "labels": "ಪೆನ್, ಪ್ಲಾಸ್ಟಿಕ್, ಲೋಹ, ಶಾಯಿ",
+    "scientific_significance": "This visual breaks down a common object (pen) into its constituent materials (plastic, metal, ink), reinforcing the definition of 'material' and illustrating that objects can be made of multiple materials.",
+    "placeholder_note": "Image to be generated showing a pen with its parts labeled by material."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_6_concept_1_chunk_003"
+}

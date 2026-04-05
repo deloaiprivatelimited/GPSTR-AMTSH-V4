@@ -1,0 +1,92 @@
+{
+  "module_id": "std_8_science_chapter_11_concept_6",
+  "chapter_code": "std_8_chapter_11",
+  "voice": "Gacrux",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:39:23",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "333ee75fea1c7ad921f71a124ff21d4c",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.411,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 38,
+      "generated_at": "2026-04-02 14:38:04"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "de2061abc5b9ab7ddaddd8aabc555a0d",
+      "wav_file": "001_intro_0.wav",
+      "duration": 64.531,
+      "slide_title": "ವಿದ್ಯುಲ್ಲೇಪನದ ಅನ್ವಯಗಳು ಮತ್ತು ಪರಿಸರ ಕಾಳಜಿ",
+      "type": "intro",
+      "script_words": 74,
+      "generated_at": "2026-04-02 14:38:25"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "89de9d9558ccabc95c88dd076b94a704",
+      "wav_file": "003_property_0.wav",
+      "duration": 45.371,
+      "slide_title": "ಕ್ರೋಮಿಯಂ ಲೇಪನ (Chromium Plating)",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 14:38:26"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "d659abe182f0655f3889edcc4489965c",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 43.531,
+      "slide_title": "ಬೆಳ್ಳಿ/ಚಿನ್ನದ ಲೇಪನ (Silver/Gold Plating)",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 14:38:38"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "3c4097c33aea864c33e3a6d91d26ea0e",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 47.251,
+      "slide_title": "ತವರದ ಲೇಪನ (Tin Plating)",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 14:38:41"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "2970258d9f548dec5577caa84999432f",
+      "wav_file": "007_recap_0.wav",
+      "duration": 39.091,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 14:39:15"
+    },
+    "006_property_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "b80fbca07bbe2be00c769f56756bb0a2",
+      "wav_file": "006_property_1.wav",
+      "duration": 53.011,
+      "slide_title": "ಅನ್ವಯಗಳು: ಸತುವಿನ ಲೇಪನ (ಗ್ಯಾಲ್ವನೀಕರಣ)",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 14:39:23"
+    }
+  }
+}

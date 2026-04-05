@@ -1,0 +1,89 @@
+{
+  "module_id": "VIS-CON-1_concept_5",
+  "voice": "Gacrux",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 318.237,
+  "total_duration_formatted": "5:18",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "VIS-CON-1_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಎರಡು ಬಿಂದುಗಳಿಂದ ಸಮದೂರದಲ್ಲಿರುವ ಬಿಂದುವಿನ ರಚನೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 53.931,
+      "duration": 53.931,
+      "script_words": 87
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 54.531,
+      "end": 82.262,
+      "duration": 27.731,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_5_chunk_003",
+      "chunk_file": "003_example_0.json",
+      "wav_file": "003_example_0.wav",
+      "slide_title": "ಸಮಸ್ಯೆ: ಸಮದೂರದಲ್ಲಿರುವ ಬಿಂದುವಿನ ರಚನೆ",
+      "type": "worked_example",
+      "start": 82.862,
+      "end": 124.873,
+      "duration": 42.011,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_5_chunk_004",
+      "chunk_file": "004_example_cont_0_1.json",
+      "wav_file": "004_example_cont_0_1.wav",
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 1",
+      "type": "worked_example",
+      "start": 125.473,
+      "end": 176.844,
+      "duration": 51.371,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_5_chunk_005",
+      "chunk_file": "005_example_cont_0_2.json",
+      "wav_file": "005_example_cont_0_2.wav",
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 2",
+      "type": "worked_example",
+      "start": 177.444,
+      "end": 225.295,
+      "duration": 47.851,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_5_chunk_006",
+      "chunk_file": "006_example_cont_0_3.json",
+      "wav_file": "006_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಫಲಿತಾಂಶ",
+      "type": "worked_example",
+      "start": 225.895,
+      "end": 261.746,
+      "duration": 35.851,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_5_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಸಮದೂರ ಬಿಂದುವಿನ ರಚನೆ",
+      "type": "recap",
+      "start": 262.346,
+      "end": 317.637,
+      "duration": 55.291,
+      "script_words": 62
+    }
+  ]
+}

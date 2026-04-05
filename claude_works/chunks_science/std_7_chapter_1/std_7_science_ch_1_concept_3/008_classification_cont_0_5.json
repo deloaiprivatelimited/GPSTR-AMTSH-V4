@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಹಜೀವನ: ಇನ್ನೊಂದು ಉದಾಹರಣೆ",
+  "script": "ಸಹಜೀವನಕ್ಕೆ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಉದಾಹರಣೆ ರೈಜೋಬಿಯಮ್ ಬ್ಯಾಕ್ಟೀರಿಯಾ. ಈ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ದ್ವಿದಳ ಧಾನ್ಯ ಸಸ್ಯಗಳಾದ ಕಡಲೆ, ಬಟಾಣಿ ಮುಂತಾದವುಗಳ ಬೇರುಗಳಲ್ಲಿನ ಗಂಟುಗಳಲ್ಲಿ ವಾಸಿಸುತ್ತವೆ. ಇವು ವಾತಾವರಣದಲ್ಲಿರುವ ನೈಟ್ರೋಜನ್ ಅನ್ನು ಸಸ್ಯಗಳು ಬಳಸಬಹುದಾದ ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸಿ ಒದಗಿಸುತ್ತವೆ. ಇದಕ್ಕೆ ಪ್ರತಿಯಾಗಿ, ಸಸ್ಯವು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳಿಗೆ ಆಹಾರ ಮತ್ತು ವಾಸಿಸಲು ಆಶ್ರಯವನ್ನು ನೀಡುತ್ತದೆ. ಈ ಸಂಬಂಧವು ರೈತರಿಗೆ ಬಹಳ ಉಪಯುಕ್ತ, ಏಕೆಂದರೆ ಇದು ಮಣ್ಣಿನ ಫಲವತ್ತತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+  "script_display": "ಸಹಜೀವನಕ್ಕೆ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಉದಾಹರಣೆ ರೈಜೋಬಿಯಮ್ ಬ್ಯಾಕ್ಟೀರಿಯಾ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ 2: ರೈಜೋಬಿಯಮ್ ಬ್ಯಾಕ್ಟೀರಿಯಾ (Rhizobium Bacteria).",
+    "ವಿವರಣೆ: ದ್ವಿದಳ ಧಾನ್ಯ ಸಸ್ಯಗಳ ಬೇರಿನ ಗಂಟುಗಳಲ್ಲಿ ವಾಸಿಸುತ್ತವೆ.",
+    "ಕಾರಣ: ಬ್ಯಾಕ್ಟೀರಿಯಾ ನೈಟ್ರೋಜನ್ ಒದಗಿಸಿದರೆ, ಸಸ್ಯವು ಆಹಾರ ಮತ್ತು ಆಶ್ರಯ ನೀಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_light",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of the root system of a leguminous plant (like a pea plant). The roots should have clearly visible small, round nodules on them. A magnified inset can show bacteria inside a nodule.",
+    "labels": "ಬೇರುಗಳು (Roots), ಬೇರಿನ ಗಂಟುಗಳು (Root Nodules)",
+    "scientific_significance": "Shows the symbiotic relationship between Rhizobium bacteria and leguminous plants, a key process in biological nitrogen fixation.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_science_ch_1_concept_3_chunk_008"
+}

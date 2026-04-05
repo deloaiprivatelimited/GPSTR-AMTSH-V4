@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ನಾವು ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 3.35 ರಲ್ಲಿ RENT ಒಂದು ಆಯತ. ಅದರ ಕರ್ಣಗಳು 'O' ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸಿವೆ. ನಮಗೆ OR ನ ಬೆಲೆ ಎರಡು x ಪ್ಲಸ್ ನಾಲ್ಕು ಮತ್ತು OT ನ ಬೆಲೆ ಮೂರು x ಪ್ಲಸ್ ಒಂದು ಎಂದು ಕೊಡಲಾಗಿದೆ. ನಾವು x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಕೊಟ್ಟಿರುವ ಆಕೃತಿ RENT ಒಂದು ಆಯತ. ಕರ್ಣಗಳು 'O' ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸುತ್ತವೆ. ಕೊಟ್ಟಿರುವ ಬೆಲೆಗಳು OR ಸಮ ಎರಡು x ಪ್ಲಸ್ ನಾಲ್ಕು ಮತ್ತು OT ಸಮ ಮೂರು x ಪ್ಲಸ್ ಒಂದು. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು x ನ ಬೆಲೆ.",
+  "script_display": "ಈಗ ನಾವು ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 3.35 ರಲ್ಲಿ RENT ಒಂದು ಆಯತ. ಅದರ ಕರ್ಣಗಳು 'O' ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸಿವೆ. ನಮಗೆ $OR = 2x + 4$ ಮತ್ತು $OT = 3x + 1$ ಎಂದು ಕೊಡಲಾಗಿದೆ. ನಾವು $x$ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಆಕೃತಿ: RENT ಒಂದು ಆಯತ.",
+    "ಕರ್ಣಗಳು 'O' ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸುತ್ತವೆ.",
+    "ಕೊಟ್ಟಿರುವ ಬೆಲೆಗಳು: $OR = 2x + 4$ ಮತ್ತು $OT = 3x + 1$.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $x$ ನ ಬೆಲೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಆಯತ RENT, ಕರ್ಣಗಳು RE ಮತ್ತು NT 'O' ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. OR ಮತ್ತು OT ಭಾಗಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "R, E, N, T, O",
+    "mathematical_significance": "ಆಯತದ ಕರ್ಣಗಳ ಗುಣಲಕ್ಷಣಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ, ಅಂದರೆ OR = ON ಮತ್ತು OT = OE.",
+    "placeholder_note": "Image to be generated for figure 3.35. A rectangle RENT with diagonals RE and NT intersecting at O. The segments OR and OT should be highlighted."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "GEO-QUAD-1_example_8",
+  "chunk_id": "GEO-QUAD-1_concept_5_chunk_024"
+}

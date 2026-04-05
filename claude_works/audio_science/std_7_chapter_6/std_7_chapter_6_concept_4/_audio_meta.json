@@ -1,0 +1,114 @@
+{
+  "module_id": "std_7_chapter_6_concept_4",
+  "chapter_code": "std_7_chapter_6",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:34:33",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "aff908be8f130d9e4756292c27a93583",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 29.931,
+      "slide_title": "ಪೂರ್ವ-ಅವಶ್ಯಕತೆಗಳು",
+      "type": "chunk",
+      "script_words": 46,
+      "generated_at": "2026-04-02 16:33:09"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "99f7e65026f1754d0c93f12b95525182",
+      "wav_file": "001_intro_0.wav",
+      "duration": 57.531,
+      "slide_title": "ಮಾನವರಲ್ಲಿ ಶ್ವಾಸಕ್ರಿಯೆಯ ಕಾರ್ಯವಿಧಾನ",
+      "type": "chunk",
+      "script_words": 78,
+      "generated_at": "2026-04-02 16:33:27"
+    },
+    "003_experiment_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "d060640796ba31ab955c2f89ccc64623",
+      "wav_file": "003_experiment_0.wav",
+      "duration": 43.211,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಶ್ವಾಸಕ್ರಿಯೆಯ ಮಾದರಿ ತಯಾರಿಕೆ",
+      "type": "experiment_activity",
+      "script_words": 58,
+      "generated_at": "2026-04-02 16:33:35"
+    },
+    "005_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "34b284f7c75d178a432536ada7eb9567",
+      "wav_file": "005_experiment_cont_0_2.wav",
+      "duration": 44.931,
+      "slide_title": "ಮಾದರಿ ಜೋಡಣೆ: ಹಂತ 3",
+      "type": "experiment_activity",
+      "script_words": 60,
+      "generated_at": "2026-04-02 16:33:37"
+    },
+    "004_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "442f8295103e2348cd518add1e174617",
+      "wav_file": "004_experiment_cont_0_1.wav",
+      "duration": 50.411,
+      "slide_title": "ಮಾದರಿ ಜೋಡಣೆ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "experiment_activity",
+      "script_words": 51,
+      "generated_at": "2026-04-02 16:33:39"
+    },
+    "007_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "ffe6d11e974e25114fff6819f57706a6",
+      "wav_file": "007_experiment_cont_0_4.wav",
+      "duration": 43.611,
+      "slide_title": "ಗಮನಿಸುವಿಕೆ: ನಿಶ್ವಾಸ (Exhalation)",
+      "type": "experiment_activity",
+      "script_words": 59,
+      "generated_at": "2026-04-02 16:34:15"
+    },
+    "008_experiment_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "cb8ae81c243c8b8cbd0a89b0ce612743",
+      "wav_file": "008_experiment_cont_0_5.wav",
+      "duration": 41.531,
+      "slide_title": "ತೀರ್ಮಾನ: ಈ ಚಟುವಟಿಕೆಯಿಂದ ನಾವೇನು ಕಲಿತೆವು?",
+      "type": "experiment_activity",
+      "script_words": 58,
+      "generated_at": "2026-04-02 16:34:15"
+    },
+    "006_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "a005bd1421b3277f8fe569f8f466f911",
+      "wav_file": "006_experiment_cont_0_3.wav",
+      "duration": 44.731,
+      "slide_title": "ಗಮನಿಸುವಿಕೆ: ಉಚ್ಛಾಸ (Inhalation)",
+      "type": "experiment_activity",
+      "script_words": 57,
+      "generated_at": "2026-04-02 16:34:33"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "1b37eb1b89e3eb691b090fa11c643bae",
+      "wav_file": "009_recap_0.wav",
+      "duration": 44.971,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 63,
+      "generated_at": "2026-04-02 16:34:33"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಹಂತ 2",
+  "script": "ಶ್ರುತಿಕವೆಯು ಇನ್ನೂ ಕಂಪಿಸುತ್ತಿರುವಾಗ, ನಿಮ್ಮ ಬೆರಳ ತುದಿಯಿಂದ ಅದರ ಒಂದು ತೋಳನ್ನು ನಿಧಾನವಾಗಿ ಸ್ಪರ್ಶಿಸಿ. ನಿಮಗೆ ಏನು ಅನುಭವವಾಗುತ್ತದೆ? ನಿಮ್ಮ ಬೆರಳಿಗೆ ಒಂದು ರೀತಿಯ ನಡುಕ ಅಥವಾ ಕಂಪನದ ಅನುಭವವಾಗುತ್ತದೆ. ನೀವು ಸ್ಪರ್ಶಿಸಿದ ತಕ್ಷಣ, ಶ್ರುತಿಕವೆಯ ಕಂಪನವು ನಿಲ್ಲುತ್ತದೆ ಮತ್ತು ಅದೇ ಸಮಯದಲ್ಲಿ ಶಬ್ದವೂ ಕೂಡ ನಿಂತುಹೋಗುತ್ತದೆ. ಇದರಿಂದ, ಕಂಪನಕ್ಕೂ ಶಬ್ದಕ್ಕೂ ನೇರವಾದ ಸಂಬಂಧವಿದೆ ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ಕಂಪನವಿದ್ದಾಗ ಶಬ್ದವಿರುತ್ತದೆ, ಕಂಪನ ನಿಂತರೆ ಶಬ್ದವೂ ನಿಲ್ಲುತ್ತದೆ.",
+  "script_display": "ಶ್ರುತಿಕವೆಯು ಇನ್ನೂ ಕಂಪಿಸುತ್ತಿರುವಾಗ, ನಿಮ್ಮ ಬೆರಳ ತುದಿಯಿಂದ ಅದರ ಒಂದು ತೋಳನ್ನು ನಿಧಾನವಾಗಿ ಸ್ಪರ್ಶಿಸಿ. ನಿಮಗೆ ಏನು ಅನುಭವವಾಗುತ್ತದೆ? ನಿಮ್ಮ ಬೆರಳಿಗೆ ಒಂದು ರೀತಿಯ ನಡುಕ ಅಥವಾ ಕಂಪನದ ಅನುಭವವಾಗುತ್ತದೆ. ನೀವು ಸ್ಪರ್ಶಿಸಿದ ತಕ್ಷಣ, ಶ್ರುತಿಕವೆಯ ಕಂಪನವು ನಿಲ್ಲುತ್ತದೆ ಮತ್ತು ಅದೇ ಸಮಯದಲ್ಲಿ ಶಬ್ದವೂ ಕೂಡ ನಿಂತುಹೋಗುತ್ತದೆ. ಇದರಿಂದ, ಕಂಪನಕ್ಕೂ ಶಬ್ದಕ್ಕೂ ನೇರವಾದ ಸಂಬಂಧವಿದೆ ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ಕಂಪನವಿದ್ದಾಗ ಶಬ್ದವಿರುತ್ತದೆ, ಕಂಪನ ನಿಂತರೆ ಶಬ್ದವೂ ನಿಲ್ಲುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕಂಪಿಸುತ್ತಿರುವ ಶ್ರುತಿಕವೆಯ ತೋಳನ್ನು ಬೆರಳಿನಿಂದ ಸ್ಪರ್ಶಿಸಿ.",
+    "ಕಂಪನ ಮತ್ತು ಶಬ್ದ ಎರಡೂ ನಿಲ್ಲುವುದನ್ನು ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a finger touching one of the prongs of a vibrating tuning fork. The vibration lines should disappear upon contact.",
+    "labels": "ಬೆರಳು, ಶ್ರುತಿಕವೆ, ಕಂಪನ ನಿಲ್ಲುತ್ತದೆ",
+    "scientific_significance": "Shows the direct correlation between physical vibration and sound production by demonstrating that stopping the vibration also stops the sound.",
+    "placeholder_note": "Image to be generated showing a finger stopping the vibration."
+  },
+  "sub_type": "experiment_walkthrough",
+  "chunk_id": "std_9_chapter_11_concept_1_chunk_012"
+}

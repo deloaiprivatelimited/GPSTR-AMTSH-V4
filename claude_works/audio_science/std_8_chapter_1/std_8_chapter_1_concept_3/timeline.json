@@ -1,0 +1,90 @@
+{
+  "module_id": "std_8_chapter_1_concept_3",
+  "chapter_code": "std_8_chapter_1",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 275.237,
+  "total_duration_formatted": "4:35",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_1_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಕೃಷಿ ಪದ್ಧತಿಗಳು: ಬಿತ್ತನೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 47.851,
+      "duration": 47.851,
+      "script_words": 80
+    },
+    {
+      "chunk_id": "std_8_chapter_1_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 48.451,
+      "end": 76.902,
+      "duration": 28.451,
+      "script_words": 40
+    },
+    {
+      "chunk_id": "std_8_chapter_1_concept_3_chunk_003",
+      "chunk_file": "003_experiment_0.json",
+      "wav_file": "003_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ 1.1: ಉತ್ತಮ ಬೀಜಗಳ ಆಯ್ಕೆ",
+      "type": "experiment_activity",
+      "start": 77.502,
+      "end": 119.313,
+      "duration": 41.811,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_8_chapter_1_concept_3_chunk_004",
+      "chunk_file": "004_experiment_cont_0_1.json",
+      "wav_file": "004_experiment_cont_0_1.wav",
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+      "type": "experiment_activity",
+      "start": 119.913,
+      "end": 160.484,
+      "duration": 40.571,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_8_chapter_1_concept_3_chunk_005",
+      "chunk_file": "005_experiment_cont_0_2.json",
+      "wav_file": "005_experiment_cont_0_2.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ (Observation)",
+      "type": "experiment_activity",
+      "start": 161.084,
+      "end": 193.615,
+      "duration": 32.531,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_8_chapter_1_concept_3_chunk_006",
+      "chunk_file": "006_experiment_cont_0_3.json",
+      "wav_file": "006_experiment_cont_0_3.wav",
+      "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+      "type": "experiment_activity",
+      "start": 194.215,
+      "end": 236.386,
+      "duration": 42.171,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_8_chapter_1_concept_3_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 236.986,
+      "end": 274.637,
+      "duration": 37.651,
+      "script_words": 54
+    }
+  ]
+}

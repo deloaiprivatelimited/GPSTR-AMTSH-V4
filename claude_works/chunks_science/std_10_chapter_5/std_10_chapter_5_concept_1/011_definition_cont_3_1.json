@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಆಹಾರ ಸರಪಳಿ",
+  "script": "ಪರಪೋಷಕ ಪೋಷಣೆಯನ್ನು ಒಂದು ಸರಳ ಆಹಾರ ಸರಪಳಿಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಮೊದಲಿಗೆ, ಹುಲ್ಲು ಸೂರ್ಯನ ಶಕ್ತಿಯನ್ನು ಬಳಸಿ ಆಹಾರ ತಯಾರಿಸುತ್ತದೆ, ಆದ್ದರಿಂದ ಅದು ಸ್ವಪೋಷಕ. ನಂತರ, ಜಿಂಕೆಯು ಈ ಹುಲ್ಲನ್ನು ತಿನ್ನುತ್ತದೆ. ಜಿಂಕೆ ತನ್ನ ಆಹಾರಕ್ಕಾಗಿ ಹುಲ್ಲನ್ನು ಅವಲಂಬಿಸಿರುವುದರಿಂದ, ಅದು ಒಂದು ಪರಪೋಷಕ. ಮುಂದೆ, ಸಿಂಹವು ಜಿಂಕೆಯನ್ನು ಬೇಟೆಯಾಡಿ ತಿನ್ನುತ್ತದೆ. ಸಿಂಹ ಕೂಡ ತನ್ನ ಆಹಾರಕ್ಕಾಗಿ ಜಿಂಕೆಯನ್ನು ಅವಲಂಬಿಸಿದೆ, ಹಾಗಾಗಿ ಸಿಂಹವೂ ಒಂದು ಪರಪೋಷಕ. ಈ ರೀತಿ ಪರಪೋಷಕಗಳು ಶಕ್ತಿಗಾಗಿ ಇತರ ಜೀವಿಗಳನ್ನು ಅವಲಂಬಿಸಿವೆ.",
+  "script_display": "ಪರಪೋಷಕ ಪೋಷಣೆಯನ್ನು ಒಂದು ಸರಳ ಆಹಾರ ಸರಪಳಿಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಮೊದಲಿಗೆ, ಹುಲ್ಲು (ಸ್ವಪೋಷಕ) ಸೂರ್ಯನ ಶಕ್ತಿಯನ್ನು ಬಳಸಿ ಆಹಾರ ತಯಾರಿಸುತ್ತದೆ. ನಂತರ, ಜಿಂಕೆಯು (ಪರಪೋಷಕ) ಈ ಹುಲ್ಲನ್ನು ತಿನ್ನುತ್ತದೆ. ಜಿಂಕೆ ತನ್ನ ಆಹಾರಕ್ಕಾಗಿ ಹುಲ್ಲನ್ನು ಅವಲಂಬಿಸಿರುವುದರಿಂದ, ಅದು ಒಂದು ಪರಪೋಷಕ. ಮುಂದೆ, ಸಿಂಹವು (ಪರಪೋಷಕ) ಜಿಂಕೆಯನ್ನು ಬೇಟೆಯಾಡಿ ತಿನ್ನುತ್ತದೆ. ಸಿಂಹ ಕೂಡ ತನ್ನ ಆಹಾರಕ್ಕಾಗಿ ಜಿಂಕೆಯನ್ನು ಅವಲಂಬಿಸಿದೆ, ಹಾಗಾಗಿ ಸಿಂಹವೂ ಒಂದು ಪರಪೋಷಕ. ಈ ರೀತಿ ಪರಪೋಷಕಗಳು ಶಕ್ತಿಗಾಗಿ ಇತರ ಜೀವಿಗಳನ್ನು ಅವಲಂಬಿಸಿವೆ.",
+  "display_bullets": [
+    "ಹುಲ್ಲು (ಸ್ವಪೋಷಕ) ಶಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ.",
+    "ಜಿಂಕೆ (ಪರಪೋಷಕ) ಹುಲ್ಲನ್ನು ತಿನ್ನುವ ಮೂಲಕ ಶಕ್ತಿ ಪಡೆಯುತ್ತದೆ.",
+    "ಸಿಂಹ (ಪರಪೋಷಕ) ಜಿಂಕೆಯನ್ನು ತಿನ್ನುವ ಮೂಲಕ ಶಕ್ತಿ ಪಡೆಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple food chain diagram showing the flow of energy. Grass on the left, an arrow pointing to a deer in the middle, and another arrow pointing from the deer to a lion on the right. Labels: Grass (Autotroph), Deer (Heterotroph), Lion (Heterotroph).",
+    "labels": "Grass, Deer, Lion, Energy Flow",
+    "scientific_significance": "Illustrates the concept of heterotrophic nutrition and energy transfer in an ecosystem.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_5_concept_1_chunk_011"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಪನ್ನಗಳು ಮತ್ತು ಪ್ರಕ್ರಿಯೆ",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಎರಡು ಉತ್ಪನ್ನಗಳು ಉಂಟಾಗುತ್ತವೆ. ಒಂದು ಅಮೋನಿಯಂ ಕ್ಲೋರೈಡ್, ಇದು ನೀರಿನಲ್ಲಿ ಕರಗುತ್ತದೆ. ಇನ್ನೊಂದು ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್, ಇದೇ ನಮ್ಮ ಅಡುಗೆ ಸೋಡಾ. ಇದು ನೀರಿನಲ್ಲಿ ಕಡಿಮೆ ಕರಗುವುದರಿಂದ ಘನರೂಪದಲ್ಲಿ ಪ್ರಕ್ಷೇಪಗೊಳ್ಳುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಸಾಲ್ವೆ ಪ್ರಕ್ರಿಯೆ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಎರಡು ಉತ್ಪನ್ನಗಳು ಉಂಟಾಗುತ್ತವೆ. ಒಂದು ಅಮೋನಿಯಂ ಕ್ಲೋರೈಡ್, ಇದು ನೀರಿನಲ್ಲಿ ಕರಗುತ್ತದೆ. ಇನ್ನೊಂದು ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್, ಇದೇ ನಮ್ಮ ಅಡುಗೆ ಸೋಡಾ. ಇದು ನೀರಿನಲ್ಲಿ ಕಡಿಮೆ ಕರಗುವುದರಿಂದ ಘನರೂಪದಲ್ಲಿ ಪ್ರಕ್ಷೇಪಗೊಳ್ಳುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಸಾಲ್ವೆ ಪ್ರಕ್ರಿಯೆ (Solvay process) ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಉತ್ಪನ್ನ 1: ಅಮೋನಿಯಂ ಕ್ಲೋರೈಡ್ (NH₄Cl) - ನೀರಿನಲ್ಲಿ ಕರಗುತ್ತದೆ.",
+    "ಉತ್ಪನ್ನ 2: ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್ (NaHCO₃) - ಕಡಿಮೆ ಕರಗುತ್ತದೆ, ಘನವಾಗಿ ಪ್ರಕ್ಷೇಪಗೊಳ್ಳುತ್ತದೆ.",
+    "ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು 'ಸಾಲ್ವೆ ಪ್ರಕ್ರಿಯೆ' (Solvay process) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dynamic_visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simplified diagram of the Solvay process. A large tank labeled 'ಬ್ರೈನ್ ದ್ರಾವಣ (Brine)' has two inlet pipes labeled 'NH₃ (ಅಮೋನಿಯಾ)' and 'CO₂ (ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್)'. Bubbles are shown rising through the liquid. At the bottom of the tank, a solid white powder is shown accumulating, labeled 'NaHCO₃ (ಅಡುಗೆ ಸೋಡಾ) ಪ್ರಕ್ಷೇಪ'.",
+    "labels": "ಬ್ರೈನ್ ದ್ರಾವಣ, ಅಮೋನಿಯಾ, ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್, ಅಡುಗೆ ಸೋಡಾ ಪ್ರಕ್ಷೇಪ",
+    "scientific_significance": "Illustrates the key step in the Solvay process where reactants are mixed to produce the desired, less soluble product (baking soda), which precipitates out of the solution.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_2_concept_9_chunk_014"
+}

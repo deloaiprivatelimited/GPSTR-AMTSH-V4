@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಹಿಸ್ಟೋಗ್ರಾಂ ರಚನೆ",
+  "script": "ಈಗ, ಹಿಂದಿನ ಕೋಷ್ಟಕದ ದತ್ತಾಂಶವನ್ನು ಬಳಸಿ ಹಿಸ್ಟೋಗ್ರಾಂ ಅನ್ನು ರಚಿಸೋಣ. ಮೊದಲಿಗೆ, ಎಕ್ಸ್ ಅಕ್ಷದ ಮೇಲೆ ಅಂಕಗಳ ವರ್ಗಾಂತರಗಳನ್ನು, ಅಂದರೆ ಸೊನ್ನೆ, ಹತ್ತು, ಇಪ್ಪತ್ತು, ಮೂವತ್ತು, ನಲವತ್ತು ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ವೈ ಅಕ್ಷದ ಮೇಲೆ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ಮೊದಲ ವರ್ಗಾಂತರ ಸೊನ್ನೆಯಿಂದ ಹತ್ತಕ್ಕೆ ಆವೃತ್ತಿ ಐದು ಇದೆ, ಆದ್ದರಿಂದ ನಾವು ಐದು ಎತ್ತರದ ಒಂದು ಆಯತವನ್ನು ರಚಿಸುತ್ತೇವೆ. ಮುಂದಿನ ವರ್ಗಾಂತರ ಹತ್ತರಿಂದ ಇಪ್ಪತ್ತಕ್ಕೆ ಆವೃತ್ತಿ ಎಂಟು ಇದೆ, ಆದ್ದರಿಂದ ಮೊದಲಿನ ಆಯತಕ್ಕೆ ತಾಗಿಕೊಂಡಂತೆ ಎಂಟು ಎತ್ತರದ ಮತ್ತೊಂದು ಆಯತವನ್ನು ರಚಿಸುತ್ತೇವೆ. ಇದೇ ರೀತಿ, ಇಪ್ಪತ್ತರಿಂದ ಮೂವತ್ತಕ್ಕೆ ಹನ್ನೆರಡು ಮತ್ತು ಮೂವತ್ತರಿಂದ ನಲವತ್ತಕ್ಕೆ ಆರು ಎತ್ತರದ ಆಯತಗಳನ್ನು ರಚಿಸುತ್ತೇವೆ. ನೋಡಿ, ಎಲ್ಲಾ ಆಯತಗಳು ಒಂದಕ್ಕೊಂದು ತಾಗಿಕೊಂಡಿವೆ.",
+  "script_display": "ಈಗ, ಹಿಂದಿನ ಕೋಷ್ಟಕದ ದತ್ತಾಂಶವನ್ನು ಬಳಸಿ ಹಿಸ್ಟೋಗ್ರಾಂ ಅನ್ನು ರಚಿಸೋಣ. ಮೊದಲಿಗೆ, X-ಅಕ್ಷದ ಮೇಲೆ ಅಂಕಗಳ ವರ್ಗಾಂತರಗಳನ್ನು ($0, 10, 20, 30, 40$) ಗುರುತಿಸುತ್ತೇವೆ. Y-ಅಕ್ಷದ ಮೇಲೆ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ಮೊದಲ ವರ್ಗಾಂತರ $0-10$ ಕ್ಕೆ ಆವೃತ್ತಿ 5 ಇದೆ, ಆದ್ದರಿಂದ ನಾವು 5 ಎತ್ತರದ ಒಂದು ಆಯತವನ್ನು ರಚಿಸುತ್ತೇವೆ. ಮುಂದಿನ ವರ್ಗಾಂತರ $10-20$ ಕ್ಕೆ ಆವೃತ್ತಿ 8 ಇದೆ, ಆದ್ದರಿಂದ ಮೊದಲಿನ ಆಯತಕ್ಕೆ ತಾಗಿಕೊಂಡಂತೆ 8 ಎತ್ತರದ ಮತ್ತೊಂದು ಆಯತವನ್ನು ರಚಿಸುತ್ತೇವೆ. ಇದೇ ರೀತಿ, $20-30$ ಕ್ಕೆ 12 ಮತ್ತು $30-40$ ಕ್ಕೆ 6 ಎತ್ತರದ ಆಯತಗಳನ್ನು ರಚಿಸುತ್ತೇವೆ. ನೋಡಿ, ಎಲ್ಲಾ ಆಯತಗಳು ಒಂದಕ್ಕೊಂದು ತಾಗಿಕೊಂಡಿವೆ.",
+  "display_bullets": [
+    "X-ಅಕ್ಷದ ಮೇಲೆ ಅಂಕಗಳ ವರ್ಗಾಂತರಗಳನ್ನು ($0-10, 10-20, ...$) ಗುರುತಿಸಿ.",
+    "Y-ಅಕ್ಷದ ಮೇಲೆ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆಯನ್ನು (ಆವೃತ್ತಿ) ಗುರುತಿಸಿ.",
+    "ಪ್ರತಿ ವರ್ಗಾಂತರಕ್ಕೆ ಅನುಗುಣವಾದ ಎತ್ತರದ, ಪಕ್ಕಪಕ್ಕದಲ್ಲಿರುವ ಆಯತಗಳನ್ನು ರಚಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A complete histogram based on the data from the previous slide. X-axis is labeled 'ಅಂಕಗಳು' and marked at 0, 10, 20, 30, 40. Y-axis is labeled 'ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ' and marked up to at least 12. The bars should have heights 5, 8, 12, and 6 respectively for the intervals 0-10, 10-20, 20-30, and 30-40. The bars must be adjacent with no gaps.",
+    "labels": "Marks, Number of students, Class intervals, Frequencies",
+    "mathematical_significance": "Provides a concrete visual representation of a frequency distribution table, solidifying the student's understanding of how to construct a histogram from data.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "DATA-STAT-2_concept_1_chunk_009"
+}

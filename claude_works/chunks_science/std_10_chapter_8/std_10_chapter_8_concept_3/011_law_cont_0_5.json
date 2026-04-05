@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "F2 ಪೀಳಿಗೆ: ಪನ್ನಟ್ ಚೌಕದ ಬಳಕೆ",
+  "script": "ಎರಡನೇ ಪೀಳಿಗೆಯ, ಅಂದರೆ ಎಫ್ ಟು ಪೀಳಿಗೆಯ, ಫಲಿತಾಂಶಗಳನ್ನು ಊಹಿಸಲು, ನಾವು ಪನ್ನಟ್ ಚೌಕವನ್ನು ಬಳಸುತ್ತೇವೆ. ಎಫ್ ಒನ್ ಸಸ್ಯದಲ್ಲಿ ಸ್ವ-ಪರಾಗಸ್ಪರ್ಶವಾದಾಗ, ಗಂಡು ಮತ್ತು ಹೆಣ್ಣು ಲಿಂಗಾಣುಗಳು ಒಂದೇ ರೀತಿಯ ಸಂಯೋಜನೆಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ. ನಾವು ಒಂದು ನಾಲ್ಕು ಗುಣಿಸು ನಾಲ್ಕು ಚೌಕವನ್ನು ರಚಿಸಿ, ಅಡ್ಡಸಾಲು ಮತ್ತು ಕಂಬಸಾಲುಗಳಲ್ಲಿ ಈ ನಾಲ್ಕು ವಿಧದ ಲಿಂಗಾಣುಗಳನ್ನು ಬರೆಯುತ್ತೇವೆ. ಅಂದರೆ, ಕ್ಯಾಪಿಟಲ್ ಆರ್ ವೈ, ಕ್ಯಾಪಿಟಲ್ ಆರ್ ಸ್ಮಾಲ್ ವೈ, ಸ್ಮಾಲ್ ಆರ್ ಕ್ಯಾಪಿಟಲ್ ವೈ, ಮತ್ತು ಸ್ಮಾಲ್ ಆರ್ ಸ್ಮಾಲ್ ವೈ. ಈ ಚೌಕವನ್ನು ತುಂಬುವುದರಿಂದ ಎಫ್ ಟು ಪೀಳಿಗೆಯಲ್ಲಿ ಸಾಧ್ಯವಿರುವ ಎಲ್ಲಾ ಹದಿನಾರು ಜೀನ್ ಮಾದರಿ ಸಂಯೋಜನೆಗಳು ನಮಗೆ ತಿಳಿಯುತ್ತವೆ.",
+  "script_display": "F2 ಪೀಳಿಗೆಯ ಫಲಿತಾಂಶಗಳನ್ನು ಊಹಿಸಲು, F1 ಸಸ್ಯಗಳ ಸ್ವ-ಪರಾಗಸ್ಪರ್ಶವನ್ನು (self-pollination) ಪನ್ನಟ್ ಚೌಕದ (Punnett Square) ಮೂಲಕ ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ನಾಲ್ಕು ಸಂಭವನೀಯ ಗಂಡು ಲಿಂಗಾಣುಗಳನ್ನು (RY, Ry, rY, ry) ಚೌಕದ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಬರೆಯಲಾಗುತ್ತದೆ.",
+    "ನಾಲ್ಕು ಸಂಭವನೀಯ ಹೆಣ್ಣು ಲಿಂಗಾಣುಗಳನ್ನು (RY, Ry, rY, ry) ಚೌಕದ ಎಡಭಾಗದಲ್ಲಿ ಬರೆಯಲಾಗುತ್ತದೆ.",
+    "ಚೌಕದೊಳಗಿನ 16 ಕೋಶಗಳು F2 ಪೀಳಿಗೆಯಲ್ಲಿ ಸಾಧ್ಯವಿರುವ ಎಲ್ಲಾ ಜೀನ್ ಮಾದರಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A large 4x4 Punnett Square for the dihybrid cross. The gametes RY, Ry, rY, ry are labeled across the top and down the left side. The 16 inner squares are filled with the resulting genotypes (e.g., RRYY, RRYy, RrYY, RrYy, etc.). Each inner square also has a small icon representing the phenotype (e.g., a round yellow pea).",
+    "labels": "F2 Generation Punnett Square",
+    "scientific_significance": "This Punnett square is the primary tool for visualizing and calculating the outcomes of a dihybrid cross, demonstrating how the principle of independent assortment leads to a predictable ratio of phenotypes in the F2 generation.",
+    "placeholder_note": "Image to be generated based on textbook figure 8.5"
+  },
+  "chunk_id": "std_10_chapter_8_concept_3_chunk_011"
+}

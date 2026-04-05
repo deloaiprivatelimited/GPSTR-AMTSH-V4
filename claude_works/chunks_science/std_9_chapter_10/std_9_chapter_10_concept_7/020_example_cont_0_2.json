@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 2 ಮತ್ತು 3",
+  "script": "ಈಗ ಎರಡನೇ ಮತ್ತು ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಪ್ರತಿ ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಸಾಮರ್ಥ್ಯದ ಸೂತ್ರ, ಪಿ ಈಕ್ವಲ್ಸ್ ಡಬ್ಲ್ಯೂ ಡಿವೈಡೆಡ್ ಬೈ ಟಿ, ಅಂದರೆ ಕೆಲಸ ಭಾಗಿಸು ಸಮಯ. ಮೊದಲು, ಎ ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯವನ್ನು ನೋಡೋಣ. ಪಿ ಎ ಈಕ್ವಲ್ಸ್ 3200 ಜೌಲ್ ಭಾಗಿಸು 20 ಸೆಕೆಂಡ್, ಇದು ನಮಗೆ 160 ವ್ಯಾಟ್ ಕೊಡುತ್ತದೆ. ನಂತರ, ಬಿ ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯ. ಪಿ ಬಿ ಈಕ್ವಲ್ಸ್ 3200 ಜೌಲ್ ಭಾಗಿಸು 50 ಸೆಕೆಂಡ್, ಇದು 64 ವ್ಯಾಟ್ ಆಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಮತ್ತು ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಪ್ರತಿ ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಸಾಮರ್ಥ್ಯದ ಸೂತ್ರ, P = W / t, ಅಂದರೆ ಕೆಲಸ / ಸಮಯ. ಮೊದಲು, A ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯವನ್ನು ನೋಡೋಣ. P_A = 3200 J / 20 s, ಇದು ನಮಗೆ 160 W ಕೊಡುತ್ತದೆ. ನಂತರ, B ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯ. P_B = 3200 J / 50 s, ಇದು 64 W ಆಗುತ್ತದೆ.",
+  "display_bullets": [
+    "**ಹಂತ 2 ಮತ್ತು 3: ಸಾಮರ್ಥ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು**",
+    "ಸಾಮರ್ಥ್ಯದ ಸೂತ್ರ: P = W / t",
+    "A ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯ: P_A = 3200 J / 20 s = 160 W",
+    "B ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯ: P_B = 3200 J / 50 s = 64 W"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "P = \\frac{W}{t}",
+    "placeholder_note": "Formula for Power."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_10_example_7",
+  "chunk_id": "std_9_chapter_10_concept_7_chunk_020"
+}

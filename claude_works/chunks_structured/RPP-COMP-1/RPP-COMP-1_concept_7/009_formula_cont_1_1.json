@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸವಕಳಿ ಲೆಕ್ಕಾಚಾರದ ಸೂತ್ರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸವಕಳಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು ಹೇಗೆ? ಇದಕ್ಕೂ ಒಂದು ಸೂತ್ರವಿದೆ, ಮತ್ತು ಇದು ಚಕ್ರಬಡ್ಡಿ ಸೂತ್ರಕ್ಕೆ ಬಹಳ ಹತ್ತಿರವಾಗಿದೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: ಎ ಈಕ್ವಲ್ಸ್ ಪಿ ಇಂಟು ಒನ್ ಮೈನಸ್ ಆರ್ ಬೈ ಹಂಡ್ರೆಡ್, ಹೋಲ್ ಟು ದ ಪವರ್ ಎನ್. ಇಲ್ಲಿ, ಎ ಅಂದರೆ ಎನ್ ವರ್ಷಗಳ ನಂತರದ ಅಂತಿಮ ಮೌಲ್ಯ. ಪಿ ಅಂದರೆ ವಸ್ತುವಿನ ಆರಂಭಿಕ ಅಥವಾ ಪ್ರಸ್ತುತ ಮೌಲ್ಯ. ಆರ್ ಅಂದರೆ ವಾರ್ಷಿಕ ಸವಕಳಿ ದರ, ಇದನ್ನು ಶೇಕಡಾವಾರು ಪ್ರಮಾಣದಲ್ಲಿ ನೀಡಲಾಗುತ್ತದೆ. ಮತ್ತು ಎನ್ ಅಂದರೆ ಎಷ್ಟು ವರ್ಷಗಳ ಅವಧಿಗೆ ನಾವು ಲೆಕ್ಕ ಹಾಕುತ್ತಿದ್ದೇವೆ ಎಂಬುದು. ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ, ಯಾವುದೇ ವಸ್ತುವಿನ ಭವಿಷ್ಯದ ಮೌಲ್ಯವನ್ನು ನಾವು ಅಂದಾಜು ಮಾಡಬಹುದು.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸವಕಳಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು ಹೇಗೆ? ಇದಕ್ಕೂ ಒಂದು ಸೂತ್ರವಿದೆ, ಮತ್ತು ಇದು ಚಕ್ರಬಡ್ಡಿ ಸೂತ್ರಕ್ಕೆ ಬಹಳ ಹತ್ತಿರವಾಗಿದೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: $A = P \\left(1 - \\frac{R}{100}\\right)^n$. ಇಲ್ಲಿ, $A$ ಅಂದರೆ $n$ ವರ್ಷಗಳ ನಂತರದ ಅಂತಿಮ ಮೌಲ್ಯ (Final Value). $P$ ಅಂದರೆ ವಸ್ತುವಿನ ಆರಂಭಿಕ ಅಥವಾ ಪ್ರಸ್ತುತ ಮೌಲ್ಯ (Initial Value). $R$ ಅಂದರೆ ವಾರ್ಷಿಕ ಸವಕಳಿ ದರ (Rate of Depreciation in %). ಮತ್ತು $n$ ಅಂದರೆ ಎಷ್ಟು ವರ್ಷಗಳ ಅವಧಿಗೆ ನಾವು ಲೆಕ್ಕ ಹಾಕುತ್ತಿದ್ದೇವೆ ಎಂಬುದು (Number of years). ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ, ಯಾವುದೇ ವಸ್ತುವಿನ ಭವಿಷ್ಯದ ಮೌಲ್ಯವನ್ನು ನಾವು ಅಂದಾಜು ಮಾಡಬಹುದು.",
+  "display_bullets": [
+    "ಸೂತ್ರ: $A = P \\left(1 - \\frac{R}{100}\\right)^n$",
+    "$A$ = $n$ ವರ್ಷಗಳ ನಂತರದ ಮೌಲ್ಯ (Final Value)",
+    "$P$ = ಆರಂಭಿಕ ಅಥವಾ ಪ್ರಸ್ತುತ ಮೌಲ್ಯ (Initial Value)",
+    "$R$ = ವಾರ್ಷಿಕ ಸವಕಳಿ ದರ (%) (Rate of Depreciation)",
+    "$n$ = ವರ್ಷಗಳ ಸಂಖ್ಯೆ (Number of years)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_formula_showcase_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "A = P \\left(1 - \\frac{R}{100}\\right)^n",
+    "placeholder_note": "Formula for Depreciation"
+  },
+  "chunk_id": "RPP-COMP-1_concept_7_chunk_009"
+}

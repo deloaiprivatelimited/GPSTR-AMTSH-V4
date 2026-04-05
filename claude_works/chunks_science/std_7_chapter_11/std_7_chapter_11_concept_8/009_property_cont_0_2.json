@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "VIBGYOR ಬಣ್ಣಗಳು (ಮುಕ್ತಾಯ)",
+  "script": "ಈಗ ನಾವು ವಿಬ್ಗಯೋರ್ ನ ಕೊನೆಯ ಎರಡು ಬಣ್ಣಗಳನ್ನು ನೋಡೋಣ. ಓ ಅಕ್ಷರವು ಕಿತ್ತಳೆ ಬಣ್ಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಹಳದಿ ಮತ್ತು ಕೆಂಪು ಬಣ್ಣಗಳ ನಡುವಿನ ಬಣ್ಣವಾಗಿದೆ. ಕಿತ್ತಳೆ ಹಣ್ಣು ಈ ಬಣ್ಣಕ್ಕೆ ಒಂದು ಪರಿಚಿತ ಉದಾಹರಣೆ. ಅಂತಿಮವಾಗಿ, ಆರ್ ಅಕ್ಷರವು ಕೆಂಪು ಬಣ್ಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇದು ವರ್ಣಪಂಕ್ತಿಯ ಕೊನೆಯ ಬಣ್ಣವಾಗಿದ್ದು, ಅತಿ ಹೆಚ್ಚು ತರಂಗಾಂತರವನ್ನು ಹೊಂದಿದೆ. ಹೀಗೆ, ನೇರಳೆ, ಊದಾ, ನೀಲಿ, ಹಸಿರು, ಹಳದಿ, ಕಿತ್ತಳೆ ಮತ್ತು ಕೆಂಪು, ಈ ಏಳು ಬಣ್ಣಗಳು ಸೇರಿ ಬಿಳಿ ಬೆಳಕು ಉಂಟಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು VIBGYOR ನ ಕೊನೆಯ ಎರಡು ಬಣ್ಣಗಳನ್ನು ನೋಡೋಣ. O ಅಕ್ಷರವು ಕಿತ್ತಳೆ (Orange) ಬಣ್ಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಹಳದಿ ಮತ್ತು ಕೆಂಪು ಬಣ್ಣಗಳ ನಡುವಿನ ಬಣ್ಣವಾಗಿದೆ. ಕಿತ್ತಳೆ ಹಣ್ಣು ಈ ಬಣ್ಣಕ್ಕೆ ಒಂದು ಪರಿಚಿತ ಉದಾಹರಣೆ. ಅಂತಿಮವಾಗಿ, R ಅಕ್ಷರವು ಕೆಂಪು (Red) ಬಣ್ಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇದು ವರ್ಣಪಂಕ್ತಿಯ ಕೊನೆಯ ಬಣ್ಣವಾಗಿದೆ. ಹೀಗೆ, ನೇರಳೆ, ಊದಾ, ನೀಲಿ, ಹಸಿರು, ಹಳದಿ, ಕಿತ್ತಳೆ ಮತ್ತು ಕೆಂಪು, ಈ ಏಳು ಬಣ್ಣಗಳು ಸೇರಿ ಬಿಳಿ ಬೆಳಕು ಉಂಟಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "O - ಕಿತ್ತಳೆ (Orange)",
+    "R - ಕೆಂಪು (Red)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಬೆಳಕಿನ ವರ್ಣಪಂಕ್ತಿ (spectrum) ಯನ್ನು ತೋರಿಸುವ ಚಿತ್ರ. VIBGYOR ಬಣ್ಣಗಳಲ್ಲಿ ಕಿತ್ತಳೆ (Orange) ಮತ್ತು ಕೆಂಪು (Red) ಬಣ್ಣಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "VIBGYOR Spectrum - Orange & Red",
+    "scientific_significance": "ಬಿಳಿ ಬೆಳಕಿನ ಘಟಕ ಬಣ್ಣಗಳನ್ನು ಮತ್ತು ಅವುಗಳ ಕ್ರಮವನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing the color spectrum with Orange and Red bands highlighted."
+  },
+  "chunk_id": "std_7_chapter_11_concept_8_chunk_009"
+}

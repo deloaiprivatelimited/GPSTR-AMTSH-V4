@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1",
+  "script": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ನಾವು ತೆಗೆದುಕೊಂಡ ಒಣ ಗಾಜಿನ ಲೋಟದೊಳಗೆ ಮೊಬೈಲ್ ಫೋನ್ ಅನ್ನು ಇಡೋಣ. ನಂತರ, ನಿಮ್ಮ ಸ್ನೇಹಿತನಿಗೆ ಅಥವಾ ನಿಮ್ಮ ಬಳಿ ಇರುವ ಬೇರೊಂದು ಫೋನ್ ಬಳಸಿ ಈ ಮೊಬೈಲ್ ಫೋನ್‌ಗೆ ಕರೆ ಮಾಡಿ. ಕರೆ ಮಾಡಿದಾಗ, ಮೊಬೈಲ್ ಫೋನ್‌ನ ರಿಂಗ್‌ಟೋನ್ ಅನ್ನು ಗಮನವಿಟ್ಟು ಕೇಳಿ. ನಿಮಗೆ ಶಬ್ದವು ಸ್ಪಷ್ಟವಾಗಿ ಕೇಳಿಸುತ್ತದೆ. ಏಕೆಂದರೆ, ಲೋಟದೊಳಗಿನ ಮತ್ತು ಸುತ್ತಲಿನ ಗಾಳಿಯು ಶಬ್ದದ ಕಂಪನಗಳನ್ನು ನಿಮ್ಮ ಕಿವಿಗೆ ಸಾಗಿಸುವ ಮಾಧ್ಯಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಈ ಹಂತದಲ್ಲಿ ಶಬ್ದವು ಗಾಳಿಯ ಮೂಲಕ ಪ್ರಸಾರವಾಗುತ್ತಿದೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ನಾವು ತೆಗೆದುಕೊಂಡ ಒಣ ಗಾಜಿನ ಲೋಟದೊಳಗೆ ಮೊಬೈಲ್ ಫೋನ್ ಅನ್ನು ಇಡೋಣ. ನಂತರ, ನಿಮ್ಮ ಸ್ನೇಹಿತನಿಗೆ ಅಥವಾ ನಿಮ್ಮ ಬಳಿ ಇರುವ ಬೇರೊಂದು ಫೋನ್ ಬಳಸಿ ಈ ಮೊಬೈಲ್ ಫೋನ್‌ಗೆ ಕರೆ ಮಾಡಿ. ಕರೆ ಮಾಡಿದಾಗ, ಮೊಬೈಲ್ ಫೋನ್‌ನ ರಿಂಗ್‌ಟೋನ್ ಅನ್ನು ಗಮನವಿಟ್ಟು ಕೇಳಿ. ನಿಮಗೆ ಶಬ್ದವು ಸ್ಪಷ್ಟವಾಗಿ ಕೇಳಿಸುತ್ತದೆ. ಏಕೆಂದರೆ, ಲೋಟದೊಳಗಿನ ಮತ್ತು ಸುತ್ತಲಿನ ಗಾಳಿಯು ಶಬ್ದದ ಕಂಪನಗಳನ್ನು ನಿಮ್ಮ ಕಿವಿಗೆ ಸಾಗಿಸುವ ಮಾಧ್ಯಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಈ ಹಂತದಲ್ಲಿ ಶಬ್ದವು ಗಾಳಿಯ ಮೂಲಕ ಪ್ರಸಾರವಾಗುತ್ತಿದೆ.",
+  "display_bullets": [
+    "ಒಣ ಗಾಜಿನ ಲೋಟದಲ್ಲಿ ಮೊಬೈಲ್ ಫೋನ್ ಇಡಿ.",
+    "ಬೇರೊಂದು ಫೋನ್‌ನಿಂದ ಅದಕ್ಕೆ ಕರೆ ಮಾಡಿ.",
+    "ರಿಂಗ್‌ಟೋನ್ ಶಬ್ದವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಕೇಳಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A mobile phone is placed inside a glass tumbler. An arrow indicates a call coming to the phone, and sound waves are shown emanating from the tumbler.",
+    "labels": "ಲೋಟ, ಮೊಬೈಲ್ ಫೋನ್, ಶಬ್ದ ತರಂಗಗಳು",
+    "scientific_significance": "Illustrates the first step of the experiment where the ringtone is clearly audible through the air medium.",
+    "placeholder_note": "Image to be generated for step 1 of the procedure."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_8_chapter_10_concept_2_chunk_008"
+}

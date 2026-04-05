@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉಪಪರಮಾಣು ಕಣಗಳು: ನ್ಯೂಟ್ರಾನ್",
+  "script": "ಮೂರನೆಯ ಪ್ರಮುಖ ಕಣ ನ್ಯೂಟ್ರಾನ್. ಇದನ್ನು 1932 ರಲ್ಲಿ ಜೇಮ್ಸ್ ಚಾಡ್‌ವಿಕ್ ಅವರು ಕಂಡುಹಿಡಿದರು. ಈ ಕಣದ ವಿಶೇಷತೆ ಎಂದರೆ ಇದು ಯಾವುದೇ ವಿದ್ಯುದಾವೇಶವನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ, ಅಂದರೆ ಇದು ಒಂದು ತಟಸ್ಥ ಕಣ. ಇದರ ಆವೇಶ ಸೊನ್ನೆ. ನ್ಯೂಟ್ರಾನ್‌ನ ದ್ರವ್ಯರಾಶಿಯು ಸರಿಸುಮಾರು ಪ್ರೋಟಾನ್‌ನ ದ್ರವ್ಯರಾಶಿಗೆ ಸಮನಾಗಿರುತ್ತದೆ, ಅಂದರೆ ಒಂದು ಪರಮಾಣು ರಾಶಿ ಏಕಮಾನ. ಪ್ರೋಟಾನ್‌ಗಳಂತೆಯೇ, ನ್ಯೂಟ್ರಾನ್‌ಗಳು ಕೂಡ ಪರಮಾಣುವಿನ ಬೀಜಕೇಂದ್ರದಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ. ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುವನ್ನು ಹೊರತುಪಡಿಸಿ, ಉಳಿದೆಲ್ಲಾ ಧಾತುಗಳ ಪರಮಾಣುಗಳಲ್ಲಿ ನ್ಯೂಟ್ರಾನ್‌ಗಳು ಇರುತ್ತವೆ.",
+  "script_display": "ಮೂರನೆಯ ಪ್ರಮುಖ ಕಣ ನ್ಯೂಟ್ರಾನ್ (n). ಇದನ್ನು 1932 ರಲ್ಲಿ ಜೆ. ಚಾಡ್‌ವಿಕ್ ಅವರು ಕಂಡುಹಿಡಿದರು. ಈ ಕಣದ ವಿಶೇಷತೆ ಎಂದರೆ ಇದು ಯಾವುದೇ ವಿದ್ಯುದಾವೇಶವನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ, ಅಂದರೆ ಇದು ಒಂದು ತಟಸ್ಥ ಕಣ. ಇದರ ಆವೇಶ 0. ನ್ಯೂಟ್ರಾನ್‌ನ ದ್ರವ್ಯರಾಶಿಯು ಸರಿಸುಮಾರು ಪ್ರೋಟಾನ್‌ನ ದ್ರವ್ಯರಾಶಿಗೆ ಸಮನಾಗಿರುತ್ತದೆ (1 u). ಪ್ರೋಟಾನ್‌ಗಳಂತೆಯೇ, ನ್ಯೂಟ್ರಾನ್‌ಗಳು ಕೂಡ ಪರಮಾಣುವಿನ ಬೀಜಕೇಂದ್ರದಲ್ಲಿ (nucleus) ಕಂಡುಬರುತ್ತವೆ. ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುವನ್ನು ಹೊರತುಪಡಿಸಿ, ಉಳಿದೆಲ್ಲಾ ಧಾತುಗಳ ಪರಮಾಣುಗಳಲ್ಲಿ ನ್ಯೂಟ್ರಾನ್‌ಗಳು ಇರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಆವಿಷ್ಕಾರ: ಜೆ. ಚಾಡ್‌ವಿಕ್ (1932)",
+    "ಆವೇಶ (Charge): ತಟಸ್ಥ (0)",
+    "ರಾಶಿ (Mass): ಸರಿಸುಮಾರು ಪ್ರೋಟಾನ್‌ಗೆ ಸಮ (1 u)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "style_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a neutron, represented as a sphere with no charge symbol (or 'n' or '0'). It should be roughly the same size as the proton and shown inside a nucleus, possibly next to a proton.",
+    "labels": "n",
+    "scientific_significance": "Visual representation of a neutron, highlighting its neutral charge and its location within the nucleus alongside protons.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_4_concept_1_chunk_004"
+}

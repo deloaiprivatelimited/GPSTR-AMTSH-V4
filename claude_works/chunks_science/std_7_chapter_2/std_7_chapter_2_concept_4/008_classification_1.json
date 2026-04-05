@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹಲ್ಲುಗಳ ಜೀವನಚಕ್ರ: ಹಾಲು ಹಲ್ಲುಗಳು",
+  "script": "ಮಾನವರಲ್ಲಿ ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ ಎರಡು ಸೆಟ್ ಹಲ್ಲುಗಳು ಬರುತ್ತವೆ. ಮೊದಲನೆಯದು ಹಾಲು ಹಲ್ಲುಗಳು. ಇವು ಶೈಶವಾವಸ್ಥೆಯಲ್ಲಿ ಬೆಳೆಯುವ ಮೊದಲ ಸೆಟ್ ಹಲ್ಲುಗಳಾಗಿವೆ. ಮಗುವಿಗೆ ಸುಮಾರು ಆರು ತಿಂಗಳಾದಾಗ ಇವು ಬರಲು ಪ್ರಾರಂಭವಾಗುತ್ತವೆ. ಇವುಗಳ ಒಟ್ಟು ಸಂಖ್ಯೆ ಇಪ್ಪತ್ತು. ಈ ಹಲ್ಲುಗಳು ಮಕ್ಕಳಿಗೆ ಆಹಾರವನ್ನು ಸರಿಯಾಗಿ ಜಗಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ. ಆದರೆ ಇವು ತಾತ್ಕಾಲಿಕ. ಸಾಮಾನ್ಯವಾಗಿ, ಮಗುವಿಗೆ ಆರರಿಂದ ಎಂಟು ವರ್ಷ ವಯಸ್ಸಾದಾಗ, ಈ ಹಾಲು ಹಲ್ಲುಗಳು ಒಂದೊಂದಾಗಿ ಬಿದ್ದು ಹೋಗುತ್ತವೆ ಮತ್ತು ಶಾಶ್ವತ ಹಲ್ಲುಗಳಿಗೆ ಜಾಗ ಮಾಡಿಕೊಡುತ್ತವೆ.",
+  "script_display": "ಮಾನವರಲ್ಲಿ ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ ಎರಡು ಸೆಟ್ ಹಲ್ಲುಗಳು ಬರುತ್ತವೆ. ಮೊದಲನೆಯದು ಹಾಲು ಹಲ್ಲುಗಳು (Milk Teeth). ಇವು ಶೈಶವಾವಸ್ಥೆಯಲ್ಲಿ ಬೆಳೆಯುವ ಮೊದಲ ಸೆಟ್ ಹಲ್ಲುಗಳಾಗಿವೆ. ಮಗುವಿಗೆ ಸುಮಾರು 6 ತಿಂಗಳಾದಾಗ ಇವು ಬರಲು ಪ್ರಾರಂಭವಾಗುತ್ತವೆ. ಇವುಗಳ ಒಟ್ಟು ಸಂಖ್ಯೆ 20. ಈ ಹಲ್ಲುಗಳು ಮಕ್ಕಳಿಗೆ ಆಹಾರವನ್ನು ಸರಿಯಾಗಿ ಜಗಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ. ಆದರೆ ಇವು ತಾತ್ಕಾಲಿಕ. ಸಾಮಾನ್ಯವಾಗಿ, ಮಗುವಿಗೆ 6-8 ವರ್ಷ ವಯಸ್ಸಾದಾಗ, ಈ ಹಾಲು ಹಲ್ಲುಗಳು ಒಂದೊಂದಾಗಿ ಬಿದ್ದು ಹೋಗುತ್ತವೆ ಮತ್ತು ಶಾಶ್ವತ ಹಲ್ಲುಗಳಿಗೆ ಜಾಗ ಮಾಡಿಕೊಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ಶೈಶವಾವಸ್ಥೆಯಲ್ಲಿ ಬೆಳೆಯುವ ಮೊದಲ ಸೆಟ್ ಹಲ್ಲುಗಳು.",
+    "ಒಟ್ಟು 20 ಹಲ್ಲುಗಳಿರುತ್ತವೆ.",
+    "6-8 ವರ್ಷ ವಯಸ್ಸಿನಲ್ಲಿ ಬಿದ್ದು ಹೋಗುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dynamic_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clear illustration of a child's jaw showing the 20 milk teeth. The teeth should be white and neatly arranged. The background should be a neutral color.",
+    "labels": "ಹಾಲು ಹಲ್ಲುಗಳು (Milk Teeth)",
+    "scientific_significance": "Illustrates the primary dentition (deciduous teeth) in humans, which is essential for early chewing, speech development, and holding space for permanent teeth.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_2_concept_4_chunk_008"
+}

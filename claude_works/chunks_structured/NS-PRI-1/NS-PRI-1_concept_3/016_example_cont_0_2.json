@@ -1,0 +1,50 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತ, ಭಾಗಲಬ್ಧ ಹದಿನಾಲ್ಕನ್ನು ಪುನಃ ಎರಡರಿಂದ ಭಾಗಿಸೋಣ. ಹದಿನಾಲ್ಕು ಭಾಗಿಸು ಎರಡು ಎಂದರೆ ಏಳು. ಈಗ ನಮಗೆ ಸಿಕ್ಕಿದ್ದು ಏಳು, ಇದು ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ. ಆದ್ದರಿಂದ, ನಾವು ಇಲ್ಲಿಗೆ ನಿಲ್ಲಿಸುತ್ತೇವೆ. ನಾಲ್ಕನೇ ಹಂತ, ಎಲ್ಲಾ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಒಟ್ಟಾಗಿ ಬರೆಯಿರಿ. ಐವತ್ತಾರು ಸಮ ಎರಡು ಗುಣಿಸು ಎರಡು ಗುಣಿಸು ಎರಡು ಗುಣಿಸು ಏಳು.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತ, ಭಾಗಲಬ್ಧ 14ನ್ನು ಪುನಃ 2 ರಿಂದ ಭಾಗಿಸೋಣ. $14 \\div 2 = 7$. ಈಗ ನಮಗೆ ಸಿಕ್ಕಿದ್ದು 7, ಇದು ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ. ಆದ್ದರಿಂದ, ನಾವು ಇಲ್ಲಿಗೆ ನಿಲ್ಲಿಸುತ್ತೇವೆ. ನಾಲ್ಕನೇ ಹಂತ, ಎಲ್ಲಾ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಒಟ್ಟಾಗಿ ಬರೆಯಿರಿ. $56 = 2 \\times 2 \\times 2 \\times 7$.",
+  "display_bullets": [
+    "ಹಂತ 3: ಭಾಗಲಬ್ಧ 14ನ್ನು ಪುನಃ 2 ರಿಂದ ಭಾಗಿಸಿ. $14 = 2 \\times 7$",
+    "ಹಂತ 4: ಎಲ್ಲಾ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಒಟ್ಟಾಗಿ ಬರೆಯಿರಿ. $56 = 2 \\times 2 \\times 2 \\times 7$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಭಾಗಾಕಾರ ವಿಧಾನದ ಮುಂದುವರಿದ ಭಾಗ. ಮೂರನೇ ಹಂತದಲ್ಲಿ 14ನ್ನು 2ರಿಂದ ಭಾಗಿಸಿ 7 ಬರುತ್ತದೆ. 7 ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯಾದ್ದರಿಂದ ಪ್ರಕ್ರಿಯೆ ಮುಗಿಯುತ್ತದೆ. ಅಂತಿಮ ಅಪವರ್ತನಗಳು 2, 2, 2, 7.",
+    "labels": "ಭಾಗಾಕಾರ ವಿಧಾನ, ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು",
+    "mathematical_significance": "ಭಾಗಲಬ್ಧವು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯಾದಾಗ ಅಪವರ್ತಿಕರಣ ಪ್ರಕ್ರಿಯೆಯು ಪೂರ್ಣಗೊಳ್ಳುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Continue the vertical line division method. Step 3: 2 | 14 -> 7. The process stops as 7 is prime. Circle the prime factors on the left and the final prime at the bottom: 2, 2, 2, and 7."
+  },
+  "source_example_id": "NS-PRI-1_example_5",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "56 = 2 \\times 2 \\times (2 \\times 7)",
+      "justification": "14 ಸಮ ಸಂಖ್ಯೆ, 7 ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ."
+    },
+    {
+      "step": 4,
+      "action_display": "56 = 2 \\times 2 \\times 2 \\times 7",
+      "justification": "ಇದು 56ರ ಅಂತಿಮ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-PRI-1_concept_3_chunk_016"
+}

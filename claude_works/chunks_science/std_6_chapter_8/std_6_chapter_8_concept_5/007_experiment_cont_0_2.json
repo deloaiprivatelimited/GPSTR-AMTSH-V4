@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಮಾಡುವ ವಿಧಾನ (ಮುಂದುವರೆದಿದೆ)",
+  "script": "ಮರಳನ್ನು ತುಂಬಿದ ನಂತರ, ನಮ್ಮ ಮೂರನೇ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ಈಗ ನಾವು ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಮರಳಿನ ಮೇಲೆ ನಿಧಾನವಾಗಿ ಸುರಿಯಬೇಕು. ಮರಳು ಸಂಪೂರ್ಣವಾಗಿ ಒದ್ದೆಯಾಗುವವರೆಗೂ, ಅಂದರೆ ನೀರು ದೊಡ್ಡ ಮಡಕೆಯ ರಂಧ್ರಗಳಿಂದ ಹೊರಬರಲು ಪ್ರಾರಂಭಿಸುವವರೆಗೆ ನೀರನ್ನು ಹಾಕಿ. ನಾಲ್ಕನೇ ಮತ್ತು ಕೊನೆಯ ಹಂತ, ನಾವು ತಂಪಾಗಿಡಲು ಬಯಸುವ ವಸ್ತುಗಳನ್ನು, ಉದಾಹರಣೆಗೆ ತರಕಾರಿಗಳು ಅಥವಾ ಹಣ್ಣುಗಳನ್ನು, ಚಿಕ್ಕ ಮಡಕೆಯೊಳಗೆ ಇಟ್ಟು, ಅದರ ಬಾಯಿಯನ್ನು ಒಂದು ಒದ್ದೆ ಬಟ್ಟೆಯಿಂದ ಚೆನ್ನಾಗಿ ಮುಚ್ಚಬೇಕು. ಇದು ಹೊರಗಿನ ಬಿಸಿ ಗಾಳಿ ಒಳಗೆ ಹೋಗದಂತೆ ತಡೆಯುತ್ತದೆ ಮತ್ತು ಒಳಗಿನ ತೇವಾಂಶವನ್ನು ಕಾಪಾಡುತ್ತದೆ.",
+  "script_display": "ಮರಳನ್ನು ತುಂಬಿದ ನಂತರ, ನಮ್ಮ ಮೂರನೇ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ಈಗ ನಾವು ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಮರಳಿನ ಮೇಲೆ ನಿಧಾನವಾಗಿ ಸುರಿಯಬೇಕು. ಮರಳು ಸಂಪೂರ್ಣವಾಗಿ ಒದ್ದೆಯಾಗುವವರೆಗೂ, ಅಂದರೆ ನೀರು ದೊಡ್ಡ ಮಡಕೆಯ ರಂಧ್ರಗಳಿಂದ ಹೊರಬರಲು ಪ್ರಾರಂಭಿಸುವವರೆಗೆ ನೀರನ್ನು ಹಾಕಿ. ನಾಲ್ಕನೇ ಮತ್ತು ಕೊನೆಯ ಹಂತ, ನಾವು ತಂಪಾಗಿಡಲು ಬಯಸುವ ವಸ್ತುಗಳನ್ನು, ಉದಾಹರಣೆಗೆ ತರಕಾರಿಗಳು ಅಥವಾ ಹಣ್ಣುಗಳನ್ನು, ಚಿಕ್ಕ ಮಡಕೆಯೊಳಗೆ ಇಟ್ಟು, ಅದರ ಬಾಯಿಯನ್ನು ಒಂದು ಒದ್ದೆ ಬಟ್ಟೆಯಿಂದ ಚೆನ್ನಾಗಿ ಮುಚ್ಚಬೇಕು. ಇದು ಹೊರಗಿನ ಬಿಸಿ ಗಾಳಿ ಒಳಗೆ ಹೋಗದಂತೆ ತಡೆಯುತ್ತದೆ ಮತ್ತು ಒಳಗಿನ ತೇವಾಂಶವನ್ನು ಕಾಪಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "3. ಮರಳಿಗೆ ನೀರು ಹಾಕಿ ಸಂಪೂರ್ಣವಾಗಿ ತೇವಗೊಳಿಸಿ.",
+    "4. ಚಿಕ್ಕ ಮಡಕೆಯ ಬಾಯಿಯನ್ನು ಒದ್ದೆ ಬಟ್ಟೆಯಿಂದ ಮುಚ್ಚಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-panel diagram. Panel 1 shows water being poured onto the sand between the pots. Panel 2 shows the inner pot filled with vegetables and its mouth covered with a wet cloth.",
+    "labels": "ಹಂತ 3, ಹಂತ 4",
+    "scientific_significance": "Shows the final steps: saturating the medium with water (the 'fuel' for evaporation) and sealing the inner chamber to create a cool, isolated environment.",
+    "placeholder_note": "Image to be generated showing the last two steps of the procedure."
+  },
+  "sub_type": "procedure",
+  "chunk_id": "std_6_chapter_8_concept_5_chunk_007"
+}

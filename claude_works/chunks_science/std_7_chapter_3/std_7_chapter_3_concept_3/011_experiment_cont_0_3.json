@@ -1,0 +1,35 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಪ್ರಮುಖ ಮುನ್ನೆಚ್ಚರಿಕೆ",
+  "script": "ಇಲ್ಲಿ ಒಂದು ಬಹಳ ಮುಖ್ಯವಾದ ಮುನ್ನೆಚ್ಚರಿಕೆಯನ್ನು ಗಮನಿಸಬೇಕು. ತಾಪಮಾಪಕದ ಬುರುಡೆಯು ನೀರಿನಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಮುಳುಗಿರಬೇಕು. ಅಂದರೆ, ಅದರ ಸುತ್ತಲೂ ನೀರು ಇರಬೇಕು. ಆದರೆ, ಅತಿ ಮುಖ್ಯವಾಗಿ, ಆ ಬುರುಡೆಯು ಬೀಕರ್‌ನ ತಳಕ್ಕಾಗಲೀ ಅಥವಾ ಬದಿಗಳಿಗಾಗಲೀ ತಾಗಬಾರದು. ಯಾಕೆಂದರೆ, ಪಾತ್ರೆಯು ನೀರಿನಷ್ಟೇ ತಾಪಮಾನದಲ್ಲಿ ಇಲ್ಲದಿರಬಹುದು. ಪಾತ್ರೆಗೆ ತಾಗಿದರೆ, ನಾವು ಪಾತ್ರೆಯ ತಾಪಮಾನವನ್ನು ಅಳೆದಂತೆ ಆಗುತ್ತದೆ, ನೀರಿನದ್ದಲ್ಲ. ಆದ್ದರಿಂದ ಇದನ್ನು ತಪ್ಪಿಸಬೇಕು.",
+  "script_display": "ಇಲ್ಲಿ ಒಂದು ಬಹಳ ಮುಖ್ಯವಾದ ಮುನ್ನೆಚ್ಚರಿಕೆಯನ್ನು ಗಮನಿಸಬೇಕು. ತಾಪಮಾಪಕದ ಬುರುಡೆಯು ನೀರಿನಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಮುಳುಗಿರಬೇಕು. ಅಂದರೆ, ಅದರ ಸುತ್ತಲೂ ನೀರು ಇರಬೇಕು. ಆದರೆ, ಅತಿ ಮುಖ್ಯವಾಗಿ, ಆ ಬುರುಡೆಯು ಬೀಕರ್‌ನ ತಳಕ್ಕಾಗಲೀ ಅಥವಾ ಬದಿಗಳಿಗಾಗಲೀ ತಾಗಬಾರದು. ಯಾಕೆಂದರೆ, ಪಾತ್ರೆಯು ನೀರಿನಷ್ಟೇ ತಾಪಮಾನದಲ್ಲಿ ಇಲ್ಲದಿರಬಹುದು. ಪಾತ್ರೆಗೆ ತಾಗಿದರೆ, ನಾವು ಪಾತ್ರೆಯ ತಾಪಮಾನವನ್ನು ಅಳೆದಂತೆ ಆಗುತ್ತದೆ, ನೀರಿನದ್ದಲ್ಲ. ಆದ್ದರಿಂದ ಇದನ್ನು ತಪ್ಪಿಸಬೇಕು.",
+  "display_bullets": [
+    "ತಾಪಮಾಪಕದ ಬುರುಡೆಯು ಸಂಪೂರ್ಣವಾಗಿ ನೀರಿನಿಂದ ಆವೃತವಾಗಿರಬೇಕು.",
+    "ಬುರುಡೆಯು ಪಾತ್ರೆಯ ತಳ ಅಥವಾ ಬದಿಗಳನ್ನು ಮುಟ್ಟಬಾರದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split diagram. Left side shows 'Correct' (ಸರಿ) with the thermometer bulb suspended in the middle of the water. Right side shows 'Incorrect' (ತಪ್ಪು) with the bulb touching the bottom of the beaker. Both should be clearly labeled.",
+    "labels": "Correct position, Incorrect position",
+    "scientific_significance": "Highlights a critical precaution for accurate temperature measurement, preventing heat transfer from the container.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_3_concept_3_chunk_011"
+}

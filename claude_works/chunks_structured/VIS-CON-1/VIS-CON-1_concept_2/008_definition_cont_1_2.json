@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಬಾಹು (Side): ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ABCD ಎಂಬ ಆಯತವನ್ನು ಗಮನಿಸಿ. ಈ ಆಯತವು ನಾಲ್ಕು ರೇಖಾಖಂಡಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ. ಮೊದಲನೆಯದಾಗಿ, A ಮತ್ತು B ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡ AB ಒಂದು ಬಾಹು. ಹಾಗೆಯೇ, B ಮತ್ತು C ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡ BC ಇನ್ನೊಂದು ಬಾಹು. ಇದೇ ರೀತಿ, CD ಮತ್ತು DA ಗಳು ಕ್ರಮವಾಗಿ ಮೂರನೇ ಮತ್ತು ನಾಲ್ಕನೇ ಬಾಹುಗಳಾಗಿವೆ. ಆದ್ದರಿಂದ, ಒಂದು ಚತುರ್ಭುಜಕ್ಕೆ ಒಟ್ಟು ನಾಲ್ಕು ಬಾಹುಗಳಿರುತ್ತವೆ. ಈ ಬಾಹುಗಳೇ ಆಯತದ ಉದ್ದ ಮತ್ತು ಅಗಲವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ $ABCD$ ಎಂಬ ಆಯತವನ್ನು ಗಮನಿಸಿ. ಈ ಆಯತವು ನಾಲ್ಕು ರೇಖಾಖಂಡಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ. ಮೊದಲನೆಯದಾಗಿ, $A$ ಮತ್ತು $B$ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡ $AB$ ಒಂದು ಬಾಹು. ಹಾಗೆಯೇ, $B$ ಮತ್ತು $C$ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡ $BC$ ಇನ್ನೊಂದು ಬಾಹು. ಇದೇ ರೀತಿ, $CD$ ಮತ್ತು $DA$ ಗಳು ಕ್ರಮವಾಗಿ ಮೂರನೇ ಮತ್ತು ನಾಲ್ಕನೇ ಬಾಹುಗಳಾಗಿವೆ. ಆದ್ದರಿಂದ, ಒಂದು ಚತುರ್ಭುಜಕ್ಕೆ ಒಟ್ಟು ನಾಲ್ಕು ಬಾಹುಗಳಿರುತ್ತವೆ. ಈ ಬಾಹುಗಳೇ ಆಯತದ ಉದ್ದ ಮತ್ತು ಅಗಲವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಆಯತ $ABCD$ ಯಲ್ಲಿ, $AB$ ಒಂದು ಬಾಹು.",
+    "$BC$, $CD$, ಮತ್ತು $DA$ ಗಳು ಉಳಿದ ಮೂರು ಬಾಹುಗಳು.",
+    "ಒಂದು ಚತುರ್ಭುಜಕ್ಕೆ ಒಟ್ಟು ನಾಲ್ಕು ಬಾಹುಗಳಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A rectangle labeled A, B, C, D counter-clockwise. The side AB is highlighted in a different color (e.g., blue) to draw attention to it. The other sides BC, CD, DA are in black.",
+    "labels": "Vertices A, B, C, D. Side AB is highlighted.",
+    "mathematical_significance": "Visually identifies a 'side' on a concrete example of a rectangle, connecting the abstract definition to a visual representation.",
+    "placeholder_note": "Image to be generated showing a rectangle with one side highlighted."
+  },
+  "chunk_id": "VIS-CON-1_concept_2_chunk_008"
+}

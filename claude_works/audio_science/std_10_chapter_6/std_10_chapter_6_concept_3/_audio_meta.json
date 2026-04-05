@@ -1,0 +1,92 @@
+{
+  "module_id": "std_10_chapter_6_concept_3",
+  "chapter_code": "std_10_chapter_6",
+  "voice": "Achird",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:10:21",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "7e81e2e8df3d53d25db683d52c5e882e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 19.891,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "bullet_list",
+      "script_words": 29,
+      "generated_at": "2026-04-02 12:09:04"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "8e5ddd0f2c7910368232424ee105a3c3",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 39.171,
+      "slide_title": "ಮಧ್ಯಮಿದುಳು (Midbrain)",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 12:09:13"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "caba7ab58f2c805fbedc7530d689f2e9",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 42.211,
+      "slide_title": "ಮುಮ್ಮೆದುಳು (Forebrain)",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 12:09:23"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "310ab3a085652344f3a25df4a70085fd",
+      "wav_file": "001_intro_0.wav",
+      "duration": 50.811,
+      "slide_title": "ಮಾನವನ ಮಿದುಳು: ರಚನೆ ಮತ್ತು ಕಾರ್ಯಗಳು",
+      "type": "title_hero",
+      "script_words": 81,
+      "generated_at": "2026-04-02 12:09:24"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "7ec44615695a8572263c27be528e074e",
+      "wav_file": "003_classification_0.wav",
+      "duration": 34.731,
+      "slide_title": "ಮಾನವನ ಮಿದುಳಿನ ಭಾಗಗಳು",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 12:09:26"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "518467ee33dd35156484346947be628e",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 40.691,
+      "slide_title": "ಹಿಮ್ಮೆದುಳು (Hindbrain)",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 12:10:18"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "4a365e6d00fa979fbed192dbcad85422",
+      "wav_file": "007_recap_0.wav",
+      "duration": 44.051,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 61,
+      "generated_at": "2026-04-02 12:10:21"
+    }
+  }
+}

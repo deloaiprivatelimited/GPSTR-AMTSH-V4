@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ಮಂಡಲದ ಒಟ್ಟು ಪ್ರವಾಹ (b)",
+  "script": "ಈಗ, ಮಂಡಲದಲ್ಲಿನ ಒಟ್ಟು ಪ್ರವಾಹವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಸಮಾಂತರ ಮಂಡಲದಲ್ಲಿ, ಒಟ್ಟು ಪ್ರವಾಹವು ಪ್ರತಿ ರೋಧಕದ ಮೂಲಕ ಹರಿಯುವ ಪ್ರವಾಹಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ಐ ಈಕ್ವಲ್ಸ್ ಐ ಒನ್ ಪ್ಲಸ್ ಐ ಟು ಪ್ಲಸ್ ಐ ತ್ರೀ. ನಾವು ಈಗಾಗಲೇ ಲೆಕ್ಕ ಮಾಡಿದ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ ಎರಡು ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಪ್ಲಸ್ ಒಂದು ಪಾಯಿಂಟ್ ಎರಡು ಪ್ಲಸ್ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಸಿಗುತ್ತದೆ. ಇವುಗಳನ್ನು ಕೂಡಿಸಿದಾಗ, ಒಟ್ಟು ಪ್ರವಾಹ ನಾಲ್ಕು ಆಂಪಿಯರ್ ಆಗುತ್ತದೆ.",
+  "script_display": "(b) ಮಂಡಲದಲ್ಲಿನ ಒಟ್ಟು ಪ್ರವಾಹವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+  "display_bullets": [
+    "ಒಟ್ಟು ಪ್ರವಾಹ (I) ಎನ್ನುವುದು ವೈಯಕ್ತಿಕ ಪ್ರವಾಹಗಳ ಮೊತ್ತವಾಗಿದೆ.",
+    "I = I₁ + I₂ + I₃",
+    "I = 2.4 A + 1.2 A + 0.4 A",
+    "I = 4 A"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_green",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_11_example_11.8",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "(b) ಒಟ್ಟು ಪ್ರವಾಹವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+      "justification": "I = I₁ + I₂ + I₃."
+    }
+  ],
+  "chunk_id": "std_10_chapter_11_concept_6_chunk_011"
+}

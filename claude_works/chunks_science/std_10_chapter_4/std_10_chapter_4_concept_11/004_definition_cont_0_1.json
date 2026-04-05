@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಬೂನಿನ ಅಣುವಿನ ರಚನೆ",
+  "script": "ಪ್ರತಿಯೊಂದು ಸಾಬೂನಿನ ಅಣುವಿಗೂ ಎರಡು ವಿಭಿನ್ನ ತುದಿಗಳಿರುತ್ತವೆ. ಒಂದು ಜಲವಿಕರ್ಷಕ ಬಾಲ. ಇದು ಉದ್ದವಾದ ಹೈಡ್ರೋಕಾರ್ಬನ್ ಭಾಗವಾಗಿದ್ದು, ನೀರನ್ನು ದ್ವೇಷಿಸುತ್ತದೆ ಆದರೆ ಎಣ್ಣೆ ಅಥವಾ ಕೊಳೆಯನ್ನು ಆಕರ್ಷಿಸುತ್ತದೆ. ಇನ್ನೊಂದು ಜಲಾಕರ್ಷಕ ತಲೆ. ಇದು ಅಯಾನಿಕ್ ಭಾಗವಾಗಿದ್ದು, ನೀರನ್ನು ಪ್ರೀತಿಸುತ್ತದೆ, ಅಂದರೆ ನೀರನ್ನು ಆಕರ್ಷಿಸುತ್ತದೆ. ಈ ತಲೆ ಮತ್ತು ಬಾಲದ ವಿಶಿಷ್ಟ ರಚನೆಯೇ ಸಾಬೂನು ಬಟ್ಟೆಗಳಲ್ಲಿರುವ ಎಣ್ಣೆಯುಕ್ತ ಕೊಳೆಯನ್ನು ತೆಗೆದುಹಾಕಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಈ ರಚನೆಯನ್ನು ಚೆನ್ನಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ.",
+  "script_display": "ಪ್ರತಿಯೊಂದು ಸಾಬೂನಿನ ಅಣುವಿಗೂ ಎರಡು ವಿಭಿನ್ನ ತುದಿಗಳಿರುತ್ತವೆ:",
+  "display_bullets": [
+    "ಜಲವಿಕರ್ಷಕ ಬಾಲ (Hydrophobic Tail): ಉದ್ದವಾದ ಹೈಡ್ರೋಕಾರ್ಬನ್ ಭಾಗ, ಇದು ಎಣ್ಣೆಯನ್ನು ಆಕರ್ಷಿಸುತ್ತದೆ.",
+    "ಜಲಾಕರ್ಷಕ ತಲೆ (Hydrophilic Head): ಅಯಾನಿಕ್ ಭಾಗ, ಇದು ನೀರನ್ನು ಆಕರ್ಷಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simplified diagram of a soap molecule. It shows a long, zig-zag hydrocarbon chain labeled as 'ಜಲವಿಕರ್ಷಕ ಬಾಲ (Hydrophobic Tail)' and a circular end with a negative and positive charge (COO- Na+) labeled as 'ಜಲಾಕರ್ಷಕ ತಲೆ (Hydrophilic Head)'.",
+    "labels": "ಜಲವಿಕರ್ಷಕ ಬಾಲ, ಜಲಾಕರ್ಷಕ ತಲೆ, ಹೈಡ್ರೋಕಾರ್ಬನ್ ಸರಪಳಿ, ಅಯಾನಿಕ್ ಭಾಗ",
+    "scientific_significance": "Illustrates the amphipathic nature of a soap molecule, which is fundamental to its cleaning action and micelle formation.",
+    "placeholder_note": "Image to be generated showing a soap molecule with head and tail labeled in Kannada."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_4_concept_11_chunk_004"
+}

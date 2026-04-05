@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಮಧ್ಯರೇಖೆಗಳು ಮತ್ತು ಸಮರೂಪ ತ್ರಿಭುಜಗಳು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, CM ಮತ್ತು RN ಗಳು ಕ್ರಮವಾಗಿ ತ್ರಿಭುಜ ABC ಮತ್ತು ತ್ರಿಭುಜ PQR ಗಳ ಮಧ್ಯರೇಖೆಗಳು. ತ್ರಿಭುಜ ABC ಯು ತ್ರಿಭುಜ PQR ಗೆ ಸಮರೂಪವಾಗಿದೆ ಎಂದು ನಮಗೆ ನೀಡಲಾಗಿದೆ. ನಾವು ಮೂರು ವಿಷಯಗಳನ್ನು ಸಾಧಿಸಬೇಕು: ಒಂದು, ತ್ರಿಭುಜ AMC ಯು ತ್ರಿಭುಜ PNR ಗೆ ಸಮರೂಪವಾಗಿದೆ. ಎರಡು, CM ಭಾಗಿಸು RN ಸಮ AB ಭಾಗಿಸು PQ. ಮತ್ತು ಮೂರು, ತ್ರಿಭುಜ CMB ಯು ತ್ರಿಭುಜ RNQ ಗೆ ಸಮರೂಪವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 6.33 ರಲ್ಲಿ, $CM$ ಮತ್ತು $RN$ ಗಳು ಕ್ರಮವಾಗಿ $\\triangle ABC$ ಮತ್ತು $\\triangle PQR$ ಗಳ ಮಧ್ಯರೇಖೆಗಳು. $\\triangle ABC \\sim \\triangle PQR$ ಎಂದು ನಮಗೆ ನೀಡಲಾಗಿದೆ. ನಾವು ಮೂರು ವಿಷಯಗಳನ್ನು ಸಾಧಿಸಬೇಕು:\n\n(i) $\\triangle AMC \\sim \\triangle PNR$\n\n(ii) $\\frac{CM}{RN} = \\frac{AB}{PQ}$\n\n(iii) $\\triangle CMB \\sim \\triangle RNQ$",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ಸಮರೂಪ ತ್ರಿಭುಜಗಳು, ABC ಮತ್ತು PQR. CM ಎಂಬುದು C ಶೃಂಗದಿಂದ AB ಬಾಹುವಿಗೆ ಎಳೆದ ಮಧ್ಯರೇಖೆ. RN ಎಂಬುದು R ಶೃಂಗದಿಂದ PQ ಬಾಹುವಿಗೆ ಎಳೆದ ಮಧ್ಯರೇಖೆ. M ಬಿಂದು ABಯ ಮಧ್ಯದಲ್ಲಿದೆ ಮತ್ತು N ಬಿಂದು PQಯ ಮಧ್ಯದಲ್ಲಿದೆ.",
+    "labels": "A, B, C, M, P, Q, R, N",
+    "mathematical_significance": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳಲ್ಲಿ ಮಧ್ಯರೇಖೆಗಳ ಗುಣಲಕ್ಷಣಗಳನ್ನು ವಿವರಿಸಲು ಈ ಚಿತ್ರವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಬಾ.ಕೋ.ಬಾ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ಅನ್ವಯಿಸಲು ಇದು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for problem GEO-TRI-2_example_6, showing two similar triangles ABC and PQR with medians CM and RN."
+  },
+  "source_example_id": "GEO-TRI-2_example_6",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_040"
+}

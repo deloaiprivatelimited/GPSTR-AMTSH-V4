@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಯಮ 3: ಹಂತ-ಹಂತವಾದ ಭರ್ತಿ",
+  "script": "ಮೂರನೇ ಮತ್ತು ಕೊನೆಯ ನಿಯಮವು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಕವಚಗಳನ್ನು ತುಂಬುವ ಕ್ರಮವನ್ನು ವಿವರಿಸುತ್ತದೆ. ಈ ನಿಯಮದ ಪ್ರಕಾರ, ಒಳಗಿನ ಕವಚಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಭರ್ತಿಯಾಗದ ಹೊರತು, ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ನಂತರದ, ಅಂದರೆ ಹೊರಗಿನ ಕವಚದಲ್ಲಿ ಭರ್ತಿಯಾಗುವುದಿಲ್ಲ. ಇದನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯಿಂದ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಒಂದು ಕಟ್ಟಡದಲ್ಲಿ ಮಹಡಿಗಳನ್ನು ಕಟ್ಟುವಾಗ, ಮೊದಲ ಮಹಡಿ ಪೂರ್ಣಗೊಂಡ ನಂತರವೇ ಎರಡನೇ ಮಹಡಿಯನ್ನು ಕಟ್ಟಲು ಸಾಧ್ಯ. ಹಾಗೆಯೇ, ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಮೊದಲು ಕಡಿಮೆ ಶಕ್ತಿ ಮಟ್ಟವಿರುವ K ಕವಚವನ್ನು ತುಂಬುತ್ತವೆ, ನಂತರ L ಕವಚ, ನಂತರ M ಕವಚ, ಹೀಗೆ ಹಂತ ಹಂತವಾಗಿ ತುಂಬುತ್ತಾ ಹೋಗುತ್ತವೆ.",
+  "script_display": "ಮೂರನೇ ಮತ್ತು ಕೊನೆಯ ನಿಯಮವು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಕವಚಗಳನ್ನು ತುಂಬುವ ಕ್ರಮವನ್ನು ವಿವರಿಸುತ್ತದೆ.\n• ಒಳಗಿನ ಕವಚಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಭರ್ತಿಯಾಗದ ಹೊರತು, ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ನಂತರದ (ಹೊರಗಿನ) ಕವಚದಲ್ಲಿ ಭರ್ತಿಯಾಗುವುದಿಲ್ಲ.\n• ಅಂದರೆ, ಕವಚಗಳು ಹಂತ ಹಂತವಾಗಿ, ಕಡಿಮೆ ಶಕ್ತಿ ಮಟ್ಟದಿಂದ ಹೆಚ್ಚಿನ ಶಕ್ತಿ ಮಟ್ಟಕ್ಕೆ ತುಂಬಿಕೊಳ್ಳುತ್ತವೆ (K → L → M...).",
+  "display_bullets": [
+    "ಒಳಗಿನ ಕವಚಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಭರ್ತಿಯಾಗುವವರೆಗೆ ಹೊರಗಿನ ಕವಚಗಳು ಭರ್ತಿಯಾಗುವುದಿಲ್ಲ.",
+    "ಕವಚಗಳು ಹಂತ ಹಂತವಾಗಿ, ಕ್ರಮಬದ್ಧವಾಗಿ ತುಂಬುತ್ತವೆ.",
+    "ಭರ್ತಿಯಾಗುವ ಕ್ರಮವು ಕಡಿಮೆ ಶಕ್ತಿ ಮಟ್ಟದಿಂದ ಹೆಚ್ಚಿನ ಶಕ್ತಿ ಮಟ್ಟಕ್ಕೆ ಇರುತ್ತದೆ (K → L → M...)."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "standard_definition",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple animation-style sequence of three diagrams. 1: Nucleus with K shell being filled. 2: K shell is full, L shell is being filled. 3: K and L shells are full, M shell is being filled. Arrows indicate the filling order.",
+    "labels": "Step 1: Fill K shell, Step 2: Fill L shell, Step 3: Fill M shell",
+    "scientific_significance": "Visually demonstrates the stepwise filling of electron shells, from lower energy levels to higher ones.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_4_concept_5_chunk_007"
+}

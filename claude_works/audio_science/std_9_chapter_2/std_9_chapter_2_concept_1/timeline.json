@@ -1,0 +1,101 @@
+{
+  "module_id": "std_9_chapter_2_concept_1",
+  "chapter_code": "std_9_chapter_2",
+  "voice": "Callirrhoe",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 375.848,
+  "total_duration_formatted": "6:15",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_2_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಶುದ್ಧ ವಸ್ತುಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 48.051,
+      "duration": 48.051,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_1_chunk_002",
+      "chunk_file": "002_definition_0.json",
+      "wav_file": "002_definition_0.wav",
+      "slide_title": "ಶುದ್ಧ ವಸ್ತು (Pure Substance)",
+      "type": "definition",
+      "start": 48.651,
+      "end": 87.102,
+      "duration": 38.451,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_1_chunk_003",
+      "chunk_file": "003_definition_cont_0_1.json",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಶುದ್ಧ ನೀರು",
+      "type": "definition",
+      "start": 87.702,
+      "end": 120.313,
+      "duration": 32.611,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_1_chunk_004",
+      "chunk_file": "004_definition_cont_0_2.json",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "slide_title": "ಹೋಲಿಕೆ: ಉಪ್ಪು ನೀರು (ಒಂದು ಮಿಶ್ರಣ)",
+      "type": "definition",
+      "start": 120.913,
+      "end": 161.004,
+      "duration": 40.091,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_1_chunk_005",
+      "chunk_file": "005_definition_1.json",
+      "wav_file": "005_definition_1.wav",
+      "slide_title": "ಮಿಶ್ರಣ ಎಂದರೇನು?",
+      "type": "definition",
+      "start": 161.604,
+      "end": 216.455,
+      "duration": 54.851,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_1_chunk_006",
+      "chunk_file": "006_definition_cont_1_1.json",
+      "wav_file": "006_definition_cont_1_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ನಿಂಬೆ ಪಾನಕ",
+      "type": "definition",
+      "start": 217.055,
+      "end": 277.986,
+      "duration": 60.931,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_1_chunk_007",
+      "chunk_file": "007_definition_cont_1_2.json",
+      "wav_file": "007_definition_cont_1_2.wav",
+      "slide_title": "ಮಿಶ್ರಣ vs ಸಂಯುಕ್ತ",
+      "type": "definition",
+      "start": 278.586,
+      "end": 334.677,
+      "duration": 56.091,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_1_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 335.277,
+      "end": 375.248,
+      "duration": 39.971,
+      "script_words": 52
+    }
+  ]
+}

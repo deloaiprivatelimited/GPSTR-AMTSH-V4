@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಎಲೆಕ್ಟ್ರಾನ್ ಗಳಿಕೆ: ಅಷ್ಟಕ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆ",
+  "script": "ಕ್ಲೋರಿನ್ ಪರಮಾಣುವಿನ ಪರಮಾಣು ಸಂಖ್ಯೆ 17. ಇದರ ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ 2, 8, 7 ಆಗಿದೆ. ನೀವು ನೋಡುವಂತೆ, ಇದರ ಹೊರ ಕವಚದಲ್ಲಿ 7 ವೇಲೆನ್ಸ್ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳಿವೆ. ಅಷ್ಟಕವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ ಸ್ಥಿರತೆಯನ್ನು ಪಡೆಯಲು, ಇದಕ್ಕೆ ಇನ್ನೂ ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಬೇಕಾಗುತ್ತದೆ.",
+  "script_display": "ಕ್ಲೋರಿನ್ ಪರಮಾಣುವಿನ ಪರಮಾಣು ಸಂಖ್ಯೆ 17. ಇದರ ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ 2, 8, 7 ಆಗಿದೆ. ನೀವು ನೋಡುವಂತೆ, ಇದರ ಹೊರ ಕವಚದಲ್ಲಿ 7 ವೇಲೆನ್ಸ್ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳಿವೆ. ಅಷ್ಟಕವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ ಸ್ಥಿರತೆಯನ್ನು ಪಡೆಯಲು, ಇದಕ್ಕೆ ಇನ್ನೂ ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಬೇಕಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕ್ಲೋರಿನ್ (Cl) ಪರಮಾಣು ಸಂಖ್ಯೆ: 17",
+    "ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ: 2, 8, 7",
+    "ಹೊರ ಕವಚದಲ್ಲಿ 7 ವೇಲೆನ್ಸ್ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು",
+    "ಅಷ್ಟಕ ಪೂರ್ಣಗೊಳಿಸಲು 1 ಎಲೆಕ್ಟ್ರಾನ್‌ನ ಅವಶ್ಯಕತೆ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Diagram showing a chlorine atom (Cl) with its electron shells (2, 8, 7). An arrow indicates an incoming electron (e⁻) moving towards its outermost shell. The diagram should clearly show the 7 valence electrons.",
+    "labels": "ಕ್ಲೋರಿನ್ ಪರಮಾಣು (Cl), ಎಲೆಕ್ಟ್ರಾನ್ ಕವಚಗಳು (K, L, M), ವೇಲೆನ್ಸ್ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳು",
+    "scientific_significance": "Shows the electron configuration of chlorine and its need for one electron to achieve a stable octet.",
+    "placeholder_note": "Image to be generated: Bohr model of Chlorine atom (2,8,7) with an arrow showing an electron approaching the outer shell."
+  },
+  "chunk_id": "std_10_chapter_3_concept_7_chunk_015"
+}

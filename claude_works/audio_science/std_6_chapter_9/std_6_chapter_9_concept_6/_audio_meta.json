@@ -1,0 +1,125 @@
+{
+  "module_id": "std_6_chapter_9_concept_6",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Leda",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:33:48",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "ec867ecd0865c881104017a9b18616d1",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.331,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 45,
+      "generated_at": "2026-04-02 13:32:09"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "e4f05f23229eca27d5d9524d938c2685",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 38.611,
+      "slide_title": "ಉದಾಹರಣೆ: ಮಣ್ಣು ಮಿಶ್ರಿತ ನೀರು",
+      "type": "definition",
+      "script_words": 47,
+      "generated_at": "2026-04-02 13:32:12"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "9eddc955fc456a5d3b50aad6c419c584",
+      "wav_file": "003_definition_0.wav",
+      "duration": 40.491,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ತಳಸೇರುವಿಕೆ (Sedimentation)",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:32:14"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "a7a65eb58c64937102d46645b22bc103",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 41.491,
+      "slide_title": "ತಳಸೇರುವಿಕೆಯ ಪರಿಣಾಮ",
+      "type": "definition",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:32:30"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "0e94a5109154dc7117239bbe8bc3cb06",
+      "wav_file": "001_intro_0.wav",
+      "duration": 56.171,
+      "slide_title": "ತಳಸೇರುವಿಕೆ ಮತ್ತು ಬಸಿಯುವಿಕೆ",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-04-02 13:32:32"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "23f4e676efa7ab819d289076adc3276e",
+      "wav_file": "006_definition_1.wav",
+      "duration": 37.771,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಬಸಿಯುವಿಕೆ (Decantation)",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:33:11"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "1bae098adedf03c84bdd45835ac5f9e8",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 38.691,
+      "slide_title": "ಉದಾಹರಣೆ: ಬಸಿಯುವಿಕೆ",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:33:15"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "449098ab7e2a97558f7d6f9d8c8ec93b",
+      "wav_file": "010_recap_0.wav",
+      "duration": 37.771,
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "script_words": 49,
+      "generated_at": "2026-04-02 13:33:17"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "c9839f6b7cac69d22f4c6c747d64cfe7",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 40.211,
+      "slide_title": "ಬಸಿಯುವಿಕೆಯ ಮಿತಿಗಳು",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:33:19"
+    },
+    "009_property_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "373e239cd78bd6e5eda316b2fdbbb7dc",
+      "wav_file": "009_property_0.wav",
+      "duration": 70.571,
+      "slide_title": "ತಳಸೇರುವಿಕೆ ಮತ್ತು ಬಸಿಯುವಿಕೆಯ ತತ್ವ",
+      "type": "concept_explanation",
+      "script_words": 82,
+      "generated_at": "2026-04-02 13:33:48"
+    }
+  }
+}

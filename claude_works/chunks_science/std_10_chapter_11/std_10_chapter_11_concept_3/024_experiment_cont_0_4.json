@@ -1,0 +1,35 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ನಕ್ಷೆ",
+  "script": "ನಾವು ಸಂಗ್ರಹಿಸಿದ ದತ್ತಾಂಶವನ್ನು ಈಗ ವಿಶ್ಲೇಷಿಸೋಣ. ನೀವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದ ವಿ ಭಾಗಿಸು ಐ ಅನುಪಾತವನ್ನು ಗಮನಿಸಿ. ಪ್ರತಿ ರೀಡಿಂಗ್‌ಗೂ ಈ ಅನುಪಾತದ ಮೌಲ್ಯವು ಹೆಚ್ಚು ಕಡಿಮೆ ಸ್ಥಿರವಾಗಿರುವುದನ್ನು ನೀವು ಕಾಣಬಹುದು. ಇದು ಒಂದು ಪ್ರಮುಖ ವೀಕ್ಷಣೆಯಾಗಿದೆ. ಈಗ, ನಾವು ವಿಭವಾಂತರ ವಿ ಅನ್ನು ವೈ ಅಕ್ಷದಲ್ಲಿ ಮತ್ತು ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಐ ಅನ್ನು ಎಕ್ಸ್ ಅಕ್ಷದಲ್ಲಿ ತೆಗೆದುಕೊಂಡು ಒಂದು ನಕ್ಷೆಯನ್ನು ರಚಿಸಿದರೆ, ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಂತೆ ಆ ನಕ್ಷೆಯು ಮೂಲಬಿಂದುವಿನ ಮೂಲಕ ಹಾದುಹೋಗುವ ಒಂದು ಸರಳರೇಖೆಯಾಗಿರುತ್ತದೆ. ಈ ಸರಳರೇಖೆಯು ವಿ ಮತ್ತು ಐ ನಡುವಿನ ನೇರ ಅನುಪಾತವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ನಾವು ಸಂಗ್ರಹಿಸಿದ ದತ್ತಾಂಶವನ್ನು ಈಗ ವಿಶ್ಲೇಷಿಸೋಣ. ನೀವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದ V/I ಅನುಪಾತವನ್ನು ಗಮನಿಸಿ. ಪ್ರತಿ ರೀಡಿಂಗ್‌ಗೂ ಈ ಅನುಪಾತದ ಮೌಲ್ಯವು ಹೆಚ್ಚು ಕಡಿಮೆ ಸ್ಥಿರವಾಗಿರುವುದನ್ನು ನೀವು ಕಾಣಬಹುದು. ಇದು ಒಂದು ಪ್ರಮುಖ ವೀಕ್ಷಣೆಯಾಗಿದೆ. ಈಗ, ನಾವು ವಿಭವಾಂತರ V ಅನ್ನು Y-ಅಕ್ಷದಲ್ಲಿ ಮತ್ತು ವಿದ್ಯುತ್ ಪ್ರವಾಹ I ಅನ್ನು X-ಅಕ್ಷದಲ್ಲಿ ತೆಗೆದುಕೊಂಡು ಒಂದು ನಕ್ಷೆಯನ್ನು ರಚಿಸಿದರೆ, ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಂತೆ ಆ ನಕ್ಷೆಯು ಮೂಲಬಿಂದುವಿನ (origin) ಮೂಲಕ ಹಾದುಹೋಗುವ ಒಂದು ಸರಳರೇಖೆಯಾಗಿರುತ್ತದೆ. ಈ ಸರಳರೇಖೆಯು V ಮತ್ತು I ನಡುವಿನ ನೇರ ಅನುಪಾತವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ವೀಕ್ಷಣೆ 1: V/I ಅನುಪಾತವು ಪ್ರತಿ ಬಾರಿಯೂ ಸುಮಾರು ಸ್ಥಿರವಾಗಿರುತ್ತದೆ.",
+    "ವೀಕ್ಷಣೆ 2: V-I ನಕ್ಷೆಯು ಮೂಲಬಿಂದುವಿನ ಮೂಲಕ ಹಾದುಹೋಗುವ ಸರಳರೇಖೆಯಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "style_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A V-I graph for an ohmic conductor. The y-axis is Potential Difference (V) and the x-axis is Current (I). The graph is a straight line passing through the origin (0,0).",
+    "labels": "X-axis: ವಿದ್ಯುತ್ ಪ್ರವಾಹ (I) (A), Y-axis: ವಿಭವಾಂತರ (V) (V), Graph: ಸರಳರೇಖೆ",
+    "scientific_significance": "The straight line indicates that V is directly proportional to I. The slope of the graph (V/I) gives the resistance (R) of the conductor.",
+    "placeholder_note": "Image of the V-I graph."
+  },
+  "chunk_id": "std_10_chapter_11_concept_3_chunk_024"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: 12 ಮತ್ತು 18",
+  "script": "ಈಗ ನಮ್ಮ ಎರಡನೇ ಹಂತ. ಎರಡನೇ ಸಂಖ್ಯೆಯಾದ ಹದಿನೆಂಟರ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. ಹದಿನೆಂಟನ್ನು ಯಾವೆಲ್ಲಾ ಸಂಖ್ಯೆಗಳು ಪೂರ್ಣವಾಗಿ ಭಾಗಿಸುತ್ತವೆ ಎಂದು ಯೋಚಿಸಿ. ಅವು ಒಂದು, ಎರಡು, ಮೂರು, ಆರು, ಒಂಬತ್ತು, ಮತ್ತು ಹದಿನೆಂಟು. ಹಾಗಾಗಿ, ಇವು ಹದಿನೆಂಟರ ಅಪವರ್ತನಗಳ ಪಟ್ಟಿ.",
+  "script_display": "ಈಗ ನಮ್ಮ ಎರಡನೇ ಹಂತ. ಎರಡನೇ ಸಂಖ್ಯೆಯಾದ 18ರ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. 18ನ್ನು ಯಾವೆಲ್ಲಾ ಸಂಖ್ಯೆಗಳು ಪೂರ್ಣವಾಗಿ ಭಾಗಿಸುತ್ತವೆ ಎಂದು ಯೋಚಿಸಿ. ಅವು 1, 2, 3, 6, 9, ಮತ್ತು 18. ಹಾಗಾಗಿ, ಇವು 18ರ ಅಪವರ್ತನಗಳ ಪಟ್ಟಿ.",
+  "display_bullets": [
+    "**ಹಂತ 2:** ಎರಡನೇ ಸಂಖ್ಯೆಯಾದ 18ರ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ.",
+    "18ರ ಅಪವರ್ತನಗಳು: **1, 2, 3, 6, 9, 18**"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "18 \\text{ರ ಅಪವರ್ತನಗಳು}: \\{1, 2, 3, 6, 9, 18\\}",
+    "placeholder_note": "List of factors of 18"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "NS-PRI-1_concept_1_chunk_019"
+}

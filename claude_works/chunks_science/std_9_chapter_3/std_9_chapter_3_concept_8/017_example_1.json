@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: CaCl₂ ನ ಘಟಕ ಸೂತ್ರರಾಶಿ",
+  "script": "ಈಗ ನಾವು ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ಘಟಕ ಸೂತ್ರರಾಶಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್, ಅಂದರೆ ಸಿ ಎ ಸಿ ಎಲ್ ಟೂ, ನ ಘಟಕ ಸೂತ್ರರಾಶಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ. ನಮಗೆ ಕ್ಯಾಲ್ಸಿಯಂನ ಪರಮಾಣು ರಾಶಿ ನಲವತ್ತು ಯು ಮತ್ತು ಕ್ಲೋರಿನ್‌ನ ಪರಮಾಣು ರಾಶಿ ಮೂವತ್ತೈದು ಪಾಯಿಂಟ್ ಐದು ಯು ಎಂದು ಕೊಡಲಾಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಸಿ ಎ ಸಿ ಎಲ್ ಟೂ ನ ಒಟ್ಟು ಘಟಕ ಸೂತ್ರರಾಶಿ.",
+  "script_display": "ಈಗ ನಾವು ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ (CaCl₂) ಘಟಕ ಸೂತ್ರರಾಶಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ.",
+  "display_bullets": [
+    "**ಪ್ರಶ್ನೆ:** ಕ್ಯಾಲ್ಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ (CaCl₂) ಘಟಕ ಸೂತ್ರರಾಶಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+    "**ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ:** Ca = 40 u, Cl = 35.5 u",
+    "**ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು:** CaCl₂ ನ ಘಟಕ ಸೂತ್ರರಾಶಿ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CaCl_2",
+    "placeholder_note": "Chemical formula for Calcium Chloride"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_3_example_7",
+  "chunk_id": "std_9_chapter_3_concept_8_chunk_017"
+}

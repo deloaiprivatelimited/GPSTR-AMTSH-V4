@@ -1,0 +1,51 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: 729 ರ ವರ್ಗಮೂಲ (ಹಂತ 1-2)",
+  "script": "ಮೊದಲಿಗೆ, 729 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಬಿಡಿ ಸ್ಥಾನದಿಂದ ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡುತ್ತೇವೆ. ಇಲ್ಲಿ, 29 ಒಂದು ಜೋಡಿ ಮತ್ತು 7 ಒಂಟಿಯಾಗಿ ಉಳಿಯುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಮೊದಲ ಸಂಖ್ಯೆ 7 ಅನ್ನು ಭಾಗಿಸುತ್ತೇವೆ. 7 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ ಸಂಖ್ಯೆ 4, ಅದು 2 ರ ವರ್ಗ. ಆದ್ದರಿಂದ, ಭಾಜಕ ಮತ್ತು ಭಾಗಲಬ್ಧ ಎರಡೂ 2 ಆಗುತ್ತದೆ. 7 ರಿಂದ 4 ಕಳೆದರೆ, ಶೇಷ 3 ಉಳಿಯುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, 729 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಬಿಡಿ ಸ್ಥಾನದಿಂದ ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡುತ್ತೇವೆ. ಇಲ್ಲಿ, 29 ಒಂದು ಜೋಡಿ ಮತ್ತು 7 ಒಂಟಿಯಾಗಿ ಉಳಿಯುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಮೊದಲ ಸಂಖ್ಯೆ 7 ಅನ್ನು ಭಾಗಿಸುತ್ತೇವೆ. 7 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ ಸಂಖ್ಯೆ 4, ಅದು $2^2$. ಆದ್ದರಿಂದ, ಭಾಜಕ ಮತ್ತು ಭಾಗಲಬ್ಧ ಎರಡೂ 2 ಆಗುತ್ತದೆ. $7 - 4$ ಕಳೆದರೆ, ಶೇಷ 3 ಉಳಿಯುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_full",
+    "template": "visual_full_kannada",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದ ಮೊದಲ ಎರಡು ಹಂತಗಳು. 729 ರಲ್ಲಿ ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡಲಾಗಿದೆ (7 ಮತ್ತು 29). 7 ನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿ, ಭಾಗಲಬ್ಧ 2 ಮತ್ತು ಶೇಷ 3 ಎಂದು ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "ಭಾಜಕ, ಭಾಜ್ಯ, ಭಾಗಲಬ್ಧ, ಶೇಷ",
+    "mathematical_significance": "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಲ್ಲಿ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಆರಂಭಿಕ ಹಂತಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing the first two steps of long division for sqrt(729)."
+  },
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡುವುದು: $\\overline{7} \\ \\overline{29}$",
+      "justification": "ಬಿಡಿ ಸ್ಥಾನದಿಂದ ಎಡಕ್ಕೆ ಜೋಡಿಗಳನ್ನು ಮಾಡಬೇಕು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಮೊದಲ ಅಂಕಿಯನ್ನು (7) ಭಾಗಿಸುವುದು. ಭಾಜಕ = 2, ಭಾಗಲಬ್ಧ = 2. ಶೇಷ: $7 - 4 = 3$.",
+      "justification": "$2^2 = 4$, ಇದು 7 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-SQR-2_concept_7_chunk_036",
+  "source_example_id": "NS-SQR-2_example_14"
+}

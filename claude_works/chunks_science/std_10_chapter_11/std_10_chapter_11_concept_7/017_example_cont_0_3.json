@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ, ರೋಧಕದ ನಡುವಿನ ವಿಭವಾಂತರ 20 ವೋಲ್ಟ್ ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ನಾವು ಎರಡು ಪ್ರಮುಖ ಸೂತ್ರಗಳನ್ನು ಬಳಸಿದ್ದೇವೆ: ಮೊದಲು ಪ್ರವಾಹವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಜೌಲ್‌ನ ಉಷ್ಣೋತ್ಪಾದನಾ ನಿಯಮ, ಮತ್ತು ನಂತರ ವಿಭವಾಂತರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಓಮ್‌ನ ನಿಯಮ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ, ರೋಧಕದ ನಡುವಿನ ವಿಭವಾಂತರ 20 V ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ನಾವು ಎರಡು ಪ್ರಮುಖ ಸೂತ್ರಗಳನ್ನು ಬಳಸಿದ್ದೇವೆ: ಮೊದಲು ಪ್ರವಾಹವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಜೌಲ್‌ನ ಉಷ್ಣೋತ್ಪಾದನಾ ನಿಯಮ, ಮತ್ತು ನಂತರ ವಿಭವಾಂತರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಓಮ್‌ನ ನಿಯಮ.",
+  "display_bullets": [
+    "ರೋಧಕದ ನಡುವಿನ ವಿಭವಾಂತರ 20 V ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "template_physics_green",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "std_10_chapter_11_example_11.11",
+  "final_answer": "20 V",
+  "final_answer_display": "20 V",
+  "chunk_id": "std_10_chapter_11_concept_7_chunk_017"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಸಗೊಬ್ಬರಗಳ ಅನಾನುಕೂಲಗಳು",
+  "script": "ರಸಗೊಬ್ಬರಗಳು ಅಧಿಕ ಇಳುವರಿ ನೀಡಲು ಸಹಾಯಕವಾದರೂ, ಅವುಗಳ ಅತಿಯಾದ ಬಳಕೆಯಿಂದ ಕೆಲವು ಗಂಭೀರ ಅನಾನುಕೂಲಗಳಿವೆ. ಮೊದಲನೆಯದಾಗಿ, ಇವುಗಳ ನಿರಂತರ ಬಳಕೆಯು ಮಣ್ಣಿನಲ್ಲಿರುವ ಸಾವಯವ ವಸ್ತುಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಿ, ಮಣ್ಣನ್ನು ಗಟ್ಟಿಯಾಗಿಸುತ್ತದೆ ಮತ್ತು ದೀರ್ಘಾವಧಿಯಲ್ಲಿ ಅದರ ಫಲವತ್ತತೆಯನ್ನು ನಾಶಮಾಡುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಇವು ಮಣ್ಣಿನಲ್ಲಿರುವ ಎರೆಹುಳುಗಳಂತಹ ಉಪಯುಕ್ತ ಸೂಕ್ಷ್ಮಜೀವಿಗಳಿಗೆ ಹಾನಿ ಉಂಟುಮಾಡುತ್ತವೆ. ಮೂರನೆಯದಾಗಿ, ಮಳೆಯಾದಾಗ, ಈ ರಸಗೊಬ್ಬರಗಳು ನೀರಿನೊಂದಿಗೆ ಕೊಚ್ಚಿಹೋಗಿ, ಕೆರೆ, ನದಿಗಳಂತಹ ಜಲಮೂಲಗಳನ್ನು ಸೇರಿ ಜಲ ಮಾಲಿನ್ಯವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಇದನ್ನು ಯೂಟ್ರೋಫಿಕೇಶನ್ ಎನ್ನುತ್ತಾರೆ.",
+  "script_display": "ರಸಗೊಬ್ಬರಗಳ ಅತಿಯಾದ ಅಥವಾ ಅಸಮರ್ಪಕ ಬಳಕೆಯು ಹಾನಿಕಾರಕವಾಗಿದೆ:\n\n*   **ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ನಾಶ:** ದೀರ್ಘಕಾಲದ ಬಳಕೆಯು ಮಣ್ಣಿನ ಭೌತಿಕ ಮತ್ತು ಜೈವಿಕ ಗುಣಗಳನ್ನು ಹಾಳುಮಾಡುತ್ತದೆ.\n*   **ಸೂಕ್ಷ್ಮಜೀವಿಗಳಿಗೆ ಹಾನಿ:** ಮಣ್ಣಿನಲ್ಲಿರುವ ಉಪಯುಕ್ತ ಜೀವಿಗಳನ್ನು ನಾಶಪಡಿಸುತ್ತದೆ.\n*   **ಜಲ ಮಾಲಿನ್ಯ:** ಮಳೆ ನೀರಿನೊಂದಿಗೆ ಕೊಚ್ಚಿಹೋಗಿ ಜಲಮೂಲಗಳನ್ನು ಸೇರಿ ಮಾಲಿನ್ಯ ಉಂಟುಮಾಡುತ್ತದೆ (Eutrophication).",
+  "display_bullets": [
+    "ಅತಿಯಾದ ಬಳಕೆಯಿಂದ ದೀರ್ಘಾವಧಿಯಲ್ಲಿ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ನಾಶ.",
+    "ಮಣ್ಣಿನಲ್ಲಿರುವ ಉಪಯುಕ್ತ ಸೂಕ್ಷ್ಮಜೀವಿಗಳಿಗೆ ಹಾನಿ.",
+    "ಜಲಮೂಲಗಳನ್ನು ಸೇರಿ ಜಲ ಮಾಲಿನ್ಯಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An infographic showing fertilizer pellets washing from a farm field into a river during rainfall. The river water is shown turning green with algae bloom, with a sad-looking fish.",
+    "labels": "ಜಲ ಮಾಲಿನ್ಯ (ಯೂಟ್ರೋಫಿಕೇಶನ್)",
+    "scientific_significance": "Illustrates the ecological problem of eutrophication caused by fertilizer runoff.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_4_chunk_009"
+}

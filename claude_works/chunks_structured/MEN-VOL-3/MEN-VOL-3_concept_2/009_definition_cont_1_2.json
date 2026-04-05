@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಅರ್ಧಗೋಳದ ಮೇಲ್ಮೈಗಳು",
+  "script": "ಒಂದು ಪ್ರಮುಖ ವಿಷಯವನ್ನು ಗಮನಿಸಬೇಕು. ಗೋಳಕ್ಕೆ ಒಂದೇ ಒಂದು ವಕ್ರ ಮೇಲ್ಮೈ ಇರುತ್ತದೆ. ಆದರೆ ಅರ್ಧಗೋಳಕ್ಕೆ ಎರಡು ವಿಭಿನ್ನ ಮೇಲ್ಮೈಗಳಿವೆ. ಮೊದಲನೆಯದು, ಅದರ ವಕ್ರವಾದ ಭಾಗ, ಇದನ್ನು ವಕ್ರ ಮೇಲ್ಮೈ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಎರಡನೆಯದು, ಅದರ ತಳಭಾಗದಲ್ಲಿರುವ ಸಮತಟ್ಟಾದ ವೃತ್ತಾಕಾರದ ಪಾದ. ಈ ವ್ಯತ್ಯಾಸವು ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವಾಗ ಬಹಳ ಮುಖ್ಯವಾಗುತ್ತದೆ, ಇದನ್ನು ನಾವು ಮುಂದೆ ನೋಡೋಣ.",
+  "script_display": "ಒಂದು ಪ್ರಮುಖ ವಿಷಯವನ್ನು ಗಮನಿಸಬೇಕು. ಗೋಳಕ್ಕೆ ಒಂದೇ ಒಂದು ವಕ್ರ ಮೇಲ್ಮೈ ಇರುತ್ತದೆ. ಆದರೆ ಅರ್ಧಗೋಳಕ್ಕೆ ಎರಡು ವಿಭಿನ್ನ ಮೇಲ್ಮೈಗಳಿವೆ. ಮೊದಲನೆಯದು ವಕ್ರ ಮೇಲ್ಮೈ. ಎರಡನೆಯದು ಸಮತಟ್ಟಾದ ವೃತ್ತಾಕಾರದ ಪಾದ. ಈ ವ್ಯತ್ಯಾಸವು ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವಾಗ ಬಹಳ ಮುಖ್ಯವಾಗುತ್ತದೆ, ಇದನ್ನು ನಾವು ಮುಂದೆ ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಅರ್ಧಗೋಳಕ್ಕೆ ಎರಡು ವಿಭಿನ್ನ ಮೇಲ್ಮೈಗಳಿವೆ.",
+    "1. ವಕ್ರ ಮೇಲ್ಮೈ (Curved Surface)",
+    "2. ಸಮತಟ್ಟಾದ ವೃತ್ತಾಕಾರದ ಪಾದ (Flat Circular Base)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A single hemisphere shown from an angle. The curved surface is colored blue, and the flat circular base is colored green. Arrows point to each surface with labels.",
+    "labels": "ವಕ್ರ ಮೇಲ್ಮೈ, ಸಮತಟ್ಟಾದ ಪಾದ",
+    "mathematical_significance": "Visually distinguishes between the curved surface area (CSA) and the flat base, which is crucial for understanding the difference between CSA (2*pi*r^2) and TSA (3*pi*r^2) of a hemisphere.",
+    "placeholder_note": "Image to be generated."
+  },
+  "chunk_id": "MEN-VOL-3_concept_2_chunk_009"
+}

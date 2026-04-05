@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಹಣ್ಣಿನ ಬುಟ್ಟಿ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಒಂದು ಬುಟ್ಟಿಯಲ್ಲಿ 5 ಸೇಬುಗಳು ಮತ್ತು 3 ಕಿತ್ತಳೆ ಹಣ್ಣುಗಳಿವೆ ಎಂದು ಭಾವಿಸೋಣ. ಇಲ್ಲಿ ನಾವು ಸೇಬುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಿತ್ತಳೆ ಹಣ್ಣುಗಳ ಸಂಖ್ಯೆಗೆ ಹೋಲಿಸಬಹುದು. ಸೇಬುಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಕಿತ್ತಳೆ ಹಣ್ಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತವು 5 ಅನುಪಾತ 3 ಆಗಿದೆ. ಇದನ್ನು ನಾವು 5 ಕೋಲನ್ 3 ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಅದೇ ರೀತಿ, ಕಿತ್ತಳೆ ಹಣ್ಣುಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಸೇಬುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತವು 3 ಅನುಪಾತ 5 ಆಗಿರುತ್ತದೆ, ಅಂದರೆ 3 ಕೋಲನ್ 5.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಒಂದು ಬುಟ್ಟಿಯಲ್ಲಿ 5 ಸೇಬುಗಳು ಮತ್ತು 3 ಕಿತ್ತಳೆ ಹಣ್ಣುಗಳಿವೆ ಎಂದು ಭಾವಿಸೋಣ. ಇಲ್ಲಿ ನಾವು ಸೇಬುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಿತ್ತಳೆ ಹಣ್ಣುಗಳ ಸಂಖ್ಯೆಗೆ ಹೋಲಿಸಬಹುದು. ಸೇಬುಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಕಿತ್ತಳೆ ಹಣ್ಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತವು 5 ಅನುಪಾತ 3 ಆಗಿದೆ. ಇದನ್ನು ನಾವು $5 : 3$ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಅದೇ ರೀತಿ, ಕಿತ್ತಳೆ ಹಣ್ಣುಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಸೇಬುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತವು 3 ಅನುಪಾತ 5 ಆಗಿರುತ್ತದೆ, ಅಂದರೆ $3 : 5$.",
+  "display_bullets": [
+    "ಒಂದು ಬುಟ್ಟಿಯಲ್ಲಿ 5 ಸೇಬುಗಳು ಮತ್ತು 3 ಕಿತ್ತಳೆ ಹಣ್ಣುಗಳಿವೆ.",
+    "ಸೇಬುಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಕಿತ್ತಳೆ ಹಣ್ಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತ = $5 : 3$.",
+    "ಕಿತ್ತಳೆ ಹಣ್ಣುಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಸೇಬುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತ = $3 : 5$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clear drawing of 5 red apples and 3 orange oranges placed side-by-side on a neutral background. The art style should be clean and easily understandable.",
+    "labels": "5 apples, 3 oranges",
+    "mathematical_significance": "This visual provides a concrete representation of two distinct quantities (5 and 3) that are being compared, making the abstract concept of ratio easier to grasp.",
+    "placeholder_note": "Image to be generated: 5 apples and 3 oranges."
+  },
+  "chunk_id": "RPP-COMP-1_concept_1_chunk_004"
+}

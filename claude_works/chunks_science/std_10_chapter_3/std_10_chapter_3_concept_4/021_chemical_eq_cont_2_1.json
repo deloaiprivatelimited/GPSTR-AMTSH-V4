@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯ ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಕ್ರಿಯೆಯನ್ನು ದೃಶ್ಯರೂಪದಲ್ಲಿ ನೋಡಬಹುದು. ಎಡಭಾಗದಲ್ಲಿ ವರ್ತಕಗಳಿವೆ: ನಾಲ್ಕು ಪ್ರತ್ಯೇಕ ಅಲ್ಯೂಮಿನಿಯಂ ಪರಮಾಣುಗಳು ಮತ್ತು ಮೂರು ಆಕ್ಸಿಜನ್ ಅಣುಗಳು. ಇವುಗಳು ವರ್ತಿಸಿದಾಗ, ಬಲಭಾಗದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಎರಡು ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಸಂಯುಕ್ತಗಳು ಉಂಟಾಗುತ್ತವೆ. ಪ್ರತಿ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್‌ನಲ್ಲಿ ಎರಡು ಅಲ್ಯೂಮಿನಿಯಂ ಮತ್ತು ಮೂರು ಆಕ್ಸಿಜನ್ ಪರಮಾಣುಗಳು ಬಂಧಿಸಲ್ಪಟ್ಟಿರುತ್ತವೆ.",
+  "script_display": "ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಕ್ರಿಯೆಯನ್ನು ದೃಶ್ಯರೂಪದಲ್ಲಿ ನೋಡಬಹುದು. ಎಡಭಾಗದಲ್ಲಿ ವರ್ತಕಗಳಿವೆ: 4 ಪ್ರತ್ಯೇಕ Al ಪರಮಾಣುಗಳು ಮತ್ತು 3 O₂ ಅಣುಗಳು. ಇವುಗಳು ವರ್ತಿಸಿದಾಗ, ಬಲಭಾಗದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, 2 Al₂O₃ ಸಂಯುಕ್ತಗಳು ಉಂಟಾಗುತ್ತವೆ. ಪ್ರತಿ Al₂O₃ ನಲ್ಲಿ 2 Al ಮತ್ತು 3 O ಪರಮಾಣುಗಳು ಬಂಧಿಸಲ್ಪಟ್ಟಿರುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing four individual aluminium atoms (labeled Al) and three diatomic oxygen molecules (labeled O₂) on the left side (reactants). An arrow points to the right side (products), which shows two formula units of aluminium oxide. Each aluminium oxide unit consists of two aluminium atoms bonded to three oxygen atoms (Al₂O₃).",
+    "labels": "Reactants: 4 Al atoms, 3 O₂ molecules; Products: 2 Al₂O₃ formula units",
+    "scientific_significance": "Illustrates the stoichiometry and conservation of atoms in the formation of aluminium oxide from its elements.",
+    "placeholder_note": "Image to be generated showing 4 grey spheres (Al) and 3 pairs of red spheres (O₂) on the left, and 2 clusters of (2 grey + 3 red spheres) on the right."
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_021"
+}

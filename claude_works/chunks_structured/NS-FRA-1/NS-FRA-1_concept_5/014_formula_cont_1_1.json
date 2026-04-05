@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಇದು ಏಕೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?",
+  "script": "ಈ ನಿಯಮದ ಹಿಂದಿನ ತರ್ಕವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಗುಣಾಕಾರವು ಮೂಲಭೂತವಾಗಿ ಪುನರಾವರ್ತಿತ ಸಂಕಲನವಾಗಿದೆ. ಉದಾಹರಣೆಗೆ, ಮೂರು ಗುಣಿಸು ಒಂದನೇ ನಾಲ್ಕು ಎಂದರೆ, ಒಂದನೇ ನಾಲ್ಕನ್ನು ಮೂರು ಬಾರಿ ಕೂಡಿಸುವುದು. ಅಂದರೆ, ಒಂದನೇ ನಾಲ್ಕು ಪ್ಲಸ್ ಒಂದನೇ ನಾಲ್ಕು ಪ್ಲಸ್ ಒಂದನೇ ನಾಲ್ಕು. ಭಿನ್ನರಾಶಿಗಳ ಸಂಕಲನದ ನಿಯಮದಂತೆ, ಛೇದವು ಸಮಾನವಾಗಿದ್ದರೆ, ನಾವು ಅಂಶಗಳನ್ನು ಮಾತ್ರ ಕೂಡಿಸುತ್ತೇವೆ. ಹಾಗಾಗಿ, ಇದು ಒಂದು ಪ್ಲಸ್ ಒಂದು ಪ್ಲಸ್ ಒಂದು, ಎಲ್ಲವನ್ನೂ ನಾಲ್ಕರಿಂದ ಭಾಗಿಸುವುದಕ್ಕೆ ಸಮ. ಅಂತಿಮವಾಗಿ ನಮಗೆ ಮೂರನೇ ನಾಲ್ಕು ಸಿಗುತ್ತದೆ. ಇದು ಮೂರು ಗುಣಿಸು ಒಂದು, ಎಲ್ಲವನ್ನೂ ನಾಲ್ಕರಿಂದ ಭಾಗಿಸುವುದಕ್ಕೆ ಸಮನಾಗಿದೆ. ಇದರಿಂದ, ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಅಂಶಕ್ಕೆ ಮಾತ್ರ ಏಕೆ ಗುಣಿಸುತ್ತೇವೆ ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ನಿಯಮದ ಹಿಂದಿನ ತರ್ಕವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಗುಣಾಕಾರವು ಮೂಲಭೂತವಾಗಿ ಪುನರಾವರ್ತಿತ ಸಂಕಲನವಾಗಿದೆ.\n*   ಗುಣಾಕಾರವು ಪುನರಾವರ್ತಿತ ಸಂಕಲನವಾಗಿದೆ.\n*   ಉದಾಹರಣೆಗೆ, $3 \\times \\frac{1}{4}$ ಎಂದರೆ $\\frac{1}{4}$ ಅನ್ನು 3 ಬಾರಿ ಕೂಡಿಸುವುದು.\n*   $\\frac{1}{4} + \\frac{1}{4} + \\frac{1}{4} = \\frac{1+1+1}{4} = \\frac{3}{4}$.\n*   ಇದು $\\frac{3 \\times 1}{4}$ ಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಗುಣಾಕಾರವು ಪುನರಾವರ್ತಿತ ಸಂಕಲನವಾಗಿದೆ.",
+    "ಉದಾಹರಣೆಗೆ, $3 \\times \\frac{1}{4}$ ಎಂದರೆ $\\frac{1}{4}$ ಅನ್ನು 3 ಬಾರಿ ಕೂಡಿಸುವುದು.",
+    "$\\frac{1}{4} + \\frac{1}{4} + \\frac{1}{4} = \\frac{1+1+1}{4} = \\frac{3}{4}$.",
+    "ಇದು $\\frac{3 \\times 1}{4}$ ಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A visual representation of repeated addition. Three circles, each shaded 1/4. An arrow points to a single circle with 3/4 shaded, showing the sum. Label: 1/4 + 1/4 + 1/4 = 3/4.",
+    "labels": "repeated addition, fraction multiplication, sum of fractions",
+    "mathematical_significance": "Visually demonstrates that multiplying a fraction by a whole number is equivalent to adding that fraction repeatedly.",
+    "placeholder_note": "Image to be generated showing three 1/4 shaded circles combining into one 3/4 shaded circle."
+  },
+  "chunk_id": "NS-FRA-1_concept_5_chunk_014"
+}

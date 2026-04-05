@@ -1,0 +1,36 @@
+{
+  "type": "experiment_introduction",
+  "slide_title": "ಪರಿಸರ ನಡಿಗೆ: ನಮ್ಮ ಸುತ್ತಲಿನ ಜೀವಿಗಳು",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಒಂದು ರೋಚಕವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ, ಅದರ ಹೆಸರು 'ಪರಿಸರ ನಡಿಗೆ'. ನಾವು ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಉದ್ಯಾನವನ ಅಥವಾ ಯಾವುದೇ ಹಸಿರು ಪ್ರದೇಶಕ್ಕೆ ಒಂದು ಕಾಲ್ಪನಿಕ ಭೇಟಿ ನೀಡಿ, ಅಲ್ಲಿರುವ ಸಸ್ಯಗಳು ಮತ್ತು ಪ್ರಾಣಿಗಳನ್ನು ಗಮನಿಸೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಮುಖ್ಯ ಉದ್ದೇಶ ನಮ್ಮ ಪರಿಸರದಲ್ಲಿ ಎಷ್ಟು ಬಗೆಯ ಜೀವಿಗಳಿವೆ, ಅಂದರೆ ಜೀವವೈವಿಧ್ಯತೆಯನ್ನು ನೇರವಾಗಿ ಅನುಭವಿಸುವುದು. ಈ ಪ್ರಯಾಣಕ್ಕೆ ನೀವು ಸಿದ್ಧರಿದ್ದೀರಾ? ಬನ್ನಿ, ನಮ್ಮ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಒಂದು ರೋಚಕವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ, ಅದರ ಹೆಸರು 'ಪರಿಸರ ನಡಿಗೆ'. ನಾವು ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಉದ್ಯಾನವನ ಅಥವಾ ಯಾವುದೇ ಹಸಿರು ಪ್ರದೇಶಕ್ಕೆ ಒಂದು ಕಾಲ್ಪನಿಕ ಭೇಟಿ ನೀಡಿ, ಅಲ್ಲಿರುವ ಸಸ್ಯಗಳು ಮತ್ತು ಪ್ರಾಣಿಗಳನ್ನು ಗಮನಿಸೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಮುಖ್ಯ ಉದ್ದೇಶ ನಮ್ಮ ಪರಿಸರದಲ್ಲಿ ಎಷ್ಟು ಬಗೆಯ ಜೀವಿಗಳಿವೆ, ಅಂದರೆ ಜೀವವೈವಿಧ್ಯತೆಯನ್ನು ನೇರವಾಗಿ ಅನುಭವಿಸುವುದು. ಈ ಪ್ರಯಾಣಕ್ಕೆ ನೀವು ಸಿದ್ಧರಿದ್ದೀರಾ? ಬನ್ನಿ, ನಮ್ಮ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "display_bullets": [
+    "ಚಟುವಟಿಕೆಯ ಹೆಸರು: ಪರಿಸರ ನಡಿಗೆ ಮತ್ತು ಜೀವಿಗಳ ವೀಕ್ಷಣೆ",
+    "ಉದ್ದೇಶ: ನಮ್ಮ ಸುತ್ತಲಿನ ಜೀವವೈವಿಧ್ಯತೆಯನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+    "ಸ್ಥಳ: ಹತ್ತಿರದ ಉದ್ಯಾನವನ ಅಥವಾ ಹಸಿರು ಪ್ರದೇಶ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left_text_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A vibrant illustration of a park scene. It should show a variety of elements: tall trees, small bushes, grass, a path, a bench. Also include diverse fauna like a bird on a branch, a butterfly fluttering, ants on the ground, and perhaps a squirrel running up a tree. The style should be inviting and clear for young students.",
+    "labels": "ಮರ, ಪೊದೆ, ಹುಲ್ಲು, ಪಕ್ಷಿ, ಚಿಟ್ಟೆ, ಇರುವೆ",
+    "scientific_significance": "This diagram visually represents a typical ecosystem accessible to students, showcasing the concept of biodiversity with multiple types of flora and fauna coexisting in one place.",
+    "placeholder_note": "Image to be generated showing a park ecosystem."
+  },
+  "chunk_id": "std_6_chapter_2_concept_1_chunk_009"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸೂಪರ್ ಸೆಲ್ (Super Cell) ಎಂದರೇನು?",
+  "script": "ಈಗ ನಾವು ಸಂಖ್ಯಾ ಗ್ರಿಡ್‌ಗಳಲ್ಲಿ ಕಂಡುಬರುವ ಒಂದು ವಿಶೇಷವಾದ ಪರಿಕಲ್ಪನೆಯ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದನ್ನು 'ಸೂಪರ್ ಸೆಲ್' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಒಂದು ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳ ಚೌಕಟ್ಟಿನಲ್ಲಿ, ಕೆಲವು ಸಂಖ್ಯೆಗಳು ತಮ್ಮ ಅಕ್ಕಪಕ್ಕದ ಸಂಖ್ಯೆಗಳಿಗಿಂತ ವಿಶೇಷವಾಗಿರುತ್ತವೆ. ಈ ಸೂಪರ್ ಸೆಲ್ ಅಂತಹ ಒಂದು ವಿಶೇಷ ಸಂಖ್ಯೆಯನ್ನು ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂಬುದನ್ನು ನಮಗೆ ಕಲಿಸುತ್ತದೆ. ಇದು ಕೇವಲ ಒಂದು ಆಟದಂತೆ ಕಂಡರೂ, ಗಣಿತದಲ್ಲಿ 'ಸ್ಥಳೀಯ ಗರಿಷ್ಠ' ಎಂಬ ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆಗೆ ಇದು ಅಡಿಪಾಯವಾಗಿದೆ. ಹಾಗಾದರೆ, ಈ ಸೂಪರ್ ಸೆಲ್‌ನ ರಹಸ್ಯವೇನು ಎಂದು ತಿಳಿಯೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಸಂಖ್ಯಾ ಗ್ರಿಡ್‌ಗಳಲ್ಲಿ ಕಂಡುಬರುವ ಒಂದು ವಿಶೇಷವಾದ ಪರಿಕಲ್ಪನೆಯ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದನ್ನು 'ಸೂಪರ್ ಸೆಲ್' (Super Cell) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಒಂದು ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳ ಚೌಕಟ್ಟಿನಲ್ಲಿ, ಕೆಲವು ಸಂಖ್ಯೆಗಳು ತಮ್ಮ ಅಕ್ಕಪಕ್ಕದ ಸಂಖ್ಯೆಗಳಿಗಿಂತ ವಿಶೇಷವಾಗಿರುತ್ತವೆ. ಈ ಸೂಪರ್ ಸೆಲ್ ಅಂತಹ ಒಂದು ವಿಶೇಷ ಸಂಖ್ಯೆಯನ್ನು ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂಬುದನ್ನು ನಮಗೆ ಕಲಿಸುತ್ತದೆ. ಇದು ಕೇವಲ ಒಂದು ಆಟದಂತೆ ಕಂಡರೂ, ಗಣಿತದಲ್ಲಿ 'ಸ್ಥಳೀಯ ಗರಿಷ್ಠ' (local maximum) ಎಂಬ ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆಗೆ ಇದು ಅಡಿಪಾಯವಾಗಿದೆ. ಹಾಗಾದರೆ, ಈ ಸೂಪರ್ ಸೆಲ್‌ನ ರಹಸ್ಯವೇನು ಎಂದು ತಿಳಿಯೋಣ.",
+  "display_bullets": [
+    "ಸಂಖ್ಯಾ ಗ್ರಿಡ್‌ಗಳಲ್ಲಿನ ವಿಶೇಷ ಸೆಲ್‌ಗಳು.",
+    "ಪರಿಕಲ್ಪನೆ: ಸೂಪರ್ ಸೆಲ್ (Super Cell).",
+    "ಗಣಿತದ 'ಸ್ಥಳೀಯ ಗರಿಷ್ಠ' (local maximum) ಪರಿಕಲ್ಪನೆಗೆ ಅಡಿಪಾಯ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_style_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 5x5 grid of random 2-digit numbers. A cell in the middle is circled with a large red question mark over it, introducing the idea of finding a 'special' cell.",
+    "labels": "Number grid, special cell, question mark",
+    "mathematical_significance": "Introduces the context of a numerical grid where specific cells have unique properties, prompting the user to question what makes a cell special.",
+    "placeholder_note": "Generate an image of a 5x5 grid with random 2-digit numbers. Circle a cell in the middle with a large red question mark over it."
+  },
+  "chunk_id": "NS-NUM-1_concept_1_chunk_002"
+}

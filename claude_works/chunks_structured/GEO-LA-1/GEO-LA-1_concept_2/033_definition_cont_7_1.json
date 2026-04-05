@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸರಳ ಕೋನ ಮತ್ತು ಲಂಬ ಕೋನ",
+  "script": "ಸರಳ ಕೋನವನ್ನು ಇನ್ನೊಂದು ರೀತಿಯಲ್ಲಿಯೂ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ನಮಗೆ ಲಂಬ ಕೋನದ ಅಳತೆ ಗೊತ್ತು, ಅದು ತೊಂಬತ್ತು ಡಿಗ್ರಿ. ಹಾಗಾದರೆ, ಒಂದು ಸರಳ ಕೋನವು ಎರಡು ಲಂಬ ಕೋನಗಳಿಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ನೀವು ಎರಡು ಲಂಬ ಕೋನಗಳನ್ನು ಅಕ್ಕಪಕ್ಕದಲ್ಲಿ ಇಟ್ಟರೆ, ಅವುಗಳ ಒಟ್ಟು ಮೊತ್ತ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಆಗುತ್ತದೆ. ತೊಂಬತ್ತು ಪ್ಲಸ್ ತೊಂಬತ್ತು ಈಕ್ವಲ್ಸ್ ನೂರಾ ಎಂಬತ್ತು. ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ಒಂದು ಸರಳ ರೇಖೆಯ ಮೇಲೆ ಒಂದು ಲಂಬವನ್ನು ಎಳೆದಾಗ, ಅದು ಸರಳ ಕೋನವನ್ನು ಎರಡು ಸಮನಾದ ಲಂಬ ಕೋನಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಇದು ರೇಖಾತ್ಮಕ ಯುಗ್ಮಗಳ ಪರಿಕಲ್ಪನೆಗೆ ಆಧಾರವಾಗಿದೆ.",
+  "script_display": "ಸರಳ ಕೋನವನ್ನು ಇನ್ನೊಂದು ರೀತಿಯಲ್ಲಿಯೂ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ನಮಗೆ ಲಂಬ ಕೋನದ ಅಳತೆ ಗೊತ್ತು, ಅದು $90^\\circ$. ಹಾಗಾದರೆ, ಒಂದು ಸರಳ ಕೋನವು ಎರಡು ಲಂಬ ಕೋನಗಳಿಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ನೀವು ಎರಡು ಲಂಬ ಕೋನಗಳನ್ನು ಅಕ್ಕಪಕ್ಕದಲ್ಲಿ ಇಟ್ಟರೆ, ಅವುಗಳ ಒಟ್ಟು ಮೊತ್ತ $180^\\circ$ ಆಗುತ್ತದೆ. $90^\\circ + 90^\\circ = 180^\\circ$. ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ಒಂದು ಸರಳ ರೇಖೆಯ ಮೇಲೆ ಒಂದು ಲಂಬವನ್ನು ಎಳೆದಾಗ, ಅದು ಸರಳ ಕೋನವನ್ನು ಎರಡು ಸಮನಾದ ಲಂಬ ಕೋನಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಇದು ರೇಖಾತ್ಮಕ ಯುಗ್ಮಗಳ (linear pair) ಪರಿಕಲ್ಪನೆಗೆ ಆಧಾರವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಸರಳ ಕೋನವು ಎರಡು ಲಂಬ ಕೋನಗಳಿಗೆ ಸಮವಾಗಿರುತ್ತದೆ.",
+    "$90^\\circ + 90^\\circ = 180^\\circ$.",
+    "ಒಂದು ಸರಳ ರೇಖೆಯ ಮೇಲಿನ ಬಿಂದುವಿನಲ್ಲಿ ಎಳೆದ ಲಂಬವು ಎರಡು ಲಂಬ ಕೋನಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "classic_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A straight line with a 180° arc. A perpendicular line drops onto the vertex, splitting the 180° arc into two separate 90° arcs, each marked with the right angle symbol and '90°'.",
+    "labels": "90°, 90°, 180°",
+    "mathematical_significance": "Visually demonstrates that a straight angle (180°) is the sum of two right angles (90° + 90°). This is the foundation for the linear pair axiom.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "GEO-LA-1_concept_2_chunk_033"
+}

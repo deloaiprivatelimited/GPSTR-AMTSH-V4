@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಭೂಫಲಕಗಳ ಚಲನೆ ಮತ್ತು ಪರಿಣಾಮ",
+  "script": "ಹಾಗಾದರೆ ಈ ಭೂಫಲಕಗಳು ಏಕೆ ಚಲಿಸುತ್ತವೆ? ಏಕೆಂದರೆ ಅವು ಭೂಮಿಯ ಮ್ಯಾಂಟಲ್ ಎಂಬ ಬಿಸಿ, ಅರೆ ದ್ರವ ಪದರದ ಮೇಲೆ ತೇಲುತ್ತಿವೆ. ಈ ಚಲನೆಯಿಂದಾಗಿ, ಫಲಕಗಳ ಗಡಿಗಳಲ್ಲಿ ಮೂರು ರೀತಿಯ ಪ್ರಕ್ರಿಯೆಗಳು ನಡೆಯುತ್ತವೆ. ಕೆಲವು ಕಡೆ ಫಲಕಗಳು ಪರಸ್ಪರ ಡಿಕ್ಕಿ ಹೊಡೆಯಬಹುದು. ಇನ್ನು ಕೆಲವು ಕಡೆ, ಅವು ಒಂದರಿಂದೊಂದು ದೂರ ಸರಿಯಬಹುದು. ಮತ್ತು ಕೆಲವು ಕಡೆ, ಅವು ಒಂದರ ಪಕ್ಕ ಇನ್ನೊಂದು ಉಜ್ಜಿಕೊಂಡು ಚಲಿಸಬಹುದು. ಭೂಕಂಪಗಳು, ಜ್ವಾಲಾಮುಖಿಗಳು ಮತ್ತು ಪರ್ವತಗಳ ರಚನೆಗೆ ಈ ಚಲನೆಗಳೇ ಮುಖ್ಯ ಕಾರಣ.",
+  "script_display": "ಹಾಗಾದರೆ ಈ ಭೂಫಲಕಗಳು ಏಕೆ ಚಲಿಸುತ್ತವೆ? ಏಕೆಂದರೆ ಅವು ಭೂಮಿಯ ಮ್ಯಾಂಟಲ್ ಎಂಬ ಬಿಸಿ, ಅರೆ-ದ್ರವ ಪದರದ ಮೇಲೆ ತೇಲುತ್ತಿವೆ. ಈ ಚಲನೆಯಿಂದಾಗಿ, ಫಲಕಗಳ ಗಡಿಗಳಲ್ಲಿ ಮೂರು ರೀತಿಯ ಪ್ರಕ್ರಿಯೆಗಳು ನಡೆಯುತ್ತವೆ. ಕೆಲವು ಕಡೆ ಫಲಕಗಳು ಪರಸ್ಪರ ಡಿಕ್ಕಿ ಹೊಡೆಯಬಹುದು. ಇನ್ನು ಕೆಲವು ಕಡೆ, ಅವು ಒಂದರಿಂದೊಂದು ದೂರ ಸರಿಯಬಹುದು. ಮತ್ತು ಕೆಲವು ಕಡೆ, ಅವು ಒಂದರ ಪಕ್ಕ ಇನ್ನೊಂದು ಉಜ್ಜಿಕೊಂಡು ಚಲಿಸಬಹುದು. ಭೂಕಂಪಗಳು, ಜ್ವಾಲಾಮುಖಿಗಳು ಮತ್ತು ಪರ್ವತಗಳ ರಚನೆಗೆ ಈ ಚಲನೆಗಳೇ ಮುಖ್ಯ ಕಾರಣ.",
+  "display_bullets": [
+    "ಫಲಕಗಳು ಮ್ಯಾಂಟಲ್ ಪದರದ ಮೇಲೆ ತೇಲುತ್ತಾ ಚಲಿಸುತ್ತವೆ.",
+    "ಚಲನೆಯ ವಿಧಗಳು: ಡಿಕ್ಕಿ ಹೊಡೆಯುವುದು, ದೂರ ಸರಿಯುವುದು, ಉಜ್ಜುವುದು.",
+    "ಪರಿಣಾಮ: ಭೂಕಂಪ, ಜ್ವಾಲಾಮುಖಿ, ಪರ್ವತಗಳ ರಚನೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "From context: ಚಿತ್ರ 12.11 - ಭೂಫಲಕಗಳ ಚಲನೆ. Two diagrams side-by-side. The first shows two plates colliding, with one subducting under the other, creating mountains. The second shows two plates sliding past each other horizontally (transform boundary). Arrows clearly indicate the direction of movement.",
+    "labels": "ಡಿಕ್ಕಿ ಹೊಡೆಯುವುದು (ಒಮ್ಮುಖ ಗಡಿ), ಉಜ್ಜಿಕೊಂಡು ಚಲಿಸುವುದು (ಪರಿವರ್ತಕ ಗಡಿ)",
+    "scientific_significance": "Illustrates the primary mechanisms of plate boundary interactions that lead to seismic activity (earthquakes).",
+    "placeholder_note": "Use diagrams from 'ಚಿತ್ರ 12.11 - ಭೂಫಲಕಗಳ ಚಲನೆ' showing collision and sliding."
+  },
+  "chunk_id": "std_8_science_ch_12_concept_4_chunk_009"
+}

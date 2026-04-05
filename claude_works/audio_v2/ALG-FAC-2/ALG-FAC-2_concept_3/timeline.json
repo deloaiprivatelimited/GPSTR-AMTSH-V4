@@ -1,0 +1,155 @@
+{
+  "module_id": "ALG-FAC-2_concept_3",
+  "voice": "Leda",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 13,
+  "total_duration": 622.223,
+  "total_duration_formatted": "10:22",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಅಪವರ್ತಿಸುವಿಕೆ: ಮರುಗುಂಪು ಮಾಡುವಿಕೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 49.611,
+      "duration": 49.611,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 50.211,
+      "end": 81.542,
+      "duration": 31.331,
+      "script_words": 40
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಮರುಗುಂಪು ಮಾಡುವಿಕೆಯ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "start": 82.142,
+      "end": 182.993,
+      "duration": 100.851,
+      "script_words": 137
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_004",
+      "chunk_file": "004_property_1.json",
+      "wav_file": "004_property_1.wav",
+      "slide_title": "ಅಂತಿಮ ಫಲಿತಾಂಶದ ರೂಪ",
+      "type": "concept_explanation",
+      "start": 183.593,
+      "end": 233.724,
+      "duration": 50.131,
+      "script_words": 72
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_005",
+      "chunk_file": "005_example_0.json",
+      "wav_file": "005_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಮರುಗುಂಪು ಮಾಡುವಿಕೆ",
+      "type": "worked_example",
+      "start": 234.324,
+      "end": 261.815,
+      "duration": 27.491,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_006",
+      "chunk_file": "006_example_cont_0_1.json",
+      "wav_file": "006_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ ಹಂತವಾಗಿ",
+      "type": "worked_example",
+      "start": 262.415,
+      "end": 325.026,
+      "duration": 62.611,
+      "script_words": 98
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_007",
+      "chunk_file": "007_example_cont_0_2.json",
+      "wav_file": "007_example_cont_0_2.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "start": 325.626,
+      "end": 356.397,
+      "duration": 30.771,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_008",
+      "chunk_file": "008_example_1.json",
+      "wav_file": "008_example_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಮರುಗುಂಪು ಮಾಡುವಿಕೆ",
+      "type": "worked_example",
+      "start": 356.997,
+      "end": 390.368,
+      "duration": 33.371,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_009",
+      "chunk_file": "009_example_cont_1_1.json",
+      "wav_file": "009_example_cont_1_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಮೊದಲ ಹಂತಗಳು",
+      "type": "worked_example",
+      "start": 390.968,
+      "end": 449.259,
+      "duration": 58.291,
+      "script_words": 78
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_010",
+      "chunk_file": "010_example_cont_1_2.json",
+      "wav_file": "010_example_cont_1_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಚಿಹ್ನೆಯ ಹೊಂದಾಣಿಕೆ",
+      "type": "worked_example",
+      "start": 449.859,
+      "end": 509.43,
+      "duration": 59.571,
+      "script_words": 79
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_011",
+      "chunk_file": "011_example_cont_1_3.json",
+      "wav_file": "011_example_cont_1_3.wav",
+      "slide_title": "ಪರಿಹಾರ: ಅಂತಿಮ ಹಂತ",
+      "type": "worked_example",
+      "start": 510.03,
+      "end": 553.081,
+      "duration": 43.051,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_012",
+      "chunk_file": "012_example_cont_1_4.json",
+      "wav_file": "012_example_cont_1_4.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಸಲಹೆ",
+      "type": "worked_example",
+      "start": 553.681,
+      "end": 585.332,
+      "duration": 31.651,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_3_chunk_013",
+      "chunk_file": "013_recap_0.json",
+      "wav_file": "013_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಮರುಗುಂಪು ಮಾಡುವಿಕೆ",
+      "type": "recap",
+      "start": 585.932,
+      "end": 621.623,
+      "duration": 35.691,
+      "script_words": 48
+    }
+  ]
+}

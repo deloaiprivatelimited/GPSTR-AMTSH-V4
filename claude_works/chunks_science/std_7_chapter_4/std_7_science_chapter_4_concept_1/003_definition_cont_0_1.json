@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಆಮ್ಲಗಳು",
+  "script": "ಆಮ್ಲಗಳು ಕೇವಲ ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ ಮಾತ್ರವಲ್ಲ, ನಮ್ಮ ಅಡುಗೆಮನೆಯಲ್ಲಿಯೂ ಇವೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವ ಹಾಗೆ, ನಿಂಬೆಹಣ್ಣು, ಮೊಸರು, ಮತ್ತು ವಿನೆಗರ್ ಇವೆಲ್ಲವೂ ಆಮ್ಲಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ನಿಂಬೆಹಣ್ಣು ಮತ್ತು ಕಿತ್ತಳೆಯಲ್ಲಿ ಸಿಟ್ರಿಕ್ ಆಮ್ಲವಿದೆ. ಮೊಸರಿನಲ್ಲಿ ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲವಿದೆ. ಈ ನೈಸರ್ಗಿಕ ಆಮ್ಲಗಳು ಪದಾರ್ಥಗಳಿಗೆ ಹುಳಿ ರುಚಿಯನ್ನು ನೀಡುತ್ತವೆ. ಹೀಗೆ ನಮ್ಮ ದೈನಂದಿನ ಆಹಾರದ ಭಾಗವಾಗಿರುವ ಅನೇಕ ವಸ್ತುಗಳು ನೈಸರ್ಗಿಕವಾಗಿ ಆಮ್ಲೀಯ ಗುಣವನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
+  "script_display": "ಆಮ್ಲಗಳು ಕೇವಲ ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ ಮಾತ್ರವಲ್ಲ, ನಮ್ಮ ಅಡುಗೆಮನೆಯಲ್ಲಿಯೂ ಇವೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವ ಹಾಗೆ, ನಿಂಬೆಹಣ್ಣು, ಮೊಸರು, ಮತ್ತು ವಿನೆಗರ್ ಇವೆಲ್ಲವೂ ಆಮ್ಲಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ನಿಂಬೆಹಣ್ಣು ಮತ್ತು ಕಿತ್ತಳೆಯಲ್ಲಿ ಸಿಟ್ರಿಕ್ ಆಮ್ಲವಿದೆ. ಮೊಸರಿನಲ್ಲಿ ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲವಿದೆ. ಈ ನೈಸರ್ಗಿಕ ಆಮ್ಲಗಳು ಪದಾರ್ಥಗಳಿಗೆ ಹುಳಿ ರುಚಿಯನ್ನು ನೀಡುತ್ತವೆ. ಹೀಗೆ ನಮ್ಮ ದೈನಂದಿನ ಆಹಾರದ ಭಾಗವಾಗಿರುವ ಅನೇಕ ವಸ್ತುಗಳು ನೈಸರ್ಗಿಕವಾಗಿ ಆಮ್ಲೀಯ ಗುಣವನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ನಿಂಬೆಹಣ್ಣು ಮತ್ತು ಕಿತ್ತಳೆಯಲ್ಲಿ ಸಿಟ್ರಿಕ್ ಆಮ್ಲವಿರುತ್ತದೆ.",
+    "ಮೊಸರಿನಲ್ಲಿ ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲವಿರುತ್ತದೆ.",
+    "ಈ ನೈಸರ್ಗಿಕ ಆಮ್ಲಗಳು ಪದಾರ್ಥಗಳಿಗೆ ಹುಳಿ ರುಚಿಯನ್ನು ನೀಡುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collage of three common food items containing acids. Left: A cut lemon. Center: A bowl of curd. Right: A bottle of vinegar.",
+    "labels": "ನಿಂಬೆಹಣ್ಣು, ಮೊಸರು, ವಿನೆಗರ್",
+    "scientific_significance": "Illustrates common household items that are acidic in nature, making the concept of acids more relatable.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_science_chapter_4_concept_1_chunk_003"
+}

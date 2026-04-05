@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ 'g' ಗಾಗಿ ಸೂತ್ರ",
+  "script": "ಈಗ, ಭೂಮಿಯ ಮೇಲ್ಮೈಯಲ್ಲಿ ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ, ಅಂದರೆ ಸ್ಮಾಲ್ g ಯ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸೂತ್ರವು ಹೀಗಿದೆ: g ಈಕ್ವಲ್ಸ್ ಕ್ಯಾಪಿಟಲ್ G ಇಂಟು ಕ್ಯಾಪಿಟಲ್ M ಡಿವೈಡೆಡ್ ಬೈ ಕ್ಯಾಪಿಟಲ್ R ಸ್ಕ್ವೇರ್. ಇಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಚಿಹ್ನೆಗೂ ಒಂದು ನಿರ್ದಿಷ್ಟ ಅರ್ಥವಿದೆ. ಮೊದಲನೆಯದಾಗಿ, ಕ್ಯಾಪಿಟಲ್ G ಎಂದರೆ ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ. ಎರಡನೆಯದಾಗಿ, ಕ್ಯಾಪಿಟಲ್ M ಭೂಮಿಯ ರಾಶಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಕ್ಯಾಪಿಟಲ್ R ಭೂಮಿಯ ತ್ರಿಜ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಈ ಸೂತ್ರವನ್ನು ನಾವು ಭೂಮಿಯ ಮೇಲ್ಮೈಯಲ್ಲಿ ಅಥವಾ ಅದರ ಸಮೀಪದಲ್ಲಿರುವ ವಸ್ತುಗಳ ವೇಗೋತ್ಕರ್ಷವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ, ಭೂಮಿಯ ಮೇಲ್ಮೈಯಲ್ಲಿ ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ ('g') ಯ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸೂತ್ರವು: $g = \\frac{GM}{R^2}$. ಇಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಚಿಹ್ನೆಗೂ ಒಂದು ನಿರ್ದಿಷ್ಟ ಅರ್ಥವಿದೆ:",
+  "display_bullets": [
+    "$G$ = ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ (Universal Gravitational Constant)",
+    "$M$ = ಭೂಮಿಯ ರಾಶಿ (Mass of the Earth)",
+    "$R$ = ಭೂಮಿಯ ತ್ರಿಜ್ಯ (Radius of the Earth)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "g = \\frac{GM}{R^2}",
+    "placeholder_note": "Formula for acceleration due to gravity on Earth's surface"
+  },
+  "sub_type": "formula_showcase",
+  "difficulty": "medium",
+  "source_example_id": "Acceleration due to Gravity on Earth's Surface",
+  "chunk_id": "std_9_chapter_9_concept_3_chunk_015"
+}

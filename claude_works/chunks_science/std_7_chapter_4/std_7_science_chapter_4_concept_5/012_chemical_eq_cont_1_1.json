@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿವರ್ತಕಗಳು: ಮಾಲಿನ್ಯಕಾರಕ ಮತ್ತು ನೀರು",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಪ್ರತಿವರ್ತಕಗಳಿವೆ. ಮೊದಲನೆಯದು ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್. ಇದು ಕಾರ್ಖಾನೆಗಳು ಮತ್ತು ವಾಹನಗಳಿಂದ ಬರುವ ಒಂದು ಮಾಲಿನ್ಯಕಾರಕ ಅನಿಲ. ಎರಡನೆಯದು ನೀರು. ಇದು ವಾತಾವರಣದಲ್ಲಿನ ಮಳೆಹನಿಗಳು ಅಥವಾ ತೇವಾಂಶ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಪ್ರತಿವರ್ತಕಗಳಿವೆ:",
+  "display_bullets": [
+    "ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ (SO₂): ಕಾರ್ಖಾನೆಗಳು ಮತ್ತು ವಾಹನಗಳಿಂದ ಬರುವ ಮಾಲಿನ್ಯಕಾರಕ ಅನಿಲ.",
+    "ನೀರು (H₂O): ವಾತಾವರಣದಲ್ಲಿನ ಮಳೆಹನಿಗಳು ಅಥವಾ ತೇವಾಂಶ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "chemistry_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple graphic showing a factory emitting smoke labeled 'SO₂' and a cloud with raindrops labeled 'H₂O'. A plus sign is shown between them.",
+    "labels": "SO₂, H₂O",
+    "scientific_significance": "Visually represents the sources of the primary reactants for the formation of sulfurous acid in the atmosphere.",
+    "placeholder_note": "Visual should show sources of reactants. Left: Factory with smoke. Right: Cloud with rain."
+  },
+  "chunk_id": "std_7_science_chapter_4_concept_5_chunk_012"
+}

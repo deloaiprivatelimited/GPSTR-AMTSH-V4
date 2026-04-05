@@ -57,36 +57,32 @@ GLOBAL_STYLES = f"""
     background-image: radial-gradient(circle at 75% 50%, #001a25 0%, {BG} 65%);
     font-family: 'Inter', 'Noto Sans Kannada', sans-serif;
     color: {TEXT};
-    display: flex;
+    display: flex; flex-direction: column;
     overflow: hidden;
   }}
 
-  /* -- SIDEBAR -- */
-  .sidebar {{
-    width: 420px; height: 100%;
-    display: flex; flex-direction: column;
-    align-items: flex-start;
-    padding: 80px 0 80px 70px;
-    border-right: 1px solid rgba(255,255,255,0.06);
+  /* -- TOP HEADER -- */
+  .top-header {{
+    width: 100%; height: 54px;
+    display: flex; align-items: center;
+    padding: 0 60px;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
     flex-shrink: 0;
   }}
   .brand {{
-    font-size: 20px; font-weight: 600;
-    letter-spacing: 4px; color: {BRAND};
+    font-size: 14px; font-weight: 600;
+    letter-spacing: 3px; color: {BRAND};
     text-transform: uppercase;
-    border-left: 3px solid {BRAND};
-    padding-left: 18px; line-height: 1;
   }}
-  .sidebar-meta {{
-    margin-top: auto;
-    font-size: 18px; color: rgba(255,255,255,0.3);
-    line-height: 1.8;
+  .header-meta {{
+    margin-left: auto;
+    font-size: 13px; color: rgba(255,255,255,0.25);
   }}
 
   /* -- CONTENT AREA -- */
   .content {{
     flex-grow: 1;
-    padding: 70px 80px 70px 70px;
+    padding: 50px 80px 50px 80px;
     display: flex; flex-direction: column;
     justify-content: center; overflow: hidden;
   }}
@@ -177,17 +173,21 @@ GLOBAL_STYLES = f"""
   /* -- TABLE -- */
   table {{
     border-collapse: collapse; width: 100%;
-    font-size: 28px;
+    font-size: 26px;
+    table-layout: fixed;
   }}
   th {{
     background: rgba(0,198,255,0.15);
-    color: {BRAND}; padding: 14px 20px;
+    color: {BRAND}; padding: 12px 18px;
     text-align: left; font-weight: 600;
     border-bottom: 1px solid rgba(0,198,255,0.3);
+    word-wrap: break-word; overflow-wrap: break-word;
   }}
   td {{
-    padding: 12px 20px; color: {SUBTEXT};
+    padding: 10px 18px; color: {SUBTEXT};
     border-bottom: 1px solid rgba(255,255,255,0.05);
+    word-wrap: break-word; overflow-wrap: break-word;
+    vertical-align: top;
   }}
   tr:nth-child(even) td {{ background: rgba(255,255,255,0.02); }}
 
@@ -295,7 +295,7 @@ GLOBAL_STYLES = f"""
 # BASE HTML WRAPPER
 # ==============================
 
-def base_html(body, sidebar_html=""):
+def base_html(body, header_meta=""):
     return f"""<!DOCTYPE html>
 <html>
 <head>
@@ -312,9 +312,9 @@ def base_html(body, sidebar_html=""):
 <style>{GLOBAL_STYLES}</style>
 </head>
 <body>
-  <div class="sidebar">
-    <div class="brand">SRINIVAS IAS<br>ACADEMY</div>
-    <div class="sidebar-meta">{sidebar_html}</div>
+  <div class="top-header">
+    <div class="brand">SRINIVAS IAS ACADEMY</div>
+    <div class="header-meta">{header_meta}</div>
   </div>
   {body}
 </body>
@@ -325,13 +325,10 @@ def base_html(body, sidebar_html=""):
 # HELPERS
 # ==============================
 
-def make_sidebar(chunk, meta):
+def make_header_meta(chunk, meta):
     cls = meta.get("class", "")
     ch  = meta.get("chapter", "")
-    cid = chunk.get("chunk_id", "")
-    return (f"<div>{cls}ನೇ ತರಗತಿ</div>"
-            f"<div>ಅಧ್ಯಾಯ {ch}</div>"
-            f"<div style='margin-top:8px;font-size:14px;color:rgba(255,255,255,0.2)'>{cid}</div>")
+    return f"{cls}ನೇ ತರಗತಿ &nbsp;|&nbsp; ಅಧ್ಯಾಯ {ch}"
 
 
 def make_bullets_html(bullets):
@@ -350,11 +347,14 @@ def make_visual_html(visual):
     if vtype == "table":
         headers = visual.get("headers") or []
         rows    = visual.get("rows") or []
+        num_cols = len(headers) if headers else (len(rows[0]) if rows else 1)
+        # For tables with many columns or long content, use smaller font
+        font_size = "22px" if num_cols > 4 else ("24px" if num_cols > 3 else "26px")
         th = "".join(f"<th>{h}</th>" for h in headers)
         tr = "".join("<tr>" + "".join(f"<td>{c}</td>" for c in row) + "</tr>" for row in rows)
         caption = visual.get("caption", "")
         cap_html = f'<div style="font-size:20px;color:rgba(255,255,255,0.4);margin-bottom:12px">{caption}</div>' if caption else ""
-        return f"{cap_html}<table><thead><tr>{th}</tr></thead><tbody>{tr}</tbody></table>"
+        return f"{cap_html}<table style='font-size:{font_size}'><thead><tr>{th}</tr></thead><tbody>{tr}</tbody></table>"
 
     if vtype == "formula_box":
         latex = visual.get("latex", "")
@@ -704,8 +704,8 @@ def render_chunk_html(chunk, meta):
         renderer = LAYOUT_MAP.get(fallback, layout_bullet_list)
 
     content_html = renderer(chunk, meta)
-    sidebar_html = make_sidebar(chunk, meta)
-    return base_html(content_html, sidebar_html)
+    header_meta  = make_header_meta(chunk, meta)
+    return base_html(content_html, header_meta)
 
 
 # ==============================

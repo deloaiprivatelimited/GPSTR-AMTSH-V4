@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಂಖ್ಯೆ 7 ಅವಿಭಾಜ್ಯವೇ?",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಸಂಖ್ಯೆ ಏಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಏಳರ ಅಪವರ್ತನಗಳು ಯಾವುವು? ನಾವು ಏಳನ್ನು ಯಾವ ಸಂಖ್ಯೆಗಳಿಂದ ಪೂರ್ಣವಾಗಿ ಭಾಗಿಸಬಹುದು? ಒಂದು ಗುಣಿಸು ಏಳು ಸಮ ಏಳು. ಇದನ್ನು ಬಿಟ್ಟು ಬೇರೆ ಯಾವುದೇ ಎರಡು ಪೂರ್ಣಾಂಕಗಳನ್ನು ಗುಣಿಸಿದರೆ ಏಳು ಬರುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, ಏಳರ ಅಪವರ್ತನಗಳು ಕೇವಲ ಒಂದು ಮತ್ತು ಏಳು ಮಾತ್ರ. ನಮ್ಮ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗೆ ಕೇವಲ ಎರಡು ಅಪವರ್ತನಗಳಿರಬೇಕು. ಇಲ್ಲಿ ಏಳಕ್ಕೆ ಸರಿಯಾಗಿ ಎರಡು ಅಪವರ್ತನಗಳಿವೆ. ಹಾಗಾಗಿ, ಏಳು ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಸಂಖ್ಯೆ 7 ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. 7ರ ಅಪವರ್ತನಗಳು ಯಾವುವು? ನಾವು 7 ಅನ್ನು ಯಾವ ಸಂಖ್ಯೆಗಳಿಂದ ಪೂರ್ಣವಾಗಿ ಭಾಗಿಸಬಹುದು? $1 \\times 7 = 7$. ಇದನ್ನು ಬಿಟ್ಟು ಬೇರೆ ಯಾವುದೇ ಎರಡು ಪೂರ್ಣಾಂಕಗಳನ್ನು ಗುಣಿಸಿದರೆ 7 ಬರುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, 7ರ ಅಪವರ್ತನಗಳು ಕೇವಲ 1 ಮತ್ತು 7 ಮಾತ್ರ. ನಮ್ಮ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗೆ ಕೇವಲ ಎರಡು ಅಪವರ್ತನಗಳಿರಬೇಕು. ಇಲ್ಲಿ 7ಕ್ಕೆ ಸರಿಯಾಗಿ ಎರಡು ಅಪವರ್ತನಗಳಿವೆ. ಹಾಗಾಗಿ, 7 ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ.",
+  "display_bullets": [
+    "ಸಂಖ್ಯೆ 7 ಅನ್ನು ಪರಿಗಣಿಸಿ.",
+    "7 ರ ಅಪವರ್ತನಗಳು: 1 ಮತ್ತು 7 ಮಾತ್ರ.",
+    "ಏಕೆಂದರೆ $1 \\times 7 = 7$ ಮತ್ತು ಬೇರೆ ಗುಣಕಗಳಿಲ್ಲ.",
+    "ಇಲ್ಲಿ ಕೇವಲ ಎರಡು ಅಪವರ್ತನಗಳಿರುವುದರಿಂದ, 7 ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple visual showing the number 7, with two arrows pointing away from it. One arrow points to the number 1, and the other points to the number 7. A label below says 'ಕೇವಲ 2 ಅಪವರ್ತನಗಳು' (Only 2 factors).",
+    "labels": "Number 7, Factor 1, Factor 7, Only 2 factors",
+    "mathematical_significance": "Visually represents that the number 7 has exactly two factors, which is the core property of a prime number.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "NS-PRI-1_concept_2_chunk_005"
+}

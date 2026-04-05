@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಪರಿಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲ ಹಂತದಲ್ಲಿ, y ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇಲ್ಲಿ ಸಿಡಿ ಮತ್ತು ಇಎಫ್ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿವೆ. ಹಾಗಾಗಿ, y ಮತ್ತು ಐವತ್ತೈದು ಡಿಗ್ರಿ ಕೋನಗಳು ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದ ಅಂತರ್ ಕೋನಗಳಾಗಿವೆ. ಅವುಗಳ ಮೊತ್ತ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, y ಪ್ಲಸ್ ಐವತ್ತೈದು ಸಮ ನೂರಾ ಎಂಬತ್ತು. y ಯ ಬೆಲೆ ನೂರಾ ಎಂಬತ್ತು ಮೈನಸ್ ಐವತ್ತೈದು, ಅಂದರೆ ನೂರಾ ಇಪ್ಪತ್ತೈದು ಡಿಗ್ರಿ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಎಬಿ ಮತ್ತು ಸಿಡಿ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿವೆ. ಹಾಗಾಗಿ, x ಮತ್ತು y ಅನುರೂಪ ಕೋನಗಳಾಗಿವೆ. ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, x ಕೂಡ y ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, x ನ ಬೆಲೆಯೂ ನೂರಾ ಇಪ್ಪತ್ತೈದು ಡಿಗ್ರಿ.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲ ಹಂತದಲ್ಲಿ, y ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇಲ್ಲಿ $CD \\parallel EF$. ಹಾಗಾಗಿ, y ಮತ್ತು $55°$ ಕೋನಗಳು ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದ ಅಂತರ್ ಕೋನಗಳಾಗಿವೆ. ಅವುಗಳ ಮೊತ್ತ $180°$ ಆಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, $y + 55° = 180°$. y ಯ ಬೆಲೆ $180° - 55°$, ಅಂದರೆ $125°$. ಎರಡನೇ ಹಂತದಲ್ಲಿ, x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. $AB \\parallel CD$. ಹಾಗಾಗಿ, x ಮತ್ತು y ಅನುರೂಪ ಕೋನಗಳಾಗಿವೆ. ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, x ಕೂಡ y ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, x ನ ಬೆಲೆಯೂ $125°$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing three parallel lines AB, CD, and EF. A transversal line intersects them. Another line EA is perpendicular to AB. Angles x, y, z, and 55 degrees are marked. The value of y=125 and x=125 can be highlighted.",
+    "labels": "ಚಿತ್ರ 6.22",
+    "mathematical_significance": "Illustrates the calculation of angles x and y using properties of parallel lines.",
+    "placeholder_note": "Image to be generated based on NCERT Class 9 Maths, Chapter 6, Example 6, Figure 6.22."
+  },
+  "source_example_id": "GEO-LA-2_example_6",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$y + 55° = 180° \\implies y = 125°$",
+      "justification": "$CD \\parallel EF$ ಆದ್ದರಿಂದ, ಇವು ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದ ಅಂತರ್ ಕೋನಗಳು."
+    },
+    {
+      "step": 2,
+      "action_display": "$x = y = 125°$",
+      "justification": "$AB \\parallel CD$ ಆದ್ದರಿಂದ, ಇವು ಅನುರೂಪ ಕೋನಗಳು."
+    }
+  ],
+  "chunk_id": "GEO-LA-2_concept_3_chunk_042"
+}

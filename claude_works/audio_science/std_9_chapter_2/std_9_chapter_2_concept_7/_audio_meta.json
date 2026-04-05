@@ -1,0 +1,48 @@
+{
+  "module_id": "std_9_chapter_2_concept_7",
+  "chapter_code": "std_9_chapter_2",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 3,
+  "ok_count": 3,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:49:17",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "5851d02f1d7a054666796fd25773398b",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 27.851,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "bullet_list",
+      "script_words": 37,
+      "generated_at": "2026-04-02 15:49:04"
+    },
+    "003_recap_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "99e50d834318acbe642d594781122b4d",
+      "wav_file": "003_recap_0.wav",
+      "duration": 37.731,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 15:49:11"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "d80f1165d76b77030cd60a4ff80c682b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 49.331,
+      "slide_title": "ವಿಲೀನತೆ ಮತ್ತು ತಾಪಮಾನ",
+      "type": "title_hero",
+      "script_words": 66,
+      "generated_at": "2026-04-02 15:49:17"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "module_id": "std_9_chapter_7_concept_4",
+  "chapter_code": "std_9_chapter_7",
+  "voice": "Sadachbia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 323.357,
+  "total_duration_formatted": "5:23",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_7_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಚಲನೆಯ ರೇಖಾನಕ್ಷಾ ನಿರೂಪಣೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 64.811,
+      "duration": 64.811,
+      "script_words": 90
+    },
+    {
+      "chunk_id": "std_9_chapter_7_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 65.411,
+      "end": 90.102,
+      "duration": 24.691,
+      "script_words": 32
+    },
+    {
+      "chunk_id": "std_9_chapter_7_concept_4_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ದೂರ-ಕಾಲ ನಕ್ಷೆ (Distance-Time Graph)",
+      "type": "concept_explanation",
+      "start": 90.702,
+      "end": 135.953,
+      "duration": 45.251,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_9_chapter_7_concept_4_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ದೂರ-ಕಾಲ ನಕ್ಷೆಯ ವಿಶ್ಲೇಷಣೆ",
+      "type": "concept_explanation",
+      "start": 136.553,
+      "end": 185.484,
+      "duration": 48.931,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_9_chapter_7_concept_4_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ವೇಗ-ಕಾಲ ನಕ್ಷೆ (Velocity-Time Graph)",
+      "type": "concept_explanation",
+      "start": 186.084,
+      "end": 237.015,
+      "duration": 50.931,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_9_chapter_7_concept_4_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ವೇಗ-ಕಾಲ ನಕ್ಷೆಯ ವಿಶ್ಲೇಷಣೆ",
+      "type": "concept_explanation",
+      "start": 237.615,
+      "end": 284.626,
+      "duration": 47.011,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_9_chapter_7_concept_4_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 285.226,
+      "end": 322.757,
+      "duration": 37.531,
+      "script_words": 51
+    }
+  ]
+}

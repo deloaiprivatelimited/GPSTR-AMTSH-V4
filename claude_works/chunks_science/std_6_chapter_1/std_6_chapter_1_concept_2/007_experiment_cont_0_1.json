@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಪ್ರಶ್ನೆ ಮತ್ತು ಊಹೆ (Hypothesis)",
+  "script": "ಸಮಸ್ಯೆಯನ್ನು ಗಮನಿಸಿದ ನಂತರ, ನಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿ ಸಹಜವಾಗಿ ಒಂದು ಪ್ರಶ್ನೆ ಮೂಡುತ್ತದೆ. 'ಅಯ್ಯೋ, ಈ ಬೇಳೆ ಯಾಕೆ ಹೀಗೆ ಹೊರಗೆ ಬರುತ್ತಿದೆ?' ಇದು ವೈಜ್ಞಾನಿಕ ವಿಧಾನದ ಎರಡನೇ ಹಂತ, ಅಂದರೆ ಪ್ರಶ್ನೆ ಕೇಳುವುದು. ಈ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರವನ್ನು ಹುಡುಕಲು ನಾವು ಒಂದು ಸಂಭವನೀಯ ಕಾರಣವನ್ನು ಊಹಿಸುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, 'ಬಹುಶಃ ನಾನು ಕುಕ್ಕರ್‌ನಲ್ಲಿ ನೀರನ್ನು ಜಾಸ್ತಿ ಹಾಕಿರಬಹುದು' ಎಂದು ಯೋಚಿಸುತ್ತೇವೆ. ಈ ತಾರ್ಕಿಕ ಊಹೆಯನ್ನೇ ನಾವು 'ಪರಿಕಲ್ಪನೆ' ಅಥವಾ ಹೈಪೋಥಿಸಿಸ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹಾಗಾಗಿ ನಮ್ಮ ಊಹೆ, ಕುಕ್ಕರ್‌ನಲ್ಲಿ ನೀರು ಜಾಸ್ತಿಯಾಗಿದೆ ಎಂಬುದಾಗಿದೆ.",
+  "script_display": "ಸಮಸ್ಯೆಯನ್ನು ಗಮನಿಸಿದ ನಂತರ, ನಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿ ಸಹಜವಾಗಿ ಒಂದು ಪ್ರಶ್ನೆ ಮೂಡುತ್ತದೆ. 'ಅಯ್ಯೋ, ಈ ಬೇಳೆ ಯಾಕೆ ಹೀಗೆ ಹೊರಗೆ ಬರುತ್ತಿದೆ?' ಇದು ವೈಜ್ಞಾನಿಕ ವಿಧಾನದ ಎರಡನೇ ಹಂತ, ಅಂದರೆ ಪ್ರಶ್ನೆ ಕೇಳುವುದು. ಈ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರವನ್ನು ಹುಡುಕಲು ನಾವು ಒಂದು ಸಂಭವನೀಯ ಕಾರಣವನ್ನು ಊಹಿಸುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, 'ಬಹುಶಃ ನಾನು ಕುಕ್ಕರ್‌ನಲ್ಲಿ ನೀರನ್ನು ಜಾಸ್ತಿ ಹಾಕಿರಬಹುದು' ಎಂದು ಯೋಚಿಸುತ್ತೇವೆ. ಈ ತಾರ್ಕಿಕ ಊಹೆಯನ್ನೇ ನಾವು 'ಪರಿಕಲ್ಪನೆ' (Hypothesis) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹಾಗಾಗಿ ನಮ್ಮ ಊಹೆ, ಕುಕ್ಕರ್‌ನಲ್ಲಿ ನೀರು ಜಾಸ್ತಿಯಾಗಿದೆ ಎಂಬುದಾಗಿದೆ.",
+  "display_bullets": [
+    "ಹಂತ 2: ಪ್ರಶ್ನೆ ಕೇಳುವುದು - \"ಬೇಳೆ ಯಾಕೆ ಹೊರಗೆ ಬರುತ್ತಿದೆ?\"",
+    "ಹಂತ 3: ಊಹೆ (Hypothesis) ಮಾಡುವುದು - \"ಬಹುಶಃ ಕುಕ್ಕರ್‌ನಲ್ಲಿ ನೀರು ಜಾಸ್ತಿಯಾಗಿದೆ.\""
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cartoon thought bubble above the pressure cooker. Inside the bubble, a question mark is shown, followed by an image of a measuring cup pouring too much water into the cooker.",
+    "labels": "ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆ, ಅತಿಯಾದ ನೀರು",
+    "scientific_significance": "This visual represents the mental process of questioning and forming a hypothesis.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "experiment_activity",
+  "difficulty": "easy",
+  "source_example_id": "std_6_chapter_1_activity_1.1",
+  "chunk_id": "std_6_chapter_1_concept_2_chunk_007"
+}

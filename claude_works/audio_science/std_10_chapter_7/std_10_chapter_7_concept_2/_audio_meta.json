@@ -1,0 +1,114 @@
+{
+  "module_id": "std_10_chapter_7_concept_2",
+  "chapter_code": "std_10_chapter_7",
+  "voice": "Umbriel",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:25:27",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "c639334f5638735984bd9e44411c70d4",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 22.771,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "slide",
+      "script_words": 34,
+      "generated_at": "2026-04-02 12:23:55"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "5effc1e004a6aba088fe1f3ad6939bbf",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 33.171,
+      "slide_title": "ವಿದಳನದ ಪ್ರಕಾರಗಳು",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 12:24:11"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "4c55b1c244d0c6c2067b3bb69d136dc8",
+      "wav_file": "003_classification_0.wav",
+      "duration": 39.451,
+      "slide_title": "ವಿದಳನದ ಪ್ರಕಾರಗಳು: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 48,
+      "generated_at": "2026-04-02 12:24:16"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "575958c7560451f2156655a7661aa0ec",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 40.171,
+      "slide_title": "ದ್ವಿವಿದಳನ (Binary Fission): ಅಮೀಬಾ",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 12:24:17"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "b022e64eabe8406005c1b91ca37cc23c",
+      "wav_file": "001_intro_0.wav",
+      "duration": 52.971,
+      "slide_title": "ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ: ವಿದಳನ",
+      "type": "slide",
+      "script_words": 70,
+      "generated_at": "2026-04-02 12:24:19"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "8a2521f37ffa56374f64cb7f48ff21df",
+      "wav_file": "009_recap_0.wav",
+      "duration": 54.251,
+      "slide_title": "ಸಾರಾಂಶ: ವಿದಳನ",
+      "type": "recap",
+      "script_words": 67,
+      "generated_at": "2026-04-02 12:25:22"
+    },
+    "008_classification_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "f765fe7b4542a06f65e4df7c063d5479",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "duration": 46.651,
+      "slide_title": "ವಿದಳನ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸಗಳು",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 12:25:23"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "4a0a1dbb17bd0ab563a6837894717535",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 39.571,
+      "slide_title": "ದ್ವಿವಿದಳನ (Binary Fission): ಲಿಶ್ಲೇನಿಯಾ",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 12:25:24"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "e3e3f0645b13e5cf00a6c46ee9d961f8",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 52.931,
+      "slide_title": "ಬಹುವಿದಳನ (Multiple Fission): ಪ್ಲಾಸ್ಮೋಡಿಯಂ",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 12:25:27"
+    }
+  }
+}

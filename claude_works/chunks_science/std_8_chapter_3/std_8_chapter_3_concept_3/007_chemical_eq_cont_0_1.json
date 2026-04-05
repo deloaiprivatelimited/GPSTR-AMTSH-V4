@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಕಲ್ಲಿದ್ದಲಿನ ದಹನವನ್ನು ಈ ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ಮೂಲಕ ತೋರಿಸಬಹುದು. ಘನ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ಕಾರ್ಬನ್, ಅನಿಲ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ಆಮ್ಲಜನಕದೊಂದಿಗೆ ವರ್ತಿಸಿ, ಅನಿಲ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ಉಷ್ಣವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಕಲ್ಲಿದ್ದಲಿನ ದಹನವನ್ನು ಈ ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ಮೂಲಕ ತೋರಿಸಬಹುದು: C(s) + O₂(g) → CO₂(g) + ಉಷ್ಣ",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "C(s) + O_{2}(g) \\rightarrow CO_{2}(g) + \\text{ಉಷ್ಣ (Heat)}",
+    "placeholder_note": "Chemical equation for the combustion of Carbon."
+  },
+  "chunk_id": "std_8_chapter_3_concept_3_chunk_007"
+}

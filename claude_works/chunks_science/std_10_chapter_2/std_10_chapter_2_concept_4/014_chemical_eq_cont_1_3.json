@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತಟಸ್ಥೀಕರಣದ ತಿರುಳು: ನಿವ್ವಳ ಅಯಾನಿಕ್ ಸಮೀಕರಣ",
+  "script": "ಯಾವುದೇ ಪ್ರಬಲ ಆಮ್ಲ ಮತ್ತು ಪ್ರಬಲ ಪ್ರತ್ಯಾಮ್ಲದ ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯ ನಿವ್ವಳ ಅಯಾನಿಕ್ ಸಮೀಕರಣ ಒಂದೇ ಆಗಿರುತ್ತದೆ. ಅದು: H ಪ್ಲಸ್ ಅಯಾನು ಮತ್ತು OH ಮೈನಸ್ ಅಯಾನು ಸೇರಿ ನೀರು ಉಂಟಾಗುತ್ತದೆ. ಸೋಡಿಯಂ ಮತ್ತು ಕ್ಲೋರೈಡ್ ಅಯಾನುಗಳನ್ನು 'ಪ್ರೇಕ್ಷಕ ಅಯಾನುಗಳು' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ, ಏಕೆಂದರೆ ಅವು ಕ್ರಿಯೆಯಲ್ಲಿ ನೇರವಾಗಿ ಭಾಗವಹಿಸುವುದಿಲ್ಲ, ಬದಲಿಗೆ ಕೇವಲ ದ್ರಾವಣದಲ್ಲಿ ಇರುತ್ತವೆ.",
+  "script_display": "ಯಾವುದೇ ಪ್ರಬಲ ಆಮ್ಲ ಮತ್ತು ಪ್ರಬಲ ಪ್ರತ್ಯಾಮ್ಲದ ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯ ನಿವ್ವಳ ಅಯಾನಿಕ್ ಸಮೀಕರಣ (Net Ionic Equation) ಒಂದೇ ಆಗಿರುತ್ತದೆ. Na⁺ ಮತ್ತು Cl⁻ ಅಯಾನುಗಳನ್ನು 'ಪ್ರೇಕ್ಷಕ ಅಯಾನುಗಳು' (Spectator Ions) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ, ಏಕೆಂದರೆ ಅವು ಕ್ರಿಯೆಯಲ್ಲಿ ನೇರವಾಗಿ ಭಾಗವಹಿಸುವುದಿಲ್ಲ.",
+  "display_bullets": [
+    "ಇದೇ ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯ ಮೂಲಭೂತ ಪ್ರಕ್ರಿಯೆ.",
+    "Na⁺ ಮತ್ತು Cl⁻ ಗಳು ಪ್ರೇಕ್ಷಕ ಅಯಾನುಗಳು (Spectator Ions)."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "H^+(aq) + OH^-(aq) \\rightarrow H_2O(l)",
+    "placeholder_note": "The net ionic equation for neutralization, shown prominently."
+  },
+  "sub_type": "chemical_equation",
+  "difficulty": "high",
+  "source_example_id": "std_10_ch_2_eq_2",
+  "chunk_id": "std_10_chapter_2_concept_4_chunk_014"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಕ್ರೀಭವನದ ದಿಕ್ಕು: ಸಾಂದ್ರದಿಂದ ವಿರಳ ಮಾಧ್ಯಮಕ್ಕೆ",
+  "script": "ಮುಂದಿನದಾಗಿ, ಬೆಳಕು ಸಾಂದ್ರ ಮಾಧ್ಯಮದಿಂದ ವಿರಳ ಮಾಧ್ಯಮಕ್ಕೆ ಚಲಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಉದಾಹರಣೆಗೆ, ಬೆಳಕಿನ ಕಿರಣವು ಗಾಜಿನಿಂದ ಗಾಳಿಗೆ ಹೊರಬಂದಾಗ, ಅದರ ವೇಗ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಈ ವೇಗದ ಹೆಚ್ಚಳದಿಂದಾಗಿ, ಬೆಳಕಿನ ಕಿರಣವು ಲಂಬದಿಂದ ದೂರಕ್ಕೆ ಬಾಗುತ್ತದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಗಮನಿಸಬಹುದು, ಪತನ ಕೋನ ಐ ಗಿಂತ ವಕ್ರೀಭವನ ಕೋನ ಆರ್ ದೊಡ್ಡದಾಗಿರುತ್ತದೆ. ಹಾಗಾಗಿ, ಯಾವಾಗಲೂ ನೆನಪಿಡಿ, ಬೆಳಕು ಸಾಂದ್ರ ಮಾಧ್ಯಮದಿಂದ ವಿರಳ ಮಾಧ್ಯಮಕ್ಕೆ ಚಲಿಸುವಾಗ, ಅದು ಲಂಬದಿಂದ ದೂರಕ್ಕೆ ಬಾಗುತ್ತದೆ. ಇದು ಮೊದಲನೇ ನಿಯಮದ ವಿರುದ್ಧವಾಗಿದೆ.",
+  "script_display": "ಮುಂದಿನದಾಗಿ, ಬೆಳಕು ಸಾಂದ್ರ ಮಾಧ್ಯಮದಿಂದ ವಿರಳ ಮಾಧ್ಯಮಕ್ಕೆ ಚಲಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಉದಾಹರಣೆಗೆ, ಬೆಳಕಿನ ಕಿರಣವು ಗಾಜಿನಿಂದ ಗಾಳಿಗೆ ಹೊರಬಂದಾಗ, ಅದರ ವೇಗ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಈ ವೇಗದ ಹೆಚ್ಚಳದಿಂದಾಗಿ, ಬೆಳಕಿನ ಕಿರಣವು ಲಂಬದಿಂದ ದೂರಕ್ಕೆ ಬಾಗುತ್ತದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಗಮನಿಸಬಹುದು, ಪತನ ಕೋನ 'i' ಗಿಂತ ವಕ್ರೀಭವನ ಕೋನ 'r' ದೊಡ್ಡದಾಗಿರುತ್ತದೆ. ಹಾಗಾಗಿ, ಯಾವಾಗಲೂ ನೆನಪಿಡಿ, ಬೆಳಕು ಸಾಂದ್ರ ಮಾಧ್ಯಮದಿಂದ ವಿರಳ ಮಾಧ್ಯಮಕ್ಕೆ ಚಲಿಸುವಾಗ, ಅದು ಲಂಬದಿಂದ ದೂರಕ್ಕೆ ಬಾಗುತ್ತದೆ. ಇದು ಮೊದಲನೇ ನಿಯಮದ ವಿರುದ್ಧವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಬೆಳಕು **ಸಾಂದ್ರ ಮಾಧ್ಯಮದಿಂದ ವಿರಳ ಮಾಧ್ಯಮಕ್ಕೆ** ಚಲಿಸುವಾಗ, ಅದು **ಲಂಬದಿಂದ ದೂರಕ್ಕೆ** ಬಾಗುತ್ತದೆ (r > i)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a light ray traveling from a denser medium (like glass) into a rarer medium (like air). The ray bends away from the normal. The angle of incidence 'i' and the angle of refraction 'r' are clearly labeled, with 'r' being larger than 'i'.",
+    "labels": "ಸಾಂದ್ರ ಮಾಧ್ಯಮ (ಗಾಜು), ವಿರಳ ಮಾಧ್ಯಮ (ಗಾಳಿ), ಪತನ ಕಿರಣ, ವಕ್ರೀಭವನ ಕಿರಣ, ಲಂಬ, ಪತನ ಕೋನ (i), ವಕ್ರೀಭವನ ಕೋನ (r)",
+    "scientific_significance": "Illustrates the second rule of the direction of refraction, where light speeds up and bends away from the normal when entering an optically rarer medium.",
+    "placeholder_note": "Image to be generated showing light ray from glass to air, bending away from normal."
+  },
+  "chunk_id": "std_10_chapter_9_concept_5_chunk_026"
+}

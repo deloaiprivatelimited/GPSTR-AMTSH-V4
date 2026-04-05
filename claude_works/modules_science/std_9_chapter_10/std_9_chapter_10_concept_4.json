@@ -1,0 +1,147 @@
+{
+  "module_id": "std_9_chapter_10_concept_4",
+  "module_title": "ಚಲನಶಕ್ತಿ (Kinetic Energy)",
+  "class": "9",
+  "chapter": "10",
+  "chapter_title": "ಕೆಲಸ ಮತ್ತು ಶಕ್ತಿ (Work and Energy)",
+  "domain": "ಭೌತಶಾಸ್ತ್ರ (Physics)",
+  "prerequisites": [
+    "std_9_chapter_10_concept_1",
+    "std_9_chapter_10_concept_2",
+    "std_9_chapter_10_concept_3"
+  ],
+  "theory": {
+    "concept_summary": "ಚಲಿಸುತ್ತಿರುವ ಯಾವುದೇ ವಸ್ತುವು ಶಕ್ತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ, ಇದನ್ನು ಚಲನಶಕ್ತಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ವಸ್ತುವಿನ ಚಲನಶಕ್ತಿಯು ಅದರ ರಾಶಿ (mass) ಮತ್ತು ವೇಗದ ವರ್ಗಕ್ಕೆ (square of velocity) ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ. ಇದರರ್ಥ, ವೇಗವು ಸ್ವಲ್ಪ ಹೆಚ್ಚಾದರೂ ಚಲನಶಕ್ತಿಯು ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಒಂದು ವಸ್ತುವನ್ನು ನಿಶ್ಚಲ ಸ್ಥಿತಿಯಿಂದ ಒಂದು ನಿರ್ದಿಷ್ಟ ವೇಗಕ್ಕೆ ತರಲು ಮಾಡಿದ ಕೆಲಸವು ಆ ವಸ್ತುವಿನ ಚಲನಶಕ್ತಿಗೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+    "definitions": [
+      {
+        "term": "ಚಲನಶಕ್ತಿ (Kinetic Energy, Eₖ)",
+        "definition": "ಒಂದು ಕಾಯವು ತನ್ನ ಚಲನೆಯಿಂದಾಗಿ ಪಡೆದುಕೊಳ್ಳುವ ಶಕ್ತಿ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Kinetic Energy",
+        "latex": "E_k = \\frac{1}{2}mv^2",
+        "condition": "m = ಕಾಯದ ರಾಶಿ (kg), v = ಕಾಯದ ವೇಗ (m/s).",
+        "exception": "ಈ ಸೂತ್ರವು ಸಾಪೇಕ್ಷತಾ ಸಿದ್ಧಾಂತದ ವೇಗಗಳಿಗೆ (ಬೆಳಕಿನ ವೇಗಕ್ಕೆ ಹತ್ತಿರ) ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+        "derived_from": "ಕೆಲಸ-ಶಕ್ತಿ ಪ್ರಮೇಯದಿಂದ.",
+        "used_in": "ಚಲಿಸುತ್ತಿರುವ ವಸ್ತುಗಳ ಶಕ್ತಿಯನ್ನು ಲೆಕ್ಕಹಾಕಲು.",
+        "derivation": [
+          {
+            "step": 1,
+            "action": "ಕೆಲಸ-ಶಕ್ತಿ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, ಮಾಡಿದ ಕೆಲಸವು ಚಲನಶಕ್ತಿಯ ಬದಲಾವಣೆಗೆ ಸಮ: W = ΔEₖ. ಮತ್ತು ಕೆಲಸ W = F × s.",
+            "calculation": "W = F × s"
+          },
+          {
+            "step": 2,
+            "action": "ನ್ಯೂಟನ್‌ನ ಎರಡನೇ ನಿಯಮ (F = ma) ಮತ್ತು ಚಲನೆಯ ಮೂರನೇ ಸಮೀಕರಣವನ್ನು (v² - u² = 2as) ಬಳಸುವುದು.",
+            "calculation": "F = ma  ಮತ್ತು  s = \\frac{v^2 - u^2}{2a}"
+          },
+          {
+            "step": 3,
+            "action": "F ಮತ್ತು s ನ ಬೆಲೆಗಳನ್ನು W ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸುವುದು.",
+            "calculation": "W = (ma) \\times \\left[ \\frac{v^2 - u^2}{2a} \\right]"
+          },
+          {
+            "step": 4,
+            "action": "ಸರಳೀಕರಿಸುವುದು.",
+            "calculation": "W = \\frac{1}{2} m(v^2 - u^2)"
+          },
+          {
+            "step": 5,
+            "action": "ಕಾಯವು ನಿಶ್ಚಲ ಸ್ಥಿತಿಯಿಂದ (u=0) ಚಲಿಸಲು ಆರಂಭಿಸಿದರೆ, ಮಾಡಿದ ಕೆಲಸವು ಅಂತಿಮ ಚಲನಶಕ್ತಿಗೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+            "calculation": "W = \\frac{1}{2} mv^2. ಆದ್ದರಿಂದ, E_k = \\frac{1}{2} mv^2."
+          }
+        ]
+      }
+    ],
+    "laws": [],
+    "chemical_equations": [],
+    "properties": [],
+    "classifications": [],
+    "experiments": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "std_9_chapter_10_example_3",
+      "difficulty": "basic",
+      "problem": "15 kg ರಾಶಿಯ ಕಾಯವೊಂದು 4 ms⁻¹ ಸ್ಥಿರವೇಗದಲ್ಲಿ ಚಲಿಸುತ್ತಿದೆ. ಕಾಯ ಪಡೆದಿರುವ ಚಲನಶಕ್ತಿ ಎಷ್ಟು?",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸುವುದು.",
+          "justification": "ರಾಶಿ (m) ಮತ್ತು ವೇಗ (v) ನೀಡಲಾಗಿದೆ.",
+          "calculation": "m = 15 kg, v = 4 ms⁻¹"
+        },
+        {
+          "step": 2,
+          "action": "ಚಲನಶಕ್ತಿಯ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು.",
+          "justification": "Eₖ = ½ mv²",
+          "calculation": "E_k = \\frac{1}{2} \\times 15 \\text{ kg} \\times (4 \\text{ ms}^{-1})^2"
+        },
+        {
+          "step": 3,
+          "action": "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "ಲೆಕ್ಕಾಚಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು.",
+          "calculation": "E_k = \\frac{1}{2} \\times 15 \\times 16 \\text{ J} = 120 \\text{ J}"
+        }
+      ],
+      "result": "ಕಾಯದ ಚಲನಶಕ್ತಿ 120 J.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "std_9_chapter_10_example_4",
+      "difficulty": "advanced",
+      "problem": "1500 kg ರಾಶಿಯ ಕಾರೊಂದರ ವೇಗವನ್ನು 30 kmh⁻¹ ನಿಂದ 60 kmh⁻¹ ಗೆ ಹೆಚ್ಚಿಸಲು ಮಾಡಬೇಕಾದ ಕೆಲಸದ ಪ್ರಮಾಣವೆಷ್ಟು?",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ದತ್ತಾಂಶಗಳನ್ನು ಮತ್ತು ಏಕಮಾನಗಳನ್ನು SI ಪದ್ಧತಿಗೆ ಪರಿವರ್ತಿಸುವುದು.",
+          "justification": "ವೇಗವನ್ನು km/h ನಿಂದ m/s ಗೆ ಪರಿವರ್ತಿಸಬೇಕು. 1 km/h = 5/18 m/s.",
+          "calculation": "m = 1500 kg. u = 30 km/h = 30 × (1000/3600) m/s = 25/3 m/s ≈ 8.33 m/s. v = 60 km/h = 60 × (1000/3600) m/s = 50/3 m/s ≈ 16.67 m/s."
+        },
+        {
+          "step": 2,
+          "action": "ಕೆಲಸ-ಶಕ್ತಿ ಪ್ರಮೇಯವನ್ನು ಬಳಸುವುದು: ಮಾಡಿದ ಕೆಲಸ = ಚಲನಶಕ್ತಿಯಲ್ಲಿನ ಬದಲಾವಣೆ.",
+          "justification": "W = Eₖ(final) - Eₖ(initial)",
+          "calculation": "W = \\frac{1}{2}mv^2 - \\frac{1}{2}mu^2 = \\frac{1}{2}m(v^2 - u^2)"
+        },
+        {
+          "step": 3,
+          "action": "ಆರಂಭಿಕ ಚಲನಶಕ್ತಿ (Eₖi) ಲೆಕ್ಕಾಚಾರ.",
+          "justification": "Eₖi = ½ mu²",
+          "calculation": "E_{ki} = \\frac{1}{2} \\times 1500 \\times (\\frac{25}{3})^2 = 750 \\times \\frac{625}{9} = \\frac{156250}{3} \\text{ J}"
+        },
+        {
+          "step": 4,
+          "action": "ಅಂತಿಮ ಚಲನಶಕ್ತಿ (Eₖf) ಲೆಕ್ಕಾಚಾರ.",
+          "justification": "Eₖf = ½ mv²",
+          "calculation": "E_{kf} = \\frac{1}{2} \\times 1500 \\times (\\frac{50}{3})^2 = 750 \\times \\frac{2500}{9} = \\frac{625000}{3} \\text{ J}"
+        },
+        {
+          "step": 5,
+          "action": "ಮಾಡಿದ ಕೆಲಸವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "W = Eₖf - Eₖi",
+          "calculation": "W = \\frac{625000}{3} - \\frac{156250}{3} = \\frac{468750}{3} = 156250 \\text{ J}"
+        }
+      ],
+      "result": "ವೇಗವನ್ನು ಹೆಚ್ಚಿಸಲು ಮಾಡಬೇಕಾದ ಕೆಲಸ 156250 J.",
+      "common_trap": "ವೇಗವನ್ನು km/h ನಿಂದ m/s ಗೆ ಪರಿವರ್ತಿಸುವುದನ್ನು ಮರೆಯುವುದು ಅಥವಾ ತಪ್ಪಾಗಿ ಪರಿವರ್ತಿಸುವುದು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಒಂದು ವಸ್ತುವಿನ ವೇಗವನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿದರೆ, ಅದರ ಚಲನಶಕ್ತಿ ಎಷ್ಟಾಗುತ್ತದೆ? (ಉತ್ತರ: ನಾಲ್ಕು ಪಟ್ಟು). ಈ ರೀತಿಯ ಅನುಪಾತದ ಪ್ರಶ್ನೆಗಳು ಸಾಮಾನ್ಯ.",
+    "two_mark_note": "ಚಲನಶಕ್ತಿಯ ಸೂತ್ರವನ್ನು ಬರೆಯಿರಿ ಮತ್ತು ಅದರಲ್ಲಿರುವ ಪದಗಳನ್ನು ವಿವರಿಸಿ.",
+    "five_mark_note": "ಚಲನಶಕ್ತಿಯ ಸೂತ್ರ Eₖ = ½mv² ಅನ್ನು ನಿರೂಪಿಸಿ.",
+    "common_mistakes": [
+      "ವೇಗ (v) ಮತ್ತು ಚಲನಶಕ್ತಿ (Eₖ) ನಡುವಿನ ರೇಖೀಯ ಸಂಬಂಧವನ್ನು (linear relation) ಊಹಿಸುವುದು. ಆದರೆ, ಇದು ವರ್ಗ ಸಂಬಂಧ (quadratic relation, v²) ಆಗಿದೆ ಎಂಬುದನ್ನು ಮರೆಯುವುದು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": [
+      "std_9_chapter_10_concept_5",
+      "std_9_chapter_10_concept_6"
+    ]
+  }
+}

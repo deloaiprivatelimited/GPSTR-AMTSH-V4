@@ -1,0 +1,147 @@
+{
+  "module_id": "std_7_chapter_5_concept_4",
+  "chapter_code": "std_7_chapter_5",
+  "voice": "Gacrux",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 17:18:04",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "74bcda7900d34a8b706628995b621d50",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 32.411,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 42,
+      "generated_at": "2026-04-02 17:16:01"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "eb656b5c333a00a43fafa8b3b371e0a0",
+      "wav_file": "003_definition_0.wav",
+      "duration": 39.571,
+      "slide_title": "ಸ್ಪಟಿಕೀಕರಣ (Crystallization)",
+      "type": "definition",
+      "script_words": 46,
+      "generated_at": "2026-04-02 17:16:03"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "5baa475ca18d84014b18aacd2b509181",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 42.371,
+      "slide_title": "ಸ್ಪಟಿಕೀಕರಣ vs ಆವಿಯಾಗುವಿಕೆ",
+      "type": "definition",
+      "script_words": 45,
+      "generated_at": "2026-04-02 17:16:08"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "54600ef1eefd739b7e98c77e49292047",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 43.451,
+      "slide_title": "ಉದಾಹರಣೆ: ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಹರಳುಗಳು",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 17:16:09"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "a8ee72ba8ce227a079d71ca22b576141",
+      "wav_file": "001_intro_0.wav",
+      "duration": 48.771,
+      "slide_title": "ಪರಿಚಯ: ಸ್ಪಟಿಕೀಕರಣ",
+      "type": "chunk",
+      "script_words": 66,
+      "generated_at": "2026-04-02 17:16:12"
+    },
+    "007_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "0ac3c86457276da14a758fbaf724f256",
+      "wav_file": "007_experiment_cont_0_1.wav",
+      "duration": 30.331,
+      "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "visual_explain",
+      "script_words": 47,
+      "generated_at": "2026-04-02 17:16:57"
+    },
+    "006_experiment_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "cd197d7cda13cf3ff5d053c4d5a6e714",
+      "wav_file": "006_experiment_0.wav",
+      "duration": 30.651,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಹರಳುಗಳ ತಯಾರಿಕೆ",
+      "type": "title_hero",
+      "script_words": 41,
+      "generated_at": "2026-04-02 17:17:01"
+    },
+    "008_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "1667ddeba11007d4f8771a9a9dd162f9",
+      "wav_file": "008_experiment_cont_0_2.wav",
+      "duration": 34.531,
+      "slide_title": "ವಿಧಾನ: ಪರ್ಯಾಪ್ತ ದ್ರಾವಣದ ತಯಾರಿಕೆ",
+      "type": "step_walkthrough",
+      "script_words": 46,
+      "generated_at": "2026-04-02 17:17:03"
+    },
+    "010_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "e4ccaefc6d95067a16993f03f5b760f6",
+      "wav_file": "010_experiment_cont_0_4.wav",
+      "duration": 37.171,
+      "slide_title": "ಗಮನಿಸಿದ ಅಂಶ (Observation)",
+      "type": "visual_explain",
+      "script_words": 45,
+      "generated_at": "2026-04-02 17:17:04"
+    },
+    "009_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "eb4e10fa24e5b10b2c2dab297cea0485",
+      "wav_file": "009_experiment_cont_0_3.wav",
+      "duration": 41.371,
+      "slide_title": "ವಿಧಾನ: ಸೋಸುವಿಕೆ ಮತ್ತು ತಂಪಾಗಿಸುವಿಕೆ",
+      "type": "step_walkthrough",
+      "script_words": 50,
+      "generated_at": "2026-04-02 17:17:08"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "8e539bf65e6dcb77819c2f4e18b9d623",
+      "wav_file": "012_recap_0.wav",
+      "duration": 39.571,
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "script_words": 47,
+      "generated_at": "2026-04-02 17:18:03"
+    },
+    "011_experiment_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "9520ec5920d0848bd28cdffbac913fbf",
+      "wav_file": "011_experiment_cont_0_5.wav",
+      "duration": 42.691,
+      "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+      "type": "key_takeaway",
+      "script_words": 52,
+      "generated_at": "2026-04-02 17:18:04"
+    }
+  }
+}

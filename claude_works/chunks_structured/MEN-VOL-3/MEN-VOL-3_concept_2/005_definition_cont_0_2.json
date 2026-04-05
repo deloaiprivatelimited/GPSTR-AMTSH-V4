@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಗೋಳದ ರಚನೆ",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇದು ವ್ಯಾಖ್ಯೆಯನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ತೋರಿಸುತ್ತದೆ. ಚಿತ್ರದ ಮಧ್ಯದಲ್ಲಿರುವ 'O' ಬಿಂದುವೇ ಗೋಳದ ಕೇಂದ್ರ. ಗೋಳದ ಮೇಲ್ಮೈ ಮೇಲಿರುವ A, B, ಮತ್ತು C ಬಿಂದುಗಳನ್ನು ನೋಡಿ. ಕೇಂದ್ರ O ಯಿಂದ ಈ ಪ್ರತಿಯೊಂದು ಬಿಂದುವಿಗೂ ಇರುವ ದೂರ, ಅಂದರೆ OA, OB, ಮತ್ತು OC, ಎಲ್ಲವೂ ಸಮಾನವಾಗಿವೆ. ಈ ಸಮಾನ ದೂರವನ್ನೇ ನಾವು ತ್ರಿಜ್ಯ 'r' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರರ್ಥ, ಗೋಳದ ಮೇಲ್ಮೈ ಮೇಲೆ ನೀವು ಯಾವುದೇ ಬಿಂದುವನ್ನು ಗುರುತಿಸಿದರೂ, ಅದು ಕೇಂದ್ರದಿಂದ 'r' ದೂರದಲ್ಲಿಯೇ ಇರುತ್ತದೆ. ಇದೇ ಗೋಳದ ಮೂಲಭೂತ ಗುಣವಾಗಿದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇದು ವ್ಯಾಖ್ಯೆಯನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ತೋರಿಸುತ್ತದೆ. ಚಿತ್ರದ ಮಧ್ಯದಲ್ಲಿರುವ 'O' ಬಿಂದುವೇ ಗೋಳದ ಕೇಂದ್ರ (center). ಗೋಳದ ಮೇಲ್ಮೈ ಮೇಲಿರುವ A, B, ಮತ್ತು C ಬಿಂದುಗಳನ್ನು ನೋಡಿ. ಕೇಂದ್ರ O ಯಿಂದ ಈ ಪ್ರತಿಯೊಂದು ಬಿಂದುವಿಗೂ ಇರುವ ದೂರ, ಅಂದರೆ $OA$, $OB$, ಮತ್ತು $OC$, ಎಲ್ಲವೂ ಸಮಾನವಾಗಿವೆ. ಈ ಸಮಾನ ದೂರವನ್ನೇ ನಾವು ತ್ರಿಜ್ಯ (radius) '$r$' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರರ್ಥ, ಗೋಳದ ಮೇಲ್ಮೈ ಮೇಲೆ ನೀವು ಯಾವುದೇ ಬಿಂದುವನ್ನು ಗುರುತಿಸಿದರೂ, ಅದು ಕೇಂದ್ರದಿಂದ '$r$' ದೂರದಲ್ಲಿಯೇ ಇರುತ್ತದೆ. ಇದೇ ಗೋಳದ ಮೂಲಭೂತ ಗುಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "'O' ಎಂಬುದು ಗೋಳದ ಕೇಂದ್ರ (Center).",
+    "A, B, C ಗಳು ಮೇಲ್ಮೈ ಮೇಲಿನ ಬಿಂದುಗಳು.",
+    "ಕೇಂದ್ರದಿಂದ ಮೇಲ್ಮೈ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವಿಗಿರುವ ದೂರವು ತ್ರಿಜ್ಯ ($r$) ಆಗಿರುತ್ತದೆ.",
+    "$OA = OB = OC = r$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A sphere with its center labeled 'O'. Three different radii are drawn from the center 'O' to points 'A', 'B', and 'C' on the surface. Each radius is labeled with 'r'.",
+    "labels": "ಕೇಂದ್ರ (O), ತ್ರಿಜ್ಯ (r), ಮೇಲ್ಮೈ ಬಿಂದುಗಳು (A, B, C)",
+    "mathematical_significance": "Visually demonstrates the core concept of the definition: all points on the surface are equidistant (the radius) from the center.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-VOL-3_concept_2_chunk_005"
+}

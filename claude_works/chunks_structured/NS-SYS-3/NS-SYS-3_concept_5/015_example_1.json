@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಛೇದದ ಅಕರಣೀಕರಣ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಒಂದರ ಕೆಳಗೆ ಎರಡು ಪ್ಲಸ್ ರೂಟ್ ಮೂರು ಎಂಬ ಭಿನ್ನರಾಶಿಯ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಬೇಕು. ಇಲ್ಲಿ ಛೇದವು ಎರಡು ಪ್ಲಸ್ ರೂಟ್ ಮೂರು, ಇದು ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ನಮ್ಮ ಗುರಿ ಇದನ್ನು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿ ಪರಿವರ್ತಿಸುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $\\frac{1}{2+\\sqrt{3}}$ ಎಂಬ ಭಿನ್ನರಾಶಿಯ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಬೇಕು. ಇಲ್ಲಿ ಛೇದವು $2+\\sqrt{3}$, ಇದು ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ನಮ್ಮ ಗುರಿ ಇದನ್ನು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿ ಪರಿವರ್ತಿಸುವುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_formula",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{1}{2+\\sqrt{3}}",
+    "placeholder_note": "Problem statement"
+  },
+  "source_example_id": "NS-SYS-3_example_17",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-SYS-3_concept_5_chunk_015"
+}

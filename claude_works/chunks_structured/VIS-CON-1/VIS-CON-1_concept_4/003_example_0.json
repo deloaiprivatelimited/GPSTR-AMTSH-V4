@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಆಯತದ ರಚನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಬಾಹುವಿನ ಉದ್ದ 5 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಕರ್ಣದ ಉದ್ದ 7 ಸೆಂಟಿಮೀಟರ್ ಇರುವ ಎಬಿಸಿಡಿ ಆಯತವನ್ನು ರಚಿಸಿ. ಇಲ್ಲಿ ಸಿಡಿ ಸಮ 5 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಬಿಡಿ ಸಮ 7 ಸೆಂಟಿಮೀಟರ್ ಎಂದು ಕೊಡಲಾಗಿದೆ. ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನಾವು ಒಂದು ಕಚ್ಚಾ ಚಿತ್ರವನ್ನು ರಚಿಸೋಣ. ಇದು ರಚನೆಯ ಹಂತಗಳನ್ನು ಯೋಜಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಕಚ್ಚಾ ಚಿತ್ರದಲ್ಲಿ, ಎಬಿಸಿಡಿ ಆಯತವನ್ನು ಬರೆದು, ದತ್ತ ಅಳತೆಗಳನ್ನು ಗುರುತಿಸೋಣ. ಆಯತದ ಒಂದು ಕೋನ, ಉದಾಹರಣೆಗೆ ಕೋನ ಸಿ, 90 ಡಿಗ್ರಿ ಇರುತ್ತದೆ ಎಂಬುದನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಬಾಹುವಿನ ಉದ್ದ 5 cm ಮತ್ತು ಕರ್ಣದ ಉದ್ದ 7 cm ಇರುವ ABCD ಆಯತವನ್ನು ರಚಿಸಿ. (CD = 5 cm, BD = 7 cm). ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನಾವು ಒಂದು ಕಚ್ಚಾ ಚಿತ್ರವನ್ನು ರಚಿಸೋಣ. ಇದು ರಚನೆಯ ಹಂತಗಳನ್ನು ಯೋಜಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಕಚ್ಚಾ ಚಿತ್ರದಲ್ಲಿ, ABCD ಆಯತವನ್ನು ಬರೆದು, ದತ್ತ ಅಳತೆಗಳನ್ನು ಗುರುತಿಸೋಣ. ಆಯತದ ಒಂದು ಕೋನ, ಉದಾಹರಣೆಗೆ $∠C$, $90°$ ಇರುತ್ತದೆ ಎಂಬುದನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ಬಾಹು CD = 5 cm, ಕರ್ಣ BD = 7 cm.",
+    "ರಚಿಸಬೇಕಾದದ್ದು: ABCD ಆಯತ.",
+    "ಯೋಜನೆ: ಮೊದಲು ಕಚ್ಚಾ ಚಿತ್ರವನ್ನು ರಚಿಸಿ, ನಂತರ BCD ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ರಚಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A rough sketch of a rectangle ABCD. The side CD is labeled '5 cm'. The diagonal BD is drawn and labeled '7 cm'. The angle at vertex C is marked with a right-angle symbol (90°).",
+    "labels": "A, B, C, D, 5 cm, 7 cm, 90°",
+    "mathematical_significance": "This rough sketch helps visualize the given information and plan the construction steps. It highlights that the core of the construction is forming the right-angled triangle BCD.",
+    "placeholder_note": "Image to be generated: Rough sketch of a rectangle with given side and diagonal labeled."
+  },
+  "difficulty": "advanced",
+  "source_example_id": "VIS-CON-1_example_3",
+  "chunk_id": "VIS-CON-1_concept_4_chunk_003"
+}

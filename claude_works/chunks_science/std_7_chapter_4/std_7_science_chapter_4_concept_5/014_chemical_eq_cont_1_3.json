@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಣುಗಳ ಮಟ್ಟದಲ್ಲಿ ಕ್ರಿಯೆ",
+  "script": "ಇದನ್ನು ಅಣುಗಳ ಮಟ್ಟದಲ್ಲಿ ನೋಡೋಣ. ಒಂದು ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ ಅಣು ಮತ್ತು ಒಂದು ನೀರಿನ ಅಣು ಸಂಯೋಜನೆಗೊಂಡು, ಒಂದು ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲದ ಅಣುವನ್ನು ರೂಪಿಸುತ್ತವೆ. ಗಮನಿಸಿ, ಪರಮಾಣುಗಳು ಕೇವಲ ಮರುಜೋಡಣೆಯಾಗುತ್ತವೆ, ಅವುಗಳ ಸಂಖ್ಯೆ ಬದಲಾಗುವುದಿಲ್ಲ.",
+  "script_display": "ಅಣುಗಳ ಮಟ್ಟದಲ್ಲಿ:",
+  "display_bullets": [
+    "1 ಅಣು SO₂ + 1 ಅಣು H₂O → 1 ಅಣು H₂SO₃",
+    "ಪರಮಾಣುಗಳು ಕೇವಲ ಮರುಜೋಡಣೆಯಾಗುತ್ತವೆ, ಅವುಗಳ ಸಂಖ್ಯೆ ಬದಲಾಗುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "chemistry_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple molecular diagram showing a ball-and-stick model of one SO₂ molecule and one H₂O molecule on the left. An arrow points to the right, where a single, larger ball-and-stick model of an H₂SO₃ molecule is shown. Atoms are color-coded (Sulfur=yellow, Oxygen=red, Hydrogen=white).",
+    "labels": "SO₂, H₂O, H₂SO₃",
+    "scientific_significance": "Illustrates the law of conservation of mass in a chemical reaction, showing how atoms are rearranged to form new molecules.",
+    "placeholder_note": "Generate a ball-and-stick model animation. SO₂ and H₂O molecules approach, collide, and rearrange to form one H₂SO₃ molecule."
+  },
+  "chunk_id": "std_7_science_chapter_4_concept_5_chunk_014"
+}

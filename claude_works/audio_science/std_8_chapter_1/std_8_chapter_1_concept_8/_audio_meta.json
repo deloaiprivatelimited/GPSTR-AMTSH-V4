@@ -1,0 +1,92 @@
+{
+  "module_id": "std_8_chapter_1_concept_8",
+  "chapter_code": "std_8_chapter_1",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:19:07",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "dac9113e8b8053ad3d33c641b23ee91e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 32.571,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ (Prerequisites)",
+      "type": "chunk",
+      "script_words": 45,
+      "generated_at": "2026-04-02 14:17:47"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "dcc0dbde1e78fe5be130cfaceba91b81",
+      "wav_file": "003_definition_0.wav",
+      "duration": 40.091,
+      "slide_title": "ಆಹಾರದ ಮೂಲವಾಗಿ ಪ್ರಾಣಿಗಳು",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 14:17:53"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "17a6f82350dd945dbe6467be35aeeef9",
+      "wav_file": "001_intro_0.wav",
+      "duration": 47.531,
+      "slide_title": "ಪಶುಸಂಗೋಪನೆ (Animal Husbandry)",
+      "type": "chunk",
+      "script_words": 65,
+      "generated_at": "2026-04-02 14:17:56"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "d1125c4a438d3ead94279c9db01d7ccc",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 49.611,
+      "slide_title": "ಪಶುಸಂಗೋಪನೆಯ ವ್ಯಾಪ್ತಿ",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 14:18:25"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "02f92f26101aa146ec232a62f7a3b3c6",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 49.331,
+      "slide_title": "ಪಶುಸಂಗೋಪನೆ ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 14:18:26"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "a9ae6eb3dcf5993a365d437081086c54",
+      "wav_file": "007_recap_0.wav",
+      "duration": 31.891,
+      "slide_title": "ಸಾರಾಂಶ: ಪಶುಸಂಗೋಪನೆ",
+      "type": "recap",
+      "script_words": 39,
+      "generated_at": "2026-04-02 14:18:49"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "8fe7321d979ef7bbd807013e6f07e7ad",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 56.851,
+      "slide_title": "ಸರಿಯಾದ ನಿರ್ವಹಣೆ",
+      "type": "definition",
+      "script_words": 70,
+      "generated_at": "2026-04-02 14:19:07"
+    }
+  }
+}

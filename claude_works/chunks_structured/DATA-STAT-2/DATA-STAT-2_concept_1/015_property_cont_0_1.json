@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಸಮ ವರ್ಗಾಂತರಗಳ ಹಿಸ್ಟೋಗ್ರಾಂ: ನಿಯಮ",
+  "script": "ಕೆಲವೊಮ್ಮೆ, ನಾವು ಸಂಗ್ರಹಿಸಿದ ದತ್ತಾಂಶಗಳಲ್ಲಿ ವರ್ಗಾಂತರಗಳ ಅಗಲಗಳು ಸಮನಾಗಿರುವುದಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, 10 ರಿಂದ 20, 20 ರಿಂದ 30, ಆದರೆ ನಂತರ 30 ರಿಂದ 50. ಇಂತಹ ಅಸಮ ವರ್ಗಾಂತರಗಳಿರುವಾಗ ಹಿಸ್ಟೋಗ್ರಾಂ ರಚಿಸುವಾಗ ನಾವು ಜಾಗರೂಕರಾಗಿರಬೇಕು. ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ನಿಯಮವಿದೆ. ವರ್ಗಾಂತರಗಳ ಅಗಲಗಳು ಅಸಮವಾಗಿದ್ದಾಗ, ಆಯತದ ಎತ್ತರವನ್ನು ನೇರವಾಗಿ ಆವೃತ್ತಿಗೆ ಸಮನಾಗಿ ತೆಗೆದುಕೊಳ್ಳಬಾರದು. ಯಾಕೆಂದರೆ, ಹಿಸ್ಟೋಗ್ರಾಂನಲ್ಲಿ, ಪ್ರತಿ ಆಯತದ ವಿಸ್ತೀರ್ಣವು ಆ ವರ್ಗದ ಆವೃತ್ತಿಗೆ ಅನುಪಾತದಲ್ಲಿರಬೇಕು, ಎತ್ತರವಲ್ಲ. ಒಂದು ವೇಳೆ ನಾವು ಎತ್ತರವನ್ನು ಆವೃತ್ತಿಗೆ ಸಮನಾಗಿ ತೆಗೆದುಕೊಂಡರೆ, ಅಗಲವಾದ ವರ್ಗವು ದೃಷ್ಟಿಗೋಚರವಾಗಿ ದೊಡ್ಡದಾಗಿ ಕಾಣುತ್ತದೆ ಮತ್ತು ದತ್ತಾಂಶದ ತಪ್ಪು ಚಿತ್ರಣವನ್ನು ನೀಡುತ್ತದೆ. ಇದನ್ನು ತಪ್ಪಿಸಲು ನಾವು ಎತ್ತರವನ್ನು ಸರಿಹೊಂದಿಸುತ್ತೇವೆ. ಈ ಹೊಂದಾಣಿಕೆಯು ಎಲ್ಲಾ ಆಯತಗಳು ಸರಿಯಾದ ಅನುಪಾತದಲ್ಲಿರುವುದನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ.",
+  "script_display": "ಕೆಲವೊಮ್ಮೆ, ನಾವು ಸಂಗ್ರಹಿಸಿದ ದತ್ತಾಂಶಗಳಲ್ಲಿ ವರ್ಗಾಂತರಗಳ (class intervals) ಅಗಲಗಳು ಸಮನಾಗಿರುವುದಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, 10-20, 20-30, ಆದರೆ ನಂತರ 30-50. ಇಂತಹ ಅಸಮ ವರ್ಗಾಂತರಗಳಿರುವಾಗ ಹಿಸ್ಟೋಗ್ರಾಂ ರಚಿಸುವಾಗ ನಾವು ಜಾಗರೂಕರಾಗಿರಬೇಕು. ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ನಿಯಮವಿದೆ. ವರ್ಗಾಂತರಗಳ ಅಗಲಗಳು ಅಸಮವಾಗಿದ್ದಾಗ, ಆಯತದ ಎತ್ತರವನ್ನು ನೇರವಾಗಿ ಆವೃತ್ತಿಗೆ (frequency) ಸಮನಾಗಿ ತೆಗೆದುಕೊಳ್ಳಬಾರದು. ಯಾಕೆಂದರೆ, ಹಿಸ್ಟೋಗ್ರಾಂನಲ್ಲಿ, ಪ್ರತಿ ಆಯತದ **ವಿಸ್ತೀರ್ಣವು (Area)** ಆ ವರ್ಗದ ಆವೃತ್ತಿಗೆ ಅನುಪಾತದಲ್ಲಿರಬೇಕು, ಎತ್ತರವಲ್ಲ. ಒಂದು ವೇಳೆ ನಾವು ಎತ್ತರವನ್ನು ಆವೃತ್ತಿಗೆ ಸಮನಾಗಿ ತೆಗೆದುಕೊಂಡರೆ, ಅಗಲವಾದ ವರ್ಗವು ದೃಷ್ಟಿಗೋಚರವಾಗಿ ದೊಡ್ಡದಾಗಿ ಕಾಣುತ್ತದೆ ಮತ್ತು ದತ್ತಾಂಶದ ತಪ್ಪು ಚಿತ್ರಣವನ್ನು ನೀಡುತ್ತದೆ. ಇದನ್ನು ತಪ್ಪಿಸಲು ನಾವು ಎತ್ತರವನ್ನು ಸರಿಹೊಂದಿಸುತ್ತೇವೆ. ಈ ಹೊಂದಾಣಿಕೆಯು ಎಲ್ಲಾ ಆಯತಗಳು ಸರಿಯಾದ ಅನುಪಾತದಲ್ಲಿರುವುದನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ವರ್ಗಾಂತರಗಳ ಅಗಲಗಳು ಅಸಮವಾಗಿದ್ದಾಗ, ಆಯತದ ಎತ್ತರವನ್ನು ನೇರವಾಗಿ ಆವೃತ್ತಿಗೆ ಸಮನಾಗಿ ತೆಗೆದುಕೊಳ್ಳಬಾರದು.",
+    "**ಪ್ರಮುಖ ನಿಯಮ:** ಹಿಸ್ಟೋಗ್ರಾಂನಲ್ಲಿ, ಪ್ರತಿ ಆಯತದ **ವಿಸ್ತೀರ್ಣವು** ಆ ವರ್ಗದ ಆವೃತ್ತಿಗೆ ಅನುಪಾತದಲ್ಲಿರಬೇಕು, ಎತ್ತರವಲ್ಲ.",
+    "ಅಗಲವಾದ ವರ್ಗವು ಅದೇ ಆವೃತ್ತಿಗೆ ಕಿರಿದಾದ ವರ್ಗಕ್ಕಿಂತ ದೃಷ್ಟಿಗೋಚರವಾಗಿ ದೊಡ್ಡದಾಗಿ ಕಾಣುವುದನ್ನು ತಪ್ಪಿಸಲು ನಾವು ಎತ್ತರವನ್ನು ಸರಿಹೊಂದಿಸುತ್ತೇವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing two histogram bars with the same frequency, say 20. Bar 1 represents class 10-20 (width 10) and has height 20. Bar 2 represents class 20-40 (width 20) and also has height 20. An arrow points to Bar 2, indicating it looks misleadingly large because its area is double that of Bar 1, despite representing the same frequency.",
+    "labels": "ಕಿರಿದಾದ ವರ್ಗ (ಅಗಲ 10), ಅಗಲವಾದ ವರ್ಗ (ಅಗಲ 20), ತಪ್ಪು ನಿರೂಪಣೆ",
+    "mathematical_significance": "Illustrates the core problem with unequal class intervals: using frequency as height directly creates a misleading visual representation where area is not proportional to frequency.",
+    "placeholder_note": "Image to be generated showing the misleading effect of not adjusting heights for unequal class widths."
+  },
+  "chunk_id": "DATA-STAT-2_concept_1_chunk_015"
+}

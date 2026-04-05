@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ದತ್ತಾಂಶದ ರೂಪಗಳು: ಉದಾಹರಣೆಗಳು",
+  "script": "ದತ್ತಾಂಶವು ಕೇವಲ ಸಂಖ್ಯೆಗಳ ರೂಪದಲ್ಲಿ ಮಾತ್ರ ಇರುವುದಿಲ್ಲ. ಅದನ್ನು ನಾವು ಮುಖ್ಯವಾಗಿ ಎರಡು ರೂಪಗಳಲ್ಲಿ ನೋಡಬಹುದು. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಇದು ಸಂಖ್ಯಾರೂಪದ ದತ್ತಾಂಶ, ಅಂದರೆ ಕ್ವಾಂಟಿಟೇಟಿವ್ ಡೇಟಾ. ಉದಾಹರಣೆಗೆ, ವಿದ್ಯಾರ್ಥಿಗಳು ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪಡೆದ ಅಂಕಗಳು: ಎಪ್ಪತ್ತೈದು, ಎಂಬತ್ತು, ತೊಂಬತ್ತೆರಡು, ಅರವತ್ತೈದು. ಇಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಮೌಲ್ಯವೂ ಒಂದು ಸಂಖ್ಯೆ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಇದು ಗುಣಾತ್ಮಕ ದತ್ತಾಂಶ, ಅಂದರೆ ಕ್ವಾಲಿಟೇಟಿವ್ ಡೇಟಾ. ಉದಾಹರಣೆಗೆ, ಕೆಲವರ ನೆಚ್ಚಿನ ಬಣ್ಣಗಳು: ಕೆಂಪು, ನೀಲಿ, ಹಸಿರು. ಇಲ್ಲಿ ಮೌಲ್ಯಗಳು ಬಣ್ಣಗಳ ಹೆಸರುಗಳಾಗಿವೆ, ಸಂಖ್ಯೆಗಳಲ್ಲ. ಇವೆರಡೂ ದತ್ತಾಂಶವೇ, ಆದರೆ ಅವುಗಳ ಸ್ವಭಾವ ಬೇರೆ ಬೇರೆ.",
+  "script_display": "ದತ್ತಾಂಶವು ಕೇವಲ ಸಂಖ್ಯೆಗಳ ರೂಪದಲ್ಲಿ ಮಾತ್ರ ಇರುವುದಿಲ್ಲ. ಅದನ್ನು ನಾವು ಮುಖ್ಯವಾಗಿ ಎರಡು ರೂಪಗಳಲ್ಲಿ ನೋಡಬಹುದು. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಇದು ಸಂಖ್ಯಾರೂಪದ ದತ್ತಾಂಶ, ಅಂದರೆ ಕ್ವಾಂಟಿಟೇಟಿವ್ (Quantitative) ಡೇಟಾ. ಉದಾಹರಣೆಗೆ, ವಿದ್ಯಾರ್ಥಿಗಳು ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪಡೆದ ಅಂಕಗಳು: $75, 80, 92, 65$. ಇಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಮೌಲ್ಯವೂ ಒಂದು ಸಂಖ್ಯೆ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಇದು ಗುಣಾತ್ಮಕ ದತ್ತಾಂಶ, ಅಂದರೆ ಕ್ವಾಲಿಟೇಟಿವ್ (Qualitative) ಡೇಟಾ. ಉದಾಹರಣೆಗೆ, ಕೆಲವರ ನೆಚ್ಚಿನ ಬಣ್ಣಗಳು: ಕೆಂಪು, ನೀಲಿ, ಹಸಿರು. ಇಲ್ಲಿ ಮೌಲ್ಯಗಳು ಬಣ್ಣಗಳ ಹೆಸರುಗಳಾಗಿವೆ, ಸಂಖ್ಯೆಗಳಲ್ಲ. ಇವೆರಡೂ ದತ್ತಾಂಶವೇ, ಆದರೆ ಅವುಗಳ ಸ್ವಭಾವ ಬೇರೆ ಬೇರೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. The left column is titled 'ಸಂಖ್ಯಾರೂಪದ ದತ್ತಾಂಶ (Quantitative)' and contains the text 'ವಿದ್ಯಾರ್ಥಿಗಳ ಅಂಕಗಳು: 75, 80, 92, 65'. The right column is titled 'ಗುಣಾತ್ಮಕ ದತ್ತಾಂಶ (Qualitative)' and contains the text 'ನೆಚ್ಚಿನ ಬಣ್ಣಗಳು: ಕೆಂಪು, ನೀಲಿ, ಹಸಿರು'. A vertical line separates the two columns.",
+    "labels": "Quantitative data, Qualitative data, numbers, categories",
+    "mathematical_significance": "Distinguishes between the two primary types of data, numerical and categorical, which is a fundamental concept in statistics.",
+    "placeholder_note": "Generate a two-column image as described."
+  },
+  "chunk_id": "DATA-BAS-1_concept_1_chunk_004"
+}

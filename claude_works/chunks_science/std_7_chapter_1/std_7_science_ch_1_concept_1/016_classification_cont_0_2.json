@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪರಪೋಷಕಗಳು (Heterotrophs)",
+  "script": "ಮುಂದಿನದು, ಪರಪೋಷಕಗಳು. 'ಪರ' ಅಂದರೆ ಇತರರನ್ನು ಅವಲಂಬಿಸಿರುವುದು. ಹಾಗಾಗಿ, ಪರಪೋಷಕಗಳು ಆಹಾರಕ್ಕಾಗಿ ಇತರ ಜೀವಿಗಳನ್ನು ಅವಲಂಬಿಸಿರುವ ಜೀವಿಗಳಾಗಿವೆ. ಇವುಗಳಿಗೆ ತಮ್ಮ ಆಹಾರವನ್ನು ತಾವೇ ತಯಾರಿಸಿಕೊಳ್ಳಲು ಏಕೆ ಸಾಧ್ಯವಿಲ್ಲ? ಏಕೆಂದರೆ, ಇವುಗಳಲ್ಲಿ ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗೆ ಬೇಕಾದ ಕ್ಲೋರೋಫಿಲ್ ಎಂಬ ಹಸಿರು ವರ್ಣಕ ಇರುವುದಿಲ್ಲ. ಇದಕ್ಕೆ ಕೆಲವು ಉದಾಹರಣೆಗಳೆಂದರೆ, ಎಲ್ಲಾ ಪ್ರಾಣಿಗಳು, ಮಾನವರು, ಮತ್ತು ಶಿಲೀಂಧ್ರಗಳು, ಅಂದರೆ ಬೂಸ್ಟ್ ಮತ್ತು ಅಣಬೆಗಳು ಕೂಡ ಪರಪೋಷಕಗಳ ಗುಂಪಿಗೆ ಸೇರುತ್ತವೆ.",
+  "script_display": "ಮುಂದಿನದು, ಪರಪೋಷಕಗಳು (Heterotrophs). 'ಪರ' ಅಂದರೆ ಇತರರನ್ನು ಅವಲಂಬಿಸಿರುವುದು. ಹಾಗಾಗಿ, ಪರಪೋಷಕಗಳು ಆಹಾರಕ್ಕಾಗಿ ಇತರ ಜೀವಿಗಳನ್ನು ಅವಲಂಬಿಸಿರುವ ಜೀವಿಗಳಾಗಿವೆ. ಇವುಗಳಿಗೆ ತಮ್ಮ ಆಹಾರವನ್ನು ತಾವೇ ತಯಾರಿಸಿಕೊಳ್ಳಲು ಏಕೆ ಸಾಧ್ಯವಿಲ್ಲ? ಏಕೆಂದರೆ, ಇವುಗಳಲ್ಲಿ ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗೆ ಬೇಕಾದ ಕ್ಲೋರೋಫಿಲ್ (chlorophyll) ಎಂಬ ಹಸಿರು ವರ್ಣಕ ಇರುವುದಿಲ್ಲ. ಇದಕ್ಕೆ ಕೆಲವು ಉದಾಹರಣೆಗಳೆಂದರೆ, ಎಲ್ಲಾ ಪ್ರಾಣಿಗಳು, ಮಾನವರು, ಮತ್ತು ಶಿಲೀಂಧ್ರಗಳು (Fungi), ಅಂದರೆ ಬೂಸ್ಟ್ ಮತ್ತು ಅಣಬೆಗಳು ಕೂಡ ಪರಪೋಷಕಗಳ ಗುಂಪಿಗೆ ಸೇರುತ್ತವೆ.",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯೆ: ಆಹಾರಕ್ಕಾಗಿ ಇತರ ಜೀವಿಗಳನ್ನು ಅವಲಂಬಿಸಿರುವ ಜೀವಿಗಳು.",
+    "ಕಾರಣ: ತಮ್ಮ ಆಹಾರವನ್ನು ತಾವೇ ತಯಾರಿಸಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಿಲ್ಲ (ಕ್ಲೋರೋಫಿಲ್ ಇರುವುದಿಲ್ಲ).",
+    "ಉದಾಹರಣೆಗಳು: ಪ್ರಾಣಿಗಳು, ಮಾನವರು, ಶಿಲೀಂಧ್ರಗಳು (Fungi)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple food chain showing heterotrophs. Grass (an autotroph) is eaten by a deer (a primary consumer/heterotroph), which is then eaten by a lion (a secondary consumer/heterotroph).",
+    "labels": "Grass (Autotroph), Deer (Heterotroph), Lion (Heterotroph)",
+    "scientific_significance": "Illustrates the dependency of heterotrophs on other organisms for energy, forming the basis of a food chain.",
+    "placeholder_note": "Image to be generated showing a simple food chain: Grass -> Deer -> Lion."
+  },
+  "chunk_id": "std_7_science_ch_1_concept_1_chunk_016"
+}

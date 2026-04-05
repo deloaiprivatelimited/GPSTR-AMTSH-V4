@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, 24 ಇಂಟು x ಸ್ಕ್ವೇರ್ y z ಪ್ಲಸ್ x y ಸ್ಕ್ವೇರ್ z ಪ್ಲಸ್ x y z ಸ್ಕ್ವೇರ್ ಅನ್ನು 8 x y z ನಿಂದ ಭಾಗಿಸಿದಾಗ ಬರುವ ಉತ್ತರ 3 ಇಂಟು x ಪ್ಲಸ್ y ಪ್ಲಸ್ z. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಮೊದಲು ಭಾಜ್ಯ ಮತ್ತು ಭಾಜಕವನ್ನು ಸಾಧ್ಯವಾದಷ್ಟು ಅಪವರ್ತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ನಂತರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ರದ್ದುಗೊಳಿಸುವುದರಿಂದ ಲೆಕ್ಕಾಚಾರ ಸುಲಭವಾಗುತ್ತದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, $24(x^2yz + xy^2z + xyz^2)$ ನ್ನು $8xyz$ ನಿಂದ ಭಾಗಿಸಿದಾಗ ಬರುವ ಉತ್ತರ $3(x+y+z)$ ಆಗಿದೆ. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಮೊದಲು ಭಾಜ್ಯ ಮತ್ತು ಭಾಜಕವನ್ನು ಸಾಧ್ಯವಾದಷ್ಟು ಅಪವರ್ತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ನಂತರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ರದ್ದುಗೊಳಿಸುವುದರಿಂದ ಲೆಕ್ಕಾಚಾರ ಸುಲಭವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $3(x+y+z)$",
+    "ಪ್ರಮುಖ ಅಂಶ: ಭಾಗಾಕಾರ ಮಾಡುವ ಮೊದಲು ಬೀಜೋಕ್ತಿಗಳನ್ನು ಅಪವರ್ತಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "3(x+y+z)",
+    "placeholder_note": "Final answer highlighted in a box"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-FAC-2_example_14",
+  "final_answer": "$3(x+y+z)$",
+  "final_answer_display": "$3(x+y+z)$",
+  "chunk_id": "ALG-FAC-2_concept_6_chunk_008"
+}

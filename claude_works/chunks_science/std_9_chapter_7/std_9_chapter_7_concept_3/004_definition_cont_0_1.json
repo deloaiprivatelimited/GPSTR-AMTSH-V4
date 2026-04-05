@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ವೇಗೋತ್ಕರ್ಷ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ದೃಶ್ಯವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಒಂದು ಕಾರು ನಿಶ್ಚಲ ಸ್ಥಿತಿಯಿಂದ, ಅಂದ್ರೆ ಸೊನ್ನೆ ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ವೇಗದಿಂದ ಚಲಿಸಲು ಶುರುಮಾಡುತ್ತೆ. ಐದು ಸೆಕೆಂಡುಗಳು ಕಳೆದ ನಂತರ, ಅದರ ವೇಗ ಹತ್ತು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಆಗುತ್ತೆ. ಇಲ್ಲಿ ಏನಾಗ್ತಿದೆ? ಕಾರಿನ ವೇಗ ಸೊನ್ನೆಯಿಂದ ಹತ್ತಕ್ಕೆ ಹೆಚ್ಚಾಗಿದೆ, ಅಂದ್ರೆ ವೇಗದಲ್ಲಿ ಬದಲಾವಣೆ ಆಗಿದೆ. ಹೀಗೆ ವೇಗವು ಕಾಲದೊಂದಿಗೆ ಬದಲಾಗುತ್ತಿದ್ದರೆ, ಆ ಕಾರು ವೇಗೋತ್ಕರ್ಷವನ್ನು ಹೊಂದಿದೆ ಅಂತ ನಾವು ಹೇಳಬಹುದು. ವೇಗ ಹೆಚ್ಚಾದಾಗ ವೇಗೋತ್ಕರ್ಷ ಉಂಟಾಗುತ್ತೆ.",
+  "script_display": "ಈಗ ಒಂದು ದೃಶ್ಯವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಒಂದು ಕಾರು ನಿಶ್ಚಲ ಸ್ಥಿತಿಯಿಂದ (0 m/s) ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. 5 ಸೆಕೆಂಡುಗಳ ನಂತರ, ಅದರ ವೇಗ 10 m/s ಆಗುತ್ತದೆ. ಇಲ್ಲಿ ಏನಾಗುತ್ತಿದೆ? ಕಾರಿನ ವೇಗ 0 ರಿಂದ 10ಕ್ಕೆ ಹೆಚ್ಚಾಗಿದೆ, ಅಂದರೆ ವೇಗದಲ್ಲಿ ಬದಲಾವಣೆ ಆಗಿದೆ. ಹೀಗೆ ವೇಗವು ಕಾಲದೊಂದಿಗೆ ಬದಲಾಗುತ್ತಿದ್ದರೆ, ಆ ಕಾರು ವೇಗೋತ್ಕರ್ಷವನ್ನು ಹೊಂದಿದೆ ಎಂದು ನಾವು ಹೇಳಬಹುದು.",
+  "display_bullets": [
+    "ಒಂದು ಕಾರು ನಿಶ್ಚಲ ಸ್ಥಿತಿಯಿಂದ (0 m/s) ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ.",
+    "5 ಸೆಕೆಂಡುಗಳ ನಂತರ, ಅದರ ವೇಗ 10 m/s ಆಗುತ್ತದೆ.",
+    "ಇಲ್ಲಿ ವೇಗವು ಬದಲಾಗುತ್ತಿದೆ, ಆದ್ದರಿಂದ ಕಾರು ವೇಗೋತ್ಕರ್ಷವನ್ನು ಹೊಂದಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A car accelerating from rest. At time t=0s, its velocity u=0 m/s. After 5 seconds (t=5s), its velocity v=10 m/s. An arrow indicates increasing speed.",
+    "labels": "t=0s, u=0 m/s; t=5s, v=10 m/s; Acceleration arrow",
+    "scientific_significance": "This visualizes the concept of acceleration, showing a change in velocity over a period of time.",
+    "placeholder_note": "Image to be generated showing a car at two points in time with velocity labels."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_7_concept_3_chunk_004"
+}

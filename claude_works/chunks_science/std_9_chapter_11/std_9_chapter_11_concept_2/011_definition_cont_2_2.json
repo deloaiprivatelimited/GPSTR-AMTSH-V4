@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಪೀಡನ vs. ವಿರಳನ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸಗಳು",
+  "script": "ಸಂಪೀಡನ ಮತ್ತು ವಿರಳನಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಕೋಷ್ಟಕವನ್ನು ನೋಡಿ. ಮೊದಲನೆಯದಾಗಿ, ಒತ್ತಡ. ಸಂಪೀಡನದಲ್ಲಿ ಒತ್ತಡವು ಅಧಿಕವಾಗಿರುತ್ತದೆ, ಆದರೆ ವಿರಳನದಲ್ಲಿ ಒತ್ತಡವು ಕಡಿಮೆ ಇರುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಸಾಂದ್ರತೆ. ಸಂಪೀಡನದಲ್ಲಿ ಕಣಗಳು ಹತ್ತಿರ ಬರುವುದರಿಂದ ಸಾಂದ್ರತೆ ಅಧಿಕವಾಗಿರುತ್ತದೆ, ವಿರಳನದಲ್ಲಿ ಕಣಗಳು ದೂರ ಹೋಗುವುದರಿಂದ ಸಾಂದ್ರತೆ ಕಡಿಮೆ ಇರುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಕಣಗಳ ನಡುವಿನ ಅಂತರ. ಸಂಪೀಡನದಲ್ಲಿ ಕಣಗಳು ಹತ್ತಿರದಲ್ಲಿರುತ್ತವೆ, ಆದರೆ ವಿರಳನದಲ್ಲಿ ಅವುಗಳ ನಡುವಿನ ಅಂತರವು ಹೆಚ್ಚಾಗಿರುತ್ತದೆ, ಅಂದರೆ ಅವು ದೂರದಲ್ಲಿರುತ್ತವೆ. ಈ ಮೂರು ಅಂಶಗಳು ಇವೆರಡರ ನಡುವಿನ ಮೂಲಭೂತ ವ್ಯತ್ಯಾಸಗಳಾಗಿವೆ.",
+  "script_display": "ಸಂಪೀಡನ ಮತ್ತು ವಿರಳನಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಕೋಷ್ಟಕವನ್ನು ನೋಡಿ. ಮೊದಲನೆಯದಾಗಿ, ಒತ್ತಡ (Pressure). ಸಂಪೀಡನದಲ್ಲಿ ಒತ್ತಡವು ಅಧಿಕವಾಗಿರುತ್ತದೆ, ಆದರೆ ವಿರಳನದಲ್ಲಿ ಒತ್ತಡವು ಕಡಿಮೆ ಇರುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಸಾಂದ್ರತೆ (Density). ಸಂಪೀಡನದಲ್ಲಿ ಕಣಗಳು ಹತ್ತಿರ ಬರುವುದರಿಂದ ಸಾಂದ್ರತೆ ಅಧಿಕವಾಗಿರುತ್ತದೆ, ವಿರಳನದಲ್ಲಿ ಕಣಗಳು ದೂರ ಹೋಗುವುದರಿಂದ ಸಾಂದ್ರತೆ ಕಡಿಮೆ ಇರುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಕಣಗಳ ನಡುವಿನ ಅಂತರ. ಸಂಪೀಡನದಲ್ಲಿ ಕಣಗಳು ಹತ್ತಿರದಲ್ಲಿರುತ್ತವೆ, ಆದರೆ ವಿರಳನದಲ್ಲಿ ಅವುಗಳ ನಡುವಿನ ಅಂತರವು ಹೆಚ್ಚಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "comparison_table",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "{\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{|l|c|c|}\n\\hline\n\\textbf{ಗುಣಲಕ್ಷಣ} & \\textbf{ಸಂಪೀಡನ (Compression)} & \\textbf{ವಿರಳನ (Rarefaction)} \\\\\n\\hline\n\\text{ಒತ್ತಡ (Pressure)} & \\text{ಅಧಿಕ (High)} & \\text{ಕಡಿಮೆ (Low)} \\\\\n\\hline\n\\text{ಸಾಂದ್ರತೆ (Density)} & \\text{ಅಧಿಕ (High)} & \\text{ಕಡಿಮೆ (Low)} \\\\\n\\hline\n\\text{ಕಣಗಳ ಅಂತರ} & \\text{ಕಡಿಮೆ (Close together)} & \\text{ಹೆಚ್ಚು (Far apart)} \\\\\n\\hline\n\\end{array}}",
+    "placeholder_note": "A table comparing Compression and Rarefaction based on Pressure, Density, and Particle Spacing."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_11_concept_2_chunk_011"
+}

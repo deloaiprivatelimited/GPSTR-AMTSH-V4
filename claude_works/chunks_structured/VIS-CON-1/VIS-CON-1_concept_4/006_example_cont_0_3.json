@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 3",
+  "script": "ಈಗ ನಾವು ಆಯತದ ನಾಲ್ಕನೇ ಮೂಲೆ, ಅಂದರೆ ಎ ಯನ್ನು ರಚಿಸಬೇಕು. ಆಯತದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾನವಾಗಿರುತ್ತವೆ ಎಂಬ ಗುಣವನ್ನು ನಾವು ಇಲ್ಲಿ ಬಳಸುತ್ತೇವೆ. ಅಂದರೆ, ಎಬಿ ಯು ಸಿಡಿಗೆ ಸಮ, ಅಂದರೆ 5 ಸೆಂಟಿಮೀಟರ್, ಮತ್ತು ಎಡಿ ಯು ಬಿಸಿಗೆ ಸಮ. ಇದನ್ನು ಮಾಡಲು, ಮೊದಲು ಕೈವಾರದಲ್ಲಿ ಬಿಸಿ ಯ ಉದ್ದವನ್ನು ಅಳೆಯಿರಿ. ನಂತರ, ಡಿ ಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು ಒಂದು ಕಂಸವನ್ನು ಎಳೆಯಿರಿ. ಮುಂದೆ, ಕೈವಾರದಲ್ಲಿ 5 ಸೆಂಟಿಮೀಟರ್ ತ್ರಿಜ್ಯವನ್ನು ತೆಗೆದುಕೊಂಡು, ಬಿ ಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು ಮೊದಲ ಕಂಸವನ್ನು ಛೇದಿಸುವಂತೆ ಇನ್ನೊಂದು ಕಂಸವನ್ನು ಎಳೆಯಿರಿ. ಈ ಎರಡು ಕಂಸಗಳು ಛೇದಿಸುವ ಬಿಂದುವೇ ಎ. ಅಂತಿಮವಾಗಿ, ಎ ಮತ್ತು ಬಿ, ಹಾಗೂ ಎ ಮತ್ತು ಡಿ ಯನ್ನು ಸೇರಿಸಿ.",
+  "script_display": "ಈಗ ನಾವು ಆಯತದ ನಾಲ್ಕನೇ ಮೂಲೆ, ಅಂದರೆ A ಯನ್ನು ರಚಿಸಬೇಕು. ಆಯತದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾನವಾಗಿರುತ್ತವೆ ಎಂಬ ಗುಣವನ್ನು ನಾವು ಇಲ್ಲಿ ಬಳಸುತ್ತೇವೆ. ಅಂದರೆ, $AB = CD = 5$ cm, ಮತ್ತು $AD = BC$. ಇದನ್ನು ಮಾಡಲು, ಮೊದಲು ಕೈವಾರದಲ್ಲಿ BC ಯ ಉದ್ದವನ್ನು ಅಳೆಯಿರಿ. ನಂತರ, D ಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು ಒಂದು ಕಂಸವನ್ನು ಎಳೆಯಿರಿ. ಮುಂದೆ, ಕೈವಾರದಲ್ಲಿ 5 cm ತ್ರಿಜ್ಯವನ್ನು ತೆಗೆದುಕೊಂಡು, B ಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು ಮೊದಲ ಕಂಸವನ್ನು ಛೇದಿಸುವಂತೆ ಇನ್ನೊಂದು ಕಂಸವನ್ನು ಎಳೆಯಿರಿ. ಈ ಎರಡು ಕಂಸಗಳು ಛೇದಿಸುವ ಬಿಂದುವೇ A. ಅಂತಿಮವಾಗಿ, A ಮತ್ತು B, ಹಾಗೂ A ಮತ್ತು D ಯನ್ನು ಸೇರಿಸಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The diagram of triangle BCD is shown. Two new arcs are added. First, an arc with center D and radius equal to BC. Second, an arc with center B and radius 5 cm (equal to CD). These two arcs intersect at a point labeled 'A'. The lines AB and AD are drawn to complete the rectangle ABCD.",
+    "labels": "A, B, C, D, 5 cm, 7 cm",
+    "mathematical_significance": "This step uses the property that opposite sides of a rectangle are equal in length. The fourth vertex A is found by intersecting two more loci: a circle centered at D with radius BC, and a circle centered at B with radius CD.",
+    "placeholder_note": "Image to be generated: Previous diagram, plus two new arcs from B and D intersecting at A to complete the rectangle."
+  },
+  "difficulty": "advanced",
+  "source_example_id": "VIS-CON-1_example_3",
+  "steps": [
+    {
+      "step": 5,
+      "action_display": "1. D ಕೇಂದ್ರವಾಗಿ, $AD = BC$ ತ್ರಿಜ್ಯದ ಕಂಸ ಎಳೆಯಿರಿ.<br>2. B ಕೇಂದ್ರವಾಗಿ, $AB = CD = 5$ cm ತ್ರಿಜ್ಯದ ಕಂಸ ಎಳೆಯಿರಿ.<br>3. ಛೇದನ ಬಿಂದು A ಯನ್ನು ಗುರುತಿಸಿ. AB ಮತ್ತು AD ಯನ್ನು ಸೇರಿಸಿ.",
+      "justification": "ಆಯತದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ ($AB=CD, AD=BC$)."
+    }
+  ],
+  "chunk_id": "VIS-CON-1_concept_4_chunk_006"
+}

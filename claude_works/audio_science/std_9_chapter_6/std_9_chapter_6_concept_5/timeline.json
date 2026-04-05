@@ -1,0 +1,79 @@
+{
+  "module_id": "std_9_chapter_6_concept_5",
+  "chapter_code": "std_9_chapter_6",
+  "voice": "Algenib",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 279.146,
+  "total_duration_formatted": "4:39",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_6_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸರಳ ಶಾಶ್ವತ ಅಂಗಾಂಶ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 46.211,
+      "duration": 46.211,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವ ಅವಶ್ಯಕತೆಗಳು",
+      "type": "chunk",
+      "start": 46.811,
+      "end": 73.102,
+      "duration": 26.291,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_5_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಸರಳ ಶಾಶ್ವತ ಅಂಗಾಂಶ: ಪೇರಂಕೈಮ",
+      "type": "concept_explanation",
+      "start": 73.702,
+      "end": 131.993,
+      "duration": 58.291,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_5_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಸರಳ ಶಾಶ್ವತ ಅಂಗಾಂಶ: ಕೋಲಂಕೈಮ",
+      "type": "concept_explanation",
+      "start": 132.593,
+      "end": 179.804,
+      "duration": 47.211,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_5_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಸರಳ ಶಾಶ್ವತ ಅಂಗಾಂಶ: ಸ್ಕ್ಲೀರಂಕೈಮ",
+      "type": "concept_explanation",
+      "start": 180.404,
+      "end": 240.255,
+      "duration": 59.851,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_5_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 240.855,
+      "end": 278.546,
+      "duration": 37.691,
+      "script_words": 53
+    }
+  ]
+}

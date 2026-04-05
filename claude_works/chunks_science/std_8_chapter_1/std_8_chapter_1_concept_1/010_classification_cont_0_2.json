@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಬಿ ಬೆಳೆಗಳು (Rabi Crops)",
+  "script": "ಈಗ ರಬಿ ಬೆಳೆಗಳ ಬಗ್ಗೆ ನೋಡೋಣ. ಇವುಗಳನ್ನು 'ಚಳಿಗಾಲದ ಬೆಳೆಗಳು' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಖಾರಿಫ್ ಬೆಳೆಗಳ ಕೊಯ್ಲಿನ ನಂತರ, ಅಂದರೆ ಅಕ್ಟೋಬರ್‌ನಿಂದ ಡಿಸೆಂಬರ್‌ವರೆಗಿನ ಅವಧಿಯಲ್ಲಿ ಇವುಗಳನ್ನು ಬಿತ್ತನೆ ಮಾಡಲಾಗುತ್ತದೆ. ಈ ಬೆಳೆಗಳಿಗೆ ಖಾರಿಫ್ ಬೆಳೆಗಳಿಗಿಂತ ಕಡಿಮೆ ನೀರು ಮತ್ತು ತಂಪಾದ ಹವಾಮಾನದ ಅಗತ್ಯವಿರುತ್ತದೆ. ಇವುಗಳ ಕೊಯ್ಲನ್ನು ಮಾರ್ಚ್-ಏಪ್ರಿಲ್ ತಿಂಗಳುಗಳಲ್ಲಿ ಮಾಡಲಾಗುತ್ತದೆ. ರಬಿ ಬೆಳೆಗಳಿಗೆ ಮುಖ್ಯ ಉದಾಹರಣೆಗಳೆಂದರೆ ಗೋಧಿ, ಕಡಲೆ, ಮತ್ತು ಬಟಾಣಿ. ಇವು ಚಳಿಗಾಲದ ತಂಪಾದ ವಾತಾವರಣದಲ್ಲಿ ಚೆನ್ನಾಗಿ ಬೆಳೆಯುತ್ತವೆ.",
+  "script_display": "ಈಗ ರಬಿ ಬೆಳೆಗಳ (Rabi Crops) ಬಗ್ಗೆ ನೋಡೋಣ. ಇವುಗಳನ್ನು 'ಚಳಿಗಾಲದ ಬೆಳೆಗಳು' (Winter Crops) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಖಾರಿಫ್ ಬೆಳೆಗಳ ಕೊಯ್ಲಿನ ನಂತರ, ಅಂದರೆ ಅಕ್ಟೋಬರ್‌ನಿಂದ ಡಿಸೆಂಬರ್‌ವರೆಗಿನ ಅವಧಿಯಲ್ಲಿ ಇವುಗಳನ್ನು ಬಿತ್ತನೆ ಮಾಡಲಾಗುತ್ತದೆ. ಈ ಬೆಳೆಗಳಿಗೆ ಖಾರಿಫ್ ಬೆಳೆಗಳಿಗಿಂತ ಕಡಿಮೆ ನೀರು ಮತ್ತು ತಂಪಾದ ಹವಾಮಾನದ ಅಗತ್ಯವಿರುತ್ತದೆ. ಇವುಗಳ ಕೊಯ್ಲನ್ನು ಮಾರ್ಚ್-ಏಪ್ರಿಲ್ ತಿಂಗಳುಗಳಲ್ಲಿ ಮಾಡಲಾಗುತ್ತದೆ. ರಬಿ ಬೆಳೆಗಳಿಗೆ ಮುಖ್ಯ ಉದಾಹರಣೆಗಳೆಂದರೆ ಗೋಧಿ, ಕಡಲೆ, ಮತ್ತು ಬಟಾಣಿ. ಇವು ಚಳಿಗಾಲದ ತಂಪಾದ ವಾತಾವರಣದಲ್ಲಿ ಚೆನ್ನಾಗಿ ಬೆಳೆಯುತ್ತವೆ.",
+  "display_bullets": [
+    "ಚಳಿಗಾಲದ ಬೆಳೆಗಳು: ಅಕ್ಟೋಬರ್‌ನಿಂದ ಮಾರ್ಚ್‌ವರೆಗೆ ಬೆಳೆಯಲಾಗುತ್ತದೆ.",
+    "ಅವಶ್ಯಕತೆಗಳು: ತಂಪಾದ ಹವಾಮಾನ ಮತ್ತು ಕಡಿಮೆ ನೀರು.",
+    "ಉದಾಹರಣೆಗಳು: ಗೋಧಿ (Wheat), ಕಡಲೆ (Gram), ಬಟಾಣಿ (Pea)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_left_text",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collage of three images. Top: A golden field of ripe wheat ready for harvest. Middle: Gram (chickpea) plants with pods. Bottom: Pea plants with green pods on vines.",
+    "labels": "ಗೋಧಿ (Wheat), ಕಡಲೆ (Gram), ಬಟಾಣಿ (Pea)",
+    "scientific_significance": "Illustrates examples of Rabi crops which are grown in the cooler winter season.",
+    "placeholder_note": "Collage of Wheat, Gram, and Pea."
+  },
+  "chunk_id": "std_8_chapter_1_concept_1_chunk_010"
+}

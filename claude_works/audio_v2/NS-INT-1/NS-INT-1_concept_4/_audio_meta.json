@@ -1,0 +1,136 @@
+{
+  "module_id": "NS-INT-1_concept_4",
+  "merge_code": "NS-INT-1",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:44:56",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "5958ab13185d47613d1f3f8d176f78bd",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.651,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 41,
+      "generated_at": "2026-03-30 15:42:51"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "52fca77ed84087423e387dc7ea19cffc",
+      "wav_file": "001_intro_0.wav",
+      "duration": 50.131,
+      "slide_title": "ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನದ ಗುಣಗಳು",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-03-30 15:43:13"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "048a9bf1e3852526da1183b2a7a4fece",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 48.891,
+      "slide_title": "ಗುಣಗಳು: ಪರಿವರ್ತನೀಯ ಗುಣ",
+      "type": "concept_explanation",
+      "script_words": 79,
+      "generated_at": "2026-03-30 15:43:15"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "22390cc8adb756e1ecb69bf2263894c1",
+      "wav_file": "003_property_0.wav",
+      "duration": 50.171,
+      "slide_title": "ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನದ ಗುಣಗಳು: ಆವೃತ ಗುಣ",
+      "type": "concept_explanation",
+      "script_words": 73,
+      "generated_at": "2026-03-30 15:43:15"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "ff61e52fa075964fafcc07abb1d00d50",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 73.371,
+      "slide_title": "ಗುಣಗಳು: ಸಹವರ್ತನೀಯ ಗುಣ",
+      "type": "concept_explanation",
+      "script_words": 107,
+      "generated_at": "2026-03-30 15:43:16"
+    },
+    "010_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "f1e9ce6d27acc2709cbb4d6c3feb55ab",
+      "wav_file": "010_example_cont_0_3.wav",
+      "duration": 26.211,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 35,
+      "generated_at": "2026-03-30 15:43:47"
+    },
+    "007_example_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "0d54a66364081b3c2523ed374bd2c223",
+      "wav_file": "007_example_0.wav",
+      "duration": 32.211,
+      "slide_title": "ಉದಾಹರಣೆ: ಖಾಲಿ ಸ್ಥಳಗಳನ್ನು ಭರ್ತಿಮಾಡಿ",
+      "type": "worked_example",
+      "script_words": 45,
+      "generated_at": "2026-03-30 15:43:48"
+    },
+    "009_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "32744963e47c1ac5cfa8f82d5740afa0",
+      "wav_file": "009_example_cont_0_2.wav",
+      "duration": 34.331,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (ii)",
+      "type": "worked_example",
+      "script_words": 51,
+      "generated_at": "2026-03-30 15:43:51"
+    },
+    "008_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "e32527e193124f11ed4b161b751d64e1",
+      "wav_file": "008_example_cont_0_1.wav",
+      "duration": 31.771,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i)",
+      "type": "worked_example",
+      "script_words": 48,
+      "generated_at": "2026-03-30 15:43:56"
+    },
+    "006_property_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "a0744ab34e57d6a811ebf1c86622ac8f",
+      "wav_file": "006_property_1.wav",
+      "duration": 48.611,
+      "slide_title": "ಸಂಕಲನದ ಅನನ್ಯತಾಂಶ (Additive Identity)",
+      "type": "concept_explanation",
+      "script_words": 70,
+      "generated_at": "2026-03-30 15:44:16"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "e768c801ae619d1d251ce2003b49e56d",
+      "wav_file": "011_recap_0.wav",
+      "duration": 42.091,
+      "slide_title": "ಸಾರಾಂಶ: ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನದ ಗುಣಗಳು",
+      "type": "recap",
+      "script_words": 54,
+      "generated_at": "2026-03-30 15:44:56"
+    }
+  }
+}

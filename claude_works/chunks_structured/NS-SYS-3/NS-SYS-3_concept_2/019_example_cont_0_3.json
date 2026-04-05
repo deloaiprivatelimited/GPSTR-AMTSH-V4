@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆ: ಹಂತ 4",
+  "script": "ನಮಗೆ ಈಗ ವರ್ಗಮೂಲ ಎರಡು ಉದ್ದದ ರೇಖಾಖಂಡ OB ಸಿಕ್ಕಿದೆ. ಈ ಉದ್ದವನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ವರ್ಗಾಯಿಸಲು, ನಾವು ಕೈವಾರವನ್ನು ಬಳಸುತ್ತೇವೆ. O ವನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು, OB ಯನ್ನು ತ್ರಿಜ್ಯವಾಗಿ ತೆಗೆದುಕೊಂಡು, ಸಂಖ್ಯಾರೇಖೆಯನ್ನು ಛೇದಿಸುವಂತೆ ಒಂದು ಕಂಸವನ್ನು ಎಳೆಯಿರಿ. ಆ ಕಂಸವು ಸಂಖ್ಯಾರೇಖೆಯನ್ನು P ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತದೆ. ಈ ಬಿಂದು P ಯು ವರ್ಗಮೂಲ ಎರಡನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "script_display": "ನಮಗೆ ಈಗ $\\sqrt{2}$ ಉದ್ದದ ರೇಖಾಖಂಡ OB ಸಿಕ್ಕಿದೆ. ಈ ಉದ್ದವನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ವರ್ಗಾಯಿಸಲು, ನಾವು ಕೈವಾರವನ್ನು ಬಳಸುತ್ತೇವೆ. O ವನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು, OB ಯನ್ನು ತ್ರಿಜ್ಯವಾಗಿ ತೆಗೆದುಕೊಂಡು, ಸಂಖ್ಯಾರೇಖೆಯನ್ನು ಛೇದಿಸುವಂತೆ ಒಂದು ಕಂಸವನ್ನು ಎಳೆಯಿರಿ. ಆ ಕಂಸವು ಸಂಖ್ಯಾರೇಖೆಯನ್ನು P ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತದೆ. ಈ ಬಿಂದು P ಯು $\\sqrt{2}$ ನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The final diagram. It shows the triangle OAB. An arc, representing the swing of a compass, starts at B and ends at a point P on the number line. Point P is located between 1 and 2. Point P is clearly labeled '√2'.",
+    "labels": "O, A, B, P, √2",
+    "mathematical_significance": "This demonstrates the final step of transferring the geometrically constructed length (the radius of the arc) onto the number line to locate the precise position of the irrational number.",
+    "placeholder_note": "Image to be generated showing the final construction with the arc marking point P."
+  },
+  "source_example_id": "NS-SYS-3_example_3",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "O ಕೇಂದ್ರ, OB ತ್ರಿಜ್ಯದಿಂದ ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ P ಬಿಂದುವಿನಲ್ಲಿ ಕಂಸ ಎಳೆಯಿರಿ. P ಯು $\\sqrt{2}$ ನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "justification": "ಕೈವಾರ ಬಳಸಿ OB ಯ ಉದ್ದವನ್ನು ($$\\sqrt{2}$$) ಸಂಖ್ಯಾರೇಖೆಗೆ ವರ್ಗಾಯಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "NS-SYS-3_concept_2_chunk_019"
+}

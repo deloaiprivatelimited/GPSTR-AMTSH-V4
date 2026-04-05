@@ -1,0 +1,101 @@
+{
+  "module_id": "std_8_chapter_8_concept_1",
+  "chapter_code": "std_8_chapter_8",
+  "voice": "Sadachbia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 320.128,
+  "total_duration_formatted": "5:20",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_8_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಬಲದ ಪರಿಕಲ್ಪನೆ",
+      "type": "title_hero",
+      "start": 0.0,
+      "end": 40.411,
+      "duration": 40.411,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_1_chunk_002",
+      "chunk_file": "002_definition_0.json",
+      "wav_file": "002_definition_0.wav",
+      "slide_title": "ಬಲ ಎಂದರೇನು?",
+      "type": "definition",
+      "start": 41.011,
+      "end": 80.382,
+      "duration": 39.371,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_1_chunk_003",
+      "chunk_file": "003_definition_cont_0_1.json",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ತಳ್ಳುವಿಕೆ (Push)",
+      "type": "definition",
+      "start": 80.982,
+      "end": 115.393,
+      "duration": 34.411,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_1_chunk_004",
+      "chunk_file": "004_definition_cont_0_2.json",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಎಳೆಯುವಿಕೆ (Pull)",
+      "type": "definition",
+      "start": 115.993,
+      "end": 150.444,
+      "duration": 34.451,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_1_chunk_005",
+      "chunk_file": "005_definition_cont_0_3.json",
+      "wav_file": "005_definition_cont_0_3.wav",
+      "slide_title": "ಬಲದ ಮೂಲ: ಪರಸ್ಪರ ಕ್ರಿಯೆ",
+      "type": "definition",
+      "start": 151.044,
+      "end": 190.735,
+      "duration": 39.691,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_1_chunk_006",
+      "chunk_file": "006_definition_1.json",
+      "wav_file": "006_definition_1.wav",
+      "slide_title": "ಪರಸ್ಪರ ಕ್ರಿಯೆ (Interaction)",
+      "type": "definition",
+      "start": 191.335,
+      "end": 229.946,
+      "duration": 38.611,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_1_chunk_007",
+      "chunk_file": "007_definition_cont_1_1.json",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "slide_title": "ಪರಸ್ಪರ ಕ್ರಿಯೆ: ಉದಾಹರಣೆಗಳು",
+      "type": "definition",
+      "start": 230.546,
+      "end": 277.877,
+      "duration": 47.331,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_1_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಬಲದ ಪರಿಕಲ್ಪನೆ",
+      "type": "recap",
+      "start": 278.477,
+      "end": 319.528,
+      "duration": 41.051,
+      "script_words": 49
+    }
+  ]
+}

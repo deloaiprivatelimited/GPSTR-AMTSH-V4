@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ಸಾರಾಂಶ",
+  "script": "ಈ ದಹನ ಕ್ರಿಯೆಯನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಪ್ರತಿವರ್ತಕಗಳು ಕಾರ್ಬನ್ ಮತ್ತು ಆಕ್ಸಿಜನ್. ಎರಡನೆಯದಾಗಿ, ಉತ್ಪನ್ನಗಳು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ಶಾಖ ಮತ್ತು ಬೆಳಕು. ಮೂರನೆಯದಾಗಿ, ಇದು ಒಂದು ದಹನ ಕ್ರಿಯೆ. ಅಂತಿಮವಾಗಿ, ಈ ಕ್ರಿಯೆ ನಡೆಯಲು ಸಾಕಷ್ಟು ಆಕ್ಸಿಜನ್ ಪೂರೈಕೆ ಅತ್ಯಗತ್ಯ. ಆಕ್ಸಿಜನ್ ಪೂರೈಕೆ ಸಾಕಷ್ಟಿದ್ದಾಗ, ಕಾರ್ಬನ್ ಸಂಪೂರ್ಣವಾಗಿ ದಹಿಸಿ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ನೀಡುತ್ತದೆ.",
+  "script_display": "ಈ ದಹನ ಕ್ರಿಯೆಯ ಸಾರಾಂಶ ಇಲ್ಲಿದೆ:",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳು (Reactants): ಕಾರ್ಬನ್ (C) ಮತ್ತು ಆಕ್ಸಿಜನ್ (O₂)",
+    "ಉತ್ಪನ್ನಗಳು (Products): ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂), ಶಾಖ, ಮತ್ತು ಬೆಳಕು",
+    "ಕ್ರಿಯೆಯ ವಿಧ (Type of Reaction): ದಹನ ಕ್ರಿಯೆ (Combustion)",
+    "ಅವಶ್ಯಕ ಪರಿಸ್ಥಿತಿ (Condition): ಸಾಕಷ್ಟು ಆಕ್ಸಿಜನ್ ಪೂರೈಕೆ (Sufficient supply of Oxygen)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_4_concept_8_chunk_006"
+}

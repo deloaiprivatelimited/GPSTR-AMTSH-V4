@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಕೆಲವು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಪ್ರತಿಯೊಂದು ಸಮೀಕರಣವನ್ನು a x plus b y plus c equals ಸೊನ್ನೆ ರೂಪದಲ್ಲಿ ಬರೆಯಬೇಕು ಮತ್ತು ಪ್ರತಿಸಂದರ್ಭದಲ್ಲಿ a, b, ಮತ್ತು c ಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ನಾಲ್ಕು ಉಪ-ಪ್ರಶ್ನೆಗಳಿವೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಕೆಲವು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಪ್ರತಿಯೊಂದು ಸಮೀಕರಣವನ್ನು `$ax + by + c = 0$` ರೂಪದಲ್ಲಿ ಬರೆಯಬೇಕು ಮತ್ತು ಪ್ರತಿಸಂದರ್ಭದಲ್ಲಿ `$a, b$`, ಮತ್ತು `$c$` ಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ನಾಲ್ಕು ಉಪ-ಪ್ರಶ್ನೆಗಳಿವೆ.",
+  "display_bullets": [
+    "(i) `2x + 3y = 4.37`",
+    "(ii) `x - 4 = \\sqrt{3}y`",
+    "(iii) `4 = 5x - 3y`",
+    "(iv) `2x = y`"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ax + by + c = 0",
+    "placeholder_note": "Formula box showing the standard form of a linear equation in two variables."
+  },
+  "difficulty": "basic",
+  "source_example_id": "ALG-EQ2-3_example_1",
+  "chunk_id": "ALG-EQ2-3_concept_1_chunk_021"
+}

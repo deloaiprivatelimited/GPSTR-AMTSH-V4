@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕೋಶ ಸಿದ್ಧಾಂತಕ್ಕೆ ಅಪವಾದ: ವೈರಸ್‌ಗಳು",
+  "script": "ಕೋಶ ಸಿದ್ಧಾಂತವು ಬಹುತೇಕ ಎಲ್ಲಾ ಜೀವಿಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ. ಆದರೆ, ಇದಕ್ಕೆ ಒಂದು ಪ್ರಮುಖ ಅಪವಾದವಿದೆ, ಅದುವೇ ವೈರಸ್. ವೈರಸ್‌ಗಳನ್ನು ಜೀವಿಗಳು ಮತ್ತು ನಿರ್ಜೀವಿಗಳ ನಡುವಿನ ಕೊಂಡಿ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ. ಏಕೆಂದರೆ ಅವುಗಳು ಜೀವಕೋಶದಂತಹ ರಚನೆಯನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ. ಅವುಗಳಲ್ಲಿ ಕೇವಲ ಅನುವಂಶಿಕ ವಸ್ತು, ಅಂದರೆ ಡಿಎನ್ಎ ಅಥವಾ ಆರ್ಎನ್ಎ, ಮತ್ತು ಅದನ್ನು ಸುತ್ತುವರೆದ ಒಂದು ಪ್ರೋಟೀನ್ ಕವಚ ಮಾತ್ರ ಇರುತ್ತದೆ. ಅವುಗಳು ಸ್ವತಂತ್ರವಾಗಿ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಬದಲಿಗೆ, ಅವು ಬೇರೆ ಜೀವಿಯ ಜೀವಕೋಶವನ್ನು ಪ್ರವೇಶಿಸಿ, ಅದರ ಯಂತ್ರಾಂಗವನ್ನು ಬಳಸಿಕೊಂಡು ತಮ್ಮ ಸಂಖ್ಯೆಯನ್ನು ಹೆಚ್ಚಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಆದ್ದರಿಂದ, ವೈರಸ್‌ಗಳು ಕೋಶ ಸಿದ್ಧಾಂತದ ನಿಯಮಗಳನ್ನು ಪಾಲಿಸುವುದಿಲ್ಲ.",
+  "script_display": "ಕೋಶ ಸಿದ್ಧಾಂತಕ್ಕೆ ಒಂದು ಪ್ರಮುಖ ಅಪವಾದವಿದೆ: ವೈರಸ್‌ಗಳು. ವೈರಸ್‌ಗಳನ್ನು ಜೀವಿಗಳು ಮತ್ತು ನಿರ್ಜೀವಿಗಳ ನಡುವಿನ ಕೊಂಡಿ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ. ಅವುಗಳು ಕೋಶ ಸಿದ್ಧಾಂತದ ನಿಯಮಗಳನ್ನು ಪಾಲಿಸುವುದಿಲ್ಲ. ಕಾರಣಗಳು: \n- ಅವುಗಳಿಗೆ ಕೋಶೀಯ ರಚನೆ (cell membrane, cytoplasm, etc.) ಇರುವುದಿಲ್ಲ. \n- ಅವು ಸ್ವತಂತ್ರವಾಗಿ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ; ಆತಿಥೇಯ ಜೀವಕೋಶದ ಅಗತ್ಯವಿದೆ.",
+  "display_bullets": [
+    "ಅಪವಾದ: ವೈರಸ್‌ಗಳು ಕೋಶ ಸಿದ್ಧಾಂತವನ್ನು ಅನುಸರಿಸುವುದಿಲ್ಲ.",
+    "ಕಾರಣ 1: ಅವುಗಳಿಗೆ ನಿಜವಾದ ಕೋಶೀಯ ರಚನೆ ಇರುವುದಿಲ್ಲ.",
+    "ಕಾರಣ 2: ಅವುಗಳು ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡಲು ಆತಿಥೇಯ ಜೀವಕೋಶದ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "highlight_box",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram comparing a typical animal cell with a virus (like a bacteriophage). The animal cell is labeled with 'ಜೀವಕೋಶ ಪೊರೆ', 'ಕೋಶಕೇಂದ್ರ'. The virus is labeled with 'ಪ್ರೋಟೀನ್ ಕವಚ' and 'ಅನುವಂಶಿಕ ವಸ್ತು (DNA/RNA)'. A large red 'X' is placed over the virus to indicate it's an exception.",
+    "labels": "ಪ್ರಾಣಿ ಕೋಶ, ವೈರಸ್, ಅಪವಾದ",
+    "scientific_significance": "Visually contrasts a cell with a virus to highlight why viruses are an exception to the cell theory.",
+    "placeholder_note": "Image to be generated comparing a cell and a virus."
+  },
+  "sub_type": "key_takeaway",
+  "chunk_id": "std_9_chapter_5_concept_1_chunk_016"
+}

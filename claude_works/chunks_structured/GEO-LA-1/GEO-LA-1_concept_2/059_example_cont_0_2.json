@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ತೀರ್ಮಾನ",
+  "script": "ಹಾಗಾದರೆ ನಮ್ಮ ತೀರ್ಮಾನವೇನು? ನಾವು ನೋಡಿದಂತೆ, ಗಡಿಯಾರದಲ್ಲಿ ಪ್ರತಿ ಗಂಟೆಯ ನಡುವಿನ ಕೋನವು ಮೂವತ್ತು ಡಿಗ್ರಿ. ಒಂದು ಗಂಟೆಯಾದಾಗ, ಮುಳ್ಳುಗಳ ನಡುವಿನ ಅಂತರವು ನಿಖರವಾಗಿ ಒಂದು ಗಂಟೆಯ ಭಾಗವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಉಂಟಾಗುವ ಕೋನವು ಒಂದು ಗುಣಿಸು ಮೂವತ್ತು ಡಿಗ್ರಿ, ಅಂದರೆ ಮೂವತ್ತು ಡಿಗ್ರಿ.",
+  "script_display": "ಹಾಗಾದರೆ ನಮ್ಮ ತೀರ್ಮಾನವೇನು? ನಾವು ನೋಡಿದಂತೆ, ಗಡಿಯಾರದಲ್ಲಿ ಪ್ರತಿ ಗಂಟೆಯ ನಡುವಿನ ಕೋನವು $30^\\circ$. 1 ಗಂಟೆಯಾದಾಗ, ಮುಳ್ಳುಗಳ ನಡುವಿನ ಅಂತರವು ನಿಖರವಾಗಿ 1 ಗಂಟೆಯ ಭಾಗವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಉಂಟಾಗುವ ಕೋನವು $1 \\times 30^\\circ$, ಅಂದರೆ $30^\\circ$.",
+  "display_bullets": [
+    "ಪ್ರತಿ ಗಂಟೆಯ ನಡುವಿನ ಕೋನ: $30^\\circ$",
+    "1 ಗಂಟೆಯಾದಾಗ, ಮುಳ್ಳುಗಳ ನಡುವಿನ ಅಂತರ 1 ಗಂಟೆ.",
+    "ಆದ್ದರಿಂದ, ಕೋನವು $1 \\times 30^\\circ = 30^\\circ$."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same clock face from the first slide, showing 1:00. This time, the 30-degree angle between the hands is explicitly marked with an arc and the label '30°'.",
+    "labels": "12, 1, 30°",
+    "mathematical_significance": "Visually confirms the result of the calculation, reinforcing the final answer.",
+    "placeholder_note": "Image to be generated"
+  },
+  "source_example_id": "GEO-LA-1_example_1",
+  "final_answer_display": "1 ಗಂಟೆಯಾದಾಗ ಮುಳ್ಳುಗಳ ನಡುವಿನ ಕೋನವು $30^\\circ$ ಆಗಿರುತ್ತದೆ ಏಕೆಂದರೆ ಪ್ರತಿ ಗಂಟೆಯ ನಡುವಿನ ಕೋನವು $\\frac{360^\\circ}{12} = 30^\\circ$ ಆಗಿದೆ.",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "GEO-LA-1_concept_2_chunk_059"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಉಷ್ಣದ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ನಾಲ್ಕು ಓಮ್ ರೋಧಕದಲ್ಲಿ ಐದು ಆಂಪಿಯರ್ ವಿದ್ಯುತ್ ಪ್ರವಾಹವು ಎರಡು ನಿಮಿಷಗಳ ಕಾಲ ಹರಿಯುತ್ತದೆ ಎಂದು ಭಾವಿಸೋಣ. ಉತ್ಪತ್ತಿಯಾದ ಉಷ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಮೊದಲು, ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. ರೋಧ ಆರ್ ಈಕ್ವಲ್ಸ್ ನಾಲ್ಕು ಓಮ್. ಪ್ರವಾಹ ಐ ಈಕ್ವಲ್ಸ್ ಐದು ಆಂಪಿಯರ್. ಸಮಯ ಟಿ ಈಕ್ವಲ್ಸ್ ಎರಡು ನಿಮಿಷಗಳು. ಸಮಯವನ್ನು ನಾವು ಯಾವಾಗಲೂ ಸೆಕೆಂಡುಗಳಿಗೆ ಪರಿವರ್ತಿಸಬೇಕು, ಆದ್ದರಿಂದ ಟಿ ಈಕ್ವಲ್ಸ್ ಎರಡು ಇಂಟು ಅರವತ್ತು, ಅಂದರೆ ನೂರಾ ಇಪ್ಪತ್ತು ಸೆಕೆಂಡುಗಳು.",
+  "script_display": "ಒಂದು 4 Ω ರೋಧಕದಲ್ಲಿ 5 A ವಿದ್ಯುತ್ ಪ್ರವಾಹವು 2 ನಿಮಿಷಗಳ ಕಾಲ ಹರಿಯುತ್ತದೆ. ಉತ್ಪತ್ತಿಯಾದ ಉಷ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.\n\n**ದತ್ತಾಂಶಗಳು (Given):**\n*   ರೋಧ (R) = 4 Ω\n*   ಪ್ರವಾಹ (I) = 5 A\n*   ಸಮಯ (t) = 2 ನಿಮಿಷಗಳು = 2 × 60 = 120 s",
+  "display_bullets": [
+    "ದತ್ತಾಂಶಗಳು (Given):",
+    "ರೋಧ (R) = 4 Ω",
+    "ಪ್ರವಾಹ (I) = 5 A",
+    "ಸಮಯ (t) = 2 ನಿಮಿಷಗಳು = 120 s"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "R = 4 \\, \\Omega \\\\ I = 5 \\, A \\\\ t = 2 \\, \\text{min}",
+    "placeholder_note": "Given values for the problem"
+  },
+  "chunk_id": "std_10_chapter_11_concept_7_chunk_011"
+}

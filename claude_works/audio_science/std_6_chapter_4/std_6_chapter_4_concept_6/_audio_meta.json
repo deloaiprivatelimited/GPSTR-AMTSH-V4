@@ -1,0 +1,136 @@
+{
+  "module_id": "std_6_chapter_4_concept_6",
+  "chapter_code": "std_6_chapter_4",
+  "voice": "Erinome",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:48:53",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "c3131232bdeafb77bdda757b2e7e736a",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 32.971,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "recap",
+      "script_words": 48,
+      "generated_at": "2026-04-02 12:46:47"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "88519b62591b59fe31e6260277f0a400",
+      "wav_file": "001_intro_0.wav",
+      "duration": 47.291,
+      "slide_title": "ಕಾಂತೀಯ ದಿಕ್ಕೂಚಿ ಮತ್ತು ಅದರ ತಯಾರಿಕೆ",
+      "type": "intro",
+      "script_words": 71,
+      "generated_at": "2026-04-02 12:46:55"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "c7a46f6334c6dba1bf05652bd1288382",
+      "wav_file": "003_property_0.wav",
+      "duration": 52.331,
+      "slide_title": "ಕಾಂತೀಯ ದಿಕ್ಕೂಚಿಯ ರಚನೆ",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-04-02 12:47:02"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "911bda31c6cf12e526194e55d2923aff",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 42.211,
+      "slide_title": "ದಿಕ್ಕೂಚಿ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 12:47:10"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "3cc45e57cdf02e5fc1dad78b112cc21d",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 50.611,
+      "slide_title": "ದಿಕ್ಕುಗಳನ್ನು ಗುರುತಿಸುವುದು",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 12:47:23"
+    },
+    "006_experiment_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "c8ef060996614b2c9a39d12eb8ba2403",
+      "wav_file": "006_experiment_0.wav",
+      "duration": 36.931,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಮನೆಯಲ್ಲಿ ದಿಕ್ಕೂಚಿ ತಯಾರಿಸುವುದು",
+      "type": "visual_explain",
+      "script_words": 57,
+      "generated_at": "2026-04-02 12:47:50"
+    },
+    "009_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "f67445a3f7a197cf27f26da346e9617a",
+      "wav_file": "009_experiment_cont_0_3.wav",
+      "duration": 42.411,
+      "slide_title": "ವೀಕ್ಷಣೆ: ಏನಾಗುತ್ತದೆ?",
+      "type": "visual_explain",
+      "script_words": 58,
+      "generated_at": "2026-04-02 12:47:53"
+    },
+    "007_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "3a2832a55958e4e039f9e8d52a81f005",
+      "wav_file": "007_experiment_cont_0_1.wav",
+      "duration": 41.051,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 1 - ಸೂಜಿಯನ್ನು ಕಾಂತೀಕರಿಸುವುದು",
+      "type": "visual_explain",
+      "script_words": 50,
+      "generated_at": "2026-04-02 12:47:55"
+    },
+    "008_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "f1d2286befca7578a5f2b2f2ab393966",
+      "wav_file": "008_experiment_cont_0_2.wav",
+      "duration": 38.091,
+      "slide_title": "ವಿಧಾನ: ಹಂತ 2 ಮತ್ತು 3 - ದಿಕ್ಕೂಚಿಯನ್ನು ಜೋಡಿಸುವುದು",
+      "type": "visual_explain",
+      "script_words": 51,
+      "generated_at": "2026-04-02 12:48:06"
+    },
+    "010_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "671f63d90459f107761831579512df73",
+      "wav_file": "010_experiment_cont_0_4.wav",
+      "duration": 47.371,
+      "slide_title": "ತೀರ್ಮಾನ: ನಮ್ಮದೇ ದಿಕ್ಕೂಚಿ",
+      "type": "key_takeaway",
+      "script_words": 57,
+      "generated_at": "2026-04-02 12:48:12"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "cfd7a7c38080e6bcb10b68806083c9ff",
+      "wav_file": "011_recap_0.wav",
+      "duration": 43.251,
+      "slide_title": "ಸಾರಾಂಶ: ಕಾಂತೀಯ ದಿಕ್ಕೂಚಿ",
+      "type": "recap",
+      "script_words": 54,
+      "generated_at": "2026-04-02 12:48:53"
+    }
+  }
+}

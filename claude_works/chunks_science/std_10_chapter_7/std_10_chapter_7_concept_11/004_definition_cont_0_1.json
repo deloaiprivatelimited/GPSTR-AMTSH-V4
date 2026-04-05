@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ರೋಗಕಾರಕಗಳು ಮತ್ತು ಉದಾಹರಣೆಗಳು",
+  "script": "ಈ ರೋಗಗಳು ಹೇಗೆ ಹರಡುತ್ತವೆ ಮತ್ತು ಯಾವುವು ಎಂದು ನೋಡೋಣ. ಇವುಗಳು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಮತ್ತು ವೈರಸ್ ಗಳಂತಹ ಸೂಕ್ಷ್ಮಜೀವಿಗಳಿಂದ ಉಂಟಾಗುತ್ತವೆ. ಇವು ರೋಗಕಾರಕಗಳು. ಉದಾಹರಣೆಗೆ, ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ ಬರುವ ರೋಗಗಳು ಗೊನೊರಿಯಾ ಮತ್ತು ಸಿಫಿಲಿಸ್. ಇವುಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿ ಚಿಕಿತ್ಸೆ ಲಭ್ಯವಿದೆ. ಮತ್ತೊಂದು ಕಡೆ, ವೈರಸ್ ನಿಂದ ಬರುವ ರೋಗಗಳು ಹೆಚ್ಚು ಗಂಭೀರವಾಗಿರಬಹುದು. ಉದಾಹರಣೆಗೆ, ಏಡ್ಸ್, ಇದು ಎಚ್ ಐ ವಿ ವೈರಸ್ ನಿಂದ ಬರುತ್ತದೆ, ಮತ್ತು ಜನನಾಂಗದ ನರೂಲಿಗಳು. ಈ ವೈರಲ್ ಸೋಂಕುಗಳಿಗೆ ಚಿಕಿತ್ಸೆ ನೀಡುವುದು ಕಷ್ಟಕರ.",
+  "script_display": "ಈ ರೋಗಗಳು ಹೇಗೆ ಹರಡುತ್ತವೆ ಮತ್ತು ಯಾವುವು ಎಂದು ನೋಡೋಣ. ಇವುಗಳು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಮತ್ತು ವೈರಸ್‌ಗಳಂತಹ ಸೂಕ್ಷ್ಮಜೀವಿಗಳಿಂದ (ರೋಗಕಾರಕಗಳು) ಉಂಟಾಗುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ ಬರುವ ರೋಗಗಳು ಗೊನೊರಿಯಾ ಮತ್ತು ಸಿಫಿಲಿಸ್. ಇವುಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿ ಚಿಕಿತ್ಸೆ ಲಭ್ಯವಿದೆ. ಮತ್ತೊಂದು ಕಡೆ, ವೈರಸ್‌ನಿಂದ ಬರುವ ರೋಗಗಳು ಹೆಚ್ಚು ಗಂಭೀರವಾಗಿರಬಹುದು. ಉದಾಹರಣೆಗೆ, ಏಡ್ಸ್ (HIV), ಮತ್ತು ಜನನಾಂಗದ ನರೂಲಿಗಳು. ಈ ವೈರಲ್ ಸೋಂಕುಗಳಿಗೆ ಚಿಕಿತ್ಸೆ ನೀಡುವುದು ಕಷ್ಟಕರ.",
+  "display_bullets": [
+    "ರೋಗಕಾರಕಗಳು: ಬ್ಯಾಕ್ಟೀರಿಯಾ ಮತ್ತು ವೈರಸ್‌ಗಳು.",
+    "ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ ಬರುವ ರೋಗಗಳು: ಗೊನೊರಿಯಾ, ಸಿಫಿಲಿಸ್.",
+    "ವೈರಸ್‌ನಿಂದ ಬರುವ ರೋಗಗಳು: ಏಡ್ಸ್ (HIV), ಜನನಾಂಗದ ನರೂಲಿಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_science",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating the transmission of pathogens (bacteria and viruses) during sexual contact between two abstract human figures. The pathogens should be visually distinct.",
+    "labels": "ಸೋಂಕಿತ ವ್ಯಕ್ತಿ (Infected Person), ಆರೋಗ್ಯವಂತ ವ್ಯಕ್ತಿ (Healthy Person), ರೋಗಾಣುಗಳ ಹರಡುವಿಕೆ (Transmission of Pathogens), ಬ್ಯಾಕ್ಟೀರಿಯಾ (Bacteria), ವೈರಸ್ (Virus)",
+    "scientific_significance": "Visually represents the concept of transmission of microorganisms causing STDs.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_7_concept_11_chunk_004"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ ಹಂತವಾಗಿ",
+  "script": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ನಾವು ತ್ರಿಭುಜ ಎ ಬಿ ಡಿ ಮತ್ತು ತ್ರಿಭುಜ ಸಿ ಡಿ ಬಿ ಗಳನ್ನು ಹೋಲಿಸೋಣ. ಮೊದಲಿಗೆ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿಯನ್ನು ಬಳಸಿಕೊಳ್ಳೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ತ್ರಿಭುಜ ಎ ಬಿ ಡಿಯ ಬಾಹು ಎ ಬಿ ಯು, ತ್ರಿಭುಜ ಸಿ ಡಿ ಬಿಯ ಬಾಹು ಸಿ ಡಿ ಗೆ ಸಮವಾಗಿದೆ. ಇದು ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಕಾರಣ, ಇದನ್ನು 'ದತ್ತ' ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ತ್ರಿಭುಜ ಎ ಬಿ ಡಿಯ ಬಾಹು ಎ ಡಿ ಯು, ತ್ರಿಭುಜ ಸಿ ಡಿ ಬಿಯ ಬಾಹು ಬಿ ಸಿ ಗೆ ಸಮವಾಗಿದೆ. ಇದೂ ಕೂಡ ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಕಾರಣ, ಇದನ್ನು ಕೂಡ 'ದತ್ತ' ಎಂದು ನಮೂದಿಸುತ್ತೇವೆ. ಈಗ ನಮ್ಮಲ್ಲಿ ಎರಡು ಜೊತೆ ಸಮ ಬಾಹುಗಳಿವೆ.",
+  "script_display": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ನಾವು $\\triangle ABD$ ಮತ್ತು $\\triangle CDB$ ಗಳನ್ನು ಹೋಲಿಸೋಣ. ಮೊದಲಿಗೆ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿಯನ್ನು ಬಳಸಿಕೊಳ್ಳೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, $\\triangle ABD$ ಯ ಬಾಹು $AB$ ಯು, $\\triangle CDB$ ಯ ಬಾಹು $CD$ ಗೆ ಸಮವಾಗಿದೆ. ಇದು ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಕಾರಣ, ಇದನ್ನು 'ದತ್ತ' ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, $\\triangle ABD$ ಯ ಬಾಹು $AD$ ಯು, $\\triangle CDB$ ಯ ಬಾಹು $BC$ ಗೆ ಸಮವಾಗಿದೆ. ಇದೂ ಕೂಡ ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಕಾರಣ, ಇದನ್ನು ಕೂಡ 'ದತ್ತ' ಎಂದು ನಮೂದಿಸುತ್ತೇವೆ. ಈಗ ನಮ್ಮಲ್ಲಿ ಎರಡು ಜೊತೆ ಸಮ ಬಾಹುಗಳಿವೆ.",
+  "display_bullets": [
+    "$\\triangle ABD$ ಮತ್ತು $\\triangle CDB$ ಗಳಲ್ಲಿ,",
+    "ಹಂತ 1: $AB = CD$ (ದತ್ತ)",
+    "ಹಂತ 2: $AD = BC$ (ದತ್ತ)"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿರುವ ಅದೇ ಚತುರ್ಭುಜದ ಚಿತ್ರ. AB=CD ಮತ್ತು AD=BC ಎಂದು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, D",
+    "mathematical_significance": "ಸಾಧನೆಯ ಮೊದಲ ಎರಡು ಹಂತಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Use the same image, highlight the corresponding sides for steps 1 and 2."
+  },
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_040"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಯತ ಪ್ರತಿಫಲನ (Regular Reflection)",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ನಿಯತ ಪ್ರತಿಫಲನ. ಒಂದು ಮೇಲ್ಮೈ ಮೇಲೆ ಸಮಾಂತರವಾಗಿ ಬಿದ್ದ ಎಲ್ಲಾ ಬೆಳಕಿನ ಕಿರಣಗಳು, ಪ್ರತಿಫಲನದ ನಂತರವೂ ಒಂದೇ ನಿರ್ದಿಷ್ಟ ದಿಕ್ಕಿನಲ್ಲಿ ಸಮಾಂತರವಾಗಿ ಚಲಿಸಿದರೆ, ಅದನ್ನು ನಿಯತ ಪ್ರತಿಫಲನ ಎನ್ನುತ್ತೇವೆ. ಇದು ನುಣುಪಾದ ಮೇಲ್ಮೈಗಳಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ. ಪ್ರತಿಫಲಿತ ಕಿರಣಗಳು ಸಮಾಂತರವಾಗಿರುವುದರಿಂದ, ಇದು ಸ್ಪಷ್ಟ ಪ್ರತಿಬಿಂಬವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಸಮತಲ ದರ್ಪಣ ಅಥವಾ ಕನ್ನಡಿ, ಹೊಳಪಾದ ಸ್ಟೀಲ್ ಪಾತ್ರೆ, ಮತ್ತು ನಿಶ್ಚಲವಾಗಿರುವ ನೀರು. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುವಂತೆ, ಎಲ್ಲಾ ಪ್ರತಿಫಲಿತ ಕಿರಣಗಳು ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಸಮಾಂತರವಾಗಿವೆ.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ನಿಯತ ಪ್ರತಿಫಲನ. ಒಂದು ಮೇಲ್ಮೈ ಮೇಲೆ ಸಮಾಂತರವಾಗಿ ಬಿದ್ದ ಎಲ್ಲಾ ಬೆಳಕಿನ ಕಿರಣಗಳು, ಪ್ರತಿಫಲನದ ನಂತರವೂ ಒಂದೇ ನಿರ್ದಿಷ್ಟ ದಿಕ್ಕಿನಲ್ಲಿ ಸಮಾಂತರವಾಗಿ ಚಲಿಸಿದರೆ, ಅದನ್ನು ನಿಯತ ಪ್ರತಿಫಲನ ಎನ್ನುತ್ತೇವೆ. ಇದು ನುಣುಪಾದ ಮೇಲ್ಮೈಗಳಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ. ಪ್ರತಿಫಲಿತ ಕಿರಣಗಳು ಸಮಾಂತರವಾಗಿರುವುದರಿಂದ, ಇದು ಸ್ಪಷ್ಟ ಪ್ರತಿಬಿಂಬವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಸಮತಲ ದರ್ಪಣ (ಕನ್ನಡಿ), ಹೊಳಪಾದ ಸ್ಟೀಲ್ ಪಾತ್ರೆ, ಮತ್ತು ನಿಶ್ಚಲವಾಗಿರುವ ನೀರು. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುವಂತೆ, ಎಲ್ಲಾ ಪ್ರತಿಫಲಿತ ಕಿರಣಗಳು ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಸಮಾಂತರವಾಗಿವೆ.",
+  "display_bullets": [
+    "ನುಣುಪಾದ ಮೇಲ್ಮೈಗಳಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ.",
+    "ಪ್ರತಿಫಲಿತ ಕಿರಣಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ.",
+    "ಸ್ಪಷ್ಟ ಪ್ರತಿಬಿಂಬವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating regular reflection. Parallel light rays strike a smooth, flat surface (like a mirror) and reflect in a single direction, remaining parallel to each other.",
+    "labels": "ಪತನ ಕಿರಣಗಳು (Incident rays), ಪ್ರತಿಫಲಿತ ಕಿರಣಗಳು (Reflected rays), ನುಣುಪಾದ ಮೇಲ್ಮೈ (Smooth surface)",
+    "scientific_significance": "Illustrates the principle of regular reflection, which is responsible for the formation of images in mirrors and other shiny surfaces.",
+    "placeholder_note": "Image to be generated showing parallel rays incident on a smooth surface and reflecting as parallel rays."
+  },
+  "chunk_id": "std_8_chapter_13_concept_3_chunk_004"
+}

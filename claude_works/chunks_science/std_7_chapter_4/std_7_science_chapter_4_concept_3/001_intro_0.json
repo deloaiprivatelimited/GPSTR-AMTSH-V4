@@ -1,0 +1,37 @@
+{
+  "type": "intro",
+  "slide_title": "ತಟಸ್ಥೀಕರಣ",
+  "script": "ಎಲ್ಲರಿಗೂ ನಮಸ್ಕಾರ ಮತ್ತು ಸ್ವಾಗತ. ಇಂದಿನ ತರಗತಿಯಲ್ಲಿ ನಾವು ರಸಾಯನಶಾಸ್ತ್ರದ ಒಂದು ಅತ್ಯಂತ ಕುತೂಹಲಕಾರಿ ಪರಿಕಲ್ಪನೆಯಾದ ತಟಸ್ಥೀಕರಣದ ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ. ನೀವು ಎಂದಾದರೂ ಜೇನುನೊಣ ಕಡಿದಾಗ ಸುಣ್ಣ ಹಚ್ಚುವುದನ್ನು ಅಥವಾ ಹೊಟ್ಟೆಯಲ್ಲಿ ಆಸಿಡಿಟಿ ಆದಾಗ ಆಂಟಾಸಿಡ್ ತೆಗೆದುಕೊಳ್ಳುವುದನ್ನು ನೋಡಿದ್ದೀರಾ? ಇವೆಲ್ಲದರ ಹಿಂದೆ ಇರುವ ವಿಜ್ಞಾನವೇ ತಟಸ್ಥೀಕರಣ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು, ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ ಎಂದರೇನು ಎಂದು ನೋಡೋಣ, ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಲವಣ ಮತ್ತು ನೀರು ಹೇಗೆ ಉಂಟಾಗುತ್ತವೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ, ಮತ್ತು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ತಟಸ್ಥೀಕರಣದ ಉಪಯೋಗಗಳು ಯಾವುವು ಎಂಬುದನ್ನು ತಿಳಿದುಕೊಳ್ಳೋಣ. ಹಾಗಾದರೆ, ಈ ರೋಚಕ ಪಯಣವನ್ನು ಆರಂಭಿಸೋಣವೇ?",
+  "script_display": "ಎಲ್ಲರಿಗೂ ನಮಸ್ಕಾರ ಮತ್ತು ಸ್ವಾಗತ! ಇಂದಿನ ತರಗತಿಯಲ್ಲಿ ನಾವು ರಸಾಯನಶಾಸ್ತ್ರದ ಒಂದು ಅತ್ಯಂತ ಕುತೂಹಲಕಾರಿ ಪರಿಕಲ್ಪನೆಯಾದ 'ತಟಸ್ಥೀಕರಣ' (Neutralization) ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ. ನೀವು ಎಂದಾದರೂ ಜೇನುನೊಣ ಕಡಿದಾಗ ಸುಣ್ಣ ಹಚ್ಚುವುದನ್ನು ಅಥವಾ ಹೊಟ್ಟೆಯಲ್ಲಿ ಆಸಿಡಿಟಿ ಆದಾಗ ಆಂಟಾಸಿಡ್ ತೆಗೆದುಕೊಳ್ಳುವುದನ್ನು ನೋಡಿದ್ದೀರಾ? ಇವೆಲ್ಲದರ ಹಿಂದೆ ಇರುವ ವಿಜ್ಞಾನವೇ ತಟಸ್ಥೀಕರಣ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಕಲಿಯುವ ಪ್ರಮುಖ ಅಂಶಗಳು:",
+  "display_bullets": [
+    "ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ ಎಂದರೇನು?",
+    "ಕ್ರಿಯೆಯಲ್ಲಿ ಲವಣ ಮತ್ತು ನೀರು ಹೇಗೆ ಉಂಟಾಗುತ್ತವೆ?",
+    "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ತಟಸ್ಥೀಕರಣದ ಉಪಯೋಗಗಳು."
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_a",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An engaging animation showing a drop of red liquid (acid) from a dropper falling into a beaker of blue liquid (base). When they mix, the color neutralizes to a clear or purple color, and a salt crystal icon and a water droplet icon pop out with a small 'poof' effect. The title 'ತಟಸ್ಥೀಕರಣ' is prominently displayed.",
+    "labels": "ಆಮ್ಲ, ಪ್ರತ್ಯಾಮ್ಲ, ಲವಣ, ನೀರು",
+    "scientific_significance": "Visually represents the core concept of neutralization: an acid and a base reacting to form salt and water.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "title",
+  "chunk_id": "std_7_science_chapter_4_concept_3_chunk_001"
+}

@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 2",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಬಿ ಬಿಂದುವಿನ ಸ್ಥಾನವನ್ನು ನಿರ್ಧರಿಸಬೇಕು. ನಮಗೆ ಬಿ ಬಿಂದುವಿನ ಬಗ್ಗೆ ಎರಡು ವಿಷಯಗಳು ತಿಳಿದಿವೆ. ಒಂದು, ಅದು ಸಿ ಯಿಂದ ಎಳೆದ ಲಂಬ ರೇಖೆಯ ಮೇಲೆ ಇದೆ. ಎರಡು, ಅದು ಡಿ ಬಿಂದುವಿನಿಂದ 7 ಸೆಂಟಿಮೀಟರ್ ದೂರದಲ್ಲಿದೆ, ಏಕೆಂದರೆ ಕರ್ಣದ ಉದ್ದ 7 ಸೆಂಟಿಮೀಟರ್. ಈಗ, ಕೈವಾರದಲ್ಲಿ 7 ಸೆಂಟಿಮೀಟರ್ ತ್ರಿಜ್ಯವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಡಿ ಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು, ನಾವು ಮೊದಲು ಎಳೆದ ಲಂಬ ಕಿರಣ ಎಲ್ ಅನ್ನು ಛೇದಿಸುವಂತೆ ಒಂದು ಕಂಸವನ್ನು ಎಳೆಯಿರಿ. ಈ ಕಂಸ ಮತ್ತು ಲಂಬ ರೇಖೆ ಛೇದಿಸುವ ಬಿಂದುವೇ ನಮ್ಮ ಬಿಂದು ಬಿ. ಅದನ್ನು ಬಿ ಎಂದು ಹೆಸರಿಸಿ. ಈಗ ಬಿಸಿಡಿ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ ಪೂರ್ಣಗೊಂಡಿದೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು B ಬಿಂದುವಿನ ಸ್ಥಾನವನ್ನು ನಿರ್ಧರಿಸಬೇಕು. ನಮಗೆ B ಬಿಂದುವಿನ ಬಗ್ಗೆ ಎರಡು ವಿಷಯಗಳು ತಿಳಿದಿವೆ. ಒಂದು, ಅದು C ಯಿಂದ ಎಳೆದ ಲಂಬ ರೇಖೆಯ ಮೇಲೆ ಇದೆ. ಎರಡು, ಅದು D ಬಿಂದುವಿನಿಂದ 7 cm ದೂರದಲ್ಲಿದೆ, ಏಕೆಂದರೆ ಕರ್ಣದ ಉದ್ದ 7 cm. ಈಗ, ಕೈವಾರದಲ್ಲಿ 7 cm ತ್ರಿಜ್ಯವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. D ಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು, ನಾವು ಮೊದಲು ಎಳೆದ ಲಂಬ ಕಿರಣ 'l' ಅನ್ನು ಛೇದಿಸುವಂತೆ ಒಂದು ಕಂಸವನ್ನು ಎಳೆಯಿರಿ. ಈ ಕಂಸ ಮತ್ತು ಲಂಬ ರೇಖೆ ಛೇದಿಸುವ ಬಿಂದುವೇ ನಮ್ಮ ಬಿಂದು B. ಅದನ್ನು B ಎಂದು ಹೆಸರಿಸಿ. ಈಗ BCD ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ ಪೂರ್ಣಗೊಂಡಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The diagram from the previous slide is shown. Additionally, an arc is drawn with the compass point at D and a radius of 7 cm. This arc intersects the perpendicular ray 'l' at a point. This intersection point is labeled 'B'. The lines BC and BD are drawn to form the right-angled triangle BCD. The length of BD is labeled '7 cm'.",
+    "labels": "B, C, D, l, 5 cm, 7 cm, 90°",
+    "mathematical_significance": "This step demonstrates the key technique of finding a point by intersecting two loci. The first locus is the perpendicular line from C, and the second is the circle (arc) of radius 7 cm centered at D. Their intersection gives the unique position of vertex B.",
+    "placeholder_note": "Image to be generated: Previous diagram, plus an arc from D intersecting the perpendicular at B."
+  },
+  "difficulty": "advanced",
+  "source_example_id": "VIS-CON-1_example_3",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಕೈವಾರದಲ್ಲಿ 7 cm ತ್ರಿಜ್ಯ ತೆಗೆದುಕೊಂಡು, D ಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು, ಲಂಬ ಕಿರಣ 'l' ಅನ್ನು ಛೇದಿಸುವಂತೆ ಕಂಸ ಎಳೆಯಿರಿ.",
+      "justification": "B ಬಿಂದುವು D ಯಿಂದ 7 cm ದೂರದಲ್ಲಿದೆ (ದತ್ತ ಕರ್ಣ)."
+    },
+    {
+      "step": 4,
+      "action_display": "ಛೇದನ ಬಿಂದುವನ್ನು B ಎಂದು ಗುರುತಿಸಿ. BC ಮತ್ತು BD ಯನ್ನು ಸೇರಿಸಿ.",
+      "justification": "ಕಂಸ ಮತ್ತು ಲಂಬ ರೇಖೆಯ ಛೇದನವು B ಯ ಸ್ಥಾನವನ್ನು ನೀಡುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "VIS-CON-1_concept_4_chunk_005"
+}

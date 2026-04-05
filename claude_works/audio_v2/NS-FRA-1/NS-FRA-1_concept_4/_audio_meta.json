@@ -1,0 +1,158 @@
+{
+  "module_id": "NS-FRA-1_concept_4",
+  "merge_code": "NS-FRA-1",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 16:56:13",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "6c089a0f64ea6c5ba8509ede39e3e2d1",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 44.011,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "intro",
+      "script_words": 56,
+      "generated_at": "2026-03-30 16:53:49"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "8d20d61359ecff6927dea35f85c34cbe",
+      "wav_file": "001_intro_0.wav",
+      "duration": 52.731,
+      "slide_title": "ಭಿನ್ನರಾಶಿಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "intro",
+      "script_words": 69,
+      "generated_at": "2026-03-30 16:53:51"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "6d0eb91f1f5878257178af1047667137",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 50.691,
+      "slide_title": "ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳ ಸಂಕಲನ",
+      "type": "concept_explanation",
+      "script_words": 75,
+      "generated_at": "2026-03-30 16:54:01"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "a4a07e0f79d53da59701aa2008464e81",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 54.491,
+      "slide_title": "ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳ ಕ್ರಿಯೆ: ಸಾಮಾನ್ಯ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-03-30 16:54:05"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "54fb8cfb2a38c6e2f203998f40562431",
+      "wav_file": "003_property_0.wav",
+      "duration": 61.251,
+      "slide_title": "ಸಮಛೇದ ಭಿನ್ನರಾಶಿಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "concept_explanation",
+      "script_words": 92,
+      "generated_at": "2026-03-30 16:54:14"
+    },
+    "007_example_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "56ed4107538a781eebee12796cfa5987",
+      "wav_file": "007_example_0.wav",
+      "duration": 24.211,
+      "slide_title": "ಉದಾಹರಣೆ: ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳ ಸಂಕಲನ",
+      "type": "worked_example",
+      "script_words": 30,
+      "generated_at": "2026-03-30 16:54:32"
+    },
+    "010_example_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "9c1ec138a417773611b279cc9d925286",
+      "wav_file": "010_example_1.wav",
+      "duration": 22.851,
+      "slide_title": "ಉದಾಹರಣೆ: ಭಿನ್ನರಾಶಿಗಳ ವ್ಯವಕಲನ",
+      "type": "worked_example",
+      "script_words": 29,
+      "generated_at": "2026-03-30 16:54:44"
+    },
+    "009_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "6bab5d999a37067485edb0bafcb40b22",
+      "wav_file": "009_example_cont_0_2.wav",
+      "duration": 22.931,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 31,
+      "generated_at": "2026-03-30 16:54:46"
+    },
+    "006_property_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "4e048c5e4c8557ab602d00ffc0906b8d",
+      "wav_file": "006_property_cont_0_3.wav",
+      "duration": 51.251,
+      "slide_title": "ಐತಿಹಾಸಿಕ ಉಲ್ಲೇಖ: ಬ್ರಹ್ಮಗುಪ್ತ (ಕ್ರಿ.ಶ. 628)",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-03-30 16:55:00"
+    },
+    "008_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "e42eec9ae43c5d8e709457ed45fc58de",
+      "wav_file": "008_example_cont_0_1.wav",
+      "duration": 69.291,
+      "slide_title": "ಪರಿಹಾರದ ಹಂತಗಳು",
+      "type": "worked_example",
+      "script_words": 86,
+      "generated_at": "2026-03-30 16:55:02"
+    },
+    "012_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "1e8e7635fa4af82b7ac31d17a2d79ef2",
+      "wav_file": "012_example_cont_1_2.wav",
+      "duration": 23.331,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 28,
+      "generated_at": "2026-03-30 16:55:31"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "9b84a8674194e45022ec4e6beb5d10aa",
+      "wav_file": "013_recap_0.wav",
+      "duration": 42.091,
+      "slide_title": "ಸಾರಾಂಶ: ಭಿನ್ನರಾಶಿಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "recap",
+      "script_words": 54,
+      "generated_at": "2026-03-30 16:56:10"
+    },
+    "011_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "dd7a3383da3f85cbef3d344bedb4dd2c",
+      "wav_file": "011_example_cont_1_1.wav",
+      "duration": 80.531,
+      "slide_title": "ಪರಿಹಾರದ ಹಂತಗಳು",
+      "type": "worked_example",
+      "script_words": 113,
+      "generated_at": "2026-03-30 16:56:13"
+    }
+  }
+}

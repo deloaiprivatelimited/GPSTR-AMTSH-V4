@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆ 1.1: ವಿಧಾನ (ಹಂತ 1)",
+  "script": "ಈಗ ಚಟುವಟಿಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ಒಂದು ನೂರು ಮಿಲಿಲೀಟರ್ ಬೀಕರ್ ಅನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದನ್ನು ಅರ್ಧದಷ್ಟು, ಅಂದರೆ ಸುಮಾರು ಐವತ್ತು ಮಿಲಿಲೀಟರ್ ನಷ್ಟು, ನೀರಿನಿಂದ ತುಂಬಿಸಿ. ನೀರನ್ನು ತುಂಬಿದ ನಂತರ, ಬೀಕರ್‌ನ ಹೊರಭಾಗದಲ್ಲಿ ಮಾರ್ಕರ್ ಪೆನ್ ಬಳಸಿ ನೀರಿನ ಮಟ್ಟವನ್ನು ನಿಖರವಾಗಿ ಗುರುತು ಮಾಡಿ. ಈ ಗುರುತು ನಮಗೆ ಪ್ರಯೋಗದ ಕೊನೆಯಲ್ಲಿ ನೀರಿನ ಮಟ್ಟದಲ್ಲಿ ಏನಾದರೂ ಬದಲಾವಣೆ ಆಗಿದೆಯೇ ಎಂದು ಹೋಲಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಈ ಹಂತವು ನಮ್ಮ ಆರಂಭಿಕ ಸ್ಥಿತಿಯನ್ನು ದಾಖಲಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಚಟುವಟಿಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ಒಂದು 100 mL ಬೀಕರ್ ಅನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದನ್ನು ಅರ್ಧದಷ್ಟು, ಅಂದರೆ ಸುಮಾರು 50 mL ನಷ್ಟು, ನೀರಿನಿಂದ ತುಂಬಿಸಿ. ನೀರನ್ನು ತುಂಬಿದ ನಂತರ, ಬೀಕರ್‌ನ ಹೊರಭಾಗದಲ್ಲಿ ಮಾರ್ಕರ್ ಪೆನ್ ಬಳಸಿ ನೀರಿನ ಮಟ್ಟವನ್ನು ನಿಖರವಾಗಿ ಗುರುತು ಮಾಡಿ. ಈ ಗುರುತು ನಮಗೆ ಪ್ರಯೋಗದ ಕೊನೆಯಲ್ಲಿ ನೀರಿನ ಮಟ್ಟದಲ್ಲಿ ಏನಾದರೂ ಬದಲಾವಣೆ ಆಗಿದೆಯೇ ಎಂದು ಹೋಲಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಈ ಹಂತವು ನಮ್ಮ ಆರಂಭಿಕ ಸ್ಥಿತಿಯನ್ನು ದಾಖಲಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "100 mL ಬೀಕರ್ ತೆಗೆದುಕೊಂಡು ಅರ್ಧದಷ್ಟು (50 mL) ನೀರು ತುಂಬಿಸಿ.",
+    "ಬೀಕರ್‌ನ ಮೇಲೆ ನೀರಿನ ಮಟ್ಟವನ್ನು ಗುರುತು ಮಾಡಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_A",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a 100 mL beaker filled with 50 mL of water. An arrow points to a mark on the beaker indicating the initial water level.",
+    "labels": "ನೀರು, ಆರಂಭಿಕ ಮಟ್ಟ",
+    "scientific_significance": "Establishes the initial volume of the liquid before adding the solute.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_9_chapter_1_concept_1_chunk_018"
+}

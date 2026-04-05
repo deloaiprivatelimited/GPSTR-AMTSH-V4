@@ -1,0 +1,39 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಬೇಕಾಗುವ ಉಪಕರಣಗಳು",
+  "script": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು ನಮಗೆ ಕೆಲವು ಸರಳವಾದ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್ ತೆಗೆದುಕೊಳ್ಳಿ. ನಂತರ, ಫ್ಲಾಸ್ಕ್ ಅನ್ನು ತುಂಬಲು ನೀರು ಬೇಕು. ಫ್ಲಾಸ್ಕ್‌ನ ಬಾಯಿಯನ್ನು ಮುಚ್ಚಲು ಒಂದು ತಂತಿಯ ಜಾಲರಿ, ಮತ್ತು ಅದರ ಮೇಲೆ ಇಡಲು ಕೆಲವು ತಾಜಾ ಮೊಳಕೆಯೊಡೆದ ಬೀಜಗಳು ಬೇಕು. ಅಂತಿಮವಾಗಿ, ಒಂದು ಬದಿಯಲ್ಲಿ ಮಾತ್ರ ಸಣ್ಣ ಕಿಂಡಿ ಇರುವಂತಹ ಒಂದು ರಟ್ಟಿನ ಪೆಟ್ಟಿಗೆ ಬೇಕಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ ನಾವು ಪ್ರಯೋಗದ ವ್ಯವಸ್ಥೆಯನ್ನು ಹೇಗೆ ಜೋಡಿಸುವುದು ಎಂದು ನೋಡೋಣ.",
+  "script_display": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು ನಮಗೆ ಕೆಲವು ಸರಳವಾದ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್ ತೆಗೆದುಕೊಳ್ಳಿ. ನಂತರ, ಫ್ಲಾಸ್ಕ್ ಅನ್ನು ತುಂಬಲು ನೀರು ಬೇಕು. ಫ್ಲಾಸ್ಕ್‌ನ ಬಾಯಿಯನ್ನು ಮುಚ್ಚಲು ಒಂದು ತಂತಿಯ ಜಾಲರಿ, ಮತ್ತು ಅದರ ಮೇಲೆ ಇಡಲು ಕೆಲವು ತಾಜಾ ಮೊಳಕೆಯೊಡೆದ ಬೀಜಗಳು ಬೇಕು. ಅಂತಿಮವಾಗಿ, ಒಂದು ಬದಿಯಲ್ಲಿ ಮಾತ್ರ ಸಣ್ಣ ಕಿಂಡಿ ಇರುವಂತಹ ಒಂದು ರಟ್ಟಿನ ಪೆಟ್ಟಿಗೆ ಬೇಕಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ ನಾವು ಪ್ರಯೋಗದ ವ್ಯವಸ್ಥೆಯನ್ನು ಹೇಗೆ ಜೋಡಿಸುವುದು ಎಂದು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್",
+    "ನೀರು",
+    "ತಂತಿಯ ಜಾಲರಿ",
+    "ಮೊಳಕೆಯೊಡೆದ ಬೀಜಗಳು",
+    "ಒಂದು ಬದಿಯಲ್ಲಿ ಕಿಂಡಿಯಿರುವ ರಟ್ಟಿನ ಪೆಟ್ಟಿಗೆ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_video_centric",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the phototropism experiment. On the left, a conical flask filled with water, a wire mesh, sprouted seeds, and a cardboard box with a hole on one side are shown separately.",
+    "labels": "ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್, ನೀರು, ತಂತಿಯ ಜಾಲರಿ, ಮೊಳಕೆಯೊಡೆದ ಬೀಜ, ರಟ್ಟಿನ ಪೆಟ್ಟಿಗೆ",
+    "scientific_significance": "Illustrates the materials required to set up the experiment to demonstrate phototropism in plants.",
+    "placeholder_note": "Image to be generated showing the required materials for the experiment."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_10_chapter_6_concept_4_chunk_016"
+}

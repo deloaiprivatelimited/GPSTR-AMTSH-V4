@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ ಹೀಗಿದೆ. 68600 ಒಂದು ಪೂರ್ಣ ಘನವಲ್ಲ. ಇದನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿಸಲು ಕನಿಷ್ಠ ಐದರಿಂದ ಗುಣಿಸಬೇಕು.",
+  "script_display": "ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ ಹೀಗಿದೆ. 68600 ಒಂದು ಪೂರ್ಣ ಘನವಲ್ಲ. ಇದನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿಸಲು ಕನಿಷ್ಠ **5** ರಿಂದ ಗುಣಿಸಬೇಕು.",
+  "display_bullets": [
+    "68600 ಪೂರ್ಣ ಘನವಲ್ಲ.",
+    "ಇದನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿಸಲು ಕನಿಷ್ಠ 5 ರಿಂದ ಗುಣಿಸಬೇಕು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-CUBE-2_example_5",
+  "final_answer": "68600 ಪೂರ್ಣ ಘನವಲ್ಲ. ಇದನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿಸಲು 5 ರಿಂದ ಗುಣಿಸಬೇಕು.",
+  "final_answer_display": "68600 ಪೂರ್ಣ ಘನವಲ್ಲ. ಇದನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿಸಲು ಕನಿಷ್ಠ **5** ರಿಂದ ಗುಣಿಸಬೇಕು.",
+  "chunk_id": "NS-CUBE-2_concept_4_chunk_018"
+}

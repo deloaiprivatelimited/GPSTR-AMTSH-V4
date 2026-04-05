@@ -1,0 +1,101 @@
+{
+  "module_id": "std_9_chapter_3_concept_2",
+  "chapter_code": "std_9_chapter_3",
+  "voice": "Aoede",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 411.648,
+  "total_duration_formatted": "6:51",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_3_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಡಾಲ್ಟನ್‌ನ ಪರಮಾಣು ಸಿದ್ಧಾಂತ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 54.171,
+      "duration": 54.171,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "std_9_chapter_3_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವ-ಅವಶ್ಯಕತೆಗಳು",
+      "type": "prerequisites",
+      "start": 54.771,
+      "end": 79.502,
+      "duration": 24.731,
+      "script_words": 33
+    },
+    {
+      "chunk_id": "std_9_chapter_3_concept_2_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಡಾಲ್ಟನ್‌ನ ಪರಮಾಣು ಸಿದ್ಧಾಂತ: ಮೊದಲ ಆಧಾರಾಂಶ",
+      "type": "concept_explanation",
+      "start": 80.102,
+      "end": 131.313,
+      "duration": 51.211,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "std_9_chapter_3_concept_2_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಆಧಾರಾಂಶ 2: ಅಭೇದ್ಯ ಮತ್ತು ಸಂರಕ್ಷಣೆ",
+      "type": "concept_explanation",
+      "start": 131.913,
+      "end": 186.404,
+      "duration": 54.491,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_9_chapter_3_concept_2_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಆಧಾರಾಂಶ 3: ಒಂದೇ ಧಾತುವಿನ ಪರಮಾಣುಗಳು",
+      "type": "concept_explanation",
+      "start": 187.004,
+      "end": 240.695,
+      "duration": 53.691,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "std_9_chapter_3_concept_2_chunk_006",
+      "chunk_file": "006_property_1.json",
+      "wav_file": "006_property_1.wav",
+      "slide_title": "ಡಾಲ್ಟನ್ ಸಿದ್ಧಾಂತ: ವಿಭಿನ್ನ ಧಾತುಗಳು",
+      "type": "concept_explanation",
+      "start": 241.295,
+      "end": 305.066,
+      "duration": 63.771,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_9_chapter_3_concept_2_chunk_007",
+      "chunk_file": "007_property_cont_1_1.json",
+      "wav_file": "007_property_cont_1_1.wav",
+      "slide_title": "ಡಾಲ್ಟನ್ ಸಿದ್ಧಾಂತ: ಸಂಯುಕ್ತಗಳ ರಚನೆ",
+      "type": "concept_explanation",
+      "start": 305.666,
+      "end": 364.997,
+      "duration": 59.331,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "std_9_chapter_3_concept_2_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಡಾಲ್ಟನ್‌ನ ಪರಮಾಣು ಸಿದ್ಧಾಂತ",
+      "type": "recap",
+      "start": 365.597,
+      "end": 411.048,
+      "duration": 45.451,
+      "script_words": 60
+    }
+  ]
+}

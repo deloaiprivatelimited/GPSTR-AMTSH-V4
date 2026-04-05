@@ -1,0 +1,35 @@
+{
+  "type": "experiment_introduction",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಶ್ವಾಸಕ್ರಿಯೆಯ ದರವನ್ನು ಅಳೆಯುವುದು",
+  "script": "ಈಗ, ನಾವು ಒಂದು ಸರಳವಾದ ಆದರೆ ಬಹಳ ಮುಖ್ಯವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ನಮ್ಮ ಶ್ವಾಸಕ್ರಿಯೆಯ ದರವು ಬೇರೆ ಬೇರೆ ಸಂದರ್ಭಗಳಲ್ಲಿ ಹೇಗೆ ಬದಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವೇ ಪರೀಕ್ಷಿಸಿ ನೋಡೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಮುಖ್ಯ ಉದ್ದೇಶ, ವಿವಿಧ ದೈಹಿಕ ಚಟುವಟಿಕೆಗಳು ನಮ್ಮ ಉಸಿರಾಟದ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ ಎಂದು ತಿಳಿಯುವುದಾಗಿದೆ. ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಒಂದು ಕೈಗಡಿಯಾರ ಅಥವಾ ಸ್ಟಾಪ್‌ವಾಚ್. ಇದು ನಮ್ಮ ದೇಹದ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ, ನಾವು ಒಂದು ಸರಳವಾದ ಆದರೆ ಬಹಳ ಮುಖ್ಯವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ನಮ್ಮ ಶ್ವಾಸಕ್ರಿಯೆಯ ದರವು ಬೇರೆ ಬೇರೆ ಸಂದರ್ಭಗಳಲ್ಲಿ ಹೇಗೆ ಬದಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವೇ ಪರೀಕ್ಷಿಸಿ ನೋಡೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಮುಖ್ಯ ಉದ್ದೇಶ, ವಿವಿಧ ದೈಹಿಕ ಚಟುವಟಿಕೆಗಳು ನಮ್ಮ ಉಸಿರಾಟದ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ ಎಂದು ತಿಳಿಯುವುದಾಗಿದೆ. ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಒಂದು ಕೈಗಡಿಯಾರ ಅಥವಾ ಸ್ಟಾಪ್‌ವಾಚ್. ಇದು ನಮ್ಮ ದೇಹದ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉದ್ದೇಶ: ವಿವಿಧ ಸಂದರ್ಭಗಳಲ್ಲಿ ಶ್ವಾಸಕ್ರಿಯೆಯ ದರವನ್ನು ಅಳೆಯುವುದು.",
+    "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿ: ಕೈಗಡಿಯಾರ ಅಥವಾ ಸ್ಟಾಪ್‌ವಾಚ್."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clean icon of a stopwatch next to a stylized icon of a human lung or a person breathing.",
+    "labels": "none",
+    "scientific_significance": "Represents the tools and subject of the experiment: measuring breathing over time.",
+    "placeholder_note": "Image to be generated. Use simple, modern iconography."
+  },
+  "chunk_id": "std_7_chapter_6_concept_3_chunk_016"
+}

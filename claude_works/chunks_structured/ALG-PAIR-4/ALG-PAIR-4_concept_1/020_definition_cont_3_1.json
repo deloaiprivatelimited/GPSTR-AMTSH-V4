@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಎರಡು ಸಮೀಕರಣಗಳಿವೆ. ಮೊದಲನೆಯದು, x ಪ್ಲಸ್ y ಈಕ್ವಲ್ಸ್ 3. ಎರಡನೆಯದು, 2x ಪ್ಲಸ್ 2y ಈಕ್ವಲ್ಸ್ 6. ಈ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು ನೀವು ಗಮನವಿಟ್ಟು ನೋಡಿದರೆ, ಒಂದು ವಿಶೇಷ ಸಂಬಂಧವನ್ನು ಕಾಣಬಹುದು. ಎರಡನೇ ಸಮೀಕರಣವು ಮೊದಲ ಸಮೀಕರಣದ ಪ್ರತಿಯೊಂದು ಪದವನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಿದಾಗ ಸಿಗುತ್ತದೆ. ಅಂದರೆ, x ಪ್ಲಸ್ y ಈಕ್ವಲ್ಸ್ 3 ಅನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಿದರೆ, ನಮಗೆ 2x ಪ್ಲಸ್ 2y ಈಕ್ವಲ್ಸ್ 6 ಸಿಗುತ್ತದೆ. ಇದರರ್ಥ, ಈ ಎರಡೂ ಸಮೀಕರಣಗಳು ವಾಸ್ತವವಾಗಿ ಒಂದೇ ರೇಖೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಎರಡು ಸಮೀಕರಣಗಳಿವೆ. ಮೊದಲನೆಯದು, $x + y = 3$. ಎರಡನೆಯದು, $2x + 2y = 6$. ಈ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು ನೀವು ಗಮನವಿಟ್ಟು ನೋಡಿದರೆ, ಒಂದು ವಿಶೇಷ ಸಂಬಂಧವನ್ನು ಕಾಣಬಹುದು. ಎರಡನೇ ಸಮೀಕರಣವು ಮೊದಲ ಸಮೀಕರಣದ ಪ್ರತಿಯೊಂದು ಪದವನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಿದಾಗ ಸಿಗುತ್ತದೆ. ಅಂದರೆ, $(x + y = 3) \\times 2 \\implies 2x + 2y = 6$. ಇದರರ್ಥ, ಈ ಎರಡೂ ಸಮೀಕರಣಗಳು ವಾಸ್ತವವಾಗಿ ಒಂದೇ ರೇಖೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಸಮೀಕರಣ 1: $x + y = 3$",
+    "ಸಮೀಕರಣ 2: $2x + 2y = 6$",
+    "ಗಮನಿಸಿ: ಸಮೀಕರಣ 2 ಎಂಬುದು ಸಮೀಕರಣ 1 ನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ ಬರುವ ಸಮೀಕರಣವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple graphic showing the first equation 'x+y=3' inside a box. An arrow points from this box to another box containing the second equation '2x+2y=6'. The arrow is labeled with '× 2' to show the multiplication relationship.",
+    "labels": "Equation 1, Equation 2, Multiplication by 2",
+    "mathematical_significance": "Visually demonstrates that one equation in a dependent pair is a scalar multiple of the other, which is the core reason for their dependency.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "ALG-PAIR-4_concept_1_chunk_020"
+}

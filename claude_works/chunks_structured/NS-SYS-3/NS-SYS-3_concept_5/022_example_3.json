@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಛೇದದ ಅಕರಣೀಕರಣ: ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ನಮ್ಮ ಸಮಸ್ಯೆ ಏನೆಂದರೆ, ಒಂದು ಭಾಗದ ಏಳು ಪ್ಲಸ್ ಮೂರು ರೂಟ್ ಎರಡರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸುವುದು. ಎರಡನೆಯದಾಗಿ, ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಛೇದವು ಏಳು ಪ್ಲಸ್ ಮೂರು ರೂಟ್ ಎರಡು, ಇದು ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ನಮ್ಮ ಗುರಿ ಈ ಛೇದವನ್ನು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿ ಪರಿವರ್ತಿಸುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ನಮ್ಮ ಸಮಸ್ಯೆ ಏನೆಂದರೆ, $\\frac{1}{7+3\\sqrt{2}}$ ಇದರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸುವುದು. ಎರಡನೆಯದಾಗಿ, ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಛೇದವು $7+3\\sqrt{2}$, ಇದು ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ನಮ್ಮ ಗುರಿ ಈ ಛೇದವನ್ನು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿ ಪರಿವರ್ತಿಸುವುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $\\frac{1}{7+3\\sqrt{2}}$ ಇದರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿ.",
+    "ಕೊಟ್ಟಿರುವ ಛೇದ: $7+3\\sqrt{2}$ (ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ).",
+    "ಗುರಿ: ಛೇದವನ್ನು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿ ಪರಿವರ್ತಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{1}{7+3\\sqrt{2}}",
+    "placeholder_note": "The problem to be solved."
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SYS-3_example_19",
+  "chunk_id": "NS-SYS-3_concept_5_chunk_022"
+}

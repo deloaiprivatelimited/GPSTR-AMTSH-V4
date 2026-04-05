@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೃದಯ ಬಡಿತದ ಶಬ್ದ ಮತ್ತು ಸ್ಟೆಥೋಸ್ಕೋಪ್",
+  "script": "ಹೃದಯದ ಈ ಲಯಬದ್ಧ ಪಂಪಿಂಗ್ ಕ್ರಿಯೆಯು ಒಂದು ವಿಶಿಷ್ಟ ಶಬ್ದವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ ಇದನ್ನು ಲಬ್-ಡಬ್ ಎಂದು ವಿವರಿಸಲಾಗುತ್ತದೆ. ಪ್ರತಿಯೊಂದು ಲಬ್-ಡಬ್ ಶಬ್ದವು ಒಂದು ಸಂಪೂರ್ಣ ಹೃದಯ ಬಡಿತವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ವೈದ್ಯರು ಈ ಶಬ್ದವನ್ನು ಕೇಳಲು ಸ್ಟೆಥೋಸ್ಕೋಪ್ ಎಂಬ ಉಪಕರಣವನ್ನು ಬಳಸುತ್ತಾರೆ. ಈ ಉಪಕರಣವು ಹೃದಯದ ಸೂಕ್ಷ್ಮ ಶಬ್ದವನ್ನು ಹಿಗ್ಗಿಸಿ, ಸ್ಪಷ್ಟವಾಗಿ ಕೇಳುವಂತೆ ಮಾಡುತ್ತದೆ, ಇದು ಹೃದಯದ ಆರೋಗ್ಯವನ್ನು ನಿರ್ಣಯಿಸಲು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಹೃದಯದ ಈ ಲಯಬದ್ಧ ಪಂಪಿಂಗ್ ಕ್ರಿಯೆಯು ಒಂದು ವಿಶಿಷ್ಟ ಶಬ್ದವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ ಇದನ್ನು 'ಲಬ್-ಡಬ್' ಎಂದು ವಿವರಿಸಲಾಗುತ್ತದೆ. ಪ್ರತಿಯೊಂದು 'ಲಬ್-ಡಬ್' ಶಬ್ದವು ಒಂದು ಸಂಪೂರ್ಣ ಹೃದಯ ಬಡಿತವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ವೈದ್ಯರು ಈ ಶಬ್ದವನ್ನು ಕೇಳಲು 'ಸ್ಟೆಥೋಸ್ಕೋಪ್' (Stethoscope) ಎಂಬ ಉಪಕರಣವನ್ನು ಬಳಸುತ್ತಾರೆ. ಈ ಉಪಕರಣವು ಹೃದಯದ ಸೂಕ್ಷ್ಮ ಶಬ್ದವನ್ನು ಹಿಗ್ಗಿಸಿ (amplifies), ಸ್ಪಷ್ಟವಾಗಿ ಕೇಳುವಂತೆ ಮಾಡುತ್ತದೆ, ಇದು ಹೃದಯದ ಆರೋಗ್ಯವನ್ನು ನಿರ್ಣಯಿಸಲು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಪ್ರತಿ ಹೃದಯ ಬಡಿತವು 'ಲಬ್-ಡಬ್' ಎಂಬ ವಿಶಿಷ್ಟ ಶಬ್ದವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+    "ಈ ಶಬ್ದವನ್ನು ಕೇಳಲು ವೈದ್ಯರು 'ಸ್ಟೆಥೋಸ್ಕೋಪ್' (Stethoscope) ಎಂಬ ಉಪಕರಣವನ್ನು ಬಳಸುತ್ತಾರೆ.",
+    "ಸ್ಟೆಥೋಸ್ಕೋಪ್ ಹೃದಯದ ಶಬ್ದವನ್ನು ವರ್ಧಿಸುತ್ತದೆ, ಇದು ಆರೋಗ್ಯ ಪರೀಕ್ಷೆಗೆ ಸಹಕಾರಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a medical stethoscope showing its main parts: the chest-piece, the tubing, and the earpieces. Based on the provided visual aid description for 'ಚಿತ್ರ 7.5'.",
+    "labels": "ಎದೆಯ ಮೇಲಿಡುವ ಭಾಗ, ಕೊಳವೆ, ಕಿವಿಯಲ್ಲಿಡುವ ಭಾಗ",
+    "scientific_significance": "Illustrates the instrument used to listen to heartbeats, connecting the biological concept to its clinical application.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_7_concept_4_chunk_005"
+}

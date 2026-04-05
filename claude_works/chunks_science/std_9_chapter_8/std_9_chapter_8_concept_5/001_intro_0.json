@@ -1,0 +1,36 @@
+{
+  "type": "title_hero",
+  "slide_title": "ಚಲನೆಯ ಮೂರನೇ ನಿಯಮ",
+  "script": "ಎಲ್ಲರಿಗೂ ನಮಸ್ಕಾರ ಮತ್ತು ಸ್ವಾಗತ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಭೌತಶಾಸ್ತ್ರದ ಒಂದು ಅತ್ಯಂತ ರೋಚಕ ನಿಯಮದ ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ, ಅದುವೇ ನ್ಯೂಟನ್‌ರ ಚಲನೆಯ ಮೂರನೇ ನಿಯಮ. ನೀವು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ, ನಾವು ಹೇಗೆ ನಡೆಯಲು ಸಾಧ್ಯ? ಅಥವಾ ಒಂದು ರಾಕೆಟ್ ಹೇಗೆ ಆಕಾಶಕ್ಕೆ ಚಿಮ್ಮುತ್ತದೆ? ಈ ಎಲ್ಲಾ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ಈ ನಿಯಮದಲ್ಲಿದೆ. ಈ ಪಾಠದ ಕೊನೆಯಲ್ಲಿ, ನೀವು ನ್ಯೂಟನ್‌ರ ಮೂರನೇ ನಿಯಮದ ನಿರೂಪಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಕ್ರಿಯೆ ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆ ಬಲಗಳ ಗುಣಲಕ್ಷಣಗಳನ್ನು ವಿವರಿಸಲು, ಮತ್ತು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಮೂರನೇ ನಿಯಮದ ಉದಾಹರಣೆಗಳನ್ನು ಗುರುತಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಹಾಗಾದರೆ, ಈ ಕುತೂಹಲಕಾರಿ ಪಯಣವನ್ನು ಆರಂಭಿಸೋಣ.",
+  "script_display": "ಎಲ್ಲರಿಗೂ ನಮಸ್ಕಾರ ಮತ್ತು ಸ್ವಾಗತ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಭೌತಶಾಸ್ತ್ರದ ಒಂದು ಅತ್ಯಂತ ರೋಚಕ ನಿಯಮದ ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ, ಅದುವೇ ನ್ಯೂಟನ್‌ರ ಚಲನೆಯ ಮೂರನೇ ನಿಯಮ (Newton's Third Law of Motion). ನೀವು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ, ನಾವು ಹೇಗೆ ನಡೆಯಲು ಸಾಧ್ಯ? ಅಥವಾ ಒಂದು ರಾಕೆಟ್ ಹೇಗೆ ಆಕಾಶಕ್ಕೆ ಚಿಮ್ಮುತ್ತದೆ? ಈ ಎಲ್ಲಾ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ಈ ನಿಯಮದಲ್ಲಿದೆ. ಈ ಪಾಠದ ಕೊನೆಯಲ್ಲಿ, ನೀವು ಈ ಕೆಳಗಿನವುಗಳನ್ನು ಕಲಿಯುವಿರಿ:",
+  "display_bullets": [
+    "ನ್ಯೂಟನ್‌ರ ಮೂರನೇ ನಿಯಮದ ನಿರೂಪಣೆ",
+    "ಕ್ರಿಯೆ ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆ ಬಲಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+    "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಮೂರನೇ ನಿಯಮದ ಉದಾಹರಣೆಗಳು"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A dynamic and engaging image representing action and reaction. For example, a rocket launching with powerful exhaust pushing down (action) and the rocket moving up (reaction).",
+    "labels": "Action, Reaction",
+    "scientific_significance": "Visually introduces the core concept of the third law: forces occur in equal and opposite pairs.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_8_concept_5_chunk_001"
+}

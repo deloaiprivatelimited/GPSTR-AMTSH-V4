@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಭೂಮಿ ಮತ್ತು ಚಂದ್ರನ ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿ",
+  "script": "ಈಗ ಒಂದು ಅನ್ವಯಿಕ ಸಮಸ್ಯೆಯನ್ನು ನೋಡೋಣ. ಭೂಮಿಯ ದ್ರವ್ಯರಾಶಿ ಐದು ಪಾಯಿಂಟ್ ಒಂಬತ್ತು ಏಳು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಇಪ್ಪತ್ತನಾಲ್ಕು ಕೆಜಿ ಮತ್ತು ಚಂದ್ರನ ದ್ರವ್ಯರಾಶಿ ಏಳು ಪಾಯಿಂಟ್ ಮೂರು ಐದು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಇಪ್ಪತ್ತೆರಡು ಕೆಜಿ ಎಂದು ಕೊಡಲಾಗಿದೆ. ನಾವು ಇವುಗಳ ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಎರಡೂ ಸಂಖ್ಯೆಗಳು ಆದರ್ಶ ರೂಪದಲ್ಲಿವೆ, ಆದರೆ ಅವುಗಳ ಹತ್ತರ ಘಾತಗಳು ವಿಭಿನ್ನವಾಗಿವೆ.",
+  "script_display": "ಈಗ ಒಂದು ಅನ್ವಯಿಕ ಸಮಸ್ಯೆಯನ್ನು ನೋಡೋಣ. ಭೂಮಿಯ ದ್ರವ್ಯರಾಶಿ $5.97 \\times 10^{24}$ kg ಮತ್ತು ಚಂದ್ರನ ದ್ರವ್ಯರಾಶಿ $7.35 \\times 10^{22}$ kg ಎಂದು ಕೊಡಲಾಗಿದೆ. ನಾವು ಇವುಗಳ ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಎರಡೂ ಸಂಖ್ಯೆಗಳು ಆದರ್ಶ ರೂಪದಲ್ಲಿವೆ, ಆದರೆ ಅವುಗಳ 10ರ ಘಾತಗಳು ವಿಭಿನ್ನವಾಗಿವೆ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ (Given): ಭೂಮಿಯ ದ್ರವ್ಯರಾಶಿ = $5.97 \\times 10^{24}$ kg",
+    "ಚಂದ್ರನ ದ್ರವ್ಯರಾಶಿ = $7.35 \\times 10^{22}$ kg",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To find): ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಭೂಮಿಯ ದ್ರವ್ಯರಾಶಿ } = 5.97 \\times 10^{24} \\text{ kg} \\\\ \\text{ಚಂದ್ರನ ದ್ರವ್ಯರಾಶಿ } = 7.35 \\times 10^{22} \\text{ kg} \\\\ \\text{ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿ = ?}",
+    "placeholder_note": "Display the problem statement with given values."
+  },
+  "source_example_id": "NS-EXP-2_example_8",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-EXP-2_concept_3_chunk_023"
+}

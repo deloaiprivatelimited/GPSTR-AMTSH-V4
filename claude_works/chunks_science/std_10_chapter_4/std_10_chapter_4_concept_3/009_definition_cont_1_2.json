@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಇನ್ನೊಂದು ಉದಾಹರಣೆ: ಕಾರ್ಬನ್ ಟೆಟ್ರಾಕ್ಲೋರೈಡ್ (CCl₄)",
+  "script": "ಕಾರ್ಬನ್ ಕೇವಲ ಹೈಡ್ರೋಜನ್ ಜೊತೆ ಮಾತ್ರವಲ್ಲ, ಇತರ ಧಾತುಗಳೊಂದಿಗೂ ನಾಲ್ಕು ಬಂಧಗಳನ್ನು ರೂಪಿಸುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಕಾರ್ಬನ್ ಟೆಟ್ರಾಕ್ಲೋರೈಡ್, ಇದರ ಸೂತ್ರ ಸಿ ಸಿ ಎಲ್ ಫೋರ್. ಇಲ್ಲಿ, ಒಂದು ಕಾರ್ಬನ್ ಪರಮಾಣು ನಾಲ್ಕು ಕ್ಲೋರಿನ್ ಪರಮಾಣುಗಳೊಂದಿಗೆ ಬಂಧವನ್ನು ಹೊಂದಿದೆ. ಮೀಥೇನ್‌ನಲ್ಲಿ ಇದ್ದಂತೆ, ಇಲ್ಲಿಯೂ ಕಾರ್ಬನ್ ತನ್ನ ಟೆಟ್ರಾವೇಲೆನ್ಸಿ ಗುಣವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ, ಅಂದರೆ ಅದು ತನ್ನ ನಾಲ್ಕು ಬಂಧಗಳ ಸಾಮರ್ಥ್ಯವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಿಕೊಳ್ಳುತ್ತದೆ. ಇದು ಕಾರ್ಬನ್‌ನ ಹೊಂದಿಕೊಳ್ಳುವ ಬಂಧಕ ಸಾಮರ್ಥ್ಯವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಕಾರ್ಬನ್ ಕೇವಲ ಹೈಡ್ರೋಜನ್ ಜೊತೆ ಮಾತ್ರವಲ್ಲ, ಇತರ ಧಾತುಗಳೊಂದಿಗೂ ನಾಲ್ಕು ಬಂಧಗಳನ್ನು ರೂಪಿಸುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, **ಕಾರ್ಬನ್ ಟೆಟ್ರಾಕ್ಲೋರೈಡ್ (CCl₄)**.",
+  "display_bullets": [
+    "ಒಂದು ಕಾರ್ಬನ್ (C) ಪರಮಾಣು ನಾಲ್ಕು ಕ್ಲೋರಿನ್ (Cl) ಪರಮಾಣುಗಳೊಂದಿಗೆ ಬಂಧವನ್ನು ಹೊಂದಿದೆ.",
+    "ಕಾರ್ಬನ್ ತನ್ನ ಟೆಟ್ರಾವೇಲೆನ್ಸಿ ಗುಣವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ, ಅಂದರೆ ನಾಲ್ಕು ಬಂಧಗಳನ್ನು ರೂಪಿಸುತ್ತದೆ.",
+    "ಇದು ಕಾರ್ಬನ್‌ನ ಹೊಂದಿಕೊಳ್ಳುವ ಬಂಧಕ ಸಾಮರ್ಥ್ಯವನ್ನು ತೋರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A ball-and-stick model of a carbon tetrachloride molecule (CCl₄). A central black sphere (Carbon) is connected to four larger green spheres (Chlorine) arranged tetrahedrally.",
+    "labels": "Carbon, Chlorine, Covalent Bond",
+    "scientific_significance": "Demonstrates that carbon's tetravalency applies to bonding with elements other than hydrogen.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_4_concept_3_chunk_009"
+}

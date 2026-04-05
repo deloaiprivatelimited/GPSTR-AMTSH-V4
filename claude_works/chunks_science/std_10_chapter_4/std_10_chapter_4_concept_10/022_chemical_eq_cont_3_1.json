@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಮತೋಲಿತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಸಮತೋಲಿತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. ಎರಡು ಅಣುಗಳ ಎಥನೋಯಿಕ್ ಆಮ್ಲವು ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್‌ನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎರಡು ಅಣುಗಳ ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್, ಒಂದು ಅಣು ನೀರು ಮತ್ತು ಒಂದು ಅಣು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಸಮತೋಲಿತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. ಎರಡು ಅಣುಗಳ ಎಥನೋಯಿಕ್ ಆಮ್ಲವು ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್‌ನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎರಡು ಅಣುಗಳ ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್, ಒಂದು ಅಣು ನೀರು ಮತ್ತು ಒಂದು ಅಣು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2CH_3COOH(aq) + Na_2CO_3(s) \\rightarrow 2CH_3COONa(aq) + H_2O(l) + CO_2(g)",
+    "placeholder_note": "Balanced chemical equation for the reaction of ethanoic acid with sodium carbonate."
+  },
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_022"
+}

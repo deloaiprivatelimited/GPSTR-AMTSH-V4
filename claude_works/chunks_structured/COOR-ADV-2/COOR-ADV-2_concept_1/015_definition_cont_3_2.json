@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಮೂಲಬಿಂದುವಿನಿಂದ ದೂರ",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಬಿಂದು P, ಅದರ ನಿರ್ದೇಶಾಂಕಗಳು ಮೂರು, ನಾಲ್ಕು, ಮೂಲಬಿಂದುವಿನಿಂದ ಎಷ್ಟು ದೂರದಲ್ಲಿದೆ ಎಂದು ಕಂಡುಹಿಡಿಯೋಣ. ನಾವು ಈಗಷ್ಟೇ ಕಲಿತ ಸರಳೀಕೃತ ಸೂತ್ರ d equals square root of x squared plus y squared ಅನ್ನು ಬಳಸೋಣ. ಇಲ್ಲಿ x ನ ಬೆಲೆ ಮೂರು ಮತ್ತು y ನ ಬೆಲೆ ನಾಲ್ಕು. ಈ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿದಾಗ, d equals square root of ಮೂರು squared plus ನಾಲ್ಕು squared ಎಂದು ಸಿಗುತ್ತದೆ. ಮೂರರ ವರ್ಗ ಒಂಬತ್ತು ಮತ್ತು ನಾಲ್ಕರ ವರ್ಗ ಹದಿನಾರು. ಹಾಗಾಗಿ, d equals square root of ಒಂಬತ್ತು plus ಹದಿನಾರು, ಅಂದರೆ square root of ಇಪ್ಪತ್ತೈದು. ಇಪ್ಪತ್ತೈದರ ವರ್ಗಮೂಲ ಐದು. ಆದ್ದರಿಂದ, ಬಿಂದು P ಮೂರು, ನಾಲ್ಕು ಮೂಲಬಿಂದುವಿನಿಂದ ಐದು ಮಾನಗಳಷ್ಟು ದೂರದಲ್ಲಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಬಿಂದು $P(3, 4)$ ಮೂಲಬಿಂದುವಿನಿಂದ ಎಷ್ಟು ದೂರದಲ್ಲಿದೆ ಎಂದು ಕಂಡುಹಿಡಿಯೋಣ. ನಾವು ಈಗಷ್ಟೇ ಕಲಿತ ಸರಳೀಕೃತ ಸೂತ್ರ $d = \\sqrt{x^2 + y^2}$ ಅನ್ನು ಬಳಸೋಣ. ಇಲ್ಲಿ $x=3$ ಮತ್ತು $y=4$. ಈ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿದಾಗ, $d = \\sqrt{3^2 + 4^2}$ ಎಂದು ಸಿಗುತ್ತದೆ. ಮೂರರ ವರ್ಗ 9 ಮತ್ತು ನಾಲ್ಕರ ವರ್ಗ 16. ಹಾಗಾಗಿ, $d = \\sqrt{9 + 16}$, ಅಂದರೆ $\\sqrt{25}$. ಇಪ್ಪತ್ತೈದರ ವರ್ಗಮೂಲ 5. ಆದ್ದರಿಂದ, ಬಿಂದು $P(3, 4)$ ಮೂಲಬಿಂದುವಿನಿಂದ 5 ಮಾನಗಳಷ್ಟು ದೂರದಲ್ಲಿದೆ.",
+  "display_bullets": [
+    "ಪ್ರಶ್ನೆ: ಬಿಂದು $P(3, 4)$ ಮತ್ತು ಮೂಲಬಿಂದು $O(0, 0)$ ನಡುವಿನ ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಸೂತ್ರ: $d = \\sqrt{x^2 + y^2}$",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25}$",
+    "ಅಂತಿಮ ಉತ್ತರ: $d = 5$ ಮಾನಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಕಾರ್ಟೇಸಿಯನ್ ನಕ್ಷೆಯಲ್ಲಿ ಮೂಲಬಿಂದು O(0,0) ಮತ್ತು ಬಿಂದು P(3,4) ಅನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. ಇವೆರಡರ ನಡುವೆ ಒಂದು ನೇರ ರೇಖೆ ಎಳೆಯಲಾಗಿದೆ. P ಯಿಂದ x-ಅಕ್ಷಕ್ಕೆ ಲಂಬವನ್ನು ಎಳೆಯುವ ಮೂಲಕ ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ರಚಿಸಲಾಗಿದೆ. ತ್ರಿಭುಜದ ಪಾದ 3 ಮಾನಗಳು ಮತ್ತು ಎತ್ತರ 4 ಮಾನಗಳು ಎಂದು ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "O(0,0), P(3,4), 3 units, 4 units, d=5 units",
+    "mathematical_significance": "ಮೂಲಬಿಂದುವಿನಿಂದ ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ನೇರ ಅನ್ವಯವಾಗಿದೆ ಎಂಬುದನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing point P(3,4) on a cartesian plane, with a right triangle formed with the origin, showing base=3, height=4 and hypotenuse=5."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "COOR-ADV-2_concept_1_chunk_015"
+}

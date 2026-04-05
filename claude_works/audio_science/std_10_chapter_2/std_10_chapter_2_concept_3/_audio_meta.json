@@ -1,0 +1,202 @@
+{
+  "module_id": "std_10_chapter_2_concept_3",
+  "chapter_code": "std_10_chapter_2",
+  "voice": "Achernar",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 17,
+  "ok_count": 17,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:40:24",
+  "chunks": {
+    "004_chemical_eq_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "9f271b39fd343beb6074ae226c984406",
+      "wav_file": "004_chemical_eq_cont_0_1.wav",
+      "duration": 20.411,
+      "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+      "type": "concept_explanation",
+      "script_words": 29,
+      "generated_at": "2026-04-02 11:37:11"
+    },
+    "005_chemical_eq_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "6d9906251cbdfe5479d7718148c29482",
+      "wav_file": "005_chemical_eq_cont_0_2.wav",
+      "duration": 38.411,
+      "slide_title": "ಪ್ರತಿವರ್ತಕಗಳು ಮತ್ತು ಉತ್ಪನ್ನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 40,
+      "generated_at": "2026-04-02 11:37:20"
+    },
+    "003_chemical_eq_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "f2e0ca2c2ad1e33c39c9b3b36f40e05c",
+      "wav_file": "003_chemical_eq_0.wav",
+      "duration": 33.051,
+      "slide_title": "ಪ್ರತ್ಯಾಮ್ಲಗಳೊಂದಿಗೆ ಲೋಹಗಳ ವರ್ತನೆ",
+      "type": "concept_explanation",
+      "script_words": 43,
+      "generated_at": "2026-04-02 11:37:23"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "a658fcdfac73bd549a73a5b5559465dd",
+      "wav_file": "001_intro_0.wav",
+      "duration": 63.371,
+      "slide_title": "ಪ್ರತ್ಯಾಮ್ಲಗಳ ರಾಸಾಯನಿಕ ಗುಣಗಳು",
+      "type": "intro",
+      "script_words": 78,
+      "generated_at": "2026-04-02 11:37:29"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "9f4f6eafefd00bde7a88fe0e0eb99a9e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.771,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "script_words": 44,
+      "generated_at": "2026-04-02 11:37:36"
+    },
+    "009_chemical_eq_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "0af550812a6f72ac5c59962d5880a29a",
+      "wav_file": "009_chemical_eq_cont_1_1.wav",
+      "duration": 28.771,
+      "slide_title": "ಉದಾಹರಣೆ: ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್",
+      "type": "concept_explanation",
+      "script_words": 42,
+      "generated_at": "2026-04-02 11:38:09"
+    },
+    "008_chemical_eq_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "25acf71cc445fa34a75d47b63f4c258b",
+      "wav_file": "008_chemical_eq_1.wav",
+      "duration": 23.891,
+      "slide_title": "ಪ್ರತ್ಯಾಮ್ಲಗಳ ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್‌ಗಳೊಂದಿಗಿನ ವರ್ತನೆ",
+      "type": "concept_explanation",
+      "script_words": 29,
+      "generated_at": "2026-04-02 11:38:16"
+    },
+    "006_chemical_eq_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "f6ae525fe4211d2cbacdb286398bfba8",
+      "wav_file": "006_chemical_eq_cont_0_3.wav",
+      "duration": 31.291,
+      "slide_title": "ಕ್ರಿಯೆಯ ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "concept_explanation",
+      "script_words": 40,
+      "generated_at": "2026-04-02 11:38:21"
+    },
+    "007_chemical_eq_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "cb504ebb971ad6aaa21d68b5f11c2598",
+      "wav_file": "007_chemical_eq_cont_0_4.wav",
+      "duration": 45.251,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 11:38:31"
+    },
+    "010_chemical_eq_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "f9a8b3db037a1770369fa9538678301a",
+      "wav_file": "010_chemical_eq_cont_1_2.wav",
+      "duration": 27.051,
+      "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+      "type": "concept_explanation",
+      "script_words": 45,
+      "generated_at": "2026-04-02 11:38:32"
+    },
+    "013_chemical_eq_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "aa0939f9e4f8a12db978c592f345f172",
+      "wav_file": "013_chemical_eq_cont_2_1.wav",
+      "duration": 13.691,
+      "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+      "type": "concept_explanation",
+      "script_words": 16,
+      "generated_at": "2026-04-02 11:39:06"
+    },
+    "015_chemical_eq_cont_2_3.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "d5efef329fc4bf7047b3854a7f0b4b34",
+      "wav_file": "015_chemical_eq_cont_2_3.wav",
+      "duration": 24.931,
+      "slide_title": "ಪ್ರಾಯೋಗಿಕ ವೀಕ್ಷಣೆ: ಸುಣ್ಣದ ತಿಳಿನೀರಿನ ಪರೀಕ್ಷೆ",
+      "type": "concept_explanation",
+      "script_words": 31,
+      "generated_at": "2026-04-02 11:39:06"
+    },
+    "012_chemical_eq_2.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "445b13473d1426f1d0be7f25b22ea6bb",
+      "wav_file": "012_chemical_eq_2.wav",
+      "duration": 19.411,
+      "slide_title": "ಪ್ರತ್ಯಾಮ್ಲ ಮತ್ತು ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್ ಕ್ರಿಯೆ",
+      "type": "concept_explanation",
+      "script_words": 23,
+      "generated_at": "2026-04-02 11:39:12"
+    },
+    "014_chemical_eq_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "016b70097060c9e1f05830e44df09677",
+      "wav_file": "014_chemical_eq_cont_2_2.wav",
+      "duration": 19.931,
+      "slide_title": "ಕ್ರಿಯೆಯ ವಿಶ್ಲೇಷಣೆ",
+      "type": "concept_explanation",
+      "script_words": 24,
+      "generated_at": "2026-04-02 11:39:13"
+    },
+    "011_chemical_eq_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "1f7d964a61cf866b9aad0a2ca131bb5f",
+      "wav_file": "011_chemical_eq_cont_1_3.wav",
+      "duration": 28.291,
+      "slide_title": "ಪ್ರಮುಖ ತೀರ್ಮಾನ: ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್‌ಗಳ ಸ್ವಭಾವ",
+      "type": "concept_explanation",
+      "script_words": 37,
+      "generated_at": "2026-04-02 11:39:41"
+    },
+    "016_chemical_eq_cont_2_4.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "d44b5dcedda578f5875ce21251c47b80",
+      "wav_file": "016_chemical_eq_cont_2_4.wav",
+      "duration": 24.851,
+      "slide_title": "ಪ್ರಮುಖ ತೀರ್ಮಾನ",
+      "type": "concept_explanation",
+      "script_words": 32,
+      "generated_at": "2026-04-02 11:40:13"
+    },
+    "017_recap_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "3aab51d6b7c669046792046e9990749b",
+      "wav_file": "017_recap_0.wav",
+      "duration": 41.531,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-04-02 11:40:24"
+    }
+  }
+}

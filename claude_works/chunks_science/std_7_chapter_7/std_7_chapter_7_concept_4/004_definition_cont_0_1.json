@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಕುಚನ ಮತ್ತು ವಿಕಸನ: ಒಂದು ಹೋಲಿಕೆ",
+  "script": "ಈ ಸಂಕುಚನ ಮತ್ತು ವಿಕಸನವನ್ನು ಇನ್ನಷ್ಟು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಿಮ್ಮ ಮುಷ್ಟಿಯನ್ನು ಗಮನಿಸಿ. ನಿಮ್ಮ ಮುಷ್ಟಿಯನ್ನು ಬಿಗಿಯಾಗಿ ಮುಚ್ಚಿ, ಇದು ಸಂಕುಚನಕ್ಕೆ ಸಮ. ಈ ಸಮಯದಲ್ಲಿ ಹೃದಯವು ರಕ್ತವನ್ನು ಬಲವಾಗಿ ಹೊರಗೆ ತಳ್ಳುತ್ತದೆ. ಈಗ ನಿಮ್ಮ ಮುಷ್ಟಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತೆರೆಯಿರಿ, ಇದು ವಿಕಸನಕ್ಕೆ ಸಮ. ಈ ಸಮಯದಲ್ಲಿ ಹೃದಯವು ರಕ್ತದಿಂದ ಮತ್ತೆ ತುಂಬಿಕೊಳ್ಳುತ್ತದೆ. ಈ ಮುಚ್ಚುವ ಮತ್ತು ತೆರೆಯುವ ಲಯಬದ್ಧ ಕ್ರಿಯೆಯೇ ಒಂದು ಬಡಿತ. ಹೃದಯವು ನಿರಂತರವಾಗಿ ಈ ರೀತಿ ಪಂಪ್ ನಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈ ಸಂಕುಚನ ಮತ್ತು ವಿಕಸನವನ್ನು ಇನ್ನಷ್ಟು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಿಮ್ಮ ಮುಷ್ಟಿಯನ್ನು ಗಮನಿಸಿ. ನಿಮ್ಮ ಮುಷ್ಟಿಯನ್ನು ಬಿಗಿಯಾಗಿ ಮುಚ್ಚಿ, ಇದು 'ಸಂಕುಚನ'ಕ್ಕೆ ಸಮ. ಈ ಸಮಯದಲ್ಲಿ ಹೃದಯವು ರಕ್ತವನ್ನು ಬಲವಾಗಿ ಹೊರಗೆ ತಳ್ಳುತ್ತದೆ. ಈಗ ನಿಮ್ಮ ಮುಷ್ಟಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತೆರೆಯಿರಿ, ಇದು 'ವಿಕಸನ'ಕ್ಕೆ ಸಮ. ಈ ಸಮಯದಲ್ಲಿ ಹೃದಯವು ರಕ್ತದಿಂದ ಮತ್ತೆ ತುಂಬಿಕೊಳ್ಳುತ್ತದೆ. ಈ ಮುಚ್ಚುವ ಮತ್ತು ತೆರೆಯುವ ಲಯಬದ್ಧ ಕ್ರಿಯೆಯೇ ಒಂದು ಬಡಿತ. ಹೃದಯವು ನಿರಂತರವಾಗಿ ಈ ರೀತಿ ಪಂಪ್‌ನಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಂಕುಚನ (Contraction): ಹೃದಯವು ರಕ್ತವನ್ನು ಹೊರಗೆ ತಳ್ಳುತ್ತದೆ (ಮುಷ್ಟಿ ಬಿಗಿಗೊಳಿಸಿದಂತೆ).",
+    "ವಿಕಸನ (Relaxation): ಹೃದಯವು ರಕ್ತದಿಂದ ತುಂಬಿಕೊಳ್ಳುತ್ತದೆ (ಮುಷ್ಟಿ ಸಡಿಲಗೊಳಿಸಿದಂತೆ).",
+    "ಈ ಲಯಬದ್ಧ ಪಂಪಿಂಗ್ ಕ್ರಿಯೆಯೇ ದೇಹದಾದ್ಯಂತ ರಕ್ತ ಪರಿಚಲನೆಗೆ ಕಾರಣ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-part diagram. Part A shows a clenched fist with an arrow pointing outwards, labeled 'ಸಂಕುಚನ (Contraction) - ರಕ್ತ ಹೊರಗೆ'. Part B shows an open fist with an arrow pointing inwards, labeled 'ವಿಕಸನ (Relaxation) - ರಕ್ತ ಒಳಗೆ'. This visually represents the pumping action of the heart.",
+    "labels": "ಸಂಕುಚನ, ವಿಕಸನ, ರಕ್ತ ಹೊರಗೆ, ರಕ್ತ ಒಳಗೆ",
+    "scientific_significance": "Provides a simple and effective analogy for understanding the mechanical process of a heartbeat (contraction and relaxation).",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_7_concept_4_chunk_004"
+}

@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ವಿಧಾನ 2: ಭಿನ್ನರಾಶಿಗೆ ಪರಿವರ್ತಿಸುವುದು",
+  "script": "ಈಗ ಪರ್ಯಾಯ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಮೊದಲು, ನಾವು ದಶಮಾಂಶ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಏಳು ಐದನ್ನು ಭಿನ್ನರಾಶಿಗೆ ಪರಿವರ್ತಿಸೋಣ. ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಏಳು ಐದು ಎಂದರೆ ನೂರರಲ್ಲಿ ಎಪ್ಪತ್ತೈದು ಭಾಗ, ಆದ್ದರಿಂದ ಅದನ್ನು ಎಪ್ಪತ್ತೈದರ ಕೆಳಗೆ ನೂರು ಎಂದು ಬರೆಯಬಹುದು. ಈಗ, ಶೇಕಡಾದ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಒಂದು ಭಿನ್ನರಾಶಿಯ ಛೇದ ನೂರು ಆಗಿದ್ದರೆ, ಅದರ ಅಂಶವೇ ಶೇಕಡಾವಾರು ಆಗಿರುತ್ತದೆ. ಇಲ್ಲಿ ಅಂಶ ಎಪ್ಪತ್ತೈದು, ಆದ್ದರಿಂದ ಉತ್ತರ ಎಪ್ಪತ್ತೈದು ಪರ್ಸೆಂಟ್.",
+  "script_display": "ಈಗ ಪರ್ಯಾಯ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಮೊದಲು, ನಾವು ದಶಮಾಂಶ $0.75$ ನ್ನು ಭಿನ್ನರಾಶಿಗೆ ಪರಿವರ್ತಿಸೋಣ. $0.75$ ಎಂದರೆ ನೂರರಲ್ಲಿ 75 ಭಾಗ, ಆದ್ದರಿಂದ ಅದನ್ನು $\\frac{75}{100}$ ಎಂದು ಬರೆಯಬಹುದು. ಈಗ, ಶೇಕಡಾದ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಒಂದು ಭಿನ್ನರಾಶಿಯ ಛೇದ 100 ಆಗಿದ್ದರೆ, ಅದರ ಅಂಶವೇ ಶೇಕಡಾವಾರು ಆಗಿರುತ್ತದೆ. ಇಲ್ಲಿ ಅಂಶ 75, ಆದ್ದರಿಂದ ಉತ್ತರ $75\\%$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "RPP-COMP-1_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$0.75 = \\frac{75}{100}$",
+      "justification": "ದಶಮಾಂಶವನ್ನು ಭಿನ್ನರಾಶಿಗೆ ಪರಿವರ್ತಿಸುವುದು. $0.75$ ಎಂದರೆ ನೂರರಲ್ಲಿ 75 ಭಾಗ."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\frac{75}{100} = 75\\%$",
+      "justification": "ಶೇಕಡಾದ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, $\\frac{x}{100} = x\\%$."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "RPP-COMP-1_concept_1_chunk_036"
+}

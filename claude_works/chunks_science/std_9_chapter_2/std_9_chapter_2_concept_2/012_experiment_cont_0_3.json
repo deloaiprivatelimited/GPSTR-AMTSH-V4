@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಗುಂಪು C ಮತ್ತು D",
+  "script": "ಮುಂದೆ, ಗುಂಪು ಸಿ ಮತ್ತು ಡಿ ಯ ಕಾರ್ಯವನ್ನು ನೋಡೋಣ. ಗುಂಪು ಸಿ ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದಕ್ಕೆ ವಿಭಿನ್ನ ವಸ್ತುಗಳನ್ನು, ಅಂದರೆ ಸ್ವಲ್ಪ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಮತ್ತು ಸ್ವಲ್ಪ ಪೊಟ್ಯಾಸಿಯಂ ಪರ್ಮಾಂಗನೇಟ್ ಅನ್ನು ಸೇರಿಸಿ ಕಲಕಬೇಕು. ಮತ್ತೊಂದೆಡೆ, ಗುಂಪು ಡಿ ಯು ಒಂದು ಬೀಕರ್‌ ನೀರಿಗೆ ಸ್ವಲ್ಪ ಉಪ್ಪು ಮತ್ತು ಸ್ವಲ್ಪ ಮರಳನ್ನು ಸೇರಿಸಿ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡಬೇಕು. ಈ ಎರಡೂ ಗುಂಪುಗಳು ತಮ್ಮ ಮಿಶ್ರಣಗಳಲ್ಲಿ ಘಟಕಗಳು ಹೇಗೆ ಹರಡಿಕೊಂಡಿವೆ ಮತ್ತು ಅವು ಪ್ರತ್ಯೇಕವಾಗಿ ಕಾಣಿಸುತ್ತವೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಬೇಕು.",
+  "script_display": "ಮುಂದೆ, ಗುಂಪು C ಮತ್ತು D ಯ ಕಾರ್ಯವನ್ನು ನೋಡೋಣ. ಗುಂಪು C ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದಕ್ಕೆ ವಿಭಿನ್ನ ವಸ್ತುಗಳನ್ನು, ಅಂದರೆ ಸ್ವಲ್ಪ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ (CuSO₄) ಮತ್ತು ಸ್ವಲ್ಪ ಪೊಟ್ಯಾಸಿಯಂ ಪರ್ಮಾಂಗನೇಟ್ (KMnO₄) ಅನ್ನು ಸೇರಿಸಿ ಕಲಕಬೇಕು. ಮತ್ತೊಂದೆಡೆ, ಗುಂಪು D ಯು ಒಂದು ಬೀಕರ್‌ ನೀರಿಗೆ ಸ್ವಲ್ಪ ಉಪ್ಪು (NaCl) ಮತ್ತು ಸ್ವಲ್ಪ ಮರಳನ್ನು ಸೇರಿಸಿ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡಬೇಕು. ಈ ಎರಡೂ ಗುಂಪುಗಳು ತಮ್ಮ ಮಿಶ್ರಣಗಳಲ್ಲಿ ಘಟಕಗಳು ಹೇಗೆ ಹರಡಿಕೊಂಡಿವೆ ಮತ್ತು ಅವು ಪ್ರತ್ಯೇಕವಾಗಿ ಕಾಣಿಸುತ್ತವೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಗುಂಪು C: ನೀರಿಗೆ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ (CuSO₄) ಮತ್ತು ಪೊಟ್ಯಾಸಿಯಂ ಪರ್ಮಾಂಗನೇಟ್ (KMnO₄) ಸೇರಿಸಿ.",
+    "ಗುಂಪು D: ನೀರಿಗೆ ಉಪ್ಪು (NaCl) ಮತ್ತು ಮರಳನ್ನು ಸೇರಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side illustration. Left: A hand adding blue and purple crystals to a beaker of water, labeled 'ಗುಂಪು C'. Right: A hand adding white salt and yellow sand to another beaker of water, labeled 'ಗುಂಪು D'.",
+    "labels": "ಗುಂಪು C, ಗುಂಪು D, ತಾಮ್ರದ ಸಲ್ಫೇಟ್, ಪೊಟ್ಯಾಸಿಯಂ ಪರ್ಮಾಂಗನೇಟ್, ಉಪ್ಪು, ಮರಳು",
+    "scientific_significance": "Shows the preparation of mixtures with multiple, physically distinct components.",
+    "placeholder_note": "Image to be generated."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_9_chapter_2_concept_2_chunk_012"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಅಗತ್ಯವಿರುವ ಉಪಕರಣಗಳು",
+  "script": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಉಪಕರಣಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಒಂದು ಬೀಕರ್ ಬೇಕು. ನಂತರ, ಅದರಲ್ಲಿ ಹಾಕಲು ಸ್ವಲ್ಪ ಸಾಮಾನ್ಯ ನಲ್ಲಿ ನೀರು. ಮತ್ತು ಅತಿ ಮುಖ್ಯವಾಗಿ, ತಾಪಮಾನವನ್ನು ಅಳೆಯಲು ಒಂದು ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕ. ಈ ಮೂರು ವಸ್ತುಗಳನ್ನು ಬಳಸಿ, ನಾವು ನೀರಿನ ನಿಖರವಾದ ತಾಪಮಾನವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಈ ಉಪಕರಣಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳಿ.",
+  "script_display": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಉಪಕರಣಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಒಂದು ಬೀಕರ್ ಬೇಕು. ನಂತರ, ಅದರಲ್ಲಿ ಹಾಕಲು ಸ್ವಲ್ಪ ಸಾಮಾನ್ಯ ನಲ್ಲಿ ನೀರು. ಮತ್ತು ಅತಿ ಮುಖ್ಯವಾಗಿ, ತಾಪಮಾನವನ್ನು ಅಳೆಯಲು ಒಂದು ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕ. ಈ ಮೂರು ವಸ್ತುಗಳನ್ನು ಬಳಸಿ, ನಾವು ನೀರಿನ ನಿಖರವಾದ ತಾಪಮಾನವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "display_bullets": [
+    "ಬೀಕರ್",
+    "ಸಾಮಾನ್ಯ ನಲ್ಲಿ ನೀರು",
+    "ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clean diagram showing the required materials for the experiment. On the left, a glass beaker. In the middle, a label 'Water'. On the right, a laboratory thermometer. Each item should be clearly labeled in Kannada: 'ಬೀಕರ್', 'ನೀರು', 'ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕ'.",
+    "labels": "Beaker, Water, Laboratory Thermometer",
+    "scientific_significance": "Shows the basic apparatus required for measuring temperature in a lab setting.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_3_concept_3_chunk_009"
+}

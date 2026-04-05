@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಅನ್ವಯ 1: ಆಯತ ಘನದ ಗಾತ್ರ",
+  "script": "ಈಗ, ಈ ಮೂಲ ತತ್ವವನ್ನು ಆಯತ ಘನಕ್ಕೆ ಅನ್ವಯಿಸೋಣ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಆಯತ ಘನದ ಪಾದವು ಒಂದು ಆಯತಾಕಾರದಲ್ಲಿರುತ್ತದೆ. ಅದರ ಉದ್ದ 'l' ಮತ್ತು ಅಗಲ 'b' ಆಗಿರುತ್ತದೆ. ಹಾಗಾಗಿ, ಪಾದದ ವಿಸ್ತೀರ್ಣ, ಅಂದರೆ A, ಉದ್ದ ಗುಣಿಸು ಅಗಲ, ಅಂದರೆ l ಗುಣಿಸು b ಆಗುತ್ತದೆ. ನಮ್ಮ ಮೂಲ ಸೂತ್ರ V equals A ಗುಣಿಸು h ನಲ್ಲಿ, A ಯ ಬದಲಿಗೆ l ಗುಣಿಸು b ಅನ್ನು ಹಾಕಿದಾಗ, ಆಯತ ಘನದ ಗಾತ್ರದ ಸೂತ್ರ V equals l ಗುಣಿಸು b ಗುಣಿಸು h ಸಿಗುತ್ತದೆ. ಇದನ್ನು ನಾವು V equals l b h ಎಂದೂ ಬರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಈಗ, ಈ ಮೂಲ ತತ್ವವನ್ನು ಆಯತ ಘನಕ್ಕೆ ಅನ್ವಯಿಸೋಣ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಆಯತ ಘನದ ಪಾದವು ಒಂದು ಆಯತಾಕಾರದಲ್ಲಿರುತ್ತದೆ. ಅದರ ಉದ್ದ 'l' ಮತ್ತು ಅಗಲ 'b' ಆಗಿರುತ್ತದೆ. ಹಾಗಾಗಿ, ಪಾದದ ವಿಸ್ತೀರ್ಣ (A) = ಉದ್ದ × ಅಗಲ, ಅಂದರೆ $l \\times b$ ಆಗುತ್ತದೆ. ನಮ್ಮ ಮೂಲ ಸೂತ್ರ $V = A \\times h$ ನಲ್ಲಿ, A ಯ ಬದಲಿಗೆ $l \\times b$ ಅನ್ನು ಹಾಕಿದಾಗ, ಆಯತ ಘನದ ಗಾತ್ರದ ಸೂತ್ರ $V = (l \\times b) \\times h$ ಸಿಗುತ್ತದೆ. ಇದನ್ನು ನಾವು $V = lbh$ ಎಂದೂ ಬರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಆಯತ ಘನದ ಪಾದವು ಒಂದು ಆಯತ.",
+    "ಪಾದದ ವಿಸ್ತೀರ್ಣ (A) = ಉದ್ದ × ಅಗಲ = $l \\times b$.",
+    "ಗಾತ್ರ (V) = (ಪಾದದ ವಿಸ್ತೀರ್ಣ) × ಎತ್ತರ = $(l \\times b) \\times h = lbh$."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_dark",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "V = l \\times b \\times h",
+    "placeholder_note": "ಆಯತ ಘನದ ಗಾತ್ರದ ಸೂತ್ರ"
+  },
+  "chunk_id": "MEN-MEN-2_concept_3_chunk_014"
+}

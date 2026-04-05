@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಮೆಗ್ನಿಸಿಯಂ ಕ್ಲೋರೈಡ್",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮೆಗ್ನಿಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ರಾಸಾಯನಿಕ ಸೂತ್ರವನ್ನು ಬರೆಯಿರಿ. ಇಲ್ಲಿ, ನಮಗೆ ಎರಡು ಅಯಾನುಗಳಿವೆ. ಒಂದು ಮೆಗ್ನಿಸಿಯಂ ಅಯಾನು, ಎಂ ಜಿ ಟೂ ಪ್ಲಸ್, ಮತ್ತು ಇನ್ನೊಂದು ಕ್ಲೋರೈಡ್ ಅಯಾನು, ಸಿ ಎಲ್ ಮೈನಸ್. ನಾವು ಈ ಅಯಾನುಗಳನ್ನು ಬಳಸಿ ಸಂಯುಕ್ತದ ಸೂತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮೆಗ್ನಿಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ರಾಸಾಯನಿಕ ಸೂತ್ರವನ್ನು ಬರೆಯಿರಿ. ಇಲ್ಲಿ, ನಮಗೆ ಎರಡು ಅಯಾನುಗಳಿವೆ: ಮೆಗ್ನಿಸಿಯಂ ಅಯಾನು (Mg²⁺) ಮತ್ತು ಕ್ಲೋರೈಡ್ ಅಯಾನು (Cl⁻). ನಾವು ಈ ಅಯಾನುಗಳನ್ನು ಬಳಸಿ ಸಂಯುಕ್ತದ ಸೂತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಮೆಗ್ನಿಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ರಾಸಾಯನಿಕ ಸೂತ್ರವನ್ನು ಬರೆಯಿರಿ.",
+    "ಕೊಟ್ಟಿರುವ ಅಯಾನುಗಳು: ಮೆಗ್ನಿಸಿಯಂ (Mg²⁺) ಮತ್ತು ಕ್ಲೋರೈಡ್ (Cl⁻).",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಅಂತಿಮ ರಾಸಾಯನಿಕ ಸೂತ್ರ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": " \\text{ಮೆಗ್ನಿಸಿಯಂ ಕ್ಲೋರೈಡ್} \\rightarrow ? ",
+    "placeholder_note": "Problem statement asking for the chemical formula of Magnesium Chloride"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_3_example_3",
+  "chunk_id": "std_9_chapter_3_concept_7_chunk_012"
+}

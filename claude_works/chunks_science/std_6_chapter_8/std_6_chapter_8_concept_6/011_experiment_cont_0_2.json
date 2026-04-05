@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನ: ಭಾಗ 1 (ಹೊಗೆ ಇಲ್ಲದೆ)",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಟಲಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರಲ್ಲಿ ಸ್ವಲ್ಪ ನೀರನ್ನು ಹಾಕೋಣ. ನಂತರ, ಮುಚ್ಚಳವನ್ನು ಬಿಗಿಯಾಗಿ ಮುಚ್ಚಿ. ಈಗ, ನಿಮ್ಮ ಕೈಗಳಿಂದ ಬಾಟಲಿಯನ್ನು ಬಲವಾಗಿ ಅಮುಕಿ ಮತ್ತು ನಂತರ ಬಿಡಿ. ಹೀಗೆ ಕೆಲವು ಬಾರಿ ಪುನರಾವರ್ತಿಸಿ. ನಾವು ಹೀಗೆ ಮಾಡಿದಾಗ, ಬಾಟಲಿಯೊಳಗಿನ ಗಾಳಿಯ ಒತ್ತಡವನ್ನು ಹೆಚ್ಚಿಸಿ ಕಡಿಮೆ ಮಾಡುತ್ತೇವೆ. ಬಾಟಲಿಯೊಳಗೆ ಏನಾದರೂ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತದೆಯೇ ಎಂದು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಈ ಹಂತದಲ್ಲಿ, ಸಾಮಾನ್ಯವಾಗಿ ಯಾವುದೇ ಸ್ಪಷ್ಟವಾದ ಮೋಡವು ರೂಪುಗೊಳ್ಳುವುದಿಲ್ಲ, ಕೇವಲ ನೀರಾವಿ ಇರುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಟಲಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರಲ್ಲಿ ಸ್ವಲ್ಪ ನೀರನ್ನು ಹಾಕೋಣ. ನಂತರ, ಮುಚ್ಚಳವನ್ನು ಬಿಗಿಯಾಗಿ ಮುಚ್ಚಿ. ಈಗ, ನಿಮ್ಮ ಕೈಗಳಿಂದ ಬಾಟಲಿಯನ್ನು ಬಲವಾಗಿ ಅಮುಕಿ ಮತ್ತು ನಂತರ ಬಿಡಿ. ಹೀಗೆ ಕೆಲವು ಬಾರಿ ಪುನರಾವರ್ತಿಸಿ. ನಾವು ಹೀಗೆ ಮಾಡಿದಾಗ, ಬಾಟಲಿಯೊಳಗಿನ ಗಾಳಿಯ ಒತ್ತಡವನ್ನು ಹೆಚ್ಚಿಸಿ ಕಡಿಮೆ ಮಾಡುತ್ತೇವೆ. ಬಾಟಲಿಯೊಳಗೆ ಏನಾದರೂ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತದೆಯೇ ಎಂದು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಈ ಹಂತದಲ್ಲಿ, ಸಾಮಾನ್ಯವಾಗಿ ಯಾವುದೇ ಸ್ಪಷ್ಟವಾದ ಮೋಡವು ರೂಪುಗೊಳ್ಳುವುದಿಲ್ಲ, ಕೇವಲ ನೀರಾವಿ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬಾಟಲಿಯಲ್ಲಿ ಸ್ವಲ್ಪ ನೀರು ಹಾಕಿ ಮುಚ್ಚಳವನ್ನು ಮುಚ್ಚಿ.",
+    "ಬಾಟಲಿಯನ್ನು ಕೈಗಳಿಂದ ಬಲವಾಗಿ ಅಮುಕಿ-ಬಿಡಿ.",
+    "ಬಾಟಲಿಯೊಳಗೆ ಆಗುವ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಿ (ಯಾವುದೇ ಮೋಡ ಕಾಣಿಸುವುದಿಲ್ಲ)."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a person squeezing a sealed plastic bottle containing a small amount of water. No cloud is visible inside.",
+    "labels": "ಒತ್ತಡ ಹೇರುವುದು, ನೀರಾವಿ",
+    "scientific_significance": "This step demonstrates that changing pressure alone in the presence of water vapor is not sufficient to cause visible condensation (cloud formation).",
+    "placeholder_note": "Image to be generated."
+  },
+  "chunk_id": "std_6_chapter_8_concept_6_chunk_011"
+}

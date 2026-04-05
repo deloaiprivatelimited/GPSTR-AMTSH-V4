@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಘನಗಳನ್ನು ವಿಸ್ತರಿಸುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಈ ಕೆಳಗಿನ ಘನಗಳನ್ನು ವಿಸ್ತೃತ ರೂಪದಲ್ಲಿ ಬರೆಯಬೇಕು. ಮೊದಲನೆಯದು ಮೂರು a ಪ್ಲಸ್ ನಾಲ್ಕು b, ಹೋಲ್ ಕ್ಯೂಬ್ಡ್. ಮತ್ತು ಎರಡನೆಯದು ಐದು p ಮೈನಸ್ ಮೂರು q, ಹೋಲ್ ಕ್ಯೂಬ್ಡ್. ಈ ಎರಡೂ ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು ನಾವು ಸೂಕ್ತವಾದ ಬೈಜಿಕ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಈ ಕೆಳಗಿನ ಘನಗಳನ್ನು ವಿಸ್ತೃತ ರೂಪದಲ್ಲಿ ಬರೆಯಬೇಕು:\n\n(i) $(3a + 4b)^3$\n\n(ii) $(5p - 3q)^3$\n\nಈ ಎರಡೂ ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು ನಾವು ಸೂಕ್ತವಾದ ಬೈಜಿಕ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಈ ಕೆಳಗಿನ ಘನಗಳನ್ನು ವಿಸ್ತೃತ ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ.",
+    "(i) $(3a + 4b)^3$",
+    "(ii) $(5p - 3q)^3$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "(x+y)^3 = x^3 + y^3 + 3xy(x+y) \\\\ (x-y)^3 = x^3 - y^3 - 3xy(x-y)",
+    "placeholder_note": "ಘನಗಳ ವಿಸ್ತರಣೆಗೆ ಬಳಸುವ ನಿತ್ಯಸಮೀಕರಣಗಳು"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_20",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_066"
+}

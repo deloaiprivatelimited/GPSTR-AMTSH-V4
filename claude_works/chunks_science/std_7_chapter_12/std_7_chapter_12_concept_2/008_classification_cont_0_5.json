@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಮರವಲ್ಲದ ಉತ್ಪನ್ನಗಳು (ಮುಂದುವರಿದಿದೆ)",
+  "script": "ಮರವಲ್ಲದ ಉತ್ಪನ್ನಗಳ ಕೊನೆಯ ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಒಂದು, ಕಾಚು. ಇದನ್ನು ಕಗ್ಗಲಿ ಮರದಿಂದ ಪಡೆಯಲಾಗುತ್ತದೆ. ಇದನ್ನು ಪಾನ್ ತಯಾರಿಕೆಯಲ್ಲಿ, ಬಟ್ಟೆಗಳಿಗೆ ಬಣ್ಣ ಹಾಕಲು ಮತ್ತು ಚರ್ಮವನ್ನು ಸಂಸ್ಕರಿಸಲು ಬಳಸುತ್ತಾರೆ. ಮತ್ತೊಂದು ಪ್ರಮುಖ ಉತ್ಪನ್ನವೆಂದರೆ ಪ್ರಾಣಿಗಳ ಮೇವು. ಕಾಡಿನಲ್ಲಿ ಬೆಳೆಯುವ ಹುಲ್ಲು ಮತ್ತು ಗಿಡಗಳ ಎಲೆಗಳು ಜಾನುವಾರುಗಳಿಗೆ ಆಹಾರವಾಗಿ ಉಪಯೋಗವಾಗುತ್ತವೆ. ಹೀಗೆ ಕಾಡುಗಳು ಮರವನ್ನು ಹೊರತುಪಡಿಸಿಯೂ ನಮ್ಮ ಜೀವನಕ್ಕೆ ಅತ್ಯಗತ್ಯವಾದ ಅನೇಕ ಉತ್ಪನ್ನಗಳನ್ನು ಒದಗಿಸುತ್ತವೆ.",
+  "script_display": "ಮರವಲ್ಲದ ಉತ್ಪನ್ನಗಳ ಕೊನೆಯ ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಒಂದು, ಕಾಚು (Catechu). ಇದನ್ನು ಕಗ್ಗಲಿ ಮರದಿಂದ ಪಡೆಯಲಾಗುತ್ತದೆ. ಇದನ್ನು ಪಾನ್ ತಯಾರಿಕೆಯಲ್ಲಿ, ಬಟ್ಟೆಗಳಿಗೆ ಬಣ್ಣ ಹಾಕಲು ಮತ್ತು ಚರ್ಮವನ್ನು ಸಂಸ್ಕರಿಸಲು ಬಳಸುತ್ತಾರೆ. ಮತ್ತೊಂದು ಪ್ರಮುಖ ಉತ್ಪನ್ನವೆಂದರೆ ಪ್ರಾಣಿಗಳ ಮೇವು (Fodder). ಕಾಡಿನಲ್ಲಿ ಬೆಳೆಯುವ ಹುಲ್ಲು ಮತ್ತು ಗಿಡಗಳ ಎಲೆಗಳು ಜಾನುವಾರುಗಳಿಗೆ ಆಹಾರವಾಗಿ ಉಪಯೋಗವಾಗುತ್ತವೆ. ಹೀಗೆ ಕಾಡುಗಳು ಮರವನ್ನು ಹೊರತುಪಡಿಸಿಯೂ ನಮ್ಮ ಜೀವನಕ್ಕೆ ಅತ್ಯಗತ್ಯವಾದ ಅನೇಕ ಉತ್ಪನ್ನಗಳನ್ನು ಒದಗಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಕಾಚು (Catechu): ಪಾನ್ ಮತ್ತು ಬಣ್ಣ ತಯಾರಿಕೆಯಲ್ಲಿ ಬಳಕೆ.",
+    "ಪ್ರಾಣಿಗಳ ಮೇವು (Fodder): ಜಾನುವಾರುಗಳಿಗೆ ಆಹಾರ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split image. On one side, dark blocks of catechu (katha). On the other side, a cow or goat grazing on leaves and grass in a forest setting.",
+    "labels": "Catechu, Fodder",
+    "scientific_significance": "Illustrates the use of forest resources for traditional products and as a direct food source for livestock, supporting local economies.",
+    "placeholder_note": "Image to be generated showing catechu blocks and an animal grazing."
+  },
+  "chunk_id": "std_7_chapter_12_concept_2_chunk_008"
+}

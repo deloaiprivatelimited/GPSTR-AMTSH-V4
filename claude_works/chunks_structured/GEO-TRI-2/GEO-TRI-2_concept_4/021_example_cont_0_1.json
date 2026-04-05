@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ನಾವು ಮೊದಲು ಒಂದು ರಚನೆಯನ್ನು ಮಾಡೋಣ. A ಮತ್ತು C ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ AC ಕರ್ಣವನ್ನು ಎಳೆಯೋಣ. ಈ ಕರ್ಣವು EF ರೇಖೆಯನ್ನು G ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತದೆ. ಈಗ, ತ್ರಿಭುಜ ADC ಯನ್ನು ಪರಿಗಣಿಸಿ. ನಮಗೆ EF ಸಮಾಂತರ AB ಮತ್ತು AB ಸಮಾಂತರ DC ಎಂದು ತಿಳಿದಿದೆ. ಇದರರ್ಥ, EG ಯು DC ಗೆ ಸಮಾಂತರವಾಗಿದೆ. ಈಗ ನಾವು ತ್ರಿಭುಜ ADC ಗೆ ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸಬಹುದು. ಪ್ರಮೇಯದ ಪ್ರಕಾರ, AE ಭಾಗಿಸು ED ಸಮ AG ಭಾಗಿಸು GC. ಇದನ್ನು ಸಮೀಕರಣ ಒಂದು ಎಂದು ಗುರುತಿಸೋಣ.",
+  "script_display": "ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ನಾವು ಮೊದಲು ಒಂದು ರಚನೆಯನ್ನು ಮಾಡೋಣ. A ಮತ್ತು C ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ AC ಕರ್ಣವನ್ನು ಎಳೆಯೋಣ. ಈ ಕರ್ಣವು EF ರೇಖೆಯನ್ನು G ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತದೆ. ಈಗ, $\\triangle ADC$ ಯನ್ನು ಪರಿಗಣಿಸಿ. ನಮಗೆ $EF || AB$ ಮತ್ತು $AB || DC$ ಎಂದು ತಿಳಿದಿದೆ. ಇದರರ್ಥ, $EG || DC$. ಈಗ ನಾವು $\\triangle ADC$ ಗೆ ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯವನ್ನು (BPT) ಅನ್ವಯಿಸಬಹುದು. ಪ್ರಮೇಯದ ಪ್ರಕಾರ, $\\frac{AE}{ED} = \\frac{AG}{GC}$. ಇದನ್ನು ಸಮೀಕರಣ (1) ಎಂದು ಗುರುತಿಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ABCD ತ್ರಾಪಿಜ್ಯದ ಚಿತ್ರ. AC ಕರ್ಣವನ್ನು ಎಳೆಯಲಾಗಿದೆ, ಅದು EF ರೇಖೆಯನ್ನು G ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತದೆ. ತ್ರಿಭುಜ ADC ಯನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ, ಇದರಲ್ಲಿ EG ರೇಖೆಯು DC ಗೆ ಸಮಾಂತರವಾಗಿದೆ.",
+    "labels": "A, B, C, D, E, F, G",
+    "mathematical_significance": "ರಚನೆಯು ತ್ರಾಪಿಜ್ಯವನ್ನು ಎರಡು ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ, ಇದು BPT ಯ ಅನ್ವಯವನ್ನು ಸಾಧ್ಯವಾಗಿಸುತ್ತದೆ. ಈ ಹಂತದಲ್ಲಿ, ತ್ರಿಭುಜ ADC ಯಲ್ಲಿ BPT ಯನ್ನು ಹೇಗೆ ಬಳಸಲಾಗಿದೆ ಎಂಬುದನ್ನು ತೋರಿಸಲಾಗಿದೆ.",
+    "placeholder_note": "Image of the trapezium with diagonal AC drawn, intersecting EF at G. Triangle ADC should be highlighted."
+  },
+  "source_example_id": "GEO-TRI-2_example_4",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "AC ಕರ್ಣವನ್ನು ಎಳೆಯಿರಿ. ಅದು EF ನ್ನು G ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸಲಿ.",
+      "justification": "ರಚನೆ (Construction)"
+    },
+    {
+      "step": 2,
+      "action_display": "$\\triangle ADC$ ಯಲ್ಲಿ, $EG || DC$. BPT ಪ್ರಕಾರ, $\\frac{AE}{ED} = \\frac{AG}{GC}$ --- (1)",
+      "justification": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯ (BPT)"
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_4_chunk_021"
+}

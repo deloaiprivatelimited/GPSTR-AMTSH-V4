@@ -1,0 +1,90 @@
+{
+  "module_id": "std_8_science_chapter_11_concept_6",
+  "chapter_code": "std_8_chapter_11",
+  "voice": "Gacrux",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 328.397,
+  "total_duration_formatted": "5:28",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ವಿದ್ಯುಲ್ಲೇಪನದ ಅನ್ವಯಗಳು ಮತ್ತು ಪರಿಸರ ಕಾಳಜಿ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 64.531,
+      "duration": 64.531,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 65.131,
+      "end": 96.542,
+      "duration": 31.411,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_6_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಕ್ರೋಮಿಯಂ ಲೇಪನ (Chromium Plating)",
+      "type": "concept_explanation",
+      "start": 97.142,
+      "end": 142.513,
+      "duration": 45.371,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_6_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಬೆಳ್ಳಿ/ಚಿನ್ನದ ಲೇಪನ (Silver/Gold Plating)",
+      "type": "concept_explanation",
+      "start": 143.113,
+      "end": 186.644,
+      "duration": 43.531,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_6_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ತವರದ ಲೇಪನ (Tin Plating)",
+      "type": "concept_explanation",
+      "start": 187.244,
+      "end": 234.495,
+      "duration": 47.251,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_6_chunk_006",
+      "chunk_file": "006_property_1.json",
+      "wav_file": "006_property_1.wav",
+      "slide_title": "ಅನ್ವಯಗಳು: ಸತುವಿನ ಲೇಪನ (ಗ್ಯಾಲ್ವನೀಕರಣ)",
+      "type": "concept_explanation",
+      "start": 235.095,
+      "end": 288.106,
+      "duration": 53.011,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_8_science_chapter_11_concept_6_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 288.706,
+      "end": 327.797,
+      "duration": 39.091,
+      "script_words": 51
+    }
+  ]
+}

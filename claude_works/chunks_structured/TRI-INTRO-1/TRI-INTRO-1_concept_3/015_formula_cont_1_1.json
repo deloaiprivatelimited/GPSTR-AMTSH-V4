@@ -1,0 +1,35 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ನಿತ್ಯಸಮೀಕರಣದ ಸಾಧನೆ: ಭಾಗ 1",
+  "script": "ಈ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸಹ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಸಾಧಿಸಬಹುದು. ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ಯನ್ನು ಪರಿಗಣಿಸೋಣ, ಇದರಲ್ಲಿ ಕೋನ ಬಿ ಯು ತೊಂಬತ್ತು ಡಿಗ್ರಿ. ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, ವಿಕರ್ಣದ ವರ್ಗವು ಉಳಿದೆರಡು ಬಾಹುಗಳ ವರ್ಗಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ಎ ಬಿ ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ಬಿ ಸಿ ಸ್ಕ್ವೇರ್ ಈಕ್ವಲ್ಸ್ ಎ ಸಿ ಸ್ಕ್ವೇರ್. ಇದು ನಮ್ಮ ಸಾಧನೆಯ ಆರಂಭಿಕ ಹಂತ.",
+  "script_display": "ಈ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸಹ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಸಾಧಿಸಬಹುದು. ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯನ್ನು ಪರಿಗಣಿಸೋಣ, ಇದರಲ್ಲಿ $\\angle B = 90^\\circ$. ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, ವಿಕರ್ಣದ ವರ್ಗವು ಉಳಿದೆರಡು ಬಾಹುಗಳ ವರ್ಗಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, $AB^2 + BC^2 = AC^2$. ಇದು ನಮ್ಮ ಸಾಧನೆಯ ಆರಂಭಿಕ ಹಂತ.",
+  "display_bullets": [
+    "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\\angle B = 90^\\circ$ ಎಂದು ಭಾವಿಸೋಣ.",
+    "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ: $AB^2 + BC^2 = AC^2$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right-angled triangle ABC, with the right angle at vertex B. Angle A is marked with an arc. Side AB is the adjacent side to angle A, BC is the opposite side, and AC is the hypotenuse.",
+    "labels": "A, B, C, AB (Adjacent/ಪಾರ್ಶ್ವ ಬಾಹು), BC (Opposite/ಅಭಿಮುಖ ಬಾಹು), AC (Hypotenuse/ವಿಕರ್ಣ)",
+    "mathematical_significance": "This triangle is the basis for defining trigonometric ratios and deriving identities using the Pythagorean theorem.",
+    "placeholder_note": "Image to be generated showing the described triangle."
+  },
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_015"
+}

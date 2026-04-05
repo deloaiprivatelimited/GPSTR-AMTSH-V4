@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಕರಣಿಗಳನ್ನು ಸಂಕ್ಷೇಪಿಸುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನಾವು ನಾಲ್ಕು ಬೇರೆ ಬೇರೆ ಪದಗಳನ್ನು ಸಂಕ್ಷೇಪಿಸಬೇಕಾಗಿದೆ. ಮೊದಲನೆಯದು, ಐದು ಪ್ಲಸ್ ರೂಟ್ ಏಳು ಗುಣಿಸು ಎರಡು ಪ್ಲಸ್ ರೂಟ್ ಐದು. ಎರಡನೆಯದು, ಐದು ಪ್ಲಸ್ ರೂಟ್ ಐದು ಗುಣಿಸು ಐದು ಮೈನಸ್ ರೂಟ್ ಐದು. ಮೂರನೆಯದು, ರೂಟ್ ಮೂರು ಪ್ಲಸ್ ರೂಟ್ ಏಳು, ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್. ಮತ್ತು ನಾಲ್ಕನೆಯದು, ರೂಟ್ ಹನ್ನೊಂದು ಮೈನಸ್ ರೂಟ್ ಏಳು ಗುಣಿಸು ರೂಟ್ ಹನ್ನೊಂದು ಪ್ಲಸ್ ರೂಟ್ ಏಳು. ಇವುಗಳನ್ನು ಒಂದೊಂದಾಗಿ ಬಿಡಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನಾವು ನಾಲ್ಕು ಬೇರೆ ಬೇರೆ ಪದಗಳನ್ನು ಸಂಕ್ಷೇಪಿಸಬೇಕಾಗಿದೆ:",
+  "display_bullets": [
+    "(i) $(5+\\sqrt{7})(2+\\sqrt{5})$",
+    "(ii) $(5+\\sqrt{5})(5-\\sqrt{5})$",
+    "(iii) $(\\sqrt{3}+\\sqrt{7})^2$",
+    "(iv) $(\\sqrt{11}-\\sqrt{7})(\\sqrt{11}+\\sqrt{7})$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-SYS-3_example_15",
+  "final_answer": "(i) 10 + 5sqrt(5) + 2sqrt(7) + sqrt(35)\n(ii) 20\n(iii) 10 + 2sqrt(21)\n(iv) 4",
+  "final_answer_display": "(i) $10 + 5\\sqrt{5} + 2\\sqrt{7} + \\sqrt{35}$\n(ii) 20\n(iii) $10 + 2\\sqrt{21}$\n(iv) 4",
+  "chunk_id": "NS-SYS-3_concept_4_chunk_047"
+}

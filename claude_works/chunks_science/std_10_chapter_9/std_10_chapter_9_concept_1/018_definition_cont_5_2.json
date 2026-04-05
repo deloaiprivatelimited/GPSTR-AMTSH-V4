@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಮಾನ್ಯ ತಪ್ಪು: ಕೋನವನ್ನು ಅಳೆಯುವುದು",
+  "script": "ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ವಿಷಯವನ್ನು ಗಮನಿಸಬೇಕು. ಅನೇಕರು ಮಾಡುವ ಸಾಮಾನ್ಯ ತಪ್ಪು ಎಂದರೆ ಪ್ರತಿಫಲನ ಕೋನವನ್ನು ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ದರ್ಪಣದ ಮೇಲ್ಮೈ ನಡುವೆ ಅಳೆಯುವುದು. ಇದು ಸಂಪೂರ್ಣವಾಗಿ ತಪ್ಪು. ಬಲಭಾಗದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಮಾಡಬಾರದು. ಸರಿಯಾದ ಕ್ರಮ ಎಡಭಾಗದಲ್ಲಿ ತೋರಿಸಿದಂತೆ ಇದೆ. ಪ್ರತಿಫಲನ ಕೋನವನ್ನು ಯಾವಾಗಲೂ ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವೆ ಮಾತ್ರ ಅಳೆಯಬೇಕು. ಪರೀಕ್ಷೆಯಲ್ಲಿ ಈ ಅಂಶವನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ಇದರ ಮೇಲೆ ಆಧಾರಿತವಾದ ಪ್ರಶ್ನೆಗಳು ಬರಬಹುದು.",
+  "script_display": "ಅನೇಕರು ಮಾಡುವ ಸಾಮಾನ್ಯ ತಪ್ಪು ಎಂದರೆ ಪ್ರತಿಫಲನ ಕೋನವನ್ನು ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ದರ್ಪಣದ ಮೇಲ್ಮೈ ನಡುವೆ ಅಳೆಯುವುದು. ಇದು ತಪ್ಪು. ಪ್ರತಿಫಲನ ಕೋನವನ್ನು ಯಾವಾಗಲೂ ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವೆ ಅಳೆಯಬೇಕು.",
+  "display_bullets": [
+    "**ಸರಿ:** ಪ್ರತಿಫಲನ ಕೋನವನ್ನು (r) ಯಾವಾಗಲೂ **ಲಂಬ**ದೊಂದಿಗೆ ಅಳೆಯಲಾಗುತ್ತದೆ.",
+    "**ತಪ್ಪು:** ಪ್ರತಿಫಲನ ಕೋನವನ್ನು **ಮೇಲ್ಮೈ**ಯೊಂದಿಗೆ ಅಳೆಯಲಾಗುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen diagram. Left side shows the CORRECT way to measure the angle of reflection (r) between the reflected ray and the normal. Right side shows the INCORRECT way, measuring the angle between the reflected ray and the mirror surface. The correct side is marked with a green check and the incorrect side with a red cross.",
+    "labels": "ಸರಿ (Correct), ತಪ್ಪು (Incorrect), ಲಂಬ (Normal), ಮೇಲ್ಮೈ (Surface), ಪ್ರತಿಫಲಿತ ಕಿರಣ (Reflected Ray)",
+    "scientific_significance": "Clarifies a major misconception in measuring angles in reflection, which is a common source of errors in exams.",
+    "placeholder_note": "Generate a split image. Left: 'Correct' with angle 'r' to normal. Right: 'Incorrect' with angle to surface."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_10_chapter_9_concept_1_chunk_018"
+}

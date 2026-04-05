@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆವೀಕರಣದ ದರ: ಗಾಳಿಯ ಚಲನೆ",
+  "script": "ಮೂರನೆಯದಾಗಿ, ಗಾಳಿಯ ಚಲನೆ ಅಥವಾ ಗಾಳಿಯ ವೇಗ. ಗಾಳಿ ಜೋರಾಗಿ ಬೀಸಿದಾಗ ಆವೀಕರಣದ ದರ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಹೇಗೆಂದರೆ, ನೀರು ಆವಿಯಾದಾಗ, ಅದರ ಕಣಗಳು ದ್ರವದ ಮೇಲ್ಮೈಯ ಸುತ್ತಲೂ ಸಂಗ್ರಹವಾಗುತ್ತವೆ. ವೇಗವಾಗಿ ಚಲಿಸುವ ಗಾಳಿಯು ಈ ನೀರಾವಿಯ ಕಣಗಳನ್ನು ಆ ಜಾಗದಿಂದ ದೂರ ಒಯ್ಯುತ್ತದೆ. ಇದರಿಂದಾಗಿ, ದ್ರವದ ಮೇಲ್ಮೈ ಬಳಿ ಇರುವ ಗಾಳಿಯಲ್ಲಿ ತೇವಾಂಶ ಕಡಿಮೆಯಾಗಿ, ಮತ್ತಷ್ಟು ನೀರು ಆವಿಯಾಗಲು ಜಾಗ ಮಾಡಿಕೊಡುತ್ತದೆ. ಅದಕ್ಕಾಗಿಯೇ ಫ್ಯಾನ್ ಕೆಳಗೆ ಒದ್ದೆ ನೆಲ ಬೇಗ ಒಣಗುತ್ತದೆ ಮತ್ತು ಗಾಳಿ ಬೀಸುವ ದಿನ ಬಟ್ಟೆಗಳು ಬೇಗ ಒಣಗುತ್ತವೆ.",
+  "script_display": "ಮೂರನೆಯದಾಗಿ, ಗಾಳಿಯ ಚಲನೆ (Wind Speed). ಗಾಳಿ ಜೋರಾಗಿ ಬೀಸಿದಾಗ ಆವೀಕರಣದ ದರ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಹೇಗೆಂದರೆ, ನೀರು ಆವಿಯಾದಾಗ, ಅದರ ಕಣಗಳು ದ್ರವದ ಮೇಲ್ಮೈಯ ಸುತ್ತಲೂ ಸಂಗ್ರಹವಾಗುತ್ತವೆ. ವೇಗವಾಗಿ ಚಲಿಸುವ ಗಾಳಿಯು ಈ ನೀರಾವಿಯ ಕಣಗಳನ್ನು ಆ ಜಾಗದಿಂದ ದೂರ ಒಯ್ಯುತ್ತದೆ. ಇದರಿಂದಾಗಿ, ದ್ರವದ ಮೇಲ್ಮೈ ಬಳಿ ಇರುವ ಗಾಳಿಯಲ್ಲಿ ತೇವಾಂಶ ಕಡಿಮೆಯಾಗಿ, ಮತ್ತಷ್ಟು ನೀರು ಆವಿಯಾಗಲು ಜಾಗ ಮಾಡಿಕೊಡುತ್ತದೆ. ಅದಕ್ಕಾಗಿಯೇ ಫ್ಯಾನ್ ಕೆಳಗೆ ಒದ್ದೆ ನೆಲ ಬೇಗ ಒಣಗುತ್ತದೆ ಮತ್ತು ಗಾಳಿ ಬೀಸುವ ದಿನ ಬಟ್ಟೆಗಳು ಬೇಗ ಒಣಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ಗಾಳಿಯ ವೇಗ ಹೆಚ್ಚಾದಂತೆ, ಆವೀಕರಣದ ದರ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+    "ಉದಾಹರಣೆ: ಗಾಳಿ ಬೀಸುವ ದಿನ ಬಟ್ಟೆಗಳು ಬೇಗ ಒಣಗುತ್ತವೆ.",
+    "ವಿವರಣೆ: ಗಾಳಿಯು ನೀರಾವಿಯ ಕಣಗಳನ್ನು ದೂರ ಒಯ್ಯುತ್ತದೆ, ಮತ್ತಷ್ಟು ಆವೀಕರಣಕ್ಕೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side comparison. Left: A clothesline on a still day, with water vapor particles hovering near the clothes. Right: A clothesline on a windy day, with wind blowing the water vapor particles away from the clothes.",
+    "labels": "ಗಾಳಿಯಿಲ್ಲದ ದಿನ (ನಿಧಾನ ಆವೀಕರಣ), ಗಾಳಿ ಬೀಸುವ ದಿನ (ವೇಗದ ಆವೀಕರಣ)",
+    "scientific_significance": "Explains the mechanism by which wind speed increases evaporation: by removing the layer of saturated air near the surface.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "property_classification",
+  "chunk_id": "std_6_chapter_8_concept_4_chunk_008"
+}

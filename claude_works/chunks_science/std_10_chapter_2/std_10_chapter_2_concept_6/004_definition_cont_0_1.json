@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "pH ಮಾಪಕದ ರಚನೆ",
+  "script": "ಈಗ pH ಮಾಪಕವನ್ನು ನೋಡೋಣ. ಇದು ಸೊನ್ನೆಯಿಂದ ಹದಿನಾಲ್ಕರವರೆಗಿನ ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಂದಿದೆ. ಈ ಮಾಪಕದ ಮಧ್ಯದಲ್ಲಿರುವ ಸಂಖ್ಯೆ ಏಳು. ಯಾವುದೇ ದ್ರಾವಣದ pH ಮೌಲ್ಯ ಏಳು ಆಗಿದ್ದರೆ, ಆ ದ್ರಾವಣವನ್ನು ತಟಸ್ಥ ದ್ರಾವಣ ಎನ್ನುತ್ತೇವೆ, ಉದಾಹರಣೆಗೆ ಶುದ್ಧ ನೀರು. pH ಮೌಲ್ಯವು ಏಳಕ್ಕಿಂತ ಕಡಿಮೆ, ಅಂದರೆ ಸೊನ್ನೆಯಿಂದ ಏಳರವರೆಗೆ ಇದ್ದರೆ, ದ್ರಾವಣವು ಆಮ್ಲೀಯವಾಗಿರುತ್ತದೆ. pH ಮೌಲ್ಯ ಕಡಿಮೆಯಾದಂತೆ, ಆಮ್ಲೀಯತೆ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಹಾಗೆಯೇ, pH ಮೌಲ್ಯ ಏಳಕ್ಕಿಂತ ಹೆಚ್ಚು, ಅಂದರೆ ಏಳರಿಂದ ಹದಿನಾಲ್ಕರವರೆಗೆ ಇದ್ದರೆ, ದ್ರಾವಣವು ಪ್ರತ್ಯಾಮ್ಲೀಯವಾಗಿರುತ್ತದೆ. pH ಮೌಲ್ಯ ಹೆಚ್ಚಾದಂತೆ, ಪ್ರತ್ಯಾಮ್ಲೀಯತೆ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ pH ಮಾಪಕವನ್ನು ನೋಡೋಣ. ಇದು 0 ರಿಂದ 14 ರವರೆಗಿನ ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಂದಿದೆ. ಈ ಮಾಪಕದ ಮಧ್ಯದಲ್ಲಿರುವ ಸಂಖ್ಯೆ 7. ಯಾವುದೇ ದ್ರಾವಣದ pH ಮೌಲ್ಯ 7 ಆಗಿದ್ದರೆ, ಆ ದ್ರಾವಣವನ್ನು ತಟಸ್ಥ ದ್ರಾವಣ ಎನ್ನುತ್ತೇವೆ, ಉದಾಹರಣೆಗೆ ಶುದ್ಧ ನೀರು. pH ಮೌಲ್ಯವು 7ಕ್ಕಿಂತ ಕಡಿಮೆ (pH < 7), ಅಂದರೆ 0 ರಿಂದ 7 ರವರೆಗೆ ಇದ್ದರೆ, ದ್ರಾವಣವು ಆಮ್ಲೀಯವಾಗಿರುತ್ತದೆ. pH ಮೌಲ್ಯ ಕಡಿಮೆಯಾದಂತೆ, ಆಮ್ಲೀಯತೆ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಹಾಗೆಯೇ, pH ಮೌಲ್ಯ 7ಕ್ಕಿಂತ ಹೆಚ್ಚು (pH > 7), ಅಂದರೆ 7 ರಿಂದ 14 ರವರೆಗೆ ಇದ್ದರೆ, ದ್ರಾವಣವು ಪ್ರತ್ಯಾಮ್ಲೀಯವಾಗಿರುತ್ತದೆ. pH ಮೌಲ್ಯ ಹೆಚ್ಚಾದಂತೆ, ಪ್ರತ್ಯಾಮ್ಲೀಯತೆ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮಾಪಕವು 0 ರಿಂದ 14 ರವರೆಗೆ ಇರುತ್ತದೆ.",
+    "pH = 7: ತಟಸ್ಥ ದ್ರಾವಣ (Neutral solution)",
+    "pH < 7: ಆಮ್ಲೀಯ ದ್ರಾವಣ (Acidic solution)",
+    "pH > 7: ಪ್ರತ್ಯಾಮ್ಲೀಯ ದ್ರಾವಣ (Basic solution)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_portrait",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A colorful pH scale from 0 to 14. 0 is red (highly acidic), 7 is green (neutral), and 14 is purple/blue (highly basic). An arrow below shows 'Increasing acidity' pointing left from 7, and 'Increasing basicity' pointing right from 7. Another arrow shows H+ ion concentration increasing towards the left and decreasing towards the right.",
+    "labels": "0 (ಆಮ್ಲೀಯ ಸ್ವಭಾವ ಹೆಚ್ಚುತ್ತಿರುವುದು), 7 (ತಟಸ್ಥ), 14 (ಪ್ರತ್ಯಾಮ್ಲೀಯ ಸ್ವಭಾವ ಹೆಚ್ಚುತ್ತಿರುವುದು), H⁺ ಅಯಾನುಗಳ ಸಾರತೆ ಹೆಚ್ಚುವುದು, H⁺ ಅಯಾನುಗಳ ಸಾರತೆ ಕಡಿಮೆಯಾಗುವುದು.",
+    "scientific_significance": "This diagram visually represents the pH scale, correlating the numerical values with acidity/basicity and the concentration of hydrogen ions (H⁺).",
+    "placeholder_note": "Image to be generated based on NCERT textbook Figure 2.6 for Acids, Bases and Salts."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_2_concept_6_chunk_004"
+}

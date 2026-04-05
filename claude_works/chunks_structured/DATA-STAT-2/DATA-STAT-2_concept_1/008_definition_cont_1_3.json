@@ -1,0 +1,34 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ವಿದ್ಯಾರ್ಥಿಗಳ ಅಂಕಗಳು",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಹಿಸ್ಟೋಗ್ರಾಂ ಅನ್ನು ಇನ್ನಷ್ಟು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ತರಗತಿಯ 31 ವಿದ್ಯಾರ್ಥಿಗಳು ಗಣಿತ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪಡೆದ ಅಂಕಗಳನ್ನು ಈ ಕೋಷ್ಟಕದಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ಇಲ್ಲಿ ಅಂಕಗಳನ್ನು ವರ್ಗಾಂತರಗಳಾಗಿ, ಅಂದರೆ ಸೊನ್ನೆಯಿಂದ ಹತ್ತು, ಹತ್ತರಿಂದ ಇಪ್ಪತ್ತು, ಇಪ್ಪತ್ತರಿಂದ ಮೂವತ್ತು, ಮತ್ತು ಮೂವತ್ತರಿಂದ ನಲವತ್ತು ಎಂದು ವಿಂಗಡಿಸಲಾಗಿದೆ. ಪ್ರತಿ ವರ್ಗಾಂತರದಲ್ಲಿ ಎಷ್ಟು ವಿದ್ಯಾರ್ಥಿಗಳಿದ್ದಾರೆ, ಅಂದರೆ ಆವೃತ್ತಿ ಏನು ಎಂಬುದನ್ನು ಸಹ ನೀಡಲಾಗಿದೆ. ಈ ದತ್ತಾಂಶವನ್ನು ಬಳಸಿ ನಾವು ಹಿಸ್ಟೋಗ್ರಾಂ ರಚಿಸುತ್ತೇವೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಹಿಸ್ಟೋಗ್ರಾಂ ಅನ್ನು ಇನ್ನಷ್ಟು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ತರಗತಿಯ 31 ವಿದ್ಯಾರ್ಥಿಗಳು ಗಣಿತ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪಡೆದ ಅಂಕಗಳನ್ನು ಈ ಕೋಷ್ಟಕದಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ಇಲ್ಲಿ ಅಂಕಗಳನ್ನು ವರ್ಗಾಂತರಗಳಾಗಿ, ಅಂದರೆ $0-10, 10-20, 20-30, 30-40$ ಎಂದು ವಿಂಗಡಿಸಲಾಗಿದೆ. ಪ್ರತಿ ವರ್ಗಾಂತರದಲ್ಲಿ ಎಷ್ಟು ವಿದ್ಯಾರ್ಥಿಗಳಿದ್ದಾರೆ (ಆವೃತ್ತಿ) ಎಂಬುದನ್ನು ಸಹ ನೀಡಲಾಗಿದೆ. ಈ ದತ್ತಾಂಶವನ್ನು ಬಳಸಿ ನಾವು ಹಿಸ್ಟೋಗ್ರಾಂ ರಚಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಒಂದು ತರಗತಿಯ ವಿದ್ಯಾರ್ಥಿಗಳ ಗಣಿತ ಪರೀಕ್ಷೆಯ ಅಂಕಗಳನ್ನು ಪರಿಗಣಿಸೋಣ.",
+    "ದತ್ತಾಂಶವನ್ನು ವರ್ಗಾಂತರಗಳು ಮತ್ತು ಆವೃತ್ತಿಗಳ ಕೋಷ್ಟಕದಲ್ಲಿ ನೀಡಲಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "Table showing marks distribution for students, which will be used to build a histogram in the next slide. This provides the raw data for the visual example. The table has two columns: 'ಅಂಕಗಳು (ವರ್ಗಾಂತರ)' and 'ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ (ಆವೃತ್ತಿ)'. The rows are '0 - 10' with 5 students, '10 - 20' with 8 students, '20 - 30' with 12 students, and '30 - 40' with 6 students. The caption is 'ಗಣಿತ ಪರೀಕ್ಷೆಯಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಗಳು ಪಡೆದ ಅಂಕಗಳು'. This table is crucial for understanding the construction of the histogram shown in the subsequent slide."
+  },
+  "chunk_id": "DATA-STAT-2_concept_1_chunk_008"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಮ್ಮಿಲನ ಮತ್ತು ಯುಗ್ಮಜದ ರಚನೆ",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಈ ಗಂಡು ಮತ್ತು ಹೆಣ್ಣು ಲಿಂಗಾಣುಗಳು ಒಂದನ್ನೊಂದು ಸೇರುತ್ತವೆ. ಈ ಸಮ್ಮಿಲನದ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಾವು 'ನಿಶೇಚನ' ಅಥವಾ ಫರ್ಟಿಲೈಸೇಶನ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ನಿಶೇಚನದ ಪರಿಣಾಮವಾಗಿ, 'ಯುಗ್ಮಜ' ಅಥವಾ ಜೈಗೋಟ್ ಎಂಬ ಒಂದೇ ಒಂದು ಹೊಸ ಕೋಶವು ರೂಪುಗೊಳ್ಳುತ್ತದೆ. ಈ ಯುಗ್ಮಜದ ವಿಶೇಷತೆ ಏನೆಂದರೆ, ಇದು ಎರಡೂ ಪೋಷಕರಿಂದ, ಅಂದರೆ ತಂದೆ ಮತ್ತು ತಾಯಿಯಿಂದ, ಬಂದ ಆನುವಂಶಿಕ ಮಾಹಿತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಇದೇ ಯುಗ್ಮಜವು ನಂತರ ವಿಭಜನೆಗೊಂಡು ಬೆಳೆದು ಒಂದು ಪೂರ್ಣ ಪ್ರಮಾಣದ ಹೊಸ ಜೀವಿಯಾಗಿ ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಈ ಗಂಡು ಮತ್ತು ಹೆಣ್ಣು ಲಿಂಗಾಣುಗಳು ಒಂದನ್ನೊಂದು ಸೇರುತ್ತವೆ. ಈ ಸಮ್ಮಿಲನದ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಾವು 'ನಿಶೇಚನ' (fertilization) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ನಿಶೇಚನದ ಪರಿಣಾಮವಾಗಿ, 'ಯುಗ್ಮಜ' (zygote) ಎಂಬ ಒಂದೇ ಒಂದು ಹೊಸ ಕೋಶವು ರೂಪುಗೊಳ್ಳುತ್ತದೆ. ಈ ಯುಗ್ಮಜದ ವಿಶೇಷತೆ ಏನೆಂದರೆ, ಇದು ಎರಡೂ ಪೋಷಕರಿಂದ (ತಂದೆ ಮತ್ತು ತಾಯಿ) ಬಂದ ಆನುವಂಶಿಕ ಮಾಹಿತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಇದೇ ಯುಗ್ಮಜವು ನಂತರ ವಿಭಜನೆಗೊಂಡು ಬೆಳೆದು ಒಂದು ಪೂರ್ಣ ಪ್ರಮಾಣದ ಹೊಸ ಜೀವಿಯಾಗಿ ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [
+    "ಗಂಡು ಮತ್ತು ಹೆಣ್ಣು ಲಿಂಗಾಣುಗಳ ಸಮ್ಮಿಲನವನ್ನು 'ನಿಶೇಚನ' (fertilization) ಎನ್ನುತ್ತಾರೆ.",
+    "ನಿಶೇಚನದ ಪರಿಣಾಮವಾಗಿ 'ಯುಗ್ಮಜ' (zygote) ಎಂಬ ಒಂದೇ ಕೋಶವು ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+    "ಯುಗ್ಮಜವು ಎರಡೂ ಪೋಷಕರಿಂದ ಆನುವಂಶಿಕ ಮಾಹಿತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a male gamete (sperm) and a female gamete (ovum) with a plus sign between them. An arrow points to a single, larger cell labeled 'ಯುಗ್ಮಜ' (Zygote). The zygote contains visual cues representing genetic material from both gametes.",
+    "labels": "ಗಂಡು ಲಿಂಗಾಣು, ಹೆಣ್ಣು ಲಿಂಗಾಣು, ನಿಶೇಚನ, ಯುಗ್ಮಜ",
+    "scientific_significance": "Visually represents the process of fertilization, where two haploid gametes fuse to form a diploid zygote, restoring the full chromosome number.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_7_concept_6_chunk_005"
+}

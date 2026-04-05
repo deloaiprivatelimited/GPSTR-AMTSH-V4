@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಎಥನಾಲ್, ಅಂದರೆ C H three C H two O H, ಸಾರ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ 443 ಕೆಲ್ವಿನ್ ತಾಪಮಾನದಲ್ಲಿ ಕಾಸಿದಾಗ, ಈಥೀನ್, ಅಂದರೆ C H two ಡಬಲ್ ಬಾಂಡ್ C H two, ಮತ್ತು ನೀರು, ಅಂದರೆ H two O, ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಎಥನಾಲ್ ($CH_3-CH_2OH$), ಸಾರ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ 443 K ತಾಪಮಾನದಲ್ಲಿ ಕಾಸಿದಾಗ, ಈಥೀನ್ ($CH_2=CH_2$) ಮತ್ತು ನೀರು ($H_2O$) ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CH_3-CH_2OH \\xrightarrow{\\text{ಸಾರ } H_2SO_4, 443K} CH_2=CH_2 + H_2O",
+    "placeholder_note": "Chemical equation for the dehydration of ethanol"
+  },
+  "chunk_id": "std_10_chapter_4_concept_9_chunk_013"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಹಂತ 1: ಆಸವಿತ ನೀರಿನ ಪರೀಕ್ಷೆ",
+  "script": "ಪ್ರಯೋಗದ ಮೊದಲ ಹಂತವಾಗಿ, ನಾವು ಒಂದು ಸ್ವಚ್ಛವಾದ ಬೀಕರ್‌ನಲ್ಲಿ ಸ್ವಲ್ಪ ಆಸವಿತ ನೀರನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಆಸವಿತ ನೀರು ಎಂದರೆ ಯಾವುದೇ ಲವಣಗಳು ಅಥವಾ ಖನಿಜಗಳು ಇಲ್ಲದ ಶುದ್ಧ ನೀರು. ಈಗ, ನಮ್ಮ ಪರೀಕ್ಷಕದ ಎರಡು ತುದಿಗಳನ್ನು ಈ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿಸೋಣ. ತುದಿಗಳು ಒಂದಕ್ಕೊಂದು ತಾಗದಂತೆ ಮತ್ತು ಬೀಕರ್‌ನ ತಳವನ್ನು ಸ್ಪರ್ಶಿಸದಂತೆ ಎಚ್ಚರವಹಿಸಬೇಕು. ಈಗ, ಪರೀಕ್ಷಕದಲ್ಲಿರುವ ಎಲ್ ಇ ಡಿ ಬಲ್ಬ್ ಬೆಳಗುತ್ತದೆಯೇ ಎಂದು ನಾವು ಗಮನಿಸಬೇಕು. ಈ ಅವಲೋಕನವು ಆಸವಿತ ನೀರಿನ ವಾಹಕತೆಯ ಬಗ್ಗೆ ನಮಗೆ ಪ್ರಮುಖ ಮಾಹಿತಿಯನ್ನು ನೀಡುತ್ತದೆ.",
+  "script_display": "ಪ್ರಯೋಗದ ಮೊದಲ ಹಂತವಾಗಿ, ನಾವು ಒಂದು ಸ್ವಚ್ಛವಾದ ಬೀಕರ್‌ನಲ್ಲಿ ಸ್ವಲ್ಪ ಆಸವಿತ ನೀರನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಆಸವಿತ ನೀರು ಎಂದರೆ ಯಾವುದೇ ಲವಣಗಳು ಅಥವಾ ಖನಿಜಗಳು ಇಲ್ಲದ ಶುದ್ಧ ನೀರು. ಈಗ, ನಮ್ಮ ಪರೀಕ್ಷಕದ ಎರಡು ತುದಿಗಳನ್ನು ಈ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿಸೋಣ. ತುದಿಗಳು ಒಂದಕ್ಕೊಂದು ತಾಗದಂತೆ ಮತ್ತು ಬೀಕರ್‌ನ ತಳವನ್ನು ಸ್ಪರ್ಶಿಸದಂತೆ ಎಚ್ಚರವಹಿಸಬೇಕು. ಈಗ, ಪರೀಕ್ಷಕದಲ್ಲಿರುವ LED ಬಲ್ಬ್ ಬೆಳಗುತ್ತದೆಯೇ ಎಂದು ನಾವು ಗಮನಿಸಬೇಕು. ಈ ಅವಲೋಕನವು ಆಸವಿತ ನೀರಿನ ವಾಹಕತೆಯ ಬಗ್ಗೆ ನಮಗೆ ಪ್ರಮುಖ ಮಾಹಿತಿಯನ್ನು ನೀಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬೀಕರ್‌ನಲ್ಲಿ ಸ್ವಲ್ಪ ಆಸವಿತ ನೀರನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "ಪರೀಕ್ಷಕದ ತುದಿಗಳನ್ನು ನೀರಿನಲ್ಲಿ ಮುಳುಗಿಸಿ (ತುದಿಗಳು ತಾಗಬಾರದು).",
+    "LED ಬಲ್ಬ್ ಬೆಳಗುತ್ತದೆಯೇ ಎಂದು ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_a",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing the tester's electrodes dipped into a beaker of distilled water. The circuit is shown with the LED not glowing, indicating no current flow.",
+    "labels": "Distilled Water, Electrodes, LED (Off)",
+    "scientific_significance": "Demonstrates the procedure for testing the conductivity of distilled water.",
+    "placeholder_note": "Image to be generated showing the first step of the experiment."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_8_science_chapter_11_concept_3_chunk_010"
+}

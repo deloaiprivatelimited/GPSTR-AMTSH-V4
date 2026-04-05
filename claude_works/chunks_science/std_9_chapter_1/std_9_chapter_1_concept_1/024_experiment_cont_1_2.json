@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಚಟುವಟಿಕೆ 1.2: ಸಾರರಿಕ್ತಗೊಳಿಸುವಿಕೆ",
+  "script": "ಈಗ, ನಾವು ತಯಾರಿಸಿದ ಗಾಢ ನೇರಳೆ ದ್ರಾವಣದಿಂದ ಕೇವಲ ಹತ್ತು ಮಿಲಿಲೀಟರ್ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಂತರ, ತೊಂಬತ್ತು ಮಿಲಿಲೀಟರ್ ಶುದ್ಧ ನೀರಿರುವ ಮತ್ತೊಂದು ಬೀಕರ್‌ಗೆ ಈ ಹತ್ತು ಮಿಲಿಲೀಟರ್ ದ್ರಾವಣವನ್ನು ಸೇರಿಸೋಣ. ಏನಾಯಿತು ಎಂದು ಗಮನಿಸಿ. ಈ ಹೊಸ ದ್ರಾವಣವೂ ಕೂಡ ನೇರಳೆ ಬಣ್ಣವನ್ನು ಹೊಂದಿದೆ, ಆದರೆ ಮೊದಲಿನ ದ್ರಾವಣಕ್ಕೆ ಹೋಲಿಸಿದರೆ ಇದರ ಬಣ್ಣವು ತುಂಬಾ ತಿಳಿಯಾಗಿದೆ. ನಾವು ದ್ರಾವಣವನ್ನು ಸಾರರಿಕ್ತಗೊಳಿಸಿದ್ದೇವೆ, ಅಂದರೆ ಅದರಲ್ಲಿರುವ ಪೊಟ್ಯಾಸಿಯಂ ಪರ್ಮಾಂಗನೇಟ್ ಕಣಗಳ ಸಾಂದ್ರತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಿದ್ದೇವೆ.",
+  "script_display": "ಈಗ, ನಾವು ತಯಾರಿಸಿದ ಗಾಢ ನೇರಳೆ ದ್ರಾವಣದಿಂದ ಕೇವಲ 10 mL ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಂತರ, 90 mL ಶುದ್ಧ ನೀರಿರುವ ಮತ್ತೊಂದು ಬೀಕರ್‌ಗೆ ಈ 10 mL ದ್ರಾವಣವನ್ನು ಸೇರಿಸೋಣ. ಏನಾಯಿತು ಎಂದು ಗಮನಿಸಿ. ಈ ಹೊಸ ದ್ರಾವಣವೂ ಕೂಡ ನೇರಳೆ ಬಣ್ಣವನ್ನು ಹೊಂದಿದೆ, ಆದರೆ ಮೊದಲಿನ ದ್ರಾವಣಕ್ಕೆ ಹೋಲಿಸಿದರೆ ಇದರ ಬಣ್ಣವು ತುಂಬಾ ತಿಳಿಯಾಗಿದೆ. ನಾವು ದ್ರಾವಣವನ್ನು ಸಾರರಿಕ್ತಗೊಳಿಸಿದ್ದೇವೆ, ಅಂದರೆ ಅದರಲ್ಲಿರುವ KMnO₄ ಕಣಗಳ ಸಾಂದ್ರತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ತಯಾರಾದ ದ್ರಾವಣದಿಂದ 10 mL ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "ಅದನ್ನು 90 mL ಶುದ್ಧ ನೀರಿರುವ ಮತ್ತೊಂದು ಬೀಕರ್‌ಗೆ ಸೇರಿಸಿ.",
+    "ಹೊಸ ದ್ರಾವಣದ ಬಣ್ಣವು ತಿಳಿಯಾಗುವುದನ್ನು ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing 10mL of purple solution being taken from the first beaker and added to a second beaker containing 90mL of clear water. The second beaker now has a lighter purple solution.",
+    "labels": "ಬೀಕರ್ 1 (ಗಾಢ), ಬೀಕರ್ 2 (ತಿಳಿ), 10 mL ವರ್ಗಾವಣೆ",
+    "scientific_significance": "First step of serial dilution, demonstrating the concept of dilution.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_1_concept_1_chunk_024"
+}

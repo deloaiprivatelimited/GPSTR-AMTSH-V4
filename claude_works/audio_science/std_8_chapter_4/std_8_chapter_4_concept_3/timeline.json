@@ -1,0 +1,90 @@
+{
+  "module_id": "std_8_chapter_4_concept_3",
+  "chapter_code": "std_8_chapter_4",
+  "voice": "Alnilam",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 319.837,
+  "total_duration_formatted": "5:19",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_4_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಬೆಂಕಿಯ ನಿಯಂತ್ರಣ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 53.811,
+      "duration": 53.811,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "std_8_chapter_4_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 54.411,
+      "end": 79.902,
+      "duration": 25.491,
+      "script_words": 35
+    },
+    {
+      "chunk_id": "std_8_chapter_4_concept_3_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಬೆಂಕಿ ನಂದಿಸುವ ವಿಧಾನಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "start": 80.502,
+      "end": 123.273,
+      "duration": 42.771,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_8_chapter_4_concept_3_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಬೆಂಕಿ ನಂದಿಸುವ ವಿಧಾನಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "start": 123.873,
+      "end": 171.524,
+      "duration": 47.651,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_8_chapter_4_concept_3_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಅಗ್ನಿಶಾಮಕಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "start": 172.124,
+      "end": 220.935,
+      "duration": 48.811,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_8_chapter_4_concept_3_chunk_006",
+      "chunk_file": "006_property_cont_0_3.json",
+      "wav_file": "006_property_cont_0_3.wav",
+      "slide_title": "ಅಗ್ನಿಶಾಮಕಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "start": 221.535,
+      "end": 271.186,
+      "duration": 49.651,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_8_chapter_4_concept_3_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 271.786,
+      "end": 319.237,
+      "duration": 47.451,
+      "script_words": 61
+    }
+  ]
+}

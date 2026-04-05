@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಲವಣಯುಕ್ತ ನೀರು (Saltwater)",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ಲವಣಯುಕ್ತ ನೀರು ಅಥವಾ ಉಪ್ಪುನೀರಿನ ಬಗ್ಗೆ ನೋಡೋಣ. ಇದು ಭೂಮಿಯ ಮೇಲಿನ ಒಟ್ಟು ನೀರಿನಲ್ಲಿ ತೊಂಬತ್ತೇಳು ಪ್ರತಿಶತಕ್ಕಿಂತಲೂ ಹೆಚ್ಚು ಭಾಗವನ್ನು ಹೊಂದಿದೆ. ಇದು ಮುಖ್ಯವಾಗಿ ಸಾಗರಗಳು ಮತ್ತು ಸಮುದ್ರಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ. ಈ ನೀರಿನಲ್ಲಿ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ಲವಣಗಳು, ಅಂದರೆ ಉಪ್ಪು ಕರಗಿರುವುದರಿಂದ, ಇದನ್ನು ನಾವು ನೇರವಾಗಿ ಕುಡಿಯಲು, ಬಟ್ಟೆ ತೊಳೆಯಲು ಅಥವಾ ಕೃಷಿಗೆ ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಆದ್ದರಿಂದ, ಲಭ್ಯವಿರುವ ನೀರಿನ ಪ್ರಮಾಣ ದೊಡ್ಡದಾಗಿದ್ದರೂ, ಬಳಕೆಗೆ ಯೋಗ್ಯವಾದದ್ದು ಇದಲ್ಲ.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ಲವಣಯುಕ್ತ ನೀರು ಅಥವಾ ಉಪ್ಪುನೀರಿನ (Saltwater) ಬಗ್ಗೆ ನೋಡೋಣ. ಇದು ಭೂಮಿಯ ಮೇಲಿನ ಒಟ್ಟು ನೀರಿನಲ್ಲಿ 97% ಕ್ಕಿಂತಲೂ ಹೆಚ್ಚು ಭಾಗವನ್ನು ಹೊಂದಿದೆ. ಇದು ಮುಖ್ಯವಾಗಿ ಸಾಗರಗಳು ಮತ್ತು ಸಮುದ್ರಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ. ಈ ನೀರಿನಲ್ಲಿ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ಲವಣಗಳು (salts) ಕರಗಿರುವುದರಿಂದ, ಇದನ್ನು ನಾವು ನೇರವಾಗಿ ಕುಡಿಯಲು, ಬಟ್ಟೆ ತೊಳೆಯಲು ಅಥವಾ ಕೃಷಿಗೆ ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಆದ್ದರಿಂದ, ಲಭ್ಯವಿರುವ ನೀರಿನ ಪ್ರಮಾಣ ದೊಡ್ಡದಾಗಿದ್ದರೂ, ಬಳಕೆಗೆ ಯೋಗ್ಯವಾದದ್ದು ಇದಲ್ಲ.",
+  "display_bullets": [
+    "ಭೂಮಿಯ ಮೇಲಿನ 97% ಕ್ಕಿಂತ ಹೆಚ್ಚು ನೀರನ್ನು ಹೊಂದಿದೆ.",
+    "ಸಾಗರಗಳು ಮತ್ತು ಸಮುದ್ರಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ.",
+    "ಹೆಚ್ಚಿನ ಲವಣಾಂಶದಿಂದಾಗಿ ನೇರ ಬಳಕೆಗೆ ಯೋಗ್ಯವಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A vast ocean view, with waves crashing on the shore. The water looks expansive and powerful.",
+    "labels": "Ocean, Saltwater, Waves",
+    "scientific_significance": "Illustrates the primary location of saltwater, reinforcing the concept that it's abundant but not directly accessible for human consumption.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_6_chapter_11_concept_3_chunk_004"
+}

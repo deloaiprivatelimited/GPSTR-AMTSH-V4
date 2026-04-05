@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪರಿಮಾಣದ ಏಕಮಾನಗಳ ಸಂಬಂಧ",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಲೀಟರ್‌ಗಿಂತ ಚಿಕ್ಕ ಪ್ರಮಾಣದ ದ್ರವವನ್ನು ಅಳೆಯಲು ನಾವು ಮಿಲಿಲೀಟರ್ ಅನ್ನು ಬಳಸುತ್ತೇವೆ, ಇದನ್ನು ಎಂ ಎಲ್ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಲೀಟರ್ ಮತ್ತು ಮಿಲಿಲೀಟರ್ ನಡುವಿನ ಸಂಬಂಧ ಹೀಗಿದೆ: ಒಂದು ಲೀಟರ್ ಎಂದರೆ ಒಂದು ಸಾವಿರ ಮಿಲಿಲೀಟರ್‌ಗಳಿಗೆ ಸಮ. ಅಂದರೆ, ಒಂದು ಎಲ್ ಈಕ್ವಲ್ಸ್ ಸಾವಿರ ಎಂ ಎಲ್. ಮತ್ತೊಂದು ಪ್ರಮುಖ ಸಂಬಂಧವೆಂದರೆ, ಒಂದು ಮಿಲಿಲೀಟರ್ ಒಂದು ಘನ ಸೆಂಟಿಮೀಟರ್‌ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ಒಂದು ಎಂ ಎಲ್ ಈಕ್ವಲ್ಸ್ ಒಂದು ಸಿ ಎಂ ಕ್ಯೂಬ್ಡ್. ಔಷಧಿಗಳ ಸಿರಪ್ ಅಥವಾ ರಾಸಾಯನಿಕಗಳ ಸಣ್ಣ ಪ್ರಮಾಣವನ್ನು ಅಳೆಯುವಾಗ ಈ ಏಕಮಾನಗಳು ಬಹಳ ಉಪಯುಕ್ತ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಲೀಟರ್‌ಗಿಂತ ಚಿಕ್ಕ ಪ್ರಮಾಣದ ದ್ರವವನ್ನು ಅಳೆಯಲು ನಾವು ಮಿಲಿಲೀಟರ್ ಅನ್ನು ಬಳಸುತ್ತೇವೆ, ಇದನ್ನು mL ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಲೀಟರ್ ಮತ್ತು ಮಿಲಿಲೀಟರ್ ನಡುವಿನ ಸಂಬಂಧ ಹೀಗಿದೆ: ಒಂದು ಲೀಟರ್ ಎಂದರೆ ಒಂದು ಸಾವಿರ ಮಿಲಿಲೀಟರ್‌ಗಳಿಗೆ ಸಮ. ಅಂದರೆ, 1 L = 1000 mL. ಮತ್ತೊಂದು ಪ್ರಮುಖ ಸಂಬಂಧವೆಂದರೆ, ಒಂದು ಮಿಲಿಲೀಟರ್ ಒಂದು ಘನ ಸೆಂಟಿಮೀಟರ್‌ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಅಂದರೆ, 1 mL = 1 cm³. ಔಷಧಿಗಳ ಸಿರಪ್ ಅಥವಾ ರಾಸಾಯನಿಕಗಳ ಸಣ್ಣ ಪ್ರಮಾಣವನ್ನು ಅಳೆಯುವಾಗ ಈ ಏಕಮಾನಗಳು ಬಹಳ ಉಪಯುಕ್ತ.",
+  "display_bullets": [
+    "ಸಾಮಾನ್ಯ ಏಕಮಾನ: ಮಿಲಿಲೀಟರ್ (mL)",
+    "ಸಂಬಂಧ: 1 L = 1000 mL",
+    "ಸಂಬಂಧ: 1 mL = 1 cm³"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 1-liter water bottle is shown pouring water into a 1000 mL measuring cylinder. The water level in the cylinder is exactly at the 1000 mL mark. Beside this, a small cube with dimensions 1 cm x 1 cm x 1 cm is shown, with a label '1 cm³ = 1 mL'.",
+    "labels": "1 L bottle, 1000 mL measuring cylinder, 1 cm³ cube",
+    "scientific_significance": "Visually explains the relationship between liters, milliliters, and cubic centimeters, which are common units for measuring the volume of liquids.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_6_chapter_6_concept_6_chunk_005"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 3 ಮತ್ತು ನಿರ್ಣಯ",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಮಗೆ ಈಗ ಎರಡು ಜೊತೆ ಸಮನಾದ ಬಾಹುಗಳಿವೆ: OA ಮತ್ತು OB, ಹಾಗೂ OC ಮತ್ತು OD. ಬಾ.ಕೋ.ಬಾ ನಿಯಮವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು, ನಮಗೆ ಈ ಬಾಹುಗಳ ನಡುವಿನ ಕೋನ ಬೇಕು. ತ್ರಿಭುಜ AOC ಯಲ್ಲಿ, OA ಮತ್ತು OC ಬಾಹುಗಳ ನಡುವಿನ ಕೋನವು ಕೋನ AOC ಆಗಿದೆ. ಹಾಗೆಯೇ, ತ್ರಿಭುಜ BOD ಯಲ್ಲಿ, OB ಮತ್ತು OD ಬಾಹುಗಳ ನಡುವಿನ ಕೋನವು ಕೋನ BOD ಆಗಿದೆ. ಚಿತ್ರವನ್ನು ಗಮನಿಸಿದರೆ, AC ಮತ್ತು BD ರೇಖೆಗಳು ಛೇದಿಸುವುದರಿಂದ, ಕೋನ AOC ಮತ್ತು ಕೋನ BOD ಗಳು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ. ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, ಕೋನ AOC ಯು ಕೋನ BOD ಗೆ ಸಮ. ಈಗ ನಮಗೆ ಬಾಹು, ಕೋನ, ಮತ್ತು ಬಾಹು - ಮೂರು ಅಂಶಗಳು ಸಿಕ್ಕಿವೆ. ಆದ್ದರಿಂದ, ಬಾ.ಕೋ.ಬಾ ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ AOC ಯು ತ್ರಿಭುಜ BOD ಗೆ ಸರ್ವಸಮವಾಗಿದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ನಮಗೆ ಈಗ ಎರಡು ಜೊತೆ ಸಮನಾದ ಬಾಹುಗಳಿವೆ: $OA$ ಮತ್ತು $OB$, ಹಾಗೂ $OC$ ಮತ್ತು $OD$. ಬಾ.ಕೋ.ಬಾ ನಿಯಮವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು, ನಮಗೆ ಈ ಬಾಹುಗಳ ನಡುವಿನ ಕೋನ ಬೇಕು.",
+  "display_bullets": [
+    "3. $\\angle AOC = \\angle BOD$ (ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು)",
+    "ಆದ್ದರಿಂದ, ಬಾ.ಕೋ.ಬಾ ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ,",
+    "$\\triangle AOC \\cong \\triangle BOD$ (ಸಾಧಿಸಿದೆ)."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಂತೆಯೇ ಅದೇ ಚಿತ್ರ, ಆದರೆ ಈ ಬಾರಿ ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾದ AOC ಮತ್ತು BOD ಯನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಸಾಧನೆಯ ಮೂರನೇ ಹಂತ, ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳ ಸಮಾನತೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸುವುದು.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_023"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಧಾನ್ಯ ಶೇಖರಣೆ: ನಷ್ಟಕ್ಕೆ ಕಾರಣಗಳು",
+  "script": "ಬೆಳೆಗಳನ್ನು ಕೊಯ್ಲು ಮಾಡಿದ ನಂತರ, ನಮ್ಮ ಕೆಲಸ ಮುಗಿಯುವುದಿಲ್ಲ. ಆ ಧಾನ್ಯಗಳನ್ನು ಮುಂದಿನ ಬೆಳೆ ಬರುವವರೆಗೆ ಅಥವಾ ಮಾರುಕಟ್ಟೆಗೆ ತಲುಪಿಸುವವರೆಗೆ ಸುರಕ್ಷಿತವಾಗಿ ಶೇಖರಿಸಿಡುವುದು ಬಹಳ ಮುಖ್ಯ. ಸರಿಯಾಗಿ ಶೇಖರಿಸದಿದ್ದರೆ, ಧಾನ್ಯದ ಗುಣಮಟ್ಟ ಮತ್ತು ಪ್ರಮಾಣ ಎರಡೂ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಈ ನಷ್ಟಕ್ಕೆ ಮುಖ್ಯವಾಗಿ ಎರಡು ರೀತಿಯ ಕಾರಣಗಳಿವೆ. ಮೊದಲನೆಯದು ಜೈವಿಕ ಅಂಶಗಳು, ಅಂದರೆ ಜೀವಿಗಳಿಂದಾಗುವ ನಷ್ಟ. ಎರಡನೆಯದು ಅಜೈವಿಕ ಅಂಶಗಳು, ಅಂದರೆ ನಿರ್ಜೀವ ಪರಿಸರದ ಘಟಕಗಳಿಂದಾಗುವ ನಷ್ಟ. ಇವುಗಳ ಬಗ್ಗೆ ವಿವರವಾಗಿ ತಿಳಿದುಕೊಳ್ಳೋಣ.",
+  "script_display": "ಬೆಳೆಗಳನ್ನು ಕೊಯ್ಲು ಮಾಡಿದ ನಂತರ, ನಮ್ಮ ಕೆಲಸ ಮುಗಿಯುವುದಿಲ್ಲ. ಆ ಧಾನ್ಯಗಳನ್ನು ಮುಂದಿನ ಬೆಳೆ ಬರುವವರೆಗೆ ಅಥವಾ ಮಾರುಕಟ್ಟೆಗೆ ತಲುಪಿಸುವವರೆಗೆ ಸುರಕ್ಷಿತವಾಗಿ ಶೇಖರಿಸಿಡುವುದು ಬಹಳ ಮುಖ್ಯ. ಸರಿಯಾಗಿ ಶೇಖರಿಸದಿದ್ದರೆ, ಧಾನ್ಯದ ಗುಣಮಟ್ಟ ಮತ್ತು ಪ್ರಮಾಣ ಎರಡೂ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಈ ನಷ್ಟಕ್ಕೆ ಮುಖ್ಯವಾಗಿ ಎರಡು ರೀತಿಯ ಕಾರಣಗಳಿವೆ. ಮೊದಲನೆಯದು ಜೈವಿಕ ಅಂಶಗಳು (Biotic factors), ಅಂದರೆ ಜೀವಿಗಳಿಂದಾಗುವ ನಷ್ಟ. ಎರಡನೆಯದು ಅಜೈವಿಕ ಅಂಶಗಳು (Abiotic factors), ಅಂದರೆ ನಿರ್ಜೀವ ಪರಿಸರದ ಘಟಕಗಳಿಂದಾಗುವ ನಷ್ಟ. ಇವುಗಳ ಬಗ್ಗೆ ವಿವರವಾಗಿ ತಿಳಿದುಕೊಳ್ಳೋಣ.",
+  "display_bullets": [
+    "ಜೈವಿಕ ಅಂಶಗಳು (Biotic factors)",
+    "ಅಜೈವಿಕ ಅಂಶಗಳು (Abiotic factors)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "style_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An image showing a pile of healthy grains on one side and a pile of spoiled, moldy, and insect-infested grains on the other side, with a clear visual contrast.",
+    "labels": "ಆರೋಗ್ಯಕರ ಧಾನ್ಯ, ಹಾಳಾದ ಧಾನ್ಯ",
+    "scientific_significance": "Introduces the concept of grain spoilage during storage.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_7_chunk_010"
+}

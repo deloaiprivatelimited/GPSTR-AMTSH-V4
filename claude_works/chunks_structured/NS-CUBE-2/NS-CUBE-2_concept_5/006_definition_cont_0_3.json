@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಘನ vs ಘನಮೂಲ",
+  "script": "ಘನ ಮತ್ತು ಘನಮೂಲದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಾವು ಒಂದು ಸಂಖ್ಯೆ ನಾಲ್ಕರಿಂದ ಪ್ರಾರಂಭಿಸುತ್ತೇವೆ. ಅದರ ಘನವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ನಾಲ್ಕು ಕ್ಯೂಬ್ಡ್ ಮಾಡುತ್ತೇವೆ, ಅದು ಅರವತ್ತನಾಲ್ಕು ಆಗುತ್ತದೆ. ಇದು ಮುಂದಕ್ಕೆ ಹೋಗುವ ಕ್ರಿಯೆ. ಬಲಭಾಗದಲ್ಲಿ, ನಾವು ಘನ ಸಂಖ್ಯೆ ಅರವತ್ತನಾಲ್ಕರಿಂದ ಪ್ರಾರಂಭಿಸುತ್ತೇವೆ. ಅದರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ, ಅಂದರೆ ಕ್ಯೂಬ್ ರೂಟ್ ಆಫ್ ಅರವತ್ತನಾಲ್ಕು, ಅದು ನಾಲ್ಕು ಆಗುತ್ತದೆ. ಇದು ಹಿಂದಕ್ಕೆ ಬರುವ, ಅಂದರೆ ವಿಲೋಮ ಕ್ರಿಯೆಯಾಗಿದೆ. ಇವೆರಡೂ ಒಂದೇ ನಾಣ್ಯದ ಎರಡು ಮುಖಗಳಿದ್ದಂತೆ. ಒಂದು ಕ್ರಿಯೆಯು ಇನ್ನೊಂದನ್ನು ರದ್ದುಗೊಳಿಸುತ್ತದೆ.",
+  "script_display": "ಘನ ಮತ್ತು ಘನಮೂಲದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಾವು ಒಂದು ಸಂಖ್ಯೆ 4 ರಿಂದ ಪ್ರಾರಂಭಿಸುತ್ತೇವೆ. ಅದರ ಘನವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು $4^3$ ಮಾಡುತ್ತೇವೆ, ಅದು 64 ಆಗುತ್ತದೆ. ಇದು ಮುಂದಕ್ಕೆ ಹೋಗುವ ಕ್ರಿಯೆ. ಬಲಭಾಗದಲ್ಲಿ, ನಾವು ಘನ ಸಂಖ್ಯೆ 64 ರಿಂದ ಪ್ರಾರಂಭಿಸುತ್ತೇವೆ. ಅದರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ, ಅಂದರೆ $\\sqrt[3]{64}$, ಅದು 4 ಆಗುತ್ತದೆ. ಇದು ಹಿಂದಕ್ಕೆ ಬರುವ, ಅಂದರೆ ವಿಲೋಮ ಕ್ರಿಯೆಯಾಗಿದೆ. ಇವೆರಡೂ ಒಂದೇ ನಾಣ್ಯದ ಎರಡು ಮುಖಗಳಿದ್ದಂತೆ. ಒಂದು ಕ್ರಿಯೆಯು ಇನ್ನೊಂದನ್ನು ರದ್ದುಗೊಳಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "video_style_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A two-column table comparing Cube and Cube Root operations. Left column header: 'ಘನ (Cube)', Right column header: 'ಘನಮೂಲ (Cube Root)'. Left content: '$4 \\rightarrow 4^3 = 64$'. Right content: '$64 \\rightarrow \\sqrt[3]{64} = 4$'. Arrows should indicate the direction of the operation."
+  },
+  "chunk_id": "NS-CUBE-2_concept_5_chunk_006"
+}

@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಸಂಭವ ಮತ್ತು ಖಚಿತ ಘಟನೆಗಳು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ದಾಳವನ್ನು ಒಂದು ಸಲ ಎಸೆದಾಗ, ಈ ಕೆಳಗಿನವುಗಳ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಮೊದಲನೆಯದಾಗಿ, 8 ನ್ನು ಪಡೆಯುವುದು. ಎರಡನೆಯದಾಗಿ, 7 ಕ್ಕಿಂತ ಚಿಕ್ಕದಾದ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ದಾಳವನ್ನು ಒಂದು ಸಲ ಎಸೆದಾಗ, ಈ ಕೆಳಗಿನವುಗಳ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಒಂದು ದಾಳವನ್ನು ಒಂದು ಸಲ ಎಸೆದಾಗ, ಈ ಕೆಳಗಿನವುಗಳ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:",
+    "(i) 8 ನ್ನು ಪಡೆಯುವುದು",
+    "(ii) 7 ಕ್ಕಿಂತ ಚಿಕ್ಕದಾದ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವುದು"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A standard six-sided die is shown mid-roll, with faces showing numbers like 1, 3, and 5, to visually represent the problem.",
+    "labels": "ದಾಳ, ಮುಖಗಳು 1 ರಿಂದ 6",
+    "mathematical_significance": "Illustrates the object central to the probability experiment, helping students visualize the sample space.",
+    "placeholder_note": "Image of a single die being rolled."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "PROB-BAS-1_example_impossible_sure",
+  "chunk_id": "PROB-BAS-1_concept_2_chunk_034"
+}

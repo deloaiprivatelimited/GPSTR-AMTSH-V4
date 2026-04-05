@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಬ್ಯೂಟೇನ್ (C₄H₁₀)",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಬ್ಯೂಟೇನ್ ಎಂಬ ಹೈಡ್ರೋಕಾರ್ಬನ್ ಅನ್ನು ಪರಿಗಣಿಸಿ. ಇದರ ಅಣುಸೂತ್ರ ಸಿ ಫೋರ್ ಎಚ್ ಟೆನ್. ಅಂದರೆ, ಇದರಲ್ಲಿ ನಾಲ್ಕು ಕಾರ್ಬನ್ ಮತ್ತು ಹತ್ತು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳಿವೆ. ಈ ಪರಮಾಣುಗಳನ್ನು ನಾವು ಎರಡು ವಿಧಗಳಲ್ಲಿ ಜೋಡಿಸಬಹುದು. ಮೊದಲನೆಯದು ಎನ್-ಬ್ಯೂಟೇನ್, ಇದರಲ್ಲಿ ನಾಲ್ಕೂ ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳು ಒಂದು ನೇರವಾದ ಸರಪಳಿಯಲ್ಲಿವೆ. ಎರಡನೆಯದು ಐಸೋಬ್ಯೂಟೇನ್, ಇದರಲ್ಲಿ ಒಂದು ಕಾರ್ಬನ್ ಪರಮಾಣು ಕವಲೊಡೆದು ಬೇರೆ ರೀತಿಯಲ್ಲಿ ಜೋಡಣೆಗೊಂಡಿದೆ. ಎರಡೂ ರಚನೆಗಳಲ್ಲಿ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆ ಒಂದೇ, ಆದರೆ ಜೋಡಣೆ ಮಾತ್ರ ವಿಭಿನ್ನ.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಬ್ಯೂಟೇನ್ ಎಂಬ ಹೈಡ್ರೋಕಾರ್ಬನ್ ಅನ್ನು ಪರಿಗಣಿಸಿ. ಇದರ ಅಣುಸೂತ್ರ $C_4H_{10}$. ಅಂದರೆ, ಇದರಲ್ಲಿ 4 ಕಾರ್ಬನ್ ಮತ್ತು 10 ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳಿವೆ. ಈ ಪರಮಾಣುಗಳನ್ನು ನಾವು ಎರಡು ವಿಧಗಳಲ್ಲಿ ಜೋಡಿಸಬಹುದು:",
+  "display_bullets": [
+    "ಸಮಾಂಗಿ 1: n-ಬ್ಯೂಟೇನ್ (ನೇರ ಸರಪಳಿ)",
+    "ಸಮಾಂಗಿ 2: ಐಸೋಬ್ಯೂಟೇನ್ (ಕವಲು ಸರಪಳಿ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side comparison of the structures of n-butane and isobutane. n-butane shows a straight chain of 4 carbon atoms. Isobutane shows a chain of 3 carbon atoms with the fourth carbon branching off the middle carbon. Both structures should be clearly labeled with their names (n-butane, isobutane) and the molecular formula C4H10.",
+    "labels": "n-ಬ್ಯೂಟೇನ್, ಐಸೋಬ್ಯೂಟೇನ್, C4H10, ಕಾರ್ಬನ್, ಹೈಡ್ರೋಜನ್",
+    "scientific_significance": "Illustrates the concept of structural isomerism using the simplest alkane that exhibits it. It visually contrasts a straight-chain alkane with its branched-chain isomer, both having the same molecular formula.",
+    "placeholder_note": "Image to be generated showing the two isomers of Butane (C4H10)."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_4_concept_5_chunk_004"
+}

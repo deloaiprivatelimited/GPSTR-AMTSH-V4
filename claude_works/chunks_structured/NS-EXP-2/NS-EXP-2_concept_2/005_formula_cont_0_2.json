@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಯಮದ ಅನ್ವಯ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಈ ನಿಯಮವನ್ನು ಬಳಸಿ ಒಂದು ಲೆಕ್ಕವನ್ನು ಬಿಡಿಸೋಣ. ಸಮಸ್ಯೆ: 5 to the power 4 times 5 to the power 6 ಅನ್ನು ಸಂಕ್ಷೇಪಿಸಿ. ಮೊದಲನೇ ಹಂತ, ಇಲ್ಲಿ ಆಧಾರ ಒಂದೇ ಇದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ. ಹೌದು, ಎರಡೂ ಪದಗಳಲ್ಲಿ ಆಧಾರ 5 ಆಗಿದೆ. ಎರಡನೇ ಹಂತ, ನಿಯಮದಂತೆ ಘಾತಸೂಚಿಗಳನ್ನು ಕೂಡಬೇಕು. ಅಂದರೆ, 5 to the power 4 plus 6. 4 plus 6 equals 10. ಹಾಗಾಗಿ, ಅಂತಿಮ ಉತ್ತರ 5 to the power 10.",
+  "script_display": "ಈಗ ಈ ನಿಯಮವನ್ನು ಬಳಸಿ ಒಂದು ಲೆಕ್ಕವನ್ನು ಬಿಡಿಸೋಣ. ಸಮಸ್ಯೆ: $5^4 \\times 5^6$ ಅನ್ನು ಸಂಕ್ಷೇಪಿಸಿ. ಮೊದಲನೇ ಹಂತ, ಇಲ್ಲಿ ಆಧಾರ ಒಂದೇ ಇದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ. ಹೌದು, ಎರಡೂ ಪದಗಳಲ್ಲಿ ಆಧಾರ 5 ಆಗಿದೆ. ಎರಡನೇ ಹಂತ, ನಿಯಮದಂತೆ ಘಾತಸೂಚಿಗಳನ್ನು ಕೂಡಬೇಕು. ಅಂದರೆ, $5^{4+6}$. $4+6=10$. ಹಾಗಾಗಿ, ಅಂತಿಮ ಉತ್ತರ $5^{10}$.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $5^4 \\times 5^6$ ಅನ್ನು ಸಂಕ್ಷೇಪಿಸಿ.",
+    "ಹಂತ 1: ಆಧಾರ ಒಂದೇ ಆಗಿದೆ (a=5).",
+    "ಹಂತ 2: ನಿಯಮದಂತೆ ಘಾತಸೂಚಿಗಳನ್ನು ಕೂಡಬೇಕು: $5^{4+6}$.",
+    "ಉತ್ತರ: $5^{10}$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_base",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "$$5^4 \\times 5^6 = 5^{4+6} = 5^{10}$$",
+    "placeholder_note": "Calculation for 5^4 times 5^6"
+  },
+  "chunk_id": "NS-EXP-2_concept_2_chunk_005"
+}

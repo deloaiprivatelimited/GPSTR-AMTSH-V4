@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 3, 4 ಮತ್ತು 5",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಪ್ರಮೇಯ 10.1 ಅನ್ನು ಬಳಸೋಣ. ಅದರ ಪ್ರಕಾರ, ಸ್ಪರ್ಶ ಬಿಂದುವಿನಲ್ಲಿ ತ್ರಿಜ್ಯವು ಸ್ಪರ್ಶಕಕ್ಕೆ ಲಂಬವಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ, OP ತ್ರಿಜ್ಯ ಮತ್ತು TP ಸ್ಪರ್ಶಕ. ಆದ್ದರಿಂದ, ಕೋನ OPT ತೊಂಬತ್ತು ಡಿಗ್ರಿ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಕೋನ OPQ ವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಚಿತ್ರವನ್ನು ಗಮನಿಸಿದರೆ, ಕೋನ OPQ ಎಂಬುದು ಕೋನ OPT ಯಿಂದ ಕೋನ TPQ ವನ್ನು ಕಳೆದಾಗ ಸಿಗುತ್ತದೆ. ಈಗ ನಾವು ಹಿಂದಿನ ಹಂತಗಳಲ್ಲಿ ಕಂಡುಕೊಂಡ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. ಕೋನ OPQ ಈಕ್ವಲ್ಸ್ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಮೈನಸ್, ಬ್ರಾಕೆಟ್ ನಲ್ಲಿ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಮೈನಸ್ ತೀಟಾ ಬೈ ಟೂ. ಇದನ್ನು ಬಿಡಿಸಿದಾಗ, ನಮಗೆ ತೀಟಾ ಬೈ ಟೂ ಸಿಗುತ್ತದೆ. ಈಗ ಅಂತಿಮ ಹಂತ. ನಾವು ಕೋನ PTQ ವನ್ನು ತೀಟಾ ಎಂದು ಭಾವಿಸಿದ್ದೆವು ಮತ್ತು ಕೋನ OPQ ವು ತೀಟಾ ಬೈ ಟೂ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಇದರಿಂದ, ಕೋನ PTQ ವು ಕೋನ OPQ ಯ ಎರಡರಷ್ಟಿದೆ ಎಂಬುದು ಸ್ಪಷ್ಟ. ಅಂದರೆ, ಕೋನ PTQ ಈಕ್ವಲ್ಸ್ ಟೂ ಟೈಮ್ಸ್ ಕೋನ OPQ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಪ್ರಮೇಯ 10.1 ಅನ್ನು ಬಳಸೋಣ. ಅದರ ಪ್ರಕಾರ, ಸ್ಪರ್ಶ ಬಿಂದುವಿನಲ್ಲಿ ತ್ರಿಜ್ಯವು ಸ್ಪರ್ಶಕಕ್ಕೆ ಲಂಬವಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ, OP ತ್ರಿಜ್ಯ ಮತ್ತು TP ಸ್ಪರ್ಶಕ. ಆದ್ದರಿಂದ, $\\angle OPT = 90^\\circ$. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಾವು $\\angle OPQ$ ವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಚಿತ್ರವನ್ನು ಗಮನಿಸಿದರೆ, $\\angle OPQ = \\angle OPT - \\angle TPQ$. ಈಗ ನಾವು ಹಿಂದಿನ ಹಂತಗಳಲ್ಲಿ ಕಂಡುಕೊಂಡ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. $\\angle OPQ = 90^\\circ - (90^\\circ - \\frac{\\theta}{2})$. ಇದನ್ನು ಬಿಡಿಸಿದಾಗ, ನಮಗೆ $\\frac{\\theta}{2}$ ಸಿಗುತ್ತದೆ. ಈಗ ಅಂತಿಮ ಹಂತ. ನಾವು $\\angle PTQ$ ವನ್ನು $\\theta$ ಎಂದು ಭಾವಿಸಿದ್ದೆವು ಮತ್ತು $\\angle OPQ$ ವು $\\frac{\\theta}{2}$ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಇದರಿಂದ, $\\angle PTQ$ ವು $\\angle OPQ$ ಯ ಎರಡರಷ್ಟಿದೆ ಎಂಬುದು ಸ್ಪಷ್ಟ. ಅಂದರೆ, $\\angle PTQ = 2 \\times \\angle OPQ$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿರುವ ಅದೇ ರೇಖಾಚಿತ್ರ. ಇಲ್ಲಿ ಲಂಬ ಕೋನ OPT ಅನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. ಕೋನ OPQ ಅನ್ನು ∠OPT ಮತ್ತು ∠TPQ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೆಂದು ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "O, P, T, Q",
+    "mathematical_significance": "ತ್ರಿಜ್ಯ ಮತ್ತು ಸ್ಪರ್ಶಕದ ನಡುವಿನ ಲಂಬ ಸಂಬಂಧವನ್ನು ಮತ್ತು ಕೋನಗಳನ್ನು ಹೇಗೆ ವಿಭಜಿಸಲಾಗಿದೆ ಎಂಬುದನ್ನು ತೋರಿಸಲು.",
+    "placeholder_note": "Reuse diagram, highlight angle OPT as 90 degrees."
+  },
+  "source_example_id": "GEO-CIR-2_example_5",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಪ್ರಮೇಯ 10.1 ರಿಂದ, ತ್ರಿಜ್ಯವು ಸ್ಪರ್ಶಕಕ್ಕೆ ಲಂಬವಾಗಿರುತ್ತದೆ. $\\therefore \\angle OPT = 90^\\circ$.",
+      "justification": "ಸ್ಪರ್ಶ ಬಿಂದುವಿನಲ್ಲಿ ತ್ರಿಜ್ಯವು ಸ್ಪರ್ಶಕಕ್ಕೆ ಲಂಬವಾಗಿರುತ್ತದೆ."
+    },
+    {
+      "step": 4,
+      "action_display": "ಚಿತ್ರದಿಂದ, $\\angle OPQ = \\angle OPT - \\angle TPQ$. ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, $\\angle OPQ = 90^\\circ - (90^\\circ - \\frac{\\theta}{2}) = \\frac{\\theta}{2}$.",
+      "justification": "ಕೋನಗಳ ವ್ಯಕಲನ."
+    },
+    {
+      "step": 5,
+      "action_display": "ನಾವು $\\angle PTQ = \\theta$ ಮತ್ತು $\\angle OPQ = \\frac{\\theta}{2}$ ಎಂದು ಪಡೆದಿದ್ದೇವೆ. $\\implies \\angle PTQ = 2 \\times \\angle OPQ$.",
+      "justification": "ಹಂತ 2 ಮತ್ತು 4 ರಿಂದ ಫಲಿತಾಂಶಗಳನ್ನು ಹೋಲಿಸುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-CIR-2_concept_6_chunk_021"
+}

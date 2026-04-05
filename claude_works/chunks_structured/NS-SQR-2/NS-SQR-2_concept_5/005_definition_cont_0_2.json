@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ತ್ರಿವಳಿ ಯಾವುದು? ಯಾವುದು ಅಲ್ಲ?",
+  "script": "ಈಗ ಒಂದು ಹೋಲಿಕೆ ನೋಡೋಣ. ಮೊದಲಿಗೆ, ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿ ಹೌದೋ ಅಲ್ಲವೋ ಎಂದು ಪರೀಕ್ಷಿಸೋಣ. ಐದು, ಹನ್ನೆರಡು, ಹದಿಮೂರು ಎಂಬ ಸಂಖ್ಯೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಇಲ್ಲಿ ಐದರ ವರ್ಗ ಇಪ್ಪತ್ತೈದು, ಮತ್ತು ಹನ್ನೆರಡರ ವರ್ಗ ನೂರ ನಲವತ್ತನಾಲ್ಕು. ಇವುಗಳ ಮೊತ್ತ ನೂರ ಅರವತ್ತೊಂಬತ್ತು. ದೊಡ್ಡ ಸಂಖ್ಯೆಯಾದ ಹದಿಮೂರರ ವರ್ಗವೂ ನೂರ ಅರವತ್ತೊಂಬತ್ತು. ಇವು ಸಮವಾಗಿವೆ. ಹಾಗಾಗಿ ಇದು ಒಂದು ತ್ರಿವಳಿ. ಈಗ, ತ್ರಿವಳಿ ಅಲ್ಲದ ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಎರಡು, ಮೂರು, ನಾಲ್ಕು ಎಂಬ ಸಂಖ್ಯೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಇಲ್ಲಿ ಎರಡರ ವರ್ಗ ನಾಲ್ಕು, ಮತ್ತು ಮೂರರ ವರ್ಗ ಒಂಬತ್ತು. ಇವುಗಳ ಮೊತ್ತ ಹದಿಮೂರು. ಆದರೆ, ದೊಡ್ಡ ಸಂಖ್ಯೆಯಾದ ನಾಲ್ಕರ ವರ್ಗ ಹದಿನಾರು. ಇಲ್ಲಿ ಹದಿಮೂರು ಮತ್ತು ಹದಿನಾರು ಸಮವಲ್ಲ, ಅಂದರೆ ಅಸಮ. ಆದ್ದರಿಂದ, ಇದು ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿ ಅಲ್ಲ.",
+  "script_display": "ಈಗ ಒಂದು ಹೋಲಿಕೆ ನೋಡೋಣ. ಮೊದಲಿಗೆ, ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿ ಹೌದೋ ಅಲ್ಲವೋ ಎಂದು ಪರೀಕ್ಷಿಸೋಣ. $(5, 12, 13)$ ಎಂಬ ಸಂಖ್ಯೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಇಲ್ಲಿ $5^2 = 25$, ಮತ್ತು $12^2 = 144$. ಇವುಗಳ ಮೊತ್ತ $169$. ದೊಡ್ಡ ಸಂಖ್ಯೆಯಾದ $13$ರ ವರ್ಗವೂ $169$. ಇವು ಸಮವಾಗಿವೆ. ಹಾಗಾಗಿ ಇದು ಒಂದು ತ್ರಿವಳಿ. ಈಗ, ತ್ರಿವಳಿ ಅಲ್ಲದ ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. $(2, 3, 4)$ ಎಂಬ ಸಂಖ್ಯೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಇಲ್ಲಿ $2^2 = 4$, ಮತ್ತು $3^2 = 9$. ಇವುಗಳ ಮೊತ್ತ $13$. ಆದರೆ, ದೊಡ್ಡ ಸಂಖ್ಯೆಯಾದ $4$ರ ವರ್ಗ $16$. ಇಲ್ಲಿ $13 \\neq 16$, ಅಂದರೆ ಅಸಮ. ಆದ್ದರಿಂದ, ಇದು ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿ ಅಲ್ಲ.",
+  "display_bullets": [
+    "ಹೌದು: $(5, 12, 13) \\rightarrow 5^2 + 12^2 = 169$ ಮತ್ತು $13^2 = 169$. (ಸಮ)",
+    "ಅಲ್ಲ: $(2, 3, 4) \\rightarrow 2^2 + 3^2 = 13$ ಆದರೆ $4^2 = 16$. (ಅಸಮ)"
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen layout. Left side titled 'ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿ ಹೌದು' with the example (5, 12, 13). It shows the calculation: 5^2 + 12^2 = 25 + 144 = 169 and 13^2 = 169. A green checkmark is shown. Right side titled 'ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿ ಅಲ್ಲ' with the example (2, 3, 4). It shows the calculation: 2^2 + 3^2 = 4 + 9 = 13 and 4^2 = 16. A red cross mark is shown.",
+    "labels": "Pythagorean Triplet, Not a Pythagorean Triplet, numbers, calculations, checkmark, cross mark",
+    "mathematical_significance": "Contrasts a valid example with an invalid one to reinforce the condition a^2+b^2=c^2.",
+    "placeholder_note": "Image to be generated for split comparison layout."
+  },
+  "chunk_id": "NS-SQR-2_concept_5_chunk_005"
+}

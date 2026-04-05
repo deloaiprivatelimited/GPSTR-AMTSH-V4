@@ -1,0 +1,39 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "'g' ಯ ಮೌಲ್ಯದ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ ನಾವು ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ g ಯ ಮೌಲ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ನಾವು ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ G, ಭೂಮಿಯ ರಾಶಿ M, ಮತ್ತು ಭೂಮಿಯ ತ್ರಿಜ್ಯ R ಗಳ ತಿಳಿದಿರುವ ಮೌಲ್ಯಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ. ಈ ಎಲ್ಲಾ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿದಾಗ, ಮತ್ತು ಗಣಿತದ ಲೆಕ್ಕಾಚಾರವನ್ನು ಮಾಡಿದಾಗ, ನಮಗೆ g ಯ ಮೌಲ್ಯವು ಸರಿಸುಮಾರು ಒಂಬತ್ತು ಪಾಯಿಂಟ್ ಎಂಟು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್ ಎಂದು ಸಿಗುತ್ತದೆ. ಇದು ಭೂಮಿಯ ಮೇಲ್ಮೈಯಲ್ಲಿ ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷದ ಪ್ರಮಾಣಿತ ಮೌಲ್ಯವಾಗಿದೆ ಮತ್ತು ಇದನ್ನು ಅನೇಕ ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು 'g' ಯ ಮೌಲ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ನಾವು ಈ ಕೆಳಗಿನ ಪ್ರಮಾಣಿತ ಮೌಲ್ಯಗಳನ್ನು ಬಳಸುತ್ತೇವೆ:",
+  "display_bullets": [
+    "ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ, $G \\approx 6.67 \\times 10^{-11} \\text{ N m}^2/\\text{kg}^2$",
+    "ಭೂಮಿಯ ರಾಶಿ, $M \\approx 6 \\times 10^{24} \\text{ kg}$",
+    "ಭೂಮಿಯ ತ್ರಿಜ್ಯ, $R \\approx 6.4 \\times 10^6 \\text{ m}$",
+    "ಲೆಕ್ಕಾಚಾರದ ಫಲಿತಾಂಶ: $g \\approx 9.8 \\text{ m/s}^2$"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "g = \\frac{(6.67 \\times 10^{-11}) \\times (6 \\times 10^{24})}{(6.4 \\times 10^6)^2} \\approx 9.8 \\text{ m/s}^2",
+    "placeholder_note": "Calculation of g using standard values for G, M, and R."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "medium",
+  "source_example_id": "Acceleration due to Gravity on Earth's Surface",
+  "chunk_id": "std_9_chapter_9_concept_3_chunk_016"
+}

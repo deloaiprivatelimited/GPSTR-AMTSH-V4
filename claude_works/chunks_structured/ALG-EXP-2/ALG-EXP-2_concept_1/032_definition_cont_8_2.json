@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಜಾತಿ vs. ವಿಜಾತಿ ಪದಗಳು",
+  "script": "ಸಜಾತಿ ಪದಗಳ ಪರಿಕಲ್ಪನೆಯನ್ನು ದೃಢಪಡಿಸಲು, ಅವುಗಳನ್ನು ವಿಜಾತಿ ಪದಗಳಿಗೆ ಹೋಲಿಸಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಸಜಾತಿ ಪದಗಳಿವೆ: 7x, ಮೈನಸ್ 2x, ಮತ್ತು x. ಈ ಎಲ್ಲಾ ಪದಗಳಲ್ಲಿ ಚರಾಕ್ಷರ ಭಾಗ 'x' ಒಂದೇ ಆಗಿದೆ. ಆದ್ದರಿಂದ ಇವು ಸಜಾತಿ ಪದಗಳು. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ವಿಜಾತಿ ಪದಗಳನ್ನು ನೋಡಿ: 7x, 7y, ಮತ್ತು 7xy. ಇಲ್ಲಿ ಸಹಗುಣಕ 7 ಒಂದೇ ಆಗಿದ್ದರೂ, ಚರಾಕ್ಷರ ಭಾಗಗಳು ಕ್ರಮವಾಗಿ x, y, ಮತ್ತು xy ಆಗಿವೆ. ಇವು ಬೇರೆ ಬೇರೆಯಾಗಿರುವುದರಿಂದ, ಇವುಗಳನ್ನು ವಿಜಾತಿ ಪದಗಳು ಅಥವಾ ಅನ್ಲೈಕ್ ಟರ್ಮ್ಸ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಸಜಾತಿ ಪದಗಳ ಪರಿಕಲ್ಪನೆಯನ್ನು ದೃಢಪಡಿಸಲು, ಅವುಗಳನ್ನು ವಿಜಾತಿ ಪದಗಳಿಗೆ (Unlike Terms) ಹೋಲಿಸಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಸಜಾತಿ ಪದಗಳಿವೆ: $7x, -2x, x$. ಈ ಎಲ್ಲಾ ಪದಗಳಲ್ಲಿ ಚರಾಕ್ಷರ ಭಾಗ '$x$' ಒಂದೇ ಆಗಿದೆ. ಆದ್ದರಿಂದ ಇವು ಸಜಾತಿ ಪದಗಳು. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ವಿಜಾತಿ ಪದಗಳನ್ನು ನೋಡಿ: $7x, 7y, 7xy$. ಇಲ್ಲಿ ಸಹಗುಣಕ $7$ ಒಂದೇ ಆಗಿದ್ದರೂ, ಚರಾಕ್ಷರ ಭಾಗಗಳು ಕ್ರಮವಾಗಿ $x, y, xy$ ಆಗಿವೆ. ಇವು ಬೇರೆ ಬೇರೆಯಾಗಿರುವುದರಿಂದ, ಇವುಗಳನ್ನು ವಿಜಾತಿ ಪದಗಳು ಅಥವಾ Unlike Terms ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಜಾತಿ ಪದಗಳು: $7x, -2x, x$ (ಚರಾಕ್ಷರ ಭಾಗ '$x$' ಒಂದೇ).",
+    "ವಿಜಾತಿ ಪದಗಳು: $7x, 7y, 7xy$ (ಚರಾಕ್ಷರ ಭಾಗಗಳು $x, y, xy$ ಬೇರೆ ಬೇರೆ)."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "template_2",
+    "text_zone": "full",
+    "visual_zone": "full",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen comparison. Left side titled 'ಸಜಾತಿ ಪದಗಳು' with examples $7x, -2x, x$ and a note 'ಚರಾಕ್ಷರ ಭಾಗ: x (ಒಂದೇ)'. Right side titled 'ವಿಜಾತಿ ಪದಗಳು' with examples $7x, 7y, 7xy$ and a note 'ಚರಾಕ್ಷರ ಭಾಗಗಳು: x, y, xy (ಬೇರೆ ಬೇರೆ)'.",
+    "labels": "Like terms, Unlike terms, variable part",
+    "mathematical_significance": "Visually contrasts like terms (same variable part) with unlike terms (different variable parts) to clarify the definition.",
+    "placeholder_note": "Generate a split-screen image as described."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "ALG-EXP-2_concept_1_chunk_032"
+}

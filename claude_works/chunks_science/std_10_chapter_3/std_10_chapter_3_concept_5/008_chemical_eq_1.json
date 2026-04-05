@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸೋಡಿಯಂ ಮತ್ತು ನೀರಿನ ವರ್ತನೆ: ಸಮೀಕರಣ",
+  "script": "ಈಗ ನಾವು ಸೋಡಿಯಂ ಲೋಹವು ನೀರಿನೊಂದಿಗೆ ಹೇಗೆ ವರ್ತಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡೋಣ. ಎರಡು ಸೋಡಿಯಂ ಪರಮಾಣುಗಳು, ಘನ ಸ್ಥಿತಿಯಲ್ಲಿ, ಎರಡು ನೀರಿನ ಅಣುಗಳೊಂದಿಗೆ, ದ್ರವ ಸ್ಥಿತಿಯಲ್ಲಿ, ವರ್ತಿಸಿ ಎರಡು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಣುಗಳನ್ನು, ಜಲೀಯ ದ್ರಾವಣದಲ್ಲಿ, ಮತ್ತು ಒಂದು ಹೈಡ್ರೋಜನ್ ಅನಿಲದ ಅಣುವನ್ನು, ಅನಿಲ ಸ್ಥಿತಿಯಲ್ಲಿ, ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಉಷ್ಣ ಶಕ್ತಿಯೂ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಸೋಡಿಯಂ ಲೋಹವು ನೀರಿನೊಂದಿಗೆ ಹೇಗೆ ವರ್ತಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡೋಣ. 2 ಸೋಡಿಯಂ ಪರಮಾಣುಗಳು (ಘನ), 2 ನೀರಿನ ಅಣುಗಳೊಂದಿಗೆ (ದ್ರವ) ವರ್ತಿಸಿ, 2 ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಣುಗಳು (ಜಲೀಯ) ಮತ್ತು 1 ಹೈಡ್ರೋಜನ್ ಅನಿಲದ ಅಣುವನ್ನು (ಅನಿಲ) ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಉಷ್ಣ ಶಕ್ತಿಯೂ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2\\text{Na(s)} + 2\\text{H}_2\\text{O(l)} \\rightarrow 2\\text{NaOH(aq)} + \\text{H}_2\\text{(g)} + \\text{ಉಷ್ಣ ಶಕ್ತಿ}",
+    "placeholder_note": "Balanced chemical equation for the reaction of Sodium with Water."
+  },
+  "chunk_id": "std_10_chapter_3_concept_5_chunk_008"
+}

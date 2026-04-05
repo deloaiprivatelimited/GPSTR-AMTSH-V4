@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹಿಮ್ಮೆದುಳು (Hindbrain)",
+  "script": "ಮಿದುಳಿನ ಕೊನೆಯ ಭಾಗ ಹಿಮ್ಮೆದುಳು. ಇದು ನಮ್ಮ ದೇಹದ ಅನೇಕ ಮೂಲಭೂತ ಮತ್ತು ಜೀವಧಾರಕ ಕಾರ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ. ಇದು ಮೂರು ಮುಖ್ಯ ಭಾಗಗಳನ್ನು ಹೊಂದಿದೆ. ಮೊದಲನೆಯದು ಅನುಮಸ್ತಿಷ್ಕ. ಇದು ದೇಹದ ಭಂಗಿ ಮತ್ತು ಸಮತೋಲನವನ್ನು ಕಾಪಾಡುತ್ತದೆ. ಸೈಕಲ್ ಓಡಿಸುವಾಗ ಸಮತೋಲನ ಕಾಯ್ದುಕೊಳ್ಳಲು ಇದೇ ಕಾರಣ. ಎರಡನೆಯದು ಪಾನ್ಸ್, ಇದು ಉಸಿರಾಟದ ನಿಯಂತ್ರಣದಲ್ಲಿ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಮೂರನೆಯದು ಮೆಡುಲ್ಲಾ, ಇದು ಹೃದಯ ಬಡಿತ, ರಕ್ತದೊತ್ತಡ, ಮತ್ತು ಕೆಮ್ಮುವಿಕೆಯಂತಹ ಎಲ್ಲಾ ಅನೈಚ್ಛಿಕ ಕ್ರಿಯೆಗಳನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ. ಈ ಭಾಗಗಳು ನಮ್ಮ ಅರಿವಿಲ್ಲದೆ ನಮ್ಮನ್ನು ಜೀವಂತವಾಗಿರಿಸಲು ಕೆಲಸ ಮಾಡುತ್ತವೆ.",
+  "script_display": "ಹಿಮ್ಮೆದುಳು (Hindbrain) ಮೂರು ಮುಖ್ಯ ಭಾಗಗಳನ್ನು ಹೊಂದಿದೆ, ಇವು ದೇಹದ ಮೂಲಭೂತ ಕಾರ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಅನುಮಸ್ತಿಷ್ಕ (Cerebellum): ದೇಹದ ಭಂಗಿ ಮತ್ತು ಸಮತೋಲನವನ್ನು ಕಾಪಾಡುತ್ತದೆ, ಐಚ್ಛಿಕ ಕ್ರಿಯೆಗಳ ನಿಖರತೆಯನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ.",
+    "ಪಾನ್ಸ್ (Pons): ಉಸಿರಾಟದ ಕ್ರಿಯೆಯನ್ನು ನಿಯಂತ್ರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+    "ಮೆಡುಲ್ಲಾ (Medulla): ಹೃದಯ ಬಡಿತ, ರಕ್ತದೊತ್ತಡದಂತಹ ಎಲ್ಲಾ ಅನೈಚ್ಛಿಕ ಕ್ರಿಯೆಗಳನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "default",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of the human brain with the three parts of the hindbrain (cerebellum, pons, medulla) highlighted and labeled.",
+    "labels": "ಅನುಮಸ್ತಿಷ್ಕ, ಪಾನ್ಸ್, ಮೆಡುಲ್ಲಾ",
+    "scientific_significance": "Illustrates the components of the hindbrain, which are responsible for vital autonomic functions and motor coordination.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_6_concept_3_chunk_006"
+}

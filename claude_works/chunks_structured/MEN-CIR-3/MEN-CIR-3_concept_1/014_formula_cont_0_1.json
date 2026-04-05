@@ -1,0 +1,36 @@
+{
+  "type": "formula_showcase",
+  "slide_title": "ಕಂಸದ ಉದ್ದದ ಸೂತ್ರ",
+  "script": "ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ಕಂಸದ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರ ಇಲ್ಲಿದೆ. l ಸಮನಾಗಿರುತ್ತದೆ ತೀಟಾ ಭಾಗಿಸು ಮುನ್ನೂರ ಅರವತ್ತು, ಗುಣಿಸು ಎರಡು ಪೈ ಆರ್. ಈ ಸೂತ್ರದಲ್ಲಿನ ಪ್ರತಿಯೊಂದು ಚಿಹ್ನೆಯ ಅರ್ಥವನ್ನು ತಿಳಿದುಕೊಳ್ಳೋಣ. l ಎಂದರೆ ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದ ಕಂಸದ ಉದ್ದ. ತೀಟಾ ಎಂದರೆ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡವು ವೃತ್ತದ ಕೇಂದ್ರದಲ್ಲಿ ಉಂಟುಮಾಡುವ ಕೋನ, ಇದನ್ನು ಯಾವಾಗಲೂ ಡಿಗ್ರಿಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ. ಆರ್ ಎಂಬುದು ವೃತ್ತದ ತ್ರಿಜ್ಯ. ಮತ್ತು ಎರಡು ಪೈ ಆರ್ ಎಂಬುದು ವೃತ್ತದ ಸಂಪೂರ್ಣ ಪರಿಧಿ ಎಂದು ನಿಮಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿದೆ.",
+  "script_display": "ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ಕಂಸದ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರ ಇಲ್ಲಿದೆ: $l = \\frac{\\theta}{360^\\circ} \\times 2\\pi r$. ಈ ಸೂತ್ರದಲ್ಲಿನ ಪ್ರತಿಯೊಂದು ಚಿಹ್ನೆಯ ಅರ್ಥವನ್ನು ತಿಳಿದುಕೊಳ್ಳೋಣ. * $l$ ಎಂದರೆ ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದ ಕಂಸದ ಉದ್ದ (Length of the arc). * $\\theta$ ಎಂದರೆ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡವು ವೃತ್ತದ ಕೇಂದ್ರದಲ್ಲಿ ಉಂಟುಮಾಡುವ ಕೋನ, ಇದನ್ನು ಯಾವಾಗಲೂ ಡಿಗ್ರಿಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ. * $r$ ಎಂಬುದು ವೃತ್ತದ ತ್ರಿಜ್ಯ (Radius). * $2\\pi r$ ಎಂಬುದು ವೃತ್ತದ ಸಂಪೂರ್ಣ ಪರಿಧಿ (Circumference).",
+  "display_bullets": [
+    "$l$ = ಕಂಸದ ಉದ್ದ (Length of the arc)",
+    "$\\theta$ = ಕೇಂದ್ರದಲ್ಲಿನ ಕೋನ (ಡಿಗ್ರಿಗಳಲ್ಲಿ)",
+    "$r$ = ವೃತ್ತದ ತ್ರಿಜ್ಯ (Radius)",
+    "$2\\pi r$ = ವೃತ್ತದ ಪರಿಧಿ (Circumference)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "l = \\frac{\\theta}{360^\\circ} \\times 2\\pi r",
+    "placeholder_note": "Formula for the length of the arc of a sector."
+  },
+  "chunk_id": "MEN-CIR-3_concept_1_chunk_014"
+}

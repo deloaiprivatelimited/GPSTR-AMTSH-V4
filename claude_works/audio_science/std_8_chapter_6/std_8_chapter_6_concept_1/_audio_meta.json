@@ -1,0 +1,59 @@
+{
+  "module_id": "std_8_chapter_6_concept_1",
+  "chapter_code": "std_8_chapter_6",
+  "voice": "Erinome",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 4,
+  "ok_count": 4,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:01:03",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "6a14424f441c31703792f544c9e1b7d1",
+      "wav_file": "001_intro_0.wav",
+      "duration": 57.131,
+      "slide_title": "ಸಂತಾನೋತ್ಪತ್ತಿಯ ವಿಧಗಳು",
+      "type": "intro",
+      "script_words": 76,
+      "generated_at": "2026-04-02 15:00:42"
+    },
+    "002_classification_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "34fcb33013141ace78dff1756cad063b",
+      "wav_file": "002_classification_0.wav",
+      "duration": 61.491,
+      "slide_title": "ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ (Sexual Reproduction)",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-04-02 15:00:49"
+    },
+    "004_recap_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "3dac80830c2dfd809402711c2f847a8b",
+      "wav_file": "004_recap_0.wav",
+      "duration": 35.571,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 45,
+      "generated_at": "2026-04-02 15:00:55"
+    },
+    "003_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "1f4baa1b4d301548105112aae3b28dd2",
+      "wav_file": "003_classification_cont_0_1.wav",
+      "duration": 47.371,
+      "slide_title": "ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ (Asexual Reproduction)",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 15:01:03"
+    }
+  }
+}

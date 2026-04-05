@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಯೋಗದ ತೀರ್ಮಾನ",
+  "script": "ಈ ಚಟುವಟಿಕೆಯಿಂದ ನಾವು ಒಂದು ಪ್ರಮುಖ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು. ಕಾಂತಗಳ ಸಜಾತೀಯ ಧ್ರುವಗಳು, ಅಂದರೆ ಉತ್ತರ-ಉತ್ತರ ಅಥವಾ ದಕ್ಷಿಣ-ದಕ್ಷಿಣ ಧ್ರುವಗಳು, ಪರಸ್ಪರ ವಿಕರ್ಷಿಸುತ್ತವೆ. ಅದೇ ರೀತಿ, ಕಾಂತಗಳ ವಿಜಾತೀಯ ಧ್ರುವಗಳು, ಅಂದರೆ ಉತ್ತರ-ದಕ್ಷಿಣ ಧ್ರುವಗಳು, ಪರಸ್ಪರ ಆಕರ್ಷಿಸುತ್ತವೆ. ಇದು ಕಾಂತೀಯತೆಯ ಒಂದು ಮೂಲಭೂತ ನಿಯಮವಾಗಿದೆ. ನೆನಪಿಡಿ, ವಿಕರ್ಷಣೆಯು ಕಾಂತತ್ವದ ಖಚಿತ ಪರೀಕ್ಷೆಯಾಗಿದೆ. ಏಕೆಂದರೆ ಒಂದು ಕಾಂತವು ಕಬ್ಬಿಣದಂತಹ ಕಾಂತೀಯ ವಸ್ತುವನ್ನು ಆಕರ್ಷಿಸಬಲ್ಲದು, ಆದರೆ ಇನ್ನೊಂದು ಕಾಂತವನ್ನು ಮಾತ್ರ ವಿಕರ್ಷಿಸಲು ಸಾಧ್ಯ.",
+  "script_display": "ಈ ಚಟುವಟಿಕೆಯಿಂದ ನಾವು ಒಂದು ಪ್ರಮುಖ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು. ಕಾಂತಗಳ ಸಜಾತೀಯ ಧ್ರುವಗಳು (ಉದಾ: N-N, S-S) ಪರಸ್ಪರ ವಿಕರ್ಷಿಸುತ್ತವೆ. ಕಾಂತಗಳ ವಿಜಾತೀಯ ಧ್ರುವಗಳು (ಉದಾ: N-S) ಪರಸ್ಪರ ಆಕರ್ಷಿಸುತ್ತವೆ. ಇದು ಕಾಂತೀಯತೆಯ ಮೂಲಭೂತ ನಿಯಮವಾಗಿದೆ. ನೆನಪಿಡಿ: ವಿಕರ್ಷಣೆಯು ಕಾಂತತ್ವದ ಖಚಿತ ಪರೀಕ್ಷೆಯಾಗಿದೆ (Repulsion is the surest test for magnetism).",
+  "display_bullets": [
+    "ಸಜಾತೀಯ ಧ್ರುವಗಳು (Like poles) ಪರಸ್ಪರ ವಿಕರ್ಷಿಸುತ್ತವೆ. (ಉದಾ: N-N, S-S)",
+    "ವಿಜಾತೀಯ ಧ್ರುವಗಳು (Unlike poles) ಪರಸ್ಪರ ಆಕರ್ಷಿಸುತ್ತವೆ. (ಉದಾ: N-S)",
+    "ಪ್ರಮುಖ ಅಂಶ: ವಿಕರ್ಷಣೆಯು ಕಾಂತತ್ವದ ಖಚಿತ ಪರೀಕ್ಷೆಯಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "template_5",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\begin{cases} \\text{ಸಜಾತೀಯ ಧ್ರುವಗಳು} & \\rightarrow & \\text{ವಿಕರ್ಷಣೆ} \\\\ \\text{ವಿಜಾತೀಯ ಧ್ರುವಗಳು} & \\rightarrow & \\text{ಆಕರ್ಷಣೆ} \\end{cases}",
+    "placeholder_note": "A box summarizing the rules of magnetic interaction: Like poles repel, Unlike poles attract."
+  },
+  "sub_type": "key_takeaway",
+  "chunk_id": "std_6_chapter_4_concept_5_chunk_013"
+}

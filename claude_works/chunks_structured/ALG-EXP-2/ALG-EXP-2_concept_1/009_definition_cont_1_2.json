@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪದ (Term): ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಇದನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ನೋಡೋಣ. ಬೀಜೋಕ್ತಿ ಏಳು x ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ನಾಲ್ಕು x ಪ್ಲಸ್ ಐದನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಪದವನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಗುರುತಿಸಬಹುದು. ಮೊದಲನೇ ಪದ ಏಳು x ಸ್ಕ್ವೇರ್ಡ್. ಎರಡನೇ ಪದ ಮೈನಸ್ ನಾಲ್ಕು x. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ಪದದ ಜೊತೆಗಿನ ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಬೇಕು. ಹಾಗಾಗಿ, ಎರಡನೇ ಪದ ಕೇವಲ ನಾಲ್ಕು x ಅಲ್ಲ, ಅದು ಮೈನಸ್ ನಾಲ್ಕು x. ಮೂರನೇ ಪದ ಪ್ಲಸ್ ಐದು, ಅಥವಾ ಸರಳವಾಗಿ ಐದು. ಹೀಗೆ ಈ ಬೀಜೋಕ್ತಿಯು ಮೂರು ಪದಗಳಿಂದ ಕೂಡಿದೆ.",
+  "script_display": "ಇದನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ನೋಡೋಣ. ಬೀಜೋಕ್ತಿ $7x^2 - 4x + 5$ ಅನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಪದವನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಗುರುತಿಸಬಹುದು. ಮೊದಲನೇ ಪದ $7x^2$. ಎರಡನೇ ಪದ $-4x$. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ಪದದ ಜೊತೆಗಿನ ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಬೇಕು. ಹಾಗಾಗಿ, ಎರಡನೇ ಪದ ಕೇವಲ $4x$ ಅಲ್ಲ, ಅದು $-4x$. ಮೂರನೇ ಪದ $+5$, ಅಥವಾ ಸರಳವಾಗಿ $5$. ಹೀಗೆ ಈ ಬೀಜೋಕ್ತಿಯು ಮೂರು ಪದಗಳಿಂದ ಕೂಡಿದೆ.",
+  "display_bullets": [
+    "ಮೊದಲನೇ ಪದ: $7x^2$",
+    "ಎರಡನೇ ಪದ: $-4x$ (ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಬೇಕು)",
+    "ಮೂರನೇ ಪದ: $+5$ (ಅಥವಾ $5$)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The algebraic expression 7x^2 - 4x + 5 is shown. Each term is individually circled or highlighted. The first circle is around '7x^2'. The second circle is around '-4x', including the minus sign. The third circle is around '+5', including the plus sign.",
+    "labels": "algebraic expression, term 1, term 2, term 3, plus sign, minus sign",
+    "mathematical_significance": "Visually separates the terms of an algebraic expression to reinforce the definition.",
+    "placeholder_note": "Image to be generated showing the expression with terms circled."
+  },
+  "chunk_id": "ALG-EXP-2_concept_1_chunk_009"
+}

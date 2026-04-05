@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಆವೇಶಪೂರಿತ ಮತ್ತು ಆವೇಶರಹಿತ ವಸ್ತುಗಳ ಹೋಲಿಕೆ",
+  "script": "ಈಗ ನಾವು ಆವೇಶಪೂರಿತ ಮತ್ತು ಆವೇಶರಹಿತ ವಸ್ತುವಿನ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಉಜ್ಜದ ಬಾಚಣಿಗೆ ಇದೆ. ಇದು ವಿದ್ಯುತ್ ತಟಸ್ಥವಾಗಿದೆ, ಅಂದರೆ ಇದರಲ್ಲಿ ಯಾವುದೇ ನಿವ್ವಳ ಆವೇಶವಿಲ್ಲ. ಆದ್ದರಿಂದ, ಇದು ಕಾಗದದ ಚೂರುಗಳನ್ನು ಆಕರ್ಷಿಸುವುದಿಲ್ಲ. ಆದರೆ, ಬಲಭಾಗದಲ್ಲಿರುವ ಬಾಚಣಿಗೆಯನ್ನು ಒಣ ಕೂದಲಿಗೆ ಉಜ್ಜಲಾಗಿದೆ. ಈ ಘರ್ಷಣೆಯಿಂದಾಗಿ ಅದು ಆವೇಶವನ್ನು ಪಡೆದುಕೊಂಡಿದೆ. ಆದ್ದರಿಂದ, ಅದು ಕಾಗದದ ಚೂರುಗಳನ್ನು ತನ್ನತ್ತ ಸೆಳೆಯುತ್ತದೆ. ಈ ಹೋಲಿಕೆಯಿಂದ, ಘರ್ಷಣೆಯು ವಸ್ತುಗಳನ್ನು ಹೇಗೆ ಆವೇಶಪೂರಿತಗೊಳಿಸುತ್ತದೆ ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಆವೇಶಪೂರಿತ ಮತ್ತು ಆವೇಶರಹಿತ ವಸ್ತುವಿನ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಉಜ್ಜದ ಬಾಚಣಿಗೆ ಇದೆ. ಇದು ವಿದ್ಯುತ್ ತಟಸ್ಥವಾಗಿದೆ, ಅಂದರೆ ಇದರಲ್ಲಿ ಯಾವುದೇ ನಿವ್ವಳ ಆವೇಶವಿಲ್ಲ. ಆದ್ದರಿಂದ, ಇದು ಕಾಗದದ ಚೂರುಗಳನ್ನು ಆಕರ್ಷಿಸುವುದಿಲ್ಲ. ಆದರೆ, ಬಲಭಾಗದಲ್ಲಿರುವ ಬಾಚಣಿಗೆಯನ್ನು ಒಣ ಕೂದಲಿಗೆ ಉಜ್ಜಲಾಗಿದೆ. ಈ ಘರ್ಷಣೆಯಿಂದಾಗಿ ಅದು ಆವೇಶವನ್ನು ಪಡೆದುಕೊಂಡಿದೆ. ಆದ್ದರಿಂದ, ಅದು ಕಾಗದದ ಚೂರುಗಳನ್ನು ತನ್ನತ್ತ ಸೆಳೆಯುತ್ತದೆ. ಈ ಹೋಲಿಕೆಯಿಂದ, ಘರ್ಷಣೆಯು ವಸ್ತುಗಳನ್ನು ಹೇಗೆ ಆವೇಶಪೂರಿತಗೊಳಿಸುತ್ತದೆ ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "left_vs_right",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. Left side shows an unrubbed comb near paper bits with no attraction, labeled 'ಆವೇಶರಹಿತ ವಸ್ತು (Uncharged Object)'. Right side shows a rubbed comb attracting paper bits, labeled 'ಆವೇಶಪೂರಿತ ವಸ್ತು (Charged Object)'.",
+    "labels": "ಎಡಭಾಗ: ಉಜ್ಜದ ಬಾಚಣಿಗೆ, ಆಕರ್ಷಣೆ ಇಲ್ಲ. ಬಲಭಾಗ: ಉಜ್ಜಿದ ಬಾಚಣಿಗೆ, ಆಕರ್ಷಣೆ ಇದೆ.",
+    "scientific_significance": "This visual directly contrasts the behavior of a neutral object with a charged object, reinforcing that charging by friction causes a change in the object's properties, enabling it to exert an electric force.",
+    "placeholder_note": "Generate a split-screen image comparing an uncharged comb and a charged comb's effect on paper."
+  },
+  "chunk_id": "std_8_science_ch_12_concept_1_chunk_005"
+}

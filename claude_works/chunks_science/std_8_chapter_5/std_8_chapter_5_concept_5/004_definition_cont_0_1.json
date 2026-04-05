@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಮರುಅರಣೀಕರಣದ ಪರಿಕಲ್ಪನೆ",
+  "script": "ಈಗ, ಮರುಅರಣೀಕರಣ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ, ಒಂದು ಕಡೆ ಅರಣ್ಯನಾಶದಿಂದಾಗಿ ಭೂಮಿ ಸಂಪೂರ್ಣ ಬಂಜರಾಗಿದೆ. ಇದು ಅರಣ್ಯನಾಶವಾದ ಪ್ರದೇಶ. ನಂತರ, ಆ ಜಾಗದಲ್ಲಿ ನಾವು ಸಸಿಗಳನ್ನು ನೆಡುವ ಮೂಲಕ ಪುನಃಸ್ಥಾಪನೆ ಮಾಡುತ್ತೇವೆ. ಇದು ಮರುಅರಣೀಕರಣದ ಆರಂಭ. ಕಾಲಕ್ರಮೇಣ, ಈ ಸಸಿಗಳು ಬೆಳೆದು ದೊಡ್ಡ ಮರಗಳಾಗುತ್ತವೆ ಮತ್ತು ಆ ಪ್ರದೇಶವು ಮತ್ತೆ ಹಸಿರಿನಿಂದ ಕಂಗೊಳಿಸುವ ಹೊಸ ಅರಣ್ಯದ ಬೆಳವಣಿಗೆಯನ್ನು ಕಾಣುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಪರಿಸರ ಸಮತೋಲನವನ್ನು ಮರಳಿ ತರಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ, ಮರುಅರಣೀಕರಣ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ, ಒಂದು ಕಡೆ ಅರಣ್ಯನಾಶದಿಂದಾಗಿ ಭೂಮಿ ಸಂಪೂರ್ಣ ಬಂಜರಾಗಿದೆ. ಇದು ಅರಣ್ಯನಾಶವಾದ ಪ್ರದೇಶ. ನಂತರ, ಆ ಜಾಗದಲ್ಲಿ ನಾವು ಸಸಿಗಳನ್ನು ನೆಡುವ ಮೂಲಕ ಪುನಃಸ್ಥಾಪನೆ ಮಾಡುತ್ತೇವೆ. ಇದು ಮರುಅರಣೀಕರಣದ ಆರಂಭ. ಕಾಲಕ್ರಮೇಣ, ಈ ಸಸಿಗಳು ಬೆಳೆದು ದೊಡ್ಡ ಮರಗಳಾಗುತ್ತವೆ ಮತ್ತು ಆ ಪ್ರದೇಶವು ಮತ್ತೆ ಹಸಿರಿನಿಂದ ಕಂಗೊಳಿಸುವ ಹೊಸ ಅರಣ್ಯದ ಬೆಳವಣಿಗೆಯನ್ನು ಕಾಣುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಪರಿಸರ ಸಮತೋಲನವನ್ನು ಮರಳಿ ತರಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅರಣ್ಯನಾಶವಾದ ಪ್ರದೇಶ (ಬಂಜರು ಭೂಮಿ)",
+    "ಸಸಿಗಳನ್ನು ನೆಡುವ ಮೂಲಕ ಪುನಃಸ್ಥಾಪನೆ",
+    "ಹೊಸ ಅರಣ್ಯದ ಬೆಳವಣಿಗೆ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-panel image showing the process of reforestation. The left panel, labeled 'Before' (ಹಿಂದೆ), shows a barren landscape with tree stumps, representing deforestation. An arrow points to the right panel, labeled 'After' (ನಂತರ), which shows the same landscape now filled with numerous young, growing trees, representing a newly reforested area.",
+    "labels": "deforestation, barren land, saplings, reforestation, new forest",
+    "scientific_significance": "Visually contrasts a deforested area with a reforested one, making the concept of ecological restoration intuitive and easy to grasp.",
+    "placeholder_note": "Image to be generated showing a before/after of reforestation."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_5_concept_5_chunk_004"
+}

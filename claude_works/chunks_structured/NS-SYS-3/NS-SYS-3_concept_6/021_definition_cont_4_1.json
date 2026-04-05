@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "a^(m/n) ನ ವ್ಯಾಖ್ಯಾನ",
+  "script": "ಹಾಗಾದರೆ, a to the power m by n ಅನ್ನು ಹೇಗೆ ಲೆಕ್ಕ ಹಾಕುವುದು? ಇದಕ್ಕಾಗಿ ಎರಡು ಸಮಾನವಾದ ವಿಧಾನಗಳಿವೆ. ಮೊದಲನೇ ವಿಧಾನದಲ್ಲಿ, ನಾವು ಮೊದಲು a ಯ n-ನೇ ಮೂಲವನ್ನು ಕಂಡುಹಿಡಿದು, ಬರುವ ಉತ್ತರಕ್ಕೆ m ಘಾತವನ್ನು ಅನ್ವಯಿಸುತ್ತೇವೆ. ಅಂದರೆ, n-th root of a, whole to the power m. ಎರಡನೇ ವಿಧಾನದಲ್ಲಿ, ನಾವು ಮೊದಲು a ಯ m ಘಾತವನ್ನು ಕಂಡುಹಿಡಿದು, ಬರುವ ಉತ್ತರಕ್ಕೆ n-ನೇ ಮೂಲವನ್ನು ಅನ್ವಯಿಸುತ್ತೇವೆ. ಅಂದರೆ, n-th root of a to the power m. ಈ ಎರಡೂ ವಿಧಾನಗಳು ಒಂದೇ ಉತ್ತರವನ್ನು ನೀಡುತ್ತವೆ. ಸಂದರ್ಭಕ್ಕೆ ತಕ್ಕಂತೆ ಯಾವುದು ಸುಲಭವೋ ಆ ವಿಧಾನವನ್ನು ನಾವು ಬಳಸಬಹುದು.",
+  "script_display": "ಹಾಗಾದರೆ, $a^{\\frac{m}{n}}$ ಅನ್ನು ಹೇಗೆ ಲೆಕ್ಕ ಹಾಕುವುದು? ಇದಕ್ಕಾಗಿ ಎರಡು ಸಮಾನವಾದ ವಿಧಾನಗಳಿವೆ. ಮೊದಲನೇ ವಿಧಾನದಲ್ಲಿ, ನಾವು ಮೊದಲು $a$ ಯ $n$-ನೇ ಮೂಲವನ್ನು ಕಂಡುಹಿಡಿದು, ಬರುವ ಉತ್ತರಕ್ಕೆ $m$ ಘಾತವನ್ನು ಅನ್ವಯಿಸುತ್ತೇವೆ. ಅಂದರೆ, $(\\sqrt[n]{a})^m$. ಎರಡನೇ ವಿಧಾನದಲ್ಲಿ, ನಾವು ಮೊದಲು $a$ ಯ $m$ ಘಾತವನ್ನು ಕಂಡುಹಿಡಿದು, ಬರುವ ಉತ್ತರಕ್ಕೆ $n$-ನೇ ಮೂಲವನ್ನು ಅನ್ವಯಿಸುತ್ತೇವೆ. ಅಂದರೆ, $\\sqrt[n]{a^m}$. ಈ ಎರಡೂ ವಿಧಾನಗಳು ಒಂದೇ ಉತ್ತರವನ್ನು ನೀಡುತ್ತವೆ. ಸಂದರ್ಭಕ್ಕೆ ತಕ್ಕಂತೆ ಯಾವುದು ಸುಲಭವೋ ಆ ವಿಧಾನವನ್ನು ನಾವು ಬಳಸಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "a^{\\frac{m}{n}} = (\\sqrt[n]{a})^m = \\sqrt[n]{a^m}",
+    "placeholder_note": "Display the formula prominently in the center."
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "NS-SYS-3_concept_6_chunk_021"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪತನ ಕೋನ - ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಇಲ್ಲಿ ಒಂದು ನಯವಾದ ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈ ಇದೆ, ಉದಾಹರಣೆಗೆ ಕನ್ನಡಿ. ಎಡಭಾಗದಿಂದ ಬರುತ್ತಿರುವ ಬಾಣದ ಗುರುತು 'ಪತನ ಕಿರಣ'ವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅದು ಕನ್ನಡಿಯನ್ನು ತಾಗುವ ಬಿಂದುವನ್ನು 'ಪತನ ಬಿಂದು' ಎನ್ನುತ್ತೇವೆ. ಆ ಬಿಂದುವಿನಲ್ಲಿ, ಕನ್ನಡಿಗೆ ಲಂಬವಾಗಿ ಎಳೆದ ಚುಕ್ಕಿ ರೇಖೆಯೇ 'ಲಂಬ'. ಈಗ, ಆ ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬ ರೇಖೆಯ ನಡುವೆ 'i' ಎಂದು ಗುರುತಿಸಿರುವ ಕೋನವನ್ನು ನೋಡಿ. ಇದೇ ಪತನ ಕೋನ. ಪ್ರತಿಫಲನದ ನಿಯಮಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಈ ಕೋನವನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಇಲ್ಲಿ ಒಂದು ನಯವಾದ ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈ ಇದೆ, ಉದಾಹರಣೆಗೆ ಕನ್ನಡಿ. ಎಡಭಾಗದಿಂದ ಬರುತ್ತಿರುವ ಬಾಣದ ಗುರುತು 'ಪತನ ಕಿರಣ'ವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅದು ಕನ್ನಡಿಯನ್ನು ತಾಗುವ ಬಿಂದುವನ್ನು 'ಪತನ ಬಿಂದು' ಎನ್ನುತ್ತೇವೆ. ಆ ಬಿಂದುವಿನಲ್ಲಿ, ಕನ್ನಡಿಗೆ ಲಂಬವಾಗಿ ಎಳೆದ ಚುಕ್ಕಿ ರೇಖೆಯೇ 'ಲಂಬ'. ಈಗ, ಆ ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬ ರೇಖೆಯ ನಡುವೆ '∠i' ಎಂದು ಗುರುತಿಸಿರುವ ಕೋನವನ್ನು ನೋಡಿ. ಇದೇ ಪತನ ಕೋನ. ಪ್ರತಿಫಲನದ ನಿಯಮಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಈ ಕೋನವನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಪತನ ಕಿರಣವು ಮೇಲ್ಮೈಯನ್ನು ತಾಗುವ ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬವನ್ನು ಎಳೆಯಲಾಗುತ್ತದೆ.",
+    "ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನವೇ ಪತನ ಕೋನ (∠i)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing reflection. A horizontal line represents the mirror. A ray of light (incident ray) comes from the top-left and hits the mirror. At the point of incidence, a dotted vertical line represents the normal. The angle between the incident ray and the normal is labeled '∠i' (Angle of Incidence).",
+    "labels": "ಪತನ ಕಿರಣ (Incident Ray), ಲಂಬ (Normal), ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈ (Reflecting Surface), ಪತನ ಕೋನ (∠i)",
+    "scientific_significance": "Visually defines the angle of incidence relative to the incident ray and the normal.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_13_concept_1_chunk_010"
+}

@@ -1,0 +1,178 @@
+{
+  "module_id": "std_10_chapter_11_concept_6",
+  "chapter_code": "std_10_chapter_11",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 15,
+  "total_duration": 682.725,
+  "total_duration_formatted": "11:22",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ರೋಧಕಗಳ ಸಮಾಂತರ ಸಂಯೋಜನೆ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 48.771,
+      "duration": 48.771,
+      "script_words": 81
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 49.371,
+      "end": 76.022,
+      "duration": 26.651,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_003",
+      "chunk_file": "003_formula_0.json",
+      "wav_file": "003_formula_0.wav",
+      "slide_title": "ಸಮಾಂತರ ಸಂಯೋಜನೆಯ ಸಮಾನ ರೋಧ",
+      "type": "concept_explanation",
+      "start": 76.622,
+      "end": 129.873,
+      "duration": 53.251,
+      "script_words": 80
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_004",
+      "chunk_file": "004_formula_cont_0_1.json",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಸಮಾನ ರೋಧದ ಲೆಕ್ಕಾಚಾರ",
+      "type": "concept_explanation",
+      "start": 130.473,
+      "end": 191.884,
+      "duration": 61.411,
+      "script_words": 90
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_005",
+      "chunk_file": "005_formula_cont_0_2.json",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+      "type": "concept_explanation",
+      "start": 192.484,
+      "end": 250.455,
+      "duration": 57.971,
+      "script_words": 84
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_006",
+      "chunk_file": "006_property_0.json",
+      "wav_file": "006_property_0.wav",
+      "slide_title": "ಸಮಾಂತರ ಸಂಯೋಜನೆಯ ಗುಣಲಕ್ಷಣಗಳು: ವಿಭವಾಂತರ ಮತ್ತು ಪ್ರವಾಹ",
+      "type": "concept_explanation",
+      "start": 251.055,
+      "end": 303.066,
+      "duration": 52.011,
+      "script_words": 79
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_007",
+      "chunk_file": "007_property_cont_0_1.json",
+      "wav_file": "007_property_cont_0_1.wav",
+      "slide_title": "ಸಮಾಂತರ ಸಂಯೋಜನೆಯ ಗುಣಲಕ್ಷಣಗಳು: ಸಮಾನ ರೋಧ",
+      "type": "concept_explanation",
+      "start": 303.666,
+      "end": 354.277,
+      "duration": 50.611,
+      "script_words": 77
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_008",
+      "chunk_file": "008_property_cont_0_2.json",
+      "wav_file": "008_property_cont_0_2.wav",
+      "slide_title": "ಸಮಾಂತರ ಸಂಯೋಜನೆಯ ದೃಶ್ಯೀಕರಣ",
+      "type": "concept_explanation",
+      "start": 354.877,
+      "end": 405.768,
+      "duration": 50.891,
+      "script_words": 83
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_009",
+      "chunk_file": "009_example_0.json",
+      "wav_file": "009_example_0.wav",
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಸಮಾಂತರ ರೋಧಕಗಳು",
+      "type": "worked_example",
+      "start": 406.368,
+      "end": 432.019,
+      "duration": 25.651,
+      "script_words": 40
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_010",
+      "chunk_file": "010_example_cont_0_1.json",
+      "wav_file": "010_example_cont_0_1.wav",
+      "slide_title": "ಹಂತ 1: ಪ್ರತಿ ರೋಧಕದ ಮೂಲಕ ಪ್ರವಾಹ (a)",
+      "type": "worked_example",
+      "start": 432.619,
+      "end": 482.59,
+      "duration": 49.971,
+      "script_words": 76
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_011",
+      "chunk_file": "011_example_cont_0_2.json",
+      "wav_file": "011_example_cont_0_2.wav",
+      "slide_title": "ಹಂತ 2: ಮಂಡಲದ ಒಟ್ಟು ಪ್ರವಾಹ (b)",
+      "type": "worked_example",
+      "start": 483.19,
+      "end": 522.801,
+      "duration": 39.611,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_012",
+      "chunk_file": "012_example_cont_0_3.json",
+      "wav_file": "012_example_cont_0_3.wav",
+      "slide_title": "ಹಂತ 3: ಮಂಡಲದ ಒಟ್ಟು ರೋಧ (c)",
+      "type": "worked_example",
+      "start": 523.401,
+      "end": 557.052,
+      "duration": 33.651,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_013",
+      "chunk_file": "013_example_cont_0_4.json",
+      "wav_file": "013_example_cont_0_4.wav",
+      "slide_title": "ಹಂತ 3: ಒಟ್ಟು ರೋಧ (ಮುಂದುವರಿದಿದೆ)",
+      "type": "worked_example",
+      "start": 557.652,
+      "end": 590.463,
+      "duration": 32.811,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_014",
+      "chunk_file": "014_example_cont_0_5.json",
+      "wav_file": "014_example_cont_0_5.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "start": 591.063,
+      "end": 628.674,
+      "duration": 37.611,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_10_chapter_11_concept_6_chunk_015",
+      "chunk_file": "015_recap_0.json",
+      "wav_file": "015_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ರೋಧಕಗಳ ಸಮಾಂತರ ಸಂಯೋಜನೆ",
+      "type": "recap",
+      "start": 629.274,
+      "end": 682.125,
+      "duration": 52.851,
+      "script_words": 66
+    }
+  ]
+}

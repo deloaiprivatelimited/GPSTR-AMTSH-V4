@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಭಾಗ (i): (3a + 4b)³ ವಿಸ್ತರಣೆ",
+  "script": "ಮೊದಲು, ಮೊದಲನೇ ಭಾಗವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ, ಅಂದರೆ ಮೂರು a ಪ್ಲಸ್ ನಾಲ್ಕು b, ಹೋಲ್ ಕ್ಯೂಬ್ಡ್. ಇದನ್ನು ವಿಸ್ತರಿಸಲು, ನಾವು x ಪ್ಲಸ್ y ಹೋಲ್ ಕ್ಯೂಬ್ಡ್ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸುತ್ತೇವೆ. ಇಲ್ಲಿ x ನ ಜಾಗದಲ್ಲಿ ಮೂರು a ಮತ್ತು y ನ ಜಾಗದಲ್ಲಿ ನಾಲ್ಕು b ಇದೆ. ನಿತ್ಯಸಮೀಕರಣದ ಪ್ರಕಾರ, x ಕ್ಯೂಬ್ಡ್ ಪ್ಲಸ್ y ಕ್ಯೂಬ್ಡ್ ಪ್ಲಸ್ ಮೂರು x y ಇಂಟು x ಪ್ಲಸ್ y. ಈಗ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. ನಮಗೆ ಮೂರು a ಹೋಲ್ ಕ್ಯೂಬ್ಡ್, ಪ್ಲಸ್ ನಾಲ್ಕು b ಹೋಲ್ ಕ್ಯೂಬ್ಡ್, ಪ್ಲಸ್ ಮೂರು ಇಂಟು ಮೂರು a ಇಂಟು ನಾಲ್ಕು b, ಇಂಟು ಮೂರು a ಪ್ಲಸ್ ನಾಲ್ಕು b ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲು, ಭಾಗ (i) $(3a + 4b)^3$ ನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇದನ್ನು ವಿಸ್ತರಿಸಲು, ನಾವು ನಿತ್ಯಸಮೀಕರಣ $(x+y)^3 = x^3+y^3+3xy(x+y)$ ನ್ನು ಬಳಸುತ್ತೇವೆ. ಇಲ್ಲಿ $x=3a$ ಮತ್ತು $y=4b$ ಆಗಿದೆ. ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ $(3a)^3 + (4b)^3 + 3(3a)(4b)(3a+4b)$ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_vertical",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_20",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಗುರುತಿಸಬೇಕಾದ ನಿತ್ಯಸಮೀಕರಣ: $(x+y)^3 = x^3+y^3+3xy(x+y)$",
+      "justification": "ಇಲ್ಲಿ $x=3a$ ಮತ್ತು $y=4b$ ಎಂದು ಪರಿಗಣಿಸಿ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿ: $(3a+4b)^3 = (3a)^3 + (4b)^3 + 3(3a)(4b)(3a+4b)$",
+      "justification": "ನಿತ್ಯಸಮೀಕರಣದಲ್ಲಿ $x$ ಮತ್ತು $y$ ಜಾಗದಲ್ಲಿ $3a$ ಮತ್ತು $4b$ ನ್ನು ಹಾಕುವುದು."
+    }
+  ],
+  "chunk_id": "ALG-POL-3_concept_6_chunk_067"
+}

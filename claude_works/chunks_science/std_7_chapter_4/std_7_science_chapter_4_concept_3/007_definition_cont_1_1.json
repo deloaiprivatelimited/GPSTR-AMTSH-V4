@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಲವಣದ ರಚನೆ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಲವಣ ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಇಲ್ಲಿ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ, ಅಂದರೆ ಎಚ್ ಸಿ ಎಲ್, ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಎಂಬ ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ, ಅಂದರೆ ಎನ್ ಎ ಓ ಎಚ್ ಜೊತೆ ವರ್ತಿಸುತ್ತದೆ. ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ಎಂಬ ಲವಣ, ಅಂದರೆ ಎನ್ ಎ ಸಿ ಎಲ್, ಮತ್ತು ನೀರು, ಅಂದರೆ ಎಚ್ ಟು ಓ, ಉಂಟಾಗುತ್ತವೆ. ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲ ಸೇರಿ ಲವಣ ಮತ್ತು ನೀರನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡಿವೆ. ಈ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ನಮ್ಮ ಅಡುಗೆ ಉಪ್ಪು.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಲವಣ ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಇಲ್ಲಿ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl), ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) ಎಂಬ ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸುತ್ತದೆ. ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ (NaCl) ಎಂಬ ಲವಣ ಮತ್ತು ನೀರು (H₂O) ಉಂಟಾಗುತ್ತವೆ. ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲ ಸೇರಿ ಲವಣ ಮತ್ತು ನೀರನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡಿವೆ. ಈ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ನಮ್ಮ ಅಡುಗೆ ಉಪ್ಪು.",
+  "display_bullets": [
+    "ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲದ ನಡುವಿನ ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯಿಂದ ಲವಣಗಳು ಉಂಟಾಗುತ್ತವೆ.",
+    "ಉದಾಹರಣೆಗೆ, ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ ಮತ್ತು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ವರ್ತಿಸಿ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ಲವಣವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\underset{\\text{ಆಮ್ಲ}}{\\text{HCl}} + \\underset{\\text{ಪ್ರತ್ಯಾಮ್ಲ}}{\\text{NaOH}} \\longrightarrow \\underset{\\text{ಲವಣ}}{\\text{NaCl}} + \\underset{\\text{ನೀರು}}{\\text{H}_2\\text{O}}",
+    "placeholder_note": "Chemical equation for the neutralization reaction between HCl and NaOH to form NaCl and H2O, with labels in Kannada."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_science_chapter_4_concept_3_chunk_007"
+}

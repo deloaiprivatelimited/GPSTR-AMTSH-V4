@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ 45 ಡಿಗ್ರಿ ಇರುವ ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಪ್ರಶ್ನೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜದ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆಯನ್ನು ನೀಡಲಾಗಿದೆ, ಅದು 45 ಡಿಗ್ರಿ. ನಾವು ಆ ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ 45° ಇರುವ ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಪ್ರಶ್ನೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜದ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆಯನ್ನು ನೀಡಲಾಗಿದೆ, ಅದು 45°. ನಾವು ಆ ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ: ನಿಯಮಿತ ಬಹುಭುಜದ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ = 45°",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆ (n)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_top_full_width",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ 45° ಇರುವ ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "placeholder_note": "Problem statement"
+  },
+  "source_example_id": "GEO-QUAD-1_example_2",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "GEO-QUAD-1_concept_2_chunk_026"
+}

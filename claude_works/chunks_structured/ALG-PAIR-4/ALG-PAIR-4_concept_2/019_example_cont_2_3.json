@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ನಕ್ಷೆ ಮತ್ತು ಪರಿಹಾರ",
+  "script": "ಈಗ ನಾವು ಈ ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ನಕ್ಷೆಯ ಹಾಳೆಯಲ್ಲಿ ಗುರುತಿಸಿ, ಸರಳರೇಖೆಗಳನ್ನು ಎಳೆಯೋಣ. ಮೊದಲನೇ ರೇಖೆಯು A ಎರಡು, ಎರಡು ಮತ್ತು B ಸೊನ್ನೆ, ಮೈನಸ್ ಎರಡು ಬಿಂದುಗಳ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ. ಎರಡನೇ ರೇಖೆಯು P ಸೊನ್ನೆ, ಮೈನಸ್ ನಾಲ್ಕು ಮತ್ತು Q ಒಂದು, ಸೊನ್ನೆ ಬಿಂದುಗಳ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ. ನಕ್ಷೆಯಲ್ಲಿ ಗಮನಿಸಿದಾಗ, ಈ ಎರಡು ರೇಖೆಗಳು ಬಿಂದು Q, ಅಂದರೆ ಒಂದು, ಸೊನ್ನೆಯಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. ಈ ಛೇದನ ಬಿಂದುವೇ ನಮ್ಮ ಸಮೀಕರಣಗಳ ಜೋಡಿಯ ಪರಿಹಾರವಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಈ ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ನಕ್ಷೆಯ ಹಾಳೆಯಲ್ಲಿ ಗುರುತಿಸಿ, ಸರಳರೇಖೆಗಳನ್ನು ಎಳೆಯೋಣ. ಮೊದಲನೇ ರೇಖೆಯು A(2, 2) ಮತ್ತು B(0, -2) ಬಿಂದುಗಳ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ. ಎರಡನೇ ರೇಖೆಯು P(0, -4) ಮತ್ತು Q(1, 0) ಬಿಂದುಗಳ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ. ನಕ್ಷೆಯಲ್ಲಿ ಗಮನಿಸಿದಾಗ, ಈ ಎರಡು ರೇಖೆಗಳು ಬಿಂದು Q(1, 0) ನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. ಈ ಛೇದನ ಬಿಂದುವೇ ನಮ್ಮ ಸಮೀಕರಣಗಳ ಜೋಡಿಯ ಪರಿಹಾರವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಮೊದಲ ರೇಖೆ: A(2, 2) ಮತ್ತು B(0, -2) ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುತ್ತದೆ.",
+    "ಎರಡನೇ ರೇಖೆ: P(0, -4) ಮತ್ತು Q(1, 0) ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುತ್ತದೆ.",
+    "ಎರಡೂ ರೇಖೆಗಳು (1, 0) ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A graph showing two lines on a Cartesian plane. The first line, for y=2x-2, passes through A(2, 2) and B(0, -2). The second line, for y=4x-4, passes through P(0, -4) and Q(1, 0). The two lines clearly intersect at point Q(1, 0).",
+    "labels": "ನಕ್ಷಾ ವಿಧಾನದ ಪರಿಹಾರ",
+    "mathematical_significance": "The point of intersection of the two lines represents the unique solution to the pair of linear equations.",
+    "placeholder_note": "Image to be generated showing the graph and intersection point."
+  },
+  "source_example_id": "ALG-PAIR-4_example_3",
+  "chunk_id": "ALG-PAIR-4_concept_2_chunk_019"
+}

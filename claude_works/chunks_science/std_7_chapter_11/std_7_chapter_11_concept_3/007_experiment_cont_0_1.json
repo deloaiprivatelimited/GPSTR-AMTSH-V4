@@ -1,0 +1,37 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಹಂತ 1: ಚಮಚದ ಹೊರಭಾಗವನ್ನು ಗಮನಿಸಿ",
+  "script": "ಮೊದಲಿಗೆ, ಒಂದು ಹೊಳಪಾದ ಸ್ಟೀಲ್ ಚಮಚವನ್ನು ನಿಮ್ಮ ಕೈಯಲ್ಲಿ ಹಿಡಿದುಕೊಳ್ಳಿ. ಈಗ, ಚಮಚದ ಹೊರಭಾಗ, ಅಂದರೆ ಉಬ್ಬಿದ ಭಾಗದಲ್ಲಿ ನಿಮ್ಮ ಮುಖವನ್ನು ನೋಡಿ. ನಿಮ್ಮ ಪ್ರತಿಬಿಂಬ ಹೇಗೆ ಕಾಣುತ್ತಿದೆ? ಗಮನಿಸಿ, ನಿಮ್ಮ ಪ್ರತಿಬಿಂಬವು ನೇರವಾಗಿರುತ್ತದೆ, ಆದರೆ ನಿಮ್ಮ ನಿಜವಾದ ಗಾತ್ರಕ್ಕಿಂತ ಚಿಕ್ಕದಾಗಿ ಕಾಣಿಸುತ್ತದೆ. ನೀವು ಚಮಚವನ್ನು ನಿಮ್ಮಿಂದ ದೂರ ಸರಿಸಿದರೂ ಸಹ, ಪ್ರತಿಬಿಂಬವು ನೇರವಾಗಿಯೇ ಉಳಿಯುತ್ತದೆ. ಈ ಮೇಲ್ಮೈಯು ಪೀನ ದರ್ಪಣದಂತೆ ವರ್ತಿಸುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಒಂದು ಹೊಳಪಾದ ಸ್ಟೀಲ್ ಚಮಚವನ್ನು ನಿಮ್ಮ ಕೈಯಲ್ಲಿ ಹಿಡಿದುಕೊಳ್ಳಿ. ಈಗ, ಚಮಚದ ಹೊರಭಾಗ, ಅಂದರೆ ಉಬ್ಬಿದ ಭಾಗದಲ್ಲಿ (convex surface) ನಿಮ್ಮ ಮುಖವನ್ನು ನೋಡಿ. ನಿಮ್ಮ ಪ್ರತಿಬಿಂಬ ಹೇಗೆ ಕಾಣುತ್ತಿದೆ? ಗಮನಿಸಿ, ನಿಮ್ಮ ಪ್ರತಿಬಿಂಬವು ನೇರವಾಗಿರುತ್ತದೆ, ಆದರೆ ನಿಮ್ಮ ನಿಜವಾದ ಗಾತ್ರಕ್ಕಿಂತ ಚಿಕ್ಕದಾಗಿ ಕಾಣಿಸುತ್ತದೆ. ನೀವು ಚಮಚವನ್ನು ನಿಮ್ಮಿಂದ ದೂರ ಸರಿಸಿದರೂ ಸಹ, ಪ್ರತಿಬಿಂಬವು ನೇರವಾಗಿಯೇ ಉಳಿಯುತ್ತದೆ. ಈ ಮೇಲ್ಮೈಯು ಪೀನ ದರ್ಪಣದಂತೆ (convex mirror) ವರ್ತಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಚಮಚದ ಹೊರಭಾಗದಲ್ಲಿ (ಉಬ್ಬಿದ ಮೇಲ್ಮೈ) ನಿಮ್ಮ ಮುಖವನ್ನು ನೋಡಿ.",
+    "ಪ್ರತಿಬಿಂಬವು ನೇರ ಮತ್ತು ಚಿಕ್ಕದಾಗಿ ಕಾಣುತ್ತದೆ.",
+    "ಈ ಮೇಲ್ಮೈ ಪೀನ ದರ್ಪಣದಂತೆ ವರ್ತಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a face looking into the back (convex side) of a spoon. The reflection shown in the spoon is upright and smaller.",
+    "labels": "ಚಮಚದ ಹೊರಭಾಗ (ಪೀನ ಮೇಲ್ಮೈ), ನೇರ ಮತ್ತು ಚಿಕ್ಕ ಪ್ರತಿಬಿಂಬ",
+    "scientific_significance": "Demonstrates the properties of a convex mirror: it forms a virtual, erect, and diminished image.",
+    "placeholder_note": "Illustration of reflection from the convex side of a spoon."
+  },
+  "sub_type": "experiment_step",
+  "chunk_id": "std_7_chapter_11_concept_3_chunk_007"
+}

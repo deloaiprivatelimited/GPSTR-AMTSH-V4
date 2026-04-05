@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಂದ್ರತೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸುವುದು",
+  "script": "ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಿಮ್ಮ ಮುಂದೆ ಒಂದೇ ಗಾತ್ರದ ಎರಡು ಪೆಟ್ಟಿಗೆಗಳಿವೆ ಎಂದು ಊಹಿಸಿಕೊಳ್ಳಿ. ಮೊದಲನೇ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಹತ್ತಿಯನ್ನು ತುಂಬಲಾಗಿದೆ. ಎರಡನೇ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಕಬ್ಬಿಣದ ಗುಂಡುಗಳನ್ನು ತುಂಬಲಾಗಿದೆ. ಎರಡೂ ಪೆಟ್ಟಿಗೆಗಳ ಗಾತ್ರ ಒಂದೇ ಆದರೂ, ಕಬ್ಬಿಣದ ಗುಂಡುಗಳಿರುವ ಪೆಟ್ಟಿಗೆ ಹೆಚ್ಚು ಭಾರವಾಗಿರುತ್ತದೆ, ಅಂದರೆ ಅದರ ರಾಶಿ ಹೆಚ್ಚು. ಏಕೆಂದರೆ, ಕಬ್ಬಿಣದ ಕಣಗಳು ಹತ್ತಿಯ ಎಳೆಗಳಿಗಿಂತ ಹೆಚ್ಚು ಒತ್ತೊತ್ತಾಗಿ, ಅಡಕವಾಗಿವೆ. ಆದ್ದರಿಂದ, ಕಬ್ಬಿಣದ ಸಾಂದ್ರತೆ ಹತ್ತಿಗಿಂತ ಹೆಚ್ಚು.",
+  "script_display": "ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.\n*   ಒಂದೇ ಗಾತ್ರದ ಎರಡು ಪೆಟ್ಟಿಗೆಗಳನ್ನು ಊಹಿಸಿಕೊಳ್ಳಿ.\n*   **ಪೆಟ್ಟಿಗೆ 1:** ಹತ್ತಿಯಿಂದ ತುಂಬಿದೆ (ಕಡಿಮೆ ರಾಶಿ).\n*   **ಪೆಟ್ಟಿಗೆ 2:** ಕಬ್ಬಿಣದ ಗುಂಡುಗಳಿಂದ ತುಂಬಿದೆ (ಹೆಚ್ಚು ರಾಶಿ).\n*   ಕಬ್ಬಿಣದ ಕಣಗಳು ಹೆಚ್ಚು ಅಡಕವಾಗಿರುವುದರಿಂದ, ಕಬ್ಬಿಣದ ಸಾಂದ್ರತೆ ಹತ್ತಿಗಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದೇ ಗಾತ್ರದ ಎರಡು ಪೆಟ್ಟಿಗೆಗಳನ್ನು ಊಹಿಸಿಕೊಳ್ಳಿ.",
+    "ಪೆಟ್ಟಿಗೆ 1: ಹತ್ತಿಯಿಂದ ತುಂಬಿದೆ (ಕಡಿಮೆ ರಾಶಿ).",
+    "ಪೆಟ್ಟಿಗೆ 2: ಕಬ್ಬಿಣದ ಗುಂಡುಗಳಿಂದ ತುಂಬಿದೆ (ಹೆಚ್ಚು ರಾಶಿ).",
+    "ಕಬ್ಬಿಣದ ಕಣಗಳು ಹೆಚ್ಚು ಅಡಕವಾಗಿರುವುದರಿಂದ, ಕಬ್ಬಿಣದ ಸಾಂದ್ರತೆ ಹತ್ತಿಗಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Two identical transparent boxes side-by-side. Box 1 is filled with cotton balls, looking light and airy. Box 2 is filled with small iron balls, looking dense and heavy. A balance scale below shows Box 2 is much heavier than Box 1.",
+    "labels": "ಪೆಟ್ಟಿಗೆ 1: ಹತ್ತಿ (ಕಡಿಮೆ ಸಾಂದ್ರತೆ), ಪೆಟ್ಟಿಗೆ 2: ಕಬ್ಬಿಣ (ಹೆಚ್ಚಿನ ಸಾಂದ್ರತೆ), ಒಂದೇ ಗಾತ್ರ, ವಿಭಿನ್ನ ರಾಶಿ",
+    "scientific_significance": "Visually demonstrates that for the same volume, the object with more mass (more tightly packed matter) has higher density.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_1_concept_7_chunk_004"
+}

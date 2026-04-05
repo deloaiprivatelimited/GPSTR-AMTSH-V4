@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಕೂಡಬೇಕಾದ ಕನಿಷ್ಠ ಸಂಖ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: 1300 ಕ್ಕೆ ಕೂಡಬೇಕಾದ ಕನಿಷ್ಠ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿದು ಅದನ್ನು ಪೂರ್ಣವರ್ಗವನ್ನಾಗಿ ಮಾಡಿ. ಆ ಪೂರ್ಣವರ್ಗದ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆ 1300. ಇದು ಒಂದು ಪೂರ್ಣವರ್ಗವಲ್ಲ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು ಎರಡು ವಿಷಯಗಳು: ಮೊದಲನೆಯದಾಗಿ, 1300 ಕ್ಕೆ ಕೂಡಬೇಕಾದ ಕನಿಷ್ಠ ಸಂಖ್ಯೆ. ಎರಡನೆಯದಾಗಿ, ಆ ಸಂಖ್ಯೆಯನ್ನು ಕೂಡಿದ ನಂತರ ಬರುವ ಹೊಸ ಪೂರ್ಣವರ್ಗದ ವರ್ಗಮೂಲ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: 1300 ಕ್ಕೆ ಕೂಡಬೇಕಾದ ಕನಿಷ್ಠ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿದು ಅದನ್ನು ಪೂರ್ಣವರ್ಗವನ್ನಾಗಿ ಮಾಡಿ. ಆ ಪೂರ್ಣವರ್ಗದ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆ 1300. ಇದು ಒಂದು ಪೂರ್ಣವರ್ಗವಲ್ಲ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು ಎರಡು ವಿಷಯಗಳು: ಮೊದಲನೆಯದಾಗಿ, 1300 ಕ್ಕೆ ಕೂಡಬೇಕಾದ ಕನಿಷ್ಠ ಸಂಖ್ಯೆ. ಎರಡನೆಯದಾಗಿ, ಆ ಸಂಖ್ಯೆಯನ್ನು ಕೂಡಿದ ನಂತರ ಬರುವ ಹೊಸ ಪೂರ್ಣವರ್ಗದ ವರ್ಗಮೂಲ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆ: 1300",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: 1300 ಕ್ಕೆ ಕೂಡಬೇಕಾದ ಕನಿಷ್ಠ ಸಂಖ್ಯೆ.",
+    "ಹೊಸ ಪೂರ್ಣವರ್ಗದ ವರ್ಗಮೂಲ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Long division method setup for finding the square root of 1300. Shows pairs of digits (13 and 00). The first step of division is shown: 3 is the divisor and quotient, 9 is subtracted from 13, leaving 4. The next pair 00 is brought down, making it 400.",
+    "labels": "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನ, 1300, ವರ್ಗಮೂಲ",
+    "mathematical_significance": "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನವು ಒಂದು ಸಂಖ್ಯೆಯ ವರ್ಗಮೂಲವನ್ನು ಮತ್ತು ಶೇಷವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಳಸುವ ಒಂದು ಕ್ರಮಾವಳಿ. ಇದು 'ಕೂಡಬೇಕಾದ' ಅಥವಾ 'ಕಳೆಯಬೇಕಾದ' ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸಮಸ್ಯೆಗಳಿಗೆ ಅಡಿಪಾಯವಾಗಿದೆ.",
+    "placeholder_note": "Image showing the long division process for sqrt(1300) partially completed."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "NS-SQR-2_example_6",
+  "chunk_id": "NS-SQR-2_concept_7_chunk_014"
+}

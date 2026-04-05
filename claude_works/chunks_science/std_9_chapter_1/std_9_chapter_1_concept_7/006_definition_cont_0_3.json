@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಂದ್ರತೆಯ ಪರಿಣಾಮ: ತೇಲುವುದು vs ಮುಳುಗುವುದು",
+  "script": "ಹಾಗಾದರೆ, ಸಾಂದ್ರತೆಯ ವ್ಯತ್ಯಾಸದಿಂದ ಆಗುವ ಪರಿಣಾಮವೇನು? ಇದನ್ನು ನೀರನ್ನು ಬಳಸಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಮರದ ತುಂಡನ್ನು ನೋಡುತ್ತಿದ್ದೀರಿ. ಮರದ ಸಾಂದ್ರತೆ ನೀರಿಗಿಂತ ಕಡಿಮೆ ಇರುವುದರಿಂದ, ಅದು ನೀರಿನ ಮೇಲೆ ತೇಲುತ್ತದೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಕಬ್ಬಿಣದ ಮೊಳೆ ಇದೆ. ಕಬ್ಬಿಣದ ಸಾಂದ್ರತೆ ನೀರಿಗಿಂತ ಬಹಳಷ್ಟು ಹೆಚ್ಚಿರುತ್ತದೆ. ಈ ಕಾರಣದಿಂದಾಗಿ, ಕಬ್ಬಿಣದ ಮೊಳೆ ನೀರಿನಲ್ಲಿ ಮುಳುಗುತ್ತದೆ. ಇದರಿಂದ ನಮಗೆ ತಿಳಿಯುವುದೇನೆಂದರೆ, ಒಂದು ವಸ್ತುವಿನ ಸಾಂದ್ರತೆಯು ಅದು ಇರುವ ದ್ರವದ ಸಾಂದ್ರತೆಗಿಂತ ಕಡಿಮೆ ಇದ್ದರೆ ತೇಲುತ್ತದೆ, ಹೆಚ್ಚು ಇದ್ದರೆ ಮುಳುಗುತ್ತದೆ.",
+  "script_display": "ಒಂದು ವಸ್ತು ದ್ರವದಲ್ಲಿ ತೇಲುತ್ತದೆಯೇ ಅಥವಾ ಮುಳುಗುತ್ತದೆಯೇ ಎನ್ನುವುದು ಅವುಗಳ ಸಾಪೇಕ್ಷ ಸಾಂದ್ರತೆಯನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A two-column table comparing low density vs high density objects in water. The left column describes a piece of wood floating. The right column describes an iron nail sinking. Each column has a title, an example, the outcome, and a placeholder for an image showing the phenomenon. The caption explains the comparison is based on density relative to water. The HTML table should use <strong> tags for labels like 'ಉದಾಹರಣೆ:' and 'ಪರಿಣಾಮ:'. The image placeholders should be standard <img> tags with src and alt attributes. For example: <img src='wood_floating.png' alt='ಮರದ ತುಂಡು ನೀರಿನಲ್ಲಿ ತೇಲುತ್ತಿದೆ'> and <img src='iron_nail_sinking.png' alt='ಕಬ್ಬಿಣದ ಮೊಳೆ ನೀರಿನಲ್ಲಿ ಮುಳುಗುತ್ತಿದೆ'>. The table headers are 'ಕಡಿಮೆ ಸಾಂದ್ರತೆ (ನೀರಿಗಿಂತ)' and 'ಹೆಚ್ಚಿನ ಸಾಂದ್ರತೆ (ನೀರಿಗಿಂತ)'. The caption is 'ವಸ್ತುವಿನ ಸಾಂದ್ರತೆ ಮತ್ತು ನೀರಿನ ಸಾಂದ್ರತೆಯ ಹೋಲಿಕೆ.'."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_1_concept_7_chunk_006"
+}

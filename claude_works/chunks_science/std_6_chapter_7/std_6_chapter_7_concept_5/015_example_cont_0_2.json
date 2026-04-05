@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಈ ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕದ ಕನಿಷ್ಠ ಮೌಲ್ಯ ಎರಡು ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ಆಗಿದೆ. ಇದರ ಅರ್ಥವೇನೆಂದರೆ, ಈ ಉಪಕರಣವು ಅಳೆಯಬಹುದಾದ ಅತ್ಯಂತ ಸಣ್ಣ ತಾಪದ ಬದಲಾವಣೆ ಎರಡು ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್. ಪ್ರತಿ ಸಣ್ಣ ವಿಭಾಗವು ಎರಡು ಡಿಗ್ರಿ ತಾಪವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಈ ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕದ ಕನಿಷ್ಠ ಮೌಲ್ಯ 2°C ಆಗಿದೆ. \n\nಇದರ ಅರ್ಥವೇನೆಂದರೆ, ಈ ಉಪಕರಣವು ಅಳೆಯಬಹುದಾದ ಅತ್ಯಂತ ಸಣ್ಣ ತಾಪದ ಬದಲಾವಣೆ 2°C ಆಗಿದೆ. ಪ್ರತಿ ಸಣ್ಣ ವಿಭಾಗವು 2°C ತಾಪವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಈ ತಾಪಮಾಪಕದ ಕನಿಷ್ಠ ಮೌಲ್ಯ 2°C ಆಗಿದೆ.",
+    "ಅಂದರೆ, ಇದು 2°C ಯಷ್ಟು ಕನಿಷ್ಠ ತಾಪದ ಬದಲಾವಣೆಯನ್ನು ನಿಖರವಾಗಿ ಅಳೆಯಬಲ್ಲದು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "physics_template_3",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಅಂತಿಮ ಉತ್ತರ: } 2^{\\circ}C",
+    "placeholder_note": "Final answer box"
+  },
+  "source_example_id": "std_6_chapter_7_example_1",
+  "chunk_id": "std_6_chapter_7_concept_5_chunk_015"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಪರಿಹಾರ",
+  "script": "ಈಗ ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಮೂಲ ಸೂತ್ರ ಎನ್ ಈಕ್ವಲ್ಸ್ ಸಿ ಡಿವೈಡೆಡ್ ಬೈ ವಿ. ನಮಗೆ 'ವಿ' ಯ ಮೌಲ್ಯ ಬೇಕಾಗಿರುವುದರಿಂದ, ನಾವು ಸೂತ್ರವನ್ನು ಪುನರ್ರಚಿಸಬೇಕು. ಆಗ, ವಿ ಈಕ್ವಲ್ಸ್ ಸಿ ಡಿವೈಡೆಡ್ ಬೈ ಎನ್ ಆಗುತ್ತದೆ. ಈಗ, ನಮಗೆ ತಿಳಿದಿರುವ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. ವಿ ಈಕ್ವಲ್ಸ್ ಮೂರು ಇಂಟು ಹತ್ತರ ಘಾತ ಎಂಟು, ಇದನ್ನು ಒಂದು ಪಾಯಿಂಟ್ ಐದರಿಂದ ಭಾಗಿಸಬೇಕು. ಮೂರನ್ನು ಒಂದು ಪಾಯಿಂಟ್ ಐದರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ ಎರಡು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಗಾಜಿನಲ್ಲಿ ಬೆಳಕಿನ ವೇಗ, ವಿ, ಎರಡು ಇಂಟು ಹತ್ತರ ಘಾತ ಎಂಟು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಆಗಿದೆ. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "script_display": "ಈಗ ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಮೂಲ ಸೂತ್ರ n = c / v. ನಮಗೆ 'v' ಯ ಮೌಲ್ಯ ಬೇಕಾಗಿರುವುದರಿಂದ, ನಾವು ಸೂತ್ರವನ್ನು ಪುನರ್ರಚಿಸಬೇಕು. ಆಗ, v = c / n ಆಗುತ್ತದೆ. ಈಗ, ನಮಗೆ ತಿಳಿದಿರುವ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. v = (3 × 10⁸ m/s) / 1.5. ಮೂರನ್ನು 1.5 ರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ 2 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಗಾಜಿನಲ್ಲಿ ಬೆಳಕಿನ ವೇಗ, v, 2 × 10⁸ m/s ಆಗಿದೆ. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\begin{aligned} &\\text{ಹಂತ 1: ಸೂತ್ರ} \\\\ &n = \\frac{c}{v} \\\\ \\\\ &\\text{ಹಂತ 2: ಸೂತ್ರ ಪುನರ್ರಚನೆ} \\\\ &v = \\frac{c}{n} \\\\ \\\\ &\\text{ಹಂತ 3: ಬೆಲೆಗಳ ಆದೇಶ} \\\\ &v = \\frac{3 \\times 10^8 \\text{ m/s}}{1.5} \\\\ \\\\ &\\text{ಹಂತ 4: ಅಂತಿಮ ಉತ್ತರ} \\\\ &v = 2 \\times 10^8 \\text{ m/s} \\end{aligned}",
+    "placeholder_note": "Step-by-step calculation for speed of light in glass"
+  },
+  "final_answer_display": "ಗಾಜಿನಲ್ಲಿ ಬೆಳಕಿನ ವೇಗ (v) = 2 × 10⁸ m/s",
+  "chunk_id": "std_10_chapter_9_concept_6_chunk_022"
+}

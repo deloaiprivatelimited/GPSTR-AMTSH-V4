@@ -1,0 +1,121 @@
+{
+  "module_id": "std_9_chapter_10_concept_7",
+  "module_title": "ಸಾಮರ್ಥ್ಯ (Power)",
+  "class": "9",
+  "chapter": "10",
+  "chapter_title": "ಕೆಲಸ ಮತ್ತು ಶಕ್ತಿ (Work and Energy)",
+  "domain": "ಭೌತಶಾಸ್ತ್ರ (Physics)",
+  "prerequisites": [
+    "std_9_chapter_10_concept_1",
+    "std_9_chapter_10_concept_2",
+    "std_9_chapter_10_concept_3",
+    "std_9_chapter_10_concept_4",
+    "std_9_chapter_10_concept_5",
+    "std_9_chapter_10_concept_6"
+  ],
+  "theory": {
+    "concept_summary": "ಸಾಮರ್ಥ್ಯವು ಕೆಲಸ ಮಾಡುವ ದರವನ್ನು ಅಳೆಯುತ್ತದೆ. ಅಂದರೆ, ಒಂದು ನಿರ್ದಿಷ್ಟ ಕೆಲಸವನ್ನು ಎಷ್ಟು ವೇಗವಾಗಿ ಮಾಡಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಇದು ಸೂಚಿಸುತ್ತದೆ. ಒಂದೇ ಕೆಲಸವನ್ನು ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಮಾಡುವ ಯಂತ್ರ ಅಥವಾ ವ್ಯಕ್ತಿಯು ಹೆಚ್ಚು ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊಂದಿರುತ್ತಾನೆ. ಸಾಮರ್ಥ್ಯವನ್ನು ಶಕ್ತಿಯು ವರ್ಗಾವಣೆಯಾಗುವ ದರ ಎಂದೂ ವ್ಯಾಖ್ಯಾನಿಸಬಹುದು. ಇದರ SI ಏಕಮಾನ ವ್ಯಾಟ್ (Watt).",
+    "definitions": [
+      {
+        "term": "ಸಾಮರ್ಥ್ಯ (Power, P)",
+        "definition": "ಕೆಲಸ ಮಾಡುವ ದರ ಅಥವಾ ಶಕ್ತಿ ಬಳಕೆಯ ದರ."
+      },
+      {
+        "term": "ವ್ಯಾಟ್ (Watt, W)",
+        "definition": "ಸಾಮರ್ಥ್ಯದ SI ಏಕಮಾನ. ಒಂದು ಸೆಕೆಂಡ್‌ನಲ್ಲಿ ಒಂದು ಜೂಲ್ ಕೆಲಸ ನಡೆದರೆ, ಸಾಮರ್ಥ್ಯವು ಒಂದು ವ್ಯಾಟ್ ಆಗಿರುತ್ತದೆ. 1 ವ್ಯಾಟ್ = 1 ಜೂಲ್/ಸೆಕೆಂಡ್."
+      },
+      {
+        "term": "ಕಿಲೋವ್ಯಾಟ್ (Kilowatt, kW)",
+        "definition": "ಸಾಮರ್ಥ್ಯದ ದೊಡ್ಡ ಏಕಮಾನ. 1 kW = 1000 W."
+      },
+      {
+        "term": "ಸರಾಸರಿ ಸಾಮರ್ಥ್ಯ (Average Power)",
+        "definition": "ಒಟ್ಟು ಮಾಡಿದ ಕೆಲಸವನ್ನು, ಆ ಕೆಲಸ ಮಾಡಲು ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಸಮಯದಿಂದ ಭಾಗಿಸಿದಾಗ ಸರಾಸರಿ ಸಾಮರ್ಥ್ಯ ದೊರೆಯುತ್ತದೆ."
+      }
+    ],
+    "formulas": [
+      {
+        "formula_name": "Power",
+        "latex": "P = \\frac{W}{t}",
+        "condition": "W = ಮಾಡಿದ ಕೆಲಸ (J), t = ತೆಗೆದುಕೊಂಡ ಸಮಯ (s).",
+        "exception": "",
+        "derived_from": "ಸಾಮರ್ಥ್ಯದ ವ್ಯಾಖ್ಯೆಯಿಂದ.",
+        "used_in": "ಕೆಲಸ ಮಾಡುವ ದರವನ್ನು ಲೆಕ್ಕಹಾಕಲು.",
+        "derivation": []
+      }
+    ],
+    "laws": [],
+    "chemical_equations": [],
+    "properties": [],
+    "classifications": [],
+    "experiments": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "std_9_chapter_10_example_7",
+      "difficulty": "intermediate",
+      "problem": "400 N ತೂಕವಿರುವ ಇಬ್ಬರು ಹುಡುಗಿಯರು (A ಮತ್ತು B) 8 m ಎತ್ತರದ ಹಗ್ಗವನ್ನು ಹತ್ತುತ್ತಾರೆ. A ಯು 20 ಸೆಕೆಂಡ್ ಮತ್ತು B ಯು 50 ಸೆಕೆಂಡ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತಾರೆ. ಪ್ರತೀ ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯವೆಷ್ಟು?",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಹುಡುಗಿಯರು ಮಾಡಿದ ಕೆಲಸವನ್ನು (W) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "ಕೆಲಸವು ಗುರುತ್ವದ ವಿರುದ್ಧ ಮಾಡಿದ್ದರಿಂದ W = mgh. ಇಲ್ಲಿ ತೂಕ (mg) ನೇರವಾಗಿ ನೀಡಲಾಗಿದೆ.",
+          "calculation": "W = mg × h = 400 N × 8 m = 3200 J. (ಇಬ್ಬರೂ ಮಾಡಿದ ಕೆಲಸ ಒಂದೇ)."
+        },
+        {
+          "step": 2,
+          "action": "A ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯವನ್ನು (P_A) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "P = W/t ಸೂತ್ರ ಬಳಸಿ.",
+          "calculation": "P_A = \\frac{3200 \\text{ J}}{20 \\text{ s}} = 160 \\text{ W}"
+        },
+        {
+          "step": 3,
+          "action": "B ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯವನ್ನು (P_B) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "P = W/t ಸೂತ್ರ ಬಳಸಿ.",
+          "calculation": "P_B = \\frac{3200 \\text{ J}}{50 \\text{ s}} = 64 \\text{ W}"
+        }
+      ],
+      "result": "A ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯ 160 W ಮತ್ತು B ಹುಡುಗಿಯ ಸಾಮರ್ಥ್ಯ 64 W.",
+      "common_trap": ""
+    },
+    {
+      "example_id": "std_9_chapter_10_example_8",
+      "difficulty": "advanced",
+      "problem": "50 kg ರಾಶಿಯಿರುವ ಹುಡುಗನೊಬ್ಬ 9 ಸೆಕೆಂಡ್‌ಗಳಲ್ಲಿ 45 ಮೆಟ್ಟಿಲುಗಳನ್ನು ಹತ್ತುತ್ತಾನೆ. ಪ್ರತಿ ಮೆಟ್ಟಿಲಿನ ಎತ್ತರ 15 cm ಗಳಾದರೆ, ಅವನ ಸಾಮರ್ಥ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (g = 10 ms⁻²).",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಒಟ್ಟು ಎತ್ತರವನ್ನು (h) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "ಒಟ್ಟು ಎತ್ತರ = ಮೆಟ್ಟಿಲುಗಳ ಸಂಖ್ಯೆ × ಪ್ರತಿ ಮೆಟ್ಟಿಲಿನ ಎತ್ತರ. cm ಅನ್ನು m ಗೆ ಪರಿವರ್ತಿಸಬೇಕು.",
+          "calculation": "h = 45 \\times 15 \\text{ cm} = 45 \\times 0.15 \\text{ m} = 6.75 \\text{ m}"
+        },
+        {
+          "step": 2,
+          "action": "ಮಾಡಿದ ಕೆಲಸವನ್ನು (W) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "W = mgh",
+          "calculation": "W = 50 \\text{ kg} \\times 10 \\text{ ms}^{-2} \\times 6.75 \\text{ m} = 3375 \\text{ J}"
+        },
+        {
+          "step": 3,
+          "action": "ಸಾಮರ್ಥ್ಯವನ್ನು (P) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+          "justification": "P = W/t",
+          "calculation": "P = \\frac{3375 \\text{ J}}{9 \\text{ s}} = 375 \\text{ W}"
+        }
+      ],
+      "result": "ಹುಡುಗನ ಸಾಮರ್ಥ್ಯ 375 W ಆಗಿದೆ.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ಸಾಮರ್ಥ್ಯದ ಏಕಮಾನ ಯಾವುದು? (ಉತ್ತರ: ವ್ಯಾಟ್)",
+    "two_mark_note": "ಸಾಮರ್ಥ್ಯವನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಿ ಮತ್ತು 1 ವ್ಯಾಟ್ ಅನ್ನು ನಿರೂಪಿಸಿ.",
+    "five_mark_note": "ಈ ಪರಿಕಲ್ಪನೆಯ ಮೇಲೆ 5 ಅಂಕಗಳ ಪ್ರಶ್ನೆ ಬರುವ ಸಾಧ್ಯತೆ ಕಡಿಮೆ.",
+    "common_mistakes": [
+      "ಕೆಲಸ (Work) ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Power) ಇವೆರಡೂ ಒಂದೇ ಎಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುವುದು. ಸಾಮರ್ಥ್ಯವು ಸಮಯವನ್ನು ಅವಲಂಬಿಸಿದೆ (ಅದು ಒಂದು ದರ), ಆದರೆ ಕೆಲಸವು ಸಮಯವನ್ನು ಅವಲಂಬಿಸಿಲ್ಲ."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆ 5.1: ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈಗ ನಾವು ಭೌತ ಬದಲಾವಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಗೆ ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು ಯಾವುವು ಎಂದು ನೋಡೋಣ. ನಮಗೆ ಮುಖ್ಯವಾಗಿ ಎರಡು ವಸ್ತುಗಳು ಬೇಕು. ಮೊದಲನೆಯದು, ಒಂದು ಕಾಗದದ ಹಾಳೆ, ಮತ್ತು ಎರಡನೆಯದು, ಒಂದು ಕತ್ತರಿ. ಈ ಎರಡು ಸರಳ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ, ನಾವು ಭೌತ ಬದಲಾವಣೆಯ ಒಂದು ಮೂಲಭೂತ ಲಕ್ಷಣವನ್ನು ಕಲಿಯಲಿದ್ದೇವೆ. ಇದು ವಸ್ತುವಿನ ಗುಣಗಳಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಯನ್ನು ನೇರವಾಗಿ ತೋರಿಸುತ್ತದೆ ಮತ್ತು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಬಹಳ ಸುಲಭವಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಭೌತ ಬದಲಾವಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಗೆ ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು ಯಾವುವು ಎಂದು ನೋಡೋಣ. ನಮಗೆ ಮುಖ್ಯವಾಗಿ ಎರಡು ವಸ್ತುಗಳು ಬೇಕು. ಮೊದಲನೆಯದು, ಒಂದು ಕಾಗದದ ಹಾಳೆ, ಮತ್ತು ಎರಡನೆಯದು, ಒಂದು ಕತ್ತರಿ. ಈ ಎರಡು ಸರಳ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ, ನಾವು ಭೌತ ಬದಲಾವಣೆಯ ಒಂದು ಮೂಲಭೂತ ಲಕ್ಷಣವನ್ನು ಕಲಿಯಲಿದ್ದೇವೆ. ಇದು ವಸ್ತುವಿನ ಗುಣಗಳಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಯನ್ನು ನೇರವಾಗಿ ತೋರಿಸುತ್ತದೆ ಮತ್ತು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಬಹಳ ಸುಲಭವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು:",
+    "ಒಂದು ಕಾಗದದ ಹಾಳೆ",
+    "ಒಂದು ಕತ್ತರಿ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A sheet of white paper placed next to a pair of scissors on a neutral, clean background. The items should look like they are on a lab table.",
+    "labels": "ಕಾಗದದ ಹಾಳೆ, ಕತ್ತರಿ",
+    "scientific_significance": "Shows the simple materials required for demonstrating a physical change by cutting paper.",
+    "placeholder_note": "Image to be generated showing a sheet of paper and a pair of scissors."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_7_chapter_5_concept_1_chunk_009"
+}

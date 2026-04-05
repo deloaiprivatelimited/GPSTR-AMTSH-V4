@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ",
+  "script": "ಕೆಲವು ದಿನಗಳ ನಂತರ, ನಾವು ನೆಟ್ಟ ಕಾಂಡದ ತುಂಡಿನಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸೋಣ. ನೀವು ಏನು ನೋಡುತ್ತೀರಿ? ಹೌದು, ಕಾಂಡದ ತುಂಡಿನಿಂದ ಹೊಸ ಎಲೆಗಳು ಮತ್ತು ಚಿಗುರುಗಳು ಹೊರಬರಲು ಪ್ರಾರಂಭಿಸುತ್ತವೆ. ಮಣ್ಣಿನ ಕೆಳಗೆ, ಗಿಣ್ಣಿನ ಭಾಗದಿಂದ ಹೊಸ ಬೇರುಗಳು ಬೆಳೆಯಲು ಆರಂಭಿಸುತ್ತವೆ. ಇದು ಕಾಂಡದ ತುಂಡು ಒಂದು ಸ್ವತಂತ್ರ ಸಸ್ಯವಾಗಿ ಬೆಳೆಯುತ್ತಿದೆ ಎಂಬುದರ ಸಂಕೇತವಾಗಿದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಪೋಷಕ ಸಸ್ಯದಂತೆಯೇ ಇರುವ ಹೊಸ ಸಸ್ಯವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ.",
+  "script_display": "ಕೆಲವು ದಿನಗಳ ನಂತರ, ನಾವು ನೆಟ್ಟ ಕಾಂಡದ ತುಂಡಿನಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸೋಣ. ಕಾಂಡದ ತುಂಡಿನಿಂದ ಹೊಸ ಎಲೆಗಳು ಮತ್ತು ಚಿಗುರುಗಳು ಹೊರಬರಲು ಪ್ರಾರಂಭಿಸುತ್ತವೆ. ಮಣ್ಣಿನ ಕೆಳಗೆ, ಗಿಣ್ಣಿನ ಭಾಗದಿಂದ ಹೊಸ ಬೇರುಗಳು ಬೆಳೆಯಲು ಆರಂಭಿಸುತ್ತವೆ. ಇದು ಕಾಂಡದ ತುಂಡು ಒಂದು ಸ್ವತಂತ್ರ ಸಸ್ಯವಾಗಿ ಬೆಳೆಯುತ್ತಿದೆ ಎಂಬುದರ ಸಂಕೇತವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕೆಲವು ದಿನಗಳ ನಂತರ, ಹೊಸ ಬೇರುಗಳು ಬೆಳೆಯುತ್ತವೆ.",
+    "ಹೊಸ ಎಲೆಗಳು ಮತ್ತು ಚಿಗುರುಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+    "ಕಾಂಡದ ತುಂಡು ಹೊಸ ಸಸ್ಯವಾಗಿ ಬೆಳೆಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_bullets",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the rose cutting after a few weeks. Small leaves are sprouting from the top, and new roots are shown growing from the bottom part of the stem under the soil.",
+    "labels": "ಹೊಸ ಎಲೆಗಳು, ಹೊಸ ಬೇರುಗಳು",
+    "scientific_significance": "Visually confirms the success of vegetative propagation, showing the development of a new, complete plant from a stem cutting.",
+    "placeholder_note": "Image to be generated."
+  },
+  "sub_type": "key_takeaway",
+  "chunk_id": "std_7_chapter_8_concept_2_chunk_025"
+}

@@ -1,0 +1,155 @@
+{
+  "module_id": "NS-NUM-1_concept_1",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 13,
+  "total_duration": 608.543,
+  "total_duration_formatted": "10:08",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಸೂಪರ್ ಸೆಲ್",
+      "type": "intro",
+      "start": 0.0,
+      "end": 51.091,
+      "duration": 51.091,
+      "script_words": 79
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_002",
+      "chunk_file": "002_definition_0.json",
+      "wav_file": "002_definition_0.wav",
+      "slide_title": "ಸೂಪರ್ ಸೆಲ್ (Super Cell) ಎಂದರೇನು?",
+      "type": "definition",
+      "start": 51.691,
+      "end": 87.422,
+      "duration": 35.731,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_003",
+      "chunk_file": "003_definition_cont_0_1.json",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "slide_title": "ಸೂಪರ್ ಸೆಲ್: ವ್ಯಾಖ್ಯೆ",
+      "type": "definition",
+      "start": 88.022,
+      "end": 124.473,
+      "duration": 36.451,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_004",
+      "chunk_file": "004_definition_cont_0_2.json",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಸೂಪರ್ ಸೆಲ್ ಅನ್ನು ಗುರುತಿಸುವುದು",
+      "type": "definition",
+      "start": 125.073,
+      "end": 182.764,
+      "duration": 57.691,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_005",
+      "chunk_file": "005_definition_cont_0_3.json",
+      "wav_file": "005_definition_cont_0_3.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಸೂಪರ್ ಸೆಲ್ ಅಲ್ಲದ್ದು",
+      "type": "definition",
+      "start": 183.364,
+      "end": 240.495,
+      "duration": 57.131,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_006",
+      "chunk_file": "006_definition_cont_0_4.json",
+      "wav_file": "006_definition_cont_0_4.wav",
+      "slide_title": "ವಿಶೇಷ ಪ್ರಕರಣ: ಅಂಚು ಮತ್ತು ಮೂಲೆಗಳು",
+      "type": "definition",
+      "start": 241.095,
+      "end": 301.106,
+      "duration": 60.011,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_007",
+      "chunk_file": "007_definition_cont_0_5.json",
+      "wav_file": "007_definition_cont_0_5.wav",
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "definition",
+      "start": 301.706,
+      "end": 341.517,
+      "duration": 39.811,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_008",
+      "chunk_file": "008_property_0.json",
+      "wav_file": "008_property_0.wav",
+      "slide_title": "ಸೂಪರ್ ಸೆಲ್‌ನ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "start": 342.117,
+      "end": 422.488,
+      "duration": 80.371,
+      "script_words": 127
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_009",
+      "chunk_file": "009_example_0.json",
+      "wav_file": "009_example_0.wav",
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+      "type": "worked_example",
+      "start": 423.088,
+      "end": 456.139,
+      "duration": 33.051,
+      "script_words": 37
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_010",
+      "chunk_file": "010_example_cont_0_1.json",
+      "wav_file": "010_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: 626 ಅನ್ನು ಪರಿಶೀಲಿಸುವುದು",
+      "type": "worked_example",
+      "start": 456.739,
+      "end": 504.39,
+      "duration": 47.651,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_011",
+      "chunk_file": "011_example_cont_0_2.json",
+      "wav_file": "011_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: 200 ಅನ್ನು ಪರಿಶೀಲಿಸುವುದು",
+      "type": "worked_example",
+      "start": 504.99,
+      "end": 540.881,
+      "duration": 35.891,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_012",
+      "chunk_file": "012_example_cont_0_3.json",
+      "wav_file": "012_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 541.481,
+      "end": 565.732,
+      "duration": 24.251,
+      "script_words": 33
+    },
+    {
+      "chunk_id": "NS-NUM-1_concept_1_chunk_013",
+      "chunk_file": "013_recap_0.json",
+      "wav_file": "013_recap_0.wav",
+      "slide_title": "ಪುನರಾವರ್ತನೆ: ಸೂಪರ್ ಸೆಲ್",
+      "type": "recap",
+      "start": 566.332,
+      "end": 607.943,
+      "duration": 41.611,
+      "script_words": 57
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "'g' ಯ ಚಿಹ್ನೆ: ಒಂದು ಪ್ರಮುಖ ನಿಯಮ",
+  "script": "ಈ ಸಮೀಕರಣಗಳನ್ನು ಬಳಸುವಾಗ ಅತ್ಯಂತ ಮುಖ್ಯವಾದ ವಿಷಯವೆಂದರೆ 'g' ಯ ಚಿಹ್ನೆಯನ್ನು ಸರಿಯಾಗಿ ಬಳಸುವುದು. ವಸ್ತುವು ಕೆಳಮುಖವಾಗಿ ಚಲಿಸುತ್ತಿದ್ದರೆ, ಅಂದರೆ ಗುರುತ್ವಾಕರ್ಷಣೆಯ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತಿದ್ದರೆ, 'g' ಯನ್ನು ಧನಾತ್ಮಕವಾಗಿ ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಉದಾಹರಣೆಗೆ, ಒಂದು ಕಟ್ಟಡದ ಮೇಲಿಂದ ವಸ್ತುವನ್ನು ಬಿಟ್ಟಾಗ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ವಸ್ತುವು ಮೇಲ್ಮುಖವಾಗಿ ಚಲಿಸುತ್ತಿದ್ದರೆ, ಅಂದರೆ ಗುರುತ್ವಾಕರ್ಷಣೆಗೆ ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತಿದ್ದರೆ, 'g' ಯನ್ನು ಋಣಾತ್ಮಕವಾಗಿ ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಉದಾಹರಣೆಗೆ, ಒಂದು ಚೆಂಡನ್ನು ಮೇಲಕ್ಕೆ ಎಸೆದಾಗ. ಈ ಚಿಹ್ನೆಯ ನಿಯಮವನ್ನು ಮರೆತರೆ, ನಿಮ್ಮ ಲೆಕ್ಕಾಚಾರ ಸಂಪೂರ್ಣವಾಗಿ ತಪ್ಪಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಸಮೀಕರಣಗಳನ್ನು ಬಳಸುವಾಗ ಅತ್ಯಂತ ಮುಖ್ಯವಾದ ವಿಷಯವೆಂದರೆ 'g' ಯ ಚಿಹ್ನೆಯನ್ನು ಸರಿಯಾಗಿ ಬಳಸುವುದು.",
+  "display_bullets": [
+    "ಕೆಳಮುಖ ಚಲನೆ (Downward Motion): ವಸ್ತುವು ಗುರುತ್ವಾಕರ್ಷಣೆಯ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತಿದ್ದರೆ, $g$ ಧನಾತ್ಮಕವಾಗಿರುತ್ತದೆ. ($g = +9.8 \\text{ m/s}^2$)",
+    "ಮೇಲ್ಮುಖ ಚಲನೆ (Upward Motion): ವಸ್ತುವು ಗುರುತ್ವಾಕರ್ಷಣೆಗೆ ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತಿದ್ದರೆ, $g$ ಋಣಾತ್ಮಕವಾಗಿರುತ್ತದೆ. ($g = -9.8 \\text{ m/s}^2$)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing two paths for a ball. An arrow points downwards from a starting point, labelled 'ಕೆಳಮುಖ ಚಲನೆ' and '+g'. Another arrow points upwards from a starting point, labelled 'ಮೇಲ್ಮುಖ ಚಲನೆ' and '-g'.",
+    "labels": "Downward motion, Upward motion, +g, -g",
+    "scientific_significance": "Illustrates the sign convention for acceleration due to gravity based on the direction of motion.",
+    "placeholder_note": "Image to be generated showing a ball's trajectory upwards and downwards with corresponding signs for 'g'."
+  },
+  "chunk_id": "std_9_chapter_9_concept_4_chunk_004"
+}

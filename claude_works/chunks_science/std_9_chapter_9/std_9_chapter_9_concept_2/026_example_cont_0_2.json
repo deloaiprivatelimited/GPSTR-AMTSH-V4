@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಈಗ ಮೂರನೇ ಹಂತ. ನಾವು ಗುರುತಿಸಿದ ಎಲ್ಲಾ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. F equals, G ಯ ಮೌಲ್ಯ 6.7 ಇಂಟು 10 ರ ಘಾತ ಮೈನಸ್ 11, ಇದನ್ನು ಭೂಮಿಯ ರಾಶಿ 6 ಇಂಟು 10 ರ ಘಾತ 24 ಮತ್ತು ಚಂದ್ರನ ರಾಶಿ 7.4 ಇಂಟು 10 ರ ಘಾತ 22 ರಿಂದ ಗುಣಿಸಬೇಕು. ನಂತರ, ಈ ಪೂರ್ಣ ಮೌಲ್ಯವನ್ನು ದೂರದ ವರ್ಗದಿಂದ, ಅಂದರೆ 3.84 ಇಂಟು 10 ರ ಘಾತ 8 ರ ವರ್ಗದಿಂದ ಭಾಗಿಸಬೇಕು.",
+  "script_display": "**ಹಂತ 3: ಸೂತ್ರದಲ್ಲಿ ದತ್ತಾಂಶಗಳನ್ನು ಆದೇಶಿಸಿ.**\nಬಲದ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು ತಿಳಿದಿರುವ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕುವುದು.\n$F = \\frac{(6.7 \\times 10^{-11}) \\times (6 \\times 10^{24}) \\times (7.4 \\times 10^{22})}{(3.84 \\times 10^8)^2}$",
+  "display_bullets": [
+    "ಹಂತ 3: ಸೂತ್ರದಲ್ಲಿ ದತ್ತಾಂಶಗಳನ್ನು ಆದೇಶಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_step_walkthrough_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "F = \\frac{G \\cdot M \\cdot m}{d^2} \\\\ \\\\ F = \\frac{(6.7 \\times 10^{-11}) \\times (6 \\times 10^{24}) \\times (7.4 \\times 10^{22})}{(3.84 \\times 10^8)^2}",
+    "placeholder_note": "Show the formula with all the values substituted."
+  },
+  "source_example_id": "std_9_chapter_9_example_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಸೂತ್ರದಲ್ಲಿ ದತ್ತಾಂಶಗಳನ್ನು ಆದೇಶಿಸಿ.",
+      "justification": "ಬಲದ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು ತಿಳಿದಿರುವ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕುವುದು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_9_concept_2_chunk_026"
+}

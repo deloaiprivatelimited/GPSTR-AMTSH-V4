@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆಗಳು",
+  "script": "ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಗಳಿಗೆ ಕೆಲವು ಸಾಮಾನ್ಯ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು ಸಮಬಾಹು ತ್ರಿಭುಜ. ಇದರಲ್ಲಿ ಮೂರೂ ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ ಮತ್ತು ಮೂರೂ ಕೋನಗಳು ಅರವತ್ತು ಡಿಗ್ರಿಗಳಿರುತ್ತವೆ. ಹಾಗಾಗಿ ಇದು ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿ. ಎರಡನೆಯದು ಚೌಕ. ಇದರಲ್ಲಿ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮ ಮತ್ತು ನಾಲ್ಕು ಕೋನಗಳು ತೊಂಬತ್ತು ಡಿಗ್ರಿಗಳಿರುತ್ತವೆ. ಆದ್ದರಿಂದ ಚೌಕವೂ ಕೂಡ ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿ. ಹಾಗೆಯೇ, ನಿಯಮಿತ ಪಂಚಭುಜಾಕೃತಿಯಲ್ಲಿ ಐದು ಬಾಹುಗಳು ಮತ್ತು ಐದು ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಈ ಎಲ್ಲಾ ಆಕೃತಿಗಳು ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಯ ವ್ಯಾಖ್ಯಾನದ ಎರಡೂ ಶರತ್ತುಗಳನ್ನು ಪಾಲಿಸುತ್ತವೆ.",
+  "script_display": "ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಗಳಿಗೆ ಕೆಲವು ಸಾಮಾನ್ಯ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು ಸಮಬಾಹು ತ್ರಿಭುಜ (Equilateral Triangle). ಇದರಲ್ಲಿ 3 ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ ಮತ್ತು 3 ಕೋನಗಳು $60^\\circ$ ಇರುತ್ತವೆ. ಹಾಗಾಗಿ ಇದು ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿ. ಎರಡನೆಯದು ಚೌಕ (Square). ಇದರಲ್ಲಿ 4 ಬಾಹುಗಳು ಸಮ ಮತ್ತು 4 ಕೋನಗಳು $90^\\circ$ ಇರುತ್ತವೆ. ಆದ್ದರಿಂದ ಚೌಕವೂ ಕೂಡ ಒಂದು ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿ. ಹಾಗೆಯೇ, ನಿಯಮಿತ ಪಂಚಭುಜಾಕೃತಿ (Regular Pentagon)ಯಲ್ಲಿ 5 ಬಾಹುಗಳು ಮತ್ತು 5 ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಈ ಎಲ್ಲಾ ಆಕೃತಿಗಳು ನಿಯಮಿತ ಬಹುಭುಜಾಕೃತಿಯ ವ್ಯಾಖ್ಯಾನದ ಎರಡೂ ಶರತ್ತುಗಳನ್ನು ಪಾಲಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಸಮಬಾಹು ತ್ರಿಭುಜ: 3 ಸಮ ಬಾಹುಗಳು, 3 ಸಮ ಕೋನಗಳು ($60^\\circ$)",
+    "ಚೌಕ: 4 ಸಮ ಬಾಹುಗಳು, 4 ಸಮ ಕೋನಗಳು ($90^\\circ$)",
+    "ನಿಯಮಿತ ಪಂಚಭುಜಾಕೃತಿ: 5 ಸಮ ಬಾಹುಗಳು, 5 ಸಮ ಕೋನಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing three regular polygons side-by-side: an equilateral triangle, a square, and a regular pentagon. Each shape has markings to indicate equal sides (a small dash on each side) and equal angles (an arc inside each corner).",
+    "labels": "Equilateral Triangle, Square, Regular Pentagon",
+    "mathematical_significance": "Visually represents common examples of regular polygons, reinforcing the definition that all sides and all angles are equal.",
+    "placeholder_note": "Image to be generated showing the three shapes with equality markings."
+  },
+  "chunk_id": "MEN-AREA-1_concept_1_chunk_012"
+}

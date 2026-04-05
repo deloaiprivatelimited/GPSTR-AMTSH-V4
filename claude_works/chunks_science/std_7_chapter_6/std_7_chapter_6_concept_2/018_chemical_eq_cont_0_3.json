@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಪನ್ನಗಳು: ಏನು ಸಿಗುತ್ತದೆ?",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ ಮೂರು ಉತ್ಪನ್ನಗಳು ಉಂಟಾಗುತ್ತವೆ. ಮೊದಲನೆಯದು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್, ಇದನ್ನು ನಾವು ಉಸಿರಾಟದ ಮೂಲಕ ಹೊರಹಾಕುತ್ತೇವೆ. ಎರಡನೆಯದು ನೀರು. ಮತ್ತು ಅತ್ಯಂತ ಮುಖ್ಯವಾಗಿ, ನಮ್ಮ ದೇಹದ ಚಟುವಟಿಕೆಗಳಿಗೆ ಬೇಕಾದ ಶಕ್ತಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ, ಇದನ್ನು ಎಟಿಪಿ ರೂಪದಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ ಮೂರು ಉತ್ಪನ್ನಗಳು ಉಂಟಾಗುತ್ತವೆ. ಮೊದಲನೆಯದು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (CO₂), ಇದನ್ನು ನಾವು ಉಸಿರಾಟದ ಮೂಲಕ ಹೊರಹಾಕುತ್ತೇವೆ. ಎರಡನೆಯದು ನೀರು (H₂O). ಮತ್ತು ಅತ್ಯಂತ ಮುಖ್ಯವಾಗಿ, ನಮ್ಮ ದೇಹದ ಚಟುವಟಿಕೆಗಳಿಗೆ ಬೇಕಾದ ಶಕ್ತಿ (ATP) ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (CO₂): ಉಸಿರಾಟದ ಮೂಲಕ ಹೊರಹಾಕಲ್ಪಡುತ್ತದೆ.",
+    "ನೀರು (H₂O): ದೇಹದಲ್ಲಿ ಬಳಸಲ್ಪಡುತ್ತದೆ.",
+    "ಶಕ್ತಿ (ATP): ಜೀವಕೋಶದ ಚಟುವಟಿಕೆಗಳಿಗೆ ಇಂಧನ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "CO₂ ಅಣು, H₂O ಅಣು, ಮತ್ತು ಶಕ್ತಿಯನ್ನು (ATP) ಸಂಕೇತಿಸುವ ಒಂದು ಮಿಂಚಿನ ಚಿಹ್ನೆ ಅಥವಾ ATP ಅಣುವಿನ ಚಿತ್ರ. ಇವುಗಳು ಉತ್ಪನ್ನಗಳಾಗಿವೆ ಎಂದು ತೋರಿಸಬೇಕು.",
+    "labels": "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (CO₂), ನೀರು (H₂O), ಶಕ್ತಿ (ATP)",
+    "scientific_significance": "Shows the products of aerobic respiration: carbon dioxide and water as waste products, and ATP as the useful energy currency.",
+    "placeholder_note": "Image to be generated: A CO2 molecule, an H2O molecule, and an ATP symbol, representing the products."
+  },
+  "chunk_id": "std_7_chapter_6_concept_2_chunk_018"
+}

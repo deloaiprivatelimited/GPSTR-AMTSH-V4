@@ -1,0 +1,112 @@
+{
+  "module_id": "std_7_science_ch_1_concept_3",
+  "chapter_code": "std_7_chapter_1",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 9,
+  "total_duration": 369.939,
+  "total_duration_formatted": "6:09",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_science_ch_1_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಸ್ಯಗಳಲ್ಲಿ ಇತರ ಪೋಷಣಾ ವಿಧಾನಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 45.451,
+      "duration": 45.451,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 46.051,
+      "end": 84.462,
+      "duration": 38.411,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_3_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಸಸ್ಯಗಳಲ್ಲಿ ಪರಪೋಷಿತ ಪೋಷಣೆ",
+      "type": "concept_explanation",
+      "start": 85.062,
+      "end": 121.993,
+      "duration": 36.931,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_3_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "1. ಪರಾವಲಂಬಿ ಪೋಷಣೆ (Parasitic Nutrition)",
+      "type": "concept_explanation",
+      "start": 122.593,
+      "end": 166.964,
+      "duration": 44.371,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_3_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "2. ಕೀಟಾಹಾರಿ ಪೋಷಣೆ (Insectivorous Nutrition)",
+      "type": "concept_explanation",
+      "start": 167.564,
+      "end": 206.655,
+      "duration": 39.091,
+      "script_words": 44
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_3_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "3. ಕೊಳೆತಿನಿ ಪೋಷಣೆ (Saprotrophic Nutrition)",
+      "type": "concept_explanation",
+      "start": 207.255,
+      "end": 238.546,
+      "duration": 31.291,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_3_chunk_007",
+      "chunk_file": "007_classification_cont_0_4.json",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "slide_title": "4. ಸಹಜೀವನ (Symbiotic Relationship)",
+      "type": "concept_explanation",
+      "start": 239.146,
+      "end": 279.637,
+      "duration": 40.491,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_3_chunk_008",
+      "chunk_file": "008_classification_cont_0_5.json",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "slide_title": "ಸಹಜೀವನ: ಇನ್ನೊಂದು ಉದಾಹರಣೆ",
+      "type": "concept_explanation",
+      "start": 280.237,
+      "end": 317.368,
+      "duration": 37.131,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_3_chunk_009",
+      "chunk_file": "009_recap_0.json",
+      "wav_file": "009_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 317.968,
+      "end": 369.339,
+      "duration": 51.371,
+      "script_words": 53
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಭಾಗ (ii): (999)^3 ರ ಬೆಲೆ",
+  "script": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ, ಒಂಬೈನೂರ ತೊಂಬತ್ತೊಂಬತ್ತರ ಘನ. ನಾವು ಒಂಬೈನೂರ ತೊಂಬತ್ತೊಂಬತ್ತನ್ನು ಒಂದು ಸಾವಿರ ಮೈನಸ್ ಒಂದು ಎಂದು ಬರೆಯಬಹುದು. ಇದು ಎಕ್ಸ್ ಮೈನಸ್ ವೈ ಹೋಲ್ ಕ್ಯೂಬ್ ರೂಪದಲ್ಲಿದೆ. ಇಲ್ಲಿ ಎಕ್ಸ್ ಒಂದು ಸಾವಿರ ಮತ್ತು ವೈ ಒಂದು ಆಗಿದೆ. ನಮಗೆ ತಿಳಿದಿರುವ ನಿತ್ಯಸಮೀಕರಣ, ಎಕ್ಸ್ ಮೈನಸ್ ವೈ ಹೋಲ್ ಕ್ಯೂಬ್ ಸಮ ಎಕ್ಸ್ ಕ್ಯೂಬ್ ಮೈನಸ್ ವೈ ಕ್ಯೂಬ್ ಮೈನಸ್ ಮೂರು ಎಕ್ಸ್ ವೈ ಇಂಟು ಎಕ್ಸ್ ಮೈನಸ್ ವೈ. ಇದನ್ನು ಬಳಸಿ ಲೆಕ್ಕ ಮಾಡೋಣ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ, $(999)^3$. ನಾವು $999$ ನ್ನು $(1000-1)$ ಎಂದು ಬರೆಯಬಹುದು. ಇದು $(x-y)^3$ ರೂಪದಲ್ಲಿದೆ. ಇಲ್ಲಿ $x=1000$ ಮತ್ತು $y=1$ ಆಗಿದೆ. ನಮಗೆ ತಿಳಿದಿರುವ ನಿತ್ಯಸಮೀಕರಣ VII: $(x-y)^3 = x^3 - y^3 - 3xy(x-y)$. ಇದನ್ನು ಬಳಸಿ ಲೆಕ್ಕ ಮಾಡೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_21",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$999^3 = (1000-1)^3$",
+      "justification": "$999$ ನ್ನು ಹತ್ತಿರದ ಪೂರ್ಣಸಂಖ್ಯೆಯ ವ್ಯತ್ಯಾಸವಾಗಿ ಬರೆಯುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಇದು $(x-y)^3$ ರೂಪದಲ್ಲಿದೆ, ಇಲ್ಲಿ $x=1000, y=1$.",
+      "justification": "ನಿತ್ಯಸಮೀಕರಣ VII: $(x-y)^3 = x^3 - y^3 - 3xy(x-y)$"
+    }
+  ],
+  "chunk_id": "ALG-POL-3_concept_6_chunk_075"
+}

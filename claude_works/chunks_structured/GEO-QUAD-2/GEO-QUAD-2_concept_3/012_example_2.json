@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೀಯ ಸಮಸ್ಯೆ: ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕೋನಾರ್ಧಕಗಳು",
+  "script": "ಈಗ ಒಂದು ಸಾಧನೀಯ ಸಮಸ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕೋನಾರ್ಧಕಗಳು ಒಂದು ಆಯತವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ ಎಂದು ನಾವು ತೋರಿಸಬೇಕು. ಚಿತ್ರದಲ್ಲಿ, ಎಬಿಸಿಡಿ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ. ಕೋನ ಎ, ಬಿ, ಸಿ, ಮತ್ತು ಡಿ ಗಳ ಕೋನಾರ್ಧಕಗಳು ಪಿ, ಕ್ಯೂ, ಆರ್, ಮತ್ತು ಎಸ್ ಬಿಂದುಗಳಲ್ಲಿ ಛೇದಿಸಿ ಪಿ ಕ್ಯೂ ಆರ್ ಎಸ್ ಎಂಬ ಚತುರ್ಭುಜವನ್ನು ರೂಪಿಸುತ್ತವೆ. ನಾವು ಪಿ ಕ್ಯೂ ಆರ್ ಎಸ್ ಒಂದು ಆಯತ ಎಂದು ಸಾಧಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಸಾಧನೀಯ ಸಮಸ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕೋನಾರ್ಧಕಗಳು ಒಂದು ಆಯತವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ ಎಂದು ನಾವು ತೋರಿಸಬೇಕು. ಚಿತ್ರದಲ್ಲಿ, $ABCD$ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ. ಕೋನ $A, B, C,$ ಮತ್ತು $D$ ಗಳ ಕೋನಾರ್ಧಕಗಳು $P, Q, R,$ ಮತ್ತು $S$ ಬಿಂದುಗಳಲ್ಲಿ ಛೇದಿಸಿ $PQRS$ ಎಂಬ ಚತುರ್ಭುಜವನ್ನು ರೂಪಿಸುತ್ತವೆ. ನಾವು $PQRS$ ಒಂದು ಆಯತ ಎಂದು ಸಾಧಿಸಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: $ABCD$ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ.",
+    "ಕೋನ $A, B, C, D$ ಗಳ ಕೋನಾರ್ಧಕಗಳು $PQRS$ ಚತುರ್ಭುಜವನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+    "ಸಾಧನೀಯ: $PQRS$ ಒಂದು ಆಯತ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCD. ಅದರ ಕೋನಾರ್ಧಕಗಳು ಛೇದಿಸಿ PQRS ಎಂಬ ಚಿಕ್ಕ ಚತುರ್ಭುಜವನ್ನು ಒಳಗೆ ರೂಪಿಸುತ್ತವೆ.",
+    "labels": "ಶೃಂಗಗಳು A, B, C, D. ಒಳ ಚತುರ್ಭುಜದ ಶೃಂಗಗಳು P, Q, R, S.",
+    "mathematical_significance": "ಉದಾಹರಣೆ 5 ರ ಸಾಧನೆಗೆ ಬೇಕಾದ ಚಿತ್ರ.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "GEO-QUAD-2_example_5",
+  "chunk_id": "GEO-QUAD-2_concept_3_chunk_012"
+}

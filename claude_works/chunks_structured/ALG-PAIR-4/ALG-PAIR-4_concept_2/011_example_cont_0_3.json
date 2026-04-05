@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಾವು ಈಗ ಎರಡೂ ಸಮೀಕರಣಗಳಿಗೆ ಬಿಂದುಗಳನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಮೊದಲನೇ ರೇಖೆಗಾಗಿ A ಸೊನ್ನೆ, ಎರಡು ಮತ್ತು B ಆರು, ಸೊನ್ನೆ ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಿ ಸೇರಿಸೋಣ. ಎರಡನೇ ರೇಖೆಗಾಗಿ P ಸೊನ್ನೆ, ಮೈನಸ್ ನಾಲ್ಕು ಮತ್ತು Q ಮೂರು, ಮೈನಸ್ ಎರಡು ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಿ ಸೇರಿಸೋಣ. ನಕ್ಷೆಯನ್ನು ಗಮನಿಸಿದಾಗ, ಈ ಎರಡು ರೇಖೆಗಳು B ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ, ಅದರ ನಿರ್ದೇಶಾಂಕಗಳು ಆರು, ಸೊನ್ನೆ. ಈ ಛೇದನ ಬಿಂದುವೇ ನಮ್ಮ ಸಮೀಕರಣಗಳ ಜೋಡಿಯ ಪರಿಹಾರವಾಗಿದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ನಾವು ಈಗ ಎರಡೂ ಸಮೀಕರಣಗಳಿಗೆ ಬಿಂದುಗಳನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಮೊದಲನೇ ರೇಖೆಗಾಗಿ A(0, 2) ಮತ್ತು B(6, 0) ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಿ ಸೇರಿಸೋಣ. ಎರಡನೇ ರೇಖೆಗಾಗಿ P(0, -4) ಮತ್ತು Q(3, -2) ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಿ ಸೇರಿಸೋಣ. ನಕ್ಷೆಯನ್ನು ಗಮನಿಸಿದಾಗ, ಈ ಎರಡು ರೇಖೆಗಳು B ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ, ಅದರ ನಿರ್ದೇಶಾಂಕಗಳು (6, 0). ಈ ಛೇದನ ಬಿಂದುವೇ ನಮ್ಮ ಸಮೀಕರಣಗಳ ಜೋಡಿಯ ಪರಿಹಾರವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A graph showing two lines on a Cartesian plane. The first line, representing x+3y=6, passes through points A(0, 2) and B(6, 0). The second line, representing 2x-3y=12, passes through points P(0, -4) and Q(3, -2). The two lines clearly intersect at point B(6, 0), which is on the x-axis.",
+    "labels": "x-axis, y-axis, line x+3y=6, line 2x-3y=12, point A(0,2), point B(6,0), point P(0,-4), point Q(3,-2), origin (0,0)",
+    "mathematical_significance": "The intersection point of the two lines represents the unique solution to the system of linear equations. Its coordinates (x, y) satisfy both equations simultaneously.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "ALG-PAIR-4_example_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ನಕ್ಷೆಯ ಮೇಲೆ A(0, 2), B(6, 0), P(0, -4) ಮತ್ತು Q(3, -2) ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಿ ರೇಖೆಗಳನ್ನು ಎಳೆಯುವುದು.",
+      "justification": "ರೇಖೆಗಳ ಛೇದನ ಬಿಂದುವನ್ನು ಕಂಡುಹಿಡಿಯಲು."
+    },
+    {
+      "step": 4,
+      "action_display": "ಎರಡು ರೇಖೆಗಳು B(6, 0) ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ ಎಂದು ಗುರುತಿಸುವುದು.",
+      "justification": "ಛೇದನ ಬಿಂದುವೇ ಸಮೀಕರಣಗಳ ಜೋಡಿಯ ಪರಿಹಾರವಾಗಿದೆ."
+    }
+  ],
+  "chunk_id": "ALG-PAIR-4_concept_2_chunk_011"
+}

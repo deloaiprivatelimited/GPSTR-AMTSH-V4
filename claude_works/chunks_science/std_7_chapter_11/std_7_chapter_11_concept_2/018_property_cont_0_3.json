@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪಾರ್ಶ್ವ ಪರಿವರ್ತನೆಯ ಅನ್ವಯ: ಆಂಬುಲೆನ್ಸ್",
+  "script": "ಪಾರ್ಶ್ವ ಪರಿವರ್ತನೆಯ ಒಂದು ಅತ್ಯುತ್ತಮ ಪ್ರಾಯೋಗಿಕ ಅನ್ವಯವನ್ನು ನಾವು ಆಂಬುಲೆನ್ಸ್ ವಾಹನಗಳಲ್ಲಿ ನೋಡಬಹುದು. ಆಂಬುಲೆನ್ಸ್‌ನ ಮುಂಭಾಗದಲ್ಲಿ 'AMBULANCE' ಎಂಬ ಪದವನ್ನು ಹಿಮ್ಮುಖವಾಗಿ ಬರೆದಿರುವುದನ್ನು ನೀವು ಗಮನಿಸಿರಬಹುದು. ಇದರ ಕಾರಣವೇನೆಂದರೆ, ಆಂಬುಲೆನ್ಸ್‌ನ ಮುಂದಿರುವ ವಾಹನದ ಚಾಲಕ ತನ್ನ ಹಿನ್ನೋಟ ದರ್ಪಣದಲ್ಲಿ, ಅಂದರೆ ರಿಯರ್ ವ್ಯೂ ಮಿರರ್ ನಲ್ಲಿ ನೋಡಿದಾಗ, ಪಾರ್ಶ್ವ ಪರಿವರ್ತನೆಯಿಂದಾಗಿ ಆ ಪದವು ನೇರವಾಗಿ 'AMBULANCE' ಎಂದು ಸ್ಪಷ್ಟವಾಗಿ ಓದಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಇದರಿಂದ ಚಾಲಕನು ತಕ್ಷಣವೇ ತುರ್ತು ವಾಹನಕ್ಕೆ ದಾರಿ ಮಾಡಿಕೊಡಲು ಸಹಾಯವಾಗುತ್ತದೆ.",
+  "script_display": "ಪಾರ್ಶ್ವ ಪರಿವರ್ತನೆಯ ಒಂದು ಅತ್ಯುತ್ತಮ ಪ್ರಾಯೋಗಿಕ ಅನ್ವಯವನ್ನು ನಾವು ಆಂಬುಲೆನ್ಸ್ ವಾಹನಗಳಲ್ಲಿ ನೋಡಬಹುದು. ಆಂಬುಲೆನ್ಸ್‌ನ ಮುಂಭಾಗದಲ್ಲಿ 'AMBULANCE' ಎಂಬ ಪದವನ್ನು ಹಿಮ್ಮುಖವಾಗಿ ಬರೆದಿರುವುದನ್ನು ನೀವು ಗಮನಿಸಿರಬಹುದು. ಇದರ ಕಾರಣವೇನೆಂದರೆ, ಆಂಬುಲೆನ್ಸ್‌ನ ಮುಂದಿರುವ ವಾಹನದ ಚಾಲಕ ತನ್ನ ಹಿನ್ನೋಟ ದರ್ಪಣದಲ್ಲಿ (rear-view mirror) ನೋಡಿದಾಗ, ಪಾರ್ಶ್ವ ಪರಿವರ್ತನೆಯಿಂದಾಗಿ ಆ ಪದವು ನೇರವಾಗಿ 'AMBULANCE' ಎಂದು ಸ್ಪಷ್ಟವಾಗಿ ಓದಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಇದರಿಂದ ಚಾಲಕನು ತಕ್ಷಣವೇ ತುರ್ತು ವಾಹನಕ್ಕೆ ದಾರಿ ಮಾಡಿಕೊಡಲು ಸಹಾಯವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಆಂಬುಲೆನ್ಸ್ ವಾಹನದ ಮೇಲೆ 'AMBULANCE' ಪದವನ್ನು ಹಿಮ್ಮುಖವಾಗಿ ಬರೆಯಲಾಗಿರುತ್ತದೆ.",
+    "ಕಾರಣ: ಮುಂದಿರುವ ವಾಹನದ ಚಾಲಕ ತನ್ನ ಹಿನ್ನೋಟ ದರ್ಪಣದಲ್ಲಿ (rear-view mirror) ಅದನ್ನು ಸರಿಯಾಗಿ 'AMBULANCE' ಎಂದು ಓದಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The front of an ambulance vehicle, showing the word 'AMBULANCE' written in a laterally inverted manner (ƎƆИA⅃UᙠMA).",
+    "labels": "ಚಿತ್ರ 11.9: ಆಂಬುಲೆನ್ಸ್",
+    "scientific_significance": "This is a real-world application of lateral inversion. It ensures that drivers in front of the ambulance can read the word correctly in their rear-view mirrors and give way.",
+    "placeholder_note": "Image to be generated based on NCERT Class 7 Science textbook, Chapter 11, Figure 11.9"
+  },
+  "chunk_id": "std_7_chapter_11_concept_2_chunk_018"
+}

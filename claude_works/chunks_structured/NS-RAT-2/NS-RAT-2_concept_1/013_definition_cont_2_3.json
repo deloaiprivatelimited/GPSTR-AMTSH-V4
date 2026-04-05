@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಋಣ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು",
+  "script": "ಈಗ ಋಣ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಎಲ್ಲಿ ಗುರುತಿಸುತ್ತೇವೆ ಎಂದು ನೋಡೋಣ. ಸಂಖ್ಯಾರೇಖೆಯನ್ನು ಗಮನಿಸಿದರೆ, ಎಲ್ಲಾ ಋಣ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು ಸೊನ್ನೆಯ ಎಡಭಾಗದಲ್ಲಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಮೈನಸ್ ಒಂದು ಬೈ ಎರಡು, ಇದು ಸೊನ್ನೆ ಮತ್ತು ಮೈನಸ್ ಒಂದರ ನಡುವೆ ಬರುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ಇದನ್ನು ನೋಡಬಹುದು. ಸೊನ್ನೆಯಿಂದ ಎಡಕ್ಕೆ ಹೋದಂತೆ ಸಂಖ್ಯೆಗಳ ಮೌಲ್ಯ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಎಲ್ಲಾ ಋಣ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು ಸೊನ್ನೆಗಿಂತ ಚಿಕ್ಕದಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಈಗ ಋಣ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಎಲ್ಲಿ ಗುರುತಿಸುತ್ತೇವೆ ಎಂದು ನೋಡೋಣ. ಸಂಖ್ಯಾರೇಖೆಯನ್ನು ಗಮನಿಸಿದರೆ, ಎಲ್ಲಾ ಋಣ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು ಸೊನ್ನೆಯ ($0$) ಎಡಭಾಗದಲ್ಲಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, $\\frac{-1}{2}$, ಇದು $0$ ಮತ್ತು $-1$ ರ ನಡುವೆ ಬರುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ಇದನ್ನು ನೋಡಬಹುದು. ಸೊನ್ನೆಯಿಂದ ಎಡಕ್ಕೆ ಹೋದಂತೆ ಸಂಖ್ಯೆಗಳ ಮೌಲ್ಯ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಎಲ್ಲಾ ಋಣ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು ಸೊನ್ನೆಗಿಂತ ಚಿಕ್ಕದಾಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಎಲ್ಲಾ ಋಣ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಸೊನ್ನೆಯ ($0$) ಎಡಭಾಗದಲ್ಲಿರುತ್ತವೆ.",
+    "ಉದಾಹರಣೆಗೆ, $\\frac{-1}{2}$ ಯು $0$ ಮತ್ತು $-1$ ರ ನಡುವೆ ಇರುತ್ತದೆ.",
+    "ಋಣ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು ಸೊನ್ನೆಗಿಂತ ಚಿಕ್ಕದಾಗಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line from -2 to 2. The point -1/2 is marked exactly halfway between 0 and -1. The region to the left of 0 is shaded or highlighted to indicate negative numbers.",
+    "labels": "-2, -1, -1/2, 0, 1/2, 1, 2",
+    "mathematical_significance": "Visually demonstrates that negative rational numbers are located to the left of zero on the number line.",
+    "placeholder_note": "Generate a number line showing the position of -1/2."
+  },
+  "chunk_id": "NS-RAT-2_concept_1_chunk_013"
+}

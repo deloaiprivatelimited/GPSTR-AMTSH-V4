@@ -1,0 +1,147 @@
+{
+  "module_id": "std_9_chapter_11_concept_4",
+  "chapter_code": "std_9_chapter_11",
+  "voice": "Sadachbia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:43:47",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "692de6f6274a441348c31f76707ce72a",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 21.691,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು (Prerequisites)",
+      "type": "intro",
+      "script_words": 38,
+      "generated_at": "2026-04-02 15:41:36"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "9be931521587eae80fa112df5c5199f1",
+      "wav_file": "001_intro_0.wav",
+      "duration": 48.491,
+      "slide_title": "ಶಬ್ದದ ಜವ (Speed of Sound)",
+      "type": "intro",
+      "script_words": 68,
+      "generated_at": "2026-04-02 15:42:04"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "ecc4da5e8b81ac2c76d3a05aabcc9f9a",
+      "wav_file": "003_property_0.wav",
+      "duration": 58.331,
+      "slide_title": "ಶಬ್ದದ ಜವ: ಮಾಧ್ಯಮದ ಮೇಲೆ ಅವಲಂಬನೆ",
+      "type": "concept_explanation",
+      "script_words": 79,
+      "generated_at": "2026-04-02 15:42:50"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "74994cc175eab21caa76082969c2f599",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 50.611,
+      "slide_title": "ಶಬ್ದದ ಜವ: ಒತ್ತಡದ ಮೇಲೆ ಅವಲಂಬನೆ",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-04-02 15:42:59"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "4cd3e535fe8a200820c7f07e0aa22ac9",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 51.011,
+      "slide_title": "ಶಬ್ದದ ಜವ: ತಾಪಮಾನದ ಮೇಲೆ ಅವಲಂಬನೆ",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-04-02 15:43:01"
+    },
+    "007_example_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "1f75a83efc55f6c313153c2ef0c6e6c5",
+      "wav_file": "007_example_0.wav",
+      "duration": 31.331,
+      "slide_title": "ಉದಾಹರಣೆ ಲೆಕ್ಕ: ಶಬ್ದದ ಜವ",
+      "type": "worked_example",
+      "script_words": 41,
+      "generated_at": "2026-04-02 15:43:04"
+    },
+    "006_property_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "82392c7a8c0a996749460d9751f7138c",
+      "wav_file": "006_property_1.wav",
+      "duration": 59.491,
+      "slide_title": "ಸೋನಿಕ್ ಬೂಮ್ (Sonic Boom)",
+      "type": "concept_explanation",
+      "script_words": 86,
+      "generated_at": "2026-04-02 15:43:16"
+    },
+    "008_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "833d866f59dc2894e0b6b59085b8cb0b",
+      "wav_file": "008_example_cont_0_1.wav",
+      "duration": 37.571,
+      "slide_title": "ಹಂತ 1: ಏಕಮಾನ ಪರಿವರ್ತನೆ",
+      "type": "worked_example",
+      "script_words": 38,
+      "generated_at": "2026-04-02 15:43:26"
+    },
+    "009_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "0b0cc754dc2a6547e4b1eb9b20cdd8fd",
+      "wav_file": "009_example_cont_0_2.wav",
+      "duration": 38.291,
+      "slide_title": "ಹಂತ 2: ತರಂಗದ ಜವದ ಲೆಕ್ಕಾಚಾರ",
+      "type": "worked_example",
+      "script_words": 54,
+      "generated_at": "2026-04-02 15:43:27"
+    },
+    "010_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "adfa634b7483b3bed13efd341effe741",
+      "wav_file": "010_example_cont_0_3.wav",
+      "duration": 42.771,
+      "slide_title": "ಹಂತ 3: ಕಾಲಾವಧಿಯ ಲೆಕ್ಕಾಚಾರ",
+      "type": "worked_example",
+      "script_words": 62,
+      "generated_at": "2026-04-02 15:43:31"
+    },
+    "011_example_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "9ec1083d5f3839d68f2c0d92ffc9cc64",
+      "wav_file": "011_example_cont_0_4.wav",
+      "duration": 40.851,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "script_words": 49,
+      "generated_at": "2026-04-02 15:43:42"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "be3fbc2e946bccef041d56dbe25eb412",
+      "wav_file": "012_recap_0.wav",
+      "duration": 41.291,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 15:43:47"
+    }
+  }
+}

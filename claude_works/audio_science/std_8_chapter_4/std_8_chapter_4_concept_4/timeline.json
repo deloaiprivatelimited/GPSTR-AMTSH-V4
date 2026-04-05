@@ -1,0 +1,90 @@
+{
+  "module_id": "std_8_chapter_4_concept_4",
+  "chapter_code": "std_8_chapter_4",
+  "voice": "Vindemiatrix",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 317.037,
+  "total_duration_formatted": "5:17",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_4_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ದಹನದ ವಿಧಗಳು",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 44.811,
+      "duration": 44.811,
+      "script_words": 79
+    },
+    {
+      "chunk_id": "std_8_chapter_4_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "chunk",
+      "start": 45.411,
+      "end": 72.982,
+      "duration": 27.571,
+      "script_words": 37
+    },
+    {
+      "chunk_id": "std_8_chapter_4_concept_4_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ದಹನದ ವಿಧಗಳು: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 73.582,
+      "end": 117.713,
+      "duration": 44.131,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_8_chapter_4_concept_4_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಕ್ಷಿಪ್ರ ದಹನ (Rapid Combustion)",
+      "type": "concept_explanation",
+      "start": 118.313,
+      "end": 169.084,
+      "duration": 50.771,
+      "script_words": 72
+    },
+    {
+      "chunk_id": "std_8_chapter_4_concept_4_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಸ್ವಯಂಪ್ರೇರಿತ ದಹನ (Spontaneous Combustion)",
+      "type": "concept_explanation",
+      "start": 169.684,
+      "end": 222.895,
+      "duration": 53.211,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "std_8_chapter_4_concept_4_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಸ್ಫೋಟ (Explosion)",
+      "type": "concept_explanation",
+      "start": 223.495,
+      "end": 272.226,
+      "duration": 48.731,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "std_8_chapter_4_concept_4_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ದಹನದ ವಿಧಗಳು",
+      "type": "recap",
+      "start": 272.826,
+      "end": 316.437,
+      "duration": 43.611,
+      "script_words": 57
+    }
+  ]
+}

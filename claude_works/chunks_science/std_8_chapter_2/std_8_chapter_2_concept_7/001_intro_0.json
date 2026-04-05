@@ -1,0 +1,37 @@
+{
+  "type": "intro",
+  "slide_title": "ನೈಟ್ರೋಜನ್ ಚಕ್ರ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ತರಗತಿಗೆ ಸ್ವಾಗತ! ಒಂದು ಕ್ಷಣ ದೀರ್ಘವಾಗಿ ಉಸಿರಾಡಿ. ನೀವು ಈಗಷ್ಟೇ ಉಸಿರಾಡಿದ ಗಾಳಿಯಲ್ಲಿ ಸುಮಾರು 78 ಪ್ರತಿಶತ ಸಾರಜನಕ ಇದೆ ಎಂದು ನಿಮಗೆ ತಿಳಿದಿದೆಯೇ? ಆದರೆ ಇಲ್ಲೊಂದು ಸ್ವಾರಸ್ಯಕರವಾದ ವಿಷಯವಿದೆ: ನಮ್ಮ ಸುತ್ತಲೂ ಇಷ್ಟೊಂದು ಸಾರಜನಕ ಇದ್ದರೂ, ನಾವು ಅಥವಾ ಸಸ್ಯಗಳು ಅದನ್ನು ನೇರವಾಗಿ ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಹಾಗಾದರೆ, ಜೀವಿಗಳಿಗೆ ಸಾರಜನಕ ಹೇಗೆ ಸಿಗುತ್ತದೆ? ಇದರ ಉತ್ತರವೇ ನೈಟ್ರೋಜನ್ ಚಕ್ರ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಮೊದಲು ಸಾರಜನಕ ಸ್ಥಿರೀಕರಣ ಎಂದರೇನು ಎಂದು ತಿಳಿಯೋಣ. ನಂತರ, ನೈಟ್ರೋಜನ್ ಚಕ್ರದ ವಿವಿಧ ಹಂತಗಳನ್ನು ವಿವರವಾಗಿ ಚರ್ಚಿಸೋಣ. ಕೊನೆಯದಾಗಿ, ಪರಿಸರದಲ್ಲಿ ಸಾರಜನಕದ ಸಮತೋಲನ ಹೇಗೆ ಸ್ಥಿರವಾಗಿ ಉಳಿಯುತ್ತದೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಪ್ರಮುಖ ಚಕ್ರದ ಬಗ್ಗೆ ತಿಳಿಯಲು ಸಿದ್ಧರಾಗಿ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ತರಗತಿಗೆ ಸ್ವಾಗತ! ನಾವು ಉಸಿರಾಡುವ ಗಾಳಿಯಲ್ಲಿ 78% ಸಾರಜನಕ (Nitrogen) ಇದೆ, ಆದರೆ ಸಸ್ಯಗಳಾಗಲಿ, ಪ್ರಾಣಿಗಳಾಗಲಿ ಅದನ್ನು ನೇರವಾಗಿ ಬಳಸಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಿಲ್ಲ. ಹಾಗಾದರೆ ಜೀವಿಗಳಿಗೆ ಈ ಅತ್ಯಾವಶ್ಯಕ ಪೋಷಕಾಂಶ ಹೇಗೆ ಲಭ್ಯವಾಗುತ್ತದೆ? ಉತ್ತರ: ನೈಟ್ರೋಜನ್ ಚಕ್ರ. ಈ ಅಧ್ಯಾಯದಲ್ಲಿ ನಾವು ಕಲಿಯುವ ಪ್ರಮುಖ ಅಂಶಗಳು:",
+  "display_bullets": [
+    "ಸಾರಜನಕ ಸ್ಥಿರೀಕರಣ (Nitrogen Fixation) ಎಂದರೇನು?",
+    "ನೈಟ್ರೋಜನ್ ಚಕ್ರದ ವಿವಿಧ ಹಂತಗಳು",
+    "ಪರಿಸರದಲ್ಲಿ ಸಾರಜನಕದ ಸಮತೋಲನ"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Stylized icon of the Nitrogen Cycle, showing arrows between atmosphere (clouds), soil, plants, and animals. Modern, clean, and engaging for a title slide.",
+    "labels": "Nitrogen Cycle, Atmosphere, Soil, Life",
+    "scientific_significance": "Represents the core concept of the module visually.",
+    "placeholder_note": "Image to be generated. A simple, modern icon for the title slide."
+  },
+  "sub_type": "title",
+  "chunk_id": "std_8_chapter_2_concept_7_chunk_001"
+}

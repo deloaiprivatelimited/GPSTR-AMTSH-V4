@@ -1,0 +1,81 @@
+{
+  "module_id": "std_6_chapter_9_concept_1",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:31:45",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "477807c18f07a5d30945faf9e48efe4f",
+      "wav_file": "001_intro_0.wav",
+      "duration": 57.011,
+      "slide_title": "ಬೇರ್ಪಡಿಸುವಿಕೆಯ ಅವಶ್ಯಕತೆ",
+      "type": "intro",
+      "script_words": 70,
+      "generated_at": "2026-04-02 13:30:41"
+    },
+    "005_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "deda33e0b6411cb92c1a0b543a2e6a04",
+      "wav_file": "005_classification_cont_0_3.wav",
+      "duration": 34.691,
+      "slide_title": "ಸಾರಾಂಶ: ಬೇರ್ಪಡಿಸುವಿಕೆಯ ಉದ್ದೇಶಗಳು",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 13:30:42"
+    },
+    "004_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "a9058fd49c12fc072e49393fc9b6c2ca",
+      "wav_file": "004_classification_cont_0_2.wav",
+      "duration": 46.811,
+      "slide_title": "ಉದ್ದೇಶ 2: ಉಪಯುಕ್ತ ಘಟಕಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಲು",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:30:54"
+    },
+    "002_classification_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "1bc027c0ef1207242caeeb72f8b9dc68",
+      "wav_file": "002_classification_0.wav",
+      "duration": 34.771,
+      "slide_title": "ಬೇರ್ಪಡಿಸುವಿಕೆಯ ಮುಖ್ಯ ಉದ್ದೇಶಗಳು",
+      "type": "concept_explanation",
+      "script_words": 45,
+      "generated_at": "2026-04-02 13:30:54"
+    },
+    "003_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "886270ed5e9736acf4b54137f5afab77",
+      "wav_file": "003_classification_cont_0_1.wav",
+      "duration": 46.011,
+      "slide_title": "ಉದ್ದೇಶ 1: ಅನುಪಯುಕ್ತ ಘಟಕಗಳನ್ನು ತೆಗೆದುಹಾಕಲು",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 13:31:00"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "c0c7d5564c6512d86a92daf97139411e",
+      "wav_file": "006_recap_0.wav",
+      "duration": 43.731,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:31:45"
+    }
+  }
+}

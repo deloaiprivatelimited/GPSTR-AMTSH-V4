@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ರುಮಿನೆಂಟ್‌ಗಳು ಏಕೆ ಮೆಲುಕು ಹಾಕುತ್ತವೆ?",
+  "script": "ಹಾಗಾದರೆ, ಈ ಪ್ರಾಣಿಗಳು ಯಾಕೆ ಮೆಲುಕು ಹಾಕಬೇಕು? ಯಾಕೆಂದರೆ ಅವುಗಳ ಮುಖ್ಯ ಆಹಾರ ಹುಲ್ಲು. ಹುಲ್ಲಿನಲ್ಲಿ ಸೆಲ್ಯುಲೋಸ್ ಎಂಬ ಒಂದು ರೀತಿಯ ಸಂಕೀರ್ಣ ಕಾರ್ಬೋಹೈಡ್ರೇಟ್ ಇರುತ್ತದೆ. ಈ ಸೆಲ್ಯುಲೋಸ್ ಅನ್ನು ಜೀರ್ಣಿಸಿಕೊಳ್ಳುವುದು ಬಹಳ ಕಷ್ಟ. ಆದ್ದರಿಂದ, ಆಹಾರವನ್ನು ಮತ್ತೆ ಜಗಿಯುವುದರಿಂದ, ಅಂದರೆ ಮೆಲುಕು ಹಾಕುವುದರಿಂದ, ಸೆಲ್ಯುಲೋಸ್ ಸಣ್ಣ ಕಣಗಳಾಗಿ ವಿಭಜನೆಯಾಗಿ ಜೀರ್ಣಕ್ರಿಯೆಗೆ ಸಹಾಯವಾಗುತ್ತದೆ. ಈ ವಿಶೇಷ ಸಾಮರ್ಥ್ಯವು ಅವುಗಳಿಗೆ ಸಸ್ಯಗಳಿಂದ ಗರಿಷ್ಠ ಪೋಷಣೆಯನ್ನು ಪಡೆಯಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಪ್ರಾಣಿಗಳು ಯಾಕೆ ಮೆಲುಕು ಹಾಕಬೇಕು? ಯಾಕೆಂದರೆ ಅವುಗಳ ಮುಖ್ಯ ಆಹಾರ ಹುಲ್ಲು. ಹುಲ್ಲಿನಲ್ಲಿ ಸೆಲ್ಯುಲೋಸ್ (cellulose) ಎಂಬ ಒಂದು ರೀತಿಯ ಸಂಕೀರ್ಣ ಕಾರ್ಬೋಹೈಡ್ರೇಟ್ ಇರುತ್ತದೆ. ಈ ಸೆಲ್ಯುಲೋಸ್ ಅನ್ನು ಜೀರ್ಣಿಸಿಕೊಳ್ಳುವುದು ಬಹಳ ಕಷ್ಟ. ಆದ್ದರಿಂದ, ಆಹಾರವನ್ನು ಮತ್ತೆ ಜಗಿಯುವುದರಿಂದ, ಅಂದರೆ ಮೆಲುಕು ಹಾಕುವುದರಿಂದ, ಸೆಲ್ಯುಲೋಸ್ ಸಣ್ಣ ಕಣಗಳಾಗಿ ವಿಭಜನೆಯಾಗಿ ಜೀರ್ಣಕ್ರಿಯೆಗೆ ಸಹಾಯವಾಗುತ್ತದೆ. ಈ ವಿಶೇಷ ಸಾಮರ್ಥ್ಯವು ಅವುಗಳಿಗೆ ಸಸ್ಯಗಳಿಂದ ಗರಿಷ್ಠ ಪೋಷಣೆಯನ್ನು ಪಡೆಯಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮುಖ್ಯ ಆಹಾರ: ಹುಲ್ಲು ಮತ್ತು ಇತರ ಸಸ್ಯಗಳು.",
+    "ಹುಲ್ಲಿನಲ್ಲಿರುವ ಘಟಕ: ಸೆಲ್ಯುಲೋಸ್ (ಸಂಕೀರ್ಣ ಕಾರ್ಬೋಹೈಡ್ರೇಟ್).",
+    "ಮೆಲುಕು ಹಾಕುವ ಉದ್ದೇಶ: ಕಠಿಣವಾದ ಸೆಲ್ಯುಲೋಸ್ ಅನ್ನು ವಿಭಜಿಸಿ ಜೀರ್ಣಿಸಲು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cow eating grass in a field. A magnified inset shows the fibrous structure of grass, labeled 'ಸೆಲ್ಯುಲೋಸ್ (Cellulose)'.",
+    "labels": "Cow, Grass, Cellulose",
+    "scientific_significance": "Illustrates the connection between a ruminant's diet (grass) and the presence of cellulose, which necessitates a special digestive process like chewing the cud.",
+    "placeholder_note": "Image to be generated. Show a cow eating grass, with a zoom-in bubble showing grass fibers labeled 'Cellulose'."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_2_concept_8_chunk_004"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ವಿಭಿನ್ನ ವಸ್ತುಗಳು, ವಿಭಿನ್ನ ಜ್ವಲನ ತಾಪ",
+  "script": "ಎಲ್ಲಾ ವಸ್ತುಗಳಿಗೂ ಒಂದೇ ಜ್ವಲನ ತಾಪ ಇರುವುದಿಲ್ಲ. ಕೆಲವು ವಸ್ತುಗಳಿಗೆ ಕಡಿಮೆ ಜ್ವಲನ ತಾಪವಿದ್ದರೆ, ಇನ್ನು ಕೆಲವಕ್ಕೆ ಹೆಚ್ಚು ಇರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಪೆಟ್ರೋಲ್‌ನ ಜ್ವಲನ ತಾಪ ತುಂಬಾ ಕಡಿಮೆ, ಆದ್ದರಿಂದ ಅದು ಸುಲಭವಾಗಿ ಹೊತ್ತಿಕೊಳ್ಳುತ್ತದೆ. ಮತ್ತೊಂದೆಡೆ, ಸೀಮೆಎಣ್ಣೆಯ ಜ್ವಲನ ತಾಪ ಪೆಟ್ರೋಲ್‌ಗಿಂತ ಹೆಚ್ಚು, ಆದ್ದರಿಂದ ಹೊತ್ತಿಕೊಳ್ಳಲು ಹೆಚ್ಚು ಉಷ್ಣ ಬೇಕು. ಇದೇ ಕಾರಣಕ್ಕೆ, ಕಡಿಮೆ ಜ್ವಲನ ತಾಪವಿರುವ ವಸ್ತುಗಳು ಹೆಚ್ಚು ಅಪಾಯಕಾರಿ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ. ಸಣ್ಣ ಕಿಡಿ ಕೂಡ ಅವುಗಳನ್ನು ಹೊತ್ತಿಸಲು ಸಾಕಾಗುತ್ತದೆ.",
+  "script_display": "ಎಲ್ಲಾ ವಸ್ತುಗಳಿಗೂ ಒಂದೇ ಜ್ವಲನ ತಾಪ ಇರುವುದಿಲ್ಲ. ಕೆಲವು ವಸ್ತುಗಳಿಗೆ ಕಡಿಮೆ ಜ್ವಲನ ತಾಪವಿದ್ದರೆ, ಇನ್ನು ಕೆಲವಕ್ಕೆ ಹೆಚ್ಚು ಇರುತ್ತದೆ.\n\n* **ಪೆಟ್ರೋಲ್:** ಇದರ ಜ್ವಲನ ತಾಪ ತುಂಬಾ ಕಡಿಮೆ, ಆದ್ದರಿಂದ ಅದು ಸುಲಭವಾಗಿ ಹೊತ್ತಿಕೊಳ್ಳುತ್ತದೆ.\n* **ಸೀಮೆಎಣ್ಣೆ (Kerosene):** ಇದರ ಜ್ವಲನ ತಾಪ ಪೆಟ್ರೋಲ್‌ಗಿಂತ ಹೆಚ್ಚು, ಆದ್ದರಿಂದ ಹೊತ್ತಿಕೊಳ್ಳಲು ಹೆಚ್ಚು ಉಷ್ಣ ಬೇಕು.\n* **ತೀರ್ಮಾನ:** ಕಡಿಮೆ ಜ್ವಲನ ತಾಪವಿರುವ ವಸ್ತುಗಳು ಹೆಚ್ಚು ಅಪಾಯಕಾರಿ.",
+  "display_bullets": [
+    "ಪೆಟ್ರೋಲ್‌ನ ಜ್ವಲನ ತಾಪ ತುಂಬಾ ಕಡಿಮೆ, ಆದ್ದರಿಂದ ಅದು ಸುಲಭವಾಗಿ ಹೊತ್ತಿಕೊಳ್ಳುತ್ತದೆ.",
+    "ಸೀಮೆಎಣ್ಣೆಯ ಜ್ವಲನ ತಾಪ ಪೆಟ್ರೋಲ್‌ಗಿಂತ ಹೆಚ್ಚು, ಆದ್ದರಿಂದ ಹೊತ್ತಿಕೊಳ್ಳಲು ಹೆಚ್ಚು ಉಷ್ಣ ಬೇಕು.",
+    "ಕಡಿಮೆ ಜ್ವಲನ ತಾಪವಿರುವ ವಸ್ತುಗಳು ಹೆಚ್ಚು ಅಪಾಯಕಾರಿ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen image. On the left, a can of petrol with a small spark nearby, bursting into flames, labeled 'ಕಡಿಮೆ ಜ್ವಲನ ತಾಪ'. On the right, a can of kerosene with a larger flame needed to make it burn, labeled 'ಹೆಚ್ಚಿನ ಜ್ವಲನ ತಾಪ'.",
+    "labels": "ಪೆಟ್ರೋಲ್, ಸೀಮೆಎಣ್ಣೆ, ಕಿಡಿ, ಜ್ವಾಲೆ",
+    "scientific_significance": "Visually compares the ignition temperatures of two different flammable substances, showing that a lower ignition temperature leads to easier combustion.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_4_concept_2_chunk_005"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಮಧ್ಯಮಿದುಳು (Midbrain)",
+  "script": "ಮುಂದಿನ ಭಾಗ ಮಧ್ಯಮಿದುಳು. ಇದು ಮುಮ್ಮೆದುಳು ಮತ್ತು ಹಿಮ್ಮೆದುಳಿನ ನಡುವೆ ಇರುವ ಒಂದು ಸಣ್ಣ ಭಾಗ. ಇದು ಒಂದು ರೀತಿಯಲ್ಲಿ ಮಾಹಿತಿಯ ಹೆದ್ದಾರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಇದರ ಮುಖ್ಯ ಕೆಲಸವೆಂದರೆ ಕೆಲವು ಅನೈಚ್ಛಿಕ ಕ್ರಿಯೆಗಳನ್ನು ನಿಯಂತ್ರಿಸುವುದು. ಉದಾಹರಣೆಗೆ, ನಮ್ಮ ಕಣ್ಣು ಮತ್ತು ತಲೆಯ ಪರಾವರ್ತಿತ ಚಲನೆಗಳನ್ನು ಇದು ನಿಯಂತ್ರಿಸುತ್ತದೆ. ಹಠಾತ್ ಪ್ರಕಾಶಮಾನವಾದ ಬೆಳಕು ಅಥವಾ ದೊಡ್ಡ ಶಬ್ದಕ್ಕೆ ನಾವು ಪ್ರತಿಕ್ರಿಯಿಸಿದಾಗ, ಆ ಚಲನೆಯನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಮಧ್ಯಮಿದುಳಿನ ಕೆಲಸ. ಇದು ದೃಷ್ಟಿ ಮತ್ತು ಶ್ರವಣದ ಮಾಹಿತಿಯನ್ನು ಸಂಸ್ಕರಿಸಲು ಸಹ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಮಧ್ಯಮಿದುಳು (Midbrain) ಮುಮ್ಮೆದುಳು ಮತ್ತು ಹಿಮ್ಮೆದುಳಿನ ನಡುವೆ ಇರುವ ಒಂದು ಸಣ್ಣ ಭಾಗವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಮುಮ್ಮೆದುಳು ಮತ್ತು ಹಿಮ್ಮೆದುಳನ್ನು ಸಂಪರ್ಕಿಸುತ್ತದೆ.",
+    "ಕೆಲವು ಅನೈಚ್ಛಿಕ ಕ್ರಿಯೆಗಳನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ.",
+    "ಕಣ್ಣು ಮತ್ತು ತಲೆಯ ಪರಾವರ್ತಿತ ಚಲನೆಗಳನ್ನು (reflex movements) ನಿಯಂತ್ರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "default",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of the human brain with the midbrain highlighted. The image should show its location between the forebrain and hindbrain.",
+    "labels": "ಮಧ್ಯಮಿದುಳು",
+    "scientific_significance": "Highlights the midbrain's role as a connector and its involvement in reflex actions.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_6_concept_3_chunk_005"
+}

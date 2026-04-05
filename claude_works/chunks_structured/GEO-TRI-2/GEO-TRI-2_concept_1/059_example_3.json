@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ವರ್ಕ್ಡ್ ಎಕ್ಸಾಂಪಲ್: ಲಂಬಾರ್ಧಕ ಸಾಧನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. AB ಒಂದು ರೇಖಾಖಂಡ. AB ಗೆ ಅಭಿಮುಖವಾಗಿ P ಮತ್ತು Q ಬಿಂದುಗಳಿವೆ. ಈ ಬಿಂದುಗಳು A ಮತ್ತು B ಯಿಂದ ಸಮದೂರದಲ್ಲಿವೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಇದರ ಅರ್ಥ PA ಸಮ PB ಮತ್ತು QA ಸಮ QB ಆಗಿದೆ. ನಾವು PQ ವು AB ಯ ಲಂಬಾರ್ಧಕ ಎಂದು ಸಾಧಿಸಬೇಕು. ಅಂದರೆ, PQ ವು AB ಯನ್ನು ಲಂಬವಾಗಿ ಅರ್ಧಿಸುತ್ತದೆ ಎಂದು ನಾವು ತೋರಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. AB ಒಂದು ರೇಖಾಖಂಡ. AB ಗೆ ಅಭಿಮುಖವಾಗಿ P ಮತ್ತು Q ಬಿಂದುಗಳಿವೆ. ಈ ಬಿಂದುಗಳು A ಮತ್ತು B ಯಿಂದ ಸಮದೂರದಲ್ಲಿವೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಇದರ ಅರ್ಥ $PA = PB$ ಮತ್ತು $QA = QB$ ಆಗಿದೆ. ನಾವು PQ ವು AB ಯ ಲಂಬಾರ್ಧಕ ಎಂದು ಸಾಧಿಸಬೇಕು. ಅಂದರೆ, PQ ವು AB ಯನ್ನು ಲಂಬವಾಗಿ ಅರ್ಧಿಸುತ್ತದೆ ಎಂದು ನಾವು ತೋರಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: AB ಒಂದು ರೇಖಾಖಂಡ. AB ಗೆ ಅಭಿಮುಖವಾಗಿ P ಮತ್ತು Q ಬಿಂದುಗಳಿವೆ. ಈ ಬಿಂದುಗಳು A ಮತ್ತು B ಯಿಂದ ಸಮದೂರದಲ್ಲಿವೆ (ಚಿತ್ರ ಗಮನಿಸಿ). PQ ವು AB ಯ ಲಂಬಾರ್ಧಕ ಎಂದು ತೋರಿಸಿ.",
+    "ದತ್ತಾಂಶ (Given): $PA = PB$ ಮತ್ತು $QA = QB$.",
+    "ಸಾಧಿಸಬೇಕಾದದ್ದು (To Prove): PQ ವು AB ಯ ಲಂಬಾರ್ಧಕವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ರೇಖಾಖಂಡ AB. P ಮತ್ತು Q ಬಿಂದುಗಳು AB ಯ ವಿರುದ್ಧ ಬದಿಗಳಲ್ಲಿವೆ. PA=PB ಮತ್ತು QA=QB. PQ ರೇಖೆಯು AB ಯನ್ನು C ನಲ್ಲಿ ಛೇದಿಸುತ್ತದೆ. ಇದು ಉದಾಹರಣೆ 7.37 ರ ಚಿತ್ರ.",
+    "labels": "A, B, P, Q, C",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಲಂಬಾರ್ಧಕ ಪ್ರಮೇಯದ ಸಾಧನೆಗೆ ಬೇಕಾದ ಜ್ಯಾಮಿತೀಯ ಸನ್ನಿವೇಶವನ್ನು ತೋರಿಸುತ್ತದೆ. ಎರಡು ತ್ರಿಭುಜಗಳ ಜೋಡಿಗಳನ್ನು (PAQ & PBQ, PAC & PBC) ಗುರುತಿಸಲು ಇದು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for figure 7.37"
+  },
+  "source_example_id": "GEO-TRI-2_example_7",
+  "final_answer": "PQ ವು AB ಯ ಲಂಬಾರ್ಧಕ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "PQ ವು AB ಯ ಲಂಬಾರ್ಧಕ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_059"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಕೊಯ್ದು ನಂತರದ ಪ್ರಕ್ರಿಯೆ: ಒಕ್ಕಣೆ (Threshing)",
+  "script": "ಬೆಳೆಯನ್ನು ಕತ್ತರಿಸಿದ ನಂತರ, ಮುಂದಿನ ಕೆಲಸವೇನು? ಕೊಯ್ದು ಮಾಡಿದ ಬೆಳೆಯಲ್ಲಿ ನಮಗೆ ಬೇಕಾದ ಕಾಳುಗಳು ಅದರ ಹೊಟ್ಟು ಅಥವಾ ತೆನೆಯ ಜೊತೆ ಇರುತ್ತವೆ. ಈ ಕಾಳುಗಳನ್ನು ಹೊಟ್ಟಿನಿಂದ ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆಗೆ 'ಒಕ್ಕಣೆ' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದನ್ನು ಚೆನ್ನಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ, ಕೊಯ್ದು ಎಂದರೆ ಬೆಳೆ ಕತ್ತರಿಸುವುದು, ಆದರೆ ಒಕ್ಕಣೆ ಎಂದರೆ ಆ ಕತ್ತರಿಸಿದ ಬೆಳೆಯಿಂದ ಕಾಳುಗಳನ್ನು ಬೇರ್ಪಡಿಸುವುದು. ಇವೆರಡೂ ಬೇರೆ ಬೇರೆ ಪ್ರಕ್ರಿಯೆಗಳು. ಸಣ್ಣ ರೈತರು ಕಣದಲ್ಲಿ ತೆನೆಗಳನ್ನು ಬಡಿದು ಕಾಳುಗಳನ್ನು ಬೇರ್ಪಡಿಸುತ್ತಾರೆ.",
+  "script_display": "ಬೆಳೆಯನ್ನು ಕತ್ತರಿಸಿದ ನಂತರ, ಮುಂದಿನ ಕೆಲಸವೇನು? ಕೊಯ್ದು ಮಾಡಿದ ಬೆಳೆಯಲ್ಲಿ ನಮಗೆ ಬೇಕಾದ ಕಾಳುಗಳು ಅದರ ಹೊಟ್ಟು (chaff) ಅಥವಾ ತೆನೆಯ ಜೊತೆ ಇರುತ್ತವೆ. ಈ ಕಾಳುಗಳನ್ನು ಹೊಟ್ಟಿನಿಂದ ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆಗೆ 'ಒಕ್ಕಣೆ' (Threshing) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದನ್ನು ಚೆನ್ನಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ, ಕೊಯ್ದು ಎಂದರೆ ಬೆಳೆ ಕತ್ತರಿಸುವುದು, ಆದರೆ ಒಕ್ಕಣೆ ಎಂದರೆ ಆ ಕತ್ತರಿಸಿದ ಬೆಳೆಯಿಂದ ಕಾಳುಗಳನ್ನು ಬೇರ್ಪಡಿಸುವುದು. ಇವೆರಡೂ ಬೇರೆ ಬೇರೆ ಪ್ರಕ್ರಿಯೆಗಳು.",
+  "display_bullets": [
+    "ಕೊಯ್ದು ಮಾಡಿದ ಬೆಳೆಯಲ್ಲಿ, ಕಾಳುಗಳನ್ನು ಹೊಟ್ಟಿನಿಂದ (chaff) ಬೇರ್ಪಡಿಸಬೇಕು.",
+    "ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು 'ಒಕ್ಕಣೆ' (Threshing) ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+    "ಕೊಯ್ದು = ಬೆಳೆ ಕತ್ತರಿಸುವುದು; ಒಕ್ಕಣೆ = ಕಾಳು ಬೇರ್ಪಡಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "light_on_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing the process of threshing. A farmer is beating a bundle of harvested crop (like wheat or paddy) on a hard surface, and the grains are separating from the stalks.",
+    "labels": "ತೆನೆ, ಕಾಳು, ಹೊಟ್ಟು",
+    "scientific_significance": "Demonstrates the physical process of separating grain from chaff, a critical step after harvesting.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_1_concept_7_chunk_005"
+}

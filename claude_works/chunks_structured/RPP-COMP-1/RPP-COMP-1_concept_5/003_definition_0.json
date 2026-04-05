@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಸಲು (Principal) ಎಂದರೇನು?",
+  "script": "ಸರಳ ಬಡ್ಡಿಯ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವಲ್ಲಿ, ನಾವು ಮೊದಲು ಕೆಲವು ಮೂಲಭೂತ ಪದಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಬೇಕು. ಅದರಲ್ಲಿ ಮೊದಲನೆಯದು 'ಅಸಲು' ಅಥವಾ ಪ್ರಿನ್ಸಿಪಲ್. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಸಾಲವಾಗಿ ಪಡೆದ ಅಥವಾ ಹೂಡಿಕೆ ಮಾಡಿದ ಹಣವನ್ನು 'ಅಸಲು' ಎನ್ನುತ್ತೇವೆ. ಇದು ಯಾವುದೇ ಹಣಕಾಸಿನ ವ್ಯವಹಾರದ ಆರಂಭಿಕ ಮೊತ್ತವಾಗಿದೆ. ಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ, ನಾವು ಇದನ್ನು 'ಪಿ' ಎಂಬ ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರದಿಂದ ಸೂಚಿಸುತ್ತೇವೆ. ನೆನಪಿಡಿ, ಅಸಲು ಎಂದರೆ ಬಡ್ಡಿಯನ್ನು ಲೆಕ್ಕ ಹಾಕುವ ಮೊದಲಿನ ಮೂಲ ಹಣ.",
+  "script_display": "ಸರಳ ಬಡ್ಡಿಯ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವಲ್ಲಿ, ನಾವು ಮೊದಲು ಕೆಲವು ಮೂಲಭೂತ ಪದಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಬೇಕು. ಅದರಲ್ಲಿ ಮೊದಲನೆಯದು 'ಅಸಲು' ಅಥವಾ Principal. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಸಾಲವಾಗಿ ಪಡೆದ ಅಥವಾ ಹೂಡಿಕೆ ಮಾಡಿದ ಹಣವನ್ನು 'ಅಸಲು' ಎನ್ನುತ್ತೇವೆ. ಇದು ಯಾವುದೇ ಹಣಕಾಸಿನ ವ್ಯವಹಾರದ ಆರಂಭಿಕ ಮೊತ್ತವಾಗಿದೆ. ಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ, ನಾವು ಇದನ್ನು 'P' ಎಂಬ ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರದಿಂದ ಸೂಚಿಸುತ್ತೇವೆ. ನೆನಪಿಡಿ, ಅಸಲು ಎಂದರೆ ಬಡ್ಡಿಯನ್ನು ಲೆಕ್ಕ ಹಾಕುವ ಮೊದಲಿನ ಮೂಲ ಹಣ.",
+  "display_bullets": [
+    "ಸಾಲವಾಗಿ ಪಡೆದ ಅಥವಾ ಹೂಡಿಕೆ ಮಾಡಿದ ಹಣವನ್ನು 'ಅಸಲು' (Principal) ಎನ್ನುತ್ತೇವೆ.",
+    "ಇದು ಯಾವುದೇ ಹಣಕಾಸಿನ ವ್ಯವಹಾರದ ಆರಂಭಿಕ ಅಥವಾ ಮೂಲ ಮೊತ್ತವಾಗಿದೆ.",
+    "ಇದನ್ನು 'P' ಎಂಬ ಅಕ್ಷರದಿಂದ ಸೂಚಿಸಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple and clear icon representing 'Principal' or 'Initial Amount'. This could be a stack of coins or currency notes with a label 'P' or 'ಅಸಲು'. The style should be clean and minimalist.",
+    "labels": "Principal, Initial Amount, ಅಸಲು, P",
+    "mathematical_significance": "Represents the base amount (P) on which interest is calculated.",
+    "placeholder_note": "Image to be generated for 'Principal Amount'."
+  },
+  "chunk_id": "RPP-COMP-1_concept_5_chunk_003"
+}

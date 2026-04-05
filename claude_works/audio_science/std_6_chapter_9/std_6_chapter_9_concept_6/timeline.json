@@ -1,0 +1,123 @@
+{
+  "module_id": "std_6_chapter_9_concept_6",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Leda",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 439.11,
+  "total_duration_formatted": "7:19",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_9_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ತಳಸೇರುವಿಕೆ ಮತ್ತು ಬಸಿಯುವಿಕೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 56.171,
+      "duration": 56.171,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 56.771,
+      "end": 88.102,
+      "duration": 31.331,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_6_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ತಳಸೇರುವಿಕೆ (Sedimentation)",
+      "type": "definition",
+      "start": 88.702,
+      "end": 129.193,
+      "duration": 40.491,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_6_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಮಣ್ಣು ಮಿಶ್ರಿತ ನೀರು",
+      "type": "definition",
+      "start": 129.793,
+      "end": 168.404,
+      "duration": 38.611,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_6_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ತಳಸೇರುವಿಕೆಯ ಪರಿಣಾಮ",
+      "type": "definition",
+      "start": 169.004,
+      "end": 210.495,
+      "duration": 41.491,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_6_chunk_006",
+      "chunk_file": "006_definition_1.json",
+      "wav_file": "006_definition_1.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಬಸಿಯುವಿಕೆ (Decantation)",
+      "type": "definition",
+      "start": 211.095,
+      "end": 248.866,
+      "duration": 37.771,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_6_chunk_007",
+      "chunk_file": "007_definition_cont_1_1.json",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಬಸಿಯುವಿಕೆ",
+      "type": "definition",
+      "start": 249.466,
+      "end": 288.157,
+      "duration": 38.691,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_6_chunk_008",
+      "chunk_file": "008_definition_cont_1_2.json",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "slide_title": "ಬಸಿಯುವಿಕೆಯ ಮಿತಿಗಳು",
+      "type": "definition",
+      "start": 288.757,
+      "end": 328.968,
+      "duration": 40.211,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_6_chunk_009",
+      "chunk_file": "009_property_0.json",
+      "wav_file": "009_property_0.wav",
+      "slide_title": "ತಳಸೇರುವಿಕೆ ಮತ್ತು ಬಸಿಯುವಿಕೆಯ ತತ್ವ",
+      "type": "concept_explanation",
+      "start": 329.568,
+      "end": 400.139,
+      "duration": 70.571,
+      "script_words": 82
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_6_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "start": 400.739,
+      "end": 438.51,
+      "duration": 37.771,
+      "script_words": 49
+    }
+  ]
+}

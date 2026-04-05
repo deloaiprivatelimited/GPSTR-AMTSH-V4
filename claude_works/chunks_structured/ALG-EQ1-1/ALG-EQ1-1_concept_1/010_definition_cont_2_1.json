@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಮೀಕರಣದ ಭಾಗಗಳು",
+  "script": "ನಾವು ನೋಡಿದ ಉದಾಹರಣೆಯನ್ನೇ ತೆಗೆದುಕೊಳ್ಳೋಣ: ನಾಲ್ಕು x ಪ್ಲಸ್ ಐದು ಈಕ್ವಲ್ಸ್ ಅರವತ್ತೈದು. ಇಲ್ಲಿ ಸಮ ಚಿಹ್ನೆಯ ಎಡಭಾಗದಲ್ಲಿರುವುದನ್ನು ಎಡಬದಿ ಅಥವಾ ಲೆಫ್ಟ್ ಹ್ಯಾಂಡ್ ಸೈಡ್, ಅಂದರೆ ಎಲ್ ಎಚ್ ಎಸ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹಾಗೆಯೇ, ಸಮ ಚಿಹ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿರುವುದನ್ನು ಬಲಬದಿ ಅಥವಾ ರೈಟ್ ಹ್ಯಾಂಡ್ ಸೈಡ್, ಅಂದರೆ ಆರ್ ಎಚ್ ಎಸ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಒಂದು ಸಮೀಕರಣದಲ್ಲಿ, ಎಲ್ ಎಚ್ ಎಸ್ ಮತ್ತು ಆರ್ ಎಚ್ ಎಸ್ ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತವೆ. ಇಲ್ಲಿ x ಎಂಬುದು ಚರಾಕ್ಷರ, ಅಂದರೆ ಅದರ ಮೌಲ್ಯ ಬದಲಾಗಬಹುದು.",
+  "script_display": "ನಾವು ನೋಡಿದ ಉದಾಹರಣೆಯನ್ನೇ ತೆಗೆದುಕೊಳ್ಳೋಣ: $4x + 5 = 65$. ಇಲ್ಲಿ ಸಮ ಚಿಹ್ನೆಯ ಎಡಭಾಗದಲ್ಲಿರುವುದನ್ನು ಎಡಬದಿ ಅಥವಾ Left Hand Side (LHS) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹಾಗೆಯೇ, ಸಮ ಚಿಹ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿರುವುದನ್ನು ಬಲಬದಿ ಅಥವಾ Right Hand Side (RHS) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಒಂದು ಸಮೀಕರಣದಲ್ಲಿ, LHS ಮತ್ತು RHS ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತವೆ. ಇಲ್ಲಿ $x$ ಎಂಬುದು ಚರಾಕ್ಷರ, ಅಂದರೆ ಅದರ ಮೌಲ್ಯ ಬದಲಾಗಬಹುದು.",
+  "display_bullets": [
+    "ಸಮ ಚಿಹ್ನೆಯ (=) ಎಡಭಾಗದಲ್ಲಿರುವುದು ಎಡಬದಿ (LHS).",
+    "ಸಮ ಚಿಹ್ನೆಯ (=) ಬಲಭಾಗದಲ್ಲಿರುವುದು ಬಲಬದಿ (RHS).",
+    "ಒಂದು ಸಮೀಕರಣದಲ್ಲಿ, ಯಾವಾಗಲೂ $LHS = RHS$ ಆಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The equation 4x + 5 = 65 is shown. An arrow points from '4x + 5' to a label 'LHS (ಎಡಬದಿ)'. An arrow points from '65' to a label 'RHS (ಬಲಬದಿ)'. An arrow points from '=' to a label 'ಸಮ ಚಿಹ್ನೆ'. An arrow points from 'x' to a label 'ಚರಾಕ್ಷರ (Variable)'.",
+    "labels": "LHS, RHS, ಸಮ ಚಿಹ್ನೆ, ಚರಾಕ್ಷರ",
+    "mathematical_significance": "Visually breaks down an equation into its constituent parts: Left-Hand Side, Right-Hand Side, equality sign, and variable.",
+    "placeholder_note": "Image to be generated showing the parts of the equation 4x + 5 = 65."
+  },
+  "chunk_id": "ALG-EQ1-1_concept_1_chunk_010"
+}

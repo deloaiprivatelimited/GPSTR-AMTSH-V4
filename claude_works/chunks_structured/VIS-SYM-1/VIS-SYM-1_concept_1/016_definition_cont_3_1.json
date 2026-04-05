@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಕ್ಷರ 'A'",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರ 'A' ಯನ್ನು ಗಮನಿಸಿ. ನಾವು ಅದರ ಮಧ್ಯದಲ್ಲಿ ಒಂದು ಲಂಬ ರೇಖೆಯನ್ನು ಎಳೆದರೆ, ಅದು ಅದರ ಸಮಮಿತಿ ರೇಖೆಯಾಗುತ್ತದೆ. ಈಗ ಆ ರೇಖೆಯನ್ನು ಒಂದು ಕನ್ನಡಿ ಎಂದು ಭಾವಿಸಿಕೊಳ್ಳಿ. ಅಕ್ಷರದ ಎಡಭಾಗವು ಕನ್ನಡಿಯಲ್ಲಿ ಬಲಭಾಗದ ಪ್ರತಿಬಿಂಬದಂತೆ ಕಾಣುತ್ತದೆ, ಮತ್ತು ಬಲಭಾಗವು ಎಡಭಾಗದ ಪ್ರತಿಬಿಂಬದಂತೆ ಕಾಣುತ್ತದೆ. ಈ ರೇಖೆಯ ಮೇಲೆ ಅಕ್ಷರವನ್ನು ಮಡಚಿದಾಗ, ಎರಡೂ ಭಾಗಗಳು ಒಂದರ ಮೇಲೊಂದು ಸರಿಯಾಗಿ ಹೊಂದಿಕೊಳ್ಳುತ್ತವೆ. ಇದೇ ಪ್ರತಿಫಲನ ಸಮಮಿತಿಯ ಸ್ಪಷ್ಟ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರ 'A' ಯನ್ನು ಗಮನಿಸಿ. ನಾವು ಅದರ ಮಧ್ಯದಲ್ಲಿ ಒಂದು ಲಂಬ ರೇಖೆಯನ್ನು ಎಳೆದರೆ, ಅದು ಅದರ ಸಮಮಿತಿ ರೇಖೆಯಾಗುತ್ತದೆ. ಈಗ ಆ ರೇಖೆಯನ್ನು ಒಂದು ಕನ್ನಡಿ ಎಂದು ಭಾವಿಸಿಕೊಳ್ಳಿ. ಅಕ್ಷರದ ಎಡಭಾಗವು ಕನ್ನಡಿಯಲ್ಲಿ ಬಲಭಾಗದ ಪ್ರತಿಬಿಂಬದಂತೆ ಕಾಣುತ್ತದೆ, ಮತ್ತು ಬಲಭಾಗವು ಎಡಭಾಗದ ಪ್ರತಿಬಿಂಬದಂತೆ ಕಾಣುತ್ತದೆ. ಈ ರೇಖೆಯ ಮೇಲೆ ಅಕ್ಷರವನ್ನು ಮಡಚಿದಾಗ, ಎರಡೂ ಭಾಗಗಳು ಒಂದರ ಮೇಲೊಂದು ಸರಿಯಾಗಿ ಹೊಂದಿಕೊಳ್ಳುತ್ತವೆ. ಇದೇ ಪ್ರತಿಫಲನ ಸಮಮಿತಿಯ ಸ್ಪಷ್ಟ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರ 'A' ಯನ್ನು ಗಮನಿಸಿ.",
+    "ಅದರ ಮಧ್ಯದಲ್ಲಿರುವ ಲಂಬ ರೇಖೆಯು ಸಮಮಿತಿ ರೇಖೆಯಾಗಿದೆ.",
+    "ಈ ರೇಖೆಯು ದರ್ಪಣದಂತೆ ವರ್ತಿಸುತ್ತದೆ, ಒಂದು ಭಾಗವು ಇನ್ನೊಂದರ ಪ್ರತಿಬಿಂಬವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The capital letter 'A' is shown in the center. A vertical dotted line runs through its apex and the middle of its horizontal bar, indicating the line of symmetry. Arrows point from the left half to the right half, signifying reflection.",
+    "labels": "ಅಕ್ಷರ 'A', ಸಮಮಿತಿ ರೇಖೆ",
+    "mathematical_significance": "Provides a concrete and familiar example of reflectional symmetry using an alphabet.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "VIS-SYM-1_concept_1_chunk_016"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 2: ವರ್ಗಮೂಲ",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಪರಿಚಿತ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಸ್ಯೆ: ಒಂಬತ್ತು ಘಾತ ಒಂದು ಭಾಗಿಸು ಎರಡು ರ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ. ನೆನಪಿಡಿ, ಎ ಘಾತ ಒಂದು ಭಾಗಿಸು ಎರಡು ಎಂದರೆ ಎ ಯ ವರ್ಗಮೂಲ, ಆದ್ದರಿಂದ ಒಂಬತ್ತು ಘಾತ ಒಂದು ಭಾಗಿಸು ಎರಡು ಸಮ ಒಂಬತ್ತರ ವರ್ಗಮೂಲ. ಈಗ, ಯಾವ ಸಂಖ್ಯೆಯನ್ನು ಎರಡು ಬಾರಿ ಗುಣಿಸಿದರೆ ಒಂಬತ್ತು ಬರುತ್ತದೆ? ಏಕೆಂದರೆ ಮೂರು ಗುಣಿಸು ಮೂರು ಸಮ ಒಂಬತ್ತು, ಉತ್ತರ ಮೂರು ಆಗಿದೆ. ಹಾಗಾಗಿ, ಯಾವುದೇ ಸಂಖ್ಯೆಯ ಘಾತ ಒಂದು ಭಾಗಿಸು ಎರಡು ಎಂದರೆ ಅದರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಎಂದರ್ಥ.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಪರಿಚಿತ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಸ್ಯೆ: $9^{\\frac{1}{2}}$ ರ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ. ನೆನಪಿಡಿ, $a^{\\frac{1}{2}}$ ಎಂದರೆ $a$ ಯ ವರ್ಗಮೂಲ ($\\_\\sqrt{a}$), ಆದ್ದರಿಂದ $9^{\\frac{1}{2}} = \\sqrt{9}$. ಈಗ, ಯಾವ ಸಂಖ್ಯೆಯನ್ನು 2 ಬಾರಿ ಗುಣಿಸಿದರೆ 9 ಬರುತ್ತದೆ? ಏಕೆಂದರೆ $3 \\times 3 = 9$, ಉತ್ತರ 3 ಆಗಿದೆ. ಹಾಗಾಗಿ, ಯಾವುದೇ ಸಂಖ್ಯೆಯ ಘಾತ $\\frac{1}{2}$ ಎಂದರೆ ಅದರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಎಂದರ್ಥ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $9^{\\frac{1}{2}}$ ರ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "$a^{\\frac{1}{2}}$ ಎಂದರೆ $a$ ಯ ವರ್ಗಮೂಲ ($\\_\\sqrt{a}$), ಆದ್ದರಿಂದ $9^{\\frac{1}{2}} = \\sqrt{9}$.",
+    "ಏಕೆಂದರೆ $3 \\times 3 = 9$, ಉತ್ತರ $3$ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "9^{\\frac{1}{2}} = \\sqrt{9} = 3",
+    "placeholder_note": "Example connecting fractional exponent to square root: 9 to the power 1/2 equals the square root of 9, which is 3."
+  },
+  "chunk_id": "NS-SYS-3_concept_6_chunk_018"
+}

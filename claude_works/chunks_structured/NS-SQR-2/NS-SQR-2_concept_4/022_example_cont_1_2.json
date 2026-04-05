@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, 95 ರ ವರ್ಗವು 9025 ಆಗಿದೆ. ಬಿಡಿ ಸ್ಥಾನದಲ್ಲಿ 5 ಇರುವ ಯಾವುದೇ ಸಂಖ್ಯೆಯ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಈ ಸುಲಭ ವಿಧಾನವನ್ನು ನೀವು ಬಳಸಬಹುದು. ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ಬಹಳ ವೇಗವಾಗಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಹೀಗಾಗಿ, 95 ರ ವರ್ಗವು 9025 ಆಗಿದೆ. ಬಿಡಿ ಸ್ಥಾನದಲ್ಲಿ 5 ಇರುವ ಯಾವುದೇ ಸಂಖ್ಯೆಯ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಈ ಸುಲಭ ವಿಧಾನವನ್ನು ನೀವು ಬಳಸಬಹುದು. ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ಬಹಳ ವೇಗವಾಗಿ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "95 ರ ವರ್ಗ 9025."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "95^2 = 9025",
+    "placeholder_note": "A box showing the final answer: 95 squared equals 9025"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "NS-SQR-2_example_3",
+  "final_answer": "$95^2 = 9025$",
+  "final_answer_display": "$95^2 = 9025$",
+  "chunk_id": "NS-SQR-2_concept_4_chunk_022"
+}

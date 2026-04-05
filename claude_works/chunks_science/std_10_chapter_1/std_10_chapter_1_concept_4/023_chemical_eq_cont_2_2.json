@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಕರ್ಷಣ ಮತ್ತು ಅಪಕರ್ಷಣ ಪ್ರಕ್ರಿಯೆ",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಉತ್ಕರ್ಷಣ ಮತ್ತು ಅಪಕರ್ಷಣ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ, ಅಂದರೆ H C l, ಕ್ಲೋರಿನ್ ಅನಿಲ, ಅಂದರೆ Cl two ಆಗಿ ಬದಲಾಗಿದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಅದು ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಕಳೆದುಕೊಂಡಿದೆ. ಹೈಡ್ರೋಜನ್ ನಷ್ಟವು ಉತ್ಕರ್ಷಣ. ಆದ್ದರಿಂದ, H C l ಉತ್ಕರ್ಷಣಗೊಂಡಿದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ಮ್ಯಾಂಗನೀಸ್ ಡೈಆಕ್ಸೈಡ್, ಅಂದರೆ MnO two, ಮ್ಯಾಂಗನೀಸ್ ಕ್ಲೋರೈಡ್, ಅಂದರೆ MnCl two ಆಗಿ ಬದಲಾಗಿದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಅದು ಆಕ್ಸಿಜನ್ ಅನ್ನು ಕಳೆದುಕೊಂಡಿದೆ. ಆಕ್ಸಿಜನ್ ನಷ್ಟವು ಅಪಕರ್ಷಣ. ಆದ್ದರಿಂದ, MnO two ಅಪಕರ್ಷಣಗೊಂಡಿದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಉತ್ಕರ್ಷಣ ಮತ್ತು ಅಪಕರ್ಷಣ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ.",
+  "display_bullets": [
+    "HCl → Cl₂: ಹೈಡ್ರೋಜನ್‌ನ ನಷ್ಟವಾಗಿದೆ, ಆದ್ದರಿಂದ ಇದು ಉತ್ಕರ್ಷಣ.",
+    "MnO₂ → MnCl₂: ಆಕ್ಸಿಜನ್‌ನ ನಷ್ಟವಾಗಿದೆ, ಆದ್ದರಿಂದ ಇದು ಅಪಕರ್ಷಣ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_3",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the redox reaction MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂. An arrow points from HCl to Cl₂ labeled 'ಉತ್ಕರ್ಷಣ (ಹೈಡ್ರೋಜನ್ ನಷ್ಟ)'. Another arrow points from MnO₂ to MnCl₂ labeled 'ಅಪಕರ್ಷಣ (ಆಕ್ಸಿಜನ್ ನಷ್ಟ)'.",
+    "labels": "MnO₂, HCl, MnCl₂, Cl₂, ಉತ್ಕರ್ಷಣ, ಅಪಕರ್ಷಣ",
+    "scientific_significance": "Visually demonstrates which substance is oxidized (loses hydrogen) and which is reduced (loses oxygen) in this specific redox reaction.",
+    "placeholder_note": "Image to be generated showing the flow of oxidation and reduction."
+  },
+  "chunk_id": "std_10_chapter_1_concept_4_chunk_023"
+}

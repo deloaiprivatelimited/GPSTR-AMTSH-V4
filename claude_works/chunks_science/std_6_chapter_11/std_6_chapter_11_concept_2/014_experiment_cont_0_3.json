@@ -1,0 +1,36 @@
+{
+  "type": "experiment",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಏನಾಗುತ್ತದೆ?",
+  "script": "ನಮ್ಮ ಸುಂದರವಾದ ಗಿರಗಿಟ್ಟೆ ಈಗ ಸಿದ್ಧವಾಗಿದೆ. ಈಗ ನಾವು ಇದನ್ನು ಪರೀಕ್ಷಿಸೋಣ. ಗಿರಗಿಟ್ಟೆಯನ್ನು ನಿಮ್ಮ ಕೈಯಲ್ಲಿ ಹಿಡಿದುಕೊಂಡು ಅದರ ಮೇಲೆ ನಿಧಾನವಾಗಿ ಊದಿ. ಏನಾಯಿತು? ಗಿರಗಿಟ್ಟೆಯ ಮೇಲೆ ಗಾಳಿ ಊದಿದಾಗ ಅದು ತಿರುಗುತ್ತದೆ. ನೀವು ಜೋರಾಗಿ ಊದಿದರೆ, ಅದು ಇನ್ನೂ ವೇಗವಾಗಿ ತಿರುಗುತ್ತದೆ. ಇನ್ನೊಂದು ರೀತಿಯಲ್ಲಿ, ಗಿರಗಿಟ್ಟೆಯನ್ನು ಹಿಡಿದು ಓಡಿದಾಗ ಅದು ವೇಗವಾಗಿ ತಿರುಗುತ್ತದೆ. ಚಲಿಸುವ ಗಾಳಿಯು ಗಿರಗಿಟ್ಟೆಯ ರೆಕ್ಕೆಗಳ ಮೇಲೆ ಬಡಿದಾಗ ಈ ಚಲನೆ ಉಂಟಾಗುತ್ತದೆ. ಇದನ್ನು ನೀವೂ ಮಾಡಿ ನೋಡಿ.",
+  "script_display": "ನಮ್ಮ ಸುಂದರವಾದ ಗಿರಗಿಟ್ಟೆ ಈಗ ಸಿದ್ಧವಾಗಿದೆ. ಈಗ ನಾವು ಇದನ್ನು ಪರೀಕ್ಷಿಸೋಣ. ಗಿರಗಿಟ್ಟೆಯನ್ನು ನಿಮ್ಮ ಕೈಯಲ್ಲಿ ಹಿಡಿದುಕೊಂಡು ಅದರ ಮೇಲೆ ನಿಧಾನವಾಗಿ ಊದಿ. ಏನಾಯಿತು? ಗಿರಗಿಟ್ಟೆಯ ಮೇಲೆ ಗಾಳಿ ಊದಿದಾಗ ಅದು ತಿರುಗುತ್ತದೆ. ನೀವು ಜೋರಾಗಿ ಊದಿದರೆ, ಅದು ಇನ್ನೂ ವೇಗವಾಗಿ ತಿರುಗುತ್ತದೆ. ಇನ್ನೊಂದು ರೀತಿಯಲ್ಲಿ, ಗಿರಗಿಟ್ಟೆಯನ್ನು ಹಿಡಿದು ಓಡಿದಾಗ ಅದು ವೇಗವಾಗಿ ತಿರುಗುತ್ತದೆ. ಚಲಿಸುವ ಗಾಳಿಯು ಗಿರಗಿಟ್ಟೆಯ ರೆಕ್ಕೆಗಳ ಮೇಲೆ ಬಡಿದಾಗ ಈ ಚಲನೆ ಉಂಟಾಗುತ್ತದೆ. ಇದನ್ನು ನೀವೂ ಮಾಡಿ ನೋಡಿ.",
+  "display_bullets": [
+    "ಗಿರಗಿಟ್ಟೆಯ ಮೇಲೆ ಗಾಳಿ ಊದಿದಾಗ ಅದು ತಿರುಗುತ್ತದೆ.",
+    "ಗಿರಗಿಟ್ಟೆಯನ್ನು ಹಿಡಿದು ಓಡಿದಾಗ ಅದು ವೇಗವಾಗಿ ತಿರುಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_text_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of a person blowing on a pinwheel, with motion lines indicating the spinning of the pinwheel. Another small illustration shows a child running with a pinwheel, which is also spinning.",
+    "labels": "ಊದುವುದು, ಓಡುವುದು, ತಿರುಗುವಿಕೆ",
+    "scientific_significance": "Visually represents the cause (moving air) and effect (rotation) which is the core observation of the experiment.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_6_chapter_11_concept_2_chunk_014"
+}

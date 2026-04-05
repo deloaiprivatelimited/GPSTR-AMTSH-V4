@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಏನನ್ನು ಗಮನಿಸಿದೆವು?",
+  "script": "ಈಗ ಫಲಿತಾಂಶವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ಗಮನಿಸಬಹುದು. ಪ್ರನಾಳ 'A' ದಲ್ಲಿ, ಅಯೋಡಿನ್ ದ್ರಾವಣವನ್ನು ಹಾಕಿದ ತಕ್ಷಣ, ದ್ರಾವಣವು ಗಾಢ ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿದೆ. ಇದು ಪಿಷ್ಟದ ಇರುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಆದರೆ, ಪ್ರನಾಳ 'B' ಯನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ದ್ರಾವಣದ ಬಣ್ಣದಲ್ಲಿ ಯಾವುದೇ ಗಮನಾರ್ಹ ಬದಲಾವಣೆ ಆಗಿಲ್ಲ. ಅದು ಅಯೋಡಿನ್ ದ್ರಾವಣದ ತಿಳಿ ಹಳದಿ ಅಥವಾ ಕಂದು ಬಣ್ಣದಲ್ಲಿಯೇ ಉಳಿದಿದೆ. ಈ ಎರಡು ಪ್ರನಾಳಗಳಲ್ಲಿನ ಬಣ್ಣದ ವ್ಯತ್ಯಾಸವೇ ನಮ್ಮ ಪ್ರಯೋಗದ ಪ್ರಮುಖ ವೀಕ್ಷಣೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಫಲಿತಾಂಶವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ಗಮನಿಸಬಹುದು. ಪ್ರನಾಳ 'A' ದಲ್ಲಿ, ಅಯೋಡಿನ್ ದ್ರಾವಣವನ್ನು ಹಾಕಿದ ತಕ್ಷಣ, ದ್ರಾವಣವು ಗಾಢ ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿದೆ. ಇದು ಪಿಷ್ಟದ ಇರುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಆದರೆ, ಪ್ರನಾಳ 'B' ಯನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ದ್ರಾವಣದ ಬಣ್ಣದಲ್ಲಿ ಯಾವುದೇ ಗಮನಾರ್ಹ ಬದಲಾವಣೆ ಆಗಿಲ್ಲ. ಅದು ಅಯೋಡಿನ್ ದ್ರಾವಣದ ತಿಳಿ ಹಳದಿ ಅಥವಾ ಕಂದು ಬಣ್ಣದಲ್ಲಿಯೇ ಉಳಿದಿದೆ. ಈ ಎರಡು ಪ್ರನಾಳಗಳಲ್ಲಿನ ಬಣ್ಣದ ವ್ಯತ್ಯಾಸವೇ ನಮ್ಮ ಪ್ರಯೋಗದ ಪ್ರಮುಖ ವೀಕ್ಷಣೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪ್ರನಾಳ 'A': ದ್ರಾವಣವು ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ.",
+    "ಪ್ರನಾಳ 'B': ದ್ರಾವಣದ ಬಣ್ಣದಲ್ಲಿ ಯಾವುದೇ ಬದಲಾವಣೆ ಇಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing two test tubes side-by-side after the experiment. Test tube 'A' contains a dark blue-black solution. Test tube 'B' contains a light yellow/brown solution. Labels should indicate 'ಪ್ರನಾಳ A (ಪಿಷ್ಟ + ಅಯೋಡಿನ್)' and 'ಪ್ರನಾಳ B (ಜಗಿದ ಅನ್ನ + ಅಯೋಡಿನ್)'.",
+    "labels": "ಪ್ರನಾಳ A, ಪ್ರನಾಳ B, ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣ, ಬಣ್ಣ ಬದಲಾವಣೆ ಇಲ್ಲ",
+    "scientific_significance": "Visually demonstrates the result of the iodine test for starch in both control and experimental setups, highlighting the effect of saliva.",
+    "placeholder_note": "Image to be generated showing the final state of the two test tubes."
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_7_chapter_2_concept_4_chunk_013"
+}

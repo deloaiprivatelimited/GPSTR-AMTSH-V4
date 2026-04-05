@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i)",
+  "script": "ಮೊದಲ ಭಾಗವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ: ನಲವತ್ತೊಂಬತ್ತು a ವರ್ಗ ಪ್ಲಸ್ ಎಪ್ಪತ್ತು ab ಪ್ಲಸ್ ಇಪ್ಪತ್ತೈದು b ವರ್ಗ. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಪದಗಳನ್ನು ಪೂರ್ಣವರ್ಗಗಳಾಗಿ ಬರೆಯೋಣ. ನಲವತ್ತೊಂಬತ್ತು a ವರ್ಗವನ್ನು ಏಳು a ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಎಂದು ಬರೆಯಬಹುದು, ಮತ್ತು ಇಪ್ಪತ್ತೈದು b ವರ್ಗವನ್ನು ಐದು b ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಎಂದು ಬರೆಯಬಹುದು. ಈಗ ಮಧ್ಯದ ಪದ ಎಪ್ಪತ್ತು ab ಯನ್ನು ಎರಡು ಇಂಟು ಏಳು a ಇಂಟು ಐದು b ಎಂದು ಬರೆಯಬಹುದು. ಇದು ಎರಡು xy ರೂಪದಲ್ಲಿದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ನಿತ್ಯಸಮೀಕರಣ ಒಂದು, ಅಂದರೆ x ಪ್ಲಸ್ y ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ x ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಎರಡು xy ಪ್ಲಸ್ y ಸ್ಕ್ವೇರ್ಡ್ ಅನ್ನು ಬಳಸುತ್ತೇವೆ. ಇಲ್ಲಿ x ಎಂಬುದು ಏಳು a ಮತ್ತು y ಎಂಬುದು ಐದು b ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಕೊಟ್ಟಿರುವ ಬೀಜೋಕ್ತಿಯು ಏಳು a ಪ್ಲಸ್ ಐದು b ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಆಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲ ಭಾಗವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ: $49a^2 + 70ab + 25b^2$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-POL-3_example_16",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$49a^2 = (7a)^2$\n$25b^2 = (5b)^2$\n$70ab = 2(7a)(5b)$",
+      "justification": "ಪದಗಳನ್ನು $x^2, y^2$ ಮತ್ತು $2xy$ ರೂಪದಲ್ಲಿ ಬರೆಯುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$49a^2 + 70ab + 25b^2 = (7a)^2 + 2(7a)(5b) + (5b)^2 = (7a+5b)^2$",
+      "justification": "ನಿತ್ಯಸಮೀಕರಣ I: $(x+y)^2 = x^2+2xy+y^2$ ಬಳಸಿ, ಇಲ್ಲಿ $x=7a, y=5b$."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_053"
+}

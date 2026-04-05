@@ -1,0 +1,31 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಮೂರು ಸಂಖ್ಯೆಗಳಿಗೆ ಲ.ಸಾ.ಅ (LCM)",
+  "script": "ಈಗ ನಾವು ಮೂರು ಧನ ಪೂರ್ಣಾಂಕಗಳಾದ p, q, ಮತ್ತು r ಗಳ ಲಘುತ್ತಮ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ, ಅಂದರೆ ಲ.ಸಾ.ಅ ಅನ್ನು ಕಂಡುಹಿಡಿಯುವ ಒಂದು ವಿಶೇಷ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಈ ಸೂತ್ರವು ಎರಡು ಸಂಖ್ಯೆಗಳ ಲ.ಸಾ.ಅ ಮತ್ತು ಮ.ಸಾ.ಅ ನಡುವಿನ ಸಂಬಂಧಕ್ಕಿಂತ ಭಿನ್ನವಾಗಿದೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: p, q, r ಗಳ ಲ.ಸಾ.ಅ ಸಮ p ಗುಣಿಸು q ಗುಣಿಸು r ಗುಣಿಸು p, q, r ಗಳ ಮ.ಸಾ.ಅ, ಇದನ್ನು p, q ಗಳ ಮ.ಸಾ.ಅ, q, r ಗಳ ಮ.ಸಾ.ಅ, ಮತ್ತು p, r ಗಳ ಮ.ಸಾ.ಅ ಗಳ ಗುಣಲಬ್ಧದಿಂದ ಭಾಗಿಸಲಾಗಿದೆ. ಈ ಸೂತ್ರದಲ್ಲಿ, ನಾವು ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧ, ಮೂರೂ ಸಂಖ್ಯೆಗಳ ಮ.ಸಾ.ಅ, ಮತ್ತು ಪ್ರತಿ ಜೋಡಿ ಸಂಖ್ಯೆಗಳ ಮ.ಸಾ.ಅ ಅನ್ನು ಬಳಸುತ್ತೇವೆ. ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಮುಖ್ಯ, ಏಕೆಂದರೆ ಇದು ಎರಡು ಸಂಖ್ಯೆಗಳ ಸರಳ ಸೂತ್ರಕ್ಕೆ ನೇರ ವಿಸ್ತರಣೆಯಲ್ಲ.",
+  "script_display": "ಈಗ ನಾವು ಮೂರು ಧನ ಪೂರ್ಣಾಂಕಗಳಾದ $p, q$, ಮತ್ತು $r$ ಗಳ ಲಘುತ್ತಮ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ (LCM) ಅನ್ನು ಕಂಡುಹಿಡಿಯುವ ಒಂದು ವಿಶೇಷ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಈ ಸೂತ್ರವು ಎರಡು ಸಂಖ್ಯೆಗಳ LCM ಮತ್ತು HCF ನಡುವಿನ ಸಂಬಂಧಕ್ಕಿಂತ ಭಿನ್ನವಾಗಿದೆ. ಸೂತ್ರವು ಹೀಗಿದೆ:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "center_visual_w_caption",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "LCM(p, q, r) = \\frac{p \\cdot q \\cdot r \\cdot HCF(p, q, r)}{HCF(p, q) \\cdot HCF(q, r) \\cdot HCF(p, r)}",
+    "placeholder_note": "Formula for LCM of three numbers p, q, r."
+  },
+  "chunk_id": "NS-REAL-4_concept_1_chunk_039"
+}

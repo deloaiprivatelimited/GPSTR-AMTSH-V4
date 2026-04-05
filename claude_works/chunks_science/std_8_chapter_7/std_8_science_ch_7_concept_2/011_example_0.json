@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ ಲೆಕ್ಕ: ಪೂರ್ಣ ಎತ್ತರದ ಅಂದಾಜು",
+  "script": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. 9 ವರ್ಷದ ಹುಡುಗನೊಬ್ಬ 120 ಸೆಂಟಿಮೀಟರ್ ಎತ್ತರವಿದ್ದಾನೆ. ಬೆಳವಣಿಗೆಯ ಅವಧಿಯ ಕೊನೆಯಲ್ಲಿ ಅವನು ಬೆಳೆಯಬಹುದಾದ ಅಂದಾಜು ಎತ್ತರವೆಷ್ಟು? ಈ ಲೆಕ್ಕದಲ್ಲಿ ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ ಎಂದರೆ, ಹುಡುಗನ ಈಗಿನ ವಯಸ್ಸು 9 ವರ್ಷ ಮತ್ತು ಈಗಿನ ಎತ್ತರ 120 ಸೆಂಟಿಮೀಟರ್. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಅವನ ಅಂದಾಜು ಪೂರ್ಣ ಎತ್ತರ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. 9 ವರ್ಷದ ಹುಡುಗನೊಬ್ಬ 120 cm ಎತ್ತರವಿದ್ದಾನೆ. ಬೆಳವಣಿಗೆಯ ಅವಧಿಯ ಕೊನೆಯಲ್ಲಿ ಅವನು ಬೆಳೆಯಬಹುದಾದ ಅಂದಾಜು ಎತ್ತರವೆಷ್ಟು? ಈ ಲೆಕ್ಕದಲ್ಲಿ ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ ಎಂದರೆ, ಹುಡುಗನ ಈಗಿನ ವಯಸ್ಸು 9 ವರ್ಷ ಮತ್ತು ಈಗಿನ ಎತ್ತರ 120 cm. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಅವನ ಅಂದಾಜು ಪೂರ್ಣ ಎತ್ತರ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 9 ವರ್ಷದ ಹುಡುಗನೊಬ್ಬ 120 cm ಎತ್ತರವಿದ್ದಾನೆ. ಅವನ ಅಂದಾಜು ಪೂರ್ಣ ಎತ್ತರವೆಷ್ಟು?",
+    "ದತ್ತಾಂಶ (Given): ಈಗಿನ ವಯಸ್ಸು = 9 ವರ್ಷ, ಈಗಿನ ಎತ್ತರ = 120 cm",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (Find): ಅಂದಾಜು ಪೂರ್ಣ ಎತ್ತರ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A friendly illustration of a 9-year-old boy standing next to a height chart, looking curious. The numbers 120 cm are visible on the chart.",
+    "labels": "Boy, Height Chart, 120 cm mark",
+    "scientific_significance": "Visually represents the starting point of the problem, making it more relatable.",
+    "placeholder_note": "Image to be generated"
+  },
+  "source_example_id": "std_8_science_ch_7_example_1",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "std_8_science_ch_7_concept_2_chunk_011"
+}

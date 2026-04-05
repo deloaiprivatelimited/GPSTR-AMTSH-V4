@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 1: ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು",
+  "script": "ಮೊದಲ ಉದಾಹರಣೆಯಾಗಿ, ಒಂದು ಸಾಮಾನ್ಯ ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವ ಕ್ರಿಯೆಯನ್ನು ಪರಿಗಣಿಸೋಣ. ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮಿದಾಗ ನಮಗೆ ಸಿಗಬಹುದಾದ ಎರಡು ಫಲಿತಾಂಶಗಳೆಂದರೆ, ಒಂದು ಹೆಡ್, ಅಂದರೆ ಶಿರ, ಅಥವಾ ಇನ್ನೊಂದು ಟೇಲ್, ಅಂದರೆ ಪುಚ್ಛ. ಇಲ್ಲಿ, ಹೆಡ್ ಬೀಳುವ ಸಾಧ್ಯತೆ ಮತ್ತು ಟೇಲ್ ಬೀಳುವ ಸಾಧ್ಯತೆ ಎರಡೂ ಸಮಾನವಾಗಿರುತ್ತವೆ. ನಾಣ್ಯವು ಯಾವುದೇ ಬದಿಗೆ ಹೆಚ್ಚು ವಾಲುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, ಹೆಡ್ ಮತ್ತು ಟೇಲ್ ಇವೆರಡೂ ಸಮಾನ ಸಾಧ್ಯತೆಯ ಫಲಿತಾಂಶಗಳಾಗಿವೆ. ಎರಡಕ್ಕೂ ಫಿಫ್ಟಿ ಫಿಫ್ಟಿ ಚಾನ್ಸ್ ಇರುತ್ತದೆ.",
+  "script_display": "ಮೊದಲ ಉದಾಹರಣೆಯಾಗಿ, ಒಂದು ಸಾಮಾನ್ಯ ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವ ಕ್ರಿಯೆಯನ್ನು ಪರಿಗಣಿಸೋಣ. ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮಿದಾಗ ನಮಗೆ ಸಿಗಬಹುದಾದ ಎರಡು ಫಲಿತಾಂಶಗಳೆಂದರೆ, ಒಂದು ಹೆಡ್ (ಶಿರ) ಅಥವಾ ಇನ್ನೊಂದು ಟೇಲ್ (ಪುಚ್ಛ). ಇಲ್ಲಿ, ಹೆಡ್ ಬೀಳುವ ಸಾಧ್ಯತೆ ಮತ್ತು ಟೇಲ್ ಬೀಳುವ ಸಾಧ್ಯತೆ ಎರಡೂ ಸಮಾನವಾಗಿರುತ್ತವೆ. ನಾಣ್ಯವು ಯಾವುದೇ ಬದಿಗೆ ಹೆಚ್ಚು ವಾಲುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, ಹೆಡ್ ಮತ್ತು ಟೇಲ್ ಇವೆರಡೂ ಸಮಾನ ಸಾಧ್ಯತೆಯ ಫಲಿತಾಂಶಗಳಾಗಿವೆ. ಎರಡಕ್ಕೂ 50-50 ಚಾನ್ಸ್ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: ಒಂದು ಸಾಮಾನ್ಯ ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು.",
+    "ಸಂಭಾವ್ಯ ಫಲಿತಾಂಶಗಳು: ಹೆಡ್ (ಶಿರ) ಮತ್ತು ಟೇಲ್ (ಪುಚ್ಛ).",
+    "ಹೆಡ್ ಬೀಳುವ ಸಾಧ್ಯತೆ ಮತ್ತು ಟೇಲ್ ಬೀಳುವ ಸಾಧ್ಯತೆ ಸಮಾನವಾಗಿವೆ.",
+    "ಆದ್ದರಿಂದ, ಇವು ಸಮಾನ ಸಾಧ್ಯತೆಯ ಫಲಿತಾಂಶಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A fair coin being tossed. An arrow points from the coin to an image of a 'Head' and another arrow points to an image of a 'Tail'. Both outcomes are labeled 'ಸಮಾನ ಸಾಧ್ಯತೆ' (Equal Probability).",
+    "labels": "coin, head, tail, equal probability",
+    "mathematical_significance": "Illustrates a simple experiment with two equally likely outcomes, a foundational concept in probability.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_012"
+}

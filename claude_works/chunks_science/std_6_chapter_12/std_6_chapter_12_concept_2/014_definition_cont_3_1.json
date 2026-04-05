@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಿಭ್ರಮಣೆಯ ಪರಿಣಾಮಗಳು",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಸೂರ್ಯನ ಸುತ್ತ ಭೂಮಿಯು ತನ್ನ ಕಕ್ಷೆಯಲ್ಲಿ ಚಲಿಸುತ್ತಿರುವುದನ್ನು ನೋಡಬಹುದು. ಭೂಮಿಯು ಸೂರ್ಯನ ಸುತ್ತ ಒಂದು ಸಂಪೂರ್ಣ ಸುತ್ತನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯವೇ ಒಂದು ವರ್ಷ, ಅಂದರೆ ಸುಮಾರು ಮುನ್ನೂರ ಅರವತ್ತೈದು ದಿನಗಳು. ಈ ಪರಿಭ್ರಮಣೆಯ ಕಾರಣದಿಂದಲೇ ಭೂಮಿಯ ಮೇಲೆ ಋತುಮಾನಗಳು, ಅಂದರೆ ಬೇಸಿಗೆಕಾಲ, ಮಳೆಗಾಲ ಮತ್ತು ಚಳಿಗಾಲ ಉಂಟಾಗುತ್ತವೆ. ಭೂಮಿಯು ತನ್ನ ಅಕ್ಷದ ಮೇಲೆ ಸ್ವಲ್ಪ ಓರೆಯಾಗಿರುವುದೂ ಸಹ ಈ ಋತುಗಳ ಬದಲಾವಣೆಗೆ ಒಂದು ಪ್ರಮುಖ ಕಾರಣವಾಗಿದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಸೂರ್ಯನ ಸುತ್ತ ಭೂಮಿಯು ತನ್ನ ಕಕ್ಷೆಯಲ್ಲಿ (orbit) ಚಲಿಸುತ್ತಿರುವುದನ್ನು ನೋಡಬಹುದು. ಭೂಮಿಯು ಸೂರ್ಯನ ಸುತ್ತ ಒಂದು ಸಂಪೂರ್ಣ ಸುತ್ತನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯವೇ ಒಂದು ವರ್ಷ, ಅಂದರೆ ~365 ದಿನಗಳು. ಈ ಪರಿಭ್ರಮಣೆಯ ಕಾರಣದಿಂದಲೇ ಭೂಮಿಯ ಮೇಲೆ ಋತುಮಾನಗಳು (seasons), ಅಂದರೆ ಬೇಸಿಗೆಕಾಲ, ಮಳೆಗಾಲ ಮತ್ತು ಚಳಿಗಾಲ ಉಂಟಾಗುತ್ತವೆ. ಭೂಮಿಯು ತನ್ನ ಅಕ್ಷದ ಮೇಲೆ ಸ್ವಲ್ಪ ಓರೆಯಾಗಿರುವುದೂ ಸಹ ಈ ಋತುಗಳ ಬದಲಾವಣೆಗೆ ಒಂದು ಪ್ರಮುಖ ಕಾರಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಭೂಮಿಯು ಸೂರ್ಯನ ಸುತ್ತ ಒಂದು ಸುತ್ತು ಹಾಕಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ: 1 ವರ್ಷ (~365 ದಿನಗಳು).",
+    "ಪರಿಭ್ರಮಣೆಯು ಋತುಗಳ (ಬೇಸಿಗೆ, ಮಳೆಗಾಲ, ಚಳಿಗಾಲ) ಬದಲಾವಣೆಗೆ ಕಾರಣವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the Earth revolving around the Sun in its elliptical orbit. The four key positions of the Earth corresponding to the solstices and equinoxes are highlighted to explain the seasons. The Earth's axial tilt is also shown.",
+    "labels": "Sun, Earth, Orbit, Summer Solstice, Winter Solstice, Autumnal Equinox, Vernal Equinox, Axial Tilt",
+    "scientific_significance": "Visually demonstrates the concept of revolution and its direct consequence, the changing of seasons on Earth, which is caused by the combination of revolution and axial tilt.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_6_chapter_12_concept_2_chunk_014"
+}

@@ -1,0 +1,48 @@
+{
+  "module_id": "std_7_chapter_6_concept_7",
+  "chapter_code": "std_7_chapter_6",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 3,
+  "ok_count": 3,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:21:46",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "e55c8eb5d67b48b151e62cac771941ba",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.731,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 39,
+      "generated_at": "2026-04-02 14:21:05"
+    },
+    "003_recap_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "74d2feb7c5d96dcc4d968df7b1e0fea0",
+      "wav_file": "003_recap_0.wav",
+      "duration": 51.891,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-04-02 14:21:31"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "d61aad985238571b63a726dd1013644a",
+      "wav_file": "001_intro_0.wav",
+      "duration": 55.091,
+      "slide_title": "ಸಸ್ಯಗಳಲ್ಲಿ ಉಸಿರಾಟ",
+      "type": "chunk",
+      "script_words": 74,
+      "generated_at": "2026-04-02 14:21:46"
+    }
+  }
+}

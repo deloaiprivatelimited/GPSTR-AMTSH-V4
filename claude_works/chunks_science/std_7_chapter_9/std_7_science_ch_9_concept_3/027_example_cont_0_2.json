@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಈಗ ಮೂರನೇ ಹಂತ, ಅಂದರೆ ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ನಲವತ್ತೆರಡನ್ನು ಇಪ್ಪತ್ತರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಎರಡು ಪಾಯಿಂಟ್ ಒಂದು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಲೋಲಕದ ಆವರ್ತನಾವಧಿ ಎರಡು ಪಾಯಿಂಟ್ ಒಂದು ಸೆಕೆಂಡುಗಳು.",
+  "script_display": "ಈಗ ಮೂರನೇ ಹಂತ, ಅಂದರೆ ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. 42 ನ್ನು 20 ರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ 2.1 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಲೋಲಕದ ಆವರ್ತನಾವಧಿ 2.1 ಸೆಕೆಂಡುಗಳು.",
+  "display_bullets": [
+    "**ಹಂತ 3: ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ**<br>ಭಾಗಾಕಾರವನ್ನು ಮಾಡಿದಾಗ, ನಮಗೆ ಅಂತಿಮ ಉತ್ತರ ಸಿಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "T = \\frac{42}{20} = 2.1 \\, \\text{s}",
+    "placeholder_note": "Final calculation showing the division and result"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_7_science_ch_9_example_3",
+  "chunk_id": "std_7_science_ch_9_concept_3_chunk_027"
+}

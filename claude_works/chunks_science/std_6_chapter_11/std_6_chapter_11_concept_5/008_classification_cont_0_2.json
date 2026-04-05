@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಾಮುಖ್ಯತೆ 2: ಉತ್ಪನ್ನಗಳು",
+  "script": "ಎರಡನೆಯದಾಗಿ, ಅರಣ್ಯಗಳು ನಮಗೆ ದೈನಂದಿನ ಜೀವನಕ್ಕೆ ಬೇಕಾದ ಅನೇಕ ಉಪಯುಕ್ತ ಉತ್ಪನ್ನಗಳನ್ನು ನೀಡುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಮನೆ ಕಟ್ಟಲು, ಪೀಠೋಪಕರಣಗಳನ್ನು ತಯಾರಿಸಲು ಬೇಕಾದ ಮರಮಟ್ಟು ಅರಣ್ಯಗಳಿಂದಲೇ ಬರುತ್ತದೆ. ಇದಲ್ಲದೆ, ನಾವು ತಿನ್ನುವ ಹಣ್ಣುಗಳು, ಬೀಜಗಳು ಮತ್ತು ಜೇನುತುಪ್ಪ ಕೂಡ ಕಾಡಿನ ಕೊಡುಗೆ. ಆಯುರ್ವೇದದಂತಹ ಸಾಂಪ್ರದಾಯಿಕ ವೈದ್ಯ ಪದ್ಧತಿಗಳಲ್ಲಿ ಬಳಸುವ ಅನೇಕ ಔಷಧೀಯ ಸಸ್ಯಗಳು ಅರಣ್ಯಗಳಲ್ಲಿಯೇ ಬೆಳೆಯುತ್ತವೆ. ಅಂಟು, ರಾಳ, ಮತ್ತು ರಬ್ಬರ್‌ನಂತಹ ಕೈಗಾರಿಕಾ ಕಚ್ಚಾ ವಸ್ತುಗಳಿಗೂ ಅರಣ್ಯಗಳು ಮೂಲವಾಗಿವೆ. ಈ ಎಲ್ಲಾ ಉತ್ಪನ್ನಗಳು ನಮ್ಮ ಆರ್ಥಿಕತೆಗೂ ಸಹಕಾರಿಯಾಗಿವೆ.",
+  "script_display": "ಎರಡನೆಯದಾಗಿ, ಅರಣ್ಯಗಳು ನಮಗೆ ದೈನಂದಿನ ಜೀವನಕ್ಕೆ ಬೇಕಾದ ಅನೇಕ ಉಪಯುಕ್ತ ಉತ್ಪನ್ನಗಳನ್ನು ನೀಡುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಮನೆ ಕಟ್ಟಲು, ಪೀಠೋಪಕರಣಗಳನ್ನು ತಯಾರಿಸಲು ಬೇಕಾದ ಮರಮಟ್ಟು ಅರಣ್ಯಗಳಿಂದಲೇ ಬರುತ್ತದೆ. ಇದಲ್ಲದೆ, ನಾವು ತಿನ್ನುವ ಹಣ್ಣುಗಳು, ಬೀಜಗಳು ಮತ್ತು ಜೇನುತುಪ್ಪ ಕೂಡ ಕಾಡಿನ ಕೊಡುಗೆ. ಆಯುರ್ವೇದದಂತಹ ಸಾಂಪ್ರದಾಯಿಕ ವೈದ್ಯ ಪದ್ಧತಿಗಳಲ್ಲಿ ಬಳಸುವ ಅನೇಕ ಔಷಧೀಯ ಸಸ್ಯಗಳು ಅರಣ್ಯಗಳಲ್ಲಿಯೇ ಬೆಳೆಯುತ್ತವೆ. ಅಂಟು, ರಾಳ, ಮತ್ತು ರಬ್ಬರ್‌ನಂತಹ ಕೈಗಾರಿಕಾ ಕಚ್ಚಾ ವಸ್ತುಗಳಿಗೂ ಅರಣ್ಯಗಳು ಮೂಲವಾಗಿವೆ. ಈ ಎಲ್ಲಾ ಉತ್ಪನ್ನಗಳು ನಮ್ಮ ಆರ್ಥಿಕತೆಗೂ ಸಹಕಾರಿಯಾಗಿವೆ.",
+  "display_bullets": [
+    "ಮರಮಟ್ಟು (ಪೀಠೋಪಕರಣ, ಕಟ್ಟಡ)",
+    "ಆಹಾರ (ಹಣ್ಣುಗಳು, ಜೇನುತುಪ್ಪ)",
+    "ಔಷಧೀಯ ಸಸ್ಯಗಳು ಮತ್ತು ಇತರೆ (ಅಂಟು, ರಾಳ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collage or grid of images showing various forest products: stacked timber logs, a bowl of assorted fruits and nuts, a bottle of honey, some medicinal herbs (like neem leaves), and sap being collected from a tree for resin.",
+    "labels": "Timber, Fruits, Honey, Medicinal Plants, Resin",
+    "scientific_significance": "Visually represents the diversity of tangible products derived from forests, highlighting their economic and daily-life importance.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "concept_slide",
+  "chunk_id": "std_6_chapter_11_concept_5_chunk_008"
+}

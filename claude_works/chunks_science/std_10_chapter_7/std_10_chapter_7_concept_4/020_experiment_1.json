@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಚಟುವಟಿಕೆ 7.6: ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈಗ ನಾವು ಒಂದು ಸರಳವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಇದು ಕಾಯಜ ಸಂತಾನೋತ್ಪತ್ತಿಯನ್ನು, ಅದರಲ್ಲೂ ಕಾಂಡದಿಂದ ಹೇಗೆ ಹೊಸ ಸಸ್ಯ ಬೆಳೆಯುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ಚಟುವಟಿಕೆಗೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಮೂರು ವಸ್ತುಗಳು. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಮನಿಪ್ಲಾಂಟ್ ಗಿಡ. ಎರಡನೆಯದಾಗಿ, ನೀರನ್ನು ತುಂಬಲು ಒಂದು ಬೀಕರ್ ಅಥವಾ ಗಾಜಿನ ಲೋಟ. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ಬೀಕರ್‌ನಲ್ಲಿ ಹಾಕಲು ಸ್ವಲ್ಪ ನೀರು. ಈ ಸರಳ ಸಾಮಗ್ರಿಗಳನ್ನು ಬಳಸಿ ನಾವು ಮನಿಪ್ಲಾಂಟ್ ಅನ್ನು ಹೇಗೆ ಸುಲಭವಾಗಿ ಬೆಳೆಸಬಹುದು ಎಂದು ನೋಡೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಸರಳವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಇದು ಕಾಯಜ ಸಂತಾನೋತ್ಪತ್ತಿಯನ್ನು, ಅದರಲ್ಲೂ ಕಾಂಡದಿಂದ ಹೇಗೆ ಹೊಸ ಸಸ್ಯ ಬೆಳೆಯುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ಚಟುವಟಿಕೆಗೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಮೂರು ವಸ್ತುಗಳು. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಮನಿಪ್ಲಾಂಟ್ ಗಿಡ. ಎರಡನೆಯದಾಗಿ, ನೀರನ್ನು ತುಂಬಲು ಒಂದು ಬೀಕರ್ ಅಥವಾ ಗಾಜಿನ ಲೋಟ. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ಬೀಕರ್‌ನಲ್ಲಿ ಹಾಕಲು ಸ್ವಲ್ಪ ನೀರು. ಈ ಸರಳ ಸಾಮಗ್ರಿಗಳನ್ನು ಬಳಸಿ ನಾವು ಮನಿಪ್ಲಾಂಟ್ ಅನ್ನು ಹೇಗೆ ಸುಲಭವಾಗಿ ಬೆಳೆಸಬಹುದು ಎಂದು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಮನಿಪ್ಲಾಂಟ್ ಗಿಡ",
+    "ಬೀಕರ್ ಅಥವಾ ಗಾಜಿನ ಲೋಟ",
+    "ನೀರು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A money plant, a beaker filled with water, and a pair of scissors arranged on a table, ready for the experiment.",
+    "labels": "ಮನಿಪ್ಲಾಂಟ್, ಬೀಕರ್, ನೀರು",
+    "scientific_significance": "Demonstrates the simple materials required for vegetative propagation at home.",
+    "placeholder_note": "Image to be generated showing a money plant, a beaker with water, and scissors."
+  },
+  "chunk_id": "std_10_chapter_7_concept_4_chunk_020"
+}

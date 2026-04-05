@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಸಾಲ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ರಮೇಶನು ತನ್ನ ವ್ಯಾಪಾರಕ್ಕಾಗಿ ಬ್ಯಾಂಕಿನಿಂದ ಹತ್ತು ಸಾವಿರ ರೂಪಾಯಿಗಳನ್ನು ಸಾಲವಾಗಿ ಪಡೆಯುತ್ತಾನೆ ಎಂದು ಭಾವಿಸೋಣ. ಈ ಸಂದರ್ಭದಲ್ಲಿ, ರಮೇಶನು ಬ್ಯಾಂಕಿನಿಂದ ಪಡೆದ ಆರಂಭಿಕ ಮೊತ್ತವಾದ ಹತ್ತು ಸಾವಿರ ರೂಪಾಯಿಗಳೇ 'ಅಸಲು' ಅಥವಾ ಪ್ರಿನ್ಸಿಪಲ್ ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, ಬಡ್ಡಿ ಲೆಕ್ಕಾಚಾರವು ಈ ಹತ್ತು ಸಾವಿರ ರೂಪಾಯಿಗಳ ಮೇಲೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ. ಹಾಗಾಗಿ, ಈ ಉದಾಹರಣೆಯಲ್ಲಿ, ಪಿ ಈಕ್ವಲ್ಸ್ ಹತ್ತು ಸಾವಿರ ರೂಪಾಯಿಗಳು.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ರಮೇಶನು ತನ್ನ ವ್ಯಾಪಾರಕ್ಕಾಗಿ ಬ್ಯಾಂಕಿನಿಂದ ₹10,000 ಸಾಲವಾಗಿ ಪಡೆಯುತ್ತಾನೆ ಎಂದು ಭಾವಿಸೋಣ. ಈ ಸಂದರ್ಭದಲ್ಲಿ, ರಮೇಶನು ಬ್ಯಾಂಕಿನಿಂದ ಪಡೆದ ಆರಂಭಿಕ ಮೊತ್ತವಾದ ₹10,000 ಗಳೇ 'ಅಸಲು' (Principal) ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, ಬಡ್ಡಿ ಲೆಕ್ಕಾಚಾರವು ಈ ₹10,000 ಗಳ ಮೇಲೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ. ಹಾಗಾಗಿ, ಈ ಉದಾಹರಣೆಯಲ್ಲಿ, P = ₹10,000.",
+  "display_bullets": [
+    "ರಮೇಶನು ಬ್ಯಾಂಕಿನಿಂದ ₹10,000 ಸಾಲ ಪಡೆಯುತ್ತಾನೆ.",
+    "ಈ ಸಂದರ್ಭದಲ್ಲಿ, ರಮೇಶನು ಪಡೆದ ಆರಂಭಿಕ ಮೊತ್ತವೇ 'ಅಸಲು' (Principal).",
+    "ಇಲ್ಲಿ, ಅಸಲು (P) = ₹10,000."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple illustration showing a person receiving a bundle of cash from a bank building icon. An arrow points from the bank to the person, labeled '₹10,000 ಸಾಲ (Loan)'. The bundle of cash should be labeled 'ಅಸಲು (P)'.",
+    "labels": "Bank, Loan, Person, Principal, ಅಸಲು",
+    "mathematical_significance": "Visually demonstrates that the borrowed amount in a loan scenario is the principal.",
+    "placeholder_note": "Image to be generated for 'Loan Example'."
+  },
+  "chunk_id": "RPP-COMP-1_concept_5_chunk_004"
+}

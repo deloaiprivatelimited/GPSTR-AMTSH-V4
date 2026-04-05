@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ನಾವು ಪಡೆದ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಮೂರು ಪಾಯಿಂಟ್ ಐದು ಎರಡು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಐದರ ಸಾಮಾನ್ಯ ರೂಪ ಮೂರು ಲಕ್ಷ ಐವತ್ತೆರಡು ಸಾವಿರ. ಎರಡನೆಯದಾಗಿ, ಏಳು ಪಾಯಿಂಟ್ ಐದು ನಾಲ್ಕು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಮೈನಸ್ ನಾಲ್ಕರ ಸಾಮಾನ್ಯ ರೂಪ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಸೊನ್ನೆ ಸೊನ್ನೆ ಏಳು ಐದು ನಾಲ್ಕು. ನೆನಪಿಡಿ, ಧನ ಘಾತಾಂಕವಿದ್ದರೆ ದಶಮಾಂಶವನ್ನು ಬಲಕ್ಕೆ ಸರಿಸಬೇಕು ಮತ್ತು ಋಣ ಘಾತಾಂಕವಿದ್ದರೆ ಎಡಕ್ಕೆ ಸರಿಸಬೇಕು.",
+  "script_display": "ಹಾಗಾದರೆ, ನಾವು ಪಡೆದ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, $3.52 \\times 10^5$ ರ ಸಾಮಾನ್ಯ ರೂಪ $352,000$. ಎರಡನೆಯದಾಗಿ, $7.54 \\times 10^{-4}$ ರ ಸಾಮಾನ್ಯ ರೂಪ $0.000754$. ನೆನಪಿಡಿ, ಧನ ಘಾತಾಂಕವಿದ್ದರೆ ದಶಮಾಂಶವನ್ನು ಬಲಕ್ಕೆ ಸರಿಸಬೇಕು ಮತ್ತು ಋಣ ಘಾತಾಂಕವಿದ್ದರೆ ಎಡಕ್ಕೆ ಸರಿಸಬೇಕು.",
+  "display_bullets": [
+    "$3.52 \\times 10^5 = 352,000$",
+    "$7.54 \\times 10^{-4} = 0.000754$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "(i) $3.52 \\times 10^5 = 352,000$ \\\\ \\\\ (ii) $7.54 \\times 10^{-4} = 0.000754$",
+    "placeholder_note": "Display the final answers in a highlighted box."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "NS-EXP-2_example_7",
+  "final_answer": "(i) 352,000 (ii) 0.000754",
+  "final_answer_display": "(i) $352,000$ (ii) $0.000754$",
+  "chunk_id": "NS-EXP-2_concept_3_chunk_022"
+}

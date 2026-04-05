@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ",
+  "script": "ಧನ ಪೂರ್ಣಾಂಕಗಳನ್ನು ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂದು ನೋಡೋಣ. ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ, ಸೊನ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿರುವ ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳು ಧನ ಪೂರ್ಣಾಂಕಗಳಾಗಿವೆ. ನೀವು ಸೊನ್ನೆಯಿಂದ ಬಲಕ್ಕೆ ಚಲಿಸಿದಂತೆ, ಸಂಖ್ಯೆಗಳ ಮೌಲ್ಯವು ಹೆಚ್ಚಾಗುತ್ತಾ ಹೋಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಐದು ಎಂಬುದು ಎರಡಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿದೆ, ಏಕೆಂದರೆ ಅದು ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಎರಡರ ಬಲಭಾಗದಲ್ಲಿ ಬರುತ್ತದೆ. ಹಾಗೆಯೇ, ಹತ್ತು ಎಂಬುದು ಮೂರರ ಬಲಭಾಗದಲ್ಲಿ ಬರುವುದರಿಂದ, ಹತ್ತು ಮೂರಕ್ಕಿಂತ ದೊಡ್ಡದು. ಈ ಕ್ರಮಬದ್ಧತೆ ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಧನ ಪೂರ್ಣಾಂಕಗಳನ್ನು ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂದು ನೋಡೋಣ. ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ, ಸೊನ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿರುವ ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳು ಧನ ಪೂರ್ಣಾಂಕಗಳಾಗಿವೆ. ನೀವು ಸೊನ್ನೆಯಿಂದ ಬಲಕ್ಕೆ ಚಲಿಸಿದಂತೆ, ಸಂಖ್ಯೆಗಳ ಮೌಲ್ಯವು ಹೆಚ್ಚಾಗುತ್ತಾ ಹೋಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, 5 ಎಂಬುದು 2 ಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿದೆ ($5 > 2$), ಏಕೆಂದರೆ ಅದು ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ 2 ರ ಬಲಭಾಗದಲ್ಲಿ ಬರುತ್ತದೆ. ಹಾಗೆಯೇ, 10 ಎಂಬುದು 3 ರ ಬಲಭಾಗದಲ್ಲಿ ಬರುವುದರಿಂದ, 10 ಮೂರಕ್ಕಿಂತ ದೊಡ್ಡದು ($10 > 3$). ಈ ಕ್ರಮಬದ್ಧತೆ ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ, ಸೊನ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿರುವ ಸಂಖ್ಯೆಗಳು ಧನ ಪೂರ್ಣಾಂಕಗಳಾಗಿವೆ.",
+    "ನಾವು ಸೊನ್ನೆಯಿಂದ ಬಲಕ್ಕೆ ಸಾಗಿದಂತೆ, ಸಂಖ್ಯೆಗಳ ಮೌಲ್ಯ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+    "ಉದಾಹರಣೆಗೆ, 5 ಎಂಬುದು 2 ಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿದೆ ($5 > 2$), ಏಕೆಂದರೆ ಅದು 2 ರ ಬಲಭಾಗದಲ್ಲಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line from -5 to 5. The numbers 1, 2, 3, 4, 5 are highlighted in a distinct color (e.g., green) and labeled 'ಧನ ಪೂರ್ಣಾಂಕಗಳು' (Positive Integers). An arrow points from left to right above the positive numbers, labeled 'ಮೌಲ್ಯ ಹೆಚ್ಚಾಗುತ್ತದೆ' (Value increases).",
+    "labels": "Number line, Zero, Positive Integers, Value increases arrow",
+    "mathematical_significance": "Visually demonstrates that positive integers are located to the right of zero on the number line and that their value increases as one moves to the right.",
+    "placeholder_note": "Image to be generated showing a number line with positive integers highlighted."
+  },
+  "chunk_id": "NS-INT-1_concept_1_chunk_009"
+}

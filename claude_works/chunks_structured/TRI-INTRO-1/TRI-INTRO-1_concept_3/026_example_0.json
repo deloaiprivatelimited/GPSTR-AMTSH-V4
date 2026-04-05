@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅನುಪಾತಗಳ ಪರಿವರ್ತನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ನಾವು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ cos A, tan A ಮತ್ತು sec A ಅನುಪಾತಗಳನ್ನು sin A ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಲು ಕೇಳಲಾಗಿದೆ. ಇದರರ್ಥ, ನಾವು cos A, tan A, ಮತ್ತು sec A ಗಳ ಸೂತ್ರಗಳನ್ನು sin A ಪದವನ್ನು ಮಾತ್ರ ಬಳಸಿ ಬರೆಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ನಾವು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ $\\cos A, \\tan A$ ಮತ್ತು $\\sec A$ ಅನುಪಾತಗಳನ್ನು $\\sin A$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಲು ಕೇಳಲಾಗಿದೆ. ಇದರರ್ಥ, ನಾವು $\\cos A, \\tan A$, ಮತ್ತು $\\sec A$ ಗಳ ಸೂತ್ರಗಳನ್ನು $\\sin A$ ಪದವನ್ನು ಮಾತ್ರ ಬಳಸಿ ಬರೆಯಬೇಕು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_only",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\cos A, \\tan A \\text{ ಮತ್ತು } \\sec A \\text{ ಅನುಪಾತಗಳನ್ನು } \\sin A \\text{ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿ.",
+    "placeholder_note": "Problem statement"
+  },
+  "source_example_id": "TRI-INTRO-1_example_9",
+  "prerequisites_display": [
+    "ತ್ರಿಕೋನಮಿತಿಯ ನಿತ್ಯಸಮೀಕರಣಗಳು",
+    "ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳು"
+  ],
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_026"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲಿ ಬಿ ಇ ಮತ್ತು ಸಿ ಜಿ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿವೆ ಎಂದು ಕೊಡಲಾಗಿದೆ. ಅಂದರೆ ಬಿ ಇ ಸಮಾಂತರ ಸಿ ಜಿ. ಎ ಡಿ ಛೇದಕವು ಈ ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಛೇದಿಸುವುದರಿಂದ, ಉಂಟಾಗುವ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಇಲ್ಲಿ ಕೋನ ಎ ಬಿ ಇ ಮತ್ತು ಕೋನ ಬಿ ಸಿ ಜಿ ಅನುರೂಪ ಕೋನಗಳಾಗಿವೆ. ಆದ್ದರಿಂದ, ಕೋನ ಎ ಬಿ ಇ ಸಮ ಕೋನ ಬಿ ಸಿ ಜಿ. ಇದನ್ನು ಸಮೀಕರಣ ಮೂರು ಎನ್ನೋಣ. ಈಗ, ಸಮೀಕರಣ ಒಂದು ಮತ್ತು ಎರಡರಲ್ಲಿನ ಬೆಲೆಗಳನ್ನು ಸಮೀಕರಣ ಮೂರರಲ್ಲಿ ಆದೇಶಿಸೋಣ. ನಮಗೆ ಸಿಗುವುದು, ಕೋನ ಎ ಬಿ ಕ್ಯೂ ನ ಅರ್ಧ ಭಾಗವು ಕೋನ ಬಿ ಸಿ ಎಸ್ ನ ಅರ್ಧ ಭಾಗಕ್ಕೆ ಸಮ. ಎರಡೂ ಬದಿಗಳನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ ಕೋನ ಎ ಬಿ ಕ್ಯೂ ಸಮ ಕೋನ ಬಿ ಸಿ ಎಸ್ ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲಿ $BE \\parallel CG$ ಎಂದು ಕೊಡಲಾಗಿದೆ. AD ಛೇದಕವು ಈ ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಛೇದಿಸುವುದರಿಂದ, ಉಂಟಾಗುವ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಇಲ್ಲಿ $\\angle ABE$ ಮತ್ತು $\\angle BCG$ ಅನುರೂಪ ಕೋನಗಳಾಗಿವೆ. ಆದ್ದರಿಂದ, $\\angle ABE = \\angle BCG$. ಇದನ್ನು ಸಮೀಕರಣ (3) ಎನ್ನೋಣ. ಈಗ, ಸಮೀಕರಣ (1) ಮತ್ತು (2) ರಲ್ಲಿನ ಬೆಲೆಗಳನ್ನು ಸಮೀಕರಣ (3) ರಲ್ಲಿ ಆದೇಶಿಸೋಣ. ನಮಗೆ ಸಿಗುವುದು, $\\frac{1}{2} \\angle ABQ = \\frac{1}{2} \\angle BCS$. ಎರಡೂ ಬದಿಗಳನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ $\\angle ABQ = \\angle BCS$ ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ರೇಖೆಗಳು PQ ಮತ್ತು RS ಅನ್ನು ಛೇದಕ ADಯು B ಮತ್ತು C ಬಿಂದುಗಳಲ್ಲಿ ಛೇದಿಸಿದೆ. ಅನುರೂಪ ಕೋನಗಳಾದ ∠ABQ ಮತ್ತು ∠BCS ಗಳ ಕೋನಾರ್ಧಕಗಳು BE ಮತ್ತು CG ಆಗಿವೆ. BE ಮತ್ತು CG ಸಮಾಂತರವಾಗಿವೆ.",
+    "labels": "ಚಿತ್ರ 6.21",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯಲ್ಲಿ ವಿವರಿಸಿದ ಜ್ಯಾಮಿತೀಯ ಸನ್ನಿವೇಶವನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ. ಕೋನಾರ್ಧಕಗಳು ಸಮಾಂತರವಾಗಿದ್ದರೆ ಮೂಲ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ ಎಂದು ಸಾಧಿಸಲು ಈ ಚಿತ್ರವು ಆಧಾರವಾಗಿದೆ.",
+    "placeholder_note": "Image to be generated for Example 5, showing lines PQ, RS, transversal AD, and bisectors BE, CG."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "GEO-LA-2_example_5",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\angle ABE = \\angle BCG$ --- (3)",
+      "justification": "$BE \\parallel CG$ ಮತ್ತು AD ಛೇದಕವಾಗಿರುವುದರಿಂದ, ಇವು ಅನುರೂಪ ಕೋನಗಳು."
+    },
+    {
+      "step": 4,
+      "action_display": "$\\frac{1}{2} \\angle ABQ = \\frac{1}{2} \\angle BCS$",
+      "justification": "ಸಮೀಕರಣ (1) ಮತ್ತು (2) ನ್ನು (3) ರಲ್ಲಿ ಆದೇಶಿಸಿದಾಗ."
+    },
+    {
+      "step": 5,
+      "action_display": "$\\angle ABQ = \\angle BCS$",
+      "justification": "ಎರಡೂ ಬದಿಗಳನ್ನು 2 ರಿಂದ ಗುಣಿಸಿದಾಗ."
+    }
+  ],
+  "chunk_id": "GEO-LA-2_concept_3_chunk_039"
+}

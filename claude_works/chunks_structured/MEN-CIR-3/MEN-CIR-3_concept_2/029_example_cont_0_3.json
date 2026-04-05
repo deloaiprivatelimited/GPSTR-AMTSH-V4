@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 5 ಮತ್ತು 6",
+  "script": "ಈಗ ನಾವು ತ್ರಿಭುಜದ ಪೂರ್ಣ ಪಾದ ಎ ಬಿ ಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಎ ಬಿ ಯು ಎ ಎಂ ನ ಎರಡರಷ್ಟಿದೆ. ಅಂದರೆ, 2 ಇಂಟು 21 ರೂಟ್ 3 ಬೈ 2, ಇದು 21 ರೂಟ್ 3 ಸೆಂಟಿಮೀಟರ್ ಆಗುತ್ತದೆ. ಈಗ ತ್ರಿಭುಜ ಓ ಎ ಬಿ ಯ ವಿಸ್ತೀರ್ಣವನ್ನು ಹಾಫ್ ಇಂಟು ಬೇಸ್ ಇಂಟು ಹೈಟ್ ಸೂತ್ರದಿಂದ ಕಂಡುಹಿಡಿಯೋಣ. ಇದು ಹಾಫ್ ಇಂಟು 21 ರೂಟ್ 3 ಇಂಟು 10.5. 10.5 ಅನ್ನು 21 ಬೈ 2 ಎಂದು ಬರೆಯಬಹುದು. ಹಾಗಾಗಿ, ಹಾಫ್ ಇಂಟು 21 ರೂಟ್ 3 ಇಂಟು 21 ಬೈ 2. ಇದು 441 ರೂಟ್ 3 ಬೈ 4 ಚದರ ಸೆಂಟಿಮೀಟರ್ ಆಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ವೃತ್ತಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣದಿಂದ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಳೆಯೋಣ. ಅಂದರೆ, 462 ಮೈನಸ್ 441 ರೂಟ್ 3 ಬೈ 4 ಚದರ ಸೆಂಟಿಮೀಟರ್.",
+  "script_display": "ಈಗ ನಾವು ತ್ರಿಭುಜದ ಪೂರ್ಣ ಪಾದ AB ಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. AB ಯು AM ನ ಎರಡರಷ್ಟಿದೆ. ಅಂದರೆ, $2 \\times \\frac{21\\sqrt{3}}{2} = 21\\sqrt{3}$ cm. ಈಗ $\\triangle OAB$ ಯ ವಿಸ್ತೀರ್ಣವನ್ನು $\\frac{1}{2} \\times \\text{base} \\times \\text{height}$ ಸೂತ್ರದಿಂದ ಕಂಡುಹಿಡಿಯೋಣ. ಇದು $\\frac{1}{2} \\times 21\\sqrt{3} \\times 10.5$. $10.5$ ಅನ್ನು $\\frac{21}{2}$ ಎಂದು ಬರೆಯಬಹುದು. ಹಾಗಾಗಿ, $\\frac{1}{2} \\times 21\\sqrt{3} \\times \\frac{21}{2}$. ಇದು $\\frac{441\\sqrt{3}}{4}$ cm$^2$ ಆಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ವೃತ್ತಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣದಿಂದ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಳೆಯೋಣ. ಅಂದರೆ, $462 - \\frac{441\\sqrt{3}}{4}$ cm$^2$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "MEN-CIR-3_example_3",
+  "steps": [
+    {
+      "step": 5,
+      "action_display": "ಪಾದ $AB = 2 \\times AM = 2 \\times \\frac{21\\sqrt{3}}{2} = 21\\sqrt{3}$ cm.",
+      "justification": "ಲಂಬವು ಪಾದವನ್ನು ಸಮದ್ವಿಭಾಗಿಸುತ್ತದೆ."
+    },
+    {
+      "step": 5,
+      "action_display": "$A_{\\triangle OAB} = \\frac{1}{2} \\times AB \\times OM = \\frac{1}{2} \\times 21\\sqrt{3} \\times 10.5 = \\frac{441\\sqrt{3}}{4} \\text{ cm}^2$.",
+      "justification": "ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ: $A = \\frac{1}{2} \\times \\text{base} \\times \\text{height}$."
+    },
+    {
+      "step": 6,
+      "action_display": "$A_{\\text{segment}} = A_{\\text{sector}} - A_{\\triangle} = 462 - \\frac{441\\sqrt{3}}{4} \\text{ cm}^2$.",
+      "justification": "ಹಂತ 2 ಮತ್ತು 5 ರ ಫಲಿತಾಂಶಗಳನ್ನು ಬಳಸುವುದು."
+    }
+  ],
+  "chunk_id": "MEN-CIR-3_concept_2_chunk_029"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: $a^n$ ಮತ್ತು $a^{\\frac{1}{n}}$",
+  "script": "ಪೂರ್ಣಾಂಕ ಘಾತ ಮತ್ತು ಭಿನ್ನರಾಶಿ ಘಾತದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಎಡಭಾಗದಲ್ಲಿ, ಎರಡು ಘಾತ ಮೂರು ಎಂದರೆ ಎರಡನ್ನು ಮೂರು ಬಾರಿ ಗುಣಿಸುವುದು, ಅಂದರೆ ಎರಡು ಗುಣಿಸು ಎರಡು ಗುಣಿಸು ಎರಡು, ಇದು ಎಂಟಕ್ಕೆ ಸಮ. ಇಲ್ಲಿ, ಆಧಾರ ಸಂಖ್ಯೆ ಎರಡಕ್ಕಿಂತ ಉತ್ತರ ಎಂಟು ದೊಡ್ಡದಾಗಿದೆ. ಬಲಭಾಗದಲ್ಲಿ, ಎಂಟು ಘಾತ ಒಂದು ಭಾಗಿಸು ಮೂರು ಎಂದರೆ ಎಂಟರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು, ಇದರ ಉತ್ತರ ಎರಡು. ಇಲ್ಲಿ, ಆಧಾರ ಸಂಖ್ಯೆ ಎಂಟಕ್ಕಿಂತ ಉತ್ತರ ಎರಡು ಚಿಕ್ಕದಾಗಿದೆ. ಆದ್ದರಿಂದ, ಘಾತವು ಪೂರ್ಣಾಂಕವಾಗಿದ್ದಾಗ, ನಾವು ಪುನರಾವರ್ತಿತ ಗುಣಾಕಾರ ಮಾಡುತ್ತೇವೆ. ಘಾತವು ಒಂದು ಭಾಗಿಸು ಎನ್ ರೂಪದಲ್ಲಿದ್ದಾಗ, ನಾವು ಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ.",
+  "script_display": "ಪೂರ್ಣಾಂಕ ಘಾತ ಮತ್ತು ಭಿನ್ನರಾಶಿ ಘಾತದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಎಡಭಾಗದಲ್ಲಿ, $2^3$ ಎಂದರೆ $2$ನ್ನು 3 ಬಾರಿ ಗುಣಿಸುವುದು, ಅಂದರೆ $2 \\times 2 \\times 2 = 8$. ಇಲ್ಲಿ, ಆಧಾರ ಸಂಖ್ಯೆ $2$ಕ್ಕಿಂತ ಉತ್ತರ $8$ ದೊಡ್ಡದಾಗಿದೆ. ಬಲಭಾಗದಲ್ಲಿ, $8^{\\frac{1}{3}}$ ಎಂದರೆ $8$ರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು, ಇದರ ಉತ್ತರ $2$. ಇಲ್ಲಿ, ಆಧಾರ ಸಂಖ್ಯೆ $8$ಕ್ಕಿಂತ ಉತ್ತರ $2$ ಚಿಕ್ಕದಾಗಿದೆ. ಆದ್ದರಿಂದ, ಘಾತವು ಪೂರ್ಣಾಂಕವಾಗಿದ್ದಾಗ, ನಾವು ಪುನರಾವರ್ತಿತ ಗುಣಾಕಾರ ಮಾಡುತ್ತೇವೆ. ಘಾತವು $\\frac{1}{n}$ ರೂಪದಲ್ಲಿದ್ದಾಗ, ನಾವು ಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. Left side is titled 'ಪೂರ್ಣಾಂಕ ಘಾತ (Integer Exponent)' and shows the calculation '$2^3 = 2 \\times 2 \\times 2 = 8'. Below it is a note 'ಸಂಖ್ಯೆ ದೊಡ್ಡದಾಗುತ್ತದೆ (Number becomes larger)'. Right side is titled 'ಭಿನ್ನರಾಶಿ ಘಾತ (Fractional Exponent)' and shows the calculation '$8^{\\frac{1}{3}} = \\sqrt[3]{8} = 2'. Below it is a note 'ಸಂಖ್ಯೆ ಚಿಕ್ಕದಾಗುತ್ತದೆ (Number becomes smaller)'.",
+    "labels": "Integer exponent, Fractional exponent, base, exponent, root, result",
+    "mathematical_significance": "Contrasts the effect of an integer exponent (repeated multiplication, typically making the number larger) with a fractional exponent of the form 1/n (root extraction, typically making the number smaller).",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "chunk_id": "NS-SYS-3_concept_6_chunk_019"
+}

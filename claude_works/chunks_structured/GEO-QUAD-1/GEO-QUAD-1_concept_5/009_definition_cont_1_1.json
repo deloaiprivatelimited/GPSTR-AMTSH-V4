@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಆಯತದ ಗುಣಗಳು: ಭಾಗ 1",
+  "script": "ಒಂದು ಆಯತವು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಒಂದು ವಿಧವಾಗಿರುವುದರಿಂದ, ಅದು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಎಲ್ಲಾ ಮೂಲಭೂತ ಗುಣಗಳನ್ನು ಸಹಜವಾಗಿಯೇ ಹೊಂದಿರುತ್ತದೆ. ಮೊದಲನೆಯದಾಗಿ, ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರ ಮತ್ತು ಸಮವಾಗಿರುತ್ತವೆ. ಅಂದರೆ, ಎಬಿ ಬಾಹು ಡಿಸಿ ಬಾಹುವಿಗೆ ಸಮಾಂತರ ಮತ್ತು ಸಮ, ಹಾಗೆಯೇ ಎಡಿ ಬಾಹು ಬಿಸಿ ಬಾಹುವಿಗೆ ಸಮಾಂತರ ಮತ್ತು ಸಮವಾಗಿರುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಸಮಾಂತರ ಚತುರ್ಭುಜದಂತೆ, ಆಯತದ ಕರ್ಣಗಳು ಕೂಡ ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಅಂದರೆ, ಕರ್ಣಗಳು ಒಂದನ್ನೊಂದು ಕತ್ತರಿಸುವ ಬಿಂದುವು ಪ್ರತಿಯೊಂದು ಕರ್ಣದ ಮಧ್ಯಬಿಂದುವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಆಯತವು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಒಂದು ವಿಧವಾಗಿರುವುದರಿಂದ, ಅದು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಎಲ್ಲಾ ಮೂಲಭೂತ ಗುಣಗಳನ್ನು ಸಹಜವಾಗಿಯೇ ಹೊಂದಿರುತ್ತದೆ. ಮೊದಲನೆಯದಾಗಿ, ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರ ಮತ್ತು ಸಮವಾಗಿರುತ್ತವೆ. ಅಂದರೆ, $AB$ ಬಾಹು $DC$ ಬಾಹುವಿಗೆ ಸಮಾಂತರ ಮತ್ತು ಸಮ ($AB \\parallel DC, AB = DC$), ಹಾಗೆಯೇ $AD$ ಬಾಹು $BC$ ಬಾಹುವಿಗೆ ಸಮಾಂತರ ಮತ್ತು ಸಮವಾಗಿರುತ್ತದೆ ($AD \\parallel BC, AD = BC$). ಎರಡನೆಯದಾಗಿ, ಸಮಾಂತರ ಚತುರ್ಭುಜದಂತೆ, ಆಯತದ ಕರ್ಣಗಳು ಕೂಡ ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಅಂದರೆ, ಕರ್ಣಗಳು ಒಂದನ್ನೊಂದು ಕತ್ತರಿಸುವ ಬಿಂದುವು ಪ್ರತಿಯೊಂದು ಕರ್ಣದ ಮಧ್ಯಬಿಂದುವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಆಯತವು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿರುವುದರಿಂದ, ಅದು ಅದರ ಎಲ್ಲಾ ಮೂಲ ಗುಣಗಳನ್ನು ಹೊಂದಿದೆ.",
+    "ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರ ಮತ್ತು ಸಮವಾಗಿರುತ್ತವೆ. ($AB \\parallel DC$ ಮತ್ತು $AD \\parallel BC$; $AB = DC$ ಮತ್ತು $AD = BC$)",
+    "ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A rectangle ABCD with diagonals AC and BD intersecting at point O. Opposite sides AB and DC are marked with single ticks to show equality. Opposite sides AD and BC are marked with double ticks. Arrows on opposite sides indicate they are parallel. The segments of the diagonals AO, OC, BO, DO are shown to be equal.",
+    "labels": "A, B, C, D, O, parallel marks, equality ticks",
+    "mathematical_significance": "Illustrates that a rectangle inherits the fundamental properties of a parallelogram: equal and parallel opposite sides, and bisecting diagonals.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-QUAD-1_concept_5_chunk_009"
+}

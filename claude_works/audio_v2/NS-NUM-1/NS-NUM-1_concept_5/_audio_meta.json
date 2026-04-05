@@ -1,0 +1,202 @@
+{
+  "module_id": "NS-NUM-1_concept_5",
+  "merge_code": "NS-NUM-1",
+  "voice": "Pulcherrima",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 17,
+  "ok_count": 17,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 17:13:53",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "f6d2ee1464bcbafd06fdd70590d651bd",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.211,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 38,
+      "generated_at": "2026-03-30 17:10:41"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "604ae27b2fe5933488a121d816fa0d2f",
+      "wav_file": "001_intro_0.wav",
+      "duration": 50.091,
+      "slide_title": "ಮಾನಸಿಕ ಗಣಿತ ಮತ್ತು ಅಂದಾಜು",
+      "type": "intro",
+      "script_words": 79,
+      "generated_at": "2026-03-30 17:10:50"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "9f08ae58efb1b774ccf8f1676c746981",
+      "wav_file": "003_definition_0.wav",
+      "duration": 31.691,
+      "slide_title": "ಮಾನಸಿಕ ಗಣಿತ: ಒಂದು ಪರಿಚಯ",
+      "type": "definition",
+      "script_words": 52,
+      "generated_at": "2026-03-30 17:11:07"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "c58815c47676419793ae1dc5290e8382",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 44.091,
+      "slide_title": "ಮಾನಸಿಕ ಗಣಿತದ ಪ್ರಯೋಜನಗಳು",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-03-30 17:11:12"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "5ed562bb5173a1996e720e05863317b0",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 50.931,
+      "slide_title": "ಉದಾಹರಣೆ: ಸಂಖ್ಯೆಗಳನ್ನು ವಿಭಜಿಸುವುದು",
+      "type": "definition",
+      "script_words": 71,
+      "generated_at": "2026-03-30 17:11:17"
+    },
+    "009_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "7de6ff866c9854eb3ff7cb90f204b434",
+      "wav_file": "009_definition_cont_1_1.wav",
+      "duration": 38.051,
+      "slide_title": "ನೈಜ ಜೀವನದ ಉದಾಹರಣೆ",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-03-30 17:11:43"
+    },
+    "007_definition_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "4ccad0ff1ad68e8e9f5bd2980281c24d",
+      "wav_file": "007_definition_cont_0_4.wav",
+      "duration": 53.411,
+      "slide_title": "ಮಾನಸಿಕ ಗಣಿತ vs. ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನ",
+      "type": "definition",
+      "script_words": 75,
+      "generated_at": "2026-03-30 17:11:56"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "d2aa380179a85e4a8d47b614546f8fc7",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 47.971,
+      "slide_title": "ತಂತ್ರ: ಸರಿದೂಗಿಸುವಿಕೆ (Compensation)",
+      "type": "definition",
+      "script_words": 65,
+      "generated_at": "2026-03-30 17:12:15"
+    },
+    "008_definition_1.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "990acf9ff520ca8b63f805a416f80780",
+      "wav_file": "008_definition_1.wav",
+      "duration": 41.131,
+      "slide_title": "ಅಂದಾಜು (Estimation)",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-03-30 17:12:19"
+    },
+    "010_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "538539b258289d6b74444b508083666d",
+      "wav_file": "010_definition_cont_1_2.wav",
+      "duration": 49.531,
+      "slide_title": "ಅಂದಾಜು ಮಾಡುವುದು ಹೇಗೆ: ಪೂರ್ಣಗೊಳಿಸುವಿಕೆ",
+      "type": "definition",
+      "script_words": 64,
+      "generated_at": "2026-03-30 17:12:22"
+    },
+    "011_definition_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "ea59de7f65c9a05508f49baaf1f04a03",
+      "wav_file": "011_definition_cont_1_3.wav",
+      "duration": 52.931,
+      "slide_title": "ಅಂದಾಜು vs ನಿಖರ ಲೆಕ್ಕಾಚಾರ",
+      "type": "definition",
+      "script_words": 72,
+      "generated_at": "2026-03-30 17:12:52"
+    },
+    "012_definition_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "c5457703341a8fba5186c399824e5da7",
+      "wav_file": "012_definition_cont_1_4.wav",
+      "duration": 43.811,
+      "slide_title": "ಮುಖ್ಯ ಅಂಶಗಳು ಮತ್ತು ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-03-30 17:12:55"
+    },
+    "013_property_0.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "c0b35529d5d7df4bcf811d78b4796a1d",
+      "wav_file": "013_property_0.wav",
+      "duration": 48.251,
+      "slide_title": "ಸಂಖ್ಯೆ ವಿಭಜನೆ (Number Decomposition)",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-03-30 17:13:21"
+    },
+    "015_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "91d1f29b4cae6f42a4650816193b1bab",
+      "wav_file": "015_property_cont_0_2.wav",
+      "duration": 53.851,
+      "slide_title": "ಗುಣಲಕ್ಷಣಗಳು: ಯಾವಾಗಲೂ, ಕೆಲವೊಮ್ಮೆ, ಎಂದಿಗೂ (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "script_words": 90,
+      "generated_at": "2026-03-30 17:13:25"
+    },
+    "014_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "652f541e4e53b83b6aedbc77dd21396a",
+      "wav_file": "014_property_cont_0_1.wav",
+      "duration": 60.971,
+      "slide_title": "ಸಂಕಲನದ ಗುಣಲಕ್ಷಣಗಳು (ಯಾವಾಗಲೂ, ಕೆಲವೊಮ್ಮೆ, ಎಂದಿಗೂ)",
+      "type": "concept_explanation",
+      "script_words": 89,
+      "generated_at": "2026-03-30 17:13:31"
+    },
+    "017_recap_0.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "2dfbd771405057a63b6a160c4e171d90",
+      "wav_file": "017_recap_0.wav",
+      "duration": 35.411,
+      "slide_title": "ಮಾಡ್ಯೂಲ್ ಸಾರಾಂಶ: ಮಾನಸಿಕ ಗಣಿತ ಮತ್ತು ಅಂದಾಜು",
+      "type": "recap",
+      "script_words": 45,
+      "generated_at": "2026-03-30 17:13:48"
+    },
+    "016_property_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "20d278d226cdbf0e128ffb18632b9ecd",
+      "wav_file": "016_property_cont_0_3.wav",
+      "duration": 49.771,
+      "slide_title": "ಅಂದಾಜು (Estimation)",
+      "type": "concept_explanation",
+      "script_words": 70,
+      "generated_at": "2026-03-30 17:13:53"
+    }
+  }
+}

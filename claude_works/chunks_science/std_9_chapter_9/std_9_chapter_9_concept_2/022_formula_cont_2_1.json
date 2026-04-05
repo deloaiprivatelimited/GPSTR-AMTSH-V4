@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "G ಯ ಮೌಲ್ಯ ಮತ್ತು ಏಕಮಾನ",
+  "script": "ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ G ಯ ಮೌಲ್ಯವನ್ನು ಹೆನ್ರಿ ಕ್ಯಾವೆಂಡಿಷ್ ಎಂಬ ವಿಜ್ಞಾನಿ ಸೂಕ್ಷ್ಮವಾದ ಪ್ರಯೋಗದ ಮೂಲಕ ಕಂಡುಹಿಡಿದರು. ಇದರ ಸ್ವೀಕೃತ ಮೌಲ್ಯವು 6.673 into 10 to the power of minus 11 Newton meter squared per kilogram squared ಆಗಿದೆ. ಈ ಏಕಮಾನವನ್ನು ಹೇಗೆ ಪಡೆಯಲಾಯಿತು ಎಂದು ನೋಡೋಣ. G ಯ ಸೂತ್ರವು F d squared by M m ಆಗಿದೆ. ಇಲ್ಲಿ ಬಲ F ನ ಏಕಮಾನ ನ್ಯೂಟನ್, ದೂರ d ಯ ಏಕಮಾನ ಮೀಟರ್, ಮತ್ತು ರಾಶಿ M ಮತ್ತು m ಗಳ ಏಕಮಾನ ಕಿಲೋಗ್ರಾಂ. ಆದ್ದರಿಂದ, G ಯ ಏಕಮಾನವು ನ್ಯೂಟನ್ ಮೀಟರ್ ಸ್ಕ್ವೇರ್ಡ್ ಡಿವೈಡೆಡ್ ಬೈ ಕಿಲೋಗ್ರಾಂ ಸ್ಕ್ವೇರ್ಡ್ ಆಗುತ್ತದೆ. ಇದನ್ನು ನಾವು N m squared kg to the power of minus 2 ಎಂದೂ ಬರೆಯಬಹುದು. ಪರೀಕ್ಷೆಯಲ್ಲಿ ಈ ಮೌಲ್ಯ ಮತ್ತು ಏಕಮಾನ ಎರಡೂ ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ G ಯ ಮೌಲ್ಯವನ್ನು ಹೆನ್ರಿ ಕ್ಯಾವೆಂಡಿಷ್ ಎಂಬ ವಿಜ್ಞಾನಿ ಸೂಕ್ಷ್ಮವಾದ ಪ್ರಯೋಗದ ಮೂಲಕ ಕಂಡುಹಿಡಿದರು. ಇದರ ಸ್ವೀಕೃತ ಮೌಲ್ಯವು $6.673 \\times 10^{-11} \\text{ N m}^2 \\text{ kg}^{-2}$ ಆಗಿದೆ. ಈ ಏಕಮಾನವನ್ನು ಹೇಗೆ ಪಡೆಯಲಾಯಿತು ಎಂದು ನೋಡೋಣ. G ಯ ಸೂತ್ರವು $G = \\frac{Fd^2}{Mm}$ ಆಗಿದೆ. ಇಲ್ಲಿ ಬಲ (F) ನ ಏಕಮಾನ ನ್ಯೂಟನ್ (N), ದೂರ (d) ಯ ಏಕಮಾನ ಮೀಟರ್ (m), ಮತ್ತು ರಾಶಿ (M, m) ಗಳ ಏಕಮಾನ ಕಿಲೋಗ್ರಾಂ (kg). ಆದ್ದರಿಂದ, G ಯ ಏಕಮಾನವು $\\frac{\\text{N} \\cdot \\text{m}^2}{\\text{kg} \\cdot \\text{kg}}$ ಆಗುತ್ತದೆ. ಇದನ್ನು ನಾವು $\\text{N m}^2 \\text{kg}^{-2}$ ಎಂದೂ ಬರೆಯಬಹುದು. ಪರೀಕ್ಷೆಯಲ್ಲಿ ಈ ಮೌಲ್ಯ ಮತ್ತು ಏಕಮಾನ ಎರಡೂ ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "G ಯ ಮೌಲ್ಯ: $6.673 \\times 10^{-11} \\text{ N m}^2 \\text{ kg}^{-2}$",
+    "ಏಕಮಾನದ ನಿಷ್ಪತ್ತಿ: $G = \\frac{[\\text{ಬಲ}] \\times [\\text{ದೂರ}]^2}{[\\text{ರಾಶಿ}] \\times [\\text{ರಾಶಿ}]}$",
+    "ಏಕಮಾನ: $\\frac{\\text{N} \\cdot \\text{m}^2}{\\text{kg}^2} = \\text{N m}^2 \\text{kg}^{-2}$"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "physics_dark_blue",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_9_chapter_9_concept_2_chunk_022"
+}

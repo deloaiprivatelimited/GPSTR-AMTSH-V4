@@ -1,0 +1,37 @@
+{
+  "type": "chunk",
+  "slide_title": "ಕಾಡು: ಒಂದು ಪರಿಸರ ವ್ಯವಸ್ಥೆ ಮತ್ತು ಅದರ ರಚನೆ",
+  "script": "ಎಲ್ಲರಿಗೂ ನಮಸ್ಕಾರ ಮತ್ತು ಸ್ವಾಗತ. ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ನಮ್ಮೆಲ್ಲರ ಜೀವನಾಡಿಯಾದ ಕಾಡುಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ನೀವು ಕಾಡು ಅಂದ ತಕ್ಷಣ ಏನು ಯೋಚಿಸುತ್ತೀರಿ? ಕೇವಲ ದಟ್ಟವಾಗಿ ಬೆಳೆದ ಮರಗಳ ಗುಂಪು ಅಂತಾನಾ? ಆದರೆ ಕಾಡು ಅಂದರೆ ಅದಕ್ಕಿಂತ ಬಹಳ ಹೆಚ್ಚು. ಕಾಡು ಒಂದು ಸಂಕೀರ್ಣ ಮತ್ತು ಜೀವಂತ ಜಗತ್ತು. ನಾವು ಉಸಿರಾಡುವ ಆಮ್ಲಜನಕ, ಕುಡಿಯುವ ಶುದ್ಧ ನೀರು, ಮತ್ತು ಅಸಂಖ್ಯಾತ ಜೀವಿಗಳ ವಾಸಸ್ಥಾನಕ್ಕೆ ಕಾಡುಗಳೇ ಆಧಾರ. ಈ ಅಧ್ಯಾಯದಲ್ಲಿ, ಕಾಡು ಒಂದು ಪರಿಸರ ವ್ಯವಸ್ಥೆ ಹೇಗೆ ಎಂಬುದನ್ನು ನಾವು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತೇವೆ. ನಂತರ, ಕಾಡಿನ ಲಂಬವಾದ ರಚನೆ ಮತ್ತು ಅದರ ಸ್ತರಗಳ ಬಗ್ಗೆ ಕಲಿಯುತ್ತೇವೆ. ಹಾಗೆಯೇ, ಮೇಲ್ಚಾವಣಿ ಮತ್ತು ವೃಕ್ಷಕಿರೀಟ ಎಂದರೇನು ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯೋಣ. ಈ ಅದ್ಭುತ ಜಗತ್ತನ್ನು ಅನ್ವೇಷಿಸಲು ಸಿದ್ಧರಾಗಿ.",
+  "script_display": "ಎಲ್ಲರಿಗೂ ನಮಸ್ಕಾರ ಮತ್ತು ಸ್ವಾಗತ. ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ನಮ್ಮೆಲ್ಲರ ಜೀವನಾಡಿಯಾದ ಕಾಡುಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಕಾಡು ಕೇವಲ ಮರಗಳ ಗುಂಪಲ್ಲ, ಅದೊಂದು ಸಂಕೀರ್ಣ ಪರಿಸರ ವ್ಯವಸ್ಥೆ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಕಲಿಯುವ ಪ್ರಮುಖ ಅಂಶಗಳು:",
+  "display_bullets": [
+    "ಕಾಡು ಒಂದು ಪರಿಸರ ವ್ಯವಸ್ಥೆ ಹೇಗೆ?",
+    "ಕಾಡಿನ ಲಂಬವಾದ ರಚನೆ ಮತ್ತು ಅದರ ಸ್ತರಗಳು",
+    "ಮೇಲ್ಚಾವಣಿ (Canopy) ಮತ್ತು ವೃಕ್ಷಕಿರೀಟ (Crown) ಎಂದರೇನು?"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_a",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An engaging and beautiful image of a dense, lush green forest with sunlight filtering through the trees, creating a sense of wonder and life. The image should have the chapter title 'ಕಾಡುಗಳು: ನಮ್ಮ ಜೀವನಾಡಿ' overlaid on it.",
+    "labels": "Forest, Sunlight, Trees, Ecosystem",
+    "scientific_significance": "Visually represents the topic of the module, a forest ecosystem, setting an engaging tone for the lesson.",
+    "placeholder_note": "Image to be generated. Should evoke a feeling of a vibrant ecosystem. Overlay the chapter title on the image."
+  },
+  "sub_type": "intro",
+  "chunk_id": "std_7_chapter_12_concept_1_chunk_001"
+}

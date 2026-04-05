@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಷೇಚನ (Fertilisation)",
+  "script": "ಸಸ್ಯಗಳಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಒಂದು ಪ್ರಮುಖ ಹಂತವೆಂದರೆ ನಿಷೇಚನ. ಹಾಗಾದರೆ ನಿಷೇಚನ ಎಂದರೇನು? ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಇದು ಪುರುಷ ಲಿಂಗಾಣು ಮತ್ತು ಸ್ತ್ರೀ ಲಿಂಗಾಣು ಸಂಯೋಗಗೊಳ್ಳುವ ಪ್ರಕ್ರಿಯೆ. ಈ ಎರಡು ಲಿಂಗಾಣುಗಳು ಒಂದಾದಾಗ, ಅದರ ಫಲವಾಗಿ 'ಯುಗ್ಮಜ' ಎಂಬ ಒಂದೇ ಕೋಶವು ಉಂಟಾಗುತ್ತದೆ. ಈ ಯುಗ್ಮಜವೇ ಹೊಸ ಜೀವಿಯ ಮೊದಲ ಕೋಶವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಿಷೇಚನವು ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಒಂದು ಅತಿ ಮುಖ್ಯವಾದ ಹಂತವಾಗಿದೆ, ಏಕೆಂದರೆ ಇದು ಹೊಸ ಪೀಳಿಗೆಯ ಸೃಷ್ಟಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+  "script_display": "ಸಸ್ಯಗಳಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಒಂದು ಪ್ರಮುಖ ಹಂತವೆಂದರೆ ನಿಷೇಚನ (Fertilisation). ಹಾಗಾದರೆ ನಿಷೇಚನ ಎಂದರೇನು? ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಇದು ಪುರುಷ ಲಿಂಗಾಣು (male gamete) ಮತ್ತು ಸ್ತ್ರೀ ಲಿಂಗಾಣು (female gamete) ಸಂಯೋಗಗೊಳ್ಳುವ ಪ್ರಕ್ರಿಯೆ. ಈ ಎರಡು ಲಿಂಗಾಣುಗಳು ಒಂದಾದಾಗ, ಅದರ ಫಲವಾಗಿ 'ಯುಗ್ಮಜ' (zygote) ಎಂಬ ಒಂದೇ ಕೋಶವು ಉಂಟಾಗುತ್ತದೆ. ಈ ಯುಗ್ಮಜವೇ ಹೊಸ ಜೀವಿಯ ಮೊದಲ ಕೋಶವಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಿಷೇಚನವು ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಒಂದು ಅತಿ ಮುಖ್ಯವಾದ ಹಂತವಾಗಿದೆ, ಏಕೆಂದರೆ ಇದು ಹೊಸ ಪೀಳಿಗೆಯ ಸೃಷ್ಟಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪುರುಷ ಲಿಂಗಾಣು (male gamete) ಮತ್ತು ಸ್ತ್ರೀ ಲಿಂಗಾಣು (female gamete) ಸಂಯೋಗಗೊಳ್ಳುವ ಪ್ರಕ್ರಿಯೆ.",
+    "ಈ ಸಂಯೋಗದ ಫಲವಾಗಿ 'ಯುಗ್ಮಜ' (zygote) ಎಂಬ ಒಂದೇ ಕೋಶವು ಉಂಟಾಗುತ್ತದೆ.",
+    "ಇದು ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಒಂದು ಪ್ರಮುಖ ಹಂತವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_formula",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಪುರುಷ ಲಿಂಗಾಣು} + \\text{ಸ್ತ್ರೀ ಲಿಂಗಾಣು} \\rightarrow \\text{ಯುಗ್ಮಜ}",
+    "placeholder_note": "Formula showing: Male Gamete + Female Gamete -> Zygote"
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_7_chapter_8_concept_6_chunk_003"
+}

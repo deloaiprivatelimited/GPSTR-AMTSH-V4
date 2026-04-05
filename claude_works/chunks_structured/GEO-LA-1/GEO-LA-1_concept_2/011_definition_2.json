@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಕೋನದ ಬಾಹುಗಳು: ವ್ಯಾಖ್ಯೆ",
+  "script": "ನಾವು ಈಗಾಗಲೇ ಕೋನ ಎಂದರೇನು ಮತ್ತು ಅದರ ಶೃಂಗ ಯಾವುದು ಎಂದು ನೋಡಿದ್ದೇವೆ. ಈಗ ಕೋನದ ಇನ್ನೊಂದು ಪ್ರಮುಖ ಭಾಗವಾದ ಬಾಹುಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಕೋನವನ್ನು ಉಂಟುಮಾಡುವ ಎರಡು ಕಿರಣಗಳನ್ನೇ ನಾವು ಕೋನದ ಬಾಹುಗಳು ಅಥವಾ ಭುಜಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಓ ಎಂಬುದು ಶೃಂಗ. ಈ ಶೃಂಗದಿಂದ ಓ ಏ ಮತ್ತು ಓ ಬಿ ಎಂಬ ಎರಡು ಕಿರಣಗಳು ಹೊರಹೊಮ್ಮುತ್ತಿವೆ. ಈ ಎರಡು ಕಿರಣಗಳು ಸೇರಿ ಕೋನ ಏ ಓ ಬಿ ಯನ್ನು ಉಂಟುಮಾಡುತ್ತಿವೆ. ಆದ್ದರಿಂದ, ಈ ಕೋನದಲ್ಲಿ, ಕಿರಣ ಓ ಏ ಮತ್ತು ಕಿರಣ ಓ ಬಿ ಗಳು ಬಾಹುಗಳಾಗಿವೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಶೃಂಗದಿಂದ ಹೊರಡುವ ಎರಡು ಕಿರಣಗಳೇ ಕೋನದ ಬಾಹುಗಳು.",
+  "script_display": "ನಾವು ಈಗಾಗಲೇ ಕೋನ ಎಂದರೇನು ಮತ್ತು ಅದರ ಶೃಂಗ ಯಾವುದು ಎಂದು ನೋಡಿದ್ದೇವೆ. ಈಗ ಕೋನದ ಇನ್ನೊಂದು ಪ್ರಮುಖ ಭಾಗವಾದ ಬಾಹುಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಕೋನವನ್ನು ಉಂಟುಮಾಡುವ ಎರಡು ಕಿರಣಗಳನ್ನೇ ನಾವು ಕೋನದ ಬಾಹುಗಳು ಅಥವಾ ಭುಜಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಚಿತ್ರದಲ್ಲಿ, $O$ ಎಂಬುದು ಶೃಂಗ. ಈ ಶೃಂಗದಿಂದ $OA$ ಮತ್ತು $OB$ ಎಂಬ ಎರಡು ಕಿರಣಗಳು ಹೊರಹೊಮ್ಮುತ್ತಿವೆ. ಈ ಎರಡು ಕಿರಣಗಳು ಸೇರಿ $\\angle AOB$ ಯನ್ನು ಉಂಟುಮಾಡುತ್ತಿವೆ. ಆದ್ದರಿಂದ, ಈ ಕೋನದಲ್ಲಿ, ಕಿರಣ $OA$ ಮತ್ತು ಕಿರಣ $OB$ ಗಳು ಬಾಹುಗಳಾಗಿವೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಶೃಂಗದಿಂದ ಹೊರಡುವ ಎರಡು ಕಿರಣಗಳೇ ಕೋನದ ಬಾಹುಗಳು.",
+  "display_bullets": [
+    "ಕೋನವನ್ನು ಉಂಟುಮಾಡುವ ಎರಡು ಕಿರಣಗಳೇ ಅದರ 'ಬಾಹುಗಳು' (Arms/Sides).",
+    "ಚಿತ್ರದಲ್ಲಿ, ಕಿರಣ $OA$ ಮತ್ತು ಕಿರಣ $OB$ ಗಳು $\\angle AOB$ ಯ ಬಾಹುಗಳಾಗಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple angle labeled AOB. The vertex is O. The rays OA and OB are clearly shown. The rays OA and OB are labeled as 'ಬಾಹು (Arm)'.",
+    "labels": "A, O, B, ಬಾಹು, ಶೃಂಗ",
+    "mathematical_significance": "Illustrates the definition of arms of an angle.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-LA-1_concept_2_chunk_011"
+}

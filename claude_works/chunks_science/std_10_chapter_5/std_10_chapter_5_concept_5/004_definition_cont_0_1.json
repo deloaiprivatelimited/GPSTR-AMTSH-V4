@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ಕೋಶೀಯ ಉಸಿರಾಟ: ಒಂದು ಹೋಲಿಕೆ",
+  "script": "ಕೋಶೀಯ ಉಸಿರಾಟವನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಮ್ಮ ಜೀವಕೋಶವನ್ನು ಒಂದು ಕಾರ್ಖಾನೆಗೆ ಹೋಲಿಸೋಣ. ಪ್ರತಿಯೊಂದು ಕಾರ್ಖಾನೆಯಂತೆ, ನಮ್ಮ ಜೀವಕೋಶಕ್ಕೂ ಕೆಲಸ ಮಾಡಲು ಇಂಧನ ಬೇಕು. ಗ್ಲುಕೋಸ್ ಆ ಕಾರ್ಖಾನೆಯ ಇಂಧನವಾಗಿದೆ. ಕೋಶೀಯ ಉಸಿರಾಟವು ಈ ಇಂಧನವನ್ನು ಶಕ್ತಿಯನ್ನಾಗಿ ಪರಿವರ್ತಿಸುವ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ. ಈ ಕಾರ್ಖಾನೆಯಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾದ ಶಕ್ತಿ, ಅಂದರೆ ಎಟಿಪಿ, ನಮ್ಮ ದೇಹದ ಎಲ್ಲಾ ಕಾರ್ಯಗಳಿಗೆ ಬಳಕೆಯಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಓಡಲು, ಯೋಚಿಸಲು, ಮತ್ತು ನಮ್ಮ ದೇಹದ ಉಷ್ಣತೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಕೂಡ ಇದೇ ಶಕ್ತಿ ಬೇಕು.",
+  "script_display": "ಕೋಶೀಯ ಉಸಿರಾಟವನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಮ್ಮ ಜೀವಕೋಶವನ್ನು ಒಂದು ಕಾರ್ಖಾನೆಗೆ ಹೋಲಿಸೋಣ. ಪ್ರತಿಯೊಂದು ಕಾರ್ಖಾನೆಯಂತೆ, ನಮ್ಮ ಜೀವಕೋಶಕ್ಕೂ ಕೆಲಸ ಮಾಡಲು ಇಂಧನ ಬೇಕು. ಗ್ಲುಕೋಸ್ (Glucose) ಆ ಕಾರ್ಖಾನೆಯ ಇಂಧನವಾಗಿದೆ. ಕೋಶೀಯ ಉಸಿರಾಟವು ಈ ಇಂಧನವನ್ನು ಶಕ್ತಿಯನ್ನಾಗಿ ಪರಿವರ್ತಿಸುವ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ. ಈ ಕಾರ್ಖಾನೆಯಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾದ ಶಕ್ತಿ, ಅಂದರೆ ATP, ನಮ್ಮ ದೇಹದ ಎಲ್ಲಾ ಕಾರ್ಯಗಳಿಗೆ ಬಳಕೆಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಜೀವಕೋಶವನ್ನು ಒಂದು ಕಾರ್ಖಾನೆ (Factory) ಎಂದು ಪರಿಗಣಿಸಿ.",
+    "ಗ್ಲುಕೋಸ್ (Glucose) ಆ ಕಾರ್ಖಾನೆಯ ಇಂಧನ (Fuel).",
+    "ಕೋಶೀಯ ಉಸಿರಾಟವು ಇಂಧನವನ್ನು ಶಕ್ತಿಯನ್ನಾಗಿ ಪರಿವರ್ತಿಸುವ ಪ್ರಕ್ರಿಯೆ.",
+    "ಉತ್ಪತ್ತಿಯಾದ ಶಕ್ತಿ (ATP) ದೇಹದ ಎಲ್ಲಾ ಕಾರ್ಯಗಳಿಗೆ ಬಳಕೆಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a cell. An arrow labeled 'Glucose (Fuel)' points into the cell. Inside the cell, there's a 'mitochondrion' depicted as a power engine. An arrow labeled 'ATP (Energy)' points out of the cell.",
+    "labels": "Cell, Glucose (Fuel), Mitochondrion (Engine), ATP (Energy)",
+    "scientific_significance": "Illustrates the analogy of cellular respiration where a cell acts like a factory, consuming fuel (glucose) to produce energy (ATP).",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "medium",
+  "source_example_id": "std_10_chapter_5_concept_5_def_1",
+  "chunk_id": "std_10_chapter_5_concept_5_chunk_004"
+}

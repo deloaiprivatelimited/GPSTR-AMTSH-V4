@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಲಂಬಿತ ಮಿಶ್ರಣದ ಗುಣಲಕ್ಷಣಗಳು",
+  "script": "ನಿಲಂಬಿತ ಮಿಶ್ರಣದ ಕೆಲವು ಮುಖ್ಯ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಗಮನಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಇದರಲ್ಲಿರುವ ಕಣಗಳು ಬರಿಗಣ್ಣಿಗೆ ಕಾಣಿಸುತ್ತವೆ, ಏಕೆಂದರೆ ಅವುಗಳ ಗಾತ್ರವು ನೂರು ನ್ಯಾನೋಮೀಟರ್‌ಗಿಂತ ಹೆಚ್ಚಿರುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಈ ಮಿಶ್ರಣವು ಅಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ಮಿಶ್ರಣವನ್ನು ಸ್ವಲ್ಪ ಸಮಯದವರೆಗೆ ಕದಲಿಸದೆ ಬಿಟ್ಟರೆ, ಘನ ಕಣಗಳು ಗುರುತ್ವಾಕರ್ಷಣೆಯಿಂದಾಗಿ ಕೆಳಗೆ ಬಂದು ಕೂರುತ್ತವೆ. ಮೂರನೆಯದಾಗಿ, ಈ ದೊಡ್ಡ ಕಣಗಳು ತಮ್ಮ ಮೂಲಕ ಹಾದುಹೋಗುವ ಬೆಳಕಿನ ಕಿರಣವನ್ನು ಚದುರಿಸುತ್ತವೆ. ಇದರಿಂದಾಗಿ, ಬೆಳಕಿನ ಮಾರ್ಗವು ನಮಗೆ ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣಿಸುತ್ತದೆ.",
+  "script_display": "ನಿಲಂಬಿತ ಮಿಶ್ರಣದ ಕೆಲವು ಮುಖ್ಯ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಗಮನಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಇದರಲ್ಲಿರುವ ಕಣಗಳು ಬರಿಗಣ್ಣಿಗೆ ಕಾಣಿಸುತ್ತವೆ, ಏಕೆಂದರೆ ಅವುಗಳ ಗಾತ್ರವು 100 nm ಗಿಂತ ಹೆಚ್ಚಿರುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಈ ಮಿಶ್ರಣವು ಅಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ಮಿಶ್ರಣವನ್ನು ಸ್ವಲ್ಪ ಸಮಯದವರೆಗೆ ಕದಲಿಸದೆ ಬಿಟ್ಟರೆ, ಘನ ಕಣಗಳು ಗುರುತ್ವಾಕರ್ಷಣೆಯಿಂದಾಗಿ ಕೆಳಗೆ ಬಂದು ಕೂರುತ್ತವೆ. ಮೂರನೆಯದಾಗಿ, ಈ ದೊಡ್ಡ ಕಣಗಳು ತಮ್ಮ ಮೂಲಕ ಹಾದುಹೋಗುವ ಬೆಳಕಿನ ಕಿರಣವನ್ನು ಚದುರಿಸುತ್ತವೆ. ಇದರಿಂದಾಗಿ, ಬೆಳಕಿನ ಮಾರ್ಗವು ನಮಗೆ ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕಣಗಳು ಬರಿಗಣ್ಣಿಗೆ ಕಾಣಿಸುತ್ತವೆ (ವ್ಯಾಸ > 100 nm).",
+    "ಮಿಶ್ರಣವು ಅಸ್ಥಿರವಾಗಿರುತ್ತದೆ; ಕಣಗಳು ಸಮಯದೊಂದಿಗೆ ಕೆಳಗೆ ಕೂರುತ್ತವೆ.",
+    "ಬೆಳಕಿನ ಕಿರಣವನ್ನು ಚದುರಿಸುತ್ತದೆ (ಟಿಂಡಾಲ್ ಪರಿಣಾಮ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker containing a suspension like muddy water. A beam of light is shown passing through it, with the path of light visible inside the liquid. An arrow indicates that over time, the particles settle at the bottom.",
+    "labels": "ಬೆಳಕಿನ ಕಿರಣ, ನಿಲಂಬಿತ ಕಣಗಳು, ಕೆಳಗೆ ಕುಳಿತ ಕಣಗಳು",
+    "scientific_significance": "Illustrates two key properties of suspensions: the Tyndall effect (scattering of light) and instability (settling of particles).",
+    "placeholder_note": "Image to be generated showing Tyndall effect and particle settling in a suspension."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "chunk_id": "std_9_chapter_2_concept_5_chunk_004"
+}

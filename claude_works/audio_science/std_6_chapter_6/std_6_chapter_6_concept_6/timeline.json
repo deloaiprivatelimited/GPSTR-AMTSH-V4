@@ -1,0 +1,79 @@
+{
+  "module_id": "std_6_chapter_6_concept_6",
+  "chapter_code": "std_6_chapter_6",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 271.866,
+  "total_duration_formatted": "4:31",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_6_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ದ್ರವ್ಯರಾಶಿ ಮತ್ತು ಪರಿಮಾಣದ ಅಳತೆಯ ಏಕಮಾನಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 64.091,
+      "duration": 64.091,
+      "script_words": 89
+    },
+    {
+      "chunk_id": "std_6_chapter_6_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪಾಠದ ಅವಶ್ಯಕತೆಗಳು",
+      "type": "prerequisites",
+      "start": 64.691,
+      "end": 97.062,
+      "duration": 32.371,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "std_6_chapter_6_concept_6_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ದ್ರವ್ಯರಾಶಿಯ ಏಕಮಾನಗಳು",
+      "type": "concept_explanation",
+      "start": 97.662,
+      "end": 143.193,
+      "duration": 45.531,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_6_chapter_6_concept_6_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಪರಿಮಾಣದ ಏಕಮಾನಗಳು",
+      "type": "concept_explanation",
+      "start": 143.793,
+      "end": 182.244,
+      "duration": 38.451,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_6_chapter_6_concept_6_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಪರಿಮಾಣದ ಏಕಮಾನಗಳ ಸಂಬಂಧ",
+      "type": "concept_explanation",
+      "start": 182.844,
+      "end": 228.135,
+      "duration": 45.291,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_6_chapter_6_concept_6_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "start": 228.735,
+      "end": 271.266,
+      "duration": 42.531,
+      "script_words": 54
+    }
+  ]
+}

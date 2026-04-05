@@ -1,0 +1,123 @@
+{
+  "module_id": "std_7_chapter_10_concept_3",
+  "chapter_code": "std_7_chapter_10",
+  "voice": "Aoede",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 431.19,
+  "total_duration_formatted": "7:11",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_10_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಉಷ್ಣ ಪರಿಣಾಮದ ಅನ್ವಯಗಳು: ತಾಪಕಗಳು ಮತ್ತು ದೀಪಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 63.131,
+      "duration": 63.131,
+      "script_words": 89
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 63.731,
+      "end": 93.542,
+      "duration": 29.811,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_3_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ತಾಪಕ ತಂತು (Heating Element)",
+      "type": "concept_explanation",
+      "start": 94.142,
+      "end": 141.913,
+      "duration": 47.771,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_3_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಬಲ್ಬಿನ ತಂತು (Filament)",
+      "type": "concept_explanation",
+      "start": 142.513,
+      "end": 184.644,
+      "duration": 42.131,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_3_chunk_005",
+      "chunk_file": "005_classification_0.json",
+      "wav_file": "005_classification_0.wav",
+      "slide_title": "ವಿವಿಧ ಬಗೆಯ ದೀಪಗಳು: ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 185.244,
+      "end": 228.455,
+      "duration": 43.211,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_3_chunk_006",
+      "chunk_file": "006_classification_cont_0_1.json",
+      "wav_file": "006_classification_cont_0_1.wav",
+      "slide_title": "ತಾಪದೀಪ್ತ ಬಲ್ಬ್ (Incandescent Bulb)",
+      "type": "concept_explanation",
+      "start": 229.055,
+      "end": 267.786,
+      "duration": 38.731,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_3_chunk_007",
+      "chunk_file": "007_classification_cont_0_2.json",
+      "wav_file": "007_classification_cont_0_2.wav",
+      "slide_title": "ಸಾಂದ್ರ ಪ್ರತಿದೀಪ್ತ ದೀಪ (CFL)",
+      "type": "concept_explanation",
+      "start": 268.386,
+      "end": 302.157,
+      "duration": 33.771,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_3_chunk_008",
+      "chunk_file": "008_classification_cont_0_3.json",
+      "wav_file": "008_classification_cont_0_3.wav",
+      "slide_title": "ದ್ಯುತಿ ಉತ್ಸರ್ಜಕ ಡಯೋಡ್ (LED)",
+      "type": "concept_explanation",
+      "start": 302.757,
+      "end": 340.368,
+      "duration": 37.611,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_3_chunk_009",
+      "chunk_file": "009_classification_cont_0_4.json",
+      "wav_file": "009_classification_cont_0_4.wav",
+      "slide_title": "ಪರೀಕ್ಷಾ ದೃಷ್ಟಿ: ಪ್ರಮುಖ ಅಂಶಗಳು",
+      "type": "concept_explanation",
+      "start": 340.968,
+      "end": 388.379,
+      "duration": 47.411,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_7_chapter_10_concept_3_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 388.979,
+      "end": 430.59,
+      "duration": 41.611,
+      "script_words": 65
+    }
+  ]
+}

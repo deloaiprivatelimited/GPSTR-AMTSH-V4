@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹಂತ 1: ಸಜಾತೀಯ ಧ್ರುವಗಳ ನಡುವಿನ ವರ್ತನೆ",
+  "script": "ಈಗ, ನಮ್ಮ ಕೈಯಲ್ಲಿರುವ ಕಾಂತ 'ಬಿ' ಯ ಉತ್ತರ ಧ್ರುವವನ್ನು ಪೆನ್ಸಿಲ್‌ಗಳ ಮೇಲಿರುವ ಕಾಂತ 'ಎ' ಯ ಉತ್ತರ ಧ್ರುವದ ಹತ್ತಿರ ನಿಧಾನವಾಗಿ ತನ್ನಿ. ಅವು ಒಂದಕ್ಕೊಂದು ತಾಗದಂತೆ ಜಾಗರೂಕರಾಗಿರಿ. ಏನಾಯಿತು ಎಂದು ಗಮನಿಸಿ. ನೀವು ಕಾಂತ 'ಬಿ' ಯನ್ನು ಹತ್ತಿರ ತಂದಂತೆ, ಕಾಂತ 'ಎ' ಯು ಪೆನ್ಸಿಲ್‌ಗಳ ಮೇಲೆ ಹಿಂದಕ್ಕೆ ಚಲಿಸುವುದನ್ನು ನೀವು ನೋಡುತ್ತೀರಿ. ಅಂದರೆ, ಅದು ದೂರ ಸರಿಯುತ್ತದೆ. ಈ ವಿದ್ಯಮಾನವನ್ನು 'ವಿಕರ್ಷಣೆ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ, ಒಂದೇ ರೀತಿಯ ಧ್ರುವಗಳು, ಅಂದರೆ ಉತ್ತರ ಮತ್ತು ಉತ್ತರ ಧ್ರುವಗಳು, ಪರಸ್ಪರ ವಿಕರ್ಷಿಸುತ್ತವೆ.",
+  "script_display": "ಈಗ, ಕೈಯಲ್ಲಿರುವ ಕಾಂತ B ಯ ಉತ್ತರ ಧ್ರುವವನ್ನು (N) ಪೆನ್ಸಿಲ್‌ಗಳ ಮೇಲಿರುವ ಕಾಂತ A ಯ ಉತ್ತರ ಧ್ರುವದ (N) ಹತ್ತಿರ ನಿಧಾನವಾಗಿ ತನ್ನಿ. ಏನಾಯಿತು ಎಂದು ಗಮನಿಸಿ. ಕಾಂತ A ಯು ಹಿಂದಕ್ಕೆ ಚಲಿಸುವುದನ್ನು ನೀವು ನೋಡುತ್ತೀರಿ, ಅಂದರೆ ಅದು ದೂರ ಸರಿಯುತ್ತದೆ. ಈ ವಿದ್ಯಮಾನವನ್ನು 'ವಿಕರ್ಷಣೆ' (Repulsion) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಸಜಾತೀಯ ಧ್ರುವಗಳು (ಉದಾ: N-N) ಪರಸ್ಪರ ವಿಕರ್ಷಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಕೈಯಲ್ಲಿರುವ ಕಾಂತ B ಯ ಉತ್ತರ ಧ್ರುವವನ್ನು (N) ಕಾಂತ A ಯ ಉತ್ತರ ಧ್ರುವದ (N) ಬಳಿ ತನ್ನಿ.",
+    "ಗಮನಿಸಿ: ಕಾಂತ A ಯು ದೂರ ಸರಿಯುತ್ತದೆ.",
+    "ಈ ವಿದ್ಯಮಾನವನ್ನು 'ವಿಕರ್ಷಣೆ' (Repulsion) ಎನ್ನುತ್ತಾರೆ.",
+    "ತೀರ್ಮಾನ: ಸಜಾತೀಯ ಧ್ರುವಗಳು ಪರಸ್ಪರ ವಿಕರ್ಷಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing repulsion. The North pole of magnet 'B' is brought near the North pole of magnet 'A'. An arrow indicates that magnet 'A' is moving away from magnet 'B'.",
+    "labels": "ದಂಡಕಾಂತ A, ದಂಡಕಾಂತ B, ವಿಕರ್ಷಣೆ (Repulsion), ಚಲನೆಯ ದಿಕ್ಕು",
+    "scientific_significance": "Visually represents the principle that like magnetic poles repel each other.",
+    "placeholder_note": "Image to be generated showing repulsion between two north poles."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_6_chapter_4_concept_5_chunk_011"
+}

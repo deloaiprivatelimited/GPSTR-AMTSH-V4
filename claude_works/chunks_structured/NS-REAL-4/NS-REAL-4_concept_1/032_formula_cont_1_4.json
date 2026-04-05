@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರ ಮತ್ತು ಉತ್ತರ",
+  "script": "ಅಂತಿಮವಾಗಿ, ನಾವು ಆರಿಸಿದ ಈ ಅತಿ ಹೆಚ್ಚಿನ ಘಾತಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಣಿಸೋಣ. ನಾವು ಎರಡು ವರ್ಗ, ಮೂರು ಘಾತ ಒಂದು, ಮತ್ತು ಐದು ಘಾತ ಒಂದನ್ನು ಆರಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಲ.ಸಾ.ಅ ಸಮ ಎರಡು ವರ್ಗ ಗುಣಿಸು ಮೂರು ಘಾತ ಒಂದು ಗುಣಿಸು ಐದು ಘಾತ ಒಂದು. ಎರಡು ವರ್ಗ ಅಂದರೆ ನಾಲ್ಕು. ಹಾಗಾಗಿ, ಲೆಕ್ಕಾಚಾರವು ನಾಲ್ಕು ಗುಣಿಸು ಮೂರು ಗುಣಿಸु ಐದು ಎಂದಾಗುತ್ತದೆ. ನಾಲ್ಕು ಮೂರಲಿ ಹನ್ನೆರಡು, ಮತ್ತು ಹನ್ನೆರಡು ಐದಲಿ ಅರವತ್ತು. ಆದ್ದರಿಂದ, ಆರು ಮತ್ತು ಇಪ್ಪತ್ತರ ಲಘುತ್ತಮ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ ಅರವತ್ತು.",
+  "script_display": "ಅಂತಿಮವಾಗಿ, ನಾವು ಆರಿಸಿದ ಈ ಅತಿ ಹೆಚ್ಚಿನ ಘಾತಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಣಿಸೋಣ.<br>$LCM(6, 20) = (\\text{2 ರ ಹೆಚ್ಚಿನ ಘಾತ}) \\times (\\text{3 ರ ಹೆಚ್ಚಿನ ಘಾತ}) \\times (\\text{5 ರ ಹೆಚ್ಚಿನ ಘಾತ})$<br>$LCM(6, 20) = 2^2 \\times 3^1 \\times 5^1$<br>$LCM = 4 \\times 3 \\times 5 = 60$<br>ಆದ್ದರಿಂದ, 6 ಮತ್ತು 20 ರ ಲ.ಸಾ.ಅ 60 ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಹಂತ 4: ಆರಿಸಿದ ಹೆಚ್ಚಿನ ಘಾತಗಳನ್ನು ಗುಣಿಸಿ.",
+    "ಲ.ಸಾ.ಅ ಸಮ ಎರಡು ವರ್ಗ ಗುಣಿಸು ಮೂರು ಘಾತ ಒಂದು ಗುಣಿಸು ಐದು ಘಾತ ಒಂದು.",
+    "$LCM(6, 20) = 2^2 \\times 3^1 \\times 5^1 = 4 \\times 3 \\times 5$",
+    "ಅಂತಿಮ ಉತ್ತರ: $12 \\times 5 = 60$."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "LCM(6, 20) = 2^2 \\times 3^1 \\times 5^1 = 60",
+    "placeholder_note": "Final calculation of LCM for 6 and 20."
+  },
+  "chunk_id": "NS-REAL-4_concept_1_chunk_032"
+}

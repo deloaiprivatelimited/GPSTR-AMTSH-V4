@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ನಿಯಮಿತ ಷಡ್ಭುಜ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಈ ಸೂತ್ರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ನಿಯಮಿತ ಷಡ್ಭುಜವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಷಡ್ಭುಜ ಎಂದರೆ ಆರು ಬಾಹುಗಳಿರುವ ಆಕೃತಿ. ಆದ್ದರಿಂದ, ಇಲ್ಲಿ ಬಾಹುಗಳ ಸಂಖ್ಯೆ ಎನ್ ಸಮ ಆರು ಆಗುತ್ತದೆ. ಈಗ ನಮ್ಮ ಸೂತ್ರದಲ್ಲಿ ಎನ್ ಬೆಲೆಯನ್ನು ಆದೇಶಿಸೋಣ. ಪ್ರತಿ ಹೊರಕೋನವು ಮುನ್ನೂರ ಅರವತ್ತು ಡಿಗ್ರಿ ಭಾಗಿಸು ಆರಕ್ಕೆ ಸಮ. ಮುನ್ನೂರ ಅರವತ್ತನ್ನು ಆರರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ ಅರವತ್ತು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಒಂದು ನಿಯಮಿತ ಷಡ್ಭುಜದ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆಯು ಅರವತ್ತು ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ. ಇದು ತುಂಬಾ ಸರಳವಾಗಿದೆ, ಅಲ್ಲವೇ?",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಈ ಸೂತ್ರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ನಿಯಮಿತ ಷಡ್ಭುಜವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಷಡ್ಭುಜ ಎಂದರೆ ಆರು ಬಾಹುಗಳಿರುವ ಆಕೃತಿ. ಆದ್ದರಿಂದ, ಇಲ್ಲಿ ಬಾಹುಗಳ ಸಂಖ್ಯೆ $n = 6$ ಆಗುತ್ತದೆ. ಈಗ ನಮ್ಮ ಸೂತ್ರದಲ್ಲಿ $n$ ಬೆಲೆಯನ್ನು ಆದೇಶಿಸೋಣ. ಪ್ರತಿ ಹೊರಕೋನವು $\\frac{360^\\circ}{6}$ ಗೆ ಸಮ. $360$ನ್ನು $6$ರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ $60$ ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಒಂದು ನಿಯಮಿತ ಷಡ್ಭುಜದ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆಯು $60^\\circ$ ಆಗಿರುತ್ತದೆ. ಇದು ತುಂಬಾ ಸರಳವಾಗಿದೆ, ಅಲ್ಲವೇ?",
+  "display_bullets": [
+    "ಒಂದು ನಿಯಮಿತ ಷಡ್ಭುಜವನ್ನು (regular hexagon) ಪರಿಗಣಿಸಿ.",
+    "ಇಲ್ಲಿ, ಬಾಹುಗಳ ಸಂಖ್ಯೆ $n = 6$.",
+    "ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿದಾಗ: ಪ್ರತಿ ಹೊರಕೋನ = $\\frac{360^\\circ}{6} = 60^\\circ$.",
+    "ಆದ್ದರಿಂದ, ನಿಯಮಿತ ಷಡ್ಭುಜದ ಪ್ರತಿ ಹೊರಕೋನದ ಅಳತೆ $60^\\circ$ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A regular hexagon with one of its exterior angles highlighted and labeled as 60 degrees. The interior angle can also be labeled as 120 degrees to show the linear pair.",
+    "labels": "Regular Hexagon, Exterior Angle = 60°, Interior Angle = 120°",
+    "mathematical_significance": "Visual representation of the calculation for a specific regular polygon.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-QUAD-1_concept_2_chunk_017"
+}

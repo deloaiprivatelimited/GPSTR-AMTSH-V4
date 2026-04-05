@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಒತ್ತಡ (Pressure)",
+  "script": "ಒತ್ತಡ ಎಂದರೆ ಪ್ರತಿ ಏಕಮಾನ ವಿಸ್ತೀರ್ಣದ ಮೇಲೆ ಲಂಬವಾಗಿ ಪ್ರಯೋಗಿಸಲಾದ ಬಲ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಒಂದು ನಿರ್ದಿಷ್ಟ ಜಾಗದ ಮೇಲೆ ಎಷ್ಟು ಬಲವನ್ನು ಹಾಕಲಾಗುತ್ತಿದೆ ಎಂಬುದೇ ಒತ್ತಡ. ಇದರ ಸೂತ್ರ P equals F by A, ಇಲ್ಲಿ P ಎಂದರೆ ಒತ್ತಡ, F ಎಂದರೆ ಬಲ, ಮತ್ತು A ಎಂದರೆ ವಿಸ್ತೀರ್ಣ. ಒತ್ತಡದ ಎಸ್ಐ ಏಕಮಾನ ಪ್ಯಾಸ್ಕಲ್, ಇದನ್ನು Pa ಎಂದು ಸೂಚಿಸಲಾಗುತ್ತದೆ. ಒಂದು ಪ್ಯಾಸ್ಕಲ್ ಎಂದರೆ ಒಂದು ಚದರ ಮೀಟರ್ ವಿಸ್ತೀರ್ಣದ ಮೇಲೆ ಒಂದು ನ್ಯೂಟನ್ ಬಲವನ್ನು ಪ್ರಯೋಗಿಸಿದಂತೆ.",
+  "script_display": "ಒತ್ತಡ ಎಂದರೆ ಪ್ರತಿ ಏಕಮಾನ ವಿಸ್ತೀರ್ಣದ ಮೇಲೆ ಲಂಬವಾಗಿ ಪ್ರಯೋಗಿಸಲಾದ ಬಲ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಒಂದು ನಿರ್ದಿಷ್ಟ ಜಾಗದ ಮೇಲೆ ಎಷ್ಟು ಬಲವನ್ನು ಹಾಕಲಾಗುತ್ತಿದೆ ಎಂಬುದೇ ಒತ್ತಡ. ಇದರ ಸೂತ್ರ P = F / A, ಇಲ್ಲಿ P ಎಂದರೆ ಒತ್ತಡ, F ಎಂದರೆ ಬಲ, ಮತ್ತು A ಎಂದರೆ ವಿಸ್ತೀರ್ಣ. ಒತ್ತಡದ SI ಏಕಮಾನ ಪ್ಯಾಸ್ಕಲ್ (Pascal), ಇದನ್ನು Pa ಎಂದು ಸೂಚಿಸಲಾಗುತ್ತದೆ. 1 Pa = 1 N/m².",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯಾನ: ಪ್ರತಿ ಏಕಮಾನ ವಿಸ್ತೀರ್ಣದ ಮೇಲೆ ಲಂಬವಾಗಿ ಪ್ರಯೋಗಿಸಲಾದ ಬಲ.",
+    "ಸೂತ್ರ: P = F / A",
+    "SI ಏಕಮಾನ: ಪ್ಯಾಸ್ಕಲ್ (Pa)"
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "P = \\frac{F}{A}",
+    "placeholder_note": "Formula for Pressure: P = F/A"
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_9_chapter_1_concept_7_chunk_007"
+}

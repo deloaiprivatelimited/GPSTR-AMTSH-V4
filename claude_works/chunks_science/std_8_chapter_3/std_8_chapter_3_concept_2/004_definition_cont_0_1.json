@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು ಹೇಗೆ ಉಂಟಾಗುತ್ತವೆ?",
+  "script": "ಹಾಗಾದರೆ, ಈ ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು ಹೇಗೆ ಉಂಟಾಗುತ್ತವೆ ಎಂದು ನೋಡೋಣ. ಇದು ಒಂದೆರಡು ದಿನಗಳಲ್ಲಿ ಆಗುವ ಪ್ರಕ್ರಿಯೆಯಲ್ಲ. ಮೊದಲನೆಯದಾಗಿ, ಲಕ್ಷಾಂತರ ವರ್ಷಗಳ ಹಿಂದೆ, ಸತ್ತ ಸಸ್ಯಗಳು ಮತ್ತು ಪ್ರಾಣಿಗಳು ಸಮುದ್ರದ ತಳದಲ್ಲಿ ಅಥವಾ ಭೂಮಿಯ ಮೇಲೆ ಹೂತುಹೋದವು. ಎರಡನೆಯದಾಗಿ, ಕಾಲಕ್ರಮೇಣ, ಅವುಗಳ ಮೇಲೆ ಮರಳು ಮತ್ತು ಮಣ್ಣಿನ ಪದರಗಳು ಶೇಖರಣೆಯಾದವು. ಇದರಿಂದಾಗಿ, ಭೂಮಿಯ ಆಳದಲ್ಲಿ ಅಧಿಕ ಒತ್ತಡ ಮತ್ತು ಅಧಿಕ ತಾಪ ಉಂಟಾಯಿತು. ಕೊನೆಯದಾಗಿ, ಈ ಅಧಿಕ ತಾಪ ಮತ್ತು ಒತ್ತಡದ ಕಾರಣದಿಂದ, ಸತ್ತ ಜೀವಿಗಳ ಅವಶೇಷಗಳು ನಿಧಾನವಾಗಿ ಕಲ್ಲಿದ್ದಲು, ಪೆಟ್ರೋಲಿಯಂ ಮತ್ತು ನೈಸರ್ಗಿಕ ಅನಿಲವಾಗಿ ಪರಿವರ್ತನೆಗೊಂಡವು.",
+  "script_display": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು ಉಂಟಾಗುವ ಪ್ರಕ್ರಿಯೆ:",
+  "display_bullets": [
+    "ಲಕ್ಷಾಂತರ ವರ್ಷಗಳ ಹಿಂದೆ ಸತ್ತ ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿಗಳು ಮಣ್ಣಿನಡಿಯಲ್ಲಿ ಹೂತುಹೋದವು.",
+    "ಅವುಗಳ ಮೇಲೆ ಮರಳು ಮತ್ತು ಮಣ್ಣಿನ ಪದರಗಳು ಶೇಖರಣೆಯಾದವು.",
+    "ಭೂಮಿಯ ಆಳದಲ್ಲಿ ಅಧಿಕ ತಾಪ ಮತ್ತು ಅಧಿಕ ಒತ್ತಡಕ್ಕೆ ಒಳಗಾದವು.",
+    "ನಿಧಾನವಾಗಿ ಕಲ್ಲಿದ್ದಲು, ಪೆಟ್ರೋಲಿಯಂ ಮತ್ತು ನೈಸರ್ಗಿಕ ಅನಿಲವಾಗಿ ಪರಿವರ್ತನೆಗೊಂಡವು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 3-step diagram showing the formation of fossil fuels. Step 1: Dead marine organisms sink to the ocean floor millions of years ago. Step 2: They get buried under layers of sand and silt. Step 3: Intense heat and pressure over millions of years turn them into oil and natural gas deposits.",
+    "labels": "Dead organisms, Sediment layers, Heat, Pressure, Oil and Gas deposits",
+    "scientific_significance": "Illustrates the geological process of fossil fuel formation, emphasizing the long timescale, high pressure, and high temperature required.",
+    "placeholder_note": "Image to be generated showing the transformation of organic matter into fossil fuels over geological time."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_3_concept_2_chunk_004"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕಲಿಲಗಳ ಗುಣಲಕ್ಷಣಗಳು: ಭಾಗ 1",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ಕಲಿಲಗಳು ನೋಡಲು ಸಮರೂಪದಂತೆ ಕಂಡರೂ, ವಾಸ್ತವವಾಗಿ ಅವು ಅಸಮರೂಪ ಮಿಶ್ರಣಗಳಾಗಿವೆ. ಉದಾಹರಣೆಗೆ, ಹಾಲನ್ನು ನೋಡಿ. ಅದು ಸಂಪೂರ್ಣವಾಗಿ ಒಂದೇ ರೀತಿ ಕಾಣುತ್ತದೆ, ಅಲ್ಲವೇ? ಆದರೆ, ಸೂಕ್ಷ್ಮದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ ನೋಡಿದಾಗ, ನೀರಿನಲ್ಲಿ ಸಣ್ಣ ಸಣ್ಣ ಕೊಬ್ಬಿನ ಮತ್ತು ಪ್ರೋಟೀನ್ ಕಣಗಳು ತೇಲುತ್ತಿರುವುದನ್ನು ನಾವು ನೋಡಬಹುದು. ಈ ಕಣಗಳು ರಾಸಾಯನಿಕವಾಗಿ ಕರಗಿಲ್ಲ, ಬದಲಾಗಿ ಮಾಧ್ಯಮದಲ್ಲಿ ಸಮವಾಗಿ ಹರಡಿಕೊಂಡಿವೆ. ಆದ್ದರಿಂದ, ಕಲಿಲವು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಹಂತಗಳನ್ನು ಹೊಂದಿರುವುದರಿಂದ, ಅದನ್ನು ಅಸಮರೂಪ ಮಿಶ್ರಣ ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ಕಲಿಲಗಳು ನೋಡಲು ಸಮರೂಪದಂತೆ ಕಂಡರೂ, ವಾಸ್ತವವಾಗಿ ಅವು ಅಸಮರೂಪ ಮಿಶ್ರಣಗಳಾಗಿವೆ. ಉದಾಹರಣೆಗೆ, ಹಾಲನ್ನು ನೋಡಿ. ಅದು ಸಂಪೂರ್ಣವಾಗಿ ಒಂದೇ ರೀತಿ ಕಾಣುತ್ತದೆ, ಅಲ್ಲವೇ? ಆದರೆ, ಸೂಕ್ಷ್ಮದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ ನೋಡಿದಾಗ, ನೀರಿನಲ್ಲಿ ಸಣ್ಣ ಸಣ್ಣ ಕೊಬ್ಬಿನ ಮತ್ತು ಪ್ರೋಟೀನ್ ಕಣಗಳು ತೇಲುತ್ತಿರುವುದನ್ನು ನಾವು ನೋಡಬಹುದು. ಈ ಕಣಗಳು ರಾಸಾಯನಿಕವಾಗಿ ಕರಗಿಲ್ಲ, ಬದಲಾಗಿ ಮಾಧ್ಯಮದಲ್ಲಿ ಸಮವಾಗಿ ಹರಡಿಕೊಂಡಿವೆ. ಆದ್ದರಿಂದ, ಕಲಿಲವು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಹಂತಗಳನ್ನು ಹೊಂದಿರುವುದರಿಂದ, ಅದನ್ನು ಅಸಮರೂಪ ಮಿಶ್ರಣ ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ.",
+  "display_bullets": [
+    "ಇದು ನೋಡಲು ಸಮರೂಪದಂತೆ ಕಂಡರೂ, ವಾಸ್ತವವಾಗಿ ಅಸಮರೂಪ ಮಿಶ್ರಣ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram comparing the macroscopic view of a glass of milk (appearing uniform and homogeneous) with a microscopic, magnified view showing individual fat globules and protein particles suspended in water, revealing its heterogeneous nature.",
+    "labels": "Macroscopic View, Microscopic View, Water, Fat Globule",
+    "scientific_significance": "This visual helps differentiate between the apparent properties of a colloid and its actual microscopic structure, which is a key concept in understanding mixtures.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_2_concept_6_chunk_017"
+}

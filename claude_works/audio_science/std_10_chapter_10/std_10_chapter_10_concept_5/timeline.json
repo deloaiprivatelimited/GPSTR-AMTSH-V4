@@ -1,0 +1,90 @@
+{
+  "module_id": "std_10_chapter_10_concept_5",
+  "chapter_code": "std_10_chapter_10",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 349.757,
+  "total_duration_formatted": "5:49",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_10_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ವಾಯುಮಂಡಲದ ವಕ್ರೀಭವನ: ಪರಿಚಯ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 42.491,
+      "duration": 42.491,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_5_chunk_002",
+      "chunk_file": "002_classification_0.json",
+      "wav_file": "002_classification_0.wav",
+      "slide_title": "ವಾಯುಮಂಡಲದ ವಕ್ರೀಭವನದ ಪರಿಣಾಮಗಳು",
+      "type": "concept_explanation",
+      "start": 43.091,
+      "end": 86.342,
+      "duration": 43.251,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_5_chunk_003",
+      "chunk_file": "003_classification_cont_0_1.json",
+      "wav_file": "003_classification_cont_0_1.wav",
+      "slide_title": "ನಕ್ಷತ್ರಗಳ ಮಿನುಗುವಿಕೆ",
+      "type": "concept_explanation",
+      "start": 86.942,
+      "end": 147.033,
+      "duration": 60.091,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_5_chunk_004",
+      "chunk_file": "004_classification_cont_0_2.json",
+      "wav_file": "004_classification_cont_0_2.wav",
+      "slide_title": "ಗ್ರಹಗಳು ಏಕೆ ಮಿನುಗುವುದಿಲ್ಲ?",
+      "type": "concept_explanation",
+      "start": 147.633,
+      "end": 196.804,
+      "duration": 49.171,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_5_chunk_005",
+      "chunk_file": "005_classification_cont_0_3.json",
+      "wav_file": "005_classification_cont_0_3.wav",
+      "slide_title": "ಶೀಘ್ರ ಸೂರ್ಯೋದಯ ಮತ್ತು ವಿಳಂಬಿತ ಸೂರ್ಯಾಸ್ತ",
+      "type": "concept_explanation",
+      "start": 197.404,
+      "end": 252.295,
+      "duration": 54.891,
+      "script_words": 80
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_5_chunk_006",
+      "chunk_file": "006_classification_cont_0_4.json",
+      "wav_file": "006_classification_cont_0_4.wav",
+      "slide_title": "ಹಗಲಿನ ಅವಧಿಯ ಮೇಲೆ ಪರಿಣಾಮ",
+      "type": "concept_explanation",
+      "start": 252.895,
+      "end": 301.706,
+      "duration": 48.811,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_5_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 302.306,
+      "end": 349.157,
+      "duration": 46.851,
+      "script_words": 58
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ನೀರು (H₂O)",
+  "script": "ಈ ನಿಯಮವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ನೀರನ್ನು ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳೋಣ. ನೀರಿನ ರಾಸಾಯನಿಕ ಸೂತ್ರ H two O. ನೀವು ನದಿಯ ನೀರು, ಸಮುದ್ರದ ನೀರು, ಮಳೆಯ ನೀರು ಅಥವಾ ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ ತಯಾರಿಸಿದ ಶುದ್ಧ ನೀರನ್ನು ವಿಶ್ಲೇಷಿಸಿದರೆ, ಅದರಲ್ಲಿ ಯಾವಾಗಲೂ ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಧಾತುಗಳೇ ಇರುತ್ತವೆ. ಅಷ್ಟೇ ಅಲ್ಲ, ಅವುಗಳ ರಾಶಿಯ ಅನುಪಾತವು ಯಾವಾಗಲೂ ಒಂದಕ್ಕೆ ಎಂಟು ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, ಒಂಬತ್ತು ಗ್ರಾಂ ನೀರನ್ನು ವಿಭಜಿಸಿದರೆ, ನಮಗೆ ಯಾವಾಗಲೂ ಒಂದು ಗ್ರಾಂ ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಎಂಟು ಗ್ರಾಂ ಆಮ್ಲಜನಕ ಸಿಗುತ್ತದೆ. ಈ ಅನುಪಾತ ಎಂದಿಗೂ ಬದಲಾಗುವುದಿಲ್ಲ.",
+  "script_display": "ಈ ನಿಯಮವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ನೀರನ್ನು (H₂O) ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳೋಣ. ನೀವು ನದಿಯ ನೀರು, ಸಮುದ್ರದ ನೀರು, ಮಳೆಯ ನೀರು ಅಥವಾ ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ ತಯಾರಿಸಿದ ಶುದ್ಧ ನೀರನ್ನು ವಿಶ್ಲೇಷಿಸಿದರೆ, ಅದರಲ್ಲಿ ಯಾವಾಗಲೂ ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಧಾತುಗಳೇ ಇರುತ್ತವೆ. ಅಷ್ಟೇ ಅಲ್ಲ, ಅವುಗಳ ರಾಶಿಯ ಅನುಪಾತವು ಯಾವಾಗಲೂ 1:8 ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, 9g ನೀರನ್ನು ವಿಭಜಿಸಿದರೆ, ನಮಗೆ ಯಾವಾಗಲೂ 1g ಹೈಡ್ರೋಜನ್ ಮತ್ತು 8g ಆಮ್ಲಜನಕ ಸಿಗುತ್ತದೆ. ಈ ಅನುಪಾತ ಎಂದಿಗೂ ಬದಲಾಗುವುದಿಲ್ಲ.",
+  "display_bullets": [
+    "ನೀರಿನ ಮೂಲ ಯಾವುದೇ ಇರಲಿ (ನದಿ, ಮಳೆ, ಸಮುದ್ರ), ಅದು ಯಾವಾಗಲೂ ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕವನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+    "ನೀರಿನಲ್ಲಿ ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕದ ರಾಶಿಯ ಅನುಪಾತವು ಯಾವಾಗಲೂ 1:8 ಆಗಿರುತ್ತದೆ.",
+    "9g ನೀರು = 1g ಹೈಡ್ರೋಜನ್ + 8g ಆಮ್ಲಜನಕ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "light_and_clean",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing three different sources of water (a river, a rain cloud, a laboratory beaker) all pointing to a single water molecule (H₂O) with the label 'Mass Ratio H:O is always 1:8'.",
+    "labels": "ನದಿ, ಮಳೆ, ಪ್ರಯೋಗಾಲಯ, ನೀರಿನ ಅಣು (H₂O), ರಾಶಿ ಅನುಪಾತ H:O = 1:8",
+    "scientific_significance": "Illustrates that the chemical composition of a pure compound (water) is independent of its source, which is the core concept of the Law of Constant Proportions.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_3_concept_1_chunk_011"
+}

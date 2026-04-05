@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ? ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಸತು, ಅಂದರೆ ಜಿಂಕ್, ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸುವುದನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ, ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲವಾಗಿರುವ ಸತುವು, ಆಮ್ಲದಲ್ಲಿರುವ ಕಡಿಮೆ ಕ್ರಿಯಾಶೀಲ ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ. ನಂತರ, ಸತುವು ಕ್ಲೋರೈಡ್ ಅಯಾನುಗಳೊಂದಿಗೆ ಸೇರಿ ಜಿಂಕ್ ಕ್ಲೋರೈಡ್ ಎಂಬ ಲವಣವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಸ್ಥಾನಪಲ್ಲಟಗೊಂಡ ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳು ಜೋಡಿಯಾಗಿ ಹೈಡ್ರೋಜನ್ ಅನಿಲದ ಅಣುವಾಗಿ ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಸತು (Zn) ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದೊಂದಿಗೆ (HCl) ವರ್ತಿಸುವುದನ್ನು ಗಮನಿಸಿ.",
+  "display_bullets": [
+    "ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ ಲೋಹ (ಸತು) ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ.",
+    "ಲೋಹವು ಆಮ್ಲದ ಋಣ ಅಯಾನಿನೊಂದಿಗೆ ಸೇರಿ ಲವಣವನ್ನು (ZnCl₂) ರೂಪಿಸುತ್ತದೆ.",
+    "ಸ್ಥಾನಪಲ್ಲಟಗೊಂಡ ಹೈಡ್ರೋಜನ್, ಅನಿಲವಾಗಿ (H₂) ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "chemistry_green",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A zinc atom (Zn) approaches two hydrochloric acid molecules (HCl). An arrow shows the Zn atom displacing the two H atoms. Another arrow shows the displaced H atoms pairing up to form an H₂ molecule. The Zn atom is shown bonding with the two Cl atoms to form a ZnCl₂ molecule.",
+    "labels": "Zn, HCl, H₂, ZnCl₂",
+    "scientific_significance": "Illustrates the displacement of hydrogen by a more reactive metal at a molecular level.",
+    "placeholder_note": "Image to be generated showing the displacement reaction between Zinc and HCl."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_005"
+}

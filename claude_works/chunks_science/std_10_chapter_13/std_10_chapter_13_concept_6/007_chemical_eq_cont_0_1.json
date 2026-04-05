@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದ್ಯುತಿ-ವಿಘಟನೆ ಪ್ರಕ್ರಿಯೆ",
+  "script": "ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ದ್ಯುತಿ-ವಿಘಟನೆ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇಲ್ಲಿ ನೋಡಿ, ಸೂರ್ಯನಿಂದ ಬರುವ ತೀವ್ರವಾದ ನೇರಳಾತೀತ ವಿಕಿರಣವು ಆಮ್ಲಜನಕದ ಅಣುವಿಗೆ, ಅಂದರೆ O two ಗೆ, ಬಡಿಯುತ್ತದೆ. ಈ ಶಕ್ತಿಯು ಆಮ್ಲಜನಕದ ಅಣುವಿನಲ್ಲಿರುವ ಬಂಧವನ್ನು ಮುರಿದು, ಅದನ್ನು ಎರಡು ಪ್ರತ್ಯೇಕ ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳಾಗಿ ಬೇರ್ಪಡಿಸುತ್ತದೆ. ಈ ಪರಮಾಣುಗಳು ಅತ್ಯಂತ ಕ್ರಿಯಾಶೀಲವಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ದ್ಯುತಿ-ವಿಘಟನೆ (Photodissociation) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇಲ್ಲಿ ನೋಡಿ, ಸೂರ್ಯನಿಂದ ಬರುವ ತೀವ್ರವಾದ ನೇರಳಾತೀತ (UV) ವಿಕಿರಣವು ಆಮ್ಲಜನಕದ ಅಣುವಿಗೆ ($O_2$) ಬಡಿಯುತ್ತದೆ. ಈ ಶಕ್ತಿಯು $O_2$ ಅಣುವಿನಲ್ಲಿರುವ ಬಂಧವನ್ನು ಮುರಿದು, ಅದನ್ನು ಎರಡು ಪ್ರತ್ಯೇಕ ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳಾಗಿ (O) ಬೇರ್ಪಡಿಸುತ್ತದೆ. ಈ ಪರಮಾಣುಗಳು ಅತ್ಯಂತ ಕ್ರಿಯಾಶೀಲವಾಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಸೂರ್ಯನಿಂದ ಬರುವ UV ವಿಕಿರಣವು $O_2$ ಅಣುವಿಗೆ ಬಡಿಯುತ್ತದೆ.",
+    "$O_2$ ಅಣುವು ವಿಭಜನೆಗೊಂಡು ಎರಡು 'O' ಪರಮಾಣುಗಳಾಗುತ್ತವೆ.",
+    "ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ದ್ಯುತಿ-ವಿಘಟನೆ (Photodissociation) ಎನ್ನುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "science_light",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a high-energy UV photon (wavy arrow labeled 'UV ವಿಕಿರಣ') from the sun striking an oxygen molecule (O₂). The molecule is shown breaking apart into two individual oxygen atoms (O).",
+    "labels": "ಸೂರ್ಯನ UV ವಿಕಿರಣ (Sun's UV Radiation), ಆಮ್ಲಜನಕದ ಅಣು (O₂), ಸ್ವತಂತ್ರ ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳು (O)",
+    "scientific_significance": "This visual represents photodissociation, the fundamental process where chemical compounds are broken down by photons. It's the initial step in the formation of the ozone layer.",
+    "placeholder_note": "Image to be generated showing a UV ray hitting an O2 molecule and splitting it into two O atoms."
+  },
+  "chunk_id": "std_10_chapter_13_concept_6_chunk_007"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಜ್ಯಾಮಿತೀಯ ಅರ್ಥ",
+  "script": "ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಗಳಿಗೆ ಕೇವಲ ಬೀಜಗಣಿತದ ಸಂಬಂಧ ಮಾತ್ರವಲ್ಲ, ಒಂದು ಸುಂದರವಾದ ಜ್ಯಾಮಿತೀಯ ಅರ್ಥವೂ ಇದೆ. ಯಾವುದೇ ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಯಲ್ಲಿರುವ ಮೂರು ಸಂಖ್ಯೆಗಳು ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಅಳತೆಗಳಾಗಿರುತ್ತವೆ. ಇದರಲ್ಲಿ, ಎರಡು ಚಿಕ್ಕ ಸಂಖ್ಯೆಗಳು, ಅಂದರೆ a ಮತ್ತು b, ಲಂಬಕೋನವನ್ನು ಉಂಟುಮಾಡುವ ಬಾಹುಗಳಾಗಿರುತ್ತವೆ. ಅತಿ ದೊಡ್ಡ ಸಂಖ್ಯೆಯಾದ c, ಯಾವಾಗಲೂ ಲಂಬಕೋನದ ಎದುರಿಗಿರುವ ಬಾಹು, ಅಂದರೆ ಕರ್ಣವಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಮೂರು, ನಾಲ್ಕು, ಐದು ತ್ರಿವಳಿಯಲ್ಲಿ, ಮೂರು ಮತ್ತು ನಾಲ್ಕು ಲಂಬ ಬಾಹುಗಳಾದರೆ, ಐದು ಅದರ ಕರ್ಣವಾಗಿರುತ್ತದೆ. ಇದು ಪೈಥಾಗೋರಸ್ ಪ್ರಮೇಯದ ಒಂದು ಪ್ರಾಯೋಗಿಕ ರೂಪವಾಗಿದೆ.",
+  "script_display": "ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಗಳಿಗೆ ಕೇವಲ ಬೀಜಗಣಿತದ ಸಂಬಂಧ ಮಾತ್ರವಲ್ಲ, ಒಂದು ಸುಂದರವಾದ ಜ್ಯಾಮಿತೀಯ ಅರ್ಥವೂ ಇದೆ. ಯಾವುದೇ ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಯಲ್ಲಿರುವ ಮೂರು ಸಂಖ್ಯೆಗಳು ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಅಳತೆಗಳಾಗಿರುತ್ತವೆ. ಇದರಲ್ಲಿ, ಎರಡು ಚಿಕ್ಕ ಸಂಖ್ಯೆಗಳು, ಅಂದರೆ $a$ ಮತ್ತು $b$, ಲಂಬಕೋನವನ್ನು ಉಂಟುಮಾಡುವ ಬಾಹುಗಳಾಗಿರುತ್ತವೆ. ಅತಿ ದೊಡ್ಡ ಸಂಖ್ಯೆಯಾದ $c$, ಯಾವಾಗಲೂ ಲಂಬಕೋನದ ಎದುರಿಗಿರುವ ಬಾಹು, ಅಂದರೆ ಕರ್ಣವಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, $(3, 4, 5)$ ತ್ರಿವಳಿಯಲ್ಲಿ, $3$ ಮತ್ತು $4$ ಲಂಬ ಬಾಹುಗಳಾದರೆ, $5$ ಅದರ ಕರ್ಣವಾಗಿರುತ್ತದೆ. ಇದು ಪೈಥಾಗೋರಸ್ ಪ್ರಮೇಯದ ಒಂದು ಪ್ರಾಯೋಗಿಕ ರೂಪವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪ್ರತಿ ಪೈಥಾಗೋರಸ್ ತ್ರಿವಳಿಯು ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+    "ಎರಡು ಚಿಕ್ಕ ಸಂಖ್ಯೆಗಳು ($a, b$) ಲಂಬ ಬಾಹುಗಳಾಗಿರುತ್ತವೆ.",
+    "ಅತಿ ದೊಡ್ಡ ಸಂಖ್ಯೆ ($c$) ಯಾವಾಗಲೂ ಕರ್ಣವಾಗಿರುತ್ತದೆ.",
+    "ಇದು ಪೈಥಾಗೋರಸ್ ಪ್ರಮೇಯದ ($a^2 + b^2 = c^2$) ನೇರ ಅನ್ವಯ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right-angled triangle. The two perpendicular sides are labeled '3' and '4'. The hypotenuse (the longest side, opposite the right angle) is labeled '5'. The equation 3^2 + 4^2 = 5^2 is shown next to the triangle, visually connecting the triplet to the geometric shape.",
+    "labels": "sides 3, 4, 5, right angle symbol",
+    "mathematical_significance": "Illustrates the geometric meaning of the specific Pythagorean triplet (3, 4, 5) as the sides of a right-angled triangle.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "NS-SQR-2_concept_5_chunk_006"
+}

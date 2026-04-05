@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಗಮನಿಸಿದ ಅಂಶ: ಉಪ್ಪಿನ ದ್ರಾವಣ",
+  "script": "ಈ ಬಾರಿ ಏನಾಯಿತು? ಆಶ್ಚರ್ಯ! ಎಲ್ ಇ ಡಿ ಬಲ್ಬ್ ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತಿದೆ. ಇದರರ್ಥ, ಉಪ್ಪನ್ನು ನೀರಿಗೆ ಸೇರಿಸಿದಾಗ, ಆ ದ್ರಾವಣವು ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಾಗಿ ಬದಲಾಗಿದೆ. ಶುದ್ಧ ನೀರು ವಾಹಕವಾಗಿರಲಿಲ್ಲ, ಆದರೆ ಉಪ್ಪು ಸೇರಿದ ನೀರು ವಾಹಕವಾಗಿದೆ. ಇದರ ಹಿಂದಿನ ವೈಜ್ಞಾನಿಕ ಕಾರಣವೇನೆಂದರೆ, ಉಪ್ಪು, ಅಂದರೆ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್, ನೀರಿನಲ್ಲಿ ಕರಗಿದಾಗ ಸೋಡಿಯಂ ಮತ್ತು ಕ್ಲೋರೈಡ್ ಅಯಾನುಗಳಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ. ಈ ಮುಕ್ತ ಅಯಾನುಗಳ ಚಲನೆಯೇ ವಿದ್ಯುತ್ ಪ್ರವಾಹಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಬಾರಿ ಏನಾಯಿತು? ಆಶ್ಚರ್ಯ! LED ಬಲ್ಬ್ ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತಿದೆ. ಇದರರ್ಥ, ಉಪ್ಪನ್ನು ನೀರಿಗೆ ಸೇರಿಸಿದಾಗ, ಆ ದ್ರಾವಣವು ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಾಗಿ ಬದಲಾಗಿದೆ. ಶುದ್ಧ ನೀರು ವಾಹಕವಾಗಿರಲಿಲ್ಲ, ಆದರೆ ಉಪ್ಪು ಸೇರಿದ ನೀರು ವಾಹಕವಾಗಿದೆ. ಇದರ ಹಿಂದಿನ ವೈಜ್ಞಾನಿಕ ಕಾರಣವೇನೆಂದರೆ, ಉಪ್ಪು (NaCl) ನೀರಿನಲ್ಲಿ ಕರಗಿದಾಗ ಸೋಡಿಯಂ (Na⁺) ಮತ್ತು ಕ್ಲೋರೈಡ್ (Cl⁻) ಅಯಾನುಗಳಾಗಿ ವಿಭಜನೆಗೊಳ್ಳುತ್ತದೆ. ಈ ಮುಕ್ತ ಅಯಾನುಗಳ ಚಲನೆಯೇ ವಿದ್ಯುತ್ ಪ್ರವಾಹಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಗಮನಿಸಿದ ಅಂಶ: LED ಬಲ್ಬ್ ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತದೆ.",
+    "ತೀರ್ಮಾನ: ಉಪ್ಪಿನ ದ್ರಾವಣವು ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕ.",
+    "ಕಾರಣ: ಉಪ್ಪು ನೀರಿನಲ್ಲಿ ಕರಗಿ ವಿದ್ಯುತ್ ಪ್ರವಹಿಸಲು ಬೇಕಾದ ಅಯಾನುಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_a",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up of the LED from the tester, clearly showing it is glowing brightly. A text box next to it says 'ಉತ್ತಮ ವಾಹಕ' (Good Conductor).",
+    "labels": "LED (On), Good Conductor",
+    "scientific_significance": "Visually represents the observation that salt solution is a good conductor of electricity due to the presence of ions.",
+    "placeholder_note": "Image to be generated showing the result for salt solution."
+  },
+  "sub_type": "observation_conclusion",
+  "chunk_id": "std_8_science_chapter_11_concept_3_chunk_013"
+}

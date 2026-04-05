@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯನ್ನು ನಾವು ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ಮೂಲಕ ಹೀಗೆ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಎರಡು ಮೆಗ್ನಿಸಿಯಮ್ ಅಣುಗಳು ಒಂದು ಆಮ್ಲಜನಕದ ಅಣುವಿನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎರಡು ಮೆಗ್ನಿಸಿಯಮ್ ಆಕ್ಸೈಡ್ ಅಣುಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಇದನ್ನು 2Mg ಪ್ಲಸ್ O2 ಗಿವ್ಸ್ 2MgO ಎಂದು ಓದುತ್ತೇವೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯನ್ನು ನಾವು ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ಮೂಲಕ ಹೀಗೆ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಎರಡು ಮೆಗ್ನಿಸಿಯಮ್ ಅಣುಗಳು (2Mg) ಒಂದು ಆಮ್ಲಜನಕದ ಅಣುವಿನೊಂದಿಗೆ (O₂) ವರ್ತಿಸಿ, ಎರಡು ಮೆಗ್ನಿಸಿಯಮ್ ಆಕ್ಸೈಡ್ (2MgO) ಅಣುಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_center",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2Mg(s) + O_{2}(g) \\rightarrow 2MgO(s)",
+    "placeholder_note": "Display the balanced chemical equation for magnesium combustion."
+  },
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_011"
+}

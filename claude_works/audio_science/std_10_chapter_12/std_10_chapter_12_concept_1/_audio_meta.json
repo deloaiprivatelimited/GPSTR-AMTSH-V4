@@ -1,0 +1,202 @@
+{
+  "module_id": "std_10_chapter_12_concept_1",
+  "chapter_code": "std_10_chapter_12",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 17,
+  "ok_count": 17,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:27:52",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "3f5cbec9df288e5e890c2612e5cca8fb",
+      "wav_file": "001_intro_0.wav",
+      "duration": 58.291,
+      "slide_title": "ಕಾಂತಕ್ಷೇತ್ರ ಮತ್ತು ಕಾಂತೀಯ ಬಲರೇಖೆಗಳು",
+      "type": "chunk",
+      "script_words": 87,
+      "generated_at": "2026-04-02 11:24:26"
+    },
+    "003_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "bda0a220dd5573e6f7b107add65717e3",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "duration": 39.251,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಕಾಂತಕ್ಷೇತ್ರ",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 11:24:34"
+    },
+    "002_definition_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "00a7ba150f1f600fcee469a94939f326",
+      "wav_file": "002_definition_0.wav",
+      "duration": 40.651,
+      "slide_title": "ಕಾಂತಕ್ಷೇತ್ರ ಎಂದರೇನು? ಒಂದು ಪರಿಚಯ",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 11:24:34"
+    },
+    "004_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "0a5b30507c44d28c00318cd3e9ed46cf",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "duration": 37.451,
+      "slide_title": "ಕಾಂತಕ್ಷೇತ್ರವನ್ನು ಪತ್ತೆಹಚ್ಚುವುದು ಹೇಗೆ?",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 11:24:35"
+    },
+    "005_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "82421a9a6cf7a7a08bf786288f00bccc",
+      "wav_file": "005_definition_cont_0_3.wav",
+      "duration": 39.051,
+      "slide_title": "ಕ್ಷೇತ್ರದ ಪ್ರಬಲತೆ: ಹತ್ತಿರ vs ದೂರ",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 11:24:36"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "0ce2415461efcafea339c6dd3bd9f74c",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 58.731,
+      "slide_title": "ಬಲರೇಖೆಗಳ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "definition",
+      "script_words": 69,
+      "generated_at": "2026-04-02 11:25:29"
+    },
+    "009_property_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "6235f8eb589f4ce8d945bb1564a006d4",
+      "wav_file": "009_property_0.wav",
+      "duration": 42.251,
+      "slide_title": "ಕಾಂತೀಯ ಬಲರೇಖೆಗಳ ಗುಣಲಕ್ಷಣಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 11:25:38"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "485d6c73c68c7670e28608e575c5c0d9",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 45.291,
+      "slide_title": "ಬಲರೇಖೆಗಳ ದೃಶ್ಯೀಕರಣ",
+      "type": "definition",
+      "script_words": 57,
+      "generated_at": "2026-04-02 11:25:40"
+    },
+    "010_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "d7ae25e230e3990d3584fdebcccad39b",
+      "wav_file": "010_property_cont_0_1.wav",
+      "duration": 44.331,
+      "slide_title": "ಕಾಂತೀಯ ಬಲರೇಖೆಗಳು: ಆವೃತ ಜಾಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 11:25:40"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "0724fd46d48be6fd05b5724eb77c85f0",
+      "wav_file": "006_definition_1.wav",
+      "duration": 51.011,
+      "slide_title": "ಕಾಂತೀಯ ಬಲರೇಖೆಗಳು ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 11:25:43"
+    },
+    "015_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "f1f59df8d6bac13260698bcf83af7186",
+      "wav_file": "015_experiment_cont_0_2.wav",
+      "duration": 45.771,
+      "slide_title": "ವಿಧಾನ ಮತ್ತು ವೀಕ್ಷಣೆ - 2",
+      "type": "step_walkthrough",
+      "script_words": 64,
+      "generated_at": "2026-04-02 11:26:22"
+    },
+    "012_property_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "f0f7792f7967eec83904eaf6ad3b867d",
+      "wav_file": "012_property_1.wav",
+      "duration": 48.691,
+      "slide_title": "ಬಲರೇಖೆಗಳ ಸಾಂದ್ರತೆ ಮತ್ತು ಕ್ಷೇತ್ರದ ಪ್ರಬಲತೆ",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 11:26:43"
+    },
+    "013_experiment_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "309874ac83fb140c317fe2956c7a33ed",
+      "wav_file": "013_experiment_0.wav",
+      "duration": 50.531,
+      "slide_title": "ಆರೈಡ್‌ನ ಪ್ರಯೋಗ: ಉಪಕರಣಗಳು ಮತ್ತು ಜೋಡಣೆ",
+      "type": "visual_explain",
+      "script_words": 75,
+      "generated_at": "2026-04-02 11:26:45"
+    },
+    "014_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "89e84dcc6906b18d021ec72a629aae42",
+      "wav_file": "014_experiment_cont_0_1.wav",
+      "duration": 53.691,
+      "slide_title": "ವಿಧಾನ ಮತ್ತು ವೀಕ್ಷಣೆ - 1",
+      "type": "step_walkthrough",
+      "script_words": 63,
+      "generated_at": "2026-04-02 11:26:48"
+    },
+    "011_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "17be8c684dcff243cfbe409af2b986ec",
+      "wav_file": "011_property_cont_0_2.wav",
+      "duration": 47.731,
+      "slide_title": "ಬಲರೇಖೆಗಳು ಏಕೆ ಛೇದಿಸುವುದಿಲ್ಲ?",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:26:49"
+    },
+    "017_recap_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "ec1e0e9000d638552bfd5578c9935f05",
+      "wav_file": "017_recap_0.wav",
+      "duration": 43.171,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 54,
+      "generated_at": "2026-04-02 11:27:19"
+    },
+    "016_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "72f243aa16d5c09d8b919e8fe33c417e",
+      "wav_file": "016_experiment_cont_0_3.wav",
+      "duration": 45.531,
+      "slide_title": "ಪ್ರಯೋಗದ ತೀರ್ಮಾನ",
+      "type": "key_takeaway",
+      "script_words": 60,
+      "generated_at": "2026-04-02 11:27:52"
+    }
+  }
+}

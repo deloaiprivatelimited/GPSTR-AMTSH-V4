@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಎಡಭಾಗದಲ್ಲಿರುವ ಕಾಟ್ ಎ ಅನ್ನು ಅದರ ಮೂಲ ರೂಪವಾದ ಕಾಸ್ ಎ ಭಾಗಿಸು ಸೈನ್ ಎ ಯಿಂದ ಬದಲಾಯಿಸೋಣ. ಆಗ ಅಂಶವು ಕಾಸ್ ಎ ಭಾಗಿಸು ಸೈನ್ ಎ ಮೈನಸ್ ಕಾಸ್ ಎ ಆಗುತ್ತದೆ ಮತ್ತು ಛೇದವು ಕಾಸ್ ಎ ಭಾಗಿಸು ಸೈನ್ ಎ ಪ್ಲಸ್ ಕಾಸ್ ಎ ಆಗುತ್ತದೆ. ಈಗ, ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡರಲ್ಲೂ ಕಾಸ್ ಎ ಸಾಮಾನ್ಯ ಪದವಾಗಿದೆ. ಅದನ್ನು ನಾವು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ಹೊರತೆಗೆಯೋಣ. ಅಂಶದಲ್ಲಿ, ಕಾಸ್ ಎ ಯನ್ನು ಹೊರತೆಗೆದಾಗ, ನಮಗೆ ಕಾಸ್ ಎ ಗುಣಿಸು, ಒಂದು ಭಾಗಿಸು ಸೈನ್ ಎ ಮೈನಸ್ ಒಂದು ಸಿಗುತ್ತದೆ. ಹಾಗೆಯೇ ಛೇದದಲ್ಲಿ, ಕಾಸ್ ಎ ಗುಣಿಸು, ಒಂದು ಭಾಗಿಸು ಸೈನ್ ಎ ಪ್ಲಸ್ ಒಂದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಎಡಭಾಗದಲ್ಲಿರುವ $\\cot A$ ಅನ್ನು ಅದರ ಮೂಲ ರೂಪವಾದ $\\frac{\\cos A}{\\sin A}$ ಯಿಂದ ಬದಲಾಯಿಸೋಣ. ಆಗ ಅಂಶವು $\\frac{\\cos A}{\\sin A} - \\cos A$ ಆಗುತ್ತದೆ ಮತ್ತು ಛೇದವು $\\frac{\\cos A}{\\sin A} + \\cos A$ ಆಗುತ್ತದೆ. ಈಗ, ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡರಲ್ಲೂ $\\cos A$ ಸಾಮಾನ್ಯ ಪದವಾಗಿದೆ. ಅದನ್ನು ನಾವು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ಹೊರತೆಗೆಯೋಣ. ಅಂಶದಲ್ಲಿ, $\\cos A$ ಯನ್ನು ಹೊರತೆಗೆದಾಗ, ನಮಗೆ $\\cos A (\\frac{1}{\\sin A} - 1)$ ಸಿಗುತ್ತದೆ. ಹಾಗೆಯೇ ಛೇದದಲ್ಲಿ, $\\cos A (\\frac{1}{\\sin A} + 1)$ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "TRI-INTRO-1_example_11",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "LHS = $\\frac{\\frac{\\cos A}{\\sin A} - \\cos A}{\\frac{\\cos A}{\\sin A} + \\cos A}$",
+      "justification": "$\\cot A = \\frac{\\cos A}{\\sin A}$ ಬಳಸಿ."
+    },
+    {
+      "step": 2,
+      "action_display": "LHS = $\\frac{\\cos A (\\frac{1}{\\sin A} - 1)}{\\cos A (\\frac{1}{\\sin A} + 1)}$",
+      "justification": "ಅಂಶ ಮತ್ತು ಛೇದದಿಂದ $\\cos A$ ಅನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ತೆಗೆಯುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_035"
+}

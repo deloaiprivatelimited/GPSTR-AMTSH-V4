@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ವೃತ್ತದ ಪರಿಧಿ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: 10 ಸೆಂಟಿಮೀಟರ್ ವ್ಯಾಸವುಳ್ಳ ವೃತ್ತದ ಸುತ್ತಳತೆ ಎಷ್ಟು? ಇಲ್ಲಿ ಪೈ ನ ಮೌಲ್ಯವನ್ನು 3.14 ಎಂದು ಪರಿಗಣಿಸಲು ಹೇಳಲಾಗಿದೆ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶವೆಂದರೆ ವೃತ್ತದ ವ್ಯಾಸ, ಅಂದರೆ d, 10 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ವೃತ್ತದ ಪರಿಧಿ, ಅಂದರೆ C.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: 10cm ವ್ಯಾಸವುಳ್ಳ ವೃತ್ತದ ಸುತ್ತಳತೆ ಎಷ್ಟು? (π=3.14 ಎಂದು ಪರಿಗಣಿಸಿ). ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶವೆಂದರೆ ವೃತ್ತದ ವ್ಯಾಸ (d) = 10 cm ಆಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ವೃತ್ತದ ಪರಿಧಿ (C).",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ವ್ಯಾಸ (d) = 10 cm",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಪರಿಧಿ (C) = ?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "10\\text{cm ವ್ಯಾಸವುಳ್ಳ ವೃತ್ತದ ಸುತ್ತಳತೆ ಎಷ್ಟು?}\\\\ (\\pi=3.14 \\text{ ಎಂದು ಪರಿಗಣಿಸಿ)}",
+    "placeholder_note": "Problem statement displayed clearly"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "MEN-AREA-1_example_11",
+  "chunk_id": "MEN-AREA-1_concept_5_chunk_024"
+}

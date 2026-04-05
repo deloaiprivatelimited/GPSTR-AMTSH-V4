@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚೌಕಘನದ ಗಾತ್ರ (Volume of a Cube)",
+  "script": "ಈಗ ನಾವು ಚೌಕಘನದ ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸೂತ್ರವು ವಿ ಈಕ್ವಲ್ಸ್ ಎಲ್ ಕ್ಯೂಬ್ಡ್. ಇಲ್ಲಿ, ವಿ ಎಂದರೆ ಚೌಕಘನದ ಗಾತ್ರ ಅಥವಾ ವಾಲ್ಯೂಮ್. ಎಲ್ ಎಂದರೆ ಚೌಕಘನದ ಒಂದು ಅಂಚಿನ ಉದ್ದ. ಚೌಕಘನವು ಎಲ್ಲಾ ಬದಿಗಳಲ್ಲಿ ಸಮಾನ ಉದ್ದವನ್ನು ಹೊಂದಿರುವುದರಿಂದ, ಅದರ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರ ಎಲ್ಲವೂ ಎಲ್ ಆಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಕೇವಲ ಅಂಚಿನ ಉದ್ದವನ್ನು ಮೂರು ಬಾರಿ ಗುಣಿಸುತ್ತೇವೆ, ಅಂದರೆ ಎಲ್ ಕ್ಯೂಬ್ಡ್.",
+  "script_display": "ಈಗ ನಾವು ಚೌಕಘನದ ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸೂತ್ರವು $V = l^3$. ಇಲ್ಲಿ, $V$ ಎಂದರೆ ಚೌಕಘನದ ಗಾತ್ರ (Volume). $l$ ಎಂದರೆ ಚೌಕಘನದ ಒಂದು ಅಂಚಿನ ಉದ್ದ (length of the edge). ಚೌಕಘನವು ಎಲ್ಲಾ ಬದಿಗಳಲ್ಲಿ ಸಮಾನ ಉದ್ದವನ್ನು ಹೊಂದಿರುವುದರಿಂದ, ಅದರ ಉದ್ದ, ಅಗಲ ಮತ್ತು ಎತ್ತರ ಎಲ್ಲವೂ $l$ ಆಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಗಾತ್ರವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಕೇವಲ ಅಂಚಿನ ಉದ್ದವನ್ನು ಮೂರು ಬಾರಿ ಗುಣಿಸುತ್ತೇವೆ, ಅಂದರೆ $l^3$.",
+  "display_bullets": [
+    "ಸೂತ್ರ: $V = l^3$",
+    "$V$ = ಚೌಕಘನದ ಗಾತ್ರ (Volume)",
+    "$l$ = ಅಂಚಿನ ಉದ್ದ (Length of the edge)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "V = l^3",
+    "placeholder_note": "Formula for the volume of a cube."
+  },
+  "chunk_id": "MEN-MEN-2_concept_3_chunk_022"
+}

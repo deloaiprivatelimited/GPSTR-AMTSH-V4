@@ -1,0 +1,37 @@
+{
+  "type": "intro",
+  "slide_title": "ನೀರಾವರಿ ವಿಧಾನಗಳು",
+  "script": "ನಮಸ್ಕಾರ ಮತ್ತು ಈ ಪಾಠಕ್ಕೆ ನಿಮಗೆ ಸ್ವಾಗತ. ಇಂದು ನಾವು ಬೆಳೆ ಉತ್ಪಾದನೆಯಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ಹಂತವಾದ ನೀರಾವರಿ ವಿಧಾನಗಳ ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ. ಮನುಷ್ಯರಿಗೆ ಬದುಕಲು ನೀರು ಎಷ್ಟು ಮುಖ್ಯವೋ, ಸಸ್ಯಗಳಿಗೂ ಅಷ್ಟೇ ಮುಖ್ಯ. ಸರಿಯಾದ ಸಮಯದಲ್ಲಿ, ಸರಿಯಾದ ಪ್ರಮಾಣದಲ್ಲಿ ನೀರು ಸಿಕ್ಕರೆ ಮಾತ್ರ ಬೆಳೆಗಳು ಚೆನ್ನಾಗಿ ಬೆಳೆದು ಉತ್ತಮ ಇಳುವರಿ ಕೊಡುತ್ತವೆ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ನೀರಾವರಿ ಎಂದರೇನು ಮತ್ತು ಅದರ ಅವಶ್ಯಕತೆ ಏನು ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತೇವೆ. ನಂತರ, ಸಾಂಪ್ರದಾಯಿಕ ನೀರಾವರಿ ವಿಧಾನಗಳನ್ನು ಪರಿಶೀಲಿಸುತ್ತೇವೆ. ಕೊನೆಯದಾಗಿ, ನೀರನ್ನು ಉಳಿತಾಯ ಮಾಡುವ ಆಧುನಿಕ ನೀರಾವರಿ ವಿಧಾನಗಳಾದ ತುಂತುರು ಮತ್ತು ಹನಿ ನೀರಾವರಿ ಬಗ್ಗೆ ವಿವರವಾಗಿ ತಿಳಿಯೋಣ.",
+  "script_display": "ನಮಸ್ಕಾರ ಮತ್ತು ಈ ಪಾಠಕ್ಕೆ ನಿಮಗೆ ಸ್ವಾಗತ. ಇಂದು ನಾವು ಬೆಳೆ ಉತ್ಪಾದನೆಯಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ಹಂತವಾದ ನೀರಾವರಿ ವಿಧಾನಗಳ (Irrigation Methods) ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ. ಮನುಷ್ಯರಿಗೆ ಬದುಕಲು ನೀರು ಎಷ್ಟು ಮುಖ್ಯವೋ, ಸಸ್ಯಗಳಿಗೂ ಅಷ್ಟೇ ಮುಖ್ಯ. ಸರಿಯಾದ ಸಮಯದಲ್ಲಿ, ಸರಿಯಾದ ಪ್ರಮಾಣದಲ್ಲಿ ನೀರು ಸಿಕ್ಕರೆ ಮಾತ್ರ ಬೆಳೆಗಳು ಚೆನ್ನಾಗಿ ಬೆಳೆದು ಉತ್ತಮ ಇಳುವರಿ ಕೊಡುತ್ತವೆ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಈ ಕೆಳಗಿನ ವಿಷಯಗಳನ್ನು ಕಲಿಯಲಿದ್ದೇವೆ:",
+  "display_bullets": [
+    "ನೀರಾವರಿ ಎಂದರೇನು ಮತ್ತು ಅದರ ಅವಶ್ಯಕತೆ",
+    "ಸಾಂಪ್ರದಾಯಿಕ ನೀರಾವರಿ ವಿಧಾನಗಳು",
+    "ಆಧುನಿಕ ನೀರಾವರಿ ವಿಧಾನಗಳು: ತುಂತುರು ಮತ್ತು ಹನಿ ನೀರಾವರಿ"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_a",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A visually appealing collage showing both a traditional irrigation method like a farmer using a 'rahat' (lever system) and a modern method like a sprinkler system in a field. This contrast should highlight the evolution of irrigation.",
+    "labels": "ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನ vs ಆಧುನಿಕ ವಿಧಾನ",
+    "scientific_significance": "Shows the technological advancement in agriculture for efficient water usage.",
+    "placeholder_note": "Image to be generated showing a split view or collage of old vs new irrigation."
+  },
+  "sub_type": "title",
+  "chunk_id": "std_8_chapter_1_concept_5_chunk_001"
+}

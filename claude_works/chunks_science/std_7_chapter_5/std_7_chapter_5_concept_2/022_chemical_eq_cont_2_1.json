@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಗಮನಿಸಿದ ಬದಲಾವಣೆಗಳು",
+  "script": "ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಎರಡು ಪ್ರಮುಖ ಬದಲಾವಣೆಗಳನ್ನು ನಾವು ಕಾಣಬಹುದು. ಮೊದಲನೆಯದಾಗಿ, ದ್ರಾವಣದ ನೀಲಿ ಬಣ್ಣವು ನಿಧಾನವಾಗಿ ಹಸಿರು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಕಬ್ಬಿಣದ ಮೊಳೆಯ ಮೇಲೆ ಕಂದು ಬಣ್ಣದ ಒಂದು ಪದರ ಶೇಖರಣೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಎರಡು ಪ್ರಮುಖ ಬದಲಾವಣೆಗಳನ್ನು ನಾವು ಕಾಣಬಹುದು:",
+  "display_bullets": [
+    "ದ್ರಾವಣದ ಬಣ್ಣ ನೀಲಿಯಿಂದ ಹಸಿರಿಗೆ ಬದಲಾಗುತ್ತದೆ.",
+    "ಕಬ್ಬಿಣದ ಮೊಳೆಯ ಮೇಲೆ ಕಂದು ಬಣ್ಣದ ಪದರ ಉಂಟಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಚಿತ್ರ 5.4 ರ ಅಂತಿಮ ಹಂತ: ಬೀಕರ್‌ನಲ್ಲಿನ ದ್ರಾವಣವು ಈಗ ಹಸಿರು ಬಣ್ಣಕ್ಕೆ (ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್) ತಿರುಗಿದೆ. ಕಬ್ಬಿಣದ ಮೊಳೆಯ ಮೇಲೆ ಕಂದು ಬಣ್ಣದ ತಾಮ್ರದ ಲೇಪನವಿದೆ.",
+    "labels": "ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ದ್ರಾವಣ (ಹಸಿರು), ತಾಮ್ರದ ಲೇಪನ",
+    "scientific_significance": "ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯು ನಡೆದಿದೆ ಎಂಬುದಕ್ಕೆ ದೃಶ್ಯ ಸಾಕ್ಷಿ. ಬಣ್ಣ ಬದಲಾವಣೆ ಮತ್ತು ಹೊಸ ವಸ್ತುವಿನ ರಚನೆಯನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_022"
+}

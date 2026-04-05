@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಮೇಲ್ಮೈ ಸ್ವಭಾವದ ಪರಿಣಾಮ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಘರ್ಷಣೆಯ ಮೇಲೆ ಮೇಲ್ಮೈಗಳ ಸ್ವಭಾವವು ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ಎಂಬುದನ್ನು ಅನ್ವೇಷಿಸೋಣ. ಈ ಪ್ರಯೋಗಕ್ಕಾಗಿ, ನಮಗೆ ಕೆಲವು ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಬಲವನ್ನು ಅಳೆಯಲು ಒಂದು ಸ್ಪ್ರಿಂಗ್ ಬ್ಯಾಲೆನ್ಸ್. ನಂತರ, ಚಲಿಸಬೇಕಾದ ವಸ್ತು, ಅಂದರೆ ಒಂದು ಇಟ್ಟಿಗೆ. ಮತ್ತು ಘರ್ಷಣೆಯನ್ನು ಹೋಲಿಸಲು, ನಾವು ಪಾಲಿಥಿನ್ ಹಾಳೆ ಮತ್ತು ಒಂದು ಗೋಣಿಚೀಲದಂತಹ ವಿಭಿನ್ನ ಮೇಲ್ಮೈಗಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ಚಟುವಟಿಕೆಯು ಮೇಲ್ಮೈಯ ಒರಟುತನವು ಘರ್ಷಣಾ ಬಲವನ್ನು ಹೇಗೆ ಬದಲಾಯಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಘರ್ಷಣೆಯ ಮೇಲೆ ಮೇಲ್ಮೈಗಳ ಸ್ವಭಾವವು ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ಎಂಬುದನ್ನು ಅನ್ವೇಷಿಸೋಣ. ಈ ಪ್ರಯೋಗಕ್ಕಾಗಿ, ನಮಗೆ ಕೆಲವು ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಬಲವನ್ನು ಅಳೆಯಲು ಒಂದು ಸ್ಪ್ರಿಂಗ್ ಬ್ಯಾಲೆನ್ಸ್. ನಂತರ, ಚಲಿಸಬೇಕಾದ ವಸ್ತು, ಅಂದರೆ ಒಂದು ಇಟ್ಟಿಗೆ. ಮತ್ತು ಘರ್ಷಣೆಯನ್ನು ಹೋಲಿಸಲು, ನಾವು ಪಾಲಿಥಿನ್ ಹಾಳೆ ಮತ್ತು ಒಂದು ಗೋಣಿಚೀಲದಂತಹ ವಿಭಿನ್ನ ಮೇಲ್ಮೈಗಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ಚಟುವಟಿಕೆಯು ಮೇಲ್ಮೈಯ ಒರಟುತನವು ಘರ್ಷಣಾ ಬಲವನ್ನು ಹೇಗೆ ಬದಲಾಯಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು:",
+    "ಸ್ಪ್ರಿಂಗ್ ಬ್ಯಾಲೆನ್ಸ್",
+    "ಒಂದು ಇಟ್ಟಿಗೆ",
+    "ಪಾಲಿಥಿನ್ ಹಾಳೆ ಮತ್ತು ಗೋಣಿಚೀಲ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple line diagram showing a brick on a flat horizontal surface. A spring balance is attached to the brick with a string. An arrow indicates the direction of the pull. Labels: 'ಇಟ್ಟಿಗೆ' (Brick), 'ಸ್ಪ್ರಿಂಗ್ ಬ್ಯಾಲೆನ್ಸ್' (Spring Balance), 'ಮೇಲ್ಮೈ' (Surface), 'ಎಳೆಯುವ ದಿಕ್ಕು' (Direction of Pull).",
+    "labels": "brick, spring balance, surface, direction of pull",
+    "scientific_significance": "Illustrates the basic setup for measuring the force of friction using a spring balance.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_8_chapter_9_concept_3_chunk_006"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಕೊನೆಯದಾಗಿ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರವನ್ನು ನೋಡೋಣ. ನಕ್ಷೆಯ ಮೇಲಿನ ಛೇದನ ಬಿಂದು ಒಂದು, ಸೊನ್ನೆ ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಈ ಸಮೀಕರಣಗಳ ಜೋಡಿಯ ಪರಿಹಾರ x ಈಕ್ವಲ್ಸ್ ಒಂದು ಮತ್ತು y ಈಕ್ವಲ್ಸ್ ಸೊನ್ನೆ. ಇದು ಚಂಪಾಳ ಪ್ಯಾಂಟ್-ಲಂಗದ ಸಮಸ್ಯೆಯಾಗಿದ್ದರಿಂದ, ಇದರರ್ಥ ಚಂಪಾ ಒಂದು ಪ್ಯಾಂಟ್ ಮತ್ತು ಸೊನ್ನೆ ಲಂಗಗಳನ್ನು ಖರೀದಿಸಿದಳು.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರವನ್ನು ನೋಡೋಣ. ನಕ್ಷೆಯ ಮೇಲಿನ ಛೇದನ ಬಿಂದು $(1, 0)$ ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಈ ಸಮೀಕರಣಗಳ ಜೋಡಿಯ ಪರಿಹಾರ $x=1$ ಮತ್ತು $y=0$. ಇದು ಚಂಪಾಳ ಪ್ಯಾಂಟ್-ಲಂಗದ ಸಮಸ್ಯೆಯಾಗಿದ್ದರಿಂದ, ಇದರರ್ಥ ಚಂಪಾ 1 ಪ್ಯಾಂಟ್ ಮತ್ತು 0 ಲಂಗಗಳನ್ನು ಖರೀದಿಸಿದಳು.",
+  "display_bullets": [
+    "ನಕ್ಷೆಯ ಮೇಲಿನ ಛೇದನ ಬಿಂದು $(1, 0)$ ಆಗಿದೆ.",
+    "ಆದ್ದರಿಂದ, ಪರಿಹಾರ: $x=1, y=0$.",
+    "ಸಮಸ್ಯೆಯ ಪ್ರಕಾರ, ಚಂಪಾ 1 ಪ್ಯಾಂಟ್ ಮತ್ತು 0 ಲಂಗಗಳನ್ನು ಖರೀದಿಸಿದಳು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x = 1, \\quad y = 0",
+    "placeholder_note": "Display the final solution."
+  },
+  "source_example_id": "ALG-PAIR-4_example_3",
+  "final_answer": "x=1, y=0",
+  "final_answer_display": "$x=1, y=0$",
+  "chunk_id": "ALG-PAIR-4_concept_2_chunk_020"
+}

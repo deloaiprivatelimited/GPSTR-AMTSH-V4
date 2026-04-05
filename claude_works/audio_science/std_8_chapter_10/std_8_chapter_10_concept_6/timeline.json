@@ -1,0 +1,90 @@
+{
+  "module_id": "std_8_chapter_10_concept_6",
+  "chapter_code": "std_8_chapter_10",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 314.077,
+  "total_duration_formatted": "5:14",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_10_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಂಗೀತ ಮತ್ತು ಗದ್ದಲ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 67.051,
+      "duration": 67.051,
+      "script_words": 91
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 67.651,
+      "end": 104.782,
+      "duration": 37.131,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_6_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಸಂಗೀತ ಮತ್ತು ಗದ್ದಲ: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 105.382,
+      "end": 145.713,
+      "duration": 40.331,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_6_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಸಂಗೀತ (Music)",
+      "type": "concept_explanation",
+      "start": 146.313,
+      "end": 190.844,
+      "duration": 44.531,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_6_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಗದ್ದಲ (Noise)",
+      "type": "concept_explanation",
+      "start": 191.444,
+      "end": 237.095,
+      "duration": 45.651,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_6_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ವ್ಯತ್ಯಾಸ ಮತ್ತು ವ್ಯಕ್ತಿನಿಷ್ಠತೆ",
+      "type": "concept_explanation",
+      "start": 237.695,
+      "end": 279.546,
+      "duration": 41.851,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_6_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 280.146,
+      "end": 313.477,
+      "duration": 33.331,
+      "script_words": 45
+    }
+  ]
+}

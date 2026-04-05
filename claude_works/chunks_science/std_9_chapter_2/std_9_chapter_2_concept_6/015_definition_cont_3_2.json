@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ದ್ರಾವಣ vs ಕಲಿಲ",
+  "script": "ಒಂದು ಪ್ರಾಯೋಗಿಕ ಹೋಲಿಕೆ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಾವು ಉಪ್ಪನ್ನು ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿ ಒಂದು ನಿಜವಾದ ದ್ರಾವಣವನ್ನು ತಯಾರಿಸಿದ್ದೇವೆ. ಬಲಭಾಗದಲ್ಲಿ, ಹಾಲನ್ನು ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಒಂದು ಕಲಿಲ ದ್ರಾವಣವನ್ನು ಮಾಡಿದ್ದೇವೆ. ಎರಡೂ ದ್ರಾವಣಗಳ ಮೂಲಕ ಲೇಸರ್ ಬೆಳಕನ್ನು ಹಾಯಿಸಿದಾಗ, ವ್ಯತ್ಯಾಸ ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣುತ್ತದೆ. ನಿಜವಾದ ದ್ರಾವಣವಾದ ಉಪ್ಪಿನ ನೀರಿನಲ್ಲಿ ಬೆಳಕಿನ ಪಥ ಕಾಣಿಸುವುದಿಲ್ಲ. ಆದರೆ ಕಲಿಲ ದ್ರಾವಣವಾದ ಹಾಲಿನ ಮಿಶ್ರಣದಲ್ಲಿ, ಬೆಳಕಿನ ಕಿರಣದ ಹಾದಿಯು ಪ್ರಕಾಶಮಾನವಾಗಿ ಗೋಚರಿಸುತ್ತದೆ. ಇದುವೇ ಟಿಂಡಾಲ್ ಪರಿಣಾಮ.",
+  "script_display": "ಒಂದು ಪ್ರಾಯೋಗಿಕ ಹೋಲಿಕೆ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಾವು ಉಪ್ಪನ್ನು ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿ ಒಂದು ನಿಜವಾದ ದ್ರಾವಣವನ್ನು (True Solution) ತಯಾರಿಸಿದ್ದೇವೆ. ಬಲಭಾಗದಲ್ಲಿ, ಹಾಲನ್ನು ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಒಂದು ಕಲಿಲ ದ್ರಾವಣವನ್ನು (Colloid) ಮಾಡಿದ್ದೇವೆ. ಎರಡೂ ದ್ರಾವಣಗಳ ಮೂಲಕ ಲೇಸರ್ ಬೆಳಕನ್ನು ಹಾಯಿಸಿದಾಗ, ವ್ಯತ್ಯಾಸ ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣುತ್ತದೆ. ನಿಜವಾದ ದ್ರಾವಣವಾದ ಉಪ್ಪಿನ ನೀರಿನಲ್ಲಿ ಬೆಳಕಿನ ಪಥ ಕಾಣಿಸುವುದಿಲ್ಲ. ಆದರೆ ಕಲಿಲ ದ್ರಾವಣವಾದ ಹಾಲಿನ ಮಿಶ್ರಣದಲ್ಲಿ, ಬೆಳಕಿನ ಕಿರಣದ ಹಾದಿಯು ಪ್ರಕಾಶಮಾನವಾಗಿ ಗೋಚರಿಸುತ್ತದೆ. ಇದುವೇ ಟಿಂಡಾಲ್ ಪರಿಣಾಮ.",
+  "display_bullets": [
+    "**ನಿಜವಾದ ದ್ರಾವಣ (ಉಪ್ಪು + ನೀರು):** ಬೆಳಕಿನ ಪಥ ಕಾಣಿಸುವುದಿಲ್ಲ.",
+    "**ಕಲಿಲ ದ್ರಾವಣ (ಹಾಲು + ನೀರು):** ಬೆಳಕಿನ ಪಥ ಸ್ಪಷ್ಟವಾಗಿ ಗೋಚರಿಸುತ್ತದೆ (ಟಿಂಡಾಲ್ ಪರಿಣಾಮ)."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen style image. Left side shows a beaker with salt solution, a laser beam passing through it invisibly. Labeled 'ನಿಜವಾದ ದ್ರಾವಣ - ಟಿಂಡಾಲ್ ಪರಿಣಾಮ ಇಲ್ಲ'. Right side shows a beaker with milky water, a laser beam passing through with a visible, glowing path. Labeled 'ಕಲಿಲ - ಟಿಂಡಾಲ್ ಪರಿಣಾಮ ಇದೆ'.",
+    "labels": "ಲೇಸರ್, ಉಪ್ಪಿನ ದ್ರಾವಣ, ಹಾಲಿನ ದ್ರಾವಣ, ಅದೃಶ್ಯ ಪಥ, ಗೋಚರ ಪಥ",
+    "scientific_significance": "Directly compares a substance that exhibits the Tyndall effect with one that does not, providing a clear, practical demonstration of the concept.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "split_comparison",
+  "difficulty": "medium",
+  "source_example_id": "std_9_chapter_2_concept_6_def_4",
+  "chunk_id": "std_9_chapter_2_concept_6_chunk_015"
+}

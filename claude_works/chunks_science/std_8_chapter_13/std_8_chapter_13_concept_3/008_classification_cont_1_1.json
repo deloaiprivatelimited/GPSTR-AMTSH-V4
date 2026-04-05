@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿದೀಪ್ತ ವಸ್ತುಗಳು (Non-Luminous Objects)",
+  "script": "ಎರಡನೇ ವಿಧದ ವಸ್ತುಗಳು ಪ್ರತಿದೀಪ್ತ ವಸ್ತುಗಳು. ನಮ್ಮ ಮೊದಲ ಬುಲೆಟ್ ಪಾಯಿಂಟ್ ಹೇಳುವಂತೆ, ಇವು ತಮ್ಮ ಮೇಲೆ ಬಿದ್ದ ಬೆಳಕನ್ನು ಪ್ರತಿಫಲಿಸುವ ವಸ್ತುಗಳು. ಅಂದರೆ, ಇವುಗಳಿಗೆ ಸ್ವಂತ ಬೆಳಕು ಇರುವುದಿಲ್ಲ. ಎರಡನೇ ಬುಲೆಟ್ ಪಾಯಿಂಟ್ ನಲ್ಲಿರುವ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡಿ: ಚಂದ್ರ, ಪುಸ್ತಕ, ಮತ್ತು ಕುರ್ಚಿ. ಚಂದ್ರನಿಗೆ ತನ್ನದೇ ಆದ ಬೆಳಕಿಲ್ಲ, ಅದು ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಪ್ರತಿಫಲಿಸುತ್ತದೆ. ಹಾಗೆಯೇ ನಮ್ಮ ಸುತ್ತಲಿನ ಹೆಚ್ಚಿನ ವಸ್ತುಗಳು ಪ್ರತಿದೀಪ್ತ ವಸ್ತುಗಳೇ. ಇದಕ್ಕೆ ಕಾರಣವನ್ನು ಮೂರನೇ ಬುಲೆಟ್ ಪಾಯಿಂಟ್ ನಲ್ಲಿ ನೀಡಲಾಗಿದೆ: ಇವು ಬೆಳಕಿನ ಆಕರಗಳಲ್ಲ, ಬದಲಾಗಿ ಕೇವಲ ಬೆಳಕಿನ ಪ್ರತಿಫಲಕಗಳು. ಸ್ವಯಂ ಪ್ರಕಾಶಕ ವಸ್ತುವಿನಿಂದ ಬಂದ ಬೆಳಕು ಇವುಗಳ ಮೇಲೆ ಬಿದ್ದು, ಪ್ರತಿಫಲನಗೊಂಡು ನಮ್ಮ ಕಣ್ಣು ತಲುಪಿದಾಗ ಮಾತ್ರ ಇವು ಕಾಣಿಸುತ್ತವೆ.",
+  "script_display": "ತಮ್ಮ ಮೇಲೆ ಬಿದ್ದ ಬೆಳಕನ್ನು ಪ್ರತಿಫಲಿಸಿ ಕಾಣುವ ವಸ್ತುಗಳನ್ನು **ಪ್ರತಿದೀಪ್ತ ವಸ್ತುಗಳು** ಎನ್ನುತ್ತಾರೆ. ಇವುಗಳಿಗೆ ಸ್ವಂತ ಬೆಳಕು ಇರುವುದಿಲ್ಲ.",
+  "display_bullets": [
+    "**ವ್ಯಾಖ್ಯಾನ:** ತಮ್ಮ ಮೇಲೆ ಬಿದ್ದ ಬೆಳಕನ್ನು ಪ್ರತಿಫಲಿಸುವ ವಸ್ತುಗಳು.",
+    "**ಉದಾಹರಣೆ:** ಚಂದ್ರ, ಪುಸ್ತಕ, ಕುರ್ಚಿ.",
+    "**ಕಾರಣ:** ಇವು ಬೆಳಕಿನ ಆಕರಗಳಲ್ಲ, ಕೇವಲ ಬೆಳಕನ್ನು ಪ್ರತಿಫಲಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_light",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing light rays from a source (like a lamp) hitting a book on a table. Then, reflected rays from the book travel towards an observer's eye. This clearly shows the mechanism of seeing a non-luminous object.",
+    "labels": "ಬೆಳಕಿನ ಆಕರ (ದೀಪ), ಪ್ರತಿದೀಪ್ತ ವಸ್ತು (ಪುಸ್ತಕ), ಪ್ರತಿಫಲಿತ ಬೆಳಕು, ವೀಕ್ಷಕ",
+    "scientific_significance": "Explains how non-luminous objects become visible by reflecting light from a luminous source.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_13_concept_3_chunk_008"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1",
+  "script": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ಮೇಜಿನ ಮೇಲೆ ಇಟ್ಟಿರುವ ಪುಸ್ತಕವನ್ನು ನಿಮ್ಮ ಕೈಯಿಂದ ನಿಧಾನವಾಗಿ ತಳ್ಳಿರಿ. ಗಮನಿಸಿ, ನೀವು ಅತಿ ಹೆಚ್ಚು ಬಲವನ್ನು ಪ್ರಯೋಗಿಸಬೇಕಾಗಿಲ್ಲ, ಕೇವಲ ಪುಸ್ತಕವು ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುವಷ್ಟು ಬಲ ಸಾಕು. ಪುಸ್ತಕವು ಮೇಜಿನ ಮೇಲ್ಮೈ ಮೇಲೆ ಜಾರಿಕೊಂಡು ಮುಂದೆ ಸಾಗುತ್ತದೆ. ಈ ಚಲನೆಯನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ. ಪುಸ್ತಕವು ಎಷ್ಟು ದೂರ ಚಲಿಸುತ್ತದೆ ಮತ್ತು ಅದರ ವೇಗದಲ್ಲಿ ಏನು ಬದಲಾವಣೆಯಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ವೀಕ್ಷಿಸಿ. ನಾವು ಪ್ರಯೋಗಿಸಿದ ಬಲದಿಂದ ಪುಸ್ತಕ ಚಲಿಸುತ್ತದೆ.",
+  "script_display": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ಮೇಜಿನ ಮೇಲೆ ಇಟ್ಟಿರುವ ಪುಸ್ತಕವನ್ನು ನಿಮ್ಮ ಕೈಯಿಂದ ನಿಧಾನವಾಗಿ ತಳ್ಳಿರಿ. ಗಮನಿಸಿ, ನೀವು ಅತಿ ಹೆಚ್ಚು ಬಲವನ್ನು ಪ್ರಯೋಗಿಸಬೇಕಾಗಿಲ್ಲ, ಕೇವಲ ಪುಸ್ತಕವು ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುವಷ್ಟು ಬಲ ಸಾಕು. ಪುಸ್ತಕವು ಮೇಜಿನ ಮೇಲ್ಮೈ ಮೇಲೆ ಜಾರಿಕೊಂಡು ಮುಂದೆ ಸಾಗುತ್ತದೆ. ಈ ಚಲನೆಯನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ. ಪುಸ್ತಕವು ಎಷ್ಟು ದೂರ ಚಲಿಸುತ್ತದೆ ಮತ್ತು ಅದರ ವೇಗದಲ್ಲಿ ಏನು ಬದಲಾವಣೆಯಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ವೀಕ್ಷಿಸಿ. ನಾವು ಪ್ರಯೋಗಿಸಿದ ಬಲದಿಂದ ಪುಸ್ತಕ ಚಲಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮೇಜಿನ ಮೇಲಿರುವ ಪುಸ್ತಕವನ್ನು ನಿಧಾನವಾಗಿ ತಳ್ಳಿರಿ.",
+    "ಪುಸ್ತಕದ ಚಲನೆಯನ್ನು ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A hand is shown gently pushing a book from left to right on a table. An arrow indicates the direction of the push (Applied Force).",
+    "labels": "ಪ್ರಯೋಗಿಸಿದ ಬಲ, ಪುಸ್ತಕ, ಮೇಜು",
+    "scientific_significance": "Visualizes the action of applying a force to initiate motion.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_8_chapter_9_concept_1_chunk_008"
+}

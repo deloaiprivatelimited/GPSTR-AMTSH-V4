@@ -1,0 +1,169 @@
+{
+  "module_id": "GEO-TRI-1_concept_3",
+  "merge_code": "GEO-TRI-1",
+  "voice": "Erinome",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 14,
+  "ok_count": 14,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:51:11",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "0343ba21e047bc50ad4cfb4bf8f9dc41",
+      "wav_file": "001_intro_0.wav",
+      "duration": 39.971,
+      "slide_title": "ವಿಶೇಷ ತ್ರಿಭುಜಗಳು",
+      "type": "intro",
+      "script_words": 61,
+      "generated_at": "2026-03-30 15:48:33"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "e3f13530a842db14b835408394f42bc9",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 32.571,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 44,
+      "generated_at": "2026-03-30 15:48:53"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "148fee1f76e242cc214d6f9e95e20d8a",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 46.451,
+      "slide_title": "ಸಮಬಾಹು ತ್ರಿಭುಜ: ಕೋನಗಳು",
+      "type": "definition",
+      "script_words": 64,
+      "generated_at": "2026-03-30 15:48:59"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "ea9f7accf7029466333e6a7134fc438f",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 51.411,
+      "slide_title": "ಸಮಬಾಹು ತ್ರಿಭುಜ: ಬಾಹುಗಳು",
+      "type": "definition",
+      "script_words": 73,
+      "generated_at": "2026-03-30 15:49:04"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "0ba4aae5a3643d534c3c3c2658c3f44c",
+      "wav_file": "003_definition_0.wav",
+      "duration": 40.971,
+      "slide_title": "ಸಮಬಾಹು ತ್ರಿಭುಜ: ವ್ಯಾಖ್ಯೆ",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-03-30 15:49:05"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "8438f17f264432805feaf676b2c510ed",
+      "wav_file": "006_definition_1.wav",
+      "duration": 39.051,
+      "slide_title": "ವ್ಯಾಖ್ಯೆ: ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-03-30 15:49:32"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "1d09301f8916298d03bd42ed9a0ad81f",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 39.211,
+      "slide_title": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಭಾಗಗಳು",
+      "type": "definition",
+      "script_words": 71,
+      "generated_at": "2026-03-30 15:49:57"
+    },
+    "010_definition_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "21d8feaeb3cf51d0ae6e0fe30b0be892",
+      "wav_file": "010_definition_cont_1_4.wav",
+      "duration": 49.251,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಸಾಮಾನ್ಯ ಗೊಂದಲ",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-03-30 15:50:03"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "040942bd852364de2399c739b54b12c4",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 45.971,
+      "slide_title": "ಪ್ರಮುಖ ಗುಣ: ಕೋನಗಳು ಮತ್ತು ಬಾಹುಗಳು",
+      "type": "definition",
+      "script_words": 73,
+      "generated_at": "2026-03-30 15:50:06"
+    },
+    "009_definition_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "992ae250359368a2f4f3ad11f5b69895",
+      "wav_file": "009_definition_cont_1_3.wav",
+      "duration": 63.531,
+      "slide_title": "ಉದಾಹರಣೆ: ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "definition",
+      "script_words": 102,
+      "generated_at": "2026-03-30 15:50:15"
+    },
+    "013_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "0fcb4c764a6c5b6f7414faf227a6189f",
+      "wav_file": "013_property_cont_0_2.wav",
+      "duration": 52.411,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-03-30 15:50:43"
+    },
+    "014_recap_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "708cc46c55660119db7de3fc7a99d41a",
+      "wav_file": "014_recap_0.wav",
+      "duration": 41.371,
+      "slide_title": "ವಿಶೇಷ ತ್ರಿಭುಜಗಳು: ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-03-30 15:51:00"
+    },
+    "011_property_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "924fc849829650663a096aa1b255a728",
+      "wav_file": "011_property_0.wav",
+      "duration": 52.851,
+      "slide_title": "ಸಮಬಾಹು ತ್ರಿಭುಜದ ಗುಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 79,
+      "generated_at": "2026-03-30 15:51:04"
+    },
+    "012_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "455135b38a944ceb89b6732ccc962e01",
+      "wav_file": "012_property_cont_0_1.wav",
+      "duration": 55.251,
+      "slide_title": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಗುಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 76,
+      "generated_at": "2026-03-30 15:51:11"
+    }
+  }
+}

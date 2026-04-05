@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಕ್ಷೇಪನ: ಒಂದು ದೃಶ್ಯ ಉದಾಹರಣೆ",
+  "script": "ನಿಕ್ಷೇಪನವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸುಲಭವಾದ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಳಿಗಾಲದ ಬೆಳಿಗ್ಗೆ, ವಾತಾವರಣದಲ್ಲಿರುವ ನೀರಿನ ಆವಿ, ಅಂದರೆ ಅನಿಲ ರೂಪದಲ್ಲಿರುವ ನೀರು, ತಣ್ಣಗಿರುವ ಕಿಟಕಿಯ ಗಾಜು ಅಥವಾ ಗಿಡದ ಎಲೆಗಳ ಮೇಲೆ ಬಿದ್ದಾಗ ಏನಾಗುತ್ತದೆ? ಆ ನೀರಿನ ಆವಿಯು ಮೊದಲು ನೀರಾಗಿ, ನಂತರ ಗಡ್ಡೆಗಟ್ಟುವ ಬದಲು, ನೇರವಾಗಿ ಸಣ್ಣ ಸಣ್ಣ ಮಂಜುಗಡ್ಡೆಯ ಹರಳುಗಳಾಗಿ ಬದಲಾಗುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯೇ ನಿಕ್ಷೇಪನ. ಇಲ್ಲಿ ಗಾಳಿಯಲ್ಲಿದ್ದ ಅನಿಲವು, ತಣ್ಣನೆಯ ಮೇಲ್ಮೈಯನ್ನು ಸ್ಪರ್ಶಿಸಿದ ತಕ್ಷಣ ಘನರೂಪಕ್ಕೆ ಬಂದಿದೆ. ಇದನ್ನೇ ನಾವು ಹಿಮ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ನಿಕ್ಷೇಪನವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸುಲಭವಾದ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಳಿಗಾಲದ ಬೆಳಿಗ್ಗೆ, ವಾತಾವರಣದಲ್ಲಿರುವ ನೀರಿನ ಆವಿ (ಅನಿಲ), ತಣ್ಣಗಿರುವ ಕಿಟಕಿಯ ಗಾಜು ಅಥವಾ ಗಿಡದ ಎಲೆಗಳ ಮೇಲೆ ಬಿದ್ದಾಗ ಏನಾಗುತ್ತದೆ? ಆ ನೀರಿನ ಆವಿಯು ಮೊದಲು ನೀರಾಗಿ, ನಂತರ ಗಡ್ಡೆಗಟ್ಟುವ ಬದಲು, ನೇರವಾಗಿ ಸಣ್ಣ ಸಣ್ಣ ಮಂಜುಗಡ್ಡೆಯ ಹರಳುಗಳಾಗಿ (ಘನ) ಬದಲಾಗುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯೇ ನಿಕ್ಷೇಪನ. ಇಲ್ಲಿ ಗಾಳಿಯಲ್ಲಿದ್ದ ಅನಿಲವು, ತಣ್ಣನೆಯ ಮೇಲ್ಮೈಯನ್ನು ಸ್ಪರ್ಶಿಸಿದ ತಕ್ಷಣ ಘನರೂಪಕ್ಕೆ ಬಂದಿದೆ. ಇದನ್ನೇ ನಾವು ಹಿಮ (Frost) ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಚಳಿಗಾಲದಲ್ಲಿ ಗಾಳಿಯಲ್ಲಿರುವ ನೀರಿನ ಆವಿ (ಅನಿಲ).",
+    "ತಣ್ಣನೆಯ ಎಲೆ ಅಥವಾ ಕಿಟಕಿಯ ಮೇಲೆ ಶೇಖರಗೊಳ್ಳುತ್ತದೆ.",
+    "ದ್ರವವಾಗದೆ, ನೇರವಾಗಿ ಮಂಜುಗಡ್ಡೆಯ ಹರಳುಗಳಾಗಿ (ಘನ) ಬದಲಾಗುತ್ತದೆ.",
+    "ಈ ಪ್ರಕ್ರಿಯೆಯೇ ನಿಕ್ಷೇಪನ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing water vapor molecules (represented as spaced-out dots) in the air coming into contact with a cold leaf. On the surface of the leaf, these molecules are shown arranging into a crystalline solid structure (frost), with an arrow indicating the direct transition from gas to solid.",
+    "labels": "ನೀರಿನ ಆವಿ (ಅನಿಲ), ಹಿಮ (ಘನ), ಎಲೆ (ತಣ್ಣನೆಯ ಮೇಲ್ಮೈ)",
+    "scientific_significance": "Illustrates the process of deposition where a gas (water vapor) turns directly into a solid (frost) upon contact with a cold surface, bypassing the liquid phase.",
+    "placeholder_note": "Image to be generated showing frost forming on a leaf from water vapor."
+  },
+  "chunk_id": "std_9_chapter_1_concept_5_chunk_007"
+}

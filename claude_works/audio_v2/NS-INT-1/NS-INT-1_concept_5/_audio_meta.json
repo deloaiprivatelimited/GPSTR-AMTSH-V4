@@ -1,0 +1,147 @@
+{
+  "module_id": "NS-INT-1_concept_5",
+  "merge_code": "NS-INT-1",
+  "voice": "Aoede",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:46:06",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "7a53bd6531122d0e2a778f0dd50399ea",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 23.971,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 38,
+      "generated_at": "2026-03-30 15:43:26"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "e42584fe8f81b407616418868a89d393",
+      "wav_file": "001_intro_0.wav",
+      "duration": 62.451,
+      "slide_title": "ಪೂರ್ಣಾಂಕಗಳ ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರ",
+      "type": "intro",
+      "script_words": 79,
+      "generated_at": "2026-03-30 15:43:50"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "c86e9dc26a12f33ddd8d7f708a633744",
+      "wav_file": "003_property_0.wav",
+      "duration": 67.291,
+      "slide_title": "ಪೂರ್ಣಾಂಕಗಳ ಗುಣಾಕಾರ: ಚಿಹ್ನೆಗಳ ನಿಯಮಗಳು",
+      "type": "concept_explanation",
+      "script_words": 80,
+      "generated_at": "2026-03-30 15:43:52"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "ee64c2f7bc3e3060c9001f93103d0f38",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 54.291,
+      "slide_title": "ಪೂರ್ಣಾಂಕಗಳ ಭಾಗಾಕಾರ: ಚಿಹ್ನೆಗಳ ನಿಯಮಗಳು",
+      "type": "concept_explanation",
+      "script_words": 69,
+      "generated_at": "2026-03-30 15:44:05"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "f4267b60ed825a421717a0f906510119",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 60.811,
+      "slide_title": "ಸೊನ್ನೆಯೊಂದಿಗೆ ಕ್ರಿಯೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-03-30 15:44:30"
+    },
+    "008_example_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "a5bd3241b41c7093f29b6fea26f40bcd",
+      "wav_file": "008_example_0.wav",
+      "duration": 45.691,
+      "slide_title": "ಪದ ಸಮಸ್ಯೆ: ಲಾಭ ಮತ್ತು ನಷ್ಟ",
+      "type": "worked_example",
+      "script_words": 74,
+      "generated_at": "2026-03-30 15:44:42"
+    },
+    "009_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "c40baeb3708579a22506c21fcb449144",
+      "wav_file": "009_example_cont_0_1.wav",
+      "duration": 60.931,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ 1",
+      "type": "worked_example",
+      "script_words": 88,
+      "generated_at": "2026-03-30 15:44:53"
+    },
+    "006_property_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "47bb0eeb3aa08ca2e499b6046f881c3f",
+      "wav_file": "006_property_1.wav",
+      "duration": 70.051,
+      "slide_title": "1 ರೊಂದಿಗಿನ ಕ್ರಿಯೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 96,
+      "generated_at": "2026-03-30 15:44:58"
+    },
+    "007_property_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "608f1cd8a637d8e646936f443af6cc91",
+      "wav_file": "007_property_cont_1_1.wav",
+      "duration": 69.291,
+      "slide_title": "-1 ರೊಂದಿಗಿನ ಕ್ರಿಯೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 104,
+      "generated_at": "2026-03-30 15:45:15"
+    },
+    "011_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "5704718e0153dcbaad515b5bdd597cc3",
+      "wav_file": "011_example_cont_0_3.wav",
+      "duration": 26.051,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 30,
+      "generated_at": "2026-03-30 15:45:28"
+    },
+    "010_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "fbf4e54286f516d30aa712bc6ffbe6d0",
+      "wav_file": "010_example_cont_0_2.wav",
+      "duration": 64.451,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ 2",
+      "type": "worked_example",
+      "script_words": 84,
+      "generated_at": "2026-03-30 15:45:40"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "096ab1d21dc288899fd1d48529d19c85",
+      "wav_file": "012_recap_0.wav",
+      "duration": 61.331,
+      "slide_title": "ಸಾರಾಂಶ: ಪೂರ್ಣಾಂಕಗಳ ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರ",
+      "type": "recap",
+      "script_words": 80,
+      "generated_at": "2026-03-30 15:46:06"
+    }
+  }
+}

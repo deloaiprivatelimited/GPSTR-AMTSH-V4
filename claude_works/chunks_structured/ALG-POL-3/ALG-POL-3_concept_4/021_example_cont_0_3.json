@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ಅಪವರ್ತನ ಪ್ರಮೇಯವನ್ನು ಬಳಸಿ, ನಾವು y ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಐದು y ಪ್ಲಸ್ ಆರು ಇದರ ಅಪವರ್ತನಗಳು y ಮೈನಸ್ ಎರಡು ಮತ್ತು y ಮೈನಸ್ ಮೂರು ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ದತ್ತ ಬಹುಪದೋಕ್ತಿ y ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಐದು y ಪ್ಲಸ್ ಆರು. ಕಂಡುಹಿಡಿದ ಅಪವರ್ತನಗಳು y ಮೈನಸ್ ಎರಡು ಮತ್ತು y ಮೈನಸ್ ಮೂರು. ಅಂತಿಮ ಉತ್ತರ: y ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಐದು y ಪ್ಲಸ್ ಆರು ಈಕ್ವಲ್ಸ್ y ಮೈನಸ್ ಎರಡು, ಇಂಟು y ಮೈನಸ್ ಮೂರು.",
+  "script_display": "ಹೀಗೆ, ಅಪವರ್ತನ ಪ್ರಮೇಯವನ್ನು ಬಳಸಿ, ನಾವು $y^2 – 5y + 6$ ಇದರ ಅಪವರ್ತನಗಳು $(y-2)$ ಮತ್ತು $(y-3)$ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ದತ್ತ ಬಹುಪದೋಕ್ತಿ: $y^2 – 5y + 6$. ಕಂಡುಹಿಡಿದ ಅಪವರ್ತನಗಳು: $(y-2)$ ಮತ್ತು $(y-3)$. ಅಂತಿಮ ಉತ್ತರ: $y^2 – 5y + 6 = (y-2)(y-3)$.",
+  "display_bullets": [
+    "ದತ್ತ ಬಹುಪದೋಕ್ತಿ: $y^2 – 5y + 6$",
+    "ಕಂಡುಹಿಡಿದ ಅಪವರ್ತನಗಳು: $(y-2)$ ಮತ್ತು $(y-3)$",
+    "ಅಂತಿಮ ಉತ್ತರ: $y^2 – 5y + 6 = (y-2)(y-3)$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "y^2 – 5y + 6 = (y-2)(y-3)",
+    "placeholder_note": "The final factorized form of the polynomial"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_13",
+  "final_answer": "$y^2 – 5y + 6 = (y-2)(y-3)$",
+  "final_answer_display": "$y^2 – 5y + 6 = (y-2)(y-3)$",
+  "chunk_id": "ALG-POL-3_concept_4_chunk_021"
+}

@@ -1,0 +1,48 @@
+{
+  "module_id": "std_9_chapter_2_concept_12",
+  "chapter_code": "std_9_chapter_2",
+  "voice": "Rasalgethi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 3,
+  "ok_count": 3,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:50:54",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "658ff343f30d62a2cd585b8f88b5738f",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 30.051,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 42,
+      "generated_at": "2026-04-02 15:50:35"
+    },
+    "003_recap_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "440e795d49935ce7dde7130aaa2debed",
+      "wav_file": "003_recap_0.wav",
+      "duration": 51.531,
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "script_words": 60,
+      "generated_at": "2026-04-02 15:50:51"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "acfb675bdab2729a2f82d3bf4b9f5b41",
+      "wav_file": "001_intro_0.wav",
+      "duration": 57.971,
+      "slide_title": "ದ್ರವ್ಯದ ವರ್ಗೀಕರಣ",
+      "type": "chunk",
+      "script_words": 90,
+      "generated_at": "2026-04-02 15:50:54"
+    }
+  }
+}

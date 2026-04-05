@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ತೀರ್ಮಾನ ಮತ್ತು ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಈಗ, ತ್ರಿಭುಜ POQ ಮತ್ತು ತ್ರಿಭುಜ SOR ಗಳಲ್ಲಿ, ಮೂರು ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುವುದನ್ನು ನಾವು ನೋಡಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಕೋನ ಕೋನ ಕೋನ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ POQ ಯು ತ್ರಿಭುಜ SOR ಗೆ ಸಮರೂಪಿಯಾಗಿದೆ. ಹೀಗೆ ನಾವು ಈ ಹೇಳಿಕೆಯನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ.",
+  "script_display": "ಈಗ, $\\triangle POQ$ ಮತ್ತು $\\triangle SOR$ ಗಳಲ್ಲಿ, ಮೂರು ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುವುದನ್ನು ನಾವು ನೋಡಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಕೋ.ಕೋ.ಕೋ (AAA) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದ ಪ್ರಕಾರ, $\\triangle POQ \\sim \\triangle SOR$. ಹೀಗೆ ನಾವು ಈ ಹೇಳಿಕೆಯನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ಎರಡೂ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿವೆ.",
+    "ಆದ್ದರಿಂದ, ಕೋ.ಕೋ.ಕೋ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದ ಪ್ರಕಾರ, ತ್ರಿಭುಜಗಳು ಸಮರೂಪಿಗಳಾಗಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\triangle POQ \\sim \\triangle SOR",
+    "placeholder_note": "Final answer box"
+  },
+  "source_example_id": "GEO-TRI-2_example_14",
+  "steps": [],
+  "final_answer": "\\triangle POQ \\sim \\triangle SOR",
+  "final_answer_display": "$\\triangle POQ \\sim \\triangle SOR$",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_052"
+}

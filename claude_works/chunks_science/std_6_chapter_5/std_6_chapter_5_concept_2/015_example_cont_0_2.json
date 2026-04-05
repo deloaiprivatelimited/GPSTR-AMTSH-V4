@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+  "script": "ಆದ್ದರಿಂದ, ಈ ಲೆಕ್ಕಾಚಾರದ ಪ್ರಕಾರ ವಸ್ತುವಿನ ನಿಜವಾದ ಉದ್ದ 9.4 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ವಿಷಯವನ್ನು ಗಮನಿಸಬೇಕು. ಮುರಿದ ಅಳತೆಪಟ್ಟಿಯಿಂದ ಅಳೆಯುವಾಗ, ಅಂತಿಮ ಅಳತೆಯಾದ 10.4 ಸೆಂಟಿಮೀಟರ್ ಅನ್ನು ವಸ್ತುವಿನ ಉದ್ದವೆಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸಬಾರದು. ಸೊನ್ನೆಯಿಂದ ಅಳತೆ ಶುರುವಾಗದಿದ್ದಾಗ, ಯಾವಾಗಲೂ ಆರಂಭಿಕ ಅಳತೆಯನ್ನು ಅಂತಿಮ ಅಳತೆಯಿಂದ ಕಳೆಯುವುದನ್ನು ಮರೆಯಬೇಡಿ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಈ ಲೆಕ್ಕಾಚಾರದ ಪ್ರಕಾರ ವಸ್ತುವಿನ ನಿಜವಾದ ಉದ್ದ 9.4 cm ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: ವಸ್ತುವಿನ ನಿಜವಾದ ಉದ್ದ 9.4 cm ಆಗಿದೆ.",
+    "ಸಾಮಾನ್ಯ ತಪ್ಪು: ಅಂತಿಮ ಅಳತೆಯನ್ನೇ (10.4 cm) ವಸ್ತುವಿನ ಉದ್ದವೆಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುವುದು. ಅಳತೆಯು '0' ದಿಂದ ಪ್ರಾರಂಭವಾಗದಿದ್ದಾಗ, ಆರಂಭಿಕ ಅಳತೆಯನ್ನು ಕಳೆಯಲು ಮರೆಯಬಾರದು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ನಿಜವಾದ ಉದ್ದ} = 9.4 \\text{ cm}",
+    "placeholder_note": "Highlight the final answer in a box."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "std_6_chapter_5_we_1",
+  "final_answer": "9.4 cm",
+  "final_answer_display": "ವಸ್ತುವಿನ ನಿಜವಾದ ಉದ್ದ 9.4 cm ಆಗಿದೆ.",
+  "exam_tip": {
+    "question_pattern": "ಮುರಿದ ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ ವಸ್ತುವಿನ ಉದ್ದವನ್ನು ಹೇಗೆ ಅಳೆಯುವಿರಿ?",
+    "skill_tested": "ಸೊನ್ನೆಯಿಂದ ಪ್ರಾರಂಭವಾಗದ ಅಳತೆಗಳನ್ನು ಬಳಸಿ ಉದ್ದವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಸಾಮರ್ಥ್ಯ.",
+    "distractor": "ಅಂತಿಮ ಅಳತೆಯಾದ 10.4 cm ಅನ್ನು ಉತ್ತರವೆಂದು ಆಯ್ಕೆ ಮಾಡುವುದು.",
+    "why_distractor_works": "ವಿದ್ಯಾರ್ಥಿಗಳು ಅಂತಿಮ ಅಳತೆಯನ್ನೇ ವಸ್ತುವಿನ ಉದ್ದವೆಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುತ್ತಾರೆ ಮತ್ತು ಆರಂಭಿಕ ಅಳತೆಯನ್ನು ಕಳೆಯಲು ಮರೆಯುತ್ತಾರೆ."
+  },
+  "chunk_id": "std_6_chapter_5_concept_2_chunk_015"
+}

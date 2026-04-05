@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಭವಾಂತರದ ಸೂತ್ರ",
+  "script": "ಈಗ ನಾವು ವಿಭವಾಂತರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸೂತ್ರವು ವಿ ಈಕ್ವಲ್ಸ್ ಡಬ್ಲ್ಯೂ ಡಿವೈಡೆಡ್ ಬೈ ಕ್ಯೂ. ಇಲ್ಲಿ, ವಿ ಎಂದರೆ ವಿಭವಾಂತರ, ಇದನ್ನು ವೋಲ್ಟ್‌ಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ. ಡಬ್ಲ್ಯೂ ಎಂದರೆ ವಿದ್ಯುದಾವೇಶವನ್ನು ಒಂದು ಬಿಂದುವಿನಿಂದ ಇನ್ನೊಂದು ಬಿಂದುವಿಗೆ ಸಾಗಿಸಲು ಮಾಡಿದ ಕೆಲಸ, ಇದನ್ನು ಜೌಲ್‌ಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ. ಮತ್ತು ಕ್ಯೂ ಎಂದರೆ ಚಲಿಸಿದ ವಿದ್ಯುದಾವೇಶದ ಪ್ರಮಾಣ, ಇದನ್ನು ಕೂಲೊಂಬ್‌ಗಳಲ್ಲಿ ಅಳೆಯಲಾಗುತ್ತದೆ. ಈ ಸೂತ್ರವನ್ನು ವಿಭವಾಂತರ, ಕೆಲಸ, ಅಥವಾ ಆವೇಶವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಳಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ವಿಭವಾಂತರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸೂತ್ರವು V = W / Q. ಇಲ್ಲಿ, V ಎಂದರೆ ವಿಭವಾಂತರ (Potential Difference), W ಎಂದರೆ ಮಾಡಿದ ಕೆಲಸ (Work Done), ಮತ್ತು Q ಎಂದರೆ ಚಲಿಸಿದ ಆವೇಶ (Charge). ಈ ಸೂತ್ರವನ್ನು ವಿಭವಾಂತರ, ಕೆಲಸ, ಅಥವಾ ಆವೇಶವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಳಸಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "V = ವಿಭವಾಂತರ (Potential Difference) - ಏಕಮಾನ: ವೋಲ್ಟ್ (V)",
+    "W = ಮಾಡಿದ ಕೆಲಸ (Work Done) - ಏಕಮಾನ: ಜೌಲ್ (J)",
+    "Q = ಚಲಿಸಿದ ಆವೇಶ (Charge Moved) - ಏಕಮಾನ: ಕೂಲೊಂಬ್ (C)",
+    "ಬಳಕೆ: ವಿಭವಾಂತರ, ಕೆಲಸ, ಅಥವಾ ಆವೇಶವನ್ನು ಕಂಡುಹಿಡಿಯಲು."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "V = \\frac{W}{Q}",
+    "placeholder_note": "Formula for Potential Difference"
+  },
+  "chunk_id": "std_10_chapter_11_concept_2_chunk_009"
+}

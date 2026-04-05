@@ -1,0 +1,36 @@
+{
+  "type": "experiment",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 3 (ಅಂತಿಮ ಜೋಡಣೆ)",
+  "script": "ಈಗ ನಮ್ಮ ಗಿರಗಿಟ್ಟೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸುವ ಸಮಯ. ಕತ್ತರಿಸಿದ ನಾಲ್ಕು ಭಾಗಗಳಲ್ಲಿ, ಒಂದು ಬಿಟ್ಟು ಒಂದು ಮೂಲೆಯನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಕೇಂದ್ರಕ್ಕೆ ಮಡಚಿ. ಅಂದರೆ, ಮೊದಲನೇ ಮೂಲೆಯನ್ನು ಮಡಚಿದರೆ, ಎರಡನೆಯದನ್ನು ಬಿಟ್ಟು ಮೂರನೆಯದನ್ನು ಮಡಚಿ. ಹೀಗೆ ಮಾಡಿದ ನಂತರ, ಅವುಗಳ ಮೂಲಕ ಗುಂಡುಸೂಜಿಯನ್ನು ಚುಚ್ಚಿ, ಎಲ್ಲವನ್ನೂ ಕಡ್ಡಿಗೆ ಜೋಡಿಸಿ. ಗುಂಡುಸೂಜಿ ಸಡಿಲವಾಗಿರಲಿ, ಆಗ ಗಿರಗಿಟ್ಟೆ ಸುಲಭವಾಗಿ ತಿರುಗುತ್ತದೆ. ನಮ್ಮ ಗಿರಗಿಟ್ಟೆ ಈಗ ಸಿದ್ಧವಾಗಿದೆ! ಈ ಹಂತದಲ್ಲಿ ನಾವು ಗಿರಗಿಟ್ಟೆಯನ್ನು ಅಂತಿಮವಾಗಿ ರೂಪಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ನಮ್ಮ ಗಿರಗಿಟ್ಟೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸುವ ಸಮಯ. ಕತ್ತರಿಸಿದ ನಾಲ್ಕು ಭಾಗಗಳಲ್ಲಿ, ಒಂದು ಬಿಟ್ಟು ಒಂದು ಮೂಲೆಯನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಕೇಂದ್ರಕ್ಕೆ ಮಡಚಿ. ಅಂದರೆ, ಮೊದಲನೇ ಮೂಲೆಯನ್ನು ಮಡಚಿದರೆ, ಎರಡನೆಯದನ್ನು ಬಿಟ್ಟು ಮೂರನೆಯದನ್ನು ಮಡಚಿ. ಹೀಗೆ ಮಾಡಿದ ನಂತರ, ಅವುಗಳ ಮೂಲಕ ಗುಂಡುಸೂಜಿಯನ್ನು ಚುಚ್ಚಿ, ಎಲ್ಲವನ್ನೂ ಕಡ್ಡಿಗೆ ಜೋಡಿಸಿ. ಗುಂಡುಸೂಜಿ ಸಡಿಲವಾಗಿರಲಿ, ಆಗ ಗಿರಗಿಟ್ಟೆ ಸುಲಭವಾಗಿ ತಿರುಗುತ್ತದೆ. ನಮ್ಮ ಗಿರಗಿಟ್ಟೆ ಈಗ ಸಿದ್ಧವಾಗಿದೆ! ಈ ಹಂತದಲ್ಲಿ ನಾವು ಗಿರಗಿಟ್ಟೆಯನ್ನು ಅಂತಿಮವಾಗಿ ರೂಪಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಒಂದು ಬಿಟ್ಟು ಒಂದು ಮೂಲೆಯನ್ನು ಕೇಂದ್ರಕ್ಕೆ ಮಡಚಿ.",
+    "ಗುಂಡುಸೂಜಿಯಿಂದ ಎಲ್ಲವನ್ನೂ ಕಡ್ಡಿಗೆ ಜೋಡಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the alternate corners of the cut paper being brought to the center. A pin is shown piercing through the folded corners and the center of the paper, and then being attached to a stick.",
+    "labels": "ಮಡಚುವುದು, ಗುಂಡುಸೂಜಿ, ಕಡ್ಡಿ",
+    "scientific_significance": "Demonstrates the final assembly step, creating the blades of the pinwheel that will catch the wind.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "procedure_step",
+  "chunk_id": "std_6_chapter_11_concept_2_chunk_013"
+}

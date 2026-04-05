@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಂಕಲನ ಕ್ರಿಯೆ: ಹೈಡೋಜನೀಕರಣ",
+  "script": "ಅಪರ್ಯಾಪ್ತ ಹೈಡ್ರೋಕಾರ್ಬನ್, ನಿಕ್ಕಲ್ ಅಥವಾ ಪೆಲ್ಲೇಡಿಯಂನಂತಹ ಕ್ರಿಯಾವರ್ಧಕದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ಹೈಡೋಜನ್‌ನೊಂದಿಗೆ ಸೇರಿಕೊಂಡು ಪರ್ಯಾಪ್ತ ಹೈಡ್ರೋಕಾರ್ಬನ್ ಆಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯನ್ನು ಸಂಕಲನ ಕ್ರಿಯೆ ಅಥವಾ ಹೈಡೋಜನೀಕರಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇಲ್ಲಿ R ಎಂಬುದು ಆಲ್ಕೈಲ್ ಗುಂಪನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "script_display": "ಅಪರ್ಯಾಪ್ತ ಹೈಡ್ರೋಕಾರ್ಬನ್, ನಿಕ್ಕಲ್ (Ni) ಅಥವಾ ಪೆಲ್ಲೇಡಿಯಂ (Pd) ನಂತಹ ಕ್ರಿಯಾವರ್ಧಕದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ಹೈಡೋಜನ್‌ನೊಂದಿಗೆ ಸೇರಿಕೊಂಡು ಪರ್ಯಾಪ್ತ ಹೈಡ್ರೋಕಾರ್ಬನ್ ಆಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯನ್ನು ಸಂಕಲನ ಕ್ರಿಯೆ (Addition Reaction) ಅಥವಾ ಹೈಡೋಜನೀಕರಣ (Hydrogenation) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇಲ್ಲಿ R ಎಂಬುದು ಆಲ್ಕೈಲ್ ಗುಂಪನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "R_2C=CR_2 + H_2 \\xrightarrow{\\text{Ni/Pd}} R_2CH-CHR_2",
+    "placeholder_note": "General equation for hydrogenation of an alkene."
+  },
+  "chunk_id": "std_10_chapter_4_concept_8_chunk_020"
+}

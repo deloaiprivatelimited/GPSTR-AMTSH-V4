@@ -1,0 +1,51 @@
+{
+  "type": "worked_example",
+  "slide_title": "ವರ್ಗ ಸಮೀಕರಣವನ್ನು ಸರಳೀಕರಿಸುವುದು",
+  "script": "ಈಗ ನಾವು ಪಡೆದ ಸಮೀಕರಣವನ್ನು ಆದರ್ಶ ರೂಪಕ್ಕೆ ತರೋಣ. x ಪ್ಲಸ್ 7 ರ ವರ್ಗವನ್ನು ವಿಸ್ತರಿಸಿದಾಗ x ವರ್ಗ ಪ್ಲಸ್ 14x ಪ್ಲಸ್ 49 ಸಿಗುತ್ತದೆ. ಇದರೊಂದಿಗೆ x ವರ್ಗವನ್ನು ಕೂಡಿಸಿದಾಗ, ಸಮೀಕರಣವು 2x ವರ್ಗ ಪ್ಲಸ್ 14x ಪ್ಲಸ್ 49 ಈಕ್ವಲ್ಸ್ 169 ಆಗುತ್ತದೆ. 169 ಅನ್ನು ಎಡಬದಿಗೆ ತಂದಾಗ, 2x ವರ್ಗ ಪ್ಲಸ್ 14x ಮೈನಸ್ 120 ಈಕ್ವಲ್ಸ್ 0 ಆಗುತ್ತದೆ. ಈ ಸಮೀಕರಣದ ಎಲ್ಲಾ ಪದಗಳೂ 2 ರಿಂದ ಭಾಗವಾಗುವುದರಿಂದ, ಸಮೀಕರಣವನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಅಂತಿಮವಾಗಿ x ವರ್ಗ ಪ್ಲಸ್ 7x ಮೈನಸ್ 60 ಈಕ್ವಲ್ಸ್ 0 ಎಂಬ ವರ್ಗ ಸಮೀಕರಣ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಪಡೆದ ಸಮೀಕರಣವನ್ನು ಆದರ್ಶ ರೂಪಕ್ಕೆ ತರೋಣ. $(x+7)^2$ ಅನ್ನು ವಿಸ್ತರಿಸಿದಾಗ $x^2 + 14x + 49$ ಸಿಗುತ್ತದೆ. ಇದರೊಂದಿಗೆ $x^2$ ಅನ್ನು ಕೂಡಿಸಿದಾಗ, ಸಮೀಕರಣವು $2x^2 + 14x + 49 = 169$ ಆಗುತ್ತದೆ. 169 ಅನ್ನು ಎಡಬದಿಗೆ ತಂದಾಗ, $2x^2 + 14x - 120 = 0$ ಆಗುತ್ತದೆ. ಈ ಸಮೀಕರಣದ ಎಲ್ಲಾ ಪದಗಳೂ 2 ರಿಂದ ಭಾಗವಾಗುವುದರಿಂದ, ಸಮೀಕರಣವನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಅಂತಿಮವಾಗಿ $x^2 + 7x - 60 = 0$ ಎಂಬ ವರ್ಗ ಸಮೀಕರಣ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-QUAD-4_example_8",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$(x+7)^2 + x^2 = 13^2 \\\\implies x^2 + 14x + 49 + x^2 = 169$.",
+      "justification": "ಸಮೀಕರಣವನ್ನು ವಿಸ್ತರಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$2x^2 + 14x + 49 - 169 = 0 \\\\implies 2x^2 + 14x - 120 = 0$.",
+      "justification": "ಪದಗಳನ್ನು ಒಂದು ಕಡೆಗೆ ತಂದು ಸರಳೀಕರಿಸುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "$x^2 + 7x - 60 = 0$.",
+      "justification": "ಸಮೀಕರಣವನ್ನು 2 ರಿಂದ ಭಾಗಿಸುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "ALG-QUAD-4_concept_3_chunk_021"
+}

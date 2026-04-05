@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದ್ಯುತಿ ಉತ್ಸರ್ಜಕ ಡಯೋಡ್ (LED)",
+  "script": "ಈಗ ನಾವು ಅತ್ಯಂತ ಆಧುನಿಕ ಮತ್ತು ಜನಪ್ರಿಯ ದೀಪವಾದ ಎಲ್ ಇ ಡಿ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಎಲ್ ಇ ಡಿ ಎಂದರೆ ದ್ಯುತಿ ಉತ್ಸರ್ಜಕ ಡಯೋಡ್. ಇವುಗಳು ಅತ್ಯಂತ ಹೆಚ್ಚು ವಿದ್ಯುತ್ ಸಮರ್ಥವಾಗಿವೆ, ಅಂದರೆ ಬಹಳ ಕಡಿಮೆ ವಿದ್ಯುತ್ ಬಳಸುತ್ತವೆ. ಇವು ಪರಿಸರ ಸ್ನೇಹಿಯಾಗಿವೆ, ಏಕೆಂದರೆ ಇವುಗಳಲ್ಲಿ ಪಾದರಸದಂತಹ ಯಾವುದೇ ವಿಷಕಾರಿ ವಸ್ತುಗಳು ಇರುವುದಿಲ್ಲ. ಅಷ್ಟೇ ಅಲ್ಲ, ಇವು ಬಹಳ ದೀರ್ಘಕಾಲ ಬಾಳಿಕೆ ಬರುತ್ತವೆ. ಈ ಎಲ್ಲಾ ಕಾರಣಗಳಿಂದ, ಇಂದಿನ ದಿನಗಳಲ್ಲಿ ಎಲ್ ಇ ಡಿ ಬಲ್ಬ್‌ಗಳು ಅತ್ಯುತ್ತಮ ಆಯ್ಕೆಯಾಗಿವೆ.",
+  "script_display": "ಈಗ ನಾವು ಅತ್ಯಂತ ಆಧುನಿಕ ಮತ್ತು ಜನಪ್ರಿಯ ದೀಪವಾದ LED ಬಗ್ಗೆ ತಿಳಿಯೋಣ. LED ಎಂದರೆ ದ್ಯುತಿ ಉತ್ಸರ್ಜಕ ಡಯೋಡ್ (Light Emitting Diode).\n\n*   ಇವು ಅತ್ಯಂತ ಹೆಚ್ಚು ವಿದ್ಯುತ್ ಸಮರ್ಥ (highly energy-efficient) ದೀಪಗಳಾಗಿವೆ.\n*   ಇವು ಪರಿಸರ ಸ್ನೇಹಿಯಾಗಿವೆ, ಏಕೆಂದರೆ ಇವುಗಳಲ್ಲಿ ಪಾದರಸದಂತಹ ವಿಷಕಾರಿ ವಸ್ತುಗಳು ಇರುವುದಿಲ್ಲ.\n*   ಇವು ಬಹಳ ದೀರ್ಘಕಾಲ ಬಾಳಿಕೆ ಬರುತ್ತವೆ. ಈ ಕಾರಣಗಳಿಂದಾಗಿ ಇವು ಅತ್ಯುತ್ತಮ ಆಯ್ಕೆಯಾಗಿವೆ.",
+  "display_bullets": [
+    "ಅತ್ಯಂತ ಹೆಚ್ಚು ವಿದ್ಯುತ್ ಸಮರ್ಥ",
+    "ಪರಿಸರ ಸ್ನೇಹಿ, ವಿಷಕಾರಿ ವಸ್ತುಗಳಿಲ್ಲ",
+    "ದೀರ್ಘಕಾಲ ಬಾಳಿಕೆ ಬರುತ್ತದೆ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_b",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Image of a modern LED bulb, with a cutaway view showing the LED chips on a board and the heat sink.",
+    "labels": "LED chips, Heat sink, Diffuser dome, Base",
+    "scientific_significance": "Illustrates the semiconductor technology (LED chips) that directly converts electricity to light, making it highly efficient and different from filament or gas-discharge lamps.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_10_concept_3_chunk_008"
+}

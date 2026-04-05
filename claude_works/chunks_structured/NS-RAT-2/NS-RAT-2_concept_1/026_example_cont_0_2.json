@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಮೈನಸ್ ನಲವತ್ತೈದು ಬೈ ಮೂವತ್ತರ ಆದರ್ಶ ರೂಪವು ಮೈನಸ್ ಮೂರು ಬೈ ಎರಡು ಆಗಿದೆ. ಈ ಉತ್ತರದಲ್ಲಿ, ಛೇದವು ಧನಾತ್ಮಕವಾಗಿದೆ. ಹಾಗೂ, ಅಂಶ ಮತ್ತು ಛೇದಗಳಿಗೆ ಒಂದನ್ನು ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳಿಲ್ಲ. ಆದ್ದರಿಂದ ಇದು ಆದರ್ಶ ರೂಪದಲ್ಲಿದೆ.",
+  "script_display": "ಹಾಗಾಗಿ, $\\frac{-45}{30}$ ರ ಆದರ್ಶ ರೂಪವು $\\frac{-3}{2}$ ಆಗಿದೆ. ಈ ಉತ್ತರದಲ್ಲಿ, ಛೇದವು ಧನಾತ್ಮಕವಾಗಿದೆ. ಹಾಗೂ, ಅಂಶ ಮತ್ತು ಛೇದಗಳಿಗೆ 1ನ್ನು ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳಿಲ್ಲ. ಆದ್ದರಿಂದ ಇದು ಆದರ್ಶ ರೂಪದಲ್ಲಿದೆ.",
+  "display_bullets": [
+    "$\\frac{-45}{30}$ ರ ಆದರ್ಶ ರೂಪ $\\frac{-3}{2}$ ಆಗಿದೆ.",
+    "ಛೇದ (2) ಧನಾತ್ಮಕವಾಗಿದೆ.",
+    "ಅಂಶ (-3) ಮತ್ತು ಛೇದ (2) ಗಳಿಗೆ 1 ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{-45}{30} = \\frac{-3}{2}",
+    "placeholder_note": "The final answer showing the original fraction and its standard form."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "NS-RAT-2_example_1",
+  "final_answer": "\\frac{-3}{2}",
+  "final_answer_display": "$\\frac{-45}{30}$ ರ ಆದರ್ಶ ರೂಪ $\\frac{-3}{2}$ ಆಗಿದೆ.",
+  "chunk_id": "NS-RAT-2_concept_1_chunk_026"
+}

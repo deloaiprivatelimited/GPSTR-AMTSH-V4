@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈ ಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಒಂದು ಪರೀಕ್ಷಾ ನಳಿಕೆಯಲ್ಲಿ ನಾವು ಎಥನಾಲ್ ತೆಗೆದುಕೊಂಡು, ಅದಕ್ಕೆ ಒಂದು ಸಣ್ಣ ಸೋಡಿಯಂ ತುಂಡನ್ನು ಸೇರಿಸುತ್ತೇವೆ. ತಕ್ಷಣವೇ, ಅನಿಲದ ಗುಳ್ಳೆಗಳು ವೇಗವಾಗಿ ಹೊರಬರುವುದನ್ನು ನಾವು ಗಮನಿಸಬಹುದು. ಈ ಅನಿಲವೇ ಹೈಡೋಜನ್. ಈ ಕ್ರಿಯೆಯು ಎಥನಾಲ್‌ನ ಹೈಡ್ರಾಕ್ಸಿಲ್ ಗುಂಪಿನಲ್ಲಿರುವ ಹೈಡೋಜನ್ ಪರಮಾಣುವು ಆಮ್ಲೀಯ ಗುಣವನ್ನು ಹೊಂದಿದೆ ಎಂದು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಒಂದು ಪರೀಕ್ಷಾ ನಳಿಕೆಯಲ್ಲಿ ನಾವು ಎಥನಾಲ್ ತೆಗೆದುಕೊಂಡು, ಅದಕ್ಕೆ ಒಂದು ಸಣ್ಣ ಸೋಡಿಯಂ ತುಂಡನ್ನು ಸೇರಿಸುತ್ತೇವೆ. ತಕ್ಷಣವೇ, ಅನಿಲದ ಗುಳ್ಳೆಗಳು ($H_2$) ವೇಗವಾಗಿ ಹೊರಬರುವುದನ್ನು ನಾವು ಗಮನಿಸಬಹುದು. ಈ ಕ್ರಿಯೆಯು ಎಥನಾಲ್‌ನ ಹೈಡ್ರಾಕ್ಸಿಲ್ ಗುಂಪಿನಲ್ಲಿರುವ ಹೈಡೋಜನ್ ಪರಮಾಣುವು ಆಮ್ಲೀಯ ಗುಣವನ್ನು ಹೊಂದಿದೆ ಎಂದು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ಪರೀಕ್ಷಾ ನಳಿಕೆಯಲ್ಲಿ ಎಥನಾಲ್ ಇದೆ. ಅದಕ್ಕೆ ಸೋಡಿಯಂ ತುಂಡನ್ನು ಹಾಕಿದಾಗ ಹೈಡೋಜನ್ ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಹೊರಬರುತ್ತಿರುವುದನ್ನು ತೋರಿಸುವ ಚಿತ್ರ.",
+    "labels": "ಪರೀಕ್ಷಾ ನಳಿಕೆ, ಎಥನಾಲ್, ಸೋಡಿಯಂ, ಹೈಡೋಜನ್ ಗುಳ್ಳೆಗಳು",
+    "scientific_significance": "Demonstrates the reaction of an active metal (sodium) with an alcohol (ethanol) to produce hydrogen gas, indicating the acidic nature of the hydroxyl hydrogen.",
+    "placeholder_note": "Image to be generated: A test tube containing ethanol. A small piece of sodium metal is dropped in, and bubbles of hydrogen gas are shown effervescing from it."
+  },
+  "chunk_id": "std_10_chapter_4_concept_9_chunk_010"
+}

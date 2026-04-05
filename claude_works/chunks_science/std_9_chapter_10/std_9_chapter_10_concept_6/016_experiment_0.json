@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಶಕ್ತಿ ಸಂರಕ್ಷಣೆಯ ಪರಿಶೀಲನೆ",
+  "script": "ಈಗ ನಾವು ಶಕ್ತಿ ಸಂರಕ್ಷಣಾ ನಿಯಮವನ್ನು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಪರಿಶೀಲಿಸೋಣ. ಈ ಚಟುವಟಿಕೆಯಲ್ಲಿ, ನಾವು ಸ್ವತಂತ್ರವಾಗಿ ಕೆಳಗೆ ಬೀಳುತ್ತಿರುವ ವಸ್ತುವಿನ ಶಕ್ತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸುತ್ತೇವೆ. ನಾವು 20 ಕಿಲೋಗ್ರಾಂ ರಾಶಿಯ ವಸ್ತುವನ್ನು 4 ಮೀಟರ್ ಎತ್ತರದಿಂದ ಬೀಳಲು ಬಿಡುತ್ತೇವೆ. ಅದರ ಪತನದ ವಿವಿಧ ಹಂತಗಳಲ್ಲಿ, ಅದರ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ ಮತ್ತು ಚಲನಶಕ್ತಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ, ಒಟ್ಟು ಶಕ್ತಿಯು ಸ್ಥಿರವಾಗಿರುತ್ತದೆಯೇ ಎಂದು ನೋಡೋಣ. ಈ ಲೆಕ್ಕಾಚಾರಕ್ಕಾಗಿ, ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ, ಅಂದರೆ g ಯ ಮೌಲ್ಯವನ್ನು 10 ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್ ವರ್ಗ ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಶಕ್ತಿ ಸಂರಕ್ಷಣಾ ನಿಯಮವನ್ನು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಪರಿಶೀಲಿಸೋಣ. ಈ ಚಟುವಟಿಕೆಯಲ್ಲಿ, ನಾವು ಸ್ವತಂತ್ರವಾಗಿ ಕೆಳಗೆ ಬೀಳುತ್ತಿರುವ ವಸ್ತುವಿನ ಶಕ್ತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸುತ್ತೇವೆ.\n\n**ಸನ್ನಿವೇಶ:**\n*   ವಸ್ತುವಿನ ರಾಶಿ (m) = 20 kg\n*   ಆರಂಭಿಕ ಎತ್ತರ (h) = 4 m\n*   ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ (g) = 10 ms⁻²",
+  "display_bullets": [
+    "ವಸ್ತುವಿನ ರಾಶಿ (m) = 20 kg",
+    "ಆರಂಭಿಕ ಎತ್ತರ (h) = 4 m",
+    "ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ (g) = 10 ms⁻²"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a ball at a height of 4m above the ground. An arrow points downwards indicating the direction of fall. Labels for mass 'm=20kg' and height 'h=4m'. The ground is marked as h=0.",
+    "labels": "ವಸ್ತು (m=20kg), ಎತ್ತರ (h=4m), ನೆಲ (h=0), ಪತನದ ದಿಕ್ಕು",
+    "scientific_significance": "This diagram sets up the initial conditions for the free fall problem, visually representing the mass, initial height, and direction of motion.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_10_concept_6_chunk_016"
+}

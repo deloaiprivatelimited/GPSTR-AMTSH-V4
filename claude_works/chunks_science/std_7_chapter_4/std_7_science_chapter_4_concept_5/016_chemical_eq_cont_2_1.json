@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನೈಟ್ರಿಕ್ ಆಮ್ಲ ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ?",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಕಾರ್ಖಾನೆಗಳು ಮತ್ತು ವಾಹನಗಳ ಹೊಗೆಯಿಂದ ನೈಟ್ರೋಜನ್ ಆಕ್ಸೈಡ್ ಗಳು ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ. ಇವು ಗಾಳಿಯಲ್ಲಿ ಮೇಲಕ್ಕೆ ಹೋಗಿ, ಮೋಡಗಳಲ್ಲಿರುವ ನೀರಿನ ಹನಿಗಳು ಮತ್ತು ಆಮ್ಲಜನಕದೊಂದಿಗೆ ಸೇರಿಕೊಂಡು ನೈಟ್ರಿಕ್ ಆಮ್ಲವಾಗಿ ಪರಿವರ್ತನೆಗೊಳ್ಳುತ್ತವೆ. ನಂತರ, ಈ ಆಮ್ಲವು ಮಳೆಯ ರೂಪದಲ್ಲಿ ಭೂಮಿಯನ್ನು ತಲುಪುತ್ತದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಕಾರ್ಖಾನೆಗಳು ಮತ್ತು ವಾಹನಗಳ ಹೊಗೆಯಿಂದ ನೈಟ್ರೋಜನ್ ಆಕ್ಸೈಡ್‌ಗಳು (NOₓ) ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ. ಇವು ಗಾಳಿಯಲ್ಲಿ ಮೇಲಕ್ಕೆ ಹೋಗಿ, ಮೋಡಗಳಲ್ಲಿರುವ ನೀರಿನ ಹನಿಗಳು (H₂O) ಮತ್ತು ಆಮ್ಲಜನಕದೊಂದಿಗೆ (O₂) ಸೇರಿಕೊಂಡು ನೈಟ್ರಿಕ್ ಆಮ್ಲವಾಗಿ (HNO₃) ಪರಿವರ್ತನೆಗೊಳ್ಳುತ್ತವೆ. ನಂತರ, ಈ ಆಮ್ಲವು ಮಳೆಯ ರೂಪದಲ್ಲಿ ಭೂಮಿಯನ್ನು ತಲುಪುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating the formation of nitric acid for acid rain. On the left, a factory and a car emit nitrogen oxides (NOₓ) gas. The gas rises towards clouds. In the clouds, which contain water (H₂O) and oxygen (O₂), the NOₓ reacts to form nitric acid (HNO₃). On the right, rain containing HNO₃ is shown falling from the clouds onto trees and a lake.",
+    "labels": "ಕಾರ್ಖಾನೆ, ವಾಹನ, ನೈಟ್ರೋಜನ್ ಆಕ್ಸೈಡ್‌ಗಳು (NOₓ), ಮೋಡಗಳು (H₂O + O₂), ನೈಟ್ರಿಕ್ ಆಮ್ಲ (HNO₃), ಆಮ್ಲಮಳೆ",
+    "scientific_significance": "This visualizes the atmospheric chemical process where pollutants are converted into acid, which then precipitates as acid rain.",
+    "placeholder_note": "Image to be generated showing pollutants from a factory/car rising to clouds, reacting with water and oxygen to form nitric acid, and then falling as acid rain."
+  },
+  "chunk_id": "std_7_science_chapter_4_concept_5_chunk_016"
+}

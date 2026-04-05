@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಕ್ಷಾರ vs. ಕ್ಷಾರವಲ್ಲದ ಪ್ರತ್ಯಾಮ್ಲ",
+  "script": "ಈಗ ಒಂದು ಸ್ಪಷ್ಟ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಅಂದರೆ N A O H ಇದೆ. ಇದು ಒಂದು ಪ್ರಬಲ ಪ್ರತ್ಯಾಮ್ಲ ಮತ್ತು ಇದು ನೀರಿನಲ್ಲಿ ಸುಲಭವಾಗಿ ಕರಗುತ್ತದೆ. ಹೀಗೆ ನೀರಿನಲ್ಲಿ ಕರಗುವುದರಿಂದ, ಇದು ಒಂದು ಕ್ಷಾರವಾಗಿದೆ. ಬಲಭಾಗದಲ್ಲಿ ತಾಮ್ರದ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಅಂದರೆ C u O H twice ಇದೆ. ಇದೂ ಕೂಡ ಒಂದು ಪ್ರತ್ಯಾಮ್ಲ. ಆದರೆ, ಇದು ನೀರಿನಲ್ಲಿ ಕರಗುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, ತಾಮ್ರದ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಒಂದು ಕ್ಷಾರವಲ್ಲದ ಪ್ರತ್ಯಾಮ್ಲ. ಈ ವ್ಯತ್ಯಾಸವು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ಒಂದು ಸ್ಪಷ್ಟ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) ಇದೆ. ಇದು ಒಂದು ಪ್ರಬಲ ಪ್ರತ್ಯಾಮ್ಲ ಮತ್ತು ಇದು ನೀರಿನಲ್ಲಿ ಸುಲಭವಾಗಿ ಕರಗುತ್ತದೆ. ಹೀಗೆ ನೀರಿನಲ್ಲಿ ಕರಗುವುದರಿಂದ, ಇದು ಒಂದು ಕ್ಷಾರವಾಗಿದೆ. ಬಲಭಾಗದಲ್ಲಿ ತಾಮ್ರದ ಹೈಡ್ರಾಕ್ಸೈಡ್ (Cu(OH)₂) ಇದೆ. ಇದೂ ಕೂಡ ಒಂದು ಪ್ರತ್ಯಾಮ್ಲ. ಆದರೆ, ಇದು ನೀರಿನಲ್ಲಿ ಕರಗುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, ತಾಮ್ರದ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಒಂದು ಕ್ಷಾರವಲ್ಲದ ಪ್ರತ್ಯಾಮ್ಲ. ಈ ವ್ಯತ್ಯಾಸವು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಕ್ಷಾರ (Alkali): ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) ನೀರಿನಲ್ಲಿ ಕರಗುತ್ತದೆ.",
+    "ಕ್ಷಾರವಲ್ಲದ ಪ್ರತ್ಯಾಮ್ಲ (Non-alkali base): ತಾಮ್ರದ ಹೈಡ್ರಾಕ್ಸೈಡ್ (Cu(OH)₂) ನೀರಿನಲ್ಲಿ ಕರಗುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen visual. On the left, a beaker labeled 'NaOH (ಕ್ಷಾರ)' shows clear water, indicating NaOH has dissolved. On the right, a beaker labeled 'Cu(OH)₂ (ಪ್ರತ್ಯಾಮ್ಲ)' shows blue solid powder settled at the bottom of the water, indicating it is insoluble.",
+    "labels": "NaOH, Cu(OH)₂, ನೀರು, ಕರಗಿದೆ, ಕರಗಿಲ್ಲ",
+    "scientific_significance": "Visually contrasts a soluble base (alkali) with an insoluble base to reinforce the definition of alkali.",
+    "placeholder_note": "Two beakers: one with dissolved NaOH, one with undissolved Cu(OH)2."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_10_chapter_2_concept_5_chunk_005"
+}

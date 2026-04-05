@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಹೂಡಿಕೆ",
+  "script": "ಅಸಲು ಎಂಬುದು ಕೇವಲ ಸಾಲಕ್ಕೆ ಮಾತ್ರ ಸೀಮಿತವಾಗಿಲ್ಲ, ಇದು ಹೂಡಿಕೆಗಳಿಗೂ ಅನ್ವಯಿಸುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಸೀತಾ ಎಂಬುವವರು ತಮ್ಮ ಉಳಿತಾಯದ ಹಣದಲ್ಲಿ ಐದು ಸಾವಿರ ರೂಪಾಯಿಗಳನ್ನು ಅಂಚೆ ಕಚೇರಿಯ ಉಳಿತಾಯ ಯೋಜನೆಯಲ್ಲಿ ಹೂಡಿಕೆ ಮಾಡುತ್ತಾರೆ ಎಂದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ, ಸೀತಾ ಹೂಡಿಕೆ ಮಾಡಿದ ಆರಂಭಿಕ ಮೊತ್ತವಾದ ಐದು ಸಾವಿರ ರೂಪಾಯಿಗಳೇ 'ಅಸಲು' ಆಗುತ್ತದೆ. ಅಂದರೆ, ಅವಳ ಹೂಡಿಕೆಯ ಮೇಲೆ ಬಡ್ಡಿ ಅಥವಾ ಲಾಭವನ್ನು ಈ ಐದು ಸಾವಿರ ರೂಪಾಯಿಗಳ ಆಧಾರದ ಮೇಲೆ ಲೆಕ್ಕಹಾಕಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಈ ಸಂದರ್ಭದಲ್ಲಿ, ಪಿ ಈಕ್ವಲ್ಸ್ ಐದು ಸಾವಿರ ರೂಪಾಯಿಗಳು.",
+  "script_display": "ಅಸಲು ಎಂಬುದು ಕೇವಲ ಸಾಲಕ್ಕೆ ಮಾತ್ರ ಸೀಮಿತವಾಗಿಲ್ಲ, ಇದು ಹೂಡಿಕೆಗಳಿಗೂ ಅನ್ವಯಿಸುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಸೀತಾ ಎಂಬುವವರು ತಮ್ಮ ಉಳಿತಾಯದ ಹಣದಲ್ಲಿ ₹5,000 ಅನ್ನು ಅಂಚೆ ಕಚೇರಿಯ ಉಳಿತಾಯ ಯೋಜನೆಯಲ್ಲಿ ಹೂಡಿಕೆ ಮಾಡುತ್ತಾರೆ ಎಂದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ, ಸೀತಾ ಹೂಡಿಕೆ ಮಾಡಿದ ಆರಂಭಿಕ ಮೊತ್ತವಾದ ₹5,000 ಗಳೇ 'ಅಸಲು' ಆಗುತ್ತದೆ. ಅಂದರೆ, ಅವಳ ಹೂಡಿಕೆಯ ಮೇಲೆ ಬಡ್ಡಿ ಅಥವಾ ಲಾಭವನ್ನು ಈ ₹5,000 ಗಳ ಆಧಾರದ ಮೇಲೆ ಲೆಕ್ಕಹಾಕಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಈ ಸಂದರ್ಭದಲ್ಲಿ, P = ₹5,000.",
+  "display_bullets": [
+    "ಸೀತಾ ಅಂಚೆ ಕಚೇರಿಯ ಯೋಜನೆಯಲ್ಲಿ ₹5,000 ಹೂಡಿಕೆ ಮಾಡುತ್ತಾಳೆ.",
+    "ಇಲ್ಲಿ, ಸೀತಾ ಹೂಡಿಕೆ ಮಾಡಿದ ಆರಂಭಿಕ ಮೊತ್ತವೇ 'ಅಸಲು' (Principal).",
+    "ಇಲ್ಲಿ, ಅಸಲು (P) = ₹5,000."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of a person putting a bundle of cash into a piggy bank or a post office box icon. An arrow points from the person to the box, labeled '₹5,000 ಹೂಡಿಕೆ (Investment)'. The cash bundle is labeled 'ಅಸಲು (P)'.",
+    "labels": "Investment, Post Office, Person, Principal, ಅಸಲು",
+    "mathematical_significance": "Visually demonstrates that the invested amount in an investment scenario is the principal.",
+    "placeholder_note": "Image to be generated for 'Investment Example'."
+  },
+  "chunk_id": "RPP-COMP-1_concept_5_chunk_005"
+}

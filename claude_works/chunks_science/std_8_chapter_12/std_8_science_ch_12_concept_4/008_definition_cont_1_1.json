@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಭೂಫಲಕಗಳ ಕಲ್ಪನೆ",
+  "script": "ಭೂಫಲಕಗಳನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಭೂಮಿಯ ಮೇಲ್ಮೈಯನ್ನು ಒಂದು ದೊಡ್ಡ ಜಿಗ್ಸಾ ಪಜಲ್ ಎಂದು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಈ ಪಜಲ್‌ನ ಪ್ರತಿಯೊಂದು ತುಂಡು ಒಂದು ಭೂಫಲಕಕ್ಕೆ ಸಮಾನ. ಈ ತುಂಡುಗಳು ಒಂದಕ್ಕೊಂದು ಹೊಂದಿಕೊಂಡಿದ್ದರೂ, ಅವು ಸ್ಥಿರವಾಗಿಲ್ಲ. ಅವು ನಿಧಾನವಾಗಿ ಚಲಿಸುತ್ತಿರುತ್ತವೆ, ವರ್ಷಕ್ಕೆ ಕೆಲವೇ ಸೆಂಟಿಮೀಟರ್‌ಗಳಷ್ಟು. ಈ ಚಲನೆಯೇ ಭೂಮಿಯ ಮೇಲೆ ಅನೇಕ ಬದಲಾವಣೆಗಳಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+  "script_display": "ಭೂಫಲಕಗಳನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಭೂಮಿಯ ಮೇಲ್ಮೈಯನ್ನು ಒಂದು ದೊಡ್ಡ ಜಿಗ್ಸಾ ಪಜಲ್ (jigsaw puzzle) ಎಂದು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಈ ಪಜಲ್‌ನ ಪ್ರತಿಯೊಂದು ತುಂಡು ಒಂದು ಭೂಫಲಕಕ್ಕೆ ಸಮಾನ. ಈ ತುಂಡುಗಳು ಒಂದಕ್ಕೊಂದು ಹೊಂದಿಕೊಂಡಿದ್ದರೂ, ಅವು ಸ್ಥಿರವಾಗಿಲ್ಲ. ಅವು ನಿಧಾನವಾಗಿ ಚಲಿಸುತ್ತಿರುತ್ತವೆ, ವರ್ಷಕ್ಕೆ ಕೆಲವೇ ಸೆಂಟಿಮೀಟರ್‌ಗಳಷ್ಟು. ಈ ಚಲನೆಯೇ ಭೂಮಿಯ ಮೇಲೆ ಅನೇಕ ಬದಲಾವಣೆಗಳಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಭೂಮಿಯ ಮೇಲ್ಮೈ ಒಂದು ದೊಡ್ಡ ಜಿಗ್ಸಾ ಪಜಲ್‌ನಂತೆ ಇದೆ.",
+    "ಪ್ರತಿಯೊಂದು ಪಜಲ್ ತುಂಡು ಒಂದು ಭೂಫಲಕವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+    "ಈ ಫಲಕಗಳು ವರ್ಷಕ್ಕೆ ಕೆಲವು ಸೆಂಟಿಮೀಟರ್‌ಗಳಷ್ಟು ನಿಧಾನವಾಗಿ ಚಲಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simplified world map showing the outlines of the major tectonic plates, such as the Pacific Plate, North American Plate, Eurasian Plate, African Plate, and Indo-Australian Plate. Each plate is shown as a distinct, interlocking piece, resembling a jigsaw puzzle.",
+    "labels": "ಪೆಸಿಫಿಕ್ ಫಲಕ, ಉತ್ತರ ಅಮೇರಿಕನ್ ಫಲಕ, ಯುರೇಷಿಯನ್ ಫಲಕ, ಆಫ್ರಿಕನ್ ಫಲಕ",
+    "scientific_significance": "Helps visualize the Earth's crust not as a single shell, but as a mosaic of large, separate plates.",
+    "placeholder_note": "Image to be generated showing major tectonic plates on a world map."
+  },
+  "chunk_id": "std_8_science_ch_12_concept_4_chunk_008"
+}

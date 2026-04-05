@@ -1,0 +1,51 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: 1296 ರ ವರ್ಗಮೂಲ (ಹಂತ 5-6)",
+  "script": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ, 1296 ರ ವರ್ಗಮೂಲ. ಐದನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡುತ್ತೇವೆ. ಬಿಡಿ ಸ್ಥಾನದಿಂದ, 96 ಒಂದು ಜೋಡಿ ಮತ್ತು 12 ಇನ್ನೊಂದು ಜೋಡಿ. ಆರನೇ ಹಂತದಲ್ಲಿ, ಮೊದಲ ಜೋಡಿ 12 ಅನ್ನು ಭಾಗಿಸೋಣ. 12 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ 9, ಅದು 3 ರ ವರ್ಗ. ಆದ್ದರಿಂದ, ಭಾಜಕ ಮತ್ತು ಭಾಗಲಬ್ಧ ಎರಡೂ 3 ಆಗುತ್ತದೆ. 12 ರಿಂದ 9 ಕಳೆದರೆ, ಶೇಷ 3 ಉಳಿಯುತ್ತದೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ, 1296 ರ ವರ್ಗಮೂಲ. ಐದನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡುತ್ತೇವೆ. ಬಿಡಿ ಸ್ಥಾನದಿಂದ, $\\overline{96}$ ಒಂದು ಜೋಡಿ ಮತ್ತು $\\overline{12}$ ಇನ್ನೊಂದು ಜೋಡಿ. ಆರನೇ ಹಂತದಲ್ಲಿ, ಮೊದಲ ಜೋಡಿ 12 ಅನ್ನು ಭಾಗಿಸೋಣ. 12 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ 9, ಅದು $3^2$. ಆದ್ದರಿಂದ, ಭಾಜಕ ಮತ್ತು ಭಾಗಲಬ್ಧ ಎರಡೂ 3 ಆಗುತ್ತದೆ. $12 - 9$ ಕಳೆದರೆ, ಶೇಷ 3 ಉಳಿಯುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_full",
+    "template": "visual_full_kannada",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "1296 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುವ ದೀರ್ಘ ಭಾಗಾಕಾರದ ಮೊದಲ ಹಂತಗಳು. ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡಲಾಗಿದೆ (12 ಮತ್ತು 96). 12 ನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿ, ಭಾಗಲಬ್ಧ 3 ಮತ್ತು ಶೇಷ 3 ಎಂದು ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "ಭಾಜಕ, ಭಾಜ್ಯ, ಭಾಗಲಬ್ಧ, ಶೇಷ",
+    "mathematical_significance": "ನಾಲ್ಕು-ಅಂಕಿಯ ಸಂಖ್ಯೆಗೆ ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನವನ್ನು ಅನ್ವಯಿಸುವ ಆರಂಭಿಕ ಹಂತಗಳನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing the first steps of long division for sqrt(1296)."
+  },
+  "steps": [
+    {
+      "step": 5,
+      "action_display": "ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡುವುದು: $\\overline{12} \\ \\overline{96}$",
+      "justification": "ಬಿಡಿ ಸ್ಥಾನದಿಂದ ಎಡಕ್ಕೆ ಜೋಡಿಗಳನ್ನು ಮಾಡಬೇಕು."
+    },
+    {
+      "step": 6,
+      "action_display": "ಮೊದಲ ಜೋಡಿಯನ್ನು (12) ಭಾಗಿಸುವುದು. ಭಾಜಕ = 3, ಭಾಗಲಬ್ಧ = 3. ಶೇಷ: $12 - 9 = 3$.",
+      "justification": "$3^2 = 9$, ಇದು 12 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-SQR-2_concept_7_chunk_038",
+  "source_example_id": "NS-SQR-2_example_14"
+}

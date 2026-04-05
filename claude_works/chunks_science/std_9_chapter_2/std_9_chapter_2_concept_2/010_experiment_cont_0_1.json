@@ -1,0 +1,39 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಅಗತ್ಯವಿರುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಮೂಲಭೂತ ಪ್ರಯೋಗಾಲಯದ ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ನಮಗೆ ನಾಲ್ಕು ಗಾಜಿನ ಬೀಕರ್‌ಗಳು ಬೇಕು, ಪ್ರತಿಯೊಂದು ಗುಂಪಿಗೂ ಒಂದರಂತೆ. ನಂತರ, ದ್ರಾವಕವಾಗಿ ಬಳಸಲು ನಮಗೆ ನೀರು ಬೇಕು. ಮಿಶ್ರಣಗಳನ್ನು ತಯಾರಿಸಲು, ನಾವು ಕೆಲವು ರಾಸಾಯನಿಕಗಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಅವುಗಳೆಂದರೆ, ನೀಲಿ ಬಣ್ಣದ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಪುಡಿ, ನೇರಳೆ ಬಣ್ಣದ ಪೊಟ್ಯಾಸಿಯಂ ಪರ್ಮಾಂಗನೇಟ್, ನಾವು ಅಡುಗೆಗೆ ಬಳಸುವ ಸಾಮಾನ್ಯ ಉಪ್ಪು, ಮತ್ತು ಅಂತಿಮವಾಗಿ ಸ್ವಲ್ಪ ಮರಳು. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನಾವು ನಮ್ಮ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "script_display": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಮೂಲಭೂತ ಪ್ರಯೋಗಾಲಯದ ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ನಮಗೆ ನಾಲ್ಕು ಗಾಜಿನ ಬೀಕರ್‌ಗಳು ಬೇಕು. ನಂತರ, ದ್ರಾವಕವಾಗಿ ಬಳಸಲು ನಮಗೆ ನೀರು ಬೇಕು. ಮಿಶ್ರಣಗಳನ್ನು ತಯಾರಿಸಲು, ನಾವು ತಾಮ್ರದ ಸಲ್ಫೇಟ್ (CuSO₄) ಪುಡಿ, ಪೊಟ್ಯಾಸಿಯಂ ಪರ್ಮಾಂಗನೇಟ್ (KMnO₄), ಸಾಮಾನ್ಯ ಉಪ್ಪು (NaCl), ಮತ್ತು ಅಂತಿಮವಾಗಿ ಸ್ವಲ್ಪ ಮರಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನಾವು ನಮ್ಮ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "display_bullets": [
+    "ನಾಲ್ಕು ಬೀಕರ್‌ಗಳು",
+    "ನೀರು",
+    "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ (CuSO₄)",
+    "ಪೊಟ್ಯಾಸಿಯಂ ಪರ್ಮಾಂಗನೇಟ್ (KMnO₄)",
+    "ಉಪ್ಪು (NaCl) ಮತ್ತು ಮರಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A laboratory setup showing four empty beakers, a larger beaker of water, and small labeled containers for copper sulphate (blue crystals), potassium permanganate (purple crystals), salt (white crystals), and sand.",
+    "labels": "ಬೀಕರ್‌ಗಳು, ನೀರು, ತಾಮ್ರದ ಸಲ್ಫೇಟ್, ಪೊಟ್ಯಾಸಿಯಂ ಪರ್ಮಾಂಗನೇಟ್, ಉಪ್ಪು, ಮರಳು",
+    "scientific_significance": "Illustrates the materials required for preparing different types of mixtures.",
+    "placeholder_note": "Image to be generated showing the listed materials."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_2_concept_2_chunk_010"
+}

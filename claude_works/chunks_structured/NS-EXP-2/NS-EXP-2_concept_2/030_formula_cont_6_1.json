@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಋಣ ಘಾತಸೂಚಿಯ ನಿಯಮ",
+  "script": "ಇಲ್ಲಿದೆ ಋಣ ಘಾತಸೂಚಿಯ ನಿಯಮ. a ಯ ಘಾತ ಮೈನಸ್ m ಸಮ ಒಂದು ಭಾಗಿಸು a ಯ ಘಾತ m. ಇಲ್ಲಿ, a ಎಂಬುದು ಆಧಾರ, ಮತ್ತು ಅದು ಸೊನ್ನೆಯಾಗಿರಬಾರದು. m ಎಂಬುದು ಧನ ಪೂರ್ಣಾಂಕ. ಈ ನಿಯಮವು ಮೂಲಭೂತವಾಗಿ ಏನು ಹೇಳುತ್ತದೆ ಎಂದರೆ, ನೀವು ಋಣ ಘಾತಸೂಚಿಯನ್ನು ಹೊಂದಿರುವ ಪದವನ್ನು ಧನ ಘಾತಸೂಚಿಯಾಗಿ ಪರಿವರ್ತಿಸಲು, ಅದನ್ನು ಅಂಶದಿಂದ ಛೇದಕ್ಕೆ ಸರಿಸಬೇಕು. ಅಂದರೆ, a ಯ ಘಾತ ಮೈನಸ್ m ಎಂಬುದು a ಯ ಘಾತ m ನ ಗುಣಾಕಾರದ ವಿಲೋಮವಾಗಿದೆ.",
+  "script_display": "ಇಲ್ಲಿದೆ ಋಣ ಘಾತಸೂಚಿಯ ನಿಯಮ. ಇಲ್ಲಿ, 'a' ಎಂಬುದು ಆಧಾರ (base), ಮತ್ತು ಅದು ಸೊನ್ನೆಯಾಗಿರಬಾರದು ($a \\neq 0$). 'm' ಎಂಬುದು ಧನ ಪೂರ್ಣಾಂಕ. ಈ ನಿಯಮವು ಮೂಲಭೂತವಾಗಿ ಏನು ಹೇಳುತ್ತದೆ ಎಂದರೆ, ನೀವು ಋಣ ಘಾತಸೂಚಿಯನ್ನು ಹೊಂದಿರುವ ಪದವನ್ನು ಧನ ಘಾತಸೂಚಿಯಾಗಿ ಪರಿವರ್ತಿಸಲು, ಅದನ್ನು ಅಂಶದಿಂದ ಛೇದಕ್ಕೆ (numerator to denominator) ಸರಿಸಬೇಕು. ಅಂದರೆ, $a^{-m}$ ಎಂಬುದು $a^m$ ನ ಗುಣಾಕಾರದ ವಿಲೋಮ (multiplicative inverse) ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಸೂತ್ರ: $a^{-m} = \\frac{1}{a^m}$",
+    "a ಎಂಬುದು ಸೊನ್ನೆಯಲ್ಲದ ಆಧಾರ ($a \\neq 0$)",
+    "m ಎಂಬುದು ಧನ ಪೂರ್ಣಾಂಕ",
+    "$a^{-m}$ ಎಂಬುದು $a^m$ ನ ಗುಣಾಕಾರದ ವಿಲೋಮವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_A",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "a^{-m} = \\frac{1}{a^m}",
+    "placeholder_note": "Formula for negative exponent"
+  },
+  "chunk_id": "NS-EXP-2_concept_2_chunk_030"
+}

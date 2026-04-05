@@ -1,0 +1,180 @@
+{
+  "module_id": "GEO-EUC-2_concept_3",
+  "merge_code": "GEO-EUC-2",
+  "voice": "Iapetus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 15,
+  "ok_count": 15,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:38:25",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "39e74f375ea3abe7eea6996bd6afd298",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 22.531,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 35,
+      "generated_at": "2026-03-30 15:35:45"
+    },
+    "004_theorem_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "bb53ecdfcc8692c7ba98dcd22ed4b301",
+      "wav_file": "004_theorem_cont_0_1.wav",
+      "duration": 46.531,
+      "slide_title": "ಪ್ರಮೇಯ 5.1: ಸಾಧನೆ - ಹಂತ 1",
+      "type": "step_walkthrough",
+      "script_words": 64,
+      "generated_at": "2026-03-30 15:36:02"
+    },
+    "003_theorem_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "d35e1bfa6f94cd274ec3ae78f4e9020d",
+      "wav_file": "003_theorem_0.wav",
+      "duration": 54.611,
+      "slide_title": "ಪ್ರಮೇಯ 5.1: ಪರಿಚಯ",
+      "type": "definition_spotlight",
+      "script_words": 73,
+      "generated_at": "2026-03-30 15:36:17"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "125be1c0f297a8272488df59686fb9a1",
+      "wav_file": "001_intro_0.wav",
+      "duration": 51.531,
+      "slide_title": "ಪ್ರಮೇಯಗಳು ಮತ್ತು ಸಾಧನೆಗಳು",
+      "type": "intro",
+      "script_words": 64,
+      "generated_at": "2026-03-30 15:36:23"
+    },
+    "005_theorem_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "51192b1c793411d4ef2cb90934f1b880",
+      "wav_file": "005_theorem_cont_0_2.wav",
+      "duration": 50.091,
+      "slide_title": "ಪ್ರಮೇಯ 5.1: ಸಾಧನೆ - ಹಂತ 2",
+      "type": "step_walkthrough",
+      "script_words": 71,
+      "generated_at": "2026-03-30 15:36:36"
+    },
+    "009_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "d162bc72d93ed689333aaafcb9545ced",
+      "wav_file": "009_example_cont_0_1.wav",
+      "duration": 43.811,
+      "slide_title": "ಸಾಧನೆಯ ಹಂತಗಳು",
+      "type": "worked_example",
+      "script_words": 59,
+      "generated_at": "2026-03-30 15:37:00"
+    },
+    "008_example_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "aeba5bbe0b01f00b8c5237ce4970b5b6",
+      "wav_file": "008_example_0.wav",
+      "duration": 44.531,
+      "slide_title": "ಉದಾಹರಣೆ 1: ರೇಖಾಖಂಡದ ಸಂಕಲನ",
+      "type": "worked_example",
+      "script_words": 69,
+      "generated_at": "2026-03-30 15:37:01"
+    },
+    "006_theorem_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "b114272e4cb08519fa14818528d10059",
+      "wav_file": "006_theorem_cont_0_3.wav",
+      "duration": 45.131,
+      "slide_title": "ಪ್ರಮೇಯ 5.1: ತೀರ್ಮಾನ",
+      "type": "key_takeaway",
+      "script_words": 67,
+      "generated_at": "2026-03-30 15:37:02"
+    },
+    "007_theorem_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "80f122e5d8e7f653bd81e396b17839f9",
+      "wav_file": "007_theorem_cont_0_4.wav",
+      "duration": 45.171,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಪ್ರಮೇಯ 5.1",
+      "type": "key_takeaway",
+      "script_words": 62,
+      "generated_at": "2026-03-30 15:37:02"
+    },
+    "010_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "d4280e4cb6d5f5d903f1f19e5a21b469",
+      "wav_file": "010_example_cont_0_2.wav",
+      "duration": 24.651,
+      "slide_title": "ತೀರ್ಮಾನ",
+      "type": "worked_example",
+      "script_words": 37,
+      "generated_at": "2026-03-30 15:37:18"
+    },
+    "012_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "766ca07038da760fd517c6a377a9e9c4",
+      "wav_file": "012_example_cont_1_1.wav",
+      "duration": 46.851,
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು",
+      "type": "worked_example",
+      "script_words": 75,
+      "generated_at": "2026-03-30 15:38:04"
+    },
+    "011_example_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "e55d725d6dbb73ba098f6237a83321ed",
+      "wav_file": "011_example_1.wav",
+      "duration": 30.051,
+      "slide_title": "ಉದಾಹರಣೆ: ಸಮಬಾಹು ತ್ರಿಭುಜದ ರಚನೆ",
+      "type": "worked_example",
+      "script_words": 48,
+      "generated_at": "2026-03-30 15:38:05"
+    },
+    "015_recap_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "798656be16ecbc547ae63e6714e3166e",
+      "wav_file": "015_recap_0.wav",
+      "duration": 40.491,
+      "slide_title": "ಸಾರಾಂಶ: ಪ್ರಮೇಯಗಳು ಮತ್ತು ಸಾಧನೆಗಳು",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-03-30 15:38:12"
+    },
+    "013_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "6a68bd37c413e6f6ab5eea2bb5f4f6ff",
+      "wav_file": "013_example_cont_1_2.wav",
+      "duration": 75.131,
+      "slide_title": "ಸಾಧನೆಯ ಹಂತಗಳು",
+      "type": "worked_example",
+      "script_words": 105,
+      "generated_at": "2026-03-30 15:38:23"
+    },
+    "014_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "de55a084dc320c5d287b5f938e606a45",
+      "wav_file": "014_example_cont_1_3.wav",
+      "duration": 36.451,
+      "slide_title": "ತೀರ್ಮಾನ",
+      "type": "worked_example",
+      "script_words": 50,
+      "generated_at": "2026-03-30 15:38:25"
+    }
+  }
+}

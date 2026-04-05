@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ಉತ್ಪತನ vs ನಿಕ್ಷೇಪನ",
+  "script": "ಈಗ ಉತ್ಪತನ ಮತ್ತು ನಿಕ್ಷೇಪನಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಇವೆರಡೂ ಪರಸ್ಪರ ವಿರುದ್ಧ ಪ್ರಕ್ರಿಯೆಗಳು. ಮೊದಲನೆಯದಾಗಿ, ಉತ್ಪತನ ಎಂದರೆ ಘನದಿಂದ ನೇರವಾಗಿ ಅನಿಲಕ್ಕೆ ಪರಿವರ್ತನೆ. ಇದಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆ ಎಂದರೆ ಕರ್ಪೂರವು ಗಾಳಿಯಲ್ಲಿ ಕರಗುವುದು. ಈಗ ನಿಕ್ಷೇಪನವನ್ನು ನೋಡೋಣ. ಇದು ಅನಿಲದಿಂದ ನೇರವಾಗಿ ಘನಕ್ಕೆ ಪರಿವರ್ತನೆ. ಇದಕ್ಕೆ ಉದಾಹರಣೆ, ನಾವು ಈಗ ಚರ್ಚಿಸಿದಂತೆ, ನೀರಿನ ಆವಿಯಿಂದ ಹಿಮ ಉಂಟಾಗುವುದು. ಒಂದು ಪ್ರಕ್ರಿಯೆಯು ಘನದಿಂದ ಅನಿಲಕ್ಕೆ ಹೋದರೆ, ಇನ್ನೊಂದು ಅನಿಲದಿಂದ ಘನಕ್ಕೆ ಬರುತ್ತದೆ. ಇವೆರಡೂ ದ್ರವ್ಯದ ಸ್ಥಿತಿ ಬದಲಾವಣೆಯ ವಿಶೇಷ ಸಂದರ್ಭಗಳು.",
+  "script_display": "ಈಗ ಉತ್ಪತನ ಮತ್ತು ನಿಕ್ಷೇಪನಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಇವೆರಡೂ ಪರಸ್ಪರ ವಿರುದ್ಧ ಪ್ರಕ್ರಿಯೆಗಳು.",
+  "display_bullets": [
+    "**ಉತ್ಪತನ (Sublimation)**",
+    "ಘನ → ಅನಿಲ (Solid → Gas)",
+    "ಉದಾಹರಣೆ: ಕರ್ಪೂರವು ಆವಿಯಾಗುವುದು.",
+    "**ನಿಕ್ಷೇಪನ (Deposition)**",
+    "ಅನಿಲ → ಘನ (Gas → Solid)",
+    "ಉದಾಹರಣೆ: ನೀರಿನ ಆವಿಯಿಂದ ಹಿಮ ಉಂಟಾಗುವುದು."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen visual. Left side titled 'ಉತ್ಪತನ (Sublimation)' shows a solid block (like camphor) with wavy lines rising from it, and an arrow pointing from Solid to Gas. Right side titled 'ನಿಕ್ಷೇಪನ (Deposition)' shows gas molecules condensing directly into a solid crystalline structure on a surface, with an arrow pointing from Gas to Solid.",
+    "labels": "ಘನ, ಅನಿಲ, ಕರ್ಪೂರ, ನೀರಿನ ಆವಿ, ಹಿಮ",
+    "scientific_significance": "Directly contrasts the two opposing phase transitions, Sublimation (Solid to Gas) and Deposition (Gas to Solid), clarifying their relationship.",
+    "placeholder_note": "Image to be generated showing a side-by-side comparison of sublimation and deposition."
+  },
+  "chunk_id": "std_9_chapter_1_concept_5_chunk_008"
+}

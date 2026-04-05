@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆಗಳು",
+  "script": "ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, 5 ಬೈ 8 ರ ಗುಣಾಕಾರದ ವಿಲೋಮ ಯಾವುದು? ನಿಯಮದ ಪ್ರಕಾರ, ನಾವು ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಬದಲಾಯಿಸಬೇಕು. ಹಾಗಾಗಿ, ಉತ್ತರ 8 ಬೈ 5. ಇದನ್ನು ಪರೀಕ್ಷಿಸಲು, 5 ಬೈ 8 ಗುಣಿಸು 8 ಬೈ 5 ಮಾಡಿದರೆ, ನಮಗೆ 40 ಬೈ 40 ಸಿಗುತ್ತದೆ, ಅಂದರೆ 1. ಇನ್ನೊಂದು ಉದಾಹರಣೆ, ಮೈನಸ್ 3 ಬೈ 7 ರ ವ್ಯುತ್ಮಮ. ಇಲ್ಲಿ ಚಿಹ್ನೆ ಬದಲಾಗುವುದಿಲ್ಲ. ಇದರ ವ್ಯುತ್ಮಮ ಮೈನಸ್ 7 ಬೈ 3 ಆಗುತ್ತದೆ. ಏಕೆಂದರೆ ಮೈನಸ್ 3 ಬೈ 7 ಗುಣಿಸು ಮೈನಸ್ 7 ಬೈ 3 ಸಮ 21 ಬೈ 21, ಅಂದರೆ 1.",
+  "script_display": "ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, $\\frac{5}{8}$ ರ ಗುಣಾಕಾರದ ವಿಲೋಮ ಯಾವುದು? ನಿಯಮದ ಪ್ರಕಾರ, ನಾವು ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಬದಲಾಯಿಸಬೇಕು. ಹಾಗಾಗಿ, ಉತ್ತರ $\\frac{8}{5}$. ಇದನ್ನು ಪರೀಕ್ಷಿಸಲು, $\\frac{5}{8} \\times \\frac{8}{5} = \\frac{40}{40} = 1$. ಇನ್ನೊಂದು ಉದಾಹರಣೆ, $\\frac{-3}{7}$ ರ ವ್ಯುತ್ಮಮ. ಇಲ್ಲಿ ಚಿಹ್ನೆ ಬದಲಾಗುವುದಿಲ್ಲ. ಇದರ ವ್ಯುತ್ಮಮ $\\frac{-7}{3}$ ಆಗುತ್ತದೆ. ಏಕೆಂದರೆ $\\frac{-3}{7} \\times \\frac{-7}{3} = \\frac{21}{21} = 1$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A table showing numbers and their multiplicative inverses. First column header: ಸಂಖ್ಯೆ (Number). Second column header: ಗುಣಾಕಾರದ ವಿಲೋಮ (Multiplicative Inverse). Row 1: 5/8 and 8/5. Row 2: -3/7 and -7/3. Row 3: 13 and 1/13."
+  },
+  "chunk_id": "NS-RAT-2_concept_4_chunk_019"
+}

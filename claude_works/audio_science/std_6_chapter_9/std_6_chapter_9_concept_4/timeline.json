@@ -1,0 +1,90 @@
+{
+  "module_id": "std_6_chapter_9_concept_4",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 326.117,
+  "total_duration_formatted": "5:26",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_9_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ತೂರುವಿಕೆ (Winnowing)",
+      "type": "slide",
+      "start": 0.0,
+      "end": 45.331,
+      "duration": 45.331,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "slide",
+      "start": 45.931,
+      "end": 69.182,
+      "duration": 23.251,
+      "script_words": 33
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_4_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ತೂರುವಿಕೆ (Winnowing)",
+      "type": "definition",
+      "start": 69.782,
+      "end": 117.993,
+      "duration": 48.211,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_4_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ತೂರುವಿಕೆ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "definition",
+      "start": 118.593,
+      "end": 172.004,
+      "duration": 53.411,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_4_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ತೂರುವಿಕೆಯ ಹಿಂದಿನ ತತ್ವ",
+      "type": "definition",
+      "start": 172.604,
+      "end": 230.015,
+      "duration": 57.411,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_4_chunk_006",
+      "chunk_file": "006_property_0.json",
+      "wav_file": "006_property_0.wav",
+      "slide_title": "ತೂರುವಿಕೆ: ತತ್ವ",
+      "type": "concept_explanation",
+      "start": 230.615,
+      "end": 281.266,
+      "duration": 50.651,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_4_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ತೂರುವಿಕೆ",
+      "type": "recap",
+      "start": 281.866,
+      "end": 325.517,
+      "duration": 43.651,
+      "script_words": 56
+    }
+  ]
+}

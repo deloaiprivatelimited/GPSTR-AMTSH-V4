@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಇಲ್ಲಿ ಏನಾಗುತ್ತದೆ ಎಂದರೆ, ಋಣಾತ್ಮಕ ಆವೇಶವಿರುವ ಕ್ಲೋರೈಡ್ ಅಯಾನುಗಳು ಧನಾತ್ಮಕ ಧನಾಗ್ರದ ಕಡೆಗೆ ಚಲಿಸುತ್ತವೆ. ಧನಾಗ್ರವನ್ನು ತಲುಪಿದಾಗ, ಅವು ತಮ್ಮ ಹೆಚ್ಚುವರಿ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತವೆ. ಈ ರೀತಿ ಎರಡು ಕ್ಲೋರಿನ್ ಪರಮಾಣುಗಳು ಸೇರಿ, ಕ್ಲೋರಿನ್ ಅನಿಲದ ಒಂದು ಅಣು ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಇಲ್ಲಿ ಏನಾಗುತ್ತದೆ ಎಂದರೆ, ಋಣಾತ್ಮಕ ಆವೇಶವಿರುವ ಕ್ಲೋರೈಡ್ ಅಯಾನುಗಳು (Cl⁻) ಧನಾತ್ಮಕ ಧನಾಗ್ರದ (Anode) ಕಡೆಗೆ ಚಲಿಸುತ್ತವೆ. ಧನಾಗ್ರವನ್ನು ತಲುಪಿದಾಗ, ಅವು ತಮ್ಮ ಹೆಚ್ಚುವರಿ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತವೆ. ಈ ರೀತಿ ಎರಡು ಕ್ಲೋರಿನ್ ಪರಮಾಣುಗಳು ಸೇರಿ, ಕ್ಲೋರಿನ್ ಅನಿಲದ (Cl₂) ಒಂದು ಅಣು ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಧನಾಗ್ರದಲ್ಲಿ (Anode) ನಡೆಯುವ ಉತ್ಕರ್ಷಣ ಕ್ರಿಯೆಯ ಚಿತ್ರ. ಎರಡು ಕ್ಲೋರೈಡ್ ಅಯಾನುಗಳು (Cl⁻) ಧನಾಗ್ರದ ಬಳಿ ಬಂದು, ಎರಡು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು (2e⁻) ಬಿಟ್ಟುಕೊಟ್ಟು, ಒಂದು ಕ್ಲೋರಿನ್ ಅನಿಲದ ಅಣುವಾಗಿ (Cl₂) ಪರಿವರ್ತನೆಗೊಳ್ಳುವುದನ್ನು ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "ಧನಾಗ್ರ (Anode), ಕ್ಲೋರೈಡ್ ಅಯಾನು (Cl⁻), ಎಲೆಕ್ಟ್ರಾನ್ (e⁻), ಕ್ಲೋರಿನ್ ಅನಿಲ (Cl₂)",
+    "scientific_significance": "ವಿದ್ಯುದ್ವಿಭಜನೆಯಲ್ಲಿ ಉತ್ಕರ್ಷಣವು ಧನಾಗ್ರದಲ್ಲಿ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂಬುದನ್ನು ಇದು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ, ಅಯಾನುಗಳು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಂಡು ತಟಸ್ಥ ಅಣುಗಳಾಗುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated: An anode (positive electrode) is shown. Two chloride ions (spheres labeled Cl⁻) are near it. Arrows show two electrons (e⁻) moving from the ions to the anode. The two ions are shown combining to form a diatomic chlorine molecule (Cl₂), which is shown as a bubble moving away."
+  },
+  "chunk_id": "std_10_chapter_3_concept_10_chunk_025"
+}

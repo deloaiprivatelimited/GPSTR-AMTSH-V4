@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+  "script": "ಈ ಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಥನಾಲ್ ಅಣುವಿನಿಂದ ಒಂದು ನೀರಿನ ಅಣು ತೆಗೆದುಹಾಕಲ್ಪಡುತ್ತದೆ. ಒಂದು ಕಾರ್ಬನ್ ಪರಮಾಣುವಿಗೆ ಸೇರಿದ ಹೈಡ್ರಾಕ್ಸಿಲ್ ಗುಂಪು, ಅಂದರೆ O H, ಮತ್ತು ಅದರ ಪಕ್ಕದ ಕಾರ್ಬನ್ ಪರಮಾಣುವಿಗೆ ಸೇರಿದ ಒಂದು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣು, ಅಂದರೆ H, ಇವೆರಡೂ ಸೇರಿ ಒಂದು ನೀರಿನ ಅಣುವಾಗಿ ಹೊರಹೋಗುತ್ತವೆ. ಹೀಗೆ ಎರಡು ಪರಮಾಣುಗಳು ಹೋದಾಗ, ಆ ಎರಡು ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳ ನಡುವೆ ಒಂದು ದ್ವಿಬಂಧ ಉಂಟಾಗಿ ಈಥೀನ್ ಅಣು ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಥನಾಲ್ ಅಣುವಿನಿಂದ ಒಂದು ನೀರಿನ ಅಣು ($H_2O$) ತೆಗೆದುಹಾಕಲ್ಪಡುತ್ತದೆ. ಒಂದು ಕಾರ್ಬನ್ ಪರಮಾಣುವಿಗೆ ಸೇರಿದ ಹೈಡ್ರಾಕ್ಸಿಲ್ ಗುಂಪು (-OH) ಮತ್ತು ಅದರ ಪಕ್ಕದ ಕಾರ್ಬನ್ ಪರಮಾಣುವಿಗೆ ಸೇರಿದ ಒಂದು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣು (-H) ಇವೆರಡೂ ಸೇರಿ ಒಂದು ನೀರಿನ ಅಣುವಾಗಿ ಹೊರಹೋಗುತ್ತವೆ. ಹೀಗೆ ಎರಡು ಪರಮಾಣುಗಳು ಹೋದಾಗ, ಆ ಎರಡು ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳ ನಡುವೆ ಒಂದು ದ್ವಿಬಂಧ (double bond) ಉಂಟಾಗಿ ಈಥೀನ್ ($CH_2=CH_2$) ಅಣು ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the ethanol molecule (CH3-CH2OH). An arrow points from the -OH group on one carbon and an -H from the adjacent carbon, indicating they are removed. Another arrow shows them combining to form a water molecule (H2O). The final structure shown is ethene (CH2=CH2) with a double bond between the carbons.",
+    "labels": "Ethanol, Hydroxyl group (-OH), Hydrogen atom (-H), Water molecule (H2O), Ethene, Double bond",
+    "scientific_significance": "Illustrates the intramolecular removal of a water molecule during the dehydration of an alcohol to form an alkene.",
+    "placeholder_note": "Image to be generated to show the mechanism of dehydration."
+  },
+  "chunk_id": "std_10_chapter_4_concept_9_chunk_014"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ಎರಡೂ ವಿಧಾನಗಳಿಂದ ನಮಗೆ ಒಂದೇ ಉತ್ತರ ಸಿಕ್ಕಿದೆ: ದಶಮಾಂಶ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಏಳು ಐದು ಎಂಬುದು ಎಪ್ಪತ್ತೈದು ಪರ್ಸೆಂಟ್ ಗೆ ಸಮ. ಇದೊಂದು ಪ್ರಮುಖ ಪರಿವರ್ತನೆ. ನೆನಪಿಡಿ, ದಶಮಾಂಶವನ್ನು ಶೇಕಡಾವಾರಿಗೆ ಪರಿವರ್ತಿಸಲು, ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಎರಡು ಸ್ಥಾನ ಬಲಕ್ಕೆ ಸರಿಸಿ ಮತ್ತು ಪರ್ಸೆಂಟ್ ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಿ. ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ವೇಗಗೊಳಿಸುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ಎರಡೂ ವಿಧಾನಗಳಿಂದ ನಮಗೆ ಒಂದೇ ಉತ್ತರ ಸಿಕ್ಕಿದೆ: ದಶಮಾಂಶ $0.75$ ಎಂಬುದು $75\\%$ ಗೆ ಸಮ. ಇದೊಂದು ಪ್ರಮುಖ ಪರಿವರ್ತನೆ. ನೆನಪಿಡಿ, ದಶಮಾಂಶವನ್ನು ಶೇಕಡಾವಾರಿಗೆ ಪರಿವರ್ತಿಸಲು, ದಶಮಾಂಶ ಬಿಂದುವನ್ನು 2 ಸ್ಥಾನ ಬಲಕ್ಕೆ ಸರಿಸಿ ಮತ್ತು \\% ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಿ. ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ವೇಗಗೊಳಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "**ನೆನಪಿನ ತಂತ್ರ:** ದಶಮಾಂಶ ಬಿಂದುವನ್ನು 2 ಸ್ಥಾನ ಬಲಕ್ಕೆ ಸರಿಸಿ ಮತ್ತು \\% ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಿ. (ಉದಾ: $0.75 \\rightarrow 75.0 \\rightarrow 75\\%$)"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "RPP-COMP-1_example_2",
+  "steps": [],
+  "final_answer": "0.75 = 75%",
+  "final_answer_display": "$0.75 = 75\\%$",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "RPP-COMP-1_concept_1_chunk_037"
+}

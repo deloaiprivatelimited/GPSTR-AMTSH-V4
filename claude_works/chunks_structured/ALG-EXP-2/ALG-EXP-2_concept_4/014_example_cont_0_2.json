@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಭಾಗ (ii): ಬೀಜೋಕ್ತಿಯ ಸಂಕ್ಷೇಪಣೆ",
+  "script": "ಈಗ ಎರಡನೇ ಭಾಗಕ್ಕೆ ಬರೋಣ. ಇಲ್ಲಿ ಬೀಜೋಕ್ತಿ 3y ಇಂಟು 2y ಮೈನಸ್ 7, ಮೈನಸ್ 3 ಇಂಟು y ಮೈನಸ್ 4, ಮೈನಸ್ 63 ಆಗಿದೆ. ಇಲ್ಲಿ ನಾವು ಎರಡು ಬಾರಿ ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಬೇಕು. ಮೊದಲು, 3y ನಿಂದ 2y ಮೈನಸ್ 7 ನ್ನು ಗುಣಿಸೋಣ. ಇದು ನಮಗೆ 6y ಸ್ಕ್ವೇರ್ ಮೈನಸ್ 21y ಕೊಡುತ್ತದೆ. ನಂತರ, ಮೈನಸ್ 3 ರಿಂದ y ಮೈನಸ್ 4 ನ್ನು ಗುಣಿಸಬೇಕು. ಮೈನಸ್ 3 ಗುಣಿಸು y ಅಂದರೆ ಮೈನಸ್ 3y, ಮತ್ತು ಮೈನಸ್ 3 ಗುಣಿಸು ಮೈನಸ್ 4 ಅಂದರೆ ಪ್ಲಸ್ 12. ಕೊನೆಯಲ್ಲಿ ಮೈನಸ್ 63 ಇದೆ. ಈಗ ಸಜಾತಿ ಪದಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸೋಣ. 6y ಸ್ಕ್ವೇರ್ ಹಾಗೆಯೇ ಇರುತ್ತದೆ. ಮೈನಸ್ 21y ಮತ್ತು ಮೈನಸ್ 3y ಸೇರಿ ಮೈನಸ್ 24y ಆಗುತ್ತದೆ. ಪ್ಲಸ್ 12 ಮತ್ತು ಮೈನಸ್ 63 ಸೇರಿ ಮೈನಸ್ 51 ಆಗುತ್ತದೆ. ಹಾಗಾಗಿ, ಸಂಕ್ಷೇಪಿಸಿದ ರೂಪ 6y ಸ್ಕ್ವೇರ್ ಮೈನಸ್ 24y ಮೈನಸ್ 51.",
+  "script_display": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ಸಂಕ್ಷೇಪಿಸೋಣ: $3y(2y-7) - 3(y-4) - 63$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_3",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EXP-2_example_5",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$3y(2y-7) - 3(y-4) - 63 = (6y^2 - 21y) - (3y - 12) - 63$",
+      "justification": "ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$= 6y^2 - 21y - 3y + 12 - 63$",
+      "justification": "ಆವರಣಗಳನ್ನು ತೆಗೆದುಹಾಕಿದೆ (ಚಿಹ್ನೆಗಳಿಗೆ ಗಮನ ಕೊಡಿ)."
+    },
+    {
+      "step": 3,
+      "action_display": "$= 6y^2 - 24y - 51$",
+      "justification": "ಸಜಾತಿ ಪದಗಳನ್ನು ಕೂಡಿಸಿದೆ."
+    }
+  ],
+  "chunk_id": "ALG-EXP-2_concept_4_chunk_014"
+}

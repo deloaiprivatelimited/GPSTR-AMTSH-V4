@@ -1,0 +1,35 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಕೋನಗಳ ಅಳತೆ",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಪತನ ಕಿರಣವು ದರ್ಪಣವನ್ನು ಸಂಧಿಸುವ ಬಿಂದುವಿನಲ್ಲಿ, ದರ್ಪಣಕ್ಕೆ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಕೋನದಲ್ಲಿ ಒಂದು ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಇದನ್ನು 'ಲಂಬ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈಗ, ನಮ್ಮ ಬಳಿ ಮೂರು ರೇಖೆಗಳಿವೆ: ಪತನ ಕಿರಣ, ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬ. ಕೋನಮಾಪಕವನ್ನು ಬಳಸಿ, ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನವನ್ನು ಅಳೆಯಿರಿ. ಇದೇ 'ಪತನ ಕೋನ'. ನಂತರ, ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನವನ್ನು ಅಳೆಯಿರಿ. ಇದು 'ಪ್ರತಿಫಲನ ಕೋನ'.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಪತನ ಕಿರಣವು ದರ್ಪಣವನ್ನು ಸಂಧಿಸುವ ಬಿಂದುವಿನಲ್ಲಿ, ದರ್ಪಣಕ್ಕೆ 90° ಕೋನದಲ್ಲಿ ಒಂದು ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಇದನ್ನು 'ಲಂಬ' (normal) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈಗ, ನಮ್ಮ ಬಳಿ ಮೂರು ರೇಖೆಗಳಿವೆ: ಪತನ ಕಿರಣ, ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬ. ಕೋನಮಾಪಕವನ್ನು ಬಳಸಿ, ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನವನ್ನು (∠i) ಅಳೆಯಿರಿ. ಇದೇ 'ಪತನ ಕೋನ' (angle of incidence). ನಂತರ, ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನವನ್ನು (∠r) ಅಳೆಯಿರಿ. ಇದು 'ಪ್ರತಿಫಲನ ಕೋನ' (angle of reflection).",
+  "display_bullets": [
+    "ಪತನ ಬಿಂದುವಿನಲ್ಲಿ ದರ್ಪಣಕ್ಕೆ ಲಂಬವನ್ನು ಎಳೆಯಿರಿ.",
+    "ಕೋನಮಾಪಕ ಬಳಸಿ ಪತನ ಕೋನ (∠i) ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನವನ್ನು (∠r) ಅಳೆಯಿರಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The previous diagram, but now with a dotted line representing the 'normal' drawn perpendicular to the mirror at the point of incidence. The angle of incidence (∠i) between the incident ray and the normal is marked. The angle of reflection (∠r) between the reflected ray and the normal is also marked.",
+    "labels": "Normal, Angle of Incidence (∠i), Angle of Reflection (∠r)",
+    "scientific_significance": "Introduces the geometric constructs (normal, angles) necessary to quantify the law of reflection.",
+    "placeholder_note": "Image to be generated showing the normal and the angles i and r."
+  },
+  "chunk_id": "std_8_chapter_13_concept_1_chunk_024"
+}

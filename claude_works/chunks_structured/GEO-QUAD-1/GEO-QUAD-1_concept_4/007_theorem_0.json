@@ -1,0 +1,37 @@
+{
+  "type": "definition_spotlight",
+  "slide_title": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಪ್ರಮೇಯ",
+  "script": "ಈಗ ನಾವು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಮೂರು ಅತ್ಯಂತ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ ಮತ್ತು ಸಾಧಿಸೋಣ. ಈ ಗುಣಲಕ್ಷಣಗಳು ರೇಖಾಗಣಿತದ ಹಲವು ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು ಆಧಾರವಾಗಿವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಅದರ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ಅದರ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಈ ಪ್ರತಿಯೊಂದು ಗುಣವನ್ನು ನಾವು ಒಂದೊಂದಾಗಿ ಸಾಧನೆಯೊಂದಿಗೆ ನೋಡೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಮೂರು ಅತ್ಯಂತ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ ಮತ್ತು ಸಾಧಿಸೋಣ. ಈ ಗುಣಲಕ್ಷಣಗಳು ರೇಖಾಗಣಿತದ ಹಲವು ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು ಆಧಾರವಾಗಿವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಅದರ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ಅದರ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಈ ಪ್ರತಿಯೊಂದು ಗುಣವನ್ನು ನಾವು ಒಂದೊಂದಾಗಿ ಸಾಧನೆಯೊಂದಿಗೆ ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭು_ಜದಲ್ಲಿ:",
+    "1. ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ.",
+    "2. ಅಭಿಮುಖ ಕೋನಗಳು ಸಮನಾಗಿರುತ್ತವೆ.",
+    "3. ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "light_on_dark",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clean diagram of a parallelogram labeled ABCD.",
+    "labels": "A, B, C, D",
+    "mathematical_significance": "Represents a general parallelogram to introduce the theorem's properties.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-QUAD-1_concept_4_chunk_007"
+}

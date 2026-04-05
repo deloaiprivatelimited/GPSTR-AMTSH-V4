@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ದೃಶ್ಯೀಕರಣ",
+  "script": "ಈ ಚಿತ್ರದಲ್ಲಿ, ಪ್ರನಾಳವೊಂದರಲ್ಲಿ ವಿನೆಗರ್ ಮತ್ತು ಅಡುಗೆ ಸೋಡಾವನ್ನು ಬೆರೆಸಲಾಗುತ್ತಿದೆ. ತಕ್ಷಣವೇ, ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಉತ್ಪತ್ತಿಯಾಗುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಈ ಅನಿಲವೇ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್. ಈ ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುವುದು ಒಂದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯ ಸ್ಪಷ್ಟ ಸೂಚಕವಾಗಿದೆ.",
+  "script_display": "ಈ ಚಿತ್ರದಲ್ಲಿ, ಪ್ರನಾಳವೊಂದರಲ್ಲಿ ವಿನೆಗರ್ ಮತ್ತು ಅಡುಗೆ ಸೋಡಾವನ್ನು ಬೆರೆಸಲಾಗುತ್ತಿದೆ. ತಕ್ಷಣವೇ, ಅನಿಲದ ಗುಳ್ಳೆಗಳು (CO₂) ಉತ್ಪತ್ತಿಯಾಗುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುವುದು ಒಂದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯ ಸ್ಪಷ್ಟ ಸೂಚಕವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಚಿತ್ರ 5.5: ಸುಣ್ಣದ ತಿಳಿಯ ಮೂಲಕ ಅನಿಲವನ್ನು ಹಾಯಿಸುವ ವ್ಯವಸ್ಥೆ. ಒಂದು ಪ್ರನಾಳದಲ್ಲಿ ವಿನೆಗರ್ ಮತ್ತು ಅಡುಗೆ ಸೋಡಾ ಮಿಶ್ರಣದಿಂದ CO₂ ಅನಿಲ ಉತ್ಪತ್ತಿಯಾಗಿ, ಇನ್ನೊಂದು ಪ್ರನಾಳದಲ್ಲಿರುವ ಸುಣ್ಣದ ತಿಳಿಯ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತಿದೆ.",
+    "labels": "ವಿನೆಗರ್ + ಅಡುಗೆ ಸೋಡಾ, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಅನಿಲ, ಸುಣ್ಣದ ತಿಳಿ",
+    "scientific_significance": "ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಅನಿಲ ಉತ್ಪತ್ತಿಯಾಗುವುದನ್ನು ಮತ್ತು ಆ ಅನಿಲವನ್ನು (CO₂) ಸುಣ್ಣದ ತಿಳಿಯ ಪರೀಕ್ಷೆಯ ಮೂಲಕ ಗುರುತಿಸುವುದನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing gas from vinegar/baking soda bubbling through limewater."
+  },
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_029"
+}

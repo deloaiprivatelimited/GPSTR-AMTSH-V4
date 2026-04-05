@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಕಣಗಳ ಆಕರ್ಷಣಾ ಬಲ",
+  "script": "ದ್ರವ್ಯದ ಕಣಗಳು ಒಂದನ್ನೊಂದು ಆಕರ್ಷಿಸುತ್ತವೆ ಎಂಬ ಗುಣವನ್ನು ಪರೀಕ್ಷಿಸಲು, ನಾವು ಒಂದು ಕುತೂಹಲಕಾರಿ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಪ್ರಯೋಗದ ಮೂಲಕ, ವಿವಿಧ ವಸ್ತುಗಳಲ್ಲಿನ ಕಣಗಳ ನಡುವಿನ ಆಕರ್ಷಣಾ ಬಲವು ಒಂದೇ ರೀತಿ ಇರುತ್ತದೆಯೇ ಅಥವಾ ಭಿನ್ನವಾಗಿದೆಯೇ ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಲಿದ್ದೇವೆ. ನಮ್ಮ ಪ್ರಯೋಗಶಾಲೆಯ ಮೇಜಿನ ಮೇಲೆ ನೋಡಿ, ನಮಗೆ ಬೇಕಾದ ಸರಳ ವಸ್ತುಗಳು ಇಲ್ಲಿವೆ. ನಾವು ಒಂದು ಗಟ್ಟಿಯಾದ ಕಬ್ಬಿಣದ ಮೊಳೆ, ಸುಲಭವಾಗಿ ಪುಡಿಯಾಗುವ ಒಂದು ಸೀಮೆಸುಣ್ಣದ ತುಂಡು, ಮತ್ತು ಹಿಗ್ಗುವ ಗುಣವಿರುವ ಒಂದು ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಅನ್ನು ತೆಗೆದುಕೊಂಡಿದ್ದೇವೆ. ಈ ವಸ್ತುಗಳ ಮೇಲೆ ಬಲ ಪ್ರಯೋಗಿಸಲು, ನಾವು ಒಂದು ಸುತ್ತಿಗೆಯನ್ನು ಸಹ ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ವಿವಿಧ ವಸ್ತುಗಳಲ್ಲಿನ ಕಣಗಳ ನಡುವಿನ ಆಕರ್ಷಣಾ ಬಲವನ್ನು ಹೋಲಿಸಲು ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ.\n**ಬೇಕಾಗುವ ವಸ್ತುಗಳು:**\n*   ಕಬ್ಬಿಣದ ಮೊಳೆ\n*   ಸೀಮೆಸುಣ್ಣದ ತುಂಡು\n*   ರಬ್ಬರ್ ಬ್ಯಾಂಡ್\n*   ಸುತ್ತಿಗೆ",
+  "display_bullets": [
+    "ಕಬ್ಬಿಣದ ಮೊಳೆ (Iron nail)",
+    "ಸೀಮೆಸುಣ್ಣದ ತುಂಡು (Piece of chalk)",
+    "ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ (Rubber band)",
+    "ಸುತ್ತಿಗೆ (Hammer)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A setup showing the materials for the experiment: an iron nail, a piece of chalk, a rubber band, and a hammer, arranged neatly on a table.",
+    "labels": "ಕಬ್ಬಿಣದ ಮೊಳೆ, ಸೀಮೆಸುಣ್ಣ, ರಬ್ಬರ್ ಬ್ಯಾಂಡ್, ಸುತ್ತಿಗೆ",
+    "scientific_significance": "These materials represent different types of solids with varying intermolecular forces of attraction.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_9_chapter_1_concept_2_chunk_019"
+}

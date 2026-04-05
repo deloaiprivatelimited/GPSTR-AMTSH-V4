@@ -1,0 +1,123 @@
+{
+  "module_id": "std_6_chapter_7_concept_4",
+  "chapter_code": "std_6_chapter_7",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 459.91,
+  "total_duration_formatted": "7:39",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_7_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ತಾಪದ ಮಾಪಕಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 48.851,
+      "duration": 48.851,
+      "script_words": 81
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisite",
+      "start": 49.451,
+      "end": 67.182,
+      "duration": 17.731,
+      "script_words": 27
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_4_chunk_003",
+      "chunk_file": "003_formula_0.json",
+      "wav_file": "003_formula_0.wav",
+      "slide_title": "ಸೆಲ್ಸಿಯಸ್‌ನಿಂದ ಕೆಲ್ವಿನ್‌ಗೆ ಪರಿವರ್ತನೆ",
+      "type": "concept_explanation",
+      "start": 67.782,
+      "end": 115.713,
+      "duration": 47.931,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_4_chunk_004",
+      "chunk_file": "004_formula_cont_0_1.json",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಸೆಲ್ಸಿಯಸ್‌ನಿಂದ ಕೆಲ್ವಿನ್‌ಗೆ ಪರಿವರ್ತನೆ",
+      "type": "concept_explanation",
+      "start": 116.313,
+      "end": 171.044,
+      "duration": 54.731,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_4_chunk_005",
+      "chunk_file": "005_formula_cont_0_2.json",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶ: ಕೆಲ್ವಿನ್ ಮತ್ತು 'ಡಿಗ್ರಿ' ಚಿಹ್ನೆ",
+      "type": "concept_explanation",
+      "start": 171.644,
+      "end": 221.575,
+      "duration": 49.931,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_4_chunk_006",
+      "chunk_file": "006_property_0.json",
+      "wav_file": "006_property_0.wav",
+      "slide_title": "ತಾಪದ ಮಾಪಕಗಳು: ಬರವಣಿಗೆಯ ನಿಯಮಗಳು",
+      "type": "concept_explanation",
+      "start": 222.175,
+      "end": 285.786,
+      "duration": 63.611,
+      "script_words": 92
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_4_chunk_007",
+      "chunk_file": "007_classification_0.json",
+      "wav_file": "007_classification_0.wav",
+      "slide_title": "ಸೆಲ್ಸಿಯಸ್ ಮಾಪಕ (Celsius Scale)",
+      "type": "concept_explanation",
+      "start": 286.386,
+      "end": 327.517,
+      "duration": 41.131,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_4_chunk_008",
+      "chunk_file": "008_classification_cont_0_1.json",
+      "wav_file": "008_classification_cont_0_1.wav",
+      "slide_title": "ಫ್ಯಾರನ್‌ಹೀಟ್ ಮಾಪಕ (Fahrenheit Scale)",
+      "type": "concept_explanation",
+      "start": 328.117,
+      "end": 368.528,
+      "duration": 40.411,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_4_chunk_009",
+      "chunk_file": "009_classification_cont_0_2.json",
+      "wav_file": "009_classification_cont_0_2.wav",
+      "slide_title": "ಕೆಲ್ವಿನ್ ಮಾಪಕ (Kelvin Scale)",
+      "type": "concept_explanation",
+      "start": 369.128,
+      "end": 419.419,
+      "duration": 50.291,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_4_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 420.019,
+      "end": 459.31,
+      "duration": 39.291,
+      "script_words": 46
+    }
+  ]
+}

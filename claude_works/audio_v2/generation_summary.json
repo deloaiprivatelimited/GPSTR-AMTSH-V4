@@ -1,0 +1,333 @@
+{
+  "total_modules": 196,
+  "total_chunks_ok": 5372,
+  "total_chunks_failed": 0,
+  "total_duration_sec": 254772.0,
+  "total_duration_formatted": "70h 46m",
+  "speaking_rate": 1.0,
+  "model": "gemini-2.5-pro-tts",
+  "chapters": {
+    "ALG-AP-4": {
+      "modules": 4,
+      "chunks_ok": 131,
+      "chunks_failed": 0,
+      "duration_sec": 6433.7,
+      "duration_formatted": "1h 47m"
+    },
+    "ALG-EQ1-1": {
+      "modules": 4,
+      "chunks_ok": 80,
+      "chunks_failed": 0,
+      "duration_sec": 3385.6,
+      "duration_formatted": "0h 56m"
+    },
+    "ALG-EQ1-2": {
+      "modules": 3,
+      "chunks_ok": 55,
+      "chunks_failed": 0,
+      "duration_sec": 2539.2,
+      "duration_formatted": "0h 42m"
+    },
+    "ALG-EQ2-3": {
+      "modules": 2,
+      "chunks_ok": 50,
+      "chunks_failed": 0,
+      "duration_sec": 2624.1,
+      "duration_formatted": "0h 43m"
+    },
+    "ALG-EXP-1": {
+      "modules": 5,
+      "chunks_ok": 101,
+      "chunks_failed": 0,
+      "duration_sec": 4625.8,
+      "duration_formatted": "1h 17m"
+    },
+    "ALG-EXP-2": {
+      "modules": 5,
+      "chunks_ok": 111,
+      "chunks_failed": 0,
+      "duration_sec": 5382.2,
+      "duration_formatted": "1h 29m"
+    },
+    "ALG-FAC-2": {
+      "modules": 6,
+      "chunks_ok": 118,
+      "chunks_failed": 0,
+      "duration_sec": 5443.7,
+      "duration_formatted": "1h 30m"
+    },
+    "ALG-PAIR-4": {
+      "modules": 4,
+      "chunks_ok": 92,
+      "chunks_failed": 0,
+      "duration_sec": 4534.3,
+      "duration_formatted": "1h 15m"
+    },
+    "ALG-POL-3": {
+      "modules": 6,
+      "chunks_ok": 250,
+      "chunks_failed": 0,
+      "duration_sec": 12360.3,
+      "duration_formatted": "3h 26m"
+    },
+    "ALG-QUAD-4": {
+      "modules": 3,
+      "chunks_ok": 80,
+      "chunks_failed": 0,
+      "duration_sec": 4006.3,
+      "duration_formatted": "1h 6m"
+    },
+    "COOR-ADV-2": {
+      "modules": 2,
+      "chunks_ok": 85,
+      "chunks_failed": 0,
+      "duration_sec": 4243.4,
+      "duration_formatted": "1h 10m"
+    },
+    "COOR-BAS-1": {
+      "modules": 1,
+      "chunks_ok": 70,
+      "chunks_failed": 0,
+      "duration_sec": 3423.7,
+      "duration_formatted": "0h 57m"
+    },
+    "DATA-BAS-1": {
+      "modules": 4,
+      "chunks_ok": 135,
+      "chunks_failed": 0,
+      "duration_sec": 6194.5,
+      "duration_formatted": "1h 43m"
+    },
+    "DATA-GRAPH-2": {
+      "modules": 3,
+      "chunks_ok": 68,
+      "chunks_failed": 0,
+      "duration_sec": 3172.5,
+      "duration_formatted": "0h 52m"
+    },
+    "DATA-STAT-2": {
+      "modules": 5,
+      "chunks_ok": 139,
+      "chunks_failed": 0,
+      "duration_sec": 7065.4,
+      "duration_formatted": "1h 57m"
+    },
+    "GEO-CIR-2": {
+      "modules": 6,
+      "chunks_ok": 140,
+      "chunks_failed": 0,
+      "duration_sec": 6868.0,
+      "duration_formatted": "1h 54m"
+    },
+    "GEO-EUC-2": {
+      "modules": 3,
+      "chunks_ok": 61,
+      "chunks_failed": 0,
+      "duration_sec": 2917.3,
+      "duration_formatted": "0h 48m"
+    },
+    "GEO-LA-1": {
+      "modules": 4,
+      "chunks_ok": 175,
+      "chunks_failed": 0,
+      "duration_sec": 7658.0,
+      "duration_formatted": "2h 7m"
+    },
+    "GEO-LA-2": {
+      "modules": 3,
+      "chunks_ok": 130,
+      "chunks_failed": 0,
+      "duration_sec": 6153.3,
+      "duration_formatted": "1h 42m"
+    },
+    "GEO-QUAD-1": {
+      "modules": 5,
+      "chunks_ok": 142,
+      "chunks_failed": 0,
+      "duration_sec": 6453.5,
+      "duration_formatted": "1h 47m"
+    },
+    "GEO-QUAD-2": {
+      "modules": 5,
+      "chunks_ok": 140,
+      "chunks_failed": 0,
+      "duration_sec": 6884.9,
+      "duration_formatted": "1h 54m"
+    },
+    "GEO-TRI-1": {
+      "modules": 5,
+      "chunks_ok": 120,
+      "chunks_failed": 0,
+      "duration_sec": 5400.4,
+      "duration_formatted": "1h 30m"
+    },
+    "GEO-TRI-2": {
+      "modules": 5,
+      "chunks_ok": 208,
+      "chunks_failed": 0,
+      "duration_sec": 11020.5,
+      "duration_formatted": "3h 3m"
+    },
+    "MEN-AREA-1": {
+      "modules": 6,
+      "chunks_ok": 162,
+      "chunks_failed": 0,
+      "duration_sec": 7116.8,
+      "duration_formatted": "1h 58m"
+    },
+    "MEN-CIR-3": {
+      "modules": 2,
+      "chunks_ok": 71,
+      "chunks_failed": 0,
+      "duration_sec": 3338.8,
+      "duration_formatted": "0h 55m"
+    },
+    "MEN-HER-3": {
+      "modules": 1,
+      "chunks_ok": 48,
+      "chunks_failed": 0,
+      "duration_sec": 2555.3,
+      "duration_formatted": "0h 42m"
+    },
+    "MEN-MEN-2": {
+      "modules": 3,
+      "chunks_ok": 162,
+      "chunks_failed": 0,
+      "duration_sec": 7510.6,
+      "duration_formatted": "2h 5m"
+    },
+    "MEN-VOL-3": {
+      "modules": 4,
+      "chunks_ok": 138,
+      "chunks_failed": 0,
+      "duration_sec": 6739.7,
+      "duration_formatted": "1h 52m"
+    },
+    "NS-CUBE-2": {
+      "modules": 6,
+      "chunks_ok": 82,
+      "chunks_failed": 0,
+      "duration_sec": 3674.1,
+      "duration_formatted": "1h 1m"
+    },
+    "NS-EXP-2": {
+      "modules": 3,
+      "chunks_ok": 106,
+      "chunks_failed": 0,
+      "duration_sec": 4775.3,
+      "duration_formatted": "1h 19m"
+    },
+    "NS-FRA-1": {
+      "modules": 8,
+      "chunks_ok": 144,
+      "chunks_failed": 0,
+      "duration_sec": 6614.9,
+      "duration_formatted": "1h 50m"
+    },
+    "NS-INT-1": {
+      "modules": 6,
+      "chunks_ok": 86,
+      "chunks_failed": 0,
+      "duration_sec": 4124.3,
+      "duration_formatted": "1h 8m"
+    },
+    "NS-NUM-1": {
+      "modules": 6,
+      "chunks_ok": 104,
+      "chunks_failed": 0,
+      "duration_sec": 4807.8,
+      "duration_formatted": "1h 20m"
+    },
+    "NS-PRI-1": {
+      "modules": 5,
+      "chunks_ok": 110,
+      "chunks_failed": 0,
+      "duration_sec": 5256.9,
+      "duration_formatted": "1h 27m"
+    },
+    "NS-RAT-2": {
+      "modules": 5,
+      "chunks_ok": 122,
+      "chunks_failed": 0,
+      "duration_sec": 5999.7,
+      "duration_formatted": "1h 39m"
+    },
+    "NS-REAL-4": {
+      "modules": 2,
+      "chunks_ok": 107,
+      "chunks_failed": 0,
+      "duration_sec": 5249.2,
+      "duration_formatted": "1h 27m"
+    },
+    "NS-SQR-2": {
+      "modules": 8,
+      "chunks_ok": 156,
+      "chunks_failed": 0,
+      "duration_sec": 7131.2,
+      "duration_formatted": "1h 58m"
+    },
+    "NS-SYS-3": {
+      "modules": 6,
+      "chunks_ok": 205,
+      "chunks_failed": 0,
+      "duration_sec": 9581.4,
+      "duration_formatted": "2h 39m"
+    },
+    "PROB-BAS-1": {
+      "modules": 5,
+      "chunks_ok": 147,
+      "chunks_failed": 0,
+      "duration_sec": 6480.8,
+      "duration_formatted": "1h 48m"
+    },
+    "RPP-COMP-1": {
+      "modules": 7,
+      "chunks_ok": 220,
+      "chunks_failed": 0,
+      "duration_sec": 10147.0,
+      "duration_formatted": "2h 49m"
+    },
+    "RPP-PROP-2": {
+      "modules": 2,
+      "chunks_ok": 62,
+      "chunks_failed": 0,
+      "duration_sec": 3096.0,
+      "duration_formatted": "0h 51m"
+    },
+    "TRI-APP-2": {
+      "modules": 1,
+      "chunks_ok": 60,
+      "chunks_failed": 0,
+      "duration_sec": 3199.6,
+      "duration_formatted": "0h 53m"
+    },
+    "TRI-INTRO-1": {
+      "modules": 3,
+      "chunks_ok": 165,
+      "chunks_failed": 0,
+      "duration_sec": 7921.7,
+      "duration_formatted": "2h 12m"
+    },
+    "VIS-CON-1": {
+      "modules": 6,
+      "chunks_ok": 79,
+      "chunks_failed": 0,
+      "duration_sec": 3472.4,
+      "duration_formatted": "0h 57m"
+    },
+    "VIS-SOLID-2": {
+      "modules": 5,
+      "chunks_ok": 79,
+      "chunks_failed": 0,
+      "duration_sec": 3647.7,
+      "duration_formatted": "1h 0m"
+    },
+    "VIS-SYM-1": {
+      "modules": 3,
+      "chunks_ok": 76,
+      "chunks_failed": 0,
+      "duration_sec": 3540.0,
+      "duration_formatted": "0h 59m"
+    }
+  }
+}

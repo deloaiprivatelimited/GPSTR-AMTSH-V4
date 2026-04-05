@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಈಗ ಮೂರನೇ ಹಂತಕ್ಕೆ ಬರೋಣ. ಇಲ್ಲಿ ನಾವು ಬಾಹು-ಕೋನ-ಬಾಹು, ಅಂದರೆ ಎಸ್.ಎ.ಎಸ್ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ಬಳಸುತ್ತೇವೆ. ಹಂತ ಒಂದರಿಂದ, ನಮಗೆ OA ಭಾಗಿಸು OC ಸಮ OD ಭಾಗಿಸು OB ಎಂದು ತಿಳಿದಿದೆ. ಅಂದರೆ, ಎರಡು ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತ ಸಮವಾಗಿದೆ. ಅಲ್ಲದೆ, ಚಿತ್ರದಲ್ಲಿ ಕೋನ AOD ಮತ್ತು ಕೋನ COB ಗಳು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ, ಆದ್ದರಿಂದ ಅವು ಸಮನಾಗಿರುತ್ತವೆ. ಈಗ ನಮ್ಮಲ್ಲಿ ಎರಡು ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತ ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, ಬಾ.ಕೋ.ಬಾ ಸಮರೂಪತೆಯ ಪ್ರಕಾರ, ತ್ರಿಭುಜ AOD ಯು ತ್ರಿಭುಜ COB ಗೆ ಸಮರೂಪಿಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಮೂರನೇ ಹಂತಕ್ಕೆ ಬರೋಣ. ಇಲ್ಲಿ ನಾವು ಬಾಹು-ಕೋನ-ಬಾಹು (SAS) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ಬಳಸುತ್ತೇವೆ. ಹಂತ (1) ರಿಂದ, ನಮಗೆ $\\frac{OA}{OC} = \\frac{OD}{OB}$ ಎಂದು ತಿಳಿದಿದೆ. ಅಂದರೆ, ಎರಡು ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತ ಸಮವಾಗಿದೆ. ಅಲ್ಲದೆ, ಚಿತ್ರದಲ್ಲಿ $\\angle AOD$ ಮತ್ತು $\\angle COB$ ಗಳು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ, ಆದ್ದರಿಂದ ಅವು ಸಮನಾಗಿರುತ್ತವೆ. ಈಗ ನಮ್ಮಲ್ಲಿ ಎರಡು ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತ ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, ಬಾ.ಕೋ.ಬಾ ಸಮರೂಪತೆಯ ಪ್ರಕಾರ, $\\triangle AOD \\sim \\triangle COB$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ರೇಖೆಗಳು, AC ಮತ್ತು BD, O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ COB ಗಳಲ್ಲಿ, ಕೋನ AOD ಮತ್ತು ಕೋನ COB ಗಳು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಬಾ.ಕೋ.ಬಾ (SAS) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ವಿವರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಮತ್ತು ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಇಲ್ಲಿ ಗುರುತಿಸಬಹುದು.",
+    "placeholder_note": "Please generate an image based on Figure 6.31 from the textbook, showing two lines AC and BD intersecting at O. Highlight the vertically opposite angles AOD and COB."
+  },
+  "source_example_id": "GEO-TRI-2_example_16",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\frac{OA}{OC} = \\frac{OD}{OB}$ (ಹಂತ 1 ರಿಂದ)\n$\\angle AOD = \\angle COB$ (ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು)\nಆದ್ದರಿಂದ, ಬಾ.ಕೋ.ಬಾ ಸಮರೂಪತೆಯ ಪ್ರಕಾರ, $\\triangle AOD \\sim \\triangle COB$.",
+      "justification": "ಎರಡು ಬಾಹುಗಳ ಅನುಪಾತ ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನ ಸಮವಾಗಿವೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_059"
+}

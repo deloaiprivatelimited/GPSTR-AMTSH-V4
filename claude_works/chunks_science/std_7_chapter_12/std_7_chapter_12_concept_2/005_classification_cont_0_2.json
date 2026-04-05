@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಮರ-ಆಧಾರಿತ ಉತ್ಪನ್ನಗಳು (ಮುಂದುವರಿದಿದೆ)",
+  "script": "ಮರ-ಆಧಾರಿತ ಉತ್ಪನ್ನಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಮುಂದುವರಿಯೋಣ. ಸೌದೆ, ಇದು ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳಲ್ಲಿ ಅಡುಗೆ ಮಾಡಲು ಮತ್ತು ಚಳಿಗಾಲದಲ್ಲಿ ಬೆಚ್ಚಗಿರಲು ಬಳಸುವ ಪ್ರಮುಖ ಇಂಧನವಾಗಿದೆ. ಶೀಶ್ಯಾಮ್ ನಂತಹ ಮರಗಳನ್ನು ಸೌದೆಗಾಗಿ ಬಳಸುತ್ತಾರೆ. ನಂತರ, ಕಾಗದ. ನಾವು ಬರೆಯಲು ಬಳಸುವ ಪುಸ್ತಕಗಳು ಮತ್ತು ನೋಟುಪುಸ್ತಕಗಳ ಕಾಗದವನ್ನು ಮರದ ತಿರುಳಿನಿಂದ ತಯಾರಿಸಲಾಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಬೆಂಕಿಕಡ್ಡಿ. ಇದು ಚಿಕ್ಕದಾಗಿದ್ದರೂ, ಮರದಿಂದ ತಯಾರಿಸಿದ ಒಂದು ಪ್ರಮುಖ ಉತ್ಪನ್ನವಾಗಿದೆ. ಇದನ್ನು ಮೃದುವಾದ ಮರದಿಂದ ಮಾಡುತ್ತಾರೆ.",
+  "script_display": "ಮರ-ಆಧಾರಿತ ಉತ್ಪನ್ನಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಮುಂದುವರಿಯೋಣ. ಸೌದೆ (Firewood), ಇದು ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳಲ್ಲಿ ಅಡುಗೆ ಮಾಡಲು ಮತ್ತು ಚಳಿಗಾಲದಲ್ಲಿ ಬೆಚ್ಚಗಿರಲು ಬಳಸುವ ಪ್ರಮುಖ ಇಂಧನವಾಗಿದೆ. ಶೀಶ್ಯಾಮ್‌ನಂತಹ ಮರಗಳನ್ನು ಸೌದೆಗಾಗಿ ಬಳಸುತ್ತಾರೆ. ನಂತರ, ಕಾಗದ (Paper). ನಾವು ಬರೆಯಲು ಬಳಸುವ ಪುಸ್ತಕಗಳು ಮತ್ತು ನೋಟುಪುಸ್ತಕಗಳ ಕಾಗದವನ್ನು ಮರದ ತಿರುಳಿನಿಂದ (wood pulp) ತಯಾರಿಸಲಾಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಬೆಂಕಿಕಡ್ಡಿ (Matchsticks). ಇದು ಚಿಕ್ಕದಾಗಿದ್ದರೂ, ಮರದಿಂದ ತಯಾರಿಸಿದ ಒಂದು ಪ್ರಮುಖ ಉತ್ಪನ್ನವಾಗಿದೆ. ಇದನ್ನು ಮೃದುವಾದ ಮರದಿಂದ ಮಾಡುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಸೌದೆ (Firewood): ಅಡುಗೆ ಮತ್ತು ಶಾಖಕ್ಕಾಗಿ ಬಳಸುವ ಇಂಧನ.",
+    "ಕಾಗದ (Paper): ಮರದ ತಿರುಳಿನಿಂದ ತಯಾರಿಸಲಾಗುತ್ತದೆ.",
+    "ಬೆಂಕಿಕಡ್ಡಿ (Matchsticks): ಮೃದುವಾದ ಮರದಿಂದ ಮಾಡಿದ ಉತ್ಪನ್ನ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A visual collage showing a pile of firewood, a roll of paper coming from a machine, and a few matchsticks.",
+    "labels": "Firewood, Paper, Matchsticks",
+    "scientific_significance": "Demonstrates the diverse applications of wood, from fuel to processed goods like paper.",
+    "placeholder_note": "Image to be generated showing firewood, paper, and matchsticks."
+  },
+  "chunk_id": "std_7_chapter_12_concept_2_chunk_005"
+}

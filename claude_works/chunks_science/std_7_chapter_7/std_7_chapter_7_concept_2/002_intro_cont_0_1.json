@@ -1,0 +1,31 @@
+{
+  "type": "prerequisites",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಈ ಪಾಠವನ್ನು ಮುಂದುವರಿಸುವ ಮೊದಲು, ಹಿಂದಿನ ಕೆಲವು ವಿಷಯಗಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ರಕ್ತನಾಳಗಳ ಕಾರ್ಯವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ರಕ್ತದ ಘಟಕಗಳು ಮತ್ತು ಅವುಗಳ ಕೆಲಸಗಳು ಹಾಗೂ ನಮ್ಮ ಹೃದಯದ ಮೂಲ ರಚನೆಯ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿದಿರುವುದು ಬಹಳ ಮುಖ್ಯ. ಈ ವಿಷಯಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ಸ್ಪಷ್ಟತೆ ಇದ್ದರೆ, ಈ ಪಾಠವು ಇನ್ನಷ್ಟು ಸುಲಭವಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಮುಂದುವರಿಸುವ ಮೊದಲು, ಹಿಂದಿನ ಕೆಲವು ವಿಷಯಗಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ರಕ್ತನಾಳಗಳ ಕಾರ್ಯವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಈ ಕೆಳಗಿನ ಪರಿಕಲ್ಪನೆಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿದಿರುವುದು ಬಹಳ ಮುಖ್ಯ. ಈ ವಿಷಯಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ಸ್ಪಷ್ಟತೆ ಇದ್ದರೆ, ಈ ಪಾಠವು ಇನ್ನಷ್ಟು ಸುಲಭವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ರಕ್ತದ ಘಟಕಗಳು ಮತ್ತು ಅವುಗಳ ಕಾರ್ಯಗಳು (Components of blood and their functions)",
+    "ಮಾನವನ ಹೃದಯದ ಮೂಲ ರಚನೆ ಮತ್ತು ಕಾರ್ಯ (Basic structure and function of the human heart)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_a",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "bullet_list",
+  "chunk_id": "std_7_chapter_7_concept_2_chunk_002"
+}

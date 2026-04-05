@@ -1,0 +1,48 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 5-6",
+  "script": "ಈಗ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಕೋನ ಟಿಓಪಿ ಮತ್ತು ಕೋನ ಟಿಓಎಸ್ ಒಟ್ಟಾಗಿ ಕೋನ ಪಿಓಎಸ್ ಅನ್ನು ರೂಪಿಸುತ್ತವೆ. ಅದೇ ರೀತಿ, ಕೋನ ಎಸ್ಓಕ್ಯೂ ಅನ್ನು ಕೋನ ಎಸ್ಓಆರ್ ಪ್ಲಸ್ ಕೋನ ಕ್ಯೂಓಆರ್ ಎಂದು ಬರೆಯಬಹುದು. ಈ ಬೆಲೆಗಳನ್ನು ನಮ್ಮ ಸಮೀಕರಣದಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಆಗ, ಕೋನ ಪಿಓಕ್ಯೂ ಪ್ಲಸ್, ಕೋನ ಎಸ್ಓಕ್ಯೂ ಬದಲಿಗೆ ಕೋನ ಎಸ್ಓಆರ್ ಪ್ಲಸ್ ಕೋನ ಕ್ಯೂಓಆರ್, ಮತ್ತು ಕೋನ ಟಿಓಪಿ ಪ್ಲಸ್ ಕೋನ ಟಿಓಎಸ್ ಬದಲಿಗೆ ಕೋನ ಪಿಓಎಸ್ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇವುಗಳ ಮೊತ್ತ 360 ಡಿಗ್ರಿ. ಈಗ ಪದಗಳನ್ನು ಮರುಜೋಡಿಸಿದರೆ, ನಮಗೆ ಕೋನ ಪಿಓಕ್ಯೂ ಪ್ಲಸ್ ಕೋನ ಕ್ಯೂಓಆರ್ ಪ್ಲಸ್ ಕೋನ ಎಸ್ಓಆರ್ ಪ್ಲಸ್ ಕೋನ ಪಿಓಎಸ್ ಸಮ 360 ಡಿಗ್ರಿ ಎಂದು ಸಿಗುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಸಾಧಿಸಬೇಕಾಗಿದ್ದು.",
+  "script_display": "ಈಗ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. $\\angle TOP + \\angle TOS$ ಒಟ್ಟಾಗಿ $\\angle POS$ ಅನ್ನು ರೂಪಿಸುತ್ತವೆ. ಅದೇ ರೀತಿ, $\\angle SOQ$ ಅನ್ನು $\\angle SOR + \\angle QOR$ ಎಂದು ಬರೆಯಬಹುದು. ಈ ಬೆಲೆಗಳನ್ನು ನಮ್ಮ ಸಮೀಕರಣದಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಆಗ, $\\angle POQ + (\\angle SOR + \\angle QOR) + (\\angle POS) = 360°$. ಈಗ ಪದಗಳನ್ನು ಮರುಜೋಡಿಸಿದರೆ, ನಮಗೆ $\\angle POQ + \\angle QOR + \\angle SOR + \\angle POS = 360°$ ಎಂದು ಸಿಗುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಸಾಧಿಸಬೇಕಾಗಿದ್ದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಚಿತ್ರಕ್ಕೆ ರಚನೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ. ಕಿರಣ OQ ಅನ್ನು T ವರೆಗೆ ವೃದ್ಧಿಸಿ TOQ ಸರಳರೇಖೆಯನ್ನು ರಚಿಸಲಾಗಿದೆ.",
+    "labels": "ಚಿತ್ರ 6.12",
+    "mathematical_significance": "ಸರಳಯುಗ್ಮ ಆಧಾರ ಪ್ರತಿಜ್ಞೆಯನ್ನು ಅನ್ವಯಿಸಲು ಬೇಕಾದ ಸರಳರೇಖೆಯನ್ನು ರಚಿಸಲಾಗಿದೆ.",
+    "render_target": "image",
+    "placeholder_note": "Use the same image as the previous slide."
+  },
+  "sub_type": "proof",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-LA-2_example_3",
+  "steps": [
+    {
+      "step": 5,
+      "action_display": "ಚಿತ್ರದಿಂದ, $\\angle TOP + \\angle TOS = \\angle POS$ ಮತ್ತು $\\angle SOQ = \\angle SOR + \\angle QOR$. ಆದೇಶಿಸಿದಾಗ, $\\angle POQ + (\\angle SOR + \\angle QOR) + \\angle POS = 360°$.",
+      "justification": "ಕೋನಗಳ ಸಂಕಲನ."
+    },
+    {
+      "step": 6,
+      "action_display": "$\\angle POQ + \\angle QOR + \\angle SOR + \\angle POS = 360°$.",
+      "justification": "ಪದಗಳನ್ನು ಮರುಜೋಡಿಸಿದೆ. ಸಾಧಿಸಿದೆ."
+    }
+  ],
+  "chunk_id": "GEO-LA-2_concept_2_chunk_047"
+}

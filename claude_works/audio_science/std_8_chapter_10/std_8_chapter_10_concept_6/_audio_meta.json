@@ -1,0 +1,92 @@
+{
+  "module_id": "std_8_chapter_10_concept_6",
+  "chapter_code": "std_8_chapter_10",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:35:30",
+  "chunks": {
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "7a869e20ac213fbbc831a7c1f41da602",
+      "wav_file": "003_classification_0.wav",
+      "duration": 40.331,
+      "slide_title": "ಸಂಗೀತ ಮತ್ತು ಗದ್ದಲ: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 14:34:19"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "fa9df17870bfe602bef8703da256437c",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 37.131,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 51,
+      "generated_at": "2026-04-02 14:34:32"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "7b9ec064c3b09816e537fd7da6ac7061",
+      "wav_file": "001_intro_0.wav",
+      "duration": 67.051,
+      "slide_title": "ಸಂಗೀತ ಮತ್ತು ಗದ್ದಲ",
+      "type": "intro",
+      "script_words": 91,
+      "generated_at": "2026-04-02 14:34:34"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "20ca34f532d82d938c4b78f15abe0f03",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 45.651,
+      "slide_title": "ಗದ್ದಲ (Noise)",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 14:34:43"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "9fdd2e9419de42e157f5b2aab167ef65",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 44.531,
+      "slide_title": "ಸಂಗೀತ (Music)",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 14:34:44"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "7c515b3f93931925ecedfdc5d0f7e4d5",
+      "wav_file": "007_recap_0.wav",
+      "duration": 33.331,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 45,
+      "generated_at": "2026-04-02 14:35:16"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "0b3851edcf3e45c8e05488430d93b6c8",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 41.851,
+      "slide_title": "ವ್ಯತ್ಯಾಸ ಮತ್ತು ವ್ಯಕ್ತಿನಿಷ್ಠತೆ",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 14:35:30"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ಸಾರಾಂಶ",
+  "script": "ಈ ಅಯಾನೀಕರಣ ಕ್ರಿಯೆಯ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ಒಮ್ಮೆ ಪುನರಾವರ್ತಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಪ್ರತಿವರ್ತಕಗಳು, ಅಂದರೆ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುವ ವಸ್ತುಗಳು, ಹೈಡ್ರೋಜನ್ ಕ್ಲೋರೈಡ್ ಮತ್ತು ನೀರು. ಎರಡನೆಯದಾಗಿ, ಉತ್ಪನ್ನಗಳು, ಅಂದರೆ ಕ್ರಿಯೆಯ ನಂತರ ಉಂಟಾಗುವ ವಸ್ತುಗಳು, ಹೈಡ್ರೋನಿಯಂ ಅಯಾನು ಮತ್ತು ಕ್ಲೋರೈಡ್ ಅಯಾನು. ಕೊನೆಯದಾಗಿ, ಈ ಕ್ರಿಯೆಯ ವಿಧ ಅಯಾನೀಕರಣ, ಏಕೆಂದರೆ ಇಲ್ಲಿ ಅಯಾನುಗಳು ಉತ್ಪತ್ತಿಯಾಗುತ್ತಿವೆ.",
+  "script_display": "ಈ ಅಯಾನೀಕರಣ ಕ್ರಿಯೆಯ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ಒಮ್ಮೆ ಪುನರಾವರ್ತಿಸೋಣ.",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳು (Reactants): ಹೈಡ್ರೋಜನ್ ಕ್ಲೋರೈಡ್ (HCl) ಮತ್ತು ನೀರು (H₂O)",
+    "ಉತ್ಪನ್ನಗಳು (Products): ಹೈಡ್ರೋನಿಯಂ ಅಯಾನು (H₃O⁺) ಮತ್ತು ಕ್ಲೋರೈಡ್ ಅಯಾನು (Cl⁻)",
+    "ಕ್ರಿಯೆಯ ವಿಧ (Type): ಅಯಾನೀಕರಣ (Ionization)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_2_concept_5_chunk_012"
+}

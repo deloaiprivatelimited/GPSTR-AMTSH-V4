@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿಬಿಂಬದ ಲಕ್ಷಣಗಳು: ಮಿಥ್ಯ ಮತ್ತು ನೇರ",
+  "script": "ಸಮತಲ ದರ್ಪಣದಿಂದ ಉಂಟಾಗುವ ಪ್ರತಿಬಿಂಬದ ಮೊದಲ ಎರಡು ಪ್ರಮುಖ ಲಕ್ಷಣಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು, ಪ್ರತಿಬಿಂಬವು ಮಿಥ್ಯವಾಗಿರುತ್ತದೆ. ಮಿಥ್ಯ ಎಂದರೆ ಅದನ್ನು ಪರದೆಯ ಮೇಲೆ ಮೂಡಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ನೀವು ದರ್ಪಣದ ಮುಂದೆ ಉರಿಯುತ್ತಿರುವ ಮೇಣದಬತ್ತಿಯನ್ನು ಇಟ್ಟರೆ, ಅದರ ಪ್ರತಿಬಿಂಬವು ದರ್ಪಣದ 'ಒಳಗೆ' ಕಾಣಿಸುತ್ತದೆಯೇ ಹೊರತು, ದರ್ಪಣದ ಮುಂದೆ ಇಟ್ಟ ಪರದೆಯ ಮೇಲೆ ಮೂಡುವುದಿಲ್ಲ. ಎರಡನೆಯದು, ಪ್ರತಿಬಿಂಬವು ಯಾವಾಗಲೂ ನೇರವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ಮೇಣದಬತ್ತಿಯು ನೇರವಾಗಿದ್ದರೆ, ಅದರ ಪ್ರತಿಬಿಂಬವೂ ನೇರವಾಗಿಯೇ ಕಾಣುತ್ತದೆ, ತಲೆಕೆಳಗಾಗಿ ಕಾಣುವುದಿಲ್ಲ.",
+  "script_display": "ಸಮತಲ ದರ್ಪಣದಿಂದ ಉಂಟಾಗುವ ಪ್ರತಿಬಿಂಬದ ಮೊದಲ ಎರಡು ಪ್ರಮುಖ ಲಕ್ಷಣಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು, ಪ್ರತಿಬಿಂಬವು ಮಿಥ್ಯವಾಗಿರುತ್ತದೆ. ಮಿಥ್ಯ ಎಂದರೆ ಅದನ್ನು ಪರದೆಯ ಮೇಲೆ ಮೂಡಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ನೀವು ದರ್ಪಣದ ಮುಂದೆ ಉರಿಯುತ್ತಿರುವ ಮೇಣದಬತ್ತಿಯನ್ನು ಇಟ್ಟರೆ, ಅದರ ಪ್ರತಿಬಿಂಬವು ದರ್ಪಣದ 'ಒಳಗೆ' ಕಾಣಿಸುತ್ತದೆಯೇ ಹೊರತು, ದರ್ಪಣದ ಮುಂದೆ ಇಟ್ಟ ಪರದೆಯ ಮೇಲೆ ಮೂಡುವುದಿಲ್ಲ. ಎರಡನೆಯದು, ಪ್ರತಿಬಿಂಬವು ಯಾವಾಗಲೂ ನೇರವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ಮೇಣದಬತ್ತಿಯು ನೇರವಾಗಿದ್ದರೆ, ಅದರ ಪ್ರತಿಬಿಂಬವೂ ನೇರವಾಗಿಯೇ ಕಾಣುತ್ತದೆ, ತಲೆಕೆಳಗಾಗಿ ಕಾಣುವುದಿಲ್ಲ.",
+  "display_bullets": [
+    "ಪ್ರತಿಬಿಂಬವು ಮಿಥ್ಯವಾಗಿರುತ್ತದೆ (Virtual): ಇದನ್ನು ಪರದೆಯ ಮೇಲೆ ಹಿಡಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+    "ಪ್ರತಿಬಿಂಬವು ನೇರವಾಗಿರುತ್ತದೆ (Erect): ವಸ್ತುವು ನೇರವಾಗಿದ್ದರೆ, ಪ್ರತಿಬಿಂಬವೂ ನೇರವಾಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A burning candle placed in front of a plane mirror. The virtual, erect image is shown 'behind' the mirror, appearing at the same distance.",
+    "labels": "ಚಿತ್ರ 11.6: ಸಮತಲ ದರ್ಪಣದಲ್ಲಿ ಮೇಣದ ಬತ್ತಿಯ ಪ್ರತಿಬಿಂಬ",
+    "scientific_significance": "Illustrates that a plane mirror forms a virtual (cannot be projected on a screen) and erect (upright) image.",
+    "placeholder_note": "Image to be generated based on NCERT Class 7 Science textbook, Chapter 11, Figure 11.6"
+  },
+  "chunk_id": "std_7_chapter_11_concept_2_chunk_015"
+}

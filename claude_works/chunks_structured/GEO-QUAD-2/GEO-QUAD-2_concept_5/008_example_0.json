@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ಅನ್ವಯ: ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ AB, BC ಮತ್ತು CA ಗಳ ಮಧ್ಯಬಿಂದುಗಳು ಕ್ರಮವಾಗಿ D, E ಮತ್ತು F ಆಗಿವೆ. D, E ಮತ್ತು F ನ್ನು ಸೇರಿಸಿದಾಗ, ತ್ರಿಭುಜ ABC ಯು ನಾಲ್ಕು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಾಗವಾಗುತ್ತದೆ ಎಂದು ನಾವು ತೋರಿಸಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ನೀವು ತ್ರಿಭುಜ ABC ಮತ್ತು ಮಧ್ಯಬಿಂದುಗಳಾದ D, E, ಮತ್ತು F ಅನ್ನು ನೋಡಬಹುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $∆ ABC$ ಯಲ್ಲಿ AB, BC ಮತ್ತು CA ಗಳ ಮಧ್ಯಬಿಂದುಗಳು ಕ್ರಮವಾಗಿ D, E ಮತ್ತು F ಆಗಿವೆ. D, E ಮತ್ತು F ನ್ನು ಸೇರಿಸಿದಾಗ, $∆ ABC$ ಯು ನಾಲ್ಕು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಾಗವಾಗುತ್ತದೆ ಎಂದು ನಾವು ತೋರಿಸಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ನೀವು $∆ ABC$ ಮತ್ತು ಮಧ್ಯಬಿಂದುಗಳಾದ D, E, ಮತ್ತು F ಅನ್ನು ನೋಡಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ತ್ರಿಭುಜ ABC. D, E, F ಗಳು ಕ್ರಮವಾಗಿ AB, BC, CA ಬಾಹುಗಳ ಮಧ್ಯಬಿಂದುಗಳು. DE, EF, FD ಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ. ಇದು ತ್ರಿಭುಜವನ್ನು ನಾಲ್ಕು ಚಿಕ್ಕ ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ: ADF, BDE, CFE, ಮತ್ತು ಮಧ್ಯದಲ್ಲಿ DEF.",
+    "labels": "ಶೃಂಗಗಳು A, B, C. ಮಧ್ಯಬಿಂದುಗಳು D, E, F.",
+    "mathematical_significance": "ಉದಾಹರಣೆ 6 ರ ಸಾಧನೆಯನ್ನು ವಿವರಿಸುತ್ತದೆ. ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಮಧ್ಯಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿದಾಗ ಉಂಟಾಗುವ ನಾಲ್ಕು ಸರ್ವಸಮ ತ್ರಿಭुಜಗಳನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for GEO-QUAD-2_example_6"
+  },
+  "source_example_id": "GEO-QUAD-2_example_6",
+  "prerequisites_display": [
+    "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯ",
+    "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಗುಣಲಕ್ಷಣಗಳು",
+    "ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆ"
+  ],
+  "chunk_id": "GEO-QUAD-2_concept_5_chunk_008"
+}

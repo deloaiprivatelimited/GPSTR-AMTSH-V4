@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ನಾವು ಕಂಡುಕೊಂಡ ಅಂತಿಮ ಉತ್ತರಗಳು ಇಲ್ಲಿವೆ. ಮೊದಲ ಭಾಗ, x ಪ್ಲಸ್ ಮೂರು, ಗುಣಿಸು x ಪ್ಲಸ್ ಮೂರು, ಇದರ ಗುಣಲಬ್ಧ x ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ 6x ಪ್ಲಸ್ 9. ಎರಡನೇ ಭಾಗ, x ಮೈನಸ್ ಮೂರು, ಗುಣಿಸು x ಪ್ಲಸ್ ಐದು, ಇದರ ಗುಣಲಬ್ಧ x ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ 2x ಮೈನಸ್ 15. ಸರಿಯಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಗುರುತಿಸುವುದು ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ ಪ್ರಮುಖ ಹಂತವಾಗಿದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ನಾವು ಕಂಡುಕೊಂಡ ಅಂತಿಮ ಉತ್ತರಗಳು ಇಲ್ಲಿವೆ.\n* (i) $(x+3)(x+3) = x^2 + 6x + 9$\n* (ii) $(x-3)(x+5) = x^2 + 2x - 15$\nಸರಿಯಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಗುರುತಿಸುವುದು ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ ಪ್ರಮುಖ ಹಂತವಾಗಿದೆ.",
+  "display_bullets": [
+    "(i) $(x+3)(x+3) = x^2 + 6x + 9$",
+    "(ii) $(x-3)(x+5) = x^2 + 2x - 15$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_full_width",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "ALG-POL-3_example_15",
+  "final_answer": "(i) $x^2 + 6x + 9$\n(ii) $x^2 + 2x - 15$",
+  "final_answer_display": "(i) $x^2 + 6x + 9$\n(ii) $x^2 + 2x - 15$",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_048"
+}

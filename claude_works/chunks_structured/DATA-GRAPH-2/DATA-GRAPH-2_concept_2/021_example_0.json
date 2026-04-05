@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆಯ ಪರಿಚಯ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಬಿಡಿಸೋಣ. ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಪಟ್ಟಿಯಲ್ಲಿ ಪೆಟ್ರೋಲ್‌ನ ಪ್ರಮಾಣ ಮತ್ತು ಅದರ ಬೆಲೆಯನ್ನು ಕೊಟ್ಟಿದೆ. ಈ ದತ್ತಾಂಶಗಳನ್ನು ತೋರಿಸಲು ಒಂದು ನಕ್ಷೆಯನ್ನು ರಚಿಸಬೇಕು. ನಂತರ, ಆ ನಕ್ಷೆಯನ್ನು ಬಳಸಿ 12 ಲೀಟರ್ ಪೆಟ್ರೋಲ್‌ನ ಬೆಲೆಯನ್ನು ಅಂದಾಜಿಸಬೇಕು. ಮೊದಲು ದತ್ತಾಂಶವನ್ನು ಗಮನಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಬಿಡಿಸೋಣ. ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಪಟ್ಟಿಯಲ್ಲಿ ಪೆಟ್ರೋಲ್‌ನ ಪ್ರಮಾಣ ಮತ್ತು ಅದರ ಬೆಲೆಯನ್ನು ಕೊಟ್ಟಿದೆ. ಈ ದತ್ತಾಂಶಗಳನ್ನು ತೋರಿಸಲು ಒಂದು ನಕ್ಷೆಯನ್ನು ರಚಿಸಿ. ನಂತರ, ಆ ನಕ್ಷೆಯನ್ನು ಬಳಸಿ 12 ಲೀಟರ್ ಪೆಟ್ರೋಲ್‌ನ ಬೆಲೆಯನ್ನು ಅಂದಾಜಿಸಿ. ಮೊದಲು ದತ್ತಾಂಶವನ್ನು ಗಮನಿಸೋಣ.",
+  "display_bullets": [
+    "**ದತ್ತಾಂಶ:** ಪೆಟ್ರೋಲ್ ಪ್ರಮಾಣ (ಲೀಟರ್) ಮತ್ತು ಬೆಲೆ (₹) ನಡುವಿನ ಸಂಬಂಧ.",
+    "**ಗುರಿ 1:** ದತ್ತಾಂಶಕ್ಕಾಗಿ ರೇಖಾತ್ಮಕ ನಕ್ಷೆಯನ್ನು ರಚಿಸುವುದು.",
+    "**ಗುರಿ 2:** ನಕ್ಷೆಯನ್ನು ಬಳಸಿ 12 ಲೀಟರ್ ಪೆಟ್ರೋಲ್‌ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A table showing petrol quantity and its price. The table has two rows and five columns. First row headers: 'ಪೆಟ್ರೋಲ್‌ನ ಪ್ರಮಾಣ (ಲೀಟರ್‌ಗಳಲ್ಲಿ)', '10', '15', '20', '25'. Second row headers: 'ಪೆಟ್ರೋಲ್ ಬೆಲೆ (ರೂಪಾಯಿಗಳಲ್ಲಿ)', '500', '750', '1000', '1250'. The first column contains the labels and the subsequent columns contain the data pairs. This should be rendered as a clean, readable table. For example: | ಪೆಟ್ರೋಲ್‌ನ ಪ್ರಮಾಣ (ಲೀಟರ್‌ಗಳಲ್ಲಿ) | 10 | 15 | 20 | 25 | |---|---|---|---|---| | ಪೆಟ್ರೋಲ್ ಬೆಲೆ (ರೂಪಾಯಿಗಳಲ್ಲಿ) | 500 | 750 | 1000 | 1250 |"
+  },
+  "source_example_id": "DATA-GRAPH-2_example_3",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "DATA-GRAPH-2_concept_2_chunk_021"
+}

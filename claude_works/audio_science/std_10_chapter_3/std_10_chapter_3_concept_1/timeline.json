@@ -1,0 +1,68 @@
+{
+  "module_id": "std_10_chapter_3_concept_1",
+  "chapter_code": "std_10_chapter_3",
+  "voice": "Pulcherrima",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 5,
+  "total_duration": 238.175,
+  "total_duration_formatted": "3:58",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_3_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳು",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 58.851,
+      "duration": 58.851,
+      "script_words": 82
+    },
+    {
+      "chunk_id": "std_10_chapter_3_concept_1_chunk_002",
+      "chunk_file": "002_classification_0.json",
+      "wav_file": "002_classification_0.wav",
+      "slide_title": "ಧಾತುಗಳ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "start": 59.451,
+      "end": 104.942,
+      "duration": 45.491,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_10_chapter_3_concept_1_chunk_003",
+      "chunk_file": "003_classification_cont_0_1.json",
+      "wav_file": "003_classification_cont_0_1.wav",
+      "slide_title": "ಲೋಹಗಳು (Metals)",
+      "type": "concept_explanation",
+      "start": 105.542,
+      "end": 151.473,
+      "duration": 45.931,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_10_chapter_3_concept_1_chunk_004",
+      "chunk_file": "004_classification_cont_0_2.json",
+      "wav_file": "004_classification_cont_0_2.wav",
+      "slide_title": "ಅಲೋಹಗಳು (Non-metals)",
+      "type": "concept_explanation",
+      "start": 152.073,
+      "end": 194.724,
+      "duration": 42.651,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_10_chapter_3_concept_1_chunk_005",
+      "chunk_file": "005_recap_0.json",
+      "wav_file": "005_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 195.324,
+      "end": 237.575,
+      "duration": 42.251,
+      "script_words": 54
+    }
+  ]
+}

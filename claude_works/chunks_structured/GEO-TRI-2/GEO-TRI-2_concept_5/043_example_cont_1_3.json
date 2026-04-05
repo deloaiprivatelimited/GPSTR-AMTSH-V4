@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಭಾಗ (ii) $\\frac{CM}{RN} = \\frac{AB}{PQ}$",
+  "script": "ಮುಂದೆ, ಎರಡನೇ ಭಾಗವನ್ನು ಸಾಧಿಸೋಣ. ನಾವು ಈಗಷ್ಟೇ ತ್ರಿಭುಜ AMC ಯು ತ್ರಿಭುಜ PNR ಗೆ ಸಮರೂಪವೆಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, CM ಭಾಗಿಸು RN ಸಮ AM ಭಾಗಿಸು PN ಸಮ CA ಭಾಗಿಸು RP. ಆದರೆ, ನಮಗೆ ದತ್ತಾಂಶದಿಂದ CA ಭಾಗಿಸು RP ಸಮ AB ಭಾಗಿಸು PQ ಎಂದು ತಿಳಿದಿದೆ. ಈ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು ಹೋಲಿಸಿದಾಗ, ನಮಗೆ ನೇರವಾಗಿ CM ಭಾಗಿಸು RN ಸಮ AB ಭಾಗಿಸು PQ ಎಂದು ಸಿಗುತ್ತದೆ. ಹೀಗೆ ಎರಡನೇ ಭಾಗವೂ ಸಾಧಿಸಲ್ಪಟ್ಟಿತು.",
+  "script_display": "ಮುಂದೆ, ಎರಡನೇ ಭಾಗವನ್ನು ಸಾಧಿಸೋಣ: $\\frac{CM}{RN} = \\frac{AB}{PQ}$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-TRI-2_example_6",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\triangle AMC \\sim \\triangle PNR$ ಆಗಿರುವುದರಿಂದ, ಅವುಗಳ ಅನುರೂಪ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿವೆ: $\\frac{CM}{RN} = \\frac{AM}{PN} = \\frac{CA}{RP}$.",
+      "justification": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಗುಣಲಕ್ಷಣ."
+    },
+    {
+      "step": 2,
+      "action_display": "ದತ್ತಾಂಶ (1) ರಿಂದ, $\\frac{CA}{RP} = \\frac{AB}{PQ}$.",
+      "justification": "ದತ್ತಾಂಶ."
+    },
+    {
+      "step": 3,
+      "action_display": "ಮೇಲಿನ ಎರಡು ಸಮೀಕರಣಗಳಿಂದ, $\\frac{CM}{RN} = \\frac{AB}{PQ}$.",
+      "justification": "ಹೋಲಿಕೆಯಿಂದ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_043"
+}

@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1-3",
+  "script": "ಮೊದಲಿಗೆ, ಭಿನ್ನರಾಶಿಗಳನ್ನು ತೆಗೆದುಹಾಕಲು, ನಾವು ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳನ್ನು ಛೇದವಾದ ಎರಡರಿಂದ ಗುಣಿಸೋಣ. ಇದು ನಮಗೆ ಎರಡು ಗುಣಿಸು, ಐದು ಎಕ್ಸ್ ಪ್ಲಸ್ ಏಳರ ಭಾಗ ಎರಡು, ಸಮ ಎರಡು ಗುಣಿಸು, ಮೂರರ ಭಾಗ ಎರಡು ಎಕ್ಸ್ ಮೈನಸ್ ಹದಿನಾಲ್ಕು ಎಂದು ಕೊಡುತ್ತದೆ. ಈಗ ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ ಆವರಣಗಳನ್ನು ಬಿಡಿಸಿದಾಗ, ನಮಗೆ ಹತ್ತು ಎಕ್ಸ್ ಪ್ಲಸ್ ಏಳು ಸಮ ಮೂರು ಎಕ್ಸ್ ಮೈನಸ್ ಇಪ್ಪತ್ತೆಂಟು ಎಂಬ ಸರಳ ಸಮೀಕರಣ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಭಿನ್ನರಾಶಿಗಳನ್ನು ತೆಗೆದುಹಾಕಲು, ನಾವು ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳನ್ನು ಛೇದವಾದ 2 ರಿಂದ ಗುಣಿಸೋಣ. ಇದು ನಮಗೆ $2 \\times (5x + \\frac{7}{2}) = 2 \\times (\\frac{3}{2}x - 14)$ ಎಂದು ಕೊಡುತ್ತದೆ. ಈಗ ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ ಆವರಣಗಳನ್ನು ಬಿಡಿಸಿದಾಗ, ನಮಗೆ $10x + 7 = 3x - 28$ ಎಂಬ ಸರಳ ಸಮೀಕರಣ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ1-2_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$2 \\times (5x + \\frac{7}{2}) = 2 \\times (\\frac{3}{2}x - 14)$",
+      "justification": "ಛೇದವನ್ನು ತೆಗೆದುಹಾಕಲು ಎರಡೂ ಬದಿಗಳನ್ನು 2 ರಿಂದ ಗುಣಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$(2 \\times 5x) + (2 \\times \\frac{7}{2}) = (2 \\times \\frac{3}{2}x) - (2 \\times 14)$",
+      "justification": "ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "$10x + 7 = 3x - 28$",
+      "justification": "ಗುಣಾಕಾರವನ್ನು ಸುಲಭೀಕರಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "ALG-EQ1-2_concept_2_chunk_009"
+}

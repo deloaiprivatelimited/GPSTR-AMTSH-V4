@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: 56ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಐವತ್ತಾರರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದರರ್ಥ, ನಾವು ಐವತ್ತಾರನ್ನು ಕೇವಲ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧವಾಗಿ ಬರೆಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 56ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದರರ್ಥ, ನಾವು 56ನ್ನು ಕೇವಲ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧವಾಗಿ ಬರೆಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 56ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಗುರಿ: 56ನ್ನು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧವಾಗಿ ವ್ಯಕ್ತಪಡಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "56ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "placeholder_note": "Problem statement"
+  },
+  "source_example_id": "NS-PRI-1_example_5",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-PRI-1_concept_3_chunk_014"
+}

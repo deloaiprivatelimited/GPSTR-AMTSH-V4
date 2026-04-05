@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತಗಳು 4-5: ಪ್ರಕ್ರಿಯೆಯನ್ನು ಮುಂದುವರಿಸುವುದು",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಾಲ್ಕನೇ ಹಂತ, ಹೊಡೆದುಹಾಕದ ಮುಂದಿನ ಸಂಖ್ಯೆ ಮೂರು. ಅದನ್ನು ವೃತ್ತ ಮಾಡಿ. ಈಗ ಮೂರರ ಎಲ್ಲಾ ಅಪವರ್ತ್ಯಗಳನ್ನು ಹೊಡೆದುಹಾಕಿ. ಉದಾಹರಣೆಗೆ ಆರು, ಒಂಬತ್ತು, ಹನ್ನೆರಡು, ಹದಿನೈದು, ಹೀಗೆ ತೊಂಬತ್ತೊಂಬತ್ತರ ವರೆಗೆ. ಇದರಲ್ಲಿ ಕೆಲವು ಸಂಖ್ಯೆಗಳು ಈಗಾಗಲೇ ಹೊಡೆದುಹಾಕಿರಬಹುದು. ಐದನೇ ಹಂತ, ಇದೇ ರೀತಿ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಮುಂದುವರಿಸಿ. ಹೊಡೆದುಹಾಕದ ಮುಂದಿನ ಸಂಖ್ಯೆ ಐದನ್ನು ವೃತ್ತ ಮಾಡಿ ಮತ್ತು ಅದರ ಅಪವರ್ತ್ಯಗಳನ್ನು ಹೊಡೆದುಹಾಕಿ. ನಂತರ ಏಳನ್ನು ವೃತ್ತ ಮಾಡಿ ಮತ್ತು ಅದರ ಅಪವರ್ತ್ಯಗಳನ್ನು ಹೊಡೆದುಹಾಕಿ. ನಾವು ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನೂರರ ವರ್ಗಮೂಲ, ಅಂದರೆ ಹತ್ತಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳವರೆಗೆ, ಅಂದರೆ ಏಳರ ವರೆಗೆ ಮಾಡಿದರೆ ಸಾಕು.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ನಾಲ್ಕನೇ ಹಂತ, ಹೊಡೆದುಹಾಕದ ಮುಂದಿನ ಸಂಖ್ಯೆ 3. ಅದನ್ನು ವೃತ್ತ ಮಾಡಿ. ಈಗ 3ರ ಎಲ್ಲಾ ಅಪವರ್ತ್ಯಗಳನ್ನು ಹೊಡೆದುಹಾಕಿ. ಉದಾಹರಣೆಗೆ 6, 9, 12, 15, ... 99. ಇದರಲ್ಲಿ ಕೆಲವು ಸಂಖ್ಯೆಗಳು ಈಗಾಗಲೇ ಹೊಡೆದುಹಾಕಿರಬಹುದು. ಐದನೇ ಹಂತ, ಇದೇ ರೀತಿ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಮುಂದುವರಿಸಿ. ಹೊಡೆದುಹಾಕದ ಮುಂದಿನ ಸಂಖ್ಯೆ 5ನ್ನು ವೃತ್ತ ಮಾಡಿ ಮತ್ತು ಅದರ ಅಪವರ್ತ್ಯಗಳನ್ನು ಹೊಡೆದುಹಾಕಿ. ನಂತರ 7ನ್ನು ವೃತ್ತ ಮಾಡಿ ಮತ್ತು ಅದರ ಅಪವರ್ತ್ಯಗಳನ್ನು ಹೊಡೆದುಹಾಕಿ. ನಾವು ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು $\\sqrt{100}=10$ ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳವರೆಗೆ, ಅಂದರೆ 7ರ ವರೆಗೆ ಮಾಡಿದರೆ ಸಾಕು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The grid from the previous step. Now, '3' is circled in blue. Its new multiples (9, 15, 21, ...) are crossed out. Then, '5' is circled, and its new multiples (25, 35, 55, ...) are crossed out. Finally, '7' is circled, and its new multiples (49, 77, 91) are crossed out.",
+    "labels": "Step 4, Step 5",
+    "mathematical_significance": "This visual demonstrates the iterative process of sieving. By eliminating multiples of 3, 5, and 7, we remove most of the remaining composite numbers.",
+    "placeholder_note": "Image to be generated: Grid with updates for multiples of 3, 5, and 7."
+  },
+  "source_example_id": "NS-PRI-1_example_4",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "3ನ್ನು ವೃತ್ತ ಹಾಕಿ ಮತ್ತು ಅದರ ಅಪವರ್ತ್ಯಗಳನ್ನು (9, 15, 21, ...) ಹೊಡೆದುಹಾಕಿ.",
+      "justification": "3 ಮುಂದಿನ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ."
+    },
+    {
+      "step": 5,
+      "action_display": "ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು 5 ಮತ್ತು 7ಕ್ಕೆ ಮುಂದುವರಿಸಿ.",
+      "justification": "$\\sqrt{100}=10$ ವರೆಗಿನ ಅವಿಭಾಜ್ಯಗಳಿಗೆ ಮಾತ್ರ ಪರೀಕ್ಷಿಸಿದರೆ ಸಾಕು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-PRI-1_concept_2_chunk_021"
+}

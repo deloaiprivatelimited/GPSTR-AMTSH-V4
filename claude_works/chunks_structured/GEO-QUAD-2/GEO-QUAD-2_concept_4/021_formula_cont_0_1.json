@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ಸೂತ್ರ",
+  "script": "ಈ ಪ್ರಮೇಯವನ್ನು ನಾವು ಗಣಿತದ ಭಾಷೆಯಲ್ಲಿ ಹೀಗೆ ಬರೆಯಬಹುದು. ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, E ಮತ್ತು F ಗಳು ಕ್ರಮವಾಗಿ AB ಮತ್ತು AC ಬಾಹುಗಳ ಮಧ್ಯಬಿಂದುಗಳಾಗಿದ್ದರೆ, ನಮಗೆ ಎರಡು ಮುಖ್ಯ ಫಲಿತಾಂಶಗಳು ಸಿಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ರೇಖಾಖಂಡ EF, ಬಾಹು BC ಗೆ ಸಮಾಂತರವಾಗಿರುತ್ತದೆ. ಇದನ್ನು ನಾವು EF ಸಮಾಂತರ BC ಎಂದು ಹೇಳುತ್ತೇವೆ. ಎರಡನೆಯದಾಗಿ, EF ನ ಉದ್ದವು BC ಯ ಉದ್ದದ ನಿಖರವಾಗಿ ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ. ಅಂದರೆ, EF ಸಮನಾಗಿದೆ ಒಂದನೇ ಎರಡಾಂಶ BC. ಈ ಎರಡೂ ಸಂಬಂಧಗಳು ಒಟ್ಟಾಗಿ ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯವನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+  "script_display": "ಈ ಪ್ರಮೇಯವನ್ನು ನಾವು ಗಣಿತದ ಭಾಷೆಯಲ್ಲಿ ಹೀಗೆ ಬರೆಯಬಹುದು. $∆ABC$ ಯಲ್ಲಿ, E ಮತ್ತು F ಗಳು ಕ್ರಮವಾಗಿ AB ಮತ್ತು AC ಬಾಹುಗಳ ಮಧ್ಯಬಿಂದುಗಳಾಗಿದ್ದರೆ, ನಮಗೆ ಎರಡು ಮುಖ್ಯ ಫಲಿತಾಂಶಗಳು ಸಿಗುತ್ತವೆ:",
+  "display_bullets": [
+    "ರೇಖೆಯು ಸಮಾಂತರವಾಗಿರುತ್ತದೆ: $EF \\parallel BC$",
+    "ಉದ್ದವು ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ: $EF = \\frac{1}{2} BC$"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_only",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "EF \\parallel BC \\quad \\text{ಮತ್ತು} \\quad EF = \\frac{1}{2} BC",
+    "placeholder_note": "Display the two results of the midpoint theorem in a large formula box."
+  },
+  "chunk_id": "GEO-QUAD-2_concept_4_chunk_021"
+}

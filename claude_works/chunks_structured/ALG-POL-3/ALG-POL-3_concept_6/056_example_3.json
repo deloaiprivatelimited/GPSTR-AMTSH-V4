@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಮೂರು ಪದಗಳ ವರ್ಗ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮೂರು ಎ ಪ್ಲಸ್ ನಾಲ್ಕು ಬಿ ಪ್ಲಸ್ ಐದು ಸಿ, ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಅನ್ನು ವಿಸ್ತೃತ ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಬೀಜೋಕ್ತಿಯನ್ನು ನೀಡಲಾಗಿದೆ, ಮತ್ತು ನಾವು ಅದನ್ನು ವಿಸ್ತರಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯು ಮೂರು ಪದಗಳ ಮೊತ್ತದ ವರ್ಗದ ರೂಪದಲ್ಲಿದೆ, ಅಂದರೆ ಎಕ್ಸ್ ಪ್ಲಸ್ ವೈ ಪ್ಲಸ್ ಝೆಡ್ ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ರೂಪದಲ್ಲಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $(3a + 4b + 5c)^2$ ನ್ನು ವಿಸ್ತೃತ ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಬೀಜೋಕ್ತಿಯನ್ನು ನೀಡಲಾಗಿದೆ, ಮತ್ತು ನಾವು ಅದನ್ನು ವಿಸ್ತರಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯು ಮೂರು ಪದಗಳ ಮೊತ್ತದ ವರ್ಗದ ರೂಪದಲ್ಲಿದೆ, ಅಂದರೆ $(x+y+z)^2$ ರೂಪದಲ್ಲಿದೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $(3a + 4b + 5c)^2$ ನ್ನು ವಿಸ್ತರಿಸಿ.",
+    "ಗುರುತಿಸಬೇಕಾದ ಅಂಶ: ಇದು $(x+y+z)^2$ ರೂಪದಲ್ಲಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "(3a + 4b + 5c)^2",
+    "placeholder_note": "Problem statement displayed prominently"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_17",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_056"
+}

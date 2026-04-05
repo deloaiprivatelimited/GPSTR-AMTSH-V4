@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ತ್ರಿಪದೋಕ್ತಿ ಹೌದು vs ಅಲ್ಲ",
+  "script": "ತ್ರಿಪದೋಕ್ತಿಗಳನ್ನು ಗುರುತಿಸುವಾಗ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ಗಮನದಲ್ಲಿಡಬೇಕು. ಬೀಜೋಕ್ತಿಯಲ್ಲಿರುವ ಪದಗಳು ವಿಜಾತಿಯಾಗಿರಬೇಕು. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, x ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ಎರಡು xy ಪ್ಲಸ್ y ಸ್ಕ್ವೇರ್. ಇದರಲ್ಲಿ x ಸ್ಕ್ವೇರ್, ಎರಡು xy, ಮತ್ತು y ಸ್ಕ್ವೇರ್ ಎಂಬ ಮೂರು ವಿಭಿನ್ನ ಪದಗಳಿವೆ. ಆದ್ದರಿಂದ ಇದು ಒಂದು ತ್ರಿಪದೋಕ್ತಿ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಐದು x ಪ್ಲಸ್ ಮೂರು x ಪ್ಲಸ್ ಎರಡು. ಇಲ್ಲಿ ಮೂರು ಪದಗಳು ಕಾಣಿಸಿದರೂ, ಐದು x ಮತ್ತು ಮೂರು x ಸಜಾತಿ ಪದಗಳಾಗಿವೆ. ಅವುಗಳನ್ನು ಕೂಡಿಸಿದಾಗ ನಮಗೆ ಎಂಟು x ಪ್ಲಸ್ ಎರಡು ಸಿಗುತ್ತದೆ, ಇದು ಕೇವಲ ಎರಡು ಪದಗಳನ್ನು ಹೊಂದಿರುವ ದ್ವಿಪದೋಕ್ತಿ. ಆದ್ದರಿಂದ, ಇದು ತ್ರಿಪದೋಕ್ತಿ ಅಲ್ಲ.",
+  "script_display": "ತ್ರಿಪದೋಕ್ತಿಗಳನ್ನು ಗುರುತಿಸುವಾಗ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ಗಮನದಲ್ಲಿಡಬೇಕು. ಬೀಜೋಕ್ತಿಯಲ್ಲಿರುವ ಪದಗಳು ವಿಜಾತಿಯಾಗಿರಬೇಕು. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, $x^2 + 2xy + y^2$. ಇದರಲ್ಲಿ $x^2$, $2xy$, ಮತ್ತು $y^2$ ಎಂಬ ಮೂರು ವಿಭಿನ್ನ ಪದಗಳಿವೆ. ಆದ್ದರಿಂದ ಇದು ಒಂದು ತ್ರಿಪದೋಕ್ತಿ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, $5x + 3x + 2$. ಇಲ್ಲಿ ಮೂರು ಪದಗಳು ಕಾಣಿಸಿದರೂ, $5x$ ಮತ್ತು $3x$ ಸಜಾತಿ ಪದಗಳಾಗಿವೆ. ಅವುಗಳನ್ನು ಕೂಡಿಸಿದಾಗ ನಮಗೆ $8x + 2$ ಸಿಗುತ್ತದೆ, ಇದು ಕೇವಲ ಎರಡು ಪದಗಳನ್ನು ಹೊಂದಿರುವ ದ್ವಿಪದೋಕ್ತಿ. ಆದ್ದರಿಂದ, ಇದು ತ್ರಿಪದೋಕ್ತಿ ಅಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "classic_blue",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_panel",
+    "status": "ready",
+    "render_target": "katex",
+    "placeholder_note": "A two-column layout. Left column for the correct example, right for the incorrect one. Each column has a title, a formula, and a brief explanation text rendered below the formula. The titles are 'ತ್ರಿಪದೋಕ್ತಿ ಹೌದು' and 'ತ್ರಿಪದೋಕ್ತಿ ಅಲ್ಲ'. The formulas are the ones mentioned in the script. The explanations are 'ಮೂರು ವಿಜಾತಿ ಪದಗಳಿವೆ' and 'ಸರಳೀಕರಿಸಿದಾಗ ದ್ವಿಪದೋಕ್ತಿಯಾಗುತ್ತದೆ' respectively. This visual is to be rendered directly from the provided text content within the layout itself, not as a separate image file. The layout should handle the rendering of these text elements in two distinct columns. The 'left_panel' and 'right_panel' properties would contain the content for each side. For example: left_panel: { title: 'ತ್ರಿಪದೋಕ್ತಿ ಹೌದು', formula: '$x^2 + 2xy + y^2$', explanation: 'ಮೂರು ವಿಜಾತಿ ಪದಗಳಿವೆ.' }, right_panel: { title: 'ತ್ರಿಪದೋಕ್ತಿ ಅಲ್ಲ', formula: '$5x + 3x + 2$', explanation: 'ಸರಳೀಕರಿಸಿದಾಗ ದ್ವಿಪದೋಕ್ತಿಯಾಗುತ್ತದೆ ($8x+2$).' }"
+  },
+  "chunk_id": "ALG-EXP-2_concept_1_chunk_027"
+}

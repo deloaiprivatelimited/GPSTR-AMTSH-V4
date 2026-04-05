@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆಗಳನ್ನು ನಾವು ಆದರ್ಶ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಬೇಕು. ನಮಗೆ ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು ಕೊಡಲಾಗಿದೆ: ಮೊದಲನೆಯದು ಮೂರು ಕೋಟಿ ನಲವತ್ಮೂರು ಲಕ್ಷ, ಮತ್ತು ಎರಡನೆಯದು ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಸೊನ್ನೆ ಸೊನ್ನೆ ಸೊನ್ನೆ ಮೂರು ಐದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆಗಳನ್ನು ನಾವು ಆದರ್ಶ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಬೇಕು. ನಮಗೆ ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು ಕೊಡಲಾಗಿದೆ:",
+  "display_bullets": [
+    "(i) $3,430,000$",
+    "(ii) $0.000035$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ಈ ಕೆಳಗಿನ ಸಂಖ್ಯೆಗಳನ್ನು ಆದರ್ಶ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿ:\n\n(i) $3,430,000$\n\n(ii) $0.000035$",
+    "placeholder_note": "Problem statement displayed clearly"
+  },
+  "source_example_id": "NS-EXP-2_example_6",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-EXP-2_concept_3_chunk_015"
+}

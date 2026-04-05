@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಸಮಸ್ಯೆಯೆಂದರೆ, ಚಿತ್ರದಲ್ಲಿ x ನ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಚಿತ್ರದಲ್ಲಿ, ಒಂದು ಚತುರ್ಭುಜದ ಮೂರು ಹೊರಕೋನಗಳನ್ನು ಕೊಡಲಾಗಿದೆ, ಅವು ತೊಂಬತ್ತು ಡಿಗ್ರಿ, ಐವತ್ತು ಡಿಗ್ರಿ, ಮತ್ತು ನೂರ ಹತ್ತು ಡಿಗ್ರಿ. ನಾವು ನಾಲ್ಕನೇ ಹೊರಕೋನವಾದ x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಸಮಸ್ಯೆಯೆಂದರೆ, ಚಿತ್ರದಲ್ಲಿ $x$ ನ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಚಿತ್ರದಲ್ಲಿ, ಒಂದು ಚತುರ್ಭುಜದ ಮೂರು ಹೊರಕೋನಗಳನ್ನು ಕೊಡಲಾಗಿದೆ, ಅವು $90°$, $50°$, ಮತ್ತು $110°$. ನಾವು ನಾಲ್ಕನೇ ಹೊರಕೋನವಾದ $x$ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಸಮಸ್ಯೆ: ಚಿತ್ರದಲ್ಲಿ $x$ ನ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ: ಒಂದು ಚತುರ್ಭುಜದ ಮೂರು ಹೊರಕೋನಗಳು $90°$, $50°$, ಮತ್ತು $110°$.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ನಾಲ್ಕನೇ ಹೊರಕೋನ $x$ ನ ಬೆಲೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ಚತುರ್ಭುಜದ ಹೊರಭಾಗದಲ್ಲಿ ನಾಲ್ಕು ಕೋನಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. ಮೂರು ಕೋನಗಳ ಅಳತೆಗಳು 90°, 50°, ಮತ್ತು 110° ಎಂದು ನಮೂದಿಸಲಾಗಿದೆ. ನಾಲ್ಕನೇ ಕೋನವನ್ನು 'x' ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಎಲ್ಲಾ ಕೋನಗಳು ಪ್ರದಕ್ಷಿಣಾಕಾರವಾಗಿ (clockwise) ಇವೆ.",
+    "labels": "90°, 50°, 110°, x",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತದ ಗುಣವನ್ನು ವಿವರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇಲ್ಲಿ ಚತುರ್ಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತ 360° ಆಗಿರುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for Figure 3.3. A convex quadrilateral with its sides extended in order to show the exterior angles. The angles should be labeled 90 degrees, 50 degrees, 110 degrees, and x."
+  },
+  "source_example_id": "GEO-QUAD-1_example_1",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-QUAD-1_concept_2_chunk_023"
+}

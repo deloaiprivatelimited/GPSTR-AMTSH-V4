@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಭಿನ್ನರಾಶಿಯಿಂದ ಭಾಗಿಸುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಒಂದನ್ನು ಒಂದನೇ ಎರಡರಿಂದ ಭಾಗಿಸಬೇಕು. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಒಂದು ಪೂರ್ಣ ವಸ್ತುವನ್ನು ಅರ್ಧ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿದರೆ ಎಷ್ಟು ಭಾಗಗಳು ಸಿಗುತ್ತವೆ ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $1$ ನ್ನು $\\frac{1}{2}$ ರಿಂದ ಭಾಗಿಸಬೇಕು. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಒಂದು ಪೂರ್ಣ ವಸ್ತುವನ್ನು ಅರ್ಧ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿದರೆ ಎಷ್ಟು ಭಾಗಗಳು ಸಿಗುತ್ತವೆ ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $1 \\div \\frac{1}{2}$ ನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಒಂದು ಪೂರ್ಣ ವಸ್ತುವಿನಲ್ಲಿ ಎಷ್ಟು ಅರ್ಧ ಭಾಗಗಳಿವೆ?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_top_visual_bottom",
+    "text_zone": "full",
+    "visual_zone": "bottom",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "1 \\div \\frac{1}{2} = ?",
+    "placeholder_note": "Problem statement displayed in a box"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "NS-FRA-1_example_8",
+  "chunk_id": "NS-FRA-1_concept_6_chunk_018"
+}

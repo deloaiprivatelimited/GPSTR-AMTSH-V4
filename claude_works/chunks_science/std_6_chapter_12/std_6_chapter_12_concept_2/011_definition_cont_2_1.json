@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಗ್ರಹದ ಲಕ್ಷಣಗಳು: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈಗ ಈ ನಿಯಮಗಳನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ನೋಡಿ, ಇದು ನಮ್ಮ ಸೌರವ್ಯೂಹ. ಮೊದಲ ನಿಯಮದಂತೆ, ಭೂಮಿಯು ಸೂರ್ಯನ ಸುತ್ತ ಒಂದು ನಿರ್ದಿಷ್ಟ ಕಕ್ಷೆಯಲ್ಲಿ ಸುತ್ತುತ್ತಿದೆ. ಎರಡನೆಯ ನಿಯಮದಂತೆ, ಭೂಮಿಯು ತನ್ನದೇ ಆದ ದ್ರವ್ಯರಾಶಿ ಮತ್ತು ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಬಲದಿಂದಾಗಿ ಒಂದು ಸುಂದರವಾದ ಗೋಳಾಕಾರವನ್ನು ಹೊಂದಿದೆ. ಮತ್ತು ಮೂರನೆಯ ನಿಯಮದಂತೆ, ಭೂಮಿಯು ತನ್ನ ಕಕ್ಷೆಯ ಹಾದಿಯಲ್ಲಿರುವ ಹೆಚ್ಚಿನ ಸಣ್ಣ ವಸ್ತುಗಳನ್ನು ತನ್ನೊಳಗೆ ಸೇರಿಸಿಕೊಂಡಿದೆ ಅಥವಾ ದೂರ ತಳ್ಳಿದೆ, ಅಂದರೆ ತನ್ನ ಕಕ್ಷೆಯ ಹಾದಿಯನ್ನು ತೆರವುಗೊಳಿಸಿದೆ. ಈ ಮೂರೂ ಲಕ್ಷಣಗಳು ಭೂಮಿಯನ್ನು ಒಂದು ಪರಿಪೂರ್ಣ ಗ್ರಹವನ್ನಾಗಿ ಮಾಡುತ್ತವೆ.",
+  "script_display": "ಈಗ ಈ ನಿಯಮಗಳನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.\n*   **ನಿಯಮ 1:** ಭೂಮಿಯು ಸೂರ್ಯನ ಸುತ್ತ ಒಂದು ನಿರ್ದಿಷ್ಟ ಕಕ್ಷೆಯಲ್ಲಿ (orbit) ಸುತ್ತುತ್ತಿದೆ.\n*   **ನಿಯಮ 2:** ಭೂಮಿಯು ತನ್ನ ಗುರುತ್ವಾಕರ್ಷಣೆಯಿಂದಾಗಿ ಗೋಳಾಕಾರದಲ್ಲಿದೆ.\n*   **ನಿಯಮ 3:** ಭೂಮಿಯು ತನ್ನ ಕಕ್ಷೆಯ ಹಾದಿಯನ್ನು ತೆರವುಗೊಳಿಸಿದೆ.\nಈ ಮೂರೂ ಲಕ್ಷಣಗಳು ಭೂಮಿಯನ್ನು ಒಂದು ಪರಿಪೂರ್ಣ ಗ್ರಹವನ್ನಾಗಿ ಮಾಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ನಿಯಮ 1: ಭೂಮಿಯು ಸೂರ್ಯನ ಸುತ್ತ ಒಂದು ನಿರ್ದಿಷ್ಟ ಕಕ್ಷೆಯಲ್ಲಿ ಸುತ್ತುತ್ತಿದೆ.",
+    "ನಿಯಮ 2: ಭೂಮಿಯು ತನ್ನ ಗುರುತ್ವಾಕರ್ಷಣೆಯಿಂದಾಗಿ ಗೋಳಾಕಾರದಲ್ಲಿದೆ.",
+    "ನಿಯಮ 3: ಭೂಮಿಯು ತನ್ನ ಕಕ್ಷೆಯ ಹಾದಿಯನ್ನು ತೆರವುಗೊಳಿಸಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simplified diagram of the solar system showing the Sun at the center. The Earth is shown in its orbit. The orbit path is highlighted and shown to be clear of other major objects. An inset shows a close-up of Earth, emphasizing its spherical shape.",
+    "labels": "ಸೂರ್ಯ (Sun), ಭೂಮಿ (Earth), ಕಕ್ಷೆ (Orbit), ಗೋಳಾಕಾರ (Spherical Shape), ತೆರವುಗೊಳಿಸಿದ ಹಾದಿ (Cleared Path)",
+    "scientific_significance": "Visually demonstrates the three key criteria of the IAU definition of a planet using Earth as a prime example.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_12_concept_2_chunk_011"
+}

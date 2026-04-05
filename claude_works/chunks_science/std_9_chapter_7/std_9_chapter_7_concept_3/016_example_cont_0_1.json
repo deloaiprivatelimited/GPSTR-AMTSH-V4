@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ಮೊದಲನೇ ಸಂದರ್ಭದ ವೇಗೋತ್ಕರ್ಷ",
+  "script": "ಮೊದಲು, ಮೊದಲನೇ ಸಂದರ್ಭದ ವೇಗೋತ್ಕರ್ಷವನ್ನು ಲೆಕ್ಕ ಹಾಕೋಣ. ವೇಗೋತ್ಕರ್ಷದ ಸೂತ್ರ, a equals v minus u divided by t. ಇಲ್ಲಿ, ಆರಂಭಿಕ ವೇಗ u ಸೊನ್ನೆ, ಅಂತಿಮ ವೇಗ v ಆರು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್, ಮತ್ತು ಸಮಯ t ಮೂವತ್ತು ಸೆಕೆಂಡುಗಳು. ಈ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿದಾಗ, a ಒಂದು equals ಆರು ಮೈನಸ್ ಸೊನ್ನೆ, ಭಾಗಿಸು ಮೂವತ್ತು. ಇದು ಆರನ್ನು ಮೂವತ್ತರಿಂದ ಭಾಗಿಸಿದಂತೆ ಆಗುತ್ತದೆ. ಲೆಕ್ಕ ಮಾಡಿದಾಗ, ನಮಗೆ ವೇಗೋತ್ಕರ್ಷ a ಒಂದು equals ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಎರಡು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್ ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲು, ಮೊದಲನೇ ಸಂದರ್ಭದ ವೇಗೋತ್ಕರ್ಷವನ್ನು ಲೆಕ್ಕ ಹಾಕೋಣ. ವೇಗೋತ್ಕರ್ಷದ ಸೂತ್ರ, a = (v - u) / t. ಇಲ್ಲಿ, ಆರಂಭಿಕ ವೇಗ u = 0, ಅಂತಿಮ ವೇಗ v = 6 ms⁻¹, ಮತ್ತು ಸಮಯ t = 30 s. ಈ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿದಾಗ, a₁ = (6 - 0) / 30. ಇದು 6/30 ಆಗುತ್ತದೆ. ಲೆಕ್ಕ ಮಾಡಿದಾಗ, ನಮಗೆ ವೇಗೋತ್ಕರ್ಷ a₁ = 0.2 ms⁻² ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ವೇಗೋತ್ಕರ್ಷದ ಸೂತ್ರ: a = (v - u) / t",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: a₁ = (6 ms⁻¹ - 0 ms⁻¹) / 30 s",
+    "ಲೆಕ್ಕಾಚಾರ: a₁ = 6 / 30 ms⁻²",
+    "ಫಲಿತಾಂಶ: a₁ = 0.2 ms⁻²"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "a_1 = \\frac{v - u}{t} = \\frac{6 - 0}{30} = 0.2 \\, \\text{ms}^{-2}",
+    "placeholder_note": "Show the calculation for the first case."
+  },
+  "source_example_id": "std_9_chapter_7_example_7.4",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಮೊದಲನೇ ಸಂದರ್ಭದ ವೇಗೋತ್ಕರ್ಷವನ್ನು ಲೆಕ್ಕ ಹಾಕಿ.",
+      "justification": "ಆರಂಭಿಕ ವೇಗ (u) = 0, ಅಂತಿಮ ವೇಗ (v) = 6 ms⁻¹, ಕಾಲ (t) = 30 s."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "std_9_chapter_7_concept_3_chunk_016"
+}

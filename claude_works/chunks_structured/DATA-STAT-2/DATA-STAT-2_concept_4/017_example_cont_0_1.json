@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ಸಂಚಿತ ಆವೃತ್ತಿ, ಅಂದರೆ cf ಕೋಷ್ಟಕವನ್ನು ರಚಿಸೋಣ. ಮೊದಲ ವರ್ಗದ cf 2. ಮುಂದಿನದು 2 ಪ್ಲಸ್ 5 ಅಂದರೆ 7. ನಂತರ 7 ಪ್ಲಸ್ x. ಹೀಗೆಯೇ ಮುಂದುವರಿಸಿದರೆ, ಕೊನೆಯ ಸಂಚಿತ ಆವೃತ್ತಿ 76 ಪ್ಲಸ್ x ಪ್ಲಸ್ y ಆಗುತ್ತದೆ. ಈಗ ಎರಡನೇ ಹಂತ. ನಮಗೆ ಒಟ್ಟು ಆವೃತ್ತಿ 100 ಎಂದು ತಿಳಿದಿದೆ. ಕೊನೆಯ ವರ್ಗದ ಸಂಚಿತ ಆವೃತ್ತಿಯು ಒಟ್ಟು ಆವೃತ್ತಿಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, 76 ಪ್ಲಸ್ x ಪ್ಲಸ್ y ಸಮ 100. ಇದನ್ನು ಸರಳೀಕರಿಸಿದರೆ, x ಪ್ಲಸ್ y ಸಮ 24. ಇದನ್ನು ಸಮೀಕರಣ ಒಂದು ಎಂದು ಗುರುತಿಸೋಣ.",
+  "script_display": "ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ಸಂಚಿತ ಆವೃತ್ತಿ (cf) ಕೋಷ್ಟಕವನ್ನು ರಚಿಸೋಣ. ಮೊದಲ ವರ್ಗದ cf 2. ಮುಂದಿನದು 2+5 ಅಂದರೆ 7. ನಂತರ 7+x. ಹೀಗೆಯೇ ಮುಂದುವರಿಸಿದರೆ, ಕೊನೆಯ ಸಂಚಿತ ಆವೃತ್ತಿ 76+x+y ಆಗುತ್ತದೆ. ಈಗ ಎರಡನೇ ಹಂತ. ನಮಗೆ ಒಟ್ಟು ಆವೃತ್ತಿ (N) 100 ಎಂದು ತಿಳಿದಿದೆ. ಕೊನೆಯ ವರ್ಗದ ಸಂಚಿತ ಆವೃತ್ತಿಯು ಒಟ್ಟು ಆವೃತ್ತಿಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, $76 + x + y = 100$. ಇದನ್ನು ಸರಳೀಕರಿಸಿದರೆ, $x + y = 24$. ಇದನ್ನು ಸಮೀಕರಣ (1) ಎಂದು ಗುರುತಿಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "Table showing class intervals, frequencies, and the calculated cumulative frequencies. | ವರ್ಗಾಂತರ | ಆವೃತ್ತಿ (f) | ಸಂಚಿತ ಆವೃತ್ತಿ (cf) | |---|---|---| | 0-100 | 2 | 2 | | 100-200 | 5 | 7 | | 200-300 | x | 7+x | | 300-400 | 12 | 19+x | | 400-500 | 17 | 36+x | | 500-600 | 20 | 56+x | | 600-700 | y | 56+x+y | | 700-800 | 9 | 65+x+y | | 800-900 | 7 | 72+x+y | | 900-1000 | 4 | 76+x+y |"
+  },
+  "source_example_id": "DATA-STAT-2_example_5",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸಂಚಿತ ಆವೃತ್ತಿ (cf) ಕೋಷ್ಟಕವನ್ನು ರಚಿಸುವುದು.",
+      "justification": "ಮಧ್ಯಾಂಕ ಮತ್ತು ಒಟ್ಟು ಆವೃತ್ತಿಯ ಸಂಬಂಧವನ್ನು ಬಳಸಲು cf ಕೋಷ್ಟಕ ಬೇಕು."
+    },
+    {
+      "step": 2,
+      "action_display": "$76 + x + y = 100 \\implies x + y = 24 \\quad --- (1)$",
+      "justification": "ಕೊನೆಯ ಸಂಚಿತ ಆವೃತ್ತಿ = ಒಟ್ಟು ಆವೃತ್ತಿ (N)."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "DATA-STAT-2_concept_4_chunk_017"
+}

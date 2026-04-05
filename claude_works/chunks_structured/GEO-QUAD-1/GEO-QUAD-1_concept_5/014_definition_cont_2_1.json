@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಚೌಕ: ಒಂದು ವಿಶೇಷ ಆಯತ",
+  "script": "ಚೌಕವನ್ನು ಒಂದು ವಿಶೇಷವಾದ ಆಯತವೆಂದು ಹೇಗೆ ಪರಿಗಣಿಸಬಹುದು ಎಂದು ನೋಡೋಣ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಆಯತದಲ್ಲಿ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ ಮತ್ತು ಎಲ್ಲಾ ಕೋನಗಳು ತೊಂಬತ್ತು ಡಿಗ್ರಿ. ಈಗ, ಒಂದು ಆಯತವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಅದರ ಪಾರ್ಶ್ವ ಬಾಹುಗಳು, ಅಂದರೆ ಉದ್ದ ಮತ್ತು ಅಗಲ, ಸಮವಾದರೆ ಏನಾಗುತ್ತದೆ? ಆಗ ಅದು ಚೌಕವಾಗಿ ಬದಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಒಂದು ಆಯತದಲ್ಲಿ ಪಾರ್ಶ್ವ ಬಾಹುಗಳು ಸಮವಾದರೆ, ಅದು ಚೌಕವಾಗುತ್ತದೆ. ಈ ಕಾರಣದಿಂದ, ಪ್ರತಿಯೊಂದು ಚೌಕವೂ ಒಂದು ಆಯತವಾಗಿದೆ ಎಂದು ನಾವು ಹೇಳಬಹುದು. ಆದರೆ ಇದರ ವಿಲೋಮ ಸತ್ಯವಲ್ಲ, ಅಂದರೆ ಎಲ್ಲಾ ಆಯತಗಳು ಚೌಕಗಳಲ್ಲ.",
+  "script_display": "ಚೌಕವನ್ನು ಒಂದು ವಿಶೇಷವಾದ ಆಯತವೆಂದು ಹೇಗೆ ಪರಿಗಣಿಸಬಹುದು ಎಂದು ನೋಡೋಣ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಆಯತದಲ್ಲಿ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ ಮತ್ತು ಎಲ್ಲಾ ಕೋನಗಳು $90°$. ಈಗ, ಒಂದು ಆಯತವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಅದರ ಪಾರ್ಶ್ವ ಬಾಹುಗಳು, ಅಂದರೆ ಉದ್ದ ಮತ್ತು ಅಗಲ, ಸಮವಾದರೆ ಏನಾಗುತ್ತದೆ? ಆಗ ಅದು ಚೌಕವಾಗಿ ಬದಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಒಂದು ಆಯತದಲ್ಲಿ ಪಾರ್ಶ್ವ ಬಾಹುಗಳು ಸಮವಾದರೆ, ಅದು ಚೌಕವಾಗುತ್ತದೆ. ಈ ಕಾರಣದಿಂದ, ಪ್ರತಿಯೊಂದು ಚೌಕವೂ ಒಂದು ಆಯತವಾಗಿದೆ ಎಂದು ನಾವು ಹೇಳಬಹುದು. ಆದರೆ ಇದರ ವಿಲೋಮ ಸತ್ಯವಲ್ಲ, ಅಂದರೆ ಎಲ್ಲಾ ಆಯತಗಳು ಚೌಕಗಳಲ್ಲ.",
+  "display_bullets": [
+    "ಒಂದು ಆಯತದಲ್ಲಿ ಪಾರ್ಶ್ವ ಬಾಹುಗಳು ಸಮವಾದರೆ, ಅದು ಚೌಕವಾಗುತ್ತದೆ.",
+    "If the adjacent sides of a rectangle are equal, it becomes a square.",
+    "ಆದ್ದರಿಂದ, ಪ್ರತಿಯೊಂದು ಚೌಕವೂ ಒಂದು ಆಯತವಾಗಿದೆ.",
+    "Therefore, every square is a rectangle."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An animation or sequence of two images. Image 1: A rectangle with length 'l' and width 'w' (where l > w). Image 2: The length 'l' is shown shrinking with an arrow, until l = w, transforming the shape into a square with sides labeled 's'.",
+    "labels": "l, w, s",
+    "mathematical_significance": "Visually demonstrates that a square is a special case of a rectangle where adjacent sides are equal.",
+    "placeholder_note": "Image to be generated showing a rectangle becoming a square."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_5_chunk_014"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಯತದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ",
+  "script": "ಆಯತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವು A ಸಮನಾಗಿರುತ್ತದೆ l ಗುಣಿಸು b. ಇಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಚಿಹ್ನೆಯ ಅರ್ಥವನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, A ಎಂದರೆ ವಿಸ್ತೀರ್ಣ ಅಥವಾ ಏರಿಯಾ. ಎರಡನೆಯದಾಗಿ, l ಎಂದರೆ ಆಯತದ ಉದ್ದ ಅಥವಾ ಲೆಂಥ್. ಮೂರನೆಯದಾಗಿ, b ಎಂದರೆ ಆಯತದ ಅಗಲ ಅಥವಾ ಬ್ರೆಡ್ತ್. ಕೊನೆಯದಾಗಿ, ನೆನಪಿಡಿ, ವಿಸ್ತೀರ್ಣದ ಘಟಕವು ಯಾವಾಗಲೂ ಚದರ ಮಾನಗಳಲ್ಲಿ ಇರುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ಚದರ ಸೆಂಟಿಮೀಟರ್ ಅಥವಾ ಚದರ ಮೀಟರ್. ಅಂದರೆ, ಉದ್ದ ಮತ್ತು ಅಗಲವನ್ನು ಗುಣಿಸಿದಾಗ, ಅವುಗಳ ಘಟಕಗಳೂ ಗುಣಿಸಲ್ಪಡುತ್ತವೆ.",
+  "script_display": "ಆಯತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವು $A = l \\times b$ ಆಗಿದೆ. ಇಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಚಿಹ್ನೆಯ ಅರ್ಥವನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, $A$ ಎಂದರೆ ವಿಸ್ತೀರ್ಣ (Area). ಎರಡನೆಯದಾಗಿ, $l$ ಎಂದರೆ ಆಯತದ ಉದ್ದ (length). ಮೂರನೆಯದಾಗಿ, $b$ ಎಂದರೆ ಆಯತದ ಅಗಲ (breadth). ಕೊನೆಯದಾಗಿ, ನೆನಪಿಡಿ, ವಿಸ್ತೀರ್ಣದ ಘಟಕವು ಯಾವಾಗಲೂ ಚದರ ಮಾನಗಳಲ್ಲಿ (square units) ಇರುತ್ತದೆ, ಉದಾಹರಣೆಗೆ $cm^2$ ಅಥವಾ $m^2$. ಅಂದರೆ, ಉದ್ದ ಮತ್ತು ಅಗಲವನ್ನು ಗುಣಿಸಿದಾಗ, ಅವುಗಳ ಘಟಕಗಳೂ ಗುಣಿಸಲ್ಪಡುತ್ತವೆ.",
+  "display_bullets": [
+    "$A$ = ವಿಸ್ತೀರ್ಣ (Area)",
+    "$l$ = ಉದ್ದ (Length)",
+    "$b$ = ಅಗಲ (Breadth)",
+    "ಘಟಕ (Unit): ಚದರ ಮಾನಗಳು (Square units), ಉದಾ. $cm^2, m^2$"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_formula_top",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "A = l \\times b",
+    "placeholder_note": "Display the formula for the area of a rectangle."
+  },
+  "chunk_id": "MEN-AREA-1_concept_2_chunk_012"
+}

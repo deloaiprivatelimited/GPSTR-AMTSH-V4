@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಭಾಗ (iii)",
+  "script": "ಮುಂದಿನ ಹೇಳಿಕೆ, 'm' ನ ನಾಲ್ಕನೆಯ ಒಂದು, 7 ಕ್ಕಿಂತ 3 ಹೆಚ್ಚಿದೆ. ಮೊದಲು, 'm' ನ ನಾಲ್ಕನೆಯ ಒಂದನ್ನು ಬರೆಯೋಣ. ಅದು m ಭಾಗಿಸು 4. ಈಗ, ಈ m ಬೈ 4 ಎಂಬುದು 7 ಕ್ಕಿಂತ 3 ಹೆಚ್ಚಿದೆ. ಇದರರ್ಥ, m ಬೈ 4 ರಿಂದ 7 ನ್ನು ಕಳೆದರೆ ನಮಗೆ 3 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಸಮೀಕರಣವು m ಬೈ 4 ಮೈನಸ್ 7 ಈಕ್ವಲ್ಸ್ 3.",
+  "script_display": "ಮುಂದಿನ ಹೇಳಿಕೆ: 'm' ನ ನಾಲ್ಕನೆಯ ಒಂದು, 7 ಕ್ಕಿಂತ 3 ಹೆಚ್ಚಿದೆ. ಮೊದಲು, 'm' ನ ನಾಲ್ಕನೆಯ ಒಂದನ್ನು ಬರೆಯೋಣ. ಅದು $\\frac{m}{4}$. ಈಗ, ಈ $\\frac{m}{4}$ ಎಂಬುದು 7 ಕ್ಕಿಂತ 3 ಹೆಚ್ಚಿದೆ. ಇದರರ್ಥ, $\\frac{m}{4}$ ರಿಂದ 7 ನ್ನು ಕಳೆದರೆ ನಮಗೆ 3 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಸಮೀಕರಣವು $\\frac{m}{4} - 7 = 3$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "ALG-EQ1-1_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "'m' ನ ನಾಲ್ಕನೆಯ ಒಂದು: $\\frac{m}{4}$",
+      "justification": "ನಾಲ್ಕನೆಯ ಒಂದು ಎಂದರೆ 4 ರಿಂದ ಭಾಗಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಸಮೀಕರಣ: $\\frac{m}{4} - 7 = 3$",
+      "justification": "$\\frac{m}{4}$ ಮತ್ತು 7 ರ ವ್ಯತ್ಯಾಸ 3 ಆಗಿದೆ."
+    }
+  ],
+  "chunk_id": "ALG-EQ1-1_concept_2_chunk_006"
+}

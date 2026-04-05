@@ -1,0 +1,30 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಮುಖ ತೀರ್ಮಾನ",
+  "script": "ಇದರಿಂದ ನಾವು ಒಂದು ಪ್ರಮುಖ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು. ಲೋಹೀಯ ಆಕ್ಸೈಡ್‌ಗಳು ಆಮ್ಲಗಳೊಂದಿಗೆ ವರ್ತಿಸಿ ಲವಣ ಮತ್ತು ನೀರನ್ನು ನೀಡುವುದರಿಂದ, ಅವುಗಳನ್ನು ಪ್ರತ್ಯಾಮ್ಲೀಯ ಆಕ್ಸೈಡ್‌ಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯಂತೆಯೇ ಇದೆ.",
+  "script_display": "ಇದರಿಂದ ನಾವು ಒಂದು ಪ್ರಮುಖ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು. ಲೋಹೀಯ ಆಕ್ಸೈಡ್‌ಗಳು ಆಮ್ಲಗಳೊಂದಿಗೆ ವರ್ತಿಸಿ ಲವಣ ಮತ್ತು ನೀರನ್ನು ನೀಡುವುದರಿಂದ, ಅವುಗಳನ್ನು 'ಪ್ರತ್ಯಾಮ್ಲೀಯ ಆಕ್ಸೈಡ್‌ಗಳು' (Basic Oxides) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಲೋಹೀಯ ಆಕ್ಸೈಡ್‌ಗಳು ಪ್ರತ್ಯಾಮ್ಲೀಯ ಆಕ್ಸೈಡ್‌ಗಳು (Basic Oxides) ಆಗಿವೆ.",
+    "ಆಮ್ಲ + ಲೋಹೀಯ ಆಕ್ಸೈಡ್ → ಲವಣ + ನೀರು (ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯಂತೆ)"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_033"
+}

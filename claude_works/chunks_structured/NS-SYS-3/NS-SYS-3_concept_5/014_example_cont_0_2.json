@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ಒಂದರ ಕೆಳಗೆ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಎರಡರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿದಾಗ, ನಮಗೆ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಎರಡು ಭಾಗಿಸು ಎರಡು ಎಂಬ ಉತ್ತರ ಸಿಗುತ್ತದೆ. ಗಮನಿಸಿ, ಛೇದವು ಈಗ ಎರಡು, ಇದು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ನಾವು ಯಶಸ್ವಿಯಾಗಿ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿದ್ದೇವೆ.",
+  "script_display": "ಹೀಗೆ, $\\frac{1}{\\sqrt{2}}$ ರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿದಾಗ, ನಮಗೆ $\\frac{\\sqrt{2}}{2}$ ಎಂಬ ಉತ್ತರ ಸಿಗುತ್ತದೆ. ಗಮನಿಸಿ, ಛೇದವು ಈಗ $2$, ಇದು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ನಾವು ಯಶಸ್ವಿಯಾಗಿ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "$\\frac{1}{\\sqrt{2}}$ ರ ಅಕರಣೀಕರಿಸಿದ ರೂಪ $\\frac{\\sqrt{2}}{2}$ ಆಗಿದೆ.",
+    "ಛೇದವು $\\sqrt{2}$ (ಅಭಾಗಲಬ್ಧ) ದಿಂದ $2$ (ಭಾಗಲಬ್ಧ) ಕ್ಕೆ ಬದಲಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{\\sqrt{2}}{2}",
+    "placeholder_note": "Final Answer"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "NS-SYS-3_example_16",
+  "final_answer": "\\frac{\\sqrt{2}}{2}",
+  "final_answer_display": "$\\frac{\\sqrt{2}}{2}$",
+  "chunk_id": "NS-SYS-3_concept_5_chunk_014"
+}

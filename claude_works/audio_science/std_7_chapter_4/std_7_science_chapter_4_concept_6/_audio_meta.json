@@ -1,0 +1,59 @@
+{
+  "module_id": "std_7_science_chapter_4_concept_6",
+  "chapter_code": "std_7_chapter_4",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 4,
+  "ok_count": 4,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:55:14",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "ad33cfec2dd0db3b5c129f9e621cf2f4",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 20.891,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "slide",
+      "script_words": 33,
+      "generated_at": "2026-04-02 13:54:46"
+    },
+    "004_recap_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "af9c08fd6ffe8b36f35de9e22cb736e7",
+      "wav_file": "004_recap_0.wav",
+      "duration": 33.651,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:54:58"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "ba25711ea7e6c9a5526820155a1b49eb",
+      "wav_file": "003_property_0.wav",
+      "duration": 58.811,
+      "slide_title": "ಜೈವಿಕ ವ್ಯವಸ್ಥೆಗಳಲ್ಲಿನ ಪ್ರಮುಖ ಆಮ್ಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 79,
+      "generated_at": "2026-04-02 13:55:08"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "92ea78c974e0762f4b85499ab75ea008",
+      "wav_file": "001_intro_0.wav",
+      "duration": 58.371,
+      "slide_title": "ಪರಿಚಯ: ಜೈವಿಕ ವ್ಯವಸ್ಥೆಗಳಲ್ಲಿ ಆಮ್ಲಗಳು",
+      "type": "slide",
+      "script_words": 92,
+      "generated_at": "2026-04-02 13:55:14"
+    }
+  }
+}

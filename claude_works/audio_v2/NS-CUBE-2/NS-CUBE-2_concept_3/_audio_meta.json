@@ -1,0 +1,125 @@
+{
+  "module_id": "NS-CUBE-2_concept_3",
+  "merge_code": "NS-CUBE-2",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 16:43:09",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "6a4e24ebb2545304cb5f3296334769d4",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 36.011,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 44,
+      "generated_at": "2026-03-30 16:41:47"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "5626a3f76e19b52995be37418d0c72e3",
+      "wav_file": "003_property_0.wav",
+      "duration": 39.371,
+      "slide_title": "ಪೂರ್ಣ ಘನದ ನಿಯಮ",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-03-30 16:41:50"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "97997f31487a06936580b6cb1bd83299",
+      "wav_file": "001_intro_0.wav",
+      "duration": 65.851,
+      "slide_title": "ಪೂರ್ಣ ಘನಗಳ ಪರಿಶೀಲನೆ ಮತ್ತು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ",
+      "type": "intro",
+      "script_words": 75,
+      "generated_at": "2026-03-30 16:42:06"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "49ffc91ed83da6c926cc4613690f801c",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 55.811,
+      "slide_title": "ಉದಾಹರಣೆ: 500 ಪೂರ್ಣ ಘನವೇ?",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-03-30 16:42:21"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "f092828f701cdc452298c2dd9cfc2684",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 61.691,
+      "slide_title": "ಉದಾಹರಣೆ: 216 ಪೂರ್ಣ ಘನವೇ?",
+      "type": "concept_explanation",
+      "script_words": 82,
+      "generated_at": "2026-03-30 16:42:26"
+    },
+    "009_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "dee6628f53b6a49e84064cbce56d3961",
+      "wav_file": "009_example_cont_0_3.wav",
+      "duration": 19.731,
+      "slide_title": "ತೀರ್ಮಾನ",
+      "type": "worked_example",
+      "script_words": 25,
+      "generated_at": "2026-03-30 16:42:40"
+    },
+    "008_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "6a552ab9b604bc4441c503da0cec5c08",
+      "wav_file": "008_example_cont_0_2.wav",
+      "duration": 37.011,
+      "slide_title": "ಹಂತ 2 ಮತ್ತು 3: ಗುಂಪು ಮಾಡುವುದು ಮತ್ತು ವಿಶ್ಲೇಷಣೆ",
+      "type": "worked_example",
+      "script_words": 52,
+      "generated_at": "2026-03-30 16:42:51"
+    },
+    "006_example_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "43261edea03ba1acd82e0314fdcfd035",
+      "wav_file": "006_example_0.wav",
+      "duration": 21.211,
+      "slide_title": "ಉದಾಹರಣೆ: 243 ಪೂರ್ಣ ಘನವೇ?",
+      "type": "worked_example",
+      "script_words": 28,
+      "generated_at": "2026-03-30 16:42:59"
+    },
+    "007_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "6c3ae1299998cfaf63ce43ab1dc247ad",
+      "wav_file": "007_example_cont_0_1.wav",
+      "duration": 61.331,
+      "slide_title": "ಹಂತ 1: ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ",
+      "type": "worked_example",
+      "script_words": 78,
+      "generated_at": "2026-03-30 16:43:09"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "fbf1f9ab8295fa28a6ab13b73c48a42f",
+      "wav_file": "010_recap_0.wav",
+      "duration": 40.091,
+      "slide_title": "ಸಾರಾಂಶ: ಪೂರ್ಣ ಘನಗಳ ಪರೀಕ್ಷೆ",
+      "type": "recap",
+      "script_words": 55,
+      "generated_at": "2026-03-30 16:43:09"
+    }
+  }
+}

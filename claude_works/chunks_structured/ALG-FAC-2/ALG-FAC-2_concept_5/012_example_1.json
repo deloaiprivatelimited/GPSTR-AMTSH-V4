@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: y² - 7y + 12 ಅನ್ನು ಅಪವರ್ತಿಸಿ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು y ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ 7y ಪ್ಲಸ್ 12 ಎಂಬ ತ್ರಿಪದವನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಇದು x ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ p x ಪ್ಲಸ್ q ರೂಪದಲ್ಲಿದೆ. ಇಲ್ಲಿ, ಗುಣಲಬ್ಧ q ಎಂಬುದು 12 ಮತ್ತು ಮೊತ್ತ p ಎಂಬುದು ಮೈನಸ್ 7 ಆಗಿದೆ. ನಮ್ಮ ಗುರಿ, ಗುಣಲಬ್ಧ 12 ಮತ್ತು ಮೊತ್ತ ಮೈನಸ್ 7 ಆಗಿರುವ ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $y^2 - 7y + 12$ ಎಂಬ ತ್ರಿಪದವನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಇದು $x^2 + px + q$ ರೂಪದಲ್ಲಿದೆ. ಇಲ್ಲಿ, ಗುಣಲಬ್ಧ $q=12$ ಮತ್ತು ಮೊತ್ತ $p=-7$ ಆಗಿದೆ. ನಮ್ಮ ಗುರಿ, ಗುಣಲಬ್ಧ 12 ಮತ್ತು ಮೊತ್ತ -7 ಆಗಿರುವ ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $y^2 - 7y + 12$ ಅನ್ನು ಅಪವರ್ತಿಸಿ.",
+    "ಇದು $x^2 + px + q$ ರೂಪದಲ್ಲಿದೆ.",
+    "ಗುಣಲಬ್ಧ $q = 12$ ಮತ್ತು ಮೊತ್ತ $p = -7$ ಆಗಿರುವ ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "y^2 - 7y + 12",
+    "placeholder_note": "Problem statement"
+  },
+  "source_example_id": "ALG-FAC-2_example_11",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-FAC-2_concept_5_chunk_012"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಲೆಕ್ಕಾಚಾರದ ಹಂತಗಳು",
+  "script": "ಈಗ ಲೆಕ್ಕಾಚಾರವನ್ನು ಮಾಡೋಣ. ಮೊದಲನೇ ಹಂತ, ನಾವು ಬಳಸಬೇಕಾದ ಸೂತ್ರವನ್ನು ಬರೆಯುವುದು, ಅದು H equals I squared R t. ಎರಡನೇ ಹಂತ, ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸುವುದು. ಅಂದರೆ, H equals 4 ಸ್ಕ್ವೇರ್ಡ್ ಇಂಟು 10 ಇಂಟು 120. ಮೂರನೇ ಹಂತ, ಇದನ್ನು ಸರಳೀಕರಿಸುವುದು. 4 ರ ವರ್ಗ 16. ಹಾಗಾಗಿ, H equals 16 ಇಂಟು 10 ಇಂಟು 120. ಇವುಗಳನ್ನು ಗುಣಿಸಿದಾಗ, ನಮಗೆ 19200 ಜೌಲ್‌ಗಳು ಸಿಗುತ್ತದೆ. ಹೀಗಾಗಿ, ಆ ಹೀಟರ್‌ನಲ್ಲಿ 19200 ಜೌಲ್‌ಗಳಷ್ಟು ಉಷ್ಣ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ.",
+  "script_display": "ಲೆಕ್ಕಾಚಾರದ ಹಂತಗಳು:",
+  "display_bullets": [
+    "ಹಂತ 1: ಸೂತ್ರವನ್ನು ಬರೆಯಿರಿ. H = I²Rt",
+    "ಹಂತ 2: ದತ್ತಾಂಶಗಳನ್ನು ಆದೇಶಿಸಿ. H = (4)² × 10 × 120",
+    "ಹಂತ 3: ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ. H = 16 × 10 × 120",
+    "H = 19200 J"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An image of an electric heater glowing red, visually representing the heat being generated.",
+    "labels": "",
+    "scientific_significance": "Provides a real-world context for the numerical problem being solved.",
+    "placeholder_note": "Image of a glowing electric heater."
+  },
+  "chunk_id": "std_10_chapter_11_concept_7_chunk_008"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ",
+  "script": "ಈಗ ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ದತ್ತಾಂಶವನ್ನು ವಿಶ್ಲೇಷಿಸೋಣ. l ರೇಖೆಯು AB ಯ ಲಂಬಾರ್ಧಕವಾಗಿರುವುದರಿಂದ, ಅದು AB ಯನ್ನು ಅದರ ಮಧ್ಯಬಿಂದುವಾದ C ಯಲ್ಲಿ ಸಂಧಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, AC ಯು BC ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಹಾಗೂ, ಅದು AB ಗೆ ಲಂಬವಾಗಿರುವುದರಿಂದ, ಕೋನ PCA ಮತ್ತು ಕೋನ PCB ಎರಡೂ 90 ಡಿಗ್ರಿಗಳಿಗೆ ಸಮ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು PA ಮತ್ತು PB ಬಾಹುಗಳನ್ನು ಹೋಲಿಸಬೇಕಾಗಿರುವುದರಿಂದ, ನಾವು ತ್ರಿಭुಜ PCA ಮತ್ತು ತ್ರಿಭುಜ PCB ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ.",
+  "script_display": "ಈಗ ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ದತ್ತಾಂಶವನ್ನು ವಿಶ್ಲೇಷಿಸೋಣ. $l$ ರೇಖೆಯು $AB$ ಯ ಲಂಬಾರ್ಧಕವಾಗಿರುವುದರಿಂದ, ಅದು $AB$ ಯನ್ನು ಅದರ ಮಧ್ಯಬಿಂದುವಾದ C ಯಲ್ಲಿ ಸಂಧಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, $AC = BC$. ಹಾಗೂ, ಅದು $AB$ ಗೆ ಲಂಬವಾಗಿರುವುದರಿಂದ, $\\angle PCA = \\angle PCB = 90^\\circ$. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು $PA$ ಮತ್ತು $PB$ ಬಾಹುಗಳನ್ನು ಹೋಲಿಸಬೇಕಾಗಿರುವುದರಿಂದ, ನಾವು $\\triangle PCA$ ಮತ್ತು $\\triangle PCB$ ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$l$ ರೇಖೆಯು $AB$ ಯ ಲಂಬಾರ್ಧಕವಾದ್ದರಿಂದ, $AC = BC$ ಮತ್ತು $\\angle PCA = \\angle PCB = 90^\\circ$.",
+      "justification": "ದತ್ತ (ಲಂಬಾರ್ಧಕದ ವ್ಯಾಖ್ಯೆ)"
+    },
+    {
+      "step": 2,
+      "action_display": "$\\triangle PCA$ ಮತ್ತು $\\triangle PCB$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+      "justification": "$PA$ ಮತ್ತು $PB$ ಬಾಹುಗಳನ್ನು ಹೋಲಿಸಲು ಈ ತ್ರಿಭುಜಗಳನ್ನು ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ."
+    }
+  ],
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_052"
+}

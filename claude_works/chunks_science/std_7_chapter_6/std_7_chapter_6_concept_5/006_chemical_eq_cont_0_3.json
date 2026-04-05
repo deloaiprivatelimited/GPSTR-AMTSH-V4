@@ -1,0 +1,30 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಪನ್ನಗಳು (Products)",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ ಎರಡು ಉತ್ಪನ್ನಗಳು ಉಂಟಾಗುತ್ತವೆ. ಮೊದಲನೆಯದು, ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್. ಇದು ಬಿಳಿಯ ಬಣ್ಣದ ಘನ ವಸ್ತುವಾಗಿದ್ದು, ನೀರಿನಲ್ಲಿ ಕರಗುವುದಿಲ್ಲ. ಇದನ್ನು ಬಿಳಿಯ ಒತ್ತರ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಎರಡನೆಯ ಉತ್ಪನ್ನವೆಂದರೆ ನೀರು.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ ಎರಡು ಉತ್ಪನ್ನಗಳು ಉಂಟಾಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್ (CaCO₃): ಬಿಳಿಯ ಬಣ್ಣದ, ನೀರಿನಲ್ಲಿ ಕರಗದ ಘನ (ಒತ್ತರ).",
+    "ನೀರು (H₂O): ದ್ರವ ರೂಪದಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_A",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_7_chapter_6_concept_5_chunk_006"
+}

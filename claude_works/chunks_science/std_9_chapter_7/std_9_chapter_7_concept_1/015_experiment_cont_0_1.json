@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಗತ್ಯವಿರುವ ಸಾಮಗ್ರಿಗಳು ಮತ್ತು ಸಿದ್ಧತೆ",
+  "script": "ಈ ಚಟುವಟಿಕೆಗಾಗಿ ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಉದ್ದವಾದ ಹಗ್ಗ ಅಥವಾ ಮೀಟರ್ ಅಳತೆ ಪಟ್ಟಿ. ಇದು ದೂರವನ್ನು ನಿಖರವಾಗಿ ಅಳೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಚಟುವಟಿಕೆ ನಡೆಸಲು ಒಂದು ವಿಶಾಲವಾದ ಸ್ಥಳ, ಉದಾಹರಣೆಗೆ ನಮ್ಮ ಶಾಲೆಯ ಬಾಸ್ಕೆಟ್‌ಬಾಲ್ ಅಂಕಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಾವು ಬಾಸ್ಕೆಟ್‌ಬಾಲ್ ಅಂಕಣದ ಒಂದು ಮೂಲೆಯನ್ನು ಆರಂಭಿಕ ಬಿಂದು 'A' ಎಂದು ಗುರುತಿಸೋಣ. ನಾವು ನಮ್ಮ ಚಲನೆಯನ್ನು ಇಲ್ಲಿಂದಲೇ ಪ್ರಾರಂಭಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈ ಚಟುವಟಿಕೆಗಾಗಿ ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಉದ್ದವಾದ ಹಗ್ಗ ಅಥವಾ ಮೀಟರ್ ಅಳತೆ ಪಟ್ಟಿ. ಇದು ದೂರವನ್ನು ನಿಖರವಾಗಿ ಅಳೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಚಟುವಟಿಕೆ ನಡೆಸಲು ಒಂದು ವಿಶಾಲವಾದ ಸ್ಥಳ, ಉದಾಹರಣೆಗೆ ನಮ್ಮ ಶಾಲೆಯ ಬಾಸ್ಕೆಟ್‌ಬಾಲ್ ಅಂಕಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಾವು ಬಾಸ್ಕೆಟ್‌ಬಾಲ್ ಅಂಕಣದ ಒಂದು ಮೂಲೆಯನ್ನು ಆರಂಭಿಕ ಬಿಂದು 'A' ಎಂದು ಗುರುತಿಸೋಣ. ನಾವು ನಮ್ಮ ಚಲನೆಯನ್ನು ಇಲ್ಲಿಂದಲೇ ಪ್ರಾರಂಭಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಅಗತ್ಯವಿರುವ ಸಾಮಗ್ರಿಗಳು: ಉದ್ದವಾದ ಹಗ್ಗ, ಮೀಟರ್ ಅಳತೆ ಪಟ್ಟಿ.",
+    "ಸ್ಥಳ: ಶಾಲೆಯ ಬಾಸ್ಕೆಟ್‌ಬಾಲ್ ಅಂಕಣ.",
+    "ಸಿದ್ಧತೆ: ಅಂಕಣದ ಒಂದು ಮೂಲೆಯನ್ನು ಆರಂಭಿಕ ಬಿಂದು 'A' ಎಂದು ಗುರುತಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a rectangular basketball court. One corner is labeled 'A'. The adjacent corners are labeled 'B' and 'D'. The opposite corner is labeled 'C'.",
+    "labels": "A, B, C, D, ಬಾಸ್ಕೆಟ್‌ಬಾಲ್ ಅಂಕಣ",
+    "scientific_significance": "Represents the field of motion for the experiment, defining the starting point and the path.",
+    "placeholder_note": "Image to be generated: A simple rectangle representing a basketball court with corners labeled A, B, C, and D in order."
+  },
+  "chunk_id": "std_9_chapter_7_concept_1_chunk_015"
+}

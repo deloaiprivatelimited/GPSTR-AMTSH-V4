@@ -1,0 +1,33 @@
+{
+  "type": "intro",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ಸಸ್ಯದ ವಿವಿಧ ಭಾಗಗಳು ಮತ್ತು ಅವುಗಳ ಕಾರ್ಯಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿದಿರುವುದು ಒಳ್ಳೆಯದು. ಹಿಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಈ ವಿಷಯವನ್ನು ಚರ್ಚಿಸಿದ್ದೇವೆ. ಒಂದು ವೇಳೆ ನಿಮಗೆ ನೆನಪಿಲ್ಲದಿದ್ದರೆ, ಆ ಪಾಠವನ್ನು ಒಮ್ಮೆ ನೋಡಿ ಬರುವುದು ಉತ್ತಮ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ಈ ಕೆಳಗಿನ ವಿಷಯದ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿದಿರುವುದು ಒಳ್ಳೆಯದು. ಹಿಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಇದನ್ನು ಚರ್ಚಿಸಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ಸಸ್ಯದ ವಿವಿಧ ಭಾಗಗಳು ಮತ್ತು ಅವುಗಳ ಕಾರ್ಯಗಳು"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard_bullets",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "prerequisites",
+  "prerequisites_display": [
+    "ಸಸ್ಯದ ವಿವಿಧ ಭಾಗಗಳು ಮತ್ತು ಅವುಗಳ ಕಾರ್ಯಗಳು"
+  ],
+  "chunk_id": "std_6_chapter_10_concept_2_chunk_002"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಈಗ ನಾವು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯ ಒಂದು ಪ್ರಮುಖ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದ ಜಲೀಯ ದ್ರಾವಣವು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್‌ನ ಜಲೀಯ ದ್ರಾವಣದೊಂದಿಗೆ ವರ್ತಿಸುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ಜಲೀಯ ದ್ರಾವಣ ಮತ್ತು ನೀರು ಉತ್ಪನ್ನಗಳಾಗಿ ದೊರೆಯುತ್ತವೆ.",
+  "script_display": "ಈಗ ನಾವು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯ ಒಂದು ಪ್ರಮುಖ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದ (HCl) ಜಲೀಯ ದ್ರಾವಣವು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್‌ನ (NaOH) ಜಲೀಯ ದ್ರಾವಣದೊಂದಿಗೆ ವರ್ತಿಸುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್‌ನ (NaCl) ಜಲೀಯ ದ್ರಾವಣ ಮತ್ತು ನೀರು (H₂O) ಉತ್ಪನ್ನಗಳಾಗಿ ದೊರೆಯುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "HCl(aq) + NaOH(aq) \\rightarrow NaCl(aq) + H_2O(l)",
+    "placeholder_note": "A large, centered chemical equation showing the reaction between Hydrochloric acid and Sodium hydroxide."
+  },
+  "sub_type": "chemical_equation",
+  "difficulty": "medium",
+  "source_example_id": "std_10_ch_2_eq_2",
+  "chunk_id": "std_10_chapter_2_concept_4_chunk_011"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಗೊಬ್ಬರ ತಯಾರಿಕೆ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಾವಯವ ಗೊಬ್ಬರವನ್ನು ಹೇಗೆ ತಯಾರಿಸಲಾಗುತ್ತದೆ? ಸಾಮಾನ್ಯವಾಗಿ, ರೈತರು ಒಂದು ದೊಡ್ಡ ಗುಂಡಿಯಲ್ಲಿ ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ತ್ಯಾಜ್ಯವನ್ನು ಸಂಗ್ರಹಿಸುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, ಕೃಷಿ ತ್ಯಾಜ್ಯ, ಸಗಣಿ, ಮತ್ತು ಒಣಗಿದ ಎಲೆಗಳನ್ನು ಅದರಲ್ಲಿ ಹಾಕುತ್ತಾರೆ. ನಂತರ, ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ಈ ತ್ಯಾಜ್ಯವನ್ನು ವಿಘಟಿಸುತ್ತವೆ, ಅಂದರೆ ಅದನ್ನು ಕೊಳೆಯುವಂತೆ ಮಾಡುತ್ತವೆ. ಈ ರೀತಿ ಸಂಪೂರ್ಣವಾಗಿ ವಿಘಟನೆಗೊಂಡ ವಸ್ತುವನ್ನು ಸಾವಯವ ಗೊಬ್ಬರವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. ಇದನ್ನು ನಂತರ ಹೊಲಗಳಿಗೆ ಪೋಷಕಾಂಶವಾಗಿ ಹಾಕುತ್ತಾರೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಾವಯವ ಗೊಬ್ಬರವನ್ನು ಹೇಗೆ ತಯಾರಿಸಲಾಗುತ್ತದೆ? ಸಾಮಾನ್ಯವಾಗಿ, ರೈತರು ಒಂದು ದೊಡ್ಡ ಗುಂಡಿಯಲ್ಲಿ ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ತ್ಯಾಜ್ಯವನ್ನು ಸಂಗ್ರಹಿಸುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, ಕೃಷಿ ತ್ಯಾಜ್ಯ, ಸಗಣಿ, ಮತ್ತು ಒಣಗಿದ ಎಲೆಗಳನ್ನು ಅದರಲ್ಲಿ ಹಾಕುತ್ತಾರೆ. ನಂತರ, ಸೂಕ್ಷ್ಮಜೀವಿಗಳು (Microorganisms) ಈ ತ್ಯಾಜ್ಯವನ್ನು ವಿಘಟಿಸುತ್ತವೆ (decompose). ಈ ರೀತಿ ಸಂಪೂರ್ಣವಾಗಿ ವಿಘಟನೆಗೊಂಡ ವಸ್ತುವನ್ನು ಸಾವಯವ ಗೊಬ್ಬರವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. ಇದನ್ನು ನಂತರ ಹೊಲಗಳಿಗೆ ಪೋಷಕಾಂಶವಾಗಿ ಹಾಕುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ರೈತರು ಗುಂಡಿಯಲ್ಲಿ ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ತ್ಯಾಜ್ಯವನ್ನು ಸಂಗ್ರಹಿಸುತ್ತಾರೆ.",
+    "ಸೂಕ್ಷ್ಮಜೀವಿಗಳು (Microorganisms) ಈ ತ್ಯಾಜ್ಯವನ್ನು ವಿಘಟಿಸುತ್ತವೆ.",
+    "ವಿಘಟನೆಗೊಂಡ ವಸ್ತುವನ್ನು ಸಾವಯವ ಗೊಬ್ಬರವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple three-step diagram showing compost making. Step 1: A pit being filled with farm waste, leaves, and cow dung. Step 2: An arrow indicating time, with labels 'Microorganisms' and 'Decomposition'. Step 3: The pit now filled with dark, nutrient-rich compost.",
+    "labels": "ತ್ಯಾಜ್ಯ ಸಂಗ್ರಹಣೆ, ವಿಘಟನೆ, ಸಿದ್ಧ ಗೊಬ್ಬರ",
+    "scientific_significance": "Illustrates the natural process of decomposition that converts organic waste into manure, a key concept in organic farming.",
+    "placeholder_note": "Image to be generated showing the composting process in a pit."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_1_concept_4_chunk_004"
+}

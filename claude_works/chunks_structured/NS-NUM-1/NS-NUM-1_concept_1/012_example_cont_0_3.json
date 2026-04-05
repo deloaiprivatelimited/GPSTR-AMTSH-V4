@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಪರಿಶೀಲನೆಯ ಪ್ರಕಾರ, 626 ಒಂದು ಸೂಪರ್ ಸೆಲ್ ಆಗಿದೆ. ಏಕೆಂದರೆ ಅದು ಅದರ ಪಕ್ಕದ ಎರಡೂ ಸಂಖ್ಯೆಗಳಿಗಿಂತ ದೊಡ್ಡದಾಗಿದೆ. ಆದರೆ, 200 ಒಂದು ಸೂಪರ್ ಸೆಲ್ ಅಲ್ಲ. ಏಕೆಂದರೆ ಅದು ಅದರ ಪಕ್ಕದ ಸಂಖ್ಯೆಗಿಂತ ಚಿಕ್ಕದಾಗಿದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಪರಿಶೀಲನೆಯ ಪ್ರಕಾರ, 626 ಒಂದು ಸೂಪರ್ ಸೆಲ್ ಆಗಿದೆ. ಏಕೆಂದರೆ ಅದು ಅದರ ಪಕ್ಕದ ಎರಡೂ ಸಂಖ್ಯೆಗಳಿಗಿಂತ ದೊಡ್ಡದಾಗಿದೆ. ಆದರೆ, 200 ಒಂದು ಸೂಪರ್ ಸೆಲ್ ಅಲ್ಲ. ಏಕೆಂದರೆ ಅದು ಅದರ ಪಕ್ಕದ ಸಂಖ್ಯೆಗಿಂತ ಚಿಕ್ಕದಾಗಿದೆ.",
+  "display_bullets": [
+    "626 ಒಂದು ಸೂಪರ್ ಸೆಲ್ ಆಗಿದೆ.",
+    "200 ಒಂದು ಸೂಪರ್ ಸೆಲ್ ಅಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "NS-NUM-1_example_1",
+  "final_answer": "626 ಒಂದು ಸೂಪರ್ ಸೆಲ್ ಆಗಿದೆ, ಆದರೆ 200 ಸೂಪರ್ ಸೆಲ್ ಅಲ್ಲ.",
+  "final_answer_display": "626 ಒಂದು ಸೂಪರ್ ಸೆಲ್ ಆಗಿದೆ, ಆದರೆ 200 ಸೂಪರ್ ಸೆಲ್ ಅಲ್ಲ.",
+  "chunk_id": "NS-NUM-1_concept_1_chunk_012"
+}

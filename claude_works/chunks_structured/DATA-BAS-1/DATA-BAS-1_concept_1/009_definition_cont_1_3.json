@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಇನ್ನೊಂದು ಉದಾಹರಣೆ",
+  "script": "ಪರಿಕಲ್ಪನೆಯನ್ನು ಮತ್ತಷ್ಟು ದೃಢಪಡಿಸಿಕೊಳ್ಳಲು, ಅದೇ ದತ್ತಾಂಶವನ್ನು ಬಳಸಿ ಇನ್ನೊಂದು ಸಂಖ್ಯೆಯ ಆವೃತ್ತಿಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಈಗ, ಎಂಟು ಅಂಕದ ಆವೃತ್ತಿ ಎಷ್ಟು ಎಂದು ನೋಡೋಣ. ಪಟ್ಟಿಯಲ್ಲಿ ಎಂಟು ಎಲ್ಲೆಲ್ಲಿದೆ ಎಂದು ಗುರುತಿಸೋಣ. ಮೂರನೇ ಸ್ಥಾನ, ಹತ್ತನೇ ಸ್ಥಾನ, ಹದಿನೈದನೇ ಸ್ಥಾನ, ಮತ್ತು ಇಪ್ಪತ್ತನೇ ಸ್ಥಾನ. ಒಟ್ಟು ನಾಲ್ಕು ಬಾರಿ ಎಂಟು ಬಂದಿದೆ. ಆದ್ದರಿಂದ, ಎಂಟರ ಆವೃತ್ತಿ ನಾಲ್ಕು ಆಗಿದೆ. ಅಂದರೆ, ನಾಲ್ಕು ವಿದ್ಯಾರ್ಥಿಗಳು ಎಂಟು ಅಂಕಗಳನ್ನು ಪಡೆದಿದ್ದಾರೆ. ಇದೇ ರೀತಿ ನಾವು ಪ್ರತಿಯೊಂದು ಅಂಕದ ಆವೃತ್ತಿಯನ್ನೂ ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "script_display": "ಪರಿಕಲ್ಪನೆಯನ್ನು ಮತ್ತಷ್ಟು ದೃಢಪಡಿಸಿಕೊಳ್ಳಲು, ಅದೇ ದತ್ತಾಂಶವನ್ನು ಬಳಸಿ ಇನ್ನೊಂದು ಸಂಖ್ಯೆಯ ಆವೃತ್ತಿಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಈಗ, 8 ಅಂಕದ ಆವೃತ್ತಿ ಎಷ್ಟು ಎಂದು ನೋಡೋಣ. ಪಟ್ಟಿಯಲ್ಲಿ 8 ಎಲ್ಲೆಲ್ಲಿದೆ ಎಂದು ಗುರುತಿಸೋಣ. 3ನೇ ಸ್ಥಾನ, 10ನೇ ಸ್ಥಾನ, 15ನೇ ಸ್ಥಾನ, ಮತ್ತು 20ನೇ ಸ್ಥಾನ. ಒಟ್ಟು 4 ಬಾರಿ 8 ಬಂದಿದೆ. ಆದ್ದರಿಂದ, 8ರ ಆವೃತ್ತಿ 4 ಆಗಿದೆ. ಅಂದರೆ, 4 ವಿದ್ಯಾರ್ಥಿಗಳು 8 ಅಂಕಗಳನ್ನು ಪಡೆದಿದ್ದಾರೆ. ಇದೇ ರೀತಿ ನಾವು ಪ್ರತಿಯೊಂದು ಅಂಕದ ಆವೃತ್ತಿಯನ್ನೂ ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "display_bullets": [
+    "ಅದೇ ದತ್ತಾಂಶವನ್ನು ಬಳಸೋಣ: 7, 5, 8, 6, 7, ..., 8",
+    "ಈಗ, 8 ಅಂಕದ ಆವೃತ್ತಿಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.",
+    "8 ಎಂಬ ಸಂಖ್ಯೆಯನ್ನು ಎಣಿಸಿದಾಗ: 1, 2, 3, 4.",
+    "ಆದ್ದರಿಂದ, 8ರ ಆವೃತ್ತಿ 4 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same list of 20 numbers. This time, each instance of the number '8' is circled or highlighted in a different color than the previous slide to demonstrate finding its frequency.",
+    "labels": "Student marks, Frequency of 8",
+    "mathematical_significance": "Reinforces the concept of frequency by applying the counting method to a different data point (8), showing that different values can have different frequencies.",
+    "placeholder_note": "Image to be generated: Show the list of numbers `7, 5, 8, 6, 7, 9, 5, 7, 4, 8, 6, 7, 10, 5, 8, 9, 7, 6, 5, 8` and circle all the 8s."
+  },
+  "chunk_id": "DATA-BAS-1_concept_1_chunk_009"
+}

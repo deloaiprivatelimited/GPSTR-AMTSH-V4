@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ವರ್ಧನೆ (m) ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಮೂರನೇ ಹಂತದಲ್ಲಿ, ವರ್ಧನೆ ಎಂ ಅನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಮಸೂರಗಳಿಗೆ ವರ್ಧನೆಯ ಸೂತ್ರ ಎಂ ಸಮ ವಿ ಭಾಗಿಸು ಯು. ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, ಎಂ ಸಮ ಮೈನಸ್ ಹತ್ತು ಸೆಂಟಿಮೀಟರ್ ಭಾಗಿಸು ಮೈನಸ್ ಮೂವತ್ತು ಸೆಂಟಿಮೀಟರ್. ಮೈನಸ್ ಚಿಹ್ನೆಗಳು ರದ್ದಾಗುತ್ತವೆ, ಮತ್ತು ನಮಗೆ ಪ್ಲಸ್ ಒಂದರ ಕೆಳಗೆ ಮೂರು ಸಿಗುತ್ತದೆ. ದಶಮಾಂಶದಲ್ಲಿ ಇದು ಸರಿಸುಮಾರು ಪ್ಲಸ್ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಮೂರು ಮೂರು ಆಗುತ್ತದೆ.",
+  "script_display": "ವರ್ಧನೆ (m) ಕಂಡುಹಿಡಿಯುವುದು.",
+  "display_bullets": [
+    "ವರ್ಧನೆಯ ಸೂತ್ರ: m = v/u",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: m = (-10 cm) / (-30 cm)",
+    "ಲೆಕ್ಕಾಚಾರ: m = +1/3",
+    "ದಶಮಾಂಶ ರೂಪದಲ್ಲಿ: m ≈ +0.33"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_blue",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "m = \\frac{v}{u} = \\frac{-10 \\text{ cm}}{-30 \\text{ cm}} = +\\frac{1}{3} \\approx +0.33",
+    "placeholder_note": "Display the calculation for m"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_9_example_9.3",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ವರ್ಧನೆ (m) ಕಂಡುಹಿಡಿಯುವುದು.",
+      "justification": "m = v/u ಸೂತ್ರವನ್ನು ಬಳಸಿ."
+    }
+  ],
+  "chunk_id": "std_10_chapter_9_concept_8_chunk_019"
+}

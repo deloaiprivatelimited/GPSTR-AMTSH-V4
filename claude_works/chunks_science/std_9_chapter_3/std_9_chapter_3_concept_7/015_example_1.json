@@ -1,0 +1,33 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್‌ನ ರಾಸಾಯನಿಕ ಸೂತ್ರವನ್ನು ಬರೆಯುವುದು ಹೇಗೆಂದು ಕಲಿಯೋಣ. ಈ ಸಂಯುಕ್ತದಲ್ಲಿ ಅಲ್ಯೂಮಿನಿಯಂ ಮತ್ತು ಆಕ್ಸೈಡ್ ಅಯಾನುಗಳಿವೆ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ.",
+  "script_display": "ಉದಾಹರಣೆ: ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್‌ನ ರಾಸಾಯನಿಕ ಸೂತ್ರವನ್ನು ಬರೆಯಿರಿ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್‌ನ ರಾಸಾಯನಿಕ ಸೂತ್ರವನ್ನು ಬರೆಯಿರಿ.",
+    "ಈ ಸಂಯುಕ್ತದಲ್ಲಿರುವ ಘಟಕಗಳು: ಅಲ್ಯೂಮಿನಿಯಂ (Al) ಮತ್ತು ಆಕ್ಸೈಡ್ (O)."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_3_example_4",
+  "chunk_id": "std_9_chapter_3_concept_7_chunk_015"
+}

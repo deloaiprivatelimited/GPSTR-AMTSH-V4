@@ -1,0 +1,35 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಚಕ್ರಬಡ್ಡಿ (Compound Interest)",
+  "script": "ಈಗ, ನಾವು ಚಕ್ರಬಡ್ಡಿಯನ್ನು ಹೇಗೆ ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು ಎಂದು ನೋಡೋಣ. ಒಟ್ಟು ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿದ ನಂತರ, ಕೇವಲ ಬಡ್ಡಿಯ ಭಾಗವನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ತಿಳಿಯಬೇಕಾದರೆ, ನಾವು ಈ ಸರಳ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ. ಸೂತ್ರವು ಸಿ ಐ ಈಕ್ವಲ್ಸ್ ಎ ಮೈನಸ್ ಪಿ. ಇಲ್ಲಿ, ಸಿ ಐ ಎಂದರೆ ಚಕ್ರಬಡ್ಡಿ, ಅಂದರೆ ಕಾಂಪೌಂಡ್ ಇಂಟರೆಸ್ಟ್. ಎ ಎಂದರೆ ನಾವು ಹಿಂದಿನ ಸೂತ್ರದಿಂದ ಲೆಕ್ಕ ಹಾಕಿದ ಒಟ್ಟು ಮೊತ್ತ. ಮತ್ತು ಪಿ ಎಂದರೆ ನಮ್ಮ ಆರಂಭಿಕ ಅಸಲು ಅಥವಾ ಪ್ರಿನ್ಸಿಪಲ್. ಮೂಲಭೂತವಾಗಿ, ಗಳಿಸಿದ ಬಡ್ಡಿಯು ಅಂತಿಮ ಮೊತ್ತ ಮತ್ತು ಆರಂಭಿಕ ಮೊತ್ತದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವಾಗಿದೆ.",
+  "script_display": "ಈಗ, ನಾವು ಚಕ್ರಬಡ್ಡಿಯನ್ನು (Compound Interest) ಹೇಗೆ ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು ಎಂದು ನೋಡೋಣ. ಒಟ್ಟು ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿದ ನಂತರ, ಕೇವಲ ಬಡ್ಡಿಯ ಭಾಗವನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ತಿಳಿಯಬೇಕಾದರೆ, ನಾವು ಈ ಸರಳ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ. ಸೂತ್ರವು $CI = A - P$. ಇಲ್ಲಿ, $CI$ ಎಂದರೆ ಚಕ್ರಬಡ್ಡಿ (Compound Interest). $A$ ಎಂದರೆ ನಾವು ಹಿಂದಿನ ಸೂತ್ರದಿಂದ ಲೆಕ್ಕ ಹಾಕಿದ ಒಟ್ಟು ಮೊತ್ತ (Total Amount). ಮತ್ತು $P$ ಎಂದರೆ ನಮ್ಮ ಆರಂಭಿಕ ಅಸಲು (Principal). ಮೂಲಭೂತವಾಗಿ, ಗಳಿಸಿದ ಬಡ್ಡಿಯು ಅಂತಿಮ ಮೊತ್ತ ಮತ್ತು ಆರಂಭಿಕ ಮೊತ್ತದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವಾಗಿದೆ.",
+  "display_bullets": [
+    "CI = ಚಕ್ರಬಡ್ಡಿ (Compound Interest)",
+    "A = ಒಟ್ಟು ಮೊತ್ತ (Total Amount)",
+    "P = ಅಸಲು (Principal)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CI = A - P",
+    "placeholder_note": "Formula for Compound Interest"
+  },
+  "chunk_id": "RPP-COMP-1_concept_6_chunk_019"
+}

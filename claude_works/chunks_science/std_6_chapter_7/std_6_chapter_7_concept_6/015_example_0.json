@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ತಾಪಮಾಪಕದ ಅಳತೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿನ ಸಮಸ್ಯೆ, ಚಿತ್ರ ಏಳರ ಬಿಂದು ಒಂದ ಸೊನ್ನೆಯಲ್ಲಿ ತೋರಿಸಲಾದ ತಾಪಮಾಪಕದಲ್ಲಿನ ತಾಪದ ಅಳತೆ ಎಷ್ಟು ಎಂದು ಕಂಡುಹಿಡಿಯುವುದು. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿಯೆಂದರೆ ತಾಪಮಾಪಕದ ಚಿತ್ರ. ನಾವು ತಾಪದ ಅಳತೆಯನ್ನು ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್‌ನಲ್ಲಿ ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿನ ಸಮಸ್ಯೆ, ಚಿತ್ರ 7.10 ರಲ್ಲಿ ತೋರಿಸಲಾದ ತಾಪಮಾಪಕದಲ್ಲಿನ ತಾಪದ ಅಳತೆ ಎಷ್ಟು ಎಂದು ಕಂಡುಹಿಡಿಯುವುದು. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿಯೆಂದರೆ ತಾಪಮಾಪಕದ ಚಿತ್ರ. ನಾವು ತಾಪದ ಅಳತೆಯನ್ನು °C ನಲ್ಲಿ ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಚಿತ್ರ 7.10 ರಲ್ಲಿ ತೋರಿಸಲಾದ ತಾಪಮಾಪಕದಲ್ಲಿನ ತಾಪದ ಅಳತೆ ಎಷ್ಟು?",
+    "ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ: ತಾಪಮಾಪಕದ ಚಿತ್ರ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ತಾಪದ ಅಳತೆ (°C)."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_top_visual_bottom",
+    "text_zone": "full",
+    "visual_zone": "bottom",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕದ ಒಂದು ಭಾಗದ ಸಮೀಪದ ನೋಟ, ದ್ರವದ ಮಟ್ಟವು 27 ಮತ್ತು 28 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ನಡುವೆ ಇದೆ. 20, 25, 30 ಡಿಗ್ರಿ ಗುರುತುಗಳು ಸ್ಪಷ್ಟವಾಗಿವೆ.",
+    "labels": "20°C, 25°C, 30°C, ದ್ರವದ ಸ್ತಂಭ",
+    "scientific_significance": "ತಾಪಮಾಪಕದಿಂದ ಅಳತೆಯನ್ನು ಓದುವ ಕೌಶಲ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ, ವಿಶೇಷವಾಗಿ ವಿಭಾಗಗಳ ನಡುವಿನ ಮೌಲ್ಯಗಳನ್ನು ಅಂದಾಜು ಮಾಡುವಾಗ.",
+    "placeholder_note": "Generate an image of a thermometer scale. The markings for 20, 25, and 30 degrees Celsius should be clear. The liquid level (mercury or alcohol) should be exactly halfway between the 27 and 28 degree marks."
+  },
+  "sub_type": "problem_setup",
+  "source_example_id": "std_6_chapter_7_example_2",
+  "chunk_id": "std_6_chapter_7_concept_6_chunk_015"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಮಾದರಿ ಸಮಸ್ಯೆ: ಮಧ್ಯಾಂಕವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಶಾಲೆಯ 10ನೇ ತರಗತಿಯ 51 ಬಾಲಕಿಯರ ಎತ್ತರಗಳ ಸೆಂಟಿಮೀಟರ್ ಗಳಲ್ಲಿ 'ಗಿಂತ ಕಡಿಮೆ' ಮಾದರಿಯ ಸಂಚಿತ ಆವೃತ್ತಿ ವಿತರಣೆಯು ಕೆಳಗಿನಂತಿದೆ. ನಾವು ಎತ್ತರಗಳ ಮಧ್ಯಾಂಕವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ದತ್ತಾಂಶ ಕೋಷ್ಟಕದಲ್ಲಿ ಎತ್ತರ ಮತ್ತು ಬಾಲಕಿಯರ ಸಂಚಿತ ಆವೃತ್ತಿಯನ್ನು ನೀಡಲಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಶಾಲೆಯ 10ನೇ ತರಗತಿಯ 51 ಬಾಲಕಿಯರ ಎತ್ತರಗಳ (cm ಗಳಲ್ಲಿ) 'ಗಿಂತ ಕಡಿಮೆ' ಮಾದರಿಯ ಸಂಚಿತ ಆವೃತ್ತಿ ವಿತರಣೆಯು ಕೆಳಗಿನಂತಿದೆ. ನಾವು ಎತ್ತರಗಳ ಮಧ್ಯಾಂಕವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ದತ್ತಾಂಶ ಕೋಷ್ಟಕದಲ್ಲಿ ಎತ್ತರ ಮತ್ತು ಬಾಲಕಿಯರ ಸಂಚಿತ ಆವೃತ್ತಿಯನ್ನು ನೀಡಲಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "Table showing the 'less than' cumulative frequency distribution from the problem statement. Headers: 'ಎತ್ತರ (cm ಗಳಲ್ಲಿ)', 'ಬಾಲಕಿಯರ ಸಂಖ್ಯೆ (cf)'. Rows: | 140 ಕ್ಕಿಂತ ಕಡಿಮೆ | 4 |, | 145 ಕ್ಕಿಂತ ಕಡಿಮೆ | 11 |, | 150 ಕ್ಕಿಂತ ಕಡಿಮೆ | 29 |, | 155 ಕ್ಕಿಂತ ಕಡಿಮೆ | 40 |, | 160 ಕ್ಕಿಂತ ಕಡಿಮೆ | 46 |, | 165 ಕ್ಕಿಂತ ಕಡಿಮೆ | 51 |"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "DATA-STAT-2_example_10",
+  "chunk_id": "DATA-STAT-2_concept_4_chunk_022"
+}

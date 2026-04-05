@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆ: ವಸ್ತುಗಳನ್ನು ವರ್ಗೀಕರಿಸಿ",
+  "script": "ಈಗ, ನಾವು ಕಲಿತ ಮೂರು ವಿಧಗಳನ್ನು ಬಳಸಿ ಒಂದು ಸಣ್ಣ ಚಟುವಟಿಕೆ ಮಾಡೋಣ. ಇಲ್ಲಿ ಒಂದು ಕೋಷ್ಟಕವಿದೆ. ಇದರಲ್ಲಿ ಕೆಲವು ವಸ್ತುಗಳನ್ನು ಪಾರದರ್ಶಕ, ಅರೆಪಾರದರ್ಶಕ, ಮತ್ತು ಅಪಾರದರ್ಶಕ ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ. ಇದನ್ನು ಗಮನಿಸಿ. ಉದಾಹರಣೆಗೆ, ಗಾಜಿನ ಲೋಟ ಪಾರದರ್ಶಕ, ಟ್ರೇಸಿಂಗ್ ಕಾಗದ ಅರೆಪಾರದರ್ಶಕ, ಮತ್ತು ಮರದ ಹಲಗೆ ಅಪಾರದರ್ಶಕ. ಈ ರೀತಿ ವರ್ಗೀಕರಣ ಮಾಡುವುದರಿಂದ ನಿಮಗೆ ಪರಿಕಲ್ಪನೆಯು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ, ನಾವು ಕಲಿತ ಮೂರು ವಿಧಗಳನ್ನು ಬಳಸಿ ಒಂದು ಸಣ್ಣ ಚಟುವಟಿಕೆ ಮಾಡೋಣ. ಇಲ್ಲಿ ಒಂದು ಕೋಷ್ಟಕವಿದೆ. ಇದರಲ್ಲಿ ಕೆಲವು ವಸ್ತುಗಳನ್ನು ಪಾರದರ್ಶಕ, ಅರೆಪಾರದರ್ಶಕ, ಮತ್ತು ಅಪಾರದರ್ಶಕ ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ. ಇದನ್ನು ಗಮನಿಸಿ. ಉದಾಹರಣೆಗೆ, ಗಾಜಿನ ಲೋಟ ಪಾರದರ್ಶಕ, ಟ್ರೇಸಿಂಗ್ ಕಾಗದ ಅರೆಪಾರದರ್ಶಕ, ಮತ್ತು ಮರದ ಹಲಗೆ ಅಪಾರದರ್ಶಕ. ಈ ರೀತಿ ವರ್ಗೀಕರಣ ಮಾಡುವುದರಿಂದ ನಿಮಗೆ ಪರಿಕಲ್ಪನೆಯು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_right_text_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A table classifying materials into transparent, translucent, and opaque categories. The table should be rendered directly from the provided data. The headers are 'ಪಾರದರ್ಶಕ', 'ಅರೆಪಾರದರ್ಶಕ', 'ಅಪಾರದರ್ಶಕ'. The rows contain examples like 'ಗಾಜಿನ ಲೋಟ', 'ಟ್ರೇಸಿಂಗ್ ಕಾಗದ', 'ರಬ್ಬರ್', etc., sorted into the correct columns. The caption for the table is 'ಕೋಷ್ಟಕ 6.4: ವಸ್ತುಗಳ ವರ್ಗೀಕರಣ'. This visual aid helps students practice and solidify their understanding of the classification of materials based on transparency by providing a clear, organized summary and examples. It directly corresponds to the activity described in the script, making the learning process interactive and effective. The table data is as follows: Headers: ['ಪಾರದರ್ಶಕ', 'ಅರೆಪಾರದರ್ಶಕ', 'ಅಪಾರದರ್ಶಕ'], Rows: [['ಗಾಜಿನ ಲೋಟ', 'ಟ್ರೇಸಿಂಗ್ ಕಾಗದ', 'ರಬ್ಬರ್'], ['ಕಿಟಕಿ ಗಾಜು', 'ಮಸುಕು ಗಾಜು', 'ಮರದ ಹಲಗೆ']]."
+  },
+  "chunk_id": "std_6_chapter_6_concept_3_chunk_008"
+}

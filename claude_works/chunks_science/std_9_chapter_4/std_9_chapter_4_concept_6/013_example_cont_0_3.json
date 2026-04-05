@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದಂತೆ, ಮೆಗ್ನೀಸಿಯಂನ ವೇಲೆನ್ಸಿ 2, ಸಲ್ಫರ್‌ನ ವೇಲೆನ್ಸಿ 2, ಮತ್ತು ಕ್ಲೋರಿನ್‌ನ ವೇಲೆನ್ಸಿ 1 ಆಗಿದೆ. ಹೊರ ಕವಚದಲ್ಲಿರುವ ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಸಂಖ್ಯೆಯನ್ನು ಆಧರಿಸಿ, ಪರಮಾಣು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತದೆಯೇ ಅಥವಾ ಪಡೆಯುತ್ತದೆಯೇ ಎಂದು ನಿರ್ಧರಿಸುವ ಮೂಲಕ ವೇಲೆನ್ಸಿಯನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "script_display": "ಹೀಗೆ, ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದಂತೆ, ಮೆಗ್ನೀಸಿಯಂನ ವೇಲೆನ್ಸಿ 2, ಸಲ್ಫರ್‌ನ ವೇಲೆನ್ಸಿ 2, ಮತ್ತು ಕ್ಲೋರಿನ್‌ನ ವೇಲೆನ್ಸಿ 1 ಆಗಿದೆ. ಹೊರ ಕವಚದಲ್ಲಿರುವ ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಸಂಖ್ಯೆಯನ್ನು ಆಧರಿಸಿ, ಪರಮಾಣು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತದೆಯೇ ಅಥವಾ ಪಡೆಯುತ್ತದೆಯೇ ಎಂದು ನಿರ್ಧರಿಸುವ ಮೂಲಕ ವೇಲೆನ್ಸಿಯನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "display_bullets": [
+    "ಮೆಗ್ನೀಸಿಯಂ (Mg): ವೇಲೆನ್ಸಿ = 2",
+    "ಸಲ್ಫರ್ (S): ವೇಲೆನ್ಸಿ = 2",
+    "ಕ್ಲೋರಿನ್ (Cl): ವೇಲೆನ್ಸಿ = 1"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\begin{aligned} \\text{ಮೆಗ್ನೀಸಿಯಂ (Mg)} &: \\text{ ವೇಲೆನ್ಸಿ = 2} \\\\ \\text{ಸಲ್ಫರ್ (S)} &: \\text{ ವೇಲೆನ್ಸಿ = 2} \\\\ \\text{ಕ್ಲೋರಿನ್ (Cl)} &: \\text{ ವೇಲೆನ್ಸಿ = 1} \\end{aligned}",
+    "placeholder_note": "A box showing the final answers for Mg, S, and Cl valencies."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_4_example_1",
+  "final_answer": "ಮೆಗ್ನೀಸಿಯಂ, ಸಲ್ಫರ್ ಮತ್ತು ಕ್ಲೋರಿನ್‌ಗಳ ವೇಲೆನ್ಸಿಗಳು ಕ್ರಮವಾಗಿ 2, 2, ಮತ್ತು 1.",
+  "final_answer_display": "Mg: 2, S: 2, Cl: 1",
+  "chunk_id": "std_9_chapter_4_concept_6_chunk_013"
+}

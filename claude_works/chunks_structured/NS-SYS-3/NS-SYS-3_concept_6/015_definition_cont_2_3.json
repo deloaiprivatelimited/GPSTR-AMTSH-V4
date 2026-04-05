@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಮಾನ್ಯ ತಪ್ಪು: ಋಣಾತ್ಮಕ ಉತ್ತರ",
+  "script": "ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪನ್ನು ಇಲ್ಲಿ ಗಮನಿಸೋಣ. ಅನೇಕ ವಿದ್ಯಾರ್ಥಿಗಳು 5 ಟು ದ ಪವರ್ ಮೈನಸ್ 2 ಅನ್ನು ನೋಡಿದಾಗ, ಉತ್ತರ ಮೈನಸ್ 25 ಎಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುತ್ತಾರೆ. ಇದು ಸಂಪೂರ್ಣವಾಗಿ ತಪ್ಪು. ಋಣಾತ್ಮಕ ಘಾತಸೂಚಿಯು ಸಂಖ್ಯೆಯನ್ನು ಋಣಾತ್ಮಕವನ್ನಾಗಿ ಮಾಡುವುದಿಲ್ಲ. ಸರಿಯಾದ ವಿಧಾನವೆಂದರೆ, 5 ಟು ದ ಪವರ್ ಮೈನಸ್ 2 ಅನ್ನು one by 5 ಸ್ಕ್ವೇರ್ಡ್ ಎಂದು ಬರೆಯುವುದು, ಇದು one by 25 ಗೆ ಸಮ. ನೆನಪಿಡಿ, ಋಣಾತ್ಮಕ ಘಾತಾಂಕವು ಸಂಖ್ಯೆಯ ವ್ಯುತ್ಕ್ರಮವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅದರ ಋಣಾತ್ಮಕ ಮೌಲ್ಯವನ್ನಲ್ಲ. ಇದು ಒಂದು ಧನ, ಆದರೆ ಚಿಕ್ಕ ಸಂಖ್ಯೆಯನ್ನು ನೀಡುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪನ್ನು ಇಲ್ಲಿ ಗಮನಿಸೋಣ. ಅನೇಕ ವಿದ್ಯಾರ್ಥಿಗಳು $5^{-2}$ ಅನ್ನು ನೋಡಿದಾಗ, ಉತ್ತರ $-25$ ಎಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುತ್ತಾರೆ. ಇದು ಸಂಪೂರ್ಣವಾಗಿ ತಪ್ಪು. ಋಣಾತ್ಮಕ ಘಾತಸೂಚಿಯು ಸಂಖ್ಯೆಯನ್ನು ಋಣಾತ್ಮಕವನ್ನಾಗಿ ಮಾಡುವುದಿಲ್ಲ. ಸರಿಯಾದ ವಿಧಾನವೆಂದರೆ, $5^{-2}$ ಅನ್ನು $\\frac{1}{5^2}$ ಎಂದು ಬರೆಯುವುದು, ಇದು $\\frac{1}{25}$ ಗೆ ಸಮ. ನೆನಪಿಡಿ, ಋಣಾತ್ಮಕ ಘಾತಾಂಕವು ಸಂಖ್ಯೆಯ ವ್ಯುತ್ಕ್ರಮವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅದರ ಋಣಾತ್ಮಕ ಮೌಲ್ಯವನ್ನಲ್ಲ. ಇದು ಒಂದು ಧನ, ಆದರೆ ಚಿಕ್ಕ ಸಂಖ್ಯೆಯನ್ನು ನೀಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_visual",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_comparison_data",
+    "status": "ready",
+    "render_target": "katex",
+    "placeholder_note": "Side by side comparison of correct and incorrect interpretation of negative exponents. Left is correct, right is incorrect. Both rendered using KaTeX. The headers are 'ಸರಿ' (Correct) and 'ತಪ್ಪು' (Incorrect). The content for correct is '$5^{-2} = \\frac{1}{5^2} = \\frac{1}{25}$'. The content for incorrect is '$5^{-2} \\neq -25$' with a large red cross mark over it visually. The JSON representation will just have the LaTeX strings and headers, the visual styling is part of the template rendering logic. The 'neq' symbol represents the inequality, and the red cross is a visual treatment applied by the frontend renderer for emphasis on the 'incorrect' side. The JSON will just contain the mathematical expressions and labels. The visual styling (like the red cross) is an instruction for the rendering engine, not part of the data itself. For the purpose of this JSON, I will use the 'neq' symbol to denote inequality, which is standard. The visual cross is a frontend enhancement. Let's stick to the schema. The schema doesn't have a direct way to specify a red cross. I will use the 'neq' symbol and the header 'ತಪ್ಪು' to convey the message. The frontend can interpret this and add visual cues. The schema for split_comparison_data is not provided, but I will infer a logical structure. Let's assume it takes two objects, one for left and one for right, each with a header and content. Since the schema is not defined, I will put the information in the description of a diagram placeholder, which is a safe fallback. Let's re-evaluate. The `split_comparison` layout is a template. The content is driven by `display_bullets` or a specific visual type. Let's use a diagram placeholder and describe the visual needed. This is the safest approach given the schema constraints. No, I will use a custom visual type that I'll name `split_comparison_data` and describe it. This is a better approach. Let's assume the frontend can handle this. If not, a diagram is the fallback. Let's try to be more explicit. I will use a table visual to create the comparison. This is directly supported and will render correctly. That's a much better idea. A 2x2 table. Header row: ಸರಿ, ತಪ್ಪು. Data row: the two expressions. Perfect. Let's do that. Wait, the schema for visual doesn't have a table type with left/right headers. It has `headers` and `rows`. So a 2x2 table is fine. Header: `["
+  },
+  "sub_type": "comparison_table",
+  "difficulty": "easy",
+  "source_example_id": "custom",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-SYS-3_concept_6_chunk_015"
+}

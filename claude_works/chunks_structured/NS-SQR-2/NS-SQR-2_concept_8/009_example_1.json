@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಚೌಕದ ಬಾಹು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಚೌಕಾಕಾರದ ಜಾಗದ ವಿಸ್ತೀರ್ಣ 2304 ಚದುರ ಮೀಟರ್ ಇದೆ. ನಾವು ಅದರ ಬಾಹುವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಚೌಕದ ವಿಸ್ತೀರ್ಣವು ಬಾಹುವಿನ ವರ್ಗಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ಬಾಹುವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ವಿಸ್ತೀರ್ಣದ ವರ್ಗಮೂಲವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಹಾಗಾಗಿ, ನಾವು 2304 ರ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಚೌಕಾಕಾರದ ಜಾಗದ ವಿಸ್ತೀರ್ಣ 2304 ಚ.ಮೀ. ಇದೆ. ನಾವು ಅದರ ಬಾಹುವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಚೌಕದ ವಿಸ್ತೀರ್ಣ = (ಬಾಹು)². ಆದ್ದರಿಂದ, ಬಾಹುವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ವಿಸ್ತೀರ್ಣದ ವರ್ಗಮೂಲವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಅಂದರೆ, ಬಾಹು = $\\sqrt{\\text{ವಿಸ್ತೀರ್ಣ}}$. ಹಾಗಾಗಿ, ನಾವು $\\sqrt{2304}$ ನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ: ಚೌಕಾಕಾರದ ಜಾಗದ ವಿಸ್ತೀರ್ಣ = 2304 ಚ.ಮೀ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದ.",
+    "ಗಣಿತದ ರೂಪ: ಬಾಹು = $\\sqrt{2304}$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಬಾಹು} = \\sqrt{2304}",
+    "placeholder_note": "Formula box showing Side = sqrt(2304)"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SQR-2_example_8",
+  "chunk_id": "NS-SQR-2_concept_8_chunk_009"
+}

@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಸಾಧನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, AD ಯು ಕೋನ A ನ ಕೋನಾರ್ಧಕ ಮತ್ತು BC ಗೆ ಲಂಬವಾಗಿದೆ. ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ ಏನೆಂದರೆ, AD ಯು ಕೋನ A ಯನ್ನು ಅರ್ಧಿಸುತ್ತದೆ, ಅಂದರೆ ಕೋನ BAD ಮತ್ತು ಕೋನ CAD ಸಮ. ಇದನ್ನು ನಾವು ದತ್ತ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಹಾಗೂ AD ಯು BC ಗೆ ಲಂಬವಾಗಿದೆ, ಅಂದರೆ ಕೋನ ADB ಮತ್ತು ಕೋನ ADC ಎರಡೂ 90 ಡಿಗ್ರಿ. ಇದೂ ಕೂಡ ದತ್ತ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು, AB ಮತ್ತು AC ಸಮ ಎಂದು, ಮತ್ತು ಇದರಿಂದ ತ್ರಿಭುಜ ABC ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ತೋರಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $\\triangle ABC$ ಯಲ್ಲಿ, AD ಯು $\\angle A$ ನ ಕೋನಾರ್ಧಕ ಮತ್ತು BC ಗೆ ಲಂಬವಾಗಿದೆ (ಚಿತ್ರ 7.27). ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ ಏನೆಂದರೆ, AD ಯು $\\angle A$ ಯನ್ನು ಅರ್ಧಿಸುತ್ತದೆ, ಅಂದರೆ $\\angle BAD = \\angle CAD$. ಹಾಗೂ $AD \\perp BC$, ಅಂದರೆ $\\angle ADB = \\angle ADC = 90^\\circ$. ನಾವು $AB = AC$ ಎಂದು ಸಾಧಿಸಬೇಕು, ಮತ್ತು ಇದರಿಂದ $\\triangle ABC$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ತೋರಿಸಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತ (Given): AD ಯು $\\angle A$ ನ ಕೋನಾರ್ಧಕ, ಅಂದರೆ $\\angle BAD = \\angle CAD$.",
+    "ದತ್ತ (Given): $AD \\perp BC$, ಅಂದರೆ $\\angle ADB = \\angle ADC = 90^\\circ$.",
+    "ಸಾಧನೀಯ (To Prove): $AB = AC$, ಮತ್ತು $\\triangle ABC$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Triangle ABC with a line segment AD from vertex A to base BC. AD is the angle bisector of angle A and is also perpendicular to BC. Right angle symbols at D. Angle A is marked with arcs to show it's bisected.",
+    "labels": "A, B, C, D",
+    "mathematical_significance": "Illustrates the conditions for the proof: angle bisector AD is also the altitude to BC. This setup leads to proving the triangle is isosceles using ASA congruence.",
+    "placeholder_note": "Image to be generated for figure 7.27 from the problem description."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_4",
+  "chunk_id": "GEO-TRI-2_concept_2_chunk_017"
+}

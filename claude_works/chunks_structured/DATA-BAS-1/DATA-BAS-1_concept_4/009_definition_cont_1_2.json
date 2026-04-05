@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ದಾಳವನ್ನು ಉರುಳಿಸುವುದು",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಆಟದ ದಾಳವನ್ನು ಉರುಳಿಸುವುದನ್ನು 'ಪ್ರಯೋಗ' ಎಂದು ಪರಿಗಣಿಸೋಣ. ದಾಳವು ನಿಂತಾಗ, ಅದರ ಮೇಲ್ಮುಖದಲ್ಲಿ ಯಾವ ಸಂಖ್ಯೆ ಕಾಣಿಸುತ್ತದೆ? ಇಲ್ಲಿ ಹಲವಾರು ಸಾಧ್ಯತೆಗಳಿವೆ. ಆ ಸಂಖ್ಯೆ 1 ಆಗಿರಬಹುದು, 2 ಆಗಿರಬಹುದು, 3, 4, 5, ಅಥವಾ 6 ಆಗಿರಬಹುದು. ಈ ಪ್ರತಿಯೊಂದು ಸಂಭವನೀಯ ಪರಿಣಾಮವೂ ಒಂದು 'ಫಲಿತಾಂಶ'. ಅಂದರೆ, '1 ಬರುವುದು' ಒಂದು ಫಲಿತಾಂಶ. '2 ಬರುವುದು' ಇನ್ನೊಂದು ಫಲಿತಾಂಶ. ಹೀಗೆ, ಈ ಪ್ರಯೋಗದಲ್ಲಿ ಒಟ್ಟು ಆರು ವಿಭಿನ್ನ ಫಲಿತಾಂಶಗಳಿವೆ. ಫಲಿತಾಂಶ ಎಂದರೆ ಪ್ರಯೋಗದ ಒಂದು ನಿರ್ದಿಷ್ಟ, ಏಕೈಕ ಪರಿಣಾಮ.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಆಟದ ದಾಳವನ್ನು ಉರುಳಿಸುವುದನ್ನು 'ಪ್ರಯೋಗ' ಎಂದು ಪರಿಗಣಿಸೋಣ. ದಾಳವು ನಿಂತಾಗ, ಅದರ ಮೇಲ್ಮುಖದಲ್ಲಿ ಯಾವ ಸಂಖ್ಯೆ ಕಾಣಿಸುತ್ತದೆ? ಇಲ್ಲಿ ಹಲವಾರು ಸಾಧ್ಯತೆಗಳಿವೆ. ಆ ಸಂಖ್ಯೆ 1 ಆಗಿರಬಹುದು, 2 ಆಗಿರಬಹುದು, 3, 4, 5, ಅಥವಾ 6 ಆಗಿರಬಹುದು. ಈ ಪ್ರತಿಯೊಂದು ಸಂಭವನೀಯ ಪರಿಣಾಮವೂ ಒಂದು 'ಫಲಿತಾಂಶ'. ಅಂದರೆ, '1 ಬರುವುದು' ಒಂದು ಫಲಿತಾಂಶ. '2 ಬರುವುದು' ಇನ್ನೊಂದು ಫಲಿತಾಂಶ. ಹೀಗೆ, ಈ ಪ್ರಯೋಗದಲ್ಲಿ ಒಟ್ಟು ಆರು ವಿಭಿನ್ನ ಫಲಿತಾಂಶಗಳಿವೆ. ಫಲಿತಾಂಶ ಎಂದರೆ ಪ್ರಯೋಗದ ಒಂದು ನಿರ್ದಿಷ್ಟ, ಏಕೈಕ ಪರಿಣಾಮ.",
+  "display_bullets": [
+    "ಪ್ರಯೋಗ: ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು.",
+    "ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳು: 1, 2, 3, 4, 5, ಅಥವಾ 6.",
+    "ಈ ಪ್ರಯೋಗದಲ್ಲಿ ಒಟ್ಟು ಆರು (6) ಫಲಿತಾಂಶಗಳಿವೆ.",
+    "ಪ್ರತಿಯೊಂದು ಸಂಖ್ಯೆಯೂ (1, 2, ಇತ್ಯಾದಿ) ಒಂದು ಪ್ರತ್ಯೇಕ ಫಲಿತಾಂಶವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A standard six-sided die is shown. Around it, the six possible faces (1, 2, 3, 4, 5, 6) are displayed individually, each labeled as a 'ಫಲಿತಾಂಶ' (Outcome).",
+    "labels": "ದಾಳ, ಫಲಿತಾಂಶಗಳು 1, 2, 3, 4, 5, 6",
+    "mathematical_significance": "Illustrates the six possible outcomes of rolling a standard die, showing a slightly more complex sample space than a coin toss.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_009"
+}

@@ -1,0 +1,90 @@
+{
+  "module_id": "std_9_chapter_12_concept_1",
+  "chapter_code": "std_9_chapter_12",
+  "voice": "Rasalgethi",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 324.397,
+  "total_duration_formatted": "5:24",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_12_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಆಹಾರದ ಆಕರಗಳು ಮತ್ತು ಬೆಳೆಗಳ ಋತುಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 55.851,
+      "duration": 55.851,
+      "script_words": 87
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_1_chunk_002",
+      "chunk_file": "002_classification_0.json",
+      "wav_file": "002_classification_0.wav",
+      "slide_title": "ಪೋಷಕಾಂಶ ಆಧಾರಿತ ಆಹಾರದ ಆಕರಗಳು (ಭಾಗ 1)",
+      "type": "concept_explanation",
+      "start": 56.451,
+      "end": 105.102,
+      "duration": 48.651,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_1_chunk_003",
+      "chunk_file": "003_classification_cont_0_1.json",
+      "wav_file": "003_classification_cont_0_1.wav",
+      "slide_title": "ಪೋಷಕಾಂಶ ಆಧಾರಿತ ಆಹಾರದ ಆಕರಗಳು (ಭಾಗ 2)",
+      "type": "concept_explanation",
+      "start": 105.702,
+      "end": 159.313,
+      "duration": 53.611,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_1_chunk_004",
+      "chunk_file": "004_classification_1.json",
+      "wav_file": "004_classification_1.wav",
+      "slide_title": "ಬೆಳೆ ಋತುಗಳ ಆಧಾರದ ಮೇಲೆ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "start": 159.913,
+      "end": 200.484,
+      "duration": 40.571,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_1_chunk_005",
+      "chunk_file": "005_classification_cont_1_1.json",
+      "wav_file": "005_classification_cont_1_1.wav",
+      "slide_title": "ಖಾರಿಫ್ ಬೆಳೆಗಳು (Kharif Crops)",
+      "type": "concept_explanation",
+      "start": 201.084,
+      "end": 241.775,
+      "duration": 40.691,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_1_chunk_006",
+      "chunk_file": "006_classification_cont_1_2.json",
+      "wav_file": "006_classification_cont_1_2.wav",
+      "slide_title": "ರಬಿ ಬೆಳೆಗಳು (Rabi Crops)",
+      "type": "concept_explanation",
+      "start": 242.375,
+      "end": 281.466,
+      "duration": 39.091,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_1_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 282.066,
+      "end": 323.797,
+      "duration": 41.731,
+      "script_words": 52
+    }
+  ]
+}

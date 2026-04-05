@@ -1,0 +1,155 @@
+{
+  "module_id": "ALG-EXP-2_concept_2",
+  "voice": "Callirrhoe",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 13,
+  "total_duration": 567.703,
+  "total_duration_formatted": "9:27",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಬೀಜೋಕ್ತಿಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 51.611,
+      "duration": 51.611,
+      "script_words": 72
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 52.211,
+      "end": 79.302,
+      "duration": 27.091,
+      "script_words": 40
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಬೀಜೋಕ್ತಿಗಳ ಸಂಕಲನದ ನಿಯಮ",
+      "type": "concept_explanation",
+      "start": 79.902,
+      "end": 147.993,
+      "duration": 68.091,
+      "script_words": 112
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಬೀಜೋಕ್ತಿಗಳ ವ್ಯವಕಲನದ ನಿಯಮ",
+      "type": "concept_explanation",
+      "start": 148.593,
+      "end": 215.324,
+      "duration": 66.731,
+      "script_words": 103
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_005",
+      "chunk_file": "005_example_0.json",
+      "wav_file": "005_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ 1: ಬೀಜೋಕ್ತಿಗಳ ಸಂಕಲನ",
+      "type": "worked_example",
+      "start": 215.924,
+      "end": 242.095,
+      "duration": 26.171,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_006",
+      "chunk_file": "006_example_cont_0_1.json",
+      "wav_file": "006_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1",
+      "type": "worked_example",
+      "start": 242.695,
+      "end": 269.266,
+      "duration": 26.571,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_007",
+      "chunk_file": "007_example_cont_0_2.json",
+      "wav_file": "007_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 2",
+      "type": "worked_example",
+      "start": 269.866,
+      "end": 315.037,
+      "duration": 45.171,
+      "script_words": 76
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_008",
+      "chunk_file": "008_example_cont_0_3.json",
+      "wav_file": "008_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 315.637,
+      "end": 347.648,
+      "duration": 32.011,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_009",
+      "chunk_file": "009_example_1.json",
+      "wav_file": "009_example_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ 2: ಬೀಜೋಕ್ತಿಗಳ ವ್ಯವಕಲನ",
+      "type": "worked_example",
+      "start": 348.248,
+      "end": 388.659,
+      "duration": 40.411,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_010",
+      "chunk_file": "010_example_cont_1_1.json",
+      "wav_file": "010_example_cont_1_1.wav",
+      "slide_title": "ಹಂತ 1 ಮತ್ತು 2: ಜೋಡಣೆ ಮತ್ತು ಚಿಹ್ನೆ ಬದಲಾವಣೆ",
+      "type": "worked_example",
+      "start": 389.259,
+      "end": 438.91,
+      "duration": 49.651,
+      "script_words": 76
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_011",
+      "chunk_file": "011_example_cont_1_2.json",
+      "wav_file": "011_example_cont_1_2.wav",
+      "slide_title": "ಹಂತ 3: ಸಜಾತಿ ಪದಗಳನ್ನು ಕೂಡಿಸುವುದು",
+      "type": "worked_example",
+      "start": 439.51,
+      "end": 491.761,
+      "duration": 52.251,
+      "script_words": 88
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_012",
+      "chunk_file": "012_example_cont_1_3.json",
+      "wav_file": "012_example_cont_1_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಎಚ್ಚರಿಕೆ",
+      "type": "worked_example",
+      "start": 492.361,
+      "end": 527.292,
+      "duration": 34.931,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "ALG-EXP-2_concept_2_chunk_013",
+      "chunk_file": "013_recap_0.json",
+      "wav_file": "013_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "recap",
+      "start": 527.892,
+      "end": 567.103,
+      "duration": 39.211,
+      "script_words": 57
+    }
+  ]
+}

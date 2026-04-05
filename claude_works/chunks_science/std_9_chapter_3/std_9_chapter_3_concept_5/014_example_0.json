@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನೀರಿನ ಅಣುವಿನಲ್ಲಿ, ಅಂದರೆ H two O, ಇರುವ ಹೈಡೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ನಾವು ರಾಶಿ ಅನುಪಾತವನ್ನು ಬಳಸಿ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ಕಲಿಯುತ್ತೇವೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನೀರಿನ (H₂O) ಅಣುವಿನಲ್ಲಿರುವ ಹೈಡೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ನಾವು ರಾಶಿ ಅನುಪಾತವನ್ನು ಬಳಸಿ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ಕಲಿಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ನೀರಿನ (H₂O) ಅಣುವಿನಲ್ಲಿರುವ ಹೈಡೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_3_example_2",
+  "chunk_id": "std_9_chapter_3_concept_5_chunk_014"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ",
+  "script": "ಈಗ ಒಂದು ದೃಶ್ಯವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಂದು ಮೇಜಿನ ಮೇಲೆ ಪುಸ್ತಕವೊಂದಿದೆ. ನಾವು ಆ ಕೋಣೆಯಲ್ಲಿರುವ ಕಪ್ಪು ಹಲಗೆಯನ್ನು ನಮ್ಮ ನಿರ್ದೇಶಕ ಬಿಂದು ಎಂದು ಭಾವಿಸೋಣ. ಸಮಯ ಕಳೆದಂತೆ, ಅಂದರೆ ಹತ್ತು ನಿಮಿಷಗಳ ನಂತರವೂ, ಆ ಪುಸ್ತಕವು ಕಪ್ಪು ಹಲಗೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ತನ್ನ ಜಾಗವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದು ಅದೇ ಸ್ಥಳದಲ್ಲಿದೆ. ಆದ್ದರಿಂದ, ಕಪ್ಪು ಹಲಗೆಯನ್ನು ನಿರ್ದೇಶಕ ಬಿಂದುವಾಗಿ ಪರಿಗಣಿಸಿದಾಗ, ಪುಸ್ತಕವು ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಯಲ್ಲಿದೆ ಎಂದು ನಾವು ಖಚಿತವಾಗಿ ಹೇಳಬಹುದು. ಇದು ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಗೆ ಒಂದು ಸ್ಪಷ್ಟ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ದೃಶ್ಯವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಂದು ಮೇಜಿನ ಮೇಲೆ ಪುಸ್ತಕವೊಂದಿದೆ. ನಾವು ಆ ಕೋಣೆಯಲ್ಲಿರುವ ಕಪ್ಪು ಹಲಗೆಯನ್ನು ನಮ್ಮ ನಿರ್ದೇಶಕ ಬಿಂದು (reference point) ಎಂದು ಭಾವಿಸೋಣ. ಸಮಯ ಕಳೆದಂತೆ, ಅಂದರೆ 10 ನಿಮಿಷಗಳ ನಂತರವೂ, ಆ ಪುಸ್ತಕವು ಕಪ್ಪು ಹಲಗೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ತನ್ನ ಜಾಗವನ್ನು ಬದಲಿಸಿಲ್ಲ. ಅದು ಅದೇ ಸ್ಥಳದಲ್ಲಿದೆ. ಆದ್ದರಿಂದ, ಕಪ್ಪು ಹಲಗೆಯನ್ನು ನಿರ್ದೇಶಕ ಬಿಂದುವಾಗಿ ಪರಿಗಣಿಸಿದಾಗ, ಪುಸ್ತಕವು ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಯಲ್ಲಿದೆ ಎಂದು ನಾವು ಖಚಿತವಾಗಿ ಹೇಳಬಹುದು.",
+  "display_bullets": [
+    "ಸನ್ನಿವೇಶ: ಮೇಜಿನ ಮೇಲಿರುವ ಪುಸ್ತಕ.",
+    "ನಿರ್ದೇಶಕ ಬಿಂದು: ಕೋಣೆಯ ಕಪ್ಪು ಹಲಗೆ.",
+    "ವೀಕ್ಷಣೆ: ಸಮಯ ಕಳೆದರೂ, ಪುಸ್ತಕದ ಸ್ಥಾನವು ಕಪ್ಪು ಹಲಗೆಗೆ ಹೋಲಿಸಿದರೆ ಬದಲಾಗಿಲ್ಲ.",
+    "ತೀರ್ಮಾನ: ಪುಸ್ತಕವು ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಯಲ್ಲಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A classroom scene. A book is resting on a teacher's desk. The blackboard is visible on the wall behind the desk. An arrow points to the blackboard, labeled 'ನಿರ್ದೇಶಕ ಬಿಂದು' (Reference Point). Another label points to the book, labeled 'ವಸ್ತು' (Object).",
+    "labels": "ಪುಸ್ತಕ, ಮೇಜು, ಕಪ್ಪು ಹಲಗೆ, ನಿರ್ದೇಶಕ ಬಿಂದು",
+    "scientific_significance": "Demonstrates the concept of a state of rest by showing an object (book) whose position does not change over time relative to a fixed reference point (blackboard).",
+    "placeholder_note": "Image to be generated showing a book on a desk with a blackboard in the background, labeled as the reference point."
+  },
+  "chunk_id": "std_6_chapter_5_concept_3_chunk_010"
+}

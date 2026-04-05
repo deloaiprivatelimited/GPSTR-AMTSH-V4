@@ -1,0 +1,158 @@
+{
+  "module_id": "ALG-EQ1-2_concept_2",
+  "merge_code": "ALG-EQ1-2",
+  "voice": "Umbriel",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:01:42",
+  "chunks": {
+    "004_example_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "55cb49f35a634fe2f235fc36fdd9caf1",
+      "wav_file": "004_example_0.wav",
+      "duration": 24.251,
+      "slide_title": "ಸಮಸ್ಯೆ ಪರಿಚಯ",
+      "type": "worked_example",
+      "script_words": 32,
+      "generated_at": "2026-03-30 13:59:24"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "221a2ad148bfb7daf037a1e5cde7ca45",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 34.371,
+      "slide_title": "ನೀವು ತಿಳಿದುಕೊಳ್ಳಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 46,
+      "generated_at": "2026-03-30 13:59:37"
+    },
+    "005_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "9823209f597cd09b3912a2528b3723dc",
+      "wav_file": "005_example_cont_0_1.wav",
+      "duration": 35.691,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "script_words": 51,
+      "generated_at": "2026-03-30 13:59:40"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "39b0ff1033cd1afed833db7bb2e6a7b8",
+      "wav_file": "001_intro_0.wav",
+      "duration": 47.611,
+      "slide_title": "ಎರಡೂ ಕಡೆ ಚರಾಕ್ಷರವಿರುವ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸುವುದು",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-03-30 13:59:48"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "f3674ca2b5a66becd4b347586ed64f27",
+      "wav_file": "003_property_0.wav",
+      "duration": 75.371,
+      "slide_title": "ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸುವ ನಿಯಮಗಳು",
+      "type": "concept_explanation",
+      "script_words": 104,
+      "generated_at": "2026-03-30 13:59:55"
+    },
+    "009_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "b6bd057f27e3764c8710bcc87d9556df",
+      "wav_file": "009_example_cont_1_1.wav",
+      "duration": 19.291,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1-3",
+      "type": "worked_example",
+      "script_words": 51,
+      "generated_at": "2026-03-30 14:00:22"
+    },
+    "008_example_1.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "4804a31a31fdaf367d14b0bc8800341c",
+      "wav_file": "008_example_1.wav",
+      "duration": 23.451,
+      "slide_title": "ಉದಾಹರಣೆ 2: ಸಮಸ್ಯೆ ಪರಿಚಯ",
+      "type": "worked_example",
+      "script_words": 38,
+      "generated_at": "2026-03-30 14:00:23"
+    },
+    "006_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "9adcb04fe63a0da6a76a876086cb08a2",
+      "wav_file": "006_example_cont_0_2.wav",
+      "duration": 29.731,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+      "type": "worked_example",
+      "script_words": 46,
+      "generated_at": "2026-03-30 14:00:30"
+    },
+    "007_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "a4e780b5dfaf44d707af6052680597ac",
+      "wav_file": "007_example_cont_0_3.wav",
+      "duration": 34.891,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 44,
+      "generated_at": "2026-03-30 14:00:32"
+    },
+    "010_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "2d1c6750a4af7c538b70768cdca0a1d0",
+      "wav_file": "010_example_cont_1_2.wav",
+      "duration": 39.371,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 4-6",
+      "type": "worked_example",
+      "script_words": 55,
+      "generated_at": "2026-03-30 14:00:42"
+    },
+    "012_example_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "bb0883f6947004d76dd25b89734aff0a",
+      "wav_file": "012_example_cont_1_4.wav",
+      "duration": 19.491,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 25,
+      "generated_at": "2026-03-30 14:01:23"
+    },
+    "011_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "05c41c463374c534affea5bed9726112",
+      "wav_file": "011_example_cont_1_3.wav",
+      "duration": 34.491,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 7-8",
+      "type": "worked_example",
+      "script_words": 44,
+      "generated_at": "2026-03-30 14:01:35"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Umbriel",
+      "script_hash": "fdba880a15b2ee2e288603dfb1792b92",
+      "wav_file": "013_recap_0.wav",
+      "duration": 43.491,
+      "slide_title": "ಸಾರಾಂಶ: ಎರಡೂ ಕಡೆ ಚರಾಕ್ಷರವಿರುವ ಸಮೀಕರಣಗಳು",
+      "type": "recap",
+      "script_words": 63,
+      "generated_at": "2026-03-30 14:01:42"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ಕಾಂತೀಯ ಬೇರ್ಪಡಿಸುವಿಕೆ",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ನಾವು ಕಾಂತೀಯ ಬೇರ್ಪಡಿಸುವಿಕೆ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಯಾಕೆಂದರೆ, ಮಿಶ್ರಣದಲ್ಲಿರುವ ಕಬ್ಬಿಣದ ಪುಡಿ ಕಾಂತೀಯ ಗುಣವನ್ನು ಹೊಂದಿದೆ. ನಾವು ಒಂದು ಆಯಸ್ಕಾಂತವನ್ನು ಮಿಶ್ರಣದ ಮೇಲೆ ಆಡಿಸಿದಾಗ, ಕಬ್ಬಿಣದ ಪುಡಿಯು ಅದಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ. ಹೀಗೆ ನಾವು ಕಬ್ಬಿಣದ ಪುಡಿಯನ್ನು ಸುಲಭವಾಗಿ ಬೇರ್ಪಡಿಸಬಹುದು.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ನಾವು ಕಾಂತೀಯ ಬೇರ್ಪಡಿಸುವಿಕೆ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಯಾಕೆಂದರೆ, ಮಿಶ್ರಣದಲ್ಲಿರುವ ಕಬ್ಬಿಣದ ಪುಡಿ ಕಾಂತೀಯ ಗುಣವನ್ನು ಹೊಂದಿದೆ. ನಾವು ಒಂದು ಆಯಸ್ಕಾಂತವನ್ನು ಮಿಶ್ರಣದ ಮೇಲೆ ಆಡಿಸಿದಾಗ, ಕಬ್ಬಿಣದ ಪುಡಿಯು ಅದಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ. ಹೀಗೆ ನಾವು ಕಬ್ಬಿಣದ ಪುಡಿಯನ್ನು ಸುಲಭವಾಗಿ ಬೇರ್ಪಡಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಹಂತ 1: ಕಾಂತೀಯ ಬೇರ್ಪಡಿಸುವಿಕೆ (Magnetic Separation)",
+    "ವಿಧಾನ: ಮಿಶ್ರಣದ ಮೇಲೆ ಆಯಸ್ಕಾಂತವನ್ನು ಆಡಿಸುವುದು.",
+    "ಫಲಿತಾಂಶ: ಕಬ್ಬಿಣದ ಪುಡಿ ಆಯಸ್ಕಾಂತಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ ಮತ್ತು ಬೇರ್ಪಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A hand holding a horseshoe magnet over the beaker of mixture. Iron filings are shown jumping up and sticking to the magnet, leaving sand and salt behind.",
+    "labels": "ಆಯಸ್ಕಾಂತ, ಕಬ್ಬಿಣದ ಪುಡಿ, ಮರಳು ಮತ್ತು ಉಪ್ಪಿನ ಮಿಶ್ರಣ",
+    "scientific_significance": "Demonstrates the principle of magnetic separation, where a magnetic component is removed from a non-magnetic mixture.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "source_example_id": "std_6_chapter_9_we_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಕಾಂತೀಯ ಬೇರ್ಪಡಿಸುವಿಕೆ: ಮಿಶ್ರಣದ ಮೇಲೆ ಆಯಸ್ಕಾಂತವನ್ನು ಆಡಿಸಿದಾಗ, ಕಬ್ಬಿಣದ ಪುಡಿಯು ಆಯಸ್ಕಾಂತಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ.",
+      "justification": "ಕಬ್ಬಿಣದ ಪುಡಿ ಕಾಂತೀಯ ವಸ್ತುವಾಗಿರುವುದರಿಂದ ಈ ವಿಧಾನ ಸೂಕ್ತವಾಗಿದೆ."
+    }
+  ],
+  "chunk_id": "std_6_chapter_9_concept_12_chunk_010"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವನ್ನು ನೋಡೋಣ. ಲೋಟದ ಗೋಚರ ಸಾಮರ್ಥ್ಯ, ಅಂದರೆ ಸಿಲಿಂಡರ್‌ನ ಪೂರ್ಣ ಘನಫಲ, 196.25 ಘನ ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಮತ್ತು ಲೋಟದ ನೈಜ ಸಾಮರ್ಥ್ಯ, ಅಂದರೆ ಅರ್ಧಗೋಳದ ಭಾಗವನ್ನು ಕಳೆದ ನಂತರ ಉಳಿಯುವ ಘನಫಲ, 163.54 ಘನ ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ವ್ಯಾಪಾರಿಯು ಗ್ರಾಹಕರಿಗೆ ಕಡಿಮೆ ರಸವನ್ನು ನೀಡಲು ಈ ರೀತಿ ಮಾಡುತ್ತಾನೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವನ್ನು ನೋಡೋಣ. ಲೋಟದ ಗೋಚರ ಸಾಮರ್ಥ್ಯ, ಅಂದರೆ ಸಿಲಿಂಡರ್‌ನ ಪೂರ್ಣ ಘನಫಲ, $196.25 \\text{ cm}^3$ ಆಗಿದೆ. ಮತ್ತು ಲೋಟದ ನೈಜ ಸಾಮರ್ಥ್ಯ, ಅಂದರೆ ಅರ್ಧಗೋಳದ ಭಾಗವನ್ನು ಕಳೆದ ನಂತರ ಉಳಿಯುವ ಘನಫಲ, $163.54 \\text{ cm}^3$ ಆಗಿದೆ. ವ್ಯಾಪಾರಿಯು ಗ್ರಾಹಕರಿಗೆ ಕಡಿಮೆ ರಸವನ್ನು ನೀಡಲು ಈ ರೀತಿ ಮಾಡುತ್ತಾನೆ.",
+  "display_bullets": [
+    "ಗೋಚರ ಸಾಮರ್ಥ್ಯ (Apparent Capacity): $196.25 \\text{ cm}^3$",
+    "ನೈಜ ಸಾಮರ್ಥ್ಯ (Actual Capacity): $163.54 \\text{ cm}^3$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "MEN-VOL-3_example_9",
+  "final_answer": "ಲೋಟದ ಗೋಚರ ಸಾಮರ್ಥ್ಯ `196.25 \\text{ cm}^3` ಮತ್ತು ನೈಜ ಸಾಮರ್ಥ್ಯ `163.54 \\text{ cm}^3` ಆಗಿದೆ.",
+  "final_answer_display": "ಲೋಟದ ಗೋಚರ ಸಾಮರ್ಥ್ಯ (Apparent Capacity) = $196.25 \\text{ cm}^3$ \n ಲೋಟದ ನೈಜ ಸಾಮರ್ಥ್ಯ (Actual Capacity) = $163.54 \\text{ cm}^3$",
+  "chunk_id": "MEN-VOL-3_concept_4_chunk_011"
+}

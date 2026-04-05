@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಬಹುಪದೋಕ್ತಿಯ ಡಿಗ್ರಿ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಕೆಳಗೆ ನೀಡಿದ ಪ್ರತಿಯೊಂದು ಬಹುಪದೋಕ್ತಿಯ ಡಿಗ್ರಿಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಮೊದಲನೆಯದು, x ಟು ದ ಪವರ್ ಫೈವ್ ಮೈನಸ್ x ಟು ದ ಪವರ್ ಫೋರ್ ಪ್ಲಸ್ ತ್ರೀ. ಎರಡನೆಯದು, ಟೂ ಮೈನಸ್ y ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ y ಕ್ಯೂಬ್ಡ್ ಪ್ಲಸ್ ಟೂ y ಟು ದ ಪವರ್ ಏಟ್. ಮತ್ತು ಮೂರನೆಯದು, ಟೂ. ಇಲ್ಲಿ ನಮಗೆ ಮೂರು ಬಹುಪದೋಕ್ತಿಗಳನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ನಾವು ಪ್ರತಿಯೊಂದರ ಡಿಗ್ರಿಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಕೆಳಗೆ ನೀಡಿದ ಪ್ರತಿಯೊಂದು ಬಹುಪದೋಕ್ತಿಯ ಡಿಗ್ರಿಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. (i) $x^5 - x^4 + 3$ (ii) $2 - y^2 - y^3 + 2y^8$ (iii) $2$. ಇಲ್ಲಿ ನಮಗೆ ಮೂರು ಬಹುಪದೋಕ್ತಿಗಳನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ನಾವು ಪ್ರತಿಯೊಂದರ ಡಿಗ್ರಿಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ನೀಡಿರುವ ಬಹುಪದೋಕ್ತಿಗಳ ಡಿಗ್ರಿಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+    "(i) $x^5 - x^4 + 3$",
+    "(ii) $2 - y^2 - y^3 + 2y^8$",
+    "(iii) $2$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಈ ಕೆಳಗೆ ನೀಡಿದ ಪ್ರತಿಯೊಂದು ಬಹುಪದೋಕ್ತಿಯ ಡಿಗ್ರಿಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.}\\\\ \\text{(i) } x^5 - x^4 + 3 \\\\ \\text{(ii) } 2 - y^2 - y^3 + 2y^8 \\\\ \\text{(iii) } 2",
+    "placeholder_note": "Display the problem statement clearly."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "ALG-POL-3_example_1",
+  "chunk_id": "ALG-POL-3_concept_1_chunk_051"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ",
+  "script": "ಕೆಲವು ದಿನಗಳವರೆಗೆ ಕಾದುನೋಡಿದಾಗ, ನಾವು ಒಂದು ಅದ್ಭುತ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಬಹುದು. ನಾವು ನೆಟ್ಟಿದ್ದ ಆಲೂಗಡ್ಡೆಯ ತುಂಡುಗಳ 'ಕಣ್ಣು'ಗಳಿಂದ ಹೊಸ ಸಸಿಗಳು ಚಿಗುರೊಡೆಯಲು ಪ್ರಾರಂಭಿಸುತ್ತವೆ. ಈ ಸಸಿಗಳು ನಿಧಾನವಾಗಿ ಬೆಳೆದು, ಎಲೆಗಳನ್ನು ಮತ್ತು ಕಾಂಡವನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುತ್ತವೆ. ಮಣ್ಣಿನ ಕೆಳಗೆ, ಹೊಸ ಬೇರುಗಳು ಸಹ ಬೆಳೆಯಲು ಆರಂಭಿಸುತ್ತವೆ. ಇದು ಕಾಯಜ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಯಶಸ್ಸನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಕೆಲವು ದಿನಗಳವರೆಗೆ ಕಾದುನೋಡಿದಾಗ, ನಾವು ಒಂದು ಅದ್ಭುತ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಬಹುದು. ನಾವು ನೆಟ್ಟಿದ್ದ ಆಲೂಗಡ್ಡೆಯ ತುಂಡುಗಳ 'ಕಣ್ಣು'ಗಳಿಂದ ಹೊಸ ಸಸಿಗಳು ಚಿಗುರೊಡೆಯಲು ಪ್ರಾರಂಭಿಸುತ್ತವೆ. ಈ ಸಸಿಗಳು ನಿಧಾನವಾಗಿ ಬೆಳೆದು, ಎಲೆಗಳನ್ನು ಮತ್ತು ಕಾಂಡವನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುತ್ತವೆ. ಮಣ್ಣಿನ ಕೆಳಗೆ, ಹೊಸ ಬೇರುಗಳು ಸಹ ಬೆಳೆಯಲು ಆರಂಭಿಸುತ್ತವೆ. ಇದು ಕಾಯಜ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಯಶಸ್ಸನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕೆಲವು ದಿನಗಳ ನಂತರ, 'ಕಣ್ಣು'ಗಳಿಂದ ಹೊಸ ಸಸಿಗಳು ಚಿಗುರೊಡೆಯುತ್ತವೆ.",
+    "ಸಸಿಗಳು ಬೆಳೆದು ಎಲೆ ಮತ್ತು ಕಾಂಡಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುತ್ತವೆ.",
+    "ಮಣ್ಣಿನ ಕೆಳಗೆ ಹೊಸ ಬೇರುಗಳು ಬೆಳೆಯುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a piece of potato planted in soil, with a small green shoot and leaves emerging from the 'eye' and growing upwards, and small roots growing downwards into the soil.",
+    "labels": "ಚಿಗುರುತ್ತಿರುವ ಸಸಿ, ಬೇರುಗಳು",
+    "scientific_significance": "Visually confirms that a new plant can grow from the vegetative bud ('eye') of a potato tuber.",
+    "placeholder_note": "Image to be generated based on visual_aids_in_module, ಚಿತ್ರ 8.2."
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_7_chapter_8_concept_2_chunk_031"
+}

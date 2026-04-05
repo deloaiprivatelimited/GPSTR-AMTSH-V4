@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆಗಳು ಮತ್ತು ಪ್ರತಿ-ಉದಾಹರಣೆಗಳು",
+  "script": "ಯಾವುದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ ಮತ್ತು ಯಾವುದು ಅಲ್ಲ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಎರಡು x ಮೈನಸ್ ಮೂರು y ಈಕ್ವಲ್ಸ್ ಒಂಬತ್ತು. ಇದು ಎರಡು ಚರಾಕ್ಷರಗಳಿರುವ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಾಗಿದೆ. ಏಕೆಂದರೆ ಇದರಲ್ಲಿ x ಮತ್ತು y ಗಳ ಘಾತಾಂಕಗಳು, ಅಂದರೆ ಪವರ್, ಒಂದಾಗಿದೆ. ಇದನ್ನು ಎರಡು x ಮೈನಸ್ ಮೂರು y ಮೈನಸ್ ಒಂಬತ್ತು ಈಕ್ವಲ್ಸ್ ಜೀರೋ ಎಂದು ಬರೆಯಬಹುದು. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, x ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ y ಈಕ್ವಲ್ಸ್ ಐದು. ಇದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಲ್ಲ, ಏಕೆಂದರೆ x ನ ಘಾತಾಂಕ ಎರಡಾಗಿದೆ. ರೇಖಾತ್ಮಕ ಸಮೀಕರಣದಲ್ಲಿ ಚರಾಕ್ಷರಗಳ ಘಾತಾಂಕ ಯಾವಾಗಲೂ ಒಂದಾಗಿರಬೇಕು. ಹಾಗೆಯೇ, x y ಈಕ್ವಲ್ಸ್ ನಾಲ್ಕು ಕೂಡ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಲ್ಲ, ಏಕೆಂದರೆ ಇಲ್ಲಿ ಚರಾಕ್ಷರಗಳು ಗುಣಿಸಲ್ಪಟ್ಟಿವೆ.",
+  "script_display": "ಯಾವುದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ ಮತ್ತು ಯಾವುದು ಅಲ್ಲ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ, $2x - 3y = 9$. ಇದು ಎರಡು ಚರಾಕ್ಷರಗಳಿರುವ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಾಗಿದೆ. ಏಕೆಂದರೆ ಇದರಲ್ಲಿ $x$ ಮತ್ತು $y$ ಗಳ ಘಾತಾಂಕಗಳು (powers) ಒಂದಾಗಿದೆ. ಇದನ್ನು $2x - 3y - 9 = 0$ ಎಂದು ಬರೆಯಬಹುದು. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, $x^2 + y = 5$. ಇದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಲ್ಲ, ಏಕೆಂದರೆ $x$ ನ ಘಾತಾಂಕ 2 ಆಗಿದೆ. ರೇಖಾತ್ಮಕ ಸಮೀಕರಣದಲ್ಲಿ ಚರಾಕ್ಷರಗಳ ಘಾತಾಂಕ ಯಾವಾಗಲೂ 1 ಆಗಿರಬೇಕು. ಹಾಗೆಯೇ, $xy = 4$ ಕೂಡ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಲ್ಲ, ಏಕೆಂದರೆ ಇಲ್ಲಿ ಚರಾಕ್ಷರಗಳು ಗುಣಿಸಲ್ಪಟ್ಟಿವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_text_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen visual. Left side titled 'ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ ಹೌದು' shows the equation '2x - 3y = 9' with a green checkmark. Below it, text says 'ಕಾರಣ: x ಮತ್ತು y ಗಳ ಘಾತಾಂಕ 1 ಆಗಿದೆ'. Right side titled 'ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ ಅಲ್ಲ' shows two equations: 'x^2 + y = 5' and 'xy = 4', both with a red cross mark. Below the first, text says 'ಕಾರಣ: x ನ ಘಾತಾಂಕ 2 ಆಗಿದೆ'. Below the second, text says 'ಕಾರಣ: x ಮತ್ತು y ಪದಗಳು ಗುಣಿಸಲ್ಪಟ್ಟಿವೆ'.",
+    "labels": "Linear equation, non-linear equation, exponent, variable product",
+    "mathematical_significance": "Visually distinguishes linear equations from non-linear equations based on the power of variables and their products.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "chunk_id": "ALG-EQ2-3_concept_1_chunk_010"
+}

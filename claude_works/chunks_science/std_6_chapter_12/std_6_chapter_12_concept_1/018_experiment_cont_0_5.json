@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ತೀರ್ಮಾನ",
+  "script": "ಹಾಗಾದರೆ, ನಮ್ಮ ವೀಕ್ಷಣೆಯಿಂದ ನಾವು ಯಾವ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು? ಆಕಾಶದಲ್ಲಿ ಸ್ಥಿರವಾಗಿ ಕಾಣುವ, ಸಪ್ತರ್ಷಿ ಮಂಡಲದ ಸಹಾಯದಿಂದ ನಾವು ಗುರುತಿಸಿದ ಆ ನಕ್ಷತ್ರವೇ ಧ್ರುವ ನಕ್ಷತ್ರ. ಇದು ಭೂಮಿಯ ಉತ್ತರ ಧ್ರುವಕ್ಕೆ ನೇರವಾಗಿ ಮೇಲಿದೆ. ಇದೇ ಕಾರಣದಿಂದ ಅದು ಯಾವಾಗಲೂ ಉತ್ತರ ದಿಕ್ಕಿನಲ್ಲಿ ಸ್ಥಿರವಾಗಿ ಕಾಣುತ್ತದೆ. ಈ ಕಾರಣಕ್ಕಾಗಿಯೇ, ಶತಮಾನಗಳಿಂದ ಇದನ್ನು ದಿಕ್ಸೂಚಿಯಾಗಿ ಬಳಸಲಾಗುತ್ತಿದೆ. ನೀವು ರಾತ್ರಿಯಲ್ಲಿ ದಾರಿ ತಪ್ಪಿದರೆ, ಧ್ರುವ ನಕ್ಷತ್ರವನ್ನು ಹುಡುಕಿ, ಅದು ನಿಮಗೆ ಉತ್ತರ ದಿಕ್ಕನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಆಕಾಶದಲ್ಲಿ ಸ್ಥಿರವಾಗಿ ಕಾಣುವ, ಸಪ್ತರ್ಷಿ ಮಂಡಲದ ಸಹಾಯದಿಂದ ನಾವು ಗುರುತಿಸಿದ ಆ ನಕ್ಷತ್ರವೇ ಧ್ರುವ ನಕ್ಷತ್ರ (Pole Star). ಇದು ಭೂಮಿಯ ಉತ್ತರ ಧ್ರುವಕ್ಕೆ ನೇರವಾಗಿ ಮೇಲಿರುವುದರಿಂದ, ಯಾವಾಗಲೂ ಉತ್ತರ ದಿಕ್ಕನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಇದನ್ನು ದಿಕ್ಸೂಚಿಯಾಗಿ ಬಳಸುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಸ್ಥಿರವಾಗಿ ಕಾಣುವ ಆ ನಕ್ಷತ್ರವೇ ಧ್ರುವ ನಕ್ಷತ್ರ (Pole Star).",
+    "ಇದು ಯಾವಾಗಲೂ ಉತ್ತರ ದಿಕ್ಕನ್ನು ನಿಖರವಾಗಿ ಸೂಚಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing the Earth with its North and South poles and axis of rotation. A line extends from the North Pole straight up to the Pole Star (Polaris), with a person standing on the Northern Hemisphere looking towards it. An arrow points North.",
+    "labels": "Earth, Axis of Rotation, North Pole, Pole Star (Polaris), North Direction",
+    "scientific_significance": "Explains the scientific reason behind Polaris's apparent fixed position and its utility in navigation.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "conclusion",
+  "chunk_id": "std_6_chapter_12_concept_1_chunk_018"
+}

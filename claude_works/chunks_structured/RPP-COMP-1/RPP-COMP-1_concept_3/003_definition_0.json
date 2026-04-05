@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಕೊಂಡ ಬೆಲೆ (Cost Price - CP): ವ್ಯಾಖ್ಯೆ",
+  "script": "ವಾಣಿಜ್ಯ ಗಣಿತದಲ್ಲಿ, ಕೊಂಡ ಬೆಲೆ ಅಥವಾ ಕಾಸ್ಟ್ ಪ್ರೈಸ್ ಒಂದು ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆ. ಮೊದಲು ಇದರ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ವಸ್ತುವನ್ನು ಖರೀದಿಸಲು ಒಬ್ಬ ವ್ಯಕ್ತಿ ಅಥವಾ ವ್ಯಾಪಾರಿ ಪಾವತಿಸುವ ಹಣವನ್ನು 'ಕೊಂಡ ಬೆಲೆ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ನೀವು ಒಂದು ವಸ್ತುವನ್ನು ಕೊಳ್ಳಲು ಎಷ್ಟು ಹಣ ಕೊಡುತ್ತೀರೋ, ಅದೇ ಅದರ ಕೊಂಡ ಬೆಲೆ. ಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ, ನಾವು ಇದನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಸಿಪಿ, ಅಂದರೆ C P, ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಇದು ಲಾಭ ಮತ್ತು ನಷ್ಟವನ್ನು ನಿರ್ಧರಿಸುವಲ್ಲಿ ಮೊದಲ ಹೆಜ್ಜೆಯಾಗಿದೆ.",
+  "script_display": "ವಾಣಿಜ್ಯ ಗಣಿತದಲ್ಲಿ, ಕೊಂಡ ಬೆಲೆ (Cost Price) ಒಂದು ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆ. ಮೊದಲು ಇದರ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ವಸ್ತುವನ್ನು ಖರೀದಿಸಲು ಒಬ್ಬ ವ್ಯಕ್ತಿ ಅಥವಾ ವ್ಯಾಪಾರಿ ಪಾವತಿಸುವ ಹಣವನ್ನು 'ಕೊಂಡ ಬೆಲೆ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ನೀವು ಒಂದು ವಸ್ತುವನ್ನು ಕೊಳ್ಳಲು ಎಷ್ಟು ಹಣ ಕೊಡುತ್ತೀರೋ, ಅದೇ ಅದರ ಕೊಂಡ ಬೆಲೆ. ಗಣಿತದ ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ, ನಾವು ಇದನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ CP ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಇದು ಲಾಭ ಮತ್ತು ನಷ್ಟವನ್ನು ನಿರ್ಧರಿಸುವಲ್ಲಿ ಮೊದಲ ಹೆಜ್ಜೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಒಂದು ವಸ್ತುವನ್ನು ಖರೀದಿಸಲು ಒಬ್ಬ ವ್ಯಕ್ತಿ ಅಥವಾ ವ್ಯಾಪಾರಿ ಪಾವತಿಸುವ ಹಣವನ್ನು 'ಕೊಂಡ ಬೆಲೆ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+    "ಇದನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ CP ಎಂದು ಗುರುತಿಸಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple icon representing a price tag with a currency symbol (like ₹) on it. The text 'CP' should be clearly visible on the tag.",
+    "labels": "Price tag, CP, Rupee symbol",
+    "mathematical_significance": "Represents the concept of Cost Price visually.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "RPP-COMP-1_concept_3_chunk_003"
+}

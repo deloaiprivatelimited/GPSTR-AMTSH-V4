@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸುರಕ್ಷಿತ ಬಳಕೆ vs ಓವರ್‌ಲೋಡ್",
+  "script": "ಈಗ ಸುರಕ್ಷಿತ ಬಳಕೆ ಮತ್ತು ಓವರ್‌ಲೋಡ್ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ನೋಡೋಣ. ಸುರಕ್ಷಿತ ಬಳಕೆಯಲ್ಲಿ, ಕಡಿಮೆ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿದಾಗ, ಒಟ್ಟು ಪ್ರವಾಹ ಮಿತಿಯೊಳಗೆ ಇರುತ್ತದೆ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಓವರ್‌ಲೋಡ್ ಸ್ಥಿತಿಯಲ್ಲಿ, ಒಂದೇ ಸಾಕೆಟ್‌ಗೆ ಹಲವು ಉಪಕರಣಗಳನ್ನು ಜೋಡಿಸಿದಾಗ, ಒಟ್ಟು ಪ್ರವಾಹವು ಮಿತಿಯನ್ನು ಮೀರುತ್ತದೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ, ಓವರ್‌ಲೋಡ್‌ನಿಂದ ತಂತಿಗಳು ಅತಿಯಾಗಿ ಬಿಸಿಯಾಗಿ, ಅವುಗಳ ಮೇಲಿನ ನಿರೋಧಕ ಪದರ ಕರಗಿ ಬೆಂಕಿಯ ಅಪಾಯ ಉಂಟಾಗಬಹುದು. ಆದ್ದರಿಂದ, ಯಾವಾಗಲೂ ಒಂದು ಸಾಕೆಟ್‌ಗೆ ಸೀಮಿತ ಉಪಕರಣಗಳನ್ನು ಜೋಡಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ಸುರಕ್ಷಿತ ಬಳಕೆ ಮತ್ತು ಓವರ್‌ಲೋಡ್ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ನೋಡೋಣ. ಸುರಕ್ಷಿತ ಬಳಕೆಯಲ್ಲಿ, ಕಡಿಮೆ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿದಾಗ, ಒಟ್ಟು ಪ್ರವಾಹ ಮಿತಿಯೊಳಗೆ ಇರುತ್ತದೆ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಓವರ್‌ಲೋಡ್ ಸ್ಥಿತಿಯಲ್ಲಿ, ಒಂದೇ ಸಾಕೆಟ್‌ಗೆ ಹಲವು ಉಪಕರಣಗಳನ್ನು ಜೋಡಿಸಿದಾಗ, ಒಟ್ಟು ಪ್ರವಾಹವು ಮಿತಿಯನ್ನು ಮೀರುತ್ತದೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ, ಓವರ್‌ಲೋಡ್‌ನಿಂದ ತಂತಿಗಳು ಅತಿಯಾಗಿ ಬಿಸಿಯಾಗಿ, ಅವುಗಳ ಮೇಲಿನ ನಿರೋಧಕ ಪದರ ಕರಗಿ ಬೆಂಕಿಯ ಅಪಾಯ ಉಂಟಾಗಬಹುದು. ಆದ್ದರಿಂದ, ಯಾವಾಗಲೂ ಒಂದು ಸಾಕೆಟ್‌ಗೆ ಸೀಮಿತ ಉಪಕರಣಗಳನ್ನು ಜೋಡಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಸುರಕ್ಷಿತ ಬಳಕೆ: ಕಡಿಮೆ ಉಪಕರಣಗಳು, ಒಟ್ಟು ಪ್ರವಾಹ ಮಿತಿಯೊಳಗೆ ಇರುತ್ತದೆ.",
+    "ಓವರ್‌ಲೋಡ್: ಹಲವು ಉಪಕರಣಗಳು, ಒಟ್ಟು ಪ್ರವಾಹ ಮಿತಿಯನ್ನು ಮೀರುತ್ತದೆ.",
+    "ಪರಿಣಾಮ: ಓವರ್‌ಲೋಡ್‌ನಿಂದ ತಂತಿಗಳು ಬಿಸಿಯಾಗಿ ಬೆಂಕಿಯ ಅಪಾಯವಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "template_1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen image. Left side titled 'ಸುರಕ್ಷಿತ ಬಳಕೆ' shows a wall socket with only a phone charger plugged in, with a green checkmark. Right side titled 'ಓವರ್‌ಲೋಡ್ (ಅಪಾಯಕಾರಿ)' shows the same socket with a multi-adapter and several high-power appliances, with the wires glowing red and a red cross mark.",
+    "labels": "Safe Usage, Overloading, Low-power device, High-power devices, Overheating",
+    "scientific_significance": "Provides a direct visual contrast between a safe electrical load and a dangerous overload condition, reinforcing the concept.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_10_chapter_12_concept_5_chunk_017"
+}

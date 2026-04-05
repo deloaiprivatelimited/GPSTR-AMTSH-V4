@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಬರಡು ಪ್ರಾಣಿಗಳು (Draught Animals)",
+  "script": "ಮುಂದಿನ ಪ್ರಕಾರ ಬರಡು ಪ್ರಾಣಿಗಳು. ಇವುಗಳ ಮುಖ್ಯ ಉದ್ದೇಶ ಕೃಷಿ ಕೆಲಸ ಮತ್ತು ಸಾಗಾಣಿಕೆ. ಇವುಗಳನ್ನು ಹೊಲಗಳನ್ನು ಉಳುಮೆ ಮಾಡಲು, ಬಾವಿಗಳಿಂದ ನೀರು ಎತ್ತಲು ಮತ್ತು ಭಾರವಾದ ವಸ್ತುಗಳನ್ನು ಒಂದು ಕಡೆಯಿಂದ ಇನ್ನೊಂದು ಕಡೆಗೆ ಸಾಗಿಸಲು ಬಳಸುತ್ತಾರೆ. ಇವುಗಳ ವಿವರಣೆ ನೋಡುವುದಾದರೆ, ಇವುಗಳನ್ನು ಉಳುಮೆ, ನೀರಾವರಿ ಮತ್ತು ಭಾರ ಎಳೆಯಲು ಬಳಸಲಾಗುತ್ತದೆ. ಭಾರತದ ಕೃಷಿ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಇವುಗಳ ಪಾತ್ರ ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ. ಇದಕ್ಕೆ ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ ಎಂದರೆ ಎತ್ತುಗಳು. ಇವು ರೈತನ ಆಪ್ತಮಿತ್ರನಂತೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ.",
+  "script_display": "ಮುಂದಿನ ಪ್ರಕಾರ ಬರಡು ಪ್ರಾಣಿಗಳು (Draught Animals). ಇವುಗಳ ಮುಖ್ಯ ಉದ್ದೇಶ ಕೃಷಿ ಕೆಲಸ ಮತ್ತು ಸಾಗಾಣಿಕೆ. ಇವುಗಳನ್ನು ಹೊಲಗಳನ್ನು ಉಳುಮೆ ಮಾಡಲು, ಬಾವಿಗಳಿಂದ ನೀರು ಎತ್ತಲು ಮತ್ತು ಭಾರವಾದ ವಸ್ತುಗಳನ್ನು ಒಂದು ಕಡೆಯಿಂದ ಇನ್ನೊಂದು ಕಡೆಗೆ ಸಾಗಿಸಲು ಬಳಸುತ್ತಾರೆ. ಇವುಗಳ ವಿವರಣೆ ನೋಡುವುದಾದರೆ, ಇವುಗಳನ್ನು ಉಳುಮೆ, ನೀರಾವರಿ ಮತ್ತು ಭಾರ ಎಳೆಯಲು ಬಳಸಲಾಗುತ್ತದೆ. ಭಾರತದ ಕೃಷಿ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಇವುಗಳ ಪಾತ್ರ ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ. ಇದಕ್ಕೆ ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ ಎಂದರೆ ಎತ್ತುಗಳು. ಇವು ರೈತನ ಆಪ್ತಮಿತ್ರನಂತೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ಉದ್ದೇಶ: ಕೃಷಿ ಕೆಲಸ ಮತ್ತು ಸಾಗಾಣಿಕೆ",
+    "ವಿವರಣೆ: ಇವುಗಳನ್ನು ಉಳುಮೆ, ನೀರಾವರಿ ಮತ್ತು ಭಾರ ಎಳೆಯಲು ಬಳಸಲಾಗುತ್ತದೆ.",
+    "ಉದಾಹರಣೆ: ಎತ್ತುಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of a pair of oxen pulling a traditional wooden plough in a field. A farmer is guiding them. The scene should depict physical labor.",
+    "labels": "ಎತ್ತುಗಳು (ಬರಡು ಪ್ರಾಣಿಗಳು)",
+    "scientific_significance": "Visually demonstrates the concept of 'draught animals' by showing them performing their primary function – agricultural labor, which is a cornerstone of traditional farming.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_8_chunk_005"
+}

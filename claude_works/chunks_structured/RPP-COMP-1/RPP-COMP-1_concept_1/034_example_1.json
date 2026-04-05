@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ದಶಮಾಂಶದಿಂದ ಶೇಕಡಾವಾರು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಸ್ಯೆ ಹೀಗಿದೆ: ದಶಮಾಂಶ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಏಳು ಐದನ್ನು ಶೇಕಡಾ ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ ಕೊಟ್ಟಿರುವ ದಶಮಾಂಶ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಏಳು ಐದು. ನಾವು ಇದರ ಶೇಕಡಾ ರೂಪವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. **ಸಮಸ್ಯೆ:** ದಶಮಾಂಶ $0.75$ ನ್ನು ಶೇಕಡಾ ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ **ಕೊಟ್ಟಿರುವ ದಶಮಾಂಶ:** $0.75$. ನಾವು ಇದರ **ಶೇಕಡಾ ರೂಪವನ್ನು** ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "**ಸಮಸ್ಯೆ:** ದಶಮಾಂಶ $0.75$ ನ್ನು ಶೇಕಡಾ ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸಿ.",
+    "**ಕೊಟ್ಟಿರುವ ದಶಮಾಂಶ:** $0.75$",
+    "**ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು:** ಶೇಕಡಾ ರೂಪ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "RPP-COMP-1_example_2",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "RPP-COMP-1_concept_1_chunk_034"
+}

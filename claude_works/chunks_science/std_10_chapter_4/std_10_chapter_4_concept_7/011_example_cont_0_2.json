@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ಸಿ ಎಚ್ ತ್ರೀ, ಸಿ ಎಚ್ ಟೂ, ಓ ಎಚ್ ಸಂಯುಕ್ತದ ಸರಿಯಾದ ಐಯುಪಿಎಸಿ ಹೆಸರು ಎಥನಾಲ್. ಇಲ್ಲಿ, 'ಈಥ್' ಅಂದರೆ ಎರಡು ಕಾರ್ಬನ್, 'ಏನ್' ಅಂದರೆ ಏಕಬಂಧ, ಮತ್ತು 'ಓಲ್' ಅಂದರೆ ಆಲ್ಕೋಹಾಲ್ ಕ್ರಿಯಾಗುಂಪು.",
+  "script_display": "ಹೀಗಾಗಿ, $CH_3-CH_2-OH$ ಸಂಯುಕ್ತದ ಸರಿಯಾದ IUPAC ಹೆಸರು ಎಥನಾಲ್ (Ethanol).",
+  "display_bullets": [
+    "ಮೂಲ ಪದ 'ಈಥ್' (Eth) = 2 ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳು",
+    "ಪ್ರತ್ಯಯ '-ಏನ್' (-ane) = ಏಕಬಂಧ",
+    "ಪ್ರತ್ಯಯ '-ಓಲ್' (-ol) = ಆಲ್ಕೋಹಾಲ್ ಕ್ರಿಯಾಗುಂಪು"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಎಥನಾಲ್ (Ethanol)}",
+    "placeholder_note": "Final answer in a highlighted box"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "std_10_chapter_4_we_2",
+  "final_answer": "ಎಥನಾಲ್ (Ethanol)",
+  "final_answer_display": "ಎಥನಾಲ್ (Ethanol)",
+  "chunk_id": "std_10_chapter_4_concept_7_chunk_011"
+}

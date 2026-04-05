@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಾಧನೆ",
+  "script": "ಈಗ ನಾವು ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಕೋನಗಳ ಗುಣಲಕ್ಷಣವನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ಗುಣಲಕ್ಷಣದ ಪ್ರಕಾರ, ಅಭಿಮುಖ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, ಕೋನ C ಯು ಕೋನ A ಗೆ ಸಮವಾಗಿರುತ್ತದೆ, ಮತ್ತು ಕೋನ D ಯು ಕೋನ B ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ನಾವು ಈಗಾಗಲೇ ಕೋನ A ಮತ್ತು ಕೋನ B ಎರಡೂ 90 ಡಿಗ್ರಿ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಹಾಗಾಗಿ, ಕೋನ C ಮತ್ತು ಕೋನ D ಕೂಡ 90 ಡಿಗ್ರಿ ಆಗಿರುತ್ತವೆ.",
+  "script_display": "ಈಗ ನಾವು ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಕೋನಗಳ ಗುಣಲಕ್ಷಣವನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ಗುಣಲಕ್ಷಣದ ಪ್ರಕಾರ, ಅಭಿಮುಖ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, $∠C = ∠A$ ಮತ್ತು $∠D = ∠B$. ನಾವು ಈಗಾಗಲೇ $∠A$ ಮತ್ತು $∠B$ ಎರಡೂ $90°$ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಹಾಗಾಗಿ, $∠C$ ಮತ್ತು $∠D$ ಕೂಡ $90°$ ಆಗಿರುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-QUAD-2_example_1",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "$∠C = ∠A = 90°$ ಮತ್ತು $∠D = ∠B = 90°$.",
+      "justification": "ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "GEO-QUAD-2_concept_2_chunk_021"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1-3",
+  "script": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ನಮಗೆ ಕೊಟ್ಟಿರುವಂತೆ DE ಯು BC ಗೆ ಸಮಾಂತರವಾಗಿದೆ. ಆದ್ದರಿಂದ, ನಾವು ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸಬಹುದು. ಈ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, AD ಭಾಗಿಸು DB ಸಮ AE ಭಾಗಿಸು EC ಆಗುತ್ತದೆ. ಮುಂದೆ, ಈ ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಆಗ ನಮಗೆ DB ಭಾಗಿಸು AD ಸಮ EC ಭಾಗಿಸು AE ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ನಮಗೆ ಕೊಟ್ಟಿರುವಂತೆ $DE || BC$ ಆಗಿದೆ. ಆದ್ದರಿಂದ, ನಾವು ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯವನ್ನು (BPT) ಅನ್ವಯಿಸಬಹುದು. ಈ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, $\\frac{AD}{DB} = \\frac{AE}{EC}$ ಆಗುತ್ತದೆ. ಮುಂದೆ, ಈ ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಆಗ ನಮಗೆ $\\frac{DB}{AD} = \\frac{EC}{AE}$ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_12",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$DE || BC$",
+      "justification": "ದತ್ತಾಂಶ"
+    },
+    {
+      "step": 2,
+      "action_display": "$\\frac{AD}{DB} = \\frac{AE}{EC}$",
+      "justification": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯ (BPT) ದಿಂದ."
+    },
+    {
+      "step": 3,
+      "action_display": "$\\frac{DB}{AD} = \\frac{EC}{AE}$",
+      "justification": "ಅನುಪಾತದ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ."
+    }
+  ],
+  "chunk_id": "GEO-TRI-2_concept_4_chunk_025"
+}

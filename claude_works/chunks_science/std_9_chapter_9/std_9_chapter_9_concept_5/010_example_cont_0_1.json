@@ -1,0 +1,49 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರದ ಹಂತಗಳು",
+  "script": "ಈಗ ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ಭೂಮಿಯ ಮೇಲಿನ ತೂಕ ಮತ್ತು ಚಂದ್ರನ ಮೇಲಿನ ತೂಕದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಬಳಸುವುದು. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಚಂದ್ರನ ಮೇಲಿನ ವಸ್ತುವಿನ ತೂಕವು ಭೂಮಿಯ ಮೇಲಿನ ಅದರ ತೂಕದ ಆರನೇ ಒಂದರಷ್ಟಿರುತ್ತದೆ. ಎರಡನೇ ಹಂತ, ದತ್ತಾಂಶವನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸುವುದು. ಭೂಮಿಯ ಮೇಲಿನ ತೂಕ ಹತ್ತು ನ್ಯೂಟನ್ ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಚಂದ್ರನ ಮೇಲಿನ ತೂಕವು ಆರನೇ ಒಂದನ್ನು ಹತ್ತರಿಂದ ಗುಣಿಸಿದಾಗ ಬರುತ್ತದೆ. ಇದನ್ನು ಲೆಕ್ಕ ಹಾಕಿದಾಗ, ನಮಗೆ ಸರಿಸುಮಾರು ಒಂದು ಪಾಯಿಂಟ್ ಆರು ಏಳು ನ್ಯೂಟನ್ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. **ಹಂತ 1:** ಭೂಮಿಯ ಮೇಲಿನ ತೂಕ (Wₑ) ಮತ್ತು ಚಂದ್ರನ ಮೇಲಿನ ತೂಕದ (Wₘ) ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಬಳಸಿ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಚಂದ್ರನ ಮೇಲಿನ ವಸ್ತುವಿನ ತೂಕವು ಭೂಮಿಯ ಮೇಲಿನ ಅದರ ತೂಕದ 1/6 ರಷ್ಟಿರುತ್ತದೆ. **ಹಂತ 2:** ದತ್ತಾಂಶವನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ. ಭೂಮಿಯ ಮೇಲಿನ ತೂಕ (Wₑ) 10 N ಆಗಿದೆ. ಆದ್ದರಿಂದ, Wₘ = 1/6 × 10 N. ಇದನ್ನು ಲೆಕ್ಕ ಹಾಕಿದಾಗ, ನಮಗೆ Wₘ ≈ 1.67 N ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "**ಹಂತ 1:** ಭೂಮಿ ಮತ್ತು ಚಂದ್ರನ ಮೇಲಿನ ತೂಕದ ಸಂಬಂಧವನ್ನು ಬಳಸಿ.",
+    "**ಹಂತ 2:** ದತ್ತಾಂಶವನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ ಮತ್ತು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "W_m = \\frac{1}{6} W_e \\\\ W_m = \\frac{1}{6} \\times 10 \\text{ N} \\\\ W_m = \\frac{10}{6} \\text{ N} \\approx 1.67 \\text{ N}",
+    "placeholder_note": "Calculation showing substitution of We=10N into the formula Wm = 1/6 We, and solving to get 1.67 N."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_9_example_3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಭೂಮಿಯ ಮೇಲಿನ ತೂಕ ಮತ್ತು ಚಂದ್ರನ ಮೇಲಿನ ತೂಕದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಬಳಸಿ. $W_m = \\frac{1}{6} W_e$",
+      "justification": "ಚಂದ್ರನ ಮೇಲಿನ ಗುರುತ್ವವು ಭೂಮಿಯ ಗುರುತ್ವದ 1/6 ರಷ್ಟು ಇರುವುದರಿಂದ, ತೂಕವೂ 1/6 ರಷ್ಟಾಗುತ್ತದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ದತ್ತಾಂಶವನ್ನು ಆದೇಶಿಸಿ. $W_m = \\frac{1}{6} \\times 10 \\text{ N} = \\frac{10}{6} \\text{ N} \\approx 1.67 \\text{ N}$",
+      "justification": "ಭೂಮಿಯ ಮೇಲಿನ ತೂಕದ ಮೌಲ್ಯವನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_9_concept_5_chunk_010"
+}

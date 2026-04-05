@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ಬೀಜೋಕ್ತಿಗಳ ಸಂಕ್ಷೇಪಣೆ",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಎರಡೂ ಬೀಜೋಕ್ತಿಗಳನ್ನು ಅವುಗಳ ಸರಳ ರೂಪಕ್ಕೆ ತರೋಣ. ಮೊದಲನೆಯದು 2pq ಇಂಟು p ಪ್ಲಸ್ q. ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ, ನಾವು 2pq ಅನ್ನು ಆವರಣದೊಳಗಿನ ಪ್ರತಿ ಪದದೊಂದಿಗೆ ಗುಣಿಸುತ್ತೇವೆ. 2pq ಗುಣಿಸು p ನಮಗೆ 2 p ಸ್ಕ್ವೇರ್ಡ್ q ಅನ್ನು ಕೊಡುತ್ತದೆ. ನಂತರ, 2pq ಗುಣಿಸು q ನಮಗೆ 2 p q ಸ್ಕ್ವೇರ್ಡ್ ಅನ್ನು ಕೊಡುತ್ತದೆ. ಹಾಗಾಗಿ, ಮೊದಲ ಬೀಜೋಕ್ತಿಯ ಸಂಕ್ಷಿಪ್ತ ರೂಪ 2 p ಸ್ಕ್ವೇರ್ಡ್ q ಪ್ಲಸ್ 2 p q ಸ್ಕ್ವೇರ್ಡ್ ಆಗಿದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಎರಡೂ ಬೀಜೋಕ್ತಿಗಳನ್ನು ಅವುಗಳ ಸರಳ ರೂಪಕ್ಕೆ ತರೋಣ. ಮೊದಲನೆಯದು $2pq(p+q)$. ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ, ನಾವು $2pq$ ಅನ್ನು ಆವರಣದೊಳಗಿನ ಪ್ರತಿ ಪದದೊಂದಿಗೆ ಗುಣಿಸುತ್ತೇವೆ. $2pq \\times p$ ನಮಗೆ $2p^2q$ ಅನ್ನು ಕೊಡುತ್ತದೆ. ನಂತರ, $2pq \\times q$ ನಮಗೆ $2pq^2$ ಅನ್ನು ಕೊಡುತ್ತದೆ. ಹಾಗಾಗಿ, ಮೊದಲ ಬೀಜೋಕ್ತಿಯ ಸಂಕ್ಷಿಪ್ತ ರೂಪ $2p^2q + 2pq^2$ ಆಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-EXP-2_example_7",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$2pq(p+q) = (2pq \\times p) + (2pq \\times q)$",
+      "justification": "ವಿತರಣಾ ನಿಯಮವನ್ನು (distributive law) ಬಳಸಿ."
+    },
+    {
+      "step": 2,
+      "action_display": "$= 2p^2q + 2pq^2$",
+      "justification": "ಘಾತಾಂಕಗಳ ನಿಯಮದಂತೆ ಗುಣಾಕಾರ."
+    }
+  ],
+  "chunk_id": "ALG-EXP-2_concept_4_chunk_023"
+}

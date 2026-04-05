@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವೃಕ್ಷ ಚಿತ್ರದ ಮೂಲಕ ಅಪವರ್ತನಗಳು",
+  "script": "ಬೀಜೋಕ್ತಿ, ಅದರ ಪದಗಳು ಮತ್ತು ಆ ಪದಗಳ ಅಪವರ್ತನಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ಒಂದು ಉತ್ತಮ ವಿಧಾನವಿದೆ. ಅದನ್ನು 'ವೃಕ್ಷ ಚಿತ್ರ' ಅಥವಾ ಟ್ರೀ ಡಯಾಗ್ರಾಮ್ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, ನಾಲ್ಕು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಮೂರು ಎಕ್ಸ್ ವೈ ಎಂಬ ಬೀಜೋಕ್ತಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ವೃಕ್ಷ ಚಿತ್ರವನ್ನು ರಚಿಸಲು, ಮೊದಲಿಗೆ, ನಾವು ಬೀಜೋಕ್ತಿಯನ್ನು ಅದರ ಪದಗಳಾಗಿ ವಿಭಜಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ ಪದಗಳು ನಾಲ್ಕು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಮತ್ತು ಮೈನಸ್ ಮೂರು ಎಕ್ಸ್ ವೈ.",
+  "script_display": "ಬೀಜೋಕ್ತಿ, ಅದರ ಪದಗಳು ಮತ್ತು ಆ ಪದಗಳ ಅಪವರ್ತನಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ಒಂದು ಉತ್ತಮ ವಿಧಾನವಿದೆ. ಅದನ್ನು 'ವೃಕ್ಷ ಚಿತ್ರ' (tree diagram) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, $4x^2 - 3xy$ ಬೀಜೋಕ್ತಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ವೃಕ್ಷ ಚಿತ್ರವನ್ನು ರಚಿಸಲು, ಮೊದಲಿಗೆ, ನಾವು ಬೀಜೋಕ್ತಿಯನ್ನು ಅದರ ಪದಗಳಾಗಿ ವಿಭಜಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ ಪದಗಳು $4x^2$ ಮತ್ತು $-3xy$.",
+  "display_bullets": [
+    "ಪದಗಳು ಮತ್ತು ಅಪವರ್ತನಗಳನ್ನು ತೋರಿಸಲು ನಾವು 'ವೃಕ್ಷ ಚಿತ್ರ'ವನ್ನು (tree diagram) ಬಳಸಬಹುದು.",
+    "ಉದಾಹರಣೆಗೆ, $4x^2 - 3xy$ ಬೀಜೋಕ್ತಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ.",
+    "ಮೊದಲಿಗೆ, ಬೀಜೋಕ್ತಿಯನ್ನು ಪದಗಳಾಗಿ ವಿಭಜಿಸುತ್ತೇವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A partial tree diagram showing the expression 4x^2 - 3xy at the top, with two branches leading down to its terms, 4x^2 and -3xy. The branches for factors are not yet shown.",
+    "labels": "ಬೀಜೋಕ್ತಿ, ಪದ",
+    "mathematical_significance": "Shows the first level of decomposition of an expression into its terms.",
+    "placeholder_note": "Image to be generated for the first stage of the tree diagram."
+  },
+  "chunk_id": "ALG-EXP-1_concept_2_chunk_008"
+}

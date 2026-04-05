@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಹಂತ 1: ವೀಕ್ಷಣೆ (ಹೊತ್ತಿಸದಿದ್ದಾಗ)",
+  "script": "ಮೊದಲಿಗೆ, ಹೊತ್ತಿಸದ ಅಗರಬತ್ತಿಯನ್ನು ಕೋಣೆಯ ಮೂಲೆಯಲ್ಲಿ ಇಟ್ಟ ನಂತರ, ಅದರ ವಾಸನೆಯನ್ನು ಗ್ರಹಿಸಲು ಪ್ರಯತ್ನಿಸೋಣ. ನೀವು ಅದರ ವಾಸನೆಯನ್ನು ಅನುಭವಿಸಲು ಅದರ ಎಷ್ಟು ಹತ್ತಿರ ಹೋಗಬೇಕು? ನೀವು ಗಮನಿಸುವಂತೆ, ಅದರ ಸುವಾಸನೆಯನ್ನು ಪಡೆಯಲು ನಾವು ಅದರ ತೀರಾ ಹತ್ತಿರ ಹೋಗಬೇಕಾಗುತ್ತದೆ. ದೂರದಲ್ಲಿ ನಿಂತರೆ ನಮಗೆ ಯಾವುದೇ ವಾಸನೆ ಬರುವುದಿಲ್ಲ. ಇದರರ್ಥ, ಅಗರಬತ್ತಿಯ ಘನ ಕಣಗಳು ನಿಧಾನವಾಗಿ ಅನಿಲವಾಗಿ ಗಾಳಿಯ ಕಣಗಳೊಂದಿಗೆ ಬೆರೆಯುತ್ತಿವೆ, ಆದರೆ ಅವುಗಳ ಚಲನಶಕ್ತಿ ಕಡಿಮೆ ಇರುವುದರಿಂದ ಈ ಪ್ರಕ್ರಿಯೆ ಬಹಳ ನಿಧಾನ ಗತಿಯಲ್ಲಿ ನಡೆಯುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಹೊತ್ತಿಸದ ಅಗರಬತ್ತಿಯನ್ನು ಕೋಣೆಯ ಮೂಲೆಯಲ್ಲಿ ಇಟ್ಟ ನಂತರ, ಅದರ ವಾಸನೆಯನ್ನು ಗ್ರಹಿಸಲು ಪ್ರಯತ್ನಿಸೋಣ. ನೀವು ಅದರ ವಾಸನೆಯನ್ನು ಅನುಭವಿಸಲು ಅದರ ಎಷ್ಟು ಹತ್ತಿರ ಹೋಗಬೇಕು? ನೀವು ಗಮನಿಸುವಂತೆ, ಅದರ ಸುವಾಸನೆಯನ್ನು ಪಡೆಯಲು ನಾವು ಅದರ ತೀರಾ ಹತ್ತಿರ ಹೋಗಬೇಕಾಗುತ್ತದೆ. ದೂರದಲ್ಲಿ ನಿಂತರೆ ನಮಗೆ ಯಾವುದೇ ವಾಸನೆ ಬರುವುದಿಲ್ಲ. ಇದರರ್ಥ, ಅಗರಬತ್ತಿಯ ಘನ ಕಣಗಳು ನಿಧಾನವಾಗಿ ಅನಿಲವಾಗಿ ಗಾಳಿಯ ಕಣಗಳೊಂದಿಗೆ ಬೆರೆಯುತ್ತಿವೆ, ಆದರೆ ಅವುಗಳ ಚಲನಶಕ್ತಿ ಕಡಿಮೆ ಇರುವುದರಿಂದ ಈ ಪ್ರಕ್ರಿಯೆ ಬಹಳ ನಿಧಾನ ಗತಿಯಲ್ಲಿ ನಡೆಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹೊತ್ತಿಸದ ಅಗರಬತ್ತಿಯನ್ನು ಕೋಣೆಯ ಮೂಲೆಯಲ್ಲಿ ಇಡಿ.",
+    "ಅದರ ವಾಸನೆಯನ್ನು ಗ್ರಹಿಸಲು, ನೀವು ಅದರ ಹತ್ತಿರ ಹೋಗಬೇಕಾಗುತ್ತದೆ.",
+    "ದೂರದಿಂದ ವಾಸನೆ ಬರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_steps_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A person leaning very close to the unlit incense stick to smell it, with a question mark above their head, indicating they can barely smell it. The incense stick is not emitting any visible smoke or scent waves.",
+    "labels": "ಹತ್ತಿರದಿಂದ ವಾಸನೆ ಗ್ರಹಿಸುವುದು",
+    "scientific_significance": "Illustrates that at room temperature, the kinetic energy of the particles is low, resulting in a very slow rate of diffusion.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_1_concept_2_chunk_010"
+}

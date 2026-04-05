@@ -1,0 +1,36 @@
+{
+  "type": "intro_slide",
+  "slide_title": "ಪರಿಚಯ: ಸೂಚಕಗಳು",
+  "script": "ನಮಸ್ಕಾರ ಶಿಕ್ಷಕ ಮಿತ್ರರೇ, ಜಿಪಿಎಸ್ಟಿಆರ್ ವಿಜ್ಞಾನ ಪಾಠಕ್ಕೆ ನಿಮಗೆ ಸ್ವಾಗತ. ಇವತ್ತು ನಾವು ಒಂದು ಕುತೂಹಲಕಾರಿ ವಿಷಯದ ಬಗ್ಗೆ ಕಲಿಯೋಣ - ಸೂಚಕಗಳು. ನಿಮ್ಮ ಬಟ್ಟೆ ಮೇಲೆ ಅರಿಶಿನದ ಕಲೆ ಬಿದ್ದು, ಅದಕ್ಕೆ ಸೋಪು ಹಚ್ಚಿದಾಗ ಅದು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುವುದನ್ನು ಗಮನಿಸಿದ್ದೀರಾ? ಯಾಕೆ ಹೀಗಾಗುತ್ತೆ? ಇದರ ಹಿಂದಿನ ವಿಜ್ಞಾನವೇ ಸೂಚಕಗಳು. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಸೂಚಕಗಳು ಅಂದ್ರೆ ಏನು ಅಂತ ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳೋಣ, ನೈಸರ್ಗಿಕ ಮತ್ತು ಸಂಶ್ಲೇಷಿತ ಸೂಚಕಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ತಿಳಿಯೋಣ, ಮತ್ತು ಆಮ್ಲ ಹಾಗೂ ಪ್ರತ್ಯಾಮ್ಲಗಳಲ್ಲಿ ಅವುಗಳ ಬಣ್ಣ ಬದಲಾವಣೆಗಳನ್ನು ಪರೀಕ್ಷಿಸೋಣ. ಈ ಜ್ಞಾನವು ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ ರಾಸಾಯನಿಕಗಳನ್ನು ಗುರುತಿಸಲು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ನಮಸ್ಕಾರ ಶಿಕ್ಷಕ ಮಿತ್ರರೇ, GPSTR ವಿಜ್ಞಾನ ಪಾಠಕ್ಕೆ ನಿಮಗೆ ಸ್ವಾಗತ. <br><br> ಇವತ್ತು ನಾವು ಒಂದು ಕುತೂಹಲಕಾರಿ ವಿಷಯದ ಬಗ್ಗೆ ಕಲಿಯೋಣ - **ಸೂಚಕಗಳು (Indicators)**. <br><br> ನಿಮ್ಮ ಬಟ್ಟೆ ಮೇಲೆ ಅರಿಶಿನದ ಕಲೆ ಬಿದ್ದು, ಅದಕ್ಕೆ ಸೋಪು ಹಚ್ಚಿದಾಗ ಅದು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುವುದನ್ನು ಗಮನಿಸಿದ್ದೀರಾ? ಯಾಕೆ ಹೀಗಾಗುತ್ತೆ? ಇದರ ಹಿಂದಿನ ವಿಜ್ಞಾನವೇ ಸೂಚಕಗಳು. <br><br> ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಈ ಕೆಳಗಿನ ವಿಷಯಗಳನ್ನು ಕಲಿಯುತ್ತೇವೆ:",
+  "display_bullets": [
+    "ಸೂಚಕಗಳು ಎಂದರೇನು? (What are Indicators?)",
+    "ನೈಸರ್ಗಿಕ ಮತ್ತು ಸಂಶ್ಲೇಷಿತ ಸೂಚಕಗಳು (Natural vs. Synthetic Indicators)",
+    "ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲಗಳಲ್ಲಿ ಬಣ್ಣ ಬದಲಾವಣೆ (Colour change in acids and bases)"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "center_title_with_bullets",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An engaging visual collage showing real-world examples of indicators: a turmeric stain turning red with soap, litmus paper strips (red and blue), and a hibiscus flower. The style should be vibrant and modern, like a YouTube science channel thumbnail.",
+    "labels": "Turmeric, Litmus, Hibiscus",
+    "scientific_significance": "Represents the core concept of indicators using relatable, everyday examples to build curiosity.",
+    "placeholder_note": "Generate a vibrant collage image for the intro slide."
+  },
+  "chunk_id": "std_7_science_chapter_4_concept_2_chunk_001"
+}

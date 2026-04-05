@@ -1,0 +1,103 @@
+{
+  "module_id": "std_10_chapter_1_concept_5",
+  "chapter_code": "std_10_chapter_1",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:13:02",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "edc4f528803e4d793afaba9a60b674bb",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 24.251,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 35,
+      "generated_at": "2026-04-02 11:11:42"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "c61760b610e706c92a327833aaafbe79",
+      "wav_file": "003_classification_0.wav",
+      "duration": 43.291,
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಉತ್ಕರ್ಷಣದ ಪರಿಣಾಮಗಳು",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 11:11:55"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "83be0faf6bc70b27b97b9d6fbc380c98",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 41.611,
+      "slide_title": "ಸಂಕ್ಷಾರಣ (Corrosion)",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 11:11:57"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "18ccc1f1ec2c5a7575062bc25723e145",
+      "wav_file": "001_intro_0.wav",
+      "duration": 57.971,
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಉತ್ಕರ್ಷಣದ ಪರಿಣಾಮಗಳು",
+      "type": "intro",
+      "script_words": 97,
+      "generated_at": "2026-04-02 11:12:04"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "3e91b3da63746faf881f84b35e8e9564",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 46.651,
+      "slide_title": "ಸಂಕ್ಷಾರಣ: ಇತರ ಉದಾಹರಣೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:12:29"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "10c9dee92a35a45d18c888a8dc53300a",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 40.771,
+      "slide_title": "ಕಮಟುವಿಕೆ (Rancidity)",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:12:55"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "25982ad19d1b82c5c5156e75111e6f86",
+      "wav_file": "008_recap_0.wav",
+      "duration": 44.931,
+      "slide_title": "ಸಾರಾಂಶ: ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಉತ್ಕರ್ಷಣದ ಪರಿಣಾಮಗಳು",
+      "type": "recap",
+      "script_words": 55,
+      "generated_at": "2026-04-02 11:12:58"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "80961b955bf05828df0007fa58075f37",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 54.931,
+      "slide_title": "ಕಮಟುವಿಕೆ ತಡೆಯುವ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:13:02"
+    }
+  }
+}

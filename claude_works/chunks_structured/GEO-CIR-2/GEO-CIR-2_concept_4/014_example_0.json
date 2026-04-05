@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಚಕ್ರೀಯ ಚತುರ್ಭುಜದ ಕೋನಗಳು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ABCD ಒಂದು ಚಕ್ರೀಯ ಚತುರ್ಭುಜ. AC ಮತ್ತು BD ಗಳು ಅದರ ಕರ್ಣಗಳು. ನಮಗೆ ಎರಡು ಕೋನಗಳನ್ನು ಕೊಡಲಾಗಿದೆ: ಕೋನ DBC ಐವತ್ತೈದು ಡಿಗ್ರಿ ಮತ್ತು ಕೋನ BAC ನಲವತ್ತೈದು ಡಿಗ್ರಿ. ನಾವು ಕೋನ BCD ಯ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ABCD ಒಂದು ಚಕ್ರೀಯ ಚತುರ್ಭುಜ. AC ಮತ್ತು BD ಗಳು ಅದರ ಕರ್ಣಗಳು. ನಮಗೆ ಎರಡು ಕೋನಗಳನ್ನು ಕೊಡಲಾಗಿದೆ: $\\angle DBC = 55^{\\circ}$ ಮತ್ತು $\\angle BAC = 45^{\\circ}$. ನಾವು $\\angle BCD$ ಯ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ಚಕ್ರೀಯ ಚತುರ್ಭುಜ ABCD",
+    "$\\angle DBC = 55^{\\circ}$",
+    "$\\angle BAC = 45^{\\circ}$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $\\angle BCD$ ಯ ಅಳತೆ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಚಕ್ರೀಯ ಚತುರ್ಭುಜ ABCD. ಕರ್ಣಗಳು AC ಮತ್ತು BD. ಕೋನ DBC = 55 ಡಿಗ್ರಿ ಮತ್ತು ಕೋನ BAC = 45 ಡಿಗ್ರಿ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, 55°, 45°",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯಲ್ಲಿ ವಿವರಿಸಿದ ರೇಖಾಗಣಿತದ ಸನ್ನಿವೇಶವನ್ನು ದೃಶ್ಯೀಕರಿಸಲು.",
+    "placeholder_note": "Image to be generated for problem GEO-CIR-2_example_3, showing a cyclic quadrilateral ABCD with diagonals. Angle DBC is 55 degrees and angle BAC is 45 degrees."
+  },
+  "difficulty": "basic",
+  "source_example_id": "GEO-CIR-2_example_3",
+  "chunk_id": "GEO-CIR-2_concept_4_chunk_014"
+}

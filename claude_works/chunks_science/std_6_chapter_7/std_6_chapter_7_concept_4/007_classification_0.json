@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸೆಲ್ಸಿಯಸ್ ಮಾಪಕ (Celsius Scale)",
+  "script": "ತಾಪದ ಮಾಪಕಗಳಲ್ಲಿ ನಾವು ಮೊದಲು ಸೆಲ್ಸಿಯಸ್ ಮಾಪಕದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇದರ ಏಕಮಾನ ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್, ಇದನ್ನು ಸಿಂಬಲ್ ಡಿಗ್ರಿ ಸಿ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಈ ಮಾಪಕವನ್ನು ಜಗತ್ತಿನಾದ್ಯಂತ ವೈಜ್ಞಾನಿಕ ಮತ್ತು ದೈನಂದಿನ ಬಳಕೆಯಲ್ಲಿ ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ವಾತಾವರಣದ ತಾಪಮಾನವನ್ನು ಹೇಳುವಾಗ ಅಥವಾ ಅಡುಗೆ ಮಾಡುವಾಗ ಈ ಮಾಪಕವನ್ನೇ ಹೆಚ್ಚಾಗಿ ಬಳಸುತ್ತೇವೆ. ಆರೋಗ್ಯವಂತ ಮಾನವನ ದೇಹದ ಸಾಮಾನ್ಯ ತಾಪಮಾನವು ಸುಮಾರು ಮೂವತ್ತೇಳು ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ಇರುತ್ತದೆ. ಇದು ಈ ಮಾಪಕದ ಒಂದು ಪ್ರಮುಖ ಅಳತೆಯಾಗಿದೆ.",
+  "script_display": "ತಾಪದ ಮಾಪಕಗಳಲ್ಲಿ ನಾವು ಮೊದಲು ಸೆಲ್ಸಿಯಸ್ ಮಾಪಕದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇದರ ಏಕಮಾನ ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್, ಇದನ್ನು (°C) ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಈ ಮಾಪಕವನ್ನು ಜಗತ್ತಿನಾದ್ಯಂತ ವೈಜ್ಞಾನಿಕ ಮತ್ತು ದೈನಂದಿನ ಬಳಕೆಯಲ್ಲಿ ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ವಾತಾವರಣದ ತಾಪಮಾನವನ್ನು ಹೇಳುವಾಗ ಅಥವಾ ಅಡುಗೆ ಮಾಡುವಾಗ ಈ ಮಾಪಕವನ್ನೇ ಹೆಚ್ಚಾಗಿ ಬಳಸುತ್ತೇವೆ. ಆರೋಗ್ಯವಂತ ಮಾನವನ ದೇಹದ ಸಾಮಾನ್ಯ ತಾಪಮಾನವು ಸುಮಾರು 37.0°C ಇರುತ್ತದೆ. ಇದು ಈ ಮಾಪಕದ ಒಂದು ಪ್ರಮುಖ ಅಳತೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಏಕಮಾನ: ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ (°C)",
+    "ಬಳಕೆ: ಜಗತ್ತಿನಾದ್ಯಂತ ವೈಜ್ಞಾನಿಕ ಮತ್ತು ದೈನಂದಿನ ಬಳಕೆ",
+    "ಉದಾಹರಣೆ: ಮಾನವನ ದೇಹದ ಸಾಮಾನ್ಯ ತಾಪ: 37.0°C"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clinical or laboratory thermometer showing the Celsius scale. Key points like 0°C (water freezing), 37°C (human body), and 100°C (water boiling) should be clearly marked.",
+    "labels": "Celsius Scale, Freezing Point, Boiling Point, Body Temperature",
+    "scientific_significance": "Illustrates the reference points of the Celsius scale, which is based on the properties of water.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_7_concept_4_chunk_007"
+}

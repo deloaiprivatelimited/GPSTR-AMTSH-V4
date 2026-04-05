@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ವಿಲೋಮ ಸಂಬಂಧ: ನೀರಿನಿಂದ ಗಾಳಿಗೆ",
+  "script": "ಈಗ, ಇದೇ ಸನ್ನಿವೇಶವನ್ನು ತಿರುಗಿಸಿ ನೋಡೋಣ. ಬೆಳಕು ನೀರಿನಿಂದ ಗಾಳಿಗೆ ಚಲಿಸಿದರೆ ಏನಾಗುತ್ತದೆ? ಇಲ್ಲಿ, ಮಾಧ್ಯಮ ಒಂದು ನೀರು, ಮತ್ತು ಮಾಧ್ಯಮ ಎರಡು ಗಾಳಿ. ನಾವು ಈಗ ಗಾಳಿಯ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕವನ್ನು ನೀರಿಗೆ ಹೋಲಿಸಿ ನೋಡುತ್ತಿದ್ದೇವೆ. ಇದನ್ನು ಎನ್ ಒನ್ ಟೂ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಸೂತ್ರವು ಎನ್ ಒನ್ ಟೂ ಈಕ್ವಲ್ಸ್ ವಿ ಟೂ ಬೈ ವಿ ಒನ್ ಆಗುತ್ತದೆ. ಅಂದರೆ, ನೀರಿನಲ್ಲಿನ ಬೆಳಕಿನ ವೇಗವನ್ನು ಗಾಳಿಯಲ್ಲಿನ ಬೆಳಕಿನ ವೇಗದಿಂದ ಭಾಗಿಸಬೇಕು. ಇದು ಹಿಂದಿನ ಲೆಕ್ಕಾಚಾರದ ನಿಖರವಾದ ವಿಲೋಮವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಎನ್ ಒನ್ ಟೂ ಈಕ್ವಲ್ಸ್ ಒನ್ ಡಿವೈಡೆಡ್ ಬೈ ಎನ್ ಟೂ ಒನ್.",
+  "script_display": "ಈಗ, ಇದೇ ಸನ್ನಿವೇಶವನ್ನು ತಿರುಗಿಸಿ ನೋಡೋಣ. ಬೆಳಕು ನೀರಿನಿಂದ ಗಾಳಿಗೆ ಚಲಿಸಿದರೆ ಏನಾಗುತ್ತದೆ?\nಮಾಧ್ಯಮ 1 = ನೀರು (Water)\nಮಾಧ್ಯಮ 2 = ಗಾಳಿ (Air)\nನಾವು ಈಗ ಗಾಳಿಯ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕವನ್ನು ನೀರಿಗೆ ಹೋಲಿಸಿ ನೋಡುತ್ತಿದ್ದೇವೆ ($n_{12}$).\nಸೂತ್ರ: $n_{12} = \\frac{v_2}{v_1}$.\nಇದು ಹಿಂದಿನ ಲೆಕ್ಕಾಚಾರದ ನಿಖರವಾದ ವಿಲೋಮವಾಗಿದೆ. ಆದ್ದರಿಂದ, $n_{12} = \\frac{1}{n_{21}}$.",
+  "display_bullets": [
+    "ಬೆಳಕು ನೀರಿನಿಂದ (ಹಿಂದಿನ ಮಾಧ್ಯಮ 2) ಗಾಳಿಗೆ (ಹಿಂದಿನ ಮಾಧ್ಯಮ 1) ಚಲಿಸಿದಾಗ.",
+    "ಸೂತ್ರ: $n_{12} = v_2 / v_1$.",
+    "ಇದು $n_{21}$ ನ ವಿಲೋಮವಾಗಿದೆ.",
+    "ಗಣಿತೀಯವಾಗಿ: $n_{12} = 1 / n_{21}$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A light ray travels from a lower medium (Water, now Medium 1) into an upper medium (Air, now Medium 2). The ray bends away from the normal as it enters the air. The angle of incidence in water is smaller than the angle of refraction in air. The velocities v2 (in water) and v1 (in air) are labeled.",
+    "labels": "Water (Medium 1), Air (Medium 2), Incident Ray, Refracted Ray, Normal, v2, v1",
+    "scientific_significance": "Demonstrates the inverse relationship of refractive index when the path of light is reversed. It shows that light speeds up and bends away from the normal when entering a less dense medium.",
+    "placeholder_note": "Image to be generated for light passing from water to air."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_10_chapter_9_concept_6_chunk_006"
+}

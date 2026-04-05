@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಜೌಲ್‌ನ ನಿಯಮದ ಸೂತ್ರ",
+  "script": "ಈಗ ನಾವು ಜೌಲ್‌ನ ನಿಯಮವನ್ನು ಗಣಿತದ ಸೂತ್ರದ ರೂಪದಲ್ಲಿ ನೋಡೋಣ. ಈ ಸೂತ್ರವು H equals I squared R t ಆಗಿದೆ. ಇಲ್ಲಿ, H ಎಂಬುದು ಜೌಲ್‌ಗಳಲ್ಲಿ ಅಳತೆ ಮಾಡುವ ಉಷ್ಣ ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. I ಎಂಬುದು ಆಂಪಿಯರ್‌ಗಳಲ್ಲಿ ಅಳೆಯುವ ವಿದ್ಯುತ್ ಪ್ರವಾಹ. R ಎಂಬುದು ಓಮ್‌ಗಳಲ್ಲಿ ಅಳೆಯುವ ರೋಧ. ಮತ್ತು t ಎಂಬುದು ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಅಳೆಯುವ ಸಮಯ. ಈ ಸೂತ್ರವು ವಿದ್ಯುತ್ ಉಪಕರಣಗಳಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾಗುವ ಉಷ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಬಹಳ ಉಪಯುಕ್ತವಾಗಿದೆ. ಪ್ರತಿಯೊಂದು ಚಿಹ್ನೆಯ ಅರ್ಥವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಮುಖ್ಯ.",
+  "script_display": "ಜೌಲ್‌ನ ನಿಯಮವನ್ನು ಈ ಸೂತ್ರದಿಂದ ವ್ಯಕ್ತಪಡಿಸಬಹುದು:",
+  "display_bullets": [
+    "H = ಉತ್ಪತ್ತಿಯಾದ ಉಷ್ಣ (ಜೌಲ್, J)",
+    "I = ವಿದ್ಯುತ್ ಪ್ರವಾಹ (ಆಂಪಿಯರ್, A)",
+    "R = ರೋಧ (ಓಮ್, Ω)",
+    "t = ಕಾಲ (ಸೆಕೆಂಡ್, s)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "H = I^2Rt",
+    "placeholder_note": "Render H = I^2Rt in a large font inside a box."
+  },
+  "chunk_id": "std_10_chapter_11_concept_7_chunk_005"
+}

@@ -1,0 +1,88 @@
+{
+  "module_id": "std_7_science_ch_9_concept_6",
+  "module_title": "ಚಲನೆ ಮಾಪನ ಸಾಧನಗಳು",
+  "class": "7",
+  "chapter": "9",
+  "chapter_title": "ಚಲನೆ ಮತ್ತು ಕಾಲ",
+  "domain": "ಭೌತಶಾಸ್ತ್ರ (Physics)",
+  "prerequisites": [
+    "std_7_science_ch_9_concept_1",
+    "std_7_science_ch_9_concept_2",
+    "std_7_science_ch_9_concept_3",
+    "std_7_science_ch_9_concept_4",
+    "std_7_science_ch_9_concept_5"
+  ],
+  "theory": {
+    "concept_summary": "ವಾಹನಗಳಲ್ಲಿ ಚಲನೆಯನ್ನು ಅಳೆಯಲು ಮತ್ತು ಪ್ರದರ್ಶಿಸಲು ವಿಶೇಷ ಸಾಧನಗಳನ್ನು ಅಳವಡಿಸಲಾಗಿರುತ್ತದೆ. ಇವು ಚಾಲಕನಿಗೆ ವಾಹನದ ಜವ ಮತ್ತು ಚಲಿಸಿದ ದೂರದ ಬಗ್ಗೆ ತತ್‌ಕ್ಷಣದ ಮಾಹಿತಿಯನ್ನು ನೀಡುತ್ತವೆ.",
+    "definitions": [],
+    "formulas": [],
+    "laws": [],
+    "chemical_equations": [],
+    "properties": [],
+    "classifications": [
+      {
+        "title": "ಚಲನೆ ಮಾಪನ ಸಾಧನಗಳು",
+        "categories": [
+          {
+            "name": "ವೇಗಮಾಪಕ (Speedometer)",
+            "description": "ಕಾರ್ಯ: ವಾಹನವು ಚಲಿಸುತ್ತಿರುವ ತತ್‌ಕ್ಷಣದ ಜವವನ್ನು (instantaneous speed) ಅಳೆಯುತ್ತದೆ. ಮಾನ: ಸಾಮಾನ್ಯವಾಗಿ ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ಗಂಟೆಯಲ್ಲಿ (km/h) ಜವವನ್ನು ತೋರಿಸುತ್ತದೆ. ಸ್ಥಾನ: ವಾಹನದ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ (dashboard) ಮೇಲೆ ಇರುತ್ತದೆ.",
+            "examples": []
+          },
+          {
+            "name": "ದೂರಮಾಪಕ (Odometer)",
+            "description": "ಕಾರ್ಯ: ವಾಹನವು ಚಲಿಸಿದ ಒಟ್ಟು ದೂರವನ್ನು (total distance) ಅಳೆಯುತ್ತದೆ. ಮಾನ: ಸಾಮಾನ್ಯವಾಗಿ ಕಿಲೋಮೀಟರ್‌ಗಳಲ್ಲಿ (km) ದೂರವನ್ನು ತೋರಿಸುತ್ತದೆ. ಸ್ಥಾನ: ಸಾಮಾನ್ಯವಾಗಿ ವೇಗಮಾಪಕದ ಜೊತೆಯಲ್ಲೇ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಮೇಲೆ ಇರುತ್ತದೆ.",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "experiments": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "std_7_science_ch_9_example_2",
+      "difficulty": "basic",
+      "problem": "ಒಂದು ಕಾರಿನ ದೂರಮಾಪಕವು ಪ್ರಯಾಣದ ಆರಂಭದಲ್ಲಿ 57321.0 km ಮತ್ತು 20 ನಿಮಿಷಗಳ ನಂತರ 57336.0 km ತೋರಿಸಿದರೆ, ಕಾರಿನ ಜವವನ್ನು km/min ಮತ್ತು km/h ನಲ್ಲಿ ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "ಚಲಿಸಿದ ದೂರವನ್ನು ಲೆಕ್ಕ ಹಾಕಿ.",
+          "justification": "ದೂರ = ಅಂತಿಮ ಓದುವಿಕೆ - ಆರಂಭಿಕ ಓದುವಿಕೆ",
+          "calculation": "ದೂರ = 57336.0 - 57321.0 = 15 km"
+        },
+        {
+          "step": 2,
+          "action": "ತೆಗೆದುಕೊಂಡ ಸಮಯವನ್ನು ಗಮನಿಸಿ.",
+          "justification": "",
+          "calculation": "ಕಾಲ = 20 min"
+        },
+        {
+          "step": 3,
+          "action": "ಜವವನ್ನು km/min ನಲ್ಲಿ ಲೆಕ್ಕ ಹಾಕಿ.",
+          "justification": "ಜವ = ದೂರ / ಕಾಲ",
+          "calculation": "ಜವ = 15 km / 20 min = 0.75 km/min"
+        },
+        {
+          "step": 4,
+          "action": "ಜವವನ್ನು km/h ನಲ್ಲಿ ಲೆಕ್ಕ ಹಾಕಿ.",
+          "justification": "1 ಗಂಟೆ = 60 ನಿಮಿಷ. ಆದ್ದರಿಂದ, 20 ನಿಮಿಷ = 20/60 = 1/3 ಗಂಟೆ.",
+          "calculation": "ಜವ = 15 km / (1/3) h = 15 × 3 = 45 km/h"
+        }
+      ],
+      "result": "ಕಾರಿನ ಜವ 0.75 km/min ಅಥವಾ 45 km/h.",
+      "common_trap": ""
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "medium",
+    "mcq_note": "ವೇಗಮಾಪಕ ಮತ್ತು ದೂರಮಾಪಕದ ಕಾರ್ಯವೇನು?",
+    "two_mark_note": "ವೇಗಮಾಪಕ ಮತ್ತು ದೂರಮಾಪಕದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ತಿಳಿಸಿ.",
+    "five_mark_note": "ದೂರಮಾಪಕದ ಓದುವಿಕೆಗಳನ್ನು ಬಳಸಿ ಜವವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಪ್ರಶ್ನೆ.",
+    "common_mistakes": [
+      "ದೂರಮಾಪಕದ ಓದುವಿಕೆಯನ್ನು ನೇರವಾಗಿ ದೂರವೆಂದು ತೆಗೆದುಕೊಳ್ಳುವುದು. ಚಲಿಸಿದ ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಅಂತಿಮ ಮತ್ತು ಆರಂಭಿಕ ಓದುವಿಕೆಗಳ ವ್ಯತ್ಯಾಸವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು."
+    ],
+    "boundary_conditions": [],
+    "connects_to": []
+  }
+}

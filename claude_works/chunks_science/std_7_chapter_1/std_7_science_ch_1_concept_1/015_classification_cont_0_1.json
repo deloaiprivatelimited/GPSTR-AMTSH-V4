@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸ್ವಪೋಷಕಗಳು (Autotrophs)",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ಸ್ವಪೋಷಕಗಳು. ಹೆಸರೇ ಸೂಚಿಸುವಂತೆ, 'ಸ್ವ' ಅಂದರೆ ತಾವೇ, 'ಪೋಷಕ' ಅಂದರೆ ಪೋಷಿಸಿಕೊಳ್ಳುವವು. ಹಾಗಾಗಿ, ಸ್ವಪೋಷಕಗಳು ತಮ್ಮ ಆಹಾರವನ್ನು ತಾವೇ ತಯಾರಿಸಿಕೊಳ್ಳುವ ಜೀವಿಗಳಾಗಿವೆ. ಇವು ಪರಿಸರದಲ್ಲಿನ ಸರಳ ವಸ್ತುಗಳಾದ ನೀರು ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು, ಸೂರ್ಯನ ಬೆಳಕಿನ ಶಕ್ತಿಯ ಸಹಾಯದಿಂದ ಆಹಾರವಾಗಿ ಪರಿವರ್ತಿಸುತ್ತವೆ. ಈ ಅದ್ಭುತ ಪ್ರಕ್ರಿಯೆಯನ್ನು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆಗಳೆಂದರೆ ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಎಲ್ಲಾ ಹಸಿರು ಸಸ್ಯಗಳು ಮತ್ತು ನೀರಿನಲ್ಲಿ ಕಂಡುಬರುವ ಶೈವಲಗಳು.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ಸ್ವಪೋಷಕಗಳು (Autotrophs). ಹೆಸರೇ ಸೂಚಿಸುವಂತೆ, 'ಸ್ವ' ಅಂದರೆ ತಾವೇ, 'ಪೋಷಕ' ಅಂದರೆ ಪೋಷಿಸಿಕೊಳ್ಳುವವು. ಹಾಗಾಗಿ, ಸ್ವಪೋಷಕಗಳು ತಮ್ಮ ಆಹಾರವನ್ನು ತಾವೇ ತಯಾರಿಸಿಕೊಳ್ಳುವ ಜೀವಿಗಳಾಗಿವೆ. ಇವು ಪರಿಸರದಲ್ಲಿನ ಸರಳ ವಸ್ತುಗಳಾದ ನೀರು ಮತ್ತು CO₂ ಅನ್ನು, ಸೂರ್ಯನ ಬೆಳಕಿನ ಶಕ್ತಿಯ ಸಹಾಯದಿಂದ ಆಹಾರವಾಗಿ ಪರಿವರ್ತಿಸುತ್ತವೆ. ಈ ಅದ್ಭುತ ಪ್ರಕ್ರಿಯೆಯನ್ನು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ (Photosynthesis) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆಗಳೆಂದರೆ ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಎಲ್ಲಾ ಹಸಿರು ಸಸ್ಯಗಳು ಮತ್ತು ನೀರಿನಲ್ಲಿ ಕಂಡುಬರುವ ಶೈವಲಗಳು (Algae).",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯೆ: ತಮ್ಮ ಆಹಾರವನ್ನು ತಾವೇ ತಯಾರಿಸಿಕೊಳ್ಳುವ ಜೀವಿಗಳು.",
+    "ಕಾರಣ: ಸೂರ್ಯನ ಬೆಳಕು, ನೀರು ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಬಳಸಿ ಆಹಾರ ತಯಾರಿಸುತ್ತವೆ.",
+    "ಉದಾಹರಣೆಗಳು: ಹಸಿರು ಸಸ್ಯಗಳು, ಶೈವಲಗಳು (Algae)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating photosynthesis. A green plant takes in sunlight, carbon dioxide from the air, and water from the soil. It releases oxygen and produces glucose (food).",
+    "labels": "Sunlight, Carbon Dioxide (CO₂), Water (H₂O), Oxygen (O₂), Glucose",
+    "scientific_significance": "Shows the process by which autotrophs create their own food, which is the foundation of most ecosystems.",
+    "placeholder_note": "Image to be generated showing a plant with arrows indicating inputs (sunlight, CO2, water) and outputs (oxygen, glucose)."
+  },
+  "chunk_id": "std_7_science_ch_1_concept_1_chunk_015"
+}

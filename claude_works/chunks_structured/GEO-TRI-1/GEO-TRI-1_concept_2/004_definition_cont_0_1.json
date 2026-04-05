@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಬಾಹ್ಯ ಕೋನವನ್ನು ಹೇಗೆ ರಚಿಸುವುದು?",
+  "script": "ಒಂದು ಬಾಹ್ಯ ಕೋನವನ್ನು ರಚಿಸಲು, ನಾವು ತ್ರಿಭುಜದ ಯಾವುದೇ ಒಂದು ಬಾಹುವನ್ನು ವೃದ್ಧಿಸಬೇಕು. ಉದಾಹರಣೆಗೆ, ಈ ಚಿತ್ರದಲ್ಲಿ ನಾವು ಬಿ ಸಿ ಬಾಹುವನ್ನು ಡಿ ಬಿಂದುವಿನವರೆಗೆ ವೃದ್ಧಿಸಿದ್ದೇವೆ. ಹೀಗೆ ಮಾಡುವುದರಿಂದ, ತ್ರಿಭುಜದ ಹೊರಗೆ ಒಂದು ಹೊಸ ಕೋನ, ಅಂದರೆ ಕೋನ ಎ ಸಿ ಡಿ, ಉಂಟಾಗುತ್ತದೆ. ಈ ಕೋನವೇ ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ಯ ಬಾಹ್ಯ ಕೋನ. ಗಮನಿಸಿ, ಈ ಬಾಹ್ಯ ಕೋನವು ಅದರ ಪಕ್ಕದಲ್ಲಿರುವ ಒಳಕೋನ, ಅಂದರೆ ಕೋನ ಎ ಸಿ ಬಿ ಯೊಂದಿಗೆ ಒಂದು ಸರಳಯುಗ್ಮವನ್ನು ರಚಿಸುತ್ತದೆ. ಅಂದರೆ, ಅವುಗಳ ಮೊತ್ತ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಇರುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಬಾಹ್ಯ ಕೋನವನ್ನು ರಚಿಸಲು, ನಾವು ತ್ರಿಭುಜದ ಯಾವುದೇ ಒಂದು ಬಾಹುವನ್ನು ವೃದ್ಧಿಸಬೇಕು. ಉದಾಹರಣೆಗೆ, ಈ ಚಿತ್ರದಲ್ಲಿ ನಾವು $BC$ ಬಾಹುವನ್ನು $D$ ಬಿಂದುವಿನವರೆಗೆ ವೃದ್ಧಿಸಿದ್ದೇವೆ. ಹೀಗೆ ಮಾಡುವುದರಿಂದ, ತ್ರಿಭುಜದ ಹೊರಗೆ ಒಂದು ಹೊಸ ಕೋನ, ಅಂದರೆ $\\angle ACD$, ಉಂಟಾಗುತ್ತದೆ. ಈ ಕೋನವೇ $\\triangle ABC$ ಯ ಬಾಹ್ಯ ಕೋನ. ಗಮನಿಸಿ, ಈ ಬಾಹ್ಯ ಕೋನವು ಅದರ ಪಕ್ಕದಲ್ಲಿರುವ ಒಳಕೋನ, ಅಂದರೆ $\\angle ACB$ ಯೊಂದಿಗೆ ಒಂದು ಸರಳಯುಗ್ಮವನ್ನು (linear pair) ರಚಿಸುತ್ತದೆ. ಅಂದರೆ, ಅವುಗಳ ಮೊತ್ತ $180^\\circ$ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ತ್ರಿಭುಜದ ಒಂದು ಬಾಹುವನ್ನು ವೃದ್ಧಿಸಿ (ಉದಾ: $BC$ ಯನ್ನು $D$ ವರೆಗೆ).",
+    "ಹೊರಭಾಗದಲ್ಲಿ ಉಂಟಾಗುವ ಕೋನವೇ ಬಾಹ್ಯ ಕೋನ (ಉದಾ: $\\angle ACD$).",
+    "ಇದು ಪಾರ್ಶ್ವದ ಒಳಕೋನದೊಂದಿಗೆ ಸರಳಯುಗ್ಮವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Triangle ABC, with side BC extended to point D. The exterior angle ACD is highlighted in a different color. The interior adjacent angle ACB is also lightly marked.",
+    "labels": "Vertices A, B, C, D. Angle ACD highlighted.",
+    "mathematical_significance": "Visually demonstrates the construction of an exterior angle by extending a side.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-1_concept_2_chunk_004"
+}

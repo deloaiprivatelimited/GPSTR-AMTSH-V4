@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮರೂಪತೆಯ ಸಾಧನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ಚಿತ್ರವನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ಅದರಲ್ಲಿ OA ಗುಣಿಸು OB ಸಮ OC ಗುಣಿಸು OD ಎಂದು ಹೇಳಲಾಗಿದೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಏನೆಂದರೆ, ಕೋನ A ಯು ಕೋನ C ಗೆ ಸಮ ಮತ್ತು ಕೋನ B ಯು ಕೋನ D ಗೆ ಸಮ ಎಂದು. ಮೊದಲು ಸಮಸ್ಯೆಯನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ಚಿತ್ರವನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ಅದರಲ್ಲಿ $OA \\cdot OB = OC \\cdot OD$ ಎಂದು ಹೇಳಲಾಗಿದೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಏನೆಂದರೆ, $\\angle A = \\angle C$ ಮತ್ತು $\\angle B = \\angle D$ ಎಂದು. ಮೊದಲು ಸಮಸ್ಯೆಯನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "display_bullets": [
+    "ದತ್ತ: ಚಿತ್ರ 6.31 ರಲ್ಲಿ $OA \\cdot OB = OC \\cdot OD$.",
+    "ಸಾಧನೀಯ: $\\angle A = \\angle C$ ಮತ್ತು $\\angle B = \\angle D$."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ರೇಖೆಗಳು, AC ಮತ್ತು BD, O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. ಇದರಿಂದ ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ COB ಉಂಟಾಗಿವೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಬಾ.ಕೋ.ಬಾ (SAS) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ವಿವರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಮತ್ತು ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಇಲ್ಲಿ ಗುರುತಿಸಬಹುದು.",
+    "placeholder_note": "Please generate an image based on Figure 6.31 from the textbook, showing two lines AC and BD intersecting at O."
+  },
+  "source_example_id": "GEO-TRI-2_example_16",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_057"
+}

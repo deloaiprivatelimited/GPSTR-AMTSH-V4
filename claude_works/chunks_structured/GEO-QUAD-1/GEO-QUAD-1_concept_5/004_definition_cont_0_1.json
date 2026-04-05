@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವಜ್ರಾಕೃತಿಯ ದೃಶ್ಯರೂಪ",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ABCD ಒಂದು ವಜ್ರಾಕೃತಿ. ಇದರ ಅರ್ಥ, ಇದರ ನಾಲ್ಕು ಬಾಹುಗಳಾದ AB, BC, CD, ಮತ್ತು DA, ಇವೆಲ್ಲವೂ ಸಮನಾದ ಉದ್ದವನ್ನು ಹೊಂದಿವೆ. ಉದಾಹರಣೆಗೆ, AB ಯ ಉದ್ದ 5 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದ್ದರೆ, ಆಗ BC, CD, ಮತ್ತು DA ಗಳ ಉದ್ದವೂ ಕೂಡ 5 ಸೆಂಟಿಮೀಟರ್ ಆಗಿರುತ್ತದೆ. ಈ ಸಮಬಾಹುಗಳ ಲಕ್ಷಣವೇ ಇದನ್ನು ಸಾಮಾನ್ಯ ಸಮಾಂತರ ಚತುರ್ಭುಜದಿಂದ ಪ್ರತ್ಯೇಕಿಸುತ್ತದೆ. ಆಕೃತಿಯನ್ನು ನೋಡಿದಾಗ, ಅದರ ಎಲ್ಲಾ ಬದಿಗಳು ಸಮಾನವಾಗಿ ಕಾಣುತ್ತವೆ, ಇದು ವಜ್ರಾಕೃತಿಯನ್ನು ಗುರುತಿಸಲು ಸುಲಭವಾದ ಮಾರ್ಗವಾಗಿದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ $ABCD$ ಒಂದು ವಜ್ರಾಕೃತಿ. ಇದರ ಅರ್ಥ, ಇದರ ನಾಲ್ಕು ಬಾಹುಗಳಾದ $AB, BC, CD$, ಮತ್ತು $DA$, ಇವೆಲ್ಲವೂ ಸಮನಾದ ಉದ್ದವನ್ನು ಹೊಂದಿವೆ. ಉದಾಹರಣೆಗೆ, $AB$ ಯ ಉದ್ದ 5 cm ಆಗಿದ್ದರೆ, ಆಗ $BC, CD$, ಮತ್ತು $DA$ ಗಳ ಉದ್ದವೂ ಕೂಡ 5 cm ಆಗಿರುತ್ತದೆ. ಈ ಸಮಬಾಹುಗಳ ಲಕ್ಷಣವೇ ಇದನ್ನು ಸಾಮಾನ್ಯ ಸಮಾಂತರ ಚತುರ್ಭುಜದಿಂದ ಪ್ರತ್ಯೇಕಿಸುತ್ತದೆ. ಆಕೃತಿಯನ್ನು ನೋಡಿದಾಗ, ಅದರ ಎಲ್ಲಾ ಬದಿಗಳು ಸಮಾನವಾಗಿ ಕಾಣುತ್ತವೆ, ಇದು ವಜ್ರಾಕೃತಿಯನ್ನು ಗುರುತಿಸಲು ಸುಲಭವಾದ ಮಾರ್ಗವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಚಿತ್ರದಲ್ಲಿ $ABCD$ ಒಂದು ವಜ್ರಾಕೃತಿ.",
+    "ಇದರರ್ಥ, $AB = BC = CD = DA$.",
+    "ಉದಾಹರಣೆಗೆ, ಎಲ್ಲಾ ಬಾಹುಗಳು 5 cm ಉದ್ದವಿರಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A rhombus ABCD, with tick marks on all four sides to indicate they are equal in length. The label '5 cm' is shown on side AB.",
+    "labels": "A, B, C, D, 5 cm",
+    "mathematical_significance": "Visual representation of the definition of a rhombus, emphasizing that all four sides are of equal length.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-QUAD-1_concept_5_chunk_004"
+}

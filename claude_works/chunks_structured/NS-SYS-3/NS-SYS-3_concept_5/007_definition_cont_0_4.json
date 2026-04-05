@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಅಕರಣೀಕರಿಸಿದ vs ಅಕರಣೀಕರಿಸದ ರೂಪ",
+  "script": "ಈಗ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಪರದೆಯ ಮೇಲೆ ಎಡಭಾಗದಲ್ಲಿ ಅಕರಣೀಕರಿಸಿದ ರೂಪವನ್ನು ನೋಡಿ: ರೂಟ್ ಎರಡು ಬೈ ಎರಡು. ಇಲ್ಲಿ ಛೇದವು ಎರಡು, ಇದು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ಇದು ಸರಿಯಾದ ಅಂತಿಮ ರೂಪ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಇದು ಅಕರಣೀಕರಿಸದ ರೂಪ: ಎರಡು ಬೈ ರೂಟ್ ಎರಡು. ಇಲ್ಲಿ ಛೇದವು ರೂಟ್ ಎರಡು, ಇದು ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ನಮ್ಮ ಗುರಿ ಯಾವಾಗಲೂ ಛೇದವನ್ನು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯನ್ನಾಗಿ ಮಾಡುವುದೇ ಆಗಿದೆ. ಅಂಶದಲ್ಲಿ ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ ಇದ್ದರೆ ಪರವಾಗಿಲ್ಲ.",
+  "script_display": "ಈಗ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಪರದೆಯ ಮೇಲೆ ಎಡಭಾಗದಲ್ಲಿ ಅಕರಣೀಕರಿಸಿದ ರೂಪವನ್ನು ನೋಡಿ: $\\frac{\\sqrt{2}}{2}$. ಇಲ್ಲಿ ಛೇದವು 2, ಇದು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ಇದು ಸರಿಯಾದ ಅಂತಿಮ ರೂಪ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಇದು ಅಕರಣೀಕರಿಸದ ರೂಪ: $\\frac{2}{\\sqrt{2}}$. ಇಲ್ಲಿ ಛೇದವು $\\sqrt{2}$, ಇದು ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ನಮ್ಮ ಗುರಿ ಯಾವಾಗಲೂ ಛೇದವನ್ನು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯನ್ನಾಗಿ ಮಾಡುವುದೇ ಆಗಿದೆ. ಅಂಶದಲ್ಲಿ ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ ಇದ್ದರೆ ಪರವಾಗಿಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. Left side has a green checkmark, title 'ಅಕರಣೀಕರಿಸಿದ ರೂಪ (ಸರಿ ✔️)', and the expression '\\frac{\\sqrt{2}}{2}'. Below it, text says 'ಛೇದ '2' ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ'. Right side has a red cross mark, title 'ಅಕರಣೀಕರಿಸದ ರೂಪ (ತಪ್ಪು ❌)', and the expression '\\frac{2}{\\sqrt{2}}'. Below it, text says 'ಛೇದ '\\sqrt{2}' ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ'.",
+    "labels": "rationalized form, unrationalized form, denominator, rational number, irrational number, checkmark, cross mark",
+    "mathematical_significance": "Visually distinguishes between a rationalized denominator and an unrationalized one, reinforcing the goal of the process.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "NS-SYS-3_concept_5_chunk_007"
+}

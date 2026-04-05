@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂವಹನ ಪ್ರವಾಹ ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ?",
+  "script": "ಸಂವಹನ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಬಿಸಿ ಮಾಡಿದಾಗ, ಪಾತ್ರೆಯ ತಳದಲ್ಲಿರುವ ನೀರು ಮೊದಲು ಬಿಸಿಯಾಗುತ್ತದೆ. ಬಿಸಿಯಾದ ನೀರು ಹಗುರವಾಗಿ, ಅದರ ಸಾಂದ್ರತೆ ಕಡಿಮೆಯಾಗಿ ಮೇಲಕ್ಕೆ ಚಲಿಸುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ಮೇಲಿರುವ ತಂಪಾದ ಮತ್ತು ಹೆಚ್ಚು ಸಾಂದ್ರತೆಯುಳ್ಳ ಭಾರವಾದ ನೀರು ಕೆಳಗೆ ಬರುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಪುನರಾವರ್ತನೆಯಾಗುತ್ತಾ, ನೀರಿನಲ್ಲಿ ಒಂದು ಚಕ್ರೀಯ ಪ್ರವಾಹ ಉಂಟಾಗುತ್ತದೆ. ಇದನ್ನೇ ಸಂವಹನ ಪ್ರವಾಹ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಮೂಲಕ ಇಡೀ ನೀರು ಬಿಸಿಯಾಗುತ್ತದೆ.",
+  "script_display": "ಸಂವಹನ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಬಿಸಿ ಮಾಡಿದಾಗ, ಪಾತ್ರೆಯ ತಳದಲ್ಲಿರುವ ನೀರು ಮೊದಲು ಬಿಸಿಯಾಗುತ್ತದೆ. ಬಿಸಿಯಾದ ನೀರು ಹಗುರವಾಗಿ, ಅದರ ಸಾಂದ್ರತೆ ಕಡಿಮೆಯಾಗಿ ಮೇಲಕ್ಕೆ ಚಲಿಸುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ಮೇಲಿರುವ ತಂಪಾದ ಮತ್ತು ಹೆಚ್ಚು ಸಾಂದ್ರತೆಯುಳ್ಳ (ಭಾರವಾದ) ನೀರು ಕೆಳಗೆ ಬರುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಪುನರಾವರ್ತನೆಯಾಗುತ್ತಾ, ನೀರಿನಲ್ಲಿ ಒಂದು ಚಕ್ರೀಯ ಪ್ರವಾಹ (convection current) ಉಂಟಾಗುತ್ತದೆ. ಈ ಮೂಲಕ ಇಡೀ ನೀರು ಬಿಸಿಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪಾತ್ರೆಯ ತಳದಲ್ಲಿರುವ ನೀರು ಬಿಸಿಯಾಗುತ್ತದೆ.",
+    "ಬಿಸಿಯಾದ, ಹಗುರವಾದ ನೀರು ಮೇಲಕ್ಕೆ ಚಲಿಸುತ್ತದೆ.",
+    "ತಂಪಾದ, ಭಾರವಾದ ನೀರು ಕೆಳಕ್ಕೆ ಬರುತ್ತದೆ.",
+    "ಈ ಚಕ್ರೀಯ ಪ್ರವಾಹದಿಂದ ಇಡೀ ನೀರು ಬಿಸಿಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker of water being heated from below by a flame. Red arrows show hot, less dense water rising from the bottom. Blue arrows show cool, denser water sinking from the top to take its place, creating a circular convection current.",
+    "labels": "ಬೀಕರ್, ನೀರು, ಜ್ವಾಲೆ, ಬಿಸಿ ನೀರು, ತಂಪು ನೀರು, ಸಂವಹನ ಪ್ರವಾಹ",
+    "scientific_significance": "Visually demonstrates the mechanism of heat transfer by convection in a liquid, showing the movement of particles due to density changes upon heating.",
+    "placeholder_note": "Image to be generated to illustrate convection in water."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_3_concept_5_chunk_004"
+}

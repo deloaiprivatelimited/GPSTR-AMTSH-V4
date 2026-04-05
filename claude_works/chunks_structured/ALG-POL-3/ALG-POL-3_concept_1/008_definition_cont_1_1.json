@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಬಹುಪದೋಕ್ತಿಯ ಸಾಮಾನ್ಯ ರೂಪ",
+  "script": "ಈಗ ಬಹುಪದೋಕ್ತಿಯ ಸಾಮಾನ್ಯ ರೂಪವನ್ನು ನೋಡೋಣ. ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ p of x ಎಂದು ಬರೆಯುತ್ತೇವೆ. p of x equals a n x to the power n, plus a n minus one x to the power n minus one, ಹೀಗೆ ಮುಂದುವರೆದು a one x, plus a zero ವರೆಗೆ ಇರುತ್ತದೆ. ಇಲ್ಲಿ a zero, a one, ಹೀಗೆ a n ವರೆಗಿನ ಸಂಖ್ಯೆಗಳು ಸಹಗುಣಕಗಳು, ಅಂದರೆ coefficients. ಇವು ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳಾಗಿರುತ್ತವೆ. x ಎಂಬುದು ಚರಾಕ್ಷರ. ಇಲ್ಲಿ ಅತ್ಯಂತ ಮುಖ್ಯವಾದ ಅಂಶವೆಂದರೆ, n ಎಂಬುದು ಒಂದು ಪೂರ್ಣಾಂಕ, ಅಂದರೆ non-negative integer ಆಗಿರಬೇಕು. ಮತ್ತು a n ಸೊನ್ನೆಗೆ ಸಮವಾಗಿರಬಾರದು. ಇದೇ ಬಹುಪದೋಕ್ತಿಯ ಪ್ರಮಾಣಿತ ರೂಪ.",
+  "script_display": "ಈಗ ಬಹುಪದೋಕ್ತಿಯ ಸಾಮಾನ್ಯ ರೂಪವನ್ನು ನೋಡೋಣ. ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ $p(x)$ ಎಂದು ಬರೆಯುತ್ತೇವೆ. $p(x) = a_n x^n + a_{n-1} x^{n-1} + \\dots + a_1 x + a_0$. ಇಲ್ಲಿ $a_0, a_1, \\dots, a_n$ ಗಳು ಸಹಗುಣಕಗಳು (coefficients) ಮತ್ತು ಇವು ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳು. $x$ ಎಂಬುದು ಚರಾಕ್ಷರ. ಇಲ್ಲಿ ಅತ್ಯಂತ ಮುಖ್ಯವಾದ ಅಂಶವೆಂದರೆ, $n$ ಎಂಬುದು ಒಂದು ಪೂರ್ಣಾಂಕ (non-negative integer) ಆಗಿರಬೇಕು. ಮತ್ತು $a_n \\neq 0$. ಇದೇ ಬಹುಪದೋಕ್ತಿಯ ಪ್ರಮಾಣಿತ ರೂಪ.",
+  "display_bullets": [
+    "$a_0, a_1, \\dots, a_n$ ಗಳು ಸಹಗುಣಕಗಳು (coefficients) ಮತ್ತು ಇವು ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳು.",
+    "$x$ ಎಂಬುದು ಚರಾಕ್ಷರ (variable).",
+    "$n$ ಒಂದು ಪೂರ್ಣಾಂಕ (non-negative integer) ಆಗಿರಬೇಕು."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "p(x) = a_n x^n + a_{n-1} x^{n-1} + \\dots + a_1 x + a_0",
+    "placeholder_note": "Display the general form of a polynomial."
+  },
+  "chunk_id": "ALG-POL-3_concept_1_chunk_008"
+}

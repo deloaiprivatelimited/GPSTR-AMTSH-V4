@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತಡೆಗಟ್ಟುವ ಕ್ರಮಗಳು: ಸ್ವಚ್ಛತೆ ಮತ್ತು ಒಣಗಿಸುವಿಕೆ",
+  "script": "ಧಾನ್ಯಗಳ ನಷ್ಟವನ್ನು ತಡೆಯಲು ನಾವು ಕೆಲವು ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬಹುದು. ಇದರಲ್ಲಿ ಮೊದಲ ಮತ್ತು ಮುಖ್ಯವಾದ ಹಂತವೆಂದರೆ ಶೇಖರಿಸುವ ಮುನ್ನ ಧಾನ್ಯಗಳನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುವುದು. ಇದರಿಂದ ಕಲ್ಲು, ಮಣ್ಣು ಮತ್ತು ಇತರ ಕಸಕಡ್ಡಿಗಳು ದೂರವಾಗುತ್ತವೆ. ನಂತರ, ಧಾನ್ಯಗಳನ್ನು ಚೆನ್ನಾಗಿ ಒಣಗಿಸಬೇಕು. ಮೊದಲು ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಿ, ನಂತರ ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸುವುದರಿಂದ ತೇವಾಂಶದ ಪ್ರಮಾಣವು ಸುರಕ್ಷಿತ ಮಟ್ಟಕ್ಕೆ, ಅಂದರೆ ಶೇಕಡಾ ಹದಿನಾಲ್ಕಕ್ಕಿಂತ ಕಡಿಮೆಗೆ ಇಳಿಯುತ್ತದೆ. ಇದು ಕೀಟಗಳು ಮತ್ತು ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಬೆಳವಣಿಗೆಯನ್ನು ತಡೆಯುತ್ತದೆ.",
+  "script_display": "ಧಾನ್ಯಗಳ ನಷ್ಟವನ್ನು ತಡೆಯಲು ನಾವು ಕೆಲವು ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬಹುದು. ಇದರಲ್ಲಿ ಮೊದಲ ಮತ್ತು ಮುಖ್ಯವಾದ ಹಂತವೆಂದರೆ ಶೇಖರಿಸುವ ಮುನ್ನ ಧಾನ್ಯಗಳನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುವುದು. ಇದರಿಂದ ಕಲ್ಲು, ಮಣ್ಣು ಮತ್ತು ಇತರ ಕಸಕಡ್ಡಿಗಳು ದೂರವಾಗುತ್ತವೆ. ನಂತರ, ಧಾನ್ಯಗಳನ್ನು ಚೆನ್ನಾಗಿ ಒಣಗಿಸಬೇಕು. ಮೊದಲು ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಿ, ನಂತರ ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸುವುದರಿಂದ ತೇವಾಂಶದ ಪ್ರಮಾಣವು ಸುರಕ್ಷಿತ ಮಟ್ಟಕ್ಕೆ (14% ಕ್ಕಿಂತ ಕಡಿಮೆ) ಇಳಿಯುತ್ತದೆ. ಇದು ಕೀಟಗಳು ಮತ್ತು ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಬೆಳವಣಿಗೆಯನ್ನು ತಡೆಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ಶೇಖರಿಸುವ ಮುನ್ನ ಸ್ವಚ್ಛಗೊಳಿಸುವುದು",
+    "ಬಿಸಿಲಿನಲ್ಲಿ ಮತ್ತು ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸುವುದು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "style_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-step illustration. Step 1 shows grains being sieved to remove impurities like stones and chaff. Step 2 shows the cleaned grains spread out on a large mat under the sun for drying.",
+    "labels": "ಸ್ವಚ್ಛಗೊಳಿಸುವಿಕೆ, ಒಣಗಿಸುವಿಕೆ",
+    "scientific_significance": "Demonstrates the initial and crucial steps of preparing grain for storage: cleaning and drying.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_7_chunk_013"
+}

@@ -1,0 +1,46 @@
+{
+  "module_id": "std_10_chapter_5_concept_3",
+  "chapter_code": "std_10_chapter_5",
+  "voice": "Gacrux",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 109.953,
+  "total_duration_formatted": "1:49",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_5_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಪೋಷಕ ಪೋಷಣೆ: ಅಮೀಬಾದಲ್ಲಿ ಪೋಷಣೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 44.651,
+      "duration": 44.651,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_10_chapter_5_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವ-ಅವಶ್ಯಕತೆಗಳು",
+      "type": "intro",
+      "start": 45.251,
+      "end": 65.102,
+      "duration": 19.851,
+      "script_words": 28
+    },
+    {
+      "chunk_id": "std_10_chapter_5_concept_3_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 65.702,
+      "end": 109.353,
+      "duration": 43.651,
+      "script_words": 54
+    }
+  ]
+}

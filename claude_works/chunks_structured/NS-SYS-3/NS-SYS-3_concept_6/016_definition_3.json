@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯಾನ: $a^{\\frac{1}{n}}$",
+  "script": "ಈಗ ನಾವು ಎ ಘಾತ ಒಂದು ಭಾಗಿಸು ಎನ್ ನ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. ಇದನ್ನು 'ಎ ಯ ಎನ್ ನೇ ಮೂಲ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಗಣಿತದ ಪ್ರಕಾರ, ಎ ಘಾತ ಒಂದು ಭಾಗಿಸು ಎನ್ ಸಮ ಎ ಯ ಎನ್ ನೇ ಮೂಲ. ಇಲ್ಲಿ, ಎ ಎಂಬುದು ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆಯಾಗಿರಬೇಕು ಮತ್ತು ಎನ್ ಒಂದು ಧನ ಪೂರ್ಣಾಂಕ. ಇದರ ಅರ್ಥವೇನೆಂದರೆ, ಯಾವ ಸಂಖ್ಯೆಯನ್ನು ಎನ್ ಬಾರಿ ಗುಣಿಸಿದಾಗ ನಮಗೆ ಎ ಸಿಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯುತ್ತಿದ್ದೇವೆ. ಉದಾಹರಣೆಗೆ, ಬಿ ಘಾತ ಎನ್ ಸಮ ಎ ಆದರೆ, ಬಿ ಸಮ ಎ ಘಾತ ಒಂದು ಭಾಗಿಸು ಎನ್ ಆಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು $a^{\\frac{1}{n}}$ ನ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. ಇದನ್ನು '$a$ ಯ $n$ ನೇ ಮೂಲ' ($n^{th}$ root of $a$) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಗಣಿತದ ಪ್ರಕಾರ, $a^{\\frac{1}{n}} = \\sqrt[n]{a}$. ಇಲ್ಲಿ, $a$ ಎಂಬುದು ಧನ ವಾಸ್ತವ ಸಂಖ್ಯೆಯಾಗಿರಬೇಕು ($a>0$) ಮತ್ತು $n$ ಒಂದು ಧನ ಪೂರ್ಣಾಂಕ. ಇದರ ಅರ್ಥವೇನೆಂದರೆ, ಯಾವ ಸಂಖ್ಯೆಯನ್ನು $n$ ಬಾರಿ ಗುಣಿಸಿದಾಗ ನಮಗೆ $a$ ಸಿಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯುತ್ತಿದ್ದೇವೆ. ಉದಾಹರಣೆಗೆ, $b^n = a$ ಆದರೆ, $b = a^{\\frac{1}{n}}$ ಆಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "$a^{\\frac{1}{n}}$ ಎಂದರೆ $a$ ಯ $n$ ನೇ ಮೂಲ.",
+    "$a^{\\frac{1}{n}} = \\sqrt[n]{a}$",
+    "ಇಲ್ಲಿ $a > 0$ ಮತ್ತು $n$ ಒಂದು ಧನ ಪೂರ್ಣಾಂಕ.",
+    "ಅಂದರೆ, $b^n = a$ ಆದರೆ, $b = \\sqrt[n]{a} = a^{\\frac{1}{n}}$."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "a^{\\frac{1}{n}} = \\sqrt[n]{a}",
+    "placeholder_note": "Formula showing a to the power 1/n equals the nth root of a"
+  },
+  "chunk_id": "NS-SYS-3_concept_6_chunk_016"
+}

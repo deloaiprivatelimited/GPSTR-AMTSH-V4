@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 3: ಸ್ಪರ್ಶಕದ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ ಐದು ಸೆಂಟಿಮೀಟರ್ ತ್ರಿಜ್ಯವಿರುವ ಒಂದು ವೃತ್ತವನ್ನು ನೀಡಲಾಗಿದೆ. ಈ ವೃತ್ತದಲ್ಲಿ, ಪಿ ಕ್ಯೂ ಎಂಬ ಜ್ಯಾದ ಉದ್ದ ಎಂಟು ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಪಿ ಮತ್ತು ಕ್ಯೂ ಬಿಂದುಗಳಲ್ಲಿ ಎಳೆದ ಸ್ಪರ್ಶಕಗಳು ಟಿ ಎಂಬ ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸುತ್ತವೆ. ನಾವು ಟಿ ಪಿ ಯ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುವಂತೆ, ನಮಗೆ ವೃತ್ತದ ತ್ರಿಜ್ಯ, ಜ್ಯಾದ ಉದ್ದವನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ಸ್ಪರ್ಶಕದ ಉದ್ದವನ್ನು ಕೇಳಲಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ 5 cm ತ್ರಿಜ್ಯವಿರುವ ಒಂದು ವೃತ್ತವನ್ನು ನೀಡಲಾಗಿದೆ. ಈ ವೃತ್ತದಲ್ಲಿ, ಜ್ಯಾ PQ ನ ಉದ್ದ 8 cm ಆಗಿದೆ. P ಮತ್ತು Q ಬಿಂದುಗಳಲ್ಲಿ ಎಳೆದ ಸ್ಪರ್ಶಕಗಳು T ಎಂಬ ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸುತ್ತವೆ. ನಾವು TP ಯ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುವಂತೆ, ನಮಗೆ ವೃತ್ತದ ತ್ರಿಜ್ಯ, ಜ್ಯಾದ ಉದ್ದವನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ಸ್ಪರ್ಶಕದ ಉದ್ದವನ್ನು ಕೇಳಲಾಗಿದೆ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: 5 cm ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತ.",
+    "ದತ್ತಾಂಶ: ಜ್ಯಾ PQ ನ ಉದ್ದ 8 cm.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಸ್ಪರ್ಶಕ TP ಯ ಉದ್ದ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "O ಕೇಂದ್ರವಿರುವ ವೃತ್ತ. PQ ಎಂಬುದು 8 cm ಉದ್ದದ ಜ್ಯಾ. P ಮತ್ತು Q ನಿಂದ ಎಳೆದ ಸ್ಪರ್ಶಕಗಳು T ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸುತ್ತವೆ. OP ತ್ರಿಜ್ಯವು 5 cm. OT ರೇಖೆಯು PQ ಅನ್ನು R ನಲ್ಲಿ ಛೇದಿಸುತ್ತದೆ.",
+    "labels": "O, P, Q, T, R",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯ ದೃಶ್ಯ ನಿರೂಪಣೆ. ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಮತ್ತು ಸಮರೂಪ ತ್ರಿಭುಜಗಳನ್ನು ಅನ್ವಯಿಸಲು ಬೇಕಾದ ಜ್ಯಾಮಿತೀಯ ಆಕೃತಿ.",
+    "placeholder_note": "Image to be generated showing a circle with center O, chord PQ, tangents from P and Q meeting at T. Radius OP is drawn. Line OT intersects PQ at R."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "GEO-CIR-2_example_6",
+  "chunk_id": "GEO-CIR-2_concept_6_chunk_023"
+}

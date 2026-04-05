@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಭಾಗ (i): (3a + 4b)³ ವಿಸ್ತರಣೆ (ಮುಂದುವರಿದಿದೆ)",
+  "script": "ಈಗ ನಾವು ಇದನ್ನು ಸರಳೀಕರಿಸೋಣ. ಮೂರು a ಹೋಲ್ ಕ್ಯೂಬ್ಡ್ ಎಂದರೆ ಇಪ್ಪತ್ತೇಳು a ಕ್ಯೂಬ್ಡ್. ನಾಲ್ಕು b ಹೋಲ್ ಕ್ಯೂಬ್ಡ್ ಎಂದರೆ ಅರವತ್ತನಾಲ್ಕು b ಕ್ಯೂಬ್ಡ್. ಮತ್ತು ಮೂರು ಇಂಟು ಮೂರು a ಇಂಟು ನಾಲ್ಕು b ಎಂದರೆ ಮೂವತ್ತಾರು a b. ಇದನ್ನು ನಾವು ಮೂರು a ಪ್ಲಸ್ ನಾಲ್ಕು b ಯೊಂದಿಗೆ ಗುಣಿಸಬೇಕು. ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ ಮೂವತ್ತಾರು a b ಯನ್ನು ಮೂರು a ಪ್ಲಸ್ ನಾಲ್ಕು b ಯೊಂದಿಗೆ ಗುಣಿಸೋಣ. ಮೂವತ್ತಾರು a b ಇಂಟು ಮೂರು a ನಮಗೆ ನೂರಾ ಎಂಟು a ಸ್ಕ್ವೇರ್ b ಕೊಡುತ್ತದೆ, ಮತ್ತು ಮೂವತ್ತಾರು a b ಇಂಟು ನಾಲ್ಕು b ನಮಗೆ ನೂರಾ ನಲವತ್ತನಾಲ್ಕು a b ಸ್ಕ್ವೇರ್ ಕೊಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಇದನ್ನು ಸರಳೀಕರಿಸೋಣ. $(3a)^3 = 27a^3$, $(4b)^3 = 64b^3$ ಮತ್ತು $3(3a)(4b) = 36ab$. ಆದ್ದರಿಂದ, ಸಮೀಕರಣವು $27a^3 + 64b^3 + 36ab(3a+4b)$ ಆಗುತ್ತದೆ. ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿದಾಗ, $36ab(3a+4b) = (36ab \\times 3a) + (36ab \\times 4b) = 108a^2b + 144ab^2$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_vertical",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_20",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಪದಗಳನ್ನು ಸರಳೀಕರಿಸಿ: $= 27a^3 + 64b^3 + 36ab(3a+4b)$",
+      "justification": "ಘನಗಳನ್ನು ಮತ್ತು ಗುಣಲಬ್ಧವನ್ನು ಲೆಕ್ಕ ಹಾಕುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "ಬ್ರಾಕೆಟ್ ವಿಸ್ತರಿಸಿ: $= 27a^3 + 64b^3 + 108a^2b + 144ab^2$",
+      "justification": "ವಿತರಣಾ ನಿಯಮವನ್ನು (distributive property) ಬಳಸಿ $36ab$ ಯನ್ನು $(3a+4b)$ ಯೊಂದಿಗೆ ಗುಣಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "ALG-POL-3_concept_6_chunk_068"
+}

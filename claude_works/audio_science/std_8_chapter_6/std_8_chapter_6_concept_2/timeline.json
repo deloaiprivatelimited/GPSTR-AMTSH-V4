@@ -1,0 +1,79 @@
+{
+  "module_id": "std_8_chapter_6_concept_2",
+  "chapter_code": "std_8_chapter_6",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 295.506,
+  "total_duration_formatted": "4:55",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_6_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ: ಮಾನವ ಸಂತಾನೋತ್ಪತ್ತಿ ಅಂಗಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 61.411,
+      "duration": 61.411,
+      "script_words": 83
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 62.011,
+      "end": 85.142,
+      "duration": 23.131,
+      "script_words": 30
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_2_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಗಂಡು ಸಂತಾನೋತ್ಪತ್ತಿ ಅಂಗಗಳು",
+      "type": "concept_explanation",
+      "start": 85.742,
+      "end": 138.513,
+      "duration": 52.771,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_2_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಹೆಣ್ಣು ಸಂತಾನೋತ್ಪತ್ತಿ ಅಂಗಗಳು",
+      "type": "concept_explanation",
+      "start": 139.113,
+      "end": 188.364,
+      "duration": 49.251,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_2_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಲಿಂಗಾಣುಗಳು: ವೀರ್ಯಾಣು ಮತ್ತು ಅಂಡಾಣು",
+      "type": "concept_explanation",
+      "start": 188.964,
+      "end": 248.575,
+      "duration": 59.611,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_2_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 249.175,
+      "end": 294.906,
+      "duration": 45.731,
+      "script_words": 53
+    }
+  ]
+}

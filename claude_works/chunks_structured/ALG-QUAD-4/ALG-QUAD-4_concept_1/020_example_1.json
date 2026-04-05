@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ: ವರ್ಗ ಸಮೀಕರಣಗಳನ್ನು ಪರೀಕ್ಷಿಸುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣಗಳು ವರ್ಗ ಸಮೀಕರಣಗಳೇ ಎಂಬುದನ್ನು ನಾವು ಪರೀಕ್ಷಿಸಬೇಕು. ಒಂದು ಸಮೀಕರಣವು ವರ್ಗ ಸಮೀಕರಣವಾಗಬೇಕಾದರೆ, ಅದನ್ನು ಸರಳೀಕರಿಸಿದಾಗ ಅದು ax squared plus bx plus c equals zero ರೂಪದಲ್ಲಿರಬೇಕು, ಮತ್ತು ಮುಖ್ಯವಾಗಿ a ಸೊನ್ನೆಗೆ ಸಮನಾಗಿರಬಾರದು. ಅಂದರೆ, x squared ಪದ ಇರಲೇಬೇಕು. ನಾವು ಪ್ರತಿಯೊಂದು ಸಮೀಕರಣವನ್ನು ಒಂದೊಂದಾಗಿ ಬಿಡಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣಗಳು ವರ್ಗ ಸಮೀಕರಣಗಳೇ ಎಂಬುದನ್ನು ನಾವು ಪರೀಕ್ಷಿಸಬೇಕು. ಒಂದು ಸಮೀಕರಣವು ವರ್ಗ ಸಮೀಕರಣವಾಗಬೇಕಾದರೆ, ಅದನ್ನು ಸರಳೀಕರಿಸಿದಾಗ ಅದು $ax^2+bx+c=0$ ರೂಪದಲ್ಲಿರಬೇಕು, ಮತ್ತು ಮುಖ್ಯವಾಗಿ $a \\neq 0$ ಆಗಿರಬಾರದು. ಅಂದರೆ, $x^2$ ಪದ ಇರಲೇಬೇಕು. ನಾವು ಪ್ರತಿಯೊಂದು ಸಮೀಕರಣವನ್ನು ಒಂದೊಂದಾಗಿ ಬಿಡಿಸೋಣ.",
+  "display_bullets": [
+    "ಈ ಕೆಳಗಿನವುಗಳು ವರ್ಗ ಸಮೀಕರಣಗಳೇ ಎಂಬುದನ್ನು ಪರೀಕ್ಷಿಸಿ:",
+    "(i) $(x-2)^2+1=2x-3$",
+    "(ii) $x(x+1)+8=(x+2)(x-2)$",
+    "(iii) $x(2x+3)=x^2+1$",
+    "(iv) $(x+2)^3=x^3-4$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ax^2+bx+c=0, \\quad a \\neq 0",
+    "placeholder_note": "Standard form of a quadratic equation"
+  },
+  "source_example_id": "ALG-QUAD-4_example_2",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-QUAD-4_concept_1_chunk_020"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಸಾಮಗ್ರಿ vs. ವಸ್ತು",
+  "script": "ಸಾಮಗ್ರಿ ಮತ್ತು ವಸ್ತು, ಈ ಎರಡು ಪದಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ. ಸಾಮಗ್ರಿ ಎಂದರೆ ಕಚ್ಚಾ ಪದಾರ್ಥ, ಅಂದರೆ ವಸ್ತುವನ್ನು ಮಾಡಲು ಬಳಸುವ ಮೂಲ ಅಂಶ. ವಸ್ತು ಎಂದರೆ ಆ ಸಾಮಗ್ರಿಗಳಿಂದ ತಯಾರಾದ ಅಂತಿಮ ಉತ್ಪನ್ನ. ಎಡಭಾಗದಲ್ಲಿರುವ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ, ಇಲ್ಲಿ ಮರ, ಕಾಗದ, ಮತ್ತು ಪ್ಲಾಸ್ಟಿಕ್ ಇವೆ. ಇವು ಸಾಮಗ್ರಿಗಳು. ಈಗ ಬಲಭಾಗದ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ. ಮರದಿಂದ ಕುರ್ಚಿ, ಕಾಗದದಿಂದ ಪುಸ್ತಕ, ಮತ್ತು ಪ್ಲಾಸ್ಟಿಕ್‌ನಿಂದ ಬಾಟಲಿಯನ್ನು ತಯಾರಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ ಕುರ್ಚಿ, ಪುಸ್ತಕ, ಮತ್ತು ಬಾಟಲಿಗಳು ವಸ್ತುಗಳು. ಅಂದರೆ, ಸಾಮಗ್ರಿ ಕಾರಣವಾದರೆ, ವಸ್ತು ಅದರ ಕಾರ್ಯ.",
+  "script_display": "ಸಾಮಗ್ರಿ (Material) ಮತ್ತು ವಸ್ತು (Object), ಈ ಎರಡು ಪದಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ. ಸಾಮಗ್ರಿ ಎಂದರೆ ಕಚ್ಚಾ ಪದಾರ್ಥ, ಅಂದರೆ ವಸ್ತುವನ್ನು ಮಾಡಲು ಬಳಸುವ ಮೂಲ ಅಂಶ. ವಸ್ತು ಎಂದರೆ ಆ ಸಾಮಗ್ರಿಗಳಿಂದ ತಯಾರಾದ ಅಂತಿಮ ಉತ್ಪನ್ನ. ಎಡಭಾಗದಲ್ಲಿರುವ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ, ಇಲ್ಲಿ ಮರ, ಕಾಗದ, ಮತ್ತು ಪ್ಲಾಸ್ಟಿಕ್ ಇವೆ. ಇವು ಸಾಮಗ್ರಿಗಳು. ಈಗ ಬಲಭಾಗದ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ. ಮರದಿಂದ ಕುರ್ಚಿ, ಕಾಗದದಿಂದ ಪುಸ್ತಕ, ಮತ್ತು ಪ್ಲಾಸ್ಟಿಕ್‌ನಿಂದ ಬಾಟಲಿಯನ್ನು ತಯಾರಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ ಕುರ್ಚಿ, ಪುಸ್ತಕ, ಮತ್ತು ಬಾಟಲಿಗಳು ವಸ್ತುಗಳು. ಅಂದರೆ, ಸಾಮಗ್ರಿ ಕಾರಣವಾದರೆ, ವಸ್ತು ಅದರ ಕಾರ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "side_by_side_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "This table will be rendered directly in the split_comparison layout. The left column is for 'Material' and the right for 'Object'. The script will refer to these columns as 'ಎಡಭಾಗ' and 'ಬಲಭಾಗ'. The layout should have headers for each column. Header 1: ಸಾಮಗ್ರಿ (Material). Header 2: ವಸ್ತು (Object). Row 1: ಮರ -> ಕುರ್ಚಿ. Row 2: ಕಾಗದ -> ಪುಸ್ತಕ. Row 3: ಪ್ಲಾಸ್ಟಿಕ್ -> ಬಾಟಲಿ."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_6_chapter_6_concept_1_chunk_004"
+}

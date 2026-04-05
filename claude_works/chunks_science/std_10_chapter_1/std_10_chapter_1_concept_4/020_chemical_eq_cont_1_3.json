@@ -1,0 +1,30 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಮುಖ ತೀರ್ಮಾನ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಕ್ರಿಯೆಯು ಉತ್ಕರ್ಷಣ ಮತ್ತು ಅಪಕರ್ಷಣ ಎರಡನ್ನೂ ಏಕಕಾಲದಲ್ಲಿ ಒಳಗೊಂಡಿರುವುದರಿಂದ, ಇದೊಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯಾಗಿದೆ. ನೆನಪಿಡಿ, ಒಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯಲ್ಲಿ, ಒಂದು ವಸ್ತುವು ಉತ್ಕರ್ಷಣಗೊಂಡರೆ, ಮತ್ತೊಂದು ವಸ್ತುವು ಖಂಡಿತವಾಗಿ ಅಪಕರ್ಷಣಗೊಳ್ಳಲೇಬೇಕು.",
+  "script_display": "ಒಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯಲ್ಲಿ, ಒಂದು ವಸ್ತುವು ಉತ್ಕರ್ಷಣಗೊಂಡರೆ, ಮತ್ತೊಂದು ವಸ್ತುವು ಖಂಡಿತವಾಗಿ ಅಪಕರ್ಷಣಗೊಳ್ಳಲೇಬೇಕು.",
+  "display_bullets": [
+    "ZnO + C → Zn + CO ಒಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+    "ಉತ್ಕರ್ಷಣ ಮತ್ತು ಅಪಕರ್ಷಣ ಯಾವಾಗಲೂ ಒಟ್ಟಿಗೆ ನಡೆಯುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "template_highlight_box",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_1_concept_4_chunk_020"
+}

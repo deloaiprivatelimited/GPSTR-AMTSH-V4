@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಹಅವಿಭಾಜ್ಯ ಪರೀಕ್ಷೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 40 ಮತ್ತು 231 ಸಹಅವಿಭಾಜ್ಯಗಳೇ ಎಂದು ಪರೀಕ್ಷಿಸಬೇಕು. ಅಂದರೆ, ಈ ಎರಡು ಸಂಖ್ಯೆಗಳ ನಡುವೆ 1 ಅನ್ನು ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಇದೆಯೇ ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 40 ಮತ್ತು 231 ಸಹಅವಿಭಾಜ್ಯಗಳೇ ಎಂದು ಪರೀಕ್ಷಿಸಬೇಕು. ಅಂದರೆ, ಈ ಎರಡು ಸಂಖ್ಯೆಗಳ ನಡುವೆ 1 ಅನ್ನು ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಇದೆಯೇ ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "40 \\text{ ಮತ್ತು } 231 \\text{ ಸಹಅವಿಭಾಜ್ಯಗಳೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ.}",
+    "placeholder_note": "Problem statement"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-PRI-1_example_7",
+  "chunk_id": "NS-PRI-1_concept_4_chunk_012"
+}

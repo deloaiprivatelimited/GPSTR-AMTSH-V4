@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ದಾಳ ಉರುಳಿಸುವುದು",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಘಟನೆ ಎಂದರೇನು ಎಂದು ನೋಡೋಣ. ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು ನಮ್ಮ ಪ್ರಯೋಗ. ಈ ಪ್ರಯೋಗದಲ್ಲಿ ಬರಬಹುದಾದ ಎಲ್ಲಾ ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳು ಯಾವುವು? ಒಂದು, ಎರಡು, ಮೂರು, ನಾಲ್ಕು, ಐದು, ಅಥವಾ ಆರು. ಈ ಎಲ್ಲಾ ಫಲಿತಾಂಶಗಳ ಗಣವನ್ನು ನಾವು ಸ್ಯಾಂಪಲ್ ಸ್ಪೇಸ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈಗ, 'ಒಂದು ಸಮ ಸಂಖ್ಯೆ ಬರುವುದು' ಎಂಬುದನ್ನು ಒಂದು ಘಟನೆ ಎಂದು ಪರಿಗಣಿಸೋಣ. ಈ ಘಟನೆಗೆ ಪೂರಕವಾದ ಫಲಿತಾಂಶಗಳು ಯಾವುವು? ಅವುಗಳೆಂದರೆ ಎರಡು, ನಾಲ್ಕು, ಮತ್ತು ಆರು. ಹಾಗಾಗಿ, ಈ ಮೂರು ಫಲಿತಾಂಶಗಳನ್ನು ಒಳಗೊಂಡ ಗಣವೇ ನಮ್ಮ ಘಟನೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಘಟನೆ ಎಂದರೇನು ಎಂದು ನೋಡೋಣ. ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು ನಮ್ಮ ಪ್ರಯೋಗ. ಈ ಪ್ರಯೋಗದಲ್ಲಿ ಬರಬಹುದಾದ ಎಲ್ಲಾ ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳು ಯಾವುವು? 1, 2, 3, 4, 5, ಅಥವಾ 6. ಈ ಎಲ್ಲಾ ಫಲಿತಾಂಶಗಳ ಗಣವನ್ನು ನಾವು ಸ್ಯಾಂಪಲ್ ಸ್ಪೇಸ್ (Sample Space) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈಗ, 'ಒಂದು ಸಮ ಸಂಖ್ಯೆ ಬರುವುದು' ಎಂಬುದನ್ನು ಒಂದು ಘಟನೆ ಎಂದು ಪರಿಗಣಿಸೋಣ. ಈ ಘಟನೆಗೆ ಪೂರಕವಾದ ಫಲಿತಾಂಶಗಳು ಯಾವುವು? ಅವುಗಳೆಂದರೆ 2, 4, ಮತ್ತು 6. ಹಾಗಾಗಿ, ಈ ಮೂರು ಫಲಿತಾಂಶಗಳನ್ನು ಒಳಗೊಂಡ ಗಣವೇ ನಮ್ಮ ಘಟನೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪ್ರಯೋಗ: ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು.",
+    "ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳು (Sample Space): {1, 2, 3, 4, 5, 6}",
+    "ಘಟನೆ (Event): 'ಒಂದು ಸಮ ಸಂಖ್ಯೆ' ಬರುವುದು.",
+    "ಘಟನೆಗೆ ಪೂರಕವಾದ ಫಲಿತಾಂಶಗಳು: {2, 4, 6}"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the sample space of a die roll {1, 2, 3, 4, 5, 6}. The numbers 2, 4, and 6 are circled or highlighted to represent the event 'getting an even number'.",
+    "labels": "Sample Space, Event: Even Number",
+    "mathematical_significance": "Visually separates the total outcomes from the outcomes favorable to a specific event, illustrating that an event is a subset of the sample space.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_016"
+}

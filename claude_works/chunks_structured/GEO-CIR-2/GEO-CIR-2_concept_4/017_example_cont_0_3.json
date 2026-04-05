@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ ಕೋನ BCD ಸಮ ಎಂಬತ್ತು ಡಿಗ್ರಿ. ಈ ಲೆಕ್ಕವನ್ನು ಬಿಡಿಸಲು ನಾವು ಎರಡು ಪ್ರಮುಖ ಗುಣಗಳನ್ನು ಬಳಸಿದ್ದೇವೆ: ಮೊದಲನೆಯದಾಗಿ, ಒಂದೇ ವೃತ್ತಖಂಡದಲ್ಲಿನ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ, ಮತ್ತು ಎರಡನೆಯದಾಗಿ, ಚಕ್ರೀಯ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತ ನೂರ ಎಂಭತ್ತು ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ. ಈ ಗುಣಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ $\\angle BCD = 80^{\\circ}$. ಈ ಲೆಕ್ಕವನ್ನು ಬಿಡಿಸಲು ನಾವು ಎರಡು ಪ್ರಮುಖ ಗುಣಗಳನ್ನು ಬಳಸಿದ್ದೇವೆ: ಮೊದಲನೆಯದಾಗಿ, ಒಂದೇ ವೃತ್ತಖಂಡದಲ್ಲಿನ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ, ಮತ್ತು ಎರಡನೆಯದಾಗಿ, ಚಕ್ರೀಯ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತ $180^{\\circ}$ ಆಗಿರುತ್ತದೆ. ಈ ಗುಣಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_result",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\angle BCD = 80^{\\circ}",
+    "placeholder_note": "Final answer box"
+  },
+  "difficulty": "basic",
+  "source_example_id": "GEO-CIR-2_example_3",
+  "final_answer": "∠BCD = 80°",
+  "final_answer_display": "$\\angle BCD = 80^{\\circ}$",
+  "chunk_id": "GEO-CIR-2_concept_4_chunk_017"
+}

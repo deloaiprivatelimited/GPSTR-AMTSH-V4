@@ -1,0 +1,136 @@
+{
+  "module_id": "NS-CUBE-2_concept_6",
+  "merge_code": "NS-CUBE-2",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 16:41:34",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "4cf9977dc31529de165bac7c17f266fc",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 23.371,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 37,
+      "generated_at": "2026-03-30 16:39:35"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "41e141a068d8ea6d59d4d9d8eafbab50",
+      "wav_file": "001_intro_0.wav",
+      "duration": 57.851,
+      "slide_title": "ಹಾರ್ಡಿ-ರಾಮಾನುಜನ್ ಸಂಖ್ಯೆಗಳು",
+      "type": "intro",
+      "script_words": 97,
+      "generated_at": "2026-03-30 16:39:45"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "1866c14770bb8ceb86e89845d673b21c",
+      "wav_file": "003_definition_0.wav",
+      "duration": 39.091,
+      "slide_title": "ಹಾರ್ಡಿ-ರಾಮಾನುಜನ್ ಸಂಖ್ಯೆ: ಒಂದು ಕಥೆ",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-03-30 16:39:46"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "ec32f74fe2cd3934e02d0f425dedb73b",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 41.131,
+      "slide_title": "ವ್ಯಾಖ್ಯೆ: ಹಾರ್ಡಿ-ರಾಮಾನುಜನ್ ಸಂಖ್ಯೆ",
+      "type": "definition",
+      "script_words": 50,
+      "generated_at": "2026-03-30 16:39:51"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "02426535ce9c3d57eb3eee0a94045909",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 49.571,
+      "slide_title": "ಉದಾಹರಣೆ: 1729 (ಮೊದಲ ವಿಧಾನ)",
+      "type": "definition",
+      "script_words": 69,
+      "generated_at": "2026-03-30 16:39:54"
+    },
+    "007_definition_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "1dc27e17e59f0661365f0f59d59087fb",
+      "wav_file": "007_definition_cont_0_4.wav",
+      "duration": 35.931,
+      "slide_title": "ತೀರ್ಮಾನ: 1729 ಒಂದು ಹಾರ್ಡಿ-ರಾಮಾನುಜನ್ ಸಂಖ್ಯೆ",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-03-30 16:40:32"
+    },
+    "008_definition_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "c0380f0e5783575f688820097e2a1679",
+      "wav_file": "008_definition_cont_0_5.wav",
+      "duration": 45.771,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-03-30 16:40:54"
+    },
+    "009_property_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "9c5d01919a63cf79568cc075b0c73096",
+      "wav_file": "009_property_0.wav",
+      "duration": 59.171,
+      "slide_title": "ಹಾರ್ಡಿ-ರಾಮಾನುಜನ್ ಸಂಖ್ಯೆ: 1729",
+      "type": "concept_explanation",
+      "script_words": 101,
+      "generated_at": "2026-03-30 16:41:00"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "22723f21f36b8f5f2d10c874eb5783d8",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 56.091,
+      "slide_title": "ಉದಾಹರಣೆ: 1729 (ಎರಡನೇ ವಿಧಾನ)",
+      "type": "definition",
+      "script_words": 70,
+      "generated_at": "2026-03-30 16:41:00"
+    },
+    "010_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "0386a3b078eba9db8aec9f9c838b8357",
+      "wav_file": "010_property_cont_0_1.wav",
+      "duration": 58.611,
+      "slide_title": "ಇತರ ಹಾರ್ಡಿ-ರಾಮಾನುಜನ್ ಸಂಖ್ಯೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 96,
+      "generated_at": "2026-03-30 16:41:03"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "a2c74065b9b4e57148613780d11010d5",
+      "wav_file": "011_recap_0.wav",
+      "duration": 38.931,
+      "slide_title": "ಸಾರಾಂಶ: ಹಾರ್ಡಿ-ರಾಮಾನುಜನ್ ಸಂಖ್ಯೆಗಳು",
+      "type": "recap",
+      "script_words": 60,
+      "generated_at": "2026-03-30 16:41:34"
+    }
+  }
+}

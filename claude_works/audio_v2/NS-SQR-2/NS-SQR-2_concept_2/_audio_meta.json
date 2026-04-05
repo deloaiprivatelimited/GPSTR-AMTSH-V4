@@ -1,0 +1,136 @@
+{
+  "module_id": "NS-SQR-2_concept_2",
+  "merge_code": "NS-SQR-2",
+  "voice": "Achernar",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 17:20:57",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "8651a1f019e91bf97788848afce1bb2f",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 24.611,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 32,
+      "generated_at": "2026-03-30 17:18:48"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "3510ae6958a310f7c3eb6204f0f67a28",
+      "wav_file": "001_intro_0.wav",
+      "duration": 40.211,
+      "slide_title": "ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "intro",
+      "script_words": 62,
+      "generated_at": "2026-03-30 17:19:03"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "cb854614bccc960efbf12a3f59442204",
+      "wav_file": "003_property_0.wav",
+      "duration": 39.091,
+      "slide_title": "ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಬಿಡಿ ಸ್ಥಾನ",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-03-30 17:19:10"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "35ac831ee9a0c0db066c98e29883342e",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 41.971,
+      "slide_title": "ಗುಣಲಕ್ಷಣ 1: ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿಗಳು",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-03-30 17:19:10"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "37666195ba7891842474f4906a03f049",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 37.411,
+      "slide_title": "ಪೂರ್ಣವರ್ಗವಲ್ಲದ ಸಂಖ್ಯೆಗಳನ್ನು ಗುರುತಿಸುವುದು",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-03-30 17:19:10"
+    },
+    "007_property_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "983294cb9eab9a55edc268e674ff198e",
+      "wav_file": "007_property_cont_0_4.wav",
+      "duration": 44.971,
+      "slide_title": "ಗುಣಲಕ್ಷಣ 2: ಬಿಡಿ ಸ್ಥಾನದ ನಿಯಮಗಳು (ಭಾಗ 2)",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-03-30 17:19:56"
+    },
+    "009_property_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "88905599f4d28750aef293fc9e25f045",
+      "wav_file": "009_property_1.wav",
+      "duration": 51.171,
+      "slide_title": "ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಗುಣಲಕ್ಷಣಗಳು: ಸೊನ್ನೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-03-30 17:20:06"
+    },
+    "006_property_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "ca0b7f015503352506a4d9294d9ab140",
+      "wav_file": "006_property_cont_0_3.wav",
+      "duration": 63.251,
+      "slide_title": "ಗುಣಲಕ್ಷಣ 2: ಬಿಡಿ ಸ್ಥಾನದ ನಿಯಮಗಳು (ಭಾಗ 1)",
+      "type": "concept_explanation",
+      "script_words": 83,
+      "generated_at": "2026-03-30 17:20:11"
+    },
+    "010_property_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "d8f8dd9bc094f921535e0e1bf28262c7",
+      "wav_file": "010_property_cont_1_1.wav",
+      "duration": 57.371,
+      "slide_title": "ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಗುಣಲಕ್ಷಣಗಳು: ಸಮ ಮತ್ತು ಬೆಸ",
+      "type": "concept_explanation",
+      "script_words": 71,
+      "generated_at": "2026-03-30 17:20:12"
+    },
+    "008_property_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "edea671b9b3327fd01385ca75986e837",
+      "wav_file": "008_property_cont_0_5.wav",
+      "duration": 53.411,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಒಂದು ಪ್ರಮುಖ ಎಚ್ಚರಿಕೆ",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-03-30 17:20:18"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "1c573791a5b4176d908f9299a5b3d58e",
+      "wav_file": "011_recap_0.wav",
+      "duration": 40.251,
+      "slide_title": "ಸಾರಾಂಶ: ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "recap",
+      "script_words": 47,
+      "generated_at": "2026-03-30 17:20:57"
+    }
+  }
+}

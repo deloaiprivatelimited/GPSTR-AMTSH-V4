@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ 11.7",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಪರಿಹರಿಸೋಣ. 20 ಓಮ್ ರೋಧ ಹೊಂದಿರುವ ಒಂದು ವಿದ್ಯುತ್ ದೀಪ ಮತ್ತು 4 ಓಮ್ ರೋಧವನ್ನು ಹೊಂದಿರುವ ವಾಹಕವನ್ನು 6 ವೋಲ್ಟ್ ನ ಬ್ಯಾಟರಿಗೆ ಸರಣಿ ಕ್ರಮದಲ್ಲಿ ಜೋಡಿಸಲಾಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: ಮಂಡಲದ ಒಟ್ಟು ರೋಧ, ಮಂಡಲದಲ್ಲಿ ಪ್ರವಹಿಸುತ್ತಿರುವ ವಿದ್ಯುತ್ ಪ್ರವಾಹ, ಮತ್ತು ವಿದ್ಯುತ್ ದೀಪ ಹಾಗೂ ವಾಹಕದ ತುದಿಗಳ ನಡುವಿನ ವಿಭವಾಂತರ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಪರಿಹರಿಸೋಣ. 20 Ω ರೋಧ ಹೊಂದಿರುವ ಒಂದು ವಿದ್ಯುತ್ ದೀಪ ಮತ್ತು 4 Ω ರೋಧವನ್ನು ಹೊಂದಿರುವ ವಾಹಕವನ್ನು 6 V ನ ಬ್ಯಾಟರಿಗೆ ಸರಣಿ ಕ್ರಮದಲ್ಲಿ ಜೋಡಿಸಲಾಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: (a) ಮಂಡಲದ ಒಟ್ಟು ರೋಧ, (b) ಮಂಡಲದಲ್ಲಿ ಪ್ರವಹಿಸುತ್ತಿರುವ ವಿದ್ಯುತ್ ಪ್ರವಾಹ, ಮತ್ತು (c) ವಿದ್ಯುತ್ ದೀಪ ಹಾಗೂ ವಾಹಕದ ತುದಿಗಳ ನಡುವಿನ ವಿಭವಾಂತರ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 20 Ω ದೀಪ ಮತ್ತು 4 Ω ವಾಹಕವನ್ನು 6 V ಬ್ಯಾಟರಿಗೆ ಸರಣಿಯಾಗಿ ಜೋಡಿಸಲಾಗಿದೆ.",
+    "ದತ್ತಾಂಶ (Given): R₁ = 20 Ω, R₂ = 4 Ω, V = 6 V",
+    "ಕಂಡುಹಿಡಿಯಿರಿ (Find): a) ಒಟ್ಟು ರೋಧ (Rₛ), b) ವಿದ್ಯುತ್ ಪ್ರವಾಹ (I), c) ಪ್ರತಿ ಘಟಕದ ವಿಭವಾಂತರ (V₁, V₂)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A circuit diagram showing a 20 Ohm lamp and a 4 Ohm resistor connected in series to a 6V battery. An ammeter is in series and voltmeters are shown measuring the potential difference across the lamp and the resistor individually.",
+    "labels": "ವಿದ್ಯುತ್ ದೀಪ (R₁=20Ω), ವಾಹಕ (R₂=4Ω), ಬ್ಯಾಟರಿ (V=6V), ಆಮ್ಮಿಟರ್ (A), ವೋಲ್ಟ್‍ಮೀಟರ್ (V)",
+    "scientific_significance": "This diagram visually represents the problem, showing the components connected in a series circuit as described in the question.",
+    "placeholder_note": "Image to be generated for std_10_chapter_11_example_11.7"
+  },
+  "sub_type": "problem_setup",
+  "source_example_id": "std_10_chapter_11_example_11.7",
+  "chunk_id": "std_10_chapter_11_concept_5_chunk_010"
+}

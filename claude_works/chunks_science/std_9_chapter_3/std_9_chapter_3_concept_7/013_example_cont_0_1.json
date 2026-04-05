@@ -1,0 +1,56 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ ಹಂತವಾಗಿ",
+  "script": "ಪರಿಹಾರವನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ಸಂಕೇತ ಮತ್ತು ವೇಲೆನ್ಸಿಗಳನ್ನು ಬರೆಯುವುದು. ಮೆಗ್ನಿಸಿಯಂನ ಸಂಕೇತ ಎಂ ಜಿ ಮತ್ತು ಅದರ ವೇಲೆನ್ಸಿ ಎರಡು. ಕ್ಲೋರಿನ್‌ನ ಸಂಕೇತ ಸಿ ಎಲ್ ಮತ್ತು ಅದರ ವೇಲೆನ್ಸಿ ಒಂದು. ಎರಡನೇ ಹಂತ, ವೇಲೆನ್ಸಿಗಳನ್ನು ಅಡ್ಡಹಾಯಿಸುವುದು. ಮೆಗ್ನಿಸಿಯಂನ ವೇಲೆನ್ಸಿ ಎರಡನ್ನು ಕ್ಲೋರಿನ್‌ಗೆ ಮತ್ತು ಕ್ಲೋರಿನ್‌ನ ವೇಲೆನ್ಸಿ ಒಂದನ್ನು ಮೆಗ್ನಿಸಿಯಂಗೆ ಪಾದಸೂಚಿಯಾಗಿ ನೀಡುತ್ತೇವೆ. ಇದರಿಂದ ನಮಗೆ ಎಂ ಜಿ ಒನ್ ಸಿ ಎಲ್ ಟೂ ಸಿಗುತ್ತದೆ. ಮೂರನೇ ಹಂತ, ಅಂತಿಮ ಸೂತ್ರವನ್ನು ಬರೆಯುವುದು. ಪಾದಸೂಚಿಯಲ್ಲಿ ಒಂದನ್ನು ಬರೆಯುವ ಅಗತ್ಯವಿಲ್ಲ. ಆದ್ದರಿಂದ, ಅಂತಿಮ ಸೂತ್ರ ಎಂ ಜಿ ಸಿ ಎಲ್ ಟೂ.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ.\n* **ಹಂತ 1: ಸಂಕೇತ ಮತ್ತು ವೇಲೆನ್ಸಿಗಳನ್ನು ಬರೆಯಿರಿ.**\nಮೆಗ್ನಿಸಿಯಂನ ಸಂಕೇತ Mg ಮತ್ತು ಅದರ ವೇಲೆನ್ಸಿ 2. ಕ್ಲೋರಿನ್‌ನ ಸಂಕೇತ Cl ಮತ್ತು ಅದರ ವೇಲೆನ್ಸಿ 1.\n* **ಹಂತ 2: ವೇಲೆನ್ಸಿಗಳನ್ನು ಅಡ್ಡಹಾಯಿಸಿ (Criss-cross).**\nMg ಯ ವೇಲೆನ್ಸಿ 2 ನ್ನು Cl ಗೆ ಮತ್ತು Cl ನ ವೇಲೆನ್ಸಿ 1 ನ್ನು Mg ಗೆ ಪಾದಸೂಚಿಯಾಗಿ ನೀಡುತ್ತೇವೆ. ಇದರಿಂದ ನಮಗೆ Mg₁Cl₂ ಸಿಗುತ್ತದೆ.\n* **ಹಂತ 3: ಅಂತಿಮ ಸೂತ್ರವನ್ನು ಬರೆಯಿರಿ.**\nಪಾದಸೂಚಿಯಲ್ಲಿ '1' ನ್ನು ಬರೆಯುವ ಅಗತ್ಯವಿಲ್ಲ. ಆದ್ದರಿಂದ, ಅಂತಿಮ ಸೂತ್ರ MgCl₂.",
+  "display_bullets": [
+    "ಹಂತ 1: ಸಂಕೇತ ಮತ್ತು ವೇಲೆನ್ಸಿಗಳನ್ನು ಬರೆಯಿರಿ: Mg (ವೇಲೆನ್ಸಿ 2), Cl (ವೇಲೆನ್ಸಿ 1).",
+    "ಹಂತ 2: ವೇಲೆನ್ಸಿಗಳನ್ನು ಅಡ್ಡಹಾಯಿಸಿ, ಇದು Mg₁Cl₂ ಆಗುತ್ತದೆ.",
+    "ಹಂತ 3: ಅಂತಿಮ ಸೂತ್ರವನ್ನು ಬರೆಯಿರಿ (ಪಾದಸೂಚಿ '1' ನ್ನು ಬಿಟ್ಟು): MgCl₂."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating the criss-cross method for magnesium chloride. It shows the symbols Mg and Cl. Below them are their valencies, 2 and 1. Arrows cross from the valency of Mg to the subscript of Cl, and from the valency of Cl to the subscript of Mg, resulting in the formula MgCl₂.",
+    "labels": "Symbols: Mg, Cl; Valencies: 2, 1; Criss-cross arrows; Final Formula: MgCl₂",
+    "scientific_significance": "This method visually represents how the valencies of ions determine the ratio of atoms in a neutral compound.",
+    "placeholder_note": "Image to be generated showing the criss-cross method for Mg and Cl."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_3_example_3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸಂಕೇತ ಮತ್ತು ವೇಲೆನ್ಸಿಗಳನ್ನು ಬರೆಯುವುದು: Mg (ವೇಲೆನ್ಸಿ 2), Cl (ವೇಲೆನ್ಸಿ 1).",
+      "justification": "ಮೆಗ್ನಿಸಿಯಂ ಅಯಾನು Mg²⁺ (ವೇಲೆನ್ಸಿ 2), ಕ್ಲೋರೈಡ್ ಅಯಾನು Cl⁻ (ವೇಲೆನ್ಸಿ 1)."
+    },
+    {
+      "step": 2,
+      "action_display": "ವೇಲೆನ್ಸಿಗಳನ್ನು ಅಡ್ಡಹಾಯಿಸುವುದು: Mg₁Cl₂.",
+      "justification": "Mg ಯ ವೇಲೆನ್ಸಿಯನ್ನು Cl ಗೆ ಮತ್ತು Cl ನ ವೇಲೆನ್ಸಿಯನ್ನು Mg ಗೆ ಪಾದಸೂಚಿಯಾಗಿ ಬರೆಯುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "ಅಂತಿಮ ಸೂತ್ರವನ್ನು ಬರೆಯುವುದು: MgCl₂.",
+      "justification": "ಪಾದಸೂಚಿ '1' ನ್ನು ಬರೆಯುವ ಅಗತ್ಯವಿಲ್ಲ."
+    }
+  ],
+  "chunk_id": "std_9_chapter_3_concept_7_chunk_013"
+}

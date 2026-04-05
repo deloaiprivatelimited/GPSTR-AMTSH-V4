@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಒಂದು ಪೂರ್ಣ ಆಂದೋಲನವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+  "script": "ಒಂದು ಪೂರ್ಣ ಆಂದೋಲನವನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಗೊಂದಲಮಯವಾಗಿರಬಹುದು. ಇದನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಪೂರ್ಣ ಆಂದೋಲನದ ಪಥವು 'A' ಇಂದ 'B' ಗೆ, ಮತ್ತು ನಂತರ 'B' ಇಂದ ಮತ್ತೆ 'A' ಗೆ ಇರುತ್ತದೆ. ಅಂದರೆ, ಇದು ಒಂದು ಅಂತ್ಯ ಸ್ಥಾನದಿಂದ ಪ್ರಾರಂಭವಾಗಿ, ಇನ್ನೊಂದು ಅಂತ್ಯ ಸ್ಥಾನಕ್ಕೆ ಹೋಗಿ, ಮತ್ತೆ ಅದೇ ಪ್ರಾರಂಭದ ಸ್ಥಾನಕ್ಕೆ ಹಿಂತಿರುಗುವ ಚಲನೆ. ನೆನಪಿಡಿ, ಲೋಲಕವು ಕೇವಲ 'A' ಇಂದ 'B' ಗೆ ಹೋಗುವುದು ಅರ್ಧ ಆಂದೋಲನ ಮಾತ್ರ, ಪೂರ್ಣ ಆಂದೋಲನವಲ್ಲ. ಈ ವ್ಯತ್ಯಾಸವು ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ ಬಹಳ ಮುಖ್ಯವಾಗುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಪೂರ್ಣ ಆಂದೋಲನವನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಗೊಂದಲಮಯವಾಗಿರಬಹುದು. ಇದನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಪೂರ್ಣ ಆಂದೋಲನದ ಪಥವು A → B → A. ಅಂದರೆ, ಇದು ಒಂದು ಅಂತ್ಯ ಸ್ಥಾನದಿಂದ ಪ್ರಾರಂಭವಾಗಿ, ಇನ್ನೊಂದು ಅಂತ್ಯ ಸ್ಥಾನಕ್ಕೆ ಹೋಗಿ, ಮತ್ತೆ ಅದೇ ಪ್ರಾರಂಭದ ಸ್ಥಾನಕ್ಕೆ ಹಿಂತಿರುಗುವ ಚಲನೆ. ನೆನಪಿಡಿ, ಲೋಲಕವು ಕೇವಲ A ಇಂದ B ಗೆ ಹೋಗುವುದು ಅರ್ಧ ಆಂದೋಲನ ಮಾತ್ರ, ಪೂರ್ಣ ಆಂದೋಲನವಲ್ಲ. ಈ ವ್ಯತ್ಯಾಸವು ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ ಬಹಳ ಮುಖ್ಯವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪೂರ್ಣ ಆಂದೋಲನದ ಪಥ: A → B → A.",
+    "ಇದು ಒಂದು ಅಂತ್ಯ ಸ್ಥಾನದಿಂದ ಪ್ರಾರಂಭವಾಗಿ, ಇನ್ನೊಂದು ಅಂತ್ಯ ಸ್ಥಾನಕ್ಕೆ ಹೋಗಿ, ಮತ್ತೆ ಅದೇ ಪ್ರಾರಂಭದ ಸ್ಥಾನಕ್ಕೆ ಹಿಂತಿರುಗುವ ಚಲನೆ.",
+    "ಗಮನಿಸಿ: ಕೇವಲ A ಇಂದ B ಗೆ ಹೋಗುವುದು ಅರ್ಧ ಆಂದೋಲನ ಮಾತ್ರ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a simple pendulum with arrows indicating the path of one full oscillation. The path starts at extreme position 'A', moves through the mean position 'O' to the other extreme 'B', and then returns through 'O' back to 'A'. The path A -> B -> A is highlighted.",
+    "labels": "Path A to B, Path B to A, Full Oscillation",
+    "scientific_significance": "Visually clarifies the complete path of a single oscillation, which is a common point of confusion for students.",
+    "placeholder_note": "Image to be generated showing the full path A -> B -> A."
+  },
+  "chunk_id": "std_7_science_ch_9_concept_3_chunk_008"
+}

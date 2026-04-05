@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಹಂತ 3",
+  "script": "ಈಗ, ಗಾಜಿನ ಚಪ್ಪಡಿಯನ್ನು ಮತ್ತೆ ಅದರ ಬಾಹ್ಯರೇಖೆ ABCD ಯ ಮೇಲೆ ನಿಖರವಾಗಿ ಇರಿಸಿ. ಚಪ್ಪಡಿಯ ಇನ್ನೊಂದು ಬದಿಯಾದ CD ಯಿಂದ, E ಮತ್ತು F ಪಿನ್ನುಗಳ ಪ್ರತಿಬಿಂಬಗಳನ್ನು ನೋಡಿ. ನಿಮ್ಮ ಕಣ್ಣನ್ನು ಚಲಿಸುತ್ತಾ, E ಮತ್ತು F ಪಿನ್ನುಗಳ ಪ್ರತಿಬಿಂಬಗಳು ಒಂದೇ ನೇರ ರೇಖೆಯಲ್ಲಿ ಕಾಣುವಂತಹ ಸ್ಥಾನವನ್ನು ಹುಡುಕಿ. ಆ ಸ್ಥಾನದಲ್ಲಿ, G ಮತ್ತು H ಎಂಬ ಇನ್ನೂ ಎರಡು ಗುಂಡುಪಿನ್ನುಗಳನ್ನು ಚುಚ್ಚಿ. ಈ G ಮತ್ತು H ಪಿನ್ನುಗಳು, ಹಾಗೂ E ಮತ್ತು F ಪಿನ್ನುಗಳ ಪ್ರತಿಬಿಂಬಗಳು, ಎಲ್ಲವೂ ಒಂದೇ ಸರಳ ರೇಖೆಯಲ್ಲಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ, ಗಾಜಿನ ಚಪ್ಪಡಿಯನ್ನು ಮತ್ತೆ ಅದರ ಬಾಹ್ಯರೇಖೆ ABCD ಯ ಮೇಲೆ ನಿಖರವಾಗಿ ಇರಿಸಿ. ಚಪ್ಪಡಿಯ ಇನ್ನೊಂದು ಬದಿಯಾದ CD ಯಿಂದ, E ಮತ್ತು F ಪಿನ್ನುಗಳ ಪ್ರತಿಬಿಂಬಗಳನ್ನು ನೋಡಿ. ನಿಮ್ಮ ಕಣ್ಣನ್ನು ಚಲಿಸುತ್ತಾ, E ಮತ್ತು F ಪಿನ್ನುಗಳ ಪ್ರತಿಬಿಂಬಗಳು ಒಂದೇ ನೇರ ರೇಖೆಯಲ್ಲಿ ಕಾಣುವಂತಹ ಸ್ಥಾನವನ್ನು ಹುಡುಕಿ. ಆ ಸ್ಥಾನದಲ್ಲಿ, G ಮತ್ತು H ಎಂಬ ಇನ್ನೂ ಎರಡು ಗುಂಡುಪಿನ್ನುಗಳನ್ನು ಚುಚ್ಚಿ. ಈ G ಮತ್ತು H ಪಿನ್ನುಗಳು, ಹಾಗೂ E ಮತ್ತು F ಪಿನ್ನುಗಳ ಪ್ರತಿಬಿಂಬಗಳು, ಎಲ್ಲವೂ ಒಂದೇ ಸರಳ ರೇಖೆಯಲ್ಲಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಗಾಜಿನ ಚಪ್ಪಡಿಯನ್ನು ಬಾಹ್ಯರೇಖೆಯ ಮೇಲೆ ಮರಳಿ ಇರಿಸಿ.",
+    "CD ಬದಿಯಿಂದ E ಮತ್ತು F ಪಿನ್ನುಗಳ ಪ್ರತಿಬಿಂಬಗಳನ್ನು ನೋಡಿ.",
+    "ಪ್ರತಿಬಿಂಬಗಳೊಂದಿಗೆ ಒಂದೇ ರೇಖೆಯಲ್ಲಿ ಕಾಣುವಂತೆ G ಮತ್ತು H ಎಂಬ ಎರಡು ಹೊಸ ಪಿನ್ನುಗಳನ್ನು ಚುಚ್ಚಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard_steps",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Diagram showing the third step. The glass slab is in place. An eye is shown looking through the side CD. Pins G and H are being placed such that they align with the images of pins E and F seen through the slab.",
+    "labels": "ಗಾಜಿನ ಚಪ್ಪಡಿ, ಪಿನ್ನುಗಳು G, H, ವೀಕ್ಷಿಸುವ ದಿಕ್ಕು",
+    "scientific_significance": "Illustrates the core technique of tracing the emergent ray by aligning pins with the refracted image of the incident pins.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_9_concept_5_chunk_031"
+}

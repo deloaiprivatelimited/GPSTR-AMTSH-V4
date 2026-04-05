@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಈಗ ಪ್ರಯೋಗದ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ಸೂರ್ಯನ ಬೆಳಕಿನಲ್ಲಿ ಚೆನ್ನಾಗಿ ಬೆಳೆದ ಗಿಡದಿಂದ ಒಂದು ಹಸಿರು ಎಲೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಎರಡನೇ ಹಂತವಾಗಿ, ಈ ಎಲೆಯನ್ನು ನೀರಿನಿಂದ ತುಂಬಿದ ಬೀಕರ್‌ನಲ್ಲಿ ಇಟ್ಟು ಕೆಲವು ನಿಮಿಷಗಳ ಕಾಲ ಕುದಿಸಿ. ಹೀಗೆ ಮಾಡುವುದರಿಂದ ಎಲೆಯಲ್ಲಿರುವ ಜೀವಕೋಶಗಳು ಸಾಯುತ್ತವೆ ಮತ್ತು ಅವುಗಳ ಕೋಶಭಿತ್ತಿಯು ಮೃದುವಾಗುತ್ತದೆ. ಇದು ಮುಂದಿನ ಹಂತದಲ್ಲಿ ಆಲ್ಕೋಹಾಲ್ ಸುಲಭವಾಗಿ ಜೀವಕೋಶಗಳನ್ನು ಪ್ರವೇಶಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗದ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ಸೂರ್ಯನ ಬೆಳಕಿನಲ್ಲಿ ಚೆನ್ನಾಗಿ ಬೆಳೆದ ಗಿಡದಿಂದ ಒಂದು ಹಸಿರು ಎಲೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಎರಡನೇ ಹಂತವಾಗಿ, ಈ ಎಲೆಯನ್ನು ನೀರಿನಿಂದ ತುಂಬಿದ ಬೀಕರ್‌ನಲ್ಲಿ ಇಟ್ಟು ಕೆಲವು ನಿಮಿಷಗಳ ಕಾಲ ಕುದಿಸಿ. ಹೀಗೆ ಮಾಡುವುದರಿಂದ ಎಲೆಯಲ್ಲಿರುವ ಜೀವಕೋಶಗಳು ಸಾಯುತ್ತವೆ ಮತ್ತು ಅವುಗಳ ಕೋಶಭಿತ್ತಿಯು ಮೃದುವಾಗುತ್ತದೆ. ಇದು ಮುಂದಿನ ಹಂತದಲ್ಲಿ ಆಲ್ಕೋಹಾಲ್ ಸುಲಭವಾಗಿ ಜೀವಕೋಶಗಳನ್ನು ಪ್ರವೇಶಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹಂತ 1: ಸೂರ್ಯನ ಬೆಳಕಿಗೆ ಒಡ್ಡಿದ ಗಿಡದಿಂದ ಒಂದು ಎಲೆಯನ್ನು ಕೀಳಿ.",
+    "ಹಂತ 2: ಎಲೆಯನ್ನು ನೀರಿನಲ್ಲಿ ಕೆಲವು ನಿಮಿಷಗಳ ಕಾಲ ಕುದಿಸಿ. (ಜೀವಕೋಶಗಳನ್ನು ಸಾಯಿಸಲು)"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_3",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing step 1: plucking a leaf from a plant in the sun. And step 2: placing the leaf in a beaker of boiling water over a burner.",
+    "labels": "ಸೂರ್ಯ, ಸಸ್ಯ, ಎಲೆ, ಕುದಿಯುವ ನೀರು, ಬೀಕರ್",
+    "scientific_significance": "Illustrates the initial preparation of the leaf sample for the experiment.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_7_science_ch_1_concept_2_chunk_017"
+}

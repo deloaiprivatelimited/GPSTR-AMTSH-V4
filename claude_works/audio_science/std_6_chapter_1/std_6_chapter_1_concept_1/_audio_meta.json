@@ -1,0 +1,147 @@
+{
+  "module_id": "std_6_chapter_1_concept_1",
+  "chapter_code": "std_6_chapter_1",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:15:51",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "97087f610924862a56f9125bdc0c39ba",
+      "wav_file": "001_intro_0.wav",
+      "duration": 37.571,
+      "slide_title": "ಪರಿಚಯ: ವಿಜ್ಞಾನದ ಸ್ವರೂಪ",
+      "type": "chunk",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:13:43"
+    },
+    "002_definition_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "f674f0af01293700c074d157db0570bc",
+      "wav_file": "002_definition_0.wav",
+      "duration": 41.251,
+      "slide_title": "ವಿಜ್ಞಾನದ ವ್ಯಾಖ್ಯಾನ",
+      "type": "definition",
+      "script_words": 49,
+      "generated_at": "2026-04-02 13:13:45"
+    },
+    "003_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "b9cc3dce2c003cdfce536d7ff961c799",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "duration": 54.531,
+      "slide_title": "ವಿಜ್ಞಾನದ ವಿಧಾನ: ಒಂದು ಉದಾಹರಣೆ",
+      "type": "definition",
+      "script_words": 66,
+      "generated_at": "2026-04-02 13:13:53"
+    },
+    "004_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "17318dd7a3536496cc558d61fcdb005f",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "duration": 52.531,
+      "slide_title": "ವೈಜ್ಞಾನಿಕ ಚಿಂತನೆ vs. ಸಾಮಾನ್ಯ ನಂಬಿಕೆ",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-04-02 13:13:54"
+    },
+    "006_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "d44a31fcc22073acd07aa9a55f2870fc",
+      "wav_file": "006_definition_cont_1_1.wav",
+      "duration": 44.451,
+      "slide_title": "ಕುತೂಹಲ: ಒಂದು ಉದಾಹರಣೆ",
+      "type": "definition",
+      "script_words": 65,
+      "generated_at": "2026-04-02 13:14:22"
+    },
+    "005_definition_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "498244ce2ce479d48b10ef46f6591c78",
+      "wav_file": "005_definition_1.wav",
+      "duration": 40.451,
+      "slide_title": "ಕುತೂಹಲ (Curiosity)",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:14:45"
+    },
+    "008_definition_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "fc7c8953208286b88cc8a63f4b8bb85b",
+      "wav_file": "008_definition_cont_1_3.wav",
+      "duration": 41.891,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶ",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-04-02 13:14:47"
+    },
+    "007_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "e975604633ff4431d71089719bad487c",
+      "wav_file": "007_definition_cont_1_2.wav",
+      "duration": 41.331,
+      "slide_title": "ಕುತೂಹಲ vs. ನಿರಾಸಕ್ತಿ",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:14:52"
+    },
+    "009_property_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "277571ba0374ed684ee8db100faeaf35",
+      "wav_file": "009_property_0.wav",
+      "duration": 49.931,
+      "slide_title": "ವಿಜ್ಞಾನದ ಸ್ವರೂಪ: ಸರ್ವವ್ಯಾಪಿ",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:14:54"
+    },
+    "010_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "6c259955fa54015ed1b82739674c22a8",
+      "wav_file": "010_property_cont_0_1.wav",
+      "duration": 41.411,
+      "slide_title": "ವಿಜ್ಞಾನದ ಸ್ವರೂಪ: ನಿರಂತರ ಅನ್ವೇಷಣೆ",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:15:16"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "f3b4f1d27830e234ab4b739610ae3135",
+      "wav_file": "012_recap_0.wav",
+      "duration": 46.011,
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:15:50"
+    },
+    "011_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "0215183f5d2896365e631ace1d297ee0",
+      "wav_file": "011_property_cont_0_2.wav",
+      "duration": 53.131,
+      "slide_title": "ವಿಜ್ಞಾನದ ಸ್ವರೂಪ: ಜ್ಞಾನದ ಪರಿಷ್ಕರಣೆ",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 13:15:51"
+    }
+  }
+}

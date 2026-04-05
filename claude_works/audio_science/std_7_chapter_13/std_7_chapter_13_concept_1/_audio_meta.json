@@ -1,0 +1,147 @@
+{
+  "module_id": "std_7_chapter_13_concept_1",
+  "chapter_code": "std_7_chapter_13",
+  "voice": "Schedar",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:40:59",
+  "chunks": {
+    "002_definition_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "2ee32dbd3ceca814ee0caea3b9d00088",
+      "wav_file": "002_definition_0.wav",
+      "duration": 39.651,
+      "slide_title": "ತ್ಯಾಜ್ಯ ನೀರು: ಒಂದು ಪರಿಚಯ",
+      "type": "definition",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:38:42"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "e024abd997070bf7be3458e1a4d6270a",
+      "wav_file": "001_intro_0.wav",
+      "duration": 53.491,
+      "slide_title": "ತ್ಯಾಜ್ಯ ನೀರು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+      "type": "chunk",
+      "script_words": 82,
+      "generated_at": "2026-04-02 13:38:50"
+    },
+    "005_definition_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "bd53e23dd28b997f1a4ccfb5ebf04bd4",
+      "wav_file": "005_definition_1.wav",
+      "duration": 50.051,
+      "slide_title": "ಚರಂಡಿ ನೀರು (Sewage) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 70,
+      "generated_at": "2026-04-02 13:39:15"
+    },
+    "003_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "b5b0c94e8c2e1b59adb4b42a4ed1aa71",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "duration": 36.291,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ತ್ಯಾಜ್ಯ ನೀರು (Wastewater)",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 13:39:22"
+    },
+    "004_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "7c58448d2f9fb68cd156f3c963e49a77",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "duration": 44.011,
+      "slide_title": "ತ್ಯಾಜ್ಯ ನೀರಿನಲ್ಲಿ ಏನಿದೆ?",
+      "type": "definition",
+      "script_words": 64,
+      "generated_at": "2026-04-02 13:39:43"
+    },
+    "007_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "2cd0f512f6043e6343ec51a19c3bf165",
+      "wav_file": "007_definition_cont_1_2.wav",
+      "duration": 47.891,
+      "slide_title": "ಸಾವಯವ vs ನಿರವಯವ ಅಶುದ್ಧತೆಗಳು",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 13:39:48"
+    },
+    "006_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "53c602b2ce28fe1a1d26dcac63191794",
+      "wav_file": "006_definition_cont_1_1.wav",
+      "duration": 53.571,
+      "slide_title": "ಚರಂಡಿ ನೀರಿನಲ್ಲಿ ಏನಿದೆ?",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:39:50"
+    },
+    "009_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "54e763fb2952fa0ee6be48dab6518354",
+      "wav_file": "009_classification_cont_0_1.wav",
+      "duration": 47.611,
+      "slide_title": "ಸಾವಯವ ಅಶುದ್ಧತೆಗಳು (Organic Impurities)",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 13:40:07"
+    },
+    "008_classification_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "597edb2892b540ebd3e4a5b89e715edf",
+      "wav_file": "008_classification_0.wav",
+      "duration": 49.411,
+      "slide_title": "ಚರಂಡಿ ನೀರಿನಲ್ಲಿರುವ ಕಲ್ಮಶಗಳು",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 13:40:08"
+    },
+    "010_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "4b1c20ce9945e112f32b50f7bac318a5",
+      "wav_file": "010_classification_cont_0_2.wav",
+      "duration": 56.331,
+      "slide_title": "ನಿರವಯವ ಅಶುದ್ಧತೆಗಳು ಮತ್ತು ಪೋಷಕಗಳು",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 13:40:23"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "6df9f07b12cfd210715c420b1a1bd8e2",
+      "wav_file": "012_recap_0.wav",
+      "duration": 45.171,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:40:45"
+    },
+    "011_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "a49d03dd142be6206052f75e0fa70b31",
+      "wav_file": "011_classification_cont_0_3.wav",
+      "duration": 55.491,
+      "slide_title": "ಸೂಕ್ಷ್ಮಜೀವಿಗಳು (Microorganisms)",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-04-02 13:40:59"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಂಯುಕ್ತ ಆಕೃತಿಯ ಸುತ್ತಳತೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೊಟ್ಟಿರುವ ಆಕೃತಿಯ ಸುತ್ತಳತೆ ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಆಕೃತಿಯನ್ನು ನೀಡಲಾಗಿದೆ. ಇದು ಹದಿನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ಬಾಹುವಿನ ಚೌಕದ ಮೇಲೆ ನಾಲ್ಕು ಅರ್ಧವೃತ್ತಗಳನ್ನು ಹೊಂದಿದೆ. ನಾವು ಪೈಯ ಮೌಲ್ಯವನ್ನು ಏಳನೇ ಇಪ್ಪತ್ತೆರಡು ಎಂದು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ನಾವು ಮೊದಲು ಆಕೃತಿಯನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಬೇಕು. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಆಕೃತಿಯ ಒಟ್ಟು ಸುತ್ತಳತೆ. ಅಂದರೆ, ಅದರ ಹೊರಗಿನ ಗಡಿಯ ಉದ್ದ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೊಟ್ಟಿರುವ ಆಕೃತಿಯ ಸುತ್ತಳತೆ ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಆಕೃತಿಯನ್ನು ನೀಡಲಾಗಿದೆ. ಇದು 14 cm ಬಾಹುವಿನ ಚೌಕದ ಮೇಲೆ ನಾಲ್ಕು ಅರ್ಧವೃತ್ತಗಳನ್ನು ಹೊಂದಿದೆ. ನಾವು π ಯ ಮೌಲ್ಯವನ್ನು 22/7 ಎಂದು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ನಾವು ಮೊದಲು ಆಕೃತಿಯನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಬೇಕು. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಆಕೃತಿಯ ಒಟ್ಟು ಸುತ್ತಳತೆ. ಅಂದರೆ, ಅದರ ಹೊರಗಿನ ಗಡಿಯ ಉದ್ದ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಆಕೃತಿ: 14 cm ಬಾಹುವಿನ ಚೌಕದ ಮೇಲೆ ನಾಲ್ಕು ಅರ್ಧವೃತ್ತಗಳು.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಆಕೃತಿಯ ಒಟ್ಟು ಸುತ್ತಳತೆ.",
+    "ಬಳಸಬೇಕಾದ π ಮೌಲ್ಯ: 22/7."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A square with side length 14 cm. On each of the four sides, a semicircle is drawn externally, creating a flower-like shape. The problem statement is displayed next to the figure.",
+    "labels": "Side of square = 14 cm",
+    "mathematical_significance": "This composite figure's perimeter is formed by the four semicircular arcs, not the sides of the inner square.",
+    "placeholder_note": "Image to be generated for the problem setup."
+  },
+  "source_example_id": "MEN-AREA-1_example_10",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "MEN-AREA-1_concept_5_chunk_031"
+}

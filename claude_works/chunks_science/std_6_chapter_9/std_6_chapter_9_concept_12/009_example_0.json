@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಮಿಶ್ರಣವನ್ನು ಬೇರ್ಪಡಿಸುವುದು",
+  "script": "ನಾವೀಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮರಳು, ಉಪ್ಪು ಮತ್ತು ಕಬ್ಬಿಣದ ಪುಡಿಯ ಮಿಶ್ರಣವನ್ನು ಹೇಗೆ ಬೇರ್ಪಡಿಸುವುದು ಎಂದು ತಿಳಿಯೋಣ. ಇಲ್ಲಿ ನಾವು ಬೇರ್ಪಡಿಸಬೇಕಾದ ವಸ್ತುಗಳು ಮರಳು, ಉಪ್ಪು, ಮತ್ತು ಕಬ್ಬಿಣದ ಪುಡಿ.",
+  "script_display": "ನಾವೀಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮರಳು, ಉಪ್ಪು ಮತ್ತು ಕಬ್ಬಿಣದ ಪುಡಿಯ ಮಿಶ್ರಣವನ್ನು ಹೇಗೆ ಬೇರ್ಪಡಿಸುವುದು ಎಂದು ತಿಳಿಯೋಣ. ಇಲ್ಲಿ ನಾವು ಬೇರ್ಪಡಿಸಬೇಕಾದ ವಸ್ತುಗಳು ಮರಳು, ಉಪ್ಪು, ಮತ್ತು ಕಬ್ಬಿಣದ ಪುಡಿ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಮರಳು, ಉಪ್ಪು ಮತ್ತು ಕಬ್ಬಿಣದ ಪುಡಿಯ ಮಿಶ್ರಣವನ್ನು ಬೇರ್ಪಡಿಸುವುದು.",
+    "ಬೇರ್ಪಡಿಸಬೇಕಾದ ಘಟಕಗಳು: ಕಬ್ಬಿಣದ ಪುಡಿ, ಮರಳು, ಉಪ್ಪು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker containing a mixture of sand (light brown particles), salt (white crystals), and iron filings (dark grey specks).",
+    "labels": "ಮರಳು, ಉಪ್ಪು, ಕಬ್ಬಿಣದ ಪುಡಿ",
+    "scientific_significance": "Illustrates a heterogeneous mixture with components having different physical properties (magnetic, soluble, insoluble).",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "source_example_id": "std_6_chapter_9_we_1",
+  "chunk_id": "std_6_chapter_9_concept_12_chunk_009"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "problem_setup",
+  "slide_title": "ಪ್ರಮೇಯ 7.1: ಸಾಧನೆ (Proof)",
+  "script": "ಈ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಲು, ಮೊದಲು ನಮಗೆ ಏನು ಕೊಟ್ಟಿದ್ದಾರೆ ಮತ್ತು ನಾವು ಏನು ಸಾಧಿಸಬೇಕು ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಬರೆಯೋಣ. ನಮಗೆ ಎರಡು ತ್ರಿಭುಜಗಳಿವೆ, ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ಮತ್ತು ತ್ರಿಭುಜ ಡಿ ಇ ಎಫ್. ದತ್ತಾಂಶದ ಪ್ರಕಾರ, ಕೋನ ಬಿ ಯು ಕೋನ ಇ ಗೆ ಸಮ, ಕೋನ ಸಿ ಯು ಕೋನ ಎಫ್ ಗೆ ಸಮ, ಮತ್ತು ಬಾಹು ಬಿ ಸಿ ಯು ಬಾಹು ಇ ಎಫ್ ಗೆ ಸಮ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ಯು ತ್ರಿಭುಜ ಡಿ ಇ ಎಫ್ ಗೆ ಸರ್ವಸಮವಾಗಿದೆ ಎಂದು.",
+  "script_display": "ಈ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಲು, ಮೊದಲು ನಮಗೆ ಏನು ಕೊಟ್ಟಿದ್ದಾರೆ (ದತ್ತ) ಮತ್ತು ನಾವು ಏನು ಸಾಧಿಸಬೇಕು (ಸಾಧನೀಯ) ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಬರೆಯೋಣ. ನಮಗೆ ಎರಡು ತ್ರಿಭುಜಗಳಿವೆ, $\\triangle ABC$ ಮತ್ತು $\\triangle DEF$. ದತ್ತಾಂಶದ ಪ್ರಕಾರ, $\\angle B = \\angle E$, $\\angle C = \\angle F$, ಮತ್ತು ಬಾಹು $BC = EF$. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು $\\triangle ABC \\cong \\triangle DEF$ ಎಂದು.",
+  "display_bullets": [
+    "ದತ್ತ: $\\triangle ABC$ ಮತ್ತು $\\triangle DEF$ ಗಳಲ್ಲಿ, $\\angle B = \\angle E$, $\\angle C = \\angle F$ ಮತ್ತು $BC = EF$.",
+    "ಸಾಧನೀಯ: $\\triangle ABC \\cong \\triangle DEF$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿರುವಂತೆಯೇ ಅದೇ ರೇಖಾಚಿತ್ರ. ಎರಡು ತ್ರಿಭುಜಗಳು, ABC ಮತ್ತು DEF, ಅವುಗಳ ಅನುರೂಪ ಕೋನಗಳು (B=E, C=F) ಮತ್ತು ನಡುವಿನ ಬಾಹುಗಳು (BC=EF) ಸಮಾನವೆಂದು ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, E, F",
+    "mathematical_significance": "ಪ್ರಮೇಯದ ಸಾಧನೆಗೆ ಬೇಕಾದ ದತ್ತ ಮತ್ತು ಸಾಧನೀಯವನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ನಿರೂಪಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_026"
+}

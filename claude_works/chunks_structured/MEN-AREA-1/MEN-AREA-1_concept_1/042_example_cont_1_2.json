@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 2 ಮತ್ತು 3",
+  "script": "ಈಗ ನಮಗೆ ಒಂದು ಸುತ್ತಿನ ದೂರ ತಿಳಿದಿದೆ, ಅದು 300 ಮೀಟರ್. ಆದರೆ ಉಷಾ ಮೂರು ಸುತ್ತುಗಳನ್ನು ಹಾಕುತ್ತಾಳೆ. ಹಾಗಾದರೆ ಒಟ್ಟು ದೂರವೆಷ್ಟು? ಇದನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಒಂದು ಸುತ್ತಿನ ದೂರವನ್ನು ಸುತ್ತುಗಳ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸಬೇಕು. ಅಂದರೆ, ಮೂರು ಗುಣಿಸು 300 ಮೀಟರ್. ಮೂರು ಗುಣಿಸು ಮುನ್ನೂರು, ಒಟ್ಟು 900 ಮೀಟರ್ ಆಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಮಗೆ ಒಂದು ಸುತ್ತಿನ ದೂರ ತಿಳಿದಿದೆ, ಅದು 300 m. ಆದರೆ ಉಷಾ ಮೂರು ಸುತ್ತುಗಳನ್ನು ಹಾಕುತ್ತಾಳೆ. ಹಾಗಾದರೆ ಒಟ್ಟು ದೂರವೆಷ್ಟು? ಇದನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಒಂದು ಸುತ್ತಿನ ದೂರವನ್ನು ಸುತ್ತುಗಳ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸಬೇಕು. ಅಂದರೆ, $3 \\times 300$ m. $3 \\times 300$, ಒಟ್ಟು 900 m ಆಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "text_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "MEN-AREA-1_example_2",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಒಂದು ಸುತ್ತಿನಲ್ಲಿ ಕ್ರಮಿಸಿದ ದೂರ = $300$ m",
+      "justification": "ಸುತ್ತಳತೆಯೇ ಒಂದು ಸುತ್ತಿನ ದೂರ."
+    },
+    {
+      "step": 3,
+      "action_display": "ಒಟ್ಟು ದೂರ = $3 \\times$ ಒಂದು ಸುತ್ತಿನ ದೂರ\n$= 3 \\times 300$ m\n$= 900$ m",
+      "justification": "ಒಟ್ಟು ದೂರ = ಸುತ್ತುಗಳ ಸಂಖ್ಯೆ × ಒಂದು ಸುತ್ತಿನ ದೂರ."
+    }
+  ],
+  "chunk_id": "MEN-AREA-1_concept_1_chunk_042"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅನುಲೇಪಕ ಅಂಗಾಂಶ: ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣಗಳು",
+  "script": "ಈಗ ಎರಡನೇ ಗುಣಲಕ್ಷಣವನ್ನು ನೋಡೋಣ. ಜೀವಕೋಶಗಳು ಒತ್ತಾಗಿ ಜೋಡಣೆಗೊಂಡಿರುವುದರಿಂದ, ಅವುಗಳ ನಡುವೆ ಅಂತರಕೋಶೀಯ ಅವಕಾಶಗಳು ಅತ್ಯಲ್ಪವಾಗಿರುತ್ತವೆ ಅಥವಾ ಸಂಪೂರ್ಣವಾಗಿ ಇರುವುದಿಲ್ಲ. ಅಂದರೆ, ಜೀವಕೋಶಗಳ ಮಧ್ಯೆ ಯಾವುದೇ ಖಾಲಿ ಜಾಗ ಇರುವುದಿಲ್ಲ. ಇದು ಒಂದು ಜಲನಿರೋಧಕ ಪದರದಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ, ದೇಹದೊಳಗೆ ಮತ್ತು ಹೊರಗೆ ವಸ್ತುಗಳು ಅನಿಯಂತ್ರಿತವಾಗಿ ಚಲಿಸುವುದನ್ನು ತಡೆಯುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನಮ್ಮ ಮೂತ್ರಕೋಶದೊಳಗಿನ ಅನುಲೇಪಕ ಅಂಗಾಂಶವು ಮೂತ್ರವು ಸೋರಿಕೆಯಾಗದಂತೆ ತಡೆಯಲು ಈ ಗುಣವನ್ನು ಅವಲಂಬಿಸಿದೆ. ಹೀಗಾಗಿ, ಈ ಗುಣವು ವಸ್ತುಗಳ ನಿಯಂತ್ರಿತ ಸಾಗಾಣಿಕೆಗೆ ಅತ್ಯಗತ್ಯ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಗುಣಲಕ್ಷಣವನ್ನು ನೋಡೋಣ. ಜೀವಕೋಶಗಳು ಒತ್ತಾಗಿ ಜೋಡಣೆಗೊಂಡಿರುವುದರಿಂದ, ಅವುಗಳ ನಡುವೆ ಅಂತರಕೋಶೀಯ ಅವಕಾಶಗಳು ಅತ್ಯಲ್ಪವಾಗಿರುತ್ತವೆ ಅಥವಾ ಸಂಪೂರ್ಣವಾಗಿ ಇರುವುದಿಲ್ಲ. ಅಂದರೆ, ಜೀವಕೋಶಗಳ ಮಧ್ಯೆ ಯಾವುದೇ ಖಾಲಿ ಜಾಗ ಇರುವುದಿಲ್ಲ. ಇದು ಒಂದು ಜಲನಿರೋಧಕ ಪದರದಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ, ದೇಹದೊಳಗೆ ಮತ್ತು ಹೊರಗೆ ವಸ್ತುಗಳು ಅನಿಯಂತ್ರಿತವಾಗಿ ಚಲಿಸುವುದನ್ನು ತಡೆಯುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನಮ್ಮ ಮೂತ್ರಕೋಶದೊಳಗಿನ ಅನುಲೇಪಕ ಅಂಗಾಂಶವು ಮೂತ್ರವು ಸೋರಿಕೆಯಾಗದಂತೆ ತಡೆಯಲು ಈ ಗುಣವನ್ನು ಅವಲಂಬಿಸಿದೆ. ಹೀಗಾಗಿ, ಈ ಗುಣವು ವಸ್ತುಗಳ ನಿಯಂತ್ರಿತ ಸಾಗಾಣಿಕೆಗೆ ಅತ್ಯಗತ್ಯ.",
+  "display_bullets": [
+    "ಅಂತರಕೋಶೀಯ ಅವಕಾಶಗಳು ಅತ್ಯಲ್ಪ ಅಥವಾ ಇರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up diagram showing the junction between two adjacent epithelial cells. Arrows point to the tight junction, highlighting the almost complete absence of space between them.",
+    "labels": "ಜೀವಕೋಶ, ಅಂತರಕೋಶೀಯ ಅವಕಾಶ (ಇಲ್ಲ)",
+    "scientific_significance": "Demonstrates how the lack of intercellular space contributes to the barrier function of the epithelium, preventing leakage between cells.",
+    "placeholder_note": "Image to be generated showing a close-up of the junction between epithelial cells."
+  },
+  "chunk_id": "std_9_chapter_6_concept_8_chunk_004"
+}

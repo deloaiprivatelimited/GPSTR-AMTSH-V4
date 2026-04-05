@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1",
+  "script": "ಪರಿಹಾರವನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ಗಂಟೆಯನ್ನು ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಪರಿವರ್ತಿಸುವ ಸಂಬಂಧವನ್ನು ನಾವು ತಿಳಿದುಕೊಳ್ಳಬೇಕು. ಒಂದು ಕಿಲೋಮೀಟರ್ ಅಂದರೆ 1000 ಮೀಟರ್, ಮತ್ತು ಒಂದು ಗಂಟೆ ಅಂದರೆ 3600 ಸೆಕೆಂಡುಗಳು. ಆದ್ದರಿಂದ, ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ಗಂಟೆಯನ್ನು ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಪರಿವರ್ತಿಸಲು, ನಾವು 1000 ಭಾಗಿಸು 3600 ರಿಂದ ಗುಣಿಸಬೇಕು. ಇದನ್ನು ಸರಳೀಕರಿಸಿದರೆ 5 ಭಾಗಿಸು 18 ಆಗುತ್ತದೆ.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, km/h ಅನ್ನು m/s ಗೆ ಪರಿವರ್ತಿಸುವ ಸಂಬಂಧವನ್ನು ನಾವು ತಿಳಿದುಕೊಳ್ಳಬೇಕು. 1 km = 1000 m, ಮತ್ತು 1 h = 3600 s. ಆದ್ದರಿಂದ, km/h ಅನ್ನು m/s ಗೆ ಪರಿವರ್ತಿಸಲು, ನಾವು 1000/3600 ರಿಂದ ಗುಣಿಸಬೇಕು. ಇದನ್ನು ಸರಳೀಕರಿಸಿದರೆ 5/18 ಆಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹಂತ 1: km/h ನಿಂದ m/s ಗೆ ಪರಿವರ್ತಿಸುವ ಸಂಬಂಧವನ್ನು ಬಳಸಿ.",
+    "1 km = 1000 m",
+    "1 h = 3600 s",
+    "ಆದ್ದರಿಂದ, ಪರಿವರ್ತನಾ ಅಂಶವು 1000/3600 ಅಥವಾ 5/18 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಜವ (m/s)} = \\text{ಜವ (km/h)} \\times \\frac{1000 \\text{ m}}{3600 \\text{ s}} = \\text{ಜವ (km/h)} \\times \\frac{5}{18}",
+    "placeholder_note": "Formula showing the conversion factor from km/h to m/s"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_7_science_ch_9_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "km/h ನಿಂದ m/s ಗೆ ಪರಿವರ್ತಿಸುವ ಸೂತ್ರವನ್ನು ಬಳಸಿ.",
+      "justification": "1 km = 1000 m ಮತ್ತು 1 h = 3600 s."
+    }
+  ],
+  "chunk_id": "std_7_science_ch_9_concept_4_chunk_012"
+}

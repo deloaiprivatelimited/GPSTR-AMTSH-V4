@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಬೀಜೋಕ್ತಿಯಲ್ಲಿ ಸ್ಥಿರಾಂಕ",
+  "script": "ಬೀಜೋಕ್ತಿಗಳಲ್ಲಿ ಸ್ಥಿರಾಂಕಗಳು ಹೇಗೆ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ ಎಂದು ನೋಡೋಣ. x ಪ್ಲಸ್ 5 ಎಂಬ ಬೀಜೋಕ್ತಿಯನ್ನು ಪರಿಗಣಿಸಿ. ಈ ಬೀಜೋಕ್ತಿಯಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ. ಒಂದು x ಮತ್ತು ಇನ್ನೊಂದು 5. ಇಲ್ಲಿ, x ಒಂದು ಚರಾಕ್ಷರವಾಗಿದೆ. ಅಂದರೆ, ಅದರ ಬೆಲೆ ಬದಲಾಗಬಹುದು. ನಾವು x ಗೆ 1, 2, ಅಥವಾ ಯಾವುದೇ ಬೆಲೆಯನ್ನು ನೀಡಬಹುದು. ಆದರೆ, 5 ಎಂಬ ಪದವನ್ನು ನೋಡಿ. ಇದರ ಬೆಲೆ ಯಾವಾಗಲೂ 5 ಆಗಿಯೇ ಇರುತ್ತದೆ. ಅದು ಎಂದಿಗೂ ಬದಲಾಗುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, ಈ ಬೀಜೋಕ್ತಿಯಲ್ಲಿ 5 ಎಂಬುದು ಸ್ಥಿರಾಂಕವಾಗಿದೆ.",
+  "script_display": "ಬೀಜೋಕ್ತಿಗಳಲ್ಲಿ ಸ್ಥಿರಾಂಕಗಳು ಹೇಗೆ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ ಎಂದು ನೋಡೋಣ. $x + 5$ ಎಂಬ ಬೀಜೋಕ್ತಿಯನ್ನು ಪರಿಗಣಿಸಿ. ಈ ಬೀಜೋಕ್ತಿಯಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ. ಒಂದು '$x$' ಮತ್ತು ಇನ್ನೊಂದು '$5$'. ಇಲ್ಲಿ, '$x$' ಒಂದು ಚರಾಕ್ಷರವಾಗಿದೆ. ಅಂದರೆ, ಅದರ ಬೆಲೆ ಬದಲಾಗಬಹುದು. ನಾವು $x$ ಗೆ $1, 2$, ಅಥವಾ ಯಾವುದೇ ಬೆಲೆಯನ್ನು ನೀಡಬಹುದು. ಆದರೆ, '$5$' ಎಂಬ ಪದವನ್ನು ನೋಡಿ. ಇದರ ಬೆಲೆ ಯಾವಾಗಲೂ $5$ ಆಗಿಯೇ ಇರುತ್ತದೆ. ಅದು ಎಂದಿಗೂ ಬದಲಾಗುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, ಈ ಬೀಜೋಕ್ತಿಯಲ್ಲಿ $5$ ಎಂಬುದು ಸ್ಥಿರಾಂಕವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಬೀಜೋಕ್ತಿ: $x + 5$",
+    "$x$ ಎಂಬುದು ಚರಾಕ್ಷರ (ಬೆಲೆ ಬದಲಾಗುತ್ತದೆ).",
+    "$5$ ಎಂಬುದು ಸ್ಥಿರಾಂಕ (ಬೆಲೆ ನಿಶ್ಚಿತವಾಗಿದೆ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An algebraic expression x + 5 is shown. An arrow points from the number 5 to a label that says 'ಸ್ಥಿರಾಂಕ (Constant)'. Another arrow points from the letter x to a label that says 'ಚರಾಕ್ಷರ (Variable)'.",
+    "labels": "x, +, 5, ಸ್ಥಿರಾಂಕ, ಚರಾಕ್ಷರ",
+    "mathematical_significance": "Visually distinguishes the constant term from the variable term within a simple algebraic expression.",
+    "placeholder_note": "Image to be generated showing the expression x+5 with labels for constant and variable."
+  },
+  "chunk_id": "ALG-EXP-1_concept_1_chunk_008"
+}

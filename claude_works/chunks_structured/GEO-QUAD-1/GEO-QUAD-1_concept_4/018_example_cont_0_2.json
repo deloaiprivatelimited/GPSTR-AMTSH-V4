@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ಸಮಾಂತರ ಚತುರ್ಭುಜ PQRS ನ ಸುತ್ತಳತೆ 38 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಇಲ್ಲಿ ನೆನಪಿಡಬೇಕಾದ ಮುಖ್ಯ ವಿಷಯವೆಂದರೆ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತವೆ ಎಂಬ ಗುಣಲಕ್ಷಣ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ಸಮಾಂತರ ಚತುರ್ಭುಜ PQRS ನ ಸುತ್ತಳತೆ $38$ ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಇಲ್ಲಿ ನೆನಪಿಡಬೇಕಾದ ಮುಖ್ಯ ವಿಷಯವೆಂದರೆ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತವೆ ಎಂಬ ಗುಣಲಕ್ಷಣ.",
+  "display_bullets": [
+    "ಸಮಾಂತರ ಚತುರ್ಭುಜ PQRS ನ ಸುತ್ತಳತೆ $38$ ಸೆಂ.ಮೀ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_result",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸುತ್ತಳತೆ} = 38 \\text{ cm}",
+    "placeholder_note": "The final answer: Perimeter = 38 cm"
+  },
+  "source_example_id": "GEO-QUAD-1_example_3",
+  "steps": [],
+  "final_answer": "ಸುತ್ತಳತೆ = 38 ಸೆಂ.ಮೀ",
+  "final_answer_display": "ಸುತ್ತಳತೆ = 38 \\text{ ಸೆಂ.ಮೀ}",
+  "chunk_id": "GEO-QUAD-1_concept_4_chunk_018"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು ಎಡಭಾಗವನ್ನು, ಅಂದರೆ ಎಲ್ ಎಚ್ ಎಸ್ ಅನ್ನು ಸರಳೀಕರಿಸಿ ಉತ್ತರ ಒಂದು ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಇದು ಬಲಭಾಗಕ್ಕೆ, ಅಂದರೆ ಆರ್ ಎಚ್ ಎಸ್ ಗೆ ಸಮನಾಗಿದೆ. ಆದ್ದರಿಂದ, ಸೆಕ್ ಎ ಇಂಟು ಒಂದು ಮೈನಸ್ ಸೈನ್ ಎ ಇಂಟು ಸೆಕ್ ಎ ಪ್ಲಸ್ ಟ್ಯಾನ್ ಎ ಈಕ್ವಲ್ಸ್ ಒಂದು ಎಂಬ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "script_display": "ಹೀಗೆ, ನಾವು ಎಡಭಾಗವನ್ನು (LHS) ಸರಳೀಕರಿಸಿ ಉತ್ತರ $1$ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಇದು ಬಲಭಾಗಕ್ಕೆ (RHS) ಸಮನಾಗಿದೆ. ಆದ್ದರಿಂದ, $\\sec A (1 - \\sin A)(\\sec A + \\tan A) = 1$ ಎಂಬ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "display_bullets": [
+    "LHS = 1 = RHS",
+    "ಆದ್ದರಿಂದ, ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸಾಧಿಸಲಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_formula",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "LHS = 1 = RHS",
+    "placeholder_note": "Final Result"
+  },
+  "source_example_id": "TRI-INTRO-1_example_10",
+  "final_answer": "LHS = 1 = RHS",
+  "final_answer_display": "$LHS = 1 = RHS$",
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_033"
+}

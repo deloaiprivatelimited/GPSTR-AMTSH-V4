@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲಿನ ಬಿಂದು",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಈ ಸೂತ್ರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಸೊನ್ನೆಯಿಂದ ಹತ್ತರವರೆಗಿನ ಒಂದು ಸಂಖ್ಯಾರೇಖೆಯನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ನಾವು ಯಾದೃಚ್ಛಿಕವಾಗಿ ಒಂದು ಬಿಂದುವನ್ನು ಆರಿಸಿದರೆ, ಅದು ಎರಡು ಮತ್ತು ಐದರ ನಡುವೆ ಇರುವ ಸಂಭವನೀಯತೆ ಏನು? ಮೊದಲನೇ ಹಂತ, ಒಟ್ಟು ಸಾಧ್ಯವಿರುವ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಅದು ಸೊನ್ನೆಯಿಂದ ಹತ್ತರವರೆಗಿನ ರೇಖೆಯ ಉದ್ದ, ಅಂದರೆ ಹತ್ತು. ಎರಡನೇ ಹಂತ, ಅನುಕೂಲಕರ ಉದ್ದವನ್ನು ನೋಡೋಣ. ನಮಗೆ ಬೇಕಾದ ಬಿಂದು ಎರಡು ಮತ್ತು ಐದರ ನಡುವೆ ಇರಬೇಕು, ಆದ್ದರಿಂದ ಆ ಭಾಗದ ಉದ್ದ ಐದು ಮೈನಸ್ ಎರಡು, ಅಂದರೆ ಮೂರು. ಮೂರನೇ ಹಂತ, ಸೂತ್ರವನ್ನು ಬಳಸೋಣ. ಸಂಭವನೀಯತೆ ಸಮನಾಗಿರುತ್ತದೆ ಮೂರು ಭಾಗಿಸು ಹತ್ತು.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಈ ಸೂತ್ರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. $0$ ರಿಂದ $10$ ರವರೆಗಿನ ಒಂದು ಸಂಖ್ಯಾರೇಖೆಯನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ನಾವು ಯಾದೃಚ್ಛಿಕವಾಗಿ ಒಂದು ಬಿಂದುವನ್ನು ಆರಿಸಿದರೆ, ಅದು $2$ ಮತ್ತು $5$ ರ ನಡುವೆ ಇರುವ ಸಂಭವನೀಯತೆ ಏನು? ಮೊದಲನೇ ಹಂತ, ಒಟ್ಟು ಸಾಧ್ಯವಿರುವ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಅದು $0$ ರಿಂದ $10$ ರವರೆಗಿನ ರೇಖೆಯ ಉದ್ದ, ಅಂದರೆ $10$. ಎರಡನೇ ಹಂತ, ಅನುಕೂಲಕರ ಉದ್ದವನ್ನು ನೋಡೋಣ. ನಮಗೆ ಬೇಕಾದ ಬಿಂದು $2$ ಮತ್ತು $5$ ರ ನಡುವೆ ಇರಬೇಕು, ಆದ್ದರಿಂದ ಆ ಭಾಗದ ಉದ್ದ $5 - 2 = 3$. ಮೂರನೇ ಹಂತ, ಸೂತ್ರವನ್ನು ಬಳಸೋಣ. ಸಂಭವನೀಯತೆ $= \\frac{3}{10}$.",
+  "display_bullets": [
+    "ಒಟ್ಟು ಸಾಧ್ಯವಿರುವ ಉದ್ದ (ಸಂಪೂರ್ಣ ರೇಖೆ): $10 - 0 = 10$",
+    "ಅನುಕೂಲಕರ ಉದ್ದ (ಬೇಕಾದ ಭಾಗ): $5 - 2 = 3$",
+    "ಸಂಭವನೀಯತೆ: $P(E) = \\frac{3}{10}$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line from 0 to 10. The segment from 2 to 5 is highlighted in a different color. The total length from 0 to 10 is labeled as 'ಒಟ್ಟು ಉದ್ದ = 10'. The highlighted segment from 2 to 5 is labeled as 'ಅನುಕೂಲಕರ ಉದ್ದ = 3'.",
+    "labels": "0, 2, 5, 10, ಒಟ್ಟು ಉದ್ದ, ಅನುಕೂಲಕರ ಉದ್ದ",
+    "mathematical_significance": "Visual representation of total length and favorable length for a simple geometric probability problem.",
+    "placeholder_note": "Image to be generated showing a number line with specified segments and labels."
+  },
+  "chunk_id": "PROB-BAS-1_concept_5_chunk_005"
+}

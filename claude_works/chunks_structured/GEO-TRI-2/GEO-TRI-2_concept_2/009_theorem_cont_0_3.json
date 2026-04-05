@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಮೇಯ 7.2: ಸಾಧನೆ (ಹಂತ 3)",
+  "script": "ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಕಂಡುಕೊಂಡಂತೆ, ಬಾಹು-ಕೋನ-ಬಾಹು ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ ಬಿಎಡಿ ಯು ತ್ರಿಭುಜ ಸಿಎಡಿ ಗೆ ಸರ್ವಸಮವಾಗಿದೆ. ಎರಡು ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾದಾಗ, ಅವುಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಇದನ್ನು ನಾವು 'ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು' ಅಥವಾ ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಸ.ತ್ರಿ.ಅ.ಭಾ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರ ಅನ್ವಯ, ತ್ರಿಭುಜ ಬಿಎಡಿ ಯಲ್ಲಿನ ಕೋನ ಎಬಿಡಿ ಯು, ತ್ರಿಭುಜ ಸಿಎಡಿ ಯಲ್ಲಿನ ಕೋನ ಎಸಿಡಿ ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಕೋನ ಎಬಿಡಿ ಎಂದರೆ ಕೋನ ಬಿ, ಮತ್ತು ಕೋನ ಎಸಿಡಿ ಎಂದರೆ ಕೋನ ಸಿ. ಆದ್ದರಿಂದ, ಕೋನ ಬಿ ಯು ಕೋನ ಸಿ ಗೆ ಸಮ. ಹೀಗೆ ನಾವು ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ.",
+  "script_display": "ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಕಂಡುಕೊಂಡಂತೆ, ಬಾಹು-ಕೋನ-ಬಾಹು (ಬಾ.ಕೋ.ಬಾ) ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, $\\triangle BAD \\cong \\triangle CAD$. ಎರಡು ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾದಾಗ, ಅವುಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಇದನ್ನು ನಾವು 'ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು' (ಸ.ತ್ರಿ.ಅ.ಭಾ) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರ ಅನ್ವಯ, $\\triangle BAD$ ಯಲ್ಲಿನ $\\angle ABD$ ಯು, $\\triangle CAD$ ಯಲ್ಲಿನ $\\angle ACD$ ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. $\\angle ABD$ ಎಂದರೆ $\\angle B$, ಮತ್ತು $\\angle ACD$ ಎಂದರೆ $\\angle C$. ಆದ್ದರಿಂದ, $\\angle B = \\angle C$. ಹೀಗೆ ನಾವು ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ಬಾ.ಕೋ.ಬಾ ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, $\\triangle BAD \\cong \\triangle CAD$.",
+    "ಆದ್ದರಿಂದ, ಅವುಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮವಾಗಿರುತ್ತವೆ (ಸ.ತ್ರಿ.ಅ.ಭಾ).",
+    "$\\angle ABD = \\angle ACD$, ಅಂದರೆ $\\angle B = \\angle C$.",
+    "ಇದು ಸಾಧಿಸಲ್ಪಟ್ಟಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳಾದ BAD ಮತ್ತು CAD. ಅನುರೂಪ ಕೋನಗಳಾದ ∠B ಮತ್ತು ∠C ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, D, C",
+    "mathematical_significance": "ಸಾಧನೆಯ ಅಂತಿಮ ಹಂತವನ್ನು ತೋರಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಸರ್ವಸಮತೆಯಿಂದ ಅನುರೂಪ ಕೋನಗಳು ಸಮವೆಂದು ತೀರ್ಮಾನಿಸಲಾಗುತ್ತದೆ.",
+    "placeholder_note": "Same diagram, now highlighting the resulting equal angles ∠B and ∠C."
+  },
+  "sub_type": "proof_conclusion",
+  "chunk_id": "GEO-TRI-2_concept_2_chunk_009"
+}

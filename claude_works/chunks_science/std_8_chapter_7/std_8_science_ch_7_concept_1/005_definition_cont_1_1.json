@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "‘ಟೀನೇಜರ್ಸ್’ - ಪದದ ಮೂಲ",
+  "script": "ಹದಿಹರೆಯದವರನ್ನು ಟೀನೇಜರ್ಸ್ ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ? ಈ ಪದದ ಮೂಲವನ್ನು ತಿಳಿದುಕೊಂಡರೆ, ವಯಸ್ಸಿನ ವ್ಯಾಪ್ತಿಯನ್ನು ನೆನಪಿಡುವುದು ಸುಲಭವಾಗುತ್ತದೆ. ಇಂಗ್ಲಿಷ್ ಭಾಷೆಯಲ್ಲಿ, ಹದಿಮೂರರಿಂದ ಹತ್ತೊಂಬತ್ತರವರೆಗಿನ ಸಂಖ್ಯೆಗಳು 'ಟೀನ್' ಎಂಬ ಪ್ರತ್ಯಯದಿಂದ ಕೊನೆಗೊಳ್ಳುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಥರ್ಟೀನ್, ಫೋರ್ಟೀನ್, ಫಿಫ್ಟೀನ್, ಮತ್ತು ಹೀಗೆ ನೈನ್ಟೀನ್ ವರೆಗೆ. ಈ 'ಟೀನ್' ವಯಸ್ಸಿನ ಗುಂಪಿನಲ್ಲಿ ಇರುವುದರಿಂದಲೇ ಅವರನ್ನು 'ಟೀನೇಜರ್ಸ್' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದು ಕೇವಲ ಒಂದು ಪದವಲ್ಲ, ಬದಲಿಗೆ ಒಂದು ನಿರ್ದಿಷ್ಟ ಬೆಳವಣಿಗೆಯ ಹಂತವನ್ನು ಸೂಚಿಸುವ ಒಂದು ಮಾರ್ಗವಾಗಿದೆ.",
+  "script_display": "ಹದಿಹರೆಯದವರನ್ನು ‘Teenagers’ ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ? ಈ ಪದದ ಮೂಲವನ್ನು ತಿಳಿದುಕೊಂಡರೆ, ವಯಸ್ಸಿನ ವ್ಯಾಪ್ತಿಯನ್ನು ನೆನಪಿಡುವುದು ಸುಲಭವಾಗುತ್ತದೆ. ಇಂಗ್ಲಿಷ್ ಭಾಷೆಯಲ್ಲಿ, 13 ರಿಂದ 19 ರವರೆಗಿನ ಸಂಖ್ಯೆಗಳು ‘teen’ ಎಂಬ ಪ್ರತ್ಯಯದಿಂದ ಕೊನೆಗೊಳ್ಳುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, thirTEEN, fourTEEN, fifTEEN, ಮತ್ತು ಹೀಗೆ nineTEEN ವರೆಗೆ. ಈ ‘teen’ ವಯಸ್ಸಿನ ಗುಂಪಿನಲ್ಲಿ ಇರುವುದರಿಂದಲೇ ಅವರನ್ನು ‘Teenagers’ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದು ಕೇವಲ ಒಂದು ಪದವಲ್ಲ, ಬದಲಿಗೆ ಒಂದು ನಿರ್ದಿಷ್ಟ ಬೆಳವಣಿಗೆಯ ಹಂತವನ್ನು ಸೂಚಿಸುವ ಒಂದು ಮಾರ್ಗವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ 13 ರಿಂದ 19 ರವರೆಗಿನ ಸಂಖ್ಯೆಗಳು 'teen' ಪ್ರತ್ಯಯದಿಂದ ಕೊನೆಗೊಳ್ಳುತ್ತವೆ.",
+    "ಉದಾಹರಣೆ: thirTEEN, fourTEEN, ... nineTEEN.",
+    "ಈ 'teen' ವಯಸ್ಸಿನ ಗುಂಪಿನಲ್ಲಿರುವುದರಿಂದ ಅವರನ್ನು 'Teenagers' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple graphic showing a list of English numbers from 13 to 19. The 'teen' suffix in each number (thirTEEN, fourTEEN, etc.) is highlighted in a different color or bolded to emphasize the origin of the word 'teenager'. The list should be clear and easy to read.",
+    "labels": "13 (ThirTEEN), 14 (FourTEEN), 15 (FifTEEN), 16 (SixTEEN), 17 (SevenTEEN), 18 (EighTEEN), 19 (NineTEEN)",
+    "scientific_significance": "This visual aid provides a mnemonic device to help students remember the age range associated with teenagers by connecting it to the etymology of the word.",
+    "placeholder_note": "Image to be generated showing numbers 13-19 with the 'teen' part highlighted."
+  },
+  "chunk_id": "std_8_science_ch_7_concept_1_chunk_005"
+}

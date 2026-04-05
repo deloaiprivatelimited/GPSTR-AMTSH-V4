@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಉತ್ತೇಜಕಗಳು vs ಪ್ರತಿಬಂಧಕಗಳು",
+  "script": "ಸಸ್ಯ ಹಾರ್ಮೋನುಗಳನ್ನು ಅವುಗಳ ಕಾರ್ಯದ ಆಧಾರದ ಮೇಲೆ ಎರಡು ಮುಖ್ಯ ಗುಂಪುಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು. ಒಂದು ಕಡೆ, ನಮ್ಮಲ್ಲಿ ಬೆಳವಣಿಗೆ ಉತ್ತೇಜಕಗಳಿವೆ. ಇವು ಸಸ್ಯಕ್ಕೆ 'ಬೆಳೆಯಿರಿ' ಎಂದು ಹೇಳುವ ಹಸಿರು ನಿಶಾನೆಯಿದ್ದಂತೆ. ಇವು ಕೋಶ ವಿಭಜನೆ, ಹೂಬಿಡುವಿಕೆ ಮುಂತಾದ ಕ್ರಿಯೆಗಳನ್ನು ಪ್ರಚೋದಿಸುತ್ತವೆ. ಆಕ್ಸಿನ್‌ಗಳು ಮತ್ತು ಜಿಬ್ಬರ್‌ಲಿನ್‌ಗಳು ಇದಕ್ಕೆ ಉದಾಹರಣೆಗಳು. ಇನ್ನೊಂದು ಕಡೆ, ಬೆಳವಣಿಗೆ ಪ್ರತಿಬಂಧಕಗಳಿವೆ. ಇವು 'ನಿಲ್ಲಿಸಿ' ಎಂದು ಹೇಳುವ ಕೆಂಪು ನಿಶಾನೆಯಂತೆ. ಇವು ಬೆಳವಣಿಗೆಯನ್ನು ನಿಧಾನಗೊಳಿಸಿ, ಎಲೆಗಳು ಉದುರಲು ಮತ್ತು ಸಸ್ಯವು ಸುಪ್ತಾವಸ್ಥೆಗೆ ಹೋಗಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ. ಅಬ್ಸಿಸಿಕ್ ಆಮ್ಲವು ಇದಕ್ಕೆ ಮುಖ್ಯ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "script_display": "ಸಸ್ಯ ಹಾರ್ಮೋನುಗಳನ್ನು ಅವುಗಳ ಕಾರ್ಯದ ಆಧಾರದ ಮೇಲೆ ಎರಡು ಮುಖ್ಯ ಗುಂಪುಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು: ಬೆಳವಣಿಗೆ ಉತ್ತೇಜಕಗಳು (Growth Promoters) ಮತ್ತು ಬೆಳವಣಿಗೆ ಪ್ರತಿಬಂಧಕಗಳು (Growth Inhibitors).",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen graphic. The left side is titled 'ಬೆಳವಣಿಗೆ ಉತ್ತೇಜಕಗಳು' with a green color scheme and an icon of a sprouting plant. It lists: 'ಕಾರ್ಯ: ಬೆಳವಣಿಗೆಯನ್ನು ಪ್ರಚೋದಿಸುತ್ತವೆ', 'ಉದಾ: ಆಕ್ಸಿನ್‌, ಜಿಬ್ಬರ್‌ಲಿನ್‌'. The right side is titled 'ಬೆಳವಣಿಗೆ ಪ್ರತಿಬಂಧಕಗಳು' with a red color scheme and an icon of a leaf falling. It lists: 'ಕಾರ್ಯ: ಬೆಳವಣಿಗೆಯನ್ನು ನಿಧಾನಗೊಳಿಸುತ್ತವೆ', 'ಉದಾ: ಅಬ್ಸಿಸಿಕ್ ಆಮ್ಲ'.",
+    "labels": "Growth Promoters, Growth Inhibitors, Auxin, Gibberellin, Abscisic Acid",
+    "scientific_significance": "Visually contrasts the two major functional classes of phytohormones, which is a core concept in plant biology.",
+    "placeholder_note": "Generate a two-column comparison image. Left: Growth Promoters (green theme). Right: Growth Inhibitors (red theme)."
+  },
+  "chunk_id": "std_10_chapter_6_concept_6_chunk_005"
+}

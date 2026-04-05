@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಒಂದು ಪ್ರಾಯೋಗಿಕ ಉದಾಹರಣೆ",
+  "script": "ಇದನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ವೃತ್ತದ ವ್ಯಾಸವು 28 ಸೆಂಟಿಮೀಟರ್ ಇದೆ ಎಂದು ಭಾವಿಸೋಣ. ನಾವು ಒಂದು ದಾರವನ್ನು ಬಳಸಿ ಅದರ ಪರಿಧಿಯನ್ನು ಅಳೆದಾಗ, ಅದು ಸುಮಾರು 88 ಸೆಂಟಿಮೀಟರ್ ಬರುತ್ತದೆ. ಈಗ ನಾವು ಪೈ ನ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಪರಿಧಿಯನ್ನು ವ್ಯಾಸದಿಂದ ಭಾಗಿಸೋಣ. ಅಂದರೆ, 88 ಭಾಗಿಸು 28. ನಾವು 88 ಮತ್ತು 28 ಎರಡನ್ನೂ 4 ರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ 22 ಭಾಗಿಸು 7 ಸಿಗುತ್ತದೆ. ಇದು ಪೈ ನ ಅಂದಾಜು ಮೌಲ್ಯವಾಗಿದೆ. ಹೀಗೆ ಯಾವುದೇ ವೃತ್ತಾಕಾರದ ವಸ್ತುವಿಗೆ ಈ ಅನುಪಾತವು ಸ್ಥಿರವಾಗಿರುತ್ತದೆ ಮತ್ತು ಅದು ಪೈ ಗೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಇದನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಂದು ವೃತ್ತದ ವ್ಯಾಸವು 28 cm ಇದೆ ಎಂದು ಭಾವಿಸೋಣ. ನಾವು ಒಂದು ದಾರವನ್ನು ಬಳಸಿ ಅದರ ಪರಿಧಿಯನ್ನು ಅಳೆದಾಗ, ಅದು ಸುಮಾರು 88 cm ಬರುತ್ತದೆ. ಈಗ ನಾವು $π$ ನ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಪರಿಧಿಯನ್ನು ವ್ಯಾಸದಿಂದ ಭಾಗಿಸೋಣ. ಅಂದರೆ, $88$ ಭಾಗಿಸು $28$. ನಾವು $88$ ಮತ್ತು $28$ ಎರಡನ್ನೂ $4$ ರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ $\\frac{22}{7}$ ಸಿಗುತ್ತದೆ. ಇದು $π$ ನ ಅಂದಾಜು ಮೌಲ್ಯವಾಗಿದೆ. ಹೀಗೆ ಯಾವುದೇ ವೃತ್ತಾಕಾರದ ವಸ್ತುವಿಗೆ ಈ ಅನುಪಾತವು ಸ್ಥಿರವಾಗಿರುತ್ತದೆ ಮತ್ತು ಅದು $π$ ಗೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ವೃತ್ತದ ವ್ಯಾಸ ($d$) = 28 cm ಎಂದು ಭಾವಿಸೋಣ.",
+    "ಅದರ ಪರಿಧಿಯನ್ನು ($C$) ಅಳೆದಾಗ ಸುಮಾರು 88 cm ಸಿಗುತ್ತದೆ.",
+    "ಅನುಪಾತವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ: $\\frac{C}{d} = \\frac{88}{28}$",
+    "ಸರಳೀಕರಿಸಿದಾಗ: $\\frac{88 \\div 4}{28 \\div 4} = \\frac{22}{7} ≈ 3.14$. ಇದು $π$ ನ ಮೌಲ್ಯ!"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a circle. The diameter is clearly marked with a line and the label 'd = 28 cm'. The circumference is highlighted, perhaps with a different color or a dashed line, and labeled 'C ≈ 88 cm'.",
+    "labels": "Circle, Diameter, Circumference, 28 cm, 88 cm",
+    "mathematical_significance": "Provides a concrete numerical example to demonstrate the C/d ratio.",
+    "placeholder_note": "Image to be generated showing a circle with diameter 28cm and circumference 88cm."
+  },
+  "chunk_id": "MEN-AREA-1_concept_5_chunk_009"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಭಾಗ (ii)",
+  "script": "ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಒಂದು ಕೋನ, ಒಂದು ಬಾಹು, ಮತ್ತು ಇನ್ನೊಂದು ಕೋನ ಸಮನಾಗಿರುವುದನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಕೋನ-ಬಾಹು-ಕೋನ ಅಥವಾ ASA ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ AOB ಯು ತ್ರಿಭುಜ DOC ಗೆ ಸರ್ವಸಮವಾಗಿದೆ. ಇದು ನಮ್ಮ ಮೊದಲ ಸಾಧನೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸುತ್ತದೆ. ಈಗ ಎರಡನೇ ಭಾಗಕ್ಕೆ ಬರೋಣ. ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾಗಿರುವುದರಿಂದ, ಅವುಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮನಾಗಿರಬೇಕು. ಇದನ್ನು ನಾವು ಸ.ತ್ರಿ.ಅ.ಭಾ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರ ಅನ್ವಯ, ಬಾಹು OB ಯು ಅನುರೂಪ ಬಾಹು OC ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. OB ಮತ್ತು OC ಸಮವಾಗಿರುವುದರಿಂದ, O ಬಿಂದುವು BC ರೇಖಾಖಂಡದ ಮಧ್ಯಬಿಂದು ಎಂದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ಹೀಗೆ ನಾವು ಎರಡನೇ ಭಾಗವನ್ನೂ ಸಾಧಿಸಿದ್ದೇವೆ.",
+  "script_display": "ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಒಂದು ಕೋನ, ಒಂದು ಬಾಹು, ಮತ್ತು ಇನ್ನೊಂದು ಕೋನ ಸಮನಾಗಿರುವುದನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಕೋನ-ಬಾಹು-ಕೋನ (ASA) ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, $\\triangle AOB \\cong \\triangle DOC$. ಇದು ನಮ್ಮ ಮೊದಲ ಸಾಧನೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸುತ್ತದೆ. ಈಗ ಎರಡನೇ ಭಾಗಕ್ಕೆ ಬರೋಣ. ತ್ರಿಭುಜಗಳು ಸರ್ವಸಮವಾಗಿರುವುದರಿಂದ, ಅವುಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮನಾಗಿರಬೇಕು (ಸ.ತ್ರಿ.ಅ.ಭಾ - CPCTC). ಇದರ ಅನ್ವಯ, $OB = OC$. $OB = OC$ ಆಗಿರುವುದರಿಂದ, O ಬಿಂದುವು BC ರೇಖಾಖಂಡದ ಮಧ್ಯಬಿಂದು ಎಂದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ಹೀಗೆ ನಾವು ಎರಡನೇ ಭಾಗವನ್ನೂ ಸಾಧಿಸಿದ್ದೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ರೇಖೆಗಳು AB ಮತ್ತು CD ಸಮಾಂತರವಾಗಿವೆ. AD ಮತ್ತು BC ರೇಖಾಖಂಡಗಳು O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. O ಬಿಂದುವು AD ಯ ಮಧ್ಯಬಿಂದುವಾಗಿದೆ. ಕೋನ OAB ಮತ್ತು ಕೋನ ODC ಗಳು ಪರ್ಯಾಯ ಕೋನಗಳಾಗಿವೆ. ಕೋನ AOB ಮತ್ತು ಕೋನ DOC ಗಳು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ. OB ಮತ್ತು OC ಬಾಹುಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಸ.ತ್ರಿ.ಅ.ಭಾ (CPCTC) ತತ್ವವನ್ನು ವಿವರಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮಾನವಾಗಿರುತ್ತವೆ.",
+    "placeholder_note": "Image to be generated based on the description, corresponding to figure 7.15 in the textbook. Highlight the corresponding sides OB and OC."
+  },
+  "source_example_id": "GEO-TRI-2_example_3",
+  "steps": [
+    {
+      "step": 5,
+      "action_display": "$\\triangle AOB \\cong \\triangle DOC$",
+      "justification": "ಕೋ.ಬಾ.ಕೋ (ASA) ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ."
+    },
+    {
+      "step": 6,
+      "action_display": "$OB = OC$",
+      "justification": "ಸ.ತ್ರಿ.ಅ.ಭಾ (CPCTC - ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು)."
+    },
+    {
+      "step": 7,
+      "action_display": "ಆದ್ದರಿಂದ, O ಎಂಬುದು BC ಯ ಮಧ್ಯಬಿಂದು.",
+      "justification": "ಒಂದು ಬಿಂದುವು ರೇಖಾಖಂಡವನ್ನು ಎರಡು ಸಮ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿದರೆ, ಅದು ಮಧ್ಯಬಿಂದುವಾಗಿರುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_057"
+}

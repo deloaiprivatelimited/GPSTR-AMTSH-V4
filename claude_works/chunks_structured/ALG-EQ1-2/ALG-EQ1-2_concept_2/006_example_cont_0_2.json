@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಮ್ಮ ಸಮೀಕರಣ 2x ಈಕ್ವಲ್ಸ್ x ಪ್ಲಸ್ 5. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಬಲಭಾಗದಲ್ಲಿರುವ ಚರಾಕ್ಷರ x ಅನ್ನು ಎಡಭಾಗಕ್ಕೆ ವರ್ಗಾಯಿಸೋಣ. ಆಗ ಅದು ಮೈನಸ್ x ಆಗುತ್ತದೆ. ಇದು 2x ಮೈನಸ್ x ಈಕ್ವಲ್ಸ್ 5 ಎಂದಾಗುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಎಡಭಾಗವನ್ನು ಸುಲಭೀಕರಿಸೋಣ. 2x ಮೈನಸ್ x ಅಂದರೆ x. ಆದ್ದರಿಂದ, ನಮಗೆ x ಈಕ್ವಲ್ಸ್ 5 ಎಂಬ ಉತ್ತರ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಮ್ಮ ಸಮೀಕರಣ $2x = x + 5$. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಬಲಭಾಗದಲ್ಲಿರುವ ಚರಾಕ್ಷರ $x$ ಅನ್ನು ಎಡಭಾಗಕ್ಕೆ ವರ್ಗಾಯಿಸೋಣ. ಆಗ ಅದು $-x$ ಆಗುತ್ತದೆ. ಇದು $2x - x = 5$ ಎಂದಾಗುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಎಡಭಾಗವನ್ನು ಸುಲಭೀಕರಿಸೋಣ. $2x - x$ ಅಂದರೆ $x$. ಆದ್ದರಿಂದ, ನಮಗೆ $x = 5$ ಎಂಬ ಉತ್ತರ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "full_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-EQ1-2_example_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$2x - x = 5$",
+      "justification": "ಚರಾಕ್ಷರಗಳನ್ನು ಒಂದು ಕಡೆ ಒಟ್ಟುಗೂಡಿಸುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "$x = 5$",
+      "justification": "$x$ ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-EQ1-2_concept_2_chunk_006"
+}

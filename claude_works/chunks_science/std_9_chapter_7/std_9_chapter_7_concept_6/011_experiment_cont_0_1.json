@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಚಟುವಟಿಕೆಯ ವಿಧಾನ",
+  "script": "ಈಗ ನಾವು ಚಟುವಟಿಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ದಾರದ ಒಂದು ತುದಿಗೆ ಕಲ್ಲನ್ನು ಭದ್ರವಾಗಿ ಕಟ್ಟಿ. ನಂತರ, ದಾರದ ಇನ್ನೊಂದು ತುದಿಯನ್ನು ನಿಮ್ಮ ಕೈಯಲ್ಲಿ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಿ. ಈಗ, ನಿಮ್ಮ ತಲೆಯ ಮೇಲೆ ದಾರವನ್ನು ವೃತ್ತಾಕಾರವಾಗಿ ತಿರುಗಿಸಲು ಪ್ರಾರಂಭಿಸಿ. ಕಲ್ಲು ಒಂದು ಸ್ಥಿರವಾದ ಜವದಲ್ಲಿ, ಅಂದರೆ ಒಂದೇ ವೇಗದಲ್ಲಿ, ವೃತ್ತಾಕಾರದ ಪಥದಲ್ಲಿ ಚಲಿಸುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಈ ರೀತಿ ತಿರುಗಿಸುತ್ತಿರುವಾಗ, ಕಲ್ಲಿನ ಚಲನೆಯನ್ನು ಗಮನಿಸಿ. ಅದು ಒಂದು ನಿರಂತರ ವೃತ್ತವನ್ನು ರಚಿಸುತ್ತಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಚಟುವಟಿಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ದಾರದ ಒಂದು ತುದಿಗೆ ಕಲ್ಲನ್ನು ಭದ್ರವಾಗಿ ಕಟ್ಟಿ. ನಂತರ, ದಾರದ ಇನ್ನೊಂದು ತುದಿಯನ್ನು ನಿಮ್ಮ ಕೈಯಲ್ಲಿ ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಿ. ಈಗ, ನಿಮ್ಮ ತಲೆಯ ಮೇಲೆ ದಾರವನ್ನು ವೃತ್ತಾಕಾರವಾಗಿ ತಿರುಗಿಸಲು ಪ್ರಾರಂಭಿಸಿ. ಕಲ್ಲು ಒಂದು ಸ್ಥಿರ ಜವದಲ್ಲಿ (constant speed), ವೃತ್ತಾಕಾರದ ಪಥದಲ್ಲಿ ಚಲಿಸುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಈ ರೀತಿ ತಿರುಗಿಸುತ್ತಿರುವಾಗ, ಕಲ್ಲಿನ ಚಲನೆಯನ್ನು ಗಮನಿಸಿ. ಅದು ಒಂದು ನಿರಂತರ ವೃತ್ತವನ್ನು ರಚಿಸುತ್ತಿದೆ.",
+  "display_bullets": [
+    "ದಾರದ ಒಂದು ತುದಿಗೆ ಕಲ್ಲನ್ನು ಕಟ್ಟಿ.",
+    "ಇನ್ನೊಂದು ತುದಿಯನ್ನು ಕೈಯಲ್ಲಿ ಹಿಡಿದು, ತಲೆಯ ಮೇಲೆ ವೃತ್ತಾಕಾರವಾಗಿ ತಿರುಗಿಸಿ.",
+    "ಕಲ್ಲು ಸ್ಥಿರ ಜವದಲ್ಲಿ (constant speed) ಚಲಿಸುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of a person's hand holding a string and whirling a stone in a circular path. The path of the stone should be shown as a dotted circle.",
+    "labels": "ಕೈ (Hand), ದಾರ (String), ಕಲ್ಲು (Stone), ವೃತ್ತಾಕಾರದ ಪಥ (Circular Path)",
+    "scientific_significance": "Depicts the experimental setup in action, showing the object in uniform circular motion.",
+    "placeholder_note": "Image to be generated showing a hand whirling a stone."
+  },
+  "chunk_id": "std_9_chapter_7_concept_6_chunk_011"
+}

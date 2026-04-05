@@ -1,0 +1,46 @@
+{
+  "module_id": "std_9_chapter_2_concept_7",
+  "chapter_code": "std_9_chapter_2",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 116.713,
+  "total_duration_formatted": "1:56",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_2_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ವಿಲೀನತೆ ಮತ್ತು ತಾಪಮಾನ",
+      "type": "title_hero",
+      "start": 0.0,
+      "end": 49.331,
+      "duration": 49.331,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "bullet_list",
+      "start": 49.931,
+      "end": 77.782,
+      "duration": 27.851,
+      "script_words": 37
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_7_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 78.382,
+      "end": 116.113,
+      "duration": 37.731,
+      "script_words": 51
+    }
+  ]
+}

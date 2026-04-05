@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಆವೀಕರಣ: ಯಾವಾಗ ಬಳಸಬೇಕು?",
+  "script": "ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ವಿಷಯವನ್ನು ಗಮನಿಸಬೇಕು. ಆವೀಕರಣವು ಎಲ್ಲಾ ರೀತಿಯ ಮಿಶ್ರಣಗಳನ್ನು ಬೇರ್ಪಡಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ಉಪ್ಪು ನೀರಿನಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಕರಗಿದೆ. ಇಲ್ಲಿ ಆವೀಕರಣವು ಪರಿಣಾಮಕಾರಿ. ನಾವು ನೀರನ್ನು ಆವಿಯಾಗಿಸಿ ಉಪ್ಪನ್ನು ಪಡೆಯಬಹುದು. ಆದರೆ, ಮರಳು ನೀರಿನಲ್ಲಿ ಕರಗುವುದಿಲ್ಲ, ಅದು ತಳದಲ್ಲಿ ಉಳಿಯುತ್ತದೆ. ಇಂತಹ ಮಿಶ್ರಣಕ್ಕೆ ಆವೀಕರಣವನ್ನು ಬಳಸುವುದು ಸರಿಯಲ್ಲ. ಯಾಕೆಂದರೆ, ನೀರನ್ನು ಆವಿಯಾಗಿಸುವ ಬದಲು, ನಾವು ಸುಲಭವಾಗಿ ಬೇರೆ ವಿಧಾನಗಳನ್ನು ಬಳಸಬಹುದು. ಆದ್ದರಿಂದ, ಆವೀಕರಣವು ಕರಗಿದ ಘನಗಳನ್ನು ದ್ರವದಿಂದ ಬೇರ್ಪಡಿಸಲು ಮಾತ್ರ ಸೂಕ್ತವಾದ ವಿಧಾನವಾಗಿದೆ.",
+  "script_display": "ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ವಿಷಯವನ್ನು ಗಮನಿಸಬೇಕು. ಆವೀಕರಣವು ಎಲ್ಲಾ ರೀತಿಯ ಮಿಶ್ರಣಗಳನ್ನು ಬೇರ್ಪಡಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ಉಪ್ಪು ನೀರಿನಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಕರಗಿದೆ (Dissolved). ಇಲ್ಲಿ ಆವೀಕರಣ ವಿಧಾನ ಸೂಕ್ತ. ನಾವು ನೀರನ್ನು ಆವಿಯಾಗಿಸಿ ಉಪ್ಪನ್ನು ಪಡೆಯಬಹುದು. ಆದರೆ, ಮರಳು ನೀರಿನಲ್ಲಿ ಕರಗುವುದಿಲ್ಲ (Insoluble). ಇಂತಹ ಮಿಶ್ರಣಕ್ಕೆ ಆವೀಕರಣ ವಿಧಾನ ಸೂಕ್ತವಲ್ಲ. ಯಾಕೆಂದರೆ, ನೀರನ್ನು ಆವಿಯಾಗಿಸುವ ಬದಲು, ನಾವು ಸುಲಭವಾಗಿ ಬೇರೆ ವಿಧಾನಗಳನ್ನು (e.g., Decantation) ಬಳಸಬಹುದು. ಆದ್ದರಿಂದ, ಆವೀಕರಣವು ಕರಗಿದ ಘನಗಳನ್ನು ದ್ರವದಿಂದ ಬೇರ್ಪಡಿಸಲು ಮಾತ್ರ ಸೂಕ್ತವಾದ ವಿಧಾನವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕರಗಿದ ಘನ (ಉಪ್ಪು): ಆವೀಕರಣ ವಿಧಾನ ಸೂಕ್ತ.",
+    "ಕರಗದ ಘನ (ಮರಳು): ಆವೀಕರಣ ವಿಧಾನ ಸೂಕ್ತವಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen style comparison. Left side is labeled 'ಸೂಕ್ತ (Suitable)'. It shows a beaker with clear salt water, labeled 'ಉಪ್ಪು + ನೀರು (Salt + Water)'. Below it, a green checkmark (✓). Right side is labeled 'ಸೂಕ್ತವಲ್ಲ (Not Suitable)'. It shows a beaker with water and sand settled at the bottom, labeled 'ಮರಳು + ನೀರು (Sand + Water)'. Below it, a red cross mark (✗).",
+    "labels": "Suitable, Not Suitable, Salt Water, Sand Water, Checkmark, Cross mark",
+    "scientific_significance": "Distinguishes between mixtures where evaporation is an effective separation technique (for dissolved solutes) and where it is not (for insoluble solids).",
+    "placeholder_note": "Image to be generated showing a side-by-side comparison of a salt solution and a sand-water mixture to illustrate the applicability of evaporation."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_6_chapter_9_concept_8_chunk_005"
+}

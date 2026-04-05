@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1 ಮತ್ತು 2: ಆಧಾರವನ್ನು ರಚಿಸುವುದು",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ವರ್ಗಮೂಲ ಎರಡರ ಉದ್ದದ ಆಧಾರವನ್ನು ರಚಿಸೋಣ. ಸೊನ್ನೆಯಿಂದ ಒಂದು ಏಕಮಾನದಷ್ಟು ದೂರದಲ್ಲಿರುವ ಬಿಂದು A ಯಲ್ಲಿ, ಒಂದು ಏಕಮಾನ ಉದ್ದದ ಲಂಬ AB ಯನ್ನು ಎಳೆಯಿರಿ. ವಿಕರ್ಣ OB ಯ ಉದ್ದವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ ವರ್ಗಮೂಲ ಎರಡು ಆಗಿರುತ್ತದೆ. ಇದು ನಮ್ಮ ಮೊದಲ ಹಂತ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, B ಬಿಂದುವಿನಲ್ಲಿ, OB ರೇಖೆಗೆ ಲಂಬವಾಗಿ ಒಂದು ಏಕಮಾನ ಉದ್ದದ BD ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಇದು ನಮ್ಮ ಮುಂದಿನ ತ್ರಿಭುಜದ ಲಂಬವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು $\\sqrt{2}$ ಉದ್ದದ ಆಧಾರವನ್ನು ರಚಿಸೋಣ. 0 ರಿಂದ 1 ಏಕಮಾನದಷ್ಟು ದೂರದಲ್ಲಿರುವ ಬಿಂದು A ಯಲ್ಲಿ, 1 ಏಕಮಾನ ಉದ್ದದ ಲಂಬ AB ಯನ್ನು ಎಳೆಯಿರಿ. ವಿಕರ್ಣ OB ಯ ಉದ್ದವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ $\\sqrt{2}$ ಆಗಿರುತ್ತದೆ. ಇದು ನಮ್ಮ ಮೊದಲ ಹಂತ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, B ಬಿಂದುವಿನಲ್ಲಿ, OB ರೇಖೆಗೆ ಲಂಬವಾಗಿ 1 ಏಕಮಾನ ಉದ್ದದ BD ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಇದು ನಮ್ಮ ಮುಂದಿನ ತ್ರಿಭुಜದ ಲಂಬವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard_step_walkthrough",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Construction diagram. Step 1: Right triangle OAB is shown with OA=1, AB=1, and hypotenuse OB labeled with length sqrt(2). Step 2: A new perpendicular line BD of length 1 is drawn at point B, such that BD is perpendicular to OB.",
+    "labels": "O, A, B, D, 1, sqrt(2)",
+    "mathematical_significance": "This visual shows the construction of the necessary framework to find sqrt(3). It builds upon the construction of sqrt(2).",
+    "placeholder_note": "Image to be generated"
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SYS-3_example_4",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\sqrt{2}$ ನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ರಚಿಸುವುದು. (ವಿಕರ್ಣ $OB$ ಯ ಉದ್ದ $\\sqrt{2}$)",
+      "justification": "$\\sqrt{3}$ ನ್ನು ರಚಿಸಲು $\\sqrt{2}$ ಉದ್ದವು ಆಧಾರವಾಗಿ ಬೇಕು."
+    },
+    {
+      "step": 2,
+      "action_display": "B ಬಿಂದುವಿನಲ್ಲಿ OB ಗೆ ಲಂಬವಾಗಿ 1 ಏಕಮಾನ ಉದ್ದದ BD ರೇಖೆಯನ್ನು ಎಳೆಯುವುದು.",
+      "justification": "ಹೊಸ ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ($OBD$) ರಚಿಸಲು."
+    }
+  ],
+  "chunk_id": "NS-SYS-3_concept_2_chunk_022"
+}

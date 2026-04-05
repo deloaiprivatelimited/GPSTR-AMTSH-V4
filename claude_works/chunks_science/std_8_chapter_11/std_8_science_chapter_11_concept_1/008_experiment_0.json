@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಯೋಗ: ಸರಳ ಪರೀಕ್ಷಕದ ನಿರ್ಮಾಣ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಒಂದು ಸರಳವಾದ ಆದರೆ ಅತ್ಯಂತ ಉಪಯುಕ್ತವಾದ ಸಾಧನವನ್ನು ತಯಾರಿಸೋಣ. ಅದೇ ವಿದ್ಯುತ್ ಪರೀಕ್ಷಕ. ಒಂದು ವಸ್ತುವು ತನ್ನ ಮೂಲಕ ವಿದ್ಯುತ್ ಹರಿಯಲು ಬಿಡುತ್ತದೆಯೇ ಅಥವಾ ಇಲ್ಲವೇ ಎಂಬುದನ್ನು ಪರೀಕ್ಷಿಸಲು ಇದನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು ಯಾವುವು ಎಂದು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ವಿದ್ಯುತ್ ಕೋಶ ಅಂದರೆ ಬ್ಯಾಟರಿ, ಒಂದು ಸಣ್ಣ ಬಲ್ಬ್, ಮತ್ತು ಕೆಲವು ವಾಹಕ ತಂತಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ಈ ಸರಳ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ, ನಾವು ಯಾವುದೇ ವಸ್ತುವಿನ ವಿದ್ಯುತ್ ವಾಹಕತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಒಂದು ಸರಳವಾದ ಆದರೆ ಅತ್ಯಂತ ಉಪಯುಕ್ತವಾದ ಸಾಧನವನ್ನು ತಯಾರಿಸೋಣ. ಅದೇ ವಿದ್ಯುತ್ ಪರೀಕ್ಷಕ (electrical tester). ಒಂದು ವಸ್ತುವು ತನ್ನ ಮೂಲಕ ವಿದ್ಯುತ್ ಹರಿಯಲು ಬಿಡುತ್ತದೆಯೇ ಅಥವಾ ಇಲ್ಲವೇ ಎಂಬುದನ್ನು ಪರೀಕ್ಷಿಸಲು ಇದನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು ಯಾವುವು ಎಂದು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ವಿದ್ಯುತ್ ಕೋಶ (ಬ್ಯಾಟರಿ), ಒಂದು ಸಣ್ಣ ಬಲ್ಬ್, ಮತ್ತು ಕೆಲವು ವಾಹಕ ತಂತಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ಈ ಸರಳ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ, ನಾವು ಯಾವುದೇ ವಸ್ತುವಿನ ವಿದ್ಯುತ್ ವಾಹಕತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "display_bullets": [
+    "ಉದ್ದೇಶ: ಒಂದು ವಸ್ತುವಿನ ವಿದ್ಯುತ್ ವಾಹಕತೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು ಸರಳ ಪರೀಕ್ಷಕವನ್ನು ನಿರ್ಮಿಸುವುದು.",
+    "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು:",
+    "ವಿದ್ಯುತ್ ಕೋಶ (ಬ್ಯಾಟರಿ)",
+    "ಬಲ್ಬ್",
+    "ವಾಹಕ ತಂತಿಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A flat lay of the materials needed for the experiment: a single battery cell (like a AA battery), a small torch bulb, and a few pieces of insulated copper wire with stripped ends. Each component should be clearly visible.",
+    "labels": "ವಿದ್ಯುತ್ ಕೋಶ, ಬಲ್ಬ್, ವಾಹಕ ತಂತಿಗಳು",
+    "scientific_significance": "Shows the basic components required to build any simple electrical circuit.",
+    "placeholder_note": "Image to be generated showing the listed materials."
+  },
+  "chunk_id": "std_8_science_chapter_11_concept_1_chunk_008"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 1",
+  "script": "ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ನಾವು ಆಕೃತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಬೇಕು. ಆಯತವನ್ನು ಎರಡು ತದ್ರೂಪ ಚೌಕಗಳಾಗಿ ವಿಂಗಡಿಸಬೇಕಾದರೆ, ಅದರ ಉದ್ದವು ಅಗಲದ ಎರಡರಷ್ಟಿರಬೇಕು. ಅಂದರೆ, ಎಲ್ ಸಮನಾಗಿದೆ ಎರಡು ಬಿ. ಎರಡನೇ ಹಂತವಾಗಿ, ನಾವು ಒಂದು ನಿರ್ದಿಷ್ಟ ಅಗಲದ ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯೋಣ. ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ, ಎ ಬಿ ಸಮನಾಗಿದೆ ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ಇರುವಂತೆ ಒಂದು ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯಿರಿ. ಇದು ನಮ್ಮ ಆಯತದ ಅಗಲವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ನಾವು ಆಕೃತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಬೇಕು. ಆಯತವನ್ನು ಎರಡು ತದ್ರೂಪ ಚೌಕಗಳಾಗಿ ವಿಂಗಡಿಸಬೇಕಾದರೆ, ಅದರ ಉದ್ದವು ಅಗಲದ ಎರಡರಷ್ಟಿರಬೇಕು. ಅಂದರೆ, $l = 2b$. ಎರಡನೇ ಹಂತವಾಗಿ, ನಾವು ಒಂದು ನಿರ್ದಿಷ್ಟ ಅಗಲದ ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯೋಣ. ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ, $AB = 4 \\text{ cm}$ ಇರುವಂತೆ ಒಂದು ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯಿರಿ. ಇದು ನಮ್ಮ ಆಯತದ ಅಗಲವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A ruler is shown drawing a horizontal line segment labeled AB, with a length of 4 cm.",
+    "labels": "A, B, 4 cm, Ruler",
+    "mathematical_significance": "Shows the first concrete step of the construction: defining the breadth of the rectangle.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "VIS-CON-1_example_5",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ವಿಶ್ಲೇಷಣೆ: ಉದ್ದವು ಅಗಲದ ಎರಡರಷ್ಟಿರಬೇಕು. ($l = 2b$)",
+      "justification": "ಆಯತವನ್ನು ಎರಡು ತದ್ರೂಪ ಚೌಕಗಳಾಗಿ ವಿಭಾಗಿಸಲು ಈ ಸಂಬಂಧ ಅಗತ್ಯ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ $AB = 4 \\text{ cm}$ ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯಿರಿ.",
+      "justification": "ಆಯತದ ಅಗಲವನ್ನು ರಚಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "VIS-CON-1_concept_6_chunk_004"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "60° ಕೋನದ ಅನುಪಾತಗಳು",
+  "script": "ಈಗ ನಮ್ಮ ಬಳಿ 30-60-90 ತ್ರಿಭುಜ ABD ಯ ಎಲ್ಲಾ ಬಾಹುಗಳ ಉದ್ದಗಳಿವೆ. ನಾವು ಕೋನ B, ಅಂದರೆ 60 ಡಿಗ್ರಿಯನ್ನು ಬಳಸಿ ಅನುಪಾತಗಳನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಸೈನ್ 60 ಡಿಗ್ರಿ ಎಂದರೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ, ಅಂದರೆ AD ಭಾಗಿಸು AB. ಇದು a ರೂಟ್ ಮೂರು ಭಾಗಿಸು ಎರಡು a, ಅಂದರೆ ರೂಟ್ ಮೂರು ಭಾಗಿಸು ಎರಡು. ಕಾಸ್ 60 ಡಿಗ್ರಿ ಎಂದರೆ ಪಾರ್ಶ್ವ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ, ಅಂದರೆ BD ಭಾಗಿಸು AB. ಇದು a ಭಾಗಿಸು ಎರಡು a, ಅಂದರೆ ಒಂದು ಭಾಗಿಸು ಎರಡು. ಟ್ಯಾನ್ 60 ಡಿಗ್ರಿ ಎಂದರೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು ಪಾರ್ಶ್ವ ಬಾಹು, ಅಂದರೆ AD ಭಾಗಿಸು BD. ಇದು a ರೂಟ್ ಮೂರು ಭಾಗಿಸು a, ಅಂದರೆ ರೂಟ್ ಮೂರು.",
+  "script_display": "ಈಗ ನಮ್ಮ ಬಳಿ 30-60-90 ತ್ರಿಭುಜ ABD ಯ ಎಲ್ಲಾ ಬಾಹುಗಳ ಉದ್ದಗಳಿವೆ. ನಾವು $\\angle B$, ಅಂದರೆ 60° ಯನ್ನು ಬಳಸಿ ಅನುಪಾತಗಳನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. $\\sin 60^\\circ$ ಎಂದರೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ, ಅಂದರೆ $\\frac{AD}{AB}$. ಇದು $\\frac{a\\sqrt{3}}{2a}$, ಅಂದರೆ $\\frac{\\sqrt{3}}{2}$. $\\cos 60^\\circ$ ಎಂದರೆ ಪಾರ್ಶ್ವ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ, ಅಂದರೆ $\\frac{BD}{AB}$. ಇದು $\\frac{a}{2a}$, ಅಂದರೆ $\\frac{1}{2}$. $\\tan 60^\\circ$ ಎಂದರೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು ಪಾರ್ಶ್ವ ಬಾಹು, ಅಂದರೆ $\\frac{AD}{BD}$. ಇದು $\\frac{a\\sqrt{3}}{a}$, ಅಂದರೆ $\\sqrt{3}$.",
+  "display_bullets": [
+    "$\\triangle ABD$ ಯಲ್ಲಿ, $\\angle B = 60^\\circ$ ಬಳಸಿ:",
+    "$\\sin 60^\\circ = \\frac{AD}{AB} = \\frac{a\\sqrt{3}}{2a} = \\frac{\\sqrt{3}}{2}$",
+    "$\\cos 60^\\circ = \\frac{BD}{AB} = \\frac{a}{2a} = \\frac{1}{2}$",
+    "$\\tan 60^\\circ = \\frac{AD}{BD} = \\frac{a\\sqrt{3}}{a} = \\sqrt{3}$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "30-60-90 ತ್ರಿಭುಜ ABD. 60° ಕೋನವನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. ಈ ಕೋನಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಅಭಿಮುಖ ಬಾಹು (AD = a√3), ಪಾರ್ಶ್ವ ಬಾಹು (BD = a), ಮತ್ತು ವಿಕರ್ಣ (AB = 2a) ಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, D, 60°, a, a√3, 2a, ಅಭಿಮುಖ, ಪಾರ್ಶ್ವ, ವಿಕರ್ಣ",
+    "mathematical_significance": "30-60-90 ತ್ರಿಭುಜದ ಬಾಹುಗಳನ್ನು ಬಳಸಿ 60° ಕೋನದ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುವುದು.",
+    "placeholder_note": "Image of triangle ABD. Angle 60 is highlighted. The sides are labeled as 'opposite (a-root-3)', 'adjacent (a)', and 'hypotenuse (2a)' relative to the 60 degree angle."
+  },
+  "chunk_id": "TRI-INTRO-1_concept_2_chunk_012"
+}

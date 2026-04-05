@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಪರಿಹಾರದ ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ದತ್ತಾಂಶಗಳನ್ನು ಚಿಹ್ನೆಗಳ ಸಂಪ್ರದಾಯದಂತೆ ಬರೆಯುತ್ತೇವೆ. ಇದು ಪೀನ ದರ್ಪಣವಾಗಿರುವುದರಿಂದ, ಅದರ ವಕ್ರತಾ ತ್ರಿಜ್ಯ ಆರ್ ಧನಾತ್ಮಕವಾಗಿರುತ್ತದೆ, ಅಂದರೆ ಪ್ಲಸ್ ಮೂರು ಮೀಟರ್. ವಸ್ತುವು ಯಾವಾಗಲೂ ದರ್ಪಣದ ಎಡಭಾಗದಲ್ಲಿ ಇರುವುದರಿಂದ, ವಸ್ತು ದೂರ ಯು ಯಾವಾಗಲೂ ಋಣಾತ್ಮಕವಾಗಿರುತ್ತದೆ, ಅಂದರೆ ಮೈನಸ್ ಐದು ಮೀಟರ್. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಸಂಗಮ ದೂರ ಎಫ್ ಅನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಸಂಗಮ ದೂರವು ವಕ್ರತಾ ತ್ರಿಜ್ಯದ ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ, ಅಂದರೆ ಎಫ್ ಈಕ್ವಲ್ಸ್ ಆರ್ ಡಿವೈಡೆಡ್ ಬೈ ಟೂ. ಇಲ್ಲಿ, ಎಫ್ ಈಕ್ವಲ್ಸ್ ಪ್ಲಸ್ ಮೂರು ಭಾಗಿಸು ಎರಡು, ಅಂದರೆ ಪ್ಲಸ್ ಒಂದು ಪಾಯಿಂಟ್ ಐದು ಸೊನ್ನೆ ಮೀಟರ್.",
+  "script_display": "**ಹಂತ 1: ದತ್ತಾಂಶಗಳನ್ನು ಚಿಹ್ನೆಗಳ ಸಂಪ್ರದಾಯದಂತೆ ಬರೆಯುವುದು.**\nಪೀನ ದರ್ಪಣಕ್ಕೆ, ವಕ್ರತಾ ತ್ರಿಜ್ಯ (R) ಧನಾತ್ಮಕ: R = +3.00 m\nವಸ್ತು ದೂರ (u) ಯಾವಾಗಲೂ ಋಣಾತ್ಮಕ: u = -5.00 m\n\n**ಹಂತ 2: ಸಂಗಮ ದೂರ (f) ಕಂಡುಹಿಡಿಯುವುದು.**\nಸೂತ್ರ: f = R/2",
+  "display_bullets": [
+    "ಹಂತ 1: ದತ್ತಾಂಶಗಳನ್ನು ಚಿಹ್ನೆಗಳ ಸಂಪ್ರದಾಯದಂತೆ ಬರೆಯುವುದು (R = +3.00 m, u = -5.00 m).",
+    "ಹಂತ 2: ಸಂಗಮ ದೂರವನ್ನು (f) ಕಂಡುಹಿಡಿಯುವುದು. f = R/2 ಸೂತ್ರ ಬಳಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "f = \\frac{R}{2} = \\frac{+3.00 \\text{ m}}{2} = +1.50 \\text{ m}",
+    "placeholder_note": "Calculation of focal length from radius of curvature"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_9_example_9.1",
+  "chunk_id": "std_10_chapter_9_concept_4_chunk_020"
+}

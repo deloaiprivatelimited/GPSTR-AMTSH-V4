@@ -1,0 +1,35 @@
+{
+  "type": "definition_spotlight",
+  "slide_title": "ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತದ ಪ್ರಮೇಯ",
+  "script": "ಈಗ ನಾವು ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತದ ಗುಣಲಕ್ಷಣದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದು ರೇಖಾಗಣಿತದ ಒಂದು ಅತ್ಯಂತ ಸರಳ ಮತ್ತು ಪ್ರಮುಖ ಪ್ರಮೇಯವಾಗಿದೆ. ಪ್ರಮೇಯದ ಹೇಳಿಕೆ ಹೀಗಿದೆ: ಯಾವುದೇ ಒಂದು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದ ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತವು ಮುನ್ನೂರ ಅರವತ್ತು ಡಿಗ್ರಿಗಳಿಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಮುಖ್ಯ ಅಂಶವೆಂದರೆ, ಇದು ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಅವಲಂಬಿಸಿರುವುದಿಲ್ಲ. ಅಂದರೆ, ಅದು ತ್ರಿಭುಜ, ಚತುರ್ಭುಜ, ಅಥವಾ ನೂರು ಬಾಹುಗಳಿರುವ ಬಹುಭುಜವೇ ಆಗಿರಲಿ, ಅದರ ಹೊರಕೋನಗಳ ಮೊತ್ತ ಯಾವಾಗಲೂ ಮುನ್ನೂರ ಅರವತ್ತು ಡಿಗ್ರಿ ಇರುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತದ ಗುಣಲಕ್ಷಣದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದು ರೇಖಾಗಣಿತದ ಒಂದು ಅತ್ಯಂತ ಸರಳ ಮತ್ತು ಪ್ರಮುಖ ಪ್ರಮೇಯವಾಗಿದೆ. ಪ್ರಮೇಯದ ಹೇಳಿಕೆ ಹೀಗಿದೆ: ಯಾವುದೇ ಒಂದು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದ ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತವು 360° ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಮುಖ್ಯ ಅಂಶವೆಂದರೆ, ಇದು ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಅವಲಂಬಿಸಿರುವುದಿಲ್ಲ. ಅಂದರೆ, ಅದು ತ್ರಿಭುಜ, ಚತುರ್ಭುಜ, ಅಥವಾ ನೂರು ಬಾಹುಗಳಿರುವ ಬಹುಭುಜವೇ ಆಗಿರಲಿ, ಅದರ ಹೊರಕೋನಗಳ ಮೊತ್ತ ಯಾವಾಗಲೂ 360° ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪ್ರಮೇಯದ ಹೇಳಿಕೆ: ಯಾವುದೇ ಒಂದು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದ ಎಲ್ಲಾ ಹೊರಕೋನಗಳ ಮೊತ್ತವು 360° ಗೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+    "ಈ ಗುಣವು ಬಹುಭುಜದ ಬಾಹುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಅವಲಂಬಿಸಿರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A convex pentagon with all its exterior angles (one at each vertex, taken in the same direction, e.g., clockwise) highlighted and labeled as e1, e2, e3, e4, e5. The labels should clearly show that the sum e1+e2+e3+e4+e5 = 360°.",
+    "labels": "convex pentagon, exterior angles, e1, e2, e3, e4, e5",
+    "mathematical_significance": "Illustrates the concept of exterior angles and the theorem's statement visually.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-QUAD-1_concept_2_chunk_003"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಭಾಗಾಕಾರ",
+  "script": "ಈಗ, ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಭಾಗಾಕಾರವನ್ನು ಹೇಗೆ ಮಾಡುವುದು ಎಂದು ನೋಡೋಣ. ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯನ್ನು ಇನ್ನೊಂದರಿಂದ ಭಾಗಿಸಲು, ನಾವು ಭಾಜಕದ, ಅಂದರೆ ಎರಡನೇ ಸಂಖ್ಯೆಯ, ಗುಣಾಕಾರದ ವಿಲೋಮ ಅಥವಾ ವ್ಯುತ್ಮಮದಿಂದ ಗುಣಿಸುತ್ತೇವೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: a ಬೈ b ಭಾಗಿಸು c ಬೈ d ಸಮ a ಬೈ b ಗುಣಿಸು d ಬೈ c. ಇಲ್ಲಿ, a ಬೈ b ಎಂಬುದು ಭಾಜ್ಯ, ಮತ್ತು c ಬೈ d ಎಂಬುದು ಭಾಜಕ. ನಾವು ಭಾಗಾಕಾರದ ಚಿಹ್ನೆಯನ್ನು ಗುಣಾಕಾರದ ಚಿಹ್ನೆಯಾಗಿ ಬದಲಾಯಿಸಿ, ಭಾಜಕವಾದ c ಬೈ d ಯ ವ್ಯುತ್ಮಮವಾದ d ಬೈ c ಯನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ. ಒಂದು ಮುಖ್ಯವಾದ ವಿಷಯವೆಂದರೆ, b, d, ಮತ್ತು c ಸೊನ್ನೆಯಾಗಿರಬಾರದು. ಏಕೆಂದರೆ ಛೇದಗಳು ಸೊನ್ನೆಯಾಗುವಂತಿಲ್ಲ ಮತ್ತು ನಾವು ಸೊನ್ನೆಯಿಂದ ಭಾಗಿಸಲಾಗುವುದಿಲ್ಲ.",
+  "script_display": "ಈಗ, ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಭಾಗಾಕಾರವನ್ನು ಹೇಗೆ ಮಾಡುವುದು ಎಂದು ನೋಡೋಣ. ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯನ್ನು ಇನ್ನೊಂದರಿಂದ ಭಾಗಿಸಲು, ನಾವು ಭಾಜಕದ (divisor), ಅಂದರೆ ಎರಡನೇ ಸಂಖ್ಯೆಯ, ಗುಣಾಕಾರದ ವಿಲೋಮ ಅಥವಾ ವ್ಯುತ್ಮಮದಿಂದ (reciprocal) ಗುಣಿಸುತ್ತೇವೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: $\\frac{a}{b} \\div \\frac{c}{d} = \\frac{a}{b} \\times \\frac{d}{c}$. ಇಲ್ಲಿ, $\\frac{a}{b}$ ಎಂಬುದು ಭಾಜ್ಯ (dividend), ಮತ್ತು $\\frac{c}{d}$ ಎಂಬುದು ಭಾಜಕ (divisor). ನಾವು ಭಾಗಾಕಾರದ ಚಿಹ್ನೆಯನ್ನು ಗುಣಾಕಾರದ ಚಿಹ್ನೆಯಾಗಿ ಬದಲಾಯಿಸಿ, ಭಾಜಕವಾದ $\\frac{c}{d}$ ಯ ವ್ಯುತ್ಮಮವಾದ $\\frac{d}{c}$ ಯನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ. ಒಂದು ಮುಖ್ಯವಾದ ವಿಷಯವೆಂದರೆ, $b \\neq 0, d \\neq 0$, ಮತ್ತು $c \\neq 0$. ಏಕೆಂದರೆ ಛೇದಗಳು ಸೊನ್ನೆಯಾಗುವಂತಿಲ್ಲ ಮತ್ತು ನಾವು ಸೊನ್ನೆಯಿಂದ ಭಾಗಿಸಲಾಗುವುದಿಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "classic_dark",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "$\\frac{a}{b} \\div \\frac{c}{d} = \\frac{a}{b} \\times \\frac{d}{c}$",
+    "placeholder_note": "Formula for division of rational numbers. Show the condition b, d, c not equal to 0 below the formula."
+  },
+  "chunk_id": "NS-RAT-2_concept_5_chunk_018"
+}

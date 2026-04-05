@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಿಚಯ: ಸಮಮಿತಿ ಎಂದರೇನು?",
+  "script": "ಈಗ ನಾವು ಸಮಮಿತಿ ಎಂಬ ಒಂದು ಸುಂದರವಾದ ರೇಖಾಗಣಿತದ ಪರಿಕಲ್ಪನೆಯನ್ನು ನೋಡೋಣ. ಸಮಮಿತಿ ಎಂದರೆ ಏನು? ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರಕೃತಿಯಲ್ಲಿ, ವಾಸ್ತುಶಿಲ್ಪದಲ್ಲಿ, ಮತ್ತು ಕಲೆಗಳಲ್ಲಿ ನಾವು ಇದನ್ನು ಎಲ್ಲೆಡೆ ನೋಡುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಹೂವು, ಒಂದು ಚಿಟ್ಟೆಯ ರೆಕ್ಕೆ, ಅಥವಾ ತಾಜ್ ಮಹಲ್. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳಲ್ಲಿ ಒಂದು ರೀತಿಯ ಸಮತೋಲನ ಮತ್ತು ಸಾಮರಸ್ಯವನ್ನು ನೀವು ಗಮನಿಸಬಹುದು. ಈ ಸಮತೋಲನವನ್ನೇ ನಾವು ಗಣಿತದ ಭಾಷೆಯಲ್ಲಿ ಸಮಮಿತಿ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ನಾವು ಈಗ ವಿವರವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಸಮಮಿತಿ ಎಂಬ ಒಂದು ಸುಂದರವಾದ ರೇಖಾಗಣಿತದ ಪರಿಕಲ್ಪನೆಯನ್ನು ನೋಡೋಣ. ಸಮಮಿತಿ ಎಂದರೆ ಏನು? ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರಕೃತಿಯಲ್ಲಿ, ವಾಸ್ತುಶಿಲ್ಪದಲ್ಲಿ, ಮತ್ತು ಕಲೆಗಳಲ್ಲಿ ನಾವು ಇದನ್ನು ಎಲ್ಲೆಡೆ ನೋಡುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಹೂವು, ಒಂದು ಚಿಟ್ಟೆಯ ರೆಕ್ಕೆ, ಅಥವಾ ತಾಜ್ ಮಹಲ್. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳಲ್ಲಿ ಒಂದು ರೀತಿಯ ಸಮತೋಲನ ಮತ್ತು ಸಾಮರಸ್ಯವನ್ನು ನೀವು ಗಮನಿಸಬಹುದು. ಈ ಸಮತೋಲನವನ್ನೇ ನಾವು ಗಣಿತದ ಭಾಷೆಯಲ್ಲಿ ಸಮಮಿತಿ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ನಾವು ಈಗ ವಿವರವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "display_bullets": [
+    "ಸಮಮಿತಿಯು ಪ್ರಕೃತಿ, ಕಲೆ ಮತ್ತು ವಾಸ್ತುಶಿಲ್ಪದಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ.",
+    "ಇದು ಒಂದು ಆಕೃತಿಯಲ್ಲಿನ ಸಮತೋಲನ (balance) ಮತ್ತು ಸಾಮರಸ್ಯವನ್ನು (harmony) ಸೂಚಿಸುತ್ತದೆ.",
+    "ಉದಾಹರಣೆಗಳು: ಚಿಟ್ಟೆ, ಹೂವು, ತಾಜ್ ಮಹಲ್."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_style_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collage of symmetrical objects: a butterfly with wings open, the front view of the Taj Mahal, and a perfectly symmetrical flower like a daisy. The images should be vibrant and clearly show the balance in their structure.",
+    "labels": "ಚಿಟ್ಟೆ, ತಾಜ್ ಮಹಲ್, ಹೂವು",
+    "mathematical_significance": "Illustrates the concept of symmetry in real-world objects, making the abstract mathematical idea more relatable and intuitive.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "VIS-SYM-1_concept_1_chunk_002"
+}

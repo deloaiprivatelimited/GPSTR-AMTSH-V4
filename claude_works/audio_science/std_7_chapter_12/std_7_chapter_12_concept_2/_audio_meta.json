@@ -1,0 +1,114 @@
+{
+  "module_id": "std_7_chapter_12_concept_2",
+  "chapter_code": "std_7_chapter_12",
+  "voice": "Charon",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:38:15",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "d9be2e15af7ed10d8fd66e3723c375ed",
+      "wav_file": "001_intro_0.wav",
+      "duration": 53.411,
+      "slide_title": "ಕಾಡಿನ ಉತ್ಪನ್ನಗಳು",
+      "type": "intro",
+      "script_words": 77,
+      "generated_at": "2026-04-02 13:36:55"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "0a54729fa146bf33b9247ddcb2952bd2",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 22.851,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 35,
+      "generated_at": "2026-04-02 13:36:57"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "adf6b16005dded9825ee99dc2e86ad59",
+      "wav_file": "003_classification_0.wav",
+      "duration": 25.691,
+      "slide_title": "ಕಾಡಿನ ಪ್ರಮುಖ ಉತ್ಪನ್ನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 43,
+      "generated_at": "2026-04-02 13:36:57"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "984ddf5399922affc53ace12da018ff9",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 40.011,
+      "slide_title": "ಮರ-ಆಧಾರಿತ ಉತ್ಪನ್ನಗಳು (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "script_words": 46,
+      "generated_at": "2026-04-02 13:37:04"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "d98de96e4ab69734b2232169dd022577",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 49.331,
+      "slide_title": "ಮರ-ಆಧಾರಿತ ಉತ್ಪನ್ನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:37:10"
+    },
+    "008_classification_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "5ef6ef815ee9563c480e05c0ba61eccd",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "duration": 46.131,
+      "slide_title": "ಮರವಲ್ಲದ ಉತ್ಪನ್ನಗಳು (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "script_words": 46,
+      "generated_at": "2026-04-02 13:37:46"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "108bcc72fcf28131935bbb7d86d5ee04",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 46.891,
+      "slide_title": "ಮರವಲ್ಲದ ಉತ್ಪನ್ನಗಳು (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:38:05"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "4502544ec574a498d5d1afda81ce5156",
+      "wav_file": "009_recap_0.wav",
+      "duration": 41.331,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 49,
+      "generated_at": "2026-04-02 13:38:06"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "30639d3a32f7964f79c6638201a18e93",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 57.051,
+      "slide_title": "ಮರವಲ್ಲದ ಉತ್ಪನ್ನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:38:15"
+    }
+  }
+}

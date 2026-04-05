@@ -1,0 +1,101 @@
+{
+  "module_id": "std_6_chapter_4_concept_7",
+  "chapter_code": "std_6_chapter_4",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 336.128,
+  "total_duration_formatted": "5:36",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_4_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಕಾಂತಗಳ ಸಂರಕ್ಷಣೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 45.851,
+      "duration": 45.851,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 46.451,
+      "end": 72.462,
+      "duration": 26.011,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_7_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಕಾಂತೀಯ ಗುಣಗಳ ನಾಶ",
+      "type": "concept_explanation",
+      "start": 73.062,
+      "end": 118.753,
+      "duration": 45.691,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_7_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಕಾಂತೀಯ ಗುಣಗಳ ನಾಶ: ಅಸಮರ್ಪಕ ಸಂಗ್ರಹಣೆ",
+      "type": "concept_explanation",
+      "start": 119.353,
+      "end": 162.444,
+      "duration": 43.091,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_7_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ದಂಡಕಾಂತಗಳ ಸುರಕ್ಷಿತ ಸಂಗ್ರಹಣೆ",
+      "type": "concept_explanation",
+      "start": 163.044,
+      "end": 207.455,
+      "duration": 44.411,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_7_chunk_006",
+      "chunk_file": "006_property_cont_0_3.json",
+      "wav_file": "006_property_cont_0_3.wav",
+      "slide_title": "U-ಆಕಾರದ ಕಾಂತದ ಸಂಗ್ರಹಣೆ",
+      "type": "concept_explanation",
+      "start": 208.055,
+      "end": 253.586,
+      "duration": 45.531,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_7_chunk_007",
+      "chunk_file": "007_property_1.json",
+      "wav_file": "007_property_1.wav",
+      "slide_title": "ಕಾಂತಗಳೊಂದಿಗೆ ಮುನ್ನೆಚ್ಚರಿಕೆಗಳು",
+      "type": "concept_explanation",
+      "start": 254.186,
+      "end": 298.517,
+      "duration": 44.331,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_6_chapter_4_concept_7_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "start": 299.117,
+      "end": 335.528,
+      "duration": 36.411,
+      "script_words": 50
+    }
+  ]
+}

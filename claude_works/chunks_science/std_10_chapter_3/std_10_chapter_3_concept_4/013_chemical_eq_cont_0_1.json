@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾಮಾನ್ಯ ಸಮೀಕರಣ",
+  "script": "ಲೋಹಗಳು ಆಕ್ಸಿಜನ್ ಜೊತೆ ವರ್ತಿಸುವ ಸಾಮಾನ್ಯ ಸಮೀಕರಣ ಹೀಗಿದೆ. ಲೋಹ ಪ್ಲಸ್ ಆಕ್ಸಿಜನ್ ಗಿವ್ಸ್ ಲೋಹದ ಆಕ್ಸೈಡ್. ಇಲ್ಲಿ ಲೋಹ ಮತ್ತು ಆಕ್ಸಿಜನ್ ವರ್ತಕಗಳಾದರೆ, ಲೋಹದ ಆಕ್ಸೈಡ್ ಉತ್ಪನ್ನವಾಗಿದೆ.",
+  "script_display": "ಲೋಹಗಳು ಆಕ್ಸಿಜನ್ ಜೊತೆ ವರ್ತಿಸುವ ಸಾಮಾನ್ಯ ಸಮೀಕರಣ ಹೀಗಿದೆ. ಇಲ್ಲಿ ಲೋಹ ಮತ್ತು ಆಕ್ಸಿಜನ್ ವರ್ತಕಗಳಾದರೆ, ಲೋಹದ ಆಕ್ಸೈಡ್ ಉತ್ಪನ್ನವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "simple_equation",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಲೋಹ} + \\text{ಆಕ್ಸಿಜನ್} \\rightarrow \\text{ಲೋಹದ ಆಕ್ಸೈಡ್}",
+    "placeholder_note": "Display the general word equation for the reaction of a metal with oxygen."
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_013"
+}

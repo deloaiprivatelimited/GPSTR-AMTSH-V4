@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ತ್ರಿಭುಜದ ಕೋನಗಳ ಮೊತ್ತದ ಗುಣವನ್ನು ಬಳಸುವುದು",
+  "script": "ಈಗ ನಾವು ಕೋನ P ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ತ್ರಿಭುಜದ ಕೋನಗಳ ಮೊತ್ತದ ಗುಣಲಕ್ಷಣದ ಪ್ರಕಾರ, ಒಂದು ತ್ರಿಭುಜದ ಎಲ್ಲಾ ಮೂರು ಕೋನಗಳ ಮೊತ್ತ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ. ಆದ್ದರಿಂದ, ಕೋನ P ಪ್ಲಸ್ ಕೋನ Q ಪ್ಲಸ್ ಕೋನ R ಸಮ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ. ನಮಗೆ ಕೋನ Q തൊಂಬತ್ತು ಡಿಗ್ರಿ ಮತ್ತು ಕೋನ R ಮೂವತ್ತು ಡಿಗ್ರಿ ಎಂದು ತಿಳಿದಿದೆ. ಈ ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, ಕೋನ P ಪ್ಲಸ್ തൊಂಬತ್ತು ಪ್ಲಸ್ ಮೂವತ್ತು ಸಮ ನೂರಾ ಎಂಬತ್ತು. ಅಂದರೆ, ಕೋನ P ಪ್ಲಸ್ ನೂರಾ ಇಪ್ಪತ್ತು ಸಮ ನೂರಾ ಎಂಬತ್ತು. ಇದರಿಂದ, ಕೋನ P ಸಮ ನೂರಾ ಎಂಬತ್ತು ಮೈನಸ್ ನೂರಾ ಇಪ್ಪತ್ತು, ಅಂದರೆ ಅರವತ್ತು ಡಿಗ್ರಿ.",
+  "script_display": "ಈಗ ನಾವು $\\angle P$ ಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ತ್ರಿಭುಜದ ಕೋನಗಳ ಮೊತ್ತದ ಗುಣಲಕ್ಷಣದ ಪ್ರಕಾರ, ಒಂದು ತ್ರಿಭುಜದ ಎಲ್ಲಾ ಮೂರು ಕೋನಗಳ ಮೊತ್ತ $180^\\circ$. ಆದ್ದರಿಂದ, $\\angle P + \\angle Q + \\angle R = 180^\\circ$. ನಮಗೆ $\\angle Q = 90^\\circ$ ಮತ್ತು $\\angle R = 30^\\circ$ ಎಂದು ತಿಳಿದಿದೆ. ಈ ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, $\\angle P + 90^\\circ + 30^\\circ = 180^\\circ$. ಅಂದರೆ, $\\angle P + 120^\\circ = 180^\\circ$. ಇದರಿಂದ, $\\angle P = 180^\\circ - 120^\\circ = 60^\\circ$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-INTRO-1_example_7",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\angle P + \\angle Q + \\angle R = 180^\\circ \\implies \\angle P + 90^\\circ + 30^\\circ = 180^\\circ \\implies \\angle P = 180^\\circ - 120^\\circ = 60^\\circ$",
+      "justification": "ತ್ರಿಭುಜದ ಮೂರು ಕೋನಗಳ ಮೊತ್ತ $180^\\circ$."
+    }
+  ],
+  "chunk_id": "TRI-INTRO-1_concept_2_chunk_023"
+}

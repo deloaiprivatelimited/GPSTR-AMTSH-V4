@@ -1,0 +1,41 @@
+{
+  "type": "intro",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನೀವು ಈಗಾಗಲೇ ಕೆಲಸ, ಶಕ್ತಿ, ಚಲನಶಕ್ತಿ, ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ, ಮತ್ತು ಶಕ್ತಿಯ ವಿವಿಧ ರೂಪಗಳ ಬಗ್ಗೆ ತಿಳಿದುಕೊಂಡಿರುವುದು ಅವಶ್ಯಕ. ಒಂದು ವೇಳೆ ನಿಮಗೆ ಈ ವಿಷಯಗಳ ಬಗ್ಗೆ ಪುನರಾವರ್ತನೆ ಬೇಕಿದ್ದರೆ, ದಯವಿಟ್ಟು ಹಿಂದಿನ ಪಾಠಗಳನ್ನು ಒಮ್ಮೆ ನೋಡಿ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನೀವು ಈ ಕೆಳಗಿನ ಪರಿಕಲ್ಪನೆಗಳ ಬಗ್ಗೆ ತಿಳಿದುಕೊಂಡಿರುವುದು ಅವಶ್ಯಕ:",
+  "display_bullets": [
+    "ಕೆಲಸ (Work)",
+    "ಶಕ್ತಿ (Energy)",
+    "ಚಲನಶಕ್ತಿ (Kinetic Energy)",
+    "ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ (Potential Energy)",
+    "ಶಕ್ತಿಯ ವಿವಿಧ ರೂಪಗಳು (Various forms of energy)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "prerequisites",
+  "prerequisites_display": [
+    "ಕೆಲಸ (Work)",
+    "ಶಕ್ತಿ (Energy)",
+    "ಚಲನಶಕ್ತಿ (Kinetic Energy)",
+    "ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ (Potential Energy)",
+    "ಶಕ್ತಿಯ ವಿವಿಧ ರೂಪಗಳು (Various forms of energy)"
+  ],
+  "chunk_id": "std_9_chapter_10_concept_6_chunk_002"
+}

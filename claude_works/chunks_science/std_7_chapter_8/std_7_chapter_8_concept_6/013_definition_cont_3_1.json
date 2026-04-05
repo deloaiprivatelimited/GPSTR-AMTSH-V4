@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಂಡಾಶಯದಿಂದ ಹಣ್ಣಿನ ರಚನೆ",
+  "script": "ಹಾಗಾದರೆ ಅಂಡಾಶಯದಿಂದ ಹಣ್ಣು ಹೇಗೆ உருவாகುತ್ತದೆ? ಇಲ್ಲಿ ಗಮನಿಸಿ. ಹೂವಿನ ಅಂಡಾಶಯದ ಗೋಡೆಯು ಬೆಳೆದು ಹಣ್ಣಿನ ಹೊರ ಕವಚ, ಮಧ್ಯದ ತಿರುಳು ಮತ್ತು ಒಳ ಪದರವಾಗಿ, ಅಂದರೆ ಪೆರಿಕಾರ್ಪ್ ಆಗಿ, ಬದಲಾಗುತ್ತದೆ. ಇದೇ ನಾವು ತಿನ್ನುವ ಭಾಗ. ಇನ್ನು ಅಂಡಾಶಯದ ಒಳಗೆ ಇರುವ ಅಂಡಕಗಳು, ನಿಷೇಚನದ ನಂತರ ಬೀಜಗಳಾಗಿ ಬೆಳೆಯುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಟೊಮ್ಯಾಟೊ ಹೂವಿನ ಅಂಡಾಶಯವು ಸಂಪೂರ್ಣ ಟೊಮ್ಯಾಟೊ ಹಣ್ಣಾಗಿ ಬೆಳೆಯುತ್ತದೆ ಮತ್ತು ಅದರೊಳಗಿನ ಅಂಡಕಗಳು ಬೀಜಗಳಾಗುತ್ತವೆ. ಇದು ಸಸ್ಯದ ಸಂತಾನ ಮುಂದುವರಿಸಲು ಅತ್ಯಗತ್ಯ.",
+  "script_display": "ಹಾಗಾದರೆ ಅಂಡಾಶಯದಿಂದ ಹಣ್ಣು ಹೇಗೆ உருவாகುತ್ತದೆ? ಇಲ್ಲಿ ಗಮನಿಸಿ. ಹೂವಿನ ಅಂಡಾಶಯದ ಗೋಡೆಯು ಬೆಳೆದು ಹಣ್ಣಿನ ಗೋಡೆಯಾಗಿ (pericarp), ಬದಲಾಗುತ್ತದೆ. ಇದೇ ನಾವು ತಿನ್ನುವ ಭಾಗ. ಇನ್ನು ಅಂಡಾಶಯದ ಒಳಗೆ ಇರುವ ಅಂಡಕಗಳು (ovules), ನಿಷೇಚನದ ನಂತರ ಬೀಜಗಳಾಗಿ ಬೆಳೆಯುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಟೊಮ್ಯಾಟೊ ಹೂವಿನ ಅಂಡಾಶಯವು ಸಂಪೂರ್ಣ ಟೊಮ್ಯಾಟೊ ಹಣ್ಣಾಗಿ ಬೆಳೆಯುತ್ತದೆ ಮತ್ತು ಅದರೊಳಗಿನ ಅಂಡಕಗಳು ಬೀಜಗಳಾಗುತ್ತವೆ. ಇದು ಸಸ್ಯದ ಸಂತಾನ ಮುಂದುವರಿಸಲು ಅತ್ಯಗತ್ಯ.",
+  "display_bullets": [
+    "ಹೂವಿನ ಅಂಡಾಶಯದ ಗೋಡೆಯು ಹಣ್ಣಿನ ಗೋಡೆಯಾಗಿ (pericarp) ಬೆಳೆಯುತ್ತದೆ.",
+    "ಅಂಡಾಶಯದ ಒಳಗಿರುವ ಅಂಡಕಗಳು (ovules) ಬೀಜಗಳಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತವೆ.",
+    "ಉದಾಹರಣೆ: ಟೊಮ್ಯಾಟೊ ಹೂವಿನ ಅಂಡಾಶಯವು ಟೊಮ್ಯಾಟೊ ಹಣ್ಣಾಗಿ ಬೆಳೆಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the development of a fruit from a flower's ovary. On the left, a flower with a labeled ovary. An arrow points to the right, showing a fully formed fruit (e.g., a tomato), with labels indicating that the ovary wall has become the fruit flesh (pericarp) and the ovules have become seeds.",
+    "labels": "Flower, Ovary, Ovule, Fruit, Pericarp, Seed",
+    "scientific_significance": "Visually demonstrates the biological origin of a fruit from a flower's ovary, clarifying the relationship between the ovary, ovule, fruit, and seed.",
+    "placeholder_note": "Image to be generated showing ovary-to-fruit transformation."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "medium",
+  "chunk_id": "std_7_chapter_8_concept_6_chunk_013"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಕೋನದ ಲಕ್ಷಣ",
+  "script": "ಅಂತರ್ವಕ್ರ ಬಹುಭುಜವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿರುವ ಆಕೃತಿಯನ್ನು ಗಮನಿಸಿ. ಇದು ಒಂದು ಬಹುಭುಜ. ಇದರಲ್ಲಿ ನಾನು ಈಗ ಗುರುತಿಸುತ್ತಿರುವ ಒಳಕೋನವನ್ನು ನೋಡಿ. ಈ ಕೋನವು ಸ್ಪಷ್ಟವಾಗಿ ಒಂದು ಸರಳ ರೇಖೆಗಿಂತ, ಅಂದರೆ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿಗಿಂತ ದೊಡ್ಡದಾಗಿದೆ. ಇಂತಹ ಕೋನವನ್ನು ನಾವು ಪ್ರತಿಫಲಿತ ಕೋನ ಅಥವಾ ರಿಫ್ಲೆಕ್ಸ್ ಆಂಗಲ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಒಂದು ಬಹುಭುಜದಲ್ಲಿ ಈ ರೀತಿ ಒಂದೇ ಒಂದು ಕೋನವಿದ್ದರೂ ಸಾಕು, ಅದನ್ನು ನಾವು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜದ ಪ್ರಮುಖ ಗುರುತಾಗಿದೆ.",
+  "script_display": "ಅಂತರ್ವಕ್ರ ಬಹುಭುಜವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿರುವ ಆಕೃತಿಯನ್ನು ಗಮನಿಸಿ. ಇದು ಒಂದು ಬಹುಭುಜ. ಇದರಲ್ಲಿ ನಾನು ಈಗ ಗುರುತಿಸುತ್ತಿರುವ ಒಳಕೋನವನ್ನು ನೋಡಿ. ಈ ಕೋನವು ಸ್ಪಷ್ಟವಾಗಿ ಒಂದು ಸರಳ ರೇಖೆಗಿಂತ, ಅಂದರೆ $180°$ ಗಿಂತ ದೊಡ್ಡದಾಗಿದೆ. ಇಂತಹ ಕೋನವನ್ನು ನಾವು ಪ್ರತಿಫಲಿತ ಕೋನ (reflex angle) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಒಂದು ಬಹುಭುಜದಲ್ಲಿ ಈ ರೀತಿ ಒಂದೇ ಒಂದು ಕೋನವಿದ್ದರೂ ಸಾಕು, ಅದನ್ನು ನಾವು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜದ ಪ್ರಮುಖ ಗುರುತಾಗಿದೆ.",
+  "display_bullets": [
+    "ಈ ಆಕೃತಿಯಲ್ಲಿ, ಒಂದು ಒಳಕೋನವು $180°$ ಗಿಂತ ಹೆಚ್ಚಾಗಿದೆ (ಪ್ರತಿಫಲಿತ ಕೋನ).",
+    "ಈ ಒಂದು ಲಕ್ಷಣವೇ ಇದನ್ನು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜವನ್ನಾಗಿ ಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An arrowhead-shaped concave polygon. The interior reflex angle (>180°) is highlighted with an arc and a label 'ಕೋನ > 180°'.",
+    "labels": "ಅಂತರ್ವಕ್ರ ಬಹುಭುಜ, ಪ್ರತಿಫಲಿತ ಕೋನ",
+    "mathematical_significance": "Visually demonstrates the primary characteristic of a concave polygon: having an interior angle greater than 180 degrees.",
+    "placeholder_note": "Image to be generated: Arrowhead polygon with the large interior angle clearly marked."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_1_chunk_024"
+}

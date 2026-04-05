@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ವಿಧಾನ 1: ಅಮನ್ ವಿಧಾನ",
+  "script": "ಮೊದಲು, ಅಮನ್ ಅವರ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಷಡ್ಭುಜವನ್ನು ಎರಡು ಸರ್ವಸಮ ತ್ರಾಪಿಜ್ಯಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ. ಒಂದು ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿದು, ಅದನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಿದರೆ ಪೂರ್ಣ ಷಡ್ಭುಜದ ವಿಸ್ತೀರ್ಣ ಸಿಗುತ್ತದೆ. ಇಲ್ಲಿ, ತ್ರಾಪಿಜ್ಯದ ಸಮಾಂತರ ಬಾಹುಗಳು 11 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು 5 ಸೆಂಟಿಮೀಟರ್, ಮತ್ತು ಎತ್ತರ 4 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಹಾಗಾಗಿ, ಒಂದು ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣವು ಒಂದನೇ ಎರಡು ಗುಣಿಸು ನಾಲ್ಕು ಗುಣಿಸು ಹನ್ನೊಂದು ಪ್ಲಸ್ ಐದು ಆಗುತ್ತದೆ. ಇದು ಎರಡು ಗುಣಿಸು ಹದಿನಾರು, ಅಂದರೆ 32 ಚದರ ಸೆಂಟಿಮೀಟರ್ ಆಗುತ್ತದೆ. ಷಡ್ಭುಜದ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವು ಎರಡು ಗುಣಿಸು 32, ಅಂದರೆ 64 ಚದರ ಸೆಂಟಿಮೀಟರ್ ಆಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲು, ಅಮನ್ ಅವರ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ, ಷಡ್ಭುಜವನ್ನು ಎರಡು ಸರ್ವಸಮ ತ್ರಾಪಿಜ್ಯಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ. ಒಂದು ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿದು, ಅದನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಿದರೆ ಪೂರ್ಣ ಷಡ್ಭುಜದ ವಿಸ್ತೀರ್ಣ ಸಿಗುತ್ತದೆ. ಇಲ್ಲಿ, ತ್ರಾಪಿಜ್ಯದ ಸಮಾಂತರ ಬಾಹುಗಳು 11 cm ಮತ್ತು 5 cm, ಮತ್ತು ಎತ್ತರ 4 cm ಆಗಿದೆ. ಹಾಗಾಗಿ, ಒಂದು ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣವು $\\frac{1}{2} \\times 4 \\times (11+5)$ ಆಗುತ್ತದೆ. ಇದು $2 \\times 16$, ಅಂದರೆ 32 sq. cm ಆಗುತ್ತದೆ. ಷಡ್ಭುಜದ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವು $2 \\times 32$, ಅಂದರೆ 64 sq. cm ಆಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram focusing on Aman's method. Show the hexagon MNOPQR being split into two identical trapeziums. Label the dimensions used in the calculation: parallel sides 'a=11' and 'b=5', and height 'h=4' for one of the trapeziums.",
+    "labels": "a, b, h, 11 cm, 5 cm, 4 cm",
+    "mathematical_significance": "Visualizes the decomposition of the hexagon into two trapeziums, making the area calculation strategy clear.",
+    "placeholder_note": "Image to be generated for Aman's method."
+  },
+  "source_example_id": "MEN-MEN-2_example_3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ವಿಭಜನೆ: ಷಡ್ಭುಜವನ್ನು ಎರಡು ಸರ್ವಸಮ ತ್ರಾಪಿಜ್ಯಗಳಾಗಿ ವಿಭಜಿಸಲಾಗಿದೆ.",
+      "justification": "ಒಂದು ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿದು 2 ರಿಂದ ಗುಣಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣ = $\\frac{1}{2} \\times h \\times (a+b) = \\frac{1}{2} \\times 4 \\times (11+5) = 2 \\times 16 = 32$ ಚ.ಸೆಂ.ಮೀ.",
+      "justification": "ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವನ್ನು ಬಳಸಿ. ಇಲ್ಲಿ $a=11$ cm, $b=5$ cm, $h=4$ cm."
+    },
+    {
+      "step": 3,
+      "action_display": "ಷಡ್ಭುಜದ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ = $2 \\times$ ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣ = $2 \\times 32 = 64$ ಚ.ಸೆಂ.ಮೀ.",
+      "justification": "ಎರಡು ಸರ್ವಸಮ ತ್ರಾಪಿಜ್ಯಗಳಿರುವುದರಿಂದ ವಿಸ್ತೀರ್ಣವನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಲಾಗಿದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "MEN-MEN-2_concept_1_chunk_036"
+}

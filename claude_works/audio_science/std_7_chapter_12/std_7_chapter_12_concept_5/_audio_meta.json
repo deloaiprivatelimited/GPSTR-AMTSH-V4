@@ -1,0 +1,59 @@
+{
+  "module_id": "std_7_chapter_12_concept_5",
+  "chapter_code": "std_7_chapter_12",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 4,
+  "ok_count": 4,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:51:20",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "4e9eaf8d8058201006730636f30623c5",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 27.251,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 38,
+      "generated_at": "2026-04-02 13:50:39"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "97df6e9ba92407e3d77dbcc39d930bfa",
+      "wav_file": "001_intro_0.wav",
+      "duration": 39.971,
+      "slide_title": "ಕಾಡುಗಳು ಮತ್ತು ಪರಿಸರ ಸಮತೋಲನ",
+      "type": "chunk",
+      "script_words": 67,
+      "generated_at": "2026-04-02 13:50:49"
+    },
+    "004_recap_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "af1f43576ae8bbb291b3138c6ad80e0b",
+      "wav_file": "004_recap_0.wav",
+      "duration": 35.131,
+      "slide_title": "ಸಾರಾಂಶ: ಕಾಡುಗಳು ಮತ್ತು ಪರಿಸರ ಸಮತೋಲನ",
+      "type": "recap",
+      "script_words": 48,
+      "generated_at": "2026-04-02 13:50:54"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "c31abec85c5fe6ae56c8538c1dc6898e",
+      "wav_file": "003_property_0.wav",
+      "duration": 70.811,
+      "slide_title": "ಪರಿಸರ ಸಮತೋಲನದಲ್ಲಿ ಕಾಡುಗಳ ಪಾತ್ರ",
+      "type": "concept_explanation",
+      "script_words": 105,
+      "generated_at": "2026-04-02 13:51:20"
+    }
+  }
+}

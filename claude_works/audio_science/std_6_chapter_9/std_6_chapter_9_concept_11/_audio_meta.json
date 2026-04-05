@@ -1,0 +1,103 @@
+{
+  "module_id": "std_6_chapter_9_concept_11",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:35:23",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "37ecbf979acf45ac1460aa46a228fe51",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.051,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ (Prerequisites)",
+      "type": "chunk",
+      "script_words": 37,
+      "generated_at": "2026-04-02 16:33:57"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "3de964889940a956d5cc28388e3cae35",
+      "wav_file": "001_intro_0.wav",
+      "duration": 49.851,
+      "slide_title": "ಪರಿಚಯ: ಕಾಂತೀಯ ಬೇರ್ಪಡಿಸುವಿಕೆ",
+      "type": "chunk",
+      "script_words": 63,
+      "generated_at": "2026-04-02 16:34:13"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "ba69f14d89f92b550b8cb48ac466612f",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 40.171,
+      "slide_title": "ಹೋಲಿಕೆ: ಯಾವಾಗ ಸಾಧ್ಯ? ಯಾವಾಗ ಸಾಧ್ಯವಿಲ್ಲ?",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 16:34:17"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "1b2e6b8dbc65a349594dc1f14941e0a9",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 40.091,
+      "slide_title": "ವಿಧಾನದ ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 16:34:19"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "fc04423e4e4abfb35afa082221f7f9b7",
+      "wav_file": "003_definition_0.wav",
+      "duration": 35.811,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಕಾಂತೀಯ ಬೇರ್ಪಡಿಸುವಿಕೆ",
+      "type": "definition",
+      "script_words": 46,
+      "generated_at": "2026-04-02 16:34:22"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "3f10cf548817bb2eab233f05f90e5a04",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 44.611,
+      "slide_title": "ನೈಜ ಪ್ರಪಂಚದ ಅನ್ವಯಗಳು",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 16:35:09"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "b96ab70d3df4e9732e4d5ea0d1b67d1d",
+      "wav_file": "008_recap_0.wav",
+      "duration": 41.091,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 42,
+      "generated_at": "2026-04-02 16:35:15"
+    },
+    "007_property_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "ab85637f1d711fb91dc483796c8476e4",
+      "wav_file": "007_property_0.wav",
+      "duration": 54.011,
+      "slide_title": "ಕಾಂತೀಯ ಬೇರ್ಪಡಿಸುವಿಕೆಯ ತತ್ವ",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 16:35:23"
+    }
+  }
+}

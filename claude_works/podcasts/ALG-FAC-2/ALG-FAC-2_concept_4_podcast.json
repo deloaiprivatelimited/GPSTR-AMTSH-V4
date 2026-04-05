@@ -1,0 +1,192 @@
+{
+  "module_id": "ALG-FAC-2_concept_4",
+  "module_title": "ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಅಪವರ್ತಿಸುವಿಕೆ (Factorisation using Standard Identities)",
+  "podcast_meta": {
+    "estimated_duration_minutes": 5,
+    "total_dialogues": 29,
+    "sections_covered": [
+      "intro",
+      "formula",
+      "example",
+      "exam_tips",
+      "recap"
+    ],
+    "content_density": "heavy"
+  },
+  "dialogues": [
+    {
+      "index": 1,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ. ಜಿ ಪಿ ಎಸ್ ಟಿ ಆರ್ ಗಣಿತ revision podcast ಗೆ ಸ್ವಾಗತ. ಇಂದು ನಾವು ಬೀಜಗಣಿತದ ಒಂದು ಪ್ರಮುಖ ವಿಷಯ, ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಿ ಅಪವರ್ತಿಸುವಿಕೆ ಬಗ್ಗೆ ಕಲಿಯೋಣ."
+    },
+    {
+      "index": 2,
+      "speaker": "student",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ ಗುರುಗಳೇ. ಹೌದು, ಇದು ಪ್ಯಾಟರ್ನ್ ಗುರುತಿಸುವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಷಯ ಅಲ್ವಾ? ಪರೀಕ್ಷೆಯಲ್ಲಿ ಸಮಯ ಉಳಿಸಲು ಇದು ತುಂಬಾ ಮುಖ್ಯ."
+    },
+    {
+      "index": 3,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಖಂಡಿತ. ಮೊದಲನೇ ನಿತ್ಯಸಮೀಕರಣ, a plus b whole squared equals a squared plus two a b plus b squared."
+    },
+    {
+      "index": 4,
+      "speaker": "student",
+      "section": "formula",
+      "script": "ಅಂದರೆ, ಒಂದು ಬೀಜೋಕ್ತಿ a squared plus two a b plus b squared ರೂಪದಲ್ಲಿದ್ದರೆ, ನಾವು ಅದನ್ನು ನೇರವಾಗಿ a plus b whole squared ಅಂತ ಬರೆಯಬಹುದು, ಸರಿ ತಾನೇ?"
+    },
+    {
+      "index": 5,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಹೌದು. ಇಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಗಮನಿಸಬೇಕಾದದ್ದು, ಮೊದಲನೇ ಪದ ಮತ್ತು ಕೊನೆಯ ಪದ ಪೂರ್ಣ ವರ್ಗಗಳಾಗಿರಬೇಕು. ಹಾಗೂ ಮಧ್ಯದ ಪದವು ಎರಡು ಇಂಟು ಮೊದಲ ಪದದ ವರ್ಗಮೂಲ ಇಂಟು ಕೊನೆಯ ಪದದ ವರ್ಗಮೂಲ ಆಗಿರಬೇಕು."
+    },
+    {
+      "index": 6,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಇದೇ ರೀತಿ ಎರಡನೇ ನಿತ್ಯಸಮೀಕರಣ, a minus b whole squared equals a squared minus two a b plus b squared."
+    },
+    {
+      "index": 7,
+      "speaker": "student",
+      "section": "formula",
+      "script": "ಓಕೆ, ಇದಕ್ಕೂ ಮೊದಲಿನದಕ್ಕೂ ಇರೋ ವ್ಯತ್ಯಾಸ ಕೇವಲ ಮಧ್ಯದ ಪದದ ಚಿಹ್ನೆ ಮಾತ್ರ. ಅಲ್ಲಿ ಪ್ಲಸ್ two a b ಇತ್ತು, ಇಲ್ಲಿ ಮೈನಸ್ two a b ಇದೆ."
+    },
+    {
+      "index": 8,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ನಿಖರವಾಗಿ. ಮೂರನೆಯ ಮತ್ತು ಅತಿ ಹೆಚ್ಚು ಬಳಸುವ ನಿತ್ಯಸಮೀಕರಣ, a squared minus b squared equals a plus b into a minus b."
+    },
+    {
+      "index": 9,
+      "speaker": "student",
+      "section": "formula",
+      "script": "ಇದು ಸ್ವಲ್ಪ ಭಿನ್ನವಾಗಿದೆ. ಇದರಲ್ಲಿ ಕೇವಲ ಎರಡು ಪದಗಳಿವೆ. ಒಂದು ವರ್ಗದಿಂದ ಇನ್ನೊಂದು ವರ್ಗವನ್ನು ಕಳೆದಾಗ ಇದನ್ನು ಬಳಸುತ್ತೇವೆ, ಅಲ್ವಾ?"
+    },
+    {
+      "index": 10,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಹೌದು, ಇದನ್ನ 'ಎರಡು ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸ' ಅಂತ ಕರೆಯುತ್ತೇವೆ. ಎರಡು ಪೂರ್ಣ ವರ್ಗಗಳ ನಡುವೆ ಮೈನಸ್ ಚಿಹ್ನೆ ಇದ್ದರೆ ಮಾತ್ರ ಇದನ್ನು ಅನ್ವಯಿಸಬಹುದು."
+    },
+    {
+      "index": 11,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಈಗ ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು, x squared plus eight x plus sixteen ಅನ್ನು ಅಪವರ್ತಿಸಿ."
+    },
+    {
+      "index": 12,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಇದರಲ್ಲಿ ಮೂರು ಪದಗಳಿವೆ ಮತ್ತು ಎಲ್ಲಾ ಚಿಹ್ನೆಗಳು ಪ್ಲಸ್ ಇವೆ. ಇದು ಮೊದಲನೇ ನಿತ್ಯಸಮೀಕರಣದ ಹಾಗೆ ಕಾಣುತ್ತಿದೆ. ಇಲ್ಲಿ x squared ಅಂದರೆ a squared. ಹದಿನಾರು ಅಂದರೆ ನಾಲ್ಕರ ವರ್ಗ, ಅದು b squared."
+    },
+    {
+      "index": 13,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಸರಿ. ಈಗ ಮಧ್ಯದ ಪದವನ್ನು ತಾಳೆ ನೋಡಬೇಕು. two a b ಅಂದರೆ, two into x into four. ಇದು eight x ಆಗುತ್ತದೆ. ನಮ್ಮ ಲೆಕ್ಕದಲ್ಲಿಯೂ eight x ಇದೆ."
+    },
+    {
+      "index": 14,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಹಾಗಾದರೆ ಇದು ನಿಖರವಾಗಿ a plus b whole squared ರೂಪದಲ್ಲಿದೆ. ಉತ್ತರ x plus four whole squared."
+    },
+    {
+      "index": 15,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಉತ್ತಮ. ಇನ್ನೊಂದು ಉದಾಹರಣೆ. four y squared minus twelve y plus nine."
+    },
+    {
+      "index": 16,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಇಲ್ಲಿ ಮೊದಲ ಪದ four y squared ಅಂದರೆ two y whole squared. ಕೊನೆಯ ಪದ nine ಅಂದರೆ three squared. ಮಧ್ಯದಲ್ಲಿ ಮೈನಸ್ ಚಿಹ್ನೆ ಇದೆ. ಹಾಗಾಗಿ ಇದು ಎರಡನೇ ನಿತ್ಯಸಮೀಕರಣದ ಮಾದರಿ."
+    },
+    {
+      "index": 17,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಸರಿ, ಈಗ two a b ಯನ್ನು ಪರೀಕ್ಷಿಸು. ಇಲ್ಲಿ a ಅಂದರೆ two y, b ಅಂದರೆ three. ಹಾಗಾಗಿ two into two y into three ಅಂದರೆ twelve y. ಇದು ನಮ್ಮ ಲೆಕ್ಕದ ಮಧ್ಯದ ಪದಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ."
+    },
+    {
+      "index": 18,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಓಕೆ, ಹಾಗಿದ್ದರೆ ಉತ್ತರ two y minus three whole squared."
+    },
+    {
+      "index": 19,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಈಗ ಮೂರನೇ ನಿತ್ಯಸಮೀಕರಣಕ್ಕೆ ಒಂದು ಉದಾಹರಣೆ. forty nine p squared minus thirty six."
+    },
+    {
+      "index": 20,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಇದರಲ್ಲಿ ಎರಡೇ ಪದಗಳಿವೆ ಮತ್ತು ನಡುವೆ ಮೈನಸ್ ಚಿಹ್ನೆ ಇದೆ. forty nine p squared ಅಂದರೆ seven p whole squared. thirty six ಅಂದರೆ six squared. ഇത് a squared minus b squared ರೂಪದಲ್ಲಿದೆ."
+    },
+    {
+      "index": 21,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಹೌದು. ಹಾಗಾಗಿ ಉತ್ತರ a plus b into a minus b ರೂಪದಲ್ಲಿ ಇರುತ್ತದೆ. ಅಂದರೆ seven p plus six into seven p minus six."
+    },
+    {
+      "index": 22,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಈಗ ಒಂದು ಸ್ವಲ್ಪ ಕ್ಲಿಷ್ಟಕರವಾದ ಲೆಕ್ಕ ನೋಡೋಣ. m to the power four minus two fifty six."
+    },
+    {
+      "index": 23,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಇದನ್ನೂ a squared minus b squared ರೂಪದಲ್ಲಿ ಬರೆಯಬಹುದೇ? m to the power four ಅನ್ನು m squared whole squared ಅಂತ ಬರೆಯಬಹುದು. two fifty six ಎಂಬುದು sixteen ನ ವರ್ಗ."
+    },
+    {
+      "index": 24,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಅತ್ಯುತ್ತಮ. ಹಾಗಾದರೆ ಇದು m squared whole squared minus sixteen squared. ನಿತ್ಯಸಮೀಕರಣ ಅನ್ವಯಿಸಿದಾಗ m squared minus sixteen into m squared plus sixteen ಆಗುತ್ತದೆ. ಇಲ್ಲಿಗೆ ಲೆಕ್ಕ ಮುಗಿಯಿತೇ?"
+    },
+    {
+      "index": 25,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಓಹ್ ಹೌದು! m squared minus sixteen ಕೂಡ a squared minus b squared ರೂಪದಲ್ಲಿದೆ. ಅಂದರೆ m squared minus four squared. ಇದನ್ನು ಮತ್ತೆ m minus four into m plus four ಅಂತ ಅಪವರ್ತಿಸಬಹುದು."
+    },
+    {
+      "index": 26,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಸರಿಯಾಗಿ ಹೇಳಿದೆ. ಹಾಗಾಗಿ, ಅಂತಿಮ ಉತ್ತರ m minus four into m plus four into m squared plus sixteen. m squared plus sixteen ಅನ್ನು ನಾವು ಅಪವರ್ತಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+    },
+    {
+      "index": 27,
+      "speaker": "student",
+      "section": "exam_tips",
+      "script": "ಗುರುಗಳೇ, ಪರೀಕ್ಷೆಯಲ್ಲಿ ಈ ವಿಷಯದ ಮೇಲೆ ಯಾವ ತರಹದ ಪ್ರಶ್ನೆಗಳು ಬರುತ್ತವೆ? ಮತ್ತು ಯಾವ ತಪ್ಪುಗಳನ್ನು ತಪ್ಪಿಸಬೇಕು?"
+    },
+    {
+      "index": 28,
+      "speaker": "teacher",
+      "section": "exam_tips",
+      "script": "ಬಹು ಆಯ್ಕೆ ಪ್ರಶ್ನೆಗಳಲ್ಲಿ ಮಾದರಿ ಗುರುತಿಸಲು, ಎರಡು ಅಂಕಗಳಿಗೆ ನೇರ ಅಪವರ್ತಿಸುವಿಕೆ, ಮತ್ತು ಹೆಚ್ಚು ಅಂಕಗಳಿಗೆ m to the power four ನಂತಹ ಬಹು-ಹಂತದ ಲೆಕ್ಕಗಳು ಬರಬಹುದು. ಮುಖ್ಯವಾಗಿ, ಅಪವರ್ತಿಸುವಿಕೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಬೇಕು, ಅರ್ಧಕ್ಕೆ ನಿಲ್ಲಿಸಬಾರದು."
+    },
+    {
+      "index": 29,
+      "speaker": "teacher",
+      "section": "recap",
+      "script": "ಒಟ್ಟಾರೆಯಾಗಿ, ಮೂರು ಮಾದರಿಗಳನ್ನು ನೆನಪಿಡಿ. ಬೀಜೋಕ್ತಿಯು ಈ ಮೂರರಲ್ಲಿ ಯಾವ ಮಾದರಿಯಲ್ಲಿದೆ ಎಂದು ಗುರುತಿಸುವುದು ಮೊದಲ ಹೆಜ್ಜೆ. ಮುಂದಿನ ಸಂಚಿಕೆಯಲ್ಲಿ ಭೇಟಿಯಾಗೋಣ. ಚೆನ್ನಾಗಿ ಅಭ್ಯಾಸ ಮಾಡಿ."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1",
+  "script": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಆವೃತ್ತಿಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಆವೃತ್ತಿಯ ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, ಒಂದು ಸೆಕೆಂಡಿನಲ್ಲಿ ಆಗುವ ಆಂದೋಲನಗಳ ಸಂಖ್ಯೆಯೇ ಆವೃತ್ತಿ. ಆದ್ದರಿಂದ, ಆವೃತ್ತಿ ಎಂದರೆ ಒಟ್ಟು ಆಂದೋಲನಗಳ ಸಂಖ್ಯೆಯನ್ನು ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಸಮಯದಿಂದ ಭಾಗಿಸುವುದು. ಇಲ್ಲಿ, ನಲವತ್ತನ್ನು ನಾಲ್ಕರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ ಹತ್ತು ಹರ್ಟ್ಸ್ ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, ಆವೃತ್ತಿಯು ಹತ್ತು ಹರ್ಟ್ಸ್ ಆಗಿದೆ.",
+  "script_display": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಆವೃತ್ತಿಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಆವೃತ್ತಿಯ ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, ಒಂದು ಸೆಕೆಂಡಿನಲ್ಲಿ ಆಗುವ ಆಂದೋಲನಗಳ ಸಂಖ್ಯೆಯೇ ಆವೃತ್ತಿ. ಆದ್ದರಿಂದ, ಆವೃತ್ತಿ = (ಒಟ್ಟು ಆಂದೋಲನಗಳ ಸಂಖ್ಯೆ) / (ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಸಮಯ). ಇಲ್ಲಿ, f = 40 / 4 = 10 Hz. ಹಾಗಾಗಿ, ಆವೃತ್ತಿಯು 10 Hz ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಹಂತ 1: ಆವೃತ್ತಿಯನ್ನು (f) ಕಂಡುಹಿಡಿಯುವುದು.",
+    "ಆವೃತ್ತಿ = (ಒಟ್ಟು ಆಂದೋಲನಗಳ ಸಂಖ್ಯೆ) / (ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಸಮಯ)",
+    "f = 40 / 4 = 10 Hz"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_step_walkthrough_template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "f = \\frac{\\text{ಆಂದೋಲನಗಳ ಸಂಖ್ಯೆ}}{\\text{ಸಮಯ}} = \\frac{40}{4 \\text{ s}} = 10 \\text{ Hz}",
+    "placeholder_note": "Formula box showing the calculation for frequency."
+  },
+  "sub_type": "step_walkthrough",
+  "source_example_id": "std_8_chapter_10_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಆವೃತ್ತಿಯನ್ನು (f) ಕಂಡುಹಿಡಿಯುವುದು.",
+      "justification": "ಆವೃತ್ತಿಯ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, f = (ಒಟ್ಟು ಆಂದೋಲನಗಳು) / (ತೆಗೆದುಕೊಂಡ ಸಮಯ)."
+    }
+  ],
+  "chunk_id": "std_8_chapter_10_concept_4_chunk_027"
+}

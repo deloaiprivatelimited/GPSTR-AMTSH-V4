@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕಾಂತೀಯ ಆಕರ್ಷಣೆ ಮತ್ತು ವಿಕರ್ಷಣೆ",
+  "script": "ಈ ನಿಯಮವನ್ನು ಹೀಗೆ ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಹೇಳಬಹುದು. ಉತ್ತರ ಧ್ರುವ ಮತ್ತು ಉತ್ತರ ಧ್ರುವ, ಅಂದರೆ ಎನ್ ಮತ್ತು ಎನ್, ಅಥವಾ ದಕ್ಷಿಣ ಧ್ರುವ ಮತ್ತು ದಕ್ಷಿಣ ಧ್ರುವ, ಅಂದರೆ ಎಸ್ ಮತ್ತು ಎಸ್, ಇವುಗಳ ನಡುವೆ ವಿಕರ್ಷಣೆ ಉಂಟಾಗುತ್ತದೆ. ಅವು ಒಂದರಿಂದೊಂದು ದೂರ ಸರಿಯುತ್ತವೆ. ಆದರೆ, ಉತ್ತರ ಧ್ರುವ ಮತ್ತು ದಕ್ಷಿಣ ಧ್ರುವ, ಅಂದರೆ ಎನ್ ಮತ್ತು ಎಸ್, ಇವುಗಳ ನಡುವೆ ಆಕರ್ಷಣೆ ಉಂಟಾಗುತ್ತದೆ. ಅವು ಒಂದನ್ನೊಂದು ಸೆಳೆದುಕೊಳ್ಳುತ್ತವೆ. ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಸುಲಭ: ಒಂದೇ ರೀತಿ ಇದ್ದರೆ ಜಗಳ, ಬೇರೆ ಬೇರೆ ಇದ್ದರೆ ಸ್ನೇಹ.",
+  "script_display": "ಈ ನಿಯಮವನ್ನು ಹೀಗೆ ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಹೇಳಬಹುದು. ಉತ್ತರ ಧ್ರುವ ಮತ್ತು ಉತ್ತರ ಧ್ರುವ (N-N) ಅಥವಾ ದಕ್ಷಿಣ ಧ್ರುವ ಮತ್ತು ದಕ್ಷಿಣ ಧ್ರುವ (S-S) ಇವುಗಳ ನಡುವೆ ವಿಕರ್ಷಣೆ ಉಂಟಾಗುತ್ತದೆ. ಅವು ಒಂದರಿಂದೊಂದು ದೂರ ಸರಿಯುತ್ತವೆ. ಆದರೆ, ಉತ್ತರ ಧ್ರುವ ಮತ್ತು ದಕ್ಷಿಣ ಧ್ರುವ (N-S) ಇವುಗಳ ನಡುವೆ ಆಕರ್ಷಣೆ ಉಂಟಾಗುತ್ತದೆ. ಅವು ಒಂದನ್ನೊಂದು ಸೆಳೆದುಕೊಳ್ಳುತ್ತವೆ. ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಸುಲಭ: ಒಂದೇ ರೀತಿ ಇದ್ದರೆ ಜಗಳ, ಬೇರೆ ಬೇರೆ ಇದ್ದರೆ ಸ್ನೇಹ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_and_explanation",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\begin{cases} \\text{N} \\longleftrightarrow \\text{N} & \\rightarrow \\text{ವಿಕರ್ಷಣೆ (Repulsion)} \\\\ \\text{S} \\longleftrightarrow \\text{S} & \\rightarrow \\text{ವಿಕರ್ಷಣೆ (Repulsion)} \\\\ \\text{N} \\leftrightarrow \\text{S} & \\rightarrow \\text{ಆಕರ್ಷಣೆ (Attraction)} \\end{cases}",
+    "placeholder_note": "A formula box showing N-N repulsion, S-S repulsion, and N-S attraction."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_6_chapter_4_concept_5_chunk_005"
+}

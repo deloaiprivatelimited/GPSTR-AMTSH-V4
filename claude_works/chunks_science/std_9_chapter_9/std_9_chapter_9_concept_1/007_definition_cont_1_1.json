@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸ್ಪರ್ಶಕದ ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಇಲ್ಲಿ ನೀಲಿ ಬಣ್ಣದಲ್ಲಿ ಒಂದು ವೃತ್ತವಿದೆ. ಕೆಂಪು ಬಣ್ಣದ ಸರಳರೇಖೆಯು ವೃತ್ತವನ್ನು 'B' ಎಂಬ ಒಂದೇ ಬಿಂದುವಿನಲ್ಲಿ ಸ್ಪರ್ಶಿಸುತ್ತಿದೆ. ಆದ್ದರಿಂದ, ಈ ಕೆಂಪು ರೇಖೆಯು ವೃತ್ತದ ಸ್ಪರ್ಶಕವಾಗಿದೆ. 'B' ಬಿಂದುವನ್ನು ಸ್ಪರ್ಶ ಬಿಂದು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಸ್ಪರ್ಶಕವು ವೃತ್ತದ ತ್ರಿಜ್ಯಕ್ಕೆ ಆ ಸ್ಪರ್ಶ ಬಿಂದುವಿನಲ್ಲಿ ಯಾವಾಗಲೂ ಲಂಬವಾಗಿರುತ್ತದೆ, ಅಂದರೆ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಇದು ಸ್ಪರ್ಶಕದ ಒಂದು ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವಾಗಿದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಇಲ್ಲಿ ನೀಲಿ ಬಣ್ಣದಲ್ಲಿ ಒಂದು ವೃತ್ತವಿದೆ. ಕೆಂಪು ಬಣ್ಣದ ಸರಳರೇಖೆಯು ವೃತ್ತವನ್ನು 'B' ಎಂಬ ಒಂದೇ ಬಿಂದುವಿನಲ್ಲಿ ಸ್ಪರ್ಶಿಸುತ್ತಿದೆ. ಆದ್ದರಿಂದ, ಈ ಕೆಂಪು ರೇಖೆಯು ವೃತ್ತದ ಸ್ಪರ್ಶಕವಾಗಿದೆ. 'B' ಬಿಂದುವನ್ನು ಸ್ಪರ್ಶ ಬಿಂದು (point of contact) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಸ್ಪರ್ಶಕವು ವೃತ್ತದ ತ್ರಿಜ್ಯಕ್ಕೆ ಆ ಸ್ಪರ್ಶ ಬಿಂದುವಿನಲ್ಲಿ ಯಾವಾಗಲೂ ಲಂಬವಾಗಿರುತ್ತದೆ (90°), ಅಂದರೆ 90 ಡಿಗ್ರಿ ಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಇದು ಸ್ಪರ್ಶಕದ ಒಂದು ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ವೃತ್ತವನ್ನು ಒಂದೇ ಬಿಂದುವಿನಲ್ಲಿ (B) ಸ್ಪರ್ಶಿಸುವ ಸರಳರೇಖೆ.",
+    "ಈ ರೇಖೆಯನ್ನೇ 'ಸ್ಪರ್ಶಕ' (Tangent) ಎನ್ನುತ್ತೇವೆ.",
+    "ಸ್ಪರ್ಶಕವು ಸ್ಪರ್ಶ ಬಿಂದುವಿನಲ್ಲಿ ತ್ರಿಜ್ಯಕ್ಕೆ ಲಂಬವಾಗಿರುತ್ತದೆ (90°)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a blue circle with its center marked as 'O'. A red straight line is shown touching the circle at a single point, labeled 'B'. A radius is drawn from the center 'O' to the point 'B'. A right-angle symbol is shown where the radius meets the tangent line.",
+    "labels": "ವೃತ್ತ (Circle), ಸ್ಪರ್ಶಕ (Tangent), ಸ್ಪರ್ಶ ಬಿಂದು (Point of Contact B), ಕೇಂದ್ರ (Center O), ತ್ರಿಜ್ಯ (Radius)",
+    "scientific_significance": "Visually defines a tangent and its relationship to the radius of a circle at the point of contact, which is a fundamental geometric property relevant to physics.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_9_concept_1_chunk_007"
+}

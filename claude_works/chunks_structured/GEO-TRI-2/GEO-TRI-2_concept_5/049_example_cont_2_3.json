@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ತೀರ್ಮಾನ",
+  "script": "ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಎರಡು ಬಾಹುಗಳು ಸಮವಾಗಿದ್ದರೆ, ಅದನ್ನು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ನಾವು ತ್ರಿಭುಜ ಪಿ ಕ್ಯೂ ಆರ್ ನಲ್ಲಿ, ಪಿ ಕ್ಯೂ ಎಂಬುದು ಪಿ ಆರ್ ಗೆ ಸಮ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ತ್ರಿಭುಜ ಪಿ ಕ್ಯೂ ಆರ್ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜವಾಗಿದೆ. ಹೀಗೆ ನಾವು ಸಮಸ್ಯೆಯನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ.",
+  "script_display": "ಒಂದು ತ್ರಿಭುಜದಲ್ಲಿ ಎರಡು ಬಾಹುಗಳು ಸಮವಾಗಿದ್ದರೆ, ಅದನ್ನು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ನಾವು $\\triangle PQR$ ನಲ್ಲಿ, $PQ = PR$ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, $\\triangle PQR$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜವಾಗಿದೆ. ಹೀಗೆ ನಾವು ಸಮಸ್ಯೆಯನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "$\\triangle PQR$ ನಲ್ಲಿ, $PQ = PR$.",
+    "ಆದ್ದರಿಂದ, $\\triangle PQR$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_takeaway",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-TRI-2_example_13",
+  "steps": [],
+  "final_answer": "$\\triangle PQR$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "$\\triangle PQR$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_049"
+}

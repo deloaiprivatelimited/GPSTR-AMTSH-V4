@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "kWh ಮತ್ತು ಜೌಲ್ (Joule) ನಡುವಿನ ಸಂಬಂಧ",
+  "script": "ಪರೀಕ್ಷಾ ದೃಷ್ಟಿಯಿಂದ, ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆಯನ್ನು ಶಕ್ತಿಯ ಎಸ್ಐ ಏಕಮಾನವಾದ ಜೌಲ್‌ಗೆ ಪರಿವರ್ತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಬನ್ನಿ, ಈ ಲೆಕ್ಕಾಚಾರವನ್ನು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ಒಂದು ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ ಎಂದರೆ ಒಂದು ಕಿಲೋವ್ಯಾಟ್ ಗುಣಿಸು ಒಂದು ಗಂಟೆ. ಎರಡನೆಯದಾಗಿ, ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಒಂದು ಕಿಲೋವ್ಯಾಟ್ ಅಂದರೆ ಸಾವಿರ ವ್ಯಾಟ್‌ಗಳು ಮತ್ತು ಒಂದು ಗಂಟೆ ಎಂದರೆ ಮೂರು ಸಾವಿರದ ಆರುನೂರು ಸೆಕೆಂಡುಗಳು. ಮೂರನೆಯದಾಗಿ, ಇವೆರಡನ್ನೂ ಗುಣಿಸಿದಾಗ, ನಮಗೆ ಮೂವತ್ತಾರು ಲಕ್ಷ ಜೌಲ್‌ಗಳು ಸಿಗುತ್ತವೆ. ಕೊನೆಯದಾಗಿ, ಇದನ್ನು ವೈಜ್ಞಾನಿಕ ಸಂಕೇತದಲ್ಲಿ ಮೂರು ಪಾಯಿಂಟ್ ಆರು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಆರು ಜೌಲ್ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಈ ಅಂತಿಮ ಮೌಲ್ಯವು ಅತ್ಯಂತ ಮಹತ್ವದ್ದಾಗಿದೆ.",
+  "script_display": "ಪರೀಕ್ಷಾ ದೃಷ್ಟಿಯಿಂದ, kWh ಅನ್ನು ಶಕ್ತಿಯ SI ಏಕಮಾನವಾದ ಜೌಲ್‌ಗೆ (Joule) ಪರಿವರ್ತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಈ ಲೆಕ್ಕಾಚಾರದ ಹಂತಗಳನ್ನು ಗಮನಿಸಿ:",
+  "display_bullets": [
+    "1 kWh = 1 kilowatt × 1 hour",
+    "1 kWh = 1000 W × 3600 s",
+    "1 kWh = 36,00,000 J",
+    "1 kWh = 3.6 × 10⁶ J"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "1 \\text{ kWh} = 3.6 \\times 10^6 \\text{ J}",
+    "placeholder_note": "Display the final conversion formula prominently in the visual zone."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_10_chapter_11_concept_8_chunk_013"
+}

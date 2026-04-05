@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವರ್ತಕಗಳು ಮತ್ತು ಉತ್ಪನ್ನಗಳು",
+  "script": "ಈ ಸಾಮಾನ್ಯ ಕ್ರಿಯೆಯಲ್ಲಿ, ವರ್ತಕಗಳು ಅಂದರೆ ರಿಯಾಕ್ಟಂಟ್ಸ್, ಆಮ್ಲ ಮತ್ತು ಲೋಹಗಳಾಗಿವೆ. ಕ್ರಿಯೆಯ ನಂತರ ಉಂಟಾಗುವ ಉತ್ಪನ್ನಗಳು ಅಂದರೆ ಪ್ರಾಡಕ್ಟ್ಸ್, ಲವಣ ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಅನಿಲ. ಇಲ್ಲಿ ಲವಣವು ಆಮ್ಲದ ಋಣ ಅಯಾನು ಮತ್ತು ಲೋಹದ ಧನ ಅಯಾನು ಸೇರಿ ಉಂಟಾದ ಒಂದು ಸಂಯುಕ್ತವಾಗಿದೆ.",
+  "script_display": "ಈ ಸಾಮಾನ್ಯ ಕ್ರಿಯೆಯಲ್ಲಿ, ವರ್ತಕಗಳು (Reactants) ಮತ್ತು ಉತ್ಪನ್ನಗಳನ್ನು (Products) ಗುರುತಿಸೋಣ.",
+  "display_bullets": [
+    "ವರ್ತಕಗಳು: ಆಮ್ಲ ಮತ್ತು ಲೋಹ",
+    "ಉತ್ಪನ್ನಗಳು: ಲವಣ ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಅನಿಲ",
+    "ಲವಣ: ಲೋಹದ ಕ್ಯಾಟಯಾನು ಮತ್ತು ಆಮ್ಲದ ಆನಯಾನಿನಿಂದಾದ ಸಂಯುಕ್ತ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "chemistry_green",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_004"
+}

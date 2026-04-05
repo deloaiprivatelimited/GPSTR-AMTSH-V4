@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪತನ ಕಿರಣ: ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈಗ ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ನಾವು ಒಂದು ಸಮತಲ ದರ್ಪಣವನ್ನು ನೋಡಬಹುದು. ಎಡಭಾಗದಲ್ಲಿರುವ ಬೆಳಕಿನ ಮೂಲದಿಂದ ಒಂದು ಕಿರಣವು ಹೊರಟು ದರ್ಪಣದ ಮೇಲಿರುವ 'O' ಬಿಂದುವಿನ ಮೇಲೆ ಬೀಳುತ್ತಿದೆ. ಹೀಗೆ ಮೇಲ್ಮೈಯನ್ನು ತಲುಪುವ ಈ ಕಿರಣವನ್ನೇ ನಾವು ಪತನ ಕಿರಣ ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ನೆನಪಿಡಿ, ಯಾವುದೇ ಮೂಲದಿಂದ ಬಂದು ಒಂದು ವಸ್ತುವಿನ ಮೇಲೆ ಬೀಳುವ ಮೊದಲ ಕಿರಣವೇ ಪತನ ಕಿರಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಬಾಣದ ಗುರುತು ಕಿರಣವು ಚಲಿಸುತ್ತಿರುವ ದಿಕ್ಕನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ನಾವು ಒಂದು ಸಮತಲ ದರ್ಪಣವನ್ನು (plane mirror) ನೋಡಬಹುದು. ಎಡಭಾಗದಲ್ಲಿರುವ ಬೆಳಕಿನ ಮೂಲದಿಂದ (light source) ಒಂದು ಕಿರಣವು ಹೊರಟು ದರ್ಪಣದ ಮೇಲಿರುವ 'O' ಬಿಂದುವಿನ ಮೇಲೆ ಬೀಳುತ್ತಿದೆ. ಹೀಗೆ ಮೇಲ್ಮೈಯನ್ನು ತಲುಪುವ ಈ ಕಿರಣವನ್ನೇ ನಾವು 'ಪತನ ಕಿರಣ' (Incident Ray) ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ನೆನಪಿಡಿ, ಯಾವುದೇ ಮೂಲದಿಂದ ಬಂದು ಒಂದು ವಸ್ತುವಿನ ಮೇಲೆ ಬೀಳುವ ಮೊದಲ ಕಿರಣವೇ ಪತನ ಕಿರಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಬಾಣದ ಗುರುತು ಕಿರಣವು ಚಲಿಸುತ್ತಿರುವ ದಿಕ್ಕನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬೆಳಕಿನ ಮೂಲದಿಂದ ಹೊರಟ ಕಿರಣವು ದರ್ಪಣದ ಮೇಲೆ ಬೀಳುತ್ತದೆ.",
+    "ದರ್ಪಣದ ಮೇಲ್ಮೈಯನ್ನು ತಲುಪುವ ಈ ಕಿರಣವೇ ಪತನ ಕಿರಣ.",
+    "ಬಾಣದ ಗುರುತು ಬೆಳಕಿನ ಚಲನೆಯ ದಿಕ್ಕನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "style_A",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram illustrating an incident ray. A horizontal line represents a plane mirror. A ray of light, originating from the top-left, travels downwards and strikes the mirror at a point labeled 'O'. The ray has an arrowhead pointing towards the mirror. This ray is clearly labeled in Kannada as 'ಪತನ ಕಿರಣ (Incident Ray)'. A light source icon can be shown at the origin of the ray.",
+    "labels": "Plane mirror, Incident Ray, Point of incidence (O), Light Source",
+    "scientific_significance": "This diagram visually defines the incident ray, which is the first component in understanding the laws of reflection. It shows the direction of light before it interacts with a surface.",
+    "placeholder_note": "Image to be generated showing a light ray hitting a mirror, with the incident ray labeled."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_9_concept_1_chunk_007"
+}

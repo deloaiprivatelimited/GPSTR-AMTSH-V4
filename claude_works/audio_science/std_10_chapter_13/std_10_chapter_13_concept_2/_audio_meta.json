@@ -1,0 +1,125 @@
+{
+  "module_id": "std_10_chapter_13_concept_2",
+  "chapter_code": "std_10_chapter_13",
+  "voice": "Leda",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:32:28",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "45fe26efca7abd984f33611d2e45c5da",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 29.691,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 47,
+      "generated_at": "2026-04-02 11:31:00"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "dabeb73ca0611d501140c5b9996678f3",
+      "wav_file": "003_classification_0.wav",
+      "duration": 41.291,
+      "slide_title": "ಪೋಷಣೆಯ ಆಧಾರದ ಮೇಲೆ ಜೀವಿಗಳ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 11:31:06"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "0fa7bf4ad22c9bdc1db60a4c6e05c45d",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 46.611,
+      "slide_title": "ಉತ್ಪಾದಕರು (Producers)",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 11:31:11"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "25f76a24934bf29e554e6cf3c1b4be71",
+      "wav_file": "001_intro_0.wav",
+      "duration": 50.251,
+      "slide_title": "ಪೋಷಣಾ ಸ್ತರಗಳು ಮತ್ತು ಜೀವಿಗಳ ಪಾತ್ರ",
+      "type": "intro",
+      "script_words": 68,
+      "generated_at": "2026-04-02 11:31:15"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "2b12cf10c07cb8f64df91ca769972385",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 50.131,
+      "slide_title": "ಭಕ್ಷಕರು (Consumers)",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 11:31:26"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "70eb90188f3988e0c4b80247bb7bf637",
+      "wav_file": "010_recap_0.wav",
+      "duration": 35.811,
+      "slide_title": "ಪರಿಕಲ್ಪನೆಯ ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 44,
+      "generated_at": "2026-04-02 11:32:02"
+    },
+    "007_classification_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "efb77f1a635164e2c760a14e89b6e790",
+      "wav_file": "007_classification_1.wav",
+      "duration": 46.851,
+      "slide_title": "ಭಕ್ಷಕರ ವಿಧಗಳು: ಪ್ರಾಥಮಿಕ ಭಕ್ಷಕರು",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:32:07"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "748a1c6e29c01f4787c5dc255263c587",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 55.131,
+      "slide_title": "ವಿಘಟಕರು (Decomposers)",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 11:32:16"
+    },
+    "008_classification_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "ac6696e1f74189306f23fe39f3596dfe",
+      "wav_file": "008_classification_cont_1_1.wav",
+      "duration": 58.171,
+      "slide_title": "ಭಕ್ಷಕರ ವಿಧಗಳು: ದ್ವಿತೀಯಕ ಮತ್ತು ತೃತೀಯಕ",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 11:32:17"
+    },
+    "009_classification_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "850126372b89a70348c3df9626f783e2",
+      "wav_file": "009_classification_cont_1_2.wav",
+      "duration": 49.051,
+      "slide_title": "ಭಕ್ಷಕರ ವಿಧಗಳು: ಸರ್ವಾಹಾರಿಗಳು ಮತ್ತು ಪರಾವಲಂಬಿಗಳು",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 11:32:28"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಬೀಜೋಕ್ತಿ ಎರಡು ಎಕ್ಸ್ ಪ್ಲಸ್ ಮೂರು ಅನ್ನು ಪರಿಗಣಿಸಿ. ಇಲ್ಲಿ, ಎರಡು ಮತ್ತು ಮೂರು ಸ್ಥಿರಾಂಕಗಳು, ಏಕೆಂದರೆ ಅವುಗಳ ಬೆಲೆ ಬದಲಾಗುವುದಿಲ್ಲ. ಎಕ್ಸ್ ಎಂಬುದು ಚರಾಕ್ಷರ. ನಾವು ಇಲ್ಲಿ ಎರಡು ಮತ್ತು ಎಕ್ಸ್ ನಡುವೆ ಗುಣಾಕಾರ, ಮತ್ತು ನಂತರ ಮೂರರೊಂದಿಗೆ ಸಂಕಲನ ಕ್ರಿಯೆಯನ್ನು ಬಳಸಿದ್ದೇವೆ. ಹೀಗೆ, ಸ್ಥಿರಾಂಕ, ಚರಾಕ್ಷರ ಮತ್ತು ಗಣಿತ ಕ್ರಿಯೆಗಳ ಸಂಯೋಜನೆಯಿಂದ ಈ ಬೀಜೋಕ್ತಿ ಉಂಟಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಬೀಜೋಕ್ತಿ $2x + 3$ ಅನ್ನು ಪರಿಗಣಿಸಿ. ಇಲ್ಲಿ, 2 ಮತ್ತು 3 ಸ್ಥಿರಾಂಕಗಳು, ಏಕೆಂದರೆ ಅವುಗಳ ಬೆಲೆ ಬದಲಾಗುವುದಿಲ್ಲ. $x$ ಎಂಬುದು ಚರಾಕ್ಷರ. ನಾವು ಇಲ್ಲಿ $2$ ಮತ್ತು $x$ ನಡುವೆ ಗುಣಾಕಾರ, ಮತ್ತು ನಂತರ $3$ರೊಂದಿಗೆ ಸಂಕಲನ ಕ್ರಿಯೆಯನ್ನು ಬಳಸಿದ್ದೇವೆ. ಹೀಗೆ, ಸ್ಥಿರಾಂಕ, ಚರಾಕ್ಷರ ಮತ್ತು ಗಣಿತ ಕ್ರಿಯೆಗಳ ಸಂಯೋಜನೆಯಿಂದ ಈ ಬೀಜೋಕ್ತಿ ಉಂಟಾಗಿದೆ.",
+  "display_bullets": [
+    "ಬೀಜೋಕ್ತಿ: $2x + 3$",
+    "ಸ್ಥಿರಾಂಕಗಳು: $2, 3$",
+    "ಚರಾಕ್ಷರ: $x$",
+    "ಬಳಸಿದ ಕ್ರಿಯೆಗಳು: ಗುಣಾಕಾರ ($2 \\times x$) ಮತ್ತು ಸಂಕಲನ (+)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An annotated diagram of the expression 2x + 3. Arrows should point from the text 'ಸ್ಥಿರಾಂಕಗಳು' to the numbers 2 and 3. An arrow should point from 'ಚರಾಕ್ಷರ' to 'x'. An arrow should point from 'ಕ್ರಿಯೆಗಳು' to the '+' sign and the implicit multiplication between 2 and x.",
+    "labels": "ಸ್ಥಿರಾಂಕಗಳು, ಚರಾಕ್ಷರ, ಕ್ರಿಯೆಗಳು, 2x+3",
+    "mathematical_significance": "Visually breaking down an algebraic expression into its constituent parts: constants, variables, and operations.",
+    "placeholder_note": "Image to be generated showing the expression 2x+3 with labels pointing to each part."
+  },
+  "chunk_id": "ALG-POL-3_concept_1_chunk_005"
+}

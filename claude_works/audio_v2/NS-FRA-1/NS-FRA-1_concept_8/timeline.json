@@ -1,0 +1,111 @@
+{
+  "module_id": "NS-FRA-1_concept_8",
+  "voice": "Aoede",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 9,
+  "total_duration": 476.379,
+  "total_duration_formatted": "7:56",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "NS-FRA-1_concept_8_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳ ಭಾಗಾಕಾರ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 54.891,
+      "duration": 54.891,
+      "script_words": 72
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_8_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 55.491,
+      "end": 80.902,
+      "duration": 25.411,
+      "script_words": 32
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_8_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "10, 100, 1000 ದಿಂದ ಭಾಗಾಕಾರ",
+      "type": "concept_explanation",
+      "start": 81.502,
+      "end": 149.753,
+      "duration": 68.251,
+      "script_words": 95
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_8_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಭಾಗಾಕಾರದ ಇತರ ನಿಯಮಗಳು",
+      "type": "concept_explanation",
+      "start": 150.353,
+      "end": 235.804,
+      "duration": 85.451,
+      "script_words": 110
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_8_chunk_005",
+      "chunk_file": "005_example_0.json",
+      "wav_file": "005_example_0.wav",
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+      "type": "worked_example",
+      "start": 236.404,
+      "end": 275.815,
+      "duration": 39.411,
+      "script_words": 43
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_8_chunk_006",
+      "chunk_file": "006_example_cont_0_1.json",
+      "wav_file": "006_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "start": 276.415,
+      "end": 333.146,
+      "duration": 56.731,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_8_chunk_007",
+      "chunk_file": "007_example_cont_0_2.json",
+      "wav_file": "007_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+      "type": "worked_example",
+      "start": 333.746,
+      "end": 390.477,
+      "duration": 56.731,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_8_chunk_008",
+      "chunk_file": "008_example_cont_0_3.json",
+      "wav_file": "008_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 391.077,
+      "end": 418.328,
+      "duration": 27.251,
+      "script_words": 27
+    },
+    {
+      "chunk_id": "NS-FRA-1_concept_8_chunk_009",
+      "chunk_file": "009_recap_0.json",
+      "wav_file": "009_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳ ಭಾಗಾಕಾರ",
+      "type": "recap",
+      "start": 418.928,
+      "end": 475.779,
+      "duration": 56.851,
+      "script_words": 72
+    }
+  ]
+}

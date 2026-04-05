@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+  "script": "ಈ ಕ್ರಿಯೆಯು ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ವಿವರವಾಗಿ ನೋಡೋಣ. ಮೊದಲಿಗೆ, ಎಥನೋಯಿಕ್ ಆಮ್ಲದ ಕಾರ್ಬಾಕ್ಸಿಲ್ ಗುಂಪಿನಿಂದ ಓ ಎಚ್ ಗುಂಪು ಬೇರ್ಪಡುತ್ತದೆ. ನಂತರ, ಎಥನಾಲ್ ನ ಆಲ್ಕೋಹಾಲಿಕ್ ಗುಂಪಿನಿಂದ ಎಚ್ ಪರಮಾಣು ಬೇರ್ಪಡುತ್ತದೆ. ಈ ಓ ಎಚ್ ಮತ್ತು ಎಚ್ ಸೇರಿ ಒಂದು ನೀರಿನ ಅಣು ಉಂಟಾಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಉಳಿದ ಭಾಗಗಳಾದ ಸಿ ಎಚ್ ತ್ರೀ ಸಿ ಓ ಓ ಮತ್ತು ಸಿ ಎಚ್ ತ್ರೀ ಸಿ ಎಚ್ ಟು ಸೇರಿಕೊಂಡು ಎಸ್ಟರ್, ಅಂದರೆ ಈಥೈಲ್ ಎಥನೋಯೇಟ್, ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯು ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ವಿವರವಾಗಿ ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಎಥನೋಯಿಕ್ ಆಮ್ಲದಿಂದ -OH ಗುಂಪು ಬೇರ್ಪಡುತ್ತದೆ.",
+    "ಎಥನಾಲ್‌ನಿಂದ -H ಪರಮಾಣು ಬೇರ್ಪಡುತ್ತದೆ.",
+    "OH ಮತ್ತು H ಸೇರಿ ನೀರಿನ ಅಣು ($H_2O$) ಉಂಟಾಗುತ್ತದೆ.",
+    "ಉಳಿದ ಭಾಗಗಳು ಸೇರಿ ಎಸ್ಟರ್ ($CH_3COOCH_2CH_3$) ರೂಪುಗೊಳ್ಳುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_forest",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the molecular structures of ethanoic acid and ethanol. A circle highlights the -OH group from ethanoic acid and another circle highlights the -H from the hydroxyl group of ethanol. An arrow shows these two combining to form a water molecule (H2O). Another arrow shows the remaining parts (CH3COO- and CH3CH2-) joining to form the ester, ethyl ethanoate (CH3COOCH2CH3).",
+    "labels": "ಎಥನೋಯಿಕ್ ಆಮ್ಲ, ಎಥನಾಲ್, ನೀರು, ಈಥೈಲ್ ಎಥನೋಯೇಟ್ (ಎಸ್ಟರ್)",
+    "scientific_significance": "Illustrates the condensation mechanism of esterification, where a small molecule (water) is eliminated.",
+    "placeholder_note": "Image to be generated showing the reaction mechanism at a molecular level."
+  },
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_011"
+}

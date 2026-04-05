@@ -1,0 +1,101 @@
+{
+  "module_id": "std_7_chapter_2_concept_6",
+  "chapter_code": "std_7_chapter_2",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 351.688,
+  "total_duration_formatted": "5:51",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_2_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಣ್ಣ ಕರುಳು, ಯಕೃತ್ ಮತ್ತು ಮೇದೋಜೀರಕಾಂಗ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 51.651,
+      "duration": 51.651,
+      "script_words": 78
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 52.251,
+      "end": 85.622,
+      "duration": 33.371,
+      "script_words": 44
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_6_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಜೀರ್ಣಕ್ರಿಯೆಯ ಅಂತಿಮ ಉತ್ಪನ್ನಗಳು",
+      "type": "concept_explanation",
+      "start": 86.222,
+      "end": 112.833,
+      "duration": 26.611,
+      "script_words": 34
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_6_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಕಾರ್ಬೋಹೈಡ್ರೇಟ್‌ಗಳ ಜೀರ್ಣಕ್ರಿಯೆ",
+      "type": "concept_explanation",
+      "start": 113.433,
+      "end": 158.484,
+      "duration": 45.051,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_6_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಪ್ರೊಟೀನ್‌ಗಳ ಜೀರ್ಣಕ್ರಿಯೆ",
+      "type": "concept_explanation",
+      "start": 159.084,
+      "end": 213.975,
+      "duration": 54.891,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_6_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಕೊಬ್ಬುಗಳ ಜೀರ್ಣಕ್ರಿಯೆ",
+      "type": "concept_explanation",
+      "start": 214.575,
+      "end": 267.226,
+      "duration": 52.651,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_6_chunk_007",
+      "chunk_file": "007_classification_cont_0_4.json",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಜೀರ್ಣಕ್ರಿಯೆಯ ಅಂತಿಮ ಉತ್ಪನ್ನಗಳು",
+      "type": "concept_explanation",
+      "start": 267.826,
+      "end": 306.837,
+      "duration": 39.011,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_6_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಸಣ್ಣ ಕರುಳು, ಯಕೃತ್ ಮತ್ತು ಮೇದೋಜೀರಕಾಂಗ",
+      "type": "recap",
+      "start": 307.437,
+      "end": 351.088,
+      "duration": 43.651,
+      "script_words": 55
+    }
+  ]
+}

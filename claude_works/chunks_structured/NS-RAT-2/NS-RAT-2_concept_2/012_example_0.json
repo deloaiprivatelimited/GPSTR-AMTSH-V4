@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ನಡುವಿನ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು",
+  "script": "ಈಗ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ಮೈನಸ್ ಎರಡು ಮತ್ತು ಮೈನಸ್ ಒಂದರ ನಡುವೆ ಮೂರು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ. ಈ ಪ್ರಶ್ನೆಯಲ್ಲಿ, ನಮಗೆ ಎರಡು ಪೂರ್ಣಾಂಕಗಳನ್ನು, ಅಂದರೆ ಮೈನಸ್ ಎರಡು ಮತ್ತು ಮೈನಸ್ ಒಂದನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಮಾಡಬೇಕಾಗಿರುವುದು ಇವುಗಳ ನಡುವೆ ಬರುವ ಮೂರು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. $-2$ ಮತ್ತು $-1$ ರ ನಡುವೆ ಮೂರು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ. ಈ ಪ್ರಶ್ನೆಯಲ್ಲಿ, ನಮಗೆ ಎರಡು ಪೂರ್ಣಾಂಕಗಳನ್ನು, ಅಂದರೆ $-2$ ಮತ್ತು $-1$ ನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಮಾಡಬೇಕಾಗಿರುವುದು ಇವುಗಳ ನಡುವೆ ಬರುವ ಮೂರು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆಗಳು: $-2$ ಮತ್ತು $-1$.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: ಇವುಗಳ ನಡುವಿನ ಮೂರು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "-2 \\text{ ಮತ್ತು } -1 \\text{ ರ ನಡುವೆ ಮೂರು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ.}",
+    "placeholder_note": "Problem statement displayed in a box"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-RAT-2_example_3",
+  "chunk_id": "NS-RAT-2_concept_2_chunk_012"
+}

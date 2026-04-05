@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ನಮ್ಮ ಲೆಕ್ಕಾಚಾರದ ಪ್ರಕಾರ, 13824 ರ ಘನಮೂಲವು 24 ಆಗಿದೆ. ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನವು ಯಾವುದೇ ಪೂರ್ಣ ಘನದ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಒಂದು ಖಚಿತವಾದ ಮಾರ್ಗವಾಗಿದೆ.",
+  "script_display": "ಹಾಗಾಗಿ, ನಮ್ಮ ಲೆಕ್ಕಾಚಾರದ ಪ್ರಕಾರ, 13824 ರ ಘನಮೂಲವು 24 ಆಗಿದೆ. ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನವು ಯಾವುದೇ ಪೂರ್ಣ ಘನದ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಒಂದು ಖಚಿತವಾದ ಮಾರ್ಗವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sqrt[3]{13824} = 24",
+    "placeholder_note": "Final answer"
+  },
+  "source_example_id": "NS-CUBE-2_example_7",
+  "steps": [],
+  "final_answer": "13824 ರ ಘನಮೂಲ 24.",
+  "final_answer_display": "$\\sqrt[3]{13824} = 24$",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-CUBE-2_concept_5_chunk_027"
+}

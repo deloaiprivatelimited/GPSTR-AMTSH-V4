@@ -1,0 +1,103 @@
+{
+  "module_id": "std_6_chapter_10_concept_2",
+  "chapter_code": "std_6_chapter_10",
+  "voice": "Kore",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:43:21",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "eb670460df5b07ece4761cd677439751",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 19.371,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 30,
+      "generated_at": "2026-04-02 12:42:00"
+    },
+    "004_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "555a1e6ee401c47996c1c1ee4d9860b4",
+      "wav_file": "004_experiment_cont_0_1.wav",
+      "duration": 45.531,
+      "slide_title": "ವಿಧಾನ: ಮಡಕೆ A ಮತ್ತು B",
+      "type": "experiment_activity",
+      "script_words": 66,
+      "generated_at": "2026-04-02 12:42:14"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "befeb947d573bc317f9690f252101cf1",
+      "wav_file": "001_intro_0.wav",
+      "duration": 50.931,
+      "slide_title": "ಬೀಜ ಮೊಳೆಯುವಿಕೆಗೆ ಅಗತ್ಯವಾದ ಪರಿಸ್ಥಿತಿಗಳು",
+      "type": "intro",
+      "script_words": 68,
+      "generated_at": "2026-04-02 12:42:15"
+    },
+    "003_experiment_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "39679c603e8c2aaeb5ac0f22ddc379ce",
+      "wav_file": "003_experiment_0.wav",
+      "duration": 47.171,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಪ್ರಾಯೋಗಿಕ ಜೋಡಣೆ",
+      "type": "experiment_activity",
+      "script_words": 63,
+      "generated_at": "2026-04-02 12:42:19"
+    },
+    "006_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "e2053d875ab338589b63c18c967444b1",
+      "wav_file": "006_experiment_cont_0_3.wav",
+      "duration": 52.411,
+      "slide_title": "ವೀಕ್ಷಣೆ: ಕೆಲವು ದಿನಗಳ ನಂತರ",
+      "type": "experiment_activity",
+      "script_words": 62,
+      "generated_at": "2026-04-02 12:42:41"
+    },
+    "005_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "dc80f209a4412e7d02194eac75ccc69b",
+      "wav_file": "005_experiment_cont_0_2.wav",
+      "duration": 44.571,
+      "slide_title": "ವಿಧಾನ: ಮಡಕೆ C ಮತ್ತು D",
+      "type": "experiment_activity",
+      "script_words": 59,
+      "generated_at": "2026-04-02 12:43:11"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "dc48e94904f51b11e1ac5ff9f3d9f5af",
+      "wav_file": "008_recap_0.wav",
+      "duration": 40.931,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 50,
+      "generated_at": "2026-04-02 12:43:14"
+    },
+    "007_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "3f8c6c495435a0cd91b03058b56dfe03",
+      "wav_file": "007_experiment_cont_0_4.wav",
+      "duration": 51.011,
+      "slide_title": "ತೀರ್ಮಾನ: ಮೊಳಕೆಯೊಡೆಯಲು ಏನು ಬೇಕು?",
+      "type": "experiment_activity",
+      "script_words": 58,
+      "generated_at": "2026-04-02 12:43:21"
+    }
+  }
+}

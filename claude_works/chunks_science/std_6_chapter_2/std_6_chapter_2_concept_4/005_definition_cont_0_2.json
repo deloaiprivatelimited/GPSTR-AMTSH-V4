@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ದ್ವಿದಳ vs. ಏಕದಳ ಬೀಜಗಳು",
+  "script": "ಈಗ ದ್ವಿದಳ ಸಸ್ಯದ ಬೀಜವನ್ನು ಏಕದಳ ಸಸ್ಯದ ಬೀಜದೊಂದಿಗೆ ಹೋಲಿಸಿ ನೋಡೋಣ. ಕಡಲೆಯಂತೆ ಎರಡು ಬೀಜದಳಗಳನ್ನು ಹೊಂದಿರುವ ಸಸ್ಯಗಳು ದ್ವಿದಳ ಸಸ್ಯಗಳು. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಜೋಳದ ಕಾಳನ್ನು ಗಮನಿಸಿ. ನೀವು ಅದನ್ನು ಕಡಲೆಯಂತೆ ಎರಡು ಸಮಭಾಗಗಳಾಗಿ பிரிக்கಲು ಸಾಧ್ಯವಿಲ್ಲ. ಯಾಕೆಂದರೆ, ಅದರಲ್ಲಿ ಇರುವುದು ಒಂದೇ ಒಂದು ಬೀಜದಳ. ಈ ರೀತಿ ಒಂದೇ ಬೀಜದಳವನ್ನು ಹೊಂದಿರುವ ಸಸ್ಯಗಳನ್ನು ನಾವು ಏಕದಳ ಸಸ್ಯಗಳು ಅಂತ ಕರೆಯುತ್ತೇವೆ. ಈ ವ್ಯತ್ಯಾಸವೇ ಸಸ್ಯ ವರ್ಗೀಕರಣದ ಒಂದು ಪ್ರಮುಖ ಆಧಾರವಾಗಿದೆ.",
+  "script_display": "ಈಗ ದ್ವಿದಳ ಸಸ್ಯದ ಬೀಜವನ್ನು ಏಕದಳ ಸಸ್ಯದ ಬೀಜದೊಂದಿಗೆ ಹೋಲಿಸಿ ನೋಡೋಣ. ಕಡಲೆಯಂತೆ ಎರಡು ಬೀಜದಳಗಳನ್ನು ಹೊಂದಿರುವ ಸಸ್ಯಗಳು ದ್ವಿದಳ ಸಸ್ಯಗಳು (Dicots). ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಜೋಳದ ಕಾಳನ್ನು ಗಮನಿಸಿ. ನೀವು ಅದನ್ನು ಕಡಲೆಯಂತೆ ಎರಡು ಸಮಭಾಗಗಳಾಗಿ பிரிக்கಲು ಸಾಧ್ಯವಿಲ್ಲ. ಏಕೆಂದರೆ, ಅದರಲ್ಲಿ ಇರುವುದು ಒಂದೇ ಒಂದು ಬೀಜದಳ. ಈ ರೀತಿ ಒಂದೇ ಬೀಜದಳವನ್ನು ಹೊಂದಿರುವ ಸಸ್ಯಗಳನ್ನು ನಾವು ಏಕದಳ ಸಸ್ಯಗಳು (Monocots) ಎನ್ನುತ್ತೇವೆ. ಈ ವ್ಯತ್ಯಾಸವೇ ಸಸ್ಯ ವರ್ಗೀಕರಣದ ಒಂದು ಪ್ರಮುಖ ಆಧಾರವಾಗಿದೆ.",
+  "display_bullets": [
+    "**ದ್ವಿದಳ ಸಸ್ಯ (Dicot):** ಕಡಲೆಯಂತೆ ಎರಡು ಬೀಜದಳಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+    "**ಏಕದಳ ಸಸ್ಯ (Monocot):** ಜೋಳದಂತೆ ಒಂದೇ ಒಂದು ಬೀಜದಳವನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+    "ಬೀಜದಳಗಳ ಸಂಖ್ಯೆಯು ಹೂಬಿಡುವ ಸಸ್ಯಗಳ ವರ್ಗೀಕರಣಕ್ಕೆ ಒಂದು ಪ್ರಮುಖ ಆಧಾರವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. On the left, a split bean seed (ದ್ವಿದಳ) showing two cotyledons. On the right, a cross-section of a corn kernel (ಏಕದಳ) showing the single cotyledon and the endosperm.",
+    "labels": "ದ್ವಿದಳ ಬೀಜ (ಕಡಲೆ), ಏಕದಳ ಬೀಜ (ಜೋಳ), ಬೀಜದಳ (Cotyledon)",
+    "scientific_significance": "Directly contrasts the structure of monocot and dicot seeds, highlighting the key difference in the number of cotyledons, which is a fundamental basis for plant classification.",
+    "placeholder_note": "Side-by-side image of a split bean and a sectioned corn kernel, with cotyledons labeled."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_6_chapter_2_concept_4_chunk_005"
+}

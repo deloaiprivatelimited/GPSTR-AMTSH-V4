@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಕರ್ಣದ ಲಕ್ಷಣ",
+  "script": "ಈಗ ಅದೇ ಅಂತರ್ವಕ್ರ ಬಹುಭುಜದ ಮತ್ತೊಂದು ಲಕ್ಷಣವನ್ನು ನೋಡೋಣ, ಅದು ಕರ್ಣಕ್ಕೆ ಸಂಬಂಧಿಸಿದ್ದು. ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಕನಿಷ್ಠ ಒಂದು ಕರ್ಣವು ಆಕೃತಿಯ ಹೊರಗೆ ಇರಬೇಕು. ಈ ಚಿತ್ರದಲ್ಲಿ, ನಾನು ಎರಡು ಶೃಂಗಗಳನ್ನು ಒಂದು ರೇಖಾಖಂಡದಿಂದ ಸೇರಿಸುತ್ತಿದ್ದೇನೆ. ಈ ರೇಖಾಖಂಡವೇ ಕರ್ಣ. ಆದರೆ ಗಮನಿಸಿ, ಈ ಕರ್ಣವು ಬಹುಭುಜದ ಒಳಭಾಗದಲ್ಲಿಲ್ಲ. ಇದು ಸಂಪೂರ್ಣವಾಗಿ ಆಕೃತಿಯ ಹೊರಗೆ ಇದೆ. ಹೀಗೆ ಒಂದು ಕರ್ಣವಾದರೂ ಹೊರಗಿದ್ದರೆ, ಆ ಬಹುಭುಜವು ಖಂಡಿತವಾಗಿಯೂ ಅಂತರ್ವಕ್ರ ಬಹುಭುಜವಾಗಿರುತ್ತದೆ. ಇದು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜವನ್ನು ಗುರುತಿಸುವ ಇನ್ನೊಂದು ವಿಧಾನ.",
+  "script_display": "ಈಗ ಅದೇ ಅಂತರ್ವಕ್ರ ಬಹುಭುಜದ ಮತ್ತೊಂದು ಲಕ್ಷಣವನ್ನು ನೋಡೋಣ, ಅದು ಕರ್ಣಕ್ಕೆ ಸಂಬಂಧಿಸಿದ್ದು. ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಕನಿಷ್ಠ ಒಂದು ಕರ್ಣವು ಆಕೃತಿಯ ಹೊರಗೆ ಇರಬೇಕು. ಈ ಚಿತ್ರದಲ್ಲಿ, ನಾನು ಎರಡು ಶೃಂಗಗಳನ್ನು ಒಂದು ರೇಖಾಖಂಡದಿಂದ ಸೇರಿಸುತ್ತಿದ್ದೇನೆ. ಈ ರೇಖಾಖಂಡವೇ ಕರ್ಣ. ಆದರೆ ಗಮನಿಸಿ, ಈ ಕರ್ಣವು ಬಹುಭುಜದ ಒಳಭಾಗದಲ್ಲಿಲ್ಲ. ಇದು ಸಂಪೂರ್ಣವಾಗಿ ಆಕೃತಿಯ ಹೊರಗೆ ಇದೆ. ಹೀಗೆ ಒಂದು ಕರ್ಣವಾದರೂ ಹೊರಗಿದ್ದರೆ, ಆ ಬಹುಭುಜವು ಖಂಡಿತವಾಗಿಯೂ ಅಂತರ್ವಕ್ರ ಬಹುಭುಜವಾಗಿರುತ್ತದೆ. ಇದು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜವನ್ನು ಗುರುತಿಸುವ ಇನ್ನೊಂದು ವಿಧಾನ.",
+  "display_bullets": [
+    "ಈ ಆಕೃತಿಯಲ್ಲಿ, ಎರಡು ಶೃಂಗಗಳನ್ನು ಸೇರಿಸುವ ಕರ್ಣವು ಬಹುಭುಜದ ಹೊರಗೆ ಇದೆ.",
+    "ಯಾವುದೇ ಒಂದು ಕರ್ಣವು ಹೊರಗಿದ್ದರೂ, ಅದು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜವಾಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same arrowhead-shaped concave polygon. A diagonal connecting two non-adjacent vertices is drawn. This diagonal lies completely outside the polygon and is highlighted in a different color (e.g., red) with the label 'ಹೊರಗಿನ ಕರ್ಣ'.",
+    "labels": "ಅಂತರ್ವಕ್ರ ಬಹುಭುಜ, ಕರ್ಣ",
+    "mathematical_significance": "Visually demonstrates the second characteristic of a concave polygon: having at least one diagonal that lies outside the figure.",
+    "placeholder_note": "Image to be generated: Arrowhead polygon with an external diagonal clearly drawn and labeled."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_1_chunk_025"
+}

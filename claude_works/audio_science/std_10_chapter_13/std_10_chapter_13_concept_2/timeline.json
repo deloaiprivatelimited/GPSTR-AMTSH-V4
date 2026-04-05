@@ -1,0 +1,123 @@
+{
+  "module_id": "std_10_chapter_13_concept_2",
+  "chapter_code": "std_10_chapter_13",
+  "voice": "Leda",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 468.99,
+  "total_duration_formatted": "7:48",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_13_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪೋಷಣಾ ಸ್ತರಗಳು ಮತ್ತು ಜೀವಿಗಳ ಪಾತ್ರ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 50.251,
+      "duration": 50.251,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 50.851,
+      "end": 80.542,
+      "duration": 29.691,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_2_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಪೋಷಣೆಯ ಆಧಾರದ ಮೇಲೆ ಜೀವಿಗಳ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "start": 81.142,
+      "end": 122.433,
+      "duration": 41.291,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_2_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಉತ್ಪಾದಕರು (Producers)",
+      "type": "concept_explanation",
+      "start": 123.033,
+      "end": 169.644,
+      "duration": 46.611,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_2_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಭಕ್ಷಕರು (Consumers)",
+      "type": "concept_explanation",
+      "start": 170.244,
+      "end": 220.375,
+      "duration": 50.131,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_2_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ವಿಘಟಕರು (Decomposers)",
+      "type": "concept_explanation",
+      "start": 220.975,
+      "end": 276.106,
+      "duration": 55.131,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_2_chunk_007",
+      "chunk_file": "007_classification_1.json",
+      "wav_file": "007_classification_1.wav",
+      "slide_title": "ಭಕ್ಷಕರ ವಿಧಗಳು: ಪ್ರಾಥಮಿಕ ಭಕ್ಷಕರು",
+      "type": "concept_explanation",
+      "start": 276.706,
+      "end": 323.557,
+      "duration": 46.851,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_2_chunk_008",
+      "chunk_file": "008_classification_cont_1_1.json",
+      "wav_file": "008_classification_cont_1_1.wav",
+      "slide_title": "ಭಕ್ಷಕರ ವಿಧಗಳು: ದ್ವಿತೀಯಕ ಮತ್ತು ತೃತೀಯಕ",
+      "type": "concept_explanation",
+      "start": 324.157,
+      "end": 382.328,
+      "duration": 58.171,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_2_chunk_009",
+      "chunk_file": "009_classification_cont_1_2.json",
+      "wav_file": "009_classification_cont_1_2.wav",
+      "slide_title": "ಭಕ್ಷಕರ ವಿಧಗಳು: ಸರ್ವಾಹಾರಿಗಳು ಮತ್ತು ಪರಾವಲಂಬಿಗಳು",
+      "type": "concept_explanation",
+      "start": 382.928,
+      "end": 431.979,
+      "duration": 49.051,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_10_chapter_13_concept_2_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಪರಿಕಲ್ಪನೆಯ ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 432.579,
+      "end": 468.39,
+      "duration": 35.811,
+      "script_words": 44
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯೆ: ಪತಂಗ (Kite)",
+  "script": "ಈಗ ನಾವು ಚತುರ್ಭುಜಗಳ ಕುಟುಂಬದಲ್ಲಿ ಮತ್ತೊಂದು ಆಸಕ್ತಿದಾಯಕ ಸದಸ್ಯನಾದ ಪತಂಗದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಪತಂಗವು ಒಂದು ವಿಶೇಷ ರೀತಿಯ ಚತುರ್ಭು-ಜವಾಗಿದೆ. ಇದರ ವ್ಯಾಖ್ಯೆಯು ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಒಂದು ಚತುರ್ಭುಜದಲ್ಲಿ, ಎರಡು ಜೊತೆ ಪ್ರತ್ಯೇಕ ಮತ್ತು ಸಮನಾದ ಪಾರ್ಶ್ವ ಬಾಹುಗಳಿದ್ದರೆ, ಅದನ್ನು ಪತಂಗ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ 'ಪಾರ್ಶ್ವ ಬಾಹುಗಳು' ಎಂದರೆ ಅಕ್ಕಪಕ್ಕದಲ್ಲಿರುವ ಬಾಹುಗಳು, ಅಂದರೆ, ಒಂದು ಶೃಂಗದಲ್ಲಿ ಸಂಧಿಸುವ ಎರಡು ಬಾಹುಗಳು. ಈ ವ್ಯಾಖ್ಯೆಯನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಚತುರ್ಭುಜಗಳ ಕುಟುಂಬದಲ್ಲಿ ಮತ್ತೊಂದು ಆಸಕ್ತಿದಾಯಕ ಸದಸ್ಯನಾದ ಪತಂಗದ (Kite) ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಪತಂಗವು ಒಂದು ವಿಶೇಷ ರೀತಿಯ ಚತುರ್ಭುಜವಾಗಿದೆ. ಇದರ ವ್ಯಾಖ್ಯೆಯು ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಒಂದು ಚತುರ್ಭುಜದಲ್ಲಿ, ಎರಡು ಜೊತೆ ಪ್ರತ್ಯೇಕ ಮತ್ತು ಸಮನಾದ ಪಾರ್ಶ್ವ ಬಾಹುಗಳಿದ್ದರೆ, ಅದನ್ನು ಪತಂಗ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ 'ಪಾರ್ಶ್ವ ಬಾಹುಗಳು' ಎಂದರೆ ಅಕ್ಕಪಕ್ಕದಲ್ಲಿರುವ ಬಾಹುಗಳು, ಅಂದರೆ, ಒಂದು ಶೃಂಗದಲ್ಲಿ ಸಂಧಿಸುವ ಎರಡು ಬಾಹುಗಳು. ಈ ವ್ಯಾಖ್ಯೆಯನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "display_bullets": [
+    "ಪತಂಗ (Kite): ಎರಡು ಜೊತೆ ಪ್ರತ್ಯೇಕ ಮತ್ತು ಸಮನಾದ ಪಾರ್ಶ್ವ ಬಾಹುಗಳನ್ನು ಹೊಂದಿರುವ ಚತುರ್ಭುಜ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "template_A",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clearly labeled diagram of a kite ABCD. The vertices should be labeled counter-clockwise. There should be tick marks to indicate that side AB is equal to side AD, and different tick marks (e.g., double ticks) to show that side CB is equal to side CD.",
+    "labels": "Kite ABCD, AB=AD, CB=CD",
+    "mathematical_significance": "Visually represents the definition of a kite, showing two distinct pairs of equal-length adjacent sides.",
+    "placeholder_note": "Image of a kite to be generated."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_3_chunk_011"
+}

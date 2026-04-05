@@ -1,0 +1,123 @@
+{
+  "module_id": "std_8_chapter_6_concept_6",
+  "chapter_code": "std_8_chapter_6",
+  "voice": "Pulcherrima",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 348.83,
+  "total_duration_formatted": "5:48",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_6_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ರೂಪಪರಿವರ್ತನೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 41.131,
+      "duration": 41.131,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 41.731,
+      "end": 65.782,
+      "duration": 24.051,
+      "script_words": 35
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_6_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ರೂಪಪರಿವರ್ತನೆ (Metamorphosis)",
+      "type": "definition",
+      "start": 66.382,
+      "end": 107.873,
+      "duration": 41.491,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_6_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಕಪ್ಪೆಯ ಜೀವನ ಚಕ್ರ",
+      "type": "definition",
+      "start": 108.473,
+      "end": 162.084,
+      "duration": 53.611,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_6_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಹೋಲಿಕೆ: ರೂಪಪರಿವರ್ತನೆ ಇದೆಯೇ ಅಥವಾ ಇಲ್ಲವೇ?",
+      "type": "definition",
+      "start": 162.684,
+      "end": 205.695,
+      "duration": 43.011,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_6_chunk_006",
+      "chunk_file": "006_example_0.json",
+      "wav_file": "006_example_0.wav",
+      "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಕಪ್ಪೆಯ ಜೀವನ ಚಕ್ರ",
+      "type": "worked_example",
+      "start": 206.295,
+      "end": 223.826,
+      "duration": 17.531,
+      "script_words": 23
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_6_chunk_007",
+      "chunk_file": "007_example_cont_0_1.json",
+      "wav_file": "007_example_cont_0_1.wav",
+      "slide_title": "ಹಂತಗಳು 1-2: ಮೊಟ್ಟೆ ಮತ್ತು ಗೊದಮೊಟ್ಟೆ",
+      "type": "worked_example",
+      "start": 224.426,
+      "end": 248.357,
+      "duration": 23.931,
+      "script_words": 32
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_6_chunk_008",
+      "chunk_file": "008_example_cont_0_2.json",
+      "wav_file": "008_example_cont_0_2.wav",
+      "slide_title": "ಹಂತಗಳು 3-4: ರೂಪಪರಿವರ್ತನೆ ಮತ್ತು ಪ್ರೌಢ ಕಪ್ಪೆ",
+      "type": "worked_example",
+      "start": 248.957,
+      "end": 280.688,
+      "duration": 31.731,
+      "script_words": 35
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_6_chunk_009",
+      "chunk_file": "009_example_cont_0_3.json",
+      "wav_file": "009_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "start": 281.288,
+      "end": 311.059,
+      "duration": 29.771,
+      "script_words": 37
+    },
+    {
+      "chunk_id": "std_8_chapter_6_concept_6_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 311.659,
+      "end": 348.23,
+      "duration": 36.571,
+      "script_words": 46
+    }
+  ]
+}

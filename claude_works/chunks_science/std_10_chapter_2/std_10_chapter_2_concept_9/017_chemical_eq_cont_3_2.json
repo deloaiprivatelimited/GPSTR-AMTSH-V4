@@ -1,0 +1,33 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿವರ್ತಕಗಳು ಮತ್ತು ಉತ್ಪನ್ನಗಳು",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿನ ಘಟಕಗಳನ್ನು ನೋಡೋಣ. ಪ್ರತಿವರ್ತಕವು ಘನ ರೂಪದಲ್ಲಿರುವ ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್. ಉತ್ಪನ್ನಗಳು ಯಾವುವೆಂದರೆ, ಘನ ರೂಪದಲ್ಲಿರುವ ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್, ದ್ರವ ರೂಪದಲ್ಲಿರುವ ನೀರು, ಮತ್ತು ಅನಿಲ ರೂಪದಲ್ಲಿರುವ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿನ ಘಟಕಗಳನ್ನು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕ: ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್ (NaHCO₃)",
+    "ಉತ್ಪನ್ನಗಳು:",
+    "ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ (Na₂CO₃)",
+    "ನೀರು (H₂O)",
+    "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "text_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_2_concept_9_chunk_017"
+}

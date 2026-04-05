@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಹಂತ 1",
+  "script": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲು, ಡ್ರಾಯಿಂಗ್ ಬೋರ್ಡ್ ಮೇಲೆ ಬಿಳಿ ಕಾಗದವನ್ನು ಇಟ್ಟು ಅದನ್ನು ಕ್ಲಿಪ್‌ಗಳಿಂದ ಭದ್ರಪಡಿಸಿ. ನಂತರ, ಕಾಗದದ ಮಧ್ಯದಲ್ಲಿ ಆಯತಾಕಾರದ ಗಾಜಿನ ಚಪ್ಪಡಿಯನ್ನು ಇಡಿ. ಪೆನ್ಸಿಲ್ ಬಳಸಿ ಚಪ್ಪಡಿಯ ಸುತ್ತಲೂ ಒಂದು ಬಾಹ್ಯರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಇದನ್ನು ನಾವು A B C D ಎಂದು ಹೆಸರಿಸೋಣ. ಈಗ ಚಪ್ಪಡಿಯನ್ನು ತೆಗೆದು ಪಕ್ಕಕ್ಕೆ ಇಡಿ. ಈ ಬಾಹ್ಯರೇಖೆಯು ನಮ್ಮ ಪ್ರಯೋಗದ ಗಡಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲು, ಡ್ರಾಯಿಂಗ್ ಬೋರ್ಡ್ ಮೇಲೆ ಬಿಳಿ ಕಾಗದವನ್ನು ಇಟ್ಟು ಅದನ್ನು ಕ್ಲಿಪ್‌ಗಳಿಂದ ಭದ್ರಪಡಿಸಿ. ನಂತರ, ಕಾಗದದ ಮಧ್ಯದಲ್ಲಿ ಆಯತಾಕಾರದ ಗಾಜಿನ ಚಪ್ಪಡಿಯನ್ನು ಇಡಿ. ಪೆನ್ಸಿಲ್ ಬಳಸಿ ಚಪ್ಪಡಿಯ ಸುತ್ತಲೂ ಒಂದು ಬಾಹ್ಯರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಇದನ್ನು ನಾವು ABCD ಎಂದು ಹೆಸರಿಸೋಣ. ಈಗ ಚಪ್ಪಡಿಯನ್ನು ತೆಗೆದು ಪಕ್ಕಕ್ಕೆ ಇಡಿ. ಈ ಬಾಹ್ಯರೇಖೆಯು ನಮ್ಮ ಪ್ರಯೋಗದ ಗಡಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಡ್ರಾಯಿಂಗ್ ಬೋರ್ಡ್ ಮೇಲೆ ಬಿಳಿ ಕಾಗದವನ್ನು ಇರಿಸಿ.",
+    "ಕಾಗದದ ಮಧ್ಯದಲ್ಲಿ ಗಾಜಿನ ಚಪ್ಪಡಿಯನ್ನು ಇಟ್ಟು, ಅದರ ಬಾಹ್ಯರೇಖೆ ABCD ಯನ್ನು ಎಳೆಯಿರಿ.",
+    "ಚಪ್ಪಡಿಯನ್ನು ಸದ್ಯಕ್ಕೆ ಪಕ್ಕಕ್ಕೆ ಇಡಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard_steps",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the first step of the glass slab experiment. A white paper on a drawing board with the outline of a rectangle labeled ABCD drawn in the middle.",
+    "labels": "ಬಿಳಿ ಕಾಗದ, ಗಾಜಿನ ಚಪ್ಪಡಿಯ ಬಾಹ್ಯರೇಖೆ (ABCD)",
+    "scientific_significance": "Establishes the boundary of the glass slab for the experiment.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_9_concept_5_chunk_029"
+}

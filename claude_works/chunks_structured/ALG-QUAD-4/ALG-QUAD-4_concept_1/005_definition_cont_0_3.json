@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಮೀಕರಣವನ್ನು ಪರೀಕ್ಷಿಸುವುದು",
+  "script": "ಕೆಲವೊಮ್ಮೆ ಒಂದು ಸಮೀಕರಣವು ಮೊದಲ ನೋಟಕ್ಕೆ ವರ್ಗ ಸಮೀಕರಣದಂತೆ ಕಾಣುವುದಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, x minus ಎರಡು whole squared plus ಒಂದು equals ಎರಡು x minus ಮೂರು ಎಂಬ ಸಮೀಕರಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇದು ವರ್ಗ ಸಮೀಕರಣ ಹೌದೋ ಅಲ್ಲವೋ ಎಂದು ತಿಳಿಯಲು, ನಾವು ಮೊದಲು ಇದನ್ನು ಸರಳೀಕರಿಸಬೇಕು. ನಮಗೆ a minus b whole squared ಸೂತ್ರ ಗೊತ್ತಿದೆ, ಅದು a squared minus ಎರಡು a b plus b squared. ಇದನ್ನು ಬಳಸಿ x minus ಎರಡು whole squared ಅನ್ನು ವಿಸ್ತರಿಸಿದಾಗ, ನಮಗೆ x squared minus ನಾಲ್ಕು x plus ನಾಲ್ಕು ಸಿಗುತ್ತದೆ. ಇದನ್ನು ನಮ್ಮ ಮೂಲ ಸಮೀಕರಣದಲ್ಲಿ ಹಾಕಿದಾಗ, ಅದು x squared minus ನಾಲ್ಕು x plus ನಾಲ್ಕು plus ಒಂದು equals ಎರಡು x minus ಮೂರು ಎಂದಾಗುತ್ತದೆ.",
+  "script_display": "ಕೆಲವೊಮ್ಮೆ ಒಂದು ಸಮೀಕರಣವು ಮೊದಲ ನೋಟಕ್ಕೆ ವರ್ಗ ಸಮೀಕರಣದಂತೆ ಕಾಣುವುದಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, $(x-2)^2 + 1 = 2x - 3$ ಎಂಬ ಸಮೀಕರಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇದು ವರ್ಗ ಸಮೀಕರಣ ಹೌದೋ ಅಲ್ಲವೋ ಎಂದು ತಿಳಿಯಲು, ನಾವು ಮೊದಲು ಇದನ್ನು ಸರಳೀಕರಿಸಬೇಕು. ನಮಗೆ $(a-b)^2 = a^2 - 2ab + b^2$ ಸೂತ್ರ ಗೊತ್ತಿದೆ. ಇದನ್ನು ಬಳಸಿ $(x-2)^2$ ಅನ್ನು ವಿಸ್ತರಿಸಿದಾಗ, ನಮಗೆ $x^2 - 4x + 4$ ಸಿಗುತ್ತದೆ. ಇದನ್ನು ನಮ್ಮ ಮೂಲ ಸಮೀಕರಣದಲ್ಲಿ ಹಾಕಿದಾಗ, ಅದು $x^2 - 4x + 4 + 1 = 2x - 3$ ಎಂದಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಮೀಕರಣ: $(x-2)^2 + 1 = 2x - 3$",
+    "ಮೊದಲು, ಸಮೀಕರಣವನ್ನು ಸರಳೀಕರಿಸೋಣ.",
+    "$(x-2)^2$ ಅನ್ನು ವಿಸ್ತರಿಸಿದಾಗ: $x^2 - 4x + 4$",
+    "ಆದ್ದರಿಂದ, ಸಮೀಕರಣವು $x^2 - 4x + 4 + 1 = 2x - 3$ ಆಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "(a-b)^2 = a^2 - 2ab + b^2",
+    "placeholder_note": "ಬಳಸಿದ ಬೀಜಗಣಿತದ ನಿತ್ಯಸಮೀಕರಣ"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "ALG-QUAD-4_concept_1_chunk_005"
+}

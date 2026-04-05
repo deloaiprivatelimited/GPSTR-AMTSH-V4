@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರತಿಫಲನ ಕೋನ: ರೇಖಾಚಿತ್ರ",
+  "script": "ಈ ರೇಖಾಚಿತ್ರವನ್ನು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಇಲ್ಲಿ, ನಯವಾದ ಮೇಲ್ಮೈಯ ಮೇಲೆ ಬೆಳಕಿನ ಕಿರಣವು ಬಂದು ಪ್ರತಿಫಲಿಸುತ್ತಿದೆ. ಮೇಲ್ಮೈಗೆ ಬಡಿದು ಹಿಂತಿರುಗುತ್ತಿರುವ ಕಿರಣವೇ ಪ್ರತಿಫಲಿತ ಕಿರಣ. ನಾವು ಪತನ ಬಿಂದುವಿನಲ್ಲಿ ಮೇಲ್ಮೈಗೆ ಲಂಬವಾಗಿ ಒಂದು ರೇಖೆಯನ್ನು ಎಳೆದಿದ್ದೇವೆ, ಅದೇ ಲಂಬ. ಈಗ, ಈ ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವೆ ಇರುವ ಕೋನವನ್ನು ನೋಡಿ. ಅದನ್ನು 'ಆರ್' ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಇದೇ ಪ್ರತಿಫಲನ ಕೋನ. ನೆನಪಿಡಿ, ಇದು ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನ, ಮೇಲ್ಮೈಯೊಂದಿಗಿನ ಕೋನವಲ್ಲ.",
+  "script_display": "ಈ ರೇಖಾಚಿತ್ರವನ್ನು ಗಮನವಿಟ್ಟು ನೋಡಿ.",
+  "display_bullets": [
+    "ಮೇಲ್ಮೈಗೆ ಬಡಿದು ಹಿಂತಿರುಗುತ್ತಿರುವ ಕಿರಣವೇ **ಪ್ರತಿಫಲಿತ ಕಿರಣ**.",
+    "ಪತನ ಬಿಂದುವಿನಲ್ಲಿ ಮೇಲ್ಮೈಗೆ ಲಂಬವಾಗಿ ಎಳೆದ ರೇಖೆಯೇ **ಲಂಬ**.",
+    "**ಪ್ರತಿಫಲಿತ ಕಿರಣ** ಮತ್ತು **ಲಂಬ**ದ ನಡುವೆ ಇರುವ ಕೋನವೇ **ಪ್ರತಿಫಲನ ಕೋನ (r)**."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear diagram showing reflection of light. The angle of reflection (r) is clearly marked between the reflected ray and the normal. The incident ray, normal, and reflecting surface are also labeled in Kannada.",
+    "labels": "ಪತನ ಕಿರಣ, ಪ್ರತಿಫಲಿತ ಕಿರಣ, ಲಂಬ, ಪತನ ಕೋನ (i), ಪ್ರತಿಫಲನ ಕೋನ (r), ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈ",
+    "scientific_significance": "Visual representation of the angle of reflection, crucial for understanding the laws of reflection.",
+    "placeholder_note": "Image to be generated showing reflection with all parts labeled in Kannada. Angle 'r' should be highlighted."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_9_concept_1_chunk_017"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪತ್ರರಂಧ್ರದ ರಚನೆ",
+  "script": "ಈಗ ಪತ್ರರಂಧ್ರದ ರಚನೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಎಲೆಯ ಮೇಲ್ಮೈಯನ್ನು ಸೂಕ್ಷ್ಮದರ್ಶಕದಲ್ಲಿ ನೋಡಿದಂತೆ ತೋರಿಸಲಾಗಿದೆ. ಇಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ರಂಧ್ರ, ಅಂದರೆ ಪತ್ರರಂಧ್ರವು, ಎರಡು ಬೀಜದ ಆಕಾರದ ಕೋಶಗಳಿಂದ ಸುತ್ತುವರಿದಿದೆ. ಇವುಗಳೇ 'ರಕ್ಷಕ ಕೋಶಗಳು'. ಈ ರಕ್ಷಕ ಕೋಶಗಳು ನೀರನ್ನು ಹೀರಿಕೊಂಡಾಗ ಉಬ್ಬುತ್ತವೆ ಮತ್ತು ರಂಧ್ರವನ್ನು ತೆರೆಯುತ್ತವೆ. ನೀರನ್ನು ಕಳೆದುಕೊಂಡಾಗ ಅವು ಕುಗ್ಗುತ್ತವೆ ಮತ್ತು ರಂಧ್ರವನ್ನು ಮುಚ್ಚುತ್ತವೆ. ಈ ಮೂಲಕ ಅವು ರಂಧ್ರದ ಗಾತ್ರವನ್ನು ನಿಯಂತ್ರಿಸುತ್ತವೆ.",
+  "script_display": "ಈಗ ಪತ್ರರಂಧ್ರದ ರಚನೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಎಲೆಯ ಮೇಲ್ಮೈಯನ್ನು ಸೂಕ್ಷ್ಮದರ್ಶಕದಲ್ಲಿ ನೋಡಿದಂತೆ ತೋರಿಸಲಾಗಿದೆ. ಇಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ರಂಧ್ರ, ಅಂದರೆ ಪತ್ರರಂಧ್ರವು (stoma), ಎರಡು ಬೀಜದ ಆಕಾರದ ಕೋಶಗಳಿಂದ ಸುತ್ತುವರಿದಿದೆ. ಇವುಗಳೇ 'ರಕ್ಷಕ ಕೋಶಗಳು' (Guard Cells). ಈ ರಕ್ಷಕ ಕೋಶಗಳು ನೀರನ್ನು ಹೀರಿಕೊಂಡಾಗ ಉಬ್ಬುತ್ತವೆ ಮತ್ತು ರಂಧ್ರವನ್ನು ತೆರೆಯುತ್ತವೆ. ನೀರನ್ನು ಕಳೆದುಕೊಂಡಾಗ ಅವು ಕುಗ್ಗುತ್ತವೆ ಮತ್ತು ರಂಧ್ರವನ್ನು ಮುಚ್ಚುತ್ತವೆ. ಈ ಮೂಲಕ ಅವು ರಂಧ್ರದ ಗಾತ್ರವನ್ನು ನಿಯಂತ್ರಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಪ್ರತಿ ಪತ್ರರಂಧ್ರವು ಎರಡು 'ರಕ್ಷಕ ಕೋಶ'ಗಳಿಂದ ಸುತ್ತುವರಿದಿದೆ.",
+    "ರಕ್ಷಕ ಕೋಶಗಳು ರಂಧ್ರವನ್ನು ತೆರೆಯಲು ಮತ್ತು ಮುಚ್ಚಲು ನಿಯಂತ್ರಿಸುತ್ತವೆ.",
+    "ನೀರು ತುಂಬಿದಾಗ ರಂಧ್ರ ತೆರೆಯುತ್ತದೆ, ನೀರು ಖಾಲಿಯಾದಾಗ ಮುಚ್ಚುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A microscopic view of a leaf's surface showing a single stoma (pore) open. The stoma is flanked by two bean-shaped guard cells. The surrounding cells are epidermal cells. Labels point to the stoma and the guard cells.",
+    "labels": "ಪತ್ರರಂಧ್ರ (Stoma), ರಕ್ಷಕ ಕೋಶ (Guard Cell)",
+    "scientific_significance": "Illustrates the basic structure of a stoma, highlighting the guard cells that control its opening and closing.",
+    "placeholder_note": "Image to be generated showing a close-up of one stoma with its guard cells."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_7_concept_7_chunk_010"
+}

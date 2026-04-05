@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಒಂದು ರಾಸಾಯನಿಕ ಸಮೀಕರಣದಲ್ಲಿ, ಪ್ರತಿವರ್ತಕಗಳ ಬದಿಯಲ್ಲಿ ಮತ್ತು ಉತ್ಪನ್ನಗಳ ಬದಿಯಲ್ಲಿರುವ ಪ್ರತಿಯೊಂದು ಧಾತುವಿನ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆ ಸಮನಾಗಿದ್ದರೆ, ಅದನ್ನು ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ರಾಶಿ ಸಂರಕ್ಷಣಾ ನಿಯಮವನ್ನು ಪಾಲಿಸುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಮೆಗ್ನೀಸಿಯಮ್ ಆಮ್ಲಜನಕದೊಂದಿಗೆ ವರ್ತಿಸಿ ಮೆಗ್ನೀಸಿಯಮ್ ಆಕ್ಸೈಡ್ ಉಂಟಾಗುವ ಕ್ರಿಯೆಯನ್ನು ಟೂ ಎಂ ಜಿ ಪ್ಲಸ್ ಓ ಟೂ ಗಿವ್ಸ್ ಟೂ ಎಂ ಜಿ ಓ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ಎರಡೂ ಕಡೆ ಪರಮಾಣುಗಳು ಸಮನಾಗಿವೆ.",
+  "script_display": "ಒಂದು ರಾಸಾಯನಿಕ ಸಮೀಕರಣದಲ್ಲಿ, ಪ್ರತಿವರ್ತಕಗಳ (reactants) ಬದಿಯಲ್ಲಿ ಮತ್ತು ಉತ್ಪನ್ನಗಳ (products) ಬದಿಯಲ್ಲಿರುವ ಪ್ರತಿಯೊಂದು ಧಾತುವಿನ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆ ಸಮನಾಗಿದ್ದರೆ, ಅದನ್ನು ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ (Balanced Chemical Equation) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ರಾಶಿ ಸಂರಕ್ಷಣಾ ನಿಯಮವನ್ನು ಪಾಲಿಸುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಮೆಗ್ನೀಸಿಯಮ್ ಆಮ್ಲಜನಕದೊಂದಿಗೆ ವರ್ತಿಸಿ ಮೆಗ್ನೀಸಿಯಮ್ ಆಕ್ಸೈಡ್ ಉಂಟಾಗುವ ಕ್ರಿಯೆಯನ್ನು 2Mg + O₂ → 2MgO ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ಎರಡೂ ಕಡೆ ಪರಮಾಣುಗಳು ಸಮನಾಗಿವೆ.",
+  "display_bullets": [
+    "ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳಲ್ಲಿ (ಪ್ರತಿವರ್ತಕ ಮತ್ತು ಉತ್ಪನ್ನ) ಪ್ರತಿ ಧಾತುವಿನ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆ ಸಮನಾಗಿರಬೇಕು.",
+    "ಇದು ರಾಶಿ ಸಂರಕ್ಷಣಾ ನಿಯಮವನ್ನು (Law of Conservation of Mass) ಪಾಲಿಸುತ್ತದೆ.",
+    "ಉದಾಹರಣೆ: 2Mg + O₂ → 2MgO"
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_dark",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2Mg + O_2 \\rightarrow 2MgO",
+    "placeholder_note": "A formula box showing the balanced chemical equation for the reaction of magnesium with oxygen."
+  },
+  "chunk_id": "std_10_chapter_1_concept_2_chunk_009"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಶಂಕುವಿನ ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (TSA)",
+  "script": "ಈಗ ನಾವು ಶಂಕುವಿನ ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಅಥವಾ ಟೋಟಲ್ ಸರ್ಫೇಸ್ ಏರಿಯಾ, ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಟಿ ಎಸ್ ಎ, ಅಂದರೇನು ಎಂದು ತಿಳಿಯೋಣ. ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಎಂದರೆ ಒಂದು ಶಂಕುವಿನ ಎಲ್ಲಾ ಹೊರ ಮೇಲ್ಮೈಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ. ಇದು ಎರಡು ಪ್ರಮುಖ ಭಾಗಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಮೊದಲನೆಯದು, ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ, ಅಂದರೆ ಅದರ ಬದಿಯ, ಬಾಗಿದ ಭಾಗ. ಎರಡನೆಯದು, ವೃತ್ತಾಕಾರದ ಪಾದದ ವಿಸ್ತೀರ್ಣ. ಈ ಎರಡೂ ವಿಸ್ತೀರ್ಣಗಳನ್ನು ಸೇರಿಸಿದಾಗ ನಮಗೆ ಶಂಕುವಿನ ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಶಂಕುವಿನ ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (Total Surface Area, TSA) ಅಂದರೇನು ಎಂದು ತಿಳಿಯೋಣ. ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (TSA) ಎಂದರೆ ಒಂದು ಶಂಕುವಿನ ಎಲ್ಲಾ ಹೊರ ಮೇಲ್ಮೈಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ. ಇದು ಎರಡು ಪ್ರಮುಖ ಭಾಗಗಳನ್ನು ಒಳಗೊಂಡಿದೆ: 1. ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (Curved Surface Area - CSA) ಮತ್ತು 2. ವೃತ್ತಾಕಾರದ ಪಾದದ ವಿಸ್ತೀರ್ಣ (Area of Circular Base). ಈ ಎರಡೂ ವಿಸ್ತೀರ್ಣಗಳನ್ನು ಸೇರಿಸಿದಾಗ ನಮಗೆ ಶಂಕುವಿನ ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (TSA) ಎಂದರೆ ಒಂದು ಶಂಕುವಿನ ಎಲ್ಲಾ ಹೊರ ಮೇಲ್ಮೈಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ.",
+    "ಇದು ಎರಡು ಪ್ರಮುಖ ಭಾಗಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:",
+    "1. ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (Curved Surface Area - CSA)",
+    "2. ವೃತ್ತಾಕಾರದ ಪಾದದ ವಿಸ್ತೀರ್ಣ (Area of Circular Base)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 3D cone is shown. An arrow labeled 'ವಕ್ರ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (CSA)' points to the slanted side of the cone. Another arrow labeled 'ಪಾದದ ವಿಸ್ತೀರ್ಣ' points to the circular base of the cone.",
+    "labels": "Cone, Curved Surface Area, Base Area",
+    "mathematical_significance": "Visually identifies the two components that constitute the Total Surface Area of a cone.",
+    "placeholder_note": "Image to be generated showing a cone with its two surface areas (curved and base) clearly labeled in Kannada."
+  },
+  "chunk_id": "MEN-VOL-3_concept_1_chunk_021"
+}

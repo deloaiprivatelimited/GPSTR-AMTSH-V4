@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ಅಕ್ಷಗಳು ಮತ್ತು ಪ್ರಮಾಣವನ್ನು ನಿರ್ಧರಿಸುವುದು",
+  "script": "ಸ್ತಂಭಲೇಖವನ್ನು ರಚಿಸಲು, ಮೊದಲ ಹಂತದಲ್ಲಿ ನಾವು ಅಕ್ಷಗಳನ್ನು ಮತ್ತು ಪ್ರಮಾಣವನ್ನು ನಿರ್ಧರಿಸಬೇಕು. ನಾವು ಎರಡು ಅಕ್ಷಗಳನ್ನು ಎಳೆಯುತ್ತೇವೆ, ಒಂದು ಅಡ್ಡವಾದ ಎಕ್ಸ್-ಅಕ್ಷ ಮತ್ತು ಇನ್ನೊಂದು ಲಂಬವಾದ ವೈ-ಅಕ್ಷ. ಎಕ್ಸ್-ಅಕ್ಷದ ಮೇಲೆ, ನಾವು ಖರ್ಚಿನ ವಿವಿಧ ವಿಭಾಗಗಳನ್ನು, ಅಂದರೆ ದಿನಸಿ, ಬಾಡಿಗೆ, ಇತ್ಯಾದಿಗಳನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ವೈ-ಅಕ್ಷದ ಮೇಲೆ, ನಾವು ಖರ್ಚಿನ ಮೊತ್ತವನ್ನು ರೂಪಾಯಿಗಳಲ್ಲಿ ಗುರುತಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ ಖರ್ಚುಗಳು ಸಾವಿರಗಳಲ್ಲಿ ಇರುವುದರಿಂದ, ವೈ-ಅಕ್ಷದ ಮೇಲೆ ಒಂದು ಮಾನವನ್ನು ಒಂದು ಸಾವಿರ ರೂಪಾಯಿಗಳಿಗೆ ಸಮನಾಗಿ ತೆಗೆದುಕೊಳ್ಳುವುದು ಸೂಕ್ತ. ಅಂದರೆ, ಒಂದು ಮಾನವು ಒಂದು ಸಾವಿರ ರೂಪಾಯಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "script_display": "ಸ್ತಂಭಲೇಖವನ್ನು ರಚಿಸಲು, ಮೊದಲ ಹಂತದಲ್ಲಿ ನಾವು ಅಕ್ಷಗಳನ್ನು ಮತ್ತು ಪ್ರಮಾಣವನ್ನು ನಿರ್ಧರಿಸಬೇಕು. ನಾವು ಎರಡು ಅಕ್ಷಗಳನ್ನು ಎಳೆಯುತ್ತೇವೆ, ಒಂದು ಅಡ್ಡವಾದ X-ಅಕ್ಷ ಮತ್ತು ಇನ್ನೊಂದು ಲಂಬವಾದ Y-ಅಕ್ಷ. X-ಅಕ್ಷದ ಮೇಲೆ, ನಾವು ಖರ್ಚಿನ ವಿವಿಧ ವಿಭಾಗಗಳನ್ನು, ಅಂದರೆ ದಿನಸಿ, ಬಾಡಿಗೆ, ಇತ್ಯಾದಿಗಳನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. Y-ಅಕ್ಷದ ಮೇಲೆ, ನಾವು ಖರ್ಚಿನ ಮೊತ್ತವನ್ನು ರೂಪಾಯಿಗಳಲ್ಲಿ ಗುರುತಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ ಖರ್ಚುಗಳು ಸಾವಿರಗಳಲ್ಲಿ ಇರುವುದರಿಂದ, Y-ಅಕ್ಷದ ಮೇಲೆ 1 ಮಾನವನ್ನು ₹1000 ಕ್ಕೆ ಸಮನಾಗಿ ತೆಗೆದುಕೊಳ್ಳುವುದು ಸೂಕ್ತ. ಅಂದರೆ, 1 ಮಾನವು ₹1000 ಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_steps",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An empty graph with X-axis labeled 'ಖರ್ಚಿನ ವಿಭಾಗಗಳು' (Expense Categories) and Y-axis labeled 'ಖರ್ಚು (₹ ರಲ್ಲಿ)' (Expense in ₹). The Y-axis is marked with units 1000, 2000, 3000, 4000, 5000. The scale 'ಪ್ರಮಾಣ: 1 ಮಾನ = ₹1000' is written on the top right corner.",
+    "labels": "X-ಅಕ್ಷ, Y-ಅಕ್ಷ, ಖರ್ಚಿನ ವಿಭಾಗಗಳು, ಖರ್ಚು (₹ ರಲ್ಲಿ), ಪ್ರಮಾಣ",
+    "mathematical_significance": "Setting up the foundational axes and scale for a bar graph is the first critical step for accurate data representation.",
+    "placeholder_note": "Image to be generated showing the axes and scale."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "DATA-STAT-2_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "X-ಅಕ್ಷದ ಮೇಲೆ ಖರ್ಚಿನ ವಿಭಾಗಗಳನ್ನು ಮತ್ತು Y-ಅಕ್ಷದ ಮೇಲೆ ಖರ್ಚಿನ ಮೊತ್ತವನ್ನು (₹) ಗುರುತಿಸಿ.",
+      "justification": "ಸ್ತಂಭಲೇಖದ ಮೂಲ ರಚನೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "Y-ಅಕ್ಷದ ಮೇಲೆ ಪ್ರಮಾಣವನ್ನು ಆಯ್ಕೆಮಾಡಿ. ಇಲ್ಲಿ, $1$ ಮಾನ = $₹1000$.",
+      "justification": "ದತ್ತಾಂಶದ ಮೌಲ್ಯಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ಸೂಕ್ತವಾದ ಪ್ರಮಾಣವನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದರಿಂದ ನಕ್ಷೆಯು ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "DATA-STAT-2_concept_1_chunk_019"
+}

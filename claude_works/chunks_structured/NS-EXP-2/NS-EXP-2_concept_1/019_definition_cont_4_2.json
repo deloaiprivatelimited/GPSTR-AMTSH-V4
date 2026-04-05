@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಇದನ್ನು 'ವರ್ಗ' ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ?",
+  "script": "ಈಗ ನಿಮಗೆ ಒಂದು ಪ್ರಶ್ನೆ ಬರಬಹುದು, ಘಾತಸೂಚಿ ಎರಡಕ್ಕೆ 'ವರ್ಗ' ಅಥವಾ 'ಸ್ಕ್ವೇರ್' ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ? ಇದಕ್ಕೆ ಕಾರಣ ಜ್ಯಾಮಿತಿಯಲ್ಲಿದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಒಂದು ಚೌಕವನ್ನು, ಅಂದರೆ ಸ್ಕ್ವೇರ್ ಅನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಅದರ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮಾನವಾಗಿರುತ್ತವೆ. ಒಂದು ಬಾಹುವಿನ ಉದ್ದ 'ಎ' ಯೂನಿಟ್ಸ್ ಆಗಿದ್ದರೆ, ಆ ಚೌಕದ ವಿಸ್ತೀರ್ಣ, ಅಂದರೆ ಏರಿಯಾ ಏನಾಗಿರುತ್ತದೆ? ಅದು ಬಾಹು ಗುಣಿಸು ಬಾಹು, ಅಂದರೆ ಎ ಗುಣಿಸು ಎ, ಅಥವಾ ಎ ಸ್ಕ್ವೇರ್ಡ್. ಹೀಗೆ, ಒಂದು ಸಂಖ್ಯೆಯ ಘಾತ ಎರಡು, ಒಂದು ಚೌಕದ ವಿಸ್ತೀರ್ಣವನ್ನು ಪ್ರತಿನಿಧಿಸುವುದರಿಂದ, ನಾವು ಅದನ್ನು 'ವರ್ಗ' ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ನಿಮಗೆ ಒಂದು ಪ್ರಶ್ನೆ ಬರಬಹುದು, ಘಾತಸೂಚಿ 2ಕ್ಕೆ 'ವರ್ಗ' (Square) ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ? ಇದಕ್ಕೆ ಕಾರಣ ಜ್ಯಾಮಿತಿಯಲ್ಲಿದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಒಂದು ಚೌಕವನ್ನು (square) ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಅದರ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮಾನವಾಗಿರುತ್ತವೆ. ಒಂದು ಬಾಹುವಿನ ಉದ್ದ 'a' ಯೂನಿಟ್ಸ್ ಆಗಿದ್ದರೆ, ಆ ಚೌಕದ ವಿಸ್ತೀರ್ಣ (area) ಏನಾಗಿರುತ್ತದೆ? ಅದು ಬಾಹು $\\times$ ಬಾಹು, ಅಂದರೆ $a \\times a$, ಅಥವಾ $a^2$. ಹೀಗೆ, ಒಂದು ಸಂಖ್ಯೆಯ ಘಾತ 2, ಒಂದು ಚೌಕದ ವಿಸ್ತೀರ್ಣವನ್ನು ಪ್ರತಿನಿಧಿಸುವುದರಿಂದ, ನಾವು ಅದನ್ನು 'ವರ್ಗ' ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಒಂದು ಚೌಕದ (square) ವಿಸ್ತೀರ್ಣ = (ಬಾಹು)$^2$.",
+    "ಉದಾಹರಣೆಗೆ, 'a' ಬಾಹುವಿರುವ ಚೌಕದ ವಿಸ್ತೀರ್ಣ $a^2$ ಆಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple geometric square. The length of the top side and the left side are both labeled with the letter 'a'. Inside the square, the text 'Area = a²' is written.",
+    "labels": "side length, area",
+    "mathematical_significance": "This visual provides the geometric intuition behind the term 'square'. It connects the algebraic operation of raising a number to the power of 2 with the geometric concept of finding the area of a square, making the terminology more memorable and understandable.",
+    "placeholder_note": "Image to be generated: A square with side length 'a' and area 'a^2'."
+  },
+  "chunk_id": "NS-EXP-2_concept_1_chunk_019"
+}

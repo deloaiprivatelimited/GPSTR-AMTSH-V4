@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತಗಳು 1-2",
+  "script": "ಮೊದಲಿಗೆ, ಚಿತ್ರವನ್ನು ವಿಶ್ಲೇಷಿಸೋಣ. ಪಿ ಕ್ಯೂ ಎಂಬುದು ಕ್ಷಿತಿಜ ರೇಖೆ. ಅವನತ ಕೋನಗಳು ಪರ್ಯಾಯ ಕೋನಗಳಿಗೆ ಸಮನಾಗಿರುವುದರಿಂದ, ಕೋನ ಪಿ ಎ ಡಿ ಮೂವತ್ತು ಡಿಗ್ರಿ ಮತ್ತು ಕೋನ ಪಿ ಬಿ ಸಿ ನಲವತ್ತೈದು ಡಿಗ್ರಿ ಆಗುತ್ತದೆ. ಈಗ, ಲಂಬಕೋನ ತ್ರಿಭುಜ ಪಿ ಬಿ ಸಿ ಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ, ಟ್ಯಾನ್ ನಲವತ್ತೈದು ಡಿಗ್ರಿ ಈಕ್ವಲ್ಸ್ ಅಭಿಮುಖ ಬಾಹು ಪಿ ಸಿ ಬೈ ಪಾರ್ಶ್ವ ಬಾಹು ಬಿ ಸಿ. ಟ್ಯಾನ್ ನಲವತ್ತೈದು ಡಿಗ್ರಿಯ ಬೆಲೆ ಒಂದು. ಆದ್ದರಿಂದ, ಒಂದು ಈಕ್ವಲ್ಸ್ ಪಿ ಸಿ ಬೈ ಬಿ ಸಿ, ಅಂದರೆ ಪಿ ಸಿ ಈಕ್ವಲ್ಸ್ ಬಿ ಸಿ. ಇದರರ್ಥ, ಬಹುಮಹಡಿ ಕಟ್ಟಡದ ಎತ್ತರವು ಕಟ್ಟಡಗಳ ನಡುವಿನ ದೂರಕ್ಕೆ ಸಮವಾಗಿದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಚಿತ್ರವನ್ನು ವಿಶ್ಲೇಷಿಸೋಣ. $PQ$ ಎಂಬುದು ಕ್ಷಿತಿಜ ರೇಖೆ. ಅವನತ ಕೋನಗಳು ಪರ್ಯಾಯ ಕೋನಗಳಿಗೆ ಸಮನಾಗಿರುವುದರಿಂದ, $\\angle PAD = 30°$ ಮತ್ತು $\\angle PBC = 45°$ ಆಗುತ್ತದೆ. ಈಗ, ಲಂಬಕೋನ ತ್ರಿಭುಜ $PBC$ ಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ, $\\tan(45°) = \\frac{PC}{BC}$. $\\tan(45°)$ ನ ಬೆಲೆ 1. ಆದ್ದರಿಂದ, $1 = \\frac{PC}{BC}$, ಅಂದರೆ $PC = BC$. ಇದರರ್ಥ, ಬಹುಮಹಡಿ ಕಟ್ಟಡದ ಎತ್ತರವು ಕಟ್ಟಡಗಳ ನಡುವಿನ ದೂರಕ್ಕೆ ಸಮವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_2",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "TRI-APP-2_example_6",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಪರ್ಯಾಯ ಕೋನಗಳ ಗುಣಲಕ್ಷಣದಿಂದ: $\\angle PAD = 30°$ ಮತ್ತು $\\angle PBC = 45°$.",
+      "justification": "ಅವನತ ಕೋನಗಳು ಪರ್ಯಾಯ ಆಂತರಿಕ ಕೋನಗಳಿಗೆ ಸಮವಾಗಿರುತ್ತವೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\triangle PBC$ ಯಲ್ಲಿ, $\\tan(45°) = \\frac{PC}{BC} \\Rightarrow 1 = \\frac{PC}{BC} \\Rightarrow PC = BC$.",
+      "justification": "$\\tan \\theta = \\frac{\\text{ಅಭಿಮುಖ}}{\\text{ಪಾರ್ಶ್ವ}}$ ಮತ್ತು $\\tan(45°) = 1$."
+    }
+  ],
+  "chunk_id": "TRI-APP-2_concept_1_chunk_052"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ನಾವು ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು. 53240 ಒಂದು ಪೂರ್ಣ ಘನವಲ್ಲ. ಅದನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿ ಮಾಡಲು ಭಾಗಿಸಬೇಕಾದ ಕನಿಷ್ಠ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆ 5 ಆಗಿದೆ. ಹೀಗೆ ಭಾಗಿಸಿದಾಗ ಬರುವ ಭಾಗಲಬ್ಧ 10648, ಇದು 22 ರ ಘನವಾಗಿದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ನಾವು ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು. 53240 ಒಂದು ಪೂರ್ಣ ಘನವಲ್ಲ. ಅದನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿ ಮಾಡಲು ಭಾಗಿಸಬೇಕಾದ ಕನಿಷ್ಠ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆ 5 ಆಗಿದೆ. ಹೀಗೆ ಭಾಗಿಸಿದಾಗ ಬರುವ ಭಾಗಲಬ್ಧ 10648, ಇದು $22^3$ ಆಗಿದೆ.",
+  "display_bullets": [
+    "53240 ಪೂರ್ಣ ಘನವಲ್ಲ.",
+    "ಭಾಗಿಸಬೇಕಾದ ಕನಿಷ್ಠ ಸಂಖ್ಯೆ: 5.",
+    "ಫಲಿತಾಂಶ: $10648 = 22^3$ (ಪೂರ್ಣ ಘನ)."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "full_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-CUBE-2_example_3",
+  "final_answer": "53240 ನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿಸಲು ಭಾಗಿಸಬೇಕಾದ ಕನಿಷ್ಠ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆ 5.",
+  "final_answer_display": "53240 ನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿಸಲು ಭಾಗಿಸಬೇಕಾದ ಕನಿಷ್ಠ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆ 5.",
+  "chunk_id": "NS-CUBE-2_concept_4_chunk_010"
+}

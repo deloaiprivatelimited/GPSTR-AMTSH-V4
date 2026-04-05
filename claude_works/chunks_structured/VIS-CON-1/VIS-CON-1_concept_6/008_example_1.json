@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ವಿಶೇಷ ಕೋನಗಳೊಂದಿಗೆ ಆಯತದ ರಚನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕರ್ಣವು ಒಂದು ಮೂಲೆಯ ಕೋನವನ್ನು ಅರವತ್ತು ಡಿಗ್ರಿ ಮತ್ತು ಮೂವತ್ತು ಡಿಗ್ರಿ ಕೋನಗಳಾಗಿ ವಿಭಾಗಿಸುವಂತೆ ಒಂದು ಆಯತವನ್ನು ರಚಿಸಿ ಎಂದು ಕೇಳಲಾಗಿದೆ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಒಂದು ಆಯತವನ್ನು ರಚಿಸಬೇಕು. ಇದರ ವಿಶೇಷತೆ ಏನೆಂದರೆ, ಅದರ ಒಂದು ಕರ್ಣವು, ಆಯತದ ಒಂದು ಮೂಲೆಯ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಕೋನವನ್ನು ಅರವತ್ತು ಡಿಗ್ರಿ ಮತ್ತು ಮೂವತ್ತು ಡಿಗ್ರಿ ಕೋನಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನಮ್ಮ ಯೋಜನೆಯನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳಲು ಒಂದು ಕಚ್ಚಾ ಚಿತ್ರವನ್ನು ಬರೆಯುವುದು ಉತ್ತಮ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕರ್ಣವು ಒಂದು ಮೂಲೆಯ ಕೋನವನ್ನು $60°$ ಮತ್ತು $30°$ ಕೋನಗಳಾಗಿ ವಿಭಾಗಿಸುವಂತೆ ಒಂದು ಆಯತವನ್ನು ರಚಿಸಿ ಎಂದು ಕೇಳಲಾಗಿದೆ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಒಂದು ಆಯತವನ್ನು ರಚಿಸಬೇಕು. ಇದರ ವಿಶೇಷತೆ ಏನೆಂದರೆ, ಅದರ ಒಂದು ಕರ್ಣವು, ಆಯತದ ಒಂದು ಮೂಲೆಯ $90°$ ಕೋನವನ್ನು $60°$ ಮತ್ತು $30°$ ಕೋನಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನಮ್ಮ ಯೋಜನೆಯನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳಲು ಒಂದು ಕಚ್ಚಾ ಚಿತ್ರವನ್ನು ಬರೆಯುವುದು ಉತ್ತಮ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಕರ್ಣವು ಒಂದು ಮೂಲೆಯ ಕೋನವನ್ನು 60° ಮತ್ತು 30° ಕೋನಗಳಾಗಿ ವಿಭಾಗಿಸುವಂತೆ ಒಂದು ಆಯತವನ್ನು ರಚಿಸಿ.",
+    "ದತ್ತಾಂಶ: ಆಯತದ ಒಂದು ಮೂಲೆಯ ಕೋನವನ್ನು ಕರ್ಣವು 60° ಮತ್ತು 30° ಗೆ ವಿಭಜಿಸುತ್ತದೆ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಈ ಗುಣಲಕ್ಷಣವನ್ನು ಹೊಂದಿರುವ ಆಯತದ ರಚನೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Rough sketch of a rectangle ABCD. Diagonal AC is drawn. The angle DAB is split by AC into two angles: angle DAC is 30 degrees and angle CAB is 60 degrees. Angle ABC is a right angle (90 degrees).",
+    "labels": "A, B, C, D, AC, 30°, 60°, 90°",
+    "mathematical_significance": "Visualizing the problem helps in planning the construction steps. It highlights that the core task is to construct a right-angled triangle ABC with angle CAB = 60 degrees, which will then be used to complete the rectangle.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "VIS-CON-1_example_6",
+  "chunk_id": "VIS-CON-1_concept_6_chunk_008"
+}

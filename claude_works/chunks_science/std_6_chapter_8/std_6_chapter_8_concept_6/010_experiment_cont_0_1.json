@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಖಾಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಟಲಿ. ನಂತರ, ಸ್ವಲ್ಪ ನೀರು. ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಹೊಗೆಯನ್ನು ಸೃಷ್ಟಿಸಲು ಒಂದು ಉರಿಯುವ ಕಾಗದದ ಚೂರು. ಈ ಹೊಗೆಯು ವಾತಾವರಣದಲ್ಲಿರುವ ಧೂಳಿನ ಕಣಗಳಂತೆ ವರ್ತಿಸುತ್ತದೆ. ಈ ಮೂರು ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ನಾವು ಮೋಡ ರಚನೆಯ ರಹಸ್ಯವನ್ನು ತಿಳಿಯಲಿದ್ದೇವೆ. ಈ ಸಾಮಗ್ರಿಗಳು ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಅಥವಾ ಶಾಲೆಯ ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ ಸುಲಭವಾಗಿ ಲಭ್ಯವಿರುತ್ತವೆ.",
+  "script_display": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಖಾಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಟಲಿ. ನಂತರ, ಸ್ವಲ್ಪ ನೀರು. ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಹೊಗೆಯನ್ನು ಸೃಷ್ಟಿಸಲು ಒಂದು ಉರಿಯುವ ಕಾಗದದ ಚೂರು. ಈ ಹೊಗೆಯು ವಾತಾವರಣದಲ್ಲಿರುವ ಧೂಳಿನ ಕಣಗಳಂತೆ ವರ್ತಿಸುತ್ತದೆ. ಈ ಮೂರು ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ನಾವು ಮೋಡ ರಚನೆಯ ರಹಸ್ಯವನ್ನು ತಿಳಿಯಲಿದ್ದೇವೆ. ಈ ಸಾಮಗ್ರಿಗಳು ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಅಥವಾ ಶಾಲೆಯ ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ ಸುಲಭವಾಗಿ ಲಭ್ಯವಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಖಾಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಟಲಿ",
+    "ಸ್ವಲ್ಪ ನೀರು",
+    "ಉರಿಯುವ ಕಾಗದದ ಚೂರು (ಹೊಗೆಗಾಗಿ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the cloud in a bottle experiment: a plastic bottle with a cap, a small amount of water, and a burning paper strip to produce smoke.",
+    "labels": "ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಟಲಿ, ನೀರು, ಉರಿಯುವ ಕಾಗದ",
+    "scientific_significance": "Demonstrates the simple materials needed to simulate cloud formation, where the smoke acts as condensation nuclei.",
+    "placeholder_note": "Image to be generated showing a plastic bottle, a beaker of water, and a burning paper strip."
+  },
+  "chunk_id": "std_6_chapter_8_concept_6_chunk_010"
+}

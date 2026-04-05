@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 2",
+  "script": "ಈಗ ಪ್ರಯೋಗದ ಅತ್ಯಂತ ಪ್ರಮುಖ ಹಂತಕ್ಕೆ ಬರೋಣ. ಲೋಟದ ಅಂಚನ್ನು ನಿಮ್ಮ ತುಟಿಗಳ ಸುತ್ತಲೂ ಸಂಪೂರ್ಣವಾಗಿ ಮುಚ್ಚುವಂತೆ ಇಟ್ಟುಕೊಳ್ಳಿ. ಈಗ, ಲೋಟದೊಳಗಿನ ಗಾಳಿಯನ್ನು ನಿಮ್ಮ ಬಾಯಿಯಿಂದ ನಿಧಾನವಾಗಿ ಹೀರಿಕೊಳ್ಳಲು ಪ್ರಾರಂಭಿಸಿ. ಹೀಗೆ ಮಾಡುವುದರಿಂದ ಲೋಟದೊಳಗೆ ಗಾಳಿಯ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗಿ, ಭಾಗಶಃ ನಿರ್ವಾತ ಸೃಷ್ಟಿಯಾಗುತ್ತದೆ. ನೀವು ಗಾಳಿಯನ್ನು ಹೀರುತ್ತಿರುವಾಗಲೇ, ನಿಮ್ಮ ಸ್ನೇಹಿತನಿಗೆ ಮತ್ತೆ ಅದೇ ಮೊಬೈಲ್ ಫೋನ್‌ಗೆ ಕರೆ ಮಾಡಲು ಹೇಳಿ. ಈ ಬಾರಿ ರಿಂಗ್‌ಟೋನ್‌ನ ಶಬ್ದದಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಯನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗದ ಅತ್ಯಂತ ಪ್ರಮುಖ ಹಂತಕ್ಕೆ ಬರೋಣ. ಲೋಟದ ಅಂಚನ್ನು ನಿಮ್ಮ ತುಟಿಗಳ ಸುತ್ತಲೂ ಸಂಪೂರ್ಣವಾಗಿ ಮುಚ್ಚುವಂತೆ ಇಟ್ಟುಕೊಳ್ಳಿ. ಈಗ, ಲೋಟದೊಳಗಿನ ಗಾಳಿಯನ್ನು ನಿಮ್ಮ ಬಾಯಿಯಿಂದ ನಿಧಾನವಾಗಿ ಹೀರಿಕೊಳ್ಳಲು ಪ್ರಾರಂಭಿಸಿ. ಹೀಗೆ ಮಾಡುವುದರಿಂದ ಲೋಟದೊಳಗೆ ಗಾಳಿಯ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗಿ, ಭಾಗಶಃ ನಿರ್ವಾತ ಸೃಷ್ಟಿಯಾಗುತ್ತದೆ. ನೀವು ಗಾಳಿಯನ್ನು ಹೀರುತ್ತಿರುವಾಗಲೇ, ನಿಮ್ಮ ಸ್ನೇಹಿತನಿಗೆ ಮತ್ತೆ ಅದೇ ಮೊಬೈಲ್ ಫೋನ್‌ಗೆ ಕರೆ ಮಾಡಲು ಹೇಳಿ. ಈ ಬಾರಿ ರಿಂಗ್‌ಟೋನ್‌ನ ಶಬ್ದದಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಯನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ.",
+  "display_bullets": [
+    "ಲೋಟದ ಅಂಚಿಗೆ ಬಾಯಿ ಇಟ್ಟು ಗಾಳಿಯನ್ನು ಹೀರಿಕೊಳ್ಳಿ.",
+    "ಗಾಳಿಯನ್ನು ಹೀರುತ್ತಿರುವಾಗ ಮತ್ತೆ ಕರೆ ಮಾಡಿ.",
+    "ಶಬ್ದದಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A person has their mouth sealed over the rim of the glass tumbler (containing the phone) and is sucking the air out. Arrows indicate air being removed.",
+    "labels": "ಬಾಯಿ, ಲೋಟ, ಗಾಳಿ ಹೀರುವಿಕೆ",
+    "scientific_significance": "Illustrates the creation of a partial vacuum inside the tumbler, which is the key variable in the experiment.",
+    "placeholder_note": "Image to be generated for step 2 of the procedure."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_8_chapter_10_concept_2_chunk_009"
+}

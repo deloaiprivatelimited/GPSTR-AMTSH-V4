@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ 2: ಉಪ್ಪಿನ ದ್ರಾವಣದಲ್ಲಿ ಮೊಟ್ಟೆ",
+  "script": "ಈಗ ಪ್ರಯೋಗದ ಎರಡನೇ ಭಾಗಕ್ಕೆ ಬರೋಣ. ಇಲ್ಲಿ ನಾವು ಇನ್ನೊಂದು ಚಿಪ್ಪಿಲ್ಲದ ಮೊಟ್ಟೆಯನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದನ್ನು ಪ್ರಬಲವಾದ ಉಪ್ಪಿನ ದ್ರಾವಣದಲ್ಲಿ ಇಡೋಣ. ಉಪ್ಪಿನ ದ್ರಾವಣವೆಂದರೆ, ನೀರಿನಲ್ಲಿ ಸಾಕಷ್ಟು ಉಪ್ಪನ್ನು ಕರಗಿಸಿ ತಯಾರಿಸಿದ್ದು. ಇಲ್ಲಿ, ಮೊಟ್ಟೆಯ ಹೊರಗಿನ ದ್ರಾವಣದಲ್ಲಿ ನೀರಿನ ಸಾರತೆ ಕಡಿಮೆ ಇರುತ್ತದೆ. ಈಗಲೂ ಐದು ನಿಮಿಷಗಳ ಕಾಲ ಕಾದು ನೋಡೋಣ. ಈ ಬಾರಿ ಏನಾಗಬಹುದು? ನೀರು ಮೊಟ್ಟೆಯ ಒಳಗೆ ಹೋಗುವುದೇ ಅಥವಾ ಹೊರಗೆ ಬರುವುದೇ?",
+  "script_display": "ಈಗ ಪ್ರಯೋಗದ ಎರಡನೇ ಭಾಗಕ್ಕೆ ಬರೋಣ. ಇಲ್ಲಿ ನಾವು ಇನ್ನೊಂದು ಚಿಪ್ಪಿಲ್ಲದ ಮೊಟ್ಟೆಯನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದನ್ನು ಪ್ರಬಲವಾದ ಉಪ್ಪಿನ ದ್ರಾವಣದಲ್ಲಿ ಇಡೋಣ. ಉಪ್ಪಿನ ದ್ರಾವಣವೆಂದರೆ, ನೀರಿನಲ್ಲಿ ಸಾಕಷ್ಟು ಉಪ್ಪನ್ನು ಕರಗಿಸಿ ತಯಾರಿಸಿದ್ದು. ಇಲ್ಲಿ, ಮೊಟ್ಟೆಯ ಹೊರಗಿನ ದ್ರಾವಣದಲ್ಲಿ ನೀರಿನ ಸಾರತೆ ಕಡಿಮೆ ಇರುತ್ತದೆ. ಈಗಲೂ 5 ನಿಮಿಷಗಳ ಕಾಲ ಕಾದು ನೋಡೋಣ. ಈ ಬಾರಿ ಏನಾಗಬಹುದು? ನೀರು ಮೊಟ್ಟೆಯ ಒಳಗೆ ಹೋಗುವುದೇ ಅಥವಾ ಹೊರಗೆ ಬರುವುದೇ?",
+  "display_bullets": [
+    "ಇನ್ನೊಂದು ಚಿಪ್ಪಿಲ್ಲದ ಮೊಟ್ಟೆಯನ್ನು ಪ್ರಬಲ ಉಪ್ಪಿನ ದ್ರಾವಣವಿರುವ ಬೀಕರ್‌ನಲ್ಲಿ ಇಡಿ.",
+    "ಸುಮಾರು 5 ನಿಮಿಷಗಳ ಕಾಲ ವೀಕ್ಷಿಸಿ.",
+    "ಇದು ಅಧಿಕ ಸಾರತೆಯ ದ್ರಾವಣದಲ್ಲಿ (Hypertonic solution) ಕೋಶವನ್ನು ಇರಿಸಿದಂತೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a de-shelled egg being placed into a beaker filled with a concentrated salt solution. The solution can be depicted with dots to represent salt particles.",
+    "labels": "ಚಿಪ್ಪಿಲ್ಲದ ಮೊಟ್ಟೆ, ಪ್ರಬಲ ಉಪ್ಪಿನ ದ್ರಾವಣ, ಬೀಕರ್",
+    "scientific_significance": "Depicts the setup for the second part of the experiment, where the egg is placed in a hypertonic environment.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_9_chapter_5_concept_4_chunk_015"
+}

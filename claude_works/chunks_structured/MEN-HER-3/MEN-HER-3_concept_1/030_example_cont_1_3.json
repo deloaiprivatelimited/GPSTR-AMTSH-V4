@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ ಇಲ್ಲಿದೆ. 10 ಸೆಂಟಿಮೀಟರ್ ಬಾಹುವಿರುವ ಸಮಬಾಹು ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವು 25 ವರ್ಗಮೂಲ 3 ಚದರ ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಇದು ಒಂದು ಪ್ರಮುಖ ವಿಷಯವನ್ನು ತೋರಿಸುತ್ತದೆ: ಹೆರಾನ್‌ನ ಸೂತ್ರವನ್ನು ಯಾವುದೇ ರೀತಿಯ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಳಸಬಹುದು, ಅದು ಸಮಬಾಹು, ಸಮದ್ವಿಬಾಹು ಅಥವಾ ಅಸಮಬಾಹು ತ್ರಿಭುಜವಾಗಿರಲಿ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ ಇಲ್ಲಿದೆ. $10$ cm ಬಾಹುವಿರುವ ಸಮಬಾಹು ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವು $25\\sqrt{3}$ cm$^2$ ಆಗಿದೆ. ಇದು ಒಂದು ಪ್ರಮುಖ ವಿಷಯವನ್ನು ತೋರಿಸುತ್ತದೆ: ಹೆರಾನ್‌ನ ಸೂತ್ರವನ್ನು ಯಾವುದೇ ರೀತಿಯ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಳಸಬಹುದು, ಅದು ಸಮಬಾಹು, ಸಮದ್ವಿಬಾಹು ಅಥವಾ ಅಸಮಬಾಹು ತ್ರಿಭುಜವಾಗಿರಲಿ.",
+  "display_bullets": [
+    "ಸಮಬಾಹು ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ $25\\sqrt{3}$ cm$^2$."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "MEN-HER-3_verification_example_1",
+  "final_answer": "25\\sqrt{3} cm^2",
+  "final_answer_display": "ವಿಸ್ತೀರ್ಣ = $25\\sqrt{3}$ cm$^2$",
+  "chunk_id": "MEN-HER-3_concept_1_chunk_030"
+}

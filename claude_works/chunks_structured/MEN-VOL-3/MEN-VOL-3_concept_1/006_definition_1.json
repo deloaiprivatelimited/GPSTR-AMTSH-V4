@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಶಂಕುವಿನ ಪಾದ (Base of a Cone)",
+  "script": "ನಾವು ಈಗ ಶಂಕುವಿನ ಇನ್ನೊಂದು ಪ್ರಮುಖ ಭಾಗದ ಬಗ್ಗೆ ಕಲಿಯೋಣ, ಅದುವೇ ತ್ರಿಜ್ಯ. ನೀವು ಶಂಕುವನ್ನು ನೋಡಿದಾಗ, ಅದರ ಕೆಳಭಾಗದಲ್ಲಿ ಒಂದು ಸಮತಟ್ಟಾದ, ವೃತ್ತಾಕಾರದ ಭಾಗ ಇರುವುದನ್ನು ಗಮನಿಸಬಹುದು. ಇದನ್ನು ಶಂಕುವಿನ 'ಪಾದ' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಐಸ್ ಕ್ರೀಮ್ ಕೋನ್ ಅನ್ನು ತಲೆಕೆಳಗಾಗಿ ಇಟ್ಟಾಗ, ಅದರ ಅಗಲವಾದ ಬಾಯಿ ಒಂದು ವೃತ್ತದಂತೆ ಕಾಣುತ್ತದೆ ಅಲ್ಲವೇ? ಅದೇ ರೀತಿ, ನೇರವೃತ್ತಪಾದ ಶಂಕುವು ಒಂದು ವೃತ್ತಾಕಾರದ ಪಾದವನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಈ ಪಾದವು ಒಂದು ಸಮತಟ್ಟಾದ ವೃತ್ತವಾಗಿದೆ. ಈ ವೃತ್ತದ ಗುಣಲಕ್ಷಣಗಳೇ ಶಂಕುವಿನ ಅಳತೆಗಳಿಗೆ ಆಧಾರವಾಗಿವೆ.",
+  "script_display": "ನಾವು ಈಗ ಶಂಕುವಿನ ಇನ್ನೊಂದು ಪ್ರಮುಖ ಭಾಗದ ಬಗ್ಗೆ ಕಲಿಯೋಣ, ಅದುವೇ ತ್ರಿಜ್ಯ. ನೀವು ಶಂಕುವನ್ನು ನೋಡಿದಾಗ, ಅದರ ಕೆಳಭಾಗದಲ್ಲಿ ಒಂದು ಸಮತಟ್ಟಾದ, ವೃತ್ತಾಕಾರದ ಭಾಗ ಇರುವುದನ್ನು ಗಮನಿಸಬಹುದು. ಇದನ್ನು ಶಂಕುವಿನ 'ಪಾದ' (base) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಐಸ್ ಕ್ರೀಮ್ ಕೋನ್ ಅನ್ನು ತಲೆಕೆಳಗಾಗಿ ಇಟ್ಟಾಗ, ಅದರ ಅಗಲವಾದ ಬಾಯಿ ಒಂದು ವೃತ್ತದಂತೆ ಕಾಣುತ್ತದೆ ಅಲ್ಲವೇ? ಅದೇ ರೀತಿ, ನೇರವೃತ್ತಪಾದ ಶಂಕುವು ಒಂದು ವೃತ್ತಾಕಾರದ ಪಾದವನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಈ ಪಾದವು ಒಂದು ಸಮತಟ್ಟಾದ ವೃತ್ತವಾಗಿದೆ. ಈ ವೃತ್ತದ ಗುಣಲಕ್ಷಣಗಳೇ ಶಂಕುವಿನ ಅಳತೆಗಳಿಗೆ ಆಧಾರವಾಗಿವೆ.",
+  "display_bullets": [
+    "ನೇರವೃತ್ತಪಾದ ಶಂಕುವು ಒಂದು ವೃತ್ತಾಕಾರದ ಪಾದವನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+    "ಈ ಪಾದವು ಒಂದು ಸಮತಟ್ಟಾದ ವೃತ್ತವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_explainer_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 3D diagram of a right circular cone. The circular base at the bottom is highlighted with a distinct color, like blue, to draw attention to it. The rest of the cone is a neutral grey.",
+    "labels": "ಶಂಕು (Cone), ವೃತ್ತಾಕಾರದ ಪಾದ (Circular Base)",
+    "mathematical_significance": "This visual introduces the concept of the cone's base, which is fundamental to defining its radius, area, and other properties.",
+    "placeholder_note": "Image to be generated. Highlight the base circle."
+  },
+  "chunk_id": "MEN-VOL-3_concept_1_chunk_006"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಬ್ಯಾಟರಿ (Battery)",
+  "script": "ಈಗ ನಾವು ಬ್ಯಾಟರಿ ಎಂದರೇನು ಎಂದು ತಿಳಿಯೋಣ. ಬ್ಯಾಟರಿ ಎಂದರೆ ತುಂಬಾ ಸರಳ. ಎರಡು ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚು ವಿದ್ಯುತ್ ಕೋಶಗಳನ್ನು, ಅಂದರೆ ಸೆಲ್ ಗಳನ್ನು, ಒಟ್ಟಿಗೆ ಸೇರಿಸಿ ಜೋಡಿಸಿದರೆ, ಅದನ್ನೇ ಬ್ಯಾಟರಿ ಎನ್ನುತ್ತೇವೆ. ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ನಿಯಮವಿದೆ. ಈ ಜೋಡಣೆಯಲ್ಲಿ, ಒಂದು ಕೋಶದ ಧನಾಗ್ರ, ಅಂದರೆ ಪ್ಲಸ್ ತುದಿಯನ್ನು, ಮುಂದಿನ ಕೋಶದ ಋಣಾಗ್ರ, ಅಂದರೆ ಮೈನಸ್ ತುದಿಗೆ ಸಂಪರ್ಕಿಸಬೇಕು. ಈ ರೀತಿ ಸರಣಿಯಲ್ಲಿ ಜೋಡಿಸುವುದರಿಂದ ಬ್ಯಾಟರಿ உருவாகುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಬ್ಯಾಟರಿ ಎಂದರೇನು ಎಂದು ತಿಳಿಯೋಣ. ಬ್ಯಾಟರಿ ಎಂದರೆ ತುಂಬಾ ಸರಳ. ಎರಡು ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚು ವಿದ್ಯುತ್ ಕೋಶಗಳನ್ನು (cells) ಒಟ್ಟಿಗೆ ಸೇರಿಸಿ ಜೋಡಿಸಿದರೆ, ಅದನ್ನೇ ಬ್ಯಾಟರಿ ಎನ್ನುತ್ತೇವೆ. ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ನಿಯಮವಿದೆ. ಈ ಜೋಡಣೆಯಲ್ಲಿ, ಒಂದು ಕೋಶದ ಧನಾಗ್ರವನ್ನು (+), ಮುಂದಿನ ಕೋಶದ ಋಣಾಗ್ರಕ್ಕೆ (-) ಸಂಪರ್ಕಿಸಬೇಕು. ಈ ರೀತಿ ಸರಣಿಯಲ್ಲಿ ಜೋಡಿಸುವುದರಿಂದ ಬ್ಯಾಟರಿ உருவாகುತ್ತದೆ.",
+  "display_bullets": [
+    "ಎರಡು ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚು ವಿದ್ಯುತ್ ಕೋಶಗಳ (cells) ಸಂಯೋಜನೆಯೇ ಬ್ಯಾಟರಿ.",
+    "ಈ ಜೋಡಣೆಯಲ್ಲಿ, ಒಂದು ಕೋಶದ ಧನಾಗ್ರವನ್ನು (+) ಮುಂದಿನ ಕೋಶದ ಋಣಾಗ್ರಕ್ಕೆ (-) ಸಂಪರ್ಕಿಸಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "bottom",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the circuit symbol for a single electric cell, with its positive (+) and negative (-) terminals labeled. Next to it, the circuit symbol for a battery, which is two cell symbols connected in series (+ of first to - of second).",
+    "labels": "Electric cell symbol, Battery symbol",
+    "scientific_significance": "Illustrates the fundamental principle of constructing a battery from individual cells and their standard representation in circuit diagrams.",
+    "placeholder_note": "Image to show the symbol for a cell (long line +, short line -) and a battery (two cells in series)."
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_7_chapter_10_concept_1_chunk_008"
+}

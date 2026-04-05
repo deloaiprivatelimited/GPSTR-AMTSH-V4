@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ನಾವು ಕಂಡುಕೊಂಡಂತೆ, ಅಜ್ಞಾತ ಕೋನ x ನ ಬೆಲೆ ಅರವತ್ತು ಡಿಗ್ರಿ ಆಗಿದೆ. ಬಾಹ್ಯ ಕೋನದ ಗುಣವನ್ನು ಸರಿಯಾಗಿ ಅನ್ವಯಿಸುವುದರಿಂದ ಈ ಉತ್ತರವನ್ನು ಸುಲಭವಾಗಿ ಪಡೆಯಬಹುದು.",
+  "script_display": "ಹೀಗಾಗಿ, ನಾವು ಕಂಡುಕೊಂಡಂತೆ, ಅಜ್ಞಾತ ಕೋನ x ನ ಬೆಲೆ 60° ಆಗಿದೆ. ಬಾಹ್ಯ ಕೋನದ ಗುಣವನ್ನು ಸರಿಯಾಗಿ ಅನ್ವಯಿಸುವುದರಿಂದ ಈ ಉತ್ತರವನ್ನು ಸುಲಭವಾಗಿ ಪಡೆಯಬಹುದು.",
+  "display_bullets": [
+    "ಅಜ್ಞಾತ ಕೋನ x ನ ಬೆಲೆ 60° ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_result",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "GEO-TRI-1_example_1",
+  "final_answer": "x = 60°",
+  "final_answer_display": "$x = 60°$",
+  "chunk_id": "GEO-TRI-1_concept_2_chunk_027"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಹಂತ 1",
+  "script": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ಶ್ರುತಿಕವೆಯನ್ನು ಅದರ ಹಿಡಿಯಿಂದ ಹಿಡಿದುಕೊಳ್ಳಿ. ನಂತರ, ಅದರ ಒಂದು ತೋಳನ್ನು ರಬ್ಬರ್ ಪ್ಯಾಡಿಗೆ ನಿಧಾನವಾಗಿ ಬಡಿಯಿರಿ. ಹೀಗೆ ಮಾಡಿದ ತಕ್ಷಣ, ಶ್ರುತಿಕವೆಯ ತೋಳುಗಳು ವೇಗವಾಗಿ ಹಿಂದಕ್ಕೂ ಮುಂದಕ್ಕೂ ಚಲಿಸಲು, ಅಂದರೆ ಕಂಪಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತವೆ. ಈಗ, ಆ ಕಂಪಿಸುತ್ತಿರುವ ಶ್ರುತಿಕವೆಯನ್ನು ನಿಮ್ಮ ಕಿವಿಯ ಹತ್ತಿರ ತನ್ನಿ. ನಿಮಗೆ ಒಂದು ನಿರಂತರವಾದ, ಝೇಂಕರಿಸುವ ಶಬ್ದ ಕೇಳಿಸುತ್ತದೆಯೇ? ಈ ಶಬ್ದವು ಶ್ರುತಿಕವೆಯ ಕಂಪನದಿಂದ ಉಂಟಾಗುತ್ತಿದೆ. ಇದು ನಮ್ಮ ಮೊದಲ ವೀಕ್ಷಣೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲಿಗೆ, ಶ್ರುತಿಕವೆಯನ್ನು ಅದರ ಹಿಡಿಯಿಂದ ಹಿಡಿದುಕೊಳ್ಳಿ. ನಂತರ, ಅದರ ಒಂದು ತೋಳನ್ನು ರಬ್ಬರ್ ಪ್ಯಾಡಿಗೆ ನಿಧಾನವಾಗಿ ಬಡಿಯಿರಿ. ಹೀಗೆ ಮಾಡಿದ ತಕ್ಷಣ, ಶ್ರುತಿಕವೆಯ ತೋಳುಗಳು ವೇಗವಾಗಿ ಹಿಂದಕ್ಕೂ ಮುಂದಕ್ಕೂ ಚಲಿಸಲು, ಅಂದರೆ ಕಂಪಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತವೆ. ಈಗ, ಆ ಕಂಪಿಸುತ್ತಿರುವ ಶ್ರುತಿಕವೆಯನ್ನು ನಿಮ್ಮ ಕಿವಿಯ ಹತ್ತಿರ ತನ್ನಿ. ನಿಮಗೆ ಒಂದು ನಿರಂತರವಾದ, ಝೇಂಕರಿಸುವ ಶಬ್ದ ಕೇಳಿಸುತ್ತದೆಯೇ? ಈ ಶಬ್ದವು ಶ್ರುತಿಕವೆಯ ಕಂಪನದಿಂದ ಉಂಟಾಗುತ್ತಿದೆ. ಇದು ನಮ್ಮ ಮೊದಲ ವೀಕ್ಷಣೆ.",
+  "display_bullets": [
+    "ಶ್ರುತಿಕವೆಯನ್ನು ರಬ್ಬರ್ ಪ್ಯಾಡಿಗೆ ಬಡಿದು ಕಂಪಿಸುವಂತೆ ಮಾಡಿ.",
+    "ಕಂಪಿಸುತ್ತಿರುವ ಶ್ರುತಿಕವೆಯನ್ನು ಕಿವಿಯ ಹತ್ತಿರ ತಂದು ಶಬ್ದವನ್ನು ಆಲಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a person first striking a tuning fork on a rubber pad, and then bringing the vibrating fork close to their ear to listen for the sound.",
+    "labels": "ಕಂಪಿಸುತ್ತಿರುವ ಶ್ರುತಿಕವೆ, ಕಿವಿ, ಶಬ್ದ ತರಂಗಗಳು",
+    "scientific_significance": "Demonstrates the first step of the experiment: producing sound and observing it directly.",
+    "placeholder_note": "Image to be generated showing the action of striking the fork and listening."
+  },
+  "sub_type": "experiment_walkthrough",
+  "chunk_id": "std_9_chapter_11_concept_1_chunk_011"
+}

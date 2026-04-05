@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಸಾಮಾನ್ಯ ಗೊಂದಲ",
+  "script": "ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಒಂದು ಪ್ರಮುಖ ಗೊಂದಲವನ್ನು ನಿವಾರಿಸಿಕೊಳ್ಳೋಣ. ಅನೇಕ ವಿದ್ಯಾರ್ಥಿಗಳು 'ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆ' ಮತ್ತು 'p ಆಫ್ ಜೀರೋ' ಇವೆರಡರ ನಡುವೆ ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುತ್ತಾರೆ. ಇವೆರಡೂ ಸಂಪೂರ್ಣವಾಗಿ ಬೇರೆ ಬೇರೆ. p ಆಫ್ ಜೀರೋ ಎಂದರೆ, x ನ ಬೆಲೆ ಸೊನ್ನೆ ಆದಾಗ ಬಹುಪದೋಕ್ತಿಯ ಬೆಲೆ ಏನು ಎಂದು ಕಂಡುಹಿಡಿಯುವುದು. ಆದರೆ, 'ಶೂನ್ಯತೆ' ಎಂದರೆ, ಯಾವ x ನ ಬೆಲೆಗೆ ಬಹುಪದೋಕ್ತಿಯ ಮೌಲ್ಯವೇ ಸೊನ್ನೆಯಾಗುತ್ತದೆ ಎಂದು ಕಂಡುಹಿಡಿಯುವುದು. ಉದಾಹರಣೆಗೆ, p ಆಫ್ x ಈಕ್ವಲ್ಸ್ x ಮೈನಸ್ 3 ರಲ್ಲಿ, p ಆಫ್ ಜೀರೋ ದ ಬೆಲೆ ಮೈನಸ್ 3. ಆದರೆ, ಇದರ ಶೂನ್ಯತೆ 3 ಆಗಿದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ.",
+  "script_display": "ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಒಂದು ಪ್ರಮುಖ ಗೊಂದಲವನ್ನು ನಿವಾರಿಸಿಕೊಳ್ಳೋಣ. ಅನೇಕ ವಿದ್ಯಾರ್ಥಿಗಳು 'ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆ' ಮತ್ತು '$p(0)$' ಇವೆರಡರ ನಡುವೆ ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುತ್ತಾರೆ. ಇವೆರಡೂ ಸಂಪೂರ್ಣವಾಗಿ ಬೇರೆ ಬೇರೆ. $p(0)$ ಎಂದರೆ, $x=0$ ಆದಾಗ ಬಹುಪದೋಕ್ತಿಯ *ಬೆಲೆ* ಏನು ಎಂದು ಕಂಡುಹಿಡಿಯುವುದು. ಆದರೆ, 'ಶೂನ್ಯತೆ' ಎಂದರೆ, $p(x)=0$ ಆಗುವಂತೆ ಮಾಡುವ *x ನ ಬೆಲೆ* ಏನು ಎಂದು ಕಂಡುಹಿಡಿಯುವುದು. ಉದಾಹರಣೆಗೆ, $p(x) = x-3$ ರಲ್ಲಿ, $p(0) = -3$. ಆದರೆ, ಇದರ ಶೂನ್ಯತೆ $3$ ಆಗಿದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ.",
+  "display_bullets": [
+    "ಗೊಂದಲ: 'ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆ' vs '$p(0)$'",
+    "$p(0)$ = $x=0$ ಆದಾಗ ಸಿಗುವ ಬಹುಪದೋಕ್ತಿಯ **ಬೆಲೆ** (Value).",
+    "ಶೂನ್ಯತೆ = $p(x)=0$ ಆಗುವಂತೆ ಮಾಡುವ **x ನ ಬೆಲೆ** (x-value).",
+    "ಉದಾ: $p(x) = x-3$ ಕ್ಕೆ, $p(0) = -3$ (ಬೆಲೆ), ಆದರೆ ಶೂನ್ಯತೆಯು $3$ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_only",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "exam_tip",
+  "exam_tip": {
+    "question_pattern": "MCQ",
+    "skill_tested": "Distinguishing between the value of a polynomial at x=0, i.e., p(0), and the zero of a polynomial.",
+    "distractor": "Calculating p(0) when asked for the zero of the polynomial, or vice-versa.",
+    "why_distractor_works": "The word 'zero' is present in both 'zero of a polynomial' and 'p(0)', leading to confusion. p(0) is the y-intercept, while a zero is an x-intercept. They are fundamentally different concepts but sound similar."
+  },
+  "chunk_id": "ALG-POL-3_concept_2_chunk_016"
+}

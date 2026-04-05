@@ -1,0 +1,101 @@
+{
+  "module_id": "std_10_chapter_1_concept_5",
+  "chapter_code": "std_10_chapter_1",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 359.208,
+  "total_duration_formatted": "5:59",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_1_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಉತ್ಕರ್ಷಣದ ಪರಿಣಾಮಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 57.971,
+      "duration": 57.971,
+      "script_words": 97
+    },
+    {
+      "chunk_id": "std_10_chapter_1_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 58.571,
+      "end": 82.822,
+      "duration": 24.251,
+      "script_words": 35
+    },
+    {
+      "chunk_id": "std_10_chapter_1_concept_5_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಉತ್ಕರ್ಷಣದ ಪರಿಣಾಮಗಳು",
+      "type": "concept_explanation",
+      "start": 83.422,
+      "end": 126.713,
+      "duration": 43.291,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_10_chapter_1_concept_5_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಸಂಕ್ಷಾರಣ (Corrosion)",
+      "type": "concept_explanation",
+      "start": 127.313,
+      "end": 168.924,
+      "duration": 41.611,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_10_chapter_1_concept_5_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಸಂಕ್ಷಾರಣ: ಇತರ ಉದಾಹರಣೆಗಳು",
+      "type": "concept_explanation",
+      "start": 169.524,
+      "end": 216.175,
+      "duration": 46.651,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_10_chapter_1_concept_5_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಕಮಟುವಿಕೆ (Rancidity)",
+      "type": "concept_explanation",
+      "start": 216.775,
+      "end": 257.546,
+      "duration": 40.771,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_10_chapter_1_concept_5_chunk_007",
+      "chunk_file": "007_classification_cont_0_4.json",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "slide_title": "ಕಮಟುವಿಕೆ ತಡೆಯುವ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "start": 258.146,
+      "end": 313.077,
+      "duration": 54.931,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_10_chapter_1_concept_5_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಉತ್ಕರ್ಷಣದ ಪರಿಣಾಮಗಳು",
+      "type": "recap",
+      "start": 313.677,
+      "end": 358.608,
+      "duration": 44.931,
+      "script_words": 55
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 4 ಮತ್ತು ವೀಕ್ಷಣೆ",
+  "script": "ಈಗ ಬಣ್ಣರಹಿತವಾದ ಎಲೆಯನ್ನು ಆಲ್ಕೋಹಾಲ್‌ನಿಂದ ಹೊರತೆಗೆದು, ತಣ್ಣೀರಿನಲ್ಲಿ ಚೆನ್ನಾಗಿ ತೊಳೆಯಿರಿ. ಇದು ಎಲೆಯನ್ನು ಮೃದುಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಅಂಟಿಕೊಂಡಿರುವ ಹೆಚ್ಚುವರಿ ಆಲ್ಕೋಹಾಲ್ ಅನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ. ನಂತರ, ಎಲೆಯನ್ನು ಒಂದು ಪೆಟ್ರಿ ಡಿಶ್ ಅಥವಾ ತಟ್ಟೆಯಲ್ಲಿ ಹರಡಿ. ಅದರ ಮೇಲೆ ಡ್ರಾಪರ್ ಬಳಸಿ ಎರಡು ಅಥವಾ ಮೂರು ಹನಿ ಅಯೋಡಿನ್ ದ್ರಾವಣವನ್ನು ಹಾಕಿ. ಈಗ ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ. ಎಲೆಯ ಬಣ್ಣದಲ್ಲಿ ಏನಾದರೂ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತದೆಯೇ? ಹೌದು, ಎಲೆಯು ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುವುದನ್ನು ನಾವು ನೋಡಬಹುದು.",
+  "script_display": "ಈಗ ಬಣ್ಣರಹಿತವಾದ ಎಲೆಯನ್ನು ಆಲ್ಕೋಹಾಲ್‌ನಿಂದ ಹೊರತೆಗೆದು, ತಣ್ಣೀರಿನಲ್ಲಿ ಚೆನ್ನಾಗಿ ತೊಳೆಯಿರಿ. ಇದು ಎಲೆಯನ್ನು ಮೃದುಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಅಂಟಿಕೊಂಡಿರುವ ಹೆಚ್ಚುವರಿ ಆಲ್ಕೋಹಾಲ್ ಅನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ. ನಂತರ, ಎಲೆಯನ್ನು ಒಂದು ಪೆಟ್ರಿ ಡಿಶ್‌ನಲ್ಲಿ ಹರಡಿ. ಅದರ ಮೇಲೆ ಡ್ರಾಪರ್ ಬಳಸಿ 2-3 ಹನಿ ಅಯೋಡಿನ್ ದ್ರಾವಣವನ್ನು ಹಾಕಿ. ಈಗ ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ. ಎಲೆಯ ಬಣ್ಣದಲ್ಲಿ ಏನಾದರೂ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತದೆಯೇ? ಹೌದು, ಎಲೆಯು ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುವುದನ್ನು ನಾವು ನೋಡಬಹುದು.",
+  "display_bullets": [
+    "ಹಂತ 4: ಬಣ್ಣರಹಿತ ಎಲೆಯನ್ನು ತೊಳೆದು, ಅದರ ಮೇಲೆ ಅಯೋಡಿನ್ ದ್ರಾವಣವನ್ನು ಹಾಕಿ.",
+    "ವೀಕ್ಷಣೆ: ಎಲೆಯು ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-part image. Part 1 shows adding iodine drops to the decolorized leaf in a petri dish. Part 2 shows the final result: the leaf has turned a dark blue-black color.",
+    "labels": "ಅಯೋಡಿನ್ ದ್ರಾವಣ, ಬಣ್ಣರಹಿತ ಎಲೆ, ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣದ ಎಲೆ",
+    "scientific_significance": "Visually represents the final step of the test and the positive result, which is the key observation.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_7_science_ch_1_concept_2_chunk_019"
+}

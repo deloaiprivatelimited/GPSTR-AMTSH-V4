@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಅಂಶವನ್ನು ಅಪವರ್ತಿಸೋಣ. ಸೆಕ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಮೈನಸ್ ಟ್ಯಾನ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಎಂಬುದು ಎ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಬಿ ಸ್ಕ್ವೇರ್ಡ್ ರೂಪದಲ್ಲಿದೆ. ಇದನ್ನು ನಾವು ಸೆಕ್ ತೀಟಾ ಮೈನಸ್ ಟ್ಯಾನ್ ತೀಟಾ, ಗುಣಿಸು ಸೆಕ್ ತೀಟಾ ಪ್ಲಸ್ ಟ್ಯಾನ್ ತೀಟಾ ಎಂದು ಬರೆಯಬಹುದು. ಈಗ ಪೂರ್ತಿ ಅಂಶದಲ್ಲಿ ಸೆಕ್ ತೀಟಾ ಪ್ಲಸ್ ಟ್ಯಾನ್ ತೀಟಾ ಎಂಬುದು ಸಾಮಾನ್ಯ ಅಪವರ್ತನ. ಅದನ್ನು ಹೊರತೆಗೆದಾಗ, ನಮಗೆ ಸೆಕ್ ತೀಟಾ ಪ್ಲಸ್ ಟ್ಯಾನ್ ತೀಟಾ, ಗುಣಿಸು 1 ಮೈನಸ್ ಸೆಕ್ ತೀಟಾ ಪ್ಲಸ್ ಟ್ಯಾನ್ ತೀಟಾ ಸಿಗುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಈ ಹೊಸ ಅಂಶವನ್ನು ಮೂಲ ಛೇದದೊಂದಿಗೆ ಬರೆಯೋಣ. ಗಮನಿಸಿ, ಅಂಶದಲ್ಲಿರುವ 1 ಮೈನಸ್ ಸೆಕ್ ತೀಟಾ ಪ್ಲಸ್ ಟ್ಯಾನ್ ತೀಟಾ ಮತ್ತು ಛೇದದಲ್ಲಿರುವ ಟ್ಯಾನ್ ತೀಟಾ ಪ್ಲಸ್ 1 ಮೈನಸ್ ಸೆಕ್ ತೀಟಾ, ಇವೆರಡೂ ಒಂದೇ. ಆದ್ದರಿಂದ ಅವುಗಳನ್ನು ರದ್ದುಗೊಳಿಸಬಹುದು. ನಮಗೆ ಕೇವಲ ಸೆಕ್ ತೀಟಾ ಪ್ಲಸ್ ಟ್ಯಾನ್ ತೀಟಾ ಉಳಿಯುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಅಂಶವನ್ನು ಅಪವರ್ತಿಸೋಣ. $\\sec^2 \\theta - \\tan^2 \\theta$ ಎಂಬುದು $a^2 - b^2$ ರೂಪದಲ್ಲಿದೆ. ಇದನ್ನು ನಾವು $(\\sec \\theta - \\tan \\theta)(\\sec \\theta + \\tan \\theta)$ ಎಂದು ಬರೆಯಬಹುದು. ಈಗ ಪೂರ್ತಿ ಅಂಶದಲ್ಲಿ $(\\sec \\theta + \\tan \\theta)$ ಎಂಬುದು ಸಾಮಾನ್ಯ ಅಪವರ್ತನ. ಅದನ್ನು ಹೊರತೆಗೆದಾಗ, ನಮಗೆ $(\\sec \\theta + \\tan \\theta)[1 - (\\sec \\theta - \\tan \\theta)] = (\\sec \\theta + \\tan \\theta)(1 - \\sec \\theta + \\tan \\theta)$ ಸಿಗುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಈ ಹೊಸ ಅಂಶವನ್ನು ಮೂಲ ಛೇದದೊಂದಿಗೆ ಬರೆಯೋಣ. ಗಮನಿಸಿ, ಅಂಶದಲ್ಲಿರುವ $(1 - \\sec \\theta + \\tan \\theta)$ ಮತ್ತು ಛೇದದಲ್ಲಿರುವ $(\\tan \\theta + 1 - \\sec \\theta)$, ಇವೆರಡೂ ಒಂದೇ. ಆದ್ದರಿಂದ ಅವುಗಳನ್ನು ರದ್ದುಗೊಳಿಸಬಹುದು. ನಮಗೆ ಕೇವಲ $\\sec \\theta + \\tan \\theta$ ಉಳಿಯುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "TRI-INTRO-1_example_12",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಅಂಶ = $(\\sec \\theta + \\tan \\theta) - (\\sec \\theta - \\tan \\theta)(\\sec \\theta + \\tan \\theta) \\newline = (\\sec \\theta + \\tan \\theta)(1 - \\sec \\theta + \\tan \\theta)$",
+      "justification": "$a^2 - b^2 = (a-b)(a+b)$ ಸೂತ್ರ ಬಳಸಿ ಅಪವರ್ತಿಸುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "LHS = $\\frac{(\\sec \\theta + \\tan \\theta)(1 - \\sec \\theta + \\tan \\theta)}{(\\tan \\theta + 1 - \\sec \\theta)} = \\sec \\theta + \\tan \\theta$",
+      "justification": "ಅಂಶ ಮತ್ತು ಛೇದದಲ್ಲಿ ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ರದ್ದುಗೊಳಿಸುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_040"
+}

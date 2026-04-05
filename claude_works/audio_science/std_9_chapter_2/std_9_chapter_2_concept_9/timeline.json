@@ -1,0 +1,123 @@
+{
+  "module_id": "std_9_chapter_2_concept_9",
+  "chapter_code": "std_9_chapter_2",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 475.23,
+  "total_duration_formatted": "7:55",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_2_concept_9_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಧಾತುಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 54.451,
+      "duration": 54.451,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_9_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 55.051,
+      "end": 81.742,
+      "duration": 26.691,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_9_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ಧಾತು (Element) ಎಂದರೇನು?",
+      "type": "definition",
+      "start": 82.342,
+      "end": 127.873,
+      "duration": 45.531,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_9_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥೈಸಿಕೊಳ್ಳೋಣ",
+      "type": "definition",
+      "start": 128.473,
+      "end": 170.644,
+      "duration": 42.171,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_9_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಧಾತು vs. ಸಂಯುಕ್ತ (Element vs. Compound)",
+      "type": "definition",
+      "start": 171.244,
+      "end": 222.775,
+      "duration": 51.531,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_9_chunk_006",
+      "chunk_file": "006_classification_0.json",
+      "wav_file": "006_classification_0.wav",
+      "slide_title": "ಧಾತುಗಳ ವರ್ಗೀಕರಣ: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 223.375,
+      "end": 267.906,
+      "duration": 44.531,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_9_chunk_007",
+      "chunk_file": "007_classification_cont_0_1.json",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "slide_title": "ಲೋಹಗಳು (Metals)",
+      "type": "concept_explanation",
+      "start": 268.506,
+      "end": 329.437,
+      "duration": 60.931,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_9_chunk_008",
+      "chunk_file": "008_classification_cont_0_2.json",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "slide_title": "ಅಲೋಹಗಳು (Non-metals)",
+      "type": "concept_explanation",
+      "start": 330.037,
+      "end": 381.448,
+      "duration": 51.411,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_9_chunk_009",
+      "chunk_file": "009_classification_cont_0_3.json",
+      "wav_file": "009_classification_cont_0_3.wav",
+      "slide_title": "ಲೋಹಾಭಗಳು (Metalloids)",
+      "type": "concept_explanation",
+      "start": 382.048,
+      "end": 430.539,
+      "duration": 48.491,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_9_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "start": 431.139,
+      "end": 474.63,
+      "duration": 43.491,
+      "script_words": 51
+    }
+  ]
+}

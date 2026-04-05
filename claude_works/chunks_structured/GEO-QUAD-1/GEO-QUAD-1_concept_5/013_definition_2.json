@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಚೌಕ (Square)",
+  "script": "ಈಗ ನಾವು ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳ ಕುಟುಂಬದಲ್ಲಿ ಅತ್ಯಂತ ವಿಶೇಷ ಸದಸ್ಯನಾದ ಚೌಕದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಚೌಕವು ಆಯತ ಮತ್ತು ವಜ್ರಾಕೃತಿ ಎರಡರ ಗುಣಲಕ್ಷಣಗಳನ್ನು ತನ್ನಲ್ಲಿ ಅಳವಡಿಸಿಕೊಂಡಿದೆ. ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, ಚೌಕವು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿದ್ದು, ಇದರಲ್ಲಿ ಒಂದು ಕೋನವು ಲಂಬಕೋನವಾಗಿರುತ್ತದೆ ಮತ್ತು ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಒಂದು ಚತುರ್ಭುಜದ ಎಲ್ಲಾ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮನಾಗಿದ್ದು, ಎಲ್ಲಾ ನಾಲ್ಕು ಕೋನಗಳು ತೊಂಬತ್ತು ಡಿಗ್ರಿಗೆ ಸಮನಾಗಿದ್ದರೆ, ಅದನ್ನು ನಾವು ಚೌಕ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ಒಂದು ಪರಿಪೂರ್ಣ ಮತ್ತು ನಿಯಮಿತ ಆಕೃತಿಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳ ಕುಟುಂಬದಲ್ಲಿ ಅತ್ಯಂತ ವಿಶೇಷ ಸದಸ್ಯನಾದ ಚೌಕದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಚೌಕವು ಆಯತ ಮತ್ತು ವಜ್ರಾಕೃತಿ ಎರಡರ ಗುಣಲಕ್ಷಣಗಳನ್ನು ತನ್ನಲ್ಲಿ ಅಳವಡಿಸಿಕೊಂಡಿದೆ. ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, ಚೌಕವು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿದ್ದು, ಇದರಲ್ಲಿ ಒಂದು ಕೋನವು ಲಂಬಕೋನವಾಗಿರುತ್ತದೆ ಮತ್ತು ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಒಂದು ಚತುರ್ಭುಜದ ಎಲ್ಲಾ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮನಾಗಿದ್ದು, ಎಲ್ಲಾ ನಾಲ್ಕು ಕೋನಗಳು $90°$ ಗೆ ಸಮನಾಗಿದ್ದರೆ, ಅದನ್ನು ನಾವು ಚೌಕ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ಒಂದು ಪರಿಪೂರ್ಣ ಮತ್ತು ನಿಯಮಿತ ಆಕೃತಿಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಚೌಕವು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜವಾಗಿದ್ದು, ಇದರಲ್ಲಿ ಒಂದು ಕೋನವು ಲಂಬಕೋನವಾಗಿರುತ್ತದೆ ಮತ್ತು ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತವೆ.",
+    "A square is a parallelogram with a right angle and all sides equal."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "simple_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clean diagram of a square ABCD. Use tick marks to show all four sides are equal (AB = BC = CD = DA). Use a right-angle symbol at each vertex (A, B, C, D) to indicate 90-degree angles.",
+    "labels": "A, B, C, D for vertices",
+    "mathematical_significance": "Illustrates the core definition of a square: equal sides and right angles.",
+    "placeholder_note": "Image to be generated for a square with all properties marked."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_5_chunk_013"
+}

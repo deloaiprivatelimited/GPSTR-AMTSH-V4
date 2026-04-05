@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಫಲಿತಾಂಶ",
+  "script": "ಹೀಗೆ, ನಾವು ಕೋನ PTQ ಈಕ್ವಲ್ಸ್ ಟೂ ಟೈಮ್ಸ್ ಕೋನ OPQ ಎಂದು ಯಶಸ್ವಿಯಾಗಿ ಸಾಧಿಸಿದ್ದೇವೆ. ಈ ಸಾಧನೆಯು ಎರಡು ಪ್ರಮುಖ ಪ್ರಮೇಯಗಳ ಮೇಲೆ ಆಧಾರಿತವಾಗಿದೆ: ಒಂದು, ಬಾಹ್ಯ ಬಿಂದುವಿನಿಂದ ಎಳೆದ ಸ್ಪರ್ಶಕಗಳ ಉದ್ದ ಸಮವಾಗಿರುತ್ತದೆ, ಮತ್ತು ಎರಡು, ಸ್ಪರ್ಶ ಬಿಂದುವಿನಲ್ಲಿ ತ್ರಿಜ್ಯವು ಸ್ಪರ್ಶಕಕ್ಕೆ ಲಂಬವಾಗಿರುತ್ತದೆ. ಈ ಗುಣಲಕ್ಷಣಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ವೃತ್ತಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಅನೇಕ ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ನಾವು $\\angle PTQ = 2\\angle OPQ$ ಎಂದು ಯಶಸ್ವಿಯಾಗಿ ಸಾಧಿಸಿದ್ದೇವೆ. ಈ ಸಾಧನೆಯು ಎರಡು ಪ್ರಮುಖ ಪ್ರಮೇಯಗಳ ಮೇಲೆ ಆಧಾರಿತವಾಗಿದೆ: ಒಂದು, ಬಾಹ್ಯ ಬಿಂದುವಿನಿಂದ ಎಳೆದ ಸ್ಪರ್ಶಕಗಳ ಉದ್ದ ಸಮವಾಗಿರುತ್ತದೆ, ಮತ್ತು ಎರಡು, ಸ್ಪರ್ಶ ಬಿಂದುವಿನಲ್ಲಿ ತ್ರಿಜ್ಯವು ಸ್ಪರ್ಶಕಕ್ಕೆ ಲಂಬವಾಗಿರುತ್ತದೆ. ಈ ಗುಣಲಕ್ಷಣಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ವೃತ್ತಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಅನೇಕ ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\angle PTQ = 2\\angle OPQ",
+    "placeholder_note": "Display the final proven relation in a highlighted box."
+  },
+  "source_example_id": "GEO-CIR-2_example_5",
+  "steps": [],
+  "final_answer": "∠PTQ = 2∠OPQ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "$\\angle PTQ = 2\\angle OPQ$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "chunk_id": "GEO-CIR-2_concept_6_chunk_022"
+}

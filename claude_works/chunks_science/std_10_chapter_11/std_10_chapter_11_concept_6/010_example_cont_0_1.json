@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ಪ್ರತಿ ರೋಧಕದ ಮೂಲಕ ಪ್ರವಾಹ (a)",
+  "script": "ಮೊದಲಿಗೆ, ಪ್ರತಿ ರೋಧಕದ ಮೂಲಕ ಹರಿಯುವ ಪ್ರವಾಹವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಸಮಾಂತರ ಸಂಯೋಜನೆಯಲ್ಲಿ, ಪ್ರತಿ ರೋಧಕದಾದ್ಯಂತ ವಿಭವಾಂತರವು ಒಂದೇ ಆಗಿರುತ್ತದೆ, ಅಂದರೆ ಹನ್ನೆರಡು ವೋಲ್ಟ್. ಓಮ್‌ನ ನಿಯಮ, ಐ ಈಕ್ವಲ್ಸ್ ವಿ ಬೈ ಆರ್ ಬಳಸಿ, ನಾವು ಪ್ರತಿ ಪ್ರವಾಹವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಮೊದಲ ರೋಧಕಕ್ಕೆ, ಐ ಒನ್ ಈಕ್ವಲ್ಸ್ ಹನ್ನೆರಡು ವೋಲ್ಟ್ ಭಾಗಿಸು ಐದು ಓಮ್, ಅಂದರೆ ಎರಡು ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಆಂಪಿಯರ್. ಎರಡನೇ ರೋಧಕಕ್ಕೆ, ಐ ಟು ಈಕ್ವಲ್ಸ್ ಹನ್ನೆರಡು ವೋಲ್ಟ್ ಭಾಗಿಸು ಹತ್ತು ಓಮ್, ಅಂದರೆ ಒಂದು ಪಾಯಿಂಟ್ ಎರಡು ಆಂಪಿಯರ್. ಮತ್ತು ಮೂರನೇ ರೋಧಕಕ್ಕೆ, ಐ ತ್ರೀ ಈಕ್ವಲ್ಸ್ ಹನ್ನೆರಡು ವೋಲ್ಟ್ ಭಾಗಿಸು ಮೂವತ್ತು ಓಮ್, ಅಂದರೆ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಆಂಪಿಯರ್.",
+  "script_display": "ಸಮಾಂತರ ಸಂಯೋಜನೆಯಲ್ಲಿ, ವಿಭವಾಂತರ (V) ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಓಮ್‌ನ ನಿಯಮ (I = V/R) ಬಳಸಿ:\n\n(a) ಪ್ರತಿ ರೋಧಕದ ಮೂಲಕ ಪ್ರವಾಹ:",
+  "display_bullets": [
+    "I₁ = V / R₁ = 12V / 5Ω = 2.4 A",
+    "I₂ = V / R₂ = 12V / 10Ω = 1.2 A",
+    "I₃ = V / R₃ = 30Ω / 30Ω = 0.4 A"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_green",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "I = \\frac{V}{R}",
+    "placeholder_note": "Display Ohm's law formula."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_11_example_11.8",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "(a) ಪ್ರತಿ ರೋಧಕದ ಮೂಲಕ ಪ್ರವಾಹವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+      "justification": "ಸಮಾಂತರ ಸಂಯೋಜನೆಯಲ್ಲಿ V ಸ್ಥಿರ. I = V/R ಬಳಸಿ."
+    }
+  ],
+  "chunk_id": "std_10_chapter_11_concept_6_chunk_010"
+}

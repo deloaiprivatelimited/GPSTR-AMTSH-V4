@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಗುಣ 2: ಕರಗುವ ಬಿಂದು ಮತ್ತು ವಾಹಕತೆ",
+  "script": "ಆಶ್ಚರ್ಯಕರವಾಗಿ, ಮಿಶ್ರಲೋಹಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಅವುಗಳ ಘಟಕ ಶುದ್ಧ ಲೋಹಗಳಿಗಿಂತ ಕಡಿಮೆ ಕರಗುವ ಬಿಂದು ಮತ್ತು ಕಡಿಮೆ ವಿದ್ಯುತ್ ವಾಹಕತೆಯನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಇದಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆ ಬೆಸುಗೆ ಲೋಹ, ಅಂದರೆ ಸೋಲ್ಡರ್. ಇದು ಸೀಸ ಮತ್ತು ತವರದ ಮಿಶ್ರಲೋಹ. ಇದರ ಕರಗುವ ಬಿಂದು ಸೀಸ ಮತ್ತು ತವರ ಎರಡಕ್ಕಿಂತಲೂ ಕಡಿಮೆಯಿರುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಸರ್ಕ್ಯೂಟ್ ಬೋರ್ಡ್‌ಗಳಲ್ಲಿ ಸೂಕ್ಷ್ಮ ಘಟಕಗಳನ್ನು ಬೆಸೆಯಲು ಇದನ್ನು ಬಳಸುತ್ತಾರೆ, ಏಕೆಂದರೆ ಕಡಿಮೆ ತಾಪಮಾನದಲ್ಲಿಯೇ ಇದು ಕರಗುತ್ತದೆ. ಪರಮಾಣುಗಳ ಅನಿಯಮಿತ ಜೋಡಣೆಯು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಮುಕ್ತ ಚಲನೆಗೆ ಅಡ್ಡಿಪಡಿಸುತ್ತದೆ, ಇದು ವಿದ್ಯುದ್ವಾಹಕತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಮಿಶ್ರಲೋಹಗಳ ವಿದ್ಯುದ್ವಾಹಕತೆ ಮತ್ತು ಕರಗುವ ಬಿಂದುವು ಸಾಮಾನ್ಯವಾಗಿ ಅವುಗಳ ಘಟಕ ಲೋಹಗಳಿಗಿಂತ ಕಡಿಮೆ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ (Example): ಬೆಸುಗೆ ಲೋಹ (Solder), ಸೀಸ (Pb) ಮತ್ತು ತವರ (Sn) ದ ಮಿಶ್ರಲೋಹ, ಅದರ ಘಟಕಗಳಿಗಿಂತ ಕಡಿಮೆ ಕರಗುವ ಬಿಂದುವನ್ನು ಹೊಂದಿದೆ.",
+    "ಕಾರಣ (Why): ಪರಮಾಣುಗಳ ಅನಿಯಮಿತ ಜೋಡಣೆಯು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಚಲನೆಯನ್ನು ಅಡ್ಡಿಪಡಿಸುತ್ತದೆ (ಕಡಿಮೆ ವಾಹಕತೆ) ಮತ್ತು ಲೋಹೀಯ ಬಂಧವನ್ನು ದುರ್ಬಲಗೊಳಿಸಿ, ಕರಗುವ ಬಿಂದುವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An image of a person soldering an electronic circuit board. The solder is melting easily from the soldering iron onto the board, joining a component. A small info box points to the solder and says 'ಕಡಿಮೆ ಕರಗುವ ಬಿಂದು' (Low Melting Point).",
+    "labels": "ಬೆಸುಗೆ ಲೋಹ (Solder), ಸರ್ಕ್ಯೂಟ್ ಬೋರ್ಡ್",
+    "scientific_significance": "Shows a practical application of an alloy with a low melting point.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_12_chunk_011"
+}

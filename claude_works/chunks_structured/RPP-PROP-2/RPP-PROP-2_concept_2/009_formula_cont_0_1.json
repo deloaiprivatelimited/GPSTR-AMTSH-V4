@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ವಿಲೋಮ ಅನುಪಾತದ ಸೂತ್ರ",
+  "script": "ವಿಲೋಮ ಅನುಪಾತದ ಸಂಬಂಧವನ್ನು ನಾವು ಗಣಿತದ ಸೂತ್ರದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಆ ಸೂತ್ರವೇ, x y equals k. ಇಲ್ಲಿ, x ಮತ್ತು y ಗಳು ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿರುವ ಎರಡು ಪರಿಮಾಣಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ನಮ್ಮ ಹಿಂದಿನ ಕೋಷ್ಟಕದಲ್ಲಿ x ಎಂಬುದು ಜವ ಮತ್ತು y ಎಂಬುದು ಸಮಯ. k ಎಂಬುದು ಒಂದು ಸ್ಥಿರಾಂಕ, ಇದನ್ನು ಅನುಪಾತದ ಸ್ಥಿರಾಂಕ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಸೂತ್ರದ ಅರ್ಥವೇನೆಂದರೆ, x ಮತ್ತು y ಯ ಮೌಲ್ಯಗಳು ಬದಲಾದರೂ, ಅವುಗಳ ಗುಣಲಬ್ಧ, ಅಂದರೆ ಪ್ರಾಡಕ್ಟ್, ಯಾವಾಗಲೂ k ಎಂಬ ಸ್ಥಿರ ಮೌಲ್ಯಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇದು ವಿಲೋಮ ಅನುಪಾತದ ಅತ್ಯಂತ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವಾಗಿದೆ.",
+  "script_display": "ವಿಲೋಮ ಅನುಪಾತದ ಸಂಬಂಧವನ್ನು ನಾವು ಗಣಿತದ ಸೂತ್ರದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಆ ಸೂತ್ರವೇ, $xy = k$. ಇಲ್ಲಿ, $x$ ಮತ್ತು $y$ ಗಳು ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿರುವ ಎರಡು ಪರಿಮಾಣಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ನಮ್ಮ ಹಿಂದಿನ ಕೋಷ್ಟಕದಲ್ಲಿ $x$ ಎಂಬುದು ಜವ ಮತ್ತು $y$ ಎಂಬುದು ಸಮಯ. $k$ ಎಂಬುದು ಒಂದು ಸ್ಥಿರಾಂಕ, ಇದನ್ನು ಅನುಪಾತದ ಸ್ಥಿರಾಂಕ (constant of proportionality) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಸೂತ್ರದ ಅರ್ಥವೇನೆಂದರೆ, $x$ ಮತ್ತು $y$ ಯ ಮೌಲ್ಯಗಳು ಬದಲಾದರೂ, ಅವುಗಳ ಗುಣಲಬ್ಧ (product) ಯಾವಾಗಲೂ $k$ ಎಂಬ ಸ್ಥಿರ ಮೌಲ್ಯಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇದು ವಿಲೋಮ ಅನುಪಾತದ ಅತ್ಯಂತ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ವಿಲೋಮ ಅನುಪಾತವನ್ನು ಗಣಿತೀಯವಾಗಿ $xy = k$ ಎಂದು ಬರೆಯಲಾಗುತ್ತದೆ.",
+    "`x` ಮತ್ತು `y` ಗಳು ವಿಲೋಮ ಅನುಪಾತದಲ್ಲಿರುವ ಎರಡು ಪರಿಮಾಣಗಳಾಗಿವೆ.",
+    "`k` ಎಂಬುದು ಅನುಪಾತದ ಸ್ಥಿರಾಂಕ (constant of proportionality) ಆಗಿದೆ.",
+    "ಈ ಸೂತ್ರವು, ಎರಡು ಪರಿಮಾಣಗಳ ಗುಣಲಬ್ಧವು ಯಾವಾಗಲೂ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ ಎಂದು ಹೇಳುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_standard",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "xy = k",
+    "placeholder_note": "The formula for inverse proportion, xy = k, displayed prominently in a box. 'x' and 'y' are the two quantities, and 'k' is the constant of proportionality."
+  },
+  "chunk_id": "RPP-PROP-2_concept_2_chunk_009"
+}

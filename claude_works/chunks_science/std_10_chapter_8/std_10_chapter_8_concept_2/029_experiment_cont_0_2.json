@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ 1: ಮೊದಲ ಸಂತತಿ (F1)",
+  "script": "ಪೋಷಕ ಸಸ್ಯಗಳ ನಡುವೆ ಪರಕೀಯ ಪರಾಗಸ್ಪರ್ಶ ನಡೆಸಿದ ನಂತರ, ಅದರಿಂದ ಬಂದ ಬೀಜಗಳನ್ನು ನಾವು ಸಂಗ್ರಹಿಸಿ ಬಿತ್ತುತ್ತೇವೆ. ಈ ಬೀಜಗಳಿಂದ ಬೆಳೆದ ಸಸ್ಯಗಳೇ ನಮ್ಮ ಮೊದಲ ಸಂತತಿ, ಅಂದರೆ ಎಫ್ ಒನ್ ಪೀಳಿಗೆ. ಈಗ ಗಮನಿಸಿ, ಇಲ್ಲಿನ ಫಲಿತಾಂಶ ಬಹಳ ಆಸಕ್ತಿದಾಯಕವಾಗಿದೆ. ಈ ಪೀಳಿಗೆಯಲ್ಲಿ ಬೆಳೆದ ಎಲ್ಲಾ ಸಸ್ಯಗಳೂ ಎತ್ತರವಾಗಿದ್ದವು! ಒಂದೇ ಒಂದು ಕುಬ್ಜ ಸಸ್ಯವೂ ಇರಲಿಲ್ಲ. ಪೋಷಕರಲ್ಲಿ ಒಬ್ಬರು ಕುಬ್ಜರಾಗಿದ್ದರೂ, ಆ ಗುಣವು ಈ ಪೀಳಿಗೆಯಲ್ಲಿ ಕಾಣೆಯಾಗಿದೆ. ಈ ವೀಕ್ಷಣೆಯನ್ನು ನಾವು ದಾಖಲಿಸಿಕೊಳ್ಳೋಣ.",
+  "script_display": "ಪೋಷಕ ಸಸ್ಯಗಳ ನಡುವೆ ಪರಕೀಯ ಪರಾಗಸ್ಪರ್ಶ ನಡೆಸಿದ ನಂತರ, ಅದರಿಂದ ಬಂದ ಬೀಜಗಳನ್ನು ನಾವು ಸಂಗ್ರಹಿಸಿ ಬಿತ್ತುತ್ತೇವೆ. ಈ ಬೀಜಗಳಿಂದ ಬೆಳೆದ ಸಸ್ಯಗಳೇ ನಮ್ಮ ಮೊದಲ ಸಂತತಿ, ಅಂದರೆ F1 ಪೀಳಿಗೆ. ಈಗ ಗಮನಿಸಿ, ಇಲ್ಲಿನ ಫಲಿತಾಂಶ ಬಹಳ ಆಸಕ್ತಿದಾಯಕವಾಗಿದೆ. ಈ ಪೀಳಿಗೆಯಲ್ಲಿ ಬೆಳೆದ ಎಲ್ಲಾ ಸಸ್ಯಗಳೂ ಎತ್ತರವಾಗಿದ್ದವು! ಒಂದೇ ಒಂದು ಕುಬ್ಜ ಸಸ್ಯವೂ ಇರಲಿಲ್ಲ. ಪೋಷಕರಲ್ಲಿ ಒಬ್ಬರು ಕುಬ್ಜರಾಗಿದ್ದರೂ, ಆ ಗುಣವು ಈ ಪೀಳಿಗೆಯಲ್ಲಿ ಕಾಣೆಯಾಗಿದೆ. ಈ ವೀಕ್ಷಣೆಯನ್ನು ನಾವು ದಾಖಲಿಸಿಕೊಳ್ಳೋಣ.",
+  "display_bullets": [
+    "ಪರಕೀಯ ಪರಾಗಸ್ಪರ್ಶದ (TT x tt) ಫಲವಾಗಿ F1 ಪೀಳಿಗೆಯು ಉತ್ಪತ್ತಿಯಾಯಿತು.",
+    "ಗಮನಿಸಿದ ಅಂಶ: F1 ಪೀಳಿಗೆಯ ಎಲ್ಲಾ ಸಸ್ಯಗಳು ಎತ್ತರವಾಗಿದ್ದವು.",
+    "ಕುಬ್ಜ ಗುಣವು ಈ ಪೀಳಿಗೆಯಲ್ಲಿ ವ್ಯಕ್ತವಾಗಲಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the result of the first cross. The P generation (TT x tt) is shown at the top, with an arrow pointing down to four identical tall pea plants, all labeled 'ಎತ್ತರ (Tt)'.",
+    "labels": "F1 ಪೀಳಿಗೆ, ಎತ್ತರದ ಸಸ್ಯ (Tt)",
+    "scientific_significance": "Visually demonstrates the outcome of the F1 generation, where all offspring exhibit the dominant phenotype, despite carrying the recessive allele.",
+    "placeholder_note": "Image to be generated for the F1 generation result."
+  },
+  "sub_type": "key_takeaway",
+  "chunk_id": "std_10_chapter_8_concept_2_chunk_029"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ಕೊಟ್ಟಿರುವ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಸಂಕ್ಷೇಪಿಸಿದಾಗ ನಮಗೆ ಸಿಗುವ ಉತ್ತರ ಒಂದು ಬೈ ಹದಿನಾರು. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಮೊದಲು ಋಣ ಘಾತಾಂಕಗಳನ್ನು ಧನ ಘಾತಾಂಕಗಳಾಗಿ ಪರಿವರ್ತಿಸಿ, ನಂತರ BODMAS ನಿಯಮದ ಪ್ರಕಾರ ಗಣಿತದ ಕ್ರಿಯೆಗಳನ್ನು ಸರಿಯಾದ ಕ್ರಮದಲ್ಲಿ ಮಾಡಿದೆವು.",
+  "script_display": "ಹೀಗೆ, ಕೊಟ್ಟಿರುವ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಸಂಕ್ಷೇಪಿಸಿದಾಗ ನಮಗೆ ಸಿಗುವ ಉತ್ತರ $\\frac{1}{16}$. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಮೊದಲು ಋಣ ಘಾತಾಂಕಗಳನ್ನು ಧನ ಘಾತಾಂಕಗಳಾಗಿ ಪರಿವರ್ತಿಸಿ, ನಂತರ BODMAS ನಿಯಮದ ಪ್ರಕಾರ ಗಣಿತದ ಕ್ರಿಯೆಗಳನ್ನು ಸರಿಯಾದ ಕ್ರಮದಲ್ಲಿ ಮಾಡಿದೆವು.",
+  "display_bullets": [
+    "ಸಂಕ್ಷೇಪಿಸಿದ ಮೌಲ್ಯ: $\\frac{1}{16}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-EXP-2_example_5",
+  "final_answer": "\\frac{1}{16}",
+  "final_answer_display": "$$\\frac{1}{16}$$",
+  "chunk_id": "NS-EXP-2_concept_2_chunk_047"
+}

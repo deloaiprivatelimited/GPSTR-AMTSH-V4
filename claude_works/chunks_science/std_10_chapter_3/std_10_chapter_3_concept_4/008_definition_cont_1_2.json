@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ವರ್ತನೆ (ಆಮ್ಲೀಯ ಸ್ವಭಾವ)",
+  "script": "ಈಗ ಅದೇ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ಹೇಗೆ ವರ್ತಿಸುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ನಾವು Al two O three ಅನ್ನು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಎಂಬ ಪ್ರಬಲ ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ಅದು ಆಮ್ಲದಂತೆ ವರ್ತಿಸುತ್ತದೆ. ಇದು ಅದರ ದ್ವಂದ್ವ ಸ್ವಭಾವವನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ, ಸೋಡಿಯಂ ಅಲ್ಯೂಮಿನೇಟ್ ಎಂಬ ಲವಣ ಮತ್ತು ನೀರು ಉತ್ಪನ್ನವಾಗುತ್ತದೆ. ಸಮೀಕರಣ ಹೀಗಿದೆ: Al two O three ಜೊತೆಗೆ ಎರಡು N a O H ವರ್ತಿಸಿ, ಎರಡು N a Al O two ಮತ್ತು H two O ಉಂಟಾಗುತ್ತದೆ. ಹೀಗೆ, ಪ್ರತ್ಯಾಮ್ಲದ ಜೊತೆ ವರ್ತಿಸುವಾಗ ಇದು ಆಮ್ಲದ ಗುಣವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಅದೇ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ (Al₂O₃) ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ಹೇಗೆ ವರ್ತಿಸುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ನಾವು Al₂O₃ ಅನ್ನು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) ಎಂಬ ಪ್ರಬಲ ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ಅದು ಆಮ್ಲದಂತೆ ವರ್ತಿಸುತ್ತದೆ. ಇದು ಅದರ ದ್ವಂದ್ವ ಸ್ವಭಾವವನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ, ಸೋಡಿಯಂ ಅಲ್ಯೂಮಿನೇಟ್ (NaAlO₂) ಎಂಬ ಲವಣ ಮತ್ತು ನೀರು (H₂O) ಉತ್ಪನ್ನವಾಗುತ್ತದೆ. ಸಮೀಕರಣ ಹೀಗಿದೆ: Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O. ಹೀಗೆ, ಪ್ರತ್ಯಾಮ್ಲದ ಜೊತೆ ವರ್ತಿಸುವಾಗ ಇದು ಆಮ್ಲದ ಗುಣವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಇಲ್ಲಿ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ (Al₂O₃) **ಆಮ್ಲದಂತೆ** ವರ್ತಿಸುತ್ತದೆ.",
+    "ಉತ್ಪನ್ನಗಳು: ಸೋಡಿಯಂ ಅಲ್ಯೂಮಿನೇಟ್ (ಲವಣ) ಮತ್ತು ನೀರು."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_bullets",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Al_2O_3(s) + 2NaOH(aq) \\rightarrow 2NaAlO_2(aq) + H_2O(l)",
+    "placeholder_note": "Reaction of Aluminum Oxide with Sodium Hydroxide"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_008"
+}

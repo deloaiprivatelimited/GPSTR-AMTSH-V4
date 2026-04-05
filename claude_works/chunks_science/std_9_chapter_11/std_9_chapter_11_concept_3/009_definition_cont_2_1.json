@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ಕಾಲಾವಧಿಯ ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಕಾಲಾವಧಿಯನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉಯ್ಯಾಲೆಯ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಒಂದು ಮಗು ಉಯ್ಯಾಲೆಯಲ್ಲಿ ತೂಗುತ್ತಿದೆ ಎಂದು ಭಾವಿಸಿ. ಮಗು ಒಂದು ತುದಿಯಿಂದ ಹೊರಟು, ಇನ್ನೊಂದು ತುದಿಗೆ ಹೋಗಿ, ಮತ್ತೆ ಮೊದಲಿನ ಸ್ಥಾನಕ್ಕೆ ಹಿಂತಿರುಗಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯವೇ ಒಂದು ಕಾಲಾವಧಿ. ಉದಾಹರಣೆಗೆ, ಈ ಒಂದು ಸಂಪೂರ್ಣ ಸುತ್ತಿಗೆ ಎರಡು ಸೆಕೆಂಡುಗಳು ಬೇಕಾದರೆ, ಆ ಉಯ್ಯಾಲೆಯ ಕಾಲಾವಧಿ ಎರಡು ಸೆಕೆಂಡುಗಳು ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, ಟಿ ಈಕ್ವಲ್ಸ್ ಎರಡು ಸೆಕೆಂಡ್ಸ್. ತರಂಗಗಳ ವಿಷಯದಲ್ಲೂ ಇದೇ ತತ್ವ ಅನ್ವಯಿಸುತ್ತದೆ.",
+  "script_display": "ಕಾಲಾವಧಿಯನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉಯ್ಯಾಲೆಯ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಒಂದು ಮಗು ಉಯ್ಯಾಲೆಯಲ್ಲಿ ತೂಗುತ್ತಿದೆ ಎಂದು ಭಾವಿಸಿ. ಮಗು ಒಂದು ತುದಿಯಿಂದ ಹೊರಟು, ಇನ್ನೊಂದು ತುದಿಗೆ ಹೋಗಿ, ಮತ್ತೆ ಮೊದಲಿನ ಸ್ಥಾನಕ್ಕೆ ಹಿಂತಿರುಗಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯವೇ ಒಂದು ಕಾಲಾವಧಿ. ಉದಾಹರಣೆಗೆ, ಈ ಒಂದು ಸಂಪೂರ್ಣ ಸುತ್ತಿಗೆ 2 ಸೆಕೆಂಡುಗಳು ಬೇಕಾದರೆ, ಆ ಉಯ್ಯಾಲೆಯ ಕಾಲಾವಧಿ 2 ಸೆಕೆಂಡುಗಳು ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, T = 2 s. ತರಂಗಗಳ ವಿಷಯದಲ್ಲೂ ಇದೇ ತತ್ವ ಅನ್ವಯಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: ಉಯ್ಯಾಲೆಯ ಚಲನೆ.",
+    "ಒಂದು ಸಂಪೂರ್ಣ ಆಂದೋಲನ: ಒಂದು ತುದಿಯಿಂದ ಇನ್ನೊಂದು ತುದಿಗೆ ಹೋಗಿ, ಮತ್ತೆ ಮೊದಲಿನ ಸ್ಥಾನಕ್ಕೆ ಬರುವುದು.",
+    "ಒಂದು ಸುತ್ತಿಗೆ 2 ಸೆಕೆಂಡ್ ತೆಗೆದುಕೊಂಡರೆ, ಕಾಲಾವಧಿ (T) = 2 ಸೆಕೆಂಡ್."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple animation or diagram showing a swing. It should clearly label the start point, the path of one full oscillation (moving to the other extreme and back to the start), and indicate this entire duration as 'T' (Time Period).",
+    "labels": "Start/End Point, Path of one oscillation, Time Period (T)",
+    "scientific_significance": "Visually represents one complete oscillation, making the abstract concept of Time Period concrete and intuitive.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "definition",
+  "difficulty": "medium",
+  "source_example_id": "std_9_ch_11_def_3",
+  "chunk_id": "std_9_chapter_11_concept_3_chunk_009"
+}

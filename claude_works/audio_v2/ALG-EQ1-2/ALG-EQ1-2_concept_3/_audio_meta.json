@@ -1,0 +1,180 @@
+{
+  "module_id": "ALG-EQ1-2_concept_3",
+  "merge_code": "ALG-EQ1-2",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 15,
+  "ok_count": 15,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:04:38",
+  "chunks": {
+    "005_example_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "5111587e83b9b3cea16c9d03bc39d90c",
+      "wav_file": "005_example_0.wav",
+      "duration": 24.531,
+      "slide_title": "ಉದಾಹರಣೆ: ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು",
+      "type": "worked_example",
+      "script_words": 41,
+      "generated_at": "2026-03-30 14:02:02"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "b5a79baa5bff06371c30e641f21b78c2",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 33.651,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 45,
+      "generated_at": "2026-03-30 14:02:09"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "0fbbcdf87eb855d31b8176c9c5d0d715",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 60.811,
+      "slide_title": "ನಿಯಮ 2: ಆವರಣಗಳನ್ನು ಬಿಡಿಸುವುದು",
+      "type": "concept_explanation",
+      "script_words": 82,
+      "generated_at": "2026-03-30 14:02:29"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "85f77e66369a119b1b073915da260ec6",
+      "wav_file": "003_property_0.wav",
+      "duration": 63.771,
+      "slide_title": "ನಿಯಮ 1: ಛೇದಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದು",
+      "type": "concept_explanation",
+      "script_words": 87,
+      "generated_at": "2026-03-30 14:02:30"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "00772897655d1824dff91a7e58423e81",
+      "wav_file": "001_intro_0.wav",
+      "duration": 63.051,
+      "slide_title": "ಸಮೀಕರಣಗಳನ್ನು ಸುಲಭ ರೂಪಕ್ಕೆ ತರುವುದು",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-03-30 14:02:32"
+    },
+    "010_example_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "05c0ece65fb0a18b7f1af76d0e44d224",
+      "wav_file": "010_example_1.wav",
+      "duration": 17.971,
+      "slide_title": "ಉದಾಹರಣೆ: ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು",
+      "type": "worked_example",
+      "script_words": 48,
+      "generated_at": "2026-03-30 14:03:02"
+    },
+    "009_example_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "e89345d92ace2191f16899d89317ba42",
+      "wav_file": "009_example_cont_0_4.wav",
+      "duration": 45.891,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪರಿಶೀಲನೆ",
+      "type": "worked_example",
+      "script_words": 60,
+      "generated_at": "2026-03-30 14:03:22"
+    },
+    "006_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "3ad51513bb5a1111eaf2598a93a45546",
+      "wav_file": "006_example_cont_0_1.wav",
+      "duration": 47.651,
+      "slide_title": "ಹಂತ 1-3: ಭಿನ್ನರಾಶಿಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದು",
+      "type": "worked_example",
+      "script_words": 64,
+      "generated_at": "2026-03-30 14:03:25"
+    },
+    "007_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "4a771b143283453b4fed9d441fd23152",
+      "wav_file": "007_example_cont_0_2.wav",
+      "duration": 57.011,
+      "slide_title": "ಹಂತ 4-6: ಸಮೀಕರಣವನ್ನು ಸುಲಭೀಕರಿಸುವುದು",
+      "type": "worked_example",
+      "script_words": 83,
+      "generated_at": "2026-03-30 14:03:26"
+    },
+    "008_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "a11f8e19e471ea40530ded27262f83a2",
+      "wav_file": "008_example_cont_0_3.wav",
+      "duration": 68.131,
+      "slide_title": "ಹಂತ 7-9: x ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "worked_example",
+      "script_words": 85,
+      "generated_at": "2026-03-30 14:03:45"
+    },
+    "013_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "3531b5ea9903c71d12af5bb7bfb3cde8",
+      "wav_file": "013_example_cont_1_3.wav",
+      "duration": 43.091,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 7-8",
+      "type": "worked_example",
+      "script_words": 67,
+      "generated_at": "2026-03-30 14:04:16"
+    },
+    "015_recap_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "cc8836568240b96037c0fc7cd5ede833",
+      "wav_file": "015_recap_0.wav",
+      "duration": 45.091,
+      "slide_title": "ಸಾರಾಂಶ: ಸಮೀಕರಣಗಳನ್ನು ಸುಲಭ ರೂಪಕ್ಕೆ ತರುವುದು",
+      "type": "recap",
+      "script_words": 63,
+      "generated_at": "2026-03-30 14:04:22"
+    },
+    "014_example_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "f874be2286ccedd43191b1ab72111474",
+      "wav_file": "014_example_cont_1_4.wav",
+      "duration": 50.651,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "script_words": 73,
+      "generated_at": "2026-03-30 14:04:23"
+    },
+    "012_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "29c4842667cd89b48a876a3a94b355db",
+      "wav_file": "012_example_cont_1_2.wav",
+      "duration": 67.211,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 4-6",
+      "type": "worked_example",
+      "script_words": 100,
+      "generated_at": "2026-03-30 14:04:31"
+    },
+    "011_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "93b36a368e9bc501a4196c07715909d5",
+      "wav_file": "011_example_cont_1_1.wav",
+      "duration": 70.971,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1-3",
+      "type": "worked_example",
+      "script_words": 123,
+      "generated_at": "2026-03-30 14:04:38"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿಕ್ರಿಯೆಯ ವಿವರಗಳು",
+  "script": "ಈ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಮತ್ತಷ್ಟು ವಿಶ್ಲೇಷಿಸೋಣ. ಇಲ್ಲಿ ಮುಖ್ಯ ಪ್ರತಿಕ್ರಿಯಾಕಾರಕ ಗ್ಲೂಕೋಸ್ ಆಗಿದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯ ಉತ್ಪನ್ನಗಳು ಆಲ್ಕೋಹಾಲ್ ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್. ಈ ಪ್ರತಿಕ್ರಿಯೆ ನಡೆಯಲು ಬೇಕಾದ ಪ್ರಮುಖ ಪರಿಸ್ಥಿತಿ ಆಮ್ಲಜನಕದ ಅನುಪಸ್ಥಿತಿ. ಯೀಸ್ಟ್‌ನಲ್ಲಿ ನಡೆಯುವ ಈ ನಿರ್ದಿಷ್ಟ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಹುದುಗುವಿಕೆ ಅಥವಾ ಫರ್ಮೆಂಟೇಶನ್ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಮತ್ತಷ್ಟು ವಿಶ್ಲೇಷಿಸೋಣ.",
+  "display_bullets": [
+    "ಪ್ರತಿಕ್ರಿಯಾಕಾರಕ (Reactant): ಗ್ಲೂಕೋಸ್ (C₆H₁₂O₆)",
+    "ಉತ್ಪನ್ನಗಳು (Products): ಆಲ್ಕೋಹಾಲ್ (C₂H₅OH) ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (CO₂)",
+    "ಪರಿಸ್ಥಿತಿ (Condition): ಆಮ್ಲಜನಕದ ಅನುಪಸ್ಥಿತಿ",
+    "ಪ್ರಕ್ರಿಯೆಯ ಹೆಸರು: ಹುದುಗುವಿಕೆ (Fermentation)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_2",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_7_chapter_6_concept_2_chunk_021"
+}

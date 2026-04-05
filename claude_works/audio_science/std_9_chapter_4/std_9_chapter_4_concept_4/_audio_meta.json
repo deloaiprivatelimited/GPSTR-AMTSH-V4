@@ -1,0 +1,70 @@
+{
+  "module_id": "std_9_chapter_4_concept_4",
+  "chapter_code": "std_9_chapter_4",
+  "voice": "Sadachbia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 5,
+  "ok_count": 5,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:02:47",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "009d6cee5685078a3b51f198ab999402",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 32.731,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 49,
+      "generated_at": "2026-04-02 16:02:19"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "884df681786c00681912db652b96d3f5",
+      "wav_file": "003_property_0.wav",
+      "duration": 49.531,
+      "slide_title": "ಬೋರ್‌ರವರ ಮಾದರಿಯ ಸಮರ್ಥನೆಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 16:02:26"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "f54e10729b943d7da3a49be820956890",
+      "wav_file": "001_intro_0.wav",
+      "duration": 54.091,
+      "slide_title": "ಬೋರ್‌ರವರ ಪರಮಾಣು ಮಾದರಿ",
+      "type": "intro",
+      "script_words": 81,
+      "generated_at": "2026-04-02 16:02:29"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "021f0513dd9b02d40f73795b4a516c48",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 70.331,
+      "slide_title": "ಬೋರ್‌ರವರ ಮಾದರಿಯ ಸಮರ್ಥನೆಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "script_words": 88,
+      "generated_at": "2026-04-02 16:02:36"
+    },
+    "005_recap_0.json": {
+      "status": "ok",
+      "voice": "Sadachbia",
+      "script_hash": "14e1a3edd2645676c0a71395cd5866b5",
+      "wav_file": "005_recap_0.wav",
+      "duration": 45.011,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-04-02 16:02:47"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ವಜ್ರಾಕೃತಿಯ ಗುಣಗಳು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. RICE ಒಂದು ವಜ್ರಾಕೃತಿ ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಕರ್ಣಗಳ ಭಾಗಗಳಾದ OI ಯ ಉದ್ದ 5, OC ಯ ಉದ್ದ 12, ಮತ್ತು ಬಾಹು RI ಯ ಉದ್ದ 13 ಆಗಿದೆ. ನಾವು x, y, ಮತ್ತು z ಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ x ಎಂಬುದು OE, y ಎಂಬುದು OR, ಮತ್ತು z ಎಂಬುದು ವಜ್ರಾಕೃತಿಯ ಬಾಹುವಿನ ಉದ್ದವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. RICE ಒಂದು ವಜ್ರಾಕೃತಿ ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಕರ್ಣಗಳ ಭಾಗಗಳಾದ $OI = 5$, $OC = 12$, ಮತ್ತು ಬಾಹು $RI = 13$ ಆಗಿದೆ. ನಾವು $x, y$, ಮತ್ತು $z$ ಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ $x = OE$, $y = OR$, ಮತ್ತು $z$ ಎಂಬುದು ವಜ್ರಾಕೃತಿಯ ಬಾಹುವಿನ ಉದ್ದವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: RICE ಒಂದು ವಜ್ರಾಕೃತಿ.",
+    "ದತ್ತಾಂಶ: $OI=5, OC=12, RI=13$.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $x=OE, y=OR, z=$ ಬಾಹುವಿನ ಉದ್ದ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A rhombus RICE with diagonals RC and IE intersecting at point O. The lengths are labeled: OI=5, OC=12, RI=13. We need to find OE=x, OR=y, and the side length z.",
+    "labels": "R, I, C, E, O, x, y, z, 5, 12, 13",
+    "mathematical_significance": "This diagram visually represents the problem, showing the rhombus, its diagonals, and the segments whose lengths are given or need to be found. It helps in applying the properties of a rhombus.",
+    "placeholder_note": "Image to be generated: A rhombus labeled RICE, with diagonals intersecting at O. Label the segments OI=5, OC=12, OE=x, OR=y. Label the side RI as 13 and any other side as z."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "GEO-QUAD-1_example_7",
+  "chunk_id": "GEO-QUAD-1_concept_5_chunk_021"
+}

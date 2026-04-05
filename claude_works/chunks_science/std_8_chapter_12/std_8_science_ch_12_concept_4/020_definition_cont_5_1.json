@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಇದು ರೇಖೀಯ ಮಾಪಕವಲ್ಲ!",
+  "script": "ಈಗ ರಿಕ್ಟರ್ ಮಾಪಕದ ಒಂದು ಪ್ರಮುಖ ಲಕ್ಷಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇದು ನಮ್ಮ ಸಾಮಾನ್ಯ ಅಳತೆ ಪಟ್ಟಿಯಂತೆ ರೇಖೀಯ ಮಾಪಕವಲ್ಲ. ಬದಲಾಗಿ, ರಿಕ್ಟರ್ ಮಾಪಕವು ಒಂದು ಲಾಗರಿಥಮಿಕ್ ಮಾಪಕವಾಗಿದೆ. ಇದರ ಅರ್ಥವೇನೆಂದರೆ, ಮಾಪಕದಲ್ಲಿ ಪ್ರತಿ ಒಂದು ಪಾಯಿಂಟ್ ಹೆಚ್ಚಳವಾದಾಗ, ಭೂಕಂಪದ ಅಲೆಗಳ ಕಂಪನವು ಹತ್ತು ಪಟ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ರಿಕ್ಟರ್ ಮಾಪಕದಲ್ಲಿ ಐದರ ತೀವ್ರತೆಯ ಭೂಕಂಪವು, ನಾಲ್ಕರ ತೀವ್ರತೆಯ ಭೂಕಂಪಕ್ಕಿಂತ ಹತ್ತು ಪಟ್ಟು ಹೆಚ್ಚು ಶಕ್ತಿಯುತವಾದ ಕಂಪನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಇದು ಕೇವಲ ಒಂದು ಪಟ್ಟು ಹೆಚ್ಚು ಅಲ್ಲ, ಹತ್ತು ಪಟ್ಟು ಹೆಚ್ಚು.",
+  "script_display": "ಈಗ ರಿಕ್ಟರ್ ಮಾಪಕದ ಒಂದು ಪ್ರಮುಖ ಲಕ್ಷಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇದು ನಮ್ಮ ಸಾಮಾನ್ಯ ಅಳತೆ ಪಟ್ಟಿಯಂತೆ ರೇಖೀಯ ಮಾಪಕವಲ್ಲ. ಬದಲಾಗಿ, ರಿಕ್ಟರ್ ಮಾಪಕವು ಒಂದು ಲಾಗರಿಥಮಿಕ್ (logarithmic) ಮಾಪಕವಾಗಿದೆ. ಇದರ ಅರ್ಥವೇನೆಂದರೆ, ಮಾಪಕದಲ್ಲಿ ಪ್ರತಿ 1 ಪಾಯಿಂಟ್ ಹೆಚ್ಚಳವಾದಾಗ, ಭೂಕಂಪದ ಅಲೆಗಳ ಕಂಪನವು 10 ಪಟ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ರಿಕ್ಟರ್ ಮಾಪಕದಲ್ಲಿ 5ರ ತೀವ್ರತೆಯ ಭೂಕಂಪವು, 4ರ ತೀವ್ರತೆಯ ಭೂಕಂಪಕ್ಕಿಂತ 10 ಪಟ್ಟು ಹೆಚ್ಚು ಶಕ್ತಿಯುತವಾದ ಕಂಪನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ರಿಕ್ಟರ್ ಮಾಪಕವು ಒಂದು ಲಾಗರಿಥಮಿಕ್ ಮಾಪಕವಾಗಿದೆ.",
+    "ಮಾಪಕದಲ್ಲಿ ಪ್ರತಿ 1 ಪಾಯಿಂಟ್ ಹೆಚ್ಚಳವು, ಕಂಪನವನ್ನು 10 ಪಟ್ಟು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+    "ಉದಾಹರಣೆ: 5ರ ತೀವ್ರತೆಯು 4ರ ತೀವ್ರತೆಗಿಂತ 10 ಪಟ್ಟು ಹೆಚ್ಚು ಕಂಪನವನ್ನು ಹೊಂದಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple graphic comparing a linear scale and a logarithmic scale. The linear scale shows equal steps (1, 2, 3, 4). The logarithmic scale shows exponentially increasing steps, with arrows indicating the jump: 4 -> 5 is '10x', 5 -> 6 is '10x'.",
+    "labels": "ರೇಖೀಯ ಮಾಪಕ, ಲಾಗರಿಥಮಿಕ್ ಮಾಪಕ, 10x ಹೆಚ್ಚು",
+    "scientific_significance": "Visually demonstrates the non-linear, multiplicative nature of the Richter scale, which is a common point of confusion.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_science_ch_12_concept_4_chunk_020"
+}

@@ -1,0 +1,92 @@
+{
+  "module_id": "std_8_chapter_1_concept_3",
+  "chapter_code": "std_8_chapter_1",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:17:24",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "500912360f27c885f7fb0a27193e6652",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.451,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 40,
+      "generated_at": "2026-04-02 14:16:12"
+    },
+    "004_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "f07be3285147f7eb0b05c3f86a7117b0",
+      "wav_file": "004_experiment_cont_0_1.wav",
+      "duration": 40.571,
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+      "type": "experiment_activity",
+      "script_words": 51,
+      "generated_at": "2026-04-02 14:16:19"
+    },
+    "005_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "0823c7d130a7d85bd05a53d8f87a2f1a",
+      "wav_file": "005_experiment_cont_0_2.wav",
+      "duration": 32.531,
+      "slide_title": "ವೀಕ್ಷಣೆ (Observation)",
+      "type": "experiment_activity",
+      "script_words": 50,
+      "generated_at": "2026-04-02 14:16:43"
+    },
+    "003_experiment_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "88d4f846aa2ec509abd0eae0125d9399",
+      "wav_file": "003_experiment_0.wav",
+      "duration": 41.811,
+      "slide_title": "ಚಟುವಟಿಕೆ 1.1: ಉತ್ತಮ ಬೀಜಗಳ ಆಯ್ಕೆ",
+      "type": "experiment_activity",
+      "script_words": 63,
+      "generated_at": "2026-04-02 14:16:54"
+    },
+    "006_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "eb9335329eb5fc110d917f225d64db7d",
+      "wav_file": "006_experiment_cont_0_3.wav",
+      "duration": 42.171,
+      "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+      "type": "experiment_activity",
+      "script_words": 52,
+      "generated_at": "2026-04-02 14:16:55"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "24cc7f46c5a8090c3c3438e5dfa86539",
+      "wav_file": "007_recap_0.wav",
+      "duration": 37.651,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 54,
+      "generated_at": "2026-04-02 14:17:17"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "6613e71082ecf222437bb2cc330f8205",
+      "wav_file": "001_intro_0.wav",
+      "duration": 47.851,
+      "slide_title": "ಕೃಷಿ ಪದ್ಧತಿಗಳು: ಬಿತ್ತನೆ",
+      "type": "intro",
+      "script_words": 80,
+      "generated_at": "2026-04-02 14:17:24"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಬೀಜಗಳಿರುವ ಈ ಫ್ಲಾಸ್ಕನ್ನು ಒಂದು ರಟ್ಟಿನ ಪೆಟ್ಟಿಗೆಯೊಳಗೆ ಇಡಬೇಕು. ನೆನಪಿಡಿ, ಈ ಪೆಟ್ಟಿಗೆಗೆ ಕೇವಲ ಒಂದು ಬದಿಯಲ್ಲಿ ಮಾತ್ರ ಬೆಳಕು ಬರಲು ಸಣ್ಣ ಕಿಂಡಿ ಇರಬೇಕು. ಆ ಕಿಂಡಿಯು ಕಿಟಕಿಯ ಕಡೆಗೆ ಮುಖ ಮಾಡುವಂತೆ ಪೆಟ್ಟಿಗೆಯನ್ನು ಇಡಿ, ಇದರಿಂದ ಸೂರ್ಯನ ಬೆಳಕು ಆ ಕಿಂಡಿಯ ಮೂಲಕ ಮಾತ್ರ ಒಳಗೆ ಪ್ರವೇಶಿಸುತ್ತದೆ. ಈ ವ್ಯವಸ್ಥೆಯನ್ನು ಕೆಲವು ದಿನಗಳವರೆಗೆ ಹಾಗೆಯೇ ಬಿಟ್ಟು, ಸಸ್ಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ನಾವು ಗಮನಿಸೋಣ. ತಾಳ್ಮೆಯಿಂದ ಕಾದು ನೋಡುವುದು ಇಲ್ಲಿ ಮುಖ್ಯ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಬೀಜಗಳಿರುವ ಈ ಫ್ಲಾಸ್ಕನ್ನು ಒಂದು ರಟ್ಟಿನ ಪೆಟ್ಟಿಗೆಯೊಳಗೆ ಇಡಬೇಕು. ನೆನಪಿಡಿ, ಈ ಪೆಟ್ಟಿಗೆಗೆ ಕೇವಲ ಒಂದು ಬದಿಯಲ್ಲಿ ಮಾತ್ರ ಬೆಳಕು ಬರಲು ಸಣ್ಣ ಕಿಂಡಿ ಇರಬೇಕು. ಆ ಕಿಂಡಿಯು ಕಿಟಕಿಯ ಕಡೆಗೆ ಮುಖ ಮಾಡುವಂತೆ ಪೆಟ್ಟಿಗೆಯನ್ನು ಇಡಿ, ಇದರಿಂದ ಸೂರ್ಯನ ಬೆಳಕು ಆ ಕಿಂಡಿಯ ಮೂಲಕ ಮಾತ್ರ ಒಳಗೆ ಪ್ರವೇಶಿಸುತ್ತದೆ. ಈ ವ್ಯವಸ್ಥೆಯನ್ನು ಕೆಲವು ದಿನಗಳವರೆಗೆ ಹಾಗೆಯೇ ಬಿಟ್ಟು, ಸಸ್ಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ನಾವು ಗಮನಿಸೋಣ. ತಾಳ್ಮೆಯಿಂದ ಕಾದು ನೋಡುವುದು ಇಲ್ಲಿ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಈ ಫ್ಲಾಸ್ಕನ್ನು ಒಂದು ಬದಿಯಲ್ಲಿ ಕಿಂಡಿಯಿರುವ ರಟ್ಟಿನ ಪೆಟ್ಟಿಗೆಯೊಳಗೆ ಇಡಿ.",
+    "ಕಿಂಡಿಯು ಕಿಟಕಿಯಿಂದ ಬರುವ ಬೆಳಕಿನ ಕಡೆಗೆ ಇರಲಿ.",
+    "ಕೆಲವು ದಿನಗಳ ನಂತರ ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_video_centric",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing the flask being placed inside the cardboard box. The box has a hole on one side, which is pointed towards a window with light coming in.",
+    "labels": "ರಟ್ಟಿನ ಪೆಟ್ಟಿಗೆ, ಕಿಂಡಿ, ಬೆಳಕಿನ ಮೂಲ (ಕಿಟಕಿ)",
+    "scientific_significance": "Shows the experimental condition where light is provided from a single direction to observe tropic movement.",
+    "placeholder_note": "Image to be generated for steps 3 and 4."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_6_concept_4_chunk_018"
+}

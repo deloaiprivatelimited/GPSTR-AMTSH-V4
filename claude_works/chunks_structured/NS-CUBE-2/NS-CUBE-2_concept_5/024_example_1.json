@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: 13824 ರ ಘನಮೂಲ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಸಮಸ್ಯೆ, ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನದಿಂದ 13824ರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ನಮಗೆ ನೀಡಿರುವುದು ಸಂಖ್ಯೆ 13824. ಮತ್ತು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು 13824 ರ ಘನಮೂಲ. ಬನ್ನಿ, ಇದನ್ನು ಹೇಗೆ ಬಿಡಿಸುವುದು ಎಂದು ನೋಡೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಸಮಸ್ಯೆ, ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನದಿಂದ 13824ರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ನಮಗೆ ನೀಡಿರುವುದು ಸಂಖ್ಯೆ 13824. ಮತ್ತು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು 13824 ರ ಘನಮೂಲ. ಬನ್ನಿ, ಇದನ್ನು ಹೇಗೆ ಬಿಡಿಸುವುದು ಎಂದು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ ವಿಧಾನದಿಂದ 13824ರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ನೀಡಿರುವುದು: ಸಂಖ್ಯೆ 13824.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: 13824 ರ ಘನಮೂಲ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-CUBE-2_example_7",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-CUBE-2_concept_5_chunk_024"
+}

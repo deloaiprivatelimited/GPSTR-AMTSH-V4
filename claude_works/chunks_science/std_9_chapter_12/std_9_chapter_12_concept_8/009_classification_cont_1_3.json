@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸ್ಥಳೀಯ ತಳಿಗಳ ಅಪೇಕ್ಷಣೀಯ ಗುಣಗಳು",
+  "script": "ಈಗ ಸ್ಥಳೀಯ ತಳಿಗಳ ಮಹತ್ವವನ್ನು ನೋಡೋಣ. ವಿದೇಶಿ ತಳಿಗಳು ಹೆಚ್ಚು ಹಾಲು ಕೊಟ್ಟರೂ, ನಮ್ಮ ಸ್ಥಳೀಯ ತಳಿಗಳು ಒಂದು ಬಹಳ ಮುಖ್ಯವಾದ ಗುಣವನ್ನು ಹೊಂದಿವೆ, ಅದುವೇ ಅತ್ಯುತ್ತಮ ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ. ಇವು ನಮ್ಮ ದೇಶದ ಉಷ್ಣವಲಯದ ಹವಾಮಾನ ಮತ್ತು ಪರಿಸರಕ್ಕೆ ಚೆನ್ನಾಗಿ ಹೊಂದಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಸುಲಭವಾಗಿ ರೋಗಗಳಿಗೆ ತುತ್ತಾಗುವುದಿಲ್ಲ. ಇದರಿಂದಾಗಿ ಅವುಗಳ ನಿರ್ವಹಣಾ ವೆಚ್ಚ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಕೆಂಪು ಸಿಂಧಿ ಮತ್ತು ಸಾಹಿವಾಲ್‌ನಂತಹ ತಳಿಗಳು ಈ ಉತ್ತಮ ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿವೆ. ಈ ಗುಣವು ದನಗಳನ್ನು ಆರೋಗ್ಯವಾಗಿಡಲು ಅತ್ಯಗತ್ಯ.",
+  "script_display": "ಈಗ ಸ್ಥಳೀಯ ತಳಿಗಳ ಮಹತ್ವವನ್ನು ನೋಡೋಣ. ವಿದೇಶಿ ತಳಿಗಳು ಹೆಚ್ಚು ಹಾಲು ಕೊಟ್ಟರೂ, ನಮ್ಮ ಸ್ಥಳೀಯ ತಳಿಗಳು ಒಂದು ಬಹಳ ಮುಖ್ಯವಾದ ಗುಣವನ್ನು ಹೊಂದಿವೆ, ಅದುವೇ ಅತ್ಯುತ್ತಮ ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ (Disease Resistance). ಇವು ನಮ್ಮ ದೇಶದ ಉಷ್ಣವಲಯದ ಹವಾಮಾನ ಮತ್ತು ಪರಿಸರಕ್ಕೆ ಚೆನ್ನಾಗಿ ಹೊಂದಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಸುಲಭವಾಗಿ ರೋಗಗಳಿಗೆ ತುತ್ತಾಗುವುದಿಲ್ಲ. ಇದರಿಂದಾಗಿ ಅವುಗಳ ನಿರ್ವಹಣಾ ವೆಚ್ಚ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಕೆಂಪು ಸಿಂಧಿ ಮತ್ತು ಸಾಹಿವಾಲ್‌ನಂತಹ ತಳಿಗಳು ಈ ಉತ್ತಮ ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿವೆ.",
+  "display_bullets": [
+    "ಅತ್ಯುತ್ತಮ ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ",
+    "ಸ್ಥಳೀಯ ಪರಿಸರಕ್ಕೆ ಹೊಂದಿಕೊಳ್ಳುವಿಕೆ",
+    "ಉದಾಹರಣೆ: ಕೆಂಪು ಸಿಂಧಿ, ಸಾಹಿವಾಲ್"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A Sahiwal cow, a prominent Indian cattle breed, characterized by its reddish-brown color and drooping ears. It should be shown in a natural, rural Indian setting.",
+    "labels": "ಸಾಹಿವಾಲ್ ತಳಿ (ಸ್ಥಳೀಯ)",
+    "scientific_significance": "Illustrates an indigenous breed known for its high resistance to diseases and adaptability to local climatic conditions, a key trait for cross-breeding.",
+    "placeholder_note": "Image of a Sahiwal cow to be generated."
+  },
+  "chunk_id": "std_9_chapter_12_concept_8_chunk_009"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಗಮನಿಸಿ: ಸಹಅವಿಭಾಜ್ಯಗಳು ಅವಿಭಾಜ್ಯಗಳಾಗಿರಬೇಕಿಲ್ಲ",
+  "script": "ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ಗಮನಿಸಬೇಕು. ಸಹಅವಿಭಾಜ್ಯಗಳ ಜೋಡಿಯಲ್ಲಿರುವ ಸಂಖ್ಯೆಗಳು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳೇ ಆಗಿರಬೇಕೆಂದೇನಿಲ್ಲ. ಎಡಭಾಗದಲ್ಲಿರುವ ಉದಾಹರಣೆ ನೋಡಿ: ನಾಲ್ಕು ಮತ್ತು ಒಂಬತ್ತು. ಇಲ್ಲಿ ನಾಲ್ಕು ಮತ್ತು ಒಂಬತ್ತು ಎರಡೂ ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಗಳು. ಆದರೆ ಅವುಗಳ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಕೇವಲ ಒಂದು. ಆದ್ದರಿಂದ ಅವು ಸಹಅವಿಭಾಜ್ಯಗಳು. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ ಉದಾಹರಣೆ ನೋಡಿ: ಆರು ಮತ್ತು ಒಂಬತ್ತು. ಇವೆರಡೂ ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಗಳು. ಆದರೆ ಇವುಗಳಿಗೆ ಒಂದಲ್ಲದೆ, ಮೂರು ಕೂಡ ಒಂದು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿದೆ. ಆದ್ದರಿಂದ ಇವುಗಳ ಮ.ಸಾ.ಭಾ ಮೂರು ಆಗುತ್ತದೆ, ಒಂದು ಅಲ್ಲ. ಹಾಗಾಗಿ, ಆರು ಮತ್ತು ಒಂಬತ್ತು ಸಹಅವಿಭಾಜ್ಯಗಳಲ್ಲ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ.",
+  "script_display": "ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ಗಮನಿಸಬೇಕು. ಸಹಅವಿಭಾಜ್ಯಗಳ ಜೋಡಿಯಲ್ಲಿರುವ ಸಂಖ್ಯೆಗಳು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳೇ (prime numbers) ಆಗಿರಬೇಕೆಂದೇನಿಲ್ಲ. ಎಡಭಾಗದಲ್ಲಿರುವ ಉದಾಹರಣೆ ನೋಡಿ: (4, 9). ಇಲ್ಲಿ 4 ಮತ್ತು 9 ಎರಡೂ ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಗಳು (composite numbers). ಆದರೆ ಅವುಗಳ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಕೇವಲ 1. ಆದ್ದರಿಂದ ಅವು ಸಹಅವಿಭಾಜ್ಯಗಳು. ಈಗ ಬಲಭಾಗದಲ್ಲಿರುವ ಉದಾಹರಣೆ ನೋಡಿ: (6, 9). ಇವೆರಡೂ ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಗಳು. ಆದರೆ ಇವುಗಳಿಗೆ 1 ಅಲ್ಲದೆ, 3 ಕೂಡ ಒಂದು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿದೆ. ಆದ್ದರಿಂದ ಇವುಗಳ HCF = 3, 1 ಅಲ್ಲ. ಹಾಗಾಗಿ, 6 ಮತ್ತು 9 ಸಹಅವಿಭಾಜ್ಯಗಳಲ್ಲ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "left_vs_right",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen comparison. Left side titled 'ಸಹಅವಿಭಾಜ್ಯಗಳು (Co-prime)' shows the pair (4, 9). Below it, Factors of 4: {1, 2, 4} and Factors of 9: {1, 3, 9}. The common factor '1' is circled. HCF = 1 is written. Right side titled 'ಸಹಅವಿಭಾಜ್ಯಗಳಲ್ಲ (Not Co-prime)' shows the pair (6, 9). Below it, Factors of 6: {1, 2, 3, 6} and Factors of 9: {1, 3, 9}. The common factor '3' is circled. HCF = 3 is written.",
+    "labels": "co-prime, not co-prime, factors, HCF, composite numbers",
+    "mathematical_significance": "Visually demonstrates that being co-prime depends on the HCF being 1, and not on whether the numbers themselves are prime or composite. This directly addresses a common misconception.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "chunk_id": "NS-PRI-1_concept_4_chunk_006"
+}

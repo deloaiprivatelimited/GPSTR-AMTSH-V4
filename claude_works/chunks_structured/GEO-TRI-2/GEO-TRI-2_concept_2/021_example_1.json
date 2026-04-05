@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಮಧ್ಯಬಿಂದುಗಳು ಮತ್ತು ಸಮಬಾಹುಗಳು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, AB ಮತ್ತು AC ಸಮಬಾಹುಗಳಾಗಿವೆ. E ಮತ್ತು F ಗಳು ಕ್ರಮವಾಗಿ AB ಮತ್ತು AC ಬಾಹುಗಳ ಮಧ್ಯಬಿಂದುಗಳಾಗಿವೆ. ನಾವು BF ಸಮ CE ಎಂದು ಸಾಧಿಸಬೇಕು. ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶವೆಂದರೆ AB ಸಮ AC, ಮತ್ತು E ಹಾಗೂ F ಗಳು ಮಧ್ಯಬಿಂದುಗಳು. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು BF ಸಮ CE.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $\\triangle ABC$ ಯಲ್ಲಿ, $AB$ ಮತ್ತು $AC$ ಸಮಬಾಹುಗಳಾಗಿವೆ. E ಮತ್ತು F ಗಳು ಕ್ರಮವಾಗಿ $AB$ ಮತ್ತು $AC$ ಬಾಹುಗಳ ಮಧ್ಯಬಿಂದುಗಳಾಗಿವೆ. ನಾವು $BF = CE$ ಎಂದು ಸಾಧಿಸಬೇಕು. ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶವೆಂದರೆ $AB = AC$, ಮತ್ತು E ಹಾಗೂ F ಗಳು ಮಧ್ಯಬಿಂದುಗಳು. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು $BF = CE$.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: $\\triangle ABC$ ಯಲ್ಲಿ $AB = AC$.",
+    "E ಮತ್ತು F ಗಳು ಕ್ರಮವಾಗಿ $AB$ ಮತ್ತು $AC$ ಯ ಮಧ್ಯಬಿಂದುಗಳು.",
+    "ಸಾಧನೀಯ: $BF = CE$."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABC, ಇದರಲ್ಲಿ AB = AC. E ಎಂಬುದು AB ಯ ಮಧ್ಯಬಿಂದು ಮತ್ತು F ಎಂಬುದು AC ಯ ಮಧ್ಯಬಿಂದು. B ಯಿಂದ F ಗೆ ಮತ್ತು C ಯಿಂದ E ಗೆ ರೇಖೆಗಳನ್ನು ಎಳೆಯಲಾಗಿದೆ. ತ್ರಿಭುಜ ABF ಮತ್ತು ತ್ರಿಭುಜ ACE ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, E, F",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಸಮಸ್ಯೆಯ ದತ್ತಾಂಶವನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ. BF ಮತ್ತು CE ರೇಖಾಖಂಡಗಳನ್ನು ಹೋಲಿಸಲು ಬೇಕಾದ ತ್ರಿಭುಜಗಳನ್ನು (ABF ಮತ್ತು ACE) ಗುರುತಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದು ಚಿತ್ರ 7.28 ಆಗಿದೆ.",
+    "placeholder_note": "Image to be generated for Figure 7.28"
+  },
+  "sub_type": "proof",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_5",
+  "chunk_id": "GEO-TRI-2_concept_2_chunk_021"
+}

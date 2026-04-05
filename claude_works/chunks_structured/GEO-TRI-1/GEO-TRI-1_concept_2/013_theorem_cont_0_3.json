@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಪ್ರಮೇಯದ ಸಾಧನೆ: ಅಂತಿಮ ಹಂತಗಳು",
+  "script": "ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಎರಡು ಪ್ರಮುಖ ಸಮೀಕರಣಗಳನ್ನು ಪಡೆದುಕೊಂಡಿದ್ದೇವೆ. ಮೊದಲನೆಯದು, ಕೋನ 1 ಸಮನಾಗಿದೆ ಕೋನ x, ಮತ್ತು ಎರಡನೆಯದು, ಕೋನ 2 ಸಮನಾಗಿದೆ ಕೋನ y. ಈಗ ಈ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು ಕೂಡಿಸೋಣ. ಆಗ ನಮಗೆ ಸಿಗುವುದು, ಕೋನ 1 ಪ್ಲಸ್ ಕೋನ 2 ಸಮನಾಗಿದೆ ಕೋನ x ಪ್ಲಸ್ ಕೋನ y. ಈಗ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಕೋನ x ಮತ್ತು ಕೋನ y ಯ ಮೊತ್ತವು ಪೂರ್ಣ ಬಾಹ್ಯ ಕೋನವಾದ ಕೋನ ACD ಗೆ ಸಮನಾಗಿದೆ. ಆದ್ದರಿಂದ, ನಾವು ಕೋನ x ಪ್ಲಸ್ ಕೋನ y ಯ ಬದಲಿಗೆ ಕೋನ ACD ಎಂದು ಬರೆಯಬಹುದು. ಇದರಿಂದ, ಕೋನ 1 ಪ್ಲಸ್ ಕೋನ 2 ಸಮನಾಗಿದೆ ಕೋನ ACD ಎಂದು ಸಿಗುತ್ತದೆ. ಅಂದರೆ, ಕೋನ A ಪ್ಲಸ್ ಕೋನ B ಸಮನಾಗಿದೆ ಕೋನ ACD. ಹೀಗೆ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "script_display": "ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಎರಡು ಪ್ರಮುಖ ಸಮೀಕರಣಗಳನ್ನು ಪಡೆದುಕೊಂಡಿದ್ದೇವೆ. ಮೊದಲನೆಯದು, $\\angle 1 = \\angle x$, ಮತ್ತು ಎರಡನೆಯದು, $\\angle 2 = \\angle y$. ಈಗ ಈ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು ಕೂಡಿಸೋಣ. ಆಗ ನಮಗೆ ಸಿಗುವುದು, $\\angle 1 + \\angle 2 = \\angle x + \\angle y$. ಈಗ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. $\\angle x$ ಮತ್ತು $\\angle y$ ಯ ಮೊತ್ತವು ಪೂರ್ಣ ಬಾಹ್ಯ ಕೋನವಾದ $\\angle ACD$ ಗೆ ಸಮನಾಗಿದೆ. ಆದ್ದರಿಂದ, ನಾವು $\\angle x + \\angle y$ ಯ ಬದಲಿಗೆ $\\angle ACD$ ಎಂದು ಬರೆಯಬಹುದು. ಇದರಿಂದ, $\\angle 1 + \\angle 2 = \\angle ACD$ ಎಂದು ಸಿಗುತ್ತದೆ. ಅಂದರೆ, $m\\angle A + m\\angle B = m\\angle ACD$. ಹೀಗೆ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "display_bullets": [
+    "ಹಂತ 3: ಹಿಂದಿನ ಸಮೀಕರಣಗಳನ್ನು ಕೂಡಿಸಿದಾಗ, $\\angle 1 + \\angle 2 = \\angle x + \\angle y$.",
+    "ಹಂತ 4: ಚಿತ್ರದ ಪ್ರಕಾರ, $\\angle x + \\angle y = \\angle ACD$.",
+    "ಹಂತ 5: ಆದ್ದರಿಂದ, $m\\angle A + m\\angle B = m\\angle ACD$. (ಸಾಧಿಸಿದೆ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The proof diagram. Angles ∠x and ∠y are highlighted, and then they merge or are shown to combine to form the complete exterior angle ∠ACD. This visually represents the equation ∠x + ∠y = ∠ACD.",
+    "labels": "Vertices A, B, C, D, E. Angles ∠x, ∠y, ∠ACD.",
+    "mathematical_significance": "Visually demonstrates the final step of the proof, where the two parts of the exterior angle are summed up.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-1_concept_2_chunk_013"
+}

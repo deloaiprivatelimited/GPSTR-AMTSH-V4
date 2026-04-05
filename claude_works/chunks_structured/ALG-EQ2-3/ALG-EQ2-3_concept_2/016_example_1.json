@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೆಳಗಿನ ಪ್ರತಿಯೊಂದು ಸಮೀಕರಣಕ್ಕೂ ಎರಡೆರಡು ಪರಿಹಾರಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಮೊದಲನೆಯದು, ನಾಲ್ಕು x ಪ್ಲಸ್ ಮೂರು y ಸಮ ಹನ್ನೆರಡು. ಎರಡನೆಯದು, ಎರಡು x ಪ್ಲಸ್ ಐದು y ಸಮ ಸೊನ್ನೆ. ಮತ್ತು ಮೂರನೆಯದು, ಮೂರು y ಪ್ಲಸ್ ನಾಲ್ಕು ಸಮ ಸೊನ್ನೆ. ನಾವು ಪ್ರತಿಯೊಂದು ಸಮೀಕರಣವನ್ನು ಒಂದೊಂದಾಗಿ ತೆಗೆದುಕೊಂಡು ಪರಿಹಾರಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೆಳಗಿನ ಪ್ರತಿಯೊಂದು ಸಮೀಕರಣಕ್ಕೂ ಎರಡೆರಡು ಪರಿಹಾರಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.\n(i) $4x + 3y = 12$\n(ii) $2x + 5y = 0$\n(iii) $3y + 4 = 0$\nನಾವು ಪ್ರತಿಯೊಂದು ಸಮೀಕರಣವನ್ನು ಒಂದೊಂದಾಗಿ ತೆಗೆದುಕೊಂಡು ಪರಿಹಾರಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಕೆಳಗಿನ ಪ್ರತಿಯೊಂದು ಸಮೀಕರಣಕ್ಕೂ ಎರಡೆರಡು ಪರಿಹಾರಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.}\n\n\\text{(i) } 4x + 3y = 12\n\n\\text{(ii) } 2x + 5y = 0\n\n\\text{(iii) } 3y + 4 = 0",
+    "placeholder_note": "Problem statement displayed in a box."
+  },
+  "source_example_id": "ALG-EQ2-3_example_4",
+  "prerequisites_display": [
+    "ಎರಡು ಚರಾಕ್ಷರಗಳಿರುವ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣದ ಪರಿಕಲ್ಪನೆ",
+    "ಸಮೀಕರಣದಲ್ಲಿ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸುವುದು"
+  ],
+  "chunk_id": "ALG-EQ2-3_concept_2_chunk_016"
+}

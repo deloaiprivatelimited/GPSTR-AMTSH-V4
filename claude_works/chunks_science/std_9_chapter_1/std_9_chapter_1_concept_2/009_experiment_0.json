@@ -1,0 +1,35 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಚಟುವಟಿಕೆ 1.3: ಕಣಗಳ ಚಲನೆ",
+  "script": "ಈಗ ನಾವು ದ್ರವ್ಯದ ಕಣಗಳು ನಿರಂತರವಾಗಿ ಚಲಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸಲು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಗೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಒಂದು ಅಗರಬತ್ತಿ ಅಥವಾ ಧೂಪದ ಕಡ್ಡಿ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಾವು ಒಂದು ಕೋಣೆಯ ಮೂಲೆಯಲ್ಲಿ ಈ ಅಗರಬತ್ತಿಯನ್ನು ಇಡೋಣ. ಸದ್ಯಕ್ಕೆ ನಾವು ಇದನ್ನು ಹೊತ್ತಿಸುವುದು ಬೇಡ. ಈ ಚಟುವಟಿಕೆಯ ಮೂಲಕ, ಕಣಗಳ ಚಲನೆ ಮತ್ತು ತಾಪಮಾನದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ನಾವು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲಿದ್ದೇವೆ. ಇದು ದ್ರವ್ಯದ ಒಂದು ಮೂಲಭೂತ ಗುಣವಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ದ್ರವ್ಯದ ಕಣಗಳು ನಿರಂತರವಾಗಿ ಚಲಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸಲು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಗೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಒಂದು ಅಗರಬತ್ತಿ (ಧೂಪದ ಕಡ್ಡಿ). ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಾವು ಒಂದು ಕೋಣೆಯ ಮೂಲೆಯಲ್ಲಿ ಈ ಅಗರಬತ್ತಿಯನ್ನು ಇಡೋಣ. ಸದ್ಯಕ್ಕೆ ನಾವು ಇದನ್ನು ಹೊತ್ತಿಸುವುದು ಬೇಡ. ಈ ಚಟುವಟಿಕೆಯ ಮೂಲಕ, ಕಣಗಳ ಚಲನೆ ಮತ್ತು ತಾಪಮಾನದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ನಾವು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲಿದ್ದೇವೆ. ಇದು ದ್ರವ್ಯದ ಒಂದು ಮೂಲಭೂತ ಗುಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಅಗತ್ಯವಿರುವ ವಸ್ತು: ಅಗರಬತ್ತಿ (ಧೂಪದ ಕಡ್ಡಿ)",
+    "ಉದ್ದೇಶ: ದ್ರವ್ಯದ ಕಣಗಳು ಚಲನೆಯಲ್ಲಿವೆ ಎಂದು ತೋರಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a classroom. In one corner, an unlit incense stick is placed on a stand. A person is shown standing far away from it, looking puzzled as they can't smell anything.",
+    "labels": "ಕೋಣೆ, ಹೊತ್ತಿಸದ ಅಗರಬತ್ತಿ",
+    "scientific_significance": "This sets up the initial condition of the experiment where the particles of the incense stick are at room temperature and their diffusion rate is very low.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_1_concept_2_chunk_009"
+}

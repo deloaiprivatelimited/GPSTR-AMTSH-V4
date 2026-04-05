@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಎಕ್ಸ್ ಈಕ್ವಲ್ಸ್ ಒಂದು ಆದಾಗ, ಪಿ ಆಫ್ ಎಕ್ಸ್ ಈಕ್ವಲ್ಸ್ ಐದು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಮೂರು ಎಕ್ಸ್ ಪ್ಲಸ್ ಏಳು, ಈ ಬಹುಪದೋಕ್ತಿಯ ಬೆಲೆಯು ಒಂಬತ್ತು ಆಗಿದೆ. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "script_display": "ಹಾಗಾಗಿ, $x=1$ ಆದಾಗ, $p(x) = 5x^2 – 3x + 7$ ಈ ಬಹುಪದೋಕ್ತಿಯ ಬೆಲೆಯು 9 ಆಗಿದೆ. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "display_bullets": [
+    "$x=1$ ಆದಾಗ, $p(x)$ ನ ಬೆಲೆ 9 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "full_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "ALG-POL-3_example_12",
+  "final_answer": "9",
+  "final_answer_display": "$p(1) = 9$",
+  "chunk_id": "ALG-POL-3_concept_2_chunk_022"
+}

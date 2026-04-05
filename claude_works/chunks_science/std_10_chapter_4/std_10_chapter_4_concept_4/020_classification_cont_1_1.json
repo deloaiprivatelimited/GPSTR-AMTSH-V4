@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಪರ್ಯಾಪ್ತ ಹೈಡ್ರೋಕಾರ್ಬನ್‌ಗಳು: ಆಲೈನ್‌ಗಳು",
+  "script": "ಮುಂದಿನದಾಗಿ, ಅಪರ್ಯಾಪ್ತ ಹೈಡ್ರೋಕಾರ್ಬನ್‌ಗಳ ಎರಡನೇ ವಿಧವಾದ ಆಲೈನ್‌ಗಳನ್ನು ನೋಡೋಣ. ಇವುಗಳ ವಿಶೇಷತೆ ಎಂದರೆ, ಇವು ಕನಿಷ್ಠ ಒಂದು ಕಾರ್ಬನ್-ಕಾರ್ಬನ್ ತ್ರಿಬಂಧವನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಈ ತ್ರಿಬಂಧವು ಆಲ್ಕೀನ್‌ಗಳ ದ್ವಿಬಂಧಕ್ಕಿಂತಲೂ ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲವಾಗಿರುತ್ತದೆ. ಆಲೈನ್‌ಗಳ ಸಾಮಾನ್ಯ ಸೂತ್ರ ಸಿ ಎನ್ ಎಚ್ ಟೂ ಎನ್ ಮೈನಸ್ ಟೂ ಆಗಿದೆ. ಇಲ್ಲಿಯೂ ಸಹ, 'ಎನ್' ನ ಮೌಲ್ಯ ಎರಡು ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರಬೇಕು. ಇದಕ್ಕೆ ಪ್ರಸಿದ್ಧ ಉದಾಹರಣೆ ಈಥೈನ್, ಇದರ ಅಣುಸೂತ್ರ ಸಿ ಟೂ ಎಚ್ ಟೂ. ಇದನ್ನು ಅಸಿಟಿಲೀನ್ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಮತ್ತೊಂದು ಉದಾಹರಣೆ ಪ್ರೋಪೈನ್, ಇದರ ಸೂತ್ರ ಸಿ ತ್ರೀ ಎಚ್ ಫೋರ್.",
+  "script_display": "ಮುಂದಿನದಾಗಿ, ಅಪರ್ಯಾಪ್ತ ಹೈಡ್ರೋಕಾರ್ಬನ್‌ಗಳ ಎರಡನೇ ವಿಧವಾದ ಆಲೈನ್‌ಗಳನ್ನು ನೋಡೋಣ. ಇವುಗಳ ವಿಶೇಷತೆ ಎಂದರೆ, ಇವು ಕನಿಷ್ಠ ಒಂದು ಕಾರ್ಬನ್-ಕಾರ್ಬನ್ ತ್ರಿಬಂಧವನ್ನು (C≡C) ಹೊಂದಿರುತ್ತವೆ. ಈ ತ್ರಿಬಂಧವು ಆಲ್ಕೀನ್‌ಗಳ ದ್ವಿಬಂಧಕ್ಕಿಂತಲೂ ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲವಾಗಿರುತ್ತದೆ. ಆಲೈನ್‌ಗಳ ಸಾಮಾನ್ಯ ಸೂತ್ರ $C_nH_{2n-2}$ ಆಗಿದೆ. ಇಲ್ಲಿಯೂ ಸಹ, 'n' ನ ಮೌಲ್ಯ n ≥ 2 ಆಗಿರಬೇಕು. ಇದಕ್ಕೆ ಪ್ರಸಿದ್ಧ ಉದಾಹರಣೆ ಈಥೈನ್ ($C_2H_2$). ಇದನ್ನು ಅಸಿಟಿಲೀನ್ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಮತ್ತೊಂದು ಉದಾಹರಣೆ ಪ್ರೋಪೈನ್ ($C_3H_4$).",
+  "display_bullets": [
+    "ಒಂದು ಅಥವಾ ಹೆಚ್ಚು ಕಾರ್ಬನ್-ಕಾರ್ಬನ್ ತ್ರಿಬಂಧಗಳನ್ನು (C≡C) ಹೊಂದಿರುತ್ತವೆ.",
+    "ಸಾಮಾನ್ಯ ಸೂತ್ರ: $C_nH_{2n-2}$",
+    "ಉದಾಹರಣೆಗಳು: ಈಥೈನ್ ($C_2H_2$), ಪ್ರೋಪೈನ್ ($C_3H_4$)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Structure of Ethyne (C2H2) molecule, clearly showing the triple bond between the two carbon atoms. The molecule should be linear. Each carbon is also bonded to one hydrogen atom.",
+    "labels": "ಕಾರ್ಬನ್, ಹೈಡ್ರೋಜನ್, ತ್ರಿಬಂಧ",
+    "scientific_significance": "Illustrates the defining feature of an alkyne - the carbon-carbon triple bond. This linear molecule has even higher electron density than an alkene, making it very reactive.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_4_concept_4_chunk_020"
+}

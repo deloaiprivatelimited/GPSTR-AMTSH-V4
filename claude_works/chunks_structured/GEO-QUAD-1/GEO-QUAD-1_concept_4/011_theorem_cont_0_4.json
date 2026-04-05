@@ -1,0 +1,44 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಗುಣ 3: ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ",
+  "script": "ಈಗ ಮೂರನೇ ಗುಣವನ್ನು ನೋಡೋಣ: ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಇದಕ್ಕಾಗಿ, ಮತ್ತೆ ಸಮಾಂತರ ಚತುರ್ಭುಜ ಎ ಬಿ ಸಿ ಡಿ ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಈ ಬಾರಿ, ಎ ಸಿ ಮತ್ತು ಬಿ ಡಿ ಎಂಬ ಎರಡೂ ಕರ್ಣಗಳನ್ನು ಎಳೆಯೋಣ. ಅವು 'ಓ' ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸಲಿ. ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ ಎಂದು ಸಾಧಿಸಲು, ನಾವು ಎ ಓ ಸಮ ಸಿ ಓ ಮತ್ತು ಬಿ ಓ ಸಮ ಡಿ ಓ ಎಂದು ತೋರಿಸಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ತ್ರಿಭುಜ ಎ ಓ ಬಿ ಮತ್ತು ತ್ರಿಭುಜ ಸಿ ಓ ಡಿ ಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಮೂರನೇ ಗುಣವನ್ನು ನೋಡೋಣ: ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಇದಕ್ಕಾಗಿ, ಮತ್ತೆ ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCD ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಈ ಬಾರಿ, AC ಮತ್ತು BD ಎಂಬ ಎರಡೂ ಕರ್ಣಗಳನ್ನು ಎಳೆಯೋಣ. ಅವು 'O' ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸಲಿ. ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ ಎಂದು ಸಾಧಿಸಲು, ನಾವು AO = CO ಮತ್ತು BO = DO ಎಂದು ತೋರಿಸಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ΔAOB ಮತ್ತು ΔCOD ಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸುತ್ತೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "light_on_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A parallelogram ABCD with both diagonals AC and BD intersecting at point O. The triangles ΔAOB and ΔCOD are highlighted in different colors.",
+    "labels": "A, B, C, D, O, ΔAOB, ΔCOD",
+    "mathematical_significance": "Sets up the visual context for proving the property of bisecting diagonals by focusing on the two vertically opposite triangles formed by the intersection.",
+    "placeholder_note": "Image to be generated"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "AC ಮತ್ತು BD ಕರ್ಣಗಳು O ನಲ್ಲಿ ಛೇದಿಸಲಿ.",
+      "justification": "ಸಾಧನೆಗೆ ಬೇಕಾದ ರಚನೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ΔAOB ಮತ್ತು ΔCOD ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+      "justification": "ಸರ್ವಸಮತೆಯನ್ನು ಸಾಧಿಸಲು ಬೇಕಾದ ತ್ರಿಭುಜಗಳು."
+    }
+  ],
+  "chunk_id": "GEO-QUAD-1_concept_4_chunk_011"
+}

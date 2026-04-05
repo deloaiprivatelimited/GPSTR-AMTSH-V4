@@ -1,0 +1,36 @@
+{
+  "type": "intro",
+  "slide_title": "ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳ ಮೂಲಭೂತ ಅಂಶಗಳು",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಈ ದಿನ ನಾವು ಬೀಜಗಣಿತದ ಒಂದು ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಕಲಿಯಲಿದ್ದೇವೆ, ಅದುವೇ ಒಂದು ಚರಾಕ್ಷರವುಳ್ಳ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳು. ಸಮೀಕರಣಗಳು ಅಂದರೆ ಕೇವಲ ಗಣಿತದ ಪುಸ್ತಕದಲ್ಲಿರುವ x ಮತ್ತು y ಅಲ್ಲ. ನಮ್ಮ ದಿನನಿತ್ಯದ ಜೀವನದಲ್ಲಿ ನಾವು ತಿಳಿಯದೆಯೇ ಸಮೀಕರಣಗಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ತಕ್ಕಡಿಯ ಎರಡು ತಟ್ಟೆಗಳು ಸಮನಾಗಿರುವಂತೆ, ಸಮೀಕರಣದ ಎರಡು ಬದಿಗಳೂ ಸಮನಾಗಿರಬೇಕು. ಈ ಅಧ್ಯಾಯವು ನಿಮಗೆ ಬೀಜಗಣಿತದ ಅಡಿಪಾಯವನ್ನು ಹಾಕಿಕೊಡುತ್ತದೆ. ಈ ಮಾಡ್ಯೂಲ್‌ನ ಕೊನೆಯಲ್ಲಿ, ನಿಮಗೆ ಈ ವಿಷಯಗಳು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯುತ್ತವೆ: ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ ಎಂದರೇನು?, ಬೀಜಗಣಿತದ ಪದೋಕ್ತಿ ಮತ್ತು ಸಮೀಕರಣದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?, ಮತ್ತು ಒಂದು ಸರಳ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವನ್ನು ಹೇಗೆ ಬಿಡಿಸುವುದು?",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಈ ದಿನ ನಾವು ಬೀಜಗಣಿತದ ಒಂದು ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಕಲಿಯಲಿದ್ದೇವೆ, ಅದುವೇ 'ಒಂದು ಚರಾಕ್ಷರವುಳ್ಳ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳು'. ಸಮೀಕರಣಗಳು ಅಂದರೆ ಕೇವಲ ಗಣಿತದ ಪುಸ್ತಕದಲ್ಲಿರುವ 'x' ಮತ್ತು 'y' ಅಲ್ಲ. ನಮ್ಮ ದಿನನಿತ್ಯದ ಜೀವನದಲ್ಲಿ ನಾವು ತಿಳಿಯದೆಯೇ ಸಮೀಕರಣಗಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ತಕ್ಕಡಿಯ ಎರಡು ತಟ್ಟೆಗಳು ಸಮನಾಗಿರುವಂತೆ, ಸಮೀಕರಣದ ಎರಡು ಬದಿಗಳೂ ಸಮನಾಗಿರಬೇಕು. ಈ ಅಧ್ಯಾಯವು ನಿಮಗೆ ಬೀಜಗಣಿತದ ಅಡಿಪಾಯವನ್ನು ಹಾಕಿಕೊಡುತ್ತದೆ. ಈ ಮಾಡ್ಯೂಲ್‌ನ ಕೊನೆಯಲ್ಲಿ, ನಿಮಗೆ ಈ ವಿಷಯಗಳು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯುತ್ತವೆ: ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ ಎಂದರೇನು?, ಬೀಜಗಣಿತದ ಪದೋಕ್ತಿ ಮತ್ತು ಸಮೀಕರಣದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?, ಮತ್ತು ಒಂದು ಸರಳ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವನ್ನು ಹೇಗೆ ಬಿಡಿಸುವುದು?",
+  "display_bullets": [
+    "ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ ಎಂದರೇನು?",
+    "ಪದೋಕ್ತಿ ಮತ್ತು ಸಮೀಕರಣದ ನಡುವಿನ ವ್ಯತ್ಯಾಸ",
+    "ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು ಹೇಗೆ?"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "hero_A",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An engaging abstract background with mathematical symbols like plus, minus, and variables (x, y) faintly visible. A subtle, stylized image of a balanced scale is in the background. The overall tone should be modern and clean, suitable for an educational YouTube channel intro.",
+    "labels": "Background image",
+    "mathematical_significance": "Sets a modern, mathematical tone for the lesson.",
+    "placeholder_note": "Generate a modern, abstract background for a math lesson with faint math symbols and a balance scale."
+  },
+  "chunk_id": "ALG-EQ1-2_concept_1_chunk_001"
+}

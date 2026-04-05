@@ -1,0 +1,147 @@
+{
+  "module_id": "std_9_chapter_9_concept_5",
+  "chapter_code": "std_9_chapter_9",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:14:16",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "d3ff40e19b8bb734e214833a7ddb05e3",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 29.851,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 41,
+      "generated_at": "2026-04-02 16:12:11"
+    },
+    "003_formula_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "7b1e69a4afaa2ab44da44200eb3319ea",
+      "wav_file": "003_formula_0.wav",
+      "duration": 59.291,
+      "slide_title": "ತೂಕದ ಸೂತ್ರ: W = m x g",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-04-02 16:12:25"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "b206c48e9144efc99c51dc64481919fe",
+      "wav_file": "001_intro_0.wav",
+      "duration": 56.291,
+      "slide_title": "ರಾಶಿ ಮತ್ತು ತೂಕ",
+      "type": "intro",
+      "script_words": 84,
+      "generated_at": "2026-04-02 16:12:28"
+    },
+    "005_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "fb310370d8795184d2bbc0638af7aed8",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "duration": 62.571,
+      "slide_title": "ಗಮನಿಸಬೇಕಾದ ಪ್ರಮುಖ ಅಂಶಗಳು",
+      "type": "concept_explanation",
+      "script_words": 80,
+      "generated_at": "2026-04-02 16:12:37"
+    },
+    "004_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "61a909adf7a52562f5a21ff8961e1395",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "duration": 47.891,
+      "slide_title": "ಉದಾಹರಣೆ: ತೂಕದ ಲೆಕ್ಕಾಚಾರ",
+      "type": "concept_explanation",
+      "script_words": 81,
+      "generated_at": "2026-04-02 16:12:55"
+    },
+    "009_example_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "4f59984394f64258b292c967e1eb3f32",
+      "wav_file": "009_example_0.wav",
+      "duration": 21.051,
+      "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ",
+      "type": "worked_example",
+      "script_words": 32,
+      "generated_at": "2026-04-02 16:13:04"
+    },
+    "007_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "70b6cf42df454d31f79686bd651de93b",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "duration": 37.371,
+      "slide_title": "ತೂಕ (Weight)",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 16:13:15"
+    },
+    "006_classification_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "fa74810cdc0b8089d3c7a27be0e203f5",
+      "wav_file": "006_classification_0.wav",
+      "duration": 44.251,
+      "slide_title": "ರಾಶಿ (Mass)",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 16:13:23"
+    },
+    "008_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "29608821c1e684f1ea7da78d30e65d36",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "duration": 46.531,
+      "slide_title": "ರಾಶಿ ಮತ್ತು ತೂಕ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸಗಳು",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 16:13:30"
+    },
+    "010_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "de90ab7f7cbdc428bf0553ce8e14fb39",
+      "wav_file": "010_example_cont_0_1.wav",
+      "duration": 36.731,
+      "slide_title": "ಪರಿಹಾರದ ಹಂತಗಳು",
+      "type": "worked_example",
+      "script_words": 58,
+      "generated_at": "2026-04-02 16:13:49"
+    },
+    "011_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "2aa6c65337c691647c61c63a61014608",
+      "wav_file": "011_example_cont_0_2.wav",
+      "duration": 29.371,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 41,
+      "generated_at": "2026-04-02 16:14:09"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "70e770b397a55eea514207d8453f0f7d",
+      "wav_file": "012_recap_0.wav",
+      "duration": 44.731,
+      "slide_title": "ಸಾರಾಂಶ: ರಾಶಿ ಮತ್ತು ತೂಕ",
+      "type": "recap",
+      "script_words": 59,
+      "generated_at": "2026-04-02 16:14:16"
+    }
+  }
+}

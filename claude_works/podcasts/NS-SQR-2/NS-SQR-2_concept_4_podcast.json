@@ -1,0 +1,138 @@
+{
+  "module_id": "NS-SQR-2_concept_4",
+  "module_title": "ವರ್ಗಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವ ವಿಧಾನಗಳು (Methods to Find Squares)",
+  "podcast_meta": {
+    "estimated_duration_minutes": 5,
+    "total_dialogues": 20,
+    "sections_covered": [
+      "intro",
+      "formula",
+      "example",
+      "exam_tips",
+      "recap"
+    ],
+    "content_density": "medium"
+  },
+  "dialogues": [
+    {
+      "index": 1,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಜಿ ಪಿ ಎಸ್ ಟಿ ಆರ್ ಗಣಿತ ಪುನರಾವರ್ತನೆ ಸರಣಿಗೆ ಸ್ವಾಗತ. ಇಂದು ನಾವು ವರ್ಗಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವ ಕೆಲವು ಸುಲಭ ವಿಧಾನಗಳ ಬಗ್ಗೆ ಚರ್ಚಿಸೋಣ."
+    },
+    {
+      "index": 2,
+      "speaker": "student",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ ಗುರುಗಳೇ. ಅಂದರೆ ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳ ವರ್ಗಗಳನ್ನು ನೇರ ಗುಣಾಕಾರ ಮಾಡದೆ ಕಂಡುಹಿಡಿಯುವ ವಿಧಾನಗಳ ಬಗ್ಗೆ ತಿಳಿಸಿಕೊಡುತ್ತೀರಾ?"
+    },
+    {
+      "index": 3,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ಹೌದು. ಇದು ಪರೀಕ್ಷೆಯಲ್ಲಿ ಸಮಯ ಉಳಿಸಲು ಮತ್ತು ಕೆಲವು ನಿರ್ದಿಷ್ಟ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಲು ತುಂಬಾ ಸಹಾಯಕ."
+    },
+    {
+      "index": 4,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಮೊದಲಿಗೆ, ಬೀಜಗಣಿತದ ಒಂದು ಪ್ರಮುಖ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸೋಣ. a plus b whole squared equals a squared plus two a b plus b squared."
+    },
+    {
+      "index": 5,
+      "speaker": "student",
+      "section": "formula",
+      "script": "ಓಹ್, ಇದನ್ನು ಯಾಕೆ ಬಳಸಬೇಕು? ನೇರವಾಗಿ ಗುಣಿಸಿದರೆ ಆಯ್ತಲ್ಲ?"
+    },
+    {
+      "index": 6,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಒಳ್ಳೆಯ ಪ್ರಶ್ನೆ. ಕೆಲವು ಸಲ, ಪರೀಕ್ಷೆಯಲ್ಲಿ ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ ವರ್ಗ ಕಂಡುಹಿಡಿಯಿರಿ ಅಂತಲೇ ಕೇಳುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, ಮೂವತ್ತೊಂಬತ್ತರ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ."
+    },
+    {
+      "index": 7,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಮೂವತ್ತೊಂಬತ್ತನ್ನು ನಾವು ನಲವತ್ತು ಮೈನಸ್ ಒಂದು ಅಂತ ಬರೆಯಬಹುದಲ್ಲವೇ?"
+    },
+    {
+      "index": 8,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಖಂಡಿತ. ಆಗ ನಾವು a minus b whole squared ಸೂತ್ರ ಬಳಸುತ್ತೇವೆ. ಅದು a squared minus two a b plus b squared ಆಗುತ್ತದೆ."
+    },
+    {
+      "index": 9,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಇಲ್ಲಿ a ನಲವತ್ತು ಮತ್ತು b ಒಂದು. ಹಾಗಾಗಿ, ನಲವತ್ತರ ವರ್ಗ ಮೈನಸ್ ಎರಡು ಇಂಟು ನಲವತ್ತು ಇಂಟು ಒಂದು ಪ್ಲಸ್ ಒಂದರ ವರ್ಗ."
+    },
+    {
+      "index": 10,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಸರಿ, ನಲವತ್ತರ ವರ್ಗ ಒಂದು ಸಾವಿರದ ಆರುನೂರು, ಎರಡು ಇಂಟು ನಲವತ್ತು ಅಂದರೆ ಎಂಬತ್ತು, ಮತ್ತು ಒಂದರ ವರ್ಗ ಒಂದು."
+    },
+    {
+      "index": 11,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಅತ್ಯುತ್ತಮ. ಅಂದರೆ ಒಂದು ಸಾವಿರದ ಆರುನೂರು ಮೈನಸ್ ಎಂಬತ್ತು ಪ್ಲಸ್ ಒಂದು. ಅಂತಿಮ ಉತ್ತರ ಒಂದು ಸಾವಿರದ ಐನೂರ ಇಪ್ಪತ್ತೊಂದು."
+    },
+    {
+      "index": 12,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಓಕೆ, ಅರ್ಥವಾಯಿತು. ಈ ವಿಧಾನದಿಂದ ಲೆಕ್ಕಾಚಾರ ತುಂಬಾ ಸುಲಭವಾಯಿತು."
+    },
+    {
+      "index": 13,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಈಗ ಇನ್ನೊಂದು ವಿಶೇಷ ವಿಧಾನ ನೋಡೋಣ. ಇದು ಬಿಡಿ ಸ್ಥಾನದಲ್ಲಿ ಐದು ಇರುವ ಸಂಖ್ಯೆಗಳಿಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ."
+    },
+    {
+      "index": 14,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಹೌದಾ! ಅದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ? ಒಂದು ಉದಾಹರಣೆ ಕೊಡಿ."
+    },
+    {
+      "index": 15,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ತೊಂಬತ್ತೈದರ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇಲ್ಲಿ ಐದನ್ನು ಬಿಟ್ಟು ಉಳಿದ ಸಂಖ್ಯೆ ಒಂಬತ್ತು. ನಿಯಮ ಹೀಗಿದೆ. ಒಂಬತ್ತು ಇಂಟು ಒಂಬತ್ತು ಪ್ಲಸ್ ಒಂದು ಮಾಡಿ, ಆ ಸಂಖ್ಯೆಯ ಮುಂದೆ ಇಪ್ಪತ್ತೈದನ್ನು ಬರೆಯಬೇಕು."
+    },
+    {
+      "index": 16,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಅಂದರೆ, ಒಂಬತ್ತು ಇಂಟು ಹತ್ತು, ಇದು ತೊಂಬತ್ತು ಆಗುತ್ತದೆ. ಅದರ ಮುಂದೆ ಇಪ್ಪತ್ತೈದು ಬರೆದರೆ, ಉತ್ತರ ಒಂಬತ್ತು ಸಾವಿರದ ಇಪ್ಪತ್ತೈದು. ಸರಿನಾ ಗುರುಗಳೇ?"
+    },
+    {
+      "index": 17,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಪರಿಪೂರ್ಣ. ನೀನು ಬೇಗನೆ ಕಲಿತೆ. ಇದು ತುಂಬಾ ವೇಗವಾದ ವಿಧಾನ."
+    },
+    {
+      "index": 18,
+      "speaker": "student",
+      "section": "exam_tips",
+      "script": "ಗುರುಗಳೇ, ಪರೀಕ್ಷೆಯಲ್ಲಿ ಈ ವಿಷಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಮಾಡುವ ಸಾಮಾನ್ಯ ತಪ್ಪು ಯಾವುದು?"
+    },
+    {
+      "index": 19,
+      "speaker": "teacher",
+      "section": "exam_tips",
+      "script": "ಅತಿ ಸಾಮಾನ್ಯ ತಪ್ಪು ಅಂದರೆ a plus b whole squared ಅನ್ನು a squared plus b squared ಎಂದು ಬರೆಯುವುದು. ಇದು ಸಂಪೂರ್ಣವಾಗಿ ತಪ್ಪು. ಮಧ್ಯದ two a b ಪದವನ್ನು ಮರೆಯಲೇಬಾರದು."
+    },
+    {
+      "index": 20,
+      "speaker": "teacher",
+      "section": "recap",
+      "script": "ಉತ್ತಮ. ಹಾಗಾದರೆ, ಇಂದು ನಾವು ನಿತ್ಯಸಮೀಕರಣ ಮತ್ತು ವಿಶೇಷ ನಿಯಮ ಬಳಸಿ ವರ್ಗಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದನ್ನು ಕಲಿತಿದ್ದೇವೆ. ಮುಂದಿನ ಪಾಠದಲ್ಲಿ ಭೇಟಿಯಾಗೋಣ. ಚೆನ್ನಾಗಿ ಅಭ್ಯಾಸ ಮಾಡಿ."
+    }
+  ]
+}

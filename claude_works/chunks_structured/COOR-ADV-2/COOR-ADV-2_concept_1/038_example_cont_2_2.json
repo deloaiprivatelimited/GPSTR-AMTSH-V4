@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ದೂರಗಳನ್ನು ಹೋಲಿಸುವುದು",
+  "script": "ಈಗ ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದ ದೂರಗಳನ್ನು ಹೋಲಿಸೋಣ. ಸರಳರೇಖಾಗತತೆಯ ಷರತ್ತು, AB ಪ್ಲಸ್ BC ಈಕ್ವಲ್ಸ್ AC, ಪಾಲನೆಯಾಗಿದೆಯೇ ಎಂದು ನೋಡೋಣ. ಮೊದಲು AB ಮತ್ತು BC ಯ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಮೂರು ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಎರಡು ಪ್ಲಸ್ ಎರಡು ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಎರಡು, ಇವುಗಳ ಮೊತ್ತ ಐದು ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಎರಡು ಆಗುತ್ತದೆ. ನಾವು ಈಗಾಗಲೇ AC ಯ ಮೌಲ್ಯವನ್ನು ಐದು ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಎರಡು ಎಂದು ಲೆಕ್ಕ ಮಾಡಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, AB ಪ್ಲಸ್ BC ಯ ಮೊತ್ತವು AC ಗೆ ಸಮನಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದ ದೂರಗಳನ್ನು ಹೋಲಿಸೋಣ. ಸರಳರೇಖಾಗತತೆಯ ಷರತ್ತು, $AB + BC = AC$, ಪಾಲನೆಯಾಗಿದೆಯೇ ಎಂದು ನೋಡೋಣ. ಮೊದಲು $AB$ ಮತ್ತು $BC$ ಯ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಾವು ಈಗಾಗಲೇ $AC$ ಯ ಮೌಲ್ಯವನ್ನು ಲೆಕ್ಕ ಮಾಡಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, $AB + BC$ ಯ ಮೊತ್ತವು $AC$ ಗೆ ಸಮನಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "COOR-ADV-2_example_3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$AB + BC = 3\\sqrt{2} + 2\\sqrt{2} = 5\\sqrt{2}$",
+      "justification": "ದೂರಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$AC = 5\\sqrt{2}$",
+      "justification": "ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡಲಾಗಿದೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "ಆದ್ದರಿಂದ, $AB + BC = AC$",
+      "justification": "$5\\sqrt{2} = 5\\sqrt{2}$ ಆಗಿರುವುದರಿಂದ, ಷರತ್ತು ಪಾಲನೆಯಾಗಿದೆ."
+    }
+  ],
+  "chunk_id": "COOR-ADV-2_concept_1_chunk_038"
+}

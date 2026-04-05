@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ಡಿ, ಬಿ, ಮತ್ತು ಸಿ ಬಿಂದುಗಳು ಒಂದೇ ರೇಖೆಯ ಮೇಲಿವೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಲು, ನಾವು ಕೋನ ಡಿಬಿಸಿ ಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಕೋನ ಡಿಬಿಸಿ ಯು ಕೋನ ಎಬಿಡಿ ಮತ್ತು ಕೋನ ಎಬಿಸಿ ಗಳ ಮೊತ್ತವಾಗಿದೆ. ಅಂದರೆ, ಕೋನ ಡಿಬಿಸಿ ಸಮ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಪ್ಲಸ್ ತೊಂಬತ್ತು ಡಿಗ್ರಿ, ಇದು ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿಗಳಿಗೆ ಸಮ. ಒಂದು ಕೋನದ ಅಳತೆ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಆಗಿದ್ದರೆ, ಅದು ಒಂದು ಸರಳ ಕೋನ. ಇದರರ್ಥ ಡಿಬಿಸಿ ಒಂದು ಸರಳರೇಖೆಯಾಗಿದೆ. ಆದ್ದರಿಂದ, ಬಿ ಬಿಂದುವು ಡಿಸಿ ರೇಖಾಖಂಡದ ಮೇಲಿದೆ ಎಂದು ನಾವು ತೀರ್ಮಾನಿಸಬಹುದು.",
+  "script_display": "ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. D, B, ಮತ್ತು C ಬಿಂದುಗಳು ಒಂದೇ ರೇಖೆಯ ಮೇಲಿವೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಲು, ನಾವು ∠DBC ಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ∠DBC ಯು ∠ABD ಮತ್ತು ∠ABC ಗಳ ಮೊತ್ತವಾಗಿದೆ. ಅಂದರೆ, ∠DBC = 90° + 90° = 180°. ಒಂದು ಕೋನದ ಅಳತೆ 180° ಆಗಿದ್ದರೆ, ಅದು ಒಂದು ಸರಳ ಕೋನ. ಇದರರ್ಥ DBC ಒಂದು ಸರಳರೇಖೆಯಾಗಿದೆ. ಆದ್ದರಿಂದ, B ಬಿಂದುವು DC ರೇಖಾಖಂಡದ ಮೇಲಿದೆ ಎಂದು ನಾವು ತೀರ್ಮಾನಿಸಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಚಿತ್ರದಲ್ಲಿ, D, B, ಮತ್ತು C ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖೆಯನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. B ಯಲ್ಲಿ 180° ಕೋನವನ್ನು ಸೂಚಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, 180°",
+    "mathematical_significance": "DBC ಒಂದು ಸರಳರೇಖೆ (180° ಕೋನ) ಎಂದು ತೋರಿಸುತ್ತದೆ, ಇದು ಸಾಧನೆಯ ಅಂತಿಮ ಹಂತವಾಗಿದೆ.",
+    "placeholder_note": "Image to be generated: Same as previous slide, but with the line segment DC highlighted to show it's a straight line passing through B."
+  },
+  "source_example_id": "GEO-CIR-2_example_7",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "∠DBC = ∠ABD + ∠ABC <br> = 90° + 90° = 180°",
+      "justification": "ಚಿತ್ರದಿಂದ, ಕೋನಗಳನ್ನು ಕೂಡಿಸಲಾಗಿದೆ."
+    },
+    {
+      "step": 4,
+      "action_display": "DBC ಒಂದು ಸರಳರೇಖೆಯಾಗಿದೆ.",
+      "justification": "ಒಂದು ಕೋನದ ಅಳತೆಯು 180° ಆಗಿದ್ದರೆ, ಅದು ಸರಳ ಕೋನವಾಗಿರುತ್ತದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-CIR-2_concept_3_chunk_024"
+}

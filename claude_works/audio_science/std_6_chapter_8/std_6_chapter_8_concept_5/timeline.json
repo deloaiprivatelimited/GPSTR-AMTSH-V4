@@ -1,0 +1,112 @@
+{
+  "module_id": "std_6_chapter_8_concept_5",
+  "chapter_code": "std_6_chapter_8",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 9,
+  "total_duration": 398.979,
+  "total_duration_formatted": "6:38",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_8_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಆವೀಕರಣದಿಂದ ಶೈತ್ಯೀಕರಣ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 48.891,
+      "duration": 48.891,
+      "script_words": 77
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "start": 49.491,
+      "end": 76.342,
+      "duration": 26.851,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_5_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಆವೀಕರಣದಿಂದ ಶೈತ್ಯೀಕರಣ: ದೈನಂದಿನ ಉದಾಹರಣೆಗಳು (ಭಾಗ 1)",
+      "type": "concept_explanation",
+      "start": 76.942,
+      "end": 135.553,
+      "duration": 58.611,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_5_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಆವೀಕರಣದಿಂದ ಶೈತ್ಯೀಕರಣ: ದೈನಂದಿನ ಉದಾಹರಣೆಗಳು (ಭಾಗ 2)",
+      "type": "concept_explanation",
+      "start": 136.153,
+      "end": 187.604,
+      "duration": 51.451,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_5_chunk_005",
+      "chunk_file": "005_experiment_0.json",
+      "wav_file": "005_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ: ಮಡಕೆಯೊಳಗೆ ಮಡಕೆ ಶೈತ್ಯಕ",
+      "type": "experiment_activity",
+      "start": 188.204,
+      "end": 228.975,
+      "duration": 40.771,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_5_chunk_006",
+      "chunk_file": "006_experiment_cont_0_1.json",
+      "wav_file": "006_experiment_cont_0_1.wav",
+      "slide_title": "ಮಾಡುವ ವಿಧಾನ",
+      "type": "experiment_activity",
+      "start": 229.575,
+      "end": 273.186,
+      "duration": 43.611,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_5_chunk_007",
+      "chunk_file": "007_experiment_cont_0_2.json",
+      "wav_file": "007_experiment_cont_0_2.wav",
+      "slide_title": "ಮಾಡುವ ವಿಧಾನ (ಮುಂದುವರೆದಿದೆ)",
+      "type": "experiment_activity",
+      "start": 273.786,
+      "end": 308.917,
+      "duration": 35.131,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_5_chunk_008",
+      "chunk_file": "008_experiment_cont_0_3.json",
+      "wav_file": "008_experiment_cont_0_3.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "start": 309.517,
+      "end": 359.368,
+      "duration": 49.851,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_6_chapter_8_concept_5_chunk_009",
+      "chunk_file": "009_recap_0.json",
+      "wav_file": "009_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಆವೀಕರಣದಿಂದ ಶೈತ್ಯೀಕರಣ",
+      "type": "recap",
+      "start": 359.968,
+      "end": 398.379,
+      "duration": 38.411,
+      "script_words": 49
+    }
+  ]
+}

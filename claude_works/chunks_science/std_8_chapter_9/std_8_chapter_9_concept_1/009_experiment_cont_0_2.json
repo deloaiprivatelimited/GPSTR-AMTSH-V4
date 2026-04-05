@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಏನಾಯಿತು?",
+  "script": "ಪುಸ್ತಕವನ್ನು ತಳ್ಳಿದ ನಂತರ ಏನಾಯಿತು? ನೀವು ಗಮನಿಸಿರಬಹುದು, ಪುಸ್ತಕವು ಸ್ವಲ್ಪ ದೂರ ಚಲಿಸಿ, ನಂತರ ನಿಧಾನವಾಗಿ ತನ್ನ ವೇಗವನ್ನು ಕಳೆದುಕೊಂಡು ಅಂತಿಮವಾಗಿ ನಿಂತುಹೋಗುತ್ತದೆ. ನಾವು ತಳ್ಳುವುದನ್ನು ನಿಲ್ಲಿಸಿದ ಮೇಲೂ ಅದರ ಚಲನೆಯನ್ನು ನಿಲ್ಲಿಸಲು ಯಾವುದೋ ಒಂದು ಬಲವು ಕೆಲಸ ಮಾಡುತ್ತಿದೆ ಎಂದು ಇದು ಸೂಚಿಸುತ್ತದೆ. ಈ ಅದೃಶ್ಯ ಬಲವು ಪುಸ್ತಕದ ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುತ್ತಿದೆ. ಈ ವೀಕ್ಷಣೆಯು ನಮ್ಮ ಮುಂದಿನ ತೀರ್ಮಾನಕ್ಕೆ ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ. ಈ ವಿರೋಧಿಸುವ ಬಲವೇ ಘರ್ಷಣೆ.",
+  "script_display": "ಪುಸ್ತಕವನ್ನು ತಳ್ಳಿದ ನಂತರ ಏನಾಯಿತು? ನೀವು ಗಮನಿಸಿರಬಹುದು, ಪುಸ್ತಕವು ಸ್ವಲ್ಪ ದೂರ ಚಲಿಸಿ, ನಂತರ ನಿಧಾನವಾಗಿ ತನ್ನ ವೇಗವನ್ನು ಕಳೆದುಕೊಂಡು ಅಂತಿಮವಾಗಿ ನಿಂತುಹೋಗುತ್ತದೆ. ನಾವು ತಳ್ಳುವುದನ್ನು ನಿಲ್ಲಿಸಿದ ಮೇಲೂ ಅದರ ಚಲನೆಯನ್ನು ನಿಲ್ಲಿಸಲು ಯಾವುದೋ ಒಂದು ಬಲವು ಕೆಲಸ ಮಾಡುತ್ತಿದೆ ಎಂದು ಇದು ಸೂಚಿಸುತ್ತದೆ. ಈ ಅದೃಶ್ಯ ಬಲವು ಪುಸ್ತಕದ ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುತ್ತಿದೆ. ಈ ವೀಕ್ಷಣೆಯು ನಮ್ಮ ಮುಂದಿನ ತೀರ್ಮಾನಕ್ಕೆ ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ. ಈ ವಿರೋಧಿಸುವ ಬಲವೇ ಘರ್ಷಣೆ.",
+  "display_bullets": [
+    "ಪುಸ್ತಕವು ಸ್ವಲ್ಪ ದೂರ ಚಲಿಸಿ ನಿಲ್ಲುತ್ತದೆ.",
+    "ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುವ ಒಂದು ಬಲವು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The book from the previous slide is now shown at a standstill, a short distance from where it was pushed. A dotted line shows its path. An arrow pointing opposite to the direction of motion is now visible, labeled 'ಘರ್ಷಣಾ ಬಲ'.",
+    "labels": "ಘರ್ಷಣಾ ಬಲ, ಚಲನೆಯ ದಿಕ್ಕು",
+    "scientific_significance": "Illustrates that an opposing force (friction) caused the book to stop.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_8_chapter_9_concept_1_chunk_009"
+}

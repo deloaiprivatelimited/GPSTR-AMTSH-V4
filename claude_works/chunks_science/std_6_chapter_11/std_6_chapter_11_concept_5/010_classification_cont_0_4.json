@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಾಮುಖ್ಯತೆ 3: ಪರಿಸರ ಸಮತೋಲನ (ಮುಂದುವರಿದಿದೆ)",
+  "script": "ಪರಿಸರ ಸಮತೋಲನದಲ್ಲಿ ಅರಣ್ಯಗಳ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಪಾತ್ರವೆಂದರೆ ವಾತಾವರಣದ ಅನಿಲಗಳ ಸಮತೋಲನವನ್ನು ಕಾಪಾಡುವುದು. ಸಸ್ಯಗಳು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ಕ್ರಿಯೆಯ ಮೂಲಕ ವಾತಾವರಣದಲ್ಲಿರುವ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲವನ್ನು ಹೀರಿಕೊಂಡು, ನಮಗೆಲ್ಲರಿಗೂ ಉಸಿರಾಡಲು ಬೇಕಾದ ಆಮ್ಲಜನಕವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಅರಣ್ಯಗಳನ್ನು 'ಭೂಮಿಯ ಶ್ವಾಸಕೋಶಗಳು' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಅವು ಹವಾಮಾನವನ್ನು ನಿಯಂತ್ರಿಸಲು ಮತ್ತು ಜಾಗತಿಕ ತಾಪಮಾನವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ. ಹೀಗೆ ಅರಣ್ಯಗಳು ನಮ್ಮ ಗ್ರಹವನ್ನು ವಾಸಯೋಗ್ಯವಾಗಿಡಲು ಅತ್ಯಗತ್ಯವಾಗಿವೆ.",
+  "script_display": "ಪರಿಸರ ಸಮತೋಲನದಲ್ಲಿ ಅರಣ್ಯಗಳ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಪಾತ್ರವೆಂದರೆ ವಾತಾವರಣದ ಅನಿಲಗಳ ಸಮತೋಲನವನ್ನು ಕಾಪಾಡುವುದು. ಸಸ್ಯಗಳು ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ (Photosynthesis) ಕ್ರಿಯೆಯ ಮೂಲಕ ವಾತಾವರಣದಲ್ಲಿರುವ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಅನಿಲವನ್ನು ಹೀರಿಕೊಂಡು, ನಮಗೆಲ್ಲರಿಗೂ ಉಸಿರಾಡಲು ಬೇಕಾದ ಆಮ್ಲಜನಕವನ್ನು (O₂) ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಅರಣ್ಯಗಳನ್ನು 'ಭೂಮಿಯ ಶ್ವಾಸಕೋಶಗಳು' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಅವು ಹವಾಮಾನವನ್ನು ನಿಯಂತ್ರಿಸಲು ಮತ್ತು ಜಾಗತಿಕ ತಾಪಮಾನವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ಆಮ್ಲಜನಕ (O₂) ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೆಡ್ (CO₂) ಸಮತೋಲನ.",
+    "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ಮೂಲಕ ವಾತಾವರಣವನ್ನು ಶುದ್ಧೀಕರಿಸುತ್ತವೆ.",
+    "ಹವಾಮಾನ ನಿಯಂತ್ರಣ ಮತ್ತು ಜಾಗತಿಕ ತಾಪಮಾನವನ್ನು ಕಡಿಮೆಗೊಳಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clear diagram showing a large tree. An arrow labeled 'CO₂' (ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೆಡ್) points from the air towards the tree's leaves. Another arrow labeled 'O₂' (ಆಮ್ಲಜನಕ) points from the leaves out into the air. The sun should be visible to signify photosynthesis.",
+    "labels": "CO₂, O₂, Sun",
+    "scientific_significance": "Visually explains the process of gas exchange during photosynthesis, highlighting the role of forests as 'lungs of the Earth' in producing oxygen and absorbing carbon dioxide.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "concept_slide",
+  "chunk_id": "std_6_chapter_11_concept_5_chunk_010"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಂತಿಮ ಪೈ ನಕ್ಷೆ",
+  "script": "ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದ ಕೋನಗಳನ್ನು ಬಳಸಿ, ಈಗ ವಿದ್ಯಾರ್ಥಿಯ ದಿನಚರಿಯ ಪೈ ನಕ್ಷೆಯನ್ನು ರಚಿಸಬಹುದು. ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಶಾಲೆಯ ಚಟುವಟಿಕೆ ಮತ್ತು ನಿದ್ರೆ, ಇವೆರಡೂ 120 ಡಿಗ್ರಿಗಳ ದೊಡ್ಡ ಭಾಗಗಳನ್ನು ಆಕ್ರಮಿಸಿಕೊಂಡಿವೆ. ಇದು ಸರಿ, ಏಕೆಂದರೆ ಇವೆರಡಕ್ಕೂ ಹೆಚ್ಚು ಸಮಯ ಮೀಸಲಾಗಿದೆ. ಮನೆಕೆಲಸ ಮತ್ತು ಆಟ, ಇವೆರಡೂ 60 ಡಿಗ್ರಿಗಳ ಸಣ್ಣ ಭಾಗಗಳನ್ನು ಹೊಂದಿವೆ. ಈ ನಕ್ಷೆಯು ಕೇವಲ ಒಂದು ನೋಟದಲ್ಲಿ, ವಿದ್ಯಾರ್ಥಿಯು ತನ್ನ ಸಮಯವನ್ನು ಹೇಗೆ ಹಂಚಿದ್ದಾನೆ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಮತ್ತು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ತೋರಿಸುತ್ತದೆ. ಇದೇ ಪೈ ನಕ್ಷೆಯ ಶಕ್ತಿ.",
+  "script_display": "ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದ ಕೋನಗಳನ್ನು ಬಳಸಿ, ಈಗ ವಿದ್ಯಾರ್ಥಿಯ ದಿನಚರಿಯ ಪೈ ನಕ್ಷೆಯನ್ನು ರಚಿಸಬಹುದು. ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಶಾಲೆಯ ಚಟುವಟಿಕೆ ಮತ್ತು ನಿದ್ರೆ, ಇವೆರಡೂ $120^{\\circ}$ಯ ದೊಡ್ಡ ಭಾಗಗಳನ್ನು ಆಕ್ರಮಿಸಿಕೊಂಡಿವೆ. ಮನೆಕೆಲಸ ಮತ್ತು ಆಟ, ಇವೆರಡೂ $60^{\\circ}$ಯ ಸಣ್ಣ ಭಾಗಗಳನ್ನು ಹೊಂದಿವೆ. ಈ ನಕ್ಷೆಯು ಕೇವಲ ಒಂದು ನೋಟದಲ್ಲಿ, ವಿದ್ಯಾರ್ಥಿಯು ತನ್ನ ಸಮಯವನ್ನು ಹೇಗೆ ಹಂಚಿದ್ದಾನೆ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಮತ್ತು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ತೋರಿಸುತ್ತದೆ. ಇದೇ ಪೈ ನಕ್ಷೆಯ ಶಕ್ತಿ.",
+  "display_bullets": [
+    "ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದ ಕೋನಗಳನ್ನು ಬಳಸಿ ಪೈ ನಕ್ಷೆಯನ್ನು ರಚಿಸಲಾಗಿದೆ.",
+    "ಶಾಲೆ ಮತ್ತು ನಿದ್ರೆ (ತಲಾ 120°) ಅತಿ ದೊಡ್ಡ ಭಾಗಗಳಾಗಿವೆ.",
+    "ಮನೆಕೆಲಸ ಮತ್ತು ಆಟ (ತಲಾ 60°) ಸಣ್ಣ ಭಾಗಗಳಾಗಿವೆ.",
+    "ದತ್ತಾಂಶದ ಹಂಚಿಕೆಯನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_full",
+    "template": "visual_full_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A pie chart divided into four sectors. Two large, equal sectors are labeled 'ಶಾಲೆ (120°)' and 'ನಿದ್ರೆ (120°)'. Two smaller, equal sectors are labeled 'ಮನೆಕೆಲಸ (60°)' and 'ಆಟ (60°)'. Each sector should have a different color.",
+    "labels": "Pie chart, student daily routine, school, sleep, homework, play, central angles",
+    "mathematical_significance": "Visually represents the calculated proportions of a student's daily activities, demonstrating the final output of a pie chart construction.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_full",
+  "chunk_id": "DATA-BAS-1_concept_3_chunk_020"
+}

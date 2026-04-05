@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿವರ್ತಕಗಳು: ಏನು ಬೇಕು?",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಪ್ರತಿವರ್ತಕಗಳಿವೆ. ಮೊದಲನೆಯದು ಗ್ಲೂಕೋಸ್, ಇದು ನಾವು ಸೇವಿಸುವ ಆಹಾರದಿಂದ ಬರುವ ಶಕ್ತಿಯ ಮೂಲವಾಗಿದೆ. ಎರಡನೆಯದು ಆಮ್ಲಜನಕ, ಇದನ್ನು ನಾವು ಉಸಿರಾಡುವ ಗಾಳಿಯಿಂದ ಪಡೆಯುತ್ತೇವೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಪ್ರತಿವರ್ತಕಗಳಿವೆ. ಮೊದಲನೆಯದು ಗ್ಲೂಕೋಸ್ (C₆H₁₂O₆), ಇದು ನಾವು ಸೇವಿಸುವ ಆಹಾರದಿಂದ ಬರುವ ಶಕ್ತಿಯ ಮೂಲವಾಗಿದೆ. ಎರಡನೆಯದು ಆಮ್ಲಜನಕ (O₂), ಇದನ್ನು ನಾವು ಉಸಿರಾಡುವ ಗಾಳಿಯಿಂದ ಪಡೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಗ್ಲೂಕೋಸ್ (C₆H₁₂O₆): ಆಹಾರದಿಂದ ದೊರೆಯುವ ಶಕ್ತಿಯ ಮೂಲ.",
+    "ಆಮ್ಲಜನಕ (O₂): ಉಸಿರಾಟದ ಮೂಲಕ ದೇಹವನ್ನು ಪ್ರವೇಶಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎಡಭಾಗದಲ್ಲಿ ಗ್ಲೂಕೋಸ್ ಅಣುವಿನ ರಚನೆ ಮತ್ತು ಬಲಭಾಗದಲ್ಲಿ ಆಮ್ಲಜನಕದ (O₂) ಅಣುವಿನ ಚಿತ್ರ. ಇವೆರಡರ ನಡುವೆ ಒಂದು ಪ್ಲಸ್ ಚಿಹ್ನೆ ಇರಬೇಕು, ಇವು ಪ್ರತಿವರ್ತಕಗಳು ಎಂದು ಸೂಚಿಸಲು.",
+    "labels": "ಗ್ಲೂಕೋಸ್ (C₆H₁₂O₆), ಆಮ್ಲಜನಕ (O₂)",
+    "scientific_significance": "Shows the reactants of aerobic respiration: glucose as the fuel and oxygen as the oxidizer.",
+    "placeholder_note": "Image to be generated: A glucose molecule and an O2 molecule, representing the reactants."
+  },
+  "chunk_id": "std_7_chapter_6_concept_2_chunk_017"
+}

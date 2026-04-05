@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ದೃಶ್ಯ ವಿವರಣೆ: ಅಕಾಂತೀಯ ವಸ್ತುಗಳು",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಒಂದು ಶಕ್ತಿಶಾಲಿ ಕಾಂತವಿದೆ. ಅದರ ಸುತ್ತಲೂ ಹಲವು ವಸ್ತುಗಳಿವೆ. ನೋಡಿ, ಕಾಂತವು ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಚಣಿಗೆ, ಮರದ ತುಂಡು, ಅಥವಾ ಗಾಜಿನ ಗೋಲಿಯನ್ನು ತನ್ನತ್ತ ಸೆಳೆಯುತ್ತಿಲ್ಲ. ಈ ವಸ್ತುಗಳು ಕಾಂತದ ಸಂಪರ್ಕಕ್ಕೆ ಬಂದರೂ ಯಾವುದೇ ಆಕರ್ಷಣೆಯನ್ನು ತೋರಿಸುತ್ತಿಲ್ಲ. ಇದೇ ಅಕಾಂತೀಯ ವಸ್ತುಗಳ ಗುಣ. ಅವು ಕಾಂತೀಯ ಕ್ಷೇತ್ರದಿಂದ ಪ್ರಭಾವಿತವಾಗುವುದಿಲ್ಲ. ಹಾಗಾಗಿ, ಇವುಗಳನ್ನು ನಾವು ಅಕಾಂತೀಯ ವಸ್ತುಗಳೆಂದು ವರ್ಗೀಕರಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈ ಚಿತ್ರದಲ್ಲಿ, ಕಾಂತವು ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಚಣಿಗೆ, ಮರದ ತುಂಡು, ಅಥವಾ ಗಾಜಿನ ಗೋಲಿಯನ್ನು ತನ್ನತ್ತ ಸೆಳೆಯುತ್ತಿಲ್ಲ. ಈ ವಸ್ತುಗಳು ಕಾಂತದ ಸಂಪರ್ಕಕ್ಕೆ ಬಂದರೂ ಯಾವುದೇ ಆಕರ್ಷಣೆಯನ್ನು ತೋರಿಸುತ್ತಿಲ್ಲ. ಇದೇ ಅಕಾಂತೀಯ ವಸ್ತುಗಳ ಗುಣ.",
+  "display_bullets": [
+    "ಕಾಂತವು ಪ್ಲಾಸ್ಟಿಕ್, ಮರ, ಮತ್ತು ಗಾಜಿನಂತಹ ವಸ್ತುಗಳನ್ನು ಆಕರ್ಷಿಸುವುದಿಲ್ಲ.",
+    "ಈ ವಸ್ತುಗಳು ಕಾಂತೀಯ ಕ್ಷೇತ್ರದಿಂದ ಪ್ರಭಾವಿತವಾಗುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A horseshoe magnet is shown. Around it are several objects: a plastic comb, a wooden block, a glass marble, and a rubber eraser. None of these objects are sticking to the magnet, showing they are non-magnetic.",
+    "labels": "ಕಾಂತ (Magnet), ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಚಣಿಗೆ (Plastic Comb), ಮರದ ತುಂಡು (Wooden Block), ಗಾಜಿನ ಗೋಲಿ (Glass Marble)",
+    "scientific_significance": "Visually demonstrates the property of non-magnetic materials by showing a lack of attraction to a magnet.",
+    "placeholder_note": "Image to be generated showing a magnet failing to attract non-magnetic items."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_4_concept_2_chunk_007"
+}

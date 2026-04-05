@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಬಹುಪದೋಕ್ತಿಯಿಂದ ಏಕಪದೋಕ್ತಿಯ ಗುಣಾಕಾರ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಏಕಪದೋಕ್ತಿಯನ್ನು ಬಹುಪದೋಕ್ತಿಯೊಂದಿಗೆ ಹೇಗೆ ಗುಣಿಸುವುದು ಎಂದು ಕಲಿಯೋಣ. ಇದಕ್ಕಾಗಿ ನಾವು ವಿತರಣಾ ನಿಯಮವನ್ನು, ಅಂದರೆ ಡಿಸ್ಟ್ರಿಬ್ಯೂಟಿವ್ ಲಾನನ್ನು ಬಳಸುತ್ತೇವೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: p times, q plus r plus s, equals p times q, plus p times r, plus p times s. ಇಲ್ಲಿ p ಎಂಬುದು ಒಂದು ಏಕಪದೋಕ್ತಿ, ಅಂದರೆ ಮೋನೋಮಿಯಲ್. ಮತ್ತು q plus r plus s ಎಂಬುದು ಒಂದು ಬಹುಪದೋಕ್ತಿ, ಅಂದರೆ ಪಾಲಿನೋಮಿಯಲ್. ಇದರರ್ಥ, ಬ್ರಾಕೆಟ್ ಹೊರಗಿರುವ ಏಕಪದೋಕ್ತಿಯಿಂದ, ಬ್ರಾಕೆಟ್ ಒಳಗಿರುವ ಬಹುಪದೋಕ್ತಿಯ ಪ್ರತಿಯೊಂದು ಪದವನ್ನು ನಾವು ಪ್ರತ್ಯೇಕವಾಗಿ ಗುಣಿಸಬೇಕು. ಇದು ಈ ಗುಣಾಕಾರದ ಹಿಂದಿನ ಮೂಲಭೂತ ತತ್ವವಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಏಕಪದೋಕ್ತಿಯನ್ನು ಬಹುಪದೋಕ್ತಿಯೊಂದಿಗೆ ಹೇಗೆ ಗುಣಿಸುವುದು ಎಂದು ಕಲಿಯೋಣ. ಇದಕ್ಕಾಗಿ ನಾವು ವಿತರಣಾ ನಿಯಮವನ್ನು (distributive law) ಬಳಸುತ್ತೇವೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: $p \\times (q+r+s) = p \\times q + p \\times r + p \\times s$. ಇಲ್ಲಿ $p$ ಎಂಬುದು ಒಂದು ಏಕಪದೋಕ್ತಿ (monomial). ಮತ್ತು $(q+r+s)$ ಎಂಬುದು ಒಂದು ಬಹುಪದೋಕ್ತಿ (polynomial). ಇದರರ್ಥ, ಬ್ರಾಕೆಟ್ ಹೊರಗಿರುವ ಏಕಪದೋಕ್ತಿಯಿಂದ, ಬ್ರಾಕೆಟ್ ಒಳಗಿರುವ ಬಹುಪದೋಕ್ತಿಯ ಪ್ರತಿಯೊಂದು ಪದವನ್ನು ನಾವು ಪ್ರತ್ಯೇಕವಾಗಿ ಗುಣಿಸಬೇಕು. ಇದು ಈ ಗುಣಾಕಾರದ ಹಿಂದಿನ ಮೂಲಭೂತ ತತ್ವವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಇಲ್ಲಿ $p$ ಒಂದು ಏಕಪದೋಕ್ತಿ (monomial).",
+    "$(q+r+s)$ ಒಂದು ಬಹುಪದೋಕ್ತಿ (polynomial).",
+    "ಗುಣಾಕಾರ ಮಾಡಲು, ನಾವು ವಿತರಣಾ ನಿಯಮವನ್ನು (distributive law) ಬಳಸುತ್ತೇವೆ.",
+    "ಏಕಪದೋಕ್ತಿಯಿಂದ ಬಹುಪದೋಕ್ತಿಯ ಪ್ರತಿಯೊಂದು ಪದವನ್ನು ಗುಣಿಸಬೇಕು."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "p \\times (q+r+s) = p \\times q + p \\times r + p \\times s",
+    "placeholder_note": "Distributive law for multiplying a monomial by a polynomial."
+  },
+  "chunk_id": "ALG-EXP-2_concept_4_chunk_008"
+}

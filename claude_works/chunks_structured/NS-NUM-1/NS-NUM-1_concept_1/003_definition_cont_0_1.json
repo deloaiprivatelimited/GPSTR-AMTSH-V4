@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸೂಪರ್ ಸೆಲ್: ವ್ಯಾಖ್ಯೆ",
+  "script": "ಮೊದಲು ಸೂಪರ್ ಸೆಲ್‌ನ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಸೆಲ್‌ನಲ್ಲಿರುವ ಸಂಖ್ಯೆಯು, ಅದರ ಅಕ್ಕಪಕ್ಕದ ಎಲ್ಲಾ ಸೆಲ್‌ಗಳಲ್ಲಿನ ಸಂಖ್ಯೆಗಳಿಗಿಂತ ದೊಡ್ಡದಾಗಿದ್ದರೆ, ಆ ಸೆಲ್ ಅನ್ನು 'ಸೂಪರ್ ಸೆಲ್' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ 'ಅಕ್ಕಪಕ್ಕದ' ಎಂದರೆ, ಆ ಸೆಲ್‌ನ ತಕ್ಷಣದ ಮೇಲೆ, ಕೆಳಗೆ, ಎಡ ಮತ್ತು ಬಲಕ್ಕೆ ಇರುವ ಸೆಲ್‌ಗಳು. ಕರ್ಣೀಯವಾಗಿರುವ, ಅಂದರೆ ಕೋನಾ-ಕೋನಿ ಇರುವ ಸೆಲ್‌ಗಳನ್ನು ನಾವು ಪರಿಗಣಿಸುವುದಿಲ್ಲ. ಇಲ್ಲಿ ಮುಖ್ಯವಾದ ಪದ 'ಎಲ್ಲಾ'. ಅಂದರೆ, ನಾಲ್ಕೂ ದಿಕ್ಕುಗಳಲ್ಲಿರುವ ಸಂಖ್ಯೆಗಳಿಗಿಂತ ದೊಡ್ಡದಾಗಿರಬೇಕು.",
+  "script_display": "ಮೊದಲು ಸೂಪರ್ ಸೆಲ್‌ನ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಸೆಲ್‌ನಲ್ಲಿರುವ ಸಂಖ್ಯೆಯು, ಅದರ ಅಕ್ಕಪಕ್ಕದ ಎಲ್ಲಾ ಸೆಲ್‌ಗಳಲ್ಲಿನ ಸಂಖ್ಯೆಗಳಿಗಿಂತ ದೊಡ್ಡದಾಗಿದ್ದರೆ, ಆ ಸೆಲ್ ಅನ್ನು 'ಸೂಪರ್ ಸೆಲ್' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ 'ಅಕ್ಕಪಕ್ಕದ' ಎಂದರೆ, ಆ ಸೆಲ್‌ನ ತಕ್ಷಣದ ಮೇಲೆ, ಕೆಳಗೆ, ಎಡ ಮತ್ತು ಬಲಕ್ಕೆ ಇರುವ ಸೆಲ್‌ಗಳು. ಕರ್ಣೀಯವಾಗಿರುವ (diagonally) ಸೆಲ್‌ಗಳನ್ನು ನಾವು ಪರಿಗಣಿಸುವುದಿಲ್ಲ. ಇಲ್ಲಿ ಮುಖ್ಯವಾದ ಪದ 'ಎಲ್ಲಾ'. ಅಂದರೆ, ನಾಲ್ಕೂ ದಿಕ್ಕುಗಳಲ್ಲಿರುವ ಸಂಖ್ಯೆಗಳಿಗಿಂತ ದೊಡ್ಡದಾಗಿರಬೇಕು.",
+  "display_bullets": [
+    "ಒಂದು ಸೆಲ್ 'ಸೂಪರ್ ಸೆಲ್' ಆಗಲು, ಅದರ ಮೌಲ್ಯವು ತನ್ನ ನೆರೆಯ ಎಲ್ಲಾ ಸೆಲ್‌ಗಳಿಗಿಂತ ಹೆಚ್ಚಿರಬೇಕು.",
+    "ನೆರೆಯ ಸೆಲ್‌ಗಳು ಎಂದರೆ: ಮೇಲೆ, ಕೆಳಗೆ, ಎಡ, ಮತ್ತು ಬಲಕ್ಕೆ ಇರುವ ಸೆಲ್‌ಗಳು.",
+    "ಕರ್ಣೀಯ (diagonal) ಸೆಲ್‌ಗಳನ್ನು ಪರಿಗಣಿಸಲಾಗುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "video_style_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A central cell is labeled 'Cell'. Its four immediate neighbors (up, down, left, right) are labeled 'Neighbor'. The four diagonal cells are grayed out or have an 'X' through them to show they are not considered.",
+    "labels": "Central cell, Neighboring cells, Diagonal cells",
+    "mathematical_significance": "Visually defines the neighborhood of a cell for the Super Cell definition, clarifying that only orthogonal neighbors (up, down, left, right) are considered.",
+    "placeholder_note": "Create a simple 3x3 grid diagram. The central square is colored blue and labeled 'Cell'. The four adjacent squares (top, bottom, left, right) are colored light gray and labeled 'Neighbor'. The four diagonal squares should be white with a red 'X' through them."
+  },
+  "chunk_id": "NS-NUM-1_concept_1_chunk_003"
+}

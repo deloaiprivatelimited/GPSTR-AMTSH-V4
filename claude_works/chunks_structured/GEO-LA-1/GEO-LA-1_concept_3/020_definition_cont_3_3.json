@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಜ್ಞಾತ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಎರಡು ಕೋನಗಳು ಒಂದು ಸರಳಯುಗ್ಮವನ್ನು ರೂಪಿಸುತ್ತವೆ. ಒಂದು ಕೋನದ ಅಳತೆ ನೂರಾ ಹದಿನೈದು ಡಿಗ್ರಿ ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ನಾವು ಇನ್ನೊಂದು ಕೋನ, ಎಕ್ಸ್ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮಗೆ ಸರಳಯುಗ್ಮದ ನಿಯಮ ಗೊತ್ತಿದೆ: ಎರಡು ಕೋನಗಳ ಮೊತ್ತ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ. ಹಾಗಾಗಿ, ಎಕ್ಸ್ ಪ್ಲಸ್ ನೂರಾ ಹದಿನೈದು ಡಿಗ್ರಿ ಈಕ್ವಲ್ಸ್ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ. ಎಕ್ಸ್ ನ ಬೆಲೆ ಬೇಕಾದರೆ, ನಾವು ನೂರಾ ಎಂಬತ್ತರಿಂದ ನೂರಾ ಹದಿನೈದನ್ನು ಕಳೆಯಬೇಕು. ನೂರಾ ಎಂಬತ್ತು ಮೈನಸ್ ನೂರಾ ಹದಿನೈದು ಎಂದರೆ ಅರವತ್ತೈದು. ಆದ್ದರಿಂದ, ಎಕ್ಸ್ ನ ಬೆಲೆ ಅರವತ್ತೈದು ಡಿಗ್ರಿ.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಎರಡು ಕೋನಗಳು ಒಂದು ಸರಳಯುಗ್ಮವನ್ನು ರೂಪಿಸುತ್ತವೆ. ಒಂದು ಕೋನದ ಅಳತೆ $115^\\circ$ ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ನಾವು ಇನ್ನೊಂದು ಕೋನ, $x$ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮಗೆ ಸರಳಯುಗ್ಮದ ನಿಯಮ ಗೊತ್ತಿದೆ: ಎರಡು ಕೋನಗಳ ಮೊತ್ತ $180^\\circ$. ಹಾಗಾಗಿ, $x + 115^\\circ = 180^\\circ$. $x$ ನ ಬೆಲೆ ಬೇಕಾದರೆ, ನಾವು $180^\\circ$ ರಿಂದ $115^\\circ$ ಅನ್ನು ಕಳೆಯಬೇಕು. $180 - 115 = 65$. ಆದ್ದರಿಂದ, $x$ ನ ಬೆಲೆ $65^\\circ$.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಕೋನ = $115^\\circ$",
+    "ಸರಳಯುಗ್ಮದ ನಿಯಮದಂತೆ, $x + 115^\\circ = 180^\\circ$",
+    "ಆದ್ದರಿಂದ, $x = 180^\\circ - 115^\\circ = 65^\\circ$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a linear pair. A straight line is intersected by a ray. One angle is labeled 115 degrees, and the adjacent angle is labeled 'x'.",
+    "labels": "115 degrees, x",
+    "mathematical_significance": "A practical example to calculate an unknown angle in a linear pair, reinforcing the concept that their sum is 180 degrees.",
+    "placeholder_note": "Image to be generated for the linear pair example."
+  },
+  "chunk_id": "GEO-LA-1_concept_3_chunk_020"
+}

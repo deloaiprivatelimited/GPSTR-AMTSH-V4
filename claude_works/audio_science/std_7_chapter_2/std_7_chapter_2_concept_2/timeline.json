@@ -1,0 +1,79 @@
+{
+  "module_id": "std_7_chapter_2_concept_2",
+  "chapter_code": "std_7_chapter_2",
+  "voice": "Rasalgethi",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 258.706,
+  "total_duration_formatted": "4:18",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_2_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಆಹಾರ ಸೇವನೆಯ ವಿವಿಧ ವಿಧಾನಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 56.931,
+      "duration": 56.931,
+      "script_words": 81
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "start": 57.531,
+      "end": 78.582,
+      "duration": 21.051,
+      "script_words": 32
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_2_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಆಹಾರ ಸೇವನೆಯ ವಿವಿಧ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "start": 79.182,
+      "end": 123.513,
+      "duration": 44.331,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_2_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ವಿಧಾನಗಳು: ಹೀರುವುದು ಮತ್ತು ಜಗಿಯುವುದು",
+      "type": "concept_explanation",
+      "start": 124.113,
+      "end": 165.084,
+      "duration": 40.971,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_2_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ವಿಧಾನಗಳು: ನುಂಗುವುದು, ಸೋಸುವುದು, ಹೆರೆಯುವುದು",
+      "type": "concept_explanation",
+      "start": 165.684,
+      "end": 219.895,
+      "duration": 54.211,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "std_7_chapter_2_concept_2_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 220.495,
+      "end": 258.106,
+      "duration": 37.611,
+      "script_words": 53
+    }
+  ]
+}

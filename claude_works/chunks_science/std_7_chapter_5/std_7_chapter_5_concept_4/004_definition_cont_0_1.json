@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಹರಳುಗಳು",
+  "script": "ಸ್ಪಟಿಕೀಕರಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ನಾವು ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಅಥವಾ ತುತ್ತ ನೀಲಿ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಮೊದಲು, ಬಿಸಿನೀರಿನಲ್ಲಿ ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಪುಡಿಯನ್ನು ಕರಗಿಸಿ ಒಂದು ಪರ್ಯಾಪ್ತ ದ್ರಾವಣವನ್ನು ತಯಾರಿಸುತ್ತೇವೆ. ಅಂದರೆ, ಇನ್ನು ಹೆಚ್ಚು ಪುಡಿ ಕರಗದಷ್ಟು ದ್ರಾವಣವನ್ನು ಸಿದ್ಧಪಡಿಸುತ್ತೇವೆ. ನಂತರ, ಈ ಬಿಸಿ ದ್ರಾವಣವನ್ನು ನಿಧಾನವಾಗಿ ತಣ್ಣಗಾಗಲು ಬಿಡುತ್ತೇವೆ. ಹೀಗೆ ತಣ್ಣಗಾದಾಗ, ದ್ರಾವಣದಲ್ಲಿ ಕರಗಿದ್ದ ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಶುದ್ಧ, ನೀಲಿ ಬಣ್ಣದ ಹರಳುಗಳಾಗಿ ಬೇರ್ಪಡುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಈ ಹರಳುಗಳು ನಿರ್ದಿಷ್ಟ ಆಕಾರ ಮತ್ತು ಗಾತ್ರವನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
+  "script_display": "ಸ್ಪಟಿಕೀಕರಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಕಾಪರ್ ಸಲ್ಫೇಟ್ (CuSO₄) ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಬಿಸಿ ಪರ್ಯಾಪ್ತ ದ್ರಾವಣವನ್ನು ನಿಧಾನವಾಗಿ ತಣ್ಣಗಾಗಲು ಬಿಟ್ಟಾಗ, ದ್ರಾವಣದಲ್ಲಿ ಕರಗಿದ್ದ CuSO₄ ಶುದ್ಧ, ನೀಲಿ ಬಣ್ಣದ ಹರಳುಗಳಾಗಿ ಬೇರ್ಪಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬಿಸಿ ಪರ್ಯಾಪ್ತ ದ್ರಾವಣವನ್ನು ತಯಾರಿಸುವುದು.",
+    "ದ್ರಾವಣವನ್ನು ನಿಧಾನವಾಗಿ ತಣ್ಣಗಾಗಿಸುವುದು.",
+    "ಶುದ್ಧ, ನೀಲಿ ಬಣ್ಣದ ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಹರಳುಗಳು ರೂಪುಗೊಳ್ಳುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker showing a saturated solution of copper sulphate with large, blue, well-defined crystals formed at the bottom as it cools. Based on textbook figure 5.6.",
+    "labels": "ಕಾಪರ್ ಸಲ್ಫೇಟ್ ದ್ರಾವಣ, ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಹರಳುಗಳು",
+    "scientific_significance": "Shows the result of crystallization, where a dissolved solute precipitates out of a solution in a pure, crystalline form upon cooling.",
+    "placeholder_note": "Image to be generated based on textbook figure 5.6: Copper Sulphate Crystals"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_5_concept_4_chunk_004"
+}

@@ -1,0 +1,147 @@
+{
+  "module_id": "ALG-POL-3_concept_3",
+  "merge_code": "ALG-POL-3",
+  "voice": "Erinome",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:38:35",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "c186f7b391282052f4f6f93ca1c5d806",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 29.451,
+      "slide_title": "ಪೂರ್ವ-ಅವಶ್ಯಕತೆಗಳು",
+      "type": "intro",
+      "script_words": 36,
+      "generated_at": "2026-03-30 14:36:22"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "6676ea9bcda53f657ab5284b8a1f4ae5",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 63.331,
+      "slide_title": "ವರ್ಗ ಬಹುಪದೋಕ್ತಿ: ಪರವಲಯದ ಆಕಾರ",
+      "type": "concept_explanation",
+      "script_words": 86,
+      "generated_at": "2026-03-30 14:36:43"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "987e9d0993404fa597e77872b8d14242",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 68.531,
+      "slide_title": "ವರ್ಗ ಬಹುಪದೋಕ್ತಿ: ಶೂನ್ಯತೆಗಳ ಸಾಧ್ಯತೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 81,
+      "generated_at": "2026-03-30 14:36:47"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "3ad831c602ed595ed487b7e50f925f8f",
+      "wav_file": "003_property_0.wav",
+      "duration": 64.651,
+      "slide_title": "ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆ",
+      "type": "concept_explanation",
+      "script_words": 90,
+      "generated_at": "2026-03-30 14:36:47"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "962d9287efdb69c69993290782106b90",
+      "wav_file": "001_intro_0.wav",
+      "duration": 64.411,
+      "slide_title": "ಪರಿಚಯ: ಶೂನ್ಯತೆಗಳ ರೇಖಾಗಣಿತೀಯ ಅರ್ಥ",
+      "type": "intro",
+      "script_words": 82,
+      "generated_at": "2026-03-30 14:36:57"
+    },
+    "008_example_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "3f6b4fbc80baf9692cf49270caf47826",
+      "wav_file": "008_example_0.wav",
+      "duration": 19.411,
+      "slide_title": "ಉದಾಹರಣೆ: ನಕ್ಷೆಯಿಂದ ಶೂನ್ಯತೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "worked_example",
+      "script_words": 32,
+      "generated_at": "2026-03-30 14:37:15"
+    },
+    "010_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "25b21e113eea55b8b1d07228e19f2b4a",
+      "wav_file": "010_example_cont_0_2.wav",
+      "duration": 43.011,
+      "slide_title": "ಪರಿಹಾರ: ಕೊನೆಯ ಮೂರು ನಕ್ಷೆಗಳು",
+      "type": "worked_example",
+      "script_words": 50,
+      "generated_at": "2026-03-30 14:37:37"
+    },
+    "009_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "3a995b430f72f3000a999add5ff6042c",
+      "wav_file": "009_example_cont_0_1.wav",
+      "duration": 45.691,
+      "slide_title": "ಪರಿಹಾರ: ಮೊದಲ ಮೂರು ನಕ್ಷೆಗಳು",
+      "type": "worked_example",
+      "script_words": 48,
+      "generated_at": "2026-03-30 14:37:41"
+    },
+    "006_property_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "96372e2673c290c8375488100851352c",
+      "wav_file": "006_property_cont_0_3.wav",
+      "duration": 61.851,
+      "slide_title": "ಘನ ಬಹುಪದೋಕ್ತಿ ಮತ್ತು ಶೂನ್ಯತೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 84,
+      "generated_at": "2026-03-30 14:37:48"
+    },
+    "007_property_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "4bdd30f3062b120588a0d066e3366789",
+      "wav_file": "007_property_1.wav",
+      "duration": 93.051,
+      "slide_title": "ಡಿಗ್ರಿ ಮತ್ತು ಶೂನ್ಯತೆಗಳ ಸಂಖ್ಯೆ",
+      "type": "concept_explanation",
+      "script_words": 106,
+      "generated_at": "2026-03-30 14:38:05"
+    },
+    "011_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "4eea0c41fc988c6bb1017e375b6842e2",
+      "wav_file": "011_example_cont_0_3.wav",
+      "duration": 38.331,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "script_words": 42,
+      "generated_at": "2026-03-30 14:38:31"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "1620d8e4cf1b98809981a224d234f3f1",
+      "wav_file": "012_recap_0.wav",
+      "duration": 47.491,
+      "slide_title": "ಸಾರಾಂಶ: ಶೂನ್ಯತೆಗಳ ರೇಖಾಗಣಿತೀಯ ಅರ್ಥ",
+      "type": "recap",
+      "script_words": 60,
+      "generated_at": "2026-03-30 14:38:35"
+    }
+  }
+}

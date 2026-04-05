@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ: ಛೇದದ ಅಕರಣೀಕರಣ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆ, ಐದು ಬೈ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಮೂರು ಮೈನಸ್ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಐದು, ಇದರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿ. ಇಲ್ಲಿ, ಛೇದವು ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಮೂರು ಮೈನಸ್ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಐದು, ಇದು ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ನಮ್ಮ ಗುರಿ ಈ ಛೇದವನ್ನು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿ ಪರಿವರ್ತಿಸುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆ, $\\frac{5}{\\sqrt{3}-\\sqrt{5}}$ ಇದರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿ. ಇಲ್ಲಿ, ಛೇದವು $\\sqrt{3}-\\sqrt{5}$, ಇದು ಒಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ನಮ್ಮ ಗುರಿ ಈ ಛೇದವನ್ನು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿ ಪರಿವರ್ತಿಸುವುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸಮಸ್ಯೆ: } \\frac{5}{\\sqrt{3}-\\sqrt{5}} \\text{ ಇದರ ಛೇದವನ್ನು ಅಕರಣೀಕರಿಸಿ.}",
+    "placeholder_note": "Problem statement in a box"
+  },
+  "source_example_id": "NS-SYS-3_example_18",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-SYS-3_concept_5_chunk_018"
+}

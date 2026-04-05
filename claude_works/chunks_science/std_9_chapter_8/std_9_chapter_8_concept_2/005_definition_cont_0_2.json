@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಜಡತ್ವ ಮತ್ತು ದ್ರವ್ಯರಾಶಿ",
+  "script": "ಹಾಗಾದರೆ, ಎಲ್ಲಾ ವಸ್ತುಗಳಿಗೂ ಒಂದೇ ಪ್ರಮಾಣದ ಜಡತ್ವ ಇರುತ್ತದೆಯೇ? ಖಂಡಿತ ಇಲ್ಲ. ಜಡತ್ವವು ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ. ದ್ರವ್ಯರಾಶಿ ಹೆಚ್ಚಾದಷ್ಟು, ಜಡತ್ವವೂ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಖಾಲಿ ಶಾಪಿಂಗ್ ಕಾರ್ಟ್ ಅನ್ನು ತಳ್ಳುವುದು ಸುಲಭ. ಅಂದರೆ, ಅದರ ಜಡತ್ವ ಕಡಿಮೆ. ಆದರೆ, ಅದೇ ಕಾರ್ಟ್ ತುಂಬಾ ಸಾಮಾನುಗಳಿಂದ ತುಂಬಿದ್ದರೆ, ಅದನ್ನು ತಳ್ಳಲು ಅಥವಾ ನಿಲ್ಲಿಸಲು ಹೆಚ್ಚು ಬಲ ಬೇಕಾಗುತ್ತದೆ. ಏಕೆಂದರೆ, ಅದರ ದ್ರವ್ಯರಾಶಿ ಹೆಚ್ಚಾಗಿದೆ, ಹಾಗಾಗಿ ಅದರ ಜಡತ್ವವೂ ಹೆಚ್ಚಾಗಿದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಎಲ್ಲಾ ವಸ್ತುಗಳಿಗೂ ಒಂದೇ ಪ್ರಮಾಣದ ಜಡತ್ವ ಇರುತ್ತದೆಯೇ? ಖಂಡಿತ ಇಲ್ಲ. ಜಡತ್ವವು ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ. ದ್ರವ್ಯರಾಶಿ ಹೆಚ್ಚಾದಷ್ಟು, ಜಡತ್ವವೂ ಹೆಚ್ಚಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಖಾಲಿ ಶಾಪಿಂಗ್ ಕಾರ್ಟ್ ಅನ್ನು ತಳ್ಳುವುದು ಸುಲಭ. ಅಂದರೆ, ಅದರ ಜಡತ್ವ ಕಡಿಮೆ. ಆದರೆ, ಅದೇ ಕಾರ್ಟ್ ತುಂಬಾ ಸಾಮಾನುಗಳಿಂದ ತುಂಬಿದ್ದರೆ, ಅದನ್ನು ತಳ್ಳಲು ಅಥವಾ ನಿಲ್ಲಿಸಲು ಹೆಚ್ಚು ಬಲ ಬೇಕಾಗುತ್ತದೆ. ಏಕೆಂದರೆ, ಅದರ ದ್ರವ್ಯರಾಶಿ ಹೆಚ್ಚಾಗಿದೆ, ಹಾಗಾಗಿ ಅದರ ಜಡತ್ವವೂ ಹೆಚ್ಚಾಗಿದೆ.",
+  "display_bullets": [
+    "ಜಡತ್ವವು ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಅವಲಂಬಿಸಿದೆ.",
+    "ಕಡಿಮೆ ದ್ರವ್ಯರಾಶಿ = ಕಡಿಮೆ ಜಡತ್ವ (ತಳ್ಳುವುದು ಸುಲಭ).",
+    "ಹೆಚ್ಚಿನ ದ್ರವ್ಯರಾಶಿ = ಹೆಚ್ಚಿನ ಜಡತ್ವ (ತಳ್ಳುವುದು ಕಷ್ಟ)."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "left_vs_right",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen comparison. Left side: An empty shopping cart with a small arrow indicating a small push is needed. Text below: 'ಕಡಿಮೆ ದ್ರವ್ಯರಾಶಿ, ಕಡಿಮೆ ಜಡತ್ವ'. Right side: A shopping cart filled with groceries, with a large arrow indicating a large push is needed. Text below: 'ಹೆಚ್ಚಿನ ದ್ರವ್ಯರಾಶಿ, ಹೆಚ್ಚಿನ ಜಡತ್ವ'.",
+    "labels": "ಖಾಲಿ ಕಾರ್ಟ್, ತುಂಬಿದ ಕಾರ್ಟ್",
+    "scientific_significance": "Visually connects the abstract concept of inertia to the tangible property of mass.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_8_concept_2_chunk_005"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸ್ಪಟಿಕೀಕರಣದ ನೀರು ಎಂದರೇನು?",
+  "script": "ವಾಷಿಂಗ್ ಸೋಡಾದ ರಾಸಾಯನಿಕ ಹೆಸರು ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ ಡೆಕಾಹೈಡ್ರೇಟ್. ಇಲ್ಲಿ 'ಡೆಕಾ' ಎಂದರೆ ಹತ್ತು ಮತ್ತು 'ಹೈಡ್ರೇಟ್' ಎಂದರೆ ನೀರು. ಇದರರ್ಥ, ಪ್ರತಿ ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ ಘಟಕದೊಂದಿಗೆ ಹತ್ತು ನೀರಿನ ಅಣುಗಳು ಸೇರಿಕೊಂಡಿವೆ. ಇದನ್ನು ನಾವು ಸ್ಪಟಿಕೀಕರಣದ ನೀರು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ನೀರಿನ ಅಣುಗಳ ಕಾರಣದಿಂದಾಗಿಯೇ ಲವಣವು ಸ್ಪಟಿಕದ ರೂಪದಲ್ಲಿರುತ್ತದೆ.",
+  "script_display": "ವಾಷಿಂಗ್ ಸೋಡಾದ ರಾಸಾಯನಿಕ ಹೆಸರು ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ ಡೆಕಾಹೈಡ್ರೇಟ್. ಇಲ್ಲಿ 'ಡೆಕಾ' ಎಂದರೆ 10 ಮತ್ತು 'ಹೈಡ್ರೇಟ್' ಎಂದರೆ ನೀರು. ಇದರರ್ಥ, ಪ್ರತಿ Na₂CO₃ ಘಟಕದೊಂದಿಗೆ 10 ನೀರಿನ ಅಣುಗಳು ಸೇರಿಕೊಂಡಿವೆ. ಇದನ್ನು ನಾವು ಸ್ಪಟಿಕೀಕರಣದ ನೀರು (Water of Crystallization) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ನೀರಿನ ಅಣುಗಳ ಕಾರಣದಿಂದಾಗಿಯೇ ಲವಣವು ಸ್ಪಟಿಕದ ರೂಪದಲ್ಲಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ರಾಸಾಯನಿಕ ಹೆಸರು: ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ ಡೆಕಾಹೈಡ್ರೇಟ್",
+    "ಡೆಕಾಹೈಡ್ರೇಟ್ = 10 ನೀರಿನ ಅಣುಗಳು (H₂O)",
+    "·10H₂O: ಸ್ಪಟಿಕೀಕರಣದ ನೀರು (Water of Crystallization)",
+    "ಇದು ಲವಣಕ್ಕೆ ಅದರ ನಿರ್ದಿಷ್ಟ ಸ್ಪಟಿಕದ ಆಕಾರವನ್ನು ನೀಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing one unit of Sodium Carbonate (Na₂CO₃) chemically bonded to 10 molecules of water (H₂O). The water molecules should be shown surrounding the Na₂CO₃ unit, illustrating the concept of 'water of crystallization'.",
+    "labels": "Na₂CO₃, H₂O, ಸ್ಪಟಿಕೀಕರಣದ ನೀರು",
+    "scientific_significance": "This visual helps students understand that the water molecules are an integral part of the crystal structure of washing soda, not just making it wet.",
+    "placeholder_note": "Image to be generated showing the structure of Sodium Carbonate Decahydrate."
+  },
+  "chunk_id": "std_10_chapter_2_concept_9_chunk_023"
+}

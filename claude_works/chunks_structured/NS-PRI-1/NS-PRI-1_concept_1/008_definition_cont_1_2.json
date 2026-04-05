@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಪವರ್ತನ vs ಅಪವರ್ತನವಲ್ಲದ ಸಂಖ್ಯೆ",
+  "script": "ಈಗ ಅಪವರ್ತನ ಮತ್ತು ಅಪವರ್ತನವಲ್ಲದ ಸಂಖ್ಯೆಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಾವು ನೋಡಿದಂತೆ, ಆರು ಎಂಬುದು ಇಪ್ಪತ್ತ ನಾಲ್ಕರ ಅಪವರ್ತನವಾಗಿದೆ. ಯಾಕೆಂದರೆ, ಇಪ್ಪತ್ತ ನಾಲ್ಕನ್ನು ಆರರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಭಾಗಲಬ್ಧ ನಾಲ್ಕು ಸಿಗುತ್ತದೆ ಮತ್ತು ಮುಖ್ಯವಾಗಿ ಶೇಷ ಸೊನ್ನೆ ಬರುತ್ತದೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಐದು ಎಂಬುದು ಇಪ್ಪತ್ತ ನಾಲ್ಕರ ಅಪವರ್ತನವೇ? ಅಲ್ಲ. ಯಾಕೆಂದರೆ, ಇಪ್ಪತ್ತ ನಾಲ್ಕನ್ನು ಐದರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಭಾಗಲಬ್ಧ ನಾಲ್ಕು ಸಿಕ್ಕರೂ, ಶೇಷ ನಾಲ್ಕು ಉಳಿಯುತ್ತದೆ. ಶೇಷ ಸೊನ್ನೆ ಬರದ ಕಾರಣ, ಐದು ಇಪ್ಪತ್ತ ನಾಲ್ಕರ ಅಪವರ್ತನವಲ್ಲ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ಅಪವರ್ತನ ಮತ್ತು ಅಪವರ್ತನವಲ್ಲದ ಸಂಖ್ಯೆಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಾವು ನೋಡಿದಂತೆ, 6 ಎಂಬುದು 24ರ ಅಪವರ್ತನವಾಗಿದೆ. ಯಾಕೆಂದರೆ, $24 \\div 6 = 4$ ಮತ್ತು ಶೇಷ 0 ಬರುತ್ತದೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. 5 ಎಂಬುದು 24ರ ಅಪವರ್ತನವೇ? ಅಲ್ಲ. ಯಾಕೆಂದರೆ, $24 \\div 5$ ಮಾಡಿದಾಗ, ಭಾಗಲಬ್ಧ 4 ಮತ್ತು ಶೇಷ 4 ಉಳಿಯುತ್ತದೆ. ಶೇಷ 0 ಬರದ ಕಾರಣ, 5 ಎಂಬುದು 24ರ ಅಪವರ್ತನವಲ್ಲ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_panel",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A two-column layout. Left column for 'Factor' and right for 'Not a Factor'. Each column has a title, an example calculation, and a conclusion checkmark or cross mark. Left side: Title 'ಅಪವರ್ತನ (Factor)', Calculation '$24 \\div 6 = 4$', Conclusion 'ಶೇಷ = 0 ✔'. Right side: Title 'ಅಪವರ್ತನವಲ್ಲ (Not a Factor)', Calculation '$24 \\div 5 = 4$ (ಶೇಷ 4)', Conclusion 'ಶೇಷ ≠ 0 ❌'."
+  },
+  "chunk_id": "NS-PRI-1_concept_1_chunk_008"
+}

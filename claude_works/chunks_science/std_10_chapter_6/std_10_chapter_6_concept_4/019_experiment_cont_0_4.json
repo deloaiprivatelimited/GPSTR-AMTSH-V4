@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಏನನ್ನು ಗಮನಿಸಿದೆವು?",
+  "script": "ಕೆಲವು ದಿನಗಳ ನಂತರ ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆರೆದು ನೋಡಿದಾಗ, ನಮಗೆ ಒಂದು ಅದ್ಭುತ ದೃಶ್ಯ ಕಾಣಿಸುತ್ತದೆ. ಮೊಳಕೆಯೊಡೆದ ಬೀಜದಿಂದ ಬೆಳೆದ ಕಾಂಡವು ನೇರವಾಗಿ ಬೆಳೆಯುವ ಬದಲು, ಬೆಳಕು ಬರುತ್ತಿದ್ದ ಕಿಂಡಿಯ ಕಡೆಗೆ ಬಾಗಿರುವುದನ್ನು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ಗಮನಿಸಬಹುದು. ಅದೇ ಸಮಯದಲ್ಲಿ, ಬೇರುಗಳು ಬೆಳಕಿನಿಂದ ದೂರ, ಅಂದರೆ ಕೆಳಮುಖವಾಗಿ ಮತ್ತು ಪೆಟ್ಟಿಗೆಯ ಕತ್ತಲೆಯ ಭಾಗದ ಕಡೆಗೆ ಬಾಗಿರುತ್ತವೆ. ಈ ವೀಕ್ಷಣೆಯು ಸಸ್ಯದ ಭಾಗಗಳು ಬೆಳಕಿಗೆ ವಿಭಿನ್ನವಾಗಿ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತವೆ ಎಂಬುದಕ್ಕೆ ಸ್ಪಷ್ಟ ಸಾಕ್ಷಿಯಾಗಿದೆ.",
+  "script_display": "ಕೆಲವು ದಿನಗಳ ನಂತರ ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆರೆದು ನೋಡಿದಾಗ, ನಮಗೆ ಒಂದು ಅದ್ಭುತ ದೃಶ್ಯ ಕಾಣಿಸುತ್ತದೆ. ಮೊಳಕೆಯೊಡೆದ ಬೀಜದಿಂದ ಬೆಳೆದ ಕಾಂಡವು ನೇರವಾಗಿ ಬೆಳೆಯುವ ಬದಲು, ಬೆಳಕು ಬರುತ್ತಿದ್ದ ಕಿಂಡಿಯ ಕಡೆಗೆ ಬಾಗಿರುವುದನ್ನು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ಗಮನಿಸಬಹುದು. ಅದೇ ಸಮಯದಲ್ಲಿ, ಬೇರುಗಳು ಬೆಳಕಿನಿಂದ ದೂರ, ಅಂದರೆ ಕೆಳಮುಖವಾಗಿ ಮತ್ತು ಪೆಟ್ಟಿಗೆಯ ಕತ್ತಲೆಯ ಭಾಗದ ಕಡೆಗೆ ಬಾಗಿರುತ್ತವೆ. ಈ ವೀಕ್ಷಣೆಯು ಸಸ್ಯದ ಭಾಗಗಳು ಬೆಳಕಿಗೆ ವಿಭಿನ್ನವಾಗಿ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತವೆ ಎಂಬುದಕ್ಕೆ ಸ್ಪಷ್ಟ ಸಾಕ್ಷಿಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕಾಂಡವು ಬೆಳಕಿನ ಕಿಂಡಿಯ ಕಡೆಗೆ ಬಾಗಿರುತ್ತದೆ.",
+    "ಬೇರುಗಳು ಬೆಳಕಿನಿಂದ ದೂರ ಬಾಗಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_video_centric",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the result of the experiment. The cardboard box is open, revealing the conical flask inside. The plant's shoot has bent towards the hole, and its roots have bent away from the light.",
+    "labels": "ಬೆಳಕಿನ ಕಡೆಗೆ ಬಾಗಿದ ಕಾಂಡ, ಬೆಳಕಿನಿಂದ ದೂರ ಬಾಗಿದ ಬೇರುಗಳು",
+    "scientific_significance": "Visually represents the concepts of positive and negative phototropism.",
+    "placeholder_note": "Image to be generated showing the final observation."
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_10_chapter_6_concept_4_chunk_019"
+}

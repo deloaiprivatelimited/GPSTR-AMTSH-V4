@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಪಚ್‌ಮಡಿ ಮೀಸಲು ಜೀವಿಗೋಳದ ಸಸ್ಯಸಂಪತ್ತು",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಇನ್ನಷ್ಟು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಪಚ್‌ಮಡಿ ಮೀಸಲು ಜೀವಿಗೋಳದ ಸಸ್ಯಸಂಪತ್ತು ಬಹಳ ಶ್ರೀಮಂತವಾಗಿದೆ. ಇಲ್ಲಿ ನೀವು ಸಾಲ್, ತೇಗ, ಮಾವು, ನೇರಳೆ, ಮತ್ತು ಬಿದಿರಿನಂತಹ ಅನೇಕ ಬಗೆಯ ಮರಗಳನ್ನು ನೋಡಬಹುದು. ಇವುಗಳ ಜೊತೆಗೆ, ಹಲವಾರು ಔಷಧೀಯ ಸಸ್ಯಗಳು ಮತ್ತು ಹುಲ್ಲುಗಾವಲುಗಳು ಸಹ ಇವೆ. ಈ ಎಲ್ಲಾ ಸಸ್ಯಗಳು ಒಟ್ಟಾಗಿ ಪಚ್‌ಮಡಿ ಪ್ರದೇಶದ ಸಸ್ಯಸಂಪತ್ತು ಅಥವಾ ಫ್ಲೋರಾ ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತವೆ. ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಈ ವೈವಿಧ್ಯಮಯ ಸಸ್ಯಗಳನ್ನು ಗಮನಿಸಬಹುದು.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಇನ್ನಷ್ಟು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಪಚ್‌ಮಡಿ ಮೀಸಲು ಜೀವಿಗೋಳದ ಸಸ್ಯಸಂಪತ್ತು (Flora) ಬಹಳ ಶ್ರೀಮಂತವಾಗಿದೆ. ಇಲ್ಲಿ ನೀವು ಸಾಲ್, ತೇಗ, ಮಾವು, ನೇರಳೆ, ಮತ್ತು ಬಿದಿರಿನಂತಹ ಅನೇಕ ಬಗೆಯ ಮರಗಳನ್ನು ನೋಡಬಹುದು. ಇವುಗಳ ಜೊತೆಗೆ, ಹಲವಾರು ಔಷಧೀಯ ಸಸ್ಯಗಳು ಮತ್ತು ಹುಲ್ಲುಗಾವಲುಗಳು ಸಹ ಇವೆ. ಈ ಎಲ್ಲಾ ಸಸ್ಯಗಳು ಒಟ್ಟಾಗಿ ಪಚ್‌ಮಡಿ ಪ್ರದೇಶದ 'ಸಸ್ಯಸಂಪತ್ತು' (Flora) ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತವೆ. ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಈ ವೈವಿಧ್ಯಮಯ ಸಸ್ಯಗಳನ್ನು ಗಮನಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಪಚ್‌ಮಡಿ ಮೀಸಲು ಜೀವಿಗೋಳವು ಶ್ರೀಮಂತ ಸಸ್ಯಸಂಪತ್ತನ್ನು ಹೊಂದಿದೆ.",
+    "ಪ್ರಮುಖ ಸಸ್ಯಗಳು: ಸಾಲ್, ತೇಗ, ಮಾವು, ನೇರಳೆ, ಬಿದಿರು.",
+    "ಈ ಎಲ್ಲಾ ಸಸ್ಯಗಳ ಸಮೂಹವೇ ಆ ಪ್ರದೇಶದ 'ಸಸ್ಯಸಂಪತ್ತು'."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A vibrant illustration of the Pachmarhi Biosphere Reserve forest. It shows tall Sal and Teak trees, with smaller Mango and Jamun trees interspersed. Bamboo groves are visible in the background, and various ferns and shrubs cover the forest floor.",
+    "labels": "ಸಾಲ್ ಮರ (Sal Tree), ತೇಗ ಮರ (Teak Tree), ಮಾವಿನ ಮರ (Mango Tree), ಪೊದೆಗಳು (Shrubs)",
+    "scientific_significance": "This visual provides a concrete example of 'Flora' by showcasing the plant diversity in a specific, relevant ecosystem (Pachmarhi Biosphere Reserve), helping students connect the abstract term to a real-world context.",
+    "placeholder_note": "Image to be generated showing a lush forest with Sal, Teak, Mango trees and bamboo."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_5_concept_2_chunk_007"
+}

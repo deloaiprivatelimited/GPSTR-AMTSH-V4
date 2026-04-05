@@ -1,0 +1,125 @@
+{
+  "module_id": "std_10_chapter_4_concept_2",
+  "chapter_code": "std_10_chapter_4",
+  "voice": "Erinome",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:04:46",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "5ced8db6775c6a105579645118ac727a",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 23.451,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "chunk",
+      "script_words": 34,
+      "generated_at": "2026-04-02 12:03:04"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "c8d95dd16b1ee4c23c92d817cf981ebc",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 48.331,
+      "slide_title": "ಉದಾಹರಣೆ: ಕಾರ್ಬನ್‌ನ ಬಹುರೂಪಗಳು",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 12:03:26"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "d282dbd1fa097e1ed533f12ec2364f7a",
+      "wav_file": "003_definition_0.wav",
+      "duration": 49.211,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಬಹುರೂಪಗಳು (Allotropes)",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 12:03:31"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "13ee3909ae0503677098aff836f37173",
+      "wav_file": "001_intro_0.wav",
+      "duration": 78.451,
+      "slide_title": "ಪರಿಚಯ: ಕಾರ್ಬನ್‌ನ ಬಹುರೂಪಗಳು",
+      "type": "chunk",
+      "script_words": 101,
+      "generated_at": "2026-04-02 12:03:41"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "e51a1594f2409ad51def1756ea50f129",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 59.091,
+      "slide_title": "ಹೋಲಿಕೆ: ಬಹುರೂಪಗಳು vs ಸಂಯುಕ್ತಗಳು",
+      "type": "definition",
+      "script_words": 85,
+      "generated_at": "2026-04-02 12:03:42"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "b317dda60cdf0fcb63e18827fb208ff8",
+      "wav_file": "010_recap_0.wav",
+      "duration": 40.291,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 50,
+      "generated_at": "2026-04-02 12:04:17"
+    },
+    "007_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "11137e9d19ecc98928a9b25bf34b7bb7",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "duration": 47.971,
+      "slide_title": "ಕಾರ್ಬನ್‌ನ ಬಹುರೂಪಗಳು: ವಜ್ರ (Diamond)",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 12:04:27"
+    },
+    "008_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "887c5fba12c4cc8f9280f6e947e31786",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "duration": 53.531,
+      "slide_title": "ಕಾರ್ಬನ್‌ನ ಬಹುರೂಪಗಳು: ಗ್ರಾಫೈಟ್ (Graphite)",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 12:04:31"
+    },
+    "009_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "978ece2dbc1cf2d7f629d3739b0ac2b0",
+      "wav_file": "009_classification_cont_0_3.wav",
+      "duration": 39.851,
+      "slide_title": "ಕಾರ್ಬನ್‌ನ ಬಹುರೂಪಗಳು: ಫುಲರಿನ್ (Fullerene)",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 12:04:33"
+    },
+    "006_classification_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "65d78cefa21eac4b4d0bd956da55bbb6",
+      "wav_file": "006_classification_0.wav",
+      "duration": 43.251,
+      "slide_title": "ಪರಿಚಯ: ಕಾರ್ಬನ್‌ನ ಬಹುರೂಪಗಳು",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 12:04:46"
+    }
+  }
+}

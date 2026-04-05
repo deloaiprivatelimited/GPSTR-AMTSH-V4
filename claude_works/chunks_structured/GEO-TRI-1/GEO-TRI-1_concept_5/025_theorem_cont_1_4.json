@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಅತಿ ಉದ್ದದ ಬಾಹು 13. ಅದರ ವರ್ಗ, 13 ಇಂಟು 13, 169 ಕ್ಕೆ ಸಮ. ಈಗ ಉಳಿದ ಎರಡು ಬಾಹುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ, 5 ಮತ್ತು 12. ಅವುಗಳ ವರ್ಗಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. 5 ರ ವರ್ಗ 25, ಮತ್ತು 12 ರ ವರ್ಗ 144. ಇವೆರಡನ್ನೂ ಕೂಡಿಸಿದಾಗ, 25 ಪ್ಲಸ್ 144, ನಮಗೆ 169 ಸಿಗುತ್ತದೆ. ಈಗ ಹೋಲಿಕೆ ಮಾಡಿ. ಅತಿ ಉದ್ದದ ಬಾಹುವಿನ ವರ್ಗವು 169. ಉಳಿದೆರಡು ಬಾಹುಗಳ ವರ್ಗಗಳ ಮೊತ್ತವೂ 169. ಇವೆರಡೂ ಸಮವಾಗಿವೆ. ಅಂದರೆ, 13 ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ 5 ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ 12 ಸ್ಕ್ವೇರ್ಡ್ ಎಂಬ ಸಂಬಂಧವು ಸತ್ಯವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಅತಿ ಉದ್ದದ ಬಾಹು 13. ಅದರ ವರ್ಗ, $13^2 = 169$. ಈಗ ಉಳಿದ ಎರಡು ಬಾಹುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ, 5 ಮತ್ತು 12. ಅವುಗಳ ವರ್ಗಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. $5^2 + 12^2 = 25 + 144 = 169$. ಈಗ ಹೋಲಿಕೆ ಮಾಡಿ. ಅತಿ ಉದ್ದದ ಬಾಹುವಿನ ವರ್ಗವು 169. ಉಳಿದೆರಡು ಬಾಹುಗಳ ವರ್ಗಗಳ ಮೊತ್ತವೂ 169. ಇವೆರಡೂ ಸಮವಾಗಿವೆ. ಅಂದರೆ, $13^2 = 5^2 + 12^2$ ಎಂಬ ಸಂಬಂಧವು ಸತ್ಯವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಅತಿ ಉದ್ದದ ಬಾಹುವಿನ ವರ್ಗ: $13^2 = 169$.",
+    "ಉಳಿದೆರಡು ಬಾಹುಗಳ ವರ್ಗಗಳ ಮೊತ್ತ: $5^2 + 12^2 = 25 + 144 = 169$.",
+    "ಹೋಲಿಕೆ: $169 = 169$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right-angled triangle with sides labeled 5, 12, and the hypotenuse labeled 13. The right angle symbol is shown opposite the side of length 13.",
+    "labels": "Sides 5, 12, 13. Right angle symbol.",
+    "mathematical_significance": "Visually represents the 5-12-13 Pythagorean triplet, confirming it forms a right-angled triangle.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-1_concept_5_chunk_025"
+}

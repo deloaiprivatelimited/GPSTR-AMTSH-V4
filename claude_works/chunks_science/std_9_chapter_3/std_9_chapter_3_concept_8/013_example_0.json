@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ನೀರಿನ ಅಣುರಾಶಿ",
+  "script": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ನಾವು ನೀರಿನ ಅಣುರಾಶಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಬೇಕು. ನಮಗೆ ಹೈಡ್ರೋಜನ್‌ನ ಪರಮಾಣು ರಾಶಿ ಒಂದು ಯು ಮತ್ತು ಆಮ್ಲಜನಕದ ಪರಮಾಣು ರಾಶಿ ಹದಿನಾರು ಯು ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ನಾವು H two O ನ ಒಟ್ಟು ಅಣುರಾಶಿಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ನಾವು ನೀರಿನ (H₂O) ಅಣುರಾಶಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಬೇಕು. ನಮಗೆ ಹೈಡ್ರೋಜನ್‌ನ ಪರಮಾಣು ರಾಶಿ 1u ಮತ್ತು ಆಮ್ಲಜನಕದ ಪರಮಾಣು ರಾಶಿ 16u ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ನಾವು H₂O ನ ಒಟ್ಟು ಅಣುರಾಶಿಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ನೀರಿನ (H₂O) ಅಣುರಾಶಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+    "ದತ್ತಾಂಶ (Given): H ನ ಪರಮಾಣು ರಾಶಿ = 1u, O ನ ಪರಮಾಣು ರಾಶಿ = 16u",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದುದು (Find): H₂O ನ ಅಣುರಾಶಿ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "chemistry_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "H_2O",
+    "placeholder_note": "Chemical formula for water"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_3_example_6",
+  "chunk_id": "std_9_chapter_3_concept_8_chunk_013"
+}

@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಸಮೀಕರಣ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+  "script": "ಕೊನೆಯದಾಗಿ, ಏಳನೇ ಹಂತದಲ್ಲಿ, ಸಮೀಕರಣವನ್ನು ಹೆಚ್ಚು ಮಾಹಿತಿಪೂರ್ಣವಾಗಿಸಲು ಪ್ರತಿವರ್ತಕ ಮತ್ತು ಉತ್ಪನ್ನಗಳ ಭೌತಸ್ಥಿತಿಗಳನ್ನು ಸೇರಿಸೋಣ. ಕಬ್ಬಿಣ ಘನ, ನೀರು ಹಬೆ, ಫೆರಿಕ್ ಆಕ್ಸೈಡ್ ಘನ, ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಅನಿಲ ಸ್ಥಿತಿಯಲ್ಲಿವೆ. ಹಾಗಾಗಿ, ಅಂತಿಮ ಸರಿದೂಗಿಸಿದ ಸಮೀಕರಣ ಥ್ರೀ ಎಫ್ ಇ ಎಸ್ ಪ್ಲಸ್ ಫೋರ್ ಎಚ್ ಟು ಓ ಜಿ ಗಿವ್ಸ್ ಎಫ್ ಇ ಥ್ರೀ ಓ ಫೋರ್ ಎಸ್ ಪ್ಲಸ್ ಫೋರ್ ಎಚ್ ಟು ಜಿ. ಇಲ್ಲಿ ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪನ್ನು ಗಮನಿಸಿ: ಸರಿದೂಗಿಸುವಾಗ ಎಚ್ ಟು ಓ ಅನ್ನು ಎಚ್ ಟು ಓ ಫೋರ್ ಎಂದು ಬದಲಾಯಿಸಬಾರದು. ಯಾವಾಗಲೂ ಅಣುಸೂತ್ರದ ಮುಂದೆ ಸಹಾಂಕಗಳನ್ನು ಮಾತ್ರ ಬಳಸಬೇಕು.",
+  "script_display": "ಹಂತ 7: ಭೌತಸ್ಥಿತಿಗಳನ್ನು (physical states) ಸೂಚಿಸಿ. ಕಬ್ಬಿಣ (ಘನ-s), ನೀರು (ಹಬೆ-g), ಫೆರಿಕ್ ಆಕ್ಸೈಡ್ (ಘನ-s), ಹೈಡ್ರೋಜನ್ (ಅನಿಲ-g). ಅಂತಿಮ ಸರಿದೂಗಿಸಿದ ಸಮೀಕರಣ: 3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g). \nಸಾಮಾನ್ಯ ತಪ್ಪು: ಸರಿದೂಗಿಸುವಾಗ ಅಣುಸೂತ್ರದಲ್ಲಿರುವ ಸಂಖ್ಯೆಗಳನ್ನು (subscripts) ಬದಲಾಯಿಸುವುದು. ಉದಾಹರಣೆಗೆ, H₂O ಯನ್ನು H₂O₄ ಎಂದು ಬದಲಾಯಿಸಬಾರದು, ಬದಲಿಗೆ 4H₂O ಎಂದು ಸಹಾಂಕ ಬಳಸಬೇಕು.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಸರಿದೂಗಿಸಿದ ಸಮೀಕರಣ: 3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g)",
+    "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಸರಿದೂಗಿಸುವಾಗ ಅಣುಸೂತ್ರವನ್ನು (ಉದಾ: H₂O) ಎಂದಿಗೂ ಬದಲಾಯಿಸಬೇಡಿ.",
+    "ಸರಿಯಾದ ವಿಧಾನ: ಅಣುಸೂತ್ರದ ಮುಂದೆ ಸಹಾಂಕವನ್ನು (coefficient) ಬಳಸಿ (ಉದಾ: 4H₂O)."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "3Fe(s) + 4H_2O(g) \\rightarrow Fe_3O_4(s) + 4H_2(g)",
+    "placeholder_note": "Final balanced chemical equation with physical states indicated."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_1_example_1",
+  "final_answer": "3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g)",
+  "final_answer_display": "3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g)",
+  "exam_tip": {
+    "question_pattern": "ಒಂದು ಕಚ್ಚಾ ಸಮೀಕರಣವನ್ನು ಕೊಟ್ಟು ಅದನ್ನು ಸರಿದೂಗಿಸಲು ಕೇಳಬಹುದು.",
+    "skill_tested": "ಸಹಾಂಕಗಳನ್ನು ಬಳಸಿ ರಾಸಾಯನಿಕ ಸಮೀಕರಣಗಳನ್ನು ಸರಿದೂಗಿಸುವ ಸಾಮರ್ಥ್ಯ.",
+    "distractor": "ಸರಿದೂಗಿಸುವಾಗ ಅಣುಸೂತ್ರದಲ್ಲಿರುವ ಸಂಖ್ಯೆಗಳನ್ನು (subscripts) ಬದಲಾಯಿಸುವುದು.",
+    "why_distractor_works": "ಸಹಾಂಕ (coefficient) ಮತ್ತು ಅಣುಸೂತ್ರದ ಸಂಖ್ಯೆ (subscript) ನಡುವಿನ ವ್ಯತ್ಯಾಸದ ಬಗ್ಗೆ ಗೊಂದಲವಿದ್ದರೆ, ವಿದ್ಯಾರ್ಥಿಗಳು H₂O ಯನ್ನು 4 ಆಕ್ಸಿಜನ್‌ಗಳಿಗೆ ಸರಿದೂಗಿಸಲು H₂O₄ ಎಂದು ತಪ್ಪಾಗಿ ಬರೆಯಬಹುದು, ಇದು ಸಂಯುಕ್ತವನ್ನೇ ಬದಲಾಯಿಸುತ್ತದೆ."
+  },
+  "chunk_id": "std_10_chapter_1_concept_2_chunk_025"
+}

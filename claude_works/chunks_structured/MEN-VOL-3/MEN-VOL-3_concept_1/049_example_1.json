@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಶಂಕುವಿನ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಶಂಕುವಿನ ಎತ್ತರ 16 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಅದರ ಪಾದದ ತ್ರಿಜ್ಯವು 12 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಶಂಕುವಿನ ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ಪೈ ಬೆಲೆಯನ್ನು 3.14 ಎಂದು ಉಪಯೋಗಿಸಲು ಹೇಳಲಾಗಿದೆ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಶಂಕುವಿನ ಎತ್ತರ h, 16 ಸೆಂಟಿಮೀಟರ್, ಮತ್ತು ಪಾದದ ತ್ರಿಜ್ಯ r, 12 ಸೆಂಟಿಮೀಟರ್ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಶಂಕುವಿನ ಎತ್ತರ 16 cm ಮತ್ತು ಅದರ ಪಾದದ ತ್ರಿಜ್ಯವು 12 cm ಆಗಿದೆ. ಶಂಕುವಿನ ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ($\\pi=3.14$ ಎಂದು ಉಪಯೋಗಿಸಿ). ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಶಂಕುವಿನ ಎತ್ತರ (h) $16 \\text{ cm}$ ಮತ್ತು ಪಾದದ ತ್ರಿಜ್ಯ (r) $12 \\text{ cm}$ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (CSA) ಮತ್ತು ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವನ್ನು (TSA) ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ (Given): $h = 16 \\text{ cm}, r = 12 \\text{ cm}$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To find): ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (CSA) ಮತ್ತು ಪೂರ್ಣ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (TSA)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right circular cone with its height (h), radius (r), and slant height (l) clearly labeled. The values h=16cm and r=12cm are shown, forming a right-angled triangle inside the cone.",
+    "labels": "ಶೃಂಗ, ಪಾದ, ಎತ್ತರ (h=16 cm), ತ್ರಿಜ್ಯ (r=12 cm), ಓರೆ ಎತ್ತರ (l)",
+    "mathematical_significance": "Visual representation of the problem's given dimensions, highlighting the relationship between h, r, and l which forms a right-angled triangle.",
+    "placeholder_note": "Image to be generated"
+  },
+  "source_example_id": "MEN-VOL-3_example_2",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "MEN-VOL-3_concept_1_chunk_049"
+}

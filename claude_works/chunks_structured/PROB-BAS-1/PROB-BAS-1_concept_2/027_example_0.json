@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಸ್ಯೆ ಹೀಗಿದೆ: ಒಂದು ನಾಣ್ಯವನ್ನು ಒಂದು ಸಲ ಚಿಮ್ಮಿದಾಗ, ಒಂದು ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಒಂದು ಪುಚ್ಛವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆಯನ್ನೂ ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ, ಅಂದರೆ P ಆಫ್ ಶಿರ, ಮತ್ತು ಪುಚ್ಛವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ, ಅಂದರೆ P ಆಫ್ ಪುಚ್ಛ, ಇವೆರಡನ್ನೂ ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಸ್ಯೆ ಹೀಗಿದೆ: ಒಂದು ನಾಣ್ಯವನ್ನು ಒಂದು ಸಲ ಚಿಮ್ಮಿದಾಗ, ಒಂದು ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಒಂದು ಪುಚ್ಛವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆಯನ್ನೂ ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ ($P(\\text{ಶಿರ})$) ಮತ್ತು ಪುಚ್ಛವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ ($P(\\text{ಪುಚ್ಛ})$) ಇವೆರಡನ್ನೂ ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಒಂದು ನಾಣ್ಯವನ್ನು ಒಂದು ಸಲ ಚಿಮ್ಮಿದಾಗ, ಒಂದು ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಒಂದು ಪುಚ್ಛವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆಯನ್ನೂ ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $P(\\text{ಶಿರ})$ ಮತ್ತು $P(\\text{ಪುಚ್ಛ})$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clear image of a coin showing both Head (ಶಿರ) and Tail (ಪುಚ್ಛ) sides. The coin could be depicted in mid-flip to represent the action of tossing.",
+    "labels": "ಶಿರ (Head), ಪುಚ್ಛ (Tail)",
+    "mathematical_significance": "Illustrates the two possible outcomes of the random experiment.",
+    "placeholder_note": "Image of a coin toss, showing both faces."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "PROB-BAS-1_example_1",
+  "chunk_id": "PROB-BAS-1_concept_2_chunk_027"
+}

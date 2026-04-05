@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ರಾಕೆಟ್ ಆಟಿಕೆಯ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ",
+  "script": "ಈಗ ಒಂದು ಸಂಕೀರ್ಣವಾದ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ರಾಕೆಟ್ ಆಟಿಕೆಯು ಸಿಲಿಂಡರ್ ಮೇಲೆ ಶಂಕು ಇರಿಸಿ ಮಾಡಲ್ಪಟ್ಟಿದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ರಾಕೆಟ್‌ನ ಒಟ್ಟು ಎತ್ತರ 26 ಸೆಂಟಿಮೀಟರ್. ಶಂಕುವಿನ ಭಾಗದ ಎತ್ತರ 6 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಅದರ ಪಾದದ ವ್ಯಾಸ 5 ಸೆಂಟಿಮೀಟರ್. ಸಿಲಿಂಡರ್ ಭಾಗದ ವ್ಯಾಸ 3 ಸೆಂಟಿಮೀಟರ್. ನಾವು ಶಂಕುವಿನ ಭಾಗಕ್ಕೆ ಕಿತ್ತಳೆ ಬಣ್ಣ ಮತ್ತು ಸಿಲಿಂಡರ್ ಭಾಗಕ್ಕೆ ಹಳದಿ ಬಣ್ಣ ಹಚ್ಚಬೇಕಾದ ವಿಸ್ತೀರ್ಣವನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಕಂಡುಹಿಡಿಯಬೇಕು. ಪೈ ನ ಬೆಲೆಯನ್ನು 3.14 ಎಂದು ತೆಗೆದುಕೊಳ್ಳೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಸಂಕೀರ್ಣವಾದ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ರಾಕೆಟ್ ಆಟಿಕೆಯು ಸಿಲಿಂಡರ್ ಮೇಲೆ ಶಂಕು ಇರಿಸಿ ಮಾಡಲ್ಪಟ್ಟಿದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ರಾಕೆಟ್‌ನ ಒಟ್ಟು ಎತ್ತರ $26 \\text{ cm}$. ಶಂಕುವಿನ ಭಾಗದ ಎತ್ತರ $6 \\text{ cm}$ ಮತ್ತು ಅದರ ಪಾದದ ವ್ಯಾಸ $5 \\text{ cm}$. ಸಿಲಿಂಡರ್ ಭಾಗದ ವ್ಯಾಸ $3 \\text{ cm}$. ನಾವು ಶಂಕುವಿನ ಭಾಗಕ್ಕೆ ಕಿತ್ತಳೆ ಬಣ್ಣ ಮತ್ತು ಸಿಲಿಂಡರ್ ಭಾಗಕ್ಕೆ ಹಳದಿ ಬಣ್ಣ ಹಚ್ಚಬೇಕಾದ ವಿಸ್ತೀರ್ಣವನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಕಂಡುಹಿಡಿಯಬೇಕು. ($\\\\",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಸಿಲಿಂಡರ್ ಮೇಲೆ ಶಂಕು ಇರಿಸಿದ ರಾಕೆಟ್ ಆಟಿಕೆ.",
+    "ದತ್ತಾಂಶ: ಒಟ್ಟು ಎತ್ತರ = $26 \\text{ cm}$, ಶಂಕುವಿನ ಎತ್ತರ = $6 \\text{ cm}$, ಶಂಕುವಿನ ವ್ಯಾಸ = $5 \\text{ cm}$, ಸಿಲಿಂಡರ್ ವ್ಯಾಸ = $3 \\text{ cm}$.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಕಿತ್ತಳೆ ಬಣ್ಣದ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಹಳದಿ ಬಣ್ಣದ ವಿಸ್ತೀರ್ಣ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a rocket toy. It is a cylinder with a cone placed on top. The cone's base is wider than the cylinder's top. Dimensions are labeled: total height (26 cm), cone height (6 cm), cone base diameter (5 cm), and cylinder diameter (3 cm).",
+    "labels": "ಶಂಕು, ಸಿಲಿಂಡರ್, ಒಟ್ಟು ಎತ್ತರ, ಶಂಕುವಿನ ಎತ್ತರ, ಶಂಕುವಿನ ವ್ಯಾಸ, ಸಿಲಿಂಡರ್ ವ್ಯಾಸ",
+    "mathematical_significance": "This visual helps understand the geometry of the composite solid and the different dimensions involved in the problem.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "MEN-VOL-3_example_7",
+  "chunk_id": "MEN-VOL-3_concept_3_chunk_009"
+}

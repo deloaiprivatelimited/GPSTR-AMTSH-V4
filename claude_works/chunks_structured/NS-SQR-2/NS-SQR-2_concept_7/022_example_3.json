@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ: ಕನಿಷ್ಠ ವರ್ಗ ಸಂಖ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 6, 9 ಮತ್ತು 15 ರಿಂದ ಭಾಗವಾಗುವ ಕನಿಷ್ಠ ವರ್ಗ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ನಾವು ಕೇವಲ ಕನಿಷ್ಠ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತಿಲ್ಲ, ಬದಲಾಗಿ ಕನಿಷ್ಠ 'ವರ್ಗ' ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತಿದ್ದೇವೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 6, 9 ಮತ್ತು 15 ರಿಂದ ಭಾಗವಾಗುವ ಕನಿಷ್ಠ ವರ್ಗ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ನಾವು ಕೇವಲ ಕನಿಷ್ಠ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತಿಲ್ಲ, ಬದಲಾಗಿ ಕನಿಷ್ಠ 'ವರ್ಗ' ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತಿದ್ದೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "6, 9 \\text{ ಮತ್ತು } 15 \\text{ ರಿಂದ ಭಾಗವಾಗುವ} \\newline \\text{ಕನಿಷ್ಠ ವರ್ಗ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.}",
+    "placeholder_note": "Problem statement displayed in a box"
+  },
+  "source_example_id": "NS-SQR-2_example_10",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "NS-SQR-2_concept_7_chunk_022"
+}

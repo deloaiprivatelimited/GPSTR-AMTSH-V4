@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಕೊಂಡ ಬೆಲೆ",
+  "script": "ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಒಂದು ಪ್ರಮುಖ ವಿಷಯವನ್ನು ನೆನಪಿಡಿ. ಲಾಭ ಅಥವಾ ನಷ್ಟದ ಶೇಕಡಾವಾರನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವಾಗ, ಯಾವಾಗಲೂ ಅಂತಿಮ ಕೊಂಡ ಬೆಲೆಯನ್ನು, ಅಂದರೆ ಎಲ್ಲಾ ಹೆಚ್ಚುವರಿ ಖರ್ಚುಗಳನ್ನು ಸೇರಿಸಿದ ನಂತರದ ಬೆಲೆಯನ್ನು, ಆಧಾರವಾಗಿ ಬಳಸಬೇಕು. ಪ್ರಶ್ನೆಯಲ್ಲಿ ಸಾಗಾಣಿಕೆ ಅಥವಾ ದುರಸ್ತಿ ಖರ್ಚುಗಳನ್ನು ಕೊಟ್ಟಿದ್ದರೆ, ಅವುಗಳನ್ನು ಮೂಲ ಬೆಲೆಗೆ ಸೇರಿಸಲು ಮರೆಯಬೇಡಿ. ಕೇವಲ ಮೂಲ ಖರೀದಿ ಬೆಲೆಯನ್ನು ಬಳಸಿ ಲೆಕ್ಕ ಮಾಡಿದರೆ ಉತ್ತರ ತಪ್ಪಾಗುತ್ತದೆ. ಇದು ಬಹು ಆಯ್ಕೆ ಪ್ರಶ್ನೆಗಳಲ್ಲಿ ಗೊಂದಲ ಮೂಡಿಸಲು ಬಳಸುವ ಸಾಮಾನ್ಯ ತಂತ್ರವಾಗಿದೆ.",
+  "script_display": "ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಒಂದು ಪ್ರಮುಖ ವಿಷಯವನ್ನು ನೆನಪಿಡಿ. ಲಾಭ ಅಥವಾ ನಷ್ಟದ ಶೇಕಡಾವಾರನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವಾಗ, ಯಾವಾಗಲೂ ಅಂತಿಮ ಕೊಂಡ ಬೆಲೆಯನ್ನು (Total CP), ಅಂದರೆ ಎಲ್ಲಾ ಹೆಚ್ಚುವರಿ ಖರ್ಚುಗಳನ್ನು ಸೇರಿಸಿದ ನಂತರದ ಬೆಲೆಯನ್ನು, ಆಧಾರವಾಗಿ ಬಳಸಬೇಕು. ಪ್ರಶ್ನೆಯಲ್ಲಿ ಸಾಗಾಣಿಕೆ ಅಥವಾ ದುರಸ್ತಿ ಖರ್ಚುಗಳನ್ನು ಕೊಟ್ಟಿದ್ದರೆ, ಅವುಗಳನ್ನು ಮೂಲ ಬೆಲೆಗೆ ಸೇರಿಸಲು ಮರೆಯಬೇಡಿ. ಕೇವಲ ಮೂಲ ಖರೀದಿ ಬೆಲೆಯನ್ನು ಬಳಸಿ ಲೆಕ್ಕ ಮಾಡಿದರೆ ಉತ್ತರ ತಪ್ಪಾಗುತ್ತದೆ. ಇದು MCQ ಗಳಲ್ಲಿ ಗೊಂದಲ ಮೂಡಿಸಲು ಬಳಸುವ ಸಾಮಾನ್ಯ ತಂತ್ರವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಲಾಭ/ನಷ್ಟದ ಶೇಕಡಾವಾರನ್ನು ಯಾವಾಗಲೂ ಅಂತಿಮ ಕೊಂಡ ಬೆಲೆಯ (Total CP) ಮೇಲೆ ಲೆಕ್ಕ ಹಾಕಬೇಕು.",
+    "ಹೆಚ್ಚುವರಿ ಖರ್ಚುಗಳನ್ನು (overheads) ಮೂಲ ಕೊಂಡ ಬೆಲೆಗೆ ಸೇರಿಸಲು ಮರೆಯಬಾರದು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "exam_tip": {
+    "question_pattern": "MCQ/2-mark",
+    "skill_tested": "Calculating the correct Cost Price by including overheads.",
+    "distractor": "Calculating profit/loss based only on the initial purchase price, ignoring overheads.",
+    "why_distractor_works": "Students often forget to add overhead expenses to the cost price, leading to an incorrect base for profit/loss calculation. The options in MCQs are designed to include this common error."
+  },
+  "chunk_id": "RPP-COMP-1_concept_3_chunk_008"
+}

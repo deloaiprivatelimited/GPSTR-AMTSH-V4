@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಈಗ, ಅಂತಿಮ ಹಂತದಲ್ಲಿ, ಹುಡುಗನ ಸಾಮರ್ಥ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಸಾಮರ್ಥ್ಯದ ಸೂತ್ರ P equals W ಭಾಗಿಸು t, ಅಂದರೆ ಮಾಡಿದ ಕೆಲಸವನ್ನು ತೆಗೆದುಕೊಂಡ ಸಮಯದಿಂದ ಭಾಗಿಸುವುದು. ನಾವು ಮಾಡಿದ ಕೆಲಸ W 3375 ಜೌಲ್ ಎಂದು ಮತ್ತು ತೆಗೆದುಕೊಂಡ ಸಮಯ t 9 ಸೆಕೆಂಡುಗಳು ಎಂದು ಈಗಾಗಲೇ ತಿಳಿದಿದೆ. ಆದ್ದರಿಂದ, P equals 3375 ಭಾಗಿಸು 9. ಇದನ್ನು ಭಾಗಿಸಿದಾಗ, ನಮಗೆ 375 ಸಿಗುತ್ತದೆ. ಸಾಮರ್ಥ್ಯದ SI ಏಕಮಾನ ವ್ಯಾಟ್ ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಹುಡುಗನ ಸಾಮರ್ಥ್ಯ 375 ವ್ಯಾಟ್.",
+  "script_display": "ಈಗ, ಅಂತಿಮ ಹಂತದಲ್ಲಿ, ಹುಡುಗನ ಸಾಮರ್ಥ್ಯವನ್ನು (P) ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಸಾಮರ್ಥ್ಯದ ಸೂತ್ರ P = W / t, ಅಂದರೆ ಮಾಡಿದ ಕೆಲಸವನ್ನು ತೆಗೆದುಕೊಂಡ ಸಮಯದಿಂದ ಭಾಗಿಸುವುದು. ನಾವು ಮಾಡಿದ ಕೆಲಸ (W) = 3375 J ಎಂದು ಮತ್ತು ತೆಗೆದುಕೊಂಡ ಸಮಯ (t) = 9 s ಎಂದು ಈಗಾಗಲೇ ತಿಳಿದಿದೆ. ಆದ್ದರಿಂದ, P = 3375 / 9. ಇದನ್ನು ಭಾಗಿಸಿದಾಗ, ನಮಗೆ 375 ಸಿಗುತ್ತದೆ. ಸಾಮರ್ಥ್ಯದ SI ಏಕಮಾನ ವ್ಯಾಟ್ (W) ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಹುಡುಗನ ಸಾಮರ್ಥ್ಯ 375 W.",
+  "display_bullets": [
+    "ಸಾಮರ್ಥ್ಯದ ಸೂತ್ರ: P = W / t",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: P = 3375 J / 9 s",
+    "P = 375 W"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "P = \\frac{W}{t} \\\\ P = \\frac{3375 \\text{ J}}{9 \\text{ s}} \\\\ P = 375 \\text{ W}",
+    "placeholder_note": "Show the calculation for power."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "std_9_chapter_10_example_8",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಸಾಮರ್ಥ್ಯವನ್ನು (P) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+      "justification": "P = W/t"
+    }
+  ],
+  "chunk_id": "std_9_chapter_10_concept_7_chunk_025"
+}

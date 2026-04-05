@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಮ್ಮ ಮಸೂರ (Concave Lens)",
+  "script": "ಈಗ ಎರಡನೇ ವಿಧವಾದ ನಿಮ್ಮ ಮಸೂರವನ್ನು ನೋಡೋಣ. ಇದು ಪೀನ ಮಸೂರಕ್ಕೆ ವಿರುದ್ಧವಾದ ರಚನೆಯನ್ನು ಹೊಂದಿದೆ. ಅಂದರೆ, ಇದರ ಆಕಾರವು ಮಧ್ಯದಲ್ಲಿ ತೆಳುವಾಗಿದ್ದು, ಅಂಚುಗಳಲ್ಲಿ ದಪ್ಪನಾಗಿರುತ್ತದೆ. ಇದರ ಕಾರ್ಯವೂ ಕೂಡಾ ವಿರುದ್ಧವಾಗಿದೆ. ಇದು ತನ್ನ ಮೇಲೆ ಬೀಳುವ ಸಮಾಂತರ ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನು ಹೊರಕ್ಕೆ ಹರಡುತ್ತದೆ, ಅಂದರೆ ವಿಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ. ಈ ವಿಕೇಂದ್ರೀಕರಿಸುವ ಗುಣದಿಂದಾಗಿ, ನಿಮ್ಮ ಮಸೂರವನ್ನು 'ವಿಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಸಮೀಪ ದೃಷ್ಟಿ ದೋಷವನ್ನು ಸರಿಪಡಿಸುವ ಕನ್ನಡಕಗಳಲ್ಲಿ ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸುತ್ತಾರೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ವಿಧವಾದ ನಿಮ್ಮ ಮಸೂರವನ್ನು ನೋಡೋಣ. ಇದು ಪೀನ ಮಸೂರಕ್ಕೆ ವಿರುದ್ಧವಾದ ರಚನೆಯನ್ನು ಹೊಂದಿದೆ. ಅಂದರೆ, ಇದರ ಆಕಾರವು ಮಧ್ಯದಲ್ಲಿ ತೆಳುವಾಗಿದ್ದು, ಅಂಚುಗಳಲ್ಲಿ ದಪ್ಪನಾಗಿರುತ್ತದೆ. ಇದರ ಕಾರ್ಯವೂ ಕೂಡಾ ವಿರುದ್ಧವಾಗಿದೆ. ಇದು ತನ್ನ ಮೇಲೆ ಬೀಳುವ ಸಮಾಂತರ ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನು ಹೊರಕ್ಕೆ ಹರಡುತ್ತದೆ, ಅಂದರೆ ವಿಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ. ಈ ವಿಕೇಂದ್ರೀಕರಿಸುವ ಗುಣದಿಂದಾಗಿ, ನಿಮ್ಮ ಮಸೂರವನ್ನು 'ವಿಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಸಮೀಪ ದೃಷ್ಟಿ ದೋಷವನ್ನು ಸರಿಪಡಿಸುವ ಕನ್ನಡಕಗಳಲ್ಲಿ ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಆಕಾರ: ಮಧ್ಯದಲ್ಲಿ ತೆಳು, ಅಂಚುಗಳಲ್ಲಿ ದಪ್ಪ.",
+    "ಕಾರ್ಯ: ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನು ವಿಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ.",
+    "ಇನ್ನೊಂದು ಹೆಸರು: ವಿಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ (Diverging lens)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a biconcave lens. Parallel rays of light enter from the left, pass through the lens, and diverge. The diverged rays appear to come from a virtual principal focus (F₁) on the left side of the lens.",
+    "labels": "Parallel rays, Concave Lens, Virtual Principal Focus (F₁)",
+    "scientific_significance": "Demonstrates the diverging action of a concave lens, which is its defining characteristic.",
+    "placeholder_note": "Image to be generated showing parallel light rays diverging after passing through a concave lens."
+  },
+  "chunk_id": "std_10_chapter_9_concept_7_chunk_021"
+}

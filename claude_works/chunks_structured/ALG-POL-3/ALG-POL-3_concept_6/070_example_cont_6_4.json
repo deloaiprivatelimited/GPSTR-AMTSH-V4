@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಭಾಗ (ii): (5p - 3q)³ ವಿಸ್ತರಣೆ (ಮುಂದುವರಿದಿದೆ)",
+  "script": "ಇದನ್ನು ಸರಳೀಕರಿಸೋಣ. ಐದು p ಹೋಲ್ ಕ್ಯೂಬ್ಡ್ ಎಂದರೆ ನೂರಾ ಇಪ್ಪತ್ತೈದು p ಕ್ಯೂಬ್ಡ್. ಮೂರು q ಹೋಲ್ ಕ್ಯೂಬ್ಡ್ ಎಂದರೆ ಇಪ್ಪತ್ತೇಳು q ಕ್ಯೂಬ್ಡ್. ಮತ್ತು ಮೂರು ಇಂಟು ಐದು p ಇಂಟು ಮೂರು q ಎಂದರೆ ನಲವತ್ತೈದು p q. ಇದನ್ನು ನಾವು ಐದು p ಮೈನಸ್ ಮೂರು q ಯೊಂದಿಗೆ ಗುಣಿಸಬೇಕು. ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಮೈನಸ್ ನಲವತ್ತೈದು p q ಯನ್ನು ಐದು p ಯೊಂದಿಗೆ ಗುಣಿಸಿದಾಗ ಮೈನಸ್ ಇನ್ನೂರಾ ಇಪ್ಪತ್ತೈದು p ಸ್ಕ್ವೇರ್ q ಸಿಗುತ್ತದೆ. ಮತ್ತು ಮೈನಸ್ ನಲವತ್ತೈದು p q ಯನ್ನು ಮೈನಸ್ ಮೂರು q ಯೊಂದಿಗೆ ಗುಣಿಸಿದಾಗ ಪ್ಲಸ್ ನೂರಾ ಮೂವತ್ತೈದು p q ಸ್ಕ್ವೇರ್ ಸಿಗುತ್ತದೆ. ಚಿಹ್ನೆಗಳ ಬಗ್ಗೆ ಜಾಗರೂಕರಾಗಿರಿ.",
+  "script_display": "ಇದನ್ನು ಸರಳೀಕರಿಸೋಣ. $(5p)^3 = 125p^3$, $(3q)^3 = 27q^3$ ಮತ್ತು $3(5p)(3q) = 45pq$. ಆದ್ದರಿಂದ, ಸಮೀಕರಣವು $125p^3 - 27q^3 - 45pq(5p-3q)$ ಆಗುತ್ತದೆ. ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿದಾಗ, $-45pq(5p-3q) = (-45pq \\times 5p) + (-45pq \\times -3q) = -225p^2q + 135pq^2$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_vertical",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_20",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಪದಗಳನ್ನು ಸರಳೀಕರಿಸಿ: $= 125p^3 - 27q^3 - 45pq(5p-3q)$",
+      "justification": "ಘನಗಳನ್ನು ಮತ್ತು ಗುಣಲಬ್ಧವನ್ನು ಲೆಕ್ಕ ಹಾಕುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "ಬ್ರಾಕೆಟ್ ವಿಸ್ತರಿಸಿ: $= 125p^3 - 27q^3 - 225p^2q + 135pq^2$",
+      "justification": "ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ $-45pq$ ಯನ್ನು $(5p-3q)$ ಯೊಂದಿಗೆ ಗುಣಿಸುವುದು. ಚಿಹ್ನೆಗಳಿಗೆ ಗಮನ ಕೊಡಿ."
+    }
+  ],
+  "chunk_id": "ALG-POL-3_concept_6_chunk_070"
+}

@@ -1,0 +1,90 @@
+{
+  "module_id": "std_6_chapter_9_concept_9",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 330.677,
+  "total_duration_formatted": "5:30",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_9_concept_9_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಾಂದ್ರೀಕರಣ (Condensation)",
+      "type": "intro",
+      "start": 0.0,
+      "end": 54.451,
+      "duration": 54.451,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_9_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ (Prerequisites)",
+      "type": "prerequisites",
+      "start": 55.051,
+      "end": 97.342,
+      "duration": 42.291,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_9_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ಸಾಂದ್ರೀಕರಣ (Condensation) - ವ್ಯಾಖ್ಯಾನ",
+      "type": "definition",
+      "start": 97.942,
+      "end": 136.793,
+      "duration": 38.851,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_9_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಸಾಂದ್ರೀಕರಣ - ಒಂದು ದೃಶ್ಯ ಉದಾಹರಣೆ",
+      "type": "definition",
+      "start": 137.393,
+      "end": 180.724,
+      "duration": 43.331,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_9_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಆವೀಕರಣ vs. ಸಾಂದ್ರೀಕರಣ",
+      "type": "definition",
+      "start": 181.324,
+      "end": 230.415,
+      "duration": 49.091,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_9_chunk_006",
+      "chunk_file": "006_property_0.json",
+      "wav_file": "006_property_0.wav",
+      "slide_title": "ಸಾಂದ್ರೀಕರಣದ ತತ್ವ",
+      "type": "concept_explanation",
+      "start": 231.015,
+      "end": 291.506,
+      "duration": 60.491,
+      "script_words": 78
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_9_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 292.106,
+      "end": 330.077,
+      "duration": 37.971,
+      "script_words": 52
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "module_id": "DATA-STAT-2_concept_5",
+  "merge_code": "DATA-STAT-2",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:21:10",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "19413552beb126b19e68e96df7be8e44",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 32.891,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 51,
+      "generated_at": "2026-03-30 15:19:52"
+    },
+    "004_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "a64ddd4fd1b5b85c84dd2dee49027da4",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "duration": 47.891,
+      "slide_title": "ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧ ಸೂತ್ರ",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-03-30 15:20:00"
+    },
+    "003_formula_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "6370cd01867e6ce25e46c98936ef340d",
+      "wav_file": "003_formula_0.wav",
+      "duration": 42.291,
+      "slide_title": "ಕೇಂದ್ರೀಯ ಪ್ರವೃತ್ತಿಯ ಅಳತೆಗಳ ನಡುವಿನ ಸಂಬಂಧ",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-03-30 15:20:12"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "d46df3df0534e4100457924f94aa4091",
+      "wav_file": "001_intro_0.wav",
+      "duration": 72.851,
+      "slide_title": "ಕೇಂದ್ರೀಯ ಪ್ರವೃತ್ತಿಯ ಅಳತೆಗಳ ನಡುವಿನ ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧ",
+      "type": "intro",
+      "script_words": 94,
+      "generated_at": "2026-03-30 15:20:14"
+    },
+    "005_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "b0fe2e0b385e86ab55c3cd8f8b56a0f2",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "duration": 42.371,
+      "slide_title": "ಸೂತ್ರದ ವಿವಿಧ ರೂಪಗಳು",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-03-30 15:20:17"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "abe1347239832ae3f6ead377fb601d43",
+      "wav_file": "009_recap_0.wav",
+      "duration": 41.931,
+      "slide_title": "ಸಾರಾಂಶ: ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧ",
+      "type": "recap",
+      "script_words": 52,
+      "generated_at": "2026-03-30 15:20:59"
+    },
+    "007_formula_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "5005d4714e582e09be7b375bae550015",
+      "wav_file": "007_formula_cont_0_4.wav",
+      "duration": 45.091,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಮಿತಿಗಳು",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-03-30 15:21:00"
+    },
+    "008_formula_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "313b6aad4ed053478a3ab6b2c99d2554",
+      "wav_file": "008_formula_cont_0_5.wav",
+      "duration": 43.771,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-03-30 15:21:02"
+    },
+    "006_formula_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "c3a49cbdc84cd98b5147800e73dedffc",
+      "wav_file": "006_formula_cont_0_3.wav",
+      "duration": 56.651,
+      "slide_title": "ತ್ವರಿತ ಉದಾಹರಣೆ",
+      "type": "concept_explanation",
+      "script_words": 86,
+      "generated_at": "2026-03-30 15:21:10"
+    }
+  }
+}

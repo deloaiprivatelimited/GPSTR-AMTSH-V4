@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವಜ್ರಾಕೃತಿಯ ಗುಣಲಕ್ಷಣಗಳು",
+  "script": "ವಜ್ರಾಕೃತಿಯ ಕೆಲವು ಮುಖ್ಯ ಗುಣಲಕ್ಷಣಗಳನ್ನು ನೋಡೋಣ, ವಿಶೇಷವಾಗಿ ಅದರ ಕರ್ಣಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ. ಮೊದಲನೆಯದಾಗಿ, ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ. ಅಂದರೆ, ಅವು ಒಂದನ್ನೊಂದು ಛೇದಿಸುವ ಜಾಗದಲ್ಲಿ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಈ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಅಂದರೆ, ಪ್ರತಿಯೊಂದು ಕರ್ಣವು ಇನ್ನೊಂದು ಕರ್ಣವನ್ನು ಎರಡು ಸಮ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸುತ್ತದೆ. ಈ ಎರಡು ಗುಣಲಕ್ಷಣಗಳು ವಜ್ರಾಕೃತಿಯ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಹಳ ಮುಖ್ಯವಾಗಿವೆ.",
+  "script_display": "ವಜ್ರಾಕೃತಿಯ ಕೆಲವು ಮುಖ್ಯ ಗುಣಲಕ್ಷಣಗಳನ್ನು ನೋಡೋಣ, ವಿಶೇಷವಾಗಿ ಅದರ ಕರ್ಣಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ. ಮೊದಲನೆಯದಾಗಿ, ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ. ಅಂದರೆ, ಅವು ಒಂದನ್ನೊಂದು ಛೇದಿಸುವ ಜಾಗದಲ್ಲಿ $90^\\circ$ ಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಈ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಅಂದರೆ, ಪ್ರತಿಯೊಂದು ಕರ್ಣವು ಇನ್ನೊಂದು ಕರ್ಣವನ್ನು ಎರಡು ಸಮ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸುತ್ತದೆ. ಈ ಎರಡು ಗುಣಲಕ್ಷಣಗಳು ವಜ್ರಾಕೃತಿಯ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಹಳ ಮುಖ್ಯವಾಗಿವೆ.",
+  "display_bullets": [
+    "ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ ($90^\\circ$ ಕೋನದಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ).",
+    "ಕರ್ಣಗಳು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ (ಸಮವಾಗಿ ವಿಭಾಗಿಸುತ್ತವೆ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A rhombus ABCD with its two diagonals, AC and BD, intersecting at point O. A right-angle symbol is shown at the intersection O. The segments of the diagonals are marked to show bisection: AO and OC have single ticks, while BO and OD have double ticks.",
+    "labels": "A, B, C, D, O, d₁, d₂",
+    "mathematical_significance": "Visually demonstrates the key properties of a rhombus's diagonals: they are perpendicular and they bisect each other.",
+    "placeholder_note": "Image to be generated for a rhombus with its diagonals, showing perpendicular intersection and bisection."
+  },
+  "sub_type": "definition_property",
+  "chunk_id": "MEN-MEN-2_concept_1_chunk_007"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ವಿಧಾನ: ಭಾಗಗಳನ್ನು ಬೇರ್ಪಡಿಸುವುದು",
+  "script": "ಈಗ, ನಿಮ್ಮ ಕೈಯಲ್ಲಿರುವ ದಾಸವಾಳ ಹೂವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಅದರ ಹೊರಗಿನ ಭಾಗಗಳಾದ ಪುಷ್ಪಪತ್ರಗಳು ಮತ್ತು ದಳಗಳನ್ನು ಗಮನಿಸಿ. ಇವುಗಳ ಒಳಗೆ ಹೂವಿನ ಪ್ರಜನನ ಭಾಗಗಳಿವೆ. ನಾವು ಮೊದಲು ಪುರುಷ ಪ್ರಜನನ ಭಾಗವಾದ ಕೇಸರ ಮತ್ತು ಸ್ತ್ರೀ ಪ್ರಜನನ ಭಾಗವಾದ ಶಲಾಕೆಯನ್ನು ಗುರುತಿಸಬೇಕು. ದಾಸವಾಳ ಹೂವಿನಲ್ಲಿ, ನೀವು ಅನೇಕ ಕೇಸರಗಳನ್ನು ಮತ್ತು ಮಧ್ಯದಲ್ಲಿ ಒಂದು ಶಲಾಕೆಯನ್ನು ನೋಡಬಹುದು. ಈಗ, ಈ ಭಾಗಗಳನ್ನು ಒಂದಕ್ಕೊಂದು ಹಾನಿಯಾಗದಂತೆ ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಬೇರ್ಪಡಿಸಿ. ಕೇಸರಗಳನ್ನು ಮತ್ತು ಶಲಾಕೆಯನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಇರಿಸಿ.",
+  "script_display": "ಈಗ, ನಿಮ್ಮ ಕೈಯಲ್ಲಿರುವ ದಾಸವಾಳ ಹೂವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಅದರ ಹೊರಗಿನ ಭಾಗಗಳಾದ ಪುಷ್ಪಪತ್ರಗಳು ಮತ್ತು ದಳಗಳನ್ನು ಗಮನಿಸಿ. ಇವುಗಳ ಒಳಗೆ ಹೂವಿನ ಪ್ರಜನನ ಭಾಗಗಳಿವೆ. ನಾವು ಮೊದಲು ಪುರುಷ ಪ್ರಜನನ ಭಾಗವಾದ ಕೇಸರ (Stamen) ಮತ್ತು ಸ್ತ್ರೀ ಪ್ರಜನನ ಭಾಗವಾದ ಶಲಾಕೆ (Pistil) ಯನ್ನು ಗುರುತಿಸಬೇಕು. ದಾಸವಾಳ ಹೂವಿನಲ್ಲಿ, ನೀವು ಅನೇಕ ಕೇಸರಗಳನ್ನು ಮತ್ತು ಮಧ್ಯದಲ್ಲಿ ಒಂದು ಶಲಾಕೆಯನ್ನು ನೋಡಬಹುದು. ಈಗ, ಈ ಭಾಗಗಳನ್ನು ಒಂದಕ್ಕೊಂದು ಹಾನಿಯಾಗದಂತೆ ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಬೇರ್ಪಡಿಸಿ. ಕೇಸರಗಳನ್ನು ಮತ್ತು ಶಲಾಕೆಯನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಇರಿಸಿ.",
+  "display_bullets": [
+    "ದಾಸವಾಳ ಅಥವಾ ಸಾಸಿವೆ ಹೂವನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ಭಾಗಗಳನ್ನು ಗಮನಿಸಿ.",
+    "ಪ್ರಜನನ ಭಾಗಗಳಾದ ಕೇಸರ (Stamen) ಮತ್ತು ಶಲಾಕೆ (Pistil) ಗಳನ್ನು ಗುರುತಿಸಿ.",
+    "ಈ ಭಾಗಗಳನ್ನು ಒಂದರಿಂದ ಇನ್ನೊಂದನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಬೇರ್ಪಡಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_2",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a hand carefully pulling the staminal tube (containing stamens) and the pistil away from the petals of a hibiscus flower. Arrows point to the stamen and pistil.",
+    "labels": "ಕೇಸರ, ಶಲಾಕೆ",
+    "scientific_significance": "Visually demonstrates the first step of dissection, which is the careful separation of the reproductive organs from the rest of the flower.",
+    "placeholder_note": "Image to be generated showing the separation of flower parts."
+  },
+  "chunk_id": "std_7_chapter_8_concept_4_chunk_025"
+}

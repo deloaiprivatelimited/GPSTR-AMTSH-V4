@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1 - ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಯಲ್ಲಿ ಅಳತೆ",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಯಲ್ಲಿ ನಮ್ಮ ಶ್ವಾಸಕ್ರಿಯೆಯ ದರವನ್ನು ಅಳೆಯೋಣ. ಇದಕ್ಕಾಗಿ, ನೀವು ಆರಾಮವಾಗಿ ಕುಳಿತುಕೊಳ್ಳಿ. ಈಗ, ನಿಮ್ಮ ಕೈಗಡಿಯಾರವನ್ನು ಬಳಸಿ, ಒಂದು ನಿಮಿಷದ ಅವಧಿಯಲ್ಲಿ ನೀವು ಎಷ್ಟು ಬಾರಿ ಉಸಿರನ್ನು ಒಳಗೆಳೆದುಕೊಂಡು ಹೊರಬಿಡುತ್ತೀರಿ ಎಂದು ಎಣಿಸಿ. ಇಲ್ಲಿ ಒಂದು ಮುಖ್ಯವಾದ ವಿಷಯವನ್ನು ನೆನಪಿಡಿ, ಒಂದು ಉಚ್ಛಾಸ ಮತ್ತು ಒಂದು ನಿಶ್ವಾಸ, ಅಂದರೆ ಒಮ್ಮೆ ಉಸಿರನ್ನು ಒಳಗೆಳೆದುಕೊಂಡು ಹೊರಬಿಟ್ಟರೆ, ಅದು ಒಂದು ಶ್ವಾಸಕ್ರಿಯೆ ಎಂದು ಪರಿಗಣಿಸಬೇಕು. ಈ ಸಂಖ್ಯೆಯನ್ನು ಎಲ್ಲಾದರೂ ಬರೆದಿಟ್ಟುಕೊಳ್ಳಿ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಯಲ್ಲಿ ನಮ್ಮ ಶ್ವಾಸಕ್ರಿಯೆಯ ದರವನ್ನು ಅಳೆಯೋಣ. ಇದಕ್ಕಾಗಿ, ನೀವು ಆರಾಮವಾಗಿ ಕುಳಿತುಕೊಳ್ಳಿ. ಈಗ, ನಿಮ್ಮ ಕೈಗಡಿಯಾರವನ್ನು ಬಳಸಿ, ಒಂದು ನಿಮಿಷದ ಅವಧಿಯಲ್ಲಿ ನೀವು ಎಷ್ಟು ಬಾರಿ ಉಸಿರನ್ನು ಒಳಗೆಳೆದುಕೊಂಡು ಹೊರಬಿಡುತ್ತೀರಿ ಎಂದು ಎಣಿಸಿ. ಇಲ್ಲಿ ಒಂದು ಮುಖ್ಯವಾದ ವಿಷಯವನ್ನು ನೆನಪಿಡಿ, ಒಂದು ಉಚ್ಛಾಸ ಮತ್ತು ಒಂದು ನಿಶ್ವಾಸ, ಅಂದರೆ ಒಮ್ಮೆ ಉಸಿರನ್ನು ಒಳಗೆಳೆದುಕೊಂಡು ಹೊರಬಿಟ್ಟರೆ, ಅದು ಒಂದು ಶ್ವಾಸಕ್ರಿಯೆ ಎಂದು ಪರಿಗಣಿಸಬೇಕು. ಈ ಸಂಖ್ಯೆಯನ್ನು ಎಲ್ಲಾದರೂ ಬರೆದಿಟ್ಟುಕೊಳ್ಳಿ.",
+  "display_bullets": [
+    "ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಯಲ್ಲಿ ಆರಾಮವಾಗಿ ಕುಳಿತುಕೊಳ್ಳಿ.",
+    "ಒಂದು ನಿಮಿಷದಲ್ಲಿ ನಿಮ್ಮ ಶ್ವಾಸಕ್ರಿಯೆಯ ಸಂಖ್ಯೆಯನ್ನು ಎಣಿಸಿ.",
+    "ಗಮನಿಸಿ: 1 ಉಚ್ಛಾಸ + 1 ನಿಶ್ವಾಸ = 1 ಶ್ವಾಸಕ್ರಿಯೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of a person sitting calmly and relaxed in a chair, looking straight ahead. The style should be simple and clear.",
+    "labels": "none",
+    "scientific_significance": "Depicts the 'resting state' for the first part of the experiment.",
+    "placeholder_note": "Image to be generated. A simple line drawing or flat illustration would be effective."
+  },
+  "chunk_id": "std_7_chapter_6_concept_3_chunk_017"
+}

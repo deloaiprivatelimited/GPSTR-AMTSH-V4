@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ",
+  "script": "ಮೊದಲನೆಯ ವಿಧವೆಂದರೆ ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ. ಹೆಸರೇ ಸೂಚಿಸುವಂತೆ, ಇದನ್ನು ಮಾನವ ದೇಹದ ತಾಪವನ್ನು ಅಳೆಯಲು ವಿಶೇಷವಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ಇದರ ಮುಖ್ಯ ಲಕ್ಷಣವೆಂದರೆ ಅದರ ಸೀಮಿತ ತಾಪದ ವ್ಯಾಪ್ತಿ, ಸಾಮಾನ್ಯವಾಗಿ 35 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ನಿಂದ 42 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ವರೆಗೆ ಮಾತ್ರ ಇರುತ್ತದೆ. ಯಾಕೆಂದರೆ, ಆರೋಗ್ಯವಂತ ಮಾನವನ ದೇಹದ ತಾಪವು ಈ ವ್ಯಾಪ್ತಿಯಲ್ಲೇ ಇರುತ್ತದೆ. ಇದರಲ್ಲಿ ಒಂದು ಸಣ್ಣ ಸಂಕೋಚನ ಅಥವಾ ಕಿಂಕ್ ಇರುತ್ತದೆ. ಇದು ಪಾದರಸದ ಮಟ್ಟವು ತಾನಾಗಿಯೇ ಕೆಳಗೆ ಇಳಿಯುವುದನ್ನು ತಡೆಯುತ್ತದೆ, ಇದರಿಂದ ನಾವು ರೋಗಿಯ ದೇಹದಿಂದ ತಾಪಮಾಪಕವನ್ನು ತೆಗೆದ ನಂತರವೂ ನಿಖರವಾದ ಅಳತೆಯನ್ನು ಓದಲು ಸಮಯ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲನೆಯ ವಿಧವೆಂದರೆ ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ (Clinical Thermometer). ಹೆಸರೇ ಸೂಚಿಸುವಂತೆ, ಇದನ್ನು ಮಾನವ ದೇಹದ ತಾಪವನ್ನು ಅಳೆಯಲು ವಿಶೇಷವಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ಇದರ ಮುಖ್ಯ ಲಕ್ಷಣವೆಂದರೆ ಅದರ ಸೀಮಿತ ತಾಪದ ವ್ಯಾಪ್ತಿ, ಸಾಮಾನ್ಯವಾಗಿ 35°C ನಿಂದ 42°C ವರೆಗೆ ಮಾತ್ರ ಇರುತ್ತದೆ. ಯಾಕೆಂದರೆ, ಆರೋಗ್ಯವಂತ ಮಾನವನ ದೇಹದ ತಾಪವು ಈ ವ್ಯಾಪ್ತಿಯಲ್ಲೇ ಇರುತ್ತದೆ. ಇದರಲ್ಲಿ ಒಂದು ಸಣ್ಣ ಸಂಕೋಚನ (constriction or kink) ಇರುತ್ತದೆ. ಇದು ಪಾದರಸದ ಮಟ್ಟವು ತಾನಾಗಿಯೇ ಕೆಳಗೆ ಇಳಿಯುವುದನ್ನು ತಡೆಯುತ್ತದೆ, ಇದರಿಂದ ನಾವು ರೋಗಿಯ ದೇಹದಿಂದ ತಾಪಮಾಪಕವನ್ನು ತೆಗೆದ ನಂತರವೂ ನಿಖರವಾದ ಅಳತೆಯನ್ನು ಓದಲು ಸಮಯ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉದ್ದೇಶ: ಮಾನವ ದೇಹದ ತಾಪವನ್ನು ಅಳೆಯಲು.",
+    "ವ್ಯಾಪ್ತಿ: 35°C ನಿಂದ 42°C.",
+    "ವಿಶೇಷತೆ: ಪಾದರಸದ ಮಟ್ಟವನ್ನು ಹಿಡಿದಿಡಲು ಸಂಕೋಚನ (kink) ಇರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear diagram of a clinical thermometer. The bulb, the narrow glass tube, the Celsius scale from 35 to 42, and especially the constriction (kink) near the bulb should be clearly labeled in Kannada.",
+    "labels": "ಬಲ್ಬ್, ಸಂಕೋಚನ (ಕಿಂಕ್), ಪಾದರಸದ ಎಳೆ, ಸೆಲ್ಸಿಯಸ್ ಅಳತೆಪಟ್ಟಿ",
+    "scientific_significance": "Illustrates the specific adaptations of a thermometer for medical use, particularly the narrow range and the constriction for holding the reading.",
+    "placeholder_note": "Image of a clinical thermometer with Kannada labels to be generated."
+  },
+  "chunk_id": "std_6_chapter_7_concept_2_chunk_010"
+}

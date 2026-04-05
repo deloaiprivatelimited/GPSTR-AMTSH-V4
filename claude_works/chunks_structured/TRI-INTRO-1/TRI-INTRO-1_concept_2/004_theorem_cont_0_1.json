@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಷ್ಪತ್ತಿ: ವಿಶೇಷ ತ್ರಿಭುಜದ ರಚನೆ",
+  "script": "ಈ ಮೌಲ್ಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಒಂದು ವಿಶೇಷ ತ್ರಿಭುಜವನ್ನು ಬಳಸುತ್ತೇವೆ. ಒಂದು ಲಂಬಕೋನ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಇದರಲ್ಲಿ, ಕೋನ ಬಿ ಯು ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಆಗಿದೆ. ಇದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜವಾದ್ದರಿಂದ, ಎರಡು ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತವೆ, ಅಂದರೆ ಎ ಬಿ ಈಕ್ವಲ್ಸ್ ಬಿ ಸಿ. ತ್ರಿಭುಜದ ಗುಣಲಕ್ಷಣದ ಪ್ರಕಾರ, ಸಮ ಬಾಹುಗಳ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, ಕೋನ ಎ ಈಕ್ವಲ್ಸ್ ಕೋನ ಸಿ. ತ್ರಿಭುಜದ ಮೂರು ಕೋನಗಳ ಮೊತ್ತ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಆಗಿರುವುದರಿಂದ, ಮತ್ತು ಕೋನ ಬಿ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಇರುವುದರಿಂದ, ಕೋನ ಎ ಮತ್ತು ಕೋನ ಸಿ ಎರಡೂ ನಲವತ್ತೈದು ಡಿಗ್ರಿ ಆಗಿರುತ್ತವೆ.",
+  "script_display": "ಈ ಮೌಲ್ಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಒಂದು ವಿಶೇಷ ತ್ರಿಭುಜವನ್ನು ಬಳಸುತ್ತೇವೆ. ಒಂದು ಲಂಬಕೋನ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABC ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಇದರಲ್ಲಿ, ಕೋನ B ಯು $90^\\circ$ ಆಗಿದೆ. ಇದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜವಾದ್ದರಿಂದ, ಎರಡು ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತವೆ, ಅಂದರೆ $AB = BC$. ತ್ರಿಭुಜದ ಗುಣಲಕ್ಷಣದ ಪ್ರಕಾರ, ಸಮ ಬಾಹುಗಳ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, $\\angle A = \\angle C$. ತ್ರಿಭುಜದ ಮೂರು ಕೋನಗಳ ಮೊತ್ತ $180^\\circ$ ಆಗಿರುವುದರಿಂದ, ಮತ್ತು $\\angle B = 90^\\circ$ ಇರುವುದರಿಂದ, $\\angle A$ ಮತ್ತು $\\angle C$ ಎರಡೂ $45^\\circ$ ಆಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಒಂದು ಲಂಬಕೋನ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABC ಯನ್ನು ಪರಿಗಣಿಸಿ, ಇದರಲ್ಲಿ $\\angle B = 90^\\circ$.",
+    "ಸಮದ್ವಿಬಾಹು ಗುಣದಿಂದ, $AB = BC$.",
+    "ಸಮಬಾಹುಗಳ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, $\\angle A = \\angle C = 45^\\circ$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An isosceles right-angled triangle ABC, right-angled at B. Angles A and C are marked as 45 degrees. The sides AB and BC are marked with a tick to show they are equal.",
+    "labels": "A, B, C, 90°, 45°",
+    "mathematical_significance": "This specific triangle is the geometric basis for deriving the trigonometric ratios of 45 degrees.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "TRI-INTRO-1_concept_2_chunk_004"
+}

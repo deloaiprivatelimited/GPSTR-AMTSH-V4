@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಎರಡು ಸಂಖ್ಯೆಗಳ ನಡುವಿನ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 1 ಮತ್ತು 2ರ ನಡುವಿನ ಐದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಎರಡು ಪೂರ್ಣಾಂಕಗಳನ್ನು, 1 ಮತ್ತು 2, ನೀಡಲಾಗಿದೆ. ನಾವು ಅವುಗಳ ನಡುವೆ ಐದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ಎರಡು ಮುಖ್ಯ ವಿಧಾನಗಳಿವೆ, ಅವೆರಡನ್ನೂ ನಾವು ನೋಡೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 1 ಮತ್ತು 2ರ ನಡುವಿನ ಐದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಎರಡು ಪೂರ್ಣಾಂಕಗಳನ್ನು, 1 ಮತ್ತು 2, ನೀಡಲಾಗಿದೆ. ನಾವು ಅವುಗಳ ನಡುವೆ ಐದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ಎರಡು ಮುಖ್ಯ ವಿಧಾನಗಳಿವೆ, ಅವೆರಡನ್ನೂ ನಾವು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ದತ್ತ ಸಂಖ್ಯೆಗಳು: 1 ಮತ್ತು 2",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಅವುಗಳ ನಡುವಿನ ಐದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "1 \\text{ ಮತ್ತು } 2\\text{ರ ನಡುವಿನ ಐದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.}",
+    "placeholder_note": "Problem statement displayed in a box."
+  },
+  "source_example_id": "NS-SYS-3_example_2",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "chunk_id": "NS-SYS-3_concept_1_chunk_031"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ನಷ್ಟ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಬ್ಬ ಅಂಗಡಿಯವನು ಒಂದು ಪುಸ್ತಕವನ್ನು ನೂರು ರೂಪಾಯಿಗೆ ಕೊಂಡುಕೊಳ್ಳುತ್ತಾನೆ. ಹಾಗಾಗಿ, ಅದರ ಕೊಂಡ ಬೆಲೆ, ಅಂದರೆ ಸಿ ಪಿ, ನೂರು ರೂಪಾಯಿ. ಆದರೆ, ಕೆಲವು ದಿನಗಳ ನಂತರ ಅವನು ಆ ಪುಸ್ತಕವನ್ನು ಎಂಭತ್ತು ರೂಪಾಯಿಗೆ ಮಾರುತ್ತಾನೆ. ಇಲ್ಲಿ ಮಾರಿದ ಬೆಲೆ, ಅಂದರೆ ಎಸ್ ಪಿ, ಎಂಭತ್ತು ರೂಪಾಯಿ. ಈಗ ಗಮನಿಸಿ, ಮಾರಿದ ಬೆಲೆ ಎಂಭತ್ತು ರೂಪಾಯಿ, ಕೊಂಡ ಬೆಲೆ ನೂರು ರೂಪಾಯಿಗಿಂತ ಕಡಿಮೆಯಿದೆ. ಅಂದರೆ ಎಸ್ ಪಿ, ಸಿ ಪಿ ಗಿಂತ ಕಡಿಮೆ ಇದೆ. ಆದ್ದರಿಂದ, ಈ ವ್ಯವಹಾರದಲ್ಲಿ ಅವನಿಗೆ ನಷ್ಟವಾಗಿದೆ. ನಷ್ಟ ಎಷ್ಟು ಎಂದು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಕೊಂಡ ಬೆಲೆಯಿಂದ ಮಾರಿದ ಬೆಲೆಯನ್ನು ಕಳೆಯಬೇಕು. ಅಂದರೆ, ನೂರು ಮೈನಸ್ ಎಂಭತ್ತು, ಈಕ್ವಲ್ಸ್ ಇಪ್ಪತ್ತು ರೂಪಾಯಿ. ಅವನಿಗೆ ಇಪ್ಪತ್ತು ರೂಪಾಯಿ ನಷ್ಟವಾಯಿತು.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆ ನೋಡೋಣ. ಒಬ್ಬ ಅಂಗಡಿಯವನು ಒಂದು ಪುಸ್ತಕವನ್ನು ₹100 ಕ್ಕೆ ಕೊಂಡುಕೊಳ್ಳುತ್ತಾನೆ. ಹಾಗಾಗಿ, ಅದರ ಕೊಂಡ ಬೆಲೆ (CP) = ₹100. ಆದರೆ, ಕೆಲವು ದಿನಗಳ ನಂತರ ಅವನು ಆ ಪುಸ್ತಕವನ್ನು ₹80 ಕ್ಕೆ ಮಾರುತ್ತಾನೆ. ಇಲ್ಲಿ ಮಾರಿದ ಬೆಲೆ (SP) = ₹80. ಈಗ ಗಮನಿಸಿ, ಮಾರಿದ ಬೆಲೆ (₹80), ಕೊಂಡ ಬೆಲೆಗಿಂತ (₹100) ಕಡಿಮೆಯಿದೆ. ಅಂದರೆ $SP < CP$. ಆದ್ದರಿಂದ, ಈ ವ್ಯವಹಾರದಲ್ಲಿ ಅವನಿಗೆ ನಷ್ಟವಾಗಿದೆ. ನಷ್ಟ ಎಷ್ಟು ಎಂದು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಕೊಂಡ ಬೆಲೆಯಿಂದ ಮಾರಿದ ಬೆಲೆಯನ್ನು ಕಳೆಯಬೇಕು. ಅಂದರೆ, ₹100 - ₹80 = ₹20. ಅವನಿಗೆ ₹20 ನಷ್ಟವಾಯಿತು.",
+  "display_bullets": [
+    "ಒಂದು ಪುಸ್ತಕದ ಕೊಂಡ ಬೆಲೆ (CP) = ₹100.",
+    "ಅದರ ಮಾರಿದ ಬೆಲೆ (SP) = ₹80.",
+    "ಇಲ್ಲಿ, $SP < CP$ (₹80 < ₹100).",
+    "ಆದ್ದರಿಂದ, ನಷ್ಟ = $CP - SP = ₹100 - ₹80 = ₹20$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "classic_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple graphic showing a book with a price tag 'CP = ₹100'. An arrow points from it to the same book with a new price tag 'SP = ₹80'. A large red down-arrow with 'ನಷ್ಟ = ₹20' is shown next to it, possibly with a sad face emoji to represent loss.",
+    "labels": "CP, SP, Loss, Book",
+    "mathematical_significance": "Visually represents the concept of loss where the selling price is lower than the cost price.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "RPP-COMP-1_concept_3_chunk_018"
+}

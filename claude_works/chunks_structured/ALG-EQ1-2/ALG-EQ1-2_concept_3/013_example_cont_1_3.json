@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 7-8",
+  "script": "ಈಗ ನಾವು x ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮಗೆ 5x ಈಕ್ವಲ್ಸ್ 25 ಬೈ 2 ಇದೆ. x ಅನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು 5 ಅನ್ನು ಇನ್ನೊಂದು ಬದಿಗೆ ಕೊಂಡೊಯ್ಯಬೇಕು. ಅದು ಭಾಗಾಕಾರವಾಗುತ್ತದೆ. ಅಂದರೆ x ಈಕ್ವಲ್ಸ್ 25 ಬೈ 2, ಭಾಗಿಸು 5. ಇದನ್ನು ನಾವು 25 ಬೈ 2, ಗುಣಿಸು 1 ಬೈ 5 ಎಂದೂ ಬರೆಯಬಹುದು. ಅಂತಿಮವಾಗಿ, ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. 25 ಮತ್ತು 5, ಐದರಿಂದ ಭಾಗವಾಗುತ್ತವೆ. 5 ಒಂದ್ಲಿ 5, 5 ಐದ್ಲಿ 25. ಹಾಗಾಗಿ ನಮಗೆ x ಈಕ್ವಲ್ಸ್ 5 ಬೈ 2 ಎಂಬ ಉತ್ತರ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು $x$ ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮಗೆ $5x = \\frac{25}{2}$ ಇದೆ. $x$ ಅನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು $5$ ಅನ್ನು ಇನ್ನೊಂದು ಬದಿಗೆ ಕೊಂಡೊಯ್ಯಬೇಕು. ಅದು ಭಾಗಾಕಾರವಾಗುತ್ತದೆ. ಅಂದರೆ $x = \\frac{25}{2} \\div 5$. ಇದನ್ನು ನಾವು $\\frac{25}{2} \\times \\frac{1}{5}$ ಎಂದೂ ಬರೆಯಬಹುದು. ಅಂತಿಮವಾಗಿ, ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. $25$ ಮತ್ತು $5$, ಐದರಿಂದ ಭಾಗವಾಗುತ್ತವೆ. $5 \\times 1 = 5$, $5 \\times 5 = 25$. ಹಾಗಾಗಿ ನಮಗೆ $x = \\frac{5}{2}$ ಎಂಬ ಉತ್ತರ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_2_col",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-EQ1-2_example_4",
+  "steps": [
+    {
+      "step": 7,
+      "action_display": "$x = \\frac{25}{2} \\div 5 = \\frac{25}{2} \\times \\frac{1}{5}$",
+      "justification": "`x` ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಲು 5 ನ್ನು ವರ್ಗಾಯಿಸುವುದು."
+    },
+    {
+      "step": 8,
+      "action_display": "$x = \\frac{5}{2}$",
+      "justification": "ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ ಪರಿಹಾರವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "ALG-EQ1-2_concept_3_chunk_013"
+}

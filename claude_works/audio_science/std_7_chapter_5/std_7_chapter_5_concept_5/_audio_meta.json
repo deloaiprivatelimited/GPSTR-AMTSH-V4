@@ -1,0 +1,180 @@
+{
+  "module_id": "std_7_chapter_5_concept_5",
+  "chapter_code": "std_7_chapter_5",
+  "voice": "Schedar",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 15,
+  "ok_count": 15,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:58:09",
+  "chunks": {
+    "003_example_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "438ced3fed310ea0a66db9effd9d1ca0",
+      "wav_file": "003_example_0.wav",
+      "duration": 19.851,
+      "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಮೇಣದಬತ್ತಿ ಉರಿಯುವಿಕೆ",
+      "type": "worked_example",
+      "script_words": 27,
+      "generated_at": "2026-04-02 13:55:46"
+    },
+    "004_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "621a1d21eb23418b25d95db2c919c619",
+      "wav_file": "004_example_cont_0_1.wav",
+      "duration": 22.731,
+      "slide_title": "ಹಂತ 1: ಭೌತ ಬದಲಾವಣೆಯನ್ನು ಗುರುತಿಸುವುದು",
+      "type": "worked_example",
+      "script_words": 30,
+      "generated_at": "2026-04-02 13:55:48"
+    },
+    "005_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "c8f3124f5a2b8b789e2048d7b24587c5",
+      "wav_file": "005_example_cont_0_2.wav",
+      "duration": 29.931,
+      "slide_title": "ಹಂತ 2: ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯನ್ನು ಗುರುತಿಸುವುದು",
+      "type": "worked_example",
+      "script_words": 37,
+      "generated_at": "2026-04-02 13:55:54"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "087d80ed16694a1dbf49773ee0fd1bff",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 30.611,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 50,
+      "generated_at": "2026-04-02 13:55:56"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "8f4f367c6152fe5f0b345756f52209fc",
+      "wav_file": "001_intro_0.wav",
+      "duration": 48.171,
+      "slide_title": "ಪರಿಚಯ: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳ ಸಂಯೋಜನೆ",
+      "type": "chunk",
+      "script_words": 67,
+      "generated_at": "2026-04-02 13:55:58"
+    },
+    "010_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "c8184dbfb32c3c438faa1d7ba105ed94",
+      "wav_file": "010_example_cont_1_3.wav",
+      "duration": 35.211,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 48,
+      "generated_at": "2026-04-02 13:56:43"
+    },
+    "006_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "c28347d45fb5bc1dcba7768dcd4c17fa",
+      "wav_file": "006_example_cont_0_3.wav",
+      "duration": 27.611,
+      "slide_title": "ಅಂತಿಮ ತೀರ್ಮಾನ",
+      "type": "worked_example",
+      "script_words": 35,
+      "generated_at": "2026-04-02 13:56:51"
+    },
+    "009_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "e24082f5b335aa7bee430805aa9f53cf",
+      "wav_file": "009_example_cont_1_2.wav",
+      "duration": 35.491,
+      "slide_title": "ಹಂತ 2: ಬದಲಾವಣೆ B ಯ ವಿಶ್ಲೇಷಣೆ",
+      "type": "worked_example",
+      "script_words": 47,
+      "generated_at": "2026-04-02 13:56:54"
+    },
+    "007_example_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "0a3d7a541ec15f0fe25cdf3e304d9091",
+      "wav_file": "007_example_1.wav",
+      "duration": 31.371,
+      "slide_title": "ಸಮಸ್ಯೆ: ಅಡುಗೆ ಅನಿಲ (LPG) ಬದಲಾವಣೆಗಳು",
+      "type": "worked_example",
+      "script_words": 42,
+      "generated_at": "2026-04-02 13:56:55"
+    },
+    "008_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "83ea4ec9949a6efe1fa00c2b6ba4e607",
+      "wav_file": "008_example_cont_1_1.wav",
+      "duration": 31.771,
+      "slide_title": "ಹಂತ 1: ಬದಲಾವಣೆ A ಯ ವಿಶ್ಲೇಷಣೆ",
+      "type": "worked_example",
+      "script_words": 48,
+      "generated_at": "2026-04-02 13:56:57"
+    },
+    "011_example_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "ff3b3728e2cfa41cc495d4cf468eff36",
+      "wav_file": "011_example_2.wav",
+      "duration": 29.971,
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಜೈವಿಕ ಅನಿಲ",
+      "type": "worked_example",
+      "script_words": 43,
+      "generated_at": "2026-04-02 13:57:43"
+    },
+    "014_example_cont_2_3.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "b01ba9b8bfa4b94106d3f73991dc03d5",
+      "wav_file": "014_example_cont_2_3.wav",
+      "duration": 25.411,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 39,
+      "generated_at": "2026-04-02 13:57:54"
+    },
+    "012_example_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "9daa65ed9d6b29919d178c76adcf720a",
+      "wav_file": "012_example_cont_2_1.wav",
+      "duration": 40.531,
+      "slide_title": "ಹಂತ 1: ಬದಲಾವಣೆ A ಯ ವಿಶ್ಲೇಷಣೆ",
+      "type": "worked_example",
+      "script_words": 42,
+      "generated_at": "2026-04-02 13:57:57"
+    },
+    "013_example_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "1261ad49d9a5b46b91283fa2532877c0",
+      "wav_file": "013_example_cont_2_2.wav",
+      "duration": 40.491,
+      "slide_title": "ಹಂತ 2: ಬದಲಾವಣೆ B ಯ ವಿಶ್ಲೇಷಣೆ",
+      "type": "worked_example",
+      "script_words": 50,
+      "generated_at": "2026-04-02 13:58:04"
+    },
+    "015_recap_0.json": {
+      "status": "ok",
+      "voice": "Schedar",
+      "script_hash": "71b22e0bc8c8fbe02f4be2658bec7961",
+      "wav_file": "015_recap_0.wav",
+      "duration": 37.811,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 49,
+      "generated_at": "2026-04-02 13:58:09"
+    }
+  }
+}

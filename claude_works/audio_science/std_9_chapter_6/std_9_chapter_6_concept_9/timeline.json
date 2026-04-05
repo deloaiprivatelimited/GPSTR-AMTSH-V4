@@ -1,0 +1,79 @@
+{
+  "module_id": "std_9_chapter_6_concept_9",
+  "chapter_code": "std_9_chapter_6",
+  "voice": "Fenrir",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 280.506,
+  "total_duration_formatted": "4:40",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_6_concept_9_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪ್ರಾಣಿ ಅಂಗಾಂಶಗಳು: ಸಂಯೋಜಕ ಅಂಗಾಂಶ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 44.331,
+      "duration": 44.331,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_9_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 44.931,
+      "end": 66.662,
+      "duration": 21.731,
+      "script_words": 31
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_9_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಸಂಯೋಜಕ ಅಂಗಾಂಶಗಳ ವಿಧಗಳು (ಭಾಗ 1)",
+      "type": "concept_explanation",
+      "start": 67.262,
+      "end": 123.153,
+      "duration": 55.891,
+      "script_words": 78
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_9_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಸಂಯೋಜಕ ಅಂಗಾಂಶಗಳ ವಿಧಗಳು (ಭಾಗ 2)",
+      "type": "concept_explanation",
+      "start": 123.753,
+      "end": 186.204,
+      "duration": 62.451,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_9_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಸಂಯೋಜಕ ಅಂಗಾಂಶಗಳ ವಿಧಗಳು (ಭಾಗ 3)",
+      "type": "concept_explanation",
+      "start": 186.804,
+      "end": 238.175,
+      "duration": 51.371,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_9_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 238.775,
+      "end": 279.906,
+      "duration": 41.131,
+      "script_words": 49
+    }
+  ]
+}

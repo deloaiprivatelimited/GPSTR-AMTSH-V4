@@ -1,0 +1,202 @@
+{
+  "module_id": "std_7_science_chapter_4_concept_1",
+  "chapter_code": "std_7_chapter_4",
+  "voice": "Callirrhoe",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 17,
+  "ok_count": 17,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:54:29",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "6a1e47aa9b0cf8717be29c7b69da4f35",
+      "wav_file": "001_intro_0.wav",
+      "duration": 44.971,
+      "slide_title": "ಆಮ್ಲಗಳು ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "chunk",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:51:02"
+    },
+    "003_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "b032fff8d19bf2bf5429faad10ac9d22",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "duration": 35.811,
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಆಮ್ಲಗಳು",
+      "type": "definition",
+      "script_words": 46,
+      "generated_at": "2026-04-02 13:51:25"
+    },
+    "004_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "3c6768d16b4a87ef07a3ca2a9601ba14",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "duration": 36.851,
+      "slide_title": "ಸಾಮಾನ್ಯ ವಸ್ತುಗಳಲ್ಲಿರುವ ಆಮ್ಲಗಳು",
+      "type": "definition",
+      "script_words": 49,
+      "generated_at": "2026-04-02 13:51:26"
+    },
+    "002_definition_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "4b7b863a028e43610076b5ee8ff905e5",
+      "wav_file": "002_definition_0.wav",
+      "duration": 41.611,
+      "slide_title": "ಆಮ್ಲ (Acid): ವ್ಯಾಖ್ಯಾನ",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 13:51:28"
+    },
+    "005_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "e53ff974179597649720c2cf6a539aac",
+      "wav_file": "005_definition_cont_0_3.wav",
+      "duration": 45.211,
+      "slide_title": "ಒಂದು ಪ್ರಮುಖ ಎಚ್ಚರಿಕೆ",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:51:31"
+    },
+    "009_definition_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "d0103296305c64be040fab3c471538c1",
+      "wav_file": "009_definition_2.wav",
+      "duration": 44.531,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಆಮ್ಲೀಯ",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-04-02 13:52:04"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "8c110881500d1bc07e19b61150ae5aee",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 38.371,
+      "slide_title": "ಆಮ್ಲ vs ಪ್ರತ್ಯಾಮ್ಲ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸಗಳು",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:52:25"
+    },
+    "010_definition_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "5e1ce3a313da22f378978c9595939854",
+      "wav_file": "010_definition_cont_2_1.wav",
+      "duration": 45.331,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಆಮ್ಲೀಯ",
+      "type": "definition",
+      "script_words": 70,
+      "generated_at": "2026-04-02 13:52:29"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "57a4a6bb66a60396af2175e9cabad5d0",
+      "wav_file": "006_definition_1.wav",
+      "duration": 48.331,
+      "slide_title": "ಪ್ರತ್ಯಾಮ್ಲ (Base) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-04-02 13:52:30"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "9ef799a4ad73d864b97788b0e5ea00b8",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 49.571,
+      "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಪ್ರತ್ಯಾಮ್ಲಗಳು",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-04-02 13:52:37"
+    },
+    "013_definition_cont_3_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "c30ae09fe4604768e13bd9848a95b0c6",
+      "wav_file": "013_definition_cont_3_1.wav",
+      "duration": 39.771,
+      "slide_title": "ಪ್ರತ್ಯಾಮ್ಲೀಯ ವಸ್ತುಗಳು: ದೈನಂದಿನ ಉದಾಹರಣೆಗಳು",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:52:56"
+    },
+    "011_definition_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "82ade7c92ccf8514484576c6767204ad",
+      "wav_file": "011_definition_cont_2_2.wav",
+      "duration": 48.131,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಆಮ್ಲೀಯ",
+      "type": "definition",
+      "script_words": 64,
+      "generated_at": "2026-04-02 13:53:32"
+    },
+    "015_property_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "c4039a98f2c87e38e571506eb669e5ed",
+      "wav_file": "015_property_0.wav",
+      "duration": 50.531,
+      "slide_title": "ಆಮ್ಲಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:53:34"
+    },
+    "016_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "5f0099110a0c0fea0e18f96b48c39642",
+      "wav_file": "016_property_cont_0_1.wav",
+      "duration": 50.851,
+      "slide_title": "ಪ್ರತ್ಯಾಮ್ಲಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:53:36"
+    },
+    "014_definition_cont_3_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "cf18aa34c2beafb9f2632bb72b67afec",
+      "wav_file": "014_definition_cont_3_2.wav",
+      "duration": 56.131,
+      "slide_title": "ಹೋಲಿಕೆ: ಆಮ್ಲೀಯ vs ಪ್ರತ್ಯಾಮ್ಲೀಯ",
+      "type": "definition",
+      "script_words": 57,
+      "generated_at": "2026-04-02 13:53:37"
+    },
+    "012_definition_3.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "2ef00e730a0cfd2d777be6b5bf6ae958",
+      "wav_file": "012_definition_3.wav",
+      "duration": 43.211,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಪ್ರತ್ಯಾಮ್ಲೀಯ (Basic)",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:54:05"
+    },
+    "017_recap_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "78671f34f9fa6b926d3e77e9be8cfd74",
+      "wav_file": "017_recap_0.wav",
+      "duration": 40.411,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 46,
+      "generated_at": "2026-04-02 13:54:29"
+    }
+  }
+}

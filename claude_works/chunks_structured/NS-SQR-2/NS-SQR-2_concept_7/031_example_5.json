@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ: 4 ಅಂಕಿಗಳ ಗರಿಷ್ಠ ಪೂರ್ಣವರ್ಗ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ನಾಲ್ಕು ಅಂಕಿಗಳ ಗರಿಷ್ಠ ಪೂರ್ಣವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು, ನಾಲ್ಕು ಅಂಕಿಗಳ ಗರಿಷ್ಠ ಸಂಖ್ಯೆ ಯಾವುದು ಎಂದು ಗುರುತಿಸೋಣ. ಅದು ಒಂಬತ್ತು ಸಾವಿರದ ಒಂಬೈನೂರ ತೊಂಬತ್ತೊಂಬತ್ತು. ಈ ಸಂಖ್ಯೆ ಅಥವಾ ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ಪೂರ್ಣವರ್ಗವನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 4 ಅಂಕಿಗಳ ಗರಿಷ್ಠ ಪೂರ್ಣವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು, 4 ಅಂಕಿಗಳ ಗರಿಷ್ಠ ಸಂಖ್ಯೆ ಯಾವುದು ಎಂದು ಗುರುತಿಸೋಣ. ಅದು 9999. ಈ ಸಂಖ್ಯೆ ಅಥವಾ ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ಪೂರ್ಣವರ್ಗವನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 4 ಅಂಕಿಗಳ ಗರಿಷ್ಠ ಪೂರ್ಣವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "dark_background_math",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "4 \\text{ ಅಂಕಿಗಳ ಗರಿಷ್ಠ ಪೂರ್ಣವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.}",
+    "placeholder_note": "Problem statement in a box"
+  },
+  "source_example_id": "NS-SQR-2_example_12",
+  "prerequisites_display": [
+    "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನ"
+  ],
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 0,
+    "theorems": 0,
+    "properties": 0,
+    "worked_examples": 1
+  },
+  "next_modules": [],
+  "chunk_id": "NS-SQR-2_concept_7_chunk_031"
+}

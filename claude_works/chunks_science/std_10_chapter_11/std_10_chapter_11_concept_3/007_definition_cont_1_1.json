@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "1 ಓಮ್ ಅನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+  "script": "ಈಗ ಒಂದು ಓಮ್ ಅನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ವಿದ್ಯುತ್ ಮಂಡಲವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಇದರಲ್ಲಿ ಒಂದು ರೋಧಕವಿದೆ. ಈ ರೋಧಕದ ಎರಡು ತುದಿಗಳಿಗೆ ನಾವು ಒಂದು ವೋಲ್ಟ್ ಬ್ಯಾಟರಿಯನ್ನು ಜೋಡಿಸಿದ್ದೇವೆ, ಅಂದರೆ ವಿಭವಾಂತರ ಒಂದು ವೋಲ್ಟ್ ಆಗಿದೆ. ಈಗ, ಈ ಮಂಡಲದಲ್ಲಿ ಪ್ರವಹಿಸುತ್ತಿರುವ ವಿದ್ಯುತ್ ಅನ್ನು ಅಳೆಯಲು ಒಂದು ಆಮ್ಮೀಟರ್ ಅನ್ನು ಸೇರಿಸೋಣ. ಆಮ್ಮೀಟರ್ ಒಂದು ಆಂಪಿಯರ್ ರೀಡಿಂಗ್ ತೋರಿಸಿದರೆ, ಆಗ ನಾವು ಬಳಸಿದ ರೋಧಕದ ರೋಧವು ನಿಖರವಾಗಿ ಒಂದು ಓಮ್ ಆಗಿದೆ ಎಂದು ನಾವು ತೀರ್ಮಾನಿಸಬಹುದು. ಹೀಗೆ ವಿಭವಾಂತರ ಮತ್ತು ಪ್ರವಾಹದ ನಿರ್ದಿಷ್ಟ ಮೌಲ್ಯಗಳಿಗೆ ರೋಧವನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲಾಗಿದೆ.",
+  "script_display": "1 ಓಮ್ ಅನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ವಿದ್ಯುತ್ ಮಂಡಲವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ:",
+  "display_bullets": [
+    "**ಹಂತ 1:** ಒಂದು ರೋಧಕದ (resistor) ತುದಿಗಳಿಗೆ 1V ವಿಭವಾಂತರವನ್ನು ಅನ್ವಯಿಸಿ.",
+    "**ಹಂತ 2:** ಮಂಡಲದಲ್ಲಿ ಹರಿಯುವ ವಿದ್ಯುತ್ ಪ್ರವಾಹವನ್ನು (current) ಆಮ್ಮೀಟರ್ ಬಳಸಿ ಅಳೆಯಿರಿ.",
+    "**ತೀರ್ಮಾನ:** ಆಮ್ಮೀಟರ್ 1A ತೋರಿಸಿದರೆ, ಆ ರೋಧಕದ ರೋಧವು ನಿಖರವಾಗಿ 1Ω ಆಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple circuit diagram. A resistor is connected to a 1V power source. A voltmeter connected in parallel across the resistor reads '1 V'. An ammeter connected in series reads '1 A'.",
+    "labels": "Resistor (R), Voltmeter (V), Ammeter (A), 1V Battery",
+    "scientific_significance": "This diagram visually represents the conditions required for a resistance to be exactly 1 Ohm, connecting the abstract definition to a concrete circuit.",
+    "placeholder_note": "Image to be generated showing a simple circuit to demonstrate 1 Ohm of resistance."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_11_concept_3_chunk_007"
+}

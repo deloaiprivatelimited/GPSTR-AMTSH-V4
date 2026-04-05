@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದಹನ ಕ್ರಿಯೆ: ಮೀಥೇನ್",
+  "script": "ಕಾರ್ಬನ್ ಸಂಯುಕ್ತಗಳ ಒಂದು ಪ್ರಮುಖ ರಾಸಾಯನಿಕ ಗುಣವೆಂದರೆ ದಹನ ಕ್ರಿಯೆ. ಇಲ್ಲಿ ನಾವು ಮೀಥೇನ್ ಅನಿಲದ ದಹನವನ್ನು ನೋಡೋಣ. ಒಂದು ಮೀಥೇನ್ ಅಣುವು, ಎರಡು ಆಕ್ಸಿಜನ್ ಅಣುಗಳೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ಒಂದು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅಣು, ಎರಡು ನೀರಿನ ಅಣುಗಳು, ಹಾಗೂ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ಶಾಖ ಮತ್ತು ಬೆಳಕು ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಕಾರ್ಬನ್ ಸಂಯುಕ್ತಗಳ ಒಂದು ಪ್ರಮುಖ ರಾಸಾಯನಿಕ ಗುಣವೆಂದರೆ ದಹನ ಕ್ರಿಯೆ (Combustion). ಇಲ್ಲಿ ನಾವು ಮೀಥೇನ್ (CH₄) ಅನಿಲದ ದಹನವನ್ನು ನೋಡೋಣ. ಒಂದು ಮೀಥೇನ್ ಅಣುವು (CH₄), ಎರಡು ಆಕ್ಸಿಜನ್ ಅಣುಗಳೊಂದಿಗೆ (2O₂) ವರ್ತಿಸಿದಾಗ, ಒಂದು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅಣು (CO₂), ಎರಡು ನೀರಿನ ಅಣುಗಳು (2H₂O), ಹಾಗೂ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ಶಾಖ ಮತ್ತು ಬೆಳಕು ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "chem_template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CH_4(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l) + \\text{ಶಾಖ} + \\text{ಬೆಳಕು}",
+    "placeholder_note": "Balanced chemical equation for the complete combustion of methane gas."
+  },
+  "chunk_id": "std_10_chapter_4_concept_8_chunk_007"
+}

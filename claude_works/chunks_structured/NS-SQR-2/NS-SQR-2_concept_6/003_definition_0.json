@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಿಚಯ: ವರ್ಗಮೂಲ ಎಂದರೇನು?",
+  "script": "ನಾವು ಈಗಾಗಲೇ ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಬಗ್ಗೆ ಕಲಿತಿದ್ದೇವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದ 5 ಯೂನಿಟ್ ಆಗಿದ್ದರೆ, ಅದರ ವಿಸ್ತೀರ್ಣ 5 ಸ್ಕ್ವೇರ್ಡ್, ಅಂದರೆ 25 ಚದರ ಯೂನಿಟ್ ಆಗುತ್ತದೆ. ಈಗ, ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಹಿಮ್ಮುಖವಾಗಿ ಯೋಚಿಸೋಣ. ಒಂದು ಚೌಕದ ವಿಸ್ತೀರ್ಣ 25 ಚದರ ಯೂನಿಟ್ ಎಂದು ನಮಗೆ ತಿಳಿದಿದ್ದರೆ, ಅದರ ಬಾಹುವಿನ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದೇ? ಹೌದು, ಅದರ ಬಾಹು 5 ಯೂನಿಟ್ ಆಗಿರುತ್ತದೆ. ಈ ಹಿಮ್ಮುಖ ಪ್ರಕ್ರಿಯೆಯನ್ನೇ ನಾವು 'ವರ್ಗಮೂಲ' ಅಥವಾ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ವರ್ಗಮೂಲ ಕಂಡುಹಿಡಿಯುವುದು ವರ್ಗ ಮಾಡುವ ಕ್ರಿಯೆಯ ವಿಲೋಮ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "script_display": "ನಾವು ಈಗಾಗಲೇ ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಬಗ್ಗೆ ಕಲಿತಿದ್ದೇವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದ 5 ಯೂನಿಟ್ ಆಗಿದ್ದರೆ, ಅದರ ವಿಸ್ತೀರ್ಣ $5^2$, ಅಂದರೆ 25 ಚದರ ಯೂನಿಟ್ ಆಗುತ್ತದೆ. ಈಗ, ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಹಿಮ್ಮುಖವಾಗಿ ಯೋಚಿಸೋಣ. ಒಂದು ಚೌಕದ ವಿಸ್ತೀರ್ಣ 25 ಚದರ ಯೂನಿಟ್ ಎಂದು ನಮಗೆ ತಿಳಿದಿದ್ದರೆ, ಅದರ ಬಾಹುವಿನ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದೇ? ಹೌದು, ಅದರ ಬಾಹು 5 ಯೂನಿಟ್ ಆಗಿರುತ್ತದೆ. ಈ ಹಿಮ್ಮುಖ ಪ್ರಕ್ರಿಯೆಯನ್ನೇ ನಾವು 'ವರ್ಗಮೂಲ' (Square Root) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ವರ್ಗಮೂಲ ಕಂಡುಹಿಡಿಯುವುದು ವರ್ಗ ಮಾಡುವ ಕ್ರಿಯೆಯ ವಿಲೋಮ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ವರ್ಗ ಮಾಡುವ ಕ್ರಿಯೆ: ಬಾಹು $\\rightarrow$ ವಿಸ್ತೀರ್ಣ (ಉದಾ: $5 \\rightarrow 5^2 = 25$)",
+    "ವರ್ಗಮೂಲದ ಕ್ರಿಯೆ: ವಿಸ್ತೀರ್ಣ $\\rightarrow$ ಬಾಹು (ಉದಾ: $25 \\rightarrow \\sqrt{25} = 5$)",
+    "ವರ್ಗಮೂಲವು ವರ್ಗ ಮಾಡುವ ಕ್ರಿಯೆಯ 'ವಿಲೋಮ' (inverse) ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left_text_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing two-way arrows between a square of side 5 units and its area 25 sq. units. The forward arrow is labeled 'ವರ್ಗ (Squaring)' and points from the side to the area. The backward arrow is labeled 'ವರ್ಗಮೂಲ (Square Root)' and points from the area to the side.",
+    "labels": "ಚೌಕ, ಬಾಹು, ವಿಸ್ತೀರ್ಣ, ವರ್ಗ, ವರ್ಗಮೂಲ",
+    "mathematical_significance": "Visually represents that squaring and finding the square root are inverse operations, using the geometric context of a square's side and area.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "NS-SQR-2_concept_6_chunk_003"
+}

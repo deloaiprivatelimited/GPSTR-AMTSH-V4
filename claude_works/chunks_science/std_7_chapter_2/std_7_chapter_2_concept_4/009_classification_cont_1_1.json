@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹಲ್ಲುಗಳ ಜೀವನಚಕ್ರ: ಶಾಶ್ವತ ಹಲ್ಲುಗಳು",
+  "script": "ಹಾಲು ಹಲ್ಲುಗಳು ಬಿದ್ದ ನಂತರ, ಅವುಗಳ ಜಾಗದಲ್ಲಿ ಶಾಶ್ವತ ಹಲ್ಲುಗಳು ಬರುತ್ತವೆ. ಇದು ನಮ್ಮ ಜೀವನದ ಎರಡನೇ ಮತ್ತು ಅಂತಿಮ ಸೆಟ್ ಹಲ್ಲುಗಳು. ವಯಸ್ಕರಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಒಟ್ಟು ಮೂವತ್ತೆರಡು ಶಾಶ್ವತ ಹಲ್ಲುಗಳಿರುತ್ತವೆ. ಇವು ಹಾಲು ಹಲ್ಲುಗಳಿಗಿಂತ ದೊಡ್ಡದಾಗಿ ಮತ್ತು ಹೆಚ್ಚು ಬಲವಾಗಿರುತ್ತವೆ. ಇವುಗಳ ಹೆಸರು ಸೂಚಿಸುವಂತೆ, ಇವು ಜೀವನಪರ್ಯಂತ ನಮ್ಮೊಂದಿಗೆ ಇರಬೇಕಾದ ಹಲ್ಲುಗಳು. ಆದ್ದರಿಂದ, ಇವುಗಳ ಆರೋಗ್ಯ ಮತ್ತು ಸ್ವಚ್ಛತೆಯ ಬಗ್ಗೆ ನಾವು ಹೆಚ್ಚು ಕಾಳಜಿ ವಹಿಸಬೇಕು. ಒಮ್ಮೆ ಕಳೆದುಕೊಂಡರೆ ಇವು ಮತ್ತೆ ನೈಸರ್ಗಿಕವಾಗಿ ಬೆಳೆಯುವುದಿಲ್ಲ.",
+  "script_display": "ಹಾಲು ಹಲ್ಲುಗಳು ಬಿದ್ದ ನಂತರ, ಅವುಗಳ ಜಾಗದಲ್ಲಿ ಶಾಶ್ವತ ಹಲ್ಲುಗಳು (Permanent Teeth) ಬರುತ್ತವೆ. ಇದು ನಮ್ಮ ಜೀವನದ ಎರಡನೇ ಮತ್ತು ಅಂತಿಮ ಸೆಟ್ ಹಲ್ಲುಗಳು. ವಯಸ್ಕರಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಒಟ್ಟು 32 ಶಾಶ್ವತ ಹಲ್ಲುಗಳಿರುತ್ತವೆ. ಇವು ಹಾಲು ಹಲ್ಲುಗಳಿಗಿಂತ ದೊಡ್ಡದಾಗಿ ಮತ್ತು ಹೆಚ್ಚು ಬಲವಾಗಿರುತ್ತವೆ. ಇವುಗಳ ಹೆಸರು ಸೂಚಿಸುವಂತೆ, ಇವು ಜೀವನಪರ್ಯಂತ ನಮ್ಮೊಂದಿಗೆ ಇರಬೇಕಾದ ಹಲ್ಲುಗಳು. ಆದ್ದರಿಂದ, ಇವುಗಳ ಆರೋಗ್ಯ ಮತ್ತು ಸ್ವಚ್ಛತೆಯ ಬಗ್ಗೆ ನಾವು ಹೆಚ್ಚು ಕಾಳಜಿ ವಹಿಸಬೇಕು. ಒಮ್ಮೆ ಕಳೆದುಕೊಂಡರೆ ಇವು ಮತ್ತೆ ನೈಸರ್ಗಿಕವಾಗಿ ಬೆಳೆಯುವುದಿಲ್ಲ.",
+  "display_bullets": [
+    "ಹಾಲು ಹಲ್ಲುಗಳ ನಂತರ ಬರುವ ಎರಡನೇ ಸೆಟ್ ಹಲ್ಲುಗಳು.",
+    "ಒಟ್ಟು 32 ಹಲ್ಲುಗಳಿರುತ್ತವೆ.",
+    "ಇವು ಜೀವನಪರ್ಯಂತ ಇರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dynamic_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear illustration of an adult's jaw showing the full set of 32 permanent teeth. The different types of teeth (incisors, canines, premolars, molars) can be subtly differentiated.",
+    "labels": "ಶಾಶ್ವತ ಹಲ್ಲುಗಳು (Permanent Teeth)",
+    "scientific_significance": "Illustrates the secondary dentition (permanent teeth) in humans, which are responsible for mastication and aesthetics throughout adult life.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_2_concept_4_chunk_009"
+}

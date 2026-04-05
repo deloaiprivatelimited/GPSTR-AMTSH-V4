@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಕರ್ಣ ಎಂದರೇನು?",
+  "script": "ಈಗ ನಾವು ಚತುರ್ಭುಜದ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಭಾಗವಾದ 'ಕರ್ಣ'ದ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳೋಣ. ಕರ್ಣ ಎಂದರೆ ಏನು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವ ಮೊದಲು, ಚತುರ್ಭುಜದ ಮೂಲೆಗಳನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ABCD ಎಂಬ ಒಂದು ಚತುರ್ಭುಜವಿದೆ. ಇದಕ್ಕೆ A, B, C, ಮತ್ತು D ಎಂಬ ನಾಲ್ಕು ಮೂಲೆಗಳಿವೆ. ಇದರಲ್ಲಿ, A ಮತ್ತು C ಗಳು 'ಅಭಿಮುಖ ಮೂಲೆಗಳು' ಅಂದರೆ ಒಂದಕ್ಕೊಂದು ಎದುರಿರುವ ಮೂಲೆಗಳು. ಹಾಗೆಯೇ, B ಮತ್ತು D ಇನ್ನೊಂದು ಜೊತೆ ಅಭಿಮುಖ ಮೂಲೆಗಳು. ಈ ಅಭಿಮುಖ ಮೂಲೆಗಳ ಪರಿಕಲ್ಪನೆ ಕರ್ಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ನಾವು ಚತುರ್ಭುಜದ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಭಾಗವಾದ 'ಕರ್ಣ' (Diagonal) ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳೋಣ. ಕರ್ಣ ಎಂದರೆ ಏನು ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವ ಮೊದಲು, ಚತುರ್ಭುಜದ ಮೂಲೆಗಳನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ $ABCD$ ಎಂಬ ಒಂದು ಚತುರ್ಭುಜವಿದೆ. ಇದಕ್ಕೆ $A, B, C$, ಮತ್ತು $D$ ಎಂಬ ನಾಲ್ಕು ಮೂಲೆಗಳಿವೆ. ಇದರಲ್ಲಿ, $A$ ಮತ್ತು $C$ ಗಳು 'ಅಭಿಮುಖ ಮೂಲೆಗಳು' (opposite vertices) ಅಂದರೆ ಒಂದಕ್ಕೊಂದು ಎದುರಿರುವ ಮೂಲೆಗಳು. ಹಾಗೆಯೇ, $B$ ಮತ್ತು $D$ ಇನ್ನೊಂದು ಜೊತೆ ಅಭಿಮುಖ ಮೂಲೆಗಳು. ಈ ಅಭಿಮುಖ ಮೂಲೆಗಳ ಪರಿಕಲ್ಪನೆ ಕರ್ಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಚತುರ್ಭುಜವು ನಾಲ್ಕು ಮೂಲೆಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ (ಉದಾ: $A, B, C, D$).",
+    "ಅಭಿಮುಖ ಮೂಲೆಗಳು: ಒಂದಕ್ಕೊಂದು ಎದುರಿರುವ ಮೂಲೆಗಳು.",
+    "ಉದಾಹರಣೆಗೆ: $A$ ಮತ್ತು $C$ ಒಂದು ಜೊತೆ; $B$ ಮತ್ತು $D$ ಇನ್ನೊಂದು ಜೊತೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple convex quadrilateral labeled ABCD counter-clockwise. The vertices A and C are highlighted in one color, and B and D are highlighted in another color to show opposite pairs.",
+    "labels": "Vertices A, B, C, D. Opposite vertices A & C. Opposite vertices B & D.",
+    "mathematical_significance": "Visualizing the concept of vertices and opposite vertices, which is a prerequisite for understanding diagonals.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "VIS-CON-1_concept_2_chunk_012"
+}

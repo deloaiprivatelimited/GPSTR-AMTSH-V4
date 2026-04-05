@@ -1,0 +1,92 @@
+{
+  "module_id": "std_7_science_ch_9_concept_1",
+  "chapter_code": "std_7_chapter_9",
+  "voice": "Erinome",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:32:43",
+  "chunks": {
+    "004_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "5531ecb5864dc54268d90ca467667e32",
+      "wav_file": "004_classification_cont_0_2.wav",
+      "duration": 38.291,
+      "slide_title": "ವೃತ್ತೀಯ ಚಲನೆ",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 14:31:40"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "16a67c74bad93540296af4b933b3ef5a",
+      "wav_file": "001_intro_0.wav",
+      "duration": 60.491,
+      "slide_title": "ಚಲನೆಯ ವಿಧಗಳು",
+      "type": "chunk",
+      "script_words": 76,
+      "generated_at": "2026-04-02 14:31:43"
+    },
+    "002_classification_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "8e5c5a340f5e4de87c28a5cb9a0d105c",
+      "wav_file": "002_classification_0.wav",
+      "duration": 44.371,
+      "slide_title": "ಚಲನೆಯ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 14:31:45"
+    },
+    "005_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "33933fbeac84aa8522966a3c11bf1694",
+      "wav_file": "005_classification_cont_0_3.wav",
+      "duration": 46.131,
+      "slide_title": "ಆವರ್ತ ಚಲನೆ",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 14:31:45"
+    },
+    "003_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "a5c82bbcffe1bce2d6b0fedb1011c937",
+      "wav_file": "003_classification_cont_0_1.wav",
+      "duration": 39.891,
+      "slide_title": "ಸರಳರೇಖಾಗತ ಚಲನೆ",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 14:31:46"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "30086b2c855870fe6d1f37bb4d9b7256",
+      "wav_file": "007_recap_0.wav",
+      "duration": 41.131,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 48,
+      "generated_at": "2026-04-02 14:32:31"
+    },
+    "006_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Erinome",
+      "script_hash": "6b50466755117311ff4972d71b587454",
+      "wav_file": "006_classification_cont_0_4.wav",
+      "duration": 52.891,
+      "slide_title": "ಚಲನೆಗಳ ಸಂಯೋಜನೆ",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 14:32:43"
+    }
+  }
+}

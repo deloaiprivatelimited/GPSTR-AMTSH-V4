@@ -1,0 +1,81 @@
+{
+  "module_id": "std_7_chapter_2_concept_2",
+  "chapter_code": "std_7_chapter_2",
+  "voice": "Rasalgethi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:46:25",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "de9d01be14021d4edadcbb64de55144e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 21.051,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "script_words": 32,
+      "generated_at": "2026-04-02 13:41:18"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "20babf132295eee1bd3f162448c5e9fb",
+      "wav_file": "003_classification_0.wav",
+      "duration": 44.331,
+      "slide_title": "ಆಹಾರ ಸೇವನೆಯ ವಿವಿಧ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 13:41:33"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "1d06d526d5c213da231dca9aca5e939b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 56.931,
+      "slide_title": "ಪರಿಚಯ: ಆಹಾರ ಸೇವನೆಯ ವಿವಿಧ ವಿಧಾನಗಳು",
+      "type": "intro",
+      "script_words": 81,
+      "generated_at": "2026-04-02 13:41:42"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "9ee9aa6f19bafc16653f63fead4bb083",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 40.971,
+      "slide_title": "ವಿಧಾನಗಳು: ಹೀರುವುದು ಮತ್ತು ಜಗಿಯುವುದು",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:41:45"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "217f8d574e5a7b66525044c50f287f79",
+      "wav_file": "006_recap_0.wav",
+      "duration": 37.611,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:42:25"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "e35cd53ee78bf5c729ddb7cc5c1b0321",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 54.211,
+      "slide_title": "ವಿಧಾನಗಳು: ನುಂಗುವುದು, ಸೋಸುವುದು, ಹೆರೆಯುವುದು",
+      "type": "concept_explanation",
+      "script_words": 69,
+      "generated_at": "2026-04-02 13:46:25"
+    }
+  }
+}

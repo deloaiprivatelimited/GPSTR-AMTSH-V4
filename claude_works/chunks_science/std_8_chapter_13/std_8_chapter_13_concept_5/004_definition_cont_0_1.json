@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಚದುರುವಿಕೆ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?",
+  "script": "ಚದುರುವಿಕೆ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡೋಣ. ಒಂದು ಗಾಜಿನ ಪಟ್ಟಕ, ಅಂದರೆ ಪ್ರಿಸಂ, ತೆಗೆದುಕೊಂಡು ಅದರ ಮೂಲಕ ಬಿಳಿ ಬೆಳಕಿನ ಒಂದು ಸಣ್ಣ ಕಿರಣವನ್ನು ಹಾಯಿಸಿದಾಗ, ಆ ಬೆಳಕು ತನ್ನ ಘಟಕ ಬಣ್ಣಗಳಾಗಿ ವಿಭಜನೆಯಾಗುತ್ತದೆ. ಈ ರೀತಿ ಬೇರ್ಪಟ್ಟ ಬಣ್ಣಗಳ ಪಟ್ಟಿಯನ್ನು 'ವರ್ಣಪಟಲ' ಅಥವಾ ಸ್ಪೆಕ್ಟ್ರಮ್ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈ ವರ್ಣಪಟಲದಲ್ಲಿ ಏಳು ಬಣ್ಣಗಳು ಒಂದು ನಿರ್ದಿಷ್ಟ ಕ್ರಮದಲ್ಲಿರುತ್ತವೆ. ಅವುಗಳೆಂದರೆ: ನೇರಳೆ, ಇಂಡಿಗೊ, ನೀಲಿ, ಹಸಿರು, ಹಳದಿ, ಕಿತ್ತಳೆ ಮತ್ತು ಕೆಂಪು. ಇದನ್ನು ನೆನಪಿಡಲು ನಾವು ವಿಬ್ಗಯಾರ್ ಎಂದು ಹೇಳುತ್ತೇವೆ.",
+  "script_display": "ಚದುರುವಿಕೆ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡೋಣ. ಒಂದು ಗಾಜಿನ ಪಟ್ಟಕ (prism) ತೆಗೆದುಕೊಂಡು ಅದರ ಮೂಲಕ ಬಿಳಿ ಬೆಳಕಿನ ಒಂದು ಸಣ್ಣ ಕಿರಣವನ್ನು ಹಾಯಿಸಿದಾಗ, ಆ ಬೆಳಕು ತನ್ನ ಘಟಕ ಬಣ್ಣಗಳಾಗಿ ವಿಭಜನೆಯಾಗುತ್ತದೆ. ಈ ರೀತಿ ಬೇರ್ಪಟ್ಟ ಬಣ್ಣಗಳ ಪಟ್ಟಿಯನ್ನು 'ವರ್ಣಪಟಲ' (spectrum) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈ ವರ್ಣಪಟಲದಲ್ಲಿ ಏಳು ಬಣ್ಣಗಳು ಒಂದು ನಿರ್ದಿಷ್ಟ ಕ್ರಮದಲ್ಲಿರುತ್ತವೆ. ಅವುಗಳೆಂದರೆ: ನೇರಳೆ, ಇಂಡಿಗೊ, ನೀಲಿ, ಹಸಿರು, ಹಳದಿ, ಕಿತ್ತಳೆ ಮತ್ತು ಕೆಂಪು (VIBGYOR).",
+  "display_bullets": [
+    "ಒಂದು ಪಟ್ಟಕದ (prism) ಮೂಲಕ ಬಿಳಿ ಬೆಳಕಿನ ಕಿರಣವನ್ನು ಹಾಯಿಸಿದಾಗ, ಅದು ತನ್ನ ಘಟಕ ಬಣ್ಣಗಳಾಗಿ ವಿಭಜನೆಯಾಗುತ್ತದೆ.",
+    "ಈ ಬಣ್ಣಗಳ ಪಟ್ಟಿಯನ್ನು 'ವರ್ಣಪಟಲ' (spectrum) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+    "ವರ್ಣಪಟಲದಲ್ಲಿನ ಬಣ್ಣಗಳು: ನೇರಳೆ, ಇಂಡಿಗೊ, ನೀಲಿ, ಹಸಿರು, ಹಳದಿ, ಕಿತ್ತಳೆ ಮತ್ತು ಕೆಂಪು (VIBGYOR)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_basic",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beam of white light enters a glass prism from the left. Inside the prism, the light splits and exits on the right as a spectrum of seven colors (VIBGYOR), with red on top and violet at the bottom.",
+    "labels": "White Light, Prism, Spectrum, Red, Violet",
+    "scientific_significance": "Illustrates the phenomenon of dispersion of light, showing how a prism separates white light into its constituent colors due to different wavelengths bending at slightly different angles.",
+    "placeholder_note": "Image to be generated showing dispersion through a prism."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_13_concept_5_chunk_004"
+}

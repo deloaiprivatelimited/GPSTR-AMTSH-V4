@@ -1,0 +1,92 @@
+{
+  "module_id": "std_8_chapter_4_concept_4",
+  "chapter_code": "std_8_chapter_4",
+  "voice": "Vindemiatrix",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:56:31",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "1803138b357121f3405974820319c707",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 27.571,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "chunk",
+      "script_words": 37,
+      "generated_at": "2026-04-02 14:55:18"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "b910494a9a2465ac39408e6a81fde968",
+      "wav_file": "001_intro_0.wav",
+      "duration": 44.811,
+      "slide_title": "ದಹನದ ವಿಧಗಳು",
+      "type": "chunk",
+      "script_words": 79,
+      "generated_at": "2026-04-02 14:55:29"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "c879c77a8bf2b0cb9516bf6ce1ac1835",
+      "wav_file": "003_classification_0.wav",
+      "duration": 44.131,
+      "slide_title": "ದಹನದ ವಿಧಗಳು: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 14:55:43"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "e292f971b560c9814e045b4bf4294569",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 53.211,
+      "slide_title": "ಸ್ವಯಂಪ್ರೇರಿತ ದಹನ (Spontaneous Combustion)",
+      "type": "concept_explanation",
+      "script_words": 69,
+      "generated_at": "2026-04-02 14:55:47"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "22567ee3266b62bc85cfea869c3509bd",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 50.771,
+      "slide_title": "ಕ್ಷಿಪ್ರ ದಹನ (Rapid Combustion)",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-04-02 14:56:05"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "1af5d63c94b20e8f4fb357c6fe82d969",
+      "wav_file": "007_recap_0.wav",
+      "duration": 43.611,
+      "slide_title": "ಸಾರಾಂಶ: ದಹನದ ವಿಧಗಳು",
+      "type": "recap",
+      "script_words": 57,
+      "generated_at": "2026-04-02 14:56:28"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "8b0e1f46fb872dbe95264de2534ca0e5",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 48.731,
+      "slide_title": "ಸ್ಫೋಟ (Explosion)",
+      "type": "concept_explanation",
+      "script_words": 69,
+      "generated_at": "2026-04-02 14:56:31"
+    }
+  }
+}

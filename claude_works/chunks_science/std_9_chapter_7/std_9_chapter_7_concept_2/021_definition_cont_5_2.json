@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಸನ್ನಿವೇಶವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಒಂದು ಕಾರು ನಿಶ್ಚಲ ಸ್ಥಿತಿಯಿಂದ, ಅಂದರೆ ಅದರ ಆರಂಭಿಕ ವೇಗ ಯು ಈಕ್ವಲ್ಸ್ ಸೊನ್ನೆ ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್, ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಅದು ಏಕರೂಪವಾಗಿ ವೇಗೋತ್ಕರ್ಷಗೊಂಡು, ಅದರ ಅಂತಿಮ ವೇಗ ವಿ ಈಕ್ವಲ್ಸ್ ಹತ್ತು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಆಗುತ್ತದೆ. ಈಗ, ಅದರ ಸರಾಸರಿ ವೇಗವನ್ನು ನಮ್ಮ ಸೂತ್ರ ಬಳಸಿ ಕಂಡುಹಿಡಿಯೋಣ. ಲೆಕ್ಕಾಚಾರ ಹೀಗಿದೆ: ಸರಾಸರಿ ವೇಗ ಈಕ್ವಲ್ಸ್ ಸೊನ್ನೆ ಪ್ಲಸ್ ಹತ್ತು, ಭಾಗಿಸು ಎರಡು. ಇದು ನಮಗೆ ಐದು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಉತ್ತರವನ್ನು ನೀಡುತ್ತದೆ. ಇದರರ್ಥ, ಆ ಪ್ರಯಾಣದ ಸಮಯದಲ್ಲಿ, ಕಾರು ಸರಾಸರಿಯಾಗಿ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಐದು ಮೀಟರ್ ಚಲಿಸಿದೆ.",
+  "script_display": "ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಸನ್ನಿವೇಶವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ: ಒಂದು ಕಾರು ನಿಶ್ಚಲ ಸ್ಥಿತಿಯಿಂದ (u = 0 m/s) ಪ್ರಾರಂಭಿಸಿ ಏಕರೂಪವಾಗಿ ವೇಗೋತ್ಕರ್ಷಗೊಂಡು 10 m/s ವೇಗವನ್ನು (v = 10 m/s) ತಲುಪುತ್ತದೆ. ಈಗ, ಅದರ ಸರಾಸರಿ ವೇಗವನ್ನು ನಮ್ಮ ಸೂತ್ರ ಬಳಸಿ ಕಂಡುಹಿಡಿಯೋಣ. ಲೆಕ್ಕಾಚಾರ: $v_{av} = \\frac{0 + 10}{2} = 5 \\text{ m/s}$. ಇದರರ್ಥ, ಆ ಪ್ರಯಾಣದ ಸಮಯದಲ್ಲಿ, ಕಾರು ಸರಾಸರಿಯಾಗಿ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ 5 ಮೀಟರ್ ಚಲಿಸಿದೆ.",
+  "display_bullets": [
+    "ಸನ್ನಿವೇಶ: ಒಂದು ಕಾರು ನಿಶ್ಚಲ ಸ್ಥಿತಿಯಿಂದ (u = 0 m/s) ಪ್ರಾರಂಭಿಸಿ ಏಕರೂಪವಾಗಿ ವೇಗೋತ್ಕರ್ಷಗೊಂಡು 10 m/s ವೇಗವನ್ನು (v = 10 m/s) ತಲುಪುತ್ತದೆ.",
+    "ಸೂತ್ರ: $v_{av} = \\frac{u + v}{2}$",
+    "ಲೆಕ್ಕಾಚಾರ: $v_{av} = \\frac{0 + 10}{2} = 5 \\text{ m/s}$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a car's journey. On the left, the car is at the starting point with a label 'ಆರಂಭ: u = 0 m/s'. An arrow points to the right, where the same car is shown at the end point with a label 'ಅಂತ್ಯ: v = 10 m/s'. The arrow is labeled 'ಏಕರೂಪ ವೇಗೋತ್ಕರ್ಷ' (Uniform Acceleration).",
+    "labels": "Car, Start point, End point, Initial velocity, Final velocity, Uniform acceleration arrow",
+    "scientific_significance": "Illustrates a scenario of uniform acceleration, which is the condition for using the arithmetic mean formula for average velocity.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_7_concept_2_chunk_021"
+}

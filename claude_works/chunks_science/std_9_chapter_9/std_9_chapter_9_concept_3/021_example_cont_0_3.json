@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 (ಭಾಗ 1)",
+  "script": "ಮೂರನೇ ಹಂತ, ಗಣಿತೀಯ ಲೆಕ್ಕಾಚಾರ. ಮೊದಲು ಅಂಶವನ್ನು, ಅಂದರೆ ಮೇಲ್ಭಾಗವನ್ನು, ಸರಳೀಕರಿಸೋಣ. ಆರು ಪಾಯಿಂಟ್ ಏಳು ಗುಣಿಸು ಆರು ಮಾಡಿದಾಗ ನಲವತ್ತು ಪಾಯಿಂಟ್ ಎರಡು ಬರುತ್ತದೆ. ಘಾತಗಳನ್ನು ನೋಡಿದಾಗ, ಹತ್ತರ ಘಾತ ಮೈನಸ್ ಹನ್ನೊಂದು ಮತ್ತು ಹತ್ತರ ಘಾತ ಇಪ್ಪತ್ನಾಲ್ಕು, ಇವುಗಳನ್ನು ಕೂಡಿಸಿದರೆ ಹತ್ತರ ಘಾತ ಹದಿಮೂರು ಆಗುತ್ತದೆ. ಹಾಗಾಗಿ ಅಂಶವು ನಲವತ್ತು ಪಾಯಿಂಟ್ ಎರಡು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಹದಿಮೂರು ಆಗುತ್ತದೆ.",
+  "script_display": "ಮೂರನೇ ಹಂತ, ಗಣಿತೀಯ ಲೆಕ್ಕಾಚಾರ.\n\n**ಹಂತ 3: ಗಣಿತೀಯ ಲೆಕ್ಕಾಚಾರ**\n\n1.  **ಅಂಶ (Numerator):**\n    $(6.7 \\times 10^{-11}) \\times (6 \\times 10^{24}) = (6.7 \\times 6) \\times 10^{-11+24} = 40.2 \\times 10^{13}$",
+  "display_bullets": [
+    "ಹಂತ 3: ಗಣಿತೀಯ ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+    "ಅಂಶವನ್ನು (Numerator) ಲೆಕ್ಕ ಹಾಕಿ: $40.2 \\times 10^{13}$"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "g = \\frac{40.2 \\times 10^{13}}{(6.4 \\times 10^6)^2}",
+    "placeholder_note": "Calculation showing numerator simplification"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_9_example_calc_g",
+  "chunk_id": "std_9_chapter_9_concept_3_chunk_021"
+}

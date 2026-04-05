@@ -1,0 +1,37 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರದ ನಿಷ್ಪತ್ತಿ (Derivation)",
+  "script": "ಈ ಸೂತ್ರವು ಹೇಗೆ ಬರುತ್ತದೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇದು ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಯಾವುದೇ ಚತುರ್ಭುಜವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ, ಉದಾಹರಣೆಗೆ ಎಬಿಸಿಡಿ. ನಾವು ಎಸಿ ಎಂಬ ಒಂದು ಕರ್ಣವನ್ನು ಎಳೆದಾಗ, ಆ ಚತುರ್ಭುಜವು ಎರಡು ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಜನೆಯಾಗುತ್ತದೆ: ತ್ರಿಭುಜ ಎಬಿಸಿ ಮತ್ತು ತ್ರಿಭುಜ ಎಡಿಸಿ. ಚತುರ್ಭುಜದ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವು ಈ ಎರಡು ತ್ರಿಭುಜಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ, ಅಂದರೆ ಒಂದು ಬೈ ಎರಡು ಇಂಟು ಪಾದ ಇಂಟು ಎತ್ತರ, ನಮಗೆ ತಿಳಿದಿದೆ. ಮೊದಲ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ ಒಂದು ಬೈ ಎರಡು ಇಂಟು ಡಿ ಇಂಟು ಎಚ್ ಒನ್ ಆಗುತ್ತದೆ. ಎರಡನೇ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ ಒಂದು ಬೈ ಎರಡು ಇಂಟು ಡಿ ಇಂಟು ಎಚ್ ಟೂ ಆಗುತ್ತದೆ. ಇವೆರಡನ್ನೂ ಕೂಡಿದಾಗ, ಮತ್ತು ಒಂದು ಬೈ ಎರಡು ಇಂಟು ಡಿ ಯನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ತೆಗೆದಾಗ, ನಮಗೆ ಎ ಈಕ್ವಲ್ಸ್ ಒಂದು ಬೈ ಎರಡು ಇಂಟು ಡಿ ಇಂಟು ಎಚ್ ಒನ್ ಪ್ಲಸ್ ಎಚ್ ಟೂ ಎಂಬ ಅಂತಿಮ ಸೂತ್ರ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈ ಸೂತ್ರವು ಹೇಗೆ ಬರುತ್ತದೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇದು ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಯಾವುದೇ ಚತುರ್ಭುಜವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ, ಉದಾಹರಣೆಗೆ ABCD. ನಾವು AC ಎಂಬ ಒಂದು ಕರ್ಣವನ್ನು ($d$) ಎಳೆದಾಗ, ಆ ಚತುರ್ಭುಜವು ಎರಡು ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಜನೆಯಾಗುತ್ತದೆ: $\\triangle ABC$ ಮತ್ತು $\\triangle ADC$. ಚತುರ್ಭುಜದ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವು ಈ ಎರಡು ತ್ರಿಭುಜಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ, ಅಂದರೆ $\\frac{1}{2} \\times \\text{ಪಾದ} \\times \\text{ಎತ್ತರ}$, ನಮಗೆ ತಿಳಿದಿದೆ. ಮೊದಲ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ $\\frac{1}{2} \\times d \\times h_1$ ಆಗುತ್ತದೆ. ಎರಡನೇ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ $\\frac{1}{2} \\times d \\times h_2$ ಆಗುತ್ತದೆ. ಇವೆರಡನ್ನೂ ಕೂಡಿದಾಗ, ಮತ್ತು $\\frac{1}{2}d$ ಯನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ತೆಗೆದಾಗ, ನಮಗೆ $A = \\frac{1}{2} d (h_1 + h_2)$ ಎಂಬ ಅಂತಿಮ ಸೂತ್ರ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಕರ್ಣವು ($d$) ಚತುರ್ಭುಜವನ್ನು ಎರಡು ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ.",
+    "ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ = ತ್ರಿಭುಜ 1ರ ವಿಸ್ತೀರ್ಣ + ತ್ರಿಭುಜ 2ರ ವಿಸ್ತೀರ್ಣ.",
+    "ವಿಸ್ತೀರ್ಣ = $(\\frac{1}{2} \\times d \\times h_1) + (\\frac{1}{2} \\times d \\times h_2)$",
+    "ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು ($1/2 \\times d$) ತೆಗೆದಾಗ, ನಾವು $A = \\frac{1}{2} d (h_1 + h_2)$ ಸೂತ್ರವನ್ನು ಪಡೆಯುತ್ತೇವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A general quadrilateral ABCD with diagonal AC. Perpendiculars are drawn from vertices B and D to the diagonal AC, labeled as h₁ and h₂ respectively. The length of the diagonal AC is labeled as d.",
+    "labels": "A, B, C, D, d, h₁, h₂",
+    "mathematical_significance": "Illustrates the division of a quadrilateral into two triangles by a diagonal, which is the basis for deriving the area formula.",
+    "placeholder_note": "Image to be generated showing a quadrilateral split into two triangles by a diagonal, with heights h1 and h2 shown."
+  },
+  "chunk_id": "MEN-MEN-2_concept_1_chunk_025"
+}

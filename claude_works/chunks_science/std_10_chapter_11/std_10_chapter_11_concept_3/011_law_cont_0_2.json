@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಗಣಿತೀಯ ರೂಪ ಮತ್ತು ಸೂತ್ರ",
+  "script": "ಈಗ ಓಮ್‌ನ ನಿಯಮದ ಗಣಿತೀಯ ರೂಪವನ್ನು ನೋಡೋಣ. ವಿಭವಾಂತರ V ಮತ್ತು ವಿದ್ಯುತ್ ಪ್ರವಾಹ I ನಡುವಿನ ನೇರ ಅನುಪಾತವನ್ನು ನಾವು V ಅನುಪಾತ I ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಈ ಅನುಪಾತದ ಸಂಬಂಧವನ್ನು ಸಮೀಕರಣವಾಗಿ ಪರಿವರ್ತಿಸಲು, ನಾವು ಒಂದು ಸ್ಥಿರಾಂಕವನ್ನು ಬಳಸುತ್ತೇವೆ. ಆ ಸ್ಥಿರಾಂಕವೇ ವಾಹಕದ ರೋಧ, ಇದನ್ನು R ಅಕ್ಷರದಿಂದ ಸೂಚಿಸುತ್ತೇವೆ. ಹೀಗಾಗಿ, ನಮಗೆ ಓಮ್‌ನ ನಿಯಮದ ಪ್ರಸಿದ್ಧ ಸೂತ್ರ V equals I times R ಸಿಗುತ್ತದೆ. ಇಲ್ಲಿ V ಎಂದರೆ ವೋಲ್ಟೇಜ್, I ಎಂದರೆ ಕರೆಂಟ್, ಮತ್ತು R ಎಂದರೆ ರೋಧ ಅಥವಾ ರೆಸಿಸ್ಟೆನ್ಸ್.",
+  "script_display": "ಈಗ ಓಮ್‌ನ ನಿಯಮದ ಗಣಿತೀಯ ರೂಪವನ್ನು ನೋಡೋಣ. ವಿಭವಾಂತರ (V) ಮತ್ತು ವಿದ್ಯುತ್ ಪ್ರವಾಹ (I) ನಡುವಿನ ನೇರ ಅನುಪಾತವನ್ನು ನಾವು ಹೀಗೆ ಬರೆಯುತ್ತೇವೆ:\n\nV ∝ I\n\nಈ ಅನುಪಾತದ ಸಂಬಂಧವನ್ನು ಸಮೀಕರಣವಾಗಿ ಪರಿವರ್ತಿಸಲು, ನಾವು ಒಂದು ಸ್ಥಿರಾಂಕವನ್ನು (R) ಬಳಸುತ್ತೇವೆ. ಆ ಸ್ಥಿರಾಂಕವೇ ವಾಹಕದ ರೋಧ (Resistance).\n\nV = IR",
+  "display_bullets": [
+    "ವಿಭವಾಂತರ (V) ಮತ್ತು ಪ್ರವಾಹ (I) ನೇರ ಅನುಪಾತದಲ್ಲಿವೆ: V ∝ I",
+    "ಅನುಪಾತದ ಸ್ಥಿರಾಂಕವೇ ರೋಧ (Resistance), R.",
+    "ಓಮ್‌ನ ನಿಯಮದ ಸೂತ್ರ: V = IR"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_and_explanation",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "V = IR",
+    "placeholder_note": "Display the formula V = IR prominently."
+  },
+  "chunk_id": "std_10_chapter_11_concept_3_chunk_011"
+}

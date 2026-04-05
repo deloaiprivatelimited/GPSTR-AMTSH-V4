@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಇದರ ಬೆಲೆ ಕಂಡು ಹಿಡಿಯಿರಿ: ಏಳನೇ ಮೂರು ಪ್ಲಸ್ ಮೈನಸ್ ಹನ್ನೊಂದನೇ ಆರು ಪ್ಲಸ್ ಮೈನಸ್ ಇಪ್ಪತ್ತೊಂದನೇ ಎಂಟು ಪ್ಲಸ್ ಇಪ್ಪತ್ತೆರಡನೇ ಐದು. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಸಂಕಲನದ ಪರಿವರ್ತನೀಯ ಮತ್ತು ಸಹವರ್ತನೀಯ ಗುಣಗಳನ್ನು ಬಳಸಿ ಲೆಕ್ಕಾಚಾರವನ್ನು ಸುಲಭಗೊಳಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಇದರ ಬೆಲೆ ಕಂಡು ಹಿಡಿಯಿರಿ: $\\frac{3}{7} + \\left(\\frac{-6}{11}\\right) + \\left(\\frac{-8}{21}\\right) + \\left(\\frac{5}{22}\\right)$. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಸಂಕಲನದ ಪರಿವರ್ತನೀಯ ಮತ್ತು ಸಹವರ್ತನೀಯ ಗುಣಗಳನ್ನು ಬಳಸಿ ಲೆಕ್ಕಾಚಾರವನ್ನು ಸುಲಭಗೊಳಿಸಬೇಕು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಇದರ ಬೆಲೆ ಕಂಡು ಹಿಡಿಯಿರಿ:}\\\\ \\frac{3}{7} + \\left(\\frac{-6}{11}\\right) + \\left(\\frac{-8}{21}\\right) + \\left(\\frac{5}{22}\\right)",
+    "placeholder_note": "Problem statement displayed in a formula box"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-RAT-2_example_6",
+  "chunk_id": "NS-RAT-2_concept_4_chunk_028"
+}

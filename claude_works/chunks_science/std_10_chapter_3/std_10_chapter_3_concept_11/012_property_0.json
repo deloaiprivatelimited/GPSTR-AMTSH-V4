@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಲೋಹಗಳ ಸಂಕ್ಷಾರಣ: ಉದಾಹರಣೆಗಳು",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ಕಬ್ಬಿಣದ ಸಂಕ್ಷಾರಣವನ್ನು ನೋಡೋಣ. ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ತುಕ್ಕು ಹಿಡಿಯುವುದು ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಕಬ್ಬಿಣದ ವಸ್ತುಗಳನ್ನು ತೇವವಿರುವ ಗಾಳಿಗೆ ತೆರೆದಿಟ್ಟಾಗ, ಅವು ಗಾಳಿಯಲ್ಲಿನ ಆಕ್ಸಿಜನ್ ಮತ್ತು ನೀರಿನೊಂದಿಗೆ ವರ್ತಿಸುತ್ತವೆ. ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ, ಕಬ್ಬಿಣದ ಮೇಲೆ ಕಂದು ಬಣ್ಣದ, ಪುಡಿಯಂತಹ ಪದರವೊಂದು ಉಂಟಾಗುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ತುಕ್ಕು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರ ರಾಸಾಯನಿಕ ಹೆಸರು ಹೈಡ್ರೇಟೆಡ್ ಐರನ್ ಆಕ್ಸೈಡ್. ಉದಾಹರಣೆಗೆ, ಮಳೆಗಾಲದಲ್ಲಿ ಹೊರಗಿಟ್ಟ ಕಬ್ಬಿಣದ ಗೇಟುಗಳು ಅಥವಾ ಮೊಳೆಗಳು ತುಕ್ಕು ಹಿಡಿಯುವುದನ್ನು ನೀವು ನೋಡಿರಬಹುದು.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ಕಬ್ಬಿಣದ ಸಂಕ್ಷಾರಣವನ್ನು ನೋಡೋಣ. ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ತುಕ್ಕು ಹಿಡಿಯುವುದು (Rusting) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಕಬ್ಬಿಣದ ವಸ್ತುಗಳನ್ನು ತೇವವಿರುವ ಗಾಳಿಗೆ (ಆಕ್ಸಿಜನ್ ಮತ್ತು ನೀರು) ತೆರೆದಿಟ್ಟಾಗ, ಅವುಗಳ ಮೇಲೆ ಕಂದು ಬಣ್ಣದ, ಪುಡಿಯಂತಹ ಪದರವೊಂದು ಉಂಟಾಗುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ತುಕ್ಕು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರ ರಾಸಾಯನಿಕ ಸೂತ್ರ Fe₂O₃.xH₂O (ಹೈಡ್ರೇಟೆಡ್ ಐರನ್(III) ಆಕ್ಸೈಡ್). ಉದಾಹರಣೆಗೆ, ಮಳೆಗಾಲದಲ್ಲಿ ಹೊರಗಿಟ್ಟ ಕಬ್ಬಿಣದ ಗೇಟುಗಳು ಅಥವಾ ಮೊಳೆಗಳು ತುಕ್ಕು ಹಿಡಿಯುವುದು.",
+  "display_bullets": [
+    "ಕಬ್ಬಿಣ: ತೇವಯುಕ್ತ ಗಾಳಿಯಲ್ಲಿ ಕಂದು ಬಣ್ಣದ ತುಕ್ಕು (Fe₂O₃.xH₂O) ಹಿಡಿಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up image of a rusted iron chain, showing the flaky, reddish-brown texture of rust.",
+    "labels": "ಕಬ್ಬಿಣದ ಸರಪಳಿ, ತುಕ್ಕು (ಕಂದು ಪದರ)",
+    "scientific_significance": "Illustrates the real-world appearance of iron corrosion (rusting).",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_11_chunk_012"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಖನಿಜಗಳಿಗೆ ಉದಾಹರಣೆಗಳು",
+  "script": "ಈಗ ಖನಿಜಗಳಿಗೆ ಕೆಲವು ವಾಸ್ತವಿಕ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ, ಇದರಿಂದ ನಿಮಗೆ ಈ ಪರಿಕಲ್ಪನೆ ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ನೀವು ಮರಳಿನಲ್ಲಿ ನೋಡುವ ಹೊಳೆಯುವ ಕಣಗಳಾದ ಕ್ವಾರ್ಟ್ಜ್, ಒಂದು ಸಾಮಾನ್ಯ ಖನಿಜ. ಇದರ ರಾಸಾಯನಿಕ ಸೂತ್ರ ಎಸ್ ಐ ಓ ಟು. ಇನ್ನೊಂದು ಉದಾಹರಣೆ, ಹೆಮಟೈಟ್. ಇದು ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್ ಆಗಿದ್ದು, ಇದರ ಸೂತ್ರ ಎಫ್ ಇ ಟು ಓ ಥ್ರೀ. ಇದರಿಂದಲೇ ನಾವು ಹೆಚ್ಚಾಗಿ ಕಬ್ಬಿಣವನ್ನು ಪಡೆಯುತ್ತೇವೆ. ಹಾಗೆಯೇ, ಅಲ್ಯೂಮಿನಿಯಂ ಅನ್ನು ಬಾಕ್ಸೈಟ್ ಎಂಬ ಖನಿಜದಿಂದ ಹೊರತೆಗೆಯಲಾಗುತ್ತದೆ. ಇದರ ಸೂತ್ರ ಎ ಎಲ್ ಟು ಓ ಥ್ರೀ ಡಾಟ್ ಟು ಎಚ್ ಟು ಓ.",
+  "script_display": "ಈಗ ಖನಿಜಗಳಿಗೆ ಕೆಲವು ವಾಸ್ತವಿಕ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ, ಇದರಿಂದ ನಿಮಗೆ ಈ ಪರಿಕಲ್ಪನೆ ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ನೀವು ಮರಳಿನಲ್ಲಿ ನೋಡುವ ಹೊಳೆಯುವ ಕಣಗಳಾದ ಕ್ವಾರ್ಟ್ಜ್, ಒಂದು ಸಾಮಾನ್ಯ ಖನಿಜ. ಇದರ ರಾಸಾಯನಿಕ ಸೂತ್ರ SiO₂. ಇನ್ನೊಂದು ಉದಾಹರಣೆ, ಹೆಮಟೈಟ್. ಇದು ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್ ಆಗಿದ್ದು, ಇದರ ಸೂತ್ರ Fe₂O₃. ಇದರಿಂದಲೇ ನಾವು ಹೆಚ್ಚಾಗಿ ಕಬ್ಬಿಣವನ್ನು ಪಡೆಯುತ್ತೇವೆ. ಹಾಗೆಯೇ, ಅಲ್ಯೂಮಿನಿಯಂ ಅನ್ನು ಬಾಕ್ಸೈಟ್ ಎಂಬ ಖನಿಜದಿಂದ ಹೊರತೆಗೆಯಲಾಗುತ್ತದೆ. ಇದರ ಸೂತ್ರ Al₂O₃·2H₂O.",
+  "display_bullets": [
+    "**ಕ್ವಾರ್ಟ್ಜ್ (Quartz):** ಮರಳಿನಲ್ಲಿ ಕಂಡುಬರುವ ಸಿಲಿಕಾನ್ ಡೈಆಕ್ಸೈಡ್ (SiO₂).",
+    "**ಹೆಮಟೈಟ್ (Hematite):** ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್ (Fe₂O₃), ಕಬ್ಬಿಣದ ಪ್ರಮುಖ ಮೂಲ.",
+    "**ಬಾಕ್ಸೈಟ್ (Bauxite):** ಅಲ್ಯೂಮಿನಿಯಂನ ಪ್ರಮುಖ ಖನಿಜ (Al₂O₃·2H₂O)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A composite image showing three distinct minerals side-by-side. 1. A clear or milky quartz crystal. 2. A reddish-brown, earthy piece of hematite. 3. A lumpy, clay-like piece of bauxite, typically whitish, greyish, or reddish brown.",
+    "labels": "ಕ್ವಾರ್ಟ್ಜ್ (Quartz), ಹೆಮಟೈಟ್ (Hematite), ಬಾಕ್ಸೈಟ್ (Bauxite)",
+    "scientific_significance": "Shows visual examples of common minerals discussed in the lesson.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_3_concept_8_chunk_004"
+}

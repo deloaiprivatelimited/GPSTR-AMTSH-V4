@@ -1,0 +1,101 @@
+{
+  "module_id": "std_6_chapter_10_concept_2",
+  "chapter_code": "std_6_chapter_10",
+  "voice": "Kore",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 356.728,
+  "total_duration_formatted": "5:56",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_10_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಬೀಜ ಮೊಳೆಯುವಿಕೆಗೆ ಅಗತ್ಯವಾದ ಪರಿಸ್ಥಿತಿಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 50.931,
+      "duration": 50.931,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 51.531,
+      "end": 70.902,
+      "duration": 19.371,
+      "script_words": 30
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_2_chunk_003",
+      "chunk_file": "003_experiment_0.json",
+      "wav_file": "003_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ: ಪ್ರಾಯೋಗಿಕ ಜೋಡಣೆ",
+      "type": "experiment_activity",
+      "start": 71.502,
+      "end": 118.673,
+      "duration": 47.171,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_2_chunk_004",
+      "chunk_file": "004_experiment_cont_0_1.json",
+      "wav_file": "004_experiment_cont_0_1.wav",
+      "slide_title": "ವಿಧಾನ: ಮಡಕೆ A ಮತ್ತು B",
+      "type": "experiment_activity",
+      "start": 119.273,
+      "end": 164.804,
+      "duration": 45.531,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_2_chunk_005",
+      "chunk_file": "005_experiment_cont_0_2.json",
+      "wav_file": "005_experiment_cont_0_2.wav",
+      "slide_title": "ವಿಧಾನ: ಮಡಕೆ C ಮತ್ತು D",
+      "type": "experiment_activity",
+      "start": 165.404,
+      "end": 209.975,
+      "duration": 44.571,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_2_chunk_006",
+      "chunk_file": "006_experiment_cont_0_3.json",
+      "wav_file": "006_experiment_cont_0_3.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ: ಕೆಲವು ದಿನಗಳ ನಂತರ",
+      "type": "experiment_activity",
+      "start": 210.575,
+      "end": 262.986,
+      "duration": 52.411,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_2_chunk_007",
+      "chunk_file": "007_experiment_cont_0_4.json",
+      "wav_file": "007_experiment_cont_0_4.wav",
+      "slide_title": "ತೀರ್ಮಾನ: ಮೊಳಕೆಯೊಡೆಯಲು ಏನು ಬೇಕು?",
+      "type": "experiment_activity",
+      "start": 263.586,
+      "end": 314.597,
+      "duration": 51.011,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_10_concept_2_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 315.197,
+      "end": 356.128,
+      "duration": 40.931,
+      "script_words": 50
+    }
+  ]
+}

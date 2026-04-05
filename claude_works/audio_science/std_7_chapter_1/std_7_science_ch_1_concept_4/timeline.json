@@ -1,0 +1,101 @@
+{
+  "module_id": "std_7_science_ch_1_concept_4",
+  "chapter_code": "std_7_chapter_1",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 428.408,
+  "total_duration_formatted": "7:08",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_science_ch_1_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಮಣ್ಣಿನಲ್ಲಿ ಪೋಷಕಗಳ ಪುನಃಪೂರಣ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 55.731,
+      "duration": 55.731,
+      "script_words": 76
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 56.331,
+      "end": 98.222,
+      "duration": 41.891,
+      "script_words": 40
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_4_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ಸಮಸ್ಯೆ: ಸಸ್ಯಗಳಿಗೆ ನೈಟ್ರೋಜನ್ ಏಕೆ ಬೇಕು?",
+      "type": "definition",
+      "start": 98.822,
+      "end": 145.713,
+      "duration": 46.891,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_4_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ನೈಟ್ರೋಜನ್ ಸ್ಥಿರೀಕರಣ",
+      "type": "definition",
+      "start": 146.313,
+      "end": 189.764,
+      "duration": 43.451,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_4_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ನೈಸರ್ಗಿಕ ಕಾರ್ಯವಿಧಾನ: ರೈಜೋಬಿಯಂ ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+      "type": "definition",
+      "start": 190.364,
+      "end": 249.615,
+      "duration": 59.251,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_4_chunk_006",
+      "chunk_file": "006_definition_cont_0_3.json",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "slide_title": "ಹೋಲಿಕೆ: ಬಳಸಲಾಗದ ಮತ್ತು ಬಳಸಬಲ್ಲ ರೂಪ",
+      "type": "definition",
+      "start": 250.215,
+      "end": 305.546,
+      "duration": 55.331,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_4_chunk_007",
+      "chunk_file": "007_property_0.json",
+      "wav_file": "007_property_0.wav",
+      "slide_title": "ಮಣ್ಣಿನಲ್ಲಿ ಪೋಷಕಾಂಶಗಳ ಪುನಃಪೂರಣದ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "start": 306.146,
+      "end": 378.357,
+      "duration": 72.211,
+      "script_words": 88
+    },
+    {
+      "chunk_id": "std_7_science_ch_1_concept_4_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "start": 378.957,
+      "end": 427.808,
+      "duration": 48.851,
+      "script_words": 59
+    }
+  ]
+}

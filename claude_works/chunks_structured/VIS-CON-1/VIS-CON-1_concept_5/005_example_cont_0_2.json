@@ -1,0 +1,51 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 2",
+  "script": "ಈಗ ಮುಂದಿನ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು A ಬಿಂದುವನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ಈ ಎರಡೂ ಕಂಸಗಳು ಛೇದಿಸುವ ಬಿಂದುವೇ ನಮಗೆ ಬೇಕಾದ A ಬಿಂದು. ಏಕೆಂದರೆ ಈ ಛೇದನ ಬಿಂದುವು ಎರಡೂ ಕಂಸಗಳ ಮೇಲೆ ಇರುವುದರಿಂದ, ಅದು B ಮತ್ತು C ಎರಡರಿಂದಲೂ ಸಮದೂರದಲ್ಲಿರುತ್ತದೆ. ಅದನ್ನು A ಎಂದು ಹೆಸರಿಸೋಣ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ತ್ರಿಭುಜವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು A ಮತ್ತು B, ಹಾಗೂ A ಮತ್ತು C ಯನ್ನು ಸರಳರೇಖೆಗಳಿಂದ ಸೇರಿಸುತ್ತೇವೆ. ಹೀಗೆ ಮಾಡುವುದರಿಂದ ABC ತ್ರಿಭುಜವು ಪೂರ್ಣಗೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಈಗ ಮುಂದಿನ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು A ಬಿಂದುವನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ಈ ಎರಡೂ ಕಂಸಗಳು ಛೇದಿಸುವ ಬಿಂದುವೇ ನಮಗೆ ಬೇಕಾದ A ಬಿಂದು. ಏಕೆಂದರೆ ಈ ಛೇದನ ಬಿಂದುವು ಎರಡೂ ಕಂಸಗಳ ಮೇಲೆ ಇರುವುದರಿಂದ, ಅದು B ಮತ್ತು C ಎರಡರಿಂದಲೂ ಸಮದೂರದಲ್ಲಿರುತ್ತದೆ. ಅದನ್ನು A ಎಂದು ಹೆಸರಿಸೋಣ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ತ್ರಿಭುಜವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು A ಮತ್ತು B, ಹಾಗೂ A ಮತ್ತು C ಯನ್ನು ಸರಳರೇಖೆಗಳಿಂದ ಸೇರಿಸುತ್ತೇವೆ. ಹೀಗೆ ಮಾಡುವುದರಿಂದ $\\triangle ABC$ ತ್ರಿಭುಜವು ಪೂರ್ಣಗೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಕಂಸಗಳ ಛೇದನ ಬಿಂದುವನ್ನು A ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ನಂತರ A ಯಿಂದ B ಗೆ ಮತ್ತು A ಯಿಂದ C ಗೆ ಸರಳರೇಖೆಗಳನ್ನು ಎಳೆದು ABC ತ್ರಿಭುಜವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, C",
+    "mathematical_significance": "ಛೇದನ ಬಿಂದುವು ಸಮಸ್ಯೆಯ ಪರಿಹಾರವಾಗಿದೆ. ರೇಖೆಗಳನ್ನು ಸೇರಿಸುವುದರಿಂದ ಅಂತಿಮ ಆಕೃತಿಯು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ.",
+    "placeholder_note": "Animation showing the intersection point being labeled 'A'. Then, a ruler is used to draw a line from A to B, and another line from A to C, completing the triangle."
+  },
+  "source_example_id": "VIS-CON-1_example_4",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಕಂಸಗಳು ಛೇದಿಸುವ ಬಿಂದುವನ್ನು A ಎಂದು ಹೆಸರಿಸಿ.",
+      "justification": "ಛೇದನ ಬಿಂದುವು ಎರಡೂ ಕಂಸಗಳ ಮೇಲಿರುವುದರಿಂದ, ಅದು B ಮತ್ತು C ಎರಡರಿಂದಲೂ ಸಮದೂರದಲ್ಲಿದೆ."
+    },
+    {
+      "step": 4,
+      "action_display": "AB ಮತ್ತು AC ಯನ್ನು ಸೇರಿಸಿ.",
+      "justification": "ತ್ರಿಭುಜ ABC ಯನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "VIS-CON-1_concept_5_chunk_005"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪೂರ್ಣಾಂಕಗಳು vs ಇತರ ಸಂಖ್ಯೆಗಳು",
+  "script": "ಯಾವುದೆಲ್ಲಾ ಸಂಖ್ಯೆಗಳು ಪೂರ್ಣಾಂಕಗಳು ಎಂದು ತಿಳಿದುಕೊಂಡ ನಂತರ, ಯಾವುವು ಪೂರ್ಣಾಂಕಗಳಲ್ಲ ಎಂಬುದನ್ನು ತಿಳಿಯುವುದು ಮುಖ್ಯ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಐದು, ಮೈನಸ್ ಹತ್ತು, ಸೊನ್ನೆ, ಮತ್ತು ನಲವತ್ತೇಳು ಇವೆಲ್ಲವೂ ಪೂರ್ಣಾಂಕಗಳು. ಇವು ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳಾಗಿವೆ, ಯಾವುದೇ ಭಾಗ ಅಥವಾ ಅಂಶವನ್ನು ಹೊಂದಿಲ್ಲ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಒಂದು ಬೈ ಎರಡು, ಅಂದರೆ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಐದು, ಇದು ಒಂದು ಭಿನ್ನರಾಶಿ. ಮೂರು ಪಾಯಿಂಟ್ ಒಂದು ನಾಲ್ಕು, ಇದು ಒಂದು ದಶಮಾಂಶ ಸಂಖ್ಯೆ. ಮೈನಸ್ ಏಳು ಬೈ ಮೂರು, ಇದು ಕೂಡ ಒಂದು ಭಿನ್ನರಾಶಿ. ಈ ಭಿನ್ನರಾಶಿಗಳು ಮತ್ತು ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳು ಪೂರ್ಣಾಂಕಗಳಲ್ಲ. ಪೂರ್ಣಾಂಕಗಳು ಯಾವಾಗಲೂ ಪೂರ್ಣವಾಗಿರಬೇಕು.",
+  "script_display": "ಯಾವುದೆಲ್ಲಾ ಸಂಖ್ಯೆಗಳು ಪೂರ್ಣಾಂಕಗಳು ಎಂದು ತಿಳಿದುಕೊಂಡ ನಂತರ, ಯಾವುವು ಪೂರ್ಣಾಂಕಗಳಲ್ಲ ಎಂಬುದನ್ನು ತಿಳಿಯುವುದು ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A two-column table comparing integers and non-integers. Left column header: 'ಪೂರ್ಣಾಂಕಗಳು (Integers)'. Right column header: 'ಪೂರ್ಣಾಂಕಗಳಲ್ಲದವು (Not Integers)'. The table will be populated with examples like 5, -10, 0 in the left column and 1/2, 3.14, -7/3 in the right column. A green checkmark for the left side and a red cross for the right side can be used for visual cues. The caption should summarize the key difference: 'ಭಿನ್ನರಾಶಿಗಳು ಮತ್ತು ದಶಮಾಂಶಗಳು ಪೂರ್ಣಾಂಕಗಳಲ್ಲ.' (Fractions and decimals are not integers.)"
+  },
+  "exam_tip": {
+    "question_pattern": "MCQ",
+    "skill_tested": "ಪೂರ್ಣಾಂಕಗಳನ್ನು ಗುರುತಿಸುವ ಸಾಮರ್ಥ್ಯ.",
+    "distractor": "ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆಗಳ ಗುಂಪಿನಲ್ಲಿ ಪೂರ್ಣಾಂಕವನ್ನು ಗುರುತಿಸಿ: a) 1/2 b) -7 c) 0.5 d) 2 1/3",
+    "why_distractor_works": "ವಿದ್ಯಾರ್ಥಿಗಳು ಋಣ ಸಂಖ್ಯೆಗಳನ್ನು ನೋಡಿದ ತಕ್ಷಣ ಗೊಂದಲಕ್ಕೊಳಗಾಗಬಹುದು ಅಥವಾ ಭಿನ್ನರಾಶಿಗಳನ್ನು ಪೂರ್ಣಾಂಕಗಳೆಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸಬಹುದು. ಸರಿಯಾದ ಉತ್ತರ -7, ಏಕೆಂದರೆ ಅದು ಮಾತ್ರ ಪೂರ್ಣ ಸಂಖ್ಯೆಯಾಗಿದೆ."
+  },
+  "chunk_id": "NS-INT-1_concept_1_chunk_007"
+}

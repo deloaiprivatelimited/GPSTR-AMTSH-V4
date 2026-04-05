@@ -1,0 +1,40 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಸ್ಟೆಥೋಸ್ಕೋಪ್ ಮಾದರಿಯನ್ನು ತಯಾರಿಸಲು ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಸುಮಾರು ಆರು ರಿಂದ ಏಳು ಸೆಂಟಿಮೀಟರ್ ವ್ಯಾಸವಿರುವ ಒಂದು ಸಣ್ಣ ಆಲಿಕೆ. ನಂತರ, ಸುಮಾರು ಐವತ್ತು ಸೆಂಟಿಮೀಟರ್ ಉದ್ದದ ಒಂದು ರಬ್ಬರ್ ಕೊಳವೆ. ಹಾಗೆಯೇ, ಆಲಿಕೆಯ ಬಾಯಿಗೆ ಕಟ್ಟಲು ಒಂದು ರಬ್ಬರ್ ಹಾಳೆ ಅಥವಾ ಬಲೂನು. ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಇದನ್ನು ಬಿಗಿಯಾಗಿ ಕಟ್ಟಲು ಒಂದು ರಬ್ಬರ್ ಬ್ಯಾಂಡ್. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳಿ.",
+  "script_display": "ಈ ಸ್ಟೆಥೋಸ್ಕೋಪ್ ಮಾದರಿಯನ್ನು ತಯಾರಿಸಲು ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಸುಮಾರು 6-7 cm ವ್ಯಾಸವಿರುವ ಒಂದು ಸಣ್ಣ ಆಲಿಕೆ (funnel). ನಂತರ, ಸುಮಾರು 50 cm ಉದ್ದದ ಒಂದು ರಬ್ಬರ್ ಕೊಳವೆ (rubber tube). ಹಾಗೆಯೇ, ಆಲಿಕೆಯ ಬಾಯಿಗೆ ಕಟ್ಟಲು ಒಂದು ರಬ್ಬರ್ ಹಾಳೆ ಅಥವಾ ಬಲೂನು (balloon). ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಇದನ್ನು ಬಿಗಿಯಾಗಿ ಕಟ್ಟಲು ಒಂದು ರಬ್ಬರ್‌ಬ್ಯಾಂಡ್ (rubber band).",
+  "display_bullets": [
+    "ಸಣ್ಣ ಆಲಿಕೆ (6-7 cm ವ್ಯಾಸ)",
+    "ರಬ್ಬರ್ ಕೊಳವೆ (50 cm ಉದ್ದ)",
+    "ರಬ್ಬರ್ ಹಾಳೆ ಅಥವಾ ಬಲೂನು",
+    "ರಬ್ಬರ್‌ಬ್ಯಾಂಡ್"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the materials needed for the stethoscope model: a small funnel, a rubber tube, a balloon, and a rubber band, all laid out separately.",
+    "labels": "ಆಲಿಕೆ, ರಬ್ಬರ್ ಕೊಳವೆ, ಬಲೂನು, ರಬ್ಬರ್‌ಬ್ಯಾಂಡ್",
+    "scientific_significance": "Shows the simple components required to build a functional model of a stethoscope, demonstrating that complex scientific instruments can be understood through simple models.",
+    "placeholder_note": "Image to be generated showing the separate materials."
+  },
+  "sub_type": "apparatus_setup",
+  "difficulty": "easy",
+  "source_example_id": "ಚಟುವಟಿಕೆ 7.2",
+  "chunk_id": "std_7_chapter_7_concept_4_chunk_010"
+}

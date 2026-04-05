@@ -1,0 +1,31 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರ 2: ಎರಡೆರಡು ಶೂನ್ಯತೆಗಳ ಗುಣಲಬ್ಧಗಳ ಮೊತ್ತ",
+  "script": "ಮುಂದಿನ ಸಂಬಂಧವು ಎರಡೆರಡು ಶೂನ್ಯತೆಗಳ ಗುಣಲಬ್ಧಗಳ ಮೊತ್ತಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ. ಅಂದರೆ, ಆಲ್ಫಾ ಮತ್ತು ಬೀಟಾದ ಗುಣಲಬ್ಧ, ಬೀಟಾ ಮತ್ತು ಗಾಮಾದ ಗುಣಲಬ್ಧ, ಹಾಗೂ ಗಾಮ ಮತ್ತು ಆಲ್ಫಾದ ಗುಣಲಬ್ಧ, ಇವುಗಳ ಮೊತ್ತ. ಈ ಮೊತ್ತವು c ಬೈ a ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ, c ಎಂಬುದು x ನ ಸಹಗುಣಕ ಮತ್ತು a ಎಂಬುದು x ಕ್ಯೂಬ್ ನ ಸಹಗುಣಕ. ಆದ್ದರಿಂದ, ಆಲ್ಫಾ ಬೀಟಾ ಪ್ಲಸ್ ಬೀಟಾ ಗಾಮ ಪ್ಲಸ್ ಗಾಮ ಆಲ್ಫಾ ಈಕ್ವಲ್ಸ್ x ನ ಸಹಗುಣಕ ಬೈ x ಕ್ಯೂಬ್ ನ ಸಹಗುಣಕ. ಈ ಸೂತ್ರದಲ್ಲಿ ಯಾವುದೇ ಋಣಾತ್ಮಕ ಚಿಹ್ನೆ ಇಲ್ಲ ಎಂಬುದನ್ನು ಗಮನಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಮುಂದಿನ ಸಂಬಂಧವು ಎರಡೆರಡು ಶೂನ್ಯತೆಗಳ ಗುಣಲಬ್ಧಗಳ ಮೊತ್ತಕ್ಕೆ (Sum of the product of zeros taken two at a time) ಸಂಬಂಧಿಸಿದೆ. ಅಂದರೆ, $\\alpha$ ಮತ್ತು $\\beta$ದ ಗುಣಲಬ್ಧ, $\\beta$ ಮತ್ತು $\\gamma$ದ ಗುಣಲಬ್ಧ, ಹಾಗೂ $\\gamma$ ಮತ್ತು $\\alpha$ದ ಗುಣಲಬ್ಧ, ಇವುಗಳ ಮೊತ್ತ. ಈ ಮೊತ್ತವು $\\frac{c}{a}$ ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ, $c$ ಎಂಬುದು $x$ ನ ಸಹಗುಣಕ ಮತ್ತು $a$ ಎಂಬುದು $x^3$ ನ ಸಹಗುಣಕ. ಆದ್ದರಿಂದ, $\\alpha\\beta + \\beta\\gamma + \\gamma\\alpha = \\frac{x \\text{ ನ ಸಹಗುಣಕ}}{x^3 \\text{ ನ ಸಹಗುಣಕ}}$. ಈ ಸೂತ್ರದಲ್ಲಿ ಯಾವುದೇ ಋಣಾತ್ಮಕ ಚಿಹ್ನೆ ಇಲ್ಲ ಎಂಬುದನ್ನು ಗಮನಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಗುಣಲಬ್ಧಗಳ ಮೊತ್ತ: } \\alpha\\beta + \\beta\\gamma + \\gamma\\alpha = \\frac{c}{a}",
+    "placeholder_note": "Formula for the sum of the products of zeros taken two at a time."
+  },
+  "chunk_id": "ALG-POL-3_concept_5_chunk_014"
+}

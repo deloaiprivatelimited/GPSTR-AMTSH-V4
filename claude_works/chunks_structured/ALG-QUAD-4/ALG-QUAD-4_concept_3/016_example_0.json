@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 7: ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ವರ್ಗ ಸಮೀಕರಣವನ್ನು ನೀಡಲಾಗಿದೆ, ಅದು ಎರಡು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ ಮೈನಸ್ ನಾಲ್ಕು ಎಕ್ಸ್ ಪ್ಲಸ್ ಮೂರು ಈಕ್ವಲ್ಸ್ ಸೊನ್ನೆ. ನಾವು ಈ ಸಮೀಕರಣದ ಶೋಧಕವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು ಮತ್ತು ಅದರ ಆಧಾರದ ಮೇಲೆ ಮೂಲಗಳ ಸ್ವಭಾವವನ್ನು ವಿವರಿಸಬೇಕು. ಮೊದಲು ಸಮಸ್ಯೆಯನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ವರ್ಗ ಸಮೀಕರಣವನ್ನು ನೀಡಲಾಗಿದೆ, ಅದು $2x^2-4x+3=0$. ನಾವು ಈ ಸಮೀಕರಣದ ಶೋಧಕವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು ಮತ್ತು ಅದರ ಆಧಾರದ ಮೇಲೆ ಮೂಲಗಳ ಸ್ವಭಾವವನ್ನು ವಿವರಿಸಬೇಕು. ಮೊದಲು ಸಮಸ್ಯೆಯನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "display_bullets": [
+    "ದತ್ತ ಸಮೀಕರಣ: $2x^2-4x+3=0$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಶೋಧಕ ಮತ್ತು ಮೂಲಗಳ ಸ್ವಭಾವ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_top_visual_bottom",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2x^2 - 4x + 3 = 0",
+    "placeholder_note": "Problem statement in a box"
+  },
+  "difficulty": "basic",
+  "source_example_id": "ALG-QUAD-4_example_7",
+  "chunk_id": "ALG-QUAD-4_concept_3_chunk_016"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಅರ್ಧಗೋಳ ಎಂದರೇನು?",
+  "script": "ನಾವು ಈಗಾಗಲೇ ಗೋಳದ ಬಗ್ಗೆ ತಿಳಿದುಕೊಂಡಿದ್ದೇವೆ. ಈಗ, ಒಂದು ಗೋಳವನ್ನು ಅದರ ಕೇಂದ್ರದ ಮೂಲಕ ಹಾದುಹೋಗುವ ಸಮತಲದಿಂದ ಕತ್ತರಿಸಿದರೆ ಏನಾಗುತ್ತದೆ ಎಂದು ಯೋಚಿಸಿ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಹೀಗೆ ಕತ್ತರಿಸಿದಾಗ ನಮಗೆ ಎರಡು ಸಮಾನ ಭಾಗಗಳು ಸಿಗುತ್ತವೆ. ಈ ಪ್ರತಿಯೊಂದು ಭಾಗವನ್ನು ನಾವು ಅರ್ಧಗೋಳ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ನಾವು ಈಗಾಗಲೇ ಗೋಳದ ಬಗ್ಗೆ ತಿಳಿದುಕೊಂಡಿದ್ದೇವೆ. ಈಗ, ಒಂದು ಗೋಳವನ್ನು ಅದರ ಕೇಂದ್ರದ ಮೂಲಕ ಹಾದುಹೋಗುವ ಸಮತಲದಿಂದ ಕತ್ತರಿಸಿದರೆ ಏನಾಗುತ್ತದೆ ಎಂದು ಯೋಚಿಸಿ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ಹೀಗೆ ಕತ್ತರಿಸಿದಾಗ ನಮಗೆ ಎರಡು ಸಮಾನ ಭಾಗಗಳು ಸಿಗುತ್ತವೆ. ಈ ಪ್ರತಿಯೊಂದು ಭಾಗವನ್ನು ನಾವು **ಅರ್ಧಗೋಳ (Hemisphere)** ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಒಂದು ಗೋಳವನ್ನು ಅದರ ಕೇಂದ್ರದ ಮೂಲಕ ಹಾದುಹೋಗುವ ಸಮತಲದಿಂದ ಕತ್ತರಿಸಿದಾಗ, ಎರಡು ಸಮಾನ ಭಾಗಗಳು ಉಂಟಾಗುತ್ತವೆ.",
+    "ಈ ಪ್ರತಿಯೊಂದು ಭಾಗವನ್ನು ಅರ್ಧಗೋಳ (Hemisphere) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A sphere being cut by a plane passing through its center, resulting in two separate hemispheres. The plane and the two resulting hemispheres should be clearly visible.",
+    "labels": "ಗೋಳ, ಸಮತಲ, ಅರ್ಧಗೋಳ",
+    "mathematical_significance": "Illustrates the conceptual creation of a hemisphere from a sphere.",
+    "placeholder_note": "Image to be generated. Similar to textbook figure 11.8 but showing the action of cutting."
+  },
+  "chunk_id": "MEN-VOL-3_concept_2_chunk_007"
+}

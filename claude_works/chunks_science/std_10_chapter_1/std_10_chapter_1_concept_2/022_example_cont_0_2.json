@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ಆಕ್ಸಿಜನ್ ಸರಿದೂಗಿಸುವುದು",
+  "script": "ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಅತಿ ಹೆಚ್ಚು ಪರಮಾಣುಗಳಿರುವ ಸಂಯುಕ್ತವನ್ನು, ಅಂದರೆ ಎಫ್ ಇ ಥ್ರೀ ಓ ಫೋರ್ ಅನ್ನು ಆಯ್ದುಕೊಳ್ಳೋಣ. ಇದರಲ್ಲಿರುವ ಆಕ್ಸಿಜನ್ ಅನ್ನು ಮೊದಲು ಸರಿದೂಗಿಸೋಣ. ಬಲಭಾಗದಲ್ಲಿ ನಾಲ್ಕು ಆಕ್ಸಿಜನ್ ಪರಮಾಣುಗಳಿವೆ, ಆದರೆ ಎಡಭಾಗದಲ್ಲಿ ಒಂದೇ ಒಂದು ಇದೆ. ಇದನ್ನು ಸರಿಪಡಿಸಲು, ಎಡಭಾಗದಲ್ಲಿರುವ ಎಚ್ ಟು ಓ ಅಣುವಿಗೆ ನಾಲ್ಕು ಎಂಬ ಸಹಾಂಕವನ್ನು ಸೇರಿಸೋಣ. ಈಗ ಸಮೀಕರಣ ಎಫ್ ಇ ಪ್ಲಸ್ ಫೋರ್ ಎಚ್ ಟು ಓ ಗಿವ್ಸ್ ಎಫ್ ಇ ಥ್ರೀ ಓ ಫೋರ್ ಪ್ಲಸ್ ಎಚ್ ಟು ಎಂದಾಗುತ್ತದೆ. ನೆನಪಿಡಿ, ನಾವು ಅಣುಸೂತ್ರವನ್ನು ಬದಲಿಸಿಲ್ಲ, ಕೇವಲ ಸಹಾಂಕವನ್ನು ಸೇರಿಸಿದ್ದೇವೆ.",
+  "script_display": "ಹಂತ 3: ಅತಿ ಹೆಚ್ಚು ಪರಮಾಣುಗಳಿರುವ ಸಂಯುಕ್ತವನ್ನು (Fe₃O₄) ಆಯ್ದುಕೊಂಡು, ಅದರಲ್ಲಿನ ಆಕ್ಸಿಜನ್ ಪರಮಾಣುಗಳನ್ನು ಮೊದಲು ಸರಿದೂಗಿಸಿ. ಬಲಭಾಗದಲ್ಲಿ 4 ಆಕ್ಸಿಜನ್ ಪರಮಾಣುಗಳಿವೆ. ಎಡಭಾಗದಲ್ಲಿ 1 ಮಾತ್ರ ಇದೆ. ಆದ್ದರಿಂದ, ಎಡಭಾಗದಲ್ಲಿರುವ H₂O ಗೆ '4' ಸಹಾಂಕವನ್ನು (coefficient) ಸೇರಿಸಿ. ಈಗ ಸಮೀಕರಣ: Fe + 4H₂O → Fe₃O₄ + H₂. ಗಮನಿಸಿ: ನಾವು H₂O₄ ಎಂದು ಬರೆಯುವಂತಿಲ್ಲ.",
+  "display_bullets": [
+    "ಹಂತ 3: ಆಕ್ಸಿಜನ್ (O) ಪರಮಾಣುಗಳನ್ನು ಸರಿದೂಗಿಸಿ.",
+    "ಬಲಭಾಗದಲ್ಲಿ (RHS) 4 ಆಕ್ಸಿಜನ್ ಪರಮಾಣುಗಳಿವೆ (Fe₃O₄ ನಲ್ಲಿ).",
+    "ಎಡಭಾಗದಲ್ಲಿ (LHS) H₂O ಗೆ '4' ಸಹಾಂಕ ನೀಡಿ: 4H₂O.",
+    "ಹೊಸ ಸಮೀಕರಣ: Fe + 4H₂O → Fe₃O₄ + H₂"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Fe + \\textcolor{red}{4}H_2O \\rightarrow Fe_3O_4 + H_2",
+    "placeholder_note": "Equation after balancing Oxygen atoms. The coefficient '4' is highlighted."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_1_example_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "LHS ನಲ್ಲಿರುವ H₂O ಗೆ '4' ಸಹಾಂಕ (coefficient) ನೀಡಿ. Fe + 4H₂O → Fe₃O₄ + H₂",
+      "justification": "RHS ನಲ್ಲಿ 4 ಆಕ್ಸಿಜನ್ ಪರಮಾಣುಗಳಿವೆ, LHS ನಲ್ಲಿ 1 ಇದೆ. ಆದ್ದರಿಂದ ಸರಿದೂಗಿಸಲು '4' ಸಹಾಂಕ ಬಳಸಲಾಗಿದೆ."
+    }
+  ],
+  "chunk_id": "std_10_chapter_1_concept_2_chunk_022"
+}

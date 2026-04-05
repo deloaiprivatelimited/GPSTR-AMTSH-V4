@@ -1,0 +1,92 @@
+{
+  "module_id": "std_10_chapter_10_concept_5",
+  "chapter_code": "std_10_chapter_10",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:18:40",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "4f9674747ae40211fbd251701581df8b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 42.491,
+      "slide_title": "ವಾಯುಮಂಡಲದ ವಕ್ರೀಭವನ: ಪರಿಚಯ",
+      "type": "chunk",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:17:29"
+    },
+    "002_classification_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "d4fd94753d632e6e9a22c8733d9a662b",
+      "wav_file": "002_classification_0.wav",
+      "duration": 43.251,
+      "slide_title": "ವಾಯುಮಂಡಲದ ವಕ್ರೀಭವನದ ಪರಿಣಾಮಗಳು",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 11:17:32"
+    },
+    "004_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "fec26d94b6289a259f3eb57bfb396c2a",
+      "wav_file": "004_classification_cont_0_2.wav",
+      "duration": 49.171,
+      "slide_title": "ಗ್ರಹಗಳು ಏಕೆ ಮಿನುಗುವುದಿಲ್ಲ?",
+      "type": "concept_explanation",
+      "script_words": 69,
+      "generated_at": "2026-04-02 11:17:39"
+    },
+    "003_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "7964243ccf3724206e70ff6388f36250",
+      "wav_file": "003_classification_cont_0_1.wav",
+      "duration": 60.091,
+      "slide_title": "ನಕ್ಷತ್ರಗಳ ಮಿನುಗುವಿಕೆ",
+      "type": "concept_explanation",
+      "script_words": 70,
+      "generated_at": "2026-04-02 11:17:44"
+    },
+    "005_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "6d83c21d2cc179445ccc51cbc8f7fc7c",
+      "wav_file": "005_classification_cont_0_3.wav",
+      "duration": 54.891,
+      "slide_title": "ಶೀಘ್ರ ಸೂರ್ಯೋದಯ ಮತ್ತು ವಿಳಂಬಿತ ಸೂರ್ಯಾಸ್ತ",
+      "type": "concept_explanation",
+      "script_words": 80,
+      "generated_at": "2026-04-02 11:18:09"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "cf9a045185f8ce0de7efd2c4ac24f575",
+      "wav_file": "007_recap_0.wav",
+      "duration": 46.851,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 58,
+      "generated_at": "2026-04-02 11:18:32"
+    },
+    "006_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "311581daf23d792a366495cd2efb6f5a",
+      "wav_file": "006_classification_cont_0_4.wav",
+      "duration": 48.811,
+      "slide_title": "ಹಗಲಿನ ಅವಧಿಯ ಮೇಲೆ ಪರಿಣಾಮ",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-04-02 11:18:40"
+    }
+  }
+}

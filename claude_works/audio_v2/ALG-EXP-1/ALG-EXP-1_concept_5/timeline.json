@@ -1,0 +1,188 @@
+{
+  "module_id": "ALG-EXP-1_concept_5",
+  "voice": "Sadachbia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 16,
+  "total_duration": 660.776,
+  "total_duration_formatted": "11:00",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಬೀಜೋಕ್ತಿಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 49.051,
+      "duration": 49.051,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 49.651,
+      "end": 77.182,
+      "duration": 27.531,
+      "script_words": 36
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_003",
+      "chunk_file": "003_example_0.json",
+      "wav_file": "003_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಬೀಜೋಕ್ತಿಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "worked_example",
+      "start": 77.782,
+      "end": 105.633,
+      "duration": 27.851,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_004",
+      "chunk_file": "004_example_cont_0_1.json",
+      "wav_file": "004_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i) ಮತ್ತು (ii)",
+      "type": "worked_example",
+      "start": 106.233,
+      "end": 139.924,
+      "duration": 33.691,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_005",
+      "chunk_file": "005_example_cont_0_2.json",
+      "wav_file": "005_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (iii) ಮತ್ತು (iv)",
+      "type": "worked_example",
+      "start": 140.524,
+      "end": 209.495,
+      "duration": 68.971,
+      "script_words": 109
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_006",
+      "chunk_file": "006_example_cont_0_3.json",
+      "wav_file": "006_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 210.095,
+      "end": 238.666,
+      "duration": 28.571,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_007",
+      "chunk_file": "007_example_1.json",
+      "wav_file": "007_example_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಬೀಜೋಕ್ತಿಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "worked_example",
+      "start": 239.266,
+      "end": 269.757,
+      "duration": 30.491,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_008",
+      "chunk_file": "008_example_cont_1_1.json",
+      "wav_file": "008_example_cont_1_1.wav",
+      "slide_title": "ಭಾಗ (i): 5n - 2 ರ ಬೆಲೆ",
+      "type": "worked_example",
+      "start": 270.357,
+      "end": 304.688,
+      "duration": 34.331,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_009",
+      "chunk_file": "009_example_cont_1_2.json",
+      "wav_file": "009_example_cont_1_2.wav",
+      "slide_title": "ಭಾಗ (ii): 5n² + 5n - 2 ರ ಬೆಲೆ",
+      "type": "worked_example",
+      "start": 305.288,
+      "end": 371.819,
+      "duration": 66.531,
+      "script_words": 102
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_010",
+      "chunk_file": "010_example_cont_1_3.json",
+      "wav_file": "010_example_cont_1_3.wav",
+      "slide_title": "ಭಾಗ (iii): n³ + 5n² + 5n - 2 ರ ಬೆಲೆ",
+      "type": "worked_example",
+      "start": 372.419,
+      "end": 419.19,
+      "duration": 46.771,
+      "script_words": 77
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_011",
+      "chunk_file": "011_example_cont_1_4.json",
+      "wav_file": "011_example_cont_1_4.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 419.79,
+      "end": 449.001,
+      "duration": 29.211,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_012",
+      "chunk_file": "012_example_2.json",
+      "wav_file": "012_example_2.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಬೀಜೋಕ್ತಿಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "worked_example",
+      "start": 449.601,
+      "end": 481.332,
+      "duration": 31.731,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_013",
+      "chunk_file": "013_example_cont_2_1.json",
+      "wav_file": "013_example_cont_2_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i) ಮತ್ತು (ii)",
+      "type": "worked_example",
+      "start": 481.932,
+      "end": 522.783,
+      "duration": 40.851,
+      "script_words": 72
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_014",
+      "chunk_file": "014_example_cont_2_2.json",
+      "wav_file": "014_example_cont_2_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (iii) ಮತ್ತು (iv)",
+      "type": "worked_example",
+      "start": 523.383,
+      "end": 578.714,
+      "duration": 55.331,
+      "script_words": 96
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_015",
+      "chunk_file": "015_example_cont_2_3.json",
+      "wav_file": "015_example_cont_2_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 579.314,
+      "end": 619.005,
+      "duration": 39.691,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "ALG-EXP-1_concept_5_chunk_016",
+      "chunk_file": "016_recap_0.json",
+      "wav_file": "016_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಬೀಜೋಕ್ತಿಯ ಬೆಲೆ",
+      "type": "recap",
+      "start": 619.605,
+      "end": 660.176,
+      "duration": 40.571,
+      "script_words": 52
+    }
+  ]
+}

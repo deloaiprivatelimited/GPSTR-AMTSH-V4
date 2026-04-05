@@ -1,0 +1,46 @@
+{
+  "module_id": "std_9_chapter_2_concept_11",
+  "chapter_code": "std_9_chapter_2",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 137.553,
+  "total_duration_formatted": "2:17",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_2_concept_11_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಮಿಶ್ರಣಗಳು ಮತ್ತು ಸಂಯುಕ್ತಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 55.011,
+      "duration": 55.011,
+      "script_words": 84
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_11_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisite",
+      "start": 55.611,
+      "end": 92.782,
+      "duration": 37.171,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_11_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "start": 93.382,
+      "end": 136.953,
+      "duration": 43.571,
+      "script_words": 46
+    }
+  ]
+}

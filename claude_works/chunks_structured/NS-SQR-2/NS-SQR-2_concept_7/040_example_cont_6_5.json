@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನವನ್ನು ಬಳಸಿ ನಾವು ಉತ್ತರಗಳನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. 729 ರ ವರ್ಗಮೂಲ 27. ಮತ್ತು 1296 ರ ವರ್ಗಮೂಲ 36.",
+  "script_display": "ಹೀಗೆ, ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನವನ್ನು ಬಳಸಿ ನಾವು ಉತ್ತರಗಳನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. 729 ರ ವರ್ಗಮೂಲ 27. ಮತ್ತು 1296 ರ ವರ್ಗಮೂಲ 36.",
+  "display_bullets": [
+    "729 ರ ವರ್ಗಮೂಲ 27 ಆಗಿದೆ.",
+    "1296 ರ ವರ್ಗಮೂಲ 36 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_kannada",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sqrt{729} = 27 \\\\ \\sqrt{1296} = 36",
+    "placeholder_note": ""
+  },
+  "source_example_id": "NS-SQR-2_example_14",
+  "final_answer": "(i) √729 = 27, (ii) √1296 = 36",
+  "final_answer_display": "(i) $\\sqrt{729} = 27$, (ii) $\\sqrt{1296} = 36$",
+  "chunk_id": "NS-SQR-2_concept_7_chunk_040"
+}

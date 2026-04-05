@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ, 9 ವರ್ಷದ ಹುಡುಗನು ಬೆಳವಣಿಗೆಯ ಅವಧಿಯ ಕೊನೆಯಲ್ಲಿ ಅಂದಾಜು 160 ಸೆಂಟಿಮೀಟರ್ ಎತ್ತರ ಬೆಳೆಯಬಹುದು. ಈ ರೀತಿಯ ಲೆಕ್ಕಾಚಾರಗಳು ಅಂದಾಜುಗಳಾಗಿವೆ ಮತ್ತು ವೈಯಕ್ತಿಕ ಬೆಳವಣಿಗೆಯು ಬೇರೆ ಬೇರೆ ಅಂಶಗಳಿಂದ ಪ್ರಭಾವಿತವಾಗಿರುತ್ತದೆ ಎಂಬುದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ, 9 ವರ್ಷದ ಹುಡುಗನು ಬೆಳವಣಿಗೆಯ ಅವಧಿಯ ಕೊನೆಯಲ್ಲಿ ಅಂದಾಜು 160 cm ಎತ್ತರ ಬೆಳೆಯಬಹುದು. ಈ ರೀತಿಯ ಲೆಕ್ಕಾಚಾರಗಳು ಅಂದಾಜುಗಳಾಗಿವೆ ಮತ್ತು ವೈಯಕ್ತಿಕ ಬೆಳವಣಿಗೆಯು ಬೇರೆ ಬೇರೆ ಅಂಶಗಳಿಂದ ಪ್ರಭಾವಿತವಾಗಿರುತ್ತದೆ ಎಂಬುದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: ಆ ಹುಡುಗನು ಅಂದಾಜು 160 cm ಎತ್ತರ ಬೆಳೆಯಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_center",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಅಂದಾಜು ಪೂರ್ಣ ಎತ್ತರ} = 160 \\text{ cm}",
+    "placeholder_note": "A large, clear box displaying the final answer."
+  },
+  "source_example_id": "std_8_science_ch_7_example_1",
+  "steps": [],
+  "final_answer": "ಆ ಹುಡುಗನು ಅಂದಾಜು 160 cm ಎತ್ತರ ಬೆಳೆಯಬಹುದು.",
+  "final_answer_display": "ಆ ಹುಡುಗನು ಅಂದಾಜು 160 cm ಎತ್ತರ ಬೆಳೆಯಬಹುದು.",
+  "chunk_id": "std_8_science_ch_7_concept_2_chunk_014"
+}

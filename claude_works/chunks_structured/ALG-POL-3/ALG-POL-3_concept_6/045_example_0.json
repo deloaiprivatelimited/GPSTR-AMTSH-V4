@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸೂಕ್ತವಾದ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಉಪಯೋಗಿಸಿ ನಾವು ಈ ಗುಣಲಬ್ಧಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲನೆಯದು, x ಪ್ಲಸ್ ಮೂರು, ಗುಣಿಸು x ಪ್ಲಸ್ ಮೂರು. ಎರಡನೆಯದು, x ಮೈನಸ್ ಮೂರು, ಗುಣಿಸu x ಪ್ಲಸ್ ಐದು. ಮೊದಲು ಯಾವ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಬೇಕು ಎಂದು ಗುರುತಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸೂಕ್ತವಾದ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಉಪಯೋಗಿಸಿ ನಾವು ಈ ಗುಣಲಬ್ಧಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.\n* (i) $(x + 3) (x + 3)$\n* (ii) $(x − 3) (x + 5)$\nಮೊದಲು ಯಾವ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಬೇಕು ಎಂದು ಗುರುತಿಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸೂಕ್ತವಾದ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಉಪಯೋಗಿಸಿ ಕೆಳಗಿನವುಗಳ ಗುಣಲಬ್ಧಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.}\n\\\\\n\\text{(i) } (x + 3) (x + 3)\n\\\\\n\\text{(ii) } (x − 3) (x + 5)",
+    "placeholder_note": "Problem statement displayed in a box"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "ALG-POL-3_example_15",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_045"
+}

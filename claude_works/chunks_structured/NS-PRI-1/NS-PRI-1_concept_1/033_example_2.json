@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 3: ಜಂಪಿಯ ಜಿಗಿತ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಗ್ರಂಪಿ ನಿಧಿಗಳನ್ನು 14 ಮತ್ತು 36ರ ಮೇಲೆ ಇಟ್ಟಿದ್ದಾನೆ. ಜಂಪಿ ಎರಡೂ ನಿಧಿಗಳನ್ನು ಪಡೆಯಲು ಯಾವ ಗಾತ್ರದ ಜಿಗಿತವನ್ನು, ಒಂದನ್ನು ಹೊರತುಪಡಿಸಿ, ಆಯ್ದುಕೊಳ್ಳಬೇಕು? ಈ ಸಮಸ್ಯೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಿಧಿಗಳು 14 ಮತ್ತು 36 ಸಂಖ್ಯೆಗಳ ಮೇಲೆ ಇವೆ. ಜಂಪಿ ಎರಡೂ ನಿಧಿಗಳನ್ನು ಪಡೆಯಬೇಕಾದರೆ, ಅವನ ಜಿಗಿತದ ಗಾತ್ರವು 14 ಮತ್ತು 36 ಎರಡನ್ನೂ ನಿಶ್ಶೇಷವಾಗಿ ಭಾಗಿಸಬೇಕು. ಇದರರ್ಥ, ನಾವು 14 ಮತ್ತು 36ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಗ್ರಂಪಿ ನಿಧಿಗಳನ್ನು 14 ಮತ್ತು 36ರ ಮೇಲೆ ಇಟ್ಟಿದ್ದಾನೆ. ಜಂಪಿ ಎರಡೂ ನಿಧಿಗಳನ್ನು ಪಡೆಯಲು ಯಾವ ಗಾತ್ರದ ಜಿಗಿತವನ್ನು (1 ಹೊರತುಪಡಿಸಿ) ಆಯ್ದುಕೊಳ್ಳಬೇಕು? ಈ ಸಮಸ್ಯೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಿಧಿಗಳು 14 ಮತ್ತು 36 ಸಂಖ್ಯೆಗಳ ಮೇಲೆ ಇವೆ. ಜಂಪಿ ಎರಡೂ ನಿಧಿಗಳನ್ನು ಪಡೆಯಬೇಕಾದರೆ, ಅವನ ಜಿಗಿತದ ಗಾತ್ರವು 14 ಮತ್ತು 36 ಎರಡನ್ನೂ ನಿಶ್ಶೇಷವಾಗಿ ಭಾಗಿಸಬೇಕು. ಇದರರ್ಥ, ನಾವು 14 ಮತ್ತು 36ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಗ್ರಂಪಿ ನಿಧಿಗಳನ್ನು 14 ಮತ್ತು 36ರ ಮೇಲೆ ಇಟ್ಟಿದ್ದಾನೆ. ಜಂಪಿ ಎರಡೂ ನಿಧಿಗಳನ್ನು ಪಡೆಯಲು ಯಾವ ಗಾತ್ರದ ಜಿಗಿತವನ್ನು (1 ಹೊರತುಪಡಿಸಿ) ಆಯ್ದುಕೊಳ್ಳಬೇಕು?",
+    "ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: 14 ಮತ್ತು 36ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳು (1 ಹೊರತುಪಡಿಸಿ)."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "v1.0",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line from 0 to 40. There are treasure chests placed at the numbers 14 and 36. A character named 'Jumpy' is at 0, looking towards the treasures. Question mark bubbles appear above Jumpy's head, indicating thought about the jump size.",
+    "labels": "ಸಂಖ್ಯಾ ರೇಖೆ, ನಿಧಿ 1 (14), ನಿಧಿ 2 (36), ಜಂಪಿ",
+    "mathematical_significance": "This visualizes the problem, making the abstract concept of factors and common factors more concrete. The jump size corresponds to a factor.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-PRI-1_example_3",
+  "chunk_id": "NS-PRI-1_concept_1_chunk_033"
+}

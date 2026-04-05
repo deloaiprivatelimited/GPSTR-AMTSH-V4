@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಅಡ್ಡ ತರಂಗ vs ನೀಳ ತರಂಗ",
+  "script": "ಈಗ ಅಡ್ಡ ತರಂಗ ಮತ್ತು ನೀಳ ತರಂಗದ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಅಡ್ಡ ತರಂಗದಲ್ಲಿ, ಕಣಗಳ ಕಂಪನವು ತರಂಗದ ಚಲನೆಗೆ ಲಂಬವಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ ಬೆಳಕಿನ ತರಂಗ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ನಾವು ಈ ಹಿಂದೆ ಕಲಿತ ನೀಳ ತರಂಗದಲ್ಲಿ, ಕಣಗಳ ಕಂಪನವು ತರಂಗದ ಚಲನೆಯ ದಿಕ್ಕಿಗೆ ಸಮಾನಾಂತರವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ತರಂಗ ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತದೆಯೋ, ಕಣಗಳು ಕೂಡ ಅದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಮುಂದಕ್ಕೆ ಮತ್ತು ಹಿಂದಕ್ಕೆ ಕಂಪಿಸುತ್ತವೆ. ಶಬ್ದ ತರಂಗವು ಇದಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ಅಡ್ಡ ತರಂಗ ಮತ್ತು ನೀಳ ತರಂಗದ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಅಡ್ಡ ತರಂಗದಲ್ಲಿ, ಕಣಗಳ ಕಂಪನವು ತರಂಗದ ಚಲನೆಗೆ ಲಂಬವಾಗಿರುತ್ತದೆ (perpendicular). ಉದಾಹರಣೆಗೆ ಬೆಳಕಿನ ತರಂಗ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ನಾವು ಈ ಹಿಂದೆ ಕಲಿತ ನೀಳ ತರಂಗದಲ್ಲಿ, ಕಣಗಳ ಕಂಪನವು ತರಂಗದ ಚಲನೆಯ ದಿಕ್ಕಿಗೆ ಸಮಾನಾಂತರವಾಗಿರುತ್ತದೆ (parallel). ಅಂದರೆ, ತರಂಗ ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತದೆಯೋ, ಕಣಗಳು ಕೂಡ ಅದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಮುಂದಕ್ಕೆ ಮತ್ತು ಹಿಂದಕ್ಕೆ ಕಂಪಿಸುತ್ತವೆ. ಶಬ್ದ ತರಂಗವು ಇದಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "**ಅಡ್ಡ ತರಂಗ (Transverse):** ಕಣಗಳ ಚಲನೆ ⊥ ತರಂಗದ ಚಲನೆ. ಉದಾ: ಬೆಳಕು.",
+    "**ನೀಳ ತರಂಗ (Longitudinal):** ಕಣಗಳ ಚಲನೆ || ತರಂಗದ ಚಲನೆ. ಉದಾ: ಶಬ್ದ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "side_by_side_visual",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen diagram. Left side: A transverse wave (like a sine wave) with double-headed vertical arrows on the crests/troughs indicating particle motion, and a single horizontal arrow indicating wave direction. Labeled 'ಅಡ್ಡ ತರಂಗ'. Right side: A longitudinal wave (slinky with compressions and rarefactions) with double-headed horizontal arrows indicating particle motion, and a single horizontal arrow indicating wave direction. Labeled 'ನೀಳ ತರಂಗ'.",
+    "labels": "Left: ಅಡ್ಡ ತರಂಗ, ಕಣದ ಚಲನೆ (ಲಂಬ), ತರಂಗದ ಚಲನೆ. Right: ನೀಳ ತರಂಗ, ಕಣದ ಚಲನೆ (ಸಮಾನಾಂತರ), ತರಂಗದ ಚಲನೆ.",
+    "scientific_significance": "Visually contrasts the defining characteristic of transverse and longitudinal waves: the orientation of particle oscillation relative to the direction of wave propagation.",
+    "placeholder_note": "Image to be generated: Side-by-side comparison of transverse and longitudinal waves."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_11_concept_2_chunk_016"
+}

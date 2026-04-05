@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಕರ್ಷಣ ಮತ್ತು ಅಪಕರ್ಷಣ ಪ್ರಕ್ರಿಯೆ",
+  "script": "ಈ ಕ್ರಿಯೆಯು ಒಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯಾಗಿದೆ. ಇಲ್ಲಿ, ಹೈಡ್ರೋಜನ್ ಸಲ್ಫೈಡ್, ಅಂದರೆ H two S, ತನ್ನಲ್ಲಿರುವ ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಕಳೆದುಕೊಂಡು ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ ಆಗಿ ಉತ್ಕರ್ಷಣಗೊಳ್ಳುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ಆಕ್ಸಿಜನ್, ಅಂದರೆ O two, ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಪಡೆದುಕೊಂಡು ನೀರಾಗಿ ಅಪಕರ್ಷಣಗೊಳ್ಳುತ್ತದೆ. ಹೀಗೆ ಉತ್ಕರ್ಷಣ ಮತ್ತು ಅಪಕರ್ಷಣ ಏಕಕಾಲದಲ್ಲಿ ನಡೆಯುತ್ತವೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯು ಒಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯಾಗಿದೆ. ಇಲ್ಲಿ, ಹೈಡ್ರೋಜನ್ ಸಲ್ಫೈಡ್ (H₂S) ತನ್ನಲ್ಲಿರುವ ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಕಳೆದುಕೊಂಡು ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ (SO₂) ಆಗಿ ಉತ್ಕರ್ಷಣಗೊಳ್ಳುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ಆಕ್ಸಿಜನ್ (O₂) ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಪಡೆದುಕೊಂಡು ನೀರು (H₂O) ಆಗಿ ಅಪಕರ್ಷಣಗೊಳ್ಳುತ್ತದೆ. ಹೀಗೆ ಉತ್ಕರ್ಷಣ ಮತ್ತು ಅಪಕರ್ಷಣ ಏಕಕಾಲದಲ್ಲಿ ನಡೆಯುತ್ತವೆ.",
+  "display_bullets": [
+    "H₂S ಹೈಡ್ರೋಜನ್ ಕಳೆದುಕೊಂಡು SO₂ ಆಗಿ ಉತ್ಕರ್ಷಣಗೊಳ್ಳುತ್ತದೆ.",
+    "O₂ ಹೈಡ್ರೋಜನ್ ಪಡೆದುಕೊಂಡು H₂O ಆಗಿ ಅಪಕರ್ಷಣಗೊಳ್ಳುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A flowchart showing the redox process. On the left: H₂S and O₂. On the right: SO₂ and H₂O. An arrow labeled 'ಹೈಡ್ರೋಜನ್ ನಷ್ಟ (ಉತ್ಕರ್ಷಣ)' connects H₂S to SO₂. Another arrow labeled 'ಹೈಡ್ರೋಜನ್ ಗಳಿಕೆ (ಅಪಕರ್ಷಣ)' connects O₂ to H₂O.",
+    "labels": "H₂S, O₂, SO₂, H₂O, ಉತ್ಕರ್ಷಣ, ಅಪಕರ್ಷಣ",
+    "scientific_significance": "Visually demonstrates the simultaneous oxidation (loss of hydrogen from H₂S) and reduction (gain of hydrogen by O₂) in a single redox reaction.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "std_10_chapter_1_concept_4_chunk_027"
+}

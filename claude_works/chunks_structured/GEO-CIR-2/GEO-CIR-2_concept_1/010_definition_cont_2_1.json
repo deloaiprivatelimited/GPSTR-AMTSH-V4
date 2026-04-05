@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಜ್ಯಾ ಮತ್ತು ಕಂಸಗಳು",
+  "script": "ಒಂದು ವೃತ್ತದಲ್ಲಿ ಜ್ಯಾವನ್ನು ಎಳೆದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ನಾವು ಈಗಾಗಲೇ ಕಲಿತಂತೆ, ಜ್ಯಾವು ವೃತ್ತದ ಮೇಲಿನ ಎರಡು ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವಾಗಿದೆ. ಈ ಜ್ಯಾವು ವೃತ್ತದ ಪರಿಧಿಯನ್ನು ಎರಡು ಭಾಗಗಳಾಗಿ ಕತ್ತರಿಸುತ್ತದೆ. ಈ ಪ್ರತಿಯೊಂದು ಭಾಗವನ್ನು ನಾವು ಕಂಸ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ಎಬಿ ಜ್ಯಾವು ವೃತ್ತದ ಪರಿಧಿಯನ್ನು ಎರಡು ಕಂಸಗಳಾಗಿ ವಿಂಗಡಿಸಿದೆ. ಒಂದು ಚಿಕ್ಕದಾಗಿದೆ, ಇನ್ನೊಂದು ದೊಡ್ಡದಾಗಿದೆ. ಹೀಗೆ, ಪ್ರತಿಯೊಂದು ಜ್ಯಾವು ವೃತ್ತದಲ್ಲಿ ಎರಡು ಕಂಸಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+  "script_display": "ಒಂದು ವೃತ್ತದಲ್ಲಿ ಜ್ಯಾವನ್ನು ಎಳೆದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ನಾವು ಈಗಾಗಲೇ ಕಲಿತಂತೆ, ಜ್ಯಾವು ವೃತ್ತದ ಮೇಲಿನ ಎರಡು ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡವಾಗಿದೆ. ಈ ಜ್ಯಾವು ವೃತ್ತದ ಪರಿಧಿಯನ್ನು ಎರಡು ಭಾಗಗಳಾಗಿ ಕತ್ತರಿಸುತ್ತದೆ. ಈ ಪ್ರತಿಯೊಂದು ಭಾಗವನ್ನು ನಾವು ಕಂಸ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, $AB$ ಜ್ಯಾವು ವೃತ್ತದ ಪರಿಧಿಯನ್ನು ಎರಡು ಕಂಸಗಳಾಗಿ ವಿಂಗಡಿಸಿದೆ. ಒಂದು ಚಿಕ್ಕದಾಗಿದೆ, ಇನ್ನೊಂದು ದೊಡ್ಡದಾಗಿದೆ. ಹೀಗೆ, ಪ್ರತಿಯೊಂದು ಜ್ಯಾವು ವೃತ್ತದಲ್ಲಿ ಎರಡು ಕಂಸಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ವೃತ್ತದಲ್ಲಿನ ಒಂದು ಜ್ಯಾವು ಪರಿಧಿಯನ್ನು ಎರಡು ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ.",
+    "ಈ ಪ್ರತಿಯೊಂದು ಭಾಗವೂ ಒಂದು ಕಂಸವಾಗಿರುತ್ತದೆ.",
+    "ಚಿತ್ರದಲ್ಲಿ, $AB$ ಜ್ಯಾವು ಎರಡು ಕಂಸಗಳನ್ನು ಉಂಟುಮಾಡಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A circle with a chord AB drawn. The chord divides the circumference into two arcs. The smaller arc is colored green and the larger arc is colored blue.",
+    "labels": "Circle, Chord AB, Smaller Arc, Larger Arc",
+    "mathematical_significance": "Illustrates how a single chord creates two distinct arcs on the circumference.",
+    "placeholder_note": "Image to be generated showing a chord dividing a circle into two arcs."
+  },
+  "chunk_id": "GEO-CIR-2_concept_1_chunk_010"
+}

@@ -1,0 +1,125 @@
+{
+  "module_id": "std_9_chapter_12_concept_3",
+  "chapter_code": "std_9_chapter_12",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:47:27",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "ae48c395aedb48581d0a2cc1048742ac",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 27.091,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "bullet_list",
+      "script_words": 39,
+      "generated_at": "2026-04-02 15:45:46"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "2c890b709c75fba6122643344ce0f6b7",
+      "wav_file": "003_classification_0.wav",
+      "duration": 30.611,
+      "slide_title": "ಸಸ್ಯ ಪೋಷಕಾಂಶಗಳ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "script_words": 40,
+      "generated_at": "2026-04-02 15:45:49"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "d97fad84e5c401bd016d9c309f624b5b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 46.851,
+      "slide_title": "ಬೆಳೆ ಉತ್ಪಾದನೆಯ ನಿರ್ವಹಣೆ: ಪೋಷಕಾಂಶಗಳು",
+      "type": "title_hero",
+      "script_words": 70,
+      "generated_at": "2026-04-02 15:46:01"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "62303df69d5536a309a1ad71e0234bc0",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 32.851,
+      "slide_title": "ಬೃಹತ್ ಪೋಷಕಾಂಶಗಳು (Macronutrients)",
+      "type": "concept_explanation",
+      "script_words": 40,
+      "generated_at": "2026-04-02 15:46:28"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "88b94aaf838f14d9efbe95a8d1738117",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 36.651,
+      "slide_title": "ಬೃಹತ್ ಪೋಷಕಾಂಶಗಳು: ಇತರ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 15:46:45"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "e003157a323d6a86afceb3e07f8a51dc",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 33.571,
+      "slide_title": "ಸೂಕ್ಷ್ಮ ಪೋಷಕಾಂಶಗಳು (Micronutrients)",
+      "type": "concept_explanation",
+      "script_words": 43,
+      "generated_at": "2026-04-02 15:46:52"
+    },
+    "008_classification_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "c43d066e51fb624d0bbcafc7d2d8234e",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "duration": 34.451,
+      "slide_title": "ಸೂಕ್ಷ್ಮ ಪೋಷಕಾಂಶಗಳು: ಉದಾಹರಣೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 15:46:52"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "598aef2c53a08f2250be7039b5cfb598",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 35.851,
+      "slide_title": "ಬೃಹತ್ ಪೋಷಕಾಂಶಗಳು: ಪ್ರಮುಖ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "script_words": 44,
+      "generated_at": "2026-04-02 15:46:53"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "f618a01b1f6854c47621764646068cde",
+      "wav_file": "010_recap_0.wav",
+      "duration": 47.251,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 57,
+      "generated_at": "2026-04-02 15:47:25"
+    },
+    "009_classification_cont_0_6.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "9ea8994825fef9207dfd1aa3263dc419",
+      "wav_file": "009_classification_cont_0_6.wav",
+      "duration": 35.731,
+      "slide_title": "ಪರೀಕ್ಷಾ ದೃಷ್ಟಿಯಿಂದ ಗಮನಿಸಿ",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 15:47:27"
+    }
+  }
+}

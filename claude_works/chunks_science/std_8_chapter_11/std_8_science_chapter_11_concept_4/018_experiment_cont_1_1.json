@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು ಮತ್ತು ಜೋಡಣೆ",
+  "script": "ಈ ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು ತುಂಬಾ ಸರಳ. ನಮಗೆ ಒಂದು ತಾಜಾ ಆಲೂಗಡ್ಡೆ ಬೇಕು. ನಂತರ, ಒಂದು ಪರೀಕ್ಷಕ, ಅಂದರೆ ಒಂದು ಸಣ್ಣ ಬ್ಯಾಟರಿ ಮತ್ತು ಅದಕ್ಕೆ ಜೋಡಿಸಿದ ಎರಡು ತಾಮ್ರದ ತಂತಿಗಳು ಬೇಕು. ಮೊದಲಿಗೆ, ಆಲೂಗಡ್ಡೆಯನ್ನು ಎರಡು ಭಾಗಗಳಾಗಿ ಕತ್ತರಿಸಿ. ಅದರ ಒಂದು ಹಸಿ ಹೋಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಈಗ, ಪರೀಕ್ಷಕದ ಎರಡು ತಾಮ್ರದ ತಂತಿಗಳ ತುದಿಗಳನ್ನು ಆಲೂಗಡ್ಡೆಯ ಹೋಳಿನೊಳಗೆ ಚುಚ್ಚಿ. ತಂತಿಗಳು ಒಂದಕ್ಕೊಂದು ತಾಗದಂತೆ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿರಬೇಕು ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.",
+  "script_display": "ಈ ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು ತುಂಬಾ ಸರಳ. ನಮಗೆ ಒಂದು ತಾಜಾ ಆಲೂಗಡ್ಡೆ ಬೇಕು. ನಂತರ, ಒಂದು ಪರೀಕ್ಷಕ, ಅಂದರೆ ಒಂದು ಸಣ್ಣ ಬ್ಯಾಟರಿ ಮತ್ತು ಅದಕ್ಕೆ ಜೋಡಿಸಿದ ಎರಡು ತಾಮ್ರದ ತಂತಿಗಳು ಬೇಕು. ಮೊದಲಿಗೆ, ಆಲೂಗಡ್ಡೆಯನ್ನು ಎರಡು ಭಾಗಗಳಾಗಿ ಕತ್ತರಿಸಿ. ಅದರ ಒಂದು ಹಸಿ ಹೋಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಈಗ, ಪರೀಕ್ಷಕದ ಎರಡು ತಾಮ್ರದ ತಂತಿಗಳ ತುದಿಗಳನ್ನು ಆಲೂಗಡ್ಡೆಯ ಹೋಳಿನೊಳಗೆ ಚುಚ್ಚಿ. ತಂತಿಗಳು ಒಂದಕ್ಕೊಂದು ತಾಗದಂತೆ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿರಬೇಕು ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.",
+  "display_bullets": [
+    "ಒಂದು ತಾಜಾ ಆಲೂಗಡ್ಡೆ",
+    "ಪರೀಕ್ಷಕ (ಬ್ಯಾಟರಿ ಮತ್ತು ತಾಮ್ರದ ತಂತಿಗಳು)",
+    "ಆಲೂಗಡ್ಡೆಯನ್ನು ಅರ್ಧಕ್ಕೆ ಕತ್ತರಿಸಿ",
+    "ತಂತಿಗಳನ್ನು ಹೋಳಿಗೆ ಚುಚ್ಚಿ, ಅವು ತಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a cut potato slice. Two copper wires, connected to a battery's positive and negative terminals, are inserted into the potato slice. The wires are kept apart from each other.",
+    "labels": "ಬ್ಯಾಟರಿ, ಧನಾಗ್ರ (+), ಋಣಾಗ್ರ (-), ತಾಮ್ರದ ತಂತಿ, ಆಲೂಗಡ್ಡೆ ಹೋಳು",
+    "scientific_significance": "This setup creates a simple electrochemical cell where the potato juice acts as an electrolyte, allowing current to flow and cause a chemical reaction.",
+    "placeholder_note": "Image to be generated showing the apparatus setup for the potato experiment."
+  },
+  "sub_type": "experiment",
+  "chunk_id": "std_8_science_chapter_11_concept_4_chunk_018"
+}

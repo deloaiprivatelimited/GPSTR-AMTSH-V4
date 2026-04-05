@@ -1,0 +1,81 @@
+{
+  "module_id": "std_8_chapter_5_concept_6",
+  "chapter_code": "std_8_chapter_5",
+  "voice": "Vindemiatrix",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:45:22",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "b054db51300ad97f818ac39abf179be4",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 32.571,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisite",
+      "script_words": 44,
+      "generated_at": "2026-04-02 14:44:09"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "e17e792e03e3684c930f544b948781ba",
+      "wav_file": "003_property_0.wav",
+      "duration": 43.371,
+      "slide_title": "ಭಾರತದ ಜೀವವೈವಿಧ್ಯತೆಯ ಪ್ರಮುಖಾಂಶಗಳು",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 14:44:17"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "8bed1cb0ac8b7a31afc5a20955498a42",
+      "wav_file": "001_intro_0.wav",
+      "duration": 74.331,
+      "slide_title": "ಭಾರತದಲ್ಲಿ ಜೀವವೈವಿಧ್ಯತೆ ಮತ್ತು ಸಂರಕ್ಷಣಾ ಯೋಜನೆಗಳು",
+      "type": "intro",
+      "script_words": 89,
+      "generated_at": "2026-04-02 14:44:34"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "428d92cf24bbf903b4566b4162f5b9d2",
+      "wav_file": "006_recap_0.wav",
+      "duration": 40.971,
+      "slide_title": "ಸಾರಾಂಶ: ಭಾರತದಲ್ಲಿ ಜೀವವೈವಿಧ್ಯತೆ ಮತ್ತು ಸಂರಕ್ಷಣೆ",
+      "type": "recap",
+      "script_words": 50,
+      "generated_at": "2026-04-02 14:44:38"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "795487ef6f6d0844aa937c1cc56893dd",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 58.291,
+      "slide_title": "ಪ್ರಮುಖ ಸಂರಕ್ಷಣಾ ಯೋಜನೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 71,
+      "generated_at": "2026-04-02 14:44:57"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Vindemiatrix",
+      "script_hash": "11a12a2fd32c842360a32928bc6f1bb5",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 49.651,
+      "slide_title": "ಭಾರತದ ಪ್ರಾಣಿ ಸಂಪತ್ತು ಮತ್ತು ಅಪಾಯ",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 14:45:22"
+    }
+  }
+}

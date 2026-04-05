@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1",
+  "script": "ಪ್ರಯೋಗದ ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಒಂದು ಶುದ್ಧವಾದ ಪ್ರನಾಳವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಈ ಪ್ರನಾಳಕ್ಕೆ, ಮೊದಲು ಒಂದು ಮಿಲಿಲೀಟರ್ ಎಥನಾಲ್ ಅನ್ನು ಸೇರಿಸಿ. ನಂತರ, ಅಷ್ಟೇ ಪ್ರಮಾಣದ, ಅಂದರೆ ಒಂದು ಮಿಲಿಲೀಟರ್ ಗ್ಲೇಶಿಯಲ್ ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಸೇರಿಸಿ. ಈ ಎರಡು ದ್ರವಗಳನ್ನು ಪ್ರನಾಳದಲ್ಲಿ ತೆಗೆದುಕೊಂಡ ನಂತರ, ನಾವು ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗುತ್ತೇವೆ. ಈ ಮಿಶ್ರಣವು ನಮ್ಮ ಕ್ರಿಯೆಯ ಪ್ರತಿವರ್ತಕಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.",
+  "script_display": "ಪ್ರಯೋಗದ ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಒಂದು ಶುದ್ಧವಾದ ಪ್ರನಾಳವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಈ ಪ್ರನಾಳಕ್ಕೆ, ಮೊದಲು 1 mL ಎಥನಾಲ್ ಅನ್ನು ಸೇರಿಸಿ. ನಂತರ, ಅಷ್ಟೇ ಪ್ರಮಾಣದ, ಅಂದರೆ 1 mL ಗ್ಲೇಶಿಯಲ್ ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಸೇರಿಸಿ. ಈ ಎರಡು ದ್ರವಗಳನ್ನು ಪ್ರನಾಳದಲ್ಲಿ ತೆಗೆದುಕೊಂಡ ನಂತರ, ನಾವು ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗುತ್ತೇವೆ. ಈ ಮಿಶ್ರಣವು ನಮ್ಮ ಕ್ರಿಯೆಯ ಪ್ರತಿವರ್ತಕಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಪ್ರನಾಳದಲ್ಲಿ 1 mL ಎಥನಾಲ್ ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "ಅದಕ್ಕೆ 1 mL ಗ್ಲೇಶಿಯಲ್ ಅಸಿಟಿಕ್ ಆಮ್ಲವನ್ನು ಸೇರಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "split_left_text",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Illustration of a test tube containing ethanol and acetic acid being mixed.",
+    "labels": "ಪ್ರನಾಳ, ಎಥನಾಲ್ + ಅಸಿಟಿಕ್ ಆಮ್ಲ",
+    "scientific_significance": "Shows the initial step of mixing the reactants for the esterification reaction.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_035"
+}

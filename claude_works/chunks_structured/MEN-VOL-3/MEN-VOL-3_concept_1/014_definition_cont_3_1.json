@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಓರೆ ಎತ್ತರ (l) vs ಲಂಬ ಎತ್ತರ (h)",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಶಂಕುವಿನ ಓರೆ ಎತ್ತರ 'l' ಮತ್ತು ಲಂಬ ಎತ್ತರ 'h' ಎರಡನ್ನೂ ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸಲಾಗಿದೆ. 'l' ಎಂದು ಗುರುತಿಸಿರುವ ರೇಖೆಯು ಓರೆ ಎತ್ತರವಾಗಿದೆ. ಇದು ಶಂಕುವಿನ ಶೃಂಗದಿಂದ ಪಾದದ ಅಂಚಿಗೆ ಇರುವ ಓರೆಯಾದ ದೂರ. ಮತ್ತೊಂದೆಡೆ, 'h' ಎಂಬುದು ಲಂಬ ಎತ್ತರ, ಇದು ಶೃಂಗದಿಂದ ಪಾದದ ಕೇಂದ್ರಕ್ಕೆ ಇರುವ ನೇರವಾದ, ಲಂಬವಾದ ದೂರ. 'r' ಎಂಬುದು ಪಾದದ ತ್ರಿಜ್ಯ. ನೀವು ಗಮನಿಸಿದರೆ, 'l', 'h', ಮತ್ತು 'r' ಇವು ಮೂರು ಸೇರಿ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ರಚಿಸುತ್ತವೆ. ಇದರಲ್ಲಿ ಓರೆ ಎತ್ತರ 'l' ವಿಕರ್ಣವಾಗಿರುತ್ತದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಶಂಕುವಿನ ಓರೆ ಎತ್ತರ 'l' ಮತ್ತು ಲಂಬ ಎತ್ತರ 'h' ಎರಡನ್ನೂ ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸಲಾಗಿದೆ. 'l' ಎಂದು ಗುರುತಿಸಿರುವ ರೇಖೆಯು ಓರೆ ಎತ್ತರವಾಗಿದೆ. ಇದು ಶಂಕುವಿನ ಶೃಂಗದಿಂದ ಪಾದದ ಅಂಚಿಗೆ ಇರುವ ಓರೆಯಾದ ದೂರ. ಮತ್ತೊಂದೆಡೆ, 'h' ಎಂಬುದು ಲಂಬ ಎತ್ತರ, ಇದು ಶೃಂಗದಿಂದ ಪಾದದ ಕೇಂದ್ರಕ್ಕೆ ಇರುವ ನೇರವಾದ, ಲಂಬವಾದ ದೂರ. 'r' ಎಂಬುದು ಪಾದದ ತ್ರಿಜ್ಯ. ನೀವು ಗಮನಿಸಿದರೆ, 'l', 'h', ಮತ್ತು 'r' ಇವು ಮೂರು ಸೇರಿ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ರಚಿಸುತ್ತವೆ. ಇದರಲ್ಲಿ ಓರೆ ಎತ್ತರ 'l' ವಿಕರ್ಣವಾಗಿರುತ್ತದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಚಿತ್ರದಲ್ಲಿ, 'l' ಶಂಕುವಿನ ಓರೆಯಾದ ಮೇಲ್ಮೈಯ ಉದ್ದವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+    "'h' ಎಂಬುದು ಶೃಂಗದಿಂದ ಪಾದದ ಕೇಂದ್ರಕ್ಕೆ ಇರುವ ಲಂಬ ದೂರ.",
+    "'l', 'h', ಮತ್ತು 'r' ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right circular cone with its vertical height (h), radius (r), and slant height (l) clearly labeled. The three elements form a right-angled triangle inside the cone, with 'l' as the hypotenuse.",
+    "labels": "ಶೃಂಗ (Apex), ಪಾದದ ಕೇಂದ್ರ (Center of base), ಎತ್ತರ (h), ತ್ರಿಜ್ಯ (r), ಓರೆ ಎತ್ತರ (l)",
+    "mathematical_significance": "Visually differentiates between vertical height (h) and slant height (l). Establishes the geometric relationship (right-angled triangle) between h, r, and l, which is the basis for the Pythagorean formula connecting them.",
+    "placeholder_note": "Image to be generated based on the description. It should be a clean line diagram of a cone."
+  },
+  "chunk_id": "MEN-VOL-3_concept_1_chunk_014"
+}

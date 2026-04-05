@@ -1,0 +1,81 @@
+{
+  "module_id": "std_9_chapter_6_concept_5",
+  "chapter_code": "std_9_chapter_6",
+  "voice": "Algenib",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:05:48",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "800edd60232f7074c5f8503e43555cdc",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.291,
+      "slide_title": "ಪೂರ್ವ ಅವಶ್ಯಕತೆಗಳು",
+      "type": "chunk",
+      "script_words": 38,
+      "generated_at": "2026-04-02 16:04:29"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "5e67d496106ae4e72dd90bff2a19972b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 46.211,
+      "slide_title": "ಸರಳ ಶಾಶ್ವತ ಅಂಗಾಂಶ",
+      "type": "chunk",
+      "script_words": 65,
+      "generated_at": "2026-04-02 16:04:41"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "e1679878d7aa779acc783c340d7089b8",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 47.211,
+      "slide_title": "ಸರಳ ಶಾಶ್ವತ ಅಂಗಾಂಶ: ಕೋಲಂಕೈಮ",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 16:04:43"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "5e436d93928ee89006b041ded5194c36",
+      "wav_file": "003_classification_0.wav",
+      "duration": 58.291,
+      "slide_title": "ಸರಳ ಶಾಶ್ವತ ಅಂಗಾಂಶ: ಪೇರಂಕೈಮ",
+      "type": "concept_explanation",
+      "script_words": 75,
+      "generated_at": "2026-04-02 16:04:49"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "7ffaea330a195297e758ea540a41cc54",
+      "wav_file": "006_recap_0.wav",
+      "duration": 37.691,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 16:05:03"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "c60a1c27eb6cc318611f81e791f688b9",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 59.851,
+      "slide_title": "ಸರಳ ಶಾಶ್ವತ ಅಂಗಾಂಶ: ಸ್ಕ್ಲೀರಂಕೈಮ",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 16:05:48"
+    }
+  }
+}

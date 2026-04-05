@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಬೆಳಕಿನ ವಿವರ್ತನೆ (Dispersion of Light)",
+  "script": "ಹಾಗಾದರೆ, ಬಿಳಿ ಬೆಳಕಿನಿಂದ ಬರುವ ಆ ಏಳು ಬಣ್ಣಗಳು ಯಾವುವು? ಅವುಗಳಿಗೆ ಒಂದು ನಿರ್ದಿಷ್ಟ ಕ್ರಮವಿದೆ. ಕೆಳಗಿನಿಂದ ಮೇಲಕ್ಕೆ, ಆ ಬಣ್ಣಗಳು ಹೀಗಿವೆ: ನೇರಳೆ, ನೀಲಿ, ಆಕಾಶ ನೀಲಿ, ಹಸಿರು, ಹಳದಿ, ಕಿತ್ತಳೆ, ಮತ್ತು ಕೆಂಪು. ಇದನ್ನು ಸುಲಭವಾಗಿ ನೆನಪಿಡಲು ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರಗಳ 'ವಿಬ್ಗಯೋರ್' ಎಂಬ ಸಂಕ್ಷಿಪ್ತ ರೂಪವನ್ನು ಬಳಸುತ್ತಾರೆ. ಪರೀಕ್ಷೆಯಲ್ಲಿ ಈ ಬಣ್ಣಗಳ ಕ್ರಮವನ್ನು ಕೇಳಬಹುದು, ಆದ್ದರಿಂದ ವರ್ಣಪಟಲದಲ್ಲಿರುವ ಈ ಏಳು ಬಣ್ಣಗಳನ್ನು ಮತ್ತು ಅವುಗಳ ಕ್ರಮವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಹಾಗಾದರೆ, ಬಿಳಿ ಬೆಳಕಿನಿಂದ ಬರುವ ಆ ಏಳು ಬಣ್ಣಗಳು ಯಾವುವು? ಅವುಗಳಿಗೆ ಒಂದು ನಿರ್ದಿಷ್ಟ ಕ್ರಮವಿದೆ. ಕೆಳಗಿನಿಂದ ಮೇಲಕ್ಕೆ, ಆ ಬಣ್ಣಗಳು ಹೀಗಿವೆ: ನೇರಳೆ (Violet), ನೀಲಿ (Indigo), ಆಕಾಶ ನೀಲಿ (Blue), ಹಸಿರು (Green), ಹಳದಿ (Yellow), ಕಿತ್ತಳೆ (Orange), ಮತ್ತು ಕೆಂಪು (Red). ಇದನ್ನು ಸುಲಭವಾಗಿ ನೆನಪಿಡಲು 'VIBGYOR' ಎಂಬ ಸಂಕ್ಷಿಪ್ತ ರೂಪವನ್ನು ಬಳಸುತ್ತಾರೆ. ಪರೀಕ್ಷೆಯಲ್ಲಿ ಈ ಬಣ್ಣಗಳ ಕ್ರಮವನ್ನು ಕೇಳಬಹುದು, ಆದ್ದರಿಂದ ವರ್ಣಪಟಲದಲ್ಲಿರುವ ಈ ಏಳು ಬಣ್ಣಗಳನ್ನು ಮತ್ತು ಅವುಗಳ ಕ್ರಮವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ವರ್ಣಪಟಲದಲ್ಲಿ (Spectrum) ಏಳು ಬಣ್ಣಗಳಿವೆ.",
+    "ಬಣ್ಣಗಳ ಕ್ರಮ (ಕೆಳಗಿನಿಂದ ಮೇಲಕ್ಕೆ):",
+    "ನೇರಳೆ (Violet), ನೀಲಿ (Indigo), ಆಕಾಶ ನೀಲಿ (Blue), ಹಸಿರು (Green), ಹಳದಿ (Yellow), ಕಿತ್ತಳೆ (Orange), ಕೆಂಪು (Red).",
+    "ನೆನಪಿಡಲು ಸುಲಭವಾದ ರೂಪ: VIBGYOR."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A horizontal color band showing the spectrum of light in the correct VIBGYOR order, with each color labeled in Kannada and English.",
+    "labels": "ನೇರಳೆ (Violet), ನೀಲಿ (Indigo), ಆಕಾಶ ನೀಲಿ (Blue), ಹಸಿರು (Green), ಹಳದಿ (Yellow), ಕಿತ್ತಳೆ (Orange), ಕೆಂಪು (Red)",
+    "scientific_significance": "Visually represents the sequence of colors in the visible spectrum produced by dispersion.",
+    "placeholder_note": "Image to be generated."
+  },
+  "sub_type": "bullet_list",
+  "chunk_id": "std_7_chapter_11_concept_8_chunk_005"
+}

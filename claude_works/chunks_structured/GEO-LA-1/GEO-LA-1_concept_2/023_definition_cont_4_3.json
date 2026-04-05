@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ಲಘು ಕೋನ: ನಿಜ ಜೀವನದ ಉದಾಹರಣೆ",
+  "script": "ನಮ್ಮ ದಿನನಿತ್ಯದ ಜೀವನದಲ್ಲಿಯೂ ಲಘು ಕೋನಗಳನ್ನು ನಾವು ಸುಲಭವಾಗಿ ಕಾಣಬಹುದು. ಉದಾಹರಣೆಗೆ, ಗಡಿಯಾರದಲ್ಲಿ ಒಂದು ಗಂಟೆಯಾದಾಗ, ಗಂಟೆ ಮತ್ತು ನಿಮಿಷದ ಮುಳ್ಳುಗಳ ನಡುವೆ ಉಂಟಾಗುವ ಕೋನವು ಒಂದು ಲಘು ಕೋನವಾಗಿರುತ್ತದೆ. ನಿಖರವಾಗಿ ಹೇಳಬೇಕೆಂದರೆ, ಅದು ಮೂವತ್ತು ಡಿಗ್ರಿ ಇರುತ್ತದೆ. ಅದೇ ರೀತಿ, ಕತ್ತರಿಯನ್ನು ಸ್ವಲ್ಪ ತೆರೆದಾಗ ಅದರ ಬ್ಲೇಡ್‌ಗಳ ನಡುವೆ, ತೆರೆದ ಲ್ಯಾಪ್ಟಾಪ್‌ನ ಪರದೆ ಮತ್ತು ಕೀಬೋರ್ಡ್ ನಡುವೆ, ಅಥವಾ ಪಿಜ್ಜಾದ ಒಂದು ಸ್ಲೈಸ್‌ನ ತುದಿಯಲ್ಲಿ ಕೂಡ ಲಘು ಕೋನವನ್ನು ಗಮನಿಸಬಹುದು. ಈ ರೀತಿ ಗಣಿತವು ನಮ್ಮ ಸುತ್ತಮುತ್ತಲೇ ಇರುತ್ತದೆ.",
+  "script_display": "ನಮ್ಮ ದಿನನಿತ್ಯದ ಜೀವನದಲ್ಲಿಯೂ ಲಘು ಕೋನಗಳನ್ನು ನಾವು ಸುಲಭವಾಗಿ ಕಾಣಬಹುದು. ಉದಾಹರಣೆಗೆ, ಗಡಿಯಾರದಲ್ಲಿ ಒಂದು ಗಂಟೆಯಾದಾಗ, ಗಂಟೆ ಮತ್ತು ನಿಮಿಷದ ಮುಳ್ಳುಗಳ ನಡುವೆ ಉಂಟಾಗುವ ಕೋನವು ಒಂದು ಲಘು ಕೋನವಾಗಿರುತ್ತದೆ. ನಿಖರವಾಗಿ ಹೇಳಬೇಕೆಂದರೆ, ಅದು $30^\\circ$ ಇರುತ್ತದೆ. ಅದೇ ರೀತಿ, ಕತ್ತರಿಯನ್ನು ಸ್ವಲ್ಪ ತೆರೆದಾಗ ಅದರ ಬ್ಲೇಡ್‌ಗಳ ನಡುವೆ, ತೆರೆದ ಲ್ಯಾಪ್ಟಾಪ್‌ನ ಪರದೆ ಮತ್ತು ಕೀಬೋರ್ಡ್ ನಡುವೆ, ಅಥವಾ ಪಿಜ್ಜಾದ ಒಂದು ಸ್ಲೈಸ್‌ನ ತುದಿಯಲ್ಲಿ ಕೂಡ ಲಘು ಕೋನವನ್ನು ಗಮನಿಸಬಹುದು. ಈ ರೀತಿ ಗಣಿತವು ನಮ್ಮ ಸುತ್ತಮುತ್ತಲೇ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಗಡಿಯಾರದಲ್ಲಿ 1 ಗಂಟೆಯಾದಾಗ ಮುಳ್ಳುಗಳ ನಡುವಿನ ಕೋನ ($30^\\circ$).",
+    "ಸ್ವಲ್ಪ ತೆರೆದ ಕತ್ತರಿಯ ಬ್ಲೇಡ್‌ಗಳ ನಡುವಿನ ಕೋನ.",
+    "ಪಿಜ್ಜಾ ಸ್ಲೈಸ್‌ನ ತುದಿಯಲ್ಲಿರುವ ಕೋನ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of an analog clock face showing the time 1:00. The angle between the hour hand (pointing to 1) and the minute hand (pointing to 12) is highlighted with an arc and labeled as 30°, showing a real-world example of an acute angle.",
+    "labels": "12, 1, Hour Hand, Minute Hand, 30°",
+    "mathematical_significance": "Connects the abstract concept of an acute angle to a familiar, everyday object, making the definition more tangible and memorable.",
+    "placeholder_note": "Image to be generated. A clock face with hands at 1:00. The angle between them should be clearly marked."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "",
+  "chunk_id": "GEO-LA-1_concept_2_chunk_023"
+}

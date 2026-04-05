@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಬಾಹುಗಳನ್ನು ಗುರುತಿಸುವುದು ಹೇಗೆ?",
+  "script": "ಈ ಬಾಹುಗಳನ್ನು ಸುಲಭವಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಒಂದು ಉಪಾಯವಿದೆ. ಲಂಬಕೋನವನ್ನು ಒಂದು ಕೋಣೆಯ ಮೂಲೆಯಂತೆ ಭಾವಿಸಿ. ಆ ಮೂಲೆಯನ್ನು ರೂಪಿಸುವ ಎರಡು 'ಗೋಡೆ'ಗಳೇ ಲಂಬಕೋನವನ್ನೊಳಗೊಂಡ ಬಾಹುಗಳು. ಅಂದರೆ, ಯಾವ ಎರಡು ಬಾಹುಗಳು ಸೇರಿ 'ಎಲ್' ಆಕಾರವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆಯೋ, ಅವೇ ಆ ತ್ರಿಭುಜದ ಬಾಹುಗಳು. ಇನ್ನೊಂದು ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ವಿಕರ್ಣವು ಲಂಬಕೋನವನ್ನು ಎಂದಿಗೂ ಸ್ಪರ್ಶಿಸುವುದಿಲ್ಲ, ಆದರೆ ಈ ಬಾಹುಗಳು ಲಂಬಕೋನವನ್ನು ಸ್ಪರ್ಶಿಸುತ್ತವೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಳ್ಳುವುದು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಬಳಸುವಾಗ ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈ ಬಾಹುಗಳನ್ನು ಸುಲಭವಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಒಂದು ಉಪಾಯವಿದೆ. ಲಂಬಕೋನವನ್ನು ಒಂದು ಕೋಣೆಯ ಮೂಲೆಯಂತೆ ಭಾವಿಸಿ. ಆ ಮೂಲೆಯನ್ನು ರೂಪಿಸುವ ಎರಡು 'ಗೋಡೆ'ಗಳೇ ಲಂಬಕೋನವನ್ನೊಳಗೊಂಡ ಬಾಹುಗಳು. ಅಂದರೆ, ಯಾವ ಎರಡು ಬಾಹುಗಳು ಸೇರಿ 'L' ಆಕಾರವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆಯೋ, ಅವೇ ಆ ತ್ರಿಭುಜದ ಬಾಹುಗಳು. ಇನ್ನೊಂದು ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ವಿಕರ್ಣವು ಲಂಬಕೋನವನ್ನು ಎಂದಿಗೂ ಸ್ಪರ್ಶಿಸುವುದಿಲ್ಲ, ಆದರೆ ಈ ಬಾಹುಗಳು ಲಂಬಕೋನವನ್ನು ಸ್ಪರ್ಶಿಸುತ್ತವೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಳ್ಳುವುದು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಬಳಸುವಾಗ ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಲಂಬಕೋನವನ್ನು ಒಂದು ಮೂಲೆಯಂತೆ ಭಾವಿಸಿ.",
+    "ಆ ಮೂಲೆಯನ್ನು ರೂಪಿಸುವ ಎರಡು 'ಗೋಡೆ'ಗಳೇ ಲಂಬಕೋನವನ್ನೊಳಗೊಂಡ ಬಾಹುಗಳು.",
+    "ವಿಕರ್ಣವು ಲಂಬಕೋನವನ್ನು ಸ್ಪರ್ಶಿಸುವುದಿಲ್ಲ, ಆದರೆ ಈ ಬಾಹುಗಳು ಸ್ಪರ್ಶಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same right-angled triangle ABC. This time, two arrows originate from the right-angle symbol at B, one pointing along AB and the other along BC, to emphasize that these two sides form the angle.",
+    "labels": "A, B, C, AB, BC, AC",
+    "mathematical_significance": "Reinforces the identification of legs by visually connecting them to the right angle itself.",
+    "placeholder_note": "Image to be generated."
+  },
+  "chunk_id": "GEO-TRI-1_concept_5_chunk_010"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಇಲ್ಲಿ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. ಒಂದು ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಅಣುವು, ಎರಡು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಅಣುಗಳೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎರಡು ಸೋಡಿಯಂ ಅಲ್ಯುಮಿನೇಟ್ ಅಣುಗಳನ್ನು ಮತ್ತು ಒಂದು ನೀರಿನ ಅಣುವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಇಲ್ಲಿ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಆಮ್ಲದಂತೆ ವರ್ತಿಸುತ್ತಿದೆ.",
+  "script_display": "ಇಲ್ಲಿ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. ಒಂದು ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ (Al₂O₃) ಅಣುವು, ಎರಡು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) ಅಣುಗಳೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎರಡು ಸೋಡಿಯಂ ಅಲ್ಯುಮಿನೇಟ್ (NaAlO₂) ಅಣುಗಳನ್ನು ಮತ್ತು ಒಂದು ನೀರಿನ (H₂O) ಅಣುವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಇಲ್ಲಿ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಆಮ್ಲದಂತೆ ವರ್ತಿಸುತ್ತಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Al_2O_3(s) + 2NaOH(aq) \\rightarrow 2NaAlO_2(aq) + H_2O(l)",
+    "placeholder_note": "Balanced chemical equation for the reaction of aluminum oxide with sodium hydroxide."
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_036"
+}

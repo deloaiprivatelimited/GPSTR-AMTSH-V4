@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಬ್ಬ ಅಂಗಡಿಯವನು ಒಂದು ಪೆನ್ನನ್ನು ವಿದ್ಯಾರ್ಥಿಗೆ ಹತ್ತು ರೂಪಾಯಿಗೆ ಮಾರುತ್ತಾನೆ ಎಂದು ಭಾವಿಸೋಣ. ಆಗ ವಿದ್ಯಾರ್ಥಿಯು ಅಂಗಡಿಯವನಿಗೆ ಹತ್ತು ರೂಪಾಯಿ ಕೊಡುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ, ಆ ಪೆನ್ನಿನ ಮಾರಿದ ಬೆಲೆ, ಅಂದರೆ ಎಸ್ ಪಿ, ಹತ್ತು ರೂಪಾಯಿ ಆಗಿದೆ. ಯಾಕೆಂದರೆ, ಇದು ಅಂಗಡಿಯವನಿಗೆ ತನ್ನ ವಸ್ತುವನ್ನು ಮಾರಾಟ ಮಾಡಿದ್ದರಿಂದ ಗ್ರಾಹಕನಿಂದ ಸಿಕ್ಕಿದ ಹಣ. ನೆನಪಿಡಿ, ಮಾರಿದ ಬೆಲೆ ಎಂದರೆ ಮಾರಾಟಗಾರನಿಗೆ ಬರುವ ಹಣ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಬ್ಬ ಅಂಗಡಿಯವನು ಒಂದು ಪೆನ್ನನ್ನು ವಿದ್ಯಾರ್ಥಿಗೆ ₹10 ಕ್ಕೆ ಮಾರುತ್ತಾನೆ ಎಂದು ಭಾವಿಸೋಣ. ಆಗ ವಿದ್ಯಾರ್ಥಿಯು ಅಂಗಡಿಯವನಿಗೆ ₹10 ಕೊಡುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ, ಆ ಪೆನ್ನಿನ ಮಾರಿದ ಬೆಲೆ (SP), ₹10 ಆಗಿದೆ. ಯಾಕೆಂದರೆ, ಇದು ಅಂಗಡಿಯವನಿಗೆ ತನ್ನ ವಸ್ತುವನ್ನು ಮಾರಾಟ ಮಾಡಿದ್ದರಿಂದ ಗ್ರಾಹಕನಿಂದ ಸಿಕ್ಕಿದ ಹಣ. ನೆನಪಿಡಿ, ಮಾರಿದ ಬೆಲೆ ಎಂದರೆ ಮಾರಾಟಗಾರನಿಗೆ ಬರುವ ಹಣ.",
+  "display_bullets": [
+    "ಒಬ್ಬ ಅಂಗಡಿಯವನು ಒಂದು ಪೆನ್ನನ್ನು ವಿದ್ಯಾರ್ಥಿಗೆ ₹10 ಕ್ಕೆ ಮಾರುತ್ತಾನೆ.",
+    "ಇಲ್ಲಿ, ಪೆನ್ನಿನ ಮಾರಿದ ಬೆಲೆ (SP) ₹10 ಆಗಿದೆ.",
+    "ಇದು ಅಂಗಡಿಯವನಿಗೆ ಗ್ರಾಹಕನಿಂದ ಸಿಕ್ಕಿದ ಹಣ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, friendly cartoon illustration of a shopkeeper at a counter selling a pen to a student. The student is handing over a 10 rupee coin to the shopkeeper, and the shopkeeper is handing over the pen. Arrows can indicate the direction of exchange. The text '₹10' should be clearly visible near the coin.",
+    "labels": "Shopkeeper, Student, Pen, ₹10 coin",
+    "mathematical_significance": "Visually represents the concept of Selling Price (SP) as the money received by the seller in a transaction.",
+    "placeholder_note": "Image to be generated showing a transaction where a pen is sold for 10 rupees."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "RPP-COMP-1_concept_3_chunk_010"
+}

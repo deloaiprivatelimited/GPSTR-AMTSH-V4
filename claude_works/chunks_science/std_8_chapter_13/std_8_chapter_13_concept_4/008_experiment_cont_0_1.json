@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ನಮ್ಮ ಕೆಲಿಡೋಸ್ಕೋಪ್ ತಯಾರಿಸಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಸುಮಾರು ಹದಿನೈದು ಸೆಂಟಿಮೀಟರ್ ಉದ್ದ ಮತ್ತು ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ಅಗಲವಿರುವ ಮೂರು ಸಮಾನ ಗಾತ್ರದ ಆಯತಾಕಾರದ ದರ್ಪಣ ಪಟ್ಟಿಗಳು. ನಂತರ, ಈ ದರ್ಪಣಗಳನ್ನು ಇರಿಸಲು ಒಂದು ರಟ್ಟಿನ ಕೊಳವೆ. ಇದರ ಜೊತೆಗೆ, ಒಂದು ಪಾರದರ್ಶಕ ಮತ್ತು ಒಂದು ಅಪಾರದರ್ಶಕ ವೃತ್ತಾಕಾರದ ಗಾಜಿನ ತಟ್ಟೆಗಳು, ಹಾಗೂ ಕೆಲವು ಬಣ್ಣದ ಗಾಜಿನ ಚೂರುಗಳು ಅಥವಾ ಬಳೆ ಚೂರುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ನಾವು ನಮ್ಮದೇ ಆದ ಕೆಲಿಡೋಸ್ಕೋಪ್ ಅನ್ನು ರಚಿಸಬಹುದು.",
+  "script_display": "ನಮ್ಮ ಕೆಲಿಡೋಸ್ಕೋಪ್ ತಯಾರಿಸಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಸುಮಾರು 15 cm ಉದ್ದ ಮತ್ತು 4 cm ಅಗಲವಿರುವ ಮೂರು ಸಮಾನ ಗಾತ್ರದ ಆಯತಾಕಾರದ ದರ್ಪಣ ಪಟ್ಟಿಗಳು. ನಂತರ, ಈ ದರ್ಪಣಗಳನ್ನು ಇರಿಸಲು ಒಂದು ರಟ್ಟಿನ ಕೊಳವೆ. ಇದರ ಜೊತೆಗೆ, ಒಂದು ಪಾರದರ್ಶಕ ಮತ್ತು ಒಂದು ಅಪಾರದರ್ಶಕ ವೃತ್ತಾಕಾರದ ಗಾಜಿನ ತಟ್ಟೆಗಳು, ಹಾಗೂ ಕೆಲವು ಬಣ್ಣದ ಗಾಜಿನ ಚೂರುಗಳು ಅಥವಾ ಬಳೆ ಚೂರುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ನಾವು ನಮ್ಮದೇ ಆದ ಕೆಲಿಡೋಸ್ಕೋಪ್ ಅನ್ನು ರಚಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಮೂರು ಸಮಾನ ಗಾತ್ರದ ಆಯತಾಕಾರದ ದರ್ಪಣ ಪಟ್ಟಿಗಳು",
+    "ರಟ್ಟಿನ ಕೊಳವೆ (Cardboard tube)",
+    "ಪಾರದರ್ಶಕ ಮತ್ತು ಅಪಾರದರ್ಶಕ ಗಾಜಿನ ತಟ್ಟೆಗಳು",
+    "ಬಣ್ಣದ ಗಾಜಿನ ಚೂರುಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A flat lay of materials needed for making a kaleidoscope: three rectangular mirror strips, a cardboard tube, two circular glass plates (one transparent, one frosted/opaque), and a small pile of colorful glass beads or broken bangle pieces.",
+    "labels": "ದರ್ಪಣ ಪಟ್ಟಿಗಳು, ರಟ್ಟಿನ ಕೊಳವೆ, ಗಾಜಿನ ತಟ್ಟೆಗಳು, ಬಣ್ಣದ ಚೂರುಗಳು",
+    "scientific_significance": "Shows the simple, accessible materials required to demonstrate the principle of multiple reflections.",
+    "placeholder_note": "Image to be generated showing the listed materials."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_8_chapter_13_concept_4_chunk_008"
+}

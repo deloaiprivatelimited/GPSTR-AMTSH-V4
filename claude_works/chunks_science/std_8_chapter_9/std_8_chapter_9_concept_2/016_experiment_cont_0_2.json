@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಭಾಗ 2 - ಜಾರಿಸುವುದು",
+  "script": "ಈಗ, ಪುಸ್ತಕ ಮತ್ತು ಪೆನ್ಸಿಲ್‌ಗಳನ್ನು ಪಕ್ಕಕ್ಕೆ ಇಡಿ. ಅದೇ ಪುಸ್ತಕವನ್ನು ನೇರವಾಗಿ ಮೇಜಿನ ಮೇಲೆ ಇಟ್ಟು, ಮೊದಲು ತಳ್ಳಿದಷ್ಟೇ ಬಲದಿಂದ ತಳ್ಳಲು ಪ್ರಯತ್ನಿಸಿ. ಪುಸ್ತಕವು ಚಲಿಸುತ್ತದೆಯೇ? ಅಥವಾ ಚಲಿಸಲು ಹೆಚ್ಚು ಬಲ ಬೇಕಾಗುತ್ತದೆಯೇ? ನೀವು ಗಮನಿಸುವಂತೆ, ಪುಸ್ತಕವನ್ನು ನೇರವಾಗಿ ಮೇಜಿನ ಮೇಲೆ ಜಾರಿಸುವುದು ಹೆಚ್ಚು ಕಷ್ಟಕರವಾಗಿರುತ್ತದೆ. ಮೇಲ್ಮೈಗಳ ನಡುವಿನ ಸಂಪರ್ಕದಿಂದಾಗಿ ಇಲ್ಲಿ ಹೆಚ್ಚಿನ ಪ್ರತಿರೋಧವನ್ನು ನೀವು ಅನುಭವಿಸುತ್ತೀರಿ. ಈ ಎರಡು ಸನ್ನಿವೇಶಗಳಲ್ಲಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಗುರುತಿಸಿಕೊಳ್ಳಿ. ಇದು ನಮ್ಮ ತೀರ್ಮಾನಕ್ಕೆ ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ, ಪುಸ್ತಕ ಮತ್ತು ಪೆನ್ಸಿಲ್‌ಗಳನ್ನು ಪಕ್ಕಕ್ಕೆ ಇಡಿ. ಅದೇ ಪುಸ್ತಕವನ್ನು ನೇರವಾಗಿ ಮೇಜಿನ ಮೇಲೆ ಇಟ್ಟು, ಮೊದಲು ತಳ್ಳಿದಷ್ಟೇ ಬಲದಿಂದ ತಳ್ಳಲು ಪ್ರಯತ್ನಿಸಿ. ಪುಸ್ತಕವು ಚಲಿಸುತ್ತದೆಯೇ? ಅಥವಾ ಚಲಿಸಲು ಹೆಚ್ಚು ಬಲ ಬೇಕಾಗುತ್ತದೆಯೇ? ನೀವು ಗಮನಿಸುವಂತೆ, ಪುಸ್ತಕವನ್ನು ನೇರವಾಗಿ ಮೇಜಿನ ಮೇಲೆ ಜಾರಿಸುವುದು ಹೆಚ್ಚು ಕಷ್ಟಕರವಾಗಿರುತ್ತದೆ. ಮೇಲ್ಮೈಗಳ ನಡುವಿನ ಸಂಪರ್ಕದಿಂದಾಗಿ ಇಲ್ಲಿ ಹೆಚ್ಚಿನ ಪ್ರತಿರೋಧವನ್ನು ನೀವು ಅನುಭವಿಸುತ್ತೀರಿ. ಈ ಎರಡು ಸನ್ನಿವೇಶಗಳಲ್ಲಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಗುರುತಿಸಿಕೊಳ್ಳಿ. ಇದು ನಮ್ಮ ತೀರ್ಮಾನಕ್ಕೆ ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಈಗ ಪೆನ್ಸಿಲ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+    "ಅದೇ ಪುಸ್ತಕವನ್ನು ನೇರವಾಗಿ ಮೇಜಿನ ಮೇಲೆ ಇಟ್ಟು ತಳ್ಳಿರಿ.",
+    "ಪುಸ್ತಕವನ್ನು ಜಾರಿಸಲು ಬೇಕಾದ ಬಲವನ್ನು ಮೊದಲಿನ ಸಂದರ್ಭಕ್ಕೆ ಹೋಲಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing the same thick book being pushed directly on the table surface (sliding). An arrow indicates the push, and a friction arrow opposes the motion.",
+    "labels": "ಪುಸ್ತಕ, ಜಾರುವ ಚಲನೆ, ಘರ್ಷಣಾ ಬಲ",
+    "scientific_significance": "Depicts the process of sliding, highlighting the direct contact between the book and the table which causes sliding friction.",
+    "placeholder_note": "Image to be generated for the second part of the procedure."
+  },
+  "sub_type": "procedure_step",
+  "chunk_id": "std_8_chapter_9_concept_2_chunk_016"
+}

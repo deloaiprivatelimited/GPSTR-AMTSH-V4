@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಹಂತ 2",
+  "script": "ಈಗ ಪ್ರಯೋಗದ ಎರಡನೇ ಭಾಗಕ್ಕೆ ಬರೋಣ. ನಮ್ಮ ಇನ್ನೊಂದು ಕಾಗದದ ಬಟ್ಟಲನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದರಲ್ಲಿ ಸುಮಾರು ಐವತ್ತು ಮಿಲಿ ಲೀಟರ್ ನೀರನ್ನು ಸುರಿಯಿರಿ. ಈಗ, ಈ ನೀರು ತುಂಬಿದ ಕಾಗದದ ಬಟ್ಟಲನ್ನು ಅದೇ ರೀತಿ ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯ ಮೇಲೆ ಹಿಡಿದು ಕಾಸೋಣ. ಈ ಬಾರಿ ಏನಾಗುತ್ತದೆ ಎಂದು ಊಹಿಸಬಲ್ಲಿರಾ? ಕಾಗದವು ಮೊದಲಿನಂತೆಯೇ ಉರಿಯುತ್ತದೆಯೇ ಅಥವಾ ಬೇರೆನಾದರೂ ಆಗುತ್ತದೆಯೇ? ಸ್ವಲ್ಪ ಸಮಯದವರೆಗೆ ಕಾಸುತ್ತಾ ಇರಿ ಮತ್ತು ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ. ನಿಮ್ಮ ವೀಕ್ಷಣೆಗಳನ್ನು ದಾಖಲಿಸಿಕೊಳ್ಳಿ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗದ ಎರಡನೇ ಭಾಗಕ್ಕೆ ಬರೋಣ. ನಮ್ಮ ಇನ್ನೊಂದು ಕಾಗದದ ಬಟ್ಟಲನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದರಲ್ಲಿ ಸುಮಾರು 50 mL ನೀರನ್ನು ಸುರಿಯಿರಿ. ಈಗ, ಈ ನೀರು ತುಂಬಿದ ಕಾಗದದ ಬಟ್ಟಲನ್ನು ಅದೇ ರೀತಿ ಮೇಣದಬತ್ತಿಯ ಜ್ವಾಲೆಯ ಮೇಲೆ ಹಿಡಿದು ಕಾಸೋಣ. ಈ ಬಾರಿ ಏನಾಗುತ್ತದೆ ಎಂದು ಊಹಿಸಬಲ್ಲಿರಾ? ಕಾಗದವು ಮೊದಲಿನಂತೆಯೇ ಉರಿಯುತ್ತದೆಯೇ ಅಥವಾ ಬೇರೆನಾದರೂ ಆಗುತ್ತದೆಯೇ? ಸ್ವಲ್ಪ ಸಮಯದವರೆಗೆ ಕಾಸುತ್ತಾ ಇರಿ ಮತ್ತು ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ. ನಿಮ್ಮ ವೀಕ್ಷಣೆಗಳನ್ನು ದಾಖಲಿಸಿಕೊಳ್ಳಿ.",
+  "display_bullets": [
+    "ಎರಡನೇ ಕಾಗದದ ಬಟ್ಟಲಿನಲ್ಲಿ ಸುಮಾರು 50 mL ನೀರನ್ನು ಸುರಿಯಿರಿ.",
+    "ನೀರಿರುವ ಬಟ್ಟಲನ್ನು ಜ್ವಾಲೆಯ ಮೇಲೆ ಇಟ್ಟು ಕಾಸಿ.",
+    "ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An animation or diagram showing a hand holding a paper cup filled with water over a candle flame. The paper does not burn, and maybe some steam starts to rise from the water.",
+    "labels": "ನೀರಿರುವ ಕಾಗದದ ಬಟ್ಟಲು, ಜ್ವಾಲೆ, ನೀರು",
+    "scientific_significance": "Demonstrates the effect of a heat sink (water) in preventing a combustible material from reaching its ignition temperature.",
+    "placeholder_note": "Image to be generated showing the paper cup with water being heated."
+  },
+  "chunk_id": "std_8_chapter_4_concept_2_chunk_017"
+}

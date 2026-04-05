@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 3",
+  "script": "ಈಗ ಆಯತವನ್ನು ಪೂರ್ಣಗೊಳಿಸೋಣ. ಬಿ ಯಿಂದ ಎಳೆದ ಲಂಬದ ಮೇಲೆ, ಬಿ ಸಿ ಸಮನಾಗಿದೆ ಎಂಟು ಸೆಂಟಿಮೀಟರ್ ಆಗುವಂತೆ ಸಿ ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ. ನಂತರ ಸಿ ಮತ್ತು ಡಿ ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ. ಈಗ ಎ ಬಿ ಸಿ ಡಿ ಯು ನಮಗೆ ಬೇಕಾದ ಆಯತವಾಗಿದೆ. ಕೊನೆಯದಾಗಿ, ನಮ್ಮ ರಚನೆ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸೋಣ. ಎ ಡಿ ಯ ಮಧ್ಯಬಿಂದು ಇ ಮತ್ತು ಬಿ ಸಿ ಯ ಮಧ್ಯಬಿಂದು ಎಫ್ ಅನ್ನು ಗುರುತಿಸಿ. ಇ ಎಫ್ ಅನ್ನು ಸೇರಿಸಿದಾಗ, ನಮಗೆ ಎ ಬಿ ಇ ಎಫ್ ಮತ್ತು ಇ ಎಫ್ ಸಿ ಡಿ ಎಂಬ ಎರಡು ಆಕೃತಿಗಳು ಸಿಗುತ್ತವೆ. ಇವುಗಳು ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ಬಾಹುವಿರುವ ತದ್ರೂಪ ಚೌಕಗಳಾಗಿವೆಯೇ ಎಂದು ಅಳತೆ ಮಾಡಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.",
+  "script_display": "ಈಗ ಆಯತವನ್ನು ಪೂರ್ಣಗೊಳಿಸೋಣ. B ಯಿಂದ ಎಳೆದ ಲಂಬದ ಮೇಲೆ, $BC = 8 \\text{ cm}$ ಆಗುವಂತೆ C ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ. ನಂತರ C ಮತ್ತು D ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ. ಈಗ ABCD ಯು ನಮಗೆ ಬೇಕಾದ ಆಯತವಾಗಿದೆ. ಕೊನೆಯದಾಗಿ, ನಮ್ಮ ರಚನೆ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸೋಣ. AD ಯ ಮಧ್ಯಬಿಂದು E ಮತ್ತು BC ಯ ಮಧ್ಯಬಿಂದು F ಅನ್ನು ಗುರುತಿಸಿ. EF ಅನ್ನು ಸೇರಿಸಿದಾಗ, ನಮಗೆ ABEF ಮತ್ತು EFCD ಎಂಬ ಎರಡು ಆಕೃತಿಗಳು ಸಿಗುತ್ತವೆ. ಇವುಗಳು $4 \\text{ cm}$ ಬಾಹುವಿರುವ ತದ್ರೂಪ ಚೌಕಗಳಾಗಿವೆಯೇ ಎಂದು ಅಳತೆ ಮಾಡಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The completed rectangle ABCD. Point C is marked. The line segment CD is drawn. Midpoints E on AD and F on BC are marked. A line segment EF is drawn, dividing the rectangle into two squares, ABEF and EFCD. Dimensions are labeled: AB=4cm, AD=8cm, AE=4cm.",
+    "labels": "A, B, C, D, E, F, 4 cm, 8 cm",
+    "mathematical_significance": "Shows the final constructed figure and the verification step, visually confirming that the rectangle is composed of two congruent squares.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "VIS-CON-1_example_5",
+  "steps": [
+    {
+      "step": 5,
+      "action_display": "B ಯಿಂದ ಲಂಬದ ಮೇಲೆ $BC = 8 \\text{ cm}$ ಗುರುತಿಸಿ. C ಮತ್ತು D ಯನ್ನು ಸೇರಿಸಿ.",
+      "justification": "ಆಯತವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವುದು."
+    },
+    {
+      "step": 6,
+      "action_display": "ಪರಿಶೀಲನೆ: AD ಮತ್ತು BC ಯ ಮಧ್ಯಬಿಂದುಗಳನ್ನು (E, F) ಸೇರಿಸಿ. ABEF ಮತ್ತು EFCD ಗಳು $4 \\text{ cm}$ ಚೌಕಗಳೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.",
+      "justification": "ರಚನೆಯು ಸಮಸ್ಯೆಯ ನಿಬಂಧನೆಗಳನ್ನು ಪೂರೈಸುತ್ತದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುವುದು."
+    }
+  ],
+  "chunk_id": "VIS-CON-1_concept_6_chunk_006"
+}

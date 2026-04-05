@@ -1,0 +1,31 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸಿಲಿಂಡರ್‌ನ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ",
+  "script": "ಈಗ, ಸಿಲಿಂಡರ್‌ನ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಇದನ್ನು ಟಿ ಎಸ್ ಎ ಎಂದು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಕರೆಯುತ್ತಾರೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: ಟಿ ಎಸ್ ಎ ಸಮನಾಗಿದೆ ಎರಡು ಪೈ ಆರ್ ಗುಣಿಸು ಆರ್ ಪ್ಲಸ್ ಎಚ್. ಇಲ್ಲಿ, ಟಿ ಎಸ್ ಎ ಎಂದರೆ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ. ಆರ್ ಎಂದರೆ ಸಿಲಿಂಡರ್‌ನ ಪಾದದ ತ್ರಿಜ್ಯ, ಮತ್ತು ಎಚ್ ಎಂದರೆ ಸಿಲಿಂಡರ್‌ನ ಎತ್ತರ. ಪೈ ಒಂದು ಸ್ಥಿರಾಂಕವಾಗಿದ್ದು, ಅದರ ಮೌಲ್ಯ ಸುಮಾರು ಇಪ್ಪತ್ತೆರಡು ಭಾಗಿಸು ಏಳು. ಈ ಸೂತ್ರವು ಒಂದು ಮುಚ್ಚಿದ ಸಿಲಿಂಡರ್‌ನ ವಕ್ರ ಮೇಲ್ಮೈ ಜೊತೆಗೆ ಅದರ ಮೇಲಿನ ಮತ್ತು ಕೆಳಗಿನ ವೃತ್ತಾಕಾರದ ಮುಖಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವನ್ನು ನೀಡುತ್ತದೆ.",
+  "script_display": "ಈಗ, ಸಿಲಿಂಡರ್‌ನ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ (Total Surface Area) ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಇದನ್ನು TSA ಎಂದು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಕರೆಯುತ್ತಾರೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: $TSA = 2\\pi r(r + h)$.\n\n*   `TSA` = ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ (Total Surface Area)\n*   `r` = ಸಿಲಿಂಡರ್‌ನ ಪಾದದ ತ್ರಿಜ್ಯ (radius)\n*   `h` = ಸಿಲಿಂಡರ್‌ನ ಎತ್ತರ (height)\n*   `\\pi` ಒಂದು ಸ್ಥಿರಾಂಕ, ಇದರ ಮೌಲ್ಯ `\\approx \\frac{22}{7}`.\n\nಈ ಸೂತ್ರವು ಒಂದು ಮುಚ್ಚಿದ ಸಿಲಿಂಡರ್‌ನ ವಕ್ರ ಮೇಲ್ಮೈ ಜೊತೆಗೆ ಅದರ ಮೇಲಿನ ಮತ್ತು ಕೆಳಗಿನ ವೃತ್ತಾಕಾರದ ಮುಖಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವನ್ನು ನೀಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "classic_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "TSA = 2\\pi r(r+h)",
+    "placeholder_note": "Formula for Total Surface Area of a Cylinder"
+  },
+  "chunk_id": "MEN-MEN-2_concept_2_chunk_039"
+}

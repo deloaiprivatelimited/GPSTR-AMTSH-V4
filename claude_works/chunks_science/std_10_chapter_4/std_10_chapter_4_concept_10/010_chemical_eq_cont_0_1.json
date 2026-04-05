@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಮತೋಲಿತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಎಸ್ಟರೀಕರಣ ಕ್ರಿಯೆಯ ಸಮತೋಲಿತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಒಂದು ಅಣು ಎಥನೋಯಿಕ್ ಆಮ್ಲ, ಅಂದರೆ ಸಿ ಎಚ್ ತ್ರೀ ಸಿ ಓ ಓ ಎಚ್, ಒಂದು ಅಣು ಎಥನಾಲ್, ಅಂದರೆ ಸಿ ಎಚ್ ತ್ರೀ ಸಿ ಎಚ್ ಟು ಓ ಎಚ್, ಜೊತೆ ಆಮ್ಲದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ವರ್ತಿಸಿ, ಒಂದು ಅಣು ಈಥೈಲ್ ಎಥನೋಯೇಟ್, ಅಂದರೆ ಸಿ ಎಚ್ ತ್ರೀ ಸಿ ಓ ಓ ಸಿ ಎಚ್ ಟು ಸಿ ಎಚ್ ತ್ರೀ, ಮತ್ತು ಒಂದು ಅಣು ನೀರು, ಅಂದರೆ ಎಚ್ ಟು ಓ, ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಅಣು ಎಥನೋಯಿಕ್ ಆಮ್ಲವು ಒಂದು ಅಣು ಎಥನಾಲ್‌ನೊಂದಿಗೆ ಆಮ್ಲದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ವರ್ತಿಸಿ, ಒಂದು ಅಣು ಈಥೈಲ್ ಎಥನೋಯೇಟ್ (ಎಸ್ಟರ್) ಮತ್ತು ಒಂದು ಅಣು ನೀರನ್ನು ಕೊಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_ocean",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CH_3COOH(l) + CH_3CH_2OH(l) \\xrightarrow{\\text{ಆಮ್ಲ}} CH_3COOCH_2CH_3(l) + H_2O(l)",
+    "placeholder_note": "Esterification reaction between ethanoic acid and ethanol"
+  },
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_010"
+}

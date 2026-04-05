@@ -1,0 +1,92 @@
+{
+  "module_id": "std_10_chapter_4_concept_1",
+  "chapter_code": "std_10_chapter_4",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:57:20",
+  "chunks": {
+    "002_definition_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "67876d260dfbe7dc452c44a987af1a6f",
+      "wav_file": "002_definition_0.wav",
+      "duration": 38.531,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಸಹವೇಲೆನ್ಸಿಯ ಬಂಧ",
+      "type": "definition",
+      "script_words": 52,
+      "generated_at": "2026-04-02 11:56:17"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "dd8312c58ff89977a30ca91a65c6f400",
+      "wav_file": "001_intro_0.wav",
+      "duration": 43.451,
+      "slide_title": "ಪರಿಚಯ: ಕಾರ್ಬನ್‌ನಲ್ಲಿ ಸಹವೇಲೆನ್ಸಿಯ ಬಂಧ",
+      "type": "chunk",
+      "script_words": 66,
+      "generated_at": "2026-04-02 11:56:18"
+    },
+    "003_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "219f4113c032deab04d4bf1e5d42815b",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "duration": 39.251,
+      "slide_title": "ಉದಾಹರಣೆ: ಹೈಡ್ರೋಜನ್ ಅಣು",
+      "type": "definition",
+      "script_words": 57,
+      "generated_at": "2026-04-02 11:56:43"
+    },
+    "004_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "68e71c937b3d290eb048c4dd9fd321d8",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "duration": 45.371,
+      "slide_title": "ಹೋಲಿಕೆ: ಸಹವೇಲೆನ್ಸಿಯ vs ಅಯಾನಿಕ್ ಬಂಧ",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 11:56:50"
+    },
+    "005_property_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "2aa5ae9bab0e99497e65c46a6af91cca",
+      "wav_file": "005_property_0.wav",
+      "duration": 46.731,
+      "slide_title": "ಸಹವೇಲೆನ್ಸಿಯ ಸಂಯುಕ್ತಗಳ ಗುಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:56:55"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "196a062631bb87ed731396c1a0eb399c",
+      "wav_file": "007_recap_0.wav",
+      "duration": 33.971,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 11:57:11"
+    },
+    "006_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "d252d7084c8f05b4b19f45a1615f53fd",
+      "wav_file": "006_property_cont_0_1.wav",
+      "duration": 43.251,
+      "slide_title": "ಸಹವೇಲೆನ್ಸಿಯ ಸಂಯುಕ್ತಗಳ ಗುಣಗಳು (ಮುಂದುವರಿದಿದೆ)",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 11:57:20"
+    }
+  }
+}

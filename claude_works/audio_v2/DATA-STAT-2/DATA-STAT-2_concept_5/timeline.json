@@ -1,0 +1,111 @@
+{
+  "module_id": "DATA-STAT-2_concept_5",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 9,
+  "total_duration": 431.139,
+  "total_duration_formatted": "7:11",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "DATA-STAT-2_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಕೇಂದ್ರೀಯ ಪ್ರವೃತ್ತಿಯ ಅಳತೆಗಳ ನಡುವಿನ ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 72.851,
+      "duration": 72.851,
+      "script_words": 94
+    },
+    {
+      "chunk_id": "DATA-STAT-2_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 73.451,
+      "end": 106.342,
+      "duration": 32.891,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "DATA-STAT-2_concept_5_chunk_003",
+      "chunk_file": "003_formula_0.json",
+      "wav_file": "003_formula_0.wav",
+      "slide_title": "ಕೇಂದ್ರೀಯ ಪ್ರವೃತ್ತಿಯ ಅಳತೆಗಳ ನಡುವಿನ ಸಂಬಂಧ",
+      "type": "concept_explanation",
+      "start": 106.942,
+      "end": 149.233,
+      "duration": 42.291,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "DATA-STAT-2_concept_5_chunk_004",
+      "chunk_file": "004_formula_cont_0_1.json",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "slide_title": "ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧ ಸೂತ್ರ",
+      "type": "concept_explanation",
+      "start": 149.833,
+      "end": 197.724,
+      "duration": 47.891,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "DATA-STAT-2_concept_5_chunk_005",
+      "chunk_file": "005_formula_cont_0_2.json",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "slide_title": "ಸೂತ್ರದ ವಿವಿಧ ರೂಪಗಳು",
+      "type": "concept_explanation",
+      "start": 198.324,
+      "end": 240.695,
+      "duration": 42.371,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "DATA-STAT-2_concept_5_chunk_006",
+      "chunk_file": "006_formula_cont_0_3.json",
+      "wav_file": "006_formula_cont_0_3.wav",
+      "slide_title": "ತ್ವರಿತ ಉದಾಹರಣೆ",
+      "type": "concept_explanation",
+      "start": 241.295,
+      "end": 297.946,
+      "duration": 56.651,
+      "script_words": 86
+    },
+    {
+      "chunk_id": "DATA-STAT-2_concept_5_chunk_007",
+      "chunk_file": "007_formula_cont_0_4.json",
+      "wav_file": "007_formula_cont_0_4.wav",
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಮಿತಿಗಳು",
+      "type": "concept_explanation",
+      "start": 298.546,
+      "end": 343.637,
+      "duration": 45.091,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "DATA-STAT-2_concept_5_chunk_008",
+      "chunk_file": "008_formula_cont_0_5.json",
+      "wav_file": "008_formula_cont_0_5.wav",
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "concept_explanation",
+      "start": 344.237,
+      "end": 388.008,
+      "duration": 43.771,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "DATA-STAT-2_concept_5_chunk_009",
+      "chunk_file": "009_recap_0.json",
+      "wav_file": "009_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಪ್ರಾಯೋಗಿಕ ಸಂಬಂಧ",
+      "type": "recap",
+      "start": 388.608,
+      "end": 430.539,
+      "duration": 41.931,
+      "script_words": 52
+    }
+  ]
+}

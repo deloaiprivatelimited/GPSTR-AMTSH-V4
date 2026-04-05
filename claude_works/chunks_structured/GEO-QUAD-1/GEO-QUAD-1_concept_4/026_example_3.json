@@ -1,0 +1,43 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಕರ್ಣಗಳು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ HELP ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ಎಂದು ಕೊಡಲಾಗಿದೆ. ಇಲ್ಲಿ ಕರ್ಣಗಳು O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. ನಮಗೆ OE ಯ ಉದ್ದ 4 ಎಂದು ಮತ್ತು ಇನ್ನೊಂದು ಕರ್ಣ HL, ಕರ್ಣ PE ಗಿಂತ 5 ಹೆಚ್ಚಾಗಿದೆ ಎಂದು ಹೇಳಿದ್ದಾರೆ. ನಾವು OH ನ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ಬಿಡಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ HELP ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ಎಂದು ಕೊಡಲಾಗಿದೆ. ಇಲ್ಲಿ ಕರ್ಣಗಳು O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. ನಮಗೆ $OE = 4$ ಎಂದು ಮತ್ತು ಇನ್ನೊಂದು ಕರ್ಣ $HL$, ಕರ್ಣ $PE$ ಗಿಂತ $5$ ಹೆಚ್ಚಾಗಿದೆ ಎಂದು ಹೇಳಿದ್ದಾರೆ. ನಾವು $OH$ ನ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ಬಿಡಿಸೋಣ.",
+  "display_bullets": [
+    "**ಕೊಟ್ಟಿರುವ ಅಂಶಗಳು (Given):**",
+    "HELP ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ.",
+    "$OE = 4$",
+    "$HL = PE + 5$",
+    "**ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To Find):**",
+    "$OH$ ನ ಉದ್ದ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A parallelogram named HELP. Diagonals HL and PE intersect at point O. The length of segment OE is marked as 4. The problem asks to find the length of OH, given that HL is 5 units longer than PE.",
+    "labels": "H, E, L, P, O, 4",
+    "mathematical_significance": "Visual representation of the problem, showing the parallelogram and its diagonals, which is crucial for applying the property that diagonals bisect each other.",
+    "placeholder_note": "Image to be generated for Figure 3.25 showing parallelogram HELP with diagonals intersecting at O, and OE labeled as 4."
+  },
+  "source_example_id": "GEO-QUAD-1_example_6",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-QUAD-1_concept_4_chunk_026"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸ್ನಾಯುಗಳಲ್ಲಿ ಆಮ್ಲಜನಕ ರಹಿತ ಉಸಿರಾಟ",
+  "script": "ನಾವು ತೀವ್ರವಾದ ವ್ಯಾಯಾಮ, ಉದಾಹರಣೆಗೆ ವೇಗವಾಗಿ ಓಡುವಾಗ, ನಮ್ಮ ಸ್ನಾಯುಗಳಿಗೆ ಸಾಮಾನ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಶಕ್ತಿ ಬೇಕಾಗುತ್ತದೆ. ಈ ಶಕ್ತಿಯ ಬೇಡಿಕೆಯನ್ನು ಪೂರೈಸಲು, ನಮ್ಮ ದೇಹವು ಹೆಚ್ಚು ಆಮ್ಲಜನಕವನ್ನು ಬಳಸುತ್ತದೆ. ಆದರೆ ಕೆಲವೊಮ್ಮೆ, ಉಸಿರಾಟದ ಮೂಲಕ ನಾವು ಪೂರೈಸುವ ಆಮ್ಲಜನಕವು ಸಾಕಾಗುವುದಿಲ್ಲ. ಅಂತಹ ಸಂದರ್ಭದಲ್ಲಿ, ನಮ್ಮ ಸ್ನಾಯು ಕೋಶಗಳು ತಾತ್ಕಾಲಿಕವಾಗಿ ಆಮ್ಲಜನಕ ರಹಿತ ಉಸಿರಾಟವನ್ನು ನಡೆಸುತ್ತವೆ.",
+  "script_display": "ನಾವು ತೀವ್ರವಾದ ವ್ಯಾಯಾಮ, ಉದಾಹರಣೆಗೆ ವೇಗವಾಗಿ ಓಡುವಾಗ, ನಮ್ಮ ಸ್ನಾಯುಗಳಿಗೆ ಸಾಮಾನ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಶಕ್ತಿ ಬೇಕಾಗುತ್ತದೆ. ಈ ಶಕ್ತಿಯ ಬೇಡಿಕೆಯನ್ನು ಪೂರೈಸಲು, ನಮ್ಮ ದೇಹವು ಹೆಚ್ಚು ಆಮ್ಲಜನಕವನ್ನು ಬಳಸುತ್ತದೆ. ಆದರೆ ಕೆಲವೊಮ್ಮೆ, ಉಸಿರಾಟದ ಮೂಲಕ ನಾವು ಪೂರೈಸುವ ಆಮ್ಲಜನಕವು ಸಾಕಾಗುವುದಿಲ್ಲ. ಅಂತಹ ಸಂದರ್ಭದಲ್ಲಿ, ನಮ್ಮ ಸ್ನಾಯು ಕೋಶಗಳು ತಾತ್ಕಾಲಿಕವಾಗಿ ಆಮ್ಲಜನಕ ರಹಿತ ಉಸಿರಾಟವನ್ನು ನಡೆಸುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An animation showing a person running intensely. An indicator on their leg muscles shows 'High Energy Demand'. A small icon appears near the muscle indicating 'Low O₂' supply.",
+    "labels": "ತೀವ್ರ ವ್ಯಾಯಾಮ, ಅಧಿಕ ಶಕ್ತಿಯ ಬೇಡಿಕೆ, ಆಮ್ಲಜನಕದ ಕೊರತೆ",
+    "scientific_significance": "Illustrates the physiological condition (hypoxia in muscles) that triggers anaerobic respiration during strenuous exercise.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_6_concept_2_chunk_023"
+}

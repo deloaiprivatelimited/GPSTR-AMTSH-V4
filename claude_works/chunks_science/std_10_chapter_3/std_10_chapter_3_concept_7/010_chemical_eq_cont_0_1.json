@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸೋಡಿಯಂನ ಉತ್ಕರ್ಷಣ",
+  "script": "ಸ್ಥಿರತೆಯನ್ನು ಪಡೆಯಲು, ಸೋಡಿಯಂ ಪರಮಾಣು ತನ್ನ ಹೊರಗಿನ M ಕವಚದಲ್ಲಿರುವ ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ. ಈ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. ಸೋಡಿಯಂ ಪರಮಾಣು, ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ 2, 8, 1, ಒಂದು ಸೋಡಿಯಂ ಧನ ಅಯಾನು, Na ಪ್ಲಸ್, ಎಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ 2, 8, ಮತ್ತು ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ. ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುವ ಈ ಪ್ರಕ್ರಿಯೆಗೆ ಉತ್ಕರ್ಷಣ ಎಂದು ಹೆಸರು.",
+  "script_display": "ಸ್ಥಿರತೆಯನ್ನು ಪಡೆಯಲು, ಸೋಡಿಯಂ ಪರಮಾಣು ತನ್ನ ಹೊರಗಿನ M ಕವಚದಲ್ಲಿರುವ ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ. ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುವ ಈ ಪ್ರಕ್ರಿಯೆಗೆ ಉತ್ಕರ್ಷಣ (Oxidation) ಎಂದು ಹೆಸರು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Na \\rightarrow Na^+ + e^-",
+    "placeholder_note": "Display the equation showing Sodium atom losing an electron to form a Sodium ion. Below the main equation, show the electron configuration change: (2,8,1) -> (2,8)"
+  },
+  "chunk_id": "std_10_chapter_3_concept_7_chunk_010"
+}

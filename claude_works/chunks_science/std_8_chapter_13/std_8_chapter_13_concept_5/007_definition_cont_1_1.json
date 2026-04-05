@@ -1,0 +1,41 @@
+{
+  "type": "definition",
+  "slide_title": "ವರ್ಣಪಟಲದ ಏಳು ಬಣ್ಣಗಳು",
+  "script": "ಹಾಗಾದರೆ, ವರ್ಣಪಟಲದಲ್ಲಿರುವ ಆ ಏಳು ಬಣ್ಣಗಳು ಯಾವುವು? ಅವು ಒಂದು ನಿರ್ದಿಷ್ಟ ಕ್ರಮದಲ್ಲಿರುತ್ತವೆ. ಆ ಕ್ರಮ ಹೀಗಿದೆ: ಮೊದಲನೆಯದು ನೇರಳೆ, ನಂತರ ಇಂಡಿಗೊ, ಮೂರನೆಯದು ನೀಲಿ, ನಾಲ್ಕನೆಯದು ಹಸಿರು, ಐದನೆಯದು ಹಳದಿ, ಆರನೆಯದು ಕಿತ್ತಳೆ, ಮತ್ತು ಕೊನೆಯದಾಗಿ ಏಳನೆಯದು ಕೆಂಪು. ಈ ಬಣ್ಣಗಳ ಕ್ರಮವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ. ಪಟ್ಟಕದಿಂದ ಹೊರಬರುವಾಗ, ನೇರಳೆ ಬಣ್ಣವು ಹೆಚ್ಚು ಬಾಗುತ್ತದೆ ಮತ್ತು ಕೆಂಪು ಬಣ್ಣವು ಕಡಿಮೆ ಬಾಗುತ್ತದೆ. ಈ ಬಣ್ಣಗಳ ಪಟ್ಟಿಯನ್ನೇ ನಾವು ವರ್ಣಪಟಲ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ವರ್ಣಪಟಲದಲ್ಲಿರುವ ಆ ಏಳು ಬಣ್ಣಗಳು ಯಾವುವು? ಅವು ಒಂದು ನಿರ್ದಿಷ್ಟ ಕ್ರಮದಲ್ಲಿರುತ್ತವೆ. ಆ ಕ್ರಮ ಹೀಗಿದೆ: ಮೊದಲನೆಯದು ನೇರಳೆ (Violet), ನಂತರ ಇಂಡಿಗೊ (Indigo), ಮೂರನೆಯದು ನೀಲಿ (Blue), ನಾಲ್ಕನೆಯದು ಹಸಿರು (Green), ಐದನೆಯದು ಹಳದಿ (Yellow), ಆರನೆಯದು ಕಿತ್ತಳೆ (Orange), ಮತ್ತು ಕೊನೆಯದಾಗಿ ಏಳನೆಯದು ಕೆಂಪು (Red). ಈ ಬಣ್ಣಗಳ ಕ್ರಮವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ. ಪಟ್ಟಕದಿಂದ ಹೊರಬರುವಾಗ, ನೇರಳೆ ಬಣ್ಣವು ಹೆಚ್ಚು ಬಾಗುತ್ತದೆ ಮತ್ತು ಕೆಂಪು ಬಣ್ಣವು ಕಡಿಮೆ ಬಾಗುತ್ತದೆ. ಈ ಬಣ್ಣಗಳ ಪಟ್ಟಿಯನ್ನೇ ನಾವು ವರ್ಣಪಟಲ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ನೇರಳೆ (Violet)",
+    "ಇಂಡಿಗೊ (Indigo)",
+    "ನೀಲಿ (Blue)",
+    "ಹಸಿರು (Green)",
+    "ಹಳದಿ (Yellow)",
+    "ಕಿತ್ತಳೆ (Orange)",
+    "ಕೆಂಪು (Red)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing white light passing through a prism and splitting into the seven colors of the spectrum. The colors should be arranged from bottom to top: Violet, Indigo, Blue, Green, Yellow, Orange, Red. Each color band should be labeled with its name.",
+    "labels": "White Light, Prism, Spectrum, Violet, Indigo, Blue, Green, Yellow, Orange, Red",
+    "scientific_significance": "Demonstrates the dispersion of light and the composition of the visible spectrum.",
+    "placeholder_note": "Image to be generated showing a prism dispersing light into VIBGYOR colors."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_13_concept_5_chunk_007"
+}

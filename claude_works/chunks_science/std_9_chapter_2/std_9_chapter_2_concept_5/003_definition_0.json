@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಲಂಬಿತ ಮಿಶ್ರಣ (Suspension)",
+  "script": "ಈಗ ನಾವು ನಿಲಂಬಿತ ಮಿಶ್ರಣ, ಅಂದರೆ ಸಸ್ಪೆನ್ಷನ್ ಎಂದರೇನು ಎಂದು ನೋಡೋಣ. ಇದು ಒಂದು ಅಸಮರೂಪ ಮಿಶ್ರಣ, ಅಂದರೆ ಹೆಟಿರೋಜೀನಿಯಸ್ ಮಿಕ್ಸ್ಚರ್. ಇದರಲ್ಲಿ, ದ್ರಾವ್ಯದ ಘನ ಕಣಗಳು ದ್ರಾವಕದಲ್ಲಿ ಕರಗುವುದಿಲ್ಲ. ಬದಲಾಗಿ, ಆ ಕಣಗಳು ದ್ರವ ಮಾಧ್ಯಮದಾದ್ಯಂತ ಹರಡಿಕೊಂಡು ತೇಲುತ್ತಿರುತ್ತವೆ, ಅಂದರೆ ನಿಲಂಬಿತವಾಗಿರುತ್ತವೆ. ಇದಕ್ಕಾಗಿಯೇ ಇದನ್ನು ನಿಲಂಬಿತ ಮಿಶ್ರಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, ನೀರಿನಲ್ಲಿ ಮರಳು ಅಥವಾ ಕೆಸರು ನೀರನ್ನು ಪರಿಗಣಿಸಬಹುದು. ಇವು ನಿಲಂಬಿತ ಮಿಶ್ರಣಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆಗಳಾಗಿವೆ.",
+  "script_display": "ಈಗ ನಾವು ನಿಲಂಬಿತ ಮಿಶ್ರಣ (Suspension) ಎಂದರೇನು ಎಂದು ನೋಡೋಣ. ಇದು ಒಂದು ಅಸಮರೂಪ ಮಿಶ್ರಣ (heterogeneous mixture). ಇದರಲ್ಲಿ, ದ್ರಾವ್ಯದ ಘನ ಕಣಗಳು ದ್ರಾವಕದಲ್ಲಿ ಕರಗುವುದಿಲ್ಲ. ಬದಲಾಗಿ, ಆ ಕಣಗಳು ದ್ರವ ಮಾಧ್ಯಮದಾದ್ಯಂತ ಹರಡಿಕೊಂಡು ತೇಲುತ್ತಿರುತ್ತವೆ (suspended). ಇದಕ್ಕಾಗಿಯೇ ಇದನ್ನು ನಿಲಂಬಿತ ಮಿಶ್ರಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, ನೀರಿನಲ್ಲಿ ಮರಳು ಅಥವಾ ಕೆಸರು ನೀರನ್ನು ಪರಿಗಣಿಸಬಹುದು. ಇವು ನಿಲಂಬಿತ ಮಿಶ್ರಣಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆಗಳಾಗಿವೆ.",
+  "display_bullets": [
+    "ಇದು ಒಂದು ಅಸಮರೂಪ ಮಿಶ್ರಣ (heterogeneous mixture).",
+    "ಘನ ಕಣಗಳು ದ್ರವದಲ್ಲಿ ಕರಗದೆ, ಮಾಧ್ಯಮದಾದ್ಯಂತ ನಿಲಂಬಿತವಾಗಿರುತ್ತವೆ (suspended).",
+    "ಉದಾಹರಣೆ: ನೀರಿನಲ್ಲಿ ಮರಳು, ಕೆಸರು ನೀರು."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ನಿಲಂಬಿತ ಮಿಶ್ರಣ (Suspension): ಒಂದು ಅಸಮರೂಪ ಮಿಶ್ರಣವಾಗಿದ್ದು, ಇದರಲ್ಲಿ ಘನ ಕಣಗಳು ದ್ರವದಲ್ಲಿ ಕರಗದೆ, ತೇಲುತ್ತಿರುತ್ತವೆ.}",
+    "placeholder_note": "A box containing the term and its formal definition."
+  },
+  "sub_type": "definition_spotlight",
+  "difficulty": "easy",
+  "chunk_id": "std_9_chapter_2_concept_5_chunk_003"
+}

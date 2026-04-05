@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪೆಟ್ರೋಲಿಯಂ (Petroleum)",
+  "script": "ಮುಂದಿನದು ಪೆಟ್ರೋಲಿಯಂ, ಇದನ್ನು ಕಚ್ಚಾ ತೈಲ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಇದು ದ್ರವ ರೂಪದ ಪಳೆಯುಳಿಕೆ ಇಂಧನ. ಇದು ಸಾಮಾನ್ಯವಾಗಿ ಸಮುದ್ರದ ಜೀವಿಗಳಾದ ಸಣ್ಣ ಸಸ್ಯಗಳು ಮತ್ತು ಪ್ರಾಣಿಗಳ ಅವಶೇಷಗಳಿಂದ ರೂಪುಗೊಂಡಿದೆ. ಈ ಜೀವಿಗಳು ಸತ್ತ ನಂತರ ಸಮುದ್ರದ ತಳದಲ್ಲಿ ಸಂಗ್ರಹವಾಗಿ, ಕೆಸರು ಮತ್ತು ಮರಳಿನ ಪದರಗಳ ಅಡಿಯಲ್ಲಿ ಹೂತುಹೋದವು. ಕಾಲಕ್ರಮೇಣ, ಅಧಿಕ ಒತ್ತಡ ಮತ್ತು ತಾಪದಿಂದ ಇವು ಕಚ್ಚಾ ತೈಲವಾಗಿ ಪರಿವರ್ತನೆಗೊಂಡವು. ಇದನ್ನು ಸಂಸ್ಕರಿಸಿ ಪೆಟ್ರೋಲ್, ಡೀಸೆಲ್, ಸೀಮೆಎಣ್ಣೆಯಂತಹ ಅನೇಕ ಉಪಯುಕ್ತ ಉತ್ಪನ್ನಗಳನ್ನು ಪಡೆಯಲಾಗುತ್ತದೆ. ಇವುಗಳನ್ನು ಮುಖ್ಯವಾಗಿ ವಾಹನಗಳಲ್ಲಿ ಇಂಧನವಾಗಿ ಬಳಸುತ್ತಾರೆ.",
+  "script_display": "ಮುಂದಿನದು ಪೆಟ್ರೋಲಿಯಂ, ಇದನ್ನು ಕಚ್ಚಾ ತೈಲ (Crude Oil) ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಇದು ದ್ರವ ರೂಪದ ಪಳೆಯುಳಿಕೆ ಇಂಧನ. ಇದು ಸಮುದ್ರದ ಜೀವಿಗಳ (ಸಣ್ಣ ಸಸ್ಯಗಳು ಮತ್ತು ಪ್ರಾಣಿಗಳು) ಅವಶೇಷಗಳಿಂದ ರೂಪುಗೊಂಡಿದೆ. ಕಾಲಕ್ರಮೇಣ, ಅಧಿಕ ಒತ್ತಡ ಮತ್ತು ತಾಪದಿಂದ ಇವು ಕಚ್ಚಾ ತೈಲವಾಗಿ ಪರಿವರ್ತನೆಗೊಂಡವು. ಇದನ್ನು ಸಂಸ್ಕರಿಸಿ ಪೆಟ್ರೋಲ್, ಡೀಸೆಲ್, ಸೀಮೆಎಣ್ಣೆಯಂತಹ ಅನೇಕ ಉಪಯುಕ್ತ ಉತ್ಪನ್ನಗಳನ್ನು ಪಡೆಯಲಾಗುತ್ತದೆ. ಇವುಗಳನ್ನು ಮುಖ್ಯವಾಗಿ ವಾಹನಗಳಲ್ಲಿ ಇಂಧನವಾಗಿ ಬಳಸುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ರೂಪ: ದ್ರವ ಪಳೆಯುಳಿಕೆ ಇಂಧನ (ಕಚ್ಚಾ ತೈಲ).",
+    "ರಚನೆ: ಸಮುದ್ರ ಜೀವಿಗಳ ಅವಶೇಷಗಳಿಂದ ರೂಪುಗೊಂಡಿದೆ.",
+    "ಬಳಕೆ: ಸಂಸ್ಕರಿಸಿ ಪೆಟ್ರೋಲ್, ಡೀಸೆಲ್, ಸೀಮೆಎಣ್ಣೆ ಪಡೆಯಲಾಗುತ್ತದೆ (ವಾಹನ ಇಂಧನ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A glass beaker filled with viscous, dark brown crude oil. The background is a simple, neutral color.",
+    "labels": "",
+    "scientific_significance": "Represents petroleum (crude oil), a liquid fossil fuel formed from ancient marine organisms. It is refined to produce gasoline, diesel, and other fuels.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_6_chapter_11_concept_7_chunk_008"
+}

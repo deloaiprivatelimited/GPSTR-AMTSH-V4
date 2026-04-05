@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ (ii): $x(x+1)+8=(x+2)(x-2)$",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಎರಡನೇ ಸಮೀಕರಣ x times x plus one, plus eight equals x plus two times x minus two. ಎಡಭಾಗವನ್ನು ವಿಸ್ತರಿಸಿದಾಗ x squared plus x plus eight ಸಿಗುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿ, a plus b times a minus b equals a squared minus b squared ಸೂತ್ರವನ್ನು ಬಳಸಿದರೆ, x squared minus four ಸಿಗುತ್ತದೆ. ಈಗ ಸಮೀಕರಣವು x squared plus x plus eight equals x squared minus four ಆಗಿದೆ. ಬಲಭಾಗದ ಪದಗಳನ್ನು ಎಡಕ್ಕೆ ತಂದಾಗ, x squared minus x squared plus x plus eight plus four equals zero ಆಗುತ್ತದೆ. ಇಲ್ಲಿ x squared ಪದಗಳು ರದ್ದಾಗುತ್ತವೆ. ನಮಗೆ ಉಳಿದಿರುವುದು x plus twelve equals zero. ಈ ಸಮೀಕರಣದಲ್ಲಿ x squared ಪದ ಇಲ್ಲ, ಅಂದರೆ a ಯ ಬೆಲೆ ಸೊನ್ನೆ. ಆದ್ದರಿಂದ, ಇದು ವರ್ಗ ಸಮೀಕರಣವಲ್ಲ, ಇದು ಒಂದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಎರಡನೇ ಸಮೀಕರಣ $x(x+1)+8=(x+2)(x-2)$. ಎಡಭಾಗವನ್ನು ವಿಸ್ತರಿಸಿದಾಗ $x^2+x+8$ ಸಿಗುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿ, $(a+b)(a-b)=a^2-b^2$ ಸೂತ್ರವನ್ನು ಬಳಸಿದರೆ, $x^2-4$ ಸಿಗುತ್ತದೆ. ಈಗ ಸಮೀಕರಣವು $x^2+x+8 = x^2-4$ ಆಗಿದೆ. ಬಲಭಾಗದ ಪದಗಳನ್ನು ಎಡಕ್ಕೆ ತಂದಾಗ, $x^2 - x^2 + x + 8 + 4 = 0$ ಆಗುತ್ತದೆ. ಇಲ್ಲಿ $x^2$ ಪದಗಳು ರದ್ದಾಗುತ್ತವೆ. ನಮಗೆ ಉಳಿದಿರುವುದು $x+12=0$. ಈ ಸಮೀಕರಣದಲ್ಲಿ $x^2$ ಪದ ಇಲ್ಲ, ಅಂದರೆ $a=0$. ಆದ್ದರಿಂದ, ಇದು ವರ್ಗ ಸಮೀಕರಣವಲ್ಲ, ಇದು ಒಂದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-QUAD-4_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$x(x+1)+8 = (x+2)(x-2)$",
+      "justification": "ದತ್ತ ಸಮೀಕರಣ."
+    },
+    {
+      "step": 2,
+      "action_display": "$x^2 + x + 8 = x^2 - 4$",
+      "justification": "ಎರಡೂ ಬದಿಗಳನ್ನು ವಿಸ್ತರಿಸುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "$x + 12 = 0$",
+      "justification": "$x^2$ ಪದಗಳು ರದ್ದಾಗುತ್ತವೆ."
+    },
+    {
+      "step": 4,
+      "action_display": "ಇಲ್ಲಿ $x^2$ ಪದವಿಲ್ಲ ($a=0$). ಆದ್ದರಿಂದ, ಇದು ವರ್ಗ ಸಮೀಕರಣವಲ್ಲ.",
+      "justification": "ಅಂತಿಮ ತೀರ್ಮಾನ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-QUAD-4_concept_1_chunk_022"
+}

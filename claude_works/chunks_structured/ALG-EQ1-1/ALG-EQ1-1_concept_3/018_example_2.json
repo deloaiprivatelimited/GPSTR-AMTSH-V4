@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಎರಡು-ಹಂತದ ಸಮೀಕರಣಗಳು",
+  "script": "ಈಗ ನಾವು ಎರಡು ಸರಳ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸೋಣ. ಮೊದಲನೆಯದು, ಮೂರು ಎನ್ ಪ್ಲಸ್ ಏಳು ಸಮ ಇಪ್ಪತ್ತೈದು. ಮತ್ತು ಎರಡನೆಯದು, ಎರಡು ಪಿ ಮೈನಸ್ ಒಂದು ಸಮ ಇಪ್ಪತ್ಮೂರು. ಈ ಸಮೀಕರಣಗಳಲ್ಲಿ, ನಮ್ಮ ಗುರಿ ಚರಾಕ್ಷರಗಳಾದ ಎನ್ ಮತ್ತು ಪಿ ಯ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "script_display": "ಈಗ ನಾವು ಎರಡು ಸರಳ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸೋಣ. ಮೊದಲನೆಯದು, $3n + 7 = 25$. ಮತ್ತು ಎರಡನೆಯದು, $2p - 1 = 23$. ಈ ಸಮೀಕರಣಗಳಲ್ಲಿ, ನಮ್ಮ ಗುರಿ ಚರಾಕ್ಷರಗಳಾದ 'n' ಮತ್ತು 'p' ಯ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಈ ಕೆಳಗಿನ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸಿ:",
+    "(a) $3n + 7 = 25$",
+    "(b) $2p - 1 = 23$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\begin{cases} \\text{(a) } 3n + 7 = 25 \\\\ \\text{(b) } 2p - 1 = 23 \\end{cases}",
+    "placeholder_note": "Display the two equations to be solved."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ1-1_example_5",
+  "chunk_id": "ALG-EQ1-1_concept_3_chunk_018"
+}

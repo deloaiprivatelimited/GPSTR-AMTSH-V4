@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಸರಳ ರೂಪ: ಉದಾಹರಣೆ ಮತ್ತು ಪ್ರತೀ-ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆ ಮತ್ತು ಪ್ರತೀ-ಉದಾಹರಣೆಯನ್ನು ಹೋಲಿಸಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಐದು ಬೈ ಏಳು ಎಂಬ ಭಿನ್ನರಾಶಿ ಇದೆ. ಇಲ್ಲಿ ಅಂಶ ಐದು ಮತ್ತು ಛೇದ ಏಳು. ಇವೆರಡಕ್ಕೂ ಒಂದನ್ನು ಬಿಟ್ಟು ಬೇರೆ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳಿಲ್ಲ. ಆದ್ದರಿಂದ, ಇದು ಸರಳ ರೂಪದಲ್ಲಿದೆ. ಬಲಭಾಗದಲ್ಲಿ, ಹನ್ನೆರಡು ಬೈ ಹದಿನಾರು ಎಂಬ ಭಿನ್ನರಾಶಿ ಇದೆ. ಇಲ್ಲಿ ಅಂಶ ಹನ್ನೆರಡು ಮತ್ತು ಛೇದ ಹದಿನಾರು. ಇವೆರಡಕ್ಕೂ ಒಂದಕ್ಕಿಂತ ದೊಡ್ಡದಾದ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳಿವೆ. ಉದಾಹರಣೆಗೆ, ಎರಡು ಮತ್ತು ನಾಲ್ಕು. ಹಾಗಾಗಿ, ಹನ್ನೆರಡು ಬೈ ಹದಿನಾರು ಸರಳ ರೂಪದಲ್ಲಿಲ್ಲ. ಇದನ್ನು ನಾವು ಇನ್ನೂ ಸರಳೀಕರಿಸಬಹುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆ ಮತ್ತು ಪ್ರತೀ-ಉದಾಹರಣೆಯನ್ನು ಹೋಲಿಸಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, $\\frac{5}{7}$ ಎಂಬ ಭಿನ್ನರಾಶಿ ಇದೆ. ಇಲ್ಲಿ ಅಂಶ 5 ಮತ್ತು ಛೇದ 7. ಇವೆರಡಕ್ಕೂ 1ನ್ನು ಬಿಟ್ಟು ಬೇರೆ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳಿಲ್ಲ. ಆದ್ದರಿಂದ, ಇದು ಸರಳ ರೂಪದಲ್ಲಿದೆ. ಬಲಭಾಗದಲ್ಲಿ, $\\frac{12}{16}$ ಎಂಬ ಭಿನ್ನರಾಶಿ ಇದೆ. ಇಲ್ಲಿ ಅಂಶ 12 ಮತ್ತು ಛೇದ 16. ಇವೆರಡಕ್ಕೂ 1ಕ್ಕಿಂತ ದೊಡ್ಡದಾದ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳಿವೆ (ಉದಾ: 2, 4). ಹಾಗಾಗಿ, $\\frac{12}{16}$ ಸರಳ ರೂಪದಲ್ಲಿಲ್ಲ. ಇದನ್ನು ನಾವು ಇನ್ನೂ ಸರಳೀಕರಿಸಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "side_by_side_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_panel",
+    "status": "ready",
+    "render_target": "katex",
+    "placeholder_note": "Two panels. Left shows a fraction in simplest form, right shows one that is not. With checkmark and cross mark icons respectively. Left panel title: ಸರಳ ರೂಪದಲ್ಲಿದೆ (In Simplest Form). Left panel content: $\\frac{5}{7}$. Right panel title: ಸರಳ ರೂಪದಲ್ಲಿಲ್ಲ (Not in Simplest Form). Right panel content: $\\frac{12}{16}$."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "NS-FRA-1_concept_3_chunk_010"
+}

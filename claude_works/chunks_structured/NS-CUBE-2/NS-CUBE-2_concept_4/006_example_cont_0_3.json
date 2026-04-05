@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ನಾವು ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು. 392 ಒಂದು ಪೂರ್ಣ ಘನವಲ್ಲ. 392 ನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿಸಲು ಗುಣಿಸಬೇಕಾದ ಕನಿಷ್ಠ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆ 7 ಆಗಿದೆ. ಗುಣಿಸಿದಾಗ ಬರುವ ಪೂರ್ಣ ಘನ ಸಂಖ್ಯೆ 2744, ಇದು 14 ರ ಘನವಾಗಿದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ನಾವು ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು. 392 ಒಂದು ಪೂರ್ಣ ಘನವಲ್ಲ. 392 ನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿಸಲು ಗುಣಿಸಬೇಕಾದ ಕನಿಷ್ಠ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆ 7 ಆಗಿದೆ. ಗುಣಿಸಿದಾಗ ಬರುವ ಪೂರ್ಣ ಘನ ಸಂಖ್ಯೆ 2744, ಇದು $14^3$ ಆಗಿದೆ.",
+  "display_bullets": [
+    "392 ಪೂರ್ಣ ಘನವಲ್ಲ.",
+    "ಗುಣಿಸಬೇಕಾದ ಕನಿಷ್ಠ ಸಂಖ್ಯೆ 7.",
+    "ಫಲಿತಾಂಶ: $392 \\times 7 = 2744 = 14^3$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-CUBE-2_example_2",
+  "final_answer": "392 ನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿಸಲು ಗುಣಿಸಬೇಕಾದ ಕನಿಷ್ಠ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆ 7.",
+  "final_answer_display": "392 ನ್ನು ಪೂರ್ಣ ಘನವನ್ನಾಗಿಸಲು ಗುಣಿಸಬೇಕಾದ ಕನಿಷ್ಠ ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆ 7.",
+  "chunk_id": "NS-CUBE-2_concept_4_chunk_006"
+}

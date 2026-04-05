@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಅಳತೆ ಮತ್ತು ವೀಕ್ಷಣೆ",
+  "script": "ತಾಪಮಾಪಕವನ್ನು ಸರಿಯಾದ ಸ್ಥಾನದಲ್ಲಿ ಹಿಡಿದ ನಂತರ, ಪಾದರಸದ ಚಲನೆಯನ್ನು ಗಮನಿಸಿ. ಅದು ಏರಲು ಅಥವಾ ಇಳಿಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಪಾದರಸದ ಎಳೆಯು ಒಂದು ಹಂತದಲ್ಲಿ ಸ್ಥಿರವಾಗುವವರೆಗೆ, ಅಂದರೆ ಚಲಿಸುವುದನ್ನು ನಿಲ್ಲಿಸುವವರೆಗೆ ಕಾಯಿರಿ. ಈ ಸ್ಥಿರವಾದ ಮಟ್ಟವೇ ಆ ನೀರಿನ ನಿಖರವಾದ ತಾಪಮಾನ. ಈಗ, ತಾಪಮಾಪಕವನ್ನು ನೀರಿನಿಂದ ಹೊರತೆಗೆಯದೆ, ನಿಮ್ಮ ಕಣ್ಣಿನ ಮಟ್ಟವನ್ನು ಪಾದರಸದ ಮಟ್ಟಕ್ಕೆ ಸಮಾನಾಂತರವಾಗಿ ಇಟ್ಟುಕೊಂಡು ಅಳತೆಯನ್ನು ಓದಿ ಮತ್ತು ದಾಖಲಿಸಿಕೊಳ್ಳಿ.",
+  "script_display": "ತಾಪಮಾಪಕವನ್ನು ಸರಿಯಾದ ಸ್ಥಾನದಲ್ಲಿ ಹಿಡಿದ ನಂತರ, ಪಾದರಸದ ಚಲನೆಯನ್ನು ಗಮನಿಸಿ. ಅದು ಏರಲು ಅಥವಾ ಇಳಿಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಪಾದರಸದ ಎಳೆಯು ಒಂದು ಹಂತದಲ್ಲಿ ಸ್ಥಿರವಾಗುವವರೆಗೆ, ಅಂದರೆ ಚಲಿಸುವುದನ್ನು ನಿಲ್ಲಿಸುವವರೆಗೆ ಕಾಯಿರಿ. ಈ ಸ್ಥಿರವಾದ ಮಟ್ಟವೇ ಆ ನೀರಿನ ನಿಖರವಾದ ತಾಪಮಾನ. ಈಗ, ತಾಪಮಾಪಕವನ್ನು ನೀರಿನಿಂದ ಹೊರತೆಗೆಯದೆ, ನಿಮ್ಮ ಕಣ್ಣಿನ ಮಟ್ಟವನ್ನು ಪಾದರಸದ ಮಟ್ಟಕ್ಕೆ ಸಮಾನಾಂತರವಾಗಿ ಇಟ್ಟುಕೊಂಡು ಅಳತೆಯನ್ನು ಓದಿ ಮತ್ತು ದಾಖಲಿಸಿಕೊಳ್ಳಿ.",
+  "display_bullets": [
+    "ಪಾದರಸದ ಎಳೆಯು ಸ್ಥಿರವಾಗುವವರೆಗೆ ಕಾಯಿರಿ.",
+    "ಸ್ಥಿರವಾದ ಮಟ್ಟವೇ ನೀರಿನ ತಾಪಮಾನವಾಗಿದೆ.",
+    "ತಾಪಮಾಪಕವು ನೀರಿನಲ್ಲಿರುವಾಗಲೇ ಅಳತೆಯನ್ನು ಓದಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up view of the thermometer scale. An eye is shown level with the top of the mercury column, which is steady at 25°C. A line indicates the reading. The label should say 'Read at eye level' (ಕಣ್ಣಿನ ಮಟ್ಟದಲ್ಲಿ ಓದಿ).",
+    "labels": "Reading the scale, Eye level",
+    "scientific_significance": "Demonstrates the correct way to read a measurement scale to avoid parallax error.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_3_concept_3_chunk_012"
+}

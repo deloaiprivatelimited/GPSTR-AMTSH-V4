@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಪರಿಹಾರ",
+  "script": "ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಸೂತ್ರ ಎಫ್ ಈಕ್ವಲ್ಸ್ ಎಂ ಎ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸುತ್ತೇವೆ. ಎಂ ಜಾಗದಲ್ಲಿ ಐದು ಮತ್ತು ಎ ಜಾಗದಲ್ಲಿ ಎರಡನ್ನು ಹಾಕುತ್ತೇವೆ. ಆಗ ಸಮೀಕರಣವು ಎಫ್ ಈಕ್ವಲ್ಸ್ ಐದು ಇಂಟು ಎರಡು ಎಂದಾಗುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಗುಣಾಕಾರವನ್ನು ಮಾಡುತ್ತೇವೆ. ಐದು ಮತ್ತು ಎರಡರ ಗುಣಲಬ್ಧ ಹತ್ತು. ಆದ್ದರಿಂದ, ಬಲ ಎಫ್ ನ ಮೌಲ್ಯ ಹತ್ತು. ಬಲದ ಎಸ್ ಐ ಏಕಮಾನ ನ್ಯೂಟನ್. ಹಾಗಾಗಿ, ಅಂತಿಮ ಉತ್ತರ ಹತ್ತು ನ್ಯೂಟನ್. ಅಂದರೆ, ಐದು ಕೆಜಿ ವಸ್ತುವನ್ನು ಎರಡು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್ ವೇಗೋತ್ಕರ್ಷದಲ್ಲಿ ಚಲಿಸಲು ಹತ್ತು ನ್ಯೂಟನ್ ಬಲ ಬೇಕಾಗುತ್ತದೆ.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಸೂತ್ರ F = ma.\n**ಹಂತ 1: ದತ್ತಾಂಶಗಳನ್ನು ಆದೇಶಿಸಿ**\nF = (5 kg) × (2 m/s²)\n**ಹಂತ 2: ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ**\nF = 10 kg·m/s²\n**ಅಂತಿಮ ಉತ್ತರ:**\nಬಲದ SI ಏಕಮಾನ ನ್ಯೂಟನ್ (N) ಆಗಿರುವುದರಿಂದ, ಮತ್ತು 1 N = 1 kg·m/s² ಆಗಿರುವುದರಿಂದ,\nF = 10 N",
+  "display_bullets": [
+    "ಸೂತ್ರ: F = ma",
+    "ಆದೇಶಿಸಿದಾಗ: F = 5 × 2",
+    "ಉತ್ತರ: F = 10 N"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "classic_blue",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "F = (5 \\text{ kg}) \\times (2 \\text{ m/s}^2) = 10 \\text{ N}",
+    "placeholder_note": "Calculation of force: 5 kg times 2 m/s^2 equals 10 N"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_9_chapter_8_concept_3_chunk_021"
+}

@@ -1,0 +1,133 @@
+{
+  "module_id": "ALG-FAC-2_concept_2",
+  "voice": "Algenib",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 11,
+  "total_duration": 443.121,
+  "total_duration_formatted": "7:23",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "ALG-FAC-2_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ವಿಧಾನ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 45.011,
+      "duration": 45.011,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 45.611,
+      "end": 73.982,
+      "duration": 28.371,
+      "script_words": 40
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_2_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ವಿಧಾನದ ಹಂತಗಳು",
+      "type": "concept_explanation",
+      "start": 74.582,
+      "end": 130.753,
+      "duration": 56.171,
+      "script_words": 77
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_2_chunk_004",
+      "chunk_file": "004_example_0.json",
+      "wav_file": "004_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ 1: ಅಪವರ್ತಿಸಿ",
+      "type": "worked_example",
+      "start": 131.353,
+      "end": 148.724,
+      "duration": 17.371,
+      "script_words": 25
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_2_chunk_005",
+      "chunk_file": "005_example_cont_0_1.json",
+      "wav_file": "005_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ ಹಂತವಾಗಿ",
+      "type": "worked_example",
+      "start": 149.324,
+      "end": 222.255,
+      "duration": 72.931,
+      "script_words": 99
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_2_chunk_006",
+      "chunk_file": "006_example_cont_0_2.json",
+      "wav_file": "006_example_cont_0_2.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 222.855,
+      "end": 246.266,
+      "duration": 23.411,
+      "script_words": 35
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_2_chunk_007",
+      "chunk_file": "007_example_1.json",
+      "wav_file": "007_example_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ 2: ಅಪವರ್ತಿಸಿ",
+      "type": "worked_example",
+      "start": 246.866,
+      "end": 268.717,
+      "duration": 21.851,
+      "script_words": 31
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_2_chunk_008",
+      "chunk_file": "008_example_cont_1_1.json",
+      "wav_file": "008_example_cont_1_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "start": 269.317,
+      "end": 325.328,
+      "duration": 56.011,
+      "script_words": 82
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_2_chunk_009",
+      "chunk_file": "009_example_cont_1_2.json",
+      "wav_file": "009_example_cont_1_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+      "type": "worked_example",
+      "start": 325.928,
+      "end": 376.379,
+      "duration": 50.451,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_2_chunk_010",
+      "chunk_file": "010_example_cont_1_3.json",
+      "wav_file": "010_example_cont_1_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 376.979,
+      "end": 399.15,
+      "duration": 22.171,
+      "script_words": 36
+    },
+    {
+      "chunk_id": "ALG-FAC-2_concept_2_chunk_011",
+      "chunk_file": "011_recap_0.json",
+      "wav_file": "011_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ವಿಧಾನ",
+      "type": "recap",
+      "start": 399.75,
+      "end": 442.521,
+      "duration": 42.771,
+      "script_words": 67
+    }
+  ]
+}

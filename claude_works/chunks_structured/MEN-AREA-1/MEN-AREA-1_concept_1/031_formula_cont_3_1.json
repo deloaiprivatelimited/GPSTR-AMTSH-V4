@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಒಂದು ಸರಳ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಈ ಸೂತ್ರವನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂದು ನೋಡೋಣ. ಒಂದು ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಉದ್ದಗಳು ಕ್ರಮವಾಗಿ ಐದು ಸೆಂಟಿಮೀಟರ್, ಏಳು ಸೆಂಟಿಮೀಟರ್, ಮತ್ತು ಎಂಟು ಸೆಂಟಿಮೀಟರ್ ಎಂದು ಭಾವಿಸೋಣ. ನಮ್ಮ ಸುತ್ತಳತೆಯ ಸೂತ್ರ, ಪಿ ಈಕ್ವಲ್ಸ್ ಎ ಪ್ಲಸ್ ಬಿ ಪ್ಲಸ್ ಸಿ ಅನ್ನು ಬಳಸೋಣ. ಇಲ್ಲಿ ಎ ಐದು, ಬಿ ಏಳು, ಮತ್ತು ಸಿ ಎಂಟು ಆಗಿದೆ. ಈ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ ಪಿ ಈಕ್ವಲ್ಸ್ ಐದು ಪ್ಲಸ್ ಏಳು ಪ್ಲಸ್ ಎಂಟು ಎಂದು ಸಿಗುತ್ತದೆ. ಇವುಗಳನ್ನು ಕೂಡಿದಾಗ, ಐದು ಪ್ಲಸ್ ಏಳು ಹನ್ನೆರಡು ಆಗುತ್ತದೆ, ಮತ್ತು ಹನ್ನೆರಡು ಪ್ಲಸ್ ಎಂಟು ಇಪ್ಪತ್ತು ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಈ ತ್ರಿಭುಜದ ಸುತ್ತಳತೆಯು ಇಪ್ಪತ್ತು ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಇದು ಇಷ್ಟು ಸರಳ.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಈ ಸೂತ್ರವನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂದು ನೋಡೋಣ. ಒಂದು ತ್ರಿಭುಜದ ಬಾಹುಗಳ ಉದ್ದಗಳು ಕ್ರಮವಾಗಿ 5 cm, 7 cm, ಮತ್ತು 8 cm ಎಂದು ಭಾವಿಸೋಣ. ನಮ್ಮ ಸುತ್ತಳತೆಯ ಸೂತ್ರ, $P = a + b + c$ ಅನ್ನು ಬಳಸೋಣ. ಇಲ್ಲಿ $a=5$, $b=7$, ಮತ್ತು $c=8$ ಆಗಿದೆ. ಈ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ $P = 5 + 7 + 8$ ಎಂದು ಸಿಗುತ್ತದೆ. ಇವುಗಳನ್ನು ಕೂಡಿದಾಗ, $5 + 7 = 12$, ಮತ್ತು $12 + 8 = 20$. ಆದ್ದರಿಂದ, ಈ ತ್ರಿಭುಜದ ಸುತ್ತಳತೆಯು 20 cm ಆಗಿದೆ. ಇದು ಇಷ್ಟು ಸರಳ.",
+  "display_bullets": [
+    "ಒಂದು ತ್ರಿಭುಜದ ಬಾಹುಗಳು 5 cm, 7 cm, ಮತ್ತು 8 cm ಆಗಿರಲಿ.",
+    "ಸುತ್ತಳತೆಯ ಸೂತ್ರ: P = a + b + c",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: P = 5 + 7 + 8",
+    "ಸುತ್ತಳತೆ P = 20 cm"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A scalene triangle with sides labeled 5 cm, 7 cm, and 8 cm.",
+    "labels": "5 cm, 7 cm, 8 cm",
+    "mathematical_significance": "This visual provides a concrete example for calculating the perimeter of a triangle. It helps students visualize the problem and connect the abstract formula to actual lengths.",
+    "placeholder_note": "Image to be generated: A triangle with its three sides clearly marked with the lengths 5 cm, 7 cm, and 8 cm."
+  },
+  "chunk_id": "MEN-AREA-1_concept_1_chunk_031"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ನೋಡಿ, ನಾವು ಪಡೆದ ಫಲಿತಾಂಶವು ನಿಖರವಾಗಿ ನಮ್ಮ ಬಲಭಾಗಕ್ಕೆ, ಅಂದರೆ ಆರ್ ಎಚ್ ಎಸ್ ಗೆ ಸಮವಾಗಿದೆ. ನಾವು ಎಡಭಾಗದಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಹಂತ ಹಂತವಾಗಿ ಸರಳೀಕರಿಸಿ, ಬಲಭಾಗವನ್ನು ತಲುಪಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಕೊಟ್ಟಿರುವ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "script_display": "ನೋಡಿ, ನಾವು ಪಡೆದ ಫಲಿತಾಂಶವು ನಿಖರವಾಗಿ ನಮ್ಮ ಬಲಭಾಗಕ್ಕೆ (RHS) ಗೆ ಸಮವಾಗಿದೆ. ನಾವು ಎಡಭಾಗದಿಂದ (LHS) ಪ್ರಾರಂಭಿಸಿ, ಹಂತ ಹಂತವಾಗಿ ಸರಳೀಕರಿಸಿ, ಬಲಭಾಗವನ್ನು (RHS) ತಲುಪಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಕೊಟ್ಟಿರುವ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "display_bullets": [
+    "LHS = RHS",
+    "ಆದ್ದರಿಂದ, ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸಾಧಿಸಲಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "TRI-INTRO-1_example_11",
+  "steps": [],
+  "final_answer": "LHS = RHS. ಆದ್ದರಿಂದ ಸಾಧಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "LHS = $\\frac{\\csc A - 1}{\\csc A + 1}$ = RHS",
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_037"
+}

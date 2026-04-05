@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ ಸಿಕ್ಕಿದೆ. ತರಗತಿಯಲ್ಲಿರುವ ಒಟ್ಟು 25 ವಿದ್ಯಾರ್ಥಿಗಳಲ್ಲಿ 15 ಬಾಲಕಿಯರಿದ್ದರೆ, ಬಾಲಕಿಯರ ಶೇಕಡಾ ಪ್ರಮಾಣ 60 ಪ್ರತಿಶತ ಆಗಿರುತ್ತದೆ. ಇದರರ್ಥ, ಪ್ರತಿ 100 ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ 60 ಬಾಲಕಿಯರಿದ್ದಾರೆ ಎಂದು.",
+  "script_display": "ಹಾಗಾಗಿ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ ಸಿಕ್ಕಿದೆ. ತರಗತಿಯಲ್ಲಿರುವ ಒಟ್ಟು 25 ವಿದ್ಯಾರ್ಥಿಗಳಲ್ಲಿ 15 ಬಾಲಕಿಯರಿದ್ದರೆ, ಬಾಲಕಿಯರ ಶೇಕಡಾ ಪ್ರಮಾಣ 60% ಆಗಿರುತ್ತದೆ. ಇದರರ್ಥ, ಪ್ರತಿ 100 ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ 60 ಬಾಲಕಿಯರಿದ್ದಾರೆ ಎಂದು.",
+  "display_bullets": [
+    "ತರಗತಿಯಲ್ಲಿರುವ ಬಾಲಕಿಯರ ಶೇಕಡಾ ಪ್ರಮಾಣ 60% ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "RPP-COMP-1_example_1",
+  "final_answer": "60%",
+  "final_answer_display": "60%",
+  "chunk_id": "RPP-COMP-1_concept_1_chunk_033"
+}

@@ -1,0 +1,136 @@
+{
+  "module_id": "ALG-FAC-2_concept_2",
+  "merge_code": "ALG-FAC-2",
+  "voice": "Algenib",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:09:01",
+  "chunks": {
+    "004_example_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "c320767c341864defc83a72fa2e1a74b",
+      "wav_file": "004_example_0.wav",
+      "duration": 17.371,
+      "slide_title": "ಉದಾಹರಣೆ 1: ಅಪವರ್ತಿಸಿ",
+      "type": "worked_example",
+      "script_words": 25,
+      "generated_at": "2026-03-30 14:06:39"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "733076e26ccfa832d8f117025825ecaf",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.371,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 40,
+      "generated_at": "2026-03-30 14:06:46"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "81dbc4fee5beaa397bdb110f7ed50abb",
+      "wav_file": "001_intro_0.wav",
+      "duration": 45.011,
+      "slide_title": "ಪರಿಚಯ: ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ವಿಧಾನ",
+      "type": "intro",
+      "script_words": 67,
+      "generated_at": "2026-03-30 14:07:01"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "7c3c834e6b41b44b03f90b4d1261f01c",
+      "wav_file": "003_property_0.wav",
+      "duration": 56.171,
+      "slide_title": "ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ವಿಧಾನದ ಹಂತಗಳು",
+      "type": "concept_explanation",
+      "script_words": 77,
+      "generated_at": "2026-03-30 14:07:08"
+    },
+    "005_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "8fca6d08ee3f8f92bd889b59e36b26dc",
+      "wav_file": "005_example_cont_0_1.wav",
+      "duration": 72.931,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ ಹಂತವಾಗಿ",
+      "type": "worked_example",
+      "script_words": 99,
+      "generated_at": "2026-03-30 14:07:40"
+    },
+    "006_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "0f2716a2282caabf84ffe9c0ccb91ef4",
+      "wav_file": "006_example_cont_0_2.wav",
+      "duration": 23.411,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 35,
+      "generated_at": "2026-03-30 14:07:43"
+    },
+    "007_example_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "6adf6da34b72dec084c4e922cc2917d9",
+      "wav_file": "007_example_1.wav",
+      "duration": 21.851,
+      "slide_title": "ಉದಾಹರಣೆ 2: ಅಪವರ್ತಿಸಿ",
+      "type": "worked_example",
+      "script_words": 31,
+      "generated_at": "2026-03-30 14:07:43"
+    },
+    "009_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "34cda9bd412f1b9a4744831379f787be",
+      "wav_file": "009_example_cont_1_2.wav",
+      "duration": 50.451,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+      "type": "worked_example",
+      "script_words": 73,
+      "generated_at": "2026-03-30 14:08:02"
+    },
+    "010_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "0002fd63247ca45c9ce0780cb92b34d3",
+      "wav_file": "010_example_cont_1_3.wav",
+      "duration": 22.171,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 36,
+      "generated_at": "2026-03-30 14:08:03"
+    },
+    "008_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "311e50ae4debbf8397ed8ea2f1699544",
+      "wav_file": "008_example_cont_1_1.wav",
+      "duration": 56.011,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "script_words": 82,
+      "generated_at": "2026-03-30 14:08:07"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "a4339947261a87c1744be476766c7228",
+      "wav_file": "011_recap_0.wav",
+      "duration": 42.771,
+      "slide_title": "ಸಾರಾಂಶ: ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ವಿಧಾನ",
+      "type": "recap",
+      "script_words": 67,
+      "generated_at": "2026-03-30 14:09:01"
+    }
+  }
+}

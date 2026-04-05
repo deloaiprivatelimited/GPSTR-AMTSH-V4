@@ -1,0 +1,30 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿವರ್ತಕಗಳು (Reactants)",
+  "script": "ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಪ್ರತಿವರ್ತಕಗಳಿವೆ. ಮೊದಲನೆಯದು, ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್. ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಸುಣ್ಣದ ತಿಳಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ ಮತ್ತು ಇದು ದ್ರಾವಣ ರೂಪದಲ್ಲಿರುತ್ತದೆ. ಎರಡನೆಯದು, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್. ಇದು ನಾವು ಉಸಿರಾಟದಲ್ಲಿ ಹೊರಹಾಕುವ ಅನಿಲವಾಗಿದೆ.",
+  "script_display": "ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಎರಡು ಮುಖ್ಯ ಪ್ರತಿವರ್ತಕಗಳಿವೆ.",
+  "display_bullets": [
+    "ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (Ca(OH)₂): ಸುಣ್ಣದ ತಿಳಿ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಸ್ಪಷ್ಟ ದ್ರಾವಣ.",
+    "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂): ನಿಶ್ವಾಸದ ಗಾಳಿಯಲ್ಲಿರುವ ಅನಿಲ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_A",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_7_chapter_6_concept_5_chunk_005"
+}

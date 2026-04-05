@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಕಪ್ಪೆಯ ಜೀವನ ಚಕ್ರ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: ಕಪ್ಪೆಯ ಜೀವನ ಚಕ್ರದಲ್ಲಿನ ರೂಪಪರಿವರ್ತನೆಯ ಹಂತಗಳನ್ನು ವಿವರಿಸಿ. ಈ ಪ್ರಶ್ನೆಯಲ್ಲಿ, ನಾವು ಕಪ್ಪೆಯು ಮೊಟ್ಟೆಯಿಂದ ಪ್ರೌಢ ಜೀವಿಯಾಗಿ ಬದಲಾಗುವ ವಿವಿಧ ಹಂತಗಳನ್ನು ಕ್ರಮವಾಗಿ ವಿವರಿಸಬೇಕು.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: ಕಪ್ಪೆಯ ಜೀವನ ಚಕ್ರದಲ್ಲಿನ ರೂಪಪರಿವರ್ತನೆಯ (metamorphosis) ಹಂತಗಳನ್ನು ವಿವರಿಸಿ. ಈ ಪ್ರಶ್ನೆಯಲ್ಲಿ, ನಾವು ಕಪ್ಪೆಯು ಮೊಟ್ಟೆಯಿಂದ ಪ್ರೌಢ ಜೀವಿಯಾಗಿ ಬದಲಾಗುವ ವಿವಿಧ ಹಂತಗಳನ್ನು ಕ್ರಮವಾಗಿ ವಿವರಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಪ್ರಶ್ನೆ: ಕಪ್ಪೆಯ ಜೀವನ ಚಕ್ರದಲ್ಲಿನ ರೂಪಪರಿವರ್ತನೆಯ ಹಂತಗಳನ್ನು ವಿವರಿಸಿ.",
+    "ಗುರಿ: ಮೊಟ್ಟೆಯಿಂದ ಪ್ರೌಢ ಕಪ್ಪೆಯವರೆಗಿನ ಹಂತಗಳನ್ನು ವಿವರಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, friendly illustration of an adult green frog sitting on a lily pad.",
+    "labels": "ಪ್ರೌಢ ಕಪ್ಪೆ",
+    "scientific_significance": "Represents the final stage of the life cycle being discussed.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "std_8_chapter_6_example_1",
+  "chunk_id": "std_8_chapter_6_concept_6_chunk_006"
+}

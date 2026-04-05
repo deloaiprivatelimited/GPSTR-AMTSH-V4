@@ -1,0 +1,44 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+  "script": "ಹಾಗಾಗಿ, ಕ್ಲೋರಿನ್‌ನ ಸರಾಸರಿ ಪರಮಾಣು ದ್ರವ್ಯರಾಶಿ ಮೂವತ್ತೈದು ಪಾಯಿಂಟ್ ಐದು ಯು. ಇಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ಗಮನಿಸಬೇಕು. ಮೂವತ್ತೈದು ಪಾಯಿಂಟ್ ಐದು ಯು ದ್ರವ್ಯರಾಶಿಯಿರುವ ಯಾವುದೇ ಒಂದು ಕ್ಲೋರಿನ್ ಪರಮಾಣು ಪ್ರಕೃತಿಯಲ್ಲಿ ಪ್ರತ್ಯೇಕವಾಗಿ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ. ಇದು ಕೇವಲ ಗಣಿತದ ಸರಾಸರಿ ಮೌಲ್ಯವಾಗಿದೆ. ಪರೀಕ್ಷೆಯಲ್ಲಿ ಇದು ಗೊಂದಲ ಉಂಟುಮಾಡಬಹುದು, ಆದ್ದರಿಂದ ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "script_display": "ಕ್ಲೋರಿನ್‌ನ ಸರಾಸರಿ ಪರಮಾಣು ದ್ರವ್ಯರಾಶಿ 35.5 u ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಸಾಮಾನ್ಯ ತಪ್ಪು: 35.5 u ದ್ರವ್ಯರಾಶಿಯಿರುವ ಯಾವುದೇ ಒಂದು ಕ್ಲೋರಿನ್ ಪರಮಾಣು ಪ್ರತ್ಯೇಕವಾಗಿ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ. ಇದು ಕೇವಲ ಗಣಿತದ ಸರಾಸರಿ ಮೌಲ್ಯವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "35.5 \\text{ u}",
+    "placeholder_note": "Final calculated average atomic mass of Chlorine"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_4_example_2",
+  "final_answer": "35.5 u",
+  "final_answer_display": "ಕ್ಲೋರಿನ್‌ನ ಸರಾಸರಿ ಪರಮಾಣು ದ್ರವ್ಯರಾಶಿ 35.5 u.",
+  "exam_tip": {
+    "question_pattern": "ಸರಾಸರಿ ಪರಮಾಣು ದ್ರವ್ಯರಾಶಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಪ್ರಶ್ನೆಗಳು.",
+    "skill_tested": "ಸಮಸ್ಥಾನಿಗಳ ಲಭ್ಯತೆ ಮತ್ತು ದ್ರವ್ಯರಾಶಿಯನ್ನು ಬಳಸಿ ಸರಾಸರಿ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+    "distractor": "ಸರಾಸರಿ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಪೂರ್ಣಾಂಕಕ್ಕೆ ಸಮೀಪಿಸುವುದು ಅಥವಾ 35.5 u ದ್ರವ್ಯರಾಶಿಯ ಪರಮಾಣು ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ ಎಂದು ಭಾವಿಸುವುದು.",
+    "why_distractor_works": "ಸರಾಸರಿ ಮೌಲ್ಯವು ಗಣಿತದ ಪರಿಕಲ್ಪನೆಯಾಗಿದ್ದು, ಭೌತಿಕವಾಗಿ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಕಣವನ್ನು ಪ್ರತಿನಿಧಿಸಬೇಕಾಗಿಲ್ಲ ಎಂಬ ಅರಿವಿನ ಕೊರತೆಯಿಂದಾಗಿ ಗೊಂದಲ ಉಂಟಾಗುತ್ತದೆ."
+  },
+  "chunk_id": "std_9_chapter_4_concept_8_chunk_017"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಯತ ಘನದ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ",
+  "script": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನೋಡಿದಂತೆ, ಎಲ್ಲಾ ಆರು ಮುಖಗಳ ವಿಸ್ತೀರ್ಣಗಳನ್ನು ಕೂಡಿದಾಗ, ನಮಗೆ ಆಯತ ಘನದ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ ಸಿಗುತ್ತದೆ. ಆ ಸೂತ್ರವೇ, ಟಿ ಎಸ್ ಎ ಈಕ್ವಲ್ಸ್ ಎರಡು ಇಂಟು, ಎಲ್ ಬಿ ಪ್ಲಸ್ ಬಿ ಎಚ್ ಪ್ಲಸ್ ಎಚ್ ಎಲ್. ಇಲ್ಲಿ, ಟಿ ಎಸ್ ಎ ಎಂದರೆ 'ಟೋಟಲ್ ಸರ್ಫೇಸ್ ಏರಿಯಾ' ಅಥವಾ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ. ಎಲ್ ಎಂಬುದು ಆಯತ ಘನದ ಉದ್ದ ಅಥವಾ length. ಬಿ ಎಂಬುದು ಅದರ ಅಗಲ ಅಥವಾ breadth. ಮತ್ತು ಎಚ್ ಎಂಬುದು ಅದರ ಎತ್ತರ ಅಥವಾ height. ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ ನಾವು ಯಾವುದೇ ಆಯತ ಘನದ ಸಂಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "script_display": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನೋಡಿದಂತೆ, ಎಲ್ಲಾ ಆರು ಮುಖಗಳ ವಿಸ್ತೀರ್ಣಗಳನ್ನು ಕೂಡಿದಾಗ, ನಮಗೆ ಆಯತ ಘನದ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ ಸಿಗುತ್ತದೆ. ಆ ಸೂತ್ರವೇ, $TSA = 2(lb + bh + hl)$. ಇಲ್ಲಿ, TSA ಎಂದರೆ 'Total Surface Area' ಅಥವಾ ಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ. $l$ ಎಂಬುದು ಆಯತ ಘನದ ಉದ್ದ (length). $b$ ಎಂಬುದು ಅದರ ಅಗಲ (breadth). ಮತ್ತು $h$ ಎಂಬುದು ಅದರ ಎತ್ತರ (height). ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ ನಾವು ಯಾವುದೇ ಆಯತ ಘನದ ಸಂಪೂರ್ಣ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "display_bullets": [
+    "ಸೂತ್ರ: $TSA = 2(lb + bh + hl)$",
+    "ಇಲ್ಲಿ, $l$ ಎಂದರೆ ಉದ್ದ (length).",
+    "$b$ ಎಂದರೆ ಅಗಲ (breadth).",
+    "$h$ ಎಂದರೆ ಎತ್ತರ (height)."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "TSA = 2(lb + bh + hl)",
+    "placeholder_note": "Formula for Total Surface Area of a Cuboid"
+  },
+  "chunk_id": "MEN-MEN-2_concept_2_chunk_018"
+}

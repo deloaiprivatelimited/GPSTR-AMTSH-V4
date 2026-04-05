@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಭೌತ ಬದಲಾವಣೆಗಳ ಉದಾಹರಣೆಗಳು",
+  "script": "ಮೊದಲಿಗೆ, ಭೌತ ಬದಲಾವಣೆಗಳನ್ನು ನೋಡೋಣ. ಇವುಗಳಲ್ಲಿ ವಸ್ತುವಿನ ಮೂಲ ಸ್ವರೂಪ ಬದಲಾಗುವುದಿಲ್ಲ, ಕೇವಲ ಅದರ ಸ್ಥಿತಿ ಅಥವಾ ಆಕಾರ ಬದಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನೀರು ಆವಿಯಾಗುವುದು. ಇಲ್ಲಿ ದ್ರವ ರೂಪದ ನೀರು ಅನಿಲ ರೂಪದ ನೀರಾವಿಯಾಗುತ್ತದೆ. ಆದರೆ ಎರಡೂ ಸಂದರ್ಭಗಳಲ್ಲಿ ಅದು ನೀರೇ, ಅಂದರೆ ಎಚ್ ಟು ಓ. ಹಾಗೆಯೇ, ಮಂಜುಗಡ್ಡೆ ಕರಗುವುದು ಕೂಡ ಒಂದು ಭೌತ ಬದಲಾವಣೆ. ಘನ ರೂಪದ ಮಂಜುಗಡ್ಡೆ ದ್ರವ ರೂಪದ ನೀರಾಗುತ್ತದೆ. ಇಲ್ಲಿ ಹೊಸ ವಸ್ತು ಉಂಟಾಗುವುದಿಲ್ಲ, ಕೇವಲ ಸ್ಥಿತಿ ಬದಲಾಗಿದೆ. ಇಂತಹ ಬದಲಾವಣೆಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಹಿಮ್ಮುಖಗೊಳಿಸಬಹುದು.",
+  "script_display": "ಮೊದಲಿಗೆ, ಭೌತ ಬದಲಾವಣೆಗಳನ್ನು ನೋಡೋಣ. ಇವುಗಳಲ್ಲಿ ವಸ್ತುವಿನ ಮೂಲ ಸ್ವರೂಪ ಬದಲಾಗುವುದಿಲ್ಲ, ಕೇವಲ ಅದರ ಸ್ಥಿತಿ ಅಥವಾ ಆಕಾರ ಬದಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನೀರು ಆವಿಯಾಗುವುದು. ಇಲ್ಲಿ ದ್ರವ ರೂಪದ ನೀರು ಅನಿಲ ರೂಪದ ನೀರಾವಿಯಾಗುತ್ತದೆ. ಆದರೆ ಎರಡೂ ಸಂದರ್ಭಗಳಲ್ಲಿ ಅದು ನೀರೇ, ಅಂದರೆ H₂O. ಹಾಗೆಯೇ, ಮಂಜುಗಡ್ಡೆ ಕರಗುವುದು ಕೂಡ ಒಂದು ಭೌತ ಬದಲಾವಣೆ. ಘನ ರೂಪದ ಮಂಜುಗಡ್ಡೆ ದ್ರವ ರೂಪದ ನೀರಾಗುತ್ತದೆ. ಇಲ್ಲಿ ಹೊಸ ವಸ್ತು ಉಂಟಾಗುವುದಿಲ್ಲ, ಕೇವಲ ಸ್ಥಿತಿ ಬದಲಾಗಿದೆ. ಇಂತಹ ಬದಲಾವಣೆಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಹಿಮ್ಮುಖಗೊಳಿಸಬಹುದು.",
+  "display_bullets": [
+    "ನೀರು ಆವಿಯಾಗುವುದು",
+    "ಮಂಜುಗಡ್ಡೆ ಕರಗುವುದು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing the three states of water: a block of ice (solid), a glass of water (liquid), and steam rising from a pot (gas). Arrows should indicate the transitions: melting from ice to water, and evaporation from water to steam.",
+    "labels": "ಮಂಜುಗಡ್ಡೆ (ಘನ), ನೀರು (ದ್ರವ), ನೀರಾವಿ (ಅನಿಲ), ಕರಗುವಿಕೆ, ಆವಿಯಾಗುವಿಕೆ",
+    "scientific_significance": "Illustrates the concept of change of state, a key type of physical change where the chemical composition (H₂O) remains constant.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_2_concept_8_chunk_008"
+}

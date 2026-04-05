@@ -1,0 +1,50 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 4 ಮತ್ತು 5",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಾಲ್ಕನೇ ಹಂತ, ಎರಡನೇ ದರ್ಪಣದ ಮೇಲಿನ ಪತನ ಕೋನ, ಅಂದರೆ ಐ ಟೂ ಅನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇದು ಎರಡನೇ ದರ್ಪಣಕ್ಕೆ ಎಳೆದ ಲಂಬ ಮತ್ತು ಪತನ ಕಿರಣದ ನಡುವಿನ ಕೋನ. ಇದು ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಮೈನಸ್ ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ಸಿಕ್ಕ ಮೂವತ್ತು ಡಿಗ್ರಿ. ಅಂದರೆ ಐ ಟೂ ಅರವತ್ತು ಡಿಗ್ರಿ ಆಗುತ್ತದೆ. ಐದನೇ ಹಂತ, ಎರಡನೇ ದರ್ಪಣದಿಂದ ಪ್ರತಿಫಲನ ಕೋನ ಆರ್ ಟೂ ಅನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಮತ್ತೆ ಪ್ರತಿಫಲನದ ನಿಯಮದಂತೆ, ಪ್ರತಿಫಲನ ಕೋನವು ಪತನ ಕೋನಕ್ಕೆ ಸಮ. ಆದ್ದರಿಂದ, ಆರ್ ಟೂ ಕೂಡ ಅರವತ್ತು ಡಿಗ್ರಿ ಆಗುತ್ತದೆ.",
+  "script_display": "ಪರಿಹಾರದ ಅಂತಿಮ ಹಂತಗಳು:",
+  "display_bullets": [
+    "**ಹಂತ 4:** ಎರಡನೇ ದರ್ಪಣದ (M2) ಮೇಲಿನ ಪತನ ಕೋನ i₂ = 90° - 30° = 60°.",
+    "**ಹಂತ 5:** ಪ್ರತಿಫಲನ ನಿಯಮದಂತೆ, ಎರಡನೇ ಪ್ರತಿಫಲನ ಕೋನ r₂ = i₂ = 60°."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_green",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಂತ 4-5 ರಲ್ಲಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದ ಅಂತಿಮ ಕೋನಗಳನ್ನು (i₂=60°, r₂=60°) ತೋರಿಸುವ ರೇಖಾಚಿತ್ರ.",
+    "labels": "M2, ಲಂಬ 2, i₂, r₂",
+    "scientific_significance": "ಎರಡನೇ ಪ್ರತಿಫಲನದಲ್ಲಿ ಪತನ ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನಗಳನ್ನು ನಿರ್ಧರಿಸುವುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Same diagram, now highlighting the angles i₂ and r₂ on the second mirror."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "std_8_chapter_13_example_3",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "ಎರಡನೇ ದರ್ಪಣದ (M2) ಮೇಲಿನ ಪತನ ಕೋನವನ್ನು (i₂) ಕಂಡುಹಿಡಿಯುವುದು. i₂ = 90° - 30° = 60°.",
+      "justification": "ಪತನ ಕೋನ i₂ ಎಂಬುದು M2 ಮೇಲಿನ ಪತನ ಕಿರಣ ಮತ್ತು M2 ಗೆ ಎಳೆದ ಲಂಬದ ನಡುವಿನ ಕೋನ."
+    },
+    {
+      "step": 5,
+      "action_display": "ಎರಡನೇ ದರ್ಪಣದಿಂದ ಪ್ರತಿಫಲನ ಕೋನವನ್ನು (r₂) ಕಂಡುಹಿಡಿಯುವುದು. r₂ = i₂ = 60°.",
+      "justification": "ಪ್ರತಿಫಲನದ ನಿಯಮದಂತೆ, ಪ್ರತಿಫಲನ ಕೋನವು ಪತನ ಕೋನಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "std_8_chapter_13_concept_4_chunk_015"
+}

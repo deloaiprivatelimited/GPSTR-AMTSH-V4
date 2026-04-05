@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಭಾಗ (ii)",
+  "script": "ಈಗ ಎರಡನೇ ಹೇಳಿಕೆಯನ್ನು ನೋಡೋಣ. ಇದು ಸಂಕಲನದ ಸಹವರ್ತನೀಯ ಗುಣವನ್ನು ಬಳಸುತ್ತದೆ, ಅಂದರೆ ಎ ಪ್ಲಸ್ ಬಿ, ಪ್ಲಸ್ ಸಿ ಈಕ್ವಲ್ಸ್ ಎ ಪ್ಲಸ್, ಬಿ ಪ್ಲಸ್ ಸಿ. ನಮ್ಮ ಸಮೀಕರಣದಲ್ಲಿ, ಎ ಹದಿಮೂರು, ಬಿ ಮೈನಸ್ ಹನ್ನೆರಡು, ಮತ್ತು ಸಿ ಮೈನಸ್ ಏಳು ಆಗಿದೆ. ಸಮೀಕರಣದ ಎಡ ಮತ್ತು ಬಲ ಬದಿಗಳನ್ನು ಹೋಲಿಸಿದಾಗ, ಖಾಲಿ ಇರುವ ಜಾಗದಲ್ಲಿ ಮೈನಸ್ ಏಳು ಬರಬೇಕು ಎಂದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಉತ್ತರ ಮೈನಸ್ ಏಳು.",
+  "script_display": "ಈಗ ಎರಡನೇ ಹೇಳಿಕೆಯನ್ನು ನೋಡೋಣ. ಇದು ಸಂಕಲನದ ಸಹವರ್ತನೀಯ ಗುಣವನ್ನು ಬಳಸುತ್ತದೆ, ಅಂದರೆ $(a + b) + c = a + (b + c)$. ನಮ್ಮ ಸಮೀಕರಣದಲ್ಲಿ, $a = 13$, $b = -12$, ಮತ್ತು $c = -7$ ಆಗಿದೆ. ಸಮೀಕರಣದ ಎಡ ಮತ್ತು ಬಲ ಬದಿಗಳನ್ನು ಹೋಲಿಸಿದಾಗ, ಖಾಲಿ ಇರುವ ಜಾಗದಲ್ಲಿ $-7$ ಬರಬೇಕು ಎಂದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಉತ್ತರ $-7$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_centered",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "NS-INT-1_example_2",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಹೇಳಿಕೆ (ii): $[13 + (-12)] + (-7) = 13 + [(-12) + (-7)]$",
+      "justification": "ಸಂಕಲನದ ಸಹವರ್ತನೀಯ ಗುಣ: $(a + b) + c = a + (b + c)$. ಇಲ್ಲಿ $a = 13, b = -12, c = -7$."
+    }
+  ],
+  "chunk_id": "NS-INT-1_concept_4_chunk_009"
+}

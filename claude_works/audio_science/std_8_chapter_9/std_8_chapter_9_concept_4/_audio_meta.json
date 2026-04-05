@@ -1,0 +1,114 @@
+{
+  "module_id": "std_8_chapter_9_concept_4",
+  "chapter_code": "std_8_chapter_9",
+  "voice": "Sadaltager",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:30:18",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "90641c322bdb29594f08034e27f7e5c0",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 17.851,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 31,
+      "generated_at": "2026-04-02 15:28:17"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "e614f1e8d95ecbe34cc1dd39d3467e09",
+      "wav_file": "001_intro_0.wav",
+      "duration": 51.171,
+      "slide_title": "ಘರ್ಷಣೆ: ಒಂದು ಅವಶ್ಯಕ ಕೆಡಕು",
+      "type": "intro",
+      "script_words": 66,
+      "generated_at": "2026-04-02 15:28:48"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "687b02c0888d8571fa8e55f2eba72300",
+      "wav_file": "003_classification_0.wav",
+      "duration": 40.251,
+      "slide_title": "ಘರ್ಷಣೆ: ಒಂದು ಅವಶ್ಯಕ ಕೆಡಕು",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 15:28:59"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "31dd2fc3723acee4d9ea058f795e77f0",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 42.291,
+      "slide_title": "ಘರ್ಷಣೆಯ ಅನುಕೂಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 15:29:02"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "8bc7f2e491d5b7cfd6dba83aaeb9febb",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 43.651,
+      "slide_title": "ಘರ್ಷಣೆಯ ಅನಾನುಕೂಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 15:29:03"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "6b6fd6470f185be7dd2563bdd4817f60",
+      "wav_file": "009_recap_0.wav",
+      "duration": 37.491,
+      "slide_title": "ಸಾರಾಂಶ: ಘರ್ಷಣೆ - ಒಂದು ಅವಶ್ಯಕ ಕೆಡಕು",
+      "type": "recap",
+      "script_words": 50,
+      "generated_at": "2026-04-02 15:29:33"
+    },
+    "008_classification_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "8a4fbaa5793e616d52394f26313ea5d8",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "duration": 44.371,
+      "slide_title": "ತೀರ್ಮಾನ: ಅವಶ್ಯಕ ಕೆಡಕು",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 15:29:39"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "28cbda75cded12ad498cc70953fcc47c",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 42.531,
+      "slide_title": "ಘರ್ಷಣೆಯ ಅನುಕೂಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 15:29:59"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "738ddb7404063e030d1fcbd2db105002",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 48.211,
+      "slide_title": "ಘರ್ಷಣೆಯ ಅನಾನುಕೂಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 15:30:18"
+    }
+  }
+}

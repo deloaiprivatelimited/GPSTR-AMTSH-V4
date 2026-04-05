@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಕಿಲೋ ಜೂಲ್ (Kilojoule, kJ)",
+  "script": "ಈಗ ಕಿಲೋ ಜೂಲ್ ಅನ್ನು ವ್ಯಾಖ್ಯಾನಿಸೋಣ. 'ಕಿಲೋ' ಎಂಬ ಪೂರ್ವಪ್ರತ್ಯಯದ ಅರ್ಥ ಸಾವಿರ. ಇದು ನಿಮಗೆ ಕಿಲೋಗ್ರಾಂ ಮತ್ತು ಕಿಲೋಮೀಟರ್ ಪದಗಳಿಂದ ಈಗಾಗಲೇ ತಿಳಿದಿದೆ, ಅಲ್ಲಿ ಒಂದು ಕಿಲೋಮೀಟರ್ ಎಂದರೆ ಸಾವಿರ ಮೀಟರ್. ಅದೇ ತರ್ಕವನ್ನು ಇಲ್ಲಿಯೂ ಅನ್ವಯಿಸಲಾಗುತ್ತದೆ. ಒಂದು ಕಿಲೋ ಜೂಲ್ ಎಂದರೆ ನಿಖರವಾಗಿ ಒಂದು ಸಾವಿರ ಜೂಲ್ ಗಳು. ಅಂದರೆ, ಒಂದು ಕೆ ಜೆ ಈಕ್ವಲ್ಸ್ ಒಂದು ಸಾವಿರ ಜೆ. ಇದನ್ನು ನಾವು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರಗಳಾದ ಕೆ ಮತ್ತು ಜೆ ಬಳಸಿ ಕೆ ಜೆ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇದು ಶಕ್ತಿಯ ಒಂದು ದೊಡ್ಡ ಮತ್ತು ಹೆಚ್ಚು ಪ್ರಾಯೋಗಿಕವಾದ ಏಕಮಾನವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಕಿಲೋ ಜೂಲ್ (Kilojoule) ಅನ್ನು ವ್ಯಾಖ್ಯಾನಿಸೋಣ. 'ಕಿಲೋ' (kilo) ಎಂಬ ಪೂರ್ವಪ್ರತ್ಯಯದ ಅರ್ಥ 1000. ಇದು ನಿಮಗೆ ಕಿಲೋಗ್ರಾಂ (kg) ಮತ್ತು ಕಿಲೋಮೀಟರ್ (km) ಪದಗಳಿಂದ ಈಗಾಗಲೇ ತಿಳಿದಿದೆ, ಅಲ್ಲಿ 1 km = 1000 m. ಅದೇ ತರ್ಕವನ್ನು ಇಲ್ಲಿಯೂ ಅನ್ವಯಿಸಲಾಗುತ್ತದೆ. ಒಂದು ಕಿಲೋ ಜೂಲ್ ಎಂದರೆ ನಿಖರವಾಗಿ 1000 ಜೂಲ್ ಗಳು. ಅಂದರೆ, 1 kJ = 1000 J. ಇದನ್ನು ನಾವು ಸಂಕ್ಷಿಪ್ತವಾಗಿ kJ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇದು ಶಕ್ತಿಯ ಒಂದು ದೊಡ್ಡ ಮತ್ತು ಹೆಚ್ಚು ಪ್ರಾಯೋಗಿಕವಾದ ಏಕಮಾನವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪದ: ಕಿಲೋ ಜೂಲ್ (Kilojoule, kJ)",
+    "ವ್ಯಾಖ್ಯಾನ: 'ಕಿಲೋ' ಎಂದರೆ 1000, ಆದ್ದರಿಂದ ಕಿಲೋ ಜೂಲ್ ಎಂದರೆ 1000 ಜೂಲ್.",
+    "ಸಂಬಂಧ: 1 kJ = 1000 J"
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "1 \\text{ kJ} = 1000 \\text{ J}",
+    "placeholder_note": "Formula showing the relationship between kilojoule and joule"
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_9_chapter_10_concept_3_chunk_010"
+}

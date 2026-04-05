@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಚಟುವಟಿಕೆ 1.8: ದ್ರವದ ಕಣಗಳ ಆಕರ್ಷಣೆ",
+  "script": "ನಾವು ದ್ರವ್ಯದ ಕಣಗಳ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವನ್ನು ಅನ್ವೇಷಿಸೋಣ, ಅದುವೇ ಕಣಗಳ ನಡುವಿನ ಆಕರ್ಷಣಾ ಬಲ. ಈ ಗುಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಾವು ಒಂದು ಸರಳವಾದ ಆದರೆ ಅತ್ಯಂತ ಪರಿಣಾಮಕಾರಿಯಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲಿದ್ದೇವೆ. ಈ ಚಟುವಟಿಕೆಗೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೇವಲ ಒಂದು ನೀರಿನ ನಲ್ಲಿ ಮಾತ್ರ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಾವು ನಲ್ಲಿಯಿಂದ ನೀರು ಹರಿಯುವಂತೆ ಮಾಡುತ್ತೇವೆ. ಈ ಹರಿಯುತ್ತಿರುವ ನೀರಿನ ಧಾರೆಯೇ ನಮ್ಮ ಪ್ರಯೋಗದ ಮುಖ್ಯ ವಸ್ತು. ಈ ಸರಳ ಚಟುವಟಿಕೆಯು ದ್ರವ್ಯದ ಕಣಗಳು ಹೇಗೆ ಒಂದಕ್ಕೊಂದು ಅಂಟಿಕೊಂಡಿರುತ್ತವೆ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ದ್ರವ್ಯದ ಕಣಗಳ ನಡುವಿನ ಆಕರ್ಷಣಾ ಬಲವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಾವು ನೀರಿನ ನಲ್ಲಿಯನ್ನು ಬಳಸಿ ಒಂದು ಸರಳ ಚಟುವಟಿಕೆ ಮಾಡೋಣ.",
+  "display_bullets": [
+    "ಉದ್ದೇಶ: ದ್ರವ್ಯದ ಕಣಗಳ ನಡುವಿನ ಆಕರ್ಷಣಾ ಬಲವನ್ನು ಪ್ರದರ್ಶಿಸುವುದು.",
+    "ಬೇಕಾಗುವ ವಸ್ತು: ನೀರಿನ ನಲ್ಲಿ.",
+    "ವಿಧಾನ: ನಲ್ಲಿಯಿಂದ ಹರಿಯುವ ನೀರಿನ ಧಾರೆಯನ್ನು ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a water tap with a continuous stream of water flowing downwards from its spout.",
+    "labels": "ನೀರಿನ ನಲ್ಲಿ, ನೀರಿನ ಧಾರೆ",
+    "scientific_significance": "Illustrates the basic setup for an experiment demonstrating the cohesive forces (attraction) between water molecules.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_1_concept_2_chunk_023"
+}

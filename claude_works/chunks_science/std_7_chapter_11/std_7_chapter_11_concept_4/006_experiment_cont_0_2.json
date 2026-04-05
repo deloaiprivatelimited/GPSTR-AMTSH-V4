@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ವಿಶ್ಲೇಷಣೆ",
+  "script": "ಈಗ ಮೇಣದಬತ್ತಿಯನ್ನು ದರ್ಪಣದ ಹತ್ತಿರಕ್ಕೆ ತರೋಣ ಮತ್ತು ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸೋಣ. ನೀವು ಮೇಣದಬತ್ತಿಯನ್ನು ದರ್ಪಣದ ಕಡೆಗೆ ಸರಿಸಿದಂತೆ, ಪರದೆಯ ಮೇಲಿನ ಪ್ರತಿಬಿಂಬದ ಗಾತ್ರವು ದೊಡ್ಡದಾಗುತ್ತಾ ಹೋಗುತ್ತದೆ. ಅಲ್ಲದೆ, ಸ್ಪಷ್ಟ ಪ್ರತಿಬಿಂಬವನ್ನು ಪಡೆಯಲು ನೀವು ಪರದೆಯನ್ನು ದರ್ಪಣದಿಂದ ದೂರ ಸರಿಸಬೇಕಾಗುತ್ತದೆ. ಒಂದು ವೇಳೆ, ಮೇಣದಬತ್ತಿಯನ್ನು ದರ್ಪಣಕ್ಕೆ ಅತಿ ಹತ್ತಿರ ಇಟ್ಟರೆ, ಉದಾಹರಣೆಗೆ ಐದು ಸೆಂಟಿಮೀಟರ್ ದೂರದಲ್ಲಿ, ನಿಮಗೆ ಪರದೆಯ ಮೇಲೆ ಯಾವುದೇ ಪ್ರತಿಬಿಂಬ ಸಿಗುವುದಿಲ್ಲ. ಏಕೆಂದರೆ ಆಗ ಮಿಥ್ಯ ಪ್ರತಿಬಿಂಬವು ದರ್ಪಣದ ಒಳಗೆ ಉಂಟಾಗುತ್ತದೆ.",
+  "script_display": "ಮೇಣದಬತ್ತಿಯನ್ನು ದರ್ಪಣದ ಹತ್ತಿರ ಸರಿಸಿದಾಗ ಆಗುವ ಬದಲಾವಣೆಗಳು:",
+  "display_bullets": [
+    "ವಸ್ತು ಹತ್ತಿರ ಬಂದಂತೆ, ಸತ್ಯ ಪ್ರತಿಬಿಂಬವು ದೊಡ್ಡದಾಗುತ್ತದೆ.",
+    "ಸ್ಪಷ್ಟ ಪ್ರತಿಬಿಂಬಕ್ಕಾಗಿ ಪರದೆಯನ್ನು ದೂರ ಸರಿಸಬೇಕು.",
+    "ವಸ್ತು ಅತಿ ಹತ್ತಿರವಿದ್ದಾಗ (ಉದಾ: 5 cm), ಪರದೆಯ ಮೇಲೆ ಪ್ರತಿಬಿಂಬ ಉಂಟಾಗುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left_text_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Two scenarios side-by-side. Left: Candle far from concave mirror, small inverted real image on screen. Right: Candle closer to mirror, larger inverted real image on a screen that is further away.",
+    "labels": "ದೂರದ ವಸ್ತು -> ಚಿಕ್ಕ ಪ್ರತಿಬಿಂಬ, ಹತ್ತಿರದ ವಸ್ತು -> ದೊಡ್ಡ ಪ್ರತಿಬಿಂಬ",
+    "scientific_significance": "Illustrates the relationship between object distance and the size and position of the real image formed by a concave mirror.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_11_concept_4_chunk_006"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಶಕ್ತಿಯ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 100 ವ್ಯಾಟ್ ಸಾಮರ್ಥ್ಯದ ಒಂದು ಬಲ್ಬ್ ಒಂದು ಗಂಟೆಗಳ ಕಾಲ ಉರಿದರೆ, ಅದು ಬಳಸುವ ವಿದ್ಯುತ್ ಶಕ್ತಿ ಎಷ್ಟು? ಇಲ್ಲಿ ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶಗಳು, ಸಾಮರ್ಥ್ಯ P equals 100 ವ್ಯಾಟ್ ಮತ್ತು ಸಮಯ t equals ಒಂದು ಗಂಟೆ. ಲೆಕ್ಕಾಚಾರಕ್ಕಾಗಿ ನಾವು ಸಮಯವನ್ನು ಸೆಕೆಂಡುಗಳಿಗೆ ಪರಿವರ್ತಿಸಬೇಕು, ಆದ್ದರಿಂದ ಒಂದು ಗಂಟೆ ಎಂದರೆ 3600 ಸೆಕೆಂಡುಗಳು. ಈಗ ನಮ್ಮ ಸೂತ್ರ E equals P times t ಯಲ್ಲಿ ಈ ಮೌಲ್ಯಗಳನ್ನು ಹಾಕೋಣ. E equals 100 ಗುಣಿಸು 3600, ಇದು ನಮಗೆ 3 ಲಕ್ಷದ 60 ಸಾವಿರ ಜೌಲ್ ಉತ್ತರವನ್ನು ನೀಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 100 W ಸಾಮರ್ಥ್ಯದ ಒಂದು ಬಲ್ಬ್ 1 ಗಂಟೆಗಳ ಕಾಲ ಉರಿದರೆ, ಅದು ಬಳಸುವ ವಿದ್ಯುತ್ ಶಕ್ತಿ ಎಷ್ಟು? ಇಲ್ಲಿ ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶಗಳು, ಸಾಮರ್ಥ್ಯ P = 100 W ಮತ್ತು ಸಮಯ t = 1 ಗಂಟೆ. ಲೆಕ್ಕಾಚಾರಕ್ಕಾಗಿ ನಾವು ಸಮಯವನ್ನು ಸೆಕೆಂಡುಗಳಿಗೆ ಪರಿವರ್ತಿಸಬೇಕು, ಆದ್ದರಿಂದ 1 ಗಂಟೆ = 3600 ಸೆಕೆಂಡುಗಳು. ಈಗ ನಮ್ಮ ಸೂತ್ರ E = P × t ಯಲ್ಲಿ ಈ ಮೌಲ್ಯಗಳನ್ನು ಹಾಕೋಣ. E = 100 × 3600, ಇದು ನಮಗೆ 3,60,000 J ಉತ್ತರವನ್ನು ನೀಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 100 W ಬಲ್ಬ್ 1 ಗಂಟೆ ಬಳಸಿದಾಗ ವ್ಯಯವಾದ ಶಕ್ತಿ ಎಷ್ಟು?",
+    "ದತ್ತಾಂಶ: P = 100 W, t = 1 ಗಂಟೆ = 3600 s",
+    "ಸೂತ್ರ: E = P × t",
+    "ಲೆಕ್ಕಾಚಾರ: E = 100 W × 3600 s = 3,60,000 J"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_dark_green",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "E = 100 \\, \\text{W} \\times 3600 \\, \\text{s} = 360,000 \\, \\text{J}",
+    "placeholder_note": "Calculation of energy consumed by a 100W bulb in one hour."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_11_concept_8_chunk_024"
+}

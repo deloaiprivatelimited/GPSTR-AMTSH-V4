@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ವಿವರಗಳು",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ವರ್ತಕಗಳು. ಇಲ್ಲಿ ಅಲ್ಯೂಮಿನಿಯಂ, ಅಂದರೆ A l, ಮತ್ತು ಆಕ್ಸಿಜನ್, ಅಂದರೆ O two, ವರ್ತಕಗಳಾಗಿವೆ. ಎರಡನೆಯದಾಗಿ, ಉತ್ಪನ್ನ. ಈ ಕ್ರಿಯೆಯಿಂದ ಉಂಟಾಗುವ ಉತ್ಪನ್ನ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್, ಅಂದರೆ A l two O three. ಮೂರನೆಯದಾಗಿ, ಕ್ರಿಯೆಯ ವಿಧ. ಇದು ಒಂದು ಸಂಯೋಗ ಕ್ರಿಯೆ, ಏಕೆಂದರೆ ಎರಡು ವರ್ತಕಗಳು ಸೇರಿ ಒಂದೇ ಉತ್ಪನ್ನವನ್ನು ನೀಡುತ್ತಿವೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ.",
+  "display_bullets": [
+    "ವರ್ತಕಗಳು: ಅಲ್ಯೂಮಿನಿಯಂ (Al) ಮತ್ತು ಆಕ್ಸಿಜನ್ (O₂)",
+    "ಉತ್ಪನ್ನ: ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ (Al₂O₃)",
+    "ಕ್ರಿಯೆಯ ವಿಧ: ಸಂಯೋಗ ಕ್ರಿಯೆ (Combination Reaction)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_022"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "intro",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನಿಮಗೆ ಕೆಲವು ಮೂಲಭೂತ ವಿಷಯಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರುವುದು ಅವಶ್ಯಕ. ಅವುಗಳೆಂದರೆ: ಚರಾಕ್ಷರಗಳು ಮತ್ತು ಸ್ಥಿರಾಂಕಗಳು, ಬೀಜೋಕ್ತಿಗಳ ರಚನೆ, ಪದಗಳು, ಅಪವರ್ತನಗಳು ಮತ್ತು ಸಹಗುಣಕಗಳು, ಹಾಗೂ ಸಜಾತಿ ಮತ್ತು ವಿಜಾತಿ ಪದಗಳು. ಈ ವಿಷಯಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಹಿಂದಿನ ಪಾಠಗಳನ್ನು ಒಮ್ಮೆ ಪುನರಾವರ್ತಿಸಿ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನಿಮಗೆ ಈ ಕೆಳಗಿನ ವಿಷಯಗಳ ಬಗ್ಗೆ ಸ್ಪಷ್ಟವಾದ ತಿಳುವಳಿಕೆ ಇರಬೇಕು:",
+  "display_bullets": [
+    "ಚರಾಕ್ಷರಗಳು ಮತ್ತು ಸ್ಥಿರಾಂಕಗಳು (Variables and Constants)",
+    "ಬೀಜೋಕ್ತಿಗಳ ರಚನೆ (Formation of Expressions)",
+    "ಪದಗಳು, ಅಪವರ್ತನಗಳು ಮತ್ತು ಸಹಗುಣಕಗಳು (Terms, Factors, and Coefficients)",
+    "ಸಜಾತಿ ಮತ್ತು ವಿಜಾತಿ ಪದಗಳು (Like and Unlike Terms)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "ALG-EXP-1_concept_5_chunk_002"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತಗಳು 3-4: ರೂಪಪರಿವರ್ತನೆ ಮತ್ತು ಪ್ರೌಢ ಕಪ್ಪೆ",
+  "script": "ಮುಂದಿನದು ಮೂರನೇ ಹಂತ, ರೂಪಪರಿವರ್ತನೆ. ಈ ಹಂತದಲ್ಲಿ, ಗೊದಮೊಟ್ಟೆಯು ಬೆಳೆಯುತ್ತಾ ಕಾಲುಗಳು ಮೂಡುತ್ತವೆ, ಬಾಲವು ನಿಧಾನವಾಗಿ ಕಣ್ಮರೆಯಾಗುತ್ತದೆ, ಮತ್ತು ಉಸಿರಾಟಕ್ಕಾಗಿ ಶ್ವಾಸಕೋಶಗಳು ಬೆಳೆಯುತ್ತವೆ. ನಾಲ್ಕನೇ ಹಂತ, ಪ್ರೌಢ ಕಪ್ಪೆ. ಪೂರ್ಣ ರೂಪಪರಿವರ್ತನೆಯ ನಂತರ, ಇದು ನೆಲದ ಮೇಲೆ ಬದುಕಬಲ್ಲ, ಕುಪ್ಪಳಿಸಬಲ್ಲ ಮತ್ತು ಶ್ವಾಸಕೋಶಗಳಿಂದ ಉಸಿರಾಡುವ ಪ್ರೌಢ ಕಪ್ಪೆಯಾಗಿ ಬದಲಾಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದಿನದು ಮೂರನೇ ಹಂತ, ರೂಪಪರಿವರ್ತನೆ (Metamorphosis). ಈ ಹಂತದಲ್ಲಿ, ಗೊದಮೊಟ್ಟೆಯು ಬೆಳೆಯುತ್ತಾ ಕಾಲುಗಳು ಮೂಡುತ್ತವೆ, ಬಾಲವು ನಿಧಾನವಾಗಿ ಕಣ್ಮರೆಯಾಗುತ್ತದೆ, ಮತ್ತು ಉಸಿರಾಟಕ್ಕಾಗಿ ಶ್ವಾಸಕೋಶಗಳು (lungs) ಬೆಳೆಯುತ್ತವೆ. ನಾಲ್ಕನೇ ಹಂತ, ಪ್ರೌಢ ಕಪ್ಪೆ (Adult Frog). ಪೂರ್ಣ ರೂಪಪರಿವರ್ತನೆಯ ನಂತರ, ಇದು ನೆಲದ ಮೇಲೆ ಬದುಕಬಲ್ಲ, ಕುಪ್ಪಳಿಸಬಲ್ಲ ಮತ್ತು ಶ್ವಾಸಕೋಶಗಳಿಂದ ಉಸಿರಾಡುವ ಪ್ರೌಢ ಕಪ್ಪೆಯಾಗಿ ಬದಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹಂತ 3: ರೂಪಪರಿವರ್ತನೆ (Metamorphosis) - ಕಾಲುಗಳು ಬೆಳೆಯುತ್ತವೆ, ಬಾಲ ಕಣ್ಮರೆಯಾಗುತ್ತದೆ, ಶ್ವಾಸಕೋಶಗಳು ರೂಪುಗೊಳ್ಳುತ್ತವೆ.",
+    "ಹಂತ 4: ಪ್ರೌಢ ಕಪ್ಪೆ (Adult Frog) - ನೆಲದ ಮೇಲೆ ವಾಸಿಸುವ, ಕುಪ್ಪಳಿಸುವ ಮತ್ತು ಶ್ವಾಸಕೋಶಗಳಿಂದ ಉಸಿರಾಡುವ ಜೀವಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a froglet (tadpole with legs and a shrinking tail) and a fully formed adult frog.",
+    "labels": "ಬೆಳೆಯುತ್ತಿರುವ ಗೊದಮೊಟ್ಟೆ, ಪ್ರೌಢ ಕಪ್ಪೆ",
+    "scientific_significance": "Shows the transitional and final stages, highlighting the dramatic changes during metamorphosis.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_8_chapter_6_example_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ರೂಪಪರಿವರ್ತನೆ (Metamorphosis): ಗೊದಮೊಟ್ಟೆಯು ಬೆಳೆಯುತ್ತಾ ಕಾಲುಗಳು ಮೂಡುತ್ತವೆ, ಬಾಲವು ಕ್ರಮೇಣ ಕಣ್ಮರೆಯಾಗುತ್ತದೆ, ಮತ್ತು ಉಸಿರಾಟಕ್ಕಾಗಿ ಕಿವಿರುಗಳ ಬದಲು ಶ್ವಾಸಕೋಶಗಳು (lungs) ಅಭಿವೃದ್ಧಿಯಾಗುತ್ತವೆ.",
+      "justification": "This is the transitional phase with significant physical changes."
+    },
+    {
+      "step": 4,
+      "action_display": "ಪ್ರೌಢ ಕಪ್ಪೆ (Adult Frog): ಪೂರ್ಣ ರೂಪಪರಿವರ್ತನೆಯ ನಂತರ, ಇದು ನೆಲದ ಮೇಲೆ ಬದುಕಬಲ್ಲ ಮತ್ತು ಕುಪ್ಪಳಿಸಬಲ್ಲ, ಶ್ವಾಸಕೋಶಗಳಿಂದ ಉಸಿರಾಡುವ ಪ್ರೌಢ ಕಪ್ಪೆಯಾಗುತ್ತದೆ.",
+      "justification": "This is the final, terrestrial adult stage."
+    }
+  ],
+  "chunk_id": "std_8_chapter_6_concept_6_chunk_008"
+}

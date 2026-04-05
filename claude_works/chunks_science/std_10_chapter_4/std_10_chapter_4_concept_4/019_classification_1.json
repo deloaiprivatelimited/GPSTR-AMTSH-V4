@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಪರ್ಯಾಪ್ತ ಹೈಡ್ರೋಕಾರ್ಬನ್‌ಗಳು: ಆಲ್ಕೀನ್‌ಗಳು",
+  "script": "ಅಪರ್ಯಾಪ್ತ ಹೈಡ್ರೋಕಾರ್ಬನ್‌ಗಳ ಮೊದಲ ವಿಧವಾದ ಆಲ್ಕೀನ್‌ಗಳ ಬಗ್ಗೆ ನೋಡೋಣ. ಇವುಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣವೆಂದರೆ, ಅವುಗಳ ಅಣುಗಳಲ್ಲಿ ಕನಿಷ್ಠ ಒಂದು ಕಾರ್ಬನ್-ಕಾರ್ಬನ್ ದ್ವಿಬಂಧ ಇರುತ್ತದೆ. ಈ ದ್ವಿಬಂಧದ ಕಾರಣದಿಂದಾಗಿ, ಇವುಗಳನ್ನು ಅಪರ್ಯಾಪ್ತ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಆಲ್ಕೀನ್‌ಗಳ ಸಾಮಾನ್ಯ ಸೂತ್ರ ಸಿ ಎನ್ ಎಚ್ ಟೂ ಎನ್ ಆಗಿದೆ, ಇಲ್ಲಿ 'ಎನ್' ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ ಮತ್ತು ಇದು ಎರಡು ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಇದಕ್ಕೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ ಈಥೀನ್, ಇದರ ಅಣುಸೂತ್ರ ಸಿ ಟೂ ಎಚ್ ಫೋರ್. ಇನ್ನೊಂದು ಉದಾಹರಣೆ ಪ್ರೋಪೀನ್, ಇದರ ಸೂತ್ರ ಸಿ ತ್ರೀ ಎಚ್ ಸಿಕ್ಸ್.",
+  "script_display": "ಅಪರ್ಯಾಪ್ತ ಹೈಡ್ರೋಕಾರ್ಬನ್‌ಗಳ ಮೊದಲ ವಿಧವಾದ ಆಲ್ಕೀನ್‌ಗಳ ಬಗ್ಗೆ ನೋಡೋಣ. ಇವುಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣವೆಂದರೆ, ಅವುಗಳ ಅಣುಗಳಲ್ಲಿ ಕನಿಷ್ಠ ಒಂದು ಕಾರ್ಬನ್-ಕಾರ್ಬನ್ ದ್ವಿಬಂಧ (C=C) ಇರುತ್ತದೆ. ಈ ದ್ವಿಬಂಧದ ಕಾರಣದಿಂದಾಗಿ, ಇವುಗಳನ್ನು ಅಪರ್ಯಾಪ್ತ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಆಲ್ಕೀನ್‌ಗಳ ಸಾಮಾನ್ಯ ಸೂತ್ರ $C_nH_{2n}$ ಆಗಿದೆ, ಇಲ್ಲಿ 'n' ಕಾರ್ಬನ್ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ ಮತ್ತು n ≥ 2 ಆಗಿರುತ್ತದೆ. ಇದಕ್ಕೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ ಈಥೀನ್ ($C_2H_4$). ಇನ್ನೊಂದು ಉದಾಹರಣೆ ಪ್ರೋಪೀನ್ ($C_3H_6$).",
+  "display_bullets": [
+    "ಒಂದು ಅಥವಾ ಹೆಚ್ಚು ಕಾರ್ಬನ್-ಕಾರ್ಬನ್ ದ್ವಿಬಂಧಗಳನ್ನು (C=C) ಹೊಂದಿರುತ್ತವೆ.",
+    "ಸಾಮಾನ್ಯ ಸೂತ್ರ: $C_nH_{2n}$",
+    "ಉದಾಹರಣೆಗಳು: ಈಥೀನ್ ($C_2H_4$), ಪ್ರೋಪೀನ್ ($C_3H_6$)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Structure of Ethene (C2H4) molecule, clearly showing the double bond between the two carbon atoms. Each carbon is also bonded to two hydrogen atoms. The bond angles should be approximately 120 degrees.",
+    "labels": "ಕಾರ್ಬನ್, ಹೈಡ್ರೋಜನ್, ದ್ವಿಬಂಧ",
+    "scientific_significance": "Illustrates the defining feature of an alkene - the carbon-carbon double bond, which is a site of high electron density and reactivity.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_4_concept_4_chunk_019"
+}

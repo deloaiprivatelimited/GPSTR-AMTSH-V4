@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಯಾವುದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಲ್ಲ?",
+  "script": "ಈಗ, ಯಾವ ರೀತಿಯ ಸಮೀಕರಣಗಳು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳು ಅಲ್ಲ ಎಂಬುದನ್ನು ನೋಡೋಣ. ಇದು ಪರಿಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ. ಎಡಭಾಗದಲ್ಲಿರುವ ಉದಾಹರಣೆಯನ್ನು ಗಮನಿಸಿ: ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಐದು ಈಕ್ವಲ್ಸ್ ಹದಿನಾಲ್ಕು. ಇಲ್ಲಿ 'ಎಕ್ಸ್' ಒಂದೇ ಚರಾಕ್ಷರ, ಆದರೆ ಅದರ ಘಾತ ಎರಡು ಆಗಿದೆ, ಒಂದು ಅಲ್ಲ. ನಮ್ಮ ನಿಯಮದ ಪ್ರಕಾರ ಘಾತ ಒಂದು ಇರಬೇಕು. ಆದ್ದರಿಂದ, ಇದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಲ್ಲ. ಬಲಭಾಗದಲ್ಲಿರುವ ಉದಾಹರಣೆಯನ್ನು ನೋಡಿ: ಎರಡು ಎಕ್ಸ್ ಪ್ಲಸ್ ಮೂರು ವೈ ಈಕ್ವಲ್ಸ್ ಹತ್ತು. ಇಲ್ಲಿ ಸಮೀಕರಣದ ಘಾತ ಒಂದು ಇದ್ದರೂ, 'ಎಕ್ಸ್' ಮತ್ತು 'ವೈ' ಎಂಬ ಎರಡು ವಿಭಿನ್ನ ಚರಾಕ್ಷರಗಳಿವೆ. ನಮ್ಮ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ಒಂದೇ ಚರಾಕ್ಷರ ಬೇಕು. ಆದ್ದರಿಂದ, ಇದೂ ಕೂಡ ಒಂದು ಚರಾಕ್ಷರವುಳ್ಳ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಲ್ಲ.",
+  "script_display": "ಈಗ, ಯಾವ ರೀತಿಯ ಸಮೀಕರಣಗಳು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಗಳು ಅಲ್ಲ ಎಂಬುದನ್ನು ನೋಡೋಣ. ಇದು ಪರಿಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ. ಎಡಭಾಗದಲ್ಲಿರುವ ಉದಾಹರಣೆಯನ್ನು ಗಮನಿಸಿ: $x^2 + 5 = 14$. ಇಲ್ಲಿ '$x$' ಒಂದೇ ಚರಾಕ್ಷರ, ಆದರೆ ಅದರ ಘಾತ 2 ಆಗಿದೆ, 1 ಅಲ್ಲ. ನಮ್ಮ ನಿಯಮದ ಪ್ರಕಾರ ಘಾತ 1 ಇರಬೇಕು. ಆದ್ದರಿಂದ, ಇದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಲ್ಲ. ಬಲಭಾಗದಲ್ಲಿರುವ ಉದಾಹರಣೆಯನ್ನು ನೋಡಿ: $2x + 3y = 10$. ಇಲ್ಲಿ ಸಮೀಕರಣದ ಘಾತ 1 ಇದ್ದರೂ, '$x$' ಮತ್ತು '$y$' ಎಂಬ ಎರಡು ವಿಭಿನ್ನ ಚರಾಕ್ಷರಗಳಿವೆ. ನಮ್ಮ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ಒಂದೇ ಚರಾಕ್ಷರ ಬೇಕು. ಆದ್ದರಿಂದ, ಇದೂ ಕೂಡ 'ಒಂದು ಚರಾಕ್ಷರವುಳ್ಳ' ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen view. Left side shows an equation that is not linear because of power > 1. Right side shows an equation that is not 'in one variable' because it has x and y. Left side title: 'ರೇಖಾತ್ಮಕವಲ್ಲದ ಸಮೀಕರಣ'. Equation: x^2 + 5 = 14. Reason: 'ಕಾರಣ: ಚರಾಕ್ಷರದ ಘಾತ 2 ಆಗಿದೆ, 1 ಅಲ್ಲ.'. Right side title: 'ಎರಡು ಚರಾಕ್ಷರಗಳ ಸಮೀಕರಣ'. Equation: 2x + 3y = 10. Reason: 'ಕಾರಣ: ಇಲ್ಲಿ 'x' ಮತ್ತು 'y' ಎಂಬ ಎರಡು ಚರಾಕ್ಷರಗಳಿವೆ.'.",
+    "labels": "equation, variable, power, reason",
+    "mathematical_significance": "This visual provides counter-examples to solidify the definition of a linear equation in one variable by showing what it is not.",
+    "placeholder_note": "Generate a two-panel image. Left panel titled 'ರೇಖಾತ್ಮಕವಲ್ಲದ ಸಮೀಕರಣ' with the equation x^2+5=14 and the reason. Right panel titled 'ಎರಡು ಚರಾಕ್ಷರಗಳ ಸಮೀಕರಣ' with the equation 2x+3y=10 and the reason."
+  },
+  "chunk_id": "ALG-EQ1-2_concept_1_chunk_019"
+}

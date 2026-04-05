@@ -1,0 +1,114 @@
+{
+  "module_id": "std_6_chapter_8_concept_5",
+  "chapter_code": "std_6_chapter_8",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:33:31",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "2d309e1e4c46d001780ba79c0601f411",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.851,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "script_words": 42,
+      "generated_at": "2026-04-02 13:32:14"
+    },
+    "005_experiment_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "da031ec513517452d75dd98862fa7715",
+      "wav_file": "005_experiment_0.wav",
+      "duration": 40.771,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಮಡಕೆಯೊಳಗೆ ಮಡಕೆ ಶೈತ್ಯಕ",
+      "type": "experiment_activity",
+      "script_words": 67,
+      "generated_at": "2026-04-02 13:32:24"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "a51d7d3a2fbf3bea90713c2ca4e1edce",
+      "wav_file": "001_intro_0.wav",
+      "duration": 48.891,
+      "slide_title": "ಆವೀಕರಣದಿಂದ ಶೈತ್ಯೀಕರಣ",
+      "type": "intro",
+      "script_words": 77,
+      "generated_at": "2026-04-02 13:32:29"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "a30689b8873df4474fb84321e20b3149",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 51.451,
+      "slide_title": "ಆವೀಕರಣದಿಂದ ಶೈತ್ಯೀಕರಣ: ದೈನಂದಿನ ಉದಾಹರಣೆಗಳು (ಭಾಗ 2)",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 13:32:40"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "2d33633aaca795a98737a818f3e201e4",
+      "wav_file": "003_property_0.wav",
+      "duration": 58.611,
+      "slide_title": "ಆವೀಕರಣದಿಂದ ಶೈತ್ಯೀಕರಣ: ದೈನಂದಿನ ಉದಾಹರಣೆಗಳು (ಭಾಗ 1)",
+      "type": "concept_explanation",
+      "script_words": 75,
+      "generated_at": "2026-04-02 13:32:41"
+    },
+    "007_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "0914a48b7234385123408a1cbd5a67b2",
+      "wav_file": "007_experiment_cont_0_2.wav",
+      "duration": 35.131,
+      "slide_title": "ಮಾಡುವ ವಿಧಾನ (ಮುಂದುವರೆದಿದೆ)",
+      "type": "experiment_activity",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:33:20"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "9f7daee3d93f7601248e6f56c8a38978",
+      "wav_file": "009_recap_0.wav",
+      "duration": 38.411,
+      "slide_title": "ಸಾರಾಂಶ: ಆವೀಕರಣದಿಂದ ಶೈತ್ಯೀಕರಣ",
+      "type": "recap",
+      "script_words": 49,
+      "generated_at": "2026-04-02 13:33:22"
+    },
+    "006_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "e73b8480ada9aa004d89e40abd76d5d2",
+      "wav_file": "006_experiment_cont_0_1.wav",
+      "duration": 43.611,
+      "slide_title": "ಮಾಡುವ ವಿಧಾನ",
+      "type": "experiment_activity",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:33:27"
+    },
+    "008_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "bcc5bd5e06f92f7a84c320055b6dbe60",
+      "wav_file": "008_experiment_cont_0_3.wav",
+      "duration": 49.851,
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "script_words": 70,
+      "generated_at": "2026-04-02 13:33:31"
+    }
+  }
+}

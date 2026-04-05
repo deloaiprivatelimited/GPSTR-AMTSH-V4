@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಶೇಷ ಮಾದರಿ: ವರ್ಗಗಳ ಮೊತ್ತ",
+  "script": "ಮುಂದಿನದಾಗಿ, ವರ್ಗಗಳ ಮೊತ್ತಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ವಿಶಿಷ್ಟ ಮಾದರಿಯನ್ನು ನೋಡೋಣ. ಈ ನಿಯಮದ ಪ್ರಕಾರ, ಎರಡು ಕ್ರಮಾನುಗತ ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಅವುಗಳ ಗುಣಲಬ್ಧದ ವರ್ಗಗಳ ಮೊತ್ತವು ಒಂದು ವರ್ಗ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ. ಇದರ ಸಾಮಾನ್ಯ ರೂಪ ಹೀಗಿದೆ: n ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ n ಪ್ಲಸ್ ಒನ್ ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ n ಇಂಟು n ಪ್ಲಸ್ ಒನ್ ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ n ಇಂಟು n ಪ್ಲಸ್ ಒನ್ ಪ್ಲಸ್ ಒನ್ ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್. ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. n ಸಮ ಎರಡು ಎಂದು ಭಾವಿಸೋಣ. ಆಗ, ಎರಡರ ವರ್ಗ ಪ್ಲಸ್ ಮೂರರ ವರ್ಗ ಪ್ಲಸ್ ಇವೆರಡರ ಗುಣಲಬ್ಧವಾದ ಆರರ ವರ್ಗ. ಇದರ ಮೊತ್ತವು ಏಳರ ವರ್ಗಕ್ಕೆ ಸಮನಾಗಿರಬೇಕು. ಅಂದರೆ, ನಾಲ್ಕು ಪ್ಲಸ್ ಒಂಬತ್ತು ಪ್ಲಸ್ ಮೂವತ್ತಾರು, ಇದು ನಲವತ್ತೊಂಬತ್ತು ಆಗುತ್ತದೆ, ಮತ್ತು ನಲವತ್ತೊಂಬತ್ತು ಏಳರ ವರ್ಗವಾಗಿದೆ. ಈ ಮಾದರಿಯು ಬೀಜಗಣಿತದ ಒಂದು ಸುಂದರ ಅನ್ವಯವಾಗಿದೆ.",
+  "script_display": "ಮುಂದಿನದಾಗಿ, ವರ್ಗಗಳ ಮೊತ್ತಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ವಿಶಿಷ್ಟ ಮಾದರಿಯನ್ನು ನೋಡೋಣ. ಈ ನಿಯಮದ ಪ್ರಕಾರ, ಎರಡು ಕ್ರಮಾನುಗತ ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಅವುಗಳ ಗುಣಲಬ್ಧದ ವರ್ಗಗಳ ಮೊತ್ತವು ಒಂದು ವರ್ಗ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ. ಇದರ ಸಾಮಾನ್ಯ ರೂಪ ಹೀಗಿದೆ: $n^2 + (n+1)^2 + (n(n+1))^2 = (n(n+1)+1)^2$. ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. $n=2$ ಎಂದು ಭಾವಿಸೋಣ. ಆಗ, $2^2 + 3^2 + (2 \\times 3)^2 = 2^2 + 3^2 + 6^2$. ಇದರ ಮೊತ್ತವು $7^2$ ಕ್ಕೆ ಸಮನಾಗಿರಬೇಕು. ಅಂದರೆ, $4 + 9 + 36 = 49$, ಮತ್ತು $49 = 7^2$. ಈ ಮಾದರಿಯು ಬೀಜಗಣಿತದ ಒಂದು ಸುಂದರ ಅನ್ವಯವಾಗಿದೆ.",
+  "display_bullets": [
+    "ನಿಯಮ: ಎರಡು ಕ್ರಮಾನುಗತ ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಅವುಗಳ ಗುಣಲಬ್ಧದ ವರ್ಗಗಳ ಮೊತ್ತವು ಒಂದು ವರ್ಗ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ.",
+    "ಸಾಮಾನ್ಯ ರೂಪ: $n^2 + (n+1)^2 + (n(n+1))^2 = (n(n+1)+1)^2$",
+    "ಉದಾಹರಣೆ: $2^2 + 3^2 + 6^2 = 4 + 9 + 36 = 49 = 7^2$"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard_centered_title",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "exam_tip": {
+    "question_pattern": "MCQ",
+    "skill_tested": "Recognizing and applying algebraic identities related to square numbers.",
+    "distractor": "For a problem like $3^2 + 4^2 + 12^2 = ?^2$, a student might try to add the bases (3+4+12) or perform complex calculations instead of recognizing the pattern.",
+    "why_distractor_works": "It tests whether the student has memorized the pattern $(n(n+1)+1)^2$ or is attempting to solve it by brute force, which is time-consuming and error-prone in an exam setting."
+  },
+  "chunk_id": "NS-SQR-2_concept_3_chunk_011"
+}

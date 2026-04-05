@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಅಂತಿಮ ಹಂತ",
+  "script": "ಈಗ ಮೂರನೇ ಮತ್ತು ಅಂತಿಮ ಹಂತಕ್ಕೆ ಬರೋಣ. ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಪ್ರತಿ ತ್ರಿವಳಿಯಿಂದ ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಮೊದಲ ತ್ರಿವಳಿಯಿಂದ ಒಂದು 2, ಎರಡನೇ ತ್ರಿವಳಿಯಿಂದ ಇನ್ನೊಂದು 2, ಮತ್ತು ಮೂರನೇ ತ್ರಿವಳಿಯಿಂದ ಒಂದು 5 ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ. ಈಗ, ಈ ಸಂಖ್ಯೆಗಳನ್ನು ಗುಣಿಸೋಣ. 2 ಗುಣಿಸು 2 ಗುಣಿಸು 5. 2 ಗುಣಿಸು 2 ನಾಲ್ಕು, ಮತ್ತು 4 ಗುಣಿಸು 5 ಇಪ್ಪತ್ತು. ಹೀಗೆ, ನಮಗೆ ಉತ್ತರ 20 ಸಿಕ್ಕಿದೆ.",
+  "script_display": "ಈಗ ಮೂರನೇ ಮತ್ತು ಅಂತಿಮ ಹಂತಕ್ಕೆ ಬರೋಣ. ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಪ್ರತಿ ತ್ರಿವಳಿಯಿಂದ ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅವುಗಳನ್ನು ಗುಣಿಸುತ್ತೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "full_width",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-CUBE-2_example_6",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\sqrt[3]{8000} = 2 \\times 2 \\times 5 = 20$",
+      "justification": "ಪ್ರತಿ ತ್ರಿವಳಿಯಿಂದ ಒಂದು ಅಪವರ್ತನವನ್ನು ತೆಗೆದುಕೊಂಡು ಗುಣಿಸುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-CUBE-2_concept_5_chunk_022"
+}

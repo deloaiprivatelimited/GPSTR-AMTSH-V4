@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಹಂತ 1: ಗಾಜಿನ ಹಾಳೆಯ ಪರೀಕ್ಷೆ",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಗಾಜಿನ ಹಾಳೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಈಗ, ಟಾರ್ಚ್ ಅನ್ನು ಆನ್ ಮಾಡಿ ಅದರ ಬೆಳಕನ್ನು ಗಾಜಿನ ಹಾಳೆಯ ಮೇಲೆ ಹಾಯಿಸಿ. ಹಾಳೆಯ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ನೀವು ನೋಡಿ, ಬೆಳಕು ಯಾವುದೇ ಅಡೆತಡೆಯಿಲ್ಲದೆ ಸಂಪೂರ್ಣವಾಗಿ ಹಾದುಹೋಗುತ್ತಿದೆ. ಗಾಜಿನ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ನಾವು ಬೆಳಕಿನ ಸ್ಪಷ್ಟವಾದ ಚುಕ್ಕೆಯನ್ನು ನೋಡಬಹುದು. ಇದರರ್ಥ ಗಾಜಿನ ಹಾಳೆಯು ಬೆಳಕನ್ನು ತನ್ನ ಮೂಲಕ ಪೂರ್ತಿಯಾಗಿ ಸಾಗಲು ಬಿಡುತ್ತದೆ. ಈ ಗುಣವನ್ನು ನಾವು ಪಾರದರ್ಶಕತೆ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಗಾಜಿನ ಹಾಳೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಈಗ, ಟಾರ್ಚ್ ಅನ್ನು ಆನ್ ಮಾಡಿ ಅದರ ಬೆಳಕನ್ನು ಗಾಜಿನ ಹಾಳೆಯ ಮೇಲೆ ಹಾಯಿಸಿ. ಹಾಳೆಯ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ನೀವು ನೋಡಿ, ಬೆಳಕು ಯಾವುದೇ ಅಡೆತಡೆಯಿಲ್ಲದೆ ಸಂಪೂರ್ಣವಾಗಿ ಹಾದುಹೋಗುತ್ತಿದೆ. ಗಾಜಿನ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ನಾವು ಬೆಳಕಿನ ಸ್ಪಷ್ಟವಾದ ಚುಕ್ಕೆಯನ್ನು ನೋಡಬಹುದು. ಇದರರ್ಥ ಗಾಜಿನ ಹಾಳೆಯು ಬೆಳಕನ್ನು ತನ್ನ ಮೂಲಕ ಪೂರ್ತಿಯಾಗಿ ಸಾಗಲು ಬಿಡುತ್ತದೆ. ಈ ಗುಣವನ್ನು ನಾವು ಪಾರದರ್ಶಕತೆ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಟಾರ್ಚ್ ಬೆಳಕನ್ನು ಗಾಜಿನ ಹಾಳೆಯ ಮೇಲೆ ಹಾಯಿಸಿ.",
+    "ವೀಕ್ಷಣೆ: ಬೆಳಕು ಸಂಪೂರ್ಣವಾಗಿ ಹಾದುಹೋಗುತ್ತದೆ.",
+    "ತೀರ್ಮಾನ: ಗಾಜು ಒಂದು ಪಾರದರ್ಶಕ ವಸ್ತು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_A",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a hand holding a lit torch, with its beam of light passing straight through a clear glass sheet. The light beam is shown continuing uninterrupted on the other side.",
+    "labels": "ಟಾರ್ಚ್, ಗಾಜಿನ ಹಾಳೆ, ಹಾದುಹೋಗುವ ಬೆಳಕು",
+    "scientific_significance": "Visually demonstrates the concept of transparency where light passes through an object without significant scattering or absorption.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_6_chapter_6_concept_3_chunk_010"
+}

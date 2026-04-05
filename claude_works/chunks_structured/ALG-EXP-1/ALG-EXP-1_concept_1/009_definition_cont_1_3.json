@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಸ್ಥಿರಾಂಕ vs. ಚರಾಕ್ಷರ",
+  "script": "ಸ್ಥಿರಾಂಕ ಮತ್ತು ಚರಾಕ್ಷರದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಸ್ಥಿರಾಂಕವು ಒಂದು ನಿಶ್ಚಿತ ಬೆಲೆಯನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ವಾರದಲ್ಲಿರುವ ದಿನಗಳ ಸಂಖ್ಯೆ. ಇದು ಯಾವಾಗಲೂ ಏಳು ಆಗಿರುತ್ತದೆ, ಇದು ಒಂದು ಸ್ಥಿರಾಂಕ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಚರಾಕ್ಷರವು ಬದಲಾಗುವ ಬೆಲೆಯನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ದಿನದ ತಾಪಮಾನ. ಇದನ್ನು ನಾವು t ಎಂದು ಸೂಚಿಸಿದರೆ, ಇದರ ಬೆಲೆ ದಿನದ ಬೇರೆ ಬೇರೆ ಸಮಯದಲ್ಲಿ ಬದಲಾಗುತ್ತಾ ಇರುತ್ತದೆ. ಆದ್ದರಿಂದ, t ಒಂದು ಚರಾಕ್ಷರವಾಗಿದೆ. ಸ್ಥಿರಾಂಕ ಅಂದರೆ ಸ್ಥಿರ, ಚರಾಕ್ಷರ ಅಂದರೆ ಚರ, ಅಂದರೆ ಬದಲಾಗುವಂಥದ್ದು.",
+  "script_display": "ಸ್ಥಿರಾಂಕ ಮತ್ತು ಚರಾಕ್ಷರದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಸ್ಥಿರಾಂಕವು ಒಂದು ನಿಶ್ಚಿತ ಬೆಲೆಯನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ವಾರದಲ್ಲಿರುವ ದಿನಗಳ ಸಂಖ್ಯೆ. ಇದು ಯಾವಾಗಲೂ $7$ ಆಗಿರುತ್ತದೆ, ಇದು ಒಂದು ಸ್ಥಿರಾಂಕ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಚರಾಕ್ಷರವು ಬದಲಾಗುವ ಬೆಲೆಯನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ದಿನದ ತಾಪಮಾನ. ಇದನ್ನು ನಾವು '$t$' ಎಂದು ಸೂಚಿಸಿದರೆ, ಇದರ ಬೆಲೆ ದಿನದ ಬೇರೆ ಬೇರೆ ಸಮಯದಲ್ಲಿ ಬದಲಾಗುತ್ತಾ ಇರುತ್ತದೆ. ಆದ್ದರಿಂದ, '$t$' ಒಂದು ಚರಾಕ್ಷರವಾಗಿದೆ. ಸ್ಥಿರಾಂಕ ಅಂದರೆ ಸ್ಥಿರ, ಚರಾಕ್ಷರ ಅಂದರೆ ಚರ, ಅಂದರೆ ಬದಲಾಗುವಂಥದ್ದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "<table><thead><tr><th>ವೈಶಿಷ್ಟ್ಯ</th><th>ಸ್ಥಿರಾಂಕ (Constant)</th><th>ಚರಾಕ್ಷರ (Variable)</th></tr></thead><tbody><tr><td>ಬೆಲೆ</td><td>ನಿಶ್ಚಿತ (Fixed)</td><td>ಬದಲಾಗುವ (Variable)</td></tr><tr><td>ಉದಾಹರಣೆ</td><td>ಒಂದು ವಾರದಲ್ಲಿ 7 ದಿನಗಳು</td><td>ದಿನದ ತಾಪಮಾನ ($t$)</td></tr></tbody></table>",
+    "placeholder_note": "A two-column comparison table. Left column for Constant, right for Variable. Rows for 'Value' (Fixed vs Variable) and 'Example' (Days in a week vs Temperature of the day)."
+  },
+  "chunk_id": "ALG-EXP-1_concept_1_chunk_009"
+}

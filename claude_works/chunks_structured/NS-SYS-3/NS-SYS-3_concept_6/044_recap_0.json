@@ -1,0 +1,43 @@
+{
+  "type": "recap",
+  "slide_title": "ಸಾರಾಂಶ: ಘಾತಾಂಕಗಳ ನಿಯಮಗಳು",
+  "script": "ಈ ಮಾಡ್ಯೂಲ್ ಗೆ ಇಷ್ಟೇ! ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳಿಗೆ ಘಾತಾಂಕಗಳ ನಿಯಮಗಳ ಬಗ್ಗೆ ನಾವು ಕಲಿತದ್ದನ್ನು ಒಮ್ಮೆ ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಘಾತಾಂಕಗಳ ನಿಯಮಗಳು ಪೂರ್ಣಾಂಕಗಳಿಂದ ಭಾಗಲಬ್ಧ ಘಾತಸೂಚಿಗಳಿಗೂ ವಿಸ್ತರಿಸುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಭಾಗಲಬ್ಧ ಘಾತದ ಪ್ರಮುಖ ವ್ಯಾಖ್ಯೆ ಎಂದರೆ a to the power p by q equals qth root of a, whole to the power p. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ಋಣಾತ್ಮಕ ಘಾತದ ನಿಯಮವನ್ನು ನೆನಪಿಡಿ, a to the power minus n equals one by a to the power n. ಈ ಮೂಲಭೂತ ಅಂಶಗಳನ್ನು ಚೆನ್ನಾಗಿ ಅಭ್ಯಾಸ ಮಾಡಿ. ಮುಂದಿನ ವಿಷಯಗಳಿಗೆ ಇದು ಅಡಿಪಾಯ.",
+  "script_display": "ಈ ಮಾಡ್ಯೂಲ್ ಗೆ ಇಷ್ಟೇ! ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳಿಗೆ ಘಾತಾಂಕಗಳ ನಿಯಮಗಳ ಬಗ್ಗೆ ನಾವು ಕಲಿತದ್ದನ್ನು ಒಮ್ಮೆ ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಘಾತಾಂಕಗಳ ನಿಯಮಗಳು ಪೂರ್ಣಾಂಕಗಳಿಂದ ಭಾಗಲಬ್ಧ ಘಾತಸೂಚಿಗಳಿಗೂ ವಿಸ್ತರಿಸುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಭಾಗಲಬ್ಧ ಘಾತದ ಪ್ರಮುಖ ವ್ಯಾಖ್ಯೆ ಎಂದರೆ $a^{p/q} = (\\sqrt[q]{a})^p$. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ಋಣಾತ್ಮಕ ಘಾತದ ನಿಯಮವನ್ನು ನೆನಪಿಡಿ, $a^{-n} = \\frac{1}{a^n}$. ಈ ಮೂಲಭೂತ ಅಂಶಗಳನ್ನು ಚೆನ್ನಾಗಿ ಅಭ್ಯಾಸ ಮಾಡಿ. ಮುಂದಿನ ವಿಷಯಗಳಿಗೆ ಇದು ಅಡಿಪಾಯ.",
+  "display_bullets": [
+    "ಘಾತಾಂಕಗಳ ನಿಯಮಗಳು ಪೂರ್ಣಾಂಕಗಳಿಂದ ಭಾಗಲಬ್ಧ ಘಾತಸೂಚಿಗಳಿಗೂ ವಿಸ್ತರಿಸುತ್ತವೆ.",
+    "ಭಾಗಲಬ್ಧ ಘಾತದ ವ್ಯಾಖ್ಯೆ: $a^{p/q} = (\\sqrt[q]{a})^p$ ಇಲ್ಲಿ $a > 0$.",
+    "ಋಣಾತ್ಮಕ ಘಾತದ ನಿಯಮ: $a^{-n} = \\frac{1}{a^n}$."
+  ],
+  "layout_config": {
+    "layout": "recap_grid",
+    "template": "recap_grid",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "coverage_summary": {
+    "definitions": 5,
+    "formulas": 4,
+    "theorems": 0,
+    "properties": 0,
+    "worked_examples": 1
+  },
+  "next_modules": [
+    "ಘಾತೀಯ ಮತ್ತು ಲಘುಗಣಕ फलನಗಳು (Exponential and Logarithmic functions)",
+    "ವೈಜ್ಞಾನಿಕ ಸಂಕೇತ (Scientific Notation)",
+    "ಉನ್ನತ ಬೀಜಗಣಿತ"
+  ],
+  "chunk_id": "NS-SYS-3_concept_6_chunk_044"
+}

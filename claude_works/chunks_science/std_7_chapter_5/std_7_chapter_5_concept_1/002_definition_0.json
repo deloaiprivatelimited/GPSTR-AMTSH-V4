@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಭೌತ ಗುಣಗಳು ಎಂದರೇನು?",
+  "script": "ಈಗ ನಾವು ಭೌತ ಗುಣಗಳು ಅಂದರೆ ಏನು ಅಂತ ತಿಳಿದುಕೊಳ್ಳೋಣ. ಒಂದು ವಸ್ತುವಿನ ಭೌತಿಕ ಗುಣಗಳು ಅಂದರೆ, ನಾವು ಅದನ್ನು ನೋಡಿದಾಗ ಅಥವಾ ಮುಟ್ಟಿದಾಗ ಗಮನಿಸಬಹುದಾದ ಲಕ್ಷಣಗಳು. ಇವುಗಳಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ವಸ್ತುವಿನ ಆಕಾರ, ಅದರ ಗಾತ್ರ, ಬಣ್ಣ, ಮತ್ತು ಅದು ಯಾವ ಸ್ಥಿತಿಯಲ್ಲಿದೆ, ಅಂದರೆ ಘನ, ದ್ರವ ಅಥವಾ ಅನಿಲ ಸ್ಥಿತಿಯಲ್ಲಿದೆಯೇ ಎಂಬುದು ಸೇರಿವೆ. ಈ ಎಲ್ಲಾ ಗುಣಗಳನ್ನು ನಾವು ಒಟ್ಟಾಗಿ ಭೌತ ಗುಣಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇವು ವಸ್ತುವಿನ ಹೊರರೂಪವನ್ನು ವಿವರಿಸುತ್ತವೆಯೇ ಹೊರತು ಅದರ ರಾಸಾಯನಿಕ ಸಂಯೋಜನೆಯನ್ನಲ್ಲ.",
+  "script_display": "ಒಂದು ಪದಾರ್ಥದ ಆಕಾರ, ಗಾತ್ರ, ಬಣ್ಣ ಮತ್ತು ಸ್ಥಿತಿ (ಘನ, ದ್ರವ, ಅನಿಲ) ಮುಂತಾದ ಗುಣಗಳನ್ನು ಭೌತ ಗುಣಗಳು ಎನ್ನುವರು.",
+  "display_bullets": [
+    "ಆಕಾರ (Shape)",
+    "ಗಾತ್ರ (Size)",
+    "ಬಣ್ಣ (Color)",
+    "ಸ್ಥಿತಿ (State): ಘನ, ದ್ರವ, ಅನಿಲ"
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "definition_spotlight",
+  "difficulty": "easy",
+  "source_example_id": "std_7_chapter_5_concept_1_def_1",
+  "chunk_id": "std_7_chapter_5_concept_1_chunk_002"
+}

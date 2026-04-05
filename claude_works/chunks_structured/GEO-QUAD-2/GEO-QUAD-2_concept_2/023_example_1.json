@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು",
+  "script": "ಈಗ ಒಂದು ಸಾಧನೆಯನ್ನು ನೋಡೋಣ. ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ ಎಂದು ತೋರಿಸಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ABCD ಒಂದು ವಜ್ರಾಕೃತಿ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಕರ್ಣ AC ಮತ್ತು ಕರ್ಣ BD ಪರಸ್ಪರ ಲಂಬವಾಗಿವೆ, ಅಂದರೆ ಅವುಗಳ ನಡುವಿನ ಕೋನ ತೊಂಬತ್ತು ಡಿಗ್ರಿ.",
+  "script_display": "ಈಗ ಒಂದು ಸಾಧನೆಯನ್ನು ನೋಡೋಣ. ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ ಎಂದು ತೋರಿಸಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ABCD ಒಂದು ವಜ್ರಾಕೃತಿ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಕರ್ಣ $AC$ ಮತ್ತು ಕರ್ಣ $BD$ ಪರಸ್ಪರ ಲಂಬವಾಗಿವೆ, ಅಂದರೆ ಅವುಗಳ ನಡುವಿನ ಕೋನ $90°$.",
+  "display_bullets": [
+    "ದತ್ತ: ABCD ಒಂದು ವಜ್ರಾಕೃತಿ.",
+    "ಸಾಧನೀಯ: ಕರ್ಣ $AC \\perp$ ಕರ್ಣ $BD$."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ವಜ್ರಾಕೃತಿ ABCD. ಕರ್ಣಗಳಾದ AC ಮತ್ತು BD ಗಳು O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. O ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬಕೋನದ ಚಿಹ್ನೆಯನ್ನು ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯೊಂದಿಗೆ ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "ಶೃಂಗಗಳು A, B, C, D ಮತ್ತು ಛೇದನ ಬಿಂದು O.",
+    "mathematical_significance": "ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು ಲಂಬವಾಗಿರುತ್ತವೆ ಎಂದು ಸಾಧಿಸಲು ಬಳಸುವ ಚಿತ್ರ.",
+    "placeholder_note": "Image to be generated showing a rhombus ABCD with diagonals intersecting at O. The angle AOD should be highlighted as the angle to be proven as 90 degrees."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-QUAD-2_example_2",
+  "chunk_id": "GEO-QUAD-2_concept_2_chunk_023"
+}

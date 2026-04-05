@@ -1,0 +1,44 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ಕಾಲಾವಧಿಯ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಕೊನೆಯದಾಗಿ, ಮೂರನೇ ಹಂತದಲ್ಲಿ, ತರಂಗವು 1500 ಮೀಟರ್ ದೂರ ಚಲಿಸಲು ಬೇಕಾದ ಸಮಯವನ್ನು, ಅಂದರೆ ಟಿ ಯನ್ನು, ಲೆಕ್ಕ ಹಾಕೋಣ. ನಮಗೆ ಗೊತ್ತಿರುವಂತೆ, ಜವ ಈಕ್ವಲ್ಸ್ ದೂರ ಭಾಗಿಸು ಕಾಲ. ಇದನ್ನು ಸಮಯಕ್ಕಾಗಿ ಬದಲಾಯಿಸಿದರೆ, ಟಿ ಈಕ್ವಲ್ಸ್ ದೂರ ಭಾಗಿಸು ಜವ. ಇಲ್ಲಿ ದೂರ 1500 ಮೀಟರ್ ಮತ್ತು ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಕಂಡುಕೊಂಡ ಜವ 700 ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್. ಆದ್ದರಿಂದ, ಟಿ ಈಕ್ವಲ್ಸ್ 1500 ಭಾಗಿಸು 700. ಸೊನ್ನೆಗಳನ್ನು ತೆಗೆದರೆ, ನಮಗೆ 15 ಭಾಗಿಸು 7 ಸಿಗುತ್ತದೆ. ಇದರ ಮೌಲ್ಯ ಸುಮಾರು 2.14 ಸೆಕೆಂಡುಗಳು.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ಮೂರನೇ ಹಂತದಲ್ಲಿ, ತರಂಗವು 1500 m ದೂರ ಚಲಿಸಲು ಬೇಕಾದ ಸಮಯವನ್ನು (t) ಲೆಕ್ಕ ಹಾಕೋಣ. ನಮಗೆ ಗೊತ್ತಿರುವಂತೆ, ಜವ = ದೂರ / ಕಾಲ. ಇದನ್ನು ಸಮಯಕ್ಕಾಗಿ ಬದಲಾಯಿಸಿದರೆ, t = ದೂರ / ಜವ. ಇಲ್ಲಿ ದೂರ = 1500 m ಮತ್ತು ಜವ = 700 m/s. ಆದ್ದರಿಂದ, t = 1500 / 700. ಸೊನ್ನೆಗಳನ್ನು ತೆಗೆದರೆ, ನಮಗೆ 15/7 ಸಿಗುತ್ತದೆ. ಇದರ ಮೌಲ್ಯ ≈ 2.14 s.",
+  "display_bullets": [
+    "**ಹಂತ 3: ಚಲಿಸಲು ಬೇಕಾದ ಸಮಯವನ್ನು (t) ಕಂಡುಹಿಡಿಯುವುದು.**",
+    "ಬಳಸುವ ಸೂತ್ರ: ಕಾಲ = ದೂರ / ಜವ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "t = \\frac{\\text{ದೂರ}}{\\text{ಜವ}} \\\\ \\space \\\\ t = \\frac{1500 \\text{ m}}{700 \\text{ m/s}} \\\\ \\space \\\\ t = \\frac{15}{7} \\text{ s} \\approx 2.14 \\text{ s}",
+    "placeholder_note": "Formula box showing the calculation for time (t)"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_11_example_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಚಲಿಸಲು ಬೇಕಾದ ಸಮಯವನ್ನು (t) ಕಂಡುಹಿಡಿಯುವುದು.",
+      "justification": "ಜವ = ದೂರ / ಕಾಲ ಸೂತ್ರವನ್ನು (t = ದೂರ / ಜವ) ಬಳಸಿ ಸಮಯವನ್ನು ಲೆಕ್ಕ ಹಾಕಬಹುದು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_11_concept_4_chunk_010"
+}

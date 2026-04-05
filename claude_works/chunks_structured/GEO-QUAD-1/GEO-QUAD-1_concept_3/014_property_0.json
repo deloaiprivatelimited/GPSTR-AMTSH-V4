@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತ್ರಾಪಿಜ್ಯದ ಗುಣಲಕ್ಷಣಗಳು",
+  "script": "ಈಗ ನಾವು ತ್ರಾಪಿಜ್ಯದ ಎರಡು ಮುಖ್ಯ ಗುಣಲಕ್ಷಣಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ತ್ರಾಪಿಜ್ಯದಲ್ಲಿ ಒಂದು ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಮಾತ್ರ ಸಮಾಂತರವಾಗಿರುತ್ತವೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುವಂತೆ ಎಬಿ ಮತ್ತು ಡಿಸಿ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿವೆ. ಎರಡನೆಯ ಗುಣ ಕೋನಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ. ಸಮಾಂತರ ಬಾಹುಗಳ ನಡುವಿನ ಪಾರ್ಶ್ವ ಕೋನಗಳ ಮೊತ್ತ ಯಾವಾಗಲೂ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, ಕೋನ ಎ ಮತ್ತು ಕೋನ ಡಿ ಯ ಮೊತ್ತ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ, ಹಾಗೆಯೇ ಕೋನ ಬಿ ಮತ್ತು ಕೋನ ಸಿ ಯ ಮೊತ್ತವೂ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ. ಉದಾಹರಣೆಗೆ, ಕೋನ ಎ ಎಪ್ಪತ್ತು ಡಿಗ್ರಿ ಆಗಿದ್ದರೆ, ಕೋನ ಡಿ ನೂರಾ ಹತ್ತು ಡಿಗ್ರಿ ಇರುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ತ್ರಾಪಿಜ್ಯದ ಎರಡು ಮುಖ್ಯ ಗುಣಲಕ್ಷಣಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ತ್ರಾಪಿಜ್ಯದಲ್ಲಿ ಒಂದು ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಮಾತ್ರ ಸಮಾಂತರವಾಗಿರುತ್ತವೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುವಂತೆ $AB$ ಮತ್ತು $DC$ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿವೆ. ಎರಡನೆಯ ಗುಣ ಕೋನಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ. ಸಮಾಂತರ ಬಾಹುಗಳ ನಡುವಿನ ಪಾರ್ಶ್ವ ಕೋನಗಳ (consecutive interior angles) ಮೊತ್ತ ಯಾವಾಗಲೂ $180°$ ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, $\\angle A + \\angle D = 180°$ ಮತ್ತು $\\angle B + \\angle C = 180°$. ಉದಾಹರಣೆಗೆ, $\\angle A = 70°$ ಆಗಿದ್ದರೆ, $\\angle D = 110°$ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಜೊತೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ.",
+    "ಸಮಾಂತರ ಬಾಹುಗಳ ನಡುವಿನ ಪಾರ್ಶ್ವ ಕೋನಗಳ ಮೊತ್ತ $180°$ ಆಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right_text_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A trapezium ABCD with parallel sides AB and DC marked with arrows. The non-parallel sides are AD and BC. Angles A and D are highlighted to show they are supplementary. A label shows '∠A + ∠D = 180°'. Similarly, another label shows '∠B + ∠C = 180°'. A numerical example is shown: if ∠A=70°, then ∠D=110°.",
+    "labels": "ತ್ರಾಪಿಜ್ಯ, ಸಮಾಂತರ ಬಾಹುಗಳು, ಪಾರ್ಶ್ವ ಕೋನಗಳು",
+    "mathematical_significance": "Illustrates the defining property of a trapezium (one pair of parallel sides) and the supplementary nature of its consecutive interior angles between the parallel sides.",
+    "placeholder_note": "Image to be generated for trapezium properties."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_3_chunk_014"
+}

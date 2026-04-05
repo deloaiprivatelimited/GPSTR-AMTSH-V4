@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ಸಮರೂಪತೆಯನ್ನು ಸಾಧಿಸಿ",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಈ ಎರಡು ತ್ರಿಭುಜಗಳು, ಎಬಿಇ ಮತ್ತು ಸಿಡಿಇ, ಹೇಗೆ ಸಮರೂಪವಾಗಿವೆ ಎಂದು ಸಾಧಿಸೋಣ. ಕೋನ ಬಿ ಮತ್ತು ಕೋನ ಡಿ ಎರಡೂ 90 ಡಿಗ್ರಿ ಆಗಿರುತ್ತವೆ, ಏಕೆಂದರೆ ದೀಪದ ಕಂಬ ಮತ್ತು ಹುಡುಗಿ ಇಬ್ಬರೂ ನೆಲಕ್ಕೆ ಲಂಬವಾಗಿ ನಿಂತಿದ್ದಾರೆ. ಹಾಗೆಯೇ, ಕೋನ ಇ ಯು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯವಾದ ಕೋನವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಕೋನ ಕೋನ ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ ಎಬಿಇ ಯು ತ್ರಿಭುಜ ಸಿಡಿಇ ಗೆ ಸಮರೂಪಿಯಾಗಿದೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಈ ಎರಡು ತ್ರಿಭುಜಗಳು, $\\triangle ABE$ ಮತ್ತು $\\triangle CDE$, ಹೇಗೆ ಸಮರೂಪವಾಗಿವೆ ಎಂದು ಸಾಧಿಸೋಣ. $\\angle B$ ಮತ್ತು $\\angle D$ ಎರಡೂ $90^\\circ$ ಆಗಿರುತ್ತವೆ, ಏಕೆಂದರೆ ದೀಪದ ಕಂಬ ಮತ್ತು ಹುಡುಗಿ ಇಬ್ಬರೂ ನೆಲಕ್ಕೆ ಲಂಬವಾಗಿ ನಿಂತಿದ್ದಾರೆ. ಹಾಗೆಯೇ, $\\angle E$ ಯು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯವಾದ ಕೋನವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಕೋ.ಕೋ (AA) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣದ ಪ್ರಕಾರ, $\\triangle ABE \\sim \\triangle CDE$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿರುವ ಅದೇ ರೇಖಾಚಿತ್ರ, ಆದರೆ ಈಗ ಕೋನ B, ಕೋನ D (ಲಂಬ ಕೋನಗಳು) ಮತ್ತು ಸಾಮಾನ್ಯ ಕೋನ E ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, E, 90°, E",
+    "mathematical_significance": "ಕೋ.ಕೋ. (AA) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣವನ್ನು ದೃಶ್ಯೀಕರಿಸುವುದು. ಯಾವ ಕೋನಗಳು ಸಮಾನವೆಂದು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Update previous image, highlighting angles B, D, and E."
+  },
+  "source_example_id": "GEO-TRI-2_example_5",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\triangle ABE$ ಮತ್ತು $\\triangle CDE$ ಗಳಲ್ಲಿ,\n$\\angle B = \\angle D = 90^\\circ$ (ಕಂಬ ಮತ್ತು ಹುಡುಗಿ ನೆಲಕ್ಕೆ ಲಂಬವಾಗಿವೆ)\n$\\angle E = \\angle E$ (ಸಾಮಾನ್ಯ ಕೋನ)\nಆದ್ದರಿಂದ, $\\triangle ABE \\sim \\triangle CDE$",
+      "justification": "ಕೋ.ಕೋ (AA) ಸಮರೂಪತೆಯ ನಿರ್ಧಾರಕ ಗುಣ."
+    }
+  ],
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_037"
+}

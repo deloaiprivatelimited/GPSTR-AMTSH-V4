@@ -1,0 +1,33 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಭಿನ್ನರಾಶಿಗಳ ಹೋಲಿಕೆ",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: ಯಾವುದು ಹೆಚ್ಚು? ಎರಡನೇ ಒಂದು ಭಾಗದ ರೋಟಿ ಅಥವಾ ನಾಲ್ಕನೇ ಒಂದು ಭಾಗದ ರೋಟಿ? ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಎರಡು ಭಿನ್ನರಾಶಿಗಳನ್ನು, ಅಂದರೆ ಎರಡನೇ ಒಂದು ಮತ್ತು ನಾಲ್ಕನೇ ಒಂದು, ಇವುಗಳನ್ನು ಹೋಲಿಸಿ ಯಾವುದು ದೊಡ್ಡದು ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: ಯಾವುದು ಹೆಚ್ಚು? $\\frac{1}{2}$ ರೋಟಿ ಅಥವಾ $\\frac{1}{4}$ ರೋಟಿ? ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಎರಡು ಭಿನ್ನರಾಶಿಗಳನ್ನು, ಅಂದರೆ $\\frac{1}{2}$ ಮತ್ತು $\\frac{1}{4}$, ಇವುಗಳನ್ನು ಹೋಲಿಸಿ ಯಾವುದು ದೊಡ್ಡದು ಎಂದು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಪ್ರಶ್ನೆ: ಯಾವುದು ಹೆಚ್ಚು, $\\frac{1}{2}$ ರೋಟಿ ಅಥವಾ $\\frac{1}{4}$ ರೋಟಿ?",
+    "ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: $\\frac{1}{2}$ ಮತ್ತು $\\frac{1}{4}$ ರಲ್ಲಿ ಯಾವುದು ದೊಡ್ಡದು?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "NS-FRA-1_example_1",
+  "chunk_id": "NS-FRA-1_concept_1_chunk_022"
+}

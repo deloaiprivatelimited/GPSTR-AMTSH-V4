@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದ ಉದಾಹರಣೆಗಳು",
+  "script": "ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಮತ್ತು ಗಣಿತದಲ್ಲಿ ಅನೇಕ ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜಗಳನ್ನು ನಾವು ಕಾಣುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಎಲ್ಲಾ ತ್ರಿಭುಜಗಳು ಬಹಿರ್ವಕ್ರವಾಗಿವೆ. ಹಾಗೆಯೇ, ಚೌಕ, ಆಯತ, ಮತ್ತು ಸಮಾಂತರ ಚತುರ್ಭುಜಗಳು ಕೂಡ ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜಗಳಾಗಿವೆ. ಇವುಗಳ ಯಾವುದೇ ಒಳಕೋನವು ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿಯನ್ನು ಮೀರುವುದಿಲ್ಲ. ರಸ್ತೆ ಬದಿಯಲ್ಲಿ ಕಾಣುವ 'ನಿಲ್ಲಿಸಿ' ಎಂಬ ಅಷ್ಟಭುಜಾಕೃತಿಯ ಚಿಹ್ನೆಯು ಕೂಡ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ. ಈ ಎಲ್ಲಾ ಆಕೃತಿಗಳ ಕರ್ಣಗಳು ಅವುಗಳ ಒಳಗೆಯೇ ಇರುತ್ತವೆ.",
+  "script_display": "ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಮತ್ತು ಗಣಿತದಲ್ಲಿ ಅನೇಕ ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜಗಳನ್ನು ನಾವು ಕಾಣುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಎಲ್ಲಾ ತ್ರಿಭುಜಗಳು (Triangles) ಬಹಿರ್ವಕ್ರವಾಗಿವೆ. ಹಾಗೆಯೇ, ಚೌಕ (Square), ಆಯತ (Rectangle), ಮತ್ತು ಸಮಾಂತರ ಚತುರ್ಭುಜ (Parallelogram) ಕೂಡ ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜಗಳಾಗಿವೆ. ಇವುಗಳ ಯಾವುದೇ ಒಳಕೋನವು $180°$ ಯನ್ನು ಮೀರುವುದಿಲ್ಲ. ರಸ್ತೆ ಬದಿಯಲ್ಲಿ ಕಾಣುವ 'ನಿಲ್ಲಿಸಿ' (STOP) ಎಂಬ ಅಷ್ಟಭುಜಾಕೃತಿಯ ಚಿಹ್ನೆಯು ಕೂಡ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ. ಈ ಎಲ್ಲಾ ಆಕೃತಿಗಳ ಕರ್ಣಗಳು ಅವುಗಳ ಒಳಗೆಯೇ ಇರುತ್ತವೆ.",
+  "display_bullets": [
+    "ತ್ರಿಭುಜ (Triangle)",
+    "ಆಯತ (Rectangle)",
+    "ಸಮಾಂತರ ಚತುರ್ಭುಜ (Parallelogram)",
+    "ಅಷ್ಟಭುಜ (Octagon)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collection of small, simple icons representing the shapes mentioned in the bullets: a triangle, a rectangle, a parallelogram, and a stop sign (octagon).",
+    "labels": "Examples of Convex Polygons",
+    "mathematical_significance": "Provides common, relatable examples to solidify the student's understanding of what constitutes a convex polygon.",
+    "placeholder_note": "Image to be generated with icons of the shapes."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_1_chunk_022"
+}

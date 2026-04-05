@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: 95 ರ ವರ್ಗ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 95 ರ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಂಖ್ಯೆಯು 5 ರಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುವುದರಿಂದ, ನಾವು ಇದಕ್ಕಾಗಿ ಒಂದು ವಿಶೇಷ ವಿಧಾನವನ್ನು ಬಳಸಬಹುದು. ಮೊದಲು, ಸಮಸ್ಯೆಯನ್ನು ನೋಡೋಣ. ನಾವು 95 ರ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದಕ್ಕಾಗಿ ನಾವು ಬಿಡಿ ಸ್ಥಾನದಲ್ಲಿ 5 ಇರುವ ಸಂಖ್ಯೆಗಳ ವರ್ಗದ ನಿಯಮವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು 95 ರ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಂಖ್ಯೆಯು 5 ರಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುವುದರಿಂದ, ನಾವು ಇದಕ್ಕಾಗಿ ಒಂದು ವಿಶೇಷ ವಿಧಾನವನ್ನು ಬಳಸಬಹುದು. ಮೊದಲು, ಸಮಸ್ಯೆಯನ್ನು ನೋಡೋಣ. ನಾವು 95 ರ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದಕ್ಕಾಗಿ ನಾವು ಬಿಡಿ ಸ್ಥಾನದಲ್ಲಿ 5 ಇರುವ ಸಂಖ್ಯೆಗಳ ವರ್ಗದ ನಿಯಮವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 95 ರ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ವಿಧಾನ: ಬಿಡಿ ಸ್ಥಾನದಲ್ಲಿ 5 ಇರುವ ಸಂಖ್ಯೆಗಳ ವರ್ಗದ ನಿಯಮವನ್ನು ಬಳಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "95^2 = ?",
+    "placeholder_note": "A box showing the question: Find the square of 95?"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "NS-SQR-2_example_3",
+  "chunk_id": "NS-SQR-2_concept_4_chunk_020"
+}

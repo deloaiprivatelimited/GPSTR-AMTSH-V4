@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಜೈವಿಕ ಘಟಕಗಳು (Biotic Components)",
+  "script": "ಮೊದಲಿಗೆ, ಜೈವಿಕ ಘಟಕಗಳ ಬಗ್ಗೆ ಮಾತನಾಡೋಣ. 'ಬಯೋ' ಎಂದರೆ ಜೀವ. ಹಾಗಾಗಿ, ಜೈವಿಕ ಘಟಕಗಳು ಎಂದರೆ ಪರಿಸರ ವ್ಯವಸ್ಥೆಯಲ್ಲಿರುವ ಎಲ್ಲಾ ಜೀವಂತ ಜೀವಿಗಳು. ಇದರಲ್ಲಿ ಸಸ್ಯಗಳು, ಪ್ರಾಣಿಗಳು ಮತ್ತು ನಮ್ಮ ಕಣ್ಣಿಗೆ ಕಾಣದ ಸೂಕ್ಷ್ಮಜೀವಿಗಳು, ಅಂದರೆ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಮತ್ತು ಶಿಲೀಂಧ್ರಗಳು ಸೇರಿವೆ. ಇವೆಲ್ಲವೂ ಏಕೆ ಮುಖ್ಯ? ಏಕೆಂದರೆ ಅವು ಆಹಾರ, ಆಶ್ರಯ ಮತ್ತು ಸಂತಾನೋತ್ಪತ್ತಿಗಾಗಿ ಪರಸ್ಪರ ಅವಲಂಬಿತವಾಗಿವೆ. ಇವು ಆಹಾರ ಸರಪಳಿಯ ಭಾಗವಾಗಿ, ಶಕ್ತಿಯ ಹರಿವನ್ನು ಮತ್ತು ಪೋಷಕಾಂಶಗಳ ಚಕ್ರವನ್ನು ನಿರ್ವಹಿಸುತ್ತವೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಜೈವಿಕ ಘಟಕಗಳ (Biotic Components) ಬಗ್ಗೆ ಮಾತನಾಡೋಣ. 'ಬಯೋ' ಎಂದರೆ ಜೀವ. ಹಾಗಾಗಿ, ಜೈವಿಕ ಘಟಕಗಳು ಎಂದರೆ ಪರಿಸರ ವ್ಯವಸ್ಥೆಯಲ್ಲಿರುವ ಎಲ್ಲಾ ಜೀವಂತ ಜೀವಿಗಳು. ಇದರಲ್ಲಿ ಸಸ್ಯಗಳು, ಪ್ರಾಣಿಗಳು ಮತ್ತು ನಮ್ಮ ಕಣ್ಣಿಗೆ ಕಾಣದ ಸೂಕ್ಷ್ಮಜೀವಿಗಳು (ಬ್ಯಾಕ್ಟೀರಿಯಾ, ಶಿಲೀಂಧ್ರಗಳು) ಸೇರಿವೆ. ಇವೆಲ್ಲವೂ ಏಕೆ ಮುಖ್ಯ? ಏಕೆಂದರೆ ಅವು ಆಹಾರ, ಆಶ್ರಯ ಮತ್ತು ಸಂತಾನೋತ್ಪತ್ತಿಗಾಗಿ ಪರಸ್ಪರ ಅವಲಂಬಿತವಾಗಿವೆ. ಇವು ಆಹಾರ ಸರಪಳಿಯ ಭಾಗವಾಗಿ, ಶಕ್ತಿಯ ಹರಿವನ್ನು ಮತ್ತು ಪೋಷಕಾಂಶಗಳ ಚಕ್ರವನ್ನು ನಿರ್ವಹಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಪರಿಸರ ವ್ಯವಸ್ಥೆಯಲ್ಲಿನ ಎಲ್ಲಾ ಜೀವಂತ ಜೀವಿಗಳು.",
+    "ಉದಾಹರಣೆ: ಸಸ್ಯಗಳು, ಪ್ರಾಣಿಗಳು, ಸೂಕ್ಷ್ಮಜೀವಿಗಳು.",
+    "ಕಾರಣ: ಇವು ಆಹಾರ, ಆಶ್ರಯ ಮತ್ತು ಸಂತಾನೋತ್ಪತ್ತಿಗಾಗಿ ಪರಸ್ಪರ ಅವಲಂಬಿತವಾಗಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A vibrant ecosystem scene showing various biotic components. A large tree, a deer grazing nearby, mushrooms on the forest floor, and a bird in the tree. This illustrates the diversity of life.",
+    "labels": "Tree, Deer, Bird, Mushrooms",
+    "scientific_significance": "Represents the different types of living organisms (producers, consumers, decomposers) that form the biotic part of an ecosystem.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_13_concept_1_chunk_006"
+}

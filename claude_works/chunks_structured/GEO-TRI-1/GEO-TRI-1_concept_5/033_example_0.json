@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ಒಂದು ತ್ರಿಭುಜದ ಬಾಹುಗಳು ಮೂರು ಸೆಂಟಿಮೀಟರ್, ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್, ಮತ್ತು ಐದು ಸೆಂಟಿಮೀಟರ್ ಇವೆ. ಈ ಅಳತೆಗಳು ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ರಚಿಸುತ್ತವೆಯೇ ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದನ್ನು ಪರೀಕ್ಷಿಸಲು, ನಾವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ವಿಲೋಮವನ್ನು ಬಳಸುತ್ತೇವೆ, ಅಂದರೆ, a ವರ್ಗ ಪ್ಲಸ್ b ವರ್ಗವು c ವರ್ಗಕ್ಕೆ ಸಮವಾಗಿದೆಯೇ ಎಂದು ನೋಡಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ಒಂದು ತ್ರಿಭುಜದ ಬಾಹುಗಳು 3 cm, 4 cm, ಮತ್ತು 5 cm ಇವೆ. ಈ ಅಳತೆಗಳು ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ರಚಿಸುತ್ತವೆಯೇ ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದನ್ನು ಪರೀಕ್ಷಿಸಲು, ನಾವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ವಿಲೋಮವನ್ನು ($a^2 + b^2 = c^2$) ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "3 \\text{ cm, } 4 \\text{ cm, ಮತ್ತು } 5 \\text{ cm ಬಾಹುಗಳಿರುವ ತ್ರಿಭುಜವು ಲಂಬಕೋನ ತ್ರಿಭುಜವಾಗುವುದೇ?}",
+    "placeholder_note": "Problem statement displayed in a box"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "GEO-TRI-1_example_5",
+  "chunk_id": "GEO-TRI-1_concept_5_chunk_033"
+}

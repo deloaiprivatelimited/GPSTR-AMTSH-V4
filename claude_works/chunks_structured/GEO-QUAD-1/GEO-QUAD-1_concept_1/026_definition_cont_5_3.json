@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಬಹಿರ್ವಕ್ರ vs ಅಂತರ್ವಕ್ರ",
+  "script": "ಈಗ ಬಹಿರ್ವಕ್ರ ಮತ್ತು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಒಂದು ಬಹಿರ್ವಕ್ರ ಷಡ್ಭುಜವಿದೆ. ಇದರ ಎಲ್ಲಾ ಒಳಕೋನಗಳು ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿಗಿಂತ ಕಡಿಮೆ ಇವೆ ಮತ್ತು ನೀವು ಯಾವುದೇ ಎರಡು ಶೃಂಗಗಳನ್ನು ಸೇರಿಸಿ ಕರ್ಣವನ್ನು ಎಳೆದರೂ, ಅದು ಆಕೃತಿಯ ಒಳಗೆಯೇ ಇರುತ್ತದೆ. ಆದರೆ, ಬಲಭಾಗದಲ್ಲಿರುವ ಅಂತರ್ವಕ್ರ ಆಕೃತಿಯನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಒಂದು ಒಳಕೋನವು ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿಗಿಂತ ಹೆಚ್ಚಿದೆ ಮತ್ತು ಒಂದು ಕರ್ಣವು ಆಕೃತಿಯ ಹೊರಗೆ ಇದೆ. ಈ ದೃಶ್ಯ ಹೋಲಿಕೆಯು ನಿಮಗೆ ಇವೆರಡರ ನಡುವಿನ ಮೂಲಭೂತ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ಬಹಿರ್ವಕ್ರ ಮತ್ತು ಅಂತರ್ವಕ್ರ ಬಹುಭುಜಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಒಂದು ಬಹಿರ್ವಕ್ರ ಷಡ್ಭುಜವಿದೆ. ಇದರ ಎಲ್ಲಾ ಒಳಕೋನಗಳು $180°$ ಗಿಂತ ಕಡಿಮೆ ಇವೆ ಮತ್ತು ನೀವು ಯಾವುದೇ ಎರಡು ಶೃಂಗಗಳನ್ನು ಸೇರಿಸಿ ಕರ್ಣವನ್ನು ಎಳೆದರೂ, ಅದು ಆಕೃತಿಯ ಒಳಗೆಯೇ ಇರುತ್ತದೆ. ಆದರೆ, ಬಲಭಾಗದಲ್ಲಿರುವ ಅಂತರ್ವಕ್ರ ಆಕೃತಿಯನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಒಂದು ಒಳಕೋನವು $180°$ ಗಿಂತ ಹೆಚ್ಚಿದೆ ಮತ್ತು ಒಂದು ಕರ್ಣವು ಆಕೃತಿಯ ಹೊರಗೆ ಇದೆ. ಈ ದೃಶ್ಯ ಹೋಲಿಕೆಯು ನಿಮಗೆ ಇವೆರಡರ ನಡುವಿನ ಮೂಲಭೂತ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen. Left side titled 'ಬಹಿರ್ವಕ್ರ (Convex)' shows a regular hexagon with its diagonals drawn inside. Text says 'ಎಲ್ಲಾ ಕೋನಗಳು < 180°' and 'ಎಲ್ಲಾ ಕರ್ಣಗಳು ಒಳಗೆ'. Right side titled 'ಅಂತರ್ವಕ್ರ (Concave)' shows the arrowhead polygon. Text says 'ಒಂದು ಕೋನ > 180°' and 'ಒಂದು ಕರ್ಣ ಹೊರಗೆ'. The specific angle and diagonal are highlighted.",
+    "labels": "ಬಹಿರ್ವಕ್ರ, ಅಂತರ್ವಕ್ರ, ಕರ್ಣ, ಕೋನ",
+    "mathematical_significance": "Provides a direct side-by-side comparison of convex and concave polygons, highlighting the key differences in their angles and diagonals, which is a powerful mnemonic tool.",
+    "placeholder_note": "Image to be generated: Split screen as described."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_1_chunk_026"
+}

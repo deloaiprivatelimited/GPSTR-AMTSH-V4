@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ ಪರಿಚಯ",
+  "script": "ಈಗ ಒಂದು ಸಂಕೀರ್ಣವಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸಾಧಿಸೋಣ. ಸೆಕ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಸಮ 1 ಪ್ಲಸ್ ಟ್ಯಾನ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಈ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ, ಸೈನ್ ತೀಟಾ ಮೈನಸ್ ಕಾಸ್ ತೀಟಾ ಪ್ಲಸ್ 1, ಭಾಗಿಸು ಸೈನ್ ತೀಟಾ ಪ್ಲಸ್ ಕಾಸ್ ತೀಟಾ ಮೈನಸ್ 1, ಸಮ 1 ಭಾಗಿಸು ಸೆಕ್ ತೀಟಾ ಮೈನಸ್ ಟ್ಯಾನ್ ತೀಟಾ ಎಂದು ಸಾಧಿಸಬೇಕು. ನಾವು ಎಡಭಾಗದಿಂದ, ಅಂದರೆ ಎಲ್ ಎಚ್ ಎಸ್ ನಿಂದ ಪ್ರಾರಂಭಿಸಿ ಬಲಭಾಗವನ್ನು, ಅಂದರೆ ಆರ್ ಎಚ್ ಎಸ್ ಅನ್ನು ತಲುಪಲು ಪ್ರಯತ್ನಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಸಂಕೀರ್ಣವಾದ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಸಾಧಿಸೋಣ. $\\sec^2 \\theta = 1 + \\tan^2 \\theta$ ಈ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ, $\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}$ ಎಂದು ಸಾಧಿಸಬೇಕು. ನಾವು ಎಡಭಾಗದಿಂದ, ಅಂದರೆ LHS ನಿಂದ ಪ್ರಾರಂಭಿಸಿ ಬಲಭಾಗವನ್ನು, ಅಂದರೆ RHS ಅನ್ನು ತಲುಪಲು ಪ್ರಯತ್ನಿಸೋಣ.",
+  "display_bullets": [
+    "ದತ್ತ ನಿತ್ಯಸಮೀಕರಣ: $\\sec^2 \\theta = 1 + \\tan^2 \\theta$",
+    "ಸಾಧಿಸಬೇಕಾದದ್ದು: $\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}$",
+    "ವಿಧಾನ: ಎಡಭಾಗದಿಂದ (LHS) ಪ್ರಾರಂಭಿಸಿ ಬಲಭಾಗವನ್ನು (RHS) ಪಡೆಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "TRI-INTRO-1_example_12",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_038"
+}

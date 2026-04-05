@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಘನ ಬಹುಪದೋಕ್ತಿಯ ಅಪವರ್ತಿಸುವಿಕೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಎಕ್ಸ್ ಕ್ಯೂಬ್ ಮೈನಸ್ ಇಪ್ಪತ್ಮೂರು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ನೂರ ನಲವತ್ತೆರಡು ಎಕ್ಸ್ ಮೈನಸ್ ನೂರ ಇಪ್ಪತ್ತು, ಇದನ್ನು ಅಪವರ್ತಿಸಿ. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಬಹುಪದೋಕ್ತಿ ಪಿ ಆಫ್ ಎಕ್ಸ್ ಸಮ ಎಕ್ಸ್ ಕ್ಯೂಬ್ ಮೈನಸ್ ಇಪ್ಪತ್ಮೂರು ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ನೂರ ನಲವತ್ತೆರಡು ಎಕ್ಸ್ ಮೈನಸ್ ನೂರ ಇಪ್ಪತ್ತು. ನಾವು ಇದರ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದೊಂದು ಘನ ಬಹುಪದೋಕ್ತಿ ಆಗಿರುವುದರಿಂದ, ನಾವು ಅಪವರ್ತನ ಪ್ರಮೇಯವನ್ನು ಬಳಸಿ ಇದನ್ನು ಬಿಡಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $x^3 - 23x^2 + 142x - 120$ ನ್ನು ಅಪವರ್ತಿಸಿ. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಬಹುಪದೋಕ್ತಿ $p(x) = x^3 - 23x^2 + 142x - 120$. ನಾವು ಇದರ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದೊಂದು ಘನ ಬಹುಪದೋಕ್ತಿ ಆಗಿರುವುದರಿಂದ, ನಾವು ಅಪವರ್ತನ ಪ್ರಮೇಯವನ್ನು (Factor Theorem) ಬಳಸಿ ಇದನ್ನು ಬಿಡಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಬಹುಪದೋಕ್ತಿ: $p(x) = x^3 - 23x^2 + 142x - 120$",
+    "ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: ಇದರ ಅಪವರ್ತನಗಳು.",
+    "ವಿಧಾನ: ಅಪವರ್ತನ ಪ್ರಮೇಯ (Factor Theorem)."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "p(x) = x^3 - 23x^2 + 142x - 120",
+    "placeholder_note": "Display the polynomial to be factored."
+  },
+  "source_example_id": "ALG-POL-3_example_10",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_089"
+}

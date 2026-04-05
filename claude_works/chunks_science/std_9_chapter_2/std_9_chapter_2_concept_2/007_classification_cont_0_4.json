@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆಗಳು: ಅಸಮರೂಪ ಮಿಶ್ರಣ",
+  "script": "ಅಸಮರೂಪ ಮಿಶ್ರಣಕ್ಕೆ ಕೆಲವು ಪರಿಚಿತ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು, ನೀರು ಮತ್ತು ಎಣ್ಣೆಯ ಮಿಶ್ರಣ. ಎಣ್ಣೆ ಮತ್ತು ನೀರು ಒಂದರಲ್ಲೊಂದು ಬೆರೆಯುವುದಿಲ್ಲ. ಬದಲಾಗಿ, ಕಡಿಮೆ ಸಾಂದ್ರತೆ ಇರುವ ಎಣ್ಣೆಯು ನೀರಿನ ಮೇಲೆ ಒಂದು ಪ್ರತ್ಯೇಕ ಪದರವಾಗಿ ತೇಲುತ್ತದೆ. ಇಲ್ಲಿ ನಾವು ಎರಡು ಪದರಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಇನ್ನೊಂದು ಉದಾಹರಣೆ, ಮರಳು ಮತ್ತು ನೀರಿನ ಮಿಶ್ರಣ. ಮರಳನ್ನು ನೀರಿಗೆ ಹಾಕಿದಾಗ, ಅದು ಕರಗದೆ ಪಾತ್ರೆಯ ತಳದಲ್ಲಿ ಶೇಖರವಾಗುತ್ತದೆ. ಇಲ್ಲಿಯೂ ಸಹ, ಮರಳು ಮತ್ತು ನೀರನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಗುರುತಿಸಬಹುದು.",
+  "script_display": "ಅಸಮರೂಪ ಮಿಶ್ರಣಕ್ಕೆ ಕೆಲವು ಪರಿಚಿತ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು, ನೀರು ಮತ್ತು ಎಣ್ಣೆಯ ಮಿಶ್ರಣ. ಎಣ್ಣೆ ಮತ್ತು ನೀರು ಒಂದರಲ್ಲೊಂದು ಬೆರೆಯುವುದಿಲ್ಲ. ಬದಲಾಗಿ, ಕಡಿಮೆ ಸಾಂದ್ರತೆ ಇರುವ ಎಣ್ಣೆಯು ನೀರಿನ ಮೇಲೆ ಒಂದು ಪ್ರತ್ಯೇಕ ಪದರವಾಗಿ ತೇಲುತ್ತದೆ. ಇಲ್ಲಿ ನಾವು ಎರಡು ಪದರಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಇನ್ನೊಂದು ಉದಾಹರಣೆ, ಮರಳು ಮತ್ತು ನೀರಿನ ಮಿಶ್ರಣ. ಮರಳನ್ನು ನೀರಿಗೆ ಹಾಕಿದಾಗ, ಅದು ಕರಗದೆ ಪಾತ್ರೆಯ ತಳದಲ್ಲಿ ಶೇಖರವಾಗುತ್ತದೆ. ಇಲ್ಲಿಯೂ ಸಹ, ಮರಳು ಮತ್ತು ನೀರನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಗುರುತಿಸಬಹುದು.",
+  "display_bullets": [
+    "ನೀರು ಮತ್ತು ಎಣ್ಣೆ: ಇವು ಬೆರೆಯದೆ, ಪ್ರತ್ಯೇಕ ಪದರಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.",
+    "ಮರಳು ಮತ್ತು ನೀರು: ಮರಳು ನೀರಿನಲ್ಲಿ ಕರಗದೆ, ತಳದಲ್ಲಿ ಶೇಖರವಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker showing two distinct layers: a layer of oil floating on top of a layer of water. The boundary between them is clearly visible.",
+    "labels": "ಎಣ್ಣೆ, ನೀರು, ಪ್ರತ್ಯೇಕ ಗಡಿ",
+    "scientific_significance": "Illustrates the concept of immiscibility and non-uniform composition in a heterogeneous mixture.",
+    "placeholder_note": "Image showing oil and water in a beaker, forming two separate layers."
+  },
+  "chunk_id": "std_9_chapter_2_concept_2_chunk_007"
+}

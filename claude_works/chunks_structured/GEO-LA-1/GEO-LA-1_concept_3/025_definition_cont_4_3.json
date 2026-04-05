@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ, ಕೋನ 1 ರ ಅಳತೆಯು 50 ಡಿಗ್ರಿ ಇದೆ ಎಂದು ಭಾವಿಸೋಣ. ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳ ಗುಣಲಕ್ಷಣದ ಪ್ರಕಾರ, ಕೋನ 1 ಮತ್ತು ಕೋನ 3 ಸಮವಾಗಿರಬೇಕು. ಆದ್ದರಿಂದ, ಕೋನ 3 ರ ಅಳತೆಯೂ ಕೂಡ 50 ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ. ಈಗ, ಕೋನ 2 ನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಕೋನ 1 ಮತ್ತು ಕೋನ 2 ಒಂದು ಸರಳಯುಗ್ಮವನ್ನು ರಚಿಸುತ್ತವೆ, ಅಂದರೆ ಅವುಗಳ ಮೊತ್ತ 180 ಡಿಗ್ರಿ. ಹಾಗಾಗಿ, ಕೋನ 2 ಈಕ್ವಲ್ಸ್ 180 ಮೈನಸ್ 50, ಅಂದರೆ 130 ಡಿಗ್ರಿ. ಕೋನ 2 ಮತ್ತು ಕೋನ 4 ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿರುವುದರಿಂದ, ಕೋನ 4 ರ ಅಳತೆಯೂ 130 ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ, $\\angle 1 = 50^\\circ$ ಇದೆ ಎಂದು ಭಾವಿಸೋಣ.\n* ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳ ಗುಣಲಕ್ಷಣದ ಪ್ರಕಾರ, $\\angle 3 = \\angle 1$. ಆದ್ದರಿಂದ, $\\angle 3 = 50^\\circ$.\n* $\\angle 1$ ಮತ್ತು $\\angle 2$ ಒಂದು ಸರಳಯುಗ್ಮವನ್ನು (linear pair) ರಚಿಸುತ್ತವೆ. ಆದ್ದರಿಂದ, $\\angle 1 + \\angle 2 = 180^\\circ$.\n* $\\angle 2 = 180^\\circ - 50^\\circ = 130^\\circ$.\n* $\\angle 4$ ಮತ್ತು $\\angle 2$ ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು. ಆದ್ದರಿಂದ, $\\angle 4 = \\angle 2 = 130^\\circ$.",
+  "display_bullets": [
+    "ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳ ಗುಣಲಕ್ಷಣದ ಪ್ರಕಾರ, $\\angle 3 = \\angle 1$. ಆದ್ದರಿಂದ, $\\angle 3 = 50^\\circ$.",
+    "$\\angle 1$ ಮತ್ತು $\\angle 2$ ಒಂದು ಸರಳಯುಗ್ಮವನ್ನು (linear pair) ರಚಿಸುತ್ತವೆ. ಆದ್ದರಿಂದ, $\\angle 1 + \\angle 2 = 180^\\circ$.",
+    "$\\angle 2 = 180^\\circ - 50^\\circ = 130^\\circ$.",
+    "$\\angle 4$ ಮತ್ತು $\\angle 2$ ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು. ಆದ್ದರಿಂದ, $\\angle 4 = \\angle 2 = 130^\\circ$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಛೇದಿಸುವ ರೇಖೆಗಳ ಚಿತ್ರ. ಕೋನ 1 ಅನ್ನು $50^\\circ$ ಎಂದು ಲೇಬಲ್ ಮಾಡಲಾಗಿದೆ. ಕೋನ 3 ಅನ್ನು ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯೊಂದಿಗೆ ತೋರಿಸಲಾಗಿದೆ, ನಂತರ ಅದನ್ನು $50^\\circ$ ಎಂದು ತುಂಬಲಾಗಿದೆ. ಕೋನ 2 ಮತ್ತು 4 ಅನ್ನು ಸಹ ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಗಳೊಂದಿಗೆ ತೋರಿಸಿ, ನಂತರ $130^\\circ$ ಎಂದು ತುಂಬಲಾಗಿದೆ.",
+    "labels": "50°, ?, 130°",
+    "mathematical_significance": "ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಮತ್ತು ಸರಳಯುಗ್ಮದ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಅಜ್ಞಾತ ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated: Intersecting lines with angle 1 labeled 50 degrees. Other angles initially have question marks, then are filled in."
+  },
+  "chunk_id": "GEO-LA-1_concept_3_chunk_025"
+}

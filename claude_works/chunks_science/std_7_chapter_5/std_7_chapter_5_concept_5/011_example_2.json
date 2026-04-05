@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಜೈವಿಕ ಅನಿಲ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಜೈವಿಕ ಅನಿಲದ ಉತ್ಪಾದನೆ, ಇದನ್ನು ಬದಲಾವಣೆ A ಎಂದು ಕರೆಯೋಣ, ಮತ್ತು ಅದರ ಬಳಕೆ, ಇದನ್ನು ಬದಲಾವಣೆ B ಎಂದು ಕರೆಯೋಣ, ಇವುಗಳನ್ನು ರಾಸಾಯನಿಕ ಮತ್ತು ಭೌತ ಬದಲಾವಣೆಗಳಾಗಿ ವರ್ಗೀಕರಿಸಬೇಕು. ಈ ಪ್ರಶ್ನೆಯಲ್ಲಿ, ನಾವು ಬದಲಾವಣೆ A ಮತ್ತು ಬದಲಾವಣೆ B ಗಳು ಭೌತಿಕ ಬದಲಾವಣೆಗಳೇ ಅಥವಾ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳೇ ಎಂದು ಕಾರಣ ಸಹಿತ ನಿರ್ಧರಿಸಬೇಕು.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಜೈವಿಕ ಅನಿಲದ ಉತ್ಪಾದನೆ (ಬದಲಾವಣೆ A) ಮತ್ತು ಅದರ ಬಳಕೆ (ಬದಲಾವಣೆ B) ಗಳನ್ನು ರಾಸಾಯನಿಕ ಮತ್ತು ಭೌತ ಬದಲಾವಣೆಗಳಾಗಿ ವರ್ಗೀಕರಿಸಬೇಕು. ಈ ಪ್ರಶ್ನೆಯಲ್ಲಿ, ನಾವು ಬದಲಾವಣೆ A ಮತ್ತು ಬದಲಾವಣೆ B ಗಳು ಭೌತಿಕ ಬದಲಾವಣೆಗಳೇ ಅಥವಾ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳೇ ಎಂದು ಕಾರಣ ಸಹಿತ ನಿರ್ಧರಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಜೈವಿಕ ಅನಿಲದ ಉತ್ಪಾದನೆ (ಬದಲಾವಣೆ A) ಮತ್ತು ಅದರ ಬಳಕೆ (ಬದಲಾವಣೆ B) ಗಳನ್ನು ರಾಸಾಯನಿಕ ಮತ್ತು ಭೌತ ಬದಲಾವಣೆಗಳಾಗಿ ವರ್ಗೀಕರಿಸಿ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಬದಲಾವಣೆ A ಮತ್ತು B ಗಳು ಭೌತಿಕವೇ ಅಥವಾ ರಾಸಾಯನಿಕವೇ?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple flowchart. On the left, an arrow from 'Animal Waste' points to a 'Biogas Digester', labeled 'Change A: Production'. From the digester, an arrow points to a 'Gas Stove', labeled 'Change B: Usage/Combustion'.",
+    "labels": "Animal Waste, Biogas Digester, Gas Stove, Change A, Change B",
+    "scientific_significance": "Illustrates the two distinct processes involved in the production and consumption of biogas, which are the subject of the problem.",
+    "placeholder_note": "Image to be generated showing the two stages of biogas production and use."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "std_7_chapter_5_we_3",
+  "chunk_id": "std_7_chapter_5_concept_5_chunk_011"
+}

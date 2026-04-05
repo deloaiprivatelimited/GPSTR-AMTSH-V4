@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ವರ್ಗ-ಅಂಕವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 10 ರಿಂದ 20 ರ ವರ್ಗಾಂತರವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ, 10 ಎಂಬುದು ಕೆಳಮಿತಿ ಮತ್ತು 20 ಎಂಬುದು ಮೇಲ್ಮಿತಿ. ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, ವರ್ಗ-ಅಂಕವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಇವೆರಡನ್ನೂ ಕೂಡಿಸಬೇಕು. ಅಂದರೆ 10 ಪ್ಲಸ್ 20, ಇದು 30 ಆಗುತ್ತದೆ. ನಂತರ, ಈ ಮೊತ್ತವನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಬೇಕು. 30 ಅನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ 15 ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, 10 ರಿಂದ 20 ರ ವರ್ಗಾಂತರದ ವರ್ಗ-ಅಂಕ 15 ಆಗಿದೆ. ಇದು 10 ಮತ್ತು 20ರ ನಡುವೆ ಇರುವ ನಿಖರವಾದ ಮಧ್ಯದ ಮೌಲ್ಯ.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $10 - 20$ ರ ವರ್ಗಾಂತರವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ, $10$ ಎಂಬುದು ಕೆಳಮಿತಿ ಮತ್ತು $20$ ಎಂಬುದು ಮೇಲ್ಮಿತಿ. ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, ವರ್ಗ-ಅಂಕವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಇವೆರಡನ್ನೂ ಕೂಡಿಸಬೇಕು. ಅಂದರೆ $10 + 20$, ಇದು $30$ ಆಗುತ್ತದೆ. ನಂತರ, ಈ ಮೊತ್ತವನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಬೇಕು. $\\frac{30}{2}$ ಮಾಡಿದಾಗ ನಮಗೆ $15$ ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, $10 - 20$ ರ ವರ್ಗಾಂತರದ ವರ್ಗ-ಅಂಕ $15$ ಆಗಿದೆ. ಇದು $10$ ಮತ್ತು $20$ರ ನಡುವೆ ಇರುವ ನಿಖರವಾದ ಮಧ್ಯದ ಮೌಲ್ಯ.",
+  "display_bullets": [
+    "ವರ್ಗಾಂತರ: $10 - 20$",
+    "ಕೆಳಮಿತಿ = $10$, ಮೇಲ್ಮಿತಿ = $20$",
+    "ವರ್ಗ-ಅಂಕ ($x_i$) = $\\frac{10 + 20}{2} = \\frac{30}{2} = 15$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line from 10 to 20. The number 15 is highlighted in the exact center, with arrows pointing from 10 and 20 to 15. Text 'ಕೆಳಮಿತಿ' points to 10, 'ಮೇಲ್ಮಿತಿ' points to 20, and 'ವರ್ಗ-ಅಂಕ' points to 15.",
+    "labels": "number line, class mark, midpoint, upper limit, lower limit",
+    "mathematical_significance": "Visually demonstrates that the class mark is the midpoint of the class interval.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "DATA-STAT-2_concept_2_chunk_004"
+}

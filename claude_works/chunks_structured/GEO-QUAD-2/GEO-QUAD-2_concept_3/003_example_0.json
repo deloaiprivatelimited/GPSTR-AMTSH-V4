@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಾಧನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABCಯಲ್ಲಿ AB ಸಮನಾಗಿದೆ AC ಆಗಿದೆ. ಬಾಹ್ಯಕೋನ PAC ಯನ್ನು AD ದ್ವಿಭಾಗಿಸುತ್ತದೆ ಮತ್ತು CD ಸಮಾಂತರವಾಗಿದೆ AB. ನಾವು ಎರಡು ವಿಷಯಗಳನ್ನು ಸಾಧಿಸಬೇಕು. ಮೊದಲನೆಯದು, ಕೋನ DAC ಸಮನಾಗಿದೆ ಕೋನ BCA. ಎರಡನೆಯದು, ಚತುರ್ಭುಜ ABCD ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ಎಂದು ತೋರಿಸಬೇಕು. ಚಿತ್ರವನ್ನು ಗಮನವಿಟ್ಟು ನೋಡಿ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABCಯಲ್ಲಿ $AB = AC$ ಆಗಿದೆ. ಬಾಹ್ಯಕೋನ PAC ಯನ್ನು AD ದ್ವಿಭಾಗಿಸುತ್ತದೆ ಮತ್ತು $CD \\parallel AB$. ನಾವು ಎರಡು ವಿಷಯಗಳನ್ನು ಸಾಧಿಸಬೇಕು. (i) $∠ DAC = ∠ BCA$ ಮತ್ತು (ii) ABCD ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ಎಂದು ತೋರಿಸಬೇಕು. ಚಿತ್ರವನ್ನು ಗಮನವಿಟ್ಟು ನೋಡಿ.",
+  "display_bullets": [
+    "ದತ್ತ: ಸಮದ್ವಿಬಾಹು $∆ ABC$ ಯಲ್ಲಿ $AB = AC$.",
+    "AD ಯು ಬಾಹ್ಯಕೋನ $∠ PAC$ ಯ ಕೋನಾರ್ಧಕ.",
+    "$CD \\parallel AB$.",
+    "ಸಾಧನೀಯ: (i) $∠ DAC = ∠ BCA$ (ii) ABCD ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABC. ಬಾಹು BA ಯನ್ನು P ವರೆಗೆ ವೃದ್ಧಿಸಿದೆ. ಬಾಹ್ಯಕೋನ PAC ಯ ಕೋನಾರ್ಧಕ AD. CD ಯನ್ನು AB ಗೆ ಸಮಾಂತರವಾಗಿ ಎಳೆಯಲಾಗಿದೆ.",
+    "labels": "ಶೃಂಗಗಳು A, B, C, D ಮತ್ತು ಬಿಂದು P.",
+    "mathematical_significance": "ಉದಾಹರಣೆ 3 ರ ಜ್ಯಾಮಿತೀಯ ಸನ್ನಿವೇಶವನ್ನು ವಿವರಿಸುತ್ತದೆ. AB = AC, AD ಕೋನಾರ್ಧಕ, ಮತ್ತು CD || AB ಎಂಬ ಸಂಬಂಧಗಳನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for example 3, showing the described geometric setup."
+  },
+  "source_example_id": "GEO-QUAD-2_example_3",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-QUAD-2_concept_3_chunk_003"
+}

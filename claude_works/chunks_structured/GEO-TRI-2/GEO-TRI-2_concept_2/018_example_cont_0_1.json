@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1-2",
+  "script": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ತ್ರಿಭುಜ ABD ಮತ್ತು ತ್ರಿಭುಜ ACD ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ತೋರಿಸುವುದೇ ನಮ್ಮ ಗುರಿ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಕೋನ-ಬಾಹು-ಕೋನ, ಅಂದರೆ Angle-Side-Angle, ನಿಯಮಕ್ಕೆ ಬೇಕಾದ ಅಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಕೋನ BAD ಯು ಕೋನ CAD ಗೆ ಸಮ, ಏಕೆಂದರೆ AD ಯು ಕೋನ A ನ ಕೋನಾರ್ಧಕ ಎಂದು ದತ್ತಾಂಶದಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ಎರಡನೆಯದಾಗಿ, AD ಬಾಹುವು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿದೆ, ಆದ್ದರಿಂದ AD ಯು AD ಗೆ ಸಮ. ಮೂರನೆಯದಾಗಿ, ಕೋನ ADB ಮತ್ತು ಕೋನ ADC ಎರಡೂ 90 ಡಿಗ್ರಿ, ಏಕೆಂದರೆ AD ಯು BC ಗೆ ಲಂಬವಾಗಿದೆ. ಹೀಗೆ ನಮಗೆ ಎರಡು ಕೋನಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಬಾಹು ಸಮವಾಗಿ ಸಿಕ್ಕಿದೆ.",
+  "script_display": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು $\\triangle ABD$ ಮತ್ತು $\\triangle ACD$ ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ತೋರಿಸುವುದೇ ನಮ್ಮ ಗುರಿ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಕೋ.ಬಾ.ಕೋ (ASA) ನಿಯಮಕ್ಕೆ ಬೇಕಾದ ಅಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, $\\angle BAD = \\angle CAD$ (ದತ್ತ, AD ಕೋನಾರ್ಧಕ). ಎರಡನೆಯದಾಗಿ, $AD = AD$ (ಸಾಮಾನ್ಯ ಬಾಹು). ಮೂರನೆಯದಾಗಿ, $\\angle ADB = \\angle ADC = 90^\\circ$ (ದತ್ತ, $AD \\perp BC$). ಹೀಗೆ ನಮಗೆ ಎರಡು ಕೋನಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಬಾಹು ಸಮವಾಗಿ ಸಿಕ್ಕಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-TRI-2_example_4",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\triangle ABD$ ಮತ್ತು $\\triangle ACD$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+      "justification": "AB ಮತ್ತು AC ಬಾಹುಗಳನ್ನು ಹೋಲಿಸಲು ಈ ತ್ರಿಭುಜಗಳನ್ನು ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಕೋ.ಬಾ.ಕೋ ನಿಯಮಕ್ಕೆ ಬೇಕಾದ ಅಂಶಗಳನ್ನು ಗುರುತಿಸಿ:\n$\\angle BAD = \\angle CAD$ (ದತ್ತ, AD ಕೋನಾರ್ಧಕ)\n$AD = AD$ (ಸಾಮಾನ್ಯ ಬಾಹು)\n$\\angle ADB = \\angle ADC = 90^\\circ$ (ದತ್ತ, $AD \\perp BC$)",
+      "justification": "ಸರ್ವಸಮತೆಯನ್ನು ಸಾಧಿಸಲು ಬೇಕಾದ ಸಮಾನ ಅಂಶಗಳು."
+    }
+  ],
+  "chunk_id": "GEO-TRI-2_concept_2_chunk_018"
+}

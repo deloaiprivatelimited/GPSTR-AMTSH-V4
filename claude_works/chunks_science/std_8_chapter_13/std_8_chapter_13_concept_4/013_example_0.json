@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಬಹು ಪ್ರತಿಬಿಂಬಗಳು",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಪರಿಹರಿಸೋಣ. ಎರಡು ಸಮತಲ ದರ್ಪಣಗಳನ್ನು ಪರಸ್ಪರ ಲಂಬವಾಗಿ, ಅಂದರೆ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಕೋನದಲ್ಲಿ ಇರಿಸಲಾಗಿದೆ. ಒಂದು ದರ್ಪಣದ ಮೇಲೆ ಮೂವತ್ತು ಡಿಗ್ರಿ ಪತನ ಕೋನದಲ್ಲಿ ಬೆಳಕಿನ ಕಿರಣವೊಂದು ಬಿದ್ದರೆ, ಅದು ಎರಡನೇ ದರ್ಪಣದಿಂದ ಪ್ರತಿಫಲನಗೊಳ್ಳುವ ಕೋನವೆಷ್ಟು? ಈ ಪ್ರಶ್ನೆಯಲ್ಲಿ, ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶವೆಂದರೆ, ದರ್ಪಣಗಳ ನಡುವಿನ ಕೋನ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಮತ್ತು ಮೊದಲ ಪತನ ಕೋನ ಮೂವತ್ತು ಡಿಗ್ರಿ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು ಎರಡನೇ ದರ್ಪಣದಿಂದ ಪ್ರತಿಫಲನಗೊಳ್ಳುವ ಕೋನ.",
+  "script_display": "ಎರಡು ಸಮತಲ ದರ್ಪಣಗಳನ್ನು ಪರಸ್ಪರ ಲಂಬವಾಗಿ (90° ಕೋನದಲ್ಲಿ) ಇರಿಸಲಾಗಿದೆ. ಒಂದು ದರ್ಪಣದ ಮೇಲೆ 30° ಪತನ ಕೋನದಲ್ಲಿ ಬೆಳಕಿನ ಕಿರಣವೊಂದು ಬಿದ್ದರೆ, ಅದು ಎರಡನೇ ದರ್ಪಣದಿಂದ ಪ್ರತಿಫಲನಗೊಳ್ಳುವ ಕೋನವೆಷ್ಟು?",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ (Given): ದರ್ಪಣಗಳ ನಡುವಿನ ಕೋನ = 90°, ಮೊದಲ ಪತನ ಕೋನ (i₁) = 30°",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (Find): ಎರಡನೇ ಪ್ರತಿಫಲನ ಕೋನ (r₂)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "physics_green",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ಸಮತಲ ದರ್ಪಣಗಳು (M1 ಮತ್ತು M2) 90° ಕೋನದಲ್ಲಿವೆ. ಬೆಳಕಿನ ಕಿರಣವು M1 ಮೇಲೆ 30° ಪತನ ಕೋನದಲ್ಲಿ (i₁) ಬಿದ್ದು, ಪ್ರತಿಫಲನಗೊಂಡು (r₁) M2 ಮೇಲೆ ಬೀಳುತ್ತದೆ. M2 ಮೇಲಿನ ಪತನ ಕೋನ i₂ ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನ r₂ ಅನ್ನು ತೋರಿಸುವ ರೇಖಾಚಿತ್ರ.",
+    "labels": "M1, M2, ಪತನ ಕಿರಣ, ಪ್ರತಿಫಲಿತ ಕಿರಣ, ಲಂಬ 1, ಲಂಬ 2, i₁, r₁, i₂, r₂, 90°",
+    "scientific_significance": "ಈ ರೇಖಾಚಿತ್ರವು ಬಹು ಪ್ರತಿಫಲನದಲ್ಲಿ ಜ್ಯಾಮಿತಿಯ ಬಳಕೆಯನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing the ray diagram for the problem. Two mirrors at 90 degrees, an incoming ray at 30 degrees to the normal on the first mirror, and the subsequent path."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "std_8_chapter_13_example_3",
+  "chunk_id": "std_8_chapter_13_concept_4_chunk_013"
+}

@@ -1,0 +1,125 @@
+{
+  "module_id": "std_6_chapter_9_concept_8",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Zephyr",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:30:13",
+  "chunks": {
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "13446cb96e6272a8b76469071f5ab01a",
+      "wav_file": "003_definition_0.wav",
+      "duration": 39.211,
+      "slide_title": "ಆವೀಕರಣ (Evaporation)",
+      "type": "definition",
+      "script_words": 49,
+      "generated_at": "2026-04-02 13:28:49"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "67a965b7a4cc4b1c55c2630db9302ea4",
+      "wav_file": "001_intro_0.wav",
+      "duration": 58.531,
+      "slide_title": "ಆವೀಕರಣ (Evaporation)",
+      "type": "intro",
+      "script_words": 77,
+      "generated_at": "2026-04-02 13:28:50"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "901ad3b7c01885c929f7272672b391f7",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 36.371,
+      "slide_title": "ಉದಾಹರಣೆ: ನೀರಿನಿಂದ ಉಪ್ಪನ್ನು ಬೇರ್ಪಡಿಸುವುದು",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:28:51"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "08961262cdc4e246f531348374167e6c",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 48.851,
+      "slide_title": "ಆವೀಕರಣ: ಯಾವಾಗ ಬಳಸಬೇಕು?",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:28:56"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "ce698062c53b62e6352eaba2a63d7970",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 29.731,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ (Prerequisites)",
+      "type": "prerequisites",
+      "script_words": 39,
+      "generated_at": "2026-04-02 13:29:10"
+    },
+    "009_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "a2b73b8ab3844e86b0270b508b49cb4b",
+      "wav_file": "009_experiment_cont_0_2.wav",
+      "duration": 49.691,
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:29:49"
+    },
+    "008_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "efe6d87ce2677384c896924e58cb72ec",
+      "wav_file": "008_experiment_cont_0_1.wav",
+      "duration": 46.771,
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:30:00"
+    },
+    "007_experiment_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "fe4cfbb8b2df0d69bc2c26cd7c7521e6",
+      "wav_file": "007_experiment_0.wav",
+      "duration": 50.491,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಉಪ್ಪಿನ ದ್ರಾವಣದಿಂದ ಉಪ್ಪನ್ನು ಬೇರ್ಪಡಿಸುವುದು",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-04-02 13:30:02"
+    },
+    "006_property_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "c8da33181b7f0216a8a71d87e6fc4d99",
+      "wav_file": "006_property_0.wav",
+      "duration": 64.051,
+      "slide_title": "ಆವೀಕರಣದ ತತ್ವ",
+      "type": "concept_explanation",
+      "script_words": 81,
+      "generated_at": "2026-04-02 13:30:04"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Zephyr",
+      "script_hash": "afe9e3d48861cde0dd24580e0c84bfe4",
+      "wav_file": "010_recap_0.wav",
+      "duration": 32.971,
+      "slide_title": "ಸಾರಾಂಶ: ಆವೀಕರಣ",
+      "type": "recap",
+      "script_words": 45,
+      "generated_at": "2026-04-02 13:30:13"
+    }
+  }
+}

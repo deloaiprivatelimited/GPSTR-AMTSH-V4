@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಅರ್ಧಗೋಳದ ತ್ರಿಜ್ಯ",
+  "script": "ಅರ್ಧಗೋಳದ ತ್ರಿಜ್ಯ ಯಾವುದು? ನಾವು ಯಾವ ಗೋಳದಿಂದ ಅರ್ಧಗೋಳವನ್ನು ಪಡೆದಿದ್ದೇವೆಯೋ, ಆ ಗೋಳದ ತ್ರಿಜ್ಯವೇ ಈ ಅರ್ಧಗೋಳದ ತ್ರಿಜ್ಯವಾಗಿರುತ್ತದೆ. ಇದನ್ನು ನಾವು ಆರ್ ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಹಾಗೆಯೇ, ಅರ್ಧಗೋಳದ ಸಮತಟ್ಟಾದ ವೃತ್ತಾಕಾರದ ಪಾದದ ತ್ರಿಜ್ಯವೂ ಇದೇ ಆರ್ ಆಗಿರುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ಕೇಂದ್ರದಿಂದ ವಕ್ರ ಮೇಲ್ಮೈಗೆ ಇರುವ ದೂರ ಮತ್ತು ಕೇಂದ್ರದಿಂದ ಸಮತಟ್ಟಾದ ಪಾದದ ಅಂಚಿಗೆ ಇರುವ ದೂರ ಎರಡೂ ಸಮಾನವಾಗಿವೆ, ಮತ್ತು ಅವೆರಡೂ ತ್ರಿಜ್ಯ ಆರ್ ಆಗಿರುತ್ತವೆ.",
+  "script_display": "ಅರ್ಧಗೋಳದ ತ್ರಿಜ್ಯ ($r$) ಯಾವುದು? ನಾವು ಯಾವ ಗೋಳದಿಂದ ಅರ್ಧಗೋಳವನ್ನು ಪಡೆದಿದ್ದೇವೆಯೋ, ಆ ಗೋಳದ ತ್ರಿಜ್ಯವೇ ಈ ಅರ್ಧಗೋಳದ ತ್ರಿಜ್ಯವಾಗಿರುತ್ತದೆ. ಹಾಗೆಯೇ, ಅರ್ಧಗೋಳದ ಸಮತಟ್ಟಾದ ವೃತ್ತಾಕಾರದ ಪಾದದ ತ್ರಿಜ್ಯವೂ ಇದೇ $r$ ಆಗಿರುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೋಡಿ, ಕೇಂದ್ರದಿಂದ ವಕ್ರ ಮೇಲ್ಮೈಗೆ ಇರುವ ದೂರ ಮತ್ತು ಕೇಂದ್ರದಿಂದ ಸಮತಟ್ಟಾದ ಪಾದದ ಅಂಚಿಗೆ ಇರುವ ದೂರ ಎರಡೂ ಸಮಾನವಾಗಿವೆ, ಮತ್ತು ಅವೆರಡೂ ತ್ರಿಜ್ಯ $r$ ಆಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಅರ್ಧಗೋಳದ ತ್ರಿಜ್ಯವು ($r$) ಮೂಲ ಗೋಳದ ತ್ರಿಜ್ಯಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+    "ಅದರ ಸಮತಟ್ಟಾದ ವೃತ್ತಾಕಾರದ ಪಾದದ ತ್ರಿಜ್ಯವೂ $r$ ಆಗಿರುತ್ತದೆ.",
+    "ಕೇಂದ್ರದಿಂದ ವಕ್ರ ಮೇಲ್ಮೈ ಮತ್ತು ಸಮತಟ್ಟಾದ ಪಾದದ ಅಂಚಿಗೆ ಇರುವ ದೂರ ಸಮಾನವಾಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A hemisphere with its center point marked on the flat base. One radius 'r' is drawn from the center to the edge of the flat base. Another radius 'r' is drawn from the center to the top point (pole) of the curved surface.",
+    "labels": "ತ್ರಿಜ್ಯ (r), ಕೇಂದ್ರ",
+    "mathematical_significance": "Shows that the radius 'r' is consistent for both the base and the height of the hemisphere's curve.",
+    "placeholder_note": "Image to be generated."
+  },
+  "chunk_id": "MEN-VOL-3_concept_2_chunk_010"
+}

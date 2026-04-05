@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ ಮತ್ತು ಪ್ರತೀ-ಉದಾಹರಣೆ",
+  "script": "ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳಲು, ಒಂದು ಉದಾಹರಣೆ ಮತ್ತು ಪ್ರತೀ-ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಗಾಳಿಪಟ ಹಾರುತ್ತಿದೆ. ಗಾಳಿಪಟ ಹಾರಲು ಚಲಿಸುವ ಗಾಳಿ, ಅಂದರೆ ಮಾರುತ ಬೇಕೇಬೇಕು. ಇದು ಮಾರುತಕ್ಕೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ. ಇಲ್ಲಿ ಗಾಳಿ ಚಲಿಸುತ್ತಿದೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಒಂದು ಮುಚ್ಚಿದ ಕೋಣೆಯೊಳಗಿನ ಗಾಳಿ ಇದೆ. ಈ ಗಾಳಿ ಚಲಿಸುತ್ತಿಲ್ಲ, ಅದು ಸ್ಥಿರವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಇದನ್ನು ನಾವು ಮಾರುತ ಎಂದು ಕರೆಯುವುದಿಲ್ಲ. ಇದು ಕೇವಲ 'ಗಾಳಿ'. ಯಾವಾಗ ಗಾಳಿ ಚಲಿಸುತ್ತದೆಯೋ, ಆಗ ಮಾತ್ರ ಅದು 'ಮಾರುತ' ಆಗುತ್ತದೆ.",
+  "script_display": "ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳಲು, ಒಂದು ಉದಾಹರಣೆ ಮತ್ತು ಪ್ರತೀ-ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಗಾಳಿಪಟ ಹಾರುತ್ತಿದೆ. ಗಾಳಿಪಟ ಹಾರಲು ಚಲಿಸುವ ಗಾಳಿ, ಅಂದರೆ ಮಾರುತ ಬೇಕೇಬೇಕು. ಇದು ಮಾರುತಕ್ಕೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ. ಇಲ್ಲಿ ಗಾಳಿ ಚಲಿಸುತ್ತಿದೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಒಂದು ಮುಚ್ಚಿದ ಕೋಣೆಯೊಳಗಿನ ಗಾಳಿ ಇದೆ. ಈ ಗಾಳಿ ಚಲಿಸುತ್ತಿಲ್ಲ, ಅದು ಸ್ಥಿರವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಇದನ್ನು ನಾವು ಮಾರುತ ಎಂದು ಕರೆಯುವುದಿಲ್ಲ. ಇದು ಕೇವಲ 'ಗಾಳಿ'. ಯಾವಾಗ ಗಾಳಿ ಚಲಿಸುತ್ತದೆಯೋ, ಆಗ ಮಾತ್ರ ಅದು 'ಮಾರುತ' ಆಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮಾರುತ (Wind): ಹಾರುತ್ತಿರುವ ಗಾಳಿಪಟ. ಇಲ್ಲಿ ಗಾಳಿ ಚಲಿಸುತ್ತಿದೆ.",
+    "ಮಾರುತವಲ್ಲ (Not Wind): ಮುಚ್ಚಿದ ಕೋಣೆಯೊಳಗಿನ ಗಾಳಿ. ಇಲ್ಲಿ ಗಾಳಿ ಸ್ಥಿರವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_vertical_text_visual",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen image. Left side: A colorful kite flying high in the sky, with lines indicating wind movement. Right side: An image of a still room, perhaps with a balloon sitting motionlessly on the floor, to represent stationary air.",
+    "labels": "ಮಾರುತ, ಸ್ಥಿರ ಗಾಳಿ, ಚಲನೆ, ಗಾಳಿಪಟ, ಕೋಣೆ",
+    "scientific_significance": "Directly contrasts the condition required for wind (movement) with its absence, eliminating the misconception that all air is wind.",
+    "placeholder_note": "Image to be generated: Split screen. Left: Kite flying. Right: Still room with a balloon on the floor."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_6_chapter_11_concept_2_chunk_005"
+}

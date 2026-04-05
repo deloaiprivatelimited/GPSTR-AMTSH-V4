@@ -1,0 +1,81 @@
+{
+  "module_id": "std_8_chapter_3_concept_6",
+  "chapter_code": "std_8_chapter_3",
+  "voice": "Gacrux",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 17:17:12",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "3c8e133e2371d7ccd88569284b408a1e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 24.211,
+      "slide_title": "ಪೂರ್ವ-ಅವಶ್ಯಕತೆಗಳು",
+      "type": "chunk",
+      "script_words": 32,
+      "generated_at": "2026-04-02 17:15:52"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "67ee6ee45f0ea8a69c6b0c274db84dcd",
+      "wav_file": "003_definition_0.wav",
+      "duration": 39.651,
+      "slide_title": "ಪೆಟ್ರೋಲಿಯಂ ಶುದ್ದೀಕರಣ (Petroleum Refining)",
+      "type": "definition",
+      "script_words": 50,
+      "generated_at": "2026-04-02 17:16:03"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "a190d5a918cdd44e9f47d04f69e3c135",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 48.851,
+      "slide_title": "ಶುದ್ದೀಕರಣ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 17:16:06"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "f66ba71f77d9a9bdd9ba279a1b0fd42f",
+      "wav_file": "001_intro_0.wav",
+      "duration": 53.291,
+      "slide_title": "ಪೆಟ್ರೋಲಿಯಂ ಶುದ್ದೀಕರಣ ಮತ್ತು ಅದರ ಉತ್ಪನ್ನಗಳು",
+      "type": "chunk",
+      "script_words": 76,
+      "generated_at": "2026-04-02 17:16:15"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "bddd0741f0a30f0c585a9ff71f239d02",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 38.251,
+      "slide_title": "ಶುದ್ದೀಕರಣದಿಂದ ದೊರೆಯುವ ಉತ್ಪನ್ನಗಳು",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-04-02 17:16:31"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "da0c376b54d9d535a1f58afe54b1f05f",
+      "wav_file": "006_recap_0.wav",
+      "duration": 49.771,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 60,
+      "generated_at": "2026-04-02 17:17:12"
+    }
+  }
+}

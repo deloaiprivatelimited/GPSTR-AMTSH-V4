@@ -1,0 +1,36 @@
+{
+  "type": "problem_setup",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಜ್ಞಾತ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈ ಪ್ರಮೇಯದ ಅನ್ವಯವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ತ್ರಿಭುಜದಲ್ಲಿ, ಎರಡು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ಅಳತೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ, ಅವು 50 ಡಿಗ್ರಿ ಮತ್ತು 70 ಡಿಗ್ರಿ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಬಾಹ್ಯ ಕೋನ x ನ ಬೆಲೆಯನ್ನು. ದತ್ತಾಂಶದ ಪ್ರಕಾರ, ಅಂತರಾಭಿಮುಖ ಕೋನಗಳು 50 ಡಿಗ್ರಿ ಮತ್ತು 70 ಡಿಗ್ರಿ. ನಾವು ಬಾಹ್ಯ ಕೋನ x ನ ಅಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇದಕ್ಕಾಗಿ ನಾವು ಇದೀಗ ಕಲಿತ ಬಾಹ್ಯ ಕೋನದ ಗುಣವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ಈ ಪ್ರಮೇಯದ ಅನ್ವಯವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ತ್ರಿಭುಜದಲ್ಲಿ, ಎರಡು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ಅಳತೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ, ಅವು $50^\\circ$ ಮತ್ತು $70^\\circ$. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಬಾಹ್ಯ ಕೋನ $x$ ನ ಬೆಲೆಯನ್ನು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಚಿತ್ರದಲ್ಲಿ ನೀಡಿದ ತ್ರಿಭುಜದ ಬಾಹ್ಯ ಕೋನ $x$ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ದತ್ತ: ಅಂತರಾಭಿಮುಖ ಕೋನಗಳು = $50^\\circ$ ಮತ್ತು $70^\\circ$.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಬಾಹ್ಯ ಕೋನ $x$ ನ ಅಳತೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple triangle with one side extended. The two interior opposite angles are clearly labeled as 50° and 70°. The exterior angle is labeled with the variable 'x'.",
+    "labels": "Angles 50°, 70°, x.",
+    "mathematical_significance": "Provides a concrete numerical problem to apply the Exterior Angle Theorem.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-1_concept_2_chunk_014"
+}

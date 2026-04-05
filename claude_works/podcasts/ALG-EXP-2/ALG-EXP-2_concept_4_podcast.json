@@ -1,0 +1,216 @@
+{
+  "module_id": "ALG-EXP-2_concept_4",
+  "module_title": "ಬಹುಪದೋಕ್ತಿಯಿಂದ ಏಕಪದೋಕ್ತಿಯ ಗುಣಾಕಾರ",
+  "podcast_meta": {
+    "estimated_duration_minutes": 4.5,
+    "total_dialogues": 33,
+    "sections_covered": [
+      "intro",
+      "formula",
+      "example",
+      "exam_tips",
+      "recap"
+    ],
+    "content_density": "heavy"
+  },
+  "dialogues": [
+    {
+      "index": 1,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಜಿ ಪಿ ಎಸ್ ಟಿ ಆರ್ ಗಣಿತ ರಿವಿಷನ್ ಪಾಡ್ಕಾಸ್ಟ್ ಸರಣಿಗೆ ಸ್ವಾಗತ. ನಾನು ನಿಮ್ಮ ಗುರು. ಇಂದು ನಾವು ಬೀಜಗಣಿತದ ಒಂದು ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆ, ಬಹುಪದೋಕ್ತಿಯಿಂದ ಏಕಪದೋಕ್ತಿಯ ಗುಣಾಕಾರದ ಬಗ್ಗೆ ಚರ್ಚಿಸೋಣ."
+    },
+    {
+      "index": 2,
+      "speaker": "student",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ ಗುರುಗಳೇ. ನಾನು ಸಿದ್ಧನಿದ್ದೇನೆ. ಇದು ಬೀಜೋಕ್ತಿಗಳನ್ನು ಸರಳೀಕರಿಸಲು ಬಹಳ ಮುಖ್ಯವಾದ ಹಂತ ಅಲ್ವಾ?"
+    },
+    {
+      "index": 3,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಹೌದು, ಖಂಡಿತ. ಇದರ ಮೂಲತತ್ವ ವಿತರಣಾ ನಿಯಮ, ಅಂದರೆ ಡಿಸ್ಟ್ರಿಬ್ಯೂಟಿವ್ ಲಾ. ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಹೇಳುವುದಾದರೆ, a into b plus c equals a b plus a c. ಅಂದರೆ ಆವರಣದ ಹೊರಗಿನ ಪದದಿಂದ ಒಳಗಿನ ಪ್ರತಿಯೊಂದು ಪದವನ್ನು ಗುಣಿಸಬೇಕು."
+    },
+    {
+      "index": 4,
+      "speaker": "student",
+      "section": "formula",
+      "script": "ಓಹ್ ಹಾಗಾದರೆ, ಆವರಣದ ಒಳಗೆ ಎಷ್ಟೇ ಪದಗಳಿರಲಿ, ಉದಾಹರಣೆಗೆ p into q plus r plus s ಅಂತ ಇದ್ದರೆ, ನಾವು p ಯಿಂದ q, r ಮತ್ತು s, ಮೂರನ್ನೂ ಗುಣಿಸಬೇಕಾ?"
+    },
+    {
+      "index": 5,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ನಿಖರವಾಗಿ. ಆಗ ಅದು p into q plus p into r plus p into s ಆಗುತ್ತದೆ. ಇದೇ ನಿಯಮವನ್ನು ಬಳಸಿಕೊಂಡು ನಾವು ಲೆಕ್ಕಗಳನ್ನು ಬಿಡಿಸೋಣ."
+    },
+    {
+      "index": 6,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಮೊದಲ ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. x into x minus three, plus two ಅನ್ನು ಸಂಕ್ಷೇಪಿಸಿ, x equals one ಆದಾಗ ಅದರ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ."
+    },
+    {
+      "index": 7,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಸರಿ. ಮೊದಲು ನಾವು x ನಿಂದ x minus three ಅನ್ನು ಗುಣಿಸಬೇಕು. ನಂತರ ಬಂದ ಉತ್ತರಕ್ಕೆ ಎರಡನ್ನು ಕೂಡಬೇಕು. ಕೊನೆಗೆ x ಜಾಗದಲ್ಲಿ ಒಂದನ್ನು ಹಾಕಬೇಕು."
+    },
+    {
+      "index": 8,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಉತ್ತಮ. ಹಾಗಾದರೆ, x into x ಆಗುತ್ತದೆ x squared. ಮತ್ತು x into minus three ಆಗುತ್ತದೆ minus three x. ಹಾಗಾಗಿ ನಮಗೆ ಸಿಕ್ಕಿದ್ದು x squared minus three x plus two."
+    },
+    {
+      "index": 9,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಈಗ x equals one ಹಾಕಿದರೆ, one squared minus three into one plus two. ಅಂದರೆ, one minus three plus two."
+    },
+    {
+      "index": 10,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಹೌದು. one plus two ಅಂದರೆ three. three minus three ಅಂದರೆ ಸೊನ್ನೆ. ಹಾಗಾಗಿ ಉತ್ತರ ಸೊನ್ನೆ."
+    },
+    {
+      "index": 11,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಇದು ಸರಳವಾಗಿತ್ತು. ಇದರಲ್ಲಿ ಸ್ವಲ್ಪ ಕಠಿಣವಾದ ಉದಾಹರಣೆ ಇದೆಯಾ ಗುರುಗಳೇ?"
+    },
+    {
+      "index": 12,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಖಂಡಿತ. ಇದೇ ರೀತಿ ಇನ್ನೊಂದು ಲೆಕ್ಕ ನೋಡೋಣ. three y into two y minus seven, minus three into y minus four, minus sixty three. ಇಲ್ಲಿ y equals minus two ಆದಾಗ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಬೇಕು."
+    },
+    {
+      "index": 13,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಓಹ್, ಇಲ್ಲಿ ಎರಡು ಗುಣಾಕಾರಗಳಿವೆ. ಮತ್ತು ಋಣ ಸಂಖ್ಯೆ ಅಂದರೆ ಮೈನಸ್ ನಂಬರ್ ಕೂಡ ಇದೆ. ಗಮನವಿಟ್ಟು ಮಾಡಬೇಕು."
+    },
+    {
+      "index": 14,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಹೌದು. ಮೊದಲು three y ಯಿಂದ two y minus seven ಅನ್ನು ಗುಣಿಸೋಣ. three y into two y ಅಂದರೆ six y squared. three y into minus seven ಅಂದರೆ minus twenty one y."
+    },
+    {
+      "index": 15,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಈಗ ಎರಡನೇ ಭಾಗ, minus three into y minus four. ಇಲ್ಲಿ ಅನೇಕರು ತಪ್ಪು ಮಾಡುತ್ತಾರೆ. minus three into y ಅಂದರೆ minus three y. ಹಾಗೂ minus three into minus four ಅಂದರೆ plus twelve ಆಗುತ್ತದೆ."
+    },
+    {
+      "index": 16,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಹೌದು, ಇದು ಬಹಳ ಮುಖ್ಯವಾದ ಅಂಶ. minus into minus is plus. ಹಾಗಾಗಿ ಅದು minus three y plus twelve ಆಗುತ್ತೆ, minus three y minus twelve ಅಲ್ಲ."
+    },
+    {
+      "index": 17,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಸರಿಯಾಗಿ ಹೇಳಿದೆ. ಈಗ ಎಲ್ಲವನ್ನೂ ಒಟ್ಟಿಗೆ ಬರೆಯೋಣ. six y squared minus twenty one y minus three y plus twelve minus sixty three."
+    },
+    {
+      "index": 18,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಸಜಾತೀಯ ಪದಗಳನ್ನು ಕೂಡಿಸಿದರೆ, minus twenty one y ಮತ್ತು minus three y ಸೇರಿ minus twenty four y ಆಗುತ್ತದೆ. ಹಾಗೆಯೇ plus twelve ಮತ್ತು minus sixty three ಸೇರಿ minus fifty one ಆಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ six y squared minus twenty four y minus fifty one."
+    },
+    {
+      "index": 19,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಅತ್ಯುತ್ತಮ. ಈಗ y equals minus two ಅನ್ನು ಆದೇಶಿಸೋಣ. six into minus two whole squared, minus twenty four into minus two, minus fifty one."
+    },
+    {
+      "index": 20,
+      "speaker": "student",
+      "section": "example",
+      "script": "minus two whole squared ಅಂದರೆ four. so six into four ಅಂದರೆ twenty four. அடுத்து, minus twenty four into minus two ಅಂದರೆ plus forty eight. ಹಾಗಾಗಿ, twenty four plus forty eight minus fifty one."
+    },
+    {
+      "index": 21,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಸರಿ. twenty four plus forty eight ಅಂದರೆ seventy two. seventy two minus fifty one ಅಂದರೆ twenty one. ಹಾಗಾಗಿ ಅಂತಿಮ ಉತ್ತರ ಇಪ್ಪತ್ತೊಂದು."
+    },
+    {
+      "index": 22,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಇನ್ನೊಂದು ಮಾದರಿಯ ಲೆಕ್ಕ ನೋಡೋಣ. five m into three minus m ಮತ್ತು six m squared minus thirteen m ಅನ್ನು ಕೂಡಿಸಿ."
+    },
+    {
+      "index": 23,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಸರಿ. ಮೊದಲು five m into three minus m ಅನ್ನು ಸಂಕ್ಷೇಪಿಸಬೇಕು. five m into three ಅಂದರೆ fifteen m. five m into minus m ಅಂದರೆ minus five m squared."
+    },
+    {
+      "index": 24,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಹೌದು, ಈಗ ನಮ್ಮ ಹತ್ತಿರ fifteen m minus five m squared ಇದೆ. ಇದಕ್ಕೆ ನಾವು six m squared minus thirteen m ಅನ್ನು ಕೂಡಿಸಬೇಕು. ಸಜಾತೀಯ ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ಸೇರಿಸೋಣ."
+    },
+    {
+      "index": 25,
+      "speaker": "student",
+      "section": "example",
+      "script": "m squared ಪದಗಳನ್ನು ನೋಡಿದರೆ, minus five m squared plus six m squared ಅಂದರೆ m squared ಆಗುತ್ತದೆ. m ಪದಗಳನ್ನು ನೋಡಿದರೆ, fifteen m minus thirteen m ಅಂದರೆ two m ಆಗುತ್ತದೆ."
+    },
+    {
+      "index": 26,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಸರಿಯಾಗಿದೆ. ಹಾಗಾಗಿ ಉತ್ತರ m squared plus two m. ನೋಡಿ, ಮೊದಲು ಗುಣಾಕಾರ ಮಾಡಿ, ನಂತರ ಸಂಕಲನ ಅಥವಾ ವ್ಯವಕಲನ ಮಾಡಬೇಕು."
+    },
+    {
+      "index": 27,
+      "speaker": "student",
+      "section": "exam_tips",
+      "script": "ಗುರುಗಳೇ, ಜಿ ಪಿ ಎಸ್ ಟಿ ಆರ್ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಈ ಭಾಗದಿಂದ ಯಾವ ತರಹದ ಪ್ರಶ್ನೆಗಳನ್ನು ನಿರೀಕ್ಷಿಸಬಹುದು?"
+    },
+    {
+      "index": 28,
+      "speaker": "teacher",
+      "section": "exam_tips",
+      "script": "ಇದು ಹೆಚ್ಚು ಅಂಕ ಬರುವ ಭಾಗ. ಒಂದು ಅಂಕದ ಬಹು ಆಯ್ಕೆ ಪ್ರಶ್ನೆಗಳಲ್ಲಿ, ಒಂದು ಏಕಪದೋಕ್ತಿ ಮತ್ತು ದ್ವಿಪದೋಕ್ತಿ ಕೊಟ್ಟು ಗುಣಲಬ್ಧ ಕೇಳಬಹುದು. ಎರಡು ಅಂಕಗಳಿಗೆ ನಾವು ಈಗ ಬಿಡಿಸಿದ ಹಾಗೆ ಸಂಕ್ಷೇಪಿಸಿ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವ ಪ್ರಶ್ನೆಗಳು ಬರುತ್ತವೆ."
+    },
+    {
+      "index": 29,
+      "speaker": "student",
+      "section": "exam_tips",
+      "script": "ಹಾಗಾದರೆ ಮುಖ್ಯವಾಗಿ ಗಮನಿಸಬೇಕಾದ ಅಂಶ ಯಾವುದು?"
+    },
+    {
+      "index": 30,
+      "speaker": "teacher",
+      "section": "exam_tips",
+      "script": "ಅತಿ ದೊಡ್ಡ ತಪ್ಪು ಎಂದರೆ, ಆವರಣದ ಹೊರಗಿನ ಪದದಿಂದ ಒಳಗಿನ ಮೊದಲ ಪದವನ್ನು ಮಾತ್ರ ಗುಣಿಸಿ, ಉಳಿದವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು. ಹಾಗೂ ಚಿಹ್ನೆಗಳ ಗುಣಾಕಾರದಲ್ಲಿ, ವಿಶೇಷವಾಗಿ ಮೈನಸ್ ಚಿಹ್ನೆ ಇದ್ದಾಗ ಬಹಳ ಎಚ್ಚರಿಕೆ ವಹಿಸಬೇಕು."
+    },
+    {
+      "index": 31,
+      "speaker": "teacher",
+      "section": "recap",
+      "script": "ಹಾಗಾದರೆ, ಇಂದಿನ ಪಾಠವನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಹೇಳುವುದಾದರೆ, ಒಂದು ಏಕಪದೋಕ್ತಿಯಿಂದ ಬಹುಪದೋಕ್ತಿಯನ್ನು ಗುಣಿಸಲು ವಿತರಣಾ ನಿಯಮ ಬಳಸಿ. ಹೊರಗಿನ ಪದದಿಂದ ಒಳಗಿನ ಪ್ರತಿಯೊಂದು ಪದವನ್ನೂ ಗುಣಿಸಿ. ಚಿಹ್ನೆಗಳ ಬಗ್ಗೆ ಜಾಗರೂಕರಾಗಿರಿ. ಕೊನೆಯಲ್ಲಿ ಸಜಾತೀಯ ಪದಗಳನ್ನು ಕೂಡಿಸಿ."
+    },
+    {
+      "index": 32,
+      "speaker": "student",
+      "section": "recap",
+      "script": "ಅರ್ಥವಾಯಿತು ಗುರುಗಳೇ. ಮುಖ್ಯವಾಗಿ ವಿತರಣಾ ನಿಯಮವನ್ನು ಪ್ರತಿಯೊಂದು ಪದಕ್ಕೂ ಮರೆಯದೆ ಅನ್ವಯಿಸಬೇಕು ಮತ್ತು ಚಿಹ್ನೆಗಳನ್ನು ಸರಿಯಾಗಿ ಗುಣಿಸಬೇಕು. ಇದೇ ಪ್ರಮುಖ ಪಾಠ."
+    },
+    {
+      "index": 33,
+      "speaker": "teacher",
+      "section": "recap",
+      "script": "ಉತ್ತಮ. ಇದನ್ನು ಚೆನ್ನಾಗಿ ಅಭ್ಯಾಸ ಮಾಡಿ. ಮುಂದಿನ ಪಾಡ್ಕಾಸ್ಟ್ ನಲ್ಲಿ ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ. ಶುಭವಾಗಲಿ."
+    }
+  ]
+}

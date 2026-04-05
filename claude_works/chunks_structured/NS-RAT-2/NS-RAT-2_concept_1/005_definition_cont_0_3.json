@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಅತಿ ಮುಖ್ಯ ನಿಯಮ: q ಸೊನ್ನೆಗೆ ಸಮನಲ್ಲ",
+  "script": "ಈಗ ವ್ಯಾಖ್ಯೆಯ ಎರಡನೇ ಮತ್ತು ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ನಿಯಮವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಛೇದ q ಸೊನ್ನೆಗೆ ಸಮನಾಗಿರಬಾರದು. ಏಕೆ ಈ ನಿಯಮ ಇಷ್ಟು ಮುಖ್ಯ? ಏಕೆಂದರೆ ಗಣಿತದಲ್ಲಿ ಸೊನ್ನೆಯಿಂದ ಭಾಗಿಸುವುದು ಅನಿರ್ದಿಷ್ಟ, ಅಂದರೆ ಅದನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲಾಗಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ಸೊನ್ನೆ ಬೈ ಐದು ಎಂದರೆ ಸೊನ್ನೆ. ಇದು ಒಂದು ಮಾನ್ಯವಾದ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ಆದರೆ, ಐದು ಬೈ ಸೊನ್ನೆ ಎನ್ನುವುದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಲ್ಲ. ಇದನ್ನು ನಾವು 'ಅನಿರ್ದಿಷ್ಟ' ಅಥವಾ 'ಅವ್ಯಾಖ್ಯಾನಿತ' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹಾಗಾಗಿ, ಯಾವುದೇ ಸಂಖ್ಯೆಯನ್ನು p ಬೈ q ರೂಪದಲ್ಲಿ ಬರೆದಾಗ, q ಸೊನ್ನೆ ಆಗಿಲ್ಲ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ವ್ಯಾಖ್ಯೆಯ ಎರಡನೇ ಮತ್ತು ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ನಿಯಮವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಛೇದ $q$ ಸೊನ್ನೆಗೆ ಸಮನಾಗಿರಬಾರದು ($q \\neq 0$). ಏಕೆ ಈ ನಿಯಮ ಇಷ್ಟು ಮುಖ್ಯ? ಏಕೆಂದರೆ ಗಣಿತದಲ್ಲಿ ಸೊನ್ನೆಯಿಂದ ಭಾಗಿಸುವುದು ಅನಿರ್ದಿಷ್ಟ, ಅಂದರೆ ಅದನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲಾಗಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, $\\frac{0}{5} = 0$. ಇದು ಒಂದು ಮಾನ್ಯವಾದ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ. ಆದರೆ, $\\frac{5}{0}$ ಎನ್ನುವುದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಲ್ಲ. ಇದನ್ನು ನಾವು 'ಅನಿರ್ದಿಷ್ಟ' ಅಥವಾ 'ಅವ್ಯಾಖ್ಯಾನಿತ' (undefined) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹಾಗಾಗಿ, ಯಾವುದೇ ಸಂಖ್ಯೆಯನ್ನು $\\frac{p}{q}$ ರೂಪದಲ್ಲಿ ಬರೆದಾಗ, $q$ ಸೊನ್ನೆ ಆಗಿಲ್ಲ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಛೇದ $q$ ಸೊನ್ನೆಯಾಗಿದ್ದರೆ, ಭಾಗಾಕಾರವು 'ಅನಿರ್ದಿಷ್ಟ' (undefined) ಆಗುತ್ತದೆ.",
+    "ಸರಿಯಾದ ಉದಾಹರಣೆ: $\\frac{0}{5} = 0$. ಇದು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ (ಇಲ್ಲಿ $p=0, q=5$).",
+    "ತಪ್ಪಾದ ಉದಾಹರಣೆ: $\\frac{5}{0}$. ಇದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಲ್ಲ (ಛೇದವು ಸೊನ್ನೆಯಾಗಿದೆ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-panel image comparing a valid and an invalid fraction. The left panel is titled 'ಮಾನ್ಯ (Valid)' in green, showing the expression 0/5 = 0 with a large green checkmark. The right panel is titled 'ಅಮಾನ್ಯ (Invalid)' in red, showing the expression 5/0 with a large red 'X' over it and the word 'ಅನಿರ್ದಿಷ್ಟ (Undefined)' below it.",
+    "labels": "Valid, Invalid, 0/5, 5/0, Undefined, ಮಾನ್ಯ, ಅಮಾನ್ಯ, ಅನಿರ್ದಿಷ್ಟ",
+    "mathematical_significance": "Visually reinforces the critical rule that the denominator cannot be zero by contrasting a valid case (numerator is zero) with an invalid one (denominator is zero).",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "NS-RAT-2_concept_1_chunk_005"
+}

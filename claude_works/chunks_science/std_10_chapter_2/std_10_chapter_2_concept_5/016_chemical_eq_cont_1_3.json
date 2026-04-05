@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಯಾನೀಕರಣ ಪ್ರಕ್ರಿಯೆ",
+  "script": "ಹಾಗಾದರೆ, ಅಯಾನೀಕರಣ ಅಂದರೆ ಏನು? ಘನ NaOH ನಲ್ಲಿ, Na ಪ್ಲಸ್ ಮತ್ತು OH ಮೈನಸ್ ಅಯಾನುಗಳು ಒಟ್ಟಿಗೆ ಬಂಧಿಸಲ್ಪಟ್ಟಿರುತ್ತವೆ. ನೀರಿಗೆ ಸೇರಿಸಿದಾಗ, ಧ್ರುವೀಯ ನೀರಿನ ಅಣುಗಳು ಈ ಅಯಾನುಗಳನ್ನು ಬೇರ್ಪಡಿಸಿ, ಅವುಗಳ ಸುತ್ತ ಆವರಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಸಮೀಕರಣದಲ್ಲಿರುವ 'aq' ಎಂಬ ಸಂಕೇತವು 'ಜಲೀಯ' ಅಥವಾ 'aqueous' ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದರರ್ಥ, ಅಯಾನುಗಳು ಈಗ ನೀರಿನಲ್ಲಿ ಮುಕ್ತವಾಗಿ ಚಲಿಸುತ್ತಿವೆ. ಈ ಮುಕ್ತ ಅಯಾನುಗಳ ಚಲನೆಯಿಂದಾಗಿಯೇ ಪ್ರತ್ಯಾಮ್ಲದ ಜಲೀಯ ದ್ರಾವಣವು ವಿದ್ಯುತ್‌ನ್ನು ಸಾಗಿಸುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಅಯಾನೀಕರಣ ಅಂದರೆ ಏನು? ಘನ NaOH ನಲ್ಲಿ, Na⁺ ಮತ್ತು OH⁻ ಅಯಾನುಗಳು ಒಟ್ಟಿಗೆ ಬಂಧಿಸಲ್ಪಟ್ಟಿರುತ್ತವೆ. ನೀರಿಗೆ ಸೇರಿಸಿದಾಗ, ಧ್ರುವೀಯ ನೀರಿನ ಅಣುಗಳು (H₂O) ಈ ಅಯಾನುಗಳನ್ನು ಬೇರ್ಪಡಿಸಿ, ಅವುಗಳ ಸುತ್ತ ಆವರಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+  "display_bullets": [
+    "ಅಯಾನೀಕರಣ: ಅಯಾನುಗಳಾಗಿ ವಿಭಜನೆಯಾಗುವ ಪ್ರಕ್ರಿಯೆ.",
+    "ಜಲೀಯ ದ್ರಾವಣ (aq): ಅಯಾನುಗಳು ನೀರಿನಲ್ಲಿ ಕರಗಿ, ಮುಕ್ತವಾಗಿ ಚಲಿಸುತ್ತವೆ.",
+    "ವಿದ್ಯುತ್ ವಾಹಕತೆ: ಈ ಮುಕ್ತ ಅಯಾನುಗಳ ಚಲನೆಯಿಂದಾಗಿ ಪ್ರತ್ಯಾಮ್ಲದ ಜಲೀಯ ದ್ರಾವಣವು ವಿದ್ಯುತ್‌ನ್ನು ಸಾಗಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a central Na+ ion surrounded by the oxygen-ends of water molecules, and a central OH- ion surrounded by the hydrogen-ends of water molecules. This illustrates the concept of hydration/solvation.",
+    "labels": "Na⁺ ಅಯಾನು, OH⁻ ಅಯಾನು, ನೀರಿನ ಅಣುಗಳು (H₂O)",
+    "scientific_significance": "Shows how polar water molecules surround and stabilize the ions produced during the ionization of NaOH, explaining the 'aqueous' state.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_2_concept_5_chunk_016"
+}

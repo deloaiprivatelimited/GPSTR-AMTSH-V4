@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಗಡಿಯಾರದ ಕೋನ",
+  "script": "ಈಗ ಒಂದು ಕುತೂಹಲಕಾರಿ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಗಡಿಯಾರದಲ್ಲಿ ಒಂದು ಗಂಟೆಯಾದಾಗ ಗಂಟೆ ಮತ್ತು ನಿಮಿಷದ ಮುಳ್ಳುಗಳ ನಡುವಿನ ಕೋನ ಮೂವತ್ತು ಡಿಗ್ರಿ ಆಗಿದೆ. ಇದು ಏಕೆ ಎಂದು ನಾವು ವಿವರಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಕುತೂಹಲಕಾರಿ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಗಡಿಯಾರದಲ್ಲಿ 1 ಗಂಟೆಯಾದಾಗ ಗಂಟೆ ಮತ್ತು ನಿಮಿಷದ ಮುಳ್ಳುಗಳ ನಡುವಿನ ಕೋನ $30^\\circ$ ಆಗಿದೆ. ಇದು ಏಕೆ ಎಂದು ನಾವು ವಿವರಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಗಡಿಯಾರದಲ್ಲಿ 1 ಗಂಟೆಯಾದಾಗ ಗಂಟೆ ಮತ್ತು ನಿಮಿಷದ ಮುಳ್ಳುಗಳ ನಡುವಿನ ಕೋನ $30^\\circ$ ಆಗಿದೆ. ಏಕೆ?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple analog clock face showing the time as 1:00. The hour hand points to '1' and the minute hand points to '12'. The angle between the hands should be clearly visible.",
+    "labels": "12, 1, ಗಂಟೆಯ ಮುಳ್ಳು, ನಿಮಿಷದ ಮುಳ್ಳು",
+    "mathematical_significance": "Illustrates the initial setup of the problem, showing the relative positions of the clock hands at 1 o'clock.",
+    "placeholder_note": "Image to be generated"
+  },
+  "source_example_id": "GEO-LA-1_example_1",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "GEO-LA-1_concept_2_chunk_057"
+}

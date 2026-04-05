@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಬೀಜೋಕ್ತಿಯ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. a ಸಮ ಮೂರು ಮತ್ತು b ಸಮ ಎರಡು ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ನಾವು ಈ ಕೆಳಗಿನ ಬೀಜೋಕ್ತಿಗಳ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲನೆಯದು, a ಪ್ಲಸ್ b. ಎರಡನೆಯದು, ಏಳು a ಮೈನಸ್ ನಾಲ್ಕು b. ಮೂರನೆಯದು, a ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಎರಡು a b ಪ್ಲಸ್ b ಸ್ಕ್ವೇರ್ಡ್. ಮತ್ತು ನಾಲ್ಕನೆಯದು, a ಕ್ಯೂಬ್ಡ್ ಮೈನಸ್ b ಕ್ಯೂಬ್ಡ್. ನಾವು ಒಂದೊಂದಾಗಿ ಇವುಗಳ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $a=3$ ಮತ್ತು $b=2$ ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ನಾವು ಈ ಕೆಳಗಿನ ಬೀಜೋಕ್ತಿಗಳ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲನೆಯದು, $a+b$. ಎರಡನೆಯದು, $7a-4b$. ಮೂರನೆಯದು, $a^2 + 2ab + b^2$. ಮತ್ತು ನಾಲ್ಕನೆಯದು, $a^3-b^3$. ನಾವು ಒಂದೊಂದಾಗಿ ಇವುಗಳ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಬೆಲೆಗಳು: $a=3$ ಮತ್ತು $b=2$.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು:",
+    "(i) $a+b$",
+    "(ii) $7a-4b$",
+    "(iii) $a^2 + 2ab + b^2$",
+    "(iv) $a^3-b^3$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EXP-1_example_6",
+  "chunk_id": "ALG-EXP-1_concept_5_chunk_012"
+}

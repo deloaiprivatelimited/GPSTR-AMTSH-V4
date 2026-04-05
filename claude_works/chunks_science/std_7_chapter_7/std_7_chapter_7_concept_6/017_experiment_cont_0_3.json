@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಏನನ್ನು ಗಮನಿಸಿದೆವು?",
+  "script": "ಒಂದು ದಿನದ ನಂತರ ಸಸ್ಯವನ್ನು ಗಮನಿಸಿದಾಗ, ನಮಗೆ ಆಶ್ಚರ್ಯಕರ ಬದಲಾವಣೆಗಳು ಕಾಣಿಸುತ್ತವೆ. ಸಸ್ಯದ ಕಾಂಡ ಮತ್ತು ಎಲೆಗಳ ನಾಳಗಳಲ್ಲಿ ಸೂಕ್ಷ್ಮವಾದ ಕೆಂಪು ಗೆರೆಗಳು ಕಾಣಿಸುತ್ತವೆ. ಇದು ಕೆಂಪು ಬಣ್ಣದ ನೀರು ಕಾಂಡದ ಮೂಲಕ ಮೇಲಕ್ಕೆ ಸಾಗಿದೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇನ್ನೂ ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಲು, ಕಾಂಡವನ್ನು ಅಡ್ಡವಾಗಿ ಕತ್ತರಿಸಿ ಭೂತಗನ್ನಡಿಯಿಂದ ನೋಡಿದಾಗ, ಕಾಂಡದ ಒಳಗಿನ ವರ್ತುಲಾಕಾರದ ರಚನೆಗಳಲ್ಲಿ, ಅಂದರೆ ಕೈಲಮ್ ಅಂಗಾಂಶವು ಕೆಂಪಾಗಿರುವುದು ಸ್ಪಷ್ಟವಾಗಿ ಗೋಚರಿಸುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ಇದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು.",
+  "script_display": "ಒಂದು ದಿನದ ನಂತರ ಸಸ್ಯವನ್ನು ಗಮನಿಸಿದಾಗ, ನಮಗೆ ಆಶ್ಚರ್ಯಕರ ಬದಲಾವಣೆಗಳು ಕಾಣಿಸುತ್ತವೆ. ಸಸ್ಯದ ಕಾಂಡ ಮತ್ತು ಎಲೆಗಳ ನಾಳಗಳಲ್ಲಿ ಸೂಕ್ಷ್ಮವಾದ ಕೆಂಪು ಗೆರೆಗಳು ಕಾಣಿಸುತ್ತವೆ. ಇದು ಕೆಂಪು ಬಣ್ಣದ ನೀರು ಕಾಂಡದ ಮೂಲಕ ಮೇಲಕ್ಕೆ ಸಾಗಿದೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇನ್ನೂ ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಲು, ಕಾಂಡವನ್ನು ಅಡ್ಡವಾಗಿ ಕತ್ತರಿಸಿ ಭೂತಗನ್ನಡಿಯಿಂದ ನೋಡಿದಾಗ, ಕಾಂಡದ ಒಳಗಿನ ವರ್ತುಲಾಕಾರದ ರಚನೆಗಳಲ್ಲಿ, ಅಂದರೆ ಕೈಲಮ್ (xylem) ಅಂಗಾಂಶವು ಕೆಂಪಾಗಿರುವುದು ಸ್ಪಷ್ಟವಾಗಿ ಗೋಚರಿಸುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ಇದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು.",
+  "display_bullets": [
+    "ಕಾಂಡ ಮತ್ತು ಎಲೆಗಳ ನಾಳಗಳಲ್ಲಿ ಕೆಂಪು ಗೆರೆಗಳು ಕಾಣಿಸುತ್ತವೆ.",
+    "ಕಾಂಡವನ್ನು ಅಡ್ಡವಾಗಿ ಕತ್ತರಿಸಿದಾಗ, ಕೈಲಮ್ ಅಂಗಾಂಶವು ಕೆಂಪಾಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the cross-section of the plant stem. The xylem vessels are colored red, indicating the absorption of red ink. Another part of the diagram shows the whole plant with red lines going up the stem and into the leaf veins.",
+    "labels": "ಕಾಂಡದ ಅಡ್ಡಛೇದ, ಕೆಂಪಾದ ಕೈಲಮ್, ಎಲೆಯ ನಾಳಗಳು",
+    "scientific_significance": "Visually confirms that the red-colored water has traveled up the stem specifically through the xylem tissue.",
+    "placeholder_note": "Image to be generated showing the stem cross-section with red xylem."
+  },
+  "chunk_id": "std_7_chapter_7_concept_6_chunk_017"
+}

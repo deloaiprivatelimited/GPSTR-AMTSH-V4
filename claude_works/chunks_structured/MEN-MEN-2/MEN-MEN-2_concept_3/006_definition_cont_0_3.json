@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಗಾತ್ರದ ಸಾಮಾನ್ಯ ಏಕಮಾನಗಳು",
+  "script": "ಗಾತ್ರವನ್ನು ಅಳೆಯಲು ನಾವು ಬಳಸುವ ಕೆಲವು ಸಾಮಾನ್ಯ ಏಕಮಾನಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು, ಘನ ಸೆಂಟಿಮೀಟರ್, ಇದನ್ನು ನಾವು ಸಿ ಎಂ ಕ್ಯೂಬ್ಡ್ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇದು ಒಂದು ಸೆಂಟಿಮೀಟರ್ ಉದ್ದ, ಒಂದು ಸೆಂಟಿಮೀಟರ್ ಅಗಲ ಮತ್ತು ಒಂದು ಸೆಂಟಿಮೀಟರ್ ಎತ್ತರವಿರುವ ಘನದ ಗಾತ್ರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸಕ್ಕರೆ ತುಂಡು ಅಥವಾ ದಾಳದಂತಹ ಚಿಕ್ಕ ವಸ್ತುಗಳ ಗಾತ್ರವನ್ನು ಅಳೆಯಲು ಇದನ್ನು ಬಳಸುತ್ತೇವೆ. ಎರಡನೆಯದು, ಘನ ಮೀಟರ್, ಇದನ್ನು ಎಂ ಕ್ಯೂಬ್ಡ್ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇದು ಒಂದು ಮೀಟರ್ ಅಳತೆಯ ಬದಿಗಳಿರುವ ದೊಡ್ಡ ಘನದ ಗಾತ್ರ. ಕೊಠಡಿಗಳು, ಕಟ್ಟಡಗಳು ಅಥವಾ ದೊಡ್ಡ ಟ್ಯಾಂಕ್‌ಗಳಂತಹ ದೊಡ್ಡ ವಸ್ತುಗಳ ಗಾತ್ರವನ್ನು ಅಳೆಯಲು ಇದನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಗಾತ್ರವನ್ನು ಅಳೆಯಲು ನಾವು ಬಳಸುವ ಕೆಲವು ಸಾಮಾನ್ಯ ಏಕಮಾನಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು, ಘನ ಸೆಂಟಿಮೀಟರ್ ($cm^3$). ಇದು 1 cm ಉದ್ದ, 1 cm ಅಗಲ ಮತ್ತು 1 cm ಎತ್ತರವಿರುವ ಘನದ ಗಾತ್ರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸಕ್ಕರೆ ತುಂಡು ಅಥವಾ ದಾಳದಂತಹ ಚಿಕ್ಕ ವಸ್ತುಗಳ ಗಾತ್ರವನ್ನು ಅಳೆಯಲು ಇದನ್ನು ಬಳಸುತ್ತೇವೆ. ಎರಡನೆಯದು, ಘನ ಮೀಟರ್ ($m^3$). ಇದು 1 m ಅಳತೆಯ ಬದಿಗಳಿರುವ ದೊಡ್ಡ ಘನದ ಗಾತ್ರ. ಕೊಠಡಿಗಳು, ಕಟ್ಟಡಗಳು ಅಥವಾ ದೊಡ್ಡ ಟ್ಯಾಂಕ್‌ಗಳಂತಹ ದೊಡ್ಡ ವಸ್ತುಗಳ ಗಾತ್ರವನ್ನು ಅಳೆಯಲು ಇದನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಘನ ಸೆಂಟಿಮೀಟರ್ ($cm^3$): 1 cm ಬದಿಯಿರುವ ಘನದ ಗಾತ್ರ.",
+    "ಘನ ಮೀಟರ್ ($m^3$): 1 m ಬದಿಯಿರುವ ಘನದ ಗಾತ್ರ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "video_style_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. On the left, a small cube labeled '1 cm³' with sides marked '1 cm'. On the right, a much larger cube labeled '1 m³' with sides marked '1 m'. A small human figure can be placed next to the large cube for scale.",
+    "labels": "1 cm³, 1 m³",
+    "mathematical_significance": "Provides a strong visual contrast between the two most common units of volume, helping students build an intuition for their relative sizes.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-MEN-2_concept_3_chunk_006"
+}

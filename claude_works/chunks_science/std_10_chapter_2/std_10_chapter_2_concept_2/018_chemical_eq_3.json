@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಮ್ಲ ಮತ್ತು ಲೋಹದ ಕಾರ್ಬೋನೇಟ್‌ನ ವರ್ತನೆ",
+  "script": "ಈಗ ನಾವು ಆಮ್ಲವು ಲೋಹದ ಕಾರ್ಬೋನೇಟ್‌ನೊಂದಿಗೆ ಹೇಗೆ ವರ್ತಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಒಂದು ನಿರ್ದಿಷ್ಟ ಉದಾಹರಣೆಯೊಂದಿಗೆ ನೋಡೋಣ. ಎರಡು ಅಣುಗಳ ಜಲೀಯ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವು ಘನ ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್‌ನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಎರಡು ಅಣುಗಳ ಜಲೀಯ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್, ಒಂದು ಅಣು ನೀರು ಮತ್ತು ಒಂದು ಅಣು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಆಮ್ಲವು ಲೋಹದ ಕಾರ್ಬೋನೇಟ್‌ನೊಂದಿಗೆ ಹೇಗೆ ವರ್ತಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಒಂದು ನಿರ್ದಿಷ್ಟ ಉದಾಹರಣೆಯೊಂದಿಗೆ ನೋಡೋಣ. 2 ಅಣುಗಳ ಜಲೀಯ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl) ಘನ ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್‌ನೊಂದಿಗೆ (Na₂CO₃) ವರ್ತಿಸಿ, 2 ಅಣುಗಳ ಜಲೀಯ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ (NaCl), 1 ಅಣು ನೀರು (H₂O) ಮತ್ತು 1 ಅಣು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಅನಿಲವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2\\text{HCl}(\\text{aq}) + \\text{Na}_2\\text{CO}_3(\\text{s}) \\rightarrow 2\\text{NaCl}(\\text{aq}) + \\text{H}_2\\text{O}(\\text{l}) + \\text{CO}_2(\\text{g})",
+    "placeholder_note": "Balanced chemical equation for the reaction of hydrochloric acid with sodium carbonate."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_018"
+}

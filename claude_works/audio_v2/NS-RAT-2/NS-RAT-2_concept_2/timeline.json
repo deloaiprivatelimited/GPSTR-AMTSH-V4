@@ -1,0 +1,177 @@
+{
+  "module_id": "NS-RAT-2_concept_2",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 15,
+  "total_duration": 735.365,
+  "total_duration_formatted": "12:15",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಹೋಲಿಕೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 56.011,
+      "duration": 56.011,
+      "script_words": 84
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 56.611,
+      "end": 95.142,
+      "duration": 38.531,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಗುಣಲಕ್ಷಣಗಳು (ಭಾಗ 1)",
+      "type": "concept_explanation",
+      "start": 95.742,
+      "end": 142.833,
+      "duration": 47.091,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಗುಣಲಕ್ಷಣಗಳು (ಭಾಗ 1)",
+      "type": "concept_explanation",
+      "start": 143.433,
+      "end": 188.524,
+      "duration": 45.091,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_005",
+      "chunk_file": "005_property_1.json",
+      "wav_file": "005_property_1.wav",
+      "slide_title": "ಋಣ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಹೋಲಿಕೆ",
+      "type": "concept_explanation",
+      "start": 189.124,
+      "end": 249.975,
+      "duration": 60.851,
+      "script_words": 82
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_006",
+      "chunk_file": "006_property_cont_1_1.json",
+      "wav_file": "006_property_cont_1_1.wav",
+      "slide_title": "ವಿಭಿನ್ನ ಛೇದಗಳ ಹೋಲಿಕೆ",
+      "type": "concept_explanation",
+      "start": 250.575,
+      "end": 306.786,
+      "duration": 56.211,
+      "script_words": 83
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_007",
+      "chunk_file": "007_property_cont_1_2.json",
+      "wav_file": "007_property_cont_1_2.wav",
+      "slide_title": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ನಡುವಿನ ಸಂಖ್ಯೆಗಳು",
+      "type": "concept_explanation",
+      "start": 307.386,
+      "end": 364.997,
+      "duration": 57.611,
+      "script_words": 86
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_008",
+      "chunk_file": "008_property_2.json",
+      "wav_file": "008_property_2.wav",
+      "slide_title": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ನಡುವೆ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "concept_explanation",
+      "start": 365.597,
+      "end": 416.928,
+      "duration": 51.331,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_009",
+      "chunk_file": "009_property_cont_2_1.json",
+      "wav_file": "009_property_cont_2_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಛೇದಗಳನ್ನು ಸಮಾನಗೊಳಿಸುವುದು",
+      "type": "concept_explanation",
+      "start": 417.528,
+      "end": 458.859,
+      "duration": 41.331,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_010",
+      "chunk_file": "010_property_cont_2_2.json",
+      "wav_file": "010_property_cont_2_2.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಛೇದವನ್ನು ದೊಡ್ಡದಾಗಿಸುವುದು",
+      "type": "concept_explanation",
+      "start": 459.459,
+      "end": 502.11,
+      "duration": 42.651,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_011",
+      "chunk_file": "011_property_cont_2_3.json",
+      "wav_file": "011_property_cont_2_3.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಅಂತಿಮ ಉತ್ತರ",
+      "type": "concept_explanation",
+      "start": 502.71,
+      "end": 551.361,
+      "duration": 48.651,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_012",
+      "chunk_file": "012_example_0.json",
+      "wav_file": "012_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ನಡುವಿನ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು",
+      "type": "worked_example",
+      "start": 551.961,
+      "end": 576.652,
+      "duration": 24.691,
+      "script_words": 36
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_013",
+      "chunk_file": "013_example_cont_0_1.json",
+      "wav_file": "013_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ",
+      "type": "worked_example",
+      "start": 577.252,
+      "end": 649.663,
+      "duration": 72.411,
+      "script_words": 115
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_014",
+      "chunk_file": "014_example_cont_0_2.json",
+      "wav_file": "014_example_cont_0_2.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 650.263,
+      "end": 687.274,
+      "duration": 37.011,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_2_chunk_015",
+      "chunk_file": "015_recap_0.json",
+      "wav_file": "015_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಹೋಲಿಕೆ ಮತ್ತು ನಡುವಿನ ಸಂಖ್ಯೆಗಳು",
+      "type": "recap",
+      "start": 687.874,
+      "end": 734.765,
+      "duration": 46.891,
+      "script_words": 55
+    }
+  ]
+}

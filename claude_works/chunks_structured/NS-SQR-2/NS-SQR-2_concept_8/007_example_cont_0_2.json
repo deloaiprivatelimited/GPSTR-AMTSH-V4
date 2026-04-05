@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ದಾಟುತ್ತಿದ್ದೇವೆ, ಆದ್ದರಿಂದ ಭಾಗಲಬ್ಧದಲ್ಲಿ ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಇಡೋಣ. ನಂತರ, ಮುಂದಿನ ಜೋಡಿಯಾದ 25 ನ್ನು ಕೆಳಗೆ ತರೋಣ. ಈಗ ನಮ್ಮ ಹೊಸ ಭಾಜ್ಯ 325 ಆಗಿದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಹೊಸ ಭಾಜಕವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಪ್ರಸ್ತುತ ಭಾಗಲಬ್ಧವಾದ 3 ನ್ನು ಎರಡರಿಂದ ಗುಣಿಸೋಣ, ನಮಗೆ 6 ಸಿಗುತ್ತದೆ. ಈಗ 6 ರ ಪಕ್ಕದಲ್ಲಿ 5 ನ್ನು ಇಟ್ಟು, 65 ನ್ನು 5 ರಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ 325 ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಭಾಗಲಬ್ಧದಲ್ಲಿಯೂ ಬರೆಯಿರಿ. 325 ರಿಂದ 325 ನ್ನು ಕಳೆದಾಗ ಶೇಷ ಸೊನ್ನೆ ಬರುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ದಾಟುತ್ತಿದ್ದೇವೆ, ಆದ್ದರಿಂದ ಭಾಗಲಬ್ಧದಲ್ಲಿ ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಇಡೋಣ. ನಂತರ, ಮುಂದಿನ ಜೋಡಿಯಾದ 25 ನ್ನು ಕೆಳಗೆ ತರೋಣ. ಈಗ ನಮ್ಮ ಹೊಸ ಭಾಜ್ಯ 325 ಆಗಿದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಹೊಸ ಭಾಜಕವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಪ್ರಸ್ತುತ ಭಾಗಲಬ್ಧವಾದ 3 ನ್ನು ಎರಡರಿಂದ ಗುಣಿಸೋಣ, ನಮಗೆ 6 ಸಿಗುತ್ತದೆ. ಈಗ 6 ರ ಪಕ್ಕದಲ್ಲಿ 5 ನ್ನು ಇಟ್ಟು, $65 \\times 5 = 325$ ಆಗುತ್ತದೆ. ಇದನ್ನು ಭಾಗಲಬ್ಧದಲ್ಲಿಯೂ ಬರೆಯಿರಿ. $325 - 325 = 0$. ಶೇಷ ಸೊನ್ನೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Completed long division for the square root of 12.25. It shows bringing down the pair '25' to make the new dividend 325. The new divisor is formed by doubling the quotient (3*2=6) and finding the digit 5, making it 65. The calculation 65 x 5 = 325 is shown, leading to a remainder of 0. The final quotient is 3.5.",
+    "labels": "new dividend, new divisor, final quotient, remainder",
+    "mathematical_significance": "Illustrates the final steps of the long division method, including handling the decimal part, forming the new divisor, and completing the calculation to find the exact square root.",
+    "placeholder_note": "Image to be generated showing the final steps of the long division."
+  },
+  "source_example_id": "NS-SQR-2_example_7",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಭಾಗಲಬ್ಧದಲ್ಲಿ ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಇಟ್ಟು, ಮುಂದಿನ ಜೋಡಿಯನ್ನು (25) ಕೆಳಗೆ ತರುವುದು. ಹೊಸ ಭಾಜ್ಯ: 325.",
+      "justification": "ದಶಮಾಂಶ ಭಾಗವನ್ನು ಪ್ರಾರಂಭಿಸುತ್ತಿರುವುದರಿಂದ."
+    },
+    {
+      "step": 4,
+      "action_display": "ಹೊಸ ಭಾಜಕವನ್ನು ಕಂಡುಹಿಡಿದು ಭಾಗಿಸುವುದು. ಹೊಸ ಭಾಜಕ: 65. $65 \\times 5 = 325$. ಶೇಷ: 0.",
+      "justification": "ಹೊಸ ಭಾಜಕ = (2 × ಭಾಗಲಬ್ಧ) ಪಕ್ಕದಲ್ಲಿ ಒಂದು ಅಂಕಿ."
+    }
+  ],
+  "chunk_id": "NS-SQR-2_concept_8_chunk_007"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾಮಾನ್ಯ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಸಾಮಾನ್ಯ ರೂಪ ಹೀಗಿದೆ: ಆಮ್ಲ ಮತ್ತು ಲೋಹೀಯ ಆಕ್ಸೈಡ್ ಸೇರಿದಾಗ, ಲವಣ ಮತ್ತು ನೀರು ಉತ್ಪನ್ನಗಳಾಗಿ ದೊರೆಯುತ್ತವೆ. ಇದು ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲದ ನಡುವಿನ ಕ್ರಿಯೆಯಂತೆಯೇ ಇದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಸಾಮಾನ್ಯ ರೂಪ ಹೀಗಿದೆ: ಆಮ್ಲ ಮತ್ತು ಲೋಹೀಯ ಆಕ್ಸೈಡ್ ಸೇರಿದಾಗ, ಲವಣ ಮತ್ತು ನೀರು ಉತ್ಪನ್ನಗಳಾಗಿ ದೊರೆಯುತ್ತವೆ. ಇದು ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲದ ನಡುವಿನ ಕ್ರಿಯೆಯಂತೆಯೇ ಇದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ಆಮ್ಲ + ಲೋಹೀಯ ಆಕ್ಸೈಡ್ \\rightarrow ಲವಣ + ನೀರು",
+    "placeholder_note": "General word equation for acid reacting with a metallic oxide."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_029"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ, ಎರಡನೇ ಲಂಬಕೋನ ತ್ರಿಭುಜ B P D ಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ, ಟ್ಯಾನ್ 45 ಡಿಗ್ರಿ ಸಮ DP ಬೈ DB. ಟ್ಯಾನ್ 45 ಡಿಗ್ರಿಯ ಬೆಲೆ ಒಂದು. ಆದ್ದರಿಂದ, ಒಂದು ಸಮ ಮೂರು ಬೈ DB. ಇದರಿಂದ ನಮಗೆ DB ಸಮ ಮೂರು ಮೀಟರ್ ಎಂದು ಸಿಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ನದಿಯ ಒಟ್ಟು ಅಗಲ AB ಯನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು AD ಮತ್ತು DB ಯನ್ನು ಕೂಡಿಸಬೇಕು. AB ಸಮ AD ಪ್ಲಸ್ DB, ಅಂದರೆ ಮೂರು ರೂಟ್ ಮೂರು ಪ್ಲಸ್ ಮೂರು. ಮೂರನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ತೆಗೆದಾಗ, ನಮಗೆ ಮೂರು, ಇಂಟು ರೂಟ್ ಮೂರು ಪ್ಲಸ್ ಒಂದು, ಮೀಟರ್ ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ, ಎರಡನೇ ಲಂಬಕೋನ ತ್ರಿಭುಜ BPD ಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ, $\\tan(45°) = \\frac{DP}{DB}$. $\\tan(45°)$ ಯ ಬೆಲೆ 1. ಆದ್ದರಿಂದ, $1 = \\frac{3}{DB}$. ಇದರಿಂದ ನಮಗೆ $DB = 3$ m ಎಂದು ಸಿಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ನದಿಯ ಒಟ್ಟು ಅಗಲ AB ಯನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು AD ಮತ್ತು DB ಯನ್ನು ಕೂಡಿಸಬೇಕು. $AB = AD + DB = 3\\sqrt{3} + 3$. 3ನ್ನು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿ ತೆಗೆದಾಗ, ನಮಗೆ $3(\\sqrt{3}+1)$ m ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-APP-2_example_7",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\triangle BPD$ ಯಲ್ಲಿ, $\\tan(45°) = \\frac{DP}{DB} \\Rightarrow 1 = \\frac{3}{DB} \\Rightarrow DB = 3$ m.",
+      "justification": "ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ `tan` ಅನುಪಾತದ ಬಳಕೆ."
+    },
+    {
+      "step": 4,
+      "action_display": "$AB = AD + DB = 3\\sqrt{3} + 3 = 3(\\sqrt{3}+1)$ m.",
+      "justification": "ನದಿಯ ಒಟ್ಟು ಅಗಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಭಾಗಗಳನ್ನು ಕೂಡಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "TRI-APP-2_concept_1_chunk_058"
+}

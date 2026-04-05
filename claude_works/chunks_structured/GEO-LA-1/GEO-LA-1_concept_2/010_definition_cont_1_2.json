@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ಶೃಂಗ: ನಿಜ ಜೀವನದ ಉದಾಹರಣೆಗಳು",
+  "script": "ಶೃಂಗದ ಪರಿಕಲ್ಪನೆಯು ಕೇವಲ ಗಣಿತ ಪುಸ್ತಕಗಳಲ್ಲಿಲ್ಲ, ನಮ್ಮ ಸುತ್ತಮುತ್ತಲೂ ಇದೆ. ಉದಾಹರಣೆಗೆ, ಕತ್ತರಿಯ ಎರಡು ಬ್ಲೇಡ್‌ಗಳು ಸೇರುವ ಬಿಂದುವನ್ನು ನೋಡಿ, ಅದು ಒಂದು ಶೃಂಗ. ಹಾಗೆಯೇ, ನೀವು ತೆರೆದ ಪುಸ್ತಕದ ಪುಟಗಳು ಸೇರುವ ಅಂಚನ್ನು ಗಮನಿಸಬಹುದು. ಗಡಿಯಾರದಲ್ಲಿ, ಗಂಟೆ ಮತ್ತು ನಿಮಿಷದ ಮುಳ್ಳುಗಳು ಸೇರುವ ಕೇಂದ್ರವು ಒಂದು ಶೃಂಗವಾಗಿದೆ. ಮತ್ತು ಒಂದು ಕೋಣೆಯ ಮೂಲೆಯಲ್ಲಿ, ಎರಡು ಗೋಡೆಗಳು ಸೇರುವ ಜಾಗವೂ ಒಂದು ಶೃಂಗವನ್ನು ರೂಪಿಸುತ್ತದೆ. ಹೀಗೆ, ಶೃಂಗವೆಂದರೆ ಎರಡು ರೇಖೆಗಳು ಅಥವಾ ಅಂಚುಗಳು ಸಂಧಿಸುವ ಒಂದು ಮೂಲೆ ಅಥವಾ ಬಿಂದು.",
+  "script_display": "ಶೃಂಗದ ಪರಿಕಲ್ಪನೆಯು ಕೇವಲ ಗಣಿತ ಪುಸ್ತಕಗಳಲ್ಲಿಲ್ಲ, ನಮ್ಮ ಸುತ್ತಮುತ್ತಲೂ ಇದೆ. ಉದಾಹರಣೆಗೆ, ಕತ್ತರಿಯ ಎರಡು ಬ್ಲೇಡ್‌ಗಳು ಸೇರುವ ಬಿಂದುವನ್ನು ನೋಡಿ, ಅದು ಒಂದು ಶೃಂಗ. ಹಾಗೆಯೇ, ನೀವು ತೆರೆದ ಪುಸ್ತಕದ ಪುಟಗಳು ಸೇರುವ ಅಂಚನ್ನು ಗಮನಿಸಬಹುದು. ಗಡಿಯಾರದಲ್ಲಿ, ಗಂಟೆ ಮತ್ತು ನಿಮಿಷದ ಮುಳ್ಳುಗಳು ಸೇರುವ ಕೇಂದ್ರವು ಒಂದು ಶೃಂಗವಾಗಿದೆ. ಮತ್ತು ಒಂದು ಕೋಣೆಯ ಮೂಲೆಯಲ್ಲಿ, ಎರಡು ಗೋಡೆಗಳು ಸೇರುವ ಜಾಗವೂ ಒಂದು ಶೃಂಗವನ್ನು ರೂಪಿಸುತ್ತದೆ. ಹೀಗೆ, ಶೃಂಗವೆಂದರೆ ಎರಡು ರೇಖೆಗಳು ಅಥವಾ ಅಂಚುಗಳು ಸಂಧಿಸುವ ಒಂದು ಮೂಲೆ ಅಥವಾ ಬಿಂದು.",
+  "display_bullets": [
+    "ಕತ್ತರಿಯ ಎರಡು ಬ್ಲೇಡ್‌ಗಳು ಸೇರುವ ಬಿಂದು.",
+    "ತೆರೆದ ಪುಸ್ತಕದ ಪುಟಗಳು ಸೇರುವ ಅಂಚು.",
+    "ಗಡಿಯಾರದ ಮುಳ್ಳುಗಳು ಸೇರುವ ಕೇಂದ್ರ.",
+    "ಕೋಣೆಯ ಮೂಲೆ, ಅಲ್ಲಿ ಎರಡು ಗೋಡೆಗಳು ಸೇರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collage of four images. 1. A pair of scissors, with the pivot point highlighted. 2. An open book, with the corner/spine highlighted. 3. A clock face, with the center point where hands meet highlighted. 4. The corner of a room, with the intersection of two walls and the floor highlighted.",
+    "labels": "ಶೃಂಗ",
+    "mathematical_significance": "Connects the abstract mathematical concept of a vertex to tangible, everyday objects, aiding in intuitive understanding.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "GEO-LA-1_concept_2_def_2_s3",
+  "chunk_id": "GEO-LA-1_concept_2_chunk_010"
+}

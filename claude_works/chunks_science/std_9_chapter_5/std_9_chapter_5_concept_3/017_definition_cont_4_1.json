@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಮೀಬಾದಲ್ಲಿ ಎಂಡೋಸೈಟೋಸಿಸ್",
+  "script": "ಈ ಚಿತ್ರದಲ್ಲಿ ಅಮೀಬಾ ಹೇಗೆ ಆಹಾರವನ್ನು ಪಡೆಯುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಅಮೀಬಾ ಒಂದು ಏಕಕೋಶ ಜೀವಿ. ಅದಕ್ಕೆ ಆಹಾರದ ಕಣ ಸಿಕ್ಕಾಗ, ಅದರ ಕೋಶಪೊರೆಯು ಹೊರಕ್ಕೆ ಚಾಚಿಕೊಂಡು, ಆಹಾರದ ಕಣವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸುತ್ತುವರೆಯುತ್ತದೆ. ಈ ಚಾಚಿಕೊಂಡ ಭಾಗಗಳನ್ನು ನಾವು 'ಮಿಥ್ಯಾಪಾದಗಳು' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ನಂತರ, ಈ ಪೊರೆಯು ಒಂದಕ್ಕೊಂದು ಸೇರಿಕೊಂಡು, ಆಹಾರದ ಕಣವನ್ನು ಒಂದು ಸಣ್ಣ ಕೋಶಕಾಯದೊಳಗೆ, ಅಂದರೆ ಆಹಾರ ರಸದಾನಿ ಒಳಗೆ ಬಂಧಿಸುತ್ತದೆ. ಈ ರೀತಿಯಾಗಿ, ಹೊರಗಿದ್ದ ಆಹಾರವು ಜೀವಕೋಶದ ಒಳಗೆ ಸೇರುತ್ತದೆ. ಇದೇ ಎಂಡೋಸೈಟೋಸಿಸ್ ಪ್ರಕ್ರಿಯೆ.",
+  "script_display": "ಈ ಚಿತ್ರದಲ್ಲಿ ಅಮೀಬಾ ಹೇಗೆ ಆಹಾರವನ್ನು ಪಡೆಯುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಅಮೀಬಾ ಒಂದು ಏಕಕೋಶ ಜೀವಿ. ಅದಕ್ಕೆ ಆಹಾರದ ಕಣ ಸಿಕ್ಕಾಗ, ಅದರ ಕೋಶಪೊರೆಯು ಹೊರಕ್ಕೆ ಚಾಚಿಕೊಂಡು, ಆಹಾರದ ಕಣವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸುತ್ತುವರೆಯುತ್ತದೆ. ಈ ಚಾಚಿಕೊಂಡ ಭಾಗಗಳನ್ನು ನಾವು 'ಮಿಥ್ಯಾಪಾದಗಳು' (pseudopods) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ನಂತರ, ಈ ಪೊರೆಯು ಒಂದಕ್ಕೊಂದು ಸೇರಿಕೊಂಡು, ಆಹಾರದ ಕಣವನ್ನು ಒಂದು ಸಣ್ಣ ಕೋಶಕಾಯದೊಳಗೆ, ಅಂದರೆ ಆಹಾರ ರಸದಾನಿ (food vacuole) ಒಳಗೆ ಬಂಧಿಸುತ್ತದೆ. ಈ ರೀತಿಯಾಗಿ, ಹೊರಗಿದ್ದ ಆಹಾರವು ಜೀವಕೋಶದ ಒಳಗೆ ಸೇರುತ್ತದೆ. ಇದೇ ಎಂಡೋಸೈಟೋಸಿಸ್ ಪ್ರಕ್ರಿಯೆ.",
+  "display_bullets": [
+    "ಅಮೀಬಾ ತನ್ನ ಕೋಶಪೊರೆಯನ್ನು ಚಾಚಿ ಆಹಾರದ ಕಣವನ್ನು ಸುತ್ತುವರೆಯುತ್ತದೆ.",
+    "ಈ ಚಾಚಿಕೊಂಡ ಭಾಗಗಳನ್ನು ಮಿಥ್ಯಾಪಾದಗಳು (pseudopods) ಎನ್ನುತ್ತಾರೆ.",
+    "ಆಹಾರವು ಕೋಶದೊಳಗೆ ಆಹಾರ ರಸದಾನಿಯಾಗಿ (food vacuole) ಸೇರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A sequence of four diagrams showing an Amoeba approaching a food particle, extending its pseudopods to surround it, engulfing it, and finally forming a food vacuole inside the cell. Arrows should indicate the direction of movement and the process flow.",
+    "labels": "Amoeba, Nucleus, Food particle, Pseudopods, Food vacuole",
+    "scientific_significance": "Illustrates the process of phagocytosis, a type of endocytosis, which is a fundamental mechanism for feeding in many protozoa and for immune response in multicellular organisms (e.g., macrophages).",
+    "placeholder_note": "Generate a 4-step diagram of Amoeba engulfing food, with labels in Kannada and English."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_5_concept_3_chunk_017"
+}

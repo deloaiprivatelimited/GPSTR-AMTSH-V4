@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸ್ಪಟಿಕೀಕರಣದ ನೀರು: ಒಂದು ಪರಿಚಯ",
+  "script": "ಕೆಲವು ಲವಣಗಳ ಸ್ಪಟಿಕ ರಚನೆಯಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಸಂಖ್ಯೆಯ ನೀರಿನ ಅಣುಗಳು ಸೇರಿಕೊಂಡಿರುತ್ತವೆ. ಇದನ್ನು 'ಸ್ಪಟಿಕೀಕರಣದ ನೀರು' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಹರಳುಗಳು ತಮ್ಮ ಸ್ಪಟಿಕೀಕರಣದ ನೀರಿನಿಂದಾಗಿ ಆಕರ್ಷಕ ನೀಲಿ ಬಣ್ಣವನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
+  "script_display": "ಕೆಲವು ಲವಣಗಳ ಸ್ಪಟಿಕ ರಚನೆಯಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಸಂಖ್ಯೆಯ ನೀರಿನ ಅಣುಗಳು ಸೇರಿಕೊಂಡಿರುತ್ತವೆ. ಇದನ್ನು 'ಸ್ಪಟಿಕೀಕರಣದ ನೀರು' (Water of Crystallisation) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, ತಾಮ್ರದ ಸಲ್ಫೇಟ್ (Copper Sulphate) ಹರಳುಗಳು ತಮ್ಮ ಸ್ಪಟಿಕೀಕರಣದ ನೀರಿನಿಂದಾಗಿ ಆಕರ್ಷಕ ನೀಲಿ ಬಣ್ಣವನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಕೆಲವು ಲವಣಗಳ ಸ್ಪಟಿಕಗಳಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಸಂಖ್ಯೆಯ ನೀರಿನ ಅಣುಗಳು ಇರುತ್ತವೆ.",
+    "ಇದನ್ನು 'ಸ್ಪಟಿಕೀಕರಣದ ನೀರು' (Water of Crystallisation) ಎನ್ನುತ್ತಾರೆ.",
+    "ಉದಾಹರಣೆ: ತಾಮ್ರದ ಸಲ್ಫೇಟ್ (CuSO₄·5H₂O) ಹರಳುಗಳು ನೀಲಿ ಬಣ್ಣದಲ್ಲಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Close-up photograph of vibrant blue, crystalline copper sulfate (CuSO₄·5H₂O) crystals.",
+    "labels": "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಹರಳುಗಳು",
+    "scientific_significance": "Shows the physical appearance of a hydrated salt, where the blue color is due to the water of crystallization.",
+    "placeholder_note": "Image to be generated."
+  },
+  "chunk_id": "std_10_chapter_2_concept_10_chunk_008"
+}

@@ -1,0 +1,90 @@
+{
+  "module_id": "std_8_chapter_1_concept_8",
+  "chapter_code": "std_8_chapter_1",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 312.077,
+  "total_duration_formatted": "5:12",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_1_concept_8_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪಶುಸಂಗೋಪನೆ (Animal Husbandry)",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 47.531,
+      "duration": 47.531,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_8_chapter_1_concept_8_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ (Prerequisites)",
+      "type": "chunk",
+      "start": 48.131,
+      "end": 80.702,
+      "duration": 32.571,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_8_chapter_1_concept_8_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ಆಹಾರದ ಮೂಲವಾಗಿ ಪ್ರಾಣಿಗಳು",
+      "type": "definition",
+      "start": 81.302,
+      "end": 121.393,
+      "duration": 40.091,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_8_chapter_1_concept_8_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಪಶುಸಂಗೋಪನೆ ಎಂದರೇನು?",
+      "type": "definition",
+      "start": 121.993,
+      "end": 171.324,
+      "duration": 49.331,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_8_chapter_1_concept_8_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಪಶುಸಂಗೋಪನೆಯ ವ್ಯಾಪ್ತಿ",
+      "type": "definition",
+      "start": 171.924,
+      "end": 221.535,
+      "duration": 49.611,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_8_chapter_1_concept_8_chunk_006",
+      "chunk_file": "006_definition_cont_0_3.json",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "slide_title": "ಸರಿಯಾದ ನಿರ್ವಹಣೆ",
+      "type": "definition",
+      "start": 222.135,
+      "end": 278.986,
+      "duration": 56.851,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_8_chapter_1_concept_8_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಪಶುಸಂಗೋಪನೆ",
+      "type": "recap",
+      "start": 279.586,
+      "end": 311.477,
+      "duration": 31.891,
+      "script_words": 39
+    }
+  ]
+}

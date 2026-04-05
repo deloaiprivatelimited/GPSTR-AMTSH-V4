@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಶಾಖಕ್ಕಾಗಿ ಬಳಕೆ",
+  "script": "ಸೌರಶಕ್ತಿಯ ಮೊದಲ ನೇರ ಉಪಯೋಗವೆಂದರೆ ಅದನ್ನು ಶಾಖದ ರೂಪದಲ್ಲಿ ಬಳಸುವುದು. ಇದರ ತತ್ವ ತುಂಬಾ ಸರಳ, ಸೂರ್ಯನ ಶಾಖವನ್ನು ನೇರವಾಗಿ ಬಳಸಿ ನೀರು ಕಾಯಿಸುವುದು ಅಥವಾ ಆಹಾರ ಬೇಯಿಸುವುದು. ಇದು ಅತ್ಯಂತ ಪರಿಣಾಮಕಾರಿ ವಿಧಾನ. ಉದಾಹರಣೆಗೆ, ಸೌರ ಜಲತಾಪಕ, ಅಂದರೆ ಸೋಲಾರ್ ವಾಟರ್ ಹೀಟರ್, ಇದರಲ್ಲಿ ಸೂರ್ಯನ ಶಾಖದಿಂದ ನೀರನ್ನು ಕಾಯಿಸಲಾಗುತ್ತದೆ. ಇದು ಮೊದಲನೇ ಉದಾಹರಣೆ. ಎರಡನೇ ಉದಾಹರಣೆ, ಸೌರ ಕುಕ್ಕರ್, ಇದನ್ನು ಬಳಸಿ ಆಹಾರವನ್ನು ಬೇಯಿಸಬಹುದು. ಈ ಎರಡೂ ಸಾಧನಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಕಪ್ಪು ಬಣ್ಣದ ಮೇಲ್ಮೈಯನ್ನು ಬಳಸಿರುತ್ತಾರೆ, ಏಕೆಂದರೆ ಕಪ್ಪು ಬಣ್ಣವು ಹೆಚ್ಚು ಸೌರ ಶಾಖವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಸೌರಶಕ್ತಿಯ ಮೊದಲ ನೇರ ಉಪಯೋಗವೆಂದರೆ ಅದನ್ನು ಶಾಖದ ರೂಪದಲ್ಲಿ ಬಳಸುವುದು. ಈ ಸಾಧನಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಕಪ್ಪು ಬಣ್ಣದ ಮೇಲ್ಮೈಯನ್ನು ಬಳಸಿರುತ್ತಾರೆ, ಏಕೆಂದರೆ ಕಪ್ಪು ಬಣ್ಣವು ಹೆಚ್ಚು ಸೌರ ಶಾಖವನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [
+    "ತತ್ವ: ಸೂರ್ಯನ ಶಾಖವನ್ನು ನೇರವಾಗಿ ಬಳಸಿ ನೀರು ಕಾಯಿಸುವುದು, ಆಹಾರ ಬೇಯಿಸುವುದು.",
+    "ಉದಾಹರಣೆ 1: ಸೌರ ಜಲತಾಪಕ (Solar Water Heater)",
+    "ಉದಾಹರಣೆ 2: ಸೌರ ಕುಕ್ಕರ್ (Solar Cooker)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side illustration of a rooftop solar water heater and a box-type solar cooker. The solar water heater shows pipes with water flowing, heated by the sun. The solar cooker shows a black box with a glass lid and a reflector, with a pot inside.",
+    "labels": "ಸೌರ ಜಲತಾಪಕ, ಸೌರ ಕುಕ್ಕರ್",
+    "scientific_significance": "Illustrates the direct application of solar thermal energy for domestic purposes.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_6_chapter_11_concept_4_chunk_004"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ. ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವು ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್ ನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್, ನೀರು ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲವನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ. ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವು ($HCl$) ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್ ($NaHCO_3$) ನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ($NaCl$), ನೀರು ($H_2O$) ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ($CO_2$) ಅನಿಲವನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "HCl(aq) + NaHCO_3(s) \\rightarrow NaCl(aq) + H_2O(l) + CO_2(g)",
+    "placeholder_note": "Balanced chemical equation for the reaction between hydrochloric acid and sodium hydrogen carbonate."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_024"
+}

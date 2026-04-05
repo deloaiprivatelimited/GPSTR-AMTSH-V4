@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಮೂರು ಪದಗಳಿರುವ ಬಹುಪದೋಕ್ತಿ",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಸ್ವಲ್ಪ ದೊಡ್ಡ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಫೋರ್ ವೈ ಕ್ಯೂಬ್ಡ್ ಮೈನಸ್ ಫೈವ್ ವೈ ಪ್ಲಸ್ ಸೆವೆನ್. ಈ ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿ, ನಮಗೆ ಪ್ಲಸ್ ಮತ್ತು ಮೈನಸ್ ಎರಡೂ ಚಿಹ್ನೆಗಳು ಕಾಣಿಸುತ್ತವೆ. ಇಲ್ಲಿ ಪದಗಳನ್ನು ಹೇಗೆ ಗುರುತಿಸುವುದು? ಮೊದಲನೇ ಪದ ಫೋರ್ ವೈ ಕ್ಯೂಬ್ಡ್. ಎರಡನೇ ಪದ ಮೈನಸ್ ಫೈವ್ ವೈ. ಗಮನಿಸಿ, ನಾವು ಚಿಹ್ನೆಯನ್ನು ಪದದ ಜೊತೆಗೆ ಸೇರಿಸಿಕೊಳ್ಳುತ್ತೇವೆ. ಮತ್ತು ಮೂರನೇ ಪದ ಪ್ಲಸ್ ಸೆವೆನ್. ಹಾಗಾಗಿ, ಈ ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿ ಒಟ್ಟು ಮೂರು ಪದಗಳಿವೆ.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಸ್ವಲ್ಪ ದೊಡ್ಡ ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. $4y^3 - 5y + 7$. ಈ ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿ, ನಮಗೆ '+' ಮತ್ತು '-' ಎರಡೂ ಚಿಹ್ನೆಗಳು ಕಾಣಿಸುತ್ತವೆ. ಇಲ್ಲಿ ಪದಗಳನ್ನು ಹೇಗೆ ಗುರುತಿಸುವುದು? ಮೊದಲನೇ ಪದ $4y^3$. ಎರಡನೇ ಪದ $-5y$. ಗಮನಿಸಿ, ನಾವು ಚಿಹ್ನೆಯನ್ನು ಪದದ ಜೊತೆಗೆ ಸೇರಿಸಿಕೊಳ್ಳುತ್ತೇವೆ. ಮತ್ತು ಮೂರನೇ ಪದ $+7$. ಹಾಗಾಗಿ, ಈ ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿ ಒಟ್ಟು ಮೂರು ಪದಗಳಿವೆ.",
+  "display_bullets": [
+    "ಬಹುಪದೋಕ್ತಿ: $4y^3 - 5y + 7$",
+    "ಪದ 1: $4y^3$",
+    "ಪದ 2: $-5y$ (ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಿ)",
+    "ಪದ 3: $+7$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the polynomial 4y^3 - 5y + 7. Arrows point to each term: 4y^3 is 'ಪದ 1', -5y is 'ಪದ 2', and +7 is 'ಪದ 3'. The label for the second term '-5y' should have a note saying 'ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಿ' (Include the sign).",
+    "labels": "polynomial, term, trinomial, sign",
+    "mathematical_significance": "Demonstrates term identification in a polynomial with multiple terms and different signs (+ and -), highlighting that the sign is part of the term.",
+    "placeholder_note": "Image to be generated showing the polynomial 4y^3 - 5y + 7 with its three terms clearly identified, emphasizing that the sign is included with the term."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "ALG-POL-3_concept_1_chunk_014"
+}

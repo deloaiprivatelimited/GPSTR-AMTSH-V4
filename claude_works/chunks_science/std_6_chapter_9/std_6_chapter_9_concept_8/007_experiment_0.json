@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಉಪ್ಪಿನ ದ್ರಾವಣದಿಂದ ಉಪ್ಪನ್ನು ಬೇರ್ಪಡಿಸುವುದು",
+  "script": "ಈಗ ನಾವು ಆವೀಕರಣ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಒಂದು ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಮ್ಮ ಗುರಿ ನೀರಿನಲ್ಲಿ ಕರಗಿರುವ ಉಪ್ಪನ್ನು ಬೇರ್ಪಡಿಸುವುದು. ಈ ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾದ ಉಪಕರಣಗಳನ್ನು ಗಮನಿಸಿ. ನಮಗೆ ಒಂದು ಚೀನಾ ಪಾತ್ರೆ ಬೇಕು, ಇದರಲ್ಲಿ ನಾವು ಉಪ್ಪಿನ ದ್ರಾವಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ. ನಂತರ, ಈ ಪಾತ್ರೆಯನ್ನು ಇಡಲು ಒಂದು ತ್ರಿಪಾದ ಸ್ತಂಭ, ಮತ್ತು ದ್ರಾವಣವನ್ನು ಕಾಯಿಸಲು ಒಂದು ಸ್ಪಿರಿಟ್ ದೀಪ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ಈ ಎಲ್ಲಾ ಉಪಕರಣಗಳನ್ನು ಹೇಗೆ ಜೋಡಿಸಲಾಗಿದೆ ಎಂದು ನೋಡಬಹುದು. ಈ ಜೋಡಣೆಯು ಆವೀಕರಣ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಡೆಸಲು ಸಿದ್ಧವಾಗಿದೆ. ಉಪ್ಪಿನ ದ್ರಾವಣವು ಒಂದು ಏಕರೂಪದ ಮಿಶ್ರಣವಾಗಿದ್ದು, ಇದರಲ್ಲಿ ಉಪ್ಪು ಸಂಪೂರ್ಣವಾಗಿ ನೀರಿನಲ್ಲಿ ಕರಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಆವೀಕರಣ (Evaporation) ಪ್ರಕ್ರಿಯೆಯನ್ನು ಒಂದು ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಮ್ಮ ಗುರಿ ನೀರಿನಲ್ಲಿ ಕರಗಿರುವ ಉಪ್ಪನ್ನು ಬೇರ್ಪಡಿಸುವುದು. ಈ ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾದ ಉಪಕರಣಗಳು:",
+  "display_bullets": [
+    "ಚೀನಾ ಪಾತ್ರೆ (China dish)",
+    "ಉಪ್ಪಿನ ದ್ರಾವಣ (Salt solution)",
+    "ತ್ರಿಪಾದ ಸ್ತಂಭ (Tripod stand)",
+    "ಸ್ಪಿರಿಟ್ ದೀಪ (Spirit lamp)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left_text_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Apparatus setup for evaporating salt solution. A china dish containing salt solution is placed on a tripod stand. A spirit lamp is placed below the china dish to heat it.",
+    "labels": "ಚೀನಾ ಪಾತ್ರೆ, ಉಪ್ಪಿನ ದ್ರಾವಣ, ತ್ರಿಪಾದ ಸ್ತಂಭ, ಸ್ಪಿರಿಟ್ ದೀಪ",
+    "scientific_significance": "This setup is standard for heating substances in a laboratory using a spirit lamp, demonstrating the process of evaporation.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "experiment_setup",
+  "chunk_id": "std_6_chapter_9_concept_8_chunk_007"
+}

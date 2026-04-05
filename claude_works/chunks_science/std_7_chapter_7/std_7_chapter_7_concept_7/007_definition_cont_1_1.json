@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಬಾಷ್ಪವಿಸರ್ಜನೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+  "script": "ಹಾಗಾದರೆ ಈ ಬಾಷ್ಪವಿಸರ್ಜನೆ ಪ್ರಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಮೊದಲಿಗೆ, ಸಸ್ಯದ ಬೇರುಗಳು ಮಣ್ಣಿನಿಂದ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ. ನಂತರ, ಕೈಲಮ್ ಎಂಬ ವಾಹಕ ಅಂಗಾಂಶದ ಮೂಲಕ ಈ ನೀರು ಸಸ್ಯದ ಕಾಂಡದ வழியாக ಮೇಲಕ್ಕೆ, ಎಲೆಗಳವರೆಗೂ ಸಾಗುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿರುವ ಸಾವಿರಾರು ಸೂಕ್ಷ್ಮ ರಂಧ್ರಗಳಾದ ಪತ್ರರಂಧ್ರಗಳು ತೆರೆದುಕೊಂಡು, ನೀರನ್ನು ಆವಿಯ ರೂಪದಲ್ಲಿ ಹೊರಗಿನ ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ. ಈ ಸಂಪೂರ್ಣ ಪ್ರಕ್ರಿಯೆಯೇ ಬಾಷ್ಪವಿಸರ್ಜನೆ.",
+  "script_display": "ಹಾಗಾದರೆ ಈ ಬಾಷ್ಪವಿಸರ್ಜನೆ ಪ್ರಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಮೊದಲಿಗೆ, ಸಸ್ಯದ ಬೇರುಗಳು ಮಣ್ಣಿನಿಂದ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ. ನಂತರ, ಕೈಲಮ್ (xylem) ಎಂಬ ವಾಹಕ ಅಂಗಾಂಶದ ಮೂಲಕ ಈ ನೀರು ಸಸ್ಯದ ಕಾಂಡದ வழியாக ಮೇಲಕ್ಕೆ, ಎಲೆಗಳವರೆಗೂ ಸಾಗುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿರುವ ಸಾವಿರಾರು ಸೂಕ್ಷ್ಮ ರಂಧ್ರಗಳಾದ ಪತ್ರರಂಧ್ರಗಳು (stomata) ತೆರೆದುಕೊಂಡು, ನೀರನ್ನು ಆವಿಯ ರೂಪದಲ್ಲಿ ಹೊರಗಿನ ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ. ಈ ಸಂಪೂರ್ಣ ಪ್ರಕ್ರಿಯೆಯೇ ಬಾಷ್ಪವಿಸರ್ಜನೆ.",
+  "display_bullets": [
+    "ಬೇರುಗಳು ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ.",
+    "ಕೈಲಮ್ (xylem) ನಾಳಗಳು ನೀರನ್ನು ಎಲೆಗಳಿಗೆ ಸಾಗಿಸುತ್ತವೆ.",
+    "ಎಲೆಗಳಲ್ಲಿರುವ ಪತ್ರರಂಧ್ರಗಳು (stomata) ತೆರೆದುಕೊಂಡು ನೀರಾವಿಯನ್ನು ಹೊರಹಾಕುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_portrait_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a plant showing the process of transpiration. Arrows indicate water absorption by roots, movement up the stem through xylem, and release as water vapor from stomata on the leaves. A close-up view of a stoma should be included.",
+    "labels": "ಬೇರುಗಳು (Roots), ಕೈಲಮ್ (Xylem), ಎಲೆ (Leaf), ಪತ್ರರಂಧ್ರ (Stoma), ನೀರಾವಿ (Water Vapor)",
+    "scientific_significance": "Illustrates the pathway of water through a plant during transpiration, from soil to atmosphere.",
+    "placeholder_note": "Image to be generated showing water path in a plant for transpiration."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_7_concept_7_chunk_007"
+}

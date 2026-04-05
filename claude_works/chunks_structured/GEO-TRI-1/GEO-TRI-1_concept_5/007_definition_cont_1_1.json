@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವಿಕರ್ಣವನ್ನು ಗುರುತಿಸುವುದು ಹೇಗೆ?",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ವಿಕರ್ಣವನ್ನು ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂದು ನೋಡೋಣ. ಇಲ್ಲಿ ಒಂದು ತ್ರಿಭುಜ PQR ಇದೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ತ್ರಿಭುಜ PQR ನಲ್ಲಿ, ಕೋನ Q ಎಂಬುದು ತೊಂಬತ್ತು ಡಿಗ್ರಿ, ಅಂದರೆ ಇದು ಲಂಬಕೋನ. ನಮ್ಮ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ವಿಕರ್ಣವು ಲಂಬಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು. ಹಾಗಾಗಿ, ಈ ಲಂಬಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು ಯಾವುದು? ಅದು ಬಾಹು PR. ಆದ್ದರಿಂದ, PR ಈ ತ್ರಿಭುಜದ ವಿಕರ್ಣವಾಗಿದೆ. ಯಾವುದೇ ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ನೀಡಿದಾಗ, ಮೊದಲು ಲಂಬಕೋನವನ್ನು ಗುರುತಿಸಿ, ನಂತರ ಅದಕ್ಕೆ ಎದುರಿಗಿರುವ ಬಾಹುವೇ ವಿಕರ್ಣ ಎಂದು ಸುಲಭವಾಗಿ ಹೇಳಬಹುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ವಿಕರ್ಣವನ್ನು ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂದು ನೋಡೋಣ. ಇಲ್ಲಿ ಒಂದು ತ್ರಿಭುಜ $PQR$ ಇದೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ತ್ರಿಭುಜ $PQR$ ನಲ್ಲಿ, ಕೋನ $Q$ ಎಂಬುದು $90°$, ಅಂದರೆ ಇದು ಲಂಬಕೋನ. ನಮ್ಮ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ವಿಕರ್ಣವು ಲಂಬಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು. ಹಾಗಾಗಿ, ಈ ಲಂಬಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು ಯಾವುದು? ಅದು ಬಾಹು $PR$. ಆದ್ದರಿಂದ, $PR$ ಈ ತ್ರಿಭುಜದ ವಿಕರ್ಣವಾಗಿದೆ. ಯಾವುದೇ ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ನೀಡಿದಾಗ, ಮೊದಲು ಲಂಬಕೋನವನ್ನು ಗುರುತಿಸಿ, ನಂತರ ಅದಕ್ಕೆ ಎದುರಿಗಿರುವ ಬಾಹುವೇ ವಿಕರ್ಣ ಎಂದು ಸುಲಭವಾಗಿ ಹೇಳಬಹುದು.",
+  "display_bullets": [
+    "ತ್ರಿಭುಜ $PQR$ ನಲ್ಲಿ, ಕೋನ $Q$ ಎಂಬುದು $90°$, ಅಂದರೆ ಲಂಬಕೋನ.",
+    "ಈ ಲಂಬಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು $PR$ ಆಗಿದೆ.",
+    "ಆದ್ದರಿಂದ, $PR$ ಈ ತ್ರಿಭುಜದ ವಿಕರ್ಣವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "classic_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right-angled triangle PQR, right-angled at Q. An arrow originates from the vertex Q, passes through the interior of the triangle, and points to the side PR, indicating it is the opposite side. The side PR is highlighted or colored differently and labeled 'ವಿಕರ್ಣ'.",
+    "labels": "Triangle PQR, Right angle at Q, Side PR, Arrow from Q to PR",
+    "mathematical_significance": "Demonstrates the process of identifying the hypotenuse by finding the side opposite the right angle.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-1_concept_5_chunk_007"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: $u_i$ ಮತ್ತು $f_i u_i$ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು u i ಮತ್ತು f i u i ಮೌಲ್ಯಗಳನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. u i ಅನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರ u i ಈಕ್ವಲ್ಸ್ x i ಮೈನಸ್ a, ಭಾಗಿಸು h. ಉದಾಹರಣೆಗೆ, ಮೊದಲ ಸಾಲಿನಲ್ಲಿ, x i 17.5, a 47.5, ಮತ್ತು h 15. ಹಾಗಾಗಿ, u i ಈಕ್ವಲ್ಸ್ 17.5 ಮೈನಸ್ 47.5, ಅಂದರೆ ಮೈನಸ್ 30, ಭಾಗಿಸು 15, ನಮಗೆ ಮೈನಸ್ 2 ಸಿಗುತ್ತದೆ. ನಂತರ, f i u i ಈಕ್ವಲ್ಸ್ 2 ಗುಣಿಸು ಮೈನಸ್ 2, ಅಂದರೆ ಮೈನಸ್ 4. ಇದೇ ರೀತಿ ಎಲ್ಲಾ ಸಾಲುಗಳಿಗೂ ಲೆಕ್ಕ ಹಾಕಿದಾಗ, ನಮಗೆ f i ಗಳ ಒಟ್ಟು ಮೊತ್ತ, ಸಿಗ್ಮಾ f i, 30 ಎಂದು ಮತ್ತು f i u i ಗಳ ಒಟ್ಟು ಮೊತ್ತ, ಸಿಗ್ಮಾ f i u i, 29 ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು $u_i$ ಮತ್ತು $f_i u_i$ ಮೌಲ್ಯಗಳನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. $u_i$ ಅನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರ $u_i = \\frac{x_i - a}{h}$. ಉದಾಹರಣೆಗೆ, ಮೊದಲ ಸಾಲಿನಲ್ಲಿ, $x_i=17.5, a=47.5, h=15$. ಹಾಗಾಗಿ, $u_i = \\frac{17.5 - 47.5}{15} = \\frac{-30}{15} = -2$. ನಂತರ, $f_i u_i = 2 \\times (-2) = -4$. ಇದೇ ರೀತಿ ಎಲ್ಲಾ ಸಾಲುಗಳಿಗೂ ಲೆಕ್ಕ ಹಾಕಿದಾಗ, ನಮಗೆ $f_i$ ಗಳ ಒಟ್ಟು ಮೊತ್ತ, $\\Sigma f_i = 30$ ಎಂದು ಮತ್ತು $f_i u_i$ ಗಳ ಒಟ್ಟು ಮೊತ್ತ, $\\Sigma f_i u_i = 29$ ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "$u_i$ ಅನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಸೂತ್ರ: $u_i = \\frac{x_i - a}{h}$",
+    "ನಂತರ, ಪ್ರತಿ $u_i$ ಅನ್ನು ಅದರ ಅನುಗುಣವಾದ $f_i$ ಯೊಂದಿಗೆ ಗುಣಿಸಿ $f_i u_i$ ಅನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಎಲ್ಲಾ $f_i$ ಗಳ ಮೊತ್ತ $\\Sigma f_i = 30$ ಮತ್ತು ಎಲ್ಲಾ $f_i u_i$ ಗಳ ಮೊತ್ತ $\\Sigma f_i u_i = 29$ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_full",
+    "template": "visual_full_bottom_text",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A full table for the step-deviation calculation. Headers: '$x_i$', '$f_i$', '$d_i=x_i-47.5$', '$u_i=d_i/15$', '$f_i u_i$'. Rows populated with all calculated values. Final row should show the totals: 'ಒಟ್ಟು', '$\\Sigma f_i=30$', '', '', '$\\Sigma f_i u_i=29$'. The table should be the main focus of the slide."
+  },
+  "source_example_id": "DATA-STAT-2_example_3",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$u_i = \\frac{x_i - a}{h}$ ಮತ್ತು $f_i u_i$ ಗಳನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+      "justification": "ಹಂತ ವಿಚಲನಾ ವಿಧಾನದ ಸೂತ್ರಕ್ಕೆ ಈ ಮೌಲ್ಯಗಳು ಬೇಕು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "DATA-STAT-2_concept_2_chunk_036"
+}

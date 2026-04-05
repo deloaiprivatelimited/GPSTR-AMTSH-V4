@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಯಮ 1: ಛೇದವು ಧನವಾಗಿರಬೇಕು",
+  "script": "ಮೊದಲ ನಿಯಮವನ್ನು ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಮೂರು ಬೈ ಮೈನಸ್ ಐದು, ಅಂದರೆ ಮೂರಕ್ಕೆ ಮೈನಸ್ ಐದರಿಂದ ಭಾಗಿಸಿದಾಗ ಬರುವ ಸಂಖ್ಯೆಯನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಛೇದವು ಮೈನಸ್ ಐದು, ಇದು ಒಂದು ಋಣ ಪೂರ್ಣಾಂಕ. ಆದ್ದರಿಂದ, ಇದು ಆದರ್ಶ ರೂಪದಲ್ಲಿಲ್ಲ. ಇದನ್ನು ಆದರ್ಶ ರೂಪಕ್ಕೆ ತರಲು, ನಾವು ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡನ್ನೂ ಮೈನಸ್ ಒಂದರಿಂದ ಗುಣಿಸಬೇಕು. ಆಗ, ಮೂರು ಗುಣಿಸು ಮೈನಸ್ ಒಂದು, ಮೈನಸ್ ಮೂರು ಆಗುತ್ತದೆ. ಮತ್ತು ಮೈನಸ್ ಐದು ಗುಣಿಸು ಮೈನಸ್ ಒಂದು, ಪ್ಲಸ್ ಐದು ಆಗುತ್ತದೆ. ಹೀಗೆ ನಮಗೆ ಮೈನಸ್ ಮೂರು ಬೈ ಐದು ಸಿಗುತ್ತದೆ. ಈಗ ನೋಡಿ, ಛೇದವು ಐದು, ಇದು ಧನ ಪೂರ್ಣಾಂಕ. ಹೀಗೆ ನಾವು ಋಣ ಛೇದವನ್ನು ಧನ ಛೇದಕ್ಕೆ ಪರಿವರ್ತಿಸುತ್ತೇವೆ.",
+  "script_display": "ಮೊದಲ ನಿಯಮವನ್ನು ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. $\\frac{3}{-5}$ ಸಂಖ್ಯೆಯನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಛೇದವು -5, ಇದು ಒಂದು ಋಣ ಪೂರ್ಣಾಂಕ. ಆದ್ದರಿಂದ, ಇದು ಆದರ್ಶ ರೂಪದಲ್ಲಿಲ್ಲ. ಇದನ್ನು ಆದರ್ಶ ರೂಪಕ್ಕೆ ತರಲು, ನಾವು ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡನ್ನೂ -1 ರಿಂದ ಗುಣಿಸಬೇಕು. ಆಗ, $\\frac{3 \\times (-1)}{-5 \\times (-1)} = \\frac{-3}{5}$. ಹೀಗೆ ನಮಗೆ $\\frac{-3}{5}$ ಸಿಗುತ್ತದೆ. ಈಗ ನೋಡಿ, ಛೇದವು 5, ಇದು ಧನ ಪೂರ್ಣಾಂಕ. ಹೀಗೆ ನಾವು ಋಣ ಛೇದವನ್ನು ಧನ ಛೇದಕ್ಕೆ ಪರಿವರ್ತಿಸುತ್ತೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_panel",
+    "status": "ready",
+    "render_target": "katex",
+    "placeholder_note": "A split screen. Left side has a red cross and the fraction 3/-5, labeled 'ಆದರ್ಶ ರೂಪದಲ್ಲಿಲ್ಲ (Not in Standard Form)'. Right side has a green check mark and the fraction -3/5, labeled 'ಆದರ್ಶ ರೂಪ (Standard Form)'. An arrow shows the transformation by multiplying with (-1)/(-1)._split_$\\frac{3}{-5}$ (ಛೇದ ಋಣಾತ್ಮಕವಾಗಿದೆ)_split_$\\frac{3 \\times (-1)}{-5 \\times (-1)} = \\frac{-3}{5}$ (ಛೇದ ಧನಾತ್ಮಕವಾಗಿದೆ)"
+  },
+  "chunk_id": "NS-RAT-2_concept_1_chunk_015"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "F1 ಪೀಳಿಗೆಯ ಫಲಿತಾಂಶ",
+  "script": "ಪೋಷಕ ಸಸ್ಯಗಳನ್ನು ಸಂಕರಿಸಿದಾಗ, ಮೊದಲನೇ ಪೀಳಿಗೆಯಲ್ಲಿ, ಅಂದರೆ ಎಫ್ ಒನ್ ಪೀಳಿಗೆಯಲ್ಲಿ, ಎಲ್ಲಾ ಸಸ್ಯಗಳು ದುಂಡನೆಯ ಮತ್ತು ಹಳದಿ ಬೀಜಗಳನ್ನೇ ಉತ್ಪಾದಿಸಿದವು. ಇದು ನಿರೀಕ್ಷಿತವಾಗಿತ್ತು, ಏಕೆಂದರೆ ದುಂಡನೆಯ ಮತ್ತು ಹಳದಿ ಬಣ್ಣಗಳು ಪ್ರಬಲ ಗುಣಗಳಾಗಿವೆ. ಈ ಎಫ್ ಒನ್ ಸಸ್ಯಗಳ ಜೀನ್ ಮಾದರಿಯು ಕ್ಯಾಪಿಟಲ್ ಆರ್ ಸ್ಮಾಲ್ ಆರ್ ಕ್ಯಾಪಿಟಲ್ ವೈ ಸ್ಮಾಲ್ ವೈ ಆಗಿತ್ತು. ಅಂದರೆ, ಅವು ಎರಡೂ ಗುಣಗಳಿಗೆ ಅಸಮಯುಗ್ಮಜೀಯವಾಗಿದ್ದವು. ಇಲ್ಲಿಂದಲೇ ನಿಜವಾದ ಕುತೂಹಲಕಾರಿ ಪ್ರಶ್ನೆ ಉದ್ಭವಿಸುತ್ತದೆ.",
+  "script_display": "ಪೋಷಕ ಸಸ್ಯಗಳನ್ನು ಸಂಕರಿಸಿದಾಗ, ಮೊದಲನೇ ಪೀಳಿಗೆಯಲ್ಲಿ (F1 generation) ಎಲ್ಲಾ ಸಸ್ಯಗಳು ಒಂದೇ ರೀತಿಯ ಫಲಿತಾಂಶವನ್ನು ನೀಡಿದವು.",
+  "display_bullets": [
+    "ಎಲ್ಲಾ F1 ಸಸ್ಯಗಳು ದುಂಡನೆಯ ಮತ್ತು ಹಳದಿ ಬೀಜಗಳನ್ನು ಹೊಂದಿದ್ದವು.",
+    "ಇದು ಪ್ರಬಲತೆಯ ನಿಯಮವನ್ನು ಅನುಸರಿಸುತ್ತದೆ.",
+    "F1 ಸಸ್ಯಗಳ ಜೀನ್ ಮಾದರಿ (Genotype): RrYy (ಎರಡೂ ಗುಣಗಳಿಗೆ ಅಸಮಯುಗ್ಮಜೀಯ).",
+    "ಈಗ, ಈ F1 ಸಸ್ಯವು ಲಿಂಗಾಣುಗಳನ್ನು (gametes) ಉತ್ಪಾದಿಸುವಾಗ ಏನಾಗುತ್ತದೆ?"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing the result of the first cross. An arrow points from the P generation cross to a single F1 generation plant which has pods containing only round, yellow peas. The genotype RrYy is clearly labeled.",
+    "labels": "F1 Generation: All Round, Yellow (RrYy)",
+    "scientific_significance": "Shows that the F1 generation expresses only the dominant phenotypes, while carrying the recessive alleles.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_8_concept_3_chunk_008"
+}

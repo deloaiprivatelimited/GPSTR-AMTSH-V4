@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: 216 ರ ಘನಮೂಲ",
+  "script": "ನಾವು 216 ರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಮೊದಲನೇ ಹಂತದ ಪ್ರಕಾರ, ನಾವು 216 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. 216 ನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ 108 ಬರುತ್ತದೆ. 108 ನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ 54. 54 ನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ 27. ಈಗ 27 ಮೂರರಿಂದ ಭಾಗವಾಗುತ್ತದೆ, ಆಗ 9 ಬರುತ್ತದೆ. 9 ನ್ನು ಮೂರರಿಂದ ಭಾಗಿಸಿದಾಗ 3. ಹಾಗಾಗಿ, 216 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು ಎರಡು ಗುಣಿಸು ಎರಡು ಗುಣಿಸu ಎರಡು ಗುಣಿಸು ಮೂರು ಗುಣಿಸು ಮೂರು ಗುಣಿಸು ಮೂರು.",
+  "script_display": "ನಾವು 216 ರ ಘನಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಮೊದಲನೇ ಹಂತದ ಪ್ರಕಾರ, ನಾವು 216 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. 216 ನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದಾಗ 108 ಬರುತ್ತದೆ. 108 ನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದಾಗ 54. 54 ನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದಾಗ 27. ಈಗ 27, 3 ರಿಂದ ಭಾಗವಾಗುತ್ತದೆ, ಆಗ 9 ಬರುತ್ತದೆ. 9 ನ್ನು 3 ರಿಂದ ಭಾಗಿಸಿದಾಗ 3. ಹಾಗಾಗಿ, 216 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು $2 \\times 2 \\times 2 \\times 3 \\times 3 \\times 3$.",
+  "display_bullets": [
+    "ಹಂತ 1: 216 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "$216 = 2 \\times 2 \\times 2 \\times 3 \\times 3 \\times 3$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Prime factorization of 216 using the ladder method. It shows 216 being divided by 2 three times, resulting in 27, which is then divided by 3 three times.",
+    "labels": "216, 108, 54, 27, 9, 3, 1, prime factors 2 and 3",
+    "mathematical_significance": "Demonstrates the process of breaking down a number into its prime factors, which is the first step in finding the cube root via this method.",
+    "placeholder_note": "Image to be generated showing the step-by-step division for prime factorization of 216."
+  },
+  "chunk_id": "NS-CUBE-2_concept_5_chunk_009"
+}

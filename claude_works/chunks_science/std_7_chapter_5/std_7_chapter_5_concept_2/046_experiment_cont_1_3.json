@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ತೀರ್ಮಾನ ಮತ್ತು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ",
+  "script": "ಈ ಬದಲಾವಣೆಗಳಿಗೆ ಕಾರಣವೇನು? ಇಲ್ಲಿ ಒಂದು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆದಿದೆ. ದ್ರಾವಣದ ಬಣ್ಣವು ಹಸಿರಾಗಲು ಕಾರಣ, ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ಎಂಬ ಹೊಸ ವಸ್ತುವಿನ ಉತ್ಪತ್ತಿ. ಹಾಗೆಯೇ, ಮೊಳೆಯ ಮೇಲಿನ ಕಂದು ಬಣ್ಣದ ಪದರವು ತಾಮ್ರ ಅಥವಾ ಕಾಪರ್ ಆಗಿದೆ. ಅಂದರೆ, ಕಬ್ಬಿಣವು ಕಾಪರ್ ಸಲ್ಫೇಟ್ ದ್ರಾವಣದಿಂದ ಕಾಪರ್ ಅನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸಿದೆ. ಈ ಕ್ರಿಯೆಯನ್ನು ನಾವು ಸಮೀಕರಣದ ಮೂಲಕ ತೋರಿಸಬಹುದು: ಕಾಪರ್ ಸಲ್ಫೇಟ್ ಪ್ಲಸ್ ಕಬ್ಬಿಣ ಗಿವ್ಸ್ ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ ಪ್ಲಸ್ ತಾಮ್ರ. ಇದು ಒಂದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯಾಗಿದೆ.",
+  "script_display": "ಈ ಬದಲಾವಣೆಗಳಿಗೆ ಕಾರಣವೇನು? ಇಲ್ಲಿ ಒಂದು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆದಿದೆ. ದ್ರಾವಣದ ಬಣ್ಣವು ಹಸಿರಾಗಲು ಕಾರಣ, ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ (Iron Sulphate) ಎಂಬ ಹೊಸ ವಸ್ತುವಿನ ಉತ್ಪತ್ತಿ. ಹಾಗೆಯೇ, ಮೊಳೆಯ ಮೇಲಿನ ಕಂದು ಬಣ್ಣದ ಪದರವು ತಾಮ್ರ (Copper) ಆಗಿದೆ. ಅಂದರೆ, ಕಬ್ಬಿಣವು (Iron) ಕಾಪರ್ ಸಲ್ಫೇಟ್ ದ್ರಾವಣದಿಂದ ಕಾಪರ್ ಅನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸಿದೆ. ಈ ಕ್ರಿಯೆಯನ್ನು ನಾವು ಸಮೀಕರಣದ ಮೂಲಕ ತೋರಿಸಬಹುದು. ಇದು ಒಂದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಹೊಸ ವಸ್ತುಗಳು: ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ (ಹಸಿರು ದ್ರಾವಣ) ಮತ್ತು ತಾಮ್ರ (ಕಂದು ಪದರ).",
+    "ಇದು ಒಂದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ.",
+    "ಕ್ರಿಯೆಯ ವಿಧ: ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆ (Displacement Reaction)."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CuSO_4 \\text{ (ನೀಲಿ)} + Fe \\text{ (ಕಬ್ಬಿಣ)} \\rightarrow FeSO_4 \\text{ (ಹಸಿರು)} + Cu \\text{ (ತಾಮ್ರ)}",
+    "placeholder_note": "Chemical equation for the displacement reaction between Copper Sulfate and Iron."
+  },
+  "sub_type": "key_takeaway",
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_046"
+}

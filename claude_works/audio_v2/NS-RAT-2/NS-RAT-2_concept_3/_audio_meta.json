@@ -1,0 +1,158 @@
+{
+  "module_id": "NS-RAT-2_concept_3",
+  "merge_code": "NS-RAT-2",
+  "voice": "Autonoe",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 17:40:54",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "a6b679f0bea40a09995e100c8152334e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 21.571,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 34,
+      "generated_at": "2026-03-30 17:38:22"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "85b1b5cb74251316cd7f67154291f39c",
+      "wav_file": "003_property_0.wav",
+      "duration": 49.371,
+      "slide_title": "ಆವೃತ್ತತೆ (Closure Property)",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-03-30 17:38:40"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "43d3bfb1a982139912409e7fda5bd741",
+      "wav_file": "001_intro_0.wav",
+      "duration": 62.651,
+      "slide_title": "ಪರಿಚಯ: ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "intro",
+      "script_words": 91,
+      "generated_at": "2026-03-30 17:38:56"
+    },
+    "005_property_1.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "34e8a90f232a6ca965c3410d97057595",
+      "wav_file": "005_property_1.wav",
+      "duration": 76.891,
+      "slide_title": "ಆವೃತ್ತತಾ ಗುಣ: ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರ",
+      "type": "concept_explanation",
+      "script_words": 105,
+      "generated_at": "2026-03-30 17:38:59"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "4d75b82d7b450eee79cad897d18075d6",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 91.451,
+      "slide_title": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಆವೃತ್ತತೆ",
+      "type": "concept_explanation",
+      "script_words": 118,
+      "generated_at": "2026-03-30 17:39:08"
+    },
+    "006_property_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "73194d4150ec05a2dd5b48a993e00874",
+      "wav_file": "006_property_cont_1_1.wav",
+      "duration": 45.491,
+      "slide_title": "ಪರಿವರ್ತನೀಯತಾ ಗುಣ (Commutative Property)",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-03-30 17:39:35"
+    },
+    "009_property_cont_3_1.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "33289c53bdf469becb50fd549afa1afe",
+      "wav_file": "009_property_cont_3_1.wav",
+      "duration": 71.251,
+      "slide_title": "ಸಹವರ್ತನೀಯತೆ (Associative Property)",
+      "type": "concept_explanation",
+      "script_words": 119,
+      "generated_at": "2026-03-30 17:39:46"
+    },
+    "008_property_3.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "a5720b079183f14c5eb2f4a1657c07d3",
+      "wav_file": "008_property_3.wav",
+      "duration": 71.211,
+      "slide_title": "ಪರಿವರ್ತನೀಯತೆ: ಭಾಗಾಕಾರ",
+      "type": "concept_explanation",
+      "script_words": 101,
+      "generated_at": "2026-03-30 17:39:48"
+    },
+    "010_property_4.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "4412846f6769e5301c5a5fd678a1bece",
+      "wav_file": "010_property_4.wav",
+      "duration": 79.771,
+      "slide_title": "ಸಹವರ್ತನೀಯ ಗುಣ: ವ್ಯವಕಲನ ಮತ್ತು ಭಾಗಾಕಾರ",
+      "type": "concept_explanation",
+      "script_words": 110,
+      "generated_at": "2026-03-30 17:40:03"
+    },
+    "007_property_2.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "b37e20148b254efc494211c1eb3b0dc1",
+      "wav_file": "007_property_2.wav",
+      "duration": 96.011,
+      "slide_title": "ಪರಿವರ್ತನೀಯತೆ ಗುಣ (Commutative Property)",
+      "type": "concept_explanation",
+      "script_words": 149,
+      "generated_at": "2026-03-30 17:40:07"
+    },
+    "012_property_cont_4_2.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "7dffddc3d69f32fdecfc353e17fb93ef",
+      "wav_file": "012_property_cont_4_2.wav",
+      "duration": 48.451,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಸಹವರ್ತನೀಯ ಗುಣ",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-03-30 17:40:39"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "9cded01fb0e227ce2dc65a6a16e8df4d",
+      "wav_file": "013_recap_0.wav",
+      "duration": 50.611,
+      "slide_title": "ಪುನರಾವರ್ತನೆ: ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "recap",
+      "script_words": 54,
+      "generated_at": "2026-03-30 17:40:39"
+    },
+    "011_property_cont_4_1.json": {
+      "status": "ok",
+      "voice": "Autonoe",
+      "script_hash": "1ae32981d3f6f9d767158bcd08aab670",
+      "wav_file": "011_property_cont_4_1.wav",
+      "duration": 72.211,
+      "slide_title": "ಸಹವರ್ತನೀಯ ಗುಣ: ಗುಣಾಕಾರ",
+      "type": "concept_explanation",
+      "script_words": 107,
+      "generated_at": "2026-03-30 17:40:54"
+    }
+  }
+}

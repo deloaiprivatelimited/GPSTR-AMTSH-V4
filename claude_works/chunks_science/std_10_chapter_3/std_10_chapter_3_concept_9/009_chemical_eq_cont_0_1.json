@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹುರಿಯುವಿಕೆ: ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಇಲ್ಲಿ ನೀವು ಸತುವಿನ ಸಲ್ಫೈಡ್ ಹುರಿಯುವಿಕೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡಬಹುದು. ಎರಡು ಜಿಂಕ್ ಸಲ್ಫೈಡ್ ಅಣುಗಳು, ಮೂರು ಆಮ್ಲಜನಕದ ಅಣುಗಳೊಂದಿಗೆ ಉಷ್ಣದ ಸಹಾಯದಿಂದ ವರ್ತಿಸಿ, ಎರಡು ಜಿಂಕ್ ಆಕ್ಸೈಡ್ ಮತ್ತು ಎರಡು ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ ಅಣುಗಳನ್ನು ಉತ್ಪನ್ನವಾಗಿ ನೀಡುತ್ತವೆ.",
+  "script_display": "ಇಲ್ಲಿ ನೀವು ಸತುವಿನ ಸಲ್ಫೈಡ್ ಹುರಿಯುವಿಕೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡಬಹುದು. 2 ZnS ಅಣುಗಳು, 3 O₂ ಅಣುಗಳೊಂದಿಗೆ ಉಷ್ಣದ ಸಹಾಯದಿಂದ ವರ್ತಿಸಿ, 2 ZnO ಮತ್ತು 2 SO₂ ಅಣುಗಳನ್ನು ಉತ್ಪನ್ನವಾಗಿ ನೀಡುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2ZnS(s) + 3O_2(g) \\xrightarrow{\\Delta} 2ZnO(s) + 2SO_2(g)",
+    "placeholder_note": "Balanced chemical equation for the roasting of Zinc Sulfide (Zinc Blende). The delta symbol above the arrow indicates that heat is applied."
+  },
+  "chunk_id": "std_10_chapter_3_concept_9_chunk_009"
+}

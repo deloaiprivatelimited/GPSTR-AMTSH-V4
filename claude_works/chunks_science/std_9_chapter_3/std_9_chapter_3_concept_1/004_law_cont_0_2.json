@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಯಮದ ಗಣಿತ ರೂಪ",
+  "script": "ಈ ನಿಯಮವನ್ನು ನಾವು ಒಂದು ಸರಳ ಗಣಿತ ಸಮೀಕರಣದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಪ್ರತಿವರ್ತಕಗಳ ಒಟ್ಟು ರಾಶಿಯು ಉತ್ಪನ್ನಗಳ ಒಟ್ಟು ರಾಶಿಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ, ಪ್ರತಿವರ್ತಕಗಳು ಅಂದರೆ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುವ ಆರಂಭಿಕ ವಸ್ತುಗಳು. ಉತ್ಪನ್ನಗಳು ಅಂದರೆ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ ಉಂಟಾಗುವ ಅಂತಿಮ ವಸ್ತುಗಳು. ಉದಾಹರಣೆಗೆ, ಎ ಮತ್ತು ಬಿ ಪ್ರತಿವರ್ತಕಗಳು ಸೇರಿ ಸಿ ಮತ್ತು ಡಿ ಉತ್ಪನ್ನಗಳನ್ನು ನೀಡಿದರೆ, ಎ ಮತ್ತು ಬಿ ಯ ಒಟ್ಟು ರಾಶಿಯು, ಸಿ ಮತ್ತು ಡಿ ಯ ಒಟ್ಟು ರಾಶಿಗೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಈ ನಿಯಮವನ್ನು ನಾವು ಒಂದು ಸರಳ ಗಣಿತ ಸಮೀಕರಣದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. Σ(ಪ್ರತಿವರ್ತಕಗಳ ರಾಶಿ) = Σ(ಉತ್ಪನ್ನಗಳ ರಾಶಿ). ಇಲ್ಲಿ, ಪ್ರತಿವರ್ತಕಗಳು (Reactants) ಅಂದರೆ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುವ ಆರಂಭಿಕ ವಸ್ತುಗಳು. ಉತ್ಪನ್ನಗಳು (Products) ಅಂದರೆ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ ಉಂಟಾಗುವ ಅಂತಿಮ ವಸ್ತುಗಳು. ಉದಾಹರಣೆಗೆ, A + B → C + D ಕ್ರಿಯೆಯಲ್ಲಿ, ರಾಶಿ(A) + ರಾಶಿ(B) = ರಾಶಿ(C) + ರಾಶಿ(D) ಆಗಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_basic",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sum m_{\\text{ಪ್ರತಿವರ್ತಕಗಳು}} = \\sum m_{\\text{ಉತ್ಪನ್ನಗಳು}}",
+    "placeholder_note": "Formula showing sum of mass of reactants equals sum of mass of products"
+  },
+  "chunk_id": "std_9_chapter_3_concept_1_chunk_004"
+}

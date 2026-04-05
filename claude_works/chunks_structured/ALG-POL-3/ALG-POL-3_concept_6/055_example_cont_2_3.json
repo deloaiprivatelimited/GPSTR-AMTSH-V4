@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರಗಳು ಹೀಗಿವೆ. ಮೊದಲ ಬೀಜೋಕ್ತಿಯ ಅಪವರ್ತನಗಳು ಏಳು a ಪ್ಲಸ್ ಐದು b ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್. ಎರಡನೇ ಬೀಜೋಕ್ತಿಯ ಅಪವರ್ತನಗಳು ಐದು ಬೈ ಎರಡು x ಪ್ಲಸ್ y ಬೈ ಮೂರು, ಇಂಟು ಐದು ಬೈ ಎರಡು x ಮೈನಸ್ y ಬೈ ಮೂರು. ಈ ರೀತಿಯ ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ಕೊಟ್ಟಿರುವ ಬೀಜೋಕ್ತಿಯು ಯಾವ ನಿತ್ಯಸಮೀಕರಣದ ರೂಪದಲ್ಲಿದೆ ಎಂದು ಗುರುತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರಗಳು ಹೀಗಿವೆ. ಈ ರೀತಿಯ ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ಕೊಟ್ಟಿರುವ ಬೀಜೋಕ್ತಿಯು ಯಾವ ನಿತ್ಯಸಮೀಕರಣದ ರೂಪದಲ್ಲಿದೆ ಎಂದು ಗುರುತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "(i) $49a^2 + 70ab + 25b^2 = (7a+5b)^2$",
+    "(ii) $\\frac{25}{4}x^2 - \\frac{y^2}{9} = (\\frac{5}{2}x + \\frac{y}{3})(\\frac{5}{2}x - \\frac{y}{3})$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-POL-3_example_16",
+  "steps": [],
+  "final_answer": "(i) $(7a+5b)^2$\n(ii) $(\\frac{5}{2}x + \\frac{y}{3})(\\frac{5}{2}x - \\frac{y}{3})$",
+  "final_answer_display": "(i) $(7a+5b)^2$\n(ii) $(\\frac{5}{2}x + \\frac{y}{3})(\\frac{5}{2}x - \\frac{y}{3})$",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_055"
+}

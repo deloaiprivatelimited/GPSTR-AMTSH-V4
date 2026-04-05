@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಷ್ಪಕ್ಷಪಾತ vs ಪಕ್ಷಪಾತ (Unbiased vs Biased)",
+  "script": "ಈಗ ನಿಷ್ಪಕ್ಷಪಾತ ಮತ್ತು ಪಕ್ಷಪಾತದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಇದು ಒಂದು ನಿಷ್ಪಕ್ಷಪಾತ ನಾಣ್ಯ. ಇದನ್ನು ಚಿಮ್ಮಿದಾಗ, ಹೆಡ್ ಬೀಳುವ ಸಾಧ್ಯತೆ ಮತ್ತು ಟೇಲ್ ಬೀಳುವ ಸಾಧ್ಯತೆ ಎರಡೂ ಸಮನಾಗಿರುತ್ತದೆ, ಅಂದರೆ ಐವತ್ತು ಪ್ರತಿಶತ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿರುವುದು ಒಂದು ಪಕ್ಷಪಾತ ನಾಣ್ಯ. ಇದರ ರಚನೆಯಲ್ಲಿ ದೋಷವಿರುವುದರಿಂದ, ಇದು ಒಂದು ಬದಿಗೆ ಹೆಚ್ಚು ಬೀಳುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಎಂಬತ್ತು ಪ್ರತಿಶತ ಹೆಡ್ ಮತ್ತು ಇಪ್ಪತ್ತು ಪ್ರತಿಶತ ಮಾತ್ರ ಟೇಲ್ ಬೀಳಬಹುದು. ನಮ್ಮ ಗಣಿತದ ಸಮಸ್ಯೆಗಳಲ್ಲಿ, ನಾವು ಯಾವಾಗಲೂ ನಿಷ್ಪಕ್ಷಪಾತ ವಸ್ತುಗಳನ್ನೇ ಪರಿಗಣಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ನಿಷ್ಪಕ್ಷಪಾತ ಮತ್ತು ಪಕ್ಷಪಾತದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಇದು ಒಂದು ನಿಷ್ಪಕ್ಷಪಾತ ನಾಣ್ಯ. ಇದನ್ನು ಚಿಮ್ಮಿದಾಗ, ಹೆಡ್ ಬೀಳುವ ಸಾಧ್ಯತೆ ಮತ್ತು ಟೇಲ್ ಬೀಳುವ ಸಾಧ್ಯತೆ ಎರಡೂ ಸಮನಾಗಿರುತ್ತದೆ, ಅಂದರೆ 50%. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿರುವುದು ಒಂದು ಪಕ್ಷಪಾತ ನಾಣ್ಯ. ಇದರ ರಚನೆಯಲ್ಲಿ ದೋಷವಿರುವುದರಿಂದ, ಇದು ಒಂದು ಬದಿಗೆ ಹೆಚ್ಚು ಬೀಳುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, 80% ಹೆಡ್ ಮತ್ತು 20% ಮಾತ್ರ ಟೇಲ್ ಬೀಳಬಹುದು. ನಮ್ಮ ಗಣಿತದ ಸಮಸ್ಯೆಗಳಲ್ಲಿ, ನಾವು ಯಾವಾಗಲೂ ನಿಷ್ಪಕ್ಷಪಾತ ವಸ್ತುಗಳನ್ನೇ ಪರಿಗಣಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ನಿಷ್ಪಕ್ಷಪಾತ ನಾಣ್ಯ: ಹೆಡ್ ಮತ್ತು ಟೇಲ್ ಬೀಳುವ ಸಾಧ್ಯತೆಗಳು ಸಮಾನ (50% / 50%).",
+    "ಪಕ್ಷಪಾತ ನಾಣ್ಯ: ಒಂದು ಫಲಿತಕ್ಕೆ ಹೆಚ್ಚು ಒಲವು. ಉದಾಹರಣೆಗೆ, ಹೆಡ್ ಬೀಳುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು (80% / 20%)."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen diagram. The left side is labeled 'ನಿಷ್ಪಕ್ಷಪಾತ (Unbiased)'. It shows a normal, fair coin in mid-air, with two arrows pointing to two outcomes: 'ಹೆಡ್ (50%)' and 'ಟೇಲ್ (50%)'. The right side is labeled 'ಪಕ್ಷಪಾತ (Biased)'. It shows a lopsided, bent, or weighted coin, with two arrows pointing to two outcomes: 'ಹೆಡ್ (80%)' and 'ಟೇಲ್ (20%)'. The arrows and percentages clearly show the unequal probabilities for the biased coin.",
+    "labels": "ನಿಷ್ಪಕ್ಷಪಾತ, ಪಕ್ಷಪಾತ, ನಾಣ್ಯ, ಸಂಭವನೀಯತೆ",
+    "mathematical_significance": "This visual directly contrasts the mathematical implication of an unbiased object (equally likely outcomes) with a biased one (unequally likely outcomes). This is crucial for understanding why the 'unbiased' assumption is necessary for standard probability calculations.",
+    "placeholder_note": "Image to be generated for 'Unbiased vs Biased' comparison"
+  },
+  "chunk_id": "PROB-BAS-1_concept_1_chunk_017"
+}

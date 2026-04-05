@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ: ಹಂತ 2",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಪತನ ಕಿರಣವನ್ನು ಗುರುತಿಸಬೇಕು. AB ಬದಿಯಲ್ಲಿ, O ಎಂಬ ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ. ಈ ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬರೇಖೆ N N prime ಅನ್ನು ಎಳೆಯಿರಿ. ಈಗ, ಪ್ರೊಟ್ರಾಕ್ಟರ್ ಬಳಸಿ, ಲಂಬದೊಂದಿಗೆ ಸುಮಾರು ಮೂವತ್ತು ರಿಂದ ನಲವತ್ತು ಡಿಗ್ರಿಗಳಷ್ಟು ಕೋನವನ್ನು ಮಾಡುವಂತೆ ಒಂದು ಓರೆಯಾದ ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಈ ರೇಖೆಯೇ ನಮ್ಮ ಪತನ ಕಿರಣ. ಈ ರೇಖೆಯ ಮೇಲೆ, ಪರಸ್ಪರ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ E ಮತ್ತು F ಎಂಬ ಎರಡು ಗುಂಡುಪಿನ್ನುಗಳನ್ನು ನೇರವಾಗಿ ಚುಚ್ಚಿ. ಈ ಪಿನ್ನುಗಳು ಪತನ ಕಿರಣದ ಮಾರ್ಗವನ್ನು ಸೂಚಿಸುತ್ತವೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಪತನ ಕಿರಣವನ್ನು ಗುರುತಿಸಬೇಕು. AB ಬದಿಯಲ್ಲಿ, O ಎಂಬ ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ. ಈ ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬರೇಖೆ NN' ಅನ್ನು ಎಳೆಯಿರಿ. ಈಗ, ಪ್ರೊಟ್ರಾಕ್ಟರ್ ಬಳಸಿ, ಲಂಬದೊಂದಿಗೆ ಸುಮಾರು 30° ರಿಂದ 40° ಗಳಷ್ಟು ಕೋನವನ್ನು ಮಾಡುವಂತೆ ಒಂದು ಓರೆಯಾದ ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ. ಈ ರೇಖೆಯೇ ನಮ್ಮ ಪತನ ಕಿರಣ. ಈ ರೇಖೆಯ ಮೇಲೆ, ಪರಸ್ಪರ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ E ಮತ್ತು F ಎಂಬ ಎರಡು ಗುಂಡುಪಿನ್ನುಗಳನ್ನು ನೇರವಾಗಿ ಚುಚ್ಚಿ. ಈ ಪಿನ್ನುಗಳು ಪತನ ಕಿರಣದ ಮಾರ್ಗವನ್ನು ಸೂಚಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "AB ಬದಿಯಲ್ಲಿ O ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ ಮತ್ತು ಲಂಬ NN' ಎಳೆಯಿರಿ.",
+    "ಲಂಬದೊಂದಿಗೆ ನಿರ್ದಿಷ್ಟ ಕೋನ (ಪತನ ಕೋನ i) ಮಾಡುವಂತೆ ಪತನ ಕಿರಣದ ರೇಖೆ ಎಳೆಯಿರಿ.",
+    "ಈ ರೇಖೆಯ ಮೇಲೆ E ಮತ್ತು F ಎಂಬ ಎರಡು ಗುಂಡುಪಿನ್ನುಗಳನ್ನು ಚುಚ್ಚಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard_steps",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Diagram showing the second step. The outline ABCD is present. A point O is marked on side AB. A normal NN' is drawn at O. An incident ray is drawn at an angle 'i' to the normal. Two pins, E and F, are placed on this incident ray.",
+    "labels": "ಪತನ ಕಿರಣ, ಪತನ ಕೋನ (i), ಲಂಬ (NN'), ಪಿನ್ನುಗಳು E, F",
+    "scientific_significance": "Demonstrates how to set up the incident ray and mark its path using pins.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_9_concept_5_chunk_030"
+}

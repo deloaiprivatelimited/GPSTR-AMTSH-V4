@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವನ್ನು ನೋಡೋಣ. ಕೆಂಪು ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ ಮೂರನೇ ಎರಡು ಭಾಗ. ಮತ್ತು ಹಳದಿ ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ ಮೂರನೇ ಒಂದು ಭಾಗ. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಎರಡೂ ಸಂಭವನೀಯತೆಗಳ ಮೊತ್ತ, ಅಂದರೆ ಮೂರನೇ ಎರಡು ಪ್ಲಸ್ ಮೂರನೇ ಒಂದು, ಒಂದಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಏಕೆಂದರೆ ಚೀಲದಲ್ಲಿ ಕೆಂಪು ಮತ್ತು ಹಳದಿ ಚೆಂಡುಗಳು ಮಾತ್ರ ಇವೆ.",
+  "script_display": "ಹೀಗೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವನ್ನು ನೋಡೋಣ. ಕೆಂಪು ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ $\\frac{2}{3}$. ಮತ್ತು ಹಳದಿ ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ $\\frac{1}{3}$. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಎರಡೂ ಸಂಭವನೀಯತೆಗಳ ಮೊತ್ತ, ಅಂದರೆ $\\frac{2}{3} + \\frac{1}{3} = 1$. ಏಕೆಂದರೆ ಚೀಲದಲ್ಲಿ ಕೆಂಪು ಮತ್ತು ಹಳದಿ ಚೆಂಡುಗಳು ಮಾತ್ರ ಇವೆ.",
+  "display_bullets": [
+    "ಕೆಂಪು ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ: 2/3",
+    "ಹಳದಿ ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ: 1/3"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "DATA-BAS-1_example_4",
+  "final_answer": "(a) ಕೆಂಪು ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ 2/3. (b) ಹಳದಿ ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ 1/3.",
+  "final_answer_display": "(a) $P(\\text{ಕೆಂಪು}) = \\frac{2}{3}$ (b) $P(\\text{ಹಳದಿ}) = \\frac{1}{3}$",
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_035"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಶಾಬ್ದನ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ?",
+  "script": "ಲೋಹಗಳು ಏಕೆ ಈ ರೀತಿ ರಿಂಗಣಿಸುತ್ತವೆ ಎಂದು ಯೋಚಿಸಿದ್ದೀರಾ? ನಾವು ಲೋಹದ ವಸ್ತುವಿಗೆ ಬಡಿದಾಗ, ಆ ಶಕ್ತಿಯು ವಸ್ತುವನ್ನು ಕಂಪಿಸುವಂತೆ ಮಾಡುತ್ತದೆ. ಲೋಹಗಳ ಪರಮಾಣು ರಚನೆಯು ಈ ಕಂಪನಗಳನ್ನು ದೀರ್ಘಕಾಲದವರೆಗೆ ಉಳಿಸಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಈ ಕಂಪನಗಳು ಗಾಳಿಯ ಮೂಲಕ ತರಂಗಗಳ ರೂಪದಲ್ಲಿ ನಮ್ಮ ಕಿವಿಯನ್ನು ತಲುಪಿದಾಗ, ನಮಗೆ ಆ ರಿಂಗಣಿಸುವ ಶಬ್ದ ಕೇಳಿಸುತ್ತದೆ. ಇದೇ ಕಾರಣದಿಂದ ಗಿಟಾರ್ ತಂತಿಗಳು, ತಾಳಗಳು, ಮತ್ತು ದೇವಸ್ಥಾನದ ಗಂಟೆಗಳಂತಹ ಸಂಗೀತ ವಾದ್ಯಗಳನ್ನು ತಯಾರಿಸಲು ಲೋಹಗಳನ್ನು ಬಳಸುತ್ತಾರೆ.",
+  "script_display": "ಲೋಹಗಳು ಏಕೆ ಈ ರೀತಿ ರಿಂಗಣಿಸುತ್ತವೆ ಎಂದು ಯೋಚಿಸಿದ್ದೀರಾ? ನಾವು ಲೋಹದ ವಸ್ತುವಿಗೆ ಬಡಿದಾಗ, ಆ ಶಕ್ತಿಯು ವಸ್ತುವನ್ನು ಕಂಪಿಸುವಂತೆ (vibrate) ಮಾಡುತ್ತದೆ. ಲೋಹಗಳ ಪರಮಾಣು ರಚನೆಯು ಈ ಕಂಪನಗಳನ್ನು ದೀರ್ಘಕಾಲದವರೆಗೆ ಉಳಿಸಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಈ ಕಂಪನಗಳು ಗಾಳಿಯ ಮೂಲಕ ತರಂಗಗಳ ರೂಪದಲ್ಲಿ ನಮ್ಮ ಕಿವಿಯನ್ನು ತಲುಪಿದಾಗ, ನಮಗೆ ಆ ರಿಂಗಣಿಸುವ ಶಬ್ದ ಕೇಳಿಸುತ್ತದೆ. ಇದೇ ಕಾರಣದಿಂದ ಗಿಟಾರ್ ತಂತಿಗಳು, ತಾಳಗಳು, ಮತ್ತು ದೇವಸ್ಥಾನದ ಗಂಟೆಗಳಂತಹ ಸಂಗೀತ ವಾದ್ಯಗಳನ್ನು ತಯಾರಿಸಲು ಲೋಹಗಳನ್ನು ಬಳಸುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಲೋಹಕ್ಕೆ ಬಡಿದಾಗ ಅದು ಕಂಪಿಸುತ್ತದೆ (vibrates).",
+    "ಈ ಕಂಪನಗಳು ದೀರ್ಘಕಾಲ ಉಳಿದು, ರಿಂಗಣಿಸುವ ಶಬ್ದವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.",
+    "ಉಪಯೋಗ: ಸಂಗೀತ ವಾದ್ಯಗಳನ್ನು (ಗಿಟಾರ್ ತಂತಿ, ತಾಳ, ಗಂಟೆ) ತಯಾರಿಸಲು ಬಳಸುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a large temple bell being struck. Wavy lines representing sound waves are emanating from the bell, indicating it is ringing. The bell itself has vibration lines on it.",
+    "labels": "ಗಂಟೆ (Bell), ಕಂಪನ (Vibration), ಶಬ್ದ ತರಂಗಗಳು (Sound Waves)",
+    "scientific_significance": "Visually demonstrates that striking a metal object causes vibrations that produce a sustained, ringing sound, which is the essence of sonority.",
+    "placeholder_note": "Image to be generated showing a large ringing bell."
+  },
+  "chunk_id": "std_10_chapter_3_concept_2_chunk_013"
+}

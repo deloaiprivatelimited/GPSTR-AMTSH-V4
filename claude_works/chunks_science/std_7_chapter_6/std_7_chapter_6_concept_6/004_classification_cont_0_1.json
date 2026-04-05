@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕೀಟಗಳಲ್ಲಿ ಉಸಿರಾಟ: ಶ್ವಾಸನಾಳ ವ್ಯವಸ್ಥೆ",
+  "script": "ಮೊದಲಿಗೆ, ಜಿರಳೆ ಮತ್ತು ಸೊಳ್ಳೆಗಳಂತಹ ಕೀಟಗಳನ್ನು ನೋಡೋಣ. ಇವುಗಳು ಶ್ವಾಸನಾಳಗಳ ಜಾಲ ಅಥವಾ ಟ್ರೇಕಿಯಲ್ ಸಿಸ್ಟಮ್ ಎಂಬ ವಿಶಿಷ್ಟ ವ್ಯವಸ್ಥೆಯನ್ನು ಹೊಂದಿವೆ. ಅವುಗಳ ದೇಹದ ಬದಿಗಳಲ್ಲಿ ಸ್ಪೈರಕಲ್ಸ್ ಎಂಬ ಸಣ್ಣ ರಂಧ್ರಗಳಿರುತ್ತವೆ. ಈ ರಂಧ್ರಗಳ ಮೂಲಕ ಗಾಳಿಯು ದೇಹವನ್ನು ಪ್ರವೇಶಿಸುತ್ತದೆ. ನಂತರ, ಈ ಗಾಳಿಯು ಶ್ವಾಸನಾಳಗಳು ಎಂಬ ಕೊಳವೆಗಳ ಜಾಲದ ಮೂಲಕ ನೇರವಾಗಿ ದೇಹದ ಪ್ರತಿಯೊಂದು ಅಂಗಾಂಶಕ್ಕೂ ತಲುಪುತ್ತದೆ. ಇಲ್ಲಿ ರಕ್ತವು ಅನಿಲ ಸಾಗಾಣಿಕೆಯಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳುವುದಿಲ್ಲ, ಇದು ಮಾನವನ ಉಸಿರಾಟಕ್ಕಿಂತ ಬಹಳ ಭಿನ್ನವಾಗಿದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಜಿರಳೆ ಮತ್ತು ಸೊಳ್ಳೆಗಳಂತಹ ಕೀಟಗಳನ್ನು ನೋಡೋಣ. ಇವುಗಳು ಶ್ವಾಸನಾಳಗಳ ಜಾಲ (Tracheal System) ಎಂಬ ವಿಶಿಷ್ಟ ವ್ಯವಸ್ಥೆಯನ್ನು ಹೊಂದಿವೆ. ಅವುಗಳ ದೇಹದ ಬದಿಗಳಲ್ಲಿ ಸ್ಪೈರಕಲ್‌ಗಳು (spiracles) ಎಂಬ ಸಣ್ಣ ರಂಧ್ರಗಳಿರುತ್ತವೆ. ಈ ರಂಧ್ರಗಳ ಮೂಲಕ ಗಾಳಿಯು ದೇಹವನ್ನು ಪ್ರವೇಶಿಸುತ್ತದೆ. ನಂತರ, ಈ ಗಾಳಿಯು ಶ್ವಾಸನಾಳಗಳು (tracheae) ಎಂಬ ಕೊಳವೆಗಳ ಜಾಲದ ಮೂಲಕ ನೇರವಾಗಿ ದೇಹದ ಪ್ರತಿಯೊಂದು ಅಂಗಾಂಶಕ್ಕೂ ತಲುಪುತ್ತದೆ. ಇಲ್ಲಿ ರಕ್ತವು ಅನಿಲ ಸಾಗಾಣಿಕೆಯಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳುವುದಿಲ್ಲ, ಇದು ಮಾನವನ ಉಸಿರಾಟಕ್ಕಿಂತ ಬಹಳ ಭಿನ್ನವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಉಸಿರಾಟದ ಅಂಗ: ಶ್ವಾಸನಾಳಗಳ ಜಾಲ (Tracheal System)",
+    "ಗಾಳಿಯ ಪ್ರವೇಶ: ಸ್ಪೈರಕಲ್‌ಗಳು (Spiracles)",
+    "ವೈಶಿಷ್ಟ್ಯ: ರಕ್ತದ ಸಹಾಯವಿಲ್ಲದೆ ನೇರ ಆಮ್ಲಜನಕ ಪೂರೈಕೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the tracheal system of an insect like a cockroach. It should clearly label the spiracles on the side of the body and the network of tracheae branching out to the tissues.",
+    "labels": "Spiracles, Tracheae, Tissues",
+    "scientific_significance": "Illustrates a respiratory system that delivers oxygen directly to tissues without the need for a circulatory fluid (blood) to transport it.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_6_concept_6_chunk_004"
+}

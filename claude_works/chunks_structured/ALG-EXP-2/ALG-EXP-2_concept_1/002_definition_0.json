@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಿಚಯ: ಬೀಜೋಕ್ತಿ ಎಂದರೇನು?",
+  "script": "ಬೀಜಗಣಿತದ ಜಗತ್ತಿಗೆ ಸ್ವಾಗತ. ನಾವು ಬೀಜೋಕ್ತಿಗಳು ಅಂದರೆ ಆಲ್ಜಿಬ್ರಾಯಿಕ್ ಎಕ್ಸ್ಪ್ರೆಶನ್ಸ್ ಬಗ್ಗೆ ಕಲಿಯುವ ಮೊದಲು, ಒಂದು ಸರಳ ವಿಷಯವನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ಗಣಿತದಲ್ಲಿ ನಾವು ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಐದು ಪ್ಲಸ್ ಮೂರು, ಅಥವಾ ಹತ್ತು ಮೈನಸ್ ಎರಡು. ಇವುಗಳನ್ನು ಅಂಕಗಣಿತದ ಹೇಳಿಕೆಗಳು ಎನ್ನುತ್ತೇವೆ. ಆದರೆ, ನಮಗೆ ಗೊತ್ತಿಲ್ಲದ ಅಥವಾ ಬದಲಾಗಬಹುದಾದ ಮೌಲ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸಲು ಬೇಕಾದಾಗ ಏನು ಮಾಡುವುದು? ಆಗ ನಾವು ಅಕ್ಷರಗಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, x ಪ್ಲಸ್ ಮೂರು. ಇಲ್ಲಿ x ಯಾವುದೇ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿರಬಹುದು. ಈ ರೀತಿಯ ಅಕ್ಷರಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳ ಸಂಯೋಜನೆಯೇ ಬೀಜಗಣಿತದ ಮೂಲವಾಗಿದೆ.",
+  "script_display": "ಬೀಜಗಣಿತದ ಜಗತ್ತಿಗೆ ಸ್ವಾಗತ. ನಾವು ಬೀಜೋಕ್ತಿಗಳು (Algebraic Expressions) ಬಗ್ಗೆ ಕಲಿಯುವ ಮೊದಲು, ಒಂದು ಸರಳ ವಿಷಯವನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ಗಣಿತದಲ್ಲಿ ನಾವು ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, $5 + 3$, ಅಥವಾ $10 - 2$. ಇವುಗಳನ್ನು ಅಂಕಗಣಿತದ ಹೇಳಿಕೆಗಳು ಎನ್ನುತ್ತೇವೆ. ಆದರೆ, ನಮಗೆ ಗೊತ್ತಿಲ್ಲದ ಅಥವಾ ಬದಲಾಗಬಹುದಾದ ಮೌಲ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸಲು ಬೇಕಾದಾಗ ಏನು ಮಾಡುವುದು? ಆಗ ನಾವು ಅಕ್ಷರಗಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, $x + 3$. ಇಲ್ಲಿ $x$ ಯಾವುದೇ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿರಬಹುದು. ಈ ರೀತಿಯ ಅಕ್ಷರಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳ ಸಂಯೋಜನೆಯೇ ಬೀಜಗಣಿತದ ಮೂಲವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಅಂಕಗಣಿತದ ಹೇಳಿಕೆಗಳು: ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಕ್ರಿಯೆಗಳು ($5+3$)",
+    "ಬೀಜಗಣಿತದ ಪರಿಕಲ್ಪನೆ: ಗೊತ್ತಿಲ್ಲದ ಮೌಲ್ಯಗಳಿಗೆ ಅಕ್ಷರಗಳ ಬಳಕೆ ($x+3$)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A visual comparison. On the left, under the heading 'ಅಂಕಗಣಿತ' (Arithmetic), show the expression '5 + 3 = 8'. On the right, under the heading 'ಬೀಜಗಣಿತ' (Algebra), show the expression 'x + 3'. Use arrows to point from the numbers '5' and '3' to the label 'ಸಂಖ್ಯೆಗಳು' (Numbers) and from the letter 'x' to the label 'ಅಕ್ಷರ/ಚರಾಕ್ಷರ' (Letter/Variable).",
+    "labels": "Arithmetic, Algebra, Numbers, Variable",
+    "mathematical_significance": "This visual introduces the core difference between arithmetic (working only with known numbers) and algebra (introducing variables to represent unknown quantities).",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "chunk_id": "ALG-EXP-2_concept_1_chunk_002"
+}

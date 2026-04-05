@@ -1,0 +1,144 @@
+{
+  "module_id": "ALG-POL-3_concept_3",
+  "voice": "Erinome",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 12,
+  "total_duration": 646.412,
+  "total_duration_formatted": "10:46",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "ALG-POL-3_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಶೂನ್ಯತೆಗಳ ರೇಖಾಗಣಿತೀಯ ಅರ್ಥ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 64.411,
+      "duration": 64.411,
+      "script_words": 82
+    },
+    {
+      "chunk_id": "ALG-POL-3_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವ-ಅವಶ್ಯಕತೆಗಳು",
+      "type": "intro",
+      "start": 65.011,
+      "end": 94.462,
+      "duration": 29.451,
+      "script_words": 36
+    },
+    {
+      "chunk_id": "ALG-POL-3_concept_3_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆ",
+      "type": "concept_explanation",
+      "start": 95.062,
+      "end": 159.713,
+      "duration": 64.651,
+      "script_words": 90
+    },
+    {
+      "chunk_id": "ALG-POL-3_concept_3_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ವರ್ಗ ಬಹುಪದೋಕ್ತಿ: ಪರವಲಯದ ಆಕಾರ",
+      "type": "concept_explanation",
+      "start": 160.313,
+      "end": 223.644,
+      "duration": 63.331,
+      "script_words": 86
+    },
+    {
+      "chunk_id": "ALG-POL-3_concept_3_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ವರ್ಗ ಬಹುಪದೋಕ್ತಿ: ಶೂನ್ಯತೆಗಳ ಸಾಧ್ಯತೆಗಳು",
+      "type": "concept_explanation",
+      "start": 224.244,
+      "end": 292.775,
+      "duration": 68.531,
+      "script_words": 81
+    },
+    {
+      "chunk_id": "ALG-POL-3_concept_3_chunk_006",
+      "chunk_file": "006_property_cont_0_3.json",
+      "wav_file": "006_property_cont_0_3.wav",
+      "slide_title": "ಘನ ಬಹುಪದೋಕ್ತಿ ಮತ್ತು ಶೂನ್ಯತೆಗಳು",
+      "type": "concept_explanation",
+      "start": 293.375,
+      "end": 355.226,
+      "duration": 61.851,
+      "script_words": 84
+    },
+    {
+      "chunk_id": "ALG-POL-3_concept_3_chunk_007",
+      "chunk_file": "007_property_1.json",
+      "wav_file": "007_property_1.wav",
+      "slide_title": "ಡಿಗ್ರಿ ಮತ್ತು ಶೂನ್ಯತೆಗಳ ಸಂಖ್ಯೆ",
+      "type": "concept_explanation",
+      "start": 355.826,
+      "end": 448.877,
+      "duration": 93.051,
+      "script_words": 106
+    },
+    {
+      "chunk_id": "ALG-POL-3_concept_3_chunk_008",
+      "chunk_file": "008_example_0.json",
+      "wav_file": "008_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ನಕ್ಷೆಯಿಂದ ಶೂನ್ಯತೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "worked_example",
+      "start": 449.477,
+      "end": 468.888,
+      "duration": 19.411,
+      "script_words": 32
+    },
+    {
+      "chunk_id": "ALG-POL-3_concept_3_chunk_009",
+      "chunk_file": "009_example_cont_0_1.json",
+      "wav_file": "009_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಮೊದಲ ಮೂರು ನಕ್ಷೆಗಳು",
+      "type": "worked_example",
+      "start": 469.488,
+      "end": 515.179,
+      "duration": 45.691,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "ALG-POL-3_concept_3_chunk_010",
+      "chunk_file": "010_example_cont_0_2.json",
+      "wav_file": "010_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಕೊನೆಯ ಮೂರು ನಕ್ಷೆಗಳು",
+      "type": "worked_example",
+      "start": 515.779,
+      "end": 558.79,
+      "duration": 43.011,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "ALG-POL-3_concept_3_chunk_011",
+      "chunk_file": "011_example_cont_0_3.json",
+      "wav_file": "011_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "start": 559.39,
+      "end": 597.721,
+      "duration": 38.331,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "ALG-POL-3_concept_3_chunk_012",
+      "chunk_file": "012_recap_0.json",
+      "wav_file": "012_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಶೂನ್ಯತೆಗಳ ರೇಖಾಗಣಿತೀಯ ಅರ್ಥ",
+      "type": "recap",
+      "start": 598.321,
+      "end": 645.812,
+      "duration": 47.491,
+      "script_words": 60
+    }
+  ]
+}

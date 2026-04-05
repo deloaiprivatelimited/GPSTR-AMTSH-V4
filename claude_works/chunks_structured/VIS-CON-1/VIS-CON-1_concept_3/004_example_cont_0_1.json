@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು (1-3)",
+  "script": "ಮೊದಲಿಗೆ, ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ 6 ಸೆಂಟಿಮೀಟರ್ ಉದ್ದದ ಪಿ ಕ್ಯೂ ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯೋಣ. ಇದು ನಮ್ಮ ಚೌಕದ ಪಾದವಾಗಿರುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಚೌಕದ ಎಲ್ಲಾ ಕೋನಗಳು 90 ಡಿಗ್ರಿ ಇರುವುದರಿಂದ, ನಾವು ಕೋನಮಾಪಕವನ್ನು ಪಿ ಬಿಂದುವಿನಲ್ಲಿ ಇಟ್ಟು 90 ಡಿಗ್ರಿ ಕೋನವನ್ನು ಗುರುತಿಸಿ, ಪಿ ಯಿಂದ ಒಂದು ಲಂಬ ಕಿರಣವನ್ನು ಎಳೆಯಬೇಕು. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಚೌಕದ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, ಕೈವಾರದಲ್ಲಿ 6 ಸೆಂಟಿಮೀಟರ್ ತ್ರಿಜ್ಯವನ್ನು ತೆಗೆದುಕೊಂಡು, ಪಿ ಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು, ನಾವು ಎಳೆದ ಲಂಬ ಕಿರಣದ ಮೇಲೆ ಒಂದು ಕಂಸವನ್ನು ಎಳೆಯೋಣ. ಈ ಕಂಸವು ಕಿರಣವನ್ನು ಛೇದಿಸುವ ಬಿಂದುವೇ ಎಸ್. ಈಗ ಪಿ ಎಸ್ ಕೂಡ 6 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ $6$ cm ಉದ್ದದ $PQ$ ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯೋಣ. ಇದು ನಮ್ಮ ಚೌಕದ ಪಾದವಾಗಿರುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಚೌಕದ ಎಲ್ಲಾ ಕೋನಗಳು $90^\\circ$ ಇರುವುದರಿಂದ, ನಾವು ಕೋನಮಾಪಕವನ್ನು $P$ ಬಿಂದುವಿನಲ್ಲಿ ಇಟ್ಟು $90^\\circ$ ಕೋನವನ್ನು ಗುರುತಿಸಿ, $P$ ಯಿಂದ ಒಂದು ಲಂಬ ಕಿರಣವನ್ನು ಎಳೆಯಬೇಕು. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಚೌಕದ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, ಕೈವಾರದಲ್ಲಿ $6$ cm ತ್ರಿಜ್ಯವನ್ನು ತೆಗೆದುಕೊಂಡು, $P$ ಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು, ನಾವು ಎಳೆದ ಲಂಬ ಕಿರಣದ ಮೇಲೆ ಒಂದು ಕಂಸವನ್ನು ಎಳೆಯೋಣ. ಈ ಕಂಸವು ಕಿರಣವನ್ನು ಛೇದಿಸುವ ಬಿಂದುವೇ $S$. ಈಗ $PS$ ಕೂಡ $6$ cm ಆಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 6 cm line segment PQ is drawn. A perpendicular line is drawn upwards from point P. An arc with a 6 cm radius, centered at P, intersects the perpendicular line at point S.",
+    "labels": "P, Q, S, 6 cm, 90°",
+    "mathematical_significance": "This visual shows the first three steps of constructing a square: creating the base, constructing a right angle, and marking the adjacent side of equal length.",
+    "placeholder_note": "Image to be generated showing steps 1-3 of the construction."
+  },
+  "source_example_id": "VIS-CON-1_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$PQ = 6$ cm ಅಳತೆಯ ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯಿರಿ.",
+      "justification": "ಚೌಕದ ಒಂದು ಬಾಹುವನ್ನು ರಚಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$P$ ಬಿಂದುವಿನಲ್ಲಿ $\\angle P = 90^\\circ$ ರಚಿಸಿ.",
+      "justification": "ಚೌಕದ ಎಲ್ಲಾ ಕೋನಗಳು $90^\\circ$ ಇರುತ್ತವೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "$P$ ಕೇಂದ್ರವಾಗಿ, $6$ cm ತ್ರಿಜ್ಯದಿಂದ $S$ ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ. ($PS = 6$ cm)",
+      "justification": "ಚೌಕದ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "VIS-CON-1_concept_3_chunk_004"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "formula_showcase",
+  "slide_title": "ಸಂದರ್ಭ 2: ವಿಭಿನ್ನ ಛೇದಗಳು",
+  "script": "ಈಗ, ವಿಭಿನ್ನ ಛೇದಗಳನ್ನು ಹೊಂದಿರುವ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ನೋಡೋಣ. ಇದರ ಸೂತ್ರವು b ಭಾಗ a ಪ್ಲಸ್ d ಭಾಗ c ಸಮನಾಗಿರುತ್ತದೆ b d ಭಾಗ a d ಪ್ಲಸ್ b c. ಈ ವಿಧಾನವನ್ನು ಅಡ್ಡ ಗುಣಾಕಾರ ಅಥವಾ cross-multiplication ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಇಲ್ಲಿ, ಮೊದಲ ಅಂಶವನ್ನು ಎರಡನೇ ಛೇದದಿಂದ ಗುಣಿಸುತ್ತೇವೆ, ಅಂದರೆ a ಗುಣಿಸು d. ನಂತರ, ಎರಡನೇ ಅಂಶವನ್ನು ಮೊದಲ ಛೇದದಿಂದ ಗುಣಿಸುತ್ತೇವೆ, ಅಂದರೆ c ಗುಣಿಸು b. ಈ ಎರಡು ಗುಣಲಬ್ಧಗಳನ್ನು ಕೂಡಿಸಿ ಅಂಶವನ್ನು ಪಡೆಯುತ್ತೇವೆ. ಛೇದಕ್ಕಾಗಿ, ಎರಡೂ ಛೇದಗಳನ್ನು, ಅಂದರೆ b ಮತ್ತು d ಅನ್ನು ಗುಣಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ, ವಿಭಿನ್ನ ಛೇದಗಳನ್ನು ಹೊಂದಿರುವ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ನೋಡೋಣ. ಇದರ ಸೂತ್ರವು $\\frac{a}{b} + \\frac{c}{d} = \\frac{ad+bc}{bd}$ ಆಗಿದೆ. ಈ ವಿಧಾನವನ್ನು ಅಡ್ಡ ಗುಣಾಕಾರ (cross-multiplication) ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಇಲ್ಲಿ, ಮೊದಲ ಅಂಶವನ್ನು ($a$) ಎರಡನೇ ಛೇದದಿಂದ ($d$) ಗುಣಿಸುತ್ತೇವೆ. ನಂತರ, ಎರಡನೇ ಅಂಶವನ್ನು ($c$) ಮೊದಲ ಛೇದದಿಂದ ($b$) ಗುಣಿಸುತ್ತೇವೆ. ಈ ಎರಡು ಗುಣಲಬ್ಧಗಳನ್ನು ಕೂಡಿಸಿ ($ad+bc$) ಅಂಶವನ್ನು ಪಡೆಯುತ್ತೇವೆ. ಛೇದಕ್ಕಾಗಿ, ಎರಡೂ ಛೇದಗಳನ್ನು ($b$ ಮತ್ತು $d$) ಗುಣಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸೂತ್ರ: $\\frac{a}{b} + \\frac{c}{d} = \\frac{ad+bc}{bd}$",
+    "ಮೊದಲ ಅಂಶವನ್ನು ($a$) ಎರಡನೇ ಛೇದದಿಂದ ($d$) ಗುಣಿಸಿ.",
+    "ಎರಡನೇ ಅಂಶವನ್ನು ($c$) ಮೊದಲ ಛೇದದಿಂದ ($b$) ಗುಣಿಸಿ.",
+    "ಈ ಗುಣಲಬ್ಧಗಳನ್ನು ಕೂಡಿಸಿ ($ad+bc$), ಮತ್ತು ಛೇದಗಳನ್ನು ಗುಣಿಸಿ ($bd$)."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "modern",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{a}{b} + \\frac{c}{d} = \\frac{ad+bc}{bd}",
+    "placeholder_note": "Formula for adding rational numbers with different denominators using cross-multiplication."
+  },
+  "chunk_id": "NS-RAT-2_concept_5_chunk_005"
+}

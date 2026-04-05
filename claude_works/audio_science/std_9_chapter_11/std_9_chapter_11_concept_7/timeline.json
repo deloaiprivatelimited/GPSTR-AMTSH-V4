@@ -1,0 +1,112 @@
+{
+  "module_id": "std_9_chapter_11_concept_7",
+  "chapter_code": "std_9_chapter_11",
+  "voice": "Iapetus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 9,
+  "total_duration": 385.859,
+  "total_duration_formatted": "6:25",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_11_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಶ್ರವಣ ವ್ಯಾಪ್ತಿ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 43.931,
+      "duration": 43.931,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "std_9_chapter_11_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 44.531,
+      "end": 76.502,
+      "duration": 31.971,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_9_chapter_11_concept_7_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಶ್ರವಣ ಯಂತ್ರ (Hearing Aid)",
+      "type": "concept_explanation",
+      "start": 77.102,
+      "end": 117.353,
+      "duration": 40.251,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_9_chapter_11_concept_7_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಶ್ರವಣ ಯಂತ್ರದ ಕಾರ್ಯವಿಧಾನ",
+      "type": "concept_explanation",
+      "start": 117.953,
+      "end": 171.484,
+      "duration": 53.531,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_9_chapter_11_concept_7_chunk_005",
+      "chunk_file": "005_classification_0.json",
+      "wav_file": "005_classification_0.wav",
+      "slide_title": "ಆವೃತ್ತಿ ಆಧಾರಿತ ಶಬ್ದದ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "start": 172.084,
+      "end": 205.615,
+      "duration": 33.531,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "std_9_chapter_11_concept_7_chunk_006",
+      "chunk_file": "006_classification_cont_0_1.json",
+      "wav_file": "006_classification_cont_0_1.wav",
+      "slide_title": "ಅವಧ್ವನಿ (Infrasound)",
+      "type": "concept_explanation",
+      "start": 206.215,
+      "end": 248.826,
+      "duration": 42.611,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_9_chapter_11_concept_7_chunk_007",
+      "chunk_file": "007_classification_cont_0_2.json",
+      "wav_file": "007_classification_cont_0_2.wav",
+      "slide_title": "ಶ್ರವ್ಯ ಧ್ವನಿ (Audible Sound)",
+      "type": "concept_explanation",
+      "start": 249.426,
+      "end": 289.677,
+      "duration": 40.251,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_9_chapter_11_concept_7_chunk_008",
+      "chunk_file": "008_classification_cont_0_3.json",
+      "wav_file": "008_classification_cont_0_3.wav",
+      "slide_title": "ಶ್ರವಣಾತೀತ ಧ್ವನಿ (Ultrasound)",
+      "type": "concept_explanation",
+      "start": 290.277,
+      "end": 340.328,
+      "duration": 50.051,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_9_chapter_11_concept_7_chunk_009",
+      "chunk_file": "009_recap_0.json",
+      "wav_file": "009_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಶ್ರವಣ ವ್ಯಾಪ್ತಿ",
+      "type": "recap",
+      "start": 340.928,
+      "end": 385.259,
+      "duration": 44.331,
+      "script_words": 64
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 4",
+  "script": "ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಾವು ವರ್ಧನೆ, ಎಂ, ಅನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ. ಇದು ಪ್ರತಿಬಿಂಬದ ಗಾತ್ರವು ವಸ್ತುವಿನ ಗಾತ್ರಕ್ಕೆ ಹೋಲಿಸಿದರೆ ಎಷ್ಟು ದೊಡ್ಡದು ಅಥವಾ ಚಿಕ್ಕದು ಎಂದು ಹೇಳುತ್ತದೆ. ವರ್ಧನೆಯ ಸೂತ್ರವು, ಎಂ ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ ವಿ ಡಿವೈಡೆಡ್ ಬೈ ಯು. ನಾವು ಈಗಾಗಲೇ ಕಂಡುಹಿಡಿದ ವಿ ಮತ್ತು ಯು ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸೋಣ. ಎಂ ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ ಆಫ್ ಪ್ಲಸ್ ಒಂದು ಪಾಯಿಂಟ್ ಒಂದು ಐದು, ಭಾಗಿಸು ಮೈನಸ್ ಐದು ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಸೊನ್ನೆ. ಇಲ್ಲಿ ಮೈನಸ್ ಚಿಹ್ನೆಗಳು ಕ್ಯಾನ್ಸಲ್ ಆಗಿ, ನಮಗೆ ಧನಾತ್ಮಕ ಮೌಲ್ಯ ಸಿಗುತ್ತದೆ. ಎಂ ಈಕ್ವಲ್ಸ್ ಪ್ಲಸ್ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಎರಡು ಮೂರು.",
+  "script_display": "**ಹಂತ 4: ವರ್ಧನೆ (m) ಕಂಡುಹಿಡಿಯುವುದು.**\nವರ್ಧನೆಯ ಸೂತ್ರ: m = -v/u",
+  "display_bullets": [
+    "ಹಂತ 4: ವರ್ಧನೆ (m) ಕಂಡುಹಿಡಿಯುವುದು.",
+    "ಸೂತ್ರ: m = -v/u",
+    "m = - (+1.15) / (-5.00) = +0.23"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_warm",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "m = -\\frac{v}{u} \\\\ m = -\\frac{+1.15 \\text{ m}}{-5.00 \\text{ m}} \\\\ m = +0.23",
+    "placeholder_note": "Calculation of magnification m"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_9_example_9.1",
+  "chunk_id": "std_10_chapter_9_concept_4_chunk_022"
+}

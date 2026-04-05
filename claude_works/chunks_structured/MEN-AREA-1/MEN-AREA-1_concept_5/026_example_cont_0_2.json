@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಾವು C ಈಕ್ವಲ್ಸ್ 3.14 ಗುಣಿಸು 10 ಎಂದು ಲೆಕ್ಕಾಚಾರ ಮಾಡಬೇಕಿದೆ. 3.14 ನ್ನು 10 ರಿಂದ ಗುಣಿಸಿದಾಗ, ದಶಮಾಂಶ ಬಿಂದು ಒಂದು ಸ್ಥಾನ ಬಲಕ್ಕೆ ಚಲಿಸುತ್ತದೆ, ಹಾಗಾಗಿ ನಮಗೆ 31.4 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ವೃತ್ತದ ಪರಿಧಿಯು 31.4 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಅಂದರೆ, 10 ಸೆಂಟಿಮೀಟರ್ ವ್ಯಾಸವುಳ್ಳ ವೃತ್ತದ ಪರಿಧಿಯು 31.4 ಸೆಂಟಿಮೀಟರ್ ಆಗಿರುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ನಾವು $C = 3.14 \\times 10$ ಎಂದು ಲೆಕ್ಕಾಚಾರ ಮಾಡಬೇಕಿದೆ. ಇದು ನಮಗೆ $31.4$ ನೀಡುತ್ತದೆ. ಆದ್ದರಿಂದ, ವೃತ್ತದ ಪರಿಧಿಯು 31.4 cm ಆಗಿದೆ. ಅಂದರೆ, 10cm ವ್ಯಾಸವುಳ್ಳ ವೃತ್ತದ ಪರಿಧಿಯು 31.4cm ಆಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪರಿಧಿ = 31.4 cm",
+    "ಆದ್ದರಿಂದ, 10cm ವ್ಯಾಸವುಳ್ಳ ವೃತ್ತದ ಪರಿಧಿಯು 31.4cm ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "C = 31.4 \\text{ cm}",
+    "placeholder_note": "Final answer highlighted"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "MEN-AREA-1_example_11",
+  "final_answer": "31.4 cm",
+  "final_answer_display": "$C = 31.4$ cm",
+  "chunk_id": "MEN-AREA-1_concept_5_chunk_026"
+}

@@ -1,0 +1,79 @@
+{
+  "module_id": "std_10_chapter_10_concept_7",
+  "chapter_code": "std_10_chapter_10",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 253.106,
+  "total_duration_formatted": "4:13",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_10_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಕಾಮನಬಿಲ್ಲು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 58.891,
+      "duration": 58.891,
+      "script_words": 81
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 59.491,
+      "end": 94.582,
+      "duration": 35.091,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_7_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಕಾಮನಬಿಲ್ಲು: ಹಂತ 1 - ವಕ್ರೀಭವನ ಮತ್ತು ವರ್ಣವಿಭಜನೆ",
+      "type": "concept_explanation",
+      "start": 95.182,
+      "end": 134.553,
+      "duration": 39.371,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_7_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಕಾಮನಬಿಲ್ಲು: ಹಂತ 2 - ಪೂರ್ಣ ಆಂತರಿಕ ಪ್ರತಿಫಲನ",
+      "type": "concept_explanation",
+      "start": 135.153,
+      "end": 168.404,
+      "duration": 33.251,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_7_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಕಾಮನಬಿಲ್ಲು: ಹಂತ 3 - ಪುನಃ ವಕ್ರೀಭವನ",
+      "type": "concept_explanation",
+      "start": 169.004,
+      "end": 216.575,
+      "duration": 47.571,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_10_chapter_10_concept_7_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಕಾಮನಬಿಲ್ಲು",
+      "type": "recap",
+      "start": 217.175,
+      "end": 252.506,
+      "duration": 35.331,
+      "script_words": 50
+    }
+  ]
+}

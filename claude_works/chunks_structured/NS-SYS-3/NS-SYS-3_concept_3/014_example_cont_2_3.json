@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು ಒಂದು ಪಾಯಿಂಟ್ ಎರಡು ಏಳು ಬಾರ್ ಅನ್ನು p ಬೈ q ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿದಾಗ, ನಮಗೆ ಹದಿನಾಲ್ಕು ಬೈ ಹನ್ನೊಂದು ಎಂಬ ಉತ್ತರ ಸಿಗುತ್ತದೆ. ಇದು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿದೆ.",
+  "script_display": "ಹೀಗೆ, $1.\\bar{27}$ ಅನ್ನು $\\frac{p}{q}$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿದಾಗ, ನಮಗೆ $\\frac{14}{11}$ ಎಂಬ ಉತ್ತರ ಸಿಗುತ್ತದೆ. ಇದು ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "$1.272727... = \\frac{14}{11}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "light_theme_kannada",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SYS-3_example_8",
+  "final_answer": "\\frac{14}{11}",
+  "final_answer_display": "$1.\\bar{27} = \\frac{14}{11}$",
+  "chunk_id": "NS-SYS-3_concept_3_chunk_014"
+}

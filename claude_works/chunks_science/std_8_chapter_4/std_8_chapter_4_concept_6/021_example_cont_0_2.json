@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ, ಆ ಇಂಧನದ ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯ ನಲವತ್ತು ಸಾವಿರ ಕಿಲೋಜೌಲ್ ಪರ್ ಕೆಜಿ ಆಗಿದೆ. ಇದರರ್ಥ, ಒಂದು ಕೆಜಿ ಇಂಧನವನ್ನು ಉರಿಸಿದಾಗ ನಲವತ್ತು ಸಾವಿರ ಕಿಲೋಜೌಲ್ ಉಷ್ಣ ಶಕ್ತಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ:",
+  "display_bullets": [
+    "ಆ ಇಂಧನದ ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯ 40,000 kJ/kg ಆಗಿದೆ.",
+    "ಅಂದರೆ, 1 kg ಇಂಧನವು 40,000 kJ ಉಷ್ಣವನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "std_8_chapter_4_example_1",
+  "final_answer": "ಆ ಇಂಧನದ ಕ್ಯಾಲೋರಿ ಮೌಲ್ಯ 40,000 kJ/kg ಆಗಿದೆ.",
+  "final_answer_display": "40,000 kJ/kg",
+  "chunk_id": "std_8_chapter_4_concept_6_chunk_021"
+}

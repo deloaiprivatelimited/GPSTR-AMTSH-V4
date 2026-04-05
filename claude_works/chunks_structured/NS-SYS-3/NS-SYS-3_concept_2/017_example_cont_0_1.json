@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಮೊದಲಿಗೆ, ಒಂದು ಸಂಖ್ಯಾರೇಖೆಯನ್ನು ಎಳೆಯೋಣ ಮತ್ತು ಅದರ ಮೇಲೆ ಸೊನ್ನೆ, ಒಂದು, ಎರಡು ಎಂದು ಪೂರ್ಣಾಂಕಗಳನ್ನು ಗುರುತಿಸೋಣ. ಸೊನ್ನೆಯನ್ನು O ಎಂದು ಮತ್ತು ಒಂದನ್ನು A ಎಂದು ಹೆಸರಿಸೋಣ. ಈಗ, A ಬಿಂದುವಿನಲ್ಲಿ, ಸಂಖ್ಯಾರೇಖೆಗೆ ಲಂಬವಾಗಿ ಒಂದು ಏಕಮಾನ ಉದ್ದದ AB ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯೋಣ. ಇದರಿಂದ ನಮಗೆ OAB ಎಂಬ ಲಂಬಕೋನ ತ್ರಿಭುಜ ಸಿಗುತ್ತದೆ, ಇದರಲ್ಲಿ OA ಮತ್ತು AB ಎರಡರ ಉದ್ದವೂ ಒಂದು ಏಕಮಾನ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಒಂದು ಸಂಖ್ಯಾರೇಖೆಯನ್ನು ಎಳೆಯೋಣ ಮತ್ತು ಅದರ ಮೇಲೆ 0, 1, 2 ಎಂದು ಪೂರ್ಣಾಂಕಗಳನ್ನು ಗುರುತಿಸೋಣ. 0 ಯನ್ನು O ಎಂದು ಮತ್ತು 1 ನ್ನು A ಎಂದು ಹೆಸರಿಸೋಣ. ಈಗ, A ಬಿಂದುವಿನಲ್ಲಿ, ಸಂಖ್ಯಾರೇಖೆಗೆ ಲಂಬವಾಗಿ 1 ಏಕಮಾನ ಉದ್ದದ AB ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯೋಣ. ಇದರಿಂದ ನಮಗೆ OAB ಎಂಬ ಲಂಬಕೋನ ತ್ರಿಭುಜ ಸಿಗುತ್ತದೆ, ಇದರಲ್ಲಿ OA ಮತ್ತು AB ಎರಡರ ಉದ್ದವೂ 1 ಏಕಮಾನ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line is drawn. Point O is at 0, and point A is at 1. A perpendicular line segment AB, of length 1 unit, is drawn upwards from point A. The labels O, A, B, 0, 1, 2 should be clear.",
+    "labels": "O, A, B, 0, 1, 2",
+    "mathematical_significance": "This construction creates a right-angled triangle OAB with base OA=1 and height AB=1, which is the necessary setup to apply Pythagoras' theorem to find a length of sqrt(2).",
+    "placeholder_note": "Image to be generated showing the number line and the constructed triangle OAB."
+  },
+  "source_example_id": "NS-SYS-3_example_3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸಂಖ್ಯಾರೇಖೆಯನ್ನು ಎಳೆದು 0, 1, 2 ಎಂದು ಗುರುತಿಸಿ.",
+      "justification": "ಸಂಖ್ಯೆಗಳನ್ನು ಗುರುತಿಸಲು ಆಧಾರರೇಖೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "O(0) ಮತ್ತು A(1) ಗುರುತಿಸಿ. A ಯಲ್ಲಿ 1 ಏಕಮಾನ ಉದ್ದದ ಲಂಬ AB ಯನ್ನು ಎಳೆಯಿರಿ.",
+      "justification": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಬಳಸಲು ಲಂಬಕೋನ ತ್ರಿಭುಜ ರಚನೆ."
+    }
+  ],
+  "chunk_id": "NS-SYS-3_concept_2_chunk_017"
+}

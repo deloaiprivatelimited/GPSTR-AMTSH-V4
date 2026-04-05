@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಆಧಾರ, ಘಾತಸೂಚಿ ಮತ್ತು ಘಾತ",
+  "script": "ಹಾಗಾದರೆ, ನಾವು ಕಲಿತ ಮೂರು ಮುಖ್ಯ ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ನೋಡೋಣ. 10 ರ ಘಾತ 4 ಎಂಬ ಉದಾಹರಣೆಯಲ್ಲಿ, 10 ಎಂಬುದು ಆಧಾರ, ಅಂದರೆ ಯಾವ ಸಂಖ್ಯೆಯನ್ನು ಗುಣಿಸಲಾಗುತ್ತಿದೆ. 4 ಎಂಬುದು ಘಾತಸೂಚಿ, ಅಂದರೆ ಆಧಾರವನ್ನು ಎಷ್ಟು ಬಾರಿ ಗುಣಿಸಲಾಗುತ್ತಿದೆ. ಮತ್ತು 10 ರ ಘಾತ 4 ಎಂಬ ಸಂಪೂರ್ಣ ರೂಪವನ್ನು ಘಾತ ಅಥವಾ ಪವರ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಮೂರು ಭಾಗಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು ಘಾತಾಂಕಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಬಹಳ ಮುಖ್ಯ. ಆಧಾರವು ಕೆಳಗೆ ಇರುತ್ತದೆ, ಘಾತಸೂಚಿಯು ಮೇಲೆ ಇರುತ್ತದೆ, ಮತ್ತು ಇವೆರಡೂ ಸೇರಿ ಘಾತವಾಗುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ನಾವು ಕಲಿತ ಮೂರು ಮುಖ್ಯ ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ನೋಡೋಣ. $10^4$ ಎಂಬ ಉದಾಹರಣೆಯಲ್ಲಿ, 10 ಎಂಬುದು ಆಧಾರ, ಅಂದರೆ ಯಾವ ಸಂಖ್ಯೆಯನ್ನು ಗುಣಿಸಲಾಗುತ್ತಿದೆ. 4 ಎಂಬುದು ಘಾತಸೂಚಿ, ಅಂದರೆ ಆಧಾರವನ್ನು ಎಷ್ಟು ಬಾರಿ ಗುಣಿಸಲಾಗುತ್ತಿದೆ. ಮತ್ತು $10^4$ ಎಂಬ ಸಂಪೂರ್ಣ ರೂಪವನ್ನು ಘಾತ ಅಥವಾ ಪವರ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಮೂರು ಭಾಗಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು ಘಾತಾಂಕಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಬಹಳ ಮುಖ್ಯ. ಆಧಾರವು ಕೆಳಗೆ ಇರುತ್ತದೆ, ಘಾತಸೂಚಿಯು ಮೇಲೆ ಇರುತ್ತದೆ, ಮತ್ತು ಇವೆರಡೂ ಸೇರಿ ಘಾತವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "10: ಆಧಾರ (Base) - ಗುಣಿಸಲ್ಪಡುವ ಸಂಖ್ಯೆ.",
+    "4: ಘಾತಸೂಚಿ (Exponent) - ಎಷ್ಟು ಬಾರಿ ಗುಣಿಸಬೇಕು ಎಂದು ಸೂಚಿಸುವ ಸಂಖ್ಯೆ.",
+    "$10^4$: ಘಾತ (Power) - ಸಂಪೂರ್ಣ ಘಾತಾಂಕ ರೂಪ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The expression 10^4 is shown prominently. An arrow points from the number 10 to a label 'ಆಧಾರ (Base)'. Another arrow points from the superscript 4 to a label 'ಘಾತಸೂಚಿ (Exponent)'. A bracket encloses the entire expression 10^4, pointing to a label 'ಘಾತ (Power)'.",
+    "labels": "ಆಧಾರ, ಘಾತಸೂಚಿ, ಘಾತ, Base, Exponent, Power",
+    "mathematical_significance": "Visually distinguishes and labels the three key components of an exponential expression: base, exponent, and the power itself, clarifying their relationship.",
+    "placeholder_note": "Image to be generated showing the parts of 10^4."
+  },
+  "chunk_id": "NS-EXP-2_concept_1_chunk_013"
+}

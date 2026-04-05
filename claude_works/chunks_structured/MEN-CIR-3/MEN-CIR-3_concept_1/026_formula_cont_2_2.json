@@ -1,0 +1,35 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ನೇರ ಸೂತ್ರ (Direct Formula)",
+  "script": "ಅಧಿಕ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಇನ್ನೊಂದು ನೇರವಾದ ವಿಧಾನವಿದೆ. ಲಘು ಖಂಡದ ಕೋನವು ಥೀಟಾ ಆಗಿದ್ದರೆ, ಅಧಿಕ ಖಂಡದ ಕೋನವು ಮುನ್ನೂರ ಅರವತ್ತು ಮೈನಸ್ ಥೀಟಾ ಆಗಿರುತ್ತದೆ. ಯಾಕೆಂದರೆ ವೃತ್ತದ ಕೇಂದ್ರದಲ್ಲಿನ ಒಟ್ಟು ಕೋನ ಮುನ್ನೂರ ಅರವತ್ತು ಡಿಗ್ರಿ. ಈಗ, ಈ ಅಧಿಕ ಕೋನವನ್ನು ಬಳಸಿ ನಾವು ನೇರವಾಗಿ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕ ಹಾಕಬಹುದು. ನಮ್ಮ ಮೂಲ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ಸೂತ್ರದಲ್ಲಿ ಥೀಟಾ ಬದಲಿಗೆ ಮುನ್ನೂರ ಅರವತ್ತು ಮೈನಸ್ ಥೀಟಾ ಎಂದು ಹಾಕಿದರೆ, ನಮಗೆ ಅಧಿಕ ಖಂಡದ ವಿಸ್ತೀರ್ಣ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಅಧಿಕ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಇನ್ನೊಂದು ನೇರವಾದ ವಿಧಾನವಿದೆ. ಲಘು ಖಂಡದ ಕೋನವು $\\theta$ ಆಗಿದ್ದರೆ, ಅಧಿಕ ಖಂಡದ ಕೋನವು $360^\\circ - \\theta$ ಆಗಿರುತ್ತದೆ. ಯಾಕೆಂದರೆ ವೃತ್ತದ ಕೇಂದ್ರದಲ್ಲಿನ ಒಟ್ಟು ಕೋನ $360^\\circ$. ಈಗ, ಈ ಅಧಿಕ ಕೋನವನ್ನು (reflex angle) ಬಳಸಿ ನಾವು ನೇರವಾಗಿ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕ ಹಾಕಬಹುದು. ನಮ್ಮ ಮೂಲ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ಸೂತ್ರದಲ್ಲಿ $\\theta$ ಬದಲಿಗೆ $(360^\\circ - \\theta)$ ಎಂದು ಹಾಕಿದರೆ, ನಮಗೆ ಅಧಿಕ ಖಂಡದ ವಿಸ್ತೀರ್ಣ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅಧಿಕ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ಕೋನವು $360^\\circ - \\theta$ ಆಗಿರುತ್ತದೆ.",
+    "ಈ ಅಧಿಕ ಕೋನವನ್ನು ಬಳಸಿ ನೇರವಾಗಿ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕ ಹಾಕಬಹುದು.",
+    "ಸೂತ್ರ: $A_{major} = \\frac{360^\\circ - \\theta}{360^\\circ} \\times \\pi r^2$."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_formula_top",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "A_{major} = \\frac{360^\\circ - \\theta}{360^\\circ} \\times \\pi r^2",
+    "placeholder_note": "Direct formula for Area of Major Sector using the reflex angle."
+  },
+  "chunk_id": "MEN-CIR-3_concept_1_chunk_026"
+}

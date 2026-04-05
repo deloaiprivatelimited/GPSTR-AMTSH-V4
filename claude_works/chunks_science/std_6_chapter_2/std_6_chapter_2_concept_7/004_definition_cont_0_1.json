@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಆವಾಸಸ್ಥಾನದ ಉದಾಹರಣೆಗಳು",
+  "script": "ಈಗ ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಪ್ರತಿಯೊಂದು ಜೀವಿಗೂ ತನ್ನದೇ ಆದ ವಿಶಿಷ್ಟ ಆವಾಸಸ್ಥಾನವಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಮೀನಿನ ಆವಾಸಸ್ಥಾನ ನೀರು. ಅದು ಕೊಳ, ನದಿ ಅಥವಾ ಸಮುದ್ರವಾಗಿರಬಹುದು. ಅಲ್ಲಿ ಅದಕ್ಕೆ ಈಜಲು ಜಾಗ, ಉಸಿರಾಡಲು ಆಮ್ಲಜನಕ ಮತ್ತು ಆಹಾರ ಸಿಗುತ್ತದೆ. ಹಾಗೆಯೇ, ಒಂಟೆಯ ಆವಾಸಸ್ಥಾನ ಮರುಭೂಮಿ. ಅಲ್ಲಿನ ಬಿಸಿ ವಾತಾವರಣ ಮತ್ತು ಕಡಿಮೆ ನೀರಿಗೆ ಅದರ ದೇಹ ಹೊಂದಿಕೊಂಡಿರುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಸಿಂಹದ ಆವಾಸಸ್ಥಾನ ಅರಣ್ಯ. ಅಲ್ಲಿ ಅದಕ್ಕೆ ಬೇಟೆಯಾಡಲು ಪ್ರಾಣಿಗಳು ಮತ್ತು ಅಡಗಿಕೊಳ್ಳಲು ಪೊದೆಗಳು ಸಿಗುತ್ತವೆ.",
+  "script_display": "ಈಗ ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡೋಣ. ಪ್ರತಿಯೊಂದು ಜೀವಿಗೂ ತನ್ನದೇ ಆದ ವಿಶಿಷ್ಟ ಆವಾಸಸ್ಥಾನವಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಮೀನಿನ ಆವಾಸಸ್ಥಾನ ನೀರು. ಅದು ಕೊಳ, ನದಿ ಅಥವಾ ಸಮುದ್ರವಾಗಿರಬಹುದು. ಅಲ್ಲಿ ಅದಕ್ಕೆ ಈಜಲು ಜಾಗ, ಉಸಿರಾಡಲು ಆಮ್ಲಜನಕ ಮತ್ತು ಆಹಾರ ಸಿಗುತ್ತದೆ. ಹಾಗೆಯೇ, ಒಂಟೆಯ ಆವಾಸಸ್ಥಾನ ಮರುಭೂಮಿ. ಅಲ್ಲಿನ ಬಿಸಿ ವಾತಾವರಣ ಮತ್ತು ಕಡಿಮೆ ನೀರಿಗೆ ಅದರ ದೇಹ ಹೊಂದಿಕೊಂಡಿರುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಸಿಂಹದ ಆವಾಸಸ್ಥಾನ ಅರಣ್ಯ. ಅಲ್ಲಿ ಅದಕ್ಕೆ ಬೇಟೆಯಾಡಲು ಪ್ರಾಣಿಗಳು ಮತ್ತು ಅಡಗಿಕೊಳ್ಳಲು ಪೊದೆಗಳು ಸಿಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ಮೀನಿನ ಆವಾಸಸ್ಥಾನ: ನೀರು (ಕೊಳ, ನದಿ, ಸಮುದ್ರ)",
+    "ಒಂಟೆಯ ಆವಾಸಸ್ಥಾನ: ಮರುಭೂಮಿ",
+    "ಸಿಂಹದ ಆವಾಸಸ್ಥಾನ: ಅರಣ್ಯ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A three-panel image illustrating different habitats. Panel 1: A fish swimming in a pond. Panel 2: A camel standing in a desert with sand dunes. Panel 3: A lion in a grassy forest area.",
+    "labels": "ಮೀನು, ಒಂಟೆ, ಸಿಂಹ",
+    "scientific_significance": "Shows diverse organisms in their specific natural environments, which defines their habitat.",
+    "placeholder_note": "Image to be generated showing a fish in water, a camel in a desert, and a lion in a forest."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_2_concept_7_chunk_004"
+}

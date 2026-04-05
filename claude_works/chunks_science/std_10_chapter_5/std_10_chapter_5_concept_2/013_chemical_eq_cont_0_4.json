@@ -1,0 +1,27 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ",
+  "script": "ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ನೆನಪಿಡಿ. ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ಸಮಯದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುವ ಆಮ್ಲಜನಕವು ನೀರಿನ ಅಣುವಿನ ವಿಭಜನೆಯಿಂದ ಬರುತ್ತದೆ, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ನಿಂದಲ್ಲ. ಇದು ಪರೀಕ್ಷೆಗಳಲ್ಲಿ ಪದೇ ಪದೇ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಯಾಗಿದೆ.",
+  "script_display": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ಸಮಯದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುವ ಆಮ್ಲಜನಕವು (O₂), ನೀರಿನ (H₂O) ಅಣುವಿನ ವಿಭಜನೆಯಿಂದ ಬರುತ್ತದೆ, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್‌ನಿಂದ (CO₂) ಅಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_5_concept_2_chunk_013"
+}

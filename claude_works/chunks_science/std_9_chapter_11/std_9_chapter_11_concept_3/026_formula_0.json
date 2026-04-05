@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆವೃತ್ತಿ ಮತ್ತು ಕಾಲಾವಧಿಯ ಸಂಬಂಧ",
+  "script": "ಈಗ ನಾವು ಶಬ್ದ ತರಂಗದ ಒಂದು ಪ್ರಮುಖ ಸೂತ್ರವನ್ನು ನೋಡೋಣ, ಅದು ಆವೃತ್ತಿ ಮತ್ತು ಕಾಲಾವಧಿಯ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ. ಸೂತ್ರವು, nu ಈಕ್ವಲ್ಸ್ ಒಂದು ಭಾಗಿಸು T. ಇಲ್ಲಿ, ಗ್ರೀಕ್ ಅಕ್ಷರ nu ಆವೃತ್ತಿಯನ್ನು ಅಥವಾ ಫ್ರೀಕ್ವೆನ್ಸಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಕ್ಯಾಪಿಟಲ್ T ಅಕ್ಷರವು ಕಾಲಾವಧಿ ಅಥವಾ ಟೈಮ್ ಪೀರಿಯಡ್ ಅನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದರರ್ಥ, ಆವೃತ್ತಿಯು ಕಾಲಾವಧಿಯ ವ್ಯುತ್ಕ್ರಮವಾಗಿದೆ. ಅಂದರೆ, ಒಂದು ಮೌಲ್ಯ ತಿಳಿದಿದ್ದರೆ, ಇನ್ನೊಂದನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು. ಆವೃತ್ತಿಯ ಏಕಮಾನ ಹರ್ಟ್ಜ್ ಮತ್ತು ಕಾಲಾವಧಿಯ ಏಕಮಾನ ಸೆಕೆಂಡ್ ಆಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಶಬ್ದ ತರಂಗದ ಒಂದು ಪ್ರಮುಖ ಸೂತ್ರವನ್ನು ನೋಡೋಣ, ಅದು ಆವೃತ್ತಿ ಮತ್ತು ಕಾಲಾವಧಿಯ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ. ಸೂತ್ರವು, $\\nu = \\frac{1}{T}$. ಇಲ್ಲಿ, ಗ್ರೀಕ್ ಅಕ್ಷರ $\\nu$ (nu) ಆವೃತ್ತಿಯನ್ನು (Frequency) ಸೂಚಿಸುತ್ತದೆ. 'T' ಅಕ್ಷರವು ಕಾಲಾವಧಿ (Time Period) ಅನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದರರ್ಥ, ಆವೃತ್ತಿಯು ಕಾಲಾವಧಿಯ ವ್ಯುತ್ಕ್ರಮವಾಗಿದೆ. ಅಂದರೆ, ಒಂದು ಮೌಲ್ಯ ತಿಳಿದಿದ್ದರೆ, ಇನ್ನೊಂದನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು. ಆವೃತ್ತಿಯ ಏಕಮಾನ ಹರ್ಟ್ಜ್ (Hz) ಮತ್ತು ಕಾಲಾವಧಿಯ ಏಕಮಾನ ಸೆಕೆಂಡ್ (s) ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಸೂತ್ರ: $\\nu = \\frac{1}{T}$",
+    "$\\nu$ (nu) = ಆವೃತ್ತಿ (Frequency)",
+    "T = ಕಾಲಾವಧಿ (Time Period)",
+    "ಆವೃತ್ತಿಯು ಕಾಲಾವಧಿಯ ವ್ಯುತ್ಕ್ರಮವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "physics_formula_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\nu = \\frac{1}{T}",
+    "placeholder_note": "Formula showing the relationship between frequency (nu) and time period (T)."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_9_chapter_11_concept_3_chunk_026"
+}

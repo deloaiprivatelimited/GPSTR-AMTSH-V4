@@ -1,0 +1,180 @@
+{
+  "module_id": "std_8_science_ch_7_concept_2",
+  "chapter_code": "std_8_chapter_7",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 15,
+  "ok_count": 15,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:49:52",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "4f236a68d87f0302ec16b73f5ab8bc9c",
+      "wav_file": "001_intro_0.wav",
+      "duration": 52.971,
+      "slide_title": "ಪ್ರೌಢಾವಸ್ಥೆಯಲ್ಲಿನ ದೈಹಿಕ ಬದಲಾವಣೆಗಳು",
+      "type": "intro",
+      "script_words": 76,
+      "generated_at": "2026-04-02 14:47:28"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "14f9cb15068aeaafa446324ff10f7163",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 19.931,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 31,
+      "generated_at": "2026-04-02 14:47:40"
+    },
+    "004_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "3c7e4dfe1dd1866e27eda8ac0289e57c",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "duration": 37.171,
+      "slide_title": "ಉದಾಹರಣೆ: ಪೂರ್ಣ ಎತ್ತರದ ಲೆಕ್ಕಾಚಾರ",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 14:47:50"
+    },
+    "005_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "7653e6adf1e3cf9367b37461b74e8182",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "duration": 40.051,
+      "slide_title": "ಉದಾಹರಣೆ: ಹಂತ ಹಂತದ ಲೆಕ್ಕಾಚಾರ",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 14:47:51"
+    },
+    "003_formula_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "a142f6926e44b143230edcf4f1b97565",
+      "wav_file": "003_formula_0.wav",
+      "duration": 44.771,
+      "slide_title": "ಪೂರ್ಣ ಎತ್ತರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಸೂತ್ರ",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 14:47:54"
+    },
+    "010_property_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "050be35c3160db97681509a171c67aa0",
+      "wav_file": "010_property_1.wav",
+      "duration": 53.571,
+      "slide_title": "ಬೆವರು ಮತ್ತು ತೈಲ ಗ್ರಂಥಿಗಳ ಚಟುವಟಿಕೆ",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 14:48:29"
+    },
+    "008_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "baa4e25b00754de948e62e50161edf7e",
+      "wav_file": "008_property_cont_0_1.wav",
+      "duration": 43.491,
+      "slide_title": "ಪ್ರೌಢಾವಸ್ಥೆಯ ಬದಲಾವಣೆಗಳು: ದೇಹದ ಆಕಾರ",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 14:48:53"
+    },
+    "006_formula_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "173529183bfc17e33118b06938d793c3",
+      "wav_file": "006_formula_cont_0_3.wav",
+      "duration": 44.091,
+      "slide_title": "ಗಮನಿಸಬೇಕಾದ ಪ್ರಮುಖ ಅಂಶಗಳು",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 14:48:54"
+    },
+    "007_property_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "e7429ff12651fd193009a383ded5135b",
+      "wav_file": "007_property_0.wav",
+      "duration": 44.931,
+      "slide_title": "ಪ್ರೌಢಾವಸ್ಥೆಯ ಬದಲಾವಣೆಗಳು: ಎತ್ತರದಲ್ಲಿ ಹೆಚ್ಚಳ",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 14:48:55"
+    },
+    "009_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "60a17540a5249dc1fb729d4b5bacaede",
+      "wav_file": "009_property_cont_0_2.wav",
+      "duration": 52.931,
+      "slide_title": "ಪ್ರೌಢಾವಸ್ಥೆಯ ಬದಲಾವಣೆಗಳು: ಧ್ವನಿ ಬದಲಾವಣೆ",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 14:49:01"
+    },
+    "012_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "0856aaa67fc6a22359eca3af8950f872",
+      "wav_file": "012_example_cont_0_1.wav",
+      "duration": 33.091,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "script_words": 41,
+      "generated_at": "2026-04-02 14:49:20"
+    },
+    "014_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "fa6a00daec66fcfbd8f34f8de91d6786",
+      "wav_file": "014_example_cont_0_3.wav",
+      "duration": 21.971,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 29,
+      "generated_at": "2026-04-02 14:49:40"
+    },
+    "013_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "f9865fada5fe614656810559212ba3c0",
+      "wav_file": "013_example_cont_0_2.wav",
+      "duration": 24.251,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 (ಲೆಕ್ಕಾಚಾರ)",
+      "type": "worked_example",
+      "script_words": 29,
+      "generated_at": "2026-04-02 14:49:42"
+    },
+    "011_example_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "da311081d0dce02d45ec472f9e4cbc64",
+      "wav_file": "011_example_0.wav",
+      "duration": 27.811,
+      "slide_title": "ಉದಾಹರಣೆ ಲೆಕ್ಕ: ಪೂರ್ಣ ಎತ್ತರದ ಅಂದಾಜು",
+      "type": "worked_example",
+      "script_words": 38,
+      "generated_at": "2026-04-02 14:49:42"
+    },
+    "015_recap_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "a0180dacad94c9d9898f07741b6ed1c3",
+      "wav_file": "015_recap_0.wav",
+      "duration": 44.931,
+      "slide_title": "ಸಾರಾಂಶ: ಪ್ರೌಢಾವಸ್ಥೆಯಲ್ಲಿನ ದೈಹಿಕ ಬದಲಾವಣೆಗಳು",
+      "type": "recap",
+      "script_words": 57,
+      "generated_at": "2026-04-02 14:49:52"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಪದಗಳನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಟೂ ಎಕ್ಸ್ ಎಂಬ ಬಹುಪದೋಕ್ತಿಯನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ, ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಮತ್ತು ಟೂ ಎಕ್ಸ್ ಎಂಬ ಎರಡು ಭಾಗಗಳಿವೆ. ಇವೆರಡನ್ನೂ ಒಂದು ಪ್ಲಸ್ ಚಿಹ್ನೆಯು ಬೇರ್ಪಡಿಸುತ್ತಿದೆ. ಆದ್ದರಿಂದ, ಈ ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ. ಮೊದಲನೇ ಪದ ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ಡ್. ಮತ್ತು ಎರಡನೇ ಪದ ಟೂ ಎಕ್ಸ್. ಪ್ರತಿಯೊಂದು ಭಾಗವೂ ಒಂದು ಪದವಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $x^2 + 2x$ ಎಂಬ ಬಹುಪದೋಕ್ತಿಯನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ, $x^2$ ಮತ್ತು $2x$ ಎಂಬ ಎರಡು ಭಾಗಗಳಿವೆ. ಇವೆರಡನ್ನೂ ಒಂದು '+' ಚಿಹ್ನೆಯು ಬೇರ್ಪಡಿಸುತ್ತಿದೆ. ಆದ್ದರಿಂದ, ಈ ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ. ಮೊದಲನೇ ಪದ $x^2$. ಮತ್ತು ಎರಡನೇ ಪದ $2x$. ಪ್ರತಿಯೊಂದು ಭಾಗವೂ ಒಂದು ಪದವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಬಹುಪದೋಕ್ತಿ: $x^2 + 2x$",
+    "ಇಲ್ಲಿ '+' ಚಿಹ್ನೆಯು ಎರಡು ಭಾಗಗಳನ್ನು ಬೇರ್ಪಡಿಸುತ್ತದೆ.",
+    "ಪದ 1: $x^2$",
+    "ಪದ 2: $2x$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the polynomial x^2 + 2x. An arrow points from the '+' sign downwards with the label 'ಬೇರ್ಪಡಿಸುವ ಚಿಹ್ನೆ' (Separating sign). An arrow points from x^2 with the label 'ಪದ 1' (Term 1). An arrow points from 2x with the label 'ಪದ 2' (Term 2).",
+    "labels": "polynomial, term, plus sign",
+    "mathematical_significance": "Visually separates a polynomial into its constituent terms, reinforcing the definition of a term.",
+    "placeholder_note": "Image to be generated showing the polynomial x^2 + 2x with its two terms clearly identified and labeled."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "ALG-POL-3_concept_1_chunk_013"
+}

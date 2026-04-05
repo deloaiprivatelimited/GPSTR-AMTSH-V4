@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಮಾಣು: ಗಾತ್ರ ಮತ್ತು ಅಳತೆ",
+  "script": "ಕೊನೆಯದಾಗಿ, ಪರಮಾಣುಗಳು ಅತಿ ಚಿಕ್ಕ ಕಣಗಳು. ಅವು ಎಷ್ಟು ಚಿಕ್ಕವು ಎಂದರೆ, ಲಕ್ಷಾಂತರ ಪರಮಾಣುಗಳನ್ನು ಒಂದರ ಮೇಲೊಂದು ಇಟ್ಟರೂ, ಕಾಗದದ ಹಾಳೆಯಷ್ಟು ದಪ್ಪ ಆಗುವುದಿಲ್ಲ. ಈ ಕಾರಣದಿಂದ, ಅವುಗಳ ತ್ರಿಜ್ಯವನ್ನು ಅಳೆಯಲು ನಾವು ನ್ಯಾನೋಮೀಟರ್ ಎಂಬ ವಿಶೇಷ ಮಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಒಂದು ನ್ಯಾನೋಮೀಟರ್ ಎಂದರೆ ಒಂದು ಮೀಟರ್‌ನ ನೂರು ಕೋಟಿ ಭಾಗಗಳಲ್ಲಿ ಒಂದು ಭಾಗ. ಇದನ್ನು ನಾವು ಟೆನ್ ಟು ದ ಪವರ್ ಮೈನಸ್ ನೈನ್ ಮೀಟರ್ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಅತ್ಯಂತ ಚಿಕ್ಕ ಪರಮಾಣುವಾದ ಹೈಡ್ರೋಜನ್‌ನ ತ್ರಿಜ್ಯವು ಸುಮಾರು ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಮೂರು ಏಳು ನ್ಯಾನೋಮೀಟರ್ ಇರುತ್ತದೆ.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ಪರಮಾಣುಗಳು ಅತಿ ಚಿಕ್ಕ ಕಣಗಳು. ಅವು ಎಷ್ಟು ಚಿಕ್ಕವು ಎಂದರೆ, ಲಕ್ಷಾಂತರ ಪರಮಾಣುಗಳನ್ನು ಒಂದರ ಮೇಲೊಂದು ಇಟ್ಟರೂ, ಕಾಗದದ ಹಾಳೆಯಷ್ಟು ದಪ್ಪ ಆಗುವುದಿಲ್ಲ. ಈ ಕಾರಣದಿಂದ, ಅವುಗಳ ತ್ರಿಜ್ಯವನ್ನು ಅಳೆಯಲು ನಾವು ನ್ಯಾನೋಮೀಟರ್ (nm) ಎಂಬ ವಿಶೇಷ ಮಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಒಂದು ನ್ಯಾನೋಮೀಟರ್ ಎಂದರೆ ಒಂದು ಮೀಟರ್‌ನ 100 ಕೋಟಿ ಭಾಗಗಳಲ್ಲಿ ಒಂದು ಭಾಗ. ಇದನ್ನು ನಾವು 1 nm = 10⁻⁹ m ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಅತ್ಯಂತ ಚಿಕ್ಕ ಪರಮಾಣುವಾದ ಹೈಡ್ರೋಜನ್‌ನ ತ್ರಿಜ್ಯವು ಸುಮಾರು 0.037 nm ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪರಮಾಣುಗಳು ಅತ್ಯಂತ ಚಿಕ್ಕ ಕಣಗಳಾಗಿವೆ.",
+    "ಅವುಗಳ ತ್ರಿಜ್ಯವನ್ನು ನ್ಯಾನೋಮೀಟರ್‌ಗಳಲ್ಲಿ (nm) ಅಳೆಯಲಾಗುತ್ತದೆ.",
+    "1 ನ್ಯಾನೋಮೀಟರ್ (nm) = 10⁻⁹ ಮೀಟರ್ (m)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple infographic scale showing a 1-meter ruler. Then, an arrow zooms into a tiny section, showing a 1-millimeter mark. Another arrow zooms in further to a 1-micrometer mark. A final arrow zooms in to a 1-nanometer scale, with a tiny sphere representing an atom next to it.",
+    "labels": "1 ಮೀಟರ್, 1 ಮಿಲಿಮೀಟರ್, 1 ಮೈಕ್ರೋಮೀಟರ್, 1 ನ್ಯಾನೋಮೀಟರ್, ಪರಮಾಣು",
+    "scientific_significance": "Provides a visual representation of the incredibly small scale of nanometers to help students appreciate the size of an atom.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_3_concept_3_chunk_006"
+}

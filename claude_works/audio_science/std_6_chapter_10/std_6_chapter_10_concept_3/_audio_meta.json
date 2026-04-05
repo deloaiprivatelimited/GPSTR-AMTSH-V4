@@ -1,0 +1,213 @@
+{
+  "module_id": "std_6_chapter_10_concept_3",
+  "chapter_code": "std_6_chapter_10",
+  "voice": "Rasalgethi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 18,
+  "ok_count": 18,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:22:31",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "0dda65a0b03c74ff862d26e7c43a7350",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 22.411,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 30,
+      "generated_at": "2026-04-02 13:18:59"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "bb25f64cf99c7a101e8855b15c71523b",
+      "wav_file": "003_definition_0.wav",
+      "duration": 52.251,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಅನುವರ್ತನೆ (Tropism)",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:19:18"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "e5d72b1bdd1010ed3251b7693297522b",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 47.651,
+      "slide_title": "ಉದಾಹರಣೆ: ದ್ಯುತಿ ಅನುವರ್ತನೆ (Phototropism)",
+      "type": "definition",
+      "script_words": 64,
+      "generated_at": "2026-04-02 13:19:26"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "8d92fc5b860f2f60f6d7acd327007297",
+      "wav_file": "001_intro_0.wav",
+      "duration": 58.291,
+      "slide_title": "ಸಸ್ಯಗಳಲ್ಲಿ ಬೆಳವಣಿಗೆ ಮತ್ತು ಚಲನೆ (ಅನುವರ್ತನೆ)",
+      "type": "chunk",
+      "script_words": 87,
+      "generated_at": "2026-04-02 13:19:28"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "08c10ac48ce8745a1a70656eb991c319",
+      "wav_file": "006_definition_1.wav",
+      "duration": 51.171,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಫೋಟೋಟ್ರೋಪಿಸಂ",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:19:57"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "319c58389e33203c995cf18020bb0729",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 41.851,
+      "slide_title": "ಉದಾಹರಣೆ: ಧನಾತ್ಮಕ ಫೋಟೋಟ್ರೋಪಿಸಂ",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:20:10"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "74a68537ebcbebf2f013bcdaea7c172a",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 45.371,
+      "slide_title": "ಹೋಲಿಕೆ: ಕಾಂಡ ಮತ್ತು ಬೇರಿನ ಚಲನೆ",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:20:15"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "924ceaba625601991c89750c5a3b8aa1",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 46.731,
+      "slide_title": "ಹೋಲಿಕೆ: ಕಾಂಡ vs ಬೇರುಗಳು",
+      "type": "definition",
+      "script_words": 57,
+      "generated_at": "2026-04-02 13:20:19"
+    },
+    "009_definition_2.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "598a129bd6cfddac8b8f901e1d71b95c",
+      "wav_file": "009_definition_2.wav",
+      "duration": 52.411,
+      "slide_title": "ಜಿಯೋಟ್ರೋಪಿಸಂ (Geotropism) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:20:24"
+    },
+    "010_definition_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "d72503464fb2e86ac1f6cfdcb7806ef7",
+      "wav_file": "010_definition_cont_2_1.wav",
+      "duration": 43.291,
+      "slide_title": "ಜಿಯೋಟ್ರೋಪಿಸಂನ ವಿಧಗಳು: ಧನಾತ್ಮಕ ಮತ್ತು ಋಣಾತ್ಮಕ",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:20:41"
+    },
+    "012_experiment_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "e97de58b49f5a0bc6de9d6c8f3aeaf95",
+      "wav_file": "012_experiment_0.wav",
+      "duration": 38.811,
+      "slide_title": "ಚಟುವಟಿಕೆ: ಸಸ್ಯದ ಚಲನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:21:10"
+    },
+    "011_definition_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "b9ae7d8f67c088267914f0d42ba6a1c3",
+      "wav_file": "011_definition_cont_2_2.wav",
+      "duration": 42.571,
+      "slide_title": "ಪ್ರಯೋಗ: ಜಿಯೋಟ್ರೋಪಿಸಂ ಅನ್ನು ಗಮನಿಸುವುದು",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:21:12"
+    },
+    "014_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "785199cbc366f5857332246e5a6dafd6",
+      "wav_file": "014_experiment_cont_0_2.wav",
+      "duration": 37.451,
+      "slide_title": "ಪ್ರಯೋಗದ ಜೋಡಣೆ: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 13:21:12"
+    },
+    "013_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "6260dc3a5b7705d98b10fd201407574e",
+      "wav_file": "013_experiment_cont_0_1.wav",
+      "duration": 50.051,
+      "slide_title": "ಪ್ರಯೋಗದ ಜೋಡಣೆ: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 13:21:20"
+    },
+    "015_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "0b491fc43bac9eef505e5c4a7d97288d",
+      "wav_file": "015_experiment_cont_0_3.wav",
+      "duration": 46.011,
+      "slide_title": "ವೀಕ್ಷಣೆ: ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಪರಿಣಾಮ",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 13:21:48"
+    },
+    "016_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "a304789af98e2aef3c651facb0e04537",
+      "wav_file": "016_experiment_cont_0_4.wav",
+      "duration": 42.691,
+      "slide_title": "ವೀಕ್ಷಣೆ: ಬೆಳಕಿನ ಪರಿಣಾಮ",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:22:14"
+    },
+    "018_recap_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "b6e0ec9e039564d950de66cf8826b5d2",
+      "wav_file": "018_recap_0.wav",
+      "duration": 40.611,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:22:26"
+    },
+    "017_experiment_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "1cd2ed69b96703e431a863859792f38c",
+      "wav_file": "017_experiment_cont_0_5.wav",
+      "duration": 47.571,
+      "slide_title": "ಪ್ರಯೋಗದ ತೀರ್ಮಾನ: ಅನುವರ್ತನೆ",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 13:22:31"
+    }
+  }
+}

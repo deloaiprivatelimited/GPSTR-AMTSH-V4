@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಮಾನ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ಈಗ ಅತೀ ಮುಖ್ಯವಾದ ಹಂತ. ನಾವು 3ರ ಮತ್ತು 4ರ ಅಪವರ್ತ್ಯಗಳ ಪಟ್ಟಿಗಳನ್ನು ಹೋಲಿಸಿ, ಎರಡರಲ್ಲೂ ಇರುವ ಸಾಮಾನ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ಗುರುತಿಸೋಣ. ನೋಡಿ, 3ರ ಅಪವರ್ತ್ಯಗಳ ಪಟ್ಟಿಯಲ್ಲಿ 3, 6, 9, 12, 15, 18, 21, 24 ಹೀಗೆ ಸಂಖ್ಯೆಗಳಿವೆ. ಹಾಗೆಯೇ, 4ರ ಅಪವರ್ತ್ಯಗಳ ಪಟ್ಟಿಯಲ್ಲಿ 4, 8, 12, 16, 20, 24, 28 ಹೀಗೆ ಸಂಖ್ಯೆಗಳಿವೆ. ಎರಡೂ ಪಟ್ಟಿಗಳಲ್ಲಿ 12 ಇದೆ. ಹಾಗೆಯೇ 24 ಕೂಡ ಎರಡೂ ಪಟ್ಟಿಗಳಲ್ಲಿದೆ. ಹೀಗೆ ನಾವು ಪಟ್ಟಿಯನ್ನು ಮುಂದುವರೆಸಿದರೆ, 36, 48 ಹೀಗೆ ಇನ್ನೂ ಅನೇಕ ಸಾಮಾನ್ಯ ಸಂಖ್ಯೆಗಳು ಸಿಗುತ್ತವೆ. ಈ ಸಂಖ್ಯೆಗಳೇ 3 ಮತ್ತು 4ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳು.",
+  "script_display": "ಈಗ ಅತೀ ಮುಖ್ಯವಾದ ಹಂತ. ನಾವು 3ರ ಮತ್ತು 4ರ ಅಪವರ್ತ್ಯಗಳ ಪಟ್ಟಿಗಳನ್ನು ಹೋಲಿಸಿ, ಎರಡರಲ್ಲೂ ಇರುವ ಸಾಮಾನ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ಗುರುತಿಸೋಣ. ನೋಡಿ, 3ರ ಅಪವರ್ತ್ಯಗಳ ಪಟ್ಟಿಯಲ್ಲಿ 3, 6, 9, 12, 15, 18, 21, 24 ಹೀಗೆ ಸಂಖ್ಯೆಗಳಿವೆ. ಹಾಗೆಯೇ, 4ರ ಅಪವರ್ತ್ಯಗಳ ಪಟ್ಟಿಯಲ್ಲಿ 4, 8, 12, 16, 20, 24, 28 ಹೀಗೆ ಸಂಖ್ಯೆಗಳಿವೆ. ಎರಡೂ ಪಟ್ಟಿಗಳಲ್ಲಿ 12 ಇದೆ. ಹಾಗೆಯೇ 24 ಕೂಡ ಎರಡೂ ಪಟ್ಟಿಗಳಲ್ಲಿದೆ. ಹೀಗೆ ನಾವು ಪಟ್ಟಿಯನ್ನು ಮುಂದುವರೆಸಿದರೆ, 36, 48 ಹೀಗೆ ಇನ್ನೂ ಅನೇಕ ಸಾಮಾನ್ಯ ಸಂಖ್ಯೆಗಳು ಸಿಗುತ್ತವೆ. ಈ ಸಂಖ್ಯೆಗಳೇ 3 ಮತ್ತು 4ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳು.",
+  "display_bullets": [
+    "ಹಂತ 3: ಎರಡೂ ಪಟ್ಟಿಗಳಲ್ಲಿರುವ ಸಾಮಾನ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ಗುರುತಿಸಿ.",
+    "3ರ ಅಪವರ್ತ್ಯಗಳು: $3, 6, 9, 12, 15, 18, 21, 24, ...$",
+    "4ರ ಅಪವರ್ತ್ಯಗಳು: $4, 8, 12, 16, 20, 24, 28, ...$",
+    "ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳು: $12, 24, 36, ...$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dark_background_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Two horizontal lists of numbers are shown, one for multiples of 3 and one for multiples of 4. The common numbers (12, 24) are highlighted in a different color and circled. Arrows connect the common numbers between the two lists to emphasize that they appear in both.",
+    "labels": "List 1 (Multiples of 3), List 2 (Multiples of 4), Common Numbers",
+    "mathematical_significance": "Visually demonstrates the process of identifying common elements between two sets of multiples, which is the core idea of finding common multiples.",
+    "placeholder_note": "Image to be generated showing two lists of numbers with common ones highlighted."
+  },
+  "chunk_id": "NS-PRI-1_concept_1_chunk_014"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಬಲಬದಿ: ಇನ್ನೊಂದು ಉದಾಹರಣೆ",
+  "script": "ಬಲಬದಿಯು ಕೇವಲ ಒಂದು ಸಂಖ್ಯೆಯಾಗಿರಬೇಕಿಲ್ಲ, ಅದು ಒಂದು ಬೀಜೋಕ್ತಿಯೂ ಆಗಿರಬಹುದು. ಈ ಉದಾಹರಣೆಯನ್ನು ಗಮನಿಸಿ: ಏಳು ಎಂ ಮೈನಸ್ ನಾಲ್ಕು ಈಕ್ವಲ್ಸ್ ಎಂ ಪ್ಲಸ್ ಎಂಟು. ಇಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆಯು ಎಡಬದಿ ಮತ್ತು ಬಲಬದಿಯನ್ನು ಬೇರ್ಪಡಿಸುತ್ತದೆ. ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಸಮತೆಯ ಚಿಹ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿ ಎಂ ಪ್ಲಸ್ ಎಂಟು ಇದೆ. ಆದ್ದರಿಂದ, ಈ ಸಮೀಕರಣದ ಬಲಬದಿ ಅಥವಾ ಆರ್ ಎಚ್ ಎಸ್, ಎಂ ಪ್ಲಸ್ ಎಂಟು ಆಗಿದೆ. ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವಾಗ, ನಾವು ಎಡಬದಿ ಮತ್ತು ಬಲಬದಿ ಎರಡರ ಮೇಲೂ ಗಣಿತದ ಕ್ರಿಯೆಗಳನ್ನು ಮಾಡುತ್ತೇವೆ.",
+  "script_display": "ಬಲಬದಿಯು (RHS) ಕೇವಲ ಒಂದು ಸಂಖ್ಯೆಯಾಗಿರಬೇಕಿಲ್ಲ, ಅದು ಒಂದು ಬೀಜೋಕ್ತಿಯೂ ಆಗಿರಬಹುದು. ಈ ಉದಾಹರಣೆಯನ್ನು ಗಮನಿಸಿ: $7m - 4 = m + 8$. ಇಲ್ಲಿ ಸಮತೆಯ ಚಿಹ್ನೆಯು ಎಡಬದಿ ಮತ್ತು ಬಲಬದಿಯನ್ನು ಬೇರ್ಪಡಿಸುತ್ತದೆ. ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಸಮತೆಯ ಚಿಹ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿ $m + 8$ ಇದೆ. ಆದ್ದರಿಂದ, ಈ ಸಮೀಕರಣದ ಬಲಬದಿ (RHS), $m + 8$ ಆಗಿದೆ. ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವಾಗ, ನಾವು ಎಡಬದಿ ಮತ್ತು ಬಲಬದಿ ಎರಡರ ಮೇಲೂ ಗಣಿತದ ಕ್ರಿಯೆಗಳನ್ನು ಮಾಡುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಬಲಬದಿಯು (RHS) ಒಂದು ಸಂಖ್ಯೆ ಅಥವಾ ಬೀಜೋಕ್ತಿ ಆಗಿರಬಹುದು.",
+    "ಉದಾಹರಣೆ: $7m - 4 = m + 8$.",
+    "ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಬಲಬದಿ (RHS) ಯು $m + 8$ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An equation 7m - 4 = m + 8 is shown. The left part '7m - 4' is enclosed in a blue box labeled 'LHS'. The right part 'm + 8' is enclosed in a red box labeled 'RHS'. The equals sign is in the middle.",
+    "labels": "LHS, RHS, Equation, Equality Sign",
+    "mathematical_significance": "Visually separates the Left Hand Side (LHS) and Right Hand Side (RHS) of an equation, demonstrating that the RHS can be an algebraic expression.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "ALG-EQ1-1_concept_1_chunk_016"
+}

@@ -1,0 +1,46 @@
+{
+  "module_id": "std_10_chapter_5_concept_10",
+  "chapter_code": "std_10_chapter_5",
+  "voice": "Umbriel",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 128.193,
+  "total_duration_formatted": "2:08",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_5_concept_10_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಸಸ್ಯಗಳಲ್ಲಿ ವಿಸರ್ಜನೆ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 51.171,
+      "duration": 51.171,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "std_10_chapter_5_concept_10_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 51.771,
+      "end": 84.102,
+      "duration": 32.331,
+      "script_words": 41
+    },
+    {
+      "chunk_id": "std_10_chapter_5_concept_10_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಸಸ್ಯಗಳಲ್ಲಿ ವಿಸರ್ಜನೆ",
+      "type": "recap",
+      "start": 84.702,
+      "end": 127.593,
+      "duration": 42.891,
+      "script_words": 58
+    }
+  ]
+}

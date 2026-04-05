@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಿದಾಗ ನಮಗೆ x ನ ಬೆಲೆ ಮೂರು ಎಂದು ಸಿಕ್ಕಿದೆ. ಇಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ನೆನಪಿಡಬೇಕಾದ ಅಂಶವೆಂದರೆ, ಆಯತದ ಕರ್ಣಗಳು ಸಮನಾಗಿರುತ್ತವೆ ಮತ್ತು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಈ ಗುಣವನ್ನು ಬಳಸಿಕೊಂಡು ನಾವು ಸುಲಭವಾಗಿ x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿದೆವು.",
+  "script_display": "ಹೀಗೆ, ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಿದಾಗ ನಮಗೆ $x$ ನ ಬೆಲೆ 3 ಎಂದು ಸಿಕ್ಕಿದೆ. ಇಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ನೆನಪಿಡಬೇಕಾದ ಅಂಶವೆಂದರೆ, ಆಯತದ ಕರ್ಣಗಳು ಸಮನಾಗಿರುತ್ತವೆ ಮತ್ತು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ. ಈ ಗುಣವನ್ನು ಬಳಸಿಕೊಂಡು ನಾವು ಸುಲಭವಾಗಿ $x$ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿದೆವು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "GEO-QUAD-1_example_8",
+  "final_answer": "x ನ ಬೆಲೆ 3.",
+  "final_answer_display": "$x = 3$",
+  "chunk_id": "GEO-QUAD-1_concept_5_chunk_027"
+}

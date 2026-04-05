@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಎರೆಹುಳುವಿನಲ್ಲಿ ಉಸಿರಾಟ: ಚರ್ಮದ ಮೂಲಕ",
+  "script": "ಈಗ ಎರೆಹುಳುವಿನ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಎರೆಹುಳು ತನ್ನ ತೇವವಾದ ಚರ್ಮದ ಮೂಲಕ ಉಸಿರಾಡುತ್ತದೆ. ಅದರ ಚರ್ಮವು ತುಂಬಾ ತೆಳುವಾಗಿದ್ದು, ಸ್ಪರ್ಶಿಸಿದಾಗ ಲೋಳೆಯಿಂದಾಗಿ ಜಾರುವಂತೆ ಭಾಸವಾಗುತ್ತದೆ. ಈ ತೇವಾಂಶವು ಅನಿಲಗಳ ವಿನಿಮಯಕ್ಕೆ ಅತ್ಯಗತ್ಯ. ಆಮ್ಲಜನಕವು ತೇವವಾದ ಚರ್ಮದ ಮೂಲಕ ನೇರವಾಗಿ ವಿಸರಣೆಗೊಂಡು ರಕ್ತವನ್ನು ಸೇರುತ್ತದೆ ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಹೊರಹಾಕಲ್ಪಡುತ್ತದೆ. ಇದಕ್ಕಾಗಿಯೇ ಎರೆಹುಳುಗಳು ಒಣಗಿದ ಸ್ಥಳದಲ್ಲಿ ಬದುಕಲು ಸಾಧ್ಯವಿಲ್ಲ, ಅವುಗಳ ಚರ್ಮ ಒಣಗಿದರೆ ಉಸಿರಾಟ ನಿಂತುಹೋಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಎರೆಹುಳುವಿನ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಎರೆಹುಳು ತನ್ನ ತೇವವಾದ ಚರ್ಮದ (Moist Skin) ಮೂಲಕ ಉಸಿರಾಡುತ್ತದೆ. ಅದರ ಚರ್ಮವು ತುಂಬಾ ತೆಳುವಾಗಿದ್ದು, ಸ್ಪರ್ಶಿಸಿದಾಗ ಲೋಳೆಯಿಂದಾಗಿ ಜಾರುವಂತೆ ಭಾಸವಾಗುತ್ತದೆ. ಈ ತೇವಾಂಶವು ಅನಿಲಗಳ ವಿನಿಮಯಕ್ಕೆ ಅತ್ಯಗತ್ಯ. ಆಮ್ಲಜನಕವು ತೇವವಾದ ಚರ್ಮದ ಮೂಲಕ ನೇರವಾಗಿ ವಿಸರಣೆ (Diffusion)ಗೊಂಡು ರಕ್ತವನ್ನು ಸೇರುತ್ತದೆ ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಹೊರಹಾಕಲ್ಪಡುತ್ತದೆ. ಇದಕ್ಕಾಗಿಯೇ ಎರೆಹುಳುಗಳು ಒಣಗಿದ ಸ್ಥಳದಲ್ಲಿ ಬದುಕಲು ಸಾಧ್ಯವಿಲ್ಲ, ಅವುಗಳ ಚರ್ಮ ಒಣಗಿದರೆ ಉಸಿರಾಟ ನಿಂತುಹೋಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉಸಿರಾಟದ ಅಂಗ: ತೇವವಾದ ಚರ್ಮ (Moist Skin)",
+    "ಪ್ರಕ್ರಿಯೆ: ವಿಸರಣೆ (Diffusion)",
+    "ಅವಶ್ಯಕತೆ: ಚರ್ಮವು ಯಾವಾಗಲೂ ತೇವವಾಗಿರಬೇಕು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cross-section of an earthworm showing gas exchange through its moist skin. Arrows should indicate Oxygen (O2) diffusing in and Carbon Dioxide (CO2) diffusing out. The rich blood supply just beneath the skin should be visible.",
+    "labels": "Moist Skin, Blood Vessels, Oxygen (O₂), Carbon Dioxide (CO₂)",
+    "scientific_significance": "Demonstrates cutaneous respiration, where the skin acts as the primary respiratory organ, relying on diffusion.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_6_concept_6_chunk_005"
+}

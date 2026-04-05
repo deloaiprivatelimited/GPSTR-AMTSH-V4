@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಯಮ 2: ಅಷ್ಟಕ ನಿಯಮ (Octet Rule)",
+  "script": "ಎರಡನೇ ನಿಯಮವು ಪರಮಾಣುವಿನ ಸ್ಥಿರತೆಗೆ ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ. ಈ ನಿಯಮದ ಪ್ರಕಾರ, ಪರಮಾಣುವಿನ ಅತ್ಯಂತ ಹೊರಗಿನ ಕವಚದಲ್ಲಿ ಗರಿಷ್ಠ ಎಂಟು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಮಾತ್ರ ಇರಲು ಸಾಧ್ಯ. ಇದನ್ನು 'ಅಷ್ಟಕ ನಿಯಮ' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, M ಕವಚದ ಒಟ್ಟು ಸಾಮರ್ಥ್ಯ ಹದಿನೆಂಟು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು. ಆದರೆ, ಒಂದು ವೇಳೆ M ಕವಚವೇ ಅತ್ಯಂತ ಹೊರಗಿನ ಕವಚವಾಗಿದ್ದರೆ, ಅದರಲ್ಲಿ ಎಂಟು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ತುಂಬಿದ ತಕ್ಷಣ, ಪರಮಾಣು ಒಂದು ರೀತಿಯ ಸ್ಥಿರತೆಯನ್ನು ತಲುಪುತ್ತದೆ. ಈ ನಿಯಮವು ಧಾತುಗಳ ರಾಸಾಯನಿಕ ಗುಣಗಳನ್ನು ಮತ್ತು ಅವು ಹೇಗೆ ಬಂಧಗಳನ್ನು ರಚಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸುತ್ತದೆ.",
+  "script_display": "ಎರಡನೇ ನಿಯಮವು ಪರಮಾಣುವಿನ ಸ್ಥಿರತೆಗೆ ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ. ಈ ನಿಯಮದ ಪ್ರಕಾರ:\n• ಪರಮಾಣುವಿನ ಅತ್ಯಂತ ಹೊರಗಿನ ಕವಚದಲ್ಲಿ ಗರಿಷ್ಠ 8 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಮಾತ್ರ ಇರಲು ಸಾಧ್ಯ.\n• ಇದನ್ನು 'ಅಷ್ಟಕ ನಿಯಮ' (Octet Rule) ಎಂದು ಕರೆಯುತ್ತಾರೆ.\n• ಹೊರಗಿನ ಕವಚದಲ್ಲಿ 8 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಹೊಂದುವುದರಿಂದ ಪರಮಾಣು ಸ್ಥಿರತೆಯನ್ನು ಪಡೆಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪರಮಾಣುವಿನ ಅತ್ಯಂತ ಹೊರಗಿನ ಕವಚದಲ್ಲಿ ಗರಿಷ್ಠ 8 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಮಾತ್ರ ಇರಲು ಸಾಧ್ಯ.",
+    "ಇದನ್ನು 'ಅಷ್ಟಕ ನಿಯಮ' (Octet Rule) ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+    "ಹೊರಗಿನ ಕವಚದಲ್ಲಿ 8 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಹೊಂದುವುದು ಪರಮಾಣುವಿಗೆ ಸ್ಥಿರತೆಯನ್ನು ನೀಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "standard_definition",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple icon or graphic representing stability, perhaps a balanced scale or a shield icon. Next to it, a generic atom diagram with the outermost shell highlighted, containing 8 dots (electrons).",
+    "labels": "Outermost shell, 8 electrons, Stability",
+    "scientific_significance": "Illustrates the concept of the octet rule, where having 8 electrons in the valence shell leads to atomic stability.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_4_concept_5_chunk_006"
+}

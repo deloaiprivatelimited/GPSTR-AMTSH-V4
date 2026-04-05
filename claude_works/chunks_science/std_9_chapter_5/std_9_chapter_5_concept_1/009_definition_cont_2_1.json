@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರೋಟೋಪ್ಲಾಸಮ್‌ನ ಘಟಕಗಳು",
+  "script": "ಹಾಗಾದರೆ ಪ್ರೋಟೋಪ್ಲಾಸಮ್‌ನಲ್ಲಿ ಏನೇನಿರುತ್ತದೆ? ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಪ್ರೋಟೋಪ್ಲಾಸಮ್ ಎಂದರೆ ಕೋಶದ್ರವ್ಯ ಮತ್ತು ಕೋಶಕೇಂದ್ರ ಎರಡನ್ನೂ ಒಟ್ಟಿಗೆ ಸೇರಿಸಿದಾಗ ಸಿಗುವ ಭಾಗ. ಕೋಶದ್ರವ್ಯವು ಕೋಶಕೇಂದ್ರದ ಹೊರಗಿರುವ ಜೆಲ್ಲಿಯಂತಹ ದ್ರವ. ಕೋಶಕೇಂದ್ರವು ಜೀವಕೋಶದ ನಿಯಂತ್ರಣ ಕೇಂದ್ರ. ಇವೆರಡೂ ಸೇರಿ ಪ್ರೋಟೋಪ್ಲಾಸಮ್ ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಇದು ಕೋಶಪೊರೆಯೊಳಗೆ ಇರುವ ಸಂಪೂರ್ಣ ಜೀವಂತ ವಸ್ತುವಾಗಿದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ಸೈಟೋಪ್ಲಾಸಂನಲ್ಲಿ ಕೋಶಕೇಂದ್ರ ಸೇರಿರುವುದಿಲ್ಲ.",
+  "script_display": "ಹಾಗಾದರೆ ಪ್ರೋಟೋಪ್ಲಾಸಮ್‌ನಲ್ಲಿ ಏನೇನಿರುತ್ತದೆ? ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಪ್ರೋಟೋಪ್ಲಾಸಮ್ = ಕೋಶದ್ರವ್ಯ (Cytoplasm) + ಕೋಶಕೇಂದ್ರ (Nucleus). ಕೋಶದ್ರವ್ಯವು ಕೋಶಕೇಂದ್ರದ ಹೊರಗಿರುವ ಜೆಲ್ಲಿಯಂತಹ ದ್ರವ. ಕೋಶಕೇಂದ್ರವು ಜೀವಕೋಶದ ನಿಯಂತ್ರಣ ಕೇಂದ್ರ. ಇವೆರಡೂ ಸೇರಿ ಪ್ರೋಟೋಪ್ಲಾಸಮ್ ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಇದು ಕೋಶಪೊರೆಯೊಳಗೆ ಇರುವ ಸಂಪೂರ್ಣ ಜೀವಂತ ವಸ್ತುವಾಗಿದೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ಸೈಟೋಪ್ಲಾಸಂನಲ್ಲಿ ಕೋಶಕೇಂದ್ರ ಸೇರಿರುವುದಿಲ್ಲ.",
+  "display_bullets": [
+    "ಪ್ರೋಟೋಪ್ಲಾಸಮ್ = ಕೋಶದ್ರವ್ಯ (Cytoplasm) + ಕೋಶಕೇಂದ್ರ (Nucleus)",
+    "ಇದು ಕೋಶಪೊರೆಯೊಳಗೆ ಇರುವ ಸಂಪೂರ್ಣ ಜೀವಂತ ವಸ್ತುವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of an animal cell. It should clearly show the outer cell membrane, the nucleus at the center, and the cytoplasm filling the space between them. A large bracket or a shaded region should encompass both the cytoplasm and the nucleus, with a clear label 'ಪ್ರೋಟೋಪ್ಲಾಸಮ್ (Protoplasm)'. Individual labels for 'ಕೋಶಪೊರೆ (Cell Membrane)', 'ಕೋಶದ್ರವ್ಯ (Cytoplasm)', and 'ಕೋಶಕೇಂದ್ರ (Nucleus)' are also needed.",
+    "labels": "Protoplasm, Cytoplasm, Nucleus, Cell Membrane",
+    "scientific_significance": "This visual helps differentiate protoplasm from cytoplasm. Protoplasm is the entire living content, including the nucleus, whereas cytoplasm is the content excluding the nucleus.",
+    "placeholder_note": "Image to be generated showing the components of protoplasm in a cell."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_5_concept_1_chunk_009"
+}

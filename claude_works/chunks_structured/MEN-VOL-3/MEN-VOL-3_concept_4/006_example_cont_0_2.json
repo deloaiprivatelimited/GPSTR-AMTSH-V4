@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಈಗ ನಾವು ಪ್ರತಿ ಭಾಗದ ಘನಫಲವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಆಯತ ಘನಾಕೃತಿಯ ಘನಫಲವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇದರ ಸೂತ್ರ ಎಲ್ ಗುಣಿಸು ಬಿ ಗುಣಿಸು ಎಚ್. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, ಹದಿನೈದು ಗುಣಿಸು ಏಳು ಗುಣಿಸು ಎಂಟು, ಇದು ಎಂಟುನೂರ ನಲವತ್ತು ಘನ ಮೀಟರ್ ಆಗುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಅರ್ಧ ಸಿಲಿಂಡರ್‌ನ ಘನಫಲವನ್ನು ಲೆಕ್ಕ ಮಾಡೋಣ. ಇದರ ಸೂತ್ರ ಒಂದನೇ ಎರಡಾಂಶ ಪೈ ಆರ್ ಸ್ಕ್ವೇರ್ ಎಚ್. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, ಒಂದನೇ ಎರಡಾಂಶ ಗುಣಿಸು ಏಳನೇ ಇಪ್ಪತ್ತೆರಡು ಗುಣಿಸು ಮೂರು ಪಾಯಿಂಟ್ ಐದರ ವರ್ಗ ಗುಣಿಸು ಹದಿನೈದು. ಇದನ್ನು ಸುಲಭೀಕರಿಸಿದಾಗ, ನಮಗೆ ಇನ್ನೂರ ಎಂಭತ್ತೆಂಟು ಪಾಯಿಂಟ್ ಏಳು ಐದು ಘನ ಮೀಟರ್ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಪ್ರತಿ ಭಾಗದ ಘನಫಲವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಆಯತ ಘನಾಕೃತಿಯ ಘನಫಲವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇದರ ಸೂತ್ರ $l \\times b \\times h$. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, $15 \\times 7 \\times 8$, ಇದು $840 \\text{ m}^3$ ಆಗುತ್ತದೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಅರ್ಧ ಸಿಲಿಂಡರ್‌ನ ಘನಫಲವನ್ನು ಲೆಕ್ಕ ಮಾಡೋಣ. ಇದರ ಸೂತ್ರ $\\frac{1}{2} \\pi r^2 H$. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, $\\frac{1}{2} \\times \\frac{22}{7} \\times (3.5)^2 \\times 15$. ಇದನ್ನು ಸುಲಭೀಕರಿಸಿದಾಗ, ನಮಗೆ $288.75 \\text{ m}^3$ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_2_steps",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "MEN-VOL-3_example_8",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$V_{\\text{ಆಯತ ಘನ}} = l \\times b \\times h = 15 \\times 7 \\times 8 = 840 \\text{ m}^3$",
+      "justification": "ಆಯತ ಘನಾಕೃತಿಯ ಘನಫಲದ ಸೂತ್ರ."
+    },
+    {
+      "step": 4,
+      "action_display": "$V_{\\text{ಅರ್ಧ ಸಿಲಿಂಡರ್}} = \\frac{1}{2} \\pi r^2 H = \\frac{1}{2} \\times \\frac{22}{7} \\times (3.5)^2 \\times 15 = 288.75 \\text{ m}^3$",
+      "justification": "ಅರ್ಧ ಸಿಲಿಂಡರ್‌ನ ಘನಫಲದ ಸೂತ್ರ."
+    }
+  ],
+  "chunk_id": "MEN-VOL-3_concept_4_chunk_006"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸರಳ ಕೋನ (Straight Angle)",
+  "script": "ಈಗ ನಾವು ಕೋನಗಳ ವಿಧಗಳಲ್ಲಿ ಒಂದಾದ ಸರಳ ಕೋನದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದರ ಹೆಸರು ಸೂಚಿಸುವಂತೆ, ಇದು ಒಂದು ಸರಳ ರೇಖೆಗೆ ಸಂಬಂಧಿಸಿದೆ. ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ನಿಖರವಾಗಿ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಅಳತೆಯಿರುವ ಕೋನವನ್ನು ಸರಳ ಕೋನ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರ ಪ್ರಮುಖ ಲಕ್ಷಣವೆಂದರೆ, ಇದರ ಬಾಹುಗಳು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿರುವ ಎರಡು ಕಿರಣಗಳಾಗಿರುತ್ತವೆ ಮತ್ತು ಇವೆರಡೂ ಸೇರಿ ಒಂದು ಸರಳ ರೇಖೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಅಂದರೆ, ಕೋನದ ಶೃಂಗವು ಒಂದು ಸರಳ ರೇಖೆಯ ಮೇಲಿನ ಬಿಂದುವಾಗಿರುತ್ತದೆ ಮತ್ತು ಆ ಬಿಂದುವಿನಿಂದ ಎರಡು ಕಿರಣಗಳು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತವೆ. ಈ ರಚನೆಯೇ ಸರಳ ಕೋನ.",
+  "script_display": "ಈಗ ನಾವು ಕೋನಗಳ ವಿಧಗಳಲ್ಲಿ ಒಂದಾದ ಸರಳ ಕೋನದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದರ ಹೆಸರು ಸೂಚಿಸುವಂತೆ, ಇದು ಒಂದು ಸರಳ ರೇಖೆಗೆ ಸಂಬಂಧಿಸಿದೆ. ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ನಿಖರವಾಗಿ $180^\\circ$ ಅಳತೆಯಿರುವ ಕೋನವನ್ನು ಸರಳ ಕೋನ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರ ಪ್ರಮುಖ ಲಕ್ಷಣವೆಂದರೆ, ಇದರ ಬಾಹುಗಳು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿರುವ ಎರಡು ಕಿರಣಗಳಾಗಿರುತ್ತವೆ ಮತ್ತು ಇವೆರಡೂ ಸೇರಿ ಒಂದು ಸರಳ ರೇಖೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಅಂದರೆ, ಕೋನದ ಶೃಂಗವು ಒಂದು ಸರಳ ರೇಖೆಯ ಮೇಲಿನ ಬಿಂದುವಾಗಿರುತ್ತದೆ ಮತ್ತು ಆ ಬಿಂದುವಿನಿಂದ ಎರಡು ಕಿರಣಗಳು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತವೆ. ಈ ರಚನೆಯೇ ಸರಳ ಕೋನ.",
+  "display_bullets": [
+    "ಪರಿಭಾಷೆ: ಸರಳ ಕೋನ (Straight Angle)",
+    "ವ್ಯಾಖ್ಯೆ: ನಿಖರವಾಗಿ $180^\\circ$ ಅಳತೆಯಿರುವ ಕೋನ.",
+    "ಗುಣಲಕ್ಷಣ: ಬಾಹುಗಳು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸಿ ಒಂದು ಸರಳ ರೇಖೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "classic_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A straight horizontal line with a vertex point 'O' in the center. Two rays, OA and OB, are shown going in opposite directions along the line. A large semi-circular arc connects ray OA to OB, with '180°' written inside the arc.",
+    "labels": "A, O, B, 180°",
+    "mathematical_significance": "Illustrates that a straight angle is formed by two opposite rays originating from a common vertex, and its measure is exactly 180 degrees, forming a straight line.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "GEO-LA-1_concept_2_chunk_032"
+}

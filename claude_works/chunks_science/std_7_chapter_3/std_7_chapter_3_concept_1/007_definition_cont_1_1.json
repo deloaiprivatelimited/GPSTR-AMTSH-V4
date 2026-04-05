@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ತಾಪಮಾಪಕ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?",
+  "script": "ಹಾಗಾದರೆ, ಈ ತಾಪಮಾಪಕವು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ? ಸಾಮಾನ್ಯವಾಗಿ ನಾವು ನೋಡುವ ತಾಪಮಾಪಕಗಳು ದ್ರವದ ವಿಕಾಸದ ತತ್ವದ ಮೇಲೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ಇವುಗಳಲ್ಲಿ ಒಂದು ತೆಳುವಾದ ಗಾಜಿನ ಕೊಳವೆ ಇರುತ್ತದೆ ಮತ್ತು ಅದರೊಳಗೆ ಒಂದು ದ್ರವವಿರುತ್ತದೆ, ಸಾಮಾನ್ಯವಾಗಿ ಪಾದರಸ ಅಥವಾ ಆಲ್ಕೋಹಾಲ್. ಬಿಸಿಯಾದಾಗ, ಈ ದ್ರವವು ವಿಕಸನಗೊಂಡು ಸಣ್ಣ ಕೊಳವೆಯಲ್ಲಿ ಮೇಲಕ್ಕೆ ಏರುತ್ತದೆ. ಅದೇ ರೀತಿ, ತಂಪಾದಾಗ, ದ್ರವವು ಸಂಕುಚಿಸಿ ಕೆಳಗೆ ಇಳಿಯುತ್ತದೆ. ಕೊಳವೆಯ ಮೇಲಿನ ಅಳತೆಪಟ್ಟಿಯನ್ನು, ಅಂದರೆ ಸ್ಕೇಲ್ ಅನ್ನು ನೋಡಿ ನಾವು ತಾಪ ಎಷ್ಟಿದೆ ಎಂದು ಓದುತ್ತೇವೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ತಾಪಮಾಪಕವು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ? ಸಾಮಾನ್ಯವಾಗಿ ನಾವು ನೋಡುವ ತಾಪಮಾಪಕಗಳು ದ್ರವದ ವಿಕಾಸದ ತತ್ವದ ಮೇಲೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ಇವುಗಳಲ್ಲಿ ಒಂದು ತೆಳುವಾದ ಗಾಜಿನ ಕೊಳವೆ ಇರುತ್ತದೆ ಮತ್ತು ಅದರೊಳಗೆ ಒಂದು ದ್ರವವಿರುತ್ತದೆ, ಸಾಮಾನ್ಯವಾಗಿ ಪಾದರಸ ಅಥವಾ ಆಲ್ಕೋಹಾಲ್. ಬಿಸಿಯಾದಾಗ, ಈ ದ್ರವವು ವಿಕಸನಗೊಂಡು ಸಣ್ಣ ಕೊಳವೆಯಲ್ಲಿ ಮೇಲಕ್ಕೆ ಏರುತ್ತದೆ. ಅದೇ ರೀತಿ, ತಂಪಾದಾಗ, ದ್ರವವು ಸಂಕುಚಿಸಿ ಕೆಳಗೆ ಇಳಿಯುತ್ತದೆ. ಕೊಳವೆಯ ಮೇಲಿನ ಅಳತೆಪಟ್ಟಿಯನ್ನು (scale) ನೋಡಿ ನಾವು ತಾಪ ಎಷ್ಟಿದೆ ಎಂದು ಓದುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ತಾಪಮಾಪಕಗಳು ದ್ರವದ ವಿಕಾಸದ ತತ್ವದ ಮೇಲೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ.",
+    "ಬಿಸಿಯಾದಾಗ, ದ್ರವವು (ಉದಾ: ಪಾದರಸ) ವಿಕಸನಗೊಂಡು ಸಣ್ಣ ಕೊಳವೆಯಲ್ಲಿ ಮೇಲಕ್ಕೆ ಏರುತ್ತದೆ.",
+    "ತಂಪಾದಾಗ, ದ್ರವವು ಸಂಕುಚಿಸಿ ಕೆಳಗೆ ಇಳಿಯುತ್ತದೆ.",
+    "ಕೊಳವೆಯ ಮೇಲಿನ ಅಳತೆಪಟ್ಟಿಯು (scale) ತಾಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a mercury thermometer. It should show a bulb at the bottom containing a liquid (mercury), a narrow capillary tube through which the liquid expands, and a calibrated scale with markings for degrees Celsius.",
+    "labels": "Bulb (ಕುಂದೆ), Mercury (ಪಾದರಸ), Capillary tube (ಕೇಶನಾಳ), Scale (ಅಳತೆಪಟ್ಟಿ)",
+    "scientific_significance": "Illustrates the basic principle of thermal expansion of liquids used in most common thermometers.",
+    "placeholder_note": "Image to be generated showing a basic thermometer with its parts labeled in Kannada and English."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_3_concept_1_chunk_007"
+}

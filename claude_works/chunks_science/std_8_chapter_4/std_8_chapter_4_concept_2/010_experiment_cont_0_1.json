@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1 (ಗಾಳಿಯ ಪೂರೈಕೆಯೊಂದಿಗೆ)",
+  "script": "ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಮೇಣದಬತ್ತಿಯನ್ನು ಹೊತ್ತಿಸಿ ಒಂದು ಸಮತಟ್ಟಾದ ಮೇಜಿನ ಮೇಲೆ ಇಡೋಣ. ಈಗ, ಎರಡು ಮರದ ಸಣ್ಣ ತುಂಡುಗಳನ್ನು ಮೇಣದಬತ್ತಿಯ ಎರಡೂ ಬದಿಯಲ್ಲಿ ಇಟ್ಟು, ಅದರ ಮೇಲೆ ಗಾಜಿನ ಚಿಮಣಿಯನ್ನು ಇಡಬೇಕು. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಮರದ ತುಂಡುಗಳಿರುವುದರಿಂದ ಚಿಮಣಿಯ ಕೆಳಭಾಗದಿಂದ ಗಾಳಿಯು ಸುಲಭವಾಗಿ ಒಳಗೆ ಪ್ರವೇಶಿಸಬಹುದು. ಈಗ ಜ್ವಾಲೆಯನ್ನು ಗಮನಿಸಿ. ಜ್ವಾಲೆಯು ಸ್ಥಿರವಾಗಿ ಮತ್ತು ಪ್ರಕಾಶಮಾನವಾಗಿ ಉರಿಯುತ್ತಿರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಇದಕ್ಕೆ ಕಾರಣ, ಕೆಳಗಿನಿಂದ ನಿರಂತರವಾಗಿ ತಾಜಾ ಗಾಳಿ, ಅಂದರೆ ಆಮ್ಲಜನಕ, ಪೂರೈಕೆಯಾಗುತ್ತಿರುವುದು.",
+  "script_display": "ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಮೇಣದಬತ್ತಿಯನ್ನು ಹೊತ್ತಿಸಿ ಒಂದು ಸಮತಟ್ಟಾದ ಮೇಜಿನ ಮೇಲೆ ಇಡೋಣ. ಈಗ, ಎರಡು ಮರದ ಸಣ್ಣ ತುಂಡುಗಳನ್ನು ಮೇಣದಬತ್ತಿಯ ಎರಡೂ ಬದಿಯಲ್ಲಿ ಇಟ್ಟು, ಅದರ ಮೇಲೆ ಗಾಜಿನ ಚಿಮಣಿಯನ್ನು ಇಡಬೇಕು. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಮರದ ತುಂಡುಗಳಿರುವುದರಿಂದ ಚಿಮಣಿಯ ಕೆಳಭಾಗದಿಂದ ಗಾಳಿಯು ಸುಲಭವಾಗಿ ಒಳಗೆ ಪ್ರವೇಶಿಸಬಹುದು. ಈಗ ಜ್ವಾಲೆಯನ್ನು ಗಮನಿಸಿ. ಜ್ವಾಲೆಯು ಸ್ಥಿರವಾಗಿ ಮತ್ತು ಪ್ರಕಾಶಮಾನವಾಗಿ ಉರಿಯುತ್ತಿರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಇದಕ್ಕೆ ಕಾರಣ, ಕೆಳಗಿನಿಂದ ನಿರಂತರವಾಗಿ ತಾಜಾ ಗಾಳಿ (ಆಮ್ಲಜನಕ) ಪೂರೈಕೆಯಾಗುತ್ತಿರುವುದು.",
+  "display_bullets": [
+    "ಉರಿಯುತ್ತಿರುವ ಮೇಣದಬತ್ತಿಯ ಮೇಲೆ, ಮರದ ತುಂಡುಗಳ ಆಧಾರದೊಂದಿಗೆ ಗಾಜಿನ ಚಿಮಣಿಯನ್ನು ಇರಿಸಿ.",
+    "ಗಮನಿಸುವಿಕೆ: ಜ್ವಾಲೆಯು ಸ್ಥಿರವಾಗಿ ಉರಿಯುತ್ತದೆ.",
+    "ಕಾರಣ: ಚಿಮಣಿಯ ಕೆಳಭಾಗದಿಂದ ಗಾಳಿ (ಆಮ್ಲಜನಕ) ಪ್ರವೇಶಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Diagram showing a lit candle on a table. A glass chimney is placed over it, supported by two small wooden blocks, allowing air to enter from the bottom. The flame is bright and steady.",
+    "labels": "ಸ್ಥಿರ ಜ್ವಾಲೆ, ಗಾಳಿಯ ಪ್ರವೇಶ",
+    "scientific_significance": "Demonstrates that with an ample supply of air, combustion is stable.",
+    "placeholder_note": "Image for step 1 of the experiment."
+  },
+  "chunk_id": "std_8_chapter_4_concept_2_chunk_010"
+}

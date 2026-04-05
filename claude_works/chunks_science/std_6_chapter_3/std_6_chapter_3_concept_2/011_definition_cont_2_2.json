@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ನಾರುಪದಾರ್ಥಗಳ ಆಕರಗಳು",
+  "script": "ಈ ಉಪಯುಕ್ತ ನಾರುಪದಾರ್ಥಗಳು ನಮಗೆ ಎಲ್ಲಿಂದ ಸಿಗುತ್ತವೆ? ಇವುಗಳ ಮುಖ್ಯ ಆಕರಗಳು ಸಸ್ಯಗಳೇ ಆಗಿವೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ತಿನ್ನುವ ಸಂಪೂರ್ಣ ಧಾನ್ಯಗಳಾದ ಗೋಧಿ ಮತ್ತು ಜೋಳದಲ್ಲಿ ಇವು ಹೇರಳವಾಗಿವೆ. ಹಾಗೆಯೇ, ಎಲ್ಲಾ ತರಹದ ಬೇಳೆಕಾಳುಗಳು ಕೂಡ ನಾರುಪದಾರ್ಥದ ಉತ್ತಮ ಮೂಲ. ನಾವು ದಿನನಿತ್ಯ ಬಳಸುವ ಆಲೂಗಡ್ಡೆಯಲ್ಲೂ ಇದು ಇರುತ್ತದೆ. ಇದರ ಜೊತೆಗೆ, ತಾಜಾ ಹಣ್ಣುಗಳು ಮತ್ತು ಹಸಿರು ತರಕಾರಿಗಳನ್ನು ತಿನ್ನುವುದರಿಂದ ನಮ್ಮ ದೇಹಕ್ಕೆ ಬೇಕಾದ ನಾರುಪದಾರ್ಥವು ಸಾಕಷ್ಟು ಪ್ರಮಾಣದಲ್ಲಿ ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಮ್ಮ ಊಟದಲ್ಲಿ ಇವುಗಳನ್ನು ಸೇರಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈ ಉಪಯುಕ್ತ ನಾರುಪದಾರ್ಥಗಳು ನಮಗೆ ಎಲ್ಲಿಂದ ಸಿಗುತ್ತವೆ? ಇವುಗಳ ಮುಖ್ಯ ಆಕರಗಳು ಸಸ್ಯಗಳೇ ಆಗಿವೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ತಿನ್ನುವ ಸಂಪೂರ್ಣ ಧಾನ್ಯಗಳಾದ ಗೋಧಿ ಮತ್ತು ಜೋಳದಲ್ಲಿ ಇವು ಹೇರಳವಾಗಿವೆ. ಹಾಗೆಯೇ, ಎಲ್ಲಾ ತರಹದ ಬೇಳೆಕಾಳುಗಳು ಕೂಡ ನಾರುಪದಾರ್ಥದ ಉತ್ತಮ ಮೂಲ. ನಾವು ದಿನನಿತ್ಯ ಬಳಸುವ ಆಲೂಗಡ್ಡೆಯಲ್ಲೂ ಇದು ಇರುತ್ತದೆ. ಇದರ ಜೊತೆಗೆ, ತಾಜಾ ಹಣ್ಣುಗಳು ಮತ್ತು ಹಸಿರು ತರಕಾರಿಗಳನ್ನು ತಿನ್ನುವುದರಿಂದ ನಮ್ಮ ದೇಹಕ್ಕೆ ಬೇಕಾದ ನಾರುಪದಾರ್ಥವು ಸಾಕಷ್ಟು ಪ್ರಮಾಣದಲ್ಲಿ ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ನಮ್ಮ ಊಟದಲ್ಲಿ ಇವುಗಳನ್ನು ಸೇರಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಸಂಪೂರ್ಣ ಧಾನ್ಯಗಳು (ಉದಾ: ಗೋಧಿ, ಜೋಳ)",
+    "ಬೇಳೆಕಾಳುಗಳು",
+    "ಆಲೂಗಡ್ಡೆ",
+    "ತಾಜಾ ಹಣ್ಣುಗಳು",
+    "ಹಸಿರು ತರಕಾರಿಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A vibrant collage of various food items rich in dietary fibre. This should include whole grains like oats and brown rice, various pulses (lentils, chickpeas), vegetables like broccoli and carrots, and fruits like apples and bananas with their skin on.",
+    "labels": "ಸಂಪೂರ್ಣ ಧಾನ್ಯಗಳು, ಬೇಳೆಕಾಳುಗಳು, ತರಕಾರಿಗಳು, ಹಣ್ಣುಗಳು",
+    "scientific_significance": "Provides a clear visual reference for students to identify and remember common food sources of dietary fibre.",
+    "placeholder_note": "Image to be generated showing sources of fibre like whole grains, pulses, fruits, and vegetables."
+  },
+  "chunk_id": "std_6_chapter_3_concept_2_chunk_011"
+}

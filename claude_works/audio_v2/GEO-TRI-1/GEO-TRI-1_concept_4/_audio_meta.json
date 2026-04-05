@@ -1,0 +1,136 @@
+{
+  "module_id": "GEO-TRI-1_concept_4",
+  "merge_code": "GEO-TRI-1",
+  "voice": "Algenib",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 11,
+  "ok_count": 11,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:38:43",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "69a8d1a3a261a3f8f8595162adaf92d2",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 22.931,
+      "slide_title": "ಪೂರ್ವ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 31,
+      "generated_at": "2026-03-30 15:36:17"
+    },
+    "005_example_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "01a42e431da5941915492d03fb2aa673",
+      "wav_file": "005_example_0.wav",
+      "duration": 25.371,
+      "slide_title": "ಉದಾಹರಣೆ: ತ್ರಿಭುಜದ ರಚನೆ ಸಾಧ್ಯವೇ?",
+      "type": "worked_example",
+      "script_words": 40,
+      "generated_at": "2026-03-30 15:36:20"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "f427e14b0fa7b8129514e45bf5ad35b9",
+      "wav_file": "001_intro_0.wav",
+      "duration": 55.451,
+      "slide_title": "ತ್ರಿಭುಜದ ಅಸಮಾನತೆಯ ಗುಣ",
+      "type": "intro",
+      "script_words": 79,
+      "generated_at": "2026-03-30 15:36:35"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "2108090c5a00a447d63b6bb94dcf53f4",
+      "wav_file": "003_property_0.wav",
+      "duration": 71.611,
+      "slide_title": "ತ್ರಿಭುಜದ ಅಸಮಾನತೆಯ ಗುಣ 1: ಸಂಕಲನ",
+      "type": "concept_explanation",
+      "script_words": 117,
+      "generated_at": "2026-03-30 15:36:48"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "5cf07c8e59d5c4af4088f8548957ebdf",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 69.451,
+      "slide_title": "ತ್ರಿಭುಜದ ಅಸಮಾನತೆಯ ಗುಣ 2: ವ್ಯವಕಲನ",
+      "type": "concept_explanation",
+      "script_words": 117,
+      "generated_at": "2026-03-30 15:36:56"
+    },
+    "008_example_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "6840835cbf6d6a8ef623bfe0448db05a",
+      "wav_file": "008_example_1.wav",
+      "duration": 24.731,
+      "slide_title": "ಸಮಸ್ಯೆ: ಮೂರನೇ ಬಾಹುವಿನ ವ್ಯಾಪ್ತಿ",
+      "type": "worked_example",
+      "script_words": 38,
+      "generated_at": "2026-03-30 15:37:18"
+    },
+    "007_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "7e3bbc0b39479f05179d7ef1051d2ca1",
+      "wav_file": "007_example_cont_0_2.wav",
+      "duration": 26.091,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "script_words": 39,
+      "generated_at": "2026-03-30 15:37:25"
+    },
+    "010_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "4e1a2d051f106c78b86dad10dc148f11",
+      "wav_file": "010_example_cont_1_2.wav",
+      "duration": 39.171,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 52,
+      "generated_at": "2026-03-30 15:37:31"
+    },
+    "006_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "689e1dfa83ff566ef00748b68f304fb2",
+      "wav_file": "006_example_cont_0_1.wav",
+      "duration": 57.371,
+      "slide_title": "ಪರಿಹಾರ: ಅಸಮಾನತೆಯ ಗುಣವನ್ನು ಪರೀಕ್ಷಿಸುವುದು",
+      "type": "worked_example",
+      "script_words": 91,
+      "generated_at": "2026-03-30 15:37:40"
+    },
+    "009_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "49d79ce8085ca36ba2f581a6c8a32070",
+      "wav_file": "009_example_cont_1_1.wav",
+      "duration": 55.451,
+      "slide_title": "ಪರಿಹಾರ: ಅಸಮಾನತೆಯ ಗುಣದ ಅನ್ವಯ",
+      "type": "worked_example",
+      "script_words": 86,
+      "generated_at": "2026-03-30 15:37:42"
+    },
+    "011_recap_0.json": {
+      "status": "ok",
+      "voice": "Algenib",
+      "script_hash": "3cd8d00f1fd56be1b7881ccea3f4de3d",
+      "wav_file": "011_recap_0.wav",
+      "duration": 49.211,
+      "slide_title": "ಸಾರಾಂಶ: ತ್ರಿಭುಜದ ಅಸಮಾನತೆಯ ಗುಣ",
+      "type": "recap",
+      "script_words": 55,
+      "generated_at": "2026-03-30 15:38:43"
+    }
+  }
+}

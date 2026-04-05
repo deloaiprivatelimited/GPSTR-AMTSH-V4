@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆ 5.1: ಮಾಡುವ ವಿಧಾನ",
+  "script": "ಈಗ ನಾವು ಚಟುವಟಿಕೆಯ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ಒಂದು ಕಾಗದದ ಹಾಳೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಕತ್ತರಿಯಿಂದ ನಾಲ್ಕು ಸಮನಾದ ಚೌಕಾಕಾರದ ಚೂರುಗಳಾಗಿ ಕತ್ತರಿಸಿ. ನಂತರ, ಆ ಪ್ರತಿಯೊಂದು ಚೌಕದ ಚೂರನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದನ್ನು ಮತ್ತೆ ನಾಲ್ಕು ಸಣ್ಣ ಚೌಕಾಕಾರದ ಚೂರುಗಳಾಗಿ ಕತ್ತರಿಸಿ. ಈಗ ನಿಮ್ಮ ಮುಂದೆ ಒಟ್ಟು ಹದಿನಾರು ಸಣ್ಣ ಕಾಗದದ ಚೂರುಗಳು ಇರಬೇಕು. ಈ ಎಲ್ಲಾ ಚೂರುಗಳನ್ನು ಮೇಜಿನ ಮೇಲೆ ಮೂಲ ಹಾಳೆಯ ಆಕಾರವನ್ನು ಹೊಂದುವಂತೆ ಜೋಡಿಸಿ ನೋಡಿ.",
+  "script_display": "ಈಗ ನಾವು ಚಟುವಟಿಕೆಯ ವಿಧಾನವನ್ನು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ಒಂದು ಕಾಗದದ ಹಾಳೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಕತ್ತರಿಯಿಂದ ನಾಲ್ಕು ಸಮನಾದ ಚೌಕಾಕಾರದ ಚೂರುಗಳಾಗಿ ಕತ್ತರಿಸಿ. ನಂತರ, ಆ ಪ್ರತಿಯೊಂದು ಚೌಕದ ಚೂರನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದನ್ನು ಮತ್ತೆ ನಾಲ್ಕು ಸಣ್ಣ ಚೌಕಾಕಾರದ ಚೂರುಗಳಾಗಿ ಕತ್ತರಿಸಿ. ಈಗ ನಿಮ್ಮ ಮುಂದೆ ಒಟ್ಟು ಹದಿನಾರು ಸಣ್ಣ ಕಾಗದದ ಚೂರುಗಳು ಇರಬೇಕು. ಈ ಎಲ್ಲಾ ಚೂರುಗಳನ್ನು ಮೇಜಿನ ಮೇಲೆ ಮೂಲ ಹಾಳೆಯ ಆಕಾರವನ್ನು ಹೊಂದುವಂತೆ ಜೋಡಿಸಿ ನೋಡಿ.",
+  "display_bullets": [
+    "ಒಂದು ಕಾಗದದ ಹಾಳೆಯನ್ನು ನಾಲ್ಕು ಚೌಕಾಕಾರದ ಚೂರುಗಳಾಗಿ ಕತ್ತರಿಸಿ.",
+    "ಪ್ರತಿ ಚೌಕದ ಚೂರನ್ನು ಮತ್ತೆ ನಾಲ್ಕು ಸಣ್ಣ ಚೌಕಾಕಾರದ ಚೂರುಗಳಾಗಿ ಕತ್ತರಿಸಿ.",
+    "ಈ ಚೂರುಗಳನ್ನು ಮೇಜಿನ ಮೇಲೆ ಮೂಲ ಹಾಳೆಯ ಆಕಾರದಲ್ಲಿ ಜೋಡಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A three-step sequence diagram. Step 1 shows a whole sheet of paper. Step 2 shows the paper cut into 4 large squares. Step 3 shows the 16 small squares arranged together to form the shape of the original sheet.",
+    "labels": "ಹಂತ 1, ಹಂತ 2, ಹಂತ 3",
+    "scientific_significance": "Visually demonstrates the procedure of cutting paper, illustrating that while the size and shape change, the substance remains the same.",
+    "placeholder_note": "Image to be generated showing the paper cutting process in steps."
+  },
+  "sub_type": "procedure_step",
+  "chunk_id": "std_7_chapter_5_concept_1_chunk_010"
+}

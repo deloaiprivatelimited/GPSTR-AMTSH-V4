@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ ಇಲ್ಲಿದೆ. ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ ಒಂದು ಬೈ ಎರಡು. ಮತ್ತು ಪುಚ್ಛವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ ಕೂಡ ಒಂದು ಬೈ ಎರಡು. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಅಂಶವೆಂದರೆ, ಎರಡೂ ಫಲಿತಗಳು, ಅಂದರೆ ಶಿರ ಮತ್ತು ಪುಚ್ಛ, ಸಮಾನ ಸಾಧ್ಯತೆಯನ್ನು ಹೊಂದಿವೆ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ ಇಲ್ಲಿದೆ. ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ $\\frac{1}{2}$. ಮತ್ತು ಪುಚ್ಛವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ ಕೂಡ $\\frac{1}{2}$. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಅಂಶವೆಂದರೆ, ಎರಡೂ ಫಲಿತಗಳು, ಅಂದರೆ ಶಿರ ಮತ್ತು ಪುಚ್ಛ, ಸಮಾನ ಸಾಧ್ಯತೆಯನ್ನು ಹೊಂದಿವೆ.",
+  "display_bullets": [
+    "ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ = $\\frac{1}{2}$",
+    "ಪುಚ್ಛವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ = $\\frac{1}{2}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "highlight_box",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "PROB-BAS-1_example_1",
+  "final_answer": "ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ 1/2 ಮತ್ತು ಪುಚ್ಛವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ 1/2.",
+  "final_answer_display": "ಶಿರವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ $\\frac{1}{2}$ ಮತ್ತು ಪುಚ್ಛವನ್ನು ಪಡೆಯುವ ಸಂಭವನೀಯತೆ $\\frac{1}{2}$.",
+  "chunk_id": "PROB-BAS-1_concept_2_chunk_029"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "chunk",
+  "slide_title": "ಮನುಷ್ಯರಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹಗಳು",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ನಮ್ಮ GPSTR ವಿಜ್ಞಾನ ಪಾಠಕ್ಕೆ ನಿಮಗೆ ಸ್ವಾಗತ. ಇಂದಿನ ಅಧ್ಯಾಯದಲ್ಲಿ ನಾವು ನಮ್ಮ ಪಠ್ಯಕ್ರಮದ ಅತ್ಯಂತ ಪ್ರಮುಖ ಮತ್ತು ಕುತೂಹಲಕಾರಿ ವಿಷಯವಾದ 'ಮನುಷ್ಯರಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ' ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ. ಇದು ಕೇವಲ ಪರೀಕ್ಷೆಗೆ ಮಾತ್ರವಲ್ಲ, ನಮ್ಮ ದೇಹ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಮತ್ತು ಜೀವ ಹೇಗೆ ಮುಂದುವರೆಯುತ್ತದೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಅತ್ಯಗತ್ಯ. ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಗಂಡು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹದ ರಚನೆ ಮತ್ತು ಕಾರ್ಯಗಳು, ಹೆಣ್ಣು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹದ ರಚನೆ ಮತ್ತು ಕಾರ್ಯಗಳು, ನಿಶೇಚನ ಮತ್ತು ಭ್ರೂಣದ ಬೆಳವಣಿಗೆ, ಮತ್ತು ಪರೀಕ್ಷಾ ದೃಷ್ಟಿಯಿಂದ ಪ್ರಮುಖ ಪ್ರಶ್ನೆಗಳನ್ನು ಚರ್ಚಿಸುತ್ತೇವೆ. ಹಾಗಾದರೆ, ಈ ಜ್ಞಾನದ ಪಯಣವನ್ನು ಆರಂಭಿಸೋಣವೇ?",
+  "script_display": "ನಮಸ್ಕಾರ! ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು 'ಮನುಷ್ಯರಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿ' (Human Reproduction) ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ. ಇದು ಜೀವಶಾಸ್ತ್ರದ ಒಂದು ಪ್ರಮುಖ ಅಧ್ಯಾಯ. ಈ ಮಾಡ್ಯೂಲ್‌ನಲ್ಲಿ ನಾವು ಕಲಿಯುವ ಪ್ರಮುಖ ವಿಷಯಗಳು:",
+  "display_bullets": [
+    "ಗಂಡು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹದ ರಚನೆ ಮತ್ತು ಕಾರ್ಯಗಳು",
+    "ಹೆಣ್ಣು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯೂಹದ ರಚನೆ ಮತ್ತು ಕಾರ್ಯಗಳು",
+    "ನಿಶೇಚನ ಮತ್ತು ಭ್ರೂಣದ ಬೆಳವಣಿಗೆ",
+    "ಪರೀಕ್ಷಾ ದೃಷ್ಟಿಯಿಂದ ಪ್ರಮುಖ ಪ್ರಶ್ನೆಗಳು"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An abstract, artistic background image representing the concept of human life and biology. It could feature stylized representations of a DNA helix, cell division, or a silhouette of a human figure against a cosmic background, evoking a sense of wonder.",
+    "labels": "None",
+    "scientific_significance": "Sets a thoughtful and engaging tone for the topic of human reproduction.",
+    "placeholder_note": "Use as a full-screen background for the title_hero layout. Text will overlay this image."
+  },
+  "sub_type": "title",
+  "chunk_id": "std_10_chapter_7_concept_9_chunk_001"
+}

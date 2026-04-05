@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: csc A ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ದೃಢಪಡಿಸೋಣ. ಬಲಭಾಗದಲ್ಲಿರುವ ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ನೋಡಿ. ಕೊಟ್ಟಿರುವ ತ್ರಿಭುಜದಲ್ಲಿ, ಕೋನ A ಗೆ, ಅಭಿಮುಖ ಬಾಹುವಿನ ಉದ್ದ 3 ಮತ್ತು ವಿಕರ್ಣದ ಉದ್ದ 5 ಆಗಿದೆ. ನಮ್ಮ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, csc A ಸಮನಾಗಿರುತ್ತದೆ ವಿಕರ್ಣ ಭಾಗಿಸು ಅಭಿಮುಖ ಬಾಹು. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, ನಮಗೆ csc A ಸಮನಾಗಿರುತ್ತದೆ 5 ಭಾಗಿಸು 3 ಎಂದು ಸಿಗುತ್ತದೆ. ಇದು ತುಂಬಾ ಸರಳವಾಗಿದೆ, ಅಲ್ಲವೇ?",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ದೃಢಪಡಿಸೋಣ. ಬಲಭಾಗದಲ್ಲಿರುವ ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ನೋಡಿ. ಕೊಟ್ಟಿರುವ ತ್ರಿಭುಜದಲ್ಲಿ, $\\angle A$ ಗೆ, ಅಭಿಮುಖ ಬಾಹುವಿನ ಉದ್ದ 3 ಮತ್ತು ವಿಕರ್ಣದ ಉದ್ದ 5 ಆಗಿದೆ. ನಮ್ಮ ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, $\\csc A = \\frac{\\text{ವಿಕರ್ಣ}}{\\text{ಅಭಿಮುಖ ಬಾಹು}}$. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, ನಮಗೆ $\\csc A = \\frac{5}{3}$ ಎಂದು ಸಿಗುತ್ತದೆ. ಇದು ತುಂಬಾ ಸರಳವಾಗಿದೆ, ಅಲ್ಲವೇ?",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ತ್ರಿಭುಜದಲ್ಲಿ, $\\angle A$ ಗೆ,",
+    "ಅಭಿಮುಖ ಬಾಹು = 3",
+    "ವಿಕರ್ಣ = 5",
+    "$\\csc A = \\frac{\\text{ವಿಕರ್ಣ}}{\\text{ಅಭಿಮುಖ ಬಾಹು}} = \\frac{5}{3}$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC, B ಯಲ್ಲಿ ಲಂಬಕೋನ. ಬಾಹುಗಳ ಅಳತೆಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ: AB=4, BC=3, AC=5. ಕೋನ A ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, 3, 4, 5",
+    "mathematical_significance": "ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತವನ್ನು ನಿರ್ದಿಷ್ಟ ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಬಳಸುವ ಒಂದು ದೃಶ್ಯ ಉದಾಹರಣೆ.",
+    "placeholder_note": "Generate a right-angled triangle ABC, right-angled at B. Label sides AB=4, BC=3, AC=5. Highlight angle A."
+  },
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_019"
+}

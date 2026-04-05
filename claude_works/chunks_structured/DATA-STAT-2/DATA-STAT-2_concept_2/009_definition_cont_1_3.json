@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ವಿಚಲನೆ (Deviation): ಲೆಕ್ಕಾಚಾರ ಏಕೆ ಸುಲಭ?",
+  "script": "ಅಂದಾಜು ಸರಾಸರಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ ನಂತರ, ಲೆಕ್ಕಾಚಾರ ಹೇಗೆ ಸುಲಭವಾಗುತ್ತದೆ? ಇಲ್ಲಿ 'ವಿಚಲನೆ' ಎಂಬ ಪರಿಕಲ್ಪನೆ ಬರುತ್ತದೆ. ಪ್ರತಿ ವರ್ಗ-ಅಂಕದಿಂದ, ಅಂದರೆ x i ಯಿಂದ, ನಾವು ಅಂದಾಜು ಸರಾಸರಿ 'a' ಅನ್ನು ಕಳೆಯುತ್ತೇವೆ. ಇದರಿಂದ ನಮಗೆ ವಿಚಲನೆ, d i, ಸಿಗುತ್ತದೆ. ಇದರ ಸೂತ್ರ d i ಈಕ್ವಲ್ಸ್ x i ಮೈನಸ್ a. ಎಡಭಾಗದಲ್ಲಿರುವ ಮೂಲ x i ಮೌಲ್ಯಗಳನ್ನು ನೋಡಿ. ಅವು ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳು. ಈಗ, ನಾವು a ಈಕ್ವಲ್ಸ್ 42.5 ಎಂದು ತೆಗೆದುಕೊಂಡಾಗ, ಬಲಭಾಗದಲ್ಲಿರುವ ಹೊಸ d i ಮೌಲ್ಯಗಳನ್ನು ಗಮನಿಸಿ. ಅವು ಮೈನಸ್ 30, ಮೈನಸ್ 15, 0, 15, 30, 45. ಈ ಸಂಖ್ಯೆಗಳು ಚಿಕ್ಕದಾಗಿವೆ ಮತ್ತು ಕೆಲವು ಋಣಾತ್ಮಕವಾಗಿವೆ. ಇವುಗಳನ್ನು f i ಜೊತೆ ಗುಣಿಸುವುದು ಹೆಚ್ಚು ಸುಲಭ.",
+  "script_display": "ಅಂದಾಜು ಸರಾಸರಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ ನಂತರ, ಲೆಕ್ಕಾಚಾರ ಹೇಗೆ ಸುಲಭವಾಗುತ್ತದೆ? ಇಲ್ಲಿ 'ವಿಚಲನೆ' (Deviation) ಎಂಬ ಪರಿಕಲ್ಪನೆ ಬರುತ್ತದೆ. ಪ್ರತಿ ವರ್ಗ-ಅಂಕದಿಂದ ($x_i$) ನಾವು ಅಂದಾಜು ಸರಾಸರಿ 'a' ಅನ್ನು ಕಳೆಯುತ್ತೇವೆ. ಇದರಿಂದ ನಮಗೆ ವಿಚಲನೆ, $d_i$, ಸಿಗುತ್ತದೆ. ಇದರ ಸೂತ್ರ $d_i = x_i - a$. ಎಡಭಾಗದಲ್ಲಿರುವ ಮೂಲ $x_i$ ಮೌಲ್ಯಗಳನ್ನು ನೋಡಿ. ಅವು ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳು. ಈಗ, ನಾವು $a = 42.5$ ಎಂದು ತೆಗೆದುಕೊಂಡಾಗ, ಬಲಭಾಗದಲ್ಲಿರುವ ಹೊಸ $d_i$ ಮೌಲ್ಯಗಳನ್ನು ಗಮನಿಸಿ. ಅವು -30, -15, 0, 15, 30, 45. ಈ ಸಂಖ್ಯೆಗಳು ಚಿಕ್ಕದಾಗಿವೆ ಮತ್ತು ಕೆಲವು ಋಣಾತ್ಮಕವಾಗಿವೆ. ಇವುಗಳನ್ನು $f_i$ ಜೊತೆ ಗುಣಿಸುವುದು ಹೆಚ್ಚು ಸುಲಭ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "left_vs_right",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. Left side titled 'ಮೂಲ ವರ್ಗ-ಅಂಕಗಳು (xᵢ)' with the list: 12.5, 27.5, 42.5, 57.5, 72.5, 87.5. Right side titled 'ಹೊಸ ವಿಚಲನೆಗಳು (dᵢ = xᵢ - 42.5)' with the list: -30, -15, 0, 15, 30, 45. An arrow points from the left list to the right list, labeled with the operation '- a' or '- 42.5'.",
+    "labels": "Original class marks, new deviations, assumed mean subtraction",
+    "mathematical_significance": "Visually demonstrates how subtracting the assumed mean transforms large, cumbersome numbers into smaller, more manageable numbers (deviations), simplifying subsequent calculations in the assumed mean method.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "DATA-STAT-2_concept_2_chunk_009"
+}

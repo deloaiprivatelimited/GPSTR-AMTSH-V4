@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವಿಶೇಷ ಪ್ರಕರಣ: ಅರ್ಧವೃತ್ತ",
+  "script": "ಒಂದು ವೇಳೆ ನಾವು ಎಳೆದ ಜ್ಯಾವು ವೃತ್ತದ ವ್ಯಾಸವೇ ಆಗಿದ್ದರೆ ಏನಾಗುತ್ತದೆ? ವ್ಯಾಸವು ವೃತ್ತದ ಕೇಂದ್ರದ ಮೂಲಕ ಹಾದುಹೋಗುವ ಅತಿ ಉದ್ದದ ಜ್ಯಾ ಆಗಿದೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ, ವ್ಯಾಸವು ವೃತ್ತವನ್ನು ಎರಡು ಸಮನಾದ ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಹಾಗೆಯೇ, ಪರಿಧಿಯನ್ನೂ ಸಹ ಎರಡು ಸಮನಾದ ಕಂಸಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಈ ಪ್ರತಿಯೊಂದು ಸಮನಾದ ಕಂಸವನ್ನು ನಾವು ಅರ್ಧವೃತ್ತ ಅಥವಾ ಸೆಮಿಸರ್ಕಲ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ಲಘು ಕಂಸ ಅಥವಾ ಅಧಿಕ ಕಂಸ ಇರುವುದಿಲ್ಲ, ಏಕೆಂದರೆ ಎರಡೂ ಕಂಸಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಇದು ಕಂಸದ ಒಂದು ವಿಶೇಷ ಮತ್ತು ಪ್ರಮುಖ ಪ್ರಕರಣವಾಗಿದೆ.",
+  "script_display": "ಒಂದು ವೇಳೆ ನಾವು ಎಳೆದ ಜ್ಯಾವು ವೃತ್ತದ ವ್ಯಾಸವೇ ಆಗಿದ್ದರೆ ಏನಾಗುತ್ತದೆ? ವ್ಯಾಸವು ವೃತ್ತದ ಕೇಂದ್ರದ ಮೂಲಕ ಹಾದುಹೋಗುವ ಅತಿ ಉದ್ದದ ಜ್ಯಾ ಆಗಿದೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ, ವ್ಯಾಸವು ವೃತ್ತವನ್ನು ಎರಡು ಸಮನಾದ ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಹಾಗೆಯೇ, ಪರಿಧಿಯನ್ನೂ ಸಹ ಎರಡು ಸಮನಾದ ಕಂಸಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಈ ಪ್ರತಿಯೊಂದು ಸಮನಾದ ಕಂಸವನ್ನು ನಾವು ಅರ್ಧವೃತ್ತ (Semicircle) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ಲಘು ಕಂಸ ಅಥವಾ ಅಧಿಕ ಕಂಸ ಇರುವುದಿಲ್ಲ, ಏಕೆಂದರೆ ಎರಡೂ ಕಂಸಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಇದು ಕಂಸದ ಒಂದು ವಿಶೇಷ ಮತ್ತು ಪ್ರಮುಖ ಪ್ರಕರಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಜ್ಯಾವು ವ್ಯಾಸವಾದಾಗ, ಅದು ವೃತ್ತವನ್ನು ಎರಡು ಸಮ ಕಂಸಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ.",
+    "ಈ ಪ್ರತಿಯೊಂದು ಕಂಸವನ್ನು ಅರ್ಧವೃತ್ತ (Semicircle) ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+    "ಅರ್ಧವೃತ್ತದ ಸಂದರ್ಭದಲ್ಲಿ, ಲಘು ಮತ್ತು ಅಧಿಕ ಕಂಸಗಳಿರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A circle with a diameter PQ drawn through the center O. The diameter divides the circle into two equal arcs. Both arcs are highlighted in different colors (e.g., orange and purple) and labeled 'ಅರ್ಧವೃತ್ತ (Semicircle)'.",
+    "labels": "Diameter PQ, Center O, Semicircle",
+    "mathematical_significance": "Illustrates the special case where the chord is a diameter, resulting in two equal arcs called semicircles. This is a boundary condition for the minor/major arc definition.",
+    "placeholder_note": "Image to be generated showing a diameter creating two semicircles."
+  },
+  "chunk_id": "GEO-CIR-2_concept_1_chunk_012"
+}

@@ -1,0 +1,46 @@
+{
+  "module_id": "std_9_chapter_6_concept_2",
+  "chapter_code": "std_9_chapter_6",
+  "voice": "Umbriel",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 107.273,
+  "total_duration_formatted": "1:47",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_6_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ಅಂಗಾಂಶಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 48.731,
+      "duration": 48.731,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisites",
+      "start": 49.331,
+      "end": 63.822,
+      "duration": 14.491,
+      "script_words": 20
+    },
+    {
+      "chunk_id": "std_9_chapter_6_concept_2_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 64.422,
+      "end": 106.673,
+      "duration": 42.251,
+      "script_words": 54
+    }
+  ]
+}

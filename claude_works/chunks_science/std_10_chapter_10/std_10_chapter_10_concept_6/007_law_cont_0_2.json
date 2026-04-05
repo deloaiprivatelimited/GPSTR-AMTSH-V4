@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಗಣಿತದ ಸೂತ್ರ",
+  "script": "ಈಗ ರೇಯ್ಲಿ ಚದುರುವಿಕೆಯ ಗಣಿತದ ರೂಪವನ್ನು ನೋಡೋಣ. ಚದುರುವಿಕೆಯ ಪ್ರಮಾಣವು, ಒಂದರ ಕೆಳಗೆ ಲ್ಯಾಮ್ಡಾದ ನಾಲ್ಕನೇ ಘಾತಕ್ಕೆ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ. ಇಲ್ಲಿ ಲ್ಯಾಮ್ಡಾ ಎಂಬುದು ಬೆಳಕಿನ ತರಂಗಾಂತರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಸೂತ್ರದ ಅರ್ಥವೇನೆಂದರೆ, ತರಂಗಾಂತರವು ಅರ್ಧದಷ್ಟು ಕಡಿಮೆಯಾದರೆ, ಚದುರುವಿಕೆಯು ಹದಿನಾರು ಪಟ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನೀಲಿ ಬೆಳಕಿನ ತರಂಗಾಂತರವು ಕೆಂಪು ಬೆಳಕಿನ ತರಂಗಾಂತರಕ್ಕಿಂತ ಸುಮಾರು ಅರ್ಧದಷ್ಟಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ವಾತಾವರಣದ ಕಣಗಳು ನೀಲಿ ಬೆಳಕನ್ನು ಕೆಂಪು ಬೆಳಕಿಗಿಂತ ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಚದುರಿಸುತ್ತವೆ. ಇದೇ ಆಕಾಶದ ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ಮೂಲ ಕಾರಣ.",
+  "script_display": "ರೇಯ್ಲಿ ಚದುರುವಿಕೆಯ ಗಣಿತದ ರೂಪವು ಚದುರುವಿಕೆ ಮತ್ತು ತರಂಗಾಂತರದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ. \n\nಚದುರುವಿಕೆಯ ಪ್ರಮಾಣ (Scattering Intensity) ಮತ್ತು ತರಂಗಾಂತರ (λ) ಇವುಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಈ ಸೂತ್ರವು ತೋರಿಸುತ್ತದೆ. ತರಂಗಾಂತರ (λ) ಕಡಿಮೆಯಾದಂತೆ, ಚದುರುವಿಕೆಯ ಪ್ರಮಾಣವು ಘಾತೀಯವಾಗಿ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "I_{scattering} \\propto \\frac{1}{\\lambda^4}",
+    "placeholder_note": "Formula showing scattering intensity is inversely proportional to the fourth power of wavelength."
+  },
+  "chunk_id": "std_10_chapter_10_concept_6_chunk_007"
+}

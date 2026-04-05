@@ -1,0 +1,46 @@
+{
+  "module_id": "std_9_chapter_2_concept_12",
+  "chapter_code": "std_9_chapter_2",
+  "voice": "Rasalgethi",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 141.353,
+  "total_duration_formatted": "2:21",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_2_concept_12_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ದ್ರವ್ಯದ ವರ್ಗೀಕರಣ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 57.971,
+      "duration": 57.971,
+      "script_words": 90
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_12_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 58.571,
+      "end": 88.622,
+      "duration": 30.051,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "std_9_chapter_2_concept_12_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "start": 89.222,
+      "end": 140.753,
+      "duration": 51.531,
+      "script_words": 60
+    }
+  ]
+}

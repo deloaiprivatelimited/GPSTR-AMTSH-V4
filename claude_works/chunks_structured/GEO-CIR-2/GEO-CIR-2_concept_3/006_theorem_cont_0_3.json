@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 3 (ಸಮೀಕರಣಗಳು)",
+  "script": "ಹಿಂದಿನ ಹಂತದಲ್ಲಿ, ಕೋನ BOQ ಸಮ ಕೋನ OAQ ಪ್ಲಸ್ ಕೋನ OQA ಎಂದು ನಾವು ನೋಡಿದೆವು. ಕೋನ OAQ ಮತ್ತು ಕೋನ OQA ಸಮವಾಗಿರುವುದರಿಂದ, ನಾವು ಇದನ್ನು ಕೋನ BOQ ಸಮ ಎರಡು ಗುಣಿಸು ಕೋನ OAQ ಎಂದು ಬರೆಯಬಹುದು. ಇದನ್ನು ಸಮೀಕರಣ ಒಂದು ಎಂದು ಕರೆಯೋಣ. ಇದೇ ತರ್ಕವನ್ನು ನಾವು ಇನ್ನೊಂದು ತ್ರಿಭುಜವಾದ OAP ಗೂ ಅನ್ವಯಿಸಬಹುದು. ತ್ರಿಭುಜ OAP ನಲ್ಲಿ, OA ಮತ್ತು OP ತ್ರಿಜ್ಯಗಳಾಗಿರುವುದರಿಂದ ಅವು ಸಮ. ಆದ್ದರಿಂದ, ಕೋನ OAP ಸಮ ಕೋನ OPA. ಇಲ್ಲಿ ಬಾಹ್ಯ ಕೋನ BOP ಯು ಎರಡು ಗುಣಿಸು ಕೋನ OAP ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಇದನ್ನು ಸಮೀಕರಣ ಎರಡು ಎಂದು ಕರೆಯೋಣ.",
+  "script_display": "ಹಿಂದಿನ ಹಂತದಿಂದ ಮುಂದುವರಿಸೋಣ.\n*   $\\angle OAQ = \\angle OQA$ ಆಗಿರುವುದರಿಂದ, $\\angle BOQ = 2\\angle OAQ$. --- (1)\n*   ಅದೇ ರೀತಿ, $\\Delta OAP$ ನಲ್ಲಿ, $OA = OP$ (ತ್ರಿಜ್ಯಗಳು), ಆದ್ದರಿಂದ $\\angle OAP = \\angle OPA$.\n*   ಬಾಹ್ಯ ಕೋನ $\\angle BOP = 2\\angle OAP$. --- (2)",
+  "display_bullets": [
+    "$\\angle OAQ = \\angle OQA$ ಆಗಿರುವುದರಿಂದ, $\\angle BOQ = 2\\angle OAQ$. --- (1)",
+    "ಅದೇ ರೀತಿ, $\\Delta OAP$ ನಲ್ಲಿ, ಬಾಹ್ಯ ಕೋನ $\\angle BOP = 2\\angle OAP$. --- (2)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸಾಧನೆಯ ಚಿತ್ರ, ಇದರಲ್ಲಿ ತ್ರಿಭುಜ OAP ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. OA ಮತ್ತು OP ಬಾಹುಗಳನ್ನು ಸಮ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "P, Q, O, A, B",
+    "mathematical_significance": "ಸಾಧನೆಯ ಎರಡನೇ ಭಾಗವನ್ನು ವಿವರಿಸುತ್ತದೆ, ತ್ರಿಭುಜ OAP ಮೇಲೆ ಗಮನಹರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "proof_step",
+  "chunk_id": "GEO-CIR-2_concept_3_chunk_006"
+}

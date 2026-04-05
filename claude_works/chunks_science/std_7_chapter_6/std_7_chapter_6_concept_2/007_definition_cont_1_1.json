@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ವಾಯುವಿಕ ಉಸಿರಾಟದ ಸಮೀಕರಣ",
+  "script": "ವಾಯುವಿಕ ಉಸಿರಾಟದ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಾವು ಈ ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ಮೂಲಕ ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಇಲ್ಲಿ, ಗ್ಲೂಕೋಸ್ ಅಂದರೆ C six H twelve O six, ಆರು ಅಣು ಆಮ್ಲಜನಕದೊಂದಿಗೆ, ಅಂದರೆ six O two ಜೊತೆ ವರ್ತಿಸುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ, ಆರು ಅಣು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅಂದರೆ six C O two, ಆರು ಅಣು ನೀರು ಅಂದರೆ six H two O, ಮತ್ತು ಅಪಾರ ಪ್ರಮಾಣದ ಶಕ್ತಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಇಲ್ಲಿ ಪ್ರತಿಕ್ರಿಯೆಗಳು ಗ್ಲೂಕೋಸ್ ಮತ್ತು ಆಮ್ಲಜನಕ. ಹಾಗೂ ಉತ್ಪನ್ನಗಳು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ನೀರು ಮತ್ತು ಶಕ್ತಿ.",
+  "script_display": "ವಾಯುವಿಕ ಉಸಿರಾಟದ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಾವು ಈ ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ಮೂಲಕ ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಇಲ್ಲಿ, ಗ್ಲೂಕೋಸ್ (C₆H₁₂O₆), 6 ಅಣು ಆಮ್ಲಜನಕದೊಂದಿಗೆ (6O₂) ವರ್ತಿಸುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯ ಪರಿಣಾಮವಾಗಿ, 6 ಅಣು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (6CO₂), 6 ಅಣು ನೀರು (6H₂O), ಮತ್ತು ಅಪಾರ ಪ್ರಮಾಣದ ಶಕ್ತಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಇಲ್ಲಿ ಪ್ರತಿಕ್ರಿಯೆಗಳು ಗ್ಲೂಕೋಸ್ ಮತ್ತು ಆಮ್ಲಜನಕ. ಹಾಗೂ ಉತ್ಪನ್ನಗಳು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ನೀರು ಮತ್ತು ಶಕ್ತಿ.",
+  "display_bullets": [
+    "ಪ್ರತಿಕ್ರಿಯೆಗಳು (Reactants): ಗ್ಲೂಕೋಸ್ (ಆಹಾರ) ಮತ್ತು ಆಮ್ಲಜನಕ.",
+    "ಉತ್ಪನ್ನಗಳು (Products): ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೆಡ್, ನೀರು ಮತ್ತು ಶಕ್ತಿ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "C_6H_{12}O_6 + 6O_2 \\rightarrow 6CO_2 + 6H_2O + \\text{ಶಕ್ತಿ (Energy)}",
+    "placeholder_note": "Chemical equation for aerobic respiration"
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_7_chapter_6_concept_2_chunk_007"
+}

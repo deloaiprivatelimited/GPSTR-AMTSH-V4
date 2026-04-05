@@ -1,0 +1,79 @@
+{
+  "module_id": "std_8_chapter_3_concept_4",
+  "chapter_code": "std_8_chapter_3",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 282.426,
+  "total_duration_formatted": "4:42",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_3_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಕಲ್ಲಿದ್ದಲಿನ ಸಂಸ್ಕರಣೆ ಮತ್ತು ಉತ್ಪನ್ನಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 57.651,
+      "duration": 57.651,
+      "script_words": 85
+    },
+    {
+      "chunk_id": "std_8_chapter_3_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 58.251,
+      "end": 96.342,
+      "duration": 38.091,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_8_chapter_3_concept_4_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಕಲ್ಲಿದ್ದಲಿನ ಉತ್ಪನ್ನಗಳು: ಕೋಕ್",
+      "type": "concept_explanation",
+      "start": 96.942,
+      "end": 141.593,
+      "duration": 44.651,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_8_chapter_3_concept_4_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಕಲ್ಲಿದ್ದಲಿನ ಉತ್ಪನ್ನಗಳು: ಕಲ್ಲಿದ್ದಲು ಡಾಂಬರು",
+      "type": "concept_explanation",
+      "start": 142.193,
+      "end": 183.924,
+      "duration": 41.731,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_8_chapter_3_concept_4_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಕಲ್ಲಿದ್ದಲಿನ ಉತ್ಪನ್ನಗಳು: ಕಲ್ಲಿದ್ದಲು ಅನಿಲ",
+      "type": "concept_explanation",
+      "start": 184.524,
+      "end": 239.015,
+      "duration": 54.491,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_8_chapter_3_concept_4_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 239.615,
+      "end": 281.826,
+      "duration": 42.211,
+      "script_words": 55
+    }
+  ]
+}

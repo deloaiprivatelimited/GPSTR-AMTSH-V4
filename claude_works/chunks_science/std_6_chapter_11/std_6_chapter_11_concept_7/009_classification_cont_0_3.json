@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನೈಸರ್ಗಿಕ ಅನಿಲ (Natural Gas)",
+  "script": "ಕೊನೆಯದಾಗಿ, ನೈಸರ್ಗಿಕ ಅನಿಲ. ಇದು ಅನಿಲ ರೂಪದ ಪಳೆಯುಳಿಕೆ ಇಂಧನವಾಗಿದೆ. ಇದು ಹೆಚ್ಚಾಗಿ ಪೆಟ್ರೋಲಿಯಂ ನಿಕ್ಷೇಪಗಳ ಜೊತೆಯಲ್ಲಿಯೇ ಕಂಡುಬರುತ್ತದೆ. ಪೆಟ್ರೋಲಿಯಂನಂತೆಯೇ, ಇದು ಕೂಡ ಲಕ್ಷಾಂತರ ವರ್ಷಗಳ ಹಿಂದೆ ಹೂತುಹೋದ ಸಾಗರ ಜೀವಿಗಳಿಂದ ರೂಪುಗೊಂಡಿದೆ. ನೈಸರ್ಗಿಕ ಅನಿಲವು ಮುಖ್ಯವಾಗಿ ಮೀಥೇನ್ ಎಂಬ ಅನಿಲವನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಇದನ್ನು ಮನೆಗಳಲ್ಲಿ ಅಡುಗೆ ಮಾಡಲು ಎಲ್ ಪಿ ಜಿ ರೂಪದಲ್ಲಿ ಮತ್ತು ವಾಹನಗಳಲ್ಲಿ ಇಂಧನವಾಗಿ ಸಿ ಎನ್ ಜಿ ರೂಪದಲ್ಲಿ ಬಳಸಲಾಗುತ್ತದೆ. ಕಲ್ಲಿದ್ದಲು ಮತ್ತು ಪೆಟ್ರೋಲಿಯಂಗೆ ಹೋಲಿಸಿದರೆ ಇದು ಕಡಿಮೆ ಮಾಲಿನ್ಯಕಾರಕ ಇಂಧನವಾಗಿದೆ.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ನೈಸರ್ಗಿಕ ಅನಿಲ (Natural Gas). ಇದು ಅನಿಲ ರೂಪದ ಪಳೆಯುಳಿಕೆ ಇಂಧನವಾಗಿದೆ. ಇದು ಹೆಚ್ಚಾಗಿ ಪೆಟ್ರೋಲಿಯಂ ನಿಕ್ಷೇಪಗಳ ಜೊತೆಯಲ್ಲಿಯೇ ಕಂಡುಬರುತ್ತದೆ. ನೈಸರ್ಗಿಕ ಅನಿಲವು ಮುಖ್ಯವಾಗಿ ಮೀಥೇನ್ (CH₄) ಅನಿಲವನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಇದನ್ನು ಮನೆಗಳಲ್ಲಿ ಅಡುಗೆ ಮಾಡಲು LPG (ದ್ರವೀಕೃತ ಪೆಟ್ರೋಲಿಯಂ ಅನಿಲ) ಮತ್ತು ವಾಹನಗಳಲ್ಲಿ ಇಂಧನವಾಗಿ CNG (ಸಂಕುಚಿತ ನೈಸರ್ಗಿಕ ಅನಿಲ) ರೂಪದಲ್ಲಿ ಬಳಸಲಾಗುತ್ತದೆ. ಇದು ಕಡಿಮೆ ಮಾಲಿನ್ಯಕಾರಕ ಇಂಧನವಾಗಿದೆ.",
+  "display_bullets": [
+    "ರೂಪ: ಅನಿಲ ಪಳೆಯುಳಿಕೆ ಇಂಧನ (ಮುಖ್ಯವಾಗಿ ಮೀಥೇನ್).",
+    "ರಚನೆ: ಪೆಟ್ರೋಲಿಯಂ ನಿಕ್ಷೇಪಗಳ ಜೊತೆಯಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ.",
+    "ಬಳಕೆ: ಅಡುಗೆ ಅನಿಲ (LPG), ವಾಹನ ಇಂಧನ (CNG)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clean, clear image of a gas stove burner with a vibrant blue flame, indicating complete combustion. The stove top is modern and clean.",
+    "labels": "",
+    "scientific_significance": "Symbolizes the use of natural gas, a gaseous fossil fuel, for domestic purposes. The blue flame indicates its relatively clean-burning nature compared to other fossil fuels.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_6_chapter_11_concept_7_chunk_009"
+}

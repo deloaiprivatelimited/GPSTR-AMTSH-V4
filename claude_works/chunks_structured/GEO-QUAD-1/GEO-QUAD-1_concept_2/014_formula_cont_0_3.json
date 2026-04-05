@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅನ್ವಯ: ಅಜ್ಞಾತ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಚತುರ್ಭುಜದಲ್ಲಿ, ಮೂರು ಹೊರಕೋನಗಳ ಅಳತೆಗಳು 90 ಡಿಗ್ರಿ, 50 ಡಿಗ್ರಿ, ಮತ್ತು 110 ಡಿಗ್ರಿ. ನಾವು ನಾಲ್ಕನೇ ಹೊರಕೋನ x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಯಾವುದೇ ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತ 360 ಡಿಗ್ರಿ. ಆದ್ದರಿಂದ, ಈ ನಾಲ್ಕು ಕೋನಗಳನ್ನು ಕೂಡಿಸಿದಾಗ ನಮಗೆ 360 ಬರಬೇಕು. ಅಂದರೆ, 90 ಪ್ಲಸ್ 50 ಪ್ಲಸ್ 110 ಪ್ಲಸ್ x ಸಮ 360. ಈಗ ಕೊಟ್ಟಿರುವ ಕೋನಗಳನ್ನು ಕೂಡಿಸೋಣ. 90 ಪ್ಲಸ್ 50 ಅಂದರೆ 140, 140 ಪ್ಲಸ್ 110 ಅಂದರೆ 250. ಹಾಗಾಗಿ, 250 ಪ್ಲಸ್ x ಸಮ 360. x ನ ಬೆಲೆಗಾಗಿ, 360 ರಿಂದ 250 ಅನ್ನು ಕಳೆಯಬೇಕು. ಆಗ ನಮಗೆ x ಸಮ 110 ಡಿಗ್ರಿ ಎಂದು ಉತ್ತರ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಚತುರ್ಭುಜದಲ್ಲಿ, ಮೂರು ಹೊರಕೋನಗಳ ಅಳತೆಗಳು $90^\\circ$, $50^\\circ$, ಮತ್ತು $110^\\circ$. ನಾವು ನಾಲ್ಕನೇ ಹೊರಕೋನ $x$ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಯಾವುದೇ ಬಹುಭುಜದ ಹೊರಕೋನಗಳ ಮೊತ್ತ $360^\\circ$. ಆದ್ದರಿಂದ, ಈ ನಾಲ್ಕು ಕೋನಗಳನ್ನು ಕೂಡಿಸಿದಾಗ ನಮಗೆ $360^\\circ$ ಬರಬೇಕು. ಅಂದರೆ, $90^\\circ + 50^\\circ + 110^\\circ + x = 360^\\circ$. ಈಗ ಕೊಟ್ಟಿರುವ ಕೋನಗಳನ್ನು ಕೂಡಿಸೋಣ. $90 + 50 = 140$, $140 + 110 = 250$. ಹಾಗಾಗಿ, $250^\\circ + x = 360^\\circ$. $x$ ನ ಬೆಲೆಗಾಗಿ, $360^\\circ$ ರಿಂದ $250^\\circ$ ಅನ್ನು ಕಳೆಯಬೇಕು. ಆಗ ನಮಗೆ $x = 110^\\circ$ ಎಂದು ಉತ್ತರ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹೊರಕೋನಗಳ ಮೊತ್ತದ ಸೂತ್ರ: $90^\\circ + 50^\\circ + 110^\\circ + x = 360^\\circ$",
+    "ತಿಳಿದಿರುವ ಕೋನಗಳನ್ನು ಕೂಡಿಸಿದಾಗ: $250^\\circ + x = 360^\\circ$",
+    "ಅಜ್ಞಾತ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು: $x = 360^\\circ - 250^\\circ = 110^\\circ$"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A convex quadrilateral with three exterior angles explicitly marked as 90 degrees, 50 degrees, and 110 degrees. The fourth exterior angle is marked with the variable 'x'.",
+    "labels": "90°, 50°, 110°, x",
+    "mathematical_significance": "This diagram sets up a typical problem where the sum of exterior angles formula can be applied to find an unknown angle.",
+    "placeholder_note": "Image to be generated for the example problem."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_2_chunk_014"
+}

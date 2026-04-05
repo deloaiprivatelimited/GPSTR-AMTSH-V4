@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಮೀಕರಣ: ಒಂದು ಸಮತೋಲನದ ತಕ್ಕಡಿ",
+  "script": "ಒಂದು ಸಮೀಕರಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸುಲಭ ವಿಧಾನವೆಂದರೆ ಅದನ್ನು ಒಂದು ತಕ್ಕಡಿಗೆ ಹೋಲಿಸುವುದು. ಒಂದು ಸಮತೋಲನದಲ್ಲಿರುವ ತಕ್ಕಡಿಯನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಅದರ ಎಡ ತಟ್ಟೆಯಲ್ಲಿರುವ ತೂಕ ಮತ್ತು ಬಲ ತಟ್ಟೆಯಲ್ಲಿರುವ ತೂಕ ಸಮನಾಗಿದ್ದಾಗ ಮಾತ್ರ ಅದು ಸಮತೋಲನದಲ್ಲಿರುತ್ತದೆ. ಸಮೀಕರಣವೂ ಹಾಗೆಯೇ. ಎಡಬದಿ ಮತ್ತು ಬಲಬದಿಗಳು ಸಮನಾದ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿರಬೇಕು. ಸಮ ಚಿಹ್ನೆಯು ಆ ತಕ್ಕಡಿಯ ಸಮತೋಲನವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಒಂದು ಬದಿಯಲ್ಲಿ ಬದಲಾವಣೆ ಮಾಡಿದರೆ, ಸಮತೋಲನ ಕಾಯ್ದುಕೊಳ್ಳಲು ಇನ್ನೊಂದು ಬದಿಯಲ್ಲೂ ಅದೇ ಬದಲಾವಣೆ ಮಾಡಬೇಕು.",
+  "script_display": "ಒಂದು ಸಮೀಕರಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸುಲಭ ವಿಧಾನವೆಂದರೆ ಅದನ್ನು ಒಂದು ತಕ್ಕಡಿಗೆ ಹೋಲಿಸುವುದು. ಒಂದು ಸಮತೋಲನದಲ್ಲಿರುವ ತಕ್ಕಡಿಯನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಅದರ ಎಡ ತಟ್ಟೆಯಲ್ಲಿರುವ ತೂಕ ಮತ್ತು ಬಲ ತಟ್ಟೆಯಲ್ಲಿರುವ ತೂಕ ಸಮನಾಗಿದ್ದಾಗ ಮಾತ್ರ ಅದು ಸಮತೋಲನದಲ್ಲಿರುತ್ತದೆ. ಸಮೀಕರಣವೂ ಹಾಗೆಯೇ. ಎಡಬದಿ ಮತ್ತು ಬಲಬದಿಗಳು ಸಮನಾದ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿರಬೇಕು. ಸಮ ಚಿಹ್ನೆಯು ಆ ತಕ್ಕಡಿಯ ಸಮತೋಲನವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಒಂದು ಬದಿಯಲ್ಲಿ ಬದಲಾವಣೆ ಮಾಡಿದರೆ, ಸಮತೋಲನ ಕಾಯ್ದುಕೊಳ್ಳಲು ಇನ್ನೊಂದು ಬದಿಯಲ್ಲೂ ಅದೇ ಬದಲಾವಣೆ ಮಾಡಬೇಕು.",
+  "display_bullets": [
+    "ಸಮೀಕರಣವನ್ನು ಸಮತೋಲನದಲ್ಲಿರುವ ತಕ್ಕಡಿಗೆ (weighing balance) ಹೋಲಿಸಬಹುದು.",
+    "ಎಡಬದಿ (LHS) ಮತ್ತು ಬಲಬದಿ (RHS) ಗಳು ತಕ್ಕಡಿಯ ಎರಡು ತಟ್ಟೆಗಳಿದ್ದಂತೆ.",
+    "ಸಮ ಚಿಹ್ನೆ (=) ಯು ತಕ್ಕಡಿ ಸಮತೋಲನದಲ್ಲಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, balanced weighing scale. On the left pan, there is a block with '4x + 5' written on it. On the right pan, there is a block with '65' written on it. The scale is perfectly horizontal, indicating balance.",
+    "labels": "4x+5, 65, weighing scale",
+    "mathematical_significance": "This analogy visually represents the core concept of an equation: the equality and balance between the left-hand side and the right-hand side.",
+    "placeholder_note": "Image of a balanced weighing scale with LHS and RHS expressions."
+  },
+  "chunk_id": "ALG-EQ1-1_concept_1_chunk_011"
+}

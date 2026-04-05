@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿರ್ದೇಶಕ ಬಿಂದು (Reference Point)",
+  "script": "ಈಗ, ಆ ನಿರ್ದೇಶಕ ಬಿಂದುವಿನ ಪರಿಕಲ್ಪನೆಯನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ರಸ್ತೆ ಬದಿಯಲ್ಲಿ ಒಂದು ಮರವಿದೆ. ಈ ಮರವನ್ನು ನಾವು ನಮ್ಮ ನಿರ್ದೇಶಕ ಬಿಂದು, ಅಂದರೆ ರೆಫರೆನ್ಸ್ ಪಾಯಿಂಟ್, ಎಂದು ಭಾವಿಸೋಣ. ಬೆಳಿಗ್ಗೆ ಒಂಬತ್ತು ಗಂಟೆಗೆ ಒಂದು ಕಾರು 'ಎ' ಸ್ಥಾನದಲ್ಲಿ, ಅಂದರೆ ಮರದ ಪಕ್ಕದಲ್ಲಿದೆ. ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಅಂದರೆ ಒಂಬತ್ತು ಗಂಟೆ ಐದು ನಿಮಿಷಕ್ಕೆ, ಅದೇ ಕಾರು 'ಬಿ' ಸ್ಥಾನಕ್ಕೆ ತಲುಪಿದೆ. ಇಲ್ಲಿ, ಕಾಲ ಬದಲಾದಂತೆ, ಮರಕ್ಕೆ ಹೋಲಿಸಿದಾಗ ಕಾರಿನ ಸ್ಥಾನವೂ ಬದಲಾಗಿದೆ. ಆದ್ದರಿಂದ, ಕಾರು ಚಲನೆಯಲ್ಲಿದೆ ಎಂದು ನಾವು ಖಚಿತವಾಗಿ ಹೇಳಬಹುದು.",
+  "script_display": "ಈಗ, ಆ ನಿರ್ದೇಶಕ ಬಿಂದುವಿನ ಪರಿಕಲ್ಪನೆಯನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ರಸ್ತೆ ಬದಿಯಲ್ಲಿ ಒಂದು ಮರವಿದೆ. ಈ ಮರವನ್ನು ನಾವು ನಮ್ಮ ನಿರ್ದೇಶಕ ಬಿಂದು (reference point) ಎಂದು ಭಾವಿಸೋಣ. ಬೆಳಿಗ್ಗೆ 9:00 AM ಗಂಟೆಗೆ ಒಂದು ಕಾರು 'A' ಸ್ಥಾನದಲ್ಲಿ, ಅಂದರೆ ಮರದ ಪಕ್ಕದಲ್ಲಿದೆ. ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಅಂದರೆ 9:05 AM ಗಂಟೆಗೆ, ಅದೇ ಕಾರು 'B' ಸ್ಥಾನಕ್ಕೆ ತಲುಪಿದೆ. ಇಲ್ಲಿ, ಕಾಲ ಬದಲಾದಂತೆ, ಮರಕ್ಕೆ ಹೋಲಿಸಿದಾಗ ಕಾರಿನ ಸ್ಥಾನವೂ ಬದಲಾಗಿದೆ. ಆದ್ದರಿಂದ, ಕಾರು ಚಲನೆಯಲ್ಲಿದೆ ಎಂದು ನಾವು ಖಚಿತವಾಗಿ ಹೇಳಬಹುದು.",
+  "display_bullets": [
+    "ನಿರ್ದೇಶಕ ಬಿಂದು: ರಸ್ತೆ ಬದಿಯ ಮರ.",
+    "ಆರಂಭಿಕ ಸ್ಥಾನ (ಸಮಯ t₁): ಕಾರು 'A' ಸ್ಥಾನದಲ್ಲಿದೆ.",
+    "ಅಂತಿಮ ಸ್ಥಾನ (ಸಮಯ t₂): ಕಾರು 'B' ಸ್ಥಾನದಲ್ಲಿದೆ.",
+    "ತೀರ್ಮಾನ: ಕಾಲದೊಂದಿಗೆ, ನಿರ್ದೇಶಕ ಬಿಂದುವಿಗೆ (ಮರ) ಹೋಲಿಸಿದಾಗ ಕಾರಿನ ಸ್ಥಾನ ಬದಲಾಗಿದೆ. ಆದ್ದರಿಂದ, ಕಾರು ಚಲನೆಯಲ್ಲಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a road with a tree on the side. A car is shown at Position A near the tree, labeled 'ಸಮಯ t₁'. An arrow indicates movement to Position B further down the road, where the car is labeled 'ಸಮಯ t₂'. The tree is labeled 'ನಿರ್ದೇಶಕ ಬಿಂದು'.",
+    "labels": "Tree (Reference Point), Car at Position A (t1), Car at Position B (t2), Road",
+    "scientific_significance": "Illustrates the concept of motion relative to a fixed reference point over a period of time.",
+    "placeholder_note": "Image to be generated showing a car moving from point A to B relative to a tree."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_7_concept_1_chunk_003"
+}

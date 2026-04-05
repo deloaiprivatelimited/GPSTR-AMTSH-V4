@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನ: ಮತ್ಸ್ಯಾಗಾರವನ್ನು ಸಿದ್ಧಪಡಿಸುವುದು",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಒಂದು ದೊಡ್ಡ ಗಾಜಿನ ತೊಟ್ಟಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಮೇಜಿನ ಮೇಲೆ ಇಡೋಣ. ನಂತರ, ಅದನ್ನು ಸುಮಾರು ಮುಕ್ಕಾಲು ಭಾಗದಷ್ಟು ಶುದ್ಧ ನೀರಿನಿಂದ ತುಂಬಿಸೋಣ. ಮೀನುಗಳು ಆರಾಮವಾಗಿ ಈಜಲು ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶ ಇರಬೇಕು. ಎರಡನೇ ಹಂತವಾಗಿ, ಮೀನುಗಳಿಗೆ ಉಸಿರಾಡಲು ನೀರಿನಲ್ಲಿ ಕರಗಿದ ಆಮ್ಲಜನಕ ಬಹಳ ಮುಖ್ಯ. ಅದಕ್ಕಾಗಿ, ನಾವು ಒಂದು ಆಮ್ಲಜನಕ ಪಂಪ್ ಅನ್ನು ತೊಟ್ಟಿಯಲ್ಲಿ ಅಳವಡಿಸೋಣ. ಈ ಪಂಪ್ ನಿರಂತರವಾಗಿ ನೀರಿಗೆ ಗಾಳಿಯ ಗುಳ್ಳೆಗಳನ್ನು ಸೇರಿಸುತ್ತದೆ, ಇದರಿಂದ ನೀರಿನಲ್ಲಿ ಕರಗಿದ ಆಮ್ಲಜನಕದ ಮಟ್ಟ ಹೆಚ್ಚಾಗುತ್ತದೆ ಮತ್ತು ನೀರು ಚಲನೆಯಲ್ಲಿರುತ್ತದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಒಂದು ದೊಡ್ಡ ಗಾಜಿನ ತೊಟ್ಟಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಮೇಜಿನ ಮೇಲೆ ಇಡೋಣ. ನಂತರ, ಅದನ್ನು ಸುಮಾರು 3/4 ಭಾಗದಷ್ಟು ಶುದ್ಧ ನೀರಿನಿಂದ ತುಂಬಿಸೋಣ. ಮೀನುಗಳು ಆರಾಮವಾಗಿ ಈಜಲು ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶ ಇರಬೇಕು. ಎರಡನೇ ಹಂತವಾಗಿ, ಮೀನುಗಳಿಗೆ ಉಸಿರಾಡಲು ನೀರಿನಲ್ಲಿ ಕರಗಿದ ಆಮ್ಲಜನಕ ಬಹಳ ಮುಖ್ಯ. ಅದಕ್ಕಾಗಿ, ನಾವು ಒಂದು ಆಮ್ಲಜನಕ ಪಂಪ್ ಅನ್ನು ತೊಟ್ಟಿಯಲ್ಲಿ ಅಳವಡಿಸೋಣ. ಈ ಪಂಪ್ ನಿರಂತರವಾಗಿ ನೀರಿಗೆ ಗಾಳಿಯ ಗುಳ್ಳೆಗಳನ್ನು ಸೇರಿಸುತ್ತದೆ, ಇದರಿಂದ ನೀರಿನಲ್ಲಿ ಕರಗಿದ ಆಮ್ಲಜನಕದ ಮಟ್ಟ ಹೆಚ್ಚಾಗುತ್ತದೆ ಮತ್ತು ನೀರು ಚಲನೆಯಲ್ಲಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹಂತ 1: ದೊಡ್ಡ ಗಾಜಿನ ತೊಟ್ಟಿಯಲ್ಲಿ ನೀರನ್ನು ತುಂಬುವುದು.",
+    "ಹಂತ 2: ಆಮ್ಲಜನಕವನ್ನು ಪೂರೈಸಲು ಪಂಪ್ ಅಳವಡಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-panel diagram. Panel 1 shows a hand pouring water into the glass tank. Panel 2 shows the tank filled with water and a hand installing the air pump, with the air stone at the bottom and the tube going out.",
+    "labels": "ನೀರು ತುಂಬುವುದು, ಪಂಪ್ ಅಳವಡಿಕೆ",
+    "scientific_significance": "Demonstrates the setup of the abiotic environment (water and oxygen supply) which is crucial for life support.",
+    "placeholder_note": "Image to be generated showing the first two steps of the procedure."
+  },
+  "sub_type": "experiment_procedure",
+  "chunk_id": "std_10_chapter_13_concept_1_chunk_012"
+}

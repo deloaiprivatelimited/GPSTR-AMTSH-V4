@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಿದ್ಧಾಂತದ ಹಿಂದಿನ ವಿಜ್ಞಾನಿಗಳು",
+  "script": "ಈ ಸಿದ್ಧಾಂತವು ಒಬ್ಬ ವಿಜ್ಞಾನಿಯ ಕೆಲಸವಲ್ಲ, ಬದಲಿಗೆ ಹಲವು ವಿಜ್ಞಾನಿಗಳ ಕೊಡುಗೆಯ ಫಲವಾಗಿದೆ. 1838 ರಲ್ಲಿ, ಜರ್ಮನ್ ಸಸ್ಯಶಾಸ್ತ್ರಜ್ಞರಾದ ಮಥಿಯಾಸ್ ಶ್ಲೀಡನ್ ಅವರು ಎಲ್ಲಾ ಸಸ್ಯಗಳು ಜೀವಕೋಶಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿವೆ ಎಂದು ಪ್ರತಿಪಾದಿಸಿದರು. ಅದರ ಮುಂದಿನ ವರ್ಷ, 1839 ರಲ್ಲಿ, ಪ್ರಾಣಿಶಾಸ್ತ್ರಜ್ಞರಾದ ಥಿಯೋಡರ್ ಶ್ವಾನ್ ಅವರು ಎಲ್ಲಾ ಪ್ರಾಣಿಗಳು ಕೂಡ ಜೀವಕೋಶಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿವೆ ಎಂದು ಹೇಳಿದರು. ಈ ಇಬ್ಬರು ವಿಜ್ಞಾನಿಗಳು ಸೇರಿ ಕೋಶ ಸಿದ್ಧಾಂತದ ಮೊದಲ ಎರಡು ತತ್ವಗಳನ್ನು ಮಂಡಿಸಿದರು. ಇವರ ಜೊತೆಗೆ, ರಾಬರ್ಟ್ ಬ್ರೌನ್ ಅವರು ಕೋಶಕೇಂದ್ರವನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದು ಕೂಡ ಈ ಸಿದ್ಧಾಂತಕ್ಕೆ ಪೂರಕವಾಯಿತು.",
+  "script_display": "ಈ ಸಿದ್ಧಾಂತವು ಹಲವು ವಿಜ್ಞಾನಿಗಳ ಕೊಡುಗೆಯ ಫಲವಾಗಿದೆ. 1838 ರಲ್ಲಿ, ಸಸ್ಯಶಾಸ್ತ್ರಜ್ಞ ಮಥಿಯಾಸ್ ಶ್ಲೀಡನ್ (Matthias Schleiden) ಎಲ್ಲಾ ಸಸ್ಯಗಳು ಜೀವಕೋಶಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿವೆ ಎಂದು ಪ್ರತಿಪಾದಿಸಿದರು. 1839 ರಲ್ಲಿ, ಪ್ರಾಣಿಶಾಸ್ತ್ರಜ್ಞ ಥಿಯೋಡರ್ ಶ್ವಾನ್ (Theodor Schwann) ಎಲ್ಲಾ ಪ್ರಾಣಿಗಳು ಕೂಡ ಜೀವಕೋಶಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿವೆ ಎಂದು ಹೇಳಿದರು. ಇವರಿಬ್ಬರು ಕೋಶ ಸಿದ್ಧಾಂತದ ಮೊದಲ ಎರಡು ತತ್ವಗಳನ್ನು ಮಂಡಿಸಿದರು.",
+  "display_bullets": [
+    "ಮಥಿಯಾಸ್ ಶ್ಲೀಡನ್ (1838): ಎಲ್ಲಾ ಸಸ್ಯಗಳು ಜೀವಕೋಶಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿವೆ.",
+    "ಥಿಯೋಡರ್ ಶ್ವಾನ್ (1839): ಎಲ್ಲಾ ಪ್ರಾಣಿಗಳು ಜೀವಕೋಶಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿವೆ.",
+    "ಇವರಿಬ್ಬರು ಸೇರಿ ಕೋಶ ಸಿದ್ಧಾಂತದ ಮೂಲ ತತ್ವಗಳನ್ನು ಪ್ರಸ್ತಾಪಿಸಿದರು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Portraits of Matthias Schleiden and Theodor Schwann side-by-side. Schleiden is shown with a plant cell diagram, and Schwann with an animal cell diagram.",
+    "labels": "ಮಥಿಯಾಸ್ ಶ್ಲೀಡನ್, ಥಿಯೋಡರ್ ಶ್ವಾನ್",
+    "scientific_significance": "Shows the two primary founders of the cell theory and their respective fields of study (botany and zoology).",
+    "placeholder_note": "Image to be generated showing portraits of Schleiden and Schwann."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_5_concept_1_chunk_013"
+}

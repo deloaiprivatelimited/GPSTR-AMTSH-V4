@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಸಂವಹನ ಪ್ರವಾಹ",
+  "script": "ನೋಡಿ, ಪೊಟ್ಯಾಸಿಯಮ್ ಪರ್ಮಾಂಗನೇಟ್ ಹರಳು ಕರಗಿ, ನೇರಳೆ ಬಣ್ಣದ ನೀರಿನ ಎಳೆಗಳು ಮೇಲಕ್ಕೆ ಏಳುತ್ತಿರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಹರಳಿನ ಸಮೀಪವಿರುವ ನೀರು ಬಿಸಿಯಾದಾಗ, ಅದು ಹಗುರವಾಗಿ ಮೇಲಕ್ಕೆ ಚಲಿಸುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ಮೇಲಿರುವ ತಂಪಾದ ಮತ್ತು ಭಾರವಾದ ನೀರು ಅದರ ಜಾಗವನ್ನು ತುಂಬಲು ಬದಿಗಳಿಂದ ಕೆಳಕ್ಕೆ ಇಳಿಯುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಪುನರಾವರ್ತನೆಯಾಗುತ್ತಾ, ಒಂದು ಚಕ್ರೀಯ ಪ್ರವಾಹವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಇದನ್ನು ನಾವು ಸಂವಹನ ಪ್ರವಾಹ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇಡೀ ನೀರು ಬಿಸಿಯಾಗುವವರೆಗೂ ಈ ಚಕ್ರವು ಮುಂದುವರಿಯುತ್ತದೆ.",
+  "script_display": "ನೋಡಿ! ಪೊಟ್ಯಾಸಿಯಮ್ ಪರ್ಮಾಂಗನೇಟ್ ಹರಳು ಕರಗಿ, ನೇರಳೆ ಬಣ್ಣದ ನೀರಿನ ಎಳೆಗಳು ಮೇಲಕ್ಕೆ ಏಳುತ್ತಿರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಹರಳಿನ ಸಮೀಪವಿರುವ ನೀರು ಬಿಸಿಯಾದಾಗ, ಅದು ಹಗುರವಾಗಿ ಮೇಲಕ್ಕೆ ಚಲಿಸುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ಮೇಲಿರುವ ತಂಪಾದ ಮತ್ತು ಭಾರವಾದ ನೀರು ಅದರ ಜಾಗವನ್ನು ತುಂಬಲು ಬದಿಗಳಿಂದ ಕೆಳಕ್ಕೆ ಇಳಿಯುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಪುನರಾವರ್ತನೆಯಾಗುತ್ತಾ, ಒಂದು ಚಕ್ರೀಯ ಪ್ರವಾಹವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಇದನ್ನು ನಾವು 'ಸಂವಹನ ಪ್ರವಾಹ' (convection current) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇಡೀ ನೀರು ಬಿಸಿಯಾಗುವವರೆಗೂ ಈ ಚಕ್ರವು ಮುಂದುವರಿಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬಿಸಿಯಾದ, ಬಣ್ಣದ ನೀರು ಮೇಲಕ್ಕೆ ಚಲಿಸುತ್ತದೆ.",
+    "ತಂಪಾದ ನೀರು ಬದಿಗಳಿಂದ ಕೆಳಕ್ಕೆ ಚಲಿಸುತ್ತದೆ.",
+    "ಚಕ್ರೀಯ 'ಸಂವಹನ ಪ್ರವಾಹ' (convection current) ಉಂಟಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left_text_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing convection currents in the flask. Purple streaks of colored water are rising from the bottom center where the heat is applied. Cooler, clear water is shown descending along the sides of the flask. Arrows clearly indicate this circular motion.",
+    "labels": "ಬಿಸಿ ನೀರು (ಮೇಲ್ಮುಖ ಚಲನೆ), ತಂಪು ನೀರು (ಕೆಳಮುಖ ಚಲನೆ), ಸಂವಹನ ಪ್ರವಾಹ",
+    "scientific_significance": "This visualizes the core concept of convection: the bulk movement of fluid due to density differences caused by temperature gradients. The colored water makes the invisible fluid motion visible.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_3_concept_5_chunk_014"
+}

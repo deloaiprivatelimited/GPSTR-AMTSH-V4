@@ -1,0 +1,81 @@
+{
+  "module_id": "std_6_chapter_6_concept_6",
+  "chapter_code": "std_6_chapter_6",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:27:52",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "314dc6895158826e2567e3583b90fa61",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 32.371,
+      "slide_title": "ಪಾಠದ ಅವಶ್ಯಕತೆಗಳು",
+      "type": "prerequisites",
+      "script_words": 46,
+      "generated_at": "2026-04-02 16:26:49"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "2fa083c3eb2710a7ac3ba83d31ecd786",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 38.451,
+      "slide_title": "ಪರಿಮಾಣದ ಏಕಮಾನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 16:26:50"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "2b5c512ecf66e20fef0c58e846fae376",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 45.291,
+      "slide_title": "ಪರಿಮಾಣದ ಏಕಮಾನಗಳ ಸಂಬಂಧ",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 16:26:55"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "6b9387609b1216663981a9384fe7d4bc",
+      "wav_file": "003_property_0.wav",
+      "duration": 45.531,
+      "slide_title": "ದ್ರವ್ಯರಾಶಿಯ ಏಕಮಾನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 70,
+      "generated_at": "2026-04-02 16:26:58"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "67dfc48c7b42ae1d73de4a213485a21b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 64.091,
+      "slide_title": "ದ್ರವ್ಯರಾಶಿ ಮತ್ತು ಪರಿಮಾಣದ ಅಳತೆಯ ಏಕಮಾನಗಳು",
+      "type": "intro",
+      "script_words": 89,
+      "generated_at": "2026-04-02 16:27:05"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "35b8f2c0fdcaa84d32166777ce83c266",
+      "wav_file": "006_recap_0.wav",
+      "duration": 42.531,
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "script_words": 54,
+      "generated_at": "2026-04-02 16:27:52"
+    }
+  }
+}

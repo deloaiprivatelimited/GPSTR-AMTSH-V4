@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಯತದ ವಿಸ್ತೀರ್ಣ: ಪರಿಚಯ",
+  "script": "ಈಗ ನಾವು ಆಯತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ಕಲಿಯೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಆಯತವೆಂದರೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾನ ಮತ್ತು ಎಲ್ಲಾ ಕೋನಗಳು 90 ಡಿಗ್ರಿಗಳಿರುವ ಒಂದು ಚತುರ್ಭುಜ. ಎರಡನೆಯದಾಗಿ, ವಿಸ್ತೀರ್ಣ ಅಥವಾ ಏರಿಯಾ ಎಂದರೆ ಆಕೃತಿಯು ಆವರಿಸುವ ಒಟ್ಟು ಪ್ರದೇಶ. ಇದನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು, ನಮಗೆ ಎರಡು ಮುಖ್ಯ ಅಳತೆಗಳು ಬೇಕು. ಅವುಗಳೆಂದರೆ ಆಯತದ ಉದ್ದ, ಇದನ್ನು l ಎಂದು ಸೂಚಿಸುತ್ತೇವೆ, ಮತ್ತು ಆಯತದ ಅಗಲ, ಇದನ್ನು b ಎಂದು ಸೂಚಿಸುತ್ತೇವೆ. ಈ ಉದ್ದ ಮತ್ತು ಅಗಲವನ್ನು ತಿಳಿದಿದ್ದರೆ, ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ತುಂಬಾ ಸುಲಭ.",
+  "script_display": "ಈಗ ನಾವು ಆಯತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ಕಲಿಯೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಆಯತವೆಂದರೆ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾನ ಮತ್ತು ಎಲ್ಲಾ ಕೋನಗಳು $90^{\\circ}$ ಇರುವ ಒಂದು ಚತುರ್ಭುಜ. ಎರಡನೆಯದಾಗಿ, ವಿಸ್ತೀರ್ಣ (Area) ಎಂದರೆ ಆಕೃತಿಯು ಆವರಿಸುವ ಒಟ್ಟು ಪ್ರದೇಶ. ಇದನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು, ನಮಗೆ ಎರಡು ಮುಖ್ಯ ಅಳತೆಗಳು ಬೇಕು. ಅವುಗಳೆಂದರೆ ಆಯತದ ಉದ್ದ (length), ಇದನ್ನು $l$ ಎಂದು ಸೂಚಿಸುತ್ತೇವೆ, ಮತ್ತು ಆಯತದ ಅಗಲ (breadth), ಇದನ್ನು $b$ ಎಂದು ಸೂಚಿಸುತ್ತೇವೆ. ಈ ಉದ್ದ ಮತ್ತು ಅಗಲವನ್ನು ತಿಳಿದಿದ್ದರೆ, ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ತುಂಬಾ ಸುಲಭ.",
+  "display_bullets": [
+    "ಆಯತ: ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾನ ಮತ್ತು ಎಲ್ಲಾ ಕೋನಗಳು $90^{\\circ}$ ಇರುವ ಚತುರ್ಭುಜ.",
+    "ವಿಸ್ತೀರ್ಣ (Area): ಆಕೃತಿಯು ಆವರಿಸುವ ಒಟ್ಟು ಪ್ರದೇಶ.",
+    "ಅಗತ್ಯವಿರುವ ಅಳತೆಗಳು: ಉದ್ದ (length, $l$) ಮತ್ತು ಅಗಲ (breadth, $b$)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple 2D diagram of a rectangle. The longer horizontal side is labeled 'ಉದ್ದ (l)' and the shorter vertical side is labeled 'ಅಗಲ (b)'. The interior of the rectangle is lightly shaded to visually represent the concept of area.",
+    "labels": "l, b, ಉದ್ದ, ಅಗಲ, ವಿಸ್ತೀರ್ಣ",
+    "mathematical_significance": "Illustrates the two dimensions, length and breadth, which are the fundamental parameters for calculating the area of a rectangle.",
+    "placeholder_note": "Image to be generated showing a rectangle with length and breadth labeled in Kannada and English letters."
+  },
+  "chunk_id": "MEN-AREA-1_concept_2_chunk_011"
+}

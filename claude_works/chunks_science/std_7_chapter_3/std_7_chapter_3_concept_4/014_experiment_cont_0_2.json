@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1",
+  "script": "ಈಗ ಪ್ರಯೋಗದ ಮೊದಲ ಹಂತವನ್ನು ನೋಡೋಣ. ನಾವು ತೆಗೆದುಕೊಂಡ ಲೋಹದ ಸರಳಿನ ಮೇಲೆ, ಸಮಾನ ಅಂತರದಲ್ಲಿ ಮೇಣದ ತುಣುಕುಗಳನ್ನು ಅಂಟಿಸಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಂದು ತುದಿಯಿಂದ ಇನ್ನೊಂದು ತುದಿಯವರೆಗೆ ಸುಮಾರು ನಾಲ್ಕೈದು ಮೇಣದ ತುಣುಕುಗಳನ್ನು ಅಂಟಿಸಿ. ಮೇಣವು ಸರಳಿಗೆ ಸರಿಯಾಗಿ ಅಂಟಿಕೊಳ್ಳುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಈ ಹಂತವು ಉಷ್ಣ ವರ್ಗಾವಣೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಪ್ರತಿಯೊಂದು ಮೇಣದ ತುಣುಕು ಒಂದು ಉಷ್ಣ ಸೂಚಕದಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗದ ಮೊದಲ ಹಂತವನ್ನು ನೋಡೋಣ. ನಾವು ತೆಗೆದುಕೊಂಡ ಲೋಹದ ಸರಳಿನ ಮೇಲೆ, ಸಮಾನ ಅಂತರದಲ್ಲಿ ಮೇಣದ ತುಣುಕುಗಳನ್ನು ಅಂಟಿಸಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಂದು ತುದಿಯಿಂದ ಇನ್ನೊಂದು ತುದಿಯವರೆಗೆ ಸುಮಾರು 4-5 ಮೇಣದ ತುಣುಕುಗಳನ್ನು ಅಂಟಿಸಿ. ಮೇಣವು ಸರಳಿಗೆ ಸರಿಯಾಗಿ ಅಂಟಿಕೊಳ್ಳುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಈ ಹಂತವು ಉಷ್ಣ ವರ್ಗಾವಣೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಪ್ರತಿಯೊಂದು ಮೇಣದ ತುಣುಕು ಒಂದು ಉಷ್ಣ ಸೂಚಕದಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಲೋಹದ ಸರಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "ಸರಳಿನ ಮೇಲೆ ಸಮಾನ ಅಂತರದಲ್ಲಿ ಮೇಣದ ತುಣುಕುಗಳನ್ನು ಅಂಟಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_3",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a hand attaching small wax pieces at equal intervals along a metal rod.",
+    "labels": "ಲೋಹದ ಸರಳು, ಮೇಣದ ತುಣುಕು",
+    "scientific_significance": "Shows the setup of temperature indicators (wax) to visualize the progression of heat.",
+    "placeholder_note": "Image to be generated showing the procedure step."
+  },
+  "sub_type": "procedure",
+  "chunk_id": "std_7_chapter_3_concept_4_chunk_014"
+}

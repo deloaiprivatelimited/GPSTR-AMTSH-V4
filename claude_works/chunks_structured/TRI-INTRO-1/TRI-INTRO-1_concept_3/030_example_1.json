@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧಿಸಬೇಕಾದ ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಸೆಕ್ ಎ ಇಂಟು ಒಂದು ಮೈನಸ್ ಸೈನ್ ಎ ಇಂಟು ಸೆಕ್ ಎ ಪ್ಲಸ್ ಟ್ಯಾನ್ ಎ ಈಕ್ವಲ್ಸ್ ಒಂದು ಎಂದು ಸಾಧಿಸಬೇಕು. ಇಲ್ಲಿ ನಾವು ಎಡಭಾಗವನ್ನು, ಅಂದರೆ ಎಲ್ ಎಚ್ ಎಸ್ ಅನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಬಲಭಾಗಕ್ಕೆ, ಅಂದರೆ ಆರ್ ಎಚ್ ಎಸ್ ಗೆ ಸಮ ಎಂದು ತೋರಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $\\sec A (1 - \\sin A)(\\sec A + \\tan A) = 1$ ಎಂದು ಸಾಧಿಸಬೇಕು. ಇಲ್ಲಿ ನಾವು ಎಡಭಾಗವನ್ನು (LHS) ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಬಲಭಾಗಕ್ಕೆ (RHS) ಸಮ ಎಂದು ತೋರಿಸಬೇಕು.",
+  "display_bullets": [
+    "$\\sec A (1 - \\sin A)(\\sec A + \\tan A) = 1$ ಎಂದು ಸಾಧಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_formula",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sec A (1 - \\sin A)(\\sec A + \\tan A) = 1",
+    "placeholder_note": "Problem Statement"
+  },
+  "source_example_id": "TRI-INTRO-1_example_10",
+  "final_answer": "",
+  "final_answer_display": "",
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_030"
+}

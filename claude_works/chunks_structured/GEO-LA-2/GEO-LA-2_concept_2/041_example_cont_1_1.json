@@ -1,0 +1,53 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಪರಿಹಾರ (ಭಾಗ 1)",
+  "script": "ಮೊದಲಿಗೆ, ಕಿರಣ OS ಸರಳರೇಖೆ POQ ಮೇಲೆ ನಿಂತಿರುವುದರಿಂದ, ಕೋನ POS ಮತ್ತು ಕೋನ SOQ ಗಳು ಸರಳಯುಗ್ಮವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಅವುಗಳ ಮೊತ್ತ 180 ಡಿಗ್ರಿ. ನಮಗೆ ಕೋನ POS ಸಮ x ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಾಗಾಗಿ, x ಪ್ಲಸ್ ಕೋನ SOQ ಸಮ 180 ಡಿಗ್ರಿ. ಇದರಿಂದ ನಮಗೆ ಕೋನ SOQ ಸಮ 180 ಡಿಗ್ರಿ ಮೈನಸ್ x ಎಂದು ಸಿಗುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಕಿರಣ OR, ಕೋನ POS ನ ಕೋನಾರ್ಧಕವಾಗಿದೆ. ಅಂದರೆ, ಅದು ಕೋನ POS ಅನ್ನು ಎರಡು ಸಮಭಾಗಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, ಕೋನ ROS ಸಮ ಕೋನ POS ನ ಅರ್ಧದಷ್ಟು, ಅಂದರೆ x ಬೈ ಎರಡು. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಅದೇ ರೀತಿ, ಕಿರಣ OT, ಕೋನ SOQ ನ ಕೋನಾರ್ಧಕವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಕೋನ SOT ಸಮ ಕೋನ SOQ ನ ಅರ್ಧದಷ್ಟು. ನಾವು ಈಗಾಗಲೇ ಕೋನ SOQ ಅನ್ನು 180 ಡಿಗ್ರಿ ಮೈನಸ್ x ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಹಾಗಾಗಿ, ಕೋನ SOT ಸಮ 180 ಡಿಗ್ರಿ ಮೈನಸ್ x ನ ಅರ್ಧ, ಅಂದರೆ 90 ಡಿಗ್ರಿ ಮೈನಸ್ x ಬೈ ಎರಡು.",
+  "script_display": "ಮೊದಲಿಗೆ, ಕಿರಣ OS ಸರಳರೇಖೆ POQ ಮೇಲೆ ನಿಂತಿರುವುದರಿಂದ, $\\angle POS$ ಮತ್ತು $\\angle SOQ$ ಗಳು ಸರಳಯುಗ್ಮವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಅವುಗಳ ಮೊತ್ತ $180°$. ನಮಗೆ $\\angle POS = x$ ಎಂದು ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಾಗಾಗಿ, $x + \\angle SOQ = 180°$. ಇದರಿಂದ ನಮಗೆ $\\angle SOQ = 180° - x$ ಎಂದು ಸಿಗುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಕಿರಣ OR, $\\angle POS$ ನ ಕೋನಾರ್ಧಕವಾಗಿದೆ. ಅಂದರೆ, ಅದು $\\angle POS$ ಅನ್ನು ಎರಡು ಸಮಭಾಗಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, $\\angle ROS$ ಸಮ $\\angle POS$ ನ ಅರ್ಧದಷ್ಟು, ಅಂದರೆ $\\frac{x}{2}$. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಅದೇ ರೀತಿ, ಕಿರಣ OT, $\\angle SOQ$ ನ ಕೋನಾರ್ಧಕವಾಗಿದೆ. ಆದ್ದರಿಂದ, $\\angle SOT$ ಸಮ $\\angle SOQ$ ನ ಅರ್ಧದಷ್ಟು. ನಾವು ಈಗಾಗಲೇ $\\angle SOQ$ ಅನ್ನು $180° - x$ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಹಾಗಾಗಿ, $\\angle SOT$ ಸಮ $\\frac{1}{2} (180° - x)$, ಅಂದರೆ $90° - \\frac{x}{2}$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಉದಾಹರಣೆ 2 ಕ್ಕಾಗಿ ರೇಖಾಚಿತ್ರ. ಒಂದು ಸರಳರೇಖೆ POQ, ಅದರ ಮೇಲೆ ಕಿರಣ OS. ∠POS ನ ಕೋನಾರ್ಧಕ OR ಮತ್ತು ∠SOQ ನ ಕೋನಾರ್ಧಕ OT.",
+    "labels": "ಚಿತ್ರ 6.10",
+    "mathematical_significance": "ಸರಳಯುಗ್ಮ ಕೋನಗಳ ಕೋನಾರ್ಧಕಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "render_target": "image",
+    "placeholder_note": "Image to be generated based on textbook Figure 6.10"
+  },
+  "source_example_id": "GEO-LA-2_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\angle POS + \\angle SOQ = 180° \\implies \\angle SOQ = 180° - x$",
+      "justification": "ಸರಳಯುಗ್ಮದ ಆಧಾರ ಪ್ರತಿಜ್ಞೆ"
+    },
+    {
+      "step": 2,
+      "action_display": "$\\angle ROS = \\frac{1}{2} \\angle POS = \\frac{x}{2}$",
+      "justification": "OR, $\\angle POS$ ನ ಕೋನಾರ್ಧಕ (ದತ್ತ)"
+    },
+    {
+      "step": 3,
+      "action_display": "$\\angle SOT = \\frac{1}{2} \\angle SOQ = \\frac{1}{2}(180° - x) = 90° - \\frac{x}{2}$",
+      "justification": "OT, $\\angle SOQ$ ನ ಕೋನಾರ್ಧಕ (ದತ್ತ)"
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-LA-2_concept_2_chunk_041"
+}

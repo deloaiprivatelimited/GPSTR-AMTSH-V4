@@ -1,0 +1,114 @@
+{
+  "module_id": "NS-CUBE-2_concept_1",
+  "merge_code": "NS-CUBE-2",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 16:39:08",
+  "chunks": {
+    "003_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "3084eed2cf71399bd62089e43b68b663",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "duration": 35.171,
+      "slide_title": "ಉದಾಹರಣೆ: ಘನ ಸಂಖ್ಯೆ",
+      "type": "definition",
+      "script_words": 48,
+      "generated_at": "2026-03-30 16:37:43"
+    },
+    "002_definition_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "2a09942108643718a6fa2af301573d50",
+      "wav_file": "002_definition_0.wav",
+      "duration": 36.451,
+      "slide_title": "ಘನ ಸಂಖ್ಯೆ (Cube Number)",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-03-30 16:37:45"
+    },
+    "004_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "7bc8b5ba0fac3256c5c9f6604715e58a",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "duration": 38.971,
+      "slide_title": "ಕೆಲವು ಘನ ಸಂಖ್ಯೆಗಳು",
+      "type": "definition",
+      "script_words": 46,
+      "generated_at": "2026-03-30 16:37:46"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "bfcbbc76b90005c532738e28966edf44",
+      "wav_file": "001_intro_0.wav",
+      "duration": 45.251,
+      "slide_title": "ಘನ ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಅವುಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-03-30 16:37:54"
+    },
+    "005_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "0e8eeb4f342f0581459279db3b8770d3",
+      "wav_file": "005_definition_cont_0_3.wav",
+      "duration": 43.331,
+      "slide_title": "ಗಮನಿಸಿ: $x^3$ ಮತ್ತು $3x$ ಒಂದೇ ಅಲ್ಲ",
+      "type": "definition",
+      "script_words": 72,
+      "generated_at": "2026-03-30 16:38:17"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "c5036a7712b0aa3bdaffbbb4dc2bae77",
+      "wav_file": "009_recap_0.wav",
+      "duration": 46.771,
+      "slide_title": "ಸಾರಾಂಶ: ಘನ ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಅವುಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "recap",
+      "script_words": 64,
+      "generated_at": "2026-03-30 16:38:50"
+    },
+    "006_property_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "30ee57461ca144caf44069505a588a1d",
+      "wav_file": "006_property_0.wav",
+      "duration": 54.491,
+      "slide_title": "ಘನಗಳ ಗುಣಲಕ್ಷಣಗಳು: ಸಮ ಮತ್ತು ಬೆಸ ಸಂಖ್ಯೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 82,
+      "generated_at": "2026-03-30 16:38:53"
+    },
+    "007_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "6e0a2644fcbd650183eaf361392e5070",
+      "wav_file": "007_property_cont_0_1.wav",
+      "duration": 59.331,
+      "slide_title": "ಘನಗಳ ಗುಣಲಕ್ಷಣಗಳು: ಬಿಡಿ ಸ್ಥಾನದ ಅಂಕಿ",
+      "type": "concept_explanation",
+      "script_words": 73,
+      "generated_at": "2026-03-30 16:39:04"
+    },
+    "008_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "e0a11691a9d39968d57ccca6f81e7795",
+      "wav_file": "008_property_cont_0_2.wav",
+      "duration": 66.891,
+      "slide_title": "ಘನಗಳ ಗುಣಲಕ್ಷಣಗಳು: ಸೊನ್ನೆಗಳ ಸಂಖ್ಯೆ",
+      "type": "concept_explanation",
+      "script_words": 87,
+      "generated_at": "2026-03-30 16:39:08"
+    }
+  }
+}

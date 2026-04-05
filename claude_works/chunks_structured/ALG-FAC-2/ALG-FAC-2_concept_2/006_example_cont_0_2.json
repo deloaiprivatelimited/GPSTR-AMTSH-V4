@@ -1,0 +1,30 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ಹನ್ನೆರಡು a ಸ್ಕ್ವೇರ್ಡ್ b ಪ್ಲಸ್ ಹದಿನೈದು a b ಸ್ಕ್ವೇರ್ಡ್ ಅನ್ನು ಅಪವರ್ತಿಸಿದಾಗ, ನಮಗೆ ಸಿಗುವ ಉತ್ತರ ಮೂರು a b ಗುಣಿಸು, ಆವರಣದೊಳಗೆ ನಾಲ್ಕು a ಪ್ಲಸ್ ಐದು b. ಇಲ್ಲಿ, ನಾವು ಎರಡೂ ಪದಗಳಿಂದ ಮಹತ್ತಮ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸಿ ಹೊರತೆಗೆದಿದ್ದೇವೆ.",
+  "script_display": "ಹೀಗಾಗಿ, $12a^2b + 15ab^2$ ಅನ್ನು ಅಪವರ್ತಿಸಿದಾಗ, ನಮಗೆ ಸಿಗುವ ಉತ್ತರ $3ab(4a + 5b)$. ಇಲ್ಲಿ, ನಾವು ಎರಡೂ ಪದಗಳಿಂದ ಮಹತ್ತಮ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸಿ ಹೊರತೆಗೆದಿದ್ದೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_result",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-FAC-2_example_1",
+  "final_answer": "$3ab(4a + 5b)$",
+  "final_answer_display": "$12a^2b + 15ab^2 = 3ab(4a + 5b)$",
+  "chunk_id": "ALG-FAC-2_concept_2_chunk_006"
+}

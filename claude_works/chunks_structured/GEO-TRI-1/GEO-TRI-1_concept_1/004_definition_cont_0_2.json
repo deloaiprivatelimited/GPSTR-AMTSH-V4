@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ತ್ರಿಭುಜದ ಅಂಶಗಳು: ಶೃಂಗಗಳು ಮತ್ತು ಬಾಹುಗಳು",
+  "script": "ಪ್ರತಿಯೊಂದು ತ್ರಿಭುಜವು ಮೂರು ಮುಖ್ಯ ಅಂಶಗಳನ್ನು ಹೊಂದಿದೆ. ಅವುಗಳೆಂದರೆ ಶೃಂಗಗಳು, ಬಾಹುಗಳು ಮತ್ತು ಕೋನಗಳು. ಮೊದಲು ಶೃಂಗಗಳು ಮತ್ತು ಬಾಹುಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಶೃಂಗಗಳು, ಅಂದರೆ ವರ್ಟಿಸಸ್, ತ್ರಿಭುಜದ ಮೂಲೆಗಳಾಗಿವೆ. ಎರಡು ಬಾಹುಗಳು ಸಂಧಿಸುವ ಬಿಂದುವನ್ನು ಶೃಂಗ ಎನ್ನುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿರುವ ತ್ರಿಭುಜದಲ್ಲಿ A, B, ಮತ್ತು C ಗಳು ಮೂರು ಶೃಂಗಗಳಾಗಿವೆ. ಇನ್ನು ಬಾಹುಗಳು, ಅಂದರೆ ಸೈಡ್ಸ್, ಶೃಂಗಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡಗಳಾಗಿವೆ. ನಮ್ಮ ಉದಾಹರಣೆಯಲ್ಲಿ, AB, BC, ಮತ್ತು CA ಗಳು ತ್ರಿಭುಜದ ಮೂರು ಬಾಹುಗಳಾಗಿವೆ. ಈ ಬಾಹುಗಳೇ ತ್ರಿಭುಜದ ಆಕಾರವನ್ನು ನಿರ್ಧರಿಸುತ್ತವೆ.",
+  "script_display": "ಪ್ರತಿಯೊಂದು ತ್ರಿಭುಜವು ಮೂರು ಮುಖ್ಯ ಅಂಶಗಳನ್ನು ಹೊಂದಿದೆ. ಅವುಗಳೆಂದರೆ ಶೃಂಗಗಳು, ಬಾಹುಗಳು ಮತ್ತು ಕೋನಗಳು. ಮೊದಲು ಶೃಂಗಗಳು ಮತ್ತು ಬಾಹುಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. **ಶೃಂಗಗಳು (Vertices):** ತ್ರಿಭುಜದ ಮೂಲೆಗಳಾಗಿವೆ. ಎರಡು ಬಾಹುಗಳು ಸಂಧಿಸುವ ಬಿಂದುವನ್ನು ಶೃಂಗ ಎನ್ನುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿರುವ ತ್ರಿಭುಜದಲ್ಲಿ $A, B,$ ಮತ್ತು $C$ ಗಳು ಮೂರು ಶೃಂಗಗಳಾಗಿವೆ. **ಬಾಹುಗಳು (Sides):** ಶೃಂಗಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡಗಳಾಗಿವೆ. ನಮ್ಮ ಉದಾಹರಣೆಯಲ್ಲಿ, $AB, BC,$ ಮತ್ತು $CA$ ಗಳು ತ್ರಿಭುಜದ ಮೂರು ಬಾಹುಗಳಾಗಿವೆ. ಈ ಬಾಹುಗಳೇ ತ್ರಿಭುಜದ ಆಕಾರವನ್ನು ನಿರ್ಧರಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಶೃಂಗಗಳು (Vertices): ಎರಡು ಬಾಹುಗಳು ಸಂಧಿಸುವ ಬಿಂದುಗಳು. ಉದಾಹರಣೆಗೆ: $A, B, C$.",
+    "ಬಾಹುಗಳು (Sides): ಶೃಂಗಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡಗಳು. ಉದಾಹರಣೆಗೆ: $AB, BC, CA$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_text_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a triangle labeled ABC. The vertices A, B, and C are highlighted with colored dots. The sides AB, BC, and CA are shown with distinct colors or thicker lines.",
+    "labels": "A, B, C, AB, BC, CA",
+    "mathematical_significance": "Visually identifying the vertices and sides of a triangle.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-1_concept_1_chunk_004"
+}

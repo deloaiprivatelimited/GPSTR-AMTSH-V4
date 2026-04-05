@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ವಾಹನದ ಸರಾಸರಿ ಜವ 50 ಕಿಲೋಮೀಟರ್ ಪರ್ ಹವರ್, ಅಥವಾ 13.9 ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಆಗಿದೆ. ಪರೀಕ್ಷೆಯಲ್ಲಿ, ಪ್ರಶ್ನೆಯಲ್ಲಿ ಯಾವ ಏಕಮಾನವನ್ನು ಕೇಳಲಾಗಿದೆ ಎಂಬುದನ್ನು ಗಮನಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಕೆಲವೊಮ್ಮೆ, ಕಿಲೋಮೀಟರ್ ಪರ್ ಹವರ್ ನಿಂದ ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಗೆ ಪರಿವರ್ತಿಸಲು ಕೇಳುತ್ತಾರೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ವಾಹನದ ಸರಾಸರಿ ಜವ 50 km/h, ಅಥವಾ 13.9 m/s ಆಗಿದೆ. ಪರೀಕ್ಷೆಯಲ್ಲಿ, ಪ್ರಶ್ನೆಯಲ್ಲಿ ಯಾವ ಏಕಮಾನವನ್ನು ಕೇಳಲಾಗಿದೆ ಎಂಬುದನ್ನು ಗಮನಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಕೆಲವೊಮ್ಮೆ, km/h ನಿಂದ m/s ಗೆ ಪರಿವರ್ತಿಸಲು ಕೇಳುತ್ತಾರೆ.",
+  "display_bullets": [
+    "**ಅಂತಿಮ ಉತ್ತರ:** ವಾಹನದ ಸರಾಸರಿ ಜವ:"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸರಾಸರಿ ಜವ} = 50 \\text{ km/h} \\\\ \\text{ಅಥವಾ} \\\\ \\text{ಸರಾಸರಿ ಜವ} = 13.9 \\text{ m/s}",
+    "placeholder_note": "Final answer highlighted in a box."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_7_example_7.2",
+  "exam_tip": {
+    "question_pattern": "ಸರಾಸರಿ ಜವ ಅಥವಾ ವೇಗವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಕೇಳುವ ಸಂಖ್ಯಾತ್ಮಕ ಸಮಸ್ಯೆಗಳು.",
+    "skill_tested": "ದತ್ತಾಂಶದಿಂದ ದೂರ ಮತ್ತು ಕಾಲವನ್ನು ಗುರುತಿಸುವುದು, ಸೂತ್ರವನ್ನು ಅನ್ವಯಿಸುವುದು ಮತ್ತು ಏಕಮಾನಗಳನ್ನು ಪರಿವರ್ತಿಸುವುದು.",
+    "distractor": "km/h ನಿಂದ m/s ಗೆ ಪರಿವರ್ತಿಸುವಾಗ 18/5 ರಿಂದ ಗುಣಿಸುವುದು.",
+    "why_distractor_works": "ಪರಿವರ್ತನಾ ಅಂಶವನ್ನು (conversion factor) ತಪ್ಪಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದರಿಂದ ಈ ದೋಷ ಉಂಟಾಗುತ್ತದೆ."
+  },
+  "chunk_id": "std_9_chapter_7_concept_2_chunk_040"
+}

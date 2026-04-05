@@ -1,0 +1,112 @@
+{
+  "module_id": "std_7_chapter_6_concept_6",
+  "chapter_code": "std_7_chapter_6",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 9,
+  "total_duration": 387.659,
+  "total_duration_formatted": "6:27",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_6_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಇತರ ಪ್ರಾಣಿಗಳಲ್ಲಿ ಶ್ವಾಸಕ್ರಿಯೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 57.171,
+      "duration": 57.171,
+      "script_words": 81
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 57.771,
+      "end": 84.262,
+      "duration": 26.491,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_6_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ವಿವಿಧ ಪ್ರಾಣಿಗಳಲ್ಲಿ ಉಸಿರಾಟ",
+      "type": "concept_explanation",
+      "start": 84.862,
+      "end": 126.353,
+      "duration": 41.491,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_6_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಕೀಟಗಳಲ್ಲಿ ಉಸಿರಾಟ: ಶ್ವಾಸನಾಳ ವ್ಯವಸ್ಥೆ",
+      "type": "concept_explanation",
+      "start": 126.953,
+      "end": 169.764,
+      "duration": 42.811,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_6_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಎರೆಹುಳುವಿನಲ್ಲಿ ಉಸಿರಾಟ: ಚರ್ಮದ ಮೂಲಕ",
+      "type": "concept_explanation",
+      "start": 170.364,
+      "end": 209.895,
+      "duration": 39.531,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_6_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಮೀನುಗಳಲ್ಲಿ ಉಸಿರಾಟ: ಕಿವಿರುಗಳು",
+      "type": "concept_explanation",
+      "start": 210.495,
+      "end": 256.666,
+      "duration": 46.171,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_6_chunk_007",
+      "chunk_file": "007_classification_cont_0_4.json",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "slide_title": "ಕಪ್ಪೆಯಲ್ಲಿ ಉಸಿರಾಟ: ಉಭಯವಾಸಿ",
+      "type": "concept_explanation",
+      "start": 257.266,
+      "end": 295.317,
+      "duration": 38.051,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_6_chunk_008",
+      "chunk_file": "008_classification_cont_0_5.json",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "slide_title": "ಇತರ ಪ್ರಾಣಿಗಳಲ್ಲಿ ಶ್ವಾಸಕೋಶದ ಉಸಿರಾಟ",
+      "type": "concept_explanation",
+      "start": 295.917,
+      "end": 343.968,
+      "duration": 48.051,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_6_chunk_009",
+      "chunk_file": "009_recap_0.json",
+      "wav_file": "009_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 344.568,
+      "end": 387.059,
+      "duration": 42.491,
+      "script_words": 51
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 2",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಹುಡುಗನು ಮಾಡಿದ ಕೆಲಸವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಗುರುತ್ವಾಕರ್ಷಣೆಯ ವಿರುದ್ಧ ಮಾಡಿದ ಕೆಲಸವನ್ನು W equals m g h ಸೂತ್ರದಿಂದ ಕಂಡುಹಿಡಿಯಬಹುದು. ಇಲ್ಲಿ, ರಾಶಿ m 50 kg, ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ g 10 ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್ ವರ್ಗ, ಮತ್ತು ನಾವು ಲೆಕ್ಕ ಮಾಡಿದ ಎತ್ತರ h 6.75 ಮೀಟರ್ ಆಗಿದೆ. ಈ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿದಾಗ, W equals 50 ಗುಣಿಸು 10 ಗುಣಿಸು 6.75. ಇದನ್ನು ಗುಣಿಸಿದಾಗ ನಮಗೆ 3375 ಜೌಲ್‌ಗಳು ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, ಮಾಡಿದ ಕೆಲಸ 3375 ಜೌಲ್.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಹುಡುಗನು ಮಾಡಿದ ಕೆಲಸವನ್ನು (W) ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಗುರುತ್ವಾಕರ್ಷಣೆಯ ವಿರುದ್ಧ ಮಾಡಿದ ಕೆಲಸವನ್ನು W = mgh ಸೂತ್ರದಿಂದ ಕಂಡುಹಿಡಿಯಬಹುದು. ಇಲ್ಲಿ, ರಾಶಿ (m) = 50 kg, ಗುರುತ್ವ ವೇಗೋತ್ಕರ್ಷ (g) = 10 ms⁻², ಮತ್ತು ಎತ್ತರ (h) = 6.75 m ಆಗಿದೆ. ಈ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿದಾಗ, W = 50 × 10 × 6.75. ಇದನ್ನು ಗುಣಿಸಿದಾಗ ನಮಗೆ 3375 J ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, ಮಾಡಿದ ಕೆಲಸ 3375 J.",
+  "display_bullets": [
+    "ಕೆಲಸದ ಸೂತ್ರ: W = mgh",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: W = 50 kg × 10 ms⁻² × 6.75 m",
+    "W = 3375 J"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "W = mgh \\\\ W = 50 \\text{ kg} \\times 10 \\text{ ms}^{-2} \\times 6.75 \\text{ m} \\\\ W = 3375 \\text{ J}",
+    "placeholder_note": "Show the calculation for work done."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "std_9_chapter_10_example_8",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಮಾಡಿದ ಕೆಲಸವನ್ನು (W) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+      "justification": "W = mgh"
+    }
+  ],
+  "chunk_id": "std_9_chapter_10_concept_7_chunk_024"
+}

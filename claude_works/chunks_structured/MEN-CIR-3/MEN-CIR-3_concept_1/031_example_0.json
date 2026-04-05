@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ತ್ರಿಜ್ಯ 4 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಕೋನ 30 ಡಿಗ್ರಿ ಇರುವ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಹಾಗೆಯೇ ಅನುರೂಪವಾದ ಅಧಿಕ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ಪೈಯ ಬೆಲೆಯನ್ನು 3.14 ಎಂದು ಬಳಸಲು ಸೂಚಿಸಲಾಗಿದೆ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ನಮಗೆ ವೃತ್ತದ ತ್ರಿಜ್ಯ, ಆರ್, 4 ಸೆಂಟಿಮೀಟರ್ ಎಂದು ನೀಡಲಾಗಿದೆ. ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ಕೋನ, ಥೀಟಾ, 30 ಡಿಗ್ರಿ ಆಗಿದೆ. ನಾವು ಲಘು ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಅಧಿಕ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ತ್ರಿಜ್ಯ 4 cm ಮತ್ತು ಕೋನವು 30° ಇರುವ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಹಾಗೆಯೇ ಅನುರೂಪವಾದ ಅಧಿಕ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ($\\pi = 3.14$ ಎಂದು ಬಳಸಿ). ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ನಮಗೆ ವೃತ್ತದ ತ್ರಿಜ್ಯ, $r$, 4 cm ಎಂದು ನೀಡಲಾಗಿದೆ. ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ಕೋನ, $\\theta$, 30° ಆಗಿದೆ. ನಾವು ಲಘು ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಅಧಿಕ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ತ್ರಿಜ್ಯ 4 cm ಮತ್ತು ಕೋನ 30° ಇರುವ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಹಾಗೆಯೇ ಅನುರೂಪವಾದ ಅಧಿಕ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ($\\pi = 3.14$ ಎಂದು ಬಳಸಿ).",
+    "ದತ್ತಾಂಶ (Given): ತ್ರಿಜ್ಯ (r) = 4 cm, ಕೋನ (θ) = 30°.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದುದು (To find): ಲಘು ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಅಧಿಕ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A circle with center O. A sector OAPB is shaded, with radius r=4cm and angle AOB = 30 degrees. The major sector is the unshaded part.",
+    "labels": "O, A, B, P, r=4cm, angle=30",
+    "mathematical_significance": "Visual representation of the problem statement, showing the minor and major sectors.",
+    "placeholder_note": "Image to be generated"
+  },
+  "source_example_id": "MEN-CIR-3_example_1",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "MEN-CIR-3_concept_1_chunk_031"
+}

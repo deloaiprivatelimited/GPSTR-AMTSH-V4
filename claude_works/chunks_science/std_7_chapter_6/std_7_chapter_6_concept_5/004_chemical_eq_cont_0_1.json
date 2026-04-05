@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಸುಣ್ಣದ ತಿಳಿ ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ನಡುವಿನ ಕ್ರಿಯೆಯನ್ನು ಈ ಸಮೀಕರಣದಿಂದ ಪ್ರತಿನಿಧಿಸಬಹುದು. ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಜೊತೆಗೆ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ವರ್ತಿಸಿ, ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್ ಮತ್ತು ನೀರನ್ನು ಉತ್ಪನ್ನವಾಗಿ ನೀಡುತ್ತದೆ.",
+  "script_display": "ಸುಣ್ಣದ ತಿಳಿ ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ನಡುವಿನ ಕ್ರಿಯೆಯನ್ನು ಈ ಸಮೀಕರಣದಿಂದ ಪ್ರತಿನಿಧಿಸಬಹುದು. ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (Ca(OH)₂) ಜೊತೆಗೆ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ವರ್ತಿಸಿ, ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್ (CaCO₃) ಮತ್ತು ನೀರನ್ನು (H₂O) ಉತ್ಪನ್ನವಾಗಿ ನೀಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_A",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Ca(OH)_2(aq) + CO_2(g) \\rightarrow CaCO_3(s) + H_2O(l)",
+    "placeholder_note": "The chemical equation for the reaction between limewater and carbon dioxide."
+  },
+  "chunk_id": "std_7_chapter_6_concept_5_chunk_004"
+}

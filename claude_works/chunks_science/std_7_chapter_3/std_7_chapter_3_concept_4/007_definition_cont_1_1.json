@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉಷ್ಣವಾಹಕಗಳು: ಒಂದು ಚಟುವಟಿಕೆ",
+  "script": "ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಲೋಹದ ಚಮಚವನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ಒಂದು ತುದಿಯನ್ನು ಬಿಸಿ ನೀರಿನಲ್ಲಿ ಅಥವಾ ಚಹಾದಲ್ಲಿ ಅದ್ದಿ. ಇನ್ನೊಂದು ತುದಿಯನ್ನು ನಿಮ್ಮ ಕೈಯಲ್ಲಿ ಹಿಡಿದುಕೊಳ್ಳಿ. ಕೆಲವೇ ಕ್ಷಣಗಳಲ್ಲಿ, ನೀವು ಹಿಡಿದಿರುವ ತುದಿ ಕೂಡ ಬಿಸಿಯಾಗುವುದನ್ನು ನೀವು ಅನುಭವಿಸುತ್ತೀರಿ. ಇದಕ್ಕೆ ಕಾರಣವೇನು? ಉಷ್ಣವು ಚಮಚದ ಬಿಸಿಯಾದ ತುದಿಯಿಂದ ತಣ್ಣಗಿನ ತುದಿಗೆ, ಅಂದರೆ ನಿಮ್ಮ ಕೈಯ ಕಡೆಗೆ, ಹರಿದು ಬಂದಿದೆ. ಇದು ಲೋಹವು ಒಂದು ಉತ್ತಮ ಉಷ್ಣವಾಹಕ ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಲೋಹದ ಚಮಚವನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರ ಒಂದು ತುದಿಯನ್ನು ಬಿಸಿ ನೀರಿನಲ್ಲಿ ಅಥವಾ ಚಹಾದಲ್ಲಿ ಅದ್ದಿ. ಇನ್ನೊಂದು ತುದಿಯನ್ನು ನಿಮ್ಮ ಕೈಯಲ್ಲಿ ಹಿಡಿದುಕೊಳ್ಳಿ. ಕೆಲವೇ ಕ್ಷಣಗಳಲ್ಲಿ, ನೀವು ಹಿಡಿದಿರುವ ತುದಿ ಕೂಡ ಬಿಸಿಯಾಗುವುದನ್ನು ನೀವು ಅನುಭವಿಸುತ್ತೀರಿ. ಇದಕ್ಕೆ ಕಾರಣವೇನು? ಉಷ್ಣವು ಚಮಚದ ಬಿಸಿಯಾದ ತುದಿಯಿಂದ ತಣ್ಣಗಿನ ತುದಿಗೆ, ಅಂದರೆ ನಿಮ್ಮ ಕೈಯ ಕಡೆಗೆ, ಹರಿದು ಬಂದಿದೆ. ಇದು ಲೋಹವು ಒಂದು ಉತ್ತಮ ಉಷ್ಣವಾಹಕ ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಲೋಹದ ಚಮಚದ ಒಂದು ತುದಿಯನ್ನು ಬಿಸಿ ನೀರಿನಲ್ಲಿ ಅದ್ದಿ.",
+    "ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಇನ್ನೊಂದು ತುದಿ ಕೂಡ ಬಿಸಿಯಾಗುತ್ತದೆ.",
+    "ಉಷ್ಣವು ಚಮಚದ ಮೂಲಕ ನಿಮ್ಮ ಕೈಗೆ ವರ್ಗಾವಣೆಯಾಗುತ್ತದೆ.",
+    "ಇದು ಲೋಹಗಳು ಉತ್ತಮ ಉಷ್ಣವಾಹಕಗಳು ಎಂದು ತೋರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a hand holding a metal spoon. One end of the spoon is dipped in a hot cup of tea. Arrows indicate the flow of heat from the hot tea, along the spoon, to the hand.",
+    "labels": "ಬಿಸಿ ಚಹಾ (Hot Tea), ಲೋಹದ ಚಮಚ (Metal Spoon), ಉಷ್ಣ ಪ್ರಸರಣ (Heat Flow), ಕೈ (Hand)",
+    "scientific_significance": "Illustrates the process of heat conduction through a solid metal object, a common example of a conductor.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_3_concept_4_chunk_007"
+}

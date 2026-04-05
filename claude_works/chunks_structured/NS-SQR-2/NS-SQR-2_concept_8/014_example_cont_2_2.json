@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನ",
+  "script": "ಈಗ, 2401 ರ ವರ್ಗಮೂಲವನ್ನು ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ ಕಂಡುಹಿಡಿಯೋಣ. ಮೊದಲ ಹಂತವಾಗಿ, ನಾವು ಬಲ ತುದಿಯಿಂದ ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡುತ್ತೇವೆ. ಇಲ್ಲಿ ನಮಗೆ 24 ಮತ್ತು 01 ಎಂಬ ಎರಡು ಜೋಡಿಗಳು ಸಿಗುತ್ತವೆ. ಈಗ ಮೊದಲ ಜೋಡಿ 24 ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. 24 ಕ್ಕಿಂತ ಕಡಿಮೆ ಅಥವಾ ಸಮನಾಗಿರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ ಸಂಖ್ಯೆಯನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು. ಅದು 16, ಅಂದರೆ 4 ರ ವರ್ಗ. ಆದ್ದರಿಂದ, ನಾವು ಭಾಗಲಬ್ಧದಲ್ಲಿ 4 ಅನ್ನು ಬರೆಯುತ್ತೇವೆ. ನಂತರ 24 ರಿಂದ 16 ಅನ್ನು ಕಳೆದಾಗ, ನಮಗೆ ಶೇಷ 8 ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ, 2401 ರ ವರ್ಗಮೂಲವನ್ನು ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ ಕಂಡುಹಿಡಿಯೋಣ. ಮೊದಲ ಹಂತವಾಗಿ, ನಾವು ಬಲ ತುದಿಯಿಂದ ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡುತ್ತೇವೆ. ಇಲ್ಲಿ ನಮಗೆ 24 ಮತ್ತು 01 ಎಂಬ ಎರಡು ಜೋಡಿಗಳು ಸಿಗುತ್ತವೆ. ಈಗ ಮೊದಲ ಜೋಡಿ 24 ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. 24 ಕ್ಕಿಂತ ಕಡಿಮೆ ಅಥವಾ ಸಮನಾಗಿರುವ ಅತಿದೊಡ್ಡ ವರ್ಗ ಸಂಖ್ಯೆಯನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು. ಅದು $16$, ಅಂದರೆ $4^2$. ಆದ್ದರಿಂದ, ನಾವು ಭಾಗಲಬ್ಧದಲ್ಲಿ 4 ಅನ್ನು ಬರೆಯುತ್ತೇವೆ. ನಂತರ $24 - 16$ ಮಾಡಿದಾಗ, ನಮಗೆ ಶೇಷ 8 ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Long division method for square root of 2401. The number 2401 is shown with pairs 24 and 01 marked. The divisor is 4, quotient is 4. 16 is subtracted from 24, leaving a remainder of 8. The layout should clearly show this first step of the division.",
+    "labels": "Divisor, Dividend, Quotient, Remainder",
+    "mathematical_significance": "Illustrates the first step of finding a square root using long division, focusing on the first pair of digits.",
+    "placeholder_note": "Image to be generated showing the first step of long division for sqrt(2401)."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SQR-2_example_15",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡಿ: $24 \\; 01$.",
+      "justification": "ಬಲದಿಂದ ಎಡಕ್ಕೆ ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಮೊದಲ ಜೋಡಿ 24. $4^2 = 16$. ಭಾಗಲಬ್ಧದಲ್ಲಿ 4 ಬರೆಯಿರಿ. \\\\ ಶೇಷ: $24 - 16 = 8$.",
+      "justification": "ಮೊದಲ ಜೋಡಿಗೆ ಸಮೀಪವಿರುವ ವರ್ಗ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    }
+  ],
+  "chunk_id": "NS-SQR-2_concept_8_chunk_014"
+}

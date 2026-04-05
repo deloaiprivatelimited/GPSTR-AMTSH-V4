@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಪ್ರಯೋಗ: ಬಟಾಣಿ ಸಸ್ಯದಲ್ಲಿ ಏಕತಳಿ ಸಂಕರ",
+  "script": "ಈಗ ನಾವು ಆನುವಂಶೀಯತೆಯ ಪಿತಾಮಹ ಗ್ರೆಗರ್ ಮೆಂಡಲ್ ನಡೆಸಿದ ಒಂದು ಪ್ರಮುಖ ಪ್ರಯೋಗವನ್ನು ಹಂತ ಹಂತವಾಗಿ ಮಾಡಿ ನೋಡೋಣ. ಈ ಪ್ರಯೋಗವನ್ನು ಏಕತಳಿ ಸಂಕರ ಎಂದು ಕರೆಯುತ್ತಾರೆ, ಏಕೆಂದರೆ ನಾವು ಒಂದೇ ಒಂದು ಗುಣವನ್ನು, ಅಂದರೆ ಬಟಾಣಿ ಸಸ್ಯದ ಎತ್ತರವನ್ನು ಮಾತ್ರ ಅಧ್ಯಯನ ಮಾಡುತ್ತೇವೆ. ಈ ಪ್ರಯೋಗದ ಮೂಲಕ, ಗುಣಗಳು ಒಂದು ಪೀಳಿಗೆಯಿಂದ ಇನ್ನೊಂದು ಪೀಳಿಗೆಗೆ ಹೇಗೆ ವರ್ಗಾವಣೆಯಾಗುತ್ತವೆ ಎಂಬುದರ ರಹಸ್ಯವನ್ನು ನಾವು ಭೇದಿಸಲಿದ್ದೇವೆ. ನಮ್ಮ ಗುರಿ, ಎತ್ತರದ ಮತ್ತು ಕುಬ್ಜ ಗುಣಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು.",
+  "script_display": "ಈಗ ನಾವು ಆನುವಂಶೀಯತೆಯ ಪಿತಾಮಹ ಗ್ರೆಗರ್ ಮೆಂಡಲ್ ನಡೆಸಿದ ಒಂದು ಪ್ರಮುಖ ಪ್ರಯೋಗವನ್ನು ಹಂತ ಹಂತವಾಗಿ ಮಾಡಿ ನೋಡೋಣ. ಈ ಪ್ರಯೋಗವನ್ನು 'ಏಕತಳಿ ಸಂಕರ' ಎಂದು ಕರೆಯುತ್ತಾರೆ, ಏಕೆಂದರೆ ನಾವು ಒಂದೇ ಒಂದು ಗುಣವನ್ನು, ಅಂದರೆ ಬಟಾಣಿ ಸಸ್ಯದ ಎತ್ತರವನ್ನು ಮಾತ್ರ ಅಧ್ಯಯನ ಮಾಡುತ್ತೇವೆ. ಈ ಪ್ರಯೋಗದ ಮೂಲಕ, ಗುಣಗಳು ಒಂದು ಪೀಳಿಗೆಯಿಂದ ಇನ್ನೊಂದು ಪೀಳಿಗೆಗೆ ಹೇಗೆ ವರ್ಗಾವಣೆಯಾಗುತ್ತವೆ ಎಂಬುದರ ರಹಸ್ಯವನ್ನು ನಾವು ಭೇದಿಸಲಿದ್ದೇವೆ. ನಮ್ಮ ಗುರಿ, ಎತ್ತರದ ಮತ್ತು ಕುಬ್ಜ ಗುಣಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು.",
+  "display_bullets": [
+    "ಪ್ರಯೋಗ: ಏಕತಳಿ ಸಂಕರ (Monohybrid Cross)",
+    "ಅಧ್ಯಯನದ ಗುಣ: ಸಸ್ಯದ ಎತ್ತರ (ಎತ್ತರ vs ಕುಬ್ಜ)",
+    "ಗುರಿ: ಗುಣಗಳ ಆನುವಂಶೀಯ ವರ್ಗಾವಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A title card style image showing Gregor Mendel on one side and pea plants with flowers on the other. Text overlay: 'ಮೆಂಡಲ್‌ನ ಏಕತಳಿ ಸಂಕರ ಪ್ರಯೋಗ'.",
+    "labels": "ಗ್ರೆಗರ್ ಮೆಂಡಲ್, ಬಟಾಣಿ ಸಸ್ಯಗಳು",
+    "scientific_significance": "Introduces the experiment and the scientist responsible for the foundational laws of heredity.",
+    "placeholder_note": "Image to be generated for the introduction slide."
+  },
+  "sub_type": "introduction",
+  "chunk_id": "std_10_chapter_8_concept_2_chunk_027"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿದೇಶಿ ತಳಿಗಳ ಅಪೇಕ್ಷಣೀಯ ಗುಣಗಳು",
+  "script": "ಸಂಕರಣದಲ್ಲಿ ನಾವು ವಿದೇಶಿ ತಳಿಗಳನ್ನು ಏಕೆ ಬಳಸುತ್ತೇವೆ? ಏಕೆಂದರೆ ಅವುಗಳಲ್ಲಿ ಕೆಲವು ವಿಶೇಷ, ಆರ್ಥಿಕವಾಗಿ ಉಪಯುಕ್ತವಾದ ಗುಣಗಳಿವೆ. ಮೊದಲನೆಯದಾಗಿ, ಅವು ಅಧಿಕ ಹಾಲು ಉತ್ಪಾದನೆ ಮಾಡುತ್ತವೆ. ಅಂದರೆ, ಸ್ಥಳೀಯ ತಳಿಗಳಿಗೆ ಹೋಲಿಸಿದರೆ ದಿನಕ್ಕೆ ಹೆಚ್ಚು ಲೀಟರ್ ಹಾಲು ಕೊಡುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಅವು ದೀರ್ಘ ಕ್ಷೀರೋತ್ಪಾದನಾ ಅವಧಿಯನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಇದರರ್ಥ, ಕರು ಹಾಕಿದ ನಂತರ ಹೆಚ್ಚು ತಿಂಗಳುಗಳ ಕಾಲ ಅವು ಹಾಲು ನೀಡುತ್ತಲೇ ಇರುತ್ತವೆ. ಇದಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆಗಳೆಂದರೆ ಜರ್ಸಿ ಮತ್ತು ಬ್ರೌನ್ ಸ್ವಿಸ್ ತಳಿಗಳು. ಈ ಗುಣಗಳು ಹೈನುಗಾರಿಕೆಯಲ್ಲಿ ಲಾಭವನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ.",
+  "script_display": "ಸಂಕರಣದಲ್ಲಿ ನಾವು ವಿದೇಶಿ ತಳಿಗಳನ್ನು ಏಕೆ ಬಳಸುತ್ತೇವೆ? ಏಕೆಂದರೆ ಅವುಗಳಲ್ಲಿ ಕೆಲವು ವಿಶೇಷ, ಆರ್ಥಿಕವಾಗಿ ಉಪಯುಕ್ತವಾದ ಗುಣಗಳಿವೆ. ಮೊದಲನೆಯದಾಗಿ, ಅವು ಅಧಿಕ ಹಾಲು ಉತ್ಪಾದನೆ ಮಾಡುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಅವು ದೀರ್ಘ ಕ್ಷೀರೋತ್ಪಾದನಾ ಅವಧಿ (Lactation Period) ಹೊಂದಿರುತ್ತವೆ. ಇದರರ್ಥ, ಕರು ಹಾಕಿದ ನಂತರ ಹೆಚ್ಚು ತಿಂಗಳುಗಳ ಕಾಲ ಅವು ಹಾಲು ನೀಡುತ್ತಲೇ ಇರುತ್ತವೆ. ಇದಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆಗಳೆಂದರೆ ಜರ್ಸಿ ಮತ್ತು ಬ್ರೌನ್ ಸ್ವಿಸ್ ತಳಿಗಳು. ಈ ಗುಣಗಳು ಹೈನುಗಾರಿಕೆಯಲ್ಲಿ ಲಾಭವನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಅಧಿಕ ಹಾಲು ಉತ್ಪಾದನೆ",
+    "ದೀರ್ಘ ಕ್ಷೀರೋತ್ಪಾದನಾ ಅವಧಿ (Longer Lactation Period)",
+    "ಉದಾಹರಣೆ: ಜರ್ಸಿ, ಬ್ರೌನ್ ಸ್ವಿಸ್"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A healthy Jersey cow, known for high milk yield, standing in a clean farm environment. The cow should look robust and well-fed.",
+    "labels": "ಜರ್ಸಿ ತಳಿ (ವಿದೇಶಿ)",
+    "scientific_significance": "Illustrates an exotic breed used in cross-breeding for its high milk production and long lactation period.",
+    "placeholder_note": "Image of a Jersey cow to be generated."
+  },
+  "chunk_id": "std_9_chapter_12_concept_8_chunk_008"
+}

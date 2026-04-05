@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ ಅರವತ್ತು. ಆರು ರೂಟ್ ಐದು ಮತ್ತು ಎರಡು ರೂಟ್ ಐದರ ಗುಣಲಬ್ಧ ಅರವತ್ತು ಆಗಿದೆ. ಒಂದು ಕುತೂಹಲಕಾರಿ ವಿಷಯವೆಂದರೆ, ನಾವು ಎರಡು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಗುಣಿಸಿ ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯನ್ನು ಉತ್ತರವಾಗಿ ಪಡೆದಿದ್ದೇವೆ.",
+  "script_display": "ಹೀಗಾಗಿ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ 60. $6\\sqrt{5}$ ಮತ್ತು $2\\sqrt{5}$ ರ ಗುಣಲಬ್ಧ 60 ಆಗಿದೆ. ಒಂದು ಕುತೂಹಲಕಾರಿ ವಿಷಯವೆಂದರೆ, ನಾವು ಎರಡು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಗುಣಿಸಿ ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯನ್ನು ಉತ್ತರವಾಗಿ ಪಡೆದಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ಗುಣಲಬ್ಧ: $6\\sqrt{5} \\times 2\\sqrt{5} = 60$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_highlight",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "NS-SYS-3_example_13",
+  "final_answer": "60",
+  "final_answer_display": "60",
+  "chunk_id": "NS-SYS-3_concept_4_chunk_042"
+}

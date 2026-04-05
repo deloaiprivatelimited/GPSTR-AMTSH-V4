@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ಯಾಲ್ಸಿಯಂ ಏಕೆ ತೇಲುತ್ತದೆ?",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಒಂದು ವಿಶೇಷ ಸಂಗತಿ ನಡೆಯುತ್ತದೆ. ಕ್ಯಾಲ್ಸಿಯಂ ನೀರಿನೊಂದಿಗೆ ವರ್ತಿಸಲು ಪ್ರಾರಂಭಿಸಿದಾಗ, ಹೈಡ್ರೋಜನ್ ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ. ಈ ಗುಳ್ಳೆಗಳು ಕ್ಯಾಲ್ಸಿಯಂ ಲೋಹದ ಮೇಲ್ಮೈಗೆ ಅಂಟಿಕೊಳ್ಳುತ್ತವೆ. ಈ ಹೈಡ್ರೋಜನ್ ಗುಳ್ಳೆಗಳು ಕ್ಯಾಲ್ಸಿಯಂ ಅನ್ನು ನೀರಿನ ಮೇಲೆ ತೇಲುವಂತೆ ಮಾಡುತ್ತವೆ. ಆದ್ದರಿಂದ, ಕ್ಯಾಲ್ಸಿಯಂ ನೀರಿನಲ್ಲಿ ಮುಳುಗುವ ಬದಲು, ವರ್ತಿಸುತ್ತಾ ಮೇಲ್ಮೈಯಲ್ಲಿ ತೇಲುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಒಂದು ವಿಶೇಷ ಸಂಗತಿ ನಡೆಯುತ್ತದೆ. ಕ್ಯಾಲ್ಸಿಯಂ ನೀರಿನೊಂದಿಗೆ ವರ್ತಿಸಲು ಪ್ರಾರಂಭಿಸಿದಾಗ, ಹೈಡ್ರೋಜನ್ ಅನಿಲದ (H₂) ಗುಳ್ಳೆಗಳು ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ. ಈ ಗುಳ್ಳೆಗಳು ಕ್ಯಾಲ್ಸಿಯಂ ಲೋಹದ ಮೇಲ್ಮೈಗೆ ಅಂಟಿಕೊಳ್ಳುತ್ತವೆ. ಈ ಹೈಡ್ರೋಜನ್ ಗುಳ್ಳೆಗಳು ಕ್ಯಾಲ್ಸಿಯಂ ಅನ್ನು ನೀರಿನ ಮೇಲೆ ತೇಲುವಂತೆ ಮಾಡುತ್ತವೆ. ಆದ್ದರಿಂದ, ಕ್ಯಾಲ್ಸಿಯಂ ನೀರಿನಲ್ಲಿ ಮುಳುಗುವ ಬದಲು, ವರ್ತಿಸುತ್ತಾ ಮೇಲ್ಮೈಯಲ್ಲಿ ತೇಲುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕ್ರಿಯೆ ಆರಂಭವಾದಾಗ ಹೈಡ್ರೋಜನ್ ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ.",
+    "ಈ ಗುಳ್ಳೆಗಳು ಕ್ಯಾಲ್ಸಿಯಂ ಲೋಹದ ಮೇಲ್ಮೈಗೆ ಅಂಟಿಕೊಳ್ಳುತ್ತವೆ.",
+    "ಗುಳ್ಳೆಗಳ ಸಹಾಯದಿಂದ ಕ್ಯಾಲ್ಸಿಯಂ ನೀರಿನ ಮೇಲೆ ತೇಲಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "style_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker of water. A piece of calcium metal is in the water, but floating on the surface. Many small bubbles (labeled 'Hydrogen gas') are shown sticking to the surface of the calcium, lifting it up. An arrow points from the calcium upwards, indicating buoyancy.",
+    "labels": "ನೀರು, ಕ್ಯಾಲ್ಸಿಯಂ ಲೋಹ, ಹೈಡ್ರೋಜನ್ ಗುಳ್ಳೆಗಳು",
+    "scientific_significance": "Illustrates the phenomenon where hydrogen gas bubbles produced during the reaction adhere to the calcium metal's surface, increasing its buoyancy and causing it to float.",
+    "placeholder_note": "Image to be generated showing calcium floating on water due to hydrogen bubbles."
+  },
+  "chunk_id": "std_10_chapter_3_concept_5_chunk_013"
+}

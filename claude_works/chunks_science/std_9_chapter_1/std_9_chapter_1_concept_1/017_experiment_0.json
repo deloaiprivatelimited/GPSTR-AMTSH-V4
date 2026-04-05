@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆ 1.1: ಬೇಕಾದ ವಸ್ತುಗಳು",
+  "script": "ದ್ರವ್ಯವು ಕಣಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸಲು, ನಾವು ಈಗ ಒಂದು ಸರಳವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಗೆ ನಮಗೆ ಕೆಲವು ಸುಲಭವಾಗಿ ಲಭ್ಯವಿರುವ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಒಂದು ನೂರು ಮಿಲಿಲೀಟರ್ ಅಳತೆಯ ಬೀಕರ್ ಬೇಕು. ನಂತರ, ಬೀಕರ್‌ನಲ್ಲಿ ಅರ್ಧದಷ್ಟು ತುಂಬಿಸಲು ನೀರು ಬೇಕು. ಇದಲ್ಲದೆ, ನಾವು ಕರಗಿಸಲು ಸ್ವಲ್ಪ ಉಪ್ಪು ಅಥವಾ ಸಕ್ಕರೆಯನ್ನು ಬಳಸುತ್ತೇವೆ. ಅಂತಿಮವಾಗಿ, ಉಪ್ಪನ್ನು ನೀರಿನಲ್ಲಿ ಚೆನ್ನಾಗಿ ಕಲಕಲು ಒಂದು ಗಾಜಿನ ಕಡ್ಡಿ ಬೇಕಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ನಾವು ದ್ರವ್ಯದ ಕಣಸ್ವಭಾವವನ್ನು ಹೇಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು ಎಂದು ನೋಡೋಣ.",
+  "script_display": "ದ್ರವ್ಯವು ಕಣಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸಲು, ನಾವು ಈಗ ಒಂದು ಸರಳವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಈ ಚಟುವಟಿಕೆಗೆ ನಮಗೆ ಕೆಲವು ಸುಲಭವಾಗಿ ಲಭ್ಯವಿರುವ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಒಂದು 100 mL ಅಳತೆಯ ಬೀಕರ್ ಬೇಕು. ನಂತರ, ಬೀಕರ್‌ನಲ್ಲಿ ಅರ್ಧದಷ್ಟು ತುಂಬಿಸಲು ನೀರು ಬೇಕು. ಇದಲ್ಲದೆ, ನಾವು ಕರಗಿಸಲು ಸ್ವಲ್ಪ ಉಪ್ಪು ಅಥವಾ ಸಕ್ಕರೆಯನ್ನು ಬಳಸುತ್ತೇವೆ. ಅಂತಿಮವಾಗಿ, ಉಪ್ಪನ್ನು ನೀರಿನಲ್ಲಿ ಚೆನ್ನಾಗಿ ಕಲಕಲು ಒಂದು ಗಾಜಿನ ಕಡ್ಡಿ ಬೇಕಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ನಾವು ದ್ರವ್ಯದ ಕಣಸ್ವಭಾವವನ್ನು ಹೇಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು ಎಂದು ನೋಡೋಣ.",
+  "display_bullets": [
+    "100 mL ಬೀಕರ್",
+    "ನೀರು",
+    "ಉಪ್ಪು ಅಥವಾ ಸಕ್ಕರೆ",
+    "ಗಾಜಿನ ಕಡ್ಡಿ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_A",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the experiment: a 100 mL beaker, a container of water, a bowl of salt/sugar, and a glass rod. Each item should be clearly labeled in Kannada.",
+    "labels": "ಬೀಕರ್, ನೀರು, ಉಪ್ಪು, ಗಾಜಿನ ಕಡ್ಡಿ",
+    "scientific_significance": "Shows the simple materials required to demonstrate the particulate nature of matter.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_1_concept_1_chunk_017"
+}

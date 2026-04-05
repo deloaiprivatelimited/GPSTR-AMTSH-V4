@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಹಿಸ್ಟೋಗ್ರಾಂ (ಆಯತ ಚಿತ್ರ)",
+  "script": "ಈಗ ನಾವು ದತ್ತಾಂಶ ನಿರೂಪಣೆಯ ಮತ್ತೊಂದು ಪ್ರಮುಖ ವಿಧಾನವಾದ ಹಿಸ್ಟೋಗ್ರಾಂ ಅಥವಾ ಆಯತ ಚಿತ್ರದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಹಿಸ್ಟೋಗ್ರಾಂ ಎನ್ನುವುದು ವರ್ಗೀಕೃತ ಮತ್ತು ನಿರಂತರ ದತ್ತಾಂಶಗಳನ್ನು ನಿರೂಪಿಸಲು ಬಳಸುವ ಒಂದು ನಕ್ಷೆಯಾಗಿದೆ. ಇದರಲ್ಲಿ ಪಕ್ಕಪಕ್ಕದಲ್ಲಿರುವ ಆಯತಗಳನ್ನು, ಅಂದರೆ ರೆಕ್ಟ್ಯಾಂಗಲ್ಸ್ ಅನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಸ್ತಂಭಲೇಖಕ್ಕೂ ಇದಕ್ಕೂ ಇರುವ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೆಂದರೆ, ಹಿಸ್ಟೋಗ್ರಾಂನಲ್ಲಿ ಸ್ತಂಭಗಳ ನಡುವೆ ಯಾವುದೇ ಅಂತರವಿರುವುದಿಲ್ಲ, ಏಕೆಂದರೆ ದತ್ತಾಂಶಗಳು ನಿರಂತರವಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಈಗ ನಾವು ದತ್ತಾಂಶ ನಿರೂಪಣೆಯ ಮತ್ತೊಂದು ಪ್ರಮುಖ ವಿಧಾನವಾದ ಹಿಸ್ಟೋಗ್ರಾಂ ಅಥವಾ ಆಯತ ಚಿತ್ರದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಹಿಸ್ಟೋಗ್ರಾಂ ಎನ್ನುವುದು ವರ್ಗೀಕೃತ ಮತ್ತು ನಿರಂತರ ದತ್ತಾಂಶಗಳನ್ನು ನಿರೂಪಿಸಲು ಬಳಸುವ ಒಂದು ನಕ್ಷೆಯಾಗಿದೆ. ಇದರಲ್ಲಿ ಪಕ್ಕಪಕ್ಕದಲ್ಲಿರುವ ಆಯತಗಳನ್ನು (rectangles) ಬಳಸಲಾಗುತ್ತದೆ. ಸ್ತಂಭಲೇಖಕ್ಕೂ ಇದಕ್ಕೂ ಇರುವ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೆಂದರೆ, ಹಿಸ್ಟೋಗ್ರಾಂನಲ್ಲಿ ಸ್ತಂಭಗಳ ನಡುವೆ ಯಾವುದೇ ಅಂತರವಿರುವುದಿಲ್ಲ, ಏಕೆಂದರೆ ದತ್ತಾಂಶಗಳು ನಿರಂತರವಾಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ವರ್ಗೀಕೃತ ಮತ್ತು ನಿರಂತರ ದತ್ತಾಂಶಗಳನ್ನು ನಿರೂಪಿಸಲು ಬಳಸುವ ನಕ್ಷೆ.",
+    "ಇದರಲ್ಲಿ ಪಕ್ಕಪಕ್ಕದಲ್ಲಿರುವ ಆಯತಗಳನ್ನು (rectangles) ಬಳಸಲಾಗುತ್ತದೆ.",
+    "ಸ್ತಂಭಗಳ ನಡುವೆ ಯಾವುದೇ ಅಂತರವಿರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, generic histogram showing 4-5 adjacent bars of different heights. The bars should be filled with a solid color. No labels on axes yet.",
+    "labels": "Generic histogram structure",
+    "mathematical_significance": "Illustrates the core concept of a histogram having adjacent rectangular bars without gaps.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "DATA-STAT-2_concept_1_chunk_005"
+}

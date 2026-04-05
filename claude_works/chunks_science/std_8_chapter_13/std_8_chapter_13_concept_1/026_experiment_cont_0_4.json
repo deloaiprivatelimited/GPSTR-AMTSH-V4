@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಎರಡನೇ ನಿಯಮ",
+  "script": "ಈಗ ಎರಡನೇ ನಿಯಮವನ್ನು ನೋಡೋಣ. ಪತನ ಕಿರಣ, ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ನಾವು ಎಳೆದ ಲಂಬ, ಇವೆಲ್ಲವೂ ಬಿಳಿ ಕಾಗದದ ಸಮತಟ್ಟಾದ ಹಾಳೆಯ ಮೇಲೆ ಇರುವುದನ್ನು ಗಮನಿಸಿ. ಅಂದರೆ, ಇವೆಲ್ಲವೂ ಒಂದೇ ಸಮತಲದಲ್ಲಿವೆ. ಇದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು, ಕಾಗದದ ಹಾಳೆಯ ತುದಿಯನ್ನು ಸ್ವಲ್ಪ ಮೇಲಕ್ಕೆ ಬಗ್ಗಿಸಿ. ಈಗ ನೋಡಿ, ಪ್ರತಿಫಲಿತ ಕಿರಣವು ಬಾಗಿದ ಕಾಗದದ ಮೇಲೆ ಕಾಣಿಸುವುದಿಲ್ಲ, ಅದು ತನ್ನ ಹಿಂದಿನ ಸಮತಲದಲ್ಲೇ ಮುಂದುವರೆಯುತ್ತದೆ. ಇದರಿಂದ, ಈ ಮೂರೂ ರೇಖೆಗಳು ಒಂದೇ ಸಮತಲದಲ್ಲಿರಬೇಕು ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ಇದೇ ಪ್ರತಿಫಲನದ ಎರಡನೇ ನಿಯಮ.",
+  "script_display": "ಈಗ ಎರಡನೇ ನಿಯಮವನ್ನು ನೋಡೋಣ. ಪತನ ಕಿರಣ, ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ನಾವು ಎಳೆದ ಲಂಬ, ಇವೆಲ್ಲವೂ ಬಿಳಿ ಕಾಗದದ ಸಮತಟ್ಟಾದ ಹಾಳೆಯ ಮೇಲೆ ಇರುವುದನ್ನು ಗಮನಿಸಿ. ಅಂದರೆ, ಇವೆಲ್ಲವೂ ಒಂದೇ ಸಮತಲದಲ್ಲಿವೆ. ಇದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು, ಕಾಗದದ ಹಾಳೆಯ ತುದಿಯನ್ನು ಸ್ವಲ್ಪ ಮೇಲಕ್ಕೆ ಬಗ್ಗಿಸಿ. ಈಗ ನೋಡಿ, ಪ್ರತಿಫಲಿತ ಕಿರಣವು ಬಾಗಿದ ಕಾಗದದ ಮೇಲೆ ಕಾಣಿಸುವುದಿಲ್ಲ, ಅದು ತನ್ನ ಹಿಂದಿನ ಸಮತಲದಲ್ಲೇ ಮುಂದುವರೆಯುತ್ತದೆ. ಇದರಿಂದ, ಈ ಮೂರೂ ರೇಖೆಗಳು ಒಂದೇ ಸಮತಲದಲ್ಲಿರಬೇಕು ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ. ಇದೇ ಪ್ರತಿಫಲನದ ಎರಡನೇ ನಿಯಮ.",
+  "display_bullets": [
+    "ಪತನ ಕಿರಣ, ಪ್ರತಿಫಲಿತ ಕಿರಣ ಮತ್ತು ಲಂಬ, ಎಲ್ಲವೂ ಒಂದೇ ಸಮತಲದಲ್ಲಿವೆ (ಕಾಗದದ ಹಾಳೆ).",
+    "ಕಾಗದವನ್ನು ಬಗ್ಗಿಸಿದಾಗ, ಪ್ರತಿಫಲಿತ ಕಿರಣವು ಆ ಹಾಳೆಯ ಮೇಲೆ ಕಾಣಿಸುವುದಿಲ್ಲ.",
+    "ಇದು ಪ್ರತಿಫಲನದ ಎರಡನೇ ನಿಯಮವನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-part diagram. Part (A) shows the reflection setup on a flat sheet of paper, with the incident ray, reflected ray, and normal all lying on the paper. Part (B) shows the same setup, but one edge of the paper is folded upwards. The incident ray and normal are on the flat part, but the reflected ray is shown continuing in the original plane, not appearing on the folded part of the paper.",
+    "labels": "Verification of the Second Law of Reflection",
+    "scientific_significance": "Demonstrates that reflection is a planar phenomenon, requiring the incident ray, reflected ray, and normal to be coplanar.",
+    "placeholder_note": "Image to be generated showing the bent paper experiment."
+  },
+  "chunk_id": "std_8_chapter_13_concept_1_chunk_026"
+}

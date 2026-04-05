@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಷ್ಟಕ್ಕೆ ಅಜೈವಿಕ ಕಾರಣಗಳು",
+  "script": "ಜೈವಿಕ ಅಂಶಗಳಷ್ಟೇ ಅಜೈವಿಕ ಅಂಶಗಳೂ ಕೂಡ ಧಾನ್ಯ ನಷ್ಟಕ್ಕೆ ಕಾರಣವಾಗುತ್ತವೆ. ಇದರಲ್ಲಿ ಪ್ರಮುಖವಾದದ್ದು ಅಸಮರ್ಪಕ ತೇವಾಂಶ. ಧಾನ್ಯಗಳಲ್ಲಿ ತೇವಾಂಶದ ಪ್ರಮಾಣ ಹೆಚ್ಚಿದ್ದರೆ, ಅದು ಶಿಲೀಂಧ್ರ ಮತ್ತು ಕೀಟಗಳ ಬೆಳವಣಿಗೆಗೆ ಅನುಕೂಲಕರ ವಾತಾವರಣವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ. ಇನ್ನೊಂದು ಮುಖ್ಯ ಅಂಶವೆಂದರೆ ಅನುಚಿತ ತಾಪಮಾನ. ಶೇಖರಣಾ ಸ್ಥಳದಲ್ಲಿ ತಾಪಮಾನ ಹೆಚ್ಚಿದ್ದರೆ, ಅದು ಧಾನ್ಯಗಳಲ್ಲಿನ ಉಸಿರಾಟದ ಕ್ರಿಯೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ ಮತ್ತು ಕೀಟಗಳ ಸಂತಾನೋತ್ಪತ್ತಿಗೂ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದರಿಂದ ಧಾನ್ಯಗಳು ಬೇಗನೆ ಹಾಳಾಗುತ್ತವೆ.",
+  "script_display": "ಜೈವಿಕ ಅಂಶಗಳಷ್ಟೇ ಅಜೈವಿಕ ಅಂಶಗಳೂ (Abiotic factors) ಕೂಡ ಧಾನ್ಯ ನಷ್ಟಕ್ಕೆ ಕಾರಣವಾಗುತ್ತವೆ. ಇದರಲ್ಲಿ ಪ್ರಮುಖವಾದದ್ದು ಅಸಮರ್ಪಕ ತೇವಾಂಶ (Improper Moisture). ಧಾನ್ಯಗಳಲ್ಲಿ ತೇವಾಂಶದ ಪ್ರಮಾಣ ಹೆಚ್ಚಿದ್ದರೆ, ಅದು ಶಿಲೀಂಧ್ರ ಮತ್ತು ಕೀಟಗಳ ಬೆಳವಣಿಗೆಗೆ ಅನುಕೂಲಕರ ವಾತಾವರಣವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ. ಇನ್ನೊಂದು ಮುಖ್ಯ ಅಂಶವೆಂದರೆ ಅನುಚಿತ ತಾಪಮಾನ (Inappropriate Temperature). ಶೇಖರಣಾ ಸ್ಥಳದಲ್ಲಿ ತಾಪಮಾನ ಹೆಚ್ಚಿದ್ದರೆ, ಅದು ಧಾನ್ಯಗಳಲ್ಲಿನ ಉಸಿರಾಟದ ಕ್ರಿಯೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ ಮತ್ತು ಕೀಟಗಳ ಸಂತಾನೋತ್ಪತ್ತಿಗೂ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದರಿಂದ ಧಾನ್ಯಗಳು ಬೇಗನೆ ಹಾಳಾಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ಅಸಮರ್ಪಕ ತೇವಾಂಶ (Improper Moisture)",
+    "ಅನುಚಿತ ತಾಪಮಾನ (Inappropriate Temperature)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "style_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split diagram. On the left, a water drop icon over a pile of grains with a sad face, labeled 'ಹೆಚ್ಚು ತೇವಾಂಶ'. On the right, a thermometer icon showing a high temperature next to a pile of grains with a sad face, labeled 'ಹೆಚ್ಚು ತಾಪಮಾನ'.",
+    "labels": "ತೇವಾಂಶ, ತಾಪಮಾನ",
+    "scientific_significance": "Illustrates the two main abiotic factors, moisture and temperature, that cause grain spoilage.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_7_chunk_012"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹಂತ 1: ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣ",
+  "script": "ನಮ್ಮ ಲೆಕ್ಕಾಚಾರದ ಮೊದಲ ಭಾಗ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು. ಇದರ ಸೂತ್ರ ನಿಮಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿದೆ. ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣ ಸಮನಾಗಿರುತ್ತದೆ ತೀಟಾ ಬೈ ಮುನ್ನೂರ ಅರವತ್ತು, ಗುಣಿಸು ಪೈ ಆರ್ ಸ್ಕ್ವೇರ್. ಇಲ್ಲಿ ತೀಟಾ ಎಂಬುದು ಕೇಂದ್ರದಲ್ಲಿ ಉಂಟಾದ ಕೋನ, ಮತ್ತು ಆರ್ ಎಂಬುದು ವೃತ್ತದ ತ್ರಿಜ್ಯ. ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ ನಾವು ಸುಲಭವಾಗಿ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರಕ್ಕೆ ಬೇಕಾದ ಮೊದಲ ಮೌಲ್ಯ.",
+  "script_display": "ನಮ್ಮ ಲೆಕ್ಕಾಚಾರದ ಮೊದಲ ಭಾಗ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು. ಇದರ ಸೂತ್ರ ನಿಮಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿದೆ. ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣ = $\\frac{\\theta}{360^\\circ} \\times \\pi r^2$. ಇಲ್ಲಿ $\\theta$ ಎಂಬುದು ಕೇಂದ್ರದಲ್ಲಿ ಉಂಟಾದ ಕೋನ, ಮತ್ತು $r$ ಎಂಬುದು ವೃತ್ತದ ತ್ರಿಜ್ಯ. ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ ನಾವು ಸುಲಭವಾಗಿ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರಕ್ಕೆ ಬೇಕಾದ ಮೊದಲ ಮೌಲ್ಯ.",
+  "display_bullets": [
+    "ಮೊದಲಿಗೆ, ಅನುಗುಣವಾದ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡದ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಹಾಕಿ.",
+    "ಸೂತ್ರ: $A_{\\text{ತ್ರಿಜ್ಯಾಂತರ ಖಂಡ}} = \\frac{\\theta}{360^\\circ} \\times \\pi r^2$.",
+    "ಇಲ್ಲಿ, $\\theta$ ಕೇಂದ್ರ ಕೋನ ಮತ್ತು $r$ ತ್ರಿಜ್ಯವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A circle with center O. A sector OAPB is highlighted. The angle AOB is marked as θ and the radius OA is marked as r.",
+    "labels": "O, A, P, B, θ, r",
+    "mathematical_significance": "Illustrates the sector corresponding to the segment, which is the first part of the calculation.",
+    "placeholder_note": "Image to be generated."
+  },
+  "chunk_id": "MEN-CIR-3_concept_2_chunk_016"
+}

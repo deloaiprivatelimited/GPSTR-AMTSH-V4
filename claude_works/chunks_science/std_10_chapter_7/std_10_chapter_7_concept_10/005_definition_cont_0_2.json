@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಶೇಚನ ಎಲ್ಲಿ ನಡೆಯುತ್ತದೆ?",
+  "script": "ಈಗ ಒಂದು ಬಹಳ ಮುಖ್ಯವಾದ ಪ್ರಶ್ನೆ. ಈ ನಿಶೇಚನ ಪ್ರಕ್ರಿಯೆ ಸ್ತ್ರೀಯರ ದೇಹದ ಯಾವ ಭಾಗದಲ್ಲಿ ನಡೆಯುತ್ತದೆ? ಇಲ್ಲಿ ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪು ತಿಳುವಳಿಕೆ ಇದೆ, ಅನೇಕರು ಇದು ಗರ್ಭಕೋಶದಲ್ಲಿ ನಡೆಯುತ್ತದೆ ಎಂದು ಭಾವಿಸುತ್ತಾರೆ. ಆದರೆ ಅದು ಸರಿಯಲ್ಲ. ನಿಶೇಚನ ನಡೆಯುವ ನಿಖರವಾದ ಸ್ಥಳ ಅಂಡನಾಳ, ಅಂದರೆ ಫೆಲೋಪಿಯನ್ ಟ್ಯೂಬ್. ಅಂಡಾಶಯದಿಂದ ಬಿಡುಗಡೆಯಾದ ಅಂಡಾಣು, ಅಂಡನಾಳದಲ್ಲಿ ಸಾಗುತ್ತಿರುವಾಗ ವೀರ್ಯಾಣುವನ್ನು ಸಂಧಿಸುತ್ತದೆ. ಲಕ್ಷಾಂತರ ವೀರ್ಯಾಣುಗಳು ಈ ಪ್ರಯಾಣವನ್ನು ಮಾಡಿದರೂ, ಕೇವಲ ಒಂದು ವೀರ್ಯಾಣು ಮಾತ್ರ ಅಂಡಾಣುವಿನೊಂದಿಗೆ ಸೇರಲು ಯಶಸ್ವಿಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಬಹಳ ಮುಖ್ಯವಾದ ಪ್ರಶ್ನೆ. ಈ ನಿಶೇಚನ ಪ್ರಕ್ರಿಯೆ ಸ್ತ್ರೀಯರ ದೇಹದ ಯಾವ ಭಾಗದಲ್ಲಿ ನಡೆಯುತ್ತದೆ? ಇಲ್ಲಿ ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪು ತಿಳುವಳಿಕೆ ಇದೆ, ಅನೇಕರು ಇದು ಗರ್ಭಕೋಶದಲ್ಲಿ (Uterus) ನಡೆಯುತ್ತದೆ ಎಂದು ಭಾವಿಸುತ್ತಾರೆ. ಆದರೆ ಅದು ಸರಿಯಲ್ಲ. ನಿಶೇಚನ ನಡೆಯುವ ನಿಖರವಾದ ಸ್ಥಳ ಅಂಡನಾಳ (Fallopian Tube). ಅಂಡಾಶಯದಿಂದ (Ovary) ಬಿಡುಗಡೆಯಾದ ಅಂಡಾಣು, ಅಂಡನಾಳದಲ್ಲಿ ಸಾಗುತ್ತಿರುವಾಗ ವೀರ್ಯಾಣುವನ್ನು ಸಂಧಿಸುತ್ತದೆ. ಲಕ್ಷಾಂತರ ವೀರ್ಯಾಣುಗಳು ಈ ಪ್ರಯಾಣವನ್ನು ಮಾಡಿದರೂ, ಕೇವಲ ಒಂದು ವೀರ್ಯಾಣು ಮಾತ್ರ ಅಂಡಾಣುವಿನೊಂದಿಗೆ ಸೇರಲು ಯಶಸ್ವಿಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸ್ಥಳ: ಅಂಡನಾಳ (Fallopian Tube).",
+    "ಗರ್ಭಕೋಶದಲ್ಲಿ ಅಲ್ಲ, ಇದು ಸಾಮಾನ್ಯ ತಪ್ಪು ತಿಳುವಳಿಕೆ.",
+    "ಅಂಡಾಶಯದಿಂದ ಬಿಡುಗಡೆಯಾದ ಅಂಡಾಣು, ಅಂಡನಾಳದಲ್ಲಿ ವೀರ್ಯಾಣುವನ್ನು ಸಂಧಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of the female reproductive system (ovary, fallopian tube, uterus). An arrow points to the fallopian tube, with a small 'spark' icon indicating the site of fertilization. Labels for Ovary (ಅಂಡಾಶಯ), Fallopian Tube (ಅಂಡನಾಳ), and Uterus (ಗರ್ಭಕೋಶ) should be clear.",
+    "labels": "Ovary, Fallopian Tube, Uterus, Site of Fertilization",
+    "scientific_significance": "Illustrates the precise location of fertilization, correcting the common misconception that it occurs in the uterus.",
+    "placeholder_note": "Image to be generated showing the female reproductive system with fertilization happening in the fallopian tube."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_7_concept_10_chunk_005"
+}

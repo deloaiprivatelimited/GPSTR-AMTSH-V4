@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತಾಳೆ ಗುರುತುಗಳ ನಿಯಮಗಳು",
+  "script": "ಮೂರನೆಯ ಮತ್ತು ಅತಿ ಮುಖ್ಯವಾದ ನಿಯಮವೇನೆಂದರೆ, ತಾಳೆ ಗುರುತುಗಳು ಐದರ ಗುಂಪುಗಳಲ್ಲಿ ಎಣಿಸಲು ಸುಲಭವಾಗಿಸುತ್ತವೆ. ಪ್ರತಿ ಐದನೇ ಗುರುತನ್ನು ಅಡ್ಡಲಾಗಿ ಎಳೆಯುವುದರಿಂದ, ನಾವು ಒಂದು, ಎರಡು, ಮೂರು ಎಂದು ಪ್ರತಿಯೊಂದನ್ನು ಎಣಿಸುವ ಬದಲು, ಐದು, ಹತ್ತು, ಹದಿನೈದು ಎಂದು ವೇಗವಾಗಿ ಎಣಿಸಬಹುದು. ಉದಾಹರಣೆಗೆ, ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಹನ್ನೆರಡು ಎಂಬ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸಬೇಕಾದರೆ, ನಾವು ಐದರ ಎರಡು ಗುಂಪುಗಳನ್ನು ಮಾಡಿ, ನಂತರ ಎರಡು ಪ್ರತ್ಯೇಕ ಗೆರೆಗಳನ್ನು ಎಳೆಯುತ್ತೇವೆ. ಇದನ್ನು ನೋಡಿದ ತಕ್ಷಣ ಐದು ಪ್ಲಸ್ ಐದು ಪ್ಲಸ್ ಎರಡು, ಅಂದರೆ ಹನ್ನೆರಡು ಎಂದು ಸುಲಭವಾಗಿ ಹೇಳಬಹುದು. ಇದು ದೊಡ್ಡ ದತ್ತಾಂಶಗಳೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುವಾಗ ಸಮಯವನ್ನು ಉಳಿಸುತ್ತದೆ.",
+  "script_display": "ಮೂರನೆಯ ಮತ್ತು ಅತಿ ಮುಖ್ಯವಾದ ನಿಯಮವೇನೆಂದರೆ, ತಾಳೆ ಗುರುತುಗಳು ಐದರ ಗುಂಪುಗಳಲ್ಲಿ ಎಣಿಸಲು ಸುಲಭವಾಗಿಸುತ್ತವೆ. ಪ್ರತಿ ಐದನೇ ಗುರುತನ್ನು ಅಡ್ಡಲಾಗಿ ಎಳೆಯುವುದರಿಂದ, ನಾವು 1, 2, 3 ಎಂದು ಪ್ರತಿಯೊಂದನ್ನು ಎಣಿಸುವ ಬದಲು, 5, 10, 15 ಎಂದು ವೇಗವಾಗಿ ಎಣಿಸಬಹುದು. ಉದಾಹರಣೆಗೆ, ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ 12 ಎಂಬ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸಬೇಕಾದರೆ, ನಾವು ಐದರ ಎರಡು ಗುಂಪುಗಳನ್ನು (~~IIII~~) ಮಾಡಿ, ನಂತರ ಎರಡು ಪ್ರತ್ಯೇಕ ಗೆರೆಗಳನ್ನು (II) ಎಳೆಯುತ್ತೇವೆ. ಇದನ್ನು ನೋಡಿದ ತಕ್ಷಣ 5 + 5 + 2, ಅಂದರೆ 12 ಎಂದು ಸುಲಭವಾಗಿ ಹೇಳಬಹುದು. ಇದು ದೊಡ್ಡ ದತ್ತಾಂಶಗಳೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುವಾಗ ಸಮಯವನ್ನು ಉಳಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಇದು ಐದರ ಗುಂಪುಗಳಲ್ಲಿ ಎಣಿಸಲು ಸುಲಭವಾಗಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dynamic_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A visual representation of the number 12 using tally marks. It should show two distinct groups of five (four vertical lines with one diagonal slash) and two additional vertical lines. Below the first group, the number '5' should be written. Below the second group, the number '5' should be written. Below the last two lines, the number '2' should be written. An arrow should point from these to a final sum: '5 + 5 + 2 = 12'.",
+    "labels": "Tally Marks, Group of Five, Counting, Sum",
+    "mathematical_significance": "Illustrates the core principle of tally marks: grouping by five simplifies counting and visual recognition of quantities.",
+    "placeholder_note": "Image to be generated: Tally marks for 12 (~~IIII~~ ~~IIII~~ II) with annotations showing 5 + 5 + 2 = 12."
+  },
+  "chunk_id": "DATA-BAS-1_concept_1_chunk_016"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 2",
+  "script": "ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ಆಯತದ ಎಲ್ಲಾ ಕೋನಗಳು ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಇರುವುದರಿಂದ, ನಾವು ಎ ಮತ್ತು ಬಿ ಬಿಂದುಗಳಲ್ಲಿ ಲಂಬಗಳನ್ನು ರಚಿಸಬೇಕು. ಕೈವಾರ ಅಥವಾ ಕೋನಮಾಪಕವನ್ನು ಬಳಸಿ ಎ ಮತ್ತು ಬಿ ಬಿಂದುಗಳಲ್ಲಿ ಎ ಬಿ ಗೆ ಲಂಬವಾಗಿ ಎರಡು ಕಿರಣಗಳನ್ನು ಎಳೆಯಿರಿ. ನಂತರ, ನಾವು ಆಯತದ ಉದ್ದವನ್ನು ಗುರುತಿಸಬೇಕು. ನಮ್ಮ ವಿಶ್ಲೇಷಣೆಯ ಪ್ರಕಾರ, ಉದ್ದವು ಅಗಲದ ಎರಡರಷ್ಟಿರಬೇಕು. ನಮ್ಮ ಅಗಲ ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್, ಆದ್ದರಿಂದ ಉದ್ದ ಎಂಟು ಸೆಂಟಿಮೀಟರ್ ಆಗಬೇಕು. ಕೈವಾರವನ್ನು ಬಳಸಿ ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ತ್ರಿಜ್ಯವನ್ನು ತೆಗೆದುಕೊಂಡು, ಎ ಯಿಂದ ಲಂಬ ರೇಖೆಯ ಮೇಲೆ ಎರಡು ಬಾರಿ ಕಂಸವನ್ನು ಎಳೆದು ಡಿ ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ. ಇದರಿಂದ ಎ ಡಿ ಸಮನಾಗಿದೆ ಎಂಟು ಸೆಂಟಿಮೀಟರ್ ಆಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ಆಯತದ ಎಲ್ಲಾ ಕೋನಗಳು $90°$ ಇರುವುದರಿಂದ, ನಾವು A ಮತ್ತು B ಬಿಂದುಗಳಲ್ಲಿ ಲಂಬಗಳನ್ನು ರಚಿಸಬೇಕು. ಕೈವಾರ ಅಥವಾ ಕೋನಮಾಪಕವನ್ನು ಬಳಸಿ A ಮತ್ತು B ಬಿಂದುಗಳಲ್ಲಿ AB ಗೆ ಲಂಬವಾಗಿ ಎರಡು ಕಿರಣಗಳನ್ನು ಎಳೆಯಿರಿ. ನಂತರ, ನಾವು ಆಯತದ ಉದ್ದವನ್ನು ಗುರುತಿಸಬೇಕು. ನಮ್ಮ ವಿಶ್ಲೇಷಣೆಯ ಪ್ರಕಾರ, ಉದ್ದವು ಅಗಲದ ಎರಡರಷ್ಟಿರಬೇಕು. ನಮ್ಮ ಅಗಲ $4 \\text{ cm}$, ಆದ್ದರಿಂದ ಉದ್ದ $8 \\text{ cm}$ ಆಗಬೇಕು. ಕೈವಾರವನ್ನು ಬಳಸಿ $4 \\text{ cm}$ ತ್ರಿಜ್ಯವನ್ನು ತೆಗೆದುಕೊಂಡು, A ಯಿಂದ ಲಂಬ ರೇಖೆಯ ಮೇಲೆ ಎರಡು ಬಾರಿ ಕಂಸವನ್ನು ಎಳೆದು D ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ. ಇದರಿಂದ $AD = 8 \\text{ cm}$ ಆಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The line segment AB from the previous step. Perpendicular lines are drawn upwards from A and B. A compass is shown with its point at A, drawing arcs on the perpendicular line to mark point D. The length AD is shown as 8 cm.",
+    "labels": "A, B, D, 8 cm, 90° symbol, Compass",
+    "mathematical_significance": "Demonstrates the construction of right angles and the application of the l=2b relationship to determine the length.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "VIS-CON-1_example_5",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "A ಮತ್ತು B ಬಿಂದುಗಳಲ್ಲಿ, AB ಗೆ ಲಂಬವಾಗಿ ಕಿರಣಗಳನ್ನು ಎಳೆಯಿರಿ.",
+      "justification": "ಆಯತದ ಕೋನಗಳು $90°$ ಇರುತ್ತವೆ."
+    },
+    {
+      "step": 4,
+      "action_display": "A ಯಿಂದ ಲಂಬದ ಮೇಲೆ $AD = 2 \\times AB = 8 \\text{ cm}$ ಗುರುತಿಸಿ.",
+      "justification": "ಉದ್ದವು ಅಗಲದ ಎರಡರಷ್ಟಿದೆ ($l=2b$)."
+    }
+  ],
+  "chunk_id": "VIS-CON-1_concept_6_chunk_005"
+}

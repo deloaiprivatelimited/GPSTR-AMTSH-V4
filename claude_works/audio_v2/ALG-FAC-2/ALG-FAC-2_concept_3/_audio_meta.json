@@ -1,0 +1,158 @@
+{
+  "module_id": "ALG-FAC-2_concept_3",
+  "merge_code": "ALG-FAC-2",
+  "voice": "Leda",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:13:10",
+  "chunks": {
+    "005_example_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "23b2e57ae6fa70df927e7583a49b6d77",
+      "wav_file": "005_example_0.wav",
+      "duration": 27.491,
+      "slide_title": "ಉದಾಹರಣೆ: ಮರುಗುಂಪು ಮಾಡುವಿಕೆ",
+      "type": "worked_example",
+      "script_words": 38,
+      "generated_at": "2026-03-30 14:10:51"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "836f31f78f7dd68d6350c01dd7341aa4",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.331,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 40,
+      "generated_at": "2026-03-30 14:10:55"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "349932b9636b1b4c5b79e9f3b1790715",
+      "wav_file": "001_intro_0.wav",
+      "duration": 49.611,
+      "slide_title": "ಅಪವರ್ತಿಸುವಿಕೆ: ಮರುಗುಂಪು ಮಾಡುವಿಕೆ",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-03-30 14:11:05"
+    },
+    "004_property_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "b442922af00d2d0b00cb71a83b8f5b35",
+      "wav_file": "004_property_1.wav",
+      "duration": 50.131,
+      "slide_title": "ಅಂತಿಮ ಫಲಿತಾಂಶದ ರೂಪ",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-03-30 14:11:18"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "5cce69048c146e0bd4c0efbe525ef217",
+      "wav_file": "003_property_0.wav",
+      "duration": 100.851,
+      "slide_title": "ಮರುಗುಂಪು ಮಾಡುವಿಕೆಯ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "script_words": 137,
+      "generated_at": "2026-03-30 14:11:46"
+    },
+    "007_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "6ca20af6bbdb9035010ff44b3c38e80c",
+      "wav_file": "007_example_cont_0_2.wav",
+      "duration": 30.771,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "script_words": 56,
+      "generated_at": "2026-03-30 14:11:57"
+    },
+    "008_example_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "e7738b3717d0dfb5b739cbbaca237604",
+      "wav_file": "008_example_1.wav",
+      "duration": 33.371,
+      "slide_title": "ಉದಾಹರಣೆ: ಮರುಗುಂಪು ಮಾಡುವಿಕೆ",
+      "type": "worked_example",
+      "script_words": 49,
+      "generated_at": "2026-03-30 14:12:06"
+    },
+    "006_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "bc16c0b5a11876c568c2e60aa37d8cd7",
+      "wav_file": "006_example_cont_0_1.wav",
+      "duration": 62.611,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ ಹಂತವಾಗಿ",
+      "type": "worked_example",
+      "script_words": 98,
+      "generated_at": "2026-03-30 14:12:14"
+    },
+    "009_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "c3610ca718440259b1cbeb02ab4573bc",
+      "wav_file": "009_example_cont_1_1.wav",
+      "duration": 58.291,
+      "slide_title": "ಪರಿಹಾರ: ಮೊದಲ ಹಂತಗಳು",
+      "type": "worked_example",
+      "script_words": 78,
+      "generated_at": "2026-03-30 14:12:18"
+    },
+    "010_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "40508099405b181d1893956a25b4d601",
+      "wav_file": "010_example_cont_1_2.wav",
+      "duration": 59.571,
+      "slide_title": "ಪರಿಹಾರ: ಚಿಹ್ನೆಯ ಹೊಂದಾಣಿಕೆ",
+      "type": "worked_example",
+      "script_words": 79,
+      "generated_at": "2026-03-30 14:12:46"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "03a58a6daa7d7f4b13b300080b8e3338",
+      "wav_file": "013_recap_0.wav",
+      "duration": 35.691,
+      "slide_title": "ಸಾರಾಂಶ: ಮರುಗುಂಪು ಮಾಡುವಿಕೆ",
+      "type": "recap",
+      "script_words": 48,
+      "generated_at": "2026-03-30 14:12:59"
+    },
+    "012_example_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "35039df850ef10bc53f4e54692e07979",
+      "wav_file": "012_example_cont_1_4.wav",
+      "duration": 31.651,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಸಲಹೆ",
+      "type": "worked_example",
+      "script_words": 46,
+      "generated_at": "2026-03-30 14:13:05"
+    },
+    "011_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "3383bdffeb3936f802b0ceb3967b7529",
+      "wav_file": "011_example_cont_1_3.wav",
+      "duration": 43.051,
+      "slide_title": "ಪರಿಹಾರ: ಅಂತಿಮ ಹಂತ",
+      "type": "worked_example",
+      "script_words": 58,
+      "generated_at": "2026-03-30 14:13:10"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯನ್ನು ನಾವು ಈ ಸಮೀಕರಣದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಸಿ ಓ ಟು ಪ್ಲಸ್ ಸಿ ಎ ಓ ಎಚ್ ಟೇಕನ್ ಟ್ವೈಸ್ ಗಿವ್ಸ್ ಸಿ ಎ ಸಿ ಓ ಥ್ರೀ ಪ್ಲಸ್ ಎಚ್ ಟು ಓ. ಅಂದರೆ, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ವರ್ತಿಸಿ, ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೊನೇಟ್ ಮತ್ತು ನೀರು ಉಂಟಾಗುತ್ತವೆ.",
+  "script_display": "ಈ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯನ್ನು ನಾವು ಈ ಸಮೀಕರಣದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಅಂದರೆ, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (Ca(OH)₂) ವರ್ತಿಸಿ, ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೊನೇಟ್ (CaCO₃) ಮತ್ತು ನೀರು (H₂O) ಉಂಟಾಗುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_with_description",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CO_{2}(g) + Ca(OH)_{2}(aq) \\rightarrow CaCO_{3}(s) \\downarrow + H_{2}O(l)",
+    "placeholder_note": "The downward arrow next to CaCO3 indicates it is a precipitate."
+  },
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_033"
+}

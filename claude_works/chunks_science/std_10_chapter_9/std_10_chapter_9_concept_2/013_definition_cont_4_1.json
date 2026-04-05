@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಪರ್ಚರ್ ಅನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಒಂದು ನಿಮ್ಮ ದರ್ಪಣವನ್ನು ತೋರಿಸಲಾಗಿದೆ. ದರ್ಪಣದ ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈಯ ಅಂಚುಗಳನ್ನು M ಮತ್ತು N ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಈ M ಮತ್ತು N ಬಿಂದುಗಳ ನಡುವಿನ ನೇರ ಅಂತರ, ಅಂದರೆ ವ್ಯಾಸವೇ ದರ್ಪಣದ ಅಪರ್ಚರ್ ಆಗಿದೆ. ಅಪರ್ಚರ್ ದೊಡ್ಡದಾಗಿದ್ದರೆ, ದರ್ಪಣವು ತನ್ನ ಮೇಲೆ ಬೀಳುವ ಹೆಚ್ಚು ಬೆಳಕನ್ನು ಸಂಗ್ರಹಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಇದರಿಂದಾಗಿ ಉಂಟಾಗುವ ಪ್ರತಿಬಿಂಬವು ಹೆಚ್ಚು ಪ್ರಕಾಶಮಾನವಾಗಿರುತ್ತದೆ. ಕ್ಯಾಮೆರಾದ ಲೆನ್ಸ್‌ನಂತೆಯೇ, ದೊಡ್ಡ ಅಪರ್ಚರ್ ಹೆಚ್ಚು ಬೆಳಕನ್ನು ಒಳಗೆ ಬಿಡುತ್ತದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಒಂದು ನಿಮ್ಮ ದರ್ಪಣವನ್ನು ತೋರಿಸಲಾಗಿದೆ. ದರ್ಪಣದ ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈಯ ಅಂಚುಗಳನ್ನು M ಮತ್ತು N ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಈ M ಮತ್ತು N ಬಿಂದುಗಳ ನಡುವಿನ ನೇರ ಅಂತರ, ಅಂದರೆ ವ್ಯಾಸವೇ ದರ್ಪಣದ ಅಪರ್ಚರ್ ಆಗಿದೆ. ಅಪರ್ಚರ್ ದೊಡ್ಡದಾಗಿದ್ದರೆ, ದರ್ಪಣವು ತನ್ನ ಮೇಲೆ ಬೀಳುವ ಹೆಚ್ಚು ಬೆಳಕನ್ನು ಸಂಗ್ರಹಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಇದರಿಂದಾಗಿ ಉಂಟಾಗುವ ಪ್ರತಿಬಿಂಬವು ಹೆಚ್ಚು ಪ್ರಕಾಶಮಾನವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಚಿತ್ರದಲ್ಲಿ, M ಮತ್ತು N ಬಿಂದುಗಳು ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈಯ ಅಂಚುಗಳಾಗಿವೆ.",
+    "M ಮತ್ತು N ನಡುವಿನ ನೇರ ಅಂತರವೇ (ವ್ಯಾಸ) ದರ್ಪಣದ ಅಪರ್ಚರ್.",
+    "ದೊಡ್ಡ ಅಪರ್ಚರ್ = ಹೆಚ್ಚು ಬೆಳಕು ಸಂಗ್ರಹಣೆ = ಪ್ರಕಾಶಮಾನವಾದ ಪ್ರತಿಬಿಂಬ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a concave mirror. The two extreme points of the reflecting surface are labeled M and N. A straight line connecting M and N, representing the diameter, is labeled as 'Aperture'. The principal axis, pole (P), focus (F), and center of curvature (C) are also shown for context.",
+    "labels": "M, N, Aperture (ಅಪರ್ಚರ್), P (ಧ್ರುವ), F (ಸಂಗಮ), C (ವಕ್ರತಾ ಕೇಂದ್ರ)",
+    "scientific_significance": "Visually defines the aperture of a spherical mirror as the diameter of its reflecting surface and its relation to the mirror's size.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_9_concept_2_chunk_013"
+}

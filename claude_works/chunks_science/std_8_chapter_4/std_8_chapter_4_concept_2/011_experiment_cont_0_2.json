@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 2 (ಸೀಮಿತ ಗಾಳಿಯ ಪೂರೈಕೆ)",
+  "script": "ಈಗ ಎರಡನೇ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ಚಿಮಣಿಯ ಕೆಳಗಿರುವ ಮರದ ತುಂಡುಗಳನ್ನು ನಿಧಾನವಾಗಿ ತೆಗೆದುಹಾಕಿ. ಈಗ ಚಿಮಣಿಯು ನೇರವಾಗಿ ಮೇಜಿನ ಮೇಲೆ ನಿಂತಿದೆ. ಇದರಿಂದ ಕೆಳಗಿನಿಂದ ಗಾಳಿ ಬರುವ ದಾರಿ ಮುಚ್ಚಿಹೋಗುತ್ತದೆ. ಈಗ ಜ್ವಾಲೆಯನ್ನು ಗಮನಿಸಿ. ಏನಾಗುತ್ತಿದೆ? ಜ್ವಾಲೆಯು ಮಿಣುಕಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ, ಅಸ್ಥಿರವಾಗುತ್ತದೆ ಮತ್ತು ಸ್ವಲ್ಪ ಹೊಗೆಯನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಏಕೆಂದರೆ, ಗಾಳಿಯ ಪೂರೈಕೆ ಸೀಮಿತವಾಗಿದೆ. ಚಿಮಣಿಯೊಳಗಿರುವ ಸ್ವಲ್ಪ ಗಾಳಿ ಮಾತ್ರ ದಹನಕ್ಕೆ ಲಭ್ಯವಿದೆ, ಆದರೆ ಹೊಸ ಗಾಳಿ ಬರುತ್ತಿಲ್ಲ. ಹಾಗಾಗಿ ಜ್ವಾಲೆಗೆ ಉಸಿರುಗಟ್ಟಿದಂತಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಹಂತಕ್ಕೆ ಹೋಗೋಣ. ಚಿಮಣಿಯ ಕೆಳಗಿರುವ ಮರದ ತುಂಡುಗಳನ್ನು ನಿಧಾನವಾಗಿ ತೆಗೆದುಹಾಕಿ. ಈಗ ಚಿಮಣಿಯು ನೇರವಾಗಿ ಮೇಜಿನ ಮೇಲೆ ನಿಂತಿದೆ. ಇದರಿಂದ ಕೆಳಗಿನಿಂದ ಗಾಳಿ ಬರುವ ದಾರಿ ಮುಚ್ಚಿಹೋಗುತ್ತದೆ. ಈಗ ಜ್ವಾಲೆಯನ್ನು ಗಮನಿಸಿ. ಏನಾಗುತ್ತಿದೆ? ಜ್ವಾಲೆಯು ಮಿಣುಕಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ, ಅಸ್ಥಿರವಾಗುತ್ತದೆ ಮತ್ತು ಸ್ವಲ್ಪ ಹೊಗೆಯನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಏಕೆಂದರೆ, ಗಾಳಿಯ ಪೂರೈಕೆ ಸೀಮಿತವಾಗಿದೆ. ಚಿಮಣಿಯೊಳಗಿರುವ ಸ್ವಲ್ಪ ಗಾಳಿ ಮಾತ್ರ ದಹನಕ್ಕೆ ಲಭ್ಯವಿದೆ, ಆದರೆ ಹೊಸ ಗಾಳಿ ಬರುತ್ತಿಲ್ಲ. ಹಾಗಾಗಿ ಜ್ವಾಲೆಗೆ ಉಸಿರುಗಟ್ಟಿದಂತಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮರದ ತುಂಡುಗಳನ್ನು ತೆಗೆದು, ಚಿಮಣಿಯನ್ನು ನೇರವಾಗಿ ಮೇಜಿನ ಮೇಲಿಡಿ.",
+    "ಗಮನಿಸುವಿಕೆ: ಜ್ವಾಲೆಯು ಮಿಣುಕುತ್ತದೆ ಮತ್ತು ಹೊಗೆ ಬರುತ್ತದೆ.",
+    "ಕಾರಣ: ಕೆಳಗಿನಿಂದ ಗಾಳಿಯ ಪೂರೈಕೆ ನಿಂತುಹೋಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Diagram showing the same setup, but the wooden blocks are removed. The glass chimney rests directly on the table. The flame is shown flickering and producing smoke.",
+    "labels": "ಮಿಣುಕುವ ಜ್ವಾಲೆ, ಹೊಗೆ, ಗಾಳಿಯ ಪೂರೈಕೆ ಸ್ಥಗಿತ",
+    "scientific_significance": "Shows that a limited supply of air leads to incomplete and unstable combustion.",
+    "placeholder_note": "Image for step 2 of the experiment."
+  },
+  "chunk_id": "std_8_chapter_4_concept_2_chunk_011"
+}

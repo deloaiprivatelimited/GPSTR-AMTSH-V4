@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಧನಾಗ್ರ ಕ್ರಿಯೆಯ ಸಮೀಕರಣ",
+  "script": "ಧನಾಗ್ರದಲ್ಲಿ, ಎರಡು ಕ್ಲೋರೈಡ್ ಅಯಾನುಗಳು, ಅಂದರೆ two C l minus, ಒಂದು ಕ್ಲೋರಿನ್ ಅಣು, ಅಂದರೆ C l two, ಮತ್ತು ಎರಡು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ನೀಡುತ್ತವೆ. ಇದು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ನಷ್ಟವಾಗಿರುವುದರಿಂದ, ಇದೊಂದು ಉತ್ಕರ್ಷಣ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "script_display": "ಧನಾಗ್ರದಲ್ಲಿ, ಎರಡು ಕ್ಲೋರೈಡ್ ಅಯಾನುಗಳು (2Cl⁻) ಒಂದು ಕ್ಲೋರಿನ್ ಅಣು (Cl₂) ಮತ್ತು ಎರಡು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು (2e⁻) ನೀಡುತ್ತವೆ. ಇದು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ನಷ್ಟವಾಗಿರುವುದರಿಂದ, ಇದೊಂದು ಉತ್ಕರ್ಷಣ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_center_full",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2Cl⁻ → Cl₂ + 2e⁻",
+    "placeholder_note": "The chemical equation for the oxidation of chloride ions at the anode."
+  },
+  "chunk_id": "std_10_chapter_3_concept_10_chunk_024"
+}

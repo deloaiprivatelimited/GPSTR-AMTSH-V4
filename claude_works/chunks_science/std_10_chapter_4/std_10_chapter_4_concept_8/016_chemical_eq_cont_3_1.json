@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಎಥನಾಲ್‌ನ ಉತ್ಕರ್ಷಣೆ: ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಇಲ್ಲಿ ಎಥನಾಲ್‌ನ ಉತ್ಕರ್ಷಣೆಯ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಸಿ ಎಚ್ ತ್ರೀ ಸಿ ಎಚ್ ಟು ಓ ಎಚ್, ಅಂದರೆ ಎಥನಾಲ್, ಕ್ಷಾರೀಯ ಪೊಟ್ಯಾಸಿಯಂ ಪರ್ಮಾಂಗನೇಟ್ ಮತ್ತು ಶಾಖದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ, ಸಿ ಎಚ್ ತ್ರೀ ಸಿ ಓ ಓ ಎಚ್, ಅಂದರೆ ಎಥನೋಯಿಕ್ ಆಮ್ಲವಾಗಿ ಪರಿವರ್ತನೆಗೊಳ್ಳುತ್ತದೆ. ಇಲ್ಲಿ ಬಾಣದ ಗುರುತಿನ ಮೇಲಿರುವುದು ಕ್ರಿಯೆ ನಡೆಯಲು ಬೇಕಾದ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "script_display": "ಇಲ್ಲಿ ಎಥನಾಲ್‌ನ ಉತ್ಕರ್ಷಣೆಯ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. $CH_3-CH_2OH$ (ಎಥನಾಲ್), ಕ್ಷಾರೀಯ ಪೊಟ್ಯಾಸಿಯಂ ಪರ್ಮಾಂಗನೇಟ್ ($KMnO_4$) ಮತ್ತು ಶಾಖದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ, $CH_3COOH$ (ಎಥನೋಯಿಕ್ ಆಮ್ಲ) ಆಗಿ ಪರಿವರ್ತನೆಗೊಳ್ಳುತ್ತದೆ. ಇಲ್ಲಿ ಬಾಣದ ಗುರುತಿನ ಮೇಲಿರುವುದು ಕ್ರಿಯೆ ನಡೆಯಲು ಬೇಕಾದ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "dark_contrast",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CH_3-CH_2OH \\xrightarrow{\\text{ಕ್ಷಾರೀಯ } KMnO_4 + \\text{ಶಾಖ}} CH_3COOH",
+    "placeholder_note": "Chemical equation for the oxidation of ethanol."
+  },
+  "chunk_id": "std_10_chapter_4_concept_8_chunk_016"
+}

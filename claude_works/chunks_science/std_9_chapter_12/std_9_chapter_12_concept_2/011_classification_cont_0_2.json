@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "2. ಅಂತರ ಪ್ರಭೇದ ಸಂಕರಣ (Inter-specific)",
+  "script": "ಎರಡನೆಯ ವಿಧ, ಅಂತರ ಪ್ರಭೇದ ಸಂಕರಣ. ಇಲ್ಲಿ, ಒಂದೇ ಜಾತಿಗೆ ಸೇರಿದ ಆದರೆ ಬೇರೆ ಬೇರೆ ಪ್ರಭೇದಗಳ ಸಸ್ಯಗಳ ನಡುವೆ ಸಂಕರಣ ನಡೆಸಲಾಗುತ್ತದೆ. ಇದು ಅಂತರ ತಳೀಯ ಸಂಕರಣಕ್ಕಿಂತ ಸ್ವಲ್ಪ ಹೆಚ್ಚು ಕಷ್ಟಕರ. ಉದಾಹರಣೆಗೆ, ವಾಣಿಜ್ಯ ಉದ್ದೇಶಕ್ಕೆ ಬೆಳೆಯುವ ಹತ್ತಿ ಪ್ರಭೇದವನ್ನು, ಕೀಟ ನಿರೋಧಕತೆ ಹೊಂದಿರುವ ಕಾಡು ಹತ್ತಿ ಪ್ರಭೇದದೊಂದಿಗೆ ಸಂಕರಿಸಬಹುದು. ಇದರ ಮುಖ್ಯ ಗುರಿ, ಒಂದು ಪ್ರಭೇದದಲ್ಲಿ ಇಲ್ಲದಿರುವ ಹೊಸ ಮತ್ತು ಉಪಯುಕ್ತ ಗುಣವನ್ನು, ಅದರ ಹತ್ತಿರದ ಸಂಬಂಧಿ ಪ್ರಭೇದದಿಂದ ವರ್ಗಾಯಿಸುವುದಾಗಿದೆ.",
+  "script_display": "ಎರಡನೆಯ ವಿಧ, ಅಂತರ ಪ್ರಭೇದ ಸಂಕರಣ (Inter-specific). ಇಲ್ಲಿ, ಒಂದೇ ಜಾತಿಗೆ (genus) ಸೇರಿದ ಆದರೆ ಬೇರೆ ಬೇರೆ ಪ್ರಭೇದಗಳ (species) ಸಸ್ಯಗಳ ನಡುವೆ ಸಂಕರಣ ನಡೆಸಲಾಗುತ್ತದೆ. ಇದು ಅಂತರ ತಳೀಯ ಸಂಕರಣಕ್ಕಿಂತ ಸ್ವಲ್ಪ ಹೆಚ್ಚು ಕಷ್ಟಕರ. ಉದಾಹರಣೆಗೆ, ವಾಣಿಜ್ಯ ಉದ್ದೇಶಕ್ಕೆ ಬೆಳೆಯುವ ಹತ್ತಿ ಪ್ರಭೇದವನ್ನು, ಕೀಟ ನಿರೋಧಕತೆ ಹೊಂದಿರುವ ಕಾಡು ಹತ್ತಿ ಪ್ರಭೇದದೊಂದಿಗೆ ಸಂಕರಿಸಬಹುದು. ಇದರ ಮುಖ್ಯ ಗುರಿ, ಒಂದು ಪ್ರಭೇದದಲ್ಲಿ ಇಲ್ಲದಿರುವ ಹೊಸ ಮತ್ತು ಉಪಯುಕ್ತ ಗುಣವನ್ನು, ಅದರ ಹತ್ತಿರದ ಸಂಬಂಧಿ ಪ್ರಭೇದದಿಂದ ವರ್ಗಾಯಿಸುವುದಾಗಿದೆ.",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯೆ: ಒಂದೇ ಜಾತಿಗೆ (genus) ಸೇರಿದ ಎರಡು ವಿಭಿನ್ನ ಪ್ರಭೇದಗಳ (species) ನಡುವಿನ ಸಂಕರಣ.",
+    "ಉದಾಹರಣೆ: ಒಂದು ಜಾತಿಯ ಹತ್ತಿಯ ಬೇರೆ ಬೇರೆ ಪ್ರಭೇದಗಳ ನಡುವೆ ಸಂಕರಣ.",
+    "ಉದ್ದೇಶ: ಒಂದು ಪ್ರಭೇದದಿಂದ ಇನ್ನೊಂದು ಪ್ರಭೇದಕ್ಕೆ ಹೊಸ ಗುಣಲಕ್ಷಣಗಳನ್ನು (ಉದಾ: ಕೀಟ ನಿರೋಧಕತೆ) ವರ್ಗಾಯಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing two visually distinct plants from the same genus (e.g., cotton). Plant A is labeled 'ವಾಣಿಜ್ಯ ಪ್ರಭೇದ' (Commercial Species). Plant B is labeled 'ಕಾಡು ಪ್ರಭೇದ (ಕೀಟ ನಿರೋಧಕ)' (Wild Species (Pest Resistant)). An arrow points from both to a new Plant C, labeled 'ಹೊಸ ಸಂಕರ ಪ್ರಭೇದ' (New Hybrid Species).",
+    "labels": "Cotton Species A, Cotton Species B, New Hybrid Species",
+    "scientific_significance": "Illustrates inter-specific hybridization, where traits are transferred between different species within the same genus.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_2_chunk_011"
+}

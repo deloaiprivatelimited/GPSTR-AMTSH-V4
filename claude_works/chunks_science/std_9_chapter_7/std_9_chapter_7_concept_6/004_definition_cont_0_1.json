@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಜವ ಸ್ಥಿರ, ಆದರೆ ವೇಗದ ದಿಕ್ಕು ಬದಲು",
+  "script": "ಏಕರೂಪ ವೃತ್ತೀಯ ಚಲನೆಯಲ್ಲಿ ಒಂದು ಕುತೂಹಲಕಾರಿ ಅಂಶವಿದೆ. ವಸ್ತುವಿನ ಜವ ಸ್ಥಿರವಾಗಿದ್ದರೂ, ಅದರ ವೇಗದ ದಿಕ್ಕು ಪ್ರತಿ ಕ್ಷಣವೂ ಬದಲಾಗುತ್ತಿರುತ್ತದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ವಸ್ತುವು ವೃತ್ತಾಕಾರದ ಪಥದಲ್ಲಿ ಚಲಿಸುವಾಗ, ಯಾವುದೇ ಬಿಂದುವಿನಲ್ಲಿ ಅದರ ವೇಗದ ದಿಕ್ಕು ಆ ಬಿಂದುವಿಗೆ ಎಳೆದ ಸ್ಪರ್ಶಕದ ದಿಕ್ಕಿನಲ್ಲಿರುತ್ತದೆ. ವಸ್ತುವು A ಯಿಂದ B ಗೆ, ನಂತರ C ಗೆ ಚಲಿಸಿದಾಗ, ಅದರ ವೇಗದ ದಿಕ್ಕು ನಿರಂತರವಾಗಿ ಬದಲಾಗುತ್ತಿರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಆದ್ದರಿಂದ, ಜವದ ಪರಿಮಾಣ ಸ್ಥಿರವಾಗಿದ್ದರೂ, ವೇಗವು ಸ್ಥಿರವಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಅದರ ದಿಕ್ಕು ಬದಲಾಗುತ್ತಿದೆ.",
+  "script_display": "ಏಕರೂಪ ವೃತ್ತೀಯ ಚಲನೆಯಲ್ಲಿ ಒಂದು ಕುತೂಹಲಕಾರಿ ಅಂಶವಿದೆ. ವಸ್ತುವಿನ ಜವ (speed) ಸ್ಥಿರವಾಗಿದ್ದರೂ, ಅದರ ವೇಗದ (velocity) ದಿಕ್ಕು ಪ್ರತಿ ಕ್ಷಣವೂ ಬದಲಾಗುತ್ತಿರುತ್ತದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ವಸ್ತುವು ವೃತ್ತಾಕಾರದ ಪಥದಲ್ಲಿ ಚಲಿಸುವಾಗ, ಯಾವುದೇ ಬಿಂದುವಿನಲ್ಲಿ ಅದರ ವೇಗದ ದಿಕ್ಕು ಆ ಬಿಂದುವಿಗೆ ಎಳೆದ ಸ್ಪರ್ಶಕದ (tangent) ದಿಕ್ಕಿನಲ್ಲಿರುತ್ತದೆ. ವಸ್ತುವು A ಯಿಂದ B ಗೆ, ನಂತರ C ಗೆ ಚಲಿಸಿದಾಗ, ಅದರ ವೇಗದ ದಿಕ್ಕು ನಿರಂತರವಾಗಿ ಬದಲಾಗುತ್ತಿರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಆದ್ದರಿಂದ, ಜವದ ಪರಿಮಾಣ ಸ್ಥಿರವಾಗಿದ್ದರೂ, ವೇಗವು ಸ್ಥಿರವಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಅದರ ದಿಕ್ಕು ಬದಲಾಗುತ್ತಿದೆ.",
+  "display_bullets": [
+    "ವಸ್ತುವಿನ ಜವ (speed) ಸ್ಥಿರವಾಗಿರುತ್ತದೆ.",
+    "ವೇಗದ ದಿಕ್ಕು (direction of velocity) ಪ್ರತಿ ಬಿಂದುವಿನಲ್ಲಿ ಬದಲಾಗುತ್ತದೆ.",
+    "ದಿಕ್ಕು ಆ ಬಿಂದುವಿಗೆ ಎಳೆದ ಸ್ಪರ್ಶಕದ (tangent) ದಿಕ್ಕಿನಲ್ಲಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An object moving in a circular path. At four different points (A, B, C, D) on the circle, a velocity vector arrow of the same length points tangent to the circle, showing constant speed but changing direction.",
+    "labels": "ವೃತ್ತಾಕಾರದ ಪಥ, ವೇಗದ ದಿಕ್ಕು (A, B, C, D)",
+    "scientific_significance": "Illustrates that in uniform circular motion, the velocity vector is always tangent to the path and its direction continuously changes, even though its magnitude (speed) is constant.",
+    "placeholder_note": "Image to be generated showing a circle with a moving object and tangent velocity vectors at multiple points."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_7_concept_6_chunk_004"
+}

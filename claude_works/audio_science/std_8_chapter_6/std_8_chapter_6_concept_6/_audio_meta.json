@@ -1,0 +1,125 @@
+{
+  "module_id": "std_8_chapter_6_concept_6",
+  "chapter_code": "std_8_chapter_6",
+  "voice": "Pulcherrima",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:02:57",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "c5258784de3b9745d01eb9cd35b6b0d3",
+      "wav_file": "001_intro_0.wav",
+      "duration": 41.131,
+      "slide_title": "ರೂಪಪರಿವರ್ತನೆ",
+      "type": "intro",
+      "script_words": 53,
+      "generated_at": "2026-04-02 15:01:36"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "7e8dec0aefb7d158b2d403e0d04e42f4",
+      "wav_file": "003_definition_0.wav",
+      "duration": 41.491,
+      "slide_title": "ರೂಪಪರಿವರ್ತನೆ (Metamorphosis)",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 15:01:42"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "244013279a2cbe0ff2edfcbc1ac47c1f",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 53.611,
+      "slide_title": "ಉದಾಹರಣೆ: ಕಪ್ಪೆಯ ಜೀವನ ಚಕ್ರ",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 15:01:46"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "71df2989be32ac9f4df2636bb7d6b85b",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 24.051,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 35,
+      "generated_at": "2026-04-02 15:01:51"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "28035d3a30b81a582597b72b4fc8a88b",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 43.011,
+      "slide_title": "ಹೋಲಿಕೆ: ರೂಪಪರಿವರ್ತನೆ ಇದೆಯೇ ಅಥವಾ ಇಲ್ಲವೇ?",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 15:02:11"
+    },
+    "007_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "ee9a33ef9ccd5723ecab766fa29ec60b",
+      "wav_file": "007_example_cont_0_1.wav",
+      "duration": 23.931,
+      "slide_title": "ಹಂತಗಳು 1-2: ಮೊಟ್ಟೆ ಮತ್ತು ಗೊದಮೊಟ್ಟೆ",
+      "type": "worked_example",
+      "script_words": 32,
+      "generated_at": "2026-04-02 15:02:21"
+    },
+    "009_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "30ed32c3fb5195d749cab7cad6f1d4b1",
+      "wav_file": "009_example_cont_0_3.wav",
+      "duration": 29.771,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "script_words": 37,
+      "generated_at": "2026-04-02 15:02:25"
+    },
+    "008_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "3c4806ea5c646cf084a492bc612afd62",
+      "wav_file": "008_example_cont_0_2.wav",
+      "duration": 31.731,
+      "slide_title": "ಹಂತಗಳು 3-4: ರೂಪಪರಿವರ್ತನೆ ಮತ್ತು ಪ್ರೌಢ ಕಪ್ಪೆ",
+      "type": "worked_example",
+      "script_words": 35,
+      "generated_at": "2026-04-02 15:02:30"
+    },
+    "006_example_0.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "df79fea9dd808dbfcf92f0c82567fe8a",
+      "wav_file": "006_example_0.wav",
+      "duration": 17.531,
+      "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಕಪ್ಪೆಯ ಜೀವನ ಚಕ್ರ",
+      "type": "worked_example",
+      "script_words": 23,
+      "generated_at": "2026-04-02 15:02:49"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Pulcherrima",
+      "script_hash": "02db93d14664b8e4c27c34762597e926",
+      "wav_file": "010_recap_0.wav",
+      "duration": 36.571,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 46,
+      "generated_at": "2026-04-02 15:02:57"
+    }
+  }
+}

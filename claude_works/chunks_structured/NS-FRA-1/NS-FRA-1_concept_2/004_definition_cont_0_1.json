@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮ ಭಿನ್ನರಾಶಿ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎರಡು ಬೈ ಮೂರು ಎಂಬ ಭಿನ್ನರಾಶಿಯನ್ನು ಪರಿಗಣಿಸಿ. ಇಲ್ಲಿ ಅಂಶ ಎರಡು ಮತ್ತು ಛೇದ ಮೂರು ಆಗಿದೆ. ನೀವು ಗಮನಿಸಬಹುದು, ಅಂಶ ಎರಡು, ಛೇದ ಮೂರಕ್ಕಿಂತ ಚಿಕ್ಕದಾಗಿದೆ. ಆದ್ದರಿಂದ, ನಮ್ಮ ನಿಯಮದ ಪ್ರಕಾರ, ಎರಡು ಬೈ ಮೂರು ಒಂದು ಸಮ ಭಿನ್ನರಾಶಿಯಾಗಿದೆ. ಇದನ್ನು ಚಿತ್ರದಲ್ಲಿ ನೋಡಿದಾಗ, ಒಂದು ವಸ್ತುವನ್ನು ಮೂರು ಸಮ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿ, ಅದರಲ್ಲಿ ಎರಡು ಭಾಗಗಳನ್ನು ನಾವು ಪರಿಗಣಿಸುತ್ತಿದ್ದೇವೆ ಎಂದು ಅರ್ಥ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. $\\frac{2}{3}$ ಎಂಬ ಭಿನ್ನರಾಶಿಯನ್ನು ಪರಿಗಣಿಸಿ. ಇಲ್ಲಿ ಅಂಶ $2$ ಮತ್ತು ಛೇದ $3$ ಆಗಿದೆ. ನೀವು ಗಮನಿಸಬಹುದು, ಅಂಶ $2$, ಛೇದ $3$ಕ್ಕಿಂತ ಚಿಕ್ಕದಾಗಿದೆ. ಆದ್ದರಿಂದ, ನಮ್ಮ ನಿಯಮದ ಪ್ರಕಾರ, $\\frac{2}{3}$ ಒಂದು ಸಮ ಭಿನ್ನರಾಶಿಯಾಗಿದೆ. ಇದನ್ನು ಚಿತ್ರದಲ್ಲಿ ನೋಡಿದಾಗ, ಒಂದು ವಸ್ತುವನ್ನು ಮೂರು ಸಮ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿ, ಅದರಲ್ಲಿ ಎರಡು ಭಾಗಗಳನ್ನು ನಾವು ಪರಿಗಣಿಸುತ್ತಿದ್ದೇವೆ ಎಂದು ಅರ್ಥ.",
+  "display_bullets": [
+    "ಭಿನ್ನರಾಶಿ $\\frac{2}{3}$ ಅನ್ನು ಪರಿಗಣಿಸಿ.",
+    "ಇಲ್ಲಿ, ಅಂಶ ($2$) < ಛೇದ ($3$).",
+    "ಆದ್ದರಿಂದ, $\\frac{2}{3}$ ಒಂದು ಸಮ ಭಿನ್ನರಾಶಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A circle divided into 3 equal sectors. Two of the sectors are shaded in blue. The fraction 2/3 is written next to it.",
+    "labels": "shaded part, unshaded part, whole circle",
+    "mathematical_significance": "Visually represents the proper fraction 2/3, showing a part of a whole.",
+    "placeholder_note": "Generate a diagram of a circle with 2/3 shaded."
+  },
+  "chunk_id": "NS-FRA-1_concept_2_chunk_004"
+}

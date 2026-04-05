@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಎಟಿಪಿ-ಎಡಿಪಿ ಚಕ್ರ: ಒಂದು ಪುನರ್ಭರ್ತಿ ಮಾಡಬಹುದಾದ ಬ್ಯಾಟರಿ",
+  "script": "ಎಟಿಪಿ ಯನ್ನು ಒಂದು ಪುನರ್ಭರ್ತಿ ಮಾಡಬಹುದಾದ ಬ್ಯಾಟರಿಯಂತೆ ಕಲ್ಪಿಸಿಕೊಳ್ಳಬಹುದು. ಶಕ್ತಿಯು ಬಳಕೆಯಾದಾಗ, ಎಟಿಪಿ ಯು ಎಡಿಪಿ ಆಗಿ ಬದಲಾಗುತ್ತದೆ, ಇದು ಖಾಲಿಯಾದ ಬ್ಯಾಟರಿಯಂತೆ. ಇದನ್ನು ನಾವು ಶಕ್ತಿ ಬಳಕೆ ಎಂದು ಹೇಳಬಹುದು. ಆದರೆ ನಮ್ಮ ದೇಹವು ಈ ಖಾಲಿಯಾದ ಬ್ಯಾಟರಿಯನ್ನು ಬಿಸಾಡುವುದಿಲ್ಲ. ನಾವು ಸೇವಿಸುವ ಆಹಾರದಿಂದ, ಅಂದರೆ ಗ್ಲುಕೋಸ್ ನ ವಿಭಜನೆಯಿಂದ, ಸಿಗುವ ಶಕ್ತಿಯನ್ನು ಬಳಸಿ, ಎಡಿಪಿ ಗೆ ಮತ್ತೊಂದು ಫಾಸ್ಫೇಟ್ ಗುಂಪನ್ನು ಸೇರಿಸುತ್ತದೆ. ಇದು ಶಕ್ತಿ ಉತ್ಪಾದನೆ. ಈ ಕ್ರಿಯೆಯಿಂದ ಎಡಿಪಿ ಯು ಮತ್ತೆ ಪೂರ್ತಿ ಚಾರ್ಜ್ ಆದ ಎಟಿಪಿ ಬ್ಯಾಟರಿಯಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಈ ಚಕ್ರವು ಜೀವಕೋಶಗಳಲ್ಲಿ ನಿರಂತರವಾಗಿ ನಡೆಯುತ್ತದೆ, ಹೀಗೆ ಶಕ್ತಿಯನ್ನು ಸದಾ ಲಭ್ಯವಾಗುವಂತೆ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ATPಯನ್ನು ಒಂದು ಪುನರ್ಭರ್ತಿ ಮಾಡಬಹುದಾದ ಬ್ಯಾಟರಿಯಂತೆ (rechargeable battery) ಕಲ್ಪಿಸಿಕೊಳ್ಳಬಹುದು. ಈ ಚಕ್ರವು ಜೀವಕೋಶಗಳಲ್ಲಿ ನಿರಂತರವಾಗಿ ನಡೆಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ಶಕ್ತಿ ಬಳಕೆ (Energy Spending): ATP → ADP + Pi + ಶಕ್ತಿ (ಬ್ಯಾಟರಿ ಖಾಲಿ)",
+    "ಶಕ್ತಿ ಉತ್ಪಾದನೆ (Energy Charging): ADP + Pi + ಆಹಾರದ ಶಕ್ತಿ → ATP (ಬ್ಯಾಟರಿ ಚಾರ್ಜ್)"
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "classic",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A circular diagram showing the ATP-ADP cycle. On the top, an arrow goes from ATP to ADP + Pi, releasing energy for cellular work (labeled 'Energy for cells'). On the bottom, an arrow goes from ADP + Pi to ATP, requiring energy from food breakdown (labeled 'Energy from food'). The overall diagram looks like a rechargeable battery cycle.",
+    "labels": "ATP, ADP, Energy release, Energy input, Cellular work, Food breakdown",
+    "scientific_significance": "Represents the central role of ATP as a renewable energy carrier, linking catabolic (energy-releasing) and anabolic (energy-consuming) processes.",
+    "placeholder_note": "Image to be generated for ATP-ADP cycle"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_10_chapter_5_concept_5_chunk_014"
+}

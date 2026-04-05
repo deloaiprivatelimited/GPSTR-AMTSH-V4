@@ -1,0 +1,111 @@
+{
+  "module_id": "NS-INT-1_concept_2",
+  "voice": "Sadaltager",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 9,
+  "total_duration": 403.539,
+  "total_duration_formatted": "6:43",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "NS-INT-1_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಪೂರ್ಣಾಂಕಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 58.291,
+      "duration": 58.291,
+      "script_words": 89
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 58.891,
+      "end": 81.062,
+      "duration": 22.171,
+      "script_words": 36
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_2_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಪೂರ್ಣಾಂಕಗಳ ನಿರೂಪಣೆ",
+      "type": "concept_explanation",
+      "start": 81.662,
+      "end": 131.753,
+      "duration": 50.091,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_2_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ಣಾಂಕಗಳ ಹೋಲಿಕೆ (ಭಾಗ 1)",
+      "type": "concept_explanation",
+      "start": 132.353,
+      "end": 177.004,
+      "duration": 44.651,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_2_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ಪೂರ್ಣಾಂಕಗಳ ಹೋಲಿಕೆ (ಭಾಗ 2)",
+      "type": "concept_explanation",
+      "start": 177.604,
+      "end": 217.375,
+      "duration": 39.771,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_2_chunk_006",
+      "chunk_file": "006_property_cont_0_3.json",
+      "wav_file": "006_property_cont_0_3.wav",
+      "slide_title": "ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಸಂಕಲನ",
+      "type": "concept_explanation",
+      "start": 217.975,
+      "end": 266.746,
+      "duration": 48.771,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_2_chunk_007",
+      "chunk_file": "007_property_1.json",
+      "wav_file": "007_property_1.wav",
+      "slide_title": "ವ್ಯವಕಲನ: ಧನ ಪೂರ್ಣಾಂಕವನ್ನು ಕಳೆಯುವುದು",
+      "type": "concept_explanation",
+      "start": 267.346,
+      "end": 313.317,
+      "duration": 45.971,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_2_chunk_008",
+      "chunk_file": "008_property_cont_1_1.json",
+      "wav_file": "008_property_cont_1_1.wav",
+      "slide_title": "ವ್ಯವಕಲನ: ಋಣ ಪೂರ್ಣಾಂಕವನ್ನು ಕಳೆಯುವುದು",
+      "type": "concept_explanation",
+      "start": 313.917,
+      "end": 356.768,
+      "duration": 42.851,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "NS-INT-1_concept_2_chunk_009",
+      "chunk_file": "009_recap_0.json",
+      "wav_file": "009_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಸಂಖ್ಯಾ ರೇಖೆ",
+      "type": "recap",
+      "start": 357.368,
+      "end": 402.939,
+      "duration": 45.571,
+      "script_words": 61
+    }
+  ]
+}

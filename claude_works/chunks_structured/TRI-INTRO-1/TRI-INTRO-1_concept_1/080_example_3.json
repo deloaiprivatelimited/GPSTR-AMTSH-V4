@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ತ್ರಿಭುಜ ಎಸಿಬಿ ಯಲ್ಲಿ, ಸಿ ಯಲ್ಲಿ ಲಂಬಕೋನವಿದೆ. ಎಬಿ ಯ ಉದ್ದ 29 ಮಾನಗಳು, ಬಿಸಿ ಯ ಉದ್ದ 21 ಮಾನಗಳು, ಮತ್ತು ಕೋನ ಎಬಿಸಿ ಯು ತೀಟಾ ಆಗಿದೆ. ನಾವು ಕಾಸ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಪ್ಲಸ್ ಸೈನ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಮತ್ತು ಕಾಸ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಮೈನಸ್ ಸೈನ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ, ಈ ಎರಡು ಅಭಿವ್ಯಕ್ತಿಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು, ನಮಗೆ ಏನು ಕೊಟ್ಟಿದ್ದಾರೆ ಮತ್ತು ನಾವು ಏನು ಕಂಡುಹಿಡಿಯಬೇಕು ಎಂಬುದನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $\\Delta ACB$ ಯಲ್ಲಿ, C ಯಲ್ಲಿ ಲಂಬಕೋನವಿದೆ. AB ಯ ಉದ್ದ 29 ಮಾನಗಳು, BC ಯ ಉದ್ದ 21 ಮಾನಗಳು, ಮತ್ತು $\\angle ABC = \\theta$ ಆಗಿದೆ. ನಾವು i) $\\cos^2 \\theta + \\sin^2 \\theta$ ಮತ್ತು ii) $\\cos^2 \\theta - \\sin^2 \\theta$, ಈ ಎರಡು ಅಭಿವ್ಯಕ್ತಿಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲು, ನಮಗೆ ಏನು ಕೊಟ್ಟಿದ್ದಾರೆ ಮತ್ತು ನಾವು ಏನು ಕಂಡುಹಿಡಿಯಬೇಕು ಎಂಬುದನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ಲಂಬಕೋನ ತ್ರಿಭುಜ ACB, C ಯಲ್ಲಿ ಲಂಬಕೋನ.",
+    "AB = 29, BC = 21, $\\angle ABC = \\theta$.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: i) $\\cos^2 \\theta + \\sin^2 \\theta$ ಮತ್ತು ii) $\\cos^2 \\theta - \\sin^2 \\theta$ ದ ಬೆಲೆಗಳು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ACB, C ಯಲ್ಲಿ ಲಂಬಕೋನವಿದೆ. ವಿಕರ್ಣ AB = 29, ಬಾಹು BC = 21. ಕೋನ B ಯನ್ನು θ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಬಾಹು AC ಯ ಉದ್ದವನ್ನು ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯಿಂದ ಸೂಚಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, C, θ, 29, 21, ?",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯಲ್ಲಿ ವಿವರಿಸಿದ ತ್ರಿಭುಜದ ದೃಶ್ಯ ನಿರೂಪಣೆ. ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಬಳಸಿಕೊಂಡು ಮೂರನೇ ಬಾಹುವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಮತ್ತು ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲು ಇದು ಆಧಾರವಾಗಿದೆ.",
+    "placeholder_note": "Image to be generated for triangle ACB with right angle at C, hypotenuse AB=29, side BC=21, and angle ABC marked as theta."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-INTRO-1_example_3",
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_080"
+}

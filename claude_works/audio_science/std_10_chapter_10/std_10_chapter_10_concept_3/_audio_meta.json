@@ -1,0 +1,147 @@
+{
+  "module_id": "std_10_chapter_10_concept_3",
+  "chapter_code": "std_10_chapter_10",
+  "voice": "Kore",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:15:40",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "865030c26f3c943eb5234d3c2893a8e0",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 40.251,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisite",
+      "script_words": 56,
+      "generated_at": "2026-04-02 11:13:36"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "b31476c1c1978b3f60006357dacde02c",
+      "wav_file": "003_classification_0.wav",
+      "duration": 46.691,
+      "slide_title": "ದೃಷ್ಟಿ ದೋಷಗಳು: ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 48,
+      "generated_at": "2026-04-02 11:13:38"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "3e4379ef075741352fdda23cecc03d5c",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 48.611,
+      "slide_title": "ಸಮೀಪದೃಷ್ಟಿ (Myopia)",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:13:41"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "d56d996125d738de59d254ab810c8fd3",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 51.971,
+      "slide_title": "ದೂರದೃಷ್ಟಿ (Hypermetropia)",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 11:13:45"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "8102efc2f645d0528ba3ec4f3b9a3ab9",
+      "wav_file": "001_intro_0.wav",
+      "duration": 51.211,
+      "slide_title": "ದೃಷ್ಟಿ ದೋಷಗಳು ಮತ್ತು ಅವುಗಳ ಸರಿಪಡಿಸುವಿಕೆ",
+      "type": "intro",
+      "script_words": 74,
+      "generated_at": "2026-04-02 11:13:58"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "b92ec7fb35cd293c39a1c50922879095",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 46.091,
+      "slide_title": "ಪ್ರಿಸ್‌ಬಯೋಪಿಯಾ (Presbyopia)",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 11:14:34"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "2ec39d332de851edbb5ca19aa6e89489",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 42.691,
+      "slide_title": "ಕಣ್ಣಿನ ಪೊರೆ (Cataract)",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 11:14:37"
+    },
+    "009_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "c2c229c33bd30172742e0f2eb2f8069a",
+      "wav_file": "009_example_cont_0_1.wav",
+      "duration": 53.891,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "script_words": 68,
+      "generated_at": "2026-04-02 11:14:46"
+    },
+    "008_example_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "58a6692511f5abf77d3db63342a9aba7",
+      "wav_file": "008_example_0.wav",
+      "duration": 53.371,
+      "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಸಮೀಪದೃಷ್ಟಿ ದೋಷ",
+      "type": "worked_example",
+      "script_words": 73,
+      "generated_at": "2026-04-02 11:14:50"
+    },
+    "010_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "9c4a1e4cb61a8ebbcffebf5f726d6511",
+      "wav_file": "010_example_cont_0_2.wav",
+      "duration": 63.931,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+      "type": "worked_example",
+      "script_words": 86,
+      "generated_at": "2026-04-02 11:14:56"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "19c573d3a687d9140aa45d41064558ab",
+      "wav_file": "012_recap_0.wav",
+      "duration": 33.571,
+      "slide_title": "ದೃಷ್ಟಿ ದೋಷಗಳು: ಒಂದು ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 45,
+      "generated_at": "2026-04-02 11:15:32"
+    },
+    "011_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "ee5d7a961ee5bba31984a089bf8592ee",
+      "wav_file": "011_example_cont_0_3.wav",
+      "duration": 47.331,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "script_words": 55,
+      "generated_at": "2026-04-02 11:15:40"
+    }
+  }
+}

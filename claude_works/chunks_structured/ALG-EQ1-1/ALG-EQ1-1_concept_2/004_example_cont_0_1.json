@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i)",
+  "script": "ಮೊದಲ ಹೇಳಿಕೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. 'x' ನ ಮೂರರಷ್ಟು ಮತ್ತು 11 ರ ಮೊತ್ತ 32. ಮೊದಲ ಹಂತದಲ್ಲಿ, 'x' ನ ಮೂರರಷ್ಟನ್ನು ಬರೆಯೋಣ, ಅದು 3 ಗುಣಿಸು x, ಅಂದರೆ 3x. ಎರಡನೇ ಹಂತದಲ್ಲಿ, 3x ಮತ್ತು 11 ರ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ, ಅದು 3x ಪ್ಲಸ್ 11 ಆಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಈ ಮೊತ್ತವು 32 ಕ್ಕೆ ಸಮ ಎಂದು ಹೇಳಿರುವುದರಿಂದ, ನಮ್ಮ ಸಮೀಕರಣ 3x ಪ್ಲಸ್ 11 ಈಕ್ವಲ್ಸ್ 32.",
+  "script_display": "ಮೊದಲ ಹೇಳಿಕೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ: 'x' ನ ಮೂರರಷ್ಟು ಮತ್ತು 11 ರ ಮೊತ್ತ 32. ಮೊದಲ ಹಂತದಲ್ಲಿ, 'x' ನ ಮೂರರಷ್ಟನ್ನು ಬರೆಯೋಣ, ಅದು $3 \\times x$, ಅಂದರೆ $3x$. ಎರಡನೇ ಹಂತದಲ್ಲಿ, $3x$ ಮತ್ತು 11 ರ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ, ಅದು $3x + 11$ ಆಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಈ ಮೊತ್ತವು 32 ಕ್ಕೆ ಸಮ ಎಂದು ಹೇಳಿರುವುದರಿಂದ, ನಮ್ಮ ಸಮೀಕರಣ $3x + 11 = 32$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "ALG-EQ1-1_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "'x' ನ ಮೂರರಷ್ಟು: $3x$",
+      "justification": "ಮೂರರಷ್ಟು ಎಂದರೆ 3 ರಿಂದ ಗುಣಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$3x$ ಮತ್ತು 11 ರ ಮೊತ್ತ: $3x + 11$",
+      "justification": "ಮೊತ್ತ ಎಂದರೆ ಸಂಕಲನ."
+    },
+    {
+      "step": 3,
+      "action_display": "ಸಮೀಕರಣ: $3x + 11 = 32$",
+      "justification": "ಫಲಿತಾಂಶ 32 ಕ್ಕೆ ಸಮ."
+    }
+  ],
+  "chunk_id": "ALG-EQ1-1_concept_2_chunk_004"
+}

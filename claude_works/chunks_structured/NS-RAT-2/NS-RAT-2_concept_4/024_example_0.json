@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ವಿತರಣಾ ನಿಯಮದ ಬಳಕೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ ಒಂದು ಗಣಿತದ ಹೇಳಿಕೆಯನ್ನು ಸಂಕ್ಷೇಪಿಸಬೇಕು. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಹೇಳಿಕೆ: ಎರಡು ಭಾಗಲಬ್ಧ ಐದು ಗುಣಿಸು ಮೈನಸ್ ಮೂರು ಭಾಗಲಬ್ಧ ಏಳು, ಮೈನಸ್ ಒಂದು ಭಾಗಲಬ್ಧ ಹದಿನಾಲ್ಕು, ಮೈನಸ್ ಮೂರು ಭಾಗಲಬ್ಧ ಏಳು ಗುಣಿಸು ಮೂರು ಭಾಗಲಬ್ಧ ಐದು. ನಮ್ಮ ಗುರಿ ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ ಇದನ್ನು ಸಂಕ್ಷೇಪಿಸುವುದು. ಇಲ್ಲಿ ನಾವು ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ಗುರುತಿಸಿ, ಲೆಕ್ಕವನ್ನು ಸುಲಭ ಮಾಡಬಹುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ ಒಂದು ಗಣಿತದ ಹೇಳಿಕೆಯನ್ನು ಸಂಕ್ಷೇಪಿಸಬೇಕು. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಹೇಳಿಕೆ: $\\frac{2}{5} \\times \\frac{-3}{7} - \\frac{1}{14} - \\frac{3}{7} \\times \\frac{3}{5}$. ನಮ್ಮ ಗುರಿ ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ ಇದನ್ನು ಸಂಕ್ಷೇಪಿಸುವುದು. ಇಲ್ಲಿ ನಾವು ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ಗುರುತಿಸಿ, ಲೆಕ್ಕವನ್ನು ಸುಲಭ ಮಾಡಬಹುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $\\frac{2}{5} \\times \\frac{-3}{7} - \\frac{1}{14} - \\frac{3}{7} \\times \\frac{3}{5}$",
+    "ಗುರಿ: ವಿತರಣಾ ನಿಯಮ ಬಳಸಿ ಸಂಕ್ಷೇಪಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{2}{5} \\times \\frac{-3}{7} - \\frac{1}{14} - \\frac{3}{7} \\times \\frac{3}{5}",
+    "placeholder_note": "The problem statement displayed in a large, clear formula box."
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "NS-RAT-2_example_4",
+  "chunk_id": "NS-RAT-2_concept_4_chunk_024"
+}

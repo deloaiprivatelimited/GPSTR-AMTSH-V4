@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈಗ, ನಾವು ಕಲಿತ ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಒಂದು ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ರೂಪದಲ್ಲಿ ಬರೆಯೋಣ. ಇದು ಪರೀಕ್ಷಾದೃಷ್ಟಿಯಿಂದ ಬಹಳ ಮುಖ್ಯ. ಸಮೀಕರಣವು ಹೀಗಿದೆ: ಆರು ಅಣುಗಳ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೆಡ್ ಮತ್ತು ಆರು ಅಣುಗಳ ನೀರು, ಸೂರ್ಯನ ಬೆಳಕು ಮತ್ತು ಕ್ಲೋರೋಫಿಲ್ ನ ಸಮ್ಮುಖದಲ್ಲಿ ವರ್ತಿಸಿ, ಒಂದು ಅಣು ಗ್ಲೂಕೋಸ್, ಅಂದರೆ C six H twelve O six, ಮತ್ತು ಆರು ಅಣುಗಳ ಆಮ್ಲಜನಕವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಇಲ್ಲಿ ಗ್ಲೂಕೋಸ್ ಎಂಬುದು ಸಸ್ಯವು ತಯಾರಿಸಿದ ಆಹಾರ, ಇದು ಒಂದು ಬಗೆಯ ಕಾರ್ಬೊಹೈಡ್ರೇಟ್. ಆಮ್ಲಜನಕವು ಉಪ-ಉತ್ಪನ್ನವಾಗಿ ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ, ನಾವು ಕಲಿತ ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಒಂದು ರಾಸಾಯನಿಕ ಸಮೀಕರಣದ ರೂಪದಲ್ಲಿ ಬರೆಯೋಣ. ಇದು ಪರೀಕ್ಷಾದೃಷ್ಟಿಯಿಂದ ಬಹಳ ಮುಖ್ಯ. ಸಮೀಕರಣವು ಹೀಗಿದೆ: ಆರು ಅಣುಗಳ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೆಡ್ (6CO₂) ಮತ್ತು ಆರು ಅಣುಗಳ ನೀರು (6H₂O), ಸೂರ್ಯನ ಬೆಳಕು ಮತ್ತು ಕ್ಲೋರೋಫಿಲ್‌ನ ಸಮ್ಮುಖದಲ್ಲಿ ವರ್ತಿಸಿ, ಒಂದು ಅಣು ಗ್ಲೂಕೋಸ್ (C₆H₁₂O₆), ಮತ್ತು ಆರು ಅಣುಗಳ ಆಮ್ಲಜನಕವನ್ನು (6O₂) ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಇಲ್ಲಿ ಗ್ಲೂಕೋಸ್ ಎಂಬುದು ಸಸ್ಯವು ತಯಾರಿಸಿದ ಆಹಾರ, ಇದು ಒಂದು ಬಗೆಯ ಕಾರ್ಬೊಹೈಡ್ರೇಟ್. ಆಮ್ಲಜನಕವು ಉಪ-ಉತ್ಪನ್ನವಾಗಿ ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "modern_science",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "6CO_2 + 6H_2O \\xrightarrow[\\text{ಕ್ಲೋರೊಫಿಲ್}]{\\text{ಸೂರ್ಯನ ಬೆಳಕು}} C_6H_{12}O_6 + 6O_2",
+    "placeholder_note": "Chemical equation for photosynthesis. Reactants on the left, products on the right, with sunlight and chlorophyll indicated above and below the reaction arrow."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_science_ch_1_concept_2_chunk_005"
+}

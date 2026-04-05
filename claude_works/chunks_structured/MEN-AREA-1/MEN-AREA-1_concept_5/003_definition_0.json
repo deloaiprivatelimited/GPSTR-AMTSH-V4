@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಿಧಿ ಎಂದರೇನು?",
+  "script": "ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಒಂದು ಚೌಕ ಅಥವಾ ಆಯತದ ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಸುಲಭ, ನಾವು ಅದರ ಬದಿಗಳನ್ನು ಕೂಡಿಸುತ್ತೇವೆ. ಆದರೆ ಒಂದು ವೃತ್ತದ ಸುತ್ತಲಿನ ದೂರವನ್ನು ಅಳೆಯುವುದು ಹೇಗೆ? ಅದಕ್ಕೆ ನೇರವಾದ ಬದಿಗಳಿಲ್ಲ. ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಒಂದು ವೃತ್ತಾಕಾರದ ವಸ್ತುವಿನ ಅಂಚಿನಲ್ಲಿ ಒಂದು ದಾರವನ್ನು ಇಟ್ಟು, ಒಂದು ಪೂರ್ಣ ಸುತ್ತು ಆದ ನಂತರ, ಆ ದಾರವನ್ನು ನೇರಗೊಳಿಸಿ ಅದರ ಉದ್ದವನ್ನು ಅಳೆಯಬೇಕು. ಆ ದಾರದ ಉದ್ದವೇ ವೃತ್ತದ ಪರಿಧಿ. ಅಂದರೆ, ವೃತ್ತದ ಅಂಚಿನ ಪೂರ್ಣ ಉದ್ದವನ್ನು ನಾವು ಪರಿಧಿ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ವೃತ್ತದ 'ಸುತ್ತಳತೆ' ಇದ್ದಂತೆ.",
+  "script_display": "ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಒಂದು ಚೌಕ ಅಥವಾ ಆಯತದ ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಸುಲಭ, ನಾವು ಅದರ ಬದಿಗಳನ್ನು ಕೂಡಿಸುತ್ತೇವೆ. ಆದರೆ ಒಂದು ವೃತ್ತದ ಸುತ್ತಲಿನ ದೂರವನ್ನು ಅಳೆಯುವುದು ಹೇಗೆ? ಅದಕ್ಕೆ ನೇರವಾದ ಬದಿಗಳಿಲ್ಲ. ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಒಂದು ವೃತ್ತಾಕಾರದ ವಸ್ತುವಿನ ಅಂಚಿನಲ್ಲಿ ಒಂದು ದಾರವನ್ನು ಇಟ್ಟು, ಒಂದು ಪೂರ್ಣ ಸುತ್ತು ಆದ ನಂತರ, ಆ ದಾರವನ್ನು ನೇರಗೊಳಿಸಿ ಅದರ ಉದ್ದವನ್ನು ಅಳೆಯಬೇಕು. ಆ ದಾರದ ಉದ್ದವೇ ವೃತ್ತದ ಪರಿಧಿ. ಅಂದರೆ, ವೃತ್ತದ ಅಂಚಿನ ಪೂರ್ಣ ಉದ್ದವನ್ನು ನಾವು ಪರಿಧಿ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದು ವೃತ್ತದ 'ಸುತ್ತಳತೆ' ಇದ್ದಂತೆ.",
+  "display_bullets": [
+    "ವೃತ್ತದ ಸುತ್ತಲಿನ ದೂರವನ್ನು ಅಳೆಯುವುದು ಹೇಗೆ?",
+    "ವೃತ್ತದ ಅಂಚಿನ ಮೇಲೆ ದಾರವಿಟ್ಟು, ಅದನ್ನು ನೇರಗೊಳಿಸಿ ಅಳೆದಾಗ ಸಿಗುವ ಉದ್ದ.",
+    "ಈ ಉದ್ದವನ್ನೇ ವೃತ್ತದ ಪರಿಧಿ (Circumference) ಎನ್ನುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An animation or diagram showing a thread being wrapped around a circle. Then, the thread is unwrapped and straightened out next to a ruler to measure its length. The length is labeled as 'ಪರಿಧಿ'.",
+    "labels": "Circle, Thread, Ruler, Circumference (ಪರಿಧಿ)",
+    "mathematical_significance": "This visual demonstrates the physical meaning of circumference as the linear distance of the boundary of a circle.",
+    "placeholder_note": "Image to be generated showing the concept of unrolling a circle's boundary."
+  },
+  "chunk_id": "MEN-AREA-1_concept_5_chunk_003"
+}

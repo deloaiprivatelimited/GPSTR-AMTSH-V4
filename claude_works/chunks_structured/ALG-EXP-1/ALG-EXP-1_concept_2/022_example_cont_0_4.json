@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಬೀಜೋಕ್ತಿ 4 ($4p^2q – 3pq^2 + 5$)",
+  "script": "ಕೊನೆಯ ಬೀಜೋಕ್ತಿ, ನಾಲ್ಕು p ಸ್ಕ್ವೇರ್ಡ್ q ಮೈನಸ್ ಮೂರು p q ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಐದು. ಇಲ್ಲಿಯೂ ಎರಡು ಸ್ಥಿರವಲ್ಲದ ಪದಗಳಿವೆ: ನಾಲ್ಕು p ಸ್ಕ್ವೇರ್ಡ್ q ಮತ್ತು ಮೈನಸ್ ಮೂರು p q ಸ್ಕ್ವೇರ್ಡ್. ಮೊದಲ ಪದ, ನಾಲ್ಕು p ಸ್ಕ್ವೇರ್ಡ್ q ನ ಸಹಗುಣಕ ನಾಲ್ಕು. ಎರಡನೇ ಪದ, ಮೈನಸ್ ಮೂರು p q ಸ್ಕ್ವೇರ್ಡ್ ನ ಸಹಗುಣಕ ಮೈನಸ್ ಮೂರು.",
+  "script_display": "ಕೊನೆಯ ಬೀಜೋಕ್ತಿ, $4p^2q – 3pq^2 + 5$. ಇಲ್ಲಿಯೂ ಎರಡು ಸ್ಥಿರವಲ್ಲದ ಪದಗಳಿವೆ: $4p^2q$ ಮತ್ತು $-3pq^2$. ಮೊದಲ ಪದ, $4p^2q$ ನ ಸಹಗುಣಕ 4. ಎರಡನೇ ಪದ, $-3pq^2$ ನ ಸಹಗುಣಕ -3.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "ALG-EXP-1_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸ್ಥಿರವಲ್ಲದ ಪದಗಳು: $4p^2q$ ಮತ್ತು $-3pq^2$",
+      "justification": "ಈ ಬೀಜೋಕ್ತಿಯಲ್ಲಿ ಎರಡು ಚರಾಕ್ಷರ ಪದಗಳಿವೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "$4p^2q$ ಪದದ ಸಹಗುಣಕ: 4",
+      "justification": "ಸಂಖ್ಯಾತ್ಮಕ ಅಪವರ್ತನ 4 ಆಗಿದೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "$-3pq^2$ ಪದದ ಸಹಗುಣಕ: -3",
+      "justification": "ಸಂಖ್ಯಾತ್ಮಕ ಅಪವರ್ತನ -3 ಆಗಿದೆ."
+    }
+  ],
+  "chunk_id": "ALG-EXP-1_concept_2_chunk_022"
+}

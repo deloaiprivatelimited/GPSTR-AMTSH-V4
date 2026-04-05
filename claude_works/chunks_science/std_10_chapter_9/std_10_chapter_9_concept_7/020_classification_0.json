@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪೀನ ಮಸೂರ (Convex Lens)",
+  "script": "ಗೋಳೀಯ ಮಸೂರಗಳ ಮೊದಲ ವಿಧವಾದ ಪೀನ ಮಸೂರದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ನೀವು ಗಮನಿಸುವಂತೆ, ಇದರ ಆಕಾರವು ಮಧ್ಯದಲ್ಲಿ ದಪ್ಪನಾಗಿದ್ದು, ಅಂಚುಗಳ ಕಡೆಗೆ ತೆಳುವಾಗಿರುತ್ತದೆ. ಇದರ ಮುಖ್ಯ ಕಾರ್ಯವೆಂದರೆ, ತನ್ನ ಮೂಲಕ ಹಾದುಹೋಗುವ ಸಮಾಂತರ ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನು ಒಂದು ಬಿಂದುವಿನಲ್ಲಿ ಒಟ್ಟಿಗೆ ಸೇರಿಸುವುದು. ಈ ಕ್ರಿಯೆಯನ್ನು ಕೇಂದ್ರೀಕರಿಸುವುದು ಎನ್ನುತ್ತಾರೆ. ಹೀಗೆ ಬೆಳಕನ್ನು ಕೇಂದ್ರೀಕರಿಸುವ ಕಾರಣದಿಂದ, ಪೀನ ಮಸೂರಕ್ಕೆ 'ಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ' ಎಂಬ ಇನ್ನೊಂದು ಹೆಸರು ಕೂಡ ಇದೆ. ಭೂತಗನ್ನಡಿ ಇದಕ್ಕೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ.",
+  "script_display": "ಗೋಳೀಯ ಮಸೂರಗಳ ಮೊದಲ ವಿಧವಾದ ಪೀನ ಮಸೂರದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ನೀವು ಗಮನಿಸುವಂತೆ, ಇದರ ಆಕಾರವು ಮಧ್ಯದಲ್ಲಿ ದಪ್ಪನಾಗಿದ್ದು, ಅಂಚುಗಳ ಕಡೆಗೆ ತೆಳುವಾಗಿರುತ್ತದೆ. ಇದರ ಮುಖ್ಯ ಕಾರ್ಯವೆಂದರೆ, ತನ್ನ ಮೂಲಕ ಹಾದುಹೋಗುವ ಸಮಾಂತರ ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನು ಒಂದು ಬಿಂದುವಿನಲ್ಲಿ ಒಟ್ಟಿಗೆ ಸೇರಿಸುವುದು. ಈ ಕ್ರಿಯೆಯನ್ನು ಕೇಂದ್ರೀಕರಿಸುವುದು ಎನ್ನುತ್ತಾರೆ. ಹೀಗೆ ಬೆಳಕನ್ನು ಕೇಂದ್ರೀಕರಿಸುವ ಕಾರಣದಿಂದ, ಪೀನ ಮಸೂರಕ್ಕೆ 'ಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ' ಎಂಬ ಇನ್ನೊಂದು ಹೆಸರು ಕೂಡ ಇದೆ. ಭೂತಗನ್ನಡಿ ಇದಕ್ಕೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ.",
+  "display_bullets": [
+    "ಆಕಾರ: ಮಧ್ಯದಲ್ಲಿ ದಪ್ಪ, ಅಂಚುಗಳಲ್ಲಿ ತೆಳು.",
+    "ಕಾರ್ಯ: ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನು ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ.",
+    "ಇನ್ನೊಂದು ಹೆಸರು: ಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ (Converging lens)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a biconvex lens. Parallel rays of light enter from the left, pass through the lens, and converge at the principal focus (F₂) on the right.",
+    "labels": "Parallel rays, Convex Lens, Principal Focus (F₂)",
+    "scientific_significance": "Demonstrates the converging action of a convex lens, which is its defining characteristic.",
+    "placeholder_note": "Image to be generated showing parallel light rays converging after passing through a convex lens."
+  },
+  "chunk_id": "std_10_chapter_9_concept_7_chunk_020"
+}

@@ -1,0 +1,147 @@
+{
+  "module_id": "std_6_chapter_7_concept_2",
+  "chapter_code": "std_6_chapter_7",
+  "voice": "Achernar",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:22:48",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "f8168d8e7d6deaea0db071bee630fcf9",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 19.371,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 28,
+      "generated_at": "2026-04-02 13:20:26"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "9db9592b30c13f09d22f0aa48f313902",
+      "wav_file": "001_intro_0.wav",
+      "duration": 50.451,
+      "slide_title": "ತಾಪ ಮತ್ತು ತಾಪಮಾಪಕ",
+      "type": "intro",
+      "script_words": 79,
+      "generated_at": "2026-04-02 13:20:45"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "68cdb32f33830ed047db67b5a6563040",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 44.531,
+      "slide_title": "ತಾಪವನ್ನು ಅಳೆಯುವುದು",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:21:03"
+    },
+    "006_definition_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "537eac31729b8ed30711b89d166a9776",
+      "wav_file": "006_definition_1.wav",
+      "duration": 38.211,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ತಾಪಮಾಪಕ",
+      "type": "definition",
+      "script_words": 48,
+      "generated_at": "2026-04-02 13:21:07"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "dab82259e4f1e4ce00c975df4307585d",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 39.251,
+      "slide_title": "ತಾಪ (Temperature) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:21:28"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "0898a907c55a49e483b5cf6442376a94",
+      "wav_file": "003_definition_0.wav",
+      "duration": 38.251,
+      "slide_title": "ಬಿಸಿ ಮತ್ತು ತಂಪು: ನಮ್ಮ ಅನುಭವ",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:21:37"
+    },
+    "009_classification_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "3d499421203c560f835810a6c4a17c1b",
+      "wav_file": "009_classification_0.wav",
+      "duration": 43.531,
+      "slide_title": "ತಾಪಮಾಪಕಗಳ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:21:47"
+    },
+    "007_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "ae1da4e1a960fa19875356f993ff4970",
+      "wav_file": "007_definition_cont_1_1.wav",
+      "duration": 38.531,
+      "slide_title": "ತಾಪಮಾಪಕದ ಕಾರ್ಯವಿಧಾನ",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:22:01"
+    },
+    "008_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "fe87e071a176a5ccfc7c68c039fbc34e",
+      "wav_file": "008_definition_cont_1_2.wav",
+      "duration": 56.771,
+      "slide_title": "ತಾಪಮಾಪಕದ ವಿಧಗಳು: ಹೋಲಿಕೆ",
+      "type": "definition",
+      "script_words": 57,
+      "generated_at": "2026-04-02 13:22:12"
+    },
+    "010_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "9fd6de796c29b0a1464754122e88a39f",
+      "wav_file": "010_classification_cont_0_1.wav",
+      "duration": 52.651,
+      "slide_title": "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 13:22:19"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "852aa65ca9cf4391b1a62aaf1fd1dde6",
+      "wav_file": "012_recap_0.wav",
+      "duration": 33.131,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 48,
+      "generated_at": "2026-04-02 13:22:37"
+    },
+    "011_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "c21ae2ef2a7c051a02b5825453b98258",
+      "wav_file": "011_classification_cont_0_2.wav",
+      "duration": 53.251,
+      "slide_title": "ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕ",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 13:22:48"
+    }
+  }
+}

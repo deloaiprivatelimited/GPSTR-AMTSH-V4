@@ -1,0 +1,32 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರದ ಅರ್ಥ (Meaning of the Formula)",
+  "script": "ಈ ಸೂತ್ರವು ಎಲ್ಲಿಂದ ಬಂತು ಎಂದು ನೀವು ಯೋಚಿಸುತ್ತಿರಬಹುದು. ಇದರ ನಿಖರವಾದ ನಿರೂಪಣೆಗೆ ಉನ್ನತ ಗಣಿತದ ಅಗತ್ಯವಿದೆ, ಆದರೆ ನಾವು ಒಂದು ಸರಳ ಪ್ರಯೋಗದ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಒಂದು 'ಆರ್' ತ್ರಿಜ್ಯವಿರುವ ಗೋಳವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿಸಿದಾಗ, ಅದು ಸ್ವಲ್ಪ ನೀರನ್ನು ಹೊರಹಾಕುತ್ತದೆ. ಹೀಗೆ ಸ್ಥಳಾಂತರಗೊಂಡ ನೀರಿನ ಪ್ರಮಾಣ, ಅಂದರೆ ಅದರ ಘನಫಲ, ನಿಖರವಾಗಿ ಗೋಳದ ಘನಫಲಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಪ್ರಾಯೋಗಿಕವಾಗಿ, ಈ ಸ್ಥಳಾಂತರಗೊಂಡ ನೀರಿನ ಘನಫಲವು ನಾಲ್ಕನೇ ಮೂರು, ಪೈ, ಆರ್ ಕ್ಯೂಬ್ಡ್ ಎಂದು ಕಂಡುಬಂದಿದೆ. ಇದು ಈ ಸೂತ್ರದ ಹಿಂದಿನ ಒಂದು ಭೌತಿಕ ಅರ್ಥವಾಗಿದೆ.",
+  "script_display": "ಈ ಸೂತ್ರವು ಎಲ್ಲಿಂದ ಬಂತು ಎಂದು ನೀವು ಯೋಚಿಸುತ್ತಿರಬಹುದು. ಇದರ ನಿಖರವಾದ ನಿರೂಪಣೆಗೆ ಉನ್ನತ ಗಣಿತದ ಅಗತ್ಯವಿದೆ, ಆದರೆ ನಾವು ಒಂದು ಸರಳ ಪ್ರಯೋಗದ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಒಂದು '$r$' ತ್ರಿಜ್ಯವಿರುವ ಗೋಳವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿಸಿದಾಗ, ಅದು ಸ್ವಲ್ಪ ನೀರನ್ನು ಹೊರಹಾಕುತ್ತದೆ. ಹೀಗೆ ಸ್ಥಳಾಂತರಗೊಂಡ ನೀರಿನ ಪ್ರಮಾಣ, ಅಂದರೆ ಅದರ ಘನಫಲ, ನಿಖರವಾಗಿ ಗೋಳದ ಘನಫಲಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಪ್ರಾಯೋಗಿಕವಾಗಿ, ಈ ಸ್ಥಳಾಂತರಗೊಂಡ ನೀರಿನ ಘನಫಲವು $\\frac{4}{3} \\pi r^3$ ಎಂದು ಕಂಡುಬಂದಿದೆ. ಇದು ಈ ಸೂತ್ರದ ಹಿಂದಿನ ಒಂದು ಭೌತಿಕ ಅರ್ಥವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A sphere of radius 'r' is fully submerged in a beaker full of water. The water that overflows is collected in a measuring cylinder. The volume of the collected water is shown to be (4/3)πr³.",
+    "labels": "Sphere, Beaker, Water, Measuring Cylinder, Displaced Water",
+    "mathematical_significance": "This diagram illustrates the principle of water displacement to give an intuitive understanding of the formula for the volume of a sphere.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "MEN-VOL-3_concept_2_chunk_039"
+}

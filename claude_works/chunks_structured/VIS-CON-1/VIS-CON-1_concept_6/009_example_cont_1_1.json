@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 1",
+  "script": "ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತ, ಪಾದವನ್ನು ಎಳೆಯಿರಿ. ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ, ಯಾವುದೇ ಅನುಕೂಲಕರ ಉದ್ದದ ರೇಖಾಖಂಡ ಎ ಬಿ ಯನ್ನು ಎಳೆಯಿರಿ. ಎರಡನೇ ಹಂತ, ಬಿ ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬಕೋನವನ್ನು ರಚಿಸಿ. ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಇರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಕೋನಮಾಪಕವನ್ನು ಬಳಸಿ, ಬಿ ಬಿಂದುವಿನಲ್ಲಿ ಎ ಬಿ ಗೆ ಲಂಬವಾಗಿರುವಂತೆ ಬಿ ವೈ ಕಿರಣವನ್ನು ಎಳೆಯಿರಿ. ಮೂರನೇ ಹಂತ, ಎ ಬಿಂದುವಿನಲ್ಲಿ ಅರವತ್ತು ಡಿಗ್ರಿ ಕೋನವನ್ನು ರಚಿಸಿ. ದತ್ತಾಂಶದ ಪ್ರಕಾರ, ಕರ್ಣವು ಪಾದದೊಂದಿಗೆ ಅರವತ್ತು ಡಿಗ್ರಿ ಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಹಾಗಾಗಿ, ಕೋನಮಾಪಕವನ್ನು ಬಳಸಿ, ಎ ಬಿಂದುವಿನಲ್ಲಿ ಎ ಬಿ ಯೊಂದಿಗೆ ಅರವತ್ತು ಡಿಗ್ರಿ ಕೋನವನ್ನು ಉಂಟುಮಾಡುವ ಕಿರಣ ಎ ಎಕ್ಸ್ ಅನ್ನು ಎಳೆಯಿರಿ.",
+  "script_display": "ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತ, ಪಾದವನ್ನು ಎಳೆಯಿರಿ. ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ, ಯಾವುದೇ ಅನುಕೂಲಕರ ಉದ್ದದ ರೇಖಾಖಂಡ $AB$ ಯನ್ನು ಎಳೆಯಿರಿ. ಎರಡನೇ ಹಂತ, $B$ ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬಕೋನವನ್ನು ರಚಿಸಿ. ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ $90°$ ಇರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಕೋನಮಾಪಕವನ್ನು ಬಳಸಿ, $B$ ಬಿಂದುವಿನಲ್ಲಿ $AB$ ಗೆ ಲಂಬವಾಗಿರುವಂತೆ $BY$ ಕಿರಣವನ್ನು ಎಳೆಯಿರಿ. ಮೂರನೇ ಹಂತ, $A$ ಬಿಂದುವಿನಲ್ಲಿ $60°$ ಕೋನವನ್ನು ರಚಿಸಿ. ದತ್ತಾಂಶದ ಪ್ರಕಾರ, ಕರ್ಣವು ಪಾದದೊಂದಿಗೆ $60°$ ಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಹಾಗಾಗಿ, ಕೋನಮಾಪಕವನ್ನು ಬಳಸಿ, $A$ ಬಿಂದುವಿನಲ್ಲಿ $AB$ ಯೊಂದಿಗೆ $60°$ ಕೋನವನ್ನು ಉಂಟುಮಾಡುವ ಕಿರಣ $AX$ ಅನ್ನು ಎಳೆಯಿರಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Animation showing the first three steps of construction. 1. A line segment AB is drawn. 2. A ray BY is drawn perpendicular to AB at point B. 3. A ray AX is drawn from point A, making a 60-degree angle with AB.",
+    "labels": "A, B, X, Y, 60°, 90°",
+    "mathematical_significance": "These steps establish the base and the two key angles required to define the primary triangle (ABC) that forms the basis of the rectangle.",
+    "placeholder_note": "Animation to be generated showing these steps sequentially."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "advanced",
+  "source_example_id": "VIS-CON-1_example_6",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಪಾದವನ್ನು ಎಳೆಯಿರಿ: ಯಾವುದೇ ಉದ್ದದ ರೇಖಾಖಂಡ $AB$ ಯನ್ನು ಎಳೆಯಿರಿ.",
+      "justification": "ರಚನೆಯನ್ನು ಒಂದು ಆಧಾರ ರೇಖೆಯೊಂದಿಗೆ ಪ್ರಾರಂಭಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$B$ ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬಕೋನ ರಚಿಸಿ: $B$ ಬಿಂದುವಿನಲ್ಲಿ $AB$ ಗೆ ಲಂಬವಾಗಿ $BY$ ಕಿರಣವನ್ನು ಎಳೆಯಿರಿ.",
+      "justification": "ಆಯತದ ಕೋನವು $90°$ ಇರುತ್ತದೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "$A$ ಬಿಂದುವಿನಲ್ಲಿ $60°$ ಕೋನವನ್ನು ರಚಿಸಿ: $A$ ಬಿಂದುವಿನಲ್ಲಿ $AB$ ಯೊಂದಿಗೆ $60°$ ಕೋನವನ್ನು ಉಂಟುಮಾಡುವ $AX$ ಕಿರಣವನ್ನು ಎಳೆಯಿರಿ.",
+      "justification": "ದತ್ತಾಂಶದ ಪ್ರಕಾರ ಕರ್ಣವು ಪಾದದೊಂದಿಗೆ $60°$ ಕೋನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "VIS-CON-1_concept_6_chunk_009"
+}

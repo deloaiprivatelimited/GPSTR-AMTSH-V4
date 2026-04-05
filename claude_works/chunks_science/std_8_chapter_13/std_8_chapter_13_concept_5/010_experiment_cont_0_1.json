@@ -1,0 +1,37 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಬೇಕಾಗುವ ಉಪಕರಣಗಳು",
+  "script": "ಈ ಸುಲಭವಾದ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಒಂದು ಅಗಲವಾದ ಬಟ್ಟಲು ಬೇಕು. ನಂತರ, ಆ ಬಟ್ಟಲನ್ನು ತುಂಬಲು ಸ್ವಲ್ಪ ನೀರು ಬೇಕಾಗುತ್ತದೆ. ಮೂರನೆಯದಾಗಿ, ಒಂದು ಚಿಕ್ಕ ಸಮತಲ ದರ್ಪಣ, ಅಂದರೆ ನಾವು ಮುಖ ನೋಡಲು ಬಳಸುವ ಸಾಮಾನ್ಯ ಕನ್ನಡಿ. ಮತ್ತು ಅಂತಿಮವಾಗಿ, ಈ ಪ್ರಯೋಗದ ಮುಖ್ಯ ಶಕ್ತಿಯ ಮೂಲವಾದ ಸೂರ್ಯನ ಬೆಳಕು. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ನಾವು ಜೋಡಿಸಿಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ. ಇವು ನಮ್ಮ ಪ್ರಯೋಗದ ಮೂಲ ಸಾಮಗ್ರಿಗಳು.",
+  "script_display": "ಈ ಸುಲಭವಾದ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಒಂದು ಅಗಲವಾದ ಬಟ್ಟಲು (Bowl) ಬೇಕು. ನಂತರ, ಆ ಬಟ್ಟಲನ್ನು ತುಂಬಲು ಸ್ವಲ್ಪ ನೀರು (Water) ಬೇಕಾಗುತ್ತದೆ. ಮೂರನೆಯದಾಗಿ, ಒಂದು ಚಿಕ್ಕ ಸಮತಲ ದರ್ಪಣ (Plane mirror). ಮತ್ತು ಅಂತಿಮವಾಗಿ, ಈ ಪ್ರಯೋಗದ ಮುಖ್ಯ ಶಕ್ತಿಯ ಮೂಲವಾದ ಸೂರ್ಯನ ಬೆಳಕು (Sunlight). ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ನಾವು ಜೋಡಿಸಿಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ. ಇವು ನಮ್ಮ ಪ್ರಯೋಗದ ಮೂಲ ಸಾಮಗ್ರಿಗಳು.",
+  "display_bullets": [
+    "ಒಂದು ಬಟ್ಟಲು (Bowl)",
+    "ಸ್ವಲ್ಪ ನೀರು (Water)",
+    "ಒಂದು ಸಮತಲ ದರ್ಪಣ (Plane mirror)",
+    "ಸೂರ್ಯನ ಬೆಳಕು (Sunlight)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_physics_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the dispersion of light experiment. A bowl is filled with water. A plane mirror is placed obliquely inside the water. An arrow indicates sunlight shining onto the submerged part of the mirror.",
+    "labels": "ಬಟ್ಟಲು, ನೀರು, ಸಮತಲ ದರ್ಪಣ, ಸೂರ್ಯನ ಬೆಳಕು",
+    "scientific_significance": "This setup mimics a prism. The water acts as the refractive medium, and the mirror reflects the dispersed light.",
+    "placeholder_note": "Image to be generated showing the experimental setup."
+  },
+  "chunk_id": "std_8_chapter_13_concept_5_chunk_010"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮಾಂತರ ಚತುರ್ಭುಜ BEST",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಹಾಗೆ, BEST ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ. ನಾವು x, y ಮತ್ತು z ನ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿಯೆಂದರೆ, ಇದು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ಮತ್ತು ಇದರಲ್ಲಿ ಒಂದು ಕೋನದ ಅಳತೆ ನೂರು ಡಿಗ್ರಿ ಆಗಿದೆ. ಈ ಮಾಹಿತಿಯನ್ನು ಬಳಸಿ ನಾವು ಉಳಿದ ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಹಾಗೆ, BEST ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ. ನಾವು $x, y$ ಮತ್ತು $z$ ನ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿಯೆಂದರೆ, ಇದು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ಮತ್ತು ಇದರಲ್ಲಿ ಒಂದು ಕೋನದ ಅಳತೆ $100°$ ಆಗಿದೆ. ಈ ಮಾಹಿತಿಯನ್ನು ಬಳಸಿ ನಾವು ಉಳಿದ ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜ: BEST",
+    "ಒಂದು ಕೋನದ ಅಳತೆ = 100°",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದ ಬೆಲೆಗಳು: x, y, ಮತ್ತು z"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A parallelogram BEST with vertices labeled counter-clockwise. Angle B is 100 degrees. Angle S is labeled 'x'. Angle E is labeled 'y'. Side BE is extended to a point P, and the exterior angle SEP is labeled 'z'. This figure is based on the problem's steps which mention opposite angles, corresponding angles, and a linear pair.",
+    "labels": "B, E, S, T, 100°, x, y, z",
+    "mathematical_significance": "This figure illustrates a problem involving the properties of a parallelogram, including opposite angles, and relationships like linear pairs. The setup is designed to test understanding of these geometric properties.",
+    "placeholder_note": "Image to be generated showing parallelogram BEST with the specified angles."
+  },
+  "source_example_id": "GEO-QUAD-1_example_4",
+  "prerequisites_display": [
+    "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಗುಣಲಕ್ಷಣಗಳು",
+    "ರೇಖೀಯ ಯುಗ್ಮಗಳು",
+    "ಅನುರೂಪ ಕೋನಗಳು"
+  ],
+  "chunk_id": "GEO-QUAD-1_concept_4_chunk_019"
+}

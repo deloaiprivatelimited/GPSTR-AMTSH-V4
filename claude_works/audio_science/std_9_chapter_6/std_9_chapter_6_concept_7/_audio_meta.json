@@ -1,0 +1,92 @@
+{
+  "module_id": "std_9_chapter_6_concept_7",
+  "chapter_code": "std_9_chapter_6",
+  "voice": "Charon",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:06:21",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "3f17399e01a9c4f22ecb82407ec33d95",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.251,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 38,
+      "generated_at": "2026-04-02 16:04:39"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "0763ee03efa4532df324a4df7f230c66",
+      "wav_file": "001_intro_0.wav",
+      "duration": 51.571,
+      "slide_title": "ಸಂಕೀರ್ಣ ಶಾಶ್ವತ ಅಂಗಾಂಶ",
+      "type": "intro",
+      "script_words": 75,
+      "generated_at": "2026-04-02 16:04:55"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "b148de81a18fe1466b3733e4136e1977",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 52.011,
+      "slide_title": "ಫ್ಲೋಯಂ (Phloem)",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 16:05:12"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "e7e4e4f64a8305061ea621ebe0b11c42",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 54.651,
+      "slide_title": "ಕೈಲಂ (Xylem)",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 16:05:14"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "72ebc9e9ba633fe5178486aa5381fc56",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 50.251,
+      "slide_title": "ಕೈಲಂ ಮತ್ತು ಫ್ಲೋಯಂ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸಗಳು",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 16:05:19"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "0c8fd91ffb804e656bdd512877f7f658",
+      "wav_file": "003_classification_0.wav",
+      "duration": 45.731,
+      "slide_title": "ಸಂಕೀರ್ಣ ಶಾಶ್ವತ ಅಂಗಾಂಶಗಳು: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 16:05:56"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Charon",
+      "script_hash": "332230c3c3ed63f1b23721ba16718746",
+      "wav_file": "007_recap_0.wav",
+      "duration": 51.291,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 61,
+      "generated_at": "2026-04-02 16:06:21"
+    }
+  }
+}

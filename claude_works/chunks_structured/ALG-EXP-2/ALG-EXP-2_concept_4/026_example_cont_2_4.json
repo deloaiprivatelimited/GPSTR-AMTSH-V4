@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ಸಜಾತಿ ಪದಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸುವುದು",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಸಜಾತಿ ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಂಪು ಮಾಡುತ್ತೇವೆ. p ಸ್ಕ್ವೇರ್ಡ್ q ಪದಗಳನ್ನು ಮತ್ತು p q ಸ್ಕ್ವೇರ್ಡ್ ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ತರೋಣ. ಆಗ ನಮಗೆ 2 p ಸ್ಕ್ವೇರ್ಡ್ q ಮೈನಸ್ 3 p ಸ್ಕ್ವೇರ್ಡ್ q, ಮತ್ತು 2 p q ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ 3 p q ಸ್ಕ್ವೇರ್ಡ್ ಸಿಗುತ್ತದೆ. 2 p ಸ್ಕ್ವೇರ್ಡ್ q ಮೈನಸ್ 3 p ಸ್ಕ್ವೇರ್ಡ್ q ನಮಗೆ ಮೈನಸ್ p ಸ್ಕ್ವೇರ್ಡ್ q ಕೊಡುತ್ತದೆ. ಮತ್ತು 2 p q ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ 3 p q ಸ್ಕ್ವೇರ್ಡ್ ನಮಗೆ 5 p q ಸ್ಕ್ವೇರ್ಡ್ ಕೊಡುತ್ತದೆ. ಹೀಗಾಗಿ ಅಂತಿಮ ಉತ್ತರ ಮೈನಸ್ p ಸ್ಕ್ವೇರ್ಡ್ q ಪ್ಲಸ್ 5 p q ಸ್ಕ್ವೇರ್ಡ್.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಸಜಾತಿ ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಂಪು ಮಾಡುತ್ತೇವೆ. $p^2q$ ಪದಗಳನ್ನು ಮತ್ತು $pq^2$ ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ತರೋಣ. ಆಗ ನಮಗೆ $(2p^2q - 3p^2q) + (2pq^2 + 3pq^2)$ ಸಿಗುತ್ತದೆ. $2p^2q - 3p^2q$ ನಮಗೆ $-p^2q$ ಕೊಡುತ್ತದೆ. ಮತ್ತು $2pq^2 + 3pq^2$ ನಮಗೆ $5pq^2$ ಕೊಡುತ್ತದೆ. ಹೀಗಾಗಿ ಅಂತಿಮ ಉತ್ತರ $-p^2q + 5pq^2$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-EXP-2_example_7",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$= (2p^2q - 3p^2q) + (2pq^2 + 3pq^2)$",
+      "justification": "ಸಜಾತಿ ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಂಪು ಮಾಡುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$= -p^2q + 5pq^2$",
+      "justification": "ಸಜಾತಿ ಪದಗಳ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ."
+    }
+  ],
+  "chunk_id": "ALG-EXP-2_concept_4_chunk_026"
+}

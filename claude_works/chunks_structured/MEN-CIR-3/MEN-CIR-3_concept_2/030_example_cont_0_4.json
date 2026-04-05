@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ವೃತ್ತಖಂಡ ಎ ವೈ ಬಿ ಯ ವಿಸ್ತೀರ್ಣವು 462 ಮೈನಸ್ 441 ರೂಟ್ 3 ಬೈ 4 ಚದರ ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಇದನ್ನು ನಾವು 21 ಬೈ 4 ಇಂಟು 88 ಮೈನಸ್ 21 ರೂಟ್ 3 ಚದರ ಸೆಂಟಿಮೀಟರ್ ಎಂದೂ ಬರೆಯಬಹುದು. ನೆನಪಿಡಿ, ಕೇಂದ್ರ ಕೋನ 120 ಡಿಗ್ರಿ ಇದ್ದಾಗ, ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು ತ್ರಿಕೋನಮಿತಿಯನ್ನು ಬಳಸುವುದು ಅತ್ಯಗತ್ಯ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ವೃತ್ತಖಂಡ AYB ಯ ವಿಸ್ತೀರ್ಣವು $(462 - \\frac{441\\sqrt{3}}{4})$ cm$^2$ ಆಗಿದೆ. ಇದನ್ನು ನಾವು $\\frac{21}{4}(88 - 21\\sqrt{3})$ cm$^2$ ಎಂದೂ ಬರೆಯಬಹುದು. ನೆನಪಿಡಿ, ಕೇಂದ್ರ ಕೋನ $120^\\circ$ ಇದ್ದಾಗ, ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು ತ್ರಿಕೋನಮಿತಿಯನ್ನು ಬಳಸುವುದು ಅತ್ಯಗತ್ಯ.",
+  "display_bullets": [
+    "ವೃತ್ತಖಂಡ AYB ಯ ವಿಸ್ತೀರ್ಣ = $(462 - \\frac{441\\sqrt{3}}{4}) \\text{ cm}^2$.",
+    "ಪರ್ಯಾಯ ರೂಪ: $\\frac{21}{4}(88 - 21\\sqrt{3}) \\text{ cm}^2$."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "A = \\left(462 - \\frac{441\\sqrt{3}}{4}\\right) \\text{ cm}^2",
+    "placeholder_note": "Final answer highlighted in a box"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "advanced",
+  "source_example_id": "MEN-CIR-3_example_3",
+  "final_answer": "(462 - \\frac{441\\sqrt{3}}{4}) \\text{ cm}^2",
+  "final_answer_display": "$(462 - \\frac{441\\sqrt{3}}{4}) \\text{ cm}^2$",
+  "chunk_id": "MEN-CIR-3_concept_2_chunk_030"
+}

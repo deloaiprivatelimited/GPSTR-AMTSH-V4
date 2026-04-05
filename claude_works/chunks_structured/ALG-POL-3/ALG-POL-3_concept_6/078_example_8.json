@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಘನ ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ ಅಪವರ್ತಿಸುವಿಕೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಎಂಟು x ಘನ ಪ್ಲಸ್ ಇಪ್ಪತ್ತೇಳು y ಘನ ಪ್ಲಸ್ ಮೂವತ್ತಾರು x ವರ್ಗ y ಪ್ಲಸ್ ಐವತ್ತನಾಲ್ಕು x y ವರ್ಗ ವನ್ನು ಅಪವರ್ತಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಬಹುಪದೋಕ್ತಿಯನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಇದನ್ನು ಸೂಕ್ತ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ ಅಪವರ್ತಿಸಬೇಕು. ಪದಗಳನ್ನು ಗಮನಿಸಿದರೆ, ಇದು ಘನಗಳ ಮೊತ್ತದ ರೂಪದಲ್ಲಿರುವಂತೆ ಕಾಣುತ್ತದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $8x^3 + 27y^3 + 36x^2y + 54xy^2$ ನ್ನು ಅಪವರ್ತಿಸಿ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಬಹುಪದೋಕ್ತಿಯನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಇದನ್ನು ಸೂಕ್ತ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ ಅಪವರ್ತಿಸಬೇಕು. ಪದಗಳನ್ನು ಗಮನಿಸಿದರೆ, ಇದು ಘನಗಳ ಮೊತ್ತದ ರೂಪದಲ್ಲಿರುವಂತೆ ಕಾಣುತ್ತದೆ.",
+  "display_bullets": [
+    "ದತ್ತ ಬಹುಪದೋಕ್ತಿ: $8x^3 + 27y^3 + 36x^2y + 54xy^2$",
+    "ಮಾಡಬೇಕಾದದ್ದು: ಅಪವರ್ತಿಸುವುದು (Factorize)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "8x^3 + 27y^3 + 36x^2y + 54xy^2",
+    "placeholder_note": "The polynomial expression to be factorized."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "ALG-POL-3_example_22",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_078"
+}

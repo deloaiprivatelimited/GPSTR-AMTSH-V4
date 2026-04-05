@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "F1 ಪೀಳಿಗೆಯಿಂದ ಲಿಂಗಾಣುಗಳ ಉತ್ಪಾದನೆ",
+  "script": "ಸ್ವತಂತ್ರ ಅಪವ್ಯೂಹನ ನಿಯಮದ ಪ್ರಕಾರ, ಕ್ಯಾಪಿಟಲ್ ಆರ್ ಸ್ಮಾಲ್ ಆರ್ ಕ್ಯಾಪಿಟಲ್ ವೈ ಸ್ಮಾಲ್ ವೈ ಜೀನ್ ಮಾದರಿಯ ಎಫ್ ಒನ್ ಸಸ್ಯವು ನಾಲ್ಕು ವಿಧದ ಲಿಂಗಾಣುಗಳನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ. ಆಕಾರದ 'ಕ್ಯಾಪಿಟಲ್ ಆರ್' ಯುಗ್ಮವಿಕಲ್ಪವು ಬಣ್ಣದ 'ಕ್ಯಾಪಿಟಲ್ ವೈ' ಜೊತೆ ಸೇರಿ 'ಕ್ಯಾಪಿಟಲ್ ಆರ್ ವೈ' ಲಿಂಗಾಣು ಆಗಬಹುದು, ಅಥವಾ 'ಸ್ಮಾಲ್ ವೈ' ಜೊತೆ ಸೇರಿ 'ಕ್ಯಾಪಿಟಲ್ ಆರ್ ಸ್ಮಾಲ್ ವೈ' ಲಿಂಗಾಣು ಆಗಬಹುದು. ಹಾಗೆಯೇ, ಆಕಾರದ 'ಸ್ಮಾಲ್ ಆರ್' ಯುಗ್ಮವಿಕಲ್ಪವು 'ಕ್ಯಾಪಿಟಲ್ ವೈ' ಜೊತೆ ಸೇರಿ 'ಸ್ಮಾಲ್ ಆರ್ ಕ್ಯಾಪಿಟಲ್ ವೈ' ಆಗಬಹುದು, ಅಥವಾ 'ಸ್ಮಾಲ್ ವೈ' ಜೊತೆ ಸೇರಿ 'ಸ್ಮಾಲ್ ಆರ್ ಸ್ಮಾಲ್ ವೈ' ಆಗಬಹುದು. ಈ ನಾಲ್ಕು ಸಂಯೋಜನೆಗಳು ಸಮಾನ ಪ್ರಮಾಣದಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾಗುತ್ತವೆ.",
+  "script_display": "ಸ್ವತಂತ್ರ ಅಪವ್ಯೂಹನ ನಿಯಮದ ಪ್ರಕಾರ, RrYy ಜೀನ್ ಮಾದರಿಯ F1 ಸಸ್ಯವು ನಾಲ್ಕು ಸಂಭವನೀಯ ಲಿಂಗಾಣುಗಳನ್ನು (gametes) ಸಮಾನ ಪ್ರಮಾಣದಲ್ಲಿ ಉತ್ಪಾದಿಸುತ್ತದೆ:",
+  "display_bullets": [
+    "RY (ದುಂಡನೆಯ, ಹಳದಿ ಗುಣ)",
+    "Ry (ದುಂಡನೆಯ, ಹಸಿರು ಗುಣ)",
+    "rY (ಸುಕ್ಕಾದ, ಹಳದಿ ಗುಣ)",
+    "ry (ಸುಕ್ಕಾದ, ಹಸಿರು ಗುಣ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the F1 plant with genotype RrYy. Four arrows branch out from it, each pointing to one of the four possible gametes: RY, Ry, rY, and ry. This visually represents the process of independent assortment.",
+    "labels": "F1 Gamete Formation: RY, Ry, rY, ry",
+    "scientific_significance": "This is the crucial step demonstrating the Law of Independent Assortment, where alleles for different traits segregate into gametes independently.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_8_concept_3_chunk_010"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಲಾಭ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಮತ್ತಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಬ್ಬ ಅಂಗಡಿಯವನು ಒಂದು ಪೆನ್ನನ್ನು ಹತ್ತು ರೂಪಾಯಿಗೆ ಕೊಂಡುಕೊಳ್ಳುತ್ತಾನೆ ಎಂದು ಭಾವಿಸೋಣ. ಇದು ಆ ಪೆನ್ನಿನ ಕೊಂಡ ಬೆಲೆ, ಅಂದರೆ ಸಿ ಪಿ. ನಂತರ, ಅವನು ಅದೇ ಪೆನ್ನನ್ನು ಹನ್ನೆರಡು ರೂಪಾಯಿಗೆ ಗ್ರಾಹಕನಿಗೆ ಮಾರುತ್ತಾನೆ. ಇದು ಮಾರಿದ ಬೆಲೆ, ಅಂದರೆ ಎಸ್ ಪಿ. ಇಲ್ಲಿ, ನೀವು ಗಮನಿಸಬಹುದು, ಮಾರಿದ ಬೆಲೆಯಾದ ಹನ್ನೆರಡು ರೂಪಾಯಿ, ಕೊಂಡ ಬೆಲೆಯಾದ ಹತ್ತು ರೂಪಾಯಿಗಿಂತ ಹೆಚ್ಚಾಗಿದೆ. ಆದ್ದರಿಂದ, ಈ ವ್ಯವಹಾರದಲ್ಲಿ ಅಂಗಡಿಯವನಿಗೆ ಖಂಡಿತವಾಗಿಯೂ ಲಾಭವಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಮತ್ತಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಬ್ಬ ಅಂಗಡಿಯವನು ಒಂದು ಪೆನ್ನನ್ನು ₹10 ಕ್ಕೆ ಕೊಂಡುಕೊಳ್ಳುತ್ತಾನೆ ಎಂದು ಭಾವಿಸೋಣ. ಇದು ಆ ಪೆನ್ನಿನ ಕೊಂಡ ಬೆಲೆ (CP). ನಂತರ, ಅವನು ಅದೇ ಪೆನ್ನನ್ನು ₹12 ಕ್ಕೆ ಗ್ರಾಹಕನಿಗೆ ಮಾರುತ್ತಾನೆ. ಇದು ಮಾರಿದ ಬೆಲೆ (SP). ಇಲ್ಲಿ, ನೀವು ಗಮನಿಸಬಹುದು, ಮಾರಿದ ಬೆಲೆಯಾದ ₹12, ಕೊಂಡ ಬೆಲೆಯಾದ ₹10 ಗಿಂತ ಹೆಚ್ಚಾಗಿದೆ. ಆದ್ದರಿಂದ, ಈ ವ್ಯವಹಾರದಲ್ಲಿ ಅಂಗಡಿಯವನಿಗೆ ಖಂಡಿತವಾಗಿಯೂ ಲಾಭವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕೊಂಡ ಬೆಲೆ (CP) = ₹10",
+    "ಮಾರಿದ ಬೆಲೆ (SP) = ₹12",
+    "ಇಲ್ಲಿ, $SP > CP$ ($12 > 10$), ಆದ್ದರಿಂದ ಇದು ಲಾಭದ ಸನ್ನಿವೇಶ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-part diagram. Part 1: A hand receiving a pen and giving away a 10 rupee coin, labeled 'ಕೊಂಡ ಬೆಲೆ (CP) = ₹10'. Part 2: The same hand giving the pen to another person and receiving a 10 rupee coin and a 2 rupee coin, labeled 'ಮಾರಿದ ಬೆಲೆ (SP) = ₹12'. An upward green arrow labeled 'ಲಾಭ' should be visible.",
+    "labels": "Cost Price, Selling Price, Profit",
+    "mathematical_significance": "Visually demonstrates that Selling Price is greater than Cost Price, resulting in a profit.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "RPP-COMP-1_concept_3_chunk_014"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಇದು ಎಥನಾಲ್ ದಹನದ ಸಮತೋಲಿತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ. ಇಲ್ಲಿ, ಒಂದು ಅಣು ದ್ರವರೂಪದ ಎಥನಾಲ್, ಮೂರು ಅಣು ಅನಿಲರೂಪದ ಆಕ್ಸಿಜನ್‌ನೊಂದಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಿ, ಎರಡು ಅಣು ಅನಿಲರೂಪದ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ಮೂರು ಅಣು ದ್ರವರೂಪದ ನೀರು, ಹಾಗೂ ಜೊತೆಗೆ ಶಾಖ ಮತ್ತು ಬೆಳಕನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತದೆ.",
+  "script_display": "ಇದು ಎಥನಾಲ್ ದಹನದ ಸಮತೋಲಿತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ. ಇಲ್ಲಿ, ಒಂದು ಅಣು ದ್ರವರೂಪದ ಎಥನಾಲ್ (CH₃CH₂OH), ಮೂರು ಅಣು ಅನಿಲರೂಪದ ಆಕ್ಸಿಜನ್‌ನೊಂದಿಗೆ (3O₂) ಪ್ರತಿಕ್ರಿಯಿಸಿ, ಎರಡು ಅಣು ಅನಿಲರೂಪದ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (2CO₂), ಮೂರು ಅಣು ದ್ರವರೂಪದ ನೀರು (3H₂O), ಹಾಗೂ ಜೊತೆಗೆ ಶಾಖ ಮತ್ತು ಬೆಳಕನ್ನು ಉತ್ಪನ್ನಗಳಾಗಿ ನೀಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "description": "ಎಥನಾಲ್‌ನ ಸಂಪೂರ್ಣ ದಹನ ಕ್ರಿಯೆಯ ಸಮೀಕರಣ.",
+    "render_target": "katex",
+    "latex": "CH_3CH_2OH(l) + 3O_2(g) \\rightarrow 2CO_2(g) + 3H_2O(l) + \\text{ಶಾಖ} + \\text{ಬೆಳಕು}"
+  },
+  "chunk_id": "std_10_chapter_4_concept_8_chunk_011"
+}

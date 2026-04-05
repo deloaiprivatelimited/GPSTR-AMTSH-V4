@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ವೃತ್ತದ ತ್ರಿಜ್ಯವನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ಅದರ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: 30 ಸೆಂಟಿಮೀಟರ್ ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ಪೈ ಯ ಮೌಲ್ಯವನ್ನು 3.14 ಎಂದು ತೆಗೆದುಕೊಳ್ಳಲು ಸೂಚಿಸಲಾಗಿದೆ. ಹಾಗಾಗಿ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶವೆಂದರೆ ವೃತ್ತದ ತ್ರಿಜ್ಯ, ಆರ್, 30 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ, ಎ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ವೃತ್ತದ ತ್ರಿಜ್ಯವನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ಅದರ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: 30 cm ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ (π = 3.14). ಹಾಗಾಗಿ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶವೆಂದರೆ ವೃತ್ತದ ತ್ರಿಜ್ಯ, $r = 30$ cm ಆಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ, A.",
+  "display_bullets": [
+    "ಪ್ರಶ್ನೆ: 30 cm ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ ಕಂಡುಹಿಡಿಯಿರಿ (π = 3.14).",
+    "ದತ್ತಾಂಶ (Given): ತ್ರಿಜ್ಯ (r) = 30 cm.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To Find): ವಿಸ್ತೀರ್ಣ (A)."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{30 cm ತ್ರಿಜ್ಯವಿರುವ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ ಕಂಡುಹಿಡಿಯಿರಿ (π = 3.14).}",
+    "placeholder_note": "Display the problem statement clearly in a box."
+  },
+  "source_example_id": "MEN-AREA-1_example_12",
+  "prerequisites_display": [
+    "ವೃತ್ತದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ"
+  ],
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 1,
+    "theorems": 0,
+    "properties": 0,
+    "worked_examples": 1
+  },
+  "chunk_id": "MEN-AREA-1_concept_6_chunk_014"
+}

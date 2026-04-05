@@ -1,0 +1,147 @@
+{
+  "module_id": "std_8_chapter_2_concept_1",
+  "chapter_code": "std_8_chapter_2",
+  "voice": "Rasalgethi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:59:13",
+  "chunks": {
+    "002_definition_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "7b67ab816bdc5275581701c00c565407",
+      "wav_file": "002_definition_0.wav",
+      "duration": 39.131,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಸೂಕ್ಷ್ಮಜೀವಿಗಳು",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 14:57:09"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "60e4044902da2a74792b6e5abdc88536",
+      "wav_file": "001_intro_0.wav",
+      "duration": 48.891,
+      "slide_title": "ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಪರಿಚಯ ಮತ್ತು ವರ್ಗೀಕರಣ",
+      "type": "chunk",
+      "script_words": 71,
+      "generated_at": "2026-04-02 14:57:19"
+    },
+    "003_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "f5f92590d901fd92bb8c1e06f32e92aa",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "duration": 42.651,
+      "slide_title": "ಅವುಗಳನ್ನು ನೋಡುವುದು ಹೇಗೆ?",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-04-02 14:57:21"
+    },
+    "004_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "9962dfbf75ade36f6a688da16ca9d4c8",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "duration": 46.411,
+      "slide_title": "ಹೋಲಿಕೆ: ಬರಿಗಣ್ಣು vs ಸೂಕ್ಷ್ಮದರ್ಶಕ",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 14:57:48"
+    },
+    "006_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "a4be5870ebcde98a328f58032aa6b1df",
+      "wav_file": "006_definition_cont_1_1.wav",
+      "duration": 54.411,
+      "slide_title": "ವೈರಸ್‌ಗಳ ಸಂತಾನೋತ್ಪತ್ತಿ ವಿಧಾನ",
+      "type": "definition",
+      "script_words": 69,
+      "generated_at": "2026-04-02 14:57:51"
+    },
+    "005_definition_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "4f80f5c355d74f96d97049a270df3a79",
+      "wav_file": "005_definition_1.wav",
+      "duration": 43.571,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ವೈರಸ್‌ಗಳು (Viruses)",
+      "type": "definition",
+      "script_words": 57,
+      "generated_at": "2026-04-02 14:58:14"
+    },
+    "008_classification_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "7d543383619217d865ca60c0bdb11b5b",
+      "wav_file": "008_classification_0.wav",
+      "duration": 44.451,
+      "slide_title": "ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ವರ್ಗೀಕರಣ: ಬ್ಯಾಕ್ಟಿರಿಯಾ",
+      "type": "concept_explanation",
+      "script_words": 48,
+      "generated_at": "2026-04-02 14:58:21"
+    },
+    "007_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "06420dbdc251441e7accb3f3c5ffeeb1",
+      "wav_file": "007_definition_cont_1_2.wav",
+      "duration": 48.411,
+      "slide_title": "ಹೋಲಿಕೆ: ವೈರಸ್‌ಗಳು vs. ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 14:58:31"
+    },
+    "009_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "5556831644f76d5b790ae0624d561f09",
+      "wav_file": "009_classification_cont_0_1.wav",
+      "duration": 36.571,
+      "slide_title": "ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ವರ್ಗೀಕರಣ: ಶಿಲೀಂಧ್ರಗಳು",
+      "type": "concept_explanation",
+      "script_words": 44,
+      "generated_at": "2026-04-02 14:58:45"
+    },
+    "010_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "61e00e15de37af68eb5c336607e2722c",
+      "wav_file": "010_classification_cont_0_2.wav",
+      "duration": 38.291,
+      "slide_title": "ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ವರ್ಗೀಕರಣ: ಪ್ರೋಟೋಜೋವಾ",
+      "type": "concept_explanation",
+      "script_words": 45,
+      "generated_at": "2026-04-02 14:58:52"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "2126d89b84cba6fe0b1c19e1c8370f77",
+      "wav_file": "012_recap_0.wav",
+      "duration": 33.491,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 46,
+      "generated_at": "2026-04-02 14:59:09"
+    },
+    "011_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Rasalgethi",
+      "script_hash": "2d7b0792ea08c23fef4e4389999a7676",
+      "wav_file": "011_classification_cont_0_3.wav",
+      "duration": 38.571,
+      "slide_title": "ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ವರ್ಗೀಕರಣ: ಶೈವಲಗಳು",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 14:59:13"
+    }
+  }
+}

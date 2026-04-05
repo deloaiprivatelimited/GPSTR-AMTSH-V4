@@ -1,0 +1,35 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಭಿನ್ನರಾಶಿಯಿಂದ ಭಾಗಿಸುವುದು",
+  "script": "ಈಗ, ಒಂದು ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಭಿನ್ನರಾಶಿಯಿಂದ ಹೇಗೆ ಭಾಗಿಸುವುದು ಎಂದು ನೋಡೋಣ. ಇದರ ನಿಯಮ ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಒಂದು ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಭಿನ್ನರಾಶಿಯಿಂದ ಭಾಗಿಸಲು, ನೀವು ಆ ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು, ಭಾಗಿಸುವ ಭಿನ್ನರಾಶಿಯ ವ್ಯುತ್ಕ್ರಮದಿಂದ ಗುಣಿಸಬೇಕು. ವ್ಯುತ್ಕ್ರಮ ಎಂದರೆ ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಅದಲು ಬದಲು ಮಾಡುವುದು. ಸೂತ್ರವನ್ನು ನೋಡಿದರೆ, n ಭಾಗಿಸು a ಬೈ b ಸಮನಾಗಿರುತ್ತದೆ n ಗುಣಿಸು b ಬೈ a. ಇಲ್ಲಿ n ಎಂಬುದು ಪೂರ್ಣ ಸಂಖ್ಯೆ ಮತ್ತು a ಬೈ b ಎಂಬುದು ಭಿನ್ನರಾಶಿ.",
+  "script_display": "ಈಗ, ಒಂದು ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಭಿನ್ನರಾಶಿಯಿಂದ ಹೇಗೆ ಭಾಗಿಸುವುದು ಎಂದು ನೋಡೋಣ. ಇದರ ನಿಯಮ ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಒಂದು ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಭಿನ್ನರಾಶಿಯಿಂದ ಭಾಗಿಸಲು, ನೀವು ಆ ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು, ಭಾಗಿಸುವ ಭಿನ್ನರಾಶಿಯ ವ್ಯುತ್ಕ್ರಮದಿಂದ (reciprocal) ಗುಣಿಸಬೇಕು. ವ್ಯುತ್ಕ್ರಮ ಎಂದರೆ ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಅದಲು ಬದಲು ಮಾಡುವುದು. ಸೂತ್ರವನ್ನು ನೋಡಿದರೆ, $n \\div \\frac{a}{b} = n \\times \\frac{b}{a}$. ಇಲ್ಲಿ $n$ ಎಂಬುದು ಪೂರ್ಣ ಸಂಖ್ಯೆ ಮತ್ತು $\\frac{a}{b}$ ಎಂಬುದು ಭಿನ್ನರಾಶಿ.",
+  "display_bullets": [
+    "ಒಂದು ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಭಿನ್ನರಾಶಿಯಿಂದ ಭಾಗಿಸಲು, ಆ ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು ಭಿನ್ನರಾಶಿಯ ವ್ಯುತ್ಕ್ರಮದಿಂದ ಗುಣಿಸಿ.",
+    "To divide a whole number by a fraction, multiply the whole number by the reciprocal of the fraction.",
+    "ಸೂತ್ರ: $n \\div \\frac{a}{b} = n \\times \\frac{b}{a}$"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "n \\div \\frac{a}{b} = n \\times \\frac{b}{a}",
+    "placeholder_note": "Formula for dividing a whole number by a fraction"
+  },
+  "chunk_id": "NS-FRA-1_concept_6_chunk_011"
+}

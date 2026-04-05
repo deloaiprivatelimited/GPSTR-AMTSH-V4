@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಮಿಶ್ರ ಆವರ್ತಕ ದಶಮಾಂಶ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಎರಡು ಮೂರು ಐದು ಮೂರು ಐದು ಹೀಗೆ ಮುಂದುವರೆಯುವ, ಅಂದರೆ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಎರಡು ಮತ್ತು ಮೂವತ್ತೈದರ ಮೇಲೆ ಬಾರ್ ಇರುವ ಸಂಖ್ಯೆಯನ್ನು p ಬೈ q ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಬೇಕು. ಇದು ಒಂದು ಮಿಶ್ರ ಆವರ್ತಕ ದಶಮಾಂಶ, ಏಕೆಂದರೆ ದಶಮಾಂಶ ಬಿಂದುವಿನ ನಂತರದ ಎಲ್ಲಾ ಅಂಕೆಗಳು ಪುನರಾವರ್ತನೆಯಾಗುವುದಿಲ್ಲ. ಇಲ್ಲಿ 'ಎರಡು' ಪುನರಾವರ್ತನೆಯಾಗುವುದಿಲ್ಲ, ಆದರೆ 'ಮೂರು ಐದು' ಪುನರಾವರ್ತನೆಯಾಗುತ್ತದೆ. ನಾವು ಈ ಸಮಸ್ಯೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ಬಿಡಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $0.2353535... = 0.2\\bar{35}$ ಇದನ್ನು $\\frac{p}{q}$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಬೇಕು. ಇದು ಒಂದು ಮಿಶ್ರ ಆವರ್ತಕ ದಶಮಾಂಶ, ಏಕೆಂದರೆ ದಶಮಾಂಶ ಬಿಂದುವಿನ ನಂತರದ ಎಲ್ಲಾ ಅಂಕೆಗಳು ಪುನರಾವರ್ತನೆಯಾಗುವುದಿಲ್ಲ. ಇಲ್ಲಿ '2' ಪುನರಾವರ್ತನೆಯಾಗುವುದಿಲ್ಲ, ಆದರೆ '35' ಪುನರಾವರ್ತನೆಯಾಗುತ್ತದೆ. ನಾವು ಈ ಸಮಸ್ಯೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ಬಿಡಿಸೋಣ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆ: $0.2\\bar{35}$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $\\frac{p}{q}$ ರೂಪ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "0.2\\bar{35} = \\frac{p}{q}?",
+    "placeholder_note": "A formula box showing the problem statement: 0.235 bar = p/q ?"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SYS-3_example_9",
+  "chunk_id": "NS-SYS-3_concept_3_chunk_015"
+}

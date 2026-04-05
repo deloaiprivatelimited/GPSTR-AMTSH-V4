@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಬಾಹು (Side): ವ್ಯಾಖ್ಯೆ",
+  "script": "ಈಗ ಬಾಹುವಿನ ನಿಖರವಾದ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ವ್ಯಾಖ್ಯೆ ಹೀಗಿದೆ: ಚತುರ್ಭುಜದ ಆಕಾರವನ್ನು ರೂಪಿಸುವ ನಾಲ್ಕು ರೇಖಾಖಂಡಗಳಲ್ಲಿ ಒಂದನ್ನು ಬಾಹು ಎನ್ನುತ್ತಾರೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಯಾವುದೇ ಚತುರ್ಭುಜವನ್ನು ನೀವು ಚಿತ್ರಿಸಿದಾಗ, ಅದರ ಗಡಿಗಳನ್ನು ರೂಪಿಸಲು ನೀವು ನಾಲ್ಕು ಗೆರೆಗಳನ್ನು ಎಳೆಯುತ್ತೀರಿ. ಆ ಪ್ರತಿಯೊಂದು ಗೆರೆ ಅಥವಾ ರೇಖಾಖಂಡವೇ ಒಂದು ಬಾಹು. ಈ ನಾಲ್ಕು ಬಾಹುಗಳು ಸೇರಿ ಒಂದು ಮುಚ್ಚಿದ ಆಕೃತಿಯನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಈ ಬಾಹುಗಳಿಲ್ಲದೆ ಚತುರ್ಭುಜದ ಅಸ್ತಿತ್ವವೇ ಇಲ್ಲ.",
+  "script_display": "ಈಗ ಬಾಹುವಿನ ನಿಖರವಾದ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ವ್ಯಾಖ್ಯೆ ಹೀಗಿದೆ: ಚತುರ್ಭುಜದ ಆಕಾರವನ್ನು ರೂಪಿಸುವ ನಾಲ್ಕು ರೇಖಾಖಂಡಗಳಲ್ಲಿ ಒಂದನ್ನು ಬಾಹು ಎನ್ನುತ್ತಾರೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಯಾವುದೇ ಚತುರ್ಭುಜವನ್ನು ನೀವು ಚಿತ್ರಿಸಿದಾಗ, ಅದರ ಗಡಿಗಳನ್ನು ರೂಪಿಸಲು ನೀವು ನಾಲ್ಕು ಗೆರೆಗಳನ್ನು ಎಳೆಯುತ್ತೀರಿ. ಆ ಪ್ರತಿಯೊಂದು ಗೆರೆ ಅಥವಾ ರೇಖಾಖಂಡವೇ ಒಂದು ಬಾಹು. ಈ ನಾಲ್ಕು ಬಾಹುಗಳು ಸೇರಿ ಒಂದು ಮುಚ್ಚಿದ ಆಕೃತಿಯನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಈ ಬಾಹುಗಳಿಲ್ಲದೆ ಚತುರ್ಭುಜದ ಅಸ್ತಿತ್ವವೇ ಇಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_side_by_side",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "html",
+    "latex": "<div style='padding: 20px; border: 2px solid #6c757d; border-radius: 10px; background-color: #f8f9fa;'><h4 style='color: #0056b3; font-weight: bold;'>ಬಾಹು (Side)</h4><p style='font-size: 1.1em; color: #343a40;'>ಚತುರ್ಭುಜದ ಆಕಾರವನ್ನು ರೂಪಿಸುವ ನಾಲ್ಕು ರೇಖಾಖಂಡಗಳಲ್ಲಿ ಒಂದು.</p></div>",
+    "placeholder_note": "A styled box containing the term and its definition."
+  },
+  "chunk_id": "VIS-CON-1_concept_2_chunk_007"
+}

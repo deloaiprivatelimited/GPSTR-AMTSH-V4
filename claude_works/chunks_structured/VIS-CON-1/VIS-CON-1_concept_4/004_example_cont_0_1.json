@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 1",
+  "script": "ಈಗ ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತ, ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ 5 ಸೆಂಟಿಮೀಟರ್ ಉದ್ದದ ಸಿಡಿ ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯಿರಿ. ಇದು ನಮ್ಮ ಆಯತದ ಪಾದವಾಗಿರುತ್ತದೆ. ಎರಡನೇ ಹಂತ, ಸಿ ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬ ರೇಖೆಯನ್ನು ಎಳೆಯಬೇಕು. ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ 90 ಡಿಗ್ರಿ ಇರುವುದರಿಂದ, ನಾವು ಸಿ ಬಿಂದುವಿನಲ್ಲಿ ಒಂದು ಲಂಬವನ್ನು ರಚಿಸಬೇಕಾಗುತ್ತದೆ. ಕೋನಮಾಪಕ ಅಥವಾ ಕೈವಾರವನ್ನು ಬಳಸಿ ಸಿ ಬಿಂದುವಿನಲ್ಲಿ ಸಿಡಿಗೆ ಲಂಬವಾಗಿ ಒಂದು ಕಿರಣ ಎಲ್ ಅನ್ನು ಎಳೆಯಿರಿ. ಬಿಂದು ಬಿ ಯು ಈ ಲಂಬ ರೇಖೆಯ ಮೇಲೆ ಇರುತ್ತದೆ.",
+  "script_display": "ಈಗ ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತ, ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ 5 cm ಉದ್ದದ CD ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯಿರಿ. ಇದು ನಮ್ಮ ಆಯತದ ಪಾದವಾಗಿರುತ್ತದೆ. ಎರಡನೇ ಹಂತ, C ಬಿಂದುವಿನಲ್ಲಿ ಲಂಬ ರೇಖೆಯನ್ನು ಎಳೆಯಬೇಕು. ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ $90°$ ಇರುವುದರಿಂದ, ನಾವು C ಬಿಂದುವಿನಲ್ಲಿ ಒಂದು ಲಂಬವನ್ನು ರಚಿಸಬೇಕಾಗುತ್ತದೆ. ಕೋನಮಾಪಕ ಅಥವಾ ಕೈವಾರವನ್ನು ಬಳಸಿ C ಬಿಂದುವಿನಲ್ಲಿ CDಗೆ ಲಂಬವಾಗಿ ಒಂದು ಕಿರಣ 'l' ಅನ್ನು ಎಳೆಯಿರಿ. ಬಿಂದು B ಯು ಈ ಲಂಬ ರೇಖೆಯ ಮೇಲೆ ಇರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A horizontal line segment labeled CD with length 5 cm. At point C, a perpendicular ray 'l' is drawn upwards, forming a 90-degree angle with CD. The angle is marked.",
+    "labels": "C, D, l, 5 cm, 90°",
+    "mathematical_significance": "This visual shows the first two steps of construction: creating the base side and establishing the locus for the third vertex (B) which must lie on the perpendicular line.",
+    "placeholder_note": "Image to be generated: Line segment CD=5cm with a perpendicular ray at C."
+  },
+  "difficulty": "advanced",
+  "source_example_id": "VIS-CON-1_example_3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಅಳತೆಪಟ್ಟಿಯನ್ನು ಬಳಸಿ $CD = 5$ cm ರೇಖಾಖಂಡವನ್ನು ಎಳೆಯಿರಿ.",
+      "justification": "ಆಯತದ ತಿಳಿದಿರುವ ಬಾಹುವನ್ನು ರಚಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "C ಬಿಂದುವಿನಲ್ಲಿ CD ಗೆ ಲಂಬವಾಗಿ ಒಂದು ಕಿರಣ 'l' ಅನ್ನು ಎಳೆಯಿರಿ ($∠DCX = 90°$).",
+      "justification": "ಆಯತದ ಕೋನವು $90°$ ಇರುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "VIS-CON-1_concept_4_chunk_004"
+}

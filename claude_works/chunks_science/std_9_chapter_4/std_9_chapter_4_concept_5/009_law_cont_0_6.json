@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಕ್ಲೋರಿನ್ (Cl, Z=17)",
+  "script": "ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ, ಕ್ಲೋರಿನ್. ಇದರ ಪರಮಾಣು ಸಂಖ್ಯೆ ಹದಿನೇಳು. ಅಂದರೆ, ನಾವು ಹದಿನೇಳು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಹಂಚಬೇಕು. ಮೊದಲಿನಂತೆ, K ಕವಚಕ್ಕೆ ಎರಡು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಹೋಗುತ್ತವೆ. ಈಗ ಹದಿನೇಳು ಮೈನಸ್ ಎರಡು, ಅಂದರೆ ಹದಿನೈದು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಉಳಿದಿವೆ. ಮುಂದಿನ L ಕವಚದ ಸಾಮರ್ಥ್ಯ ಎಂಟು. ಹಾಗಾಗಿ, ಎಂಟು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು L ಕವಚಕ್ಕೆ ಹಾಕೋಣ. ಈಗ ಹದಿನೈದು ಮೈನಸ್ ಎಂಟು, ಅಂದರೆ ಏಳು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಉಳಿದಿವೆ. ಈ ಉಳಿದ ಏಳು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು ಮೂರನೇ ಕವಚವಾದ M ಗೆ ಹೋಗುತ್ತವೆ. ಹೀಗಾಗಿ, ಕ್ಲೋರಿನ್‌ನ ಇಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ two, eight, seven ಎಂದು ಆಗುತ್ತದೆ.",
+  "script_display": "ಕ್ಲೋರಿನ್ (Cl) ಪರಮಾಣು ಸಂಖ್ಯೆ Z=17, ಅಂದರೆ 17 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳಿವೆ. ಅವುಗಳ ಹಂಚಿಕೆ ಹೀಗಿದೆ:\n• ಹಂತ 1: K-ಕವಚಕ್ಕೆ 2 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ತುಂಬಿ (17 - 2 = 15 ಉಳಿದಿದೆ).\n• ಹಂತ 2: L-ಕವಚಕ್ಕೆ 8 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ತುಂಬಿ (15 - 8 = 7 ಉಳಿದಿದೆ).\n• ಹಂತ 3: ಉಳಿದ 7 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು M-ಕವಚದಲ್ಲಿ ಇಡಿ.\n• ಅಂತಿಮ ವಿನ್ಯಾಸ: ಕ್ಲೋರಿನ್‌ನ ಇಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ 2, 8, 7.",
+  "display_bullets": [
+    "ಹಂತ 1: K-ಕವಚಕ್ಕೆ 2 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ತುಂಬಿ (17-2=15 ಉಳಿದಿದೆ).",
+    "ಹಂತ 2: L-ಕವಚಕ್ಕೆ 8 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ತುಂಬಿ (15-8=7 ಉಳಿದಿದೆ).",
+    "ಹಂತ 3: ಉಳಿದ 7 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು M-ಕವಚದಲ್ಲಿ ಇಡಿ.",
+    "ಕ್ಲೋರಿನ್‌ನ ಇಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ: 2, 8, 7."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard_step",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A Bohr model diagram for Chlorine (Cl). It shows a nucleus labeled '17p+', and three shells. The K shell has 2 dots, the L shell has 8 dots, and the M shell has 7 dots.",
+    "labels": "Nucleus (17p+), K shell (2e⁻), L shell (8e⁻), M shell (7e⁻)",
+    "scientific_significance": "Visual representation of the electron configuration of Chlorine (2,8,7) based on Bohr-Bury rules.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_4_concept_5_chunk_009"
+}

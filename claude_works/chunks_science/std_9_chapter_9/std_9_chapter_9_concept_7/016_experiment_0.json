@@ -1,0 +1,37 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಚಟುವಟಿಕೆ 9.7: ವಸ್ತುವಿನ ತೂಕದಲ್ಲಿನ ಇಳಿಕೆ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಪ್ಲವನತಾ ಬಲದ ಪರಿಣಾಮವನ್ನು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಚಟುವಟಿಕೆಗೆ ನಮಗೆ ಕೆಲವು ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸು, ಇದು ವಸ್ತುವಿನ ತೂಕವನ್ನು ಅಳೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ನಂತರ, ಒಂದು ಸಣ್ಣ ಕಲ್ಲು, ಇದರ ತೂಕವನ್ನು ನಾವು ಅಳೆಯುತ್ತೇವೆ. ಮತ್ತು ಅಂತಿಮವಾಗಿ, ನೀರು ತುಂಬಿದ ಒಂದು ಬೀಕರ್. ಈ ಸರಳ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ, ದ್ರವದಲ್ಲಿ ಮುಳುಗಿದ ವಸ್ತುವಿನ ತೂಕದಲ್ಲಿ ಏನು ಬದಲಾವಣೆಯಾಗುತ್ತದೆ ಎಂದು ನಾವು ನೋಡೋಣ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಪ್ಲವನತಾ ಬಲದ ಪರಿಣಾಮವನ್ನು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಚಟುವಟಿಕೆಗೆ ನಮಗೆ ಕೆಲವು ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸು, ಇದು ವಸ್ತುವಿನ ತೂಕವನ್ನು ಅಳೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ನಂತರ, ಒಂದು ಸಣ್ಣ ಕಲ್ಲು, ಇದರ ತೂಕವನ್ನು ನಾವು ಅಳೆಯುತ್ತೇವೆ. ಮತ್ತು ಅಂತಿಮವಾಗಿ, ನೀರು ತುಂಬಿದ ಒಂದು ಬೀಕರ್. ಈ ಸರಳ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ, ದ್ರವದಲ್ಲಿ ಮುಳುಗಿದ ವಸ್ತುವಿನ ತೂಕದಲ್ಲಿ ಏನು ಬದಲಾವಣೆಯಾಗುತ್ತದೆ ಎಂದು ನಾವು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸು (Spring balance)",
+    "ಒಂದು ಕಲ್ಲು (A stone)",
+    "ನೀರು ತುಂಬಿದ ಬೀಕರ್ (A beaker with water)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the experiment: a spring balance, a stone, and a beaker of water, all separate on a table.",
+    "labels": "ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸು, ಕಲ್ಲು, ಬೀಕರ್, ನೀರು",
+    "scientific_significance": "Shows the materials required to demonstrate the concept of apparent weight loss in a fluid.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "experiment_setup",
+  "chunk_id": "std_9_chapter_9_concept_7_chunk_016"
+}

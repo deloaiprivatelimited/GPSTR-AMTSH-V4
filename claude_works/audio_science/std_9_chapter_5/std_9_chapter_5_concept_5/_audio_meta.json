@@ -1,0 +1,81 @@
+{
+  "module_id": "std_9_chapter_5_concept_5",
+  "chapter_code": "std_9_chapter_5",
+  "voice": "Achird",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:02:01",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "7ba55d1ef46fa230ea265453624d54ca",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 25.931,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "bullet_list",
+      "script_words": 39,
+      "generated_at": "2026-04-02 16:00:50"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "4335131e92b582e64612d6d5da575f6a",
+      "wav_file": "001_intro_0.wav",
+      "duration": 61.011,
+      "slide_title": "ಕೋಶಭಿತ್ತಿ ಮತ್ತು ಕೋಶಕೇಂದ್ರ",
+      "type": "intro",
+      "script_words": 80,
+      "generated_at": "2026-04-02 16:01:12"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "9a8194c2b90ea8fa1d1653389c8e26b9",
+      "wav_file": "003_property_0.wav",
+      "duration": 60.491,
+      "slide_title": "ಕೋಶಭಿತ್ತಿ (Cell Wall)",
+      "type": "concept_explanation",
+      "script_words": 75,
+      "generated_at": "2026-04-02 16:01:17"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "00d1ed3a31ac38894670999f0b472fc5",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 44.651,
+      "slide_title": "ಕೋಶಕೇಂದ್ರ (Nucleus): ರಚನೆ",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 16:01:21"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "f00463352f503d9a85e19e73799438ac",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 57.011,
+      "slide_title": "ಕೋಶಕೇಂದ್ರ (Nucleus): ಕಾರ್ಯಗಳು",
+      "type": "concept_explanation",
+      "script_words": 73,
+      "generated_at": "2026-04-02 16:01:32"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "59b0bcf8fa4e95684cb8f472a488325b",
+      "wav_file": "006_recap_0.wav",
+      "duration": 42.651,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 57,
+      "generated_at": "2026-04-02 16:02:01"
+    }
+  }
+}

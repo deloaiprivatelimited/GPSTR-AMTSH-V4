@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 3 - $∆AFD$ ನಲ್ಲಿ ವಿಲೋಮ ಪ್ರಮೇಯ",
+  "script": "ಈಗ, ತ್ರಿಭುಜ ಎ ಎಫ್ ಡಿ ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಜಿ ಯು ಎ ಎಫ್ ನ ಮಧ್ಯಬಿಂದು ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಅಂದರೆ, ಎ ಜಿ ಯು ಜಿ ಎಫ್ ಗೆ ಸಮ. ನಮಗೆ ಎಲ್ ಮತ್ತು ಎಂ ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿವೆ ಎಂದು ತಿಳಿದಿದೆ, ಆದ್ದರಿಂದ ಜಿ ಇ ಯು ಎ ಡಿ ಗೆ ಸಮಾಂತರವಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿಯೂ ಕೂಡ ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ವಿಲೋಮವನ್ನು ಅನ್ವಯಿಸಿದಾಗ, ಇ ಯು ಡಿ ಎಫ್ ನ ಮಧ್ಯಬಿಂದು ಆಗುತ್ತದೆ. ಇದರರ್ಥ ಡಿ ಇ ಯು ಇ ಎಫ್ ಗೆ ಸಮವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ, $∆AFD$ ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು G ಯು AF ನ ಮಧ್ಯಬಿಂದು ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ ($AG = GF$). ನಮಗೆ $l \\parallel m$ ಎಂದು ತಿಳಿದಿದೆ, ಆದ್ದರಿಂದ $GE \\parallel AD$. ಇಲ್ಲಿಯೂ ಕೂಡ ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ವಿಲೋಮವನ್ನು ಅನ್ವಯಿಸಿದಾಗ, E ಯು DF ನ ಮಧ್ಯಬಿಂದು ಆಗುತ್ತದೆ. ಇದರರ್ಥ $DE = EF$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಚಿತ್ರದಲ್ಲಿ, ತ್ರಿಭುಜ AFD ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. G ಯು AF ನ ಮಧ್ಯಬಿಂದು ಮತ್ತು GE || AD ಎಂದು ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "A, F, D, G, E",
+    "mathematical_significance": "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ವಿಲೋಮವನ್ನು $∆AFD$ ಗೆ ಅನ್ವಯಿಸುವುದನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated with triangle AFD highlighted."
+  },
+  "source_example_id": "GEO-QUAD-2_example_7",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$∆AFD$ ನಲ್ಲಿ, G ಯು AF ನ ಮಧ್ಯಬಿಂದು ಮತ್ತು $GE \\parallel AD$.",
+      "justification": "ಮಧ್ಯಬಿಂದು ಪ್ರಮೇಯದ ವಿಲೋಮವನ್ನು ಅನ್ವಯಿಸಿದಾಗ, E ಯು DF ನ ಮಧ್ಯಬಿಂದುವಾಗುತ್ತದೆ. $\\implies DE = EF$."
+    }
+  ],
+  "chunk_id": "GEO-QUAD-2_concept_5_chunk_015"
+}

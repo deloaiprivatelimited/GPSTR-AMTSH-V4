@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, y ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ 7y ಪ್ಲಸ್ 12 ರ ಅಪವರ್ತನಗಳು y ಮೈನಸ್ 3 ಮತ್ತು y ಮೈನಸ್ 4. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ. ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ನಾವು ಪರಿಶೀಲಿಸಬಹುದು. y ಮೈನಸ್ 3 ಮತ್ತು y ಮೈನಸ್ 4 ಅನ್ನು ಗುಣಿಸಿದಾಗ, ನಮಗೆ y ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ 4y ಮೈನಸ್ 3y ಪ್ಲಸ್ 12 ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿದರೆ y ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ 7y ಪ್ಲಸ್ 12 ಬರುತ್ತದೆ. ಇದು ಮೂಲ ಬೀಜೋಕ್ತಿಗೆ ಸಮನಾಗಿದೆ. ಆದ್ದರಿಂದ ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆ.",
+  "script_display": "ಹಾಗಾಗಿ, $y^2 - 7y + 12$ ರ ಅಪವರ್ತನಗಳು $(y-3)$ ಮತ್ತು $(y-4)$. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ. ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ನಾವು ಪರಿಶೀಲಿಸಬಹುದು. $(y-3)(y-4)$ ಅನ್ನು ಗುಣಿಸಿದಾಗ, ನಮಗೆ $y^2 - 4y - 3y + 12$ ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿದರೆ $y^2 - 7y + 12$ ಬರುತ್ತದೆ. ಇದು ಮೂಲ ಬೀಜೋಕ್ತಿಗೆ ಸಮನಾಗಿದೆ. ಆದ್ದರಿಂದ ನಮ್ಮ ಉತ್ತರ ಸರಿಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $(y-3)(y-4)$",
+    "ಪರಿಶೀಲನೆ: $(y-3)(y-4) = y^2 - 4y - 3y + 12 = y^2 - 7y + 12$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "(y-3)(y-4)",
+    "placeholder_note": "Final answer"
+  },
+  "source_example_id": "ALG-FAC-2_example_11",
+  "steps": [],
+  "final_answer": "(y-3)(y-4)",
+  "final_answer_display": "$(y-3)(y-4)$",
+  "chunk_id": "ALG-FAC-2_concept_5_chunk_015"
+}

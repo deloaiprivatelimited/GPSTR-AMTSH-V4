@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಶುಷ್ಕ ಮಂಜುಗಡ್ಡೆಯ ಉಪಯೋಗಗಳು",
+  "script": "ಶುಷ್ಕ ಮಂಜುಗಡ್ಡೆಯ ಈ ವಿಶಿಷ್ಟ ಗುಣದಿಂದಾಗಿ ಹಲವು ಉಪಯೋಗಗಳಿವೆ. ಮೊದಲನೆಯದಾಗಿ, ಇದನ್ನು ಅತ್ಯುತ್ತಮ ಶೀತಕವಾಗಿ ಬಳಸುತ್ತಾರೆ. ಇದರ ತಾಪಮಾನ ತುಂಬಾ ಕಡಿಮೆ ಇರುತ್ತದೆ. ವೈದ್ಯಕೀಯ ಸರಬರಾಜು ಮತ್ತು ಬೇಗ ಹಾಳಾಗುವ ಆಹಾರ ಪದಾರ್ಥಗಳನ್ನು ಸಾಗಿಸಲು ಇದು ತುಂಬಾ ಉಪಯುಕ್ತ. ಮುಖ್ಯವಾಗಿ, ಇದು ಕರಗಿ ನೀರಾಗುವುದಿಲ್ಲ, ಹಾಗಾಗಿ ಸಾಗಿಸುವ ವಸ್ತುಗಳು ಒದ್ದೆಯಾಗುವ ಚಿಂತೆಯಿಲ್ಲ. ಇದಲ್ಲದೆ, ನೀವು ಸಿನೆಮಾ ಅಥವಾ ಸಮಾರಂಭಗಳಲ್ಲಿ ನೋಡುವ ದಟ್ಟವಾದ ಹೊಗೆಯ ಪರಿಣಾಮವನ್ನು ಸೃಷ್ಟಿಸಲು ಕೂಡ ಶುಷ್ಕ ಮಂಜುಗಡ್ಡೆಯನ್ನು ಬಳಸುತ್ತಾರೆ.",
+  "script_display": "ಶುಷ್ಕ ಮಂಜುಗಡ್ಡೆಯ ಈ ವಿಶಿಷ್ಟ ಗುಣದಿಂದಾಗಿ ಹಲವು ಉಪಯೋಗಗಳಿವೆ. \n\n* ಇದನ್ನು ಅತ್ಯುತ್ತಮ ಶೀತಕವಾಗಿ (refrigerant) ಬಳಸುತ್ತಾರೆ (ತಾಪಮಾನ: -78.5 °C).\n* ವೈದ್ಯಕೀಯ ಸರಬರಾಜು ಮತ್ತು ಆಹಾರ ಪದಾರ್ಥಗಳನ್ನು ಸಾಗಿಸಲು ಉಪಯುಕ್ತ.\n* ಇದು ಕರಗಿ ನೀರಾಗುವುದಿಲ್ಲ, ಹಾಗಾಗಿ ವಸ್ತುಗಳು ಒದ್ದೆಯಾಗುವುದಿಲ್ಲ.\n* ಸಮಾರಂಭಗಳಲ್ಲಿ ಹೊಗೆಯ ಪರಿಣಾಮ (smoky effect) ಸೃಷ್ಟಿಸಲು ಬಳಸುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಇದನ್ನು ಅತ್ಯುತ್ತಮ ಶೀತಕವಾಗಿ (refrigerant) ಬಳಸುತ್ತಾರೆ (ತಾಪಮಾನ: -78.5 °C).",
+    "ವೈದ್ಯಕೀಯ ಸರಬರಾಜು ಮತ್ತು ಆಹಾರ ಪದಾರ್ಥಗಳನ್ನು ಸಾಗಿಸಲು ಉಪಯುಕ್ತ.",
+    "ಇದು ಕರಗಿ ನೀರಾಗುವುದಿಲ್ಲ, ಹಾಗಾಗಿ ವಸ್ತುಗಳು ಒದ್ದೆಯಾಗುವುದಿಲ್ಲ.",
+    "ಸಮಾರಂಭಗಳಲ್ಲಿ ಹೊಗೆಯ ಪರಿಣಾಮ (smoky effect) ಸೃಷ್ಟಿಸಲು ಬಳಸುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A composite image. On the left, an insulated shipping container with medical vials packed around blocks of dry ice. On the right, a stage with a performer surrounded by thick, low-lying white smoke generated from dry ice.",
+    "labels": "ಶೀತಕ, ಹೊಗೆಯ ಪರಿಣಾಮ",
+    "scientific_significance": "Shows the two primary applications of dry ice: as a non-wetting refrigerant due to sublimation, and for creating special effects.",
+    "placeholder_note": "Image to be generated showing uses of dry ice."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_1_concept_5_chunk_011"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಸಾರರಿಕ್ತ ಸಲ್ಯೂರಿಕ್ ಆಮ್ಲ, ಅಂದರೆ H two S O four, ಸತುವಿನೊಂದಿಗೆ, ಅಂದರೆ Zn ನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಸತುವಿನ ಸಲ್ಫೇಟ್, ಅಂದರೆ Zn S O four, ಮತ್ತು ಹೈಡ್ರೋಜನ್ ಅನಿಲ, ಅಂದರೆ H two ಅನ್ನು ನೀಡುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ: H₂SO₄(aq) + Zn(s) → ZnSO₄(aq) + H₂(g)",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "H₂SO₄(aq) + Zn(s) \\rightarrow ZnSO₄(aq) + H₂(g)",
+    "placeholder_note": "ಸತುವಿನೊಂದಿಗೆ ಸಾರರಿಕ್ತ ಸಲ್ಯೂರಿಕ್ ಆಮ್ಲದ ವರ್ತನೆ."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_009"
+}

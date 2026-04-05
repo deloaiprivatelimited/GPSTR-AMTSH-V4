@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಪರಿಹಾರವನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ಆವರ್ತನಾವಧಿಯ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು. ಆವರ್ತನಾವಧಿ ಎಂದರೆ, ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಕಾಲವನ್ನು ಆಂದೋಲನಗಳ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸುವುದು. ಎರಡನೇ ಹಂತ, ಕೊಟ್ಟಿರುವ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕುವುದು. ಇಲ್ಲಿ, ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಕಾಲ ನಲವತ್ತೆರಡು ಸೆಕೆಂಡುಗಳು ಮತ್ತು ಆಂದೋಲನಗಳ ಸಂಖ್ಯೆ ಇಪ್ಪತ್ತು. ಹಾಗಾಗಿ, ಆವರ್ತನಾವಧಿ ಸಮನಾಗಿರುತ್ತದೆ ನಲವತ್ತೆರಡು ಭಾಗಿಸು ಇಪ್ಪತ್ತು.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. **ಹಂತ 1:** ಆವರ್ತನಾವಧಿಯ ಸೂತ್ರವನ್ನು ಬಳಸಿ. **ಹಂತ 2:** ಕೊಟ್ಟಿರುವ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ.",
+  "display_bullets": [
+    "**ಹಂತ 1: ಸೂತ್ರವನ್ನು ಬಳಸಿ**<br>ಆವರ್ತನಾವಧಿ (T) ಎಂದರೆ ಒಂದು ಆಂದೋಲನಕ್ಕೆ ಬೇಕಾದ ಸಮಯ.",
+    "**ಹಂತ 2: ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸಿ**<br>ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಒಟ್ಟು ಕಾಲ = 42 s ಮತ್ತು ಆಂದೋಲನಗಳ ಸಂಖ್ಯೆ = 20."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "T = \\frac{\\text{ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಕಾಲ}}{\\text{ಆಂದೋಲನಗಳ ಸಂಖ್ಯೆ}} \\\\ \\\\ T = \\frac{42}{20}",
+    "placeholder_note": "Formula for time period and substitution of values"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_7_science_ch_9_example_3",
+  "chunk_id": "std_7_science_ch_9_concept_3_chunk_026"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹುದುಗುವಿಕೆಯ ಅನ್ವಯಗಳು",
+  "script": "ಹುದುಗುವಿಕೆ ಪ್ರಕ್ರಿಯೆಯು ಕೇವಲ ಒಂದು ರಾಸಾಯನಿಕ ಸಮೀಕರಣವಲ್ಲ, ಇದು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತದೆ. ಇದನ್ನು ಮುಖ್ಯವಾಗಿ ವೈನ್ ಮತ್ತು ಬಿಯರ್ ತಯಾರಿಕೆಯಲ್ಲಿ ಬಳಸಲಾಗುತ್ತದೆ. ಇದಲ್ಲದೆ, ಬ್ರೆಡ್ ತಯಾರಿಕೆಯಲ್ಲಿ, ಬಿಡುಗಡೆಯಾಗುವ ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಹಿಟ್ಟನ್ನು ಉಬ್ಬುವಂತೆ ಮಾಡಿ ಮೃದುವಾಗಿಸುತ್ತದೆ.",
+  "script_display": "ಹುದುಗುವಿಕೆ ಪ್ರಕ್ರಿಯೆಯು ಕೇವಲ ಒಂದು ರಾಸಾಯನಿಕ ಸಮೀಕರಣವಲ್ಲ, ಇದು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ವೈನ್ ಮತ್ತು ಬಿಯರ್ ತಯಾರಿಕೆ.",
+    "ಬ್ರೆಡ್ ತಯಾರಿಕೆಯಲ್ಲಿ ಹಿಟ್ಟು ಉಬ್ಬಲು ಸಹಕಾರಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_3",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating fermentation. On the left, a flask contains yeast and glucose solution. An arrow points to the right, showing two products: a bottle of wine representing alcohol, and rising bubbles representing carbon dioxide being used to make bread rise.",
+    "labels": "ಯೀಸ್ಟ್ + ಗ್ಲೂಕೋಸ್, ಆಲ್ಕೋಹಾಲ್ (ವೈನ್), ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (ಬ್ರೆಡ್ ಉಬ್ಬುವುದು)",
+    "scientific_significance": "Shows the commercial applications of anaerobic respiration in yeast (fermentation).",
+    "placeholder_note": "Image to be generated showing yeast converting sugar to alcohol and CO2, with applications like wine and bread."
+  },
+  "chunk_id": "std_7_chapter_6_concept_2_chunk_022"
+}

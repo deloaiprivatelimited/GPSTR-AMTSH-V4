@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆ",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಬಹುಪದೋಕ್ತಿ p(x) ಈಕ್ವಲ್ಸ್ 2x ಪ್ಲಸ್ 1. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಈ ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆ. ಅಂದರೆ, x ನ ಯಾವ ಬೆಲೆಗೆ ಈ ಬಹುಪದೋಕ್ತಿಯ ಮೌಲ್ಯ ಶೂನ್ಯವಾಗುತ್ತದೆ ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಬಹುಪದೋಕ್ತಿ $p(x) = 2x + 1$. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಈ ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆ. ಅಂದರೆ, $x$ ನ ಯಾವ ಬೆಲೆಗೆ ಈ ಬಹುಪದೋಕ್ತಿಯ ಮೌಲ್ಯ ಶೂನ್ಯವಾಗುತ್ತದೆ ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಬಹುಪದೋಕ್ತಿ: $p(x) = 2x + 1$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "p(x) = 2x + 1 \\text{ ಈ ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.}",
+    "placeholder_note": "Problem statement for finding the zero of a linear polynomial"
+  },
+  "source_example_id": "ALG-POL-3_example_2",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "ALG-POL-3_concept_2_chunk_023"
+}

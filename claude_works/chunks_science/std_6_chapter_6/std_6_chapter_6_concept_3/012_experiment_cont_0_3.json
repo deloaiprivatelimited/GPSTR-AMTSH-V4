@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಹಂತ 3: ಟ್ರೇಸಿಂಗ್ ಕಾಗದದ ಪರೀಕ್ಷೆ",
+  "script": "ಕೊನೆಯದಾಗಿ, ನಾವು ಟ್ರೇಸಿಂಗ್ ಕಾಗದವನ್ನು ಪರೀಕ್ಷಿಸೋಣ. ಟಾರ್ಚ್ ಬೆಳಕನ್ನು ಈ ಕಾಗದದ ಮೇಲೆ ಹಾಯಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಬೆಳಕು ಹಾದುಹೋಗುತ್ತಿದೆಯೇ? ಹೌದು, ಆದರೆ ಗಾಜಿನ ಹಾಳೆಯಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿಲ್ಲ. ಬೆಳಕು ಕಾಗದದ ಮೂಲಕ ಹಾದುಹೋಗುವಾಗ ಚದುರಿಹೋಗುತ್ತದೆ, ಇದರಿಂದಾಗಿ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ಮಸುಕಾದ ಬೆಳಕು ಕಾಣಿಸುತ್ತದೆ. ನಾವು ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿರುವ ವಸ್ತುಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಈ ರೀತಿ, ಬೆಳಕನ್ನು ಭಾಗಶಃ ಹಾದುಹೋಗಲು ಬಿಡುವ ವಸ್ತುಗಳನ್ನು ಅರೆಪಾರದರ್ಶಕ ವಸ್ತುಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ನಾವು ಟ್ರೇಸಿಂಗ್ ಕಾಗದವನ್ನು ಪರೀಕ್ಷಿಸೋಣ. ಟಾರ್ಚ್ ಬೆಳಕನ್ನು ಈ ಕಾಗದದ ಮೇಲೆ ಹಾಯಿಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಬೆಳಕು ಹಾದುಹೋಗುತ್ತಿದೆಯೇ? ಹೌದು, ಆದರೆ ಗಾಜಿನ ಹಾಳೆಯಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿಲ್ಲ. ಬೆಳಕು ಕಾಗದದ ಮೂಲಕ ಹಾದುಹೋಗುವಾಗ ಚದುರಿಹೋಗುತ್ತದೆ, ಇದರಿಂದಾಗಿ ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ಮಸುಕಾದ ಬೆಳಕು ಕಾಣಿಸುತ್ತದೆ. ನಾವು ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿರುವ ವಸ್ತುಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಈ ರೀತಿ, ಬೆಳಕನ್ನು ಭಾಗಶಃ ಹಾದುಹೋಗಲು ಬಿಡುವ ವಸ್ತುಗಳನ್ನು ಅರೆಪಾರದರ್ಶಕ ವಸ್ತುಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಟಾರ್ಚ್ ಬೆಳಕನ್ನು ಟ್ರೇಸಿಂಗ್ ಕಾಗದದ ಮೇಲೆ ಹಾಯಿಸಿ.",
+    "ವೀಕ್ಷಣೆ: ಬೆಳಕು ಭಾಗಶಃ ಮತ್ತು ಮಸುಕಾಗಿ ಹಾದುಹೋಗುತ್ತದೆ.",
+    "ತೀರ್ಮಾನ: ಟ್ರೇಸಿಂಗ್ ಕಾಗದ ಒಂದು ಅರೆಪಾರದರ್ಶಕ ವಸ್ತು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_A",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a lit torch's beam of light passing through a sheet of tracing paper. The light that emerges on the other side is scattered and diffused, appearing as a faint, blurry patch of light.",
+    "labels": "ಟಾರ್ಚ್, ಟ್ರೇಸಿಂಗ್ ಕಾಗದ, ಚದುರಿದ ಬೆಳಕು",
+    "scientific_significance": "Visually demonstrates the concept of translucency, where light passes through but is scattered, preventing clear vision of objects on the other side.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_6_chapter_6_concept_3_chunk_012"
+}

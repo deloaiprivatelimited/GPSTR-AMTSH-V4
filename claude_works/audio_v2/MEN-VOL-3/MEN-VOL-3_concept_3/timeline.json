@@ -1,0 +1,166 @@
+{
+  "module_id": "MEN-VOL-3_concept_3",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 14,
+  "total_duration": 795.794,
+  "total_duration_formatted": "13:15",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಜೋಡಿಸಿದ ಘನಗಳ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 60.651,
+      "duration": 60.651,
+      "script_words": 80
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 61.251,
+      "end": 101.342,
+      "duration": 40.091,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಜೋಡಿಸಿದ ಘನಗಳ ಮೇಲೈ ವಿಸ್ತೀರ್ಣದ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "start": 101.942,
+      "end": 157.633,
+      "duration": 55.691,
+      "script_words": 78
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಮುಚ್ಚಿದ ಪಾದಗಳು: ವಿಸ್ತೀರ್ಣದ ಪರಿಗಣನೆ",
+      "type": "concept_explanation",
+      "start": 158.233,
+      "end": 207.764,
+      "duration": 49.531,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_005",
+      "chunk_file": "005_example_0.json",
+      "wav_file": "005_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಘನ ಮತ್ತು ಅರ್ಧಗೋಳದ ಸಂಯೋಜನೆ",
+      "type": "worked_example",
+      "start": 208.364,
+      "end": 235.975,
+      "duration": 27.611,
+      "script_words": 37
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_006",
+      "chunk_file": "006_example_cont_0_1.json",
+      "wav_file": "006_example_cont_0_1.wav",
+      "slide_title": "ಹಂತ 1: ಸೂತ್ರವನ್ನು ರೂಪಿಸುವುದು",
+      "type": "worked_example",
+      "start": 236.575,
+      "end": 297.346,
+      "duration": 60.771,
+      "script_words": 79
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_007",
+      "chunk_file": "007_example_cont_0_2.json",
+      "wav_file": "007_example_cont_0_2.wav",
+      "slide_title": "ಹಂತ 2: ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿ ಲೆಕ್ಕಾಚಾರ",
+      "type": "worked_example",
+      "start": 297.946,
+      "end": 365.277,
+      "duration": 67.331,
+      "script_words": 91
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_008",
+      "chunk_file": "008_example_cont_0_3.json",
+      "wav_file": "008_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "start": 365.877,
+      "end": 423.088,
+      "duration": 57.211,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_009",
+      "chunk_file": "009_example_1.json",
+      "wav_file": "009_example_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ರಾಕೆಟ್ ಆಟಿಕೆಯ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "start": 423.688,
+      "end": 464.339,
+      "duration": 40.651,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_010",
+      "chunk_file": "010_example_cont_1_1.json",
+      "wav_file": "010_example_cont_1_1.wav",
+      "slide_title": "ಹಂತ 1 & 2: ಅಳತೆಗಳ ಮತ್ತು ಓರೆ ಎತ್ತರದ ಲೆಕ್ಕಾಚಾರ",
+      "type": "worked_example",
+      "start": 464.939,
+      "end": 548.79,
+      "duration": 83.851,
+      "script_words": 115
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_011",
+      "chunk_file": "011_example_cont_1_2.json",
+      "wav_file": "011_example_cont_1_2.wav",
+      "slide_title": "ಹಂತ 3: ಕಿತ್ತಳೆ ಬಣ್ಣದ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "start": 549.39,
+      "end": 639.721,
+      "duration": 90.331,
+      "script_words": 104
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_012",
+      "chunk_file": "012_example_cont_1_3.json",
+      "wav_file": "012_example_cont_1_3.wav",
+      "slide_title": "ಹಂತ 4: ಹಳದಿ ಬಣ್ಣದ ವಿಸ್ತೀರ್ಣ",
+      "type": "worked_example",
+      "start": 640.321,
+      "end": 702.612,
+      "duration": 62.291,
+      "script_words": 83
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_013",
+      "chunk_file": "013_example_cont_1_4.json",
+      "wav_file": "013_example_cont_1_4.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "start": 703.212,
+      "end": 749.063,
+      "duration": 45.851,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "MEN-VOL-3_concept_3_chunk_014",
+      "chunk_file": "014_recap_0.json",
+      "wav_file": "014_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಜೋಡಿಸಿದ ಘನಗಳ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ",
+      "type": "recap",
+      "start": 749.663,
+      "end": 795.194,
+      "duration": 45.531,
+      "script_words": 61
+    }
+  ]
+}

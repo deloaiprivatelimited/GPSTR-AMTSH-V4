@@ -1,0 +1,37 @@
+{
+  "type": "intro",
+  "slide_title": "ಸೌರವ್ಯೂಹದ ಆಚೆಗಿನ ವಿಶ್ವ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಇಂದಿನ ತರಗತಿಗೆ ನಿಮಗೆಲ್ಲರಿಗೂ ಸ್ವಾಗತ. ನಾವು ರಾತ್ರಿ ಆಕಾಶವನ್ನು ನೋಡಿದಾಗ, ಸಾವಿರಾರು ನಕ್ಷತ್ರಗಳು ಮಿನುಗುವುದನ್ನು ಕಾಣುತ್ತೇವೆ. ಆದರೆ ನಮ್ಮ ಸೌರವ್ಯೂಹದ ಆಚೆಗೆ ಏನಿದೆ ಎಂದು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ? ಈ ಬ್ರಹ್ಮಾಂಡ ಎಷ್ಟು ದೊಡ್ಡದು? ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ನಮ್ಮ ಸೌರವ್ಯೂಹದ ಗಡಿಗಳನ್ನು ದಾಟಿ, ಅದರಾಚೆಗಿನ ಅದ್ಭುತ ಜಗತ್ತನ್ನು ಅನ್ವೇಷಿಸಲಿದ್ದೇವೆ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಗೆಲಾಕ್ಸಿಗಳು ಎಂದರೇನು, ನಮ್ಮ ಹಾಲುಹಾದಿ ಗೆಲಾಕ್ಸಿ ಬಗ್ಗೆ, ಮತ್ತು ಈ ವಿಶಾಲವಾದ ವಿಶ್ವದಲ್ಲಿ ನಮ್ಮ ಸ್ಥಾನ ಏನು ಎಂಬುದನ್ನು ಕಲಿಯಲಿದ್ದೇವೆ. ಈ ಪ್ರಯಾಣವು ಖಂಡಿತವಾಗಿಯೂ ನಿಮ್ಮನ್ನು ಬೆರಗುಗೊಳಿಸುತ್ತದೆ. ಸಿದ್ಧರಿದ್ದೀರಾ?",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಇಂದಿನ ತರಗತಿಗೆ ನಿಮಗೆಲ್ಲರಿಗೂ ಸ್ವಾಗತ. ನಾವು ರಾತ್ರಿ ಆಕಾಶವನ್ನು ನೋಡಿದಾಗ, ಸಾವಿರಾರು ನಕ್ಷತ್ರಗಳು ಮಿನುಗುವುದನ್ನು ಕಾಣುತ್ತೇವೆ. ಆದರೆ ನಮ್ಮ ಸೌರವ್ಯೂಹದ ಆಚೆಗೆ ಏನಿದೆ ಎಂದು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ? ಈ ಬ್ರಹ್ಮಾಂಡ (Universe) ಎಷ್ಟು ದೊಡ್ಡದು? ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ನಮ್ಮ ಸೌರವ್ಯೂಹದ ಗಡಿಗಳನ್ನು ದಾಟಿ, ಅದರಾಚೆಗಿನ ಅದ್ಭುತ ಜಗತ್ತನ್ನು ಅನ್ವೇಷಿಸಲಿದ್ದೇವೆ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು:",
+  "display_bullets": [
+    "ಗೆಲಾಕ್ಸಿಗಳು (Galaxies) ಎಂದರೇನು?",
+    "ನಮ್ಮ ಹಾಲುಹಾದಿ ಗೆಲಾಕ್ಸಿ (Milky Way Galaxy)",
+    "ವಿಶ್ವದಲ್ಲಿ (Universe) ನಮ್ಮ ಸ್ಥಾನ"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_a",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A breathtaking, high-resolution image of the Milky Way galaxy as seen from a dark sky location, showing the dense band of stars, dust lanes, and nebulae. The image should evoke a sense of wonder and scale.",
+    "labels": "Milky Way Galaxy, Star Clouds, Dust Lanes",
+    "scientific_significance": "Visually represents our home galaxy, the Milky Way, setting the stage for understanding concepts beyond our solar system. It helps students grasp the immense scale of a galaxy.",
+    "placeholder_note": "Image to be generated. Should be awe-inspiring."
+  },
+  "sub_type": "title",
+  "chunk_id": "std_6_chapter_12_concept_4_chunk_001"
+}

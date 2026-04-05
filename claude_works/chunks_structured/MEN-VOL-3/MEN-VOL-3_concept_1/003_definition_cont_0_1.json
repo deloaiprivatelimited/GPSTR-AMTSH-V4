@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಶಂಕುವಿನ ರಚನೆ",
+  "script": "ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ABC ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ, ಮತ್ತು ಕೋನ B ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಇದೆ. ಇದನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಈಗ ನಾವು AB ಬಾಹುವನ್ನು ಅಕ್ಷವಾಗಿಟ್ಟುಕೊಂಡು ಮುನ್ನೂರ ಅರವತ್ತು ಡಿಗ್ರಿ ತಿರುಗಿಸಿ. ಹೀಗೆ ತಿರುಗಿಸಿದಾಗ, AC ಬಾಹುವು ವಕ್ರ ಮೇಲ್ಮೈಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಹಾಗೆಯೇ, BC ಬಾಹುವು ವೃತ್ತಾಕಾರದ ಪಾದವನ್ನು ರೂಪಿಸುತ್ತದೆ. ಈ ರೀತಿ ಉಂಟಾದ ಸಂಪೂರ್ಣ ಆಕೃತಿಯೇ ನೇರವೃತ್ತಪಾದ ಶಂಕು. ಅಂದರೆ, ಒಂದು ಸಮತಲ ಆಕೃತಿಯಾದ ಲಂಬಕೋನ ತ್ರಿಭುಜದಿಂದ, ಒಂದು ಘನಾಕೃತಿಯಾದ ಶಂಕು ಉಂಟಾಗುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ABC ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ, ಮತ್ತು $\\angle B = 90^\\circ$ ಇದೆ. ಇದನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಈಗ ನಾವು AB ಬಾಹುವನ್ನು ಅಕ್ಷವಾಗಿಟ್ಟುಕೊಂಡು $360^\\circ$ ತಿರುಗಿಸಿ. ಹೀಗೆ ತಿರುಗಿಸಿದಾಗ, AC ಬಾಹುವು ವಕ್ರ ಮೇಲ್ಮೈಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಹಾಗೆಯೇ, BC ಬಾಹುವು ವೃತ್ತಾಕಾರದ ಪಾದವನ್ನು ರೂಪಿಸುತ್ತದೆ. ಈ ರೀತಿ ಉಂಟಾದ ಸಂಪೂರ್ಣ ಆಕೃತಿಯೇ ನೇರವೃತ್ತಪಾದ ಶಂಕು. ಅಂದರೆ, ಒಂದು ಸಮತಲ ಆಕೃತಿಯಾದ ಲಂಬಕೋನ ತ್ರಿಭುಜದಿಂದ, ಒಂದು ಘನಾಕೃತಿಯಾದ ಶಂಕು ಉಂಟಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯನ್ನು ($\\angle B = 90^\\circ$) ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "AB ಬಾಹುವನ್ನು ಅಕ್ಷವಾಗಿಟ್ಟುಕೊಂಡು $360^\\circ$ ತಿರುಗಿಸಿ.",
+    "AC ಬಾಹುವು ವಕ್ರ ಮೇಲ್ಮೈಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+    "BC ಬಾಹುವು ವೃತ್ತಾಕಾರದ ಪಾದವನ್ನು ರೂಪಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Animation or a sequence of diagrams showing a right-angled triangle ABC, rotating around the side AB. The path of vertex C forms the circular base, and the hypotenuse AC sweeps out the curved surface to form a cone.",
+    "labels": "Right-angled triangle ABC, Axis of rotation AB, Vertex A, Base radius BC, Slant height AC",
+    "mathematical_significance": "Demonstrates the generation of a cone from a 2D shape, establishing the intuitive link between the triangle's sides and the cone's dimensions.",
+    "placeholder_note": "Image to be generated based on description. Show a right triangle on the left, and the resulting cone on the right with rotation arrows."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "MEN-VOL-3_concept_1_chunk_003"
+}

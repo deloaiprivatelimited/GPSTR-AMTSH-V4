@@ -1,0 +1,112 @@
+{
+  "module_id": "std_8_chapter_8_concept_4",
+  "chapter_code": "std_8_chapter_8",
+  "voice": "Achernar",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 9,
+  "total_duration": 428.819,
+  "total_duration_formatted": "7:08",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_8_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಬಲಗಳ ವಿಧಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 69.731,
+      "duration": 69.731,
+      "script_words": 94
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಅವಶ್ಯಕವಾದ ಪೂರ್ವ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 70.331,
+      "end": 101.702,
+      "duration": 31.371,
+      "script_words": 39
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_4_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಬಲಗಳ ವಿಧಗಳು: ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 102.302,
+      "end": 145.993,
+      "duration": 43.691,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_4_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಸಂಪರ್ಕ ಬಲಗಳು: ಸ್ನಾಯು ಬಲ",
+      "type": "concept_explanation",
+      "start": 146.593,
+      "end": 194.924,
+      "duration": 48.331,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_4_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಸಂಪರ್ಕ ಬಲಗಳು: ಘರ್ಷಣಾ ಬಲ",
+      "type": "concept_explanation",
+      "start": 195.524,
+      "end": 241.295,
+      "duration": 45.771,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_4_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಸಂಪರ್ಕರಹಿತ ಬಲಗಳು: ಕಾಂತೀಯ ಬಲ",
+      "type": "concept_explanation",
+      "start": 241.895,
+      "end": 289.706,
+      "duration": 47.811,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_4_chunk_007",
+      "chunk_file": "007_classification_cont_0_4.json",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "slide_title": "ಸಂಪರ್ಕರಹಿತ ಬಲಗಳು: ಸ್ಥಾಯಿವಿದ್ಯುತ್ ಬಲ",
+      "type": "concept_explanation",
+      "start": 290.306,
+      "end": 337.197,
+      "duration": 46.891,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_4_chunk_008",
+      "chunk_file": "008_classification_cont_0_5.json",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "slide_title": "ಸಂಪರ್ಕರಹಿತ ಬಲಗಳು: ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ",
+      "type": "concept_explanation",
+      "start": 337.797,
+      "end": 383.448,
+      "duration": 45.651,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_8_chapter_8_concept_4_chunk_009",
+      "chunk_file": "009_recap_0.json",
+      "wav_file": "009_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಬಲಗಳ ವಿಧಗಳು",
+      "type": "recap",
+      "start": 384.048,
+      "end": 428.219,
+      "duration": 44.171,
+      "script_words": 60
+    }
+  ]
+}

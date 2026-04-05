@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಕ್ವೇರಿಯಂಗೆ ಬೇಕಾದ ಕಾಗದ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಆಯತ ಘನಾಕಾರದ ಅಕ್ವೇರಿಯಂನ ಹೊರಮೈ ಅಳತೆಗಳು 80 ಸೆಂಟಿಮೀಟರ್, 30 ಸೆಂಟಿಮೀಟರ್, ಮತ್ತು 40 ಸೆಂಟಿಮೀಟರ್ ಇವೆ. ಅದರ ತಳ, ಎರಡು ಪಾರ್ಶ್ವ ಮುಖಗಳು ಮತ್ತು ಹಿಂದಿನ ಮುಖಕ್ಕೆ ಬಣ್ಣದ ಕಾಗದವನ್ನು ಅಂಟಿಸಬೇಕಾಗಿದೆ. ಹಾಗಾದರೆ ಬೇಕಾದ ಕಾಗದದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇಲ್ಲಿ ನಮಗೆ ಉದ್ದ l ಎಂಬುದು 80 ಸೆಂಟಿಮೀಟರ್, ಅಗಲ b ಎಂಬುದು 30 ಸೆಂಟಿಮೀಟರ್, ಮತ್ತು ಎತ್ತರ h ಎಂಬುದು 40 ಸೆಂಟಿಮೀಟರ್ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ತಳ, ಹಿಂದಿನ ಮುಖ, ಮತ್ತು ಎರಡು ಪಾರ್ಶ್ವ ಮುಖಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಆಯತ ಘನಾಕಾರದ ಅಕ್ವೇರಿಯಂನ ಹೊರಮೈ ಅಳತೆಗಳು 80 ಸೆಂ.ಮೀ. × 30 ಸೆಂ.ಮೀ. × 40 ಸೆಂ.ಮೀ. ಇವೆ. ಅದರ ತಳ, ಎರಡು ಪಾರ್ಶ್ವ ಮುಖಗಳು ಮತ್ತು ಹಿಂದಿನ ಮುಖಕ್ಕೆ ಬಣ್ಣದ ಕಾಗದವನ್ನು ಅಂಟಿಸಬೇಕಾಗಿದೆ. ಹಾಗಾದರೆ ಬೇಕಾದ ಕಾಗದದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇಲ್ಲಿ ನಮಗೆ ಉದ್ದ $l = 80$ ಸೆಂ.ಮೀ., ಅಗಲ $b = 30$ ಸೆಂ.ಮೀ., ಮತ್ತು ಎತ್ತರ $h = 40$ ಸೆಂ.ಮೀ. ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ತಳ, ಹಿಂದಿನ ಮುಖ, ಮತ್ತು ಎರಡು ಪಾರ್ಶ್ವ ಮುಖಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "**ಸಮಸ್ಯೆ:** ಆಯತ ಘನಾಕಾರದ ಅಕ್ವೇರಿಯಂನ ಹೊರಮೈ ಅಳತೆಗಳು $80 \\text{ ಸೆಂ.ಮೀ.} \\times 30 \\text{ ಸೆಂ.ಮೀ.} \\times 40 \\text{ ಸೆಂ.ಮೀ.}$ ಇವೆ. ಅದರ ತಳ, ಎರಡು ಪಾರ್ಶ್ವ ಮುಖಗಳು ಮತ್ತು ಹಿಂದಿನ ಮುಖಕ್ಕೆ ಬಣ್ಣದ ಕಾಗದವನ್ನು ಅಂಟಿಸಬೇಕಾಗಿದೆ. ಬೇಕಾದ ಕಾಗದದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "**ದತ್ತಾಂಶ (Given):** ಉದ್ದ ($l$) = 80 ಸೆಂ.ಮೀ., ಅಗಲ ($b$) = 30 ಸೆಂ.ಮೀ., ಎತ್ತರ ($h$) = 40 ಸೆಂ.ಮೀ.",
+    "**ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To Find):** ತಳ + ಹಿಂದಿನ ಮುಖ + 2(ಪಾರ್ಶ್ವ ಮುಖ)ಗಳ ಒಟ್ಟು ವಿಸ್ತೀರ್ಣ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cuboid representing the aquarium. The dimensions l=80cm, b=30cm, h=40cm are labeled. The faces to be covered with paper are highlighted in a distinct color: the bottom face (base), the back face, and the two side faces. The top and front faces are left uncolored.",
+    "labels": "l, b, h, ತಳ (Base), ಹಿಂದಿನ ಮುಖ (Back Face), ಪಾರ್ಶ್ವ ಮುಖ (Side Face)",
+    "mathematical_significance": "Visualizes which specific surfaces of the cuboid are part of the calculation, distinguishing it from a standard Total Surface Area (TSA) or Lateral Surface Area (LSA) problem.",
+    "placeholder_note": "Image to be generated showing a cuboid with labeled dimensions and highlighted faces."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "MEN-MEN-2_example_4",
+  "chunk_id": "MEN-MEN-2_concept_2_chunk_045"
+}

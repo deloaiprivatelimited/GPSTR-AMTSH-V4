@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಗುರುತ್ವ ಬಲದ ಅನುಪಾತ",
+  "script": "ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ನಿಯಮದ ಪ್ರಕಾರ, ವಿಶ್ವದ ಪ್ರತಿಯೊಂದು ಕಣವೂ ಮತ್ತೊಂದು ಕಣವನ್ನು ಒಂದು ಬಲದಿಂದ ಆಕರ್ಷಿಸುತ್ತದೆ. ಈ ಆಕರ್ಷಣ ಬಲವನ್ನು, ಅಂದರೆ ಎಫ್, ಗಣಿತೀಯವಾಗಿ ಎರಡು ಅಂಶಗಳ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ ಎಂದು ಹೇಳಬಹುದು. ಮೊದಲನೆಯದಾಗಿ, ಇದು ವಸ್ತುಗಳ ರಾಶಿಗಳಿಗೆ ನೇರವಾಗಿ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ. ಅಂದರೆ, ಎಂ ಮತ್ತು ಎಂ ಎಂಬ ಎರಡು ರಾಶಿಗಳ ಗುಣಲಬ್ಧಕ್ಕೆ ನೇರ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಇದು ಆ ವಸ್ತುಗಳ ನಡುವಿನ ದೂರದ ವರ್ಗಕ್ಕೆ ವಿಲೋಮವಾಗಿ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ. ಇದನ್ನು ನಾವು ಡಿ ಸ್ಕ್ವೇರ್ಡ್ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಈ ಸಂಬಂಧವನ್ನು ಒಟ್ಟಾಗಿ ಹೀಗೆ ತೋರಿಸಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ ಎಫ್ ಎಂದರೆ ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ, ಕ್ಯಾಪಿಟಲ್ ಎಂ ಮತ್ತು ಸ್ಮಾಲ್ ಎಂ ಎರಡು ವಸ್ತುಗಳ ರಾಶಿಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ, ಮತ್ತು ಡಿ ಎಂದರೆ ವಸ್ತುಗಳ ಕೇಂದ್ರಗಳ ನಡುವಿನ ದೂರ.",
+  "script_display": "ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ನಿಯಮದ ಪ್ರಕಾರ, ವಿಶ್ವದ ಪ್ರತಿಯೊಂದು ಕಣವೂ ಮತ್ತೊಂದು ಕಣವನ್ನು ಒಂದು ಬಲದಿಂದ ಆಕರ್ಷಿಸುತ್ತದೆ. ಈ ಆಕರ್ಷಣ ಬಲ ($F$) ಎರಡು ಅಂಶಗಳ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ:\n1. ವಸ್ತುಗಳ ರಾಶಿಗಳ ($M$ ಮತ್ತು $m$) ಗುಣಲಬ್ಧಕ್ಕೆ **ನೇರ ಅನುಪಾತ**ದಲ್ಲಿರುತ್ತದೆ.\n2. ಅವುಗಳ ನಡುವಿನ ದೂರದ ($d$) ವರ್ಗಕ್ಕೆ **ವಿಲೋಮ ಅನುಪಾತ**ದಲ್ಲಿರುತ್ತದೆ.\nಈ ಸಂಬಂಧವನ್ನು ಒಟ್ಟಾಗಿ ಹೀಗೆ ಬರೆಯಬಹುದು:",
+  "display_bullets": [
+    "F: ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ (Gravitational Force)",
+    "M, m: ಎರಡು ವಸ್ತುಗಳ ರಾಶಿಗಳು (Masses of two objects)",
+    "d: ವಸ್ತುಗಳ ಕೇಂದ್ರಗಳ ನಡುವಿನ ದೂರ (Distance between centers)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "physics_dark_blue",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "F \\propto \\frac{M \\times m}{d^2}",
+    "placeholder_note": "Formula showing gravitational force is proportional to the product of masses and inversely proportional to the square of the distance."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_9_chapter_9_concept_2_chunk_012"
+}

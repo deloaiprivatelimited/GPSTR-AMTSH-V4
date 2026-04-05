@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ದೃಶ್ಯ ವಿವರಣೆ: ವಕ್ರೀಭವನ ಕಿರಣ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಬೆಳಕು ಗಾಳಿಯಿಂದ ನೀರಿಗೆ ಪ್ರವೇಶಿಸುತ್ತಿದೆ. ಇಲ್ಲಿ ಗಾಳಿ ಮೊದಲನೇ ಮಾಧ್ಯಮ ಮತ್ತು ನೀರು ಎರಡನೇ ಮಾಧ್ಯಮ. ನೀರಿನೊಳಗೆ ಬಾಗಿ ಚಲಿಸುವ ಕಿರಣವೇ 'ವಕ್ರೀಭವನ ಕಿರಣ' ಆಗಿದೆ. ಗಮನಿಸಿ, ಬೆಳಕು ವಿರಳ ಮಾಧ್ಯಮವಾದ ಗಾಳಿಯಿಂದ ಸಾಂದ್ರ ಮಾಧ್ಯಮವಾದ ನೀರಿಗೆ ಚಲಿಸುತ್ತಿರುವುದರಿಂದ, ವಕ್ರೀಭವನ ಕಿರಣವು ಲಂಬದ ಕಡೆಗೆ ಬಾಗುತ್ತದೆ. ಈ ಬಾಗುವಿಕೆಯೇ ವಕ್ರೀಭವನ ಮತ್ತು ಆ ಬಾಗಿದ ಕಿರಣವೇ ವಕ್ರೀಭವನ ಕಿರಣ. ಪತನ ಕಿರಣ ಮತ್ತು ವಕ್ರೀಭವನ ಕಿರಣಗಳು ಒಂದೇ ಸರಳ ರೇಖೆಯಲ್ಲಿ ಇರುವುದಿಲ್ಲ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಬೆಳಕು ಗಾಳಿಯಿಂದ (ಮಾಧ್ಯಮ 1) ನೀರಿಗೆ (ಮಾಧ್ಯಮ 2) ಪ್ರವೇಶಿಸುತ್ತಿದೆ. ನೀರಿನೊಳಗೆ ಬಾಗಿ ಚಲಿಸುವ ಕಿರಣವೇ 'ವಕ್ರೀಭವನ ಕಿರಣ' ಆಗಿದೆ. ಗಮನಿಸಿ, ಬೆಳಕು ವಿರಳ ಮಾಧ್ಯಮದಿಂದ ಸಾಂದ್ರ ಮಾಧ್ಯಮಕ್ಕೆ ಚಲಿಸುತ್ತಿರುವುದರಿಂದ, ವಕ್ರೀಭವನ ಕಿರಣವು ಲಂಬದ ಕಡೆಗೆ ಬಾಗುತ್ತದೆ. ಈ ಬಾಗುವಿಕೆಯೇ ವಕ್ರೀಭವನ ಮತ್ತು ಆ ಬಾಗಿದ ಕಿರಣವೇ ವಕ್ರೀಭವನ ಕಿರಣ. ಪತನ ಕಿರಣ ಮತ್ತು ವಕ್ರೀಭವನ ಕಿರಣಗಳು ಒಂದೇ ಸರಳ ರೇಖೆಯಲ್ಲಿ ಇರುವುದಿಲ್ಲ.",
+  "display_bullets": [
+    "ಬೆಳಕು ಗಾಳಿಯಿಂದ (ಮಾಧ್ಯಮ 1) ನೀರಿಗೆ (ಮಾಧ್ಯಮ 2) ಪ್ರವೇಶಿಸುತ್ತಿದೆ.",
+    "ನೀರಿನೊಳಗೆ ಬಾಗಿ ಚಲಿಸುವ ಕಿರಣವೇ 'ವಕ್ರೀಭವನ ಕಿರಣ'.",
+    "ಇದು ಲಂಬದ ಕಡೆಗೆ ಬಾಗುತ್ತದೆ (ವಿರಳದಿಂದ ಸಾಂದ್ರ ಮಾಧ್ಯಮಕ್ಕೆ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a ray of light passing from air (Medium 1) into water (Medium 2). The incident ray, refracted ray, normal, angle of incidence (i), and angle of refraction (r) are clearly labeled. The ray is shown bending towards the normal as it enters the water.",
+    "labels": "ಗಾಳಿ (ಮಾಧ್ಯಮ 1), ನೀರು (ಮಾಧ್ಯಮ 2), ಪತನ ಕಿರಣ, ವಕ್ರೀಭವನ ಕಿರಣ, ಲಂಬ, ಪತನ ಕೋನ (i), ವಕ್ರೀಭವನ ಕೋನ (r)",
+    "scientific_significance": "Illustrates the path of a refracted ray when light travels from a rarer medium (air) to a denser medium (water), showing the bending towards the normal which is a key characteristic of refraction.",
+    "placeholder_note": "Image to be generated showing light ray bending from air to water, with all parts labeled in Kannada."
+  },
+  "sub_type": "visual_explanation",
+  "difficulty": "easy",
+  "source_example_id": "Definition 2 of 5",
+  "chunk_id": "std_10_chapter_9_concept_5_chunk_008"
+}

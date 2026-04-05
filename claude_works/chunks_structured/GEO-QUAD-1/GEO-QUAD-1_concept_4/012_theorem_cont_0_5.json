@@ -1,0 +1,37 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಸಾಧನೆ: ಕರ್ಣಗಳ ಗುಣ",
+  "script": "ತ್ರಿಭುಜ ಎ ಓ ಬಿ ಮತ್ತು ತ್ರಿಭುಜ ಸಿ ಓ ಡಿ ಗಳನ್ನು ಹೋಲಿಸೋಣ. ಎ ಬಿ ಮತ್ತು ಡಿ ಸಿ ಸಮಾಂತರವಾಗಿರುವುದರಿಂದ, ಕೋನ ಓ ಎ ಬಿ ಯು ಕೋನ ಓ ಸಿ ಡಿ ಗೆ ಸಮ. ಇವು ಪರ್ಯಾಯ ಕೋನಗಳು. ಹಾಗೆಯೇ, ಕೋನ ಓ ಬಿ ಎ ಯು ಕೋನ ಓ ಡಿ ಸಿ ಗೆ ಸಮ. ಇವು ಕೂಡ ಪರ್ಯಾಯ ಕೋನಗಳು. ಮತ್ತು, ನಾವು ಈಗಾಗಲೇ ಮೊದಲ ಗುಣದಲ್ಲಿ ಸಾಧಿಸಿದಂತೆ, ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ. ಆದ್ದರಿಂದ, ಬಾಹು ಎ ಬಿ ಯು ಬಾಹು ಸಿ ಡಿ ಗೆ ಸಮವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ΔAOB ಮತ್ತು ΔCOD ಗಳನ್ನು ಹೋಲಿಸೋಣ. AB || DC ಆಗಿರುವುದರಿಂದ, ∠OAB = ∠OCD (ಪರ್ಯಾಯ ಕೋನಗಳು). ಹಾಗೆಯೇ, ∠OBA = ∠ODC (ಪರ್ಯಾಯ ಕೋನಗಳು). ಮತ್ತು, ನಾವು ಈಗಾಗಲೇ ಮೊದಲ ಗುಣದಲ್ಲಿ ಸಾಧಿಸಿದಂತೆ, ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ. ಆದ್ದರಿಂದ, ಬಾಹು AB = CD.",
+  "display_bullets": [
+    "ΔAOB ಮತ್ತು ΔCOD ಗಳಲ್ಲಿ:",
+    "∠OAB = ∠OCD (ಪರ್ಯಾಯ ಕೋನಗಳು)",
+    "AB = CD (ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಬಾಹುಗಳು)",
+    "∠OBA = ∠ODC (ಪರ್ಯಾಯ ಕೋನಗಳು)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "light_on_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same diagram of the parallelogram with intersecting diagonals. As the script mentions the equal angles (∠OAB & ∠OCD, ∠OBA & ∠ODC) and equal sides (AB & CD), they are highlighted sequentially.",
+    "labels": "A, B, C, D, O, ∠OAB, ∠OCD, ∠OBA, ∠ODC, AB, CD",
+    "mathematical_significance": "Visually demonstrates the conditions for ASA congruence between the two triangles.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-QUAD-1_concept_4_chunk_012"
+}

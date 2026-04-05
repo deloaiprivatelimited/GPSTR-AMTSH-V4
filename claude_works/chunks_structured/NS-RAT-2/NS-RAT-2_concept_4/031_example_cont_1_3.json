@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ನಾವು ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಿದ್ದೇವೆ. ಅಂತಿಮ ಉತ್ತರ ಮೈನಸ್ ನೂರ ಇಪ್ಪತ್ತೈದು ಭಾಗಿಸು ನಾಲ್ಕುನೂರ ಅರವತ್ತೆರಡು. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಮೊದಲು ಪದಗಳನ್ನು ಸರಿಯಾಗಿ ಮರುಜೋಡಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಇದರಿಂದ ಲೆಕ್ಕಾಚಾರ ಸುಲಭವಾಗುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ನಾವು ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಿದ್ದೇವೆ. ಅಂತಿಮ ಉತ್ತರ $\\frac{-125}{462}$. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಮೊದಲು ಪದಗಳನ್ನು ಸರಿಯಾಗಿ ಮರುಜೋಡಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಇದರಿಂದ ಲೆಕ್ಕಾಚಾರ ಸುಲಭವಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $\\frac{-125}{462}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-RAT-2_example_6",
+  "final_answer": "-125/462",
+  "final_answer_display": "$\\frac{-125}{462}$",
+  "chunk_id": "NS-RAT-2_concept_4_chunk_031"
+}

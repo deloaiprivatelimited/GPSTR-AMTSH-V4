@@ -1,0 +1,35 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಪ್ರಮೇಯದ ಸಾಧನೆ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ನಮ್ಮ ರಚನೆಯನ್ನು ಬಳಸಿ, ಈಗ ಸಾಧನೆಯ ಮೊದಲ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, BA ಮತ್ತು CE ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿವೆ ಮತ್ತು AC ಯು ಛೇದಕ ರೇಖೆಯಾಗಿದೆ. ಸಮಾಂತರ ರೇಖೆಗಳ ಗುಣದ ಪ್ರಕಾರ, ಇಲ್ಲಿ ಉಂಟಾಗುವ ಪರ್ಯಾಯ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, ಕೋನ 1, ಅಂದರೆ ಕೋನ BAC, ಇದು ಕೋನ x, ಅಂದರೆ ಕೋನ ACE ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಇದೇ ಸಮಾಂತರ ರೇಖೆಗಳಾದ BA ಮತ್ತು CE ಯನ್ನು BD ಛೇದಕ ರೇಖೆಯು ಛೇದಿಸಿದಾಗ, ಅನುರೂಪ ಕೋನಗಳು ಉಂಟಾಗುತ್ತವೆ. ಹಾಗಾಗಿ, ಕೋನ 2, ಅಂದರೆ ಕೋನ ABC, ಇದು ಕೋನ y, ಅಂದರೆ ಕೋನ ECD ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಈ ಎರಡು ಸಮೀಕರಣಗಳು ನಮ್ಮ ಸಾಧನೆಗೆ ಆಧಾರವಾಗಿವೆ.",
+  "script_display": "ನಮ್ಮ ರಚನೆಯನ್ನು ಬಳಸಿ, ಈಗ ಸಾಧನೆಯ ಮೊದಲ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, $BA \\parallel CE$ ಮತ್ತು AC ಛೇದಕ ರೇಖೆಯಾಗಿದೆ. ಸಮಾಂತರ ರೇಖೆಗಳ ಗುಣದ ಪ್ರಕಾರ, ಇಲ್ಲಿ ಉಂಟಾಗುವ ಪರ್ಯಾಯ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಆದ್ದರಿಂದ, $\\angle 1 = \\angle x$ (ಪರ್ಯಾಯ ಕೋನಗಳು). ಎರಡನೆಯದಾಗಿ, ಇದೇ ಸಮಾಂತರ ರೇಖೆಗಳಾದ $BA \\parallel CE$ ಯನ್ನು BD ಛೇದಕ ರೇಖೆಯು ಛೇದಿಸಿದಾಗ, ಅನುರೂಪ ಕೋನಗಳು ಉಂಟಾಗುತ್ತವೆ. ಹಾಗಾಗಿ, $\\angle 2 = \\angle y$ (ಅನುರೂಪ ಕೋನಗಳು). ಈ ಎರಡು ಸಮೀಕರಣಗಳು ನಮ್ಮ ಸಾಧನೆಗೆ ಆಧಾರವಾಗಿವೆ.",
+  "display_bullets": [
+    "ಹಂತ 1: $\\angle 1 = \\angle x$ (ಕಾರಣ: $BA \\parallel CE$ ಮತ್ತು AC ಛೇದಕ ರೇಖೆ, ಇವು ಪರ್ಯಾಯ ಕೋನಗಳು).",
+    "ಹಂತ 2: $\\angle 2 = \\angle y$ (ಕಾರಣ: $BA \\parallel CE$ ಮತ್ತು BD ಛೇದಕ ರೇಖೆ, ಇವು ಅನುರೂಪ ಕೋನಗಳು)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The proof diagram. In the first part of the narration, angles ∠1 and ∠x are highlighted to show they are alternate interior angles. In the second part, angles ∠2 and ∠y are highlighted to show they are corresponding angles. This can be a two-stage animation on the same static image.",
+    "labels": "Vertices A, B, C, D, E. Angles ∠1, ∠2, ∠x, ∠y.",
+    "mathematical_significance": "Visually reinforces the concepts of alternate interior angles and corresponding angles in the context of the proof.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-1_concept_2_chunk_012"
+}

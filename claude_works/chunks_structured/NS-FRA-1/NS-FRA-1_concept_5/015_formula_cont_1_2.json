@@ -1,0 +1,40 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: 5 x 2/7",
+  "script": "ಒಂದು ನಿರ್ದಿಷ್ಟ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಐದು ಗುಣಿಸು ಎರಡನೇ ಏಳನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಬೇಕಾಗಿದೆ. ಇಲ್ಲಿ, ಪೂರ್ಣ ಸಂಖ್ಯೆ ಐದು, ಅಂಶ ಎರಡು, ಮತ್ತು ಛೇದ ಏಳು. ನಮ್ಮ ನಿಯಮದ ಪ್ರಕಾರ, ನಾವು ಪೂರ್ಣ ಸಂಖ್ಯೆ ಐದನ್ನು ಅಂಶ ಎರಡರಿಂದ ಗುಣಿಸುತ್ತೇವೆ. ಐದು ಗುಣಿಸು ಎರಡು ಎಂದರೆ ಹತ್ತು. ಛೇದ ಏಳು ಯಾವುದೇ ಬದಲಾವಣೆ ಇಲ್ಲದೆ ಹಾಗೆಯೇ ಉಳಿಯುತ್ತದೆ. ಆದ್ದರಿಂದ, ಅಂತಿಮ ಉತ್ತರ ಹತ್ತನೇ ಏಳು. ಇದನ್ನು ನಾವು ವಿಷಮ ಭಿನ್ನರಾಶಿಯಾಗಿ ಬಿಡಬಹುದು ಅಥವಾ ಮಿಶ್ರ ಭಿನ್ನರಾಶಿಯಾಗಿ ಪರಿವರ್ತಿಸಬಹುದು.",
+  "script_display": "ಒಂದು ನಿರ್ದಿಷ್ಟ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ: $5 \\times \\frac{2}{7}$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_left_final_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಪೂರ್ಣ ಸಂಖ್ಯೆಯನ್ನು (5) ಅಂಶದೊಂದಿಗೆ (2) ಗುಣಿಸಿ.",
+      "justification": "$5 \\times 2 = 10$"
+    },
+    {
+      "step": 2,
+      "action_display": "ಛೇದವನ್ನು (7) ಹಾಗೆಯೇ ಇರಿಸಿ.",
+      "justification": "ಛೇದವು ಬದಲಾಗುವುದಿಲ್ಲ."
+    }
+  ],
+  "final_answer_display": "$5 \\times \\frac{2}{7} = \\frac{5 \\times 2}{7} = \\frac{10}{7}$",
+  "chunk_id": "NS-FRA-1_concept_5_chunk_015"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವಕ್ರೀಭವನ ಏಕೆ ಸಂಭವಿಸುತ್ತದೆ?",
+  "script": "ಬೆಳಕು ಏಕೆ ಬಾಗುತ್ತದೆ? ಇದಕ್ಕೆ ಮುಖ್ಯ ಕಾರಣ, ವಿಭಿನ್ನ ಮಾಧ್ಯಮಗಳಲ್ಲಿ ಬೆಳಕಿನ ವೇಗದಲ್ಲಿನ ವ್ಯತ್ಯಾಸ. ಇದನ್ನು ದೃಕ್ ಸಾಂದ್ರತೆಯ ಪರಿಕಲ್ಪನೆಯಿಂದ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಮೊದಲನೆಯದಾಗಿ, ಬೆಳಕು ವಿರಳ ಮಾಧ್ಯಮದಿಂದ ಸಾಂದ್ರ ಮಾಧ್ಯಮಕ್ಕೆ ಚಲಿಸಿದಾಗ, ಅದರ ವೇಗ ಕಡಿಮೆಯಾಗುತ್ತದೆ ಮತ್ತು ಕಿರಣವು ಲಂಬದ ಕಡೆಗೆ ಬಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಗಾಳಿಯಿಂದ ನೀರಿಗೆ ಬೆಳಕು ಪ್ರವೇಶಿಸಿದಾಗ ಹೀಗಾಗುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಬೆಳಕು ಸಾಂದ್ರ ಮಾಧ್ಯಮದಿಂದ ವಿರಳ ಮಾಧ್ಯಮಕ್ಕೆ ಚಲಿಸಿದಾಗ, ಅದರ ವೇಗ ಹೆಚ್ಚಾಗುತ್ತದೆ ಮತ್ತು ಕಿರಣವು ಲಂಬದಿಂದ ದೂರಕ್ಕೆ ಬಾಗುತ್ತದೆ. ಈ ವೇಗದ ಬದಲಾವಣೆಯೇ ವಕ್ರೀಭವನಕ್ಕೆ ಮೂಲ ಕಾರಣವಾಗಿದೆ.",
+  "script_display": "ಬೆಳಕು ಏಕೆ ಬಾಗುತ್ತದೆ? ಇದಕ್ಕೆ ಮುಖ್ಯ ಕಾರಣ, ವಿಭಿನ್ನ ಮಾಧ್ಯಮಗಳಲ್ಲಿ ಬೆಳಕಿನ ವೇಗದಲ್ಲಿನ ವ್ಯತ್ಯಾಸ. ಇದನ್ನು ದೃಕ್ ಸಾಂದ್ರತೆ (Optical Density) ಪರಿಕಲ್ಪನೆಯಿಂದ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು.",
+  "display_bullets": [
+    "**ವಿರಳ → ಸಾಂದ್ರ ಮಾಧ್ಯಮ:** ಬೆಳಕಿನ ವೇಗ ಕಡಿಮೆಯಾಗುತ್ತದೆ, ಕಿರಣವು ಲಂಬದ ಕಡೆಗೆ ಬಾಗುತ್ತದೆ. (ಉದಾ: ಗಾಳಿಯಿಂದ ಗಾಜಿಗೆ)",
+    "**ಸಾಂದ್ರ → ವಿರಳ ಮಾಧ್ಯಮ:** ಬೆಳಕಿನ ವೇಗ ಹೆಚ್ಚಾಗುತ್ತದೆ, ಕಿರಣವು ಲಂಬದಿಂದ ದೂರಕ್ಕೆ ಬಾಗುತ್ತದೆ. (ಉದಾ: ಗಾಜಿನಿಂದ ಗಾಳಿಗೆ)"
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "physics_dark_blue",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen diagram. Left side: 'ವಿರಳ → ಸಾಂದ್ರ'. Shows a light ray entering a denser medium from a rarer one, bending towards the normal. The angle of incidence 'i' is larger than the angle of refraction 'r'. Right side: 'ಸಾಂದ್ರ → ವಿರಳ'. Shows a light ray entering a rarer medium from a denser one, bending away from the normal. The angle of incidence 'i' is smaller than the angle of refraction 'r'. Both sides must have the interface and the normal line clearly marked.",
+    "labels": "ಪತನ ಕಿರಣ, ವಕ್ರೀಭವನ ಕಿರಣ, ಲಂಬ, ಪತನ ಕೋನ (i), ವಕ್ರೀಭವನ ಕೋನ (r), ವಿರಳ ಮಾಧ್ಯಮ, ಸಾಂದ್ರ ಮಾಧ್ಯಮ",
+    "scientific_significance": "This comparison diagram clearly illustrates the two fundamental cases of refraction, directly linking the change in medium to the direction of bending of light. It is crucial for understanding Snell's Law.",
+    "placeholder_note": "Split diagram showing refraction from rarer-to-denser and denser-to-rarer."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_10_chapter_9_concept_5_chunk_006"
+}

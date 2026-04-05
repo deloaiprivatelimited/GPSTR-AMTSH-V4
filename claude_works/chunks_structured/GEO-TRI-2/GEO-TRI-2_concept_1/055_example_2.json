@@ -1,0 +1,43 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 3: ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಚಿತ್ರವನ್ನು ನೀಡಲಾಗಿದೆ. AB ರೇಖಾಖಂಡವು CD ರೇಖಾಖಂಡಕ್ಕೆ ಸಮಾಂತರವಾಗಿದೆ ಎಂದು ನಮಗೆ ನೀಡಲಾಗಿದೆ. ಹಾಗೂ, O ಎಂಬುದು AD ಯ ಮಧ್ಯಬಿಂದು. ನಾವು ಎರಡು ವಿಷಯಗಳನ್ನು ಸಾಧಿಸಬೇಕು. ಮೊದಲನೆಯದಾಗಿ, ತ್ರಿಭುಜ AOB ಯು ತ್ರಿಭುಜ DOC ಗೆ ಸರ್ವಸಮ ಎಂದು, ಮತ್ತು ಎರಡನೆಯದಾಗಿ, O ಬಿಂದುವು BC ಯ ಮಧ್ಯಬಿಂದುವೂ ಹೌದು ಎಂದು ಸಾಧಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನಮಗೆ ಒಂದು ಚಿತ್ರವನ್ನು ನೀಡಲಾಗಿದೆ. AB ರೇಖಾಖಂಡವು CD ರೇಖಾಖಂಡಕ್ಕೆ ಸಮಾಂತರವಾಗಿದೆ ಎಂದು ನಮಗೆ ನೀಡಲಾಗಿದೆ. ಹಾಗೂ, O ಎಂಬುದು AD ಯ ಮಧ್ಯಬಿಂದು. ನಾವು ಎರಡು ವಿಷಯಗಳನ್ನು ಸಾಧಿಸಬೇಕು. ಮೊದಲನೆಯದಾಗಿ, ತ್ರಿಭುಜ AOB ಯು ತ್ರಿಭುಜ DOC ಗೆ ಸರ್ವಸಮ ಎಂದು, ಮತ್ತು ಎರಡನೆಯದಾಗಿ, O ಬಿಂದುವು BC ಯ ಮಧ್ಯಬಿಂದುವೂ ಹೌದು ಎಂದು ಸಾಧಿಸಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: AB ರೇಖಾಖಂಡವು CD ರೇಖಾಖಂಡಕ್ಕೆ ಸಮಾಂತರವಾಗಿದೆ ($AB || CD$). O ಎಂಬುದು AD ಯ ಮಧ್ಯಬಿಂದು.",
+    "ಸಾಧಿಸಬೇಕಾದದ್ದು (i): $\\triangle AOB \\cong \\triangle DOC$",
+    "ಸಾಧಿಸಬೇಕಾದದ್ದು (ii): O ಎಂಬುದು BC ಯ ಮಧ್ಯಬಿಂದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ರೇಖೆಗಳು AB ಮತ್ತು CD ಸಮಾಂತರವಾಗಿವೆ. AD ಮತ್ತು BC ರೇಖಾಖಂಡಗಳು O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. O ಬಿಂದುವು AD ಯ ಮಧ್ಯಬಿಂದುವಾಗಿದೆ. ಕೋನ OAB ಮತ್ತು ಕೋನ ODC ಗಳು ಪರ್ಯಾಯ ಕೋನಗಳಾಗಿವೆ. ಕೋನ AOB ಮತ್ತು ಕೋನ DOC ಗಳು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಸಮಾಂತರ ರೇಖೆಗಳು, ಛೇದಕ ರೇಖೆ, ಪರ್ಯಾಯ ಕೋನಗಳು, ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಮತ್ತು ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆಯ (ASA) ಪರಿಕಲ್ಪನೆಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated based on the description, corresponding to figure 7.15 in the textbook."
+  },
+  "source_example_id": "GEO-TRI-2_example_3",
+  "prerequisites_display": [
+    "ಸಮಾಂತರ ರೇಖೆಗಳು ಮತ್ತು ಛೇದಕ ರೇಖೆ",
+    "ಪರ್ಯಾಯ ಆಂತರಿಕ ಕೋನಗಳು",
+    "ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು",
+    "ಕೋ.ಬಾ.ಕೋ (ASA) ಸರ್ವಸಮತೆಯ ನಿಯಮ"
+  ],
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_055"
+}

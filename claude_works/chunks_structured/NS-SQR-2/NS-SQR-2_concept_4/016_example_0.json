@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: 39 ರ ವರ್ಗ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಗುಣಾಕಾರ ಮಾಡದೆಯೇ 39 ರ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆ 39. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು 39 ರ ವರ್ಗ. ಇದಕ್ಕಾಗಿ, ನಾವು 39 ಗುಣಿಸು 39 ಎಂದು ನೇರವಾಗಿ ಗುಣಾಕಾರ ಮಾಡುವ ಬದಲು, ಒಂದು ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಗುಣಾಕಾರ ಮಾಡದೆಯೇ $39$ ರ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆ $39$. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು $39^2$. ಇದಕ್ಕಾಗಿ, ನಾವು $39 \\times 39$ ಎಂದು ನೇರವಾಗಿ ಗುಣಾಕಾರ ಮಾಡುವ ಬದಲು, ಒಂದು ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಗುಣಾಕಾರ ಮಾಡದೆಯೇ $39$ ರ ವರ್ಗವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆ: $39$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $39^2$",
+    "ವಿಧಾನ: ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "39^2 = ?",
+    "placeholder_note": "The problem to be solved: find the square of 39"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SQR-2_example_2",
+  "chunk_id": "NS-SQR-2_concept_4_chunk_016"
+}

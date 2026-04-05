@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ 3 ನೀಲಿ, 2 ಬಿಳಿ ಮತ್ತು 4 ಕೆಂಪು ಗೋಲಿಗಳಿವೆ. ಯಾದೃಚ್ಛಿಕವಾಗಿ ಒಂದು ಗೋಲಿಯನ್ನು ತೆಗೆದರೆ, ಅದು ಬಿಳಿ, ನೀಲಿ, ಅಥವಾ ಕೆಂಪು ಆಗಿರುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ನಮಗೆ ನೀಡಿರುವ ಮಾಹಿತಿ ಎಂದರೆ, ಪೆಟ್ಟಿಗೆಯಲ್ಲಿರುವ ಪ್ರತಿಯೊಂದು ಬಣ್ಣದ ಗೋಲಿಗಳ ಸಂಖ್ಯೆ. ನಾವು ಮೂರು ವಿಭಿನ್ನ ಘಟನೆಗಳ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು: ಬಿಳಿ ಗೋಲಿಯನ್ನು ಪಡೆಯುವುದು, ನೀಲಿ ಗೋಲಿಯನ್ನು ಪಡೆಯುವುದು, ಮತ್ತು ಕೆಂಪು ಗೋಲಿಯನ್ನು ಪಡೆಯುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ 3 ನೀಲಿ, 2 ಬಿಳಿ ಮತ್ತು 4 ಕೆಂಪು ಗೋಲಿಗಳಿವೆ. ಯಾದೃಚ್ಛಿಕವಾಗಿ ಒಂದು ಗೋಲಿಯನ್ನು ತೆಗೆದರೆ, ಅದು ಬಿಳಿ, ನೀಲಿ, ಅಥವಾ ಕೆಂಪು ಆಗಿರುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ನಮಗೆ ನೀಡಿರುವ ಮಾಹಿತಿ ಎಂದರೆ, ಪೆಟ್ಟಿಗೆಯಲ್ಲಿರುವ ಪ್ರತಿಯೊಂದು ಬಣ್ಣದ ಗೋಲಿಗಳ ಸಂಖ್ಯೆ. ನಾವು ಮೂರು ವಿಭಿನ್ನ ಘಟನೆಗಳ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು: ಬಿಳಿ ಗೋಲಿಯನ್ನು ಪಡೆಯುವುದು, ನೀಲಿ ಗೋಲಿಯನ್ನು ಪಡೆಯುವುದು, ಮತ್ತು ಕೆಂಪು ಗೋಲಿಯನ್ನು ಪಡೆಯುವುದು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: 3 ನೀಲಿ, 2 ಬಿಳಿ, 4 ಕೆಂಪು ಗೋಲಿಗಳು.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: P(ಬಿಳಿ), P(ನೀಲಿ), P(ಕೆಂಪು)."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A box containing 3 blue marbles, 2 white marbles, and 4 red marbles. The marbles are mixed together.",
+    "labels": "3 ನೀಲಿ, 2 ಬಿಳಿ, 4 ಕೆಂಪು",
+    "mathematical_significance": "Illustrates the sample space for the probability problem, showing the total number of possible outcomes.",
+    "placeholder_note": "Image to be generated of a box with 3 blue, 2 white, and 4 red marbles."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "PROB-BAS-1_example_8",
+  "chunk_id": "PROB-BAS-1_concept_2_chunk_043"
+}

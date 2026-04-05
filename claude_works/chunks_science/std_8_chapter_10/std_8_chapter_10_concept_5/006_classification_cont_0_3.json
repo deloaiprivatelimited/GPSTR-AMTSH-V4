@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅವಶ್ರವಣ ಶಬ್ದ (Infrasound)",
+  "script": "ಅಶ್ರವ್ಯ ಶಬ್ದದ ಮೊದಲ ವಿಧ ಅವಶ್ರವಣ ಶಬ್ದ. ಇದರ ಆವೃತ್ತಿ ಇಪ್ಪತ್ತು ಹರ್ಟ್ಸ್ ಗಿಂತ ಕಡಿಮೆ ಇರುತ್ತದೆ. ಈ ಕಡಿಮೆ ಆವೃತ್ತಿಯ ಕಾರಣದಿಂದಾಗಿ ಮಾನವರಾದ ನಾವು ಇದನ್ನು ಕೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ. ಆದರೆ, ಕೆಲವು ಪ್ರಾಣಿಗಳು ಈ ಶಬ್ದವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ ಮತ್ತು ಸಂವಹನಕ್ಕಾಗಿ ಬಳಸುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಆನೆಗಳು ಮತ್ತು ತಿಮಿಂಗಿಲಗಳು ಬಹಳ ದೂರದವರೆಗೆ ಸಂವಹನ ನಡೆಸಲು ಅವಶ್ರವಣ ಶಬ್ದವನ್ನು ಬಳಸುತ್ತವೆ. ಹಾಗೆಯೇ, ಭೂಕಂಪಗಳು ಮತ್ತು ಜ್ವಾಲಾಮುಖಿ ಸ್ಫೋಟಗಳಂತಹ ನೈಸರ್ಗಿಕ ಘಟನೆಗಳು ಕೂಡ ಅವಶ್ರವಣ ತರಂಗಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.",
+  "script_display": "ಅಶ್ರವ್ಯ ಶಬ್ದದ ಮೊದಲ ವಿಧ ಅವಶ್ರವಣ ಶಬ್ದ (Infrasound). ಇದರ ಆವೃತ್ತಿ 20 Hz ಗಿಂತ ಕಡಿಮೆ ಇರುತ್ತದೆ. ಈ ಕಡಿಮೆ ಆವೃತ್ತಿಯ ಕಾರಣದಿಂದಾಗಿ ಮಾನವರಾದ ನಾವು ಇದನ್ನು ಕೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ. ಆದರೆ, ಕೆಲವು ಪ್ರಾಣಿಗಳು ಈ ಶಬ್ದವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ ಮತ್ತು ಸಂವಹನಕ್ಕಾಗಿ ಬಳಸುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಆನೆಗಳು ಮತ್ತು ತಿಮಿಂಗಿಲಗಳು ಬಹಳ ದೂರದವರೆಗೆ ಸಂವಹನ ನಡೆಸಲು ಅವಶ್ರವಣ ಶಬ್ದವನ್ನು ಬಳಸುತ್ತವೆ. ಹಾಗೆಯೇ, ಭೂಕಂಪಗಳು ಮತ್ತು ಜ್ವಾಲಾಮುಖಿ ಸ್ಫೋಟಗಳಂತಹ ನೈಸರ್ಗಿಕ ಘಟನೆಗಳು ಕೂಡ ಅವಶ್ರವಣ ತರಂಗಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ಆವೃತ್ತಿ: 20 Hz ಗಿಂತ ಕಡಿಮೆ",
+    "ಮಾನವರು ಕೇಳಲಾರರು, ಆದರೆ ಕೆಲವು ಪ್ರಾಣಿಗಳು ಬಳಸುತ್ತವೆ.",
+    "ಉದಾಹರಣೆಗಳು: ಆನೆ ಮತ್ತು ತಿಮಿಂಗಿಲಗಳ ಸಂವಹನ, ಭೂಕಂಪದ ತರಂಗಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing an elephant on land and a whale in the ocean. Low-frequency sound waves are depicted coming from them, traveling over a long distance. A label in Kannada says 'ಅವಶ್ರವಣ ಶಬ್ದ (< 20 Hz)' (Infrasound < 20 Hz).",
+    "labels": "Elephant, Whale, Infrasound waves",
+    "scientific_significance": "Visualizes animals that use infrasound for long-distance communication.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_10_concept_5_chunk_006"
+}

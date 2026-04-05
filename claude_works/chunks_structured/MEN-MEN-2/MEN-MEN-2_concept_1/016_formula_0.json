@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ",
+  "script": "ಈಗ ನಾವು ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಈ ಸೂತ್ರವು ಬಹಳ ಮುಖ್ಯವಾದುದು. ಸೂತ್ರ ಹೀಗಿದೆ: ವಿಸ್ತೀರ್ಣ A ಈಕ್ವಲ್ಸ್ ಒಂದು ಭಾಗಿಸು ಎರಡು, ಗುಣಿಸು h, ಗುಣಿಸು a ಪ್ಲಸ್ b. ಇಲ್ಲಿ, A ಎಂದರೆ ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣ. h ಎಂದರೆ ಸಮಾಂತರ ಬಾಹುಗಳ ನಡುವಿನ ಲಂಬ ಎತ್ತರ. ಮತ್ತು a ಮತ್ತು b ಗಳು ತ್ರಾಪಿಜ್ಯದ ಎರಡು ಸಮಾಂತರ ಬಾಹುಗಳ ಉದ್ದಗಳಾಗಿವೆ. ಒಂದು ಜೋಡಿ ಎದುರು ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿರುವ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ನಾವು ಈ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ನಾವು ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಈ ಸೂತ್ರವು ಬಹಳ ಮುಖ್ಯವಾದುದು. ಸೂತ್ರ ಹೀಗಿದೆ: ವಿಸ್ತೀರ್ಣ $A = \\frac{1}{2} \\times h \\times (a+b)$. ಇಲ್ಲಿ,\n*   $A$ ಎಂದರೆ ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣ.\n*   $h$ ಎಂದರೆ ಸಮಾಂತರ ಬಾಹುಗಳ ನಡುವಿನ ಲಂಬ ಎತ್ತರ.\n*   $a$ ಮತ್ತು $b$ ಗಳು ತ್ರಾಪಿಜ್ಯದ ಎರಡು ಸಮಾಂತರ ಬಾಹುಗಳ ಉದ್ದಗಳಾಗಿವೆ.\nಒಂದು ಜೋಡಿ ಎದುರು ಬಾಹುಗಳು ಸಮಾಂತರವಾಗಿರುವ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ನಾವು ಈ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "$A$ = ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣ (Area of the trapezium)",
+    "$h$ = ಸಮಾಂತರ ಬಾಹುಗಳ ನಡುವಿನ ಲಂಬ ಎತ್ತರ (Perpendicular height)",
+    "$a, b$ = ಸಮಾಂತರ ಬಾಹುಗಳ ಉದ್ದಗಳು (Lengths of parallel sides)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "A = \\frac{1}{2} h (a+b)",
+    "placeholder_note": "Formula for the area of a trapezium"
+  },
+  "chunk_id": "MEN-MEN-2_concept_1_chunk_016"
+}

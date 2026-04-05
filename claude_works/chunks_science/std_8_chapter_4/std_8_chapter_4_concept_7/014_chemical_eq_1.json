@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಮ್ಲ ಮಳೆ ರಚನೆ - ಹಂತ 1",
+  "script": "ಆಮ್ಲ ಮಳೆಗೆ ಕಾರಣವಾಗುವ ಮೊದಲ ಹಂತವನ್ನು ನೋಡೋಣ. ಕಾರ್ಖಾನೆಗಳಿಂದ ಮತ್ತು ವಾಹನಗಳಿಂದ ಬಿಡುಗಡೆಯಾದ ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲವು ವಾತಾವರಣದಲ್ಲಿರುವ ಆಮ್ಲಜನಕದೊಂದಿಗೆ ವರ್ತಿಸುತ್ತದೆ. ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ: ಎರಡು ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲದ ಅಣುಗಳು, ಒಂದು ಆಮ್ಲಜನಕ ಅನಿಲದ ಅಣುವಿನೊಂದಿಗೆ ಸೇರಿ, ಎರಡು ಸಲ್ಫರ್ ಟ್ರೈಆಕ್ಸೈಡ್ ಅನಿಲದ ಅಣುಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.",
+  "script_display": "ಆಮ್ಲ ಮಳೆಗೆ ಕಾರಣವಾಗುವ ಮೊದಲ ಹಂತವನ್ನು ನೋಡೋಣ. ಕಾರ್ಖಾನೆಗಳಿಂದ ಮತ್ತು ವಾಹನಗಳಿಂದ ಬಿಡುಗಡೆಯಾದ ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ (SO₂) ಅನಿಲವು ವಾತಾವರಣದಲ್ಲಿರುವ ಆಮ್ಲಜನಕದೊಂದಿಗೆ (O₂) ವರ್ತಿಸುತ್ತದೆ. ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ: 2 ಅಣುಗಳು SO₂(g) + 1 ಅಣು O₂(g) → 2 ಅಣುಗಳು SO₃(g).",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2SO_2(g) + O_2(g) \\rightarrow 2SO_3(g)",
+    "placeholder_note": "Chemical equation for the oxidation of sulfur dioxide to sulfur trioxide."
+  },
+  "chunk_id": "std_8_chapter_4_concept_7_chunk_014"
+}

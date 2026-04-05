@@ -1,0 +1,158 @@
+{
+  "module_id": "std_9_chapter_9_concept_4",
+  "chapter_code": "std_9_chapter_9",
+  "voice": "Alnilam",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:26:21",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "3c2e906a456c10c912bfa11d571bbe6c",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 33.611,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "intro",
+      "script_words": 48,
+      "generated_at": "2026-04-02 16:24:12"
+    },
+    "003_formula_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "60c6627a110594435ef67b4a1254ab34",
+      "wav_file": "003_formula_0.wav",
+      "duration": 50.051,
+      "slide_title": "ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಅಡಿಯಲ್ಲಿ ಚಲನೆಯ ಸಮೀಕರಣಗಳು",
+      "type": "formula_showcase",
+      "script_words": 75,
+      "generated_at": "2026-04-02 16:24:21"
+    },
+    "004_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "5e7ecca864c5faad7b9cd09bd1ccd062",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "duration": 45.931,
+      "slide_title": "'g' ಯ ಚಿಹ್ನೆ: ಒಂದು ಪ್ರಮುಖ ನಿಯಮ",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 16:24:23"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "5d4972f5092a1cceafe4401f821be935",
+      "wav_file": "001_intro_0.wav",
+      "duration": 58.131,
+      "slide_title": "ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಅಡಿಯಲ್ಲಿ ಚಲನೆ",
+      "type": "intro",
+      "script_words": 82,
+      "generated_at": "2026-04-02 16:24:30"
+    },
+    "005_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "7637f7a870fd5315b4f5a89a1ec4aae4",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "duration": 35.531,
+      "slide_title": "ಉದಾಹರಣೆ 1: ಸ್ವತಂತ್ರ ಪತನ",
+      "type": "problem_setup",
+      "script_words": 52,
+      "generated_at": "2026-04-02 16:24:33"
+    },
+    "009_example_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "3b376d0d7df37892ab2d8fe5a5c664e5",
+      "wav_file": "009_example_0.wav",
+      "duration": 31.731,
+      "slide_title": "ಮಾದರಿ ಸಮಸ್ಯೆ",
+      "type": "worked_example",
+      "script_words": 55,
+      "generated_at": "2026-04-02 16:25:11"
+    },
+    "008_formula_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "4045c8a816df9aaa630816ca4384a8bf",
+      "wav_file": "008_formula_cont_0_5.wav",
+      "duration": 46.011,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+      "type": "key_takeaway",
+      "script_words": 53,
+      "generated_at": "2026-04-02 16:25:20"
+    },
+    "007_formula_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "0ee242889206d703817d2939ea6d30ed",
+      "wav_file": "007_formula_cont_0_4.wav",
+      "duration": 45.211,
+      "slide_title": "ಉದಾಹರಣೆ 1: ಪರಿಹಾರ (ಸಮಯ)",
+      "type": "step_walkthrough",
+      "script_words": 76,
+      "generated_at": "2026-04-02 16:25:22"
+    },
+    "010_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "00c92036001f7aa2ef3f000d81a3f119",
+      "wav_file": "010_example_cont_0_1.wav",
+      "duration": 69.171,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "script_words": 109,
+      "generated_at": "2026-04-02 16:25:38"
+    },
+    "006_formula_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "5b3d5be2626c7ca3df1fd1e88bad6a51",
+      "wav_file": "006_formula_cont_0_3.wav",
+      "duration": 40.771,
+      "slide_title": "ಉದಾಹರಣೆ 1: ಪರಿಹಾರ (ವೇಗ)",
+      "type": "step_walkthrough",
+      "script_words": 65,
+      "generated_at": "2026-04-02 16:25:41"
+    },
+    "012_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "cdeca2dc449ed5051c87e27f0899c52b",
+      "wav_file": "012_example_cont_0_3.wav",
+      "duration": 36.931,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "script_words": 55,
+      "generated_at": "2026-04-02 16:26:19"
+    },
+    "011_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "3d61f601e14a53e6e776af2b831e1947",
+      "wav_file": "011_example_cont_0_2.wav",
+      "duration": 43.171,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+      "type": "worked_example",
+      "script_words": 66,
+      "generated_at": "2026-04-02 16:26:20"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "1a8ef3fbcfac634cd356afa47350dad4",
+      "wav_file": "013_recap_0.wav",
+      "duration": 42.731,
+      "slide_title": "ಸಾರಾಂಶ: ಗುರುತ್ವಾಕರ್ಷಣೆಯ ಅಡಿಯಲ್ಲಿ ಚಲನೆ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 16:26:21"
+    }
+  }
+}

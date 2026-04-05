@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಹಾರ್ಮೋನುಗಳು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ?",
+  "script": "ಸಸ್ಯ ಹಾರ್ಮೋನುಗಳನ್ನು ಸಸ್ಯದೊಳಗಿನ ಒಂದು ಅಂಚೆ ಸೇವೆ ಎಂದು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಇವು ಸಸ್ಯದ ಒಂದು ಭಾಗದಲ್ಲಿ, ಉದಾಹರಣೆಗೆ ಕಾಂಡದ ತುದಿಯಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾಗಿ, ನಂತರ ಸಸ್ಯದ ಇತರ ಭಾಗಗಳಿಗೆ ಸಾಗುತ್ತವೆ. ಅಲ್ಲಿಗೆ ತಲುಪಿ, ಅವು ಒಂದು ನಿರ್ದಿಷ್ಟ ಕಾರ್ಯ ನಿರ್ವಹಿಸಲು ಸಂದೇಶ ನೀಡುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, 'ಇಲ್ಲಿ ಕೋಶಗಳು ಉದ್ದವಾಗಿ ಬೆಳೆಯಬೇಕು' ಅಥವಾ 'ಹೂವುಗಳನ್ನು ಅರಳಿಸಬೇಕು' ಎಂಬ ಸಂದೇಶವನ್ನು ಕೊಡಬಹುದು. ಹೀಗಾಗಿ, ಹಾರ್ಮೋನುಗಳ ಉತ್ಪಾದನಾ ಸ್ಥಳ ಮತ್ತು ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಸ್ಥಳ ಸಾಮಾನ್ಯವಾಗಿ ವಿಭಿನ್ನವಾಗಿರುತ್ತವೆ. ಇದು ಅವುಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣವಾಗಿದೆ.",
+  "script_display": "ಸಸ್ಯ ಹಾರ್ಮೋನುಗಳನ್ನು ಸಸ್ಯದೊಳಗಿನ ಒಂದು 'ಅಂಚೆ ಸೇವೆ' ಎಂದು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಇವು ಸಸ್ಯದ ಒಂದು ಭಾಗದಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾಗಿ, ನಂತರ ಸಸ್ಯದ ಇತರ ಭಾಗಗಳಿಗೆ ಸಾಗುತ್ತವೆ. ಅಲ್ಲಿಗೆ ತಲುಪಿ, ಅವು ಒಂದು ನಿರ್ದಿಷ್ಟ ಕಾರ್ಯ ನಿರ್ವಹಿಸಲು 'ಸಂದೇಶ' ನೀಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ಒಂದು ಭಾಗದಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾಗಿ (ಉದಾ: ಕಾಂಡದ ತುದಿ) ಬೇರೆ ಭಾಗಕ್ಕೆ ಸಾಗುತ್ತವೆ.",
+    "ನಿರ್ದಿಷ್ಟ ಕಾರ್ಯ ನಿರ್ವಹಿಸಲು 'ಸಂದೇಶ' ನೀಡುತ್ತವೆ.",
+    "ಉತ್ಪಾದನಾ ಸ್ಥಳ ಮತ್ತು ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಸ್ಥಳ ವಿಭಿನ್ನವಾಗಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a plant shoot. Hormones (represented by dots) are shown being produced at the apical tip. An arrow shows these hormones moving down the stem to other cells, causing them to elongate. This illustrates the concept of production in one location and action in another.",
+    "labels": "ಉತ್ಪಾದನಾ ಸ್ಥಳ (ಕಾಂಡದ ತುದಿ), ಹಾರ್ಮೋನುಗಳ ಸಾಗಾಣಿಕೆ, ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಸ್ಥಳ (ಬೆಳವಣಿಗೆ)",
+    "scientific_significance": "Illustrates the fundamental principle of hormonal action in plants: synthesis at one site and transport to a target site to elicit a response.",
+    "placeholder_note": "Image to be generated showing hormone transport from shoot tip downwards."
+  },
+  "chunk_id": "std_10_chapter_6_concept_6_chunk_004"
+}

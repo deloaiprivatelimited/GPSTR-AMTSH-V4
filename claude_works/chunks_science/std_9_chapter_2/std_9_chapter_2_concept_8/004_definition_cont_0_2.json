@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ಭೌತ vs. ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ",
+  "script": "ಈಗ ಭೌತ ಬದಲಾವಣೆಯನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯಲು, ಅದನ್ನು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯೊಂದಿಗೆ ಹೋಲಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನೀರು ಆವಿಯಾಗುವುದು ಒಂದು ಭೌತ ಬದಲಾವಣೆ. ಇಲ್ಲಿ ದ್ರವ ಸ್ಥಿತಿಯ ನೀರು ಅನಿಲ ಸ್ಥಿತಿಯ ನೀರಾವಿಯಾಗುತ್ತದೆ, ಆದರೆ ಎರಡೂ ಎಚ್ ಟು ಓ ನೇ ಆಗಿರುತ್ತದೆ. ಇದು ಹಿಂತಿರುಗಿಸಬಹುದಾದ ಬದಲಾವಣೆ. ಬಲಭಾಗದಲ್ಲಿ, ಕಟ್ಟಿಗೆಯನ್ನು ಉರಿಸುವುದನ್ನು ಗಮನಿಸಿ. ಇದು ಒಂದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ. ಇಲ್ಲಿ ಕಟ್ಟಿಗೆಯು ಆಮ್ಲಜನಕದೊಂದಿಗೆ ವರ್ತಿಸಿ, ಬೂದಿ ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ನಂತಹ ಸಂಪೂರ್ಣ ಹೊಸ ವಸ್ತುಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಈ ಬದಲಾವಣೆಯನ್ನು ಸುಲಭವಾಗಿ ಹಿಂತಿರುಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇದುವೇ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ.",
+  "script_display": "ಈಗ ಭೌತ ಬದಲಾವಣೆಯನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯಲು, ಅದನ್ನು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯೊಂದಿಗೆ ಹೋಲಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನೀರು ಆವಿಯಾಗುವುದು ಒಂದು ಭೌತ ಬದಲಾವಣೆ. ಇಲ್ಲಿ ದ್ರವ ಸ್ಥಿತಿಯ ನೀರು ಅನಿಲ ಸ್ಥಿತಿಯ ನೀರಾವಿಯಾಗುತ್ತದೆ, ಆದರೆ ಎರಡೂ H₂O ನೇ ಆಗಿರುತ್ತದೆ. ಇದು ಹಿಂತಿರುಗಿಸಬಹುದಾದ ಬದಲಾವಣೆ. ಬಲಭಾಗದಲ್ಲಿ, ಕಟ್ಟಿಗೆಯನ್ನು ಉರಿಸುವುದನ್ನು ಗಮನಿಸಿ. ಇದು ಒಂದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ. ಇಲ್ಲಿ ಕಟ್ಟಿಗೆಯು ಆಮ್ಲಜನಕದೊಂದಿಗೆ ವರ್ತಿಸಿ, ಬೂದಿ ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ (CO₂) ನಂತಹ ಸಂಪೂರ್ಣ ಹೊಸ ವಸ್ತುಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಈ ಬದಲಾವಣೆಯನ್ನು ಸುಲಭವಾಗಿ ಹಿಂತಿರುಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇದುವೇ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "{\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{|p{5cm}|p{5cm}|}\n\\hline\n\\textbf{ಭೌತ ಬದಲಾವಣೆ (ನೀರು ಆವಿಯಾಗುವುದು)} & \\textbf{ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ (ಕಟ್ಟಿಗೆ ಉರಿಯುವುದು)} \\\\\n\\hline\nಹೊಸ ವಸ್ತು ಉಂಟಾಗುವುದಿಲ್ಲ. (H₂O → H₂O) & ಹೊಸ ವಸ್ತುಗಳು ಉಂಟಾಗುತ್ತವೆ. (ಕಟ್ಟಿಗೆ → ಬೂದಿ + CO₂) \\\\\n\\hline\nಹಿಂತಿರುಗಿಸಬಹುದಾದ ಬದಲಾವಣೆ. & ಸಾಮಾನ್ಯವಾಗಿ ಹಿಂತಿರುಗಿಸಲಾಗದ ಬದಲಾವಣೆ. \\\\\n\\hline\nರಾಸಾಯನಿಕ ಸಂಯೋಜನೆ ಬದಲಾಗುವುದಿಲ್ಲ. & ರಾಸಾಯನಿಕ ಸಂಯೋಜನೆ ಬದಲಾಗುತ್ತದೆ. \\\\\n\\hline\n\\end{array}}",
+    "placeholder_note": "A two-column table comparing Physical and Chemical changes. Left column for Physical Change (Water boiling): No new substance, reversible, chemical composition same. Right column for Chemical Change (Wood burning): New substances formed, irreversible, chemical composition changes."
+  },
+  "sub_type": "split_comparison",
+  "difficulty": "easy",
+  "chunk_id": "std_9_chapter_2_concept_8_chunk_004"
+}

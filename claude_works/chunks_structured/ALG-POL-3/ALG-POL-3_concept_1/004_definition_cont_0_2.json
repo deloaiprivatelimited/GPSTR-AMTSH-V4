@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಬೀಜೋಕ್ತಿ",
+  "script": "ಈಗ ನಾವು ಬೀಜೋಕ್ತಿಯ ನಿಖರವಾದ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. ನಾವು ಸ್ಥಿರಾಂಕಗಳು ಮತ್ತು ಚರಾಕ್ಷರಗಳನ್ನು ತೆಗೆದುಕೊಂಡು, ಅವುಗಳನ್ನು ಸಂಕಲನ, ವ್ಯವಕಲನ, ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರದಂತಹ ಗಣಿತದ ಕ್ರಿಯೆಗಳನ್ನು ಬಳಸಿ ಒಟ್ಟಿಗೆ ಸೇರಿಸಿದಾಗ, ನಮಗೆ ಸಿಗುವುದೇ ಬೀಜೋಕ್ತಿ. ಹಾಗಾಗಿ, ಬೀಜೋಕ್ತಿ ಎಂದರೆ ಸ್ಥಿರಾಂಕಗಳು ಮತ್ತು ಚರಾಕ್ಷರಗಳ ಒಂದು ಗಣಿತೀಯ ಸಂಯೋಜನೆ. ಇದು ಬೀಜಗಣಿತದ ಭಾಷೆಯ ಒಂದು ಮೂಲಭೂತ ವಾಕ್ಯದಂತೆ.",
+  "script_display": "ಈಗ ನಾವು ಬೀಜೋಕ್ತಿಯ ನಿಖರವಾದ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. ನಾವು ಸ್ಥಿರಾಂಕಗಳು ಮತ್ತು ಚರಾಕ್ಷರಗಳನ್ನು ತೆಗೆದುಕೊಂಡು, ಅವುಗಳನ್ನು ಸಂಕಲನ, ವ್ಯವಕಲನ, ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರದಂತಹ ಗಣಿತದ ಕ್ರಿಯೆಗಳನ್ನು ಬಳಸಿ ಒಟ್ಟಿಗೆ ಸೇರಿಸಿದಾಗ, ನಮಗೆ ಸಿಗುವುದೇ ಬೀಜೋಕ್ತಿ. ಹಾಗಾಗಿ, ಬೀಜೋಕ್ತಿ ಎಂದರೆ ಸ್ಥಿರಾಂಕಗಳು ಮತ್ತು ಚರಾಕ್ಷರಗಳ ಒಂದು ಗಣಿತೀಯ ಸಂಯೋಜನೆ. ಇದು ಬೀಜಗಣಿತದ ಭಾಷೆಯ ಒಂದು ಮೂಲಭೂತ ವಾಕ್ಯದಂತೆ.",
+  "display_bullets": [
+    "ಸ್ಥಿರಾಂಕಗಳು ಮತ್ತು ಚರಾಕ್ಷರಗಳನ್ನು ಸಂಕಲನ, ವ್ಯವಕಲನ, ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರದಂತಹ ಗಣಿತದ ಕ್ರಿಯೆಗಳಿಂದ ಸಂಯೋಜಿಸಿದಾಗ ಬೀಜೋಕ್ತಿ ಉಂಟಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "center_text_visual_bottom",
+    "text_zone": "center",
+    "visual_zone": "bottom",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "(\\text{ಸ್ಥಿರಾಂಕಗಳು}) \\quad \\oplus \\quad (\\text{ಚರಾಕ್ಷರಗಳು}) \\quad \\longrightarrow \\quad \\text{ಬೀಜೋಕ್ತಿ}",
+    "placeholder_note": "A conceptual representation showing constants and variables being combined by operations to form an algebraic expression."
+  },
+  "chunk_id": "ALG-POL-3_concept_1_chunk_004"
+}

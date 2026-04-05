@@ -1,0 +1,34 @@
+{
+  "type": "prerequisites",
+  "slide_title": "ಪೂರ್ವ-ಅವಶ್ಯಕತೆಗಳು",
+  "script": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನೀವು ಕೆಲವು ಮೂಲಭೂತ ನಿಯಮಗಳನ್ನು ತಿಳಿದಿರುವುದು ಬಹಳ ಮುಖ್ಯ. ಇವುಗಳಲ್ಲಿ ರಾಸಾಯನಿಕ ಸಂಯೋಜನೆಯ ನಿಯಮಗಳು, ನಿರ್ದಿಷ್ಟವಾಗಿ ರಾಶಿ ಸಂರಕ್ಷಣಾ ನಿಯಮ ಮತ್ತು ಸ್ಥಿರ ಅನುಪಾತಗಳ ನಿಯಮ ಸೇರಿವೆ. ಈ ಪರಿಕಲ್ಪನೆಗಳ ಜ್ಞಾನವು ಡಾಲ್ಟನ್ ಸಿದ್ಧಾಂತವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನೀವು ಕೆಲವು ಮೂಲಭೂತ ನಿಯಮಗಳನ್ನು ತಿಳಿದಿರುವುದು ಬಹಳ ಮುಖ್ಯ. ಈ ಪರಿಕಲ್ಪನೆಗಳ ಜ್ಞಾನವು ಡಾಲ್ಟನ್ ಸಿದ್ಧಾಂತವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ರಾಸಾಯನಿಕ ಸಂಯೋಜನೆಯ ನಿಯಮಗಳು (Laws of Chemical Combination)",
+    "ರಾಶಿ ಸಂರಕ್ಷಣಾ ನಿಯಮ (Law of Conservation of Mass)",
+    "ಸ್ಥಿರ ಅನುಪಾತಗಳ ನಿಯಮ (Law of Constant Proportions)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "prerequisites_display": [
+    "ರಾಸಾಯನಿಕ ಸಂಯೋಜನೆಯ ನಿಯಮಗಳು"
+  ],
+  "chunk_id": "std_9_chapter_3_concept_2_chunk_002"
+}

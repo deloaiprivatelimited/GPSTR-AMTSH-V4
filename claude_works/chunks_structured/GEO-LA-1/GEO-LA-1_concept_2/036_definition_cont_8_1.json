@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಸಾಮಾನ್ಯವಾಗಿ ನಾವು ಎರಡು ಕಿರಣಗಳ ನಡುವಿನ ಚಿಕ್ಕ, ಒಳಗಿನ ಕೋನವನ್ನು ಅಳೆಯುತ್ತೇವೆ. ಆದರೆ, ಸರಳಾಧಿಕ ಕೋನವು ಆ ಎರಡು ಕಿರಣಗಳ ನಡುವಿನ ದೊಡ್ಡ, ಹೊರಗಿನ ಭಾಗದ ಕೋನವಾಗಿದೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಒಳಗಿನ ಕೋನ ಅರವತ್ತು ಡಿಗ್ರಿ ಇದೆ. ಇದರ ಸರಳಾಧಿಕ ಕೋನವು ಪೂರ್ಣ ಕೋನವಾದ ಮುನ್ನೂರಾ ಅರವತ್ತು ಡಿಗ್ರಿಯಿಂದ ಅರವತ್ತು ಡಿಗ್ರಿಯನ್ನು ಕಳೆದಾಗ ಸಿಗುತ್ತದೆ, ಅಂದರೆ ಮುನ್ನೂರು ಡಿಗ್ರಿ. ಈ ಮುನ್ನೂರು ಡಿಗ್ರಿ ಕೋನವು ಒಂದು ಸರಳಾಧಿಕ ಕೋನವಾಗಿದೆ. ನೆನಪಿಡಿ, ಒಂದು ಕೋನ ಮತ್ತು ಅದರ ಸರಳಾಧಿಕ ಕೋನವನ್ನು ಕೂಡಿಸಿದಾಗ, ಮೊತ್ತವು ಯಾವಾಗಲೂ ಮುನ್ನೂರಾ ಅರವತ್ತು ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಸಾಮಾನ್ಯವಾಗಿ ನಾವು ಎರಡು ಕಿರಣಗಳ ನಡುವಿನ ಚಿಕ್ಕ, ಒಳಗಿನ ಕೋನವನ್ನು ಅಳೆಯುತ್ತೇವೆ. ಆದರೆ, ಸರಳಾಧಿಕ ಕೋನವು ಆ ಎರಡು ಕಿರಣಗಳ ನಡುವಿನ ದೊಡ್ಡ, ಹೊರಗಿನ ಭಾಗದ ಕೋನವಾಗಿದೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ಒಳಗಿನ ಕೋನ $60^\\circ$ ಇದೆ. ಇದರ ಸರಳಾಧಿಕ ಕೋನವು ಪೂರ್ಣ ಕೋನವಾದ $360^\\circ$ ರಿಂದ $60^\\circ$ ಅನ್ನು ಕಳೆದಾಗ ಸಿಗುತ್ತದೆ, ಅಂದರೆ $300^\\circ$. ಈ $300^\\circ$ ಕೋನವು ಒಂದು ಸರಳಾಧಿಕ ಕೋನವಾಗಿದೆ. ನೆನಪಿಡಿ, ಒಂದು ಕೋನ ಮತ್ತು ಅದರ ಸರಳಾಧಿಕ ಕೋನವನ್ನು ಕೂಡಿಸಿದಾಗ, ಮೊತ್ತವು ಯಾವಾಗಲೂ $360^\\circ$ ಆಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸರಳಾಧಿಕ ಕೋನವು ಎರಡು ಕಿರಣಗಳ ನಡುವಿನ 'ಹೊರಗಿನ' ಅಥವಾ ದೊಡ್ಡ ಕೋನವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+    "ಉದಾಹರಣೆಗೆ, $210^\\circ$, $270^\\circ$, $315^\\circ$ ಇವೆಲ್ಲವೂ ಸರಳಾಧಿಕ ಕೋನಗಳು.",
+    "ಒಂದು ಕೋನ + ಅದರ ಸರಳಾಧಿಕ ಕೋನ = $360^\\circ$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An angle, say 60 degrees, is marked with a small arc between two rays OA and OB originating from point O. The reflex angle, the larger arc on the outside, is marked with a large arc and labeled as 300 degrees. The visual should clearly distinguish the inner angle from the outer reflex angle.",
+    "labels": "O, A, B, 60°, 300° (Reflex Angle)",
+    "mathematical_significance": "Visually distinguishes a standard angle from its corresponding reflex angle. It shows that for any angle, there is a corresponding reflex angle, and their sum is 360 degrees.",
+    "placeholder_note": "Image to be generated showing an inner angle of 60 degrees and the outer reflex angle of 300 degrees."
+  },
+  "chunk_id": "GEO-LA-1_concept_2_chunk_036"
+}

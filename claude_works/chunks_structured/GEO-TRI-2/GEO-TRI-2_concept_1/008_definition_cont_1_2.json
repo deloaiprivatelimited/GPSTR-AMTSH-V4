@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಅನುರೂಪ ಭಾಗಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+  "script": "ಸರ್ವಸಮತೆಯಲ್ಲಿ 'ಅನುರೂಪ' ಅಥವಾ 'corresponding' ಎಂಬ ಪದ ಬಹಳ ಮುಖ್ಯ. ಇದರರ್ಥ, ಯಾವ ಶೃಂಗವು ಯಾವ ಶೃಂಗಕ್ಕೆ, ಯಾವ ಬಾಹುವು ಯಾವ ಬಾಹುವಿಗೆ, ಮತ್ತು ಯಾವ ಕೋನವು ಯಾವ ಕೋನಕ್ಕೆ ಸರಿಹೊಂದುತ್ತದೆ ಎಂಬುದನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು. ಉದಾಹರಣೆಗೆ, ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ಯು ತ್ರಿಭುಜ ಪಿ ಕ್ಯೂ ಆರ್ ಗೆ ಸರ್ವಸಮವಾಗಿದೆ ಎಂದು ಬರೆದರೆ, ಅದರ ಅರ್ಥ, ಎ ಶೃಂಗವು ಪಿ ಶೃಂಗಕ್ಕೆ, ಬಿ ಶೃಂಗವು ಕ್ಯೂ ಶೃಂಗಕ್ಕೆ, ಮತ್ತು ಸಿ ಶೃಂಗವು ಆರ್ ಶೃಂಗಕ್ಕೆ ಅನುರೂಪವಾಗಿದೆ. ಇದರಿಂದ, ಎ ಬಿ ಬಾಹುವು ಪಿ ಕ್ಯೂ ಬಾಹುವಿಗೆ, ಬಿ ಸಿ ಬಾಹುವು ಕ್ಯೂ ಆರ್ ಬಾಹುವಿಗೆ, ಮತ್ತು ಸಿ ಎ ಬಾಹುವು ಆರ್ ಪಿ ಬಾಹುವಿಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಹಾಗೆಯೇ, ಕೋನ ಎ ಯು ಕೋನ ಪಿ ಗೆ, ಕೋನ ಬಿ ಯು ಕೋನ ಕ್ಯೂ ಗೆ, ಮತ್ತು ಕೋನ ಸಿ ಯು ಕೋನ ಆರ್ ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಶೃಂಗಗಳನ್ನು ಬರೆಯುವ ಕ್ರಮವು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಸರ್ವಸಮತೆಯಲ್ಲಿ 'ಅನುರೂಪ' (corresponding) ಎಂಬ ಪದ ಬಹಳ ಮುಖ್ಯ. ಇದರರ್ಥ, ಯಾವ ಶೃಂಗವು ಯಾವ ಶೃಂಗಕ್ಕೆ, ಯಾವ ಬಾಹುವು ಯಾವ ಬಾಹುವಿಗೆ, ಮತ್ತು ಯಾವ ಕೋನವು ಯಾವ ಕೋನಕ್ಕೆ ಸರಿಹೊಂದುತ್ತದೆ ಎಂಬುದನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು. ಉದಾಹರಣೆಗೆ, $\\triangle ABC \\cong \\triangle PQR$ ಎಂದು ಬರೆದರೆ, ಅದರ ಅರ್ಥ: $A \\leftrightarrow P, B \\leftrightarrow Q, C \\leftrightarrow R$. ಇದರಿಂದ, $AB=PQ, BC=QR, CA=RP$ ಮತ್ತು $\\angle A = \\angle P, \\angle B = \\angle Q, \\angle C = \\angle R$. ಶೃಂಗಗಳನ್ನು ಬರೆಯುವ ಕ್ರಮವು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಅನುರೂಪತೆ (Correspondence) ಎಂದರೆ ಯಾವ ಭಾಗವು ಯಾವ ಭಾಗಕ್ಕೆ ಸರಿಹೊಂದುತ್ತದೆ ಎಂದು ಗುರುತಿಸುವುದು.",
+    "$\\triangle ABC \\cong \\triangle PQR$ ಎಂದರೆ $A \\leftrightarrow P, B \\leftrightarrow Q, C \\leftrightarrow R$.",
+    "ಅನುರೂಪ ಬಾಹುಗಳು: $AB=PQ, BC=QR, CA=RP$.",
+    "ಅನುರೂಪ ಕೋನಗಳು: $\\angle A = \\angle P, \\angle B = \\angle Q, \\angle C = \\angle R$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left_text_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳು, ΔABC ಮತ್ತು ΔPQR. ಶೃಂಗ A ಯಿಂದ P ಗೆ, B ಯಿಂದ Q ಗೆ, ಮತ್ತು C ಯಿಂದ R ಗೆ ಬಾಣದ ಗುರುತುಗಳನ್ನು ಎಳೆಯಲಾಗಿದೆ. ಅನುರೂಪ ಬಾಹುಗಳನ್ನು (AB ಮತ್ತು PQ, BC ಮತ್ತು QR, CA ಮತ್ತು RP) ಒಂದೇ ಬಣ್ಣದಿಂದ ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. ಅನುರೂಪ ಕೋನಗಳನ್ನು (A ಮತ್ತು P, B ಮತ್ತು Q, C ಮತ್ತು R) ಒಂದೇ ರೀತಿಯ ಆರ್ಕ್ ಗುರುತುಗಳಿಂದ ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, C, P, Q, R",
+    "mathematical_significance": "ಶೃಂಗಗಳು, ಬಾಹುಗಳು ಮತ್ತು ಕೋನಗಳ ನಡುವಿನ ಅನುರೂಪತೆಯನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಸರ್ವಸಮತೆಯ ಹೇಳಿಕೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ನಿರ್ಣಾಯಕವಾಗಿದೆ.",
+    "placeholder_note": "Image to visually explain correspondence between vertices, sides, and angles."
+  },
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_008"
+}

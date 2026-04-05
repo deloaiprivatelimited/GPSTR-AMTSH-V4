@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ವಿವರಣೆ",
+  "script": "ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಎಡಭಾಗದಲ್ಲಿರುವ ಪ್ರತಿವರ್ತಕಗಳೆಂದರೆ ಎಥನೋಯಿಕ್ ಆಮ್ಲ ಮತ್ತು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್. ಬಾಣದ ಗುರುತಿನ ಬಲಭಾಗದಲ್ಲಿರುವ ಉತ್ಪನ್ನಗಳೆಂದರೆ ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್, ಇದು ಒಂದು ಲವಣ, ಮತ್ತು ನೀರು. ಇದು ಒಂದು ವಿಶಿಷ್ಟ ಆಮ್ಲ-ಪ್ರತ್ಯಾಮ್ಲ ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "script_display": "ಈ ಸಮೀಕರಣದಲ್ಲಿ, ಎಡಭಾಗದಲ್ಲಿರುವ ಪ್ರತಿವರ್ತಕಗಳೆಂದರೆ ಎಥನೋಯಿಕ್ ಆಮ್ಲ ($CH_3COOH$) ಮತ್ತು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ($NaOH$). ಬಾಣದ ಗುರುತಿನ ಬಲಭಾಗದಲ್ಲಿರುವ ಉತ್ಪನ್ನಗಳೆಂದರೆ ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್ ($CH_3COONa$), ಇದು ಒಂದು ಲವಣ, ಮತ್ತು ನೀರು ($H_2O$). ಇದು ಒಂದು ವಿಶಿಷ್ಟ ಆಮ್ಲ-ಪ್ರತ್ಯಾಮ್ಲ ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳು (Reactants): ಎಥನೋಯಿಕ್ ಆಮ್ಲ ($CH_3COOH$), ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ($NaOH$)",
+    "ಉತ್ಪನ್ನಗಳು (Products): ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್ ($CH_3COONa$), ನೀರು ($H_2O$)",
+    "ಕ್ರಿಯೆಯ ವಿಧ: ತಟಸ್ಥೀಕರಣ (Neutralization)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating the neutralization reaction. On the left, show a molecule of ethanoic acid (CH3COOH) and a molecule of sodium hydroxide (NaOH). Highlight the -H from the acid and the -OH from the base. An arrow points to the right. On the right, show the resulting molecules: sodium ethanoate (CH3COONa) and water (H2O). Highlight how the H and OH have combined to form water, and the Na has replaced the H in the acid to form the salt.",
+    "labels": "ಎಥನೋಯಿಕ್ ಆಮ್ಲ (ಆಮ್ಲ), ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (ಪ್ರತ್ಯಾಮ್ಲ), ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್ (ಲವಣ), ನೀರು",
+    "scientific_significance": "This diagram visually breaks down the neutralization reaction, showing the exchange of ions between the acid and the base to form salt and water, which is a fundamental concept in acid-base chemistry.",
+    "placeholder_note": "Image to be generated to show the molecular interaction."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_019"
+}

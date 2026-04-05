@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕಾರ್ಬನ್‌ನ ದಹನ: ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಇಲ್ಲಿ ಕಾರ್ಬನ್‌ನ ದಹನ ಕ್ರಿಯೆಯ ಸಮೀಕರಣವನ್ನು ನೋಡಬಹುದು. ಘನ ರೂಪದ ಕಾರ್ಬನ್, ಆಕ್ಸಿಜನ್ ಅನಿಲದೊಂದಿಗೆ ವರ್ತಿಸಿ, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲ, ಜೊತೆಗೆ ಶಾಖ ಮತ್ತು ಬೆಳಕನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಹೆಚ್ಚಿನ ಕಾರ್ಬನ್ ಸಂಯುಕ್ತಗಳು ದಹನಗೊಂಡಾಗ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ಶಾಖ ಮತ್ತು ಬೆಳಕನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ.",
+  "script_display": "ಕಾರ್ಬನ್‌ನ ದಹನ ಕ್ರಿಯೆಯ ಸಮೀಕರಣ: C(s) + O₂(g) → CO₂(g) + ಶಾಖ + ಬೆಳಕು. ಹೆಚ್ಚಿನ ಕಾರ್ಬನ್ ಸಂಯುಕ್ತಗಳು ದಹನಗೊಂಡಾಗ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ಶಾಖ ಮತ್ತು ಬೆಳಕನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "C(s) + O_2(g) \\rightarrow CO_2(g) + \\text{ಶಾಖ} + \\text{ಬೆಳಕು}",
+    "placeholder_note": "Equation for the complete combustion of Carbon"
+  },
+  "chunk_id": "std_10_chapter_4_concept_8_chunk_004"
+}

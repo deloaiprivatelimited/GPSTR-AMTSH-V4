@@ -1,0 +1,31 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರ 3: ಶೂನ್ಯತೆಗಳ ಗುಣಲಬ್ಧ",
+  "script": "ಕೊನೆಯದಾಗಿ, ಮೂರೂ ಶೂನ್ಯತೆಗಳ ಗುಣಲಬ್ಧದ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಆಲ್ಫಾ, ಬೀಟಾ ಮತ್ತು ಗಾಮ ಇವುಗಳ ಗುಣಲಬ್ಧವು ಮೈನಸ್ d ಬೈ a ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ, d ಎಂಬುದು ಸ್ಥಿರಾಂಕ, ಅಂದರೆ ಕಾನ್ಸ್ಟಂಟ್ ಟರ್ಮ್, ಮತ್ತು a ಎಂಬುದು x ಕ್ಯೂಬ್ ನ ಸಹಗುಣಕ. ಆದ್ದರಿಂದ, ಆಲ್ಫಾ ಬೀಟಾ ಗಾಮ ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ ಸ್ಥಿರಾಂಕ ಬೈ x ಕ್ಯೂಬ್ ನ ಸಹಗುಣಕ. ಇಲ್ಲಿಯೂ ಸಹ ಋಣಾತ್ಮಕ ಚಿಹ್ನೆ ಇದೆ, ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಮುಖ್ಯ. ಇದು ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯ ಗುಣಲಬ್ಧದ ಸೂತ್ರ c ಬೈ a ಗಿಂತ ಭಿನ್ನವಾಗಿದೆ.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ಮೂರೂ ಶೂನ್ಯತೆಗಳ ಗುಣಲಬ್ಧದ (Product of Zeros) ಸೂತ್ರವನ್ನು ನೋಡೋಣ. $\\alpha, \\beta$ ಮತ್ತು $\\gamma$ ಇವುಗಳ ಗುಣಲಬ್ಧವು $-\\frac{d}{a}$ ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ, $d$ ಎಂಬುದು ಸ್ಥಿರಾಂಕ (constant term), ಮತ್ತು $a$ ಎಂಬುದು $x^3$ ನ ಸಹಗುಣಕ. ಆದ್ದರಿಂದ, $\\alpha\\beta\\gamma = -\\frac{\\text{ಸ್ಥಿರಾಂಕ}}{x^3 \\text{ ನ ಸಹಗುಣಕ}}$. ಇಲ್ಲಿಯೂ ಸಹ ಋಣಾತ್ಮಕ ಚಿಹ್ನೆ ಇದೆ, ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಮುಖ್ಯ. ಇದು ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯ ಗುಣಲಬ್ಧದ ಸೂತ್ರ $\\frac{c}{a}$ ಗಿಂತ ಭಿನ್ನವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಶೂನ್ಯತೆಗಳ ಗುಣಲಬ್ಧ: } \\alpha\\beta\\gamma = -\\frac{d}{a}",
+    "placeholder_note": "Formula for the product of zeros of a cubic polynomial."
+  },
+  "chunk_id": "ALG-POL-3_concept_5_chunk_015"
+}

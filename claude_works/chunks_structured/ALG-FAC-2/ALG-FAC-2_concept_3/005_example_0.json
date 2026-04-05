@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಮರುಗುಂಪು ಮಾಡುವಿಕೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಎರಡು ಎಕ್ಸ್ ವೈ ಪ್ಲಸ್ ಎರಡು ವೈ ಪ್ಲಸ್ ಮೂರು ಎಕ್ಸ್ ಪ್ಲಸ್ ಮೂರು ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯನ್ನು ಗಮನಿಸಿದಾಗ, ಎಲ್ಲಾ ನಾಲ್ಕು ಪದಗಳಿಗೂ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಇಲ್ಲದಿರುವುದು ತಿಳಿಯುತ್ತದೆ. ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ನಾವು ಮರುಗುಂಪು ಮಾಡುವಿಕೆಯ ವಿಧಾನವನ್ನು ಬಳಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $2xy + 2y + 3x + 3$ ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯನ್ನು ಗಮನಿಸಿದಾಗ, ಎಲ್ಲಾ ನಾಲ್ಕು ಪದಗಳಿಗೂ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಇಲ್ಲದಿರುವುದು ತಿಳಿಯುತ್ತದೆ. ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ನಾವು ಮರುಗುಂಪು ಮಾಡುವಿಕೆಯ ವಿಧಾನವನ್ನು ಬಳಸಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $2xy + 2y + 3x + 3$ ಅನ್ನು ಅಪವರ್ತಿಸಿ.",
+    "ಗಮನಿಸಿ: ಎಲ್ಲಾ ನಾಲ್ಕು ಪದಗಳಿಗೆ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಿಲ್ಲ.",
+    "ವಿಧಾನ: ಪದಗಳನ್ನು ಮರುಗುಂಪು ಮಾಡಿ ಅಪವರ್ತಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2xy + 2y + 3x + 3",
+    "placeholder_note": "The expression to be factorised."
+  },
+  "source_example_id": "ALG-FAC-2_example_3",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-FAC-2_concept_3_chunk_005"
+}

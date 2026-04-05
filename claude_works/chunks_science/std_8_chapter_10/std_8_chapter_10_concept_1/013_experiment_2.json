@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಚಟುವಟಿಕೆ 10.5: ಜಲತರಂಗ - ಉಪಕರಣಗಳು",
+  "script": "ಈಗ ನಾವು ಒಂದು ಸರಳ ಮತ್ತು ಸುಂದರವಾದ ಸಂಗೀತ ವಾದ್ಯವಾದ ಜಲತರಂಗವನ್ನು ಮಾಡುವ ಚಟುವಟಿಕೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಮೂಲಕ, ಶಬ್ದವು ಹೇಗೆ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಇದಕ್ಕೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೆಲವು ಸುಲಭವಾಗಿ ಸಿಗುವ ವಸ್ತುಗಳು. ಮೊದಲನೆಯದಾಗಿ, ಸುಮಾರು ಆರರಿಂದ ಎಂಟು ಗಾಜಿನ ಲೋಟಗಳು. ಎರಡನೆಯದಾಗಿ, ಅವುಗಳನ್ನು ತುಂಬಲು ನೀರು. ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಲೋಟಗಳನ್ನು ನಿಧಾನವಾಗಿ ಬಡಿಯಲು ಒಂದು ಪೆನ್ಸಿಲ್ ಅಥವಾ ಸಣ್ಣ ಕೋಲು. ಈ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ನಾವು ಹೇಗೆ ಸಂಗೀತಮಯ ಶಬ್ದವನ್ನು ಸೃಷ್ಟಿಸಬಹುದು ಎಂಬುದನ್ನು ಗಮನಿಸೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಸರಳ ಮತ್ತು ಸುಂದರವಾದ ಸಂಗೀತ ವಾದ್ಯವಾದ ಜಲತರಂಗವನ್ನು ಮಾಡುವ ಚಟುವಟಿಕೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಟುವಟಿಕೆಯ ಮೂಲಕ, ಶಬ್ದವು ಹೇಗೆ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾವು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಇದಕ್ಕೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಕೆಲವು ಸುಲಭವಾಗಿ ಸಿಗುವ ವಸ್ತುಗಳು. ಮೊದಲನೆಯದಾಗಿ, ಸುಮಾರು 6-8 ಗಾಜಿನ ಲೋಟಗಳು. ಎರಡನೆಯದಾಗಿ, ಅವುಗಳನ್ನು ತುಂಬಲು ನೀರು. ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಲೋಟಗಳನ್ನು ನಿಧಾನವಾಗಿ ಬಡಿಯಲು ಒಂದು ಪೆನ್ಸಿಲ್ ಅಥವಾ ಸಣ್ಣ ಕೋಲು. ಈ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ನಾವು ಹೇಗೆ ಸಂಗೀತಮಯ ಶಬ್ದವನ್ನು ಸೃಷ್ಟಿಸಬಹುದು ಎಂಬುದನ್ನು ಗಮನಿಸೋಣ.",
+  "display_bullets": [
+    "6-8 ಗಾಜಿನ ಲೋಟಗಳು",
+    "ನೀರು",
+    "ಪೆನ್ಸಿಲ್ ಅಥವಾ ಸಣ್ಣ ಕೋಲು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A row of 6-8 glass tumblers filled with water at increasing levels. A hand holding a pencil is shown about to strike one of the tumblers. The water levels should be clearly visible, from low to high.",
+    "labels": "ಗಾಜಿನ ಲೋಟ, ನೀರು, ಪೆನ್ಸಿಲ್, ಗಾಳಿಯ ಸ್ತಂಭ",
+    "scientific_significance": "Shows the apparatus for the Jal Tarang experiment, illustrating how varying the length of the air column (by changing water level) can be used to produce different sounds.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_10_concept_1_chunk_013"
+}

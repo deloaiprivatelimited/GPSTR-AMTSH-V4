@@ -1,0 +1,205 @@
+{
+  "module_id": "NS-SYS-3_concept_6",
+  "module_title": "ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳಿಗೆ ಘಾತಾಂಕಗಳ ನಿಯಮಗಳು (Laws of Exponents for Real Numbers)",
+  "podcast_meta": {
+    "estimated_duration_minutes": 8.5,
+    "total_dialogues": 31,
+    "sections_covered": [
+      "intro",
+      "definition",
+      "formula",
+      "example",
+      "exam_tips",
+      "recap"
+    ],
+    "content_density": "heavy"
+  },
+  "dialogues": [
+    {
+      "index": 1,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಜಿ ಪಿ ಎಸ್ ಟಿ ಆರ್ ಮತ್ತು ಎಚ್ ಎಸ್ ಟಿ ಆರ್ ಗಣಿತ ಸರಣಿಗೆ ಸ್ವಾಗತ. ಇಂದು ನಾವು ಒಂದು ಬಹುಮುಖ್ಯವಾದ ವಿಷಯ, ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳಿಗೆ ಘಾತಾಂಕಗಳ ನಿಯಮಗಳ ಬಗ್ಗೆ ಪುನರಾವರ್ತನೆ ಮಾಡೋಣ."
+    },
+    {
+      "index": 2,
+      "speaker": "student",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ ಗುರುಗಳೇ. ಹೌದು, ಈ ಘಾತಾಂಕಗಳ ನಿಯಮಗಳು ಬೀಜಗಣಿತದಲ್ಲಿ ಬಹಳಷ್ಟು ಕಡೆ ಬರುತ್ತವೆ. ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದಲೂ ಇದು ಬಹಳ ಮುಖ್ಯ ಅಲ್ವಾ?"
+    },
+    {
+      "index": 3,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ಖಂಡಿತವಾಗಿ. ಇದರ ಮೇಲಿನ ಪ್ರಶ್ನೆಗಳು ನೇರವಾಗಿಯೂ ಮತ್ತು ಬೇರೆ ಲೆಕ್ಕಗಳ ಭಾಗವಾಗಿಯೂ ಬರುತ್ತವೆ. ಹಾಗಾಗಿ ಇದರ ಮೂಲಭೂತ ಅಂಶಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿದುಕೊಳ್ಳುವುದು ಅವಶ್ಯಕ."
+    },
+    {
+      "index": 4,
+      "speaker": "teacher",
+      "section": "definition",
+      "script": "ಮೊದಲಿಗೆ, ನಾವು ಪೂರ್ಣಾಂಕ ಘಾತಸೂಚಿಗಳಿಗೆ ಬಳಸುವ ನಿಯಮಗಳನ್ನೇ ಈಗ ಭಾಗಲಬ್ಧ ಘಾತಸೂಚಿಗಳಿಗೂ ವಿಸ್ತರಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ a ಎಂಬುದು ಸೊನ್ನೆಗಿಂತ ದೊಡ್ಡದಾದ ಒಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ."
+    },
+    {
+      "index": 5,
+      "speaker": "student",
+      "section": "definition",
+      "script": "ಸರಿ ಗುರುಗಳೇ. ಹಾಗಾದರೆ, a to the power zero ಅಂದರೇನು?"
+    },
+    {
+      "index": 6,
+      "speaker": "teacher",
+      "section": "definition",
+      "script": "ಯಾವುದೇ ಸಂಖ್ಯೆಯ ಘಾತ ಸೊನ್ನೆ ಇದ್ದರೆ, ಅದರ ಮೌಲ್ಯ ಒಂದು. ಅಂದರೆ, a to the power zero equals one."
+    },
+    {
+      "index": 7,
+      "speaker": "student",
+      "section": "definition",
+      "script": "ಮತ್ತು ಋಣಾತ್ಮಕ ಘಾತಾಂಕ? ಅಂದರೆ a to the power minus n ಇದ್ದರೆ?"
+    },
+    {
+      "index": 8,
+      "speaker": "teacher",
+      "section": "definition",
+      "script": "a to the power minus n ಅಂದರೆ one by a to the power n. ಉದಾಹರಣೆಗೆ, two to the power minus three ಅಂದರೆ one by two cubed, ಅಂದರೆ one by eight."
+    },
+    {
+      "index": 9,
+      "speaker": "student",
+      "section": "definition",
+      "script": "ಓಕೆ, ಈಗ ಭಿನ್ನರಾಶಿ ಘಾತಾಂಕ. a to the power one by n ಅಂದರೆ ಹೇಗೆ?"
+    },
+    {
+      "index": 10,
+      "speaker": "teacher",
+      "section": "definition",
+      "script": "a to the power one by n ಅಂದರೆ a ಯ n ನೇ ಮೂಲ, ಅಂದರೆ n th root of a. ಉದಾಹರಣೆಗೆ, ಫೋರ್ to the power one by two ಅಂದರೆ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಫೋರ್, ಅದರ ಮೌಲ್ಯ ಎರಡು."
+    },
+    {
+      "index": 11,
+      "speaker": "student",
+      "section": "definition",
+      "script": "ಹಾಗಾದರೆ, a to the power m by n ಅನ್ನು ಹೇಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು?"
+    },
+    {
+      "index": 12,
+      "speaker": "teacher",
+      "section": "definition",
+      "script": "ಇದನ್ನು ಎರಡು ರೀತಿ ಬರೆಯಬಹುದು. ಒಂದು, a to the power m by n equals n th root of a whole to the power m. ಅಥವಾ, n th root of a to the power m. ಎರಡೂ ಒಂದೇ ಉತ್ತರವನ್ನು ಕೊಡುತ್ತವೆ."
+    },
+    {
+      "index": 13,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಈಗ ಪ್ರಮುಖ ನಿಯಮಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು ಪ್ರಾಡಕ್ಟ್ ರೂಲ್. a to the power p into a to the power q equals a to the power p plus q. ಇಲ್ಲಿ ಆಧಾರಗಳು ಸಮವಿದ್ದಾಗ, ಘಾತಾಂಕಗಳನ್ನು ಕೂಡಬೇಕು."
+    },
+    {
+      "index": 14,
+      "speaker": "student",
+      "section": "formula",
+      "script": "ಅಂದರೆ, two squared into two cubed ಇದ್ದರೆ, ಅದು two to the power two plus three, ಅಂದರೆ two to the power five ಆಗುತ್ತೆ, ಸರಿನಾ ಗುರುಗಳೇ?"
+    },
+    {
+      "index": 15,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಸರಿಯಾಗಿದೆ. ಎರಡನೇ ನಿಯಮ, ಪವರ್ ಆಫ್ ಎ ಪವರ್ ರೂಲ್. a to the power p whole to the power q equals a to the power p into q. ಇಲ್ಲಿ ಘಾತಾಂಕಗಳನ್ನು ಗುಣಿಸಬೇಕು."
+    },
+    {
+      "index": 16,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಮೂರನೆಯದು ಕೋಶಂಟ್ ರೂಲ್. a to the power p divided by a to the power q equals a to the power p minus q. ಇಲ್ಲಿ ಆಧಾರಗಳು ಸಮವಿದ್ದಾಗ, ಭಾಗಿಸುವಾಗ ಘಾತಾಂಕಗಳನ್ನು ಕಳೆಯಬೇಕು."
+    },
+    {
+      "index": 17,
+      "speaker": "student",
+      "section": "formula",
+      "script": "ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಪವರ್ ಆಫ್ ಎ ಪ್ರಾಡಕ್ಟ್ ರೂಲ್. ಇಲ್ಲಿ a to the power p into b to the power p equals a into b whole to the power p. ಇಲ್ಲಿ ಆಧಾರಗಳು ಬೇರೆ ಬೇರೆ, ಆದರೆ ಘಾತಾಂಕಗಳು ಒಂದೇ ಇವೆ."
+    },
+    {
+      "index": 18,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ತುಂಬಾ ಚೆನ್ನಾಗಿ ನೆನಪಿಟ್ಟುಕೊಂಡಿದ್ದೀಯ. ಈಗ ಈ ನಿಯಮಗಳನ್ನು ಬಳಸಿ ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ."
+    },
+    {
+      "index": 19,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಮೊದಲನೆಯದು, two to the power two by three into two to the power one by three. ಇದರ ಮೌಲ್ಯವೇನು?"
+    },
+    {
+      "index": 20,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಇಲ್ಲಿ ಆಧಾರಗಳು ಸಮ, ಅಂದರೆ ಎರಡು. ಹಾಗಾಗಿ ನಾವು ಘಾತಾಂಕಗಳನ್ನು ಕೂಡಿಸಬೇಕು. ಅಂದರೆ two by three plus one by three."
+    },
+    {
+      "index": 21,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಹೌದು. two by three plus one by three ಅಂದರೆ three by three, ಅಂದರೆ ಒಂದು. ಹಾಗಾಗಿ ಉತ್ತರ two to the power one, ಅಂದರೆ ಎರಡು."
+    },
+    {
+      "index": 22,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಎರಡನೆಯದು, three to the power one by five whole to the power four."
+    },
+    {
+      "index": 23,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಇದು ಪವರ್ ಆಫ್ ಎ ಪವರ್ ನಿಯಮ. ಇಲ್ಲಿ ಘಾತಾಂಕಗಳನ್ನು ಗುಣಿಸಬೇಕು. ಅಂದರೆ one by five into four. ಉತ್ತರ three to the power four by five."
+    },
+    {
+      "index": 24,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಸರಿಯಾಗಿದೆ. ಈಗ ಮೂರನೆಯದು. seven to the power one by five divided by seven to the power one by three."
+    },
+    {
+      "index": 25,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಇದು ಕೋಶಂಟ್ ರೂಲ್. ಇಲ್ಲಿ ಘಾತಾಂಕಗಳನ್ನು ಕಳೆಯಬೇಕು. ಅಂದರೆ one by five minus one by three. ಇಲ್ಲಿ ಲ ಸಾ ಅ ತೆಗೆದುಕೊಂಡರೆ, ಅದು three minus five by fifteen ಆಗುತ್ತದೆ. ಅಂದರೆ minus two by fifteen. ಹಾಗಾಗಿ ಉತ್ತರ seven to the power minus two by fifteen."
+    },
+    {
+      "index": 26,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಅದ್ಭುತ. ಕೊನೆಯದಾಗಿ, thirteen to the power one by five into seventeen to the power one by five."
+    },
+    {
+      "index": 27,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಇಲ್ಲಿ ಘಾತಾಂಕಗಳು ಸಮ, ಆಧಾರಗಳು ಬೇರೆ. ಹಾಗಾಗಿ ಆಧಾರಗಳನ್ನು ಗುಣಿಸಿ, ಅದೇ ಘಾತಾಂಕವನ್ನು ಇಡಬೇಕು. ಅಂದರೆ thirteen into seventeen whole to the power one by five. thirteen into seventeen ಅಂದರೆ two hundred twenty one. ಉತ್ತರ two hundred twenty one to the power one by five."
+    },
+    {
+      "index": 28,
+      "speaker": "student",
+      "section": "exam_tips",
+      "script": "ಗುರುಗಳೇ, ಪರೀಕ್ಷೆಯಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ರೀತಿಯ ಪ್ರಶ್ನೆಗಳು ಬರುತ್ತವೆ? ಉದಾಹರಣೆಗೆ, ಎಂ ಸಿ ಕ್ಯೂ ನಲ್ಲಿ?"
+    },
+    {
+      "index": 29,
+      "speaker": "teacher",
+      "section": "exam_tips",
+      "script": "ಎಂ ಸಿ ಕ್ಯೂ ನಲ್ಲಿ, ಉದಾಹರಣೆಗೆ, sixteen to the power three by four ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ ಅಂತ ಕೇಳಬಹುದು. ಇಲ್ಲಿ ನೀವು sixteen ಅನ್ನು two to the power four ಅಂತ ಬರೆದು ಸುಲಭವಾಗಿ ಉತ್ತರ ಕಂಡುಹಿಡಿಯಬಹುದು. ಸಾಮಾನ್ಯವಾಗಿ ಮಾಡುವ ತಪ್ಪು ಎಂದರೆ, ಭಿನ್ನರಾಶಿಗಳನ್ನು ಕೂಡಿಸುವಾಗ ಅಥವಾ ಕಳೆಯುವಾಗ ಲ ಸಾ ಅ ದಲ್ಲಿ ತಪ್ಪು ಮಾಡುವುದು ಮತ್ತು ಋಣಾತ್ಮಕ ಘಾತಾಂಕವನ್ನು ಸರಿಯಾಗಿ ಪರಿವರ್ತಿಸದೆ ಇರುವುದು."
+    },
+    {
+      "index": 30,
+      "speaker": "teacher",
+      "section": "recap",
+      "script": "ಹಾಗಾದರೆ, ಇಂದಿನ ಪಾಠದ ಸಾರಾಂಶ: ನಾವು ಘಾತಾಂಕಗಳ ನಾಲ್ಕು ಮುಖ್ಯ ನಿಯಮಗಳನ್ನು, ಅಂದರೆ ಪ್ರಾಡಕ್ಟ್, ಪವರ್, ಕೋಶಂಟ್ ಮತ್ತು ಪವರ್ ಆಫ್ ಪ್ರಾಡಕ್ಟ್ ರೂಲ್ಸ್ ಅನ್ನು ನೋಡಿದ್ದೇವೆ. ಜೊತೆಗೆ, ಸೊನ್ನೆ, ಋಣಾತ್ಮಕ ಮತ್ತು ಭಿನ್ನರಾಶಿ ಘಾತಾಂಕಗಳ ಅರ್ಥವನ್ನು ತಿಳಿದುಕೊಂಡಿದ್ದೇವೆ."
+    },
+    {
+      "index": 31,
+      "speaker": "student",
+      "section": "recap",
+      "script": "ಹೌದು ಗುರುಗಳೇ. ಎಲ್ಲಕ್ಕಿಂತ ಮುಖ್ಯವಾಗಿ, ಕೊಟ್ಟಿರುವ ಲೆಕ್ಕದಲ್ಲಿ ಆಧಾರಗಳು ಮತ್ತು ಘಾತಾಂಕಗಳನ್ನು ಗಮನಿಸಿ ಯಾವ ನಿಯಮವನ್ನು ಅನ್ವಯಿಸಬೇಕು ಎಂದು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಧನ್ಯವಾದಗಳು ಗುರುಗಳೇ."
+    }
+  ]
+}

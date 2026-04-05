@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹಂತ 2: ವಿಜಾತೀಯ ಧ್ರುವಗಳ ನಡುವಿನ ವರ್ತನೆ",
+  "script": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಮುಂದುವರಿಸೋಣ. ಕಾಂತ 'ಬಿ' ಯನ್ನು ತಿರುಗಿಸಿ, ಅದರ ದಕ್ಷಿಣ ಧ್ರುವವನ್ನು ಕಾಂತ 'ಎ' ಯ ಉತ್ತರ ಧ್ರುವದ ಹತ್ತಿರ ತನ್ನಿ. ಈ ಬಾರಿ ಏನಾಗುತ್ತದೆ ಎಂದು ಎಚ್ಚರಿಕೆಯಿಂದ ಗಮನಿಸಿ. ಕಾಂತ 'ಎ' ಯು ಕಾಂತ 'ಬಿ' ಯ ಕಡೆಗೆ ಚಲಿಸುವುದನ್ನು, ಅಂದರೆ ಹತ್ತಿರ ಬರುವುದನ್ನು ನೀವು ಕಾಣಬಹುದು. ಈ ವಿದ್ಯಮಾನವನ್ನು 'ಆಕರ್ಷಣೆ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ, ವಿಭಿನ್ನ ರೀತಿಯ ಧ್ರುವಗಳು, ಅಂದರೆ ಉತ್ತರ ಮತ್ತು ದಕ್ಷಿಣ ಧ್ರುವಗಳು, ಪರಸ್ಪರ ಆಕರ್ಷಿಸುತ್ತವೆ. ಇದೇ ರೀತಿ ನೀವು ಕಾಂತ 'ಎ' ಯ ದಕ್ಷಿಣ ಧ್ರುವದ ಬಳಿ ಕಾಂತ 'ಬಿ' ಯ ಉತ್ತರ ಧ್ರುವವನ್ನು ತಂದಾಗಲೂ ಆಕರ್ಷಣೆಯನ್ನು ಗಮನಿಸಬಹುದು.",
+  "script_display": "ಈಗ, ಕಾಂತ B ಯನ್ನು ತಿರುಗಿಸಿ, ಅದರ ದಕ್ಷಿಣ ಧ್ರುವವನ್ನು (S) ಕಾಂತ A ಯ ಉತ್ತರ ಧ್ರುವದ (N) ಹತ್ತಿರ ತನ್ನಿ. ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ಕಾಂತ A ಯು ಕಾಂತ B ಯ ಕಡೆಗೆ ಚಲಿಸುವುದನ್ನು, ಅಂದರೆ ಹತ್ತಿರ ಬರುವುದನ್ನು ನೀವು ಕಾಣಬಹುದು. ಈ ವಿದ್ಯಮಾನವನ್ನು 'ಆಕರ್ಷಣೆ' (Attraction) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ವಿಜಾತೀಯ ಧ್ರುವಗಳು (ಉದಾ: N-S) ಪರಸ್ಪರ ಆಕರ್ಷಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಕಾಂತ B ಯ ದಕ್ಷಿಣ ಧ್ರುವವನ್ನು (S) ಕಾಂತ A ಯ ಉತ್ತರ ಧ್ರುವದ (N) ಬಳಿ ತನ್ನಿ.",
+    "ಗಮನಿಸಿ: ಕಾಂತ A ಯು ಹತ್ತಿರ ಬರುತ್ತದೆ.",
+    "ಈ ವಿದ್ಯಮಾನವನ್ನು 'ಆಕರ್ಷಣೆ' (Attraction) ಎನ್ನುತ್ತಾರೆ.",
+    "ತೀರ್ಮಾನ: ವಿಜಾತೀಯ ಧ್ರುವಗಳು ಪರಸ್ಪರ ಆಕರ್ಷಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing attraction. The South pole of magnet 'B' is brought near the North pole of magnet 'A'. An arrow indicates that magnet 'A' is moving towards magnet 'B'.",
+    "labels": "ದಂಡಕಾಂತ A, ದಂಡಕಾಂತ B, ಆಕರ್ಷಣೆ (Attraction), ಚಲನೆಯ ದಿಕ್ಕು",
+    "scientific_significance": "Visually represents the principle that unlike magnetic poles attract each other.",
+    "placeholder_note": "Image to be generated showing attraction between a north and a south pole."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_6_chapter_4_concept_5_chunk_012"
+}

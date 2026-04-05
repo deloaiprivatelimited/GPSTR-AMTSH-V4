@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ನದಿಯ ಅಗಲವು ಮೂರು, ಇಂಟು ರೂಟ್ ಮೂರು ಪ್ಲಸ್ ಒಂದು, ಮೀಟರ್ ಆಗಿದೆ. ಈ ರೀತಿಯ ಸಮಸ್ಯೆಗಳಲ್ಲಿ, ಅವನತ ಕೋನಗಳನ್ನು ಸರಿಯಾಗಿ ಪರ್ಯಾಯ ಕೋನಗಳಾಗಿ ಪರಿವರ್ತಿಸಿ, ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಬಿಡಿಸಿ, ನಂತರ ಫಲಿತಾಂಶಗಳನ್ನು ಸಂಯೋಜಿಸುವುದು ಮುಖ್ಯವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ, ನದಿಯ ಅಗಲವು $3(\\sqrt{3}+1)$ m ಆಗಿದೆ. ಈ ರೀತಿಯ ಸಮಸ್ಯೆಗಳಲ್ಲಿ, ಅವನತ ಕೋನಗಳನ್ನು ಸರಿಯಾಗಿ ಪರ್ಯಾಯ ಕೋನಗಳಾಗಿ ಪರಿವರ್ತಿಸಿ, ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಬಿಡಿಸಿ, ನಂತರ ಫಲಿತಾಂಶಗಳನ್ನು ಸಂಯೋಜಿಸುವುದು ಮುಖ್ಯವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "AB = 3(\\sqrt{3}+1) \\text{ m}",
+    "placeholder_note": "Final answer for the width of the river."
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-APP-2_example_7",
+  "final_answer": "ನದಿಯ ಅಗಲವು 3(sqrt(3)+1) m ಆಗಿದೆ.",
+  "final_answer_display": "ನದಿಯ ಅಗಲವು $3(\\sqrt{3}+1)$ m ಆಗಿದೆ.",
+  "chunk_id": "TRI-APP-2_concept_1_chunk_059"
+}

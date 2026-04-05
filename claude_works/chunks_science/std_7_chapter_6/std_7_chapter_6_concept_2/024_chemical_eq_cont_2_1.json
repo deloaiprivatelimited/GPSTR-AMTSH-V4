@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸ್ನಾಯುಗಳಲ್ಲಿನ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಸ್ನಾಯು ಕೋಶಗಳಲ್ಲಿ ನಡೆಯುವ ಈ ಆಮ್ಲಜನಕ ರಹಿತ ಉಸಿರಾಟದ ಕ್ರಿಯೆಯನ್ನು ಈ ಸಮೀಕರಣದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಗ್ಲೂಕೋಸ್, ಅಂದರೆ C six H twelve O six, ಆಮ್ಲಜನಕದ ಅನುಪಸ್ಥಿತಿಯಲ್ಲಿ ವಿಭಜನೆಗೊಂಡು, ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ, ಅಂದರೆ C three H six O three, ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಸ್ನಾಯು ಕೋಶಗಳಲ್ಲಿ ನಡೆಯುವ ಈ ಆಮ್ಲಜನಕ ರಹಿತ ಉಸಿರಾಟದ ಕ್ರಿಯೆಯನ್ನು ಈ ಸಮೀಕರಣದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಗ್ಲೂಕೋಸ್ (C₆H₁₂O₆), ಆಮ್ಲಜನಕದ ಅನುಪಸ್ಥಿತಿಯಲ್ಲಿ ವಿಭಜನೆಗೊಂಡು, ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ (C₃H₆O₃) ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "video_center",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "C_6H_{12}O_6 \\xrightarrow{\\text{ಆಮ್ಲಜನಕದ ಅನುಪಸ್ಥಿತಿಯಲ್ಲಿ (ಸ್ನಾಯುಗಳಲ್ಲಿ)}} 2C_3H_6O_3 + \\text{ಶಕ್ತಿ}",
+    "placeholder_note": "Chemical equation for anaerobic respiration in human muscle cells."
+  },
+  "chunk_id": "std_7_chapter_6_concept_2_chunk_024"
+}

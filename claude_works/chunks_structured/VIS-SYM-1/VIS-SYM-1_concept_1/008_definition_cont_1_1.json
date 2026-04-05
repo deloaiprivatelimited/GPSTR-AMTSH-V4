@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮಮಿತಿ ರೇಖೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ನೀವು ಒಂದು ಸುಂದರವಾದ ಚಿಟ್ಟೆಯ ಚಿತ್ರವನ್ನು ನೋಡಬಹುದು. ಈ ಚಿಟ್ಟೆಯ ದೇಹದ ಮಧ್ಯಭಾಗದಲ್ಲಿ ಒಂದು ನೇರವಾದ ರೇಖೆಯನ್ನು ಎಳೆದರೆ, ಅದು ಅದರ ಸಮಮಿತಿ ರೇಖೆಯಾಗುತ್ತದೆ. ಯಾಕೆಂದರೆ, ಈ ರೇಖೆಯ ಮೇಲೆ ಚಿಟ್ಟೆಯ ಚಿತ್ರವನ್ನು ಮಡಚಿದರೆ, ಅದರ ಎಡ ರೆಕ್ಕೆ ಮತ್ತು ಬಲ ರೆಕ್ಕೆಗಳು ಒಂದನ್ನೊಂದು ಸಂಪೂರ್ಣವಾಗಿ ಆವರಿಸುತ್ತವೆ. ಅಂದರೆ, ಒಂದು ಭಾಗವು ಇನ್ನೊಂದು ಭಾಗದ ನಿಖರವಾದ ಪ್ರತಿಬಿಂಬವಾಗಿರುತ್ತದೆ. ಈ ರೀತಿ ಎರಡು ಸಮಾನವಾದ ದರ್ಪಣಾರ್ಧಗಳನ್ನು ಉಂಟುಮಾಡುವ ರೇಖೆಯೇ ಸಮಮಿತಿ ರೇಖೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ನೀವು ಒಂದು ಸುಂದರವಾದ ಚಿಟ್ಟೆಯ ಚಿತ್ರವನ್ನು ನೋಡಬಹುದು. ಈ ಚಿಟ್ಟೆಯ ದೇಹದ ಮಧ್ಯಭಾಗದಲ್ಲಿ ಒಂದು ನೇರವಾದ ರೇಖೆಯನ್ನು ಎಳೆದರೆ, ಅದು ಅದರ ಸಮಮಿತಿ ರೇಖೆಯಾಗುತ್ತದೆ. ಯಾಕೆಂದರೆ, ಈ ರೇಖೆಯ ಮೇಲೆ ಚಿಟ್ಟೆಯ ಚಿತ್ರವನ್ನು ಮಡಚಿದರೆ, ಅದರ ಎಡ ರೆಕ್ಕೆ ಮತ್ತು ಬಲ ರೆಕ್ಕೆಗಳು ಒಂದನ್ನೊಂದು ಸಂಪೂರ್ಣವಾಗಿ ಆವರಿಸುತ್ತವೆ. ಅಂದರೆ, ಒಂದು ಭಾಗವು ಇನ್ನೊಂದು ಭಾಗದ ನಿಖರವಾದ ಪ್ರತಿಬಿಂಬವಾಗಿರುತ್ತದೆ. ಈ ರೀತಿ ಎರಡು ಸಮಾನವಾದ ದರ್ಪಣಾರ್ಧಗಳನ್ನು ಉಂಟುಮಾಡುವ ರೇಖೆಯೇ ಸಮಮಿತಿ ರೇಖೆ.",
+  "display_bullets": [
+    "ಚಿಟ್ಟೆಯ ದೇಹದ ಮಧ್ಯದಲ್ಲಿ ಎಳೆದ ರೇಖೆಯು ಒಂದು ಸಮಮಿತಿ ರೇಖೆ.",
+    "ಈ ರೇಖೆಯ ಮೇಲೆ ಮಡಚಿದಾಗ, ಎಡ ಮತ್ತು ಬಲ ಭಾಗಗಳು ಪರಸ್ಪರ ಐಕ್ಯವಾಗುತ್ತವೆ.",
+    "ಒಂದು ಭಾಗವು ಇನ್ನೊಂದು ಭಾಗದ ನಿಖರವಾದ ದರ್ಪಣ ಪ್ರತಿಬಿಂಬವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beautiful butterfly with a vertical dotted line drawn down the center of its body, indicating the line of symmetry. The left and right wings are mirror images of each other.",
+    "labels": "ಚಿಟ್ಟೆ, ಸಮಮಿತಿ ರೇಖೆ",
+    "mathematical_significance": "Visually demonstrates the concept of a line of symmetry in a real-world object, where folding along the line results in two identical halves.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "VIS-SYM-1_concept_1_chunk_008"
+}

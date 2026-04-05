@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆ 5.3: ಮಾಡುವ ವಿಧಾನ (ಹಂತ 1)",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ತೆಗೆದುಕೊಂಡ ಗಾಜಿನ ಲೋಟದಲ್ಲಿ ಕೆಲವು ಮಂಜುಗಡ್ಡೆಯ ತುಂಡುಗಳನ್ನು ಹಾಕೋಣ. ಈಗ ಈ ಲೋಟವನ್ನು ಬಿಸಿಲು ಇರುವ ಜಾಗದಲ್ಲಿ ಅಥವಾ ಕೋಣೆಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ಸ್ವಲ್ಪ ಸಮಯ ಇಡೋಣ. ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ಮಂಜುಗಡ್ಡೆಯು ಘನ ಸ್ಥಿತಿಯಲ್ಲಿದೆ. ಸಮಯ ಕಳೆದಂತೆ, ಅದು ನಿಧಾನವಾಗಿ ಕರಗಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಘನ ರೂಪದ ನೀರು ಶಾಖವನ್ನು ಹೀರಿಕೊಂಡು ದ್ರವ ರೂಪಕ್ಕೆ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಇದು ಸ್ಥಿತಿ ಬದಲಾವಣೆಯ ಮೊದಲ ಹಂತವಾಗಿದೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ತೆಗೆದುಕೊಂಡ ಗಾಜಿನ ಲೋಟದಲ್ಲಿ ಕೆಲವು ಮಂಜುಗಡ್ಡೆಯ ತುಂಡುಗಳನ್ನು ಹಾಕೋಣ. ಈಗ ಈ ಲೋಟವನ್ನು ಬಿಸಿಲು ಇರುವ ಜಾಗದಲ್ಲಿ ಅಥವಾ ಕೋಣೆಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ಸ್ವಲ್ಪ ಸಮಯ ಇಡೋಣ. ಏನಾಗುತ್ತದೆ ಎಂದು ಗಮನಿಸಿ. ಮಂಜುಗಡ್ಡೆಯು ಘನ ಸ್ಥಿತಿಯಲ್ಲಿದೆ. ಸಮಯ ಕಳೆದಂತೆ, ಅದು ನಿಧಾನವಾಗಿ ಕರಗಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಘನ ರೂಪದ ನೀರು ಶಾಖವನ್ನು ಹೀರಿಕೊಂಡು ದ್ರವ ರೂಪಕ್ಕೆ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಇದು ಸ್ಥಿತಿ ಬದಲಾವಣೆಯ ಮೊದಲ ಹಂತವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಲೋಟದಲ್ಲಿ ಸ್ವಲ್ಪ ಮಂಜುಗಡ್ಡೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "ಅದನ್ನು ಬಿಸಿಲಿನಲ್ಲಿ ಅಥವಾ ಕೋಣೆಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ಇಡಿ.",
+    "ಮಂಜುಗಡ್ಡೆ ಕರಗಿ ನೀರಾಗುವುದನ್ನು ಗಮನಿಸಿ (ಘನ → ದ್ರವ)."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_2",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a glass beaker containing ice cubes. An arrow points from the sun towards the beaker, indicating heat. Another arrow points from the ice cubes to a small puddle of water inside the beaker, showing melting.",
+    "labels": "ಮಂಜುಗಡ್ಡೆ, ಶಾಖ, ನೀರು",
+    "scientific_significance": "Depicts the process of melting, where a solid (ice) turns into a liquid (water) upon absorbing heat.",
+    "placeholder_note": "Image to be generated: Ice melting in a beaker under the sun."
+  },
+  "chunk_id": "std_7_chapter_5_concept_1_chunk_013"
+}

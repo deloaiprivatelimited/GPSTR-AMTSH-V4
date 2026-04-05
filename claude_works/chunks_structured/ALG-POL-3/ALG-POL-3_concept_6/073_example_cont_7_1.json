@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಭಾಗ (i): (104)^3 ರ ಬೆಲೆ",
+  "script": "ಮೊದಲಿಗೆ, ಒಂದು ನೂರ ನಾಲ್ಕರ ಘನವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಾವು ಒಂದು ನೂರ ನಾಲ್ಕನ್ನು ನೂರು ಪ್ಲಸ್ ನಾಲ್ಕು ಎಂದು ಬರೆಯಬಹುದು. ಇದು ಎಕ್ಸ್ ಪ್ಲಸ್ ವೈ ಹೋಲ್ ಕ್ಯೂಬ್ ರೂಪದಲ್ಲಿದೆ. ಇಲ್ಲಿ ಎಕ್ಸ್ ನೂರು ಮತ್ತು ವೈ ನಾಲ್ಕು ಆಗಿದೆ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಎಕ್ಸ್ ಪ್ಲಸ್ ವೈ ಹೋಲ್ ಕ್ಯೂಬ್ ಸಮ ಎಕ್ಸ್ ಕ್ಯೂಬ್ ಪ್ಲಸ್ ವೈ ಕ್ಯೂಬ್ ಪ್ಲಸ್ ಮೂರು ಎಕ್ಸ್ ವೈ ಇಂಟು ಎಕ್ಸ್ ಪ್ಲಸ್ ವೈ. ಈ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಈಗ ಬಳಸೋಣ.",
+  "script_display": "ಮೊದಲಿಗೆ, $(104)^3$ ನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಾವು $104$ ನ್ನು $(100+4)$ ಎಂದು ಬರೆಯಬಹುದು. ಇದು $(x+y)^3$ ರೂಪದಲ್ಲಿದೆ. ಇಲ್ಲಿ $x=100$ ಮತ್ತು $y=4$ ಆಗಿದೆ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, $(x+y)^3 = x^3 + y^3 + 3xy(x+y)$. ಈ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಈಗ ಬಳಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_21",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$104^3 = (100+4)^3$",
+      "justification": "$104$ ನ್ನು ಹತ್ತಿರದ ಪೂರ್ಣಸಂಖ್ಯೆಯ ಮೊತ್ತವಾಗಿ ಬರೆಯುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಇದು $(x+y)^3$ ರೂಪದಲ್ಲಿದೆ, ಇಲ್ಲಿ $x=100, y=4$.",
+      "justification": "ನಿತ್ಯಸಮೀಕರಣ VI: $(x+y)^3 = x^3 + y^3 + 3xy(x+y)$"
+    }
+  ],
+  "chunk_id": "ALG-POL-3_concept_6_chunk_073"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಬೇಕಾಗುವ ಉಪಕರಣಗಳು ಮತ್ತು ರಾಸಾಯನಿಕಗಳು",
+  "script": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಉಪಕರಣಗಳು ಮತ್ತು ರಾಸಾಯನಿಕಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಮಿಲಿಲೀಟರ್ ಎಥನಾಲ್, ಇದು ಒಂದು ರೀತಿಯ ಆಲ್ಕೋಹಾಲ್. ಎರಡನೆಯದಾಗಿ, ಒಂದು ಮಿಲಿಲೀಟರ್ ಗ್ಲೇಶಿಯಲ್ ಅಸಿಟಿಕ್ ಆಮ್ಲ, ಇದನ್ನು ಎಥನೋಯಿಕ್ ಆಮ್ಲ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ನಂತರ, ಕ್ರಿಯಾವರ್ಧಕವಾಗಿ ಕೆಲಸ ಮಾಡಲು ಕೆಲವು ಹನಿ ಸಾರ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ. ಇವುಗಳನ್ನು ಮಿಶ್ರಣ ಮಾಡಲು ಒಂದು ಪ್ರನಾಳ, ಮತ್ತು ಮಿಶ್ರಣವನ್ನು ಕಾಯಿಸಲು ಜಲತಪ್ತಕ, ಬೀಕರ್ ಮತ್ತು ನೀರು ಬೇಕು. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಜೋಡಿಸಿಕೊಂಡು ಪ್ರಯೋಗಕ್ಕೆ ಸಿದ್ಧರಾಗೋಣ.",
+  "script_display": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಉಪಕರಣಗಳು ಮತ್ತು ರಾಸಾಯನಿಕಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, 1 mL ಎಥನಾಲ್, ಇದು ಒಂದು ರೀತಿಯ ಆಲ್ಕೋಹಾಲ್. ಎರಡನೆಯದಾಗಿ, 1 mL ಗ್ಲೇಶಿಯಲ್ ಅಸಿಟಿಕ್ ಆಮ್ಲ (ಎಥನೋಯಿಕ್ ಆಮ್ಲ). ನಂತರ, ಕ್ರಿಯಾವರ್ಧಕವಾಗಿ ಕೆಲಸ ಮಾಡಲು ಕೆಲವು ಹನಿ ಸಾರ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ. ಇವುಗಳನ್ನು ಮಿಶ್ರಣ ಮಾಡಲು ಒಂದು ಪ್ರನಾಳ, ಮತ್ತು ಮಿಶ್ರಣವನ್ನು ಕಾಯಿಸಲು ಜಲತಪ್ತಕ, ಬೀಕರ್ ಮತ್ತು ನೀರು ಬೇಕು. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಜೋಡಿಸಿಕೊಂಡು ಪ್ರಯೋಗಕ್ಕೆ ಸಿದ್ಧರಾಗೋಣ.",
+  "display_bullets": [
+    "1 mL ಎಥನಾಲ್",
+    "1 mL ಗ್ಲೇಶಿಯಲ್ ಅಸಿಟಿಕ್ ಆಮ್ಲ",
+    "ಕೆಲವು ಹನಿ ಸಾರ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ",
+    "ಪ್ರನಾಳ, ಜಲತಪ್ತಕ, ಬೀಕರ್, ನೀರು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "split_left_text",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Diagram showing the apparatus for esterification: a test tube, a beaker for the water bath, a tripod stand, a Bunsen burner (or spirit lamp), ethanol, glacial acetic acid, and concentrated sulfuric acid.",
+    "labels": "ಪ್ರನಾಳ, ಎಥನಾಲ್, ಅಸಿಟಿಕ್ ಆಮ್ಲ, ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ, ಜಲತಪ್ತಕ, ಬೀಕರ್",
+    "scientific_significance": "Illustrates the standard laboratory setup for heating volatile and flammable organic liquids safely using a water bath.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_034"
+}

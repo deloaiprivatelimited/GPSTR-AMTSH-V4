@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾಧನೆ: ಭಾಗ 4 (ಎರಡನೇ ಜೋಡಿ ಬಾಹುಗಳು)",
+  "script": "ನಾವು ಈಗಾಗಲೇ AB ಮತ್ತು DC ಬಾಹುಗಳು ಸಮಾಂತರವೆಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಈಗ ಇನ್ನೊಂದು ಜೋಡಿ ಅಭಿಮುಖ ಬಾಹುಗಳಾದ AD ಮತ್ತು BC ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಇದಕ್ಕಾಗಿ, ನಾವು ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ COB ಗಳನ್ನು ಹೋಲಿಸಬಹುದು. ಹಿಂದಿನಂತೆಯೇ, OA ಯು OC ಗೆ ಸಮ, ಕೋನ AOD ಯು ಕೋನ COB ಗೆ ಸಮ ಏಕೆಂದರೆ ಅವು ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು, ಮತ್ತು OD ಯು OB ಗೆ ಸಮ. ಮತ್ತೆ ಬಾ.ಕೋ.ಬಾ ನಿಯಮದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ AOD ಯು ತ್ರಿಭುಜ COB ಗೆ ಸರ್ವಸಮವಾಗುತ್ತದೆ. ಇದರಿಂದ, AD ಯು BC ಗೆ ಸಮಾಂತರವಾಗಿದೆ ಎಂದು ನಾವು ಸಾಧಿಸಬಹುದು.",
+  "script_display": "ನಾವು ಈಗಾಗಲೇ $AB \\parallel DC$ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಈಗ ಇನ್ನೊಂದು ಜೋಡಿ ಅಭಿಮುಖ ಬಾಹುಗಳಾದ AD ಮತ್ತು BC ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಇದಕ್ಕಾಗಿ, ನಾವು $∆ AOD$ ಮತ್ತು $∆ COB$ ಗಳನ್ನು ಹೋಲಿಸಬಹುದು. ಹಿಂದಿನಂತೆಯೇ, $OA = OC$, $∠ AOD = ∠ COB$ (ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು), ಮತ್ತು $OD = OB$. ಮತ್ತೆ ಬಾ.ಕೋ.ಬಾ ನಿಯಮದ ಪ್ರಕಾರ, $∆ AOD ≅ ∆ COB$ ಆಗುತ್ತದೆ. ಇದರಿಂದ, $AD \\parallel BC$ ಎಂದು ನಾವು ಸಾಧಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಅದೇ ರೀತಿ, $∆ AOD$ ಮತ್ತು $∆ COB$ ಗಳನ್ನು ಪರಿಗಣಿಸಿದಾಗ:",
+    "$OA = OC$ (ದತ್ತ), $∠ AOD = ∠ COB$ (ಶೃಂಗಾಭಿಮುಖ), $OD = OB$ (ದತ್ತ).",
+    "ಬಾ.ಕೋ.ಬಾ ನಿಯಮದ ಪ್ರಕಾರ $∆ AOD ≅ ∆ COB$ ಆಗುತ್ತದೆ.",
+    "ಇದರಿಂದ $∠ OAD = ∠ OCB$ (CPCTC) ಆಗುತ್ತದೆ, ಮತ್ತು $AD \\parallel BC$ ಎಂದು ಸಾಧಿಸಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಚತುರ್ಭುಜ ABCD ಯ ಚಿತ್ರ. ಈ ಬಾರಿ ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ COB ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಸಾಧನೆಯ ಎರಡನೇ ಭಾಗವನ್ನು ವಿವರಿಸುತ್ತದೆ, ಇದರಲ್ಲಿ ಇನ್ನೊಂದು ಜೋಡಿ ತ್ರಿಭುಜಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸಿ, ಮತ್ತೊಂದು ಜೋಡಿ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮಾಂತರ ಎಂದು ತೋರಿಸಲಾಗುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "proof_step",
+  "chunk_id": "GEO-QUAD-2_concept_1_chunk_048"
+}

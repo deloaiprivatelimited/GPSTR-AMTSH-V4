@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ತೀರ್ಮಾನ",
+  "script": "ಎಲ್ಲಾ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು ತ್ರಿವಳಿಗಳ ಗುಂಪಿನಲ್ಲಿ ಇಲ್ಲದಿರುವುದರಿಂದ, ನಾವು 243 ಒಂದು ಪೂರ್ಣ ಘನವಲ್ಲ ಎಂದು ತೀರ್ಮಾನಿಸಬಹುದು. ನೆನಪಿಡಿ, ಒಂದು ಸಂಖ್ಯೆ ಪೂರ್ಣ ಘನವಾಗಬೇಕಾದರೆ, ಅದರ ಪ್ರತಿಯೊಂದು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನವು ಮೂರು ಬಾರಿ ಬರಬೇಕು.",
+  "script_display": "ಎಲ್ಲಾ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು ತ್ರಿವಳಿಗಳ ಗುಂಪಿನಲ್ಲಿ ಇಲ್ಲದಿರುವುದರಿಂದ, ನಾವು $243$ ಒಂದು ಪೂರ್ಣ ಘನವಲ್ಲ ಎಂದು ತೀರ್ಮಾನಿಸಬಹುದು. ನೆನಪಿಡಿ, ಒಂದು ಸಂಖ್ಯೆ ಪೂರ್ಣ ಘನವಾಗಬೇಕಾದರೆ, ಅದರ ಪ್ರತಿಯೊಂದು ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನವು ಮೂರು ಬಾರಿ ಬರಬೇಕು.",
+  "display_bullets": [
+    "ಅಪವರ್ತನಗಳನ್ನು ಗುಂಪು ಮಾಡಿದಾಗ, 3 ಗುಣಿಸು 3 ಉಳಿದುಕೊಳ್ಳುತ್ತದೆ.",
+    "ಎಲ್ಲಾ ಅಪವರ್ತನಗಳು ತ್ರಿವಳಿಗಳಾಗಿಲ್ಲ.",
+    "ಆದ್ದರಿಂದ, 243 ಒಂದು ಪೂರ್ಣ ಘನವಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-CUBE-2_example_1",
+  "steps": [],
+  "final_answer": "243 ಒಂದು ಪೂರ್ಣ ಘನವಲ್ಲ.",
+  "final_answer_display": "$243$ ಒಂದು ಪೂರ್ಣ ಘನವಲ್ಲ.",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-CUBE-2_concept_3_chunk_009"
+}

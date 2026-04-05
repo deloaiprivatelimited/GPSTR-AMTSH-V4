@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ವರ್ತನೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ: ಸಿ ಯು ಓ ಪ್ಲಸ್ ಟು ಎಚ್ ಸಿ ಎಲ್ ಗಿವ್ಸ್ ಸಿ ಯು ಸಿ ಎಲ್ ಟು ಪ್ಲಸ್ ಎಚ್ ಟು ಓ. ಅಂದರೆ, ತಾಮ್ರದ ಆಕ್ಸೈಡ್, ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿ, ತಾಮ್ರದ ಕ್ಲೋರೈಡ್ ಎಂಬ ಲವಣ ಮತ್ತು ನೀರನ್ನು ನೀಡುತ್ತದೆ.",
+  "script_display": "ಈ ವರ್ತನೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ: CuO + 2HCl → CuCl₂ + H₂O. ಅಂದರೆ, ತಾಮ್ರದ ಆಕ್ಸೈಡ್, ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿ, ತಾಮ್ರದ ಕ್ಲೋರೈಡ್ ಎಂಬ ಲವಣ ಮತ್ತು ನೀರನ್ನು ನೀಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CuO(s) + 2HCl(aq) \\rightarrow CuCl_2(aq) + H_2O(l)",
+    "placeholder_note": "Balanced chemical equation for the reaction of Copper(II) oxide and Hydrochloric acid."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_032"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸೂತ್ರದ ಹಿಂದಿನ ತರ್ಕ",
+  "script": "ಈ ಸೂತ್ರವು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಪೈ ನಕ್ಷೆಯು ಸಂಪೂರ್ಣ ದತ್ತಾಂಶವನ್ನು, ಅಂದರೆ ನೂರಕ್ಕೆ ನೂರು ಭಾಗವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಜ್ಯಾಮಿತಿಯ ಪ್ರಕಾರ, ಒಂದು ಪೂರ್ಣ ವೃತ್ತದ ಕೇಂದ್ರದಲ್ಲಿನ ಕೋನವು ಮುನ್ನೂರ ಅರವತ್ತು ಡಿಗ್ರಿ ಇರುತ್ತದೆ. ಆದ್ದರಿಂದ, ದತ್ತಾಂಶದ ಪ್ರತಿಯೊಂದು ಭಾಗ ಅಥವಾ ಘಟಕವು, ಈ ಒಟ್ಟು ಮುನ್ನೂರ ಅರವತ್ತು ಡಿಗ್ರಿಗಳ ಒಂದು ಭಾಗಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ನಮ್ಮ ಸೂತ್ರವು ಇದೇ ಕೆಲಸವನ್ನು ಮಾಡುತ್ತದೆ. ಮೊದಲು, ಘಟಕದ ಮೌಲ್ಯವನ್ನು ಒಟ್ಟು ಮೌಲ್ಯದಿಂದ ಭಾಗಿಸಿ, ಅದು ಇಡೀ ದತ್ತಾಂಶದ ಎಷ್ಟು ಭಾಗ ಎಂದು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ. ನಂತರ, ಆ ಭಾಗವನ್ನು ಮುನ್ನೂರ ಅರವತ್ತರಿಂದ ಗುಣಿಸಿ, ಅದಕ್ಕೆ ಸರಿಹೊಂದುವ ಕೋನವನ್ನು ಪಡೆಯುತ್ತೇವೆ.",
+  "script_display": "ಈ ಸೂತ್ರವು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಪೈ ನಕ್ಷೆಯು ಸಂಪೂರ್ಣ ದತ್ತಾಂಶವನ್ನು, ಅಂದರೆ 100% ಭಾಗವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಜ್ಯಾಮಿತಿಯ ಪ್ರಕಾರ, ಒಂದು ಪೂರ್ಣ ವೃತ್ತದ ಕೇಂದ್ರದಲ್ಲಿನ ಕೋನವು $360^\\circ$ ಇರುತ್ತದೆ. ಆದ್ದರಿಂದ, ದತ್ತಾಂಶದ ಪ್ರತಿಯೊಂದು ಭಾಗ ಅಥವಾ ಘಟಕವು, ಈ ಒಟ್ಟು $360^\\circ$ ಗಳ ಒಂದು ಭಾಗಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ನಮ್ಮ ಸೂತ್ರವು ಇದೇ ಕೆಲಸವನ್ನು ಮಾಡುತ್ತದೆ. ಮೊದಲು, $\\frac{\\text{ಘಟಕದ ಮೌಲ್ಯ}}{\\text{ಒಟ್ಟು ಮೌಲ್ಯ}}$ ಮಾಡಿ, ಅದು ಇಡೀ ದತ್ತಾಂಶದ ಎಷ್ಟು ಭಾಗ ಎಂದು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ. ನಂತರ, ಆ ಭಾಗವನ್ನು $360^\\circ$ ರಿಂದ ಗುಣಿಸಿ, ಅದಕ್ಕೆ ಸರಿಹೊಂದುವ ಕೋನವನ್ನು ಪಡೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಒಂದು ಪೈ ನಕ್ಷೆಯು ಪೂರ್ಣ ದತ್ತಾಂಶವನ್ನು (ಒಂದು 'ಸಂಪೂರ್ಣ') ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+    "ವೃತ್ತದ ಕೇಂದ್ರದಲ್ಲಿನ ಒಟ್ಟು ಕೋನವು 360° ಆಗಿರುತ್ತದೆ.",
+    "ಪ್ರತಿ ಘಟಕದ ಪಾಲು, ಒಟ್ಟು 360° ಕೋನದ ಒಂದು ಭಾಗವಾಗಿರುತ್ತದೆ.",
+    "ಸೂತ್ರವು ದತ್ತಾಂಶದ ಭಾಗವನ್ನು ಕೋನದ ಭಾಗವಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A pie chart with 3 sectors. One sector is highlighted, showing its value (e.g., 50), the total value (e.g., 200), the fraction (50/200 = 1/4), and the corresponding central angle (1/4 * 360 = 90 degrees).",
+    "labels": "ಘಟಕದ ಮೌಲ್ಯ, ಒಟ್ಟು ಮೌಲ್ಯ, ಕೇಂದ್ರೀಯ ಕೋನ",
+    "mathematical_significance": "Illustrates the relationship between a component's fractional value and its central angle in a pie chart.",
+    "placeholder_note": "Image to be generated showing a pie chart where a fraction of data corresponds to a fraction of 360 degrees."
+  },
+  "chunk_id": "DATA-BAS-1_concept_3_chunk_025"
+}

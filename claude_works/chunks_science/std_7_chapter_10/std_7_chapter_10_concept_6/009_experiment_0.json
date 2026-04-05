@@ -1,0 +1,38 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಚಟುವಟಿಕೆ: ವಿದ್ಯುತ್ಕಾಂತದ ರಚನೆ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಈ ದಿನ ನಾವು ಒಂದು ಸರಳವಾದ ಆದರೆ ಅತ್ಯಂತ ಆಸಕ್ತಿದಾಯಕವಾದ ಪ್ರಯೋಗವನ್ನು ಮಾಡೋಣ. ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಕಾಂತೀಯ ಪರಿಣಾಮವನ್ನು ಬಳಸಿಕೊಂಡು ನಾವೇ ಒಂದು ವಿದ್ಯುತ್ಕಾಂತವನ್ನು ಹೇಗೆ ತಯಾರಿಸಬಹುದು ಎಂದು ಕಲಿಯೋಣ. ಈ ಚಟುವಟಿಕೆಗಾಗಿ ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಮಗೆ ಸುಮಾರು ಆರು ರಿಂದ ಹತ್ತು ಸೆಂಟಿಮೀಟರ್ ಉದ್ದದ ಒಂದು ಕಬ್ಬಿಣದ ಮೊಳೆ, ಒಂದು ಅವಾಹಕ ಹೊದಿಕೆ ಇರುವ ತಾಮ್ರದ ತಂತಿ, ಒಂದು ವಿದ್ಯುತ್ ಕೋಶ, ಒಂದು ಸ್ವಿಚ್, ಮತ್ತು ಕೆಲವು ಗುಂಡುಸೂಜಿಗಳು ಬೇಕು. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಜೋಡಿಸಿ ನಾವು ವಿದ್ಯುತ್ಕಾಂತವನ್ನು ತಯಾರಿಸಲಿದ್ದೇವೆ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಈ ದಿನ ನಾವು ಒಂದು ಸರಳವಾದ ಆದರೆ ಅತ್ಯಂತ ಆಸಕ್ತಿದಾಯಕವಾದ ಪ್ರಯೋಗವನ್ನು ಮಾಡೋಣ. ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಕಾಂತೀಯ ಪರಿಣಾಮವನ್ನು ಬಳಸಿಕೊಂಡು ನಾವೇ ಒಂದು ವಿದ್ಯುತ್ಕಾಂತವನ್ನು ಹೇಗೆ ತಯಾರಿಸಬಹುದು ಎಂದು ಕಲಿಯೋಣ. ಈ ಚಟುವಟಿಕೆಗಾಗಿ ನಮಗೆ ಈ ಕೆಳಗಿನ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ:",
+  "display_bullets": [
+    "ಕಬ್ಬಿಣದ ಮೊಳೆ (6-10 cm)",
+    "ಅವಾಹಕ ತಾಮ್ರದ ತಂತಿ",
+    "ವಿದ್ಯುತ್ ಕೋಶ",
+    "ಸ್ವಿಚ್",
+    "ಗುಂಡುಸೂಜಿಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Apparatus for making an electromagnet. Shows an iron nail, a spool of insulated copper wire, an electric cell, a switch, and a small pile of paper clips or pins, all laid out separately on a table.",
+    "labels": "ಕಬ್ಬಿಣದ ಮೊಳೆ, ತಾಮ್ರದ ತಂತಿ, ವಿದ್ಯುತ್ ಕೋಶ, ಸ್ವಿಚ್, ಗುಂಡುಸೂಜಿಗಳು",
+    "scientific_significance": "Demonstrates the basic components required to build a simple electromagnet, highlighting the need for a ferromagnetic core, a conductor, and a power source.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_10_concept_6_chunk_009"
+}

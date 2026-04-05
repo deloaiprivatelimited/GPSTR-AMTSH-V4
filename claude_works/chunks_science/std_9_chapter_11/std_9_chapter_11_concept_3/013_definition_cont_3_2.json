@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪಾರ ಮತ್ತು ಶಬ್ದದ ತಾರಕತೆ (Loudness)",
+  "script": "ಹಾಗಾದರೆ, ಪಾರವು ನಾವು ಕೇಳುವ ಶಬ್ದದ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ? ಪಾರವು ಶಬ್ದದ ತಾರಕತೆಯನ್ನು, ಅಂದರೆ ಲೌಡ್‌ನೆಸ್ ಅನ್ನು ನಿರ್ಧರಿಸುತ್ತದೆ. ಎಡಭಾಗದಲ್ಲಿ, ಕಡಿಮೆ ಪಾರವನ್ನು ಹೊಂದಿರುವ ತರಂಗವನ್ನು ಗಮನಿಸಿ. ಇದು ಮೃದುವಾದ ಅಥವಾ ಸಣ್ಣ ಶಬ್ದವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ಪಿಸುಮಾತು. ಈಗ ಬಲಭಾಗದಲ್ಲಿ, ಹೆಚ್ಚಿನ ಪಾರವನ್ನು ಹೊಂದಿರುವ ತರಂಗವನ್ನು ನೋಡಿ. ಇದು ಜೋರಾದ ಶಬ್ದವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ಸಿಡಿಲು ಅಥವಾ ಡ್ರಮ್ ಬಾರಿಸಿದಾಗ ಬರುವ ಶಬ್ದ. ಆದ್ದರಿಂದ, ನೆನಪಿಡಿ: ಕಡಿಮೆ ಪಾರ ಎಂದರೆ ಮೃದು ಶಬ್ದ, ಮತ್ತು ಹೆಚ್ಚಿನ ಪಾರ ಎಂದರೆ ಜೋರಾದ ಶಬ್ದ.",
+  "script_display": "ಹಾಗಾದರೆ, ಪಾರವು ನಾವು ಕೇಳುವ ಶಬ್ದದ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ? ಪಾರವು ಶಬ್ದದ ತಾರಕತೆಯನ್ನು (Loudness) ನಿರ್ಧರಿಸುತ್ತದೆ. ಎಡಭಾಗದಲ್ಲಿ, ಕಡಿಮೆ ಪಾರವನ್ನು ಹೊಂದಿರುವ ತರಂಗವನ್ನು ಗಮನಿಸಿ. ಇದು ಮೃದುವಾದ ಶಬ್ದವನ್ನು (Soft sound) ಉಂಟುಮಾಡುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿ, ಹೆಚ್ಚಿನ ಪಾರವನ್ನು ಹೊಂದಿರುವ ತರಂಗವನ್ನು ನೋಡಿ. ಇದು ಜೋರಾದ ಶಬ್ದವನ್ನು (Loud sound) ಉಂಟುಮಾಡುತ್ತದೆ. ಆದ್ದರಿಂದ, ನೆನಪಿಡಿ: ಕಡಿಮೆ ಪಾರ ಎಂದರೆ ಮೃದು ಶಬ್ದ, ಮತ್ತು ಹೆಚ್ಚಿನ ಪಾರ ಎಂದರೆ ಜೋರಾದ ಶಬ್ದ.",
+  "display_bullets": [
+    "ಕಡಿಮೆ ಪಾರ (Low Amplitude) -> ಮೃದು ಶಬ್ದ (Soft Sound)",
+    "ಹೆಚ್ಚಿನ ಪಾರ (High Amplitude) -> ಜೋರಾದ ಶಬ್ದ (Loud Sound)"
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "physics_template_1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen comparison. On the left, a wave with a small amplitude, labeled 'ಕಡಿಮೆ ಪಾರ (Low Amplitude)' and 'ಮೃದು ಶಬ್ದ (Soft Sound)'. On the right, a wave with a large amplitude, labeled 'ಹೆಚ್ಚಿನ ಪಾರ (High Amplitude)' and 'ಜೋರಾದ ಶಬ್ದ (Loud Sound)'. Both waves should have the same wavelength.",
+    "labels": "Low Amplitude, High Amplitude, Soft Sound, Loud Sound",
+    "scientific_significance": "Connects the physical property of amplitude to the perceptual quality of loudness.",
+    "placeholder_note": "Image to be generated showing low vs high amplitude waves."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_11_concept_3_chunk_013"
+}

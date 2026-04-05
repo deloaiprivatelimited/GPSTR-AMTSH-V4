@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆಗಳು: ದ್ವಿಪದೋಕ್ತಿ vs ಇತರೆ",
+  "script": "ಈಗ, ದ್ವಿಪದೋಕ್ತಿಯನ್ನು ಕೆಲವು ಉದಾಹರಣೆಗಳ ಮೂಲಕ ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿರುವ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡಿ. ಮೊದಲನೆಯದು, ಫೈವ್ ವೈ ಪ್ಲಸ್ ಟೂ. ಇದರಲ್ಲಿ 'ಫೈವ್ ವೈ' ಮತ್ತು 'ಟೂ' ಎಂಬ ಎರಡು ಪದಗಳಿವೆ. ಹಾಗಾಗಿ ಇದು ದ್ವಿಪದೋಕ್ತಿ. ಎರಡನೆಯದು, ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಫೋರ್ ಝೆಡ್. ಇಲ್ಲೂ ಕೂಡ 'ಎಕ್ಸ್ ಸ್ಕ್ವೇರ್ಡ್' ಮತ್ತು 'ಮೈನಸ್ ಫೋರ್ ಝೆಡ್' ಎಂಬ ಎರಡು ಪದಗಳಿವೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಇವು ದ್ವಿಪದೋಕ್ತಿಗಳಲ್ಲ. ಮೊದಲನೆಯದು, ಸೆವೆನ್ ಎಕ್ಸ್ ವೈ. ಇದರಲ್ಲಿ ಒಂದೇ ಪದವಿದೆ, ಆದ್ದರಿಂದ ಇದು ಏಕಪದೋಕ್ತಿ. ಎರಡನೆಯದು, ಎ ಪ್ಲಸ್ ಬಿ ಪ್ಲಸ್ ಸಿ. ಇದರಲ್ಲಿ ಮೂರು ಪದಗಳಿವೆ, ಆದ್ದರಿಂದ ಇದು ದ್ವಿಪದೋಕ್ತಿ ಅಲ್ಲ, ಬದಲಾಗಿ ತ್ರಿಪದೋಕ್ತಿ.",
+  "script_display": "ಈಗ, ದ್ವಿಪದೋಕ್ತಿಯನ್ನು ಕೆಲವು ಉದಾಹರಣೆಗಳ ಮೂಲಕ ಇನ್ನಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿರುವ ಉದಾಹರಣೆಗಳನ್ನು ನೋಡಿ. ಮೊದಲನೆಯದು, $5y+2$. ಇದರಲ್ಲಿ '$5y$' ಮತ್ತು '$2$' ಎಂಬ ಎರಡು ಪದಗಳಿವೆ. ಹಾಗಾಗಿ ಇದು ದ್ವಿಪದೋಕ್ತಿ. ಎರಡನೆಯದು, $x^2 - 4z$. ಇಲ್ಲೂ ಕೂಡ '$x^2$' ಮತ್ತು '$-4z$' ಎಂಬ ಎರಡು ಪದಗಳಿವೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಇವು ದ್ವಿಪದೋಕ್ತಿಗಳಲ್ಲ. ಮೊದಲನೆಯದು, $7xy$. ಇದರಲ್ಲಿ ಒಂದೇ ಪದವಿದೆ, ಆದ್ದರಿಂದ ಇದು ಏಕಪದೋಕ್ತಿ. ಎರಡನೆಯದು, $a+b+c$. ಇದರಲ್ಲಿ ಮೂರು ಪದಗಳಿವೆ, ಆದ್ದರಿಂದ ಇದು ದ್ವಿಪದೋಕ್ತಿ ಅಲ್ಲ, ಬದಲಾಗಿ ತ್ರಿಪದೋಕ್ತಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "classic_dark",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_comparison_data",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A two-column comparison. Left column shows examples of binomials, right column shows non-examples (monomial and trinomial). Each item has a brief explanation of why it fits its category based on the number of terms. The visual should be rendered as two distinct lists or boxes side-by-side under their respective headers. The headers are 'ಇವು ದ್ವಿಪದೋಕ್ತಿಗಳು (Binomials)' and 'ಇವು ದ್ವಿಪದೋಕ್ತಿಗಳಲ್ಲ (Not Binomials)'. The content for the left side is: '$5y+2$ (ಪದಗಳು: $5y, 2$)' and '$x^2 - 4z$ (ಪದಗಳು: $x^2, -4z$)'. The content for the right side is: '$7xy$ (ಏಕಪದೋಕ್ತಿ - 1 ಪದ)' and '$a+b+c$ (ತ್ರಿಪದೋಕ್ತಿ - 3 ಪದಗಳು)'."
+  },
+  "sub_type": "split_comparison",
+  "difficulty": "easy",
+  "source_example_id": "ALG-EXP-2_concept_1_def_6_comp",
+  "chunk_id": "ALG-EXP-2_concept_1_chunk_024"
+}

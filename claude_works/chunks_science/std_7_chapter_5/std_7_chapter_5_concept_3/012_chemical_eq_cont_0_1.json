@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತುಕ್ಕು ಹಿಡಿಯುವಿಕೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಇಲ್ಲಿ ನೀವು ತುಕ್ಕು ಹಿಡಿಯುವಿಕೆಯ ಸಮೀಕೃತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡಬಹುದು. ನಾಲ್ಕು ಕಬ್ಬಿಣದ ಪರಮಾಣುಗಳು, ಮೂರು ಆಮ್ಲಜನಕದ ಅಣುಗಳು ಮತ್ತು ನೀರಿನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಜಲಯುಕ್ತ ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್ ಅಥವಾ ತುಕ್ಕನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಇಲ್ಲಿ x ಎಂಬುದು ನೀರಿನ ಅಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಬದಲಾಗಬಹುದು.",
+  "script_display": "ಇಲ್ಲಿ ನೀವು ತುಕ್ಕು ಹಿಡಿಯುವಿಕೆಯ ಸಮೀಕೃತ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡಬಹುದು. 4 ಕಬ್ಬಿಣದ ಪರಮಾಣುಗಳು (Fe), 3 ಆಮ್ಲಜನಕದ ಅಣುಗಳು (O₂) ಮತ್ತು ನೀರಿನೊಂದಿಗೆ (H₂O) ವರ್ತಿಸಿ, ಜಲಯುಕ್ತ ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್ (Fe₂O₃·xH₂O) ಅಥವಾ ತುಕ್ಕನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಇಲ್ಲಿ 'x' ಎಂಬುದು ನೀರಿನ ಅಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಬದಲಾಗಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "dark_contrast",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "4\\text{Fe(s)} + 3\\text{O}_2\\text{(g)} + 2x\\text{H}_2\\text{O(l)} \\rightarrow 2\\text{Fe}_2\\text{O}_3 \\cdot x\\text{H}_2\\text{O(s)}",
+    "placeholder_note": "A large, clear rendering of the chemical equation for rusting."
+  },
+  "chunk_id": "std_7_chapter_5_concept_3_chunk_012"
+}

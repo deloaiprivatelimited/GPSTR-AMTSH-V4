@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಎಡಭಾಗದ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಸೈನ್ ಮತ್ತು ಕಾಸ್ ಪದಗಳಿವೆ, ಆದರೆ ನಮ್ಮ ಗುರಿ ಸೆಕ್ ಮತ್ತು ಟ್ಯಾನ್ ಪದಗಳನ್ನು ಪಡೆಯುವುದು. ಆದ್ದರಿಂದ, ಮೊದಲ ಹಂತದಲ್ಲಿ, ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡನ್ನೂ ಕಾಸ್ ತೀಟಾ ದಿಂದ ಭಾಗಿಸೋಣ. ಸೈನ್ ತೀಟಾ ಭಾಗಿಸು ಕಾಸ್ ತೀಟಾ ಎಂಬುದು ಟ್ಯಾನ್ ತೀಟಾ, ಕಾಸ್ ತೀಟಾ ಭಾಗಿಸು ಕಾಸ್ ತೀಟಾ ಎಂಬುದು 1, ಮತ್ತು 1 ಭಾಗಿಸು ಕಾಸ್ ತೀಟಾ ಎಂಬುದು ಸೆಕ್ ತೀಟಾ ಆಗುತ್ತದೆ. ಇದರಿಂದ ನಮಗೆ ಟ್ಯಾನ್ ತೀಟಾ ಮೈನಸ್ 1 ಪ್ಲಸ್ ಸೆಕ್ ತೀಟಾ, ಭಾಗಿಸು ಟ್ಯಾನ್ ತೀಟಾ ಪ್ಲಸ್ 1 ಮೈನಸ್ ಸೆಕ್ ತೀಟಾ ಸಿಗುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸೋಣ. ಸೆಕ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಸಮ 1 ಪ್ಲಸ್ ಟ್ಯಾನ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ವನ್ನು, 1 ಸಮ ಸೆಕ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಮೈನಸ್ ಟ್ಯಾನ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಎಂದು ಬರೆಯಬಹುದು. ಈ ಮೌಲ್ಯವನ್ನು ನಾವು ಅಂಶದಲ್ಲಿರುವ 1 ರ ಜಾಗದಲ್ಲಿ ಆದೇಶಿಸೋಣ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಎಡಭಾಗದ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ $\\sin$ ಮತ್ತು $\\cos$ ಪದಗಳಿವೆ, ಆದರೆ ನಮ್ಮ ಗುರಿ $\\sec$ ಮತ್ತು $\\tan$ ಪದಗಳನ್ನು ಪಡೆಯುವುದು. ಆದ್ದರಿಂದ, ಮೊದಲ ಹಂತದಲ್ಲಿ, ಅಂಶ ಮತ್ತು ಛೇದ ಎರಡನ್ನೂ $\\cos \\theta$ ದಿಂದ ಭಾಗಿಸೋಣ. $\\frac{\\sin \\theta}{\\cos \\theta}$ ಎಂಬುದು $\\tan \\theta$, $\\frac{\\cos \\theta}{\\cos \\theta}$ ಎಂಬುದು 1, ಮತ್ತು $\\frac{1}{\\cos \\theta}$ ಎಂಬುದು $\\sec \\theta$ ಆಗುತ್ತದೆ. ಇದರಿಂದ ನಮಗೆ $\\frac{\\tan \\theta - 1 + \\sec \\theta}{\\tan \\theta + 1 - \\sec \\theta}$ ಸಿಗುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸೋಣ. $\\sec^2 \\theta = 1 + \\tan^2 \\theta$ ವನ್ನು, $1 = \\sec^2 \\theta - \\tan^2 \\theta$ ಎಂದು ಬರೆಯಬಹುದು. ಈ ಮೌಲ್ಯವನ್ನು ನಾವು ಅಂಶದಲ್ಲಿರುವ 1 ರ ಜಾಗದಲ್ಲಿ ಆದೇಶಿಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "TRI-INTRO-1_example_12",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "LHS = $\\frac{\\frac{\\sin \\theta}{\\cos \\theta} - \\frac{\\cos \\theta}{\\cos \\theta} + \\frac{1}{\\cos \\theta}}{\\frac{\\sin \\theta}{\\cos \\theta} + \\frac{\\cos \\theta}{\\cos \\theta} - \\frac{1}{\\cos \\theta}} = \\frac{\\tan \\theta - 1 + \\sec \\theta}{\\tan \\theta + 1 - \\sec \\theta}$",
+      "justification": "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು $\\cos \\theta$ ದಿಂದ ಭಾಗಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಅಂಶ = $(\\tan \\theta + \\sec \\theta) - 1 = (\\tan \\theta + \\sec \\theta) - (\\sec^2 \\theta - \\tan^2 \\theta)$",
+      "justification": "ಅಂಶದಲ್ಲಿ $1 = \\sec^2 \\theta - \\tan^2 \\theta$ ಎಂದು ಆದೇಶಿಸುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_039"
+}

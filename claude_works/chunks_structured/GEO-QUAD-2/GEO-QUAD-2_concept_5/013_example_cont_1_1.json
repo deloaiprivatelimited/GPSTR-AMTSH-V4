@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1 - ರಚನೆ",
+  "script": "ಈ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಲು, ನಾವು ಒಂದು ಚಿಕ್ಕ ರಚನೆಯನ್ನು ಮಾಡಿಕೊಳ್ಳೋಣ. ಎ ಬಿಂದುವನ್ನು ಎಫ್ ಬಿಂದುವಿಗೆ ಸೇರಿಸಿ. ಈ ರೇಖೆಯು ಮಧ್ಯದ ಸಮಾಂತರ ರೇಖೆ ಎಂ ಅನ್ನು ಜಿ ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸಲಿ. ಈ ರಚನೆಯು ನಮಗೆ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ನೀಡುತ್ತದೆ, ಅವುಗಳೆಂದರೆ ತ್ರಿಭುಜ ಎ ಸಿ ಎಫ್ ಮತ್ತು ತ್ರಿಭುಜ ಎ ಎಫ್ ಡಿ. ಇವುಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನಾವು ನಮ್ಮ ಸಾಧನೆಯನ್ನು ಮುಂದುವರಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸಲು, ನಾವು ಒಂದು ಚಿಕ್ಕ ರಚನೆಯನ್ನು ಮಾಡಿಕೊಳ್ಳೋಣ. A ಬಿಂದುವನ್ನು F ಬಿಂದುವಿಗೆ ಸೇರಿಸಿ. ಈ ರೇಖೆಯು ಮಧ್ಯದ ಸಮಾಂತರ ರೇಖೆ $m$ ಅನ್ನು G ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸಲಿ. ಈ ರಚನೆಯು ನಮಗೆ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ನೀಡುತ್ತದೆ, $∆ACF$ ಮತ್ತು $∆AFD$. ಇವುಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನಾವು ನಮ್ಮ ಸಾಧನೆಯನ್ನು ಮುಂದುವರಿಸುತ್ತೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಚಿತ್ರಕ್ಕೆ A ಮತ್ತು F ನ್ನು ಸೇರಿಸುವ ರೇಖೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ. ಈ ರೇಖೆಯು m ರೇಖೆಯನ್ನು G ಯಲ್ಲಿ ಛೇದಿಸುತ್ತದೆ. ಈ ರಚನೆಯನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "ರೇಖೆಗಳು l, m, n, p, q. ಬಿಂದುಗಳು A, B, C, D, E, F, G. ರೇಖೆ AF.",
+    "mathematical_significance": "ಸಾಧನೆಗೆ ಬೇಕಾದ ರಚನೆಯನ್ನು ತೋರಿಸುತ್ತದೆ, ಇದು ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು $∆ACF$ ಮತ್ತು $∆AFD$ ಗಳನ್ನು ರೂಪಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing the construction."
+  },
+  "source_example_id": "GEO-QUAD-2_example_7",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "A ಯನ್ನು F ಗೆ ಸೇರಿಸಿ. ಈ ರೇಖೆಯು $m$ ರೇಖೆಯನ್ನು G ಯಲ್ಲಿ ಛೇದಿಸಲಿ.",
+      "justification": "ರಚನೆ. ಇದು $∆ACF$ ಮತ್ತು $∆AFD$ ಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "GEO-QUAD-2_concept_5_chunk_013"
+}

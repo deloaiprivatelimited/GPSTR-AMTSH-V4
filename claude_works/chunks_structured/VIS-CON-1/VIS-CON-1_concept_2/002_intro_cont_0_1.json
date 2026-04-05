@@ -1,0 +1,32 @@
+{
+  "type": "intro",
+  "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+  "script": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ಕೆಲವು ಮೂಲಭೂತ ವಿಷಯಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳೋಣ. ಪರದೆಯ ಮೇಲೆ ಪಟ್ಟಿ ಮಾಡಲಾದ ಈ ಪರಿಕಲ್ಪನೆಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ಉತ್ತಮ ತಿಳುವಳಿಕೆ ಇದ್ದರೆ, ಈ ಪಾಠವು ನಿಮಗೆ ತುಂಬಾ ಸುಲಭವಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ಕೆಲವು ಮೂಲಭೂತ ವಿಷಯಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳೋಣ. ಪರದೆಯ ಮೇಲೆ ಪಟ್ಟಿ ಮಾಡಲಾದ ಈ ಪರಿಕಲ್ಪನೆಗಳ ಬಗ್ಗೆ ನಿಮಗೆ ಉತ್ತಮ ತಿಳುವಳಿಕೆ ಇದ್ದರೆ, ಈ ಪಾಠವು ನಿಮಗೆ ತುಂಬಾ ಸುಲಭವಾಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullets_centered",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "prerequisites_display": [
+    "ಚತುರ್ಭುಜಗಳ ಪರಿಚಯ (Introduction to Quadrilaterals)",
+    "ಮೂಲಭೂತ ಜ್ಯಾಮಿತೀಯ ಪರಿಕಲ್ಪನೆಗಳು (ರೇಖೆ, ಕೋನ, ಬಿಂದು)",
+    "ಸಮಾಂತರ ರೇಖೆಗಳ ಗುಣಗಳು (Properties of Parallel Lines)"
+  ],
+  "chunk_id": "VIS-CON-1_concept_2_chunk_002"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯೆ: ಸರಳ ವಕ್ರರೇಖೆ",
+  "script": "ಈಗ ನಾವು ಸರಳ ವಕ್ರರೇಖೆ, ಅಂದರೆ ಸಿಂಪಲ್ ಕರ್ವ್, ಎಂದರೇನು ಎಂದು ತಿಳಿಯೋಣ. ರೇಖಾಗಣಿತದಲ್ಲಿ, ವಕ್ರರೇಖೆ ಎಂದರೆ ಕೇವಲ ಬಾಗಿದ ರೇಖೆಯಲ್ಲ. ಯಾವುದೇ ರೇಖೆ, ಅದು ನೇರವಾಗಿರಲಿ ಅಥವಾ ಬಾಗಿದಿರಲಿ, ಪೆನ್ಸಿಲ್ ಅನ್ನು ಕಾಗದದಿಂದ ಎತ್ತದೆ ಚಿತ್ರಿಸಿದ್ದನ್ನು ನಾವು ವಕ್ರರೇಖೆ ಎಂದು ಕರೆಯಬಹುದು. ಹಾಗಾದರೆ, ಸರಳ ವಕ್ರರೇಖೆ ಎಂದರೇನು? ಅದರ ಪ್ರಮುಖ ಲಕ್ಷಣವೆಂದರೆ, ಒಂದು ವಕ್ರರೇಖೆಯು ತನ್ನನ್ನೇ ಛೇದಿಸಬಾರದು. ಅಂದರೆ, ನೀವು ಒಂದು ರೇಖೆಯನ್ನು ಎಳೆಯುವಾಗ, ಅದು ತನ್ನದೇ ಹಾದಿಯಲ್ಲಿ ಮತ್ತೆ ಹಾದುಹೋಗಬಾರದು. ಈ ಗುಣವನ್ನು ಹೊಂದಿರುವ ಯಾವುದೇ ರೇಖೆಯನ್ನು ನಾವು ಸರಳ ವಕ್ರರೇಖೆ ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ನಾವು ಸರಳ ವಕ್ರರೇಖೆ (Simple Curve) ಎಂದರೇನು ಎಂದು ತಿಳಿಯೋಣ. ರೇಖಾಗಣಿತದಲ್ಲಿ, ವಕ್ರರೇಖೆ ಎಂದರೆ ಕೇವಲ ಬಾಗಿದ ರೇಖೆಯಲ್ಲ. ಯಾವುದೇ ರೇಖೆ, ಅದು ನೇರವಾಗಿರಲಿ ಅಥವಾ ಬಾಗಿದಿರಲಿ, ಪೆನ್ಸಿಲ್ ಅನ್ನು ಕಾಗದದಿಂದ ಎತ್ತದೆ ಚಿತ್ರಿಸಿದ್ದನ್ನು ನಾವು ವಕ್ರರೇಖೆ ಎಂದು ಕರೆಯಬಹುದು. ಹಾಗಾದರೆ, ಸರಳ ವಕ್ರರೇಖೆ ಎಂದರೇನು? ಅದರ ಪ್ರಮುಖ ಲಕ್ಷಣವೆಂದರೆ, ಒಂದು ವಕ್ರರೇಖೆಯು ತನ್ನನ್ನೇ ಛೇದಿಸಬಾರದು. ಅಂದರೆ, ನೀವು ಒಂದು ರೇಖೆಯನ್ನು ಎಳೆಯುವಾಗ, ಅದು ತನ್ನದೇ ಹಾದಿಯಲ್ಲಿ ಮತ್ತೆ ಹಾದುಹೋಗಬಾರದು. ಈ ಗುಣವನ್ನು ಹೊಂದಿರುವ ಯಾವುದೇ ರೇಖೆಯನ್ನು ನಾವು ಸರಳ ವಕ್ರರೇಖೆ ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯೆ: ಒಂದು ವಕ್ರರೇಖೆಯು ತನ್ನನ್ನೇ ಛೇದಿಸದಿದ್ದರೆ, ಅದನ್ನು ಸರಳ ವಕ್ರರೇಖೆ ಎನ್ನುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, smooth, open curve that does not cross itself. It should look like a wavy line or a C-shape.",
+    "labels": "ಸರಳ ವಕ್ರರೇಖೆ",
+    "mathematical_significance": "Illustrates the core property of a simple curve: it does not intersect itself.",
+    "placeholder_note": "Image to be generated showing a non-intersecting curve."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_1_chunk_006"
+}

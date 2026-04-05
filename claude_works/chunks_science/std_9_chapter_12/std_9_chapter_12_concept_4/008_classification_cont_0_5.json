@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಸಗೊಬ್ಬರಗಳು (Fertilizers)",
+  "script": "ಈಗ ನಾವು ಮಣ್ಣಿನ ಫಲವತ್ತತೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ಎರಡನೇ ವಿಧಾನವಾದ ರಸಗೊಬ್ಬರಗಳ ಬಗ್ಗೆ ಮಾತನಾಡೋಣ. ಸಾವಯವ ಗೊಬ್ಬರಗಳಿಗಿಂತ ಭಿನ್ನವಾಗಿ, ಇವುಗಳನ್ನು ಕಾರ್ಖಾನೆಗಳಲ್ಲಿ ರಾಸಾಯನಿಕವಾಗಿ ತಯಾರಿಸಲಾಗುತ್ತದೆ. ಇವುಗಳ ಮುಖ್ಯ ಲಕ್ಷಣವೆಂದರೆ, ಇವು ಸಸ್ಯಗಳಿಗೆ ಬೇಕಾದ ನಿರ್ದಿಷ್ಟ ಪೋಷಕಾಂಶಗಳನ್ನು, ಅಂದರೆ ನೈಟ್ರೋಜನ್, ಫಾಸ್ಪರಸ್ ಮತ್ತು ಪೊಟ್ಯಾಸಿಯಂ, ಇವುಗಳನ್ನು ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದಲ್ಲಿ ಹೊಂದಿರುತ್ತವೆ. ಇವುಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಎನ್ ಪಿ ಕೆ ರಸಗೊಬ್ಬರಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇವು ಸಸ್ಯಗಳಿಗೆ ಪೋಷಕಾಂಶಗಳನ್ನು ಬಹಳ ಬೇಗನೆ ಒದಗಿಸುತ್ತವೆ.",
+  "script_display": "ರಸಗೊಬ್ಬರಗಳು ಕಾರ್ಖಾನೆಗಳಲ್ಲಿ ರಾಸಾಯನಿಕವಾಗಿ ತಯಾರಿಸಲಾದ ಸಸ್ಯ ಪೋಷಕಾಂಶಗಳಾಗಿವೆ.\n\n*   **ಪೋಷಕಾಂಶ-ನಿರ್ದಿಷ್ಟ:** ನೈಟ್ರೋಜನ್ (N), ಫಾಸ್ಪರಸ್ (P) ಮತ್ತು ಪೊಟ್ಯಾಸಿಯಂ (K) ನಂತಹ ನಿರ್ದಿಷ್ಟ ಪೋಷಕಾಂಶಗಳನ್ನು ಅಧಿಕ ಪ್ರಮಾಣದಲ್ಲಿ ಹೊಂದಿರುತ್ತವೆ.\n*   **ಶೀಘ್ರ ಲಭ್ಯತೆ:** ಸಸ್ಯಗಳು ಈ ಪೋಷಕಾಂಶಗಳನ್ನು ಸುಲಭವಾಗಿ ಮತ್ತು ಶೀಘ್ರವಾಗಿ ಹೀರಿಕೊಳ್ಳುತ್ತವೆ.\n*   **ವಾಣಿಜ್ಯ ಉತ್ಪಾದನೆ:** ಇವು ಕೃತಕವಾಗಿ ಕಾರ್ಖಾನೆಗಳಲ್ಲಿ ತಯಾರಾಗುತ್ತವೆ.",
+  "display_bullets": [
+    "ಕಾರ್ಖಾನೆಗಳಲ್ಲಿ ರಾಸಾಯನಿಕವಾಗಿ ತಯಾರಿಸಲಾಗುತ್ತದೆ.",
+    "ನೈಟ್ರೋಜನ್, ಫಾಸ್ಪರಸ್, ಪೊಟ್ಯಾಸಿಯಂ (NPK) ನಂತಹ ನಿರ್ದಿಷ್ಟ ಪೋಷಕಾಂಶಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
+    "ಸಸ್ಯಗಳಿಗೆ ಪೋಷಕಾಂಶಗಳನ್ನು ಶೀಘ್ರವಾಗಿ ಒದಗಿಸುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_3",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An image showing bags of fertilizer with 'NPK' prominently written on them. Next to the bags, show some granular fertilizer pellets.",
+    "labels": "NPK ರಸಗೊಬ್ಬರ",
+    "scientific_significance": "Represents commercially produced chemical fertilizers that provide specific macronutrients.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_4_chunk_008"
+}

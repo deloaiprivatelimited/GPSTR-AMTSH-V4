@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವಕ್ರತಾ ಕೇಂದ್ರ: ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈಗ ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಇದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ದರ್ಪಣವು ಒಂದು ಕಾಲ್ಪನಿಕ ಗೋಳದ ಭಾಗವಾಗಿದೆ ಎಂದು ನಾವು ಹೇಳಿದೆವು. ಆ ಮೂಲ ಗೋಳದ ಕೇಂದ್ರವೇ, ಅಂದರೆ ಸಿ, ನಮ್ಮ ದರ್ಪಣದ ವಕ್ರತಾ ಕೇಂದ್ರವಾಗುತ್ತದೆ. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ವಕ್ರತಾ ಕೇಂದ್ರವು ದರ್ಪಣದ ಮೇಲ್ಮೈ ಮೇಲೆ ಇರುವುದಿಲ್ಲ. ಅದು ದರ್ಪಣದಿಂದ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ, ಅದರ ಮುಂದೆ ಅಂದರೆ ನಿಮ್ಮ ದರ್ಪಣದಲ್ಲಿ ಅಥವಾ ಹಿಂದೆ ಅಂದರೆ ಪೀನ ದರ್ಪಣದಲ್ಲಿ ಇರುತ್ತದೆ. ಇದು ದರ್ಪಣದ ಭಾಗವಲ್ಲ.",
+  "script_display": "ಈಗ ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಇದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ದರ್ಪಣವು ಒಂದು ಕಾಲ್ಪನಿಕ ಗೋಳದ ಭಾಗವಾಗಿದೆ ಎಂದು ನಾವು ಹೇಳಿದೆವು. ಆ ಮೂಲ ಗೋಳದ ಕೇಂದ್ರವೇ (C) ನಮ್ಮ ದರ್ಪಣದ ವಕ್ರತಾ ಕೇಂದ್ರವಾಗುತ್ತದೆ. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ವಕ್ರತಾ ಕೇಂದ್ರವು ದರ್ಪಣದ ಮೇಲ್ಮೈ ಮೇಲೆ ಇರುವುದಿಲ್ಲ. ಅದು ದರ್ಪಣದಿಂದ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ, ಅದರ ಮುಂದೆ (ನಿಮ್ಮ ದರ್ಪಣ) ಅಥವಾ ಹಿಂದೆ (ಪೀನ ದರ್ಪಣ) ಇರುತ್ತದೆ. ಇದು ದರ್ಪಣದ ಭಾಗವಲ್ಲ.",
+  "display_bullets": [
+    "ದರ್ಪಣವು ಒಂದು ಕಾಲ್ಪನಿಕ ಗೋಳದ ಭಾಗವಾಗಿದೆ.",
+    "ಆ ಮೂಲ ಗೋಳದ ಕೇಂದ್ರವೇ (C) ದರ್ಪಣದ ವಕ್ರತಾ ಕೇಂದ್ರ.",
+    "ಪ್ರಮುಖ ಅಂಶ: ವಕ್ರತಾ ಕೇಂದ್ರವು ದರ್ಪಣದ ಮೇಲ್ಮೈ ಮೇಲೆ ಇರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_bullets_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a concave mirror as a part of a larger, imaginary, dotted sphere. The center of this sphere is labeled 'C' (ವಕ್ರತಾ ಕೇಂದ್ರ). This visually demonstrates that C is the center of the sphere from which the mirror is conceptually cut, and it is not on the mirror's surface.",
+    "labels": "ಕಾಲ್ಪನಿಕ ಗೋಳ (Imaginary Sphere), ನಿಮ್ಮ ದರ್ಪಣ (Concave Mirror), C (ವಕ್ರತಾ ಕೇಂದ್ರ - Centre of Curvature)",
+    "scientific_significance": "This diagram provides a concrete visual analogy for the abstract definition of the Centre of Curvature, clarifying its position relative to the mirror itself.",
+    "placeholder_note": "Image to be generated: A dotted circle representing the full sphere. A segment on the left is bolded and shaded to show the concave mirror. The center of the dotted circle is marked with a large 'C'."
+  },
+  "chunk_id": "std_10_chapter_9_concept_2_chunk_006"
+}

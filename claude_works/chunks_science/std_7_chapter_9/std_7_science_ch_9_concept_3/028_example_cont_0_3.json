@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ: ಸರಳ ಲೋಲಕದ ಆವರ್ತನಾವಧಿ ಎರಡು ಪಾಯಿಂಟ್ ಒಂದು ಸೆಕೆಂಡುಗಳು. ಇದರರ್ಥ, ಆ ಲೋಲಕವು ಒಂದು ಪೂರ್ಣ ಆಂದೋಲನವನ್ನು ಮಾಡಲು ಎರಡು ಪಾಯಿಂಟ್ ಒಂದು ಸೆಕೆಂಡುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ: ಸರಳ ಲೋಲಕದ ಆವರ್ತನಾವಧಿ 2.1 ಸೆಕೆಂಡುಗಳು. ಇದರರ್ಥ, ಆ ಲೋಲಕವು ಒಂದು ಪೂರ್ಣ ಆಂದೋಲನವನ್ನು ಮಾಡಲು 2.1 ಸೆಕೆಂಡುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [
+    "**ಅಂತಿಮ ಉತ್ತರ:** ಲೋಲಕದ ಆವರ್ತನಾವಧಿ 2.1 ಸೆಕೆಂಡುಗಳು."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "T = 2.1 \\, \\text{s}",
+    "placeholder_note": "Final answer highlighted in a box"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "std_7_science_ch_9_example_3",
+  "chunk_id": "std_7_science_ch_9_concept_3_chunk_028"
+}

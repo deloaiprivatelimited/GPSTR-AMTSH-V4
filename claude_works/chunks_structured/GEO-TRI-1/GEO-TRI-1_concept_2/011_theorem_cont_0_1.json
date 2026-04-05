@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಪ್ರಮೇಯದ ಸಾಧನೆ: ದತ್ತ ಮತ್ತು ರಚನೆ",
+  "script": "ಈಗ ಈ ಪ್ರಮುಖ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶವೆಂದರೆ, ಡೆಲ್ಟಾ ABC ಯಲ್ಲಿ, BC ಬಾಹುವನ್ನು D ವರೆಗೆ ವೃದ್ಧಿಸಲಾಗಿದೆ ಮತ್ತು ಕೋನ ACD ಯು ಬಾಹ್ಯ ಕೋನವಾಗಿದೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಏನೆಂದರೆ, ಕೋನ ACD ಯ ಅಳತೆಯು ಕೋನ A ಮತ್ತು ಕೋನ B ಯ ಅಳತೆಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮ ಎಂದು. ಇದನ್ನು ಸಾಧಿಸಲು, ನಾವು ಒಂದು ಸಣ್ಣ ರಚನೆಯನ್ನು ಮಾಡಿಕೊಳ್ಳಬೇಕು. C ಬಿಂದುವಿನ ಮೂಲಕ, ಬಾಹು BA ಗೆ ಸಮಾಂತರವಾಗಿ ಒಂದು ಸರಳರೇಖೆ CE ಯನ್ನು ಎಳೆಯೋಣ. ಈ ರಚನೆಯು ನಮ್ಮ ಸಾಧನೆಯಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತದೆ ಮತ್ತು ಮುಂದಿನ ಹಂತಗಳನ್ನು ಸುಲಭಗೊಳಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಈ ಪ್ರಮುಖ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶವೆಂದರೆ, $\\triangle ABC$ ಯಲ್ಲಿ, BC ಬಾಹುವನ್ನು D ವರೆಗೆ ವೃದ್ಧಿಸಲಾಗಿದೆ ಮತ್ತು $\\angle ACD$ ಯು ಬಾಹ್ಯ ಕೋನವಾಗಿದೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಏನೆಂದರೆ, $m\\angle ACD = m\\angle A + m\\angle B$ ಎಂದು. ಇದನ್ನು ಸಾಧಿಸಲು, ನಾವು ಒಂದು ಸಣ್ಣ ರಚನೆಯನ್ನು ಮಾಡಿಕೊಳ್ಳಬೇಕು. C ಬಿಂದುವಿನ ಮೂಲಕ, ಬಾಹು BA ಗೆ ಸಮಾಂತರವಾಗಿ ಒಂದು ಸರಳರೇಖೆ CE ಯನ್ನು ಎಳೆಯೋಣ. ಈ ರಚನೆಯು ನಮ್ಮ ಸಾಧನೆಯಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತದೆ ಮತ್ತು ಮುಂದಿನ ಹಂತಗಳನ್ನು ಸುಲಭಗೊಳಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ದತ್ತ: $\\triangle ABC$ ಯಲ್ಲಿ, $\\angle ACD$ ಬಾಹ್ಯ ಕೋನವಾಗಿದೆ.",
+    "ಸಾಧನೀಯ: $m\\angle ACD = m\\angle A + m\\angle B$.",
+    "ರಚನೆ: C ಬಿಂದುವಿನ ಮೂಲಕ $BA \\parallel CE$ ಇರುವಂತೆ ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same triangle setup as the previous slide, but with a new dashed line CE drawn through vertex C, parallel to the side BA. Angles are labeled for the proof: ∠A is ∠1, ∠B is ∠2, ∠ACE is ∠x, and ∠ECD is ∠y.",
+    "labels": "Vertices A, B, C, D, E. Angles ∠1, ∠2, ∠x, ∠y. Parallel line notation on BA and CE.",
+    "mathematical_significance": "Shows the construction step (drawing CE || BA) which is essential for the proof. The labeled angles (1, 2, x, y) prepare for the application of parallel line properties.",
+    "placeholder_note": "Image to be generated based on visual_aids_in_module description."
+  },
+  "chunk_id": "GEO-TRI-1_concept_2_chunk_011"
+}

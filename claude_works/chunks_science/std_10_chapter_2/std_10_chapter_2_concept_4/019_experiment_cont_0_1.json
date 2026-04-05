@@ -1,0 +1,38 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಬೇಕಾಗುವ ಉಪಕರಣಗಳು ಮತ್ತು ರಾಸಾಯನಿಕಗಳು",
+  "script": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಉಪಕರಣಗಳು ಮತ್ತು ರಾಸಾಯನಿಕಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಸ್ವಚ್ಛವಾದ ಪ್ರನಾಳವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ನಂತರ, ನಮಗೆ ಪ್ರತ್ಯಾಮ್ಲವಾಗಿ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣ, ಅಂದರೆ NaOH ದ್ರಾವಣ ಬೇಕು. ಕ್ರಿಯೆಯನ್ನು ವೀಕ್ಷಿಸಲು ಫಿನಾಫ್ತಲೀನ್ ಸೂಚಕವನ್ನು ಬಳಸುತ್ತೇವೆ. ಹಾಗೆಯೇ, ಆಮ್ಲವಾಗಿ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ, ಅಂದರೆ HCl ದ್ರಾವಣ ಮತ್ತು ಅದನ್ನು ಹನಿ ಹನಿಯಾಗಿ ಸೇರಿಸಲು ಒಂದು ಡ್ರಾಪರ್ ಬೇಕಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಪ್ರಯೋಗಾಲಯದ ಮೇಜಿನ ಮೇಲೆ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "script_display": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಉಪಕರಣಗಳು ಮತ್ತು ರಾಸಾಯನಿಕಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಸ್ವಚ್ಛವಾದ ಪ್ರನಾಳವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ನಂತರ, ನಮಗೆ ಪ್ರತ್ಯಾಮ್ಲವಾಗಿ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) ದ್ರಾವಣ ಬೇಕು. ಕ್ರಿಯೆಯನ್ನು ವೀಕ್ಷಿಸಲು ಫಿನಾಫ್ತಲೀನ್ ಸೂಚಕವನ್ನು ಬಳಸುತ್ತೇವೆ. ಹಾಗೆಯೇ, ಆಮ್ಲವಾಗಿ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl) ದ್ರಾವಣ ಮತ್ತು ಅದನ್ನು ಹನಿ ಹನಿಯಾಗಿ ಸೇರಿಸಲು ಒಂದು ಡ್ರಾಪರ್ ಬೇಕಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಪ್ರಯೋಗಾಲಯದ ಮೇಜಿನ ಮೇಲೆ ಸಿದ್ಧಪಡಿಸಿಕೊಂಡು ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "display_bullets": [
+    "ಪ್ರನಾಳ (Test tube)",
+    "ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) ದ್ರಾವಣ",
+    "ಫಿನಾಫ್ತಲೀನ್ ಸೂಚಕ (Phenolphthalein indicator)",
+    "ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl) ದ್ರಾವಣ",
+    "ಡ್ರಾಪರ್ (Dropper)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the neutralization experiment: a test tube, a bottle of NaOH solution, a bottle of HCl solution, a dropper bottle of phenolphthalein, and a separate dropper.",
+    "labels": "ಪ್ರನಾಳ, NaOH ದ್ರಾವಣ, HCl ದ್ರಾವಣ, ಫಿನಾಫ್ತಲೀನ್, ಡ್ರಾಪರ್",
+    "scientific_significance": "Illustrates the basic materials required for a typical acid-base titration/neutralization experiment in a school laboratory.",
+    "placeholder_note": "Image to be generated showing the listed lab equipment and chemicals."
+  },
+  "chunk_id": "std_10_chapter_2_concept_4_chunk_019"
+}

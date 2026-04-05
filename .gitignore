@@ -8,6 +8,10 @@ gpstr.json
 claude_works/audio/
 audio/
 
+# Audio WAV files (23GB) -- too large for git, keep JSONs only
+claude_works/audio_v2/**/*.wav
+claude_works/audio_science/**/*.wav
+
 # Old chunks (replaced by chunks_structured)
 claude_works/chunks/
 
@@ -60,3 +64,16 @@ claude_usage_report.txt
 folder_tree.txt
 chunk_schema_report.csv
 chunk_schema_summary.txt
+
+# Design comparison samples (regenerable)
+claude_works/sample_frames/
+claude_works/sample_frames_v3/
+claude_works/design_compare/
+
+# Large binary/media files
+science_textbooks/
+claude_works/podcast_audio/
+claude_works/scripts/*.wav
+
+# Medieval history (unrelated)
+Medieval history.pdf

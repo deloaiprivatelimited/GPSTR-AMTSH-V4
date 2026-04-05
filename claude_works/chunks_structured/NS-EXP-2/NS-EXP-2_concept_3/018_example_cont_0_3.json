@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ನೋಡೋಣ. ಮೊದಲ ಸಂಖ್ಯೆ ಮೂರು ಕೋಟಿ ನಲವತ್ಮೂರು ಲಕ್ಷದ ಆದರ್ಶ ರೂಪವು ಮೂರು ಪಾಯಿಂಟ್ ನಾಲ್ಕು ಮೂರು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಆರು. ಎರಡನೇ ಸಂಖ್ಯೆ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಸೊನ್ನೆ ಸೊನ್ನೆ ಸೊನ್ನೆ ಮೂರು ಐದರ ಆದರ್ಶ ರೂಪವು ಮೂರು ಪಾಯಿಂಟ್ ಐದು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಮೈನಸ್ ಐದು.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ನೋಡೋಣ:",
+  "display_bullets": [
+    "$3,430,000$ ದ ಆದರ್ಶ ರೂಪವು $3.43 \\times 10^6$ ಆಗಿದೆ.",
+    "$0.000035$ ದ ಆದರ್ಶ ರೂಪವು $3.5 \\times 10^{-5}$ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-EXP-2_example_6",
+  "steps": [],
+  "final_answer": "(i) 3.43 x 10^6 (ii) 3.5 x 10^-5",
+  "final_answer_display": "(i) $3.43 \\times 10^6$ \n\n(ii) $3.5 \\times 10^{-5}$",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-EXP-2_concept_3_chunk_018"
+}

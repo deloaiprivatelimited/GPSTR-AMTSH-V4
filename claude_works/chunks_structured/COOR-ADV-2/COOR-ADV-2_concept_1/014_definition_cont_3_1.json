@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಮೂಲಬಿಂದುವಿನಿಂದ ದೂರ",
+  "script": "ಹಿಂದಿನ ಸ್ಲೈಡ್ ನಲ್ಲಿ ನಾವು ಮೂಲಬಿಂದು ಅಂದರೆ ಏನು ಅಂತ ನೋಡಿದ್ವಿ. ಈಗ, ಯಾವುದೇ ಬಿಂದುವಿನಿಂದ ಮೂಲಬಿಂದುವಿಗೆ ಇರುವ ದೂರವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ನೋಡೋಣ. ಒಂದು ಬಿಂದು P, ಅದರ ನಿರ್ದೇಶಾಂಕಗಳು x, y ಮತ್ತು ಮೂಲಬಿಂದು O, ಅದರ ನಿರ್ದೇಶಾಂಕಗಳು ಸೊನ್ನೆ, ಸೊನ್ನೆ ನಡುವಿನ ದೂರವನ್ನು ಲೆಕ್ಕ ಹಾಕೋಣ. ನಮ್ಮ ಸಾಮಾನ್ಯ ದೂರ ಸೂತ್ರ d equals square root of x two minus x one whole squared plus y two minus y one whole squared ಅನ್ನು ಬಳಸೋಣ. ಇಲ್ಲಿ x one equals zero, y one equals zero, ಮತ್ತು x two equals x, y two equals y ಎಂದು ತೆಗೆದುಕೊಂಡರೆ, ಸೂತ್ರವು d equals square root of x minus zero whole squared plus y minus zero whole squared ಆಗುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿದಾಗ, ನಮಗೆ d equals square root of x squared plus y squared ಎಂಬ ಸರಳ ಸೂತ್ರ ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಮೂಲಬಿಂದುವಿನಿಂದ ದೂರ ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರ ಎನ್ನುತ್ತೇವೆ.",
+  "script_display": "ಹಿಂದಿನ ಸ್ಲೈಡ್ ನಲ್ಲಿ ನಾವು ಮೂಲಬಿಂದು ಅಂದರೆ ಏನು ಅಂತ ನೋಡಿದ್ವಿ. ಈಗ, ಯಾವುದೇ ಬಿಂದುವಿನಿಂದ ಮೂಲಬಿಂದುವಿಗೆ ಇರುವ ದೂರವನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ನೋಡೋಣ. ಒಂದು ಬಿಂದು $P(x, y)$ ಮತ್ತು ಮೂಲಬಿಂದು $O(0, 0)$ ನಡುವಿನ ದೂರವನ್ನು ಲೆಕ್ಕ ಹಾಕೋಣ. ನಮ್ಮ ಸಾಮಾನ್ಯ ದೂರ ಸೂತ್ರ $d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$ ಅನ್ನು ಬಳಸೋಣ. ಇಲ್ಲಿ $x_1=0, y_1=0$, ಮತ್ತು $x_2=x, y_2=y$ ಎಂದು ತೆಗೆದುಕೊಂಡರೆ, ಸೂತ್ರವು $d = \\sqrt{(x-0)^2 + (y-0)^2}$ ಆಗುತ್ತದೆ. ಇದನ್ನು ಸರಳೀಕರಿಸಿದಾಗ, ನಮಗೆ $d = \\sqrt{x^2 + y^2}$ ಎಂಬ ಸರಳ ಸೂತ್ರ ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಮೂಲಬಿಂದುವಿನಿಂದ ದೂರ ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರ ಎನ್ನುತ್ತೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "d = \\sqrt{x^2 + y^2}",
+    "placeholder_note": "Formula for distance from origin"
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "COOR-ADV-2_concept_1_chunk_014"
+}

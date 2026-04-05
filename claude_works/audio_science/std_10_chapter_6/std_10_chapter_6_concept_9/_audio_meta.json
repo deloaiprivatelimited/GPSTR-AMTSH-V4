@@ -1,0 +1,81 @@
+{
+  "module_id": "std_10_chapter_6_concept_9",
+  "chapter_code": "std_10_chapter_6",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:16:31",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "72ee74a34271831e6f241d2178b95cbe",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.771,
+      "slide_title": "ಅವಶ್ಯಕವಾದ ಪೂರ್ವ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 43,
+      "generated_at": "2026-04-02 12:15:26"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "5c1ef13693740597731a9e17fca82398",
+      "wav_file": "003_definition_0.wav",
+      "duration": 42.891,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಹಿಮ್ಮಾಹಿತಿ ಕಾರ್ಯವಿಧಾನ",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 12:15:30"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "8fa5402aa04db0f05c6f4d355fff8ece",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 48.891,
+      "slide_title": "ಉದಾಹರಣೆ: ಥರ್ಮೋಸ್ಟಾಟ್ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ?",
+      "type": "definition",
+      "script_words": 68,
+      "generated_at": "2026-04-02 12:15:35"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "61b8dd657acc198fbfbc7c4dabbd8177",
+      "wav_file": "001_intro_0.wav",
+      "duration": 49.411,
+      "slide_title": "ಹಾರ್ಮೋನುಗಳ ನಿಯಂತ್ರಣ: ಹಿಮ್ಮಾಹಿತಿ ಕಾರ್ಯವಿಧಾನ",
+      "type": "intro",
+      "script_words": 76,
+      "generated_at": "2026-04-02 12:15:37"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "8a4cd9108d2732a8a4cc08bd7e23c089",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 45.891,
+      "slide_title": "ಜೈವಿಕ ಉದಾಹರಣೆ: ರಕ್ತದ ಸಕ್ಕರೆ ನಿಯಂತ್ರಣ",
+      "type": "definition",
+      "script_words": 69,
+      "generated_at": "2026-04-02 12:16:00"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "679ddd08bf3ce03019b4ae95b34f60b0",
+      "wav_file": "006_recap_0.wav",
+      "duration": 30.051,
+      "slide_title": "ಸಾರಾಂಶ: ಹಾರ್ಮೋನುಗಳ ನಿಯಂತ್ರಣ",
+      "type": "recap",
+      "script_words": 43,
+      "generated_at": "2026-04-02 12:16:31"
+    }
+  }
+}

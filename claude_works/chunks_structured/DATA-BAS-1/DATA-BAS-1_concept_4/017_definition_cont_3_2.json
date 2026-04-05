@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಇನ್ನೊಂದು ಉದಾಹರಣೆ: ನಾಣ್ಯ ಚಿಮ್ಮುವುದು",
+  "script": "ಪರಿಕಲ್ಪನೆಯನ್ನು ಮತ್ತಷ್ಟು ದೃಢಪಡಿಸಲು ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಎರಡು ನಾಣ್ಯಗಳನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಚಿಮ್ಮುವುದು ನಮ್ಮ ಪ್ರಯೋಗ. ಇಲ್ಲಿ ಬರಬಹುದಾದ ಒಟ್ಟು ಫಲಿತಾಂಶಗಳು ನಾಲ್ಕು. ಅವುಗಳೆಂದರೆ, ಎರಡೂ ಹೆಡ್, ಮೊದಲನೆಯದು ಹೆಡ್ ಮತ್ತು ಎರಡನೆಯದು ಟೇಲ್, ಮೊದಲನೆಯದು ಟೇಲ್ ಮತ್ತು ಎರಡನೆಯದು ಹೆಡ್, ಹಾಗೂ ಎರಡೂ ಟೇಲ್. ಈಗ, 'ಕನಿಷ್ಠ ಒಂದು ಹೆಡ್ ಆದರೂ ಬರುವುದು' ಎಂಬುದನ್ನು ಒಂದು ಘಟನೆ ಎಂದು ಪರಿಗಣಿಸೋಣ. ಈ ಘಟನೆಗೆ ಸಂಬಂಧಿಸಿದ ಫಲಿತಾಂಶಗಳು ಯಾವುವು? ಎರಡೂ ಹೆಡ್, ಹೆಡ್ ಮತ್ತು ಟೇಲ್, ಹಾಗೂ ಟೇಲ್ ಮತ್ತು ಹೆಡ್. ಈ ಮೂರೂ ಫಲಿತಾಂಶಗಳಲ್ಲಿ ಕನಿಷ್ಠ ಒಂದು ಹೆಡ್ ಇದೆ. ಹಾಗಾಗಿ, ಈ ಮೂರು ಫಲಿತಾಂಶಗಳ ಗುಂಪು ನಮ್ಮ ಘಟನೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "script_display": "ಪರಿಕಲ್ಪನೆಯನ್ನು ಮತ್ತಷ್ಟು ದೃಢಪಡಿಸಲು ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಎರಡು ನಾಣ್ಯಗಳನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಚಿಮ್ಮುವುದು ನಮ್ಮ ಪ್ರಯೋಗ. ಇಲ್ಲಿ ಬರಬಹುದಾದ ಒಟ್ಟು ಫಲಿತಾಂಶಗಳು ನಾಲ್ಕು. ಅವುಗಳೆಂದರೆ, HH, HT, TH, ಹಾಗೂ TT. ಈಗ, 'ಕನಿಷ್ಠ ಒಂದು ಹೆಡ್ ($H$) ಆದರೂ ಬರುವುದು' ಎಂಬುದನ್ನು ಒಂದು ಘಟನೆ ಎಂದು ಪರಿಗಣಿಸೋಣ. ಈ ಘಟನೆಗೆ ಸಂಬಂಧಿಸಿದ ಫಲಿತಾಂಶಗಳು ಯಾವುವು? HH, HT, ಹಾಗೂ TH. ಈ ಮೂರೂ ಫಲಿತಾಂಶಗಳಲ್ಲಿ ಕನಿಷ್ಠ ಒಂದು ಹೆಡ್ ಇದೆ. ಹಾಗಾಗಿ, ಈ ಮೂರು ಫಲಿತಾಂಶಗಳ ಗುಂಪು ನಮ್ಮ ಘಟನೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪ್ರಯೋಗ: ಎರಡು ನಾಣ್ಯಗಳನ್ನು ಚಿಮ್ಮುವುದು.",
+    "ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳು (Sample Space): {HH, HT, TH, TT}",
+    "ಘಟನೆ (Event): 'ಕನಿಷ್ಠ ಒಂದು ಹೆಡ್' ಬರುವುದು.",
+    "ಘಟನೆಗೆ ಪೂರಕವಾದ ಫಲಿತಾಂಶಗಳು: {HH, HT, TH}"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the four possible outcomes of tossing two coins: HH, HT, TH, TT. The outcomes HH, HT, and TH are circled to represent the event 'getting at least one head'.",
+    "labels": "Sample Space, Event: At least one Head",
+    "mathematical_significance": "Illustrates an event that consists of multiple outcomes from the sample space, reinforcing the definition.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_017"
+}

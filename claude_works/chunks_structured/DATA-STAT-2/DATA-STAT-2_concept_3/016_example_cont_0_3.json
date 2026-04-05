@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರವನ್ನು ಮಾಡೋಣ. ಎರಡು ಭಾಗಿಸು ಏಳು ಮಾಡಿದಾಗ ನಮಗೆ ಸರಿಸುಮಾರು ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಎರಡು ಎಂಟು ಆರು ಸಿಗುತ್ತದೆ. ಇದನ್ನು ಮೂರಕ್ಕೆ ಕೂಡಿಸಿದಾಗ, ಬಹುಲಕವು ಮೂರು ಪಾಯಿಂಟ್ ಎರಡು ಎಂಟು ಆರು ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಈ ದತ್ತಾಂಶಗಳ ಬಹುಲಕವು ಸುಮಾರು ಮೂರು ಪಾಯಿಂಟ್ ಎರಡು ಎಂಟು ಆರು ಆಗಿದೆ. ಗಮನಿಸಿ, ಈ ಮೌಲ್ಯವು ನಮ್ಮ ಬಹುಲಕವಿರುವ ವರ್ಗಾಂತರ ಮೂರರಿಂದ ಐದರ ನಡುವೆ ಇದೆ.",
+  "script_display": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರವನ್ನು ಮಾಡೋಣ. $\\frac{2}{7} \\approx 0.286$. ಇದನ್ನು 3 ಕ್ಕೆ ಕೂಡಿಸಿದಾಗ, ಬಹುಲಕವು $3 + 0.286 = 3.286$ ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಈ ದತ್ತಾಂಶಗಳ ಬಹುಲಕವು ಸುಮಾರು 3.286 ಆಗಿದೆ. ಗಮನಿಸಿ, ಈ ಮೌಲ್ಯವು ನಮ್ಮ ಬಹುಲಕವಿರುವ ವರ್ಗಾಂತರ (3-5) ದ ನಡುವೆ ಇದೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರ: $3 + \\frac{2}{7} \\approx 3 + 0.286$",
+    "ಬಹುಲಕ $\\approx 3.286$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "full_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "DATA-STAT-2_example_4",
+  "final_answer": "ದತ್ತಾಂಶಗಳ ಬಹುಲಕವು ಸುಮಾರು 3.286 ಆಗಿದೆ.",
+  "final_answer_display": "$\\text{ಬಹುಲಕ} \\approx 3.286$",
+  "chunk_id": "DATA-STAT-2_concept_3_chunk_016"
+}

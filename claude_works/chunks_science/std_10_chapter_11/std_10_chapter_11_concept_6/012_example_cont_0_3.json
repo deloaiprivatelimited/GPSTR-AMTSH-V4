@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ಮಂಡಲದ ಒಟ್ಟು ರೋಧ (c)",
+  "script": "ಮುಂದೆ, ಮಂಡಲದ ಒಟ್ಟು ಅಥವಾ ಸಮಾನ ರೋಧವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಸಮಾಂತರ ಸಂಯೋಜನೆಗೆ ಸೂತ್ರ, ಒನ್ ಬೈ ಆರ್ ಪಿ ಈಕ್ವಲ್ಸ್ ಒನ್ ಬೈ ಆರ್ ಒನ್ ಪ್ಲಸ್ ಒನ್ ಬೈ ಆರ್ ಟು ಪ್ಲಸ್ ಒನ್ ಬೈ ಆರ್ ತ್ರೀ. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, ನಮಗೆ ಒನ್ ಬೈ ಐದು ಪ್ಲಸ್ ಒನ್ ಬೈ ಹತ್ತು ಪ್ಲಸ್ ಒನ್ ಬೈ ಮೂವತ್ತು ಸಿಗುತ್ತದೆ. ಈ ಭಿನ್ನರಾಶಿಗಳನ್ನು ಕೂಡಿಸಲು, ನಾವು ಲಸಾಅ, ಅಂದರೆ ಮೂವತ್ತು ಅನ್ನು ಬಳಸುತ್ತೇವೆ. ಆಗ ನಮಗೆ ಮೂವತ್ತರ ಮೇಲೆ ಆರು ಪ್ಲಸ್ ಮೂರು ಪ್ಲಸ್ ಒಂದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "(c) ಮಂಡಲದ ಒಟ್ಟು ರೋಧವನ್ನು (Rₚ) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+  "display_bullets": [
+    "ಸಮಾಂತರ ಸಂಯೋಜನೆಯ ಸೂತ್ರವನ್ನು ಬಳಸಿ:",
+    "1/Rₚ = 1/R₁ + 1/R₂ + 1/R₃",
+    "1/Rₚ = 1/5 + 1/10 + 1/30",
+    "ಲ.ಸಾ.ಅ (LCM) 30 ಆಗಿದೆ: 1/Rₚ = (6 + 3 + 1) / 30"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_green",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{1}{R_p} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3}",
+    "placeholder_note": "Display formula for equivalent resistance in parallel."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_11_example_11.8",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "(c) ಒಟ್ಟು ರೋಧವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+      "justification": "1/Rₚ = 1/R₁ + 1/R₂ + 1/R₃ ಸೂತ್ರ ಬಳಸಿ."
+    }
+  ],
+  "chunk_id": "std_10_chapter_11_concept_6_chunk_012"
+}

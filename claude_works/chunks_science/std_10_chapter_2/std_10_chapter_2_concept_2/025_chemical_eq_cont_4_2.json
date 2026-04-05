@@ -1,0 +1,30 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿವರ್ತಕಗಳು ಮತ್ತು ಉತ್ಪನ್ನಗಳು",
+  "script": "ಈ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸೋಣ. ಇಲ್ಲಿ ಪ್ರತಿವರ್ತಕಗಳು ಎಂದರೆ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ ಮತ್ತು ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್. ಇವುಗಳ ವರ್ತನೆಯಿಂದ ಉಂಟಾಗುವ ಉತ್ಪನ್ನಗಳೆಂದರೆ ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್, ಅಂದರೆ ಸಾಮಾನ್ಯ ಉಪ್ಪು, ನೀರು, ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್.",
+  "script_display": "ಈ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸೋಣ. ಇಲ್ಲಿ:",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳು (Reactants): $HCl$ (ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ) + $NaHCO_3$ (ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್)",
+    "ಉತ್ಪನ್ನಗಳು (Products): $NaCl$ (ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್) + $H_2O$ (ನೀರು) + $CO_2$ (ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_025"
+}

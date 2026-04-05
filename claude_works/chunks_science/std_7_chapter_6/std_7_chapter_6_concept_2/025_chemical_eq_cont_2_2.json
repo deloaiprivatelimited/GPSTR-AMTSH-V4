@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ವಿಶ್ಲೇಷಣೆ",
+  "script": "ಈ ಸಮೀಕರಣವನ್ನು ವಿವರವಾಗಿ ನೋಡೋಣ. ಇಲ್ಲಿ, ಪ್ರತಿಕ್ರಿಯಕ ಗ್ಲೂಕೋಸ್ ಆಗಿದೆ, ಇದು ನಮ್ಮ ಕೋಶಗಳಿಗೆ ಇಂಧನ. ಉತ್ಪನ್ನಗಳು ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ ಮತ್ತು ಶಕ್ತಿ. ಈ ಕ್ರಿಯೆಯು ಆಮ್ಲಜನಕದ ತಾತ್ಕಾಲಿಕ ಕೊರತೆಯಿದ್ದಾಗ ಮಾತ್ರ ನಡೆಯುತ್ತದೆ. ಇದರ ಪ್ರಮುಖ ಪರಿಣಾಮವೆಂದರೆ, ಸ್ನಾಯುಗಳಲ್ಲಿ ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ ಶೇಖರಣೆಯಾಗಿ ಸ್ನಾಯು ಸೆಳೆತ ಉಂಟಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಸಮೀಕರಣವನ್ನು ವಿವರವಾಗಿ ನೋಡೋಣ.",
+  "display_bullets": [
+    "**ಪ್ರತಿಕ್ರಿಯಕ (Reactant):** ಗ್ಲೂಕೋಸ್ (C₆H₁₂O₆)",
+    "**ಉತ್ಪನ್ನಗಳು (Products):** ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ (2C₃H₆O₃) + ಶಕ್ತಿ",
+    "**ಪರಿಸ್ಥಿತಿ (Condition):** ಆಮ್ಲಜನಕದ ತಾತ್ಕಾಲಿಕ ಕೊರತೆ",
+    "**ಪರಿಣಾಮ (Effect):** ಸ್ನಾಯುಗಳಲ್ಲಿ ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲದ ಶೇಖರಣೆಯಿಂದ ಸ್ನಾಯು ಸೆಳೆತ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "video_full",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_7_chapter_6_concept_2_chunk_025"
+}

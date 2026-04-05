@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಮರ್ಥ್ಯದ ಸೂತ್ರ (Formula for Power)",
+  "script": "ಈಗ ಸಾಮರ್ಥ್ಯದ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸಾಮರ್ಥ್ಯವನ್ನು ಗಣಿತದ ಪ್ರಕಾರ P ಈಕ್ವಲ್ಸ್ W ಡಿವೈಡೆಡ್ ಬೈ t ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ, P ಅಂದರೆ ವಿದ್ಯುತ್ ಸಾಮರ್ಥ್ಯ, W ಅಂದರೆ ಬಳಕೆಯಾದ ವಿದ್ಯುತ್ ಶಕ್ತಿ, ಮತ್ತು t ಅಂದರೆ ಆ ಶಕ್ತಿಯನ್ನು ಬಳಸಲು ತೆಗೆದುಕೊಂಡ ಸಮಯ. ಅಂದರೆ, ಒಂದು ನಿರ್ದಿಷ್ಟ ಸಮಯದಲ್ಲಿ ಎಷ್ಟು ಶಕ್ತಿ ಖರ್ಚಾಗಿದೆ ಎಂಬುದರ ಲೆಕ್ಕಾಚಾರವೇ ಸಾಮರ್ಥ್ಯ. ಶಕ್ತಿಯನ್ನು ಜೌಲ್ ಗಳಲ್ಲಿ ಮತ್ತು ಸಮಯವನ್ನು ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಅಳೆದರೆ, ಸಾಮರ್ಥ್ಯವು ವ್ಯಾಟ್ ಗಳಲ್ಲಿ ದೊರೆಯುತ್ತದೆ.",
+  "script_display": "ಈಗ ಸಾಮರ್ಥ್ಯದ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸಾಮರ್ಥ್ಯವನ್ನು ಗಣಿತದ ಪ್ರಕಾರ $P = \\frac{W}{t}$ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ, P ಅಂದರೆ ವಿದ್ಯುತ್ ಸಾಮರ್ಥ್ಯ, W ಅಂದರೆ ಬಳಕೆಯಾದ ವಿದ್ಯುತ್ ಶಕ್ತಿ, ಮತ್ತು t ಅಂದರೆ ಆ ಶಕ್ತಿಯನ್ನು ಬಳಸಲು ತೆಗೆದುಕೊಂಡ ಸಮಯ. ಅಂದರೆ, ಒಂದು ನಿರ್ದಿಷ್ಟ ಸಮಯದಲ್ಲಿ ಎಷ್ಟು ಶಕ್ತಿ ಖರ್ಚಾಗಿದೆ ಎಂಬುದರ ಲೆಕ್ಕಾಚಾರವೇ ಸಾಮರ್ಥ್ಯ. ಶಕ್ತಿಯನ್ನು ಜೌಲ್ ಗಳಲ್ಲಿ ಮತ್ತು ಸಮಯವನ್ನು ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಅಳೆದರೆ, ಸಾಮರ್ಥ್ಯವು ವ್ಯಾಟ್ ಗಳಲ್ಲಿ ದೊರೆಯುತ್ತದೆ.",
+  "display_bullets": [
+    "P = ಸಾಮರ್ಥ್ಯ (Power)",
+    "W = ಬಳಕೆಯಾದ ಶಕ್ತಿ (Energy consumed)",
+    "t = ತೆಗೆದುಕೊಂಡ ಸಮಯ (Time taken)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "P = \\frac{W}{t}",
+    "placeholder_note": "Formula for Power"
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_10_chapter_11_concept_8_chunk_004"
+}

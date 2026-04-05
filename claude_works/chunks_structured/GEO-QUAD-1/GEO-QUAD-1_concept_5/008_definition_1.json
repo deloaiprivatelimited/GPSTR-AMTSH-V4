@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಆಯತ (Rectangle): ವ್ಯಾಖ್ಯೆ",
+  "script": "ಈಗ ನಾವು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಇನ್ನೊಂದು ವಿಶೇಷ ಪ್ರಕಾರವಾದ ಆಯತದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಆಯತ ಕೂಡ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜವೇ, ಆದರೆ ಅದಕ್ಕೊಂದು ವಿಶೇಷವಾದ ನಿಯಮವಿದೆ. ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಪ್ರತಿಯೊಂದು ಕೋನವು ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಇರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ಆಯತ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವ ಹಾಗೆ, ಇದರ ಎಲ್ಲಾ ನಾಲ್ಕು ಮೂಲೆಗಳಲ್ಲಿನ ಕೋನಗಳು ಲಂಬಕೋನಗಳಾಗಿರುತ್ತವೆ. ಇದು ಆಯತದ ಮೂಲಭೂತ ಗುರುತಾಗಿದೆ. ನೆನಪಿಡಿ, ಆಯತವು ಒಂದು ವಿಶೇಷ ರೀತಿಯ ಸಮಾಂತರ ಚತುರ್ಭುಜ.",
+  "script_display": "ಈಗ ನಾವು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಇನ್ನೊಂದು ವಿಶೇಷ ಪ್ರಕಾರವಾದ ಆಯತದ (Rectangle) ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಆಯತ ಕೂಡ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜವೇ, ಆದರೆ ಅದಕ್ಕೊಂದು ವಿಶೇಷವಾದ ನಿಯಮವಿದೆ. ವ್ಯಾಖ್ಯೆಯ ಪ್ರಕಾರ, ಪ್ರತಿಯೊಂದು ಕೋನವು $90°$ ಇರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ಆಯತ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವ ಹಾಗೆ, ಇದರ ಎಲ್ಲಾ ನಾಲ್ಕು ಮೂಲೆಗಳಲ್ಲಿನ ಕೋನಗಳು ಲಂಬಕೋನಗಳಾಗಿರುತ್ತವೆ. ಇದು ಆಯತದ ಮೂಲಭೂತ ಗುರುತಾಗಿದೆ. ನೆನಪಿಡಿ, ಆಯತವು ಒಂದು ವಿಶೇಷ ರೀತಿಯ ಸಮಾಂತರ ಚತುರ್ಭುಜ.",
+  "display_bullets": [
+    "ಆಯತವು ಒಂದು ವಿಶೇಷ ರೀತಿಯ ಸಮಾಂತರ ಚತುರ್ಭುಜ.",
+    "ವ್ಯಾಖ್ಯೆ: ಪ್ರತಿಯೊಂದು ಕೋನವು $90°$ ಇರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ಆಯತ ಎನ್ನುತ್ತೇವೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "center",
+    "visual_zone": "bottom",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A standard rectangle ABCD, with right-angle symbols (a small square) at each vertex A, B, C, and D.",
+    "labels": "A, B, C, D, 90°",
+    "mathematical_significance": "Visually represents the core definition of a rectangle: a quadrilateral with four right angles.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-QUAD-1_concept_5_chunk_008"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಣುಗಳ ಮಟ್ಟದಲ್ಲಿ ಏನಾಗುತ್ತದೆ?",
+  "script": "ಅಣುಗಳ ಮಟ್ಟದಲ್ಲಿ, ಎಥನಾಲ್ ಮತ್ತು ಆಕ್ಸಿಜನ್ ಅಣುಗಳು ಪರಸ್ಪರ ಸಂಧಿಸಿದಾಗ, ಅವುಗಳ ಹಳೆಯ ರಾಸಾಯನಿಕ ಬಂಧಗಳು ಮುರಿಯುತ್ತವೆ. ನಂತರ, ಪರಮಾಣುಗಳು ಮರುಜೋಡಣೆಗೊಂಡು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ನೀರಿನ ಅಣುಗಳಾಗಿ ಹೊಸ ಬಂಧಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ. ಈ ಮರುಜೋಡಣೆಯ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಶಕ್ತಿಯು ಶಾಖ ಮತ್ತು ಬೆಳಕಿನ ರೂಪದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಇದೇ ದಹನ ಕ್ರಿಯೆಯ ಮೂಲತತ್ವ.",
+  "script_display": "ಅಣುಗಳ ಮಟ್ಟದಲ್ಲಿ, ಎಥನಾಲ್ (CH₃CH₂OH) ಮತ್ತು ಆಕ್ಸಿಜನ್ (O₂) ಅಣುಗಳು ಪರಸ್ಪರ ಸಂಧಿಸಿದಾಗ, ಅವುಗಳ ಹಳೆಯ ರಾಸಾಯನಿಕ ಬಂಧಗಳು ಮುರಿಯುತ್ತವೆ. ನಂತರ, ಪರಮಾಣುಗಳು ಮರುಜೋಡಣೆಗೊಂಡು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಮತ್ತು ನೀರಿನ (H₂O) ಅಣುಗಳಾಗಿ ಹೊಸ ಬಂಧಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ. ಈ ಮರುಜೋಡಣೆಯ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಶಕ್ತಿಯು ಶಾಖ ಮತ್ತು ಬೆಳಕಿನ ರೂಪದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಇದೇ ದಹನ ಕ್ರಿಯೆಯ ಮೂಲತತ್ವ.",
+  "display_bullets": [
+    "ಹಳೆಯ ಬಂಧಗಳು ಮುರಿಯುತ್ತವೆ (ಎಥನಾಲ್, ಆಕ್ಸಿಜನ್).",
+    "ಪರಮಾಣುಗಳು ಮರುಜೋಡಣೆಯಾಗುತ್ತವೆ.",
+    "ಹೊಸ ಬಂಧಗಳು ರೂಪುಗೊಳ್ಳುತ್ತವೆ (ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ನೀರು).",
+    "ಶಕ್ತಿಯು ಶಾಖ ಮತ್ತು ಬೆಳಕಿನ ರೂಪದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An animated diagram showing ethanol molecules and oxygen molecules on the left. An arrow indicates a 'reaction zone' where they break apart into individual C, H, O atoms. Another arrow shows these atoms recombining into CO2 and H2O molecules on the right, with bright flashes representing heat and light.",
+    "labels": "ಎಥನಾಲ್, ಆಕ್ಸಿಜನ್, ಪರಮಾಣುಗಳ ಮರುಜೋಡಣೆ, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ನೀರು, ಶಾಖ + ಬೆಳಕು",
+    "scientific_significance": "Illustrates the principle of conservation of mass and bond breaking/formation during a chemical reaction.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_4_concept_8_chunk_013"
+}

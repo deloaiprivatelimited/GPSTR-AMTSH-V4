@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಕಾರ್ಟಿಷಿಯನ್ ಸಮತಲದ ಭಾಗಗಳು",
+  "script": "ಈ ಕಾರ್ಟಿಷಿಯನ್ ಸಮತಲವು ಎರಡು ಮುಖ್ಯ ರೇಖೆಗಳಿಂದ ಕೂಡಿದೆ. ಇವುಗಳನ್ನು ಅಕ್ಷಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಸಮತಲವಾಗಿ, ಅಂದರೆ ಅಡ್ಡಲಾಗಿ ಎಳೆದ ರೇಖೆಯನ್ನು x-ಅಕ್ಷ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದನ್ನು X ಪ್ರೈಮ್ O X ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಲಂಬವಾಗಿ, ಅಂದರೆ ನೇರವಾಗಿ ಎಳೆದ ರೇಖೆಯನ್ನು y-ಅಕ್ಷ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದನ್ನು Y ಪ್ರೈಮ್ O Y ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಈ ಎರಡು ಅಕ್ಷಗಳು ಒಂದಕ್ಕೊಂದು ಲಂಬವಾಗಿರುತ್ತವೆ. ಅಂದರೆ, ಅವುಗಳ ನಡುವಿನ ಕೋನ 90 ಡಿಗ್ರಿ ಇರುತ್ತದೆ. ಈ ಅಕ್ಷಗಳು ಸಂಧಿಸುವ ಕೇಂದ್ರ ಬಿಂದುವನ್ನು ಮೂಲಬಿಂದು ಎಂದು ಕರೆಯುತ್ತೇವೆ ಮತ್ತು ಅದನ್ನು 'O' ಅಕ್ಷರದಿಂದ ಸೂಚಿಸುತ್ತೇವೆ.",
+  "script_display": "ಈ ಕಾರ್ಟಿಷಿಯನ್ ಸಮತಲವು ಎರಡು ಮುಖ್ಯ ರೇಖೆಗಳಿಂದ ಕೂಡಿದೆ. ಇವುಗಳನ್ನು ಅಕ್ಷಗಳು (axes) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ. ಸಮತಲವಾಗಿ, ಅಂದರೆ ಅಡ್ಡಲಾಗಿ ಎಳೆದ ರೇಖೆಯನ್ನು $x$-ಅಕ್ಷ ($x$-axis) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದನ್ನು $X'OX$ ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಲಂಬವಾಗಿ, ಅಂದರೆ ನೇರವಾಗಿ ಎಳೆದ ರೇಖೆಯನ್ನು $y$-ಅಕ್ಷ ($y$-axis) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದನ್ನು $Y'OY$ ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಈ ಎರಡು ಅಕ್ಷಗಳು ಒಂದಕ್ಕೊಂದು ಲಂಬವಾಗಿರುತ್ತವೆ (perpendicular). ಅಂದರೆ, ಅವುಗಳ ನಡುವಿನ ಕೋನ $90°$ ಇರುತ್ತದೆ. ಈ ಅಕ್ಷಗಳು ಸಂಧಿಸುವ ಕೇಂದ್ರ ಬಿಂದುವನ್ನು ಮೂಲಬಿಂದು (origin) ಎಂದು ಕರೆಯುತ್ತೇವೆ ಮತ್ತು ಅದನ್ನು 'O' ಅಕ್ಷರದಿಂದ ಸೂಚಿಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಮತಲ ರೇಖೆ: $x$-ಅಕ್ಷ ($X'OX$)",
+    "ಲಂಬ ರೇಖೆ: $y$-ಅಕ್ಷ ($Y'OY$)",
+    "ಅಕ್ಷಗಳು ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ.",
+    "ಅವು ಸಂಧಿಸುವ ಬಿಂದು: ಮೂಲಬಿಂದು (O)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A Cartesian coordinate plane showing the horizontal X'X axis and the vertical Y'Y axis intersecting perpendicularly at the origin O. OX and OY are positive directions, OX' and OY' are negative directions.",
+    "labels": "X-axis, Y-axis, Origin, O, X, X', Y, Y'",
+    "mathematical_significance": "Illustrates the fundamental components of the Cartesian plane: the x-axis, y-axis, and the origin.",
+    "placeholder_note": "Based on ಚಿತ್ರ 3.8 from the module context."
+  },
+  "chunk_id": "COOR-BAS-1_concept_1_chunk_004"
+}

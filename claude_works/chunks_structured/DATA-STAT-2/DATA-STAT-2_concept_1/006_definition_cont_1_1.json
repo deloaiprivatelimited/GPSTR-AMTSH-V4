@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಹಿಸ್ಟೋಗ್ರಾಂನ ಭಾಗಗಳು",
+  "script": "ಒಂದು ಹಿಸ್ಟೋಗ್ರಾಂನ ಪ್ರಮುಖ ಭಾಗಗಳನ್ನು ನೋಡೋಣ. ಇದರಲ್ಲಿ ಎರಡು ಅಕ್ಷಗಳಿರುತ್ತವೆ, ಎಕ್ಸ್ ಅಕ್ಷ ಮತ್ತು ವೈ ಅಕ್ಷ. ಎಕ್ಸ್ ಅಕ್ಷದ ಮೇಲೆ ನಾವು ವರ್ಗಾಂತರಗಳನ್ನು, ಅಂದರೆ ಕ್ಲಾಸ್ ಇಂಟರ್ವಲ್ಸ್ ಅನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಸೊನ್ನೆಯಿಂದ ಹತ್ತು, ಹತ್ತರಿಂದ ಇಪ್ಪತ್ತು ಹೀಗೆ. ವೈ ಅಕ್ಷದ ಮೇಲೆ ಆವೃತ್ತಿಗಳನ್ನು, ಅಂದರೆ ಫ್ರೀಕ್ವೆನ್ಸಿಗಳನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ, ಪ್ರತಿ ಆಯತದ ಅಗಲವು ವರ್ಗಾಂತರದ ಗಾತ್ರವನ್ನು ಸೂಚಿಸಿದರೆ, ಅದರ ಎತ್ತರವು ಆ ವರ್ಗಾಂತರದ ಆವೃತ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಹಿಸ್ಟೋಗ್ರಾಂನ ಪ್ರಮುಖ ಭಾಗಗಳನ್ನು ನೋಡೋಣ. ಇದರಲ್ಲಿ ಎರಡು ಅಕ್ಷಗಳಿರುತ್ತವೆ, X-ಅಕ್ಷ ಮತ್ತು Y-ಅಕ್ಷ. X-ಅಕ್ಷದ ಮೇಲೆ ನಾವು ವರ್ಗಾಂತರಗಳನ್ನು (class intervals) ಗುರುತಿಸುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, $0-10, 10-20$ ಹೀಗೆ. Y-ಅಕ್ಷದ ಮೇಲೆ ಆವೃತ್ತಿಗಳನ್ನು (frequencies) ಗುರುತಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ, ಪ್ರತಿ ಆಯತದ ಅಗಲವು ವರ್ಗಾಂತರದ ಗಾತ್ರವನ್ನು ಸೂಚಿಸಿದರೆ, ಅದರ ಎತ್ತರವು ಆ ವರ್ಗಾಂತರದ ಆವೃತ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "X-ಅಕ್ಷದ ಮೇಲೆ ವರ್ಗಾಂತರಗಳನ್ನು (class intervals) ಗುರುತಿಸಲಾಗುತ್ತದೆ.",
+    "Y-ಅಕ್ಷದ ಮೇಲೆ ಆವೃತ್ತಿಗಳನ್ನು (frequencies) ಗುರುತಿಸಲಾಗುತ್ತದೆ.",
+    "ಪ್ರತಿ ಆಯತದ ಅಗಲವು ವರ್ಗಾಂತರದ ಗಾತ್ರವನ್ನು ಮತ್ತು ಎತ್ತರವು ಆವೃತ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A histogram with axes clearly labeled. X-axis is labeled 'ವರ್ಗಾಂತರ (Class Interval)'. Y-axis is labeled 'ಆವೃತ್ತಿ (Frequency)'. One of the bars should be highlighted, with an arrow pointing to its width labeled 'ವರ್ಗಾಂತರದ ಗಾತ್ರ (Class Size)' and an arrow pointing to its height labeled 'ಆವೃತ್ತಿ (Frequency)'.",
+    "labels": "X-axis, Y-axis, Class Interval, Frequency, Class Size, Height",
+    "mathematical_significance": "Clearly shows the mapping of statistical concepts (class interval, frequency) to the geometric properties (width, height) of the histogram's bars.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "DATA-STAT-2_concept_1_chunk_006"
+}

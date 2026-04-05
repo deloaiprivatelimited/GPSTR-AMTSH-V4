@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರ (Section Formula)",
+  "script": "ಇದೇ ಆ ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರ. P x, y ಯ ನಿರ್ದೇಶಾಂಕಗಳು ಸಮನಾಗಿರುತ್ತದೆ, m ಒಂದು x ಎರಡು ಪ್ಲಸ್ m ಎರಡು x ಒಂದು, ಇದನ್ನು m ಒಂದು ಪ್ಲಸ್ m ಎರಡರಿಂದ ಭಾಗಿಸಬೇಕು, ಮತ್ತು y ನಿರ್ದೇಶಾಂಕವು m ಒಂದು y ಎರಡು ಪ್ಲಸ್ m ಎರಡು y ಒಂದು, ಇದನ್ನು m ಒಂದು ಪ್ಲಸ್ m ಎರಡರಿಂದ ಭಾಗಿಸಬೇಕು. ಈ ಸೂತ್ರವು ಒಂದು ರೇಖಾಖಂಡವನ್ನು ಆಂತರಿಕವಾಗಿ ವಿಭಾಗಿಸುವ ಯಾವುದೇ ಬಿಂದುವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಮುಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ಈ ಸೂತ್ರದಲ್ಲಿರುವ ಪ್ರತಿಯೊಂದು ಚಿಹ್ನೆಯ ಅರ್ಥವನ್ನು ವಿವರವಾಗಿ ತಿಳಿದುಕೊಳ್ಳೋಣ.",
+  "script_display": "ಇದೇ ಆ ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರ. $P(x, y)$ ಯ ನಿರ್ದೇಶಾಂಕಗಳು ಸಮನಾಗಿರುತ್ತದೆ, $\\left( \\frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \\frac{m_1y_2 + m_2y_1}{m_1 + m_2} \\right)$. ಈ ಸೂತ್ರವು ಒಂದು ರೇಖಾಖಂಡವನ್ನು ಆಂತರಿಕವಾಗಿ ವಿಭಾಗಿಸುವ ಯಾವುದೇ ಬಿಂದುವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಮುಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ಈ ಸೂತ್ರದಲ್ಲಿರುವ ಪ್ರತಿಯೊಂದು ಚಿಹ್ನೆಯ ಅರ್ಥವನ್ನು ವಿವರವಾಗಿ ತಿಳಿದುಕೊಳ್ಳೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "P(x, y) = \\left( \\frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \\frac{m_1y_2 + m_2y_1}{m_1 + m_2} \\right)",
+    "placeholder_note": "The section formula for internal division."
+  },
+  "chunk_id": "COOR-ADV-2_concept_2_chunk_004"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಷ್ಪಕ್ಷಪಾತ (Unbiased): ವ್ಯಾಖ್ಯೆ",
+  "script": "ಸಂಭವನೀಯತೆಯಲ್ಲಿ ನಾವು 'ನಿಷ್ಪಕ್ಷಪಾತ' ಎಂಬ ಪದವನ್ನು ಆಗಾಗ್ಗೆ ಕೇಳುತ್ತೇವೆ. ಇದರ ಅರ್ಥವನ್ನು ಮೊದಲು ತಿಳಿದುಕೊಳ್ಳೋಣ. ಒಂದು ನಾಣ್ಯ ಅಥವಾ ದಾಳವು ಯಾವುದೇ ಒಂದು ಬದಿಗೆ ಹೆಚ್ಚು ಒಲವು ತೋರದಂತೆ ಸಮಮಿತಿಯನ್ನು ಹೊಂದಿದ್ದರೆ, ಅದನ್ನು ನಿಷ್ಪಕ್ಷಪಾತ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರರ್ಥ, ಪ್ರಯೋಗದಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಫಲಿತಕ್ಕೂ ಸಂಭವಿಸಲು ಸಮಾನ ಅವಕಾಶವಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ನ್ಯಾಯಯುತ ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮಿದಾಗ, ಹೆಡ್ ಅಥವಾ ಟೇಲ್ ಬೀಳುವ ಸಾಧ್ಯತೆಗಳು ಒಂದೇ ಆಗಿರುತ್ತವೆ.",
+  "script_display": "ಸಂಭವನೀಯತೆಯಲ್ಲಿ ನಾವು 'ನಿಷ್ಪಕ್ಷಪಾತ' (Unbiased) ಎಂಬ ಪದವನ್ನು ಆಗಾಗ್ಗೆ ಕೇಳುತ್ತೇವೆ. ಇದರ ಅರ್ಥವನ್ನು ಮೊದಲು ತಿಳಿದುಕೊಳ್ಳೋಣ. ಒಂದು ನಾಣ್ಯ ಅಥವಾ ದಾಳವು ಯಾವುದೇ ಒಂದು ಬದಿಗೆ ಹೆಚ್ಚು ಒಲವು ತೋರದಂತೆ ಸಮಮಿತಿಯನ್ನು ಹೊಂದಿದ್ದರೆ, ಅದನ್ನು ನಿಷ್ಪಕ್ಷಪಾತ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರರ್ಥ, ಪ್ರಯೋಗದಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಫಲಿತಕ್ಕೂ ಸಂಭವಿಸಲು ಸಮಾನ ಅವಕಾಶವಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ನ್ಯಾಯಯುತ ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮಿದಾಗ, ಹೆಡ್ ಅಥವಾ ಟೇಲ್ ಬೀಳುವ ಸಾಧ್ಯತೆಗಳು ಒಂದೇ ಆಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಒಂದು ನಾಣ್ಯ ಅಥವಾ ದಾಳವು ಯಾವುದೇ ಒಂದು ಬದಿಗೆ ಹೆಚ್ಚು ಒಲವು ತೋರದಂತೆ ಸಮಮಿತಿಯನ್ನು ಹೊಂದಿದ್ದರೆ, ಅದನ್ನು ನಿಷ್ಪಕ್ಷಪಾತ ಎನ್ನುತ್ತೇವೆ.",
+    "ಇದರರ್ಥ, ಪ್ರತಿಯೊಂದು ಫಲಿತಕ್ಕೂ ಸಂಭವಿಸಲು ಸಮಾನ ಅವಕಾಶವಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A perfectly balanced scale. On one side of the scale is a standard coin. On the other side is a standard six-sided die. The scale is perfectly level, symbolizing fairness, balance, and that both objects are unbiased.",
+    "labels": "ಸಮತೋಲನ, ನಿಷ್ಪಕ್ಷಪಾತ",
+    "mathematical_significance": "This visual represents the core idea of 'unbiased' – a state of perfect balance where no single outcome is favored over others. It applies to both coins and dice, common tools in probability.",
+    "placeholder_note": "Image to be generated for 'Unbiased' concept"
+  },
+  "chunk_id": "PROB-BAS-1_concept_1_chunk_016"
+}

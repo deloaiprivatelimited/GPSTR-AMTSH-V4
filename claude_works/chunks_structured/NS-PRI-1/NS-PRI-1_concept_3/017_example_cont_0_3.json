@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಐವತ್ತಾರರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣವು ಎರಡು ಗುಣಿಸು ಎರಡು ಗುಣಿಸು ಎರಡು ಗುಣಿಸು ಏಳು ಆಗಿದೆ. ಇದನ್ನು ನಾವು ಘಾತಾಂಕ ರೂಪದಲ್ಲಿ ಎರಡರ ಘಾತ ಮೂರು ಗುಣಿಸು ಏಳು ಎಂದೂ ಬರೆಯಬಹುದು. ಇಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಅಪವರ್ತನ, ಅಂದರೆ ಎರಡು ಮತ್ತು ಏಳು, ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳಾಗಿವೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.",
+  "script_display": "ಹಾಗಾದರೆ, 56ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣವು $2 \\times 2 \\times 2 \\times 7$ ಆಗಿದೆ. ಇದನ್ನು ನಾವು ಘಾತಾಂಕ ರೂಪದಲ್ಲಿ $2^3 \\times 7$ ಎಂದೂ ಬರೆಯಬಹುದು. ಇಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಅಪವರ್ತನ, ಅಂದರೆ 2 ಮತ್ತು 7, ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳಾಗಿವೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.",
+  "display_bullets": [
+    "56ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತಿಕರಣ: $2 \\times 2 \\times 2 \\times 7$",
+    "ಘಾತಾಂಕ ರೂಪದಲ್ಲಿ: $2^3 \\times 7$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "56 = 2^3 \\times 7",
+    "placeholder_note": "Final Answer"
+  },
+  "source_example_id": "NS-PRI-1_example_5",
+  "steps": [],
+  "final_answer": "56 = 2^3 \\times 7",
+  "final_answer_display": "$56 = 2^3 \\times 7$",
+  "chunk_id": "NS-PRI-1_concept_3_chunk_017"
+}

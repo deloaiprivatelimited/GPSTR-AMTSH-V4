@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಸ್ವಿಚ್ 'OFF' ಮಾಡಿದಾಗ",
+  "script": "ಈಗ ನಾವು ಸ್ವಿಚ್ ಅನ್ನು 'OFF' ಸ್ಥಿತಿಗೆ ತಂದರೆ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಸ್ವಿಚ್ ಆಫ್ ಮಾಡಿದ ತಕ್ಷಣ, ಮಂಡಲದಲ್ಲಿ ವಿದ್ಯುತ್ ಪ್ರವಾಹ ನಿಲ್ಲುತ್ತದೆ. ಗಮನಿಸಿ, ಮೊಳೆಗೆ ಅಂಟಿಕೊಂಡಿದ್ದ ಗುಂಡುಸೂಜಿಗಳು ತಕ್ಷಣವೇ ಕೆಳಗೆ ಬಿದ್ದವು. ಇದರ ಅರ್ಥವೇನು? ಇದರರ್ಥ, ವಿದ್ಯುತ್ ಪ್ರವಾಹವನ್ನು ನಿಲ್ಲಿಸಿದಾಗ, ಮೊಳೆಯು ತನ್ನ ಕಾಂತೀಯ ಗುಣವನ್ನು ಕಳೆದುಕೊಂಡಿತು. ಈ ರೀತಿಯ ಕಾಂತಗಳನ್ನು ನಾವು ವಿದ್ಯುತ್ಕಾಂತಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಅವು ಕೇವಲ ವಿದ್ಯುತ್ ಹರಿಯುವಾಗ ಮಾತ್ರ ಕಾಂತಗಳಾಗಿರುತ್ತವೆ. ಇದು ಅವುಗಳ ಒಂದು ಪ್ರಮುಖ ಲಕ್ಷಣವಾಗಿದೆ.",
+  "script_display": "ಈಗ, ಸ್ವಿಚ್ ಅನ್ನು 'OFF' ಸ್ಥಿತಿಗೆ ತನ್ನಿ. ಇದರಿಂದ ಮಂಡಲದಲ್ಲಿ ವಿದ್ಯುತ್ ಪ್ರವಾಹ ನಿಲ್ಲುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸ್ವಿಚ್ 'OFF' ಮಾಡಿದಾಗ, ವಿದ್ಯುತ್ ಪ್ರವಾಹ ನಿಲ್ಲುತ್ತದೆ.",
+    "ಗುಂಡುಸೂಜಿಗಳು ಮೊಳೆಯಿಂದ ಬೇರ್ಪಟ್ಟು ಕೆಳಗೆ ಬೀಳುತ್ತವೆ.",
+    "ವಿದ್ಯುತ್ ಪ್ರವಾಹ ನಿಂತಾಗ ಮೊಳೆಯು ತನ್ನ ಕಾಂತತ್ವವನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The electromagnet is now inactive. The switch is shown in the 'OFF' (open) position. The pins are depicted falling away from the tip of the iron nail, which no longer attracts them.",
+    "labels": "ಕಾಂತತ್ವ ರಹಿತ ಮೊಳೆ, ಬೀಳುತ್ತಿರುವ ಗುಂಡುಸೂಜಿಗಳು, ಸ್ವಿಚ್ (OFF)",
+    "scientific_significance": "Demonstrates the temporary nature of an electromagnet. The magnetic field collapses when the current is cut off, causing the core to lose its magnetism.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_10_concept_6_chunk_012"
+}

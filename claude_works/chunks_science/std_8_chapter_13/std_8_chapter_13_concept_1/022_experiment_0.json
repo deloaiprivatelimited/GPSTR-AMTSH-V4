@@ -1,0 +1,37 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಪ್ರತಿಫಲನದ ನಿಯಮಗಳ ಪರಿಶೀಲನೆ: ಉಪಕರಣಗಳು",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಬೆಳಕಿನ ಒಂದು ಅದ್ಭುತ ಗುಣವಾದ ಪ್ರತಿಫಲನದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಕೇವಲ ಓದುವುದಲ್ಲ, ಒಂದು ಸರಳ ಪ್ರಯೋಗದ ಮೂಲಕ ಅದರ ನಿಯಮಗಳನ್ನು ನಾವೇ ಪರಿಶೀಲಿಸೋಣ. ಈ ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾಗುವ ಉಪಕರಣಗಳು ಇಲ್ಲಿವೆ: ಒಂದು ಬಿಳಿ ಕಾಗದ, ಒಂದು ಸಮತಲ ದರ್ಪಣ, ಬೆಳಕಿನ ಕಿರಣಕ್ಕಾಗಿ ಒಂದು ಟಾರ್ಚ್ ಮತ್ತು ಬಾಚಣಿಗೆ, ಹಾಗೂ ಕೋನಗಳನ್ನು ಅಳೆಯಲು ಒಂದು ಕೋನಮಾಪಕ. ಸಿದ್ಧರಿದ್ದೀರಾ? ಹಾಗಾದರೆ, ಈ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ ಪ್ರತಿಫಲನದ ರಹಸ್ಯವನ್ನು ಭೇದಿಸೋಣ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಇಂದಿನ ಪಾಠದಲ್ಲಿ ನಾವು ಬೆಳಕಿನ ಒಂದು ಅದ್ಭುತ ಗುಣವಾದ ಪ್ರತಿಫಲನದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಕೇವಲ ಓದುವುದಲ್ಲ, ಒಂದು ಸರಳ ಪ್ರಯೋಗದ ಮೂಲಕ ಅದರ ನಿಯಮಗಳನ್ನು ನಾವೇ ಪರಿಶೀಲಿಸೋಣ. ಈ ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾಗುವ ಉಪಕರಣಗಳು ಇಲ್ಲಿವೆ: ಒಂದು ಬಿಳಿ ಕಾಗದ, ಒಂದು ಸಮತಲ ದರ್ಪಣ, ಬೆಳಕಿನ ಕಿರಣಕ್ಕಾಗಿ ಒಂದು ಟಾರ್ಚ್ ಮತ್ತು ಬಾಚಣಿಗೆ, ಹಾಗೂ ಕೋನಗಳನ್ನು ಅಳೆಯಲು ಒಂದು ಕೋನಮಾಪಕ. ಸಿದ್ಧರಿದ್ದೀರಾ? ಹಾಗಾದರೆ, ಈ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ ಪ್ರತಿಫಲನದ ರಹಸ್ಯವನ್ನು ಭೇದಿಸೋಣ.",
+  "display_bullets": [
+    "ಬಿಳಿ ಕಾಗದ",
+    "ಸಮತಲ ದರ್ಪಣ",
+    "ಬಾಚಣಿಗೆ ಮತ್ತು ಟಾರ್ಚ್",
+    "ಕೋನಮಾಪಕ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A flat lay of the materials needed for the experiment: a white sheet of paper, a small plane mirror with a stand, a comb, a flashlight (torch), and a protractor, all arranged neatly on a table.",
+    "labels": "Apparatus for verifying laws of reflection",
+    "scientific_significance": "Shows the simple and accessible materials required to demonstrate a fundamental principle of optics.",
+    "placeholder_note": "Image to be generated showing the listed materials."
+  },
+  "chunk_id": "std_8_chapter_13_concept_1_chunk_022"
+}

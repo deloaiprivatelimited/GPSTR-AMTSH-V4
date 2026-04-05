@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2 ಮತ್ತು 3: ಗುಂಪು ಮಾಡುವುದು ಮತ್ತು ಮೂಲ ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಈ ಅಪವರ್ತನಗಳನ್ನು ಮೂರರ ಗುಂಪುಗಳಾಗಿ, ಅಂದರೆ ತ್ರಿವಳಿಗಳಾಗಿ ವಿಂಗಡಿಸೋಣ. ಇಲ್ಲಿ ನಮಗೆ ಎರಡರ ಮೂರು ತ್ರಿವಳಿಗಳು ಮತ್ತು ಮೂರರ ಒಂದು ತ್ರಿವಳಿ ಸಿಗುತ್ತದೆ. ಈಗ, ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಪ್ರತಿ ತ್ರಿವಳಿಯಿಂದ ಒಂದು ಅಪವರ್ತನವನ್ನು ತೆಗೆದುಕೊಂಡು ಅವುಗಳನ್ನು ಗುಣಿಸೋಣ. ಮೊದಲ ಗುಂಪಿನಿಂದ ಒಂದು ಎರಡು, ಎರಡನೇ ಗುಂಪಿನಿಂದ ಇನ್ನೊಂದು ಎರಡು, ಮೂರನೇ ಗುಂಪಿನಿಂದ ಮತ್ತೊಂದು ಎರಡು, ಮತ್ತು ಕೊನೆಯ ಗುಂಪಿನಿಂದ ಒಂದು ಮೂರನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ. ಇವುಗಳನ್ನು ಗುಣಿಸಿದಾಗ, ಎರಡು ಎರಡ್ಲಿ ನಾಲ್ಕು, ನಾಲ್ಕು ಎರಡ್ಲಿ ಎಂಟು, ಮತ್ತು ಎಂಟು ಮೂರಲಿ ಇಪ್ಪತ್ತನಾಲ್ಕು. ಹೀಗೆ ನಮಗೆ ಉತ್ತರ ಇಪ್ಪತ್ತನಾಲ್ಕು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ಈ ಅಪವರ್ತನಗಳನ್ನು ಮೂರರ ಗುಂಪುಗಳಾಗಿ, ಅಂದರೆ ತ್ರಿವಳಿಗಳಾಗಿ ವಿಂಗಡಿಸೋಣ. ಈಗ, ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಪ್ರತಿ ತ್ರಿವಳಿಯಿಂದ ಒಂದು ಅಪವರ್ತನವನ್ನು ತೆಗೆದುಕೊಂಡು ಅವುಗಳನ್ನು ಗುಣಿಸೋಣ. $2 \\times 2 \\times 2 \\times 3 = 24$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-CUBE-2_example_7",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಅಪವರ್ತನಗಳನ್ನು ತ್ರಿವಳಿಗಳಾಗಿ ಗುಂಪು ಮಾಡಿ: \n $13824 = (2 \\times 2 \\times 2) \\times (2 \\times 2 \\times 2) \\times (2 \\times 2 \\times 2) \\times (3 \\times 3 \\times 3)$",
+      "justification": "ಪ್ರತಿ ತ್ರಿವಳಿಯಿಂದ ಒಂದು ಅಪವರ್ತನವನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು."
+    },
+    {
+      "step": 3,
+      "action_display": "ಪ್ರತಿ ತ್ರಿವಳಿಯಿಂದ ಒಂದು ಅಪವರ್ತನವನ್ನು ತೆಗೆದುಕೊಂಡು ಗುಣಿಸಿ: \n $\\sqrt[3]{13824} = 2 \\times 2 \\times 2 \\times 3 = 24$",
+      "justification": "ಘನಮೂಲವನ್ನು ಪಡೆಯಲು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-CUBE-2_concept_5_chunk_026"
+}

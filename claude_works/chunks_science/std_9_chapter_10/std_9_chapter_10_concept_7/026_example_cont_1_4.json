@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ಎಲ್ಲಾ ಹಂತಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ ನಂತರ, ನಾವು ಅಂತಿಮ ಉತ್ತರವನ್ನು ತಲುಪಿದ್ದೇವೆ. 50 kg ರಾಶಿಯ ಹುಡುಗನು 9 ಸೆಕೆಂಡುಗಳಲ್ಲಿ 45 ಮೆಟ್ಟಿಲುಗಳನ್ನು ಹತ್ತಿದಾಗ ಅವನ ಸಾಮರ್ಥ್ಯ 375 ವ್ಯಾಟ್ ಆಗಿರುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ಎಲ್ಲಾ ಹಂತಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ ನಂತರ, ನಾವು ಅಂತಿಮ ಉತ್ತರವನ್ನು ತಲುಪಿದ್ದೇವೆ. 50 kg ರಾಶಿಯ ಹುಡುಗನು 9 ಸೆಕೆಂಡುಗಳಲ್ಲಿ 45 ಮೆಟ್ಟಿಲುಗಳನ್ನು ಹತ್ತಿದಾಗ ಅವನ ಸಾಮರ್ಥ್ಯ 375 W ಆಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹುಡುಗನ ಸಾಮರ್ಥ್ಯ (Power) = 375 W"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "P = 375 \\text{ W}",
+    "placeholder_note": "Display the final answer prominently."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "advanced",
+  "source_example_id": "std_9_chapter_10_example_8",
+  "final_answer": "375 W",
+  "final_answer_display": "375 W",
+  "chunk_id": "std_9_chapter_10_concept_7_chunk_026"
+}

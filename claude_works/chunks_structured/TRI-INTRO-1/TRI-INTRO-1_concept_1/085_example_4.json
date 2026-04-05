@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: tan A = 1 ಆದರೆ 2 sin A cos A = 1 ಪರೀಕ್ಷಿಸಿ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ಯಲ್ಲಿ, ಬಿ ಯಲ್ಲಿ ಲಂಬಕೋನವಾಗಿದೆ. ಟ್ಯಾನ್ ಎ ಯ ಬೆಲೆ ಒಂದು ಆದರೆ, ಎರಡು ಸೈನ್ ಎ ಕಾಸ್ ಎ ಯ ಬೆಲೆ ಒಂದು ಆಗಿದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಬೇಕು. ಮೊದಲು, ನಮಗೆ ಏನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ನಾವು ಏನನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು ಎಂಬುದನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. ನಮಗೆ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ನೀಡಲಾಗಿದೆ, ಇದರಲ್ಲಿ ಕೋನ ಬಿ ತೊಂಬತ್ತು ಡಿಗ್ರಿ. ಮತ್ತು ಟ್ಯಾನ್ ಎ ಯ ಬೆಲೆ ಒಂದು. ನಾವು ಎರಡು ಸೈನ್ ಎ ಕಾಸ್ ಎ ಸಮ ಒಂದು ಎಂಬುದನ್ನು ಪರಿಶೀಲಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, B ಯಲ್ಲಿ ಲಂಬಕೋನವಾಗಿದೆ. $\\tan A = 1$ ಆದರೆ, $2 \\sin A \\cos A = 1$ ಆಗಿದೆಯೇ? ಪರೀಕ್ಷಿಸಿ. ಮೊದಲು, ನಮಗೆ ಏನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ನಾವು ಏನನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು ಎಂಬುದನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. ನಮಗೆ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ನೀಡಲಾಗಿದೆ, ಇದರಲ್ಲಿ $\\angle B = 90^\\circ$. ಮತ್ತು $\\tan A = 1$. ನಾವು $2 \\sin A \\cos A = 1$ ಎಂಬುದನ್ನು ಪರಿಶೀಲಿಸಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC, B ಯಲ್ಲಿ ಲಂಬಕೋನ. $\\tan A = 1$.",
+    "ಪರೀಕ್ಷಿಸಬೇಕಾದದ್ದು: $2 \\sin A \\cos A = 1$."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC, B ಯಲ್ಲಿ ಲಂಬಕೋನ. ಕೋನ A ಯನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. BC ಅಭಿಮುಖ ಬಾಹು, AB ಪಾರ್ಶ್ವ ಬಾಹು ಮತ್ತು AC ವಿಕರ್ಣ.",
+    "labels": "A, B, C",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ, ಅಲ್ಲಿ tan A = 1 ಎಂದರೆ ಅಭಿಮುಖ ಬಾಹು ಮತ್ತು ಪಾರ್ಶ್ವ ಬಾಹು ಸಮಾನವಾಗಿರುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for a right triangle ABC, right-angled at B. Angle A is marked."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-INTRO-1_example_4",
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_085"
+}

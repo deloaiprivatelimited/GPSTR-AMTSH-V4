@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 3",
+  "script": "ಈಗ ಚಟುವಟಿಕೆಯ ಮುಂದಿನ ಭಾಗಕ್ಕೆ ಹೋಗೋಣ. ಇದು ಮೂರನೇ ಹಂತ. ಈಗ, ಅದೇ ಮೇಣದಬತ್ತಿಯನ್ನು ನೋಡಲು ಬಾಗಿದ ಕೊಳವೆಯನ್ನು ಬಳಸಿ. ಅಥವಾ, ನಿಮ್ಮ ಬಳಿ ಇರುವ ನೇರ ಕೊಳವೆಯನ್ನೇ ಸ್ವಲ್ಪ ಬಗ್ಗಿಸಿ. ಈಗ ಕೊಳವೆಯ ಮೂಲಕ ಜ್ವಾಲೆಯನ್ನು ನೋಡಲು ಪ್ರಯತ್ನಿಸಿ. ನಿಮಗೆ ಜ್ವಾಲೆ ಕಾಣಿಸುತ್ತಿದೆಯೇ? ಇಲ್ಲ, ಈ ಬಾರಿ ನಿಮಗೆ ಜ್ವಾಲೆ ಕಾಣಿಸುವುದಿಲ್ಲ. ಏಕೆಂದರೆ, ಬೆಳಕು ಸರಳ ರೇಖೆಯಲ್ಲಿ ಚಲಿಸುತ್ತದೆ ಮತ್ತು ಕೊಳವೆಯ ಬಾಗಿದ ಭಾಗದಲ್ಲಿ ಅದು ಹಾದುಹೋಗಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ. ಬೆಳಕಿನ ನೇರ ಪಥಕ್ಕೆ ಕೊಳವೆಯ ಬಾಗು ಅಡ್ಡಿಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಚಟುವಟಿಕೆಯ ಮುಂದಿನ ಭಾಗಕ್ಕೆ ಹೋಗೋಣ. ಇದು ಮೂರನೇ ಹಂತ. ಈಗ, ಅದೇ ಮೇಣದಬತ್ತಿಯನ್ನು ನೋಡಲು ಬಾಗಿದ ಕೊಳವೆಯನ್ನು ಬಳಸಿ. ಅಥವಾ, ನಿಮ್ಮ ಬಳಿ ಇರುವ ನೇರ ಕೊಳವೆಯನ್ನೇ ಸ್ವಲ್ಪ ಬಗ್ಗಿಸಿ. ಈಗ ಕೊಳವೆಯ ಮೂಲಕ ಜ್ವಾಲೆಯನ್ನು ನೋಡಲು ಪ್ರಯತ್ನಿಸಿ. ನಿಮಗೆ ಜ್ವಾಲೆ ಕಾಣಿಸುತ್ತಿದೆಯೇ? ಇಲ್ಲ, ಈ ಬಾರಿ ನಿಮಗೆ ಜ್ವಾಲೆ ಕಾಣಿಸುವುದಿಲ್ಲ. ಏಕೆಂದರೆ, ಬೆಳಕು ಸರಳ ರೇಖೆಯಲ್ಲಿ ಚಲಿಸುತ್ತದೆ ಮತ್ತು ಕೊಳವೆಯ ಬಾಗಿದ ಭಾಗದಲ್ಲಿ ಅದು ಹಾದುಹೋಗಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ. ಬೆಳಕಿನ ನೇರ ಪಥಕ್ಕೆ ಕೊಳವೆಯ ಬಾಗು ಅಡ್ಡಿಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಹಂತ 3: ಬಾಗಿದ ಕೊಳವೆಯ ಮೂಲಕ ಜ್ವಾಲೆಯನ್ನು ವೀಕ್ಷಿಸಲು ಪ್ರಯತ್ನಿಸಿ.",
+    "ಫಲಿತಾಂಶ: ಜ್ವಾಲೆಯು ಕಾಣಿಸುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_physics_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A person trying to look at a lit candle through a bent pipe. The line of sight is shown as a straight line from the candle, hitting the inside of the pipe's bend. An 'X' mark indicates the blockage. The observer's eye cannot see the flame.",
+    "labels": "ಬಾಗಿದ ಕೊಳವೆ, ತಡೆಹಿಡಿಯಲ್ಪಟ್ಟ ಬೆಳಕು, ವೀಕ್ಷಕ",
+    "scientific_significance": "Illustrates the second part of the experiment where the bent path of the pipe blocks the straight path of light, preventing the observer from seeing the flame.",
+    "placeholder_note": "Image to be generated."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_7_chapter_11_concept_1_chunk_005"
+}

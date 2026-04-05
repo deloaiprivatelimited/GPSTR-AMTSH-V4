@@ -1,0 +1,46 @@
+{
+  "module_id": "std_9_chapter_5_concept_7",
+  "chapter_code": "std_9_chapter_5",
+  "voice": "Alnilam",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 144.433,
+  "total_duration_formatted": "2:24",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_5_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ಜೀವಕೋಶಗಳ ಹೋಲಿಕೆ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 63.611,
+      "duration": 63.611,
+      "script_words": 95
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 64.211,
+      "end": 98.942,
+      "duration": 34.731,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_7_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ಜೀವಕೋಶಗಳ ಹೋಲಿಕೆ",
+      "type": "recap",
+      "start": 99.542,
+      "end": 143.833,
+      "duration": 44.291,
+      "script_words": 65
+    }
+  ]
+}

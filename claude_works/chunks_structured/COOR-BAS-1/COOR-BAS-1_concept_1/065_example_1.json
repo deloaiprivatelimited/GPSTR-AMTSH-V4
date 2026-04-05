@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಅಕ್ಷಗಳ ಮೇಲಿನ ಬಿಂದುಗಳು",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 3.12 ರಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಿರ್ದೇಶಾಂಕ ಅಕ್ಷಗಳ ಮೇಲೆ ಕೆಲವು ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. ನಾವು ಈ ಬಿಂದುಗಳಾದ A, B, C, D, ಮತ್ತು E ಯ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಗಮನಿಸಬೇಕಾದ ಅಂಶವೆಂದರೆ, ಈ ಎಲ್ಲಾ ಬಿಂದುಗಳು x ಅಕ್ಷ ಅಥವಾ y ಅಕ್ಷದ ಮೇಲೆ ಇವೆ.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 3.12 ರಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಿರ್ದೇಶಾಂಕ ಅಕ್ಷಗಳ ಮೇಲೆ ಕೆಲವು ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. ನಾವು ಈ ಬಿಂದುಗಳಾದ A, B, C, D, ಮತ್ತು E ಯ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಗಮನಿಸಬೇಕಾದ ಅಂಶವೆಂದರೆ, ಈ ಎಲ್ಲಾ ಬಿಂದುಗಳು x-ಅಕ್ಷ ಅಥವಾ y-ಅಕ್ಷದ ಮೇಲೆ ಇವೆ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ಚಿತ್ರ 3.12 ರಲ್ಲಿ ಅಕ್ಷಗಳ ಮೇಲೆ ಗುರುತಿಸಿರುವ A, B, C, D, E ಬಿಂದುಗಳು.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಈ ಬಿಂದುಗಳ ನಿರ್ದೇಶಾಂಕಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಚಿತ್ರ 3.12: ಉದಾಹರಣೆ 2 ಕ್ಕಾಗಿ ಬಳಸಿದ ಗ್ರಾಫ್. ಅಕ್ಷಗಳ ಮೇಲೆ ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ: A(4, 0), B(0, 3), C(-5, 0), D(0, -4), ಮತ್ತು E(-2/3, 0).",
+    "labels": "A, B, C, D, E, X-axis, Y-axis, Origin",
+    "mathematical_significance": "x-ಅಕ್ಷ ಮತ್ತು y-ಅಕ್ಷಗಳ ಮೇಲಿರುವ ಬಿಂದುಗಳ ನಿರ್ದೇಶಾಂಕಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಒಂದು ನಿರ್ದೇಶಾಂಕವು ಸೊನ್ನೆಯಾಗಿರುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "COOR-BAS-1_example_2",
+  "chunk_id": "COOR-BAS-1_concept_1_chunk_065"
+}

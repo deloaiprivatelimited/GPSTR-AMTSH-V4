@@ -1,0 +1,43 @@
+{
+  "type": "recap",
+  "slide_title": "ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರ: ಪುನರಾವಲೋಕನ",
+  "script": "ಈ ಮಾಡ್ಯೂಲ್ ಗೆ ಇಷ್ಟೇ! ನೆನಪಿಡಿ, ನಾವು ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರವನ್ನು ಕಲಿತಿದ್ದೇವೆ. ಇದರ ಸೂತ್ರ, x equals m one x two plus m two x one, by m one plus m two, ಮತ್ತು y equals m one y two plus m two y one, by m one plus m two. ಇದರ ವಿಶೇಷ ರೂಪವಾದ ಮಧ್ಯಬಿಂದು ಸೂತ್ರವೂ ಬಹಳ ಮುಖ್ಯ, x equals x one plus x two by two, ಮತ್ತು y equals y one plus y two by two. ಅಂತಿಮವಾಗಿ, ಒಂದು ಪರೀಕ್ಷಾ ಸಲಹೆ: ಅನುಪಾತವನ್ನು ಕಂಡುಹಿಡಿಯಲು, k ಅನುಪಾತ ಒಂದು ಅನ್ನು ಬಳಸಿ, ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ಸರಳಗೊಳಿಸುತ್ತದೆ. ಈ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "script_display": "ಈ ಮಾಡ್ಯೂಲ್ ಗೆ ಇಷ್ಟೇ! ನೆನಪಿಡಿ, ನಾವು ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರವನ್ನು ಕಲಿತಿದ್ದೇವೆ. ಇದರ ಸೂತ್ರ, $x = \\frac{m_1x_2 + m_2x_1}{m_1 + m_2}$ ಮತ್ತು $y = \\frac{m_1y_2 + m_2y_1}{m_1 + m_2}$. ಇದರ ವಿಶೇಷ ರೂಪವಾದ ಮಧ್ಯಬಿಂದು ಸೂತ್ರವೂ ಬಹಳ ಮುಖ್ಯ, $x = \\frac{x_1+x_2}{2}$ ಮತ್ತು $y = \\frac{y_1+y_2}{2}$. ಅಂತಿಮವಾಗಿ, ಒಂದು ಪರೀಕ್ಷಾ ಸಲಹೆ: ಅನುಪಾತವನ್ನು ಕಂಡುಹಿಡಿಯಲು, $k:1$ ಅನುಪಾತವನ್ನು ಬಳಸಿ, ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ಸರಳಗೊಳಿಸುತ್ತದೆ. ಈ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "display_bullets": [
+    "ಭಾಗ ಪ್ರಮಾಣ ಸೂತ್ರ: $P(x, y) = \\left( \\frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \\frac{m_1y_2 + m_2y_1}{m_1 + m_2} \\right)$",
+    "ಮಧ್ಯಬಿಂದು ಸೂತ್ರ (ವಿಶೇಷ ರೂಪ): $P(x, y) = \\left( \\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2} \\right)$",
+    "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಅನುಪಾತವನ್ನು ಕಂಡುಹಿಡಿಯಲು, $k:1$ ಅನುಪಾತವನ್ನು ಬಳಸಿ. ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ಸರಳಗೊಳಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "recap_grid",
+    "template": "recap_grid",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 2,
+    "theorems": 0,
+    "properties": 0,
+    "worked_examples": 5
+  },
+  "next_modules": [
+    "ತ್ರಿಭುಜದ ಗುರುತ್ವ ಕೇಂದ್ರ (centroid)",
+    "ವೃತ್ತಗಳ ಸ್ಪರ್ಶಕಗಳು",
+    "ಉನ್ನತ ಮಟ್ಟದ ರೇಖಾಗಣಿತದ ಪರಿಕಲ್ಪನೆಗಳು"
+  ],
+  "chunk_id": "COOR-ADV-2_concept_2_chunk_036"
+}

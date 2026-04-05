@@ -1,0 +1,41 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಪಚ್‌ಮಡಿ ಪ್ರಾಣಿಸಂಪತ್ತು",
+  "script": "ಒಂದು ನೈಜ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪಚ್‌ಮಡಿ ಮೀಸಲು ಜೀವಿಗೋಳವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿನ ಪ್ರಾಣಿಸಂಪತ್ತು ಬಹಳ ವೈವಿಧ್ಯಮಯವಾಗಿದೆ. ಇಲ್ಲಿ ಕಂಡುಬರುವ ಕೆಲವು ಪ್ರಾಣಿಗಳೆಂದರೆ, ಬೊಗಳುವ ಜಿಂಕೆ, ಚುಕ್ಕೆ ಜಿಂಕೆ ಅಥವಾ ಚೀತಲ್, ತೋಳ, ಚಿರತೆ, ಮತ್ತು ನೀಲಿ ಗೂಳಿ ಅಥವಾ ನೀಲ್ಗಾಯ್. ಈ ಎಲ್ಲಾ ಪ್ರಾಣಿಗಳು ಒಟ್ಟಾಗಿ ಪಚ್‌ಮಡಿ ಪ್ರದೇಶದ ಪ್ರಾಣಿಸಂಪತ್ತು ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತವೆ. ಹೀಗೆ ಪ್ರತಿಯೊಂದು ಪ್ರದೇಶವೂ ತನ್ನದೇ ಆದ ವಿಶಿಷ್ಟ ಪ್ರಾಣಿಸಂಪತ್ತನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+  "script_display": "ಒಂದು ನೈಜ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪಚ್‌ಮಡಿ ಮೀಸಲು ಜೀವಿಗೋಳದ ಪ್ರಾಣಿಸಂಪತ್ತು ಬಹಳ ವೈವಿಧ್ಯಮಯವಾಗಿದೆ. ಇಲ್ಲಿ ಕಂಡುಬರುವ ಕೆಲವು ಪ್ರಾಣಿಗಳೆಂದರೆ:\n*   ಬೊಗಳುವ ಜಿಂಕೆ (Barking deer)\n*   ಚುಕ್ಕೆ ಜಿಂಕೆ / ಚೀತಲ್ (Cheetal)\n*   ತೋಳ (Wolf)\n*   ಚಿರತೆ (Leopard)\n*   ನೀಲಿ ಗೂಳಿ / ನೀಲ್ಗಾಯ್ (Blue-bull / Nilgai)\nಈ ಎಲ್ಲಾ ಪ್ರಾಣಿಗಳು ಒಟ್ಟಾಗಿ ಪಚ್‌ಮಡಿ ಪ್ರದೇಶದ 'ಪ್ರಾಣಿಸಂಪತ್ತು' ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ಬೊಗಳುವ ಜಿಂಕೆ (Barking deer)",
+    "ಚುಕ್ಕೆ ಜಿಂಕೆ / ಚೀತಲ್ (Cheetal)",
+    "ತೋಳ (Wolf)",
+    "ಚಿರತೆ (Leopard)",
+    "ನೀಲಿ ಗೂಳಿ / ನೀಲ್ಗಾಯ್ (Blue-bull / Nilgai)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collage of animals found in the Pachmarhi Biosphere Reserve, such as the Cheetal (spotted deer), a leopard, a wolf, and a barking deer, shown in their natural forest habitat. This visually represents the 'Fauna' of the region.",
+    "labels": "ಚೀತಲ್ (Cheetal), ಚಿರತೆ (Leopard), ತೋಳ (Wolf), ಬೊಗಳುವ ಜಿಂಕೆ (Barking deer)",
+    "scientific_significance": "Illustrates the concept of Fauna by showing a variety of animal species that coexist within a specific geographical area, highlighting the biodiversity of the Pachmarhi Biosphere Reserve.",
+    "placeholder_note": "Image to be generated showing various animals from Pachmarhi."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "std_8_chapter_5_concept_2_def_3",
+  "chunk_id": "std_8_chapter_5_concept_2_chunk_010"
+}

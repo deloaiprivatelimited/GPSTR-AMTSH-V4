@@ -1,0 +1,180 @@
+{
+  "module_id": "std_7_science_ch_9_concept_4",
+  "chapter_code": "std_7_chapter_9",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 15,
+  "ok_count": 15,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:15:47",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "f1985a7d0d62a0a084a2e0e97bbd1eb4",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.571,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 39,
+      "generated_at": "2026-04-02 14:13:10"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "6217942950bada5feb2b23f2af2c2004",
+      "wav_file": "001_intro_0.wav",
+      "duration": 65.331,
+      "slide_title": "ಪರಿಚಯ: ಜವ ಮತ್ತು ಕಾಲದ ಮಾನಗಳು",
+      "type": "chunk",
+      "script_words": 96,
+      "generated_at": "2026-04-02 14:13:40"
+    },
+    "006_formula_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "af57c638e3641d528fdc8a41b0ee48e7",
+      "wav_file": "006_formula_1.wav",
+      "duration": 43.451,
+      "slide_title": "m/s ನಿಂದ km/h ಗೆ ಪರಿವರ್ತನೆ",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-04-02 14:13:51"
+    },
+    "004_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "db4d8a5cf3a8b323c872b2ca4ed14dc5",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "duration": 51.251,
+      "slide_title": "ಉದಾಹರಣೆ: 72 km/h ಅನ್ನು m/s ಗೆ ಪರಿವರ್ತಿಸಿ",
+      "type": "concept_explanation",
+      "script_words": 75,
+      "generated_at": "2026-04-02 14:13:57"
+    },
+    "003_formula_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "358277205bf496fb6dce73cb18116831",
+      "wav_file": "003_formula_0.wav",
+      "duration": 59.651,
+      "slide_title": "ಜವದ ಮಾನಗಳ ಪರಿವರ್ತನೆ: km/h ನಿಂದ m/s",
+      "type": "concept_explanation",
+      "script_words": 79,
+      "generated_at": "2026-04-02 14:14:19"
+    },
+    "008_formula_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "e80a024cf1f13982aa6b014981cf0c4e",
+      "wav_file": "008_formula_cont_1_2.wav",
+      "duration": 43.891,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 14:14:20"
+    },
+    "005_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "8d0f137366c6df9198fec7e203a4ab77",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "duration": 51.251,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+      "type": "concept_explanation",
+      "script_words": 84,
+      "generated_at": "2026-04-02 14:14:33"
+    },
+    "007_formula_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "9af42d8cb82e6003680ec39e78d61543",
+      "wav_file": "007_formula_cont_1_1.wav",
+      "duration": 39.731,
+      "slide_title": "ಉದಾಹರಣೆ: 10 m/s ಅನ್ನು km/h ಗೆ ಪರಿವರ್ತಿಸಿ",
+      "type": "concept_explanation",
+      "script_words": 71,
+      "generated_at": "2026-04-02 14:14:52"
+    },
+    "009_property_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "50132cf1b6ec82a0d7a46145a75a034f",
+      "wav_file": "009_property_0.wav",
+      "duration": 44.331,
+      "slide_title": "ಕಾಲದ ಮಾನಗಳು (Units of Time)",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 14:14:55"
+    },
+    "010_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "e781e8cb26c241728b94b23c8b2cb6d5",
+      "wav_file": "010_property_cont_0_1.wav",
+      "duration": 54.651,
+      "slide_title": "ಜವದ ಮಾನಗಳು (Units of Speed)",
+      "type": "concept_explanation",
+      "script_words": 85,
+      "generated_at": "2026-04-02 14:14:57"
+    },
+    "011_example_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "fbb8003fcd6e443d24b8ab52d1432a0c",
+      "wav_file": "011_example_0.wav",
+      "duration": 22.051,
+      "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ: ಜವದ ಪರಿವರ್ತನೆ",
+      "type": "worked_example",
+      "script_words": 33,
+      "generated_at": "2026-04-02 14:15:08"
+    },
+    "012_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "34ea0e17d012e837180e2f4b209707e8",
+      "wav_file": "012_example_cont_0_1.wav",
+      "duration": 37.211,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1",
+      "type": "worked_example",
+      "script_words": 47,
+      "generated_at": "2026-04-02 14:15:17"
+    },
+    "014_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "ebef49d33e828aa52b2eaa9bfdcb73e2",
+      "wav_file": "014_example_cont_0_3.wav",
+      "duration": 26.171,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "script_words": 43,
+      "generated_at": "2026-04-02 14:15:36"
+    },
+    "013_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "efa800941b0d26ed31d90064ecbd25fd",
+      "wav_file": "013_example_cont_0_2.wav",
+      "duration": 31.731,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 2 ಮತ್ತು 3",
+      "type": "worked_example",
+      "script_words": 40,
+      "generated_at": "2026-04-02 14:15:46"
+    },
+    "015_recap_0.json": {
+      "status": "ok",
+      "voice": "Zubenelgenubi",
+      "script_hash": "3502fd8ccd77ad2818b3b345e9c7dfa4",
+      "wav_file": "015_recap_0.wav",
+      "duration": 43.091,
+      "slide_title": "ಸಾರಾಂಶ: ಜವ ಮತ್ತು ಕಾಲದ ಮಾನಗಳು",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-04-02 14:15:47"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಕಲಾಯಿ ಮಾಡಿದ ವಸ್ತುಗಳು",
+  "script": "ನಮ್ಮ ಸುತ್ತಮುತ್ತ, ಕಲಾಯಿ ಮಾಡಿದ ಅನೇಕ ವಸ್ತುಗಳನ್ನು ನಾವು ಪ್ರತಿದಿನ ಬಳಸುತ್ತೇವೆ. ಇವುಗಳು ತುಕ್ಕು ಹಿಡಿಯುವುದನ್ನು ತಡೆಯಲು ಈ ವಿಧಾನವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನೀರು ಸಾಗಿಸಲು ಬಳಸುವ ಪೈಪುಗಳು, ಸಾಮಾನ್ಯವಾಗಿ ಜಿ ಐ ಪೈಪ್ಸ್ ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತವೆ. ಹಾಗೆಯೇ, ಮನೆಗಳ ಛಾವಣಿಗೆ ಬಳಸುವ ಶೀಟುಗಳು, ನೀರು ತುಂಬಲು ಬಳಸುವ ಬಕೆಟ್ಟುಗಳು, ಮತ್ತು ಕೃಷಿ ಉಪಕರಣಗಳು ಕೂಡ ಕಲಾಯಿ ಮಾಡಿದ ಕಬ್ಬಿಣದಿಂದ ತಯಾರಾಗಿರುತ್ತವೆ. ಈ ವಸ್ತುಗಳು ನಿರಂತರವಾಗಿ ನೀರು ಮತ್ತು ಗಾಳಿಗೆ ಒಡ್ಡಿಕೊಳ್ಳುವುದರಿಂದ, ಕಲಾಯಿ ಮಾಡುವುದು ಅವುಗಳ ಬಾಳಿಕೆಯನ್ನು ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚಿಸುತ್ತದೆ ಮತ್ತು ನಮ್ಮ ಹಣವನ್ನು ಉಳಿಸುತ್ತದೆ.",
+  "script_display": "ನಮ್ಮ ಸುತ್ತಮುತ್ತ, ಕಲಾಯಿ ಮಾಡಿದ ಅನೇಕ ವಸ್ತುಗಳನ್ನು ನಾವು ಪ್ರತಿದಿನ ಬಳಸುತ್ತೇವೆ. ಇವುಗಳು ತುಕ್ಕು ಹಿಡಿಯುವುದನ್ನು ತಡೆಯಲು ಈ ವಿಧಾನವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ:",
+  "display_bullets": [
+    "ನೀರು ಸಾಗಿಸುವ ಪೈಪುಗಳು (GI Pipes)",
+    "ಛಾವಣಿಯ ಶೀಟುಗಳು (Roofing Sheets)",
+    "ಬಕೆಟ್ಟುಗಳು ಮತ್ತು ಡ್ರಮ್‌ಗಳು",
+    "ಕೃಷಿ ಉಪಕರಣಗಳು ಮತ್ತು ಬೇಲಿಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collage of images showing common galvanized items: a metal bucket, a corrugated roofing sheet, and a section of a GI pipe. Each item should look metallic and shiny, clearly not rusted.",
+    "labels": "ಕಲಾಯಿ ಮಾಡಿದ ಬಕೆಟ್, ಛಾವಣಿಯ ಶೀಟ್, ಜಿ.ಐ. ಪೈಪ್",
+    "scientific_significance": "Provides real-world examples of galvanisation, connecting the scientific concept to everyday objects and reinforcing its practical importance in preventing rust.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_5_concept_3_chunk_010"
+}

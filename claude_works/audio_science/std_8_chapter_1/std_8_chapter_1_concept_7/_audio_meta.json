@@ -1,0 +1,191 @@
+{
+  "module_id": "std_8_chapter_1_concept_7",
+  "chapter_code": "std_8_chapter_1",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 16,
+  "ok_count": 16,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:46:35",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "a8452932726eac525e91183dc54c22d3",
+      "wav_file": "001_intro_0.wav",
+      "duration": 50.371,
+      "slide_title": "ಕೊಯ್ದು ಮತ್ತು ಸಂಗ್ರಹಣೆ",
+      "type": "intro",
+      "script_words": 76,
+      "generated_at": "2026-04-02 16:43:32"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "af6e7eb6f86729ae3921175ca0823b56",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.171,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 40,
+      "generated_at": "2026-04-02 16:43:48"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "e69f985c235dce67416b02233317248b",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 38.011,
+      "slide_title": "ಕೊಯ್ದು ಮಾಡುವ ವಿಧಾನಗಳು",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 16:43:48"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "332ddce510c5ac1b5ff8add189f76a0f",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 37.411,
+      "slide_title": "ಕೊಯ್ದು ನಂತರದ ಪ್ರಕ್ರಿಯೆ: ಒಕ್ಕಣೆ (Threshing)",
+      "type": "definition",
+      "script_words": 51,
+      "generated_at": "2026-04-02 16:43:49"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "fec6a30e235cd6154e51066ae4946e26",
+      "wav_file": "003_definition_0.wav",
+      "duration": 36.291,
+      "slide_title": "ಕೊಯ್ದು (Harvesting) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 49,
+      "generated_at": "2026-04-02 16:43:53"
+    },
+    "008_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "69b123b51406a9cae2408083e073f324",
+      "wav_file": "008_definition_cont_1_1.wav",
+      "duration": 43.211,
+      "slide_title": "ಒಕ್ಕಣೆ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 16:44:26"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "cc257036df325a43c5f0f0a895ac93fc",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 33.931,
+      "slide_title": "ಆಧುನಿಕ ಯಂತ್ರ: ಕಂಬೈನ್ (Combine)",
+      "type": "definition",
+      "script_words": 52,
+      "generated_at": "2026-04-02 16:44:47"
+    },
+    "009_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "ca5766029cd99fac465720ae194e89fb",
+      "wav_file": "009_definition_cont_1_2.wav",
+      "duration": 44.891,
+      "slide_title": "ಸಾಂಪ್ರದಾಯಿಕ vs ಆಧುನಿಕ ಒಕ್ಕಣೆ",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-04-02 16:44:57"
+    },
+    "010_definition_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "17cb1c46992353138fa907d1a74ca535",
+      "wav_file": "010_definition_2.wav",
+      "duration": 44.331,
+      "slide_title": "ತೂರುವುದು (Winnowing)",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-04-02 16:44:58"
+    },
+    "007_definition_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "73bf9478bce6a5c2a6d16853f5a981b4",
+      "wav_file": "007_definition_1.wav",
+      "duration": 41.331,
+      "slide_title": "ಒಕ್ಕಣೆ (Threshing) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 50,
+      "generated_at": "2026-04-02 16:45:01"
+    },
+    "011_definition_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "64d8a54795406c389e9872ff4dc38db2",
+      "wav_file": "011_definition_cont_2_1.wav",
+      "duration": 45.651,
+      "slide_title": "ತೂರುವ ಪ್ರಕ್ರಿಯೆ",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-04-02 16:45:31"
+    },
+    "013_definition_cont_3_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "472a5d677388ff65d4b9ccab9d43ef44",
+      "wav_file": "013_definition_cont_3_1.wav",
+      "duration": 43.091,
+      "slide_title": "ಸಂಗ್ರಹಣೆ ಏಕೆ ಮುಖ್ಯ?",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 16:45:53"
+    },
+    "012_definition_3.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "93a768c1ee090790d30be5ad0ae42a08",
+      "wav_file": "012_definition_3.wav",
+      "duration": 40.331,
+      "slide_title": "ಸಂಗ್ರಹಣೆ (Storage) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 50,
+      "generated_at": "2026-04-02 16:45:54"
+    },
+    "015_definition_cont_3_3.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "d90a60c6cfc1d0d5b3666b62e0090b39",
+      "wav_file": "015_definition_cont_3_3.wav",
+      "duration": 46.371,
+      "slide_title": "ದೊಡ್ಡ ಪ್ರಮಾಣದ ಸಂಗ್ರಹಣೆ",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 16:46:01"
+    },
+    "014_definition_cont_3_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "708a232e04e8f2a8ab9436267f96fe0e",
+      "wav_file": "014_definition_cont_3_2.wav",
+      "duration": 49.811,
+      "slide_title": "ಸಣ್ಣ ಪ್ರಮಾಣದ ಸಂಗ್ರಹಣೆ",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 16:46:03"
+    },
+    "016_recap_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "778f6bff2e151bf93052196687eac6a4",
+      "wav_file": "016_recap_0.wav",
+      "duration": 41.491,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 16:46:35"
+    }
+  }
+}

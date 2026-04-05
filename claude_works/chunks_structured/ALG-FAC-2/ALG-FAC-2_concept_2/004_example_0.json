@@ -1,0 +1,43 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಅಪವರ್ತಿಸಿ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಬೀಜೋಕ್ತಿ ಹನ್ನೆರಡು a ಸ್ಕ್ವೇರ್ಡ್ b ಪ್ಲಸ್ ಹದಿನೈದು a b ಸ್ಕ್ವೇರ್ಡ್. ನಾವು ಇದನ್ನು ಅಪವರ್ತಿಸಬೇಕು, ಅಂದರೆ ಇದನ್ನು ಅಪವರ್ತನಗಳ ಗುಣಲಬ್ಧವಾಗಿ ಬರೆಯಬೇಕು.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಬೀಜೋಕ್ತಿ $12a^2b + 15ab^2$. ನಾವು ಇದನ್ನು ಅಪವರ್ತಿಸಬೇಕು, ಅಂದರೆ ಇದನ್ನು ಅಪವರ್ತನಗಳ ಗುಣಲಬ್ಧವಾಗಿ ಬರೆಯಬೇಕು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "12a^2b + 15ab^2",
+    "placeholder_note": "The algebraic expression to be factorized."
+  },
+  "source_example_id": "ALG-FAC-2_example_1",
+  "prerequisites_display": [
+    "ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳು",
+    "ವಿತರಣಾ ನಿಯಮ"
+  ],
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 0,
+    "theorems": 0,
+    "properties": 1,
+    "worked_examples": 1
+  },
+  "chunk_id": "ALG-FAC-2_concept_2_chunk_004"
+}

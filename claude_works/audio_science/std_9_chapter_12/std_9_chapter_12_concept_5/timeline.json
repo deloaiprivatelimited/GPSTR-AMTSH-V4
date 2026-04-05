@@ -1,0 +1,101 @@
+{
+  "module_id": "std_9_chapter_12_concept_5",
+  "chapter_code": "std_9_chapter_12",
+  "voice": "Vindemiatrix",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 369.488,
+  "total_duration_formatted": "6:09",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_12_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ನೀರಾವರಿ ಮತ್ತು ಜಲ ಸಂರಕ್ಷಣೆ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 54.771,
+      "duration": 54.771,
+      "script_words": 77
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 55.371,
+      "end": 89.622,
+      "duration": 34.251,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_5_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ನೀರಾವರಿ ವ್ಯವಸ್ಥೆಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "start": 90.222,
+      "end": 142.193,
+      "duration": 51.971,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_5_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ನೀರಾವರಿ ವ್ಯವಸ್ಥೆಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "start": 142.793,
+      "end": 193.044,
+      "duration": 50.251,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_5_chunk_005",
+      "chunk_file": "005_classification_1.json",
+      "wav_file": "005_classification_1.wav",
+      "slide_title": "ಜಲ ಸಂರಕ್ಷಣೆ: ಏಕೆ ಮುಖ್ಯ?",
+      "type": "concept_explanation",
+      "start": 193.644,
+      "end": 235.815,
+      "duration": 42.171,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_5_chunk_006",
+      "chunk_file": "006_classification_cont_1_1.json",
+      "wav_file": "006_classification_cont_1_1.wav",
+      "slide_title": "ಜಲ ಸಂರಕ್ಷಣಾ ವಿಧಾನ 1: ಮಳೆನೀರು ಕೊಯ್ಲು",
+      "type": "concept_explanation",
+      "start": 236.415,
+      "end": 281.346,
+      "duration": 44.931,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_5_chunk_007",
+      "chunk_file": "007_classification_cont_1_2.json",
+      "wav_file": "007_classification_cont_1_2.wav",
+      "slide_title": "ಜಲ ಸಂರಕ್ಷಣಾ ವಿಧಾನ 2: ನೀರುತಡೆ ಜಲಾಶಯ",
+      "type": "concept_explanation",
+      "start": 281.946,
+      "end": 324.877,
+      "duration": 42.931,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_9_chapter_12_concept_5_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 325.477,
+      "end": 368.888,
+      "duration": 43.411,
+      "script_words": 50
+    }
+  ]
+}

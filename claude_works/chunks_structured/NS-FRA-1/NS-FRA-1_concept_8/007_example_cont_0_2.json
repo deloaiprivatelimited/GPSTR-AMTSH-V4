@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಈಗ ಮೂರನೇ ಹಂತ, ಅಂದರೆ ಸಾಮಾನ್ಯ ಭಾಗಾಕಾರವನ್ನು ಮಾಡೋಣ. ನಾವು 891 ಅನ್ನು 22 ರಿಂದ ಭಾಗಿಸಬೇಕು. ಮೊದಲು 89 ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. 22 ನಾಲ್ಕಲಿ 88. 89 ರಿಂದ 88 ಕಳೆದರೆ 1 ಉಳಿಯುತ್ತದೆ. ಈಗ 1 ಅನ್ನು ಕೆಳಗೆ ಇಳಿಸಿದರೆ, ನಮ್ಮ ಸಂಖ್ಯೆ 11 ಆಗುತ್ತದೆ. 11, 22 ಕ್ಕಿಂತ ಚಿಕ್ಕದಾಗಿರುವುದರಿಂದ, ನಾವು ಭಾಗಲಬ್ಧದಲ್ಲಿ ಸೊನ್ನೆಯನ್ನು ಬರೆಯುತ್ತೇವೆ. ನಂತರ ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಇಟ್ಟು, 11 ರ ಪಕ್ಕ ಒಂದು ಸೊನ್ನೆಯನ್ನು ಸೇರಿಸಿದರೆ 110 ಆಗುತ್ತದೆ. 22 ಐದಲಿ 110. 110 ರಿಂದ 110 ಕಳೆದರೆ ಶೇಷ ಸೊನ್ನೆ. ಹಾಗಾಗಿ, ನಮ್ಮ ಉತ್ತರ 40.5.",
+  "script_display": "ಈಗ ಮೂರನೇ ಹಂತ, ಅಂದರೆ ಸಾಮಾನ್ಯ ಭಾಗಾಕಾರವನ್ನು ಮಾಡೋಣ. ನಾವು $891$ ಅನ್ನು $22$ ರಿಂದ ಭಾಗಿಸಬೇಕು. ಮೊದಲು $89$ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. $22 \\times 4 = 88$. $89 - 88 = 1$. ಈಗ $1$ ಅನ್ನು ಕೆಳಗೆ ಇಳಿಸಿದರೆ, ನಮ್ಮ ಸಂಖ್ಯೆ $11$ ಆಗುತ್ತದೆ. $11$ ಎಂಬುದು $22$ ಕ್ಕಿಂತ ಚಿಕ್ಕದಾಗಿರುವುದರಿಂದ, ನಾವು ಭಾಗಲಬ್ಧದಲ್ಲಿ $0$ ಬರೆಯುತ್ತೇವೆ. ನಂತರ ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಇಟ್ಟು, $11$ ರ ಪಕ್ಕ ಒಂದು ಸೊನ್ನೆಯನ್ನು ಸೇರಿಸಿದರೆ $110$ ಆಗುತ್ತದೆ. $22 \\times 5 = 110$. $110 - 110 = 0$. ಹಾಗಾಗಿ, ನಮ್ಮ ಉತ್ತರ $40.5$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A step-by-step visual representation of the long division of 891 by 22. It should show: 1. 89 divided by 22 is 4 with a remainder of 1. 2. Bring down 1 to make 11. 3. 11 divided by 22 is 0. 4. Add a decimal point and a zero to make 110. 5. 110 divided by 22 is 5. The final quotient is 40.5.",
+    "labels": "ಭಾಜ್ಯ (Dividend), ಭಾಜಕ (Divisor), ಭಾಗಲಬ್ಧ (Quotient), ಶೇಷ (Remainder)",
+    "mathematical_significance": "Illustrates the standard algorithm for long division, which is a fundamental arithmetic skill.",
+    "placeholder_note": "Image to be generated showing the long division of 891 by 22."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-FRA-1_example_11",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$891 \\div 22 = 40.5$",
+      "justification": "ಸಾಮಾನ್ಯ ಭಾಗಾಕಾರ ಮಾಡುವುದು."
+    }
+  ],
+  "chunk_id": "NS-FRA-1_concept_8_chunk_007"
+}

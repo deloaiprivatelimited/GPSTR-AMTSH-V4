@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಉಪಕರಣಗಳ ಜೋಡಣೆ",
+  "script": "ಈಗ ನಾವು ಸರಳ ಲೋಲಕದ ಆವರ್ತನಾವಧಿಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಒಂದು ಸರಳ ಪ್ರಯೋಗವನ್ನು ಮಾಡೋಣ. ಇದಕ್ಕಾಗಿ ನಮಗೆ ಬೇಕಾದ ಉಪಕರಣಗಳನ್ನು ಮೊದಲು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ದೃಢವಾದ ಆಧಾರಸ್ತಂಭ ಬೇಕು. ನಂತರ, ಸುಮಾರು ಒಂದು ಮೀಟರ್ ಉದ್ದದ ಒಂದು ದಾರ ಅಥವಾ ನೂಲನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಆ ದಾರದ ಒಂದು ತುದಿಗೆ, ನಾವು ಒಂದು ಸಣ್ಣ ಲೋಹದ ಗುಂಡನ್ನು ಕಟ್ಟಬೇಕು, ಇದನ್ನು 'ಬಾಬ್' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಅಂತಿಮವಾಗಿ, ಸಮಯವನ್ನು ನಿಖರವಾಗಿ ಅಳೆಯಲು ನಮಗೆ ಒಂದು ನಿಲ್ಲಿಸುವ ಗಡಿಯಾರ, ಅಂದರೆ ಸ್ಟಾಪ್‌ವಾಚ್ ಬೇಕಾಗುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಈ ಎಲ್ಲಾ ಉಪಕರಣಗಳನ್ನು ಜೋಡಿಸಿಕೊಳ್ಳಬೇಕು.",
+  "script_display": "ಈಗ ನಾವು ಸರಳ ಲೋಲಕದ ಆವರ್ತನಾವಧಿಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಒಂದು ಸರಳ ಪ್ರಯೋಗವನ್ನು ಮಾಡೋಣ. ಇದಕ್ಕಾಗಿ ನಮಗೆ ಬೇಕಾದ ಉಪಕರಣಗಳನ್ನು ಮೊದಲು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ದೃಢವಾದ ಆಧಾರಸ್ತಂಭ (stand) ಬೇಕು. ನಂತರ, ಸುಮಾರು 1 ಮೀಟರ್ ಉದ್ದದ ಒಂದು ದಾರ ಅಥವಾ ನೂಲನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಆ ದಾರದ ಒಂದು ತುದಿಗೆ, ನಾವು ಒಂದು ಸಣ್ಣ ಲೋಹದ ಗುಂಡನ್ನು (bob) ಕಟ್ಟಬೇಕು. ಅಂತಿಮವಾಗಿ, ಸಮಯವನ್ನು ನಿಖರವಾಗಿ ಅಳೆಯಲು ನಮಗೆ ಒಂದು ನಿಲ್ಲಿಸುವ ಗಡಿಯಾರ (stopwatch) ಬೇಕಾಗುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಈ ಎಲ್ಲಾ ಉಪಕರಣಗಳನ್ನು ಜೋಡಿಸಿಕೊಳ್ಳಬೇಕು.",
+  "display_bullets": [
+    "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು:",
+    "ಆಧಾರಸ್ತಂಭ (Stand)",
+    "ಸುಮಾರು 1 ಮೀಟರ್ ಉದ್ದದ ದಾರ",
+    "ಸಣ್ಣ ಲೋಹದ ಗುಂಡು (Bob)",
+    "ನಿಲ್ಲಿಸುವ ಗಡಿಯಾರ (Stopwatch)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the experimental setup for a simple pendulum. A metal bob is suspended by a thread from a rigid stand. A stopwatch is shown nearby.",
+    "labels": "ಆಧಾರಸ್ತಂಭ, ದಾರ, ಲೋಹದ ಗುಂಡು (ಬಾಬ್), ವಿರಾಮ ಸ್ಥಾನ",
+    "scientific_significance": "Illustrates the standard apparatus for studying the motion of a simple pendulum and measuring its time period.",
+    "placeholder_note": "Image to be generated: A clear, labeled diagram of a simple pendulum setup."
+  },
+  "chunk_id": "std_7_science_ch_9_concept_3_chunk_020"
+}

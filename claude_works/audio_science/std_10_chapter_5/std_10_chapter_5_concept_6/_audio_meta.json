@@ -1,0 +1,48 @@
+{
+  "module_id": "std_10_chapter_5_concept_6",
+  "chapter_code": "std_10_chapter_5",
+  "voice": "Fenrir",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 3,
+  "ok_count": 3,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:13:33",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "2a2f71caef5220c4a91a50d515377466",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 29.291,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 38,
+      "generated_at": "2026-04-02 12:13:00"
+    },
+    "003_recap_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "0a4bd7ddf5b62d0d80cf418a9045a6f1",
+      "wav_file": "003_recap_0.wav",
+      "duration": 38.891,
+      "slide_title": "ಸಾರಾಂಶ: ಮಾನವನ ಶ್ವಾಸಕಾಂಗವ್ಯೂಹ",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-04-02 12:13:17"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "c4635c01a740e9e7d38aa985bb0e21bc",
+      "wav_file": "001_intro_0.wav",
+      "duration": 59.651,
+      "slide_title": "ಮಾನವನ ಶ್ವಾಸಕಾಂಗವ್ಯೂಹ",
+      "type": "intro",
+      "script_words": 88,
+      "generated_at": "2026-04-02 12:13:33"
+    }
+  }
+}

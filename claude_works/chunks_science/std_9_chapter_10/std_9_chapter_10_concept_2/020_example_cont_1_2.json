@@ -1,0 +1,50 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಈಗ ನಮ್ಮ ಬಳಿ ಬಲ ಮತ್ತು ಸ್ಥಾನಪಲ್ಲಟ ಎರಡೂ ಇವೆ. ಮೂರನೇ ಹಂತ, ಮಾಡಿದ ಕೆಲಸವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಕೆಲಸದ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು. ಸೂತ್ರ W equals F times s. ನಾಲ್ಕನೇ ಹಂತ, ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರ. ನಾವು ಈಗಾಗಲೇ ಬಲ F ಅನ್ನು 150 ನ್ಯೂಟನ್ ಮತ್ತು ಸ್ಥಾನಪಲ್ಲಟ s ಅನ್ನು 1.5 ಮೀಟರ್ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಈ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿದಾಗ, W equals 150 ನ್ಯೂಟನ್ ಗುಣಿಸು 1.5 ಮೀಟರ್. ಇವೆರಡನ್ನೂ ಗುಣಿಸಿದಾಗ, ನಮಗೆ 225 ನ್ಯೂಟನ್ ಮೀಟರ್ ಸಿಗುತ್ತದೆ. ಒಂದು ನ್ಯೂಟನ್ ಮೀಟರ್ ಒಂದು ಜೂಲ್ ಗೆ ಸಮ. ಆದ್ದರಿಂದ, ಮಾಡಿದ ಕೆಲಸ 225 ಜೂಲ್ ಆಗಿದೆ.",
+  "script_display": "**ಹಂತ 3: ಕೆಲಸದ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು.**\nಸೂತ್ರ: W = F × s\n\n**ಹಂತ 4: ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರ.**\nW = 150 N × 1.5 m\nW = 225 Nm\n(1 Nm = 1 J)\nW = 225 J",
+  "display_bullets": [
+    "ಹಂತ 3: ಕೆಲಸದ ಸೂತ್ರವನ್ನು ಬಳಸಿ: W = F × s",
+    "ಹಂತ 4: ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸಿ ಮತ್ತು ಲೆಕ್ಕ ಮಾಡಿ.",
+    "W = 150 N × 1.5 m = 225 J"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_step_walkthrough_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "W = F \\times s",
+    "placeholder_note": "Formula for Work Done"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_10_example_2",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಕೆಲಸದ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು.",
+      "justification": "W = F × s"
+    },
+    {
+      "step": 4,
+      "action_display": "ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರ.",
+      "justification": "ಗುಣಲಬ್ಧವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_10_concept_2_chunk_020"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಂಗಾಂಶ ಕೃಷಿ: ಪ್ರಕ್ರಿಯೆ",
+  "script": "ಈ ಚಿತ್ರದಲ್ಲಿ ಅಂಗಾಂಶ ಕೃಷಿಯ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ತಾಯಿ ಸಸ್ಯದ ತುದಿಯಿಂದ ಒಂದು ಸಣ್ಣ ಅಂಗಾಂಶದ ತುಂಡನ್ನು, ಅಂದರೆ ಎಕ್ಸ್‌ಪ್ಲಾಂಟ್ ಅನ್ನು ಪಡೆಯಲಾಗುತ್ತದೆ. ನಂತರ, ಇದನ್ನು ಪೋಷಕಾಂಶಗಳು ಮತ್ತು ಹಾರ್ಮೋನುಗಳನ್ನು ಹೊಂದಿರುವ ಜೆಲ್ಲಿಯಂತಹ ಮಾಧ್ಯಮದಲ್ಲಿ ಇಡಲಾಗುತ್ತದೆ. ಈ ಜೀವಕೋಶಗಳು ವಿಭಜನೆಗೊಂಡು 'ಕ್ಯಾಲಸ್' ಎಂಬ ವಿಭೇದೀಕರಣಗೊಳ್ಳದ ಜೀವಕೋಶಗಳ ಗುಂಪನ್ನು ರೂಪಿಸುತ್ತವೆ. ಈ ಕ್ಯಾಲಸ್ ಅನ್ನು ನಂತರ ಬೇರು ಮತ್ತು ಕಾಂಡಗಳನ್ನು ಬೆಳೆಸುವ ಹಾರ್ಮೋನುಗಳಿರುವ ಇನ್ನೊಂದು ಮಾಧ್ಯಮಕ್ಕೆ ವರ್ಗಾಯಿಸಲಾಗುತ್ತದೆ. ಇದರಿಂದ ಸಣ್ಣ ಸಸ್ಯಗಳು, ಅಂದರೆ ಪ್ಲಾಂಟ್ಲೆಟ್ಸ್ ಬೆಳೆಯುತ್ತವೆ. ಅಂತಿಮವಾಗಿ, ಈ ಸಣ್ಣ ಸಸ್ಯಗಳನ್ನು ಮಣ್ಣಿಗೆ ವರ್ಗಾಯಿಸಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಚಿತ್ರದಲ್ಲಿ ಅಂಗಾಂಶ ಕೃಷಿಯ ಹಂತಗಳನ್ನು ನೋಡಬಹುದು. 1. ತಾಯಿ ಸಸ್ಯದಿಂದ ಎಕ್ಸ್‌ಪ್ಲಾಂಟ್ (explant) ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು. 2. ಪೋಷಕಾಂಶ ಮಾಧ್ಯಮದಲ್ಲಿ ಇಡುವುದು. 3. ಜೀವಕೋಶಗಳು ವಿಭಜನೆಗೊಂಡು 'ಕ್ಯಾಲಸ್' (callus) ಎಂಬ ವಿಭೇದೀಕರಣಗೊಳ್ಳದ ಜೀವಕೋಶಗಳ ಗುಂಪನ್ನು ರೂಪಿಸುತ್ತವೆ. 4. ಕ್ಯಾಲಸ್‌ನಿಂದ ಸಣ್ಣ ಸಸ್ಯಗಳು (plantlets) ಬೆಳೆಯುತ್ತವೆ. 5. ಸಣ್ಣ ಸಸ್ಯಗಳನ್ನು ಮಣ್ಣಿಗೆ ವರ್ಗಾಯಿಸಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ತಾಯಿ ಸಸ್ಯದಿಂದ ಎಕ್ಸ್‌ಪ್ಲಾಂಟ್ (explant) ಅನ್ನು ಪಡೆಯುವುದು.",
+    "ಪೋಷಕಾಂಶ ಮಾಧ್ಯಮದಲ್ಲಿ 'ಕ್ಯಾಲಸ್' (callus) ರಚನೆ.",
+    "ಕ್ಯಾಲಸ್‌ನಿಂದ ಸಣ್ಣ ಸಸ್ಯಗಳ (plantlets) ಬೆಳವಣಿಗೆ.",
+    "ಸಸ್ಯಗಳನ್ನು ಮಣ್ಣಿಗೆ ವರ್ಗಾಯಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A step-by-step diagram illustrating the process of tissue culture. Step 1: An explant is taken from a parent plant. Step 2: The explant is placed in a test tube containing nutrient agar medium. Step 3: The cells divide and form a callus. Step 4: The callus differentiates and develops into a small plantlet. Step 5: The plantlet is transferred to a pot with soil.",
+    "labels": "Parent Plant, Explant, Nutrient Medium, Callus, Plantlet, Soil",
+    "scientific_significance": "Demonstrates the concept of totipotency in plant cells, where a small piece of tissue can regenerate into a whole organism under controlled laboratory conditions.",
+    "placeholder_note": "Image to be generated showing the 5 steps of tissue culture."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_7_concept_4_chunk_008"
+}

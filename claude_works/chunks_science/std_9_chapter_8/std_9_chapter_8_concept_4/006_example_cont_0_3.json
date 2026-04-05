@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ಒಟ್ಟಿಗೆ ನೋಡೋಣ. ವಸ್ತುವಿನ ಮೇಲೆ ಪ್ರಯೋಗಿಸಿದ ಬಲದ ಮೌಲ್ಯ 10 ನ್ಯೂಟನ್. ಮತ್ತು, ಇದೇ ಬಲವು 5 ಸೆಕೆಂಡುಗಳ ಕಾಲ ವರ್ತಿಸಿದಾಗ, ವಸ್ತುವಿನ ಅಂತಿಮ ವೇಗ 13 ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್ ಆಗಿರುತ್ತದೆ. ಈ ರೀತಿ ನಾವು ನ್ಯೂಟನ್'ರ ಎರಡನೇ ನಿಯಮವನ್ನು ಬಳಸಿ ಎರಡು ಹಂತದ ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಬಹುದು.",
+  "script_display": "ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರಗಳು:",
+  "display_bullets": [
+    "ಪ್ರಯೋಗಿಸಿದ ಬಲ (Force): 10 N",
+    "5s ನಂತರದ ಅಂತಿಮ ವೇಗ (Final Velocity): 13 m/s"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಬಲ (F)} = 10 \\text{ N} \\\\ \\text{ಅಂತಿಮ ವೇಗ (v, at t=5s)} = 13 \\text{ m/s}",
+    "placeholder_note": "A box highlighting the final answers for both parts of the problem."
+  },
+  "sub_type": "key_takeaway",
+  "source_example_id": "std_9_chapter_8_example_8.1",
+  "final_answer": "ಪ್ರಯೋಗಿಸಿದ ಬಲ 10 N. 5 ಸೆಕೆಂಡುಗಳ ನಂತರ ಅಂತಿಮ ವೇಗ 13 m/s.",
+  "final_answer_display": "F = 10 N, v (at t=5s) = 13 m/s",
+  "chunk_id": "std_9_chapter_8_concept_4_chunk_006"
+}

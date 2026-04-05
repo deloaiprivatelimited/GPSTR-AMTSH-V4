@@ -1,0 +1,180 @@
+{
+  "module_id": "std_6_chapter_3_concept_4",
+  "chapter_code": "std_6_chapter_3",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 15,
+  "ok_count": 15,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:46:23",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "9597a2d18d83bd0d704effab58d2ec5c",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 22.531,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisite",
+      "script_words": 33,
+      "generated_at": "2026-04-02 12:43:34"
+    },
+    "003_experiment_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "7154f60a04b381d6a207258b0dc0c80b",
+      "wav_file": "003_experiment_0.wav",
+      "duration": 38.771,
+      "slide_title": "ಪ್ರಯೋಗ: ಆಹಾರದಲ್ಲಿ ಪಿಷ್ಟದ ಪರೀಕ್ಷೆ",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 12:43:42"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "9141dbc15ad93780eb9073d85ef76212",
+      "wav_file": "001_intro_0.wav",
+      "duration": 55.091,
+      "slide_title": "ಆಹಾರದಲ್ಲಿನ ಪೋಷಕಾಂಶಗಳಿಗಾಗಿ ಸರಳ ಪರೀಕ್ಷೆಗಳು",
+      "type": "intro",
+      "script_words": 75,
+      "generated_at": "2026-04-02 12:43:50"
+    },
+    "005_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "acaa3b615e02e4f32322429fba3f1595",
+      "wav_file": "005_experiment_cont_0_2.wav",
+      "duration": 39.211,
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 12:44:04"
+    },
+    "006_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "0e032ac22f765ac7a410073bcbd16637",
+      "wav_file": "006_experiment_cont_0_3.wav",
+      "duration": 45.371,
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 12:44:08"
+    },
+    "007_experiment_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "517455443df6779bad3fca593997064d",
+      "wav_file": "007_experiment_1.wav",
+      "duration": 32.571,
+      "slide_title": "ಕೊಬ್ಬಿನ ಪರೀಕ್ಷೆ: ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 12:44:42"
+    },
+    "004_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "1a880f68db0e16b080effd98eaf76168",
+      "wav_file": "004_experiment_cont_0_1.wav",
+      "duration": 36.411,
+      "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 12:44:43"
+    },
+    "010_experiment_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "96b366c39b8635ef9ec200862cef7c54",
+      "wav_file": "010_experiment_2.wav",
+      "duration": 41.131,
+      "slide_title": "ಪ್ರೋಟೀನ್ ಪರೀಕ್ಷೆ: ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 12:44:47"
+    },
+    "009_experiment_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "81a71bbe27d4559885269405578fed78",
+      "wav_file": "009_experiment_cont_1_2.wav",
+      "duration": 35.891,
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 12:45:05"
+    },
+    "008_experiment_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "67bb179774e68f42d8f6be20165d4401",
+      "wav_file": "008_experiment_cont_1_1.wav",
+      "duration": 33.251,
+      "slide_title": "ಕೊಬ್ಬಿನ ಪರೀಕ್ಷೆ: ವಿಧಾನ",
+      "type": "concept_explanation",
+      "script_words": 45,
+      "generated_at": "2026-04-02 12:45:08"
+    },
+    "013_experiment_cont_2_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "ca48c0d4833ce83a98d046bccbf4e008",
+      "wav_file": "013_experiment_cont_2_3.wav",
+      "duration": 32.491,
+      "slide_title": "ಗಮನಿಸಿದ ಅಂಶ (Observation)",
+      "type": "concept_explanation",
+      "script_words": 44,
+      "generated_at": "2026-04-02 12:45:38"
+    },
+    "012_experiment_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "623785008fa010498cece85db6b31d14",
+      "wav_file": "012_experiment_cont_2_2.wav",
+      "duration": 32.571,
+      "slide_title": "ಪ್ರೋಟೀನ್ ಪರೀಕ್ಷೆ: ವಿಧಾನ (ಹಂತ 3-4)",
+      "type": "concept_explanation",
+      "script_words": 45,
+      "generated_at": "2026-04-02 12:45:40"
+    },
+    "015_recap_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "30532af5e0ed2989c240dfc629e03656",
+      "wav_file": "015_recap_0.wav",
+      "duration": 55.371,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 63,
+      "generated_at": "2026-04-02 12:45:51"
+    },
+    "014_experiment_cont_2_4.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "c4e4d2ffc8e00c46df09bdc09ff7e5b8",
+      "wav_file": "014_experiment_cont_2_4.wav",
+      "duration": 40.491,
+      "slide_title": "ತೀರ್ಮಾನ (Conclusion)",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 12:46:08"
+    },
+    "011_experiment_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "d152c86ac5841b4952676591bf6914c9",
+      "wav_file": "011_experiment_cont_2_1.wav",
+      "duration": 35.491,
+      "slide_title": "ಪ್ರೋಟೀನ್ ಪರೀಕ್ಷೆ: ವಿಧಾನ (ಹಂತ 1-2)",
+      "type": "concept_explanation",
+      "script_words": 49,
+      "generated_at": "2026-04-02 12:46:23"
+    }
+  }
+}

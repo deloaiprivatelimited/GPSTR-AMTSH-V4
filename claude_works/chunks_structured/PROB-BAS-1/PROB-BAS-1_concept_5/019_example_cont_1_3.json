@@ -1,0 +1,33 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಹೆಲಿಕಾಪ್ಟರ್ ಕೆರೆಯೊಳಕ್ಕೆ ಅಪ್ಪಳಿಸುವ ಸಂಭವನೀಯತೆಯು ಐದರ ಭಾಗಿಸು ಇಪ್ಪತ್ತೇಳು ಆಗಿದೆ. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಹೆಲಿಕಾಪ್ಟರ್ ಕೆರೆಯೊಳಕ್ಕೆ ಅಪ್ಪಳಿಸುವ ಸಂಭವನೀಯತೆಯು $\\frac{5}{27}$ ಆಗಿದೆ. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "display_bullets": [
+    "ಹೆಲಿಕಾಪ್ಟರ್ ಕೆರೆಯೊಳಕ್ಕೆ ಅಪ್ಪಳಿಸುವ ಸಂಭವನೀಯತೆ $\\frac{5}{27}$."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "advanced",
+  "source_example_id": "PROB-BAS-1_example_11",
+  "final_answer": "5/27",
+  "final_answer_display": "$\\frac{5}{27}$",
+  "chunk_id": "PROB-BAS-1_concept_5_chunk_019"
+}

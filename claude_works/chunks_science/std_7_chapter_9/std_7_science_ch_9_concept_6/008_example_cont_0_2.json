@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಮುಂದಿನ ಹಂತ, ಮೂರನೆಯದು. ಇಲ್ಲಿ ನಾವು ಜವವನ್ನು ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ನಿಮಿಷದಲ್ಲಿ ಲೆಕ್ಕ ಹಾಕುತ್ತೇವೆ. ಜವದ ಸೂತ್ರ ನಮಗೆ ಗೊತ್ತಿದೆ, ಜವ ಈಕ್ವಲ್ಸ್ ದೂರ ಭಾಗಿಸು ಕಾಲ. ನಾವು ಕಂಡುಹಿಡಿದ ದೂರ 15 ಕಿಲೋಮೀಟರ್ ಮತ್ತು ತೆಗೆದುಕೊಂಡ ಸಮಯ 20 ನಿಮಿಷಗಳು. ಹಾಗಾಗಿ, ಜವ ಈಕ್ವಲ್ಸ್ 15 ಭಾಗಿಸು 20, ಇದು ನಮಗೆ 0.75 ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ನಿಮಿಷ ಎಂದು ಉತ್ತರ ಕೊಡುತ್ತದೆ.",
+  "script_display": "",
+  "display_bullets": [
+    "**ಹಂತ 3: ಜವವನ್ನು km/min ನಲ್ಲಿ ಲೆಕ್ಕ ಹಾಕಿ.**",
+    "ಜವದ ಸೂತ್ರ: ಜವ = ದೂರ / ಕಾಲ",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: ಜವ = 15 km / 20 min",
+    "ಉತ್ತರ: ಜವ = **0.75 km/min**"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_7_science_ch_9_example_2",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಜವವನ್ನು km/min ನಲ್ಲಿ ಲೆಕ್ಕ ಹಾಕಿ. ಜವ = ದೂರ / ಕಾಲ = 15 km / 20 min = 0.75 km/min",
+      "justification": "ಜವದ ಮೂಲ ಸೂತ್ರವನ್ನು ಬಳಸಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡಲಾಗಿದೆ."
+    }
+  ],
+  "chunk_id": "std_7_science_ch_9_concept_6_chunk_008"
+}

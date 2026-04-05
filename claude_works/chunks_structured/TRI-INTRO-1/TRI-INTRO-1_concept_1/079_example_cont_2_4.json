@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪ್ರಮುಖ ತೀರ್ಮಾನ",
+  "script": "ಹೀಗೆ, ನಾವು ಕೋನ ಬಿ ಮತ್ತು ಕೋನ ಕ್ಯೂ ಲಘುಕೋನಗಳಾಗಿದ್ದು, ಸೈನ್ ಬಿ ಯು ಸೈನ್ ಕ್ಯೂ ಗೆ ಸಮವಾಗಿದ್ದರೆ, ಆಗ ಕೋನ ಬಿ ಯು ಕೋನ ಕ್ಯೂ ಗೆ ಸಮವಾಗಿರುತ್ತದೆ ಎಂದು ಯಶಸ್ವಿಯಾಗಿ ಸಾಧಿಸಿದ್ದೇವೆ. ಈ ಸಾಧನೆಯು ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳು ಮತ್ತು ತ್ರಿಭುಜಗಳ ಸಮರೂಪತೆಯ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ನಾವು $\\angle B$ ಮತ್ತು $\\angle Q$ ಲಘುಕೋನಗಳಾಗಿದ್ದು, $\\sin B = \\sin Q$ ಆಗಿದ್ದರೆ, ಆಗ $\\angle B = \\angle Q$ ಆಗಿರುತ್ತದೆ ಎಂದು ಯಶಸ್ವಿಯಾಗಿ ಸಾಧಿಸಿದ್ದೇವೆ. ಈ ಸಾಧನೆಯು ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳು ಮತ್ತು ತ್ರಿಭುಜಗಳ ಸಮರೂಪತೆಯ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ $\\sin B = \\sin Q$ ನಿಂದ ನಾವು ಬಾಹುಗಳ ಅನುಪಾತಗಳು ಸಮ ಎಂದು ತೋರಿಸಿದ್ದೇವೆ.",
+    "ಬಾ.ಬಾ.ಬಾ. ಸಮರೂಪತೆಯಿಂದ ತ್ರಿಭುಜಗಳು ಸಮರೂಪಿ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ.",
+    "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುವುದರಿಂದ $\\angle B = \\angle Q$ ಎಂದು ತೀರ್ಮಾನಿಸಿದ್ದೇವೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸಾಧಿಸಲಾಗಿದೆ: } \\angle B = \\angle Q",
+    "placeholder_note": "Final result in a highlighted box"
+  },
+  "source_example_id": "TRI-INTRO-1_example_2",
+  "steps": [],
+  "final_answer": "$\\angle B = \\angle Q$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "$\\angle B = \\angle Q$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_079"
+}

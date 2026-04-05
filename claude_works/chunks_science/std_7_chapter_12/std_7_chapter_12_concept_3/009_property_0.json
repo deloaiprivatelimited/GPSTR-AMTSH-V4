@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಹಾರ ಸರಪಳಿಯ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಕಾಡಿನಲ್ಲಿ ಕಂಡುಬರುವ ಒಂದು ವಿಶಿಷ್ಟ ಆಹಾರ ಸರಪಳಿಯ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪರದೆಯ ಮೇಲೆ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ಈ ಸರಪಳಿಯು 'ಹುಲ್ಲು, ನಂತರ ಕೀಟ, ನಂತರ ಕಪ್ಪೆ, ನಂತರ ಹಾವು, ಮತ್ತು ಕೊನೆಗೆ ಹದ್ದು' ಎಂದು ಸಾಗುತ್ತದೆ. ಈ ಸರಪಳಿಯು ಹುಲ್ಲಿನಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ. ಹುಲ್ಲು ಉತ್ಪಾದಕವಾಗಿದೆ. ಕೀಟವು ಹುಲ್ಲನ್ನು ತಿನ್ನುತ್ತದೆ, ಹೀಗಾಗಿ ಅದು ಪ್ರಾಥಮಿಕ ಗ್ರಾಹಕ. ಮುಂದೆ, ಕಪ್ಪೆಯು ಕೀಟವನ್ನು ತಿನ್ನುತ್ತದೆ, ಅದು ದ್ವಿತೀಯ ಗ್ರಾಹಕ. ನಂತರ, ಹಾವು ಕಪ್ಪೆಯನ್ನು ಬೇಟೆಯಾಡುತ್ತದೆ, ಅದು ತೃತೀಯ ಗ್ರಾಹಕ. ಅಂತಿಮವಾಗಿ, ಆಹಾರ ಸರಪಳಿಯ ತುದಿಯಲ್ಲಿರುವ ಹದ್ದು, ಹಾವನ್ನು ತಿನ್ನುತ್ತದೆ. ಇದು ಶಕ್ತಿಯು ಒಂದು ಜೀವಿಯಿಂದ ಇನ್ನೊಂದಕ್ಕೆ ಹೇಗೆ ಹರಿಯುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುವ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "script_display": "ಕಾಡಿನಲ್ಲಿ ಕಂಡುಬರುವ ಒಂದು ವಿಶಿಷ್ಟ ಆಹಾರ ಸರಪಳಿಯ ಉದಾಹರಣೆ. ಈ ಸರಪಳಿಯು ಪರಿಸರ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಶಕ್ತಿಯು ಒಂದು ಜೀವಿಯಿಂದ ಇನ್ನೊಂದಕ್ಕೆ ಹೇಗೆ ವರ್ಗಾವಣೆಯಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. ಪ್ರತಿ ಹಂತವನ್ನು ಟ್ರೋಫಿಕ್ ಮಟ್ಟ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. \n\nಹುಲ್ಲು → ಕೀಟ → ಕಪ್ಪೆ → ಹಾವು → ಹದ್ದು\n\n* **ಉತ್ಪಾದಕ (Producer):** ಹುಲ್ಲು\n* **ಪ್ರಾಥಮಿಕ ಗ್ರಾಹಕ (Primary Consumer):** ಕೀಟ\n* **ದ್ವಿತೀಯ ಗ್ರಾಹಕ (Secondary Consumer):** ಕಪ್ಪೆ\n* **ತೃತೀಯ ಗ್ರಾಹಕ (Tertiary Consumer):** ಹಾವು\n* **ಉನ್ನತ ಗ್ರಾಹಕ (Apex Consumer):** ಹದ್ದು",
+  "display_bullets": [
+    "ಹುಲ್ಲು → ಕೀಟ → ಕಪ್ಪೆ → ಹಾವು → ಹದ್ದು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple food chain diagram showing the flow of energy. It starts with grass, an arrow points to an insect, then to a frog, then to a snake, and finally to an eagle at the top. Each organism should be clearly illustrated with its Kannada label.",
+    "labels": "ಹುಲ್ಲು (ಉತ್ಪಾದಕ), ಕೀಟ (ಪ್ರಾಥಮಿಕ ಗ್ರಾಹಕ), ಕಪ್ಪೆ (ದ್ವಿತೀಯ ಗ್ರಾಹಕ), ಹಾವು (ತೃತೀಯ ಗ್ರಾಹಕ), ಹದ್ದು (ಉನ್ನತ ಗ್ರಾಹಕ)",
+    "scientific_significance": "Illustrates a linear pathway of energy transfer in an ecosystem, defining trophic levels from producer to apex consumer.",
+    "placeholder_note": "Image to be generated showing the food chain: Grass -> Insect -> Frog -> Snake -> Eagle"
+  },
+  "sub_type": "property_classification",
+  "chunk_id": "std_7_chapter_12_concept_3_chunk_009"
+}

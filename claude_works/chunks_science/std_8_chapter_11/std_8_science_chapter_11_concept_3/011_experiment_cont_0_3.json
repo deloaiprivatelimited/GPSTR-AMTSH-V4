@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಗಮನಿಸಿದ ಅಂಶ: ಆಸವಿತ ನೀರು",
+  "script": "ನಾವು ಗಮನಿಸಿದಂತೆ, ಪರೀಕ್ಷಕವನ್ನು ಆಸವಿತ ನೀರಿನಲ್ಲಿ ಇಟ್ಟಾಗ ಎಲ್ ಇ ಡಿ ಬಲ್ಬ್ ಬೆಳಗುವುದಿಲ್ಲ. ಇದು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ? ಇದರರ್ಥ, ಆಸವಿತ ನೀರು ವಿದ್ಯುತ್‌ನ್ನು ತನ್ನ ಮೂಲಕ ಹರಿಯಲು ಬಿಡುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, ನಾವು ಒಂದು ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು: ಆಸವಿತ ನೀರು ವಿದ್ಯುತ್‌ನ ದುರ್ಬಲ ವಾಹಕವಾಗಿದೆ. ಇದಕ್ಕೆ ಮುಖ್ಯ ಕಾರಣವೇನೆಂದರೆ, ವಿದ್ಯುತ್ ಪ್ರವಾಹಕ್ಕೆ ಅಗತ್ಯವಾದ ಮುಕ್ತ ಅಯಾನುಗಳು ಅಥವಾ ಲವಣಗಳು ಇದರಲ್ಲಿ ಇರುವುದಿಲ್ಲ. ಶುದ್ಧ ನೀರು ವಾಸ್ತವವಾಗಿ ಒಂದು ಅವಾಹಕದಂತೆ ವರ್ತಿಸುತ್ತದೆ.",
+  "script_display": "ನಾವು ಗಮನಿಸಿದಂತೆ, ಪರೀಕ್ಷಕವನ್ನು ಆಸವಿತ ನೀರಿನಲ್ಲಿ ಇಟ್ಟಾಗ LED ಬಲ್ಬ್ ಬೆಳಗುವುದಿಲ್ಲ. ಇದು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ? ಇದರರ್ಥ, ಆಸವಿತ ನೀರು ವಿದ್ಯುತ್‌ನ್ನು ತನ್ನ ಮೂಲಕ ಹರಿಯಲು ಬಿಡುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ, ನಾವು ಒಂದು ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು: ಆಸವಿತ ನೀರು ವಿದ್ಯುತ್‌ನ ದುರ್ಬಲ ವಾಹಕವಾಗಿದೆ. ಇದಕ್ಕೆ ಮುಖ್ಯ ಕಾರಣವೇನೆಂದರೆ, ವಿದ್ಯುತ್ ಪ್ರವಾಹಕ್ಕೆ ಅಗತ್ಯವಾದ ಮುಕ್ತ ಅಯಾನುಗಳು ಅಥವಾ ಲವಣಗಳು ಇದರಲ್ಲಿ ಇರುವುದಿಲ್ಲ. ಶುದ್ಧ ನೀರು ವಾಸ್ತವವಾಗಿ ಒಂದು ಅವಾಹಕದಂತೆ ವರ್ತಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಗಮನಿಸಿದ ಅಂಶ: LED ಬಲ್ಬ್ ಬೆಳಗುವುದಿಲ್ಲ.",
+    "ತೀರ್ಮಾನ: ಆಸವಿತ ನೀರು ವಿದ್ಯುತ್‌ನ ದುರ್ಬಲ ವಾಹಕ.",
+    "ಕಾರಣ: ಇದರಲ್ಲಿ ವಿದ್ಯುತ್ ಹರಿಯಲು ಬೇಕಾದ ಮುಕ್ತ ಲವಣಗಳು ಅಥವಾ ಅಯಾನುಗಳು ಇರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_a",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up of the LED from the tester, clearly showing it is off. A text box next to it says 'ದುರ್ಬಲ ವಾಹಕ' (Poor Conductor).",
+    "labels": "LED (Off), Poor Conductor",
+    "scientific_significance": "Visually represents the observation that distilled water is a poor conductor of electricity.",
+    "placeholder_note": "Image to be generated showing the result for distilled water."
+  },
+  "sub_type": "observation_conclusion",
+  "chunk_id": "std_8_science_chapter_11_concept_3_chunk_011"
+}

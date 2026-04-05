@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "dᵢ vs uᵢ: ಯಾವುದು ಸುಲಭ?",
+  "script": "ಹಿಂದಿನ ಉದಾಹರಣೆಯಲ್ಲಿನ d i ಮತ್ತು u i ಮೌಲ್ಯಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡೋಣ. d i ಕಾಲಂನಲ್ಲಿ ನಮಗೆ ಮೈನಸ್ 20, ಮೈನಸ್ 10, 0, 10 ರಂತಹ ಸಂಖ್ಯೆಗಳಿದ್ದವು. ಇವು ತುಲನಾತ್ಮಕವಾಗಿ ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳು. ಆದರೆ u i ಕಾಲಂನಲ್ಲಿ, ನಮಗೆ ಮೈನಸ್ 2, ಮೈನಸ್ 1, 0, 1 ರಂತಹ ಅತ್ಯಂತ ಚಿಕ್ಕ ಮತ್ತು ಸರಳ ಪೂರ್ಣಾಂಕಗಳು ಸಿಕ್ಕಿವೆ. ಲೆಕ್ಕಾಚಾರ ಮಾಡುವಾಗ, f i ಅನ್ನು ಈ ಚಿಕ್ಕ u i ಮೌಲ್ಯಗಳೊಂದಿಗೆ ಗುಣಿಸುವುದು, ದೊಡ್ಡ d i ಮೌಲ್ಯಗಳೊಂದಿಗೆ ಗುಣಿಸುವುದಕ್ಕಿಂತ ಹೆಚ್ಚು ಸುಲಭ ಮತ್ತು ವೇಗವಾಗಿರುತ್ತದೆ. ಇದೇ ಹಂತ ವಿಚಲನಾ ವಿಧಾನದ ಶಕ್ತಿ.",
+  "script_display": "ಹಿಂದಿನ ಉದಾಹರಣೆಯಲ್ಲಿನ $d_i$ ಮತ್ತು $u_i$ ಮೌಲ್ಯಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡೋಣ. $d_i$ ಕಾಲಂನಲ್ಲಿ ನಮಗೆ -20, -10, 0, 10 ರಂತಹ ಸಂಖ್ಯೆಗಳಿದ್ದವು. ಇವು ತುಲನಾತ್ಮಕವಾಗಿ ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳು. ಆದರೆ $u_i$ ಕಾಲಂನಲ್ಲಿ, ನಮಗೆ -2, -1, 0, 1 ರಂತಹ ಅತ್ಯಂತ ಚಿಕ್ಕ ಮತ್ತು ಸರಳ ಪೂರ್ಣಾಂಕಗಳು ಸಿಕ್ಕಿವೆ. ಲೆಕ್ಕಾಚಾರ ಮಾಡುವಾಗ, $f_i$ ಅನ್ನು ಈ ಚಿಕ್ಕ $u_i$ ಮೌಲ್ಯಗಳೊಂದಿಗೆ ಗುಣಿಸುವುದು, ದೊಡ್ಡ $d_i$ ಮೌಲ್ಯಗಳೊಂದಿಗೆ ಗುಣಿಸುವುದಕ್ಕಿಂತ ಹೆಚ್ಚು ಸುಲಭ ಮತ್ತು ವೇಗವಾಗಿರುತ್ತದೆ. ಇದೇ ಹಂತ ವಿಚಲನಾ ವಿಧಾನದ ಶಕ್ತಿ.",
+  "display_bullets": [
+    "$d_i$ ಮೌಲ್ಯಗಳು: -20, -10, 0, 10 (ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳು)",
+    "$u_i$ ಮೌಲ್ಯಗಳು: -2, -1, 0, 1 (ಚಿಕ್ಕ, ಸರಳ ಸಂಖ್ಯೆಗಳು)",
+    "ಗುಣಾಕಾರಕ್ಕೆ $u_i$ ಮೌಲ್ಯಗಳು ಹೆಚ್ಚು ಸುಲಭ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. On the left, a column labeled 'dᵢ' with values -20, -10, 0, 10 and a text bubble 'ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳು' (Bigger numbers). On the right, a column labeled 'uᵢ' with values -2, -1, 0, 1 and a text bubble 'ಚಿಕ್ಕ ಸಂಖ್ಯೆಗಳು' (Smaller numbers). An arrow points from the dᵢ column to the uᵢ column with '÷ h' or '÷ 10' written on it, visually showing the transformation.",
+    "labels": "d_i column, u_i column, comparison labels",
+    "mathematical_significance": "Visually demonstrates how step deviation simplifies the deviation values, making subsequent calculations easier.",
+    "placeholder_note": "Generate a visual comparing the d_i column with the u_i column to show the simplification."
+  },
+  "chunk_id": "DATA-STAT-2_concept_2_chunk_017"
+}

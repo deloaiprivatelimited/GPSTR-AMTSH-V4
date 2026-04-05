@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ರಚನೆಯ ಹಂತಗಳು (4-6)",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಕ್ಯೂ ಬಿಂದುವಿನಲ್ಲಿಯೂ ಒಂದು ಲಂಬಕೋನವನ್ನು ರಚಿಸಬೇಕು. ಕೋನಮಾಪಕವನ್ನು ಕ್ಯೂ ನಲ್ಲಿ ಇಟ್ಟು 90 ಡಿಗ್ರಿ ಕೋನವನ್ನು ಗುರುತಿಸಿ, ಕ್ಯೂ ನಿಂದ ಒಂದು ಲಂಬ ಕಿರಣವನ್ನು ಎಳೆಯಿರಿ. ಐದನೇ ಹಂತದಲ್ಲಿ, ನಾಲ್ಕನೇ ಮೂಲೆಯನ್ನು ಗುರುತಿಸಲು, ಕೈವಾರದಲ್ಲಿ ಮತ್ತೆ 6 ಸೆಂಟಿಮೀಟರ್ ತ್ರಿಜ್ಯವನ್ನು ತೆಗೆದುಕೊಂಡು, ಎಸ್ ಬಿಂದುವನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು, ಕ್ಯೂ ನಿಂದ ಎಳೆದ ಲಂಬ ಕಿರಣವನ್ನು ಛೇದಿಸುವಂತೆ ಒಂದು ಕಂಸವನ್ನು ಎಳೆಯಿರಿ. ಈ ಛೇದನ ಬಿಂದುವೇ ಆರ್. ಆರನೇ ಹಂತದಲ್ಲಿ, ಕ್ಯೂ ಮತ್ತು ಆರ್ ಬಿಂದುಗಳನ್ನು ಒಂದು ಸರಳರೇಖೆಯಿಂದ ಸೇರಿಸಿ. ಈಗ ಪಿ ಕ್ಯೂ ಆರ್ ಎಸ್ ಎಂಬುದು ನಮಗೆ ಬೇಕಾದ ಚೌಕವಾಗಿದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, $Q$ ಬಿಂದುವಿನಲ್ಲಿಯೂ ಒಂದು ಲಂಬಕೋನವನ್ನು ರಚಿಸಬೇಕು. ಕೋನಮಾಪಕವನ್ನು $Q$ ನಲ್ಲಿ ಇಟ್ಟು $90^\\circ$ ಕೋನವನ್ನು ಗುರುತಿಸಿ, $Q$ ನಿಂದ ಒಂದು ಲಂಬ ಕಿರಣವನ್ನು ಎಳೆಯಿರಿ. ಐದನೇ ಹಂತದಲ್ಲಿ, ನಾಲ್ಕನೇ ಮೂಲೆಯನ್ನು ಗುರುತಿಸಲು, ಕೈವಾರದಲ್ಲಿ ಮತ್ತೆ $6$ cm ತ್ರಿಜ್ಯವನ್ನು ತೆಗೆದುಕೊಂಡು, $S$ ಬಿಂದುವನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು, $Q$ ನಿಂದ ಎಳೆದ ಲಂಬ ಕಿರಣವನ್ನು ಛೇದಿಸುವಂತೆ ಒಂದು ಕಂಸವನ್ನು ಎಳೆಯಿರಿ. ಈ ಛೇದನ ಬಿಂದುವೇ $R$. ಆರನೇ ಹಂತದಲ್ಲಿ, $Q$ ಮತ್ತು $R$ ಬಿಂದುಗಳನ್ನು ಒಂದು ಸರಳರೇಖೆಯಿಂದ ಸೇರಿಸಿ. ಈಗ $PQRS$ ಎಂಬುದು ನಮಗೆ ಬೇಕಾದ ಚೌಕವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Building on the previous state, a perpendicular line is drawn upwards from Q. An arc with a 6 cm radius, centered at S, intersects this new perpendicular at point R. Finally, R and Q are connected to complete the square PQRS.",
+    "labels": "P, Q, R, S, 6 cm, 90°",
+    "mathematical_significance": "This visual shows the completion of the square by locating the fourth vertex using the properties that all sides are equal and angles are right angles.",
+    "placeholder_note": "Image to be generated showing steps 4-6 of the construction, resulting in a complete square."
+  },
+  "source_example_id": "VIS-CON-1_example_2",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "$Q$ ಬಿಂದುವಿನಲ್ಲಿ $\\angle Q = 90^\\circ$ ರಚಿಸಿ.",
+      "justification": "ಚೌಕದ ಇನ್ನೊಂದು ಕೋನವೂ $90^\\circ$ ಇರುತ್ತದೆ."
+    },
+    {
+      "step": 5,
+      "action_display": "$S$ ಕೇಂದ್ರವಾಗಿ, $6$ cm ತ್ರಿಜ್ಯದಿಂದ $R$ ಬಿಂದುವನ್ನು ಗುರುತಿಸಿ. ($SR = 6$ cm)",
+      "justification": "ಚೌಕದ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮ."
+    },
+    {
+      "step": 6,
+      "action_display": "$QR$ ಅನ್ನು ಸೇರಿಸಿ. $PQRS$ ಚೌಕವು ಪೂರ್ಣಗೊಂಡಿದೆ.",
+      "justification": "ನಾಲ್ಕು ಮೂಲೆಗಳನ್ನು ಸೇರಿಸುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "VIS-CON-1_concept_3_chunk_005"
+}

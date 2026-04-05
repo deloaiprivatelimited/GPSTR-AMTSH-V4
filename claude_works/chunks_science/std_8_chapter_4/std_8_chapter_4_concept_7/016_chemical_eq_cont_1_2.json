@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಮೀಕರಣದ ಸಾರಾಂಶ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸಿದ ವಸ್ತುಗಳು ಯಾವುವು? ಇಲ್ಲಿನ ಅಭಿಕ್ರಿಯಾಕಾರಿಗಳು ಅಥವಾ ರಿಯಾಕ್ಟೆಂಟ್ಸ್ ಎಂದರೆ ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್, ಆಮ್ಲಜನಕ ಮತ್ತು ನೀರು. ಇವುಗಳ ನಡುವಿನ ಕ್ರಿಯೆಯಿಂದ ಉಂಟಾದ ಉತ್ಪನ್ನ ಅಥವಾ ಪ್ರಾಡಕ್ಟ್ ಎಂದರೆ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ. ಈ ಸಂಪೂರ್ಣ ಪ್ರಕ್ರಿಯೆಯು ವಾತಾವರಣದಲ್ಲಿ ನಡೆಯುತ್ತದೆ ಮತ್ತು ಆಮ್ಲ ಮಳೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ಇದು ಒಂದು ಸಂಯೋಗ ಕ್ರಿಯೆಯ ಉದಾಹರಣೆಯಾಗಿದೆ, ಏಕೆಂದರೆ ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ವಸ್ತುಗಳು ಸೇರಿ ಒಂದೇ ಉತ್ಪನ್ನವನ್ನು ನೀಡುತ್ತಿವೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸಿದ ವಸ್ತುಗಳು ಯಾವುವು? ಇಲ್ಲಿನ ಅಭಿಕ್ರಿಯಾಕಾರಿಗಳು (Reactants) ಎಂದರೆ ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ (SO₂), ಆಮ್ಲಜನಕ (O₂), ಮತ್ತು ನೀರು (H₂O). ಇವುಗಳ ನಡುವಿನ ಕ್ರಿಯೆಯಿಂದ ಉಂಟಾದ ಉತ್ಪನ್ನ (Product) ಎಂದರೆ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ (H₂SO₄). ಈ ಸಂಪೂರ್ಣ ಪ್ರಕ್ರಿಯೆಯು ವಾತಾವರಣದಲ್ಲಿ ನಡೆಯುತ್ತದೆ ಮತ್ತು ಆಮ್ಲ ಮಳೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ಇದು ಒಂದು ಸಂಯೋಗ ಕ್ರಿಯೆಯ (Combination Reaction) ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಅಭಿಕ್ರಿಯಾಕಾರಿಗಳು: ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ (SO₂), ಆಮ್ಲಜನಕ (O₂), ನೀರು (H₂O)",
+    "ಉತ್ಪನ್ನ: ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ (H₂SO₄)",
+    "ಕ್ರಿಯೆಯ ವಿಧ: ಸಂಯೋಗ ಕ್ರಿಯೆ (Combination Reaction)",
+    "ಪರಿಣಾಮ: ಆಮ್ಲ ಮಳೆ (Acid Rain)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing the process of acid rain formation. On the left, a factory chimney releases SO₂ gas. The gas rises and enters a cloud. Inside the cloud, SO₂ reacts with O₂ and H₂O to form H₂SO₄. From the cloud, rain containing H₂SO₄ falls down. Label the components: SO₂, O₂, H₂O, H₂SO₄, and 'Acid Rain'.",
+    "labels": "ಕಾರ್ಖಾನೆ, SO₂, O₂, H₂O, ಮೋಡ, H₂SO₄, ಆಮ್ಲ ಮಳೆ",
+    "scientific_significance": "Illustrates the atmospheric chemical reactions that convert industrial pollutants into acid rain, a significant environmental problem.",
+    "placeholder_note": "Image to be generated showing the formation of acid rain from sulfur dioxide."
+  },
+  "chunk_id": "std_8_chapter_4_concept_7_chunk_016"
+}

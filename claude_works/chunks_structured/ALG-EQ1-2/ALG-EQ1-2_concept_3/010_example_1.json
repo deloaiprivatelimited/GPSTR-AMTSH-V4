@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸುವುದು",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಈ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಬೇಕು: 5x ಮೈನಸ್ 2 ಇಂಟು 2x ಮೈನಸ್ 7, ಈಕ್ವಲ್ಸ್ 2 ಇಂಟು 3x ಮೈನಸ್ 1, ಪ್ಲಸ್ 7 ಬೈ 2. ಇಲ್ಲಿ ನಾವು x ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಮೀಕರಣದಲ್ಲಿ ಆವರಣಗಳು ಮತ್ತು ಭಿನ್ನರಾಶಿ ಎರಡೂ ಇವೆ. ಆದ್ದರಿಂದ, ನಾವು ಹಂತ ಹಂತವಾಗಿ ಇದನ್ನು ಸುಲಭ ರೂಪಕ್ಕೆ ತಂದು ನಂತರ ಬಿಡಿಸೋಣ.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಈ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಬೇಕು: $5x – 2 (2x – 7) = 2 (3x - 1) + \\frac{7}{2}$. ಇಲ್ಲಿ ನಾವು $x$ ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಮೀಕರಣದಲ್ಲಿ ಆವರಣಗಳು ಮತ್ತು ಭಿನ್ನರಾಶಿ ಎರಡೂ ಇವೆ. ಆದ್ದರಿಂದ, ನಾವು ಹಂತ ಹಂತವಾಗಿ ಇದನ್ನು ಸುಲಭ ರೂಪಕ್ಕೆ ತಂದು ನಂತರ ಬಿಡಿಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "5x – 2 (2x – 7) = 2 (3x - 1) + \\frac{7}{2}",
+    "placeholder_note": "Problem statement displayed in a box"
+  },
+  "source_example_id": "ALG-EQ1-2_example_4",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "ALG-EQ1-2_concept_3_chunk_010"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪರಿಸರ ವ್ಯವಸ್ಥೆಯ ಘಟಕಗಳು",
+  "script": "ಪರಿಸರ ವ್ಯವಸ್ಥೆಯು ಜೀವಂತ ಮತ್ತು ನಿರ್ಜೀವ ವಸ್ತುಗಳ ನಡುವಿನ ಸಂಕೀರ್ಣವಾದ ಪರಸ್ಪರ ಕ್ರಿಯೆಯಾಗಿದೆ. ಈ ವ್ಯವಸ್ಥೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಾವು ಅದನ್ನು ಎರಡು ಮುಖ್ಯ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು. ಮೊದಲನೆಯದು ಜೈವಿಕ ಘಟಕಗಳು, ಅಂದರೆ ಜೀವವಿರುವ ಅಂಶಗಳು. ಎರಡನೆಯದು ಅಜೈವಿಕ ಘಟಕಗಳು, ಅಂದರೆ ಜೀವವಿಲ್ಲದ, ಭೌತಿಕ ಮತ್ತು ರಾಸಾಯನಿಕ ಅಂಶಗಳು. ಈ ಎರಡೂ ಘಟಕಗಳು ಪರಿಸರ ವ್ಯವಸ್ಥೆಯ ಸಮತೋಲನ ಮತ್ತು ಕಾರ್ಯನಿರ್ವಹಣೆಗೆ ಅತ್ಯಗತ್ಯವಾಗಿವೆ. ಈಗ ಇವುಗಳ ಬಗ್ಗೆ ಒಂದೊಂದಾಗಿ ನೋಡೋಣ.",
+  "script_display": "ಪರಿಸರ ವ್ಯವಸ್ಥೆಯು ಜೀವಂತ ಮತ್ತು ನಿರ್ಜೀವ ವಸ್ತುಗಳ ನಡುವಿನ ಸಂಕೀರ್ಣವಾದ ಪರಸ್ಪರ ಕ್ರಿಯೆಯಾಗಿದೆ. ಈ ವ್ಯವಸ್ಥೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಾವು ಅದನ್ನು ಎರಡು ಮುಖ್ಯ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು. ಮೊದಲನೆಯದು ಜೈವಿಕ ಘಟಕಗಳು, ಅಂದರೆ ಜೀವವಿರುವ ಅಂಶಗಳು. ಎರಡನೆಯದು ಅಜೈವಿಕ ಘಟಕಗಳು, ಅಂದರೆ ಜೀವವಿಲ್ಲದ, ಭೌತಿಕ ಮತ್ತು ರಾಸಾಯನಿಕ ಅಂಶಗಳು. ಈ ಎರಡೂ ಘಟಕಗಳು ಪರಿಸರ ವ್ಯವಸ್ಥೆಯ ಸಮತೋಲನ ಮತ್ತು ಕಾರ್ಯನಿರ್ವಹಣೆಗೆ ಅತ್ಯಗತ್ಯವಾಗಿವೆ. ಈಗ ಇವುಗಳ ಬಗ್ಗೆ ಒಂದೊಂದಾಗಿ ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಜೈವಿಕ ಘಟಕಗಳು (Biotic Components)",
+    "ಅಜೈವಿಕ ಘಟಕಗಳು (Abiotic Components)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple flowchart. A central box says 'ಪರಿಸರ ವ್ಯವಸ್ಥೆ' (Ecosystem). Two arrows point outwards to two other boxes: one says 'ಜೈವಿಕ ಘಟಕಗಳು' (Biotic Components) and the other says 'ಅಜೈವಿಕ ಘಟಕಗಳು' (Abiotic Components).",
+    "labels": "Ecosystem, Biotic Components, Abiotic Components",
+    "scientific_significance": "Illustrates the primary classification of ecosystem components.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_13_concept_1_chunk_005"
+}

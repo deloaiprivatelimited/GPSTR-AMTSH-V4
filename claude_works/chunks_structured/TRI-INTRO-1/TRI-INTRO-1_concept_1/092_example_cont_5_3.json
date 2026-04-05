@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ನಾವು ಈ ಸಮಸ್ಯೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬಿಡಿಸಿದ್ದೇವೆ. ನಮಗೆ ದೊರೆತ ಅಂತಿಮ ಉತ್ತರಗಳು: ಸೈನ್ Q ನ ಬೆಲೆ 25 ರಲ್ಲಿ 7, ಮತ್ತು ಕಾಸ್ Q ನ ಬೆಲೆ 25 ರಲ್ಲಿ 24. ಈ ರೀತಿಯ ಸಮಸ್ಯೆಗಳಲ್ಲಿ, ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಮತ್ತು ದತ್ತ ಸಂಬಂಧವನ್ನು ಒಟ್ಟಿಗೆ ಬಳಸಿ ಮೊದಲು ತ್ರಿಭುಜದ ಎಲ್ಲಾ ಬಾಹುಗಳ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಮುಖ್ಯ ಹಂತವಾಗಿದೆ. ನಂತರ, ಅನುಪಾತಗಳನ್ನು ಸುಲಭವಾಗಿ ಲೆಕ್ಕ ಹಾಕಬಹುದು.",
+  "script_display": "ಹೀಗಾಗಿ, ನಾವು ಈ ಸಮಸ್ಯೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬಿಡಿಸಿದ್ದೇವೆ. ನಮಗೆ ದೊರೆತ ಅಂತಿಮ ಉತ್ತರಗಳು: $\\sin Q$ ನ ಬೆಲೆ $\\frac{7}{25}$, ಮತ್ತು $\\cos Q$ ನ ಬೆಲೆ $\\frac{24}{25}$. ಈ ರೀತಿಯ ಸಮಸ್ಯೆಗಳಲ್ಲಿ, ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ ಮತ್ತು ದತ್ತ ಸಂಬಂಧವನ್ನು ಒಟ್ಟಿಗೆ ಬಳಸಿ ಮೊದಲು ತ್ರಿಭುಜದ ಎಲ್ಲಾ ಬಾಹುಗಳ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಮುಖ್ಯ ಹಂತವಾಗಿದೆ. ನಂತರ, ಅನುಪಾತಗಳನ್ನು ಸುಲಭವಾಗಿ ಲೆಕ್ಕ ಹಾಕಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_highlight",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sin Q = \\frac{7}{25} \\\\ \\cos Q = \\frac{24}{25}",
+    "placeholder_note": ""
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-INTRO-1_example_5",
+  "final_answer": "sin Q = 7/25 ಮತ್ತು cos Q = 24/25.",
+  "final_answer_display": "$\\sin Q = \\frac{7}{25}$ ಮತ್ತು $\\cos Q = \\frac{24}{25}$.",
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_092"
+}

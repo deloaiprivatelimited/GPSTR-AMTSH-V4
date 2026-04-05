@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಪದಗಳನ್ನು ವಿಶ್ಲೇಷಿಸುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಮ್ಮಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ: ಎರಡು ಎಕ್ಸ್ ವೈ ಮತ್ತು ಐದು ಎಕ್ಸ್ ವೈ. ಇವು ಸಜಾತಿ ಪದಗಳೇ ಎಂದು ಪರೀಕ್ಷಿಸೋಣ. ಮೊದಲ ಪದವಾದ ಎರಡು ಎಕ್ಸ್ ವೈ ನಲ್ಲಿ, ಸಂಖ್ಯಾ ಸಹಗುಣಕ ಎರಡು ಮತ್ತು ಬೀಜಗಣಿತದ ಅಪವರ್ತನಗಳು ಎಕ್ಸ್ ಮತ್ತು ವೈ. ಎರಡನೇ ಪದವಾದ ಐದು ಎಕ್ಸ್ ವೈ ನಲ್ಲಿ, ಸಂಖ್ಯಾ ಸಹಗುಣಕ ಐದು ಮತ್ತು ಬೀಜಗಣಿತದ ಅಪವರ್ತನಗಳು ಎಕ್ಸ್ ಮತ್ತು ವೈ. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಎರಡೂ ಪದಗಳಲ್ಲಿ ಬೀಜಗಣಿತದ ಅಪವರ್ತನಗಳು, ಅಂದರೆ ಎಕ್ಸ್ ಮತ್ತು ವೈ, ಒಂದೇ ಆಗಿವೆ. ಸಂಖ್ಯಾ ಸಹಗುಣಕಗಳು ಎರಡು ಮತ್ತು ಐದು ಬೇರೆ ಬೇರೆಯಾಗಿದ್ದರೂ, ಬೀಜಗಣಿತದ ಭಾಗವು ಒಂದೇ ಆಗಿರುವುದರಿಂದ, ಇವು ಸಜಾತಿ ಪದಗಳು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಮ್ಮಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ: $2xy$ ಮತ್ತು $5xy$. ಇವು ಸಜಾತಿ ಪದಗಳೇ ಎಂದು ಪರೀಕ್ಷಿಸೋಣ. ಮೊದಲ ಪದವಾದ $2xy$ ನಲ್ಲಿ, ಸಂಖ್ಯಾ ಸಹಗುಣಕ 2 ಮತ್ತು ಬೀಜಗಣಿತದ ಅಪವರ್ತನಗಳು $x$ ಮತ್ತು $y$. ಎರಡನೇ ಪದವಾದ $5xy$ ನಲ್ಲಿ, ಸಂಖ್ಯಾ ಸಹಗುಣಕ 5 ಮತ್ತು ಬೀಜಗಣಿತದ ಅಪವರ್ತನಗಳು $x$ ಮತ್ತು $y$. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಎರಡೂ ಪದಗಳಲ್ಲಿ ಬೀಜಗಣಿತದ ಅಪವರ್ತನಗಳು, ಅಂದರೆ $x$ ಮತ್ತು $y$, ಒಂದೇ ಆಗಿವೆ. ಸಂಖ್ಯಾ ಸಹಗುಣಕಗಳು 2 ಮತ್ತು 5 ಬೇರೆ ಬೇರೆಯಾಗಿದ್ದರೂ, ಬೀಜಗಣಿತದ ಭಾಗವು ಒಂದೇ ಆಗಿರುವುದರಿಂದ, ಇವು ಸಜಾತಿ ಪದಗಳು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A table showing the breakdown of terms 2xy and 5xy into numerical and algebraic factors. The algebraic factors column should be highlighted to show they are identical. Caption: ಬೀಜಗಣಿತದ ಅಪವರ್ತನಗಳು ಒಂದೇ ಆಗಿವೆ (Algebraic factors are the same)._latex_$$ \\begin{array}{|l|c|c|} \\hline \\textbf{ಪದ (Term)} & \\textbf{ಸಂಖ್ಯಾ ಸಹಗುಣಕ} & \\textbf{ಬೀಜಗಣಿತದ ಅಪವರ್ತನಗಳು} \\\\ \\hline 2xy & 2 & x, y \\\\ \\hline 5xy & 5 & x, y \\\\ \\hline \\end{array} $$_latex_end_  Caption: ಬೀಜಗಣಿತದ ಅಪವರ್ತನಗಳು ಒಂದೇ ಆಗಿವೆ (Algebraic factors are the same)._latex_$$ \\text{ಬೀಜಗಣಿತದ ಅಪವರ್ತನಗಳು ಒಂದೇ ಆಗಿವೆ} $$_latex_end_  "
+  },
+  "chunk_id": "ALG-EXP-1_concept_3_chunk_005"
+}

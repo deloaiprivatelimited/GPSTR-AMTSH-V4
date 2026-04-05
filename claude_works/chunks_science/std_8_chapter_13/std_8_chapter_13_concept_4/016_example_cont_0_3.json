@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ ಇಲ್ಲಿದೆ. ಎರಡನೇ ದರ್ಪಣದಿಂದ ಬೆಳಕಿನ ಕಿರಣವು ಅರವತ್ತು ಡಿಗ್ರಿ ಕೋನದಲ್ಲಿ ಪ್ರತಿಫಲಿಸುತ್ತದೆ. ಈ ರೀತಿಯ ಪ್ರಶ್ನೆಗಳಲ್ಲಿ, ಪ್ರತಿಫಲನದ ನಿಯಮಗಳನ್ನು ಮತ್ತು ಸರಳ ಜ್ಯಾಮಿತಿಯನ್ನು ಸರಿಯಾಗಿ ಬಳಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ ಇಲ್ಲಿದೆ. ಎರಡನೇ ದರ್ಪಣದಿಂದ ಬೆಳಕಿನ ಕಿರಣವು 60° ಕೋನದಲ್ಲಿ ಪ್ರತಿಫಲಿಸುತ್ತದೆ. ಈ ರೀತಿಯ ಪ್ರಶ್ನೆಗಳಲ್ಲಿ, ಪ್ರತಿಫಲನದ ನಿಯಮಗಳನ್ನು ಮತ್ತು ಸರಳ ಜ್ಯಾಮಿತಿಯನ್ನು ಸರಿಯಾಗಿ ಬಳಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "physics_green",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "r_2 = 60^\\circ",
+    "placeholder_note": "Final answer displayed prominently."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "advanced",
+  "source_example_id": "std_8_chapter_13_example_3",
+  "final_answer": "ಎರಡನೇ ದರ್ಪಣದಿಂದ ಕಿರಣವು 60° ಪ್ರತಿಫಲನ ಕೋನದಲ್ಲಿ ಪ್ರತಿಫಲಿಸುತ್ತದೆ.",
+  "final_answer_display": "ಎರಡನೇ ದರ್ಪಣದಿಂದ ಕಿರಣವು 60° ಪ್ರತಿಫಲನ ಕೋನದಲ್ಲಿ ಪ್ರತಿಫಲಿಸುತ್ತದೆ.",
+  "chunk_id": "std_8_chapter_13_concept_4_chunk_016"
+}

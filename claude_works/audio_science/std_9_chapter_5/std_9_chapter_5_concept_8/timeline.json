@@ -1,0 +1,123 @@
+{
+  "module_id": "std_9_chapter_5_concept_8",
+  "chapter_code": "std_9_chapter_5",
+  "voice": "Fenrir",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 481.55,
+  "total_duration_formatted": "8:01",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_5_concept_8_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಕೋಶ ವಿಭಜನೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 58.011,
+      "duration": 58.011,
+      "script_words": 80
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_8_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 58.611,
+      "end": 94.622,
+      "duration": 36.011,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_8_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ಕೋಶ ವಿಭಜನೆ (Cell Division)",
+      "type": "definition",
+      "start": 95.222,
+      "end": 137.513,
+      "duration": 42.291,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_8_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಕೋಶ ವಿಭಜನೆ ಏಕೆ ಮುಖ್ಯ?",
+      "type": "definition",
+      "start": 138.113,
+      "end": 186.644,
+      "duration": 48.531,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_8_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಕೋಶ ವಿಭಜನೆಯ ಪ್ರಮುಖ ವಿಧಗಳು",
+      "type": "definition",
+      "start": 187.244,
+      "end": 228.135,
+      "duration": 40.891,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_8_chunk_006",
+      "chunk_file": "006_classification_0.json",
+      "wav_file": "006_classification_0.wav",
+      "slide_title": "ಕೋಶ ವಿಭಜನೆಯ ವಿಧಗಳು: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "start": 228.735,
+      "end": 272.386,
+      "duration": 43.651,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_8_chunk_007",
+      "chunk_file": "007_classification_cont_0_1.json",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "slide_title": "ಮೈಟಾಸಿಸ್ (ಸಮಸೂತ್ರಿ ವಿಭಜನೆ)",
+      "type": "concept_explanation",
+      "start": 272.986,
+      "end": 330.837,
+      "duration": 57.851,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_8_chunk_008",
+      "chunk_file": "008_classification_cont_0_2.json",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "slide_title": "ಮಿಯಾಸಿಸ್ (ಕ್ಷೀಣಕಾರಿ ವಿಭಜನೆ)",
+      "type": "concept_explanation",
+      "start": 331.437,
+      "end": 379.008,
+      "duration": 47.571,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_8_chunk_009",
+      "chunk_file": "009_classification_cont_0_3.json",
+      "wav_file": "009_classification_cont_0_3.wav",
+      "slide_title": "ಮೈಟಾಸಿಸ್ ಮತ್ತು ಮಿಯಾಸಿಸ್: ಹೋಲಿಕೆ",
+      "type": "concept_explanation",
+      "start": 379.608,
+      "end": 426.779,
+      "duration": 47.171,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "std_9_chapter_5_concept_8_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 427.379,
+      "end": 480.95,
+      "duration": 53.571,
+      "script_words": 66
+    }
+  ]
+}

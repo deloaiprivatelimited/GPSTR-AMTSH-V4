@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ನೈಸರ್ಗಿಕದಿಂದ ಮಾನವ ನಿರ್ಮಿತಕ್ಕೆ ಪರಿವರ್ತನೆ",
+  "script": "ಮಾನವ ನಿರ್ಮಿತ ಸಂಪನ್ಮೂಲಗಳು ಆಕಾಶದಿಂದ ಉದುರುವುದಿಲ್ಲ. ಅವುಗಳ ಮೂಲ ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳೇ ಆಗಿರುತ್ತವೆ. ಇದೊಂದು ಪ್ರಮುಖವಾದ ಸಂಬಂಧ. ಉದಾಹರಣೆಗೆ, ಕಾಡಿನಲ್ಲಿ ಬೆಳೆಯುವ ಮರವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಇದು ಒಂದು ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲ. ಮಾನವನು ಈ ಮರವನ್ನು ಕಡಿದು, ಅದನ್ನು ಸಂಸ್ಕರಿಸಿ, ಅದರಿಂದ ಕುರ್ಚಿ, ಮೇಜು, ಬಾಗಿಲುಗಳಂತಹ ಪೀಠೋಪಕರಣಗಳನ್ನು ತಯಾರಿಸುತ್ತಾನೆ. ಇಲ್ಲಿ, ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲವಾದ 'ಮರ'ವು, ಮಾನವ ನಿರ್ಮಿತ ಸಂಪನ್ಮೂಲವಾದ 'ಪೀಠೋಪಕರಣ'ವಾಗಿ ರೂಪಾಂತರಗೊಂಡಿದೆ. ಈ ಪರಿವರ್ತನೆಯೇ ಮಾನವನ ಅಭಿವೃದ್ಧಿಯ ಮೂಲ.",
+  "script_display": "ಮಾನವ ನಿರ್ಮಿತ ಸಂಪನ್ಮೂಲಗಳು ಆಕಾಶದಿಂದ ಉದುರುವುದಿಲ್ಲ. ಅವುಗಳ ಮೂಲ ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳೇ ಆಗಿರುತ್ತವೆ. ಇದೊಂದು ಪ್ರಮುಖವಾದ ಸಂಬಂಧ. ಉದಾಹರಣೆಗೆ, ಕಾಡಿನಲ್ಲಿ ಬೆಳೆಯುವ ಮರವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಇದು ಒಂದು ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲ. ಮಾನವನು ಈ ಮರವನ್ನು ಕಡಿದು, ಅದನ್ನು ಸಂಸ್ಕರಿಸಿ, ಅದರಿಂದ ಕುರ್ಚಿ, ಮೇಜು, ಬಾಗಿಲುಗಳಂತಹ ಪೀಠೋಪಕರಣಗಳನ್ನು ತಯಾರಿಸುತ್ತಾನೆ. ಇಲ್ಲಿ, ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲವಾದ 'ಮರ'ವು, ಮಾನವ ನಿರ್ಮಿತ ಸಂಪನ್ಮೂಲವಾದ 'ಪೀಠೋಪಕರಣ'ವಾಗಿ ರೂಪಾಂತರಗೊಂಡಿದೆ. ಈ ಪರಿವರ್ತನೆಯೇ ಮಾನವನ ಅಭಿವೃದ್ಧಿಯ ಮೂಲ.",
+  "display_bullets": [
+    "ಮಾನವ ನಿರ್ಮಿತ ಸಂಪನ್ಮೂಲಗಳ ಮೂಲ ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳು.",
+    "ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಸಂಸ್ಕರಿಸಿ ಅಥವಾ ಪರಿವರ್ತಿಸಿ ಇವುಗಳನ್ನು ತಯಾರಿಸಲಾಗುತ್ತದೆ.",
+    "ಉದಾಹರಣೆ: ಮರ (ನೈಸರ್ಗಿಕ) → ಪೀಠೋಪಕರಣ (ಮಾನವ ನಿರ್ಮಿತ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple flow diagram. On the left, an icon or image of a tree labeled 'ಮರ (ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲ)'. An arrow points to the right. On the right, an icon or image of a wooden chair labeled 'ಪೀಠೋಪಕರಣ (ಮಾನವ ನಿರ್ಮಿತ ಸಂಪನ್ಮೂಲ)'.",
+    "labels": "Tree, Arrow, Chair, Natural Resource, Man-made Resource",
+    "scientific_significance": "Illustrates the core concept that man-made resources are derived from natural resources through human processing.",
+    "placeholder_note": "Image to be generated showing the transformation of a tree into furniture."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_11_concept_1_chunk_006"
+}

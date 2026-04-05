@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನ",
+  "script": "ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾಲ್ಕು ಅಂಕಿಗಳ ಗರಿಷ್ಠ ಸಂಖ್ಯೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ, ಅದು ಒಂಬತ್ತು ಸಾವಿರದ ಒಂಬೈನೂರ ತೊಂಬತ್ತೊಂಬತ್ತು. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಈ ಸಂಖ್ಯೆಯ ವರ್ಗಮೂಲವನ್ನು ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ ಕಂಡುಹಿಡಿಯೋಣ. ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡಿದಾಗ ನಮಗೆ ತೊಂಬತ್ತೊಂಬತ್ತು ಮತ್ತು ತೊಂಬತ್ತೊಂಬತ್ತು ಸಿಗುತ್ತದೆ. ತೊಂಬತ್ತೊಂಬತ್ತಕ್ಕಿಂತ ಕಡಿಮೆ ಅಥವಾ ಸಮನಾದ ದೊಡ್ಡ ವರ್ಗ ಸಂಖ್ಯೆ ಎಂಭತ್ತೊಂದು, ಅಂದರೆ ಒಂಬತ್ತರ ವರ್ಗ. ಆದ್ದರಿಂದ, ಭಾಗಲಬ್ಧ ಮತ್ತು ಭಾಜಕದಲ್ಲಿ ಒಂಬತ್ತನ್ನು ಬರೆಯುತ್ತೇವೆ. ತೊಂಬತ್ತೊಂಬತ್ತರಿಂದ ಎಂಭತ್ತೊಂದನ್ನು ಕಳೆದರೆ ಹದಿನೆಂಟು ಉಳಿಯುತ್ತದೆ. ಮುಂದಿನ ಜೋಡಿ ತೊಂಬತ್ತೊಂಬತ್ತನ್ನು ಕೆಳಗೆ ತಂದರೆ, ಅದು ಒಂದು ಸಾವಿರದ ಎಂಟುನೂರ ತೊಂಬತ್ತೊಂಬತ್ತು ಆಗುತ್ತದೆ. ಈಗ, ಭಾಗಲಬ್ಧ ಒಂಬತ್ತನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಿದರೆ ಹದಿನೆಂಟು ಬರುತ್ತದೆ. ನಾವು ಒಂದು ಸಾವಿರದ ಎಂಟುನೂರ ತೊಂಬತ್ತೊಂಬತ್ತನ್ನು ಭಾಗಿಸಲು, ನೂರ ಎಂಬತ್ತರ ಜೊತೆ ಒಂದು ಅಂಕಿಯನ್ನು ಸೇರಿಸಿ ಅದೇ ಅಂಕಿಯಿಂದ ಗುಣಿಸಬೇಕು. ಒಂಬತ್ತನ್ನು ಪ್ರಯತ್ನಿಸೋಣ. ನೂರ ಎಂಬತ್ತೊಂಬತ್ತು ಗುಣಿಸು ಒಂಬತ್ತು ಎಂದರೆ ಒಂದು ಸಾವಿರದ ಏಳುನೂರ ಒಂದು. ಭಾಗಲಬ್ಧದಲ್ಲಿ ಒಂಬತ್ತನ್ನು ಬರೆಯೋಣ. ಒಂದು ಸಾವಿರದ ಎಂಟುನೂರ ತೊಂಬತ್ತೊಂಬತ್ತರಿಂದ ಒಂದು ಸಾವಿರದ ಏಳುನೂರ ಒಂದನ್ನು ಕಳೆದರೆ, ನಮಗೆ ಶೇಷ ನೂರ ತೊಂಬತ್ತೆಂಟು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, 4 ಅಂಕಿಗಳ ಗರಿಷ್ಠ ಸಂಖ್ಯೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ, ಅದು 9999. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಈ ಸಂಖ್ಯೆಯ ವರ್ಗಮೂಲವನ್ನು ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ ಕಂಡುಹಿಡಿಯೋಣ. ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡಿದಾಗ ನಮಗೆ 99 ಮತ್ತು 99 ಸಿಗುತ್ತದೆ. 99 ಕ್ಕಿಂತ ಕಡಿಮೆ ಅಥವಾ ಸಮನಾದ ದೊಡ್ಡ ವರ್ಗ ಸಂಖ್ಯೆ 81, ಅಂದರೆ $9^2$. ಆದ್ದರಿಂದ, ಭಾಗಲಬ್ಧ ಮತ್ತು ಭಾಜಕದಲ್ಲಿ 9 ಅನ್ನು ಬರೆಯುತ್ತೇವೆ. $99 - 81 = 18$. ಮುಂದಿನ ಜೋಡಿ 99 ಅನ್ನು ಕೆಳಗೆ ತಂದರೆ, ಅದು 1899 ಆಗುತ್ತದೆ. ಈಗ, ಭಾಗಲಬ್ಧ 9 ಅನ್ನು ಎರಡರಿಂದ ಗುಣಿಸಿದರೆ 18 ಬರುತ್ತದೆ. ನಾವು 1899 ಅನ್ನು ಭಾಗಿಸಲು, 18_ $\\times$ _ $\\le$ 1899 ಆಗುವಂತೆ ಅಂಕಿಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. 9 ಅನ್ನು ಪ್ರಯತ್ನಿಸೋಣ. $189 \\times 9 = 1701$. ಭಾಗಲಬ್ಧದಲ್ಲಿ 9 ಅನ್ನು ಬರೆಯೋಣ. $1899 - 1701 = 198$. ನಮಗೆ ಶೇಷ 198 ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "dark_background_math",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating the long division method to find the square root of 9999. It shows the pairing of digits (99 99), the first divisor and quotient as 9, the subtraction 99-81=18, bringing down 99 to get 1899. Then it shows the new divisor 189 multiplied by 9 to get 1701, and the final subtraction 1899-1701=198. The final quotient is 99 and the remainder is 198.",
+    "labels": "Divisor, Dividend, Quotient, Remainder, Long Division Steps",
+    "mathematical_significance": "This visual process is key to finding both the integer part of the square root (99) and the remainder (198), which is essential for solving the problem.",
+    "placeholder_note": "Image to be generated showing the long division of 9999."
+  },
+  "source_example_id": "NS-SQR-2_example_12",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "4 ಅಂಕಿಗಳ ಗರಿಷ್ಠ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸುವುದು: 9999.",
+      "justification": "ನಾವು ಈ ಸಂಖ್ಯೆಯಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಅದಕ್ಕಿಂತ ಚಿಕ್ಕದಾದ ಪೂರ್ಣವರ್ಗವನ್ನು ಹುಡುಕಬೇಕು."
+    },
+    {
+      "step": 2,
+      "action_display": "9999 ರ ವರ್ಗಮೂಲವನ್ನು ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ ಕಂಡುಹಿಡಿಯುವುದು.",
+      "justification": "ಇದು 9999 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ ಅತಿದೊಡ್ಡ ಪೂರ್ಣವರ್ಗದ ವರ್ಗಮೂಲವನ್ನು ಮತ್ತು ಶೇಷವನ್ನು ನೀಡುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "NS-SQR-2_concept_7_chunk_032"
+}

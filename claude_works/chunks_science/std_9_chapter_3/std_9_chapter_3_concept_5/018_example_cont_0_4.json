@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಅಂತಿಮ ಉತ್ತರ ಹೀಗಿದೆ: ನೀರಿನ ಅಣುವಿನಲ್ಲಿ ಹೈಡೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತವು ಎರಡಕ್ಕೆ ಒಂದು ಆಗಿದೆ. ಇದು ನೀರಿನ ರಾಸಾಯನಿಕ ಸೂತ್ರವಾದ H two O ಗೆ ನಿಖರವಾಗಿ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ, ಅಂದರೆ ಪ್ರತಿ ಒಂದು ಆಮ್ಲಜನಕ ಪರಮಾಣುವಿಗೆ ಎರಡು ಹೈಡೋಜನ್ ಪರಮಾಣುಗಳು ಇರುತ್ತವೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಅಂತಿಮ ಉತ್ತರ ಹೀಗಿದೆ: ನೀರಿನ ಅಣುವಿನಲ್ಲಿ ಹೈಡೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತ 2:1 ಆಗಿದೆ. ಇದು ನೀರಿನ ರಾಸಾಯನಿಕ ಸೂತ್ರವಾದ H₂O ಗೆ ನಿಖರವಾಗಿ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: ನೀರಿನ ಅಣುವಿನಲ್ಲಿ ಹೈಡೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತ 2:1 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "H : O = 2:1",
+    "placeholder_note": "Final answer box showing the ratio of H to O atoms is 2:1"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_3_example_2",
+  "final_answer": "ನೀರಿನ ಅಣುವಿನಲ್ಲಿ ಹೈಡೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತ 2:1 ಆಗಿದೆ.",
+  "final_answer_display": "ನೀರಿನ ಅಣುವಿನಲ್ಲಿ ಹೈಡೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯ ಅನುಪಾತ 2:1 ಆಗಿದೆ.",
+  "chunk_id": "std_9_chapter_3_concept_5_chunk_018"
+}

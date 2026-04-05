@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದಹನ ಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+  "script": "ಈಗ ಈ ಕ್ರಿಯೆಯನ್ನು ದೃಶ್ಯರೂಪದಲ್ಲಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನಮ್ಮ ಪ್ರತಿವರ್ತಕಗಳಿವೆ, ಅಂದರೆ ಕಾರ್ಬನ್ ಮತ್ತು ಆಕ್ಸಿಜನ್. ಇವು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುತ್ತವೆ. ಬಲಭಾಗದಲ್ಲಿ, ಕ್ರಿಯೆಯ ನಂತರ ಉಂಟಾಗುವ ಉತ್ಪನ್ನಗಳನ್ನು ನೋಡಬಹುದು, ಅಂದರೆ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್. ಇದರ ಜೊತೆಗೆ, ಶಕ್ತಿಯು ಶಾಖ ಮತ್ತು ಬೆಳಕಿನ ರೂಪದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಇದು ಒಂದು ಉತ್ಕರ್ಷಣ ಕ್ರಿಯೆಯೂ ಹೌದು, ಏಕೆಂದರೆ ಕಾರ್ಬನ್‌ಗೆ ಆಕ್ಸಿಜನ್ ಸೇರ್ಪಡೆಯಾಗುತ್ತಿದೆ.",
+  "script_display": "ಈಗ ಈ ಕ್ರಿಯೆಯನ್ನು ದೃಶ್ಯರೂಪದಲ್ಲಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನಮ್ಮ ಪ್ರತಿವರ್ತಕಗಳಿವೆ (Reactants): ಕಾರ್ಬನ್ (C) ಮತ್ತು ಆಕ್ಸಿಜನ್ (O₂). ಇವು ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುತ್ತವೆ. ಬಲಭಾಗದಲ್ಲಿ, ಕ್ರಿಯೆಯ ನಂತರ ಉಂಟಾಗುವ ಉತ್ಪನ್ನಗಳನ್ನು (Products) ನೋಡಬಹುದು: ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂). ಇದರ ಜೊತೆಗೆ, ಶಕ್ತಿಯು ಶಾಖ ಮತ್ತು ಬೆಳಕಿನ ರೂಪದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಇದು ಒಂದು ಉತ್ಕರ್ಷಣ ಕ್ರಿಯೆಯೂ (Oxidation) ಹೌದು, ಏಕೆಂದರೆ ಕಾರ್ಬನ್‌ಗೆ ಆಕ್ಸಿಜನ್ ಸೇರ್ಪಡೆಯಾಗುತ್ತಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a piece of charcoal (labeled 'C - ಕಾರ್ಬನ್') burning. Arrows indicating Oxygen ('O₂ - ಆಕ್ಸಿಜನ್') from the air are pointing towards the charcoal. From the burning charcoal, arrows point outwards to show 'CO₂ - ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್', a sunburst icon for 'ಬೆಳಕು' (Light), and wavy lines for 'ಶಾಖ' (Heat). The left side of the diagram is labeled 'ಪ್ರತಿವರ್ತಕಗಳು' (Reactants) and the right side is labeled 'ಉತ್ಪನ್ನಗಳು' (Products).",
+    "labels": "ಕಾರ್ಬನ್, ಆಕ್ಸಿಜನ್, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ಶಾಖ, ಬೆಳಕು, ಪ್ರತಿವರ್ತಕಗಳು, ಉತ್ಪನ್ನಗಳು",
+    "scientific_significance": "Illustrates the transformation of reactants into products during the combustion of carbon, showing the release of energy.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "chunk_id": "std_10_chapter_4_concept_8_chunk_005"
+}

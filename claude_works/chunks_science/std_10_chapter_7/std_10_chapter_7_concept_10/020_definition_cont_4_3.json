@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಇದೊಂದು ಚಕ್ರವೇಕೆ?",
+  "script": "ಇದನ್ನು ಋತು 'ಚಕ್ರ' ಎಂದು ಕರೆಯಲು ಕಾರಣವಿದೆ. ಏಕೆಂದರೆ ಈ ಪ್ರಕ್ರಿಯೆಯು ನಿಯಮಿತವಾಗಿ ಪುನರಾವರ್ತನೆಯಾಗುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ ಪ್ರತಿ ಇಪ್ಪತ್ತೆಂಟರಿಂದ ಮೂವತ್ತು ದಿನಗಳಿಗೊಮ್ಮೆ ಇದು ನಡೆಯುತ್ತದೆ. ಈ ಚಕ್ರವು ಅಂಡಾಣು ಬಿಡುಗಡೆಯಾಗುವುದು, ಗರ್ಭಕೋಶದ ಪದರ ದಪ್ಪವಾಗುವುದು, ಮತ್ತು ನಿಶೇಚನ ನಡೆಯದಿದ್ದರೆ ಆ ಪದರವು ಹೊರಹೋಗುವುದನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ಇದು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯವಸ್ಥೆಯ ಆರೋಗ್ಯಕರ ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಸಂಕೇತವಾಗಿದೆ. ಈ ಚಕ್ರವು ಹೆಣ್ಣುಮಕ್ಕಳಲ್ಲಿ ಪ್ರಾಯಾಪ್ರಾಪ್ತಿಯಿಂದ ಪ್ರಾರಂಭವಾಗಿ, ಋತುಬಂಧದವರೆಗೆ ಮುಂದುವರಿಯುತ್ತದೆ.",
+  "script_display": "ಇದನ್ನು ಋತು 'ಚಕ್ರ' (Cycle) ಎಂದು ಕರೆಯಲು ಕಾರಣ, ಇದು ನಿಯಮಿತವಾಗಿ ಪುನರಾವರ್ತನೆಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಾಮಾನ್ಯವಾಗಿ ಪ್ರತಿ 28-30 ದಿನಗಳಿಗೊಮ್ಮೆ ಪುನರಾವರ್ತನೆಯಾಗುತ್ತದೆ.",
+    "ಪ್ರಾಯಾಪ್ರಾಪ್ತಿಯಿಂದ (Puberty) ಋತುಬಂಧದವರೆಗೆ (Menopause) ಮುಂದುವರಿಯುತ್ತದೆ.",
+    "ಇದು ಸಂತಾನೋತ್ಪತ್ತಿ ವ್ಯವಸ್ಥೆಯ ಆರೋಗ್ಯಕರ ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಸಂಕೇತವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple circular diagram representing a 28-day cycle. The circle is segmented and labeled to show the different phases: Menstruation (Days 1-5), Follicular phase (lining thickening), Ovulation (Day 14), and Luteal phase.",
+    "labels": "ಋತುಚಕ್ರ (Menstruation), ಅಂಡೋತ್ಪತ್ತಿ (Ovulation), ಗರ್ಭಕೋಶದ ಪದರ ದಪ್ಪವಾಗುವುದು (Lining thickens)",
+    "scientific_significance": "Visually represents the cyclical nature of the process, reinforcing why it's called a 'cycle'. It helps students understand the timeline and regularity of these hormonal and physiological changes.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_7_concept_10_chunk_020"
+}

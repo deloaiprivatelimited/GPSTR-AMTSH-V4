@@ -1,0 +1,92 @@
+{
+  "module_id": "std_6_chapter_9_concept_7",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:30:10",
+  "chunks": {
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "dc3e2930cbd3729b6e1f920e1115562a",
+      "wav_file": "003_definition_0.wav",
+      "duration": 43.371,
+      "slide_title": "ಸೋಸುವಿಕೆ (Filtration) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 57,
+      "generated_at": "2026-04-02 16:29:04"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "db84e0533a5dbf56ab0c451806b695a0",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 43.291,
+      "slide_title": "ಸೋಸುವಿಕೆ: ಒಂದು ಉದಾಹರಣೆ",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 16:29:07"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "c055a3e81258d47e9e6eeddc2704818f",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 42.491,
+      "slide_title": "ಕರಗುವ vs ಕರಗದ ವಸ್ತುಗಳು",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 16:29:08"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "9d4be423ab9a171df78d391c0c0829ed",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 34.691,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ (Prerequisites)",
+      "type": "chunk",
+      "script_words": 39,
+      "generated_at": "2026-04-02 16:29:08"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "dcf853ccd2b896258570a5e6a2ad10bf",
+      "wav_file": "001_intro_0.wav",
+      "duration": 58.051,
+      "slide_title": "ಸೋಸುವಿಕೆ (Filtration)",
+      "type": "chunk",
+      "script_words": 83,
+      "generated_at": "2026-04-02 16:29:11"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "18eae82b38f3adce8a9486bb33076676",
+      "wav_file": "007_recap_0.wav",
+      "duration": 38.451,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 49,
+      "generated_at": "2026-04-02 16:30:00"
+    },
+    "006_property_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "24955ba4522e5528a1c346d45b653532",
+      "wav_file": "006_property_0.wav",
+      "duration": 58.211,
+      "slide_title": "ಸೋಸುವಿಕೆಯ ತತ್ವ",
+      "type": "concept_explanation",
+      "script_words": 73,
+      "generated_at": "2026-04-02 16:30:10"
+    }
+  }
+}

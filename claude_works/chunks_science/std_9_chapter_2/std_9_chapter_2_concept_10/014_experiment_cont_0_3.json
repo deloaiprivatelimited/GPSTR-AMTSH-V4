@@ -1,0 +1,35 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಪರೀಕ್ಷೆ 1: ಕಾಂತೀಯ ಗುಣ",
+  "script": "ಈಗ ಎರಡೂ ಮಾದರಿಗಳನ್ನು ಪರೀಕ್ಷಿಸುವ ಸಮಯ. ಮೊದಲಿಗೆ ಕಾಂತೀಯ ಗುಣವನ್ನು ಪರೀಕ್ಷಿಸೋಣ. ನಾವು ಒಂದು ಕಾಂತವನ್ನು ಗುಂಪು ಒಂದರ ಮಿಶ್ರಣದ ಹತ್ತಿರ ತಂದಾಗ, ಕಬ್ಬಿಣದ ಚೂರುಗಳು ತಕ್ಷಣವೇ ಕಾಂತಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಅಂದರೆ, ಮಿಶ್ರಣದಲ್ಲಿ ಕಬ್ಬಿಣವು ತನ್ನ ಕಾಂತೀಯ ಗುಣವನ್ನು ಉಳಿಸಿಕೊಂಡಿದೆ. ಆದರೆ, ಅದೇ ಕಾಂತವನ್ನು ಗುಂಪು ಎರಡರ ಸಂಯುಕ್ತದ ಹತ್ತಿರ ತಂದಾಗ, ಯಾವುದೇ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ. ಅಂದರೆ, ಸಂಯುಕ್ತವಾದ ನಂತರ ಕಬ್ಬಿಣವು ತನ್ನ ಕಾಂತೀಯ ಗುಣವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕಳೆದುಕೊಂಡಿದೆ.",
+  "script_display": "ಈಗ ಎರಡೂ ಮಾದರಿಗಳನ್ನು ಪರೀಕ್ಷಿಸುವ ಸಮಯ. ಮೊದಲಿಗೆ ಕಾಂತೀಯ ಗುಣವನ್ನು ಪರೀಕ್ಷಿಸೋಣ. ನಾವು ಒಂದು ಕಾಂತವನ್ನು ಗುಂಪು Iರ ಮಿಶ್ರಣದ ಹತ್ತಿರ ತಂದಾಗ, ಕಬ್ಬಿಣದ ಚೂರುಗಳು ತಕ್ಷಣವೇ ಕಾಂತಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಅಂದರೆ, ಮಿಶ್ರಣದಲ್ಲಿ ಕಬ್ಬಿಣವು ತನ್ನ ಕಾಂತೀಯ ಗುಣವನ್ನು ಉಳಿಸಿಕೊಂಡಿದೆ. ಆದರೆ, ಅದೇ ಕಾಂತವನ್ನು ಗುಂಪು IIರ ಸಂಯುಕ್ತದ ಹತ್ತಿರ ತಂದಾಗ, ಯಾವುದೇ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ. ಅಂದರೆ, ಸಂಯುಕ್ತವಾದ ನಂತರ ಕಬ್ಬಿಣವು ತನ್ನ ಕಾಂತೀಯ ಗುಣವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕಳೆದುಕೊಂಡಿದೆ.",
+  "display_bullets": [
+    "ಗುಂಪು I (ಮಿಶ್ರಣ): ಕಬ್ಬಿಣದ ಚೂರುಗಳು ಕಾಂತಕ್ಕೆ ಆಕರ್ಷಿತವಾಗುತ್ತವೆ.",
+    "ಗುಂಪು II (ಸಂಯುಕ್ತ): ಯಾವುದೇ ಆಕರ್ಷಣೆ ಇಲ್ಲ. ಕಬ್ಬಿಣವು ತನ್ನ ಕಾಂತೀಯ ಗುಣವನ್ನು ಕಳೆದುಕೊಂಡಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "video_style_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen image. Left side: A magnet is brought near the iron-sulfur mixture, and iron filings are shown clinging to the magnet. Labeled 'ಮಿಶ್ರಣ'. Right side: The same magnet is brought near the black iron sulfide compound, with no particles clinging to it. Labeled 'ಸಂಯುಕ್ತ'.",
+    "labels": "ಮಿಶ್ರಣ, ಸಂಯುಕ್ತ, ಕಾಂತ",
+    "scientific_significance": "Visually demonstrates that components in a mixture retain their properties (magnetism), while a compound has new properties.",
+    "placeholder_note": "Split image to be generated showing the magnetism test."
+  },
+  "chunk_id": "std_9_chapter_2_concept_10_chunk_014"
+}

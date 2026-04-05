@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಕೊನೆಯದಾಗಿ, ನಾವು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರವನ್ನು ಬರೆಯೋಣ. ನಾವು ಮೊದಲ ಹಂತದಲ್ಲಿ ಹೊರತೆಗೆದ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಮೂರನ್ನು ಸೇರಿಸಲು ಮರೆಯಬಾರದು. ಆದ್ದರಿಂದ, ಮೂರು ಎಂ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಒಂಬತ್ತು ಎಂ ಪ್ಲಸ್ ಆರರ ಅಪವರ್ತನಗಳು ಮೂರು ಇಂಟು ಎಂ ಪ್ಲಸ್ ಒಂದು ಇಂಟು ಎಂ ಪ್ಲಸ್ ಎರಡು ಆಗಿರುತ್ತದೆ. ಇಂತಹ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು ಮೊದಲು ಹೊರತೆಗೆಯುವುದು ಬಹಳ ಮುಖ್ಯ, ಇಲ್ಲದಿದ್ದರೆ ಲೆಕ್ಕಾಚಾರವು ಜಟಿಲವಾಗಬಹುದು.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ನಾವು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರವನ್ನು ಬರೆಯೋಣ. ನಾವು ಮೊದಲ ಹಂತದಲ್ಲಿ ಹೊರತೆಗೆದ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ 3 ಅನ್ನು ಸೇರಿಸಲು ಮರೆಯಬಾರದು. ಆದ್ದರಿಂದ, $3m^2 + 9m + 6$ ರ ಅಪವರ್ತನಗಳು $3(m+1)(m+2)$ ಆಗಿರುತ್ತದೆ. ಇಂತಹ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಸಾಮಾನ್ಯ ಅಪವರ್ತನವನ್ನು ಮೊದಲು ಹೊರತೆಗೆಯುವುದು ಬಹಳ ಮುಖ್ಯ, ಇಲ್ಲದಿದ್ದರೆ ಲೆಕ್ಕಾಚಾರವು ಜಟಿಲವಾಗಬಹುದು.",
+  "display_bullets": [
+    "ಹಂತ 1 ರಿಂದ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ: 3",
+    "ಹಂತ 2-3 ರಿಂದ ತ್ರಿಪದದ ಅಪವರ್ತನಗಳು: $(m+1)(m+2)$",
+    "ಅಂತಿಮ ಉತ್ತರ: $3(m+1)(m+2)$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "3m^2 + 9m + 6 = 3(m+1)(m+2)",
+    "placeholder_note": "Final factorisation"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "advanced",
+  "source_example_id": "ALG-FAC-2_example_13",
+  "final_answer": "$3(m+1)(m+2)$",
+  "final_answer_display": "$3(m+1)(m+2)$",
+  "chunk_id": "ALG-FAC-2_concept_5_chunk_022"
+}

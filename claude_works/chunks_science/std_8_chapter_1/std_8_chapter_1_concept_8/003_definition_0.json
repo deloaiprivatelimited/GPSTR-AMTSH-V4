@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಆಹಾರದ ಮೂಲವಾಗಿ ಪ್ರಾಣಿಗಳು",
+  "script": "ನಾವು ಹಿಂದಿನ ಪಾಠಗಳಲ್ಲಿ ಸಸ್ಯಗಳಿಂದ ಆಹಾರ ಹೇಗೆ ಸಿಗುತ್ತದೆ ಎಂದು ಕಲಿತಿದ್ದೇವೆ. ಆದರೆ ನಮ್ಮ ಆಹಾರದ ದೊಡ್ಡ ಭಾಗ ಪ್ರಾಣಿಗಳಿಂದಲೂ ಬರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ಹಸು ಮತ್ತು ಎಮ್ಮೆಗಳಿಂದ ಹಾಲು ಪಡೆಯುತ್ತೇವೆ. ಕೋಳಿಗಳಿಂದ ಮೊಟ್ಟೆ ಮತ್ತು ಮಾಂಸ ಸಿಗುತ್ತದೆ. ಹಾಗೆಯೇ, ಮೀನು ಕೂಡ ಒಂದು ಪ್ರಮುಖ ಆಹಾರದ ಮೂಲವಾಗಿದೆ. ಈ ಎಲ್ಲಾ ಪ್ರಾಣಿಜನ್ಯ ಉತ್ಪನ್ನಗಳು ನಮ್ಮ ಪೋಷಣೆಗೆ ಅತ್ಯಗತ್ಯ. ಹಾಗಾದರೆ, ಈ ಪ್ರಾಣಿಗಳನ್ನು ನಾವು ಹೇಗೆ ಬೆಳೆಸುತ್ತೇವೆ ಮತ್ತು ನೋಡಿಕೊಳ್ಳುತ್ತೇವೆ? ಇದರ ಬಗ್ಗೆಯೇ ನಾವು ಈಗ ಕಲಿಯೋಣ.",
+  "script_display": "ನಾವು ಹಿಂದಿನ ಪಾಠಗಳಲ್ಲಿ ಸಸ್ಯಗಳಿಂದ ಆಹಾರ ಹೇಗೆ ಸಿಗುತ್ತದೆ ಎಂದು ಕಲಿತಿದ್ದೇವೆ. ಆದರೆ ನಮ್ಮ ಆಹಾರದ ದೊಡ್ಡ ಭಾಗ ಪ್ರಾಣಿಗಳಿಂದಲೂ ಬರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ಹಸು ಮತ್ತು ಎಮ್ಮೆಗಳಿಂದ ಹಾಲು ಪಡೆಯುತ್ತೇವೆ. ಕೋಳಿಗಳಿಂದ ಮೊಟ್ಟೆ ಮತ್ತು ಮಾಂಸ ಸಿಗುತ್ತದೆ. ಹಾಗೆಯೇ, ಮೀನು ಕೂಡ ಒಂದು ಪ್ರಮುಖ ಆಹಾರದ ಮೂಲವಾಗಿದೆ. ಈ ಎಲ್ಲಾ ಪ್ರಾಣಿಜನ್ಯ ಉತ್ಪನ್ನಗಳು ನಮ್ಮ ಪೋಷಣೆಗೆ ಅತ್ಯಗತ್ಯ. ಹಾಗಾದರೆ, ಈ ಪ್ರಾಣಿಗಳನ್ನು ನಾವು ಹೇಗೆ ಬೆಳೆಸುತ್ತೇವೆ ಮತ್ತು ನೋಡಿಕೊಳ್ಳುತ್ತೇವೆ? ಇದರ ಬಗ್ಗೆಯೇ ನಾವು ಈಗ ಕಲಿಯೋಣ.",
+  "display_bullets": [
+    "ಹಾಲು (ಹಸು, ಎಮ್ಮೆ)",
+    "ಮೊಟ್ಟೆ ಮತ್ತು ಮಾಂಸ (ಕೋಳಿ)",
+    "ಮೀನು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A visually appealing collage of various animal-based food products. On the left, a glass of milk and a block of cheese next to a cartoon cow. In the middle, a carton of eggs and a piece of cooked chicken next to a hen. On the right, a few raw fish on ice.",
+    "labels": "ಹಾಲು, ಮೊಟ್ಟೆ, ಮಾಂಸ, ಮೀನು",
+    "scientific_significance": "Illustrates the primary food products obtained from animals, setting the context for animal husbandry.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "context_setting",
+  "chunk_id": "std_8_chapter_1_concept_8_chunk_003"
+}

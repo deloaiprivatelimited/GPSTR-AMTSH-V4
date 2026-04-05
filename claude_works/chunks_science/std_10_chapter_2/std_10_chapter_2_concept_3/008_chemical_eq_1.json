@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತ್ಯಾಮ್ಲಗಳ ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್‌ಗಳೊಂದಿಗಿನ ವರ್ತನೆ",
+  "script": "ಈಗ, ಪ್ರತ್ಯಾಮ್ಲಗಳು ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್‌ಗಳೊಂದಿಗೆ ಹೇಗೆ ವರ್ತಿಸುತ್ತವೆ ಎಂದು ನೋಡೋಣ. ಈ ಕ್ರಿಯೆಯು ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲದ ನಡುವಿನ ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯನ್ನು ಹೋಲುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ, ಒಂದು ಪ್ರತ್ಯಾಮ್ಲವು ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್‌ನೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ಅದು ಲವಣ ಮತ್ತು ನೀರನ್ನು ಉತ್ಪನ್ನವಾಗಿ ನೀಡುತ್ತದೆ.",
+  "script_display": "ಈಗ, ಪ್ರತ್ಯಾಮ್ಲಗಳು ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್‌ಗಳೊಂದಿಗೆ ಹೇಗೆ ವರ್ತಿಸುತ್ತವೆ ಎಂದು ನೋಡೋಣ. ಈ ಕ್ರಿಯೆಯು ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲದ ನಡುವಿನ ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯನ್ನು ಹೋಲುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ, ಒಂದು ಪ್ರತ್ಯಾಮ್ಲವು ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್‌ನೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ಅದು ಲವಣ ಮತ್ತು ನೀರನ್ನು ಉತ್ಪನ್ನವಾಗಿ ನೀಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಪ್ರತ್ಯಾಮ್ಲ} + \\text{ಅಲೋಹೀಯ ಆಕ್ಸೈಡ್} \\rightarrow \\text{ಲವಣ} + \\text{ನೀರು}",
+    "placeholder_note": "General word equation for the reaction of a base with a non-metallic oxide."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_10_chapter_2_concept_3_chunk_008"
+}

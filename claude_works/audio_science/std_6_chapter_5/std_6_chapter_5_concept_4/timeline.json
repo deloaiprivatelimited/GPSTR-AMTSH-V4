@@ -1,0 +1,101 @@
+{
+  "module_id": "std_6_chapter_5_concept_4",
+  "chapter_code": "std_6_chapter_5",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 328.208,
+  "total_duration_formatted": "5:28",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_5_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಚಲನೆಯ ವಿಧಗಳು",
+      "type": "slide",
+      "start": 0.0,
+      "end": 44.131,
+      "duration": 44.131,
+      "script_words": 72
+    },
+    {
+      "chunk_id": "std_6_chapter_5_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "slide",
+      "start": 44.731,
+      "end": 70.862,
+      "duration": 26.131,
+      "script_words": 36
+    },
+    {
+      "chunk_id": "std_6_chapter_5_concept_4_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಸರಳರೇಖಾತ್ಮಕ ಚಲನೆ (Rectilinear Motion)",
+      "type": "concept_explanation",
+      "start": 71.462,
+      "end": 116.193,
+      "duration": 44.731,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_5_concept_4_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ವೃತ್ತೀಯ ಚಲನೆ (Circular Motion)",
+      "type": "concept_explanation",
+      "start": 116.793,
+      "end": 159.124,
+      "duration": 42.331,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_5_concept_4_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಆಂದೋಲನ ಚಲನೆ (Oscillatory Motion)",
+      "type": "concept_explanation",
+      "start": 159.724,
+      "end": 199.095,
+      "duration": 39.371,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_6_chapter_5_concept_4_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಆವರ್ತಕ ಚಲನೆ (Periodic Motion)",
+      "type": "concept_explanation",
+      "start": 199.695,
+      "end": 244.826,
+      "duration": 45.131,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_6_chapter_5_concept_4_chunk_007",
+      "chunk_file": "007_classification_cont_0_4.json",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "slide_title": "ಚಲನೆಗಳ ಸಂಯೋಜನೆ",
+      "type": "concept_explanation",
+      "start": 245.426,
+      "end": 287.557,
+      "duration": 42.131,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_6_chapter_5_concept_4_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಚಲನೆಯ ವಿಧಗಳು",
+      "type": "recap",
+      "start": 288.157,
+      "end": 327.608,
+      "duration": 39.451,
+      "script_words": 51
+    }
+  ]
+}

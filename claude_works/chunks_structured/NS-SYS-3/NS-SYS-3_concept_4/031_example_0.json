@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಪರಿಶೀಲನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 7 ರೂಟ್ 5, 7 ಬೈ ರೂಟ್ 5, ರೂಟ್ 2 ಪ್ಲಸ್ 21, ಮತ್ತು ಪೈ ಮೈನಸ್ 2 ಇವು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳೇ ಅಥವಾ ಅಲ್ಲವೇ ಎಂಬುದನ್ನು ನಾವು ಪರಿಶೀಲಿಸಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಕೆಲವು ತಿಳಿದಿರುವ ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಅಂದಾಜು ದಶಮಾಂಶ ಬೆಲೆಗಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ರೂಟ್ 5 ಸುಮಾರು 2 ಪಾಯಿಂಟ್ 2 3 6, ರೂಟ್ 2 ಸುಮಾರು 1 ಪಾಯಿಂಟ್ 4 1 4 2, ಮತ್ತು ಪೈ ಸುಮಾರು 3 ಪಾಯಿಂಟ್ 1 4 1 5.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $7\\sqrt{5}$, $\\frac{7}{\\sqrt{5}}$, $\\sqrt{2} + 21$, ಮತ್ತು $\\pi - 2$ ಇವು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳೇ ಅಥವಾ ಅಲ್ಲವೇ ಎಂಬುದನ್ನು ನಾವು ಪರಿಶೀಲಿಸಬೇಕು. ಇದನ್ನು ಮಾಡಲು, ನಾವು ಕೆಲವು ತಿಳಿದಿರುವ ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಅಂದಾಜು ದಶಮಾಂಶ ಬೆಲೆಗಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, $\\sqrt{5} \\approx 2.236...$, $\\sqrt{2} \\approx 1.4142...$, ಮತ್ತು $\\pi \\approx 3.1415...$",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆಗಳು: $7\\sqrt{5}$, $\\frac{7}{\\sqrt{5}}$, $\\sqrt{2} + 21$, $\\pi - 2$",
+    "ಪರಿಶೀಲಿಸಬೇಕಾದದ್ದು: ಇವು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳೇ, ಅಲ್ಲವೇ?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sqrt{5} \\approx 2.236... \\\\ \\sqrt{2} \\approx 1.4142... \\\\ \\pi \\approx 3.1415...",
+    "placeholder_note": "Display known irrational values used for calculation."
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SYS-3_example_11",
+  "chunk_id": "NS-SYS-3_concept_4_chunk_031"
+}

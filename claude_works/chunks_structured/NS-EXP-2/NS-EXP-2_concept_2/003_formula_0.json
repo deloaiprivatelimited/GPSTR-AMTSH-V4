@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಒಂದೇ ಆಧಾರವಿರುವ ಘಾತಗಳ ಗುಣಲಬ್ಧ",
+  "script": "ಘಾತಾಂಕಗಳ ಮೊದಲನೇ ನಿಯಮವನ್ನು ನೋಡೋಣ, ಇದನ್ನು ಒಂದೇ ಆಧಾರವಿರುವ ಘಾತಗಳ ಗುಣಲಬ್ಧದ ನಿಯಮ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ನಿಯಮವು, a to the power m times a to the power n equals a to the power m plus n ಆಗಿದೆ. ಇಲ್ಲಿ, 'a' ಎಂಬುದು ಆಧಾರ, ಅಂದರೆ ಬೇಸ್. 'm' ಮತ್ತು 'n' ಗಳು ಘಾತಸೂಚಿಗಳು, ಅಂದರೆ ಎಕ್ಸ್ಪೋನೆಂಟ್ಸ್. ಈ ನಿಯಮದ ಸರಳ ಅರ್ಥವೇನೆಂದರೆ, ಒಂದೇ ಆಧಾರವಿರುವ ಪದಗಳನ್ನು ಗುಣಿಸುವಾಗ, ನಾವು ಆಧಾರವನ್ನು ಬದಲಿಸದೆ ಘಾತಸೂಚಿಗಳನ್ನು ಕೂಡಬೇಕು. ಈ ನಿಯಮವು 'a' ಸೊನ್ನೆಯಲ್ಲದ ಯಾವುದೇ ಪೂರ್ಣಾಂಕವಾಗಿದ್ದಾಗ ಮತ್ತು 'm' ಮತ್ತು 'n' ಯಾವುದೇ ಪೂರ್ಣಾಂಕಗಳಾಗಿದ್ದಾಗ ಅನ್ವಯಿಸುತ್ತದೆ.",
+  "script_display": "ಘಾತಾಂಕಗಳ ಮೊದಲನೇ ನಿಯಮವನ್ನು ನೋಡೋಣ, ಇದನ್ನು ಒಂದೇ ಆಧಾರವಿರುವ ಘಾತಗಳ ಗುಣಲಬ್ಧದ ನಿಯಮ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ನಿಯಮವು, $a^m \\times a^n = a^{m+n}$ ಆಗಿದೆ. ಇಲ್ಲಿ, 'a' ಎಂಬುದು ಆಧಾರ (base). 'm' ಮತ್ತು 'n' ಗಳು ಘಾತಸೂಚಿಗಳು (exponents). ಈ ನಿಯಮದ ಸರಳ ಅರ್ಥವೇನೆಂದರೆ, ಒಂದೇ ಆಧಾರವಿರುವ ಪದಗಳನ್ನು ಗುಣಿಸುವಾಗ, ನಾವು ಆಧಾರವನ್ನು ಬದಲಿಸದೆ ಘಾತಸೂಚಿಗಳನ್ನು ಕೂಡಬೇಕು. ಈ ನಿಯಮವು 'a' ಸೊನ್ನೆಯಲ್ಲದ ಯಾವುದೇ ಪೂರ್ಣಾಂಕವಾಗಿದ್ದಾಗ ಮತ್ತು 'm' ಮತ್ತು 'n' ಯಾವುದೇ ಪೂರ್ಣಾಂಕಗಳಾಗಿದ್ದಾಗ ಅನ್ವಯಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ನಿಯಮ: $a^m \\times a^n = a^{m+n}$",
+    "'a' ಎಂಬುದು ಆಧಾರ (base).",
+    "'m' ಮತ್ತು 'n' ಗಳು ಘಾತಸೂಚಿಗಳು (exponents).",
+    "ಒಂದೇ ಆಧಾರವಿರುವ ಪದಗಳನ್ನು ಗುಣಿಸುವಾಗ, ಘಾತಸೂಚಿಗಳನ್ನು ಕೂಡಬೇಕು."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_base",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "$$a^m \\times a^n = a^{m+n}$$",
+    "placeholder_note": "Formula for product of powers with the same base."
+  },
+  "chunk_id": "NS-EXP-2_concept_2_chunk_003"
+}

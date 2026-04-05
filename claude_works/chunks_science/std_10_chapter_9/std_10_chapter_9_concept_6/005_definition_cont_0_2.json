@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಗಾಳಿಯಿಂದ ನೀರಿಗೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಬೆಳಕಿನ ಕಿರಣವು ಗಾಳಿಯಿಂದ ನೀರಿಗೆ ಚಲಿಸುತ್ತಿದೆ ಎಂದು ಭಾವಿಸೋಣ. ಇಲ್ಲಿ, ಮಾಧ್ಯಮ ಒಂದು ಗಾಳಿ, ಮತ್ತು ಮಾಧ್ಯಮ ಎರಡು ನೀರು. ಹಾಗಾಗಿ, ನಾವು ನೀರಿನ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕವನ್ನು ಗಾಳಿಗೆ ಹೋಲಿಸಿ ಕಂಡುಹಿಡಿಯುತ್ತಿದ್ದೇವೆ. ಇದನ್ನು ಎನ್ ವಾಟರ್, ಏರ್ ಎಂದು ಬರೆಯಬಹುದು. ಸೂತ್ರದ ಪ್ರಕಾರ, ಇದು ಗಾಳಿಯಲ್ಲಿನ ಬೆಳಕಿನ ವೇಗವನ್ನು ನೀರಿನಲ್ಲಿನ ಬೆಳಕಿನ ವೇಗದಿಂದ ಭಾಗಿಸಿದಾಗ ಸಿಗುತ್ತದೆ. ಗಾಳಿಗಿಂತ ನೀರಿನಲ್ಲಿ ಬೆಳಕು ನಿಧಾನವಾಗಿ ಚಲಿಸುವುದರಿಂದ, ಈ ಅನುಪಾತದ ಮೌಲ್ಯ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಬೆಳಕಿನ ಕಿರಣವು ಗಾಳಿಯಿಂದ ನೀರಿಗೆ ಚಲಿಸುತ್ತಿದೆ ಎಂದು ಭಾವಿಸೋಣ.\nಮಾಧ್ಯಮ 1 = ಗಾಳಿ (Air)\nಮಾಧ್ಯಮ 2 = ನೀರು (Water)\nಹಾಗಾಗಿ, ನಾವು ನೀರಿನ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕವನ್ನು ಗಾಳಿಗೆ ಹೋಲಿಸಿ ಕಂಡುಹಿಡಿಯುತ್ತಿದ್ದೇವೆ ($n_{\\text{water, air}}$).\nಸೂತ್ರ: $n_{21} = \\frac{v_{\\text{air}}}{v_{\\text{water}}}$.\nಗಾಳಿಗಿಂತ ನೀರಿನಲ್ಲಿ ಬೆಳಕು ನಿಧಾನವಾಗಿ ಚಲಿಸುವುದರಿಂದ, ಈ ಅನುಪಾತದ ಮೌಲ್ಯ 1ಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮಾಧ್ಯಮ 1: ಗಾಳಿ (Air)",
+    "ಮಾಧ್ಯಮ 2: ನೀರು (Water)",
+    "ಸೂತ್ರ: $n_{\\text{water, air}} = v_{\\text{air}} / v_{\\text{water}}$",
+    "ಫಲಿತಾಂಶವು 1 ಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A light ray travels from an upper medium (Air, Medium 1) into a lower medium (Water, Medium 2). The ray bends towards the normal as it enters the water, showing refraction. The angle of incidence in air is larger than the angle of refraction in water. The velocities v1 (in air) and v2 (in water) are labeled along the ray's path in each medium.",
+    "labels": "Air (Medium 1), Water (Medium 2), Incident Ray, Refracted Ray, Normal, v1, v2",
+    "scientific_significance": "Illustrates the concept of light bending and slowing down as it enters a denser medium, which is the basis for defining relative refractive index.",
+    "placeholder_note": "Image to be generated for light passing from air to water."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_9_concept_6_chunk_005"
+}

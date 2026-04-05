@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸೂತ್ರದ ಮೂಲಕ ತಿಳುವಳಿಕೆ",
+  "script": "ಈಗ, ಪ್ರಯೋಗದಲ್ಲಿ ನಡೆದ ಬದಲಾವಣೆಯನ್ನು ರಾಸಾಯನಿಕ ಸೂತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನೀಲಿ ಬಣ್ಣದ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಹರಳುಗಳ ರಾಸಾಯನಿಕ ಸೂತ್ರ ಸಿ ಯು ಎಸ್ ಓ ಫೋರ್ ಡಾಟ್ ಫೈವ್ ಎಚ್ ಟು ಓ. ಇಲ್ಲಿ ಡಾಟ್ ಫೈವ್ ಎಚ್ ಟು ಓ ಎಂಬುದು ಸ್ಪಟಿಕೀಕರಣದ ನೀರನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಂದರೆ, ತಾಮ್ರದ ಸಲ್ಫೇಟ್‌ನ ಒಂದು ಘಟಕದೊಂದಿಗೆ ಐದು ನೀರಿನ ಅಣುಗಳು ಸೇರಿಕೊಂಡಿವೆ. ಇದನ್ನು ಕಾಸಿದಾಗ, ಈ ಐದು ನೀರಿನ ಅಣುಗಳು ಆವಿಯಾಗಿ ಬೇರ್ಪಡುತ್ತವೆ. ಆಗ ಉಳಿಯುವುದು ಕೇವಲ ಸಿ ಯು ಎಸ್ ಓ ಫೋರ್, ಅಂದರೆ ನಿರ್ಜಲ ತಾಮ್ರದ ಸಲ್ಫೇಟ್. ಇದು ಬಿಳಿ ಬಣ್ಣದ ಪುಡಿಯಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ, ಪ್ರಯೋಗದಲ್ಲಿ ನಡೆದ ಬದಲಾವಣೆಯನ್ನು ರಾಸಾಯನಿಕ ಸೂತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನೀಲಿ ಬಣ್ಣದ ತಾಮ್ರದ ಸಲ್ಫೇಟ್ ಹರಳುಗಳ ರಾಸಾಯನಿಕ ಸೂತ್ರ CuSO₄·5H₂O. ಇಲ್ಲಿ '·5H₂O' ಎಂಬುದು ಸ್ಪಟಿಕೀಕರಣದ ನೀರನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಂದರೆ, ತಾಮ್ರದ ಸಲ್ಫೇಟ್‌ನ (CuSO₄) ಒಂದು ಘಟಕದೊಂದಿಗೆ ಐದು ನೀರಿನ ಅಣುಗಳು (5H₂O) ಸೇರಿಕೊಂಡಿವೆ. ಇದನ್ನು ಕಾಸಿದಾಗ, ಈ ಐದು ನೀರಿನ ಅಣುಗಳು ಆವಿಯಾಗಿ ಬೇರ್ಪಡುತ್ತವೆ. ಆಗ ಉಳಿಯುವುದು ಕೇವಲ CuSO₄, ಅಂದರೆ ನಿರ್ಜಲ ತಾಮ್ರದ ಸಲ್ಫೇಟ್. ಇದು ಬಿಳಿ ಬಣ್ಣದ ಪುಡಿಯಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "text_top_visual_bottom",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "{\\color{blue}CuSO_4 \\cdot 5H_2O(s)} \\xrightarrow{\\Delta} {\\color{white}CuSO_4(s)} + 5H_2O(g)",
+    "placeholder_note": "Chemical equation showing the dehydration of copper sulfate. The first compound is blue, the second is white."
+  },
+  "chunk_id": "std_10_chapter_2_concept_10_chunk_005"
+}

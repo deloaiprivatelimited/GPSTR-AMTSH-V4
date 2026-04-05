@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾದ ಉಪಕರಣಗಳು",
+  "script": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಉಪಕರಣಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಬೀಕರ್ ತೆಗೆದುಕೊಂಡು ಅದರಲ್ಲಿ ಸ್ವಲ್ಪ ನೀರನ್ನು ತುಂಬಬೇಕು. ಶುದ್ಧ ನೀರು ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಲ್ಲ, ಆದ್ದರಿಂದ ಅದರ ವಾಹಕತೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ನಾವು ಅದಕ್ಕೆ ಕೆಲವು ಹನಿ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ ಅಥವಾ ಸ್ವಲ್ಪ ಉಪ್ಪನ್ನು ಸೇರಿಸುತ್ತೇವೆ. ನಂತರ, ಎರಡು ಕಾರ್ಬನ್ ದಂಡಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇವು ನಮ್ಮ ವಿದ್ಯುದ್ವಾರಗಳಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ಅಂತಿಮವಾಗಿ, ಈ ವ್ಯವಸ್ಥೆಗೆ ವಿದ್ಯುತ್ ಪೂರೈಸಲು ನಮಗೆ ಒಂದು ಬ್ಯಾಟರಿ ಮತ್ತು ಸಂಪರ್ಕಿಸಲು ವಾಹಕ ತಂತಿಗಳು ಬೇಕು.",
+  "script_display": "ಈ ಪ್ರಯೋಗವನ್ನು ಮಾಡಲು, ನಮಗೆ ಕೆಲವು ಸರಳ ಉಪಕರಣಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ಬೀಕರ್ ತೆಗೆದುಕೊಂಡು ಅದರಲ್ಲಿ ಸ್ವಲ್ಪ ನೀರನ್ನು ತುಂಬಬೇಕು. ಶುದ್ಧ ನೀರು ವಿದ್ಯುತ್‌ನ ಉತ್ತಮ ವಾಹಕವಲ್ಲ, ಆದ್ದರಿಂದ ಅದರ ವಾಹಕತೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ನಾವು ಅದಕ್ಕೆ ಕೆಲವು ಹನಿ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ (H₂SO₄) ಅಥವಾ ಸ್ವಲ್ಪ ಉಪ್ಪನ್ನು (NaCl) ಸೇರಿಸುತ್ತೇವೆ. ನಂತರ, ಎರಡು ಕಾರ್ಬನ್ ದಂಡಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಇವು ನಮ್ಮ ವಿದ್ಯುದ್ವಾರಗಳಾಗಿ (electrodes) ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ಅಂತಿಮವಾಗಿ, ಈ ವ್ಯವಸ್ಥೆಗೆ ವಿದ್ಯುತ್ ಪೂರೈಸಲು ನಮಗೆ ಒಂದು ಬ್ಯಾಟರಿ ಮತ್ತು ಸಂಪರ್ಕಿಸಲು ವಾಹಕ ತಂತಿಗಳು ಬೇಕು.",
+  "display_bullets": [
+    "ಒಂದು ಬೀಕರ್ ಮತ್ತು ನೀರು",
+    "ವಾಹಕತೆ ಹೆಚ್ಚಿಸಲು: ಉಪ್ಪು ಅಥವಾ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ",
+    "ಎರಡು ಕಾರ್ಬನ್ ದಂಡಗಳು (ವಿದ್ಯುದ್ವಾರಗಳು)",
+    "ಬ್ಯಾಟರಿ ಮತ್ತು ವಾಹಕ ತಂತಿಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the experimental setup for the electrolysis of water. A beaker contains water with two carbon rods (electrodes) immersed in it. The rods are connected by wires to the positive and negative terminals of a battery.",
+    "labels": "ಬೀಕರ್, ನೀರು, ಕಾರ್ಬನ್ ದಂಡ (ವಿದ್ಯುದ್ವಾರ), ಬ್ಯಾಟರಿ, ವಾಹಕ ತಂತಿಗಳು, ಧನಾಗ್ರ (+), ಋಣಾಗ್ರ (-)",
+    "scientific_significance": "Illustrates the basic setup for electrolysis, showing how an electric circuit is completed through a conductive solution.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_science_chapter_11_concept_4_chunk_013"
+}

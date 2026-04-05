@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "VIBGYOR ಬಣ್ಣಗಳು (ಮುಂದುವರಿದಿದೆ)",
+  "script": "ವರ್ಣಪಂಕ್ತಿಯಲ್ಲಿನ ಮುಂದಿನ ಬಣ್ಣಗಳನ್ನು ನೋಡೋಣ. ವಿಬ್ಗಯೋರ್ ನಲ್ಲಿ ಬಿ ಅಕ್ಷರವು ನೀಲಿ ಬಣ್ಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ನಮ್ಮ ಗ್ರಹದ ಬಹುಭಾಗವನ್ನು ಆವರಿಸಿರುವ ಸಾಗರ ಮತ್ತು ಆಕಾಶದ ಬಣ್ಣ ನೀಲಿಯಾಗಿರುವುದು ನಮಗೆಲ್ಲರಿಗೂ ತಿಳಿದಿದೆ. ನಂತರ, ಜಿ ಅಕ್ಷರವು ಹಸಿರು ಬಣ್ಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಪ್ರಕೃತಿಯಲ್ಲಿ, ಗಿಡಮರಗಳ ಎಲೆಗಳು ಕ್ಲೋರೋಫಿಲ್ ಎಂಬ ವರ್ಣಕದಿಂದ ಹಸಿರು ಬಣ್ಣದಲ್ಲಿರುತ್ತವೆ. ಕೊನೆಯದಾಗಿ ಈ ಸ್ಲೈಡ್ ನಲ್ಲಿ, ವೈ ಅಕ್ಷರವು ಹಳದಿ ಬಣ್ಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸೂರ್ಯಕಾಂತಿ ಹೂವು ಅಥವಾ ಮಾಗಿದ ಬಾಳೆಹಣ್ಣು ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆಗಳಾಗಿವೆ.",
+  "script_display": "ವರ್ಣಪಂಕ್ತಿಯಲ್ಲಿನ ಮುಂದಿನ ಬಣ್ಣಗಳನ್ನು ನೋಡೋಣ. VIBGYOR ನಲ್ಲಿ B ಅಕ್ಷರವು ನೀಲಿ (Blue) ಬಣ್ಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಆಕಾಶದ ಬಣ್ಣ ನೀಲಿಯಾಗಿರುವುದು ನಮಗೆಲ್ಲರಿಗೂ ತಿಳಿದಿದೆ. ನಂತರ, G ಅಕ್ಷರವು ಹಸಿರು (Green) ಬಣ್ಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಗಿಡಮರಗಳ ಎಲೆಗಳು ಹಸಿರು ಬಣ್ಣದಲ್ಲಿರುತ್ತವೆ. ಕೊನೆಯದಾಗಿ ಈ ಸ್ಲೈಡ್ ನಲ್ಲಿ, Y ಅಕ್ಷರವು ಹಳದಿ (Yellow) ಬಣ್ಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸೂರ್ಯಕಾಂತಿ ಹೂವು ಅಥವಾ ಮಾಗಿದ ಬಾಳೆಹಣ್ಣು ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆಗಳಾಗಿವೆ.",
+  "display_bullets": [
+    "B - ನೀಲಿ (Blue)",
+    "G - ಹಸಿರು (Green)",
+    "Y - ಹಳದಿ (Yellow)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಬೆಳಕಿನ ವರ್ಣಪಂಕ್ತಿ (spectrum) ಯನ್ನು ತೋರಿಸುವ ಚಿತ್ರ. VIBGYOR ಬಣ್ಣಗಳಲ್ಲಿ ನೀಲಿ (Blue), ಹಸಿರು (Green), ಮತ್ತು ಹಳದಿ (Yellow) ಬಣ್ಣಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "VIBGYOR Spectrum - Blue, Green, Yellow",
+    "scientific_significance": "ಬಿಳಿ ಬೆಳಕಿನ ಘಟಕ ಬಣ್ಣಗಳನ್ನು ಮತ್ತು ಅವುಗಳ ಕ್ರಮವನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing the color spectrum with Blue, Green, and Yellow bands highlighted."
+  },
+  "chunk_id": "std_7_chapter_11_concept_8_chunk_008"
+}

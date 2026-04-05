@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಕೋನದ ಶೃಂಗ",
+  "script": "ಈಗ ಒಂದು ನಿರ್ದಿಷ್ಟ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ನಾವು ಕೋನ A B C ಯನ್ನು ನೋಡುತ್ತಿದ್ದೇವೆ. ಈ ಕೋನವು B A ಮತ್ತು B C ಎಂಬ ಎರಡು ಕಿರಣಗಳಿಂದ ಉಂಟಾಗಿದೆ. ನೀವು ಗಮನಿಸಬಹುದು, ಈ ಎರಡೂ ಕಿರಣಗಳ ಸಾಮಾನ್ಯ ಆರಂಭಿಕ ಬಿಂದು B ಆಗಿದೆ. ಆದ್ದರಿಂದ, B ಬಿಂದುವು ಕೋನ A B C ಯ ಶೃಂಗವಾಗಿದೆ. ಒಂದು ಪ್ರಮುಖ ವಿಷಯವೆಂದರೆ, ಕೋನವನ್ನು ಹೆಸರಿಸುವಾಗ, ಶೃಂಗವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಅಕ್ಷರವನ್ನು ಯಾವಾಗಲೂ ಮಧ್ಯದಲ್ಲಿ ಬರೆಯುತ್ತೇವೆ, ಅಂದರೆ ಕೋನ A B C. ಇಲ್ಲಿ B ಶೃಂಗವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಒಂದು ನಿರ್ದಿಷ್ಟ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ನಾವು $\\angle ABC$ ಯನ್ನು ನೋಡುತ್ತಿದ್ದೇವೆ. ಈ ಕೋನವು $\\vec{BA}$ ಮತ್ತು $\\vec{BC}$ ಎಂಬ ಎರಡು ಕಿರಣಗಳಿಂದ ಉಂಟಾಗಿದೆ. ನೀವು ಗಮನಿಸಬಹುದು, ಈ ಎರಡೂ ಕಿರಣಗಳ ಸಾಮಾನ್ಯ ಆರಂಭಿಕ ಬಿಂದು $B$ ಆಗಿದೆ. ಆದ್ದರಿಂದ, $B$ ಬಿಂದುವು $\\angle ABC$ ಯ ಶೃಂಗವಾಗಿದೆ. ಒಂದು ಪ್ರಮುಖ ವಿಷಯವೆಂದರೆ, ಕೋನವನ್ನು ಹೆಸರಿಸುವಾಗ, ಶೃಂಗವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಅಕ್ಷರವನ್ನು ಯಾವಾಗಲೂ ಮಧ್ಯದಲ್ಲಿ ಬರೆಯುತ್ತೇವೆ, ಅಂದರೆ $\\angle ABC$. ಇಲ್ಲಿ $B$ ಶೃಂಗವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಚಿತ್ರದಲ್ಲಿ, $\\angle ABC$ ಯನ್ನು ಗಮನಿಸಿ.",
+    "ಇದು $\\vec{BA}$ ಮತ್ತು $\\vec{BC}$ ಎಂಬ ಎರಡು ಕಿರಣಗಳಿಂದ ಉಂಟಾಗಿದೆ.",
+    "ಈ ಎರಡೂ ಕಿರಣಗಳ ಸಾಮಾನ್ಯ ಆರಂಭಿಕ ಬಿಂದು $B$ ಆಗಿದೆ.",
+    "ಆದ್ದರಿಂದ, $B$ ಬಿಂದುವು $\\angle ABC$ ಯ ಶೃಂಗವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An angle labeled with points A, B, and C. Point B is the vertex. The rays are BA and BC. The vertex B is highlighted with a prominent dot and the label 'ಶೃಂಗ (B)'.",
+    "labels": "A, B, C, ಶೃಂಗ",
+    "mathematical_significance": "Clearly identifies the vertex in a standard angle notation (∠ABC), reinforcing that the middle letter represents the vertex.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "GEO-LA-1_concept_2_def_2_s2",
+  "chunk_id": "GEO-LA-1_concept_2_chunk_009"
+}

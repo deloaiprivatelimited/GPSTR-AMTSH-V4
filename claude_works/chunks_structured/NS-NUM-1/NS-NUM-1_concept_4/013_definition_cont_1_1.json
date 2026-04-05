@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 1: n = 6 ರಿಂದ ಪ್ರಾರಂಭ",
+  "script": "ಈ ನಿಯಮಗಳು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ ಎಂದು ನೋಡಲು ಒಂದು ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಾವು ಆರರಿಂದ ಪ್ರಾರಂಭಿಸೋಣ. ಆರು ಒಂದು ಸಮ ಸಂಖ್ಯೆ, ಆದ್ದರಿಂದ ನಾವು ಅದನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸುತ್ತೇವೆ, ಆಗ ನಮಗೆ ಮೂರು ಸಿಗುತ್ತದೆ. ಈಗ ನಮ್ಮ ಸಂಖ್ಯೆ ಮೂರು, ಇದು ಒಂದು ಬೆಸ ಸಂಖ್ಯೆ. ಆದ್ದರಿಂದ, ನಾವು ಅದನ್ನು ಮೂರರಿಂದ ಗುಣಿಸಿ ಒಂದನ್ನು ಕೂಡಿಸುತ್ತೇವೆ. ಅಂದರೆ, ಮೂರು ಇಂಟು ಮೂರು ಪ್ಲಸ್ ಒಂದು, ನಮಗೆ ಹತ್ತು ಸಿಗುತ್ತದೆ. ಹತ್ತು ಸಮ ಸಂಖ್ಯೆಯಾಗಿರುವುದರಿಂದ, ಅದನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ ಐದು ಬರುತ್ತದೆ. ಈ ರೀತಿ ಮುಂದುವರೆದರೆ, ನಮ್ಮ ಶ್ರೇಣಿ ಆರು, ಮೂರು, ಹತ್ತು, ಐದು, ಹದಿನಾರು, ಎಂಟು, ನಾಲ್ಕು, ಎರಡು, ಮತ್ತು ಕೊನೆಗೆ ಒಂದು ಆಗುತ್ತದೆ. ನೋಡಿ, ನಾವು ಒಂದನ್ನು ತಲುಪಿದೆವು.",
+  "script_display": "ಈ ನಿಯಮಗಳು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ ಎಂದು ನೋಡಲು ಒಂದು ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಾವು 6 ರಿಂದ ಪ್ರಾರಂಭಿಸೋಣ. 6 ಒಂದು ಸಮ ಸಂಖ್ಯೆ, ಆದ್ದರಿಂದ ನಾವು ಅದನ್ನು 2 ರಿಂದ ಭಾಗಿಸುತ್ತೇವೆ, ಆಗ ನಮಗೆ 3 ಸಿಗುತ್ತದೆ. ಈಗ ನಮ್ಮ ಸಂಖ್ಯೆ 3, ಇದು ಒಂದು ಬೆಸ ಸಂಖ್ಯೆ. ಆದ್ದರಿಂದ, ನಾವು ಅದನ್ನು 3 ರಿಂದ ಗುಣಿಸಿ 1 ನ್ನು ಕೂಡಿಸುತ್ತೇವೆ. ಅಂದರೆ, $3 \\times 3 + 1$, ನಮಗೆ 10 ಸಿಗುತ್ತದೆ. 10 ಸಮ ಸಂಖ್ಯೆಯಾಗಿರುವುದರಿಂದ, ಅದನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದಾಗ 5 ಬರುತ್ತದೆ. ಈ ರೀತಿ ಮುಂದುವರೆದರೆ, ನಮ್ಮ ಶ್ರೇಣಿ $6 \\rightarrow 3 \\rightarrow 10 \\rightarrow 5 \\rightarrow 16 \\rightarrow 8 \\rightarrow 4 \\rightarrow 2 \\rightarrow 1$ ಆಗುತ್ತದೆ. ನೋಡಿ, ನಾವು 1 ಅನ್ನು ತಲುಪಿದೆವು.",
+  "display_bullets": [
+    "ಪ್ರಾರಂಭಿಕ ಸಂಖ್ಯೆ: $n=6$ (ಸಮ ಸಂಖ್ಯೆ)",
+    "$6 \\div 2 = 3$ (ಬೆಸ ಸಂಖ್ಯೆ)",
+    "$3 \\times 3 + 1 = 10$ (ಸಮ ಸಂಖ್ಯೆ)",
+    "ಸಂಪೂರ್ಣ ಶ್ರೇಣಿ: $6 \\rightarrow 3 \\rightarrow 10 \\rightarrow 5 \\rightarrow 16 \\rightarrow 8 \\rightarrow 4 \\rightarrow 2 \\rightarrow 1$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A flowchart or path diagram showing the Collatz sequence starting from 6. Each number is in a box, and an arrow points to the next number. The operation (+2 or *3+1) is written on the arrow. 6 -> 3 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1.",
+    "labels": "Collatz sequence, n=6, even, odd, divide by 2, multiply by 3 and add 1",
+    "mathematical_significance": "Illustrates a simple, short path to 1 in the Collatz conjecture.",
+    "placeholder_note": "Image to be generated showing the sequence path for n=6."
+  },
+  "chunk_id": "NS-NUM-1_concept_4_chunk_013"
+}

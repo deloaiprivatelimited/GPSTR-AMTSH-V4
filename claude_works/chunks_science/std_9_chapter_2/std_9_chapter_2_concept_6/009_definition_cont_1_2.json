@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಇನ್ನೊಂದು ಉದಾಹರಣೆ: ಹೊಗೆ (Smoke)",
+  "script": "ಈಗ ಮತ್ತೊಂದು ಸಾಮಾನ್ಯ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ, ಅದುವೇ ಹೊಗೆ. ಹೊಗೆ ಕೂಡ ಒಂದು ಕಲಿಲ. ಇಲ್ಲಿ ಪ್ರಸರಣ ಹಂತ ಯಾವುದು ಎಂದು ನೀವು ಯೋಚಿಸಬಹುದು? ಹೊಗೆಯು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿರುವ ಇಂಗಾಲದಂತಹ ಅತಿ ಸೂಕ್ಷ್ಮ ಘನ ಕಣಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಈ ಘನ ಕಣಗಳೇ ಪ್ರಸರಣ ಹಂತ. ಈ ಕಣಗಳು ತೇಲಾಡುತ್ತಿರುವ ಗಾಳಿಯು ಪ್ರಸರಣ ಮಾಧ್ಯಮವಾಗುತ್ತದೆ. ಇದರಿಂದ ನಮಗೆ ತಿಳಿಯುವುದೇನೆಂದರೆ, ಪ್ರಸರಣ ಹಂತವು ಘನ, ದ್ರವ ಅಥವಾ ಅನಿಲ, ಯಾವುದೇ ಸ್ಥಿತಿಯಲ್ಲಿ ಇರಬಹುದು.",
+  "script_display": "ಈಗ ಮತ್ತೊಂದು ಸಾಮಾನ್ಯ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ, ಅದುವೇ ಹೊಗೆ (Smoke). ಹೊಗೆ ಕೂಡ ಒಂದು ಕಲಿಲ. ಇಲ್ಲಿ ಪ್ರಸರಣ ಹಂತ ಯಾವುದು ಎಂದು ನೀವು ಯೋಚಿಸಬಹುದು? ಹೊಗೆಯು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿರುವ ಇಂಗಾಲದಂತಹ (carbon) ಅತಿ ಸೂಕ್ಷ್ಮ ಘನ ಕಣಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಈ ಘನ ಕಣಗಳೇ ಪ್ರಸರಣ ಹಂತ. ಈ ಕಣಗಳು ತೇಲಾಡುತ್ತಿರುವ ಗಾಳಿಯು ಪ್ರಸರಣ ಮಾಧ್ಯಮವಾಗುತ್ತದೆ. ಇದರಿಂದ ನಮಗೆ ತಿಳಿಯುವುದೇನೆಂದರೆ, ಪ್ರಸರಣ ಹಂತವು ಘನ, ದ್ರವ ಅಥವಾ ಅನಿಲ, ಯಾವುದೇ ಸ್ಥಿತಿಯಲ್ಲಿ ಇರಬಹುದು.",
+  "display_bullets": [
+    "ಹೊಗೆಯು ಒಂದು ಕಲಿಲವಾಗಿದ್ದು, ಇದರಲ್ಲಿ ಘನ ಕಣಗಳು ಅನಿಲದಲ್ಲಿ ಹರಡಿರುತ್ತವೆ.",
+    "ಪ್ರಸರಣ ಹಂತ: ಇಂಗಾಲದಂತಹ ಘನ ಕಣಗಳು (Solid particles).",
+    "ಪ್ರಸರಣ ಮಾಧ್ಯಮ: ಗಾಳಿ (Air - a gas)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An image of smoke rising from a source, with a magnified circular inset. The inset shows tiny black solid particles (labeled 'ಪ್ರಸರಣ ಹಂತ - ಘನ ಕಣಗಳು') suspended in a gaseous medium (labeled 'ಪ್ರಸರಣ ಮಾಧ್ಯಮ - ಗಾಳಿ').",
+    "labels": "Solid particles (Dispersed Phase), Air (Dispersion Medium)",
+    "scientific_significance": "Illustrates a colloid where the dispersed phase is solid and the dispersion medium is gas, broadening the student's understanding of colloids.",
+    "placeholder_note": "Image to be generated showing solid particles in gas for smoke."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_2_concept_6_chunk_009"
+}

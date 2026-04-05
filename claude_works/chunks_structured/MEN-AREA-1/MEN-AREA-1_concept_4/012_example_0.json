@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಎತ್ತರ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ತ್ರಿಭುಜ PQR ನಲ್ಲಿ, PR ಸಮ ಎಂಟು ಸೆಂಟಿಮೀಟರ್, QR ಸಮ ನಾಲ್ಕು ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು PL, ಅಂದರೆ QR ಮೇಲಿನ ಎತ್ತರ, ಐದು ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು, ಮೊದಲನೆಯದಾಗಿ ತ್ರಿಭುಜ PQR ನ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಎರಡನೆಯದಾಗಿ QM, ಅಂದರೆ PR ಮೇಲಿನ ಎತ್ತರ. ಪರದೆಯ ಮೇಲಿನ ಚಿತ್ರದಲ್ಲಿ ಈ ಅಳತೆಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ΔPQR ನಲ್ಲಿ, $PR = 8$ cm, $QR = 4$ cm ಮತ್ತು $PL$ (QR ಮೇಲಿನ ಎತ್ತರ) $= 5$ cm ಆಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು, (i) ΔPQRನ ವಿಸ್ತೀರ್ಣ ಮತ್ತು (ii) $QM$ (PR ಮೇಲಿನ ಎತ್ತರ). ಪರದೆಯ ಮೇಲಿನ ಚಿತ್ರದಲ್ಲಿ ಈ ಅಳತೆಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಅಳತೆಗಳು: $PR = 8$ cm, $QR = 4$ cm, ಎತ್ತರ $PL = 5$ cm.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: (i) ΔPQR ನ ವಿಸ್ತೀರ್ಣ, (ii) ಎತ್ತರ $QM$."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A scalene triangle PQR. The base QR is horizontal. An altitude PL is drawn from vertex P down to the base QR. Another altitude QM is drawn from vertex Q to the side PR. The lengths are labeled: PR = 8 cm, QR = 4 cm, and PL = 5 cm. The altitude QM is labeled with a question mark.",
+    "labels": "P, Q, R, L, M, 8 cm, 4 cm, 5 cm, QM=?",
+    "mathematical_significance": "This diagram illustrates that a triangle has multiple base-altitude pairs. The area calculated using any pair (e.g., QR and PL) is the same as the area calculated using another pair (e.g., PR and QM). This relationship is key to solving the problem.",
+    "placeholder_note": "Image to be generated showing the triangle with all specified labels."
+  },
+  "source_example_id": "MEN-AREA-1_example_5",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "MEN-AREA-1_concept_4_chunk_012"
+}

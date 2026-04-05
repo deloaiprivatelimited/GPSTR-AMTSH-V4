@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ನಾವು ಮತ್ತೊಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮ್ಯಾಂಗನೀಸ್ ಡೈಆಕ್ಸೈಡ್, ಅಂದರೆ MnO two, ನಾಲ್ಕು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದ ಅಣುಗಳೊಂದಿಗೆ, ಅಂದರೆ four H C l, ವರ್ತಿಸಿದಾಗ, ಮ್ಯಾಂಗನೀಸ್ ಕ್ಲೋರೈಡ್, ಅಂದರೆ MnCl two, ಎರಡು ನೀರಿನ ಅಣುಗಳು, ಅಂದರೆ two H two O, ಮತ್ತು ಕ್ಲೋರಿನ್ ಅನಿಲ, ಅಂದರೆ Cl two, ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಮತ್ತೊಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮ್ಯಾಂಗನೀಸ್ ಡೈಆಕ್ಸೈಡ್ (MnO₂), ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದೊಂದಿಗೆ (HCl) ವರ್ತಿಸಿದಾಗ, ಮ್ಯಾಂಗನೀಸ್ ಕ್ಲೋರೈಡ್ (MnCl₂), ನೀರು (H₂O), ಮತ್ತು ಕ್ಲೋರಿನ್ (Cl₂) ಅನಿಲ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "MnO_{2}(s) + 4HCl(aq) \\rightarrow MnCl_{2}(aq) + 2H_{2}O(l) + Cl_{2}(g)",
+    "placeholder_note": "Display the balanced chemical equation prominently."
+  },
+  "chunk_id": "std_10_chapter_1_concept_4_chunk_021"
+}

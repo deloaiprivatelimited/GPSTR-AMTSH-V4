@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ವಿಧಾನ: ಗುಂಪು I - ಮಿಶ್ರಣ ತಯಾರಿಕೆ",
+  "script": "ಮೊದಲಿಗೆ, ಗುಂಪು ಒಂದರ ಕಾರ್ಯವನ್ನು ನೋಡೋಣ. ಅವರು ಒಂದು ಪಿಂಗಾಣಿ ಬಟ್ಟಲನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರಲ್ಲಿ ಸ್ವಲ್ಪ ಕಬ್ಬಿಣದ ಚೂರು ಮತ್ತು ಸಲ್ಫರ್ ಪುಡಿಯನ್ನು ಹಾಕುತ್ತಾರೆ. ನಂತರ, ಒಂದು ಗಾಜಿನ ಕಡ್ಡಿಯನ್ನು ಬಳಸಿ ಎರಡನ್ನೂ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡುತ್ತಾರೆ. ಇಲ್ಲಿ ಯಾವುದೇ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯುವುದಿಲ್ಲ, ಕೇವಲ ಭೌತಿಕವಾಗಿ ಎರಡೂ ವಸ್ತುಗಳು ಒಂದಕ್ಕೊಂದು ಬೆರೆಯುತ್ತವೆ. ಈಗ ನಮ್ಮ ಮುಂದೆ ಇರುವುದು ಕಬ್ಬಿಣ ಮತ್ತು ಸಲ್ಫರ್‌ನ ಒಂದು ಮಿಶ್ರಣ. ಇದರಲ್ಲಿ ಎರಡೂ ಘಟಕಗಳು ತಮ್ಮ ಮೂಲ ರೂಪದಲ್ಲಿಯೇ ಇರುತ್ತವೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಗುಂಪು Iರ ಕಾರ್ಯವನ್ನು ನೋಡೋಣ. ಅವರು ಒಂದು ಪಿಂಗಾಣಿ ಬಟ್ಟಲನ್ನು ತೆಗೆದುಕೊಂಡು ಅದರಲ್ಲಿ ಸ್ವಲ್ಪ ಕಬ್ಬಿಣದ ಚೂರು ಮತ್ತು ಸಲ್ಫರ್ ಪುಡಿಯನ್ನು ಹಾಕುತ್ತಾರೆ. ನಂತರ, ಒಂದು ಗಾಜಿನ ಕಡ್ಡಿಯನ್ನು ಬಳಸಿ ಎರಡನ್ನೂ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡುತ್ತಾರೆ. ಇಲ್ಲಿ ಯಾವುದೇ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯುವುದಿಲ್ಲ, ಕೇವಲ ಭೌತಿಕವಾಗಿ ಎರಡೂ ವಸ್ತುಗಳು ಒಂದಕ್ಕೊಂದು ಬೆರೆಯುತ್ತವೆ. ಈಗ ನಮ್ಮ ಮುಂದೆ ಇರುವುದು ಕಬ್ಬಿಣ ಮತ್ತು ಸಲ್ಫರ್‌ನ ಒಂದು ಮಿಶ್ರಣ. ಇದರಲ್ಲಿ ಎರಡೂ ಘಟಕಗಳು ತಮ್ಮ ಮೂಲ ರೂಪದಲ್ಲಿಯೇ ಇರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಒಂದು ಪಿಂಗಾಣಿ ಬಟ್ಟಲಿನಲ್ಲಿ ಕಬ್ಬಿಣದ ಚೂರು ಮತ್ತು ಸಲ್ಫರ್ ಪುಡಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "ಎರಡನ್ನೂ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡಿ ಮತ್ತು ಅರೆಯಿರಿ.",
+    "ಕಬ್ಬಿಣ ಮತ್ತು ಸಲ್ಫರ್‌ನ ಮಿಶ್ರಣ ಸಿದ್ಧವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_style_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A china dish containing a mixture of grey iron filings and yellow sulfur powder. A glass rod is shown stirring the mixture. Label: 'ಕಬ್ಬಿಣ ಮತ್ತು ಸಲ್ಫರ್ ಮಿಶ್ರಣ' (Mixture of iron and sulfur).",
+    "labels": "ಪಿಂಗಾಣಿ ಬಟ್ಟಲು, ಕಬ್ಬಿಣ ಮತ್ತು ಸಲ್ಫರ್ ಮಿಶ್ರಣ",
+    "scientific_significance": "Illustrates the physical process of creating a mixture.",
+    "placeholder_note": "Image to be generated showing the physical mixing of iron and sulfur."
+  },
+  "chunk_id": "std_9_chapter_2_concept_10_chunk_012"
+}

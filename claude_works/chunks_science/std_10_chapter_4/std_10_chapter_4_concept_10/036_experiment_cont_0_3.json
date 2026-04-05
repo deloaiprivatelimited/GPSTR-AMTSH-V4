@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 2",
+  "script": "ಈಗ, ಪ್ರನಾಳದಲ್ಲಿರುವ ಮಿಶ್ರಣಕ್ಕೆ ಕೆಲವು ಹನಿ ಸಾರ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲವನ್ನು ಬಹಳ ಜಾಗರೂಕತೆಯಿಂದ ಸೇರಿಸಬೇಕು. ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲವು ಪ್ರಬಲ ಆಮ್ಲ ಮತ್ತು ನಿರ್ಜಲಕಾರಿಯಾಗಿರುವುದರಿಂದ ಇದನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ನಿಭಾಯಿಸಬೇಕು. ನಂತರ, ಈ ಪ್ರನಾಳವನ್ನು ನೇರವಾಗಿ ಕಾಯಿಸಬಾರದು, ಏಕೆಂದರೆ ಎಥನಾಲ್ ಸುಲಭವಾಗಿ ಹೊತ್ತಿಕೊಳ್ಳುವ ದ್ರವ. ಆದ್ದರಿಂದ, ನಾವು ಜಲತಪ್ತಕವನ್ನು ಬಳಸುತ್ತೇವೆ. ನೀರು ತುಂಬಿದ ಬೀಕರ್‌ನಲ್ಲಿ ಪ್ರನಾಳವನ್ನು ಇಟ್ಟು, ಆ ಬೀಕರ್‌ಅನ್ನು ಸುಮಾರು ಐದು ನಿಮಿಷಗಳ ಕಾಲ ನಿಧಾನವಾಗಿ ಕಾಯಿಸಬೇಕು. ಇದು ಸುರಕ್ಷಿತ ವಿಧಾನವಾಗಿದೆ.",
+  "script_display": "ಈಗ, ಪ್ರನಾಳದಲ್ಲಿರುವ ಮಿಶ್ರಣಕ್ಕೆ ಕೆಲವು ಹನಿ ಸಾರ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲವನ್ನು ಬಹಳ ಜಾಗರೂಕತೆಯಿಂದ ಸೇರಿಸಬೇಕು. ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲವು ಪ್ರಬಲ ಆಮ್ಲ ಮತ್ತು ನಿರ್ಜಲಕಾರಿಯಾಗಿರುವುದರಿಂದ ಇದನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ನಿಭಾಯಿಸಬೇಕು. ನಂತರ, ಈ ಪ್ರನಾಳವನ್ನು ಜಲತಪ್ತಕದಲ್ಲಿ (water bath) ಇಟ್ಟು, ಸುಮಾರು 5 ನಿಮಿಷಗಳ ಕಾಲ ನಿಧಾನವಾಗಿ ಕಾಯಿಸಬೇಕು. ನೇರವಾಗಿ ಕಾಯಿಸಬಾರದು, ಏಕೆಂದರೆ ಎಥನಾಲ್ ಸುಲಭವಾಗಿ ಹೊತ್ತಿಕೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮಿಶ್ರಣಕ್ಕೆ ಕೆಲವು ಹನಿ ಸಾರ ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ ಸೇರಿಸಿ.",
+    "ಪ್ರನಾಳವನ್ನು ಜಲತಪ್ತಕದಲ್ಲಿಟ್ಟು 5 ನಿಮಿಷ ಕಾಯಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "split_left_text",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Illustration showing the test tube from the previous step being heated in a water bath. The water bath is a beaker with water, heated by a burner.",
+    "labels": "ಜಲತಪ್ತಕ, ಪ್ರನಾಳ, ಬಿಸಿ ನೀರು, ಬರ್ನರ್",
+    "scientific_significance": "Demonstrates the correct and safe procedure for heating flammable organic compounds.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_036"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಧ್ರುವ ನಕ್ಷತ್ರವನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ಈಗ ನಾವು ಒಂದು ರೋಚಕವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ರಾತ್ರಿಯ ಆಕಾಶದಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ನಕ್ಷತ್ರವಾದ ಧ್ರುವ ನಕ್ಷತ್ರವನ್ನು ಹೇಗೆ ಸುಲಭವಾಗಿ ಗುರುತಿಸುವುದು ಎಂದು ಕಲಿಯೋಣ. ಇದಕ್ಕೆ ನಮಗೆ ಯಾವುದೇ ಉಪಕರಣಗಳ ಅಗತ್ಯವಿಲ್ಲ, ಕೇವಲ ಸ್ಪಷ್ಟವಾದ ಆಕಾಶವಿದ್ದರೆ ಸಾಕು. ಈ ಚಟುವಟಿಕೆಯು ಪ್ರಾಚೀನ ಕಾಲದಿಂದಲೂ ನಾವಿಕರು ಮತ್ತು ಪ್ರಯಾಣಿಕರು ದಿಕ್ಕನ್ನು ತಿಳಿಯಲು ಬಳಸುತ್ತಿದ್ದ ಒಂದು ಸರಳ ವಿಧಾನವಾಗಿದೆ. ನೀವು ಸಿದ್ಧರಿದ್ದೀರಾ? ಹಾಗಾದರೆ, ನಮ್ಮ ಕಾಲ್ಪನಿಕ ಆಕಾಶ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ರೋಚಕವಾದ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ರಾತ್ರಿಯ ಆಕಾಶದಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ನಕ್ಷತ್ರವಾದ ಧ್ರುವ ನಕ್ಷತ್ರವನ್ನು (Pole Star) ಹೇಗೆ ಸುಲಭವಾಗಿ ಗುರುತಿಸುವುದು ಎಂದು ಕಲಿಯೋಣ. ಇದಕ್ಕೆ ನಮಗೆ ಯಾವುದೇ ಉಪಕರಣಗಳ ಅಗತ್ಯವಿಲ್ಲ, ಕೇವಲ ಸ್ಪಷ್ಟವಾದ ಆಕಾಶವಿದ್ದರೆ ಸಾಕು. ಈ ಚಟುವಟಿಕೆಯು ಪ್ರಾಚೀನ ಕಾಲದಿಂದಲೂ ನಾವಿಕರು ಮತ್ತು ಪ್ರಯಾಣಿಕರು ದಿಕ್ಕನ್ನು ತಿಳಿಯಲು ಬಳಸುತ್ತಿದ್ದ ಒಂದು ಸರಳ ವಿಧಾನವಾಗಿದೆ. ನೀವು ಸಿದ್ಧರಿದ್ದೀರಾ? ಹಾಗಾದರೆ, ನಮ್ಮ ಕಾಲ್ಪನಿಕ ಆಕಾಶ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ.",
+  "display_bullets": [
+    "ಧ್ರುವ ನಕ್ಷತ್ರವನ್ನು ಗುರುತಿಸುವುದು",
+    "ಪ್ರಾಚೀನ ದಿಕ್ಸೂಚಿ ವಿಧಾನ"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beautiful, clear night sky with many stars, creating a sense of wonder. The title of the activity 'ಚಟುವಟಿಕೆ: ಧ್ರುವ ನಕ್ಷತ್ರವನ್ನು ಗುರುತಿಸುವುದು' is overlaid.",
+    "labels": "Starry night sky",
+    "scientific_significance": "Sets the context for the astronomical activity.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "activity_intro",
+  "chunk_id": "std_6_chapter_12_concept_1_chunk_013"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ನಿಯತ vs ಅನಿಯತ",
+  "script": "ಈಗ ನಿಯತ ಮತ್ತು ಅನಿಯತ ಬಹುಭುಜಾಕೃತಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಚೌಕವಿದೆ, ಅದು ನಿಯತ ಬಹುಭುಜಾಕೃತಿ. ಬಲಭಾಗದಲ್ಲಿ ಆಯತವಿದೆ. ಆಯತದಲ್ಲಿ, ಎಲ್ಲಾ ಕೋನಗಳು ತೊಂಬತ್ತು ಡಿಗ್ರಿ, ಅಂದರೆ ಕೋನಗಳು ಸಮವಾಗಿವೆ. ಆದರೆ, ಅದರ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಾಗಿಲ್ಲ, ಕೇವಲ ಅಭಿಮುಖ ಬಾಹುಗಳು ಮಾತ್ರ ಸಮ. ನಿಯತ ಬಹುಭುಜಾಕೃತಿಯಾಗಲು ಬಾಹುಗಳು ಮತ್ತು ಕೋನಗಳು, ಎರಡೂ ಸಮವಾಗಿರಬೇಕು. ಆಯತದಲ್ಲಿ ಒಂದು ಶರತ್ತು ಮಾತ್ರ ಪಾಲನೆಯಾಗುವುದರಿಂದ, ಅದು ನಿಯತ ಬಹುಭುಜಾಕೃತಿಯಲ್ಲ, ಬದಲಾಗಿ ಅನಿಯತ ಬಹುಭುಜಾಕೃತಿಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ನಿಯತ ಮತ್ತು ಅನಿಯತ ಬಹುಭುಜಾಕೃತಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಚೌಕವಿದೆ, ಅದು ನಿಯತ ಬಹುಭುಜಾಕೃತಿ. ಬಲಭಾಗದಲ್ಲಿ ಆಯತವಿದೆ. ಆಯತದಲ್ಲಿ, ಎಲ್ಲಾ ಕೋನಗಳು $90^{\\circ}$, ಅಂದರೆ ಕೋನಗಳು ಸಮವಾಗಿವೆ. ಆದರೆ, ಅದರ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಾಗಿಲ್ಲ, ಕೇವಲ ಅಭಿಮುಖ ಬಾಹುಗಳು ಮಾತ್ರ ಸಮ. ನಿಯತ ಬಹುಭುಜಾಕೃತಿಯಾಗಲು ಬಾಹುಗಳು ಮತ್ತು ಕೋನಗಳು, ಎರಡೂ ಸಮವಾಗಿರಬೇಕು. ಆಯತದಲ್ಲಿ ಒಂದು ಶರತ್ತು ಮಾತ್ರ ಪಾಲನೆಯಾಗುವುದರಿಂದ, ಅದು ನಿಯತ ಬಹುಭುಜಾಕೃತಿಯಲ್ಲ, ಬದಲಾಗಿ ಅನಿಯತ ಬಹುಭುಜಾಕೃತಿಯಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "side_by_side_visual",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side comparison. Left: A square labeled 'ನಿಯತ ಬಹುಭುಜಾಕೃತಿ' with text 'ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮ, ಎಲ್ಲಾ ಕೋನಗಳು ಸಮ'. Right: A rectangle labeled 'ಅನಿಯತ ಬಹುಭುಜಾಕೃತಿ' with text 'ಎಲ್ಲಾ ಕೋನಗಳು ಸಮ, ಆದರೆ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಲ್ಲ'.",
+    "labels": "ಚೌಕ, ಆಯತ, ನಿಯತ, ಅನಿಯತ",
+    "mathematical_significance": "Contrasts a regular polygon (square) with a non-regular polygon (rectangle) where the 'equal sides' condition fails, clarifying the definition.",
+    "placeholder_note": "Image to be generated: Square vs Rectangle comparison."
+  },
+  "chunk_id": "VIS-SYM-1_concept_1_chunk_021"
+}

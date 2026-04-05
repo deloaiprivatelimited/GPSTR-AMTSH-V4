@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಯಾವುದಾದರೂ ಒಂದು ಬಾಹು ಮತ್ತು ಅದಕ್ಕೆ ಅನುರೂಪವಾದ ಎತ್ತರ ಕ್ರಮವಾಗಿ 4 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು 3 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಪಾದ, ಅಂದರೆ b, 4 ಸೆಂಟಿಮೀಟರ್ ಎಂದು ನೀಡಲಾಗಿದೆ. ಮತ್ತು ಅನುರೂಪ ಎತ್ತರ, ಅಂದರೆ h, 3 ಸೆಂಟಿಮೀಟರ್ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ಅದರ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಯಾವುದಾದರೂ ಒಂದು ಬಾಹು ಮತ್ತು ಅದಕ್ಕೆ ಅನುರೂಪವಾದ ಎತ್ತರ ಕ್ರಮವಾಗಿ 4 cm ಮತ್ತು 3 cm ಆಗಿದೆ. ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಪಾದ (b) = 4 cm ಮತ್ತು ಅನುರೂಪ ಎತ್ತರ (h) = 3 cm ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ಅದರ ವಿಸ್ತೀರ್ಣವನ್ನು (A) ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಒಂದು ಬಾಹು ಮತ್ತು ಅದಕ್ಕೆ ಅನುರೂಪವಾದ ಎತ್ತರ ಕ್ರಮವಾಗಿ 4 cm ಮತ್ತು 3 cm ಆಗಿರುವ ಸಮಾಂತರ ಚತುರ್ಭुಜದ ವಿಸ್ತೀರ್ಣ ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ದತ್ತಾಂಶ (Given): ಪಾದ (b) = 4 cm",
+    "ದತ್ತಾಂಶ (Given): ಎತ್ತರ (h) = 3 cm",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To Find): ವಿಸ್ತೀರ್ಣ (A)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A parallelogram with its base labeled as 'b = 4 cm' and the corresponding perpendicular height shown with a dotted line and labeled as 'h = 3 cm'.",
+    "labels": "ಪಾದ (b), ಎತ್ತರ (h)",
+    "mathematical_significance": "Visual representation of the given data in the problem, clearly distinguishing the base from the height.",
+    "placeholder_note": "Image to be generated showing a parallelogram with base 4cm and height 3cm."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "MEN-AREA-1_example_9",
+  "chunk_id": "MEN-AREA-1_concept_3_chunk_011"
+}

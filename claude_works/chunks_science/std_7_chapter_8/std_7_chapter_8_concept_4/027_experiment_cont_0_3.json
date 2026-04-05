@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಶಲಾಕೆಯ ಅಧ್ಯಯನ (ಸ್ತ್ರೀ ಭಾಗ)",
+  "script": "ಈಗ ನಾವು ಶಲಾಕೆಯನ್ನು ಗಮನಿಸೋಣ. ಶಲಾಕೆಯು ಹೂವಿನ ಮಧ್ಯಭಾಗದಲ್ಲಿರುವ ಸ್ತ್ರೀ ಪ್ರಜನನ ಭಾಗವಾಗಿದೆ. ಇದರಲ್ಲಿ ಮೂರು ಪ್ರಮುಖ ಭಾಗಗಳಿವೆ. ಮೇಲ್ತುದಿಯಲ್ಲಿರುವ ಜಿಗುಟಾದ ಭಾಗವೇ ಶಲಾಕಾಗ್ರ. ಇದರ ಮುಖ್ಯ ಕೆಲಸ ಪರಾಗಸ್ಪರ್ಶದ ಸಮಯದಲ್ಲಿ ಪರಾಗರೇಣುಗಳನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದು. ಶಲಾಕಾಗ್ರದ ಕೆಳಗಿರುವ ಉದ್ದನೆಯ ಕೊಳವೆಯಂತಹ ಭಾಗವೇ ಶಲಾಕ ನಳಿಕೆ. ಮತ್ತು ಅಂತಿಮವಾಗಿ, ಶಲಾಕೆಯ ತಳದಲ್ಲಿರುವ ಉಬ್ಬಿದ ಭಾಗವೇ ಅಂಡಾಶಯ. ಈ ಅಂಡಾಶಯದ ಒಳಗೆ ಅಂಡಕಗಳು ಇರುತ್ತವೆ.",
+  "script_display": "ಈಗ ನಾವು ಶಲಾಕೆಯನ್ನು ಗಮನಿಸೋಣ. ಶಲಾಕೆಯು ಹೂವಿನ ಮಧ್ಯಭಾಗದಲ್ಲಿರುವ ಸ್ತ್ರೀ ಪ್ರಜನನ ಭಾಗವಾಗಿದೆ. ಇದರಲ್ಲಿ ಮೂರು ಪ್ರಮುಖ ಭಾಗಗಳಿವೆ. ಮೇಲ್ತುದಿಯಲ್ಲಿರುವ ಜಿಗುಟಾದ ಭಾಗವೇ ಶಲಾಕಾಗ್ರ (Stigma). ಇದರ ಮುಖ್ಯ ಕೆಲಸ ಪರಾಗಸ್ಪರ್ಶದ ಸಮಯದಲ್ಲಿ ಪರಾಗರೇಣುಗಳನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದು. ಶಲಾಕಾಗ್ರದ ಕೆಳಗಿರುವ ಉದ್ದನೆಯ ಕೊಳವೆಯಂತಹ ಭಾಗವೇ ಶಲಾಕ ನಳಿಕೆ (Style). ಮತ್ತು ಅಂತಿಮವಾಗಿ, ಶಲಾಕೆಯ ತಳದಲ್ಲಿರುವ ಉಬ್ಬಿದ ಭಾಗವೇ ಅಂಡಾಶಯ (Ovary). ಈ ಅಂಡಾಶಯದ ಒಳಗೆ ಅಂಡಕಗಳು ಇರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಶಲಾಕೆಯು ಹೂವಿನ ಕೇಂದ್ರದಲ್ಲಿರುವ ಸ್ತ್ರೀ ಪ್ರಜನನ ಭಾಗವಾಗಿದೆ.",
+    "ಇದು ಮೂರು ಭಾಗಗಳನ್ನು ಹೊಂದಿದೆ: ಶಲಾಕಾಗ್ರ (Stigma), ಶಲಾಕ ನಳಿಕೆ (Style), ಮತ್ತು ಅಂಡಾಶಯ (Ovary).",
+    "ಶಲಾಕಾಗ್ರವು ಪರಾಗರೇಣುಗಳನ್ನು ಸ್ವೀಕರಿಸುವ ಜಿಗುಟಾದ ಮೇಲ್ಮೈಯನ್ನು ಹೊಂದಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear, labeled diagram of a pistil. The stigma is at the top, connected by the style to the swollen ovary at the base.",
+    "labels": "ಶಲಾಕಾಗ್ರ (Stigma), ಶಲಾಕ ನಳಿಕೆ (Style), ಅಂಡಾಶಯ (Ovary)",
+    "scientific_significance": "Illustrates the structure of the female reproductive part of a flower, showing the path for pollen and the location of the ovary.",
+    "placeholder_note": "Use part (b) of the diagram from the module context, but without the internal view of the ovary yet."
+  },
+  "chunk_id": "std_7_chapter_8_concept_4_chunk_027"
+}

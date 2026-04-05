@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+  "script": "ಆದ್ದರಿಂದ, ಡೇವಿಡ್ ಮತ್ತು ಅವನ ಪ್ರತಿಬಿಂಬದ ನಡುವಿನ ಹೊಸ ದೂರ 6 ಮೀಟರ್. ಇಲ್ಲಿ ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪನ್ನು ಗಮನಿಸಬೇಕು. ಅನೇಕರು ಕೇವಲ 3 ಮೀಟರ್ ಎಂದು ಉತ್ತರಿಸುತ್ತಾರೆ, ಅದು ಕೇವಲ ದರ್ಪಣದಿಂದ ಡೇವಿಡ್‌ಗೆ ಅಥವಾ ಪ್ರತಿಬಿಂಬಕ್ಕೆ ಇರುವ ದೂರ. ಪ್ರಶ್ನೆಯಲ್ಲಿ ಡೇವಿಡ್ ಮತ್ತು ಅವನ ಪ್ರತಿಬಿಂಬದ ನಡುವಿನ ಒಟ್ಟು ದೂರವನ್ನು ಕೇಳಲಾಗಿದೆ. ಆದ್ದರಿಂದ ಎರಡೂ ದೂರಗಳನ್ನು ಕೂಡಿಸಬೇಕು.",
+  "script_display": "ಆದ್ದರಿಂದ, ಡೇವಿಡ್ ಮತ್ತು ಅವನ ಪ್ರತಿಬಿಂಬದ ನಡುವಿನ ಹೊಸ ದೂರ 6m. **ಸಾಮಾನ್ಯ ತಪ್ಪು:** ಕೇವಲ ಪ್ರತಿಬಿಂಬದ ದೂರವನ್ನು (3m) ಉತ್ತರವೆಂದು ಭಾವಿಸುವುದು. ಪ್ರಶ್ನೆಯಲ್ಲಿ 'ಡೇವಿಡ್ ಮತ್ತು ಅವನ ಪ್ರತಿಬಿಂಬದ' ನಡುವಿನ ಒಟ್ಟು ದೂರವನ್ನು ಕೇಳಲಾಗಿದೆ, ಆದ್ದರಿಂದ ನೀವು ವಸ್ತುವಿನಿಂದ ದರ್ಪಣಕ್ಕೆ ಮತ್ತು ದರ್ಪಣದಿಂದ ಪ್ರತಿಬಿಂಬಕ್ಕೆ ಇರುವ ದೂರವನ್ನು ಕೂಡಿಸಬೇಕು (3m + 3m).",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: 6 m",
+    "ಸಾಮಾನ್ಯ ತಪ್ಪು: ಪ್ರಶ್ನೆಯಲ್ಲಿ 'ಡೇವಿಡ್ ಮತ್ತು ಅವನ ಪ್ರತಿಬಿಂಬದ' ನಡುವಿನ ದೂರವನ್ನು ಕೇಳಲಾಗಿದೆ, ಕೇವಲ 'ಪ್ರತಿಬಿಂಬದ ದೂರ'ವನ್ನಲ್ಲ. ಇವೆರಡರ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಒಟ್ಟು ದೂರ} = (\\text{ವಸ್ತು-ದರ್ಪಣ ದೂರ}) + (\\text{ದರ್ಪಣ-ಪ್ರತಿಬಿಂಬ ದೂರ}) \\\\ = 3\\text{m} + 3\\text{m} = 6\\text{m}",
+    "placeholder_note": "Final calculation showing the total distance is the sum of the object-mirror distance and the mirror-image distance."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "std_7_chapter_11_example_1",
+  "chunk_id": "std_7_chapter_11_concept_2_chunk_027"
+}

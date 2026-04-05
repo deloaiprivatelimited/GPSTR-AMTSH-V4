@@ -1,0 +1,37 @@
+{
+  "type": "intro",
+  "slide_title": "ಸೂರ್ಯನ ಶಕ್ತಿ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಇಂದಿನ ಪಾಠಕ್ಕೆ ನಿಮಗೆಲ್ಲರಿಗೂ ಸ್ವಾಗತ. ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ, ನಮ್ಮ ಭೂಮಿಯ ಮೇಲಿನ ಎಲ್ಲಾ ಜೀವಿಗಳಿಗೆ ಶಕ್ತಿ ಎಲ್ಲಿಂದ ಬರುತ್ತದೆ ಎಂದು? ಉತ್ತರ ನಮ್ಮ ಆಕಾಶದಲ್ಲಿ ಪ್ರಜ್ವಲಿಸುವ ಸೂರ್ಯ. ಹೌದು, ಸೂರ್ಯನೇ ನಮ್ಮ ಭೂಮಿಯ ಮೇಲಿನ ಶಕ್ತಿಯ ಮೂಲಭೂತ ಆಕರ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಮೂರು ಮುಖ್ಯ ವಿಷಯಗಳನ್ನು ಕಲಿಯಲಿದ್ದೇವೆ. ಮೊದಲನೆಯದಾಗಿ, ಸೂರ್ಯನು ಶಕ್ತಿಯ ಮೂಲ ಆಕರ ಎಂಬುದು ಹೇಗೆ ಎಂದು ತಿಳಿಯೋಣ. ಎರಡನೆಯದಾಗಿ, ಸಸ್ಯಗಳು ಸೌರಶಕ್ತಿಯನ್ನು ಹೇಗೆ ಬಳಸುತ್ತವೆ, ಅಂದರೆ ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ಕ್ರಿಯೆಯ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ಸೌರಶಕ್ತಿಯ ನೇರ ಉಪಯೋಗಗಳು, ಅಂದರೆ ಶಾಖ ಮತ್ತು ವಿದ್ಯುತ್ ಉತ್ಪಾದನೆಯ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಈ ಅದ್ಭುತವಾದ ಶಕ್ತಿಯ ಮೂಲದ ಬಗ್ಗೆ ತಿಳಿಯಲು ಸಿದ್ಧರಾಗಿ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಇಂದಿನ ಪಾಠಕ್ಕೆ ನಿಮಗೆಲ್ಲರಿಗೂ ಸ್ವಾಗತ. ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ, ನಮ್ಮ ಭೂಮಿಯ ಮೇಲಿನ ಎಲ್ಲಾ ಜೀವಿಗಳಿಗೆ ಶಕ್ತಿ ಎಲ್ಲಿಂದ ಬರುತ್ತದೆ ಎಂದು? ಉತ್ತರ ನಮ್ಮ ಆಕಾಶದಲ್ಲಿ ಪ್ರಜ್ವಲಿಸುವ ಸೂರ್ಯ. ಹೌದು, ಸೂರ್ಯನೇ ನಮ್ಮ ಭೂಮಿಯ ಮೇಲಿನ ಶಕ್ತಿಯ ಮೂಲಭೂತ ಆಕರ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಈ ಕೆಳಗಿನ ಅಂಶಗಳನ್ನು ಕಲಿಯಲಿದ್ದೇವೆ:",
+  "display_bullets": [
+    "ಸೂರ್ಯನು ಶಕ್ತಿಯ ಮೂಲ ಆಕರ",
+    "ಸಸ್ಯಗಳು ಸೌರಶಕ್ತಿಯನ್ನು ಹೇಗೆ ಬಳಸುತ್ತವೆ (ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ)",
+    "ಸೌರಶಕ್ತಿಯ ನೇರ ಉಪಯೋಗಗಳು (ಶಾಖ ಮತ್ತು ವಿದ್ಯುತ್)"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "centered_title_with_bullets",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A vibrant image of the sun with its rays extending towards the Earth. On Earth, a green plant and a solar panel are visible, representing the uses of solar energy.",
+    "labels": "Sun, Earth, Plant, Solar Panel",
+    "scientific_significance": "Visually establishes the sun as the central source of energy for both life (photosynthesis) and technology (solar power).",
+    "placeholder_note": "Generate a visually engaging hero image for the module introduction."
+  },
+  "sub_type": "title",
+  "chunk_id": "std_6_chapter_11_concept_4_chunk_001"
+}

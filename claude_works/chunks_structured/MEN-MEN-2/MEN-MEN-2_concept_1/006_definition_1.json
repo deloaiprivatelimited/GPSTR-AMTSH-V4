@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವಜ್ರಾಕೃತಿ (Rhombus)",
+  "script": "ಈಗ ನಾವು ವಜ್ರಾಕೃತಿಯ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ವಜ್ರಾಕೃತಿ ಅಂದರೆ ಏನು? ಮೊದಲನೆಯದಾಗಿ, ಇದು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ. ಆದರೆ ಇದರ ವಿಶೇಷತೆ ಏನೆಂದರೆ, ಇದರ ಎಲ್ಲಾ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ, ವಜ್ರಾಕೃತಿಯನ್ನು 'ಸಮಬಾಹು ಚತುರ್ಭುಜ' ಅಂತಲೂ ಕರೆಯುತ್ತಾರೆ. ಅಂದರೆ, ಎಲ್ಲಾ ಬಾಹುಗಳ ಉದ್ದ ಒಂದೇ ಆಗಿರುತ್ತದೆ. ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಾದರೆ, ಅದು ವಜ್ರಾಕೃತಿಯಾಗುತ್ತದೆ. ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "script_display": "ಈಗ ನಾವು ವಜ್ರಾಕೃತಿಯ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ವಜ್ರಾಕೃತಿ ಅಂದರೆ ಏನು? ಮೊದಲನೆಯದಾಗಿ, ಇದು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ. ಆದರೆ ಇದರ ವಿಶೇಷತೆ ಏನೆಂದರೆ, ಇದರ ಎಲ್ಲಾ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮನಾಗಿರುತ್ತವೆ. ಇದೇ ಕಾರಣಕ್ಕೆ, ವಜ್ರಾಕೃತಿಯನ್ನು 'ಸಮಬಾಹು ಚತುರ್ಭುಜ' ಅಂತಲೂ ಕರೆಯುತ್ತಾರೆ. ಅಂದರೆ, ಎಲ್ಲಾ ಬಾಹುಗಳ ಉದ್ದ ಒಂದೇ ಆಗಿರುತ್ತದೆ. ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜದಲ್ಲಿ ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಾದರೆ, ಅದು ವಜ್ರಾಕೃತಿಯಾಗುತ್ತದೆ. ಇದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.",
+  "display_bullets": [
+    "ಎಲ್ಲಾ ನಾಲ್ಕು ಬಾಹುಗಳು ಸಮನಾಗಿರುವ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ.",
+    "ಇದನ್ನು 'ಸಮಬಾಹು ಚತುರ್ಭುಜ' ಎಂದೂ ಕರೆಯುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a rhombus ABCD. All four sides (AB, BC, CD, DA) are marked with a single tick to show they are equal in length. The shape is tilted, not a square.",
+    "labels": "A, B, C, D",
+    "mathematical_significance": "Illustrates the primary characteristic of a rhombus: all four sides are equal.",
+    "placeholder_note": "Image to be generated for a rhombus with equal side markings."
+  },
+  "sub_type": "definition_term",
+  "chunk_id": "MEN-MEN-2_concept_1_chunk_006"
+}

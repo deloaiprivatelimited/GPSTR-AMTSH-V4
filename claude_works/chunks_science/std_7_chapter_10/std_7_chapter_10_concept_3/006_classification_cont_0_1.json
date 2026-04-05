@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತಾಪದೀಪ್ತ ಬಲ್ಬ್ (Incandescent Bulb)",
+  "script": "ಮೊದಲನೆಯದಾಗಿ, ತಾಪದೀಪ್ತ ಬಲ್ಬ್ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇದರೊಳಗೆ ಟಂಗ್ಸ್ಟನ್ ಎಂಬ ಲೋಹದಿಂದ ಮಾಡಿದ ಒಂದು ತೆಳುವಾದ ತಂತು ಇರುತ್ತದೆ. ವಿದ್ಯುತ್ ಈ ತಂತುವಿನ ಮೂಲಕ ಹರಿದಾಗ, ಅದು ಅತಿ ಹೆಚ್ಚು ಬಿಸಿಯಾಗಿ, ಉಷ್ಣ ಪರಿಣಾಮದಿಂದ ಪ್ರಜ್ವಲಿಸಿ ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ. ಆದರೆ, ಇದರ ದೊಡ್ಡ ಸಮಸ್ಯೆ ಎಂದರೆ, ಇದು ಬಳಸುವ ಹೆಚ್ಚಿನ ವಿದ್ಯುತ್ ಉಷ್ಣವಾಗಿ ವ್ಯರ್ಥ ಆಗುತ್ತದೆ. ಕೇವಲ ಸಣ್ಣ ಭಾಗ ಮಾತ್ರ ಬೆಳಕಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಈ ಕಾರಣದಿಂದ, ಇವುಗಳ ವಿದ್ಯುತ್ ದಕ್ಷತೆ ತುಂಬಾ ಕಡಿಮೆ.",
+  "script_display": "ಮೊದಲನೆಯದಾಗಿ, ತಾಪದೀಪ್ತ ಬಲ್ಬ್ (Incandescent Bulb) ಬಗ್ಗೆ ತಿಳಿಯೋಣ. \n\n*   ಇದರೊಳಗೆ ಟಂಗ್ಸ್ಟನ್‌ನಿಂದ ಮಾಡಿದ ತೆಳುವಾದ ತಂತು (filament) ಇರುತ್ತದೆ.\n*   ವಿದ್ಯುತ್ ಹರಿದಾಗ ತಂತು ಅತಿ ಹೆಚ್ಚು ಬಿಸಿಯಾಗಿ, ಉಷ್ಣ ಪರಿಣಾಮದಿಂದ ಪ್ರಜ್ವಲಿಸಿ ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ.\n*   ಬಳಸುವ ಹೆಚ್ಚಿನ ವಿದ್ಯುತ್ ಉಷ್ಣವಾಗಿ ವ್ಯರ್ಥ ಆಗುವುದರಿಂದ, ಇವುಗಳ ವಿದ್ಯುತ್ ದಕ್ಷತೆ (efficiency) ತುಂಬಾ ಕಡಿಮೆ.",
+  "display_bullets": [
+    "ತೆಳುವಾದ ಟಂಗ್ಸ್ಟನ್ ತಂತುವನ್ನು ಹೊಂದಿರುತ್ತದೆ",
+    "ಉಷ್ಣ ಪರಿಣಾಮದಿಂದ ಪ್ರಜ್ವಲಿಸಿ ಬೆಳಕು ನೀಡುತ್ತದೆ",
+    "ಹೆಚ್ಚಿನ ವಿದ್ಯುತ್ ಉಷ್ಣವಾಗಿ ವ್ಯರ್ಥ, ಕಡಿಮೆ ದಕ್ಷತೆ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_b",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Anatomy of an incandescent light bulb, showing the glass bulb, the tungsten filament, contact wires, and the base.",
+    "labels": "Filament, Glass bulb, Base",
+    "scientific_significance": "Illustrates the core component (filament) that heats up to produce light based on the heating effect of electric current.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_10_concept_3_chunk_006"
+}

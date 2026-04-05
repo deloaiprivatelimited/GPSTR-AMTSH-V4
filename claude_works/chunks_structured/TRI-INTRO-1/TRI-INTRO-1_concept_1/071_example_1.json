@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಸಮಸ್ಯೆ",
+  "script": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಟ್ಯಾನ್ ಎ ಯ ಬೆಲೆ ನಾಲ್ಕರ ಭಾಗಿಸು ಮೂರು ಆದರೆ, ಕೋನ ಎ ಗೆ ಸಂಬಂಧಿಸಿದ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ ಎಂದು ಕೇಳಲಾಗಿದೆ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ನಾವು ಮೊದಲು ದತ್ತಾಂಶವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬೇಕು. ನಮಗೆ ಒಂದು ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತವನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ಉಳಿದ ಐದು ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. $\\tan A = \\frac{4}{3}$ ಆದರೆ, ಕೋನ A ಗೆ ಸಂಬಂಧಿಸಿದ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ ಎಂದು ಕೇಳಲಾಗಿದೆ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ನಾವು ಮೊದಲು ದತ್ತಾಂಶವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬೇಕು. ನಮಗೆ ಒಂದು ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತವನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ಉಳಿದ ಐದು ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: $\\tan A = \\frac{4}{3}$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $\\sin A, \\cos A, \\csc A, \\sec A, \\cot A$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\tan A = \\frac{4}{3} \\text{ ಆದರೆ, ಕೋನ A ಯ ಉಳಿದ ತ್ರಿಕೋನಮಿತಿ ಅನುಪಾತಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.}",
+    "placeholder_note": "Problem statement displayed in a box"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "TRI-INTRO-1_example_1",
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_071"
+}

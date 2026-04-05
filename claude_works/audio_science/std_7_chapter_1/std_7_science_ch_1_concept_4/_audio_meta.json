@@ -1,0 +1,103 @@
+{
+  "module_id": "std_7_science_ch_1_concept_4",
+  "chapter_code": "std_7_chapter_1",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:32:06",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "9d99c41be7d8c525373a1f5182ff5f15",
+      "wav_file": "001_intro_0.wav",
+      "duration": 55.731,
+      "slide_title": "ಮಣ್ಣಿನಲ್ಲಿ ಪೋಷಕಗಳ ಪುನಃಪೂರಣ",
+      "type": "intro",
+      "script_words": 76,
+      "generated_at": "2026-04-02 13:30:55"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "cd1bc5850874a962f28f9058c79e709c",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 41.891,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 40,
+      "generated_at": "2026-04-02 13:30:56"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "33524d7ff28f513e9dbc27b30d342862",
+      "wav_file": "003_definition_0.wav",
+      "duration": 46.891,
+      "slide_title": "ಸಮಸ್ಯೆ: ಸಸ್ಯಗಳಿಗೆ ನೈಟ್ರೋಜನ್ ಏಕೆ ಬೇಕು?",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 13:31:01"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "32ef84801793fb626f5a30d65227b7b2",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 43.451,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ನೈಟ್ರೋಜನ್ ಸ್ಥಿರೀಕರಣ",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:31:18"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "90e3f6a61be8b13f1904914ce6b95705",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 59.251,
+      "slide_title": "ನೈಸರ್ಗಿಕ ಕಾರ್ಯವಿಧಾನ: ರೈಜೋಬಿಯಂ ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-04-02 13:31:19"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "f4c50c8c94a42064e115cbf8f8644285",
+      "wav_file": "008_recap_0.wav",
+      "duration": 48.851,
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "script_words": 59,
+      "generated_at": "2026-04-02 13:31:55"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "ecc173a60ce389262646162a876eb046",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 55.331,
+      "slide_title": "ಹೋಲಿಕೆ: ಬಳಸಲಾಗದ ಮತ್ತು ಬಳಸಬಲ್ಲ ರೂಪ",
+      "type": "definition",
+      "script_words": 69,
+      "generated_at": "2026-04-02 13:31:59"
+    },
+    "007_property_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "856191cfd6ddbee2d0a88e18f09673f6",
+      "wav_file": "007_property_0.wav",
+      "duration": 72.211,
+      "slide_title": "ಮಣ್ಣಿನಲ್ಲಿ ಪೋಷಕಾಂಶಗಳ ಪುನಃಪೂರಣದ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 88,
+      "generated_at": "2026-04-02 13:32:06"
+    }
+  }
+}

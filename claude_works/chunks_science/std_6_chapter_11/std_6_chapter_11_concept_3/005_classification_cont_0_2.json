@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಿಹಿನೀರು (Freshwater)",
+  "script": "ಈಗ ಸಿಹಿನೀರಿನ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇದು ಭೂಮಿಯ ಮೇಲಿನ ಒಟ್ಟು ನೀರಿನಲ್ಲಿ ಕೇವಲ ಮೂರು ಪ್ರತಿಶತಕ್ಕಿಂತ ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿದೆ. ಈ ಅಲ್ಪ ಪ್ರಮಾಣದ ನೀರೇ ನಮ್ಮೆಲ್ಲರ ಜೀವನಾಧಾರವಾಗಿದೆ. ಸಿಹಿನೀರು ನದಿಗಳು, ಸರೋವರಗಳು, ಕೊಳಗಳು, ಮತ್ತು ಭೂಮಿಯೊಳಗಿನ ಅಂತರ್ಜಲದ ರೂಪದಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ. ಅಲ್ಲದೆ, ಧ್ರುವ ಪ್ರದೇಶಗಳಲ್ಲಿ ಮತ್ತು ಪರ್ವತಗಳ ಮೇಲೆ ಹಿಮಪದರಗಳು ಮತ್ತು ಮಂಜುಗಡ್ಡೆಗಳ ರೂಪದಲ್ಲಿಯೂ ಸಿಹಿನೀರು ಸಂಗ್ರಹವಾಗಿದೆ. ಎಲ್ಲಾ ಜೀವಿಗಳ ಉಳಿವಿಗೆ ಈ ಸಿಹಿನೀರು ಅತ್ಯಗತ್ಯವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಸಿಹಿನೀರಿನ (Freshwater) ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇದು ಭೂಮಿಯ ಮೇಲಿನ ಒಟ್ಟು ನೀರಿನಲ್ಲಿ ಕೇವಲ 3% ಕ್ಕಿಂತ ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿದೆ. ಈ ಅಲ್ಪ ಪ್ರಮಾಣದ ನೀರೇ ನಮ್ಮೆಲ್ಲರ ಜೀವನಾಧಾರವಾಗಿದೆ. ಸಿಹಿನೀರು ನದಿಗಳು, ಸರೋವರಗಳು, ಕೊಳಗಳು, ಮತ್ತು ಭೂಮಿಯೊಳಗಿನ ಅಂತರ್ಜಲದ ರೂಪದಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ. ಅಲ್ಲದೆ, ಧ್ರುವ ಪ್ರದೇಶಗಳಲ್ಲಿ ಮತ್ತು ಪರ್ವತಗಳ ಮೇಲೆ ಹಿಮಪದರಗಳು (ice caps) ಮತ್ತು ಮಂಜುಗಡ್ಡೆಗಳ (glaciers) ರೂಪದಲ್ಲಿಯೂ ಸಿಹಿನೀರು ಸಂಗ್ರಹವಾಗಿದೆ. ಎಲ್ಲಾ ಜೀವಿಗಳ ಉಳಿವಿಗೆ ಈ ಸಿಹಿನೀರು ಅತ್ಯಗತ್ಯವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಭೂಮಿಯ ಮೇಲಿನ 3% ಕ್ಕಿಂತ ಕಡಿಮೆ ನೀರನ್ನು ಹೊಂದಿದೆ.",
+    "ನದಿ, ಸರೋವರ, ಅಂತರ್ಜಲ ಮತ್ತು ಹಿಮದ ರೂಪದಲ್ಲಿರುತ್ತದೆ.",
+    "ಜೀವಿಗಳ ಉಳಿವಿಗೆ ಅತ್ಯಗತ್ಯವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A serene image of a clear river flowing through a green valley, or a calm freshwater lake.",
+    "labels": "River, Freshwater, Valley",
+    "scientific_significance": "Provides a clear visual example of a freshwater source, contrasting with the previous ocean image.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_6_chapter_11_concept_3_chunk_005"
+}

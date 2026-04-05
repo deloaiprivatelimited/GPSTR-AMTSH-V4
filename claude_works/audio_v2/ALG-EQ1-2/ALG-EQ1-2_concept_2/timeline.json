@@ -1,0 +1,155 @@
+{
+  "module_id": "ALG-EQ1-2_concept_2",
+  "voice": "Umbriel",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 13,
+  "total_duration": 469.303,
+  "total_duration_formatted": "7:49",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಎರಡೂ ಕಡೆ ಚರಾಕ್ಷರವಿರುವ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸುವುದು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 47.611,
+      "duration": 47.611,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದುಕೊಳ್ಳಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 48.211,
+      "end": 82.582,
+      "duration": 34.371,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸುವ ನಿಯಮಗಳು",
+      "type": "concept_explanation",
+      "start": 83.182,
+      "end": 158.553,
+      "duration": 75.371,
+      "script_words": 104
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_004",
+      "chunk_file": "004_example_0.json",
+      "wav_file": "004_example_0.wav",
+      "slide_title": "ಸಮಸ್ಯೆ ಪರಿಚಯ",
+      "type": "worked_example",
+      "start": 159.153,
+      "end": 183.404,
+      "duration": 24.251,
+      "script_words": 32
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_005",
+      "chunk_file": "005_example_cont_0_1.json",
+      "wav_file": "005_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+      "type": "worked_example",
+      "start": 184.004,
+      "end": 219.695,
+      "duration": 35.691,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_006",
+      "chunk_file": "006_example_cont_0_2.json",
+      "wav_file": "006_example_cont_0_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+      "type": "worked_example",
+      "start": 220.295,
+      "end": 250.026,
+      "duration": 29.731,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_007",
+      "chunk_file": "007_example_cont_0_3.json",
+      "wav_file": "007_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 250.626,
+      "end": 285.517,
+      "duration": 34.891,
+      "script_words": 44
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_008",
+      "chunk_file": "008_example_1.json",
+      "wav_file": "008_example_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ 2: ಸಮಸ್ಯೆ ಪರಿಚಯ",
+      "type": "worked_example",
+      "start": 286.117,
+      "end": 309.568,
+      "duration": 23.451,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_009",
+      "chunk_file": "009_example_cont_1_1.json",
+      "wav_file": "009_example_cont_1_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 1-3",
+      "type": "worked_example",
+      "start": 310.168,
+      "end": 329.459,
+      "duration": 19.291,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_010",
+      "chunk_file": "010_example_cont_1_2.json",
+      "wav_file": "010_example_cont_1_2.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 4-6",
+      "type": "worked_example",
+      "start": 330.059,
+      "end": 369.43,
+      "duration": 39.371,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_011",
+      "chunk_file": "011_example_cont_1_3.json",
+      "wav_file": "011_example_cont_1_3.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ 7-8",
+      "type": "worked_example",
+      "start": 370.03,
+      "end": 404.521,
+      "duration": 34.491,
+      "script_words": 44
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_012",
+      "chunk_file": "012_example_cont_1_4.json",
+      "wav_file": "012_example_cont_1_4.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 405.121,
+      "end": 424.612,
+      "duration": 19.491,
+      "script_words": 25
+    },
+    {
+      "chunk_id": "ALG-EQ1-2_concept_2_chunk_013",
+      "chunk_file": "013_recap_0.json",
+      "wav_file": "013_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಎರಡೂ ಕಡೆ ಚರಾಕ್ಷರವಿರುವ ಸಮೀಕರಣಗಳು",
+      "type": "recap",
+      "start": 425.212,
+      "end": 468.703,
+      "duration": 43.491,
+      "script_words": 63
+    }
+  ]
+}

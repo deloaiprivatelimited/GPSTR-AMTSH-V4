@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಆವರ್ತಕ ದಶಮಾಂಶವನ್ನು p/q ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಒಂದು ಅಂತ್ಯಗೊಳ್ಳದ ಆವರ್ತಕ ದಶಮಾಂಶವನ್ನು p ಬೈ q ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸಬೇಕು. ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆ ಒಂದು ಪಾಯಿಂಟ್ ಎರಡು ಏಳು ಎರಡು ಏಳು ಎರಡು ಏಳು, ಹೀಗೆ ಮುಂದುವರೆಯುತ್ತದೆ. ಇದನ್ನು ನಾವು ಒಂದು ಪಾಯಿಂಟ್ ಎರಡು ಏಳು ಬಾರ್ ಅಂತಾನೂ ಬರೆಯಬಹುದು. ನಮ್ಮ ಗುರಿ ಇದನ್ನು p ಬೈ q ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವುದು, ಇಲ್ಲಿ p ಮತ್ತು q ಪೂರ್ಣಾಂಕಗಳಾಗಿರಬೇಕು ಮತ್ತು q ಸೊನ್ನೆಗೆ ಸಮನಾಗಿರಬಾರದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಒಂದು ಅಂತ್ಯಗೊಳ್ಳದ ಆವರ್ತಕ ದಶಮಾಂಶವನ್ನು $\\frac{p}{q}$ ರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸಬೇಕು. ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆ $1.272727...$. ಇದನ್ನು ನಾವು $1.\\bar{27}$ ಅಂತಾನೂ ಬರೆಯಬಹುದು. ನಮ್ಮ ಗುರಿ ಇದನ್ನು $\\frac{p}{q}$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವುದು, ಇಲ್ಲಿ $p$ ಮತ್ತು $q$ ಪೂರ್ಣಾಂಕಗಳಾಗಿರಬೇಕು ಮತ್ತು $q \\neq 0$.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಸಂಖ್ಯೆ: $1.272727... = 1.\\bar{27}$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $\\frac{p}{q}$ ರೂಪ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "light_theme_kannada",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "$1.272727... = 1.\\bar{27}$ ಇದನ್ನು $\\frac{p}{q}$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿ.",
+    "placeholder_note": "Display the problem statement in a prominent box."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SYS-3_example_8",
+  "chunk_id": "NS-SYS-3_concept_3_chunk_011"
+}

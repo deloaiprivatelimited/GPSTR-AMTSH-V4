@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣ (CSA)",
+  "script": "ಈಗ ನಮ್ಮ ಬಳಿ ಓರೆ ಎತ್ತರ l ಇದೆ. ಇದನ್ನು ಬಳಸಿ ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಶಂಕುವಿನ ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ, ಸಿ ಎಸ್ ಎ ಈಕ್ವಲ್ಸ್ ಪೈ ಆರ್ ಎಲ್. ಇಲ್ಲಿ ಪೈ ಬೆಲೆ 3.14, ತ್ರಿಜ್ಯ r 12, ಮತ್ತು ನಾವು ಕಂಡುಹಿಡಿದ ಓರೆ ಎತ್ತರ l 20. ಈ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ 3.14 ಗುಣಿಸು 12 ಗುಣಿಸು 20 ಸಿಗುತ್ತದೆ. 12 ಗುಣಿಸು 20 ಎಂದರೆ 240. ಈಗ 3.14 ಅನ್ನು 240 ರಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ 753.6 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವು 753.6 ಚದರ ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ.",
+  "script_display": "ಈಗ ನಮ್ಮ ಬಳಿ ಓರೆ ಎತ್ತರ l ಇದೆ. ಇದನ್ನು ಬಳಸಿ ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಶಂಕುವಿನ ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ, $CSA = \\pi r l$. ಇಲ್ಲಿ $\\pi = 3.14$, ತ್ರಿಜ್ಯ $r = 12$, ಮತ್ತು ನಾವು ಕಂಡುಹಿಡಿದ ಓರೆ ಎತ್ತರ $l = 20$. ಈ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ $3.14 \\times 12 \\times 20$ ಸಿಗುತ್ತದೆ. $12 \\times 20$ ಎಂದರೆ 240. ಈಗ 3.14 ಅನ್ನು 240 ರಿಂದ ಗುಣಿಸಿದಾಗ, ನಮಗೆ 753.6 ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣವು $753.6 \\text{ cm}^2$ ಆಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CSA = \\pi r l",
+    "placeholder_note": "Formula for Curved Surface Area of a cone"
+  },
+  "source_example_id": "MEN-VOL-3_example_2",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\text{CSA} = \\pi r l = 3.14 \\times 12 \\times 20 = 753.6 \\text{ cm}^2$",
+      "justification": "ವಕ್ರ ಮೇಲೈ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "MEN-VOL-3_concept_1_chunk_051"
+}

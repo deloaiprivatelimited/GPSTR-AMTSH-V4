@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಗರಿಷ್ಠ ಎತ್ತರವನ್ನು ತಲುಪಲು ತೆಗೆದುಕೊಂಡ ಸಮಯ t ಅನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಇದಕ್ಕಾಗಿ, ನಾವು ಚಲನೆಯ ಮೊದಲ ಸಮೀಕರಣ v equals u plus a t ಅನ್ನು ಬಳಸುತ್ತೇವೆ. ನಮಗೆ ಈಗ u, v, ಮತ್ತು a ಗಳ ಬೆಲೆಗಳು ತಿಳಿದಿವೆ. ಅವುಗಳನ್ನು ಆದೇಶಿಸೋಣ. ಜೀರೋ equals ಫೋರ್ಟೀನ್ ಪ್ಲಸ್ ಮೈನಸ್ ನೈನ್ ಪಾಯಿಂಟ್ ಎಯ್ಟ್ ಇಂಟು t. ಇದನ್ನು ಸರಳೀಕರಿಸಿದಾಗ, ನೈನ್ ಪಾಯಿಂಟ್ ಎಯ್ಟ್ t equals ಫೋರ್ಟೀನ್. ಆದ್ದರಿಂದ, t equals ಫೋರ್ಟೀನ್ ಡಿವೈಡೆಡ್ ಬೈ ನೈನ್ ಪಾಯಿಂಟ್ ಎಯ್ಟ್. ಇದರ ಮೌಲ್ಯ ಸುಮಾರು 1.43 ಸೆಕೆಂಡುಗಳು.",
+  "script_display": "**ಹಂತ 3: ಸಮಯ (t) ಕಂಡುಹಿಡಿಯುವುದು**\n*   ಸೂತ್ರ: `v = u + at`\n*   ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: `0 = 14 + (-9.8)t`\n*   `9.8t = 14`\n*   `t = 14 / 9.8`\n*   `t ≈ 1.43 s`",
+  "display_bullets": [
+    "ಹಂತ 3: ಸಮಯ (t) ಕಂಡುಹಿಡಿಯಲು v = u + at ಸೂತ್ರ ಬಳಸಿ.",
+    "ಲೆಕ್ಕಾಚಾರ: 0 = 14 + (-9.8)t => 9.8t = 14",
+    "t = 14 / 9.8 ≈ 1.43 s"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "std_9_chapter_9_example_2",
+  "chunk_id": "std_9_chapter_9_concept_4_chunk_011"
+}

@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ, ಒಂದು ತ್ರಿಭುಜದ ಅಂತರಾಭಿಮುಖ ಕೋನಗಳು ಐವತ್ತು ಡಿಗ್ರಿ ಮತ್ತು x ಆಗಿದ್ದು, ಬಾಹ್ಯ ಕೋನವು ನೂರಾ ಹತ್ತು ಡಿಗ್ರಿ ಆಗಿದೆ. ನಾವು x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿಯನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. ಅಂತರಾಭಿಮುಖ ಕೋನಗಳು ಐವತ್ತು ಡಿಗ್ರಿ ಮತ್ತು x. ಬಾಹ್ಯ ಕೋನ ನೂರಾ ಹತ್ತು ಡಿಗ್ರಿ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು x ನ ಬೆಲೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ, ಒಂದು ತ್ರಿಭುಜದ ಅಂತರಾಭಿಮುಖ ಕೋನಗಳು 50° ಮತ್ತು x ಆಗಿದ್ದು, ಬಾಹ್ಯ ಕೋನವು 110° ಆಗಿದೆ. ನಾವು x ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿಯನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. ಅಂತರಾಭಿಮುಖ ಕೋನಗಳು 50° ಮತ್ತು x. ಬಾಹ್ಯ ಕೋನ 110°. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು x ನ ಬೆಲೆ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ: ಅಂತರಾಭಿಮುಖ ಕೋನಗಳು 50° ಮತ್ತು x.",
+    "ಬಾಹ್ಯ ಕೋನ: 110°.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: x ನ ಬೆಲೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ತ್ರಿಭುಜ. ಒಂದು ಬಾಹ್ಯ ಕೋನವನ್ನು 110° ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಎರಡು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳನ್ನು 50° ಮತ್ತು x ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಈ ಚಿತ್ರವು ಸಮಸ್ಯೆಯಲ್ಲಿ ವಿವರಿಸಿದ ಪರಿಸ್ಥಿತಿಯನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "labels": "ಕೋನಗಳು 50°, x, 110°",
+    "mathematical_significance": "ಬಾಹ್ಯ ಕೋನ ಮತ್ತು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing a triangle with an exterior angle of 110 degrees and the two interior opposite angles labeled as 50 degrees and x."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "GEO-TRI-1_example_1",
+  "chunk_id": "GEO-TRI-1_concept_2_chunk_025"
+}

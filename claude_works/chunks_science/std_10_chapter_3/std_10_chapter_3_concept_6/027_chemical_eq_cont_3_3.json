@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆ ಏಕೆ ನಡೆಯುತ್ತದೆ?",
+  "script": "ಈ ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆ ಏಕೆ ನಡೆಯುತ್ತದೆ? ಕಾರಣ ಸರಳ. ಕ್ರಿಯಾಶೀಲತೆಯ ಸರಣಿಯಲ್ಲಿ, ಸತುವು ಹೈಡ್ರೋಜನ್‌ಗಿಂತ ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲವಾಗಿದೆ. ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ ಲೋಹವು ಯಾವಾಗಲೂ ಕಡಿಮೆ ಕ್ರಿಯಾಶೀಲ ಅಂಶವನ್ನು ಅದರ ಲವಣ ಅಥವಾ ಆಮ್ಲದ ದ್ರಾವಣದಿಂದ ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, ಸತುವು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದಿಂದ ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸಿ, ಹೈಡ್ರೋಜನ್ ಅನಿಲವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈ ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆ ಏಕೆ ನಡೆಯುತ್ತದೆ? ಕಾರಣ ಸರಳ. ಕ್ರಿಯಾಶೀಲತೆಯ ಸರಣಿಯಲ್ಲಿ, ಸತುವು (Zn) ಹೈಡ್ರೋಜನ್‌ಗಿಂತ (H) ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲವಾಗಿದೆ. ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ ಲೋಹವು ಯಾವಾಗಲೂ ಕಡಿಮೆ ಕ್ರಿಯಾಶೀಲ ಅಂಶವನ್ನು ಅದರ ಲವಣ ಅಥವಾ ಆಮ್ಲದ ದ್ರಾವಣದಿಂದ ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ, Zn, HCl ನಿಂದ H ಅನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸಿ, H₂ ಅನಿಲವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸತು (Zn) ಹೈಡ್ರೋಜನ್‌ಗಿಂತ (H) ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲವಾಗಿದೆ.",
+    "ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ ಲೋಹವು ಕಡಿಮೆ ಕ್ರಿಯಾಶೀಲ ಅಂಶವನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ.",
+    "Zn, HCl ನಿಂದ H ಅನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸಿ H₂ ಅನಿಲವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker containing hydrochloric acid (HCl solution). A piece of zinc metal (Zn) is shown inside the acid. Bubbles of hydrogen gas (H₂) are rising from the surface of the zinc metal. Arrows indicate the displacement process: Zn displaces H from HCl.",
+    "labels": "Beaker, Hydrochloric acid (HCl), Zinc metal (Zn), Hydrogen gas bubbles (H₂)",
+    "scientific_significance": "This diagram visually demonstrates a single displacement reaction based on the reactivity series. The more reactive metal (Zinc) displaces the less reactive element (Hydrogen) from its compound (HCl).",
+    "placeholder_note": "Image to be generated showing zinc in HCl with hydrogen bubbles."
+  },
+  "chunk_id": "std_10_chapter_3_concept_6_chunk_027"
+}

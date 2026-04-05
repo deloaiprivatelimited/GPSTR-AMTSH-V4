@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಸಾಮಾನ್ಯ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ, ಅದುವೇ ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು. ದಾಳವು ಆರು ಮುಖಗಳನ್ನು ಹೊಂದಿದ್ದು, ಪ್ರತಿ ಮುಖದ ಮೇಲೆ ಒಂದರಿಂದ ಆರರವರೆಗಿನ ಚುಕ್ಕೆಗಳಿರುತ್ತವೆ. ನಾವು ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ, ಮೇಲ್ಮುಖವಾಗಿ ಬರುವ ಸಂಖ್ಯೆಯು ಒಂದು, ಎರಡು, ಮೂರು, ನಾಲ್ಕು, ಐದು, ಅಥವಾ ಆರು ಆಗಿರಬಹುದು. ಇವುಗಳೇ ಆ ಪ್ರಯೋಗದ ಎಲ್ಲಾ ಸಾಧ್ಯ ಫಲಿತಗಳು. ಹಾಗಾಗಿ, ಈ ಪ್ರಯೋಗದ ಮಾದರಿ ಅವಕಾಶ S ಈಕ್ವಲ್ಸ್ ಫ್ಲವರ್ ಬ್ರಾಕೆಟ್ ಒಂದು, ಎರಡು, ಮೂರು, ನಾಲ್ಕು, ಐದು, ಆರು ಕ್ಲೋಸ್ ಫ್ಲವರ್ ಬ್ರಾಕೆಟ್. ಇಲ್ಲಿ ಮಾದರಿ ಅವಕಾಶದಲ್ಲಿರುವ ಒಟ್ಟು ಫಲಿತಗಳ ಸಂಖ್ಯೆ ಆರು.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಸಾಮಾನ್ಯ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ, ಅದುವೇ ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು. ದಾಳವು ಆರು ಮುಖಗಳನ್ನು ಹೊಂದಿದ್ದು, ಪ್ರತಿ ಮುಖದ ಮೇಲೆ 1 ರಿಂದ 6 ರವರೆಗಿನ ಚುಕ್ಕೆಗಳಿರುತ್ತವೆ. ನಾವು ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ, ಮೇಲ್ಮುಖವಾಗಿ ಬರುವ ಸಂಖ್ಯೆಯು 1, 2, 3, 4, 5, ಅಥವಾ 6 ಆಗಿರಬಹುದು. ಇವುಗಳೇ ಆ ಪ್ರಯೋಗದ ಎಲ್ಲಾ ಸಾಧ್ಯ ಫಲಿತಗಳು. ಹಾಗಾಗಿ, ಈ ಪ್ರಯೋಗದ ಮಾದರಿ ಅವಕಾಶ $S = \\{1, 2, 3, 4, 5, 6\\}$. ಇಲ್ಲಿ ಮಾದರಿ ಅವಕಾಶದಲ್ಲಿರುವ ಒಟ್ಟು ಫಲಿತಗಳ ಸಂಖ್ಯೆ, $n(S) = 6$.",
+  "display_bullets": [
+    "ಪ್ರಯೋಗ: ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸುವುದು.",
+    "ಸಾಧ್ಯ ಫಲಿತಗಳು: 1, 2, 3, 4, 5, 6.",
+    "ಮಾದರಿ ಅವಕಾಶ (S): $S = \\{1, 2, 3, 4, 5, 6\\}$",
+    "ಒಟ್ಟು ಫಲಿತಗಳ ಸಂಖ್ಯೆ, n(S) = 6."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left_text_right",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a standard six-sided die being rolled. Arrows point from the die to the six possible outcomes, which are images of the die faces showing 1, 2, 3, 4, 5, and 6 dots. Below this, the set S = {1, 2, 3, 4, 5, 6} is written.",
+    "labels": "Die, Roll, Outcomes, Sample Space S",
+    "mathematical_significance": "Illustrates the sample space for another common random experiment, reinforcing the concept with a larger set of outcomes than the coin toss.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "PROB-BAS-1_concept_4_chunk_006"
+}

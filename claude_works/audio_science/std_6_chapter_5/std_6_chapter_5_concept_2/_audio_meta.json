@@ -1,0 +1,191 @@
+{
+  "module_id": "std_6_chapter_5_concept_2",
+  "chapter_code": "std_6_chapter_5",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 16,
+  "ok_count": 16,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:01:39",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "c39f988fc5dfa240f5eb20b3ca95621d",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 24.691,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "chunk",
+      "script_words": 32,
+      "generated_at": "2026-04-02 12:58:33"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "2bf7b106baf83da122b6895488edf8b2",
+      "wav_file": "003_definition_0.wav",
+      "duration": 38.251,
+      "slide_title": "ಲಂಬನ ದೋಷ (Parallax Error): ವ್ಯಾಖ್ಯಾನ",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 12:58:48"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "11a18967af733c426627844f21c29d1e",
+      "wav_file": "001_intro_0.wav",
+      "duration": 62.931,
+      "slide_title": "ಉದ್ದವನ್ನು ಅಳೆಯುವ ಸರಿಯಾದ ವಿಧಾನ",
+      "type": "chunk",
+      "script_words": 90,
+      "generated_at": "2026-04-02 12:58:56"
+    },
+    "006_experiment_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "7d34bf0200fbcfca388e2b9335d7d5da",
+      "wav_file": "006_experiment_0.wav",
+      "duration": 33.851,
+      "slide_title": "ಚಟುವಟಿಕೆ: ನಿಖರವಾದ ಉದ್ದವನ್ನು ಅಳೆಯುವುದು",
+      "type": "experiment_activity",
+      "script_words": 46,
+      "generated_at": "2026-04-02 12:59:09"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "c16407df78109ad5e06554b8512ca226",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 53.371,
+      "slide_title": "ದೋಷವನ್ನು ತಪ್ಪಿಸುವುದು ಹೇಗೆ?: ಸರಿ ಮತ್ತು ತಪ್ಪು",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-04-02 12:59:20"
+    },
+    "007_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "66066c1fa4481996e1f4f12c9250123c",
+      "wav_file": "007_experiment_cont_0_1.wav",
+      "duration": 36.931,
+      "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "experiment_activity",
+      "script_words": 53,
+      "generated_at": "2026-04-02 12:59:41"
+    },
+    "009_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "d2c0e4bff31b8c4f3888d16c0f919ee5",
+      "wav_file": "009_experiment_cont_0_3.wav",
+      "duration": 47.451,
+      "slide_title": "ವಿಧಾನ 2: ಲಂಬನ ದೋಷವನ್ನು ತಪ್ಪಿಸುವುದು",
+      "type": "experiment_activity",
+      "script_words": 57,
+      "generated_at": "2026-04-02 12:59:49"
+    },
+    "008_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "f249134326322c28d4dc9b35b744b285",
+      "wav_file": "008_experiment_cont_0_2.wav",
+      "duration": 44.331,
+      "slide_title": "ವಿಧಾನ 1: ಅಳತೆಪಟ್ಟಿಯನ್ನು ಸರಿಯಾಗಿ ಇಡುವುದು",
+      "type": "experiment_activity",
+      "script_words": 46,
+      "generated_at": "2026-04-02 12:59:53"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "9b0f97c0b405b20af7757ee95cb2a795",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 52.011,
+      "slide_title": "ಲಂಬನ ದೋಷ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "definition",
+      "script_words": 76,
+      "generated_at": "2026-04-02 13:00:19"
+    },
+    "010_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "acaad62a098bc66ff4bbe8a6527b36f8",
+      "wav_file": "010_experiment_cont_0_4.wav",
+      "duration": 48.291,
+      "slide_title": "ವಿಧಾನ 3: ಮುರಿದ ಅಳತೆಪಟ್ಟಿಯಿಂದ ಅಳೆಯುವುದು",
+      "type": "experiment_activity",
+      "script_words": 63,
+      "generated_at": "2026-04-02 13:00:21"
+    },
+    "013_example_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "81ac7b8dbe50370d2dd863644b893827",
+      "wav_file": "013_example_0.wav",
+      "duration": 32.811,
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಮುರಿದ ಅಳತೆಪಟ್ಟಿ",
+      "type": "worked_example",
+      "script_words": 41,
+      "generated_at": "2026-04-02 13:00:41"
+    },
+    "012_experiment_cont_0_6.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "8cfaa6f2afed048cf48439503a3c6038",
+      "wav_file": "012_experiment_cont_0_6.wav",
+      "duration": 42.491,
+      "slide_title": "ಚಟುವಟಿಕೆಯ ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:00:44"
+    },
+    "011_experiment_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "90580eb9bb2e2a266f3f9cf02303238c",
+      "wav_file": "011_experiment_cont_0_5.wav",
+      "duration": 42.891,
+      "slide_title": "ವಿಧಾನ 4: ವಕ್ರ ರೇಖೆಯ ಉದ್ದವನ್ನು ಅಳೆಯುವುದು",
+      "type": "experiment_activity",
+      "script_words": 61,
+      "generated_at": "2026-04-02 13:00:47"
+    },
+    "014_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "c59dbaab03a837fae8068387881a42b6",
+      "wav_file": "014_example_cont_0_1.wav",
+      "duration": 33.411,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ ಹಂತವಾಗಿ",
+      "type": "worked_example",
+      "script_words": 43,
+      "generated_at": "2026-04-02 13:01:11"
+    },
+    "016_recap_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "5e4ced9137c8c3a0811e9eabae4d8a95",
+      "wav_file": "016_recap_0.wav",
+      "duration": 46.051,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:01:19"
+    },
+    "015_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "074d97d3a6edfd97ce125177bbd30fad",
+      "wav_file": "015_example_cont_0_2.wav",
+      "duration": 31.851,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "script_words": 37,
+      "generated_at": "2026-04-02 13:01:39"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಒಂದು ಸರಳ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ಪರಿಗಣಿಸಿ. ಇಲ್ಲಿ ಕೋನ ಥೀಟಾಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹುವಿನ ಉದ್ದ 3 ಯೂನಿಟ್ ಮತ್ತು ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಬಾಹುವಿನ ಉದ್ದ 4 ಯೂನಿಟ್ ಆಗಿದೆ. ಈಗ ನಾವು ಕಾಟ್ ಥೀಟಾದ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, ಕಾಟ್ ಥೀಟಾ ಈಕ್ವಲ್ಸ್ ಪಾರ್ಶ್ವ ಬಾಹು ಬೈ ಅಭಿಮುಖ ಬಾಹು. ಇಲ್ಲಿ ಪಾರ್ಶ್ವ ಬಾಹು 4 ಮತ್ತು ಅಭಿಮುಖ ಬಾಹು 3. ಹಾಗಾಗಿ, ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, ಕಾಟ್ ಥೀಟಾ ಈಕ್ವಲ್ಸ್ 4 ಬೈ 3. ನಾವು ಇನ್ನೊಂದು ರೀತಿಯಲ್ಲೂ ಇದನ್ನು ಪರಿಶೀಲಿಸಬಹುದು. ಮೊದಲು ಟ್ಯಾನ್ ಥೀಟಾ ಕಂಡುಹಿಡಿಯೋಣ, ಅದು 3 ಬೈ 4 ಆಗುತ್ತದೆ. ಆಗ ಕಾಟ್ ಥೀಟಾ ಈಕ್ವಲ್ಸ್ ಒನ್ ಬೈ ಟ್ಯಾನ್ ಥೀಟಾ, ಅಂದರೆ ಒನ್ ಬೈ 3 ಬೈ 4, ಇದು 4 ಬೈ 3 ಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ಪರಿಗಣಿಸಿ. ಇಲ್ಲಿ ಕೋನ $$\\theta$$ ಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹುವಿನ ಉದ್ದ 3 ಯೂನಿಟ್ ಮತ್ತು ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಬಾಹುವಿನ ಉದ್ದ 4 ಯೂನಿಟ್ ಆಗಿದೆ. ಈಗ ನಾವು $$\\cot(\\theta)$$ ದ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, $$\\cot(\\theta) = \\frac{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{ಅಭಿಮುಖ ಬಾಹು}}$$. ಇಲ್ಲಿ ಪಾರ್ಶ್ವ ಬಾಹು 4 ಮತ್ತು ಅಭಿಮುಖ ಬಾಹು 3. ಹಾಗಾಗಿ, ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ, $$\\cot(\\theta) = \\frac{4}{3}$$. ನಾವು ಇನ್ನೊಂದು ರೀತಿಯಲ್ಲೂ ಇದನ್ನು ಪರಿಶೀಲಿಸಬಹುದು. ಮೊದಲು $$\\tan(\\theta) = \\frac{3}{4}$$ ಕಂಡುಹಿಡಿಯೋಣ. ಆಗ $$\\cot(\\theta) = \\frac{1}{\\tan(\\theta)} = \\frac{1}{3/4} = \\frac{4}{3}$$.",
+  "display_bullets": [
+    "ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ, $$\\theta$$ ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು 3 ಮತ್ತು ಪಾರ್ಶ್ವ ಬಾಹು 4 ಆಗಿದೆ ಎಂದು ಭಾವಿಸೋಣ.",
+    "$$\\cot(\\theta)$$ ಸೂತ್ರ: $$\\frac{\\text{ಪಾರ್ಶ್ವ ಬಾಹು}}{\\text{ಅಭಿಮುಖ ಬಾಹು}}$$",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: $$\\cot(\\theta) = \\frac{4}{3}$$",
+    "ಪರ್ಯಾಯವಾಗಿ, $$\\tan(\\theta) = \\frac{3}{4}$$. ಆದ್ದರಿಂದ, $$\\cot(\\theta) = \\frac{1}{\\tan(\\theta)} = \\frac{4}{3}$$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right-angled triangle ABC, right-angled at B. Angle ACB is marked as theta. Side AB (opposite) is 3 units, Side BC (adjacent) is 4 units, and hypotenuse AC is 5 units.",
+    "labels": "A, B, C, θ, AB=3 (Opposite), BC=4 (Adjacent), AC=5 (Hypotenuse)",
+    "mathematical_significance": "Visual representation of a right-angled triangle with specific side lengths to demonstrate the calculation of the cotangent ratio.",
+    "placeholder_note": "Image to be generated showing a right triangle with sides 3, 4, 5 and angle theta adjacent to side 4."
+  },
+  "chunk_id": "TRI-APP-2_concept_1_chunk_030"
+}

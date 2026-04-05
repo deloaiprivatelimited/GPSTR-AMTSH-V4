@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಬದಲಾವಣೆಯನ್ನು ಉಂಟುಮಾಡುವ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು ಈ ಸಮೀಕರಣದಿಂದ ತೋರಿಸಬಹುದು. ಕಬ್ಬಿಣ, ಅಂದರೆ Fe, ಮತ್ತು ಕಾಪರ್ ಸಲ್ಫೇಟ್, ಅಂದರೆ C u S O four, ಇವುಗಳು ವರ್ತಿಸಿ, ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್, ಅಂದರೆ F e S O four, ಮತ್ತು ತಾಮ್ರ, ಅಂದರೆ Cu, ವನ್ನು ಕೊಡುತ್ತವೆ.",
+  "script_display": "ಈ ಬದಲಾವಣೆಯನ್ನು ಉಂಟುಮಾಡುವ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು ಈ ಸಮೀಕರಣದಿಂದ ತೋರಿಸಬಹುದು. ಕಬ್ಬಿಣ (Fe) ಮತ್ತು ಕಾಪರ್ ಸಲ್ಫೇಟ್ (CuSO₄) ಇವುಗಳು ವರ್ತಿಸಿ, ಕಬ್ಬಿಣದ ಸಲ್ಫೇಟ್ (FeSO₄) ಮತ್ತು ತಾಮ್ರ (Cu) ವನ್ನು ಕೊಡುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s)",
+    "placeholder_note": "Display the chemical equation for the displacement reaction between iron and copper sulfate."
+  },
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_023"
+}

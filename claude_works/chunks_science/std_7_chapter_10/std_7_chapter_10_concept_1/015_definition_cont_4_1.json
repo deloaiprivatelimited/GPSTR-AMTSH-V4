@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಹೋಲಿಕೆ: ತೆರೆದ ಮಂಡಲ vs. ಆವೃತ ಮಂಡಲ",
+  "script": "ತೆರೆದ ಮಂಡಲದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಅದನ್ನು ಆವೃತ ಮಂಡಲದೊಂದಿಗೆ ಹೋಲಿಸೋಣ. ಈ ಚಿತ್ರವನ್ನು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಎಡಭಾಗದಲ್ಲಿ ತೆರೆದ ಮಂಡಲವಿದೆ. ಇಲ್ಲಿ ಸ್ವಿಚ್ ಆಫ್ ಆಗಿರುವುದರಿಂದ, ವಿದ್ಯುತ್ ಹರಿವಿನ ಪಥವು ಅಪೂರ್ಣವಾಗಿದೆ ಮತ್ತು ಬಲ್ಬ್ ಬೆಳಗುತ್ತಿಲ್ಲ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಬಲಭಾಗದಲ್ಲಿ ಆವೃತ ಮಂಡಲವಿದೆ. ಇಲ್ಲಿ ಸ್ವಿಚ್ ಆನ್ ಆಗಿದ್ದು, ವಿದ್ಯುತ್ ಹರಿಯಲು ಪಥವು ಪೂರ್ಣವಾಗಿದೆ. ಆದ್ದರಿಂದ ಬಲ್ಬ್ ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತದೆ. ಈ ಹೋಲಿಕೆಯು ತೆರೆದ ಮಂಡಲದ ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ.",
+  "script_display": "ತೆರೆದ ಮಂಡಲದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಅದನ್ನು ಆವೃತ ಮಂಡಲದೊಂದಿಗೆ ಹೋಲಿಸೋಣ. ಈ ಚಿತ್ರವನ್ನು ಗಮನವಿಟ್ಟು ನೋಡಿ. ಎಡಭಾಗದಲ್ಲಿ ತೆರೆದ ಮಂಡಲವಿದೆ. ಇಲ್ಲಿ ಸ್ವಿಚ್ OFF ಆಗಿರುವುದರಿಂದ, ವಿದ್ಯುತ್ ಹರಿವಿನ ಪಥವು ಅಪೂರ್ಣವಾಗಿದೆ ಮತ್ತು ಬಲ್ಬ್ ಬೆಳಗುತ್ತಿಲ್ಲ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಬಲಭಾಗದಲ್ಲಿ ಆವೃತ ಮಂಡಲವಿದೆ. ಇಲ್ಲಿ ಸ್ವಿಚ್ ON ಆಗಿದ್ದು, ವಿದ್ಯುತ್ ಹರಿಯಲು ಪಥವು ಪೂರ್ಣವಾಗಿದೆ. ಆದ್ದರಿಂದ ಬಲ್ಬ್ ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತದೆ. ಈ ಹೋಲಿಕೆಯು ತೆರೆದ ಮಂಡಲದ ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ತೆರೆದ ಮಂಡಲ (Open Circuit): ಸ್ವಿಚ್ OFF, ಪಥ ಅಪೂರ್ಣ, ಬಲ್ಬ್ ಬೆಳಗುವುದಿಲ್ಲ.",
+    "ಆವೃತ ಮಂಡಲ (Closed Circuit): ಸ್ವಿಚ್ ON, ಪಥ ಪೂರ್ಣ, ಬಲ್ಬ್ ಬೆಳಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_top_visual_bottom",
+    "text_zone": "full",
+    "visual_zone": "bottom",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison diagram using standard circuit symbols. On the left, labeled 'ತೆರೆದ ಮಂಡಲ', an open circuit with the switch open and the bulb off. On the right, labeled 'ಆವೃತ ಮಂಡಲ', a closed circuit with the switch closed and the bulb on.",
+    "labels": "Left: Open Circuit (ತೆರೆದ ಮಂಡಲ), Right: Closed Circuit (ಆವೃತ ಮಂಡಲ), Battery, Bulb, Switch, Wires",
+    "scientific_significance": "Directly contrasts open and closed circuits to visually demonstrate the necessity of a complete, unbroken path for current to flow and a device to operate.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_7_chapter_10_concept_1_chunk_015"
+}

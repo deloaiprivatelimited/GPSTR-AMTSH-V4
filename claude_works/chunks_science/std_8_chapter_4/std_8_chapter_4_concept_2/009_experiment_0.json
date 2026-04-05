@@ -1,0 +1,37 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಪ್ರಯೋಗದ ಸಿದ್ಧತೆ: ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈಗ ನಾವು ದಹನಕ್ಕೆ ಗಾಳಿ ಅವಶ್ಯಕ ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸುವ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲು, ನಮಗೆ ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ಮೇಣದಬತ್ತಿ ಬೇಕು. ನಂತರ, ಒಂದು ಗಾಜಿನ ಚಿಮಣಿ, ಅಂದರೆ ಲ್ಯಾಂಪ್ ಗ್ಲಾಸ್. ಗಾಳಿಯಾಡಲು ಅನುಕೂಲವಾಗುವಂತೆ ಚಿಮಣಿಯನ್ನು ಎತ್ತಿಡಲು ಮರದ ಎರಡು ಸಣ್ಣ ತುಂಡುಗಳು ಬೇಕು. ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಮೇಣದಬತ್ತಿಯನ್ನು ಹೊತ್ತಿಸಲು ಒಂದು ಬೆಂಕಿಪೊಟ್ಟಣ. ಈ ಎಲ್ಲಾ ಸರಳ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ನಾವು ಒಂದು ಪ್ರಮುಖ ವೈಜ್ಞಾನಿಕ ಸತ್ಯವನ್ನು ತಿಳಿಯಲಿದ್ದೇವೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಈ ವಸ್ತುಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳಿ.",
+  "script_display": "ಈಗ ನಾವು ದಹನಕ್ಕೆ ಗಾಳಿ ಅವಶ್ಯಕ ಎಂಬುದನ್ನು ಸಾಬೀತುಪಡಿಸುವ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲು, ನಮಗೆ ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ಮೇಣದಬತ್ತಿ ಬೇಕು. ನಂತರ, ಒಂದು ಗಾಜಿನ ಚಿಮಣಿ, ಅಂದರೆ ಲ್ಯಾಂಪ್ ಗ್ಲಾಸ್. ಗಾಳಿಯಾಡಲು ಅನುಕೂಲವಾಗುವಂತೆ ಚಿಮಣಿಯನ್ನು ಎತ್ತಿಡಲು ಮರದ ಎರಡು ಸಣ್ಣ ತುಂಡುಗಳು ಬೇಕು. ಮತ್ತು ಕೊನೆಯದಾಗಿ, ಮೇಣದಬತ್ತಿಯನ್ನು ಹೊತ್ತಿಸಲು ಒಂದು ಬೆಂಕಿಪೊಟ್ಟಣ. ಈ ಎಲ್ಲಾ ಸರಳ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ನಾವು ಒಂದು ಪ್ರಮುಖ ವೈಜ್ಞಾನಿಕ ಸತ್ಯವನ್ನು ತಿಳಿಯಲಿದ್ದೇವೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಈ ವಸ್ತುಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳಿ.",
+  "display_bullets": [
+    "ಮೇಣದಬತ್ತಿ",
+    "ಗಾಜಿನ ಚಿಮಣಿ",
+    "ಮರದ ಸಣ್ಣ ತುಂಡುಗಳು",
+    "ಬೆಂಕಿಪೊಟ್ಟಣ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the experiment: a candle, a glass chimney, two small wooden blocks, and a matchbox, all laid out on a table.",
+    "labels": "ಮೇಣದಬತ್ತಿ, ಗಾಜಿನ ಚಿಮಣಿ, ಮರದ ತುಂಡುಗಳು, ಬೆಂಕಿಪೊಟ್ಟಣ",
+    "scientific_significance": "Shows the required materials for the experiment to prove air is necessary for combustion.",
+    "placeholder_note": "Image to be generated showing the materials."
+  },
+  "chunk_id": "std_8_chapter_4_concept_2_chunk_009"
+}

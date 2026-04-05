@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 4",
+  "script": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಗುಣಲಕ್ಷಣವನ್ನು ಬಳಸುತ್ತೇವೆ. ನಾವು ಈಗಾಗಲೇ ತ್ರಿಭುಜ AOD ಯು ತ್ರಿಭುಜ COB ಗೆ ಸಮರೂಪಿಯಾಗಿದೆ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತವೆ. ಇಲ್ಲಿ ಅನುರೂಪ ಶೃಂಗಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. A ಯು C ಗೆ, O ಯು O ಗೆ, ಮತ್ತು D ಯು B ಗೆ ಅನುರೂಪವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಕೋನ A ಯು ಕೋನ C ಗೆ ಸಮನಾಗಿರುತ್ತದೆ ಮತ್ತು ಕೋನ D ಯು ಕೋನ B ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಸಾಧಿಸಬೇಕಾಗಿದ್ದು.",
+  "script_display": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಗುಣಲಕ್ಷಣವನ್ನು ಬಳಸುತ್ತೇವೆ. ನಾವು ಈಗಾಗಲೇ $\\triangle AOD \\sim \\triangle COB$ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತವೆ. ಇಲ್ಲಿ ಅನುರೂಪ ಶೃಂಗಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. $A \\leftrightarrow C$, $O \\leftrightarrow O$, ಮತ್ತು $D \\leftrightarrow B$. ಆದ್ದರಿಂದ, $\\angle A = \\angle C$ ಮತ್ತು $\\angle D = \\angle B$. ಇದನ್ನೇ ನಾವು ಸಾಧಿಸಬೇಕಾಗಿದ್ದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ರೇಖೆಗಳು, AC ಮತ್ತು BD, O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ COB ಗಳಲ್ಲಿ ಅನುರೂಪ ಕೋನಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮವೆಂದು ತೋರಿಸುತ್ತದೆ. A ಮತ್ತು C ಅನುರೂಪ ಕೋನಗಳು, B ಮತ್ತು D ಅನುರೂಪ ಕೋನಗಳು.",
+    "placeholder_note": "Please generate an image based on Figure 6.31. Highlight corresponding angles: angle A with angle C, and angle B with angle D."
+  },
+  "source_example_id": "GEO-TRI-2_example_16",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "$\\triangle AOD \\sim \\triangle COB$ ಆಗಿರುವುದರಿಂದ, ಅನುರೂಪ ಶೃಂಗಗಳು $A \\leftrightarrow C$, $O \\leftrightarrow O$, $D \\leftrightarrow B$. ಆದ್ದರಿಂದ, $\\angle A = \\angle C$ ಮತ್ತು $\\angle D = \\angle B$.",
+      "justification": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_060"
+}

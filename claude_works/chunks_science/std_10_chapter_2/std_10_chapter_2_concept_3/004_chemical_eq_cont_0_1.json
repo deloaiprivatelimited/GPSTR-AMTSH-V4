@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈಗ ನಾವು ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಎರಡು ಅಣು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಜಲೀಯ ದ್ರಾವಣದಲ್ಲಿ, ಒಂದು ಅಣು ಸತುವಿನೊಂದಿಗೆ, ಘನ ರೂಪದಲ್ಲಿ, ಕಾಸಿದಾಗ ವರ್ತಿಸಿ, ಸೋಡಿಯಂ ಝಿಂಕೇಟ್, ಜಲೀಯ ದ್ರಾವಣದಲ್ಲಿ, ಮತ್ತು ಒಂದು ಅಣು ಹೈಡ್ರೋಜನ್ ಅನಿಲವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. 2 ಅಣು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (ಜಲೀಯ ದ್ರಾವಣ) + 1 ಅಣು ಸತು (ಘನ) ಕಾಸಿದಾಗ ಸೋಡಿಯಂ ಝಿಂಕೇಟ್ (ಜಲೀಯ ದ್ರಾವಣ) + 1 ಅಣು ಹೈಡ್ರೋಜನ್ (ಅನಿಲ) ಅನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2NaOH(aq) + Zn(s) \\xrightarrow{\\text{ಕಾಸಿದಾಗ}} Na_2ZnO_2(aq) + H_2(g) \\uparrow",
+    "placeholder_note": "A large, centered chemical equation showing the reaction of sodium hydroxide with zinc."
+  },
+  "chunk_id": "std_10_chapter_2_concept_3_chunk_004"
+}

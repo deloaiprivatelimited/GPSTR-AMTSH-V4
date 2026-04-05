@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹರಿಸಿದ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕ್ಲೋರಿನ್, ಸಲ್ಫರ್ ಮತ್ತು ಮೆಗ್ನೀಸಿಯಂಗಳ ವೇಲೆನ್ಸಿಯನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ಕಲಿಯೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲು, ನಾವು ಪ್ರತಿ ಧಾತುವಿನ ಇಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ ಮತ್ತು ಅಷ್ಟಕ ನಿಯಮವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕ್ಲೋರಿನ್, ಸಲ್ಫರ್ ಮತ್ತು ಮೆಗ್ನೀಸಿಯಂಗಳ ವೇಲೆನ್ಸಿಯನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ಕಲಿಯೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲು, ನಾವು ಪ್ರತಿ ಧಾತುವಿನ ಇಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ ಮತ್ತು ಅಷ್ಟಕ ನಿಯಮವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಕ್ಲೋರಿನ್ (Cl), ಸಲ್ಫರ್ (S) ಮತ್ತು ಮೆಗ್ನೀಸಿಯಂ (Mg) ಗಳ ವೇಲೆನ್ಸಿಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: ಪ್ರತಿ ಧಾತುವಿನ ವೇಲೆನ್ಸಿ.",
+    "ಬಳಸುವ ವಿಧಾನ: ಇಲೆಕ್ಟ್ರಾನ್ ವಿನ್ಯಾಸ ಮತ್ತು ಅಷ್ಟಕ ನಿಯಮ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{Cl, S, Mg ಗಳ ವೇಲೆನ್ಸಿ ಎಷ್ಟು?}",
+    "placeholder_note": "A simple box with the question: Cl, S, Mg ಗಳ ವೇಲೆನ್ಸಿ ಎಷ್ಟು?"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_4_example_1",
+  "chunk_id": "std_9_chapter_4_concept_6_chunk_010"
+}

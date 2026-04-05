@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ದ್ರಾವ್ಯ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ನೀರಿದೆ, ಅದು ದ್ರಾವಕ. ಅದಕ್ಕೆ ನಾವು ಸಕ್ಕರೆಯ ಹರಳುಗಳನ್ನು ಸೇರಿಸುತ್ತಿದ್ದೇವೆ. ಈ ಸಕ್ಕರೆಯು ನೀರಿನಲ್ಲಿ ಕರಗಿ ಒಂದು ದ್ರಾವಣವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಇಲ್ಲಿ, ಸಕ್ಕರೆಯು ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿದೆ ಮತ್ತು ಅದು ನೀರಿನಲ್ಲಿ ಕರಗುತ್ತಿದೆ. ಆದ್ದರಿಂದ, ಸಕ್ಕರೆಯು ದ್ರಾವ್ಯ. ನೆನಪಿಡಿ, ದ್ರಾವಣದಲ್ಲಿ ಕರಗುವ ವಸ್ತುವನ್ನು ನಾವು ದ್ರಾವ್ಯ ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ, ಸಕ್ಕರೆಯ ಕಣಗಳು ನೀರಿನ ಕಣಗಳ ನಡುವಿನ ಖಾಲಿ ಜಾಗದಲ್ಲಿ ಸೇರಿಕೊಳ್ಳುತ್ತವೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಒಂದು ಬೀಕರ್‌ನಲ್ಲಿ ನೀರಿದೆ, ಅದು **ದ್ರಾವಕ (Solvent)**. ಅದಕ್ಕೆ ನಾವು ಸಕ್ಕರೆಯ ಹರಳುಗಳನ್ನು ಸೇರಿಸುತ್ತಿದ್ದೇವೆ. ಈ ಸಕ್ಕರೆಯು ನೀರಿನಲ್ಲಿ ಕರಗಿ ಒಂದು ದ್ರಾವಣವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಇಲ್ಲಿ, ಸಕ್ಕರೆಯು ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿದೆ ಮತ್ತು ಅದು ನೀರಿನಲ್ಲಿ ಕರಗುತ್ತಿದೆ. ಆದ್ದರಿಂದ, ಸಕ್ಕರೆಯು **ದ್ರಾವ್ಯ (Solute)**.",
+  "display_bullets": [
+    "ಚಿತ್ರದಲ್ಲಿ, ನೀರು **ದ್ರಾವಕ**ವಾಗಿದೆ.",
+    "ಸೇರಿಸುತ್ತಿರುವ ಸಕ್ಕರೆಯು **ದ್ರಾವ್ಯ**ವಾಗಿದೆ.",
+    "ದ್ರಾವ್ಯವು (ಸಕ್ಕರೆ) ದ್ರಾವಕದಲ್ಲಿ (ನೀರು) ಕರಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing sugar crystals being poured from a spoon into a glass beaker filled with water. An arrow points to the sugar crystals with the label 'ದ್ರಾವ್ಯ (Solute)'. Another arrow points to the water with the label 'ದ್ರಾವಕ (Solvent)'.",
+    "labels": "ದ್ರಾವ್ಯ (Solute), ದ್ರಾವಕ (Solvent), ಸಕ್ಕರೆ, ನೀರು, ಬೀಕರ್",
+    "scientific_significance": "Illustrates the concept of a solute (sugar) being dissolved in a solvent (water) to form a solution.",
+    "placeholder_note": "Image to be generated showing sugar being added to water in a beaker, with labels for solute and solvent."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_2_concept_3_chunk_010"
+}

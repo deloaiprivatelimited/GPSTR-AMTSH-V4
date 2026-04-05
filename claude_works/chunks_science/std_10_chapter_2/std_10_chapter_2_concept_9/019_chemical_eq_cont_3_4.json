@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ವಿಧ: ಉಷ್ಣ ವಿಭಜನೆ",
+  "script": "ಕೊನೆಯದಾಗಿ, ಈ ಕ್ರಿಯೆಯ ವಿಧವನ್ನು ಗುರುತಿಸೋಣ. ಇದು ಉಷ್ಣ ವಿಭಜನ ಕ್ರಿಯೆ. ಅಂದರೆ, ಒಂದೇ ಒಂದು ಸಂಯುಕ್ತವು ಉಷ್ಣದ ಶಕ್ತಿಯಿಂದ ವಿಭಜನೆಗೊಂಡು, ಎರಡು ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚು ಸರಳವಾದ ಉತ್ಪನ್ನಗಳನ್ನು ನೀಡುತ್ತದೆ. ಇಲ್ಲಿ ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್ ವಿಭಜನೆಗೊಳ್ಳುತ್ತಿದೆ.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ಈ ಕ್ರಿಯೆಯ ವಿಧವನ್ನು ಗುರುತಿಸೋಣ. ಇದು **ಉಷ್ಣ ವಿಭಜನ ಕ್ರಿಯೆ (Thermal Decomposition)**. ಅಂದರೆ, ಒಂದೇ ಒಂದು ಸಂಯುಕ್ತವು ಉಷ್ಣದ ಶಕ್ತಿಯಿಂದ ವಿಭಜನೆಗೊಂಡು, ಎರಡು ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚು ಸರಳವಾದ ಉತ್ಪನ್ನಗಳನ್ನು ನೀಡುತ್ತದೆ. ಇಲ್ಲಿ NaHCO₃ ವಿಭಜನೆಗೊಳ್ಳುತ್ತಿದೆ.",
+  "display_bullets": [
+    "**ಪದ:** ಉಷ್ಣ ವಿಭಜನ ಕ್ರಿಯೆ (Thermal Decomposition)",
+    "**ವಿವರಣೆ:** ಉಷ್ಣದ ಸಹಾಯದಿಂದ ಒಂದು ಸಂಯುಕ್ತವು ವಿಭಜನೆಗೊಂಡು ಸರಳ ಉತ್ಪನ್ನಗಳನ್ನು ಉಂಟುಮಾಡುವ ಕ್ರಿಯೆ.",
+    "**ಉದಾಹರಣೆ:** 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂"
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "text_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_2_concept_9_chunk_019"
+}

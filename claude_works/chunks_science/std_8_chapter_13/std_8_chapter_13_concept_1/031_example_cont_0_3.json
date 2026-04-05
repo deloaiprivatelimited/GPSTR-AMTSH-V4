@@ -1,0 +1,58 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರವನ್ನು ನೋಡೋಣ. ಪತನ ಕೋನ 40 ಡಿಗ್ರಿ ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನ 40 ಡಿಗ್ರಿ. ನೆನಪಿಡಿ, ಪ್ರತಿಫಲನದ ನಿಯಮದ ಪ್ರಕಾರ ಈ ಎರಡು ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತವೆ. ಪರೀಕ್ಷೆಯಲ್ಲಿ, ಪತನ ಕಿರಣ ಮತ್ತು ಮೇಲ್ಮೈ ನಡುವಿನ ಕೋನವನ್ನು ನೀಡಿ ಗೊಂದಲಗೊಳಿಸಬಹುದು. ಆದರೆ ಪತನ ಕೋನವು ಯಾವಾಗಲೂ ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರ:\n\n**ಪತನ ಕೋನ (∠i) = 40°**\n**ಪ್ರತಿಫಲನ ಕೋನ (∠r) = 40°**\n\n**ಪರೀಕ್ಷಾ ಸಲಹೆ:** ಪತನ ಕೋನವು (angle of incidence) ಯಾವಾಗಲೂ ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬ ರೇಖೆಯ (normal) ನಡುವಿನ ಕೋನವಾಗಿರುತ್ತದೆ, ಪತನ ಕಿರಣ ಮತ್ತು ದರ್ಪಣದ ಮೇಲ್ಮೈ ನಡುವಿನ ಕೋನವಲ್ಲ.",
+  "display_bullets": [
+    "**ಪತನ ಕೋನ (∠i) = 40°**",
+    "**ಪ್ರತಿಫಲನ ಕೋನ (∠r) = 40°**"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಪತನ ಕೋನ (∠i) = 40°} \\\\ \\text{ಪ್ರತಿಫಲನ ಕೋನ (∠r) = 40°}",
+    "placeholder_note": "Display the final answer in a highlighted box."
+  },
+  "final_answer": "ಪತನ ಕೋನ = 40° ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನ = 40°.",
+  "final_answer_display": "ಪತನ ಕೋನ (∠i) = 40°\nಪ್ರತಿಫಲನ ಕೋನ (∠r) = 40°",
+  "exam_tip": {
+    "question_pattern": "ಪತನ ಕಿರಣ ಮತ್ತು ಪ್ರತಿಫಲಿತ ಕಿರಣದ ನಡುವಿನ ಕೋನವನ್ನು ನೀಡಿ, ಪತನ ಅಥವಾ ಪ್ರತಿಫಲನ ಕೋನವನ್ನು ಕೇಳಲಾಗುತ್ತದೆ.",
+    "skill_tested": "ಬೆಳಕಿನ ಪ್ರತಿಫಲನದ ಮೊದಲನೇ ನಿಯಮದ (∠i = ∠r) ಅನ್ವಯ.",
+    "distractor": "ವಿದ್ಯಾರ್ಥಿಗಳು 80° ಅನ್ನು ಪತನ ಕೋನವೆಂದು ಭಾವಿಸಿ, ಪ್ರತಿಫಲನ ಕೋನವೂ 80° ಎಂದು ಉತ್ತರಿಸಬಹುದು.",
+    "why_distractor_works": "80° ಎಂಬುದು ಪತನ ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನಗಳ ಮೊತ್ತವಾಗಿದೆ, ಕೇವಲ ಪತನ ಕೋನವಲ್ಲ ಎಂಬುದನ್ನು ಮರೆಯುವುದರಿಂದ ಈ ತಪ್ಪು ಸಂಭವಿಸುತ್ತದೆ."
+  },
+  "prerequisites_display": [
+    "ಬೆಳಕಿನ ಪ್ರತಿಫಲನದ ನಿಯಮಗಳು"
+  ],
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 1,
+    "laws": 1,
+    "chemical_equations": 0,
+    "properties": 0,
+    "experiments": 0,
+    "worked_examples": 1
+  },
+  "next_modules": [
+    "std_8_chapter_13_concept_2"
+  ],
+  "chunk_id": "std_8_chapter_13_concept_1_chunk_031",
+  "source_example_id": "std_8_chapter_13_example_1"
+}

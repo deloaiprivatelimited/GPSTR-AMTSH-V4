@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಅಭಿಮುಖ vs ಪಾರ್ಶ್ವ ಬಾಹುಗಳು",
+  "script": "ಈಗ ಒಂದು ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸೋಣ. ಅಭಿಮುಖ ಬಾಹುಗಳು ಮತ್ತು ಪಾರ್ಶ್ವ ಬಾಹುಗಳು ಒಂದೇ ಅಲ್ಲ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, AB ಮತ್ತು CD ಅಭಿಮುಖ ಬಾಹುಗಳು. ಇವು ಎದುರುಬದುರಿದ್ದು, ಇವುಗಳಿಗೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಮೂಲೆ ಇಲ್ಲ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ. AB ಮತ್ತು BC ಪಾರ್ಶ್ವ ಬಾಹುಗಳು ಅಥವಾ ಅಡ್ಜಸೆಂಟ್ ಸೈಡ್ಸ್. ಇವೆರಡೂ 'B' ಎಂಬ ಸಾಮಾನ್ಯ ಮೂಲೆಯನ್ನು ಹಂಚಿಕೊಂಡಿವೆ. ಇವು ಅಕ್ಕಪಕ್ಕದ ಬಾಹುಗಳು. ಆದ್ದರಿಂದ, ಸಾಮಾನ್ಯ ಮೂಲೆ ಇಲ್ಲದಿದ್ದರೆ ಅವು ಅಭಿಮುಖ ಬಾಹುಗಳು, ಸಾಮಾನ್ಯ ಮೂಲೆ ಇದ್ದರೆ ಅವು ಪಾರ್ಶ್ವ ಬಾಹುಗಳು. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಆಯತ ಮತ್ತು ಚೌಕದ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಕಲಿಯಲು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ ಒಂದು ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸೋಣ. ಅಭಿಮುಖ ಬಾಹುಗಳು ಮತ್ತು ಪಾರ್ಶ್ವ ಬಾಹುಗಳು ಒಂದೇ ಅಲ್ಲ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, $AB$ ಮತ್ತು $CD$ ಅಭಿಮುಖ ಬಾಹುಗಳು. ಇವು ಎದುರುಬದುರಿದ್ದು, ಇವುಗಳಿಗೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಮೂಲೆ ಇಲ್ಲ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ. $AB$ ಮತ್ತು $BC$ ಪಾರ್ಶ್ವ ಬಾಹುಗಳು (Adjacent Sides). ಇವೆರಡೂ 'B' ಎಂಬ ಸಾಮಾನ್ಯ ಮೂಲೆಯನ್ನು ಹಂಚಿಕೊಂಡಿವೆ. ಇವು ಅಕ್ಕಪಕ್ಕದ ಬಾಹುಗಳು. ಆದ್ದರಿಂದ, ಸಾಮಾನ್ಯ ಮೂಲೆ ಇಲ್ಲದಿದ್ದರೆ ಅವು ಅಭಿಮುಖ ಬಾಹುಗಳು, ಸಾಮಾನ್ಯ ಮೂಲೆ ಇದ್ದರೆ ಅವು ಪಾರ್ಶ್ವ ಬಾಹುಗಳು. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಆಯತ ಮತ್ತು ಚೌಕದ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಕಲಿಯಲು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_visual_horizontal",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen image. Left side shows quadrilateral ABCD with sides AB and CD highlighted in blue, with a caption 'ಅಭಿಮುಖ ಬಾಹುಗಳು (ಸಾಮಾನ್ಯ ಮೂಲೆ ಇಲ್ಲ)'. Right side shows the same quadrilateral with sides AB and BC highlighted in green, with a caption 'ಪಾರ್ಶ್ವ ಬಾಹುಗಳು (ಸಾಮಾನ್ಯ ಮೂಲೆ B ಇದೆ)'. The common vertex B on the right side should be prominently marked.",
+    "labels": "Left: Opposite Sides (AB, CD). Right: Adjacent Sides (AB, BC). Common vertex B.",
+    "mathematical_significance": "Directly contrasts the concept of opposite sides with the related but distinct concept of adjacent sides, preventing a common confusion.",
+    "placeholder_note": "Image to be generated. This is a crucial comparison visual."
+  },
+  "chunk_id": "VIS-CON-1_concept_2_chunk_011"
+}

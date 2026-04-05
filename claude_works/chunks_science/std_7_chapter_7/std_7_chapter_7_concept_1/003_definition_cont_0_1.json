@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಿಚಲನಾವ್ಯೂಹ: ಒಂದು ಹೋಲಿಕೆ",
+  "script": "ಪರಿಚಲನಾವ್ಯೂಹವನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಮ್ಮ ದೇಹವನ್ನು ಒಂದು ದೊಡ್ಡ ನಗರಕ್ಕೆ ಹೋಲಿಸೋಣ. ಈ ನಗರದಲ್ಲಿ, ಪರಿಚಲನಾವ್ಯೂಹವು ಒಂದು ಅತ್ಯುತ್ತಮ ಸಾಗಾಣಿಕಾ ಸೇವೆಯಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ. ಈ ಸೇವೆಯಲ್ಲಿ, ಹೃದಯವು ಕೇಂದ್ರ ಪಂಪ್ ನಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ನಿರಂತರವಾಗಿ ರಕ್ತವನ್ನು ಮುಂದಕ್ಕೆ ತಳ್ಳುತ್ತದೆ. ರಕ್ತನಾಳಗಳು, ನಗರದ ರಸ್ತೆಗಳು ಮತ್ತು ಹೆದ್ದಾರಿಗಳಿದ್ದಂತೆ, ರಕ್ತವು ಚಲಿಸುವ ಮಾರ್ಗಗಳಾಗಿವೆ. ಇನ್ನು ರಕ್ತವು, ಆಮ್ಲಜನಕ ಮತ್ತು ಪೋಷಕಾಂಶಗಳಂತಹ ಅಮೂಲ್ಯ ಸರಕುಗಳನ್ನು ಹೊತ್ತೊಯ್ಯುವ ಸಾಗಾಣಿಕಾ ವಾಹನದಂತೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಪರಿಚಲನಾವ್ಯೂಹವನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಮ್ಮ ದೇಹವನ್ನು ಒಂದು ದೊಡ್ಡ ನಗರಕ್ಕೆ ಹೋಲಿಸೋಣ. ಈ ನಗರದಲ್ಲಿ, ಪರಿಚಲನಾವ್ಯೂಹವು ಒಂದು ಅತ್ಯುತ್ತಮ ಸಾಗಾಣಿಕಾ ಸೇವೆಯಂತೆ (delivery service) ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "**ಹೃದಯ (ಪಂಪ್):** ರಕ್ತವನ್ನು ದೇಹದಾದ್ಯಂತ ತಳ್ಳುತ್ತದೆ.",
+    "**ರಕ್ತನಾಳಗಳು (ರಸ್ತೆಗಳು):** ರಕ್ತವು ಚಲಿಸುವ ಮಾರ್ಗಗಳು.",
+    "**ರಕ್ತ (ಸಾಗಾಣಿಕಾ ವಾಹನ):** ಆಮ್ಲಜನಕ ಮತ್ತು ಪೋಷಕಾಂಶಗಳನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simplified diagram of the human circulatory system. A central heart (labeled 'ಹೃದಯ - ಪಂಪ್') is shown. Red arteries (labeled 'ರಕ್ತನಾಳಗಳು - ರಸ್ತೆಗಳು') are shown leaving the heart, and blue veins are shown returning. A small icon of a truck (labeled 'ರಕ್ತ - ವಾಹನ') is moving along an artery.",
+    "labels": "Heart, Arteries, Veins, Blood",
+    "scientific_significance": "Illustrates the analogy of the circulatory system as a transport network, with the heart as a pump, vessels as roads, and blood as the vehicle.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_7_concept_1_chunk_003"
+}

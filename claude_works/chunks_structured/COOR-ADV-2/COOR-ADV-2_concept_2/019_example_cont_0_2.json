@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ನಾವು ಎಕ್ಸ್ ನಿರ್ದೇಶಾಂಕವನ್ನು ಏಳು ಮತ್ತು ವೈ ನಿರ್ದೇಶಾಂಕವನ್ನು ಮೂರು ಎಂದು ಕಂಡುಹಿಡಿದಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಅಪೇಕ್ಷಿತ ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು ಏಳು, ಮೂರು ಆಗಿವೆ. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "script_display": "ನಾವು x-ನಿರ್ದೇಶಾಂಕವನ್ನು 7 ಮತ್ತು y-ನಿರ್ದೇಶಾಂಕವನ್ನು 3 ಎಂದು ಕಂಡುಹಿಡಿದಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಅಪೇಕ್ಷಿತ ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು $(7, 3)$ ಆಗಿವೆ. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "display_bullets": [
+    "x-ನಿರ್ದೇಶಾಂಕ = 7",
+    "y-ನಿರ್ದೇಶಾಂಕ = 3",
+    "ಆದ್ದರಿಂದ, ಅಪೇಕ್ಷಿತ ಬಿಂದುವಿನ ನಿರ್ದೇಶಾಂಕಗಳು (7, 3) ಆಗಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_only",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "COOR-ADV-2_example_6",
+  "final_answer": "(7, 3)",
+  "final_answer_display": "$(7, 3)$",
+  "chunk_id": "COOR-ADV-2_concept_2_chunk_019"
+}

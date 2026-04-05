@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಗುಣಲಕ್ಷಣಗಳಲ್ಲಿ ವ್ಯತ್ಯಾಸ",
+  "script": "ನಾವು ನೋಡಿದಂತೆ, ರಚನೆ ಬೇರೆಯಾದರೆ ಗುಣಗಳು ಕೂಡ ಬೇರೆಯಾಗುತ್ತವೆ. ಈ ಕೋಷ್ಟಕದಲ್ಲಿ ಬ್ಯೂಟೇನ್ ಸಮಾಂಗಿಗಳ ಕುದಿಯುವ ಬಿಂದುಗಳನ್ನು ಹೋಲಿಸಲಾಗಿದೆ. ನೋಡಿ, ನೇರ ಸರಪಳಿಯಿರುವ ಎನ್-ಬ್ಯೂಟೇನ್, ಮೈನಸ್ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಐದು ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್‌ನಲ್ಲಿ ಕುದಿಯುತ್ತದೆ. ಆದರೆ, ಕವಲು ಸರಪಳಿಯಿರುವ ಐಸೋಬ್ಯೂಟೇನ್, ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ತಾಪಮಾನವಾದ ಮೈನಸ್ ಹನ್ನೊಂದು ಪಾಯಿಂಟ್ ಏಳು ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್‌ನಲ್ಲಿ ಕುದಿಯುತ್ತದೆ. ರಚನೆಯಲ್ಲಿನ ಈ ಸಣ್ಣ ಬದಲಾವಣೆಯು ಅಣುಗಳ ನಡುವಿನ ಆಕರ್ಷಣಾ ಬಲದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಿ, ಅವುಗಳ ಭೌತಿಕ ಗುಣಗಳನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ. ಇದು ರಚನಾ ಸಮಾಂಗತೆಯ ಒಂದು ಪ್ರಮುಖ ಪರಿಣಾಮವಾಗಿದೆ.",
+  "script_display": "ನಾವು ನೋಡಿದಂತೆ, ರಚನೆ ಬೇರೆಯಾದರೆ ಗುಣಗಳು ಕೂಡ ಬೇರೆಯಾಗುತ್ತವೆ. ಈ ಕೋಷ್ಟಕದಲ್ಲಿ ಬ್ಯೂಟೇನ್ ಸಮಾಂಗಿಗಳ ಕುದಿಯುವ ಬಿಂದುಗಳನ್ನು (Boiling Points) ಹೋಲಿಸಲಾಗಿದೆ. ನೋಡಿ, ನೇರ ಸರಪಳಿಯಿರುವ n-ಬ್ಯೂಟೇನ್, $-0.5$ °C ನಲ್ಲಿ ಕುದಿಯುತ್ತದೆ. ಆದರೆ, ಕವಲು ಸರಪಳಿಯಿರುವ ಐಸೋಬ್ಯೂಟೇನ್, ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ತಾಪಮಾನವಾದ $-11.7$ °C ನಲ್ಲಿ ಕುದಿಯುತ್ತದೆ. ರಚನೆಯಲ್ಲಿನ ಈ ಸಣ್ಣ ಬದಲಾವಣೆಯು ಅಣುಗಳ ನಡುವಿನ ಆಕರ್ಷಣಾ ಬಲದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಿ, ಅವುಗಳ ಭೌತಿಕ ಗುಣಗಳನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ. ಇದು ರಚನಾ ಸಮಾಂಗತೆಯ ಒಂದು ಪ್ರಮುಖ ಪರಿಣಾಮವಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A table comparing the boiling points of n-butane and isobutane. The table should be rendered in the center of the slide. The script will narrate the contents of the table. The caption should be displayed below the table. Headers: ['ಸಂಯುಕ್ತ', 'ರಚನೆ', 'ಕುದಿಯುವ ಬಿಂದು']. Rows: [['n-ಬ್ಯೂಟೇನ್', 'ನೇರ ಸರಪಳಿ', '-0.5 °C'], ['ಐಸೋಬ್ಯೂಟೇನ್', 'ಕವಲು ಸರಪಳಿ', '-11.7 °C']]. Caption: 'ಬ್ಯೂಟೇನ್ ಸಮಾಂಗಿಗಳ ಕುದಿಯುವ ಬಿಂದುಗಳ ಹೋಲಿಕೆ'."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_10_chapter_4_concept_5_chunk_005"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆಯ ವಿಧಾನ",
+  "script": "ಈಗ ನಾವು ಚಟುವಟಿಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ, ಎಲ್ಲರೂ ಸಿದ್ಧರಿದ್ದೀರಾ? ಮೊದಲಿಗೆ, ನಾವು ತೆಗೆದುಕೊಂಡಿರುವ ಆ ಖಾಲಿ ಬಟ್ಟಲಿನಲ್ಲಿ, ಫ್ರಿಡ್ಜ್ ನಿಂದ ತಂದಿರುವ ಕೆಲವು ಮಂಜುಗಡ್ಡೆಯ ತುಂಡುಗಳನ್ನು ನಿಧಾನವಾಗಿ ಇಡೋಣ. ನಂತರ, ಆ ಬಟ್ಟಲನ್ನು ಒಂದು ಮೇಜಿನ ಮೇಲೆ ಅಥವಾ ಯಾವುದೇ ಸಮತಟ್ಟಾದ ಸ್ಥಳದಲ್ಲಿ ಇಡಬೇಕು. ಗಮನಿಸಿ, ನಾವು ಇದನ್ನು ಯಾವುದೇ ರೀತಿಯಲ್ಲಿ ಬಿಸಿ ಮಾಡಬೇಕಾಗಿಲ್ಲ ಅಥವಾ ಬೆಂಕಿಯ ಹತ್ತಿರ ಇಡಬಾರದು. ಕೇವಲ ಕೋಣೆಯ ಸಾಮಾನ್ಯ ಉಷ್ಣಾಂಶದಲ್ಲಿಯೇ ಇಡಬೇಕು. ಈಗ ನಾವು ಸ್ವಲ್ಪ ಸಮಯ ಕಾದು, ಏನಾಗುತ್ತದೆ ಎಂದು ತಾಳ್ಮೆಯಿಂದ ಗಮನಿಸೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಚಟುವಟಿಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ, ಎಲ್ಲರೂ ಸಿದ್ಧರಿದ್ದೀರಾ? ಮೊದಲಿಗೆ, ನಾವು ತೆಗೆದುಕೊಂಡಿರುವ ಆ ಖಾಲಿ ಬಟ್ಟಲಿನಲ್ಲಿ, ಫ್ರಿಡ್ಜ್‌ನಿಂದ ತಂದಿರುವ ಕೆಲವು ಮಂಜುಗಡ್ಡೆಯ ತುಂಡುಗಳನ್ನು ನಿಧಾನವಾಗಿ ಇಡೋಣ. ನಂತರ, ಆ ಬಟ್ಟಲನ್ನು ಒಂದು ಮೇಜಿನ ಮೇಲೆ ಅಥವಾ ಯಾವುದೇ ಸಮತಟ್ಟಾದ ಸ್ಥಳದಲ್ಲಿ ಇಡಬೇಕು. ಗಮನಿಸಿ, ನಾವು ಇದನ್ನು ಯಾವುದೇ ರೀತಿಯಲ್ಲಿ ಬಿಸಿ ಮಾಡಬೇಕಾಗಿಲ್ಲ ಅಥವಾ ಬೆಂಕಿಯ ಹತ್ತಿರ ಇಡಬಾರದು. ಕೇವಲ ಕೋಣೆಯ ಸಾಮಾನ್ಯ ಉಷ್ಣಾಂಶದಲ್ಲಿಯೇ ಇಡಬೇಕು. ಈಗ ನಾವು ಸ್ವಲ್ಪ ಸಮಯ ಕಾದು, ಏನಾಗುತ್ತದೆ ಎಂದು ತಾಳ್ಮೆಯಿಂದ ಗಮನಿಸೋಣ.",
+  "display_bullets": [
+    "ಒಂದು ಬಟ್ಟಲಿನಲ್ಲಿ ಕೆಲವು ಮಂಜುಗಡ್ಡೆಯ ತುಂಡುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+    "ಬಟ್ಟಲನ್ನು ಮೇಜಿನ ಮೇಲೆ ಇಟ್ಟು, ಸ್ವಲ್ಪ ಸಮಯದವರೆಗೆ ವೀಕ್ಷಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a hand placing ice cubes into a bowl that is resting on a flat table surface. This illustrates the first step of the procedure.",
+    "labels": "ಮಂಜುಗಡ್ಡೆ, ಬಟ್ಟಲು, ಮೇಜು",
+    "scientific_significance": "Depicts the experimental procedure of setting up the ice in a bowl at room temperature.",
+    "placeholder_note": "Image to be generated showing ice being placed in a bowl."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_6_chapter_8_concept_2_chunk_009"
+}

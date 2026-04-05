@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಗುಣಾಕಾರದ ವಿಲೋಮ",
+  "script": "ಈಗ ಇದರ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. ಯಾವುದೇ ಶೂನ್ಯವಲ್ಲದ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ p ಬೈ q ಗೆ, ಅದರ ಗುಣಾಕಾರದ ವಿಲೋಮ ಅಥವಾ ವ್ಯುತ್ಮಮವು q ಬೈ p ಆಗಿರುತ್ತದೆ. ಯಾಕೆಂದರೆ, ನೀವು p ಬೈ q ಅನ್ನು q ಬೈ p ಯೊಂದಿಗೆ ಗುಣಿಸಿದಾಗ, ನಿಮಗೆ ಉತ್ತರ 1 ಸಿಗುತ್ತದೆ. ಇಲ್ಲಿ 1 ಎಂಬುದು ಗುಣಾಕಾರದ ಅನನ್ಯತಾಂಶ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಒಂದು ಸಂಖ್ಯೆಯ ವ್ಯುತ್ಮಮವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಅದರ ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಅದಲು ಬದಲು ಮಾಡಿ.",
+  "script_display": "ಈಗ ಇದರ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. ಯಾವುದೇ ಶೂನ್ಯವಲ್ಲದ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ $\\frac{p}{q}$ ಗೆ, ಅದರ ಗುಣಾಕಾರದ ವಿಲೋಮ ಅಥವಾ ವ್ಯುತ್ಮಮವು $\\frac{q}{p}$ ಆಗಿರುತ್ತದೆ. ಯಾಕೆಂದರೆ, ನೀವು $\\frac{p}{q}$ ಅನ್ನು $\\frac{q}{p}$ ಯೊಂದಿಗೆ ಗುಣಿಸಿದಾಗ, ನಿಮಗೆ ಉತ್ತರ 1 ಸಿಗುತ್ತದೆ. ಇಲ್ಲಿ 1 ಎಂಬುದು ಗುಣಾಕಾರದ ಅನನ್ಯತಾಂಶ (Multiplicative Identity). ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಒಂದು ಸಂಖ್ಯೆಯ ವ್ಯುತ್ಮಮವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಅದರ ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಅದಲು ಬದಲು ಮಾಡಿ.",
+  "display_bullets": [
+    "ಒಂದು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ $\\frac{p}{q}$ ಯ ಗುಣಾಕಾರದ ವಿಲೋಮ $\\frac{q}{p}$ ಆಗಿದೆ.",
+    "ಷರತ್ತು: ಸಂಖ್ಯೆಯು ಶೂನ್ಯವಾಗಿರಬಾರದು.",
+    "ಗುಣಲಬ್ಧವು ಯಾವಾಗಲೂ 1 ಆಗಿರಬೇಕು."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{p}{q} \\times \\frac{q}{p} = 1",
+    "placeholder_note": "A formula box showing the product of a rational number and its reciprocal equals 1."
+  },
+  "chunk_id": "NS-RAT-2_concept_4_chunk_018"
+}

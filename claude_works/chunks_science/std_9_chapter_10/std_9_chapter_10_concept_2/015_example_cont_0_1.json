@@ -1,0 +1,49 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತಗಳು 1-2",
+  "script": "ಈಗ ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸುವುದು. ನಮಗೆ ಬಲ, ಎಫ್, ಐದು ನ್ಯೂಟನ್ ಮತ್ತು ಸ್ಥಾನಪಲ್ಲಟ, ಎಸ್, ಎರಡು ಮೀಟರ್ ಎಂದು ಈಗಾಗಲೇ ತಿಳಿದಿದೆ. ಎರಡನೇ ಹಂತ, ಕೆಲಸವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಸೂತ್ರವನ್ನು ಬಳಸುವುದು. ನಡೆದ ಕೆಲಸ, ಡಬ್ಲ್ಯೂ, ಈಕ್ವಲ್ಸ್ ಬಲ, ಎಫ್, ಗುಣಿಸು ಸ್ಥಾನಪಲ್ಲಟ, ಎಸ್.",
+  "script_display": "ಈಗ ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ಹಂತ 1: ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸುವುದು. ನಮಗೆ ಬಲ (F) = 5 N ಮತ್ತು ಸ್ಥಾನಪಲ್ಲಟ (s) = 2 m ಎಂದು ತಿಳಿದಿದೆ. ಹಂತ 2: ಕೆಲಸವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಲು ಸೂತ್ರವನ್ನು ಬಳಸುವುದು. ನಡೆದ ಕೆಲಸ (W) = ಬಲ (F) × ಸ್ಥಾನಪಲ್ಲಟ (s).",
+  "display_bullets": [
+    "ಹಂತ 1: ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸುವುದು.\nF = 5 N, s = 2 m",
+    "ಹಂತ 2: ಕೆಲಸದ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು.\nW = F × s"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "W = F \\times s",
+    "placeholder_note": "Formula for Work Done: W = F * s"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_10_example_1",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತಾಂಶಗಳನ್ನು ಗುರುತಿಸುವುದು: F = 5 N, s = 2 m",
+      "justification": "ಬಲ (F) ಮತ್ತು ಸ್ಥಾನಪಲ್ಲಟ (s) ನೀಡಲಾಗಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಕೆಲಸದ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು: W = F × s",
+      "justification": "ಸ್ಥಿರ ಬಲದಿಂದಾದ ಕೆಲಸದ ಸೂತ್ರವನ್ನು ಅನ್ವಯಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_10_concept_2_chunk_015"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಕೆಲವು ದಿನಗಳ ನಂತರ",
+  "script": "ಕೆಲವು ದಿನಗಳು ಕಳೆದ ನಂತರ ನಾವು ಬೀಕರ್ ಅನ್ನು ಗಮನಿಸಿದಾಗ, ಒಂದು ಅದ್ಭುತ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತದೆ. ಮನಿಪ್ಲಾಂಟ್ ಕಾಂಡದ ಯಾವ ತುಂಡುಗಳಲ್ಲಿ ಎಲೆಗಳಿದ್ದವೋ, ಅವುಗಳ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿದ ತುದಿಯಿಂದ ಹೊಸ ಬೇರುಗಳು ಬೆಳೆಯಲು ಪ್ರಾರಂಭಿಸಿರುತ್ತವೆ. ಅಲ್ಲದೆ, ಕಾಂಡದ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಹೊಸ ಎಲೆಗಳು ಕೂಡ ಚಿಗುರೊಡೆಯುವುದನ್ನು ನಾವು ನೋಡಬಹುದು. ಎಲೆಗಳಿಲ್ಲದ ಕಾಂಡದ ತುಂಡುಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಬೆಳೆಯುವುದಿಲ್ಲ. ಇದು ಎಲೆಗಳ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ವೀಕ್ಷಣೆಯು ಕಾಯಜ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಯಶಸ್ಸನ್ನು ದೃಢಪಡಿಸುತ್ತದೆ.",
+  "script_display": "ಕೆಲವು ದಿನಗಳು ಕಳೆದ ನಂತರ ನಾವು ಬೀಕರ್ ಅನ್ನು ಗಮನಿಸಿದಾಗ, ಒಂದು ಅದ್ಭುತ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತದೆ. ಮನಿಪ್ಲಾಂಟ್ ಕಾಂಡದ ಯಾವ ತುಂಡುಗಳಲ್ಲಿ ಎಲೆಗಳಿದ್ದವೋ, ಅವುಗಳ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿದ ತುದಿಯಿಂದ ಹೊಸ ಬೇರುಗಳು ಬೆಳೆಯಲು ಪ್ರಾರಂಭಿಸಿರುತ್ತವೆ. ಅಲ್ಲದೆ, ಕಾಂಡದ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಹೊಸ ಎಲೆಗಳು ಕೂಡ ಚಿಗುರೊಡೆಯುವುದನ್ನು ನಾವು ನೋಡಬಹುದು. ಎಲೆಗಳಿಲ್ಲದ ಕಾಂಡದ ತುಂಡುಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಬೆಳೆಯುವುದಿಲ್ಲ. ಇದು ಎಲೆಗಳ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ವೀಕ್ಷಣೆಯು ಕಾಯಜ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಯಶಸ್ಸನ್ನು ದೃಢಪಡಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಎಲೆಗಳಿರುವ ಕಾಂಡದ ತುಂಡುಗಳಿಂದ ಹೊಸ ಬೇರುಗಳು ಬೆಳೆಯುತ್ತವೆ.",
+    "ಹೊಸ ಎಲೆಗಳು ಚಿಗುರೊಡೆಯುತ್ತವೆ.",
+    "ಇದು ಕಾಂಡದಿಂದ ಹೊಸ ಸಸ್ಯದ ಬೆಳವಣಿಗೆಯನ್ನು ತೋರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up view of the money plant cutting in the beaker. Thin white roots are shown emerging from the submerged part of the stem. A small new leaf is also visible at the top.",
+    "labels": "ಹೊಸ ಬೇರುಗಳು, ಹೊಸ ಎಲೆ",
+    "scientific_significance": "Provides visual evidence of adventitious root formation and subsequent growth, which is the core of vegetative propagation from stem cuttings.",
+    "placeholder_note": "Image to be generated showing roots and new leaves on the cutting."
+  },
+  "chunk_id": "std_10_chapter_7_concept_4_chunk_022"
+}

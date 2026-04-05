@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಮೀಥೇನ್ (CH₄)",
+  "script": "ಟೆಟ್ರಾವೇಲೆನ್ಸಿಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಉದಾಹರಣೆ ನೋಡೋಣ, ಅದು ಮೀಥೇನ್. ಇದರ ರಾಸಾಯನಿಕ ಸೂತ್ರ ಸಿ ಎಚ್ ಫೋರ್. ಇಲ್ಲಿ, ಒಂದು ಕಾರ್ಬನ್ ಪರಮಾಣು ನಾಲ್ಕು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳೊಂದಿಗೆ ಬಂಧವನ್ನು ಹೊಂದಿದೆ. ಕಾರ್ಬನ್ ತನ್ನ ನಾಲ್ಕು ವೇಲೆನ್ಸ್ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ನಾಲ್ಕು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ. ಇದು ನಾಲ್ಕು ಸ್ಥಿರವಾದ ಸಹವೇಲೆನ್ಸೀಯ ಬಂಧಗಳನ್ನು ರೂಪಿಸುತ್ತದೆ, ಹೀಗಾಗಿ ಕಾರ್ಬನ್‌ನ ಟೆಟ್ರಾವೇಲೆನ್ಸಿ ತೃಪ್ತಿಗೊಂಡಿದೆ.",
+  "script_display": "ಟೆಟ್ರಾವೇಲೆನ್ಸಿಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಉದಾಹರಣೆ ನೋಡೋಣ: **ಮೀಥೇನ್ (CH₄)**.",
+  "display_bullets": [
+    "ಒಂದು ಕಾರ್ಬನ್ (C) ಪರಮಾಣು ನಾಲ್ಕು ಹೈಡ್ರೋಜನ್ (H) ಪರಮಾಣುಗಳೊಂದಿಗೆ ಬಂಧವನ್ನು ಹೊಂದಿದೆ.",
+    "ಕಾರ್ಬನ್ ತನ್ನ 4 ವೇಲೆನ್ಸ್ ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು 4 ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ.",
+    "ಇದು 4 ಸ್ಥಿರವಾದ ಸಹವೇಲೆನ್ಸೀಯ ಬಂಧಗಳನ್ನು ರೂಪಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A ball-and-stick model of a methane molecule (CH₄). A central black sphere (Carbon) is connected to four smaller white spheres (Hydrogen) arranged tetrahedrally.",
+    "labels": "Carbon, Hydrogen, Covalent Bond",
+    "scientific_significance": "Illustrates carbon's tetravalency by showing it forming four single bonds.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_4_concept_3_chunk_008"
+}

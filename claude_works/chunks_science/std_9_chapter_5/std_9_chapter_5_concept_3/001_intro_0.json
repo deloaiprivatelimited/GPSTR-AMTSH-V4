@@ -1,0 +1,36 @@
+{
+  "type": "title_hero",
+  "slide_title": "ಕೋಶಪೊರೆ ಮತ್ತು ವಸ್ತುಗಳ ಸಾಗಾಣಿಕೆ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಈ ಪಾಠಕ್ಕೆ ನಿಮಗೆಲ್ಲರಿಗೂ ಸ್ವಾಗತ. ನಮ್ಮ ಮನೆಗೆ ಗೋಡೆಗಳು ಮತ್ತು ಬಾಗಿಲುಗಳು ಹೇಗೆ ರಕ್ಷಣೆ ನೀಡುತ್ತವೆಯೋ, ಹಾಗೆಯೇ ಪ್ರತಿ ಜೀವಕೋಶಕ್ಕೂ ಒಂದು ಗಡಿ ಇರುತ್ತದೆ. ಅದೇ ಕೋಶಪೊರೆ. ಇದು ಕೇವಲ ಒಂದು ಗೋಡೆಯಲ್ಲ, ಬದಲಿಗೆ ಒಂದು ಬುದ್ಧಿವಂತ ಕಾವಲುಗಾರನಿದ್ದಂತೆ! ಈ ಪಾಠದಲ್ಲಿ, ನಾವು ಕೋಶಪೊರೆಯ ರಚನೆ ಮತ್ತು ಕಾರ್ಯಗಳ ಬಗ್ಗೆ ತಿಳಿಯುತ್ತೇವೆ. ನಂತರ, ವಿಸರಣೆ ಮತ್ತು ಅಭಿಸರಣೆ ಪ್ರಕ್ರಿಯೆಗಳ ಮೂಲಕ ವಸ್ತುಗಳು ಹೇಗೆ ಸಾಗಾಣಿಕೆಯಾಗುತ್ತವೆ ಎಂಬುದನ್ನು ನೋಡೋಣ. ಅಂತಿಮವಾಗಿ, ಎಂಡೋಸೈಟೋಸಿಸ್ ಮೂಲಕ ಜೀವಿಗಳು ಹೇಗೆ ಆಹಾರ ಸೇವಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ರೋಚಕ ವಿಷಯವನ್ನು ಕಲಿಯಲು ಸಿದ್ಧರಾಗಿ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಈ ಪಾಠಕ್ಕೆ ನಿಮಗೆಲ್ಲರಿಗೂ ಸ್ವಾಗತ. ನಮ್ಮ ಮನೆಗೆ ಗೋಡೆಗಳು ಮತ್ತು ಬಾಗಿಲುಗಳು ಹೇಗೆ ರಕ್ಷಣೆ ನೀಡುತ್ತವೆಯೋ, ಹಾಗೆಯೇ ಪ್ರತಿ ಜೀವಕೋಶಕ್ಕೂ ಒಂದು ಗಡಿ ಇರುತ್ತದೆ. ಅದೇ ಕೋಶಪೊರೆ. ಇದು ಕೇವಲ ಒಂದು ಗೋಡೆಯಲ್ಲ, ಬದಲಿಗೆ ಒಂದು ಬುದ್ಧಿವಂತ ಕಾವಲುಗಾರನಿದ್ದಂತೆ! ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಕಲಿಯುವ ಪ್ರಮುಖ ವಿಷಯಗಳು:",
+  "display_bullets": [
+    "ಕೋಶಪೊರೆಯ ರಚನೆ ಮತ್ತು ಕಾರ್ಯಗಳು",
+    "ವಿಸರಣೆ ಮತ್ತು ಅಭಿಸರಣೆ ಪ್ರಕ್ರಿಯೆಗಳು",
+    "ಎಂಡೋಸೈಟೋಸಿಸ್ ಮೂಲಕ ಆಹಾರ ಸೇವನೆ"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An engaging and abstract animation of a cell membrane, showing particles selectively passing through. The background should be dynamic and visually appealing, perhaps with a glowing effect on the membrane pores.",
+    "labels": "ಕೋಶಪೊರೆ, ಪ್ರೋಟೀನ್ ಚಾನೆಲ್‌ಗಳು, ಲಿಪಿಡ್ ದ್ವಿಪದರ",
+    "scientific_significance": "Visually represents the semi-permeable nature of the cell membrane, which is the core concept of this module.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_5_concept_3_chunk_001"
+}

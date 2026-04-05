@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆ",
+  "script": "ನೀವು ಆ ನಕ್ಷತ್ರವನ್ನು ಸ್ವಲ್ಪ ಸಮಯ ಗಮನಿಸಿದರೆ, ಒಂದು ಕುತೂಹಲಕಾರಿ ವಿಷಯ ನಿಮ್ಮ ಗಮನಕ್ಕೆ ಬರುತ್ತದೆ. ರಾತ್ರಿಯಿಡೀ ಆಕಾಶದಲ್ಲಿನ ಇತರ ನಕ್ಷತ್ರಗಳು ಮತ್ತು ನಕ್ಷತ್ರಪುಂಜಗಳು ಪೂರ್ವದಿಂದ ಪಶ್ಚಿಮಕ್ಕೆ ಚಲಿಸುತ್ತಿರುವಂತೆ ಕಂಡರೂ, ನಾವು ಗುರುತಿಸಿದ ಈ ನಕ್ಷತ್ರವು ಮಾತ್ರ ತನ್ನ ಜಾಗದಲ್ಲಿ ಹೆಚ್ಚು ಕಡಿಮೆ ಸ್ಥಿರವಾಗಿರುವಂತೆ ಕಾಣುತ್ತದೆ. ಅದು ಆಕಾಶದಲ್ಲಿ ಒಂದು ಗೂಟ ಹೊಡೆದಂತೆ ನಿಂತಿರುತ್ತದೆ. ಈ ಸ್ಥಿರತೆಯೇ ಅದರ ವಿಶೇಷ ಗುಣ.",
+  "script_display": "ನೀವು ಆ ನಕ್ಷತ್ರವನ್ನು ಸ್ವಲ್ಪ ಸಮಯ ಗಮನಿಸಿದರೆ, ಒಂದು ಕುತೂಹಲಕಾರಿ ವಿಷಯ ನಿಮ್ಮ ಗಮನಕ್ಕೆ ಬರುತ್ತದೆ. ರಾತ್ರಿಯಿಡೀ ಆಕಾಶದಲ್ಲಿನ ಇತರ ನಕ್ಷತ್ರಗಳು ಮತ್ತು ನಕ್ಷತ್ರಪುಂಜಗಳು ಪೂರ್ವದಿಂದ ಪಶ್ಚಿಮಕ್ಕೆ ಚಲಿಸುತ್ತಿರುವಂತೆ ಕಂಡರೂ, ನಾವು ಗುರುತಿಸಿದ ಈ ನಕ್ಷತ್ರವು ಮಾತ್ರ ತನ್ನ ಜಾಗದಲ್ಲಿ ಹೆಚ್ಚು ಕಡಿಮೆ ಸ್ಥಿರವಾಗಿರುವಂತೆ ಕಾಣುತ್ತದೆ. ಅದು ಆಕಾಶದಲ್ಲಿ ಒಂದು ಗೂಟ ಹೊಡೆದಂತೆ ನಿಂತಿರುತ್ತದೆ. ಈ ಸ್ಥಿರತೆಯೇ ಅದರ ವಿಶೇಷ ಗುಣ.",
+  "display_bullets": [
+    "ನಾವು ಗುರುತಿಸಿದ ನಕ್ಷತ್ರವು ಆಕಾಶದಲ್ಲಿ ಹೆಚ್ಚು ಚಲಿಸದೆ ಸ್ಥಿರವಾಗಿರುವಂತೆ ಕಾಣುತ್ತದೆ.",
+    "ಇತರ ನಕ್ಷತ್ರಗಳು ಅದರ ಸುತ್ತ ಚಲಿಸುತ್ತಿರುವಂತೆ ಭಾಸವಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A time-lapse style image or star trail photograph centered on the Pole Star. The Pole Star is a fixed point, while all other stars create circular trails around it. This visually represents the observation.",
+    "labels": "Pole Star (Polaris), Star Trails",
+    "scientific_significance": "Demonstrates that Polaris is aligned with the Earth's axis of rotation, which is why it appears stationary from the Northern Hemisphere.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_6_chapter_12_concept_1_chunk_017"
+}

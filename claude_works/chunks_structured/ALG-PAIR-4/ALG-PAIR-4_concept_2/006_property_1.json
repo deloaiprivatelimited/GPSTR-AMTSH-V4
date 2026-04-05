@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಹಗುಣಕಗಳ ಅನುಪಾತ: ಸಮಾಂತರ ರೇಖೆಗಳು",
+  "script": "ಈಗ ನಾವು ಮೂರನೇ ಮತ್ತು ಅಂತಿಮ ಷರತ್ತನ್ನು ನೋಡೋಣ, ಇದು ಸಮಾಂತರ ರೇಖೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ, ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ. ಇದರ ಅನುಪಾತದ ನಿಯಮ ಹೀಗಿದೆ: a ಒಂದು ಭಾಗಿಸು a ಎರಡು ಸಮ b ಒಂದು ಭಾಗಿಸು b ಎರಡು, ಆದರೆ ಇದು c ಒಂದು ಭಾಗಿಸು c ಎರಡಕ್ಕೆ ಸಮವಾಗಿರುವುದಿಲ್ಲ. ನಕ್ಷೆಯಲ್ಲಿ ಇದರ ಅರ್ಥ, ಈ ರೇಖೆಗಳು ಒಂದನ್ನೊಂದು ಎಂದಿಗೂ ಛೇದಿಸುವುದಿಲ್ಲ. ಅವು ರೈಲ್ವೆ ಹಳಿಗಳಂತೆ ಜೊತೆಯಾಗಿ ಸಾಗುತ್ತವೆ ಆದರೆ ಸಂಧಿಸುವುದಿಲ್ಲ. ಬೀಜಗಣಿತೀಯವಾಗಿ ಹೇಳುವುದಾದರೆ, ಈ ಸಮೀಕರಣಗಳ ಜೋಡಿಗೆ ಯಾವುದೇ ಪರಿಹಾರವಿರುವುದಿಲ್ಲ. ಯಾವುದೇ ಪರಿಹಾರವಿಲ್ಲದ ಕಾರಣ, ಈ ಜೋಡಿಯನ್ನು ನಾವು 'ಅಸ್ಥಿರ' ಅಥವಾ ಇನ್ಕನ್ಸಿಸ್ಟೆಂಟ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ನಾವು ಮೂರನೇ ಮತ್ತು ಅಂತಿಮ ಷರತ್ತನ್ನು ನೋಡೋಣ, ಇದು ಸಮಾಂತರ ರೇಖೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ, ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿರುತ್ತವೆ (Parallel Lines). ಇದರ ಅನುಪಾತದ ನಿಯಮ ಹೀಗಿದೆ: $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$. ನಕ್ಷೆಯಲ್ಲಿ ಇದರ ಅರ್ಥ, ಈ ರೇಖೆಗಳು ಒಂದನ್ನೊಂದು ಎಂದಿಗೂ ಛೇದಿಸುವುದಿಲ್ಲ. ಅವು ರೈಲ್ವೆ ಹಳಿಗಳಂತೆ ಜೊತೆಯಾಗಿ ಸಾಗುತ್ತವೆ ಆದರೆ ಸಂಧಿಸುವುದಿಲ್ಲ. ಬೀಜಗಣಿತೀಯವಾಗಿ ಹೇಳುವುದಾದರೆ, ಈ ಸಮೀಕರಣಗಳ ಜೋಡಿಗೆ ಯಾವುದೇ ಪರಿಹಾರವಿರುವುದಿಲ್ಲ. ಯಾವುದೇ ಪರಿಹಾರವಿಲ್ಲದ ಕಾರಣ, ಈ ಜೋಡಿಯನ್ನು ನಾವು 'ಅಸ್ಥಿರ' (Inconsistent) ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಷರತ್ತು 3: ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿದ್ದರೆ (Parallel Lines)",
+    "ಅನುಪಾತದ ನಿಯಮ: $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$",
+    "ನಕ್ಷಾ ನಿರೂಪಣೆ: ರೇಖೆಗಳು ಒಂದನ್ನೊಂದು ಎಂದಿಗೂ ಛೇದಿಸುವುದಿಲ್ಲ.",
+    "ಬೀಜಗಣಿತೀಯ ನಿರೂಪಣೆ: ಸಮೀಕರಣಗಳ ಜೋಡಿಗೆ ಯಾವುದೇ ಪರಿಹಾರವಿರುವುದಿಲ್ಲ.",
+    "ಸ್ಥಿರತೆ: ಈ ಜೋಡಿಯು 'ಅಸ್ಥಿರ' (Inconsistent)ವಾಗಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A graph showing two parallel lines that never intersect. The lines should be labeled L1 and L2, corresponding to the two linear equations.",
+    "labels": "ಸಮಾಂತರ ರೇಖೆಗಳು",
+    "mathematical_significance": "Illustrates the geometric interpretation of the condition a1/a2 = b1/b2 ≠ c1/c2, where there is no point of intersection, hence no solution.",
+    "placeholder_note": "Generate a graph with two parallel lines, for example, y = 2x + 1 and y = 2x - 2."
+  },
+  "chunk_id": "ALG-PAIR-4_concept_2_chunk_006"
+}

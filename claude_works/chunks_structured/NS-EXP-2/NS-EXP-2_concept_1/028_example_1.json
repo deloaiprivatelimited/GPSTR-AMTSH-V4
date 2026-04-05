@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಘಾತಾಂಕಗಳ ಬೆಲೆ ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನಾವು ಎರಡು в ಟು ದ ಪವರ್ ಆಫ್ ಸಿಕ್ಸ್ ಮತ್ತು ನೈನ್ ಕ್ಯೂಬ್ಡ್ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಎರಡು ಘಾತಾಂಕ ರೂಪಗಳನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ನಾವು ಅವುಗಳ ಸಂಖ್ಯಾತ್ಮಕ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನಾವು $2^6$ ಮತ್ತು $9^3$ ರ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಎರಡು ಘಾತಾಂಕ ರೂಪಗಳನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ನಾವು ಅವುಗಳ ಸಂಖ್ಯಾತ್ಮಕ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $2^6$ ಮತ್ತು $9^3$ ರ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: ಪ್ರತಿ ಘಾತಾಂಕ ರೂಪದ ಸಂಖ್ಯಾತ್ಮಕ ಮೌಲ್ಯ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2^6 \\text{ ಮತ್ತು } 9^3",
+    "placeholder_note": "Display the two exponential forms mentioned in the problem."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "NS-EXP-2_example_2",
+  "chunk_id": "NS-EXP-2_concept_1_chunk_028"
+}

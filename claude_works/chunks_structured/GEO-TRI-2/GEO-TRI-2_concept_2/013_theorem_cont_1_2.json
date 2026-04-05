@@ -1,0 +1,40 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಪ್ರಮೇಯ 7.3 ರ ಸಾಧನೆ: ಭಾಗ 2",
+  "script": "ನಮ್ಮ ರಚನೆಯು ಮೂಲ ತ್ರಿಭುಜವನ್ನು ಎರಡು ಚಿಕ್ಕ ತ್ರಿಭುಜಗಳಾಗಿ ವಿಂಗಡಿಸಿದೆ: ತ್ರಿಭುಜ ಎ ಬಿ ಡಿ ಮತ್ತು ತ್ರಿಭುಜ ಎ ಸಿ ಡಿ. ಈಗ, ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಹೋಲಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ತ್ರಿಭುಜ ಎ ಬಿ ಡಿ ಯಲ್ಲಿನ ಕೋನ ಎ ಬಿ ಡಿ ಯು, ತ್ರಿಭುಜ ಎ ಸಿ ಡಿ ಯಲ್ಲಿನ ಕೋನ ಎ ಸಿ ಡಿ ಗೆ ಸಮವಾಗಿದೆ. ಇದು ನಮಗೆ ಮೊದಲೇ ನೀಡಿದ ದತ್ತಾಂಶ, ಅಂದರೆ ಕೋನ ಬಿ ಈಕ್ವಲ್ಸ್ ಕೋನ ಸಿ. ಎರಡನೆಯದಾಗಿ, ಕೋನ ಬಿ ಎ ಡಿ ಯು ಕೋನ ಸಿ ಎ ಡಿ ಗೆ ಸಮವಾಗಿದೆ. ಏಕೆಂದರೆ, ನಾವು ಎ ಡಿ ಯನ್ನು ಕೋನ ಎ ಯ ಕೋನಾರ್ಧಕವಾಗಿ ರಚಿಸಿದ್ದೇವೆ. ಮೂರನೆಯದಾಗಿ, ಎ ಡಿ ಬಾಹುವು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿದೆ, ಅಂದರೆ ಎ ಡಿ ಈಕ್ವಲ್ಸ್ ಎ ಡಿ.",
+  "script_display": "ನಮ್ಮ ರಚನೆಯು ಮೂಲ ತ್ರಿಭುಜವನ್ನು ಎರಡು ಚಿಕ್ಕ ತ್ರಿಭುಜಗಳಾಗಿ ವಿಂಗಡಿಸಿದೆ: $\\triangle ABD$ ಮತ್ತು $\\triangle ACD$. ಈಗ, ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಹೋಲಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, $\\triangle ABD$ ಯಲ್ಲಿನ $\\angle ABD$ ಯು, $\\triangle ACD$ ಯಲ್ಲಿನ $\\angle ACD$ ಗೆ ಸಮವಾಗಿದೆ. ಇದು ನಮಗೆ ಮೊದಲೇ ನೀಡಿದ ದತ್ತಾಂಶ, ಅಂದರೆ $\\angle B = \\angle C$. ಎರಡನೆಯದಾಗಿ, $\\angle BAD$ ಯು $\\angle CAD$ ಗೆ ಸಮವಾಗಿದೆ. ಏಕೆಂದರೆ, ನಾವು $AD$ ಯನ್ನು $\\angle A$ ಯ ಕೋನಾರ್ಧಕವಾಗಿ ರಚಿಸಿದ್ದೇವೆ. ಮೂರನೆಯದಾಗಿ, $AD$ ಬಾಹುವು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿದೆ, ಅಂದರೆ $AD = AD$.",
+  "display_bullets": [
+    "**ಸಾಧನೆ:** $\\triangle ABD$ ಮತ್ತು $\\triangle ACD$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+    "$\\angle ABD = \\angle ACD$ (ದತ್ತ).",
+    "$\\angle BAD = \\angle CAD$ (ರಚನೆಯಿಂದ).",
+    "$AD = AD$ (ಸಾಮಾನ್ಯ ಬಾಹು)."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ತ್ರಿಭುಜ ABD ಮತ್ತು ACD ಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. ಸಮನಾದ ಭಾಗಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ: ಕೋನ B = ಕೋನ C, ಕೋನ BAD = ಕೋನ CAD, ಮತ್ತು ಸಾಮಾನ್ಯ ಬಾಹು AD.",
+    "labels": "A, B, C, D",
+    "mathematical_significance": "AAS ಸರ್ವಸಮತೆಯ ನಿಯಮವನ್ನು ಅನ್ವಯಿಸಲು ಬೇಕಾದ ಸಮಾನ ಭಾಗಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "proof",
+  "difficulty": "medium",
+  "source_example_id": "ಪ್ರಮೇಯ 7.3",
+  "chunk_id": "GEO-TRI-2_concept_2_chunk_013"
+}

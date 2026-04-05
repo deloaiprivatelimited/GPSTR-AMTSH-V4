@@ -1,0 +1,45 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಲೆಕ್ಕಾಚಾರದ ಹಂತಗಳು",
+  "script": "ಈಗ ಲೆಕ್ಕಾಚಾರದ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ಜವದ ಸೂತ್ರವನ್ನು ಬರೆಯಿರಿ. ಜವ ಈಕ್ವಲ್ಸ್ ಕ್ರಮಿಸಿದ ದೂರ ಭಾಗಿಸು ತೆಗೆದುಕೊಂಡ ಕಾಲ. ಎರಡನೇ ಹಂತ, ನಮಗೆ ತಿಳಿದಿರುವ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ. ಅಂದರೆ, ಜವ ಈಕ್ವಲ್ಸ್ ನೂರಾ ಇಪ್ಪತ್ತು ಕಿಲೋಮೀಟರ್ ಭಾಗಿಸು ಎರಡು ಗಂಟೆಗಳು. ಮೂರನೇ ಹಂತ, ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ. ನೂರಾ ಇಪ್ಪತ್ತನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಅರವತ್ತು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಕಾರಿನ ಜವ ಗಂಟೆಗೆ ಅರವತ್ತು ಕಿಲೋಮೀಟರ್.",
+  "script_display": "ಈಗ ಲೆಕ್ಕಾಚಾರದ ಹಂತಗಳನ್ನು ನೋಡೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸೂತ್ರವನ್ನು ಬರೆಯಿರಿ: $$\\text{ಜವ} = \\frac{\\text{ದೂರ}}{\\text{ಕಾಲ}}$$",
+      "justification": "ಲೆಕ್ಕಾಚಾರವನ್ನು ಪ್ರಾರಂಭಿಸಲು ಮೂಲ ಸೂತ್ರವನ್ನು ಬಳಸಿ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿ: $$\\text{ಜವ} = \\frac{120 \\text{ km}}{2 \\text{ h}}$$",
+      "justification": "ದತ್ತಾಂಶದಲ್ಲಿ ನೀಡಿದ ದೂರ ಮತ್ತು ಕಾಲದ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕಿ."
+    },
+    {
+      "step": 3,
+      "action_display": "ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ: $$\\text{ಜವ} = 60 \\text{ km/h}$$",
+      "justification": "ಭಾಗಾಕಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ ಅಂತಿಮ ಉತ್ತರವನ್ನು ಅದರ ಏಕಮಾನದೊಂದಿಗೆ ಪಡೆಯಿರಿ."
+    }
+  ],
+  "chunk_id": "std_7_science_ch_9_concept_2_chunk_015"
+}

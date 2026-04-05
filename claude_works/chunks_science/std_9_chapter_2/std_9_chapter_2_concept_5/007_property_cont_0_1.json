@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಲಂಬಿತ ಮಿಶ್ರಣಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+  "script": "ನಿಲಂಬಿತ ಮಿಶ್ರಣದ ಎರಡನೇ ಪ್ರಮುಖ ಗುಣವೆಂದರೆ, ಇದರ ಕಣಗಳನ್ನು ನಾವು ಬರಿಗಣ್ಣಿನಿಂದಲೇ ನೋಡಬಹುದು. ದ್ರಾವಣಗಳಲ್ಲಿ ದ್ರಾವ್ಯದ ಕಣಗಳು ಅಣುಗಳ ಮಟ್ಟದಲ್ಲಿ ಕರಗಿಹೋಗಿರುವುದರಿಂದ ಅವುಗಳನ್ನು ನೋಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಆದರೆ ನಿಲಂಬಿತ ಮಿಶ್ರಣದಲ್ಲಿ, ಕಣಗಳು ಸಾಕಷ್ಟು ದೊಡ್ಡದಾಗಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಮರಳನ್ನು ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿದಾಗ, ಪ್ರತಿಯೊಂದು ಮರಳಿನ ಕಣವನ್ನು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಇದಕ್ಕೆ ಕಾರಣ, ಈ ಕಣಗಳ ಗಾತ್ರವು ಸಾಮಾನ್ಯವಾಗಿ ನೂರು ನ್ಯಾನೋಮೀಟರ್‌ಗಳಿಗಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಈ ದೊಡ್ಡ ಗಾತ್ರದಿಂದಾಗಿಯೇ ಅವು ನಮ್ಮ ಕಣ್ಣಿಗೆ ಸುಲಭವಾಗಿ ಗೋಚರಿಸುತ್ತವೆ.",
+  "script_display": "ನಿಲಂಬಿತ ಮಿಶ್ರಣದ ಎರಡನೇ ಪ್ರಮುಖ ಗುಣವೆಂದರೆ, ಇದರ ಕಣಗಳನ್ನು ನಾವು ಬರಿಗಣ್ಣಿನಿಂದಲೇ ನೋಡಬಹುದು. ದ್ರಾವಣಗಳಲ್ಲಿ ದ್ರಾವ್ಯದ ಕಣಗಳು ಅಣುಗಳ ಮಟ್ಟದಲ್ಲಿ ಕರಗಿಹೋಗಿರುವುದರಿಂದ ಅವುಗಳನ್ನು ನೋಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಆದರೆ ನಿಲಂಬಿತ ಮಿಶ್ರಣದಲ್ಲಿ, ಕಣಗಳು ಸಾಕಷ್ಟು ದೊಡ್ಡದಾಗಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಮರಳನ್ನು ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿದಾಗ, ಪ್ರತಿಯೊಂದು ಮರಳಿನ ಕಣವನ್ನು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಇದಕ್ಕೆ ಕಾರಣ, ಈ ಕಣಗಳ ಗಾತ್ರವು ಸಾಮಾನ್ಯವಾಗಿ 100 nm ಗಿಂತ ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಈ ದೊಡ್ಡ ಗಾತ್ರದಿಂದಾಗಿಯೇ ಅವು ನಮ್ಮ ಕಣ್ಣಿಗೆ ಸುಲಭವಾಗಿ ಗೋಚರಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಇದರ ಕಣಗಳನ್ನು ಬರಿಗಣ್ಣಿನಿಂದ ನೋಡಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_right_1_item",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up view of a glass containing water and sand. Individual grains of sand are clearly visible suspended in the water, some floating and some starting to settle.",
+    "labels": "ಮರಳಿನ ಕಣಗಳು, ನೀರು",
+    "scientific_significance": "Demonstrates that particles in a suspension are large enough (>100 nm) to be seen by the naked eye.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_2_concept_5_chunk_007"
+}

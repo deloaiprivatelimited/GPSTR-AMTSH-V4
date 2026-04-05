@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ, ಕಾಯವು ಪಡೆದಿರುವ ಚಲನಶಕ್ತಿ 120 ಜೌಲ್ ಆಗಿದೆ. ನೆನಪಿಡಿ, ಚಲನಶಕ್ತಿಯು ವಸ್ತುವಿನ ರಾಶಿ ಮತ್ತು ಅದರ ವೇಗದ ವರ್ಗವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "template_takeaway_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "E_k = 120 \\text{ J}",
+    "placeholder_note": "A box displaying the final answer: E_k = 120 J"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_10_example_3",
+  "final_answer": "120 J",
+  "final_answer_display": "ಕಾಯದ ಚಲನಶಕ್ತಿ 120 J ಆಗಿದೆ.",
+  "chunk_id": "std_9_chapter_10_concept_4_chunk_012"
+}

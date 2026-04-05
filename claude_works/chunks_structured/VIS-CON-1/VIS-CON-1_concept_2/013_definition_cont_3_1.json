@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಕರ್ಣ: ವ್ಯಾಖ್ಯೆ ಮತ್ತು ಉದಾಹರಣೆ",
+  "script": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನೋಡಿದ ಹಾಗೆ, ಅಭಿಮುಖ ಮೂಲೆಗಳನ್ನು ಗುರುತಿಸಿದ್ದೇವೆ. ಈಗ ಕರ್ಣದ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಮೂಲೆಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡಕ್ಕೆ 'ಕರ್ಣ' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ನಮ್ಮ ಉದಾಹರಣೆಯಲ್ಲಿ, A ಮತ್ತು C ಅಭಿಮುಖ ಮೂಲೆಗಳು. ಇವೆರಡನ್ನೂ ಸೇರಿಸುವ ರೇಖಾಖಂಡ AC, ಇದೊಂದು ಕರ್ಣ. ಅದೇ ರೀತಿ, B ಮತ್ತು D ಇನ್ನೊಂದು ಜೊತೆ ಅಭಿಮುಖ ಮೂಲೆಗಳು. ಇವನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡ BD, ಇದು ಚತುರ್ಭುಜದ ಎರಡನೇ ಕರ್ಣ. ಹೀಗೆ, ABCD ಚತುರ್ಭುಜದಲ್ಲಿ, AC ಮತ್ತು BD ಗಳು ಎರಡು ಕರ್ಣಗಳಾಗಿವೆ.",
+  "script_display": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ನೋಡಿದ ಹಾಗೆ, ಅಭಿಮುಖ ಮೂಲೆಗಳನ್ನು ಗುರುತಿಸಿದ್ದೇವೆ. ಈಗ ಕರ್ಣದ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಮೂಲೆಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡಕ್ಕೆ 'ಕರ್ಣ' (Diagonal) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ನಮ್ಮ ಉದಾಹರಣೆಯಲ್ಲಿ, $A$ ಮತ್ತು $C$ ಅಭಿಮುಖ ಮೂಲೆಗಳು. ಇವೆರಡನ್ನೂ ಸೇರಿಸುವ ರೇಖಾಖಂಡ $AC$, ಇದೊಂದು ಕರ್ಣ. ಅದೇ ರೀತಿ, $B$ ಮತ್ತು $D$ ಇನ್ನೊಂದು ಜೊತೆ ಅಭಿಮುಖ ಮೂಲೆಗಳು. ಇವನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡ $BD$, ಇದು ಚತುರ್ಭುಜದ ಎರಡನೇ ಕರ್ಣ. ಹೀಗೆ, $ABCD$ ಚತುರ್ಭುಜದಲ್ಲಿ, $AC$ ಮತ್ತು $BD$ ಗಳು ಎರಡು ಕರ್ಣಗಳಾಗಿವೆ.",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯೆ: ಒಂದು ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಮೂಲೆಗಳನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡ.",
+    "ಚಿತ್ರದಲ್ಲಿ, $A$ ಮತ್ತು $C$ ಯನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡ $AC$ ಒಂದು ಕರ್ಣ.",
+    "$B$ ಮತ್ತು $D$ ಯನ್ನು ಸೇರಿಸುವ ರೇಖಾಖಂಡ $BD$ ಇನ್ನೊಂದು ಕರ್ಣ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same quadrilateral ABCD from the previous slide. Now, a line segment is drawn connecting A to C, labeled 'ಕರ್ಣ AC'. Another line segment is drawn connecting B to D, labeled 'ಕರ್ಣ BD'. The lines should be distinct, perhaps in a different color from the sides.",
+    "labels": "Vertices A, B, C, D. Diagonal AC. Diagonal BD.",
+    "mathematical_significance": "Direct visualization of the definition of a diagonal. Shows both diagonals within a single quadrilateral.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "VIS-CON-1_concept_2_chunk_013"
+}

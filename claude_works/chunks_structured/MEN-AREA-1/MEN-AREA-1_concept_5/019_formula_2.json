@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅರ್ಧವೃತ್ತದ ಪರಿಧಿ: ಒಂದು ಪರಿಚಯ",
+  "script": "ಈಗ ನಾವು ಅರ್ಧವೃತ್ತದ ಪರಿಧಿಯನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ಕಲಿಯೋಣ. ಮೊದಲಿಗೆ, ಅರ್ಧವೃತ್ತ ಎಂದರೇನು? ಇದು ಒಂದು ಪೂರ್ಣ ವೃತ್ತದ ಅರ್ಧ ಭಾಗ. ಆದರೆ ಇದರ ಪರಿಧಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವಾಗ ನಾವು ಬಹಳ ಜಾಗರೂಕರಾಗಿರಬೇಕು. ಇದರ ಪರಿಧಿಯು ಎರಡು ವಿಭಿನ್ನ ಭಾಗಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಮೊದಲನೆಯದು, ಬಾಗಿದ ಚಾಪ, ಅಂದರೆ ವೃತ್ತದ ಪರಿಧಿಯ ಅರ್ಧ ಭಾಗ. ಎರಡನೆಯದು, ನೇರವಾದ ವ್ಯಾಸ, ಇದು ಅರ್ಧವೃತ್ತದ ತಳಹದಿಯಾಗಿದೆ. ಆದ್ದರಿಂದ, ಪೂರ್ಣ ವೃತ್ತದ ಪರಿಧಿಯನ್ನು ಕೇವಲ ಅರ್ಧ ಮಾಡಿದರೆ ಉತ್ತರ ಸಿಗುವುದಿಲ್ಲ. ನಾವು ಆ ನೇರವಾದ ಭಾಗವನ್ನು ಕೂಡ ಸೇರಿಸಬೇಕು.",
+  "script_display": "ಈಗ ನಾವು ಅರ್ಧವೃತ್ತದ ಪರಿಧಿಯನ್ನು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುವುದು ಎಂದು ಕಲಿಯೋಣ. ಮೊದಲಿಗೆ, ಅರ್ಧವೃತ್ತ ಎಂದರೇನು? ಇದು ಒಂದು ಪೂರ್ಣ ವೃತ್ತದ ಅರ್ಧ ಭಾಗ. ಆದರೆ ಇದರ ಪರಿಧಿಯನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವಾಗ ನಾವು ಬಹಳ ಜಾಗರೂಕರಾಗಿರಬೇಕು. ಇದರ ಪರಿಧಿಯು ಎರಡು ವಿಭಿನ್ನ ಭಾಗಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಮೊದಲನೆಯದು, ಬಾಗಿದ ಚಾಪ (curved arc), ಅಂದರೆ ವೃತ್ತದ ಪರಿಧಿಯ ಅರ್ಧ ಭಾಗ. ಎರಡನೆಯದು, ನೇರವಾದ ವ್ಯಾಸ (diameter), ಇದು ಅರ್ಧವೃತ್ತದ ತಳಹದಿಯಾಗಿದೆ. ಆದ್ದರಿಂದ, ಪೂರ್ಣ ವೃತ್ತದ ಪರಿಧಿಯನ್ನು ಕೇವಲ ಅರ್ಧ ಮಾಡಿದರೆ ಉತ್ತರ ಸಿಗುವುದಿಲ್ಲ. ನಾವು ಆ ನೇರವಾದ ಭಾಗವನ್ನು ಕೂಡ ಸೇರಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಅರ್ಧವೃತ್ತವು ಒಂದು ವೃತ್ತದ ಅರ್ಧ ಭಾಗವಾಗಿದೆ.",
+    "ಇದರ ಪರಿಧಿಯು ಎರಡು ಭಾಗಗಳನ್ನು ಒಳಗೊಂಡಿದೆ: ಬಾಗಿದ ಚಾಪ (curved arc) ಮತ್ತು ನೇರವಾದ ವ್ಯಾಸ (straight diameter).",
+    "ಪೂರ್ಣ ವೃತ್ತದ ಪರಿಧಿಯನ್ನು ಅರ್ಧ ಮಾಡಿದರೆ ಮಾತ್ರ ಸಾಲದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A semicircle is shown. The curved arc is highlighted in one color (e.g., blue) and labeled 'πr'. The straight diameter is highlighted in another color (e.g., red) and labeled '2r'. The total boundary is indicated as the perimeter 'P'.",
+    "labels": "Curved arc, Diameter, Radius",
+    "mathematical_significance": "Visually breaks down the perimeter of a semicircle into its constituent parts: the arc and the diameter.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-AREA-1_concept_5_chunk_019"
+}

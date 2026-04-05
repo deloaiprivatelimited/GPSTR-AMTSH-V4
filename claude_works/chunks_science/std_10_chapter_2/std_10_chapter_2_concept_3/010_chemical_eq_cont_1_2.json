@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಒಂದು ಅಣು ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಅಂದರೆ C a O H twice, ಒಂದು ಅಣು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ಅಂದರೆ C O two, ನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಒಂದು ಅಣು ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್, ಅಂದರೆ C a C O three, ಮತ್ತು ಒಂದು ಅಣು ನೀರು, ಅಂದರೆ H two O, ಅನ್ನು ಕೊಡುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Ca(OH)_2 (aq) + CO_2 (g) \\rightarrow CaCO_3 (s) + H_2O (l)",
+    "placeholder_note": "Balanced chemical equation for the reaction between calcium hydroxide and carbon dioxide."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_10_chapter_2_concept_3_chunk_010"
+}

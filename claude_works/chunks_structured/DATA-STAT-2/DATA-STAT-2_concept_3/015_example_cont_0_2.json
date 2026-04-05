@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಈಗ, ಮೂರನೇ ಹಂತದಲ್ಲಿ ಈ ಎಲ್ಲಾ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಬಹುಲಕ ಸಮನಾಗಿದೆ ಮೂರು ಪ್ಲಸ್, ಎಂಟು ಮೈನಸ್ ಏಳು, ಭಾಗಿಸು ಎರಡು ಗುಣಿಸು ಎಂಟು ಮೈನಸ್ ಏಳು ಮೈನಸ್ ಎರಡು, ಪೂರ್ತಿ ಗುಣಿಸು ಎರಡು. ಇದನ್ನು ಸರಳೀಕರಿಸೋಣ. ಅಂಶದಲ್ಲಿ ಎಂಟು ಮೈನಸ್ ಏಳು ಅಂದರೆ ಒಂದು. ಛೇದದಲ್ಲಿ, ಎರಡು ಗುಣಿಸು ಎಂಟು ಅಂದರೆ ಹದಿನಾರು. ಹದಿನಾರರಿಂದ ಏಳು ಮತ್ತು ಎರಡನ್ನು ಕಳೆದರೆ, ಅಂದರೆ ಹದಿನಾರರಿಂದ ಒಂಬತ್ತನ್ನು ಕಳೆದರೆ, ನಮಗೆ ಏಳು ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, ನಮಗೆ ಮೂರು ಪ್ಲಸ್, ಒಂದು ಭಾಗಿಸು ಏಳು, ಗುಣಿಸು ಎರಡು ಸಿಗುತ್ತದೆ. ಇದು ಮೂರು ಪ್ಲಸ್ ಎರಡು ಭಾಗಿಸು ಏಳಕ್ಕೆ ಸಮ.",
+  "script_display": "ಈಗ, ಮೂರನೇ ಹಂತದಲ್ಲಿ ಈ ಎಲ್ಲಾ ಮೌಲ್ಯಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಬಹುಲಕ $= 3 + \\left[ \\frac{8 - 7}{2(8) - 7 - 2} \\right] \\times 2$. ಇದನ್ನು ಸರಳೀಕರಿಸೋಣ. ಅಂಶದಲ್ಲಿ $8 - 7 = 1$. ಛೇದದಲ್ಲಿ, $2(8) - 7 - 2 = 16 - 9 = 7$. ಹಾಗಾಗಿ, ನಮಗೆ $3 + \\left[ \\frac{1}{7} \\right] \\times 2$ ಸಿಗುತ್ತದೆ. ಇದು $3 + \\frac{2}{7}$ ಕ್ಕೆ ಸಮ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "full_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "DATA-STAT-2_example_4",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\text{ಬಹುಲಕ} = 3 + \\left[ \\frac{8 - 7}{2(8) - 7 - 2} \\right] \\times 2$",
+      "justification": "ಸೂತ್ರದಲ್ಲಿ ಮೌಲ್ಯಗಳನ್ನು ಆದೇಶಿಸುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "$= 3 + \\left[ \\frac{1}{16 - 9} \\right] \\times 2$",
+      "justification": "ಛೇದದಲ್ಲಿ ಗುಣಾಕಾರ ಮತ್ತು ವ್ಯವಕಲನ."
+    },
+    {
+      "step": 3,
+      "action_display": "$= 3 + \\frac{2}{7}$",
+      "justification": "ಸರಳೀಕರಣ."
+    }
+  ],
+  "chunk_id": "DATA-STAT-2_concept_3_chunk_015"
+}

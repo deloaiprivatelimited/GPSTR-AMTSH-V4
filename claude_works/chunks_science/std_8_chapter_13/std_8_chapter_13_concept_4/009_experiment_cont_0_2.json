@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಈಗ ನಾವು ತಯಾರಿಕೆಯ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ತೆಗೆದುಕೊಂಡ ಮೂರು ದರ್ಪಣ ಪಟ್ಟಿಗಳನ್ನು ಅವುಗಳ ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈಗಳು ಒಳಮುಖವಾಗಿರುವಂತೆ ಜೋಡಿಸಿ ಒಂದು ಪಟ್ಟಕದ ಅಂದರೆ ಪ್ರಿಸಂ ಆಕಾರವನ್ನು ರಚಿಸಬೇಕು. ಇವುಗಳನ್ನು ಅಂಟಿಸಲು ನೀವು ಅಂಟುನೀರು ಅಥವಾ ಟೇಪ್ ಬಳಸಬಹುದು. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಈ ದರ್ಪಣಗಳ ಜೋಡಣೆಯನ್ನು ನಾವು ಸಿದ್ಧಪಡಿಸಿಕೊಂಡಿರುವ ರಟ್ಟಿನ ಕೊಳವೆಯೊಳಗೆ ಜಾಗರೂಕತೆಯಿಂದ ಇರಿಸಬೇಕು. ದರ್ಪಣಗಳು ಕೊಳವೆಯೊಳಗೆ ಅಲುಗಾಡದಂತೆ ಸರಿಯಾಗಿ ಹೊಂದಿಕೊಳ್ಳುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+  "script_display": "ಈಗ ನಾವು ತಯಾರಿಕೆಯ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು ತೆಗೆದುಕೊಂಡ ಮೂರು ದರ್ಪಣ ಪಟ್ಟಿಗಳನ್ನು ಅವುಗಳ ಪ್ರತಿಫಲಿಸುವ ಮೇಲ್ಮೈಗಳು ಒಳಮುಖವಾಗಿರುವಂತೆ ಜೋಡಿಸಿ ಒಂದು ಪಟ್ಟಕದ (prism) ಆಕಾರವನ್ನು ರಚಿಸಬೇಕು. ಇವುಗಳನ್ನು ಅಂಟಿಸಲು ನೀವು ಅಂಟುನೀರು ಅಥವಾ ಟೇಪ್ ಬಳಸಬಹುದು. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ಈ ದರ್ಪಣಗಳ ಜೋಡಣೆಯನ್ನು ನಾವು ಸಿದ್ಧಪಡಿಸಿಕೊಂಡಿರುವ ರಟ್ಟಿನ ಕೊಳವೆಯೊಳಗೆ ಜಾಗರೂಕತೆಯಿಂದ ಇರಿಸಬೇಕು. ದರ್ಪಣಗಳು ಕೊಳವೆಯೊಳಗೆ ಅಲುಗಾಡದಂತೆ ಸರಿಯಾಗಿ ಹೊಂದಿಕೊಳ್ಳುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+  "display_bullets": [
+    "ಮೂರು ದರ್ಪಣ ಪಟ್ಟಿಗಳನ್ನು ಪಟ್ಟಕದ (prism) ಆಕಾರದಲ್ಲಿ ಜೋಡಿಸಿ.",
+    "ಈ ಜೋಡಣೆಯನ್ನು ರಟ್ಟಿನ ಕೊಳವೆಯೊಳಗೆ ಇರಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_template_3",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-part diagram. Part 1 shows three mirror strips being joined to form a triangular prism shape, with arrows indicating the reflective surfaces are facing inwards. Part 2 shows this prism assembly being slid into a cardboard tube.",
+    "labels": "ದರ್ಪಣ ಪಟ್ಟಿಗಳು, ಪಟ್ಟಕದ ರಚನೆ, ರಟ್ಟಿನ ಕೊಳವೆ",
+    "scientific_significance": "Illustrates the core construction of the kaleidoscope's reflection chamber.",
+    "placeholder_note": "Image to be generated showing the first two steps of the procedure."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_8_chapter_13_concept_4_chunk_009"
+}

@@ -1,0 +1,43 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಪರಿಹಾರ (ಭಾಗ 2)",
+  "script": "ಈಗ ನಾವು ಅಂತಿಮ ಹಂತಕ್ಕೆ ಬಂದಿದ್ದೇವೆ. ನಾವು ಕೋನ ROT ಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿದಂತೆ, ಕೋನ ROT ಯು ಪಾರ್ಶ್ವಕೋನಗಳಾದ ಕೋನ ROS ಮತ್ತು ಕೋನ SOT ಗಳ ಮೊತ್ತವಾಗಿದೆ. ನಾವು ಹಿಂದಿನ ಹಂತಗಳಲ್ಲಿ ಕೋನ ROS ಸಮ x ಬೈ ಎರಡು ಮತ್ತು ಕೋನ SOT ಸಮ 90 ಡಿಗ್ರಿ ಮೈನಸ್ x ಬೈ ಎರಡು ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಇವೆರಡನ್ನೂ ಕೂಡಿಸೋಣ. ಕೋನ ROT ಸಮ x ಬೈ ಎರಡು ಪ್ಲಸ್ 90 ಡಿಗ್ರಿ ಮೈನಸ್ x ಬೈ ಎರಡು. ಇಲ್ಲಿ ಪ್ಲಸ್ x ಬೈ ಎರಡು ಮತ್ತು ಮೈನಸ್ x ಬೈ ಎರಡು ರದ್ದಾಗುತ್ತವೆ. ಆಗ ನಮಗೆ 90 ಡಿಗ್ರಿ ಉಳಿಯುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಅಂತಿಮ ಹಂತಕ್ಕೆ ಬಂದಿದ್ದೇವೆ. ನಾವು $\\angle ROT$ ಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿದಂತೆ, $\\angle ROT$ ಯು ಪಾರ್ಶ್ವಕೋನಗಳಾದ $\\angle ROS$ ಮತ್ತು $\\angle SOT$ ಗಳ ಮೊತ್ತವಾಗಿದೆ. ನಾವು ಹಿಂದಿನ ಹಂತಗಳಲ್ಲಿ $\\angle ROS = \\frac{x}{2}$ ಮತ್ತು $\\angle SOT = 90° - \\frac{x}{2}$ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಇವೆರಡನ್ನೂ ಕೂಡಿಸೋಣ. $\\angle ROT = \\frac{x}{2} + (90° - \\frac{x}{2})$. ಇಲ್ಲಿ $+\\frac{x}{2}$ ಮತ್ತು $-\\frac{x}{2}$ ರದ್ದಾಗುತ್ತವೆ. ಆಗ ನಮಗೆ $90°$ ಉಳಿಯುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಉದಾಹರಣೆ 2 ಕ್ಕಾಗಿ ರೇಖಾಚಿತ್ರ. ಒಂದು ಸರಳರೇಖೆ POQ, ಅದರ ಮೇಲೆ ಕಿರಣ OS. ∠POS ನ ಕೋನಾರ್ಧಕ OR ಮತ್ತು ∠SOQ ನ ಕೋನಾರ್ಧಕ OT.",
+    "labels": "ಚಿತ್ರ 6.10",
+    "mathematical_significance": "ಸರಳಯುಗ್ಮ ಕೋನಗಳ ಕೋನಾರ್ಧಕಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "render_target": "image",
+    "placeholder_note": "Image to be generated based on textbook Figure 6.10"
+  },
+  "source_example_id": "GEO-LA-2_example_2",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "$\\angle ROT = \\angle ROS + \\angle SOT = \\frac{x}{2} + (90° - \\frac{x}{2}) = 90°$",
+      "justification": "ಪಾರ್ಶ್ವಕೋನಗಳ ಸಂಕಲನ"
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-LA-2_concept_2_chunk_042"
+}

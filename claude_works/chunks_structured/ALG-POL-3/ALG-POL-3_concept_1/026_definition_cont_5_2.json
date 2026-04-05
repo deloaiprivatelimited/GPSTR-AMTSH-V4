@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಏಕಪದೋಕ್ತಿ vs. ಏಕಪದೋಕ್ತಿ ಅಲ್ಲದ ಬೀಜೋಕ್ತಿ",
+  "script": "ಏಕಪದೋಕ್ತಿಯನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಯಾವುದು ಏಕಪದೋಕ್ತಿ ಅಲ್ಲ ಎಂಬುದನ್ನು ನೋಡುವುದು ಮುಖ್ಯ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, 5x squared. ಇದು ಒಂದೇ ಪದವನ್ನು ಹೊಂದಿರುವುದರಿಂದ, ಇದೊಂದು ಏಕಪದೋಕ್ತಿ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, 5x squared plus 3x. ಇಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ. ಮೊದಲನೇ ಪದ 5x squared ಮತ್ತು ಎರಡನೇ ಪದ 3x. ಇವುಗಳನ್ನು ಪ್ಲಸ್ ಚಿಹ್ನೆಯಿಂದ ಬೇರ್ಪಡಿಸಲಾಗಿದೆ. ಹೀಗೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಪದಗಳಿದ್ದರೆ, ಅದನ್ನು ನಾವು ಏಕಪದೋಕ್ತಿ ಎಂದು ಕರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇದನ್ನು ನಾವು ದ್ವಿಪದೋಕ್ತಿ ಎಂದು ಕರೆಯುತ್ತೇವೆ, ಅದರ ಬಗ್ಗೆ ಮುಂದೆ ಕಲಿಯೋಣ. ಮುಖ್ಯವಾಗಿ ನೆನಪಿಡಬೇಕಾದ ಅಂಶವೆಂದರೆ, ಪದಗಳನ್ನು ಪ್ಲಸ್ ಅಥವಾ ಮೈನಸ್ ಚಿಹ್ನೆಗಳಿಂದ ಬೇರ್ಪಡಿಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಏಕಪದೋಕ್ತಿಯನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಯಾವುದು ಏಕಪದೋಕ್ತಿ ಅಲ್ಲ ಎಂಬುದನ್ನು ನೋಡುವುದು ಮುಖ್ಯ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, $5x^2$. ಇದು ಒಂದೇ ಪದವನ್ನು ಹೊಂದಿರುವುದರಿಂದ, ಇದೊಂದು ಏಕಪದೋಕ್ತಿ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, $5x^2 + 3x$. ಇಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ. ಮೊದಲನೇ ಪದ $5x^2$ ಮತ್ತು ಎರಡನೇ ಪದ $3x$. ಇವುಗಳನ್ನು '+' ಚಿಹ್ನೆಯಿಂದ ಬೇರ್ಪಡಿಸಲಾಗಿದೆ. ಹೀಗೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಪದಗಳಿದ್ದರೆ, ಅದನ್ನು ನಾವು ಏಕಪದೋಕ್ತಿ ಎಂದು ಕರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇದನ್ನು ನಾವು ದ್ವಿಪದೋಕ್ತಿ ಎಂದು ಕರೆಯುತ್ತೇವೆ, ಅದರ ಬಗ್ಗೆ ಮುಂದೆ ಕಲಿಯೋಣ. ಮುಖ್ಯವಾಗಿ ನೆನಪಿಡಬೇಕಾದ ಅಂಶವೆಂದರೆ, ಪದಗಳನ್ನು '+' ಅಥವಾ '-' ಚಿಹ್ನೆಗಳಿಂದ ಬೇರ್ಪಡಿಸಲಾಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "classic_dark",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_panel",
+    "status": "ready",
+    "render_target": "katex",
+    "placeholder_note": "A two-panel visual. Left panel shows a monomial, right panel shows a binomial, with labels indicating 'one term' vs 'two terms'. The plus sign on the right is highlighted to show separation of terms. Left header: 'ಏಕಪದೋಕ್ತಿ (Monomial)'. Right header: 'ಏಕಪದೋಕ್ತಿ ಅಲ್ಲ (Not a Monomial)'. Left content: '$5x^2$'. Right content: '$5x^2 + 3x$'. A caption below the right content says 'ಇಲ್ಲಿ ಎರಡು ಪದಗಳಿವೆ' (Has two terms). A caption below the left content says 'ಇಲ್ಲಿ ಒಂದೇ ಪದವಿದೆ' (Has one term). "
+  },
+  "chunk_id": "ALG-POL-3_concept_1_chunk_026"
+}

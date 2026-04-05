@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದೃಶ್ಯ ವಿವರಣೆ: ನಿಶ್ಚಲ ಸ್ಥಿತಿಯ ಜಡತ್ವ",
+  "script": "ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡಿ. ಬಸ್ಸು ನಿಂತಿರುವಾಗ, ಪ್ರಯಾಣಿಕನು ನೇರವಾಗಿ ನಿಂತಿದ್ದಾನೆ. ಬಸ್ಸು ಮುಂದಕ್ಕೆ ಚಲಿಸಿದ ತಕ್ಷಣ, ಅವನ ಪಾದಗಳು ಬಸ್ಸಿನ ಜೊತೆ ಮುಂದಕ್ಕೆ ಹೋಗುತ್ತವೆ. ಆದರೆ ಅವನ ದೇಹದ ಮೇಲ್ಭಾಗವು ಜಡತ್ವದಿಂದಾಗಿ ಹಿಂದೆಯೇ ಉಳಿಯಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಅವನು ಹಿಂದಕ್ಕೆ ವಾಲುತ್ತಾನೆ. ಕಾರ್ಪೆಟ್ ಅನ್ನು ಕೋಲಿನಿಂದ ಬಡಿದಾಗ ಧೂಳಿನ ಕಣಗಳು ಕೆಳಗೆ ಬೀಳುವುದೂ ಕೂಡ ಇದೇ ತತ್ವದ ಮೇಲೆ ಆಧಾರಿತವಾಗಿದೆ. ಕಾರ್ಪೆಟ್ ಚಲಿಸುತ್ತದೆ, ಆದರೆ ಧೂಳಿನ ಕಣಗಳು ಜಡತ್ವದಿಂದಾಗಿ ತಮ್ಮ ಸ್ಥಾನದಲ್ಲೇ ಉಳಿದು, ಗುರುತ್ವಾಕರ್ಷಣೆಯಿಂದ ಕೆಳಗೆ ಬೀಳುತ್ತವೆ.",
+  "script_display": "ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡಿ. ಬಸ್ಸು ನಿಂತಿರುವಾಗ, ಪ್ರಯಾಣಿಕನು ನೇರವಾಗಿ ನಿಂತಿದ್ದಾನೆ. ಬಸ್ಸು ಮುಂದಕ್ಕೆ ಚಲಿಸಿದ ತಕ್ಷಣ, ಅವನ ಪಾದಗಳು ಬಸ್ಸಿನ ಜೊತೆ ಮುಂದಕ್ಕೆ ಹೋಗುತ್ತವೆ. ಆದರೆ ಅವನ ದೇಹದ ಮೇಲ್ಭಾಗವು ಜಡತ್ವದಿಂದಾಗಿ ಹಿಂದೆಯೇ ಉಳಿಯಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಅವನು ಹಿಂದಕ್ಕೆ ವಾಲುತ್ತಾನೆ. ಇನ್ನೊಂದು ಉದಾಹರಣೆ: ಕಾರ್ಪೆಟ್ ಅನ್ನು ಕೋಲಿನಿಂದ ಬಡಿದಾಗ ಧೂಳಿನ ಕಣಗಳು ಕೆಳಗೆ ಬೀಳುತ್ತವೆ.",
+  "display_bullets": [
+    "ಪ್ರಯಾಣಿಕನ ಪಾದಗಳು ಬಸ್ಸಿನೊಂದಿಗೆ ಚಲಿಸುತ್ತವೆ.",
+    "ದೇಹದ ಮೇಲ್ಭಾಗವು ತನ್ನ ಮೂಲ ಸ್ಥಾನದಲ್ಲಿ ಉಳಿಯುತ್ತದೆ.",
+    "ಇದೇ ರೀತಿ, ಕಾರ್ಪೆಟ್ ಬಡಿದಾಗ ಧೂಳು ಕೆಳಗೆ ಬೀಳುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-panel diagram. Panel 1: A person standing still inside a stationary bus. Panel 2: The bus suddenly moves forward (indicated by motion lines). The person's feet move with the bus, but their upper body lurches backward due to inertia.",
+    "labels": "ಬಸ್ಸು ನಿಶ್ಚಲವಾಗಿದೆ (Bus at rest), ಬಸ್ಸು ಚಲಿಸುತ್ತಿದೆ (Bus moves forward), ಜಡತ್ವದ ಪರಿಣಾಮ (Effect of inertia)",
+    "scientific_significance": "Visually demonstrates the concept of inertia of rest, where the upper body resists the change in state from rest to motion.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_8_concept_2_chunk_013"
+}

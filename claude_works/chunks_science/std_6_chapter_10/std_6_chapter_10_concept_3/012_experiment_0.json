@@ -1,0 +1,38 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಸಸ್ಯದ ಚಲನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+  "script": "ಈಗ ನಾವು ಒಂದು ಕುತೂಹಲಕಾರಿ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಸಸ್ಯಗಳು ಬೆಳಕು ಮತ್ತು ಗುರುತ್ವಾಕರ್ಷಣೆಗೆ ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ನಾವು ಈ ಪ್ರಯೋಗದ ಮೂಲಕ ತಿಳಿಯಲಿದ್ದೇವೆ. ಇದಕ್ಕಾಗಿ ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲಿಗೆ, ನಮಗೆ ಮೊಳಕೆಯೊಡೆದ ಹುರುಳಿ ಸಸಿಗಳು ಬೇಕು. ನಂತರ, ಮೂರು ಗಾಜಿನ ಬೀಕರ್‌ಗಳು, ಸ್ವಲ್ಪ ಹತ್ತಿ, ಮತ್ತು ಒಂದು ರಟ್ಟಿನ ಪೆಟ್ಟಿಗೆಯನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳಿ. ಈ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ನಾವು ಸಸ್ಯದ ಕಾಂಡ ಮತ್ತು ಬೇರುಗಳ ಬೆಳವಣಿಗೆಯ ದಿಕ್ಕನ್ನು ಹೇಗೆ ಪ್ರಚೋದನೆಗಳು ಪ್ರಭಾವಿಸುತ್ತವೆ ಎಂದು ಗಮನಿಸಲಿದ್ದೇವೆ.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಕುತೂಹಲಕಾರಿ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಸಸ್ಯಗಳು ಬೆಳಕು ಮತ್ತು ಗುರುತ್ವಾಕರ್ಷಣೆಗೆ ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ನಾವು ಈ ಪ್ರಯೋಗದ ಮೂಲಕ ತಿಳಿಯಲಿದ್ದೇವೆ. ಇದಕ್ಕಾಗಿ ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲಿಗೆ, ನಮಗೆ ಮೊಳಕೆಯೊಡೆದ ಹುರುಳಿ ಸಸಿಗಳು ಬೇಕು. ನಂತರ, ಮೂರು ಗಾಜಿನ ಬೀಕರ್‌ಗಳು, ಸ್ವಲ್ಪ ಹತ್ತಿ, ಮತ್ತು ಒಂದು ರಟ್ಟಿನ ಪೆಟ್ಟಿಗೆಯನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳಿ. ಈ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ನಾವು ಸಸ್ಯದ ಕಾಂಡ ಮತ್ತು ಬೇರುಗಳ ಬೆಳವಣಿಗೆಯ ದಿಕ್ಕನ್ನು ಹೇಗೆ ಪ್ರಚೋದನೆಗಳು ಪ್ರಭಾವಿಸುತ್ತವೆ ಎಂದು ಗಮನಿಸಲಿದ್ದೇವೆ.",
+  "display_bullets": [
+    "ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು:",
+    "ಮೊಳಕೆಯೊಡೆದ ಹುರುಳಿ ಸಸಿಗಳು",
+    "ಮೂರು ಗಾಜಿನ ಬೀಕರ್‌ಗಳು",
+    "ಹತ್ತಿ ಮತ್ತು ಹೀರು ಕಾಗದ",
+    "ಒಂದು ರಟ್ಟಿನ ಪೆಟ್ಟಿಗೆ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A table displaying the materials for the experiment: sprouted bean seedlings, three glass beakers, cotton, and a cardboard box, all neatly arranged.",
+    "labels": "ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾದ ವಸ್ತುಗಳು",
+    "scientific_significance": "Shows the simple and accessible materials required to demonstrate a fundamental biological concept.",
+    "placeholder_note": "Image to be generated showing the listed materials."
+  },
+  "chunk_id": "std_6_chapter_10_concept_3_chunk_012"
+}

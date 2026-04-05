@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಗಮನಿಸಬೇಕಾದ ಅಂಶಗಳು (Observation)",
+  "script": "ಈಗ, ಪ್ರತಿ ಗುಂಪಿನಲ್ಲಿ ಏನಾಯಿತು ಎಂದು ಗಮನಿಸೋಣ. ಒಂದು ವೇಳೆ ಮೊದಲ ಪೀಳಿಗೆಯವರು ಹೆಚ್ಚು ಆಸೆಪಟ್ಟು ಹೆಚ್ಚಿನ ತಿಂಡಿಗಳನ್ನು ತಿಂದರೆ, ಎರಡನೇ ಪೀಳಿಗೆಯವರಿಗೆ ಬಹಳ ಕಡಿಮೆ ತಿಂಡಿಗಳು ಉಳಿದಿರುತ್ತವೆ. ಇನ್ನು ಮೂರನೇ ಪೀಳಿಗೆಯವರ ಸರದಿ ಬಂದಾಗ, ಪಾತ್ರೆಯಲ್ಲಿ ಬಹುಶಃ ಏನೂ ಉಳಿದಿರುವುದಿಲ್ಲ. ಅಂದರೆ, ಆರಂಭಿಕ ಪೀಳಿಗೆಯು ಸಂಪನ್ಮೂಲವನ್ನು ದುರಾಸೆಯಿಂದ ಅಥವಾ ಯೋಚಿಸದೆ ಬಳಸಿದರೆ, ನಂತರದ ಪೀಳಿಗೆಗಳಿಗೆ ಸಂಪನ್ಮೂಲದ ತೀವ್ರ ಕೊರತೆ ಉಂಟಾಗುತ್ತದೆ. ಇದು ನಮ್ಮ ಚಟುವಟಿಕೆಯ ಅತ್ಯಂತ ಪ್ರಮುಖ ವೀಕ್ಷಣೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ, ಪ್ರತಿ ಗುಂಪಿನಲ್ಲಿ ಏನಾಯಿತು ಎಂದು ಗಮನಿಸೋಣ. ಒಂದು ವೇಳೆ ಮೊದಲ ಪೀಳಿಗೆಯವರು ಹೆಚ್ಚು ಆಸೆಪಟ್ಟು ಹೆಚ್ಚಿನ ತಿಂಡಿಗಳನ್ನು ತಿಂದರೆ, ಎರಡನೇ ಪೀಳಿಗೆಯವರಿಗೆ ಬಹಳ ಕಡಿಮೆ ತಿಂಡಿಗಳು ಉಳಿದಿರುತ್ತವೆ. ಇನ್ನು ಮೂರನೇ ಪೀಳಿಗೆಯವರ ಸರದಿ ಬಂದಾಗ, ಪಾತ್ರೆಯಲ್ಲಿ ಬಹುಶಃ ಏನೂ ಉಳಿದಿರುವುದಿಲ್ಲ. ಅಂದರೆ, ಆರಂಭಿಕ ಪೀಳಿಗೆಯು ಸಂಪನ್ಮೂಲವನ್ನು ದುರಾಸೆಯಿಂದ ಅಥವಾ ಯೋಚಿಸದೆ ಬಳಸಿದರೆ, ನಂತರದ ಪೀಳಿಗೆಗಳಿಗೆ ಸಂಪನ್ಮೂಲದ ತೀವ್ರ ಕೊರತೆ ಉಂಟಾಗುತ್ತದೆ. ಇದು ನಮ್ಮ ಚಟುವಟಿಕೆಯ ಅತ್ಯಂತ ಪ್ರಮುಖ ವೀಕ್ಷಣೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಮೊದಲ ಪೀಳಿಗೆ ಹೆಚ್ಚು ಸೇವಿಸಿದರೆ, ನಂತರದ ಪೀಳಿಗೆಗೆ ಕಡಿಮೆ ಲಭ್ಯವಾಗುತ್ತದೆ.",
+    "ಕೆಲವೊಮ್ಮೆ, ಮೂರನೇ ಪೀಳಿಗೆಗೆ ತಿನ್ನಲು ಏನೂ ಉಳಿಯುವುದಿಲ್ಲ.",
+    "ಆರಂಭಿಕ ಪೀಳಿಗೆಯ ಆಯ್ಕೆಗಳು ಭವಿಷ್ಯದ ಮೇಲೆ ನೇರ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_visual_left_text_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A sequence of three images. 1: A full bowl of snacks labeled 'Generation 1'. 2: A half-empty bowl labeled 'Generation 2'. 3: An almost empty or completely empty bowl labeled 'Generation 3'.",
+    "labels": "Generation 1, Generation 2, Generation 3, Resource Depletion",
+    "scientific_significance": "Illustrates the core observation of the activity: how resources diminish over successive 'generations' of users.",
+    "placeholder_note": "Image to be generated showing the bowl getting emptier."
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_8_chapter_3_concept_9_chunk_011"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಫೋರ್ ಎ ಮೈನಸ್ ಟೂ ಬಿ ಮೈನಸ್ ತ್ರೀ ಸಿ ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ನ ವಿಸ್ತೃತ ರೂಪವು ಸಿಕ್ಸ್ಟೀನ್ ಎ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಫೋರ್ ಬಿ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ನೈನ್ ಸಿ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಸಿಕ್ಸ್ಟೀನ್ ಎ ಬಿ ಪ್ಲಸ್ ಟ್ವೆಲ್ವ್ ಬಿ ಸಿ ಮೈನಸ್ ಟ್ವೆಂಟಿ ಫೋರ್ ಎ ಸಿ ಆಗಿದೆ. ಋಣಾತ್ಮಕ ಪದಗಳನ್ನು ವರ್ಗ ಮಾಡುವಾಗ ಅವು ಧನಾತ್ಮಕವಾಗುತ್ತವೆ ಮತ್ತು ಗುಣಿಸುವಾಗ ಚಿಹ್ನೆಗಳು ಬದಲಾಗುತ್ತವೆ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.",
+  "script_display": "ಹಾಗಾಗಿ, $(4a – 2b – 3c)^2$ ನ ವಿಸ್ತೃತ ರೂಪವು $16a^2 + 4b^2 + 9c^2 - 16ab + 12bc - 24ac$ ಆಗಿದೆ. ಋಣಾತ್ಮಕ ಪದಗಳನ್ನು ವರ್ಗ ಮಾಡುವಾಗ ಅವು ಧನಾತ್ಮಕವಾಗುತ್ತವೆ ಮತ್ತು ಗುಣಿಸುವಾಗ ಚಿಹ್ನೆಗಳು ಬದಲಾಗುತ್ತವೆ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $16a^2 + 4b^2 + 9c^2 - 16ab + 12bc - 24ac$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "$(4a – 2b – 3c)^2 = 16a^2 + 4b^2 + 9c^2 - 16ab + 12bc - 24ac$",
+    "placeholder_note": "Display the final expanded form of the expression."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_18",
+  "final_answer": "$(4a – 2b – 3c)^2 = 16a^2 + 4b^2 + 9c^2 - 16ab + 12bc - 24ac$",
+  "final_answer_display": "$(4a – 2b – 3c)^2 = 16a^2 + 4b^2 + 9c^2 - 16ab + 12bc - 24ac$",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_061"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹುಡುಗರಲ್ಲಿ ಕಂಡುಬರುವ ಬದಲಾವಣೆಗಳು",
+  "script": "ಮೊದಲಿಗೆ, ಹುಡುಗರಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ನೋಡೋಣ. ಪ್ರೌಢಾವಸ್ಥೆಯಲ್ಲಿ, ಟೆಸ್ಟೋಸ್ಟಿರಾನ್ ಎಂಬ ಹಾರ್ಮೋನ್ ಬಿಡುಗಡೆಯಾಗುವುದರಿಂದ ಈ ಬದಲಾವಣೆಗಳು ಪ್ರಚೋದಿಸಲ್ಪಡುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಮುಖದ ಮೇಲೆ ಗಡ್ಡ ಮತ್ತು ಮೀಸೆ ಬೆಳೆಯಲು ಪ್ರಾರಂಭವಾಗುತ್ತದೆ. ಇದು ಪುರುಷತ್ವದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. ಎರಡನೆಯದಾಗಿ, ಧ್ವನಿಯು ಒಡೆಯುತ್ತದೆ ಮತ್ತು ಗಡಸಾಗುತ್ತದೆ. ಗಂಟಲಿನಲ್ಲಿರುವ ಧ್ವನಿಪೆಟ್ಟಿಗೆ ಅಥವಾ ಲಾರಿಂಕ್ಸ್ ದೊಡ್ಡದಾಗುವುದರಿಂದ ಹೀಗಾಗುತ್ತದೆ. ಇದನ್ನು ಆಡಮ್ಸ್ ಆಪಲ್ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಹುಡುಗರಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ನೋಡೋಣ. ಪ್ರೌಢಾವಸ್ಥೆಯಲ್ಲಿ, ಟೆಸ್ಟೋಸ್ಟಿರಾನ್ (Testosterone) ಎಂಬ ಹಾರ್ಮೋನ್ ಬಿಡುಗಡೆಯಾಗುವುದರಿಂದ ಈ ಬದಲಾವಣೆಗಳು ಪ್ರಚೋದಿಸಲ್ಪಡುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಮುಖದ ಮೇಲೆ ಗಡ್ಡ, ಮೀಸೆ ಬೆಳೆಯುವುದು. ಇದು ಪುರುಷತ್ವದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. ಎರಡನೆಯದಾಗಿ, ಧ್ವನಿ ಒಡೆಯುವುದು, ಗಡಸಾಗುವುದು. ಗಂಟಲಿನಲ್ಲಿರುವ ಧ್ವನಿಪೆಟ್ಟಿಗೆ (Larynx) ದೊಡ್ಡದಾಗುವುದರಿಂದ ಹೀಗಾಗುತ್ತದೆ. ಇದನ್ನು ಆಡಮ್ಸ್ ಆಪಲ್ (Adam's apple) ಎಂದೂ ಕರೆಯುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಮುಖದ ಮೇಲೆ ಗಡ್ಡ, ಮೀಸೆ ಬೆಳೆಯುವುದು.",
+    "ಧ್ವನಿ ಒಡೆಯುವುದು, ಗಡಸಾಗುವುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Illustration comparing a pre-pubescent boy's face and larynx with a pubescent boy's face showing facial hair and a more prominent larynx (Adam's apple).",
+    "labels": "ಗಡ್ಡ ಮತ್ತು ಮೀಸೆ, ದೊಡ್ಡದಾದ ಧ್ವನಿಪೆಟ್ಟಿಗೆ (ಆಡಮ್ಸ್ ಆಪಲ್)",
+    "scientific_significance": "Shows the external physical changes in males during puberty due to testosterone.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_7_concept_8_chunk_007"
+}

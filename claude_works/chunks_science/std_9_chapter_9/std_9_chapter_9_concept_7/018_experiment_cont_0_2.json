@@ -1,0 +1,37 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 2 - ನೀರಿನಲ್ಲಿ ತೂಕ",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸಿಗೆ ಕಟ್ಟಿದ ಕಲ್ಲನ್ನು ನಿಧಾನವಾಗಿ ನೀರು ತುಂಬಿದ ಬೀಕರ್‌ನೊಳಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಮುಳುಗಿಸೋಣ. ಕಲ್ಲು ಬೀಕರ್‌ನ ತಳವನ್ನು ಅಥವಾ ಬದಿಗಳನ್ನು ಸ್ಪರ್ಶಿಸದಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಈಗ, ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸಿನ ಅಳತೆಯನ್ನು ಮತ್ತೊಮ್ಮೆ ಗಮನಿಸಿ. ಏನಾದರೂ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತಿದೆಯೇ? ಹೌದು, ತ್ರಾಸಿನ ಹಿಗ್ಗುವಿಕೆ ಕಡಿಮೆಯಾಗಿರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಇದರರ್ಥ, ನೀರಿನಲ್ಲಿ ಕಲ್ಲಿನ ತೂಕವು ಕಡಿಮೆಯಾಗಿದೆ. ಈ ಹೊಸ ಅಳತೆಯನ್ನು ನಾವು ನೀರಿನಲ್ಲಿ ತೋರಿಕೆಯ ತೂಕ ಎಂದು ಕರೆಯುತ್ತೇವೆ ಮತ್ತು ಇದನ್ನು ಕೂಡ ದಾಖಲಿಸಿಕೊಳ್ಳೋಣ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸಿಗೆ ಕಟ್ಟಿದ ಕಲ್ಲನ್ನು ನಿಧಾನವಾಗಿ ನೀರು ತುಂಬಿದ ಬೀಕರ್‌ನೊಳಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಮುಳುಗಿಸೋಣ. ಕಲ್ಲು ಬೀಕರ್‌ನ ತಳವನ್ನು ಅಥವಾ ಬದಿಗಳನ್ನು ಸ್ಪರ್ಶಿಸದಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಈಗ, ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸಿನ ಅಳತೆಯನ್ನು ಮತ್ತೊಮ್ಮೆ ಗಮನಿಸಿ. ಏನಾದರೂ ಬದಲಾವಣೆ ಕಾಣಿಸುತ್ತಿದೆಯೇ? ಹೌದು, ತ್ರಾಸಿನ ಹಿಗ್ಗುವಿಕೆ ಕಡಿಮೆಯಾಗಿರುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಇದರರ್ಥ, ನೀರಿನಲ್ಲಿ ಕಲ್ಲಿನ ತೂಕವು ಕಡಿಮೆಯಾಗಿದೆ. ಈ ಹೊಸ ಅಳತೆಯನ್ನು (W_water) ನಾವು 'ನೀರಿನಲ್ಲಿ ತೋರಿಕೆಯ ತೂಕ' ಎಂದು ಕರೆಯುತ್ತೇವೆ ಮತ್ತು ಇದನ್ನು ಕೂಡ ದಾಖಲಿಸಿಕೊಳ್ಳೋಣ.",
+  "display_bullets": [
+    "ಕಲ್ಲನ್ನು ನೀರಿನಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಮುಳುಗಿಸಿ.",
+    "ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸಿನ ಹೊಸ ಅಳತೆಯನ್ನು ಗಮನಿಸಿ.",
+    "ಈ ಅಳತೆಯನ್ನು (W_water) ದಾಖಲಿಸಿಕೊಳ್ಳಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the same stone and spring balance, but now the stone is fully submerged in a beaker of water. The balance shows a lower reading.",
+    "labels": "ಸ್ಪ್ರಿಂಗ್ ತ್ರಾಸು, ಕಲ್ಲು, ನೀರಿನಲ್ಲಿ ತೋರಿಕೆಯ ತೂಕ (W_water)",
+    "scientific_significance": "Illustrates the concept of apparent weight. The reduction in the reading is due to the upward buoyant force exerted by the water.",
+    "placeholder_note": "Image to be generated based on visual_aids_in_module, ಚಿತ್ರ 9.6 (b)"
+  },
+  "sub_type": "experiment_procedure",
+  "chunk_id": "std_9_chapter_9_concept_7_chunk_018"
+}

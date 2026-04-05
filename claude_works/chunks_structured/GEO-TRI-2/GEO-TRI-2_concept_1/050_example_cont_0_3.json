@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ತೀರ್ಮಾನ",
+  "script": "ಹೀಗೆ, ನಾವು ಈ ಸಮಸ್ಯೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬಿಡಿಸಿದ್ದೇವೆ. ನಾವು ಸಾಧಿಸಿದ ಎರಡು ಮುಖ್ಯ ಅಂಶಗಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ಮೊದಲನೆಯದು, ಬಾಹು-ಕೋನ-ಬಾಹು ನಿಬಂಧನೆಯನ್ನು ಬಳಸಿ ತ್ರಿಭುಜ AOD ಯು ತ್ರಿಭುಜ BOC ಗೆ ಸರ್ವಸಮವಾಗಿದೆ ಎಂದು ತೋರಿಸಿದೆವು. ಎರಡನೆಯದು, ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮ ಎಂಬ ನಿಯಮವನ್ನು ಬಳಸಿ, ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು ಸಮವೆಂದು ಕಂಡುಕೊಂಡು, AD ರೇಖೆಯು BC ರೇಖೆಗೆ ಸಮಾಂತರವಾಗಿದೆ ಎಂದು ನಿರೂಪಿಸಿದೆವು.",
+  "script_display": "ಹೀಗೆ, ನಾವು ಈ ಸಮಸ್ಯೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬಿಡಿಸಿದ್ದೇವೆ. ನಾವು ಸಾಧಿಸಿದ ಎರಡು ಮುಖ್ಯ ಅಂಶಗಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ. ಮೊದಲನೆಯದು, ಬಾಹು-ಕೋನ-ಬಾಹು ನಿಬಂಧನೆಯನ್ನು ಬಳಸಿ $\\triangle AOD \\cong \\triangle BOC$ ಎಂದು ತೋರಿಸಿದೆವು. ಎರಡನೆಯದು, ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮ ಎಂಬ ನಿಯಮವನ್ನು ಬಳಸಿ, ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು ಸಮವೆಂದು ಕಂಡುಕೊಂಡು, $AD || BC$ ಎಂದು ನಿರೂಪಿಸಿದೆವು.",
+  "display_bullets": [
+    "ಭಾಗ (i): $\\triangle AOD \\cong \\triangle BOC$ (ಬಾ.ಕೋ.ಬಾ ನಿಬಂಧನೆಯಿಂದ)",
+    "ಭಾಗ (ii): $AD || BC$ (ಪರ್ಯಾಯ ಅಂತರ್ ಕೋನಗಳು ಸಮವಾಗಿರುವುದರಿಂದ)"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_full",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-TRI-2_example_1",
+  "steps": [],
+  "final_answer": "(i) $\\triangle AOD \\cong \\triangle BOC$ ಮತ್ತು (ii) $AD || BC$ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "(i) $\\triangle AOD \\cong \\triangle BOC$ and (ii) $AD || BC$ are proved.",
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_050"
+}

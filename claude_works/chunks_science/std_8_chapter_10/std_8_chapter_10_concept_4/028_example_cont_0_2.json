@@ -1,0 +1,44 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 2",
+  "script": "ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಕಾಲಾವಧಿಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಕಾಲಾವಧಿ ಮತ್ತು ಆವೃತ್ತಿ ಒಂದಕ್ಕೊಂದು ವಿಲೋಮಾನುಪಾತದಲ್ಲಿವೆ. ಅಂದರೆ, ಕಾಲಾವಧಿ ಟಿ ಈಕ್ವಲ್ಸ್ ಒಂದು ಭಾಗಿಸು ಎಫ್. ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಆವೃತ್ತಿಯನ್ನು ಹತ್ತು ಹರ್ಟ್ಸ್ ಎಂದು ಕಂಡುಹಿಡಿದಿದ್ದೇವೆ. ಹಾಗಾಗಿ, ಕಾಲಾವಧಿ ಈಕ್ವಲ್ಸ್ ಒಂದನ್ನು ಹತ್ತರಿಂದ ಭಾಗಿಸುವುದು, ಇದು ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಒಂದು ಸೆಕೆಂಡುಗಳಿಗೆ ಸಮ. ಆದ್ದರಿಂದ, ಕಾಲಾವಧಿ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಒಂದು ಸೆಕೆಂಡ್.",
+  "script_display": "ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಕಾಲಾವಧಿಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಕಾಲಾವಧಿ ಮತ್ತು ಆವೃತ್ತಿ ಒಂದಕ್ಕೊಂದು ವಿಲೋಮಾನುಪಾತದಲ್ಲಿವೆ. ಅಂದರೆ, T = 1 / f. ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಆವೃತ್ತಿಯನ್ನು 10 Hz ಎಂದು ಕಂಡುಹಿಡಿದಿದ್ದೇವೆ. ಹಾಗಾಗಿ, T = 1 / 10 = 0.1 s. ಆದ್ದರಿಂದ, ಕಾಲಾವಧಿ 0.1 s.",
+  "display_bullets": [
+    "ಹಂತ 2: ಕಾಲಾವಧಿಯನ್ನು (T) ಕಂಡುಹಿಡಿಯುವುದು.",
+    "ಕಾಲಾವಧಿ ಮತ್ತು ಆವೃತ್ತಿಯ ನಡುವಿನ ಸಂಬಂಧ: T = 1 / f",
+    "T = 1 / 10 = 0.1 s"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_step_walkthrough_template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "T = \\frac{1}{f} = \\frac{1}{10} = 0.1 \\text{ s}",
+    "placeholder_note": "Formula box showing the calculation for time period."
+  },
+  "sub_type": "step_walkthrough",
+  "source_example_id": "std_8_chapter_10_example_1",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಕಾಲಾವಧಿಯನ್ನು (T) ಕಂಡುಹಿಡಿಯುವುದು.",
+      "justification": "ಕಾಲಾವಧಿಯ ಸೂತ್ರ T = 1/f ಅನ್ನು ಬಳಸುವುದು."
+    }
+  ],
+  "chunk_id": "std_8_chapter_10_concept_4_chunk_028"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಿ ಸೇರಿಸುವುದು",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ನಕ್ಷೆಯ ಮೇಲೆ ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ಎಕ್ಸ್-ಅಕ್ಷದ ಮೇಲೆ ವರ್ಗ-ಅಂಕಗಳನ್ನು ಮತ್ತು ವೈ-ಅಕ್ಷದ ಮೇಲೆ ಅನುಗುಣವಾದ ಆವೃತ್ತಿಗಳನ್ನು ಅಂದರೆ ವಾರಗಳ ಸಂಖ್ಯೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ. ನಾವು ಗುರುತಿಸಬೇಕಾದ ಬಿಂದುಗಳು: ನೂರ ಮೂವತ್ತೈದು, ಸೊನ್ನೆ; ನೂರ ನಲವತ್ತೈದು, ಐದು; ನೂರ ಐವತ್ತೈದು, ಹತ್ತು; ನೂರ ಅರವತ್ತೈದು, ಇಪ್ಪತ್ತು; ನೂರ ಎಪ್ಪತ್ತೈದು, ಒಂಬತ್ತು; ನೂರ ಎಂಬತ್ತೈದು, ಆರು; ನೂರ ತೊಂಬತ್ತೈದು, ಎರಡು; ಮತ್ತು ಇನ್ನೂರ ಐದು, ಸೊನ್ನೆ. ಅಂತಿಮವಾಗಿ, ಈ ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ಕ್ರಮವಾಗಿ ಸರಳ ರೇಖೆಗಳಿಂದ ಸೇರಿಸಿದಾಗ ನಮಗೆ ಬೇಕಾದ ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿ ದೊರೆಯುತ್ತದೆ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ನಾವು ನಕ್ಷೆಯ ಮೇಲೆ ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. X-ಅಕ್ಷದ ಮೇಲೆ ವರ್ಗ-ಅಂಕಗಳನ್ನು ಮತ್ತು Y-ಅಕ್ಷದ ಮೇಲೆ ಅನುಗುಣವಾದ ಆವೃತ್ತಿಗಳನ್ನು (ವಾರಗಳ ಸಂಖ್ಯೆ) ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ. ನಾವು ಗುರುತಿಸಬೇಕಾದ ಬಿಂದುಗಳು: (135, 0), (145, 5), (155, 10), (165, 20), (175, 9), (185, 6), (195, 2), ಮತ್ತು (205, 0). ಅಂತಿಮವಾಗಿ, ಈ ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ಕ್ರಮವಾಗಿ ಸರಳ ರೇಖೆಗಳಿಂದ ಸೇರಿಸಿದಾಗ ನಮಗೆ ಬೇಕಾದ ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿ ದೊರೆಯುತ್ತದೆ.",
+  "display_bullets": [
+    "X-ಅಕ್ಷದ ಮೇಲೆ ವರ್ಗ-ಅಂಕಗಳನ್ನು ಮತ್ತು Y-ಅಕ್ಷದ ಮೇಲೆ ಆವೃತ್ತಿಗಳನ್ನು ಬಳಸಿ ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸುವುದು.",
+    "ಗುರುತಿಸಬೇಕಾದ ಬಿಂದುಗಳು: (135, 0), (145, 5), (155, 10), (165, 20), (175, 9), (185, 6), (195, 2), (205, 0).",
+    "ಈ ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ಕ್ರಮವಾಗಿ ಸರಳ ರೇಖೆಗಳಿಂದ ಸೇರಿಸಿದಾಗ ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿ ದೊರೆಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A graph showing the frequency polygon. The x-axis is labeled 'ಜೀವನ ನಿರ್ವಹಣಾ ಸೂಚ್ಯಾಂಕ (ವರ್ಗ-ಅಂಕ)' and the y-axis is labeled 'ವಾರಗಳ ಸಂಖ್ಯೆ (ಆವೃತ್ತಿ)'. The points (135, 0), (145, 5), (155, 10), (165, 20), (175, 9), (185, 6), (195, 2), and (205, 0) are plotted and connected by straight line segments. The x-axis should have a kink (zigzag line) near the origin to indicate that the scale starts from 135, not 0.",
+    "labels": "X-axis: ಜೀವನ ನಿರ್ವಹಣಾ ಸೂಚ್ಯಾಂಕ (ವರ್ಗ-ಅಂಕ), Y-axis: ವಾರಗಳ ಸಂಖ್ಯೆ (ಆವೃತ್ತಿ), Plotted points with coordinates",
+    "mathematical_significance": "This graph visually represents the frequency distribution, showing the peak and the spread of the data. It's an alternative to a histogram for visualizing continuous data.",
+    "placeholder_note": "Image to be generated: A 2D graph showing the frequency polygon based on the calculated points. Ensure the axes are clearly labeled in Kannada and a kink is present on the x-axis."
+  },
+  "source_example_id": "DATA-STAT-2_example_6",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ನಕ್ಷೆಯ ಮೇಲೆ ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸುವುದು: (135, 0), (145, 5), (155, 10), (165, 20), (175, 9), (185, 6), (195, 2), (205, 0).",
+      "justification": "X-ಅಕ್ಷದ ಮೇಲೆ ವರ್ಗ-ಅಂಕಗಳನ್ನು ಮತ್ತು Y-ಅಕ್ಷದ ಮೇಲೆ ಅನುಗುಣವಾದ ಆವೃತ್ತಿಗಳನ್ನು ಬಳಸಿ ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸಬೇಕು."
+    },
+    {
+      "step": 4,
+      "action_display": "ಗುರುತಿಸಿದ ಎಲ್ಲಾ ಬಿಂದುಗಳನ್ನು ಕ್ರಮವಾಗಿ ಸರಳ ರೇಖೆಗಳಿಂದ ಸೇರಿಸುವುದು.",
+      "justification": "ಬಿಂದುಗಳನ್ನು ಸೇರಿಸುವುದರಿಂದ ಆವೃತ್ತಿ ಬಹುಭುಜಾಕೃತಿ ಪೂರ್ಣಗೊಳ್ಳುತ್ತದೆ."
+    }
+  ],
+  "chunk_id": "DATA-STAT-2_concept_1_chunk_029"
+}

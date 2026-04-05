@@ -1,0 +1,240 @@
+{
+  "module_id": "ALG-EXP-2_concept_5",
+  "module_title": "ಬಹುಪದೋಕ್ತಿಯಿಂದ ಬಹುಪದೋಕ್ತಿಯ ಗುಣಾಕಾರ",
+  "podcast_meta": {
+    "estimated_duration_minutes": 5,
+    "total_dialogues": 35,
+    "sections_covered": [
+      "intro",
+      "property",
+      "example",
+      "exam_tips",
+      "recap"
+    ],
+    "content_density": "medium"
+  },
+  "dialogues": [
+    {
+      "index": 1,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ, ಜಿ ಪಿ ಎಸ್ ಟಿ ಆರ್ ಮತ್ತು ಎಚ್ ಎಸ್ ಟಿ ಆರ್ ಗಣಿತದ ಈ ಆಡಿಯೋ ರಿವಿಷನ್ ಸರಣಿಗೆ ಸ್ವಾಗತ. ನಾನು ನಿಮ್ಮ ಗುರು."
+    },
+    {
+      "index": 2,
+      "speaker": "student",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ ಗುರುಗಳೇ. ನಾನು ವಿದ್ಯಾರ್ಥಿ."
+    },
+    {
+      "index": 3,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ಇಂದಿನ ಪಾಡ್ಕಾಸ್ಟ್‌ನಲ್ಲಿ ನಾವು ಬೀಜಗಣಿತದ ಒಂದು ಪ್ರಮುಖ ವಿಷಯ, ಬಹುಪದೋಕ್ತಿಯಿಂದ ಬಹುಪದೋಕ್ತಿಯ ಗುಣಾಕಾರದ ಬಗ್ಗೆ ಚರ್ಚಿಸೋಣ. ಇದು ಪರೀಕ್ಷೆಯಲ್ಲಿ ಖಂಡಿತ ಬರುವ ಪ್ರಶ್ನೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ."
+    },
+    {
+      "index": 4,
+      "speaker": "student",
+      "section": "intro",
+      "script": "ಹೌದು ಗುರುಗಳೇ, ಇದರಲ್ಲಿ ದ್ವಿಪದೋಕ್ತಿ ಮತ್ತು ತ್ರಿಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರ ಸ್ವಲ್ಪ ಗೊಂದಲ ಅನಿಸುತ್ತದೆ. ದಯವಿಟ್ಟು ವಿವರಿಸಿ."
+    },
+    {
+      "index": 5,
+      "speaker": "teacher",
+      "section": "property",
+      "script": "ಖಂಡಿತ. ಮೂಲ ನಿಯಮ ತುಂಬಾ ಸರಳ. ಒಂದು ಬಹುಪದೋಕ್ತಿಯನ್ನು ಇನ್ನೊಂದರಿಂದ ಗುಣಿಸುವಾಗ, ಮೊದಲನೇಯದರ ಪ್ರತಿಯೊಂದು ಪದದಿಂದ, ಎರಡನೇಯದರ ಪ್ರತಿಯೊಂದು ಪದವನ್ನು ಗುಣಿಸಬೇಕು. ಇದನ್ನೇ ನಾವು ವಿತರಣಾ ನಿಯಮ ಅಂತ ಕರೆಯುತ್ತೇವೆ."
+    },
+    {
+      "index": 6,
+      "speaker": "student",
+      "section": "property",
+      "script": "ಅಂದರೆ, ಒಂದು ದ್ವಿಪದೋಕ್ತಿಯನ್ನು ಇನ್ನೊಂದು ದ್ವಿಪದೋಕ್ತಿಯಿಂದ ಗುಣಿಸಿದರೆ ಹೇಗಿರುತ್ತದೆ?"
+    },
+    {
+      "index": 7,
+      "speaker": "teacher",
+      "section": "property",
+      "script": "ಉತ್ತಮ ಪ್ರಶ್ನೆ. ಉದಾಹರಣೆಗೆ, a plus b into c plus d. ಇಲ್ಲಿ, ಮೊದಲು a ಇಂದ c plus d ಯನ್ನು ಗುಣಿಸಬೇಕು, ನಂತರ b ಇಂದ c plus d ಯನ್ನು ಗುಣಿಸಬೇಕು."
+    },
+    {
+      "index": 8,
+      "speaker": "teacher",
+      "section": "property",
+      "script": "ಅಂದರೆ, a into c plus d plus b into c plus d. ಇದನ್ನು ಮತ್ತಷ್ಟು ಬಿಡಿಸಿದಾಗ, a c plus a d plus b c plus b d ಅಂತ ಸಿಗುತ್ತದೆ."
+    },
+    {
+      "index": 9,
+      "speaker": "student",
+      "section": "property",
+      "script": "ಓಹ್, ಹಾಗಾದರೆ ದ್ವಿಪದೋಕ್ತಿ ಮತ್ತು ತ್ರಿಪದೋಕ್ತಿ ಗುಣಾಕಾರಕ್ಕೂ ಇದೇ ನಿಯಮವೇ?"
+    },
+    {
+      "index": 10,
+      "speaker": "teacher",
+      "section": "property",
+      "script": "ಹೌದು, ಸಂಪೂರ್ಣವಾಗಿ ಅದೇ ನಿಯಮ. a plus b into c plus d plus e ಇದ್ದರೆ, ಮೊದಲು a ಇಂದ ಪೂರ್ತಿ ತ್ರಿಪದೋಕ್ತಿಯನ್ನು, ನಂತರ b ಇಂದ ಪೂರ್ತಿ ತ್ರಿಪದೋಕ್ತಿಯನ್ನು ಗುಣಿಸಬೇಕು."
+    },
+    {
+      "index": 11,
+      "speaker": "student",
+      "section": "property",
+      "script": "ಒಂದು ಸಣ್ಣ ಟ್ರಿಕ್ ಇದೆ ಅಲ್ವಾ? ಗುಣಿಸಿದ ಮೇಲೆ ಬರುವ ಪದಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು?"
+    },
+    {
+      "index": 12,
+      "speaker": "teacher",
+      "section": "property",
+      "script": "ಹೌದು, ಸರಿಯಾಗಿ ಹೇಳಿದೆ. ಸರಳೀಕರಿಸುವ ಮುನ್ನ, ಬರುವ ಪದಗಳ ಸಂಖ್ಯೆಯು, ಮೊದಲ ಬಹುಪದೋಕ್ತಿಯ ಪದಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಎರಡನೇ ಬಹುಪದೋಕ್ತಿಯ ಪದಗಳ ಸಂಖ್ಯೆಯ ಗುಣಲಬ್ಧಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ಅಂದರೆ ದ್ವಿಪದೋಕ್ತಿ ಮತ್ತು ತ್ರಿಪದೋಕ್ತಿಯನ್ನು ಗುಣಿಸಿದರೆ ಎರಡು ಇಂಟು ಮೂರು, ಅಂದರೆ ಆರು ಪದಗಳು ಸಿಗುತ್ತವೆ."
+    },
+    {
+      "index": 13,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. x minus four ಮತ್ತು two x plus three ಯನ್ನು ಗುಣಿಸಿ."
+    },
+    {
+      "index": 14,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಸರಿ ಗುರುಗಳೇ. ಇಲ್ಲಿ ನಾವು ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಬೇಕು. ಮೊದಲು x ನಿಂದ two x plus three ಯನ್ನು, ನಂತರ minus four ನಿಂದ two x plus three ಯನ್ನು ಗುಣಿಸಬೇಕು."
+    },
+    {
+      "index": 15,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ನಿಖರವಾಗಿ. ಅದು x into two x plus three, minus four into two x plus three ಅಂತ ಆಗುತ್ತದೆ. ಇದನ್ನು ಬಿಡಿಸಿದರೆ ಏನು ಬರುತ್ತದೆ?"
+    },
+    {
+      "index": 16,
+      "speaker": "student",
+      "section": "example",
+      "script": "x into two x ಅಂದರೆ two x squared. x into three ಅಂದರೆ plus three x."
+    },
+    {
+      "index": 17,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಸರಿ. ಮುಂದುವರಿಸು."
+    },
+    {
+      "index": 18,
+      "speaker": "student",
+      "section": "example",
+      "script": "ನಂತರ, minus four into two x ಅಂದರೆ minus eight x. ಮತ್ತು minus four into plus three ಅಂದರೆ minus twelve."
+    },
+    {
+      "index": 19,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಬಹಳ ಚೆನ್ನಾಗಿ ಹೇಳಿದೆ. ಹಾಗಾಗಿ ನಮಗೆ two x squared plus three x minus eight x minus twelve ಸಿಕ್ಕಿದೆ. ಈಗ ಮುಂದಿನ ಹಂತವೇನು?"
+    },
+    {
+      "index": 20,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಇಲ್ಲಿ ಸಜಾತಿ ಪದಗಳಿವೆ. plus three x ಮತ್ತು minus eight x. ಇವೆರಡನ್ನೂ ಕೂಡಿಸಬೇಕು."
+    },
+    {
+      "index": 21,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಹೌದು. three x minus eight x ಅಂದರೆ minus five x ಆಗುತ್ತದೆ. ಹಾಗಾಗಿ ಅಂತಿಮ ಉತ್ತರ two x squared minus five x minus twelve."
+    },
+    {
+      "index": 22,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಈಗ ಸ್ವಲ್ಪ ಕಠಿಣವಾದ, ಐದು ಅಂಕಗಳಿಗೆ ಕೇಳಬಹುದಾದ ಪ್ರಶ್ನೆಯನ್ನು ನೋಡೋಣ. ಸಂಕ್ಷೇಪಿಸಿ: a plus b into two a minus three b plus c, minus two a minus three b into c."
+    },
+    {
+      "index": 23,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಓಹ್, ಇದರಲ್ಲಿ ಎರಡು ಭಾಗಗಳಿವೆ. ಮೊದಲು ದ್ವಿಪದೋಕ್ತಿ ಮತ್ತು ತ್ರಿಪದೋಕ್ತಿಯ ಗುಣಾಕಾರ, ನಂತರ ಅದರಿಂದ ಇನ್ನೊಂದು ಗುಣಲಬ್ಧವನ್ನು ಕಳೆಯಬೇಕು."
+    },
+    {
+      "index": 24,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಹೌದು. ಮೊದಲ ಭಾಗ, a plus b into two a minus three b plus c ಯನ್ನು ಬಿಡಿಸೋಣ. a ಇಂದ ಗುಣಿಸಿದಾಗ two a squared minus three a b plus a c ಸಿಗುತ್ತದೆ."
+    },
+    {
+      "index": 25,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ನಂತರ plus b ಇಂದ ಗುಣಿಸಿದಾಗ, plus two a b minus three b squared plus b c ಸಿಗುತ್ತದೆ. ಇದರಲ್ಲಿ ಸಜಾತಿ ಪದಗಳನ್ನು ಕೂಡಿಸಿದರೆ, two a squared minus a b plus a c minus three b squared plus b c ಅಂತ ಬರುತ್ತದೆ."
+    },
+    {
+      "index": 26,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಸರಿ, ಮೊದಲ ಭಾಗದ ಉತ್ತರ ಸಿಕ್ಕಿತು. ಈಗ ಎರಡನೇ ಭಾಗ, two a minus three b into c. ಇದು ಸುಲಭ. two a c minus three b c."
+    },
+    {
+      "index": 27,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಕರೆಕ್ಟ್. ಈಗ ಮೊದಲ ಭಾಗದ ಉತ್ತರದಿಂದ ಎರಡನೇ ಭಾಗದ ಉತ್ತರವನ್ನು ಕಳೆಯಬೇಕು. ಇಲ್ಲಿ ಆವರಣ ಮತ್ತು ಚಿಹ್ನೆಗಳ ಬಗ್ಗೆ ಬಹಳ ಎಚ್ಚರವಿರಬೇಕು."
+    },
+    {
+      "index": 28,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಹೌದು, ಮೈನಸ್ ಚಿಹ್ನೆ ಇರುವುದರಿಂದ, ಎರಡನೇ ಭಾಗದ ಪದಗಳ ಚಿಹ್ನೆಗಳು ಬದಲಾಗುತ್ತವೆ. ಅಂದರೆ minus two a c plus three b c ಅಂತ ಆಗುತ್ತದೆ."
+    },
+    {
+      "index": 29,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಅತ್ಯುತ್ತಮ. ಈಗ ಎಲ್ಲವನ್ನೂ ಒಟ್ಟಿಗೆ ಬರೆದು ಸಜಾತಿ ಪದಗಳನ್ನು ಜೋಡಿಸೋಣ. two a squared minus a b minus three b squared plus b c plus a c minus two a c plus three b c."
+    },
+    {
+      "index": 30,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಇಲ್ಲಿ b c ಪದಗಳನ್ನು ನೋಡಿದರೆ, plus b c plus three b c ಅಂದರೆ plus four b c ಆಗುತ್ತದೆ. ಹಾಗೆಯೇ, a c ಪದಗಳನ್ನು ನೋಡಿದರೆ, plus a c minus two a c ಅಂದರೆ minus a c ಆಗುತ್ತದೆ. ಅಂತಿಮ ಉತ್ತರ, two a squared minus a b minus three b squared plus four b c minus a c."
+    },
+    {
+      "index": 31,
+      "speaker": "student",
+      "section": "exam_tips",
+      "script": "ಗುರುಗಳೇ, ಪರೀಕ್ಷೆಯಲ್ಲಿ ಈ ರೀತಿಯ ಪ್ರಶ್ನೆಗಳು ಹೇಗೆ ಬರುತ್ತವೆ?"
+    },
+    {
+      "index": 32,
+      "speaker": "teacher",
+      "section": "exam_tips",
+      "script": "ಜಿ ಪಿ ಎಸ್ ಟಿ ಆರ್ ಪರೀಕ್ಷೆಯಲ್ಲಿ, ಸರಳ ಗುಣಾಕಾರಗಳು ಎಂ ಸಿ ಕ್ಯೂ ಅಥವಾ ಎರಡು ಅಂಕಗಳಿಗೆ ಬರಬಹುದು. ಆದರೆ ನಾವು ಎರಡನೇ ಉದಾಹರಣೆ ಬಿಡಿಸಿದ ಹಾಗೆ, ಸಂಕೀರ್ಣ ಸರಳೀಕರಣದ ಪ್ರಶ್ನೆಗಳು ಐದು ಅಂಕಗಳಿಗೆ ಬರುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು."
+    },
+    {
+      "index": 33,
+      "speaker": "student",
+      "section": "exam_tips",
+      "script": "ಇದರಲ್ಲಿ ಮಾಡುವ ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು ಯಾವುವು?"
+    },
+    {
+      "index": 34,
+      "speaker": "teacher",
+      "section": "exam_tips",
+      "script": "ಮುಖ್ಯವಾಗಿ ಮೂರು ತಪ್ಪುಗಳು. ಒಂದು, ಗುಣಿಸುವಾಗ ಯಾವುದಾದರೂ ಒಂದು ಜೋಡಿ ಪದಗಳನ್ನು ಮರೆತುಬಿಡುವುದು. ಎರಡು, ಕೊನೆಯಲ್ಲಿ ಸಜಾತಿ ಪದಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸದೇ ಇರುವುದು. ಮತ್ತು ಮೂರನೆಯದು, ಮೈನಸ್ ಚಿಹ್ನೆಯಿಂದ ಗುಣಿಸುವಾಗ ಚಿಹ್ನೆಗಳನ್ನು ಬದಲಾಯಿಸಲು ಮರೆಯುವುದು."
+    },
+    {
+      "index": 35,
+      "speaker": "teacher",
+      "section": "recap",
+      "script": "ಹಾಗಾದರೆ, ಇಂದಿನ ಪಾಠದ ಸಾರಾಂಶ. ಬಹುಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರದಲ್ಲಿ, ಮೊದಲನೇಯದರ ಪ್ರತಿ ಪದದಿಂದ ಎರಡನೇಯದರ ಪ್ರತಿ ಪದವನ್ನು ಗುಣಿಸಬೇಕು. ಚಿಹ್ನೆಗಳ ಬಗ್ಗೆ ಎಚ್ಚರವಿರಲಿ. ಗುಣಾಕಾರದ ನಂತರ ಸಜಾತಿ ಪದಗಳನ್ನು ಕೂಡಿಸಿ ಸರಳೀಕರಿಸಬೇಕು."
+    },
+    {
+      "index": 36,
+      "speaker": "student",
+      "section": "recap",
+      "script": "ಅಂದರೆ, ಯಾವುದೇ ಪದವನ್ನು ಬಿಡದೆ, ವ್ಯವಸ್ಥಿತವಾಗಿ ಗುಣಾಕಾರ ಮಾಡಿ, ಕೊನೆಯಲ್ಲಿ ಸಜಾತಿ ಪದಗಳನ್ನು ಜೋಡಿಸುವುದೇ ಯಶಸ್ಸಿನ ಕೀಲಿ."
+    },
+    {
+      "index": 37,
+      "speaker": "teacher",
+      "section": "recap",
+      "script": "ಖಂಡಿತ. ಚೆನ್ನಾಗಿ ಅಭ್ಯಾಸ ಮಾಡಿ. ಮುಂದಿನ ಪಾಡ್ಕಾಸ್ಟ್‌ನಲ್ಲಿ ಇನ್ನೊಂದು ವಿಷಯದೊಂದಿಗೆ ಭೇಟಿಯಾಗೋಣ. ಎಲ್ಲರಿಗೂ ಶುಭವಾಗಲಿ."
+    }
+  ]
+}

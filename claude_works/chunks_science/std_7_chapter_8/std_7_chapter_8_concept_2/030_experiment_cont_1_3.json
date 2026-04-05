@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 2",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಆಲೂಗಡ್ಡೆಯನ್ನು ಸಣ್ಣ ತುಂಡುಗಳಾಗಿ ಕತ್ತರಿಸಿ. ಆದರೆ, ಪ್ರತಿಯೊಂದು ತುಂಡಿನಲ್ಲಿ ಕನಿಷ್ಠ ಒಂದು 'ಕಣ್ಣು' ಇರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಈಗ, ಮಣ್ಣು ತುಂಬಿದ ಕುಂಡವನ್ನು ತೆಗೆದುಕೊಂಡು, ಈ ಆಲೂಗಡ್ಡೆಯ ತುಂಡುಗಳನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ನೆಡಿ. ನೆಟ್ಟ ನಂತರ, ಅವುಗಳಿಗೆ ನಿಯಮಿತವಾಗಿ ನೀರು ಹಾಕಿ. ಮಣ್ಣು ಯಾವಾಗಲೂ ಸ್ವಲ್ಪ ತೇವವಾಗಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ, ಆದರೆ ಹೆಚ್ಚು ನೀರು ಹಾಕಬೇಡಿ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಆಲೂಗಡ್ಡೆಯನ್ನು ಸಣ್ಣ ತುಂಡುಗಳಾಗಿ ಕತ್ತರಿಸಿ. ಆದರೆ, ಪ್ರತಿಯೊಂದು ತುಂಡಿನಲ್ಲಿ ಕನಿಷ್ಠ ಒಂದು 'ಕಣ್ಣು' ಇರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ. ಈಗ, ಮಣ್ಣು ತುಂಬಿದ ಕುಂಡವನ್ನು ತೆಗೆದುಕೊಂಡು, ಈ ಆಲೂಗಡ್ಡೆಯ ತುಂಡುಗಳನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ನೆಡಿ. ನೆಟ್ಟ ನಂತರ, ಅವುಗಳಿಗೆ ನಿಯಮಿತವಾಗಿ ನೀರು ಹಾಕಿ. ಮಣ್ಣು ಯಾವಾಗಲೂ ಸ್ವಲ್ಪ ತೇವವಾಗಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ, ಆದರೆ ಹೆಚ್ಚು ನೀರು ಹಾಕಬೇಡಿ.",
+  "display_bullets": [
+    "ಪ್ರತಿ ತುಂಡಿನಲ್ಲಿ ಒಂದು 'ಕಣ್ಣು' ಇರುವಂತೆ ಆಲೂಗಡ್ಡೆಯನ್ನು ಕತ್ತರಿಸಿ.",
+    "ಈ ತುಂಡುಗಳನ್ನು ಮಣ್ಣು ತುಂಬಿದ ಕುಂಡದಲ್ಲಿ ನೆಡಿ.",
+    "ನಿಯಮಿತವಾಗಿ ನೀರು ಹಾಕಿ, ಮಣ್ಣನ್ನು ತೇವವಾಗಿಡಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A sequence of three small images. 1. A hand cutting a potato into pieces, each with an eye. 2. A hand planting a piece into a pot of soil. 3. A hand watering the pot.",
+    "labels": "ಕತ್ತರಿಸುವುದು, ನೆಡುವುದು, ನೀರು ಹಾಕುವುದು",
+    "scientific_significance": "Illustrates the practical steps of planting potato pieces for vegetative propagation.",
+    "placeholder_note": "Image to be generated."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_7_chapter_8_concept_2_chunk_030"
+}

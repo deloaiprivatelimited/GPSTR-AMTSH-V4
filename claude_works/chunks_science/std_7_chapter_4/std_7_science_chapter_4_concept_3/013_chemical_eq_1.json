@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಈಗ ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಗೆ ಒಂದು ಪ್ರಮುಖ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಜೊತೆ ವರ್ತಿಸಿದಾಗ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ಮತ್ತು ನೀರು ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತವೆ. ಇದು ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲಗಳು ಪರಸ್ಪರ ತಟಸ್ಥಗೊಳ್ಳುವ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಗೆ ಒಂದು ಪ್ರಮುಖ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲವು (HCl) ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) ಜೊತೆ ವರ್ತಿಸಿದಾಗ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ (NaCl) ಮತ್ತು ನೀರು (H₂O) ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತವೆ. ಇದು ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲಗಳು ಪರಸ್ಪರ ತಟಸ್ಥಗೊಳ್ಳುವ ಪ್ರಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "classic_dark",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "HCl(aq) + NaOH(aq) \\rightarrow NaCl(aq) + H_2O(l)",
+    "placeholder_note": "Balanced chemical equation for the neutralization of HCl and NaOH."
+  },
+  "chunk_id": "std_7_science_chapter_4_concept_3_chunk_013"
+}

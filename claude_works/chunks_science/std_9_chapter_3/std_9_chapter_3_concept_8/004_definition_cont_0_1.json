@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ನೀರಿನ ಅಣುರಾಶಿ",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಅಣುರಾಶಿಯನ್ನು ಹೇಗೆ ಲೆಕ್ಕ ಹಾಕುವುದು ಎಂದು ನೋಡೋಣ. ನೀರಿನ ಅಣುವಿನ ಸೂತ್ರ H two O. ಮೊದಲಿಗೆ, ಇದರಲ್ಲಿ ಯಾವೆಲ್ಲಾ ಪರಮಾಣುಗಳಿವೆ ಎಂದು ಗುರುತಿಸಬೇಕು. ಇಲ್ಲಿ ಎರಡು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳು ಮತ್ತು ಒಂದು ಆಕ್ಸಿಜನ್ ಪರಮಾಣು ಇದೆ. ಎರಡನೆಯದಾಗಿ, ಅವುಗಳ ಪರಮಾಣು ರಾಶಿಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಬೇಕು. ಹೈಡ್ರೋಜನ್‌ನ ಪರಮಾಣು ರಾಶಿ ಒಂದು ಯು ಮತ್ತು ಆಕ್ಸಿಜನ್‌ನದ್ದು ಹದಿನಾರು ಯು. ಕೊನೆಯದಾಗಿ, ಇವುಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಬೇಕು. ಅಂದರೆ, ಎರಡು ಇಂಟು ಒಂದು, ಪ್ಲಸ್ ಹದಿನಾರು. ಇದು ನಮಗೆ ಹದಿನೆಂಟು ಯು ಎಂದು ಉತ್ತರ ನೀಡುತ್ತದೆ. ಹೀಗೆ, ನೀರಿನ ಅಣುರಾಶಿ ಹದಿನೆಂಟು ಯು ಆಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯ ಮೂಲಕ ಅಣುರಾಶಿಯನ್ನು ಹೇಗೆ ಲೆಕ್ಕ ಹಾಕುವುದು ಎಂದು ನೋಡೋಣ. ನೀರಿನ ಅಣುವಿನ ಸೂತ್ರ H₂O. ಮೊದಲಿಗೆ, ಇದರಲ್ಲಿ ಯಾವೆಲ್ಲಾ ಪರಮಾಣುಗಳಿವೆ ಎಂದು ಗುರುತಿಸಬೇಕು. ಇಲ್ಲಿ 2 ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳು ಮತ್ತು 1 ಆಕ್ಸಿಜನ್ ಪರಮಾಣು ಇದೆ. ಎರಡನೆಯದಾಗಿ, ಅವುಗಳ ಪರಮಾಣು ರಾಶಿಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಬೇಕು. ಹೈಡ್ರೋಜನ್‌ನ ಪರಮಾಣು ರಾಶಿ 1 u ಮತ್ತು ಆಕ್ಸಿಜನ್‌ನದ್ದು 16 u. ಕೊನೆಯದಾಗಿ, ಇವುಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಬೇಕು. ಅಂದರೆ, (2 × 1) + 16. ಇದು ನಮಗೆ 18 u ಎಂದು ಉತ್ತರ ನೀಡುತ್ತದೆ. ಹೀಗೆ, ನೀರಿನ ಅಣುರಾಶಿ 18 u ಆಗಿದೆ.",
+  "display_bullets": [
+    "ಅಣುವಿನ ಸೂತ್ರ: H₂O",
+    "ಪರಮಾಣುಗಳು: 2 ಹೈಡ್ರೋಜನ್ (H) ಮತ್ತು 1 ಆಕ್ಸಿಜನ್ (O).",
+    "ಪರಮಾಣು ರಾಶಿಗಳು: H = 1 u, O = 16 u.",
+    "ಲೆಕ್ಕಾಚಾರ: (2 × 1 u) + (1 × 16 u) = 18 u."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing two small circles labeled 'H' and one larger circle labeled 'O' connected to form a water molecule. The calculation '2(H) + 1(O) = 2(1u) + 1(16u) = 18u' is shown below the molecule.",
+    "labels": "H, O, 1u, 16u, 18u",
+    "scientific_significance": "Visual representation of the composition of a water molecule and the summation of atomic masses to calculate its molecular mass.",
+    "placeholder_note": "Image to be generated showing H2O molecule and its molecular mass calculation."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "std_9_chapter_3_concept_8_def_1_slide_2",
+  "chunk_id": "std_9_chapter_3_concept_8_chunk_004"
+}

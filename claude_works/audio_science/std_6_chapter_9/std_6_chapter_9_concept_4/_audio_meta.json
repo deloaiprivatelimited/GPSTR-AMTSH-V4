@@ -1,0 +1,92 @@
+{
+  "module_id": "std_6_chapter_9_concept_4",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:07:10",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "68d57a289ec3c9d7fc9813d1c39e7265",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 23.251,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "slide",
+      "script_words": 33,
+      "generated_at": "2026-04-02 13:05:52"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "29b2745fa044c9bed113c49b19ba0eda",
+      "wav_file": "001_intro_0.wav",
+      "duration": 45.331,
+      "slide_title": "ಪರಿಚಯ: ತೂರುವಿಕೆ (Winnowing)",
+      "type": "slide",
+      "script_words": 65,
+      "generated_at": "2026-04-02 13:06:13"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "1f9581c8738eb9c598e2ad4e55a96aa8",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 57.411,
+      "slide_title": "ತೂರುವಿಕೆಯ ಹಿಂದಿನ ತತ್ವ",
+      "type": "definition",
+      "script_words": 67,
+      "generated_at": "2026-04-02 13:06:19"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "1fa326bbfc5d3fd7b744fa8a62485d48",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 53.411,
+      "slide_title": "ತೂರುವಿಕೆ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+      "type": "definition",
+      "script_words": 74,
+      "generated_at": "2026-04-02 13:06:34"
+    },
+    "006_property_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "4d2be7184e51414789330db7ab020c9f",
+      "wav_file": "006_property_0.wav",
+      "duration": 50.651,
+      "slide_title": "ತೂರುವಿಕೆ: ತತ್ವ",
+      "type": "concept_explanation",
+      "script_words": 73,
+      "generated_at": "2026-04-02 13:06:39"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "483a972f7c4cb9bf2bd6edbe09286fd9",
+      "wav_file": "007_recap_0.wav",
+      "duration": 43.651,
+      "slide_title": "ಸಾರಾಂಶ: ತೂರುವಿಕೆ",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-04-02 13:07:04"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "d4b1519064744a71c12d2d513def7ea2",
+      "wav_file": "003_definition_0.wav",
+      "duration": 48.211,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ತೂರುವಿಕೆ (Winnowing)",
+      "type": "definition",
+      "script_words": 75,
+      "generated_at": "2026-04-02 13:07:10"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, z ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ನಾಲ್ಕು z ಮೈನಸ್ ಹನ್ನೆರಡು ಇದರ ಅಪವರ್ತನಗಳು z ಪ್ಲಸ್ ಎರಡು ಮತ್ತು z ಮೈನಸ್ ಆರು. ಸರಿಯಾದ ಸಂಖ್ಯೆಗಳನ್ನು ಆಯ್ಕೆಮಾಡುವಾಗ ಚಿಹ್ನೆಗಳ ಬಗ್ಗೆ ಜಾಗರೂಕರಾಗಿರಿ. ಇಲ್ಲಿ, ಗುಣಲಬ್ಧ ಮತ್ತು ಮೊತ್ತ ಎರಡೂ ಋಣಾತ್ಮಕವಾಗಿದ್ದವು, ಇದು ದೊಡ್ಡ ಅಪವರ್ತನವು ಋಣಾತ್ಮಕವಾಗಿರಬೇಕು ಎಂದು ಸೂಚಿಸುತ್ತದೆ.",
+  "script_display": "ಹೀಗಾಗಿ, $z^2 - 4z - 12$ ಇದರ ಅಪವರ್ತನಗಳು $(z+2)$ ಮತ್ತು $(z-6)$. ಸರಿಯಾದ ಸಂಖ್ಯೆಗಳನ್ನು ಆಯ್ಕೆಮಾಡುವಾಗ ಚಿಹ್ನೆಗಳ ಬಗ್ಗೆ ಜಾಗರೂಕರಾಗಿರಿ. ಇಲ್ಲಿ, ಗುಣಲಬ್ಧ ಮತ್ತು ಮೊತ್ತ ಎರಡೂ ಋಣಾತ್ಮಕವಾಗಿದ್ದವು, ಇದು ದೊಡ್ಡ ಅಪವರ್ತನವು ಋಣಾತ್ಮಕವಾಗಿರಬೇಕು ಎಂದು ಸೂಚಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard_key_takeaway",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-FAC-2_example_12",
+  "final_answer": "$(z+2)(z-6)$",
+  "final_answer_display": "$z^2 - 4z - 12 = (z+2)(z-6)$",
+  "chunk_id": "ALG-FAC-2_concept_5_chunk_018"
+}

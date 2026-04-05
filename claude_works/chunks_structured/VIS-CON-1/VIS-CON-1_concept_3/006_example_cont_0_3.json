@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪರಿಶೀಲನೆ",
+  "script": "ಹೀಗೆ, 6 ಸೆಂಟಿಮೀಟರ್ ಬಾಹುವಿರುವ ಪಿ ಕ್ಯೂ ಆರ್ ಎಸ್ ಚೌಕವು ರಚನೆಯಾಗಿದೆ. ನಮ್ಮ ರಚನೆ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು, ನಾವು ಕೆಲವು ಪರಿಶೀಲನೆಗಳನ್ನು ಮಾಡಬಹುದು. ಮೊದಲನೆಯದಾಗಿ, ಅಳತೆಪಟ್ಟಿಯಿಂದ ಕ್ಯೂ ಆರ್ ನ ಉದ್ದವನ್ನು ಅಳೆಯಿರಿ, ಅದು 6 ಸೆಂಟಿಮೀಟರ್ ಇರಬೇಕು, ಮತ್ತು ಕೋನ ಆರ್ ಹಾಗೂ ಕೋನ ಎಸ್ ಗಳನ್ನು ಅಳೆದರೆ, ಅವು 90 ಡಿಗ್ರಿ ಇರಬೇಕು. ಎರಡನೆಯದಾಗಿ, ಒಂದು ಪ್ರಮುಖ ಎಚ್ಚರಿಕೆ: ಕೋನಗಳು 90 ಡಿಗ್ರಿ ಇಲ್ಲದಿದ್ದರೆ, ಅದು ಚೌಕವಾಗದೆ ವಜ್ರಾಕೃತಿಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಕೋನಗಳ ನಿಖರತೆ ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಹೀಗೆ, $6$ cm ಬಾಹುವಿರುವ $PQRS$ ಚೌಕವು ರಚನೆಯಾಗಿದೆ. ನಮ್ಮ ರಚನೆ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು, ನಾವು ಕೆಲವು ಪರಿಶೀಲನೆಗಳನ್ನು ಮಾಡಬಹುದು. ಮೊದಲನೆಯದಾಗಿ, ಅಳತೆಪಟ್ಟಿಯಿಂದ $QR$ ನ ಉದ್ದವನ್ನು ಅಳೆಯಿರಿ, ಅದು $6$ cm ಇರಬೇಕು, ಮತ್ತು $\\angle R$ ಹಾಗೂ $\\angle S$ ಗಳನ್ನು ಅಳೆದರೆ, ಅವು $90^\\circ$ ಇರಬೇಕು. ಎರಡನೆಯದಾಗಿ, ಒಂದು ಪ್ರಮುಖ ಎಚ್ಚರಿಕೆ: ಕೋನಗಳು $90^\\circ$ ಇಲ್ಲದಿದ್ದರೆ, ಅದು ಚೌಕವಾಗದೆ ವಜ್ರಾಕೃತಿಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಕೋನಗಳ ನಿಖರತೆ ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಪರಿಶೀಲನೆ: $QR = 6$ cm, $\\angle R = 90^\\circ$, ಮತ್ತು $\\angle S = 90^\\circ$ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.",
+    "ಪ್ರಮುಖ ಎಚ್ಚರಿಕೆ: ಕೋನಗಳು $90^\\circ$ ಇಲ್ಲದಿದ್ದರೆ, ಅದು ಚೌಕವಾಗದೆ ವಜ್ರಾಕೃತಿಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The final constructed square PQRS. All side lengths are labeled as 6 cm, and all four interior angles are marked as 90 degrees to emphasize the properties and verification.",
+    "labels": "P, Q, R, S, 6 cm, 90°",
+    "mathematical_significance": "This visual represents the final, verified solution, confirming that the constructed figure meets all the properties of a square with the given side length.",
+    "placeholder_note": "Image of the final, labeled square PQRS."
+  },
+  "source_example_id": "VIS-CON-1_example_2",
+  "steps": [],
+  "final_answer": "6 cm ಬಾಹುವಿರುವ PQRS ಚೌಕವು ರಚನೆಯಾಗಿದೆ.",
+  "final_answer_display": "$PQRS$ ಎಂಬುದು $6$ cm ಬಾಹುವಿರುವ ಚೌಕವಾಗಿದೆ.",
+  "chunk_id": "VIS-CON-1_concept_3_chunk_006"
+}

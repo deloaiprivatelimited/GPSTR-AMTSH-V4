@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ ಪರಿಚಯ",
+  "script": "ಈಗ ನಾವು ಬೆಳಕಿನ ಪ್ರತಿಫಲನದ ನಿಯಮಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಸ್ಯೆ ಹೀಗಿದೆ: ಒಂದು ಬೆಳಕಿನ ಕಿರಣವು ಸಮತಲ ದರ್ಪಣದ ಮೇಲೆ ಬಿದ್ದಾಗ, ಪತನ ಕಿರಣ ಮತ್ತು ಪ್ರತಿಫಲಿತ ಕಿರಣದ ನಡುವಿನ ಕೋನವು 80 ಡಿಗ್ರಿ ಆಗಿದೆ. ಹಾಗಾದರೆ ಪತನ ಕೋನ ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶವೆಂದರೆ, ಪತನ ಕೋನ ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನಗಳ ಒಟ್ಟು ಮೊತ್ತ 80 ಡಿಗ್ರಿ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು ಪತನ ಕೋನ, ಅಂದರೆ ಆಂಗಲ್ i, ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನ, ಅಂದರೆ ಆಂಗಲ್ r.",
+  "script_display": "ಈಗ ನಾವು ಬೆಳಕಿನ ಪ್ರತಿಫಲನದ ನಿಯಮಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. \n\n**ಸಮಸ್ಯೆ:** ಒಂದು ಬೆಳಕಿನ ಕಿರಣವು ಸಮತಲ ದರ್ಪಣದ ಮೇಲೆ ಬಿದ್ದಾಗ, ಪತನ ಕಿರಣ ಮತ್ತು ಪ್ರತಿಫಲಿತ ಕಿರಣದ ನಡುವಿನ ಕೋನವು 80° ಆಗಿದೆ. ಹಾಗಾದರೆ ಪತನ ಕೋನ ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.\n\n**ದತ್ತಾಂಶ:** ಪತನ ಕೋನ ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನಗಳ ಒಟ್ಟು ಮೊತ್ತ 80° ಆಗಿದೆ. (∠i + ∠r = 80°)\n\n**ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು:** ಪತನ ಕೋನ (∠i) ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನ (∠r).",
+  "display_bullets": [
+    "**ಸಮಸ್ಯೆ:** ಪತನ ಕಿರಣ ಮತ್ತು ಪ್ರತಿಫಲಿತ ಕಿರಣದ ನಡುವಿನ ಕೋನ 80° ಆದರೆ, ಪತನ ಕೋನ ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "**ದತ್ತಾಂಶ:** ∠i + ∠r = 80°",
+    "**ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು:** ಪತನ ಕೋನ (∠i) ಮತ್ತು ಪ್ರತಿಫಲನ ಕೋನ (∠r)"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a plane mirror. An incident ray hits the mirror, and a reflected ray bounces off. The normal is a dotted line perpendicular to the mirror at the point of incidence. The angle between the incident ray and the reflected ray is labeled as 80°.",
+    "labels": "Plane Mirror, Incident Ray, Reflected Ray, Normal, Angle between incident and reflected ray = 80°",
+    "scientific_significance": "Visualizing the problem helps in understanding that the given 80° is the sum of the angle of incidence (∠i) and the angle of reflection (∠r).",
+    "placeholder_note": "Image to be generated showing the setup described."
+  },
+  "source_example_id": "std_8_chapter_13_example_1",
+  "chunk_id": "std_8_chapter_13_concept_1_chunk_028"
+}

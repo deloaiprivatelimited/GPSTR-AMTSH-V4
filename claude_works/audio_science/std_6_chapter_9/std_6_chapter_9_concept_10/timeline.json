@@ -1,0 +1,90 @@
+{
+  "module_id": "std_6_chapter_9_concept_10",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Autonoe",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 306.837,
+  "total_duration_formatted": "5:06",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_9_concept_10_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಕಡೆಯುವಿಕೆ (Churning)",
+      "type": "intro",
+      "start": 0.0,
+      "end": 44.531,
+      "duration": 44.531,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_10_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 45.131,
+      "end": 71.902,
+      "duration": 26.771,
+      "script_words": 36
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_10_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಕಡೆಯುವಿಕೆ (Churning)",
+      "type": "definition",
+      "start": 72.502,
+      "end": 116.313,
+      "duration": 43.811,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_10_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಮೊಸರಿನಿಂದ ಬೆಣ್ಣೆ",
+      "type": "definition",
+      "start": 116.913,
+      "end": 164.164,
+      "duration": 47.251,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_10_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಹೋಲಿಕೆ: ಯಾವಾಗ ಬಳಸಬೇಕು?",
+      "type": "definition",
+      "start": 164.764,
+      "end": 221.935,
+      "duration": 57.171,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_10_chunk_006",
+      "chunk_file": "006_property_0.json",
+      "wav_file": "006_property_0.wav",
+      "slide_title": "ಕಡೆಯುವಿಕೆ: ತತ್ವ",
+      "type": "concept_explanation",
+      "start": 222.535,
+      "end": 272.626,
+      "duration": 50.091,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_10_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ (Recap)",
+      "type": "recap",
+      "start": 273.226,
+      "end": 306.237,
+      "duration": 33.011,
+      "script_words": 44
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರಗಳು ಹೀಗಿವೆ: ತ್ರಿಭುಜ PQR ನ ವಿಸ್ತೀರ್ಣ ಹತ್ತು ಚದರ ಸೆಂಟಿಮೀಟರ್, ಮತ್ತು ಎತ್ತರ QM ನ ಉದ್ದ ಎರಡು ಪಾಯಿಂಟ್ ಐದು ಸೆಂಟಿಮೀಟರ್. ಇಲ್ಲಿ ಮುಖ್ಯವಾದ ಅಂಶವೆಂದರೆ, ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಈ ಗುಣವನ್ನು ಬಳಸಿ, ನಮಗೆ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಒಂದು ಬಾಹು ತಿಳಿದಿದ್ದರೆ, ಆ ಬಾಹುವಿಗೆ ಸಂಬಂಧಿಸಿದ ಎತ್ತರವನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರಗಳು ಹೀಗಿವೆ: ΔPQR ನ ವಿಸ್ತೀರ್ಣ 10 cm², ಮತ್ತು ಎತ್ತರ QM ನ ಉದ್ದ 2.5 cm. ಇಲ್ಲಿ ಮುಖ್ಯವಾದ ಅಂಶವೆಂದರೆ, ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಈ ಗುಣವನ್ನು ಬಳಸಿ, ನಮಗೆ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಒಂದು ಬಾಹು ತಿಳಿದಿದ್ದರೆ, ಆ ಬಾಹುವಿಗೆ ಸಂಬಂಧಿಸಿದ ಎತ್ತರವನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಬಹುದು.",
+  "display_bullets": [
+    "(i) ΔPQR ನ ವಿಸ್ತೀರ್ಣ = 10 cm²",
+    "(ii) ಎತ್ತರ QM = 2.5 cm"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_highlight",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "MEN-AREA-1_example_5",
+  "steps": [],
+  "final_answer": "(i) ವಿಸ್ತೀರ್ಣ 10 cm². (ii) ಎತ್ತರ QM 2.5 cm.",
+  "final_answer_display": "ವಿಸ್ತೀರ್ಣ = 10 cm², ಎತ್ತರ QM = 2.5 cm",
+  "chunk_id": "MEN-AREA-1_concept_4_chunk_016"
+}

@@ -1,0 +1,101 @@
+{
+  "module_id": "std_8_chapter_10_concept_5",
+  "chapter_code": "std_8_chapter_10",
+  "voice": "Kore",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 345.648,
+  "total_duration_formatted": "5:45",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_10_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಶ್ರವ್ಯ ಮತ್ತು ಅಶ್ರವ್ಯ ಶಬ್ದಗಳು",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 49.851,
+      "duration": 49.851,
+      "script_words": 68
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 50.451,
+      "end": 84.942,
+      "duration": 34.491,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_5_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಆವೃತ್ತಿಯ ಆಧಾರದ ಮೇಲೆ ಶಬ್ದದ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "start": 85.542,
+      "end": 126.553,
+      "duration": 41.011,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_5_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಶ್ರವ್ಯ ಶಬ್ದ (Audible Sound)",
+      "type": "concept_explanation",
+      "start": 127.153,
+      "end": 171.724,
+      "duration": 44.571,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_5_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಅಶ್ರವ್ಯ ಶಬ್ದ (Inaudible Sound)",
+      "type": "concept_explanation",
+      "start": 172.324,
+      "end": 213.175,
+      "duration": 40.851,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_5_chunk_006",
+      "chunk_file": "006_classification_cont_0_3.json",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "slide_title": "ಅವಶ್ರವಣ ಶಬ್ದ (Infrasound)",
+      "type": "concept_explanation",
+      "start": 213.775,
+      "end": 259.626,
+      "duration": 45.851,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_5_chunk_007",
+      "chunk_file": "007_classification_cont_0_4.json",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "slide_title": "ಶ್ರವಣಾತೀತ ಶಬ್ದ (Ultrasound)",
+      "type": "concept_explanation",
+      "start": 260.226,
+      "end": 307.677,
+      "duration": 47.451,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_5_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 308.277,
+      "end": 345.048,
+      "duration": 36.771,
+      "script_words": 54
+    }
+  ]
+}

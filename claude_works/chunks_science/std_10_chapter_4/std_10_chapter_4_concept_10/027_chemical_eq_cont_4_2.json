@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರತಿವರ್ತಕಗಳು (Reactants)",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುವ ಪ್ರತಿವರ್ತಕಗಳು ಯಾವುವು? ಮೊದಲನೆಯದು ಎಥನೋಯಿಕ್ ಆಮ್ಲ, ಇದರ ರಾಸಾಯನಿಕ ಸೂತ್ರ ಸಿ ಎಚ್ ತ್ರೀ ಸಿ ಓ ಓ ಎಚ್. ಇದನ್ನು ನಾವು ಸಾಮಾನ್ಯವಾಗಿ ಅಸಿಟಿಕ್ ಆಮ್ಲ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಎರಡನೆಯದು ಸೋಡಿಯಂ ಹೈಡೋಜನ್‌ಕಾರ್ಬೋನೇಟ್, ಇದರ ಸೂತ್ರ ಎನ್ ಎ ಎಚ್ ಸಿ ಓ ತ್ರೀ. ಇದನ್ನು ಅಡುಗೆ ಸೋಡಾ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸುವ ಪ್ರತಿವರ್ತಕಗಳು ಯಾವುವು? ಮೊದಲನೆಯದು ಎಥನೋಯಿಕ್ ಆಮ್ಲ ($CH_3COOH$). ಇದನ್ನು ನಾವು ಸಾಮಾನ್ಯವಾಗಿ ಅಸಿಟಿಕ್ ಆಮ್ಲ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಎರಡನೆಯದು ಸೋಡಿಯಂ ಹೈಡೋಜನ್‌ಕಾರ್ಬೋನೇಟ್ ($NaHCO_3$). ಇದನ್ನು ಅಡುಗೆ ಸೋಡಾ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಎಥನೋಯಿಕ್ ಆಮ್ಲ ($CH_3COOH$): ದುರ್ಬಲ ಆಮ್ಲ, ವಿನೇಗರ್‌ನ ಮುಖ್ಯ ಘಟಕ.",
+    "ಸೋಡಿಯಂ ಹೈಡೋಜನ್‌ಕಾರ್ಬೋನೇಟ್ ($NaHCO_3$): ಅಡುಗೆ ಸೋಡಾ, ಒಂದು ಪ್ರತ್ಯಾಮ್ಲೀಯ ಲವಣ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎಡಭಾಗದಲ್ಲಿ ವಿನೇಗರ್ ಬಾಟಲ್ ಮತ್ತು ಎಥನೋಯಿಕ್ ಆಮ್ಲದ ಅಣು ರಚನೆ. ಬಲಭಾಗದಲ್ಲಿ ಅಡುಗೆ ಸೋಡಾದ ಪೌಡರ್ ಮತ್ತು ಸೋಡಿಯಂ ಹೈಡೋಜನ್‌ಕಾರ್ಬೋನೇಟ್‌ನ ಅಣು ರಚನೆ.",
+    "labels": "ಎಥನೋಯಿಕ್ ಆಮ್ಲ, ಸೋಡಿಯಂ ಹೈಡೋಜನ್‌ಕಾರ್ಬೋನೇಟ್",
+    "scientific_significance": "Shows the two reactants involved in the chemical reaction.",
+    "placeholder_note": "Image to be generated showing reactants."
+  },
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_027"
+}

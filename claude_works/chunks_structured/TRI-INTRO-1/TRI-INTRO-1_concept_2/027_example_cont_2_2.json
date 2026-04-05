@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ (ಮುಂದುವರಿದಿದೆ)",
+  "script": "ಈಗ ನಮ್ಮಲ್ಲಿ ಎರಡು ಸರಳ ಸಮೀಕರಣಗಳಿವೆ: ಎ ಮೈನಸ್ ಬಿ ಸಮ ಮೂವತ್ತು ಡಿಗ್ರಿ ಮತ್ತು ಎ ಪ್ಲಸ್ ಬಿ ಸಮ ಅರವತ್ತು ಡಿಗ್ರಿ. ಈ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು ಕೂಡಿಸೋಣ. ಎ ಮೈನಸ್ ಬಿ ಪ್ಲಸ್ ಎ ಪ್ಲಸ್ ಬಿ ಸಮ ಮೂವತ್ತು ಡಿಗ್ರಿ ಪ್ಲಸ್ ಅರವತ್ತು ಡಿಗ್ರಿ. ಇಲ್ಲಿ ಮೈನಸ್ ಬಿ ಮತ್ತು ಪ್ಲಸ್ ಬಿ ರದ್ದಾಗುತ್ತವೆ. ನಮಗೆ ಎರಡು ಎ ಸಮ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಸಿಗುತ್ತದೆ. ಅಂದರೆ ಎ ಸಮ ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಭಾಗಿಸು ಎರಡು, ಅಂದರೆ ನಲವತ್ತೈದು ಡಿಗ್ರಿ. ಈಗ ಎ ಯ ಈ ಬೆಲೆಯನ್ನು ಸಮೀಕರಣ ಎರಡರಲ್ಲಿ ಹಾಕೋಣ. ನಲವತ್ತೈದು ಡಿಗ್ರಿ ಪ್ಲಸ್ ಬಿ ಸಮ ಅರವತ್ತು ಡಿಗ್ರಿ. ಇದರಿಂದ ಬಿ ಸಮ ಅರವತ್ತು ಡಿಗ್ರಿ ಮೈನಸ್ ನಲವತ್ತೈದು ಡಿಗ್ರಿ, ಅಂದರೆ ಹದಿನೈದು ಡಿಗ್ರಿ.",
+  "script_display": "ಈಗ ನಮ್ಮಲ್ಲಿ ಎರಡು ಸರಳ ಸಮೀಕರಣಗಳಿವೆ: $A - B = 30^\\circ$ ಮತ್ತು $A + B = 60^\\circ$. ಈ ಎರಡು ಸಮೀಕರಣಗಳನ್ನು ಕೂಡಿಸೋಣ. $(A - B) + (A + B) = 30^\\circ + 60^\\circ$. ಇಲ್ಲಿ $-B$ ಮತ್ತು $+B$ ರದ್ದಾಗುತ್ತವೆ. ನಮಗೆ $2A = 90^\\circ$ ಸಿಗುತ್ತದೆ. ಅಂದರೆ $A = \\frac{90^\\circ}{2}$, ಅಂದರೆ $45^\\circ$. ಈಗ A ಯ ಈ ಬೆಲೆಯನ್ನು ಸಮೀಕರಣ (2) ರಲ್ಲಿ ಹಾಕೋಣ. $45^\\circ + B = 60^\\circ$. ಇದರಿಂದ $B = 60^\\circ - 45^\\circ$, ಅಂದರೆ $15^\\circ$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "TRI-INTRO-1_example_8",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಸಮೀಕರಣ (1) ಮತ್ತು (2) ನ್ನು ಕೂಡಿಸಿದಾಗ:\n$(A - B) + (A + B) = 30^\\circ + 60^\\circ \\implies 2A = 90^\\circ \\implies A = 45^\\circ$",
+      "justification": "ಏಕಕಾಲಿಕ ಸಮೀಕರಣಗಳನ್ನು ಬಿಡಿಸುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "A ಯ ಬೆಲೆಯನ್ನು ಸಮೀಕರಣ (2) ರಲ್ಲಿ ಆದೇಶಿಸಿದಾಗ:\n$45^\\circ + B = 60^\\circ \\implies B = 60^\\circ - 45^\\circ \\implies B = 15^\\circ$",
+      "justification": "B ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+    }
+  ],
+  "chunk_id": "TRI-INTRO-1_concept_2_chunk_027"
+}

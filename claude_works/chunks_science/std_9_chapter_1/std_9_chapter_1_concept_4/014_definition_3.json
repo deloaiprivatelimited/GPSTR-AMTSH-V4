@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಕುದಿಯುವಿಕೆಯ ಸಮಯದಲ್ಲಿ ತಾಪದ ಸ್ಥಿರತೆ",
+  "script": "ನಾವು ನೀರನ್ನು ಕಾಯಿಸಿದಾಗ, ಅದರ ತಾಪಮಾನವು ನೂರು ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ತಲುಪಿದಾಗ ಅದು ಕುದಿಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈ ಹಂತದಲ್ಲಿ, ನೀರು ನೀರಾವಿಯಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಆದರೆ ಇಲ್ಲಿ ಒಂದು ಆಸಕ್ತಿದಾಯಕ ವಿಷಯವಿದೆ. ನಾವು ಶಾಖವನ್ನು ನೀಡುವುದನ್ನು ಮುಂದುವರಿಸಿದರೂ, ಎಲ್ಲಾ ನೀರು ಆವಿಯಾಗುವವರೆಗೂ ತಾಪಮಾನವು ನೂರು ಡಿಗ್ರಿಯಲ್ಲಿಯೇ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಹಾಗಾದರೆ ನಾವು ನೀಡುತ್ತಿರುವ ಹೆಚ್ಚುವರಿ ಶಾಖ ಶಕ್ತಿ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತದೆ? ಈ ಪ್ರಶ್ನೆಯೇ ನಮ್ಮನ್ನು ಗುಪ್ತೋಷ್ಣದ ಪರಿಕಲ್ಪನೆಗೆ ಕೊಂಡೊಯ್ಯುತ್ತದೆ.",
+  "script_display": "ನಾವು ನೀರನ್ನು ಕಾಯಿಸಿದಾಗ, ಅದರ ತಾಪಮಾನವು 100°C ತಲುಪಿದಾಗ ಅದು ಕುದಿಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈ ಹಂತದಲ್ಲಿ, ನೀರು ನೀರಾವಿಯಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಆದರೆ ಇಲ್ಲಿ ಒಂದು ಆಸಕ್ತಿದಾಯಕ ವಿಷಯವಿದೆ. ನಾವು ಶಾಖವನ್ನು ನೀಡುವುದನ್ನು ಮುಂದುವರಿಸಿದರೂ, ಎಲ್ಲಾ ನೀರು ಆವಿಯಾಗುವವರೆಗೂ ತಾಪಮಾನವು 100°C ನಲ್ಲಿಯೇ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಹಾಗಾದರೆ ನಾವು ನೀಡುತ್ತಿರುವ ಹೆಚ್ಚುವರಿ ಶಾಖ ಶಕ್ತಿ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತದೆ? ಈ ಪ್ರಶ್ನೆಯೇ ನಮ್ಮನ್ನು ಗುಪ್ತೋಷ್ಣದ ಪರಿಕಲ್ಪನೆಗೆ ಕೊಂಡೊಯ್ಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕುದಿಯುವ ಬಿಂದುವಿನಲ್ಲಿ (100°C), ನೀರು ನೀರಾವಿಯಾಗಿ ಬದಲಾಗುತ್ತದೆ.",
+    "ಎಲ್ಲಾ ನೀರು ಆವಿಯಾಗುವವರೆಗೂ ತಾಪಮಾನವು 100°C ನಲ್ಲಿ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ.",
+    "ನೀಡುತ್ತಿರುವ ಹೆಚ್ಚುವರಿ ಶಾಖವು ತಾಪಮಾನವನ್ನು ಹೆಚ್ಚಿಸುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker of water is being heated on a tripod stand with a bunsen burner. A thermometer inside the beaker reads 100°C. Bubbles are rising from the bottom and steam is visibly coming off the surface of the water. This illustrates the process of boiling.",
+    "labels": "ಬೀಕರ್, ನೀರು, ತಾಪಮಾಪಕ (100°C), ಬರ್ನರ್, ನೀರಾವಿ",
+    "scientific_significance": "This diagram visually demonstrates that during the phase change from liquid water to steam, the temperature remains constant at the boiling point (100°C) despite continuous heating.",
+    "placeholder_note": "Image to be generated showing water boiling at 100°C."
+  },
+  "sub_type": "concept_introduction",
+  "chunk_id": "std_9_chapter_1_concept_4_chunk_014"
+}

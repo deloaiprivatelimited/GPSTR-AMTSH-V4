@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಲೋಹಶಾಸ್ತ್ರ ಎಂದರೇನು?",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ನಾವು ಬಳಸುವ ಕಬ್ಬಿಣ, ತಾಮ್ರ, ಅಲ್ಯೂಮಿನಿಯಂನಂತಹ ಅನೇಕ ಲೋಹಗಳು ನಮಗೆ ಭೂಮಿಯಿಂದ ಸಿಗುತ್ತವೆ. ಆದರೆ, ಅವು ನಮಗೆ ನೇರವಾಗಿ ಶುದ್ಧ ರೂಪದಲ್ಲಿ ಸಿಗುವುದಿಲ್ಲ. ಬದಲಾಗಿ, ಅವು ಮಣ್ಣು, ಕಲ್ಲು ಮತ್ತು ಇತರ ಬೇಡದ ವಸ್ತುಗಳೊಂದಿಗೆ ಬೆರೆತಿರುತ್ತವೆ. ಲೋಹವನ್ನು ಹೊಂದಿರುವ ಈ ನೈಸರ್ಗಿಕ ವಸ್ತುವನ್ನು ನಾವು 'ಅದುರು' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹಾಗಾದರೆ, ಈ ಕಲ್ಮಶಗಳಿಂದ ಕೂಡಿದ ಅದುರಿನಿಂದ ಶುದ್ಧವಾದ ಲೋಹವನ್ನು ಬೇರ್ಪಡಿಸುವುದು ಹೇಗೆ? ಈ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರವೇ ಇಂದಿನ ನಮ್ಮ ವಿಷಯ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ನಾವು ಬಳಸುವ ಕಬ್ಬಿಣ, ತಾಮ್ರ, ಅಲ್ಯೂಮಿನಿಯಂನಂತಹ ಅನೇಕ ಲೋಹಗಳು ನಮಗೆ ಭೂಮಿಯಿಂದ ಸಿಗುತ್ತವೆ. ಆದರೆ, ಅವು ನಮಗೆ ನೇರವಾಗಿ ಶುದ್ಧ ರೂಪದಲ್ಲಿ ಸಿಗುವುದಿಲ್ಲ. ಬದಲಾಗಿ, ಅವು ಮಣ್ಣು, ಕಲ್ಲು ಮತ್ತು ಇತರ ಬೇಡದ ವಸ್ತುಗಳೊಂದಿಗೆ ಬೆರೆತಿರುತ್ತವೆ. ಲೋಹವನ್ನು ಹೊಂದಿರುವ ಈ ನೈಸರ್ಗಿಕ ವಸ್ತುವನ್ನು ನಾವು 'ಅದುರು' (Ore) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಹಾಗಾದರೆ, ಈ ಕಲ್ಮಶಗಳಿಂದ ಕೂಡಿದ ಅದುರಿನಿಂದ ಶುದ್ಧವಾದ ಲೋಹವನ್ನು ಬೇರ್ಪಡಿಸುವುದು ಹೇಗೆ? ಈ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರವೇ ಇಂದಿನ ನಮ್ಮ ವಿಷಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A realistic image of a piece of iron ore (hematite) on the left, looking like a reddish-brown rock, and a shiny, pure iron bar on the right. An arrow points from the ore to the iron bar with a question mark over it.",
+    "labels": "ಅದುರು (Ore), ಶುದ್ಧ ಲೋಹ (Pure Metal)",
+    "scientific_significance": "Illustrates the raw material (ore) and the final desired product (pure metal), visually posing the question of transformation.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "intro",
+  "chunk_id": "std_10_chapter_3_concept_8_chunk_012"
+}

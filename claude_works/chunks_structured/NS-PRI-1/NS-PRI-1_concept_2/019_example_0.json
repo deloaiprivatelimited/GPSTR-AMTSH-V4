@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಎರಟೋಸ್ಥೀನ್ಸ್‌ ಜರಡಿ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಪ್ರಮುಖ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ಎರಟೋಸ್ಥೀನ್ಸ್‌ ಜರಡಿ ವಿಧಾನವನ್ನು ಬಳಸಿ ಒಂದರಿಂದ ನೂರರವರೆಗಿನ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಹೇಗೆ ಎಂದು ನೋಡೋಣ. ಈ ವಿಧಾನವು ಒಂದು ನಿರ್ದಿಷ್ಟ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ವ್ಯವಸ್ಥಿತವಾಗಿ ಗುರುತಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಪರದೆಯ ಮೇಲೆ ನೀವು ಒಂದರಿಂದ ನೂರರವರೆಗಿನ ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಂದಿರುವ ಒಂದು ಚೌಕಟ್ಟನ್ನು ನೋಡಬಹುದು. ನಮ್ಮ ಗುರಿ ಇದರಲ್ಲಿರುವ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ಮಾತ್ರ ಉಳಿಸುವುದು.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಪ್ರಮುಖ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ಎರಟೋಸ್ಥೀನ್ಸ್‌ ಜರಡಿ (Sieve of Eratosthenes) ವಿಧಾನವನ್ನು ಬಳಸಿ 1 ರಿಂದ 100ರವರೆಗಿನ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಹೇಗೆ ಎಂದು ನೋಡೋಣ. ಈ ವಿಧಾನವು ಒಂದು ನಿರ್ದಿಷ್ಟ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ವ್ಯವಸ್ಥಿತವಾಗಿ ಗುರುತಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಪರದೆಯ ಮೇಲೆ ನೀವು 1 ರಿಂದ 100ರವರೆಗಿನ ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಂದಿರುವ ಒಂದು ಚೌಕಟ್ಟನ್ನು ನೋಡಬಹುದು. ನಮ್ಮ ಗುರಿ ಇದರಲ್ಲಿರುವ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ಮಾತ್ರ ಉಳಿಸುವುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಎರಟೋಸ್ಥೀನ್ಸ್‌ ಜರಡಿ ವಿಧಾನವನ್ನು ಬಳಸಿ 1 ರಿಂದ 100ರವರೆಗಿನ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ವಿಧಾನ: ಸಂಖ್ಯೆಗಳನ್ನು ಒಂದೊಂದಾಗಿ ಪರೀಕ್ಷಿಸುವ ಬದಲು, ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಗಳನ್ನು ವ್ಯವಸ್ಥಿತವಾಗಿ ತೆಗೆದುಹಾಕುವುದು.",
+    "ದೃಶ್ಯ ಸಹಾಯ: 1 ರಿಂದ 100 ಸಂಖ್ಯೆಗಳ 10x10 ಚೌಕಟ್ಟು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 10x10 grid of numbers from 1 to 100, neatly arranged. This is the starting point for the Sieve of Eratosthenes.",
+    "labels": "Numbers 1-100",
+    "mathematical_significance": "This grid represents the set of integers from which prime numbers will be identified by eliminating composite numbers.",
+    "placeholder_note": "Image to be generated: A clean 10x10 grid with numbers 1 to 100."
+  },
+  "source_example_id": "NS-PRI-1_example_4",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-PRI-1_concept_2_chunk_019"
+}

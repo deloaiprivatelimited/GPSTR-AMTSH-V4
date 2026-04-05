@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಮತಲವನ್ನು ಏಕೆ ಬಳಸುತ್ತೇವೆ?",
+  "script": "ಕೊನೆಯದಾಗಿ, ಇದನ್ನು 'ನಿರ್ದೇಶಾಂಕ ಸಮತಲ' ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ? ಏಕೆಂದರೆ ಈ ಎರಡು ಅಕ್ಷಗಳು ಕೇವಲ ರೇಖೆಗಳಲ್ಲ, ಅವು ಒಂದು ಸಂಪೂರ್ಣ ಸಮತಟ್ಟಾದ ಮೇಲ್ಮೈಯನ್ನು ಅಥವಾ ಸಮತಲವನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತವೆ. ಈ ಸಮತಲದ ಮೇಲಿರುವ ಯಾವುದೇ ಬಿಂದುವನ್ನು, ಅದು ಎಲ್ಲೇ ಇರಲಿ, ಈ ಎರಡು ಅಕ್ಷಗಳಿಂದ ಇರುವ ದೂರವನ್ನು ಬಳಸಿ ನಾವು ನಿಖರವಾಗಿ ಗುರುತಿಸಬಹುದು. ಅದಕ್ಕಾಗಿಯೇ ಇದನ್ನು xy-ಸಮತಲ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಈ ವ್ಯವಸ್ಥೆಯು ರೇಖಾಗಣಿತದ ಆಕೃತಿಗಳನ್ನು ಬೀಜಗಣಿತದ ಸಮೀಕರಣಗಳೊಂದಿಗೆ ಜೋಡಿಸಲು ನಮಗೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಇದು ನಿರ್ದೇಶಾಂಕ ರೇಖಾಗಣಿತದ ಶಕ್ತಿಯಾಗಿದೆ.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ಇದನ್ನು 'ನಿರ್ದೇಶಾಂಕ ಸಮತಲ' (Coordinate Plane) ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ? ಏಕೆಂದರೆ ಈ ಎರಡು ಅಕ್ಷಗಳು ಕೇವಲ ರೇಖೆಗಳಲ್ಲ, ಅವು ಒಂದು ಸಂಪೂರ್ಣ ಸಮತಟ್ಟಾದ ಮೇಲ್ಮೈಯನ್ನು ಅಥವಾ ಸಮತಲವನ್ನು (plane) ವ್ಯಾಖ್ಯಾನಿಸುತ್ತವೆ. ಈ ಸಮತಲದ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವನ್ನು, ಅದು ಎಲ್ಲೇ ಇರಲಿ, ಈ ಎರಡು ಅಕ್ಷಗಳಿಂದ ಇರುವ ದೂರವನ್ನು ಬಳಸಿ ನಾವು ನಿಖರವಾಗಿ ಗುರುತಿಸಬಹುದು. ಅದಕ್ಕಾಗಿಯೇ ಇದನ್ನು $xy$-ಸಮತಲ ($xy$-plane) ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಈ ವ್ಯವಸ್ಥೆಯು ರೇಖಾಗಣಿತದ ಆಕೃತಿಗಳನ್ನು ಬೀಜಗಣಿತದ ಸಮೀಕರಣಗಳೊಂದಿಗೆ ಜೋಡಿಸಲು ನಮಗೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಇದು ನಿರ್ದೇಶಾಂಕ ರೇಖಾಗಣಿತದ ಶಕ್ತಿಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಈ ಅಕ್ಷಗಳು ಒಂದು ಸಮತಟ್ಟಾದ ಮೇಲ್ಮೈಯನ್ನು (ಸಮತಲ) ವ್ಯಾಖ್ಯಾನಿಸುತ್ತವೆ.",
+    "ಸಮತಲದ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವನ್ನು ಅಕ್ಷಗಳ ಸಹಾಯದಿಂದ ಗುರುತಿಸಬಹುದು.",
+    "ಇದು ರೇಖಾಗಣಿತ ಮತ್ತು ಬೀಜಗಣಿತವನ್ನು ಸಂಪರ್ಕಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A Cartesian plane with a grid. A random point 'P' is marked on the plane. Dotted lines are drawn from P to the x-axis and y-axis, showing its coordinates.",
+    "labels": "P(x,y), x-axis, y-axis",
+    "mathematical_significance": "Shows the purpose of the plane: to locate any point 'P' using its coordinates derived from the axes.",
+    "placeholder_note": "Image to be generated."
+  },
+  "chunk_id": "COOR-BAS-1_concept_1_chunk_006"
+}

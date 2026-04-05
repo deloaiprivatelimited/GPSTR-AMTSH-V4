@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪೆಟ್ರೋಲಿಯಂ ಶುದ್ದೀಕರಣ (Petroleum Refining)",
+  "script": "ಪೆಟ್ರೋಲಿಯಂ ಶುದ್ದೀಕರಣ ಅಂದರೇನು? ಭೂಮಿಯಡಿಯಿಂದ ಸಿಗುವ ಕಚ್ಚಾ ಪೆಟ್ರೋಲಿಯಂ, ಕಪ್ಪು ಬಣ್ಣದ, ದಟ್ಟವಾದ, ಎಣ್ಣೆಯಂತಹ ದ್ರವ. ಇದು ಒಂದೇ ವಸ್ತುವಲ್ಲ, ಬದಲಾಗಿ ಪೆಟ್ರೋಲ್, ಡೀಸೆಲ್, ಸೀಮೆಎಣ್ಣೆ, ಮತ್ತು ಇನ್ನೂ ಅನೇಕ ಉಪಯುಕ್ತ ವಸ್ತುಗಳ ಒಂದು ಸಂಕೀರ್ಣ ಮಿಶ್ರಣ. ಈ ಎಲ್ಲಾ ಘಟಕಗಳನ್ನು ಒಂದರಿಂದೊಂದು ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನೇ ನಾವು ಪೆಟ್ರೋಲಿಯಂ ಶುದ್ದೀಕರಣ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಪ್ರಕ್ರಿಯೆಗೆ ಇರುವ ವೈಜ್ಞಾನಿಕ ಹೆಸರು ಅಂಶಿಕ ಬಾಷ್ಟೀಕರಣ ಅಥವಾ ಫ್ರ್ಯಾಕ್ಷನಲ್ ಡಿಸ್ಟಿಲೇಶನ್. ಇದನ್ನು ನೆನಪಿಡಿ.",
+  "script_display": "ಪೆಟ್ರೋಲಿಯಂ ಶುದ್ದೀಕರಣ (Petroleum Refining) ಎಂದರೇನು? ಭೂಮಿಯಡಿಯಿಂದ ಸಿಗುವ ಕಚ್ಚಾ ಪೆಟ್ರೋಲಿಯಂ, ಕಪ್ಪು ಬಣ್ಣದ, ದಟ್ಟವಾದ, ಎಣ್ಣೆಯಂತಹ ದ್ರವ. ಇದು ಒಂದೇ ವಸ್ತುವಲ್ಲ, ಬದಲಾಗಿ ಪೆಟ್ರೋಲ್, ಡೀಸೆಲ್, ಸೀಮೆಎಣ್ಣೆ, ಮತ್ತು ಇನ್ನೂ ಅನೇಕ ಉಪಯುಕ್ತ ವಸ್ತುಗಳ ಒಂದು ಸಂಕೀರ್ಣ ಮಿಶ್ರಣ. ಈ ಎಲ್ಲಾ ಘಟಕಗಳನ್ನು ಒಂದರಿಂದೊಂದು ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನೇ ನಾವು 'ಪೆಟ್ರೋಲಿಯಂ ಶುದ್ದೀಕರಣ' ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಪ್ರಕ್ರಿಯೆಗೆ ಇರುವ ವೈಜ್ಞಾನಿಕ ಹೆಸರು 'ಅಂಶಿಕ ಬಾಷ್ಟೀಕರಣ' (Fractional Distillation).",
+  "display_bullets": [
+    "ಕಚ್ಚಾ ಪೆಟ್ರೋಲಿಯಂ ಎಂಬುದು ಅನೇಕ ಉಪಯುಕ್ತ ಘಟಕಗಳ ಮಿಶ್ರಣ.",
+    "ಈ ಘಟಕಗಳನ್ನು ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆಯೇ 'ಪೆಟ್ರೋಲಿಯಂ ಶುದ್ದೀಕರಣ'.",
+    "ಇದನ್ನು 'ಅಂಶಿಕ ಬಾಷ್ಟೀಕರಣ' (Fractional Distillation) ಎಂದೂ ಕರೆಯುತ್ತಾರೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಪೆಟ್ರೋಲಿಯಂ ಶುದ್ದೀಕರಣ (Petroleum Refining)}",
+    "placeholder_note": "Display the term being defined prominently."
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_8_chapter_3_concept_6_chunk_003"
+}

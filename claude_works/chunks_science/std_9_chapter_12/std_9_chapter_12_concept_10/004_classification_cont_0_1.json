@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿಧಾನ 1: ನೈಸರ್ಗಿಕ ಮೀನುಗಾರಿಕೆ",
+  "script": "ಮೊದಲ ವಿಧಾನ, ನೈಸರ್ಗಿಕ ಮೀನುಗಾರಿಕೆ ಅಥವಾ ಕ್ಯಾಪ್ಚರ್ ಫಿಶಿಂಗ್. ಮೊದಲನೆಯದಾಗಿ, ಇದು ಏನು ಎಂದು ನೋಡೋಣ. ಇದು ಸಮುದ್ರ, ನದಿ, ಮತ್ತು ಸರೋವರಗಳಂತಹ ನೈಸರ್ಗಿಕ ಜಲಮೂಲಗಳಿಂದ ಮೀನುಗಳನ್ನು ನೇರವಾಗಿ ಹಿಡಿಯುವ ಪ್ರಕ್ರಿಯೆ. ಎರಡನೆಯದಾಗಿ, ಒಂದು ಉದಾಹರಣೆ ಎಂದರೆ, ಅರಬ್ಬೀ ಸಮುದ್ರದಲ್ಲಿ ಮೀನುಗಾರರು ಬಲೆಗಳನ್ನು ಬಳಸಿ ಬಂಗುಡೆ ಮತ್ತು ಸಾರ್ಡಿನ್ ಮೀನುಗಳನ್ನು ಹಿಡಿಯುವುದು. ಮೂರನೆಯದಾಗಿ, ಇದನ್ನು ಏಕೆ ಮಾಡುತ್ತಾರೆ? ಇದು ಮೀನುಗಾರಿಕೆಯ ಅತ್ಯಂತ ಹಳೆಯ ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನವಾಗಿದೆ. ಇಲ್ಲಿ ನಾವು ಪ್ರಕೃತಿಯಲ್ಲಿ ನೈಸರ್ಗಿಕವಾಗಿ ಲಭ್ಯವಿರುವ ಸಂಪನ್ಮೂಲವನ್ನು ಬಳಸಿಕೊಳ್ಳುತ್ತೇವೆ.",
+  "script_display": "ಮೊದಲ ವಿಧಾನ, ನೈಸರ್ಗಿಕ ಮೀನುಗಾರಿಕೆ (Capture Fishing).",
+  "display_bullets": [
+    "ಏನಿದು?: ನೈಸರ್ಗಿಕ ಜಲಮೂಲಗಳಿಂದ (ಸಮುದ್ರ, ನದಿ, ಸರೋವರ) ಮೀನುಗಳನ್ನು ಹಿಡಿಯುವುದು.",
+    "ಉದಾಹರಣೆ: ಅರಬ್ಬೀ ಸಮುದ್ರದಲ್ಲಿ ಬಂಗುಡೆ (Mackerel) ಮೀನುಗಳನ್ನು ಹಿಡಿಯುವುದು.",
+    "ಏಕೆ?: ಇದು ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನವಾಗಿದ್ದು, ನೈಸರ್ಗಿಕವಾಗಿ ಲಭ್ಯವಿರುವ ಮೀನು ಸಂಪನ್ಮೂಲವನ್ನು ಬಳಸಿಕೊಳ್ಳುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Fishermen on a traditional boat in the Arabian Sea, pulling in a net full of mackerel fish. The sun should be visible, indicating a real-world, natural setting.",
+    "labels": "ನೈಸರ್ಗಿಕ ಮೀನುಗಾರಿಕೆ",
+    "scientific_significance": "Depicts capture fishing in a marine environment, a key source of fish.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_12_concept_10_chunk_004"
+}

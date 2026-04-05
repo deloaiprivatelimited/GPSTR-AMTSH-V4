@@ -1,0 +1,39 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈಗ ನಾವು ಘ್ರಾಣ ಸೂಚಕದ ಪರೀಕ್ಷೆಯನ್ನು ಮಾಡಲು ಸಿದ್ಧರಾಗೋಣ. ಮೊದಲಿಗೆ, ನಮಗೆ ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳನ್ನು ನೋಡೋಣ. ನಮಗೆ ಸಣ್ಣಗೆ ಹೆಚ್ಚಿದ ಈರುಳ್ಳಿ ಬೇಕು. ನಂತರ, ಕೆಲವು ಸ್ವಚ್ಛವಾದ ಬಟ್ಟೆಯ ಪಟ್ಟಿಗಳು, ಇವುಗಳನ್ನು ಇಡಲು ಒಂದು ಪ್ಲಾಸ್ಟಿಕ್ ಚೀಲ. ಪರೀಕ್ಷೆಗಾಗಿ, ನಮಗೆ ಎರಡು ರಾಸಾಯನಿಕಗಳು ಬೇಕು: ಒಂದು ಸಾರರಿಕ್ತ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ, ಅಂದರೆ H C L, ಮತ್ತು ಇನ್ನೊಂದು ಸಾರರಿಕ್ತ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣ, ಅಂದರೆ N a O H. ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ಜೋಡಿಸಿಕೊಂಡು ನಾವು ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸಬಹುದು.",
+  "script_display": "ಈಗ ನಾವು ಘ್ರಾಣ ಸೂಚಕದ ಪರೀಕ್ಷೆಯನ್ನು ಮಾಡಲು ಸಿದ್ಧರಾಗೋಣ. ಮೊದಲಿಗೆ, ನಮಗೆ ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳನ್ನು ನೋಡೋಣ. ನಮಗೆ ಸಣ್ಣಗೆ ಹೆಚ್ಚಿದ ಈರುಳ್ಳಿ ಬೇಕು. ನಂತರ, ಕೆಲವು ಸ್ವಚ್ಛವಾದ ಬಟ್ಟೆಯ ಪಟ್ಟಿಗಳು, ಇವುಗಳನ್ನು ಇಡಲು ಒಂದು ಪ್ಲಾಸ್ಟಿಕ್ ಚೀಲ. ಪರೀಕ್ಷೆಗಾಗಿ, ನಮಗೆ ಎರಡು ರಾಸಾಯನಿಕಗಳು ಬೇಕು: ಒಂದು ಸಾರರಿಕ್ತ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl) ಮತ್ತು ಇನ್ನೊಂದು ಸಾರರಿಕ್ತ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (NaOH) ದ್ರಾವಣ. ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ಜೋಡಿಸಿಕೊಂಡು ನಾವು ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಸಣ್ಣಗೆ ಹೆಚ್ಚಿದ ಈರುಳ್ಳಿ",
+    "ಸ್ವಚ್ಛವಾದ ಬಟ್ಟೆಯ ಪಟ್ಟಿಗಳು",
+    "ಪ್ಲಾಸ್ಟಿಕ್ ಚೀಲ",
+    "ಸಾರರಿಕ್ತ HCl ದ್ರಾವಣ (ಆಮ್ಲ)",
+    "ಸಾರರಿಕ್ತ NaOH ದ್ರಾವಣ (ಪ್ರತ್ಯಾಮ್ಲ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_bullets",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the apparatus for the olfactory indicator experiment: finely chopped onions, strips of clean cloth, a plastic bag, a dropper bottle labeled 'dil. HCl', and another dropper bottle labeled 'dil. NaOH'.",
+    "labels": "ಈರುಳ್ಳಿ, ಬಟ್ಟೆಯ ಪಟ್ಟಿ, ಪ್ಲಾಸ್ಟಿಕ್ ಚೀಲ, ಸಾರರಿಕ್ತ HCl, ಸಾರರಿಕ್ತ NaOH",
+    "scientific_significance": "Shows the simple materials required to demonstrate the property of an olfactory indicator.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_10_chapter_2_concept_1_chunk_012"
+}

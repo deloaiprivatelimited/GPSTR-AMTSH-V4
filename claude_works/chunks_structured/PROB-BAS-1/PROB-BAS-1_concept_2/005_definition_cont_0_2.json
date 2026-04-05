@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಒಂದೇ ಪ್ರಯೋಗ, ಹಲವು ಘಟನೆಗಳು",
+  "script": "ಒಂದೇ ಪ್ರಯೋಗಕ್ಕೆ ನಾವು ಬೇರೆ ಬೇರೆ ಘಟನೆಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಬಹುದು. ನಮ್ಮ ದಾಳ ಉರುಳಿಸುವ ಪ್ರಯೋಗವನ್ನೇ ಮುಂದುವರಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ, 'ಮೂರಕ್ಕಿಂತ ಕಡಿಮೆ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವುದು' ಎಂಬ ಘಟನೆಯನ್ನು ನೋಡೋಣ. ಇದಕ್ಕೆ ಅನುಕೂಲಕರವಾದ ಫಲಿತಗಳು ಒಂದು ಮತ್ತು ಎರಡು. ಬಲಭಾಗದಲ್ಲಿ, 'ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವುದು' ಎಂಬ ಇನ್ನೊಂದು ಘಟನೆಯನ್ನು ನೋಡೋಣ. ಇದಕ್ಕೆ ಅನುಕೂಲಕರವಾದ ಫಲಿತಗಳು ಎರಡು, ಮೂರು ಮತ್ತು ಐದು. ಎರಡೂ ಸಂದರ್ಭಗಳಲ್ಲಿ, ಘಟನೆಯು ಒಟ್ಟು ಫಲಿತಗಳ ಒಂದು ಭಾಗವಾಗಿದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.",
+  "script_display": "ಒಂದೇ ಪ್ರಯೋಗಕ್ಕೆ ನಾವು ಬೇರೆ ಬೇರೆ ಘಟನೆಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಬಹುದು. ನಮ್ಮ ದಾಳ ಉರುಳಿಸುವ ಪ್ರಯೋಗವನ್ನೇ ಮುಂದುವರಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ, 'ಮೂರಕ್ಕಿಂತ ಕಡಿಮೆ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವುದು' ಎಂಬ ಘಟನೆಯನ್ನು ನೋಡೋಣ. ಇದಕ್ಕೆ ಅನುಕೂಲಕರವಾದ ಫಲಿತಗಳು {1, 2}. ಬಲಭಾಗದಲ್ಲಿ, 'ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವುದು' ಎಂಬ ಇನ್ನೊಂದು ಘಟನೆಯನ್ನು ನೋಡೋಣ. ಇದಕ್ಕೆ ಅನುಕೂಲಕರವಾದ ಫಲಿತಗಳು {2, 3, 5}. ಎರಡೂ ಸಂದರ್ಭಗಳಲ್ಲಿ, ಘಟನೆಯು ಒಟ್ಟು ಫಲಿತಗಳ ಒಂದು ಭಾಗವಾಗಿದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "template_split_comparison_visual",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen layout. Both sides first show the total outcomes S = {1, 2, 3, 4, 5, 6}. The left panel is titled 'ಘಟನೆ A: 3ಕ್ಕಿಂತ ಕಡಿಮೆ ಸಂಖ್ಯೆ' and highlights the subset {1, 2}. The right panel is titled 'ಘಟನೆ B: ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ' and highlights the subset {2, 3, 5}. This comparison shows how different events can be defined from the same experiment.",
+    "labels": "Event A, Event B, Outcomes",
+    "mathematical_significance": "Demonstrates that multiple, different events can be defined within a single sample space.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "PROB-BAS-1_concept_2_chunk_005"
+}

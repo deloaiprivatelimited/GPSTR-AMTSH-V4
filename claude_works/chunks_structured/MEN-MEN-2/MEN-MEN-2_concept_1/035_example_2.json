@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 3: ಷಡ್ಭುಜದ ವಿಸ್ತೀರ್ಣ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಎಂ ಎನ್ ಓ ಪಿ ಕ್ಯೂ ಆರ್ ಎಂಬುದು ಒಂದು ಷಡ್ಭುಜ. ಅದರ ಬಾಹು 5 ಸೆಂಟಿಮೀಟರ್. ಪಿ ಕ್ಯೂ ಎಂಬುದು 8 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಪಿ ಕ್ಯೂ ನಿಂದ ಎಂ ಎನ್ ಗೆ ಇರುವ ಲಂಬ ದೂರ 11 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಅಮನ್ ಮತ್ತು ರಿಧಿಮ ಇದನ್ನು ಎರಡು ಬೇರೆ ಬೇರೆ ರೀತಿಯಲ್ಲಿ ವಿಭಜಿಸಿ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತಾರೆ. ನಾವು ಆ ಎರಡೂ ವಿಧಾನಗಳನ್ನು ಬಳಸಿ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕ ಹಾಕಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. MNOPQR ಎಂಬುದು ಒಂದು ಷಡ್ಭುಜ. ಅದರ ಬಾಹು 5 cm. $PQ = 8$ cm ಮತ್ತು PQ ನಿಂದ MN ಗೆ ಇರುವ ಲಂಬ ದೂರ 11 cm ಆಗಿದೆ. ಅಮನ್ ಮತ್ತು ರಿಧಿಮ ಇದನ್ನು ಎರಡು ಬೇರೆ ಬೇರೆ ರೀತಿಯಲ್ಲಿ ವಿಭಜಿಸಿ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತಾರೆ. ನಾವು ಆ ಎರಡೂ ವಿಧಾನಗಳನ್ನು ಬಳಸಿ ವಿಸ್ತೀರ್ಣವನ್ನು ಲೆಕ್ಕ ಹಾಕಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ಷಡ್ಭುಜ MNOPQR",
+    "ಬಾಹು = 5 cm",
+    "PQ = 8 cm",
+    "ಲಂಬ ಎತ್ತರ = 11 cm",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಎರಡು ವಿಧಾನಗಳಲ್ಲಿ ವಿಸ್ತೀರ್ಣ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_top_visual_bottom",
+    "text_zone": "full",
+    "visual_zone": "bottom",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A hexagon MNOPQR. The total height from top side MN to bottom side PQ is 11 cm. The length of sides PQ and MN is 8 cm. The other four sides (NO, OP, QR, RM) are each 5 cm. The diagram should also show two smaller versions, one split into two trapeziums (Aman's method) and one split into a rectangle and two triangles (Ridhima's method).",
+    "labels": "M, N, O, P, Q, R, 5 cm, 8 cm, 11 cm",
+    "mathematical_significance": "Illustrates a complex polygon with given dimensions, which can be decomposed in multiple ways to find its area.",
+    "placeholder_note": "Image to be generated showing the hexagon and the two methods of division."
+  },
+  "source_example_id": "MEN-MEN-2_example_3",
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "MEN-MEN-2_concept_1_chunk_035"
+}

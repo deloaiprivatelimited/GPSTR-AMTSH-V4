@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ವಿಸ್ತೀರ್ಣವನ್ನು ದೃಶ್ಯೀಕರಿಸುವುದು",
+  "script": "ವಿಸ್ತೀರ್ಣವನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಒಂದು ಚೌಕಗಳ ಜಾಲರಿಯನ್ನು (ಗ್ರಿಡ್) ಬಳಸೋಣ. ಇಲ್ಲಿ ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಂದು ಆಯತಾಕಾರದ ಆಕೃತಿಯನ್ನು ಒಂದು ಸೆಂಟಿಮೀಟರ್ ಅಳತೆಯ ಚೌಕಗಳ ಮೇಲೆ ಇಡಲಾಗಿದೆ. ಈ ಆಕೃತಿಯ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಅದು ಎಷ್ಟು ಪೂರ್ಣ ಚೌಕಗಳನ್ನು ಆವರಿಸಿದೆ ಎಂದು ಎಣಿಸಿದರೆ ಸಾಕು. ಬನ್ನಿ ಎಣಿಸೋಣ. ಈ ಆಕೃತಿಯು ಒಟ್ಟು ಹದಿನೈದು ಚೌಕಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಆವರಿಸಿದೆ. ಪ್ರತಿಯೊಂದು ಚೌಕವು ಒಂದು ಚದರ ಸೆಂಟಿಮೀಟರ್ ಆಗಿರುವುದರಿಂದ, ಈ ಆಕೃತಿಯ ವಿಸ್ತೀರ್ಣವು ಹದಿನೈದು ಚದರ ಸೆಂಟಿಮೀಟರ್ ಆಗುತ್ತದೆ. ಹೀಗೆ, ವಿಸ್ತೀರ್ಣವೆಂದರೆ ಒಂದು ಆಕೃತಿಯು ಎಷ್ಟು ಚದರ ಮಾನಗಳನ್ನು ಒಳಗೊಂಡಿದೆ ಎಂಬುದರ ಸಂಖ್ಯೆಯಾಗಿದೆ.",
+  "script_display": "ವಿಸ್ತೀರ್ಣವನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಒಂದು ಚೌಕಗಳ ಜಾಲರಿಯನ್ನು (ಗ್ರಿಡ್) ಬಳಸೋಣ. ಇಲ್ಲಿ ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಂದು ಆಯತಾಕಾರದ ಆಕೃತಿಯನ್ನು $1 \\text{cm}$ ಅಳತೆಯ ಚೌಕಗಳ ಮೇಲೆ ಇಡಲಾಗಿದೆ. ಈ ಆಕೃತಿಯ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಅದು ಎಷ್ಟು ಪೂರ್ಣ ಚೌಕಗಳನ್ನು ಆವರಿಸಿದೆ ಎಂದು ಎಣಿಸಿದರೆ ಸಾಕು. ಬನ್ನಿ ಎಣಿಸೋಣ. ಈ ಆಕೃತಿಯು ಒಟ್ಟು 15 ಚೌಕಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಆವರಿಸಿದೆ. ಪ್ರತಿಯೊಂದು ಚೌಕವು $1 \\text{cm}^2$ ಆಗಿರುವುದರಿಂದ, ಈ ಆಕೃತಿಯ ವಿಸ್ತೀರ್ಣವು $15 \\text{cm}^2$ ಆಗುತ್ತದೆ. ಹೀಗೆ, ವಿಸ್ತೀರ್ಣವೆಂದರೆ ಒಂದು ಆಕೃತಿಯು ಎಷ್ಟು ಚದರ ಮಾನಗಳನ್ನು ಒಳಗೊಂಡಿದೆ ಎಂಬುದರ ಸಂಖ್ಯೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಚೌಕಗಳ ಜಾಲರಿಯ (grid) ಮೇಲೆ ಒಂದು ಆಕೃತಿಯನ್ನು ಇರಿಸಿ.",
+    "ಆಕೃತಿಯು ಆವರಿಸುವ ಪೂರ್ಣ ಚೌಕಗಳ ಸಂಖ್ಯೆಯನ್ನು ಎಣಿಸಿ.",
+    "ಈ ಚಿತ್ರದಲ್ಲಿ, ಆಕೃತಿಯು 15 ಚೌಕಗಳನ್ನು ಆವರಿಸಿದೆ.",
+    "ಆದ್ದರಿಂದ, ವಿಸ್ತೀರ್ಣ = 15 ಚದರ ಮಾನಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 5x3 rectangle drawn on a grid of 1cm x 1cm squares. The rectangle is shaded. The squares inside the rectangle are clearly visible and countable. The dimensions '5 cm' and '3 cm' are labeled along the sides. A text label inside points to the collection of squares and says '15 ಚದರಗಳು' (15 squares).",
+    "labels": "ಆಯತ, ಚೌಕಗಳ ಜಾಲರಿ, 5 cm, 3 cm",
+    "mathematical_significance": "Provides a concrete, visual method for understanding area as the counting of unit squares, which is the foundational concept before introducing formulas.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-AREA-1_concept_2_chunk_005"
+}

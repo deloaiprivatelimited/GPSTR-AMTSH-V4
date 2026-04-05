@@ -1,0 +1,31 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಮೂರು ಸಂಖ್ಯೆಗಳಿಗೆ HCF ಮತ್ತು LCM ಸಂಬಂಧ",
+  "script": "ಈಗ, ಮೂರು ಧನ ಪೂರ್ಣಾಂಕಗಳಾದ p, q, ಮತ್ತು r ಗಳ ಮ.ಸಾ.ಅ ಮತ್ತು ಲ.ಸಾ.ಅ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ನೋಡೋಣ. ಎರಡು ಸಂಖ್ಯೆಗಳಿಗಿರುವಂತೆ ಸರಳವಾದ ಸೂತ್ರ ಇಲ್ಲಿಲ್ಲ. ಇದರ ಸೂತ್ರವು ಸ್ವಲ್ಪ ಸಂಕೀರ್ಣವಾಗಿದೆ. ಸೂತ್ರ ಹೀಗಿದೆ: HCF ಆಫ್ p, q, r ಈಕ್ವಲ್ಸ್ p ಇಂಟು q ಇಂಟು r ಇಂಟು LCM ಆಫ್ p, q, r, ಹೋಲ್ ಡಿವೈಡೆಡ್ ಬೈ, LCM ಆಫ್ p, q, ಇಂಟು LCM ಆಫ್ q, r, ಇಂಟು LCM ಆಫ್ p, r. ಈ ಸೂತ್ರವು ಮೂರು ಸಂಖ್ಯೆಗಳ HCF ಅನ್ನು ಅವುಗಳ ಗುಣಲಬ್ಧ, ಅವುಗಳ ಒಟ್ಟಾರೆ LCM ಮತ್ತು ಅವುಗಳ ಜೋಡಿಗಳ LCM ಗಳ ಮೂಲಕ ಸಂಬಂಧಿಸುತ್ತದೆ. ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಸ್ವಲ್ಪ ಕಷ್ಟ, ಆದರೆ ಇದರ ಹಿಂದಿನ ತರ್ಕವನ್ನು ನಾವು ಉದಾಹರಣೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "script_display": "ಈಗ, ಮೂರು ಧನ ಪೂರ್ಣಾಂಕಗಳಾದ $p, q$, ಮತ್ತು $r$ ಗಳ ಮ.ಸಾ.ಅ (HCF) ಮತ್ತು ಲ.ಸಾ.ಅ (LCM) ನಡುವಿನ ಸಂಬಂಧವನ್ನು ನೋಡೋಣ. ಎರಡು ಸಂಖ್ಯೆಗಳಿಗಿರುವಂತೆ ಸರಳವಾದ ಸೂತ್ರ ಇಲ್ಲಿಲ್ಲ. ಇದರ ಸೂತ್ರವು ಸ್ವಲ್ಪ ಸಂಕೀರ್ಣವಾಗಿದೆ. ಸೂತ್ರ ಹೀಗಿದೆ: $HCF(p, q, r) = \\frac{p \\cdot q \\cdot r \\cdot LCM(p, q, r)}{LCM(p, q) \\cdot LCM(q, r) \\cdot LCM(p, r)}$. ಈ ಸೂತ್ರವು ಮೂರು ಸಂಖ್ಯೆಗಳ HCF ಅನ್ನು ಅವುಗಳ ಗುಣಲಬ್ಧ, ಅವುಗಳ ಒಟ್ಟಾರೆ LCM ಮತ್ತು ಅವುಗಳ ಜೋಡಿಗಳ LCM ಗಳ ಮೂಲಕ ಸಂಬಂಧಿಸುತ್ತದೆ. ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಸ್ವಲ್ಪ ಕಷ್ಟ, ಆದರೆ ಇದರ ಹಿಂದಿನ ತರ್ಕವನ್ನು ನಾವು ಉದಾಹರಣೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "center_formula",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "HCF(p, q, r) = \\frac{p \\cdot q \\cdot r \\cdot LCM(p, q, r)}{LCM(p, q) \\cdot LCM(q, r) \\cdot LCM(p, r)}",
+    "placeholder_note": "Formula showing the relationship between HCF and LCM for three numbers p, q, and r."
+  },
+  "chunk_id": "NS-REAL-4_concept_1_chunk_043"
+}

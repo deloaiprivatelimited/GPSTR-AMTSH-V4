@@ -1,0 +1,330 @@
+{
+  "module_id": "ALG-POL-3_concept_6",
+  "module_title": "ಬೈಜಿಕ ನಿತ್ಯಸಮೀಕರಣಗಳು (Algebraic Identities)",
+  "podcast_meta": {
+    "estimated_duration_minutes": 10,
+    "total_dialogues": 52,
+    "sections_covered": [
+      "intro",
+      "formula",
+      "example",
+      "exam_tips",
+      "recap"
+    ],
+    "content_density": "heavy"
+  },
+  "dialogues": [
+    {
+      "index": 1,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಜಿ ಪಿ ಎಸ್ ಟಿ ಆರ್ ಮತ್ತು ಎಚ್ ಎಸ್ ಟಿ ಆರ್ ಗಣಿತ ಪುನರಾವರ್ತನಾ ಪಾಡ್ಕಾಸ್ಟ್ ಸರಣಿಗೆ ನಿಮಗೆ ಸ್ವಾಗತ."
+    },
+    {
+      "index": 2,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ಇಂದಿನ ಸಂಚಿಕೆಯಲ್ಲಿ, ನಾವು ಬೀಜಗಣಿತದ ಒಂದು ಅತ್ಯಂತ ಪ್ರಮುಖ ಭಾಗವಾದ ಬೈಜಿಕ ನಿತ್ಯಸಮೀಕರಣಗಳು, ಅಂದರೆ ಆಲ್ಜಿಬ್ರಾಯಿಕ್ ಐಡೆಂಟಿಟೀಸ್ ಬಗ್ಗೆ ಚರ್ಚಿಸೋಣ."
+    },
+    {
+      "index": 3,
+      "speaker": "student",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ ಗುರುಗಳೇ. ಹೌದು, ಈ ನಿತ್ಯಸಮೀಕರಣಗಳು ಲೆಕ್ಕಗಳನ್ನು ಸುಲಭ ಮಾಡುತ್ತವೆ ಮತ್ತು ಸಮಯ ಉಳಿಸುತ್ತವೆ ಎಂದು ಕೇಳಿದ್ದೇನೆ. ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಇದು ಎಷ್ಟು ಮುಖ್ಯ?"
+    },
+    {
+      "index": 4,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ಖಂಡಿತವಾಗಿಯೂ. ಇವುಗಳ ಮೇಲೆ ನೇರ ಮತ್ತು ಪರೋಕ್ಷ ಪ್ರಶ್ನೆಗಳು ಬಂದೇ ಬರುತ್ತವೆ. ಇವುಗಳನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥ ಮಾಡಿಕೊಂಡರೆ ಬೀಜಗಣಿತದ ಅನೇಕ ಲೆಕ್ಕಗಳನ್ನು ವೇಗವಾಗಿ ಮಾಡಬಹುದು. ಹಾಗಾದರೆ, ಶುರು ಮಾಡೋಣವೇ?"
+    },
+    {
+      "index": 5,
+      "speaker": "student",
+      "section": "intro",
+      "script": "ಖಂಡಿತ ಗುರುಗಳೇ, ನಾನು ಸಿದ್ಧ."
+    },
+    {
+      "index": 6,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಮೊದಲಿಗೆ, ವರ್ಗಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ನಾಲ್ಕು ಮೂಲಭೂತ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದು, x plus y whole squared equals x squared plus two x y plus y squared."
+    },
+    {
+      "index": 7,
+      "speaker": "student",
+      "section": "formula",
+      "script": "ಹಾಗೆಯೇ ಎರಡನೆಯದು, x minus y whole squared equals x squared minus two x y plus y squared. ಇದರಲ್ಲಿ ಕೇವಲ two x y ಪದದ ಮುಂದೆ ಮೈನಸ್ ಚಿಹ್ನೆ ಬರುತ್ತೆ, ಅಲ್ವಾ?"
+    },
+    {
+      "index": 8,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಸರಿಯಾಗಿ ಹೇಳಿದೆ. ಮೂರನೆಯದು ಅಪವರ್ತಿಸಲು ಬಹಳ ಉಪಯುಕ್ತ. x squared minus y squared equals x plus y into x minus y."
+    },
+    {
+      "index": 9,
+      "speaker": "student",
+      "section": "formula",
+      "script": "ಹೌದು, ಎರಡು ವರ್ಗಗಳ ವ್ಯತ್ಯಾಸವನ್ನು ಸುಲಭವಾಗಿ ಅಪವರ್ತಿಸಬಹುದು. ನಾಲ್ಕನೆಯದು ಯಾವುದು ಗುರುಗಳೇ?"
+    },
+    {
+      "index": 10,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ನಾಲ್ಕನೆಯದು, x plus a into x plus b equals x squared plus a plus b into x plus a b. ಇದನ್ನ ಬಳಸಿ ಕೆಲವು ಗುಣಾಕಾರಗಳನ್ನು ಬಹಳ ಸುಲಭವಾಗಿ ಮಾಡಬಹುದು."
+    },
+    {
+      "index": 11,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಹೌದಾ? ಒಂದು ಉದಾಹರಣೆ ಕೊಡಿ ಗುರುಗಳೇ. ಉದಾಹರಣೆಗೆ, ನೂರಾ ಐದು ಇಂಟು ನೂರಾ ಆರು ಇದನ್ನ ಹೇಗೆ ಮಾಡಬಹುದು?"
+    },
+    {
+      "index": 12,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಖಂಡಿತ. ನೂರಾ ಐದನ್ನು ನೂರು ಪ್ಲಸ್ ಐದು ಅಂತ ಬರೆಯಬಹುದು. ಹಾಗೆಯೇ ನೂರಾ ಆರನ್ನು ನೂರು ಪ್ಲಸ್ ಆರು ಅಂತ ಬರೆಯಬಹುದು. ಈಗ ಇದು x plus a into x plus b ರೂಪಕ್ಕೆ ಬಂತು."
+    },
+    {
+      "index": 13,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಓಕೆ. ಇಲ್ಲಿ x ಅಂದರೆ ನೂರು, a ಅಂದರೆ ಐದು, ಮತ್ತು b ಅಂದರೆ ಆರು. ಸರಿ ತಾನೇ?"
+    },
+    {
+      "index": 14,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ನಿಖರವಾಗಿ. ಈಗ ಸೂತ್ರದ ಪ್ರಕಾರ, x squared ಅಂದರೆ ನೂರರ ವರ್ಗ, ಪ್ಲಸ್ a plus b into x ಅಂದರೆ ಐದು ಪ್ಲಸ್ ಆರು ಇಂಟು ನೂರು, ಪ್ಲಸ್ a b ಅಂದರೆ ಐದು ಇಂಟು ಆರು."
+    },
+    {
+      "index": 15,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ನೂರರ ವರ್ಗ ಹತ್ತು ಸಾವಿರ. ಐದು ಪ್ಲಸ್ ಆರು ಹನ್ನೊಂದು, ಹನ್ನೊಂದು ಇಂಟು ನೂರು ಅಂದರೆ ಸಾವಿರದ ನೂರು. ಮತ್ತು ಐದು ಇಂಟು ಆರು ಮೂವತ್ತು. ಇವೆಲ್ಲವನ್ನೂ ಕೂಡಿಸಿದರೆ ಹನ್ನೊಂದು ಸಾವಿರದ ನೂರ ಮೂವತ್ತು."
+    },
+    {
+      "index": 16,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಅದ್ಭುತ! ನೇರವಾಗಿ ಗುಣಾಕಾರ ಮಾಡುವುದಕ್ಕಿಂತ ಇದು ತುಂಬಾ ವೇಗವಾಗಿದೆ. ಸಮಯ ಉಳಿಯುತ್ತೆ."
+    },
+    {
+      "index": 17,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಈಗ ಮೂರು ಪದಗಳಿರುವ ವರ್ಗದ ನಿತ್ಯಸಮೀಕರಣ ನೋಡೋಣ. ಐದನೆಯದು, x plus y plus z whole squared equals x squared plus y squared plus z squared plus two x y plus two y z plus two z x."
+    },
+    {
+      "index": 18,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಗುರುಗಳೇ, ಇದರಲ್ಲಿ ಯಾವುದಾದರೂ ಪದಕ್ಕೆ ಮೈನಸ್ ಚಿಹ್ನೆ ಇದ್ದರೆ ಏನು ಮಾಡಬೇಕು? ಉದಾಹರಣೆಗೆ ಫೋರ್ a ಮೈನಸ್ ಟೂ b ಮೈನಸ್ ಥ್ರೀ c ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್?"
+    },
+    {
+      "index": 19,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಒಳ್ಳೆಯ ಪ್ರಶ್ನೆ. ಆಗ ನಾವು ಅದನ್ನ ಫೋರ್ a ಪ್ಲಸ್ ಮೈನಸ್ ಟೂ b ಪ್ಲಸ್ ಮೈನಸ್ ಥ್ರೀ c ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಅಂತ ಬರ್ಕೋಬೇಕು. ಇಲ್ಲಿ x ಅಂದರೆ ಫೋರ್ a, y ಅಂದರೆ ಮೈನಸ್ ಟೂ b, ಮತ್ತು z ಅಂದರೆ ಮೈನಸ್ ಥ್ರೀ c."
+    },
+    {
+      "index": 20,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ನಂತರ ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಬೇಕು. x ಸ್ಕ್ವೇರ್ಡ್ ಅಂದರೆ ಫೋರ್ a ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್, ಅದು ಸಿಕ್ಸ್ಟೀನ್ a ಸ್ಕ್ವೇರ್ಡ್. y ಸ್ಕ್ವೇರ್ಡ್ ಅಂದರೆ ಮೈನಸ್ ಟೂ b ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್, ಅದು ಪ್ಲಸ್ ಫೋರ್ b ಸ್ಕ್ವೇರ್ಡ್ ಆಗುತ್ತೆ. z ಸ್ಕ್ವೇರ್ಡ್ ಅಂದರೆ ಮೈನಸ್ ಥ್ರೀ c ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್, ಅದು ಪ್ಲಸ್ ನೈನ್ c ಸ್ಕ್ವೇರ್ಡ್."
+    },
+    {
+      "index": 21,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಅರ್ಥವಾಯಿತು. ವರ್ಗ ಮಾಡಿದಾಗ ಋಣಾತ್ಮಕ ಚಿಹ್ನೆ ಧನಾತ್ಮಕ ಆಗುತ್ತೆ. ಹಾಗಾದರೆ two x y, two y z, two z x ಪದಗಳ ಕಥೆ ಏನು?"
+    },
+    {
+      "index": 22,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಅಲ್ಲಿ ಚಿಹ್ನೆಗಳು ಬದಲಾಗುತ್ತವೆ. ಟೂ x y ಅಂದರೆ ಟೂ ಇಂಟು ಫೋರ್ a ಇಂಟು ಮೈನಸ್ ಟೂ b, ಅದು ಮೈನಸ್ ಸಿಕ್ಸ್ಟೀನ್ a b ಆಗುತ್ತೆ. ಟೂ y z ಅಂದರೆ ಟೂ ಇಂಟು ಮೈನಸ್ ಟೂ b ಇಂಟು ಮೈನಸ್ ಥ್ರೀ c, ಇದು ಪ್ಲಸ್ ಟ್ವೆಲ್ವ್ b c ಆಗುತ್ತೆ."
+    },
+    {
+      "index": 23,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಕೊನೆಯದಾಗಿ, ಟೂ z x ಅಂದರೆ ಟೂ ಇಂಟು ಮೈನಸ್ ಥ್ರೀ c ಇಂಟು ಫೋರ್ a, ಇದು ಮೈನಸ್ ಟ್ವೆಂಟಿ ಫೋರ್ a c ಆಗುತ್ತೆ. ಹೀಗೆ ಚಿಹ್ನೆಗಳ ಬಗ್ಗೆ ಬಹಳ ಎಚ್ಚರಿಕೆ ವಹಿಸಬೇಕು."
+    },
+    {
+      "index": 24,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಖಂಡಿತ ಗುರುಗಳೇ. ಈ ತರಹದ ಪ್ರಶ್ನೆಗಳಲ್ಲಿ ಚಿಹ್ನೆಗಳೇ ಮುಖ್ಯವಾದದ್ದು."
+    },
+    {
+      "index": 25,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಈಗ ಘನಗಳಿಗೆ, ಅಂದರೆ ಕ್ಯೂಬ್ಸ್ ಗೆ ಸಂಬಂಧಿಸಿದ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ನೋಡೋಣ. ಆರನೆಯದು, x plus y whole cubed equals x cubed plus y cubed plus three x y into x plus y."
+    },
+    {
+      "index": 26,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಇದನ್ನು ವಿಸ್ತರಿಸಿ, x cubed plus three x squared y plus three x y squared plus y cubed ಅಂತಾನೂ ಬರೆಯಬಹುದು."
+    },
+    {
+      "index": 27,
+      "speaker": "student",
+      "section": "formula",
+      "script": "ಹಾಗೆಯೇ ಏಳನೆಯದು x minus y whole cubed ಇರಬೇಕು. ಅದು x cubed minus y cubed minus three x y into x minus y, ಸರಿ ತಾನೇ?"
+    },
+    {
+      "index": 28,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಸರಿಯಾಗಿದೆ. ಅದನ್ನು ವಿಸ್ತರಿಸಿದಾಗ x cubed minus three x squared y plus three x y squared minus y cubed ಆಗುತ್ತೆ. ಇಲ್ಲಿ ಚಿಹ್ನೆಗಳು ಪರ್ಯಾಯವಾಗಿ ಬದಲಾಗುತ್ತವೆ."
+    },
+    {
+      "index": 29,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಈ ಸೂತ್ರ ಬಳಸಿ ದೊಡ್ಡ ಸಂಖ್ಯೆಗಳ ಘನಗಳನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದೇ? ಉದಾಹರಣೆಗೆ, ತೊಳ್ಳಾಯಿರದ ತೊಂಬತ್ತೊಂಬತ್ತರ ಘನ?"
+    },
+    {
+      "index": 30,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಖಂಡಿತ. ತೊಳ್ಳಾಯಿರದ ತೊಂಬತ್ತೊಂಬತ್ತನ್ನು ಸಾವಿರ ಮೈನಸ್ ಒಂದು ಅಂತ ಬರೆಯಬಹುದು. ಆಗ ಇದು x minus y whole cubed ರೂಪಕ್ಕೆ ಬಂತು. ಇಲ್ಲಿ x ಸಾವಿರ ಮತ್ತು y ಒಂದು."
+    },
+    {
+      "index": 31,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಸೂತ್ರದ ಪ್ರಕಾರ, ಸಾವಿರದ ಕ್ಯೂಬ್ ಮೈನಸ್ ಒಂದರ ಕ್ಯೂಬ್ ಮೈನಸ್ ಮೂರು ಇಂಟು ಸಾವಿರ ಇಂಟು ಒಂದು ಇಂಟು ಸಾವಿರ ಮೈನಸ್ ಒಂದು."
+    },
+    {
+      "index": 32,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಸಾವಿರದ ಕ್ಯೂಬ್ ಅಂದರೆ ಒಂದರ ಮುಂದೆ ಒಂಬತ್ತು ಸೊನ್ನೆಗಳು. ಒಂದರ ಕ್ಯೂಬ್ ಒಂದು. ಮೂರು ಇಂಟು ಸಾವಿರ ಅಂದರೆ ಮೂರು ಸಾವಿರ. ಸಾವಿರ ಮೈನಸ್ ಒಂದು ಅಂದರೆ ತೊಳ್ಳಾಯಿರದ ತೊಂಬತ್ತೊಂಬತ್ತು. ಲೆಕ್ಕ ಸ್ವಲ್ಪ ದೊಡ್ಡದಾಗುತ್ತೆ."
+    },
+    {
+      "index": 33,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಹೌದು, ಆದರೆ ನೇರ ಗುಣಾಕಾರಕ್ಕಿಂತ ಸುಲಭ. ಮೂರು ಸಾವಿರ ಇಂಟು ತೊಳ್ಳಾಯಿರದ ತೊಂಬತ್ತೊಂಬತ್ತು ಅಂದರೆ ಇಪ್ಪತ್ತೊಂಬತ್ತು ಲಕ್ಷ ತೊಂಬತ್ತೇಳು ಸಾವಿರ. ಇದನ್ನು ಸಾವಿರದ ಘನದಿಂದ ಕಳೆದರೆ ಉತ್ತರ ತೊಂಬತ್ತೊಂಬತ್ತು ಕೋಟಿ ಎಪ್ಪತ್ತು ಲಕ್ಷದ ಎರಡು ಸಾವಿರದ ತೊಳ್ಳಾಯಿರದ ತೊಂಬತ್ತೊಂಬತ್ತು."
+    },
+    {
+      "index": 34,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಓಕೆ, ಈ ವಿಧಾನದಿಂದ ತಪ್ಪುಗಳಾಗುವ ಸಾಧ್ಯತೆ ಕಡಿಮೆ."
+    },
+    {
+      "index": 35,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಕೊನೆಯದಾಗಿ, ಎಂಟನೆಯ ಮತ್ತು ಬಹಳ ಮುಖ್ಯವಾದ ನಿತ್ಯಸಮೀಕರಣ. x cubed plus y cubed plus z cubed minus three x y z equals x plus y plus z into x squared plus y squared plus z squared minus x y minus y z minus z x."
+    },
+    {
+      "index": 36,
+      "speaker": "student",
+      "section": "formula",
+      "script": "ಇದು ತುಂಬಾ ದೊಡ್ಡದಾಗಿದೆ! ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಕಷ್ಟ. ಇದರಲ್ಲಿ ಏನಾದರೂ ವಿಶೇಷತೆ ಇದೆಯಾ?"
+    },
+    {
+      "index": 37,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಖಂಡಿತ ಇದೆ. ಇದು ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಬಹಳ ಮುಖ್ಯ. ಒಂದು ವೇಳೆ x plus y plus z ನ ಬೆಲೆ ಸೊನ್ನೆ ಆದರೆ ಏನಾಗುತ್ತೆ ಹೇಳು?"
+    },
+    {
+      "index": 38,
+      "speaker": "student",
+      "section": "formula",
+      "script": "x plus y plus z ಸೊನ್ನೆ ಆದರೆ, ಸಮೀಕರಣದ ಬಲಭಾಗ ಪೂರ್ತಿಯಾಗಿ ಸೊನ್ನೆ ಆಗುತ್ತೆ. ಅಂದರೆ x cubed plus y cubed plus z cubed minus three x y z equals zero."
+    },
+    {
+      "index": 39,
+      "speaker": "teacher",
+      "section": "formula",
+      "script": "ಸರಿಯಾಗಿದೆ. ಆಗ ನಾವು minus three x y z ಯನ್ನು ಬಲಭಾಗಕ್ಕೆ ತೆಗೆದುಕೊಂಡು ಹೋದರೆ, x cubed plus y cubed plus z cubed equals three x y z ಅಂತ ಸಿಗುತ್ತೆ. ಇದು ಒಂದು ಅತ್ಯಂತ ಪ್ರಮುಖ ಫಲಿತಾಂಶ."
+    },
+    {
+      "index": 40,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಓಹ್, ಅಂದರೆ ಮೂರು ಸಂಖ್ಯೆಗಳ ಮೊತ್ತ ಸೊನ್ನೆ ಆಗಿದ್ದರೆ, ಅವುಗಳ ಘನಗಳ ಮೊತ್ತವು ಅವುಗಳ ಗುಣಲಬ್ಧದ ಮೂರರಷ್ಟಿರುತ್ತದೆ. ಈ ಸೂತ್ರ ಬಳಸಿ ಒಂದು ಅಪವರ್ತಿಸುವ ಲೆಕ್ಕ ತೋರಿಸಿ."
+    },
+    {
+      "index": 41,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಖಂಡಿತ. eight x cubed plus y cubed plus twenty seven z cubed minus eighteen x y z ಅನ್ನು ಅಪವರ್ತಿಸಿ ಅಂತ ಕೇಳಿದರೆ, ನಾವು ಈ ಎಂಟನೇ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಬೇಕು."
+    },
+    {
+      "index": 42,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಇಲ್ಲಿ eight x cubed ಅನ್ನು two x whole cubed ಅಂತ, y cubed ಅನ್ನು y whole cubed ಅಂತ ಮತ್ತು twenty seven z cubed ಅನ್ನು three z whole cubed ಅಂತ ಬರೆಯಬಹುದು. eighteen x y z ಅನ್ನು three into two x into y into three z ಅಂತ ಬರೆಯಬಹುದು."
+    },
+    {
+      "index": 43,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಅಂದರೆ ಇದು a cubed plus b cubed plus c cubed minus three a b c ರೂಪದಲ್ಲಿದೆ. ಇಲ್ಲಿ a ಅಂದರೆ two x, b ಅಂದರೆ y, ಮತ್ತು c ಅಂದರೆ three z."
+    },
+    {
+      "index": 44,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಹೌದು. ಹಾಗಾಗಿ ಇದರ ಅಪವರ್ತನಗಳು, a plus b plus c ಅಂದರೆ two x plus y plus three z, ಇಂಟು a squared plus b squared plus c squared minus a b minus b c minus c a."
+    },
+    {
+      "index": 45,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಅದನ್ನು ವಿಸ್ತರಿಸಿದರೆ, two x plus y plus three z into four x squared plus y squared plus nine z squared minus two x y minus three y z minus six z x ಅಂತ ಉತ್ತರ ಸಿಗುತ್ತೆ."
+    },
+    {
+      "index": 46,
+      "speaker": "student",
+      "section": "exam_tips",
+      "script": "ಅದ್ಭುತ. ಗುರುಗಳೇ, ಪರೀಕ್ಷೆಯಲ್ಲಿ ಈ ನಿತ್ಯಸಮೀಕರಣಗಳ ಮೇಲೆ ಯಾವ ರೀತಿ ಪ್ರಶ್ನೆಗಳು ಬರುತ್ತವೆ? ಎಂ ಸಿ ಕ್ಯೂ ಗಳಲ್ಲಿ ಹೇಗಿರುತ್ತೆ?"
+    },
+    {
+      "index": 47,
+      "speaker": "teacher",
+      "section": "exam_tips",
+      "script": "ಎಂ ಸಿ ಕ್ಯೂ ಗಳಲ್ಲಿ, ಒಂದು ಬೀಜೋಕ್ತಿ ಕೊಟ್ಟು, ಅದನ್ನು ವಿಸ್ತರಿಸಲು ಅಥವಾ ಅಪವರ್ತಿಸಲು ಯಾವ ನಿತ್ಯಸಮೀಕರಣ ಸರಿ ಅಂತ ಆಯ್ಕೆಗಳಲ್ಲಿ ಕೇಳಬಹುದು. ಅಥವಾ ನೂರಾ ಎರಡರ ವರ್ಗ, ತೊಂಬತ್ತೊಂಬತ್ತು ಇಂಟು ನೂರಾ ಒಂದು ಈ ತರಹದ ಲೆಕ್ಕಗಳನ್ನು ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಲು ಕೇಳುತ್ತಾರೆ."
+    },
+    {
+      "index": 48,
+      "speaker": "student",
+      "section": "exam_tips",
+      "script": "ಸಾಮಾನ್ಯವಾಗಿ ಮಾಡುವ ತಪ್ಪುಗಳು ಯಾವುವು?"
+    },
+    {
+      "index": 49,
+      "speaker": "teacher",
+      "section": "exam_tips",
+      "script": "ಸಾಮಾನ್ಯವಾಗಿ ಮಾಡುವ ತಪ್ಪು ಅಂದರೆ x plus y whole squared ಅನ್ನು x squared plus y squared ಅಂತ ಬರೆಯುವುದು. ಮಧ್ಯದ two x y ಪದವನ್ನು ಮರೆಯುತ್ತಾರೆ. ಹಾಗೆಯೇ x minus y whole squared ಮತ್ತು whole cubed ನಲ್ಲಿ ಚಿಹ್ನೆಗಳ ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳುತ್ತಾರೆ. ಇದರ ಬಗ್ಗೆ ಜಾಗರೂಕರಾಗಿರಿ."
+    },
+    {
+      "index": 50,
+      "speaker": "teacher",
+      "section": "recap",
+      "script": "ಹಾಗಾದರೆ, ಇಂದಿನ ಪಾಠವನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಹೇಳುವುದಾದರೆ, ನಾವು ವರ್ಗ ಮತ್ತು ಘನಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಎಂಟು ಪ್ರಮುಖ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ನೋಡಿದ್ದೇವೆ. ಅವುಗಳನ್ನು ವಿಸ್ತರಿಸಲು, ಅಪವರ್ತಿಸಲು ಮತ್ತು ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಸುಲಭಗೊಳಿಸಲು ಹೇಗೆ ಬಳಸಬಹುದು ಎಂದು ಕಲಿತಿದ್ದೇವೆ."
+    },
+    {
+      "index": 51,
+      "speaker": "student",
+      "section": "recap",
+      "script": "ನನಗೆ ಚೆನ್ನಾಗಿ ಅರ್ಥವಾಯಿತು ಗುರುಗಳೇ. ನಿತ್ಯಸಮೀಕರಣಗಳು ಕೇವಲ ಸೂತ್ರಗಳಲ್ಲ, ಅವು ಲೆಕ್ಕಗಳನ್ನು ವೇಗವಾಗಿ ಮತ್ತು ನಿಖರವಾಗಿ ಮಾಡಲು ಇರುವ ಸಾಧನಗಳು. ವಿಶೇಷವಾಗಿ x plus y plus z equals zero ಆದಾಗ ಸಿಗುವ ಫಲಿತಾಂಶ ಬಹಳ ಮುಖ್ಯ."
+    },
+    {
+      "index": 52,
+      "speaker": "teacher",
+      "section": "recap",
+      "script": "ಅತ್ಯುತ್ತಮ. ಇದೇ ರೀತಿ ಅಭ್ಯಾಸ ಮುಂದುವರಿಸಿ. ಮುಂದಿನ ಪಾಡ್ಕಾಸ್ಟ್ ನಲ್ಲಿ ಮತ್ತೊಂದು ವಿಷಯದೊಂದಿಗೆ ಭೇಟಿಯಾಗೋಣ. ಎಲ್ಲರಿಗೂ ಒಳ್ಳೆಯದಾಗಲಿ."
+    }
+  ]
+}

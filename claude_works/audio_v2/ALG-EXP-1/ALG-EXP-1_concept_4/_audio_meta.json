@@ -1,0 +1,202 @@
+{
+  "module_id": "ALG-EXP-1_concept_4",
+  "merge_code": "ALG-EXP-1",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 17,
+  "ok_count": 17,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:05:26",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "70a52f0196176e3bedb37b0fad16b5a5",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.011,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 43,
+      "generated_at": "2026-03-30 14:02:12"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "6b741faf0213d2a71634e9ce93357d9a",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 53.091,
+      "slide_title": "ಏಕಪದೋಕ್ತಿ: ವಿವರಣೆ",
+      "type": "definition",
+      "script_words": 65,
+      "generated_at": "2026-03-30 14:02:21"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "8bf011e5280b6c78c7af56202cbe1df8",
+      "wav_file": "003_definition_0.wav",
+      "duration": 55.531,
+      "slide_title": "ಏಕಪದೋಕ್ತಿ (Monomial)",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-03-30 14:02:25"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "0e181685e65fcbeead13f1bc46f2c8ac",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 60.171,
+      "slide_title": "ಏಕಪದೋಕ್ತಿ vs. ಏಕಪದೋಕ್ತಿಯಲ್ಲದವು",
+      "type": "definition",
+      "script_words": 75,
+      "generated_at": "2026-03-30 14:02:26"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "9fc4e70835a2d67395b34aa1387d335d",
+      "wav_file": "001_intro_0.wav",
+      "duration": 54.491,
+      "slide_title": "ಬೀಜೋಕ್ತಿಗಳ ವರ್ಗೀಕರಣ",
+      "type": "intro",
+      "script_words": 78,
+      "generated_at": "2026-03-30 14:02:30"
+    },
+    "010_definition_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "8a79f6bd1b5082122b379aecb4e7f2db",
+      "wav_file": "010_definition_2.wav",
+      "duration": 51.691,
+      "slide_title": "ವ್ಯಾಖ್ಯೆ: ತ್ರಿಪದೋಕ್ತಿ (Trinomial)",
+      "type": "definition",
+      "script_words": 76,
+      "generated_at": "2026-03-30 14:03:19"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "399b1d7b137029e7a3d7f03bbbb2eba7",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 45.811,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶ: ಪದಗಳನ್ನು ಗುರುತಿಸುವುದು",
+      "type": "definition",
+      "script_words": 71,
+      "generated_at": "2026-03-30 14:03:20"
+    },
+    "009_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "af1dbc5e7e6e7ed021715baa4e35b1f1",
+      "wav_file": "009_definition_cont_1_2.wav",
+      "duration": 52.051,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "definition",
+      "script_words": 71,
+      "generated_at": "2026-03-30 14:03:23"
+    },
+    "007_definition_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "ee35d8c906ff2b76042e8bef52ff51ca",
+      "wav_file": "007_definition_1.wav",
+      "duration": 54.171,
+      "slide_title": "ದ್ವಿಪದೋಕ್ತಿ (Binomial)",
+      "type": "definition",
+      "script_words": 66,
+      "generated_at": "2026-03-30 14:03:24"
+    },
+    "008_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "6261815a5f57130535e75f4d7b6addee",
+      "wav_file": "008_definition_cont_1_1.wav",
+      "duration": 65.131,
+      "slide_title": "ಉದಾಹರಣೆಗಳು: ದ್ವಿಪದೋಕ್ತಿ vs. ದ್ವಿಪದೋಕ್ತಿಯಲ್ಲ",
+      "type": "definition",
+      "script_words": 91,
+      "generated_at": "2026-03-30 14:03:30"
+    },
+    "013_definition_3.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "7bd7c1cd1582d931dcd6036eb320ed3f",
+      "wav_file": "013_definition_3.wav",
+      "duration": 52.251,
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಬಹುಪದೋಕ್ತಿ (Polynomial)",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-03-30 14:04:25"
+    },
+    "014_definition_cont_3_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "ac653219d9c73eea8ec2eddc30fdbb30",
+      "wav_file": "014_definition_cont_3_1.wav",
+      "duration": 63.331,
+      "slide_title": "ಪ್ರಮುಖ ನಿಯಮ: ಘಾತಾಂಕಗಳು",
+      "type": "definition",
+      "script_words": 81,
+      "generated_at": "2026-03-30 14:04:29"
+    },
+    "012_definition_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "54af71e8dafc0b37530ce160f0717f58",
+      "wav_file": "012_definition_cont_2_2.wav",
+      "duration": 50.211,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಮೊದಲು ಸುಲಭೀಕರಿಸಿ!",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-03-30 14:04:31"
+    },
+    "011_definition_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "f4a68b2882192ea3beb37f8b2ecb2bbb",
+      "wav_file": "011_definition_cont_2_1.wav",
+      "duration": 59.771,
+      "slide_title": "ಸಜಾತಿ ಪದಗಳು vs ವಿಜಾತಿ ಪದಗಳು",
+      "type": "definition",
+      "script_words": 76,
+      "generated_at": "2026-03-30 14:04:33"
+    },
+    "015_definition_cont_3_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "94cc3ed08a870bbc4588f556a5d3a2a5",
+      "wav_file": "015_definition_cont_3_2.wav",
+      "duration": 57.371,
+      "slide_title": "ಉದಾಹರಣೆಗಳು: ಯಾವುದು ಬಹುಪದೋಕ್ತಿ? ಯಾವುದು ಅಲ್ಲ?",
+      "type": "definition",
+      "script_words": 89,
+      "generated_at": "2026-03-30 14:04:36"
+    },
+    "017_recap_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "0bcd764e36183eb33e4ad3b335b52507",
+      "wav_file": "017_recap_0.wav",
+      "duration": 55.051,
+      "slide_title": "ಸಾರಾಂಶ: ಬೀಜೋಕ್ತಿಗಳ ವರ್ಗೀಕರಣ",
+      "type": "recap",
+      "script_words": 54,
+      "generated_at": "2026-03-30 14:05:19"
+    },
+    "016_definition_cont_3_3.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "2ea2690601a9b152006f24cd0b67c87b",
+      "wav_file": "016_definition_cont_3_3.wav",
+      "duration": 59.651,
+      "slide_title": "ಬಹುಪದೋಕ್ತಿ: ಒಂದು ದೊಡ್ಡ ಕುಟುಂಬ",
+      "type": "definition",
+      "script_words": 79,
+      "generated_at": "2026-03-30 14:05:26"
+    }
+  }
+}

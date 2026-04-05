@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಭಾಗ (ii)",
+  "script": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ: ಇಪ್ಪತ್ತೈದು ಬೈ ನಾಲ್ಕು x ವರ್ಗ ಮೈನಸ್ y ವರ್ಗ ಬೈ ಒಂಬತ್ತು. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಈ ಪದಗಳನ್ನು ಪೂರ್ಣವರ್ಗಗಳಾಗಿ ಬರೆಯುತ್ತೇವೆ. ಇಪ್ಪತ್ತೈದು ಬೈ ನಾಲ್ಕು x ವರ್ಗವನ್ನು ಐದು ಬೈ ಎರಡು x ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಎಂದು ಬರೆಯಬಹುದು. ಹಾಗೆಯೇ, y ವರ್ಗ ಬೈ ಒಂಬತ್ತನ್ನು y ಬೈ ಮೂರು ಹೋಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಎಂದು ಬರೆಯಬಹುದು. ಈಗ ಇದು x ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ y ಸ್ಕ್ವೇರ್ಡ್ ರೂಪದಲ್ಲಿದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ನಿತ್ಯಸಮೀಕರಣ ಮೂರನ್ನ ಬಳಸುತ್ತೇವೆ: x ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ y ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ x ಪ್ಲಸ್ y ಇಂಟು x ಮೈನಸ್ y. ಇಲ್ಲಿ x ಎಂಬುದು ಐದು ಬೈ ಎರಡು x ಮತ್ತು y ಎಂಬುದು y ಬೈ ಮೂರು ಆಗಿದೆ. ಇದನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ ಐದು ಬೈ ಎರಡು x ಪ್ಲಸ್ y ಬೈ ಮೂರು, ಇಂಟು ಐದು ಬೈ ಎರಡು x ಮೈನಸ್ y ಬೈ ಮೂರು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಎರಡನೇ ಭಾಗವನ್ನು ನೋಡೋಣ: $\\frac{25}{4}x^2 - \\frac{y^2}{9}$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-POL-3_example_16",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\frac{25}{4}x^2 = (\\frac{5}{2}x)^2$ \n $\\frac{y^2}{9} = (\\frac{y}{3})^2$",
+      "justification": "ಪದಗಳನ್ನು $x^2$ ಮತ್ತು $y^2$ ರೂಪದಲ್ಲಿ ಬರೆಯುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$(\\frac{5}{2}x)^2 - (\\frac{y}{3})^2 = (\\frac{5}{2}x + \\frac{y}{3})(\\frac{5}{2}x - \\frac{y}{3})$",
+      "justification": "ನಿತ್ಯಸಮೀಕರಣ III: $x^2-y^2 = (x+y)(x-y)$ ಬಳಸಿ, ಇಲ್ಲಿ $x=\\frac{5}{2}x, y=\\frac{y}{3}$."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_054"
+}

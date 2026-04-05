@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಲೆಕ್ಕಾತ್ಮಕ ಉದಾಹರಣೆ: ಚಲನಶಕ್ತಿ",
+  "script": "ಈಗ ನಾವು ಚಲನಶಕ್ತಿಯ ಮೇಲೆ ಒಂದು ಲೆಕ್ಕಾತ್ಮಕ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಶ್ನೆ ಹೀಗಿದೆ: 15 kg ರಾಶಿಯ ಕಾಯವೊಂದು 4 ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಸ್ಥಿರವೇಗದಲ್ಲಿ ಚಲಿಸುತ್ತಿದೆ. ಕಾಯ ಪಡೆದಿರುವ ಚಲನಶಕ್ತಿ ಎಷ್ಟು? ಈ ಪ್ರಶ್ನೆಯಲ್ಲಿ, ನಮಗೆ ನೀಡಿರುವ ದತ್ತಾಂಶಗಳನ್ನು ಮೊದಲು ಬರೆದುಕೊಳ್ಳೋಣ. ಕಾಯದ ರಾಶಿ, m, 15 kg ಆಗಿದೆ. ಅದರ ವೇಗ, v, 4 ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಆಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಕಾಯದ ಚಲನಶಕ್ತಿ, ಅಂದರೆ E k.",
+  "script_display": "ಈಗ ನಾವು ಚಲನಶಕ್ತಿಯ ಮೇಲೆ ಒಂದು ಲೆಕ್ಕಾತ್ಮಕ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. <br><br><b>ಪ್ರಶ್ನೆ:</b> 15 kg ರಾಶಿಯ ಕಾಯವೊಂದು 4 ms⁻¹ ಸ್ಥಿರವೇಗದಲ್ಲಿ ಚಲಿಸುತ್ತಿದೆ. ಕಾಯ ಪಡೆದಿರುವ ಚಲನಶಕ್ತಿ ಎಷ್ಟು?",
+  "display_bullets": [
+    "<b>ದತ್ತಾಂಶಗಳು (Given):</b>",
+    "ಕಾಯದ ರಾಶಿ (m) = 15 kg",
+    "ಕಾಯದ ವೇಗ (v) = 4 ms⁻¹",
+    "<b>ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (Find):</b>",
+    "ಚಲನಶಕ್ತಿ (Eₖ) = ?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "template_problem_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_10_example_3",
+  "chunk_id": "std_9_chapter_10_concept_4_chunk_010"
+}

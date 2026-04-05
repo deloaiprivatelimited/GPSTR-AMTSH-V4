@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಸ್ಯಸಂಪತ್ತು (Flora) vs ಪ್ರಾಣಿಸಂಪತ್ತು (Fauna)",
+  "script": "ಸಸ್ಯಸಂಪತ್ತು ಎಂಬ ಪದವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವಾಗ, ಅದರ ಜೊತೆಗೇ ಬರುವ ಇನ್ನೊಂದು ಪದ ಪ್ರಾಣಿಸಂಪತ್ತು ಅಥವಾ ಫಾನಾ ಬಗ್ಗೆಯೂ ತಿಳಿಯುವುದು ಮುಖ್ಯ. ಇವೆರಡರ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಸಸ್ಯಸಂಪತ್ತು ಎಂದರೆ ಒಂದು ಪ್ರದೇಶದ ಸಸ್ಯಗಳು. ಉದಾಹರಣೆಗೆ ಪಚ್‌ಮಡಿಯ ಸಾಲ್ ಮತ್ತು ತೇಗದ ಮರಗಳು. ಬಲಭಾಗದಲ್ಲಿ, ಪ್ರಾಣಿಸಂಪತ್ತು ಎಂದರೆ ಅದೇ ಪ್ರದೇಶದಲ್ಲಿ ವಾಸಿಸುವ ಪ್ರಾಣಿಗಳು. ಉದಾಹರಣೆಗೆ, ಪಚ್‌ಮಡಿಯಲ್ಲಿ ಕಂಡುಬರುವ ಚಿರತೆ, ಜಿಂಕೆ ಮತ್ತು ಕಾಡು ನಾಯಿ. ಆದ್ದರಿಂದ, ಫ್ಲೋರಾ ಸಸ್ಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ್ದರೆ, ಫಾನಾ ಪ್ರಾಣಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ.",
+  "script_display": "ಸಸ್ಯಸಂಪತ್ತು (Flora) ಎಂಬ ಪದವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವಾಗ, ಅದರ ಜೊತೆಗೇ ಬರುವ ಇನ್ನೊಂದು ಪದ 'ಪ್ರಾಣಿಸಂಪತ್ತು' (Fauna) ಬಗ್ಗೆಯೂ ತಿಳಿಯುವುದು ಮುಖ್ಯ. ಇವೆರಡರ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಸಸ್ಯಸಂಪತ್ತು ಎಂದರೆ ಒಂದು ಪ್ರದೇಶದ ಸಸ್ಯಗಳು. ಉದಾಹರಣೆಗೆ ಪಚ್‌ಮಡಿಯ ಸಾಲ್ ಮತ್ತು ತೇಗದ ಮರಗಳು. ಬಲಭಾಗದಲ್ಲಿ, ಪ್ರಾಣಿಸಂಪತ್ತು ಎಂದರೆ ಅದೇ ಪ್ರದೇಶದಲ್ಲಿ ವಾಸಿಸುವ ಪ್ರಾಣಿಗಳು. ಉದಾಹರಣೆಗೆ, ಪಚ್‌ಮಡಿಯಲ್ಲಿ ಕಂಡುಬರುವ ಚಿರತೆ, ಜಿಂಕೆ ಮತ್ತು ಕಾಡು ನಾಯಿ. ಆದ್ದರಿಂದ, Flora ಸಸ್ಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ್ದರೆ, Fauna ಪ್ರಾಣಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A two-column table comparing Flora and Fauna. Left column for Flora, right for Fauna. Each column has a definition and an example from Pachmarhi reserve. The table should be visually distinct to represent a comparison. Images of a plant and an animal can be used as icons in the headers if possible. The table will be rendered directly on the slide as the main visual element. The headers are 'ಸಸ್ಯಸಂಪತ್ತು (Flora)' and 'ಪ್ರಾಣಿಸಂಪತ್ತು (Fauna)'. Row 1: 'ಒಂದು ಪ್ರದೇಶದ ಎಲ್ಲಾ ಸಸ್ಯಗಳು.' vs 'ಒಂದು ಪ್ರದೇಶದ ಎಲ್ಲಾ ಪ್ರಾಣಿಗಳು.'. Row 2: 'ಉದಾ: ಸಾಲ್, ತೇಗ, ಮಾವು.' vs 'ಉದಾ: ಚಿರತೆ, ಜಿಂಕೆ, ಕಾಡು ನಾಯಿ.'."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_8_chapter_5_concept_2_chunk_008"
+}

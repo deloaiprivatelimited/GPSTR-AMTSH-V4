@@ -1,0 +1,180 @@
+{
+  "module_id": "NS-INT-1_concept_6",
+  "merge_code": "NS-INT-1",
+  "voice": "Iapetus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 15,
+  "ok_count": 15,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:52:11",
+  "chunks": {
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "e89f93ab80fcecb167e5c0ef2b5e8181",
+      "wav_file": "001_intro_0.wav",
+      "duration": 53.451,
+      "slide_title": "ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರದ ಗುಣಗಳು",
+      "type": "intro",
+      "script_words": 70,
+      "generated_at": "2026-03-30 15:49:46"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "56de898f937c7f84cfa4f54fe609fdf9",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 36.611,
+      "slide_title": "ನೀವು ತಿಳಿದುಕೊಳ್ಳಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 47,
+      "generated_at": "2026-03-30 15:49:55"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "8cd3940c6f5336422566d890a290e00a",
+      "wav_file": "003_property_0.wav",
+      "duration": 52.011,
+      "slide_title": "ಆವೃತ ಗುಣ (Closure Property)",
+      "type": "concept_explanation",
+      "script_words": 71,
+      "generated_at": "2026-03-30 15:50:15"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "ee3540383404167675a6e2b04cac1c6b",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 56.931,
+      "slide_title": "ಪರಿವರ್ತನೀಯ ಗುಣ (Commutative Property)",
+      "type": "concept_explanation",
+      "script_words": 74,
+      "generated_at": "2026-03-30 15:50:33"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "c375a287a527a1b961b22db419a4196b",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 74.731,
+      "slide_title": "ಸಹವರ್ತನೀಯ ಗುಣ (Associative Property)",
+      "type": "concept_explanation",
+      "script_words": 114,
+      "generated_at": "2026-03-30 15:50:37"
+    },
+    "007_property_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "29d2e594eb47fc088a5045eee7f4835e",
+      "wav_file": "007_property_cont_1_1.wav",
+      "duration": 33.171,
+      "slide_title": "ವಿಭಾಜಕ ನಿಯಮ (Distributive Property)",
+      "type": "concept_explanation",
+      "script_words": 46,
+      "generated_at": "2026-03-30 15:50:40"
+    },
+    "006_property_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "70f88d4f1be998e6ebd9e2251dc76fb3",
+      "wav_file": "006_property_1.wav",
+      "duration": 44.971,
+      "slide_title": "ಗುಣಾಕಾರದ ಅನನ್ಯತಾಂಶ (Multiplicative Identity)",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-03-30 15:51:02"
+    },
+    "008_property_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "89ac86f5f68e7ccc3f01fb755ba6b487",
+      "wav_file": "008_property_cont_1_2.wav",
+      "duration": 65.971,
+      "slide_title": "ವಿಭಾಜಕ ನಿಯಮ: ಸಂಕಲನದ ಮೇಲೆ",
+      "type": "concept_explanation",
+      "script_words": 103,
+      "generated_at": "2026-03-30 15:51:23"
+    },
+    "009_property_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "2a4f9db3e0702e5847d31c7cfbb143ff",
+      "wav_file": "009_property_cont_1_3.wav",
+      "duration": 58.851,
+      "slide_title": "ವಿಭಾಜಕ ನಿಯಮ: ವ್ಯವಕಲನದ ಮೇಲೆ",
+      "type": "concept_explanation",
+      "script_words": 93,
+      "generated_at": "2026-03-30 15:51:24"
+    },
+    "010_property_cont_1_4.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "ac478e1a02b3b8eab9fa82a9a973e231",
+      "wav_file": "010_property_cont_1_4.wav",
+      "duration": 71.691,
+      "slide_title": "ವಿಭಾಜಕ ನಿಯಮದ ಉಪಯೋಗ",
+      "type": "concept_explanation",
+      "script_words": 104,
+      "generated_at": "2026-03-30 15:51:27"
+    },
+    "011_example_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "53057750b1355eba560b17a87027c90a",
+      "wav_file": "011_example_0.wav",
+      "duration": 31.131,
+      "slide_title": "ಪರಿಶೀಲನೆಯ ಉದಾಹರಣೆ",
+      "type": "worked_example",
+      "script_words": 46,
+      "generated_at": "2026-03-30 15:51:32"
+    },
+    "012_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "ca76d33d5b0cb734dde3f1b501a68a48",
+      "wav_file": "012_example_cont_0_1.wav",
+      "duration": 40.211,
+      "slide_title": "ಪರಿಹಾರ: ಎಡಭಾಗ (LHS)",
+      "type": "worked_example",
+      "script_words": 50,
+      "generated_at": "2026-03-30 15:51:50"
+    },
+    "014_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "4d493052e390f770bf8b3c7e021470c4",
+      "wav_file": "014_example_cont_0_3.wav",
+      "duration": 28.171,
+      "slide_title": "ಅಂತಿಮ ತೀರ್ಮಾನ",
+      "type": "worked_example",
+      "script_words": 39,
+      "generated_at": "2026-03-30 15:52:02"
+    },
+    "013_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "5a9c38abcb755d605bba829e57d402a7",
+      "wav_file": "013_example_cont_0_2.wav",
+      "duration": 41.931,
+      "slide_title": "ಪರಿಹಾರ: ಬಲಭಾಗ (RHS)",
+      "type": "worked_example",
+      "script_words": 59,
+      "generated_at": "2026-03-30 15:52:08"
+    },
+    "015_recap_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "a11db5e57f36f8c3b8c18a3f01c89672",
+      "wav_file": "015_recap_0.wav",
+      "duration": 35.691,
+      "slide_title": "ಸಾರಾಂಶ: ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರದ ಗುಣಗಳು",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-03-30 15:52:11"
+    }
+  }
+}

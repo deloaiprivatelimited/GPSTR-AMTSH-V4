@@ -1,0 +1,79 @@
+{
+  "module_id": "std_9_chapter_4_concept_1",
+  "chapter_code": "std_9_chapter_4",
+  "voice": "Callirrhoe",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 290.306,
+  "total_duration_formatted": "4:50",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_4_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಉಪಪರಮಾಣು ಕಣಗಳು (Subatomic Particles)",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 58.331,
+      "duration": 58.331,
+      "script_words": 78
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_1_chunk_002",
+      "chunk_file": "002_property_0.json",
+      "wav_file": "002_property_0.wav",
+      "slide_title": "ಉಪಪರಮಾಣು ಕಣಗಳು: ಇಲೆಕ್ಟ್ರಾನ್",
+      "type": "concept_explanation",
+      "start": 58.931,
+      "end": 104.142,
+      "duration": 45.211,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_1_chunk_003",
+      "chunk_file": "003_property_cont_0_1.json",
+      "wav_file": "003_property_cont_0_1.wav",
+      "slide_title": "ಉಪಪರಮಾಣು ಕಣಗಳು: ಪ್ರೋಟಾನ್",
+      "type": "concept_explanation",
+      "start": 104.742,
+      "end": 149.673,
+      "duration": 44.931,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_1_chunk_004",
+      "chunk_file": "004_property_cont_0_2.json",
+      "wav_file": "004_property_cont_0_2.wav",
+      "slide_title": "ಉಪಪರಮಾಣು ಕಣಗಳು: ನ್ಯೂಟ್ರಾನ್",
+      "type": "concept_explanation",
+      "start": 150.273,
+      "end": 194.364,
+      "duration": 44.091,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_1_chunk_005",
+      "chunk_file": "005_property_1.json",
+      "wav_file": "005_property_1.wav",
+      "slide_title": "ಉಪಪರಮಾಣು ಕಣಗಳ ಸ್ಥಾನ",
+      "type": "concept_explanation",
+      "start": 194.964,
+      "end": 244.295,
+      "duration": 49.331,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_1_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 244.895,
+      "end": 289.706,
+      "duration": 44.811,
+      "script_words": 55
+    }
+  ]
+}

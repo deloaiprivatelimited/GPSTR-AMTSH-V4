@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 4-6",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಾವು ತ್ರಿಭುಜ AOD ಮತ್ತು ತ್ರಿಭುಜ COD ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, ಕೋನ AOD ಯು ಕೋನ COD ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಇದಲ್ಲದೆ, AC ಒಂದು ಸರಳ ರೇಖೆಯಾಗಿರುವುದರಿಂದ, ಕೋನ AOD ಮತ್ತು ಕೋನ COD ಒಂದು ರೇಖಾತ್ಮಕ ಯುಗ್ಮವನ್ನು ರೂಪಿಸುತ್ತವೆ. ಅಂದರೆ, ಕೋನ AOD ಪ್ಲಸ್ ಕೋನ COD ಯು ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿಗಳಿಗೆ ಸಮ. ಈಗ, ಕೋನ COD ಬದಲಿಗೆ ಕೋನ AOD ಯನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ ಕೋನ AOD ಪ್ಲಸ್ ಕೋನ AOD ಸಮ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಸಿಗುತ್ತದೆ. ಇದು ಎರಡು ಕೋನ AOD ಸಮ ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಎಂದಾಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಕೋನ AOD ಯು ನೂರಾ ಎಂಬತ್ತು ಭಾಗಿಸು ಎರಡು, ಅಂದರೆ ತೊಂಬತ್ತು ಡಿಗ್ರಿ. ಇದರರ್ಥ ಕರ್ಣಗಳು ಲಂಬವಾಗಿವೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ನಾವು $∆AOD ≅ ∆COD$ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು ಸಮವಾಗಿರುವುದರಿಂದ (CPCTC), $∠AOD = ∠COD$. ಇದಲ್ಲದೆ, AC ಒಂದು ಸರಳ ರೇಖೆಯಾಗಿರುವುದರಿಂದ, $∠AOD$ ಮತ್ತು $∠COD$ ಒಂದು ರೇಖಾತ್ಮಕ ಯುಗ್ಮವನ್ನು ರೂಪಿಸುತ್ತವೆ. ಅಂದರೆ, $∠AOD + ∠COD = 180°$. ಈಗ, $∠COD$ ಬದಲಿಗೆ $∠AOD$ ಯನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ $∠AOD + ∠AOD = 180°$ ಸಿಗುತ್ತದೆ. ಇದು $2∠AOD = 180°$ ಎಂದಾಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, $∠AOD = 180°/2 = 90°$. ಇದರರ್ಥ ಕರ್ಣಗಳು ಲಂಬವಾಗಿವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. ಕೋನಗಳಾದ AOD ಮತ್ತು COD ಗಳನ್ನು ಸಮ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ. ಅವುಗಳು ರೇಖಾತ್ಮಕ ಯುಗ್ಮವನ್ನು (180°) ರಚಿಸುವುದನ್ನು ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "A, C, O, D",
+    "mathematical_significance": "CPCTC ಮತ್ತು ರೇಖಾತ್ಮಕ ಯುಗ್ಮದ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿ ಕೋನವು 90 ಡಿಗ್ರಿ ಎಂದು ತೋರಿಸುವುದು.",
+    "placeholder_note": "Image showing the intersection point O. Angles AOD and COD are marked as equal. A straight line AC is highlighted to show the linear pair."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-QUAD-2_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$∠AOD = ∠COD$",
+      "justification": "ಸರ್ವಸಮ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಭಾಗಗಳು (CPCTC)."
+    },
+    {
+      "step": 2,
+      "action_display": "$∠AOD + ∠COD = 180°$",
+      "justification": "ರೇಖಾತ್ಮಕ ಯುಗ್ಮ."
+    },
+    {
+      "step": 3,
+      "action_display": "$2∠AOD = 180° \\implies ∠AOD = 90°$",
+      "justification": "ಹಂತ 1 ಮತ್ತು 2 ರಿಂದ."
+    }
+  ],
+  "chunk_id": "GEO-QUAD-2_concept_2_chunk_025"
+}

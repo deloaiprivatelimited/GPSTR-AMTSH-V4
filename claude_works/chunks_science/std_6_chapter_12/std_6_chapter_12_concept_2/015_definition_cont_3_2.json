@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಿಭ್ರಮಣೆ vs ಪರಿಭ್ರಮಣ (Revolution vs Rotation)",
+  "script": "ಪರಿಭ್ರಮಣೆ ಮತ್ತು ಪರಿಭ್ರಮಣ ಇವೆರಡರ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ತಿಳಿದುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ. ಎಡಭಾಗದಲ್ಲಿ, ಭೂಮಿಯು ಸೂರ್ಯನ ಸುತ್ತ ಚಲಿಸುತ್ತಿದೆ. ಇದು ಪರಿಭ್ರಮಣೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ ವರ್ಷ ಮತ್ತು ಋತುಗಳು ಉಂಟಾಗುತ್ತವೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಭೂಮಿಯು ತನ್ನದೇ ಅಕ್ಷದ ಮೇಲೆ ಬೊಗರಿಯಂತೆ ತಿರುಗುತ್ತಿದೆ. ಇದನ್ನು ಪರಿಭ್ರಮಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ ಹಗಲು ಮತ್ತು ರಾತ್ರಿಗಳು ಸಂಭವಿಸುತ್ತವೆ. ಒಂದು ಪರಿಭ್ರಮಣಕ್ಕೆ ಇಪ್ಪತ್ನಾಲ್ಕು ಗಂಟೆಗಳು ಬೇಕಾಗುತ್ತದೆ.",
+  "script_display": "ಪರಿಭ್ರಮಣೆ (Revolution) ಮತ್ತು ಪರಿಭ್ರಮಣ (Rotation) ಇವೆರಡರ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ತಿಳಿದುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ. ಎಡಭಾಗದಲ್ಲಿ, ಭೂಮಿಯು ಸೂರ್ಯನ ಸುತ್ತ ಚಲಿಸುತ್ತಿದೆ. ಇದು ಪರಿಭ್ರಮಣೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ ವರ್ಷ ಮತ್ತು ಋತುಗಳು ಉಂಟಾಗುತ್ತವೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಭೂಮಿಯು ತನ್ನದೇ ಅಕ್ಷದ ಮೇಲೆ ಬೊಗರಿಯಂತೆ ತಿರುಗುತ್ತಿದೆ. ಇದನ್ನು ಪರಿಭ್ರಮಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ ಹಗಲು ಮತ್ತು ರಾತ್ರಿಗಳು ಸಂಭವಿಸುತ್ತವೆ. ಒಂದು ಪರಿಭ್ರಮಣಕ್ಕೆ 24 ಗಂಟೆಗಳು ಬೇಕಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪರಿಭ್ರಮಣೆ (Revolution): ಸೂರ್ಯನ ಸುತ್ತ ಚಲನೆ. ಪರಿಣಾಮ: ವರ್ಷ, ಋತುಗಳು.",
+    "ಪರಿಭ್ರಮಣ (Rotation): ತನ್ನದೇ ಅಕ್ಷದ ಮೇಲೆ ಚಲನೆ. ಪರಿಣಾಮ: ಹಗಲು, ರಾತ್ರಿ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "template_3",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen diagram. On the left, it shows Earth revolving around the Sun (labeled 'ಪರಿಭ್ರಮಣೆ - Revolution'). On the right, it shows Earth spinning on its own axis (labeled 'ಪರಿಭ್ರಮಣ - Rotation'). Arrows clearly indicate the direction of movement in both cases.",
+    "labels": "Sun, Earth, Orbit, Axis of Rotation, Revolution, Rotation",
+    "scientific_significance": "Directly contrasts the two fundamental motions of a planet, revolution and rotation, to prevent common misconceptions among students.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_6_chapter_12_concept_2_chunk_015"
+}

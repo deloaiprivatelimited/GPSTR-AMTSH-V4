@@ -1,0 +1,48 @@
+{
+  "module_id": "std_8_chapter_2_concept_7",
+  "chapter_code": "std_8_chapter_2",
+  "voice": "Gacrux",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 3,
+  "ok_count": 3,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:48:05",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "e9f2140ed630d8faa28dd28c5aec13e7",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 29.371,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 38,
+      "generated_at": "2026-04-02 14:47:19"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "dfce626245ec67589c55a85135d67286",
+      "wav_file": "001_intro_0.wav",
+      "duration": 60.411,
+      "slide_title": "ನೈಟ್ರೋಜನ್ ಚಕ್ರ",
+      "type": "intro",
+      "script_words": 76,
+      "generated_at": "2026-04-02 14:47:37"
+    },
+    "003_recap_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "134e85b3d625b54a10190067049fe99d",
+      "wav_file": "003_recap_0.wav",
+      "duration": 55.451,
+      "slide_title": "ಪುನರಾವರ್ತನೆ: ನೈಟ್ರೋಜನ್ ಚಕ್ರ",
+      "type": "recap",
+      "script_words": 59,
+      "generated_at": "2026-04-02 14:48:05"
+    }
+  }
+}

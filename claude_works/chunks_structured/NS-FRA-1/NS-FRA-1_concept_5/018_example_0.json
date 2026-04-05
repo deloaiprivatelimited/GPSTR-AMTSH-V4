@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ: ಚಿತ್ರಾತ್ಮಕ ನಿರೂಪಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಎರಡು ಗುಣಿಸು ಐದನೇ ಎರಡು ಸಮ ಐದನೇ ನಾಲ್ಕು ಎಂಬುದನ್ನು ಚಿತ್ರದಲ್ಲಿ ಪ್ರತಿನಿಧಿಸಬೇಕು. ಇದರರ್ಥ, ಈ ಗುಣಾಕಾರದ ಲೆಕ್ಕವನ್ನು ಚಿತ್ರಗಳ ಮೂಲಕ ಹೇಗೆ ತೋರಿಸಬಹುದು ಎಂದು ನಾವು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬೇಕು. ನಮ್ಮ ಗುರಿ ಈ ಗುಣಾಕಾರವನ್ನು ಚಿತ್ರಗಳ ಸಹಾಯದಿಂದ ದೃಶ್ಯೀಕರಿಸುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $2 \\times \\frac{2}{5} = \\frac{4}{5}$ ಎಂಬುದನ್ನು ಚಿತ್ರದಲ್ಲಿ ಪ್ರತಿನಿಧಿಸಬೇಕು. ಇದರರ್ಥ, ಈ ಗುಣಾಕಾರದ ಲೆಕ್ಕವನ್ನು ಚಿತ್ರಗಳ ಮೂಲಕ ಹೇಗೆ ತೋರಿಸಬಹುದು ಎಂದು ನಾವು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬೇಕು. ನಮ್ಮ ಗುರಿ ಈ ಗುಣಾಕಾರವನ್ನು ಚಿತ್ರಗಳ ಸಹಾಯದಿಂದ ದೃಶ್ಯೀಕರಿಸುವುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $2 \\times \\frac{2}{5} = \\frac{4}{5}$ ನ್ನು ಚಿತ್ರದಲ್ಲಿ ಪ್ರತಿನಿಧಿಸಿ.",
+    "ಗುರಿ: ಈ ಗುಣಾಕಾರವನ್ನು ಚಿತ್ರಗಳ ಸಹಾಯದಿಂದ ದೃಶ್ಯೀಕರಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2 \\times \\frac{2}{5} = \\frac{4}{5}",
+    "placeholder_note": "The problem statement to be represented pictorially."
+  },
+  "source_example_id": "NS-FRA-1_example_6",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "prerequisites_display": [],
+  "next_modules": [],
+  "chunk_id": "NS-FRA-1_concept_5_chunk_018"
+}

@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದ ಮೂಲಕ, 2401 ರ ವರ್ಗಮೂಲವು 49 ಎಂದು ನಾವು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಇದರರ್ಥ, x ಸಮ 49. ಆದ್ದರಿಂದ, ಶಾಲೆಯಲ್ಲಿನ ಅಡ್ಡಸಾಲುಗಳ ಸಂಖ್ಯೆ 49 ಆಗಿದೆ. ಅಂದರೆ, ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು 49 ಅಡ್ಡಸಾಲುಗಳು ಮತ್ತು 49 ಕಂಬಸಾಲುಗಳಲ್ಲಿ ನಿಲ್ಲಿಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದ ಮೂಲಕ, $\\sqrt{2401} = 49$ ಎಂದು ನಾವು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಇದರರ್ಥ, $x = 49$. ಆದ್ದರಿಂದ, ಶಾಲೆಯಲ್ಲಿನ ಅಡ್ಡಸಾಲುಗಳ ಸಂಖ್ಯೆ 49 ಆಗಿದೆ. ಅಂದರೆ, ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು 49 ಅಡ್ಡಸಾಲುಗಳು ಮತ್ತು 49 ಕಂಬಸಾಲುಗಳಲ್ಲಿ ನಿಲ್ಲಿಸಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "2401 ರ ವರ್ಗಮೂಲ 49 ಆಗಿದೆ.",
+    "ಆದ್ದರಿಂದ, ಅಡ್ಡಸಾಲುಗಳ ಸಂಖ್ಯೆ 49 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sqrt{2401} = 49",
+    "placeholder_note": "The square root of 2401 is 49."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SQR-2_example_15",
+  "final_answer": "ಅಡ್ಡಸಾಲುಗಳ ಸಂಖ್ಯೆ 49 ಆಗಿದೆ.",
+  "final_answer_display": "ಅಡ್ಡಸಾಲುಗಳ ಸಂಖ್ಯೆ 49 ಆಗಿದೆ.",
+  "chunk_id": "NS-SQR-2_concept_8_chunk_016"
+}

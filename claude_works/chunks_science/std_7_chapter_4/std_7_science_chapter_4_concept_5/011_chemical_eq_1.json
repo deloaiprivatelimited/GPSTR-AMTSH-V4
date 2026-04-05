@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಆಮ್ಲಮಳೆ: ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲದ ರಚನೆ",
+  "script": "ಆಮ್ಲಮಳೆಗೆ ಕಾರಣವಾಗುವ ಒಂದು ಪ್ರಮುಖ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು ಈಗ ನೋಡೋಣ. ಈ ಸಮೀಕರಣವು ವಾತಾವರಣದಲ್ಲಿ ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲ ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲದ ಒಂದು ಅಣು, ನೀರಿನ ಒಂದು ಅಣುವಿನೊಂದಿಗೆ ವರ್ತಿಸಿ, ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲದ ಒಂದು ಅಣುವನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಆಮ್ಲಮಳೆಗೆ ಕಾರಣವಾಗುವ ಒಂದು ಪ್ರಮುಖ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು ಈಗ ನೋಡೋಣ. ಈ ಸಮೀಕರಣವು ವಾತಾವರಣದಲ್ಲಿ ಸಲ್ಫ್ಯೂರಸ್ ಆಮ್ಲ (H₂SO₃) ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "chemistry_dark",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "SO_{2}(g) + H_{2}O(l) \\rightarrow H_{2}SO_{3}(aq)",
+    "placeholder_note": "Display the chemical equation prominently in the center."
+  },
+  "chunk_id": "std_7_science_chapter_4_concept_5_chunk_011"
+}

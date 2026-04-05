@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಸೂತ್ರ ಮತ್ತು ಏಕಮಾನ",
+  "script": "ವಿಭವಾಂತರವನ್ನು ಗಣಿತದ ಸೂತ್ರದ ಮೂಲಕವೂ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ವಿಭವಾಂತರ V ಈಕ್ವಲ್ಸ್, ಮಾಡಿದ ಕೆಲಸ W ಭಾಗಿಸು ಆವೇಶ Q. ಇಲ್ಲಿ V ಅಂದರೆ ವಿಭವಾಂತರ, W ಅಂದರೆ ಮಾಡಿದ ಕೆಲಸ, ಮತ್ತು Q ಅಂದರೆ ಚಲಿಸಿದ ಆವೇಶದ ಪ್ರಮಾಣ. ವಿಭವಾಂತರದ ಅಂತರಾಷ್ಟ್ರೀಯ ಏಕಮಾನ ವೋಲ್ಟ್, ಇದನ್ನು ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರ V ಯಿಂದ ಸೂಚಿಸುತ್ತೇವೆ. ಇಟಲಿಯ ಭೌತವಿಜ್ಞಾನಿ ಅಲೆಸ್ಸಾಂಡ್ರೋ ವೋಲ್ಟಾ ಅವರ ಗೌರವಾರ್ಥವಾಗಿ ಈ ಹೆಸರನ್ನು ಇಡಲಾಗಿದೆ. ನಾವು ವಿಭವಾಂತರವನ್ನು ಅಳೆಯಲು ವೋಲ್ಟ್ ಮೀಟರ್ ಎಂಬ ಉಪಕರಣವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ವಿಭವಾಂತರವನ್ನು ಗಣಿತದ ಸೂತ್ರದ ಮೂಲಕವೂ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ವಿಭವಾಂತರ (V) = ಮಾಡಿದ ಕೆಲಸ (W) / ಆವೇಶ (Q). ಇಲ್ಲಿ, V = ವಿಭವಾಂತರ, W = ಮಾಡಿದ ಕೆಲಸ, ಮತ್ತು Q = ಚಲಿಸಿದ ಆವೇಶದ ಪ್ರಮಾಣ. ವಿಭವಾಂತರದ SI ಏಕಮಾನ 'ವೋಲ್ಟ್', ಇದನ್ನು 'V' ಸಂಕೇತದಿಂದ ಸೂಚಿಸುತ್ತೇವೆ. ಇಟಲಿಯ ಭೌತವಿಜ್ಞಾನಿ ಅಲೆಸ್ಸಾಂಡ್ರೋ ವೋಲ್ಟಾ ಅವರ ಗೌರವಾರ್ಥವಾಗಿ ಈ ಹೆಸರನ್ನು ಇಡಲಾಗಿದೆ. ನಾವು ವಿಭವಾಂತರವನ್ನು ಅಳೆಯಲು ವೋಲ್ಟ್ ಮೀಟರ್ (Voltmeter) ಎಂಬ ಉಪಕರಣವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಸೂತ್ರ: V = W / Q",
+    "V = ವಿಭವಾಂತರ (Potential Difference)",
+    "W = ಮಾಡಿದ ಕೆಲಸ (Work)",
+    "Q = ಆವೇಶ (Charge)",
+    "SI ಏಕಮಾನ: ವೋಲ್ಟ್ (V)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "simple",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "V = \\frac{W}{Q}",
+    "placeholder_note": "Formula for Potential Difference"
+  },
+  "sub_type": "formula_and_unit",
+  "chunk_id": "std_10_chapter_11_concept_2_chunk_005"
+}

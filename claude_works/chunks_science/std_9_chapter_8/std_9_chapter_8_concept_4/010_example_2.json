@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಲೆಕ್ಕಾತ್ಮಕ ಉದಾಹರಣೆ: ಬ್ರೇಕ್‌ನ ಬಲ",
+  "script": "ಈಗ ಒಂದು ಲೆಕ್ಕಾತ್ಮಕ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಸ್ಯೆ ಹೀಗಿದೆ: 1000 ಕಿಲೋಗ್ರಾಂ ದ್ರವ್ಯರಾಶಿಯ ಮೋಟಾರು ಕಾರು 108 ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ಗಂಟೆ ವೇಗದಲ್ಲಿ ಚಲಿಸುತ್ತಿದೆ. ಬ್ರೇಕ್ ಹಾಕಿದಾಗ 4 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ನಿಶ್ಚಲ ಸ್ಥಿತಿಗೆ ಬರುತ್ತದೆ. ಬ್ರೇಕ್‌ನ ಬಲವೆಷ್ಟು? ಇಲ್ಲಿ ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶಗಳು: ದ್ರವ್ಯರಾಶಿ m, 1000 ಕಿಲೋಗ್ರಾಂ. ಆರಂಭಿಕ ವೇಗ u, 108 ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ಗಂಟೆ. ಅಂತಿಮ ವೇಗ v, ಸೊನ್ನೆ ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್, ಏಕೆಂದರೆ ಕಾರು ನಿಲ್ಲುತ್ತದೆ. ಮತ್ತು ಕಾಲ t, 4 ಸೆಕೆಂಡುಗಳು. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು ಬಲ, ಅಂದರೆ F.",
+  "script_display": "ಈಗ ಒಂದು ಲೆಕ್ಕಾತ್ಮಕ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ.\n\n**ಸಮಸ್ಯೆ:** 1000 kg ದ್ರವ್ಯರಾಶಿಯ ಮೋಟಾರು ಕಾರು 108 km/h ವೇಗದಲ್ಲಿ ಚಲಿಸುತ್ತಿದೆ. ಬ್ರೇಕ್ ಹಾಕಿದಾಗ 4 s ಗಳಲ್ಲಿ ನಿಶ್ಚಲ ಸ್ಥಿತಿಗೆ ಬರುತ್ತದೆ. ಬ್ರೇಕ್‌ನ ಬಲವೆಷ್ಟು?\n\n**ದತ್ತಾಂಶಗಳು:**\n*   ದ್ರವ್ಯರಾಶಿ (m) = 1000 kg\n*   ಆರಂಭಿಕ ವೇಗ (u) = 108 km/h\n*   ಅಂತಿಮ ವೇಗ (v) = 0 m/s (ನಿಶ್ಚಲ ಸ್ಥಿತಿ)\n*   ಕಾಲ (t) = 4 s\n\n**ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು:** ಬಲ (F)",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: 1000 kg ದ್ರವ್ಯರಾಶಿಯ ಮೋಟಾರು ಕಾರು 108 km/h ವೇಗದಲ್ಲಿ ಚಲಿಸುತ್ತಿದೆ. ಬ್ರೇಕ್ ಹಾಕಿದಾಗ 4 s ಗಳಲ್ಲಿ ನಿಶ್ಚಲ ಸ್ಥಿತಿಗೆ ಬರುತ್ತದೆ. ಬ್ರೇಕ್‌ನ ಬಲವೆಷ್ಟು?",
+    "ದತ್ತಾಂಶಗಳು: m = 1000 kg, u = 108 km/h, v = 0 m/s, t = 4 s",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಬಲ (F) = ?"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "physics_warm",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A car moving to the right. An arrow indicates the direction of velocity (u). A larger arrow in the opposite direction indicates the braking force (F).",
+    "labels": "Car, Velocity (u), Braking Force (F)",
+    "scientific_significance": "Visual representation of the problem, showing the opposing directions of motion and braking force.",
+    "placeholder_note": "Image to be generated showing a car with velocity and opposing brake force vectors."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_8_example_8.3",
+  "chunk_id": "std_9_chapter_8_concept_4_chunk_010"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಸಾಧನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ, ನಮಗೆ ಪಿ ಎಸ್ ಬೈ ಎಸ್ ಕ್ಯೂ ಎಂಬುದು ಪಿ ಟಿ ಬೈ ಟಿ ಆರ್ ಗೆ ಸಮ ಎಂದು ಮತ್ತು ಕೋನ ಪಿ ಎಸ್ ಟಿ ಯು ಕೋನ ಪಿ ಆರ್ ಕ್ಯೂ ಗೆ ಸಮ ಎಂದು ನೀಡಲಾಗಿದೆ. ಇದನ್ನು ಬಳಸಿ, ತ್ರಿಭುಜ ಪಿ ಕ್ಯೂ ಆರ್ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ನಾವು ಸಾಧಿಸಬೇಕು. ಮೊದಲು ದತ್ತಾಂಶವನ್ನು ಗಮನಿಸೋಣ. ಬಾಹುಗಳ ಅನುಪಾತ, ಪಿ ಎಸ್ ಬೈ ಎಸ್ ಕ್ಯೂ ಸಮ ಪಿ ಟಿ ಬೈ ಟಿ ಆರ್, ಮತ್ತು ಕೋನಗಳ ಸಮಾನತೆ, ಕೋನ ಪಿ ಎಸ್ ಟಿ ಸಮ ಕೋನ ಪಿ ಆರ್ ಕ್ಯೂ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ತ್ರಿಭುಜ ಪಿ ಕ್ಯೂ ಆರ್ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿ, ನಮಗೆ $\\frac{PS}{SQ} = \\frac{PT}{TR}$ ಮತ್ತು $\\angle PST = \\angle PRQ$ ಎಂದು ನೀಡಲಾಗಿದೆ. ಇದನ್ನು ಬಳಸಿ, $\\triangle PQR$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು ನಾವು ಸಾಧಿಸಬೇಕು. ಮೊದಲು ದತ್ತಾಂಶವನ್ನು ಗಮನಿಸೋಣ. ಬಾಹುಗಳ ಅನುಪಾತ, $\\frac{PS}{SQ} = \\frac{PT}{TR}$, ಮತ್ತು ಕೋನಗಳ ಸಮಾನತೆ, $\\angle PST = \\angle PRQ$. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು $\\triangle PQR$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಎಂದು.",
+  "display_bullets": [
+    "ದತ್ತ (Given): $\\frac{PS}{SQ} = \\frac{PT}{TR}$",
+    "ದತ್ತ (Given): $\\angle PST = \\angle PRQ$",
+    "ಸಾಧನೀಯ (To Prove): $\\triangle PQR$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Triangle PQR with a line segment ST intersecting sides PQ and PR at points S and T respectively. The diagram should visually suggest that ST is parallel to QR.",
+    "labels": "P, Q, R, S, T",
+    "mathematical_significance": "This diagram illustrates the conditions given in the problem. The ratio of the segments PS/SQ and PT/TR is given, which relates to the Converse of the Basic Proportionality Theorem. The angles ∠PST and ∠PRQ are also shown.",
+    "placeholder_note": "Generate a diagram for triangle PQR with line ST intersecting PQ and PR. Label all vertices."
+  },
+  "source_example_id": "GEO-TRI-2_example_13",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_046"
+}

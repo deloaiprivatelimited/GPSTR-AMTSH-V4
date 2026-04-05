@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಕೊಳವೆಯ ಒಂದು ತುದಿಯನ್ನು ರಟ್ಟಿನ ಮುಚ್ಚಳದಿಂದ ಮುಚ್ಚಬೇಕು. ಈ ಮುಚ್ಚಳದ ಮಧ್ಯದಲ್ಲಿ ನಾವು ನೋಡಲು ಅನುಕೂಲವಾಗುವಂತೆ ಒಂದು ಸಣ್ಣ ರಂಧ್ರವನ್ನು ಮಾಡಬೇಕು. ಇದನ್ನು 'ವೀಕ್ಷಣಾ ರಂಧ್ರ' ಎನ್ನುತ್ತೇವೆ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಕೊಳವೆಯ ಮತ್ತೊಂದು ತುದಿಯಲ್ಲಿ, ದರ್ಪಣಗಳಿಗೆ ತಾಗುವಂತೆ ಮೊದಲು ಪಾರದರ್ಶಕ ಗಾಜಿನ ತಟ್ಟೆಯನ್ನು ಇರಿಸಿ. ನಂತರ, ಅದರ ಮೇಲೆ ಕೆಲವು ಬಣ್ಣದ ಗಾಜಿನ ಚೂರುಗಳನ್ನು ಹಾಕಿ. ಕೊನೆಯದಾಗಿ, ಈ ತುದಿಯನ್ನು ಅಪಾರದರ್ಶಕ ಗಾಜಿನ ತಟ್ಟೆಯಿಂದ ಮುಚ್ಚಿ, ಗಾಜಿನ ಚೂರುಗಳು ಚಲಿಸಲು ಸ್ವಲ್ಪ ಜಾಗವಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+  "script_display": "ಮುಂದಿನ ಹಂತದಲ್ಲಿ, ಕೊಳವೆಯ ಒಂದು ತುದಿಯನ್ನು ರಟ್ಟಿನ ಮುಚ್ಚಳದಿಂದ ಮುಚ್ಚಬೇಕು. ಈ ಮುಚ್ಚಳದ ಮಧ್ಯದಲ್ಲಿ ನಾವು ನೋಡಲು ಅನುಕೂಲವಾಗುವಂತೆ ಒಂದು ಸಣ್ಣ ರಂಧ್ರವನ್ನು (peephole) ಮಾಡಬೇಕು. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ಕೊಳವೆಯ ಮತ್ತೊಂದು ತುದಿಯಲ್ಲಿ, ದರ್ಪಣಗಳಿಗೆ ತಾಗುವಂತೆ ಮೊದಲು ಪಾರದರ್ಶಕ ಗಾಜಿನ ತಟ್ಟೆಯನ್ನು ಇರಿಸಿ. ನಂತರ, ಅದರ ಮೇಲೆ ಕೆಲವು ಬಣ್ಣದ ಗಾಜಿನ ಚೂರುಗಳನ್ನು ಹಾಕಿ. ಕೊನೆಯದಾಗಿ, ಈ ತುದಿಯನ್ನು ಅಪಾರದರ್ಶಕ ಗಾಜಿನ ತಟ್ಟೆಯಿಂದ ಮುಚ್ಚಿ, ಗಾಜಿನ ಚೂರುಗಳು ಚಲಿಸಲು ಸ್ವಲ್ಪ ಜಾಗವಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+  "display_bullets": [
+    "ಒಂದು ತುದಿಯಲ್ಲಿ, ನೋಡಲು ಸಣ್ಣ ರಂಧ್ರವಿರುವ ಮುಚ್ಚಳವನ್ನು ಹಾಕಿ.",
+    "ಮತ್ತೊಂದು ತುದಿಯಲ್ಲಿ, ಪಾರದರ್ಶಕ ತಟ್ಟೆ, ಬಣ್ಣದ ಚೂರುಗಳು, ಮತ್ತು ಅಪಾರದರ್ಶಕ ತಟ್ಟೆಯನ್ನು ಇರಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_template_4",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-part diagram. Part 1 shows an end-cap with a small hole being placed on one end of the tube. Part 2 shows an exploded view of the other end: the transparent disc, colorful pieces, and the frosted/opaque disc being assembled.",
+    "labels": "ವೀಕ್ಷಣಾ ರಂಧ್ರ, ಪಾರದರ್ಶಕ ತಟ್ಟೆ, ಬಣ್ಣದ ಚೂರುಗಳು, ಅಪಾರದರ್ಶಕ ತಟ್ಟೆ",
+    "scientific_significance": "Illustrates the setup of the viewing end and the object chamber, which contains the elements that will be reflected.",
+    "placeholder_note": "Image to be generated showing the last two steps of the procedure."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_8_chapter_13_concept_4_chunk_010"
+}

@@ -1,0 +1,103 @@
+{
+  "module_id": "std_7_chapter_11_concept_4",
+  "chapter_code": "std_7_chapter_11",
+  "voice": "Sulafat",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:10:40",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "081ec91eace544c24be718f6fe392018",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 32.731,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 46,
+      "generated_at": "2026-04-02 13:09:24"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "d09414b9cb4175e42cdb9daf73339972",
+      "wav_file": "003_property_0.wav",
+      "duration": 60.811,
+      "slide_title": "ನಿಮ್ಮ ದರ್ಪಣದ ಅನ್ವಯಗಳು",
+      "type": "concept_explanation",
+      "script_words": 82,
+      "generated_at": "2026-04-02 13:09:40"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "c74c522756b8acc8af7e8ed71782b0d0",
+      "wav_file": "001_intro_0.wav",
+      "duration": 56.651,
+      "slide_title": "ನಿಮ್ಮ ದರ್ಪಣದಿಂದ ಪ್ರತಿಬಿಂಬ ರಚನೆ",
+      "type": "chunk",
+      "script_words": 81,
+      "generated_at": "2026-04-02 13:09:52"
+    },
+    "006_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "c0afd2e592329a0f86533cdc974b5ef0",
+      "wav_file": "006_experiment_cont_0_2.wav",
+      "duration": 41.851,
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ವಿಶ್ಲೇಷಣೆ",
+      "type": "visual_explain",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:10:00"
+    },
+    "005_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "4ebca4306a3811fc4b112520ef2be2d8",
+      "wav_file": "005_experiment_cont_0_1.wav",
+      "duration": 41.371,
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+      "type": "bullet_list",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:10:03"
+    },
+    "004_experiment_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "62f576fda873e3755cfa997f1e661f65",
+      "wav_file": "004_experiment_0.wav",
+      "duration": 38.371,
+      "slide_title": "ಪ್ರಯೋಗ: ನಿಮ್ಮ ದರ್ಪಣದಿಂದ ಸತ್ಯ ಪ್ರತಿಬಿಂಬ",
+      "type": "visual_explain",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:10:30"
+    },
+    "007_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "9f80b0f5b647ab3b0dade8505b7e85fc",
+      "wav_file": "007_experiment_cont_0_3.wav",
+      "duration": 43.731,
+      "slide_title": "ಪ್ರಯೋಗದ ತೀರ್ಮಾನ",
+      "type": "key_takeaway",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:10:35"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Sulafat",
+      "script_hash": "53078adb4acbe74a8cde23b0c633e2fb",
+      "wav_file": "008_recap_0.wav",
+      "duration": 52.331,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 64,
+      "generated_at": "2026-04-02 13:10:40"
+    }
+  }
+}

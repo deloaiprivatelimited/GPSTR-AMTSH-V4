@@ -1,0 +1,37 @@
+{
+  "type": "intro",
+  "slide_title": "ಪರಿಚಯ: ಜಲಚಕ್ರ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಎಲ್ಲರಿಗೂ ಈ ತರಗತಿಗೆ ಸ್ವಾಗತ. ನೀವು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ, ಮಳೆ ಎಲ್ಲಿಂದ ಬರುತ್ತದೆ? ಅಥವಾ ನದಿಗಳು ಯಾಕೆ ಯಾವಾಗಲೂ ಹರಿಯುತ್ತಲೇ ಇರುತ್ತವೆ? ಈ ಎಲ್ಲಾ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ಒಂದೇ, ಅದುವೇ ಜಲಚಕ್ರ. ಇದು ಭೂಮಿಯ ಮೇಲಿನ ಒಂದು ಅದ್ಭುತ ನೈಸರ್ಗಿಕ ಪ್ರಕ್ರಿಯೆ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು, ಜಲಚಕ್ರದ ಪ್ರಮುಖ ಹಂತಗಳಾದ ಆವೀಕರಣ ಮತ್ತು ಸಾಂದ್ರೀಕರಣದ ಪಾತ್ರ, ನಂತರ ಅವಕ್ಷೇಪನ ಮತ್ತು ಸಂಗ್ರಹಣೆಯ ಅರ್ಥ, ಮತ್ತು ಅಂತಿಮವಾಗಿ ಭೂಮಿಯ ಮೇಲಿನ ಜೀವಕ್ಕೆ ಜಲಚಕ್ರದ ಪ್ರಾಮುಖ್ಯತೆ ಏನು ಎಂಬುದನ್ನು ವಿವರವಾಗಿ ಕಲಿಯಲಿದ್ದೇವೆ. ಈ ರೋಚಕ ಪಯಣಕ್ಕೆ ನೀವೆಲ್ಲರೂ ಸಿದ್ಧರಿದ್ದೀರಾ?",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ, ಎಲ್ಲರಿಗೂ ಈ ತರಗತಿಗೆ ಸ್ವಾಗತ. ನೀವು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ, ಮಳೆ ಎಲ್ಲಿಂದ ಬರುತ್ತದೆ? ಅಥವಾ ನದಿಗಳು ಯಾಕೆ ಯಾವಾಗಲೂ ಹರಿಯುತ್ತಲೇ ಇರುತ್ತವೆ? ಈ ಎಲ್ಲಾ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ಒಂದೇ, ಅದುವೇ ಜಲಚಕ್ರ (Water Cycle). ಇದು ಭೂಮಿಯ ಮೇಲಿನ ಒಂದು ಅದ್ಭುತ ನೈಸರ್ಗಿಕ ಪ್ರಕ್ರಿಯೆ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಕಲಿಯಲಿರುವ ಪ್ರಮುಖಾಂಶಗಳು:",
+  "display_bullets": [
+    "ಆವೀಕರಣ ಮತ್ತು ಸಾಂದ್ರೀಕರಣದ ಪಾತ್ರ",
+    "ಅವಕ್ಷೇಪನ ಮತ್ತು ಸಂಗ್ರಹಣೆಯ ಅರ್ಥ",
+    "ಭೂಮಿಯ ಮೇಲಿನ ಜೀವಕ್ಕೆ ಜಲಚಕ್ರದ ಪ್ರಾಮುಖ್ಯತೆ"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_hero_a",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A vibrant and clear diagram of the water cycle, showing evaporation from the ocean, condensation into clouds, precipitation as rain, and collection in rivers and groundwater. The sun should be shown as the energy source driving the cycle.",
+    "labels": "Evaporation, Condensation, Precipitation, Collection, Sun, Ocean, Clouds, River, Groundwater",
+    "scientific_significance": "Visually represents the continuous movement of water on, above, and below the surface of the Earth, which is crucial for all life.",
+    "placeholder_note": "Image to be generated. Use a bright, engaging, and simple style suitable for 6th standard students."
+  },
+  "sub_type": "title",
+  "chunk_id": "std_6_chapter_8_concept_6_chunk_001"
+}

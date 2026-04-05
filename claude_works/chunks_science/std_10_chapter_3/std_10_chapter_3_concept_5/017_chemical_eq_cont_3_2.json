@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ವಿವರಣೆ: ಸ್ಥಾನಪಲ್ಲಟ",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಇಲ್ಲಿ, ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ ಲೋಹವಾದ ಅಲ್ಯೂಮಿನಿಯಂ, ನೀರಿನ ಅಣುವಿನಲ್ಲಿರುವ ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ. ಅಂದರೆ, ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಅದರ ಸ್ಥಾನದಿಂದ ತಳ್ಳಿ, ತಾನು ಆಮ್ಲಜನಕದೊಂದಿಗೆ ಸೇರಿಕೊಳ್ಳುತ್ತದೆ. ಹೀಗೆ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ಉಂಟಾಗುತ್ತದೆ ಮತ್ತು ಸ್ಥಾನಪಲ್ಲಟಗೊಂಡ ಹೈಡ್ರೋಜನ್ ಅನಿಲವಾಗಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಇದೊಂದು ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಇಲ್ಲಿ, ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ ಲೋಹವಾದ ಅಲ್ಯೂಮಿನಿಯಂ, ನೀರಿನ ಅಣುವಿನಲ್ಲಿರುವ ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಸ್ಥಾನಪಲ್ಲಟಗೊಳಿಸುತ್ತದೆ. ಅಂದರೆ, ಹೈಡ್ರೋಜನ್ ಅನ್ನು ಅದರ ಸ್ಥಾನದಿಂದ ತಳ್ಳಿ, ತಾನು ಆಮ್ಲಜನಕದೊಂದಿಗೆ ಸೇರಿಕೊಳ್ಳುತ್ತದೆ. ಹೀಗೆ ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ (Al₂O₃) ಉಂಟಾಗುತ್ತದೆ ಮತ್ತು ಸ್ಥಾನಪಲ್ಲಟಗೊಂಡ ಹೈಡ್ರೋಜನ್ (H₂) ಅನಿಲವಾಗಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಇದೊಂದು ಸ್ಥಾನಪಲ್ಲಟ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simplified diagram showing an aluminum atom (Al) displacing hydrogen atoms (H) from a water molecule (H₂O) in steam form. The Al atom then bonds with the oxygen (O) atom to form Aluminum Oxide (Al₂O₃), and the displaced hydrogen atoms pair up to form hydrogen gas (H₂).",
+    "labels": "ಅಲ್ಯೂಮಿನಿಯಂ (Al), ನೀರಿನ ಅಣು (H₂O - ಹಬೆ), ಸ್ಥಾನಪಲ್ಲಟ, ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ (Al₂O₃), ಹೈಡ್ರೋಜನ್ ಅನಿಲ (H₂)",
+    "scientific_significance": "Demonstrates the displacement of hydrogen from steam by a moderately reactive metal like aluminum, leading to the formation of a metal oxide and hydrogen gas.",
+    "placeholder_note": "Image to be generated showing the displacement reaction at a molecular level."
+  },
+  "chunk_id": "std_10_chapter_3_concept_5_chunk_017"
+}

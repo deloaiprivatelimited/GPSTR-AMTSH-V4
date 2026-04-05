@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ರಿಯೆಯ ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಇಲ್ಲಿ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ ನಲ್ಲಿರುವ ಆಕ್ಸಿಜನ್, ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲದ ಹೈಡ್ರೋಜನ್ ಜೊತೆ ಸೇರಿ ನೀರನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ಅಲ್ಯೂಮಿನಿಯಂ, ಕ್ಲೋರಿನ್ ಜೊತೆ ಸೇರಿ ಅಲ್ಯೂಮಿನಿಯಂ ಕ್ಲೋರೈಡ್ ಎಂಬ ಲವಣವನ್ನು ರೂಪಿಸುತ್ತದೆ. ಇದು ಒಂದು ವಿಶಿಷ್ಟವಾದ ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "script_display": "ಇಲ್ಲಿ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. $Al_2O_3$ ನಲ್ಲಿರುವ ಆಕ್ಸಿಜನ್, $HCl$ ನ ಹೈಡ್ರೋಜನ್ ಜೊತೆ ಸೇರಿ ನೀರನ್ನು ($H_2O$) ಉಂಟುಮಾಡುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ಅಲ್ಯೂಮಿನಿಯಂ ($Al$), ಕ್ಲೋರಿನ್ ($Cl$) ಜೊತೆ ಸೇರಿ ಅಲ್ಯೂಮಿನಿಯಂ ಕ್ಲೋರೈಡ್ ($AlCl_3$) ಎಂಬ ಲವಣವನ್ನು ರೂಪಿಸುತ್ತದೆ. ಇದು ಒಂದು ವಿಶಿಷ್ಟವಾದ ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "$Al_2O_3$ (ಪ್ರತ್ಯಾಮ್ಲ) + $HCl$ (ಆಮ್ಲ) →",
+    "$AlCl_3$ (ಲವಣ) + $H_2O$ (ನೀರು)",
+    "ಇದು ಒಂದು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing Al₂O₃ molecules and HCl molecules on the left. Arrows point towards the right, showing them breaking apart and reforming into AlCl₃ and H₂O molecules. The Al and Cl atoms should be shown bonding, and the H and O atoms should be shown bonding.",
+    "labels": "ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್ (Al₂O₃), ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl), ಅಲ್ಯೂಮಿನಿಯಂ ಕ್ಲೋರೈಡ್ (AlCl₃), ನೀರು (H₂O)",
+    "scientific_significance": "Illustrates the double displacement and neutralization nature of the reaction where an amphoteric oxide acts as a base.",
+    "placeholder_note": "Generate a simple molecular diagram showing the rearrangement of atoms from reactants to products."
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_033"
+}

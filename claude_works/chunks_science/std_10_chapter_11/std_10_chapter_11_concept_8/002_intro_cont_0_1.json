@@ -1,0 +1,39 @@
+{
+  "type": "chunk",
+  "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+  "script": "ಮುಂದುವರಿಯುವ ಮೊದಲು, ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ನಿಮಗೆ ಕೆಲವು ಹಿಂದಿನ ವಿಷಯಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರುವುದು ಅವಶ್ಯಕ. ವಿದ್ಯುತ್ ಪ್ರವಾಹ, ವಿದ್ಯುತ್ ವಿಭವಾಂತರ, ಓಮ್‌ನ ನಿಯಮ, ಮತ್ತು ಜೌಲ್‌ನ ಉಷ್ಣೋತ್ಪಾದನಾ ನಿಯಮ - ಈ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಒಮ್ಮೆ ನೆನಪಿಸಿಕೊಳ್ಳಿ. ಇವುಗಳ ಜ್ಞಾನವು ವಿದ್ಯುತ್ ಸಾಮರ್ಥ್ಯವನ್ನು ಸುಲಭವಾಗಿ ಗ್ರಹಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಯುವ ಮೊದಲು, ಈ ಪಾಠವನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಈ ಕೆಳಗಿನ ಪರಿಕಲ್ಪನೆಗಳ ಬಗ್ಗೆ ನಿಮ್ಮ ಜ್ಞಾನವನ್ನು ದೃಢಪಡಿಸಿಕೊಳ್ಳಿ:",
+  "display_bullets": [
+    "ವಿದ್ಯುತ್ ಪ್ರವಾಹ (I)",
+    "ವಿದ್ಯುತ್ ವಿಭವಾಂತರ (V)",
+    "ಓಮ್‌ನ ನಿಯಮ (V = IR)",
+    "ಜೌಲ್‌ನ ಉಷ್ಣೋತ್ಪಾದನಾ ನಿಯಮ (H = I²Rt)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_a",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "prerequisites",
+  "prerequisites_display": [
+    "ವಿದ್ಯುತ್ ಪ್ರವಾಹ (Electric Current)",
+    "ವಿದ್ಯುತ್ ವಿಭವಾಂತರ (Potential Difference)",
+    "ಓಮ್‌ನ ನಿಯಮ (Ohm's Law)",
+    "ಜೌಲ್‌ನ ಉಷ್ಣೋತ್ಪಾದನಾ ನಿಯಮ (Joule's Law of Heating)"
+  ],
+  "chunk_id": "std_10_chapter_11_concept_8_chunk_002"
+}

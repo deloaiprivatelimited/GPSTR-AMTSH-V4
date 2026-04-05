@@ -1,0 +1,39 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ತಟಸ್ಥೀಕರಣ ಪ್ರಯೋಗ: ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈಗ ನಾವು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯನ್ನು ಒಂದು ಪ್ರಯೋಗದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಪ್ರಾತ್ಯಕ್ಷಿಕೆಗಾಗಿ, ನಮಗೆ ಕೆಲವು ಸರಳ ಉಪಕರಣಗಳು ಮತ್ತು ರಾಸಾಯನಿಕಗಳು ಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಮಗೆ ಒಂದು ಪ್ರನಾಳ, ದ್ರಾವಣವನ್ನು ಸೇರಿಸಲು ಒಂದು ಡ್ರಾಪರ್, ಆಮ್ಲವಾಗಿ ಸಾರರಿಕ್ತ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ, ಅಂದರೆ H C L, ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲವಾಗಿ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣ, ಅಂದರೆ N a O H, ಬೇಕಾಗುತ್ತದೆ. ಕ್ರಿಯೆಯ ಅಂತ್ಯವನ್ನು ಸೂಚಿಸಲು ನಾವು ಫಿನಾಫಲೀನ್ ಎಂಬ ಸೂಚಕವನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ಬಳಸಿ ನಾವು ಪ್ರಯೋಗವನ್ನು ನಡೆಸೋಣ.",
+  "script_display": "ಈಗ ನಾವು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯನ್ನು ಒಂದು ಪ್ರಯೋಗದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಪ್ರಾತ್ಯಕ್ಷಿಕೆಗಾಗಿ, ನಮಗೆ ಕೆಲವು ಸರಳ ಉಪಕರಣಗಳು ಮತ್ತು ರಾಸಾಯನಿಕಗಳು ಬೇಕು. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಮಗೆ ಒಂದು ಪ್ರನಾಳ, ದ್ರಾವಣವನ್ನು ಸೇರಿಸಲು ಒಂದು ಡ್ರಾಪರ್, ಆಮ್ಲವಾಗಿ ಸಾರರಿಕ್ತ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl), ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲವಾಗಿ ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣ (NaOH), ಬೇಕಾಗುತ್ತದೆ. ಕ್ರಿಯೆಯ ಅಂತ್ಯವನ್ನು ಸೂಚಿಸಲು ನಾವು ಫಿನಾಫಲೀನ್ ಎಂಬ ಸೂಚಕವನ್ನು ಬಳಸುತ್ತೇವೆ. ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ಬಳಸಿ ನಾವು ಪ್ರಯೋಗವನ್ನು ನಡೆಸೋಣ.",
+  "display_bullets": [
+    "ಪ್ರನಾಳ (Test tube)",
+    "ಡ್ರಾಪರ್ (Dropper)",
+    "ಸಾರರಿಕ್ತ ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl)",
+    "ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ದ್ರಾವಣ (NaOH)",
+    "ಫಿನಾಫಲೀನ್ ಸೂಚಕ (Phenolphthalein indicator)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A laboratory setup showing a test tube, a dropper, and three beakers labeled 'ಸಾರರಿಕ್ತ HCl', 'NaOH ದ್ರಾವಣ', and 'ಫಿನಾಫಲೀನ್'.",
+    "labels": "ಪ್ರನಾಳ, ಡ್ರಾಪರ್, HCl, NaOH, ಫಿನಾಫಲೀನ್",
+    "scientific_significance": "Shows the materials required for the neutralization experiment.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "experiment_setup",
+  "chunk_id": "std_7_science_chapter_4_concept_3_chunk_017"
+}

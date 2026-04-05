@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕಾರ್ಯವಿಧಾನ: ಮೊದಲ ಹಂತ",
+  "script": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ನಿಮ್ಮ ಬಲಗೈಯನ್ನು ಪಾತ್ರೆ A ಯಲ್ಲಿರುವ ಬೆಚ್ಚಗಿನ ನೀರಿನಲ್ಲಿ ಇಡಿ. ಅದೇ ಸಮಯದಲ್ಲಿ, ನಿಮ್ಮ ಎಡಗೈಯನ್ನು ಪಾತ್ರೆ C ಯಲ್ಲಿರುವ ತಣ್ಣೀರಿನಲ್ಲಿ ಇಡಿ. ನಿಮ್ಮ ಎರಡೂ ಕೈಗಳನ್ನು ಸುಮಾರು ಒಂದು ಅಥವಾ ಎರಡು ನಿಮಿಷಗಳ ಕಾಲ ನೀರಿನಲ್ಲಿ ಹಾಗೆಯೇ ಇಟ್ಟುಕೊಳ್ಳಿ. ಈ ಸಮಯದಲ್ಲಿ, ನಿಮ್ಮ ಬಲಗೈ ಬಿಸಿಯ ಅನುಭವವನ್ನು ಮತ್ತು ಎಡಗೈ ತಂಪಾದ ಅನುಭವವನ್ನು ಗ್ರಹಿಸುತ್ತದೆ. ಇದು ನಮ್ಮ ಕೈಗಳಲ್ಲಿರುವ ತಾಪ ಗ್ರಾಹಕಗಳನ್ನು ಮುಂದಿನ ಹಂತಕ್ಕೆ ಸಿದ್ಧಗೊಳಿಸುತ್ತದೆ.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ನಿಮ್ಮ ಬಲಗೈಯನ್ನು ಪಾತ್ರೆ A ಯಲ್ಲಿರುವ ಬೆಚ್ಚಗಿನ ನೀರಿನಲ್ಲಿ ಇಡಿ. ಅದೇ ಸಮಯದಲ್ಲಿ, ನಿಮ್ಮ ಎಡಗೈಯನ್ನು ಪಾತ್ರೆ C ಯಲ್ಲಿರುವ ತಣ್ಣೀರಿನಲ್ಲಿ ಇಡಿ. ನಿಮ್ಮ ಎರಡೂ ಕೈಗಳನ್ನು ಸುಮಾರು 1-2 ನಿಮಿಷಗಳ ಕಾಲ ನೀರಿನಲ್ಲಿ ಹಾಗೆಯೇ ಇಟ್ಟುಕೊಳ್ಳಿ. ಈ ಸಮಯದಲ್ಲಿ, ನಿಮ್ಮ ಬಲಗೈ ಬಿಸಿಯ ಅನುಭವವನ್ನು ಮತ್ತು ಎಡಗೈ ತಂಪಾದ ಅನುಭವವನ್ನು ಗ್ರಹಿಸುತ್ತದೆ. ಇದು ನಮ್ಮ ಕೈಗಳಲ್ಲಿರುವ ತಾಪ ಗ್ರಾಹಕಗಳನ್ನು (thermoreceptors) ಮುಂದಿನ ಹಂತಕ್ಕೆ ಸಿದ್ಧಗೊಳಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬಲಗೈಯನ್ನು ಪಾತ್ರೆ A ಯಲ್ಲಿ (ಬೆಚ್ಚಗಿನ ನೀರು) ಇಡಿ.",
+    "ಎಡಗೈಯನ್ನು ಪಾತ್ರೆ C ಯಲ್ಲಿ (ತಣ್ಣೀರು) ಇಡಿ.",
+    "ಕೈಗಳನ್ನು 1-2 ನಿಮಿಷಗಳ ಕಾಲ ಹಾಗೆಯೇ ಬಿಡಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ತನ್ನ ಬಲಗೈಯನ್ನು 'A' ಪಾತ್ರೆಯಲ್ಲಿ ಮತ್ತು ಎಡಗೈಯನ್ನು 'C' ಪಾತ್ರೆಯಲ್ಲಿ ಇಟ್ಟಿದ್ದಾನೆ. 'B' ಪಾತ್ರೆ ಮಧ್ಯದಲ್ಲಿದೆ.",
+    "labels": "ಬಲಗೈ ಬೆಚ್ಚಗಿನ ನೀರಿನಲ್ಲಿ, ಎಡಗೈ ತಣ್ಣೀರಿನಲ್ಲಿ",
+    "scientific_significance": "This step conditions the thermoreceptors in each hand to different temperatures, setting up the basis for the relative perception in the next step.",
+    "placeholder_note": "Image to be generated showing hands in beakers A and C."
+  },
+  "chunk_id": "std_6_chapter_7_concept_1_chunk_003"
+}

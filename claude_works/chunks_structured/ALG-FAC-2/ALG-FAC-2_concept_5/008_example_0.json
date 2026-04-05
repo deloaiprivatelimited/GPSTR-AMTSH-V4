@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಪವರ್ತಿಸಿ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು x ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಐದು x ಪ್ಲಸ್ ಆರು ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯು x ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ p x ಪ್ಲಸ್ q ರೂಪದಲ್ಲಿದೆ. ಇದನ್ನು ಅಪವರ್ತಿಸಲು, ನಾವು ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು, a ಮತ್ತು b, ಕಂಡುಹಿಡಿಯಬೇಕು. ಆ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧವು ಸ್ಥಿರಾಂಕ ಆರಕ್ಕೆ ಸಮನಾಗಿರಬೇಕು ಮತ್ತು ಅವುಗಳ ಮೊತ್ತವು x ನ ಸಹಗುಣಕವಾದ ಐದಕ್ಕೆ ಸಮನಾಗಿರಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $x^2 + 5x + 6$ ಅನ್ನು ಅಪವರ್ತಿಸಬೇಕು. ಈ ಬೀಜೋಕ್ತಿಯು $x^2 + px + q$ ರೂಪದಲ್ಲಿದೆ. ಇದನ್ನು ಅಪವರ್ತಿಸಲು, ನಾವು ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು, a ಮತ್ತು b, ಕಂಡುಹಿಡಿಯಬೇಕು. ಆ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧವು ಸ್ಥಿರಾಂಕ 6ಕ್ಕೆ ಸಮನಾಗಿರಬೇಕು ಮತ್ತು ಅವುಗಳ ಮೊತ್ತವು x ನ ಸಹಗುಣಕವಾದ 5ಕ್ಕೆ ಸಮನಾಗಿರಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $x^2 + 5x + 6$ ಅನ್ನು ಅಪವರ್ತಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x^2 + (a+b)x + ab = (x+a)(x+b)",
+    "placeholder_note": "A formula box showing the identity for factorizing a trinomial of the form x^2+px+q."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-FAC-2_example_10",
+  "chunk_id": "ALG-FAC-2_concept_5_chunk_008"
+}

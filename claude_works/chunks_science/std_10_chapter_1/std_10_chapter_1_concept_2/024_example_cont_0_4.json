@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 6: ಅಂತಿಮ ಪರಿಶೀಲನೆ",
+  "script": "ಆರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಸರಿದೂಗಿಸಿದ ಸಮೀಕರಣವನ್ನು ಪರಿಶೀಲಿಸೋಣ. ಎರಡೂ ಬದಿಗಳಲ್ಲಿರುವ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಮತ್ತೊಮ್ಮೆ ಎಣಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಮೂರು ಕಬ್ಬಿಣ, ಎಂಟು ಹೈಡ್ರೋಜನ್, ಮತ್ತು ನಾಲ್ಕು ಆಕ್ಸಿಜನ್ ಪರಮಾಣುಗಳಿವೆ. ಬಲಭಾಗದಲ್ಲಿಯೂ, ಮೂರು ಕಬ್ಬಿಣ, ಎಂಟು ಹೈಡ್ರೋಜನ್, ಮತ್ತು ನಾಲ್ಕು ಆಕ್ಸಿಜನ್ ಪರಮಾಣುಗಳಿವೆ. ಈಗ ಎರಡೂ ಬದಿಗಳಲ್ಲಿ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆ ಸಮನಾಗಿದೆ. ಅಂದರೆ, ನಮ್ಮ ಸಮೀಕರಣ ಸರಿದೂಗಿದೆ.",
+  "script_display": "ಹಂತ 6: ಅಂತಿಮ ಸಮೀಕರಣವನ್ನು ಪರಿಶೀಲಿಸಿ. ಎರಡೂ ಬದಿಗಳಲ್ಲಿ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆ ಸಮನಾಗಿದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. 3Fe + 4H₂O → Fe₃O₄ + 4H₂",
+  "display_bullets": [
+    "ಸಮೀಕರಣ: 3Fe + 4H₂O → Fe₃O₄ + 4H₂",
+    "ಎಡಭಾಗ (LHS): Fe=3, H=8, O=4",
+    "ಬಲಭಾಗ (RHS): Fe=3, H=8, O=4",
+    "ಎರಡೂ ಬದಿಗಳಲ್ಲಿ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆ ಸಮನಾಗಿದೆ. ಸಮೀಕರಣ ಸರಿದೂಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "| ಧಾತು | ಪ್ರತಿವರ್ತಕ (LHS) | ಉತ್ಪನ್ನ (RHS) |\n|:---:|:---:|:---:|\n| Fe | 3 | 3 |\n| H | 8 | 8 |\n| O | 4 | 4 |",
+    "placeholder_note": "Table showing the final, balanced count of atoms on both sides of the equation."
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_1_example_1",
+  "steps": [
+    {
+      "step": 6,
+      "action_display": "ಅಂತಿಮ ಸಮೀಕರಣವನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "justification": "ಎರಡೂ ಬದಿಗಳಲ್ಲಿ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆ ಸಮನಾಗಿದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು."
+    }
+  ],
+  "chunk_id": "std_10_chapter_1_concept_2_chunk_024"
+}

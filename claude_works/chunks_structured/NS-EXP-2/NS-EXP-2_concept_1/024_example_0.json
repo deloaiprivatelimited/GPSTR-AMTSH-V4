@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಋಣಾತ್ಮಕ ಆಧಾರದ ಮೌಲ್ಯ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಮೈನಸ್ ಎರಡರ ಘಾತ ಮೂರು ಮತ್ತು ಮೈನಸ್ ಎರಡರ ಘಾತ ನಾಲ್ಕರ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ಬಿಡಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $(-2)^3$ ಮತ್ತು $(-2)^4$ ರ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ಬಿಡಿಸೋಣ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $(-2)^3$ ಮತ್ತು $(-2)^4$ ರ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "(-2)^3 = ? \\\\ \\\\ (-2)^4 = ?",
+    "placeholder_note": "A formula box showing the two expressions to be evaluated."
+  },
+  "difficulty": "basic",
+  "source_example_id": "NS-EXP-2_example_1",
+  "chunk_id": "NS-EXP-2_concept_1_chunk_024"
+}

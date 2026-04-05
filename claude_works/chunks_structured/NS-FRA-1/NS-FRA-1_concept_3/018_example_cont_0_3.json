@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಮೂವತ್ತನೇ ನಲವತ್ತು ಎಂಬುದು ಮೂರನೇ ನಾಲ್ಕಕ್ಕೆ ಸಮಾನ ಮತ್ತು ಇಪ್ಪತ್ತೆಂಟನೇ ನಲವತ್ತು ಎಂಬುದು ಏಳನೇ ಹತ್ತಕ್ಕೆ ಸಮಾನವಾಗಿರುವುದರಿಂದ, ನಾವು ಮೂರನೇ ನಾಲ್ಕು ಭಿನ್ನರಾಶಿಯು ಏಳನೇ ಹತ್ತಕ್ಕಿಂತ ದೊಡ್ಡದು ಎಂದು ತೀರ್ಮಾನಿಸಬಹುದು. ಆದ್ದರಿಂದ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ ಮೂರನೇ ನಾಲ್ಕು, ಏಳನೇ ಹತ್ತಕ್ಕಿಂತ ದೊಡ್ಡದು.",
+  "script_display": "$\\frac{30}{40}$ ಎಂಬುದು $\\frac{3}{4}$ಕ್ಕೆ ಸಮಾನ ಮತ್ತು $\\frac{28}{40}$ ಎಂಬುದು $\\frac{7}{10}$ಕ್ಕೆ ಸಮಾನವಾಗಿರುವುದರಿಂದ, ನಾವು $\\frac{3}{4}$ ಭಿನ್ನರಾಶಿಯು $\\frac{7}{10}$ಕ್ಕಿಂತ ದೊಡ್ಡದು ಎಂದು ತೀರ್ಮಾನಿಸಬಹುದು. ಆದ್ದರಿಂದ, ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ $\\frac{3}{4} > \\frac{7}{10}$.",
+  "display_bullets": [
+    "ನಮ್ಮ ಹೋಲಿಕೆಯಿಂದ, $\\frac{30}{40} > \\frac{28}{40}$ ಎಂದು ತಿಳಿದಿದೆ.",
+    "ಆದ್ದರಿಂದ, ಮೂಲ ಭಿನ್ನರಾಶಿಗಳನ್ನು ಹೋಲಿಸಿದಾಗ, $\\frac{3}{4} > \\frac{7}{10}$."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{3}{4} > \\frac{7}{10}",
+    "placeholder_note": "A box highlighting the final answer: 3/4 > 7/10"
+  },
+  "source_example_id": "NS-FRA-1_example_3",
+  "steps": [],
+  "final_answer": "$\\frac{3}{4} > \\frac{7}{10}$",
+  "final_answer_display": "$\\frac{3}{4} > \\frac{7}{10}$",
+  "chunk_id": "NS-FRA-1_concept_3_chunk_018"
+}

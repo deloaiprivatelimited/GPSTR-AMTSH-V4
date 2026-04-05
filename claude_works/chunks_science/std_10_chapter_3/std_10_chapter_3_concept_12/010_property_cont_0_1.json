@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಗುಣ 1: ಗಡಸುತನ",
+  "script": "ಮಿಶ್ರಲೋಹಗಳ ಒಂದು ಪ್ರಮುಖ ಗುಣವೆಂದರೆ ಅವು ತಮ್ಮ ಘಟಕ ಲೋಹಗಳಿಗಿಂತ ಹೆಚ್ಚು ಗಟ್ಟಿಯಾಗಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಶುದ್ಧ ಚಿನ್ನವು ತುಂಬಾ ಮೃದುವಾಗಿರುತ್ತದೆ. ಅದನ್ನು ಆಭರಣ ಮಾಡಲು ಬಳಸಿದರೆ ಸುಲಭವಾಗಿ ಬಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಅದನ್ನು ಗಟ್ಟಿ ಮಾಡಲು ತಾಮ್ರ ಅಥವಾ ಬೆಳ್ಳಿಯಂತಹ ಇತರ ಲೋಹಗಳೊಂದಿಗೆ ಮಿಶ್ರ ಮಾಡಲಾಗುತ್ತದೆ. ಇದಕ್ಕೆ ಕಾರಣ, ಶುದ್ಧ ಲೋಹದಲ್ಲಿ, ಪರಮಾಣುಗಳು ಒಂದೇ ಗಾತ್ರದಲ್ಲಿರುತ್ತವೆ ಮತ್ತು ಅಚ್ಚುಕಟ್ಟಾದ ಪದರಗಳಲ್ಲಿ ಜೋಡಿಸಲ್ಪಟ್ಟಿರುತ್ತವೆ. ಈ ಪದರಗಳು ಒಂದರ ಮೇಲೊಂದು ಸುಲಭವಾಗಿ ಜಾರಬಹುದು. ಆದರೆ ಮಿಶ್ರಲೋಹದಲ್ಲಿ, ವಿಭಿನ್ನ ಗಾತ್ರದ ಪರಮಾಣುಗಳು ಈ ಕ್ರಮಬದ್ಧ ಜೋಡಣೆಯನ್ನು ಅಡ್ಡಿಪಡಿಸುತ್ತವೆ. ಇದು ಪರಮಾಣು ಪದರಗಳು ಜಾರುವುದನ್ನು ಕಷ್ಟಕರವಾಗಿಸುತ್ತದೆ, ಹೀಗಾಗಿ ಮಿಶ್ರಲೋಹವನ್ನು ಗಟ್ಟಿಗೊಳಿಸುತ್ತದೆ.",
+  "script_display": "ಮಿಶ್ರಲೋಹಗಳು ಅವುಗಳ ಘಟಕ ಲೋಹಗಳಿಗಿಂತ ಹೆಚ್ಚು ಗಟ್ಟಿಯಾಗಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ (Example): ಶುದ್ಧ ಚಿನ್ನ (24 ಕ್ಯಾರೆಟ್) ಮೃದುವಾಗಿರುತ್ತದೆ. ಆಭರಣಗಳನ್ನು ತಯಾರಿಸಲು ತಾಮ್ರ ಅಥವಾ ಬೆಳ್ಳಿಯೊಂದಿಗೆ ಮಿಶ್ರಮಾಡಿ ಗಟ್ಟಿಗೊಳಿಸಲಾಗುತ್ತದೆ.",
+    "ಕಾರಣ (Why): ಶುದ್ಧ ಲೋಹದಲ್ಲಿ ಪರಮಾಣು ಪದರಗಳು ಸುಲಭವಾಗಿ ಜಾರುತ್ತವೆ. ಮಿಶ್ರಲೋಹದಲ್ಲಿನ ವಿಭಿನ್ನ ಗಾತ್ರದ ಪರಮಾಣುಗಳು ಈ ಜಾರುವಿಕೆಯನ್ನು ತಡೆಯುತ್ತವೆ, ಇದು ಗಡಸುತನವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram comparing the atomic structure of a pure metal and an alloy. The pure metal shows neat, orderly rows of identical spheres. The alloy shows a mix of large and small spheres, disrupting the orderly rows. Arrows indicate how layers can slide easily in the pure metal but are blocked in the alloy.",
+    "labels": "ಶುದ್ಧ ಲೋಹ (ಪದರಗಳು ಸುಲಭವಾಗಿ ಜಾರುತ್ತವೆ), ಮಿಶ್ರಲೋಹ (ಪದರಗಳು ಜಾರದಂತೆ ತಡೆಯಲಾಗಿದೆ)",
+    "scientific_significance": "Illustrates the mechanism of increased hardness in alloys due to the disruption of the crystal lattice.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_12_chunk_010"
+}

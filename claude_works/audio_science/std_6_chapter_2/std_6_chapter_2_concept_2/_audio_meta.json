@@ -1,0 +1,114 @@
+{
+  "module_id": "std_6_chapter_2_concept_2",
+  "chapter_code": "std_6_chapter_2",
+  "voice": "Callirrhoe",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 9,
+  "ok_count": 9,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 16:28:30",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "34a8b24699e36b04649d233d2ed0f117",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 32.771,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 44,
+      "generated_at": "2026-04-02 16:26:51"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "641e801966129b294382def3279d43e6",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 43.411,
+      "slide_title": "ಸಸ್ಯಗಳ ವಿಧಗಳು: ಗಿಡಮೂಲಿಕೆಗಳು (Herbs)",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 16:26:57"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "b08c41345d63376a1224d607160db500",
+      "wav_file": "003_classification_0.wav",
+      "duration": 48.971,
+      "slide_title": "ಸಸ್ಯಗಳ ವರ್ಗೀಕರಣ: ಕಾಂಡದ ಆಧಾರದ ಮೇಲೆ",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 16:26:58"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "55ee01eeabfaff5d5f582d60c1207e22",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 47.891,
+      "slide_title": "ಸಸ್ಯಗಳ ವಿಧಗಳು: ಪೊದೆಗಳು (Shrubs)",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 16:26:59"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "7e8a80d7fc10239aeffe98dcf8c13ddb",
+      "wav_file": "001_intro_0.wav",
+      "duration": 57.291,
+      "slide_title": "ಸಸ್ಯಗಳ ವರ್ಗೀಕರಣ: ಕಾಂಡದ ಆಧಾರದ ಮೇಲೆ",
+      "type": "intro",
+      "script_words": 79,
+      "generated_at": "2026-04-02 16:27:06"
+    },
+    "009_recap_0.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "2740809cf7b705ed529bb61e02e691ff",
+      "wav_file": "009_recap_0.wav",
+      "duration": 38.451,
+      "slide_title": "ಸಾರಾಂಶ: ಸಸ್ಯಗಳ ವರ್ಗೀಕರಣ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 16:27:52"
+    },
+    "008_classification_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "a8c83024a90e967931af10b9b76661cf",
+      "wav_file": "008_classification_cont_0_5.wav",
+      "duration": 40.531,
+      "slide_title": "ಹೋಲಿಕೆ ಮತ್ತು ಸಾರಾಂಶ",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 16:27:59"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "417f2b07280fcaf54392512352aad2c7",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 46.011,
+      "slide_title": "ಸಸ್ಯಗಳ ವಿಧಗಳು: ಮರಗಳು (Trees)",
+      "type": "concept_explanation",
+      "script_words": 65,
+      "generated_at": "2026-04-02 16:28:25"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Callirrhoe",
+      "script_hash": "1279043b45612b492bccd73b9f900b3f",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 40.371,
+      "slide_title": "ಇತರೆ ವಿಧಗಳು: ದುರ್ಬಲ ಕಾಂಡದ ಸಸ್ಯಗಳು",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 16:28:30"
+    }
+  }
+}

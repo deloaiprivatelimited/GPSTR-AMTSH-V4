@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಶೃಂಗಗಳನ್ನು ಎಣಿಸುವುದು: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಒಂದು ಘನಾಕೃತಿಗೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಶೃಂಗಗಳಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಈ ಘನದಲ್ಲಿರುವ ಒಟ್ಟು ಶೃಂಗಗಳ ಸಂಖ್ಯೆಯನ್ನು ಎಣಿಸೋಣ. ಮೇಲಿನ ಚೌಕದ ಆಕಾರದ ಮುಖದಲ್ಲಿ ನಾಲ್ಕು ಮೂಲೆಗಳಿವೆ, ಅಂದರೆ ನಾಲ್ಕು ಶೃಂಗಗಳಿವೆ. ಅದೇ ರೀತಿ, ಕೆಳಗಿನ ಚೌಕದ ಆಕಾರದ ಮುಖದಲ್ಲೂ ನಾಲ್ಕು ಮೂಲೆಗಳು, ಅಂದರೆ ನಾಲ್ಕು ಶೃಂಗಗಳಿವೆ. ಹಾಗಾಗಿ, ಒಂದು ಘನಕ್ಕೆ ಒಟ್ಟು ನಾಲ್ಕು ಪ್ಲಸ್ ನಾಲ್ಕು, ಅಂದರೆ ಎಂಟು ಶೃಂಗಗಳು ಇರುತ್ತವೆ. ಆದ್ದರಿಂದ, ಘನಕ್ಕೆ ವಿ ಈಕ್ವಲ್ಸ್ ಎಂಟು. ಬೇರೆ ಆಕೃತಿಗಳಲ್ಲಿ ಈ ಸಂಖ್ಯೆ ಬದಲಾಗಬಹುದು. ಉದಾಹರಣೆಗೆ, ಚೌಕ ಪಿರಮಿಡ್‌ನಲ್ಲಿ ಐದು ಶೃಂಗಗಳಿರುತ್ತವೆ.",
+  "script_display": "ಒಂದು ಘನಾಕೃತಿಗೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಶೃಂಗಗಳಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಈ ಘನದಲ್ಲಿರುವ ಒಟ್ಟು ಶೃಂಗಗಳ ಸಂಖ್ಯೆಯನ್ನು ಎಣಿಸೋಣ. ಮೇಲಿನ ಚೌಕದ ಆಕಾರದ ಮುಖದಲ್ಲಿ ನಾಲ್ಕು ಮೂಲೆಗಳಿವೆ, ಅಂದರೆ ನಾಲ್ಕು ಶೃಂಗಗಳಿವೆ. ಅದೇ ರೀತಿ, ಕೆಳಗಿನ ಚೌಕದ ಆಕಾರದ ಮುಖದಲ್ಲೂ ನಾಲ್ಕು ಮೂಲೆಗಳು, ಅಂದರೆ ನಾಲ್ಕು ಶೃಂಗಗಳಿವೆ. ಹಾಗಾಗಿ, ಒಂದು ಘನಕ್ಕೆ ಒಟ್ಟು 4 + 4, ಅಂದರೆ 8 ಶೃಂಗಗಳು ಇರುತ್ತವೆ. ಆದ್ದರಿಂದ, ಘನಕ್ಕೆ V = 8. ಬೇರೆ ಆಕೃತಿಗಳಲ್ಲಿ ಈ ಸಂಖ್ಯೆ ಬದಲಾಗಬಹುದು. ಉದಾಹರಣೆಗೆ, ಚೌಕ ಪಿರಮಿಡ್‌ನಲ್ಲಿ 5 ಶೃಂಗಗಳಿರುತ್ತವೆ.",
+  "display_bullets": [
+    "ಒಂದು ಘನಕ್ಕೆ (cube) ಒಟ್ಟು ಎಷ್ಟು ಶೃಂಗಗಳಿವೆ ಎಂದು ಎಣಿಸೋಣ.",
+    "ಮೇಲಿನ ಮುಖದಲ್ಲಿ 4 ಶೃಂಗಗಳು ಮತ್ತು ಕೆಳಗಿನ ಮುಖದಲ್ಲಿ 4 ಶೃಂಗಗಳಿವೆ.",
+    "ಹಾಗಾಗಿ, ಒಂದು ಘನಕ್ಕೆ ಒಟ್ಟು 8 ಶೃಂಗಗಳು (V=8) ಇರುತ್ತವೆ.",
+    "ಬೇರೆ ಬೇರೆ ಘನಾಕೃತಿಗಳು ಬೇರೆ ಬೇರೆ ಸಂಖ್ಯೆಯ ಶೃಂಗಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_portrait",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cube with all 8 of its vertices highlighted with prominent colored dots to make them easy to count.",
+    "labels": "ಶೃಂಗಗಳು (Vertices)",
+    "mathematical_significance": "Demonstrates how to count all vertices of a simple polyhedron, reinforcing the definition by applying it.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "VIS-SOLID-2_concept_2_chunk_012"
+}

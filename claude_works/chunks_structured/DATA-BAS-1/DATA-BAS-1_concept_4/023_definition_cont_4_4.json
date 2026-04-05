@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ 2: ದಾಳ ಉರುಳಿಸುವುದು",
+  "script": "ಇನ್ನೊಂದು ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. ಒಂದು ಸಾಮಾನ್ಯ ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ, ಅದರ ಮೇಲೆ ಒಂದು, ಎರಡು, ಮೂರು, ನಾಲ್ಕು, ಐದು, ಅಥವಾ ಆರು ಎಂಬ ಸಂಖ್ಯೆಗಳು ಬರಬಹುದು. ಹಾಗಾಗಿ, ಒಟ್ಟು ಸಾಧ್ಯವಿರುವ ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ ಆರು. ಈಗ, ಒಂದು ಸಮ ಸಂಖ್ಯೆ ಬರುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು ಎಂದು ಲೆಕ್ಕ ಹಾಕೋಣ. ದಾಳದ ಮೇಲಿರುವ ಸಮ ಸಂಖ್ಯೆಗಳು ಎರಡು, ನಾಲ್ಕು, ಮತ್ತು ಆರು. ಅಂದರೆ, ನಮಗೆ ಪೂರಕವಾದ ಫಲಿತಾಂಶಗಳು ಮೂರು ಇವೆ. ಆದ್ದರಿಂದ, ಸಮ ಸಂಖ್ಯೆ ಬರುವ ಸಂಭವನೀಯತೆಯು ಮೂರು ಬೈ ಆರು, ಅಂದರೆ ಒಂದು ಬೈ ಎರಡು.",
+  "script_display": "ಇನ್ನೊಂದು ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. ಒಂದು ಸಾಮಾನ್ಯ ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ, ಅದರ ಮೇಲೆ 1, 2, 3, 4, 5, ಅಥವಾ 6 ಎಂಬ ಸಂಖ್ಯೆಗಳು ಬರಬಹುದು. ಹಾಗಾಗಿ, ಒಟ್ಟು ಸಾಧ್ಯವಿರುವ ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ 6. ಈಗ, ಒಂದು ಸಮ ಸಂಖ್ಯೆ ಬರುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು ಎಂದು ಲೆಕ್ಕ ಹಾಕೋಣ. ದಾಳದ ಮೇಲಿರುವ ಸಮ ಸಂಖ್ಯೆಗಳು 2, 4, ಮತ್ತು 6. ಅಂದರೆ, ನಮಗೆ ಪೂರಕವಾದ ಫಲಿತಾಂಶಗಳು 3 ಇವೆ. ಆದ್ದರಿಂದ, ಸಮ ಸಂಖ್ಯೆ ಬರುವ ಸಂಭವನೀಯತೆಯು $\\frac{3}{6}$, ಅಂದರೆ $\\frac{1}{2}$.",
+  "display_bullets": [
+    "ಒಂದು ದಾಳವನ್ನು ಉರುಳಿಸಿದಾಗ, ಒಟ್ಟು ಫಲಿತಾಂಶಗಳು: {1, 2, 3, 4, 5, 6}.",
+    "ಒಟ್ಟು ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆ = 6.",
+    "ಒಂದು ಸಮ ಸಂಖ್ಯೆ ಬರುವ ಘಟನೆಗೆ ಪೂರಕ ಫಲಿತಾಂಶಗಳು: {2, 4, 6}. ಇವುಗಳ ಸಂಖ್ಯೆ 3.",
+    "ಆದ್ದರಿಂದ, $P(\\text{ಸಮ ಸಂಖ್ಯೆ}) = \\frac{3}{6} = \\frac{1}{2}$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dynamic_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration of a standard six-sided die, showing multiple faces to indicate the numbers 1 through 6. The faces with 2, 4, and 6 are highlighted.",
+    "labels": "Die, Even numbers",
+    "mathematical_significance": "This visual represents a random experiment with six equally likely outcomes. It is used to illustrate the calculation of probability for a compound event (getting an even number).",
+    "placeholder_note": "Image to be generated showing a die, highlighting the even numbers."
+  },
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_023"
+}

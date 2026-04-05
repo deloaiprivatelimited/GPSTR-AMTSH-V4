@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಉದಾಹರಣೆ: ಪರಿಹಾರ",
+  "script": "ಈಗ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ತ್ರಿಭುಜದ ಬಾಹ್ಯ ಕೋನದ ಗುಣದ ಪ್ರಕಾರ, ಬಾಹ್ಯ ಕೋನದ ಅಳತೆಯು ಅದರ ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ನಮ್ಮ ಸಮಸ್ಯೆಯಲ್ಲಿ, ಬಾಹ್ಯ ಕೋನವು x ಮತ್ತು ಅಂತರಾಭಿಮುಖ ಕೋನಗಳು 50 ಡಿಗ್ರಿ ಮತ್ತು 70 ಡಿಗ್ರಿ. ಆದ್ದರಿಂದ, x ಸಮನಾಗಿದೆ 50 ಡಿಗ್ರಿ ಪ್ಲಸ್ 70 ಡಿಗ್ರಿ. ಈ ಎರಡು ಸಂಖ್ಯೆಗಳನ್ನು ಕೂಡಿಸಿದಾಗ, ನಮಗೆ 120 ಡಿಗ್ರಿ ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, ಅಜ್ಞಾತ ಬಾಹ್ಯ ಕೋನ x ನ ಬೆಲೆಯು 120 ಡಿಗ್ರಿ ಆಗಿದೆ. ಇದು ತುಂಬಾ ಸರಳವಾದ ಲೆಕ್ಕಾಚಾರ ಮತ್ತು ಪ್ರಮೇಯದ ನೇರ ಅನ್ವಯವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ತ್ರಿಭುಜದ ಬಾಹ್ಯ ಕೋನದ ಗುಣದ ಪ್ರಕಾರ, ಬಾಹ್ಯ ಕೋನದ ಅಳತೆಯು ಅದರ ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬಾಹ್ಯ ಕೋನದ ಗುಣದ ಪ್ರಕಾರ: $x = $ ಅಂತರಾಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತ.",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: $x = 50^\\circ + 70^\\circ$.",
+    "ಪರಿಹಾರ: $x = 120^\\circ$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same diagram as the previous slide, but now the value of x is filled in as 120°. The calculation 'x = 50° + 70° = 120°' is shown next to the diagram.",
+    "labels": "Angles 50°, 70°, and the final answer 120°.",
+    "mathematical_significance": "Shows the solution to the problem, visually confirming the result of the calculation.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-1_concept_2_chunk_015"
+}

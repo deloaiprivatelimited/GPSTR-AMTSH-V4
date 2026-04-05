@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ರಬ್ಬರ್ ಬ್ಯಾಂಡ್",
+  "script": "ಕಂಪನವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. ಒಂದು ರಬ್ಬರ್ ಬ್ಯಾಂಡನ್ನು ಎರಡು ತುದಿಗಳಲ್ಲಿ ಹಿಡಿದು ಬಿಗಿಯಾಗಿ ಎಳೆಯಿರಿ. ಈಗ, ಅದರ ಮಧ್ಯಭಾಗವನ್ನು ಸ್ವಲ್ಪ ಎಳೆದು ಬಿಟ್ಟಾಗ, ಅದು ವೇಗವಾಗಿ ಹಿಂದೆ ಮತ್ತು ಮುಂದೆ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈ ವೇಗದ ಚಲನೆಯೇ 'ಕಂಪನ'. ನೀವು ಹತ್ತಿರದಿಂದ ಗಮನಿಸಿದರೆ, ಅದು ಚಲಿಸುವಾಗ ಒಂದು ಝೇಂಕಾರದ ಶಬ್ದವನ್ನು ಸಹ ಕೇಳಬಹುದು. ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಕಂಪಿಸುವುದನ್ನು ನಿಲ್ಲಿಸಿದಾಗ, ಶಬ್ದವೂ ನಿಲ್ಲುತ್ತದೆ. ಇದು ಕಂಪನ ಮತ್ತು ಶಬ್ದದ ನಡುವಿನ ನೇರ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಕಂಪನವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಸರಳ ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. ಒಂದು ರಬ್ಬರ್ ಬ್ಯಾಂಡನ್ನು ಎರಡು ತುದಿಗಳಲ್ಲಿ ಹಿಡಿದು ಬಿಗಿಯಾಗಿ ಎಳೆಯಿರಿ. ಈಗ, ಅದರ ಮಧ್ಯಭಾಗವನ್ನು ಸ್ವಲ್ಪ ಎಳೆದು ಬಿಟ್ಟಾಗ, ಅದು ವೇಗವಾಗಿ ಹಿಂದೆ ಮತ್ತು ಮುಂದೆ ಚಲಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈ ವೇಗದ ಚಲನೆಯೇ 'ಕಂಪನ'. ನೀವು ಹತ್ತಿರದಿಂದ ಗಮನಿಸಿದರೆ, ಅದು ಚಲಿಸುವಾಗ ಒಂದು ಝೇಂಕಾರದ ಶಬ್ದವನ್ನು ಸಹ ಕೇಳಬಹುದು. ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಕಂಪಿಸುವುದನ್ನು ನಿಲ್ಲಿಸಿದಾಗ, ಶಬ್ದವೂ ನಿಲ್ಲುತ್ತದೆ. ಇದು ಕಂಪನ ಮತ್ತು ಶಬ್ದದ ನಡುವಿನ ನೇರ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ರಬ್ಬರ್ ಬ್ಯಾಂಡನ್ನು ಬಿಗಿಯಾಗಿ ಎಳೆಯಿರಿ.",
+    "ಅದರ ಮಧ್ಯಭಾಗವನ್ನು ಎಳೆದು ಬಿಟ್ಟಾಗ, ಅದು ವೇಗವಾಗಿ ಹಿಂದೆ ಮುಂದೆ ಚಲಿಸುತ್ತದೆ.",
+    "ಈ ವೇಗದ ಚಲನೆಯೇ 'ಕಂಪನ'.",
+    "ಕಂಪನ ಇರುವಾಗ ಶಬ್ದ ಕೇಳಿಸುತ್ತದೆ, ಕಂಪನ ನಿಂತಾಗ ಶಬ್ದ ನಿಲ್ಲುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a stretched rubber band. Image 1: The rubber band is held taut. Image 2: A finger plucks the middle of the band. Image 3: The band is shown vibrating rapidly with motion blur lines, and sound waves emanating from it.",
+    "labels": "Stretched rubber band, Plucking, Vibration, Sound waves",
+    "scientific_significance": "Demonstrates the concept of vibration using a simple, everyday object. It visually connects the physical action (plucking) to the resulting vibration and the production of sound.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_10_concept_1_chunk_004"
+}

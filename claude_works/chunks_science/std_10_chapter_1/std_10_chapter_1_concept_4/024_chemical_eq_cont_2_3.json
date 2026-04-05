@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಕರ್ಷಣಕಾರಿ ಮತ್ತು ಅಪಕರ್ಷಣಕಾರಿ",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ, H C l ಉತ್ಕರ್ಷಣಗೊಂಡಿದೆ ಮತ್ತು MnO two ಅಪಕರ್ಷಣಗೊಂಡಿದೆ. ನೆನಪಿಡಿ, ಯಾವ ವಸ್ತುವು ಇನ್ನೊಂದು ವಸ್ತುವನ್ನು ಉತ್ಕರ್ಷಿಸಲು ಕಾರಣವಾಗುತ್ತದೆಯೋ, ಅದನ್ನು ಉತ್ಕರ್ಷಣಕಾರಿ ಎನ್ನುತ್ತೇವೆ. ಇಲ್ಲಿ, MnO two, H C l ಅನ್ನು ಉತ್ಕರ್ಷಿಸುವುದರಿಂದ, MnO two ಒಂದು ಉತ್ಕರ್ಷಣಕಾರಿಯಾಗಿದೆ. ಹಾಗೆಯೇ, ಯಾವ ವಸ್ತುವು ಇನ್ನೊಂದು ವಸ್ತುವನ್ನು ಅಪಕರ್ಷಿಸಲು ಕಾರಣವಾಗುತ್ತದೆಯೋ, ಅದನ್ನು ಅಪಕರ್ಷಣಕಾರಿ ಎನ್ನುತ್ತೇವೆ. ಇಲ್ಲಿ, H C l, MnO two ಅನ್ನು ಅಪಕರ್ಷಿಸುವುದರಿಂದ, H C l ಒಂದು ಅಪಕರ್ಷಣಕಾರಿಯಾಗಿದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ, HCl ಉತ್ಕರ್ಷಣಗೊಂಡಿದೆ ಮತ್ತು MnO₂ ಅಪಕರ್ಷಣಗೊಂಡಿದೆ.",
+  "display_bullets": [
+    "ಉತ್ಕರ್ಷಣಗೊಂಡ ವಸ್ತು: HCl",
+    "ಅಪಕರ್ಷಣಗೊಂಡ ವಸ್ತು: MnO₂",
+    "ಉತ್ಕರ್ಷಣಕಾರಿ (Oxidizing Agent): MnO₂ (ಇದು HCl ಅನ್ನು ಉತ್ಕರ್ಷಿಸುತ್ತದೆ)",
+    "ಅಪಕರ್ಷಣಕಾರಿ (Reducing Agent): HCl (ಇದು MnO₂ ಅನ್ನು ಅಪಕರ್ಷಿಸುತ್ತದೆ)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_2",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "std_10_chapter_1_concept_4_chunk_024"
+}

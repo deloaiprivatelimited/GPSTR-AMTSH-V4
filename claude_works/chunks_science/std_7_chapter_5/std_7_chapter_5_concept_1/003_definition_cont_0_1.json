@@ -1,0 +1,40 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ನೀರಿನ ಭೌತ ಗುಣಗಳು",
+  "script": "ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ, ನೀರು. ನೀರು ದ್ರವ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದಾಗ ಅದಕ್ಕೆ ನಿರ್ದಿಷ್ಟ ಆಕಾರ ಇರುವುದಿಲ್ಲ, ಅದು ಪಾತ್ರೆಯ ಆಕಾರವನ್ನು ಪಡೆಯುತ್ತದೆ. ಅದನ್ನು ತಣ್ಣಗೆ ಮಾಡಿದಾಗ, ಅದು ಮಂಜುಗಡ್ಡೆಯಾಗಿ, ಅಂದರೆ ಘನ ಸ್ಥಿತಿಗೆ ಬದಲಾಗುತ್ತದೆ. ಆಗ ಅದಕ್ಕೆ ಒಂದು ನಿರ್ದಿಷ್ಟ ಆಕಾರ ಮತ್ತು ಗಾತ್ರ ಇರುತ್ತದೆ. ಅದೇ ನೀರನ್ನು ಕಾಯಿಸಿದಾಗ, ಅದು ನೀರಾವಿಯಾಗಿ, ಅಂದರೆ ಅನಿಲ ಸ್ಥಿತಿಗೆ ಹೋಗುತ್ತದೆ. ಇಲ್ಲಿ ಗಮನಿಸಿ, ನೀರಿನ ಸ್ಥಿತಿ ಬದಲಾದರೂ, ಅಂದರೆ ದ್ರವದಿಂದ ಘನಕ್ಕೆ ಅಥವಾ ಅನಿಲಕ್ಕೆ, ಅದರ ರಾಸಾಯನಿಕ ಸ್ವರೂಪ, ಅಂದರೆ H two O, ಬದಲಾಗುವುದಿಲ್ಲ. ಹೀಗೆ ಸ್ಥಿತಿ ಒಂದು ಪ್ರಮುಖ ಭೌತಿಕ ಗುಣವಾಗಿದೆ.",
+  "script_display": "ನೀರು ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆ. ಅದರ ಸ್ಥಿತಿ ಬದಲಾಗಬಹುದು (ಮಂಜುಗಡ್ಡೆ, ನೀರು, ನೀರಾವಿ), ಆದರೆ ಅದರ ರಾಸಾಯನಿಕ ಸಂಯೋಜನೆ (H₂O) ಒಂದೇ ಆಗಿರುತ್ತದೆ. ಸ್ಥಿತಿ ಒಂದು ಪ್ರಮುಖ ಭೌತಿಕ ಗುಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಘನ ಸ್ಥಿತಿ: ಮಂಜುಗಡ್ಡೆ (Ice)",
+    "ದ್ರವ ಸ್ಥಿತಿ: ನೀರು (Water)",
+    "ಅನಿಲ ಸ್ಥಿತಿ: ನೀರಾವಿ (Steam)",
+    "ಎಲ್ಲಾ ಸ್ಥಿತಿಗಳಲ್ಲೂ ರಾಸಾಯನಿಕವಾಗಿ ಅದು ನೀರೇ (H₂O)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the three states of water. On the left, a block of ice representing the solid state. In the middle, a glass of water representing the liquid state. On the right, a beaker of boiling water with steam coming off, representing the gaseous state. Arrows should indicate the transitions: melting from ice to water, and boiling from water to steam.",
+    "labels": "ಮಂಜುಗಡ್ಡೆ (ಘನ), ನೀರು (ದ್ರವ), ನೀರಾವಿ (ಅನಿಲ)",
+    "scientific_significance": "Illustrates that a substance can exist in different physical states (a physical property) without changing its chemical identity.",
+    "placeholder_note": "Image to be generated showing the three states of water."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "std_7_chapter_5_concept_1_def_1",
+  "chunk_id": "std_7_chapter_5_concept_1_chunk_003"
+}

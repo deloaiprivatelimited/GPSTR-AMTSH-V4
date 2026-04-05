@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ತೀರ್ಮಾನ",
+  "script": "ಹಾಗಾದರೆ, ನಮ್ಮ ಅಂತಿಮ ತೀರ್ಮಾನಕ್ಕೆ ಬರೋಣ. ನಕ್ಷೆಯಿಂದ, ಎರಡು ರೇಖೆಗಳು ಬಿಂದು ಆರು, ಸೊನ್ನೆಯಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ ಎಂದು ನಾವು ನೋಡಬಹುದು. ರೇಖೆಗಳು ಒಂದೇ ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುವುದರಿಂದ, ಈ ಸಮೀಕರಣಗಳ ಜೋಡಿಯು ಸ್ಥಿರವಾಗಿದೆ. ಇದರ ಪರಿಹಾರ x ಈಕ್ವಲ್ಸ್ ಆರು ಮತ್ತು y ಈಕ್ವಲ್ಸ್ ಸೊನ್ನೆ ಆಗಿದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ನಮ್ಮ ಅಂತಿಮ ತೀರ್ಮಾನಕ್ಕೆ ಬರೋಣ. ನಕ್ಷೆಯಿಂದ, ಎರಡು ರೇಖೆಗಳು (6, 0) ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ ಎಂದು ನಾವು ನೋಡಬಹುದು. ರೇಖೆಗಳು ಒಂದೇ ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುವುದರಿಂದ, ಈ ಸಮೀಕರಣಗಳ ಜೋಡಿಯು ಸ್ಥಿರವಾಗಿದೆ. ಇದರ ಪರಿಹಾರ $x=6$ ಮತ್ತು $y=0$ ಆಗಿದೆ.",
+  "display_bullets": [
+    "ರೇಖೆಗಳು (6, 0) ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ.",
+    "ಆದ್ದರಿಂದ, ಸಮೀಕರಣಗಳ ಜೋಡಿಯು ಸ್ಥಿರವಾಗಿದೆ.",
+    "ಪರಿಹಾರ: x = 6, y = 0."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x = 6 \\\\ y = 0",
+    "placeholder_note": "Display the final solution in a highlighted box."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "ALG-PAIR-4_example_1",
+  "final_answer": "ರೇಖೆಗಳು (6, 0) ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುವುದರಿಂದ, ಈ ಜೋಡಿಯು ಸ್ಥಿರವಾಗಿದೆ ಮತ್ತು ಪರಿಹಾರ x=6, y=0 ಆಗಿದೆ.",
+  "final_answer_display": "ರೇಖೆಗಳು (6, 0) ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುವುದರಿಂದ, ಈ ಜೋಡಿಯು ಸ್ಥಿರವಾಗಿದೆ ಮತ್ತು ಪರಿಹಾರ $x=6, y=0$ ಆಗಿದೆ.",
+  "chunk_id": "ALG-PAIR-4_concept_2_chunk_012"
+}

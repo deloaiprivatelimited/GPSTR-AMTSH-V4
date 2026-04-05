@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕಾರ್ಬೋನಿಕ್ ಆಮ್ಲದ ರಚನೆ: ಸಮೀಕರಣ",
+  "script": "ಇಲ್ಲಿ ನೀವು ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡಬಹುದು. ಒಂದು ಅಣು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ಅಂದರೆ C O two, ಅನಿಲ ರೂಪದಲ್ಲಿ, ಒಂದು ಅಣು ನೀರಿನೊಂದಿಗೆ, ಅಂದರೆ H two O, ದ್ರವ ರೂಪದಲ್ಲಿ ವರ್ತಿಸಿ, ಕಾರ್ಬೋನಿಕ್ ಆಮ್ಲ, ಅಂದರೆ H two C O three, ದ್ರಾವಣ ರೂಪದಲ್ಲಿ ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಒಂದು ಅಣು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂), ಅನಿಲ ರೂಪದಲ್ಲಿ (g), ಒಂದು ಅಣು ನೀರಿನೊಂದಿಗೆ (H₂O), ದ್ರವ ರೂಪದಲ್ಲಿ (l) ವರ್ತಿಸಿ, ಕಾರ್ಬೋನಿಕ್ ಆಮ್ಲ (H₂CO₃), ದ್ರಾವಣ ರೂಪದಲ್ಲಿ (aq) ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "dynamic_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CO_2(g) + H_2O(l) \\rightarrow H_2CO_3(aq)",
+    "placeholder_note": "Equation showing Carbon Dioxide plus Water yields Carbonic Acid."
+  },
+  "chunk_id": "std_7_science_chapter_4_concept_5_chunk_007"
+}

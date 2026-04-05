@@ -1,0 +1,48 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಈಗ ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ಚಲಿಸಿದ ದೂರವನ್ನು ಲೆಕ್ಕ ಹಾಕುವುದು. ಇದಕ್ಕಾಗಿ ನಾವು ಅಂತಿಮ ಓದುವಿಕೆಯಿಂದ ಆರಂಭಿಕ ಓದುವಿಕೆಯನ್ನು ಕಳೆಯುತ್ತೇವೆ. ಅಂದರೆ, 57336.0 ಕಿಲೋಮೀಟರ್ ಮೈನಸ್ 57321.0 ಕಿಲೋಮೀಟರ್, ನಮಗೆ 15 ಕಿಲೋಮೀಟರ್ ಸಿಗುತ್ತದೆ. ಎರಡನೇ ಹಂತ, ತೆಗೆದುಕೊಂಡ ಸಮಯವನ್ನು ಗಮನಿಸುವುದು. ಲೆಕ್ಕದಲ್ಲಿ ಕೊಟ್ಟಿರುವಂತೆ, ತೆಗೆದುಕೊಂಡ ಸಮಯ 20 ನಿಮಿಷಗಳು.",
+  "script_display": "",
+  "display_bullets": [
+    "**ಹಂತ 1: ಚಲಿಸಿದ ದೂರವನ್ನು ಲೆಕ್ಕ ಹಾಕಿ.**",
+    "ದೂರ = ಅಂತಿಮ ಓದುವಿಕೆ - ಆರಂಭಿಕ ಓದುವಿಕೆ",
+    "ದೂರ = 57336.0 km - 57321.0 km = **15 km**",
+    "**ಹಂತ 2: ತೆಗೆದುಕೊಂಡ ಸಮಯವನ್ನು ಗಮನಿಸಿ.**",
+    "ಕಾಲ = **20 min**"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "std_7_science_ch_9_example_2",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಚಲಿಸಿದ ದೂರವನ್ನು ಲೆಕ್ಕ ಹಾಕಿ. ದೂರ = ಅಂತಿಮ ಓದುವಿಕೆ - ಆರಂಭಿಕ ಓದುವಿಕೆ = 57336.0 - 57321.0 = 15 km",
+      "justification": "ದೂರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಅಂತಿಮ ಮತ್ತು ಆರಂಭಿಕ ಓದುವಿಕೆಗಳ ವ್ಯತ್ಯಾಸವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು."
+    },
+    {
+      "step": 2,
+      "action_display": "ತೆಗೆದುಕೊಂಡ ಸಮಯವನ್ನು ಗಮನಿಸಿ. ಕಾಲ = 20 min",
+      "justification": "ಸಮಯವನ್ನು ಲೆಕ್ಕದಲ್ಲಿ ನೀಡಲಾಗಿದೆ."
+    }
+  ],
+  "chunk_id": "std_7_science_ch_9_concept_6_chunk_007"
+}

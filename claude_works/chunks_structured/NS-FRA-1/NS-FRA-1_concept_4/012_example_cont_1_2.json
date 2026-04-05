@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಮೂರನೇ ನಾಲ್ಕು ಭಾಗದಿಂದ ಎರಡನೇ ಮೂರು ಭಾಗವನ್ನು ಕಳೆದಾಗ ಬರುವ ಉತ್ತರ ಹನ್ನೆರಡನೇ ಒಂದು ಭಾಗ. ನೆನಪಿಡಿ, ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳನ್ನು ಕಳೆಯುವಾಗ, ಮೊದಲು ಲ ಸಾ ಅ ಬಳಸಿ ಸಾಮಾನ್ಯ ಛೇದವನ್ನು ಕಂಡುಹಿಡಿದು, ನಂತರವೇ ವ್ಯವಕಲನ ಮಾಡಬೇಕು.",
+  "script_display": "ಆದ್ದರಿಂದ, $\\frac{3}{4} - \\frac{2}{3}$ ಕಳೆದಾಗ ಬರುವ ಉತ್ತರ $\\frac{1}{12}$. ನೆನಪಿಡಿ, ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳನ್ನು ಕಳೆಯುವಾಗ, ಮೊದಲು ಲ.ಸಾ.ಅ. ಬಳಸಿ ಸಾಮಾನ್ಯ ಛೇದವನ್ನು ಕಂಡುಹಿಡಿದು, ನಂತರವೇ ವ್ಯವಕಲನ ಮಾಡಬೇಕು.",
+  "display_bullets": [
+    "ಅಂತಿಮ ಉತ್ತರ: $\\frac{1}{12}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard_key_takeaway",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{3}{4} - \\frac{2}{3} = \\frac{1}{12}",
+    "placeholder_note": "A formula box showing the final answer."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-FRA-1_example_5",
+  "final_answer": "1/12",
+  "final_answer_display": "$\\frac{1}{12}$",
+  "chunk_id": "NS-FRA-1_concept_4_chunk_012"
+}

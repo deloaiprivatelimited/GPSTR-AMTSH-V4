@@ -1,0 +1,35 @@
+{
+  "type": "key_takeaway",
+  "slide_title": "ತೀರ್ಮಾನ: ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ",
+  "script": "ಈ ಚಟುವಟಿಕೆಯಿಂದ ನಾವು ಒಂದು ಪ್ರಮುಖ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು. ಆಮ್ಲವು ಪ್ರತ್ಯಾಮ್ಲದ ಪರಿಣಾಮವನ್ನು ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲವು ಆಮ್ಲದ ಪರಿಣಾಮವನ್ನು ಶೂನ್ಯಗೊಳಿಸುತ್ತದೆ. ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು 'ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ, ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಮತ್ತು ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ ವರ್ತಿಸಿ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ ಎಂಬ ಲವಣ ಮತ್ತು ನೀರು ಉತ್ಪನ್ನಗಳಾಗಿ ದೊರೆಯುತ್ತವೆ. ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ: NaOH ಪ್ಲಸ್ HCl ಗಿವ್ಸ್ NaCl ಪ್ಲಸ್ H two O. ಇದು ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆಯ ಒಂದು ಶ್ರೇಷ್ಠ ಉದಾಹರಣೆಯಾಗಿದೆ.",
+  "script_display": "ಈ ಚಟುವಟಿಕೆಯಿಂದ ನಾವು ಒಂದು ಪ್ರಮುಖ ತೀರ್ಮಾನಕ್ಕೆ ಬರಬಹುದು. ಆಮ್ಲವು ಪ್ರತ್ಯಾಮ್ಲದ ಪರಿಣಾಮವನ್ನು ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲವು ಆಮ್ಲದ ಪರಿಣಾಮವನ್ನು ಶೂನ್ಯಗೊಳಿಸುತ್ತದೆ. ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು 'ತಟಸ್ಥೀಕರಣ ಕ್ರಿಯೆ' (Neutralization Reaction) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ, ಲವಣ (Salt) ಮತ್ತು ನೀರು (Water) ಉತ್ಪನ್ನಗಳಾಗಿ ದೊರೆಯುತ್ತವೆ. ನಮ್ಮ ಪ್ರಯೋಗದ ಸಮೀಕರಣ:",
+  "display_bullets": [
+    "ಆಮ್ಲವು ಪ್ರತ್ಯಾಮ್ಲದ ಪರಿಣಾಮವನ್ನು ಶೂನ್ಯಗೊಳಿಸುತ್ತದೆ.",
+    "ಪ್ರತ್ಯಾಮ್ಲವು ಆಮ್ಲದ ಪರಿಣಾಮವನ್ನು ಶೂನ್ಯಗೊಳಿಸುತ್ತದೆ.",
+    "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಲವಣ ಮತ್ತು ನೀರು ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\underset{\\text{(ಪ್ರತ್ಯಾಮ್ಲ)}}{\\text{NaOH}} + \\underset{\\text{(ಆಮ್ಲ)}}{\\text{HCl}} \\rightarrow \\underset{\\text{(ಲವಣ)}}{\\text{NaCl}} + \\underset{\\text{(ನೀರು)}}{\\text{H}_2\\text{O}}",
+    "placeholder_note": "Display the chemical equation for the reaction between Sodium Hydroxide and Hydrochloric Acid."
+  },
+  "chunk_id": "std_10_chapter_2_concept_4_chunk_024"
+}

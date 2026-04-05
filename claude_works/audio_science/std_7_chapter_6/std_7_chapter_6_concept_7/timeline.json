@@ -1,0 +1,46 @@
+{
+  "module_id": "std_7_chapter_6_concept_7",
+  "chapter_code": "std_7_chapter_6",
+  "voice": "Zubenelgenubi",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 135.513,
+  "total_duration_formatted": "2:15",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_6_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಸ್ಯಗಳಲ್ಲಿ ಉಸಿರಾಟ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 55.091,
+      "duration": 55.091,
+      "script_words": 74
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 55.691,
+      "end": 82.422,
+      "duration": 26.731,
+      "script_words": 39
+    },
+    {
+      "chunk_id": "std_7_chapter_6_concept_7_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "start": 83.022,
+      "end": 134.913,
+      "duration": 51.891,
+      "script_words": 56
+    }
+  ]
+}

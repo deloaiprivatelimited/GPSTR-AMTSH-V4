@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹಂತ 3: ಲೋಹದ ಶುದ್ಧೀಕರಣ",
+  "script": "ಅಂತಿಮ ಹಂತ ಲೋಹದ ಶುದ್ಧೀಕರಣ. ಎರಡನೇ ಹಂತದಲ್ಲಿ ಪಡೆದ ಲೋಹವು ಸಂಪೂರ್ಣವಾಗಿ ಶುದ್ಧವಾಗಿರುವುದಿಲ್ಲ. ಅದರಲ್ಲಿ ಇನ್ನೂ ಕೆಲವು ಕಲ್ಮಶಗಳು ಉಳಿದಿರುತ್ತವೆ. ಈ ಅಶುದ್ಧ ಲೋಹದಿಂದ ಕಲ್ಮಶಗಳನ್ನು ತೆಗೆದುಹಾಕಿ, ಅತ್ಯಂತ ಶುದ್ಧವಾದ ಲೋಹವನ್ನು ಪಡೆಯುವ ಪ್ರಕ್ರಿಯೆಯೇ ಶುದ್ಧೀಕರಣ. ಉದಾಹರಣೆಗೆ, ತಾಮ್ರದಂತಹ ಲೋಹಗಳನ್ನು ವಿದ್ಯುದ್ವಿಭಜನೀಯ ಶುದ್ಧೀಕರಣ ಎಂಬ ವಿಧಾನದಿಂದ ಶೇಕಡಾ ತೊಂಬತ್ತೊಂಬತ್ತಕ್ಕಿಂತ ಹೆಚ್ಚು ಶುದ್ಧಗೊಳಿಸಲಾಗುತ್ತದೆ. ಈ ಹಂತವು ಲೋಹದ ಗುಣಮಟ್ಟವನ್ನು ನಿರ್ಧರಿಸುತ್ತದೆ ಮತ್ತು ಅದನ್ನು ನಿರ್ದಿಷ್ಟ ಉಪಯೋಗಗಳಿಗೆ ಸಿದ್ಧಪಡಿಸುತ್ತದೆ.",
+  "script_display": "ಅಂತಿಮ ಹಂತ ಲೋಹದ ಶುದ್ಧೀಕರಣ (Refining of Metal). ಎರಡನೇ ಹಂತದಲ್ಲಿ ಪಡೆದ ಲೋಹವು ಸಂಪೂರ್ಣವಾಗಿ ಶುದ್ಧವಾಗಿರುವುದಿಲ್ಲ. ಅದರಲ್ಲಿ ಇನ್ನೂ ಕೆಲವು ಕಲ್ಮಶಗಳು ಉಳಿದಿರುತ್ತವೆ. ಈ ಅಶುದ್ಧ ಲೋಹದಿಂದ ಕಲ್ಮಶಗಳನ್ನು ತೆಗೆದುಹಾಕಿ, ಅತ್ಯಂತ ಶುದ್ಧವಾದ ಲೋಹವನ್ನು ಪಡೆಯುವ ಪ್ರಕ್ರಿಯೆಯೇ ಶುದ್ಧೀಕರಣ. ಉದಾಹರಣೆಗೆ, ತಾಮ್ರದಂತಹ ಲೋಹಗಳನ್ನು ವಿದ್ಯುದ್ವಿಭಜನೀಯ ಶುದ್ಧೀಕರಣ (Electrolytic refining) ಎಂಬ ವಿಧಾನದಿಂದ 99% ಕ್ಕಿಂತ ಹೆಚ್ಚು ಶುದ್ಧಗೊಳಿಸಲಾಗುತ್ತದೆ. ಈ ಹಂತವು ಲೋಹದ ಗುಣಮಟ್ಟವನ್ನು ನಿರ್ಧರಿಸುತ್ತದೆ ಮತ್ತು ಅದನ್ನು ನಿರ್ದಿಷ್ಟ ಉಪಯೋಗಗಳಿಗೆ ಸಿದ್ಧಪಡಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ವ್ಯಾಖ್ಯಾನ: ಉದ್ಧರಿಸಿದ ಅಶುದ್ಧ ಲೋಹದಿಂದ ಕಲ್ಮಶಗಳನ್ನು ತೆಗೆದು, ಅತ್ಯಂತ ಶುದ್ಧ ಲೋಹವನ್ನು ಪಡೆಯುವ ಅಂತಿಮ ಹಂತ.",
+    "ಉದಾಹರಣೆ: ವಿದ್ಯುದ್ವಿಭಜನೀಯ ಶುದ್ಧೀಕರಣ (Electrolytic refining)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A schematic of electrolytic refining. An impure copper anode, a pure copper cathode in a tank of copper sulfate solution. Arrows show Cu2+ ions moving from anode to cathode, and impurities (anode mud) settling at the bottom.",
+    "labels": "ಅಶುದ್ಧ ಆನೋಡ್, ಶುದ್ಧ ಕ್ಯಾಥೋಡ್, ವಿದ್ಯುದ್ವಿಚ್ಛೇದ್ಯ, ಆನೋಡ್ ಮಡ್ಡಿ",
+    "scientific_significance": "Illustrates a common and important method for purifying metals to a high degree.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_8_chunk_021"
+}

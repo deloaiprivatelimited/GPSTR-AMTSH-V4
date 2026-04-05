@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವೀಕ್ಷಣೆ: ಬೆಳಕಿನ ಪರಿಣಾಮ",
+  "script": "ಈಗ ಜೋಡಣೆ ಸಿ ಯ ಫಲಿತಾಂಶವನ್ನು ನೋಡೋಣ. ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆರೆದಾಗ, ಸಸ್ಯದ ಕಾಂಡವು ನೇರವಾಗಿ ಬೆಳೆಯುವ ಬದಲು, ಬೆಳಕು ಬರುತ್ತಿದ್ದ ರಂಧ್ರದ ಕಡೆಗೆ ಬಾಗಿರುವುದನ್ನು ನಾವು ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣಬಹುದು. ಇದು ನಿಜಕ್ಕೂ ಅದ್ಭುತ! ಸಸ್ಯವು ತನ್ನ ಬೆಳವಣಿಗೆಯ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸಿ, ಬೆಳಕನ್ನು ಹುಡುಕಿಕೊಂಡು ಹೋಗಿದೆ. ಆದರೆ, ನೀವು ಅದರ ಬೇರನ್ನು ಗಮನಿಸಿದರೆ, ಅದು ಬೆಳಕಿನ ಕಡೆಗೆ ಬಾಗದೆ, ಎಂದಿನಂತೆ ಕೆಳಮುಖವಾಗಿಯೇ ಬೆಳೆದಿರುತ್ತದೆ. ಇದರಿಂದ, ಸಸ್ಯದ ಕಾಂಡವು ಬೆಳಕಿನ ದಿಕ್ಕಿಗೆ ಸ್ಪಂದಿಸುತ್ತದೆ, ಆದರೆ ಬೇರು ಸ್ಪಂದಿಸುವುದಿಲ್ಲ ಎಂಬುದು ನಮಗೆ ತಿಳಿಯುತ್ತದೆ.",
+  "script_display": "ಈಗ ಜೋಡಣೆ C ಯ ಫಲಿತಾಂಶವನ್ನು ನೋಡೋಣ. ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆರೆದಾಗ, ಸಸ್ಯದ ಕಾಂಡವು ನೇರವಾಗಿ ಬೆಳೆಯುವ ಬದಲು, ಬೆಳಕು ಬರುತ್ತಿದ್ದ ರಂಧ್ರದ ಕಡೆಗೆ ಬಾಗಿರುವುದನ್ನು ನಾವು ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣಬಹುದು. ಇದು ನಿಜಕ್ಕೂ ಅದ್ಭುತ! ಸಸ್ಯವು ತನ್ನ ಬೆಳವಣಿಗೆಯ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸಿ, ಬೆಳಕನ್ನು ಹುಡುಕಿಕೊಂಡು ಹೋಗಿದೆ. ಆದರೆ, ನೀವು ಅದರ ಬೇರನ್ನು ಗಮನಿಸಿದರೆ, ಅದು ಬೆಳಕಿನ ಕಡೆಗೆ ಬಾಗದೆ, ಎಂದಿನಂತೆ ಕೆಳಮುಖವಾಗಿಯೇ ಬೆಳೆದಿರುತ್ತದೆ. ಇದರಿಂದ, ಸಸ್ಯದ ಕಾಂಡವು ಬೆಳಕಿನ ದಿಕ್ಕಿಗೆ ಸ್ಪಂದಿಸುತ್ತದೆ, ಆದರೆ ಬೇರು ಸ್ಪಂದಿಸುವುದಿಲ್ಲ ಎಂಬುದು ನಮಗೆ ತಿಳಿಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ಜೋಡಣೆ C: ಕಾಂಡವು ಬೆಳಕು ಬರುತ್ತಿದ್ದ ರಂಧ್ರದ ಕಡೆಗೆ ಬಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+    "ಬೇರುಗಳು ಬೆಳಕಿನಿಂದ ದೂರ, ಕೆಳಮುಖವಾಗಿಯೇ ಬೆಳೆಯುತ್ತವೆ.",
+    "ಇದು ಸಸ್ಯದ ಕಾಂಡವು ಬೆಳಕಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸುವುದನ್ನು ತೋರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the result for setup C. The box is open, revealing the plant inside. The stem has clearly bent and grown towards the hole on the side of the box. The roots are shown growing straight down.",
+    "labels": "ಫಲಿತಾಂಶ: ಜೋಡಣೆ C",
+    "scientific_significance": "Visually demonstrates positive phototropism in stems.",
+    "placeholder_note": "Image to be generated showing the result for C."
+  },
+  "chunk_id": "std_6_chapter_10_concept_3_chunk_016"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆಗಳು: ಭಾಗ 1",
+  "script": "ಪ್ರಯೋಗದ ಫಲಿತಾಂಶಗಳು ಬಹಳ ಅನಿರೀಕ್ಷಿತವಾಗಿದ್ದವು. ರುದರ್‌ಫೋರ್ಡ್‌ರವರು ಗಮನಿಸಿದ ಮೊದಲ ಮತ್ತು ಪ್ರಮುಖ ವೀಕ್ಷಣೆ ಎಂದರೆ, ಹೆಚ್ಚಿನ ಆಲ್ಫಾ ಕಣಗಳು ಚಿನ್ನದ ಹಾಳೆಗೆ ಯಾವುದೇ ಅಡೆತಡೆಯಿಲ್ಲದೆ, ತಮ್ಮ ಪಥದಲ್ಲಿ ಯಾವುದೇ ಬದಲಾವಣೆಯಾಗದೆ ನೇರವಾಗಿ ಹಾದುಹೋದವು. ಇದನ್ನು ನೀವು ಚಿತ್ರದಲ್ಲಿ ನೋಡಬಹುದು. ಸಾವಿರಾರು ಕಣಗಳು ಸರಳವಾಗಿ ಹಾದುಹೋಗುತ್ತಿದ್ದವು. ಥಾಮ್ಸನ್‌ರವರ ಮಾದರಿ ಸರಿಯಾಗಿದ್ದರೆ, ಎಲ್ಲಾ ಕಣಗಳು ಸ್ವಲ್ಪವಾದರೂ ವಿಚಲನೆಗೊಳ್ಳಬೇಕಿತ್ತು. ಆದರೆ ಹಾಗಾಗಲಿಲ್ಲ. ಇದು ಪರಮಾಣುವಿನ ರಚನೆಯ ಬಗ್ಗೆ ಒಂದು ಪ್ರಮುಖ ಸುಳಿವನ್ನು ನೀಡಿತು.",
+  "script_display": "ಪ್ರಯೋಗದ ಫಲಿತಾಂಶಗಳು ಬಹಳ ಅನಿರೀಕ್ಷಿತವಾಗಿದ್ದವು. ರುದರ್‌ಫೋರ್ಡ್‌ರವರು ಗಮನಿಸಿದ ಮೊದಲ ಮತ್ತು ಪ್ರಮುಖ ವೀಕ್ಷಣೆ ಎಂದರೆ, ಹೆಚ್ಚಿನ ಆಲ್ಫಾ ಕಣಗಳು ಚಿನ್ನದ ಹಾಳೆಗೆ ಯಾವುದೇ ಅಡೆತಡೆಯಿಲ್ಲದೆ, ತಮ್ಮ ಪಥದಲ್ಲಿ ಯಾವುದೇ ಬದಲಾವಣೆಯಾಗದೆ ನೇರವಾಗಿ ಹಾದುಹೋದವು. ಇದನ್ನು ನೀವು ಚಿತ್ರದಲ್ಲಿ ನೋಡಬಹುದು. ಸಾವಿರಾರು ಕಣಗಳು ಸರಳವಾಗಿ ಹಾದುಹೋಗುತ್ತಿದ್ದವು. ಥಾಮ್ಸನ್‌ರವರ ಮಾದರಿ ಸರಿಯಾಗಿದ್ದರೆ, ಎಲ್ಲಾ ಕಣಗಳು ಸ್ವಲ್ಪವಾದರೂ ವಿಚಲನೆಗೊಳ್ಳಬೇಕಿತ್ತು. ಆದರೆ ಹಾಗಾಗಲಿಲ್ಲ. ಇದು ಪರಮಾಣುವಿನ ರಚನೆಯ ಬಗ್ಗೆ ಒಂದು ಪ್ರಮುಖ ಸುಳಿವನ್ನು ನೀಡಿತು.",
+  "display_bullets": [
+    "ಹೆಚ್ಚಿನ ಆಲ್ಫಾ ಕಣಗಳು ಚಿನ್ನದ ಹಾಳೆಯ ಮೂಲಕ ಯಾವುದೇ ವಿಚಲನೆಯಿಲ್ಲದೆ ನೇರವಾಗಿ ಹಾದುಹೋದವು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up view of the gold foil at an atomic level. A stream of alpha particles is shown, with the vast majority passing straight through the atoms, indicating that the atoms are mostly empty space.",
+    "labels": "ಆಲ್ಫಾ ಕಣಗಳು, ಚಿನ್ನದ ಪರಮಾಣು, ಖಾಲಿ ಜಾಗ",
+    "scientific_significance": "This observation directly implies that most of an atom's volume is empty space.",
+    "placeholder_note": "Image showing alpha particles passing undeflected through atoms."
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_9_chapter_4_concept_3_chunk_007"
+}

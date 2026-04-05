@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಕ್ಷಯ ರೋಗದ ರೋಗಕಾರಕ",
+  "script": "ಒಂದು ಸ್ಪಷ್ಟ ಉದಾಹರಣೆ ನೋಡೋಣ. ಉದಾಹರಣೆಗೆ, ಕ್ಷಯ ರೋಗ ಅಥವಾ ಟ್ಯುಬರ್ಕ್ಯುಲೋಸಿಸ್. ಈ ರೋಗಕ್ಕೆ ಕಾರಣ ಮೈಕೋಬ್ಯಾಕ್ಟೀರಿಯಂ ಟ್ಯೂಬರ್ಕ್ಯುಲೋಸಿಸ್ ಎಂಬ ಬ್ಯಾಕ್ಟೀರಿಯಾ. ಈ ಬ್ಯಾಕ್ಟೀರಿಯಾವು ಗಾಳಿಯ ಮೂಲಕ ನಮ್ಮ ಶ್ವಾಸಕೋಶವನ್ನು ಪ್ರವೇಶಿಸುತ್ತದೆ. ಅಲ್ಲಿ ಅದು ಬೆಳೆದು, ಶ್ವಾಸಕೋಶದ ಅಂಗಾಂಶಗಳನ್ನು ಹಾನಿಗೊಳಿಸಿ ರೋಗವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಇದರಿಂದ ಕೆಮ್ಮು, ಜ್ವರದಂತಹ ಲಕ್ಷಣಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಆದ್ದರಿಂದ, ಮೈಕೋಬ್ಯಾಕ್ಟೀರಿಯಂ ಟ್ಯೂಬರ್ಕ್ಯುಲೋಸಿಸ್ ಒಂದು ರೋಗಕಾರಕ ಜೀವಿ ಅಥವಾ ಪ್ಯಾಥೋಜೆನ್ ಆಗಿದೆ. ಯಾಕೆಂದರೆ ಅದು ದೇಹದೊಳಗೆ ಬಂದು ರೋಗವನ್ನು ಸೃಷ್ಟಿಸುತ್ತಿದೆ.",
+  "script_display": "ಒಂದು ಸ್ಪಷ್ಟ ಉದಾಹರಣೆ ನೋಡೋಣ. ಉದಾಹರಣೆಗೆ, ಕ್ಷಯ ರೋಗ (Tuberculosis). ಈ ರೋಗಕ್ಕೆ ಕಾರಣ *Mycobacterium tuberculosis* ಎಂಬ ಬ್ಯಾಕ್ಟೀರಿಯಾ. ಈ ಬ್ಯಾಕ್ಟೀರಿಯಾವು ಗಾಳಿಯ ಮೂಲಕ ನಮ್ಮ ಶ್ವಾಸಕೋಶವನ್ನು ಪ್ರವೇಶಿಸುತ್ತದೆ. ಅಲ್ಲಿ ಅದು ಬೆಳೆದು, ಶ್ವಾಸಕೋಶದ ಅಂಗಾಂಶಗಳನ್ನು ಹಾನಿಗೊಳಿಸಿ ರೋಗವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಇದರಿಂದ ಕೆಮ್ಮು, ಜ್ವರದಂತಹ ಲಕ್ಷಣಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಆದ್ದರಿಂದ, *Mycobacterium tuberculosis* ಒಂದು ರೋಗಕಾರಕ ಜೀವಿ (Pathogen) ಆಗಿದೆ. ಯಾಕೆಂದರೆ ಅದು ದೇಹದೊಳಗೆ ಬಂದು ರೋಗವನ್ನು ಸೃಷ್ಟಿಸುತ್ತಿದೆ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: ಕ್ಷಯ ರೋಗ (Tuberculosis).",
+    "ಕಾರಣ: *Mycobacterium tuberculosis* ಎಂಬ ಬ್ಯಾಕ್ಟೀರಿಯಾ.",
+    "ಇದು ಶ್ವಾಸಕೋಶವನ್ನು ಪ್ರವೇಶಿಸಿ, ಅಂಗಾಂಶಗಳನ್ನು ಹಾನಿಗೊಳಿಸಿ ರೋಗವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+    "ಆದ್ದರಿಂದ, *M. tuberculosis* ಒಂದು ರೋಗಕಾರಕ ಜೀವಿ (Pathogen)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simplified diagram showing Mycobacterium tuberculosis bacteria entering the human lungs through inhalation and causing an infection in the alveoli. The bacteria should be depicted as small rod-shaped organisms.",
+    "labels": "Bacteria, Lungs, Alveoli, Infection site",
+    "scientific_significance": "Visually represents the mechanism of a pathogenic infection, making the concept of a pathogen more concrete and easier to understand.",
+    "placeholder_note": "Image to be generated showing bacteria entering lungs."
+  },
+  "chunk_id": "std_8_chapter_2_concept_5_chunk_004"
+}

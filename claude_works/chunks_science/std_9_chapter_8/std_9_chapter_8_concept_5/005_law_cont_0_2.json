@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಗಣಿತೀಯ ರೂಪ",
+  "script": "ಈ ನಿಯಮವನ್ನು ಗಣಿತೀಯವಾಗಿ F A B ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ F B A ಎಂದು ಬರೆಯಬಹುದು. ಇಲ್ಲಿ, F A B ಎಂದರೆ 'A' ವಸ್ತುವು 'B' ವಸ್ತುವಿನ ಮೇಲೆ ಪ್ರಯೋಗಿಸುವ ಬಲ. ಇದನ್ನು ನಾವು 'ಕ್ರಿಯೆ' ಎಂದು ಕರೆಯಬಹುದು. ಹಾಗೆಯೇ, F B A ಎಂದರೆ 'B' ವಸ್ತುವು 'A' ವಸ್ತುವಿನ ಮೇಲೆ ಪ್ರಯೋಗಿಸುವ ಬಲ. ಇದು 'ಪ್ರತಿಕ್ರಿಯೆ' ಆಗಿದೆ. ಋಣಾತ್ಮಕ ಚಿಹ್ನೆ, ಅಂದರೆ ಮೈನಸ್ ಸೈನ್, ಈ ಎರಡೂ ಬಲಗಳು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿವೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಬಲಗಳ ಪ್ರಮಾಣವು ಸಮನಾಗಿರುತ್ತದೆ, ಆದರೆ ಅವುಗಳ ದಿಕ್ಕುಗಳು ಪರಸ್ಪರ ವಿರುದ್ಧವಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಈ ನಿಯಮವನ್ನು ಗಣಿತೀಯವಾಗಿ $F_{AB} = -F_{BA}$ ಎಂದು ಬರೆಯಬಹುದು.",
+  "display_bullets": [
+    "$F_{AB}$ = 'A' ವಸ್ತುವು 'B' ವಸ್ತುವಿನ ಮೇಲೆ ಪ್ರಯೋಗಿಸುವ ಬಲ (ಕ್ರಿಯೆ - Action).",
+    "$F_{BA}$ = 'B' ವಸ್ತುವು 'A' ವಸ್ತುವಿನ ಮೇಲೆ ಪ್ರಯೋಗಿಸುವ ಬಲ (ಪ್ರತಿಕ್ರಿಯೆ - Reaction).",
+    "ಋಣಾತ್ಮಕ ಚಿಹ್ನೆಯು (-) ಬಲಗಳು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿವೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "physics_dark_blue",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "F_{AB} = -F_{BA}",
+    "placeholder_note": "Formula showing action-reaction force equality and opposition."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_9_chapter_8_concept_5_chunk_005"
+}

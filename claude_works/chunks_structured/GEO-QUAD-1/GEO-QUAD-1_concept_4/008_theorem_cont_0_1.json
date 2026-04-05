@@ -1,0 +1,44 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಗುಣ 1: ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮ",
+  "script": "ಮೊದಲನೇ ಗುಣವನ್ನು ಸಾಧಿಸೋಣ: ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಇದನ್ನು ಸಾಧಿಸಲು, ನಾವು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ಎ ಬಿ ಸಿ ಡಿ ಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಈಗ, ಎ ಮತ್ತು ಸಿ ಶೃಂಗಗಳನ್ನು ಸೇರಿಸಿ ಎಸಿ ಕರ್ಣವನ್ನು ಎಳೆಯಿರಿ. ಈ ಕರ್ಣವು ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ಎರಡು ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಅವು ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ಮತ್ತು ತ್ರಿಭುಜ ಸಿ ಡಿ ಎ. ನಮ್ಮ ಮುಂದಿನ ಹಂತ ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಹೋಲಿಸುವುದು.",
+  "script_display": "ಮೊದಲನೇ ಗುಣವನ್ನು ಸಾಧಿಸೋಣ: ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮವಾಗಿರುತ್ತವೆ. ಇದನ್ನು ಸಾಧಿಸಲು, ನಾವು ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCD ಯನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಈಗ, A ಮತ್ತು C ಶೃಂಗಗಳನ್ನು ಸೇರಿಸಿ AC ಕರ್ಣವನ್ನು ಎಳೆಯಿರಿ. ಈ ಕರ್ಣವು ಸಮಾಂತರ ಚತುರ್ಭುಜವನ್ನು ಎರಡು ತ್ರಿಭುಜಗಳಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ಅವು ΔABC ಮತ್ತು ΔCDA. ನಮ್ಮ ಮುಂದಿನ ಹಂತ ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಹೋಲಿಸುವುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "light_on_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A parallelogram ABCD with the diagonal AC drawn. The two triangles, ΔABC and ΔCDA, are lightly shaded in different colors to distinguish them.",
+    "labels": "A, B, C, D, ΔABC, ΔCDA",
+    "mathematical_significance": "Illustrates the construction used in the proof: dividing the parallelogram into two triangles with a diagonal.",
+    "placeholder_note": "Image to be generated"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸಮಾಂತರ ಚತುರ್ಭುಜ ABCD ಯನ್ನು ಪರಿಗಣಿಸಿ.",
+      "justification": "ಪ್ರಮೇಯದ ಸಾಧನೆಗೆ ಆರಂಭಿಕ ಆಕೃತಿ."
+    },
+    {
+      "step": 2,
+      "action_display": "AC ಕರ್ಣವನ್ನು ಎಳೆಯಿರಿ. ಇದು ΔABC ಮತ್ತು ΔCDA ಎಂಬ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ರೂಪಿಸುತ್ತದೆ.",
+      "justification": "ಸರ್ವಸಮತೆಯನ್ನು ಸಾಧಿಸಲು ತ್ರಿಭುಜಗಳನ್ನು ರಚಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "GEO-QUAD-1_concept_4_chunk_008"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ನೈಜ ಉದಾಹರಣೆ: ಬೇಲಾಳ ಮೋಜಿನ ಕಟ್ಟಡ",
+  "script": "ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸರಳವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಮ್ಮ 'ಬೇಲಾಳ ಮೋಜಿನ ಕಟ್ಟಡ'ದ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಕಟ್ಟಡದ ನೆಲ ಮಹಡಿಯನ್ನು, ಅಂದರೆ ಸ್ವಾಗತ ಸಭಾಂಗಣವನ್ನು ನಾವು ಸೊನ್ನೆ ಎಂದು ಭಾವಿಸೋಣ. ನಾವು ಲಿಫ್ಟ್ ಬಳಸಿ ಮೇಲಿನ ಮಹಡಿಗಳಿಗೆ, ಅಂದರೆ ಕಲಾ ಕೇಂದ್ರ ಅಥವಾ ಪುಸ್ತಕಗಳ ಅಂಗಡಿಗೆ ಹೋದರೆ, ಆ ಮಹಡಿಗಳನ್ನು ಪ್ಲಸ್ ಎರಡು, ಪ್ಲಸ್ ಮೂರು ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಇವು ಧನ ಪೂರ್ಣಾಂಕಗಳು. ಅದೇ ನಾವು ಕೆಳಗಿನ ಮಹಡಿಗಳಿಗೆ, ಅಂದರೆ ಆಟಿಕೆಗಳ ಅಂಗಡಿ ಅಥವಾ ಸಿನಿಮಾ ಮಂದಿರಕ್ಕೆ ಹೋದರೆ, ಅವುಗಳನ್ನು ಮೈನಸ್ ಒಂದು, ಮೈನಸ್ ಮೂರು ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಇವೇ ಋಣ ಪೂರ್ಣಾಂಕಗಳು. ಇಲ್ಲಿ ಮೈನಸ್ ಚಿಹ್ನೆಯು ನಾವು ನೆಲಮಟ್ಟಕ್ಕಿಂತ ಕೆಳಗೆ ಇದ್ದೇವೆ ಎಂದು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಈ ಪರಿಕಲ್ಪನೆಯನ್ನು ಇನ್ನಷ್ಟು ಸರಳವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಮ್ಮ 'ಬೇಲಾಳ ಮೋಜಿನ ಕಟ್ಟಡ'ದ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಕಟ್ಟಡದ ನೆಲ ಮಹಡಿಯನ್ನು, ಅಂದರೆ ಸ್ವಾಗತ ಸಭಾಂಗಣವನ್ನು ನಾವು 0 ಎಂದು ಭಾವಿಸೋಣ. ನಾವು ಲಿಫ್ಟ್ ಬಳಸಿ ಮೇಲಿನ ಮಹಡಿಗಳಿಗೆ, ಅಂದರೆ ಕಲಾ ಕೇಂದ್ರ ($+2$) ಅಥವಾ ಪುಸ್ತಕಗಳ ಅಂಗಡಿಗೆ ($+3$) ಹೋದರೆ, ಆ ಮಹಡಿಗಳನ್ನು $+2, +3$ ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಇವು ಧನ ಪೂರ್ಣಾಂಕಗಳು. ಅದೇ ನಾವು ಕೆಳಗಿನ ಮಹಡಿಗಳಿಗೆ, ಅಂದರೆ ಆಟಿಕೆಗಳ ಅಂಗಡಿ ($-1$) ಅಥವಾ ಸಿನಿಮಾ ಮಂದಿರಕ್ಕೆ ($-3$) ಹೋದರೆ, ಅವುಗಳನ್ನು $-1, -3$ ಎಂದು ಗುರುತಿಸುತ್ತೇವೆ. ಇವೇ ಋಣ ಪೂರ್ಣಾಂಕಗಳು. ಇಲ್ಲಿ '−' ಚಿಹ್ನೆಯು ನಾವು ನೆಲಮಟ್ಟಕ್ಕಿಂತ ಕೆಳಗೆ ಇದ್ದೇವೆ ಎಂದು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ನೆಲ ಮಹಡಿ (ಸ್ವಾಗತ ಸಭಾಂಗಣ) = 0",
+    "ಮೇಲಿನ ಮಹಡಿಗಳು (ಕಲಾ ಕೇಂದ್ರ, ಪುಸ್ತಕಗಳು) = +2, +3 (ಧನ ಪೂರ್ಣಾಂಕಗಳು)",
+    "ಕೆಳಗಿನ ಮಹಡಿಗಳು (ಆಟಿಕೆಗಳು, ಸಿನಿಮಾ) = -1, -3 (ಋಣ ಪೂರ್ಣಾಂಕಗಳು)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The 'Belala Fun Building' visual from the module context. A cross-section of a multi-story building. Ground floor is labeled '0 ಸ್ವಾಗತ ಸಭಾಂಗಣ'. Floors above are +1, +2, etc. Floors below are -1, -2, etc. The labels for specific floors like 'ಆಟಿಕೆಗಳು (-1)' and 'ಸಿನಿಮಾ (-3)' should be clearly visible.",
+    "labels": "ಮೇಲಿನ ಮಹಡಿಗಳು, ನೆಲ ಮಹಡಿ, ಕೆಳಗಿನ ಮಹಡಿಗಳು, +1, +2, -1, -2",
+    "mathematical_significance": "Provides a concrete, real-world analogy for positive, negative, and zero integers, where direction (up/down) maps to sign (+/-).",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "NS-INT-1_concept_1_chunk_013"
+}

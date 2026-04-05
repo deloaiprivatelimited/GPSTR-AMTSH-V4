@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ಸರಿದೂಗಿಸುವುದು",
+  "script": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಕಬ್ಬಿಣವು ಹಬೆಯೊಂದಿಗೆ ವರ್ತಿಸಿ ಫೆರಿಕ್ ಆಕ್ಸೈಡ್ ಮತ್ತು ಹೈಡ್ರೋಜನ್ ನೀಡುವ ಕ್ರಿಯೆಯ ಸಮೀಕರಣವನ್ನು ನಾವು ಸರಿದೂಗಿಸಬೇಕು. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಕಚ್ಚಾ ಸಮೀಕರಣ ಎಫ್ ಇ ಪ್ಲಸ್ ಎಚ್ ಟು ಓ ಗಿವ್ಸ್ ಎಫ್ ಇ ಥ್ರೀ ಓ ಫೋರ್ ಪ್ಲಸ್ ಎಚ್ ಟು. ನಮ್ಮ ಗುರಿ, ಈ ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳಲ್ಲಿರುವ ಪ್ರತಿ ಧಾತುವಿನ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಸಮನಾಗಿಸುವುದು.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಕಬ್ಬಿಣವು ಹಬೆಯೊಂದಿಗೆ ವರ್ತಿಸಿ ಫೆರಿಕ್ ಆಕ್ಸೈಡ್ ಮತ್ತು ಹೈಡ್ರೋಜನ್ ನೀಡುವ ಕ್ರಿಯೆಯ ಸಮೀಕರಣವನ್ನು ನಾವು ಸರಿದೂಗಿಸಬೇಕು. ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಕಚ್ಚಾ ಸಮೀಕರಣ: Fe + H₂O → Fe₃O₄ + H₂. ನಮ್ಮ ಗುರಿ, ಈ ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳಲ್ಲಿರುವ ಪ್ರತಿ ಧಾತುವಿನ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಸಮನಾಗಿಸುವುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಕಬ್ಬಿಣ ಮತ್ತು ಹಬೆಯ ನಡುವಿನ ಕ್ರಿಯೆಯ ಸಮೀಕರಣವನ್ನು ಸರಿದೂಗಿಸಿ.",
+    "ಕಚ್ಚಾ ಸಮೀಕರಣ: Fe + H₂O → Fe₃O₄ + H₂",
+    "ಗುರಿ: ಪ್ರತಿವರ್ತಕ ಮತ್ತು ಉತ್ಪನ್ನಗಳ ಬದಿಯಲ್ಲಿ ಪರಮಾಣುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಸಮಗೊಳಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Fe + H_2O \\rightarrow Fe_3O_4 + H_2",
+    "placeholder_note": "Unbalanced chemical equation for the reaction of iron with steam."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_1_example_1",
+  "chunk_id": "std_10_chapter_1_concept_2_chunk_020"
+}

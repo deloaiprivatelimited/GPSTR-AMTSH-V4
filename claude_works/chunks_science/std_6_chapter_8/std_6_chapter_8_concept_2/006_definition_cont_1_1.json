@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಆವೀಕರಣ: ಒಂದು ದೃಶ್ಯ ಉದಾಹರಣೆ",
+  "script": "ಆವೀಕರಣ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಮಳೆ ಬಂದು ನಿಂತ ನಂತರ, ರಸ್ತೆಯ ಮೇಲೆ ಅಥವಾ ಆಟದ ಮೈದಾನದಲ್ಲಿ ನೀರು ನಿಂತಿರುವುದನ್ನು ನೀವು ನೋಡಿರುತ್ತೀರಿ. ಕೆಲವು ಗಂಟೆಗಳ ನಂತರ, ಆ ನೀರು ಎಲ್ಲಿಗೆ ಹೋಯಿತು? ಅದು ಮಾಯವಾಗುತ್ತದೆ. ಇದಕ್ಕೆ ಕಾರಣ ಆವೀಕರಣ. ಸೂರ್ಯನ ಶಾಖವು ನೀರಿನ ಮೇಲ್ಮೈಗೆ ತಾಗಿದಾಗ, ನೀರಿನ ಕಣಗಳು ಶಕ್ತಿಯನ್ನು ಪಡೆದು ನೀರಾವಿಯಾಗಿ ಬದಲಾಗುತ್ತವೆ. ಈ ನೀರಾವಿ ನಂತರ ಗಾಳಿಯಲ್ಲಿ ಸೇರಿಕೊಳ್ಳುತ್ತದೆ. ಹೀಗೆ ನೆಲದ ಮೇಲಿನ ನೀರು ನಿಧಾನವಾಗಿ ಆವಿಯಾಗಿ ಹೋಗುತ್ತದೆ.",
+  "script_display": "ಆವೀಕರಣ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಮಳೆ ಬಂದು ನಿಂತ ನಂತರ, ರಸ್ತೆಯ ಮೇಲೆ ಅಥವಾ ಆಟದ ಮೈದಾನದಲ್ಲಿ ನೀರು ನಿಂತಿರುವುದನ್ನು ನೀವು ನೋಡಿರುತ್ತೀರಿ. ಕೆಲವು ಗಂಟೆಗಳ ನಂತರ, ಆ ನೀರು ಎಲ್ಲಿಗೆ ಹೋಯಿತು? ಅದು ಮಾಯವಾಗುತ್ತದೆ. ಇದಕ್ಕೆ ಕಾರಣ ಆವೀಕರಣ. ಸೂರ್ಯನ ಶಾಖವು ನೀರಿನ ಮೇಲ್ಮೈಗೆ ತಾಗಿದಾಗ, ನೀರಿನ ಕಣಗಳು ಶಕ್ತಿಯನ್ನು ಪಡೆದು ನೀರಾವಿಯಾಗಿ (water vapour) ಬದಲಾಗುತ್ತವೆ. ಈ ನೀರಾವಿ ನಂತರ ಗಾಳಿಯಲ್ಲಿ ಸೇರಿಕೊಳ್ಳುತ್ತದೆ. ಹೀಗೆ ನೆಲದ ಮೇಲಿನ ನೀರು ನಿಧಾನವಾಗಿ ಆವಿಯಾಗಿ ಹೋಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮಳೆ ನಿಂತ ನಂತರ ರಸ್ತೆಯಲ್ಲಿರುವ ನೀರು ಮಾಯವಾಗುತ್ತದೆ.",
+    "ಸೂರ್ಯನ ಶಾಖವು ನೀರನ್ನು ನೀರಾವಿಯಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ.",
+    "ಈ ನೀರಾವಿ ಗಾಳಿಯಲ್ಲಿ ಸೇರಿಕೊಳ್ಳುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A puddle of water on the ground after rain. The sun is shining brightly. Wavy arrows are rising from the surface of the puddle, indicating evaporation. The arrows point up into the air.",
+    "labels": "ಸೂರ್ಯ, ನೀರು, ನೀರಾವಿ (ಆವಿಯಾಗಿ ಮೇಲೇರುತ್ತಿದೆ), ನೆಲ",
+    "scientific_significance": "Illustrates the process of evaporation in a natural, relatable setting. It shows that heat energy from the sun causes water (liquid) to change into water vapor (gas), which then dissipates into the atmosphere.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_8_concept_2_chunk_006"
+}

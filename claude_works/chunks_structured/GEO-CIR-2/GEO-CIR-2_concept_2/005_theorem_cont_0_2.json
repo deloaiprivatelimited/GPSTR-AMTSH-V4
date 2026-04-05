@@ -1,0 +1,37 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಪ್ರಮೇಯ 9.1: ಸಾಧನೆ (ಭಾಗ 2)",
+  "script": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು, ನಾವು ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಪರಿಗಣಿಸೋಣ: ತ್ರಿಭುಜ ಎಓಬಿ ಮತ್ತು ತ್ರಿಭುಜ ಸಿಓಡಿ. ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ನಾವು ತೋರಿಸಿದರೆ, ಅವುಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮನಾಗಿರುತ್ತವೆ ಎಂದು ಹೇಳಬಹುದು. ಮೊದಲಿಗೆ, ಈ ತ್ರಿಭುಜಗಳ ಬಾಹುಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡೋಣ. ಮೊದಲನೇ ಅಂಶ, ಓಎ ಮತ್ತು ಓಸಿ ಬಾಹುಗಳು ಸಮ. ಏಕೆಂದರೆ, ಇವೆರಡೂ ಒಂದೇ ವೃತ್ತದ ತ್ರಿಜ್ಯಗಳು. ಎರಡನೇ ಅಂಶ, ಓಬಿ ಮತ್ತು ಓಡಿ ಬಾಹುಗಳು ಕೂಡ ಸಮ. ಇದಕ್ಕೂ ಕಾರಣ ಅದೇ, ಇವೆರಡೂ ಒಂದೇ ವೃತ್ತದ ತ್ರಿಜ್ಯಗಳು. ಮೂರನೇ ಅಂಶ, ಎಬಿ ಮತ್ತು ಸಿಡಿ ಬಾಹುಗಳು ಸಮ. ಇದು ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲೇ ಕೊಡಲಾಗಿದೆ.",
+  "script_display": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು, ನಾವು ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಪರಿಗಣಿಸೋಣ: $\\triangle AOB$ ಮತ್ತು $\\triangle COD$. ಈ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ನಾವು ತೋರಿಸಿದರೆ, ಅವುಗಳ ಅನುರೂಪ ಕೋನಗಳು ಸಮನಾಗಿರುತ್ತವೆ ಎಂದು ಹೇಳಬಹುದು. ಮೊದಲಿಗೆ, ಈ ತ್ರಿಭುಜಗಳ ಬಾಹುಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡೋಣ. ಮೊದಲನೇ ಅಂಶ, $OA$ ಮತ್ತು $OC$ ಬಾಹುಗಳು ಸಮ. ಏಕೆಂದರೆ, ಇವೆರಡೂ ಒಂದೇ ವೃತ್ತದ ತ್ರಿಜ್ಯಗಳು. ಎರಡನೇ ಅಂಶ, $OB$ ಮತ್ತು $OD$ ಬಾಹುಗಳು ಕೂಡ ಸಮ. ಇದಕ್ಕೂ ಕಾರಣ ಅದೇ, ಇವೆರಡೂ ಒಂದೇ ವೃತ್ತದ ತ್ರಿಜ್ಯಗಳು. ಮೂರನೇ ಅಂಶ, $AB$ ಮತ್ತು $CD$ ಬಾಹುಗಳು ಸಮ. ಇದು ನಮಗೆ ದತ್ತಾಂಶದಲ್ಲೇ ಕೊಡಲಾಗಿದೆ.",
+  "display_bullets": [
+    "ಸಾಧನೆ: $\\triangle AOB$ ಮತ್ತು $\\triangle COD$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+    "1. $OA = OC$ (ಒಂದೇ ವೃತ್ತದ ತ್ರಿಜ್ಯಗಳು)",
+    "2. $OB = OD$ (ಒಂದೇ ವೃತ್ತದ ತ್ರಿಜ್ಯಗಳು)",
+    "3. $AB = CD$ (ದತ್ತ)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ತ್ರಿಭುಜ AOB ಮತ್ತು COD ಗಳನ್ನು ಹೋಲಿಸಲಾಗುತ್ತಿದೆ. OA ಮತ್ತು OC, OB ಮತ್ತು OD, ಹಾಗೂ AB ಮತ್ತು CD ಬಾಹುಗಳನ್ನು ಸಮ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "O, A, B, C, D",
+    "mathematical_significance": "ಬಾ.ಬಾ.ಬಾ ಸರ್ವಸಮತೆಯ ಸಿದ್ಧಾಂತವನ್ನು ಅನ್ವಯಿಸಲು ಬೇಕಾದ ಮೂರು ಸಮಾನ ಬಾಹುಗಳನ್ನು ಗುರುತಿಸುವುದು.",
+    "placeholder_note": "Image showing the two triangles AOB and COD. The corresponding equal sides should be marked with tick marks: OA and OC get one tick, OB and OD get two ticks, and AB and CD get three ticks."
+  },
+  "chunk_id": "GEO-CIR-2_concept_2_chunk_005"
+}

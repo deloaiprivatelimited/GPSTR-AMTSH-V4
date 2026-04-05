@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉಳುಮೆಗೆ ಬಳಸುವ ಉಪಕರಣಗಳು",
+  "script": "ಈಗ, ಉಳುಮೆ ಮಾಡಲು ಯಾವೆಲ್ಲಾ ಉಪಕರಣಗಳನ್ನು ಬಳಸುತ್ತಾರೆ ಎಂದು ತಿಳಿಯೋಣ. ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ, ರೈತರು ನೇಗಿಲು ಬಳಸುತ್ತಿದ್ದರು. ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಎತ್ತುಗಳು ಎಳೆಯುತ್ತವೆ. ಕಳೆಗಳನ್ನು ತೆಗೆಯಲು ಮತ್ತು ಮಣ್ಣನ್ನು ಸಡಿಲಗೊಳಿಸಲು ಎಡೆಕುಂಟೆ ಎಂಬ ಸರಳ ಉಪಕರಣವನ್ನು ಸಹ ಬಳಸುತ್ತಾರೆ. ಇಂದಿನ ಆಧುನಿಕ ಕೃಷಿಯಲ್ಲಿ, ಸಮಯ ಮತ್ತು ಶ್ರಮವನ್ನು ಉಳಿಸಲು ಟ್ರ್ಯಾಕ್ಟರ್‌ಗೆ ಜೋಡಿಸಿದ ಕಲ್ಟಿವೇಟರ್ ಅನ್ನು ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ಉಪಕರಣಗಳು ಮಣ್ಣನ್ನು ಹದಗೊಳಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+  "script_display": "ಈಗ, ಉಳುಮೆ ಮಾಡಲು ಯಾವೆಲ್ಲಾ ಉಪಕರಣಗಳನ್ನು ಬಳಸುತ್ತಾರೆ ಎಂದು ತಿಳಿಯೋಣ. ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ, ರೈತರು 'ನೇಗಿಲು' (Plough) ಬಳಸುತ್ತಿದ್ದರು. ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಎತ್ತುಗಳು ಎಳೆಯುತ್ತವೆ. ಕಳೆಗಳನ್ನು ತೆಗೆಯಲು ಮತ್ತು ಮಣ್ಣನ್ನು ಸಡಿಲಗೊಳಿಸಲು 'ಎಡೆಕುಂಟೆ' (Hoe) ಎಂಬ ಸರಳ ಉಪಕರಣವನ್ನು ಸಹ ಬಳಸುತ್ತಾರೆ. ಇಂದಿನ ಆಧುನಿಕ ಕೃಷಿಯಲ್ಲಿ, ಸಮಯ ಮತ್ತು ಶ್ರಮವನ್ನು ಉಳಿಸಲು ಟ್ರ್ಯಾಕ್ಟರ್‌ಗೆ ಜೋಡಿಸಿದ 'ಕಲ್ಟಿವೇಟರ್' (Cultivator) ಅನ್ನು ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ಉಪಕರಣಗಳು ಮಣ್ಣನ್ನು ಹದಗೊಳಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+  "display_bullets": [
+    "**ನೇಗಿಲು (Plough):** ಸಾಂಪ್ರದಾಯಿಕ ಉಪಕರಣ, ಎತ್ತುಗಳಿಂದ ಎಳೆಯಲಾಗುತ್ತದೆ.",
+    "**ಎಡೆಕುಂಟೆ (Hoe):** ಕಳೆ ತೆಗೆಯಲು ಮತ್ತು ಮಣ್ಣು ಸಡಿಲಗೊಳಿಸಲು ಬಳಸುವ ಸರಳ ಉಪಕರಣ.",
+    "**ಕಲ್ಟಿವೇಟರ್ (Cultivator):** ಟ್ರ್ಯಾಕ್ಟರ್‌ನಿಂದ ಚಲಿಸುವ ಆಧುನಿಕ ಉಪಕರಣ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing three tools used for ploughing. 1. A traditional wooden plough (ನೇಗಿಲು) being pulled by oxen. 2. A simple hand-held hoe (ಎಡೆಕುಂಟೆ). 3. A modern cultivator (ಕಲ್ಟಿವೇಟರ್) attached to a tractor.",
+    "labels": "ನೇಗಿಲು, ಎಡೆಕುಂಟೆ, ಕಲ್ಟಿವೇಟರ್",
+    "scientific_significance": "Shows the evolution of agricultural tools for soil tilling, from traditional manual methods to modern mechanized ones, all serving the same fundamental purpose.",
+    "placeholder_note": "Image to be generated showing a plough, a hoe, and a cultivator."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_1_concept_2_chunk_008"
+}

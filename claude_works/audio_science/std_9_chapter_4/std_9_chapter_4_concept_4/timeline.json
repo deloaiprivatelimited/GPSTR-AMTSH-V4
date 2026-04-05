@@ -1,0 +1,68 @@
+{
+  "module_id": "std_9_chapter_4_concept_4",
+  "chapter_code": "std_9_chapter_4",
+  "voice": "Sadachbia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 5,
+  "total_duration": 254.695,
+  "total_duration_formatted": "4:14",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_9_chapter_4_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಬೋರ್‌ರವರ ಪರಮಾಣು ಮಾದರಿ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 54.091,
+      "duration": 54.091,
+      "script_words": 81
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 54.691,
+      "end": 87.422,
+      "duration": 32.731,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_4_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಬೋರ್‌ರವರ ಮಾದರಿಯ ಸಮರ್ಥನೆಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "start": 88.022,
+      "end": 137.553,
+      "duration": 49.531,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_4_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಬೋರ್‌ರವರ ಮಾದರಿಯ ಸಮರ್ಥನೆಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "start": 138.153,
+      "end": 208.484,
+      "duration": 70.331,
+      "script_words": 88
+    },
+    {
+      "chunk_id": "std_9_chapter_4_concept_4_chunk_005",
+      "chunk_file": "005_recap_0.json",
+      "wav_file": "005_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 209.084,
+      "end": 254.095,
+      "duration": 45.011,
+      "script_words": 56
+    }
+  ]
+}

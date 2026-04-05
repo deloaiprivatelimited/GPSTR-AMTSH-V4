@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 3: ಬಹುಪದದ ಭಾಗಾಕಾರ",
+  "script": "ಈಗ ನಾವು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. z ಇಂಟು 5z ಸ್ಕ್ವೇರ್ ಮೈನಸ್ 80 ಅನ್ನು 5z ಇಂಟು z ಪ್ಲಸ್ 4 ರಿಂದ ಭಾಗಿಸಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ನಾವು ಮೊದಲು ಭಾಜ್ಯ ಮತ್ತು ಭಾಜಕವನ್ನು ಅವುಗಳ ಅಪವರ್ತನಗಳಾಗಿ ವಿಭಜಿಸಬೇಕು. ಇಲ್ಲಿ ಭಾಜ್ಯವು z ಇಂಟು 5z ಸ್ಕ್ವೇರ್ ಮೈನಸ್ 80 ಆಗಿದೆ. ಭಾಜಕವು 5z ಇಂಟು z ಪ್ಲಸ್ 4 ಆಗಿದೆ. ನಮ್ಮ ಮೊದಲ ಹಂತ ಭಾಜ್ಯವನ್ನು ಅಪವರ್ತಿಸುವುದು.",
+  "script_display": "ಈಗ ನಾವು ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $z(5z^2 - 80)$ ಅನ್ನು $5z(z+4)$ ರಿಂದ ಭಾಗಿಸಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ನಾವು ಮೊದಲು ಭಾಜ್ಯ ಮತ್ತು ಭಾಜಕವನ್ನು ಅವುಗಳ ಅಪವರ್ತನಗಳಾಗಿ ವಿಭಜಿಸಬೇಕು. ಇಲ್ಲಿ ಭಾಜ್ಯವು $z(5z^2 - 80)$ ಆಗಿದೆ. ಭಾಜಕವು $5z(z+4)$ ಆಗಿದೆ. ನಮ್ಮ ಮೊದಲ ಹಂತ ಭಾಜ್ಯವನ್ನು ಅಪವರ್ತಿಸುವುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $z(5z^2 - 80) \\div 5z(z+4)$",
+    "ಭಾಜ್ಯ (Dividend): $z(5z^2 - 80)$",
+    "ಭಾಜಕ (Divisor): $5z(z+4)$",
+    "ವಿಧಾನ: ಮೊದಲು ಭಾಜ್ಯವನ್ನು ಅಪವರ್ತಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "ALG-FAC-2_example_16",
+  "chunk_id": "ALG-FAC-2_concept_6_chunk_014"
+}

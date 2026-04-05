@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳ ಉದಾಹರಣೆಗಳು",
+  "script": "ಈಗ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಈ ಬದಲಾವಣೆಗಳಲ್ಲಿ ಹೊಸ ವಸ್ತುಗಳು ಉಂಟಾಗುತ್ತವೆ ಮತ್ತು ಇವು ಸಾಮಾನ್ಯವಾಗಿ ಶಾಶ್ವತವಾಗಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು. ಕಬ್ಬಿಣವು ಗಾಳಿಯಲ್ಲಿನ ಆಮ್ಲಜನಕ ಮತ್ತು ತೇವಾಂಶದೊಂದಿಗೆ ವರ್ತಿಸಿ ಕಂದು ಬಣ್ಣದ ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್ ಎಂಬ ಹೊಸ ವಸ್ತುವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಇದು ತುಕ್ಕು. ಮತ್ತೊಂದು ಉದಾಹರಣೆ, ಕಾಗದವನ್ನು ಸುಡುವುದು. ಕಾಗದವನ್ನು ಸುಟ್ಟಾಗ, ಅದು ಬೂದಿ, ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ನೀರಾವಿಯಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಸುಟ್ಟ ಬೂದಿಯಿಂದ ಮತ್ತೆ ಕಾಗದವನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+  "script_display": "ಈಗ ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಗಳ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಈ ಬದಲಾವಣೆಗಳಲ್ಲಿ ಹೊಸ ವಸ್ತುಗಳು ಉಂಟಾಗುತ್ತವೆ ಮತ್ತು ಇವು ಸಾಮಾನ್ಯವಾಗಿ ಶಾಶ್ವತವಾಗಿರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು. ಕಬ್ಬಿಣವು ಗಾಳಿಯಲ್ಲಿನ ಆಮ್ಲಜನಕ ಮತ್ತು ತೇವಾಂಶದೊಂದಿಗೆ ವರ್ತಿಸಿ ಕಂದು ಬಣ್ಣದ ಕಬ್ಬಿಣದ ಆಕ್ಸೈಡ್ ಎಂಬ ಹೊಸ ವಸ್ತುವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಇದು ತುಕ್ಕು. ಮತ್ತೊಂದು ಉದಾಹರಣೆ, ಕಾಗದವನ್ನು ಸುಡುವುದು. ಕಾಗದವನ್ನು ಸುಟ್ಟಾಗ, ಅದು ಬೂದಿ, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಮತ್ತು ನೀರಾವಿಯಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಸುಟ್ಟ ಬೂದಿಯಿಂದ ಮತ್ತೆ ಕಾಗದವನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+  "display_bullets": [
+    "ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು",
+    "ಕಾಗದವನ್ನು ಸುಡುವುದು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split image. On the left, a shiny, new iron chain. On the right, the same type of chain but covered in reddish-brown rust. An arrow points from the shiny chain to the rusty one, with text 'ಆಮ್ಲಜನಕ + ತೇವಾಂಶ' (Oxygen + Moisture) above the arrow.",
+    "labels": "ಹೊಸ ಕಬ್ಬಿಣ, ತುಕ್ಕು ಹಿಡಿದ ಕಬ್ಬಿಣ",
+    "scientific_significance": "Visually demonstrates a chemical change where a new substance (rust, or iron oxide) is formed with different properties (color, texture, strength) from the original substance (iron).",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_2_concept_8_chunk_010"
+}

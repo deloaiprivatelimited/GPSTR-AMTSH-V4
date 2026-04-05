@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವರ್ಣತಂತುಗಳು ಎಲ್ಲಿವೆ?",
+  "script": "ನಮ್ಮ ದೇಹವು ಕೋಟ್ಯಂತರ ಜೀವಕೋಶಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ. ಪ್ರತಿಯೊಂದು ಜೀವಕೋಶದ ಮಧ್ಯದಲ್ಲಿ ಕೋಶಕೇಂದ್ರ ಅಥವಾ ನ್ಯೂಕ್ಲಿಯಸ್ ಇರುತ್ತದೆ. ಈ ಕೋಶಕೇಂದ್ರದ ಒಳಗೆ, ದಾರದಂತಹ ಸೂಕ್ಷ್ಮ ರಚನೆಗಳಿವೆ. ಇವುಗಳನ್ನೇ ನಾವು ವರ್ಣತಂತುಗಳು ಅಥವಾ ಕ್ರೋಮೋಸೋಮ್‌ಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಮೊದಲನೆಯದಾಗಿ, ಇವು ಪ್ರತಿಯೊಂದು ಜೀವಕೋಶದ ಕೋಶಕೇಂದ್ರದಲ್ಲಿ ಇರುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಇವು ದಾರದಂತಹ ಸೂಕ್ಷ್ಮ ರಚನೆಗಳಾಗಿವೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ಒಂದು ಜೀವಕೋಶ, ಅದರೊಳಗಿನ ಕೋಶಕೇಂದ್ರ, ಮತ್ತು ಆ ಕೋಶಕೇಂದ್ರದೊಳಗೆ ಇರುವ ವರ್ಣತಂತುಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು.",
+  "script_display": "ನಮ್ಮ ದೇಹವು ಕೋಟ್ಯಂತರ ಜೀವಕೋಶಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ. ಪ್ರತಿಯೊಂದು ಜೀವಕೋಶದ ಮಧ್ಯದಲ್ಲಿ ಕೋಶಕೇಂದ್ರ (nucleus) ಇರುತ್ತದೆ. ಈ ಕೋಶಕೇಂದ್ರದ ಒಳಗೆ, ದಾರದಂತಹ ಸೂಕ್ಷ್ಮ ರಚನೆಗಳಿವೆ. ಇವುಗಳನ್ನೇ ನಾವು ವರ್ಣತಂತುಗಳು (chromosomes) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಮೊದಲನೆಯದಾಗಿ, ಇವು ಪ್ರತಿಯೊಂದು ಜೀವಕೋಶದ ಕೋಶಕೇಂದ್ರದಲ್ಲಿ ಇರುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಇವು ದಾರದಂತಹ ಸೂಕ್ಷ್ಮ ರಚನೆಗಳಾಗಿವೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ಒಂದು ಜೀವಕೋಶ, ಅದರೊಳಗಿನ ಕೋಶಕೇಂದ್ರ, ಮತ್ತು ಆ ಕೋಶಕೇಂದ್ರದೊಳಗೆ ಇರುವ ವರ್ಣತಂತುಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು.",
+  "display_bullets": [
+    "ಪ್ರತಿಯೊಂದು ಜೀವಕೋಶದ ಕೋಶಕೇಂದ್ರದಲ್ಲಿ (nucleus) ಇರುತ್ತವೆ.",
+    "ಇವು ದಾರದಂತಹ ಸೂಕ್ಷ್ಮ ರಚನೆಗಳಾಗಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simplified diagram showing the hierarchy: A human cell, with an arrow pointing to its nucleus. From the nucleus, an arrow points to a magnified view of chromosomes inside. This visually demonstrates the location of chromosomes within a cell.",
+    "labels": "ಜೀವಕೋಶ (Cell), ಕೋಶಕೇಂದ್ರ (Nucleus), ವರ್ಣತಂತು (Chromosome)",
+    "scientific_significance": "Illustrates the cellular location of genetic material, providing essential context before defining the structure and function of chromosomes.",
+    "placeholder_note": "Image to be generated: A clear, labeled diagram showing a cell, its nucleus, and the chromosomes within."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_science_ch_7_concept_6_chunk_003"
+}

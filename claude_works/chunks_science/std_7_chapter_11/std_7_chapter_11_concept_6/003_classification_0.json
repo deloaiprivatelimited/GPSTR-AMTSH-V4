@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪೀನ ಮಸೂರ (Convex Lens)",
+  "script": "ಮಸೂರಗಳಲ್ಲಿ ಮೊದಲ ವಿಧ ಪೀನ ಮಸೂರ. ನೀವು ಚಿತ್ರದಲ್ಲಿ ನೋಡುತ್ತಿರುವಂತೆ, ಇದು ಮಧ್ಯದಲ್ಲಿ ದಪ್ಪನಾಗಿದ್ದು, ಅಂಚುಗಳ ಕಡೆಗೆ ಹೋದಂತೆ ತೆಳುವಾಗಿರುತ್ತದೆ. ಇದರ ಪ್ರಮುಖ ಗುಣವೆಂದರೆ, ತನ್ನ ಮೂಲಕ ಹಾದುಹೋಗುವ ಬೆಳಕಿನ ಸಮಾಂತರ ಕಿರಣಗಳನ್ನು ಒಂದು ಬಿಂದುವಿನಲ್ಲಿ ಒಟ್ಟುಗೂಡಿಸುವುದು. ಈ ಗುಣದಿಂದಾಗಿ, ಇದನ್ನು ಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ನಾವು ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸುವ ವರ್ಧಕ ಕನ್ನಡಕ ಅಥವಾ ಮ್ಯಾಗ್ನಿಫೈಯಿಂಗ್ ಗ್ಲಾಸ್ ಪೀನ ಮಸೂರಕ್ಕೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ. ಇದು ವಸ್ತುಗಳ ದೊಡ್ಡದಾದ ಪ್ರತಿಬಿಂಬವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+  "script_display": "ಮಸೂರಗಳಲ್ಲಿ ಮೊದಲ ವಿಧ ಪೀನ ಮಸೂರ (Convex Lens). ನೀವು ಚಿತ್ರದಲ್ಲಿ ನೋಡುತ್ತಿರುವಂತೆ, ಇದು ಮಧ್ಯದಲ್ಲಿ ದಪ್ಪನಾಗಿದ್ದು, ಅಂಚುಗಳ ಕಡೆಗೆ ಹೋದಂತೆ ತೆಳುವಾಗಿರುತ್ತದೆ. ಇದರ ಪ್ರಮುಖ ಗುಣವೆಂದರೆ, ತನ್ನ ಮೂಲಕ ಹಾದುಹೋಗುವ ಬೆಳಕಿನ ಸಮಾಂತರ ಕಿರಣಗಳನ್ನು ಒಂದು ಬಿಂದುವಿನಲ್ಲಿ ಒಟ್ಟುಗೂಡಿಸುವುದು. ಈ ಗುಣದಿಂದಾಗಿ, ಇದನ್ನು **ಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ (Converging Lens)** ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ನಾವು ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸುವ ವರ್ಧಕ ಕನ್ನಡಕ (Magnifying glass) ಪೀನ ಮಸೂರಕ್ಕೆ ಒಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯಾಗಿದೆ. ಇದು ವಸ್ತುಗಳ ದೊಡ್ಡದಾದ ಪ್ರತಿಬಿಂಬವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಆಕಾರ: ಮಧ್ಯದಲ್ಲಿ ದಪ್ಪ, ಅಂಚುಗಳಲ್ಲಿ ತೆಳು.",
+    "ಬೆಳಕಿನ ಮೇಲೆ ಪರಿಣಾಮ: ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನು ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ (Converges).",
+    "ಇನ್ನೊಂದು ಹೆಸರು: ಕೇಂದ್ರೀಕರಿಸುವ ಮಸೂರ (Converging Lens).",
+    "ಉದಾಹರಣೆ: ವರ್ಧಕ ಮಸೂರ (Magnifying glass)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a convex lens. Parallel rays of light enter from the left, pass through the lens, and converge at a single focal point on the right. The lens is thicker in the middle and thinner at the edges.",
+    "labels": "ಪೀನ ಮಸೂರ, ಸಮಾಂತರ ಕಿರಣಗಳು, ಸಂಗಮ ಬಿಂದು (ಫೋಕಲ್ ಪಾಯಿಂಟ್)",
+    "scientific_significance": "Illustrates the converging property of a convex lens, which is fundamental to its function in devices like magnifying glasses and cameras.",
+    "placeholder_note": "Image to be generated showing light converging through a convex lens."
+  },
+  "chunk_id": "std_7_chapter_11_concept_6_chunk_003"
+}

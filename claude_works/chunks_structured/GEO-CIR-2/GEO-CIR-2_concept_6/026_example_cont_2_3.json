@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+  "script": "ಹಾಗಾದರೆ, ಅಂತಿಮ ಉತ್ತರ, ಸ್ಪರ್ಶಕ ಟಿ ಪಿ ಯ ಉದ್ದ ಇಪ್ಪತ್ತು ಬೈ ಮೂರು ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯಿಂದ ನಾವು ಕಲಿಯಬೇಕಾದ ಪ್ರಮುಖಾಂಶವೆಂದರೆ, ವೃತ್ತದ ಸ್ಪರ್ಶಕಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸಮಸ್ಯೆಗಳಲ್ಲಿ, ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಜೊತೆಗೆ ಸಮರೂಪ ತ್ರಿಭುಜಗಳನ್ನು ಗುರುತಿಸುವುದು ಒಂದು ಅತ್ಯಂತ ಪ್ರಬಲವಾದ ತಂತ್ರವಾಗಿದೆ. ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳನ್ನು ರಚಿಸಿದ ನಂತರ, ನೇರವಾಗಿ ಉತ್ತರ ಸಿಗದಿದ್ದಾಗ, ಸಮರೂಪ ತ್ರಿಭುಜಗಳಿಗಾಗಿ ಹುಡುಕುವುದು ಉತ್ತಮ.",
+  "script_display": "ಹಾಗಾದರೆ, ಅಂತಿಮ ಉತ್ತರ, ಸ್ಪರ್ಶಕ TP ಯ ಉದ್ದ $\\frac{20}{3}$ cm ಆಗಿದೆ. ಈ ಸಮಸ್ಯೆಯಿಂದ ನಾವು ಕಲಿಯಬೇಕಾದ ಪ್ರಮುಖಾಂಶವೆಂದರೆ, ವೃತ್ತದ ಸ್ಪರ್ಶಕಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸಮಸ್ಯೆಗಳಲ್ಲಿ, ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಜೊತೆಗೆ ಸಮರೂಪ ತ್ರಿಭುಜಗಳನ್ನು ಗುರುತಿಸುವುದು ಒಂದು ಅತ್ಯಂತ ಪ್ರಬಲವಾದ ತಂತ್ರವಾಗಿದೆ. ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳನ್ನು ರಚಿಸಿದ ನಂತರ, ನೇರವಾಗಿ ಉತ್ತರ ಸಿಗದಿದ್ದಾಗ, ಸಮರೂಪ ತ್ರಿಭುಜಗಳಿಗಾಗಿ ಹುಡುಕುವುದು ಉತ್ತಮ.",
+  "display_bullets": [
+    "ಸ್ಪರ್ಶಕ TP ಯ ಉದ್ದ $\\frac{20}{3}$ cm ಆಗಿದೆ.",
+    "ಪ್ರಮುಖಾಂಶ: ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಜೊತೆಗೆ, ಸ್ಪರ್ಶಕಗಳ ಸಮಸ್ಯೆಗಳಲ್ಲಿ ಸಮರೂಪ ತ್ರಿಭುಜಗಳನ್ನು ಗುರುತಿಸುವುದು ಒಂದು ಪ್ರಬಲ ತಂತ್ರವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "TP = \\frac{20}{3} \\text{ cm}",
+    "placeholder_note": "Final answer displayed in a box"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "advanced",
+  "source_example_id": "GEO-CIR-2_example_6",
+  "final_answer": "TP = 20/3 cm",
+  "final_answer_display": "$TP = \\frac{20}{3}$ cm",
+  "chunk_id": "GEO-CIR-2_concept_6_chunk_026"
+}

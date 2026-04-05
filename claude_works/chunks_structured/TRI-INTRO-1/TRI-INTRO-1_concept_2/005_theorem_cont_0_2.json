@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿಷ್ಪತ್ತಿ: ಬಾಹುಗಳ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ, ಸಮನಾದ ಬಾಹುಗಳಿಗೆ ಒಂದು ಉದ್ದವನ್ನು ನೀಡೋಣ. ಎ ಬಿ ಮತ್ತು ಬಿ ಸಿ ಬಾಹುಗಳ ಉದ್ದವು 'ಎ' ಆಗಿರಲಿ. ಈಗ ನಮ್ಮ ಬಳಿ ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಎರಡು ಬಾಹುಗಳ ಅಳತೆ ಇದೆ. ಮೂರನೇ ಬಾಹುವಾದ ವಿಕರ್ಣ ಎ ಸಿ ಯನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಬಳಸುತ್ತೇವೆ. ಪ್ರಮೇಯದ ಪ್ರಕಾರ, ಎ ಸಿ ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ ಎ ಬಿ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಬಿ ಸಿ ಸ್ಕ್ವೇರ್ಡ್. 'ಎ' ಮೌಲ್ಯವನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ ಎ ಸಿ ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ ಎ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಎ ಸ್ಕ್ವೇರ್ಡ್ ಸಿಗುತ್ತದೆ, ಇದು ಎರಡು ಎ ಸ್ಕ್ವೇರ್ಡ್ ಗೆ ಸಮ. ಎ ಸಿ ಯನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ವರ್ಗಮೂಲವನ್ನು ತೆಗೆದುಕೊಂಡಾಗ, ಎ ಸಿ ಈಕ್ವಲ್ಸ್ ಎ ರೂಟ್ ಎರಡು ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ, ಸಮನಾದ ಬಾಹುಗಳಿಗೆ ಒಂದು ಉದ್ದವನ್ನು ನೀಡೋಣ. $AB$ ಮತ್ತು $BC$ ಬಾಹುಗಳ ಉದ್ದವು '$a$' ಆಗಿರಲಿ. ಈಗ ನಮ್ಮ ಬಳಿ ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಎರಡು ಬಾಹುಗಳ ಅಳತೆ ಇದೆ. ಮೂರನೇ ಬಾಹುವಾದ ವಿಕರ್ಣ $AC$ ಯನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಬಳಸುತ್ತೇವೆ. ಪ್ರಮೇಯದ ಪ್ರಕಾರ, $AC^2 = AB^2 + BC^2$. '$a$' ಮೌಲ್ಯವನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ $AC^2 = a^2 + a^2$ ಸಿಗುತ್ತದೆ, ಇದು $2a^2$ ಗೆ ಸಮ. $AC$ ಯನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು ವರ್ಗಮೂಲವನ್ನು ತೆಗೆದುಕೊಂಡಾಗ, $AC = a\\sqrt{2}$ ಎಂದು ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಮಬಾಹುಗಳ ಉದ್ದ $AB = BC = a$ ಆಗಿರಲಿ.",
+    "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ: $AC^2 = AB^2 + BC^2$.",
+    "ಆದೇಶಿಸಿದಾಗ: $AC^2 = a^2 + a^2 = 2a^2$.",
+    "ಆದ್ದರಿಂದ, ವಿಕರ್ಣ $AC = a\\sqrt{2}$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same isosceles right-angled triangle as the previous slide, but now with side lengths labeled. AB is 'a', BC is 'a', and the hypotenuse AC is 'a√2'.",
+    "labels": "A, B, C, a, a√2",
+    "mathematical_significance": "Visual representation of the side lengths calculated using the Pythagorean theorem, which are necessary for finding the ratios.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "TRI-INTRO-1_concept_2_chunk_005"
+}

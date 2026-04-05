@@ -1,0 +1,41 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪತಂಗದ ಗುಣಲಕ್ಷಣಗಳು: ಕೋನಗಳು",
+  "script": "ಪತಂಗದ ಕೋನಗಳ ಬಗ್ಗೆ ಒಂದು ವಿಶೇಷ ಗುಣವಿದೆ. ಇದರಲ್ಲಿ ಒಂದು ಜೊತೆ ಅಭಿಮುಖ ಕೋನಗಳು ಮಾತ್ರ ಸಮನಾಗಿರುತ್ತವೆ. ಅದು ಯಾವ ಜೊತೆ ಎಂದರೆ, ಸಮನಾಗಿಲ್ಲದ ಬಾಹುಗಳ ನಡುವೆ ರೂಪುಗೊಳ್ಳುವ ಕೋನಗಳು. ನಮ್ಮ ಚಿತ್ರದಲ್ಲಿ, ಎಬಿ ಮತ್ತು ಬಿಸಿ ಸಮನಾಗಿಲ್ಲ, ಹಾಗೆಯೇ ಎಡಿ ಮತ್ತು ಡಿಸಿ ಸಮನಾಗಿಲ್ಲ. ಈ ಬಾಹುಗಳ ನಡುವಿನ ಕೋನಗಳಾದ ಕೋನ ಬಿ ಮತ್ತು ಕೋನ ಡಿ ಸಮವಾಗಿರುತ್ತವೆ. ಆದರೆ ಸಮನಾದ ಬಾಹುಗಳ ನಡುವಿನ ಕೋನಗಳಾದ ಕೋನ ಎ ಮತ್ತು ಕೋನ ಸಿ ಸಮವಾಗಿರುವುದಿಲ್ಲ. ಪರೀಕ್ಷೆಯಲ್ಲಿ, ಪತಂಗದ ಯಾವ ಕೋನಗಳು ಸಮ ಎಂದು ಕೇಳಬಹುದು, ಆದ್ದರಿಂದ ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಮುಖ್ಯ.",
+  "script_display": "ಪತಂಗದ ಕೋನಗಳ ಬಗ್ಗೆ ಒಂದು ವಿಶೇಷ ಗುಣವಿದೆ. ಇದರಲ್ಲಿ ಒಂದು ಜೊತೆ ಅಭಿಮುಖ ಕೋನಗಳು ಮಾತ್ರ ಸಮನಾಗಿರುತ್ತವೆ. ಅದು ಯಾವ ಜೊತೆ ಎಂದರೆ, ಸಮನಾಗಿಲ್ಲದ ಬಾಹುಗಳ ($unequal$ $sides$) ನಡುವೆ ರೂಪುಗೊಳ್ಳುವ ಕೋನಗಳು. ನಮ್ಮ ಚಿತ್ರದಲ್ಲಿ, $AB$ ಮತ್ತು $BC$ ಸಮನಾಗಿಲ್ಲ, ಹಾಗೆಯೇ $AD$ ಮತ್ತು $DC$ ಸಮನಾಗಿಲ್ಲ. ಈ ಬಾಹುಗಳ ನಡುವಿನ ಕೋನಗಳಾದ $\\angle B$ ಮತ್ತು $\\angle D$ ಸಮವಾಗಿರುತ್ತವೆ. ಆದರೆ ಸಮನಾದ ಬಾಹುಗಳ ನಡುವಿನ ಕೋನಗಳಾದ $\\angle A$ ಮತ್ತು $\\angle C$ ಸಮವಾಗಿರುವುದಿಲ್ಲ. ಪರೀಕ್ಷೆಯಲ್ಲಿ, ಪತಂಗದ ಯಾವ ಕೋನಗಳು ಸಮ ಎಂದು ಕೇಳಬಹುದು, ಆದ್ದರಿಂದ ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಒಂದು ಜೊತೆ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ.",
+    "ಸಮನಾಗಿಲ್ಲದ ಬಾಹುಗಳ ನಡುವಿನ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ (ಉದಾ: $\\angle B = \\angle D$)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_right_text_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A kite ABCD where AB=AD and CB=CD. The angles ∠B and ∠D are highlighted with the same color or an arc symbol to indicate they are equal. A label '∠B = ∠D' is present. Angles ∠A and ∠C are shown without any special marking to imply they are unequal.",
+    "labels": "ಪತಂಗ, ಅಭಿಮುಖ ಕೋನಗಳು, ಸಮ ಕೋನಗಳು",
+    "mathematical_significance": "Clarifies which specific pair of opposite angles in a kite are equal, which is a common point of confusion for students.",
+    "placeholder_note": "Image to be generated for kite angle property."
+  },
+  "exam_tip": {
+    "question_pattern": "MCQ/2-mark",
+    "skill_tested": "ಪತಂಗದ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಗುರುತಿಸುವುದು.",
+    "distractor": "ಪತಂಗದ ಎರಡೂ ಜೊತೆ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮ ಎಂದು ಭಾವಿಸುವುದು.",
+    "why_distractor_works": "ವಿದ್ಯಾರ್ಥಿಗಳು ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಗುಣವನ್ನು (ಅಭಿಮುಖ ಕೋನಗಳು ಸಮ) ಪತಂಗಕ್ಕೂ ಅನ್ವಯಿಸುವ ತಪ್ಪನ್ನು ಮಾಡಬಹುದು."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_3_chunk_016"
+}

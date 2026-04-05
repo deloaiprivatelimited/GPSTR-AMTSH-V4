@@ -1,0 +1,48 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರೀಕ್ಷಾ ಉದಾಹರಣೆ: ನೈಟ್ರಿಕ್ ಆಮ್ಲ (HNO₃)",
+  "script": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಕೇಳಬಹುದಾದ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ: ನೈಟ್ರಿಕ್ ಆಮ್ಲ, ಅಂದರೆ H N O three. ಮೊದಲನೇ ಹಂತ, ಸೂತ್ರದಲ್ಲಿರುವ ಪರಮಾಣುಗಳನ್ನು ಮತ್ತು ಅವುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಗುರುತಿಸುವುದು. ಇಲ್ಲಿ ಒಂದು ಹೈಡ್ರೋಜನ್, ಒಂದು ನೈಟ್ರೋಜನ್, ಮತ್ತು ಮೂರು ಆಕ್ಸಿಜನ್ ಪರಮಾಣುಗಳಿವೆ. ಎರಡನೇ ಹಂತ, ಅವುಗಳ ಪರಮಾಣು ರಾಶಿಗಳನ್ನು ಹಾಕುವುದು. ಹೈಡ್ರೋಜನ್‌ಗೆ ಒಂದು, ನೈಟ್ರೋಜನ್‌ಗೆ ಹದಿನಾಲ್ಕು, ಮತ್ತು ಆಕ್ಸಿಜನ್‌ಗೆ ಹದಿನಾರು. ಮೂರನೇ ಹಂತ, ಇವುಗಳನ್ನು ಕೂಡಿಸುವುದು. ಒಂದು ಪ್ಲಸ್ ಹದಿನಾಲ್ಕು ಪ್ಲಸ್ ಮೂರು ಇಂಟು ಹದಿನಾರು. ಅಂದರೆ, ಒಂದು ಪ್ಲಸ್ ಹದಿನಾಲ್ಕು ಪ್ಲಸ್ ನಲವತ್ತೆಂಟು. ಅಂತಿಮವಾಗಿ, ಇವುಗಳ ಒಟ್ಟು ಮೊತ್ತ ಅರವತ್ಮೂರು ಯು. ಆದ್ದರಿಂದ, ನೈಟ್ರಿಕ್ ಆಮ್ಲದ ಅಣುರಾಶಿ ಅರವತ್ಮೂರು ಯು.",
+  "script_display": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಕೇಳಬಹುದಾದ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ: ನೈಟ್ರಿಕ್ ಆಮ್ಲ (HNO₃).",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "worked_example",
+  "difficulty": "medium",
+  "source_example_id": "std_9_chapter_3_concept_8_def_1_slide_3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಪರಮಾಣುಗಳನ್ನು ಗುರುತಿಸಿ: 1 × H, 1 × N, 3 × O",
+      "justification": "HNO₃ ಸೂತ್ರದಲ್ಲಿ ಒಂದು H, ಒಂದು N, ಮತ್ತು ಮೂರು O ಪರಮಾಣುಗಳಿವೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಪರಮಾಣು ರಾಶಿಗಳನ್ನು ಹಾಕಿ: (1 × 1 u) + (1 × 14 u) + (3 × 16 u)",
+      "justification": "H=1u, N=14u, O=16u ಮೌಲ್ಯಗಳನ್ನು ಬಳಸಲಾಗಿದೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "ಲೆಕ್ಕ ಮಾಡಿ: 1 + 14 + 48",
+      "justification": "ಗುಣಾಕಾರವನ್ನು ಮೊದಲು ಮಾಡಿ, ನಂತರ ಸಂಕಲನ ಮಾಡಿ."
+    }
+  ],
+  "final_answer_display": "ಅಣುರಾಶಿ = 63 u",
+  "chunk_id": "std_9_chapter_3_concept_8_chunk_005"
+}

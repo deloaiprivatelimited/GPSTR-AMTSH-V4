@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವಿಸರಣೆಯ ಮೇಲೆ ತಾಪಮಾನದ ಪರಿಣಾಮ",
+  "script": "ವಿಸರಣೆಯ ಮೇಲೆ ತಾಪಮಾನದ ಪರಿಣಾಮವನ್ನು ಗಮನಿಸೋಣ. ಬಿಸಿ ಆಹಾರದ ವಾಸನೆ ದೂರದವರೆಗೆ ಹರಡುತ್ತದೆ, ಆದರೆ ತಣ್ಣನೆಯ ಆಹಾರದ ವಾಸನೆ ಅಷ್ಟು ಬೇಗ ಹರಡುವುದಿಲ್ಲ. ಇದಕ್ಕೇನು ಕಾರಣ? ತಣ್ಣೀರಿನಲ್ಲಿ ಕಣಗಳ ಚಲನಶಕ್ತಿ ಕಡಿಮೆ ಇರುತ್ತದೆ, ಹಾಗಾಗಿ ಅವು ನಿಧಾನವಾಗಿ ಚಲಿಸುತ್ತವೆ. ಇದರಿಂದ ವಿಸರಣೆಯ ದರ ನಿಧಾನವಾಗಿರುತ್ತದೆ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಬಿಸಿನೀರಿನಲ್ಲಿ, ಕಣಗಳು ಹೆಚ್ಚು ಚಲನಶಕ್ತಿಯನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಅವು ಅತಿ ವೇಗವಾಗಿ ಚಲಿಸುವುದರಿಂದ, ವಿಸರಣೆಯ ದರವು ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಬಿಸಿನೀರಿನಲ್ಲಿ ಶಾಯಿ ಅಥವಾ ಬಣ್ಣ ಬೇಗನೆ ಹರಡುತ್ತದೆ.",
+  "script_display": "ವಿಸರಣೆಯ ಮೇಲೆ ತಾಪಮಾನದ ಪರಿಣಾಮವನ್ನು ಗಮನಿಸೋಣ. ಬಿಸಿ ಆಹಾರದ ವಾಸನೆ ದೂರದವರೆಗೆ ಹರಡುತ್ತದೆ, ಆದರೆ ತಣ್ಣನೆಯ ಆಹಾರದ ವಾಸನೆ ಅಷ್ಟು ಬೇಗ ಹರಡುವುದಿಲ್ಲ. ಇದಕ್ಕೇನು ಕಾರಣ? ತಣ್ಣೀರಿನಲ್ಲಿ ಕಣಗಳ ಚಲನಶಕ್ತಿ ಕಡಿಮೆ ಇರುತ್ತದೆ, ಹಾಗಾಗಿ ಅವು ನಿಧಾನವಾಗಿ ಚಲಿಸುತ್ತವೆ. ಇದರಿಂದ ವಿಸರಣೆಯ ದರ ನಿಧಾನವಾಗಿರುತ್ತದೆ. ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ, ಬಿಸಿನೀರಿನಲ್ಲಿ, ಕಣಗಳು ಹೆಚ್ಚು ಚಲನಶಕ್ತಿಯನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಅವು ಅತಿ ವೇಗವಾಗಿ ಚಲಿಸುವುದರಿಂದ, ವಿಸರಣೆಯ ದರವು ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಬಿಸಿನೀರಿನಲ್ಲಿ ಶಾಯಿ ಅಥವಾ ಬಣ್ಣ ಬೇಗನೆ ಹರಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ತಣ್ಣೀರು (Cold Water): ಕಣಗಳ ಚಲನಶಕ್ತಿ ಕಡಿಮೆ, ವಿಸರಣೆಯ ದರ ನಿಧಾನ.",
+    "ಬಿಸಿನೀರು (Hot Water): ಕಣಗಳ ಚಲನಶಕ್ತಿ ಹೆಚ್ಚು, ವಿಸರಣೆಯ ದರ ವೇಗ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split-screen image. On the left, a beaker of cold water with a drop of ink slowly diffusing. On the right, a beaker of hot water with a drop of ink rapidly diffusing and spreading throughout the water.",
+    "labels": "ಎಡಭಾಗ: ತಣ್ಣೀರು, ನಿಧಾನ ವಿಸರಣೆ. ಬಲಭಾಗ: ಬಿಸಿನೀರು, ವೇಗದ ವಿಸರಣೆ.",
+    "scientific_significance": "Visually demonstrates the direct relationship between temperature and the rate of diffusion. Higher temperature leads to higher kinetic energy and faster diffusion.",
+    "placeholder_note": "Image to be generated showing two beakers, one with cold water and slow diffusion, one with hot water and fast diffusion."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_1_concept_2_chunk_005"
+}

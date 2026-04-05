@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು",
+  "script": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಮತ್ತಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವ ಪ್ರಯೋಗವನ್ನು ಪರಿಗಣಿಸಿ. ಇಲ್ಲಿ ಸಾಧ್ಯವಿರುವ ಫಲಿತಾಂಶಗಳು ಶಿರ ಅಥವಾ ಪುಚ್ಛ. ನಾವು 'ಶಿರವನ್ನು ಪಡೆಯುವುದು' ಎಂಬ ಘಟನೆಯನ್ನು E ಎಂದು ಕರೆಯೋಣ. ಹಾಗಾದರೆ, E ಯ ಪೂರಕ ಘಟನೆ, ಅಂದರೆ E ಬಾರ್, ಏನಾಗುತ್ತದೆ? ಅದು 'ಶಿರವನ್ನು ಪಡೆಯದಿರುವುದು' ಎಂದರ್ಥ. ನಾಣ್ಯದಲ್ಲಿ ಶಿರ ಸಿಗದಿದ್ದರೆ, ಖಂಡಿತವಾಗಿಯೂ ಪುಚ್ಛ ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, E ಬಾರ್ ಎಂದರೆ 'ಪುಚ್ಛವನ್ನು ಪಡೆಯುವುದು' ಎಂಬ ಘಟನೆ.",
+  "script_display": "ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಮತ್ತಷ್ಟು ಸ್ಪಷ್ಟಪಡಿಸಿಕೊಳ್ಳೋಣ. ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವ ಪ್ರಯೋಗವನ್ನು ಪರಿಗಣಿಸಿ. ಇಲ್ಲಿ ಸಾಧ್ಯವಿರುವ ಫಲಿತಾಂಶಗಳು ಶಿರ (Heads) ಅಥವಾ ಪುಚ್ಛ (Tails). ನಾವು 'ಶಿರವನ್ನು ಪಡೆಯುವುದು' ಎಂಬ ಘಟನೆಯನ್ನು E ಎಂದು ಕರೆಯೋಣ. ಹಾಗಾದರೆ, E ಯ ಪೂರಕ ಘಟನೆ, ಅಂದರೆ $\\bar{E}$, ಏನಾಗುತ್ತದೆ? ಅದು 'ಶಿರವನ್ನು ಪಡೆಯದಿರುವುದು' ಎಂದರ್ಥ. ನಾಣ್ಯದಲ್ಲಿ ಶಿರ ಸಿಗದಿದ್ದರೆ, ಖಂಡಿತವಾಗಿಯೂ ಪುಚ್ಛ ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, $\\bar{E}$ ಎಂದರೆ 'ಪುಚ್ಛವನ್ನು ಪಡೆಯುವುದು' ಎಂಬ ಘಟನೆ.",
+  "display_bullets": [
+    "**ಪ್ರಯೋಗ:** ಒಂದು ನಾಣ್ಯವನ್ನು ಚಿಮ್ಮುವುದು.",
+    "**ಘಟನೆ (E):** ಶಿರವನ್ನು ಪಡೆಯುವುದು (Getting Heads).",
+    "**ಪೂರಕ ಘಟನೆ ($\\bar{E}$):** 'ಶಿರವನ್ನು ಪಡೆಯದಿರುವುದು', ಅಂದರೆ 'ಪುಚ್ಛವನ್ನು ಪಡೆಯುವುದು' (Getting Tails)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dynamic",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a sample space S = {H, T}. A circle around 'H' is labeled 'E'. The remaining part, a circle around 'T', is labeled 'E bar'.",
+    "labels": "Sample Space, Event E, Complementary Event E bar, Heads, Tails",
+    "mathematical_significance": "Visually represents the partitioning of the sample space by an event and its complement.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "PROB-BAS-1_concept_3_chunk_005"
+}

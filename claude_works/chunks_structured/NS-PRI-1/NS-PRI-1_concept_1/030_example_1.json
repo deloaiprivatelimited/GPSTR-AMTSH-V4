@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಜಂಪ್ ಜಾಕ್ ಪಾಟ್",
+  "script": "ಈಗ ಒಂದು ಮೋಜಿನ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ಜಂಪ್ ಜಾಕ್ ಪಾಟ್ ಆಟದಲ್ಲಿ, ಗ್ರಂಪಿ ನಿಧಿಯನ್ನು 24ನೇ ಸಂಖ್ಯೆಯ ಮೇಲೆ ಇಟ್ಟಿದ್ದಾನೆ. ಜಂಪಿ ಆ ನಿಧಿಯನ್ನು ಪಡೆಯಬೇಕಾದರೆ, ಅವನು ಯಾವೆಲ್ಲಾ ಗಾತ್ರದ ಜಿಗಿತಗಳನ್ನು ಆಯ್ದುಕೊಳ್ಳಬಹುದು? ಇಲ್ಲಿ ಒಂದು ಷರತ್ತು ಇದೆ, ಜಿಗಿತದ ಗಾತ್ರ 1 ಆಗಿರಬಾರದು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಜಂಪಿ ಶೂನ್ಯದಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಒಂದೇ ಗಾತ್ರದ ಜಿಗಿತಗಳನ್ನು ಮಾಡುತ್ತಾ 24ರ ಮೇಲೆ ನಿಖರವಾಗಿ ಇಳಿಯಬೇಕು. ಇದರರ್ಥ, ಅವನ ಜಿಗಿತದ ಗಾತ್ರವು 24ನ್ನು ಶೇಷವಿಲ್ಲದೆ ಭಾಗಿಸಬೇಕು. ಗಣಿತದ ಭಾಷೆಯಲ್ಲಿ ಹೇಳುವುದಾದರೆ, ನಾವು 24ರ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಮೋಜಿನ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸೋಣ. ಜಂಪ್ ಜಾಕ್ ಪಾಟ್ ಆಟದಲ್ಲಿ, ಗ್ರಂಪಿ ನಿಧಿಯನ್ನು 24ನೇ ಸಂಖ್ಯೆಯ ಮೇಲೆ ಇಟ್ಟಿದ್ದಾನೆ. ಜಂಪಿ ಆ ನಿಧಿಯನ್ನು ಪಡೆಯಬೇಕಾದರೆ, ಅವನು ಯಾವೆಲ್ಲಾ ಗಾತ್ರದ ಜಿಗಿತಗಳನ್ನು ಆಯ್ದುಕೊಳ್ಳಬಹುದು? (ಜಿಗಿತದ ಗಾತ್ರ 1 ಆಗಿರಬಾರದು). ಈ ಸಮಸ್ಯೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಜಂಪಿ ಶೂನ್ಯದಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಒಂದೇ ಗಾತ್ರದ ಜಿಗಿತಗಳನ್ನು ಮಾಡುತ್ತಾ 24ರ ಮೇಲೆ ನಿಖರವಾಗಿ ಇಳಿಯಬೇಕು. ಇದರರ್ಥ, ಅವನ ಜಿಗಿತದ ಗಾತ್ರವು 24ನ್ನು ಶೇಷವಿಲ್ಲದೆ ಭಾಗಿಸಬೇಕು. ಗಣಿತದ ಭಾಷೆಯಲ್ಲಿ ಹೇಳುವುದಾದರೆ, ನಾವು 24ರ ಅಪವರ್ತನಗಳನ್ನು (factors) ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಜಂಪಿ 24ರ ಮೇಲೆ ಇಟ್ಟಿರುವ ನಿಧಿಯನ್ನು ಪಡೆಯಬೇಕು.",
+    "ಷರತ್ತು: ಜಿಗಿತದ ಗಾತ್ರ 1 ಆಗಿರಬಾರದು.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಜಂಪಿ ಆಯ್ದುಕೊಳ್ಳಬಹುದಾದ ಜಿಗಿತದ ಗಾತ್ರಗಳು.",
+    "ತರ್ಕ: ಜಿಗಿತದ ಗಾತ್ರವು 24ರ ಅಪವರ್ತನವಾಗಿರಬೇಕು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line from 0 to 24. A character named 'Jumpy' is at 0. A treasure chest is at 24. Arrows show possible jumps, for example, jumps of size 6 (0 to 6, 6 to 12, 12 to 18, 18 to 24).",
+    "labels": "ಪ್ರಾರಂಭ (0), ಜಂಪಿ, ನಿಧಿ (24), ಜಿಗಿತದ ಗಾತ್ರ (?)",
+    "mathematical_significance": "Visually represents the problem, showing that repeated jumps of a certain size must land exactly on 24, which is the definition of a factor.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "NS-PRI-1_example_2",
+  "chunk_id": "NS-PRI-1_concept_1_chunk_030"
+}

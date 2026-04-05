@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಈ ಲೆಕ್ಕಾಚಾರದ ಪ್ರಕಾರ, ಕಾಯದ ಸರಾಸರಿ ಜವವು ಐದು ಪಾಯಿಂಟ್ ಮೂರು ಮೂರು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಆಗಿದೆ. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಮುಖ್ಯ ಅಂಶವೆಂದರೆ, ಸರಾಸರಿ ಜವವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಾವು ಒಟ್ಟು ದೂರ ಮತ್ತು ಒಟ್ಟು ಸಮಯವನ್ನು ಬಳಸುತ್ತೇವೆ, ಕೇವಲ ಒಂದು ಭಾಗದ ದೂರ ಅಥವಾ ಸಮಯವನ್ನಲ್ಲ.",
+  "script_display": "ಆದ್ದರಿಂದ, ಈ ಲೆಕ್ಕಾಚಾರದ ಪ್ರಕಾರ, ಕಾಯದ ಸರಾಸರಿ ಜವವು 5.33 ms⁻¹ ಆಗಿದೆ. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಮುಖ್ಯ ಅಂಶವೆಂದರೆ, ಸರಾಸರಿ ಜವವನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಾವು ಒಟ್ಟು ದೂರ ಮತ್ತು ಒಟ್ಟು ಸಮಯವನ್ನು ಬಳಸುತ್ತೇವೆ, ಕೇವಲ ಒಂದು ಭಾಗದ ದೂರ ಅಥವಾ ಸಮಯವನ್ನಲ್ಲ.",
+  "display_bullets": [
+    "ಕಾಯದ ಸರಾಸರಿ ಜವ 5.33 ms⁻¹ ಆಗಿದೆ.",
+    "ಪ್ರಮುಖ ಅಂಶ: ಸರಾಸರಿ ಜವವು ಒಟ್ಟು ಚಲಿಸಿದ ದೂರವನ್ನು, ತೆಗೆದುಕೊಂಡ ಒಟ್ಟು ಕಾಲದಿಂದ ಭಾಗಿಸಿದಾಗ ಸಿಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_7_example_7.1",
+  "final_answer": "5.33 ms⁻¹",
+  "final_answer_display": "ಕಾಯದ ಸರಾಸರಿ ಜವ = 5.33 ms⁻¹",
+  "chunk_id": "std_9_chapter_7_concept_2_chunk_035"
+}

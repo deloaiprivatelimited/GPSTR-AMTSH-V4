@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ RING ಅನ್ನು ನೀಡಲಾಗಿದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಕೋನ R ನ ಅಳತೆ 70 ಡಿಗ್ರಿ ಆಗಿದೆ. ನಾವು ಉಳಿದ ಎಲ್ಲಾ ಕೋನಗಳನ್ನು, ಅಂದರೆ ಕೋನ I, ಕೋನ N, ಮತ್ತು ಕೋನ G ಯ ಅಳತೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಮಗೆ ಒಂದು ಸಮಾಂತರ ಚತುರ್ಭುಜ RING ಅನ್ನು ನೀಡಲಾಗಿದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, $m∠R = 70°$ ಆಗಿದೆ. ನಾವು ಉಳಿದ ಎಲ್ಲಾ ಕೋನಗಳನ್ನು, ಅಂದರೆ $∠I$, $∠N$, ಮತ್ತು $∠G$ ಯ ಅಳತೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜ: RING",
+    "ಕೊಟ್ಟಿರುವ ಕೋನ: $m∠R = 70°$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $m∠I, m∠N, m∠G$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A parallelogram labeled RING in counter-clockwise order, starting from the bottom left vertex. The angle at vertex R is marked as 70°.",
+    "labels": "R, I, N, G, 70°",
+    "mathematical_significance": "Illustrates the given information for the problem. Shows the parallelogram and the known angle, which is the basis for all calculations.",
+    "placeholder_note": "Image to be generated showing parallelogram RING with angle R = 70 degrees."
+  },
+  "source_example_id": "GEO-QUAD-1_example_5",
+  "prerequisites_display": [
+    "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಗುಣಲಕ್ಷಣಗಳು"
+  ],
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 0,
+    "theorems": 0,
+    "properties": 2,
+    "worked_examples": 1
+  },
+  "chunk_id": "GEO-QUAD-1_concept_4_chunk_023"
+}

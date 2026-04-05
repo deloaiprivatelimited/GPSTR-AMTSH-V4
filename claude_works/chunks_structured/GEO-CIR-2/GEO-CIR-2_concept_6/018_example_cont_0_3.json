@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ನಿರ್ಣಯ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+  "script": "OP ಯು ಜ್ಯಾ AB ಯನ್ನು ಅರ್ಧಿಸುವುದರಿಂದ, ನಾವು AP ಯು BP ಗೆ ಸಮ ಎಂದು ತೀರ್ಮಾನಿಸಬಹುದು. ಹೀಗೆ ನಾವು ಸಮಸ್ಯೆಯನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ. ಈ ಸಾಧನೆಯಲ್ಲಿ ನಾವು ಎರಡು ಪ್ರಮುಖ ಪ್ರಮೇಯಗಳನ್ನು ಒಟ್ಟಿಗೆ ಬಳಸಿದ್ದೇವೆ. ಒಂದು, ಸ್ಪರ್ಶಕಕ್ಕೆ ತ್ರಿಜ್ಯವು ಲಂಬವಾಗಿರುತ್ತದೆ, ಮತ್ತು ಇನ್ನೊಂದು, ಕೇಂದ್ರದಿಂದ ಜ್ಯಾಕ್ಕೆ ಎಳೆದ ಲಂಬವು ಜ್ಯಾವನ್ನು ಅರ್ಧಿಸುತ್ತದೆ. ಈ ಎರಡು ಪ್ರಮೇಯಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "$OP$ ಯು ಜ್ಯಾ $AB$ ಯನ್ನು ಅರ್ಧಿಸುವುದರಿಂದ, ನಾವು $AP = BP$ ಎಂದು ತೀರ್ಮಾನಿಸಬಹುದು. ಹೀಗೆ ನಾವು ಸಮಸ್ಯೆಯನ್ನು ಸಾಧಿಸಿದ್ದೇವೆ. ಈ ಸಾಧನೆಯಲ್ಲಿ ನಾವು ಎರಡು ಪ್ರಮುಖ ಪ್ರಮೇಯಗಳನ್ನು ಒಟ್ಟಿಗೆ ಬಳಸಿದ್ದೇವೆ. ಒಂದು, ಸ್ಪರ್ಶಕಕ್ಕೆ ತ್ರಿಜ್ಯವು ಲಂಬವಾಗಿರುತ್ತದೆ, ಮತ್ತು ಇನ್ನೊಂದು, ಕೇಂದ್ರದಿಂದ ಜ್ಯಾಕ್ಕೆ ಎಳೆದ ಲಂಬವು ಜ್ಯಾವನ್ನು ಅರ್ಧಿಸುತ್ತದೆ. ಈ ಎರಡು ಪ್ರಮೇಯಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಸಾಧನೆಯ ಫಲಿತಾಂಶ: AP = BP.",
+    "ಬಳಸಿದ ಪ್ರಮೇಯಗಳು: 1) ಸ್ಪರ್ಶಕ-ತ್ರಿಜ್ಯ ಪ್ರಮೇಯ (10.1) ಮತ್ತು 2) ಜ್ಯಾ-ಲಂಬ ಪ್ರಮೇಯ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "AP = BP",
+    "placeholder_note": "Final answer to be displayed prominently."
+  },
+  "source_example_id": "GEO-CIR-2_example_4",
+  "final_answer": "AP = BP",
+  "final_answer_display": "$AP = BP$",
+  "chunk_id": "GEO-CIR-2_concept_6_chunk_018"
+}

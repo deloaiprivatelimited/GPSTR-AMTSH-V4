@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 3 (ಗಾಳಿಯ ಪೂರೈಕೆ ಇಲ್ಲ)",
+  "script": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ಚಿಮಣಿಯು ಮೇಜಿನ ಮೇಲಿರುವಾಗಲೇ, ಅದರ ಮೇಲ್ಭಾಗವನ್ನು ಒಂದು ಗಾಜಿನ ತಟ್ಟೆಯಿಂದ ಅಥವಾ ಯಾವುದೇ ವಸ್ತುವಿನಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಮುಚ್ಚಿ. ಈಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಊಹಿಸಿ. ನೀವು ನೋಡುವಂತೆ, ಕೆಲವೇ ಕ್ಷಣಗಳಲ್ಲಿ ಜ್ವಾಲೆಯು ಸಂಪೂರ್ಣವಾಗಿ ನಂದಿಹೋಗುತ್ತದೆ. ಯಾಕೆ ಹೀಗಾಯಿತು? ಏಕೆಂದರೆ, ನಾವು ಚಿಮಣಿಯ ಮೇಲ್ಭಾಗವನ್ನು ಮುಚ್ಚಿದಾಗ, ಗಾಳಿಯ ಪೂರೈಕೆಯು ಸಂಪೂರ್ಣವಾಗಿ ನಿಂತುಹೋಯಿತು. ಚಿಮಣಿಯೊಳಗಿದ್ದ ಅಲ್ಪಸ್ವಲ್ಪ ಆಮ್ಲಜನಕವು ಬಳಕೆಯಾದ ತಕ್ಷಣ, ದಹನ ಕ್ರಿಯೆಗೆ ಇನ್ನು ಆಮ್ಲಜನಕ ಲಭ್ಯವಿಲ್ಲದ ಕಾರಣ ಬೆಂಕಿ ಆರಿಹೋಯಿತು.",
+  "script_display": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ಚಿಮಣಿಯು ಮೇಜಿನ ಮೇಲಿರುವಾಗಲೇ, ಅದರ ಮೇಲ್ಭಾಗವನ್ನು ಒಂದು ಗಾಜಿನ ತಟ್ಟೆಯಿಂದ ಅಥವಾ ಯಾವುದೇ ವಸ್ತುವಿನಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಮುಚ್ಚಿ. ಈಗ ಏನಾಗುತ್ತದೆ ಎಂದು ಊಹಿಸಿ. ನೀವು ನೋಡುವಂತೆ, ಕೆಲವೇ ಕ್ಷಣಗಳಲ್ಲಿ ಜ್ವಾಲೆಯು ಸಂಪೂರ್ಣವಾಗಿ ನಂದಿಹೋಗುತ್ತದೆ. ಯಾಕೆ ಹೀಗಾಯಿತು? ಏಕೆಂದರೆ, ನಾವು ಚಿಮಣಿಯ ಮೇಲ್ಭಾಗವನ್ನು ಮುಚ್ಚಿದಾಗ, ಗಾಳಿಯ ಪೂರೈಕೆಯು ಸಂಪೂರ್ಣವಾಗಿ ನಿಂತುಹೋಯಿತು. ಚಿಮಣಿಯೊಳಗಿದ್ದ ಅಲ್ಪಸ್ವಲ್ಪ ಆಮ್ಲಜನಕವು ಬಳಕೆಯಾದ ತಕ್ಷಣ, ದಹನ ಕ್ರಿಯೆಗೆ ಇನ್ನು ಆಮ್ಲಜನಕ ಲಭ್ಯವಿಲ್ಲದ ಕಾರಣ ಬೆಂಕಿ ಆರಿಹೋಯಿತು.",
+  "display_bullets": [
+    "ಚಿಮಣಿಯ ಮೇಲ್ಭಾಗವನ್ನು ಒಂದು ತಟ್ಟೆಯಿಂದ ಮುಚ್ಚಿ.",
+    "ಗಮನಿಸುವಿಕೆ: ಜ್ವಾಲೆಯು ನಂದಿಹೋಗುತ್ತದೆ.",
+    "ಕಾರಣ: ಗಾಳಿಯ (ಆಮ್ಲಜನಕದ) ಪೂರೈಕೆ ಸಂಪೂರ್ಣವಾಗಿ ನಿಂತುಹೋಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Diagram showing the chimney resting on the table, with its top covered by a plate. The candle flame inside is extinguished.",
+    "labels": "ಜ್ವಾಲೆ ನಂದಿದೆ, ಗಾಳಿ ಲಭ್ಯವಿಲ್ಲ",
+    "scientific_significance": "Conclusively proves that without a supply of air (oxygen), combustion cannot occur.",
+    "placeholder_note": "Image for step 3 of the experiment."
+  },
+  "chunk_id": "std_8_chapter_4_concept_2_chunk_012"
+}

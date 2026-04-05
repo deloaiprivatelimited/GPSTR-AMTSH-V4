@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ವಿಶೇಷ ಆಯತದ ರಚನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಎರಡು ತದ್ರೂಪ ಚೌಕಗಳಾಗಿ ವಿಭಾಗಿಸಬಹುದಾದ ಒಂದು ಆಯತವನ್ನು ರಚಿಸಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಒಂದು ವಿಶೇಷ ಗುಣಲಕ್ಷಣವನ್ನು ಹೊಂದಿರುವ ಆಯತವನ್ನು ರಚಿಸಬೇಕಾಗಿದೆ. ಅಂದರೆ, ಆಯತವನ್ನು ಎರಡು ಸಮಾನವಾದ ಚೌಕಗಳಾಗಿ ವಿಂಗಡಿಸಲು ಸಾಧ್ಯವಾಗಬೇಕು. ಇದಕ್ಕಾಗಿ ನಾವು ಮೊದಲು ಆಯತದ ಅಳತೆಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬೇಕು ಮತ್ತು ನಂತರ ರಚನೆಯ ಹಂತಗಳನ್ನು ಅನುಸರಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಎರಡು ತದ್ರೂಪ ಚೌಕಗಳಾಗಿ ವಿಭಾಗಿಸಬಹುದಾದ ಒಂದು ಆಯತವನ್ನು ರಚಿಸಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಒಂದು ವಿಶೇಷ ಗುಣಲಕ್ಷಣವನ್ನು ಹೊಂದಿರುವ ಆಯತವನ್ನು ರಚಿಸಬೇಕಾಗಿದೆ. ಅಂದರೆ, ಆಯತವನ್ನು ಎರಡು ಸಮಾನವಾದ ಚೌಕಗಳಾಗಿ ವಿಂಗಡಿಸಲು ಸಾಧ್ಯವಾಗಬೇಕು. ಇದಕ್ಕಾಗಿ ನಾವು ಮೊದಲು ಆಯತದ ಅಳತೆಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬೇಕು ಮತ್ತು ನಂತರ ರಚನೆಯ ಹಂತಗಳನ್ನು ಅನುಸರಿಸಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಎರಡು ತದ್ರೂಪ ಚೌಕಗಳಾಗಿ ವಿಭಾಗಿಸಬಹುದಾದ ಒಂದು ಆಯತವನ್ನು ರಚಿಸಿ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ವಿಶೇಷ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿರುವ ಆಯತದ ರಚನೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A rough sketch of a rectangle ABCD. A line EF is drawn parallel to the breadth, dividing the rectangle into two congruent squares, ABEF and EFCD. The breadth AB is marked as 'b' and the length AD is marked as '2b'.",
+    "labels": "A, B, C, D, E, F, b, 2b",
+    "mathematical_significance": "Illustrates the core property of the problem: the length of the rectangle is twice its breadth (l=2b).",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "advanced",
+  "source_example_id": "VIS-CON-1_example_5",
+  "chunk_id": "VIS-CON-1_concept_6_chunk_003"
+}

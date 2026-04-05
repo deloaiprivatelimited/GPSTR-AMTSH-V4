@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನವನ್ನು ಬಳಸಿ ನಾವು 2304 ರ ವರ್ಗಮೂಲ 48 ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಚೌಕಾಕಾರದ ಜಾಗದ ಬಾಹುವಿನ ಉದ್ದ 48 ಮೀಟರ್ ಆಗಿದೆ. ವಿಸ್ತೀರ್ಣವನ್ನು ಚದುರ ಮೀಟರ್ ಗಳಲ್ಲಿ ಕೊಟ್ಟಾಗ, ಬಾಹುವಿನ ಉದ್ದವು ಮೀಟರ್ ಗಳಲ್ಲಿ ಇರುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನವನ್ನು ಬಳಸಿ ನಾವು $\\sqrt{2304} = 48$ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಚೌಕಾಕಾರದ ಜಾಗದ ಬಾಹುವಿನ ಉದ್ದ 48 ಮೀಟರ್ ಆಗಿದೆ. ವಿಸ್ತೀರ್ಣವನ್ನು ಚ.ಮೀ. ಗಳಲ್ಲಿ ಕೊಟ್ಟಾಗ, ಬಾಹುವಿನ ಉದ್ದವು ಮೀ. ಗಳಲ್ಲಿ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "$\\sqrt{2304} = 48$",
+    "ಚೌಕಾಕಾರದ ಜಾಗದ ಬಾಹು 48 ಮೀಟರ್."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಬಾಹು} = 48 \\text{ ಮೀ.}",
+    "placeholder_note": "Formula box showing the final answer: Side = 48 m."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-SQR-2_example_8",
+  "final_answer": "ಚೌಕಾಕಾರದ ಜಾಗದ ಬಾಹು 48 ಮೀ.",
+  "final_answer_display": "ಚೌಕಾಕಾರದ ಜಾಗದ ಬಾಹು 48 ಮೀ.",
+  "chunk_id": "NS-SQR-2_concept_8_chunk_011"
+}

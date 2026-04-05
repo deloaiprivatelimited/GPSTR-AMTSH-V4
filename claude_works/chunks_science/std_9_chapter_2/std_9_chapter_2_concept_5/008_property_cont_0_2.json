@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಲಂಬಿತ ಮಿಶ್ರಣಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+  "script": "ಮೂರನೆಯದಾಗಿ, ನಿಲಂಬಿತ ಮಿಶ್ರಣದ ಕಣಗಳು ತಮ್ಮ ಮೂಲಕ ಹಾದುಹೋಗುವ ಬೆಳಕಿನ ಕಿರಣವನ್ನು ಚದುರಿಸುತ್ತವೆ. ಈ ಚದುರುವಿಕೆಯಿಂದಾಗಿ, ಬೆಳಕಿನ ಪಥವು ನಮಗೆ ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣಿಸುತ್ತದೆ. ಇದನ್ನು ಟಿಂಡಾಲ್ ಪರಿಣಾಮ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಗಾಜಿನ ಲೋಟದಲ್ಲಿರುವ ಕೆಸರು ನೀರಿನ ಮೂಲಕ ನೀವು ಟಾರ್ಚ್ ಬೆಳಕನ್ನು ಹಾಯಿಸಿದರೆ, ಬೆಳಕಿನ ಕಿರಣವು ಸಾಗುವ ದಾರಿಯು ಸ್ಪಷ್ಟವಾಗಿ ಗೋಚರಿಸುತ್ತದೆ. ಇದಕ್ಕೆ ಕಾರಣ, ನಿಲಂಬಿತ ಕಣಗಳ ದೊಡ್ಡ ಗಾತ್ರ. ಈ ಕಣಗಳು ಬೆಳಕಿನ ಕಿರಣಗಳಿಗೆ ಅಡ್ಡಲಾಗಿ ಬಂದು, ಅದನ್ನು ಬೇರೆ ಬೇರೆ ದಿಕ್ಕುಗಳಲ್ಲಿ ಚದುರಿಸುತ್ತವೆ.",
+  "script_display": "ಮೂರನೆಯದಾಗಿ, ನಿಲಂಬಿತ ಮಿಶ್ರಣದ ಕಣಗಳು ತಮ್ಮ ಮೂಲಕ ಹಾದುಹೋಗುವ ಬೆಳಕಿನ ಕಿರಣವನ್ನು ಚದುರಿಸುತ್ತವೆ. ಈ ಚದುರುವಿಕೆಯಿಂದಾಗಿ, ಬೆಳಕಿನ ಪಥವು ನಮಗೆ ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣಿಸುತ್ತದೆ. ಇದನ್ನು ಟಿಂಡಾಲ್ ಪರಿಣಾಮ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಗಾಜಿನ ಲೋಟದಲ್ಲಿರುವ ಕೆಸರು ನೀರಿನ ಮೂಲಕ ನೀವು ಟಾರ್ಚ್ ಬೆಳಕನ್ನು ಹಾಯಿಸಿದರೆ, ಬೆಳಕಿನ ಕಿರಣವು ಸಾಗುವ ದಾರಿಯು ಸ್ಪಷ್ಟವಾಗಿ ಗೋಚರಿಸುತ್ತದೆ. ಇದಕ್ಕೆ ಕಾರಣ, ನಿಲಂಬಿತ ಕಣಗಳ ದೊಡ್ಡ ಗಾತ್ರ. ಈ ಕಣಗಳು ಬೆಳಕಿನ ಕಿರಣಗಳಿಗೆ ಅಡ್ಡಲಾಗಿ ಬಂದು, ಅದನ್ನು ಬೇರೆ ಬೇರೆ ದಿಕ್ಕುಗಳಲ್ಲಿ ಚದುರಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ಕಣಗಳು ತಮ್ಮ ಮೂಲಕ ಹಾದುಹೋಗುವ ಬೆಳಕಿನ ಕಿರಣವನ್ನು ಚದುರಿಸುತ್ತವೆ.",
+    "ಬೆಳಕಿನ ಪಥವನ್ನು ಗೋಚರವಾಗಿಸುತ್ತವೆ (ಟಿಂಡಾಲ್ ಪರಿಣಾಮ)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_right_2_items",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side comparison. A laser beam passes through two beakers. Beaker 1 contains a true solution (e.g., salt water), and the beam's path is not visible. Beaker 2 contains a suspension (e.g., muddy water), and the beam's path is clearly visible due to scattering (Tyndall effect).",
+    "labels": "ದ್ರಾವಣ (ಬೆಳಕಿನ ಪಥ ಅಗೋಚರ), ನಿಲಂಬಿತ ಮಿಶ್ರಣ (ಬೆಳಕಿನ ಪಥ ಗೋಚರ), ಬೆಳಕಿನ ಕಿರಣ",
+    "scientific_significance": "Illustrates the Tyndall effect in suspensions, a key differentiating property from true solutions.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_2_concept_5_chunk_008"
+}

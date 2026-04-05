@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಚಕ್ರಬಡ್ಡಿ ಮೊತ್ತದ ಸೂತ್ರ",
+  "script": "ಈಗ ನಾವು ಚಕ್ರಬಡ್ಡಿ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಈ ಸೂತ್ರವು ಚಕ್ರಬಡ್ಡಿ ಲೆಕ್ಕಾಚಾರದ ಅಡಿಪಾಯವಾಗಿದೆ. ಸೂತ್ರವು ಹೀಗಿದೆ: ಎ ಈಕ್ವಲ್ಸ್ ಪಿ ಟೈಮ್ಸ್ ಒನ್ ಪ್ಲಸ್ ಆರ್ ಬೈ ಹಂಡ್ರೆಡ್, ಹೋಲ್ ಟು ದ ಪವರ್ ಎನ್. ಇಲ್ಲಿ, ಎ ಅಂದರೆ ಅಂತಿಮ ಮೊತ್ತ, ಅಂದರೆ ಅಸಲು ಮತ್ತು ಬಡ್ಡಿ ಸೇರಿ ಬರುವ ಒಟ್ಟು ಹಣ. ಪಿ ಅಂದರೆ ಅಸಲು, ಅಂದರೆ ನಾವು ಆರಂಭದಲ್ಲಿ ಹೂಡಿಕೆ ಮಾಡಿದ ಅಥವಾ ಸಾಲ ಪಡೆದ ಹಣ. ಆರ್ ಅಂದರೆ ವಾರ್ಷಿಕ ಬಡ್ಡಿ ದರ, ಇದನ್ನು ಶೇಕಡಾವಾರು ಪ್ರಮಾಣದಲ್ಲಿ ನೀಡಲಾಗುತ್ತದೆ. ಮತ್ತು ಎನ್ ಅಂದರೆ ಅವಧಿ, ಅಂದರೆ ಎಷ್ಟು ವರ್ಷಗಳ ಕಾಲ ಬಡ್ಡಿಯನ್ನು ಲೆಕ್ಕ ಹಾಕಲಾಗುತ್ತದೆ. ಈ ಸೂತ್ರವನ್ನು ಬಡ್ಡಿಯನ್ನು ವಾರ್ಷಿಕವಾಗಿ ಸಂಯೋಜಿಸಿದಾಗ ಬಳಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಚಕ್ರಬಡ್ಡಿ ಮೊತ್ತವನ್ನು (Amount) ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಈ ಸೂತ್ರವು ಚಕ್ರಬಡ್ಡಿ ಲೆಕ್ಕಾಚಾರದ ಅಡಿಪಾಯವಾಗಿದೆ. ಸೂತ್ರವು ಹೀಗಿದೆ:\n\n$A = P \\left(1 + \\frac{R}{100}\\right)^n$\n\nಇಲ್ಲಿ, ಪ್ರತಿಯೊಂದು ಚಿಹ್ನೆಯ ಅರ್ಥವನ್ನು ತಿಳಿಯೋಣ:\n* $A$ = ಅಂತಿಮ ಮೊತ್ತ (Amount)\n* $P$ = ಅಸಲು (Principal)\n* $R$ = ವಾರ್ಷಿಕ ಬಡ್ಡಿ ದರ (Annual Rate of Interest in %)\n* $n$ = ಅವಧಿ (ವರ್ಷಗಳಲ್ಲಿ) (Time period in years)\n\nಈ ಸೂತ್ರವನ್ನು ಬಡ್ಡಿಯನ್ನು ವಾರ್ಷಿಕವಾಗಿ ಸಂಯೋಜಿಸಿದಾಗ (compounded annually) ಬಳಸಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "$A$ = ಅಂತಿಮ ಮೊತ್ತ (Amount)",
+    "$P$ = ಅಸಲು (Principal)",
+    "$R$ = ವಾರ್ಷಿಕ ಬಡ್ಡಿ ದರ (%)",
+    "$n$ = ಅವಧಿ (ವರ್ಷಗಳಲ್ಲಿ)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "A = P \\left(1 + \\frac{R}{100}\\right)^n",
+    "placeholder_note": "Formula for amount in compound interest"
+  },
+  "chunk_id": "RPP-COMP-1_concept_6_chunk_013"
+}

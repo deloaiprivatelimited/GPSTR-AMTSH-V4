@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ",
+  "script": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಹೇಗೆ ಮಾಡುವುದು ಎಂದು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ಗಾಜಿನ ಲೋಟವನ್ನು ಒಂದು ಸಮತಟ್ಟಾದ ಮೇಲ್ಮೈ ಮೇಲೆ ಇಡಿ. ನಂತರ, ಕಾರ್ಡ್‌ಬೋರ್ಡನ್ನು ಲೋಟದ ಬಾಯಿಯ ಮೇಲೆ ಇರಿಸಿ. ಮೂರನೇ ಹಂತವಾಗಿ, ಕಾರ್ಡ್‌ಬೋರ್ಡ್‌ನ ಮಧ್ಯಭಾಗದಲ್ಲಿ, ಅಂದರೆ ಲೋಟದ ಬಾಯಿಯ ನೇರಕ್ಕೆ, ನಾಣ್ಯವನ್ನು ಇಡಿ. ಕೊನೆಯದಾಗಿ, ನಿಮ್ಮ ತೋರುಬೆರಳಿನಿಂದ ಕಾರ್ಡ್‌ಬೋರ್ಡನ್ನು ಸಮತಲವಾಗಿ, ಅಂದರೆ ಅಡ್ಡಲಾಗಿ, ವೇಗವಾಗಿ ಮತ್ತು ಬಲವಾಗಿ ತಳ್ಳಿರಿ. ನಿಧಾನವಾಗಿ ತಳ್ಳಬಾರದು, ಕ್ಷಣಾರ್ಧದಲ್ಲಿ ತಳ್ಳಬೇಕು.",
+  "script_display": "ಈಗ ಪ್ರಯೋಗವನ್ನು ಹೇಗೆ ಮಾಡುವುದು ಎಂದು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ಗಾಜಿನ ಲೋಟವನ್ನು ಒಂದು ಸಮತಟ್ಟಾದ ಮೇಲ್ಮೈ ಮೇಲೆ ಇಡಿ. ನಂತರ, ಕಾರ್ಡ್‌ಬೋರ್ಡನ್ನು ಲೋಟದ ಬಾಯಿಯ ಮೇಲೆ ಇರಿಸಿ. ಮೂರನೇ ಹಂತವಾಗಿ, ಕಾರ್ಡ್‌ಬೋರ್ಡ್‌ನ ಮಧ್ಯಭಾಗದಲ್ಲಿ, ಅಂದರೆ ಲೋಟದ ಬಾಯಿಯ ನೇರಕ್ಕೆ, ನಾಣ್ಯವನ್ನು ಇಡಿ. ಕೊನೆಯದಾಗಿ, ನಿಮ್ಮ ತೋರುಬೆರಳಿನಿಂದ ಕಾರ್ಡ್‌ಬೋರ್ಡನ್ನು ಸಮತಲವಾಗಿ (horizontally) ವೇಗವಾಗಿ ಮತ್ತು ಬಲವಾಗಿ ತಳ್ಳಿರಿ. ನಿಧಾನವಾಗಿ ತಳ್ಳಬಾರದು, ಕ್ಷಣಾರ್ಧದಲ್ಲಿ ತಳ್ಳಬೇಕು.",
+  "display_bullets": [
+    "ಗಾಜಿನ ಲೋಟದ ಮೇಲೆ ಕಾರ್ಡ್‌ಬೋರ್ಡ್ ಇಡಿ.",
+    "ಕಾರ್ಡ್‌ಬೋರ್ಡ್‌ನ ಮಧ್ಯದಲ್ಲಿ ನಾಣ್ಯವನ್ನು ಇಡಿ.",
+    "ಬೆರಳಿನಿಂದ ಕಾರ್ಡ್‌ಬೋರ್ಡನ್ನು ವೇಗವಾಗಿ ತಳ್ಳಿರಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An animated sequence or a diagram showing a finger flicking the cardboard horizontally. The arrow indicates a sharp, quick motion.",
+    "labels": "ಬೆರಳಿನಿಂದ ತಳ್ಳುವುದು, ವೇಗದ ಚಲನೆ",
+    "scientific_significance": "This visual demonstrates the action required to perform the experiment. The emphasis is on the quick, horizontal flick which is crucial for the outcome.",
+    "placeholder_note": "Image/animation showing the flicking action on the cardboard."
+  },
+  "sub_type": "procedure",
+  "chunk_id": "std_9_chapter_8_concept_2_chunk_019"
+}

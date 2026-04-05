@@ -1,0 +1,30 @@
+{
+  "type": "definition",
+  "slide_title": "ಷರತ್ತು: a ≠ 0 ಏಕೆ ಮುಖ್ಯ?",
+  "script": "ವ್ಯಾಖ್ಯೆಯಲ್ಲಿ 'a' ಸೊನ್ನೆಗೆ ಸಮನಾಗಿರಬಾರದು ಎಂಬ ಷರತ್ತು ಯಾಕೆ ಇಷ್ಟು ಮುಖ್ಯ ಎಂದು ಈಗ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, 'two x plus five equals zero' ಎಂಬ ಒಂದು ಮಾನ್ಯ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಿದೆ. ಇಲ್ಲಿ 'a' ಯ ಬೆಲೆ 'two', ಇದು ಸೊನ್ನೆ ಅಲ್ಲ. ಇದನ್ನು ಬಿಡಿಸಿದರೆ 'x equals minus five by two' ಎಂಬ ಒಂದು ನಿರ್ದಿಷ್ಟ ಪರಿಹಾರ ಸಿಗುತ್ತದೆ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, 'zero x plus five equals zero' ಎಂಬ ಸಮೀಕರಣವಿದೆ. ಇಲ್ಲಿ 'a' ಯ ಬೆಲೆ ಸೊನ್ನೆ. 'zero' ಅನ್ನು 'x' ನಿಂದ ಗುಣಿಸಿದಾಗ ನಮಗೆ ಸೊನ್ನೆಯೇ ಸಿಗುತ್ತದೆ. ಆಗ ಸಮೀಕರಣವು 'five equals zero' ಎಂದಾಗುತ್ತದೆ. ಇದು ಒಂದು ಅಸಾಧ್ಯವಾದ ಮತ್ತು ತಾರ್ಕಿಕವಾಗಿ ತಪ್ಪಾದ ಹೇಳಿಕೆ. ಇಲ್ಲಿ ಚರಾಕ್ಷರವೇ ಇಲ್ಲ, ಹಾಗಾಗಿ ನಾವು ಪರಿಹಾರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇದಕ್ಕಾಗಿಯೇ 'a' ಸೊನ್ನೆ ಆಗಿರಬಾರದು.",
+  "script_display": "ವ್ಯಾಖ್ಯೆಯಲ್ಲಿ $a ≠ 0$ ಎಂಬ ಷರತ್ತು ಯಾಕೆ ಇಷ್ಟು ಮುಖ್ಯ ಎಂದು ಈಗ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, `2x + 5 = 0` ಎಂಬ ಒಂದು ಮಾನ್ಯ ರೇಖಾತ್ಮಕ ಸಮೀಕರಣವಿದೆ. ಇಲ್ಲಿ $a=2$, ಇದು ಸೊನ್ನೆ ಅಲ್ಲ. ಇದನ್ನು ಬಿಡಿಸಿದರೆ $x = -5/2$ ಎಂಬ ಒಂದು ನಿರ್ದಿಷ್ಟ ಪರಿಹಾರ ಸಿಗುತ್ತದೆ. ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, `0x + 5 = 0` ಎಂಬ ಸಮೀಕರಣವಿದೆ. ಇಲ್ಲಿ $a=0$. $0$ ಅನ್ನು $x$ ನಿಂದ ಗುಣಿಸಿದಾಗ ನಮಗೆ 0 ಸಿಗುತ್ತದೆ. ಆಗ ಸಮೀಕರಣವು $5 = 0$ ಎಂದಾಗುತ್ತದೆ. ಇದು ಒಂದು ಅಸಾಧ್ಯವಾದ ಮತ್ತು ತಾರ್ಕಿಕವಾಗಿ ತಪ್ಪಾದ ಹೇಳಿಕೆ. ಇಲ್ಲಿ ಚರಾಕ್ಷರವೇ ಇಲ್ಲ, ಹಾಗಾಗಿ ನಾವು ಪರಿಹಾರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇದಕ್ಕಾಗಿಯೇ $a$ ಸೊನ್ನೆ ಆಗಿರಬಾರದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "modern_dark",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_view",
+    "status": "ready",
+    "render_target": "katex",
+    "placeholder_note": "A split view showing a valid vs invalid equation based on the value of 'a'. Left side shows 2x+5=0, right side shows 0x+5=0 and its implication 5=0. Use checkmark and cross mark icons for visual cueing. Left side is 'ಸರಿ', right side is 'ತಪ್ಪು'. Left side: a=2 (a≠0), ಪರಿಹಾರ: x = -5/2. Right side: a=0, 5=0 (ಅಸಾಧ್ಯ), ಪರಿಹಾರವಿಲ್ಲ."
+  },
+  "chunk_id": "ALG-EQ2-3_concept_1_chunk_005"
+}

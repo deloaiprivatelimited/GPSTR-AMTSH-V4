@@ -1,0 +1,48 @@
+{
+  "module_id": "std_10_chapter_5_concept_3",
+  "chapter_code": "std_10_chapter_5",
+  "voice": "Gacrux",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 3,
+  "ok_count": 3,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:07:45",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "46b5377757c83c5fe0cfb05f874c248d",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 19.851,
+      "slide_title": "ಪೂರ್ವ-ಅವಶ್ಯಕತೆಗಳು",
+      "type": "intro",
+      "script_words": 28,
+      "generated_at": "2026-04-02 12:07:16"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "aac3f1ac2b5e7ef953de1013a6e6e28d",
+      "wav_file": "001_intro_0.wav",
+      "duration": 44.651,
+      "slide_title": "ಪರಪೋಷಕ ಪೋಷಣೆ: ಅಮೀಬಾದಲ್ಲಿ ಪೋಷಣೆ",
+      "type": "intro",
+      "script_words": 59,
+      "generated_at": "2026-04-02 12:07:33"
+    },
+    "003_recap_0.json": {
+      "status": "ok",
+      "voice": "Gacrux",
+      "script_hash": "4db36accd8124bb654a45854e37f176f",
+      "wav_file": "003_recap_0.wav",
+      "duration": 43.651,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 54,
+      "generated_at": "2026-04-02 12:07:45"
+    }
+  }
+}

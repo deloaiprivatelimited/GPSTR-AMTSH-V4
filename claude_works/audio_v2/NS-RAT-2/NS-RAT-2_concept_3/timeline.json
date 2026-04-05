@@ -1,0 +1,155 @@
+{
+  "module_id": "NS-RAT-2_concept_3",
+  "voice": "Autonoe",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 13,
+  "total_duration": 844.743,
+  "total_duration_formatted": "14:04",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 62.651,
+      "duration": 62.651,
+      "script_words": 91
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 63.251,
+      "end": 84.822,
+      "duration": 21.571,
+      "script_words": 34
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ಆವೃತ್ತತೆ (Closure Property)",
+      "type": "concept_explanation",
+      "start": 85.422,
+      "end": 134.793,
+      "duration": 49.371,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಆವೃತ್ತತೆ",
+      "type": "concept_explanation",
+      "start": 135.393,
+      "end": 226.844,
+      "duration": 91.451,
+      "script_words": 118
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_005",
+      "chunk_file": "005_property_1.json",
+      "wav_file": "005_property_1.wav",
+      "slide_title": "ಆವೃತ್ತತಾ ಗುಣ: ಗುಣಾಕಾರ ಮತ್ತು ಭಾಗಾಕಾರ",
+      "type": "concept_explanation",
+      "start": 227.444,
+      "end": 304.335,
+      "duration": 76.891,
+      "script_words": 105
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_006",
+      "chunk_file": "006_property_cont_1_1.json",
+      "wav_file": "006_property_cont_1_1.wav",
+      "slide_title": "ಪರಿವರ್ತನೀಯತಾ ಗುಣ (Commutative Property)",
+      "type": "concept_explanation",
+      "start": 304.935,
+      "end": 350.426,
+      "duration": 45.491,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_007",
+      "chunk_file": "007_property_2.json",
+      "wav_file": "007_property_2.wav",
+      "slide_title": "ಪರಿವರ್ತನೀಯತೆ ಗುಣ (Commutative Property)",
+      "type": "concept_explanation",
+      "start": 351.026,
+      "end": 447.037,
+      "duration": 96.011,
+      "script_words": 149
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_008",
+      "chunk_file": "008_property_3.json",
+      "wav_file": "008_property_3.wav",
+      "slide_title": "ಪರಿವರ್ತನೀಯತೆ: ಭಾಗಾಕಾರ",
+      "type": "concept_explanation",
+      "start": 447.637,
+      "end": 518.848,
+      "duration": 71.211,
+      "script_words": 101
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_009",
+      "chunk_file": "009_property_cont_3_1.json",
+      "wav_file": "009_property_cont_3_1.wav",
+      "slide_title": "ಸಹವರ್ತನೀಯತೆ (Associative Property)",
+      "type": "concept_explanation",
+      "start": 519.448,
+      "end": 590.699,
+      "duration": 71.251,
+      "script_words": 119
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_010",
+      "chunk_file": "010_property_4.json",
+      "wav_file": "010_property_4.wav",
+      "slide_title": "ಸಹವರ್ತನೀಯ ಗುಣ: ವ್ಯವಕಲನ ಮತ್ತು ಭಾಗಾಕಾರ",
+      "type": "concept_explanation",
+      "start": 591.299,
+      "end": 671.07,
+      "duration": 79.771,
+      "script_words": 110
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_011",
+      "chunk_file": "011_property_cont_4_1.json",
+      "wav_file": "011_property_cont_4_1.wav",
+      "slide_title": "ಸಹವರ್ತನೀಯ ಗುಣ: ಗುಣಾಕಾರ",
+      "type": "concept_explanation",
+      "start": 671.67,
+      "end": 743.881,
+      "duration": 72.211,
+      "script_words": 107
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_012",
+      "chunk_file": "012_property_cont_4_2.json",
+      "wav_file": "012_property_cont_4_2.wav",
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಸಹವರ್ತನೀಯ ಗುಣ",
+      "type": "concept_explanation",
+      "start": 744.481,
+      "end": 792.932,
+      "duration": 48.451,
+      "script_words": 62
+    },
+    {
+      "chunk_id": "NS-RAT-2_concept_3_chunk_013",
+      "chunk_file": "013_recap_0.json",
+      "wav_file": "013_recap_0.wav",
+      "slide_title": "ಪುನರಾವರ್ತನೆ: ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "recap",
+      "start": 793.532,
+      "end": 844.143,
+      "duration": 50.611,
+      "script_words": 54
+    }
+  ]
+}

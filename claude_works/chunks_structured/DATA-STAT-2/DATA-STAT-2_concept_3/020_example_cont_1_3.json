@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 4: ಅಂತಿಮ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ, ಈ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸೋಣ. ಮೊದಲು ಆವರಣದೊಳಗಿನ ಭಾಗವನ್ನು ಸರಳೀಕರಿಸೋಣ. ಅಂಶದಲ್ಲಿ, 7 minus 3 ಅಂದರೆ 4. ಛೇದದಲ್ಲಿ, eradu gunisu 7 ಅಂದರೆ 14. 14 minus 3 minus 6 ಅಂದರೆ 14 minus 9, ಅದು 5 ಆಗುತ್ತದೆ. ಹಾಗಾಗಿ, ಸಮೀಕರಣವು 40 plus, 4 bhaagisidu 5, gunisu 15 ಎಂದಾಗುತ್ತದೆ. ಈಗ, 15 annu 5 rinda bhaagisidare namage 3 siguttade. Aaga 4 gunisu 3 samanaagide 12. ಕೊನೆಯದಾಗಿ, 40 plus 12 samanaagide 52.",
+  "script_display": "ಈಗ, ಈ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸೋಣ. ಮೊದಲು ಆವರಣದೊಳಗಿನ ಭಾಗವನ್ನು ಸರಳೀಕರಿಸೋಣ. ಅಂಶದಲ್ಲಿ, $7 - 3 = 4$. ಛೇದದಲ್ಲಿ, $2(7) - 3 - 6 = 14 - 9 = 5$. ಹಾಗಾಗಿ, ಸಮೀಕರಣವು $40 + \\frac{4}{5} \\times 15$ ಎಂದಾಗುತ್ತದೆ. ಈಗ, $\\frac{4}{5} \\times 15 = 4 \\times 3 = 12$. ಕೊನೆಯದಾಗಿ, $40 + 12 = 52$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "DATA-STAT-2_example_9",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "$\\text{ಬಹುಲಕ} = 40 + \\left[ \\frac{4}{14 - 9} \\right] \\times 15$\n\n$= 40 + \\frac{4}{5} \\times 15$\n\n$= 40 + 4 \\times 3$\n\n$= 40 + 12 = 52$",
+      "justification": "ಸಮೀಕರಣವನ್ನು ಸರಳೀಕರಿಸಿ ಅಂತಿಮ ಉತ್ತರವನ್ನು ಪಡೆಯುವುದು."
+    }
+  ],
+  "chunk_id": "DATA-STAT-2_concept_3_chunk_020"
+}

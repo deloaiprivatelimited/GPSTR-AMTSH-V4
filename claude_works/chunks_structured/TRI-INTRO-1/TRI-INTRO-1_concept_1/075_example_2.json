@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಸಾಧಿಸುವ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಕೋನ ಬಿ ಮತ್ತು ಕೋನ ಕ್ಯೂ ಲಘುಕೋನಗಳಾಗಿದ್ದು, ಸೈನ್ ಬಿ ಯು ಸೈನ್ ಕ್ಯೂ ಗೆ ಸಮವಾಗಿದೆ ಎಂದು ನಮಗೆ ನೀಡಲಾಗಿದೆ. ಹಾಗಾದರೆ, ಕೋನ ಬಿ ಯು ಕೋನ ಕ್ಯೂ ಗೆ ಸಮ ಎಂದು ನಾವು ಸಾಧಿಸಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ನಾವು ಮೊದಲು ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳನ್ನು ಪರಿಗಣಿಸಬೇಕಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಸಾಧಿಸುವ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $\\angle B$ ಮತ್ತು $\\angle Q$ ಲಘುಕೋನಗಳಾಗಿದ್ದು, $\\sin B = \\sin Q$ ಆಗಿದೆ ಎಂದು ನಮಗೆ ನೀಡಲಾಗಿದೆ. ಹಾಗಾದರೆ, $\\angle B = \\angle Q$ ಎಂದು ನಾವು ಸಾಧಿಸಬೇಕು. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ನಾವು ಮೊದಲು ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳನ್ನು ಪರಿಗಣಿಸಬೇಕಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: $\\angle B$ ಮತ್ತು $\\angle Q$ ಲಘುಕೋನಗಳು.",
+    "ದತ್ತಾಂಶ: $\\sin B = \\sin Q$.",
+    "ಸಾಧಿಸಬೇಕಾದದ್ದು: $\\angle B = \\angle Q$."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ಪ್ರತ್ಯೇಕ ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳು. ಮೊದಲನೆಯದು ΔABC, C ಯಲ್ಲಿ ಲಂಬಕೋನ. ಎರಡನೆಯದು ΔPQR, R ನಲ್ಲಿ ಲಂಬಕೋನ. ಕೋನ B ಮತ್ತು ಕೋನ Q ಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "ΔABC, ΔPQR, ∠C=90°, ∠R=90°, ∠B, ∠Q",
+    "mathematical_significance": "ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ಬೇಕಾದ ಜ್ಯಾಮಿತೀಯ ಸನ್ನಿವೇಶವನ್ನು ಈ ಚಿತ್ರವು ಸ್ಥಾಪಿಸುತ್ತದೆ. ಎರಡು ಪ್ರತ್ಯೇಕ ತ್ರಿಭುಜಗಳನ್ನು ಪರಿಗಣಿಸುವುದು ಪ್ರಮುಖ ಹಂತವಾಗಿದೆ.",
+    "placeholder_note": "Image to be generated showing two right triangles, ABC and PQR, right-angled at C and R respectively."
+  },
+  "source_example_id": "TRI-INTRO-1_example_2",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_075"
+}

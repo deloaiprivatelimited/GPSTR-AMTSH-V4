@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "30° ಕೋನದ ಅನುಪಾತಗಳು",
+  "script": "ಅದೇ ತ್ರಿಭುಜ ABD ಯನ್ನು ಬಳಸಿ, ನಾವು 30 ಡಿಗ್ರಿ ಕೋನದ ಅನುಪಾತಗಳನ್ನು ಸಹ ಕಂಡುಹಿಡಿಯಬಹುದು. ಈ ಬಾರಿ ನಾವು ಕೋನ BAD ಯನ್ನು ಪರಿಗಣಿಸುತ್ತೇವೆ, ಅದು 30 ಡಿಗ್ರಿ. ಈ ಕೋನಕ್ಕೆ, ಅಭಿಮುಖ ಬಾಹು BD ಆಗುತ್ತದೆ, ಪಾರ್ಶ್ವ ಬಾಹು AD ಆಗುತ್ತದೆ ಮತ್ತು ವಿಕರ್ಣ AB ಆಗಿರುತ್ತದೆ. ಸೈನ್ 30 ಡಿಗ್ರಿ ಎಂದರೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ, ಅಂದರೆ BD ಭಾಗಿಸು AB. ಇದು a ಭಾಗಿಸು ಎರಡು a, ಅಂದರೆ ಒಂದು ಭಾಗಿಸು ಎರಡು. ಕಾಸ್ 30 ಡಿಗ್ರಿ ಎಂದರೆ ಪಾರ್ಶ್ವ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ, ಅಂದರೆ AD ಭಾಗಿಸು AB. ಇದು a ರೂಟ್ ಮೂರು ಭಾಗಿಸು ಎರಡು a, ಅಂದರೆ ರೂಟ್ ಮೂರು ಭಾಗಿಸು ಎರಡು. ಟ್ಯಾನ್ 30 ಡಿಗ್ರಿ ಎಂದರೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು ಪಾರ್ಶ್ವ ಬಾಹು, ಅಂದರೆ BD ಭಾಗಿಸು AD. ಇದು a ಭಾಗಿಸು a ರೂಟ್ ಮೂರು, ಅಂದರೆ ಒಂದು ಭಾಗಿಸು ರೂಟ್ ಮೂರು.",
+  "script_display": "ಅದೇ ತ್ರಿಭುಜ ABD ಯನ್ನು ಬಳಸಿ, ನಾವು 30° ಕೋನದ ಅನುಪಾತಗಳನ್ನು ಸಹ ಕಂಡುಹಿಡಿಯಬಹುದು. ಈ ಬಾರಿ ನಾವು $\\angle BAD$ ಯನ್ನು ಪರಿಗಣಿಸುತ್ತೇವೆ, ಅದು 30°. ಈ ಕೋನಕ್ಕೆ, ಅಭಿಮುಖ ಬಾಹು $BD$ ಆಗುತ್ತದೆ, ಪಾರ್ಶ್ವ ಬಾಹು $AD$ ಆಗುತ್ತದೆ ಮತ್ತು ವಿಕರ್ಣ $AB$ ಆಗಿರುತ್ತದೆ. $\\sin 30^\\circ$ ಎಂದರೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ, ಅಂದರೆ $\\frac{BD}{AB}$. ಇದು $\\frac{a}{2a}$, ಅಂದರೆ $\\frac{1}{2}$. $\\cos 30^\\circ$ ಎಂದರೆ ಪಾರ್ಶ್ವ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ, ಅಂದರೆ $\\frac{AD}{AB}$. ಇದು $\\frac{a\\sqrt{3}}{2a}$, ಅಂದರೆ $\\frac{\\sqrt{3}}{2}$. $\\tan 30^\\circ$ ಎಂದರೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು ಪಾರ್ಶ್ವ ಬಾಹು, ಅಂದರೆ $\\frac{BD}{AD}$. ಇದು $\\frac{a}{a\\sqrt{3}}$, ಅಂದರೆ $\\frac{1}{\\sqrt{3}}$.",
+  "display_bullets": [
+    "$\\triangle ABD$ ಯಲ್ಲಿ, $\\angle BAD = 30^\\circ$ ಬಳಸಿ:",
+    "$\\sin 30^\\circ = \\frac{BD}{AB} = \\frac{a}{2a} = \\frac{1}{2}$",
+    "$\\cos 30^\\circ = \\frac{AD}{AB} = \\frac{a\\sqrt{3}}{2a} = \\frac{\\sqrt{3}}{2}$",
+    "$\\tan 30^\\circ = \\frac{BD}{AD} = \\frac{a}{a\\sqrt{3}} = \\frac{1}{\\sqrt{3}}$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "30-60-90 ತ್ರಿಭುಜ ABD. 30° ಕೋನವನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. ಈ ಕೋನಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಅಭಿಮುಖ ಬಾಹು (BD = a), ಪಾರ್ಶ್ವ ಬಾಹು (AD = a√3), ಮತ್ತು ವಿಕರ್ಣ (AB = 2a) ಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, D, 30°, a, a√3, 2a, ಅಭಿಮುಖ, ಪಾರ್ಶ್ವ, ವಿಕರ್ಣ",
+    "mathematical_significance": "30-60-90 ತ್ರಿಭುಜದ ಬಾಹುಗಳನ್ನು ಬಳಸಿ 30° ಕೋನದ ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುವುದು.",
+    "placeholder_note": "Image of triangle ABD. Angle 30 is highlighted. The sides are labeled as 'opposite (a)', 'adjacent (a-root-3)', and 'hypotenuse (2a)' relative to the 30 degree angle."
+  },
+  "chunk_id": "TRI-INTRO-1_concept_2_chunk_013"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು ಆಯತದ ಎಲ್ಲಾ ನಾಲ್ಕು ಕೋನಗಳು 90 ಡಿಗ್ರಿ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ ಒಂದು ಲಂಬಕೋನವಾಗಿದೆ. ಇದು ಆಯತದ ಒಂದು ಪ್ರಮುಖ ಮತ್ತು ಮೂಲಭೂತ ಗುಣಲಕ್ಷಣವಾಗಿದೆ.",
+  "script_display": "ಹೀಗೆ, ನಾವು ಆಯತದ ಎಲ್ಲಾ ನಾಲ್ಕು ಕೋನಗಳು $90°$ ಎಂದು ಸಾಧಿಸಿದ್ದೇವೆ. ಆದ್ದರಿಂದ, ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ ಒಂದು ಲಂಬಕೋನವಾಗಿದೆ. ಇದು ಆಯತದ ಒಂದು ಪ್ರಮುಖ ಮತ್ತು ಮೂಲಭೂತ ಗುಣಲಕ್ಷಣವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಫಲಿತಾಂಶ: $∠A = ∠B = ∠C = ∠D = 90°$.",
+    "ತೀರ್ಮಾನ: ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ ಒಂದು ಲಂಬಕೋನವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "key_takeaway",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ 90° ಆಗಿದೆ.",
+    "placeholder_note": ""
+  },
+  "source_example_id": "GEO-QUAD-2_example_1",
+  "steps": [],
+  "final_answer": "ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ 90° ಆಗಿದೆ.",
+  "final_answer_display": "ಆಯತದ ಪ್ರತಿಯೊಂದು ಕೋನವೂ $90°$ ಆಗಿದೆ.",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "GEO-QUAD-2_concept_2_chunk_022"
+}

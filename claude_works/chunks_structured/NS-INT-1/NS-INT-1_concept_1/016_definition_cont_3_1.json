@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಸೊನ್ನೆ",
+  "script": "ಸೊನ್ನೆಯ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಂಖ್ಯಾ ರೇಖೆಯು ಅತ್ಯುತ್ತಮ ಸಾಧನ. ಇಲ್ಲಿ ಗಮನಿಸಿ, ಸೊನ್ನೆಯು ಸಂಖ್ಯಾ ರೇಖೆಯ ಕೇಂದ್ರ ಬಿಂದು ಅಥವಾ ಮೂಲ ಬಿಂದುವಾಗಿದೆ. ಇದು ಧನ ಸಂಖ್ಯೆಗಳನ್ನು ಮತ್ತು ಋಣ ಸಂಖ್ಯೆಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸುತ್ತದೆ. ನೀವು ನೋಡುವಂತೆ, ಸೊನ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿ ಧನ ಪೂರ್ಣಾಂಕಗಳು, ಅಂದರೆ ಪ್ಲಸ್ ಒಂದು, ಪ್ಲಸ್ ಎರಡು, ಪ್ಲಸ್ ಮೂರು ಹೀಗೆ ಮುಂದುವರೆಯುತ್ತವೆ. ಹಾಗೆಯೇ, ಸೊನ್ನೆಯ ಎಡಭಾಗದಲ್ಲಿ ಋಣ ಪೂರ್ಣಾಂಕಗಳು, ಅಂದರೆ ಮೈನಸ್ ಒಂದು, ಮೈನಸ್ ಎರಡು, ಮೈನಸ್ ಮೂರು ಹೀಗೆ ಇರುತ್ತವೆ. ಆದ್ದರಿಂದ, ಸೊನ್ನೆಯು ಧನ ಮತ್ತು ಋಣ ಪ್ರಪಂಚದ ನಡುವಿನ ಒಂದು ಗಡಿಯಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.",
+  "script_display": "ಸೊನ್ನೆಯ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಂಖ್ಯಾ ರೇಖೆಯು ಅತ್ಯುತ್ತಮ ಸಾಧನ. ಇಲ್ಲಿ ಗಮನಿಸಿ:<ul><li>ಸೊನ್ನೆಯು ಸಂಖ್ಯಾ ರೇಖೆಯ ಕೇಂದ್ರ ಬಿಂದು (ಮೂಲ ಬಿಂದು).</li><li>ಇದು ಧನ ಸಂಖ್ಯೆಗಳನ್ನು ಮತ್ತು ಋಣ ಸಂಖ್ಯೆಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸುತ್ತದೆ.</li><li>ಸೊನ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿ ಧನ ಪೂರ್ಣಾಂಕಗಳು ($+1, +2, +3, ...$) ಮತ್ತು ಎಡಭಾಗದಲ್ಲಿ ಋಣ ಪೂರ್ಣಾಂಕಗಳು ($-1, -2, -3, ...$) ಇರುತ್ತವೆ.</li></ul> ಆದ್ದರಿಂದ, ಸೊನ್ನೆಯು ಧನ ಮತ್ತು ಋಣ ಪ್ರಪಂಚದ ನಡುವಿನ ಒಂದು ಗಡಿಯಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸೊನ್ನೆಯು ಸಂಖ್ಯಾ ರೇಖೆಯ ಕೇಂದ್ರ ಬಿಂದು (ಮೂಲ ಬಿಂದು).",
+    "ಇದು ಧನ ಸಂಖ್ಯೆಗಳನ್ನು ಮತ್ತು ಋಣ ಸಂಖ್ಯೆಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸುತ್ತದೆ.",
+    "ಸೊನ್ನೆಯ ಬಲಭಾಗದಲ್ಲಿ ಧನ ಪೂರ್ಣಾಂಕಗಳು ಮತ್ತು ಎಡಭಾಗದಲ್ಲಿ ಋಣ ಪೂರ್ಣಾಂಕಗಳು ಇರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line with zero at the center, clearly marked. To the right, it shows +1, +2, +3 with an arrow indicating continuation towards positive infinity. To the left, it shows -1, -2, -3 with an arrow indicating continuation towards negative infinity. Zero is highlighted, perhaps with a circle or a different color, to emphasize its role as the origin.",
+    "labels": "Number line, Zero (0), Positive Integers, Negative Integers",
+    "mathematical_significance": "Visually represents zero as the origin and the separator between positive and negative integers, which is a fundamental concept in number systems.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "NS-INT-1_concept_1_chunk_016"
+}

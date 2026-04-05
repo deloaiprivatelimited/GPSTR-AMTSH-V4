@@ -1,0 +1,147 @@
+{
+  "module_id": "NS-SQR-2_concept_1",
+  "merge_code": "NS-SQR-2",
+  "voice": "Sadaltager",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 17:06:53",
+  "chunks": {
+    "002_definition_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "0f0aa3e44eb7e971e239287a7cf87c16",
+      "wav_file": "002_definition_0.wav",
+      "duration": 38.171,
+      "slide_title": "ವರ್ಗ (Square): ವ್ಯಾಖ್ಯೆ",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-03-30 17:04:51"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "ca4e275005741d25259ef6aae064f1d1",
+      "wav_file": "001_intro_0.wav",
+      "duration": 48.411,
+      "slide_title": "ಪರಿಚಯ: ವರ್ಗ ಸಂಖ್ಯೆಗಳು",
+      "type": "intro",
+      "script_words": 86,
+      "generated_at": "2026-03-30 17:04:59"
+    },
+    "005_definition_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "2c3654a0353c687b99ea300a08ff625f",
+      "wav_file": "005_definition_1.wav",
+      "duration": 30.571,
+      "slide_title": "ವರ್ಗ ಸಂಖ್ಯೆ (ಪೂರ್ಣವರ್ಗ)",
+      "type": "definition",
+      "script_words": 50,
+      "generated_at": "2026-03-30 17:05:06"
+    },
+    "004_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "46ec9a08ab9689429e595840be8edf88",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "duration": 55.851,
+      "slide_title": "ವರ್ಗದ ಜ್ಯಾಮಿತೀಯ ಅರ್ಥ",
+      "type": "definition",
+      "script_words": 75,
+      "generated_at": "2026-03-30 17:05:22"
+    },
+    "009_example_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "ba8f56759b3a7a8d95a9e597ecc818a2",
+      "wav_file": "009_example_0.wav",
+      "duration": 19.091,
+      "slide_title": "ಪರಿಶೀಲಿಸಬೇಕಾದ ಸಮಸ್ಯೆ",
+      "type": "worked_example",
+      "script_words": 25,
+      "generated_at": "2026-03-30 17:05:41"
+    },
+    "003_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "8e4d52871e4d971bd29bb74700179f0a",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "duration": 43.531,
+      "slide_title": "ವರ್ಗ: ಸಂಖ್ಯಾತ್ಮಕ ಉದಾಹರಣೆಗಳು",
+      "type": "definition",
+      "script_words": 68,
+      "generated_at": "2026-03-30 17:05:47"
+    },
+    "008_definition_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "1210d820dd81d8b50b4182cd0cda6618",
+      "wav_file": "008_definition_cont_1_3.wav",
+      "duration": 47.691,
+      "slide_title": "ವರ್ಗ ಸಂಖ್ಯೆಗಳ ಜ್ಯಾಮಿತೀಯ ಅರ್ಥ",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-03-30 17:06:01"
+    },
+    "006_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "84709b1cb32fea8d220d3dd346261c30",
+      "wav_file": "006_definition_cont_1_1.wav",
+      "duration": 47.771,
+      "slide_title": "ವರ್ಗ ಸಂಖ್ಯೆಗಳು: ಉದಾಹರಣೆಗಳು",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-03-30 17:06:16"
+    },
+    "007_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "78c143dc6a3dc644b7715bf02eda97b1",
+      "wav_file": "007_definition_cont_1_2.wav",
+      "duration": 46.851,
+      "slide_title": "ಪೂರ್ಣವರ್ಗಗಳು vs ಪೂರ್ಣವರ್ಗಗಳಲ್ಲದ ಸಂಖ್ಯೆಗಳು",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-03-30 17:06:21"
+    },
+    "010_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "380a1091ee7509efbd5a086fc70312bb",
+      "wav_file": "010_example_cont_0_1.wav",
+      "duration": 56.891,
+      "slide_title": "ಪರಿಹಾರದ ಹಂತಗಳು",
+      "type": "worked_example",
+      "script_words": 70,
+      "generated_at": "2026-03-30 17:06:22"
+    },
+    "011_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "486c74948d073e930497786dbb063aa9",
+      "wav_file": "011_example_cont_0_2.wav",
+      "duration": 28.451,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "worked_example",
+      "script_words": 39,
+      "generated_at": "2026-03-30 17:06:48"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "811dc25929ec78c284b24367267d0fce",
+      "wav_file": "012_recap_0.wav",
+      "duration": 37.131,
+      "slide_title": "ಸಾರಾಂಶ: ವರ್ಗ ಸಂಖ್ಯೆಗಳು",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-03-30 17:06:53"
+    }
+  }
+}

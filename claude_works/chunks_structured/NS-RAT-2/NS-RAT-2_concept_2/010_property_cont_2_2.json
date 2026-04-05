@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಛೇದವನ್ನು ದೊಡ್ಡದಾಗಿಸುವುದು",
+  "script": "ಮುಂದುವರಿಸೋಣ. ನಮ್ಮ ಬಳಿ ಈಗ ಒಂದನೇ ನಾಲ್ಕು ಮತ್ತು ಎರಡನೇ ನಾಲ್ಕು ಇವೆ. ಆದರೆ, ಅಂಶಗಳಾದ ಒಂದು ಮತ್ತು ಎರಡರ ನಡುವೆ ಯಾವುದೇ ಪೂರ್ಣಾಂಕಗಳಿಲ್ಲ. ಹಾಗಾಗಿ ನಾವು ನೇರವಾಗಿ ನಡುವಿನ ಸಂಖ್ಯೆಗಳನ್ನು ಬರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇಲ್ಲಿಯೇ ನಮ್ಮ ನಿಯಮದ ಎರಡನೇ ಭಾಗ ಬರುತ್ತದೆ: ಛೇದವನ್ನು ದೊಡ್ಡದಾಗಿಸುವುದು. ಇದಕ್ಕಾಗಿ, ನಾವು ಎರಡೂ ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳ ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು ಒಂದೇ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸೋಣ. ಸುಲಭವಾಗಿರಲಿ ಎಂದು ನಾವು ಹತ್ತರಿಂದ ಗುಣಿಸೋಣ. ಆಗ, ಒಂದನೇ ನಾಲ್ಕು ಎಂಬುದು ಹತ್ತನೇ ನಲವತ್ತು ಆಗುತ್ತದೆ, ಮತ್ತು ಎರಡನೇ ನಾಲ್ಕು ಎಂಬುದು ಇಪ್ಪತ್ತನೇ ನಲವತ್ತು ಆಗುತ್ತದೆ.",
+  "script_display": "ನಮ್ಮ ಬಳಿ ಈಗ $\\frac{1}{4}$ ಮತ್ತು $\\frac{2}{4}$ ಇವೆ. ಅಂಶಗಳಾದ 1 ಮತ್ತು 2 ರ ನಡುವೆ ಯಾವುದೇ ಪೂರ್ಣಾಂಕಗಳಿಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "worked_example",
+  "difficulty": "medium",
+  "source_example_id": "NS-RAT-2_prop_3_ex_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಹಂತ 2: ಛೇದವನ್ನು ದೊಡ್ಡದಾಗಿಸಿ.",
+      "justification": "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು 10 ರಿಂದ ಗುಣಿಸೋಣ (ಅಥವಾ ಯಾವುದೇ ದೊಡ್ಡ ಸಂಖ್ಯೆ). <br> $\\frac{1}{4} = \\frac{1 \\times 10}{4 \\times 10} = \\frac{10}{40}$ <br> $\\frac{2}{4} = \\frac{2 \\times 10}{4 \\times 10} = \\frac{20}{40}$"
+    }
+  ],
+  "chunk_id": "NS-RAT-2_concept_2_chunk_010"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವೀಕ್ಷಣೆ (Observation)",
+  "script": "ಸ್ವಿಚ್ ಆನ್ ಮಾಡಿದ ಕೆಲವೇ ಕ್ಷಣಗಳಲ್ಲಿ, ನಾವು ಒಂದು ಆಸಕ್ತಿದಾಯಕ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸುತ್ತೇವೆ. ನೈಕ್ರೋಮ್ ತಂತಿಯು ಬಿಸಿಯಾಗಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಅದು ಬಿಸಿಯಾಗಿ ಕೆಂಪಗೆ ಕಾಯುವುದನ್ನು ನಾವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಇದು ತಂತಿಯಲ್ಲಿ ಉಷ್ಣ ಉತ್ಪತ್ತಿಯಾಗುತ್ತಿದೆ ಎಂಬುದರ ಸಂಕೇತ. ಈಗ, ಸ್ವಿಚ್ ಅನ್ನು ಆಫ್ ಮಾಡಿದರೆ, ವಿದ್ಯುತ್ ಪ್ರವಾಹ ನಿಲ್ಲುತ್ತದೆ. ತಕ್ಷಣವೇ, ತಂತಿಯು ತನ್ನ ಬಣ್ಣವನ್ನು ಕಳೆದುಕೊಂಡು ನಿಧಾನವಾಗಿ ತಣ್ಣಗಾಗಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈ ವೀಕ್ಷಣೆಯು ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಮತ್ತು ಉಷ್ಣದ ನಡುವಿನ ನೇರ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಸ್ವಿಚ್ 'ON' ಮಾಡಿದ ಕೆಲವೇ ಕ್ಷಣಗಳಲ್ಲಿ, ನಾವು ಒಂದು ಆಸಕ್ತಿದಾಯಕ ಬದಲಾವಣೆಯನ್ನು ಗಮನಿಸುತ್ತೇವೆ. ನೈಕ್ರೋಮ್ ತಂತಿಯು ಬಿಸಿಯಾಗಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ, ಅದು ಬಿಸಿಯಾಗಿ ಕೆಂಪಗೆ ಕಾಯುವುದನ್ನು ನಾವು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಇದು ತಂತಿಯಲ್ಲಿ ಉಷ್ಣ ಉತ್ಪತ್ತಿಯಾಗುತ್ತಿದೆ ಎಂಬುದರ ಸಂಕೇತ. ಈಗ, ಸ್ವಿಚ್ ಅನ್ನು 'OFF' ಮಾಡಿದರೆ, ವಿದ್ಯುತ್ ಪ್ರವಾಹ ನಿಲ್ಲುತ್ತದೆ. ತಕ್ಷಣವೇ, ತಂತಿಯು ತನ್ನ ಬಣ್ಣವನ್ನು ಕಳೆದುಕೊಂಡು ನಿಧಾನವಾಗಿ ತಣ್ಣಗಾಗಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಈ ವೀಕ್ಷಣೆಯು ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಮತ್ತು ಉಷ್ಣದ ನಡುವಿನ ನೇರ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸ್ವಿಚ್ 'ON' ಮಾಡಿದಾಗ: ನೈಕ್ರೋಮ್ ತಂತಿ ಬಿಸಿಯಾಗಿ, ಕೆಂಪಗೆ ಕಾಯುತ್ತದೆ.",
+    "ಸ್ವಿಚ್ 'OFF' ಮಾಡಿದಾಗ: ತಂತಿ ನಿಧಾನವಾಗಿ ತಣ್ಣಗಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up illustration of the nichrome wire from the circuit. The wire is glowing bright red-orange, indicating it is very hot.",
+    "labels": "ಬಿಸಿಯಾದ ನೈಕ್ರೋಮ್ ತಂತಿ",
+    "scientific_significance": "Visually represents the key observation of the experiment – the conversion of electrical energy into heat and light energy.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_10_concept_2_chunk_009"
+}

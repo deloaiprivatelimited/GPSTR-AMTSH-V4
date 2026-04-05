@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಭೂಮಿ ಮತ್ತು ಚಂದ್ರನ ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿ ಆರು ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ನಾಲ್ಕು ಮೂರು ಐದು ಗುಣಿಸು ಹತ್ತರ ಘಾತ ಇಪ್ಪತ್ತನಾಲ್ಕು ಕೆಜಿ ಆಗಿದೆ. ಈ ರೀತಿಯ ಸಮಸ್ಯೆಗಳಲ್ಲಿ, ಸಂಕಲನ ಅಥವಾ ವ್ಯವಕಲನ ಮಾಡುವ ಮೊದಲು ಹತ್ತರ ಘಾತಗಳನ್ನು ಸಮನಾಗಿಸುವುದು ಅತ್ಯಂತ ಪ್ರಮುಖ ಹಂತವಾಗಿದೆ. ಇದನ್ನು ಮರೆಯಬಾರದು.",
+  "script_display": "ಆದ್ದರಿಂದ, ಭೂಮಿ ಮತ್ತು ಚಂದ್ರನ ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿ $6.0435 \\times 10^{24}$ kg ಆಗಿದೆ. ಈ ರೀತಿಯ ಸಮಸ್ಯೆಗಳಲ್ಲಿ, ಸಂಕಲನ ಅಥವಾ ವ್ಯವಕಲನ ಮಾಡುವ ಮೊದಲು 10ರ ಘಾತಗಳನ್ನು ಸಮನಾಗಿಸುವುದು ಅತ್ಯಂತ ಪ್ರಮುಖ ಹಂತವಾಗಿದೆ. ಇದನ್ನು ಮರೆಯಬಾರದು.",
+  "display_bullets": [
+    "ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿ = $6.0435 \\times 10^{24}$ kg"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿ} = 6.0435 \\times 10^{24} \\text{ kg}",
+    "placeholder_note": "Display the final answer in a highlighted box."
+  },
+  "source_example_id": "NS-EXP-2_example_8",
+  "steps": [],
+  "final_answer": "ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿ 6.0435 x 10^24 kg.",
+  "final_answer_display": "ಒಟ್ಟು ದ್ರವ್ಯರಾಶಿ $6.0435 \\times 10^{24}$ kg.",
+  "chunk_id": "NS-EXP-2_concept_3_chunk_026"
+}

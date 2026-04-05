@@ -1,0 +1,92 @@
+{
+  "module_id": "std_6_chapter_7_concept_1",
+  "chapter_code": "std_6_chapter_7",
+  "voice": "Aoede",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:07:28",
+  "chunks": {
+    "003_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "442013228c1df0d0d09bcd0ac082872d",
+      "wav_file": "003_experiment_cont_0_1.wav",
+      "duration": 37.891,
+      "slide_title": "ಕಾರ್ಯವಿಧಾನ: ಮೊದಲ ಹಂತ",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:06:25"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "8c83f26e2faa5d6c33e2e9a84dafa85a",
+      "wav_file": "001_intro_0.wav",
+      "duration": 61.811,
+      "slide_title": "ತಾಪದ ಪರಿಕಲ್ಪನೆ ಮತ್ತು ಸ್ಪರ್ಶಜ್ಞಾನದ ಮಿತಿ",
+      "type": "intro",
+      "script_words": 88,
+      "generated_at": "2026-04-02 13:06:38"
+    },
+    "002_experiment_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "9d6dcda3ab9e3afb1bacf14d6d10c633",
+      "wav_file": "002_experiment_0.wav",
+      "duration": 40.531,
+      "slide_title": "ಚಟುವಟಿಕೆ 7.1: ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 13:06:52"
+    },
+    "004_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "aacf0d77d7c4f0addcba5c0c1fdc6fb2",
+      "wav_file": "004_experiment_cont_0_2.wav",
+      "duration": 32.411,
+      "slide_title": "ಕಾರ್ಯವಿಧಾನ: ಎರಡನೇ ಹಂತ",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:06:58"
+    },
+    "005_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "6f592ce362c540cbc798976093d022e9",
+      "wav_file": "005_experiment_cont_0_3.wav",
+      "duration": 36.011,
+      "slide_title": "ವೀಕ್ಷಣೆ: ಒಂದು ನೀರು, ಎರಡು ಅನುಭವ",
+      "type": "concept_explanation",
+      "script_words": 48,
+      "generated_at": "2026-04-02 13:07:00"
+    },
+    "006_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "0c04583ad767c87d54f08ffac0f394bc",
+      "wav_file": "006_experiment_cont_0_4.wav",
+      "duration": 40.571,
+      "slide_title": "ತೀರ್ಮಾನ: ಸ್ಪರ್ಶಜ್ಞಾನವು ವಿಶ್ವಾಸಾರ್ಹವಲ್ಲ",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 13:07:25"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Aoede",
+      "script_hash": "5580a90dff28d8c7571f8011375c118b",
+      "wav_file": "007_recap_0.wav",
+      "duration": 47.251,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 57,
+      "generated_at": "2026-04-02 13:07:28"
+    }
+  }
+}

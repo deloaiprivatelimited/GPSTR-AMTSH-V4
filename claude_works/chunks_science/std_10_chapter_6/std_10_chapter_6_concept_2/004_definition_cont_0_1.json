@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಪರಾವರ್ತಿತ ಕ್ರಿಯೆ",
+  "script": "ಮೊದಲಿಗೆ, ಪರಾವರ್ತಿತ ಕ್ರಿಯೆಯ ನಿಖರವಾದ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. ಪ್ರಚೋದನೆಯೊಂದಕ್ಕೆ ಪ್ರತಿಯಾಗಿ ವ್ಯಕ್ತವಾಗುವ ಹಠಾತ್, ಅನೈಚ್ಛಿಕ ಮತ್ತು ವೇಗದ ಪ್ರತಿಕ್ರಿಯೆಯೇ ಪರಾವರ್ತಿತ ಕ್ರಿಯೆ. ಈ ವ್ಯಾಖ್ಯಾನದಲ್ಲಿ ಮೂರು ಪ್ರಮುಖ ಪದಗಳಿವೆ, ಅವುಗಳನ್ನು ಗಮನಿಸಬೇಕು. ಮೊದಲನೆಯದು, ಇದು ಹಠಾತ್ ಆಗಿ ನಡೆಯುತ್ತದೆ. ಎರಡನೆಯದು, ಇದು ಅನೈಚ್ಛಿಕ, ಅಂದರೆ ನಮ್ಮ ಇಚ್ಛೆಯ ನಿಯಂತ್ರಣದಲ್ಲಿ ಇರುವುದಿಲ್ಲ. ಮತ್ತು ಮೂರನೆಯದು, ಇದು ಅತ್ಯಂತ ವೇಗವಾಗಿರುತ್ತದೆ. ಈ ಮೂರು ಗುಣಲಕ್ಷಣಗಳು ಪರಾವರ್ತಿತ ಕ್ರಿಯೆಯನ್ನು ನಮ್ಮ ಇತರ ಕ್ರಿಯೆಗಳಿಂದ ಪ್ರತ್ಯೇಕಿಸುತ್ತವೆ.",
+  "script_display": "ಪ್ರಚೋದನೆಯೊಂದಕ್ಕೆ ಪ್ರತಿಯಾಗಿ ವ್ಯಕ್ತವಾಗುವ ಹಠಾತ್, ಅನೈಚ್ಛಿಕ ಮತ್ತು ವೇಗದ ಪ್ರತಿಕ್ರಿಯೆಯೇ ಪರಾವರ್ತಿತ ಕ್ರಿಯೆ (Reflex Action).",
+  "display_bullets": [
+    "ಹಠಾತ್ (Sudden)",
+    "ಅನೈಚ್ಛಿಕ (Involuntary)",
+    "ವೇಗದ (Fast)"
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "term_definition_bullets",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_10_chapter_6_concept_2_chunk_004"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಅಂತಿಮ ಹಂತ",
+  "script": "ಈಗ ನಾವು ಅಂತಿಮ ಹಂತಕ್ಕೆ ಬಂದಿದ್ದೇವೆ. ನಮಗೆ ಸೆಕ್ ತೀಟಾ ಪ್ಲಸ್ ಟ್ಯಾನ್ ತೀಟಾ ಸಿಕ್ಕಿದೆ. ಆದರೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು 1 ಭಾಗಿಸು ಸೆಕ್ ತೀಟಾ ಮೈನಸ್ ಟ್ಯಾನ್ ತೀಟಾ. ಇದನ್ನು ಪಡೆಯಲು, ಐದನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಸೆಕ್ ತೀಟಾ ಪ್ಲಸ್ ಟ್ಯಾನ್ ತೀಟಾ ವನ್ನು ಸೆಕ್ ತೀಟಾ ಮೈನಸ್ ಟ್ಯಾನ್ ತೀಟಾ ದಿಂದ ಗುಣಿಸಿ ಮತ್ತು ಭಾಗಿಸೋಣ. ಅಂಶದಲ್ಲಿ, ಇದು ಎ ಪ್ಲಸ್ ಬಿ ಗುಣಿಸು ಎ ಮೈನಸ್ ಬಿ ರೂಪದಲ್ಲಿದೆ, ಅದು ಎ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಬಿ ಸ್ಕ್ವೇರ್ಡ್ ಆಗುತ್ತದೆ, ಅಂದರೆ ಸೆಕ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಮೈನಸ್ ಟ್ಯಾನ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ. ಛೇದದಲ್ಲಿ ಸೆಕ್ ತೀಟಾ ಮೈನಸ್ ಟ್ಯಾನ್ ತೀಟಾ ಉಳಿಯುತ್ತದೆ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, ಸೆಕ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಮೈನಸ್ ಟ್ಯಾನ್ ಸ್ಕ್ವೇರ್ಡ್ ತೀಟಾ ಎಂಬುದು 1. ಆದ್ದರಿಂದ, ಅಂತಿಮವಾಗಿ ನಮಗೆ 1 ಭಾಗಿಸು ಸೆಕ್ ತೀಟಾ ಮೈನಸ್ ಟ್ಯಾನ್ ತೀಟಾ ಸಿಗುತ್ತದೆ. ಇದು ನಮ್ಮ ಬಲಭಾಗ, ಅಂದರೆ ಆರ್ ಎಚ್ ಎಸ್ ಆಗಿದೆ.",
+  "script_display": "ಈಗ ನಾವು ಅಂತಿಮ ಹಂತಕ್ಕೆ ಬಂದಿದ್ದೇವೆ. ನಮಗೆ $\\sec \\theta + \\tan \\theta$ ಸಿಕ್ಕಿದೆ. ಆದರೆ ನಮಗೆ ಬೇಕಾಗಿರುವುದು $\\frac{1}{\\sec \\theta - \\tan \\theta}$. ಇದನ್ನು ಪಡೆಯಲು, ಐದನೇ ಹಂತದಲ್ಲಿ, ನಾವು $(\\sec \\theta + \\tan \\theta)$ ವನ್ನು $(\\sec \\theta - \\tan \\theta)$ ದಿಂದ ಗುಣಿಸಿ ಮತ್ತು ಭಾಗಿಸೋಣ. ಅಂಶದಲ್ಲಿ, ಇದು $(a+b)(a-b)$ ರೂಪದಲ್ಲಿದೆ, ಅದು $a^2 - b^2$ ಆಗುತ್ತದೆ, ಅಂದರೆ $\\sec^2 \\theta - \\tan^2 \\theta$. ಛೇದದಲ್ಲಿ $\\sec \\theta - \\tan \\theta$ ಉಳಿಯುತ್ತದೆ. ನಮಗೆ ತಿಳಿದಿರುವಂತೆ, $\\sec^2 \\theta - \\tan^2 \\theta$ ಎಂಬುದು 1. ಆದ್ದರಿಂದ, ಅಂತಿಮವಾಗಿ ನಮಗೆ $\\frac{1}{\\sec \\theta - \\tan \\theta}$ ಸಿಗುತ್ತದೆ. ಇದು ನಮ್ಮ ಬಲಭಾಗ, ಅಂದರೆ RHS ಆಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "TRI-INTRO-1_example_12",
+  "steps": [
+    {
+      "step": 5,
+      "action_display": "LHS = $(\\sec \\theta + \\tan \\theta) \\times \\frac{(\\sec \\theta - \\tan \\theta)}{(\\sec \\theta - \\tan \\theta)} \\newline = \\frac{\\sec^2 \\theta - \\tan^2 \\theta}{\\sec \\theta - \\tan \\theta} = \\frac{1}{\\sec \\theta - \\tan \\theta}$",
+      "justification": "ಅಂಶ ಮತ್ತು ಛೇದವನ್ನು $(\\sec \\theta - \\tan \\theta)$ ದಿಂದ ಗುಣಿಸುವುದು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_041"
+}

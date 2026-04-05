@@ -1,0 +1,180 @@
+{
+  "module_id": "RPP-COMP-1_concept_2",
+  "merge_code": "RPP-COMP-1",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 15,
+  "ok_count": 15,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 15:48:03",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "c91708d3dbff8c7e2eb4512c116ed19e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 27.171,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 45,
+      "generated_at": "2026-03-30 15:45:21"
+    },
+    "004_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "f6c46597f7d5516dfaa548f50f4193b9",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "duration": 44.131,
+      "slide_title": "ಶೇಕಡಾವಾರು ಏರಿಕೆ ಸೂತ್ರ",
+      "type": "concept_explanation",
+      "script_words": 69,
+      "generated_at": "2026-03-30 15:45:31"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "4b8b7ac04d5156fb266907396e4a8fad",
+      "wav_file": "001_intro_0.wav",
+      "duration": 46.691,
+      "slide_title": "ಶೇಕಡಾವಾರು ಏರಿಕೆ ಮತ್ತು ಇಳಿಕೆ",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-03-30 15:45:34"
+    },
+    "003_formula_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "6925b40998df4b9a19b2d107d34db069",
+      "wav_file": "003_formula_0.wav",
+      "duration": 53.131,
+      "slide_title": "ಶೇಕಡಾವಾರು ಏರಿಕೆ: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-03-30 15:45:43"
+    },
+    "005_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "d79007134bd55a643d3343ea367e80cc",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "duration": 46.171,
+      "slide_title": "ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-03-30 15:45:57"
+    },
+    "009_formula_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "af1d029767b8e5b5c2ed5c0f9d6fc6d0",
+      "wav_file": "009_formula_cont_1_1.wav",
+      "duration": 45.851,
+      "slide_title": "ಉದಾಹರಣೆ: ಶೇಕಡಾ ಇಳಿಕೆ ಲೆಕ್ಕಾಚಾರ",
+      "type": "concept_explanation",
+      "script_words": 75,
+      "generated_at": "2026-03-30 15:46:29"
+    },
+    "006_formula_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "26b91f16871e495085799e1d7c4795d7",
+      "wav_file": "006_formula_cont_0_3.wav",
+      "duration": 53.971,
+      "slide_title": "ಉದಾಹರಣೆ: ಹಂತ ಹಂತದ ಪರಿಹಾರ",
+      "type": "concept_explanation",
+      "script_words": 79,
+      "generated_at": "2026-03-30 15:46:36"
+    },
+    "007_formula_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "03132cfdcf06d13e9b33bedd4d08f45a",
+      "wav_file": "007_formula_cont_0_4.wav",
+      "duration": 53.251,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶ ಮತ್ತು ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "concept_explanation",
+      "script_words": 77,
+      "generated_at": "2026-03-30 15:46:42"
+    },
+    "008_formula_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "1eafa5ab32e0fe688d2f6750ac4a249f",
+      "wav_file": "008_formula_1.wav",
+      "duration": 60.011,
+      "slide_title": "ಶೇಕಡಾವಾರು ಇಳಿಕೆ (Percentage Decrease)",
+      "type": "concept_explanation",
+      "script_words": 76,
+      "generated_at": "2026-03-30 15:46:46"
+    },
+    "010_formula_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "0eb54f17b9f4fe71a0589b2c84dbf8c5",
+      "wav_file": "010_formula_cont_1_2.wav",
+      "duration": 44.411,
+      "slide_title": "ಪ್ರಮುಖ ಗಮನಿಸಬೇಕಾದ ಅಂಶ",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-03-30 15:46:58"
+    },
+    "014_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "eccd8f32064eac4f52a9168a8684cd59",
+      "wav_file": "014_example_cont_0_2.wav",
+      "duration": 23.571,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 29,
+      "generated_at": "2026-03-30 15:47:14"
+    },
+    "012_example_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "ecc03d9e962c9b28c5f34636304448eb",
+      "wav_file": "012_example_0.wav",
+      "duration": 28.571,
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+      "type": "worked_example",
+      "script_words": 37,
+      "generated_at": "2026-03-30 15:47:20"
+    },
+    "013_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "2632481bb95bdfd88f91499e2e291729",
+      "wav_file": "013_example_cont_0_1.wav",
+      "duration": 55.371,
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ ಹಂತವಾಗಿ",
+      "type": "worked_example",
+      "script_words": 75,
+      "generated_at": "2026-03-30 15:47:43"
+    },
+    "011_formula_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "4bbcfd536cf6b1d4b89b41938b9555f9",
+      "wav_file": "011_formula_cont_1_3.wav",
+      "duration": 65.091,
+      "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "concept_explanation",
+      "script_words": 96,
+      "generated_at": "2026-03-30 15:47:46"
+    },
+    "015_recap_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "ccd3af2868311b82034ddf20edbf5d7b",
+      "wav_file": "015_recap_0.wav",
+      "duration": 42.931,
+      "slide_title": "ಸಾರಾಂಶ: ಶೇಕಡಾವಾರು ಏರಿಕೆ ಮತ್ತು ಇಳಿಕೆ",
+      "type": "recap",
+      "script_words": 56,
+      "generated_at": "2026-03-30 15:48:03"
+    }
+  }
+}

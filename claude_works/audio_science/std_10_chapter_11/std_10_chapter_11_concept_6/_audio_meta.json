@@ -1,0 +1,180 @@
+{
+  "module_id": "std_10_chapter_11_concept_6",
+  "chapter_code": "std_10_chapter_11",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 15,
+  "ok_count": 15,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:25:22",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "b41e900240463bbaf8716c069d662a5e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.651,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 38,
+      "generated_at": "2026-04-02 11:22:31"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "19074265563bc2671fc46b81deac558b",
+      "wav_file": "001_intro_0.wav",
+      "duration": 48.771,
+      "slide_title": "ರೋಧಕಗಳ ಸಮಾಂತರ ಸಂಯೋಜನೆ",
+      "type": "chunk",
+      "script_words": 81,
+      "generated_at": "2026-04-02 11:22:45"
+    },
+    "003_formula_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "4342b37b26f36be9adce09bcf581319b",
+      "wav_file": "003_formula_0.wav",
+      "duration": 53.251,
+      "slide_title": "ಸಮಾಂತರ ಸಂಯೋಜನೆಯ ಸಮಾನ ರೋಧ",
+      "type": "concept_explanation",
+      "script_words": 80,
+      "generated_at": "2026-04-02 11:22:49"
+    },
+    "004_formula_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "3d6f780bb0d951515844d12aea4ea285",
+      "wav_file": "004_formula_cont_0_1.wav",
+      "duration": 61.411,
+      "slide_title": "ಉದಾಹರಣೆ: ಸಮಾನ ರೋಧದ ಲೆಕ್ಕಾಚಾರ",
+      "type": "concept_explanation",
+      "script_words": 90,
+      "generated_at": "2026-04-02 11:22:56"
+    },
+    "009_example_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "8224b656c6cf7b08c0805e72810c8645",
+      "wav_file": "009_example_0.wav",
+      "duration": 25.651,
+      "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಸಮಾಂತರ ರೋಧಕಗಳು",
+      "type": "worked_example",
+      "script_words": 40,
+      "generated_at": "2026-04-02 11:23:25"
+    },
+    "006_property_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "3f3fddbc3514cc6af98518bd508b150e",
+      "wav_file": "006_property_0.wav",
+      "duration": 52.011,
+      "slide_title": "ಸಮಾಂತರ ಸಂಯೋಜನೆಯ ಗುಣಲಕ್ಷಣಗಳು: ವಿಭವಾಂತರ ಮತ್ತು ಪ್ರವಾಹ",
+      "type": "concept_explanation",
+      "script_words": 79,
+      "generated_at": "2026-04-02 11:23:27"
+    },
+    "005_formula_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "230b24adac9c6af534a6c05c0f3135c5",
+      "wav_file": "005_formula_cont_0_2.wav",
+      "duration": 57.971,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶಗಳು ಮತ್ತು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+      "type": "concept_explanation",
+      "script_words": 84,
+      "generated_at": "2026-04-02 11:23:46"
+    },
+    "008_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "a620221be188100b271911b0b88f532c",
+      "wav_file": "008_property_cont_0_2.wav",
+      "duration": 50.891,
+      "slide_title": "ಸಮಾಂತರ ಸಂಯೋಜನೆಯ ದೃಶ್ಯೀಕರಣ",
+      "type": "concept_explanation",
+      "script_words": 83,
+      "generated_at": "2026-04-02 11:23:47"
+    },
+    "007_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "1c112b40b0ba26682a95c95e892dd515",
+      "wav_file": "007_property_cont_0_1.wav",
+      "duration": 50.611,
+      "slide_title": "ಸಮಾಂತರ ಸಂಯೋಜನೆಯ ಗುಣಲಕ್ಷಣಗಳು: ಸಮಾನ ರೋಧ",
+      "type": "concept_explanation",
+      "script_words": 77,
+      "generated_at": "2026-04-02 11:23:50"
+    },
+    "010_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "5f0809d66589fffe85a982336548d1c8",
+      "wav_file": "010_example_cont_0_1.wav",
+      "duration": 49.971,
+      "slide_title": "ಹಂತ 1: ಪ್ರತಿ ರೋಧಕದ ಮೂಲಕ ಪ್ರವಾಹ (a)",
+      "type": "worked_example",
+      "script_words": 76,
+      "generated_at": "2026-04-02 11:24:17"
+    },
+    "013_example_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "cd0e2c843cb40956d04301bf50199957",
+      "wav_file": "013_example_cont_0_4.wav",
+      "duration": 32.811,
+      "slide_title": "ಹಂತ 3: ಒಟ್ಟು ರೋಧ (ಮುಂದುವರಿದಿದೆ)",
+      "type": "worked_example",
+      "script_words": 52,
+      "generated_at": "2026-04-02 11:24:30"
+    },
+    "012_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "9b8a01368207d5e3c722e766ff00db8b",
+      "wav_file": "012_example_cont_0_3.wav",
+      "duration": 33.651,
+      "slide_title": "ಹಂತ 3: ಮಂಡಲದ ಒಟ್ಟು ರೋಧ (c)",
+      "type": "worked_example",
+      "script_words": 63,
+      "generated_at": "2026-04-02 11:24:31"
+    },
+    "014_example_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "95728d803ab6590428da5aa560ea369d",
+      "wav_file": "014_example_cont_0_5.wav",
+      "duration": 37.611,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖಾಂಶ",
+      "type": "worked_example",
+      "script_words": 64,
+      "generated_at": "2026-04-02 11:24:35"
+    },
+    "011_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "deb7a53d8f1b54498ea6ac63ba0566e6",
+      "wav_file": "011_example_cont_0_2.wav",
+      "duration": 39.611,
+      "slide_title": "ಹಂತ 2: ಮಂಡಲದ ಒಟ್ಟು ಪ್ರವಾಹ (b)",
+      "type": "worked_example",
+      "script_words": 54,
+      "generated_at": "2026-04-02 11:24:36"
+    },
+    "015_recap_0.json": {
+      "status": "ok",
+      "voice": "Enceladus",
+      "script_hash": "f84f90f5f5bbdb8474b730d81965a268",
+      "wav_file": "015_recap_0.wav",
+      "duration": 52.851,
+      "slide_title": "ಸಾರಾಂಶ: ರೋಧಕಗಳ ಸಮಾಂತರ ಸಂಯೋಜನೆ",
+      "type": "recap",
+      "script_words": 66,
+      "generated_at": "2026-04-02 11:25:22"
+    }
+  }
+}

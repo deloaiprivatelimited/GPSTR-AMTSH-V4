@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು",
+  "script": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಗೊಂದಲಕ್ಕೀಡುಮಾಡುವ ಒಂದು ಸಾಮಾನ್ಯ ಅಂಶವನ್ನು ಗಮನಿಸೋಣ. ಒಂದು ಬೀಜೋಕ್ತಿ ಬಹುಪದೋಕ್ತಿ ಹೌದೋ ಅಲ್ಲವೋ ಎಂದು ನಿರ್ಧರಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಉದಾಹರಣೆಗೆ, ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ 3, x ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ 5. ಇಲ್ಲಿ ಸಹಗುಣಕವು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿದ್ದರೂ, ಚರಾಕ್ಷರ x ನ ಘಾತ 2, ಒಂದು ಪೂರ್ಣಾಂಕ. ಹಾಗಾಗಿ ಇದು ಬಹುಪದೋಕ್ತಿ ಮತ್ತು ಇದರ ಡಿಗ್ರಿ 2. ಆದರೆ, x ಪ್ಲಸ್ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ x ಅನ್ನು ನೋಡಿ. ಇದನ್ನು x to the power 1 ಪ್ಲಸ್ x to the power 1 by 2 ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ಘಾತ 1 by 2 ಪೂರ್ಣಾಂಕವಲ್ಲ. ಆದ್ದರಿಂದ ಇದು ಬಹುಪದೋಕ್ತಿಯೇ ಅಲ್ಲ. ಒಂದು ಬೀಜೋಕ್ತಿ ಬಹುಪದೋಕ್ತಿಯಾಗಬೇಕಾದರೆ, ಚರಾಕ್ಷರದ ಎಲ್ಲಾ ಘಾತಗಳು ಪೂರ್ಣಾಂಕಗಳಾಗಿರಬೇಕು.",
+  "script_display": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಗೊಂದಲಕ್ಕೀಡುಮಾಡುವ ಒಂದು ಸಾಮಾನ್ಯ ಅಂಶವನ್ನು ಗಮನಿಸೋಣ. ಒಂದು ಬೀಜೋಕ್ತಿ ಬಹುಪದೋಕ್ತಿ ಹೌದೋ ಅಲ್ಲವೋ ಎಂದು ನಿರ್ಧರಿಸುವುದು ಬಹಳ ಮುಖ್ಯ. ಉದಾಹರಣೆಗೆ, $\\sqrt{3}x^2 + 5$. ಇಲ್ಲಿ ಸಹಗುಣಕವು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿದ್ದರೂ, ಚರಾಕ್ಷರ $x$ ನ ಘಾತ 2, ಒಂದು ಪೂರ್ಣಾಂಕ. ಹಾಗಾಗಿ ಇದು ಬಹುಪದೋಕ್ತಿ ಮತ್ತು ಇದರ ಡಿಗ್ರಿ 2. ಆದರೆ, $x + \\sqrt{x}$ ಅನ್ನು ನೋಡಿ. ಇದನ್ನು $x^1 + x^{1/2}$ ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಇಲ್ಲಿ ಘಾತ $1/2$ ಪೂರ್ಣಾಂಕವಲ್ಲ. ಆದ್ದರಿಂದ ಇದು ಬಹುಪದೋಕ್ತಿಯೇ ಅಲ್ಲ. ಒಂದು ಬೀಜೋಕ್ತಿ ಬಹುಪದೋಕ್ತಿಯಾಗಬೇಕಾದರೆ, ಚರಾಕ್ಷರದ ಎಲ್ಲಾ ಘಾತಗಳು ಪೂರ್ಣಾಂಕಗಳಾಗಿರಬೇಕು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "classic_dark",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "split_panel",
+    "status": "ready",
+    "render_target": "katex",
+    "placeholder_note": "A two-column layout comparing a valid polynomial with an invalid one for degree calculation. Left side shows a polynomial with an irrational coefficient. Right side shows an expression that is not a polynomial because of a fractional exponent on the variable. Both are explained in the script and display_bullets. The visual should clearly label 'Polynomial' and 'Not a Polynomial'. The key difference (exponent being a whole number vs. not) should be highlighted visually, perhaps with a red circle or arrow pointing to the exponent 1/2 on the right side. The title for the left column should be 'ಬಹುಪದೋಕ್ತಿ ಹೌದು' and for the right column 'ಬಹುಪದೋಕ್ತಿ ಅಲ್ಲ'. Left content: '$\\sqrt{3}x^2 + 5$'. Explanation: 'ಸಹಗುಣಕ $\\sqrt{3}$ ಅಭಾಗಲಬ್ಧ, ಆದರೆ $x$ ನ ಘಾತ 2 ಪೂರ್ಣಾಂಕವಾಗಿದೆ. ಡಿಗ್ರಿ = 2'. Right content: '$x + \\sqrt{x}$'. Explanation: '$x^1 + x^{1/2}$. $x$ ನ ಘಾತ $1/2$ ಪೂರ್ಣಾಂಕವಲ್ಲ. ಆದ್ದರಿಂದ ಇದು ಬಹುಪದೋಕ್ತಿಯಲ್ಲ.'."
+  },
+  "exam_tip": {
+    "question_pattern": "MCQ",
+    "skill_tested": "ಒಂದು ಬೀಜೋಕ್ತಿ ಬಹುಪದೋಕ್ತಿ ಹೌದೋ ಅಲ್ಲವೋ ಮತ್ತು ಅದರ ಡಿಗ್ರಿಯನ್ನು ಗುರುತಿಸುವುದು.",
+    "distractor": "ಚರಾಕ್ಷರದ ಮೇಲೆ ವರ್ಗಮೂಲ (square root) ಅಥವಾ ಛೇದದಲ್ಲಿ ಚರಾಕ್ಷರ ಇರುವ ಬೀಜೋಕ್ತಿಗಳು (ಉದಾ: $x + 1/x$).",
+    "why_distractor_works": "ವಿದ್ಯಾರ್ಥಿಗಳು ಸಹಗುಣಕದ ಮೇಲಿನ ವರ್ಗಮೂಲ (ಉದಾ: $\\sqrt{2}x$) ಮತ್ತು ಚರಾಕ್ಷರದ ಮೇಲಿನ ವರ್ಗಮೂಲ (ಉದಾ: $\\sqrt{x}$) ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಗೊಂದಲ ಮಾಡಿಕೊಳ್ಳಬಹುದು. ಬಹುಪದೋಕ್ತಿಯಾಗಲು ಚರಾಕ್ಷರದ ಘಾತವು ಪೂರ್ಣಾಂಕವಾಗಿರಬೇಕು ಎಂಬ ನಿಯಮವನ್ನು ಮರೆಯಬಹುದು."
+  },
+  "chunk_id": "ALG-POL-3_concept_1_chunk_023"
+}

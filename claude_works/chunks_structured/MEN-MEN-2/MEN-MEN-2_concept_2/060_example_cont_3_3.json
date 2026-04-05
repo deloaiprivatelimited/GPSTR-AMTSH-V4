@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದಂತೆ, ಕೊಟ್ಟಿರುವ ಕೊಳವೆಯ ಎತ್ತರ 15 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಸರಿಯಾದ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು ಮತ್ತು ಬೀಜಗಣಿತದ ಹಂತಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಮಾಡುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಹೀಗೆ, ನಾವು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿದಂತೆ, ಕೊಟ್ಟಿರುವ ಕೊಳವೆಯ ಎತ್ತರ 15 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಸರಿಯಾದ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು ಮತ್ತು ಬೀಜಗಣಿತದ ಹಂತಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಮಾಡುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಕೊಳವೆಯ ಎತ್ತರ (h) = 15 ಸೆಂ.ಮೀ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "MEN-MEN-2_example_7",
+  "final_answer": "ಕೊಳವೆಯ ಎತ್ತರ 15 ಸೆಂ.ಮೀ.",
+  "final_answer_display": "h = 15 \\text{ ಸೆಂ.ಮೀ.}",
+  "chunk_id": "MEN-MEN-2_concept_2_chunk_060"
+}

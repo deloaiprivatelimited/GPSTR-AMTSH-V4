@@ -1,0 +1,123 @@
+{
+  "module_id": "std_7_chapter_3_concept_7",
+  "chapter_code": "std_7_chapter_3",
+  "voice": "Iapetus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 10,
+  "total_duration": 412.55,
+  "total_duration_formatted": "6:52",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_3_concept_7_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಬಣ್ಣ, ಉಡುಪು ಮತ್ತು ಉಷ್ಣ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 50.331,
+      "duration": 50.331,
+      "script_words": 85
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_7_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 50.931,
+      "end": 77.222,
+      "duration": 26.291,
+      "script_words": 39
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_7_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ದಟ್ಟ ಬಣ್ಣದ ಮೇಲ್ಮೈಗಳು",
+      "type": "concept_explanation",
+      "start": 77.822,
+      "end": 130.153,
+      "duration": 52.331,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_7_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ತಿಳಿ ಬಣ್ಣದ ಮೇಲ್ಮೈಗಳು",
+      "type": "concept_explanation",
+      "start": 130.753,
+      "end": 179.364,
+      "duration": 48.611,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_7_chunk_005",
+      "chunk_file": "005_experiment_0.json",
+      "wav_file": "005_experiment_0.wav",
+      "slide_title": "ಚಟುವಟಿಕೆ: ಬಣ್ಣ ಮತ್ತು ಉಷ್ಣ",
+      "type": "experiment_activity",
+      "start": 179.964,
+      "end": 224.015,
+      "duration": 44.051,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_7_chunk_006",
+      "chunk_file": "006_experiment_cont_0_1.json",
+      "wav_file": "006_experiment_cont_0_1.wav",
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ - ಭಾಗ 1: ಉಷ್ಣ ಹೀರುವಿಕೆ",
+      "type": "experiment_activity",
+      "start": 224.615,
+      "end": 258.386,
+      "duration": 33.771,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_7_chunk_007",
+      "chunk_file": "007_experiment_cont_0_2.json",
+      "wav_file": "007_experiment_cont_0_2.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ: ಯಾವುದು ಹೆಚ್ಚು ಬಿಸಿಯಾಗಿದೆ?",
+      "type": "experiment_activity",
+      "start": 258.986,
+      "end": 295.317,
+      "duration": 36.331,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_7_chunk_008",
+      "chunk_file": "008_experiment_cont_0_3.json",
+      "wav_file": "008_experiment_cont_0_3.wav",
+      "slide_title": "ಪ್ರಯೋಗದ ವಿಧಾನ - ಭಾಗ 2: ಉಷ್ಣ ಹೊರಸೂಸುವಿಕೆ",
+      "type": "experiment_activity",
+      "start": 295.917,
+      "end": 327.528,
+      "duration": 31.611,
+      "script_words": 50
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_7_chunk_009",
+      "chunk_file": "009_experiment_cont_0_4.json",
+      "wav_file": "009_experiment_cont_0_4.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "start": 328.128,
+      "end": 366.779,
+      "duration": 38.651,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_7_chapter_3_concept_7_chunk_010",
+      "chunk_file": "010_recap_0.json",
+      "wav_file": "010_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಬಣ್ಣ, ಉಡುಪು ಮತ್ತು ಉಷ್ಣ",
+      "type": "recap",
+      "start": 367.379,
+      "end": 411.95,
+      "duration": 44.571,
+      "script_words": 59
+    }
+  ]
+}

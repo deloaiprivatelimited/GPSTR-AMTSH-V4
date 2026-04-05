@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ: ಝೆಡ್ ಎನ್, ಇದು ಘನ ರೂಪದಲ್ಲಿದೆ, ಪ್ಲಸ್ ಟು ಎಚ್ ಸಿ ಎಲ್, ಇದು ಜಲೀಯ ದ್ರಾವಣ, ಗಿವ್ಸ್ ಝೆಡ್ ಎನ್ ಸಿ ಎಲ್ ಟು, ಇದು ಕೂಡ ಜಲೀಯ ದ್ರಾವಣ, ಪ್ಲಸ್ ಎಚ್ ಟು, ಇದು ಅನಿಲ ರೂಪದಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯ ಸರಿದೂಗಿಸಿದ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ ಹೀಗಿದೆ:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "chemistry_green",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Zn(s) + 2HCl(aq) \\rightarrow ZnCl_2(aq) + H_2(g)",
+    "placeholder_note": "Balanced chemical equation for the reaction of Zinc with Hydrochloric acid."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_006"
+}

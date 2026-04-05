@@ -16,8 +16,8 @@ CREDENTIALS_FOLDER = "claude_works/credentials"
 MODULES_FOLDER = "claude_works/modules"
 CHUNKS_FOLDER = "claude_works/chunks_structured"
 
-MAX_WORKERS_PER_PROJECT = 4
-DEBUG = True
+MAX_WORKERS_PER_PROJECT = 3
+DEBUG = False
 
 # -----------------------------
 # MULTI-PROJECT INIT

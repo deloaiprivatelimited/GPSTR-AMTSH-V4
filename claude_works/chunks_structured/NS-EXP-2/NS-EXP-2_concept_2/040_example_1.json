@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: m ನ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಮೈನಸ್ ಮೂರರ ಘಾತ ಎಂ ಪ್ಲಸ್ ಒಂದು, ಗುಣಿಸು ಮೈನಸ್ ಮೂರರ ಘಾತ ಐದು, ಸಮ ಮೈನಸ್ ಮೂರರ ಘಾತ ಏಳು, ಆದಾಗ ಎಂ ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ಸಮೀಕರಣವನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ಅದರಲ್ಲಿರುವ ಅಜ್ಞಾತ 'ಎಂ' ನ ಮೌಲ್ಯವನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $(-3)^{m+1} \\times (-3)^5 = (-3)^7$ ಆದಾಗ m ನ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ಸಮೀಕರಣವನ್ನು ನೀಡಲಾಗಿದೆ ಮತ್ತು ಅದರಲ್ಲಿರುವ ಅಜ್ಞಾತ 'm' ನ ಮೌಲ್ಯವನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಸಮೀಕರಣ: $(-3)^{m+1} \\times (-3)^5 = (-3)^7$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: 'm' ನ ಬೆಲೆ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "$$(-3)^{m+1} \\times (-3)^5 = (-3)^7$$",
+    "placeholder_note": "Display the problem equation prominently."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-EXP-2_example_4",
+  "chunk_id": "NS-EXP-2_concept_2_chunk_040"
+}

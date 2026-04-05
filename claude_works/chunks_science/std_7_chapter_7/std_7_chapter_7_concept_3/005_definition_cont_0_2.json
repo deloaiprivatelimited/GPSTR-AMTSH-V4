@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ನಿರಂತರ ಬಡಿತ: ಹೃದಯ ಬಡಿತ",
+  "script": "ಹೃದಯದ ಮತ್ತೊಂದು ವಿಶೇಷತೆ ಅದರ ನಿರಂತರ ಬಡಿತ. ಹೃದಯದ ಸ್ನಾಯುಗಳು ಲಯಬದ್ಧವಾಗಿ ಸಂಕೋಚನ ಮತ್ತು ವಿಕಸನಗೊಳ್ಳುತ್ತವೆ. ಈ ಒಂದು ಸಂಕೋಚನ ಮತ್ತು ಒಂದು ವಿಕಸನವನ್ನು ಒಟ್ಟಾಗಿ ಒಂದು 'ಹೃದಯ ಬಡಿತ' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದು ನಮ್ಮ ಜೀವಿತಾವಧಿಯುದ್ದಕ್ಕೂ, ಅಂದರೆ ಹುಟ್ಟಿನಿಂದ ಸಾವಿನವರೆಗೂ ಒಂದು ಕ್ಷಣವೂ ನಿಲ್ಲದೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ, ಆರೋಗ್ಯವಂತ ವಯಸ್ಕರು ವಿಶ್ರಾಂತಿಯಲ್ಲಿರುವಾಗ, ಅವರ ಹೃದಯವು ನಿಮಿಷಕ್ಕೆ ಸುಮಾರು ಎಪ್ಪತ್ತೆರಡು ಬಾರಿ ಬಡಿಯುತ್ತದೆ. ಈ ನಿರಂತರ ಕ್ರಿಯೆಯೇ ನಮ್ಮನ್ನು ಜೀವಂತವಾಗಿರಿಸುತ್ತದೆ.",
+  "script_display": "ಹೃದಯದ ಮತ್ತೊಂದು ವಿಶೇಷತೆ ಅದರ ನಿರಂತರ ಬಡಿತ. ಹೃದಯದ ಸ್ನಾಯುಗಳು ಲಯಬದ್ಧವಾಗಿ ಸಂಕೋಚನ ಮತ್ತು ವಿಕಸನಗೊಳ್ಳುತ್ತವೆ. ಈ ಒಂದು ಸಂಕೋಚನ ಮತ್ತು ಒಂದು ವಿಕಸನವನ್ನು ಒಟ್ಟಾಗಿ ಒಂದು 'ಹೃದಯ ಬಡಿತ' (Heartbeat) ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದು ನಮ್ಮ ಜೀವಿತಾವಧಿಯುದ್ದಕ್ಕೂ, ಅಂದರೆ ಹುಟ್ಟಿನಿಂದ ಸಾವಿನವರೆಗೂ ಒಂದು ಕ್ಷಣವೂ ನಿಲ್ಲದೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ, ಆರೋಗ್ಯವಂತ ವಯಸ್ಕರು ವಿಶ್ರಾಂತಿಯಲ್ಲಿರುವಾಗ, ಅವರ ಹೃದಯವು ನಿಮಿಷಕ್ಕೆ ಸುಮಾರು 72 ಬಾರಿ ಬಡಿಯುತ್ತದೆ. ಈ ನಿರಂತರ ಕ್ರಿಯೆಯೇ ನಮ್ಮನ್ನು ಜೀವಂತವಾಗಿರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹೃದಯದ ಲಯಬದ್ಧ ಸಂಕೋಚನ ಮತ್ತು ವಿಕಸನವನ್ನು 'ಹೃದಯ ಬಡಿತ' ಎನ್ನುತ್ತಾರೆ.",
+    "ಇದು ಹುಟ್ಟಿನಿಂದ ಸಾವಿನವರೆಗೂ ಒಂದು ಕ್ಷಣವೂ ನಿಲ್ಲದೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+    "ವಿಶ್ರಾಂತ ಸ್ಥಿತಿಯಲ್ಲಿ, ವಯಸ್ಕರ ಹೃದಯವು ನಿಮಿಷಕ್ಕೆ ಸುಮಾರು 72 ಬಾರಿ ಬಡಿಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple animated icon of a beating heart placed next to a line graph showing a regular heartbeat rhythm, similar to an ECG reading.",
+    "labels": "Heartbeat, Rhythm",
+    "scientific_significance": "Visually represents the continuous and rhythmic nature of the heartbeat, which is fundamental to the heart's function as a pump.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_7_concept_3_chunk_005"
+}

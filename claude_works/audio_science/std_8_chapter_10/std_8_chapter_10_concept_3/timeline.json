@@ -1,0 +1,112 @@
+{
+  "module_id": "std_8_chapter_10_concept_3",
+  "chapter_code": "std_8_chapter_10",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 9,
+  "total_duration": 385.859,
+  "total_duration_formatted": "6:25",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_8_chapter_10_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಮಾನವರಲ್ಲಿ ಶಬ್ದದ ಉತ್ಪತ್ತಿ ಮತ್ತು ಗ್ರಹಿಕೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 53.651,
+      "duration": 53.651,
+      "script_words": 81
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 54.251,
+      "end": 94.262,
+      "duration": 40.011,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_3_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಮಾನವರಲ್ಲಿ ಶಬ್ದ ಉತ್ಪತ್ತಿ",
+      "type": "concept_explanation",
+      "start": 94.862,
+      "end": 134.193,
+      "duration": 39.331,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_3_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ಧ್ವನಿತಂತುಗಳು ಮತ್ತು ಶಬ್ದದ ಸೃಷ್ಟಿ",
+      "type": "concept_explanation",
+      "start": 134.793,
+      "end": 175.524,
+      "duration": 40.731,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_3_chunk_005",
+      "chunk_file": "005_classification_cont_0_2.json",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "slide_title": "ಧ್ವನಿಯ ಸ್ಥಾಯಿ ಮತ್ತು ಧ್ವನಿತಂತುಗಳು",
+      "type": "concept_explanation",
+      "start": 176.124,
+      "end": 219.095,
+      "duration": 42.971,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_3_chunk_006",
+      "chunk_file": "006_classification_1.json",
+      "wav_file": "006_classification_1.wav",
+      "slide_title": "ಶಬ್ದ ಗ್ರಹಿಕೆ: ಹೊರಕಿವಿ",
+      "type": "concept_explanation",
+      "start": 219.695,
+      "end": 260.826,
+      "duration": 41.131,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_3_chunk_007",
+      "chunk_file": "007_classification_cont_1_1.json",
+      "wav_file": "007_classification_cont_1_1.wav",
+      "slide_title": "ಶಬ್ದ ಗ್ರಹಿಕೆ: ಮಧ್ಯ ಕಿವಿ",
+      "type": "concept_explanation",
+      "start": 261.426,
+      "end": 299.877,
+      "duration": 38.451,
+      "script_words": 49
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_3_chunk_008",
+      "chunk_file": "008_classification_cont_1_2.json",
+      "wav_file": "008_classification_cont_1_2.wav",
+      "slide_title": "ಶಬ್ದ ಗ್ರಹಿಕೆ: ಒಳಕಿವಿ",
+      "type": "concept_explanation",
+      "start": 300.477,
+      "end": 343.208,
+      "duration": 42.731,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_8_chapter_10_concept_3_chunk_009",
+      "chunk_file": "009_recap_0.json",
+      "wav_file": "009_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 343.808,
+      "end": 385.259,
+      "duration": 41.451,
+      "script_words": 47
+    }
+  ]
+}

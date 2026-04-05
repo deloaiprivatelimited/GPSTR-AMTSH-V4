@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು n ಸಮನಾಗಿದೆ ಮೈನಸ್ ಎರಡು ಆದಾಗ, ಕೊಟ್ಟಿರುವ ಮೂರು ಬೀಜೋಕ್ತಿಗಳ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದೇವೆ. ಮೊದಲನೆಯದರ ಉತ್ತರ ಮೈನಸ್ ಹನ್ನೆರಡು. ಎರಡನೆಯದರ ಉತ್ತರ ಎಂಟು. ಮತ್ತು ಮೂರನೆಯದರ ಉತ್ತರ ಸೊನ್ನೆ. ಋಣ ಸಂಖ್ಯೆಗಳನ್ನು ಆದೇಶಿಸುವಾಗ ಆವರಣಗಳನ್ನು ಬಳಸುವುದು ಮತ್ತು ಗಣಿತ ಕ್ರಿಯೆಗಳ ಕ್ರಮವನ್ನು ಸರಿಯಾಗಿ ಪಾಲಿಸುವುದು ಬಹಳ ಮುಖ್ಯ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.",
+  "script_display": "ಹೀಗೆ, $n = -2$ ಆದಾಗ, ಕೊಟ್ಟಿರುವ ಮೂರು ಬೀಜೋಕ್ತಿಗಳ ಬೆಲೆಗಳನ್ನು ನಾವು ಕಂಡುಹಿಡಿದಿದ್ದೇವೆ. ಋಣ ಸಂಖ್ಯೆಗಳನ್ನು ಆದೇಶಿಸುವಾಗ ಆವರಣಗಳನ್ನು ಬಳಸುವುದು ಮತ್ತು ಗಣಿತ ಕ್ರಿಯೆಗಳ ಕ್ರಮವನ್ನು (PEMDAS/BODMAS) ಸರಿಯಾಗಿ ಪಾಲಿಸುವುದು ಬಹಳ ಮುಖ್ಯ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.",
+  "display_bullets": [
+    "(i) $5n-2 = -12$",
+    "(ii) $5n^2 + 5n - 2 = 8$",
+    "(iii) $n^3 + 5n^2 + 5n - 2 = 0$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_full",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-EXP-1_example_5",
+  "steps": [],
+  "final_answer": "(i) -12 (ii) 8 (iii) 0",
+  "final_answer_display": "(i) $5n-2 = -12$\n(ii) $5n^2 + 5n - 2 = 8$\n(iii) $n^3 + 5n^2 + 5n - 2 = 0$",
+  "chunk_id": "ALG-EXP-1_concept_5_chunk_011"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಕಂಸ (Arc) ಎಂದರೇನು?",
+  "script": "ಈಗ ವೃತ್ತದ ಇನ್ನೊಂದು ಪ್ರಮುಖ ಭಾಗವಾದ ಕಂಸದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಕಂಸ ಅಂದರೆ ವೃತ್ತದ ಪರಿಧಿಯ ಒಂದು ಭಾಗ. ಇದನ್ನು ಸರಳವಾಗಿ ಹೇಳಬೇಕೆಂದರೆ, ಒಂದು ಬಳೆಯನ್ನು ತುಂಡು ಮಾಡಿದಾಗ ಸಿಗುವ ಒಂದು ಚೂರನ್ನು ಕಂಸಕ್ಕೆ ಹೋಲಿಸಬಹುದು. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ವೃತ್ತದ ಮೇಲಿನ ಯಾವುದೇ ಎರಡು ಬಿಂದುಗಳ ನಡುವಿನ ವಕ್ರವಾದ ಮಾರ್ಗವೇ ಕಂಸ. ಇದು ವೃತ್ತದ ಪರಿಧಿಯ ಒಂದು ತುಣುಕು. ಆದ್ದರಿಂದ, ಕಂಸವು ವೃತ್ತದ ಮೇಲಿನ ಬಿಂದುಗಳ ಒಂದು ನಿರಂತರ ಭಾಗವಾಗಿದೆ.",
+  "script_display": "ಈಗ ವೃತ್ತದ ಇನ್ನೊಂದು ಪ್ರಮುಖ ಭಾಗವಾದ ಕಂಸದ (Arc) ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಕಂಸ ಅಂದರೆ ವೃತ್ತದ ಪರಿಧಿಯ ಒಂದು ಭಾಗ. ಇದನ್ನು ಸರಳವಾಗಿ ಹೇಳಬೇಕೆಂದರೆ, ಒಂದು ಬಳೆಯನ್ನು ತುಂಡು ಮಾಡಿದಾಗ ಸಿಗುವ ಒಂದು ಚೂರನ್ನು ಕಂಸಕ್ಕೆ ಹೋಲಿಸಬಹುದು. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡುತ್ತಿರುವಂತೆ, ವೃತ್ತದ ಮೇಲಿನ ಯಾವುದೇ ಎರಡು ಬಿಂದುಗಳ ನಡುವಿನ ವಕ್ರವಾದ ಮಾರ್ಗವೇ ಕಂಸ. ಇದು ವೃತ್ತದ ಪರಿಧಿಯ ಒಂದು ತುಣುಕು. ಆದ್ದರಿಂದ, ಕಂಸವು ವೃತ್ತದ ಮೇಲಿನ ಬಿಂದುಗಳ ಒಂದು ನಿರಂತರ ಭಾಗವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಕಂಸವು ವೃತ್ತದ ಪರಿಧಿಯ ಒಂದು ಭಾಗವಾಗಿದೆ.",
+    "ಇದು ವೃತ್ತದ ಮೇಲಿನ ಬಿಂದುಗಳ ನಿರಂತರ ತುಣುಕು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A circle is shown. Two points, P and Q, are on the circumference. The part of the circumference between P and Q is highlighted in a bright color to represent an arc.",
+    "labels": "Circle, Point P, Point Q, Arc PQ",
+    "mathematical_significance": "Visually introduces the concept of an arc as a continuous portion of the circle's circumference.",
+    "placeholder_note": "Image to be generated showing a circle with a highlighted arc."
+  },
+  "chunk_id": "GEO-CIR-2_concept_1_chunk_009"
+}

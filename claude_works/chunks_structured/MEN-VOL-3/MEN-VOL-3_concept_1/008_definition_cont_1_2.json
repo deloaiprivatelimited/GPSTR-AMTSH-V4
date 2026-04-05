@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ತ್ರಿಜ್ಯ, ಎತ್ತರ ಮತ್ತು ಓರೆ ಎತ್ತರದ ಸಂಬಂಧ",
+  "script": "ಶಂಕುವಿನ ತ್ರಿಜ್ಯ 'ಆರ್' ಕೇವಲ ಪಾದದ ಅಳತೆಯಲ್ಲ. ಇದು ಶಂಕುವಿನ ಇತರ ಪ್ರಮುಖ ಅಳತೆಗಳಾದ ಎತ್ತರ 'ಹೆಚ್' ಮತ್ತು ಓರೆ ಎತ್ತರ 'ಎಲ್' ಜೊತೆಗೂಡಿ ಒಂದು ಪ್ರಮುಖ ಸಂಬಂಧವನ್ನು ಹೊಂದಿದೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ತ್ರಿಜ್ಯ 'ಆರ್', ಎತ್ತರ 'ಹೆಚ್', ಮತ್ತು ಓರೆ ಎತ್ತರ 'ಎಲ್' ಇವು ಮೂರೂ ಸೇರಿ ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಈ ತ್ರಿಭುಜದಲ್ಲಿ, 'ಆರ್' ಎಂಬುದು ಈ ತ್ರಿಭುಜದ ಪಾದವಾಗಿರುತ್ತದೆ. ಪೈಥಾಗೋರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, ಎಲ್ ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ ಹೆಚ್ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಆರ್ ಸ್ಕ್ವೇರ್ಡ್. ಈ ಸೂತ್ರವು ಲೆಕ್ಕಗಳನ್ನು ಮಾಡುವಾಗ ಬಹಳ ಉಪಯುಕ್ತ.",
+  "script_display": "ಶಂಕುವಿನ ತ್ರಿಜ್ಯ 'r' ಕೇವಲ ಪಾದದ ಅಳತೆಯಲ್ಲ. ಇದು ಶಂಕುವಿನ ಇತರ ಪ್ರಮುಖ ಅಳತೆಗಳಾದ ಎತ್ತರ 'h' ಮತ್ತು ಓರೆ ಎತ್ತರ 'l' ಜೊತೆಗೂಡಿ ಒಂದು ಪ್ರಮುಖ ಸಂಬಂಧವನ್ನು ಹೊಂದಿದೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, ತ್ರಿಜ್ಯ (r), ಎತ್ತರ (h), ಮತ್ತು ಓರೆ ಎತ್ತರ (l) ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಈ ತ್ರಿಭುಜದಲ್ಲಿ, 'r' ಎಂಬುದು ಈ ತ್ರಿಭುಜದ ಪಾದವಾಗಿರುತ್ತದೆ. ಪೈಥಾಗೋರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, $l^2 = h^2 + r^2$. ಈ ಸೂತ್ರವು ಲೆಕ್ಕಗಳನ್ನು ಮಾಡುವಾಗ ಬಹಳ ಉಪಯುಕ್ತ.",
+  "display_bullets": [
+    "ತ್ರಿಜ್ಯ (r), ಎತ್ತರ (h), ಮತ್ತು ಓರೆ ಎತ್ತರ (l) ಒಂದು ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.",
+    "'r' ಎಂಬುದು ಈ ತ್ರಿಭುಜದ ಪಾದವಾಗಿರುತ್ತದೆ.",
+    "ಪೈಥಾಗೋರಸ್ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, $l^2 = h^2 + r^2$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_explainer_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A cross-section of the cone, showing the internal right-angled triangle. The three sides are clearly labeled: the vertical side as 'h' (ಎತ್ತರ), the horizontal base as 'r' (ತ್ರಿಜ್ಯ), and the hypotenuse as 'l' (ಓರೆ ಎತ್ತರ). The right-angle symbol is shown.",
+    "labels": "h (ಎತ್ತರ), r (ತ್ರಿಜ್ಯ), l (ಓರೆ ಎತ್ತರ)",
+    "mathematical_significance": "Illustrates the Pythagorean relationship between h, r, and l, which is crucial for solving most problems involving cones. It shows that 'r' is not an isolated measurement.",
+    "placeholder_note": "Image to be generated. Show the internal right triangle with labels h, r, l."
+  },
+  "chunk_id": "MEN-VOL-3_concept_1_chunk_008"
+}

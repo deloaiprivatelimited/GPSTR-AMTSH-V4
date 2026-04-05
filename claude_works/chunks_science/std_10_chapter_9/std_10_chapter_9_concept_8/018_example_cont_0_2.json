@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 2: ವಸ್ತು ದೂರ (u) ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಮಸೂರ ಸೂತ್ರವನ್ನು ಬಳಸಿ ವಸ್ತು ದೂರ ಯು ಅನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಮಸೂರ ಸೂತ್ರ, ಒಂದರ ಕೆಳಗೆ ವಿ ಮೈನಸ್ ಒಂದರ ಕೆಳಗೆ ಯು ಸಮ ಒಂದರ ಕೆಳಗೆ ಎಫ್. ನಮಗೆ ಯು ಬೇಕಾಗಿರುವುದರಿಂದ, ಸೂತ್ರವನ್ನು ಪುನರ್ರಚಿಸಿದಾಗ, ಒಂದರ ಕೆಳಗೆ ಯು ಸಮ ಒಂದರ ಕೆಳಗೆ ವಿ ಮೈನಸ್ ಒಂದರ ಕೆಳಗೆ ಎಫ್ ಆಗುತ್ತದೆ. ಈಗ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. ಒಂದರ ಕೆಳಗೆ ಯು ಸಮ ಒಂದರ ಕೆಳಗೆ ಮೈನಸ್ ಹತ್ತು ಮೈನಸ್ ಒಂದರ ಕೆಳಗೆ ಮೈನಸ್ ಹದಿನೈದು. ಇದು ಮೈನಸ್ ಒಂದರ ಕೆಳಗೆ ಹತ್ತು ಪ್ಲಸ್ ಒಂದರ ಕೆಳಗೆ ಹದಿನೈದು ಆಗುತ್ತದೆ. ಹತ್ತು ಮತ್ತು ಹದಿನೈದರ ಲಸಾಅ ಮೂವತ್ತು. ಹಾಗಾಗಿ, ನಮಗೆ ಮೈನಸ್ ಮೂರು ಪ್ಲಸ್ ಎರಡು ಭಾಗಿಸು ಮೂವತ್ತು ಸಿಗುತ್ತದೆ, ಅಂದರೆ ಮೈನಸ್ ಒಂದರ ಕೆಳಗೆ ಮೂವತ್ತು. ಆದ್ದರಿಂದ, ಯು ಸಮ ಮೈನಸ್ ಮೂವತ್ತು ಸೆಂಟಿಮೀಟರ್.",
+  "script_display": "ಮಸೂರ ಸೂತ್ರವನ್ನು ಬಳಸಿ ವಸ್ತು ದೂರ (u) ಕಂಡುಹಿಡಿಯುವುದು.",
+  "display_bullets": [
+    "ಮಸೂರ ಸೂತ್ರ: 1/v - 1/u = 1/f",
+    "ಸೂತ್ರವನ್ನು u ಗಾಗಿ ಪುನರ್ರಚಿಸಿದಾಗ: 1/u = 1/v - 1/f",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: 1/u = 1/(-10) - 1/(-15) = -1/10 + 1/15",
+    "ಲೆಕ್ಕಾಚಾರ: 1/u = (-3 + 2)/30 = -1/30",
+    "ಆದ್ದರಿಂದ, u = -30 cm"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_blue",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{1}{u} = \\frac{1}{v} - \\frac{1}{f} \\implies \\frac{1}{u} = \\frac{1}{-10} - \\frac{1}{-15} = -\\frac{1}{10} + \\frac{1}{15} = \\frac{-3+2}{30} = -\\frac{1}{30} \\implies u = -30 \\text{ cm}",
+    "placeholder_note": "Display the calculation for u"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_10_chapter_9_example_9.3",
+  "steps": [
+    {
+      "step": 2,
+      "action_display": "ಮಸೂರ ಸೂತ್ರವನ್ನು ಬಳಸಿ ವಸ್ತು ದೂರ (u) ಕಂಡುಹಿಡಿಯುವುದು.",
+      "justification": "v ಮತ್ತು f ಮೌಲ್ಯಗಳನ್ನು ಮಸೂರ ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "std_10_chapter_9_concept_8_chunk_018"
+}

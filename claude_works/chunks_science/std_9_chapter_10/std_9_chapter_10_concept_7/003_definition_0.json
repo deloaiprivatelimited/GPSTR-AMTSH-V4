@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಮರ್ಥ್ಯ (Power)",
+  "script": "ಭೌತಶಾಸ್ತ್ರದಲ್ಲಿ, ಸಾಮರ್ಥ್ಯ ಅಂದರೆ ಕೆಲಸ ಮಾಡುವ ದರ. 'ದರ' ಅಂದರೆ ಸಮಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ್ದು. ಅಂದರೆ, ಒಂದು ಕೆಲಸವನ್ನು ಎಷ್ಟು ಬೇಗನೆ ಮಾಡಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಸಾಮರ್ಥ್ಯವು ಅಳೆಯುತ್ತದೆ. ಇದನ್ನು ಶಕ್ತಿಯು ವರ್ಗಾವಣೆಯಾಗುವ ದರ ಎಂದೂ ಹೇಳಬಹುದು. ಸಾಮರ್ಥ್ಯವನ್ನು ಪಿ ಅಕ್ಷರದಿಂದ, ಕೆಲಸವನ್ನು ಡಬ್ಲ್ಯೂ ಅಕ್ಷರದಿಂದ ಮತ್ತು ಸಮಯವನ್ನು ಟಿ ಅಕ್ಷರದಿಂದ ಸೂಚಿಸಿದರೆ, ಸಾಮರ್ಥ್ಯದ ಸೂತ್ರವು ಪಿ ಈಕ್ವಲ್ಸ್ ಡಬ್ಲ್ಯೂ ಡಿವೈಡೆಡ್ ಬೈ ಟಿ ಆಗುತ್ತದೆ. ಈ ಸೂತ್ರವು ಕೆಲಸ, ಸಮಯ ಮತ್ತು ಸಾಮರ್ಥ್ಯದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಭೌತಶಾಸ್ತ್ರದಲ್ಲಿ, ಸಾಮರ್ಥ್ಯ (Power) ಅಂದರೆ ಕೆಲಸ ಮಾಡುವ ದರ. 'ದರ' ಅಂದರೆ ಸಮಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ್ದು. ಅಂದರೆ, ಒಂದು ಕೆಲಸವನ್ನು ಎಷ್ಟು ಬೇಗನೆ ಮಾಡಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಸಾಮರ್ಥ್ಯವು ಅಳೆಯುತ್ತದೆ. ಇದನ್ನು ಶಕ್ತಿಯು ವರ್ಗಾವಣೆಯಾಗುವ ದರ ಎಂದೂ ಹೇಳಬಹುದು. ಸಾಮರ್ಥ್ಯವನ್ನು 'P' ಅಕ್ಷರದಿಂದ, ಕೆಲಸವನ್ನು 'W' ಅಕ್ಷರದಿಂದ ಮತ್ತು ಸಮಯವನ್ನು 't' ಅಕ್ಷರದಿಂದ ಸೂಚಿಸಿದರೆ, ಸಾಮರ್ಥ್ಯದ ಸೂತ್ರವು P = W/t ಆಗುತ್ತದೆ. ಈ ಸೂತ್ರವು ಕೆಲಸ, ಸಮಯ ಮತ್ತು ಸಾಮರ್ಥ್ಯದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕೆಲಸ ಮಾಡುವ ದರ (Rate of doing work)",
+    "ಶಕ್ತಿ ಬಳಕೆಯ ದರ (Rate of energy consumption)",
+    "ಸೂತ್ರ (Formula): P = W / t"
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "P = \\frac{W}{t}",
+    "placeholder_note": "Formula for Power, where P is power, W is work, and t is time."
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_9_chapter_10_concept_7_chunk_003"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗ ಎಂದರೇನು?",
+  "script": "ಸಂಭವನೀಯತೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಾವು ಮೊದಲು 'ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗ' ಎಂಬ ಪರಿಕಲ್ಪನೆಯನ್ನು ತಿಳಿದುಕೊಳ್ಳಬೇಕು. ಒಂದು ಪ್ರಯೋಗದ ಫಲಿತಾಂಶವನ್ನು ಮುಂಚಿತವಾಗಿ ನಿಖರವಾಗಿ ಊಹಿಸಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ, ಅದನ್ನು ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದರ ಎರಡು ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಿವೆ. ಮೊದಲನೆಯದಾಗಿ, ಪ್ರಯೋಗವು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳನ್ನು ಹೊಂದಿರಬೇಕು. ಎರಡನೆಯದಾಗಿ, ಪ್ರಯೋಗವನ್ನು ನಡೆಸುವ ಮೊದಲು ಯಾವ ನಿರ್ದಿಷ್ಟ ಫಲಿತಾಂಶ ಬರುತ್ತದೆ ಎಂದು ಖಚಿತವಾಗಿ ಹೇಳಲು ಸಾಧ್ಯವಾಗಬಾರದು. ಅಂದರೆ, ಫಲಿತಾಂಶದಲ್ಲಿ ಅನಿಶ್ಚಿತತೆ ಇರಬೇಕು.",
+  "script_display": "ಸಂಭವನೀಯತೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ನಾವು ಮೊದಲು 'ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗ' (Random Experiment) ಎಂಬ ಪರಿಕಲ್ಪನೆಯನ್ನು ತಿಳಿದುಕೊಳ್ಳಬೇಕು. ಒಂದು ಪ್ರಯೋಗದ ಫಲಿತಾಂಶವನ್ನು ಮುಂಚಿತವಾಗಿ ನಿಖರವಾಗಿ ಊಹಿಸಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ, ಅದನ್ನು ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದರ ಎರಡು ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಿವೆ. ಮೊದಲನೆಯದಾಗಿ, ಪ್ರಯೋಗವು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳನ್ನು ಹೊಂದಿರಬೇಕು. ಎರಡನೆಯದಾಗಿ, ಪ್ರಯೋಗವನ್ನು ನಡೆಸುವ ಮೊದಲು ಯಾವ ನಿರ್ದಿಷ್ಟ ಫಲಿತಾಂಶ ಬರುತ್ತದೆ ಎಂದು ಖಚಿತವಾಗಿ ಹೇಳಲು ಸಾಧ್ಯವಾಗಬಾರದು. ಅಂದರೆ, ಫಲಿತಾಂಶದಲ್ಲಿ ಅನಿಶ್ಚಿತತೆ ಇರಬೇಕು.",
+  "display_bullets": [
+    "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಂಭವನೀಯ ಫಲಿತಾಂಶಗಳನ್ನು ಹೊಂದಿದೆ.",
+    "ಫಲಿತಾಂಶವನ್ನು ಮುಂಚಿತವಾಗಿ ನಿಖರವಾಗಿ ಊಹಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+    "ಫಲಿತಾಂಶದಲ್ಲಿ ಅನಿಶ್ಚಿತತೆ ಇರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_a",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple icon representing uncertainty, like a large question mark surrounded by smaller icons of a coin, a die, and a spinning arrow. This visually represents the core idea of a random experiment.",
+    "labels": "ಯಾದೃಚ್ಛಿಕ ಪ್ರಯೋಗ, ಅನಿಶ್ಚಿತತೆ",
+    "mathematical_significance": "Introduces the fundamental concept of a random experiment, which is the basis for defining probability.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_003"
+}

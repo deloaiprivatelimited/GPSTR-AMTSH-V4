@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ನಾವು ಅಂತಿಮ ಉತ್ತರವನ್ನು ತಲುಪಿದ್ದೇವೆ. ಅಕ್ಷಿಗೆ ತನ್ನ ಮೇಜಿನ ಬಟ್ಟೆಯ ಸುತ್ತಲೂ ಹಾಕಲು ಬೇಕಾದ ಲೇಸ್‌ನ ಉದ್ದವು ಹತ್ತು ಮೀಟರ್ ಆಗಿದೆ. ನೆನಪಿಡಿ, ಒಂದು ಆಕೃತಿಯ ಸುತ್ತಲಿನ ಅಳತೆಯು ಅದರ ಸುತ್ತಳತೆಯಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, ನಾವು ಅಂತಿಮ ಉತ್ತರವನ್ನು ತಲುಪಿದ್ದೇವೆ. ಅಕ್ಷಿಗೆ ತನ್ನ ಮೇಜಿನ ಬಟ್ಟೆಯ ಸುತ್ತಲೂ ಹಾಕಲು ಬೇಕಾದ ಲೇಸ್‌ನ ಉದ್ದವು 10 ಮೀಟರ್ ಆಗಿದೆ. ನೆನಪಿಡಿ, ಒಂದು ಆಕೃತಿಯ ಸುತ್ತಲಿನ ಅಳತೆಯು ಅದರ ಸುತ್ತಳತೆಯಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅಗತ್ಯವಿರುವ ಲೇಸ್‌ನ ಉದ್ದವು ಮೇಜಿನ ಬಟ್ಟೆಯ ಸುತ್ತಳತೆಗೆ ಸಮ.",
+    "ಲೆಕ್ಕಾಚಾರದ ಪ್ರಕಾರ, ಸುತ್ತಳತೆ 10 ಮೀಟರ್ ಆಗಿದೆ.",
+    "ಆದ್ದರಿಂದ, ಅಗತ್ಯವಿರುವ ಲೇಸ್‌ನ ಉದ್ದ 10 ಮೀಟರ್."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "centered_result",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "10 \\text{ ಮೀಟರ್}",
+    "placeholder_note": "Final answer highlighted in a box."
+  },
+  "source_example_id": "MEN-AREA-1_example_1",
+  "final_answer": "ಅಗತ್ಯವಿರುವ ಲೇಸ್‌ನ ಉದ್ದ 10 ಮೀಟರ್.",
+  "final_answer_display": "10 ಮೀಟರ್",
+  "chunk_id": "MEN-AREA-1_concept_1_chunk_039"
+}

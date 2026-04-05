@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಭಾಗಗಳು",
+  "script": "ಈಗ ಚಿತ್ರವನ್ನು ನೋಡಿ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಪ್ರಮುಖ ಭಾಗಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ತ್ರಿಭುಜ ಎಕ್ಸ್ ವೈ ಝಡ್ ಇದೆ. ಇದರಲ್ಲಿ ಎಕ್ಸ್ ವೈ ಮತ್ತು ಎಕ್ಸ್ ಝಡ್ ಬಾಹುಗಳು ಸಮವಾಗಿವೆ. ಈ ಸಮನಾದ ಬಾಹುಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಉಳಿದ ಮೂರನೇ ಬಾಹುವನ್ನು, ಅಂದರೆ ವೈ ಝಡ್ ಅನ್ನು, ನಾವು 'ಪಾದ' ಅಥವಾ ಬೇಸ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಪಾದದ ಮೇಲೆ ಇರುವ ಎರಡು ಕೋನಗಳನ್ನು, ಅಂದರೆ ಕೋನ ವೈ ಮತ್ತು ಕೋನ ಝಡ್ ಅನ್ನು, 'ಪಾದ ಕೋನಗಳು' ಅಥವಾ ಬೇಸ್ ಆಂಗಲ್ಸ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಪದಗಳು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಗುಣಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಇವು ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+  "script_display": "ಈಗ ಚಿತ್ರವನ್ನು ನೋಡಿ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಪ್ರಮುಖ ಭಾಗಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ತ್ರಿಭುಜ $XYZ$ ಇದೆ. ಇದರಲ್ಲಿ $XY$ ಮತ್ತು $XZ$ ಬಾಹುಗಳು ಸಮವಾಗಿವೆ. ಈ ಸಮನಾದ ಬಾಹುಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಉಳಿದ ಮೂರನೇ ಬಾಹುವನ್ನು, ಅಂದರೆ $YZ$ ಅನ್ನು, ನಾವು 'ಪಾದ' (Base) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಪಾದದ ಮೇಲೆ ಇರುವ ಎರಡು ಕೋನಗಳನ್ನು, ಅಂದರೆ $\\angle Y$ ಮತ್ತು $\\angle Z$ ಅನ್ನು, 'ಪಾದ ಕೋನಗಳು' (Base Angles) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಪದಗಳು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜದ ಗುಣಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಇವು ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ಸಮ ಬಾಹುಗಳು: $XY = XZ$",
+    "ಪಾದ (Base): ಸಮವಲ್ಲದ ಮೂರನೇ ಬಾಹು ($YZ$).",
+    "ಪಾದ ಕೋನಗಳು (Base Angles): ಪಾದದ ಮೇಲಿರುವ ಕೋನಗಳು ($\\angle Y$ ಮತ್ತು $\\angle Z$)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ XYZ. ಶೃಂಗಗಳು X, Y, Z. XY ಮತ್ತು XZ ಬಾಹುಗಳನ್ನು ಸಮ ಎಂದು (|) ಗುರುತಿಸಲಾಗಿದೆ. YZ ಪಾದವಾಗಿದೆ. ∠Y ಮತ್ತು ∠Z ಪಾದ ಕೋನಗಳಾಗಿವೆ ಎಂದು ಲೇಬಲ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "Isosceles triangle, vertices X, Y, Z, equal sides XY and XZ, base YZ, base angles Y and Z",
+    "mathematical_significance": "Illustrates the components of an isosceles triangle: equal sides, base, and base angles.",
+    "placeholder_note": "Image to be generated for Isosceles Triangle XYZ with parts labeled."
+  },
+  "chunk_id": "GEO-TRI-1_concept_3_chunk_007"
+}

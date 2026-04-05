@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಮೇಯದ ಅರ್ಥ",
+  "script": "ಈ ಪ್ರಮೇಯವನ್ನು ಗಣಿತದ ಭಾಷೆಯಲ್ಲಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಮ್ಮ ಬಳಿ ಎರಡು ತ್ರಿಭುಜಗಳಿವೆ, ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ಮತ್ತು ತ್ರಿಭುಜ ಡಿ ಇ ಎಫ್. ಪ್ರಮೇಯದ ಪ್ರಕಾರ, ಮೊದಲ শর্ত, ಅಂದರೆ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರಬೇಕು. ಅಂದರೆ, ಕೋನ ಎ ಯು ಕೋನ ಡಿ ಗೆ ಸಮ, ಕೋನ ಬಿ ಯು ಕೋನ ಇ ಗೆ ಸಮ, ಮತ್ತು ಕೋನ ಸಿ ಯು ಕೋನ ಎಫ್ ಗೆ ಸಮವಾಗಿದ್ದರೆ, ಆಗ ಪ್ರಮೇಯದ ತೀರ್ಮಾನವೇನು? ತೀರ್ಮಾನವೇನೆಂದರೆ, ಅವುಗಳ ಅನುರೂಪ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ಅಂದರೆ, ಎ ಬಿ ಬೈ ಡಿ ಇ ಯು ಬಿ ಸಿ ಬೈ ಇ ಎಫ್ ಗೆ ಸಮ, ಮತ್ತು ಅದು ಎ ಸಿ ಬೈ ಡಿ ಎಫ್ ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಈ ಎರಡೂ শর্তಗಳು ಪಾಲನೆಯಾದಾಗ, ನಾವು ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ಯು ತ್ರಿಭುಜ ಡಿ ಇ ಎಫ್ ಗೆ ಸಮರೂಪವಾಗಿದೆ ಎಂದು ಹೇಳುತ್ತೇವೆ.",
+  "script_display": "ಈ ಪ್ರಮೇಯವನ್ನು ಗಣಿತದ ಭಾಷೆಯಲ್ಲಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಮ್ಮ ಬಳಿ ಎರಡು ತ್ರಿಭುಜಗಳಿವೆ, $\\triangle ABC$ ಮತ್ತು $\\triangle DEF$. ಪ್ರಮೇಯದ ಪ್ರಕಾರ, ಮೊದಲ শর্ত, ಅಂದರೆ ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿರಬೇಕು. ಅಂದರೆ, $\\angle A = \\angle D$, $\\angle B = \\angle E$, ಮತ್ತು $\\angle C = \\angle F$ ಆಗಿದ್ದರೆ, ಆಗ ಪ್ರಮೇಯದ ತೀರ್ಮಾನವೇನು? ತೀರ್ಮಾನವೇನೆಂದರೆ, ಅವುಗಳ ಅನುರೂಪ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿರುತ್ತವೆ. ಅಂದರೆ, $\\frac{AB}{DE} = \\frac{BC}{EF} = \\frac{AC}{DF}$. ಈ ಎರಡೂ শর্তಗಳು ಪಾಲನೆಯಾದಾಗ, ನಾವು $\\triangle ABC \\sim \\triangle DEF$ ಎಂದು ಹೇಳುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಷರತ್ತು (If): $\\angle A = \\angle D$, $\\angle B = \\angle E$, $\\angle C = \\angle F$",
+    "ತೀರ್ಮಾನ (Then): $\\frac{AB}{DE} = \\frac{BC}{EF} = \\frac{AC}{DF}$",
+    "ಆದ್ದರಿಂದ (Hence): $\\triangle ABC \\sim \\triangle DEF$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿರುವ ಅದೇ ಎರಡು ತ್ರಿಭುಜಗಳು, ABC ಮತ್ತು DEF. ಈ ಬಾರಿ, ಕೋನಗಳ ಸಮಾನತೆಯ ಚಿಹ್ನೆಗಳ ಜೊತೆಗೆ, ಅನುರೂಪ ಬಾಹುಗಳನ್ನು (AB ಮತ್ತು DE, BC ಮತ್ತು EF, AC ಮತ್ತು DF) ಒಂದೇ ರೀತಿಯ ಬಣ್ಣದ ಡ್ಯಾಶ್‌ಗಳಿಂದ ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, E, F, angle markers, side markers",
+    "mathematical_significance": "ಕೋನಗಳ ಸಮಾನತೆಯು ಬಾಹುಗಳ ಅನುಪಾತದ ಸಮಾನತೆಗೆ ಹೇಗೆ ಕಾರಣವಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ಸಂಬಂಧ ಕಲ್ಪಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_004"
+}

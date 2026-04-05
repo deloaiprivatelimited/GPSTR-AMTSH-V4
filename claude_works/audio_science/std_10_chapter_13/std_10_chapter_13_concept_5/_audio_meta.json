@@ -1,0 +1,81 @@
+{
+  "module_id": "std_10_chapter_13_concept_5",
+  "chapter_code": "std_10_chapter_13",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:33:37",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "0c62b9f803b593770d5a482382082e03",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 31.891,
+      "slide_title": "ಪಾಠದ ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "prerequisite",
+      "script_words": 41,
+      "generated_at": "2026-04-02 11:32:30"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "a692399ed6110db445028fd55e6e90de",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 58.051,
+      "slide_title": "ಜೈವಿಕ ಸಂವರ್ಧನೆಯ ಪರಿಣಾಮ",
+      "type": "definition",
+      "script_words": 74,
+      "generated_at": "2026-04-02 11:32:45"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "a9f759f607fa414081322f6c12c53629",
+      "wav_file": "003_definition_0.wav",
+      "duration": 47.891,
+      "slide_title": "ಜೈವಿಕ ಸಂವರ್ಧನೆ ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:32:54"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "3edcc74ba22c2d05391d69f2a675e3ed",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 54.691,
+      "slide_title": "ಉದಾಹರಣೆ: ಆಹಾರ ಸರಪಳಿಯಲ್ಲಿ ಸಂವರ್ಧನೆ",
+      "type": "definition",
+      "script_words": 87,
+      "generated_at": "2026-04-02 11:32:58"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "47c4fb1d53cb2506c609b93b430bf7f6",
+      "wav_file": "001_intro_0.wav",
+      "duration": 59.331,
+      "slide_title": "ಜೈವಿಕ ಸಂವರ್ಧನೆ (Biological Magnification)",
+      "type": "intro",
+      "script_words": 79,
+      "generated_at": "2026-04-02 11:33:01"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "ccebd419758fb500e4dcaf050477eaee",
+      "wav_file": "006_recap_0.wav",
+      "duration": 42.331,
+      "slide_title": "ಸಾರಾಂಶ: ಜೈವಿಕ ಸಂವರ್ಧನೆ",
+      "type": "recap",
+      "script_words": 48,
+      "generated_at": "2026-04-02 11:33:37"
+    }
+  }
+}

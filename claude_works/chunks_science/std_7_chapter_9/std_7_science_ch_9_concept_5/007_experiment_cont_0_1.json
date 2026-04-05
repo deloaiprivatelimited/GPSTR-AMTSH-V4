@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಹಂತ 1: ಅಕ್ಷಗಳು ಮತ್ತು ಅಳತೆ (Scale) ಸಿದ್ಧಪಡಿಸುವುದು",
+  "script": "ಮೊದಲಿಗೆ, ಗ್ರಾಫ್ ಹಾಳೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಹಾಳೆಯ ಕೆಳಭಾಗದಲ್ಲಿ ಅಡ್ಡಲಾಗಿ ಒಂದು ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ, ಇದನ್ನು ಎಕ್ಸ್ ಅಕ್ಷ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದೇ ರೀತಿ, ಹಾಳೆಯ ಎಡಭಾಗದಲ್ಲಿ ಲಂಬವಾಗಿ ಇನ್ನೊಂದು ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ, ಇದನ್ನು ವೈ ಅಕ್ಷ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ನಾವು ಎಕ್ಸ್ ಅಕ್ಷದ ಮೇಲೆ ಕಾಲವನ್ನು ಮತ್ತು ವೈ ಅಕ್ಷದ ಮೇಲೆ ದೂರವನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ಈಗ, ಅಳತೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು ಬಹಳ ಮುಖ್ಯ. ನಮ್ಮ ದತ್ತಾಂಶಕ್ಕೆ ಸರಿಹೊಂದುವಂತೆ, ಎಕ್ಸ್ ಅಕ್ಷದ ಮೇಲೆ ಒಂದು ಸೆಂಟಿಮೀಟರ್ ಒಂದು ನಿಮಿಷವನ್ನು ಮತ್ತು ವೈ ಅಕ್ಷದ ಮೇಲೆ ಒಂದು ಸೆಂಟಿಮೀಟರ್ ಒಂದು ಕಿಲೋಮೀಟರ್ ಅನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ ಎಂದು ನಿರ್ಧರಿಸೋಣ.",
+  "script_display": "ಮೊದಲಿಗೆ, ಗ್ರಾಫ್ ಹಾಳೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಹಾಳೆಯ ಕೆಳಭಾಗದಲ್ಲಿ ಅಡ್ಡಲಾಗಿ ಒಂದು ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ, ಇದನ್ನು X-ಅಕ್ಷ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದೇ ರೀತಿ, ಹಾಳೆಯ ಎಡಭಾಗದಲ್ಲಿ ಲಂಬವಾಗಿ ಇನ್ನೊಂದು ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ, ಇದನ್ನು Y-ಅಕ್ಷ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ನಾವು X-ಅಕ್ಷದ ಮೇಲೆ 'ಕಾಲ (t)' ವನ್ನು ಮತ್ತು Y-ಅಕ್ಷದ ಮೇಲೆ 'ದೂರ (d)' ವನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ಈಗ, ಅಳತೆಯನ್ನು (scale) ಆಯ್ಕೆ ಮಾಡುವುದು ಬಹಳ ಮುಖ್ಯ. ನಮ್ಮ ದತ್ತಾಂಶಕ್ಕೆ ಸರಿಹೊಂದುವಂತೆ, X-ಅಕ್ಷದ ಮೇಲೆ 1 cm = 1 min ಮತ್ತು Y-ಅಕ್ಷದ ಮೇಲೆ 1 cm = 1 km ಎಂದು ನಿರ್ಧರಿಸೋಣ.",
+  "display_bullets": [
+    "X-ಅಕ್ಷ (ಅಡ್ಡ ರೇಖೆ) ಮತ್ತು Y-ಅಕ್ಷ (ಲಂಬ ರೇಖೆ) ಎಳೆಯಿರಿ.",
+    "X-ಅಕ್ಷದ ಮೇಲೆ 'ಕಾಲ' ಮತ್ತು Y-ಅಕ್ಷದ ಮೇಲೆ 'ದೂರ' ಎಂದು ಗುರುತಿಸಿ.",
+    "ಸೂಕ್ತವಾದ ಅಳತೆಯನ್ನು (Scale) ಆಯ್ಕೆ ಮಾಡಿ. ಉದಾ: X-ಅಕ್ಷ: 1 cm = 1 min; Y-ಅಕ್ಷ: 1 cm = 1 km."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A graph paper with two perpendicular lines drawn. The horizontal line is labeled 'X-ಅಕ್ಷ (ಕಾಲ)' and the vertical line is labeled 'Y-ಅಕ್ಷ (ದೂರ)'. The origin (0,0) is marked. The axes are marked with numbers according to the scale.",
+    "labels": "X-axis, Y-axis, Origin, Scale information",
+    "scientific_significance": "Represents the coordinate system for plotting distance-time data, which is the foundational step for visualizing motion.",
+    "placeholder_note": "Image to be generated: A blank graph with labeled X and Y axes for Time and Distance respectively, including scale markings."
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_7_science_ch_9_concept_5_chunk_007"
+}

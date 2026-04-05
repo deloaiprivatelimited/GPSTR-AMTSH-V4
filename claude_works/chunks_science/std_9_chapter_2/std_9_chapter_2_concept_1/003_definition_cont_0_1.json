@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಶುದ್ಧ ನೀರು",
+  "script": "ಒಂದು ಶುದ್ಧ ವಸ್ತುವಿಗೆ ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ ಎಂದರೆ ಶುದ್ಧ ನೀರು. ನಾವು ಒಂದು ಲೋಟ ಶುದ್ಧ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡರೆ, ಅದರಲ್ಲಿ ಕೋಟ್ಯಂತರ ನೀರಿನ ಅಣುಗಳು ಇರುತ್ತವೆ. ಪ್ರತಿಯೊಂದು ಅಣುವಿನ ರಾಸಾಯನಿಕ ಸೂತ್ರ ಎಚ್ ಟು ಓ. ನಾವು ಸೂಕ್ಷ್ಮದರ್ಶಕದಲ್ಲಿ ನೋಡಿದರೆ, ನಮಗೆ ಕೇವಲ ಎಚ್ ಟು ಓ ಅಣುಗಳು ಮಾತ್ರ ಕಾಣಸಿಗುತ್ತವೆ. ಬೇರೆ ಯಾವುದೇ ವಸ್ತುವಿನ ಕಣಗಳು ಅಲ್ಲಿ ಇರುವುದಿಲ್ಲ. ಎಲ್ಲವೂ ಒಂದೇ ರೀತಿ ಇರುವುದರಿಂದ, ಶುದ್ಧ ನೀರು ಒಂದು ಶುದ್ಧ ವಸ್ತುವಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಶುದ್ಧ ವಸ್ತುವಿಗೆ ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ ಎಂದರೆ ಶುದ್ಧ ನೀರು. ನಾವು ಒಂದು ಲೋಟ ಶುದ್ಧ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡರೆ, ಅದರಲ್ಲಿ ಕೋಟ್ಯಂತರ ನೀರಿನ ಅಣುಗಳು ಇರುತ್ತವೆ. ಪ್ರತಿಯೊಂದು ಅಣುವಿನ ರಾಸಾಯನಿಕ ಸೂತ್ರ H₂O. ನಾವು ಸೂಕ್ಷ್ಮದರ್ಶಕದಲ್ಲಿ ನೋಡಿದರೆ, ನಮಗೆ ಕೇವಲ H₂O ಅಣುಗಳು ಮಾತ್ರ ಕಾಣಸಿಗುತ್ತವೆ. ಬೇರೆ ಯಾವುದೇ ವಸ್ತುವಿನ ಕಣಗಳು ಅಲ್ಲಿ ಇರುವುದಿಲ್ಲ. ಎಲ್ಲವೂ ಒಂದೇ ರೀತಿ ಇರುವುದರಿಂದ, ಶುದ್ಧ ನೀರು ಒಂದು ಶುದ್ಧ ವಸ್ತುವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಶುದ್ಧ ನೀರು ಕೇವಲ ನೀರಿನ ಅಣುಗಳನ್ನು (H₂O) ಮಾತ್ರ ಹೊಂದಿದೆ.",
+    "ಪ್ರತಿಯೊಂದು ಕಣವೂ ಇನ್ನೊಂದರಂತೆಯೇ ಇರುತ್ತದೆ.",
+    "ಬೇರೆ ಯಾವುದೇ ಬಗೆಯ ಕಣಗಳು ಇರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a beaker of water. An arrow points from the beaker to a magnified circular view showing numerous identical H₂O molecules (Mickey Mouse shape). This illustrates that only one type of particle is present.",
+    "labels": "Beaker of Pure Water, Magnified View, H₂O Molecules",
+    "scientific_significance": "Visually represents the concept of a pure substance by showing that it is composed of a single type of particle (H₂O molecules).",
+    "placeholder_note": "Image to be generated: Zoom-in from a beaker of water to show only H₂O molecules."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_2_concept_1_chunk_003"
+}

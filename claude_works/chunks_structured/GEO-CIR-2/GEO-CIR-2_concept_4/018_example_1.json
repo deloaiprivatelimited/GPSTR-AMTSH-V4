@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಸಾಧನೆಯ ಲೆಕ್ಕವನ್ನು ನೋಡೋಣ. ಒಂದು ಚತುರ್ಭುಜದ ಒಳಕೋನಾರ್ಧಕ ರೇಖೆಗಳಿಂದ ಏರ್ಪಟ್ಟ ಚತುರ್ಭುಜವು ಚಕ್ರೀಯ ಚತುರ್ಭುಜ ಎಂದು ನಾವು ಸಾಧಿಸಬೇಕು. ಇಲ್ಲಿ ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ABCD ಒಂದು ಸಾಮಾನ್ಯ ಚತುರ್ಭುಜ. ಅದರ ಕೋನಗಳಾದ ಕೋನ A, ಕೋನ B, ಕೋನ C, ಮತ್ತು ಕೋನ D ಯ ಕೋನಾರ್ಧಕಗಳು ಸೇರಿ EFGH ಎಂಬ ಇನ್ನೊಂದು ಚತುರ್ಭುಜವನ್ನು ರಚಿಸಿವೆ. ನಾವು ಈಗ EFGH ಒಂದು ಚಕ್ರೀಯ ಚತುರ್ಭುಜ ಎಂದು ಸಾಧಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಸಾಧನೆಯ ಲೆಕ್ಕವನ್ನು ನೋಡೋಣ. ಒಂದು ಚತುರ್ಭುಜದ ಒಳಕೋನಾರ್ಧಕ ರೇಖೆಗಳಿಂದ ಏರ್ಪಟ್ಟ ಚತುರ್ಭುಜವು ಚಕ್ರೀಯ ಚತುರ್ಭುಜ ಎಂದು ನಾವು ಸಾಧಿಸಬೇಕು. ಇಲ್ಲಿ ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, $ABCD$ ಒಂದು ಸಾಮಾನ್ಯ ಚತುರ್ಭುಜ. ಅದರ ಕೋನಗಳಾದ $\\angle A$, $\\angle B$, $\\angle C$, ಮತ್ತು $\\angle D$ ಯ ಕೋನಾರ್ಧಕಗಳು ಸೇರಿ $EFGH$ ಎಂಬ ಇನ್ನೊಂದು ಚತುರ್ಭುಜವನ್ನು ರಚಿಸಿವೆ. ನಾವು ಈಗ $EFGH$ ಒಂದು ಚಕ್ರೀಯ ಚತುರ್ಭುಜ ಎಂದು ಸಾಧಿಸಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತ: ಚತುರ್ಭುಜ ABCD ಯ ಕೋನಾರ್ಧಕಗಳಿಂದ ಚತುರ್ಭುಜ EFGH ರಚನೆಯಾಗಿದೆ.",
+    "ಸಾಧನೀಯ: ಚತುರ್ಭುಜ EFGH ಚಕ್ರೀಯವಾಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A general quadrilateral ABCD. Its internal angle bisectors AH, BF, CF, and DH intersect to form a smaller quadrilateral EFGH inside it. The vertices of the inner quadrilateral are the intersection points of the bisectors: E is the intersection of AH and BF, F is the intersection of BF and CF, G is the intersection of CF and DH, and H is the intersection of DH and AH.",
+    "labels": "A, B, C, D, E, F, G, H",
+    "mathematical_significance": "To visualize the problem statement. Shows the outer quadrilateral ABCD and the inner quadrilateral EFGH formed by the angle bisectors.",
+    "placeholder_note": "Image to be generated showing a general quadrilateral ABCD with its angle bisectors forming an inner quadrilateral EFGH."
+  },
+  "sub_type": "problem_setup",
+  "source_example_id": "GEO-CIR-2_example_8",
+  "chunk_id": "GEO-CIR-2_concept_4_chunk_018"
+}

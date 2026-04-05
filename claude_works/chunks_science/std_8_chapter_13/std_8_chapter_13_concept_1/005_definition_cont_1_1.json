@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರತಿಫಲಿತ ಕಿರಣ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈಗ ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಒಂದು ಬೆಳಕಿನ ಕಿರಣ, ಅಂದರೆ ಪತನ ಕಿರಣ, ಬಂದು ಕನ್ನಡಿಯ ಮೇಲೆ ಬೀಳುತ್ತದೆ. ನಂತರ, ಕನ್ನಡಿಯ ಮೇಲ್ಮೈಯಿಂದ ಬೆಳಕು ಪುಟಿದು, ಬೇರೆ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತದೆ. ಹೀಗೆ ಹಿಂದಕ್ಕೆ ಬರುವ ಕಿರಣವೇ 'ಪ್ರತಿಫಲಿತ ಕಿರಣ' ಆಗಿದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಕೆಂಪು ಬಣ್ಣದ ಬಾಣದ ಗುರುತು ಪ್ರತಿಫಲಿತ ಕಿರಣವನ್ನು ತೋರಿಸುತ್ತಿದೆ. ಇದು ಮೇಲ್ಮೈಯಿಂದ ಹೊರಟು ಹೋಗುವುದನ್ನು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ಗಮನಿಸಬಹುದು. ಪತನ ಕಿರಣವು ಮೇಲ್ಮೈಗೆ ಬಂದರೆ, ಪ್ರತಿಫಲಿತ ಕಿರಣವು ಮೇಲ್ಮೈಯಿಂದ ಹೊರಡುತ್ತದೆ.",
+  "script_display": "ಈಗ ಈ ಚಿತ್ರವನ್ನು ನೋಡಿ. ಇಲ್ಲಿ ಒಂದು ಬೆಳಕಿನ ಕಿರಣ (ಪತನ ಕಿರಣ) ಬಂದು ಕನ್ನಡಿಯ ಮೇಲೆ ಬೀಳುತ್ತದೆ. ನಂತರ, ಕನ್ನಡಿಯ ಮೇಲ್ಮೈಯಿಂದ ಬೆಳಕು ಪುಟಿದು, ಬೇರೆ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತದೆ. ಹೀಗೆ ಹಿಂದಕ್ಕೆ ಬರುವ ಕಿರಣವೇ 'ಪ್ರತಿಫಲಿತ ಕಿರಣ' ಆಗಿದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಕೆಂಪು ಬಣ್ಣದ ಬಾಣದ ಗುರುತು ಪ್ರತಿಫಲಿತ ಕಿರಣವನ್ನು ತೋರಿಸುತ್ತಿದೆ. ಇದು ಮೇಲ್ಮೈಯಿಂದ ಹೊರಟು ಹೋಗುವುದನ್ನು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ಗಮನಿಸಬಹುದು. ಪತನ ಕಿರಣವು ಮೇಲ್ಮೈಗೆ ಬಂದರೆ, ಪ್ರತಿಫಲಿತ ಕಿರಣವು ಮೇಲ್ಮೈಯಿಂದ ಹೊರಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬೆಳಕಿನ ಕಿರಣವು (ಪತನ ಕಿರಣ) ಕನ್ನಡಿಯ ಮೇಲೆ ಬೀಳುತ್ತದೆ.",
+    "ಕನ್ನಡಿಯ ಮೇಲ್ಮೈಯಿಂದ ಬೆಳಕು ಪುಟಿದು, ಬೇರೆ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತದೆ.",
+    "ಹೀಗೆ ಹಿಂದಕ್ಕೆ ಬರುವ ಕಿರಣವೇ 'ಪ್ರತಿಫಲಿತ ಕಿರಣ'."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing the law of reflection. A flat mirror surface is shown. An incident ray (blue) hits the mirror. A normal is drawn as a dotted line at the point of incidence. A reflected ray (red) is shown leaving the mirror. The angle of incidence (i) and angle of reflection (r) are marked.",
+    "labels": "Incident Ray (ಪತನ ಕಿರಣ), Reflected Ray (ಪ್ರತಿಫಲಿತ ಕಿರಣ), Normal (ಲಂಬ), Mirror (ದರ್ಪಣ), Angle of Incidence (i), Angle of Reflection (r)",
+    "scientific_significance": "This diagram visually defines the key components involved in the process of reflection, making the abstract concept of a reflected ray concrete and easy to understand.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_13_concept_1_chunk_005"
+}

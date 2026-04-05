@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಚೀಲದಲ್ಲಿ 4 ಕೆಂಪು ಮತ್ತು 2 ಹಳದಿ ಚೆಂಡುಗಳಿವೆ. ಚೆಂಡುಗಳು ಬಣ್ಣವನ್ನು ಹೊರತುಪಡಿಸಿ ಎಲ್ಲಾ ರೀತಿಯಲ್ಲೂ ಒಂದೇ ಆಗಿವೆ. ಕಣ್ಣು ಮುಚ್ಚಿ ಒಂದು ಚೆಂಡನ್ನು ತೆಗೆದರೆ, ನಾವು ಎರಡು ವಿಷಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಮೊದಲನೆಯದಾಗಿ, ಕೆಂಪು ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು? ಮತ್ತು ಎರಡನೆಯದಾಗಿ, ಹಳದಿ ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು? ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ, ಚೀಲದಲ್ಲಿ 4 ಕೆಂಪು ಮತ್ತು 2 ಹಳದಿ ಚೆಂಡುಗಳಿವೆ. ನಾವು ಕೆಂಪು ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ ಮತ್ತು ಹಳದಿ ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಚೀಲದಲ್ಲಿ 4 ಕೆಂಪು ಮತ್ತು 2 ಹಳದಿ ಚೆಂಡುಗಳಿವೆ. ಚೆಂಡುಗಳು ಬಣ್ಣವನ್ನು ಹೊರತುಪಡಿಸಿ ಎಲ್ಲಾ ರೀತಿಯಲ್ಲೂ ಒಂದೇ ಆಗಿವೆ. ಕಣ್ಣು ಮುಚ್ಚಿ ಒಂದು ಚೆಂಡನ್ನು ತೆಗೆದರೆ, ನಾವು ಎರಡು ವಿಷಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು: (a) ಕೆಂಪು ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು? (b) ಹಳದಿ ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ ಎಷ್ಟು? ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ, ಚೀಲದಲ್ಲಿ 4 ಕೆಂಪು ಮತ್ತು 2 ಹಳದಿ ಚೆಂಡುಗಳಿವೆ. ನಾವು ಕೆಂಪು ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ ಮತ್ತು ಹಳದಿ ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ: ಚೀಲದಲ್ಲಿ 4 ಕೆಂಪು ಮತ್ತು 2 ಹಳದಿ ಚೆಂಡುಗಳಿವೆ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: (a) ಕೆಂಪು ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ. (b) ಹಳದಿ ಚೆಂಡು ಸಿಗುವ ಸಂಭವನೀಯತೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A bag containing 4 red balls and 2 yellow balls. The balls are identical except for their color.",
+    "labels": "4 ಕೆಂಪು ಚೆಂಡುಗಳು, 2 ಹಳದಿ ಚೆಂಡುಗಳು",
+    "mathematical_significance": "Visual representation of the items in the random experiment, helping to count the total outcomes and favorable outcomes.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "DATA-BAS-1_example_4",
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_032"
+}

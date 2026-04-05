@@ -1,0 +1,37 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರವನ್ನು ಹೇಗೆ ಪಡೆಯುವುದು?",
+  "script": "ಕಂಕಣದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವನ್ನು ಪಡೆಯುವುದು ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಇದರ ಹಿಂದಿನ ತರ್ಕವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಕಂಕಣದ ವಿಸ್ತೀರ್ಣವು ಮೂಲಭೂತವಾಗಿ ದೊಡ್ಡ, ಹೊರಗಿನ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣದಿಂದ ಸಣ್ಣ, ಒಳಗಿನ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಳೆದಾಗ ಸಿಗುವ ಮೌಲ್ಯವಾಗಿದೆ. ನಮಗೆ ಈಗಾಗಲೇ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ, ಎ ಈಕ್ವಲ್ಸ್ ಪೈ ಆರ್ ಸ್ಕ್ವೇರ್ಡ್, ತಿಳಿದಿದೆ. ಹಾಗಾಗಿ, ಹೊರಗಿನ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣವು ಪೈ ಕ್ಯಾಪಿಟಲ್ ಆರ್ ಸ್ಕ್ವೇರ್ಡ್ ಆಗುತ್ತದೆ. ಹಾಗೆಯೇ, ಒಳಗಿನ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣವು ಪೈ ಸ್ಮಾಲ್ ಆರ್ ಸ್ಕ್ವೇರ್ಡ್ ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಕಂಕಣದ ವಿಸ್ತೀರ್ಣವು ಪೈ ಕ್ಯಾಪಿಟಲ್ ಆರ್ ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಪೈ ಸ್ಮಾಲ್ ಆರ್ ಸ್ಕ್ವೇರ್ಡ್ ಆಗುತ್ತದೆ.",
+  "script_display": "ಕಂಕಣದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರವನ್ನು ಪಡೆಯುವುದು ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಇದರ ಹಿಂದಿನ ತರ್ಕವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಕಂಕಣದ ವಿಸ್ತೀರ್ಣವು ಮೂಲಭೂತವಾಗಿ ದೊಡ್ಡ, ಹೊರಗಿನ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣದಿಂದ ಸಣ್ಣ, ಒಳಗಿನ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಳೆದಾಗ ಸಿಗುವ ಮೌಲ್ಯವಾಗಿದೆ. ನಮಗೆ ಈಗಾಗಲೇ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ, $A = πr²$, ತಿಳಿದಿದೆ.",
+  "display_bullets": [
+    "ಕಂಕಣದ ವಿಸ್ತೀರ್ಣ = (ಹೊರಗಿನ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ) - (ಒಳಗಿನ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ)",
+    "ಹೊರಗಿನ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ = $πR²$",
+    "ಒಳಗಿನ ವೃತ್ತದ ವಿಸ್ತೀರ್ಣ = $πr²$",
+    "ಆದ್ದರಿಂದ, ಕಂಕಣದ ವಿಸ್ತೀರ್ಣ = $πR² - πr²$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A visual derivation of the area of a ring. It shows three parts: 1. A large circle with area labeled 'πR²'. 2. A minus sign. 3. A smaller circle with area labeled 'πr²'. 4. An equals sign. 5. The resulting annulus (ring) with area labeled 'πR² - πr²'.",
+    "labels": "Area of outer circle, Area of inner circle, Area of ring",
+    "mathematical_significance": "This diagram visually demonstrates the subtraction principle used to derive the formula for the area of an annulus, making the concept intuitive.",
+    "placeholder_note": "Image to be generated showing Area(Big Circle) - Area(Small Circle) = Area(Ring)."
+  },
+  "chunk_id": "MEN-AREA-1_concept_6_chunk_010"
+}

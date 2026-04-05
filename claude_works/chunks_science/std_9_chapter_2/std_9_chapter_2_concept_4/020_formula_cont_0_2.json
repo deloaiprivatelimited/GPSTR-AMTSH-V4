@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಹಂತ 1",
+  "script": "ಲೆಕ್ಕವನ್ನು ಬಿಡಿಸುವ ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ದ್ರಾವಣದ ಒಟ್ಟು ರಾಶಿಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನೆನಪಿಡಿ, ದ್ರಾವಣದ ರಾಶಿಯು ದ್ರಾವ್ಯದ ರಾಶಿ ಮತ್ತು ದ್ರಾವಕದ ರಾಶಿಯ ಮೊತ್ತವಾಗಿರುತ್ತದೆ. ನಮ್ಮ ಉದಾಹರಣೆಯಲ್ಲಿ, ದ್ರಾವ್ಯವಾದ ಉಪ್ಪಿನ ರಾಶಿ 40 ಗ್ರಾಂ ಮತ್ತು ದ್ರಾವಕವಾದ ನೀರಿನ ರಾಶಿ 320 ಗ್ರಾಂ. ಆದ್ದರಿಂದ, ದ್ರಾವಣದ ರಾಶಿಯು 40 ಪ್ಲಸ್ 320, ಅಂದರೆ ಒಟ್ಟು 360 ಗ್ರಾಂ ಆಗುತ್ತದೆ. ಇದು ನಮ್ಮ ಸೂತ್ರದ ಛೇದದಲ್ಲಿ ಬರುವ ಮೌಲ್ಯ.",
+  "script_display": "ಲೆಕ್ಕವನ್ನು ಬಿಡಿಸುವ ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ದ್ರಾವಣದ ಒಟ್ಟು ರಾಶಿಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನೆನಪಿಡಿ, ದ್ರಾವಣದ ರಾಶಿಯು ದ್ರಾವ್ಯದ ರಾಶಿ ಮತ್ತು ದ್ರಾವಕದ ರಾಶಿಯ ಮೊತ್ತವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಹಂತ 1: ದ್ರಾವಣದ ಒಟ್ಟು ರಾಶಿಯನ್ನು ಲೆಕ್ಕ ಹಾಕಿ.",
+    "ದ್ರಾವಣದ ರಾಶಿ = ದ್ರಾವ್ಯದ ರಾಶಿ + ದ್ರಾವಕದ ರಾಶಿ",
+    "ದ್ರಾವಣದ ರಾಶಿ = 40 g + 320 g",
+    "ದ್ರಾವಣದ ರಾಶಿ = 360 g"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ದ್ರಾವಣದ ರಾಶಿ} = \\text{ದ್ರಾವ್ಯದ ರಾಶಿ} + \\text{ದ್ರಾವಕದ ರಾಶಿ} \\\\ \\text{ದ್ರಾವಣದ ರಾಶಿ} = 40 \\text{ g} + 320 \\text{ g} = 360 \\text{ g}",
+    "placeholder_note": "Calculation of the total mass of the solution."
+  },
+  "chunk_id": "std_9_chapter_2_concept_4_chunk_020"
+}

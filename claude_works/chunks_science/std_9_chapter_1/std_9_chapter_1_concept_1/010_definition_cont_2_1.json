@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಗಾತ್ರದ ಪರಿಕಲ್ಪನೆ: ಒಂದು ಚಟುವಟಿಕೆ",
+  "script": "ಈಗ ಗಾತ್ರದ ಪರಿಕಲ್ಪನೆಯನ್ನು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಂದು ಅಳತೆ ಪಾತ್ರೆಯಲ್ಲಿ, ಅಂದರೆ ಮೆಷರಿಂಗ್ ಸಿಲಿಂಡರ್ ನಲ್ಲಿ, ಸ್ವಲ್ಪ ನೀರನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಅದರ ಮಟ್ಟವನ್ನು ಗುರುತಿಸಿ. ಈಗ, ಒಂದು ಸಣ್ಣ ಕಲ್ಲನ್ನು ದಾರಕ್ಕೆ ಕಟ್ಟಿ, ನಿಧಾನವಾಗಿ ಆ ನೀರಿನೊಳಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಮುಳುಗಿಸಿ. ನೀವು ಏನು ಗಮನಿಸುತ್ತೀರಿ? ನೀರಿನ ಮಟ್ಟವು ಏರಿರುವುದನ್ನು ಕಾಣಬಹುದು. ಹೀಗೇಕೆ ಆಯಿತು? ಏಕೆಂದರೆ, ಕಲ್ಲು ತನ್ನ ಗಾತ್ರಕ್ಕೆ ಸಮನಾದ ನೀರನ್ನು ಪಕ್ಕಕ್ಕೆ ಸರಿಸಿದೆ. ನೀರಿನ ಮಟ್ಟದಲ್ಲಿ ಆದ ಈ ಹೆಚ್ಚಳವೇ ಆ ಕಲ್ಲಿನ ಗಾತ್ರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಅನಿಯಮಿತ ಆಕಾರದ ವಸ್ತುಗಳ ಗಾತ್ರವನ್ನು ಅಳೆಯುವ ಒಂದು ವಿಧಾನವಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಅಳತೆ ಪಾತ್ರೆಯಲ್ಲಿನ ನೀರಿಗೆ ಕಲ್ಲನ್ನು ಮುಳುಗಿಸಿದಾಗ, ನೀರಿನ ಮಟ್ಟ ಏರುತ್ತದೆ. ಕಲ್ಲು ಆಕ್ರಮಿಸಿಕೊಂಡ ಸ್ಥಳದಿಂದ ನೀರು ಪಲ್ಲಟಗೊಂಡಿದೆ. ನೀರಿನ ಮಟ್ಟದಲ್ಲಿನ ಈ ಹೆಚ್ಚಳವು ಕಲ್ಲಿನ ಗಾತ್ರವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅಳತೆ ಪಾತ್ರೆಯಲ್ಲಿ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಮಟ್ಟವನ್ನು ಗುರುತಿಸಿ.",
+    "ಕಲ್ಲನ್ನು ನೀರಿನಲ್ಲಿ ಮುಳುಗಿಸಿದಾಗ, ನೀರಿನ ಮಟ್ಟ ಏರುತ್ತದೆ.",
+    "ನೀರಿನ ಮಟ್ಟದಲ್ಲಿನ ಹೆಚ್ಚಳವು ಕಲ್ಲಿನ ಗಾತ್ರವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-part diagram. Part 1: A measuring cylinder with water at the 50 mL mark. Part 2: The same measuring cylinder, but now a small, irregular stone is submerged in the water, and the water level has risen to the 70 mL mark. An arrow indicates the difference of 20 mL, labeled 'Volume of the stone'.",
+    "labels": "Initial Level (50 mL), Final Level (70 mL), Stone, Volume of stone (20 mL)",
+    "scientific_significance": "Demonstrates the water displacement method for measuring the volume of an irregularly shaped solid, a fundamental concept in physics and chemistry.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_1_concept_1_chunk_010"
+}

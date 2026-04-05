@@ -1,0 +1,46 @@
+{
+  "module_id": "std_10_chapter_5_concept_6",
+  "chapter_code": "std_10_chapter_5",
+  "voice": "Fenrir",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 3,
+  "total_duration": 129.633,
+  "total_duration_formatted": "2:09",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_10_chapter_5_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಮಾನವನ ಶ್ವಾಸಕಾಂಗವ್ಯೂಹ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 59.651,
+      "duration": 59.651,
+      "script_words": 88
+    },
+    {
+      "chunk_id": "std_10_chapter_5_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "start": 60.251,
+      "end": 89.542,
+      "duration": 29.291,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "std_10_chapter_5_concept_6_chunk_003",
+      "chunk_file": "003_recap_0.json",
+      "wav_file": "003_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಮಾನವನ ಶ್ವಾಸಕಾಂಗವ್ಯೂಹ",
+      "type": "recap",
+      "start": 90.142,
+      "end": 129.033,
+      "duration": 38.891,
+      "script_words": 56
+    }
+  ]
+}

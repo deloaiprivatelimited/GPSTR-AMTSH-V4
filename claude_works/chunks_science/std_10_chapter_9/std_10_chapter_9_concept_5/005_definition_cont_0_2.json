@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ದೃಶ್ಯ ವಿವರಣೆ: ಬಾಗಿದ ಪೆನ್ಸಿಲ್",
+  "script": "ಈಗ ನಾವು ಪರಿಚಯದಲ್ಲಿ ಮಾತನಾಡಿದ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಒಂದು ಪೆನ್ಸಿಲ್ ಅನ್ನು ನೀರಿನಲ್ಲಿ ಭಾಗಶಃ ಮುಳುಗಿಸಲಾಗಿದೆ. ಮೊದಲನೆಯದಾಗಿ, ಗಾಳಿಯಲ್ಲಿರುವ ಪೆನ್ಸಿಲ್‌ನ ಭಾಗದಿಂದ ಬರುವ ಬೆಳಕು ನೇರವಾಗಿ ನಮ್ಮ ಕಣ್ಣನ್ನು ತಲುಪುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ನೀರಿನೊಳಗಿನ ಭಾಗದಿಂದ ಬರುವ ಬೆಳಕು, ನೀರಿನಿಂದ ಗಾಳಿಗೆ ಪ್ರವೇಶಿಸುವಾಗ ಬಾಗುತ್ತದೆ, ಅಂದರೆ ವಕ್ರೀಭವನಗೊಳ್ಳುತ್ತದೆ. ಈ ಬಾಗುವಿಕೆಯಿಂದಾಗಿ, ಪೆನ್ಸಿಲ್ ನೀರಿನ ಮೇಲ್ಮೈಯಲ್ಲಿ ಮುರಿದಂತೆ ಅಥವಾ ಬಾಗಿದಂತೆ ಕಾಣುತ್ತದೆ. ನಮ್ಮ ಕಣ್ಣುಗಳು ಬೆಳಕು ನೇರ ರೇಖೆಯಲ್ಲಿ ಚಲಿಸುತ್ತದೆ ಎಂದು ಭಾವಿಸುವುದರಿಂದ ಈ ದೃಶ್ಯ ಭ್ರಮೆ ಉಂಟಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಪರಿಚಯದಲ್ಲಿ ಮಾತನಾಡಿದ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಚಿತ್ರದಲ್ಲಿ, ಒಂದು ಪೆನ್ಸಿಲ್ ಅನ್ನು ನೀರಿನಲ್ಲಿ ಭಾಗಶಃ ಮುಳುಗಿಸಲಾಗಿದೆ.",
+  "display_bullets": [
+    "ಗಾಳಿಯಲ್ಲಿರುವ ಪೆನ್ಸಿಲ್‌ನ ಭಾಗದಿಂದ ಬರುವ ಬೆಳಕು ನೇರವಾಗಿ ಚಲಿಸುತ್ತದೆ.",
+    "ನೀರಿನೊಳಗಿನ ಭಾಗದಿಂದ ಬರುವ ಬೆಳಕು, ನೀರಿನಿಂದ ಗಾಳಿಗೆ ಪ್ರವೇಶಿಸುವಾಗ ಬಾಗುತ್ತದೆ (ವಕ್ರೀಭವನ).",
+    "ಈ ಬಾಗುವಿಕೆಯಿಂದಾಗಿ, ಪೆನ್ಸಿಲ್ ನೀರಿನ ಮೇಲ್ಮೈಯಲ್ಲಿ ಮುರಿದಂತೆ ಅಥವಾ ಬಾಗಿದಂತೆ ಕಾಣುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "physics_dark_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear diagram showing a pencil in a glass of water. Ray diagram lines should be included. One ray from the pencil tip in the water travels to the surface, bends (refracts) away from the normal, and enters an observer's eye. A dotted line should trace this refracted ray back to show the apparent position of the pencil tip, which is higher than the actual position.",
+    "labels": "ಗಾಳಿ (ವಿರಳ ಮಾಧ್ಯಮ), ನೀರು (ಸಾಂದ್ರ ಮಾಧ್ಯಮ), ನಿಜವಾದ ಸ್ಥಾನ, ತೋರಿಕೆಯ ಸ್ಥಾನ, ವಕ್ರೀಭವನಗೊಂಡ ಕಿರಣ, ಲಂಬ ರೇಖೆ",
+    "scientific_significance": "This diagram visually demonstrates the effect of refraction of light, explaining a common optical illusion and making the abstract concept of refraction concrete and relatable.",
+    "placeholder_note": "Diagram of bent pencil in water with ray tracing."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_9_concept_5_chunk_005"
+}

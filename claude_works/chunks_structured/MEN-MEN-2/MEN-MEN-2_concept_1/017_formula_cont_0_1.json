@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸೂತ್ರದಲ್ಲಿನ ಪದಗಳ ಅರ್ಥ",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ನಾವು ಒಂದು ತ್ರಾಪಿಜ್ಯವನ್ನು ನೋಡಬಹುದು. ಮೇಲಿನ ಮತ್ತು ಕೆಳಗಿನ ಬಾಹುಗಳು, ಅಂದರೆ a ಮತ್ತು b, ಒಂದಕ್ಕೊಂದು ಸಮಾಂತರವಾಗಿವೆ. ಇವುಗಳನ್ನು ನಾವು ಸಮಾಂತರ ಬಾಹುಗಳು ಎಂದು ಕರೆಯುತ್ತೇವೆ. h ಎಂಬುದು ಈ ಎರಡು ಸಮಾಂತರ ಬಾಹುಗಳ ನಡುವಿನ ಲಂಬ ಅಂತರ ಅಥವಾ ಎತ್ತರ. ಇದು ಬಹಳ ಮುಖ್ಯ, ನಾವು ಓರೆ ಎತ್ತರವನ್ನು ಬಳಸಬಾರದು, ಕೇವಲ ಲಂಬ ಎತ್ತರವನ್ನು ಮಾತ್ರ ಪರಿಗಣಿಸಬೇಕು. ಸೂತ್ರದಲ್ಲಿ a ಪ್ಲಸ್ b ಎಂದರೆ ಈ ಎರಡು ಸಮಾಂತರ ಬಾಹುಗಳ ಉದ್ದಗಳನ್ನು ಕೂಡಿಸುವುದು. ನಂತರ ಆ ಮೊತ್ತವನ್ನು ಎತ್ತರದೊಂದಿಗೆ ಗುಣಿಸಿ, ಅದರ ಅರ್ಧವನ್ನು ತೆಗೆದುಕೊಂಡರೆ ನಮಗೆ ವಿಸ್ತೀರ್ಣ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ನಾವು ಒಂದು ತ್ರಾಪಿಜ್ಯವನ್ನು ನೋಡಬಹುದು.\n*   $a$ ಮತ್ತು $b$ ಗಳು ಒಂದಕ್ಕೊಂದು ಸಮಾಂತರವಾಗಿರುವ ಬಾಹುಗಳು.\n*   $h$ ಎಂಬುದು ಈ ಸಮಾಂತರ ಬಾಹುಗಳ ನಡುವಿನ **ಲಂಬ** ಅಂತರ ಅಥವಾ ಎತ್ತರ.\n*   ಓರೆ ಎತ್ತರವನ್ನು (slant height) ಬಳಸಬಾರದು, ಕೇವಲ ಲಂಬ ಎತ್ತರವನ್ನು ಮಾತ್ರ ಪರಿಗಣಿಸಬೇಕು.\nಸೂತ್ರದಲ್ಲಿ $(a+b)$ ಎಂದರೆ ಈ ಎರಡು ಸಮಾಂತರ ಬಾಹುಗಳ ಉದ್ದಗಳನ್ನು ಕೂಡಿಸುವುದು. ನಂತರ ಆ ಮೊತ್ತವನ್ನು ಎತ್ತರದೊಂದಿಗೆ ಗುಣಿಸಿ, ಅದರ ಅರ್ಧವನ್ನು ತೆಗೆದುಕೊಂಡರೆ ನಮಗೆ ವಿಸ್ತೀರ್ಣ ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "$a$ ಮತ್ತು $b$ ಗಳು ಸಮಾಂತರ ಬಾಹುಗಳು.",
+    "$h$ ಎಂಬುದು ಸಮಾಂತರ ಬಾಹುಗಳ ನಡುವಿನ ಲಂಬ ಎತ್ತರ.",
+    "ಸೂತ್ರವು ಸಮಾಂತರ ಬಾಹುಗಳ ಮೊತ್ತವನ್ನು ಬಳಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A trapezium ABCD where AB is parallel to DC. A perpendicular line is drawn from vertex A to the base DC, labeled as 'h'. The parallel sides AB and DC are labeled 'a' and 'b' respectively.",
+    "labels": "A, B, C, D, a, b, h",
+    "mathematical_significance": "Visually represents the components of the area of a trapezium formula: the two parallel sides (a and b) and the perpendicular height (h) between them.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-MEN-2_concept_1_chunk_017"
+}

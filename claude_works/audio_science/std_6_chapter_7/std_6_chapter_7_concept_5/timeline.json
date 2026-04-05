@@ -1,0 +1,189 @@
+{
+  "module_id": "std_6_chapter_7_concept_5",
+  "chapter_code": "std_6_chapter_7",
+  "voice": "Callirrhoe",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 16,
+  "total_duration": 675.376,
+  "total_duration_formatted": "11:15",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 55.931,
+      "duration": 55.931,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "start": 56.531,
+      "end": 84.582,
+      "duration": 28.051,
+      "script_words": 38
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_003",
+      "chunk_file": "003_definition_0.json",
+      "wav_file": "003_definition_0.wav",
+      "slide_title": "ಕನಿಷ್ಠ ಮೌಲ್ಯ (Least Count) ಎಂದರೇನು?",
+      "type": "definition",
+      "start": 85.182,
+      "end": 125.633,
+      "duration": 40.451,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_004",
+      "chunk_file": "004_definition_cont_0_1.json",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "slide_title": "ಕನಿಷ್ಠ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಹೇಗೆ?",
+      "type": "definition",
+      "start": 126.233,
+      "end": 171.764,
+      "duration": 45.531,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_005",
+      "chunk_file": "005_definition_cont_0_2.json",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಕನಿಷ್ಠ ಮೌಲ್ಯದ ಲೆಕ್ಕಾಚಾರ",
+      "type": "definition",
+      "start": 172.364,
+      "end": 216.335,
+      "duration": 43.971,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_006",
+      "chunk_file": "006_property_0.json",
+      "wav_file": "006_property_0.wav",
+      "slide_title": "ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕದ ರಚನೆ",
+      "type": "concept_explanation",
+      "start": 216.935,
+      "end": 261.186,
+      "duration": 44.251,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_007",
+      "chunk_file": "007_property_cont_0_1.json",
+      "wav_file": "007_property_cont_0_1.wav",
+      "slide_title": "ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕದ ವ್ಯಾಪ್ತಿ",
+      "type": "concept_explanation",
+      "start": 261.786,
+      "end": 304.357,
+      "duration": 42.571,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_008",
+      "chunk_file": "008_experiment_0.json",
+      "wav_file": "008_experiment_0.wav",
+      "slide_title": "ಪ್ರಯೋಗ: ನೀರಿನ ತಾಪವನ್ನು ಅಳೆಯುವುದು",
+      "type": "experiment_activity",
+      "start": 304.957,
+      "end": 342.768,
+      "duration": 37.811,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_009",
+      "chunk_file": "009_experiment_cont_0_1.json",
+      "wav_file": "009_experiment_cont_0_1.wav",
+      "slide_title": "ಹಂತ 1: ಕನಿಷ್ಠ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು",
+      "type": "experiment_activity",
+      "start": 343.368,
+      "end": 388.099,
+      "duration": 44.731,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_010",
+      "chunk_file": "010_experiment_cont_0_2.json",
+      "wav_file": "010_experiment_cont_0_2.wav",
+      "slide_title": "ಹಂತ 2: ದ್ರವದ ತಾಪವನ್ನು ಅಳೆಯುವುದು",
+      "type": "experiment_activity",
+      "start": 388.699,
+      "end": 427.03,
+      "duration": 38.331,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_011",
+      "chunk_file": "011_experiment_cont_0_3.json",
+      "wav_file": "011_experiment_cont_0_3.wav",
+      "slide_title": "ಗಮನಿಸಬೇಕಾದ ಮುನ್ನೆಚ್ಚರಿಕೆಗಳು",
+      "type": "experiment_activity",
+      "start": 427.63,
+      "end": 478.801,
+      "duration": 51.171,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_012",
+      "chunk_file": "012_experiment_cont_0_4.json",
+      "wav_file": "012_experiment_cont_0_4.wav",
+      "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "start": 479.401,
+      "end": 516.492,
+      "duration": 37.091,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_013",
+      "chunk_file": "013_example_0.json",
+      "wav_file": "013_example_0.wav",
+      "slide_title": "ಲೆಕ್ಕದ ಉದಾಹರಣೆ: ಕನಿಷ್ಠ ಮೌಲ್ಯ",
+      "type": "worked_example",
+      "start": 517.092,
+      "end": 547.423,
+      "duration": 30.331,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_014",
+      "chunk_file": "014_example_cont_0_1.json",
+      "wav_file": "014_example_cont_0_1.wav",
+      "slide_title": "ಪರಿಹಾರ: ಹಂತ ಹಂತವಾಗಿ",
+      "type": "worked_example",
+      "start": 548.023,
+      "end": 596.674,
+      "duration": 48.651,
+      "script_words": 69
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_015",
+      "chunk_file": "015_example_cont_0_2.json",
+      "wav_file": "015_example_cont_0_2.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "start": 597.274,
+      "end": 618.525,
+      "duration": 21.251,
+      "script_words": 29
+    },
+    {
+      "chunk_id": "std_6_chapter_7_concept_5_chunk_016",
+      "chunk_file": "016_recap_0.json",
+      "wav_file": "016_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಪ್ರಯೋಗಶಾಲಾ ತಾಪಮಾಪಕ",
+      "type": "recap",
+      "start": 619.125,
+      "end": 674.776,
+      "duration": 55.651,
+      "script_words": 65
+    }
+  ]
+}

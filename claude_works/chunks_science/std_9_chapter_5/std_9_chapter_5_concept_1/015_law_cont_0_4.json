@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಚನಾತ್ಮಕ ಮತ್ತು ಕಾರ್ಯಾತ್ಮಕ ಘಟಕ",
+  "script": "ಜೀವಕೋಶವು 'ಜೀವದ ರಚನಾತ್ಮಕ ಮತ್ತು ಕಾರ್ಯಾತ್ಮಕ ಘಟಕ' ಎಂದರೆ ಏನರ್ಥ? 'ರಚನಾತ್ಮಕ ಘಟಕ' ಎಂದರೆ, ಒಂದು ಕಟ್ಟಡವನ್ನು ಇಟ್ಟಿಗೆಗಳಿಂದ ನಿರ್ಮಿಸಿದಂತೆ, ಎಲ್ಲಾ ಜೀವಿಗಳ ದೇಹವು ಜೀವಕೋಶಗಳಿಂದ ನಿರ್ಮಿಸಲ್ಪಟ್ಟಿದೆ. 'ಕಾರ್ಯಾತ್ಮಕ ಘಟಕ' ಎಂದರೆ, ಉಸಿರಾಟ, ಪೋಷಣೆ, ವಿಸರ್ಜನೆ ಮುಂತಾದ ಎಲ್ಲಾ ಜೈವಿಕ ಕ್ರಿಯೆಗಳು ಪ್ರತಿ ಜೀವಕೋಶದ ಮಟ್ಟದಲ್ಲಿ ನಡೆಯುತ್ತವೆ. ಉದಾಹರಣೆಗೆ, ನಾವು ಉಸಿರಾಡಿದಾಗ, ಆಮ್ಲಜನಕವು ನಮ್ಮ ಪ್ರತಿಯೊಂದು ಜೀವಕೋಶವನ್ನು ತಲುಪಿ ಅಲ್ಲಿ ಶಕ್ತಿ ಉತ್ಪಾದನೆಗೆ ಬಳಕೆಯಾಗುತ್ತದೆ. ಹೀಗೆ, ಜೀವಕೋಶವೇ ಜೀವದ ಮೂಲ ಆಧಾರ.",
+  "script_display": "ಜೀವಕೋಶವು 'ಜೀವದ ರಚನಾತ್ಮಕ ಮತ್ತು ಕಾರ್ಯಾತ್ಮಕ ಘಟಕ' ಎಂದರೆ ಏನರ್ಥ? 'ರಚನಾತ್ಮಕ ಘಟಕ' ಎಂದರೆ, ಕಟ್ಟಡವನ್ನು ಇಟ್ಟಿಗೆಗಳಿಂದ ನಿರ್ಮಿಸಿದಂತೆ, ಜೀವಿಗಳ ದೇಹವು ಜೀವಕೋಶಗಳಿಂದ ನಿರ್ಮಿಸಲ್ಪಟ್ಟಿದೆ. 'ಕಾರ್ಯಾತ್ಮಕ ಘಟಕ' ಎಂದರೆ, ಉಸಿರಾಟ, ಪೋಷಣೆ, ವಿಸರ್ಜನೆಯಂತಹ ಎಲ್ಲಾ ಜೈವಿಕ ಕ್ರಿಯೆಗಳು ಪ್ರತಿ ಜೀವಕೋಶದ ಮಟ್ಟದಲ್ಲಿ ನಡೆಯುತ್ತವೆ. ಜೀವಕೋಶವೇ ಜೀವದ ಮೂಲ ಆಧಾರ.",
+  "display_bullets": [
+    "ರಚನಾತ್ಮಕ ಘಟಕ: ಜೀವಿಗಳ ದೇಹವು ಜೀವಕೋಶಗಳಿಂದ ನಿರ್ಮಿಸಲ್ಪಟ್ಟಿದೆ (ಕಟ್ಟಡದ ಇಟ್ಟಿಗೆಗಳಂತೆ).",
+    "ಕಾರ್ಯಾತ್ಮಕ ಘಟಕ: ಉಸಿರಾಟ, ಪೋಷಣೆಯಂತಹ ಎಲ್ಲಾ ಜೈವಿಕ ಕ್ರಿಯೆಗಳು ಜೀವಕೋಶದೊಳಗೆ ನಡೆಯುತ್ತವೆ.",
+    "ಒಟ್ಟಾರೆಯಾಗಿ, ಜೀವಕೋಶವಿಲ್ಲದೆ ಜೀವ ಅಸ್ತಿತ್ವದಲ್ಲಿರಲು ಸಾಧ್ಯವಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A two-part diagram. Left side shows bricks forming a wall, labeled 'ರಚನಾತ್ಮಕ ಘಟಕ'. Right side shows a single animal cell with labels for functions like 'ಉಸಿರಾಟ' (respiration) and 'ಪೋಷಣೆ' (nutrition) happening inside, labeled 'ಕಾರ್ಯಾತ್ಮಕ ಘಟಕ'.",
+    "labels": "ಇಟ್ಟಿಗೆ, ಗೋಡೆ, ಜೀವಕೋಶ, ಉಸಿರಾಟ, ಪೋಷಣೆ",
+    "scientific_significance": "Uses an analogy (bricks in a wall) to explain the concept of 'structural and functional unit of life'.",
+    "placeholder_note": "Image to be generated with the brick wall and cell function analogy."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_5_concept_1_chunk_015"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಆದ್ದರಿಂದ, ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಮೂರು ಬಾರ್ ಅನ್ನು ಪಿ ಬೈ ಕ್ಯೂ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿದಾಗ, ನಮಗೆ ಒಂದು ಬೈ ಮೂರು ಎಂಬ ಉತ್ತರ ಸಿಗುತ್ತದೆ. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರವಾಗಿದೆ.",
+  "script_display": "ಆದ್ದರಿಂದ, $0.\\bar{3}$ ಅನ್ನು $\\frac{p}{q}$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿದಾಗ, ನಮಗೆ $\\frac{1}{3}$ ಎಂಬ ಉತ್ತರ ಸಿಗುತ್ತದೆ. ಇದು ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರವಾಗಿದೆ.",
+  "display_bullets": [
+    "$0.3333... = \\frac{1}{3}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "center_text_visual",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "0.\\bar{3} = \\frac{1}{3}",
+    "placeholder_note": "Final answer"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "NS-SYS-3_example_7",
+  "final_answer": "0.\\bar{3} = 1/3",
+  "final_answer_display": "$0.\\bar{3} = \\frac{1}{3}$",
+  "chunk_id": "NS-SYS-3_concept_3_chunk_010"
+}

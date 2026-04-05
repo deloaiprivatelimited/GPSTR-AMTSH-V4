@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಸ್ಪರ್ಶಕ (Tangent): ವ್ಯಾಖ್ಯೆ",
+  "script": "ಈಗ ನಾವು ಚಿತ್ರದಲ್ಲಿ ನೋಡುತ್ತಿರುವ ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯನ್ನು ಗಮನಿಸೋಣ. ಇಲ್ಲಿ ಕೋನ B ತೊಂಬತ್ತು ಡಿಗ್ರಿ. ನಾವು ಲಘುಕೋನ A ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಈ ಕೋನ A ಗೆ, ಟ್ಯಾಂಜೆಂಟ್ ಅನುಪಾತವನ್ನು ಹೀಗೆ ವ್ಯಾಖ್ಯಾನಿಸುತ್ತೇವೆ: ಟ್ಯಾನ್ A ಎಂದರೆ, A ಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು, ಅಂದರೆ BC, ಮತ್ತು A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಬಾಹು, ಅಂದರೆ AB, ಇವುಗಳ ಅನುಪಾತ. ಆದ್ದರಿಂದ, ಟ್ಯಾನ್ A ಸಮ BC ಭಾಗಿಸು AB.",
+  "script_display": "ಈಗ ನಾವು ಚಿತ್ರದಲ್ಲಿ ನೋಡುತ್ತಿರುವ ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯನ್ನು ಗಮನಿಸೋಣ. ಇಲ್ಲಿ $\\angle B = 90^\\circ$. ನಾವು ಲಘುಕೋನ A ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಈ ಕೋನ A ಗೆ, ಟ್ಯಾಂಜೆಂಟ್ ಅನುಪಾತವನ್ನು ಹೀಗೆ ವ್ಯಾಖ್ಯಾನಿಸುತ್ತೇವೆ: $\\tan A$ ಎಂದರೆ, A ಕೋನಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು, ಅಂದರೆ $BC$, ಮತ್ತು A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವದಲ್ಲಿರುವ ಬಾಹು, ಅಂದರೆ $AB$, ಇವುಗಳ ಅನುಪಾತ. ಆದ್ದರಿಂದ, $\\tan A = \\frac{BC}{AB}$.",
+  "display_bullets": [
+    "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, ∠B ಸಮ 90 ಡಿಗ್ರಿ.",
+    "∠A ಒಂದು ಲಘುಕೋನ.",
+    "tan A ಸಮ A ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು ಸಮ BC ಭಾಗಿಸು AB."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\tan A = \\frac{\\text{A ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು}}{\\text{A ಕೋನಕ್ಕೆ ಪಾರ್ಶ್ವ ಬಾಹು}} = \\frac{BC}{AB}",
+    "placeholder_note": "Display the formula for tan A clearly."
+  },
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_012"
+}

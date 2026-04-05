@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಆದರ್ಶ ರೂಪ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಎರಡು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಅವುಗಳ ಆದರ್ಶ ರೂಪದಲ್ಲಿ ಬರೆಯಬೇಕು. ಮೊದಲನೆಯದು, ಮುವತ್ತಾರು ಬೈ ಮೈನಸ್ ಇಪ್ಪತ್ತನಾಲ್ಕು. ಮತ್ತು ಎರಡನೆಯದು, ಮೈನಸ್ ಮೂರು ಬೈ ಮೈನಸ್ ಹದಿನೈದು. ಆದರ್ಶ ರೂಪದ ನಿಯಮಗಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ: ಛೇದವು ಧನವಾಗಿರಬೇಕು ಮತ್ತು ಅಂಶ ಮತ್ತು ಛೇದಕ್ಕೆ ಒಂದನ್ನು ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಇರಬಾರದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಎರಡು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳನ್ನು ಅವುಗಳ ಆದರ್ಶ ರೂಪದಲ್ಲಿ ಬರೆಯಬೇಕು. ಮೊದಲನೆಯದು, $\\frac{36}{-24}$. ಮತ್ತು ಎರಡನೆಯದು, $\\frac{-3}{-15}$. ಆದರ್ಶ ರೂಪದ ನಿಯಮಗಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳೋಣ: ಛೇದವು ಧನವಾಗಿರಬೇಕು ಮತ್ತು ಅಂಶ ಮತ್ತು ಛೇದಕ್ಕೆ 1ನ್ನು ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಯಾವುದೇ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಇರಬಾರದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: (i) $\\frac{36}{-24}$ ಮತ್ತು (ii) $\\frac{-3}{-15}$ ನ್ನು ಆದರ್ಶ ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಪ್ರತಿ ಸಂಖ್ಯೆಯ ಆದರ್ಶ ರೂಪ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಕೆಳಗಿನವುಗಳನ್ನು ಆದರ್ಶ ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ:}\\\\ \\text{(i) } \\frac{36}{-24} \\\\ \\text{(ii) } \\frac{-3}{-15}",
+    "placeholder_note": "Problem statement displayed in a box"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "NS-RAT-2_example_2",
+  "chunk_id": "NS-RAT-2_concept_1_chunk_027"
+}

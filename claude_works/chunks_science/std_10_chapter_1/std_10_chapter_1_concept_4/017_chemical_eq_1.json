@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆ: ZnO + C",
+  "script": "ಈಗ ನಾವು ಮತ್ತೊಂದು ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಘನ ರೂಪದಲ್ಲಿರುವ ಜಿಂಕ್ ಆಕ್ಸೈಡ್, ಘನ ರೂಪದಲ್ಲಿರುವ ಕಾರ್ಬನ್ ಜೊತೆ ವರ್ತಿಸಿದಾಗ, ಘನ ರೂಪದ ಜಿಂಕ್ ಮತ್ತು ಅನಿಲ ರೂಪದ ಕಾರ್ಬನ್ ಮೊನಾಕ್ಸೈಡ್ ಉಂಟಾಗುತ್ತದೆ.",
+  "script_display": "ರೆಡಾಕ್ಸ್ ಕ್ರಿಯೆಯ ಉದಾಹರಣೆ: ZnO + C",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_formula_center",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ZnO(s) + C(s) \\rightarrow Zn(s) + CO(g)",
+    "placeholder_note": "Balanced chemical equation for the reaction between Zinc Oxide and Carbon."
+  },
+  "chunk_id": "std_10_chapter_1_concept_4_chunk_017"
+}

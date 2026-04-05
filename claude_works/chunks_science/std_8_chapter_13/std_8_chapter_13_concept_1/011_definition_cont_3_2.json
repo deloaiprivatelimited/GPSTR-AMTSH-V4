@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಮಾನ್ಯ ತಪ್ಪು: ಪತನ ಕೋನವನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಗೊಂದಲ ಉಂಟುಮಾಡುವ ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪಿನ ಬಗ್ಗೆ ಈಗ ತಿಳಿಯೋಣ. ಅನೇಕರು ಪತನ ಕಿರಣ ಮತ್ತು ಕನ್ನಡಿಯ ಮೇಲ್ಮೈ ನಡುವಿನ ಕೋನವನ್ನು ಪತನ ಕೋನವೆಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುತ್ತಾರೆ. ಆದರೆ ಅದು ತಪ್ಪು. ಎಡಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರವನ್ನು ನೋಡಿ, ಇಲ್ಲಿ ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬ ರೇಖೆಯ ನಡುವಿನ ಕೋನವನ್ನು 'i' ಎಂದು ಸರಿಯಾಗಿ ಗುರುತಿಸಲಾಗಿದೆ. ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಲ್ಲಿ, ಕಿರಣ ಮತ್ತು ಕನ್ನಡಿಯ ಮೇಲ್ಮೈ ನಡುವಿನ ಕೋನವನ್ನು ತೋರಿಸಲಾಗಿದೆ, ಇದು ಪತನ ಕೋನವಲ್ಲ. ನೆನಪಿಡಿ, ಪತನ ಕೋನವು ಯಾವಾಗಲೂ ಲಂಬದೊಂದಿಗಿನ ಕೋನವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಗೊಂದಲ ಉಂಟುಮಾಡುವ ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪಿನ ಬಗ್ಗೆ ಈಗ ತಿಳಿಯೋಣ. ಅನೇಕರು ಪತನ ಕಿರಣ ಮತ್ತು ಕನ್ನಡಿಯ ಮೇಲ್ಮೈ ನಡುವಿನ ಕೋನವನ್ನು ಪತನ ಕೋನವೆಂದು ತಪ್ಪಾಗಿ ಭಾವಿಸುತ್ತಾರೆ. ಆದರೆ ಅದು ತಪ್ಪು. ಎಡಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರವನ್ನು ನೋಡಿ, ಇಲ್ಲಿ ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬ ರೇಖೆಯ ನಡುವಿನ ಕೋನವನ್ನು '∠i' ಎಂದು ಸರಿಯಾಗಿ ಗುರುತಿಸಲಾಗಿದೆ. ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಲ್ಲಿ, ಕಿರಣ ಮತ್ತು ಕನ್ನಡಿಯ ಮೇಲ್ಮೈ ನಡುವಿನ ಕೋನವನ್ನು ತೋರಿಸಲಾಗಿದೆ, ಇದು ಪತನ ಕೋನವಲ್ಲ. ನೆನಪಿಡಿ, ಪತನ ಕೋನವು ಯಾವಾಗಲೂ ಲಂಬದೊಂದಿಗಿನ ಕೋನವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸರಿಯಾದದ್ದು: ಪತನ ಕಿರಣ ಮತ್ತು ಲಂಬದ ನಡುವಿನ ಕೋನ.",
+    "ತಪ್ಪಾದದ್ದು: ಪತನ ಕಿರಣ ಮತ್ತು ಮೇಲ್ಮೈ ನಡುವಿನ ಕೋನ."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "full",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Split screen comparison. Left side titled 'ಸರಿ (Correct)' shows the angle of incidence 'i' correctly between the incident ray and the normal. Right side titled 'ತಪ್ಪು (Incorrect)' highlights the angle between the incident ray and the mirror surface, with a large red X over it.",
+    "labels": "Left: ಪತನ ಕೋನ (∠i), ಲಂಬ, ಪತನ ಕಿರಣ. Right: ತಪ್ಪಾದ ಕೋನ, ಮೇಲ್ಮೈ.",
+    "scientific_significance": "Directly addresses and visually corrects a common misconception about the angle of incidence.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_8_chapter_13_concept_1_chunk_011"
+}

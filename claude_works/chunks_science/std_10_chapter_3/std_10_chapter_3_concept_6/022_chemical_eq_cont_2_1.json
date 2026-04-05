@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ರಾಸಾಯನಿಕವಾಗಿ, ನಾವು ಈ ಸಂಭಾವ್ಯ ಕ್ರಿಯೆಯನ್ನು ಹೀಗೆ ಬರೆಯುತ್ತೇವೆ: ಸಿ ಯು ಪ್ಲಸ್ ಎಫ್ ಇ ಎಸ್ ಓ ಫೋರ್ ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ... ಏನೂ ಇಲ್ಲ. ಅಂದರೆ, ಇಲ್ಲಿ ಯಾವುದೇ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯುವುದಿಲ್ಲ. ದ್ರಾವಣದ ಬಣ್ಣ ಬದಲಾಗುವುದಿಲ್ಲ ಮತ್ತು ತಾಮ್ರದ ಮೇಲೆ ಏನೂ ಶೇಖರಣೆಯಾಗುವುದಿಲ್ಲ.",
+  "script_display": "ರಾಸಾಯನಿಕವಾಗಿ, ನಾವು ಈ ಸಂಭಾವ್ಯ ಕ್ರಿಯೆಯನ್ನು ಹೀಗೆ ಬರೆಯುತ್ತೇವೆ: Cu(s) + FeSO₄(aq) → ಕ್ರಿಯೆ ಇಲ್ಲ. ದ್ರಾವಣದ ಬಣ್ಣ ಬದಲಾಗುವುದಿಲ್ಲ ಮತ್ತು ತಾಮ್ರದ ಮೇಲೆ ಏನೂ ಶೇಖರಣೆಯಾಗುವುದಿಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Cu(s) + FeSO_{4}(aq) \\rightarrow \\text{ಕ್ರಿಯೆ ಇಲ್ಲ (No reaction)}",
+    "placeholder_note": "Display the chemical equation for the non-reaction between copper and iron(II) sulfate."
+  },
+  "chunk_id": "std_10_chapter_3_concept_6_chunk_022"
+}

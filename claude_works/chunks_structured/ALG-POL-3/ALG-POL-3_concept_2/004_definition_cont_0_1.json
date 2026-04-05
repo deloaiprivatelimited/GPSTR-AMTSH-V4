@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯೆ: ಬಹುಪದೋಕ್ತಿಯ ಬೆಲೆ",
+  "script": "ಈಗ ಇದರ ನಿಖರವಾದ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. p(x) ಎಂಬುದು x ಚರಾಕ್ಷರದಲ್ಲಿರುವ ಒಂದು ಬಹುಪದೋಕ್ತಿ ಆಗಿರಲಿ. ಮತ್ತು k ಎಂಬುದು ಯಾವುದೇ ಒಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆ, ಅಂದರೆ real number, ಆಗಿರಲಿ. ಈಗ, ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿರುವ x ನ ಬದಲಿಗೆ k ಯನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ ಒಂದು ಹೊಸ ಬೆಲೆ ಸಿಗುತ್ತದೆ. ಈ ಬೆಲೆಯನ್ನು ನಾವು p(k) ಎಂದು ಸೂಚಿಸುತ್ತೇವೆ. ಇದನ್ನೇ, x ಸಮ k ಆದಾಗ p(x) ನ ಬೆಲೆ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ k ಧನ ಸಂಖ್ಯೆ, ಋಣ ಸಂಖ್ಯೆ ಅಥವಾ ಸೊನ್ನೆಯೂ ಆಗಿರಬಹುದು.",
+  "script_display": "ಈಗ ಇದರ ನಿಖರವಾದ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. $p(x)$ ಎಂಬುದು $x$ ಚರಾಕ್ಷರದಲ್ಲಿರುವ ಒಂದು ಬಹುಪದೋಕ್ತಿ ಆಗಿರಲಿ. ಮತ್ತು $k$ ಎಂಬುದು ಯಾವುದೇ ಒಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆ, ಅಂದರೆ real number, ಆಗಿರಲಿ. ಈಗ, ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿರುವ $x$ ನ ಬದಲಿಗೆ $k$ ಯನ್ನು ಆದೇಶಿಸಿದಾಗ, ನಮಗೆ ಒಂದು ಹೊಸ ಬೆಲೆ ಸಿಗುತ್ತದೆ. ಈ ಬೆಲೆಯನ್ನು ನಾವು $p(k)$ ಎಂದು ಸೂಚಿಸುತ್ತೇವೆ. ಇದನ್ನೇ, $x=k$ ಆದಾಗ $p(x)$ ನ ಬೆಲೆ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ $k$ ಧನ ಸಂಖ್ಯೆ, ಋಣ ಸಂಖ್ಯೆ ಅಥವಾ ಸೊನ್ನೆಯೂ ಆಗಿರಬಹುದು.",
+  "display_bullets": [
+    "$p(x)$ ಒಂದು ಬಹುಪದೋಕ್ತಿ ಮತ್ತು $k$ ಒಂದು ವಾಸ್ತವ ಸಂಖ್ಯೆಯಾಗಿರಲಿ.",
+    "$x$ ನ ಸ್ಥಾನದಲ್ಲಿ $k$ ಯನ್ನು ಆದೇಶಿಸಿದಾಗ ಸಿಗುವ ಮೌಲ್ಯವೇ ಬಹುಪದೋಕ್ತಿಯ ಬೆಲೆ.",
+    "ಇದನ್ನು ಗಣಿತದಲ್ಲಿ $p(k)$ ಎಂದು ಬರೆಯಲಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "standard_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "p(x) \\xrightarrow{x=k} p(k)",
+    "placeholder_note": "A formula box showing the substitution process: p(x) with an arrow pointing to p(k), and 'x=k' written over the arrow."
+  },
+  "chunk_id": "ALG-POL-3_concept_2_chunk_004"
+}

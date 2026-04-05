@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ: 10 kg ರಾಶಿಯ ಕಾಯವು ನೆಲದಿಂದ 6 ಮೀಟರ್ ಎತ್ತರದಲ್ಲಿದ್ದಾಗ, ಅದು ಹೊಂದಿರುವ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿಯು 588 ಜೌಲ್ ಆಗಿದೆ. ಶಕ್ತಿಯ ಅಂತರಾಷ್ಟ್ರೀಯ ಏಕಮಾನ ಜೌಲ್, ಇದನ್ನು J ಎಂದು ಸೂಚಿಸುತ್ತೇವೆ.",
+  "script_display": "ಹೀಗಾಗಿ, ಈ ಲೆಕ್ಕದ ಅಂತಿಮ ಉತ್ತರ: 10 kg ರಾಶಿಯ ಕಾಯವು ನೆಲದಿಂದ 6 m ಎತ್ತರದಲ್ಲಿದ್ದಾಗ, ಅದು ಹೊಂದಿರುವ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿಯು 588 J ಆಗಿದೆ. ಶಕ್ತಿಯ SI ಏಕಮಾನ ಜೌಲ್ (J).",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "physics_warm",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "E_p = 588 \\text{ J}",
+    "placeholder_note": "Final answer for the potential energy calculation."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_10_example_5",
+  "final_answer": "588 J",
+  "final_answer_display": "ಕಾಯದ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿಯು 588 J ಆಗಿದೆ.",
+  "chunk_id": "std_9_chapter_10_concept_5_chunk_016"
+}

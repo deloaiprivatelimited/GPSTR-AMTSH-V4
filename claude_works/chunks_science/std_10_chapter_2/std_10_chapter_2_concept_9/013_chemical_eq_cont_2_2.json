@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಪ್ರಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್, ನೀರು, ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ಅಮೋನಿಯಾ ವರ್ತಿಸಿ, ಅಮೋನಿಯಂ ಕ್ಲೋರೈಡ್ ಮತ್ತು ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್ ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತವೆ.",
+  "script_display": "ಈ ಪ್ರಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ಗಮನಿಸಿ. ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್, ನೀರು, ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ಅಮೋನಿಯಾ ವರ್ತಿಸಿ, ಅಮೋನಿಯಂ ಕ್ಲೋರೈಡ್ ಮತ್ತು ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್ ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "dynamic_formula",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "NaCl(aq) + H_2O(l) + CO_2(g) + NH_3(g) \\rightarrow NH_4Cl(aq) + NaHCO_3(s)",
+    "placeholder_note": "Equation for the preparation of baking soda"
+  },
+  "chunk_id": "std_10_chapter_2_concept_9_chunk_013"
+}

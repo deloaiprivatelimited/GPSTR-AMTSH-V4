@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3",
+  "script": "ಈಗ ಮೂರನೇ ಹಂತಕ್ಕೆ ಬರೋಣ. ಇಲ್ಲಿ ನಾವು ವ್ಯಕ್ತಿ ಮತ್ತು ಅವನ ಪ್ರತಿಬಿಂಬದ ನಡುವಿನ ಒಟ್ಟು ದೂರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುತ್ತೇವೆ. ಒಟ್ಟು ದೂರವು ವಸ್ತುವಿನ ದೂರ ಮತ್ತು ಪ್ರತಿಬಿಂಬದ ದೂರದ ಮೊತ್ತವಾಗಿರುತ್ತದೆ. ಅಂದರೆ, ಒಟ್ಟು ದೂರ ಈಕ್ವಲ್ಸ್ ಯು ಪ್ಲಸ್ ವಿ. ಬೆಲೆಗಳನ್ನು ಹಾಕಿದಾಗ, ಒಂದು ಪಾಯಿಂಟ್ ಐದು ಮೀಟರ್ ಪ್ಲಸ್ ಒಂದು ಪಾಯಿಂಟ್ ಐದು ಮೀಟರ್, ನಮಗೆ ಮೂರು ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಮೀಟರ್ ಸಿಗುತ್ತದೆ.",
+  "script_display": "**ಹಂತ 3: ವ್ಯಕ್ತಿ ಮತ್ತು ಪ್ರತಿಬಿಂಬದ ನಡುವಿನ ಒಟ್ಟು ದೂರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.**\nಒಟ್ಟು ದೂರವು ವಸ್ತುವಿನ ದೂರ (u) ಮತ್ತು ಪ್ರತಿಬಿಂಬದ ದೂರದ (v) ಮೊತ್ತವಾಗಿದೆ.\n\nಒಟ್ಟು ದೂರ = ವಸ್ತುವಿನ ದೂರ + ಪ್ರತಿಬಿಂಬದ ದೂರ\nಒಟ್ಟು ದೂರ = u + v\nಒಟ್ಟು ದೂರ = 1.5 m + 1.5 m\n**ಒಟ್ಟು ದೂರ = 3.0 m**",
+  "display_bullets": [
+    "ಹಂತ 3: ವ್ಯಕ್ತಿ ಮತ್ತು ಪ್ರತಿಬಿಂಬದ ನಡುವಿನ ಒಟ್ಟು ದೂರವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+    "ಒಟ್ಟು ದೂರ = ವಸ್ತುವಿನ ದೂರ (u) + ಪ್ರತಿಬಿಂಬದ ದೂರ (v)",
+    "ಲೆಕ್ಕಾಚಾರ: 1.5 m + 1.5 m = 3.0 m"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ರೇಖಾಚಿತ್ರ, ಈಗ ವ್ಯಕ್ತಿ ಮತ್ತು ಪ್ರತಿಬಿಂಬದ ನಡುವೆ ಒಂದು ದೊಡ್ಡ ದ್ವಿಮುಖ ಬಾಣವನ್ನು ಸೇರಿಸಲಾಗಿದೆ. ಈ ಬಾಣವನ್ನು 'ಒಟ್ಟು ದೂರ = 3.0 m' ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "ವ್ಯಕ್ತಿ, ಸಮತಲ ದರ್ಪಣ, ಪ್ರತಿಬಿಂಬ, ಒಟ್ಟು ದೂರ",
+    "scientific_significance": "ವಸ್ತು ಮತ್ತು ಪ್ರತಿಬಿಂಬದ ನಡುವಿನ ಒಟ್ಟು ದೂರವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ, ಇದು ವಸ್ತುವಿನ ದೂರದ ದ್ವಿಗುಣವಾಗಿದೆ.",
+    "placeholder_note": "Image to be generated: Same diagram, but now with a long double-headed arrow spanning from the person to the image, labeled 'Total Distance = 3.0 m'."
+  },
+  "source_example_id": "std_8_chapter_13_example_2",
+  "chunk_id": "std_8_chapter_13_concept_2_chunk_008"
+}

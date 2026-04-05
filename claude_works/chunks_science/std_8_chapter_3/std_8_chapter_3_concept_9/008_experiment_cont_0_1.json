@@ -1,0 +1,37 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆಗೆ ಬೇಕಾದ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಕೆಲವು ತಿಂಡಿಗಳು ಬೇಕು. ಉದಾಹರಣೆಗೆ, ಪಾಪ್‌ಕಾರ್ನ್, ಕಡಲೆಕಾಯಿ, ಅಥವಾ ಚಾಕೊಲೇಟ್‌ಗಳು. ಇವು ನಮ್ಮ 'ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲ'ವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಈ ತಿಂಡಿಗಳನ್ನು ಇಡಲು ನಮಗೆ ಕೆಲವು ಸಂಗ್ರಾಹಕ ಪಾತ್ರೆಗಳು ಅಥವಾ ಬಟ್ಟಲುಗಳು ಬೇಕು. ಈ ಪಾತ್ರೆಯು ಭೂಮಿಯಲ್ಲಿರುವ ಒಟ್ಟು ಸಂಪನ್ಮೂಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಈ ಚಟುವಟಿಕೆಯಲ್ಲಿ ಭಾಗವಹಿಸಲು ವಿದ್ಯಾರ್ಥಿಗಳ ಗುಂಪುಗಳು ಬೇಕಾಗುತ್ತವೆ, ಇವರು 'ಪೀಳಿಗೆ'ಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ.",
+  "script_display": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ನಮಗೆ ಕೆಲವು ತಿಂಡಿಗಳು ಬೇಕು. ಉದಾಹರಣೆಗೆ, ಪಾಪ್‌ಕಾರ್ನ್, ಕಡಲೆಕಾಯಿ, ಅಥವಾ ಚಾಕೊಲೇಟ್‌ಗಳು. ಇವು ನಮ್ಮ 'ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲ'ವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಎರಡನೆಯದಾಗಿ, ಈ ತಿಂಡಿಗಳನ್ನು ಇಡಲು ನಮಗೆ ಕೆಲವು ಸಂಗ್ರಾಹಕ ಪಾತ್ರೆಗಳು ಅಥವಾ ಬಟ್ಟಲುಗಳು ಬೇಕು. ಈ ಪಾತ್ರೆಯು ಭೂಮಿಯಲ್ಲಿರುವ ಒಟ್ಟು ಸಂಪನ್ಮೂಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಈ ಚಟುವಟಿಕೆಯಲ್ಲಿ ಭಾಗವಹಿಸಲು ವಿದ್ಯಾರ್ಥಿಗಳ ಗುಂಪುಗಳು ಬೇಕಾಗುತ್ತವೆ, ಇವರು 'ಪೀಳಿಗೆ'ಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ತಿಂಡಿಗಳು (ಪಾಪ್‌ಕಾರ್ನ್/ಕಡಲೆಕಾಯಿ)",
+    "ಸಂಗ್ರಾಹಕ ಪಾತ್ರೆಗಳು",
+    "ವಿದ್ಯಾರ್ಥಿಗಳ ಗುಂಪುಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_visual_left_text_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A bowl filled with popcorn or peanuts, representing a natural resource. Next to it, an empty container.",
+    "labels": "Bowl with snacks (Resource), Empty container",
+    "scientific_significance": "Visually represents the finite nature of resources that will be used in the simulation.",
+    "placeholder_note": "Image to be generated showing a bowl of popcorn."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_8_chapter_3_concept_9_chunk_008"
+}

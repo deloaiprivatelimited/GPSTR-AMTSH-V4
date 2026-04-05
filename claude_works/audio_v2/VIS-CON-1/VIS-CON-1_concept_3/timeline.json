@@ -1,0 +1,89 @@
+{
+  "module_id": "VIS-CON-1_concept_3",
+  "voice": "Charon",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 7,
+  "total_duration": 301.357,
+  "total_duration_formatted": "5:01",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "VIS-CON-1_concept_3_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಪರಿಚಯ: ಚೌಕದ ರಚನೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 62.251,
+      "duration": 62.251,
+      "script_words": 82
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_3_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "start": 62.851,
+      "end": 96.062,
+      "duration": 33.211,
+      "script_words": 41
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_3_chunk_003",
+      "chunk_file": "003_example_0.json",
+      "wav_file": "003_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಚೌಕದ ರಚನೆ",
+      "type": "worked_example",
+      "start": 96.662,
+      "end": 122.033,
+      "duration": 25.371,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_3_chunk_004",
+      "chunk_file": "004_example_cont_0_1.json",
+      "wav_file": "004_example_cont_0_1.wav",
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು (1-3)",
+      "type": "worked_example",
+      "start": 122.633,
+      "end": 174.444,
+      "duration": 51.811,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_3_chunk_005",
+      "chunk_file": "005_example_cont_0_2.json",
+      "wav_file": "005_example_cont_0_2.wav",
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು (4-6)",
+      "type": "worked_example",
+      "start": 175.044,
+      "end": 219.695,
+      "duration": 44.651,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_3_chunk_006",
+      "chunk_file": "006_example_cont_0_3.json",
+      "wav_file": "006_example_cont_0_3.wav",
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪರಿಶೀಲನೆ",
+      "type": "worked_example",
+      "start": 220.295,
+      "end": 258.666,
+      "duration": 38.371,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_3_chunk_007",
+      "chunk_file": "007_recap_0.json",
+      "wav_file": "007_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಚೌಕದ ರಚನೆ",
+      "type": "recap",
+      "start": 259.266,
+      "end": 300.757,
+      "duration": 41.491,
+      "script_words": 55
+    }
+  ]
+}

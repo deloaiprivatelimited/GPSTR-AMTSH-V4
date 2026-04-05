@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕಾಸುವಿಕೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಈ ಪ್ರಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಘನ ರೂಪದಲ್ಲಿರುವ ಸತುವಿನ ಕಾರ್ಬೋನೇಟ್ ಅಂದರೆ ಝೆಡ್ ಎನ್ ಸಿ ಓ ತ್ರೀ ಯನ್ನು ಕಾಯಿಸಿದಾಗ, ಅದು ವಿಭಜನೆಗೊಂಡು ಘನ ರೂಪದ ಸತುವಿನ ಆಕ್ಸೈಡ್ ಅಂದರೆ ಝೆಡ್ ಎನ್ ಓ ಮತ್ತು ಅನಿಲ ರೂಪದ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅಂದರೆ ಸಿ ಓ ಟೂ ವನ್ನು ನೀಡುತ್ತದೆ.",
+  "script_display": "ಈ ಪ್ರಕ್ರಿಯೆಯ ರಾಸಾಯನಿಕ ಸಮೀಕರಣವನ್ನು ನೋಡೋಣ. ಘನ ರೂಪದಲ್ಲಿರುವ ಸತುವಿನ ಕಾರ್ಬೋನೇಟ್ (ZnCO₃) ಅನ್ನು ಕಾಯಿಸಿದಾಗ, ಅದು ವಿಭಜನೆಗೊಂಡು ಘನ ರೂಪದ ಸತುವಿನ ಆಕ್ಸೈಡ್ (ZnO) ಮತ್ತು ಅನಿಲ ರೂಪದ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಅನ್ನು ನೀಡುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard_v1",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ZnCO_3(s) \\xrightarrow{\\Delta} ZnO(s) + CO_2(g)",
+    "placeholder_note": "Balanced chemical equation for the calcination of zinc carbonate."
+  },
+  "chunk_id": "std_10_chapter_3_concept_9_chunk_015"
+}

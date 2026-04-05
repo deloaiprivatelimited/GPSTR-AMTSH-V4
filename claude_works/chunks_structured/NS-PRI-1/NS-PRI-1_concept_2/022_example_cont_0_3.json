@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಫಲಿತಾಂಶ: 1 ರಿಂದ 100ರವರೆಗಿನ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು",
+  "script": "ಎಲ್ಲಾ ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಡೆದುಹಾಕಿದ ನಂತರ, ಚೌಕಟ್ಟಿನಲ್ಲಿ ಉಳಿದಿರುವ ಸಂಖ್ಯೆಗಳೇ ನಮ್ಮ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು. ಅವುಗಳೆಂದರೆ: ಎರಡು, ಮೂರು, ಐದು, ಏಳು, ಹನ್ನೊಂದು, ಹದಿಮೂರು, ಹದಿನೇಳು, ಹತ್ತೊಂಬತ್ತು, ಇಪ್ಪತ್ಮೂರು, ಇಪ್ಪತ್ತೊಂಬತ್ತು, ಮೂವತ್ತೊಂದು, ಮೂವತ್ತೇಳು, ನಲವತ್ತೊಂದು, ನಲವತ್ತಮೂರು, ನಲವತ್ತೇಳು, ಐವತ್ಮೂರು, ಐವತ್ತೊಂಬತ್ತು, ಅರವತ್ತೊಂದು, ಅರವತ್ತೇಳು, ಎಪ್ಪತ್ತೊಂದು, ಎಪ್ಪತ್ಮೂರು, ಎಪ್ಪತ್ತೊಂಬತ್ತು, ಎಂಬತ್ತಮೂರು, ಎಂಬತ್ತೊಂಬತ್ತು, ಮತ್ತು ತೊಂಬತ್ತೇಳು. ಒಟ್ಟಾರೆಯಾಗಿ ಒಂದರಿಂದ ನೂರರವರೆಗೆ ಇಪ್ಪತ್ತೈದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳಿವೆ.",
+  "script_display": "ಎಲ್ಲಾ ಸಂಯುಕ್ತ ಸಂಖ್ಯೆಗಳನ್ನು ಹೊಡೆದುಹಾಕಿದ ನಂತರ, ಚೌಕಟ್ಟಿನಲ್ಲಿ ಉಳಿದಿರುವ ಸಂಖ್ಯೆಗಳೇ ನಮ್ಮ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು. ಅವುಗಳೆಂದರೆ: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, ಮತ್ತು 97. ಒಟ್ಟಾರೆಯಾಗಿ 1 ರಿಂದ 100ರವರೆಗೆ 25 ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳಿವೆ.",
+  "display_bullets": [
+    "ಹೊಡೆದುಹಾಕದೆ ಉಳಿದಿರುವ ಸಂಖ್ಯೆಗಳೇ ಅವಿಭಾಜ್ಯಗಳು.",
+    "1 ರಿಂದ 100ರವರೆಗಿನ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The final state of the 10x10 grid. All composite numbers are crossed out. The 25 prime numbers (2, 3, 5, 7, 11, etc.) are clearly visible, either circled or highlighted in a distinct color.",
+    "labels": "Final Result: Prime Numbers",
+    "mathematical_significance": "This is the successful application of the Sieve of Eratosthenes, visually separating the prime numbers from the composite numbers in a given range.",
+    "placeholder_note": "Image to be generated: The final grid with all primes highlighted."
+  },
+  "source_example_id": "NS-PRI-1_example_4",
+  "steps": [],
+  "final_answer": "1 ರಿಂದ 100ರವರೆಗಿನ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97.",
+  "final_answer_display": "1 ರಿಂದ 100ರವರೆಗಿನ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97.",
+  "chunk_id": "NS-PRI-1_concept_2_chunk_022"
+}

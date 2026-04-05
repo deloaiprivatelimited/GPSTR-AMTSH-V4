@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಿಚಯ: ತ್ರಿಭುಜ ಎಂದರೇನು?",
+  "script": "ರೇಖಾಗಣಿತದ ಜಗತ್ತಿಗೆ ಸ್ವಾಗತ. ಇಂದು ನಾವು ಅತ್ಯಂತ ಮೂಲಭೂತ ಮತ್ತು ಪ್ರಮುಖ ಆಕೃತಿಯಾದ ತ್ರಿಭುಜದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ತ್ರಿಭುಜ ಎಂಬ ಪದವನ್ನು ಗಮನಿಸಿ. 'ತ್ರಿ' ಎಂದರೆ ಮೂರು ಮತ್ತು 'ಭುಜ' ಎಂದರೆ ಬಾಹು. ಹಾಗಾದರೆ, ತ್ರಿಭುಜವೆಂದರೆ ಮೂರು ಬಾಹುಗಳಿರುವ ಆಕೃತಿ. ಆದರೆ ಅಷ್ಟೇ ಅಲ್ಲ, ಇದು ಒಂದು ಸರಳ ಆವೃತ ಆಕೃತಿಯಾಗಿರಬೇಕು. ಅಂದರೆ, ಇದು ಮೂರು ಸರಳ ರೇಖಾಖಂಡಗಳಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಮುಚ್ಚಲ್ಪಟ್ಟಿರಬೇಕು. ತೆರೆದಿದ್ದರೆ ಅಥವಾ ವಕ್ರರೇಖೆಗಳನ್ನು ಹೊಂದಿದ್ದರೆ ಅದು ತ್ರಿಭುಜವಾಗುವುದಿಲ್ಲ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ತ್ರಿಭುಜದ ವ್ಯಾಖ್ಯಾನ ಮತ್ತು ಅದರ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ವಿವರವಾಗಿ ತಿಳಿಯೋಣ.",
+  "script_display": "ರೇಖಾಗಣಿತದ ಜಗತ್ತಿಗೆ ಸ್ವಾಗತ. ಇಂದು ನಾವು ಅತ್ಯಂತ ಮೂಲಭೂತ ಮತ್ತು ಪ್ರಮುಖ ಆಕೃತಿಯಾದ ತ್ರಿಭುಜದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ತ್ರಿಭುಜ ಎಂಬ ಪದವನ್ನು ಗಮನಿಸಿ. 'ತ್ರಿ' ಎಂದರೆ ಮೂರು ಮತ್ತು 'ಭುಜ' ಎಂದರೆ ಬಾಹು. ಹಾಗಾದರೆ, ತ್ರಿಭುಜವೆಂದರೆ ಮೂರು ಬಾಹುಗಳಿರುವ ಆಕೃತಿ. ಆದರೆ ಅಷ್ಟೇ ಅಲ್ಲ, ಇದು ಒಂದು ಸರಳ ಆವೃತ ಆಕೃತಿಯಾಗಿರಬೇಕು. ಅಂದರೆ, ಇದು ಮೂರು ಸರಳ ರೇಖಾಖಂಡಗಳಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಮುಚ್ಚಲ್ಪಟ್ಟಿರಬೇಕು. ತೆರೆದಿದ್ದರೆ ಅಥವಾ ವಕ್ರರೇಖೆಗಳನ್ನು ಹೊಂದಿದ್ದರೆ ಅದು ತ್ರಿಭುಜವಾಗುವುದಿಲ್ಲ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ತ್ರಿಭುಜದ ವ್ಯಾಖ್ಯಾನ ಮತ್ತು ಅದರ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ವಿವರವಾಗಿ ತಿಳಿಯೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "title_standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clean drawing of a triangle (e.g., triangle ABC) centered on the screen, with a subtle background grid.",
+    "labels": "A, B, C",
+    "mathematical_significance": "Represents a basic triangle, the subject of the definition.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-1_concept_1_chunk_002"
+}

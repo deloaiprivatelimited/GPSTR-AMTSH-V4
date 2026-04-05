@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಿದ್ಧಾಂತದ ವಿಸ್ತರಣೆ: ವರ್ಚೋವ್ ಕೊಡುಗೆ",
+  "script": "ಶ್ಲೀಡನ್ ಮತ್ತು ಶ್ವಾನ್ ಅವರ ಸಿದ್ಧಾಂತದಲ್ಲಿ ಒಂದು ಕೊರತೆ ಇತ್ತು. ಹೊಸ ಜೀವಕೋಶಗಳು ಹೇಗೆ ಉಂಟಾಗುತ್ತವೆ ಎಂಬುದನ್ನು ಅದು ವಿವರಿಸಲಿಲ್ಲ. ಈ ಸಮಸ್ಯೆಯನ್ನು 1855 ರಲ್ಲಿ ರುಡಾಲ್ಫ್ ವರ್ಚೋವ್ ಎಂಬ ವಿಜ್ಞಾನಿ ಬಗೆಹರಿಸಿದರು. ಅವರು 'Omnis cellula-e-cellula' ಎಂಬ ಪ್ರಸಿದ್ಧ ಹೇಳಿಕೆಯನ್ನು ನೀಡಿದರು. ಇದರರ್ಥ 'ಎಲ್ಲಾ ಜೀವಕೋಶಗಳು ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಜೀವಕೋಶಗಳಿಂದಲೇ ಬರುತ್ತವೆ'. ಅಂದರೆ, ಜೀವಕೋಶ ವಿಭಜನೆಯ ಮೂಲಕ ಹೊಸ ಜೀವಕೋಶಗಳು ಹುಟ್ಟುತ್ತವೆ. ಇದು ಕೋಶ ಸಿದ್ಧಾಂತದ ಮೂರನೇ ಮತ್ತು ಅಂತಿಮ ತತ್ವವಾಯಿತು.",
+  "script_display": "ಶ್ಲೀಡನ್ ಮತ್ತು ಶ್ವಾನ್ ಅವರ ಸಿದ್ಧಾಂತವು ಹೊಸ ಜೀವಕೋಶಗಳು ಹೇಗೆ ಉಂಟಾಗುತ್ತವೆ ಎಂದು ವಿವರಿಸಲಿಲ್ಲ. 1855 ರಲ್ಲಿ, ರುಡಾಲ್ಫ್ ವರ್ಚೋವ್ (Rudolf Virchow) ಈ ಸಿದ್ಧಾಂತವನ್ನು ವಿಸ್ತರಿಸಿದರು. ಅವರು 'Omnis cellula-e-cellula' ಎಂಬ ತತ್ವವನ್ನು ಸೇರಿಸಿದರು. ಇದರರ್ಥ 'ಎಲ್ಲಾ ಜೀವಕೋಶಗಳು ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಜೀವಕೋಶಗಳಿಂದಲೇ ಬರುತ್ತವೆ'. ಇದು ಕೋಶ ವಿಭಜನೆಯ ಮಹತ್ವವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ರುಡಾಲ್ಫ್ ವರ್ಚೋವ್ (1855) ಸಿದ್ಧಾಂತವನ್ನು ವಿಸ್ತರಿಸಿದರು.",
+    "ಹೇಳಿಕೆ: 'Omnis cellula-e-cellula' (ಎಲ್ಲಾ ಜೀವಕೋಶಗಳು ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಜೀವಕೋಶಗಳಿಂದ ಬರುತ್ತವೆ).",
+    "ಇದು ಕೋಶ ವಿಭಜನೆಯ ಮೂಲಕ ಹೊಸ ಜೀವಕೋಶಗಳ ಸೃಷ್ಟಿಯನ್ನು ವಿವರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing one parent cell dividing into two daughter cells. An arrow points from the parent cell to the two daughter cells. The text 'Omnis cellula-e-cellula' is written above the diagram. Rudolf Virchow's portrait is in a corner.",
+    "labels": "ತಾಯಿ ಕೋಶ, ಮರಿ ಕೋಶಗಳು, ಕೋಶ ವಿಭಜನೆ",
+    "scientific_significance": "Visually explains Rudolf Virchow's principle that cells arise from pre-existing cells through cell division.",
+    "placeholder_note": "Image to be generated showing cell division."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_9_chapter_5_concept_1_chunk_014"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಜೂಲ್ vs ಕಿಲೋ ಜೂಲ್: ಒಂದು ಹೋಲಿಕೆ",
+  "script": "ಜೂಲ್ ಮತ್ತು ಕಿಲೋ ಜೂಲ್ ನಡುವಿನ ಅಳತೆಯ ವ್ಯತ್ಯಾಸವನ್ನು ಒಂದು ದೃಶ್ಯ ಹೋಲಿಕೆಯ ಮೂಲಕ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಒಂದು ಸಣ್ಣ ಸೇಬನ್ನು, ಅಂದರೆ ಸುಮಾರು ನೂರು ಗ್ರಾಂ ತೂಕದ ವಸ್ತುವನ್ನು, ನೆಲದಿಂದ ಒಂದು ಮೀಟರ್ ಎತ್ತರಕ್ಕೆ ಎತ್ತಲು ಬೇಕಾಗುವ ಶಕ್ತಿ ಸುಮಾರು ಒಂದು ಜೂಲ್. ಇದು ತುಂಬಾ ಚಿಕ್ಕ ಪ್ರಮಾಣ. ಈಗ ಬಲಭಾಗವನ್ನು ಗಮನಿಸಿ. ನಾವು ತಿನ್ನುವ ಒಂದು ಮಧ್ಯಮ ಗಾತ್ರದ ಬಾಳೆಹಣ್ಣು ಸುಮಾರು ಮುನ್ನೂರ ಐವತ್ತು ಕಿಲೋ ಜೂಲ್ ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ. ಅಂದರೆ ಮೂರು ಲಕ್ಷ ಐವತ್ತು ಸಾವಿರ ಜೂಲ್ ಗಳು. ನೋಡಿ, ಕಿಲೋ ಜೂಲ್ ಬಳಸುವುದರಿಂದ ಸಂಖ್ಯೆಗಳು ಎಷ್ಟು ಸರಳವಾಗುತ್ತವೆ.",
+  "script_display": "ಜೂಲ್ ಮತ್ತು ಕಿಲೋ ಜೂಲ್ ನಡುವಿನ ಅಳತೆಯ ವ್ಯತ್ಯಾಸವನ್ನು ಒಂದು ದೃಶ್ಯ ಹೋಲಿಕೆಯ ಮೂಲಕ ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ಒಂದು ಸಣ್ಣ ಸೇಬನ್ನು (≈100g) ನೆಲದಿಂದ 1 ಮೀಟರ್ ಎತ್ತರಕ್ಕೆ ಎತ್ತಲು ಬೇಕಾಗುವ ಶಕ್ತಿ ಸುಮಾರು 1 ಜೂಲ್. ಇದು ತುಂಬಾ ಚಿಕ್ಕ ಪ್ರಮಾಣ. ಈಗ ಬಲಭಾಗವನ್ನು ಗಮನಿಸಿ. ನಾವು ತಿನ್ನುವ ಒಂದು ಮಧ್ಯಮ ಗಾತ್ರದ ಬಾಳೆಹಣ್ಣು ಸುಮಾರು 350 ಕಿಲೋ ಜೂಲ್ (kJ) ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ. ಅಂದರೆ 350,000 J. ನೋಡಿ, kJ ಬಳಸುವುದರಿಂದ ಸಂಖ್ಯೆಗಳು ಎಷ್ಟು ಸರಳವಾಗುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen comparison. Left side shows a small unit of energy, the Joule. An icon of an apple being lifted 1 meter with the text '≈ 1 Joule'. Right side shows a larger unit, the Kilojoule. An icon of a banana with the text '≈ 350 kJ'.",
+    "labels": "Joule, Kilojoule, Apple, Banana, Energy",
+    "scientific_significance": "Visually contrasts the scale of a Joule with a Kilojoule using relatable everyday examples, making the concept of energy units more intuitive.",
+    "placeholder_note": "Left column title: 'ಜೂಲ್ (Joule)'. Image: An apple being lifted up by 1 meter. Caption: '100g ಸೇಬನ್ನು 1m ಎತ್ತಲು ಬೇಕಾದ ಶಕ್ತಿ ≈ 1 J'. Right column title: 'ಕಿಲೋ ಜೂಲ್ (Kilojoule)'. Image: A banana. Caption: 'ಒಂದು ಬಾಳೆಹಣ್ಣಿನಲ್ಲಿರುವ ಶಕ್ತಿ ≈ 350 kJ (3,50,000 J)'."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_10_concept_3_chunk_011"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳ ಸಂಕಲನ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಒಂದ್ ಭಾಗಿಸು ನಾಲ್ಕು ಮತ್ತು ಒಂದ್ ಭಾಗಿಸು ಮೂರು ಇವುಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಅಂಶವೆಂದರೆ, ಈ ಭಿನ್ನರಾಶಿಗಳ ಛೇದಗಳು, ಅಂದರೆ ನಾಲ್ಕು ಮತ್ತು ಮೂರು, ವಿಭಿನ್ನವಾಗಿವೆ. ಆದ್ದರಿಂದ ಇವು ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $\\frac{1}{4}$ ಮತ್ತು $\\frac{1}{3}$ ಇವುಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಅಂಶವೆಂದರೆ, ಈ ಭಿನ್ನರಾಶಿಗಳ ಛೇದಗಳು, ಅಂದರೆ 4 ಮತ್ತು 3, ವಿಭಿನ್ನವಾಗಿವೆ. ಆದ್ದರಿಂದ ಇವು ವಿಷಮಛೇದ ಭಿನ್ನರಾಶಿಗಳು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $\\frac{1}{4}$ ಮತ್ತು $\\frac{1}{3}$ ಇವುಗಳ ಮೊತ್ತವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ನೀಡಿರುವ ಭಿನ್ನರಾಶಿಗಳು: $\\frac{1}{4}$ ಮತ್ತು $\\frac{1}{3}$.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: ಇವುಗಳ ಮೊತ್ತ.",
+    "ಗಮನಿಸಿ: ಛೇದಗಳು (4 ಮತ್ತು 3) ವಿಭಿನ್ನವಾಗಿವೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{1}{4} + \\frac{1}{3} = ?",
+    "placeholder_note": "A formula box showing the problem statement."
+  },
+  "source_example_id": "NS-FRA-1_example_4",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-FRA-1_concept_4_chunk_007"
+}

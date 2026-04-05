@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಸೂತ್ರವನ್ನು ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಒಂದು ಕಾರು ಎರಡು ಗಂಟೆಗಳ ಸಮಯದಲ್ಲಿ ನೂರು ಕಿಲೋಮೀಟರ್ ದೂರವನ್ನು ಕ್ರಮಿಸುತ್ತದೆ. ಹಾಗಾದರೆ ಅದರ ಜವ ಎಷ್ಟು? ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, ಜವವು ದೂರವನ್ನು ಕಾಲದಿಂದ ಭಾಗಿಸಿದಾಗ ಸಿಗುತ್ತದೆ. ಇಲ್ಲಿ ದೂರ ನೂರು ಕಿಲೋಮೀಟರ್ ಮತ್ತು ಕಾಲ ಎರಡು ಗಂಟೆಗಳು. ಆದ್ದರಿಂದ, ನೂರನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ, ನಮಗೆ ಐವತ್ತು ಸಿಗುತ್ತದೆ. ಅಂದರೆ, ಕಾರಿನ ಜವ ಗಂಟೆಗೆ ಐವತ್ತು ಕಿಲೋಮೀಟರ್. ಇದು ಕಾರಿನ ಸರಾಸರಿ ಜವವಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಕಾರು 2 ಗಂಟೆಗಳಲ್ಲಿ 100 km ದೂರವನ್ನು ಕ್ರಮಿಸುತ್ತದೆ. ಅದರ ಜವವೆಷ್ಟು? \n\nಸೂತ್ರ: ಜವ = ದೂರ / ಕಾಲ \n\nಲೆಕ್ಕಾಚಾರ: \nದೂರ = 100 km \nಕಾಲ = 2 ಗಂಟೆಗಳು \nಜವ = 100 km / 2 h = 50 km/h",
+  "display_bullets": [
+    "ಉದಾಹರಣೆ: ಒಂದು ಕಾರು 2 ಗಂಟೆಗಳಲ್ಲಿ 100 km ಚಲಿಸುತ್ತದೆ.",
+    "ದತ್ತಾಂಶ: ದೂರ = 100 km, ಕಾಲ = 2 ಗಂಟೆಗಳು.",
+    "ಲೆಕ್ಕಾಚಾರ: ಜವ = 100 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸಿದಾಗ.",
+    "ಉತ್ತರ: ಜವ = 50 km/h."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a car moving from a starting point (A) to an ending point (B). A label above the path indicates 'ದೂರ = 100 km'. A clock icon or a label below the path indicates 'ಕಾಲ = 2 ಗಂಟೆಗಳು'.",
+    "labels": "Car, Start Point, End Point, Distance Label, Time Label",
+    "scientific_significance": "Visually represents the variables (distance and time) used to calculate speed.",
+    "placeholder_note": "Image to be generated showing a car's journey with distance and time."
+  },
+  "chunk_id": "std_7_science_ch_9_concept_2_chunk_005"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಡುಗೆಯಲ್ಲಿ ಇದರ ಪ್ರಾಮುಖ್ಯತೆ",
+  "script": "ಈ ಕ್ರಿಯೆ ಅಡುಗೆಯಲ್ಲಿ ಯಾಕೆ ಮುಖ್ಯ? ಏಕೆಂದರೆ, ಕಾಸಿದಾಗ ಬಿಡುಗಡೆಯಾಗುವ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲವು ಹಿಟ್ಟಿನಲ್ಲಿ ಸಣ್ಣ ಗುಳ್ಳೆಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಈ ಗುಳ್ಳೆಗಳು ಹಿಟ್ಟನ್ನು ಉಬ್ಬಿಸಿ, ಕೇಕ್ ಅಥವಾ ಬ್ರೆಡ್ ಅನ್ನು ಮೃದು ಮತ್ತು ಸ್ಪಂಜಿನಂತೆ ಮಾಡುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಅಡುಗೆ ಸೋಡಾವನ್ನು ಬೇಕಿಂಗ್‌ನಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆ ಅಡುಗೆಯಲ್ಲಿ ಯಾಕೆ ಮುಖ್ಯ? ಏಕೆಂದರೆ, ಕಾಸಿದಾಗ ಬಿಡುಗಡೆಯಾಗುವ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಅನಿಲವು ಹಿಟ್ಟಿನಲ್ಲಿ ಸಣ್ಣ ಗುಳ್ಳೆಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಈ ಗುಳ್ಳೆಗಳು ಹಿಟ್ಟನ್ನು ಉಬ್ಬಿಸಿ, ಕೇಕ್ ಅಥವಾ ಬ್ರೆಡ್ ಅನ್ನು ಮೃದು ಮತ್ತು ಸ್ಪಂಜಿನಂತೆ ಮಾಡುತ್ತದೆ. ಇದೇ ಕಾರಣಕ್ಕೆ ಅಡುಗೆ ಸೋಡಾವನ್ನು ಬೇಕಿಂಗ್‌ನಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಕಾಸಿದಾಗ CO₂ ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+    "ಅನಿಲದ ಗುಳ್ಳೆಗಳು ಹಿಟ್ಟನ್ನು ಉಬ್ಬಿಸುತ್ತವೆ.",
+    "ಕೇಕ್ ಮತ್ತು ಬ್ರೆಡ್ ಮೃದು ಮತ್ತು ಸ್ಪಂಜಿನಂತೆ ಆಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a piece of dough or cake batter. Heat is applied from below. Arrows show CO2 gas bubbles forming inside the dough, causing it to rise and become fluffy.",
+    "labels": "ಹಿಟ್ಟು, ಉಷ್ಣ, CO₂ ಗುಳ್ಳೆಗಳು, ಉಬ್ಬಿದ ಹಿಟ್ಟು",
+    "scientific_significance": "Illustrates the leavening action of sodium bicarbonate decomposition in baking.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_2_concept_9_chunk_018"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಫಲಿತಾಂಶ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+  "script": "ಹೀಗೆ, ಎಬಿಸಿಡಿ ಯು ನಮಗೆ ಬೇಕಾದ ಆಯತವಾಗಿದೆ, ಇದರಲ್ಲಿ ಬಾಹು ಸಿಡಿ 5 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಕರ್ಣ ಬಿಡಿ 7 ಸೆಂಟಿಮೀಟರ್ ಆಗಿದೆ. ಈ ರಚನೆಯಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ಗಮನಿಸಬೇಕು. ಯಾವಾಗಲೂ ಕಚ್ಚಾ ಚಿತ್ರವನ್ನು ಮೊದಲು ರಚಿಸಿ. ಇದು ದತ್ತಾಂಶವನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಮತ್ತು ಕರ್ಣದ ಉದ್ದವನ್ನು ಬಾಹುವಾಗಿ ತೆಗೆದುಕೊಳ್ಳುವಂತಹ ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳನ್ನು ತಪ್ಪಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ABCD ಯು ನಮಗೆ ಬೇಕಾದ ಆಯತವಾಗಿದೆ, ಇದರಲ್ಲಿ ಬಾಹು $CD = 5$ cm ಮತ್ತು ಕರ್ಣ $BD = 7$ cm ಆಗಿದೆ. ಈ ರಚನೆಯಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ಅಂಶವನ್ನು ಗಮನಿಸಬೇಕು. ಯಾವಾಗಲೂ ಕಚ್ಚಾ ಚಿತ್ರವನ್ನು ಮೊದಲು ರಚಿಸಿ. ಇದು ದತ್ತಾಂಶವನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಮತ್ತು ಕರ್ಣದ ಉದ್ದವನ್ನು ಬಾಹುವಾಗಿ ತೆಗೆದುಕೊಳ್ಳುವಂತಹ ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳನ್ನು ತಪ್ಪಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಫಲಿತಾಂಶ: ABCD ಯು ದತ್ತ ಅಳತೆಗಳಿರುವ ಆಯತವಾಗಿದೆ.",
+    "ಪರೀಕ್ಷಾ ಸಲಹೆ: ಯಾವಾಗಲೂ ಕಚ್ಚಾ ಚಿತ್ರವನ್ನು ಮೊದಲು ರಚಿಸಿ. ಇದು ದತ್ತಾಂಶವನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಮತ್ತು ತಪ್ಪುಗಳನ್ನು ತಪ್ಪಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clean, final drawing of the constructed rectangle ABCD. The side CD is labeled '5 cm'. The diagonal BD is labeled '7 cm'. The right angle at C is marked. All construction lines (arcs) are shown faintly in the background.",
+    "labels": "A, B, C, D, 5 cm, 7 cm",
+    "mathematical_significance": "This is the final constructed figure, satisfying all the given conditions: it is a rectangle with one side of 5 cm and a diagonal of 7 cm.",
+    "placeholder_note": "Image to be generated: The final, clean diagram of the constructed rectangle with labels."
+  },
+  "difficulty": "advanced",
+  "source_example_id": "VIS-CON-1_example_3",
+  "final_answer": "ABCD ಬೇಕಾದ ಆಯತವು ರಚನೆಯಾಗಿದೆ.",
+  "final_answer_display": "ABCD ಬೇಕಾದ ಆಯತವು ರಚನೆಯಾಗಿದೆ.",
+  "exam_tip": {
+    "question_pattern": "5-mark",
+    "skill_tested": "ದತ್ತ ಬಾಹು ಮತ್ತು ಕರ್ಣವನ್ನು ಬಳಸಿ ಆಯತವನ್ನು ರಚಿಸುವುದು.",
+    "distractor": "ಕರ್ಣದ ಉದ್ದವನ್ನು (7 cm) ಬಾಹು BC ಯಾಗಿ ತೆಗೆದುಕೊಳ್ಳುವುದು.",
+    "why_distractor_works": "ವಿದ್ಯಾರ್ಥಿಗಳು BCD ಲಂಬಕೋನ ತ್ರಿಭುಜವನ್ನು ರಚಿಸಬೇಕು ಎಂದು ಅರಿತುಕೊಳ್ಳದೆ, C ಯಿಂದ 7 cm ಕಂಸವನ್ನು ಎಳೆಯಲು ಪ್ರಯತ್ನಿಸಬಹುದು, ಇದು ತಪ್ಪಾದ ರಚನೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ."
+  },
+  "chunk_id": "VIS-CON-1_concept_4_chunk_007"
+}

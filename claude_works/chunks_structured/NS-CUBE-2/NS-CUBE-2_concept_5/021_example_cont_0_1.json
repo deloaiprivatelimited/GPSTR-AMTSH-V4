@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಪರಿಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು 8000 ಅನ್ನು ಅದರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳಾಗಿ ವಿಭಜಿಸುತ್ತೇವೆ. 8000 ಅನ್ನು 2 ರಿಂದ ಭಾಗಿಸುತ್ತಾ ಹೋದರೆ, ನಮಗೆ ಆರು 2 ಗಳು ಸಿಗುತ್ತವೆ. ನಂತರ ಉಳಿದ 125 ಅನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದರೆ, ಮೂರು 5 ಗಳು ಸಿಗುತ್ತವೆ. ಹೀಗೆ, 8000 ಸಮನಾಗಿ ಆರು 2 ಗಳು ಮತ್ತು ಮೂರು 5 ಗಳ ಗುಣಲಬ್ಧ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಈ ಅಪವರ್ತನಗಳನ್ನು ಮೂರು ಒಂದೇ ರೀತಿಯ ಸಂಖ್ಯೆಗಳ ಗುಂಪುಗಳಾಗಿ, ಅಂದರೆ ತ್ರಿವಳಿಗಳಾಗಿ ಜೋಡಿಸುತ್ತೇವೆ. ಇಲ್ಲಿ ನಮಗೆ 2 ರ ಎರಡು ತ್ರಿವಳಿಗಳು ಮತ್ತು 5 ರ ಒಂದು ತ್ರಿವಳಿ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಾವು 8000 ಅನ್ನು ಅದರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳಾಗಿ ವಿಭಜಿಸುತ್ತೇವೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಈ ಅಪವರ್ತನಗಳನ್ನು ತ್ರಿವಳಿಗಳಾಗಿ ಜೋಡಿಸುತ್ತೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "full_width",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "NS-CUBE-2_example_6",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$8000 = 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 5 \\times 5 \\times 5$",
+      "justification": "ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನೀಕರಣ"
+    },
+    {
+      "step": 2,
+      "action_display": "$8000 = (2 \\times 2 \\times 2) \\times (2 \\times 2 \\times 2) \\times (5 \\times 5 \\times 5)$",
+      "justification": "ತ್ರಿವಳಿಗಳಾಗಿ ಗುಂಪು ಮಾಡುವುದು"
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "NS-CUBE-2_concept_5_chunk_021"
+}

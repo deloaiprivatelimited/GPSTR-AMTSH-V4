@@ -1,0 +1,36 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ವೀಕ್ಷಣೆ ಮತ್ತು ತೀರ್ಮಾನ",
+  "script": "ನೀವು ಲೋಟಗಳನ್ನು ಬಡಿದಾಗ, ಪ್ರತಿ ಲೋಟದಿಂದ ವಿಭಿನ್ನ ಸ್ವರದ ಸಂಗೀತದ ಶಬ್ದವನ್ನು ಕೇಳಿರಬಹುದು. ಕಡಿಮೆ ನೀರು ಇರುವ ಲೋಟವು ಒಂದು ರೀತಿಯ ಶಬ್ದವನ್ನು ಮಾಡಿದರೆ, ಹೆಚ್ಚು ನೀರು ಇರುವ ಲೋಟವು ಬೇರೊಂದು ರೀತಿಯ ಶಬ್ದವನ್ನು ಮಾಡುತ್ತದೆ. ಇದಕ್ಕೆ ಕಾರಣವೇನು? ಕಾರಣ, ಲೋಟದಲ್ಲಿರುವ ನೀರಿನ ಮೇಲಿನ ಗಾಳಿಯ ಸ್ತಂಭ. ನಾವು ಲೋಟವನ್ನು ಬಡಿದಾಗ, ಈ ಗಾಳಿಯ ಸ್ತಂಭವು ಕಂಪಿಸುತ್ತದೆ. ಗಾಳಿಯ ಸ್ತಂಭದ ಉದ್ದವು ಬದಲಾದಂತೆ, ಕಂಪನದ ಆವೃತ್ತಿ ಕೂಡ ಬದಲಾಗುತ್ತದೆ. ಇದು ವಿಭಿನ್ನ ಸ್ಥಾಯಿಯ ಶಬ್ದಗಳನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಇದೇ ಜಲತರಂಗದ ಹಿಂದಿರುವ ವಿಜ್ಞಾನ.",
+  "script_display": "ನೀವು ಲೋಟಗಳನ್ನು ಬಡಿದಾಗ, ಪ್ರತಿ ಲೋಟದಿಂದ ವಿಭಿನ್ನ ಸ್ವರದ ಸಂಗೀತದ ಶಬ್ದವನ್ನು ಕೇಳಿರಬಹುದು. ಕಡಿಮೆ ನೀರು ಇರುವ ಲೋಟವು ಒಂದು ರೀತಿಯ ಶಬ್ದವನ್ನು ಮಾಡಿದರೆ, ಹೆಚ್ಚು ನೀರು ಇರುವ ಲೋಟವು ಬೇರೊಂದು ರೀತಿಯ ಶಬ್ದವನ್ನು ಮಾಡುತ್ತದೆ. ಇದಕ್ಕೆ ಕಾರಣವೇನು? ಕಾರಣ, ಲೋಟದಲ್ಲಿರುವ ನೀರಿನ ಮೇಲಿನ ಗಾಳಿಯ ಸ್ತಂಭ. ನಾವು ಲೋಟವನ್ನು ಬಡಿದಾಗ, ಈ ಗಾಳಿಯ ಸ್ತಂಭವು ಕಂಪಿಸುತ್ತದೆ. ಗಾಳಿಯ ಸ್ತಂಭದ ಉದ್ದವು ಬದಲಾದಂತೆ, ಕಂಪನದ ಆವೃತ್ತಿ (frequency) ಕೂಡ ಬದಲಾಗುತ್ತದೆ. ಇದು ವಿಭಿನ್ನ ಸ್ಥಾಯಿಯ (pitch) ಶಬ್ದಗಳನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ. ಇದೇ ಜಲತರಂಗದ ಹಿಂದಿರುವ ವಿಜ್ಞಾನ.",
+  "display_bullets": [
+    "ವೀಕ್ಷಣೆ: ಪ್ರತಿ ಲೋಟವನ್ನು ಬಡಿದಾಗ ವಿಭಿನ್ನ ಸ್ವರದ ಸಂಗೀತದ ಶಬ್ದ ಕೇಳಿಸುತ್ತದೆ.",
+    "ತೀರ್ಮಾನ: ಲೋಟದಲ್ಲಿರುವ ಗಾಳಿಯ ಸ್ತಂಭದ ಉದ್ದವು ಬದಲಾದಂತೆ, ಕಂಪನದ ಆವೃತ್ತಿ (frequency) ಬದಲಾಗುತ್ತದೆ.",
+    "ವಿಭಿನ್ನ ಆವೃತ್ತಿಗಳು ವಿಭಿನ್ನ ಸ್ಥಾಯಿಯ (pitch) ಶಬ್ದಗಳನ್ನು ಉತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Two glass tumblers side-by-side. The left tumbler has a low water level, with a long arrow labeled 'ದೀರ್ಘ ಗಾಳಿಯ ಸ್ತಂಭ (ಕಡಿಮೆ ಸ್ಥಾಯಿ)'. The right tumbler has a high water level, with a short arrow labeled 'ಸಣ್ಣ ಗಾಳಿಯ ಸ್ತಂಭ (ಹೆಚ್ಚಿನ ಸ್ಥಾಯಿ)'. Wave icons near the top of each tumbler can represent the sound, with a lower frequency wave for the left and a higher frequency wave for the right.",
+    "labels": "ಕಡಿಮೆ ನೀರು, ಹೆಚ್ಚು ನೀರು, ಗಾಳಿಯ ಸ್ತಂಭ, ಕಡಿಮೆ ಸ್ಥಾಯಿ, ಹೆಚ್ಚಿನ ಸ್ಥಾಯಿ",
+    "scientific_significance": "Visually explains the inverse relationship between the length of the vibrating air column and the pitch of the sound produced in the Jal Tarang experiment.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_chapter_10_concept_1_chunk_015"
+}

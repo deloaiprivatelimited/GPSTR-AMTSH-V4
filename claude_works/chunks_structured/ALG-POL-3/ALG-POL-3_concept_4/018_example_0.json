@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅಪವರ್ತನ ಪ್ರಮೇಯ ಬಳಸಿ ಅಪವರ್ತಿಸುವಿಕೆ",
+  "script": "ಈಗ ನಾವು ಅಪವರ್ತನ ಪ್ರಮೇಯವನ್ನು ಬಳಸಿ ಒಂದು ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯನ್ನು ಹೇಗೆ ಅಪವರ್ತಿಸುವುದು ಎಂದು ನೋಡೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಸಮಸ್ಯೆ: y ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಐದು y ಪ್ಲಸ್ ಆರು, ಇದನ್ನು ಅಪವರ್ತಿಸಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ನಾವು ಅಪವರ್ತನ ಪ್ರಮೇಯವನ್ನು ಉಪಯೋಗಿಸಬೇಕು. ಮೊದಲು, ದತ್ತ ಬಹುಪದೋಕ್ತಿ p ಆಫ್ y ಈಕ್ವಲ್ಸ್ y ಸ್ಕ್ವೇರ್ಡ್ ಮೈನಸ್ ಐದು y ಪ್ಲಸ್ ಆರು. ನಾವು ಇದರ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ನಾವು ಅಪವರ್ತನ ಪ್ರಮೇಯವನ್ನು ಬಳಸಿ ಒಂದು ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯನ್ನು ಹೇಗೆ ಅಪವರ್ತಿಸುವುದು ಎಂದು ನೋಡೋಣ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಸಮಸ್ಯೆ: $y^2 – 5y + 6$ ನ್ನು ಅಪವರ್ತಿಸಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ನಾವು ಅಪವರ್ತನ ಪ್ರಮೇಯವನ್ನು ಉಪಯೋಗಿಸಬೇಕು. ಮೊದಲು, ದತ್ತ ಬಹುಪದೋಕ್ತಿ $p(y) = y^2 – 5y + 6$. ನಾವು ಇದರ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತ ಬಹುಪದೋಕ್ತಿ: $p(y) = y^2 – 5y + 6$",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು: $p(y)$ ನ ಅಪವರ್ತನಗಳು",
+    "ಬಳಸಬೇಕಾದ ವಿಧಾನ: ಅಪವರ್ತನ ಪ್ರಮೇಯ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "y^2 – 5y + 6",
+    "placeholder_note": "The polynomial to be factorized"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-POL-3_example_13",
+  "chunk_id": "ALG-POL-3_concept_4_chunk_018"
+}

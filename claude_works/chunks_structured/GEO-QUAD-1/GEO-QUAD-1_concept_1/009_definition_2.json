@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವಕ್ರರೇಖೆಗಳು: ಒಂದು ಪರಿಚಯ",
+  "script": "ರೇಖಾಗಣಿತದ ಮೂಲಭೂತ ಅಂಶಗಳಲ್ಲಿ ಒಂದಾದ ವಕ್ರರೇಖೆಗಳ ಬಗ್ಗೆ ಮೊದಲು ತಿಳಿಯೋಣ. ವಕ್ರರೇಖೆ ಎಂದರೆ ಏನು? ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಕಾಗದದ ಮೇಲೆ ಪೆನ್ ಅಥವಾ ಪೆನ್ಸಿಲ್ ಅನ್ನು ಎತ್ತದೆ ಚಿತ್ರಿಸಿದ ಯಾವುದೇ ಆಕೃತಿಯನ್ನು ವಕ್ರರೇಖೆ ಎಂದು ಕರೆಯಬಹುದು. ಅದು ನೇರವಾಗಿರಬಹುದು ಅಥವಾ ಬಾಗಿರಬಹುದು. ಇಲ್ಲಿ ನೀವು ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡುತ್ತಿದ್ದೀರಿ. ಈ ಎಲ್ಲಾ ಆಕೃತಿಗಳು ವಕ್ರರೇಖೆಗಳೇ. ಇವುಗಳಲ್ಲಿ ಕೆಲವು ತೆರೆದಿದ್ದರೆ, ಕೆಲವು ಮುಚ್ಚಿವೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನಾವು ಮುಂದಿನ ಸ್ಲೈಡ್‌ಗಳಲ್ಲಿ ವಿವರವಾಗಿ ಚರ್ಚಿಸೋಣ.",
+  "script_display": "ರೇಖಾಗಣಿತದ ಮೂಲಭೂತ ಅಂಶಗಳಲ್ಲಿ ಒಂದಾದ ವಕ್ರರೇಖೆಗಳ ಬಗ್ಗೆ ಮೊದಲು ತಿಳಿಯೋಣ. ವಕ್ರರೇಖೆ ಎಂದರೆ ಏನು? ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಕಾಗದದ ಮೇಲೆ ಪೆನ್ ಅಥವಾ ಪೆನ್ಸಿಲ್ ಅನ್ನು ಎತ್ತದೆ ಚಿತ್ರಿಸಿದ ಯಾವುದೇ ಆಕೃತಿಯನ್ನು ವಕ್ರರೇಖೆ ಎಂದು ಕರೆಯಬಹುದು. ಅದು ನೇರವಾಗಿರಬಹುದು ಅಥವಾ ಬಾಗಿರಬಹುದು. ಇಲ್ಲಿ ನೀವು ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ನೋಡುತ್ತಿದ್ದೀರಿ. ಈ ಎಲ್ಲಾ ಆಕೃತಿಗಳು ವಕ್ರರೇಖೆಗಳೇ. ಇವುಗಳಲ್ಲಿ ಕೆಲವು ತೆರೆದಿದ್ದರೆ, ಕೆಲವು ಮುಚ್ಚಿವೆ. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನಾವು ಮುಂದಿನ ಸ್ಲೈಡ್‌ಗಳಲ್ಲಿ ವಿವರವಾಗಿ ಚರ್ಚಿಸೋಣ.",
+  "display_bullets": [
+    "ಕಾಗದದಿಂದ ಪೆನ್ ಎತ್ತದೆ ಚಿತ್ರಿಸಿದ ಯಾವುದೇ ಆಕೃತಿಯು ಒಂದು ವಕ್ರರೇಖೆ.",
+    "ವಕ್ರರೇಖೆಗಳು ನೇರವಾಗಿರಬಹುದು ಅಥವಾ ಬಾಗಿರಬಹುದು.",
+    "ಇವು ವಕ್ರರೇಖೆಗಳ ಕೆಲವು ಉದಾಹರಣೆಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left_text_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collection of various simple curves drawn on a plane. Some are straight lines, some are wavy, some are spirals. All of them are open curves, meaning their start and end points are different.",
+    "labels": "ತೆರೆದ ವಕ್ರರೇಖೆಗಳು",
+    "mathematical_significance": "Introduces the general concept of a 'curve' in a geometric context before narrowing down to closed curves.",
+    "placeholder_note": "Image to be generated showing 4-5 different open curves. For example: a wavy line, a spiral, a single arc, a zig-zag line."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_1_chunk_009"
+}

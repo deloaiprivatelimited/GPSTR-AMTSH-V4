@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳು",
+  "script": "ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂದು ನೋಡೋಣ. ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ, ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳು ಸೊನ್ನೆಯಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತವೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡಬಹುದು, ನಾವು ಸೊನ್ನೆಯಿಂದ ಶುರುಮಾಡಿ, ನಂತರ ಒಂದು, ಎರಡು, ಮೂರು, ಹೀಗೆ ಬಲಭಾಗಕ್ಕೆ, ಅಂದರೆ ಧನಾತ್ಮಕ ದಿಕ್ಕಿನಲ್ಲಿ ಅನಂತವಾಗಿ ಚಲಿಸುತ್ತೇವೆ. ನೆನಪಿಸಿಕೊಳ್ಳಿ, ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳು ಒಂದರಿಂದ ಪ್ರಾರಂಭವಾದರೆ, ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳು ಸೊನ್ನೆಯಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತವೆ. ಈ ದೃಶ್ಯ ನಿರೂಪಣೆಯು ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂದು ನೋಡೋಣ. ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ, ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳು ಸೊನ್ನೆಯಿಂದ (0) ಪ್ರಾರಂಭವಾಗುತ್ತವೆ. ಚಿತ್ರದಲ್ಲಿ ನೀವು ನೋಡಬಹುದು, ನಾವು ಸೊನ್ನೆಯಿಂದ (0) ಶುರುಮಾಡಿ, ನಂತರ 1, 2, 3, ಹೀಗೆ ಬಲಭಾಗಕ್ಕೆ, ಅಂದರೆ ಧನಾತ್ಮಕ ದಿಕ್ಕಿನಲ್ಲಿ ಅನಂತವಾಗಿ ಚಲಿಸುತ್ತೇವೆ. ನೆನಪಿಸಿಕೊಳ್ಳಿ, ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳು 1 ರಿಂದ ಪ್ರಾರಂಭವಾದರೆ, ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳು 0 ರಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತವೆ. ಈ ದೃಶ್ಯ ನಿರೂಪಣೆಯು ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ, ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳು ಸೊನ್ನೆಯಿಂದ (0) ಪ್ರಾರಂಭವಾಗುತ್ತವೆ.",
+    "ಅವು ಬಲಭಾಗಕ್ಕೆ ಧನಾತ್ಮಕ ದಿಕ್ಕಿನಲ್ಲಿ ಅನಂತವಾಗಿ ಚಲಿಸುತ್ತವೆ.",
+    "ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳು 1 ರಿಂದ ಪ್ರಾರಂಭವಾದರೆ, ಪೂರ್ಣ ಸಂಖ್ಯೆಗಳು 0 ರಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line starting from 0 and extending to the right. The points 0, 1, 2, 3, 4, 5 are clearly marked and highlighted with dots. An arrow at the right end indicates it continues indefinitely.",
+    "labels": "0, 1, 2, 3, 4, 5, ...",
+    "mathematical_significance": "Visual representation of whole numbers, showing their starting point (0) and discrete, ordered nature.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "NS-SYS-3_concept_1_chunk_008"
+}

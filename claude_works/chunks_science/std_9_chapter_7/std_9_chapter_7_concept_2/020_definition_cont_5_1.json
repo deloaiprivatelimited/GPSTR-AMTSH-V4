@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಸರಾಸರಿ ವೇಗದ ಸೂತ್ರ",
+  "script": "ಈಗ ಸರಾಸರಿ ವೇಗವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸರಾಸರಿ ವೇಗವನ್ನು ಈ ಸೂತ್ರದಿಂದ ಲೆಕ್ಕಹಾಕಲಾಗುತ್ತದೆ. ಸರಾಸರಿ ವೇಗ, ವಿ ಎವಿ, ಈಕ್ವಲ್ಸ್ ಆರಂಭಿಕ ವೇಗ, ಯು, ಪ್ಲಸ್ ಅಂತಿಮ ವೇಗ, ವಿ, ಎಲ್ಲವನ್ನೂ ಎರಡರಿಂದ ಭಾಗಿಸಬೇಕು. ಇಲ್ಲಿ, ಯು ಎಂಬುದು ವಸ್ತುವಿನ ಚಲನೆಯ ಪ್ರಾರಂಭದಲ್ಲಿನ ವೇಗ, ಅಂದರೆ ಆರಂಭಿಕ ವೇಗ. ವಿ ಎಂಬುದು ನಾವು ಗಮನಿಸುತ್ತಿರುವ ಸಮಯದ ಕೊನೆಯಲ್ಲಿನ ವೇಗ, ಅಂದರೆ ಅಂತಿಮ ವೇಗ. ಈ ಸೂತ್ರವು ಆರಂಭಿಕ ಮತ್ತು ಅಂತಿಮ ವೇಗಗಳ ಸರಾಸರಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಈಗ ಸರಾಸರಿ ವೇಗವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಸರಾಸರಿ ವೇಗವನ್ನು ಈ ಸೂತ್ರದಿಂದ ಲೆಕ್ಕಹಾಕಲಾಗುತ್ತದೆ. ಇಲ್ಲಿ, 'u' ಎಂಬುದು ಆರಂಭಿಕ ವೇಗ ಮತ್ತು 'v' ಎಂಬುದು ಅಂತಿಮ ವೇಗ. ಈ ಸೂತ್ರವು ಆರಂಭಿಕ ಮತ್ತು ಅಂತಿಮ ವೇಗಗಳ ಸರಾಸರಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸರಾಸರಿ ವೇಗವನ್ನು ಈ ಸೂತ್ರದಿಂದ ಲೆಕ್ಕಹಾಕಲಾಗುತ್ತದೆ.",
+    "u = ಆರಂಭಿಕ ವೇಗ (Initial Velocity)",
+    "v = ಅಂತಿಮ ವೇಗ (Final Velocity)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "v_{av} = \\frac{u + v}{2}",
+    "placeholder_note": "Formula for Average Velocity"
+  },
+  "chunk_id": "std_9_chapter_7_concept_2_chunk_020"
+}

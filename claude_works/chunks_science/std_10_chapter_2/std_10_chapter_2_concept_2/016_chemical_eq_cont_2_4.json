@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಪನ್ನಗಳನ್ನು ಗುರುತಿಸೋಣ",
+  "script": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಉಂಟಾದ ಉತ್ಪನ್ನಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್, ಇದು ಸಾಮಾನ್ಯ ಉಪ್ಪು. ಎರಡನೆಯದಾಗಿ, ನೀರು. ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲ. ಈ ಅನಿಲವು ಗುಳ್ಳೆಗಳ ರೂಪದಲ್ಲಿ ಹೊರಬರುತ್ತದೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಉಂಟಾದ ಉತ್ಪನ್ನಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ (NaCl), ಇದು ಸಾಮಾನ್ಯ ಉಪ್ಪು. ಎರಡನೆಯದಾಗಿ, ನೀರು (H₂O). ಮತ್ತು ಮೂರನೆಯದಾಗಿ, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಅನಿಲ. ಈ ಅನಿಲವು ಗುಳ್ಳೆಗಳ ರೂಪದಲ್ಲಿ ಹೊರಬರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಲವಣ (Salt): ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ (NaCl)",
+    "ನೀರು (Water): H₂O",
+    "ಅನಿಲ (Gas): ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dynamic",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A test tube containing sodium carbonate solid at the bottom. Hydrochloric acid is being added, causing vigorous bubbling (effervescence). The products NaCl(aq) and H₂O are in the solution, and CO₂ gas is shown escaping.",
+    "labels": "ಪ್ರನಾಳ, ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ (Na₂CO₃), ಹೈಡ್ರೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl), ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಗುಳ್ಳೆಗಳು (CO₂)",
+    "scientific_significance": "Visual representation of the reaction, highlighting the formation of a gas (effervescence).",
+    "placeholder_note": "Image to be generated."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_016"
+}

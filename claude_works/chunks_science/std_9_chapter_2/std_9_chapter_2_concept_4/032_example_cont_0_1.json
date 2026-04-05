@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 1 - ದ್ರಾವಣದ ರಾಶಿ",
+  "script": "ಪರಿಹಾರದ ಮೊದಲ ಹಂತವಾಗಿ, ನಾವು ದ್ರಾವಣದ ಒಟ್ಟು ರಾಶಿಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ದ್ರಾವಣದ ರಾಶಿಯು ದ್ರಾವ್ಯದ ರಾಶಿ ಮತ್ತು ದ್ರಾವಕದ ರಾಶಿಯ ಮೊತ್ತಕ್ಕೆ ಸಮವಾಗಿರುತ್ತದೆ. ನಮ್ಮ ಲೆಕ್ಕದಲ್ಲಿ, ದ್ರಾವ್ಯದ ರಾಶಿ ನಲವತ್ತು ಗ್ರಾಂ ಮತ್ತು ದ್ರಾವಕದ ರಾಶಿ ಮುನ್ನೂರ ಇಪ್ಪತ್ತು ಗ್ರಾಂ. ಇವೆರಡನ್ನೂ ಕೂಡಿಸಿದಾಗ, ನಮಗೆ ದ್ರಾವಣದ ಒಟ್ಟು ರಾಶಿ ಮುನ್ನೂರ ಅರವತ್ತು ಗ್ರಾಂ ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಪರಿಹಾರದ ಮೊದಲ ಹಂತವಾಗಿ, ನಾವು ದ್ರಾವಣದ ಒಟ್ಟು ರಾಶಿಯನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. <br><br> ದ್ರಾವಣದ ರಾಶಿ = ದ್ರಾವ್ಯದ ರಾಶಿ + ದ್ರಾವಕದ ರಾಶಿ <br><br> ನಮ್ಮ ಲೆಕ್ಕದಲ್ಲಿ, ದ್ರಾವ್ಯದ ರಾಶಿ = 40 g ಮತ್ತು ದ್ರಾವಕದ ರಾಶಿ = 320 g. <br><br> ಇವೆರಡನ್ನೂ ಕೂಡಿಸಿದಾಗ, ನಮಗೆ ದ್ರಾವಣದ ಒಟ್ಟು ರಾಶಿ 360 g ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "**ಹಂತ 1: ದ್ರಾವಣದ ಒಟ್ಟು ರಾಶಿಯನ್ನು ಲೆಕ್ಕ ಹಾಕಿ**",
+    "ದ್ರಾವಣದ ರಾಶಿ = ದ್ರಾವ್ಯದ ರಾಶಿ + ದ್ರಾವಕದ ರಾಶಿ",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ:",
+    "ದ್ರಾವಣದ ರಾಶಿ = 40 g + 320 g",
+    "ಒಟ್ಟು ದ್ರಾವಣದ ರಾಶಿ = 360 g"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ದ್ರಾವಣದ ರಾಶಿ} = \\text{ದ್ರಾವ್ಯದ ರಾಶಿ} + \\text{ದ್ರಾವಕದ ರಾಶಿ} \\\\ = 40 \\text{ g} + 320 \\text{ g} \\\\ = 360 \\text{ g}",
+    "placeholder_note": "Calculation of the total mass of the solution"
+  },
+  "source_example_id": "std_9_chapter_2_example_1",
+  "chunk_id": "std_9_chapter_2_concept_4_chunk_032"
+}

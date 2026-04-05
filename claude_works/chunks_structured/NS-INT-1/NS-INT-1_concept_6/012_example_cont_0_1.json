@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಎಡಭಾಗ (LHS)",
+  "script": "ಮೊದಲು ಎಡಭಾಗವನ್ನು, ಅಂದರೆ ಎಲ್ ಎಚ್ ಎಸ್ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಮ್ಮ ಸಮೀಕರಣವು ಹದಿನೆಂಟು ಗುಣಿಸು, ಏಳು ಪ್ಲಸ್ ಮೈನಸ್ ಮೂರು. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಆವರಣದೊಳಗಿನ ಕ್ರಿಯೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಬೇಕು. ಏಳು ಪ್ಲಸ್ ಮೈನಸ್ ಮೂರು ಎಂದರೆ ಏಳರಿಂದ ಮೂರನ್ನು ಕಳೆಯುವುದು, ಆಗ ನಮಗೆ ನಾಲ್ಕು ಸಿಗುತ್ತದೆ. ಈಗ ನಮ್ಮ ಲೆಕ್ಕ ಹದಿನೆಂಟು ಗುಣಿಸು ನಾಲ್ಕು ಎಂದಾಗುತ್ತದೆ. ಇದನ್ನು ಗುಣಿಸಿದಾಗ ನಮಗೆ ಎಪ್ಪತ್ತೆರಡು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಎಡಭಾಗದ ಮೌಲ್ಯ ಎಪ್ಪತ್ತೆರಡು.",
+  "script_display": "ಮೊದಲು ಎಡಭಾಗವನ್ನು (LHS) ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಮ್ಮ ಸಮೀಕರಣವು $18 \\times [7 + (-3)]$. ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಆವರಣದೊಳಗಿನ ಕ್ರಿಯೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಬೇಕು. $7 + (-3)$ ಎಂದರೆ $7-3$, ಆಗ ನಮಗೆ $4$ ಸಿಗುತ್ತದೆ. ಈಗ ನಮ್ಮ ಲೆಕ್ಕ $18 \\times 4$ ಎಂದಾಗುತ್ತದೆ. ಇದನ್ನು ಗುಣಿಸಿದಾಗ ನಮಗೆ $72$ ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ಎಡಭಾಗದ ಮೌಲ್ಯ 72.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-INT-1_example_4",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$LHS = 18 \\times [7 + (-3)]$",
+      "justification": "ಎಡಭಾಗವನ್ನು (LHS) ಸುಲಭೀಕರಿಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "$= 18 \\times [4] = 72$",
+      "justification": "ಆವರಣದೊಳಗಿನ ಕ್ರಿಯೆಯನ್ನು ಮೊದಲು ಮಾಡಿ, ನಂತರ ಗುಣಿಸುವುದು."
+    }
+  ],
+  "chunk_id": "NS-INT-1_concept_6_chunk_012"
+}

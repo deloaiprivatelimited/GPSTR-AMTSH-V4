@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಲೆಕ್ಕಾಚಾರದ ಉದಾಹರಣೆ: ಸರಾಸರಿ ಜವ",
+  "script": "ಈಗ ನಾವು ಸರಾಸರಿ ಜವಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಸ್ಯೆ ಹೀಗಿದೆ: ಪ್ರಯಾಣದ ಆರಂಭದಲ್ಲಿ ಒಂದು ಮೋಟಾರ್ ವಾಹನದ ಓಡೋಮೀಟರ್ 2000 ಕಿಲೋಮೀಟರ್ ತೋರಿಸಿ, ಪ್ರಯಾಣದ ಕೊನೆಯಲ್ಲಿ 2400 ಕಿಲೋಮೀಟರ್ ತೋರಿಸುತ್ತದೆ. ಪ್ರಯಾಣವು 8 ಗಂಟೆಗಳನ್ನು ತೆಗೆದುಕೊಂಡರೆ, ವಾಹನದ ಸರಾಸರಿ ಜವವನ್ನು ಕಿಲೋಮೀಟರ್ ಪರ್ ಹವರ್ ನಲ್ಲಿ ಮತ್ತು ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ನಲ್ಲಿ ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ, ನಾವು ಚಲಿಸಿದ ದೂರ ಮತ್ತು ತೆಗೆದುಕೊಂಡ ಕಾಲವನ್ನು ಬಳಸಿ ಸರಾಸರಿ ಜವವನ್ನು ಎರಡು ಬೇರೆ ಬೇರೆ ಏಕಮಾನಗಳಲ್ಲಿ ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ನಾವು ಸರಾಸರಿ ಜವಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಮಸ್ಯೆ ಹೀಗಿದೆ: ಪ್ರಯಾಣದ ಆರಂಭದಲ್ಲಿ ಒಂದು ಮೋಟಾರ್ ವಾಹನದ ಓಡೋಮೀಟರ್ 2000 km ತೋರಿಸಿ, ಪ್ರಯಾಣದ ಕೊನೆಯಲ್ಲಿ 2400 km ತೋರಿಸುತ್ತದೆ. ಪ್ರಯಾಣವು 8 ಗಂಟೆಗಳನ್ನು ತೆಗೆದುಕೊಂಡರೆ, ವಾಹನದ ಸರಾಸರಿ ಜವವನ್ನು km/h ನಲ್ಲಿ ಮತ್ತು m/s ನಲ್ಲಿ ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ, ನಾವು ಚಲಿಸಿದ ದೂರ ಮತ್ತು ತೆಗೆದುಕೊಂಡ ಕಾಲವನ್ನು ಬಳಸಿ ಸರಾಸರಿ ಜವವನ್ನು ಎರಡು ಬೇರೆ ಬೇರೆ ಏಕಮಾನಗಳಲ್ಲಿ ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಒಂದು ಮೋಟಾರ್ ವಾಹನದ ಓಡೋಮೀಟರ್ 2000 km ನಿಂದ 2400 km ಗೆ ಬದಲಾಗುತ್ತದೆ.",
+    "ತೆಗೆದುಕೊಂಡ ಕಾಲ: 8 ಗಂಟೆಗಳು.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಸರಾಸರಿ ಜವ (km/h ಮತ್ತು m/s ನಲ್ಲಿ)."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Illustration of a car on a road. An arrow indicates the direction of travel. Two odometer readings are shown: 'Start: 2000 km' and 'End: 2400 km'. A clock icon shows 'Time: 8 hours'.",
+    "labels": "Odometer, Car, Road, Time",
+    "scientific_significance": "Visual representation of the problem's given data: initial distance, final distance, and time elapsed.",
+    "placeholder_note": "Image to be generated to visually represent the problem statement."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_7_example_7.2",
+  "chunk_id": "std_9_chapter_7_concept_2_chunk_036"
+}

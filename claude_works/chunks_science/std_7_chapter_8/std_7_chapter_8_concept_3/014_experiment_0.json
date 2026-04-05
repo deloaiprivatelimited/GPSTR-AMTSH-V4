@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಚಟುವಟಿಕೆ 8.3: ಯೀಸ್ಟ್‌ನಲ್ಲಿ ಮೊಗ್ಗುವಿಕೆ (ಸಾಮಗ್ರಿಗಳು)",
+  "script": "ಈಗ ನಾವು ಯೀಸ್ಟ್‌ನಲ್ಲಿ ಮೊಗ್ಗುವಿಕೆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ವೀಕ್ಷಿಸಲು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಇದಕ್ಕೆ ನಮಗೆ ಕೆಲವು ಸುಲಭವಾಗಿ ಸಿಗುವ ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಬೇಕರಿಗಳಲ್ಲಿ ಬಳಸುವ ಯೀಸ್ಟ್ ಪುಡಿ. ನಂತರ, ಸ್ವಲ್ಪ ಸಕ್ಕರೆ, ಇದು ಯೀಸ್ಟ್‌ಗೆ ಆಹಾರವಾಗಿ ಬೇಕು. ಹಾಗೆಯೇ, ಉಗುರುಬೆಚ್ಚಗಿನ ನೀರು, ಇದು ಯೀಸ್ಟ್ ಕೋಶಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ವೀಕ್ಷಣೆಗಾಗಿ ಒಂದು ಗಾಜಿನ ಪಟ್ಟಿ ಮತ್ತು ಸೂಕ್ಷ್ಮದರ್ಶಕ ಬೇಕಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳೋಣ.",
+  "script_display": "ಈಗ ನಾವು ಯೀಸ್ಟ್‌ನಲ್ಲಿ ಮೊಗ್ಗುವಿಕೆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ವೀಕ್ಷಿಸಲು ಒಂದು ಸರಳ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡೋಣ. ಇದಕ್ಕೆ ನಮಗೆ ಕೆಲವು ಸುಲಭವಾಗಿ ಸಿಗುವ ಸಾಮಗ್ರಿಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಬೇಕರಿಗಳಲ್ಲಿ ಬಳಸುವ ಯೀಸ್ಟ್ ಪುಡಿ. ನಂತರ, ಸ್ವಲ್ಪ ಸಕ್ಕರೆ, ಇದು ಯೀಸ್ಟ್‌ಗೆ ಆಹಾರವಾಗಿ ಬೇಕು. ಹಾಗೆಯೇ, ಉಗುರುಬೆಚ್ಚಗಿನ ನೀರು, ಇದು ಯೀಸ್ಟ್ ಕೋಶಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ವೀಕ್ಷಣೆಗಾಗಿ ಒಂದು ಗಾಜಿನ ಪಟ್ಟಿ ಮತ್ತು ಸೂಕ್ಷ್ಮದರ್ಶಕ ಬೇಕಾಗುತ್ತದೆ. ಈ ಎಲ್ಲಾ ಸಾಮಗ್ರಿಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳೋಣ.",
+  "display_bullets": [
+    "ಯೀಸ್ಟ್ ಪುಡಿ",
+    "ಸಕ್ಕರೆ",
+    "ಉಗುರುಬೆಚ್ಚಗಿನ ನೀರು",
+    "ಗಾಜಿನ ಪಟ್ಟಿ ಮತ್ತು ಸೂಕ್ಷ್ಮದರ್ಶಕ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A collection of items needed for the yeast budding experiment, arranged neatly on a table. This includes a small packet or bowl of yeast powder, a bowl of sugar, a beaker filled with warm water, a clean glass slide, and a simple microscope.",
+    "labels": "ಯೀಸ್ಟ್ ಪುಡಿ, ಸಕ್ಕರೆ, ಉಗುರುಬೆಚ್ಚಗಿನ ನೀರು, ಗಾಜಿನ ಪಟ್ಟಿ, ಸೂಕ್ಷ್ಮದರ್ಶಕ",
+    "scientific_significance": "Displays the necessary apparatus for observing budding in yeast, helping students visualize the setup before starting the procedure.",
+    "placeholder_note": "Image to be generated showing the materials for the experiment."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_chapter_8_concept_3_chunk_014"
+}

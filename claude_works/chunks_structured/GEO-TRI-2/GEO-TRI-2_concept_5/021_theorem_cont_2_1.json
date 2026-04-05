@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರಮೇಯ 6.5: ಸಾಧನೆ (Proof)",
+  "script": "ಈಗ ಈ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸೋಣ. ನಮ್ಮಲ್ಲಿ ಎರಡು ತ್ರಿಭುಜಗಳಿವೆ, ಟ್ರೈಯಾಂಗಲ್ ಎ ಬಿ ಸಿ ಮತ್ತು ಟ್ರೈಯಾಂಗಲ್ ಡಿ ಇ ಎಫ್. ನಮಗೆ ಏನು ಕೊಡಲಾಗಿದೆ? ಮೊದಲನೆಯದಾಗಿ, ಕೋನ ಎ ಯು ಕೋನ ಡಿ ಗೆ ಸಮವಾಗಿದೆ. ಎರಡನೆಯದಾಗಿ, ಕೋನ ಎ ಯನ್ನು ರೂಪಿಸುವ ಬಾಹುಗಳ ಅನುಪಾತಗಳು ಸಮವಾಗಿವೆ, ಅಂದರೆ ಎ ಬಿ ಬೈ ಡಿ ಇ ಯು ಎ ಸಿ ಬೈ ಡಿ ಎಫ್ ಗೆ ಸಮವಾಗಿದೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಟ್ರೈಯಾಂಗಲ್ ಎ ಬಿ ಸಿ ಯು ಟ್ರೈಯಾಂಗಲ್ ಡಿ ಇ ಎಫ್ ಗೆ ಸಮರೂಪಿಯಾಗಿದೆ ಎಂದು. ಇದನ್ನು ಸಾಧಿಸಲು ನಾವು ಮುಂದಿನ ಹಂತಗಳಲ್ಲಿ ಕೆಲವು ರಚನೆಗಳನ್ನು ಮತ್ತು ತಾರ್ಕಿಕತೆಯನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಈ ಪ್ರಮೇಯವನ್ನು ಸಾಧಿಸೋಣ. ನಮ್ಮಲ್ಲಿ ಎರಡು ತ್ರಿಭುಜಗಳಿವೆ, $\\triangle ABC$ ಮತ್ತು $\\triangle DEF$. ನಮಗೆ ಏನು ಕೊಡಲಾಗಿದೆ? ಮೊದಲನೆಯದಾಗಿ, $\\angle A = \\angle D$. ಎರಡನೆಯದಾಗಿ, $\\angle A$ ಯನ್ನು ರೂಪಿಸುವ ಬಾಹುಗಳ ಅನುಪಾತಗಳು ಸಮವಾಗಿವೆ, ಅಂದರೆ $\\frac{AB}{DE} = \\frac{AC}{DF}$. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು $\\triangle ABC \\sim \\triangle DEF$ ಎಂದು. ಇದನ್ನು ಸಾಧಿಸಲು ನಾವು ಮುಂದಿನ ಹಂತಗಳಲ್ಲಿ ಕೆಲವು ರಚನೆಗಳನ್ನು ಮತ್ತು ತಾರ್ಕಿಕತೆಯನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [
+    "**ದತ್ತ (Given):** $\\triangle ABC$ ಮತ್ತು $\\triangle DEF$ ಗಳಲ್ಲಿ, $\\angle A = \\angle D$ ಮತ್ತು $\\frac{AB}{DE} = \\frac{AC}{DF}$.",
+    "**ಸಾಧನೀಯ (To Prove):** $\\triangle ABC \\sim \\triangle DEF$."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "proof_setup",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಂತೆಯೇ ಎರಡು ತ್ರಿಭುಜಗಳು, ABC ಮತ್ತು DEF. ಆದರೆ ಈಗ 'ದತ್ತ' ಮತ್ತು 'ಸಾಧನೀಯ' ಎಂಬ ಶೀರ್ಷಿಕೆಗಳೊಂದಿಗೆ ಮಾಹಿತಿಯನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಲೇಬಲ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "A, B, C, D, E, F",
+    "mathematical_significance": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು ಬೇಕಾದ ದತ್ತಾಂಶ ಮತ್ತು ಸಾಧಿಸಬೇಕಾದ ಗುರಿಯನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_021"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಯುಕ್ತ ಘಟನೆ (Compound Event)",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಯೋಗ: ಎರಡು ನಾಣ್ಯಗಳನ್ನು ಚಿಮ್ಮುವುದು. ಇದರ ಮಾದರಿ ಅವಕಾಶ ಎಸ್ ಈಕ್ವಲ್ಸ್ ಹೆಚ್ ಹೆಚ್, ಹೆಚ್ ಟಿ, ಟಿ ಹೆಚ್, ಮತ್ತು ಟಿ ಟಿ. ಈಗ, 'ಕನಿಷ್ಠ ಒಂದು ಶಿರವನ್ನು ಪಡೆಯುವ ಘಟನೆ' ಎಫ್ ಅನ್ನು ಪರಿಗಣಿಸೋಣ. 'ಕನಿಷ್ಠ ಒಂದು' ಎಂದರೆ ಒಂದು ಅಥವಾ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಶಿರಗಳು. ಹಾಗಾಗಿ, ಈ ಘಟನೆಗೆ ಅನುಕೂಲಕರವಾದ ಫಲಿತಗಳು ಹೆಚ್ ಹೆಚ್, ಹೆಚ್ ಟಿ, ಮತ್ತು ಟಿ ಹೆಚ್. ಇಲ್ಲಿ ಒಟ್ಟು ಮೂರು ಫಲಿತಗಳಿವೆ. ಇದು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರುವುದರಿಂದ, ನಮ್ಮ ತೀರ್ಮಾನ, ಎಫ್ ಒಂದು ಸಂಯುಕ್ತ ಘಟನೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಪ್ರಯೋಗ: ಎರಡು ನಾಣ್ಯಗಳನ್ನು ಚಿಮ್ಮುವುದು. ಇದರ ಮಾದರಿ ಅವಕಾಶ $S = \\{HH, HT, TH, TT\\}$. ಈಗ, 'ಕನಿಷ್ಠ ಒಂದು ಶಿರವನ್ನು ಪಡೆಯುವ ಘಟನೆ' (F) ಅನ್ನು ಪರಿಗಣಿಸೋಣ. 'ಕನಿಷ್ಠ ಒಂದು' ಎಂದರೆ ಒಂದು ಅಥವಾ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಶಿರಗಳು. ಹಾಗಾಗಿ, ಈ ಘಟನೆಗೆ ಅನುಕೂಲಕರವಾದ ಫಲಿತಗಳು $\\{HH, HT, TH\\}$. ಇಲ್ಲಿ ಒಟ್ಟು 3 ಫಲಿತಗಳಿವೆ. ಇದು 1ಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರುವುದರಿಂದ, ನಮ್ಮ ತೀರ್ಮಾನ, F ಒಂದು ಸಂಯುಕ್ತ ಘಟನೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಪ್ರಯೋಗ: ಎರಡು ನಾಣ್ಯಗಳನ್ನು ಚಿಮ್ಮುವುದು.",
+    "ಮಾದರಿ ಅವಕಾಶ: $S = \\{HH, HT, TH, TT\\}$",
+    "ಘಟನೆ (F): ಕನಿಷ್ಠ ಒಂದು ಶಿರವನ್ನು ಪಡೆಯುವುದು.",
+    "ಫಲಿತಗಳು: $\\{HH, HT, TH\\}$ (3 ಫಲಿತಗಳು > 1)",
+    "ತೀರ್ಮಾನ: F ಒಂದು ಸಂಯುಕ್ತ ಘಟನೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_left_text",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Four possible outcomes of tossing two coins. The outcomes HH, HT, and TH are grouped together and highlighted, representing the event 'at least one head'.",
+    "labels": "HH, HT, TH, TT, Compound Event",
+    "mathematical_significance": "Illustrates a compound event in the context of a two-coin toss experiment.",
+    "placeholder_note": "Show four pairs of coins. Circle the pairs HH, HT, and TH with a label 'ಕನಿಷ್ಠ ಒಂದು ಶಿರ'."
+  },
+  "chunk_id": "PROB-BAS-1_concept_4_chunk_013"
+}

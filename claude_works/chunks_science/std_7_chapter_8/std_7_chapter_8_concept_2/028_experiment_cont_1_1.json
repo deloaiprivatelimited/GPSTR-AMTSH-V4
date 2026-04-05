@@ -1,0 +1,38 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ತಾಜಾ ಆಲೂಗಡ್ಡೆ. ಅದರ ಮೇಲೆ ಸಣ್ಣ ಮೊಗ್ಗುಗಳು ಅಥವಾ 'ಕಣ್ಣುಗಳು' ಇರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ನಂತರ, ಅದನ್ನು ನೆಡಲು ಒಂದು ಕುಂಡ ಅಥವಾ ಪಾಟ್ ಬೇಕು. ಆ ಕುಂಡವನ್ನು ತುಂಬಲು ಮಣ್ಣು ಮತ್ತು ಸಸ್ಯದ ಬೆಳವಣಿಗೆಗೆ ನೀರು ಬೇಕಾಗುತ್ತದೆ. ಇವಿಷ್ಟು ಸಾಮಗ್ರಿಗಳು ನಮ್ಮ ಈ ಸರಳ ಪ್ರಯೋಗಕ್ಕೆ ಸಾಕಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು ನಮಗೆ ಕೆಲವು ಸರಳ ವಸ್ತುಗಳು ಬೇಕಾಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಂದು ತಾಜಾ ಆಲೂಗಡ್ಡೆ. ಅದರ ಮೇಲೆ ಸಣ್ಣ ಮೊಗ್ಗುಗಳು ಅಥವಾ 'ಕಣ್ಣುಗಳು' ಇರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ನಂತರ, ಅದನ್ನು ನೆಡಲು ಒಂದು ಕುಂಡ ಅಥವಾ ಪಾಟ್ ಬೇಕು. ಆ ಕುಂಡವನ್ನು ತುಂಬಲು ಮಣ್ಣು ಮತ್ತು ಸಸ್ಯದ ಬೆಳವಣಿಗೆಗೆ ನೀರು ಬೇಕಾಗುತ್ತದೆ. ಇವಿಷ್ಟು ಸಾಮಗ್ರಿಗಳು ನಮ್ಮ ಈ ಸರಳ ಪ್ರಯೋಗಕ್ಕೆ ಸಾಕಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಆಲೂಗಡ್ಡೆ",
+    "ಒಂದು ಕುಂಡ (ಪಾಟ್)",
+    "ಮಣ್ಣು",
+    "ನೀರು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A potato, a pot, a small pile of soil, and a glass of water arranged on a table.",
+    "labels": "ಆಲೂಗಡ್ಡೆ, ಕುಂಡ, ಮಣ್ಣು, ನೀರು",
+    "scientific_significance": "Shows the simple materials required for demonstrating vegetative propagation in potatoes.",
+    "placeholder_note": "Image to be generated showing the materials."
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_7_chapter_8_concept_2_chunk_028"
+}

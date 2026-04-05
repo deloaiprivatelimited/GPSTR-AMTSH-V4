@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವರ್ಗ ಬಹುಪದೋಕ್ತಿ (Quadratic Polynomial)",
+  "script": "ಈಗ ನಾವು ವರ್ಗ ಬಹುಪದೋಕ್ತಿ ಅಂದರೆ ಕ್ವಾಡ್ರಾಟಿಕ್ ಪಾಲಿನೋಮಿಯಲ್ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದರ ವ್ಯಾಖ್ಯಾನ ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಯಾವುದೇ ಬಹುಪದೋಕ್ತಿಯ ಡಿಗ್ರಿ, ಅಂದರೆ ಅದರ ಚರಾಕ್ಷರದ ಅತ್ಯುನ್ನತ ಘಾತ, ಎರಡು ಆಗಿದ್ದರೆ, ಅದನ್ನು ವರ್ಗ ಬಹುಪದೋಕ್ತಿ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರ ಸಾಮಾನ್ಯ ರೂಪ a x squared plus b x plus c ಆಗಿದೆ. ಇಲ್ಲಿ a, b ಮತ್ತು c ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳಾಗಿವೆ ಮತ್ತು ಒಂದು ಪ್ರಮುಖ ನಿಯಮವಿದೆ, ಅದು a ಯು ಸೊನ್ನೆಗೆ ಸಮನಾಗಿರಬಾರದು. ಈ ನಿಯಮ ಯಾಕೆ ಮುಖ್ಯ ಅನ್ನೋದನ್ನ ಮುಂದೆ ನೋಡೋಣ.",
+  "script_display": "ಈಗ ನಾವು ವರ್ಗ ಬಹುಪದೋಕ್ತಿ (Quadratic Polynomial) ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದರ ವ್ಯಾಖ್ಯಾನ ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಯಾವುದೇ ಬಹುಪದೋಕ್ತಿಯ ಡಿಗ್ರಿ, ಅಂದರೆ ಅದರ ಚರಾಕ್ಷರದ ಅತ್ಯುನ್ನತ ಘಾತ, 2 ಆಗಿದ್ದರೆ, ಅದನ್ನು ವರ್ಗ ಬಹುಪದೋಕ್ತಿ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇದರ ಸಾಮಾನ್ಯ ರೂಪ $ax^2+bx+c$ ಆಗಿದೆ. ಇಲ್ಲಿ $a, b$ ಮತ್ತು $c$ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳಾಗಿವೆ ಮತ್ತು ಒಂದು ಪ್ರಮುಖ ನಿಯಮವಿದೆ, ಅದು $a \\neq 0$. ಈ ನಿಯಮ ಯಾಕೆ ಮುಖ್ಯ ಅನ್ನೋದನ್ನ ಮುಂದೆ ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಡಿಗ್ರಿ 2 ಆಗಿರುವ ಬಹುಪದೋಕ್ತಿ.",
+    "ಸಾಮಾನ್ಯ ರೂಪ: $ax^2+bx+c$",
+    "ಪ್ರಮುಖ ನಿಯಮ: $a, b, c$ ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳು ಮತ್ತು $a \\neq 0$."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ax^2+bx+c, \\quad a \\neq 0",
+    "placeholder_note": "A formula box showing the general form of a quadratic polynomial."
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "ALG-POL-3_concept_1_chunk_037"
+}

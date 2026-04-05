@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಭವನೀಯತೆ: ವ್ಯಾಖ್ಯೆ",
+  "script": "ಈಗ ಸಂಭವನೀಯತೆಯ ನಿಖರವಾದ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಗಣಿತದ ಪ್ರಕಾರ, ಒಂದು ಘಟನೆ ನಡೆಯುವ ಸಾಧ್ಯತೆಯ ಸಂಖ್ಯಾತ್ಮಕ ಅಳತೆಯೇ ಸಂಭವನೀಯತೆ. ಈ ಮೌಲ್ಯವು ಯಾವಾಗಲೂ ಸೊನ್ನೆ ಮತ್ತು ಒಂದರ ನಡುವೆ ಇರುತ್ತದೆ. ಒಂದು ಘಟನೆ ನಡೆಯುವುದು ಅಸಾಧ್ಯವಾದರೆ, ಅದರ ಸಂಭವನೀಯತೆ ಸೊನ್ನೆ. ಉದಾಹರಣೆಗೆ, ಸೂರ್ಯ ಪಶ್ಚಿಮದಲ್ಲಿ ಹುಟ್ಟುವುದು. ಒಂದು ಘಟನೆ ನಡೆಯುವುದು ಖಚಿತವಾದರೆ, ಅದರ ಸಂಭವನೀಯತೆ ಒಂದು. ಉದಾಹರಣೆಗೆ, ಇಂದು ಸೋಮವಾರವಾದರೆ ನಾಳೆ ಮಂಗಳವಾರವಾಗುವುದು.",
+  "script_display": "ಈಗ ಸಂಭವನೀಯತೆಯ ನಿಖರವಾದ ವ್ಯಾಖ್ಯೆಯನ್ನು ನೋಡೋಣ. ಗಣಿತದ ಪ್ರಕಾರ, ಒಂದು ಘಟನೆ ನಡೆಯುವ ಸಾಧ್ಯತೆಯ ಸಂಖ್ಯಾತ್ಮಕ ಅಳತೆಯೇ ಸಂಭವನೀಯತೆ. ಈ ಮೌಲ್ಯವು ಯಾವಾಗಲೂ 0 ಮತ್ತು 1 ರ ನಡುವೆ ಇರುತ್ತದೆ. ಒಂದು ಘಟನೆ ನಡೆಯುವುದು ಅಸಾಧ್ಯವಾದರೆ, ಅದರ ಸಂಭವನೀಯತೆ 0. ಉದಾಹರಣೆಗೆ, ಸೂರ್ಯ ಪಶ್ಚಿಮದಲ್ಲಿ ಹುಟ್ಟುವುದು. ಒಂದು ಘಟನೆ ನಡೆಯುವುದು ಖಚಿತವಾದರೆ, ಅದರ ಸಂಭವನೀಯತೆ 1. ಉದಾಹರಣೆಗೆ, ಇಂದು ಸೋಮವಾರವಾದರೆ ನಾಳೆ ಮಂಗಳವಾರವಾಗುವುದು.",
+  "display_bullets": [
+    "**ವ್ಯಾಖ್ಯೆ:** ಒಂದು ಘಟನೆ ನಡೆಯುವ ಸಾಧ್ಯತೆಯ ಸಂಖ್ಯಾತ್ಮಕ ಅಳತೆಯೇ ಸಂಭವನೀಯತೆ.",
+    "ಇದರ ಮೌಲ್ಯವು ಯಾವಾಗಲೂ 0 ಮತ್ತು 1 ರ ನಡುವೆ ಇರುತ್ತದೆ.",
+    "$P(E) = 0$ ಎಂದರೆ ಅಸಾಧ್ಯ ಘಟನೆ (Impossible Event).",
+    "$P(E) = 1$ ಎಂದರೆ ಖಚಿತ ಘಟನೆ (Certain Event)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "dynamic_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line from 0 to 1. The label 'ಅಸಾಧ್ಯ' (Impossible) is at 0. The label 'ಖಚಿತ' (Certain) is at 1. The label 'ಸಮ ಸಾಧ್ಯತೆ' (Equally Likely) is at 0.5. The line is a gradient from red at 0 to green at 1.",
+    "labels": "Probability scale, Impossible, Equally Likely, Certain",
+    "mathematical_significance": "This visual represents the entire possible range for a probability value, from 0 (impossibility) to 1 (certainty), which is a fundamental concept of probability theory.",
+    "placeholder_note": "Image to be generated showing a number line from 0 to 1 with labels in Kannada."
+  },
+  "chunk_id": "DATA-BAS-1_concept_4_chunk_020"
+}

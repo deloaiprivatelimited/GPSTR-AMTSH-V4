@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಲೆಕ್ಕಾಚಾರ: ಹಂತ 1",
+  "script": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಸರಾಸರಿ ಪರಮಾಣು ದ್ರವ್ಯರಾಶಿಯ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ. ನಾವು ಪ್ರತಿ ಸಮಸ್ಥಾನಿಯ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಅದರ ಶೇಕಡಾವಾರು ಲಭ್ಯತೆಯಿಂದ ಗುಣಿಸಿ, ಅವುಗಳನ್ನು ಕೂಡಿಸಿ, ನಂತರ ನೂರರಿಂದ ಭಾಗಿಸುತ್ತೇವೆ. ಅಂದರೆ, 79 ಅನ್ನು 49.7 ರಿಂದ ಗುಣಿಸಿ, ಅದಕ್ಕೆ 81 ಅನ್ನು 50.3 ರಿಂದ ಗುಣಿಸಿದ ಮೌಲ್ಯವನ್ನು ಸೇರಿಸಿ, ಮತ್ತು ಒಟ್ಟು ಮೊತ್ತವನ್ನು ನೂರರಿಂದ ಭಾಗಿಸಬೇಕು.",
+  "script_display": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಸರಾಸರಿ ಪರಮಾಣು ದ್ರವ್ಯರಾಶಿಯ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತೇವೆ. ನಾವು ಪ್ರತಿ ಸಮಸ್ಥಾನಿಯ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಅದರ % ಲಭ್ಯತೆಯಿಂದ ಗುಣಿಸಿ, ಅವುಗಳನ್ನು ಕೂಡಿಸಿ, ನಂತರ 100 ರಿಂದ ಭಾಗಿಸುತ್ತೇವೆ. ಅಂದರೆ, (79 × 49.7) ಕ್ಕೆ (81 × 50.3) ಅನ್ನು ಸೇರಿಸಿ, ಮತ್ತು ಒಟ್ಟು ಮೊತ್ತವನ್ನು 100 ರಿಂದ ಭಾಗಿಸಬೇಕು.",
+  "display_bullets": [
+    "**ಹಂತ 1: ಸೂತ್ರವನ್ನು ಬಳಸಿ ಮೌಲ್ಯಗಳನ್ನು ಹಾಕುವುದು**",
+    "ಸರಾಸರಿ ದ್ರವ್ಯರಾಶಿ = [($^{79}Br$ ದ್ರವ್ಯರಾಶಿ × % ಲಭ್ಯತೆ) + ($^{81}Br$ ದ್ರವ್ಯರಾಶಿ × % ಲಭ್ಯತೆ)] / 100",
+    "ಸರಾಸರಿ ದ್ರವ್ಯರಾಶಿ = [(79 × 49.7) + (81 × 50.3)] / 100"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "light_on_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸರಾಸರಿ ದ್ರವ್ಯರಾಶಿ} = \\frac{(79 \\times 49.7) + (81 \\times 50.3)}{100}",
+    "placeholder_note": "Formula for average atomic mass of Bromine with values substituted."
+  },
+  "sub_type": "step_walkthrough",
+  "source_example_id": "std_9_chapter_4_example_3",
+  "chunk_id": "std_9_chapter_4_concept_8_chunk_019"
+}

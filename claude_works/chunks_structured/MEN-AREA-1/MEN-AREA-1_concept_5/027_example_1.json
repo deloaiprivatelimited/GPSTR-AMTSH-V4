@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಅರ್ಧವೃತ್ತದ ಸುತ್ತಳತೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸುಧಾಂಶು 7 ಸೆಂಟಿಮೀಟರ್ ತ್ರಿಜ್ಯವುಳ್ಳ ವೃತ್ತಾಕಾರದ ಡಿಸ್ಕ್ ಅನ್ನು ಎರಡು ಸಮಭಾಗಗಳಾಗಿ ವಿಭಾಗಿಸುತ್ತಾಳೆ. ಪ್ರತಿ ಅರ್ಧವೃತ್ತಾಕಾರದ ಡಿಸ್ಕ್‌ನ ಸುತ್ತಳತೆ ಎಷ್ಟು ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ ಪೈ ನ ಮೌಲ್ಯವನ್ನು ಏಳನೇ ಇಪ್ಪತ್ತೆರಡು ಎಂದು ಬಳಸಲು ಸೂಚಿಸಲಾಗಿದೆ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ, ತ್ರಿಜ್ಯ ಆರ್ ಸಮ ಏಳು ಸೆಂಟಿಮೀಟರ್. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಅರ್ಧವೃತ್ತದ ಸುತ್ತಳತೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸುಧಾಂಶು 7 cm ತ್ರಿಜ್ಯವುಳ್ಳ ವೃತ್ತಾಕಾರದ ಡಿಸ್ಕ್ ಅನ್ನು ಎರಡು ಸಮಭಾಗಗಳಾಗಿ ವಿಭಾಗಿಸುತ್ತಾಳೆ. ಪ್ರತಿ ಅರ್ಧವೃತ್ತಾಕಾರದ ಡಿಸ್ಕ್‌ನ ಸುತ್ತಳತೆ ಎಷ್ಟು ಎಂದು ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕು. ಇಲ್ಲಿ $\\pi$ ನ ಮೌಲ್ಯವನ್ನು 22/7 ಎಂದು ಬಳಸಲು ಸೂಚಿಸಲಾಗಿದೆ. ನಮಗೆ ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ, ತ್ರಿಜ್ಯ $r = 7$ cm. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಅರ್ಧವೃತ್ತದ ಸುತ್ತಳತೆ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ (Given): ತ್ರಿಜ್ಯ (r) = 7 cm",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (To find): ಪ್ರತಿ ಅರ್ಧವೃತ್ತಾಕಾರದ ಡಿಸ್ಕ್‌ನ ಸುತ್ತಳತೆ",
+    "ಬಳಸಬೇಕಾದದ್ದು: π = 22/7"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a circular disc with radius 7 cm. An arrow indicates it's being cut in half. The resulting semicircle is shown separately, with the curved arc and the straight diameter highlighted. The radius 'r = 7 cm' is labeled.",
+    "labels": "Circle, Semicircle, Radius, Diameter, Arc",
+    "mathematical_significance": "Illustrates the components of a semicircle's perimeter: the curved arc and the straight diameter, which is formed by cutting a circle in half.",
+    "placeholder_note": "Image to be generated: A circle with radius 7cm being cut, and the resulting semicircle with its parts labeled."
+  },
+  "source_example_id": "MEN-AREA-1_example_6",
+  "prerequisites_display": [
+    "ವೃತ್ತದ ಪರಿಧಿ",
+    "ತ್ರಿಜ್ಯ ಮತ್ತು ವ್ಯಾಸದ ನಡುವಿನ ಸಂಬಂಧ"
+  ],
+  "chunk_id": "MEN-AREA-1_concept_5_chunk_027"
+}

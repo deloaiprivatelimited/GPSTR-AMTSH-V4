@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವೀಕ್ಷಣೆಗಳು: ಭಾಗ 2",
+  "script": "ಈಗ ಅತ್ಯಂತ ಆಶ್ಚರ್ಯಕರ ವೀಕ್ಷಣೆಗಳನ್ನು ನೋಡೋಣ. ಎರಡನೆಯದಾಗಿ, ಕೆಲವೇ ಕೆಲವು ಆಲ್ಫಾ ಕಣಗಳು ಮಾತ್ರ ತಮ್ಮ ನೇರವಾದ ಪಥದಿಂದ ಸ್ವಲ್ಪ ವಿಚಲನೆಗೊಂಡವು. ಆದರೆ ಮೂರನೆಯ ಮತ್ತು ಅತ್ಯಂತ ಅಚ್ಚರಿಯ ವಿಷಯವೆಂದರೆ, ಪ್ರತಿ ಹನ್ನೆರಡು ಸಾವಿರ ಕಣಗಳಲ್ಲಿ ಒಂದು ಕಣವು, ತಾನು ಬಂದ ದಾರಿಯಲ್ಲೇ ನೂರ ಎಂಬತ್ತು ಡಿಗ್ರಿ ಕೋನದಲ್ಲಿ ಹಿಂದಕ್ಕೆ ಚಿಮ್ಮಿತು. ರುದರ್‌ಫೋರ್ಡ್‌ರವರೇ ಹೇಳಿದಂತೆ, ಇದು ಎಷ್ಟು ಆಶ್ಚರ್ಯಕರವಾಗಿತ್ತೆಂದರೆ, ನೀವು ಒಂದು ತೆಳುವಾದ ಕಾಗದದ ಮೇಲೆ ಫಿರಂಗಿ ಗುಂಡನ್ನು ಹಾರಿಸಿದಾಗ, ಅದು ಹಿಂದಕ್ಕೆ ಬಂದು ನಿಮಗೇ ತಾಗಿದಂತೆ ಇತ್ತು!",
+  "script_display": "ಈಗ ಅತ್ಯಂತ ಆಶ್ಚರ್ಯಕರ ವೀಕ್ಷಣೆಗಳನ್ನು ನೋಡೋಣ. ಎರಡನೆಯದಾಗಿ, ಕೆಲವೇ ಕೆಲವು ಆಲ್ಫಾ ಕಣಗಳು ಮಾತ್ರ ತಮ್ಮ ನೇರವಾದ ಪಥದಿಂದ ಸ್ವಲ್ಪ ವಿಚಲನೆಗೊಂಡವು. ಆದರೆ ಮೂರನೆಯ ಮತ್ತು ಅತ್ಯಂತ ಅಚ್ಚರಿಯ ವಿಷಯವೆಂದರೆ, ಪ್ರತಿ 12,000 ಕಣಗಳಲ್ಲಿ ಒಂದು ಕಣವು, ತಾನು ಬಂದ ದಾರಿಯಲ್ಲೇ 180° ಕೋನದಲ್ಲಿ ಹಿಂದಕ್ಕೆ ಚಿಮ್ಮಿತು (rebounded). ರುದರ್‌ಫೋರ್ಡ್‌ರವರೇ ಹೇಳಿದಂತೆ, ಇದು ಎಷ್ಟು ಆಶ್ಚರ್ಯಕರವಾಗಿತ್ತೆಂದರೆ, ನೀವು ಒಂದು ತೆಳುವಾದ ಕಾಗದದ ಮೇಲೆ ಫಿರಂಗಿ ಗುಂಡನ್ನು ಹಾರಿಸಿದಾಗ, ಅದು ಹಿಂದಕ್ಕೆ ಬಂದು ನಿಮಗೇ ತಾಗಿದಂತೆ ಇತ್ತು!",
+  "display_bullets": [
+    "ಕೆಲವೇ ಕೆಲವು ಕಣಗಳು ಸಣ್ಣ ಕೋನಗಳಲ್ಲಿ ವಿಚಲನೆಗೊಂಡವು.",
+    "ಅತ್ಯಂತ ವಿರಳವಾಗಿ, ಪ್ರತಿ 12,000 ಕಣಗಳಲ್ಲಿ ಒಂದು ಕಣವು 180° ಕೋನದಲ್ಲಿ ಹಿಂದಕ್ಕೆ ಚಿಮ್ಮಿತು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A close-up view of a single gold atom's nucleus. One alpha particle is shown approaching the nucleus and being deflected at a small angle. Another alpha particle is shown heading directly for the nucleus and rebounding straight back.",
+    "labels": "ಆಲ್ಫಾ ಕಣ, ಬೀಜಕೇಂದ್ರ, ವಿಚಲನೆ, ಹಿಂದಕ್ಕೆ ಚಿಮ್ಮುವಿಕೆ (Rebound)",
+    "scientific_significance": "This observation was the key evidence for a small, dense, and positively charged nucleus.",
+    "placeholder_note": "Image showing deflection and rebound of alpha particles near a nucleus."
+  },
+  "sub_type": "observation",
+  "chunk_id": "std_9_chapter_4_concept_3_chunk_008"
+}

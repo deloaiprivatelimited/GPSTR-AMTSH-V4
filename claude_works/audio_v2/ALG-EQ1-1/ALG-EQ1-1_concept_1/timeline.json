@@ -1,0 +1,221 @@
+{
+  "module_id": "ALG-EQ1-1_concept_1",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 19,
+  "total_duration": 897.649,
+  "total_duration_formatted": "14:57",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಸಮೀಕರಣಗಳ ಪರಿಚಯ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 60.691,
+      "duration": 60.691,
+      "script_words": 86
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_002",
+      "chunk_file": "002_definition_0.json",
+      "wav_file": "002_definition_0.wav",
+      "slide_title": "ಚರಾಕ್ಷರ (Variable) ಎಂದರೇನು?",
+      "type": "definition",
+      "start": 61.291,
+      "end": 111.622,
+      "duration": 50.331,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_003",
+      "chunk_file": "003_definition_cont_0_1.json",
+      "wav_file": "003_definition_cont_0_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಚರಾಕ್ಷರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+      "type": "definition",
+      "start": 112.222,
+      "end": 161.153,
+      "duration": 48.931,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_004",
+      "chunk_file": "004_definition_cont_0_2.json",
+      "wav_file": "004_definition_cont_0_2.wav",
+      "slide_title": "ಚರಾಕ್ಷರ vs ಸ್ಥಿರಾಂಕ",
+      "type": "definition",
+      "start": 161.753,
+      "end": 212.804,
+      "duration": 51.051,
+      "script_words": 64
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_005",
+      "chunk_file": "005_definition_1.json",
+      "wav_file": "005_definition_1.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯೆ: ಬೀಜೋಕ್ತಿ (Algebraic Expression)",
+      "type": "definition",
+      "start": 213.404,
+      "end": 263.735,
+      "duration": 50.331,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_006",
+      "chunk_file": "006_definition_cont_1_1.json",
+      "wav_file": "006_definition_cont_1_1.wav",
+      "slide_title": "ಬೀಜೋಕ್ತಿಯ ವಿಶ್ಲೇಷಣೆ",
+      "type": "definition",
+      "start": 264.335,
+      "end": 305.106,
+      "duration": 40.771,
+      "script_words": 56
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_007",
+      "chunk_file": "007_definition_cont_1_2.json",
+      "wav_file": "007_definition_cont_1_2.wav",
+      "slide_title": "ಬೀಜೋಕ್ತಿಗಳ ಇತರ ಉದಾಹರಣೆಗಳು",
+      "type": "definition",
+      "start": 305.706,
+      "end": 343.117,
+      "duration": 37.411,
+      "script_words": 55
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_008",
+      "chunk_file": "008_definition_cont_1_3.json",
+      "wav_file": "008_definition_cont_1_3.wav",
+      "slide_title": "ಬೀಜೋಕ್ತಿ vs ಸಮೀಕರಣ: ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸ",
+      "type": "definition",
+      "start": 343.717,
+      "end": 381.688,
+      "duration": 37.971,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_009",
+      "chunk_file": "009_definition_2.json",
+      "wav_file": "009_definition_2.wav",
+      "slide_title": "ವ್ಯಾಖ್ಯಾನ: ಸಮೀಕರಣ (Equation)",
+      "type": "definition",
+      "start": 382.288,
+      "end": 419.699,
+      "duration": 37.411,
+      "script_words": 48
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_010",
+      "chunk_file": "010_definition_cont_2_1.json",
+      "wav_file": "010_definition_cont_2_1.wav",
+      "slide_title": "ಸಮೀಕರಣದ ಭಾಗಗಳು",
+      "type": "definition",
+      "start": 420.299,
+      "end": 459.83,
+      "duration": 39.531,
+      "script_words": 59
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_011",
+      "chunk_file": "011_definition_cont_2_2.json",
+      "wav_file": "011_definition_cont_2_2.wav",
+      "slide_title": "ಸಮೀಕರಣ: ಒಂದು ಸಮತೋಲನದ ತಕ್ಕಡಿ",
+      "type": "definition",
+      "start": 460.43,
+      "end": 500.641,
+      "duration": 40.211,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_012",
+      "chunk_file": "012_definition_cont_2_3.json",
+      "wav_file": "012_definition_cont_2_3.wav",
+      "slide_title": "ಬೀಜೋಕ್ತಿ vs. ಸಮೀಕರಣ",
+      "type": "definition",
+      "start": 501.241,
+      "end": 550.412,
+      "duration": 49.171,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_013",
+      "chunk_file": "013_definition_3.json",
+      "wav_file": "013_definition_3.wav",
+      "slide_title": "ಎಡಬದಿ (Left Hand Side - LHS)",
+      "type": "definition",
+      "start": 551.012,
+      "end": 583.423,
+      "duration": 32.411,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_014",
+      "chunk_file": "014_definition_cont_3_1.json",
+      "wav_file": "014_definition_cont_3_1.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಎಡಬದಿಯನ್ನು ಗುರುತಿಸುವುದು",
+      "type": "definition",
+      "start": 584.023,
+      "end": 622.714,
+      "duration": 38.691,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_015",
+      "chunk_file": "015_definition_4.json",
+      "wav_file": "015_definition_4.wav",
+      "slide_title": "ಬಲಬದಿ (Right Hand Side - RHS)",
+      "type": "definition",
+      "start": 623.314,
+      "end": 668.525,
+      "duration": 45.211,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_016",
+      "chunk_file": "016_definition_cont_4_1.json",
+      "wav_file": "016_definition_cont_4_1.wav",
+      "slide_title": "ಬಲಬದಿ: ಇನ್ನೊಂದು ಉದಾಹರಣೆ",
+      "type": "definition",
+      "start": 669.125,
+      "end": 715.536,
+      "duration": 46.411,
+      "script_words": 58
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_017",
+      "chunk_file": "017_definition_cont_4_2.json",
+      "wav_file": "017_definition_cont_4_2.wav",
+      "slide_title": "ಬೀಜೋಕ್ತಿ vs. ಸಮೀಕರಣ: ಬಲಬದಿಯ ಪಾತ್ರ",
+      "type": "definition",
+      "start": 716.136,
+      "end": 767.147,
+      "duration": 51.011,
+      "script_words": 66
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_018",
+      "chunk_file": "018_property_0.json",
+      "wav_file": "018_property_0.wav",
+      "slide_title": "ಸಮೀಕರಣದ ಗುಣಲಕ್ಷಣಗಳು",
+      "type": "concept_explanation",
+      "start": 767.747,
+      "end": 846.038,
+      "duration": 78.291,
+      "script_words": 106
+    },
+    {
+      "chunk_id": "ALG-EQ1-1_concept_1_chunk_019",
+      "chunk_file": "019_recap_0.json",
+      "wav_file": "019_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಸಮೀಕರಣಗಳ ಪರಿಚಯ",
+      "type": "recap",
+      "start": 846.638,
+      "end": 897.049,
+      "duration": 50.411,
+      "script_words": 70
+    }
+  ]
+}

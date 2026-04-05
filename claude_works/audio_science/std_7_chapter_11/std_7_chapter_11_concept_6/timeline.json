@@ -1,0 +1,68 @@
+{
+  "module_id": "std_7_chapter_11_concept_6",
+  "chapter_code": "std_7_chapter_11",
+  "voice": "Schedar",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 5,
+  "total_duration": 197.375,
+  "total_duration_formatted": "3:17",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_chapter_11_concept_6_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಮಸೂರಗಳು ಮತ್ತು ಅವುಗಳ ವಿಧಗಳು",
+      "type": "intro",
+      "start": 0.0,
+      "end": 49.891,
+      "duration": 49.891,
+      "script_words": 73
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_6_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 50.491,
+      "end": 81.662,
+      "duration": 31.171,
+      "script_words": 43
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_6_chunk_003",
+      "chunk_file": "003_classification_0.json",
+      "wav_file": "003_classification_0.wav",
+      "slide_title": "ಪೀನ ಮಸೂರ (Convex Lens)",
+      "type": "concept_explanation",
+      "start": 82.262,
+      "end": 120.713,
+      "duration": 38.451,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_6_chunk_004",
+      "chunk_file": "004_classification_cont_0_1.json",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "slide_title": "ನಿಮ್ಮ ಮಸೂರ (Concave Lens)",
+      "type": "concept_explanation",
+      "start": 121.313,
+      "end": 156.324,
+      "duration": 35.011,
+      "script_words": 46
+    },
+    {
+      "chunk_id": "std_7_chapter_11_concept_6_chunk_005",
+      "chunk_file": "005_recap_0.json",
+      "wav_file": "005_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 156.924,
+      "end": 196.775,
+      "duration": 39.851,
+      "script_words": 51
+    }
+  ]
+}

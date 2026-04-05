@@ -1,0 +1,35 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ಅಗತ್ಯವಿರುವ ಸಾಮಗ್ರಿಗಳು",
+  "script": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಒಂದೇ ಒಂದು ವಸ್ತು. ಅದುವೇ ಮೋಡಗಳಿಲ್ಲದ, ಸ್ಪಷ್ಟವಾದ ರಾತ್ರಿಯ ಆಕಾಶ. ನಗರದ ಬೆಳಕಿನಿಂದ ದೂರವಿರುವ ಸ್ಥಳವಾದರೆ ನಕ್ಷತ್ರಗಳು ಇನ್ನಷ್ಟು ಚೆನ್ನಾಗಿ ಕಾಣಿಸುತ್ತವೆ. ನಮಗೆ ಯಾವುದೇ ದುರ್ಬೀನು ಅಥವಾ ವಿಶೇಷ ಉಪಕರಣಗಳ ಅವಶ್ಯಕತೆ ಇಲ್ಲ. ನಮ್ಮ ಕಣ್ಣುಗಳೇ ಸಾಕು. ಹಾಗಾಗಿ, ಒಂದು ಸುಂದರ ರಾತ್ರಿಯಲ್ಲಿ ಆಕಾಶವನ್ನು ನೋಡಲು ಸಿದ್ಧರಾಗಿ.",
+  "script_display": "ಈ ಚಟುವಟಿಕೆಯನ್ನು ಮಾಡಲು ನಮಗೆ ಬೇಕಾಗಿರುವುದು ಒಂದೇ ಒಂದು ವಸ್ತು. ಅದುವೇ ಮೋಡಗಳಿಲ್ಲದ, ಸ್ಪಷ್ಟವಾದ ರಾತ್ರಿಯ ಆಕಾಶ. ನಗರದ ಬೆಳಕಿನಿಂದ ದೂರವಿರುವ ಸ್ಥಳವಾದರೆ ನಕ್ಷತ್ರಗಳು ಇನ್ನಷ್ಟು ಚೆನ್ನಾಗಿ ಕಾಣಿಸುತ್ತವೆ. ನಮಗೆ ಯಾವುದೇ ದುರ್ಬೀನು ಅಥವಾ ವಿಶೇಷ ಉಪಕರಣಗಳ ಅವಶ್ಯಕತೆ ಇಲ್ಲ. ನಮ್ಮ ಕಣ್ಣುಗಳೇ ಸಾಕು. ಹಾಗಾಗಿ, ಒಂದು ಸುಂದರ ರಾತ್ರಿಯಲ್ಲಿ ಆಕಾಶವನ್ನು ನೋಡಲು ಸಿದ್ಧರಾಗಿ.",
+  "display_bullets": [
+    "ಮೋಡಗಳಿಲ್ಲದ, ಸ್ಪಷ್ಟವಾದ ರಾತ್ರಿಯ ಆಕಾಶ"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An image depicting a clear, dark night sky, perhaps over a silhouette of hills or trees, to emphasize a location away from city lights.",
+    "labels": "Clear night sky",
+    "scientific_significance": "Highlights the only requirement for this observational activity.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "apparatus_setup",
+  "chunk_id": "std_6_chapter_12_concept_1_chunk_014"
+}

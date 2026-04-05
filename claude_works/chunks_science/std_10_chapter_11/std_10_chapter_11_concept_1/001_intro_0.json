@@ -1,0 +1,38 @@
+{
+  "type": "intro",
+  "slide_title": "ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಮತ್ತು ವಿದ್ಯುತ್ ಮಂಡಲ",
+  "script": "ನಮಸ್ಕಾರ ಮತ್ತು ಈ ಪಾಠಕ್ಕೆ ನಿಮಗೆ ಸ್ವಾಗತ. ಇಂದು ನಾವು ವಿದ್ಯುಚ್ಛಕ್ತಿಯ ಒಂದು ಅತ್ಯಂತ ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಯ ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ: ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಮತ್ತು ವಿದ್ಯುತ್ ಮಂಡಲ. ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಲೈಟ್ ಉರಿಯುವುದರಿಂದ ಹಿಡಿದು, ನಿಮ್ಮ ಮೊಬೈಲ್ ಫೋನ್ ಚಾರ್ಜ್ ಆಗುವವರೆಗೆ, ಎಲ್ಲದರ ಹಿಂದೆ ಇರುವುದು ಇದೇ ವಿದ್ಯುತ್ ಪ್ರವಾಹ. ಈ ಪಾಠದ ಕೊನೆಯಲ್ಲಿ, ನಿಮಗೆ ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಎಂದರೇನು, ಅದನ್ನು ಅಳೆಯುವುದು ಹೇಗೆ, ವಿದ್ಯುತ್ ಮಂಡಲ ಎಂದರೇನು, ಮತ್ತು ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ದಿಕ್ಕು ಯಾವುದು ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥವಾಗುತ್ತದೆ. ಹಾಗಾದರೆ, ವಿದ್ಯುಚ್ಛಕ್ತಿಯ ಈ ಅದ್ಭುತ ಜಗತ್ತನ್ನು ಅನ್ವೇಷಿಸಲು ಸಿದ್ಧರಾಗಿ!",
+  "script_display": "ನಮಸ್ಕಾರ ಮತ್ತು ಈ ಪಾಠಕ್ಕೆ ನಿಮಗೆ ಸ್ವಾಗತ. ಇಂದು ನಾವು ವಿದ್ಯುಚ್ಛಕ್ತಿಯ ಒಂದು ಅತ್ಯಂತ ಮೂಲಭೂತ ಪರಿಕಲ್ಪನೆಯ ಬಗ್ಗೆ ಕಲಿಯಲಿದ್ದೇವೆ: **ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಮತ್ತು ವಿದ್ಯುತ್ ಮಂಡಲ (Electric Current and Electric Circuit)**. ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಲೈಟ್ ಉರಿಯುವುದರಿಂದ ಹಿಡಿದು, ನಿಮ್ಮ ಮೊಬೈಲ್ ಫೋನ್ ಚಾರ್ಜ್ ಆಗುವವರೆಗೆ, ಎಲ್ಲದರ ಹಿಂದೆ ಇರುವುದು ಇದೇ ವಿದ್ಯುತ್ ಪ್ರವಾಹ. ಈ ಪಾಠದ ಕೊನೆಯಲ್ಲಿ, ನಿಮಗೆ ಈ ಕೆಳಗಿನ ವಿಷಯಗಳು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥವಾಗುತ್ತವೆ. ಹಾಗಾದರೆ, ವಿದ್ಯುಚ್ಛಕ್ತಿಯ ಈ ಅದ್ಭುತ ಜಗತ್ತನ್ನು ಅನ್ವೇಷಿಸಲು ಸಿದ್ಧರಾಗಿ!",
+  "display_bullets": [
+    "ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಎಂದರೇನು? (What is Electric Current?)",
+    "ವಿದ್ಯುತ್ ಪ್ರವಾಹವನ್ನು ಅಳೆಯುವುದು (Measuring Electric Current)",
+    "ವಿದ್ಯುತ್ ಮಂಡಲ ಎಂದರೇನು? (What is an Electric Circuit?)",
+    "ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ದಿಕ್ಕು (Direction of Current)"
+  ],
+  "layout_config": {
+    "layout": "title_hero",
+    "template": "centered_title_with_bullets",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An abstract, visually appealing image representing the flow of electricity, like glowing blue lines or particles moving on a dark, modern background.",
+    "labels": "none",
+    "scientific_significance": "Sets a modern, engaging tone for the topic of electricity.",
+    "placeholder_note": "Generate a dynamic, abstract visual of electricity flow. Should feel energetic and scientific."
+  },
+  "sub_type": "title",
+  "chunk_id": "std_10_chapter_11_concept_1_chunk_001"
+}

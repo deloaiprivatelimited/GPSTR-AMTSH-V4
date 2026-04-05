@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಪದ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸುವುದು",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಸಂಖ್ಯೆಯ ಮೂರರಷ್ಟಕ್ಕೆ 11 ರ ಮೊತ್ತ 32 ಆದರೆ, ಆ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ಸಂಬಂಧವನ್ನು ನೀಡಲಾಗಿದೆ: ಒಂದು ಅಜ್ಞಾತ ಸಂಖ್ಯೆಯ ಮೂರು ಪಟ್ಟು ಮತ್ತು 11 ರ ಮೊತ್ತ 32 ಆಗಿದೆ. ನಾವು ಆ ಅಜ್ಞಾತ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಸಂಖ್ಯೆಯ ಮೂರರಷ್ಟಕ್ಕೆ 11 ರ ಮೊತ್ತ 32 ಆದರೆ, ಆ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ಸಂಬಂಧವನ್ನು ನೀಡಲಾಗಿದೆ: ಒಂದು ಅಜ್ಞಾತ ಸಂಖ್ಯೆಯ ಮೂರು ಪಟ್ಟು ಮತ್ತು 11 ರ ಮೊತ್ತ 32 ಆಗಿದೆ. ನಾವು ಆ ಅಜ್ಞಾತ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಒಂದು ಸಂಖ್ಯೆಯ ಮೂರರಷ್ಟಕ್ಕೆ 11 ರ ಮೊತ್ತ 32.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಆ ಸಂಖ್ಯೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "left_text_right_visual",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "ಒಂದು ಸಂಖ್ಯೆಯ ಮೂರರಷ್ಟಕ್ಕೆ 11 ರ ಮೊತ್ತ 32 ಆದರೆ, ಆ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "placeholder_note": "Problem statement"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ1-1_example_8",
+  "chunk_id": "ALG-EQ1-1_concept_4_chunk_003"
+}

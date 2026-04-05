@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3-4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಾವು ಆವರಣದೊಳಗಿನ ವ್ಯವಕಲನವನ್ನು ಮಾಡಬೇಕು. ಒಂಬತ್ತರಿಂದ ಎಂಟನ್ನು ಕಳೆದರೆ ನಮಗೆ ಒಂದು ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, ಅಭಿವ್ಯಕ್ತಿ ಈಗ ಒಂದು ಭಾಗಿಸು ಹದಿನಾರು ಎಂದಾಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಈ ಭಾಗಾಕಾರವನ್ನು ಮಾಡೋಣ. ಒಂದು ಭಾಗಿಸು ಹದಿನಾರು ಎಂದರೆ ಒಂದು ಬೈ ಹದಿನಾರು. ಇದೇ ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಾವು ಆವರಣದೊಳಗಿನ ವ್ಯವಕಲನವನ್ನು ಮಾಡಬೇಕು. $9 - 8$ ಮಾಡಿದರೆ ನಮಗೆ $1$ ಸಿಗುತ್ತದೆ. ಹಾಗಾಗಿ, ಅಭಿವ್ಯಕ್ತಿ ಈಗ $1 \\div 16$ ಎಂದಾಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಈ ಭಾಗಾಕಾರವನ್ನು ಮಾಡೋಣ. $1 \\div 16$ ಎಂದರೆ $\\frac{1}{16}$. ಇದೇ ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "full_text",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "NS-EXP-2_example_5",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$$ 1 \\div 16 $$",
+      "justification": "ಆವರಣದೊಳಗಿನ ವ್ಯವಕಲನವನ್ನು ಮಾಡುವುದು: $9 - 8 = 1$."
+    },
+    {
+      "step": 4,
+      "action_display": "$$ \\frac{1}{16} $$",
+      "justification": "ಅಂತಿಮ ಭಾಗಾಕಾರವನ್ನು ಮಾಡುವುದು."
+    }
+  ],
+  "chunk_id": "NS-EXP-2_concept_2_chunk_046"
+}

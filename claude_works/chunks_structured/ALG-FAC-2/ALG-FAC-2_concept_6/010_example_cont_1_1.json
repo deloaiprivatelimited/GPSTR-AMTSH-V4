@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ಭಾಜ್ಯವನ್ನು ಅಪವರ್ತಿಸುವುದು (ಭಾಗ 1)",
+  "script": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಭಾಜ್ಯವನ್ನು ಅಪವರ್ತಿಸೋಣ. ನಮ್ಮ ಭಾಜ್ಯ 44 ಇಂಟು x ಘಾತ 4 ಮೈನಸ್ 5x ಘಾತ 3 ಮೈನಸ್ 24x ವರ್ಗ. ಬ್ರಾಕೆಟ್‍ನೊಳಗಿನ ಪದಗಳನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ x ವರ್ಗವು ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿದೆ. ಅದನ್ನು ಹೊರತೆಗೆದಾಗ, ನಮಗೆ 44x ವರ್ಗ ಇಂಟು x ವರ್ಗ ಮೈನಸ್ 5x ಮೈನಸ್ 24 ಸಿಗುತ್ತದೆ. ಈಗ ನಾವು ಬ್ರಾಕೆಟ್‍ನಲ್ಲಿರುವ ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯನ್ನು ಅಪವರ್ತಿಸಬೇಕು.",
+  "script_display": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ಭಾಜ್ಯವನ್ನು ಅಪವರ್ತಿಸೋಣ. ನಮ್ಮ ಭಾಜ್ಯ $44(x^4 - 5x^3 - 24x^2)$. ಬ್ರಾಕೆಟ್‍ನೊಳಗಿನ ಪದಗಳನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ $x^2$ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿದೆ. ಅದನ್ನು ಹೊರತೆಗೆದಾಗ, ನಮಗೆ $44x^2(x^2 - 5x - 24)$ ಸಿಗುತ್ತದೆ. ಈಗ ನಾವು ಬ್ರಾಕೆಟ್‍ನಲ್ಲಿರುವ ವರ್ಗ ಬಹುಪದೋಕ್ತಿಯನ್ನು ಅಪವರ್ತಿಸಬೇಕು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "left_text_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "ALG-FAC-2_example_15",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$44(x^4 - 5x^3 - 24x^2)$",
+      "justification": "ಇದು ನಮಗೆ ಕೊಟ್ಟಿರುವ ಭಾಜ್ಯ."
+    },
+    {
+      "step": 2,
+      "action_display": "$= 44x^2(x^2 - 5x - 24)$",
+      "justification": "ಬ್ರಾಕೆಟ್‍ನೊಳಗಿನ ಎಲ್ಲಾ ಪದಗಳಿಂದ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾದ $x^2$ ಅನ್ನು ಹೊರತೆಗೆಯಲಾಗಿದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "ALG-FAC-2_concept_6_chunk_010"
+}

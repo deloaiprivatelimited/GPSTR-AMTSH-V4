@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ವ್ಯಾಖ್ಯೆ: a ಪವರ್ -n",
+  "script": "ಈಗ ಋಣಾತ್ಮಕ ಘಾತಸೂಚಿಯ ನಿಖರವಾದ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. a ಎಂಬುದು ಯಾವುದೇ ಶೂನ್ಯವಲ್ಲದ ವಾಸ್ತವ ಸಂಖ್ಯೆ ಮತ್ತು n ಒಂದು ಧನ ಪೂರ್ಣಾಂಕವಾಗಿದ್ದರೆ, a ಟು ದ ಪವರ್ ಮೈನಸ್ n ಎಂಬುದು one by a ಟು ದ ಪವರ್ n ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಋಣಾತ್ಮಕ ಘಾತಾಂಕವು ಆಧಾರ ಸಂಖ್ಯೆಯ ವ್ಯುತ್ಕ್ರಮವನ್ನು (reciprocal) ತೆಗೆದುಕೊಳ್ಳಲು ಹೇಳುತ್ತದೆ. a ಟು ದ ಪವರ್ n ನ ವ್ಯುತ್ಕ್ರಮವೇ a ಟು ದ ಪವರ್ ಮೈನಸ್ n. ಇಲ್ಲಿ a ಶೂನ್ಯವಾಗಿರಬಾರದು ಎಂಬುದು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ನಾವು ಯಾವುದೇ ಸಂಖ್ಯೆಯನ್ನು ಶೂನ್ಯದಿಂದ ಭಾಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+  "script_display": "ಈಗ ಋಣಾತ್ಮಕ ಘಾತಸೂಚಿಯ ನಿಖರವಾದ ವ್ಯಾಖ್ಯಾನವನ್ನು ನೋಡೋಣ. $a$ ಎಂಬುದು ಯಾವುದೇ ಶೂನ್ಯವಲ್ಲದ ವಾಸ್ತವ ಸಂಖ್ಯೆ ಮತ್ತು $n$ ಒಂದು ಧನ ಪೂರ್ಣಾಂಕವಾಗಿದ್ದರೆ, $a^{-n}$ ಎಂಬುದು $\\frac{1}{a^n}$ ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ಋಣಾತ್ಮಕ ಘಾತಾಂಕವು ಆಧಾರ ಸಂಖ್ಯೆಯ ವ್ಯುತ್ಕ್ರಮವನ್ನು (reciprocal) ತೆಗೆದುಕೊಳ್ಳಲು ಹೇಳುತ್ತದೆ. $a^n$ ನ ವ್ಯುತ್ಕ್ರಮವೇ $a^{-n}$. ಇಲ್ಲಿ $a$ ಶೂನ್ಯವಾಗಿರಬಾರದು ($a \\neq 0$) ಎಂಬುದು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ನಾವು ಯಾವುದೇ ಸಂಖ್ಯೆಯನ್ನು ಶೂನ್ಯದಿಂದ ಭಾಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "a^{-n} = \\frac{1}{a^n}",
+    "placeholder_note": "Formula showing the definition of a negative exponent."
+  },
+  "chunk_id": "NS-SYS-3_concept_6_chunk_013"
+}

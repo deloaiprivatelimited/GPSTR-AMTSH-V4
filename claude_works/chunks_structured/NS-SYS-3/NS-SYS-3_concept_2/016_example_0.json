@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ: √2 ನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಗುರುತಿಸಿ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ವರ್ಗಮೂಲ ಎರಡು, ಅಂದರೆ ರೂಟ್ ಟೂ, ಅನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂದು ಕಲಿಯೋಣ. ಇದೊಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿದ್ದು, ಇದನ್ನು ಜ್ಯಾಮಿತೀಯವಾಗಿ ರಚಿಸಲು ನಾವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $\\sqrt{2}$ ಅನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂದು ಕಲಿಯೋಣ. ಇದೊಂದು ಅಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಯಾಗಿದ್ದು, ಇದನ್ನು ಜ್ಯಾಮಿತೀಯವಾಗಿ ರಚಿಸಲು ನಾವು ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಸಮಸ್ಯೆ: } \\sqrt{2} \\text{ ನ್ನು ಸಂಖ್ಯಾರೇಖೆಯ ಮೇಲೆ ಗುರುತಿಸಿ.}",
+    "placeholder_note": "Display the problem statement in a prominent box."
+  },
+  "source_example_id": "NS-SYS-3_example_3",
+  "prerequisites_display": [
+    "ಸಂಖ್ಯಾರೇಖೆ",
+    "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ"
+  ],
+  "coverage_summary": {
+    "definitions": 0,
+    "formulas": 1,
+    "theorems": 1,
+    "properties": 0,
+    "worked_examples": 1
+  },
+  "next_modules": [
+    "ವಾಸ್ತವ ಸಂಖ್ಯೆಗಳ ದಶಮಾಂಶ ವಿಸ್ತರಣೆಗಳು"
+  ],
+  "chunk_id": "NS-SYS-3_concept_2_chunk_016"
+}

@@ -1,0 +1,213 @@
+{
+  "module_id": "ALG-EXP-2_concept_5",
+  "merge_code": "ALG-EXP-2",
+  "voice": "Despina",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 18,
+  "ok_count": 18,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:26:52",
+  "chunks": {
+    "005_example_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "9d411dfb645bf121efb5c2fc3514fb33",
+      "wav_file": "005_example_0.wav",
+      "duration": 20.731,
+      "slide_title": "ಉದಾಹರಣೆ: ದ್ವಿಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರ",
+      "type": "worked_example",
+      "script_words": 32,
+      "generated_at": "2026-03-30 14:23:26"
+    },
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "508c6bd282a86465c7dbb34ae2df9736",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.891,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 39,
+      "generated_at": "2026-03-30 14:23:31"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "66c7c5b6043b2f83ad1b8cce84913428",
+      "wav_file": "001_intro_0.wav",
+      "duration": 50.291,
+      "slide_title": "ಬಹುಪದೋಕ್ತಿಯಿಂದ ಬಹುಪದೋಕ್ತಿಯ ಗುಣಾಕಾರ",
+      "type": "intro",
+      "script_words": 68,
+      "generated_at": "2026-03-30 14:23:38"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "14c000604bbdd6901a6200076c622ae6",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 51.651,
+      "slide_title": "ಗುಣಾಕಾರದ ಸಾಮಾನ್ಯ ನಿಯಮ",
+      "type": "concept_explanation",
+      "script_words": 72,
+      "generated_at": "2026-03-30 14:23:45"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "f4cfd81d3a687aafe78f8ca82cf7d4a7",
+      "wav_file": "003_property_0.wav",
+      "duration": 70.851,
+      "slide_title": "ದ್ವಿಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರದ ವಿಧಾನಗಳು",
+      "type": "concept_explanation",
+      "script_words": 87,
+      "generated_at": "2026-03-30 14:23:59"
+    },
+    "009_example_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "fe3e825d034702f319e18afe0d2ac30b",
+      "wav_file": "009_example_1.wav",
+      "duration": 25.451,
+      "slide_title": "ಉದಾಹರಣೆ: ದ್ವಿಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರ",
+      "type": "worked_example",
+      "script_words": 35,
+      "generated_at": "2026-03-30 14:24:27"
+    },
+    "008_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "4dead426e8edf2cd3cf5937b89d1f853",
+      "wav_file": "008_example_cont_0_3.wav",
+      "duration": 43.371,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+      "type": "worked_example",
+      "script_words": 63,
+      "generated_at": "2026-03-30 14:24:39"
+    },
+    "006_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "2d32c6ad569ab5a1651f1839d5207699",
+      "wav_file": "006_example_cont_0_1.wav",
+      "duration": 79.971,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i)",
+      "type": "worked_example",
+      "script_words": 123,
+      "generated_at": "2026-03-30 14:24:49"
+    },
+    "010_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "1a72ecc8922d803cabd256e316525692",
+      "wav_file": "010_example_cont_1_1.wav",
+      "duration": 61.371,
+      "slide_title": "ಭಾಗ (i) ರ ಪರಿಹಾರ",
+      "type": "worked_example",
+      "script_words": 95,
+      "generated_at": "2026-03-30 14:24:52"
+    },
+    "007_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "51d5a982d9e4311bda83874f2f3290b2",
+      "wav_file": "007_example_cont_0_2.wav",
+      "duration": 67.611,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (ii)",
+      "type": "worked_example",
+      "script_words": 136,
+      "generated_at": "2026-03-30 14:24:56"
+    },
+    "013_example_2.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "7f6a84baa2bffc4dc3c35938f7fbf6c4",
+      "wav_file": "013_example_2.wav",
+      "duration": 26.291,
+      "slide_title": "ಉದಾಹರಣೆ: ಸಂಕ್ಷೇಪಿಸಿ",
+      "type": "worked_example",
+      "script_words": 38,
+      "generated_at": "2026-03-30 14:25:28"
+    },
+    "012_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "c9880993a5ba50034f1a3b78bb6cfd81",
+      "wav_file": "012_example_cont_1_3.wav",
+      "duration": 64.211,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಸಲಹೆ",
+      "type": "worked_example",
+      "script_words": 105,
+      "generated_at": "2026-03-30 14:25:38"
+    },
+    "015_example_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "addfeb544c04eff2dd8f163dc099c99a",
+      "wav_file": "015_example_cont_2_2.wav",
+      "duration": 42.731,
+      "slide_title": "ಪರಿಹಾರ: ಎರಡನೇ ಭಾಗ ಮತ್ತು ವ್ಯವಕಲನ",
+      "type": "worked_example",
+      "script_words": 56,
+      "generated_at": "2026-03-30 14:25:40"
+    },
+    "011_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "b266415c8e2a05a71805cdc2b085d124",
+      "wav_file": "011_example_cont_1_2.wav",
+      "duration": 63.251,
+      "slide_title": "ಭಾಗ (ii) ರ ಪರಿಹಾರ",
+      "type": "worked_example",
+      "script_words": 102,
+      "generated_at": "2026-03-30 14:25:51"
+    },
+    "014_example_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "d2d83d090d41564b7ec7a1d46ad405e3",
+      "wav_file": "014_example_cont_2_1.wav",
+      "duration": 65.771,
+      "slide_title": "ಪರಿಹಾರ: ಮೊದಲ ಭಾಗದ ವಿಸ್ತರಣೆ",
+      "type": "worked_example",
+      "script_words": 102,
+      "generated_at": "2026-03-30 14:25:59"
+    },
+    "018_recap_0.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "e546d5565b18d16985f660503e61ec0d",
+      "wav_file": "018_recap_0.wav",
+      "duration": 41.211,
+      "slide_title": "ಸಾರಾಂಶ: ಬಹುಪದೋಕ್ತಿಯಿಂದ ಬಹುಪದೋಕ್ತಿಯ ಗುಣಾಕಾರ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-03-30 14:26:26"
+    },
+    "017_example_cont_2_4.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "73f889cbf21ae29938c118930618eeb9",
+      "wav_file": "017_example_cont_2_4.wav",
+      "duration": 54.851,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪರೀಕ್ಷಾ ಸಲಹೆ",
+      "type": "worked_example",
+      "script_words": 70,
+      "generated_at": "2026-03-30 14:26:48"
+    },
+    "016_example_cont_2_3.json": {
+      "status": "ok",
+      "voice": "Despina",
+      "script_hash": "476fbe5a2dd3d3004fb6b8c302d7addd",
+      "wav_file": "016_example_cont_2_3.wav",
+      "duration": 51.331,
+      "slide_title": "ಪರಿಹಾರ: ಅಂತಿಮ ಸರಳೀಕರಣ",
+      "type": "worked_example",
+      "script_words": 62,
+      "generated_at": "2026-03-30 14:26:52"
+    }
+  }
+}

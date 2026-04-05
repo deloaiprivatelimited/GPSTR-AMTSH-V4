@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಕ್ಲೋರೈಡ್ ಅಯಾನು ರಚನೆ: ಸಮೀಕರಣ",
+  "script": "ಕ್ಲೋರಿನ್ ಪರಮಾಣು ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ ಅನ್ನು ಪಡೆದು ಕ್ಲೋರೈಡ್ ಋಣ ಅಯಾನು ಆಗುವುದನ್ನು ಈ ಸಮೀಕರಣವು ತೋರಿಸುತ್ತದೆ. ಇಲ್ಲಿ ಸಿ ಎಲ್ ಎನ್ನುವುದು ಕ್ಲೋರಿನ್ ಪರಮಾಣು, ಇ ಮೈನಸ್ ಎನ್ನುವುದು ಎಲೆಕ್ಟ್ರಾನ್, ಮತ್ತು ಸಿ ಎಲ್ ಮೈನಸ್ ಎನ್ನುವುದು ಕ್ಲೋರೈಡ್ ಅಯಾನು.",
+  "script_display": "ಕ್ಲೋರಿನ್ ಪರಮಾಣು (Cl) ಒಂದು ಎಲೆಕ್ಟ್ರಾನ್ (e⁻) ಅನ್ನು ಪಡೆದು ಕ್ಲೋರೈಡ್ ಋಣ ಅಯಾನು (Cl⁻) ಆಗುವುದನ್ನು ಈ ಸಮೀಕರಣವು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Cl_{(2,8,7)} + e^{-} \\rightarrow Cl^{-}_{(2,8,8)}",
+    "placeholder_note": "Chemical equation showing a Chlorine atom with electron configuration 2,8,7 gaining an electron to become a Chloride ion with configuration 2,8,8."
+  },
+  "chunk_id": "std_10_chapter_3_concept_7_chunk_014"
+}

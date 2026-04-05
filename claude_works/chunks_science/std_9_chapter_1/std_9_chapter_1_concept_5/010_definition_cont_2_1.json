@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಶುಷ್ಕ ಮಂಜುಗಡ್ಡೆ vs ಸಾಮಾನ್ಯ ಮಂಜುಗಡ್ಡೆ",
+  "script": "ಶುಷ್ಕ ಮಂಜುಗಡ್ಡೆಯನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಅದನ್ನು ಸಾಮಾನ್ಯ ಮಂಜುಗಡ್ಡೆಯೊಂದಿಗೆ ಹೋಲಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಸಾಮಾನ್ಯ ಮಂಜುಗಡ್ಡೆ ಘನರೂಪದ ನೀರು, ಅಂದರೆ H two O. ಅದನ್ನು ಹೊರಗಿಟ್ಟಾಗ, ಅದು ಕರಗಿ ದ್ರವ ನೀರಾಗುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಗೆ ದ್ರವನ ಎನ್ನುತ್ತೇವೆ. ಈಗ ಬಲಭಾಗದಲ್ಲಿ ನೋಡಿ, ಶುಷ್ಕ ಮಂಜುಗಡ್ಡೆ ಘನರೂಪದ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ಅಂದರೆ C O two. ಇದು ಕರಗುವ ಬದಲು, ನೇರವಾಗಿ ಅನಿಲವಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯೇ ಉತ್ಪತನ. ಇದರಿಂದ ಯಾವುದೇ ದ್ರವ ಉಳಿಯುವುದಿಲ್ಲ, ಅದಕ್ಕಾಗಿಯೇ ಇದು 'ಶುಷ್ಕ' ಎನಿಸಿಕೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಶುಷ್ಕ ಮಂಜುಗಡ್ಡೆಯನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು, ಅದನ್ನು ಸಾಮಾನ್ಯ ಮಂಜುಗಡ್ಡೆಯೊಂದಿಗೆ ಹೋಲಿಸೋಣ. \n\n**ಸಾಮಾನ್ಯ ಮಂಜುಗಡ್ಡೆ (Normal Ice):**\n* ಘನರೂಪದ ನೀರು (Solid H₂O).\n* ಕರಗಿ ದ್ರವ ನೀರಾಗುತ್ತದೆ (Melts into liquid water).\n* ಪ್ರಕ್ರಿಯೆ: ದ್ರವನ (Process: Melting).\n\n**ಶುಷ್ಕ ಮಂಜುಗಡ್ಡೆ (Dry Ice):**\n* ಘನರೂಪದ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (Solid CO₂).\n* ನೇರವಾಗಿ ಅನಿಲವಾಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ (Turns directly into gas).\n* ಪ್ರಕ್ರಿಯೆ: ಉತ್ಪತನ (Process: Sublimation).",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Side-by-side comparison. Left side shows a regular ice cube (ಘನ H₂O) melting into a puddle of water (ದ್ರವ H₂O), with an arrow labeled 'ದ್ರವನ'. Right side shows a block of dry ice (ಘನ CO₂) emitting white vapor (ಅನಿಲ CO₂), with no puddle underneath. The arrow is labeled 'ಉತ್ಪತನ'.",
+    "labels": "ಸಾಮಾನ್ಯ ಮಂಜುಗಡ್ಡೆ, ಶುಷ್ಕ ಮಂಜುಗಡ್ಡೆ, ದ್ರವನ, ಉತ್ಪತನ, ನೀರು, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲ",
+    "scientific_significance": "Illustrates the key difference between melting (normal ice) and sublimation (dry ice), visually explaining why it is called 'dry'.",
+    "placeholder_note": "Image to be generated showing the comparison between melting ice and sublimating dry ice."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_9_chapter_1_concept_5_chunk_010"
+}

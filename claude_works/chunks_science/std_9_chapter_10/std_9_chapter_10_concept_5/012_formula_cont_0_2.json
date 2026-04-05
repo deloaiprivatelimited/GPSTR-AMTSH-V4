@@ -1,0 +1,54 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಪರಿಹಾರ",
+  "script": "ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಸೂತ್ರ E p ಈಕ್ವಲ್ಸ್ m g h. ಈಗ ನಾವು ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. E p ಈಕ್ವಲ್ಸ್ ಐದು ಇಂಟು ಒಂಬತ್ತು ಪಾಯಿಂಟ್ ಎಂಟು ಇಂಟು ಹತ್ತು. ಮೊದಲು ಐದು ಮತ್ತು ಒಂಬತ್ತು ಪಾಯಿಂಟ್ ಎಂಟನ್ನು ಗುಣಿಸಿದಾಗ ನಮಗೆ ನಲವತ್ತೊಂಬತ್ತು ಸಿಗುತ್ತದೆ. ನಂತರ, ನಲವತ್ತೊಂಬತ್ತನ್ನು ಹತ್ತರಿಂದ ಗುಣಿಸಿದಾಗ ನಮಗೆ ನಾನೂರ ತೊಂಬತ್ತು ಬರುತ್ತದೆ. ಆದ್ದರಿಂದ, ವಸ್ತುವಿನಲ್ಲಿ ಸಂಗ್ರಹವಾದ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿಯು ನಾನೂರ ತೊಂಬತ್ತು ಜೌಲ್ ಆಗಿದೆ. ಶಕ್ತಿಯ ಅಂತರಾಷ್ಟ್ರೀಯ ಏಕಮಾನ ಜೌಲ್ ಆಗಿರುವುದರಿಂದ, ಉತ್ತರವನ್ನು J ಎಂದು ಬರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ನಮ್ಮ ಸೂತ್ರ $E_p = mgh$. ಈಗ ನಾವು ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. $E_p = 5 \\times 9.8 \\times 10$. ಮೊದಲು $5 \\times 9.8$ ಗುಣಿಸಿದಾಗ ನಮಗೆ 49 ಸಿಗುತ್ತದೆ. ನಂತರ, $49 \\times 10$ ಗುಣಿಸಿದಾಗ ನಮಗೆ 490 ಬರುತ್ತದೆ. ಆದ್ದರಿಂದ, ವಸ್ತುವಿನಲ್ಲಿ ಸಂಗ್ರಹವಾದ ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿಯು 490 ಜೌಲ್ ಆಗಿದೆ. ಶಕ್ತಿಯ SI ಏಕಮಾನ ಜೌಲ್ (J) ಆಗಿರುವುದರಿಂದ, ಉತ್ತರವನ್ನು 490 J ಎಂದು ಬರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_solution_1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "E_p = 490 \\text{ J}",
+    "placeholder_note": "Final answer of the calculation"
+  },
+  "sub_type": "step_walkthrough",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸೂತ್ರ: $E_p = mgh$",
+      "justification": "ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿಯ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು."
+    },
+    {
+      "step": 2,
+      "action_display": "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ: $E_p = 5 \\times 9.8 \\times 10$",
+      "justification": "ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕುವುದು."
+    },
+    {
+      "step": 3,
+      "action_display": "ಲೆಕ್ಕಾಚಾರ: $E_p = 49 \\times 10$",
+      "justification": "ಗುಣಾಕಾರವನ್ನು ಹಂತ ಹಂತವಾಗಿ ಮಾಡುವುದು."
+    },
+    {
+      "step": 4,
+      "action_display": "ಅಂತಿಮ ಉತ್ತರ: $E_p = 490 \\text{ J}$",
+      "justification": "ಅಂತಿಮ ಉತ್ತರವನ್ನು ಅದರ ಏಕಮಾನದೊಂದಿಗೆ ಬರೆಯುವುದು."
+    }
+  ],
+  "chunk_id": "std_9_chapter_10_concept_5_chunk_012"
+}

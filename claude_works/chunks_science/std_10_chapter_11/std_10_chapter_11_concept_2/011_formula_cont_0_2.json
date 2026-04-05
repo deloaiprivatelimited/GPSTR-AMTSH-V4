@@ -1,0 +1,51 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಪರಿಹಾರ",
+  "script": "ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ನಾವು ಸೂತ್ರವನ್ನು ಬರೆಯುತ್ತೇವೆ: ವಿ ಈಕ್ವಲ್ಸ್ ಡಬ್ಲ್ಯೂ ಡಿವೈಡೆಡ್ ಬೈ ಕ್ಯೂ. ಎರಡನೇ ಹಂತ, ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸುತ್ತೇವೆ. ಡಬ್ಲ್ಯೂ ಜಾಗದಲ್ಲಿ ಇಪ್ಪತ್ತು ಮತ್ತು ಕ್ಯೂ ಜಾಗದಲ್ಲಿ ಹತ್ತು ಹಾಕುತ್ತೇವೆ. ಆಗ ಸಮೀಕರಣವು ವಿ ಈಕ್ವಲ್ಸ್ ಇಪ್ಪತ್ತು ಡಿವೈಡೆಡ್ ಬೈ ಹತ್ತು ಎಂದಾಗುತ್ತದೆ. ಮೂರನೇ ಹಂತ, ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು. ಇಪ್ಪತ್ತನ್ನು ಹತ್ತರಿಂದ ಭಾಗಿಸಿದಾಗ ನಮಗೆ ಎರಡು ಸಿಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ವಿಭವಾಂತರವು ಎರಡು ವೋಲ್ಟ್ ಆಗಿದೆ.",
+  "script_display": "ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ನಾವು ಸೂತ್ರವನ್ನು ಬರೆಯುತ್ತೇವೆ: V = W / Q. ಎರಡನೇ ಹಂತ, ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸುತ್ತೇವೆ. V = 20 J / 10 C. ಮೂರನೇ ಹಂತ, ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು. V = 2 J/C. ಆದ್ದರಿಂದ, ವಿಭವಾಂತರವು 2 ವೋಲ್ಟ್ ಆಗಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "V = \\frac{W}{Q} \\\\ \\ V = \\frac{20 \\, J}{10 \\, C} \\\\ \\ V = 2 \\, V",
+    "placeholder_note": "Calculation steps for the example problem"
+  },
+  "sub_type": "worked_example",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ಸೂತ್ರವನ್ನು ಬರೆಯಿರಿ: $V = \\frac{W}{Q}$",
+      "justification": "ವಿಭವಾಂತರ, ಕೆಲಸ ಮತ್ತು ಆವೇಶದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಬಳಸುತ್ತೇವೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ದತ್ತಾಂಶಗಳನ್ನು ಆದೇಶಿಸಿ: $V = \\frac{20 \\, J}{10 \\, C}$",
+      "justification": "ಕೊಟ್ಟಿರುವ ಕೆಲಸ (W) ಮತ್ತು ಆವೇಶ (Q) ದ ಬೆಲೆಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಹಾಕುತ್ತೇವೆ."
+    },
+    {
+      "step": 3,
+      "action_display": "ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ: $V = 2 \\, V$",
+      "justification": "ಭಾಗಾಕಾರವನ್ನು ಮಾಡಿ ಅಂತಿಮ ಉತ್ತರವನ್ನು ವೋಲ್ಟ್‌ಗಳಲ್ಲಿ ಪಡೆಯುತ್ತೇವೆ."
+    }
+  ],
+  "final_answer": "2 V",
+  "final_answer_display": "V = 2 V",
+  "chunk_id": "std_10_chapter_11_concept_2_chunk_011"
+}

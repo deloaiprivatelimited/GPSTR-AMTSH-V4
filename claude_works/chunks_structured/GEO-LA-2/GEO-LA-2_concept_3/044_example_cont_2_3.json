@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ನಾವು ಎಲ್ಲಾ ಮೂರು ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದೇವೆ. ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರಗಳು: ಎಕ್ಸ್ ಸಮ ನೂರಾ ಇಪ್ಪತ್ತೈದು ಡಿಗ್ರಿ, ವೈ ಸಮ ನೂರಾ ಇಪ್ಪತ್ತೈದು ಡಿಗ್ರಿ, ಮತ್ತು ಝೆಡ್ ಸಮ ಮೂವತ್ತೈದು ಡಿಗ್ರಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಸಮಾಂತರ ರೇಖೆಗಳ ಹಲವು ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿದ್ದೇವೆ - ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದ ಅಂತರ್ ಕೋನಗಳು ಮತ್ತು ಅನುರೂಪ ಕೋನಗಳು. ಸರಿಯಾದ ಗುಣಲಕ್ಷಣವನ್ನು ಸರಿಯಾದ ಸಮಯದಲ್ಲಿ ಬಳಸುವುದು ಮುಖ್ಯ.",
+  "script_display": "ಹಾಗಾಗಿ, ನಾವು ಎಲ್ಲಾ ಮೂರು ಕೋನಗಳನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದೇವೆ. ನಮ್ಮ ಅಂತಿಮ ಉತ್ತರಗಳು: $x = 125°$, $y = 125°$, ಮತ್ತು $z = 35°$. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಾವು ಸಮಾಂತರ ರೇಖೆಗಳ ಹಲವು ಗುಣಲಕ್ಷಣಗಳನ್ನು ಬಳಸಿದ್ದೇವೆ - ಛೇದಕದ ಒಂದೇ ಪಾರ್ಶ್ವದ ಅಂತರ್ ಕೋನಗಳು ಮತ್ತು ಅನುರೂಪ ಕೋನಗಳು. ಸರಿಯಾದ ಗುಣಲಕ್ಷಣವನ್ನು ಸರಿಯಾದ ಸಮಯದಲ್ಲಿ ಬಳಸುವುದು ಮುಖ್ಯ.",
+  "display_bullets": [
+    "x = 125°",
+    "y = 125°",
+    "z = 35°"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_center",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "x = 125° \\\\ y = 125° \\\\ z = 35°",
+    "placeholder_note": "Final answer in a highlighted box"
+  },
+  "source_example_id": "GEO-LA-2_example_6",
+  "final_answer": "$x = 125°, y = 125°, z = 35°$",
+  "final_answer_display": "$x = 125°$, $y = 125°$, $z = 35°$",
+  "chunk_id": "GEO-LA-2_concept_3_chunk_044"
+}

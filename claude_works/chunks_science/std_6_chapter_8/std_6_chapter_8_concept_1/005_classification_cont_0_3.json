@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅನಿಲ ಸ್ಥಿತಿ: ನೀರಾವಿ",
+  "script": "ಕೊನೆಯದಾಗಿ, ನೀರಿನ ಅನಿಲ ಸ್ಥಿತಿಯಾದ ನೀರಾವಿಯನ್ನು ನೋಡೋಣ. ನೀರನ್ನು ಕುದಿಸಿದಾಗ ಬರುವ ಹಬೆಯೇ ನೀರಾವಿ. ಇದರ ಪ್ರಮುಖ ಗುಣವೆಂದರೆ, ಇದಕ್ಕೆ ನಿರ್ದಿಷ್ಟ ಆಕಾರ ಅಥವಾ ನಿರ್ದಿಷ್ಟ ಗಾತ್ರ ಇರುವುದಿಲ್ಲ. ಅದನ್ನು ಒಂದು ಮುಚ್ಚಿದ ಪಾತ್ರೆಯಲ್ಲಿಟ್ಟರೆ, ಅದು ಲಭ್ಯವಿರುವ ಸಂಪೂರ್ಣ ಜಾಗವನ್ನು ಆಕ್ರಮಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಇದು ಸುಲಭವಾಗಿ ಹರಡುತ್ತದೆ. ಅನಿಲ ಸ್ಥಿತಿಯಲ್ಲಿ, ನೀರಿನ ಅಣುಗಳು ಒಂದಕ್ಕೊಂದು ಬಹಳ ದೂರದಲ್ಲಿರುತ್ತವೆ ಮತ್ತು ಅತ್ಯಂತ ವೇಗವಾಗಿ, ಸ್ವತಂತ್ರವಾಗಿ ಚಲಿಸುತ್ತವೆ. ಈ ಕಾರಣದಿಂದಲೇ ನೀರಾವಿ ಬಹಳ ಸುಲಭವಾಗಿ ಹರಡುತ್ತದೆ ಮತ್ತು ಹರಿಯುತ್ತದೆ.",
+  "script_display": "ಕೊನೆಯದಾಗಿ, ನೀರಿನ ಅನಿಲ ಸ್ಥಿತಿಯಾದ ನೀರಾವಿಯನ್ನು (Water Vapour) ನೋಡೋಣ. ನೀರನ್ನು ಕುದಿಸಿದಾಗ ಬರುವ ಹಬೆಯೇ ನೀರಾವಿ. ಇದರ ಪ್ರಮುಖ ಗುಣವೆಂದರೆ, ಇದಕ್ಕೆ ನಿರ್ದಿಷ್ಟ ಆಕಾರ ಅಥವಾ ನಿರ್ದಿಷ್ಟ ಗಾತ್ರ ಇರುವುದಿಲ್ಲ. ಅದನ್ನು ಒಂದು ಮುಚ್ಚಿದ ಪಾತ್ರೆಯಲ್ಲಿಟ್ಟರೆ, ಅದು ಲಭ್ಯವಿರುವ ಸಂಪೂರ್ಣ ಜಾಗವನ್ನು ಆಕ್ರಮಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಇದು ಸುಲಭವಾಗಿ ಹರಡುತ್ತದೆ. ಅನಿಲ ಸ್ಥಿತಿಯಲ್ಲಿ, ನೀರಿನ ಅಣುಗಳು (molecules) ಒಂದಕ್ಕೊಂದು ಬಹಳ ದೂರದಲ್ಲಿರುತ್ತವೆ ಮತ್ತು ಅತ್ಯಂತ ವೇಗವಾಗಿ, ಸ್ವತಂತ್ರವಾಗಿ ಚಲಿಸುತ್ತವೆ. ಈ ಕಾರಣದಿಂದಲೇ ನೀರಾವಿ ಬಹಳ ಸುಲಭವಾಗಿ ಹರಡುತ್ತದೆ ಮತ್ತು ಹರಿಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸ್ಥಿತಿ: ಅನಿಲ (Gaseous) - ಉದಾಹರಣೆ: ನೀರಾವಿ",
+    "ಗುಣಲಕ್ಷಣ: ನಿರ್ದಿಷ್ಟ ಆಕಾರ ಅಥವಾ ಗಾತ್ರವಿಲ್ಲ.",
+    "ಗುಣಲಕ್ಷಣ: ಲಭ್ಯವಿರುವ ಜಾಗವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಆಕ್ರಮಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_right_text_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Image of steam rising from a kettle and dispersing into the air, illustrating that it has no fixed shape or volume.",
+    "labels": "ನೀರಾವಿ (Steam/Water Vapour)",
+    "scientific_significance": "Illustrates the gaseous state, where particles are far apart and move randomly, causing the substance to have neither a definite shape nor a definite volume.",
+    "placeholder_note": "Image of steam spreading out from a kettle."
+  },
+  "chunk_id": "std_6_chapter_8_concept_1_chunk_005"
+}

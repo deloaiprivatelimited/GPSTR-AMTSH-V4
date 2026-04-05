@@ -1,0 +1,92 @@
+{
+  "module_id": "std_7_chapter_10_concept_7",
+  "chapter_code": "std_7_chapter_10",
+  "voice": "Algieba",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 7,
+  "ok_count": 7,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:43:15",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "e993158d209e3f2df901f79f4f063c71",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 29.851,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್્ઞಾನ",
+      "type": "intro",
+      "script_words": 42,
+      "generated_at": "2026-04-02 13:42:02"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "ba62517b537e1f087d80a033eeeb73fd",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 41.651,
+      "slide_title": "ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಹಂತಗಳು: ಭಾಗ 2",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:42:11"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "2f3065c485ef73b8fa7aaac65979e93e",
+      "wav_file": "003_property_0.wav",
+      "duration": 48.531,
+      "slide_title": "ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಹಂತಗಳು: ಭಾಗ 1",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:42:15"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "e1b0dd2239cddfa7f8d248e9999e73ac",
+      "wav_file": "001_intro_0.wav",
+      "duration": 44.571,
+      "slide_title": "ವಿದ್ಯುತ್ಕಾಂತದ ಅನ್ವಯ: ವಿದ್ಯುತ್ ಘಂಟೆ",
+      "type": "intro",
+      "script_words": 74,
+      "generated_at": "2026-04-02 13:42:19"
+    },
+    "006_property_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "5753f31b949c72078ed6c1df35a599b6",
+      "wav_file": "006_property_cont_0_3.wav",
+      "duration": 44.811,
+      "slide_title": "ನಿರಂತರ ಪ್ರಕ್ರಿಯೆ",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 13:42:41"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "20b26fb47cb15dd950bbee2b4ce784fb",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 41.251,
+      "slide_title": "ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಹಂತಗಳು: ಭಾಗ 3",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 13:43:11"
+    },
+    "007_recap_0.json": {
+      "status": "ok",
+      "voice": "Algieba",
+      "script_hash": "596e0298c1a3a6a286232cb5a09c1dd4",
+      "wav_file": "007_recap_0.wav",
+      "duration": 38.651,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 13:43:15"
+    }
+  }
+}

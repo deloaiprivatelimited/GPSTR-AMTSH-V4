@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "2. ಗ್ಯಾಲ್ವನೀಕರಣ (Galvanization)",
+  "script": "ಎರಡನೆಯ ವಿಧಾನ ಗ್ಯಾಲ್ವನೀಕರಣ. ಇದು ಕಬ್ಬಿಣ ಮತ್ತು ಉಕ್ಕನ್ನು ತುಕ್ಕಿನಿಂದ ರಕ್ಷಿಸಲು ಬಳಸುವ ಒಂದು ಅತ್ಯಂತ ಪರಿಣಾಮಕಾರಿ ವಿಧಾನವಾಗಿದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಕಬ್ಬಿಣದ ವಸ್ತುವಿನ ಮೇಲೆ ಸತು ಅಥವಾ ಜಿಂಕ್ ಎಂಬ ಲೋಹದ ತೆಳುವಾದ ಪದರವನ್ನು ಲೇಪಿಸಲಾಗುತ್ತದೆ. ಇದರ ವಿಶೇಷತೆ ಏನೆಂದರೆ, ಸತುವು ಕಬ್ಬಿಣಕ್ಕಿಂತ ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ ಲೋಹ. ಹಾಗಾಗಿ, ಒಂದು ವೇಳೆ ಲೇಪನಕ್ಕೆ ಗೀರು ಬಿದ್ದರೂ, ಸತುವು ಮೊದಲು ಸಂಕ್ಷಾರಣಕ್ಕೊಳಗಾಗಿ ಕಬ್ಬಿಣವನ್ನು ರಕ್ಷಿಸುತ್ತದೆ. ಈ ವಿದ್ಯಮಾನವನ್ನು 'ತ್ಯಾಗದ ರಕ್ಷಣೆ' ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+  "script_display": "ಎರಡನೆಯ ವಿಧಾನ ಗ್ಯಾಲ್ವನೀಕರಣ (Galvanization). ಇದು ಕಬ್ಬಿಣ ಮತ್ತು ಉಕ್ಕನ್ನು ತುಕ್ಕಿನಿಂದ ರಕ್ಷಿಸಲು ಬಳಸುವ ಒಂದು ಅತ್ಯಂತ ಪರಿಣಾಮಕಾರಿ ವಿಧಾನವಾಗಿದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಕಬ್ಬಿಣದ ವಸ್ತುವಿನ ಮೇಲೆ ಸತು (Zinc) ಎಂಬ ಲೋಹದ ತೆಳುವಾದ ಪದರವನ್ನು ಲೇಪಿಸಲಾಗುತ್ತದೆ. ಇದರ ವಿಶೇಷತೆ ಏನೆಂದರೆ, ಸತುವು ಕಬ್ಬಿಣಕ್ಕಿಂತ ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ ಲೋಹ. ಹಾಗಾಗಿ, ಒಂದು ವೇಳೆ ಲೇಪನಕ್ಕೆ ಗೀರು ಬಿದ್ದರೂ, ಸತುವು ಮೊದಲು ಸಂಕ್ಷಾರಣಕ್ಕೊಳಗಾಗಿ ಕಬ್ಬಿಣವನ್ನು ರಕ್ಷಿಸುತ್ತದೆ. ಈ ವಿದ್ಯಮಾನವನ್ನು 'ತ್ಯಾಗದ ರಕ್ಷಣೆ' (Sacrificial Protection) ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಕಬ್ಬಿಣ/ಉಕ್ಕಿನ ಮೇಲೆ ಸತುವಿನ (Zinc) ಲೇಪನ.",
+    "ಸತುವು ಕಬ್ಬಿಣಕ್ಕಿಂತ ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲ.",
+    "ಇದು 'ತ್ಯಾಗದ ರಕ್ಷಣೆ' (Sacrificial Protection) ನೀಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "unstem_purple",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram illustrating sacrificial protection. It shows a piece of iron coated with a layer of zinc. A scratch in the zinc layer is shown, but the zinc corrodes preferentially, protecting the iron underneath.",
+    "labels": "ಸತುವಿನ ಲೇಪನ (Zinc coating), ಕಬ್ಬಿಣ (Iron), ತ್ಯಾಗದ ರಕ್ಷಣೆ",
+    "scientific_significance": "Demonstrates how a more reactive metal (Zinc) can be used to sacrificially protect a less reactive metal (Iron) from corrosion.",
+    "placeholder_note": "Image to be generated showing a zinc layer over iron, with a scratch, illustrating sacrificial protection."
+  },
+  "sub_type": "classification",
+  "chunk_id": "std_10_chapter_3_concept_11_chunk_018"
+}

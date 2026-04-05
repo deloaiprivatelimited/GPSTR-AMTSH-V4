@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಸಮಸ್ಯೆ ಪರಿಚಯ",
+  "script": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು ಐದು ಎಕ್ಸ್ ಪ್ಲಸ್ ಏಳರ ಭಾಗ ಎರಡು ಸಮ ಮೂರರ ಭಾಗ ಎರಡು ಎಕ್ಸ್ ಮೈನಸ್ ಹದಿನಾಲ್ಕು ಎಂಬ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಬೇಕು. ಇಲ್ಲಿ ಚರಾಕ್ಷರ ಎಕ್ಸ್ ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳಲ್ಲಿದೆ ಮತ್ತು ಕೆಲವು ಪದಗಳು ಭಿನ್ನರಾಶಿ ರೂಪದಲ್ಲಿವೆ. ನಮ್ಮ ಮೊದಲ ಗುರಿ ಈ ಭಿನ್ನರಾಶಿಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದು.",
+  "script_display": "ಈಗ ಇನ್ನೊಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನಾವು $5x + \\frac{7}{2} = \\frac{3}{2}x - 14$ ಎಂಬ ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಬೇಕು. ಇಲ್ಲಿ ಚರಾಕ್ಷರ $x$ ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳಲ್ಲಿದೆ ಮತ್ತು ಕೆಲವು ಪದಗಳು ಭಿನ್ನರಾಶಿ ರೂಪದಲ್ಲಿವೆ. ನಮ್ಮ ಮೊದಲ ಗುರಿ ಈ ಭಿನ್ನರಾಶಿಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: $5x + \\frac{7}{2} = \\frac{3}{2}x - 14$",
+    "ಗುರಿ: $x$ ನ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+    "ಗಮನಿಸಿ: ಸಮೀಕರಣದಲ್ಲಿ ಭಿನ್ನರಾಶಿಗಳಿವೆ, ಇದು ಲೆಕ್ಕಾಚಾರವನ್ನು ಸಂಕೀರ್ಣಗೊಳಿಸಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "5x + \\frac{7}{2} = \\frac{3}{2}x - 14",
+    "placeholder_note": "The equation to be solved."
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ1-2_example_2",
+  "chunk_id": "ALG-EQ1-2_concept_2_chunk_008"
+}

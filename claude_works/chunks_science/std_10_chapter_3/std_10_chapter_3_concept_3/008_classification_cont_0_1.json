@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಅಪವಾದಗಳು: ಲೋಹಗಳ ಭೌತಿಕ ಸ್ಥಿತಿ",
+  "script": "ಸಾಮಾನ್ಯವಾಗಿ, ಎಲ್ಲಾ ಲೋಹಗಳು ಕೊಠಡಿಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ಘನರೂಪದಲ್ಲಿರುತ್ತವೆ. ಆದರೆ ಇದಕ್ಕೆ ಕೆಲವು ಪ್ರಮುಖ ಅಪವಾದಗಳಿವೆ. ಮೊದಲನೆಯದು ಪಾದರಸ, ಅಂದರೆ ಮರ್ಕ್ಯುರಿ. ಇದು ಕೊಠಡಿಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ದ್ರವರೂಪದಲ್ಲಿರುವ ಏಕೈಕ ಲೋಹ. ಇದರ ಈ ವಿಶಿಷ್ಟ ಗುಣದಿಂದಾಗಿ ಇದನ್ನು ಉಷ್ಣಮಾಪಕಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ. ಎರಡನೆಯದಾಗಿ, ಗ್ಯಾಲಿಯಂ ಮತ್ತು ಸೀಸಿಯಂ ಲೋಹಗಳು. ಇವುಗಳ ಕರಗುವ ಬಿಂದು ಅಂದರೆ ಮೆಲ್ಟಿಂಗ್ ಪಾಯಿಂಟ್ ತುಂಬಾ ಕಡಿಮೆ. ನಮ್ಮ ಅಂಗೈ ಮೇಲೆ ಇಟ್ಟರೆ ಸಾಕು, ನಮ್ಮ ದೇಹದ ಶಾಖದಿಂದಲೇ ಇವು ಕರಗಿ ದ್ರವವಾಗುತ್ತವೆ. ಇದು ಪರೀಕ್ಷಾ ದೃಷ್ಟಿಯಿಂದ ಬಹಳ ಮುಖ್ಯವಾದ ಅಂಶ.",
+  "script_display": "ಸಾಮಾನ್ಯವಾಗಿ, ಎಲ್ಲಾ ಲೋಹಗಳು ಕೊಠಡಿಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ಘನರೂಪದಲ್ಲಿರುತ್ತವೆ. ಆದರೆ ಇದಕ್ಕೆ ಕೆಲವು ಪ್ರಮುಖ ಅಪವಾದಗಳಿವೆ. ಮೊದಲನೆಯದು ಪಾದರಸ (Mercury, Hg). ಇದು ಕೊಠಡಿಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ದ್ರವರೂಪದಲ್ಲಿರುವ ಏಕೈಕ ಲೋಹ. ಇದರ ಈ ವಿಶಿಷ್ಟ ಗುಣದಿಂದಾಗಿ ಇದನ್ನು ಉಷ್ಣಮಾಪಕಗಳಲ್ಲಿ (thermometers) ಬಳಸುತ್ತಾರೆ. ಎರಡನೆಯದಾಗಿ, ಗ್ಯಾಲಿಯಂ (Ga) ಮತ್ತು ಸೀಸಿಯಂ (Cs) ಲೋಹಗಳು. ಇವುಗಳ ಕರಗುವ ಬಿಂದು (melting point) ತುಂಬಾ ಕಡಿಮೆ. ನಮ್ಮ ಅಂಗೈ ಮೇಲೆ ಇಟ್ಟರೆ ಸಾಕು, ನಮ್ಮ ದೇಹದ ಶಾಖದಿಂದಲೇ ಇವು ಕರಗಿ ದ್ರವವಾಗುತ್ತವೆ. ಇದು ಪರೀಕ್ಷಾ ದೃಷ್ಟಿಯಿಂದ ಬಹಳ ಮುಖ್ಯವಾದ ಅಂಶ.",
+  "display_bullets": [
+    "ಪಾದರಸ (Hg): ಕೊಠಡಿಯ ಉಷ್ಣಾಂಶದಲ್ಲಿ ದ್ರವರೂಪದಲ್ಲಿರುವ ಏಕೈಕ ಲೋಹ.",
+    "ಗ್ಯಾಲಿಯಂ (Ga) ಮತ್ತು ಸೀಸಿಯಂ (Cs): ಅತ್ಯಂತ ಕಡಿಮೆ ಕರಗುವ ಬಿಂದು ಹೊಂದಿರುವ ಲೋಹಗಳು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_visual_explain",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A composite image. On the left, a classic mercury thermometer showing the silver liquid. On the right, a piece of solid gallium metal melting into a liquid pool in a person's gloved palm.",
+    "labels": "ಪಾದರಸ (ದ್ರವ ಲೋಹ), ಅಂಗೈಯಲ್ಲಿ ಕರಗುತ್ತಿರುವ ಗ್ಯಾಲಿಯಂ",
+    "scientific_significance": "Illustrates the unusual physical states of certain metals at or near room temperature, which is an exception to the rule that metals are solid.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_3_chunk_008"
+}

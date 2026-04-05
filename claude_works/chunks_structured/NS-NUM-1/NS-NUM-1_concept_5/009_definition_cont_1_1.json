@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ನೈಜ ಜೀವನದ ಉದಾಹರಣೆ",
+  "script": "ಅಂದಾಜು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಹೇಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ನೀವು ಒಂದು ಅಂಗಡಿಯಲ್ಲಿ ಸಾಮಾನುಗಳನ್ನು ಖರೀದಿಸುತ್ತಿದ್ದೀರಿ ಎಂದು ಭಾವಿಸಿ. ನಿಮ್ಮ ಬಳಿ 500 ರೂಪಾಯಿ ಇದೆ. ನೀವು ಖರೀದಿಸಬೇಕಾದ ವಸ್ತುಗಳ ಬೆಲೆಗಳು ಹೀಗಿವೆ: ಒಂದು ವಸ್ತುವಿಗೆ 198 ರೂಪಾಯಿ, ಇನ್ನೊಂದಕ್ಕೆ 87 ರೂಪಾಯಿ, ಮತ್ತು ಮೂರನೆಯದಕ್ಕೆ 215 ರೂಪಾಯಿ. ಈಗ, ನಿಮ್ಮ ಬಳಿ ಇರುವ ಹಣ ಸಾಕಾಗುತ್ತದೆಯೇ ಎಂದು ತಿಳಿಯಲು, ಈ ಸಂಖ್ಯೆಗಳನ್ನು ನಿಖರವಾಗಿ ಕೂಡಿಸುವ ಬದಲು, ನಾವು ಅಂದಾಜು ಮಾಡಬಹುದು. ಇದು ನಮಗೆ ತಕ್ಷಣವೇ ಉತ್ತರವನ್ನು ನೀಡುತ್ತದೆ. ಈ ವಿಧಾನವು ಸಮಯವನ್ನು ಉಳಿಸುತ್ತದೆ.",
+  "script_display": "ಅಂದಾಜು ನಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಹೇಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ನೀವು ಒಂದು ಅಂಗಡಿಯಲ್ಲಿ ಸಾಮಾನುಗಳನ್ನು ಖರೀದಿಸುತ್ತಿದ್ದೀರಿ ಎಂದು ಭಾವಿಸಿ. ನಿಮ್ಮ ಬಳಿ ₹500 ಇದೆ. ನೀವು ಖರೀದಿಸಬೇಕಾದ ವಸ್ತುಗಳ ಬೆಲೆಗಳು ಹೀಗಿವೆ: ಒಂದು ವಸ್ತುವಿಗೆ ₹198, ಇನ್ನೊಂದಕ್ಕೆ ₹87, ಮತ್ತು ಮೂರನೆಯದಕ್ಕೆ ₹215. ಈಗ, ನಿಮ್ಮ ಬಳಿ ಇರುವ ಹಣ ಸಾಕಾಗುತ್ತದೆಯೇ ಎಂದು ತಿಳಿಯಲು, ಈ ಸಂಖ್ಯೆಗಳನ್ನು ನಿಖರವಾಗಿ ಕೂಡಿಸುವ ಬದಲು, ನಾವು ಅಂದಾಜು ಮಾಡಬಹುದು. ಇದು ನಮಗೆ ತಕ್ಷಣವೇ ಉತ್ತರವನ್ನು ನೀಡುತ್ತದೆ. ಈ ವಿಧಾನವು ಸಮಯವನ್ನು ಉಳಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸನ್ನಿವೇಶ: ನಿಮ್ಮ ಬಳಿ ₹500 ಇದೆ.",
+    "ಖರೀದಿಸಬೇಕಾದ ವಸ್ತುಗಳು: ₹198, ₹87, ಮತ್ತು ₹215 ಬೆಲೆಯ ವಸ್ತುಗಳು.",
+    "ಪ್ರಶ್ನೆ: ನಿಮ್ಮ ಬಳಿ ಇರುವ ಹಣ ಸಾಕಾಗುತ್ತದೆಯೇ?",
+    "ಪರಿಹಾರ: ನಿಖರವಾದ ಲೆಕ್ಕಾಚಾರದ ಬದಲು ಅಂದಾಜು ಬಳಸಿ ತ್ವರಿತವಾಗಿ ಪರಿಶೀಲಿಸಬಹುದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "modern_dark",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple illustration of a person in a shopping aisle looking at three items with price tags: ₹198, ₹87, and ₹215. The person is holding a ₹500 note and has a thoughtful expression.",
+    "labels": "Shopping items, Price tags, 500 rupee note",
+    "mathematical_significance": "Represents a real-world scenario where mental estimation is more practical than exact calculation.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "NS-NUM-1_concept_5_chunk_009"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಧ್ರುವ ನಕ್ಷತ್ರವನ್ನು ಹುಡುಕಿ",
+  "script": "ಈಗ ನಾವು ಆ ಎರಡು ಸೂಚಕ ನಕ್ಷತ್ರಗಳನ್ನು ಸೇರಿಸುವ ಒಂದು ಕಾಲ್ಪನಿಕ ಸರಳ ರೇಖೆಯನ್ನು ಮನಸ್ಸಿನಲ್ಲಿ ಎಳೆಯೋಣ. ಈ ರೇಖೆಯನ್ನು ಬಟ್ಟಲಿನಿಂದ ಹೊರಮುಖವಾಗಿ, ಅಂದರೆ ಉತ್ತರ ದಿಕ್ಕಿಗೆ ವಿಸ್ತರಿಸಬೇಕು. ಎಷ್ಟು ದೂರ ವಿಸ್ತರಿಸಬೇಕು? ಆ ಎರಡು ನಕ್ಷತ್ರಗಳ ನಡುವಿನ ಅಂತರದ ಸುಮಾರು ಐದು ಪಟ್ಟು ದೂರಕ್ಕೆ ಆ ಕಾಲ್ಪನಿಕ ರೇಖೆಯನ್ನು ಮುಂದುವರಿಸಿ. ಆ ರೇಖೆಯು ಒಂದು ಸಾಧಾರಣ ಪ್ರಕಾಶಮಾನವಾದ ನಕ್ಷತ್ರವನ್ನು ತಲುಪುತ್ತದೆ. ಅದೇ ನಕ್ಷತ್ರವನ್ನು ನಾವು ಹುಡುಕುತ್ತಿದ್ದೇವೆ.",
+  "script_display": "ಈಗ ನಾವು ಆ ಎರಡು ಸೂಚಕ ನಕ್ಷತ್ರಗಳನ್ನು (ಪಾಯಿಂಟರ್ ಸ್ಟಾರ್ಸ್) ಸೇರಿಸುವ ಒಂದು ಕಾಲ್ಪನಿಕ ಸರಳ ರೇಖೆಯನ್ನು ಎಳೆಯೋಣ. ಈ ರೇಖೆಯನ್ನು ಉತ್ತರ ದಿಕ್ಕಿಗೆ, ಆ ನಕ್ಷತ್ರಗಳ ನಡುವಿನ ಅಂತರದ ಸುಮಾರು 5 ಪಟ್ಟು ದೂರಕ್ಕೆ ವಿಸ್ತರಿಸಿ. ಆ ರೇಖೆಯು ಒಂದು ಸಾಧಾರಣ ಪ್ರಕಾಶಮಾನವಾದ ನಕ್ಷತ್ರವನ್ನು ತಲುಪುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸೂಚಕ ನಕ್ಷತ್ರಗಳನ್ನು ಸೇರಿಸುವ ಒಂದು ಕಾಲ್ಪನಿಕ ಸರಳ ರೇಖೆಯನ್ನು ಉತ್ತರ ದಿಕ್ಕಿಗೆ ವಿಸ್ತರಿಸಿ.",
+    "ಈ ರೇಖೆಯು ಸುಮಾರು 5 ಪಟ್ಟು ದೂರದಲ್ಲಿ ಒಂದು ನಕ್ಷತ್ರವನ್ನು ತಲುಪುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the Big Dipper and the imaginary line extending from its two pointer stars towards the Pole Star (Polaris). The line should be marked to show it's about 5 times the distance between the pointer stars. The Pole Star is at the tip of the Little Dipper's handle.",
+    "labels": "Big Dipper, Pointer Stars, Imaginary Line (5x distance), Pole Star (Polaris), Little Dipper",
+    "scientific_significance": "Visually demonstrates the complete method for locating the North Star, a fundamental skill in basic astronomy and navigation.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_6_chapter_12_concept_1_chunk_016"
+}

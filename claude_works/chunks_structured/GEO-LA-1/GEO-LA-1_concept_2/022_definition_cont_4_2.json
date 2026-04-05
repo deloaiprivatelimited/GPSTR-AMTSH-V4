@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಲಘು ಕೋನ: ಹೋಲಿಕೆ",
+  "script": "ಲಘು ಕೋನ ಯಾವುದು ಮತ್ತು ಯಾವುದು ಅಲ್ಲ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯುವುದು ಬಹಳ ಮುಖ್ಯ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, ಹದಿನೈದು ಡಿಗ್ರಿ, ಎಪ್ಪತ್ತೈದು ಡಿಗ್ರಿ, ಮತ್ತು ಎಂಬತ್ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಕೋನಗಳಿವೆ. ಇವೆಲ್ಲವೂ ಸೊನ್ನೆ ಮತ್ತು ತೊಂಬತ್ತು ಡಿಗ್ರಿಗಳ ನಡುವೆ ಇರುವುದರಿಂದ, ಇವು ಲಘು ಕೋನಗಳು. ಈಗ ಬಲಭಾಗವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಸೊನ್ನೆ ಡಿಗ್ರಿ, ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಮತ್ತು ನೂರ ಇಪ್ಪತ್ತು ಡಿಗ್ರಿ ಕೋನಗಳಿವೆ. ಸೊನ್ನೆ ಡಿಗ್ರಿ ಮತ್ತು ತೊಂಬತ್ತು ಡಿಗ್ರಿ ಲಘು ಕೋನಗಳಲ್ಲ, ಏಕೆಂದರೆ ಲಘು ಕೋನವು ಇವುಗಳ 'ನಡುವೆ' ಇರಬೇಕು. ಹಾಗೆಯೇ, ನೂರ ಇಪ್ಪತ್ತು ಡಿಗ್ರಿ ತೊಂಬತ್ತಕ್ಕಿಂತ ಹೆಚ್ಚಿರುವುದರಿಂದ, ಅದೂ ಕೂಡ ಲಘು ಕೋನವಲ್ಲ.",
+  "script_display": "ಲಘು ಕೋನ ಯಾವುದು ಮತ್ತು ಯಾವುದು ಅಲ್ಲ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯುವುದು ಬಹಳ ಮುಖ್ಯ. ಎಡಭಾಗದಲ್ಲಿ ನೋಡಿ, $15^\\circ$, $75^\\circ$, ಮತ್ತು $89^\\circ$ ಕೋನಗಳಿವೆ. ಇವೆಲ್ಲವೂ $0^\\circ$ ಮತ್ತು $90^\\circ$ ಗಳ ನಡುವೆ ಇರುವುದರಿಂದ, ಇವು ಲಘು ಕೋನಗಳು. ಈಗ ಬಲಭಾಗವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ $0^\\circ$, $90^\\circ$ ಮತ್ತು $120^\\circ$ ಕೋನಗಳಿವೆ. $0^\\circ$ ಮತ್ತು $90^\\circ$ ಲಘು ಕೋನಗಳಲ್ಲ, ಏಕೆಂದರೆ ಲಘು ಕೋನವು ಇವುಗಳ 'ನಡುವೆ' ಇರಬೇಕು. ಹಾಗೆಯೇ, $120^\\circ$ ತೊಂಬತ್ತಕ್ಕಿಂತ ಹೆಚ್ಚಿರುವುದರಿಂದ, ಅದೂ ಕೂಡ ಲಘು ಕೋನವಲ್ಲ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "placeholder_note": "A two-column table comparing examples and non-examples of acute angles. Left column has a green checkmark, right has a red cross. Each angle value is accompanied by a small representative angle icon if possible. The table is rendered directly on the slide, not as a separate image file. The headers are part of the slide's static design for this layout, not part of the table data itself. The table data populates the columns under the headers 'ಇವು ಲಘು ಕೋನಗಳು' and 'ಇವು ಲಘು ಕೋನಗಳಲ್ಲ'. The JSON below represents the content for these columns. The layout `split_comparison` will handle the visual separation and headers. The `rows` array should contain pairs of [left_column_content, right_column_content]. We will use three rows to show three pairs of comparisons. The first row will have 15° on the left and 0° on the right. The second row will have 75° on the left and 90° on the right. The third row will have 89° on the left and 120° on the right. This structure is a bit different from a standard table, it's more of a paired list. Let's represent this as two separate lists within the visual description, as the `split_comparison` layout is designed to handle this. The `visual` field for `split_comparison` is typically handled by the layout itself, using text provided in other fields. Let's use a more generic visual type to describe the content. I will use a placeholder description and let the layout define the final look. For the sake of a valid JSON, I will use a `table` type and describe the content. The frontend will interpret this for the `split_comparison` layout. The `headers` will be the titles for the two columns. The `rows` will contain the data. This is the most structured way to represent it. Let's correct the thought process. The `split_comparison` layout has dedicated zones for left and right content. The `display_bullets` are not used, instead, the content is part of the visual. Let's re-structure. I will use two `formula_box` visuals, one for each side. No, that's not how the schema works. I will use a single `table` visual and the layout will split it. This is complex. Let's simplify. I will put the content in the `script` and `script_display` and use a `table` visual to represent the data for the frontend to render. The `display_bullets` will be empty as the script describes the table content. The `split_comparison` layout is designed to take two sets of content. Let's assume the renderer can handle a special table format. The headers are 'ಲಘು ಕೋನಗಳು (Acute)' and 'ಲಘು ಕೋನಗಳಲ್ಲ (Not Acute)'. The rows are the examples. This seems the most robust way. Okay, let's create the table visual. The headers are implicit in the layout. The rows will contain the data for each column. So a row will be `['15°', '0°']`."
+  },
+  "sub_type": "split_comparison",
+  "difficulty": "easy",
+  "source_example_id": "",
+  "chunk_id": "GEO-LA-1_concept_2_chunk_022"
+}

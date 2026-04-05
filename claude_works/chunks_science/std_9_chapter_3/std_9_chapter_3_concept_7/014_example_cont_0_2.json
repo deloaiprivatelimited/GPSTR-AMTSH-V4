@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗಾಗಿ, ಮೆಗ್ನಿಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ಸರಿಯಾದ ರಾಸಾಯನಿಕ ಸೂತ್ರ ಎಂ ಜಿ ಸಿ ಎಲ್ ಟೂ ಆಗಿದೆ. ಇಲ್ಲಿ, ಒಂದು ಮೆಗ್ನಿಸಿಯಂ ಪರಮಾಣು ಎರಡು ಕ್ಲೋರಿನ್ ಪರಮಾಣುಗಳೊಂದಿಗೆ ಸೇರಿಕೊಂಡು ಒಂದು ತಟಸ್ಥ ಸಂಯುಕ್ತವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+  "script_display": "ಹೀಗಾಗಿ, ಮೆಗ್ನಿಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ಸರಿಯಾದ ರಾಸಾಯನಿಕ ಸೂತ್ರ MgCl₂ ಆಗಿದೆ. ಇಲ್ಲಿ, ಒಂದು ಮೆಗ್ನಿಸಿಯಂ ಪರಮಾಣು (Mg²⁺) ಎರಡು ಕ್ಲೋರಿನ್ ಪರಮಾಣುಗಳೊಂದಿಗೆ (2 x Cl⁻) ಸೇರಿಕೊಂಡು ಒಂದು ತಟಸ್ಥ ಸಂಯುಕ್ತವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಮೆಗ್ನಿಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ಸೂತ್ರ: MgCl₂"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "template_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "MgCl_2",
+    "placeholder_note": "The final chemical formula for Magnesium Chloride"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_3_example_3",
+  "final_answer": "MgCl₂",
+  "final_answer_display": "ಮೆಗ್ನಿಸಿಯಂ ಕ್ಲೋರೈಡ್‌ನ ಸೂತ್ರ MgCl₂.",
+  "chunk_id": "std_9_chapter_3_concept_7_chunk_014"
+}

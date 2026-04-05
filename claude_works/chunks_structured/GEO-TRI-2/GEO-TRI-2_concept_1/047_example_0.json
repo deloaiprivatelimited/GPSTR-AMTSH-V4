@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 1: ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ನಾವು ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆಯ ಮೇಲೆ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ ಚಿತ್ರ 7.8 ರಲ್ಲಿ, OA ಯು OB ಗೆ ಸಮವಾಗಿದೆ ಮತ್ತು OD ಯು OC ಗೆ ಸಮವಾಗಿದೆ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ಎರಡು ವಿಷಯಗಳನ್ನು ಸಾಧಿಸಬೇಕು. ಮೊದಲನೆಯದು, ತ್ರಿಭುಜ AOD ಯು ತ್ರಿಭುಜ BOC ಗೆ ಸರ್ವಸಮವಾಗಿದೆ ಎಂದು. ಎರಡನೆಯದು, ರೇಖೆ AD ಯು ರೇಖೆ BC ಗೆ ಸಮಾಂತರವಾಗಿದೆ ಎಂದು.",
+  "script_display": "ಈಗ ನಾವು ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆಯ ಮೇಲೆ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ ಚಿತ್ರ 7.8 ರಲ್ಲಿ, $OA = OB$ ಮತ್ತು $OD = OC$ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ಎರಡು ವಿಷಯಗಳನ್ನು ಸಾಧಿಸಬೇಕು. ಮೊದಲನೆಯದು, $\\triangle AOD \\cong \\triangle BOC$ ಎಂದು. ಎರಡನೆಯದು, $AD || BC$ ಎಂದು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: $OA = OB$ ಮತ್ತು $OD = OC$.",
+    "ಸಾಧಿಸಬೇಕಾದದ್ದು (i): $\\triangle AOD \\cong \\triangle BOC$",
+    "ಸಾಧಿಸಬೇಕಾದದ್ದು (ii): $AD || BC$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ರೇಖಾಖಂಡಗಳು AC ಮತ್ತು BD, O ಬಿಂದುವಿನಲ್ಲಿ ಛೇದಿಸುತ್ತವೆ. O ಬಿಂದುವು ಎರಡೂ ರೇಖಾಖಂಡಗಳ ಮಧ್ಯಬಿಂದುವಲ್ಲ, ಆದರೆ OA=OB ಮತ್ತು OC=OD ಆಗುವಂತೆ ಇದೆ. A ಮತ್ತು D ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ, ಹಾಗೆಯೇ B ಮತ್ತು C ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು (AOD ಮತ್ತು BOC) ರಚಿಸಲಾಗಿದೆ. ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾದ ∠AOD ಮತ್ತು ∠BOC ಗಳು ಸಮವಾಗಿವೆ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಬಾ.ಕೋ.ಬಾ (SAS) ಸರ್ವಸಮತೆ ಮತ್ತು ಪರ್ಯಾಯ ಕೋನಗಳ ಗುಣಲಕ್ಷಣವನ್ನು ವಿವರಿಸುತ್ತದೆ. (ಚಿತ್ರ 7.8)",
+    "placeholder_note": "Image to be generated for figure 7.8"
+  },
+  "source_example_id": "GEO-TRI-2_example_1",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_047"
+}

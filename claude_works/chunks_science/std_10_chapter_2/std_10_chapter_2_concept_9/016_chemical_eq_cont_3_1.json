@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉಷ್ಣ ವಿಭಜನೆಯ ಸಮೀಕರಣ",
+  "script": "ಸಮೀಕರಣ ಹೀಗಿದೆ: ಎರಡು ಸೋಡಿಯಂ ಹೈಡ್ರೋಜನ್ ಕಾರ್ಬೋನೇಟ್ ಅಣುಗಳನ್ನು ಕಾಸಿದಾಗ, ಅದು ವಿಭಜನೆಗೊಂಡು ಒಂದು ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್ ಅಣು, ಒಂದು ನೀರಿನ ಅಣು, ಮತ್ತು ಒಂದು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲದ ಅಣು ಉಂಟಾಗುತ್ತದೆ.",
+  "script_display": "ಸಮೀಕರಣ ಹೀಗಿದೆ: 2NaHCO₃(s) ಅನ್ನು ಕಾಸಿದಾಗ, ಅದು ವಿಭಜನೆಗೊಂಡು Na₂CO₃(s), H₂O(l), ಮತ್ತು CO₂(g) ಉಂಟಾಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "visual_full",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "2NaHCO_3(s) \\xrightarrow{\\text{ಉಷ್ಣ}} Na_2CO_3(s) + H_2O(l) + CO_2(g)",
+    "placeholder_note": "Equation for the thermal decomposition of sodium bicarbonate."
+  },
+  "chunk_id": "std_10_chapter_2_concept_9_chunk_016"
+}

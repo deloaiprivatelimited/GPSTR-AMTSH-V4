@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತಗಳು 1-3",
+  "script": "ಈಗ ಸಾಧನೆಯ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ನಾವು ಚಿತ್ರದಲ್ಲಿ ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳನ್ನು ಪರಿಗಣಿಸುತ್ತೇವೆ, ಅವು ತ್ರಿಭುಜ PAB ಮತ್ತು ತ್ರಿಭುಜ PAC. ಈ ಎರಡೂ ತ್ರಿಭುಜಗಳಲ್ಲಿ, ಲಂ.ವಿ.ಬಾ. ಸರ್ವಸಮತೆಯ ನಿಯಮವನ್ನು ಅನ್ವಯಿಸಲು ಬೇಕಾದ ಅಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಕೋನ PBA ಮತ್ತು ಕೋನ PCA ಎರಡೂ ತೊಂಬತ್ತು ಡಿಗ್ರಿ, ಏಕೆಂದರೆ PB ಮತ್ತು PC ಗಳು ಲಂಬ ರೇಖೆಗಳು. ಎರಡನೆಯದಾಗಿ, ಬಾಹು PA ಯು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯ ವಿಕರ್ಣವಾಗಿದೆ, ಆದ್ದರಿಂದ PA ಸಮ PA. ಮೂರನೆಯದಾಗಿ, P ಬಿಂದುವು ಸಮದೂರದಲ್ಲಿರುವುದರಿಂದ, ಬಾಹು PB ಯು ಬಾಹು PC ಗೆ ಸಮವಾಗಿದೆ. ಇದು ನಮಗೆ ದತ್ತಾಂಶದಿಂದ ತಿಳಿದಿದೆ.",
+  "script_display": "ಈಗ ಸಾಧನೆಯ ಹಂತಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲಿಗೆ, ನಾವು ಚಿತ್ರದಲ್ಲಿ ಎರಡು ಲಂಬಕೋನ ತ್ರಿಭುಜಗಳನ್ನು ಪರಿಗಣಿಸುತ್ತೇವೆ, ಅವು $\\triangle PAB$ ಮತ್ತು $\\triangle PAC$. ಈ ಎರಡೂ ತ್ರಿಭುಜಗಳಲ್ಲಿ, ಲಂ.ವಿ.ಬಾ. (RHS) ಸರ್ವಸಮತೆಯ ನಿಯಮವನ್ನು ಅನ್ವಯಿಸಲು ಬೇಕಾದ ಅಂಶಗಳನ್ನು ಗುರುತಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, $\\angle PBA$ ಮತ್ತು $\\angle PCA$ ಎರಡೂ $90^\\circ$, ಏಕೆಂದರೆ $PB$ ಮತ್ತು $PC$ ಗಳು ಲಂಬ ರೇಖೆಗಳು. ಎರಡನೆಯದಾಗಿ, ಬಾಹು $PA$ ಯು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯ ವಿಕರ್ಣವಾಗಿದೆ, ಆದ್ದರಿಂದ $PA = PA$. ಮೂರನೆಯದಾಗಿ, P ಬಿಂದುವು ಸಮದೂರದಲ್ಲಿರುವುದರಿಂದ, ಬಾಹು $PB$ ಯು ಬಾಹು $PC$ ಗೆ ಸಮವಾಗಿದೆ. ಇದು ನಮಗೆ ದತ್ತಾಂಶದಿಂದ ತಿಳಿದಿದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Same diagram as the previous slide, but with triangles PAB and PAC highlighted to draw attention to them.",
+    "labels": "A, B, C, P, l, m",
+    "mathematical_significance": "Highlighting the two triangles of interest helps the student focus on the elements being compared for congruence.",
+    "placeholder_note": "Use same base image as previous slide, add highlighting."
+  },
+  "source_example_id": "GEO-TRI-2_example_8",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\triangle PAB$ ಮತ್ತು $\\triangle PAC$ ಗಳನ್ನು ಪರಿಗಣಿಸಿ.",
+      "justification": "ಈ ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆಯನ್ನು ಸಾಧಿಸುವುದು ನಮ್ಮ ಗುರಿ."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\angle PBA = \\angle PCA = 90^\\circ$",
+      "justification": "ಲಂಬಕೋನಗಳು (ದತ್ತಾಂಶದಲ್ಲಿ P ಸಮದೂರದಲ್ಲಿದೆ ಎಂದರ್ಥ)."
+    },
+    {
+      "step": 3,
+      "action_display": "$PA = PA$ (ವಿಕರ್ಣ)\n$PB = PC$ (ಬಾಹು)",
+      "justification": "ಸಾಮಾನ್ಯ ಬಾಹು ಮತ್ತು ದತ್ತಾಂಶ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_065"
+}

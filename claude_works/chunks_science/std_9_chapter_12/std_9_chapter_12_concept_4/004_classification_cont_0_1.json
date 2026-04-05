@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾವಯವ ಗೊಬ್ಬರ (Manure)",
+  "script": "ಮೊದಲಿಗೆ, ಸಾವಯವ ಗೊಬ್ಬರದ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇದನ್ನು ಪ್ರಾಣಿ ಮತ್ತು ಸಸ್ಯಗಳ ತ್ಯಾಜ್ಯಗಳ ವಿಘಟನೆಯಿಂದ ತಯಾರಿಸಲಾಗುತ್ತದೆ. ಇದು ಸಂಪೂರ್ಣವಾಗಿ ನೈಸರ್ಗಿಕವಾಗಿದೆ. ಸಾವಯವ ಗೊಬ್ಬರವು ಮಣ್ಣಿಗೆ ಎರಡು ಮುಖ್ಯವಾದ ವಸ್ತುಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ. ಮೊದಲನೆಯದಾಗಿ, ಇದು ಹ್ಯೂಮಸ್ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಸಾವಯವ ವಸ್ತುಗಳನ್ನು ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದಲ್ಲಿ ಸೇರಿಸುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಇದು ಸಸ್ಯಗಳಿಗೆ ಬೇಕಾದ ಪೋಷಕಾಂಶಗಳನ್ನು ಅಲ್ಪ ಪ್ರಮಾಣದಲ್ಲಿ ಒದಗಿಸುತ್ತದೆ. ಹ್ಯೂಮಸ್ ಮಣ್ಣಿನ ರಚನೆಯನ್ನು ಸುಧಾರಿಸಲು ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ.",
+  "script_display": "ಸಾವಯವ ಗೊಬ್ಬರವನ್ನು (Manure) ಪ್ರಾಣಿ ಮತ್ತು ಸಸ್ಯ ತ್ಯಾಜ್ಯಗಳ ವಿಘಟನೆಯಿಂದ ತಯಾರಿಸಲಾಗುತ್ತದೆ. ಇದು ಮಣ್ಣಿಗೆ ಇವುಗಳನ್ನು ಸೇರಿಸುತ್ತದೆ:\n\n*   **ಸಾವಯವ ವಸ್ತು (ಹ್ಯೂಮಸ್):** ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದಲ್ಲಿ ಸೇರಿಸುತ್ತದೆ, ಇದು ಮಣ್ಣಿನ ರಚನೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ.\n*   **ಪೋಷಕಾಂಶಗಳು:** ಅಲ್ಪ ಪ್ರಮಾಣದಲ್ಲಿ ಸಸ್ಯ ಪೋಷಕಾಂಶಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪ್ರಾಣಿ ಮತ್ತು ಸಸ್ಯ ತ್ಯಾಜ್ಯಗಳ ವಿಘಟನೆಯಿಂದ ತಯಾರಿಸಲಾಗುತ್ತದೆ.",
+    "ಮಣ್ಣಿಗೆ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದ ಸಾವಯವ ವಸ್ತು (ಹ್ಯೂಮಸ್) ಸೇರಿಸುತ್ತದೆ.",
+    "ಅಲ್ಪ ಪ್ರಮಾಣದ ಸಸ್ಯ ಪೋಷಕಾಂಶಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A pile of rich, dark, organic compost (manure). Show some vegetable peels, leaves, and soil mixed in to indicate its origin.",
+    "labels": "ಸಾವಯವ ಗೊಬ್ಬರ",
+    "scientific_significance": "Illustrates the final product of decomposition, rich in humus.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_4_chunk_004"
+}

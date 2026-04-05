@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರಗಳು ಹೀಗಿವೆ. ಎರಡು в ಟು ದ ಪವರ್ ಆಫ್ ಸಿಕ್ಸ್ ನ ಬೆಲೆ ಸಿಕ್ಸ್ಟಿ ಫೋರ್ ಆಗಿದೆ. ಮತ್ತು ನೈನ್ ಕ್ಯೂಬ್ಡ್ ನ ಬೆಲೆ ಸೆವೆನ್ ಹಂಡ್ರೆಡ್ ಟ್ವೆಂಟಿ ನೈನ್ ಆಗಿದೆ.",
+  "script_display": "ಹಾಗಾಗಿ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರಗಳು ಹೀಗಿವೆ. $2^6$ ನ ಬೆಲೆ 64 ಆಗಿದೆ. ಮತ್ತು $9^3$ ನ ಬೆಲೆ 729 ಆಗಿದೆ.",
+  "display_bullets": [
+    "$2^6 = 64$",
+    "$9^3 = 729$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "NS-EXP-2_example_2",
+  "final_answer": "$2^6 = 64$ ಮತ್ತು $9^3 = 729$.",
+  "final_answer_display": "$2^6 = 64$ ಮತ್ತು $9^3 = 729$.",
+  "chunk_id": "NS-EXP-2_concept_1_chunk_030"
+}

@@ -1,0 +1,147 @@
+{
+  "module_id": "std_7_chapter_8_concept_7",
+  "chapter_code": "std_7_chapter_8",
+  "voice": "Fenrir",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 12,
+  "ok_count": 12,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:24:54",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "9940c1d7b3d2b77a77f48b3c28ad00fd",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 30.931,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 44,
+      "generated_at": "2026-04-02 14:22:43"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "fabecabe6d323ffa2a3786f45cd0e8a2",
+      "wav_file": "001_intro_0.wav",
+      "duration": 53.411,
+      "slide_title": "ಪರಿಚಯ: ಬೀಜ ಪ್ರಸರಣ",
+      "type": "chunk",
+      "script_words": 82,
+      "generated_at": "2026-04-02 14:22:55"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "f3e45e1df5e69b3310f647785fe37da0",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 59.611,
+      "slide_title": "ಬೀಜ ಪ್ರಸರಣ: ಏಕೆ ಮುಖ್ಯ?",
+      "type": "definition",
+      "script_words": 71,
+      "generated_at": "2026-04-02 14:23:23"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "1be3fa028e3829f4e74e7ffd17e14e95",
+      "wav_file": "003_definition_0.wav",
+      "duration": 47.331,
+      "slide_title": "ಬೀಜ ಪ್ರಸರಣ (Seed Dispersal)",
+      "type": "definition",
+      "script_words": 58,
+      "generated_at": "2026-04-02 14:23:25"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "11a9075e307fbe5f00294bc798570ebb",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 45.731,
+      "slide_title": "ಪ್ರಸರಣ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 14:23:27"
+    },
+    "007_classification_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "49a564ce90386a77cba970ef696c7434",
+      "wav_file": "007_classification_0.wav",
+      "duration": 52.611,
+      "slide_title": "ಬೀಜ ಪ್ರಸರಣ: ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 14:23:58"
+    },
+    "006_property_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "ae9af6aa480d38443cc89cef2bd8c9f2",
+      "wav_file": "006_property_0.wav",
+      "duration": 52.091,
+      "slide_title": "ಬೀಜ ಪ್ರಸರಣ ಏಕೆ ಅವಶ್ಯಕ?",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-04-02 14:24:03"
+    },
+    "009_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "b990168c933f2e6bff4eee3b99c5970f",
+      "wav_file": "009_classification_cont_0_2.wav",
+      "duration": 46.171,
+      "slide_title": "ನೀರಿನಿಂದ ಪ್ರಸರಣ (Dispersal by Water)",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-04-02 14:24:17"
+    },
+    "008_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "da1f09d7285ebb03c2959b1ec1a8d306",
+      "wav_file": "008_classification_cont_0_1.wav",
+      "duration": 46.171,
+      "slide_title": "ಗಾಳಿಯಿಂದ ಪ್ರಸರಣ (Dispersal by Wind)",
+      "type": "concept_explanation",
+      "script_words": 68,
+      "generated_at": "2026-04-02 14:24:26"
+    },
+    "010_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "dccdb6d90aded2a8dba9423641cf74e7",
+      "wav_file": "010_classification_cont_0_3.wav",
+      "duration": 54.691,
+      "slide_title": "ಪ್ರಾಣಿಗಳಿಂದ ಪ್ರಸರಣ (Dispersal by Animals)",
+      "type": "concept_explanation",
+      "script_words": 66,
+      "generated_at": "2026-04-02 14:24:29"
+    },
+    "012_recap_0.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "19ae90d91f2e7e37e0c615d3062f7e30",
+      "wav_file": "012_recap_0.wav",
+      "duration": 44.091,
+      "slide_title": "ಪುನರಾವಲೋಕನ",
+      "type": "recap",
+      "script_words": 59,
+      "generated_at": "2026-04-02 14:24:52"
+    },
+    "011_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Fenrir",
+      "script_hash": "b44ba5a7f4311e32a859df37aef240c5",
+      "wav_file": "011_classification_cont_0_4.wav",
+      "duration": 49.251,
+      "slide_title": "ಸಿಡಿಯುವಿಕೆಯಿಂದ ಪ್ರಸರಣ (Dispersal by Explosion)",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 14:24:54"
+    }
+  }
+}

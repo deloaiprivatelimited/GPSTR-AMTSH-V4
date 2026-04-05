@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1 ಮತ್ತು 2",
+  "script": "ಸಾಧನೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. ಮೊದಲಿಗೆ, ನಾವು ಯಾವ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸಬೇಕೋ ಅವುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಅವು ತ್ರಿಭುಜ AOC ಮತ್ತು ತ್ರಿಭುಜ BOD. ಈಗ, ಬಾ.ಕೋ.ಬಾ ನಿಯಮಕ್ಕೆ ಬೇಕಾದ ಮೂರು ಸಮಾನ ಭಾಗಗಳನ್ನು ಹುಡುಕೋಣ. ಮೊದಲನೆಯದಾಗಿ, ದತ್ತಾಂಶದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ AOC ಯ ಬಾಹು OA ಯು, ತ್ರಿಭುಜ BOD ಯ ಬಾಹು OB ಗೆ ಸಮವಾಗಿದೆ. ಇದನ್ನು ನಾವು 'ದತ್ತ' ಎಂದು ಬರೆಯುತ್ತೇವೆ. ಎರಡನೆಯದಾಗಿ, ತ್ರಿಭುಜ AOC ಯ ಬಾಹು OC ಯು, ತ್ರಿಭುಜ BOD ಯ ಬಾಹು OD ಗೆ ಸಮವಾಗಿದೆ. ಇದೂ ಕೂಡ ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶ. ಈಗ ನಮಗೆ ಎರಡು ಜೊತೆ ಅನುರೂಪ ಬಾಹುಗಳು ಸಮ ಎಂದು ತಿಳಿದಿದೆ.",
+  "script_display": "ಸಾಧನೆಯನ್ನು ಹಂತ ಹಂತವಾಗಿ ನೋಡೋಣ. ಮೊದಲಿಗೆ, ನಾವು ಯಾವ ಎರಡು ತ್ರಿಭುಜಗಳನ್ನು ಸರ್ವಸಮ ಎಂದು ಸಾಧಿಸಬೇಕೋ ಅವುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಅವು $\\triangle AOC$ ಮತ್ತು $\\triangle BOD$. ಈಗ, ಬಾ.ಕೋ.ಬಾ ನಿಯಮಕ್ಕೆ ಬೇಕಾದ ಮೂರು ಸಮಾನ ಭಾಗಗಳನ್ನು ಹುಡುಕೋಣ.",
+  "display_bullets": [
+    "$\\triangle AOC$ ಮತ್ತು $\\triangle BOD$ ಗಳಲ್ಲಿ,",
+    "1. $OA = OB$ (ದತ್ತ)",
+    "2. $OC = OD$ (ದತ್ತ)"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಂತೆಯೇ ಅದೇ ಚಿತ್ರ, ಆದರೆ OA, OB, OC, OD ಭಾಗಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ.",
+    "labels": "A, B, C, D, O",
+    "mathematical_significance": "ಸಾಧನೆಯ ಮೊದಲ ಎರಡು ಹಂತಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸುವುದು.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_022"
+}

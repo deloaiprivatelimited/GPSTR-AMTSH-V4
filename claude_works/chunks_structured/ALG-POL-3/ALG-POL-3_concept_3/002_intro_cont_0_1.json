@@ -1,0 +1,30 @@
+{
+  "type": "intro",
+  "slide_title": "ಪೂರ್ವ-ಅವಶ್ಯಕತೆಗಳು",
+  "script": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನೀವು ಕೆಲವು ಮೂಲಭೂತ ವಿಷಯಗಳನ್ನು ತಿಳಿದಿರುವುದು ಅವಶ್ಯಕ. ನಿಮಗೆ ಬಹುಪದೋಕ್ತಿ ಎಂದರೇನು ಮತ್ತು ಅದರ ಡಿಗ್ರಿಯನ್ನು ಹೇಗೆ ಗುರುತಿಸುವುದು ಎಂದು ತಿಳಿದಿರಬೇಕು. ಹಾಗೆಯೇ, ಒಂದು ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆಯ ಬೀಜಗಣಿತೀಯ ಅರ್ಥವೇನೆಂಬುದು ಸ್ಪಷ್ಟವಾಗಿರಬೇಕು. ಈ ವಿಷಯಗಳಲ್ಲಿ ನಿಮಗೆ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಹಿಂದಿನ ಮಾಡ್ಯೂಲ್‌ಗಳನ್ನು ಒಮ್ಮೆ ನೋಡಿ.",
+  "script_display": "ಈ ಪಾಠವನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನೀವು ಈ ಕೆಳಗಿನ ವಿಷಯಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ:",
+  "display_bullets": [
+    "ಬಹುಪದೋಕ್ತಿ ಮತ್ತು ಅದರ ಡಿಗ್ರಿ (Polynomial and its Degree)",
+    "ಬಹುಪದೋಕ್ತಿಯ ಶೂನ್ಯತೆಯ ಬೀಜಗಣಿತೀಯ ಅರ್ಥ (Algebraic Meaning of a Zero)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard_bullets",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "chunk_id": "ALG-POL-3_concept_3_chunk_002"
+}

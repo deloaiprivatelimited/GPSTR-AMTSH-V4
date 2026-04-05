@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಘನ ಸಂಖ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಂಖ್ಯೆ ಎರಡರ ಘನವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, ನಾವು ಎರಡನ್ನು ಅದರಿಂದಲೇ ಮೂರು ಬಾರಿ ಗುಣಿಸಬೇಕು. ಅಂದರೆ, ಎರಡು ಗುಣಿಸು ಎರಡು ಗುಣಿಸು ಎರಡು. ಮೊದಲು, ಎರಡು ಗುಣಿಸು ಎರಡು ಮಾಡಿದರೆ ನಾಲ್ಕು ಬರುತ್ತದೆ. ನಂತರ, ಆ ನಾಲ್ಕನ್ನು ಮತ್ತೆ ಎರಡರಿಂದ ಗುಣಿಸಿದರೆ ಎಂಟು ಬರುತ್ತದೆ. ಆದ್ದರಿಂದ, ಎರಡರ ಘನ ಎಂಟು. ಇಲ್ಲಿ, ಎಂಟು ಒಂದು ಪೂರ್ಣ ಘನ ಸಂಖ್ಯೆಯಾಗಿದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಸರಳ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಸಂಖ್ಯೆ 2 ರ ಘನವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ವ್ಯಾಖ್ಯಾನದ ಪ್ರಕಾರ, ನಾವು 2 ಅನ್ನು ಅದರಿಂದಲೇ ಮೂರು ಬಾರಿ ಗುಣಿಸಬೇಕು. ಅಂದರೆ, $2 \\times 2 \\times 2$. ಮೊದಲು, $2 \\times 2$ ಮಾಡಿದರೆ 4 ಬರುತ್ತದೆ. ನಂತರ, ಆ 4 ಅನ್ನು ಮತ್ತೆ 2 ರಿಂದ ಗುಣಿಸಿದರೆ 8 ಬರುತ್ತದೆ. ಆದ್ದರಿಂದ, $2^3 = 8$. ಇಲ್ಲಿ, 8 ಒಂದು ಪೂರ್ಣ ಘನ ಸಂಖ್ಯೆಯಾಗಿದೆ.",
+  "display_bullets": [
+    "ಉದಾಹರಣೆಗೆ, 2 ರ ಘನವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ.",
+    "$2^3 = 2 \\times 2 \\times 2$",
+    "ಮೊದಲಿಗೆ, $2 \\times 2 = 4$",
+    "ನಂತರ, $4 \\times 2 = 8$",
+    "ಆದ್ದರಿಂದ, 8 ಒಂದು ಪೂರ್ಣ ಘನ (Perfect Cube) ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "default",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A 3D cube composed of smaller unit cubes, illustrating 2-cubed. The cube has dimensions of 2 units in length, 2 in width, and 2 in height. It is visibly made of 8 smaller, equal-sized cubes. Arrows indicate the length, width, and height, each labeled with the number '2'.",
+    "labels": "ಘನ, ಘಟಕ ಘನಗಳು, ಉದ್ದ, ಅಗಲ, ಎತ್ತರ",
+    "mathematical_significance": "ಘನ ಸಂಖ್ಯೆಯ ಜ್ಯಾಮಿತೀಯ ಅರ್ಥವನ್ನು ತೋರಿಸುತ್ತದೆ, ಅಂದರೆ $2^3$ ಎಂಬುದು 2x2x2 ಆಯಾಮಗಳ ಘನವನ್ನು ರೂಪಿಸುವ ಘಟಕಗಳ ಸಂಖ್ಯೆ.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "sub_type": "definition_example",
+  "chunk_id": "NS-CUBE-2_concept_1_chunk_003"
+}

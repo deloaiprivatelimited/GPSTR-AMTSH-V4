@@ -1,0 +1,102 @@
+{
+  "module_id": "std_7_science_ch_9_concept_4",
+  "module_title": "ಜವ ಮತ್ತು ಕಾಲದ ಮಾನಗಳು",
+  "class": "7",
+  "chapter": "9",
+  "chapter_title": "ಚಲನೆ ಮತ್ತು ಕಾಲ",
+  "domain": "ಭೌತಶಾಸ್ತ್ರ (Physics)",
+  "prerequisites": [
+    "std_7_science_ch_9_concept_1",
+    "std_7_science_ch_9_concept_2",
+    "std_7_science_ch_9_concept_3"
+  ],
+  "theory": {
+    "concept_summary": "ಯಾವುದೇ ಭೌತಿಕ ಪರಿಮಾಣವನ್ನು ಅಳೆಯಲು ನಿರ್ದಿಷ್ಟ ಮಾನಗಳು (units) ಬೇಕು. ಕಾಲ ಮತ್ತು ಜವಗಳಿಗೆ ಅಂತರಾಷ್ಟ್ರೀಯವಾಗಿ ಒಪ್ಪಿತವಾದ ಮಾನಗಳಿವೆ. ಲೆಕ್ಕಾಚಾರಗಳಲ್ಲಿ ಸರಿಯಾದ ಮತ್ತು ಸುಸಂಗತವಾದ ಮಾನಗಳನ್ನು ಬಳಸುವುದು ವೈಜ್ಞಾನಿಕವಾಗಿ ಅತ್ಯಗತ್ಯ.",
+    "definitions": [],
+    "formulas": [
+      {
+        "formula_name": "km/h to m/s conversion",
+        "latex": " 1 \\, \\text{km/h} = \\frac{1 \\, \\text{km}}{1 \\, \\text{h}} = \\frac{1000 \\, \\text{m}}{3600 \\, \\text{s}} = \\frac{5}{18} \\, \\text{m/s} ",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಮಾನಗಳ ಪರಿವರ್ತನೆ",
+        "derivation": []
+      },
+      {
+        "formula_name": "m/s to km/h conversion",
+        "latex": " 1 \\, \\text{m/s} = \\frac{18}{5} \\, \\text{km/h} ",
+        "condition": "",
+        "exception": "",
+        "derived_from": "",
+        "used_in": "ಮಾನಗಳ ಪರಿವರ್ತನೆ",
+        "derivation": []
+      }
+    ],
+    "laws": [],
+    "chemical_equations": [],
+    "properties": [
+      {
+        "title": "ಕಾಲದ ಮಾನಗಳು (Units of Time)",
+        "items": [
+          "ಮೂಲಮಾನ (Basic Unit): ಸೆಕೆಂಡ್ (second), ಸಂಕೇತ: s",
+          "ದೊಡ್ಡ ಮಾನಗಳು: ನಿಮಿಷ (minute, min), ಗಂಟೆ (hour, h)",
+          "ಸಂಬಂಧ: 1 min = 60 s; 1 h = 60 min = 3600 s"
+        ]
+      },
+      {
+        "title": "ಜವದ ಮಾನಗಳು (Units of Speed)",
+        "items": [
+          "ಮೂಲಮಾನ (Basic Unit): ಮೀಟರ್ ಪ್ರತಿ ಸೆಕೆಂಡ್ (meter per second), ಸಂಕೇತ: m/s",
+          "ದೊಡ್ಡ ಮಾನ: ಕಿಲೋಮೀಟರ್ ಪ್ರತಿ ಗಂಟೆ (kilometer per hour), ಸಂಕೇತ: km/h"
+        ]
+      }
+    ],
+    "classifications": [],
+    "experiments": [],
+    "visual_aids": []
+  },
+  "worked_examples": [
+    {
+      "example_id": "std_7_science_ch_9_example_1",
+      "difficulty": "intermediate",
+      "problem": "ಕೋಷ್ಟಕ 9.4 ರ ಪ್ರಕಾರ, ಗಿಡುಗದ ಜವ 320 km/h. ಇದನ್ನು m/s ನಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿ.",
+      "steps": [
+        {
+          "step": 1,
+          "action": "km/h ನಿಂದ m/s ಗೆ ಪರಿವರ್ತಿಸುವ ಸೂತ್ರವನ್ನು ಬಳಸಿ.",
+          "justification": "1 km = 1000 m ಮತ್ತು 1 h = 3600 s.",
+          "calculation": " \\text{ಜವ (m/s)} = \\text{ಜವ (km/h)} \\times \\frac{1000}{3600} "
+        },
+        {
+          "step": 2,
+          "action": "ಕೊಟ್ಟಿರುವ ಮೌಲ್ಯವನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸಿ.",
+          "justification": "",
+          "calculation": " \\text{ಜವ} = 320 \\times \\frac{1000}{3600} = 320 \\times \\frac{5}{18} "
+        },
+        {
+          "step": 3,
+          "action": "ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+          "justification": "",
+          "calculation": " \\text{ಜವ} \\approx 88.89 \\, \\text{m/s} "
+        }
+      ],
+      "result": "ಗಿಡುಗದ ಜವ ಸುಮಾರು 88.89 m/s.",
+      "common_trap": "1000/3600 ಬದಲು 3600/1000 ಎಂದು ತಪ್ಪಾಗಿ ಬಳಸುವುದು."
+    }
+  ],
+  "exam_intelligence": {
+    "gpstr_weightage": "high",
+    "mcq_note": "ಜವ ಅಥವಾ ಕಾಲದ ಮೂಲಮಾನ ಯಾವುದು? ಅಥವಾ km/h ಮತ್ತು m/s ನಡುವಿನ ಸಂಬಂಧ.",
+    "two_mark_note": "ಒಂದು ಜವವನ್ನು ಒಂದು ಮಾನದಿಂದ ಇನ್ನೊಂದಕ್ಕೆ ಪರಿವರ್ತಿಸುವ ಲೆಕ್ಕ.",
+    "five_mark_note": "ಸಾಧ್ಯತೆ ಕಡಿಮೆ, ಆದರೆ ಒಂದು ದೊಡ್ಡ ಲೆಕ್ಕದ ಭಾಗವಾಗಿರಬಹುದು.",
+    "common_mistakes": [
+      "km/h ನಿಂದ m/s ಗೆ ಪರಿವರ್ತನೆ ಮಾಡುವಾಗ 5/18 ರಿಂದ ಗುಣಿಸಬೇಕು, 18/5 ರಿಂದಲ್ಲ.",
+      "ಮಾನಗಳ ಸಂಕೇತಗಳನ್ನು ಬಹುವಚನದಲ್ಲಿ ಬರೆಯುವುದು (ಉದಾ: 50 kms). ಸರಿಯಾದದ್ದು 50 km."
+    ],
+    "boundary_conditions": [
+      "ಲೆಕ್ಕಾಚಾರ ಮಾಡುವಾಗ ಎಲ್ಲಾ ಪರಿಮಾಣಗಳು ಒಂದೇ ವ್ಯವಸ್ಥೆಯ ಮಾನಗಳಲ್ಲಿ (ಉದಾ: SI) ಇರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬೇಕು."
+    ],
+    "connects_to": []
+  }
+}

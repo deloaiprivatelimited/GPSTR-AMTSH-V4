@@ -1,0 +1,158 @@
+{
+  "module_id": "ALG-EQ1-1_concept_2",
+  "merge_code": "ALG-EQ1-1",
+  "voice": "Leda",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 13,
+  "ok_count": 13,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-03-30 14:04:42",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "707fb87459def8f5cd508a98a9960f3e",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 27.011,
+      "slide_title": "ನೀವು ತಿಳಿದಿರಬೇಕಾದ ವಿಷಯಗಳು",
+      "type": "intro",
+      "script_words": 39,
+      "generated_at": "2026-03-30 14:02:05"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "d456ae410d99d811757b1cb21ad51c51",
+      "wav_file": "001_intro_0.wav",
+      "duration": 50.051,
+      "slide_title": "ಪರಿಚಯ: ಹೇಳಿಕೆಗಳಿಂದ ಸಮೀಕರಣ ರಚನೆ",
+      "type": "intro",
+      "script_words": 67,
+      "generated_at": "2026-03-30 14:02:18"
+    },
+    "004_example_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "73aa95adfa7cf684964029250c91c008",
+      "wav_file": "004_example_cont_0_1.wav",
+      "duration": 35.971,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (i)",
+      "type": "worked_example",
+      "script_words": 51,
+      "generated_at": "2026-03-30 14:02:33"
+    },
+    "005_example_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "15a1fde178366e2649e7aae051310ac1",
+      "wav_file": "005_example_cont_0_2.wav",
+      "duration": 43.611,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (ii)",
+      "type": "worked_example",
+      "script_words": 57,
+      "generated_at": "2026-03-30 14:02:43"
+    },
+    "003_example_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "8e5ba8341a801e39ee5bcbe9cf9ca174",
+      "wav_file": "003_example_0.wav",
+      "duration": 41.691,
+      "slide_title": "ಉದಾಹರಣೆ 1: ಹೇಳಿಕೆಯಿಂದ ಸಮೀಕರಣ",
+      "type": "worked_example",
+      "script_words": 62,
+      "generated_at": "2026-03-30 14:02:44"
+    },
+    "007_example_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "d617ac845516876b808e9733150282af",
+      "wav_file": "007_example_cont_0_4.wav",
+      "duration": 42.851,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (iv)",
+      "type": "worked_example",
+      "script_words": 60,
+      "generated_at": "2026-03-30 14:03:15"
+    },
+    "008_example_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "1aa40e869c50477d48fe29e1bf7718bd",
+      "wav_file": "008_example_cont_0_5.wav",
+      "duration": 39.931,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರಗಳು",
+      "type": "worked_example",
+      "script_words": 47,
+      "generated_at": "2026-03-30 14:03:16"
+    },
+    "006_example_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "e8597ddc0d450895723fd73be4e56739",
+      "wav_file": "006_example_cont_0_3.wav",
+      "duration": 33.091,
+      "slide_title": "ಪರಿಹಾರ: ಭಾಗ (iii)",
+      "type": "worked_example",
+      "script_words": 50,
+      "generated_at": "2026-03-30 14:03:31"
+    },
+    "010_example_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "1d80ed46c7181ae69760efbba10aa272",
+      "wav_file": "010_example_cont_1_1.wav",
+      "duration": 36.771,
+      "slide_title": "ಹಂತ ಹಂತದ ಪರಿಹಾರ: ಭಾಗ 1",
+      "type": "worked_example",
+      "script_words": 53,
+      "generated_at": "2026-03-30 14:03:33"
+    },
+    "009_example_1.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "6c122931974ce9490c3ba5dd5d753153",
+      "wav_file": "009_example_1.wav",
+      "duration": 37.171,
+      "slide_title": "ಉದಾಹರಣೆ: ಸಮೀಕರಣದಿಂದ ಹೇಳಿಕೆ",
+      "type": "worked_example",
+      "script_words": 49,
+      "generated_at": "2026-03-30 14:03:35"
+    },
+    "013_recap_0.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "ff72e8d65e387a4f114130c659323bb8",
+      "wav_file": "013_recap_0.wav",
+      "duration": 45.251,
+      "slide_title": "ಸಾರಾಂಶ: ಹೇಳಿಕೆಗಳಿಂದ ಸಮೀಕರಣ ರಚನೆ",
+      "type": "recap",
+      "script_words": 55,
+      "generated_at": "2026-03-30 14:04:18"
+    },
+    "012_example_cont_1_3.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "bcd202e5d6c8bf7c7f0876ae7cef699b",
+      "wav_file": "012_example_cont_1_3.wav",
+      "duration": 58.331,
+      "slide_title": "ಅಂತಿಮ ಉತ್ತರ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "script_words": 78,
+      "generated_at": "2026-03-30 14:04:34"
+    },
+    "011_example_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Leda",
+      "script_hash": "20c8a4a641e3f5833eb3575a562c4051",
+      "wav_file": "011_example_cont_1_2.wav",
+      "duration": 42.531,
+      "slide_title": "ಹಂತ ಹಂತದ ಪರಿಹಾರ: ಭಾಗ 2",
+      "type": "worked_example",
+      "script_words": 66,
+      "generated_at": "2026-03-30 14:04:42"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಮೆಗ್ನಿಸಿಯಮ್ ಆಕ್ಸೈಡ್ ಮತ್ತು ನೀರು",
+  "script": "ಹಿಂದಿನ ಕ್ರಿಯೆಯಲ್ಲಿ ನಮಗೆ ಮೆಗ್ನಿಸಿಯಮ್ ಆಕ್ಸೈಡ್ ಎಂಬ ಬೂದಿ ಸಿಕ್ಕಿತು. ಈಗ, ಈ ಬೂದಿಯನ್ನು ನೀರಿನೊಂದಿಗೆ ಬೆರೆಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಇದು ಮತ್ತೊಂದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯೇ?",
+  "script_display": "ಹಿಂದಿನ ಕ್ರಿಯೆಯಲ್ಲಿ ನಮಗೆ ಮೆಗ್ನಿಸಿಯಮ್ ಆಕ್ಸೈಡ್ (MgO) ಎಂಬ ಬೂದಿ ಸಿಕ್ಕಿತು. ಈಗ, ಈ ಬೂದಿಯನ್ನು ನೀರಿನೊಂದಿಗೆ ಬೆರೆಸಿದಾಗ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಇದು ಮತ್ತೊಂದು ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯೇ?",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "video_style_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A beaker containing water, with white magnesium oxide powder being added to it from a spatula. The powder is dissolving/mixing in the water.",
+    "labels": "ನೀರು (H₂O), ಮೆಗ್ನಿಸಿಯಮ್ ಆಕ್ಸೈಡ್ ಬೂದಿ (MgO)",
+    "scientific_significance": "Shows the setup for reacting magnesium oxide with water, which is the next step after the combustion of magnesium ribbon.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_5_concept_2_chunk_016"
+}

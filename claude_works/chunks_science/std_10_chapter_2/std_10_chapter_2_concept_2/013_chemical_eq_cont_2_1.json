@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾಮಾನ್ಯ ಸಮೀಕರಣ",
+  "script": "ಈ ವರ್ತನೆಯನ್ನು ಒಂದು ಸಾಮಾನ್ಯ ಪದ ಸಮೀಕರಣದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಆಮ್ಲ ಮತ್ತು ಲೋಹದ ಕಾರ್ಬೋನೇಟ್ ವರ್ತಿಸಿದಾಗ, ಲವಣ, ನೀರು ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತವೆ. ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈ ವರ್ತನೆಯನ್ನು ಒಂದು ಸಾಮಾನ್ಯ ಪದ ಸಮೀಕರಣದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ಆಮ್ಲ + ಲೋಹದ ಕಾರ್ಬೋನೇಟ್ → ಲವಣ + ನೀರು + ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್. ಇದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "dynamic",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\text{ಆಮ್ಲ} + \\text{ಲೋಹದ ಕಾರ್ಬೋನೇಟ್} \\rightarrow \\text{ಲವಣ} + \\text{ನೀರು} + \\text{ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್}",
+    "placeholder_note": "General word equation for the reaction of an acid with a metal carbonate."
+  },
+  "chunk_id": "std_10_chapter_2_concept_2_chunk_013"
+}

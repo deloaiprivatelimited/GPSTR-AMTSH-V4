@@ -1,0 +1,43 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2: ಸಮಸ್ಯೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಬಿಡಿಸೋಣ. ಚಿತ್ರ 6.10 ರಲ್ಲಿ, ಸರಳರೇಖೆ POQ ಮೇಲೆ ಕಿರಣ OS ನಿಂತಿದೆ. ಕಿರಣ OR ಮತ್ತು ಕಿರಣ OT ಗಳು ಕ್ರಮವಾಗಿ ಕೋನ POS ಮತ್ತು ಕೋನ SOQ ಗಳ ಕೋನಾರ್ಧಕಗಳು. ಕೋನ POS ಸಮ x ಆದರೆ, ನಾವು ಕೋನ ROT ಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ದತ್ತಾಂಶವನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. POQ ಒಂದು ಸರಳರೇಖೆ. OR ಎಂಬುದು ಕೋನ POS ನ ಕೋನಾರ್ಧಕ. OT ಎಂಬುದು ಕೋನ SOQ ನ ಕೋನಾರ್ಧಕ. ಮತ್ತು ಕೋನ POS ನ ಅಳತೆ x. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಕೋನ ROT.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ಬಿಡಿಸೋಣ. ಚಿತ್ರ 6.10 ರಲ್ಲಿ, ಸರಳರೇಖೆ POQ ಮೇಲೆ ಕಿರಣ OS ನಿಂತಿದೆ. ಕಿರಣ OR ಮತ್ತು ಕಿರಣ OT ಗಳು ಕ್ರಮವಾಗಿ $\\angle POS$ ಮತ್ತು $\\angle SOQ$ ಗಳ ಕೋನಾರ್ಧಕಗಳು. $\\angle POS = x$ ಆದರೆ, ನಾವು $\\angle ROT$ ಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ದತ್ತಾಂಶವನ್ನು ಪಟ್ಟಿ ಮಾಡೋಣ. POQ ಒಂದು ಸರಳರೇಖೆ. OR ಎಂಬುದು $\\angle POS$ ನ ಕೋನಾರ್ಧಕ. OT ಎಂಬುದು $\\angle SOQ$ ನ ಕೋನಾರ್ಧಕ. ಮತ್ತು $\\angle POS = x$. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು $\\angle ROT$.",
+  "display_bullets": [
+    "ದತ್ತ: POQ ಒಂದು ಸರಳರೇಖೆ.",
+    "ಕಿರಣ OR, $\\angle POS$ ನ ಕೋನಾರ್ಧಕ.",
+    "ಕಿರಣ OT, $\\angle SOQ$ ನ ಕೋನಾರ್ಧಕ.",
+    "$\\angle POS = x$.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $\\angle ROT$."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಉದಾಹರಣೆ 2 ಕ್ಕಾಗಿ ರೇಖಾಚಿತ್ರ. ಒಂದು ಸರಳರೇಖೆ POQ, ಅದರ ಮೇಲೆ ಕಿರಣ OS. ∠POS ನ ಕೋನಾರ್ಧಕ OR ಮತ್ತು ∠SOQ ನ ಕೋನಾರ್ಧಕ OT.",
+    "labels": "ಚಿತ್ರ 6.10",
+    "mathematical_significance": "ಸರಳಯುಗ್ಮ ಕೋನಗಳ ಕೋನಾರ್ಧಕಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "render_target": "image",
+    "placeholder_note": "Image to be generated based on textbook Figure 6.10"
+  },
+  "source_example_id": "GEO-LA-2_example_2",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-LA-2_concept_2_chunk_040"
+}

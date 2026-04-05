@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿರ್ವಾತದಲ್ಲಿ ಶಬ್ದದ ಪ್ರಸಾರ",
+  "script": "ಶಬ್ದದ ಪ್ರಸಾರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ಅದು ನಿರ್ವಾತದಲ್ಲಿ ಪ್ರಸಾರವಾಗುವುದಿಲ್ಲ. ನಿರ್ವಾತ ಎಂದರೆ ಸಂಪೂರ್ಣವಾಗಿ ಖಾಲಿಯಾದ ಸ್ಥಳ, ಅಲ್ಲಿ ಗಾಳಿಯಾಗಲಿ ಅಥವಾ ಬೇರೆ ಯಾವುದೇ ಕಣಗಳಾಗಲಿ ಇರುವುದಿಲ್ಲ. ಬಾಹ್ಯಾಕಾಶ ಅಥವಾ ಚಂದ್ರನ ಮೇಲ್ಮೈ ಇದಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆ. ಶಬ್ದವು ಕಂಪನಗಳ ಮೂಲಕ ಸಾಗುವುದರಿಂದ, ಕಂಪಿಸಲು ಕಣಗಳೇ ಇಲ್ಲದಿದ್ದಾಗ ಶಬ್ದವು ಮುಂದೆ ಚಲಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇದೇ ಕಾರಣಕ್ಕೆ ಚಂದ್ರನ ಮೇಲೆ ಗಗನಯಾತ್ರಿಗಳು ನೇರವಾಗಿ ಮಾತನಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ, ಅವರು ಸಂವಹನಕ್ಕೆ ರೇಡಿಯೋ ತರಂಗಗಳನ್ನು ಬಳಸುತ್ತಾರೆ.",
+  "script_display": "ಶಬ್ದದ ಪ್ರಸಾರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಪ್ರಮುಖ ಅಂಶವೆಂದರೆ, ಅದು ನಿರ್ವಾತದಲ್ಲಿ (vacuum) ಪ್ರಸಾರವಾಗುವುದಿಲ್ಲ. ನಿರ್ವಾತ ಎಂದರೆ ಸಂಪೂರ್ಣವಾಗಿ ಖಾಲಿಯಾದ ಸ್ಥಳ, ಅಲ್ಲಿ ಗಾಳಿಯಾಗಲಿ ಅಥವಾ ಬೇರೆ ಯಾವುದೇ ಕಣಗಳಾಗಲಿ ಇರುವುದಿಲ್ಲ. ಬಾಹ್ಯಾಕಾಶ ಅಥವಾ ಚಂದ್ರನ ಮೇಲ್ಮೈ ಇದಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆ. ಶಬ್ದವು ಕಂಪನಗಳ ಮೂಲಕ ಸಾಗುವುದರಿಂದ, ಕಂಪಿಸಲು ಕಣಗಳೇ ಇಲ್ಲದಿದ್ದಾಗ ಶಬ್ದವು ಮುಂದೆ ಚಲಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇದೇ ಕಾರಣಕ್ಕೆ ಚಂದ್ರನ ಮೇಲೆ ಗಗನಯಾತ್ರಿಗಳು ನೇರವಾಗಿ ಮಾತನಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ, ಅವರು ಸಂವಹನಕ್ಕೆ ರೇಡಿಯೋ ತರಂಗಗಳನ್ನು ಬಳಸುತ್ತಾರೆ.",
+  "display_bullets": [
+    "ಶಬ್ದವು ನಿರ್ವಾತದಲ್ಲಿ ಪ್ರಸಾರವಾಗುವುದಿಲ್ಲ.",
+    "ನಿರ್ವಾತ: ಕಣಗಳಿಲ್ಲದ ಖಾಲಿ ಸ್ಥಳ (ಉದಾ: ಬಾಹ್ಯಾಕಾಶ).",
+    "ಕಾರಣ: ಕಂಪಿಸಲು ಯಾವುದೇ ಕಣಗಳು ಇರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_02",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A glass tumbler with a mobile phone inside. A person is sucking the air out of the tumbler with their mouth. This demonstrates that as the air (medium) is removed, the sound from the phone becomes fainter.",
+    "labels": "ಗಾಜಿನ ಲೋಟ, ಮೊಬೈಲ್ ಫೋನ್, ಬಾಯಿ, ನಿರ್ವಾತ ಪಂಪ್ (ಪರ್ಯಾಯ)",
+    "scientific_significance": "ಶಬ್ದವು ನಿರ್ವಾತದಲ್ಲಿ ಪ್ರಸಾರವಾಗುವುದಿಲ್ಲ ಎಂಬುದನ್ನು ಪ್ರಾಯೋಗಿಕವಾಗಿ ನಿರೂಪಿಸುತ್ತದೆ. ಗಾಳಿಯ ಕಣಗಳು ಕಡಿಮೆಯಾದಂತೆ ಶಬ್ದದ ಪ್ರಸಾರವೂ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated based on textbook figure 10.10, showing a phone in a glass and someone sucking the air out."
+  },
+  "chunk_id": "std_8_chapter_10_concept_2_chunk_004"
+}

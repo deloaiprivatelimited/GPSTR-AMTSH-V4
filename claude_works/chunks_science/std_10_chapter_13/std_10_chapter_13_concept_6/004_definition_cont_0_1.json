@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಓಝೋನ್ ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ?",
+  "script": "ಹಾಗಾದರೆ, ಈ ಓಝೋನ್ ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ? ವಾತಾವರಣದ ಮೇಲ್ಭಾಗದಲ್ಲಿ, ಸೂರ್ಯನಿಂದ ಬರುವ ಅತಿ ಹೆಚ್ಚು ಶಕ್ತಿಯುಳ್ಳ ನೇರಳಾತೀತ ವಿಕಿರಣಗಳು, ಅಂದರೆ UV ಕಿರಣಗಳು, ಆಮ್ಲಜನಕದ ಅಣುವಿನ ಮೇಲೆ ಬೀಳುತ್ತವೆ. ಈ ಶಕ್ತಿಯಿಂದಾಗಿ, O two ಅಣುವು ಎರಡು ಪ್ರತ್ಯೇಕ ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳಾಗಿ, ಅಂದರೆ O ಮತ್ತು O ಆಗಿ ವಿಭಜನೆಯಾಗುತ್ತದೆ. ನಂತರ, ಈ ಒಂಟಿ ಆಮ್ಲಜನಕ ಪರಮಾಣುವು ಮತ್ತೊಂದು O two ಅಣುವಿನೊಂದಿಗೆ ಸೇರಿಕೊಂಡು, ಮೂರು ಪರಮಾಣುಗಳಿರುವ ಓಝೋನ್ ಅಣುವನ್ನು, ಅಂದರೆ O three ಅನ್ನು ರೂಪಿಸುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ನಿರಂತರವಾಗಿ ನಡೆಯುತ್ತಿರುತ್ತದೆ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಓಝೋನ್ ($O_3$) ಹೇಗೆ ಉಂಟಾಗುತ್ತದೆ? ವಾತಾವರಣದ ಮೇಲ್ಭಾಗದಲ್ಲಿ, ಸೂರ್ಯನಿಂದ ಬರುವ ಅತಿ ಹೆಚ್ಚು ಶಕ್ತಿಯುಳ್ಳ ನೇರಳಾತೀತ ವಿಕಿರಣಗಳು (UV rays), ಆಮ್ಲಜನಕದ ಅಣುವಿನ ($O_2$) ಮೇಲೆ ಬೀಳುತ್ತವೆ. ಈ ಶಕ್ತಿಯಿಂದಾಗಿ, $O_2$ ಅಣುವು ಎರಡು ಪ್ರತ್ಯೇಕ ಆಮ್ಲಜನಕ ಪರಮಾಣುಗಳಾಗಿ ($O + O$) ವಿಭಜನೆಯಾಗುತ್ತದೆ. ನಂತರ, ಈ ಒಂಟಿ ಆಮ್ಲಜನಕ ಪರಮಾಣುವು ($O$) ಮತ್ತೊಂದು $O_2$ ಅಣುವಿನೊಂದಿಗೆ ಸೇರಿಕೊಂಡು, ಮೂರು ಪರಮಾಣುಗಳಿರುವ ಓಝೋನ್ ಅಣುವನ್ನು ($O_3$) ರೂಪಿಸುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ನಿರಂತರವಾಗಿ ನಡೆಯುತ್ತಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಓಝೋನ್ ($O_3$) ರಚನೆ ಒಂದು ನೈಸರ್ಗಿಕ ಪ್ರಕ್ರಿಯೆ.",
+    "ಹಂತ 1: UV ಕಿರಣಗಳು ಆಮ್ಲಜನಕದ ಅಣುವನ್ನು ($O_2$) ವಿಭಜಿಸುತ್ತವೆ. $O_2 \\rightarrow O + O$",
+    "ಹಂತ 2: ಸ್ವತಂತ್ರ ಆಮ್ಲಜನಕ ಪರಮಾಣು ($O$) ಮತ್ತೊಂದು $O_2$ ಅಣುವಿನೊಂದಿಗೆ ಸೇರುತ್ತದೆ.",
+    "ಹಂತ 3: ಓಝೋನ್ ಅಣು ($O_3$) ರೂಪುಗೊಳ್ಳುತ್ತದೆ. $O + O_2 \\rightarrow O_3$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "style_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the formation of ozone. Step 1: A UV photon hits an O2 molecule, splitting it into two O atoms. Step 2: A free O atom combines with another O2 molecule to form an O3 molecule.",
+    "labels": "UV Radiation, Oxygen Molecule (O2), Oxygen Atom (O), Ozone Molecule (O3)",
+    "scientific_significance": "Illustrates the photochemical process of ozone creation in the stratosphere, which is crucial for the formation of the ozone layer.",
+    "placeholder_note": "Image to be generated showing UV light splitting O2, and then a free O atom joining another O2 to make O3."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_13_concept_6_chunk_004"
+}

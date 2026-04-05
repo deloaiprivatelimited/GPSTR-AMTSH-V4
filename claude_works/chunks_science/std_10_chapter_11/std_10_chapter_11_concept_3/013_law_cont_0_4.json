@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "V-I ನಕ್ಷೆ (V-I Graph)",
+  "script": "ಓಮ್‌ನ ನಿಯಮವನ್ನು ಪಾಲಿಸುವ ವಾಹಕಕ್ಕಾಗಿ ನಾವು ವಿಭವಾಂತರ V ಮತ್ತು ಪ್ರವಾಹ I ನಡುವೆ ನಕ್ಷೆ ರಚಿಸಿದರೆ, ನಮಗೆ ಮೂಲಬಿಂದುವಿನಿಂದ ಹಾದುಹೋಗುವ ಒಂದು ಸರಳರೇಖೆ ಸಿಗುತ್ತದೆ. ಇಲ್ಲಿ, Y-ಅಕ್ಷದ ಮೇಲೆ ವಿಭವಾಂತರವನ್ನು ಮತ್ತು X-ಅಕ್ಷದ ಮೇಲೆ ಪ್ರವಾಹವನ್ನು ತೆಗೆದುಕೊಳ್ಳಲಾಗುತ್ತದೆ. ಈ ನಕ್ಷೆಯ ಇಳಿಜಾರು, ಅಂದರೆ ಸ್ಲೋಪ್, ನಮಗೆ ವಾಹಕದ ರೋಧವನ್ನು ನೀಡುತ್ತದೆ. ಗಣಿತದ ಪ್ರಕಾರ, ಇಳಿಜಾರು ಎಂದರೆ V ಭಾಗಿಸು I, ಇದು R ಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಸರಳರೇಖೆಯು V ಮತ್ತು I ನಡುವಿನ ನೇರ ಅನುಪಾತವನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ.",
+  "script_display": "ಓಮ್‌ನ ನಿಯಮವನ್ನು ಪಾಲಿಸುವ ವಾಹಕಕ್ಕಾಗಿ ವಿಭವಾಂತರ (V) ಮತ್ತು ಪ್ರವಾಹ (I) ನಡುವೆ ನಕ್ಷೆ ರಚಿಸಿದರೆ, ನಮಗೆ ಮೂಲಬಿಂದುವಿನಿಂದ (origin) ಹಾದುಹೋಗುವ ಒಂದು ಸರಳರೇಖೆ ಸಿಗುತ್ತದೆ.\n* **Y-ಅಕ್ಷ:** ವಿಭವಾಂತರ (V)\n* **X-ಅಕ್ಷ:** ವಿದ್ಯುತ್ ಪ್ರವಾಹ (I)\n\nಈ ನಕ್ಷೆಯ ಇಳಿಜಾರು (slope) ವಾಹಕದ ರೋಧವನ್ನು (R) ನೀಡುತ್ತದೆ.\n\nಇಳಿಜಾರು = ΔV / ΔI = R",
+  "display_bullets": [
+    "V-I ನಕ್ಷೆಯು ಮೂಲಬಿಂದುವಿನಿಂದ ಹಾದುಹೋಗುವ ಸರಳರೇಖೆಯಾಗಿದೆ.",
+    "ನಕ್ಷೆಯ ಇಳಿಜಾರು (Slope) ವಾಹಕದ ರೋಧವನ್ನು (R) ನೀಡುತ್ತದೆ.",
+    "ಇಳಿಜಾರು = V / I = R"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A V-I graph for an ohmic conductor. The x-axis is labeled 'ವಿದ್ಯುತ್ ಪ್ರವಾಹ (I) (A)' and the y-axis is labeled 'ವಿಭವಾಂತರ (V) (V)'. A straight line passes through the origin (0,0) with a constant positive slope.",
+    "labels": "X-ಅಕ್ಷ: ವಿದ್ಯುತ್ ಪ್ರವಾಹ (I), Y-ಅಕ್ಷ: ವಿಭವಾಂತರ (V), ಮೂಲಬಿಂದು (0,0), ಇಳಿಜಾರು = R",
+    "scientific_significance": "The linear relationship shown in the graph is the graphical representation of Ohm's Law. The slope of the line is a direct measure of the conductor's resistance.",
+    "placeholder_note": "Generate a standard V-I graph as described."
+  },
+  "chunk_id": "std_10_chapter_11_concept_3_chunk_013"
+}

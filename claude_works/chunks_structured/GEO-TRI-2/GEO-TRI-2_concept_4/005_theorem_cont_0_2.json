@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1",
+  "script": "ಸಾಧನೆಯ ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು ತ್ರಿಭುಜ ADE ಮತ್ತು ತ್ರಿಭುಜ BDE ಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಅನುಪಾತವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣದ ಸೂತ್ರ, ಅರ್ಧ ಗುಣ ಪಾದ ಗುಣ ಎತ್ತರ, ನಿಮಗೆ ನೆನಪಿರಬಹುದು. ತ್ರಿಭುಜ ADE ಯಲ್ಲಿ, AD ಯನ್ನು ಪಾದವಾಗಿ ತೆಗೆದುಕೊಂಡರೆ, EN ಅದರ ಎತ್ತರವಾಗುತ್ತದೆ. ಹಾಗಾಗಿ, ತ್ರಿಭುಜ ADE ಯ ವಿಸ್ತೀರ್ಣವು ಅರ್ಧ ಗುಣ AD ಗುಣ EN ಆಗುತ್ತದೆ. ಅದೇ ರೀತಿ, ತ್ರಿಭುಜ BDE ಯಲ್ಲಿ, DB ಯನ್ನು ಪಾದವಾಗಿ ತೆಗೆದುಕೊಂಡರೆ, EN ಅದರ ಎತ್ತರವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ, ತ್ರಿಭುಜ BDE ಯ ವಿಸ್ತೀರ್ಣವು ಅರ್ಧ ಗುಣ DB ಗುಣ EN ಆಗುತ್ತದೆ. ಈಗ ಇವೆರಡರ ಅನುಪಾತವನ್ನು ತೆಗೆದುಕೊಂಡರೆ, ಅರ್ಧ ಮತ್ತು EN ಎರಡೂ ಅಂಶ ಮತ್ತು ಛೇದದಲ್ಲಿ ರದ್ದಾಗುತ್ತವೆ. ನಮಗೆ AD ಭಾಗಿಸು DB ಉಳಿಯುತ್ತದೆ. ಇದನ್ನು ಸಮೀಕರಣ ಒಂದು ಎಂದು ಗುರುತಿಸೋಣ.",
+  "script_display": "ಸಾಧನೆಯ ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು $\\triangle ADE$ ಮತ್ತು $\\triangle BDE$ ಗಳ ವಿಸ್ತೀರ್ಣಗಳ ಅನುಪಾತವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ = $\\frac{1}{2} \\times \\text{ಪಾದ} \\times \\text{ಎತ್ತರ}$.\n\n*   $\\triangle ADE$ ಯ ವಿಸ್ತೀರ್ಣ, ವಿ(ADE) = $\\frac{1}{2} \\times AD \\times EN$.\n*   $\\triangle BDE$ ಯ ವಿಸ್ತೀರ್ಣ, ವಿ(BDE) = $\\frac{1}{2} \\times DB \\times EN$.\n*   ಅನುಪಾತ: $\\frac{\\text{ವಿ(ADE)}}{\\text{ವಿ(BDE)}} = \\frac{\\frac{1}{2} \\times AD \\times EN}{\\frac{1}{2} \\times DB \\times EN} = \\frac{AD}{DB}$ --- (1)",
+  "display_bullets": [
+    "$\\triangle ADE$ ಯ ವಿಸ್ತೀರ್ಣ, ವಿ(ADE) = $\\frac{1}{2} \\times AD \\times EN$.",
+    "$\\triangle BDE$ ಯ ವಿಸ್ತೀರ್ಣ, ವಿ(BDE) = $\\frac{1}{2} \\times DB \\times EN$.",
+    "ಅನುಪಾತ: $\\frac{\\text{ವಿ(ADE)}}{\\text{ವಿ(BDE)}} = \\frac{AD}{DB}$ --- (1)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "BPT ಸಾಧನೆಯ ಚಿತ್ರ. ತ್ರಿಭುಜಗಳಾದ ADE ಮತ್ತು BDE ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. EN ಲಂಬವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸಲಾಗಿದೆ.",
+    "labels": "A, D, B, E, N",
+    "mathematical_significance": "ಸಾಧನೆಯ ಮೊದಲ ಹಂತವನ್ನು ವಿವರಿಸುತ್ತದೆ, ಅಲ್ಲಿ ವಿಸ್ತೀರ್ಣಗಳ ಅನುಪಾತವು ಬಾಹುಗಳ ಅನುಪಾತಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+    "placeholder_note": "Image for BPT proof step 1."
+  },
+  "sub_type": "proof_step",
+  "chunk_id": "GEO-TRI-2_concept_4_chunk_005"
+}

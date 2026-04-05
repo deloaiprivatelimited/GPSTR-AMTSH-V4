@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಎತ್ತರ (h) vs ಓರೆ ಎತ್ತರ (l)",
+  "script": "ವಿದ್ಯಾರ್ಥಿಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಮಾಡುವ ಒಂದು ಗೊಂದಲವನ್ನು ಈಗ ಸರಿಪಡಿಸೋಣ. ಶಂಕುವಿನಲ್ಲಿ ಎತ್ತರ ಮತ್ತು ಓರೆ ಎತ್ತರ ಎಂಬ ಎರಡು ವಿಭಿನ್ನ ಅಳತೆಗಳಿವೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ, h ಎಂದು ಗುರುತಿಸಿರುವುದು ಲಂಬ ಎತ್ತರ. ಇದು ಶಂಕುವಿನ ಒಳಗೆ, ಶೃಂಗದಿಂದ ಪಾದದ ಕೇಂದ್ರಕ್ಕೆ ನೇರವಾಗಿರುತ್ತದೆ. ಆದರೆ l ಎಂದು ಗುರುತಿಸಿರುವುದು ಓರೆ ಎತ್ತರ. ಇದು ಶಂಕುವಿನ ಹೊರ ಮೇಲ್ಮೈಯಲ್ಲಿದ್ದು, ಶೃಂಗದಿಂದ ಪಾದದ ವೃತ್ತದ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವಿಗೆ ಇರುವ ಓರೆಯಾದ ದೂರವಾಗಿದೆ. ಇವೆರಡೂ ಸಮಾನವಲ್ಲ. h ಯಾವಾಗಲೂ l ಗಿಂತ ಚಿಕ್ಕದಾಗಿರುತ್ತದೆ.",
+  "script_display": "ವಿದ್ಯಾರ್ಥಿಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಮಾಡುವ ಒಂದು ಗೊಂದಲವನ್ನು ಈಗ ಸರಿಪಡಿಸೋಣ. ಶಂಕುವಿನಲ್ಲಿ 'ಎತ್ತರ' (h) ಮತ್ತು 'ಓರೆ ಎತ್ತರ' (l) ಎಂಬ ಎರಡು ವಿಭಿನ್ನ ಅಳತೆಗಳಿವೆ. ಚಿತ್ರದಲ್ಲಿ ಗಮನಿಸಿ: 'h' ಎಂದು ಗುರುತಿಸಿರುವುದು ಲಂಬ ಎತ್ತರ. ಇದು ಶಂಕುವಿನ ಒಳಗೆ, ಶೃಂಗದಿಂದ ಪಾದದ ಕೇಂದ್ರಕ್ಕೆ ನೇರವಾಗಿರುತ್ತದೆ. ಆದರೆ 'l' ಎಂದು ಗುರುತಿಸಿರುವುದು ಓರೆ ಎತ್ತರ. ಇದು ಶಂಕುವಿನ ಹೊರ ಮೇಲ್ಮೈಯಲ್ಲಿದ್ದು, ಶೃಂಗದಿಂದ ಪಾದದ ವೃತ್ತದ ಮೇಲಿನ ಯಾವುದೇ ಬಿಂದುವಿಗೆ ಇರುವ ಓರೆಯಾದ ದೂರವಾಗಿದೆ. ಇವೆರಡೂ ಸಮಾನವಲ್ಲ. 'h' ಯಾವಾಗಲೂ 'l' ಗಿಂತ ಚಿಕ್ಕದಾಗಿರುತ್ತದೆ ($h < l$).",
+  "display_bullets": [
+    "ಎತ್ತರ (h): ಶೃಂಗದಿಂದ ಪಾದದ ಕೇಂದ್ರಕ್ಕೆ ಇರುವ ಲಂಬ ದೂರ (ಆಂತರಿಕ).",
+    "ಓರೆ ಎತ್ತರ (l): ಶೃಂಗದಿಂದ ಪಾದದ ಅಂಚಿಗೆ ಇರುವ ಓರೆ ದೂರ (ಬಾಹ್ಯ).",
+    "ಇವೆರಡೂ ವಿಭಿನ್ನ ಅಳತೆಗಳು ಮತ್ತು ಸಮಾನವಾಗಿರುವುದಿಲ್ಲ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right circular cone with its cross-section visible. The vertical height 'h' is a dashed line inside. The slant height 'l' is a solid line on the surface. The radius 'r' is a line on the base. The right-angled triangle formed by h, r, and l is highlighted in a different color.",
+    "labels": "ಎತ್ತರ (h), ಓರೆ ಎತ್ತರ (l), ತ್ರಿಜ್ಯ (r), ಲಂಬಕೋನ ತ್ರಿಭುಜ",
+    "mathematical_significance": "Visually differentiates between height (h) and slant height (l), and shows their relationship via a right-angled triangle, setting the stage for the Pythagorean theorem connection.",
+    "placeholder_note": "Image to be generated. Crucial to make h and l look distinct."
+  },
+  "chunk_id": "MEN-VOL-3_concept_1_chunk_011"
+}

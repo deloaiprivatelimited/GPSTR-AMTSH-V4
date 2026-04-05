@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಾಗಕೋಶದ ಸ್ಥಾನ ಮತ್ತು ರಚನೆ",
+  "script": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಹೂವಿನ ಪುರುಷ ಪ್ರಜನನ ಭಾಗವಾದ ಕೇಸರವನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಕೇಸರವು ಎರಡು ಭಾಗಗಳನ್ನು ಹೊಂದಿದೆ: ಒಂದು ಉದ್ದನೆಯ ದಾರದಂತಹ ಕೇಸರದಂಡ ಮತ್ತು ಅದರ ತುದಿಯಲ್ಲಿರುವ ಪರಾಗಕೋಶ. ಪರಾಗಕೋಶವು ಸಾಮಾನ್ಯವಾಗಿ ಹಳದಿ ಬಣ್ಣದ ಸಣ್ಣ ಚೀಲದಂತೆ ಕಾಣುತ್ತದೆ. ನೀವು ದಾಸವಾಳದ ಹೂವನ್ನು ನೋಡಿದರೆ, ಈ ರಚನೆಯನ್ನು ಸುಲಭವಾಗಿ ಗುರುತಿಸಬಹುದು. ಈ ಪರಾಗಕೋಶದ ಒಳಗೆ ಸಾವಿರಾರು ಸೂಕ್ಷ್ಮವಾದ ಪರಾಗರೇಣುಗಳು ಉತ್ಪತ್ತಿಯಾಗುತ್ತವೆ. ಇವೇ ಮುಂದೆ ಸಂತಾನೋತ್ಪತ್ತಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+  "script_display": "ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಹೂವಿನ ಪುರುಷ ಪ್ರಜನನ ಭಾಗವಾದ ಕೇಸರವನ್ನು (Stamen) ತೋರಿಸಲಾಗಿದೆ. ಕೇಸರವು ಎರಡು ಭಾಗಗಳನ್ನು ಹೊಂದಿದೆ: ಒಂದು ಉದ್ದನೆಯ ದಾರದಂತಹ ಕೇಸರದಂಡ (Filament) ಮತ್ತು ಅದರ ತುದಿಯಲ್ಲಿರುವ ಪರಾಗಕೋಶ (Anther). ಪರಾಗಕೋಶವು ಸಾಮಾನ್ಯವಾಗಿ ಹಳದಿ ಬಣ್ಣದ ಸಣ್ಣ ಚೀಲದಂತೆ ಕಾಣುತ್ತದೆ. ನೀವು ದಾಸವಾಳದ ಹೂವನ್ನು ನೋಡಿದರೆ, ಈ ರಚನೆಯನ್ನು ಸುಲಭವಾಗಿ ಗುರುತಿಸಬಹುದು. ಈ ಪರಾಗಕೋಶದ ಒಳಗೆ ಸಾವಿರಾರು ಸೂಕ್ಷ್ಮವಾದ ಪರಾಗರೇಣುಗಳು (pollen grains) ಉತ್ಪತ್ತಿಯಾಗುತ್ತವೆ. ಇವೇ ಮುಂದೆ ಸಂತಾನೋತ್ಪತ್ತಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+  "display_bullets": [
+    "ಕೇಸರ = ಕೇಸರದಂಡ (Filament) + ಪರಾಗಕೋಶ (Anther).",
+    "ಪರಾಗಕೋಶವು ಕೇಸರದಂಡದ ತುದಿಯಲ್ಲಿರುವ ಚೀಲದಂತಹ ರಚನೆ.",
+    "ಇದು ಪರಾಗರೇಣುಗಳನ್ನು (pollen grains) ಒಳಗೊಂಡಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a stamen, clearly showing the anther at the tip of the filament. The anther is shown releasing pollen grains.",
+    "labels": "Anther (ಪರಾಗಕೋಶ), Filament (ಕೇಸರದಂಡ), Pollen Grains (ಪರಾಗರೇಣುಗಳು)",
+    "scientific_significance": "Illustrates the structure of the stamen and the location of the anther, which is the site of pollen production.",
+    "placeholder_note": "Image to be generated. Show a close-up of a single stamen."
+  },
+  "chunk_id": "std_7_chapter_8_concept_4_chunk_007"
+}

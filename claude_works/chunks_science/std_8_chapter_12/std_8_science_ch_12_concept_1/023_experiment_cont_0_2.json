@@ -1,0 +1,35 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ವಿಧಾನ: ಹಂತ 2 ಮತ್ತು ವೀಕ್ಷಣೆ",
+  "script": "ರೀಫಿಲ್ ಅನ್ನು ಉಜ್ಜಿದ ನಂತರ, ಅದನ್ನು ತಕ್ಷಣವೇ ಮೇಜಿನ ಮೇಲಿರುವ ಸಣ್ಣ ಕಾಗದದ ಚೂರುಗಳ ಹತ್ತಿರ ತನ್ನಿ. ರೀಫಿಲ್ ಕಾಗದವನ್ನು ಮುಟ್ಟದಂತೆ ನೋಡಿಕೊಳ್ಳಿ, ಕೇವಲ ಹತ್ತಿರ ತನ್ನಿ. ನೀವು ಏನು ಗಮನಿಸುತ್ತೀರಿ? ಆಶ್ಚರ್ಯ! ಕಾಗದದ ಚೂರುಗಳು ರೀಫಿಲ್‌ನ ಕಡೆಗೆ ಹಾರಿ, ಅದಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಇದು ಮ್ಯಾಜಿಕ್ ಅಲ್ಲ, ಇದು ವಿಜ್ಞಾನ. ಆವೇಶಪೂರಿತ ರೀಫಿಲ್, ಆವೇಶರಹಿತ ಕಾಗದದ ಚೂರುಗಳನ್ನು ಆಕರ್ಷಿಸುತ್ತಿದೆ. ಇದನ್ನೇ ನಾವು ಸ್ಥಾಯೀ ವಿದ್ಯುತ್ ಆಕರ್ಷಣೆ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ರೀಫಿಲ್ ಅನ್ನು ಉಜ್ಜಿದ ನಂತರ, ಅದನ್ನು ತಕ್ಷಣವೇ ಮೇಜಿನ ಮೇಲಿರುವ ಸಣ್ಣ ಕಾಗದದ ಚೂರುಗಳ ಹತ್ತಿರ ತನ್ನಿ. ರೀಫಿಲ್ ಕಾಗದವನ್ನು ಮುಟ್ಟದಂತೆ ನೋಡಿಕೊಳ್ಳಿ, ಕೇವಲ ಹತ್ತಿರ ತನ್ನಿ. ನೀವು ಏನು ಗಮನಿಸುತ್ತೀರಿ? ಆಶ್ಚರ್ಯ! ಕಾಗದದ ಚೂರುಗಳು ರೀಫಿಲ್‌ನ ಕಡೆಗೆ ಹಾರಿ, ಅದಕ್ಕೆ ಅಂಟಿಕೊಳ್ಳುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. ಇದು ಮ್ಯಾಜಿಕ್ ಅಲ್ಲ, ಇದು ವಿಜ್ಞಾನ. ಆವೇಶಪೂರಿತ ರೀಫಿಲ್, ಆವೇಶರಹಿತ ಕಾಗದದ ಚೂರುಗಳನ್ನು ಆಕರ್ಷಿಸುತ್ತಿದೆ. ಇದನ್ನೇ ನಾವು ಸ್ಥಾಯೀ ವಿದ್ಯುತ್ ಆಕರ್ಷಣೆ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಆವೇಶಪೂರಿತ ರೀಫಿಲ್ ಅನ್ನು ಕಾಗದದ ಚೂರುಗಳ ಹತ್ತಿರ ತನ್ನಿ.",
+    "ವೀಕ್ಷಣೆ: ಕಾಗದದ ಚೂರುಗಳು ರೀಫಿಲ್‌ನಿಂದ ಆಕರ್ಷಿಸಲ್ಪಡುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Illustration of the charged plastic refill being brought near the small paper bits. The paper bits are shown jumping up and sticking to the refill.",
+    "labels": "ಆವೇಶಪೂರಿತ ರೀಫಿಲ್, ಕಾಗದದ ಚೂರುಗಳು, ಆಕರ್ಷಣೆ",
+    "scientific_significance": "Demonstrates the attraction between a charged object and neutral objects.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_science_ch_12_concept_1_chunk_023"
+}

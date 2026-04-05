@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪರಕೀಯ ಪರಾಗಸ್ಪರ್ಶ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+  "script": "ಈ ಚಿತ್ರದಲ್ಲಿ ಪರಕೀಯ ಪರಾಗಸ್ಪರ್ಶ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಇಲ್ಲಿ 'ಗಿಡ ಎ' ಮತ್ತು 'ಗಿಡ ಬಿ' ಎಂಬ ಎರಡು ಬೇರೆ ಬೇರೆ ಗಿಡಗಳಿವೆ. ಒಂದು ಜೇನುನೊಣವು 'ಗಿಡ ಎ' ಯ ಹೂವಿನಿಂದ ಮಕರಂದವನ್ನು ಹೀರುವಾಗ ಅದರ ದೇಹಕ್ಕೆ ಹಳದಿ ಬಣ್ಣದ ಪರಾಗರೇಣುಗಳು ಅಂಟಿಕೊಳ್ಳುತ್ತವೆ. ನಂತರ, ಅದೇ ಜೇನುನೊಣವು ಆಹಾರಕ್ಕಾಗಿ 'ಗಿಡ ಬಿ' ಯ ಹೂವಿನ ಮೇಲೆ ಕುಳಿತಾಗ, ಆ ಪರಾಗರೇಣುಗಳು ಈ ಹೂವಿನ ಶಲಾಕಾಗ್ರಕ್ಕೆ ವರ್ಗಾವಣೆಯಾಗುತ್ತವೆ. ಇದೇ ಪರಕೀಯ ಪರಾಗಸ್ಪರ್ಶ. ಇಲ್ಲಿ ಜೇನುನೊಣವು ಪರಾಗಸ್ಪರ್ಶದ ವಾಹಕವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.",
+  "script_display": "ಈ ಚಿತ್ರದಲ್ಲಿ ಪರಕೀಯ ಪರಾಗಸ್ಪರ್ಶ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂಬುದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಬಹುದು. ಇಲ್ಲಿ 'ಗಿಡ A' ಮತ್ತು 'ಗಿಡ B' ಎಂಬ ಎರಡು ಬೇರೆ ಬೇರೆ ಗಿಡಗಳಿವೆ. ಒಂದು ಜೇನುನೊಣವು 'ಗಿಡ A' ಯ ಹೂವಿನಿಂದ ಮಕರಂದವನ್ನು ಹೀರುವಾಗ ಅದರ ದೇಹಕ್ಕೆ ಹಳದಿ ಬಣ್ಣದ ಪರಾಗರೇಣುಗಳು ಅಂಟಿಕೊಳ್ಳುತ್ತವೆ. ನಂತರ, ಅದೇ ಜೇನುನೊಣವು ಆಹಾರಕ್ಕಾಗಿ 'ಗಿಡ B' ಯ ಹೂವಿನ ಮೇಲೆ ಕುಳಿತಾಗ, ಆ ಪರಾಗರೇಣುಗಳು ಈ ಹೂವಿನ ಶಲಾಕಾಗ್ರಕ್ಕೆ ವರ್ಗಾವಣೆಯಾಗುತ್ತವೆ. ಇದೇ ಪರಕೀಯ ಪರಾಗಸ್ಪರ್ಶ. ಇಲ್ಲಿ ಜೇನುನೊಣವು ಪರಾಗಸ್ಪರ್ಶದ ವಾಹಕವಾಗಿ (pollinating agent) ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಗಿಡ A ದ ಹೂವಿನಿಂದ ಪರಾಗರೇಣುಗಳು ವರ್ಗಾವಣೆ.",
+    "ವಾಹಕ (ಉದಾ: ಜೇನುನೊಣ) ಮೂಲಕ ಸಾಗಾಣಿಕೆ.",
+    "ಗಿಡ B ಯ ಹೂವಿನ ಶಲಾಕಾಗ್ರವನ್ನು ತಲುಪುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_visual_left_text",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Illustration showing two separate flowering plants, labeled 'Plant A' and 'Plant B'. A bee is shown flying from a flower on Plant A to a flower on Plant B. A dotted line with an arrow indicates the path of the bee and the transfer of pollen.",
+    "labels": "Plant A, Plant B, Pollen, Bee (Pollinating Agent), Stigma",
+    "scientific_significance": "Visually demonstrates the mechanism of cross-pollination, highlighting the role of a pollinating agent in transferring pollen between two distinct plants.",
+    "placeholder_note": "Image to be generated showing a bee transferring pollen between two plants."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_7_concept_7_chunk_014"
+}

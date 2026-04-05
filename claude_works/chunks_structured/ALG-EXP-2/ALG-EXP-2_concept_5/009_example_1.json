@@ -1,0 +1,32 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ದ್ವಿಪದೋಕ್ತಿಗಳ ಗುಣಾಕಾರ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನಾವು ಎರಡು ದ್ವಿಪದೋಕ್ತಿಗಳ ಜೋಡಿಗಳನ್ನು ಗುಣಿಸಬೇಕಾಗಿದೆ. ಮೊದಲನೆಯದಾಗಿ, ಎ ಪ್ಲಸ್ ಏಳು ಮತ್ತು ಬಿ ಮೈನಸ್ ಐದು. ಎರಡನೆಯದಾಗಿ, ಎ ಸ್ಕ್ವೇರ್ಡ್ ಪ್ಲಸ್ ಎರಡು ಬಿ ಸ್ಕ್ವೇರ್ಡ್ ಮತ್ತು ಐದು ಎ ಮೈನಸ್ ಮೂರು ಬಿ. ನಾವು ಒಂದೊಂದಾಗಿ ಇವುಗಳನ್ನು ಬಿಡಿಸೋಣ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಇಲ್ಲಿ ನಾವು ಎರಡು ದ್ವಿಪದೋಕ್ತಿಗಳ ಜೋಡಿಗಳನ್ನು ಗುಣಿಸಬೇಕಾಗಿದೆ. ಮೊದಲನೆಯದಾಗಿ, $(a + 7)$ ಮತ್ತು $(b – 5)$. ಎರಡನೆಯದಾಗಿ, $(a^2 + 2b^2)$ ಮತ್ತು $(5a – 3b)$. ನಾವು ಒಂದೊಂದಾಗಿ ಇವುಗಳನ್ನು ಬಿಡಿಸೋಣ.",
+  "display_bullets": [
+    "ಗುಣಿಸಿ: (i) $(a + 7)$ ಮತ್ತು $(b – 5)$",
+    "ಗುಣಿಸಿ: (ii) $(a^2 + 2b^2)$ ಮತ್ತು $(5a – 3b)$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EXP-2_example_9",
+  "chunk_id": "ALG-EXP-2_concept_5_chunk_009"
+}

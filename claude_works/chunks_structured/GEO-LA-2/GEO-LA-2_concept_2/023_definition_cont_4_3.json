@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣ: ಸಮಾನತೆ",
+  "script": "ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳ ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ಮತ್ತು ಉಪಯುಕ್ತವಾದ ಗುಣಲಕ್ಷಣವೆಂದರೆ, ಅವು ಯಾವಾಗಲೂ ಪರಸ್ಪರ ಸಮನಾಗಿರುತ್ತವೆ. ಇದು ರೇಖಾಗಣಿತದ ಒಂದು ಮೂಲಭೂತ ಪ್ರಮೇಯವಾಗಿದೆ. ಇದರರ್ಥ, ನಮ್ಮ ಚಿತ್ರದಲ್ಲಿ, ಕೋನ AOC ಯ ಅಳತೆಯು ಕೋನ BOD ಯ ಅಳತೆಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಹಾಗೆಯೇ, ಕೋನ AOD ಯ ಅಳತೆಯು ಕೋನ BOC ಯ ಅಳತೆಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಕೋನ AOC ಯು 60 ಡಿಗ್ರಿ ಆಗಿದ್ದರೆ, ಆಗ ಅದರ ಶೃಂಗಾಭಿಮುಖ ಕೋನವಾದ ಕೋನ BOD ಕೂಡ 60 ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ. ಈ ಗುಣಲಕ್ಷಣವನ್ನು ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+  "script_display": "ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳ ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ಮತ್ತು ಉಪಯುಕ್ತವಾದ ಗುಣಲಕ್ಷಣವೆಂದರೆ, ಅವು ಯಾವಾಗಲೂ ಪರಸ್ಪರ ಸಮನಾಗಿರುತ್ತವೆ. ಇದು ರೇಖಾಗಣಿತದ ಒಂದು ಮೂಲಭೂತ ಪ್ರಮೇಯವಾಗಿದೆ. ಇದರರ್ಥ, ನಮ್ಮ ಚಿತ್ರದಲ್ಲಿ, $\\angle AOC$ ಯ ಅಳತೆಯು $\\angle BOD$ ಯ ಅಳತೆಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಹಾಗೆಯೇ, $\\angle AOD$ ಯ ಅಳತೆಯು $\\angle BOC$ ಯ ಅಳತೆಗೆ ಸಮನಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, $\\angle AOC = 60^\\circ$ ಆಗಿದ್ದರೆ, ಆಗ ಅದರ ಶೃಂಗಾಭಿಮುಖ ಕೋನವಾದ $\\angle BOD$ ಕೂಡ $60^\\circ$ ಆಗಿರುತ್ತದೆ. ಈ ಗುಣಲಕ್ಷಣವನ್ನು ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಲು ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಪ್ರಮೇಯ: ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮನಾಗಿರುತ್ತವೆ.",
+    "$\\angle AOC = \\angle BOD$",
+    "$\\angle AOD = \\angle BOC$"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_1",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\angle AOC = \\angle BOD \\\\ \\angle AOD = \\angle BOC",
+    "placeholder_note": "A box highlighting the equality of vertically opposite angles."
+  },
+  "sub_type": "property_showcase",
+  "chunk_id": "GEO-LA-2_concept_2_chunk_023"
+}

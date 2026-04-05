@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಋಣಾತ್ಮಕ x-ನಿರ್ದೇಶಾಂಕ",
+  "script": "ಇದೇ ರೀತಿ, ಇನ್ನೊಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿರುವ Q ಬಿಂದುವನ್ನು ಗಮನಿಸಿ, ಅದರ ನಿರ್ದೇಶಾಂಕಗಳು ಮೈನಸ್ 6, ಮೈನಸ್ 2. ಈ ಬಿಂದುವು y-ಅಕ್ಷದ ಎಡಭಾಗದಲ್ಲಿದೆ. y-ಅಕ್ಷದಿಂದ ಈ ಬಿಂದುವಿಗೆ ಇರುವ ಲಂಬ ದೂರ 6 ಏಕಮಾನಗಳು. ಆದರೆ, ನಾವು ಋಣಾತ್ಮಕ x-ಅಕ್ಷದ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತಿರುವುದರಿಂದ, ನಾವು ಈ ದೂರವನ್ನು ಮೈನಸ್ 6 ಎಂದು ಪರಿಗಣಿಸುತ್ತೇವೆ. ಹಾಗಾಗಿ, Q ಬಿಂದುವಿನ x-ನಿರ್ದೇಶಾಂಕ ಅಥವಾ ಕ್ಷಿತಿಜಸೂಚಕ ಮೈನಸ್ 6 ಆಗಿದೆ. x-ನಿರ್ದೇಶಾಂಕದ ಚಿಹ್ನೆಯು ಬಿಂದುವು y-ಅಕ್ಷದ ಬಲಕ್ಕೆ ಇದೆಯೋ ಅಥವಾ ಎಡಕ್ಕೆ ಇದೆಯೋ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "script_display": "ಇದೇ ರೀತಿ, ಇನ್ನೊಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ಚಿತ್ರದಲ್ಲಿರುವ $Q(-6, -2)$ ಬಿಂದುವನ್ನು ಪರಿಗಣಿಸಿ. ಈ ಬಿಂದುವು y-ಅಕ್ಷದ ಎಡಭಾಗದಲ್ಲಿದೆ. y-ಅಕ್ಷದಿಂದ ಈ ಬಿಂದುವಿಗೆ ಇರುವ ಲಂಬ ದೂರ 6 ಏಕಮಾನಗಳು. ಆದರೆ, ಇದು ಋಣಾತ್ಮಕ x-ಅಕ್ಷದ ದಿಕ್ಕಿನಲ್ಲಿರುವುದರಿಂದ, ಇದರ ಕ್ಷಿತಿಜಸೂಚಕ -6 ಆಗಿದೆ. x-ನಿರ್ದೇಶಾಂಕದ ಚಿಹ್ನೆಯು ಬಿಂದುವು y-ಅಕ್ಷದ ಬಲಕ್ಕೆ ಇದೆಯೋ ಅಥವಾ ಎಡಕ್ಕೆ ಇದೆಯೋ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಈಗ $Q(-6, -2)$ ಬಿಂದುವನ್ನು ಪರಿಗಣಿಸಿ.",
+    "ಈ ಬಿಂದುವು y-ಅಕ್ಷದ ಎಡಭಾಗದಲ್ಲಿದೆ.",
+    "y-ಅಕ್ಷದಿಂದ ಈ ಬಿಂದುವಿಗೆ ಇರುವ ಲಂಬ ದೂರ 6 ಏಕಮಾನಗಳು.",
+    "ಆದರೆ, ಇದು ಋಣಾತ್ಮಕ x-ಅಕ್ಷದ ದಿಕ್ಕಿನಲ್ಲಿರುವುದರಿಂದ, ಇದರ ಕ್ಷಿತಿಜಸೂಚಕ -6 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The same Cartesian plane as the previous slide, now focusing on point Q(-6, -2). A dotted line is drawn from Q perpendicular to the y-axis, meeting at point R. Another dotted line is drawn from Q perpendicular to the x-axis, meeting at point S. The distance OS along the x-axis is highlighted and labeled '-6'. The text 'y-ಅಕ್ಷದಿಂದ ಲಂಬ ದೂರ' is shown along the line segment QS.",
+    "labels": "Q(-6,-2), O, S, R, x-axis, y-axis",
+    "mathematical_significance": "Explains a negative x-coordinate by showing a point on the left side of the y-axis.",
+    "placeholder_note": "Use figure 3.10 from the context, but add highlights for point Q as described."
+  },
+  "chunk_id": "COOR-BAS-1_concept_1_chunk_030"
+}

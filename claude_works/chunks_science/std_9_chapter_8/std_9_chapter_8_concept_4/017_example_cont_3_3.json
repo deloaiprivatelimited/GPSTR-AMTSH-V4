@@ -1,0 +1,42 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ಬಲದ ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ, ನಾವು ನ್ಯೂಟನ್‌ರ ಎರಡನೇ ನಿಯಮವನ್ನು ಬಳಸಿ ಬಲವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಸೂತ್ರ F ಸಮ m ಗುಣಿಸು a. ನಮಗೆ ದ್ರವ್ಯರಾಶಿ m 0.02 ಕಿಲೋಗ್ರಾಂ ಎಂದು ಮತ್ತು ವೇಗೋತ್ಕರ್ಷ a ಮೈನಸ್ 0.02 ಮೀಟರ್ ಪರ್ ಸೆಕೆಂಡ್ ಸ್ಕ್ವೇರ್ ಎಂದು ತಿಳಿದಿದೆ. ಆದ್ದರಿಂದ, ಬಲ F ಸಮ 0.02 ಗುಣಿಸು ಮೈನಸ್ 0.02. ಇದರ ಗುಣಲಬ್ಧ ಮೈನಸ್ 0.0004 ನ್ಯೂಟನ್. ಇದೇ ನಮಗೆ ಬೇಕಾದ ಘರ್ಷಣಾ ಬಲ.",
+  "script_display": "ನ್ಯೂಟನ್‌ರ ಎರಡನೇ ನಿಯಮ, F = ma, ಬಳಸಿ ಬಲವನ್ನು (F) ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+  "display_bullets": [
+    "ಸೂತ್ರ: F = m × a",
+    "ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದಾಗ:",
+    "F = 0.02 kg × (-0.02 m/s²)",
+    "F = -0.0004 N"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "physics_blue",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_8_example_8.5",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಬಲವನ್ನು (F) ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು.",
+      "justification": "F = ma ಸೂತ್ರವನ್ನು ಬಳಸಿ. F = 0.02 kg * (-0.02 m/s²) = -0.0004 N"
+    }
+  ],
+  "chunk_id": "std_9_chapter_8_concept_4_chunk_017"
+}

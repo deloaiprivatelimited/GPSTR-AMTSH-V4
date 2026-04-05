@@ -1,0 +1,81 @@
+{
+  "module_id": "std_8_chapter_3_concept_2",
+  "chapter_code": "std_8_chapter_3",
+  "voice": "Achernar",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:37:38",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "555d98f70acaf0dce388497d91c8b196",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 25.971,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 34,
+      "generated_at": "2026-04-02 14:36:25"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "78ddce989403fc21e71de299d2bae506",
+      "wav_file": "003_definition_0.wav",
+      "duration": 36.691,
+      "slide_title": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 44,
+      "generated_at": "2026-04-02 14:36:38"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "006054aaa73552b1978c0938ec284065",
+      "wav_file": "001_intro_0.wav",
+      "duration": 49.011,
+      "slide_title": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು",
+      "type": "intro",
+      "script_words": 74,
+      "generated_at": "2026-04-02 14:36:40"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "a5eaa7eebc4a736c1778f7be1acfdfb1",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 47.691,
+      "slide_title": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು ಹೇಗೆ ಉಂಟಾಗುತ್ತವೆ?",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 14:36:40"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "5644183ab6f48e6dba84eeb27b9329c4",
+      "wav_file": "006_recap_0.wav",
+      "duration": 40.731,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 48,
+      "generated_at": "2026-04-02 14:37:10"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achernar",
+      "script_hash": "d72db01e51370d5cad12f48c9c51076f",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 49.171,
+      "slide_title": "ಬರಿದಾಗುವ ಮತ್ತು ಬರಿದಾಗದ ಸಂಪನ್ಮೂಲಗಳು",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 14:37:38"
+    }
+  }
+}

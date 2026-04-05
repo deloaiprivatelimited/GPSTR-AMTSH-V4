@@ -1,0 +1,36 @@
+{
+  "type": "step_walkthrough",
+  "slide_title": "ವಿಧಾನ: ಅಂಡಾಶಯದ ಪರಿಶೀಲನೆ",
+  "script": "ನಮ್ಮ ಚಟುವಟಿಕೆಯ ಕೊನೆಯ ಹಂತಕ್ಕೆ ಬಂದಿದ್ದೇವೆ. ಈಗ ನೀವು ಬೇರ್ಪಡಿಸಿದ ಅಂಡಾಶಯವನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದನ್ನು ಬ್ಲೇಡ್‌ನಿಂದ ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಉದ್ದವಾಗಿ ಅಥವಾ ಅಡ್ಡವಾಗಿ ಸೀಳಿ. ಈಗ ವರ್ಧಕ ಮಸೂರದ ಸಹಾಯದಿಂದ ಅದರೊಳಗಿನ ರಚನೆಗಳನ್ನು ಗಮನಿಸಿ. ನಿಮಗೆ ಸಣ್ಣ ಮಣಿಗಳಂತಹ ರಚನೆಗಳು ಕಾಣಿಸುತ್ತವೆಯೇ? ಇವುಗಳೇ ಅಂಡಕಗಳು. ಪ್ರತಿಯೊಂದು ಅಂಡಕವು ಒಂದು ಸ್ತ್ರೀ ಲಿಂಗಾಣುವನ್ನು, ಅಂದರೆ ಅಂಡಾಣುವನ್ನು ಹೊಂದಿರುತ್ತದೆ. ನಿಷೇಚನದ ನಂತರ ಈ ಅಂಡಕಗಳೇ ಬೀಜಗಳಾಗಿ ಮತ್ತು ಅಂಡಾಶಯವು ಹಣ್ಣಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+  "script_display": "ನಮ್ಮ ಚಟುವಟಿಕೆಯ ಕೊನೆಯ ಹಂತಕ್ಕೆ ಬಂದಿದ್ದೇವೆ. ಈಗ ನೀವು ಬೇರ್ಪಡಿಸಿದ ಅಂಡಾಶಯವನ್ನು ತೆಗೆದುಕೊಂಡು, ಅದನ್ನು ಬ್ಲೇಡ್‌ನಿಂದ ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಉದ್ದವಾಗಿ ಅಥವಾ ಅಡ್ಡವಾಗಿ ಸೀಳಿ. ಈಗ ವರ್ಧಕ ಮಸೂರದ ಸಹಾಯದಿಂದ ಅದರೊಳಗಿನ ರಚನೆಗಳನ್ನು ಗಮನಿಸಿ. ನಿಮಗೆ ಸಣ್ಣ ಮಣಿಗಳಂತಹ ರಚನೆಗಳು ಕಾಣಿಸುತ್ತವೆಯೇ? ಇವುಗಳೇ ಅಂಡಕಗಳು (Ovules). ಪ್ರತಿಯೊಂದು ಅಂಡಕವು ಒಂದು ಸ್ತ್ರೀ ಲಿಂಗಾಣುವನ್ನು (female gamete), ಅಂದರೆ ಅಂಡಾಣುವನ್ನು ಹೊಂದಿರುತ್ತದೆ. ನಿಷೇಚನದ ನಂತರ ಈ ಅಂಡಕಗಳೇ ಬೀಜಗಳಾಗಿ ಮತ್ತು ಅಂಡಾಶಯವು ಹಣ್ಣಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬೇರ್ಪಡಿಸಿದ ಅಂಡಾಶಯವನ್ನು ಬ್ಲೇಡ್‌ನಿಂದ ಎಚ್ಚರಿಕೆಯಿಂದ ಸೀಳಿರಿ.",
+    "ವರ್ಧಕ ಮಸೂರವನ್ನು ಬಳಸಿ ಅದರ ಒಳಭಾಗವನ್ನು ವೀಕ್ಷಿಸಿ.",
+    "ಒಳಗೆ ಕಾಣುವ ಸಣ್ಣ, ಮಣಿಯಂತಹ ರಚನೆಗಳೇ ಅಂಡಕಗಳು (Ovules)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An illustration showing a longitudinal section (L.S.) of a flower's ovary, cut open with a blade. A magnifying glass is positioned over it, showing a magnified view of the small, bead-like ovules inside.",
+    "labels": "ಅಂಡಾಶಯ (Ovary), ಅಂಡಕ (Ovule)",
+    "scientific_significance": "Shows the internal structure of the ovary and the location of the ovules, which contain the female gametes and develop into seeds after fertilization.",
+    "placeholder_note": "Show a cross-section or longitudinal section of the ovary with ovules visible inside."
+  },
+  "chunk_id": "std_7_chapter_8_concept_4_chunk_028"
+}

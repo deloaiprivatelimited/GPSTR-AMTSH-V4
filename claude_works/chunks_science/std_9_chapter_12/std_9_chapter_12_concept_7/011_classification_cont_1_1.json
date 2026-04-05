@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಷ್ಟಕ್ಕೆ ಜೈವಿಕ ಕಾರಣಗಳು",
+  "script": "ಈಗ ಜೈವಿಕ ಕಾರಣಗಳ ಬಗ್ಗೆ ನೋಡೋಣ. ಇವುಗಳಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಮೂರು ವಿಧ. ಮೊದಲನೆಯದು ಕೀಟಗಳು. ಇವು ಧಾನ್ಯಗಳನ್ನು ತಿಂದು, ಅವುಗಳಲ್ಲಿ ರಂಧ್ರ ಮಾಡಿ, ತಮ್ಮ ಹಿಕ್ಕೆಗಳಿಂದ ಮಲಿನಗೊಳಿಸುತ್ತವೆ. ಎರಡನೆಯದು ದಂಶಕಗಳು, ಅಂದರೆ ಇಲಿಗಳು. ಇವು ಧಾನ್ಯಗಳನ್ನು ತಿನ್ನುವುದಲ್ಲದೆ, ಮೂತ್ರ ಮತ್ತು ಹಿಕ್ಕೆಗಳಿಂದ ರೋಗಗಳನ್ನು ಹರಡುತ್ತವೆ. ಮೂರನೆಯದು ಶಿಲೀಂಧ್ರಗಳು ಮತ್ತು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು. ಇವು ತೇವಾಂಶವಿದ್ದಾಗ ಬೆಳೆದು, ಧಾನ್ಯಗಳನ್ನು ಕೊಳೆಸುತ್ತವೆ ಮತ್ತು ವಿಷಕಾರಿ ವಸ್ತುಗಳನ್ನು ಉತ್ಪಾದಿಸಬಹುದು. ಇದರಿಂದ ಧಾನ್ಯ ಮೊಳಕೆಯೊಡೆಯುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಈಗ ಜೈವಿಕ ಕಾರಣಗಳ (Biotic factors) ಬಗ್ಗೆ ನೋಡೋಣ. ಇವುಗಳಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಮೂರು ವಿಧ. ಮೊದಲನೆಯದು ಕೀಟಗಳು (Insects). ಇವು ಧಾನ್ಯಗಳನ್ನು ತಿಂದು, ಅವುಗಳಲ್ಲಿ ರಂಧ್ರ ಮಾಡಿ, ತಮ್ಮ ಹಿಕ್ಕೆಗಳಿಂದ ಮಲಿನಗೊಳಿಸುತ್ತವೆ. ಎರಡನೆಯದು ದಂಶಕಗಳು (Rodents), ಅಂದರೆ ಇಲಿಗಳು. ಇವು ಧಾನ್ಯಗಳನ್ನು ತಿನ್ನುವುದಲ್ಲದೆ, ಮೂತ್ರ ಮತ್ತು ಹಿಕ್ಕೆಗಳಿಂದ ರೋಗಗಳನ್ನು ಹರಡುತ್ತವೆ. ಮೂರನೆಯದು ಶಿಲೀಂಧ್ರಗಳು ಮತ್ತು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು (Fungi and Bacteria). ಇವು ತೇವಾಂಶವಿದ್ದಾಗ ಬೆಳೆದು, ಧಾನ್ಯಗಳನ್ನು ಕೊಳೆಸುತ್ತವೆ ಮತ್ತು ವಿಷಕಾರಿ ವಸ್ತುಗಳನ್ನು (toxins) ಉತ್ಪಾದಿಸಬಹುದು. ಇದರಿಂದ ಧಾನ್ಯ ಮೊಳಕೆಯೊಡೆಯುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕೀಟಗಳು (Insects)",
+    "ದಂಶಕಗಳು (Rodents)",
+    "ಶಿಲೀಂಧ್ರಗಳು ಮತ್ತು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು (Fungi & Bacteria)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "style_a",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A composite image with three parts. Top: A close-up of a grain weevil on a wheat kernel. Middle: A rat nibbling on a torn jute sack of grains. Bottom: A close-up of corn kernels covered in green and black mold (fungi).",
+    "labels": "ಕೀಟಗಳು, ದಂಶಕಗಳು, ಶಿಲೀಂಧ್ರಗಳು",
+    "scientific_significance": "Illustrates the three main types of biotic factors that cause grain storage loss.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_7_chunk_011"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಕೆಲಸ ಮಾಡಿದ ಉದಾಹರಣೆ: ಸರಾಸರಿ ಜವ",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಕಾಯವು 16 ಮೀಟರ್ ದೂರವನ್ನು 4 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಚಲಿಸುತ್ತದೆ. ನಂತರ, ಅದು ಮತ್ತೆ 16 ಮೀಟರ್ ದೂರವನ್ನು 2 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಚಲಿಸುತ್ತದೆ. ಹಾಗಾದರೆ, ಆ ಕಾಯದ ಸರಾಸರಿ ಜವ ಎಷ್ಟು? ಈ ಪ್ರಶ್ನೆಯಲ್ಲಿ, ನಮಗೆ ಎರಡು ಭಾಗಗಳಲ್ಲಿ ಚಲಿಸಿದ ದೂರ ಮತ್ತು ತೆಗೆದುಕೊಂಡ ಸಮಯವನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಸರಾಸರಿ ಜವ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಒಂದು ಕಾಯವು 16 ಮೀಟರ್ ದೂರವನ್ನು 4 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಚಲಿಸುತ್ತದೆ. ನಂತರ, ಅದು ಮತ್ತೆ 16 ಮೀಟರ್ ದೂರವನ್ನು 2 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಚಲಿಸುತ್ತದೆ. ಹಾಗಾದರೆ, ಆ ಕಾಯದ ಸರಾಸರಿ ಜವ ಎಷ್ಟು? ಈ ಪ್ರಶ್ನೆಯಲ್ಲಿ, ನಮಗೆ ಎರಡು ಭಾಗಗಳಲ್ಲಿ ಚಲಿಸಿದ ದೂರ ಮತ್ತು ತೆಗೆದುಕೊಂಡ ಸಮಯವನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಕಂಡುಹಿಡಿಯಬೇಕಾಗಿರುವುದು ಸರಾಸರಿ ಜವ.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಒಂದು ಕಾಯವು 16 m ದೂರವನ್ನು 4 s ನಲ್ಲಿ ಮತ್ತು ಮತ್ತೆ 16 m ದೂರವನ್ನು 2 s ನಲ್ಲಿ ಚಲಿಸಿದರೆ, ಅದರ ಸರಾಸರಿ ಜವ ಎಷ್ಟು?",
+    "ನೀಡಲಾಗಿದೆ (Given):",
+    "ಚಲಿಸಿದ ಮೊದಲ ದೂರ (d₁) = 16 m, ತೆಗೆದುಕೊಂಡ ಕಾಲ (t₁) = 4 s",
+    "ಚಲಿಸಿದ ಎರಡನೇ ದೂರ (d₂) = 16 m, ತೆಗೆದುಕೊಂಡ ಕಾಲ (t₂) = 2 s",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು (Find): ಸರಾಸರಿ ಜವ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple line diagram showing an object's path. A point A, an arrow to point B labeled '16 m, 4 s', and another arrow from B to point C labeled '16 m, 2 s'.",
+    "labels": "Path, Distance, Time",
+    "scientific_significance": "Visual representation of the two parts of the journey described in the problem.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "std_9_chapter_7_example_7.1",
+  "chunk_id": "std_9_chapter_7_concept_2_chunk_033"
+}

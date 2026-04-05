@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪೂರ್ಣಾಂಕಗಳ ಹೋಲಿಕೆ (ಭಾಗ 1)",
+  "script": "ಮುಂದಿನ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣ ಹೋಲಿಕೆ. ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲಿನ ಅತ್ಯಂತ ಸರಳ ನಿಯಮವೆಂದರೆ, ಯಾವುದೇ ಎರಡು ಸಂಖ್ಯೆಗಳಲ್ಲಿ, ಬಲಭಾಗದಲ್ಲಿರುವ ಸಂಖ್ಯೆಯು ಯಾವಾಗಲೂ ದೊಡ್ಡದಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಐದು ಮತ್ತು ಎರಡನ್ನು ಹೋಲಿಸಿದರೆ, ಐದು ಎರಡರ ಬಲಭಾಗದಲ್ಲಿ ಇರುವುದರಿಂದ, ಐದು ಎರಡಕ್ಕಿಂತ ದೊಡ್ಡದು. ಇದೇ ತರ್ಕವನ್ನು ಬಳಸಿ, ಯಾವುದೇ ಧನ ಪೂರ್ಣಾಂಕವು ಸೊನ್ನೆಗಿಂತ ಮತ್ತು ಯಾವುದೇ ಋಣ ಪೂರ್ಣಾಂಕಕ್ಕಿಂತ ದೊಡ್ಡದು. ಏಕೆಂದರೆ ಎಲ್ಲಾ ಧನ ಪೂರ್ಣಾಂಕಗಳು ಸೊನ್ನೆಯ ಮತ್ತು ಎಲ್ಲಾ ಋಣ ಪೂರ್ಣಾಂಕಗಳ ಬಲಭಾಗದಲ್ಲಿವೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಎಂಬುದು ಮೈನಸ್ ಹತ್ತಕ್ಕಿಂತ ದೊಡ್ಡದು.",
+  "script_display": "ಮುಂದಿನ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣ ಹೋಲಿಕೆ (Comparison). ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲಿನ ಅತ್ಯಂತ ಸರಳ ನಿಯಮವೆಂದರೆ, ಯಾವುದೇ ಎರಡು ಸಂಖ್ಯೆಗಳಲ್ಲಿ, ಬಲಭಾಗದಲ್ಲಿರುವ ಸಂಖ್ಯೆಯು ಯಾವಾಗಲೂ ದೊಡ್ಡದಾಗಿರುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, $5$ ಮತ್ತು $2$ ಅನ್ನು ಹೋಲಿಸಿದರೆ, $5$ ஆனது $2$-ರ ಬಲಭಾಗದಲ್ಲಿ ಇರುವುದರಿಂದ, $5 > 2$. ಇದೇ ತರ್ಕವನ್ನು ಬಳಸಿ, ಯಾವುದೇ ಧನ ಪೂರ್ಣಾಂಕವು ಸೊನ್ನೆಗಿಂತ ಮತ್ತು ಯಾವುದೇ ಋಣ ಪೂರ್ಣಾಂಕಕ್ಕಿಂತ ದೊಡ್ಡದು. ಏಕೆಂದರೆ ಎಲ್ಲಾ ಧನ ಪೂರ್ಣಾಂಕಗಳು ಸೊನ್ನೆಯ ಮತ್ತು ಎಲ್ಲಾ ಋಣ ಪೂರ್ಣಾಂಕಗಳ ಬಲಭಾಗದಲ್ಲಿವೆ. ಉದಾಹರಣೆಗೆ, $1 > -10$.",
+  "display_bullets": [
+    "ಹೋಲಿಕೆ (Comparison): ಸಂಖ್ಯಾ ರೇಖೆಯ ಮೇಲೆ ಯಾವುದೇ ಎರಡು ಸಂಖ್ಯೆಗಳಲ್ಲಿ, ಬಲಭಾಗದಲ್ಲಿರುವ ಸಂಖ್ಯೆಯು ಯಾವಾಗಲೂ ದೊಡ್ಡದು.",
+    "ಯಾವುದೇ ಧನ ಪೂರ್ಣಾಂಕವು ಸೊನ್ನೆಗಿಂತ ಮತ್ತು ಯಾವುದೇ ಋಣ ಪೂರ್ಣಾಂಕಕ್ಕಿಂತ ದೊಡ್ಡದು."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A number line from -10 to +10. The numbers 5 and 2 are highlighted, with an arrow pointing from 2 to 5 indicating 'greater'. Another highlight shows 1 is to the right of -10.",
+    "labels": "Number line, Comparison, Greater than",
+    "mathematical_significance": "Visually demonstrates the core principle of comparison on a number line: position determines value. Rightward position means a greater value.",
+    "placeholder_note": "Use the same number line as before. Highlight '5' and '2', with a label '5 > 2'. Also, circle '1' and '-10' to show their relative positions."
+  },
+  "chunk_id": "NS-INT-1_concept_2_chunk_004"
+}

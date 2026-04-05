@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "BPT ಮತ್ತು ಅದರ ವಿಲೋಮ: ಒಂದು ಹೋಲಿಕೆ",
+  "script": "ಈಗ, ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯ ಮತ್ತು ಅದರ ವಿಲೋಮ ಪ್ರಮೇಯದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇವೆರಡೂ ಒಂದಕ್ಕೊಂದು ಪೂರಕ. ಮೂಲ BPT ಪ್ರಮೇಯದಲ್ಲಿ, ರೇಖೆಯು ಸಮಾಂತರವಾಗಿದೆ ಎಂಬುದು ದತ್ತಾಂಶ. ಅಂದರೆ, DE ಪ್ಯಾರಲಲ್ ಟು BC ಎಂದು ಕೊಟ್ಟರೆ, ಅದರ ಪರಿಣಾಮವಾಗಿ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿರುತ್ತವೆ, ಅಂದರೆ AD ಬೈ DB ಈಕ್ವಲ್ಸ್ AE ಬೈ EC. ಆದರೆ, ವಿಲೋಮ ಪ್ರಮೇಯದಲ್ಲಿ ಇದು ಉಲ್ಟಾ ಆಗುತ್ತದೆ. ಇಲ್ಲಿ, ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿವೆ ಎಂಬುದು ದತ್ತಾಂಶ. ಅಂದರೆ, AD ಬೈ DB ಈಕ್ವಲ್ಸ್ AE ಬೈ EC ಎಂದು ಕೊಟ್ಟರೆ, ಅದರ ಪರಿಣಾಮವಾಗಿ ರೇಖೆಯು ಸಮಾಂತರವಾಗಿರುತ್ತದೆ, ಅಂದರೆ DE ಪ್ಯಾರಲಲ್ ಟು BC. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಈಗ, ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯ (BPT) ಮತ್ತು ಅದರ ವಿಲೋಮ ಪ್ರಮೇಯದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇವೆರಡೂ ಒಂದಕ್ಕೊಂದು ಪೂರಕ. ಮೂಲ BPT ಪ್ರಮೇಯದಲ್ಲಿ, ರೇಖೆಯು ಸಮಾಂತರವಾಗಿದೆ ಎಂಬುದು ದತ್ತಾಂಶ. ಅಂದರೆ, 'If $DE || BC$' ಎಂದು ಕೊಟ್ಟರೆ, ಅದರ ಪರಿಣಾಮವಾಗಿ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿರುತ್ತವೆ, 'then $\\frac{AD}{DB} = \\frac{AE}{EC}$'. ಆದರೆ, ವಿಲೋಮ ಪ್ರಮೇಯದಲ್ಲಿ ಇದು ಉಲ್ಟಾ ಆಗುತ್ತದೆ. ಇಲ್ಲಿ, ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿವೆ ಎಂಬುದು ದತ್ತಾಂಶ. ಅಂದರೆ, 'If $\\frac{AD}{DB} = \\frac{AE}{EC}$' ಎಂದು ಕೊಟ್ಟರೆ, ಅದರ ಪರಿಣಾಮವಾಗಿ ರೇಖೆಯು ಸಮಾಂತರವಾಗಿರುತ್ತದೆ, 'then $DE || BC$'. ಈ ವ್ಯತ್ಯಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "standard_blue",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A two-column table comparing BPT and its converse. Left column header: 'ಮೂಲ BPT ಪ್ರಮೇಯ'. Right column header: 'BPT ವಿಲೋಮ ಪ್ರಮೇಯ'. Left content: 'ದತ್ತ: DE || BC. ಫಲಿತಾಂಶ: AD/DB = AE/EC'. Right content: 'ದತ್ತ: AD/DB = AE/EC. ಫಲಿತಾಂಶ: DE || BC'. Arrows indicating the direction of logic would be helpful."
+  },
+  "sub_type": "comparison",
+  "chunk_id": "GEO-TRI-2_concept_4_chunk_016"
+}

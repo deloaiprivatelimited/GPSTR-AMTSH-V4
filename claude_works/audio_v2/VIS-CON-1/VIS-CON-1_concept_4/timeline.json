@@ -1,0 +1,100 @@
+{
+  "module_id": "VIS-CON-1_concept_4",
+  "voice": "Algenib",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 8,
+  "total_duration": 354.408,
+  "total_duration_formatted": "5:54",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "VIS-CON-1_concept_4_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ದತ್ತ ಬಾಹು ಮತ್ತು ಕರ್ಣವಿರುವ ಆಯತದ ರಚನೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 50.691,
+      "duration": 50.691,
+      "script_words": 71
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_4_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "start": 51.291,
+      "end": 98.022,
+      "duration": 46.731,
+      "script_words": 65
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_4_chunk_003",
+      "chunk_file": "003_example_0.json",
+      "wav_file": "003_example_0.wav",
+      "slide_title": "ಉದಾಹರಣೆ: ಆಯತದ ರಚನೆ",
+      "type": "worked_example",
+      "start": 98.622,
+      "end": 144.713,
+      "duration": 46.091,
+      "script_words": 63
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_4_chunk_004",
+      "chunk_file": "004_example_cont_0_1.json",
+      "wav_file": "004_example_cont_0_1.wav",
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 1",
+      "type": "worked_example",
+      "start": 145.313,
+      "end": 186.084,
+      "duration": 40.771,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_4_chunk_005",
+      "chunk_file": "005_example_cont_0_2.json",
+      "wav_file": "005_example_cont_0_2.wav",
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 2",
+      "type": "worked_example",
+      "start": 186.684,
+      "end": 231.015,
+      "duration": 44.331,
+      "script_words": 75
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_4_chunk_006",
+      "chunk_file": "006_example_cont_0_3.json",
+      "wav_file": "006_example_cont_0_3.wav",
+      "slide_title": "ರಚನೆಯ ಹಂತಗಳು: ಭಾಗ 3",
+      "type": "worked_example",
+      "start": 231.615,
+      "end": 284.946,
+      "duration": 53.331,
+      "script_words": 77
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_4_chunk_007",
+      "chunk_file": "007_example_cont_0_4.json",
+      "wav_file": "007_example_cont_0_4.wav",
+      "slide_title": "ಅಂತಿಮ ಫಲಿತಾಂಶ ಮತ್ತು ಪ್ರಮುಖ ಅಂಶ",
+      "type": "worked_example",
+      "start": 285.546,
+      "end": 317.757,
+      "duration": 32.211,
+      "script_words": 42
+    },
+    {
+      "chunk_id": "VIS-CON-1_concept_4_chunk_008",
+      "chunk_file": "008_recap_0.json",
+      "wav_file": "008_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಆಯತದ ರಚನೆ",
+      "type": "recap",
+      "start": 318.357,
+      "end": 353.808,
+      "duration": 35.451,
+      "script_words": 50
+    }
+  ]
+}

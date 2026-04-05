@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ವೃಕ್ಷಕಿರೀಟ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈಗ ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಒಂದು ಮರವನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಮರದ ನೇರವಾದ, ದಪ್ಪನಾದ ಭಾಗವನ್ನು ಕಾಂಡ ಎನ್ನುತ್ತೇವೆ. ಈ ಕಾಂಡದ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಹರಡಿಕೊಂಡಿರುವ ರೆಂಬೆಗಳು, ಕೊಂಬೆಗಳು ಮತ್ತು ಎಲೆಗಳಿರುವ ಸಂಪೂರ್ಣ ಹಸಿರು ಭಾಗ ಇದೆಯಲ್ಲ, ಅದನ್ನೇ ನಾವು ವೃಕ್ಷಕಿರೀಟ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ನೆನಪಿಡಿ, ವೃಕ್ಷಕಿರೀಟ ಎಂಬುದು ಒಂದೇ ಮರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪದ. ಪ್ರತಿಯೊಂದು ಮರಕ್ಕೂ ತನ್ನದೇ ಆದ ಆಕಾರ ಮತ್ತು ಗಾತ್ರದ ವೃಕ್ಷಕಿರೀಟ ಇರುತ್ತದೆ.",
+  "script_display": "ಈಗ ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಇಲ್ಲಿ ಒಂದು ಮರವನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಮರದ ನೇರವಾದ, ದಪ್ಪನಾದ ಭಾಗವನ್ನು ಕಾಂಡ (Trunk) ಎನ್ನುತ್ತೇವೆ. ಈ ಕಾಂಡದ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಹರಡಿಕೊಂಡಿರುವ ರೆಂಬೆಗಳು, ಕೊಂಬೆಗಳು ಮತ್ತು ಎಲೆಗಳಿರುವ ಸಂಪೂರ್ಣ ಹಸಿರು ಭಾಗ ಇದೆಯಲ್ಲ, ಅದನ್ನೇ ನಾವು ವೃಕ್ಷಕಿರೀಟ (Crown) ಎಂದು ಕರೆಯುತ್ತೇವೆ. ನೆನಪಿಡಿ, ವೃಕ್ಷಕಿರೀಟ ಎಂಬುದು ಒಂದೇ ಮರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪದ. ಪ್ರತಿಯೊಂದು ಮರಕ್ಕೂ ತನ್ನದೇ ಆದ ಆಕಾರ ಮತ್ತು ಗಾತ್ರದ ವೃಕ್ಷಕಿರೀಟ ಇರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಮರದ ಕಾಂಡದ (Trunk) ಮೇಲಿರುವ ಸಂಪೂರ್ಣ ಹಸಿರು ಭಾಗವೇ ವೃಕ್ಷಕಿರೀಟ.",
+    "ಇದು ರೆಂಬೆಗಳು, ಕೊಂಬೆಗಳು ಮತ್ತು ಎಲೆಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ.",
+    "ಪ್ರತಿ ಮರಕ್ಕೂ ತನ್ನದೇ ಆದ ವಿಶಿಷ್ಟ ವೃಕ್ಷಕಿರೀಟವಿರುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram of a single deciduous tree. The trunk is the main vertical stem. The entire leafy, branched part above the trunk is highlighted and labeled in Kannada as 'ವೃಕ್ಷಕಿರೀಟ (Crown)'. The trunk is labeled as 'ಕಾಂಡ (Trunk)'.",
+    "labels": "ವೃಕ್ಷಕಿರೀಟ, ಕಾಂಡ",
+    "scientific_significance": "Visually isolates the 'crown' of a tree, distinguishing it from the trunk, to help students understand the definition.",
+    "placeholder_note": "Image to be generated: A single tree with its crown and trunk clearly labeled."
+  },
+  "chunk_id": "std_7_chapter_12_concept_1_chunk_007"
+}

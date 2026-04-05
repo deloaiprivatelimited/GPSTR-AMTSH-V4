@@ -1,0 +1,81 @@
+{
+  "module_id": "std_9_chapter_4_concept_2",
+  "chapter_code": "std_9_chapter_4",
+  "voice": "Alnilam",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:39:40",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "87c2194bc32bc84ff01db8a33db60970",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 28.771,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "bullet_list",
+      "script_words": 43,
+      "generated_at": "2026-04-02 15:38:47"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "8a7608ae41469ffebb2c94dcf14571a3",
+      "wav_file": "001_intro_0.wav",
+      "duration": 47.611,
+      "slide_title": "ಥಾಮ್ಸನ್‌ರವರ ಪರಮಾಣು ಮಾದರಿ",
+      "type": "title_hero",
+      "script_words": 70,
+      "generated_at": "2026-04-02 15:38:51"
+    },
+    "003_property_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "c0aea59219d3763a18eed25386902530",
+      "wav_file": "003_property_0.wav",
+      "duration": 45.291,
+      "slide_title": "ಥಾಮ್ಸನ್‌ರವರ ಪರಮಾಣು ಮಾದರಿ: ಒಂದು ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 59,
+      "generated_at": "2026-04-02 15:38:59"
+    },
+    "005_property_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "1a2117f80c6302952adcf229b383ffc9",
+      "wav_file": "005_property_cont_0_2.wav",
+      "duration": 48.131,
+      "slide_title": "ಮಾದರಿಯ ನ್ಯೂನತೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 15:39:10"
+    },
+    "004_property_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "31a15a05c2a53e46c90e24a87d6e34ce",
+      "wav_file": "004_property_cont_0_1.wav",
+      "duration": 45.051,
+      "slide_title": "ಥಾಮ್ಸನ್‌ರವರ ಮಾದರಿಯ ಪ್ರತಿಪಾದನೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 15:39:17"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Alnilam",
+      "script_hash": "4082162570589e9b3f80eeb712381208",
+      "wav_file": "006_recap_0.wav",
+      "duration": 38.171,
+      "slide_title": "ಸಾರಾಂಶ: ಥಾಮ್ಸನ್‌ರವರ ಪರಮಾಣು ಮಾದರಿ",
+      "type": "recap",
+      "script_words": 53,
+      "generated_at": "2026-04-02 15:39:40"
+    }
+  }
+}

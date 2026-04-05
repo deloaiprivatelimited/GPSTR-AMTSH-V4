@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ತಾಪಮಾಪಕದ ವಿಧಗಳು",
+  "script": "ಎಲ್ಲಾ ತಾಪಮಾಪಕಗಳು ಒಂದೇ ರೀತಿ ಇರುವುದಿಲ್ಲ. ಅವುಗಳ ಬಳಕೆಗೆ ಅನುಗುಣವಾಗಿ ವಿಧಗಳಿವೆ. ಮೊದಲನೆಯದು, ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ. ಇದನ್ನು ಕ್ಲಿನಿಕಲ್ ಥರ್ಮಾಮೀಟರ್ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಇದರ ಮುಖ್ಯ ಬಳಕೆ ಮಾನವನ ದೇಹದ ತಾಪವನ್ನು ಅಳೆಯುವುದು. ಆದ್ದರಿಂದ, ಇದರ ವ್ಯಾಪ್ತಿ, ಅಂದರೆ ರೇಂಜ್, ಸಾಮಾನ್ಯವಾಗಿ 35 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ನಿಂದ 42 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ವರೆಗೆ ಮಾತ್ರ ಇರುತ್ತದೆ. ಎರಡನೆಯದು, ಪ್ರಯೋಗಾಲಯದ ತಾಪಮಾಪಕ. ಇದನ್ನು ಲ್ಯಾಬೊರೇಟರಿ ಥರ್ಮಾಮೀಟರ್ ಎನ್ನುತ್ತಾರೆ. ಇದನ್ನು ವೈಜ್ಞಾನಿಕ ಪ್ರಯೋಗಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ. ಇದರ ವ್ಯಾಪ್ತಿ ಹೆಚ್ಚು ವಿಸ್ತಾರವಾಗಿರುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ಮೈನಸ್ 10 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ನಿಂದ 110 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ವರೆಗೆ ಇರಬಹುದು.",
+  "script_display": "ಎಲ್ಲಾ ತಾಪಮಾಪಕಗಳು ಒಂದೇ ರೀತಿ ಇರುವುದಿಲ್ಲ. ಅವುಗಳ ಬಳಕೆಗೆ ಅನುಗುಣವಾಗಿ ವಿಧಗಳಿವೆ. ಮೊದಲನೆಯದು, ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ (Clinical Thermometer). ಇದರ ಮುಖ್ಯ ಬಳಕೆ ಮಾನವನ ದೇಹದ ತಾಪವನ್ನು ಅಳೆಯುವುದು. ಆದ್ದರಿಂದ, ಇದರ ವ್ಯಾಪ್ತಿ (Range), ಸಾಮಾನ್ಯವಾಗಿ 35°C ನಿಂದ 42°C ವರೆಗೆ ಮಾತ್ರ ಇರುತ್ತದೆ. ಎರಡನೆಯದು, ಪ್ರಯೋಗಾಲಯದ ತಾಪಮಾಪಕ (Laboratory Thermometer). ಇದನ್ನು ವೈಜ್ಞಾನಿಕ ಪ್ರಯೋಗಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ. ಇದರ ವ್ಯಾಪ್ತಿ ಹೆಚ್ಚು ವಿಸ್ತಾರವಾಗಿರುತ್ತದೆ, ಉದಾಹರಣೆಗೆ -10°C ನಿಂದ 110°C ವರೆಗೆ ಇರಬಹುದು.",
+  "display_bullets": [
+    "ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ (Clinical): ದೇಹದ ತಾಪ ಅಳೆಯಲು, ವ್ಯಾಪ್ತಿ: 35°C - 42°C.",
+    "ಪ್ರಯೋಗಾಲಯದ ತಾಪಮಾಪಕ (Laboratory): ಪ್ರಯೋಗಗಳಿಗಾಗಿ, ವ್ಯಾಪ್ತಿ: -10°C - 110°C."
+  ],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_a",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "{\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{|l|l|l|}\n\\hline\n\\textbf{ಲಕ್ಷಣ} & \\textbf{ವೈದ್ಯಕೀಯ ತಾಪಮಾಪಕ} & \\textbf{ಪ್ರಯೋಗಾಲಯದ ತಾಪಮಾಪಕ} \\\\\n\\hline\n\\text{ಬಳಕೆ} & \\text{ಮಾನವನ ದೇಹದ ತಾಪ} & \\text{ಪ್ರಯೋಗಾಲಯದ ವಸ್ತುಗಳು} \\\\\n\\hline\n\\text{ವ್ಯಾಪ್ತಿ (Range)} & 35^{\\circ} \\text{C} \\text{ ನಿಂದ } 42^{\\circ} \\text{C} & -10^{\\circ} \\text{C} \\text{ ನಿಂದ } 110^{\\circ} \\text{C} \\\\\n\\hline\n\\text{ವಿನ್ಯಾಸ} & \\text{ಕಂಕುಳ (constriction) ಇರುತ್ತದೆ} & \\text{ಕಂಕುಳ ಇರುವುದಿಲ್ಲ} \\\\\n\\hline\n\\end{array}}",
+    "placeholder_note": "A table comparing Clinical and Laboratory thermometers based on their use, range, and design (presence of a constriction)."
+  },
+  "sub_type": "split_comparison",
+  "chunk_id": "std_7_chapter_3_concept_1_chunk_008"
+}

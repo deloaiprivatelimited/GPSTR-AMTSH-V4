@@ -1,0 +1,35 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ನಿತ್ಯಸಮೀಕರಣದ ಸಾಧನೆ: ಭಾಗ 1",
+  "script": "ಈ ನಿತ್ಯಸಮೀಕರಣದ ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ನಮ್ಮ ಆರಂಭಿಕ ಬಿಂದು, ಎಂದಿನಂತೆ, ಲಂಬಕೋನ ತ್ರಿಭುಜ ಎ ಬಿ ಸಿ ಯಲ್ಲಿನ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ. ಇಲ್ಲಿ ಕೋನ ಬಿ ತೊಂಬತ್ತು ಡಿಗ್ರಿ. ಪ್ರಮೇಯದ ಪ್ರಕಾರ, ಎ ಬಿ ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ಬಿ ಸಿ ಸ್ಕ್ವೇರ್ ಈಕ್ವಲ್ಸ್ ಎ ಸಿ ಸ್ಕ್ವೇರ್. ಅಂದರೆ, ಎರಡು ಬಾಹುಗಳ ವರ್ಗಗಳ ಮೊತ್ತವು ವಿಕರ್ಣದ ವರ್ಗಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಈ ಮೂಲ ಸಮೀಕರಣದಿಂದ ನಾವು ಕೋಟ್ಯಾಂಜೆಂಟ್ ಮತ್ತು ಕೋಸೀಕೆಂಟ್ ಇರುವ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಪಡೆಯಬೇಕು. ಇದಕ್ಕಾಗಿ, ನಾವು ಸಮೀಕರಣದ ಎಲ್ಲಾ ಪದಗಳನ್ನು ತ್ರಿಭುಜದ ಒಂದು ನಿರ್ದಿಷ್ಟ ಬಾಹುವಿನ ವರ್ಗದಿಂದ ಭಾಗಿಸಬೇಕಾಗುತ್ತದೆ. ಯಾವ ಬಾಹು ಎಂದು ಯೋಚಿಸಿ.",
+  "script_display": "ಈ ನಿತ್ಯಸಮೀಕರಣದ ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ನಮ್ಮ ಆರಂಭಿಕ ಬಿಂದು, ಎಂದಿನಂತೆ, ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿನ ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ. ಇಲ್ಲಿ $\\angle B = 90^\\circ$. ಪ್ರಮೇಯದ ಪ್ರಕಾರ, $AB^2 + BC^2 = AC^2$. ಅಂದರೆ, ಎರಡು ಬಾಹುಗಳ ವರ್ಗಗಳ ಮೊತ್ತವು ವಿಕರ್ಣದ ವರ್ಗಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಈ ಮೂಲ ಸಮೀಕರಣದಿಂದ ನಾವು ಕೋಟ್ಯಾಂಜೆಂಟ್ ಮತ್ತು ಕೋಸೀಕೆಂಟ್ ಇರುವ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಪಡೆಯಬೇಕು. ಇದಕ್ಕಾಗಿ, ನಾವು ಸಮೀಕರಣದ ಎಲ್ಲಾ ಪದಗಳನ್ನು ತ್ರಿಭುಜದ ಒಂದು ನಿರ್ದಿಷ್ಟ ಬಾಹುವಿನ ವರ್ಗದಿಂದ ಭಾಗಿಸಬೇಕಾಗುತ್ತದೆ. ಯಾವ ಬಾಹು ಎಂದು ಯೋಚಿಸಿ.",
+  "display_bullets": [
+    "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, $\\angle B = 90^\\circ$.",
+    "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯದಿಂದ ಪ್ರಾರಂಭಿಸಿ: $AB^2 + BC^2 = AC^2$."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right-angled triangle ABC, right-angled at B. Angle A is marked. Side AB is the adjacent side, BC is the opposite side, and AC is the hypotenuse with respect to angle A.",
+    "labels": "A, B, C, Adjacent (AB), Opposite (BC), Hypotenuse (AC)",
+    "mathematical_significance": "Illustrates the sides of a right-angled triangle used to define trigonometric ratios.",
+    "placeholder_note": "Image to be generated for a right-angled triangle."
+  },
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_020"
+}

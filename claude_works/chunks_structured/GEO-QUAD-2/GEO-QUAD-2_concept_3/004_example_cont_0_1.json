@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 1-3",
+  "script": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಮಗೆ ತ್ರಿಭುಜ ABC ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಮತ್ತು AB ಸಮನಾಗಿದೆ AC ಎಂದು ತಿಳಿದಿದೆ. ಸಮಬಾಹುಗಳಿಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಕೋನಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, ಕೋನ ABC ಯು ಕೋನ ACB ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನ ಪ್ರಮೇಯವನ್ನು ಬಳಸೋಣ. ಬಾಹ್ಯಕೋನ PAC ಯು ಅಂತರ್ ಅಭಿಮುಖ ಕೋನಗಳಾದ ಕೋನ ABC ಮತ್ತು ಕೋನ ACB ಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಮೊದಲನೇ ಹಂತದ ಫಲಿತಾಂಶವನ್ನು ಇಲ್ಲಿ ಬಳಸೋಣ. ಕೋನ ABC ಬದಲಿಗೆ ಕೋನ ACB ಎಂದು ಬರೆದರೆ, ಕೋನ PAC ಸಮನಾಗಿದೆ ಕೋನ ACB ಪ್ಲಸ್ ಕೋನ ACB, ಅಂದರೆ ಎರಡು ಕೋನ ACB. ಇದನ್ನು ಸಮೀಕರಣ ಒಂದು ಎಂದು ಗುರುತಿಸೋಣ.",
+  "script_display": "ಸಾಧನೆಯನ್ನು ಪ್ರಾರಂಭಿಸೋಣ. ಮೊದಲನೇ ಹಂತದಲ್ಲಿ, ನಮಗೆ $∆ ABC$ ಒಂದು ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ಮತ್ತು $AB = AC$ ಎಂದು ತಿಳಿದಿದೆ. ಸಮಬಾಹುಗಳಿಗೆ ಅಭಿಮುಖವಾಗಿರುವ ಕೋನಗಳು ಸಮವಾಗಿರುವುದರಿಂದ, $∠ ABC = ∠ ACB$. ಎರಡನೇ ಹಂತದಲ್ಲಿ, ತ್ರಿಭುಜದ ಬಾಹ್ಯಕೋನ ಪ್ರಮೇಯವನ್ನು ಬಳಸೋಣ. ಬಾಹ್ಯಕೋನ $∠ PAC$ ಯು ಅಂತರ್ ಅಭಿಮುಖ ಕೋನಗಳಾದ $∠ ABC$ ಮತ್ತು $∠ ACB$ ಗಳ ಮೊತ್ತಕ್ಕೆ ಸಮ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಮೊದಲನೇ ಹಂತದ ಫಲಿತಾಂಶವನ್ನು ಇಲ್ಲಿ ಬಳಸೋಣ. $∠ ABC$ ಬದಲಿಗೆ $∠ ACB$ ಎಂದು ಬರೆದರೆ, $∠ PAC = ∠ ACB + ∠ ACB$, ಅಂದರೆ $2 ∠ ACB$. ಇದನ್ನು ಸಮೀಕರಣ (1) ಎಂದು ಗುರುತಿಸೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ ABC. ಬಾಹು BA ಯನ್ನು P ವರೆಗೆ ವೃದ್ಧಿಸಿದೆ. ಬಾಹ್ಯಕೋನ PAC ಯ ಕೋನಾರ್ಧಕ AD. CD ಯನ್ನು AB ಗೆ ಸಮಾಂತರವಾಗಿ ಎಳೆಯಲಾಗಿದೆ.",
+    "labels": "ಶೃಂಗಗಳು A, B, C, D ಮತ್ತು ಬಿಂದು P.",
+    "mathematical_significance": "ಉದಾಹರಣೆ 3 ರ ಜ್ಯಾಮಿತೀಯ ಸನ್ನಿವೇಶವನ್ನು ವಿವರಿಸುತ್ತದೆ. AB = AC, AD ಕೋನಾರ್ಧಕ, ಮತ್ತು CD || AB ಎಂಬ ಸಂಬಂಧಗಳನ್ನು ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for example 3, showing the described geometric setup."
+  },
+  "source_example_id": "GEO-QUAD-2_example_3",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$AB = AC$ (ದತ್ತ). ಆದ್ದರಿಂದ, $∠ ABC = ∠ ACB$.",
+      "justification": "ಸಮಬಾಹುಗಳಿಗೆ ಅಭಿಮುಖ ಕೋನಗಳು ಸಮ."
+    },
+    {
+      "step": 2,
+      "action_display": "$∠ PAC = ∠ ABC + ∠ ACB$.",
+      "justification": "ಬಾಹ್ಯಕೋನ ಪ್ರಮೇಯ."
+    },
+    {
+      "step": 3,
+      "action_display": "$∠ PAC = ∠ ACB + ∠ ACB = 2 ∠ ACB$ --- (1)",
+      "justification": "ಹಂತ 1 ರಿಂದ $∠ ABC = ∠ ACB$ ಎಂದು ಆದೇಶಿಸಿದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-QUAD-2_concept_3_chunk_004"
+}

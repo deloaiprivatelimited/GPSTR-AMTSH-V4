@@ -1,0 +1,37 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಚಟುವಟಿಕೆ: ಉಜ್ಜುವಿಕೆಯಿಂದ ಆವೇಶ",
+  "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಒಂದು ಸರಳವಾದ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಸ್ಥಾಯೀ ವಿದ್ಯುತ್ ಹೇಗೆ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ ಎಂದು ತಿಳಿಯೋಣ. ಈ ಚಟುವಟಿಕೆಗೆ ನಮಗೆ ಬೇಕಾಗಿರುವ ವಸ್ತುಗಳು ಬಹಳ ಸುಲಭವಾಗಿ ಸಿಗುತ್ತವೆ. ನಮಗೆ ಒಂದು ಖಾಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ರೀಫಿಲ್, ಒಂದು ಪಾಲಿಥೀನ್ ಚೀಲದ ತುಂಡು, ಮತ್ತು ಕೆಲವು ಸಣ್ಣ ಕಾಗದದ ಚೂರುಗಳು ಬೇಕು. ಈ ವಸ್ತುಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳಿ. ಈ ಚಟುವಟಿಕೆಯು ಘರ್ಷಣೆಯಿಂದ ವಸ್ತುಗಳು ಹೇಗೆ ವಿದ್ಯುದಾವೇಶವನ್ನು ಪಡೆಯುತ್ತವೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಈ ಪಾಠದಲ್ಲಿ ನಾವು ಒಂದು ಸರಳವಾದ ಚಟುವಟಿಕೆಯ ಮೂಲಕ ಸ್ಥಾಯೀ ವಿದ್ಯುತ್ (static electricity) ಹೇಗೆ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ ಎಂದು ತಿಳಿಯೋಣ. ಈ ಚಟುವಟಿಕೆಗೆ ನಮಗೆ ಬೇಕಾಗಿರುವ ವಸ್ತುಗಳು ಬಹಳ ಸುಲಭವಾಗಿ ಸಿಗುತ್ತವೆ. ನಮಗೆ ಒಂದು ಖಾಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ರೀಫಿಲ್, ಒಂದು ಪಾಲಿಥೀನ್ ಚೀಲದ ತುಂಡು, ಮತ್ತು ಕೆಲವು ಸಣ್ಣ ಕಾಗದದ ಚೂರುಗಳು ಬೇಕು. ಈ ವಸ್ತುಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿಕೊಳ್ಳಿ. ಈ ಚಟುವಟಿಕೆಯು ಘರ್ಷಣೆಯಿಂದ ವಸ್ತುಗಳು ಹೇಗೆ ವಿದ್ಯುದಾವೇಶವನ್ನು (electric charge) ಪಡೆಯುತ್ತವೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಅಗತ್ಯವಿರುವ ವಸ್ತುಗಳು:",
+    "ಪ್ಲಾಸ್ಟಿಕ್ ರೀಫಿಲ್",
+    "ಪಾಲಿಥೀನ್ ತುಂಡು",
+    "ಸಣ್ಣ ಕಾಗದದ ಚೂರುಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the required materials for the experiment: a plastic refill, a piece of polythene sheet, and some small paper bits on a table.",
+    "labels": "ಪ್ಲಾಸ್ಟಿಕ್ ರೀಫಿಲ್, ಪಾಲಿಥೀನ್ ತುಂಡು, ಕಾಗದದ ಚೂರುಗಳು",
+    "scientific_significance": "Illustrates the simple setup for demonstrating static electricity.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_8_science_ch_12_concept_1_chunk_021"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದರ್ಪಣ ಸೂತ್ರ (Mirror Formula)",
+  "script": "ಗೋಳೀಯ ದರ್ಪಣಗಳಲ್ಲಿ, ವಸ್ತು ದೂರ, ಪ್ರತಿಬಿಂಬ ದೂರ ಮತ್ತು ಸಂಗಮ ದೂರದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ದರ್ಪಣ ಸೂತ್ರವು ನೀಡುತ್ತದೆ. ಈ ಸೂತ್ರವು, ವಿ ಯ ಒಂದನೇ ಭಾಗ ಪ್ಲಸ್ ಯು ಯ ಒಂದನೇ ಭಾಗ ಈಕ್ವಲ್ಸ್ ಎಫ್ ಯ ಒಂದನೇ ಭಾಗ. ಇಲ್ಲಿ, ಯು ಎಂದರೆ ದರ್ಪಣದ ಧ್ರುವದಿಂದ ವಸ್ತುವಿಗಿರುವ ದೂರ, ಅಂದರೆ ವಸ್ತು ದೂರ. ವಿ ಎಂದರೆ ದರ್ಪಣದ ಧ್ರುವದಿಂದ ಪ್ರತಿಬಿಂಬಕ್ಕಿರುವ ದೂರ, ಅಂದರೆ ಪ್ರತಿಬಿಂಬ ದೂರ. ಮತ್ತು ಎಫ್ ಎಂದರೆ ದರ್ಪಣದ ಧ್ರುವದಿಂದ ಪ್ರಧಾನ ಸಂಗಮಕ್ಕಿರುವ ದೂರ, ಅಂದರೆ ಸಂಗಮ ದೂರ. ಈ ಸೂತ್ರವು ಎಲ್ಲಾ ಗೋಳೀಯ ದರ್ಪಣಗಳಿಗೆ, ಅಂದರೆ ನಿಮ್ಮ ಮತ್ತು ಪೀನ ದರ್ಪಣಗಳಿಗೆ, ಮತ್ತು ವಸ್ತುವಿನ ಎಲ್ಲಾ ಸ್ಥಾನಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ.",
+  "script_display": "ಗೋಳೀಯ ದರ್ಪಣಗಳಲ್ಲಿ, ವಸ್ತು ದೂರ, ಪ್ರತಿಬಿಂಬ ದೂರ ಮತ್ತು ಸಂಗಮ ದೂರದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ದರ್ಪಣ ಸೂತ್ರವು ನೀಡುತ್ತದೆ. ಈ ಸೂತ್ರವು, $\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$. ಇಲ್ಲಿ:",
+  "display_bullets": [
+    "$u$ = ವಸ್ತು ದೂರ (Object Distance)",
+    "$v$ = ಪ್ರತಿಬಿಂಬ ದೂರ (Image Distance)",
+    "$f$ = ಸಂಗಮ ದೂರ (Focal Length)",
+    "ಈ ಸೂತ್ರವು ಎಲ್ಲಾ ಗೋಳೀಯ ದರ್ಪಣಗಳಿಗೆ ಮತ್ತು ವಸ್ತುವಿನ ಎಲ್ಲಾ ಸ್ಥಾನಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "classic_blue",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}",
+    "placeholder_note": "The mirror formula relating object distance (u), image distance (v), and focal length (f)."
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_10_chapter_9_concept_4_chunk_003"
+}

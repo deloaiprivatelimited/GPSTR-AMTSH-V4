@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಸೂತ್ರ",
+  "script": "ಹೀಗಾಗಿ, ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್‌ನ ಸರಿಯಾದ ರಾಸಾಯನಿಕ ಸೂತ್ರ ಎ ಎಲ್ ಟೂ ಓ ಥ್ರೀ. ಈ ವಿಧಾನದಿಂದ ನಾವು ಯಾವುದೇ ಸರಳ ಸಂಯುಕ್ತದ ಸೂತ್ರವನ್ನು ಸುಲಭವಾಗಿ ಬರೆಯಬಹುದು.",
+  "script_display": "ಆದ್ದರಿಂದ, ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್‌ನ ರಾಸಾಯನಿಕ ಸೂತ್ರ: Al₂O₃.",
+  "display_bullets": [
+    "ಅಲ್ಯೂಮಿನಿಯಂ ಆಕ್ಸೈಡ್‌ನ ಸೂತ್ರ Al₂O₃ ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Al_2O_3",
+    "placeholder_note": "The final chemical formula for Aluminium Oxide."
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "std_9_chapter_3_example_4",
+  "final_answer": "Al₂O₃",
+  "final_answer_display": "Al₂O₃",
+  "chunk_id": "std_9_chapter_3_concept_7_chunk_017"
+}

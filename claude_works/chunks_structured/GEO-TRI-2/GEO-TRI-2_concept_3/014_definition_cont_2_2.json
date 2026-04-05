@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಭಾಗಪ್ರಮಾಣವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು",
+  "script": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಎರಡು ಸಮರೂಪ ತ್ರಿಭುಜಗಳಿವೆ, ತ್ರಿಭುಜ ABC ಮತ್ತು ತ್ರಿಭುಜ PQR. ಅವುಗಳ ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಲೆಕ್ಕ ಹಾಕೋಣ. ಮೊದಲಿಗೆ, PQ ಮತ್ತು AB ಬಾಹುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಅವುಗಳ ಅನುಪಾತ PQ ಬೈ AB, ಅಂದರೆ ಆರು ಭಾಗಿಸು ಮೂರು, ನಮಗೆ ಎರಡು ಸಿಗುತ್ತದೆ. அடுத்து, QR ಮತ್ತು BC ಬಾಹುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಅವುಗಳ ಅನುಪಾತ QR ಬೈ BC, ಅಂದರೆ ಎಂಟು ಭಾಗಿಸು ನಾಲ್ಕು, ಇಲ್ಲೂ ನಮಗೆ ಎರಡು ಸಿಗುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, PR ಮತ್ತು AC ಬಾಹುಗಳ ಅನುಪಾತ PR ಬೈ AC, ಅಂದರೆ ಹತ್ತು ಭಾಗಿಸು ಐದು, ಇಲ್ಲೂ ನಮಗೆ ಎರಡು ಸಿಗುತ್ತದೆ. ಎಲ್ಲಾ ಅನುಪಾತಗಳು ಸಮನಾಗಿವೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ಎರಡು ಸಮರೂಪ ತ್ರಿಭುಜಗಳಿವೆ, $\\triangle ABC$ ಮತ್ತು $\\triangle PQR$. ಅವುಗಳ ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತವನ್ನು ಲೆಕ್ಕ ಹಾಕೋಣ. ಮೊದಲಿಗೆ, $PQ$ ಮತ್ತು $AB$ ಬಾಹುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಅವುಗಳ ಅನುಪಾತ $\\frac{PQ}{AB} = \\frac{6}{3} = 2$. அடுத்து, $QR$ ಮತ್ತು $BC$ ಬಾಹುಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಅವುಗಳ ಅನುಪಾತ $\\frac{QR}{BC} = \\frac{8}{4} = 2$. ಕೊನೆಯದಾಗಿ, $PR$ ಮತ್ತು $AC$ ಬಾಹುಗಳ ಅನುಪಾತ $\\frac{PR}{AC} = \\frac{10}{5} = 2$. ಎಲ್ಲಾ ಅನುಪಾತಗಳು ಸಮನಾಗಿವೆ.",
+  "display_bullets": [
+    "$\\triangle ABC \\sim \\triangle PQR$ ಎಂದು ಪರಿಗಣಿಸಿ.",
+    "ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತಗಳನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ:",
+    "$\\frac{PQ}{AB} = \\frac{6}{3} = 2$",
+    "$\\frac{QR}{BC} = \\frac{8}{4} = 2$",
+    "$\\frac{PR}{AC} = \\frac{10}{5} = 2$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಎರಡು ಸಮರೂಪ ತ್ರಿಭುಜಗಳು, ABC ಮತ್ತು PQR. ತ್ರಿಭುಜ ABC ಯ ಬಾಹುಗಳು AB=3, BC=4, AC=5. ತ್ರಿಭುಜ PQR ನ ಬಾಹುಗಳು PQ=6, QR=8, PR=10. ತ್ರಿಭುಜ PQR, ತ್ರಿಭುಜ ABC ಗಿಂತ ದೊಡ್ಡದಾಗಿದೆ.",
+    "labels": "ತ್ರಿಭುಜ ABC ಮತ್ತು ತ್ರಿಭುಜ PQR",
+    "mathematical_significance": "ಸಮರೂಪ ತ್ರಿಭುಜಗಳ ಅನುರೂಪ ಬಾಹುಗಳ ಅನುಪಾತವು ಸ್ಥಿರವಾಗಿರುತ್ತದೆ ಎಂಬುದನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ. ಈ ಸ್ಥಿರ ಅನುಪಾತವೇ ಭಾಗಪ್ರಮಾಣ.",
+    "placeholder_note": "Image to be generated showing two similar right-angled triangles, one smaller (sides 3, 4, 5) and one larger (sides 6, 8, 10), with vertices and side lengths clearly labeled."
+  },
+  "chunk_id": "GEO-TRI-2_concept_3_chunk_014"
+}

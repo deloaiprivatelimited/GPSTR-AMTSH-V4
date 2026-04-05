@@ -1,0 +1,81 @@
+{
+  "module_id": "std_10_chapter_6_concept_5",
+  "chapter_code": "std_10_chapter_6",
+  "voice": "Achird",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:15:01",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "2fc56ebfb3142b781cf77c85621561b9",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 30.971,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 42,
+      "generated_at": "2026-04-02 12:13:47"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "7ea51c600b4cbd7ab2bb19de555bde87",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 36.211,
+      "slide_title": "ಕಾರ್ಯವಿಧಾನ: ಮುಟ್ಟಿದರೆ ಮುನಿ ಸಸ್ಯ",
+      "type": "definition",
+      "script_words": 49,
+      "generated_at": "2026-04-02 12:13:53"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "892d0dc15104d8cfafb5b0021f06d3da",
+      "wav_file": "003_definition_0.wav",
+      "duration": 35.411,
+      "slide_title": "ನಾಸ್ಟಿಕ್ ಚಲನೆ (Nastic Movement)",
+      "type": "definition",
+      "script_words": 46,
+      "generated_at": "2026-04-02 12:13:54"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "397020def0164086d0c06e1799178562",
+      "wav_file": "001_intro_0.wav",
+      "duration": 45.891,
+      "slide_title": "ಸಸ್ಯಗಳಲ್ಲಿ ಸಹಭಾಗಿತ್ವ: ನಾಸ್ಟಿಕ್ ಚಲನೆ",
+      "type": "intro",
+      "script_words": 70,
+      "generated_at": "2026-04-02 12:13:58"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "6ad855ed9568ad84cc6a446f61811ecf",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 40.931,
+      "slide_title": "ನಾಸ್ಟಿಕ್ ಚಲನೆ vs ಅನುವರ್ತನಾ ಚಲನೆ",
+      "type": "definition",
+      "script_words": 49,
+      "generated_at": "2026-04-02 12:14:03"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Achird",
+      "script_hash": "e7e1250a8707ff57dfe077edc3fd78c3",
+      "wav_file": "006_recap_0.wav",
+      "duration": 42.251,
+      "slide_title": "ಸಾರಾಂಶ: ನಾಸ್ಟಿಕ್ ಚಲನೆ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 12:15:01"
+    }
+  }
+}

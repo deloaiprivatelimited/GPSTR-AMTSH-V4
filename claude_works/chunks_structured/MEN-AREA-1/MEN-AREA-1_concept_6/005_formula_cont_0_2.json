@@ -1,0 +1,36 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಸೂತ್ರದ ನಿಷ್ಪತ್ತಿ: ಭಾಗ 2",
+  "script": "ಈಗ, ಆ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡಗಳನ್ನು ಒಂದರ ಪಕ್ಕ ಒಂದರಂತೆ ಜೋಡಿಸೋಣ, ಆದರೆ ಪ್ರತಿ ಎರಡನೇ ತುಂಡನ್ನು ತಲೆಕೆಳಗಾಗಿ ಇಡೋಣ. ನಾವು ಹೆಚ್ಚು ಹೆಚ್ಚು ಸಣ್ಣ ತುಂಡುಗಳನ್ನು ಬಳಸಿದಂತೆ, ಈ ಹೊಸ ಆಕೃತಿಯು ಸರಿಸುಮಾರು ಒಂದು ಆಯತದಂತೆ ಕಾಣುತ್ತದೆ. ಈ ಆಯತದ ಅಗಲವನ್ನು ಗಮನಿಸಿ. ಅದು ವೃತ್ತದ ತ್ರಿಜ್ಯಕ್ಕೆ, ಅಂದರೆ r ಗೆ, ಸಮನಾಗಿರುತ್ತದೆ. ಇನ್ನು ಆಯತದ ಉದ್ದವು ವೃತ್ತದ ಪರಿಧಿಯ ಅರ್ಧದಷ್ಟು ಇರುತ್ತದೆ. ವೃತ್ತದ ಪೂರ್ತಿ ಪರಿಧಿ 2 π r, ಹಾಗಾಗಿ ಅದರ ಅರ್ಧ ಅಂದರೆ π r ಆಗುತ್ತದೆ. ಏಕೆಂದರೆ ವೃತ್ತದ ಕಂಸಗಳು ಆಯತದ ಮೇಲಿನ ಮತ್ತು ಕೆಳಗಿನ ಬದಿಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+  "script_display": "ಈಗ, ಆ ತ್ರಿಜ್ಯಾಂತರ ಖಂಡಗಳನ್ನು ಒಂದರ ಪಕ್ಕ ಒಂದರಂತೆ ಜೋಡಿಸೋಣ, ಆದರೆ ಪ್ರತಿ ಎರಡನೇ ತುಂಡನ್ನು ತಲೆಕೆಳಗಾಗಿ ಇಡೋಣ. ನಾವು ಹೆಚ್ಚು ಹೆಚ್ಚು ಸಣ್ಣ ತುಂಡುಗಳನ್ನು ಬಳಸಿದಂತೆ, ಈ ಹೊಸ ಆಕೃತಿಯು ಸರಿಸುಮಾರು ಒಂದು ಆಯತದಂತೆ ಕಾಣುತ್ತದೆ. ಈ ಆಯತದ ಅಗಲವನ್ನು ಗಮನಿಸಿ. ಅದು ವೃತ್ತದ ತ್ರಿಜ್ಯಕ್ಕೆ, ಅಂದರೆ $r$ ಗೆ, ಸಮನಾಗಿರುತ್ತದೆ. ಇನ್ನು ಆಯತದ ಉದ್ದವು ವೃತ್ತದ ಪರಿಧಿಯ ಅರ್ಧದಷ್ಟು ಇರುತ್ತದೆ. ವೃತ್ತದ ಪೂರ್ತಿ ಪರಿಧಿ $2\\pi r$, ಹಾಗಾಗಿ ಅದರ ಅರ್ಧ ಅಂದರೆ $\\pi r$ ಆಗುತ್ತದೆ. ಏಕೆಂದರೆ ವೃತ್ತದ ಕಂಸಗಳು ಆಯತದ ಮೇಲಿನ ಮತ್ತು ಕೆಳಗಿನ ಬದಿಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+  "display_bullets": [
+    "ತ್ರಿಜ್ಯಾಂತರ ಖಂಡಗಳನ್ನು ಪಕ್ಕಪಕ್ಕದಲ್ಲಿ ಜೋಡಿಸಿದಾಗ, ಅದು ಆಯತದಂತೆ ಕಾಣುತ್ತದೆ.",
+    "ಈ ಆಯತದ ಅಗಲವು ವೃತ್ತದ ತ್ರಿಜ್ಯಕ್ಕೆ ($r$) ಸಮನಾಗಿರುತ್ತದೆ.",
+    "ಇದರ ಉದ್ದವು ವೃತ್ತದ ಪರಿಧಿಯ ಅರ್ಧದಷ್ಟು, ಅಂದರೆ $\\pi r$ ಆಗಿರುತ್ತದೆ. (ಪರಿಧಿ = $2\\pi r$)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "The sectors from the circle are arranged to form a shape that approximates a rectangle. The top and bottom edges are bumpy (made of the arcs of the sectors) and the sides are straight (the radii). Arrows should point to the width and length.",
+    "labels": "ಅಗಲ = r, ಉದ್ದ = πr",
+    "mathematical_significance": "This visual shows how the circle's area is conserved and transformed into a shape whose area is easier to calculate (a rectangle). It connects the circle's dimensions (r) to the rectangle's dimensions.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "MEN-AREA-1_concept_6_chunk_005"
+}

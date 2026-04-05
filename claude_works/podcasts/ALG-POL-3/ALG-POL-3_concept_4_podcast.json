@@ -1,0 +1,144 @@
+{
+  "module_id": "ALG-POL-3_concept_4",
+  "module_title": "ಶೇಷ ಮತ್ತು ಅಪವರ್ತನ ಪ್ರಮೇಯಗಳು (Remainder and Factor Theorems)",
+  "podcast_meta": {
+    "estimated_duration_minutes": 4.5,
+    "total_dialogues": 21,
+    "sections_covered": [
+      "intro",
+      "theorem",
+      "example",
+      "exam_tips",
+      "recap"
+    ],
+    "content_density": "medium"
+  },
+  "dialogues": [
+    {
+      "index": 1,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ ವಿದ್ಯಾರ್ಥಿಗಳೇ. ಜಿ ಪಿ ಎಸ್ ಟಿ ಆರ್ ಮತ್ತು ಎಚ್ ಎಸ್ ಟಿ ಆರ್ ಗಣಿತ ಪುನರ್ಮನನ ಪಾಡ್ಕಾಸ್ಟ್ ಸರಣಿಗೆ ಸ್ವಾಗತ. ನಾನು ನಿಮ್ಮ ಗಣಿತ ಗುರು."
+    },
+    {
+      "index": 2,
+      "speaker": "teacher",
+      "section": "intro",
+      "script": "ಇಂದು ನಾವು ಬೀಜಗಣಿತದ ಬಹುಪದೋಕ್ತಿಗಳು ಅಧ್ಯಾಯದಲ್ಲಿ ಬರುವ ಬಹಳ ಮುಖ್ಯವಾದ ಎರಡು ಪ್ರಮೇಯಗಳಾದ ಶೇಷ ಪ್ರಮೇಯ ಮತ್ತು ಅಪವರ್ತನ ಪ್ರಮೇಯಗಳ ಬಗ್ಗೆ ಚರ್ಚಿಸೋಣ."
+    },
+    {
+      "index": 3,
+      "speaker": "student",
+      "section": "intro",
+      "script": "ನಮಸ್ಕಾರ ಗುರುಗಳೇ. ಹೌದು, ಈ ಪ್ರಮೇಯಗಳು ಬಹಳ ಉಪಯುಕ್ತ ಅಂತ ಕೇಳಿದ್ದೇನೆ. ಭಾಗಾಕಾರ ಮಾಡದೆ ಶೇಷ ಕಂಡುಹಿಡಿಯಬಹುದು ಅಂತಾರೆ, ಅದು ಹೇಗೆ ಸಾಧ್ಯ ಅಂತ ತಿಳಿಯುವ ಕುತೂಹಲ ಇದೆ."
+    },
+    {
+      "index": 4,
+      "speaker": "teacher",
+      "section": "theorem",
+      "script": "ಖಂಡಿತ. ಅದಕ್ಕಾಗಿಯೇ ಇರುವುದು ಶೇಷ ಪ್ರಮೇಯ. ಈ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, p of x ಎಂಬ ಬಹುಪದೋಕ್ತಿಯನ್ನು x minus a ಎಂಬ ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿಯಿಂದ ಭಾಗಿಸಿದಾಗ ಸಿಗುವ ಶೇಷವು p of a ಆಗಿರುತ್ತದೆ."
+    },
+    {
+      "index": 5,
+      "speaker": "student",
+      "section": "theorem",
+      "script": "ಓಹ್, ಅಂದರೆ ನಾವು ಉದ್ದನೆಯ ಭಾಗಾಕಾರ ಮಾಡುವ ಬದಲು, ಭಾಜಕದ ಶೂನ್ಯತೆಯನ್ನು ತೆಗೆದುಕೊಂಡು, ಅಂದರೆ x ನ ಜಾಗದಲ್ಲಿ a ಯ ಬೆಲೆಯನ್ನು ಬಹುಪದೋಕ್ತಿಯಲ್ಲಿ ಆದೇಶಿಸಿದರೆ ಸಾಕು, ಶೇಷ ಸಿಕ್ಕಿಬಿಡುತ್ತದೆಯೇ?"
+    },
+    {
+      "index": 6,
+      "speaker": "teacher",
+      "section": "theorem",
+      "script": "ನಿಖರವಾಗಿ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಬಹುಪದೋಕ್ತಿಯನ್ನು x minus two ದಿಂದ ಭಾಗಿಸಿದಾಗ ಬರುವ ಶೇಷ ಬೇಕಿದ್ದರೆ, ನಾವು p of two ಅನ್ನು ಕಂಡುಹಿಡಿದರೆ ಸಾಕು. ಪರೀಕ್ಷೆಯಲ್ಲಿ ಇದು ಬಹಳ ಸಮಯ ಉಳಿಸುತ್ತದೆ."
+    },
+    {
+      "index": 7,
+      "speaker": "student",
+      "section": "theorem",
+      "script": "ಸರಿ ಗುರುಗಳೇ. ಹಾಗಾದರೆ ಅಪವರ್ತನ ಪ್ರಮೇಯಕ್ಕೂ ಇದಕ್ಕೂ ಏನು ಸಂಬಂಧ?"
+    },
+    {
+      "index": 8,
+      "speaker": "teacher",
+      "section": "theorem",
+      "script": "ಅಪವರ್ತನ ಪ್ರಮೇಯವು ಶೇಷ ಪ್ರಮೇಯದ ಒಂದು ವಿಶೇಷ ಸಂದರ್ಭ. ಒಂದು ವೇಳೆ ಶೇಷ ಸೊನ್ನೆ ಬಂದರೆ, ಅದರ ಅರ್ಥವೇನು?"
+    },
+    {
+      "index": 9,
+      "speaker": "student",
+      "section": "theorem",
+      "script": "ಶೇಷ ಸೊನ್ನೆ ಬಂದರೆ, ಕೊಟ್ಟಿರುವ ಭಾಜಕವು ಆ ಬಹುಪದೋಕ್ತಿಯನ್ನು ನಿಶ್ಶೇಷವಾಗಿ ಭಾಗಿಸುತ್ತದೆ. ಅಂದರೆ ಅದು ಒಂದು ಅಪವರ್ತನ ಆಗಿರುತ್ತದೆ!"
+    },
+    {
+      "index": 10,
+      "speaker": "teacher",
+      "section": "theorem",
+      "script": "ಅದ್ಭುತ! ಅದೇ ಅಪವರ್ತನ ಪ್ರಮೇಯ. ಅಂದರೆ, p of a equals zero ಆದರೆ, x minus a ಯು p of x ನ ಒಂದು ಅಪವರ್ತನವಾಗಿರುತ್ತದೆ. ಇದರ ವಿಲೋಮವೂ ಸತ್ಯ."
+    },
+    {
+      "index": 11,
+      "speaker": "student",
+      "section": "theorem",
+      "script": "ಅಂದರೆ, x minus a ಒಂದು ಅಪವರ್ತನ ಅಂತ ಮೊದಲೇ ಕೊಟ್ಟರೆ, ನಾವು p of a equals zero ಎಂದು ಬಳಸಿಕೊಂಡು ಲೆಕ್ಕ ಮಾಡಬಹುದು, ಅಲ್ಲವೇ?"
+    },
+    {
+      "index": 12,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಹೌದು. ಆ ರೀತಿಯ ಒಂದು ಸಾಮಾನ್ಯ ಪ್ರಶ್ನೆಯನ್ನು ನೋಡೋಣ. x minus one ಇದು four x cubed plus three x squared minus four x plus k ಯ ಅಪವರ್ತನವಾಗಿದ್ದರೆ, k ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+    },
+    {
+      "index": 13,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಸರಿ. ಇಲ್ಲಿ x minus one ಒಂದು ಅಪವರ್ತನ. ಹಾಗಾಗಿ ಅಪವರ್ತನ ಪ್ರಮೇಯದ ಪ್ರಕಾರ, p of one equals zero ಆಗಿರಬೇಕು."
+    },
+    {
+      "index": 14,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಸರಿಯಾಗಿದೆ. ಈಗ p of x ನಲ್ಲಿ x ಜಾಗದಲ್ಲಿ ಒಂದು ಹಾಕೋಣ. four into one cubed plus three into one squared minus four into one plus k. ಅಂದರೆ four plus three minus four plus k. ಇದು three plus k ಆಗುತ್ತದೆ."
+    },
+    {
+      "index": 15,
+      "speaker": "student",
+      "section": "example",
+      "script": "three plus k equals zero, ಅಂದರೆ k ಯ ಬೆಲೆ ಮೈನಸ್ ಮೂರು. ಓಹ್, ಇದು ನೇರವಾದ ಪ್ರಶ್ನೆ. ಚೆನ್ನಾಗಿ ಅರ್ಥವಾಯಿತು."
+    },
+    {
+      "index": 16,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "ಈಗ ಅಪವರ್ತನ ಪ್ರಮೇಯ ಬಳಸಿ ಅಪವರ್ತಿಸುವ ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. y squared minus five y plus six ಅನ್ನು ಅಪವರ್ತಿಸಿ."
+    },
+    {
+      "index": 17,
+      "speaker": "student",
+      "section": "example",
+      "script": "ಇಲ್ಲಿ p of y equals y squared minus five y plus six. ಸ್ಥಿರಾಂಕ ಆರು. ಅದರ ಅಪವರ್ತನಗಳು ಒಂದು, ಎರಡು, ಮೂರು. ಇವುಗಳನ್ನು ಹಾಕಿ ನೋಡಬೇಕು. y equals two ಹಾಕಿದರೆ, two squared minus five into two plus six, ಅಂದರೆ four minus ten plus six, ಇದು ಸೊನ್ನೆ ಆಗುತ್ತದೆ."
+    },
+    {
+      "index": 18,
+      "speaker": "teacher",
+      "section": "example",
+      "script": "p of two equals zero ಅಂದರೆ y minus two ಒಂದು ಅಪವರ್ತನ. ಅದೇ ರೀತಿ, p of three ಹಾಕಿದರೆ, three squared minus five into three plus six, ಅಂದರೆ nine minus fifteen plus six. ಇದೂ ಕೂಡ ಸೊನ್ನೆ ಆಗುತ್ತದೆ. ಹಾಗಾಗಿ y minus three ಇನ್ನೊಂದು ಅಪವರ್ತನ. ಆದ್ದರಿಂದ ಅಪವರ್ತನಗಳು y minus two ಮತ್ತು y minus three."
+    },
+    {
+      "index": 19,
+      "speaker": "student",
+      "section": "exam_tips",
+      "script": "ಗುರುಗಳೇ, ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಯಾವ ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳ ಬಗ್ಗೆ ನಾವು ಎಚ್ಚರ ವಹಿಸಬೇಕು?"
+    },
+    {
+      "index": 20,
+      "speaker": "teacher",
+      "section": "exam_tips",
+      "script": "ಅತಿ ಸಾಮಾನ್ಯ ತಪ್ಪು ಚಿಹ್ನೆಯಲ್ಲಿ ಆಗುವುದು. x plus a ಅಪವರ್ತನ ಎಂದಾಗ, p of a ಎಂದು ತಪ್ಪಾಗಿ ತೆಗೆದುಕೊಳ್ಳುವುದು. ಆದರೆ x plus a ಯ ಶೂನ್ಯತೆ minus a. ಹಾಗಾಗಿ ನಾವು p of minus a ಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಈ ಬಗ್ಗೆ ಜಾಗರೂಕರಾಗಿರಿ."
+    },
+    {
+      "index": 21,
+      "speaker": "recap",
+      "section": "recap",
+      "script": "ಸರಿಯಾಗಿ ಹೇಳಿದಿರಿ. ಒಟ್ಟಿನಲ್ಲಿ, ಶೇಷ ಪ್ರಮೇಯ ಬಳಸಿ ಭಾಗಿಸದೆ ಶೇಷ ಕಂಡುಹಿಡಿಯುವುದು, ಮತ್ತು ಶೇಷ ಸೊನ್ನೆಯಾದರೆ ಅದು ಅಪವರ್ತನ ಎಂದು ತಿಳಿಯುವುದು, ಇವೇ ಈ ಪಾಠದ ಪ್ರಮುಖ ಅಂಶಗಳು. ಚೆನ್ನಾಗಿ ಅಭ್ಯಾಸ ಮಾಡಿ. ಮುಂದಿನ ಸಂಚಿಕೆಯಲ್ಲಿ ಭೇಟಿಯಾಗೋಣ."
+    }
+  ]
+}

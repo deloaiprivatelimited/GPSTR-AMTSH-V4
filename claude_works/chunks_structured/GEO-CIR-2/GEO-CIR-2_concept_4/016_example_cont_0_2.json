@@ -1,0 +1,41 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಚಕ್ರೀಯ ಚತುರ್ಭುಜದ ಪ್ರಮುಖ ಗುಣವನ್ನು ಬಳಸುತ್ತೇವೆ. ABCD ಒಂದು ಚಕ್ರೀಯ ಚತುರ್ಭುಜವಾದ್ದರಿಂದ, ಅದರ ಅಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತ ನೂರ ಎಂಭತ್ತು ಡಿಗ್ರಿ ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, ಕೋನ DAB ಪ್ಲಸ್ ಕೋನ BCD ಸಮ ನೂರ ಎಂಭತ್ತು ಡಿಗ್ರಿ. ನಾಲ್ಕನೇ ಮತ್ತು ಅಂತಿಮ ಹಂತದಲ್ಲಿ, ನಾವು ಕೋನ BCD ಯ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ. ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು ಕೋನ DAB ಯನ್ನು ನೂರು ಡಿಗ್ರಿ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಈ ಮೌಲ್ಯವನ್ನು ಸಮೀಕರಣದಲ್ಲಿ ಆದೇಶಿಸಿದರೆ, ಕೋನ BCD ಸಮ ನೂರ ಎಂಭತ್ತು ಡಿಗ್ರಿ ಮೈನಸ್ ನೂರು ಡಿಗ್ರಿ, ಅಂದರೆ ಎಂಬತ್ತು ಡಿಗ್ರಿ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಚಕ್ರೀಯ ಚತುರ್ಭುಜದ ಪ್ರಮುಖ ಗುಣವನ್ನು ಬಳಸುತ್ತೇವೆ. ABCD ಒಂದು ಚಕ್ರೀಯ ಚತುರ್ಭುಜವಾದ್ದರಿಂದ, ಅದರ ಅಭಿಮುಖ ಕೋನಗಳ ಮೊತ್ತ $180^{\\circ}$ ಆಗಿರುತ್ತದೆ. ಅಂದರೆ, $\\angle DAB + \\angle BCD = 180^{\\circ}$. ನಾಲ್ಕನೇ ಮತ್ತು ಅಂತಿಮ ಹಂತದಲ್ಲಿ, ನಾವು $\\angle BCD$ ಯ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯುತ್ತೇವೆ. ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನಾವು $\\angle DAB$ ಯನ್ನು $100^{\\circ}$ ಎಂದು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ. ಈ ಮೌಲ್ಯವನ್ನು ಸಮೀಕರಣದಲ್ಲಿ ಆದೇಶಿಸಿದರೆ, $\\angle BCD$ ಸಮ $180^{\\circ}$ ಮೈನಸ್ $100^{\\circ}$, ಅಂದರೆ $80^{\\circ}$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_2_col",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "difficulty": "basic",
+  "source_example_id": "GEO-CIR-2_example_3",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\angle DAB + \\angle BCD = 180^{\\circ}$",
+      "justification": "ಚಕ್ರೀಯ ಚತುರ್ಭುಜದ ಅಭಿಮುಖ ಕೋನಗಳು ಪೂರಕವಾಗಿರುತ್ತವೆ."
+    },
+    {
+      "step": 4,
+      "action_display": "$\\angle BCD = 180^{\\circ} - \\angle DAB = 180^{\\circ} - 100^{\\circ} = 80^{\\circ}$",
+      "justification": "ಸಮೀಕರಣವನ್ನು ಬಿಡಿಸಿದಾಗ."
+    }
+  ],
+  "chunk_id": "GEO-CIR-2_concept_4_chunk_016"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಶ್ವಾಸದ ಗಾಳಿಯಲ್ಲಿ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೆಡ್ ಪರೀಕ್ಷೆ",
+  "script": "ನಾವು ಹೊರಬಿಡುವ ಗಾಳಿಯಲ್ಲಿ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಇದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸುವುದು ಹೇಗೆ? ಇದಕ್ಕಾಗಿ ನಾವು ಸುಣ್ಣದ ತಿಳಿಯನ್ನು ಬಳಸುವ ಒಂದು ಸರಳ ಪ್ರಯೋಗವನ್ನು ಮಾಡಬಹುದು. ಈ ಪ್ರಯೋಗದ ಹಿಂದಿರುವ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು ಈಗ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "script_display": "ನಾವು ಹೊರಬಿಡುವ ಗಾಳಿಯಲ್ಲಿ ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ (CO₂) ಇದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸುವುದು ಹೇಗೆ? ಇದಕ್ಕಾಗಿ ನಾವು ಸುಣ್ಣದ ತಿಳಿಯನ್ನು ಬಳಸುವ ಒಂದು ಸರಳ ಪ್ರಯೋಗವನ್ನು ಮಾಡಬಹುದು. ಈ ಪ್ರಯೋಗದ ಹಿಂದಿರುವ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯನ್ನು ಈಗ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_A",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a person blowing through a straw into a test tube containing a clear liquid (limewater). An arrow indicates the flow of exhaled air into the liquid.",
+    "labels": "ನಿಶ್ವಾಸದ ಗಾಳಿ, ಸುಣ್ಣದ ತಿಳಿ, ಪ್ರನಾಳ",
+    "scientific_significance": "This setup illustrates the method used to test for carbon dioxide in exhaled air, a fundamental experiment in respiratory biology.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_6_concept_5_chunk_003"
+}

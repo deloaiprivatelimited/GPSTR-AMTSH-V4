@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದ್ರವ ಸ್ಥಿತಿ: ನೀರು",
+  "script": "ಮುಂದಿನದು, ನೀರಿನ ದ್ರವ ಸ್ಥಿತಿ, ಅಂದರೆ ನಾವು ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸುವ ನೀರು. ಮಂಜುಗಡ್ಡೆಗೆ ಹೋಲಿಸಿದರೆ, ನೀರಿಗೆ ನಿರ್ದಿಷ್ಟ ಆಕಾರ ಇರುವುದಿಲ್ಲ. ನೀವು ನೀರನ್ನು ಯಾವ ಪಾತ್ರೆಯಲ್ಲಿ ಹಾಕುತ್ತೀರೋ, ಅದು ಆ ಪಾತ್ರೆಯ ಆಕಾರವನ್ನು ಪಡೆಯುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಬಾಟಲಿಯಲ್ಲಿರುವ ನೀರನ್ನು ಲೋಟಕ್ಕೆ ಸುರಿದಾಗ, ಅದು ಲೋಟದ ಆಕಾರಕ್ಕೆ ಬರುತ್ತದೆ. ಇದರ ಇನ್ನೊಂದು ಮುಖ್ಯ ಗುಣವೆಂದರೆ, ನೀರು ಹರಿಯುತ್ತದೆ. ಇದಕ್ಕೆ ಕಾರಣ, ದ್ರವ ಸ್ಥಿತಿಯಲ್ಲಿ ಅಣುಗಳು ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿರುತ್ತವೆ ಮತ್ತು ಒಂದರ ಮೇಲೊಂದು ಜಾರಿಕೊಂಡು ಚಲಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದಲೇ ಅವುಗಳಿಗೆ ಹರಿಯುವ ಗುಣವಿದೆ.",
+  "script_display": "ಮುಂದಿನದು, ನೀರಿನ ದ್ರವ ಸ್ಥಿತಿ, ಅಂದರೆ ನಾವು ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸುವ ನೀರು (Water). ಮಂಜುಗಡ್ಡೆಗೆ ಹೋಲಿಸಿದರೆ, ನೀರಿಗೆ ನಿರ್ದಿಷ್ಟ ಆಕಾರ ಇರುವುದಿಲ್ಲ. ನೀವು ನೀರನ್ನು ಯಾವ ಪಾತ್ರೆಯಲ್ಲಿ ಹಾಕುತ್ತೀರೋ, ಅದು ಆ ಪಾತ್ರೆಯ ಆಕಾರವನ್ನು ಪಡೆಯುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಒಂದು ಬಾಟಲಿಯಲ್ಲಿರುವ ನೀರನ್ನು ಲೋಟಕ್ಕೆ ಸುರಿದಾಗ, ಅದು ಲೋಟದ ಆಕಾರಕ್ಕೆ ಬರುತ್ತದೆ. ಇದರ ಇನ್ನೊಂದು ಮುಖ್ಯ ಗುಣವೆಂದರೆ, ನೀರು ಹರಿಯುತ್ತದೆ. ಇದಕ್ಕೆ ಕಾರಣ, ದ್ರವ ಸ್ಥಿತಿಯಲ್ಲಿ ಅಣುಗಳು (molecules) ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿರುತ್ತವೆ ಮತ್ತು ಒಂದರ ಮೇಲೊಂದು ಜಾರಿಕೊಂಡು ಚಲಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಆದ್ದರಿಂದಲೇ ಅವುಗಳಿಗೆ ಹರಿಯುವ ಗುಣವಿದೆ.",
+  "display_bullets": [
+    "ಸ್ಥಿತಿ: ದ್ರವ (Liquid) - ಉದಾಹರಣೆ: ನೀರು",
+    "ಗುಣಲಕ್ಷಣ: ನಿರ್ದಿಷ್ಟ ಆಕಾರವಿಲ್ಲ, ಪಾತ್ರೆಯ ಆಕಾರ ಪಡೆಯುತ್ತದೆ.",
+    "ಗುಣಲಕ್ಷಣ: ಹರಿಯುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_right_text_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "An animation or a sequence of images showing water being poured from a jug into a differently shaped glass, demonstrating it takes the shape of the container.",
+    "labels": "ನೀರು (Water)",
+    "scientific_significance": "Illustrates the liquid state, where a substance has a definite volume but no definite shape, allowing it to flow.",
+    "placeholder_note": "Image of water taking the shape of a glass."
+  },
+  "chunk_id": "std_6_chapter_8_concept_1_chunk_004"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಪೋಷಣೆ: ಒಂದು ಉದಾಹರಣೆ",
+  "script": "ಈಗ ಪೋಷಣೆಯನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಬ್ಬ ವ್ಯಕ್ತಿ ಊಟ ಮಾಡುತ್ತಾನೆ ಎಂದು ಭಾವಿಸೋಣ. ಇದು ಪೋಷಣೆಯ ಮೊದಲ ಹಂತ, ಅಂದರೆ ಆಹಾರ ಸೇವನೆ. ನಂತರ, ಅವನ ದೇಹವು ಆ ಆಹಾರದಲ್ಲಿರುವ ಪೋಷಕಾಂಶಗಳನ್ನು ವಿಭಜಿಸುತ್ತದೆ. ಇದು ಪೋಷಣೆಯ ಎರಡನೇ ಹಂತ, ಅಂದರೆ ದೇಹದ ಬಳಕೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಿಂದ ಸಿಕ್ಕಿದ ಶಕ್ತಿಯನ್ನು ಅವನು ಓಡಲು, ಆಟವಾಡಲು ಮತ್ತು ಓದಲು ಬಳಸುತ್ತಾನೆ. ಇದೇ ರೀತಿ, ಪೋಷಕಾಂಶಗಳು ಅವನ ದೇಹದ ಬೆಳವಣಿಗೆಗೆ ಮತ್ತು ಗಾಯವಾದರೆ ಸರಿಪಡಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ. ಹೀಗೆ ಆಹಾರ ಸೇವನೆಯಿಂದ ಹಿಡಿದು ಅದರ ಬಳಕೆಯವರೆಗಿನ ಎಲ್ಲವೂ ಪೋಷಣೆಯ ಭಾಗವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಪೋಷಣೆಯನ್ನು ಒಂದು ಸರಳ ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಒಬ್ಬ ವ್ಯಕ್ತಿ ಊಟ ಮಾಡುತ್ತಾನೆ ಎಂದು ಭಾವಿಸೋಣ. ಇದು ಪೋಷಣೆಯ ಮೊದಲ ಹಂತ, ಅಂದರೆ ಆಹಾರ ಸೇವನೆ. ನಂತರ, ಅವನ ದೇಹವು ಆ ಆಹಾರದಲ್ಲಿರುವ ಪೋಷಕಾಂಶಗಳನ್ನು ವಿಭಜಿಸುತ್ತದೆ. ಇದು ಪೋಷಣೆಯ ಎರಡನೇ ಹಂತ, ಅಂದರೆ ದೇಹದ ಬಳಕೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಿಂದ ಸಿಕ್ಕಿದ ಶಕ್ತಿಯನ್ನು ಅವನು ಓಡಲು, ಆಟವಾಡಲು ಮತ್ತು ಓದಲು ಬಳಸುತ್ತಾನೆ. ಇದೇ ರೀತಿ, ಪೋಷಕಾಂಶಗಳು ಅವನ ದೇಹದ ಬೆಳವಣಿಗೆಗೆ ಮತ್ತು ಗಾಯವಾದರೆ ಸರಿಪಡಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ. ಹೀಗೆ ಆಹಾರ ಸೇವನೆಯಿಂದ ಹಿಡಿದು ಅದರ ಬಳಕೆಯವರೆಗಿನ ಎಲ್ಲವೂ ಪೋಷಣೆಯ ಭಾಗವಾಗಿದೆ.",
+  "display_bullets": [
+    "ಹಂತ 1: ಆಹಾರ ಸೇವನೆ (ಊಟ ಮಾಡುವುದು).",
+    "ಹಂತ 2: ದೇಹದ ಬಳಕೆ (ಶಕ್ತಿ, ಬೆಳವಣಿಗೆ, ದುರಸ್ತಿ).",
+    "ಈ ಶಕ್ತಿಯು ಓಡಲು, ಆಟವಾಡಲು ಮತ್ತು ಬೆಳೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple infographic. On the left, a person is eating a meal (like rice, dal, vegetables). An arrow points from the food to the person, labeled 'ಆಹಾರ ಸೇವನೆ'. From the person, multiple arrows point to icons representing 'Energy' (a running figure), 'Growth' (a height chart), and 'Repair' (a bandage icon). These arrows are labeled 'ದೇಹದ ಬಳಕೆ'.",
+    "labels": "ಆಹಾರ ಸೇವನೆ, ದೇಹದ ಬಳಕೆ, ಶಕ್ತಿ, ಬೆಳವಣಿಗೆ, ದುರಸ್ತಿ",
+    "scientific_significance": "Illustrates the two main components of nutrition: intake and utilization, using a relatable human example.",
+    "placeholder_note": "Image to be generated based on the description."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_7_science_ch_1_concept_1_chunk_006"
+}

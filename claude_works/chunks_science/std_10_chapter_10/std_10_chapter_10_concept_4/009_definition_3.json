@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ರೋಹಿತ (Spectrum) ಎಂದರೇನು?",
+  "script": "ಈಗ ರೋಹಿತ ಅಥವಾ ಸ್ಪೆಕ್ಟ್ರಮ್ ಅಂದರೆ ಏನು ಎಂದು ತಿಳಿಯೋಣ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ವರ್ಣವಿಭಜನೆಯಿಂದ ಉಂಟಾಗುವ ಬಣ್ಣಗಳ ಪಟ್ಟಿಯನ್ನೇ ನಾವು ರೋಹಿತ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಬಣ್ಣಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಒಂದು ನಿರ್ದಿಷ್ಟ ಕ್ರಮವಿದೆ. ಆ ಕ್ರಮವೆಂದರೆ, ನೇರಳೆ, ಊದಾ, ನೀಲಿ, ಹಸಿರು, ಹಳದಿ, ಕಿತ್ತಳೆ ಮತ್ತು ಕೆಂಪು. ಇದನ್ನು ಸುಲಭವಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ನಾವು ವಿಬ್ಗಯಾರ್ ಎಂಬ ಸಂಕ್ಷಿಪ್ತ ರೂಪವನ್ನು ಬಳಸುತ್ತೇವೆ. ಇದು ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಬಹಳ ಮುಖ್ಯವಾದ ವಿಷಯವಾಗಿದೆ.",
+  "script_display": "ಈಗ ರೋಹಿತ (Spectrum) ಅಂದರೆ ಏನು ಎಂದು ತಿಳಿಯೋಣ. ಸರಳವಾಗಿ ಹೇಳುವುದಾದರೆ, ವರ್ಣವಿಭಜನೆಯಿಂದ ಉಂಟಾಗುವ ಬಣ್ಣಗಳ ಪಟ್ಟಿಯನ್ನೇ ನಾವು ರೋಹಿತ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಈ ಬಣ್ಣಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಒಂದು ನಿರ್ದಿಷ್ಟ ಕ್ರಮವಿದೆ. ಆ ಕ್ರಮವೆಂದರೆ, ನೇರಳೆ, ಊದಾ, ನೀಲಿ, ಹಸಿರು, ಹಳದಿ, ಕಿತ್ತಳೆ ಮತ್ತು ಕೆಂಪು. ಇದನ್ನು ಸುಲಭವಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ನಾವು VIBGYOR ಎಂಬ ಸಂಕ್ಷಿಪ್ತ ರೂಪವನ್ನು ಬಳಸುತ್ತೇವೆ. ಇದು ಪರೀಕ್ಷೆಯ ದೃಷ್ಟಿಯಿಂದ ಬಹಳ ಮುಖ್ಯವಾದ ವಿಷಯವಾಗಿದೆ.",
+  "display_bullets": [
+    "ವರ್ಣವಿಭಜನೆಯಿಂದ ಉಂಟಾದ ಬಣ್ಣಗಳ ಪಟ್ಟಿಯೇ ರೋಹಿತ.",
+    "ಬಣ್ಣಗಳ ಕ್ರಮ: ನೇರಳೆ (Violet), ಊದಾ (Indigo), ನೀಲಿ (Blue), ಹಸಿರು (Green), ಹಳದಿ (Yellow), ಕಿತ್ತಳೆ (Orange), ಕೆಂಪು (Red).",
+    "ನೆನಪಿಡಲು ಸುಲಭವಾದ ಸಂಕ್ಷಿಪ್ತ ರೂಪ: VIBGYOR."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "term_definition_example",
+    "text_zone": "center",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "VIBGYOR",
+    "placeholder_note": "Display the acronym VIBGYOR prominently."
+  },
+  "sub_type": "definition_spotlight",
+  "chunk_id": "std_10_chapter_10_concept_4_chunk_009"
+}

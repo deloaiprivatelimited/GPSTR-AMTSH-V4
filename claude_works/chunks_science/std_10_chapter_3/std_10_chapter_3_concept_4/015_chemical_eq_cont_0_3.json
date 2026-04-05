@@ -1,0 +1,32 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ದೃಶ್ಯ ವಿವರಣೆ: ಸಂಯೋಗ ಕ್ರಿಯೆ",
+  "script": "ಈ ಕ್ರಿಯೆಯನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಮ್ಮಲ್ಲಿ ಲೋಹದ ಪರಮಾಣುಗಳು ಮತ್ತು ಆಕ್ಸಿಜನ್ ಅಣುಗಳಿವೆ. ಇವು ವರ್ತಕಗಳು. ಇವೆರಡೂ ರಾಸಾಯನಿಕವಾಗಿ ಸಂಯೋಗಗೊಂಡಾಗ, ಬಲಭಾಗದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಲೋಹದ ಆಕ್ಸೈಡ್ ಎಂಬ ಹೊಸ ಸಂಯುಕ್ತ ವಸ್ತು ಉಂಟಾಗುತ್ತದೆ. ಇದು ಒಂದು ಸರಳ ಸಂಯೋಗದ ಪ್ರಕ್ರಿಯೆ.",
+  "script_display": "ಈ ಕ್ರಿಯೆಯನ್ನು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಎಡಭಾಗದಲ್ಲಿ, ನಮ್ಮಲ್ಲಿ ಲೋಹದ ಪರಮಾಣುಗಳು ಮತ್ತು ಆಕ್ಸಿಜನ್ ಅಣುಗಳಿವೆ (ವರ್ತಕಗಳು). ಇವೆರಡೂ ರಾಸಾಯನಿಕವಾಗಿ ಸಂಯೋಗಗೊಂಡಾಗ, ಬಲಭಾಗದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ಲೋಹದ ಆಕ್ಸೈಡ್ ಎಂಬ ಹೊಸ ಸಂಯುಕ್ತ ವಸ್ತು (ಉತ್ಪನ್ನ) ಉಂಟಾಗುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing individual metal atoms (labeled 'ಲೋಹ') and diatomic oxygen molecules (labeled 'ಆಕ್ಸಿಜನ್') on the left. An arrow points to the right, where they have combined to form a new compound, metal oxide (labeled 'ಲೋಹದ ಆಕ್ಸೈಡ್').",
+    "labels": "ಲೋಹ, ಆಕ್ಸಿಜನ್, ಲೋಹದ ಆಕ್ಸೈಡ್, ವರ್ತಕಗಳು, ಉತ್ಪನ್ನ",
+    "scientific_significance": "Illustrates the concept of a combination reaction where reactants (metal and oxygen) combine to form a single product (metal oxide).",
+    "placeholder_note": "Create a simple visual. On the left, show a few spheres labeled 'ಲೋಹ' and a few diatomic molecules (two spheres joined) labeled 'ಆಕ್ಸಿಜನ್'. On the right, show a new compound structure made of the metal and oxygen spheres, labeled 'ಲೋಹದ ಆಕ್ಸೈಡ್'."
+  },
+  "chunk_id": "std_10_chapter_3_concept_4_chunk_015"
+}

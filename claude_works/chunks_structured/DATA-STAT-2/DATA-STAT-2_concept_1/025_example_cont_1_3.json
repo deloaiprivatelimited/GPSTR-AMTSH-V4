@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 3: ಹಿಸ್ಟೋಗ್ರಾಂ ರಚನೆ",
+  "script": "ಈಗ ನಾವು ಅಂತಿಮ ಹಂತ, ಅಂದರೆ ಹಿಸ್ಟೋಗ್ರಾಂ ರಚನೆಗೆ ಬಂದಿದ್ದೇವೆ. ಮೊದಲಿಗೆ, ನಾವು X-ಅಕ್ಷದ ಮೇಲೆ ಅಂಕಗಳನ್ನು, ಅಂದರೆ ವರ್ಗಾಂತರಗಳನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ನಂತರ, Y-ಅಕ್ಷದ ಮೇಲೆ ನಾವು ಲೆಕ್ಕ ಮಾಡಿದ ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರವನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ಈ Y-ಅಕ್ಷವು '10 ಅಂಕಗಳ ವ್ಯಾಪ್ತಿಗೆ ವಿದ್ಯಾರ್ಥಿಗಳ ಅನುಪಾತ'ವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಪ್ರತಿ ವರ್ಗಾಂತರಕ್ಕೆ ಅದರದ್ದೇ ಆದ ಅಗಲ ಮತ್ತು ನಾವು ಲೆಕ್ಕ ಮಾಡಿದ ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರವನ್ನು ಬಳಸಿ, ಒಂದಕ್ಕೊಂದು ತಾಗಿಕೊಂಡಿರುವಂತೆ ಆಯತಗಳನ್ನು ರಚಿಸುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಮೊದಲ ಆಯತವು 0 ರಿಂದ 20 ರವರೆಗೆ ಅಗಲವನ್ನು ಮತ್ತು 3.5 ರಷ್ಟು ಎತ್ತರವನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ನಾವು ಅಂತಿಮ ಹಂತ, ಅಂದರೆ ಹಿಸ್ಟೋಗ್ರಾಂ ರಚನೆಗೆ ಬಂದಿದ್ದೇವೆ. ಮೊದಲಿಗೆ, ನಾವು X-ಅಕ್ಷದ ಮೇಲೆ ಅಂಕಗಳನ್ನು, ಅಂದರೆ ವರ್ಗಾಂತರಗಳನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ನಂತರ, Y-ಅಕ್ಷದ ಮೇಲೆ ನಾವು ಲೆಕ್ಕ ಮಾಡಿದ ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರವನ್ನು ಗುರುತಿಸುತ್ತೇವೆ. ಈ Y-ಅಕ್ಷವು '10 ಅಂಕಗಳ ವ್ಯಾಪ್ತಿಗೆ ವಿದ್ಯಾರ್ಥಿಗಳ ಅನುಪಾತ'ವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಪ್ರತಿ ವರ್ಗಾಂತರಕ್ಕೆ ಅದರದ್ದೇ ಆದ ಅಗಲ ಮತ್ತು ನಾವು ಲೆಕ್ಕ ಮಾಡಿದ ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರವನ್ನು ಬಳಸಿ, ಒಂದಕ್ಕೊಂದು ತಾಗಿಕೊಂಡಿರುವಂತೆ ಆಯತಗಳನ್ನು ರಚಿಸುತ್ತೇವೆ. ಉದಾಹರಣೆಗೆ, ಮೊದಲ ಆಯತವು 0 ರಿಂದ 20 ರವರೆಗೆ ಅಗಲವನ್ನು ಮತ್ತು 3.5 ರಷ್ಟು ಎತ್ತರವನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "X-ಅಕ್ಷ: ಅಂಕಗಳು (ವರ್ಗಾಂತರಗಳು)",
+    "Y-ಅಕ್ಷ: ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರ (10 ಅಂಕ ವ್ಯಾಪ್ತಿಗೆ ವಿದ್ಯಾರ್ಥಿಗಳ ಅನುಪಾತ)",
+    "ಅನುಗುಣವಾದ ಅಗಲ ಮತ್ತು ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರದೊಂದಿಗೆ ಅಂತರವಿಲ್ಲದ ಆಯತಗಳನ್ನು ರಚಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A histogram with unequal class widths. X-axis is labeled 'ಅಂಕಗಳು' (Marks) and scaled from 0 to 100. Y-axis is labeled 'ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರ' (Adjusted Height) or '10 ಅಂಕ ವ್ಯಾಪ್ತಿಗೆ ವಿದ್ಯಾರ್ಥಿಗಳ ಅನುಪಾತ'. The rectangles are drawn with their respective class widths and adjusted heights: (0-20, 3.5), (20-30, 10), (30-40, 10), (40-50, 20), (50-60, 20), (60-70, 15), (70-100, 2.67). There are no gaps between the bars.",
+    "labels": "X-axis, Y-axis, class intervals, adjusted heights",
+    "mathematical_significance": "This graph correctly represents the frequency distribution of data with unequal class intervals by ensuring the area of each rectangle is proportional to the frequency of its class.",
+    "placeholder_note": "Image to be generated"
+  },
+  "source_example_id": "DATA-STAT-2_example_2",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "X-ಅಕ್ಷದ ಮೇಲೆ ಅಂಕಗಳನ್ನು ಮತ್ತು Y-ಅಕ್ಷದ ಮೇಲೆ ಸರಿಹೊಂದಿಸಿದ ಎತ್ತರವನ್ನು ಬಳಸಿ, ಅಂತರವಿಲ್ಲದಂತೆ ಆಯತಗಳನ್ನು ರಚಿಸುವುದು.",
+      "justification": "ಆಯತದ ವಿಸ್ತೀರ್ಣವು ಆವೃತ್ತಿಗೆ ಅನುಪಾತದಲ್ಲಿರುತ್ತದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "DATA-STAT-2_concept_1_chunk_025"
+}

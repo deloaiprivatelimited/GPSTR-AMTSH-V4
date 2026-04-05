@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಮಟ್ಟ ಮಾಡುವುದರ ಪ್ರಯೋಜನಗಳು",
+  "script": "ಜಮೀನನ್ನು ಮಟ್ಟ ಮಾಡುವುದು ಯಾಕೆ ಇಷ್ಟು ಮುಖ್ಯ? ಮೊದಲನೆಯದಾಗಿ, ಇದು ಬಿತ್ತನೆ ಮತ್ತು ನೀರಾವರಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಜಮೀನು ಸಮತಟ್ಟಾಗಿದ್ದರೆ, ನೀರು ಎಲ್ಲಾ ಕಡೆ ಸಮನಾಗಿ ಹರಡುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಇದು ಮಣ್ಣಿನ ಸವೆತವನ್ನು ತಡೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಅತಿಯಾದ ಗಾಳಿ ಅಥವಾ ನೀರಿನಿಂದ ಮೇಲ್ಮಣ್ಣು ಕೊಚ್ಚಿ ಹೋಗುವುದನ್ನು ಇದು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಟ್ರ್ಯಾಕ್ಟರ್‌ಗೆ ಜೋಡಿಸಿದ ಲೆವೆಲ್ಲರ್ ಅನ್ನು ನೋಡಬಹುದು, ಅದು ಜಮೀನನ್ನು ಹೇಗೆ ಸಮತಟ್ಟು ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಜಮೀನನ್ನು ಮಟ್ಟ ಮಾಡುವುದು ಯಾಕೆ ಇಷ್ಟು ಮುಖ್ಯ? ಮೊದಲನೆಯದಾಗಿ, ಇದು ಬಿತ್ತನೆ ಮತ್ತು ನೀರಾವರಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಜಮೀನು ಸಮತಟ್ಟಾಗಿದ್ದರೆ, ನೀರು ಎಲ್ಲಾ ಕಡೆ ಸಮನಾಗಿ ಹರಡುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಇದು ಮಣ್ಣಿನ ಸವೆತವನ್ನು (soil erosion) ತಡೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಅತಿಯಾದ ಗಾಳಿ ಅಥವಾ ನೀರಿನಿಂದ ಮೇಲ್ಮಣ್ಣು ಕೊಚ್ಚಿ ಹೋಗುವುದನ್ನು ಇದು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ನೀವು ಟ್ರ್ಯಾಕ್ಟರ್‌ಗೆ ಜೋಡಿಸಿದ ಲೆವೆಲ್ಲರ್ ಅನ್ನು ನೋಡಬಹುದು, ಅದು ಜಮೀನನ್ನು ಹೇಗೆ ಸಮತಟ್ಟು ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಬಿತ್ತನೆ ಮತ್ತು ನೀರಾವರಿಗೆ ಸಹಕಾರಿ.",
+    "ಮಣ್ಣಿನ ಸವೆತವನ್ನು ತಡೆಯುತ್ತದೆ.",
+    "ನೀರು ಜಮೀನಿನಲ್ಲಿ ಸಮನಾಗಿ ಹರಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A tractor pulling a large, flat leveller (a wooden plank or iron beam) across a ploughed field. The field behind the leveller is smooth and flat, while the field in front is rough and clumpy after ploughing.",
+    "labels": "Tractor, Leveller (ಮಟ್ಟ ಮಾಡುವ ಸಾಧನ), Ploughed Soil (ಉಳುಮೆ ಮಾಡಿದ ಮಣ್ಣು), Levelled Soil (ಸಮತಟ್ಟು ಮಾಡಿದ ಮಣ್ಣು)",
+    "scientific_significance": "This visual demonstrates the mechanical process of levelling, which is crucial for ensuring uniform resource distribution (water, seeds) and preventing soil erosion, leading to better crop yield.",
+    "placeholder_note": "Image to be generated showing a tractor with a leveller in a field."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_8_chapter_1_concept_2_chunk_013"
+}

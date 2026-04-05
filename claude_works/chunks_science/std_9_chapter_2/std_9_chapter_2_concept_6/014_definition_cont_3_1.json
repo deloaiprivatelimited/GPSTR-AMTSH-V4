@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ಬೆಳಕು ಏಕೆ ಚದುರುತ್ತದೆ?",
+  "script": "ಹಾಗಾದರೆ, ಈ ಬೆಳಕಿನ ಚದುರುವಿಕೆ ಏಕೆ ಸಂಭವಿಸುತ್ತದೆ? ನಿಜವಾದ ದ್ರಾವಣದಲ್ಲಿ, ಕರಗಿದ ಕಣಗಳು ತುಂಬಾ ಚಿಕ್ಕದಾಗಿರುತ್ತವೆ, ಅವು ಬೆಳಕಿನ ಕಿರಣವನ್ನು ತಡೆಯದೆ, ನೇರವಾಗಿ ಹಾದುಹೋಗಲು ಬಿಡುತ್ತವೆ. ಆದರೆ, ಕಲಿಲ ದ್ರಾವಣದಲ್ಲಿ, ಕಣಗಳು ಸ್ವಲ್ಪ ದೊಡ್ಡದಾಗಿರುತ್ತವೆ. ಈ ಕಣಗಳು ಬೆಳಕಿನ ಕಿರಣಕ್ಕೆ ಅಡ್ಡಲಾಗಿ ಬಂದು, ಅದನ್ನು ಬೇರೆ ಬೇರೆ ದಿಕ್ಕುಗಳಿಗೆ ಚದುರಿಸುತ್ತವೆ. ಇದೇ ಕಾರಣದಿಂದ ನಮಗೆ ಬೆಳಕಿನ ಹಾದಿ ಕಾಣಿಸುತ್ತದೆ. ಇದನ್ನು ಒಂದು ಕತ್ತಲೆ ಕೋಣೆಯಲ್ಲಿ ಟಾರ್ಚ್ ಬೆಳಕನ್ನು ಹಾಯಿಸಿದಾಗ, ಧೂಳಿನ ಕಣಗಳು ಕಾಣುವಂತೆ ಹೋಲಿಸಬಹುದು.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಬೆಳಕಿನ ಚದುರುವಿಕೆ ಏಕೆ ಸಂಭವಿಸುತ್ತದೆ? ನಿಜವಾದ ದ್ರಾವಣದಲ್ಲಿ, ಕರಗಿದ ಕಣಗಳು ತುಂಬಾ ಚಿಕ್ಕದಾಗಿರುತ್ತವೆ, ಅವು ಬೆಳಕಿನ ಕಿರಣವನ್ನು ತಡೆಯದೆ, ನೇರವಾಗಿ ಹಾದುಹೋಗಲು ಬಿಡುತ್ತವೆ. ಆದರೆ, ಕಲಿಲ ದ್ರಾವಣದಲ್ಲಿ, ಕಣಗಳು ಸ್ವಲ್ಪ ದೊಡ್ಡದಾಗಿರುತ್ತವೆ. ಈ ಕಣಗಳು ಬೆಳಕಿನ ಕಿರಣಕ್ಕೆ ಅಡ್ಡಲಾಗಿ ಬಂದು, ಅದನ್ನು ಬೇರೆ ಬೇರೆ ದಿಕ್ಕುಗಳಿಗೆ ಚದುರಿಸುತ್ತವೆ. ಇದೇ ಕಾರಣದಿಂದ ನಮಗೆ ಬೆಳಕಿನ ಹಾದಿ ಕಾಣಿಸುತ್ತದೆ. ಇದನ್ನು ಒಂದು ಕತ್ತಲೆ ಕೋಣೆಯಲ್ಲಿ ಟಾರ್ಚ್ ಬೆಳಕನ್ನು ಹಾಯಿಸಿದಾಗ, ಧೂಳಿನ ಕಣಗಳು ಕಾಣುವಂತೆ ಹೋಲಿಸಬಹುದು.",
+  "display_bullets": [
+    "ನಿಜವಾದ ದ್ರಾವಣ: ಕಣಗಳು ಅತಿ ಚಿಕ್ಕದಾಗಿದ್ದು, ಬೆಳಕು ನೇರವಾಗಿ ಹಾದುಹೋಗುತ್ತದೆ.",
+    "ಕಲಿಲ ದ್ರಾವಣ: ಕಣಗಳು ದೊಡ್ಡದಾಗಿದ್ದು, ಬೆಳಕನ್ನು ಚದುರಿಸುತ್ತವೆ.",
+    "ಚದುರಿದ ಬೆಳಕಿನಿಂದಾಗಿ, ಅದರ ಮಾರ್ಗವು ಗೋಚರವಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing two beakers. Left beaker: 'True Solution'. A light beam passes through without the path being visible. Right beaker: 'Colloidal Solution'. A light beam passes through and the path of the beam is clearly visible due to scattering.",
+    "labels": "ಬೆಳಕಿನ ಮೂಲ, ನಿಜವಾದ ದ್ರಾವಣ, ಕಲಿಲ ದ್ರಾವಣ, ಚದುರಿದ ಬೆಳಕು, ಗೋಚರ ಪಥ",
+    "scientific_significance": "Illustrates the fundamental difference in how true solutions and colloids interact with light, which is the basis of the Tyndall effect.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "medium",
+  "source_example_id": "std_9_chapter_2_concept_6_def_4",
+  "chunk_id": "std_9_chapter_2_concept_6_chunk_014"
+}

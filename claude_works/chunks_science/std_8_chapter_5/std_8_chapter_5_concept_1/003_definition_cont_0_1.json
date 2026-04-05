@@ -1,0 +1,39 @@
+{
+  "type": "definition",
+  "slide_title": "ಅರಣ್ಯನಾಶ: ಒಂದು ದೃಶ್ಯ ವಿವರಣೆ",
+  "script": "ಈಗ ಅರಣ್ಯನಾಶದ ಪ್ರಕ್ರಿಯೆಯನ್ನು ದೃಶ್ಯದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಒಂದು ಕಡೆ ಹಚ್ಚ ಹಸಿರಿನ, ದಟ್ಟವಾದ ಅರಣ್ಯವಿದೆ. ಅಲ್ಲಿ ಸಾವಿರಾರು ಮರಗಳು, ಗಿಡಗಳು ಮತ್ತು ಪ್ರಾಣಿಗಳಿವೆ. ಆದರೆ, ಇನ್ನೊಂದು ಕಡೆ ಅದೇ ಪ್ರದೇಶವನ್ನು ಅರಣ್ಯನಾಶ ಮಾಡಿದ ನಂತರದ ಸ್ಥಿತಿಯನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಇಲ್ಲಿ ಮರಗಳನ್ನೆಲ್ಲಾ ಕಡಿದು, ಭೂಮಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತೆರವುಗೊಳಿಸಲಾಗಿದೆ. ಅಂದರೆ, ದಟ್ಟವಾದ ಅರಣ್ಯವನ್ನು ತೆರವುಗೊಳಿಸುವುದು ಮೊದಲ ಹಂತ. ನಂತರ, ಆ ಭೂಮಿಯನ್ನು ಬೇರೆ ಉದ್ದೇಶಗಳಿಗೆ ಪರಿವರ್ತಿಸುವುದು ನಡೆಯುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ખેતી ಮಾಡಲು ಅಥವಾ ಕಟ್ಟಡ ಕಟ್ಟಲು. ಇದರ ನೇರ ಪರಿಣಾಮವೆಂದರೆ, ಅಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದ ಅಸಂಖ್ಯಾತ ಜೀವಿಗಳ ನೈಸರ್ಗಿಕ ಆವಾಸಸ್ಥಾನದ ನಾಶವಾಗುತ್ತದೆ. ಇದು ಕೇವಲ ಮರಗಳ ನಷ್ಟವಲ್ಲ, ಸಂಪೂರ್ಣ ಪರಿಸರ ವ್ಯವಸ್ಥೆಯ ನಾಶವಾಗಿದೆ.",
+  "script_display": "ಈಗ ಅರಣ್ಯನಾಶದ ಪ್ರಕ್ರಿಯೆಯನ್ನು ದೃಶ್ಯದ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಈ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. ಒಂದು ಕಡೆ ಹಚ್ಚ ಹಸಿರಿನ, ದಟ್ಟವಾದ ಅರಣ್ಯವಿದೆ. ಆದರೆ, ಇನ್ನೊಂದು ಕಡೆ ಅದೇ ಪ್ರದೇಶವನ್ನು ಅರಣ್ಯನಾಶ ಮಾಡಿದ ನಂತರದ ಸ್ಥಿತಿಯನ್ನು ತೋರಿಸಲಾಗಿದೆ.",
+  "display_bullets": [
+    "ದಟ್ಟವಾದ ಅರಣ್ಯವನ್ನು ತೆರವುಗೊಳಿಸುವುದು.",
+    "ಭೂಮಿಯನ್ನು ಬೇರೆ ಉದ್ದೇಶಗಳಿಗೆ ಪರಿವರ್ತಿಸುವುದು (ಉದಾ: ಕೃಷಿ, ವಸತಿ).",
+    "ಜೀವಿಗಳ ನೈಸರ್ಗಿಕ ಆವಾಸಸ್ಥಾನದ ನಾಶ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A side-by-side comparison. On the left, a vibrant, dense forest teeming with life ('Before Deforestation'). On the right, the same landscape after clear-cutting: barren land with tree stumps, maybe a bulldozer, and a sign indicating 'Land for Agriculture' ('After Deforestation').",
+    "labels": "ಅರಣ್ಯ (Forest), ಅರಣ್ಯನಾಶಗೊಂಡ ಪ್ರದೇಶ (Deforested Area)",
+    "scientific_significance": "This visual contrast powerfully illustrates the concept of deforestation, showing the complete transformation and destruction of a forest ecosystem for land-use change.",
+    "placeholder_note": "Image to be generated showing a before/after of a forest being cleared."
+  },
+  "sub_type": "visual_explain",
+  "difficulty": "easy",
+  "source_example_id": "std_8_chapter_5_concept_1_def_1",
+  "chunk_id": "std_8_chapter_5_concept_1_chunk_003"
+}

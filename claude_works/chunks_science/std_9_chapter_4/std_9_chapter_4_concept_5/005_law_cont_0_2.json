@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ವಿವಿಧ ಕವಚಗಳ ಸಾಮರ್ಥ್ಯ",
+  "script": "ಈಗ two n squared ಸೂತ್ರವನ್ನು ಬಳಸಿ ಮೊದಲ ಕೆಲವು ಕವಚಗಳ ಗರಿಷ್ಠ ಇಲೆಕ್ಟ್ರಾನ್ ಸಾಮರ್ಥ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ. ಮೊದಲ ಕವಚ, K ಕವಚಕ್ಕೆ n ಬೆಲೆ ಒಂದು. ಹಾಗಾಗಿ, two times one squared ಅಂದರೆ ಎರಡು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು. ಎರಡನೇ ಕವಚ, L ಕವಚಕ್ಕೆ n ಬೆಲೆ ಎರಡು. two times two squared ಅಂದರೆ ಎಂಟು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು. ಮೂರನೇ ಕವಚ, M ಕವಚಕ್ಕೆ n ಬೆಲೆ ಮೂರು. two times three squared ಅಂದರೆ ಹದಿನೆಂಟು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು. ಮತ್ತು ನಾಲ್ಕನೇ ಕವಚ, N ಕವಚಕ್ಕೆ n ಬೆಲೆ ನಾಲ್ಕು. two times four squared ಅಂದರೆ ಮೂವತ್ತೆರಡು ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು. ಈ ಸಂಖ್ಯೆಗಳು ಪ್ರತಿ ಕವಚವು ಹಿಡಿದಿಡಬಹುದಾದ ಗರಿಷ್ಠ ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳಾಗಿವೆ.",
+  "script_display": "2n² ಸೂತ್ರವನ್ನು ಬಳಸಿ ಮೊದಲ ಕೆಲವು ಕವಚಗಳ ಗರಿಷ್ಠ ಇಲೆಕ್ಟ್ರಾನ್ ಸಾಮರ್ಥ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡೋಣ:\n• K-ಕವಚ (n=1): 2 x (1)² = 2 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು\n• L-ಕವಚ (n=2): 2 x (2)² = 8 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು\n• M-ಕವಚ (n=3): 2 x (3)² = 18 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು\n• N-ಕವಚ (n=4): 2 x (4)² = 32 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು",
+  "display_bullets": [
+    "K-ಕವಚ (n=1): ಗರಿಷ್ಠ 2 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು",
+    "L-ಕವಚ (n=2): ಗರಿಷ್ಠ 8 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು",
+    "M-ಕವಚ (n=3): ಗರಿಷ್ಠ 18 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು",
+    "N-ಕವಚ (n=4): ಗರಿಷ್ಠ 32 ಇಲೆಕ್ಟ್ರಾನ್‌ಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard_visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple Bohr model diagram showing a central nucleus and four concentric circles representing shells K, L, M, and N. Each shell is labeled with its name, 'n' value, and its calculated maximum electron capacity. K (n=1, 2e⁻), L (n=2, 8e⁻), M (n=3, 18e⁻), N (n=4, 32e⁻).",
+    "labels": "Nucleus, K shell, L shell, M shell, N shell, Maximum electrons",
+    "scientific_significance": "Visually represents the electron holding capacity of the first four principal energy shells as per the 2n² rule.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_4_concept_5_chunk_005"
+}

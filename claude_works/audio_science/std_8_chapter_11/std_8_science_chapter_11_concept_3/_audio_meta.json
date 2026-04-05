@@ -1,0 +1,191 @@
+{
+  "module_id": "std_8_science_chapter_11_concept_3",
+  "chapter_code": "std_8_chapter_11",
+  "voice": "Laomedeia",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 16,
+  "ok_count": 16,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:24:11",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "a2e1c989371e34458bbb70fc82f5f881",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 24.531,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 36,
+      "generated_at": "2026-04-02 14:20:59"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "07d398352e2638f70678c1579fcf1db9",
+      "wav_file": "001_intro_0.wav",
+      "duration": 76.411,
+      "slide_title": "ನೀರು ಮತ್ತು ದ್ರಾವಣಗಳ ವಾಹಕತೆ",
+      "type": "chunk",
+      "script_words": 104,
+      "generated_at": "2026-04-02 14:21:34"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "d875c2d43cf394ffef6ab7037dd47ff5",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 43.891,
+      "slide_title": "ಉತ್ತಮ ವಾಹಕ ದ್ರಾವಣಗಳು: ಇತರೆ ಉದಾಹರಣೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 14:21:36"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "b6b372f4de4d316e586414467b03dd67",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 49.211,
+      "slide_title": "ಉತ್ತಮ ವಾಹಕ ದ್ರಾವಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 62,
+      "generated_at": "2026-04-02 14:21:41"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "065ba0440da916706f6ad61d8afe2466",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 47.411,
+      "slide_title": "ದುರ್ಬಲ ವಾಹಕ ದ್ರಾವಣಗಳು",
+      "type": "concept_explanation",
+      "script_words": 64,
+      "generated_at": "2026-04-02 14:21:41"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "3ad6ba976dbbdcba45fe1958a0eb37f1",
+      "wav_file": "003_classification_0.wav",
+      "duration": 40.931,
+      "slide_title": "ವಾಹಕತೆಯ ಆಧಾರದ ಮೇಲೆ ದ್ರಾವಣಗಳ ವರ್ಗೀಕರಣ",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 14:22:09"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "f480c19486de08fa817e1773a6d1e992",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 47.691,
+      "slide_title": "ದುರ್ಬಲ ವಾಹಕ ದ್ರಾವಣಗಳು: ಇತರೆ ಉದಾಹರಣೆಗಳು",
+      "type": "concept_explanation",
+      "script_words": 57,
+      "generated_at": "2026-04-02 14:22:25"
+    },
+    "009_experiment_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "b64f047ad56df4e969447c7b49e74aad",
+      "wav_file": "009_experiment_cont_0_1.wav",
+      "duration": 41.371,
+      "slide_title": "ಪರೀಕ್ಷೆಗೆ ಬೇಕಾದ ಉಪಕರಣಗಳು",
+      "type": "experiment_activity",
+      "script_words": 59,
+      "generated_at": "2026-04-02 14:22:39"
+    },
+    "008_experiment_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "bdb202899ab60218ab6cc3f03f6ec7bd",
+      "wav_file": "008_experiment_0.wav",
+      "duration": 45.131,
+      "slide_title": "ಚಟುವಟಿಕೆ: ವಿವಿಧ ದ್ರಾವಣಗಳ ವಾಹಕತೆ",
+      "type": "experiment_activity",
+      "script_words": 59,
+      "generated_at": "2026-04-02 14:22:40"
+    },
+    "010_experiment_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "9df7e442ba1dd80fcdc8a4ec165ef518",
+      "wav_file": "010_experiment_cont_0_2.wav",
+      "duration": 44.131,
+      "slide_title": "ಹಂತ 1: ಆಸವಿತ ನೀರಿನ ಪರೀಕ್ಷೆ",
+      "type": "experiment_activity",
+      "script_words": 57,
+      "generated_at": "2026-04-02 14:22:42"
+    },
+    "011_experiment_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "1bc1098cc173f05572961b638276c1e0",
+      "wav_file": "011_experiment_cont_0_3.wav",
+      "duration": 35.211,
+      "slide_title": "ಗಮನಿಸಿದ ಅಂಶ: ಆಸವಿತ ನೀರು",
+      "type": "experiment_activity",
+      "script_words": 50,
+      "generated_at": "2026-04-02 14:23:05"
+    },
+    "012_experiment_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "2712fe8d926a7965f5fc1fa5e242cea7",
+      "wav_file": "012_experiment_cont_0_4.wav",
+      "duration": 40.691,
+      "slide_title": "ಹಂತ 2: ಉಪ್ಪಿನ ದ್ರಾವಣದ ಪರೀಕ್ಷೆ",
+      "type": "experiment_activity",
+      "script_words": 55,
+      "generated_at": "2026-04-02 14:23:15"
+    },
+    "014_experiment_cont_0_6.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "70f99034b88dfced8b09d0b408d9ba5c",
+      "wav_file": "014_experiment_cont_0_6.wav",
+      "duration": 44.491,
+      "slide_title": "ಹಂತ 3: ಇತರ ದ್ರಾವಣಗಳ ಪರೀಕ್ಷೆ",
+      "type": "experiment_activity",
+      "script_words": 61,
+      "generated_at": "2026-04-02 14:23:40"
+    },
+    "015_experiment_cont_0_7.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "6ecc5d5f2c0dd76af5fbdf675b5198be",
+      "wav_file": "015_experiment_cont_0_7.wav",
+      "duration": 43.051,
+      "slide_title": "ಅಂತಿಮ ತೀರ್ಮಾನ",
+      "type": "experiment_activity",
+      "script_words": 57,
+      "generated_at": "2026-04-02 14:23:42"
+    },
+    "016_recap_0.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "1c136d53a720e311a6618d3a902f6b24",
+      "wav_file": "016_recap_0.wav",
+      "duration": 52.611,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 55,
+      "generated_at": "2026-04-02 14:23:46"
+    },
+    "013_experiment_cont_0_5.json": {
+      "status": "ok",
+      "voice": "Laomedeia",
+      "script_hash": "ca3dbf7d886b6f9e102be778222976e2",
+      "wav_file": "013_experiment_cont_0_5.wav",
+      "duration": 38.531,
+      "slide_title": "ಗಮನಿಸಿದ ಅಂಶ: ಉಪ್ಪಿನ ದ್ರಾವಣ",
+      "type": "experiment_activity",
+      "script_words": 50,
+      "generated_at": "2026-04-02 14:24:11"
+    }
+  }
+}

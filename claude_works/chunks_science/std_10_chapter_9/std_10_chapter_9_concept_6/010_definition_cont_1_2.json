@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ನೀರಿನ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನೀರಿನ ನಿರಪೇಕ್ಷ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕವು 1.33 ಆಗಿದೆ. ಇದರ ನಿಜವಾದ ಅರ್ಥವೇನು? ಇದರರ್ಥ, ನಿರ್ವಾತದಲ್ಲಿ ಚಲಿಸುವುದಕ್ಕೆ ಹೋಲಿಸಿದರೆ, ಬೆಳಕು ನೀರಿನಲ್ಲಿ 1.33 ಪಟ್ಟು ನಿಧಾನವಾಗಿ ಚಲಿಸುತ್ತದೆ. ಅಂದರೆ, ಬೆಳಕಿನ ವೇಗವು ನೀರಿನಲ್ಲಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕವು ಒಂದು ಸಂಖ್ಯೆಯಾಗಿದ್ದು, ಒಂದು ಮಾಧ್ಯಮವು ಬೆಳಕಿನ ವೇಗವನ್ನು ಎಷ್ಟು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ನಮಗೆ ತಿಳಿಸುತ್ತದೆ. ಹೆಚ್ಚಿನ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ ಎಂದರೆ, ಬೆಳಕಿನ ವೇಗವು ಆ ಮಾಧ್ಯಮದಲ್ಲಿ ಹೆಚ್ಚು ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯೊಂದಿಗೆ ಇದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನೀರಿನ ನಿರಪೇಕ್ಷ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕವು 1.33 ಆಗಿದೆ. ಇದರ ನಿಜವಾದ ಅರ್ಥವೇನು? ಇದರರ್ಥ, ನಿರ್ವಾತದಲ್ಲಿ ಚಲಿಸುವುದಕ್ಕೆ ಹೋಲಿಸಿದರೆ, ಬೆಳಕು ನೀರಿನಲ್ಲಿ 1.33 ಪಟ್ಟು ನಿಧಾನವಾಗಿ ಚಲಿಸುತ್ತದೆ. ಅಂದರೆ, ಬೆಳಕಿನ ವೇಗವು ನೀರಿನಲ್ಲಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕವು ಒಂದು ಸಂಖ್ಯೆಯಾಗಿದ್ದು, ಒಂದು ಮಾಧ್ಯಮವು ಬೆಳಕಿನ ವೇಗವನ್ನು ಎಷ್ಟು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ನಮಗೆ ತಿಳಿಸುತ್ತದೆ. ಹೆಚ್ಚಿನ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ ಎಂದರೆ, ಬೆಳಕಿನ ವೇಗವು ಆ ಮಾಧ್ಯಮದಲ್ಲಿ ಹೆಚ್ಚು ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ನೀರಿನ ನಿರಪೇಕ್ಷ ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ ($n_{water}$) = 1.33",
+    "ಅರ್ಥ: ನಿರ್ವಾತಕ್ಕೆ ಹೋಲಿಸಿದರೆ ನೀರಿನಲ್ಲಿ ಬೆಳಕು 1.33 ಪಟ್ಟು ನಿಧಾನವಾಗಿ ಚಲಿಸುತ್ತದೆ.",
+    "ಗಣಿತೀಯವಾಗಿ: $v_{water} = \\frac{c}{1.33}$"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple diagram showing a light ray passing from a rarer medium (air/vacuum) into a denser medium (water). The ray bends towards the normal. Label 'Air (n≈1)', 'Water (n=1.33)', the incident ray, the refracted ray, and the normal.",
+    "labels": "ಗಾಳಿ, ನೀರು, ಪತನ ಕಿರಣ, ವಕ್ರೀಭವನ ಕಿರಣ, ಲಂಬ",
+    "scientific_significance": "Illustrates the concept of refraction and how the speed and direction of light change when entering an optically denser medium.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_9_concept_6_chunk_010"
+}

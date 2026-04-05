@@ -1,0 +1,34 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯ ವಿವರಗಳು",
+  "script": "ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯ ವಿವರಗಳನ್ನು ನೋಡೋಣ. ಮೊದಲನೆಯದಾಗಿ, ಪ್ರತಿವರ್ತಕಗಳು. ಇಲ್ಲಿ ಸ್ವತಂತ್ರ ಆಮ್ಲಜನಕ ಪರಮಾಣು ಮತ್ತು ಆಮ್ಲಜನಕ ಅಣು ಪ್ರತಿವರ್ತಕಗಳಾಗಿವೆ. ಎರಡನೆಯದಾಗಿ, ಉತ್ಪನ್ನ. ಈ ಕ್ರಿಯೆಯಿಂದ ಓಝೋನ್ ಅಣು ಉತ್ಪನ್ನವಾಗಿ ಸಿಗುತ್ತದೆ. ಕೊನೆಯದಾಗಿ, ಇದು ಯಾವ ರೀತಿಯ ಕ್ರಿಯೆ? ಇದು ಒಂದು ಸಂಯೋಗ ಕ್ರಿಯೆ, ಏಕೆಂದರೆ ಎರಡು ವಸ್ತುಗಳು ಸೇರಿ ಒಂದೇ ಉತ್ಪನ್ನವನ್ನು ನೀಡುತ್ತಿವೆ.",
+  "script_display": "ಈ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯ ವಿವರಗಳನ್ನು ನೋಡೋಣ.",
+  "display_bullets": [
+    "ಪ್ರತಿವರ್ತಕಗಳು (Reactants): ಸ್ವತಂತ್ರ ಆಮ್ಲಜನಕ ಪರಮಾಣು (O) ಮತ್ತು ಆಮ್ಲಜನಕ ಅಣು (O₂)",
+    "ಉತ್ಪನ್ನ (Product): ಓಝೋನ್ ಅಣು (O₃)",
+    "ಕ್ರಿಯೆಯ ವಿಧ (Type of Reaction): ಸಂಯೋಗ ಕ್ರಿಯೆ (Combination Reaction)"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "bullet_list_v1",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "chemical_equation",
+  "difficulty": "medium",
+  "source_example_id": "std_10_ch_13_eq_2_slide_3",
+  "chunk_id": "std_10_chapter_13_concept_6_chunk_011"
+}

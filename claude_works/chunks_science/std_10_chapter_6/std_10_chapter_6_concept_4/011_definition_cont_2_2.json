@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಋಣ ದ್ಯುತಿ ಅನುವರ್ತನೆ (ಬೇರುಗಳು)",
+  "script": "ಋಣ ಅನುವರ್ತನೆಗೆ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ, ಅದುವೇ ಋಣ ದ್ಯುತಿ ಅನುವರ್ತನೆ. 'ದ್ಯುತಿ' ಎಂದರೆ ಬೆಳಕು. ಸಸ್ಯದ ಬೇರುಗಳು ಬೆಳಕಿನ ಪ್ರಚೋದನೆಯಿಂದ ದೂರ, ಅಂದರೆ ಕತ್ತಲಿರುವ ಮಣ್ಣಿನ ಆಳಕ್ಕೆ ಬೆಳೆಯುತ್ತವೆ. ಇದು ಬೆಳಕಿಗೆ ತೋರುವ ಋಣಾತ್ಮಕ ಪ್ರತಿಕ್ರಿಯೆ. ಆದ್ದರಿಂದ, ಬೇರುಗಳು ಋಣ ದ್ಯುತಿ ಅನುವರ್ತನೆಯನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತವೆ ಎಂದು ನಾವು ಹೇಳಬಹುದು. ಇದೇ ಸಮಯದಲ್ಲಿ, ನಿಮಗೆ ತಿಳಿದಿರುವ ಹಾಗೆ, ಕಾಂಡವು ಬೆಳಕಿನ ಕಡೆಗೆ ಬಾಗಿ, ಧನ ದ್ಯುತಿ ಅನುವರ್ತನೆಯನ್ನು ತೋರಿಸುತ್ತದೆ. ಇದು ಸಸ್ಯದ ಬದುಕುಳಿಯುವಿಕೆಗೆ ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಋಣ ಅನುವರ್ತನೆಗೆ ಮತ್ತೊಂದು ಪ್ರಮುಖ ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ, ಅದುವೇ ಋಣ ದ್ಯುತಿ ಅನುವರ್ತನೆ. 'ದ್ಯುತಿ' ಎಂದರೆ ಬೆಳಕು. ಸಸ್ಯದ ಬೇರುಗಳು ಬೆಳಕಿನ ಪ್ರಚೋದನೆಯಿಂದ ದೂರ, ಅಂದರೆ ಕತ್ತಲಿರುವ ಮಣ್ಣಿನ ಆಳಕ್ಕೆ ಬೆಳೆಯುತ್ತವೆ. ಇದು ಬೆಳಕಿಗೆ ತೋರುವ ಋಣಾತ್ಮಕ ಪ್ರತಿಕ್ರಿಯೆ. ಆದ್ದರಿಂದ, ಬೇರುಗಳು ಋಣ ದ್ಯುತಿ ಅನುವರ್ತನೆಯನ್ನು (Negative Phototropism) ಪ್ರದರ್ಶಿಸುತ್ತವೆ ಎಂದು ನಾವು ಹೇಳಬಹುದು. ಇದೇ ಸಮಯದಲ್ಲಿ, ನಿಮಗೆ ತಿಳಿದಿರುವ ಹಾಗೆ, ಕಾಂಡವು ಬೆಳಕಿನ ಕಡೆಗೆ ಬಾಗಿ, ಧನ ದ್ಯುತಿ ಅನುವರ್ತನೆಯನ್ನು (Positive Phototropism) ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಸ್ಯದ ಬೇರುಗಳು ಬೆಳಕಿನ ಪ್ರಚೋದನೆಯಿಂದ ದೂರ ಬೆಳೆಯುತ್ತವೆ.",
+    "ಇದು ಬೆಳಕಿಗೆ ತೋರುವ ಋಣಾತ್ಮಕ ಪ್ರತಿಕ್ರಿಯೆ.",
+    "ಆದ್ದರಿಂದ, ಇದನ್ನು ಋಣ ದ್ಯುತಿ ಅನುವರ್ತನೆ (Negative Phototropism) ಎನ್ನುತ್ತಾರೆ.",
+    "ಹೋಲಿಕೆ: ಕಾಂಡವು ಧನ ದ್ಯುತಿ ಅನುವರ್ತನೆ ತೋರಿಸುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a plant in a transparent container. A light source (like a sun icon) is positioned above and to one side. The plant stem is shown bending towards the light. The roots inside the transparent container are shown growing downwards and away from the direction of the light source.",
+    "labels": "ಬೆಳಕಿನ ಮೂಲ, ಕಾಂಡ (ಧನ ದ್ಯುತಿ ಅನುವರ್ತನೆ), ಬೇರುಗಳು (ಋಣ ದ್ಯುತಿ ಅನುವರ್ತನೆ)",
+    "scientific_significance": "Demonstrates that roots exhibit negative phototropism by growing away from a light source, contrasting with the positive phototropism of the stem. This reinforces the concept of 'negative' tropism as movement away from a stimulus.",
+    "placeholder_note": "Image to be generated to show negative phototropism in roots."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_6_concept_4_chunk_011"
+}

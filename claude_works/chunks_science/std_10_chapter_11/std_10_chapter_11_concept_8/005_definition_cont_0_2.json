@@ -1,0 +1,38 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಮರ್ಥ್ಯವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+  "script": "ಇದನ್ನು ಇನ್ನೂ ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಮ್ಮ ಮನೆಯಲ್ಲಿರುವ ಎರಡು ಬಲ್ಬ್‌ಗಳನ್ನು ಹೋಲಿಸೋಣ. ಒಂದು 10 ವ್ಯಾಟ್ ಬಲ್ಬ್ ಮತ್ತು ಇನ್ನೊಂದು 100 ವ್ಯಾಟ್ ಬಲ್ಬ್. 100 ವ್ಯಾಟ್ ಬಲ್ಬ್ ಹೆಚ್ಚು ಪ್ರಕಾಶಮಾನವಾಗಿರುತ್ತದೆ, ಅಲ್ವಾ? ಯಾಕೆಂದರೆ ಅದು ಹೆಚ್ಚು 'ಸಾಮರ್ಥ್ಯ' ಹೊಂದಿದೆ. ಇದರರ್ಥ, 100 ವ್ಯಾಟ್ ಬಲ್ಬ್ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ 100 ಜೌಲ್ ಶಕ್ತಿಯನ್ನು ಬಳಸುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, 10 ವ್ಯಾಟ್ ಬಲ್ಬ್ ಕೇವಲ 10 ಜೌಲ್ ಶಕ್ತಿಯನ್ನು ಬಳಸುತ್ತದೆ. ಹೀಗೆ, ಸಾಮರ್ಥ್ಯವು ಶಕ್ತಿ ಬಳಕೆಯ ವೇಗವನ್ನು ತಿಳಿಸುತ್ತದೆ.",
+  "script_display": "ಇದನ್ನು ಇನ್ನೂ ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಒಂದು ಉದಾಹರಣೆ ತೆಗೆದುಕೊಳ್ಳೋಣ. ನಮ್ಮ ಮನೆಯಲ್ಲಿರುವ ಎರಡು ಬಲ್ಬ್‌ಗಳನ್ನು ಹೋಲಿಸೋಣ. ಒಂದು 10W ಬಲ್ಬ್ ಮತ್ತು ಇನ್ನೊಂದು 100W ಬಲ್ಬ್. 100W ಬಲ್ಬ್ ಹೆಚ್ಚು ಪ್ರಕಾಶಮಾನವಾಗಿರುತ್ತದೆ, ಅಲ್ವಾ? ಯಾಕೆಂದರೆ ಅದು ಹೆಚ್ಚು 'ಸಾಮರ್ಥ್ಯ' ಹೊಂದಿದೆ. ಇದರರ್ಥ, 100W ಬಲ್ಬ್ ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ 100 Joules ಶಕ್ತಿಯನ್ನು ಬಳಸುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, 10W ಬಲ್ಬ್ ಕೇವಲ 10 Joules ಶಕ್ತಿಯನ್ನು ಬಳಸುತ್ತದೆ. ಹೀಗೆ, ಸಾಮರ್ಥ್ಯವು ಶಕ್ತಿ ಬಳಕೆಯ ವೇಗವನ್ನು ತಿಳಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "100W ಬಲ್ಬ್ ಹೆಚ್ಚು 'ಸಾಮರ್ಥ್ಯ' ಹೊಂದಿದೆ.",
+    "ಅಂದರೆ, ಅದು ಶಕ್ತಿಯನ್ನು ವೇಗವಾಗಿ ಬಳಸುತ್ತದೆ.",
+    "10W ಬಲ್ಬ್: ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ 10 ಜೌಲ್ ಶಕ್ತಿ.",
+    "100W ಬಲ್ಬ್: ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ 100 ಜೌಲ್ ಶಕ್ತಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_explain_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram comparing two light bulbs. On the left, a dim bulb labeled '10 W' with a text bubble '10 Joules per second'. On the right, a bright bulb labeled '100 W' with a text bubble '100 Joules per second'. The 100W bulb is visibly brighter than the 10W bulb.",
+    "labels": "10W bulb, 100W bulb, energy consumption rate",
+    "scientific_significance": "Visually demonstrates that higher power (Wattage) corresponds to a higher rate of energy consumption (Joules per second).",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_11_concept_8_chunk_005"
+}

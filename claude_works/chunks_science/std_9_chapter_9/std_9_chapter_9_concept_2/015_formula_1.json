@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಗುರುತ್ವ ನಿಯಮದ ಗಣಿತೀಯ ರೂಪ",
+  "script": "ಈಗ, ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ನಿಯಮದ ಗಣಿತೀಯ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಈ ಸೂತ್ರವು ಎಫ್ ಈಕ್ವಲ್ಸ್ ಜಿ ಇಂಟು ಕ್ಯಾಪಿಟಲ್ ಎಂ ಇಂಟು ಸ್ಮಾಲ್ ಎಂ ಡಿವೈಡೆಡ್ ಬೈ ಡಿ ಸ್ಕ್ವೇರ್ಡ್ ಆಗಿದೆ. ಇಲ್ಲಿ, ಎಫ್ ಎಂದರೆ ಎರಡು ವಸ್ತುಗಳ ನಡುವಿನ ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ. ಜಿ ಎಂಬುದು ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ, ಇದರ ಮೌಲ್ಯ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. ಕ್ಯಾಪಿಟಲ್ ಎಂ ಮತ್ತು ಸ್ಮಾಲ್ ಎಂ ಗಳು ಎರಡು ವಸ್ತುಗಳ ರಾಶಿಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಮತ್ತು ಡಿ ಎಂದರೆ ಆ ಎರಡು ವಸ್ತುಗಳ ಕೇಂದ್ರಗಳ ನಡುವಿನ ದೂರ. ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ, ಯಾವುದೇ ಎರಡು ವಸ್ತುಗಳ ನಡುವಿನ ಆಕರ್ಷಣ ಬಲವನ್ನು ನಾವು ನಿಖರವಾಗಿ ಲೆಕ್ಕ ಹಾಕಬಹುದು.",
+  "script_display": "ಈಗ, ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ನಿಯಮದ ಗಣಿತೀಯ ಸೂತ್ರವನ್ನು ನೋಡೋಣ. ಈ ಸೂತ್ರವು $F = G \\frac{Mm}{d^2}$ ಆಗಿದೆ. ಇಲ್ಲಿ, F ಎಂದರೆ ಎರಡು ವಸ್ತುಗಳ ನಡುವಿನ ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ. G ಎಂಬುದು ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ, ಇದರ ಮೌಲ್ಯ ಸ್ಥಿರವಾಗಿರುತ್ತದೆ. M ಮತ್ತು m ಗಳು ಎರಡು ವಸ್ತುಗಳ ರಾಶಿಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಮತ್ತು d ಎಂದರೆ ಆ ಎರಡು ವಸ್ತುಗಳ ಕೇಂದ್ರಗಳ ನಡುವಿನ ದೂರ. ಈ ಸೂತ್ರವನ್ನು ಬಳಸಿ, ಯಾವುದೇ ಎರಡು ವಸ್ತುಗಳ ನಡುವಿನ ಆಕರ್ಷಣ ಬಲವನ್ನು ನಾವು ನಿಖರವಾಗಿ ಲೆಕ್ಕ ಹಾಕಬಹುದು.",
+  "display_bullets": [
+    "F: ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ (Gravitational Force)",
+    "G: ವಿಶ್ವವ್ಯಾಪಿ ಗುರುತ್ವ ಸ್ಥಿರಾಂಕ (Universal Gravitational Constant)",
+    "M ಮತ್ತು m: ಎರಡು ವಸ್ತುಗಳ ರಾಶಿಗಳು (Masses of the two objects)",
+    "d: ವಸ್ತುಗಳ ಕೇಂದ್ರಗಳ ನಡುವಿನ ದೂರ (Distance between the centers of the objects)"
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "modern_science",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "F = G \\frac{Mm}{d^2}",
+    "placeholder_note": "Formula for Newton's Law of Gravitation"
+  },
+  "sub_type": "formula_showcase",
+  "chunk_id": "std_9_chapter_9_concept_2_chunk_015"
+}

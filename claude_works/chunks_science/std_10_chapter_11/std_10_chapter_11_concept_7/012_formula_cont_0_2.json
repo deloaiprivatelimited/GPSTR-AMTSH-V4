@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉದಾಹರಣೆ: ಲೆಕ್ಕಾಚಾರ",
+  "script": "ಈಗ ಜೌಲ್‌ನ ನಿಯಮದ ಸೂತ್ರವನ್ನು ಬಳಸೋಣ: ಎಚ್ ಈಕ್ವಲ್ಸ್ ಐ ಸ್ಕ್ವೇರ್ಡ್ ಆರ್ ಟಿ. ದತ್ತಾಂಶಗಳನ್ನು ಸೂತ್ರದಲ್ಲಿ ಆದೇಶಿಸೋಣ. ಎಚ್ ಈಕ್ವಲ್ಸ್ ಐದರ ವರ್ಗ ಇಂಟು ನಾಲ್ಕು ಇಂಟು ನೂರಾ ಇಪ್ಪತ್ತು. ಐದರ ವರ್ಗ ಎಂದರೆ ಇಪ್ಪತ್ತೈದು. ಹಾಗಾಗಿ, ಎಚ್ ಈಕ್ವಲ್ಸ್ ಇಪ್ಪತ್ತೈದು ಇಂಟು ನಾಲ್ಕು ಇಂಟು ನೂರಾ ಇಪ್ಪತ್ತು. ಇಪ್ಪತ್ತೈದು ಇಂಟು ನಾಲ್ಕು ನೂರು ಆಗುತ್ತದೆ. ನೂರು ಇಂಟು ನೂರಾ ಇಪ್ಪತ್ತು ಎಂದರೆ ಹನ್ನೆರಡು ಸಾವಿರ. ಆದ್ದರಿಂದ, ಉತ್ಪತ್ತಿಯಾದ ಉಷ್ಣದ ಪ್ರಮಾಣ ಹನ್ನೆರಡು ಸಾವಿರ ಜೌಲ್‌ಗಳು, ಅಥವಾ ಹನ್ನೆರಡು ಕಿಲೋ ಜೌಲ್‌ಗಳು.",
+  "script_display": "**ಸೂತ್ರ:** H = I²Rt\n\n**ಆದೇಶ (Substitution):**\nH = (5)² × 4 × 120\n\n**ಲೆಕ್ಕಾಚಾರ (Calculation):**\nH = 25 × 4 × 120\nH = 100 × 120\nH = 12000 J\n\n**ಉತ್ತರ:** ಉತ್ಪತ್ತಿಯಾದ ಉಷ್ಣ = 12000 J ಅಥವಾ 12 kJ.",
+  "display_bullets": [
+    "ಸೂತ್ರ: H = I²Rt",
+    "ಆದೇಶ: H = (5)² × 4 × 120",
+    "ಲೆಕ್ಕಾಚಾರ: H = 25 × 480 = 12000 J",
+    "ಉತ್ತರ: 12000 J (ಅಥವಾ 12 kJ)"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "H = I^2Rt \\\\ H = (5)^2 \\times 4 \\times 120 \\\\ H = 25 \\times 480 \\\\ H = 12000 \\, \\text{J}",
+    "placeholder_note": "Calculation steps for the worked example"
+  },
+  "chunk_id": "std_10_chapter_11_concept_7_chunk_012"
+}

@@ -1,0 +1,79 @@
+{
+  "module_id": "std_6_chapter_9_concept_1",
+  "chapter_code": "std_6_chapter_9",
+  "voice": "Enceladus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 6,
+  "total_duration": 266.626,
+  "total_duration_formatted": "4:26",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_6_chapter_9_concept_1_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ಬೇರ್ಪಡಿಸುವಿಕೆಯ ಅವಶ್ಯಕತೆ",
+      "type": "intro",
+      "start": 0.0,
+      "end": 57.011,
+      "duration": 57.011,
+      "script_words": 70
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_1_chunk_002",
+      "chunk_file": "002_classification_0.json",
+      "wav_file": "002_classification_0.wav",
+      "slide_title": "ಬೇರ್ಪಡಿಸುವಿಕೆಯ ಮುಖ್ಯ ಉದ್ದೇಶಗಳು",
+      "type": "concept_explanation",
+      "start": 57.611,
+      "end": 92.382,
+      "duration": 34.771,
+      "script_words": 45
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_1_chunk_003",
+      "chunk_file": "003_classification_cont_0_1.json",
+      "wav_file": "003_classification_cont_0_1.wav",
+      "slide_title": "ಉದ್ದೇಶ 1: ಅನುಪಯುಕ್ತ ಘಟಕಗಳನ್ನು ತೆಗೆದುಹಾಕಲು",
+      "type": "concept_explanation",
+      "start": 92.982,
+      "end": 138.993,
+      "duration": 46.011,
+      "script_words": 61
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_1_chunk_004",
+      "chunk_file": "004_classification_cont_0_2.json",
+      "wav_file": "004_classification_cont_0_2.wav",
+      "slide_title": "ಉದ್ದೇಶ 2: ಉಪಯುಕ್ತ ಘಟಕಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಲು",
+      "type": "concept_explanation",
+      "start": 139.593,
+      "end": 186.404,
+      "duration": 46.811,
+      "script_words": 60
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_1_chunk_005",
+      "chunk_file": "005_classification_cont_0_3.json",
+      "wav_file": "005_classification_cont_0_3.wav",
+      "slide_title": "ಸಾರಾಂಶ: ಬೇರ್ಪಡಿಸುವಿಕೆಯ ಉದ್ದೇಶಗಳು",
+      "type": "concept_explanation",
+      "start": 187.004,
+      "end": 221.695,
+      "duration": 34.691,
+      "script_words": 47
+    },
+    {
+      "chunk_id": "std_6_chapter_9_concept_1_chunk_006",
+      "chunk_file": "006_recap_0.json",
+      "wav_file": "006_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 222.295,
+      "end": 266.026,
+      "duration": 43.731,
+      "script_words": 56
+    }
+  ]
+}

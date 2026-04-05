@@ -1,0 +1,43 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಮಸ್ಯೆ: ಸಮದೂರದಲ್ಲಿರುವ ಬಿಂದುವಿನ ರಚನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ B ಮತ್ತು C ಎಂಬ ಎರಡು ಬಿಂದುಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಮಾಡಬೇಕಾಗಿರುವುದು, ಈ ಎರಡೂ ಬಿಂದುಗಳಿಂದ ಐದು ಸೆಂಟಿಮೀಟರ್ ದೂರದಲ್ಲಿರುವ A ಎಂಬ ಬಿಂದುವನ್ನು ರಚಿಸುವುದು. ಇದನ್ನು ನೀವು ಒಂದು ಮನೆಯ ಚಿತ್ರದಲ್ಲಿ ಛಾವಣಿಯ ಮೇಲ್ತುದಿಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಹಾಗೆ ಕಲ್ಪಿಸಿಕೊಳ್ಳಬಹುದು. ಹಾಗಾದರೆ, ಕೊಟ್ಟಿರುವ ಬಿಂದುಗಳು B ಮತ್ತು C. ನಮ್ಮ ಗುರಿ, B ಮತ್ತು C ಎರಡರಿಂದಲೂ ಐದು ಸೆಂಟಿಮೀಟರ್ ದೂರದಲ್ಲಿರುವ A ಬಿಂದುವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ B ಮತ್ತು C ಎಂಬ ಎರಡು ಬಿಂದುಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ನಾವು ಮಾಡಬೇಕಾಗಿರುವುದು, ಈ ಎರಡೂ ಬಿಂದುಗಳಿಂದ $5 \\text{ cm}$ ದೂರದಲ್ಲಿರುವ A ಎಂಬ ಬಿಂದುವನ್ನು ರಚಿಸುವುದು. (ಇದನ್ನು ನೀವು ಒಂದು ಮನೆಯ ಚಿತ್ರದಲ್ಲಿ ಛಾವಣಿಯ ಮೇಲ್ತುದಿಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಹಾಗೆ ಕಲ್ಪಿಸಿಕೊಳ್ಳಬಹುದು).",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಬಿಂದುಗಳು: B ಮತ್ತು C",
+    "ಗುರಿ: B ಮತ್ತು C ಎರಡರಿಂದಲೂ 5 cm ದೂರದಲ್ಲಿರುವ A ಬಿಂದುವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ಸಮತಲದಲ್ಲಿ B ಮತ್ತು C ಎಂಬ ಎರಡು ಪ್ರತ್ಯೇಕ ಬಿಂದುಗಳನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಇವುಗಳ ನಡುವೆ ಸ್ವಲ್ಪ ಅಂತರವಿದೆ.",
+    "labels": "B, C",
+    "mathematical_significance": "ಇವು ರಚನೆಗೆ ಆಧಾರವಾಗಿರುವ ಕೊಟ್ಟಿರುವ ಬಿಂದುಗಳು.",
+    "placeholder_note": "Image showing two distinct points labeled B and C on a horizontal line."
+  },
+  "source_example_id": "VIS-CON-1_example_4",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "VIS-CON-1_concept_5_chunk_003"
+}

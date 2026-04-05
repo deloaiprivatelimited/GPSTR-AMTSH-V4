@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣ",
+  "script": "ಈ ಕೋನಗಳ ಅತ್ಯಂತ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವೆಂದರೆ, ಎರಡು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಒಂದು ಛೇದಕವು ಛೇದಿಸಿದಾಗ, ಉಂಟಾಗುವ ಬಾಹ್ಯ ಪರ್ಯಾಯ ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮವಾಗಿರುತ್ತವೆ. ಇದು ಒಂದು ಪ್ರಮುಖ ಪ್ರಮೇಯ. ಅಂದರೆ, l ಮತ್ತು m ರೇಖೆಗಳು ಸಮಾಂತರವಾಗಿದ್ದರೆ, ಆಗ ಕೋನ ಒಂದು ಕೋನ ಏಳಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಹಾಗೆಯೇ, ಕೋನ ಎರಡು ಕೋನ ಎಂಟಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ. ಈ ನಿಯಮವನ್ನು ಬಳಸಿ ನಾವು ಅನೇಕ ಜ್ಯಾಮಿತಿಯ ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಬಹುದು.",
+  "script_display": "ಈ ಕೋನಗಳ ಅತ್ಯಂತ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣವೆಂದರೆ, ಎರಡು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಒಂದು ಛೇದಕವು ಛೇದಿಸಿದಾಗ, ಉಂಟಾಗುವ ಬಾಹ್ಯ ಪರ್ಯಾಯ ಕೋನಗಳು ಯಾವಾಗಲೂ ಸಮವಾಗಿರುತ್ತವೆ. ಇದು ಒಂದು ಪ್ರಮುಖ ಪ್ರಮೇಯ. ಅಂದರೆ, $l \\parallel m$ ಆಗಿದ್ದರೆ, ಆಗ $\\angle 1 = \\angle 7$. ಹಾಗೆಯೇ, $\\angle 2 = \\angle 8$. ಈ ನಿಯಮವನ್ನು ಬಳಸಿ ನಾವು ಅನೇಕ ಜ್ಯಾಮಿತಿಯ ಸಮಸ್ಯೆಗಳನ್ನು ಬಿಡಿಸಬಹುದು.",
+  "display_bullets": [
+    "ಎರಡು ಸಮಾಂತರ ರೇಖೆಗಳನ್ನು ಒಂದು ಛೇದಕವು ಛೇದಿಸಿದಾಗ, ಉಂಟಾಗುವ ಬಾಹ್ಯ ಪರ್ಯಾಯ ಕೋನಗಳು ಸಮವಾಗಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "formula_showcase_v1",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "l \\parallel m \\implies \\angle 1 = \\angle 7 \\text{ and } \\angle 2 = \\angle 8",
+    "placeholder_note": "The property of alternate exterior angles when lines are parallel."
+  },
+  "chunk_id": "GEO-LA-1_concept_4_chunk_028"
+}

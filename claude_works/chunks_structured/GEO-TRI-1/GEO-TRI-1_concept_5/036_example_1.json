@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 2",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ತ್ರಿಭುಜ ಎಬಿಸಿ ನೀಡಲಾಗಿದೆ. ಇದರಲ್ಲಿ ಕೋನ ಸಿ 90 ಡಿಗ್ರಿ. ಬಾಹು ಎಸಿ ಯ ಉದ್ದ 5 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು ಬಾಹು ಬಿಸಿ ಯ ಉದ್ದ 12 ಸೆಂಟಿಮೀಟರ್. ನಾವು ಬಾಹು ಎಬಿ ಯ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಗಮನಿಸಿ, ಕೋನ ಸಿ ಲಂಬಕೋನವಾಗಿರುವುದರಿಂದ, ಅದಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು ಎಬಿ ವಿಕರ್ಣವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ತ್ರಿಭುಜ $ABC$ ನೀಡಲಾಗಿದೆ. ಇದರಲ್ಲಿ $\\angle C = 90^\\circ$. ಬಾಹು $AC$ ಯ ಉದ್ದ 5 cm ಮತ್ತು ಬಾಹು $BC$ ಯ ಉದ್ದ 12 cm. ನಾವು ಬಾಹು $AB$ ಯ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ಗಮನಿಸಿ, $\\angle C$ ಲಂಬಕೋನವಾಗಿರುವುದರಿಂದ, ಅದಕ್ಕೆ ಅಭಿಮುಖವಾಗಿರುವ ಬಾಹು $AB$ ವಿಕರ್ಣವಾಗಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಕೊಟ್ಟಿರುವ ಮಾಹಿತಿ: $\\triangle ABC$ ಯಲ್ಲಿ, $\\angle C = 90^\\circ$",
+    "$AC = 5$ cm",
+    "$BC = 12$ cm",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: $AB$ ಯ ಉದ್ದ"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಲಂಬಕೋನ ತ್ರಿಭುಜ ABC. C ಯಲ್ಲಿ ಲಂಬಕೋನ. AC ಮತ್ತು BC ಬಾಹುಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ. AC = 5 cm, BC = 12 cm. AB ವಿಕರ್ಣವಾಗಿದ್ದು, ಅದರ ಉದ್ದವನ್ನು '?' ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ.",
+    "labels": "A, B, C, 5 cm, 12 cm, ?",
+    "mathematical_significance": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸಲು ಬೇಕಾದ ದೃಶ್ಯ ನಿರೂಪಣೆ. ವಿಕರ್ಣವನ್ನು (AB) ಮತ್ತು ಉಳಿದ ಎರಡು ಬಾಹುಗಳನ್ನು (AC, BC) ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for a right-angled triangle ABC, right-angled at C. Label side AC as 5 cm, side BC as 12 cm, and the hypotenuse AB with a question mark."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "GEO-TRI-1_example_6",
+  "chunk_id": "GEO-TRI-1_concept_5_chunk_036"
+}

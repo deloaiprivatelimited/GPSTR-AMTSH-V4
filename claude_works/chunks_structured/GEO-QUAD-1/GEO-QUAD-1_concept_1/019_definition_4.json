@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜ: ವ್ಯಾಖ್ಯಾನ",
+  "script": "ಈಗ ನಾವು ಬಹುಭುಜಗಳ ಒಂದು ಪ್ರಮುಖ ವಿಧವಾದ ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದ ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದರ ವ್ಯಾಖ್ಯಾನ ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಯಾವುದೇ ಬಹುಭುಜದ ಒಳಕೋನಗಳು ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿಗಿಂತ ಹೆಚ್ಚಿಲ್ಲದಿದ್ದರೆ, ಅದನ್ನು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇನ್ನೊಂದು ರೀತಿಯಲ್ಲಿ ಹೇಳುವುದಾದರೆ, ಅದರ ಎಲ್ಲಾ ಶೃಂಗಗಳು ಅಥವಾ ಮೂಲೆಗಳು ಹೊರಮುಖವಾಗಿ ಚಾಚಿಕೊಂಡಿರುತ್ತವೆ. ಒಳಮುಖವಾಗಿ ಯಾವುದೇ ಬಾಗುವಿಕೆ ಇರುವುದಿಲ್ಲ. ಈ ಚಿತ್ರದಲ್ಲಿರುವ ಷಡ್ಭುಜವನ್ನು ಗಮನಿಸಿ, ಇದರ ಎಲ್ಲಾ ಕೋನಗಳು ನೂರಾ ಎಂಬತ್ತು ಡಿಗ್ರಿಗಿಂತ ಕಡಿಮೆ ಇವೆ.",
+  "script_display": "ಈಗ ನಾವು ಬಹುಭುಜಗಳ ಒಂದು ಪ್ರಮುಖ ವಿಧವಾದ ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜದ (Convex Polygon) ಬಗ್ಗೆ ಕಲಿಯೋಣ. ಇದರ ವ್ಯಾಖ್ಯಾನ ತುಂಬಾ ಸರಳವಾಗಿದೆ. ಯಾವುದೇ ಬಹುಭುಜದ ಒಳಕೋನಗಳು $180°$ ಗಿಂತ ಹೆಚ್ಚಿಲ್ಲದಿದ್ದರೆ, ಅದನ್ನು ಬಹಿರ್ವಕ್ರ ಬಹುಭುಜ ಎಂದು ಕರೆಯುತ್ತೇವೆ. ಇನ್ನೊಂದು ರೀತಿಯಲ್ಲಿ ಹೇಳುವುದಾದರೆ, ಅದರ ಎಲ್ಲಾ ಶೃಂಗಗಳು ಅಥವಾ ಮೂಲೆಗಳು 'ಹೊರಮುಖವಾಗಿ' ಚಾಚಿಕೊಂಡಿರುತ್ತವೆ. ಒಳಮುಖವಾಗಿ ಯಾವುದೇ ಬಾಗುವಿಕೆ ಇರುವುದಿಲ್ಲ. ಈ ಚಿತ್ರದಲ್ಲಿರುವ ಷಡ್ಭುಜವನ್ನು ಗಮನಿಸಿ, ಇದರ ಎಲ್ಲಾ ಕೋನಗಳು $180°$ ಗಿಂತ ಕಡಿಮೆ ಇವೆ.",
+  "display_bullets": [
+    "ಯಾವುದೇ ಒಳಕೋನವು 180° ಗಿಂತ ಹೆಚ್ಚಿಲ್ಲ.",
+    "ಎಲ್ಲಾ ಶೃಂಗಗಳು 'ಹೊರಮುಖವಾಗಿ' ಚಾಚಿರುತ್ತವೆ."
+  ],
+  "layout_config": {
+    "layout": "definition_spotlight",
+    "template": "definition_spotlight_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple, clear diagram of a regular convex hexagon. One or two interior angles are marked with an arc to show they are less than 180 degrees.",
+    "labels": "ಬಹಿರ್ವಕ್ರ ಷಡ್ಭುಜ (Convex Hexagon)",
+    "mathematical_significance": "Illustrates a standard example of a convex polygon where all vertices point outwards.",
+    "placeholder_note": "Image to be generated for a convex hexagon."
+  },
+  "chunk_id": "GEO-QUAD-1_concept_1_chunk_019"
+}

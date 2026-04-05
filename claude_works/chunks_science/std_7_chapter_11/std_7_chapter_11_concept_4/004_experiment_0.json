@@ -1,0 +1,37 @@
+{
+  "type": "visual_explain",
+  "slide_title": "ಪ್ರಯೋಗ: ನಿಮ್ಮ ದರ್ಪಣದಿಂದ ಸತ್ಯ ಪ್ರತಿಬಿಂಬ",
+  "script": "ನಮಸ್ಕಾರ. ಇಂದು ನಾವು ನಿಮ್ಮ ದರ್ಪಣವು ಹೇಗೆ ಸತ್ಯ ಪ್ರತಿಬಿಂಬವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಒಂದು ಸರಳ ಪ್ರಯೋಗದ ಮೂಲಕ ತಿಳಿಯೋಣ. ಈ ಪ್ರಯೋಗಕ್ಕೆ ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳೆಂದರೆ, ಮೊದಲನೆಯದಾಗಿ ಒಂದು ನಿಮ್ಮ ದರ್ಪಣ, ಅದನ್ನು ಹಿಡಿದಿಡಲು ಒಂದು ಸ್ಟ್ಯಾಂಡ್, ಬೆಳಕಿನ ಮೂಲವಾಗಿ ಉರಿಯುತ್ತಿರುವ ಮೇಣದಬತ್ತಿ, ಮತ್ತು ಅಂತಿಮವಾಗಿ ಪ್ರತಿಬಿಂಬವನ್ನು ಹಿಡಿಯಲು ಒಂದು ಬಿಳಿ ಪರದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ನಾವು ಈ ಉಪಕರಣಗಳನ್ನು ಜೋಡಿಸಿಕೊಳ್ಳಬೇಕು. ಈ ಪ್ರಯೋಗವು ನಿಮ್ಮ ದರ್ಪಣದ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಬಹಳ ಸಹಾಯಕವಾಗಿದೆ.",
+  "script_display": "ಇಂದು ನಾವು ನಿಮ್ಮ ದರ್ಪಣವು ಹೇಗೆ ಸತ್ಯ ಪ್ರತಿಬಿಂಬವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಒಂದು ಸರಳ ಪ್ರಯೋಗದ ಮೂಲಕ ತಿಳಿಯೋಣ. ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು:",
+  "display_bullets": [
+    "ನಿಮ್ಮ ದರ್ಪಣ (Concave mirror)",
+    "ಸ್ಟ್ಯಾಂಡ್ (Stand)",
+    "ಉರಿಯುತ್ತಿರುವ ಮೇಣದಬತ್ತಿ (Burning candle)",
+    "ಬಿಳಿ ಪರದೆ (White screen)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "visual_left_text_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "Apparatus setup for forming a real image with a concave mirror. Shows a concave mirror on a stand, a burning candle placed in front of it, and a white screen positioned to catch the image.",
+    "labels": "ನಿಮ್ಮ ದರ್ಪಣ, ಸ್ಟ್ಯಾಂಡ್, ಮೇಣದಬತ್ತಿ, ಪರದೆ",
+    "scientific_significance": "Demonstrates the required components and their relative positions to conduct the experiment on image formation by a concave mirror.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_11_concept_4_chunk_004"
+}

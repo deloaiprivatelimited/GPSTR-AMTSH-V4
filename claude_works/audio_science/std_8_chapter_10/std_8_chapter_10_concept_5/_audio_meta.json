@@ -1,0 +1,103 @@
+{
+  "module_id": "std_8_chapter_10_concept_5",
+  "chapter_code": "std_8_chapter_10",
+  "voice": "Kore",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 14:20:39",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "816870ed7c317a0d6eebe5aa92e69994",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 34.491,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 45,
+      "generated_at": "2026-04-02 14:19:32"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "e5de448d94d6107103a1b0e7a58ff85c",
+      "wav_file": "003_classification_0.wav",
+      "duration": 41.011,
+      "slide_title": "ಆವೃತ್ತಿಯ ಆಧಾರದ ಮೇಲೆ ಶಬ್ದದ ವಿಧಗಳು",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 14:19:37"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "b022a167205203ac246fb1ec01084c13",
+      "wav_file": "001_intro_0.wav",
+      "duration": 49.851,
+      "slide_title": "ಶ್ರವ್ಯ ಮತ್ತು ಅಶ್ರವ್ಯ ಶಬ್ದಗಳು",
+      "type": "chunk",
+      "script_words": 68,
+      "generated_at": "2026-04-02 14:19:40"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "571aa4d45aaaf518d4042cbc25199f74",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 44.571,
+      "slide_title": "ಶ್ರವ್ಯ ಶಬ್ದ (Audible Sound)",
+      "type": "concept_explanation",
+      "script_words": 60,
+      "generated_at": "2026-04-02 14:19:54"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "2d5519e2271b31cd88ee6c70cd86e95b",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 40.851,
+      "slide_title": "ಅಶ್ರವ್ಯ ಶಬ್ದ (Inaudible Sound)",
+      "type": "concept_explanation",
+      "script_words": 53,
+      "generated_at": "2026-04-02 14:20:07"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "9272b930a2bd79ed24905e061b88465a",
+      "wav_file": "008_recap_0.wav",
+      "duration": 36.771,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 54,
+      "generated_at": "2026-04-02 14:20:33"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "df69073b35fd09cc923a25fe3e4583fc",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 45.851,
+      "slide_title": "ಅವಶ್ರವಣ ಶಬ್ದ (Infrasound)",
+      "type": "concept_explanation",
+      "script_words": 54,
+      "generated_at": "2026-04-02 14:20:37"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Kore",
+      "script_hash": "442585c1ab1c525e696b0ec5e13d247e",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 47.451,
+      "slide_title": "ಶ್ರವಣಾತೀತ ಶಬ್ದ (Ultrasound)",
+      "type": "concept_explanation",
+      "script_words": 63,
+      "generated_at": "2026-04-02 14:20:39"
+    }
+  }
+}

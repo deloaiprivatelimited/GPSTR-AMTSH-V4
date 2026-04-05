@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಹಂತ 1: ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನ",
+  "script": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು 13824 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಾವು ಲ್ಯಾಡರ್ ಡಿವಿಷನ್ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. 13824 ಅನ್ನು ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ 6912, ಮತ್ತೆ ಎರಡರಿಂದ ಭಾಗಿಸಿದಾಗ 3456, ಹೀಗೆ ಮುಂದುವರಿಸುತ್ತಾ ಹೋದರೆ, ನಮಗೆ ಒಂಬತ್ತು 2ಗಳು ಮತ್ತು ಮೂರು 3ಗಳು ಅಪವರ್ತನಗಳಾಗಿ ಸಿಗುತ್ತವೆ. ಆದ್ದರಿಂದ, 13824 ಅನ್ನು ಎರಡು ಗುಣಿಸು ಎರಡು ಗುಣಿಸು ಎರಡು, ಒಂಬತ್ತು ಬಾರಿ, ಮತ್ತು ಮೂರು ಗುಣಿಸು ಮೂರು ಗುಣಿಸು ಮೂರು ಎಂದು ಬರೆಯಬಹುದು.",
+  "script_display": "ಮೊದಲ ಹಂತದಲ್ಲಿ, ನಾವು 13824 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ನಾವು ಲ್ಯಾಡರ್ ಡಿವಿಷನ್ ವಿಧಾನವನ್ನು ಬಳಸುತ್ತೇವೆ. ಹೀಗೆ ಮಾಡಿದಾಗ, ನಮಗೆ ಸಿಗುವ ಅಪವರ್ತನಗಳು: $13824 = 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 3 \\times 3 \\times 3$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "step_walkthrough_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "13824 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನವನ್ನು ತೋರಿಸುವ ಲ್ಯಾಡರ್ ಡಿವಿಷನ್ ವಿಧಾನದ ರೇಖಾಚಿತ್ರ. ಪ್ರತಿ ಹಂತದಲ್ಲಿ ಭಾಗಾಕಾರವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸಬೇಕು.",
+    "labels": "13824, 6912, 3456, 1728, 864, 432, 216, 108, 54, 27, 9, 3, 1, ಅವಿಭಾಜ್ಯ ಭಾಜಕಗಳು (2, 3)",
+    "mathematical_significance": "ದೊಡ್ಡ ಸಂಖ್ಯೆಯ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ವ್ಯವಸ್ಥಿತವಾಗಿ ಕಂಡುಹಿಡಿಯುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated showing the ladder division for prime factorization of 13824."
+  },
+  "source_example_id": "NS-CUBE-2_example_7",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "13824 ರ ಅವಿಭಾಜ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: \n $13824 = 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 3 \\times 3 \\times 3$",
+      "justification": "ಘನಮೂಲ ಕಂಡುಹಿಡಿಯುವ ವಿಧಾನದ ಮೊದಲ ಹಂತ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "exam_tip": {},
+  "prerequisites_display": [],
+  "coverage_summary": {},
+  "next_modules": [],
+  "chunk_id": "NS-CUBE-2_concept_5_chunk_025"
+}

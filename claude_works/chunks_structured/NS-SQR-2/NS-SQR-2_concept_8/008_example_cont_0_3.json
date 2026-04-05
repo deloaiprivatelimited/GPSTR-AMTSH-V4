@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಶೇಷವು ಸೊನ್ನೆ ಬಂದಿರುವುದರಿಂದ, ನಮ್ಮ ಲೆಕ್ಕಾಚಾರ ಪೂರ್ಣಗೊಂಡಿದೆ. ಭಾಗಲಬ್ಧವೇ ನಮ್ಮ ಉತ್ತರ. ಆದ್ದರಿಂದ, 12.25 ರ ವರ್ಗಮೂಲವು 3.5 ಆಗಿದೆ. ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುವಾಗ, ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡುವುದು ಮತ್ತು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಸರಿಯಾದ ಸ್ಥಳದಲ್ಲಿ ಇಡುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಶೇಷವು ಸೊನ್ನೆ ಬಂದಿರುವುದರಿಂದ, ನಮ್ಮ ಲೆಕ್ಕಾಚಾರ ಪೂರ್ಣಗೊಂಡಿದೆ. ಭಾಗಲಬ್ಧವೇ ನಮ್ಮ ಉತ್ತರ. ಆದ್ದರಿಂದ, 12.25 ರ ವರ್ಗಮೂಲವು 3.5 ಆಗಿದೆ. ದಶಮಾಂಶ ಸಂಖ್ಯೆಗಳ ವರ್ಗಮೂಲವನ್ನು ಕಂಡುಹಿಡಿಯುವಾಗ, ಅಂಕಿಗಳನ್ನು ಜೋಡಿ ಮಾಡುವುದು ಮತ್ತು ದಶಮಾಂಶ ಬಿಂದುವನ್ನು ಸರಿಯಾದ ಸ್ಥಳದಲ್ಲಿ ಇಡುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ದೀರ್ಘ ಭಾಗಾಕಾರ ವಿಧಾನದಿಂದ, ನಾವು ಭಾಗಲಬ್ಧವನ್ನು 3.5 ಎಂದು ಪಡೆದಿದ್ದೇವೆ.",
+    "ಶೇಷವು 0 ಆಗಿರುವುದರಿಂದ, 12.25 ಒಂದು ಪರಿಪೂರ್ಣ ವರ್ಗವಾಗಿದೆ.",
+    "ಅಂತಿಮ ಉತ್ತರ: 12.25 ರ ವರ್ಗಮೂಲ 3.5 ಆಗಿದೆ."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\sqrt{12.25} = 3.5",
+    "placeholder_note": "A formula box highlighting the final answer: square root of 12.25 equals 3.5."
+  },
+  "source_example_id": "NS-SQR-2_example_7",
+  "final_answer": "3.5",
+  "final_answer_display": "$\\sqrt{12.25} = 3.5$",
+  "chunk_id": "NS-SQR-2_concept_8_chunk_008"
+}

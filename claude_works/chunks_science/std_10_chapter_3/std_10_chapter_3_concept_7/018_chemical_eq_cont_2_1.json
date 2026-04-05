@@ -1,0 +1,31 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಉತ್ಕರ್ಷಣ ಸಮೀಕರಣ",
+  "script": "ಮೆಗ್ನಿಸಿಯಂ ಪರಮಾಣು, ಎಂಜಿ, ಎರಡು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಂಡು ಮೆಗ್ನಿಸಿಯಂ ಅಯಾನು, ಎಂಜಿ ಟೂ ಪ್ಲಸ್, ಆಗಿ ಬದಲಾಗುತ್ತದೆ. ಈ ಅರ್ಧ-ಕ್ರಿಯೆಯನ್ನು ನಾವು ಹೀಗೆ ಬರೆಯುತ್ತೇವೆ: ಎಂಜಿ ಇಂದ ಎಂಜಿ ಟೂ ಪ್ಲಸ್ ಮತ್ತು ಎರಡು ಇ ಮೈನಸ್ ಉತ್ಪನ್ನಗೊಳ್ಳುತ್ತದೆ.",
+  "script_display": "ಮೆಗ್ನಿಸಿಯಂ ಪರಮಾಣು (Mg) ಎರಡು ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳನ್ನು ಕಳೆದುಕೊಂಡು ಮೆಗ್ನಿಸಿಯಂ ಅಯಾನು (Mg²⁺) ಆಗಿ ಬದಲಾಗುತ್ತದೆ. ಈ ಅರ್ಧ-ಕ್ರಿಯೆಯನ್ನು ನಾವು ಹೀಗೆ ಬರೆಯುತ್ತೇವೆ:",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "standard",
+    "text_zone": "center",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "Mg \\rightarrow Mg^{2+} + 2e^{-}",
+    "placeholder_note": "Oxidation half-reaction of Magnesium"
+  },
+  "chunk_id": "std_10_chapter_3_concept_7_chunk_018"
+}

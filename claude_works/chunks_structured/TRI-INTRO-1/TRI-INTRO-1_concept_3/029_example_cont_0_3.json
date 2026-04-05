@@ -1,0 +1,33 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹೀಗೆ, ನಾವು cos A, tan A, ಮತ್ತು sec A ಅನುಪಾತಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ sin A ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿದ್ದೇವೆ. ಅಂತಿಮ ಉತ್ತರಗಳು ಇಲ್ಲಿವೆ: cos A ಈಕ್ವಲ್ಸ್ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಒಂದು ಮೈನಸ್ sin ಸ್ಕ್ವೇರ್ A. tan A ಈಕ್ವಲ್ಸ್ sin A ಬೈ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಒಂದು ಮೈನಸ್ sin ಸ್ಕ್ವೇರ್ A. ಮತ್ತು sec A ಈಕ್ವಲ್ಸ್ ಒಂದು ಬೈ ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಒಂದು ಮೈನಸ್ sin ಸ್ಕ್ವೇರ್ A. ಈ ವಿಧಾನವು ಒಂದು ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತವನ್ನು ಇನ್ನೊಂದರ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಲು ಹೇಗೆ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಬಹುದು ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "script_display": "ಹೀಗೆ, ನಾವು $\\cos A, \\tan A$, ಮತ್ತು $\\sec A$ ಅನುಪಾತಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ $\\sin A$ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿದ್ದೇವೆ. ಅಂತಿಮ ಉತ್ತರಗಳು ಇಲ್ಲಿವೆ: $\\cos A = \\sqrt{1 - \\sin^2 A}$. $\\tan A = \\frac{\\sin A}{\\sqrt{1 - \\sin^2 A}}$. ಮತ್ತು $\\sec A = \\frac{1}{\\sqrt{1 - \\sin^2 A}}$. ಈ ವಿಧಾನವು ಒಂದು ತ್ರಿಕೋನಮಿತಿಯ ಅನುಪಾತವನ್ನು ಇನ್ನೊಂದರ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಲು ಹೇಗೆ ನಿತ್ಯಸಮೀಕರಣಗಳನ್ನು ಬಳಸಬಹುದು ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+  "display_bullets": [
+    "$\\cos A = \\sqrt{1 - \\sin^2 A}$",
+    "$\\tan A = \\frac{\\sin A}{\\sqrt{1 - \\sin^2 A}}$",
+    "$\\sec A = \\frac{1}{\\sqrt{1 - \\sin^2 A}}$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "text_only",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "TRI-INTRO-1_example_9",
+  "final_answer_display": "$\\cos A = \\sqrt{1 - \\sin^2 A}$, $\\tan A = \\frac{\\sin A}{\\sqrt{1 - \\sin^2 A}}$, $\\sec A = \\frac{1}{\\sqrt{1 - \\sin^2 A}}$",
+  "chunk_id": "TRI-INTRO-1_concept_3_chunk_029"
+}

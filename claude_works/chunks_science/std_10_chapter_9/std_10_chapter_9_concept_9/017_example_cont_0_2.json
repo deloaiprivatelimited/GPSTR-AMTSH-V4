@@ -1,0 +1,46 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಮಸೂರದ ವಿಧವನ್ನು ಗುರುತಿಸುವುದು",
+  "script": "ಈಗ ಮಸೂರದ ವಿಧವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಲೆಕ್ಕಾಚಾರದಲ್ಲಿ, ಸಂಗಮ ದೂರವು ಧನಾತ್ಮಕ ಚಿಹ್ನೆಯನ್ನು ಹೊಂದಿದೆ, ಅಂದರೆ ಪ್ಲಸ್ ಸೊನ್ನೆ ಪಾಯಿಂಟ್ ಐದು ಸೊನ್ನೆ ಮೀಟರ್. ಹಾಗೆಯೇ, ದತ್ತಾಂಶದಲ್ಲಿ ಸಾಮರ್ಥ್ಯವೂ ಧನಾತ್ಮಕವಾಗಿದೆ, ಅಂದರೆ ಪ್ಲಸ್ ಎರಡು ಪಾಯಿಂಟ್ ಸೊನ್ನೆ ಡಿ. ಧನಾತ್ಮಕ ಸಾಮರ್ಥ್ಯ ಅಥವಾ ಧನಾತ್ಮಕ ಸಂಗಮ ದೂರವನ್ನು ಹೊಂದಿರುವ ಮಸೂರವು ಯಾವಾಗಲೂ ಪೀನ ಮಸೂರವಾಗಿರುತ್ತದೆ.",
+  "script_display": "ಈಗ ಮಸೂರದ ವಿಧವನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಲೆಕ್ಕಾಚಾರದಲ್ಲಿ, ಸಂಗಮ ದೂರವು ಧನಾತ್ಮಕ ಚಿಹ್ನೆಯನ್ನು ಹೊಂದಿದೆ (+0.50 m). ಹಾಗೆಯೇ, ದತ್ತಾಂಶದಲ್ಲಿ ಸಾಮರ್ಥ್ಯವೂ ಧನಾತ್ಮಕವಾಗಿದೆ (+2.0 D). ಧನಾತ್ಮಕ ಸಾಮರ್ಥ್ಯ ಅಥವಾ ಧನಾತ್ಮಕ ಸಂಗಮ ದೂರವನ್ನು ಹೊಂದಿರುವ ಮಸೂರವು ಯಾವಾಗಲೂ ಪೀನ ಮಸೂರವಾಗಿರುತ್ತದೆ (convex lens).",
+  "display_bullets": [
+    "ಹಂತ 3: ಮಸೂರದ ವಿಧವನ್ನು ನಿರ್ಧರಿಸಿ.",
+    "ಮಸೂರದ ಸಾಮರ್ಥ್ಯವು ಧನಾತ್ಮಕವಾಗಿದೆ (Positive): P = +2.0 D.",
+    "ಧನಾತ್ಮಕ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊಂದಿರುವ ಮಸೂರಗಳು ಪೀನ ಮಸೂರಗಳಾಗಿವೆ (Convex Lenses)."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A simple ray diagram of a convex lens. Parallel rays of light enter from the left, pass through the convex lens, and converge at the principal focus (F) on the right side. The focal length (f) is shown as the distance from the optical center to the principal focus.",
+    "labels": "Convex Lens, Parallel Rays, Principal Focus (F), Focal Length (f)",
+    "scientific_significance": "Illustrates the converging nature of a convex lens, which results in a positive focal length and positive power.",
+    "placeholder_note": "Image to be generated showing a convex lens converging light."
+  },
+  "source_example_id": "std_10_chapter_9_example_power_1",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "ಮಸೂರದ ವಿಧವನ್ನು ನಿರ್ಧರಿಸಿ.",
+      "justification": "ಸಾಮರ್ಥ್ಯದ ಚಿಹ್ನೆಯು ಧನಾತ್ಮಕವಾಗಿರುವುದರಿಂದ, ಇದು ಪೀನ ಮಸೂರವಾಗಿದೆ."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "std_10_chapter_9_concept_9_chunk_017"
+}

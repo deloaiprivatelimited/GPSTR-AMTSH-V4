@@ -1,0 +1,37 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: sin A ಕಂಡುಹಿಡಿಯುವುದು",
+  "script": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. ತ್ರಿಭುಜ ABC ಯಲ್ಲಿ, B ಕೋನವು 90 ಡಿಗ್ರಿ, AB ಬಾಹುವಿನ ಉದ್ದ 4, BC ಬಾಹುವಿನ ಉದ್ದ 3, ಮತ್ತು ವಿಕರ್ಣ AC ಯ ಉದ್ದ 5 ಎಂದು ಭಾವಿಸೋಣ. ನಾವು A ಕೋನದ ಸೈನ್, ಅಂದರೆ sin A ಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, sin A ಎಂದರೆ ಅಭಿಮುಖ ಬಾಹು ಭಾಗಿಸು ವಿಕರ್ಣ. ಇಲ್ಲಿ A ಕೋನಕ್ಕೆ ಅಭಿಮುಖ ಬಾಹು BC, ಅದರ ಉದ್ದ 3. ವಿಕರ್ಣ AC, ಅದರ ಉದ್ದ 5. ಆದ್ದರಿಂದ, sin A ಯ ಬೆಲೆ 3 ಭಾಗಿಸು 5 ಆಗುತ್ತದೆ. ಇದು ಒಂದು ಸರಳ ಅನುಪಾತವಾಗಿದೆ.",
+  "script_display": "ಒಂದು ಉದಾಹರಣೆ ನೋಡೋಣ. $\\triangle ABC$ ಯಲ್ಲಿ, $\\angle B = 90^\\circ$, $AB = 4$, $BC = 3$, ಮತ್ತು ವಿಕರ್ಣ $AC = 5$ ಎಂದು ಭಾವಿಸೋಣ. ನಾವು $\\sin A$ ಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು. ನಮ್ಮ ಸೂತ್ರದ ಪ್ರಕಾರ, $\\sin A = \\frac{\\text{ಅಭಿಮುಖ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}}$. ಇಲ್ಲಿ $\\angle A$ ಗೆ ಅಭಿಮುಖ ಬಾಹು $BC$, ಅದರ ಉದ್ದ $3$. ವಿಕರ್ಣ $AC$, ಅದರ ಉದ್ದ $5$. ಆದ್ದರಿಂದ, $\\sin A = \\frac{3}{5}$. ಇದು ಒಂದು ಸರಳ ಅನುಪಾತವಾಗಿದೆ.",
+  "display_bullets": [
+    "$\\triangle ABC$ ಯಲ್ಲಿ, $\\angle B = 90^\\circ$, $AB = 4$, $BC = 3$, $AC = 5$ ಆಗಿರಲಿ.",
+    "$\\angle A$ ಗೆ, ಅಭಿಮುಖ ಬಾಹು = $BC = 3$.",
+    "ವಿಕರ್ಣ = $AC = 5$.",
+    "ಆದ್ದರಿಂದ, $\\sin A = \\frac{\\text{ಅಭಿಮುಖ ಬಾಹು}}{\\text{ವಿಕರ್ಣ}} = \\frac{3}{5}$."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A right-angled triangle ABC, right-angled at B, with sides AB=4, BC=3, AC=5.",
+    "labels": "A, B, C, 3, 4, 5",
+    "mathematical_significance": "Numerical example for calculating sine.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "TRI-INTRO-1_concept_1_chunk_005"
+}

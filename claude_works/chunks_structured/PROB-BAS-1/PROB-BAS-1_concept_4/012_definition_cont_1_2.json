@@ -1,0 +1,31 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಂಯುಕ್ತ ಘಟನೆ (Compound Event)",
+  "script": "ಸರಳ ಮತ್ತು ಸಂಯುಕ್ತ ಘಟನೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಲು, ಅದೇ ದಾಳದ ಉದಾಹರಣೆಯನ್ನು ಮುಂದುವರಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ, 'ಸಂಖ್ಯೆ ಐದನ್ನು ಪಡೆಯುವ' ಘಟನೆಯನ್ನು ನೋಡಿ. ಇದಕ್ಕೆ ಕೇವಲ ಒಂದೇ ಒಂದು ಫಲಿತವಿದೆ, ಅದು ಐದು. ಫಲಿತಗಳ ಸಂಖ್ಯೆ ಒಂದೇ ಆಗಿರುವುದರಿಂದ, ಇದು ಒಂದು ಸರಳ ಘಟನೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. 'ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವ' ಘಟನೆ. ದಾಳದಲ್ಲಿರುವ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು ಎರಡು, ಮೂರು, ಮತ್ತು ಐದು. ಇಲ್ಲಿ ಒಟ್ಟು ಮೂರು ಫಲಿತಗಳಿವೆ. ಫಲಿತಗಳ ಸಂಖ್ಯೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರುವುದರಿಂದ, ಇದು ಒಂದು ಸಂಯುಕ್ತ ಘಟನೆಯಾಗಿದೆ. ಈ ಹೋಲಿಕೆಯು ನಿಮಗೆ ವ್ಯತ್ಯಾಸವನ್ನು ಚೆನ್ನಾಗಿ ತಿಳಿಸುತ್ತದೆ.",
+  "script_display": "ಸರಳ ಮತ್ತು ಸಂಯುಕ್ತ ಘಟನೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಲು, ಅದೇ ದಾಳದ ಉದಾಹರಣೆಯನ್ನು ಮುಂದುವರಿಸೋಣ. ಎಡಭಾಗದಲ್ಲಿ, 'ಸಂಖ್ಯೆ 5ನ್ನು ಪಡೆಯುವ' ಘಟನೆಯನ್ನು ನೋಡಿ. ಇದಕ್ಕೆ ಕೇವಲ ಒಂದೇ ಒಂದು ಫಲಿತವಿದೆ, ಅದು $\\{5\\}$. ಫಲಿತಗಳ ಸಂಖ್ಯೆ 1 ಆಗಿರುವುದರಿಂದ, ಇದು ಒಂದು ಸರಳ ಘಟನೆ. ಈಗ ಬಲಭಾಗವನ್ನು ನೋಡಿ. 'ಒಂದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯುವ' ಘಟನೆ. ದಾಳದಲ್ಲಿರುವ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು $\\{2, 3, 5\\}$. ಇಲ್ಲಿ ಒಟ್ಟು 3 ಫಲಿತಗಳಿವೆ. ಫಲಿತಗಳ ಸಂಖ್ಯೆ 1ಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರುವುದರಿಂದ, ಇದು ಒಂದು ಸಂಯುಕ್ತ ಘಟನೆಯಾಗಿದೆ. ಈ ಹೋಲಿಕೆಯು ನಿಮಗೆ ವ್ಯತ್ಯಾಸವನ್ನು ಚೆನ್ನಾಗಿ ತಿಳಿಸುತ್ತದೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "split_comparison_table",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "table",
+    "status": "ready",
+    "render_target": "html_table",
+    "latex": "",
+    "placeholder_note": "A two-column table comparing a simple event and a compound event for a die roll experiment. Left column: Simple Event (Getting a 5). Right column: Compound Event (Getting a prime number). Each column details the event, outcomes, number of outcomes, and conclusion."
+  },
+  "chunk_id": "PROB-BAS-1_concept_4_chunk_012"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಈಗ ಕೊನೆಯ ಹಂತ. ಹಿಂದಿನ ಹಂತದಿಂದ, ನಮಗೆ ಎಬಿ ಸ್ಕ್ವೇರ್ಡ್ ಈಕ್ವಲ್ಸ್ 169 ಎಂದು ತಿಳಿದಿದೆ. ಎಬಿ ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು 169 ರ ವರ್ಗಮೂಲವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. 169 ರ ವರ್ಗಮೂಲ 13 ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಅಂತಿಮ ಉತ್ತರ, ಎಬಿ ಯ ಉದ್ದ 13 ಸೆಂಟಿಮೀಟರ್.",
+  "script_display": "ಈಗ ಕೊನೆಯ ಹಂತ. ಹಿಂದಿನ ಹಂತದಿಂದ, ನಮಗೆ $AB^2 = 169$ ಎಂದು ತಿಳಿದಿದೆ. $AB$ ಯ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಲು, ನಾವು 169 ರ ವರ್ಗಮೂಲವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು. $\\sqrt{169} = 13$ ಆಗಿದೆ. ಆದ್ದರಿಂದ, ಅಂತಿಮ ಉತ್ತರ, $AB$ ಯ ಉದ್ದ 13 cm.",
+  "display_bullets": [
+    "ಹಿಂದಿನ ಹಂತದಿಂದ, $AB^2 = 169$.",
+    "ಎರಡೂ ಬದಿಗಳಲ್ಲಿ ವರ್ಗಮೂಲವನ್ನು ತೆಗೆದುಕೊಳ್ಳಲಾಗಿ, $AB = \\sqrt{169}$.",
+    "ಆದ್ದರಿಂದ, $AB = 13$ cm."
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "default",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "basic",
+  "source_example_id": "GEO-TRI-1_example_6",
+  "final_answer": "AB ಯ ಉದ್ದ 13 cm.",
+  "final_answer_display": "$AB = 13$ cm",
+  "chunk_id": "GEO-TRI-1_concept_5_chunk_038"
+}

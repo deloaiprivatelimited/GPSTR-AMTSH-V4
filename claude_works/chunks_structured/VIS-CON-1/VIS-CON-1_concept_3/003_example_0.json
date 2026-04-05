@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಚೌಕದ ರಚನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. 6 ಸೆಂಟಿಮೀಟರ್ ಬಾಹುವಿರುವ ಪಿ ಕ್ಯೂ ಆರ್ ಎಸ್ ಚೌಕವನ್ನು ರಚಿಸಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ನಮಗೆ ಏನು ಕೊಟ್ಟಿದ್ದಾರೆ ಮತ್ತು ನಾವು ಏನು ರಚಿಸಬೇಕು ಎಂಬುದನ್ನು ನೋಡೋಣ. ನಮಗೆ ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದ 6 ಸೆಂಟಿಮೀಟರ್ ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು ಪಿ ಕ್ಯೂ ಆರ್ ಎಸ್ ಎಂಬ ಚೌಕವನ್ನು ರಚಿಸಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. $6$ cm ಬಾಹುವಿರುವ $PQRS$ ಚೌಕವನ್ನು ರಚಿಸಿ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ನಮಗೆ ಏನು ಕೊಟ್ಟಿದ್ದಾರೆ ಮತ್ತು ನಾವು ಏನು ರಚಿಸಬೇಕು ಎಂಬುದನ್ನು ನೋಡೋಣ. ನಮಗೆ ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದ $6$ cm ಎಂದು ನೀಡಲಾಗಿದೆ. ನಾವು $PQRS$ ಎಂಬ ಚೌಕವನ್ನು ರಚಿಸಬೇಕು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ಚೌಕದ ಬಾಹುವಿನ ಉದ್ದ $6$ cm.",
+    "ರಚಿಸಬೇಕಾದದ್ದು: $PQRS$ ಚೌಕ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "6 \\text{ cm ಬಾಹುವಿರುವ } PQRS \\text{ ಚೌಕವನ್ನು ರಚಿಸಿ.}",
+    "placeholder_note": "Problem statement displayed prominently"
+  },
+  "source_example_id": "VIS-CON-1_example_2",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "VIS-CON-1_concept_3_chunk_003"
+}

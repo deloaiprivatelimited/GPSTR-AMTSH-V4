@@ -1,0 +1,37 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹುರಿಯುವಿಕೆ ಪ್ರಕ್ರಿಯೆ",
+  "script": "ಈ ಪ್ರಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಸಲ್ಫೈಡ್ ಅದುರನ್ನು, ಅಂದರೆ ಜಿಂಕ್ ಸಲ್ಫೈಡ್ ಅನ್ನು ಒಂದು ಕುಲುಮೆಯಲ್ಲಿ ಬಿಸಿ ಮಾಡಲಾಗುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ಅಧಿಕ ಪ್ರಮಾಣದ ಗಾಳಿಯನ್ನು, ಅಂದರೆ ಆಮ್ಲಜನಕವನ್ನು ಪೂರೈಸಲಾಗುತ್ತದೆ. ಆಗ, ಅದುರು ಆಕ್ಸೈಡ್ ಆಗಿ, ಅಂದರೆ ಜಿಂಕ್ ಆಕ್ಸೈಡ್ ಆಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "script_display": "ಈ ಪ್ರಕ್ರಿಯೆ ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ನೋಡೋಣ. ಸಲ್ಫೈಡ್ ಅದುರನ್ನು (ZnS) ಒಂದು ಕುಲುಮೆಯಲ್ಲಿ ಬಿಸಿ ಮಾಡಲಾಗುತ್ತದೆ. ಅದೇ ಸಮಯದಲ್ಲಿ, ಅಧಿಕ ಪ್ರಮಾಣದ ಗಾಳಿಯನ್ನು (O₂) ಪೂರೈಸಲಾಗುತ್ತದೆ. ಆಗ, ಅದುರು ಆಕ್ಸೈಡ್ (ZnO) ಆಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯಲ್ಲಿ ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ (SO₂) ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಸಲ್ಫೈಡ್ ಅದುರನ್ನು (ZnS) ಕುಲುಮೆಯಲ್ಲಿ ಬಿಸಿ ಮಾಡಲಾಗುತ್ತದೆ.",
+    "ಅಧಿಕ ಗಾಳಿಯನ್ನು (O₂) ಪೂರೈಸಲಾಗುತ್ತದೆ.",
+    "ಅದುರು ಆಕ್ಸೈಡ್ (ZnO) ಆಗಿ ಪರಿವರ್ತನೆಯಾಗುತ್ತದೆ.",
+    "ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ (SO₂) ಅನಿಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of a reverberatory furnace used for roasting. Solid zinc sulfide (ZnS) powder is on the hearth. Hot air (containing O2) is blown over it. Flames heat the furnace from above. Arrows show Zinc Oxide (ZnO) remaining on the hearth and Sulfur Dioxide (SO2) gas escaping through an outlet.",
+    "labels": "ಸತುವಿನ ಸಲ್ಫೈಡ್ (ZnS), ಬಿಸಿ ಗಾಳಿ (O₂), ಸತುವಿನ ಆಕ್ಸೈಡ್ (ZnO), ಸಲ್ಫರ್ ಡೈಆಕ್ಸೈಡ್ (SO₂), ಕುಲುಮೆ",
+    "scientific_significance": "Illustrates the industrial process of roasting, where a sulfide ore is converted to an oxide by heating in excess air. This is a key step in extractive metallurgy.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_3_concept_9_chunk_012"
+}

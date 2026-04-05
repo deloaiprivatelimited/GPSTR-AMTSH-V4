@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ದತ್ತಾಂಶದ ವಿಶ್ಲೇಷಣೆ",
+  "script": "ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ನಮಗೆ ನೀಡಿರುವ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸೋಣ. ಮೊದಲನೆಯದಾಗಿ, ತ್ರಿಭುಜ ABC ಯು ತ್ರಿಭುಜ PQR ಗೆ ಸಮರೂಪವಾಗಿದೆ. ಇದರರ್ಥ ಅವುಗಳ ಅನುರೂಪ ಬಾಹುಗಳು ಸಮಾನುಪಾತದಲ್ಲಿವೆ, ಅಂದರೆ AB ಭಾಗಿಸು PQ ಸಮ BC ಭಾಗಿಸು QR ಸಮ CA ಭಾಗಿಸು RP. ಹಾಗೂ, ಅನುರೂಪ ಕೋನಗಳು ಸಮವಾಗಿವೆ, ಅಂದರೆ ಕೋನ A ಸಮ ಕೋನ P, ಕೋನ B ಸಮ ಕೋನ Q, ಮತ್ತು ಕೋನ C ಸಮ ಕೋನ R. ಎರಡನೆಯದಾಗಿ, CM ಮತ್ತು RN ಗಳು ಮಧ್ಯರೇಖೆಗಳು. ಇದರರ್ಥ M ಎಂಬುದು AB ಯ ಮಧ್ಯಬಿಂದು ಮತ್ತು N ಎಂಬುದು PQ ಯ ಮಧ್ಯಬಿಂದು. ಆದ್ದರಿಂದ, AM ಮತ್ತು MB ಎರಡೂ AB ಯ ಅರ್ಧದಷ್ಟಿರುತ್ತವೆ, ಮತ್ತು PN ಮತ್ತು NQ ಎರಡೂ PQ ಯ ಅರ್ಧದಷ್ಟಿರುತ್ತವೆ.",
+  "script_display": "ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ನಮಗೆ ನೀಡಿರುವ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸೋಣ.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ 1: $\\triangle ABC \\sim \\triangle PQR$. ಆದ್ದರಿಂದ:",
+    "ಅನುರೂಪ ಬಾಹುಗಳು: $\\frac{AB}{PQ} = \\frac{BC}{QR} = \\frac{CA}{RP}$ --- (1)",
+    "ಅನುರೂಪ ಕೋನಗಳು: $\\angle A = \\angle P, \\angle B = \\angle Q, \\angle C = \\angle R$ --- (2)",
+    "ದತ್ತಾಂಶ 2: CM ಮತ್ತು RN ಮಧ್ಯರೇಖೆಗಳು. ಆದ್ದರಿಂದ:",
+    "$AM = MB = \\frac{1}{2}AB$ ಮತ್ತು $PN = NQ = \\frac{1}{2}PQ$"
+  ],
+  "layout_config": {
+    "layout": "bullet_list",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "source_example_id": "GEO-TRI-2_example_6",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_041"
+}

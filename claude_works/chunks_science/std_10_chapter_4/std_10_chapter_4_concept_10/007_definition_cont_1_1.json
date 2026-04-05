@@ -1,0 +1,35 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಬೂನೀಕರಣ: ರಾಸಾಯನಿಕ ಸಮೀಕರಣ",
+  "script": "ಸಾಬೂನೀಕರಣ ಕ್ರಿಯೆಯನ್ನು ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ನಾವು ಈಥೈಲ್ ಎಥನೋಯೇಟ್ ಎಂಬ ಎಸ್ಟರ್ ಅನ್ನು ತೆಗೆದುಕೊಂಡಿದ್ದೇವೆ. ಇದರ ರಾಸಾಯನಿಕ ಸೂತ್ರ ಸಿ ಎಚ್ ತ್ರಿ ಸಿ ಓ ಓ ಸಿ ಟು ಎಚ್ ಫೈವ್. ಇದು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಅಂದರೆ ಎನ್ ಎ ಓ ಎಚ್, ಎಂಬ ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ನಮಗೆ ಎರಡು ಉತ್ಪನ್ನಗಳು ಸಿಗುತ್ತವೆ. ಮೊದಲನೆಯದು ಸಿ ಟು ಎಚ್ ಫೈವ್ ಓ ಎಚ್, ಅಂದರೆ ಎಥನಾಲ್ ಎಂಬ ಆಲ್ಕೋಹಾಲ್. ಎರಡನೆಯದು ಸಿ ಎಚ್ ತ್ರಿ ಸಿ ಓ ಓ ಎನ್ ಎ, ಅಂದರೆ ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್. ಈ ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್ ಎಂಬ ಕಾರ್ಬಾಕ್ಸಿಲಿಕ್ ಆಮ್ಲದ ಲವಣವೇ ಸಾಬೂನು.",
+  "script_display": "ಸಾಬೂನೀಕರಣ ಕ್ರಿಯೆಯನ್ನು ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ಇಲ್ಲಿ ನಾವು ಈಥೈಲ್ ಎಥನೋಯೇಟ್ ($CH_3COOC_2H_5$) ಎಂಬ ಎಸ್ಟರ್ ಅನ್ನು ತೆಗೆದುಕೊಂಡಿದ್ದೇವೆ. ಇದು ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ($NaOH$) ಎಂಬ ಪ್ರತ್ಯಾಮ್ಲದೊಂದಿಗೆ ವರ್ತಿಸಿದಾಗ, ನಮಗೆ ಎರಡು ಉತ್ಪನ್ನಗಳು ಸಿಗುತ್ತವೆ. ಮೊದಲನೆಯದು ಎಥನಾಲ್ ($C_2H_5OH$) ಎಂಬ ಆಲ್ಕೋಹಾಲ್. ಎರಡನೆಯದು ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್ ($CH_3COONa$) ಎಂಬ ಕಾರ್ಬಾಕ್ಸಿಲಿಕ್ ಆಮ್ಲದ ಲವಣ. ಈ ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್-ಯೇ ಸಾಬೂನು.",
+  "display_bullets": [
+    "**ಅಭಿಕ್ರಿಯೆಗಳು (Reactants):** ಈಥೈಲ್ ಎಥನೋಯೇಟ್ (ಎಸ್ಟರ್) + ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ (ಪ್ರತ್ಯಾಮ್ಲ)",
+    "**ಉತ್ಪನ್ನಗಳು (Products):** ಎಥನಾಲ್ (ಆಲ್ಕೋಹಾಲ್) + ಸೋಡಿಯಂ ಎಥನೋಯೇಟ್ (ಸಾಬೂನು)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "CH_3COOC_2H_5 + NaOH \\rightarrow C_2H_5OH + CH_3COONa",
+    "placeholder_note": "Chemical equation for the saponification of ethyl ethanoate. Reactants on the left, products on the right, with an arrow in between."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_10_chapter_4_concept_10_chunk_007"
+}

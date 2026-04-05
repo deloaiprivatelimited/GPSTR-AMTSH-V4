@@ -1,0 +1,35 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಅಂತಿಮ ಉತ್ತರ",
+  "script": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ನೋಡೋಣ. ಭಾಗ ಒಂದರ ಉತ್ತರ ಎಂ ಸ್ಕ್ವೇರ್ ಪ್ಲಸ್ ಎರಡು ಎಂ. ಭಾಗ ಎರಡರ ಉತ್ತರ ಹದಿನಾಲ್ಕು ವೈ ಕ್ಯೂಬ್ಡ್ ಪ್ಲಸ್ ಹನ್ನೆರಡು ವೈ ಸ್ಕ್ವೇರ್ ಮೈನಸ್ ಇಪ್ಪತ್ತೆಂಟು ವೈ ಪ್ಲಸ್ ಹತ್ತು. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಮೊದಲು ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ ಆವರಣಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಸಂಕ್ಷೇಪಿಸುವುದು, ಮತ್ತು ನಂತರ ಸಜಾತಿ ಪದಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸಿ ಕೂಡಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "script_display": "ಹಾಗಾದರೆ, ಈ ಸಮಸ್ಯೆಯ ಅಂತಿಮ ಉತ್ತರಗಳನ್ನು ನೋಡೋಣ. ಈ ರೀತಿಯ ಲೆಕ್ಕಗಳಲ್ಲಿ, ಮೊದಲು ವಿತರಣಾ ನಿಯಮವನ್ನು ಬಳಸಿ ಆವರಣಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಸಂಕ್ಷೇಪಿಸುವುದು, ಮತ್ತು ನಂತರ ಸಜಾತಿ ಪದಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸಿ ಕೂಡಿಸುವುದು ಬಹಳ ಮುಖ್ಯ.",
+  "display_bullets": [
+    "ಭಾಗ (i) ರ ಉತ್ತರ: $m^2 + 2m$",
+    "ಭಾಗ (ii) ರ ಉತ್ತರ: $14y^3 + 12y^2 - 28y + 10$"
+  ],
+  "layout_config": {
+    "layout": "key_takeaway",
+    "template": "standard",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "key_takeaway",
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EXP-2_example_6",
+  "final_answer": "(i) $m^2 + 2m$ (ii) $14y^3 + 12y^2 - 28y + 10$",
+  "final_answer_display": "(i) $m^2 + 2m$ \n(ii) $14y^3 + 12y^2 - 28y + 10$",
+  "chunk_id": "ALG-EXP-2_concept_4_chunk_021"
+}

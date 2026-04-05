@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಪ್ರಯೋಗದ ಸಿದ್ಧತೆ",
+  "script": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಾವು ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ ಸ್ವಲ್ಪ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಬಿಸಿಮಾಡಲು ಪ್ರಾರಂಭಿಸೋಣ. ನೀರು ಕುದಿಯಲು ಪ್ರಾರಂಭಿಸಿದಾಗ, ಅದರಿಂದ ಬಿಸಿಯಾದ ಹಬೆ, ಅಂದರೆ ನೀರಿನ ಅನಿಲ ರೂಪ, ಹೊರಬರುತ್ತದೆ. ಈಗ, ಆ ಹಬೆಯ ಮೇಲೆ ತಲೆಕೆಳಗಾಗಿ ಒಂದು ತವಡನ್ನು ಅಥವಾ ತಣ್ಣನೆಯ ಮುಚ್ಚಳವನ್ನು ಹಿಡಿಯೋಣ. ಈ ಸರಳ ಸಿದ್ಧತೆಯು ಸ್ಥಿತಿ ಬದಲಾವಣೆಯ ಎರಡೂ ಹಂತಗಳನ್ನು, ಅಂದರೆ ಆವಿಯಾಗುವಿಕೆ ಮತ್ತು ಸಾಂದ್ರೀಕರಣವನ್ನು ವೀಕ್ಷಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಇದು ಪ್ರಯೋಗದ ಮೊದಲ ಹಂತವಾಗಿದೆ.",
+  "script_display": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ನಾವು ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ ಸ್ವಲ್ಪ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಬಿಸಿಮಾಡಲು ಪ್ರಾರಂಭಿಸೋಣ. ನೀರು ಕುದಿಯಲು ಪ್ರಾರಂಭಿಸಿದಾಗ, ಅದರಿಂದ ಬಿಸಿಯಾದ ಹಬೆ (ನೀರಿನ ಅನಿಲ ರೂಪ) ಹೊರಬರುತ್ತದೆ. ಈಗ, ಆ ಹಬೆಯ ಮೇಲೆ ತಲೆಕೆಳಗಾಗಿ ಒಂದು ತವಡನ್ನು ಅಥವಾ ತಣ್ಣನೆಯ ಮುಚ್ಚಳವನ್ನು ಹಿಡಿಯೋಣ. ಈ ಸರಳ ಸಿದ್ಧತೆಯು ಸ್ಥಿತಿ ಬದಲಾವಣೆಯ ಎರಡೂ ಹಂತಗಳನ್ನು, ಅಂದರೆ ಆವಿಯಾಗುವಿಕೆ ಮತ್ತು ಸಾಂದ್ರೀಕರಣವನ್ನು ವೀಕ್ಷಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "display_bullets": [
+    "ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ ನೀರನ್ನು ತೆಗೆದುಕೊಂಡು ಕುದಿಸಿ.",
+    "ಕುದಿಯುವ ನೀರಿನಿಂದ ಬರುವ ಹಬೆಯ ಮೇಲೆ ತವಡನ್ನು ಹಿಡಿಯಿರಿ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "template_2",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing a beaker of water being heated on a burner. Steam is rising from the water. A metal lid (ತವಡು) is held inverted over the steam, and water droplets are forming on its inner surface.",
+    "labels": "ಪಾತ್ರೆ, ನೀರು, ಉರಿ, ಹಬೆ (ಆವಿ), ತವಡು, ನೀರಿನ ಹನಿಗಳು",
+    "scientific_significance": "Demonstrates the processes of evaporation (liquid to gas) and condensation (gas to liquid) in a single setup.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_7_chapter_5_concept_1_chunk_017"
+}

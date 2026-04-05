@@ -1,0 +1,103 @@
+{
+  "module_id": "std_6_chapter_5_concept_4",
+  "chapter_code": "std_6_chapter_5",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 8,
+  "ok_count": 8,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 13:05:53",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "02c49193c038216e1ef68860e14b1760",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.131,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "slide",
+      "script_words": 36,
+      "generated_at": "2026-04-02 13:04:43"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "978f71c7a2351ad226c08f3f39ba4af1",
+      "wav_file": "001_intro_0.wav",
+      "duration": 44.131,
+      "slide_title": "ಚಲನೆಯ ವಿಧಗಳು",
+      "type": "slide",
+      "script_words": 72,
+      "generated_at": "2026-04-02 13:04:55"
+    },
+    "003_classification_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "b4e9b2ac096f6b9d1893c8fa7b1fe910",
+      "wav_file": "003_classification_0.wav",
+      "duration": 44.731,
+      "slide_title": "ಸರಳರೇಖಾತ್ಮಕ ಚಲನೆ (Rectilinear Motion)",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:04:55"
+    },
+    "005_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "d62447b66faa18002732e1bb41ad2ab0",
+      "wav_file": "005_classification_cont_0_2.wav",
+      "duration": 39.371,
+      "slide_title": "ಆಂದೋಲನ ಚಲನೆ (Oscillatory Motion)",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 13:04:58"
+    },
+    "006_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "ffb9b1f3534314920cc4d5c3f782ece4",
+      "wav_file": "006_classification_cont_0_3.wav",
+      "duration": 45.131,
+      "slide_title": "ಆವರ್ತಕ ಚಲನೆ (Periodic Motion)",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 13:05:29"
+    },
+    "007_classification_cont_0_4.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "1e07c12c7e50c80db3257d0f1f03fb33",
+      "wav_file": "007_classification_cont_0_4.wav",
+      "duration": 42.131,
+      "slide_title": "ಚಲನೆಗಳ ಸಂಯೋಜನೆ",
+      "type": "concept_explanation",
+      "script_words": 61,
+      "generated_at": "2026-04-02 13:05:52"
+    },
+    "004_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "095129c8182e2cc87adc0188a553ef22",
+      "wav_file": "004_classification_cont_0_1.wav",
+      "duration": 42.331,
+      "slide_title": "ವೃತ್ತೀಯ ಚಲನೆ (Circular Motion)",
+      "type": "concept_explanation",
+      "script_words": 55,
+      "generated_at": "2026-04-02 13:05:53"
+    },
+    "008_recap_0.json": {
+      "status": "ok",
+      "voice": "Orus",
+      "script_hash": "e575481b699fbc8e3e1281b3721439f3",
+      "wav_file": "008_recap_0.wav",
+      "duration": 39.451,
+      "slide_title": "ಸಾರಾಂಶ: ಚಲನೆಯ ವಿಧಗಳು",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 13:05:53"
+    }
+  }
+}

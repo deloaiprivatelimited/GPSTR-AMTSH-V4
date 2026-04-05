@@ -1,0 +1,31 @@
+{
+  "type": "formula_derivation",
+  "slide_title": "ಮೂರು ಸಂಖ್ಯೆಗಳಿಗೆ LCM ಮತ್ತು HCF ಸಂಬಂಧ",
+  "script": "ಹಿಂದಿನ ಸೂತ್ರದಂತೆಯೇ, ಮೂರು ಸಂಖ್ಯೆಗಳ ಲ.ಸಾ.ಅ ವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೂಡ ಒಂದು ಸಂಬಂಧಿತ ಸೂತ್ರವಿದೆ. ಈ ಸೂತ್ರವು, LCM ಆಫ್ p, q, r ಈಕ್ವಲ್ಸ್ p ಇಂಟು q ಇಂಟು r ಇಂಟು HCF ಆಫ್ p, q, r, ಹೋಲ್ ಡಿವೈಡೆಡ್ ಬೈ, HCF ಆಫ್ p, q, ಇಂಟು HCF ಆಫ್ q, r, ಇಂಟು HCF ಆಫ್ p, r. ಗಮನಿಸಿ, ಈ ಸೂತ್ರದಲ್ಲಿ ಅಂಶ ಮತ್ತು ಛೇದದಲ್ಲಿ HCF ಮತ್ತು LCM ಗಳು ಅದಲು ಬದಲಾಗಿವೆ. ಅಂದರೆ, HCF ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರದಲ್ಲಿ ನಾವು ಜೋಡಿಗಳ LCM ಬಳಸಿದರೆ, LCM ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರದಲ್ಲಿ ನಾವು ಜೋಡಿಗಳ HCF ಅನ್ನು ಬಳಸುತ್ತೇವೆ. ಇವೆರಡೂ ಸೂತ್ರಗಳು ಒಂದೇ ಸಂಬಂಧವನ್ನು ಬೇರೆ ಬೇರೆ ದೃಷ್ಟಿಕೋನದಿಂದ ತೋರಿಸುತ್ತವೆ.",
+  "script_display": "ಹಿಂದಿನ ಸೂತ್ರದಂತೆಯೇ, ಮೂರು ಸಂಖ್ಯೆಗಳ ಲ.ಸಾ.ಅ (LCM) ವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೂಡ ಒಂದು ಸಂಬಂಧಿತ ಸೂತ್ರವಿದೆ. ಈ ಸೂತ್ರವು: $LCM(p, q, r) = \\frac{p \\cdot q \\cdot r \\cdot HCF(p, q, r)}{HCF(p, q) \\cdot HCF(q, r) \\cdot HCF(p, r)}$. ಗಮನಿಸಿ, ಈ ಸೂತ್ರದಲ್ಲಿ ಅಂಶ ಮತ್ತು ಛೇದದಲ್ಲಿ HCF ಮತ್ತು LCM ಗಳು ಅದಲು ಬದಲಾಗಿವೆ. ಅಂದರೆ, HCF ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರದಲ್ಲಿ ನಾವು ಜೋಡಿಗಳ LCM ಬಳಸಿದರೆ, LCM ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರದಲ್ಲಿ ನಾವು ಜೋಡಿಗಳ HCF ಅನ್ನು ಬಳಸುತ್ತೇವೆ. ಇವೆರಡೂ ಸೂತ್ರಗಳು ಒಂದೇ ಸಂಬಂಧವನ್ನು ಬೇರೆ ಬೇರೆ ದೃಷ್ಟಿಕೋನದಿಂದ ತೋರಿಸುತ್ತವೆ.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "formula_showcase",
+    "template": "center_formula",
+    "text_zone": "bottom",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "LCM(p, q, r) = \\frac{p \\cdot q \\cdot r \\cdot HCF(p, q, r)}{HCF(p, q) \\cdot HCF(q, r) \\cdot HCF(p, r)}",
+    "placeholder_note": "Formula showing the relationship for LCM of three numbers p, q, and r."
+  },
+  "chunk_id": "NS-REAL-4_concept_1_chunk_045"
+}

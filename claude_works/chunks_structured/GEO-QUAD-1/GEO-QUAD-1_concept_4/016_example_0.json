@@ -1,0 +1,40 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ 3: ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಸುತ್ತಳತೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 3.16 ರಲ್ಲಿ, ಸಮಾಂತರ ಚತುರ್ಭುಜ PQRS ನ ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ನಮಗೆ PQ ಯ ಉದ್ದ 12 ಸೆಂಟಿಮೀಟರ್ ಮತ್ತು QR ನ ಉದ್ದ 7 ಸೆಂಟಿಮೀಟರ್ ಎಂದು ಕೊಡಲಾಗಿದೆ. ನಾವು ಈ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಚಿತ್ರ 3.16 ರಲ್ಲಿ, ಸಮಾಂತರ ಚತುರ್ಭುಜ PQRS ನ ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ನಮಗೆ $PQ$ ಯ ಉದ್ದ $12$ ಸೆಂ.ಮೀ ಮತ್ತು $QR$ ನ ಉದ್ದ $7$ ಸೆಂ.ಮೀ ಎಂದು ಕೊಡಲಾಗಿದೆ. ನಾವು ಈ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ಸಮಾಂತರ ಚತುರ್ಭುಜ PQRS ನ ಸುತ್ತಳತೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ದತ್ತಾಂಶ: $PQ = 12$ ಸೆಂ.ಮೀ ಮತ್ತು $QR = 7$ ಸೆಂ.ಮೀ.",
+    "ಕಂಡುಹಿಡಿಯಬೇಕಾದದ್ದು: ಸುತ್ತಳತೆ."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A parallelogram labeled PQRS. Side PQ is labeled '12 cm'. Side QR is labeled '7 cm'.",
+    "labels": "P, Q, R, S, 12 cm, 7 cm",
+    "mathematical_significance": "Visual representation of the problem, showing the given side lengths of the parallelogram.",
+    "placeholder_note": "Image to be generated: Parallelogram PQRS with side PQ=12cm and QR=7cm marked."
+  },
+  "source_example_id": "GEO-QUAD-1_example_3",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-QUAD-1_concept_4_chunk_016"
+}

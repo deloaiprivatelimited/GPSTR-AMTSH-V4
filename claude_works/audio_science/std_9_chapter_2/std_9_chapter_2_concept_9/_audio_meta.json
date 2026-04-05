@@ -1,0 +1,125 @@
+{
+  "module_id": "std_9_chapter_2_concept_9",
+  "chapter_code": "std_9_chapter_2",
+  "voice": "Puck",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 10,
+  "ok_count": 10,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 15:34:27",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "d488fb07fceb0d94b17906d1f162acb0",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 26.691,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "prerequisites",
+      "script_words": 46,
+      "generated_at": "2026-04-02 15:32:42"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "97bcd8802a8b535f19aae18423bf366e",
+      "wav_file": "001_intro_0.wav",
+      "duration": 54.451,
+      "slide_title": "ಪರಿಚಯ: ಧಾತುಗಳು",
+      "type": "intro",
+      "script_words": 69,
+      "generated_at": "2026-04-02 15:33:07"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "b48cb5d76e449475391f9be6f74aec8c",
+      "wav_file": "003_definition_0.wav",
+      "duration": 45.531,
+      "slide_title": "ಧಾತು (Element) ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 15:33:09"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "7a0657df1b6caad754f7b4da7481d1f2",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 42.171,
+      "slide_title": "ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥೈಸಿಕೊಳ್ಳೋಣ",
+      "type": "definition",
+      "script_words": 56,
+      "generated_at": "2026-04-02 15:33:21"
+    },
+    "006_classification_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "3ca72cd22d92d844e4349ce1b19492c3",
+      "wav_file": "006_classification_0.wav",
+      "duration": 44.531,
+      "slide_title": "ಧಾತುಗಳ ವರ್ಗೀಕರಣ: ಪರಿಚಯ",
+      "type": "concept_explanation",
+      "script_words": 48,
+      "generated_at": "2026-04-02 15:33:22"
+    },
+    "010_recap_0.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "e788a26df244b52826e08bd16261247a",
+      "wav_file": "010_recap_0.wav",
+      "duration": 43.491,
+      "slide_title": "ಪುನರಾವರ್ತನೆ",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 15:33:56"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "91ca26b5605ea67f01a2ef610db32583",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 51.531,
+      "slide_title": "ಧಾತು vs. ಸಂಯುಕ್ತ (Element vs. Compound)",
+      "type": "definition",
+      "script_words": 59,
+      "generated_at": "2026-04-02 15:33:58"
+    },
+    "007_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "7714c8a1d921061a12f50801dddc83d4",
+      "wav_file": "007_classification_cont_0_1.wav",
+      "duration": 60.931,
+      "slide_title": "ಲೋಹಗಳು (Metals)",
+      "type": "concept_explanation",
+      "script_words": 67,
+      "generated_at": "2026-04-02 15:34:02"
+    },
+    "009_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "5abcfa0e72c50c4430045b378ad1b718",
+      "wav_file": "009_classification_cont_0_3.wav",
+      "duration": 48.491,
+      "slide_title": "ಲೋಹಾಭಗಳು (Metalloids)",
+      "type": "concept_explanation",
+      "script_words": 51,
+      "generated_at": "2026-04-02 15:34:19"
+    },
+    "008_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Puck",
+      "script_hash": "aa7bcc3fd4488e7820d95d95b0a0bacc",
+      "wav_file": "008_classification_cont_0_2.wav",
+      "duration": 51.411,
+      "slide_title": "ಅಲೋಹಗಳು (Non-metals)",
+      "type": "concept_explanation",
+      "script_words": 58,
+      "generated_at": "2026-04-02 15:34:27"
+    }
+  }
+}

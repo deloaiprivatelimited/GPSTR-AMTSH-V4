@@ -1,0 +1,81 @@
+{
+  "module_id": "std_6_chapter_3_concept_3",
+  "chapter_code": "std_6_chapter_3",
+  "voice": "Iapetus",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 6,
+  "ok_count": 6,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 12:59:57",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "f2901a06448a79db7373bf1e14118953",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 22.971,
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತ ಜ್ಞಾನ",
+      "type": "intro",
+      "script_words": 33,
+      "generated_at": "2026-04-02 12:58:42"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "6411abdd286a9fd36333e45f5a9ee233",
+      "wav_file": "003_definition_0.wav",
+      "duration": 41.971,
+      "slide_title": "ನ್ಯೂನತಾ ರೋಗ ಎಂದರೇನು?",
+      "type": "definition",
+      "script_words": 55,
+      "generated_at": "2026-04-02 12:58:55"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "a67f9a5b8409492d4b77ee7d79cc9527",
+      "wav_file": "001_intro_0.wav",
+      "duration": 46.491,
+      "slide_title": "ನ್ಯೂನತಾ ರೋಗಗಳು",
+      "type": "intro",
+      "script_words": 73,
+      "generated_at": "2026-04-02 12:58:58"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "99d5f7e784ec6a739e30325482e815f8",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 50.651,
+      "slide_title": "ಉದಾಹರಣೆಯೊಂದಿಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-04-02 12:59:03"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "aa9c82b5a2c15f60f2b1ff4196b841e8",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 44.811,
+      "slide_title": "ಹೋಲಿಕೆ: ನ್ಯೂನತಾ ರೋಗ vs ಸಾಂಕ್ರಾಮಿಕ ರೋಗ",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-04-02 12:59:22"
+    },
+    "006_recap_0.json": {
+      "status": "ok",
+      "voice": "Iapetus",
+      "script_hash": "01d6c04c5c4967e7383fec153a4b7f6b",
+      "wav_file": "006_recap_0.wav",
+      "duration": 38.491,
+      "slide_title": "ಸಾರಾಂಶ: ನ್ಯೂನತಾ ರೋಗಗಳು",
+      "type": "recap",
+      "script_words": 51,
+      "generated_at": "2026-04-02 12:59:57"
+    }
+  }
+}

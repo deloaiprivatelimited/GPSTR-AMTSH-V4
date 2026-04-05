@@ -1,0 +1,35 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ನಿಶೇಚನಾನಂತರದ ಬದಲಾವಣೆಗಳು: ಭ್ರೂಣ ಮತ್ತು ಬೀಜ",
+  "script": "ನಿಶೇಚನದ ನಂತರ, ಹೂವಿನಲ್ಲಿ ಹಲವಾರು ಪ್ರಮುಖ ಬದಲಾವಣೆಗಳು ಆಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಗಂಡು ಮತ್ತು ಹೆಣ್ಣು ಲಿಂಗಾಣುಗಳ ಸಮ್ಮಿಲನದಿಂದ ಉಂಟಾದ ಯುಗ್ಮಜವು, ವಿಭಜನೆಗೊಂಡು ಭ್ರೂಣವಾಗಿ ಬೆಳೆಯುತ್ತದೆ. ಈ ಭ್ರೂಣವೇ ಭವಿಷ್ಯದ ಸಸ್ಯ. ಎರಡನೆಯದಾಗಿ, ಈ ಭ್ರೂಣವನ್ನು ಹೊಂದಿರುವ ಅಂಡಕವು ಬೀಜವಾಗಿ ಪರಿವರ್ತನೆಗೊಳ್ಳುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಅಂಡಕದ ಸುತ್ತಲೂ ಒಂದು ಗಟ್ಟಿಯಾದ ರಕ್ಷಣಾತ್ಮಕ ಪದರವು ರೂಪುಗೊಳ್ಳುತ್ತದೆ. ಈ ಬೀಜವು ಹೊಸ ಸಸ್ಯವನ್ನು ಹುಟ್ಟುಹಾಕುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+  "script_display": "ನಿಶೇಚನದ ನಂತರ, ಹೂವಿನಲ್ಲಿ ಹಲವಾರು ಪ್ರಮುಖ ಬದಲಾವಣೆಗಳು ಆಗುತ್ತವೆ. ಮೊದಲನೆಯದಾಗಿ, ಗಂಡು ಮತ್ತು ಹೆಣ್ಣು ಲಿಂಗಾಣುಗಳ ಸಮ್ಮಿಲನದಿಂದ ಉಂಟಾದ ಯುಗ್ಮಜ (Zygote)ವು, ವಿಭಜನೆಗೊಂಡು ಭ್ರೂಣ (Embryo)ವಾಗಿ ಬೆಳೆಯುತ್ತದೆ. ಈ ಭ್ರೂಣವೇ ಭವಿಷ್ಯದ ಸಸ್ಯ. ಎರಡನೆಯದಾಗಿ, ಈ ಭ್ರೂಣವನ್ನು ಹೊಂದಿರುವ ಅಂಡಕ (Ovule)ವು ಬೀಜ (Seed)ವಾಗಿ ಪರಿವರ್ತನೆಗೊಳ್ಳುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ, ಅಂಡಕದ ಸುತ್ತಲೂ ಒಂದು ಗಟ್ಟಿಯಾದ ರಕ್ಷಣಾತ್ಮಕ ಪದರವು ರೂಪುಗೊಳ್ಳುತ್ತದೆ. ಈ ಬೀಜವು ಹೊಸ ಸಸ್ಯವನ್ನು ಹುಟ್ಟುಹಾಕುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+  "display_bullets": [
+    "ಯುಗ್ಮಜ (Zygote) -> ಭ್ರೂಣ (Embryo)",
+    "ಅಂಡಕ (Ovule) -> ಬೀಜ (Seed)"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram showing the post-fertilization changes within the ovary. It should highlight the zygote developing into an embryo inside the ovule, and the ovule's wall hardening to form the seed coat.",
+    "labels": "ಯುಗ್ಮಜ, ಭ್ರೂಣ, ಅಂಡಕ, ಬೀಜದ ಕವಚ, ಅಂಡಾಶಯ",
+    "scientific_significance": "Illustrates the initial stages of seed and embryo development, which are the direct results of fertilization.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_10_chapter_7_concept_7_chunk_019"
+}

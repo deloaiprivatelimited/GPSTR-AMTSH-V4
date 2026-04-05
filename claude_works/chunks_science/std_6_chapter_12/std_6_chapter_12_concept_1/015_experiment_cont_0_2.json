@@ -1,0 +1,36 @@
+{
+  "type": "experiment_activity",
+  "slide_title": "ವಿಧಾನ: ಸಪ್ತರ್ಷಿ ಮಂಡಲವನ್ನು ಗುರುತಿಸಿ",
+  "script": "ಮೊದಲಿಗೆ, ನಾವು ಉತ್ತರ ದಿಕ್ಕಿನ ಆಕಾಶದಲ್ಲಿ ಸಪ್ತರ್ಷಿ ಮಂಡಲವನ್ನು, ಅಂದರೆ ಬಿಗ್ ಡಿಪ್ಪರ್ ಅನ್ನು ಹುಡುಕಬೇಕು. ಇದು ಏಳು ಪ್ರಕಾಶಮಾನವಾದ ನಕ್ಷತ್ರಗಳ ಗುಂಪಾಗಿದ್ದು, ಒಂದು ದೊಡ್ಡ ಕೈ ಸೌಟು ಅಥವಾ ಗಾಳಪಟದ ಆಕಾರದಲ್ಲಿ ಕಾಣುತ್ತದೆ. ಇದನ್ನು ಗುರುತಿಸುವುದು ತುಂಬಾ ಸುಲಭ. ಆ ಸೌಟಿನ ಆಕಾರದಲ್ಲಿ, ಬಟ್ಟಲಿನ ಭಾಗದಲ್ಲಿ ನಾಲ್ಕು ನಕ್ಷತ್ರಗಳು ಮತ್ತು ಹಿಡಿಕೆಯ ಭಾಗದಲ್ಲಿ ಮೂರು ನಕ್ಷತ್ರಗಳು ಇರುತ್ತವೆ. ಈಗ, ಆ ಬಟ್ಟಲಿನ ಕೊನೆಯಲ್ಲಿರುವ ಎರಡು ನಕ್ಷತ್ರಗಳನ್ನು ಗಮನಿಸಿ. ಇವುಗಳನ್ನು ಪಾಯಿಂಟರ್ ಸ್ಟಾರ್ಸ್ ಅಥವಾ ಸೂಚಕ ನಕ್ಷತ್ರಗಳು ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+  "script_display": "ಮೊದಲಿಗೆ, ನಾವು ಉತ್ತರ ದಿಕ್ಕಿನ ಆಕಾಶದಲ್ಲಿ ಸಪ್ತರ್ಷಿ ಮಂಡಲವನ್ನು (Big Dipper) ಹುಡುಕಬೇಕು. ಇದು ಏಳು ಪ್ರಕಾಶಮಾನವಾದ ನಕ್ಷತ್ರಗಳ ಗುಂಪಾಗಿದ್ದು, ಒಂದು ದೊಡ್ಡ ಕೈ ಸೌಟು ಅಥವಾ ಗಾಳಪಟದ ಆಕಾರದಲ್ಲಿ ಕಾಣುತ್ತದೆ. ಆ ಸೌಟಿನ ಬಟ್ಟಲಿನ ಕೊನೆಯಲ್ಲಿರುವ ಎರಡು ನಕ್ಷತ್ರಗಳನ್ನು (ಪಾಯಿಂಟರ್ ಸ್ಟಾರ್ಸ್) ಗಮನಿಸಿ.",
+  "display_bullets": [
+    "ರಾತ್ರಿಯ ಆಕಾಶದಲ್ಲಿ ಬಿಗ್ ಡಿಪ್ಪರ್ (ಸಪ್ತರ್ಷಿ ಮಂಡಲ) ಅನ್ನು ಗುರುತಿಸಿ. ಇದು ದೊಡ್ಡ ಕೈ ಸೌಟಿನ ಆಕಾರದಲ್ಲಿದೆ.",
+    "ಸೌಟಿನ ಬಟ್ಟಲಿನ ಕೊನೆಯಲ್ಲಿರುವ ಎರಡು ನಕ್ಷತ್ರಗಳನ್ನು (ಪಾಯಿಂಟರ್ ಸ್ಟಾರ್ಸ್) ಗಮನಿಸಿ."
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of the night sky showing the Big Dipper constellation clearly. The two 'pointer stars' at the end of the dipper's bowl are highlighted or circled.",
+    "labels": "Big Dipper, Pointer Stars",
+    "scientific_significance": "This is the first crucial step in the star-hopping method to locate Polaris.",
+    "placeholder_note": "Image to be generated"
+  },
+  "sub_type": "step_walkthrough",
+  "chunk_id": "std_6_chapter_12_concept_1_chunk_015"
+}

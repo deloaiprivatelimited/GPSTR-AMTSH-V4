@@ -1,0 +1,39 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ತ್ರಾಪಿಜ್ಯದಲ್ಲಿ ಸಮಾನುಪಾತತೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ ABCD ಎಂಬ ಒಂದು ತ್ರಾಪಿಜ್ಯವನ್ನು ನೀಡಲಾಗಿದೆ, ಇದರಲ್ಲಿ AB ಬಾಹುವು DC ಬಾಹುವಿಗೆ ಸಮಾಂತರವಾಗಿದೆ. E ಮತ್ತು F ಗಳು ಕ್ರಮವಾಗಿ ಸಮಾಂತರವಲ್ಲದ ಬಾಹುಗಳಾದ AD ಮತ್ತು BC ಗಳ ಮೇಲಿನ ಬಿಂದುಗಳಾಗಿವೆ, ಮತ್ತು EF ರೇಖೆಯು AB ಗೆ ಸಮಾಂತರವಾಗಿದೆ. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಏನೆಂದರೆ, AE ಭಾಗಿಸು ED ಸಮ BF ಭಾಗಿಸು FC.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಗಮನವಿಟ್ಟು ಓದೋಣ. ನಮಗೆ ABCD ಎಂಬ ಒಂದು ತ್ರಾಪಿಜ್ಯವನ್ನು ನೀಡಲಾಗಿದೆ, ಇದರಲ್ಲಿ $AB || DC$. E ಮತ್ತು F ಗಳು ಕ್ರಮವಾಗಿ ಸಮಾಂತರವಲ್ಲದ ಬಾಹುಗಳಾದ AD ಮತ್ತು BC ಗಳ ಮೇಲಿನ ಬಿಂದುಗಳಾಗಿವೆ, ಮತ್ತು $EF || AB$. ನಾವು ಸಾಧಿಸಬೇಕಾಗಿರುವುದು ಏನೆಂದರೆ, $\\frac{AE}{ED} = \\frac{BF}{FC}$.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ (Given): ABCD ತ್ರಾಪಿಜ್ಯದಲ್ಲಿ $AB || DC$ ಮತ್ತು $EF || AB$.",
+    "ಸಾಧನೀಯ (To Prove): $\\frac{AE}{ED} = \\frac{BF}{FC}$."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ABCD ತ್ರಾಪಿಜ್ಯ. AB ಮತ್ತು DC ಸಮಾಂತರ ಬಾಹುಗಳು. AD ಮತ್ತು BC ಸಮಾಂತರವಲ್ಲದ ಬಾಹುಗಳು. E ಬಿಂದು AD ಮೇಲಿದೆ ಮತ್ತು F ಬಿಂದು BC ಮೇಲಿದೆ. EF ರೇಖೆಯು AB ಮತ್ತು DC ಗೆ ಸಮಾಂತರವಾಗಿದೆ.",
+    "labels": "A, B, C, D, E, F",
+    "mathematical_significance": "ಈ ಚಿತ್ರವು ಸಮಸ್ಯೆಯಲ್ಲಿ ವಿವರಿಸಿದ ತ್ರಾಪಿಜ್ಯ ಮತ್ತು ರೇಖೆಗಳನ್ನು ತೋರಿಸುತ್ತದೆ. ಇದು ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯವನ್ನು ಅನ್ವಯಿಸಲು ದೃಶ್ಯ ಆಧಾರವನ್ನು ಒದಗಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated for the trapezium ABCD with line EF parallel to AB."
+  },
+  "source_example_id": "GEO-TRI-2_example_4",
+  "steps": [],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_4_chunk_020"
+}

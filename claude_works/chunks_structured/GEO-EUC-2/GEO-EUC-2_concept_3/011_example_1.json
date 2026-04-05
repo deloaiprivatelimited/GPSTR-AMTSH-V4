@@ -1,0 +1,38 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಸಮಬಾಹು ತ್ರಿಭುಜದ ರಚನೆ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ದತ್ತ ರೇಖಾಖಂಡದ ಮೇಲೆ ಒಂದು ಸಮಬಾಹು ತ್ರಿಭುಜವನ್ನು ರಚಿಸಿ ಮತ್ತು ಸಾಧಿಸಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ರೇಖಾಖಂಡವನ್ನು ನೀಡಲಾಗಿದೆ, ಅದನ್ನು ನಾವು AB ಎಂದು ಕರೆಯೋಣ. ನಮ್ಮ ಗುರಿ, ಈ ರೇಖಾಖಂಡ AB ಯನ್ನು ಒಂದು ಬಾಹುವಾಗಿ ಬಳಸಿ, ಒಂದು ಸಮಬಾಹು ತ್ರಿಭುಜವನ್ನು, ಅಂದರೆ ಎಲ್ಲಾ ಮೂರು ಬಾಹುಗಳು ಸಮವಾಗಿರುವ ತ್ರಿಭುಜವನ್ನು ರಚಿಸುವುದು ಮತ್ತು ಅದು ಸಮಬಾಹು ತ್ರಿಭುಜವೆಂದು ಸಾಧಿಸುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ದತ್ತ ರೇಖಾಖಂಡದ ಮೇಲೆ ಒಂದು ಸಮಬಾಹು ತ್ರಿಭುಜವನ್ನು ರಚಿಸಿ ಮತ್ತು ಸಾಧಿಸಿ. ಈ ಸಮಸ್ಯೆಯಲ್ಲಿ, ನಮಗೆ ಒಂದು ರೇಖಾಖಂಡವನ್ನು ನೀಡಲಾಗಿದೆ, ಅದನ್ನು ನಾವು $AB$ ಎಂದು ಕರೆಯೋಣ. ನಮ್ಮ ಗುರಿ, ಈ ರೇಖಾಖಂಡ $AB$ ಯನ್ನು ಒಂದು ಬಾಹುವಾಗಿ ಬಳಸಿ, ಒಂದು ಸಮಬಾಹು ತ್ರಿಭುಜವನ್ನು, ಅಂದರೆ ಎಲ್ಲಾ ಮೂರು ಬಾಹುಗಳು ಸಮವಾಗಿರುವ ತ್ರಿಭುಜವನ್ನು ರಚಿಸುವುದು ಮತ್ತು ಅದು ಸಮಬಾಹು ತ್ರಿಭುಜವೆಂದು ಸಾಧಿಸುವುದು.",
+  "display_bullets": [
+    "ದತ್ತಾಂಶ: ಒಂದು ರೇಖಾಖಂಡ $AB$.",
+    "ಸಾಧಿಸಬೇಕಾದದ್ದು: $AB$ ಮೇಲೆ ಒಂದು ಸಮಬಾಹು ತ್ರಿಭುಜವನ್ನು ರಚಿಸುವುದು ಮತ್ತು ಸಾಧಿಸುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "problem_setup_v1",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಒಂದು ಸಮತಲದಲ್ಲಿ AB ಎಂದು ಹೆಸರಿಸಲಾದ ಒಂದು ಸರಳ ರೇಖಾಖಂಡ.",
+    "labels": "A, B",
+    "mathematical_significance": "ಇದು ರಚನೆಗೆ ಆಧಾರವಾಗಿರುವ ದತ್ತ ರೇಖಾಖಂಡವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+    "placeholder_note": "Image to be generated: A horizontal line segment labeled A on the left and B on the right."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "intermediate",
+  "source_example_id": "GEO-EUC-2_example_2",
+  "chunk_id": "GEO-EUC-2_concept_3_chunk_011"
+}

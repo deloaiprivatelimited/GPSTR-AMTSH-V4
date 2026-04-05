@@ -1,0 +1,32 @@
+{
+  "type": "definition",
+  "slide_title": "ಸರಿಯಾದ ಮತ್ತು ತಪ್ಪಾದ ಬಳಕೆ",
+  "script": "ಈಗ ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಸರಿಯಾದ ಬಳಕೆಯನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಇಪ್ಪತ್ತೈದು ಈಕ್ವಲ್ಸ್ ಐದು. ಇದು ಸರಿ. ಏಕೆಂದರೆ ರಾಡಿಕಲ್ ಚಿಹ್ನೆಯು ಧನಾತ್ಮಕ ವರ್ಗಮೂಲವನ್ನು ಕೇಳುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿ, ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಇಪ್ಪತ್ತೈದು ಈಕ್ವಲ್ಸ್ ಮೈನಸ್ ಐದು ಎಂದು ಬರೆಯಲಾಗಿದೆ, ಇದು ತಪ್ಪು. ಹಾಗೆಯೇ, ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಇಪ್ಪತ್ತೈದು ಈಕ್ವಲ್ಸ್ ಪ್ಲಸ್ ಅಥವಾ ಮೈನಸ್ ಐದು ಎಂದು ಬರೆಯುವುದೂ ಕೂಡ ತಪ್ಪು. ಒಂದು ಅಭಿವ್ಯಕ್ತಿಯಾಗಿ, ಸ್ಕ್ವೇರ್ ರೂಟ್ ಆಫ್ ಇಪ್ಪತ್ತೈದು ಒಂದೇ ಒಂದು ನಿರ್ದಿಷ್ಟ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದೆ, ಅದು ಐದು.",
+  "script_display": "ಈಗ ಒಂದು ಸಾಮಾನ್ಯ ತಪ್ಪನ್ನು ನೋಡೋಣ. ಎಡಭಾಗದಲ್ಲಿ ಸರಿಯಾದ ಬಳಕೆಯನ್ನು ತೋರಿಸಲಾಗಿದೆ. $\\sqrt{25} = 5$. ಇದು ಸರಿ. ಏಕೆಂದರೆ radical ಚಿಹ್ನೆಯು ಧನಾತ್ಮಕ ವರ್ಗಮೂಲವನ್ನು ಕೇಳುತ್ತದೆ. ಬಲಭಾಗದಲ್ಲಿ, $\\sqrt{25} = -5$ ಎಂದು ಬರೆಯಲಾಗಿದೆ, ಇದು ತಪ್ಪು. ಹಾಗೆಯೇ, $\\sqrt{25} = \\pm 5$ ಎಂದು ಬರೆಯುವುದೂ ಕೂಡ ತಪ್ಪು. ಒಂದು ಅಭಿವ್ಯಕ್ತಿಯಾಗಿ, $\\sqrt{25}$ ಒಂದೇ ಒಂದು ನಿರ್ದಿಷ್ಟ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದೆ, ಅದು 5.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "split_comparison",
+    "template": "modern_dark",
+    "text_zone": "full",
+    "visual_zone": "center",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A split screen comparison. Left side has a green checkmark, title 'ಸರಿ (Correct)', and the equation '√25 = 5'. Right side has a red X mark, title 'ತಪ್ಪು (Incorrect)', and the equations '√25 = -5' and '√25 = ±5'.",
+    "labels": "correct, incorrect, square root of 25",
+    "mathematical_significance": "Visually contrasts the correct interpretation of the radical symbol against common misconceptions.",
+    "placeholder_note": "Image to be generated based on description."
+  },
+  "chunk_id": "NS-SQR-2_concept_6_chunk_011"
+}

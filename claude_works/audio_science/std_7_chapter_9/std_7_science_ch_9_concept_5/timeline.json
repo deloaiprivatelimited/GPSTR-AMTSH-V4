@@ -1,0 +1,134 @@
+{
+  "module_id": "std_7_science_ch_9_concept_5",
+  "chapter_code": "std_7_chapter_9",
+  "voice": "Orus",
+  "model": "gemini-2.5-pro-tts",
+  "total_chunks": 11,
+  "total_duration": 453.841,
+  "total_duration_formatted": "7:33",
+  "pause_between_chunks": 0.6,
+  "speaking_rate": 1.0,
+  "segments": [
+    {
+      "chunk_id": "std_7_science_ch_9_concept_5_chunk_001",
+      "chunk_file": "001_intro_0.json",
+      "wav_file": "001_intro_0.wav",
+      "slide_title": "ದೂರ-ಕಾಲ ನಕ್ಷೆ",
+      "type": "chunk",
+      "start": 0.0,
+      "end": 54.051,
+      "duration": 54.051,
+      "script_words": 83
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_5_chunk_002",
+      "chunk_file": "002_intro_cont_0_1.json",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "slide_title": "ಪೂರ್ವಾಪೇಕ್ಷಿತಗಳು",
+      "type": "chunk",
+      "start": 54.651,
+      "end": 77.382,
+      "duration": 22.731,
+      "script_words": 32
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_5_chunk_003",
+      "chunk_file": "003_property_0.json",
+      "wav_file": "003_property_0.wav",
+      "slide_title": "ನಕ್ಷೆಯ ವ್ಯಾಖ್ಯಾನ: ಏಕರೂಪದ ಜವ",
+      "type": "concept_explanation",
+      "start": 77.982,
+      "end": 123.353,
+      "duration": 45.371,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_5_chunk_004",
+      "chunk_file": "004_property_cont_0_1.json",
+      "wav_file": "004_property_cont_0_1.wav",
+      "slide_title": "ನಕ್ಷೆಯ ವ್ಯಾಖ್ಯಾನ: ನಿಶ್ಚಲ ಸ್ಥಿತಿ",
+      "type": "concept_explanation",
+      "start": 123.953,
+      "end": 161.884,
+      "duration": 37.931,
+      "script_words": 53
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_5_chunk_005",
+      "chunk_file": "005_property_cont_0_2.json",
+      "wav_file": "005_property_cont_0_2.wav",
+      "slide_title": "ನಕ್ಷೆಯ ವ್ಯಾಖ್ಯಾನ: ಏಕರೂಪವಲ್ಲದ ಜವ",
+      "type": "concept_explanation",
+      "start": 162.484,
+      "end": 207.015,
+      "duration": 44.531,
+      "script_words": 51
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_5_chunk_006",
+      "chunk_file": "006_experiment_0.json",
+      "wav_file": "006_experiment_0.wav",
+      "slide_title": "ಪ್ರಯೋಗ: ದೂರ-ಕಾಲ ನಕ್ಷೆ ರಚಿಸುವುದು",
+      "type": "experiment_activity",
+      "start": 207.615,
+      "end": 245.266,
+      "duration": 37.651,
+      "script_words": 57
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_5_chunk_007",
+      "chunk_file": "007_experiment_cont_0_1.json",
+      "wav_file": "007_experiment_cont_0_1.wav",
+      "slide_title": "ಹಂತ 1: ಅಕ್ಷಗಳು ಮತ್ತು ಅಳತೆ (Scale) ಸಿದ್ಧಪಡಿಸುವುದು",
+      "type": "experiment_activity",
+      "start": 245.866,
+      "end": 288.837,
+      "duration": 42.971,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_5_chunk_008",
+      "chunk_file": "008_experiment_cont_0_2.json",
+      "wav_file": "008_experiment_cont_0_2.wav",
+      "slide_title": "ಹಂತ 2: ದತ್ತಾಂಶದ ಬಿಂದುಗಳನ್ನು ಗುರುತಿಸುವುದು",
+      "type": "experiment_activity",
+      "start": 289.437,
+      "end": 332.008,
+      "duration": 42.571,
+      "script_words": 67
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_5_chunk_009",
+      "chunk_file": "009_experiment_cont_0_3.json",
+      "wav_file": "009_experiment_cont_0_3.wav",
+      "slide_title": "ಹಂತ 3: ಬಿಂದುಗಳನ್ನು ಸೇರಿಸಿ ರೇಖೆ ಎಳೆಯುವುದು",
+      "type": "experiment_activity",
+      "start": 332.608,
+      "end": 370.499,
+      "duration": 37.891,
+      "script_words": 52
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_5_chunk_010",
+      "chunk_file": "010_experiment_cont_0_4.json",
+      "wav_file": "010_experiment_cont_0_4.wav",
+      "slide_title": "ತೀರ್ಮಾನ: ನಕ್ಷೆಯಿಂದ ಏನು ತಿಳಿಯುತ್ತದೆ?",
+      "type": "experiment_activity",
+      "start": 371.099,
+      "end": 411.27,
+      "duration": 40.171,
+      "script_words": 54
+    },
+    {
+      "chunk_id": "std_7_science_ch_9_concept_5_chunk_011",
+      "chunk_file": "011_recap_0.json",
+      "wav_file": "011_recap_0.wav",
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "start": 411.87,
+      "end": 453.241,
+      "duration": 41.371,
+      "script_words": 59
+    }
+  ]
+}

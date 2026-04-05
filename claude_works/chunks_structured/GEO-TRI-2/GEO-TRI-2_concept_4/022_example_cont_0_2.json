@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 3 ಮತ್ತು 4",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ, ಇನ್ನೊಂದು ತ್ರಿಭುಜವಾದ CAB ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಇಲ್ಲಿ, GF ರೇಖೆಯು AB ಗೆ ಸಮಾಂತರವಾಗಿದೆ. ಹಾಗಾಗಿ, ನಾವು BPT ಯನ್ನು ತ್ರಿಭುಜ CAB ಗೆ ಅನ್ವಯಿಸಬಹುದು. ನಮಗೆ CG ಭಾಗಿಸು AG ಸಮ CF ಭಾಗಿಸು BF ಎಂದು ಸಿಗುತ್ತದೆ. ಆದರೆ ನಮಗೆ ಸಮೀಕರಣ ಒಂದರಲ್ಲಿ AG ಭಾಗಿಸು GC ಇದೆ. ಆದ್ದರಿಂದ, ನಾವು ಈ ಸಮೀಕರಣದ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಆಗ, AG ಭಾಗಿಸು GC ಸಮ BF ಭಾಗಿಸು FC ಎಂದಾಗುತ್ತದೆ. ಇದನ್ನು ಸಮೀಕರಣ ಎರಡು ಎಂದು ಕರೆಯೋಣ. ಈಗ, ಸಮೀಕರಣ ಒಂದು ಮತ್ತು ಎರಡನ್ನು ಹೋಲಿಸಿ. ಎರಡೂ ಸಮೀಕರಣಗಳು AG ಭಾಗಿಸು GC ಗೆ ಸಮನಾಗಿವೆ. ಆದ್ದರಿಂದ, ನಾವು AE ಭಾಗಿಸು ED ಸಮ BF ಭಾಗಿಸು FC ಎಂದು ತೀರ್ಮಾನಿಸಬಹುದು.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ, ಇನ್ನೊಂದು ತ್ರಿಭುಜವಾದ $\\triangle CAB$ ಯನ್ನು ಪರಿಗಣಿಸೋಣ. ಇಲ್ಲಿ, $GF || AB$. ಹಾಗಾಗಿ, ನಾವು BPT ಯನ್ನು $\\triangle CAB$ ಗೆ ಅನ್ವಯಿಸಬಹುದು. ನಮಗೆ $\\frac{CG}{AG} = \\frac{CF}{BF}$ ಎಂದು ಸಿಗುತ್ತದೆ. ಆದರೆ ನಮಗೆ ಸಮೀಕರಣ (1) ರಲ್ಲಿ $\\frac{AG}{GC}$ ಇದೆ. ಆದ್ದರಿಂದ, ನಾವು ಈ ಸಮೀಕರಣದ ವ್ಯುತ್ಕ್ರಮವನ್ನು ತೆಗೆದುಕೊಳ್ಳೋಣ. ಆಗ, $\\frac{AG}{GC} = \\frac{BF}{FC}$ ಎಂದಾಗುತ್ತದೆ. ಇದನ್ನು ಸಮೀಕರಣ (2) ಎಂದು ಕರೆಯೋಣ. ಈಗ, ಸಮೀಕರಣ (1) ಮತ್ತು (2) ನ್ನು ಹೋಲಿಸಿ. ಎರಡೂ ಸಮೀಕರಣಗಳು $\\frac{AG}{GC}$ ಗೆ ಸಮನಾಗಿವೆ. ಆದ್ದರಿಂದ, ನಾವು $\\frac{AE}{ED} = \\frac{BF}{FC}$ ಎಂದು ತೀರ್ಮಾನಿಸಬಹುದು.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ABCD ತ್ರಾಪಿಜ್ಯದ ಚಿತ್ರ. AC ಕರ್ಣವನ್ನು ಎಳೆಯಲಾಗಿದೆ. ತ್ರಿಭುಜ CAB ಯನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ, ಇದರಲ್ಲಿ GF ರೇಖೆಯು AB ಗೆ ಸಮಾಂತರವಾಗಿದೆ.",
+    "labels": "A, B, C, D, E, F, G",
+    "mathematical_significance": "ಈ ಹಂತದಲ್ಲಿ, ಎರಡನೇ ತ್ರಿಭುಜ CAB ಯಲ್ಲಿ BPT ಯನ್ನು ಹೇಗೆ ಬಳಸಲಾಗಿದೆ ಎಂಬುದನ್ನು ತೋರಿಸಲಾಗಿದೆ. ಇದು ಸಾಧನೆಯ ಎರಡನೇ ಭಾಗವಾಗಿದೆ.",
+    "placeholder_note": "Image of the trapezium with diagonal AC. Triangle CAB should be highlighted."
+  },
+  "source_example_id": "GEO-TRI-2_example_4",
+  "steps": [
+    {
+      "step": 3,
+      "action_display": "$\\triangle CAB$ ಯಲ್ಲಿ, $GF || AB$. BPT ಪ್ರಕಾರ, $\\frac{CG}{AG} = \\frac{CF}{BF} \\implies \\frac{AG}{GC} = \\frac{BF}{FC}$ --- (2)",
+      "justification": "ಮೂಲ ಸಮಾನುಪಾತತೆಯ ಪ್ರಮೇಯ (BPT) ಮತ್ತು ವ್ಯುತ್ಕ್ರಮ"
+    },
+    {
+      "step": 4,
+      "action_display": "ಸಮೀಕರಣ (1) ಮತ್ತು (2) ರಿಂದ, $\\frac{AE}{ED} = \\frac{BF}{FC}$",
+      "justification": "ಎರಡೂ ಸಮೀಕರಣಗಳನ್ನು ಹೋಲಿಸುವುದು"
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_4_chunk_022"
+}

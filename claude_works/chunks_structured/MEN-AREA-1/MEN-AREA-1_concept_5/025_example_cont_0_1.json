@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ",
+  "script": "ಈಗ ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶವನ್ನು ಬರೆಯುವುದು. ವ್ಯಾಸ d ಈಕ್ವಲ್ಸ್ 10 ಸೆಂಟಿಮೀಟರ್. ಎರಡನೇ ಹಂತ, ಪರಿಧಿಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು. ವ್ಯಾಸವನ್ನು ಕೊಟ್ಟಾಗ, ಪರಿಧಿಯ ಸೂತ್ರ C ಈಕ್ವಲ್ಸ್ ಪೈ ಡಿ ಆಗುತ್ತದೆ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಈ ಸೂತ್ರದಲ್ಲಿ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. C ಈಕ್ವಲ್ಸ್ ಪೈ ನ ಬೆಲೆ 3.14 ಗುಣಿಸು ಡಿ ಯ ಬೆಲೆ 10.",
+  "script_display": "ಈಗ ಪರಿಹಾರವನ್ನು ನೋಡೋಣ. ಮೊದಲನೇ ಹಂತ, ನಮಗೆ ಕೊಟ್ಟಿರುವ ದತ್ತಾಂಶವನ್ನು ಬರೆಯುವುದು. ವ್ಯಾಸ $d = 10$ cm. ಎರಡನೇ ಹಂತ, ಪರಿಧಿಯನ್ನು ಕಂಡುಹಿಡಿಯುವ ಸೂತ್ರವನ್ನು ಬಳಸುವುದು. ವ್ಯಾಸವನ್ನು ಕೊಟ್ಟಾಗ, ಪರಿಧಿಯ ಸೂತ್ರ $C = \\pi d$ ಆಗುತ್ತದೆ. ಮೂರನೇ ಹಂತದಲ್ಲಿ, ನಾವು ಈ ಸೂತ್ರದಲ್ಲಿ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸೋಣ. $C = 3.14 \\times 10$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "steps_full_width",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "step_walkthrough",
+  "difficulty": "basic",
+  "source_example_id": "MEN-AREA-1_example_11",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "ದತ್ತಾಂಶ: ವ್ಯಾಸ (d) = 10 cm",
+      "justification": "ವೃತ್ತದ ವ್ಯಾಸವನ್ನು ನೀಡಲಾಗಿದೆ."
+    },
+    {
+      "step": 2,
+      "action_display": "ಪರಿಧಿಯ ಸೂತ್ರ: $C = \\pi d$",
+      "justification": "ವ್ಯಾಸ ತಿಳಿದಿರುವಾಗ ಪರಿಧಿಯ ಸೂತ್ರ."
+    },
+    {
+      "step": 3,
+      "action_display": "$C = 3.14 \\times 10$",
+      "justification": "ಸೂತ್ರದಲ್ಲಿ π ಮತ್ತು d ಯ ಬೆಲೆಗಳನ್ನು ಆದೇಶಿಸಿದೆ."
+    }
+  ],
+  "chunk_id": "MEN-AREA-1_concept_5_chunk_025"
+}

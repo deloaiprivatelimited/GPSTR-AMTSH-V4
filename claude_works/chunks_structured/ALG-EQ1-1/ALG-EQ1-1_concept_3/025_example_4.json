@@ -1,0 +1,36 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ಆವರಣಗಳಿರುವ ಸಮೀಕರಣಗಳು",
+  "script": "ಈಗ ನಾವು ಆವರಣಗಳನ್ನು ಹೊಂದಿರುವ ಸಮೀಕರಣಗಳನ್ನು ಹೇಗೆ ಬಿಡಿಸುವುದು ಎಂದು ನೋಡೋಣ. ನಮಗೆ ಎರಡು ಸಮಸ್ಯೆಗಳಿವೆ. ಮೊದಲನೆಯದು, ನಾಲ್ಕು ಗುಣಿಸು ಎಂ ಪ್ಲಸ್ ಮೂರು, ಸಮ ಹದಿನೆಂಟು. ಮತ್ತು ಎರಡನೆಯದು, ಮೈನಸ್ ಎರಡು ಗುಣಿಸು ಎಕ್ಸ್ ಪ್ಲಸ್ ಮೂರು, ಸಮ ಎಂಟು. ನಾವು ಎರಡೂ ಸಮೀಕರಣಗಳಲ್ಲಿ ಚರಾಕ್ಷರಗಳಾದ ಎಂ ಮತ್ತು ಎಕ್ಸ್ ನ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "script_display": "ಈಗ ನಾವು ಆವರಣಗಳನ್ನು ಹೊಂದಿರುವ ಸಮೀಕರಣಗಳನ್ನು ಹೇಗೆ ಬಿಡಿಸುವುದು ಎಂದು ನೋಡೋಣ. ನಮಗೆ ಎರಡು ಸಮಸ್ಯೆಗಳಿವೆ. ನಾವು ಎರಡೂ ಸಮೀಕರಣಗಳಲ್ಲಿ ಚರಾಕ್ಷರಗಳಾದ $m$ ಮತ್ತು $x$ ನ ಬೆಲೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ (a): $4(m + 3) = 18$",
+    "ಸಮಸ್ಯೆ (b): $-2(x + 3) = 8$"
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "simple",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "\\begin{cases} \\text{(a) } 4(m + 3) = 18 \\\\ \\text{(b) } -2(x + 3) = 8 \\end{cases}",
+    "placeholder_note": "Display the two equations to be solved."
+  },
+  "difficulty": "intermediate",
+  "source_example_id": "ALG-EQ1-1_example_7",
+  "chunk_id": "ALG-EQ1-1_concept_3_chunk_025"
+}

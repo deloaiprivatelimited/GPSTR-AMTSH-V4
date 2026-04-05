@@ -1,0 +1,36 @@
+{
+  "type": "concept_explanation",
+  "slide_title": "ಹೈನು ಪ್ರಾಣಿಗಳು (Dairy Animals)",
+  "script": "ಈಗ ಹೈನು ಪ್ರಾಣಿಗಳ ಬಗ್ಗೆ ನೋಡೋಣ. ಇವುಗಳ ಮುಖ್ಯ ಉದ್ದೇಶ ಹಾಲು ಉತ್ಪಾದನೆ. ಹೈನುಗಾರಿಕೆಯಲ್ಲಿ, ಹಾಲು ಕೊಡುವ ಹೆಣ್ಣು ಪ್ರಾಣಿಗಳನ್ನು ಸಾಕಲಾಗುತ್ತದೆ. ಇವುಗಳ ವಿವರಣೆ ನೋಡುವುದಾದರೆ, ಇವು ಹಾಲು ಉತ್ಪಾದಿಸುವ ಹೆಣ್ಣು ಪ್ರಾಣಿಗಳು. ಹಸುವೊಂದು ಕರುವಿಗೆ ಜನ್ಮ ನೀಡಿದ ನಂತರ ಹಾಲು ಉತ್ಪಾದಿಸುವ ಅವಧಿಯನ್ನು ಕ್ಷೀರೋತ್ಪಾದನಾ ಅವಧಿ ಎನ್ನುತ್ತಾರೆ. ಇದಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆ ಎಂದರೆ ನಮ್ಮೆಲ್ಲರಿಗೂ ತಿಳಿದಿರುವ ಹಸುಗಳು ಮತ್ತು ಎಮ್ಮೆಗಳು. ಇವುಗಳಿಂದಲೇ ನಮಗೆ ದೈನಂದಿನ ಬಳಕೆಗೆ ಹಾಲು ಸಿಗುತ್ತದೆ.",
+  "script_display": "ಈಗ ಹೈನು ಪ್ರಾಣಿಗಳ (Dairy Animals) ಬಗ್ಗೆ ನೋಡೋಣ. ಇವುಗಳ ಮುಖ್ಯ ಉದ್ದೇಶ ಹಾಲು ಉತ್ಪಾದನೆ. ಹೈನುಗಾರಿಕೆಯಲ್ಲಿ, ಹಾಲು ಕೊಡುವ ಹೆಣ್ಣು ಪ್ರಾಣಿಗಳನ್ನು ಸಾಕಲಾಗುತ್ತದೆ. ಇವುಗಳ ವಿವರಣೆ ನೋಡುವುದಾದರೆ, ಇವು ಹಾಲು ಉತ್ಪಾದಿಸುವ ಹೆಣ್ಣು ಪ್ರಾಣಿಗಳು. ಹಸುವೊಂದು ಕರುವಿಗೆ ಜನ್ಮ ನೀಡಿದ ನಂತರ ಹಾಲು ಉತ್ಪಾದಿಸುವ ಅವಧಿಯನ್ನು ಕ್ಷೀರೋತ್ಪಾದನಾ ಅವಧಿ (lactation period) ಎನ್ನುತ್ತಾರೆ. ಇದಕ್ಕೆ ಉತ್ತಮ ಉದಾಹರಣೆ ಎಂದರೆ ನಮ್ಮೆಲ್ಲರಿಗೂ ತಿಳಿದಿರುವ ಹಸುಗಳು ಮತ್ತು ಎಮ್ಮೆಗಳು. ಇವುಗಳಿಂದಲೇ ನಮಗೆ ದೈನಂದಿನ ಬಳಕೆಗೆ ಹಾಲು ಸಿಗುತ್ತದೆ.",
+  "display_bullets": [
+    "ಉದ್ದೇಶ: ಹಾಲು ಉತ್ಪಾದನೆ",
+    "ವಿವರಣೆ: ಇವು ಹಾಲು ಉತ್ಪಾದಿಸುವ ಹೆಣ್ಣು ಪ್ರಾಣಿಗಳು.",
+    "ಉದಾಹರಣೆ: ಹಸುಗಳು, ಎಮ್ಮೆಗಳು"
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A clear, simple illustration of an Indian dairy cow breed like a Sahiwal or Gir, known for milk production. The cow should look healthy. A small icon of a milk pail can be near it.",
+    "labels": "ಸಾಹಿವಾಲ್ ಹಸು (ಹೈನು ಪ್ರಾಣಿ)",
+    "scientific_significance": "Provides a visual example of a dairy animal, specifically an indigenous Indian breed known for both milk yield and resilience.",
+    "placeholder_note": "Image to be generated"
+  },
+  "chunk_id": "std_9_chapter_12_concept_8_chunk_004"
+}

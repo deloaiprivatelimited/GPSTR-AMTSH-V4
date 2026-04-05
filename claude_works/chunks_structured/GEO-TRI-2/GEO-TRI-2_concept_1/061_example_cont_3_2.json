@@ -1,0 +1,47 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರ: ಭಾಗ 2 - ಚಿಕ್ಕ ತ್ರಿಭುಜಗಳ ಸರ್ವಸಮತೆ",
+  "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ, PQ ಮತ್ತು AB ಛೇದಿಸುವ ಬಿಂದುವನ್ನು C ಎಂದು ಕರೆಯೋಣ. ನಾವು ತ್ರಿಭುಜ PAC ಮತ್ತು ತ್ರಿಭುಜ PBC ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಮಗೆ AP ಯು BP ಗೆ ಸಮ ಎಂದು ಮೊದಲೇ ತಿಳಿದಿದೆ. ಹಿಂದಿನ ಸ್ಲೈಡಿನಲ್ಲಿ ನಾವು ಸಾಧಿಸಿದಂತೆ, ಕೋನ APQ ಯು ಕೋನ BPQ ಗೆ ಸಮವಾಗಿದೆ, ಅಂದರೆ ಕೋನ APC ಯು ಕೋನ BPC ಗೆ ಸಮವಾಗಿರುತ್ತದೆ. ಮತ್ತು PC ಬಾಹು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯ ಬಾಹು. ಐದನೇ ಹಂತದಲ್ಲಿ, ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನ ಸಮವಾಗಿರುವುದರಿಂದ, ಬಾಹು-ಕೋನ-ಬಾಹು ಅಥವಾ ಎಸ್ ಎ ಎಸ್ ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, ತ್ರಿಭುಜ PAC ಯು ತ್ರಿಭುಜ PBC ಗೆ ಸರ್ವಸಮವಾಗಿದೆ.",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ, PQ ಮತ್ತು AB ಛೇದಿಸುವ ಬಿಂದುವನ್ನು C ಎಂದು ಕರೆಯೋಣ. ನಾವು $\\triangle PAC$ ಮತ್ತು $\\triangle PBC$ ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ, ನಮಗೆ $AP = BP$ ಎಂದು ಮೊದಲೇ ತಿಳಿದಿದೆ. ಹಿಂದಿನ ಸ್ಲೈಡಿನಲ್ಲಿ ನಾವು ಸಾಧಿಸಿದಂತೆ, $\\angle APQ = \\angle BPQ$, ಅಂದರೆ $\\angle APC = \\angle BPC$. ಮತ್ತು $PC$ ಬಾಹು ಎರಡೂ ತ್ರಿಭುಜಗಳಿಗೆ ಸಾಮಾನ್ಯ ಬಾಹು. ಐದನೇ ಹಂತದಲ್ಲಿ, ಎರಡು ಬಾಹುಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವಿನ ಕೋನ ಸಮವಾಗಿರುವುದರಿಂದ, ಬಾ.ಕೋ.ಬಾ (SAS) ಸರ್ವಸಮತೆಯ ನಿಯಮದ ಪ್ರಕಾರ, $\\triangle PAC \\cong \\triangle PBC$.",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಚಿತ್ರವನ್ನೇ ಬಳಸಿ, ಆದರೆ ತ್ರಿಭುಜ PAC ಮತ್ತು ತ್ರಿಭುಜ PBC ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ.",
+    "labels": "A, B, P, Q, C",
+    "mathematical_significance": "ಬಾ.ಕೋ.ಬಾ ಸರ್ವಸಮತೆಯನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಹಿಂದಿನ ಹಂತದಿಂದ ಪಡೆದ ಕೋನ ಸಮಾನತೆಯನ್ನು ಇಲ್ಲಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+    "placeholder_note": "Highlight triangles PAC and PBC in the existing diagram."
+  },
+  "source_example_id": "GEO-TRI-2_example_7",
+  "steps": [
+    {
+      "step": 4,
+      "action_display": "$\\triangle PAC$ ಮತ್ತು $\\triangle PBC$ ಗಳಲ್ಲಿ:\n$AP = BP$ (ದತ್ತ)\n$\\angle APC = \\angle BPC$ (ಹಂತ 3 ರಿಂದ ಸಾಧಿಸಿದೆ)\n$PC = PC$ (ಸಾಮಾನ್ಯ ಬಾಹು)",
+      "justification": "AB ಯ ಲಂಬಾರ್ಧಕತೆಯನ್ನು ಸಾಧಿಸಲು ಈ ತ್ರಿಭುಜಗಳನ್ನು ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ."
+    },
+    {
+      "step": 5,
+      "action_display": "$\\triangle PAC \\cong \\triangle PBC$",
+      "justification": "ಬಾ.ಕೋ.ಬಾ (SAS) ಸರ್ವಸಮತೆ ನಿಯಮದಿಂದ."
+    }
+  ],
+  "final_answer": "PQ ವು AB ಯ ಲಂಬಾರ್ಧಕ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "final_answer_display": "PQ ವು AB ಯ ಲಂಬಾರ್ಧಕ ಎಂದು ಸಾಧಿಸಲಾಗಿದೆ.",
+  "chunk_id": "GEO-TRI-2_concept_1_chunk_061"
+}

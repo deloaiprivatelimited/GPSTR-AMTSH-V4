@@ -1,0 +1,36 @@
+{
+  "type": "definition",
+  "slide_title": "ಉದಾಹರಣೆ: ಭೂಮಿಯ ಭ್ರಮಣೆ",
+  "script": "ಈಗ ಭ್ರಮಣೆಗೆ ಒಂದು ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ ನೋಡೋಣ, ಅದುವೇ ನಮ್ಮ ಭೂಮಿ. ನೀವು ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಲ್ಲಿ ನೋಡುವಂತೆ, ಭೂಮಿಯು ಒಂದು ಕಾಲ್ಪನಿಕ ರೇಖೆಯಾದ ಅಕ್ಷದ ಮೇಲೆ ತಿರುಗುತ್ತದೆ. ಈ ತಿರುಗುವಿಕೆಯು ನಿರಂತರವಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಅಂಶಗಳೆಂದರೆ, ಮೊದಲನೆಯದಾಗಿ, ಭೂಮಿಯು ತನ್ನ ಅಕ್ಷದ ಮೇಲೆ ಪಶ್ಚಿಮದಿಂದ ಪೂರ್ವಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಈ ರೀತಿ ಒಂದು ಸಂಪೂರ್ಣ ಸುತ್ತು ಬರಲು, ಅಂದರೆ ಒಂದು ಸಂಪೂರ್ಣ ಭ್ರಮಣೆಗೆ ಸುಮಾರು ಇಪ್ಪತ್ನಾಲ್ಕು ಗಂಟೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಒಂದು ದಿನ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "script_display": "ಈಗ ಭ್ರಮಣೆಗೆ ಒಂದು ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ ನೋಡೋಣ, ಅದುವೇ ನಮ್ಮ ಭೂಮಿ. ನೀವು ಬಲಭಾಗದಲ್ಲಿರುವ ಚಿತ್ರದಲ್ಲಿ ನೋಡುವಂತೆ, ಭೂಮಿಯು ಒಂದು ಕಾಲ್ಪನಿಕ ರೇಖೆಯಾದ 'ಅಕ್ಷ'ದ (axis) ಮೇಲೆ ತಿರುಗುತ್ತದೆ. ಈ ತಿರುಗುವಿಕೆಯು ನಿರಂತರವಾಗಿರುತ್ತದೆ. ಇಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಅಂಶಗಳೆಂದರೆ, ಮೊದಲನೆಯದಾಗಿ, ಭೂಮಿಯು ತನ್ನ ಅಕ್ಷದ ಮೇಲೆ ಪಶ್ಚಿಮದಿಂದ ಪೂರ್ವಕ್ಕೆ ತಿರುಗುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, ಈ ರೀತಿ ಒಂದು ಸಂಪೂರ್ಣ ಸುತ್ತು ಬರಲು, ಅಂದರೆ ಒಂದು ಸಂಪೂರ್ಣ ಭ್ರಮಣೆಗೆ ಸುಮಾರು 24 ಗಂಟೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ. ಇದನ್ನೇ ನಾವು ಒಂದು ದಿನ ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+  "display_bullets": [
+    "ಭೂಮಿಯು ತನ್ನ ಅಕ್ಷದ ಮೇಲೆ ಪಶ್ಚಿಮದಿಂದ ಪೂರ್ವಕ್ಕೆ ತಿರುಗುತ್ತದೆ.",
+    "ಒಂದು ಸಂಪೂರ್ಣ ಭ್ರಮಣೆಗೆ ಸುಮಾರು 24 ಗಂಟೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ."
+  ],
+  "layout_config": {
+    "layout": "visual_explain",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "A diagram of the planet Earth, showing its tilted axis of rotation as a dashed line passing through the North and South poles. A curved arrow around the Earth indicates the direction of rotation from West to East.",
+    "labels": "ಭೂಮಿ (Earth), ಅಕ್ಷ (Axis), ಭ್ರಮಣೆಯ ದಿಕ್ಕು (Direction of Rotation)",
+    "scientific_significance": "This visual helps to understand the abstract concept of an axis of rotation and the direction in which the Earth spins, which is fundamental to understanding day/night cycles.",
+    "placeholder_note": "Image to be generated showing Earth with its tilted axis and a rotation arrow."
+  },
+  "sub_type": "visual_explain",
+  "chunk_id": "std_6_chapter_12_concept_2_chunk_017"
+}

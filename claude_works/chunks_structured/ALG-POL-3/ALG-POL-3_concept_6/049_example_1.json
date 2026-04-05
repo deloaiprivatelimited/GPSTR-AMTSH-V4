@@ -1,0 +1,37 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಉದಾಹರಣೆ: ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ ಗುಣಾಕಾರ",
+  "script": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನೇರವಾಗಿ ಗುಣಾಕಾರ ಮಾಡದೇ 105 ಗುಣಿಸು 106 ರ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ನಾವು ನೇರವಾಗಿ 105 ಮತ್ತು 106 ನ್ನು ಗುಣಿಸುವ ಬದಲು, ಸೂಕ್ತವಾದ ಬೈಜಿಕ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ ಈ ಲೆಕ್ಕವನ್ನು ಸುಲಭವಾಗಿ ಮಾಡಬೇಕು. ನಮ್ಮ ಗುರಿ ಸೂಕ್ತ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ ಗುಣಲಬ್ಧವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "script_display": "ಈಗ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೋಡೋಣ. ನೇರವಾಗಿ ಗುಣಾಕಾರ ಮಾಡದೇ $105 \\times 106$ ರ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಇಲ್ಲಿ ನಾವು ನೇರವಾಗಿ $105$ ಮತ್ತು $106$ ನ್ನು ಗುಣಿಸುವ ಬದಲು, ಸೂಕ್ತವಾದ ಬೈಜಿಕ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ ಈ ಲೆಕ್ಕವನ್ನು ಸುಲಭವಾಗಿ ಮಾಡಬೇಕು. ನಮ್ಮ ಗುರಿ ಸೂಕ್ತ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ ಗುಣಲಬ್ಧವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "display_bullets": [
+    "ಸಮಸ್ಯೆ: ನೇರವಾಗಿ ಗುಣಾಕಾರ ಮಾಡದೇ $105 \\times 106$ ರ ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "ಗುರಿ: ಸೂಕ್ತ ನಿತ್ಯಸಮೀಕರಣವನ್ನು ಬಳಸಿ ಗುಣಲಬ್ಧವನ್ನು ಕಂಡುಹಿಡಿಯುವುದು."
+  ],
+  "layout_config": {
+    "layout": "problem_setup",
+    "template": "text_left_visual_right",
+    "text_zone": "left",
+    "visual_zone": "right",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "formula_box",
+    "status": "ready",
+    "render_target": "katex",
+    "latex": "105 \\times 106 = ?",
+    "placeholder_note": "The problem to be solved: 105 times 106 equals question mark."
+  },
+  "sub_type": "problem_setup",
+  "difficulty": "basic",
+  "source_example_id": "ALG-POL-3_example_11",
+  "chunk_id": "ALG-POL-3_concept_6_chunk_049"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "definition",
+  "slide_title": "ಸಾಧನೆ: ಹಂತ 3 - ಬೀಜಗಣಿತದ ಹಂತಗಳು",
+  "script": "ಸಮೀಕರಣ ಒಂದು ಮತ್ತು ಎರಡನ್ನು ಗಮನಿಸಿ. ಎರಡರಲ್ಲೂ ಎಡಬದಿಯು AD ಬೈ DB ಆಗಿದೆ. ಹಾಗಾಗಿ, ಅವುಗಳ ಬಲಬದಿಗಳು ಸಹ ಸಮನಾಗಿರಬೇಕು. ಆದ್ದರಿಂದ, AE ಬೈ EC ಯು AE ಪ್ರೈಮ್ ಬೈ E ಪ್ರೈಮ್ C ಗೆ ಸಮನಾಗುತ್ತದೆ. ಈಗ, ಈ ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳಿಗೆ ಒಂದನ್ನು ಕೂಡಿಸೋಣ. ಆಗ, AE ಬೈ EC ಪ್ಲಸ್ ಒಂದು ಈಕ್ವಲ್ಸ್ AE ಪ್ರೈಮ್ ಬೈ E ಪ್ರೈಮ್ C ಪ್ಲಸ್ ಒಂದು. ಲಸಾಅ ತೆಗೆದುಕೊಂಡಾಗ, ಎಡಬದಿಯಲ್ಲಿ AE ಪ್ಲಸ್ EC ಹೋಲ್ ಬೈ EC ಮತ್ತು ಬಲಬದಿಯಲ್ಲಿ AE ಪ್ರೈಮ್ ಪ್ಲಸ್ E ಪ್ರೈಮ್ C ಹೋಲ್ ಬೈ E ಪ್ರೈಮ್ C ಸಿಗುತ್ತದೆ. ಚಿತ್ರವನ್ನು ನೋಡಿ, AE ಪ್ಲಸ್ EC ಯು ಪೂರ್ಣ ಬಾಹು AC ಗೆ ಸಮ. ಹಾಗೆಯೇ, AE ಪ್ರೈಮ್ ಪ್ಲಸ್ E ಪ್ರೈಮ್ C ಕೂಡ AC ಗೆ ಸಮ. ಆದ್ದರಿಂದ, AC ಬೈ EC ಯು AC ಬೈ E ಪ್ರೈಮ್ C ಗೆ ಸಮನಾಗುತ್ತದೆ.",
+  "script_display": "ಸಮೀಕರಣ (1) ಮತ್ತು (2) ರಿಂದ, ನಾವು ಬರೆಯಬಹುದು: $\\frac{AE}{EC} = \\frac{AE'}{E'C}$. ಈಗ, ಈ ಸಮೀಕರಣದ ಎರಡೂ ಬದಿಗಳಿಗೆ 1 ನ್ನು ಕೂಡಿಸೋಣ. $\\frac{AE}{EC} + 1 = \\frac{AE'}{E'C} + 1$. ಲ.ಸಾ.ಅ. ತೆಗೆದುಕೊಂಡಾಗ, $\\frac{AE+EC}{EC} = \\frac{AE'+E'C}{E'C}$. ಚಿತ್ರದಿಂದ, $AE+EC = AC$ ಮತ್ತು $AE'+E'C = AC$. ಆದ್ದರಿಂದ, $\\frac{AC}{EC} = \\frac{AC}{E'C}$.",
+  "display_bullets": [
+    "ಸಮೀಕರಣ (1) ಮತ್ತು (2) ರಿಂದ: $\\frac{AE}{EC} = \\frac{AE'}{E'C}$",
+    "ಎರಡೂ ಬದಿಗೆ 1 ನ್ನು ಕೂಡಿದಾಗ: $\\frac{AE}{EC} + 1 = \\frac{AE'}{E'C} + 1$",
+    "ಸರಳೀಕರಿಸಿದಾಗ: $\\frac{AE+EC}{EC} = \\frac{AE'+E'C}{E'C}$",
+    "ಚಿತ್ರದ ಪ್ರಕಾರ $AE+EC = AC$ ಮತ್ತು $AE'+E'C = AC$, ಆದ್ದರಿಂದ: $\\frac{AC}{EC} = \\frac{AC}{E'C}$"
+  ],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "standard_blue",
+    "text_zone": "full",
+    "visual_zone": "none",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "none"
+  },
+  "sub_type": "proof_step",
+  "chunk_id": "GEO-TRI-2_concept_4_chunk_014"
+}

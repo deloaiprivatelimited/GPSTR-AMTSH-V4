@@ -1,0 +1,52 @@
+{
+  "type": "worked_example",
+  "slide_title": "ಪರಿಹಾರದ ಹಂತಗಳು",
+  "script": "ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ನಾವು ತ್ರಿಭುಜ POQ ಮತ್ತು ತ್ರಿಭುಜ SOR ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ನಮಗೆ PQ ಮತ್ತು RS ಸಮಾಂತರ ರೇಖೆಗಳು ಎಂದು ತಿಳಿದಿದೆ ಮತ್ತು PR ಒಂದು ಛೇದಕ ರೇಖೆ. ಆದ್ದರಿಂದ, ಕೋನ P ಮತ್ತು ಕೋನ S ಪರ್ಯಾಯ ಕೋನಗಳಾಗುತ್ತವೆ, ಹಾಗಾಗಿ ಅವು ಸಮ. ಅದೇ ರೀತಿ, QS ಇನ್ನೊಂದು ಛೇದಕ ರೇಖೆಯಾಗಿರುವುದರಿಂದ, ಕೋನ Q ಮತ್ತು ಕೋನ R ಕೂಡ ಪರ್ಯಾಯ ಕೋನಗಳಾಗುತ್ತವೆ, ಮತ್ತು ಅವು ಕೂಡ ಸಮ. ಅಂತಿಮವಾಗಿ, ಕೋನ POQ ಮತ್ತು ಕೋನ SOR ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳಾಗಿವೆ, ಆದ್ದರಿಂದ ಅವು ಸಮವಾಗಿರುತ್ತವೆ.",
+  "script_display": "ಈ ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು, ಮೊದಲು ನಾವು $\\triangle POQ$ ಮತ್ತು $\\triangle SOR$ ಗಳನ್ನು ಪರಿಗಣಿಸೋಣ. ನಮಗೆ $PQ || RS$ ಎಂದು ತಿಳಿದಿದೆ ಮತ್ತು $PR$ ಒಂದು ಛೇದಕ ರೇಖೆ. ಆದ್ದರಿಂದ, $\\angle P = \\angle S$ (ಪರ್ಯಾಯ ಕೋನಗಳು). ಅದೇ ರೀತಿ, $QS$ ಇನ್ನೊಂದು ಛೇದಕ ರೇಖೆಯಾಗಿರುವುದರಿಂದ, $\\angle Q = \\angle R$ (ಪರ್ಯಾಯ ಕೋನಗಳು). ಅಂತಿಮವಾಗಿ, $\\angle POQ = \\angle SOR$ (ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು).",
+  "display_bullets": [],
+  "layout_config": {
+    "layout": "step_walkthrough",
+    "template": "visual_left",
+    "text_zone": "right",
+    "visual_zone": "left",
+    "transition": {
+      "in": "fade",
+      "out": "fade",
+      "duration_ms": 400
+    }
+  },
+  "tts": {
+    "read_field": "script",
+    "language": "kn-IN",
+    "sync_mode": "chunk"
+  },
+  "visual": {
+    "type": "diagram",
+    "status": "needs_image",
+    "description": "ಹಿಂದಿನ ಸ್ಲೈಡ್‌ನಲ್ಲಿರುವ ಅದೇ ಚಿತ್ರ. ಕೋನ P ಮತ್ತು S ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. ಕೋನ Q ಮತ್ತು R ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ. ಕೋನ POQ ಮತ್ತು SOR ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.",
+    "labels": "P, Q, R, S, O",
+    "mathematical_significance": "ಸಮರೂಪತೆಯನ್ನು ಸಾಧಿಸಲು ಬಳಸುವ ಸಮನಾದ ಕೋನಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸುವುದು.",
+    "placeholder_note": "Use the same image as the previous slide, but with angle markings highlighted sequentially."
+  },
+  "source_example_id": "GEO-TRI-2_example_14",
+  "steps": [
+    {
+      "step": 1,
+      "action_display": "$\\triangle POQ$ ಮತ್ತು $\\triangle SOR$ ಗಳಲ್ಲಿ,",
+      "justification": "ಸಮರೂಪತೆಯನ್ನು ಸಾಧಿಸಲು ಬೇಕಾದ ತ್ರಿಭುಜಗಳು."
+    },
+    {
+      "step": 2,
+      "action_display": "$\\angle P = \\angle S$ ಮತ್ತು $\\angle Q = \\angle R$",
+      "justification": "$PQ || RS$ ಆಗಿರುವುದರಿಂದ ಇವು ಪರ್ಯಾಯ ಕೋನಗಳು."
+    },
+    {
+      "step": 3,
+      "action_display": "$\\angle POQ = \\angle SOR$",
+      "justification": "ಶೃಂಗಾಭಿಮುಖ ಕೋನಗಳು."
+    }
+  ],
+  "final_answer": "",
+  "final_answer_display": "",
+  "chunk_id": "GEO-TRI-2_concept_5_chunk_051"
+}

@@ -1,0 +1,202 @@
+{
+  "module_id": "std_10_chapter_10_concept_2",
+  "chapter_code": "std_10_chapter_10",
+  "voice": "Sadaltager",
+  "model": "gemini-2.5-pro-tts",
+  "speaking_rate": 1.0,
+  "total_chunks": 17,
+  "ok_count": 17,
+  "failed_count": 0,
+  "schema_errors": 0,
+  "schema_error_files": [],
+  "updated_at": "2026-04-02 11:15:34",
+  "chunks": {
+    "002_intro_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "73184c76fdfaf05b7d12cd7e8303f12f",
+      "wav_file": "002_intro_cont_0_1.wav",
+      "duration": 21.211,
+      "slide_title": "ಈ ಪಾಠಕ್ಕೆ ಬೇಕಾದ ಪೂರ್ವ ಜ್ಞಾನ",
+      "type": "chunk",
+      "script_words": 31,
+      "generated_at": "2026-04-02 11:12:25"
+    },
+    "005_definition_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "349c1402401873ede8cd508334f95512",
+      "wav_file": "005_definition_cont_0_2.wav",
+      "duration": 41.651,
+      "slide_title": "ಹತ್ತಿರದ ವಸ್ತುಗಳನ್ನು ನೋಡುವಾಗ",
+      "type": "definition",
+      "script_words": 53,
+      "generated_at": "2026-04-02 11:12:30"
+    },
+    "003_definition_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "73df51086d9c2f9ee985bf0334d1f6fd",
+      "wav_file": "003_definition_0.wav",
+      "duration": 41.011,
+      "slide_title": "ಕಣ್ಣಿನ ಹೊಂದಾಣಿಕೆಯ ಸಾಮರ್ಥ್ಯ",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 11:12:37"
+    },
+    "001_intro_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "7ecd5580bf4c229fc8fb40e75b949903",
+      "wav_file": "001_intro_0.wav",
+      "duration": 46.211,
+      "slide_title": "ಕಣ್ಣಿನ ಹೊಂದಾಣಿಕೆಯ ಸಾಮರ್ಥ್ಯ",
+      "type": "chunk",
+      "script_words": 66,
+      "generated_at": "2026-04-02 11:12:39"
+    },
+    "004_definition_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "efd8330a4b932ac9b610c27f7923ee0c",
+      "wav_file": "004_definition_cont_0_1.wav",
+      "duration": 50.451,
+      "slide_title": "ದೂರದ ವಸ್ತುಗಳನ್ನು ನೋಡುವಾಗ",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 11:12:47"
+    },
+    "006_definition_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "163f3fa6b88a31f43486c8bbbf892fd1",
+      "wav_file": "006_definition_cont_0_3.wav",
+      "duration": 43.931,
+      "slide_title": "ಹೋಲಿಕೆ: ದೂರ ಮತ್ತು ಹತ್ತಿರದ ದೃಷ್ಟಿ",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:13:29"
+    },
+    "010_definition_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "b60dfba21852610d6aa7c1e051ea1fc3",
+      "wav_file": "010_definition_2.wav",
+      "duration": 35.331,
+      "slide_title": "ಗರಿಷ್ಟ ದೂರ ಬಿಂದು (Far Point)",
+      "type": "definition",
+      "script_words": 54,
+      "generated_at": "2026-04-02 11:13:33"
+    },
+    "007_definition_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "df63de943ec7ee6a1bd7e82809380e53",
+      "wav_file": "007_definition_1.wav",
+      "duration": 38.611,
+      "slide_title": "ಸ್ಪಷ್ಟದೃಷ್ಟಿಯ ಕನಿಷ್ಟ ದೂರ (ಸಮೀಪ ಬಿಂದು)",
+      "type": "definition",
+      "script_words": 63,
+      "generated_at": "2026-04-02 11:13:34"
+    },
+    "008_definition_cont_1_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "f49175478bd8f056b43103b9670dd149",
+      "wav_file": "008_definition_cont_1_1.wav",
+      "duration": 38.851,
+      "slide_title": "ಸಮೀಪ ಬಿಂದುವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 11:13:37"
+    },
+    "009_definition_cont_1_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "03dbadee8536432baaaf8194ca0ee6a0",
+      "wav_file": "009_definition_cont_1_2.wav",
+      "duration": 44.371,
+      "slide_title": "ಹೋಲಿಕೆ: ಸಮೀಪ ಬಿಂದುವಿನಲ್ಲಿ ಮತ್ತು ಅದಕ್ಕಿಂತ ಹತ್ತಿರ",
+      "type": "definition",
+      "script_words": 60,
+      "generated_at": "2026-04-02 11:13:40"
+    },
+    "013_classification_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "3ea3227f2a9947b6942128c83e096cb8",
+      "wav_file": "013_classification_0.wav",
+      "duration": 38.811,
+      "slide_title": "ಕಣ್ಣಿನ ಹೊಂದಾಣಿಕೆಯ ಸಾಮರ್ಥ್ಯ",
+      "type": "concept_explanation",
+      "script_words": 56,
+      "generated_at": "2026-04-02 11:14:36"
+    },
+    "014_classification_cont_0_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "d05c8104f525df62a27672d89abd9d2b",
+      "wav_file": "014_classification_cont_0_1.wav",
+      "duration": 38.891,
+      "slide_title": "ದೂರದ ವಸ್ತುಗಳನ್ನು ನೋಡುವಾಗ",
+      "type": "concept_explanation",
+      "script_words": 47,
+      "generated_at": "2026-04-02 11:14:42"
+    },
+    "011_definition_cont_2_1.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "1270c8056236f597ddf7b7b41c3e8d98",
+      "wav_file": "011_definition_cont_2_1.wav",
+      "duration": 49.811,
+      "slide_title": "ಸಾಮಾನ್ಯ ಕಣ್ಣಿನ ಗರಿಷ್ಟ ದೂರ ಬಿಂದು",
+      "type": "definition",
+      "script_words": 62,
+      "generated_at": "2026-04-02 11:14:42"
+    },
+    "015_classification_cont_0_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "ea292737d4ae6baba953ded79407228c",
+      "wav_file": "015_classification_cont_0_2.wav",
+      "duration": 42.811,
+      "slide_title": "ಹತ್ತಿರದ ವಸ್ತುಗಳನ್ನು ನೋಡುವಾಗ",
+      "type": "concept_explanation",
+      "script_words": 52,
+      "generated_at": "2026-04-02 11:14:43"
+    },
+    "012_definition_cont_2_2.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "fe746927f5287d658f4b81d8e6df64be",
+      "wav_file": "012_definition_cont_2_2.wav",
+      "duration": 44.291,
+      "slide_title": "ಪ್ರಮುಖ ಅಂಶ",
+      "type": "definition",
+      "script_words": 61,
+      "generated_at": "2026-04-02 11:14:49"
+    },
+    "016_classification_cont_0_3.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "b14186a25a3a21d1170bea60a1526549",
+      "wav_file": "016_classification_cont_0_3.wav",
+      "duration": 34.131,
+      "slide_title": "ದೃಷ್ಟಿಯ ಮಿತಿಗಳು: ಸಮೀಪ ಮತ್ತು ದೂರ ಬಿಂದು",
+      "type": "concept_explanation",
+      "script_words": 50,
+      "generated_at": "2026-04-02 11:15:24"
+    },
+    "017_recap_0.json": {
+      "status": "ok",
+      "voice": "Sadaltager",
+      "script_hash": "7ffca0f9d7f1db7660847c33ae5e5a1f",
+      "wav_file": "017_recap_0.wav",
+      "duration": 38.251,
+      "slide_title": "ಸಾರಾಂಶ",
+      "type": "recap",
+      "script_words": 55,
+      "generated_at": "2026-04-02 11:15:34"
+    }
+  }
+}
