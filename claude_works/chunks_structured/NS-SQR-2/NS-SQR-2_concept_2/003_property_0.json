@@ -25,7 +25,7 @@
     "status": "ready",
     "render_target": "html_table",
     "latex": "",
-    "placeholder_note": "A table showing the squares of numbers from 1 to 20, in two columns to save space. Headers: ಸಂಖ್ಯೆ, ವರ್ಗ, ಸಂಖ್ಯೆ, ವರ್ಗ. Rows show 1-10 and 11-20 side-by-side. The 'ವರ್ಗ' column should be highlighted to draw attention to the last digits. For example, in 16, the 6 is highlighted. In 81, the 1 is highlighted. This applies to all square numbers in the table. The purpose is to visually guide the user to observe the pattern of unit digits in square numbers. The table data is provided in the module context. The unit digits of the 'ವರ್ಗ' and 'ವರ್ಗ_2' columns should be highlighted or bolded for emphasis. For example, for 1, it's 1. For 4, it's 4. For 9, it's 9. For 16, it's 6. For 25, it's 5. For 121, it's 1. For 144, it's 4, and so on. This visual cue is crucial for the script's instruction to 'observe the last digit'. The table should be titled '1 ರಿಂದ 20 ರವರೆಗಿನ ಸಂಖ್ಯೆಗಳ ವರ್ಗಗಳು'. The headers are: 'ಸಂಖ್ಯೆ', 'ವರ್ಗ', 'ಸಂಖ್ಯೆ', 'ವರ್ಗ'. The rows are: (1, 1, 11, 121), (2, 4, 12, 144), (3, 9, 13, 169), (4, 16, 14, 196), (5, 25, 15, 225), (6, 36, 16, 256), (7, 49, 17, 289), (8, 64, 18, 324), (9, 81, 19, 361), (10, 100, 20, 400). The unit digits of the second and fourth columns must be visually distinct (e.g., bold or a different color). For 16, the '6' is distinct. For 121, the '1' is distinct. For 289, the '9' is distinct."
+    "placeholder_note": "A table showing the squares of numbers from 1 to 20, in two columns to save space."
   },
   "chunk_id": "NS-SQR-2_concept_2_chunk_003"
 }

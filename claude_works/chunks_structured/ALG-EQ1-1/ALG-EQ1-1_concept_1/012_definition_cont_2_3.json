@@ -25,7 +25,25 @@
     "status": "ready",
     "render_target": "html_table",
     "latex": "[{\"header\": \"ಬೀಜೋಕ್ತಿ (Expression)\", \"content\": [\"$4x + 5$\", \"ಇದರಲ್ಲಿ ಸಮ ಚಿಹ್ನೆ (=) ಇರುವುದಿಲ್ಲ.\", \"ಇದು ಕೇವಲ ಒಂದು ಹೇಳಿಕೆ.\"]}, {\"header\": \"ಸಮೀಕರಣ (Equation)\", \"content\": [\"$4x + 5 = 65$\", \"ಇದರಲ್ಲಿ ಸಮ ಚಿಹ್ನೆ (=) ಇರುತ್ತದೆ.\", \"ಇದು ಒಂದು ನಿಬಂಧನೆ (condition).\"]}]",
-    "placeholder_note": "This is a direct render, not an image. It's a two-column comparison table."
+    "placeholder_note": "This is a direct render, not an image. It's a two-column comparison table.",
+    "headers": [
+      "ಬೀಜೋಕ್ತಿ (Expression)",
+      "ಸಮೀಕರಣ (Equation)"
+    ],
+    "rows": [
+      [
+        "$4x + 5$",
+        "$4x + 5 = 65$"
+      ],
+      [
+        "ಇದರಲ್ಲಿ ಸಮ ಚಿಹ್ನೆ (=) ಇರುವುದಿಲ್ಲ.",
+        "ಇದರಲ್ಲಿ ಸಮ ಚಿಹ್ನೆ (=) ಇರುತ್ತದೆ."
+      ],
+      [
+        "ಇದು ಕೇವಲ ಒಂದು ಹೇಳಿಕೆ.",
+        "ಇದು ಒಂದು ನಿಬಂಧನೆ (condition)."
+      ]
+    ]
   },
   "chunk_id": "ALG-EQ1-1_concept_1_chunk_012"
 }

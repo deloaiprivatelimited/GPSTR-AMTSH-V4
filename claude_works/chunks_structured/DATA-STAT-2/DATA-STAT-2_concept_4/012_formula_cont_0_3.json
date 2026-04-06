@@ -2,10 +2,10 @@
   "type": "formula_derivation",
   "slide_title": "ಸೂತ್ರದ ಸಂಕೇತಗಳು: ಭಾಗ 2",
   "script": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಾವು 'f' ಮತ್ತು 'cf' ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇವುಗಳು ಬಹಳ ಮುಖ್ಯವಾದವು. ಮೊದಲನೆಯದಾಗಿ, 'f' ಎಂದರೆ ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರದ ಆವೃತ್ತಿ. ಒಮ್ಮೆ ನೀವು ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗವನ್ನು ಗುರುತಿಸಿದ ನಂತರ, ಆ ವರ್ಗಕ್ಕೆ ಸೇರಿದ ಆವೃತ್ತಿಯೇ 'f' ಆಗಿರುತ್ತದೆ. ಎರಡನೆಯದಾಗಿ, 'cf' ಎಂದರೆ ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರದ ಹಿಂದಿನ ವರ್ಗದ ಸಂಚಿತ ಆವೃತ್ತಿ. ಇಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಗಳು ಹೆಚ್ಚಾಗಿ ತಪ್ಪು ಮಾಡುತ್ತಾರೆ. 'cf' ಎನ್ನುವುದು ಮಧ್ಯಾಂಕ ವರ್ಗದ ಸಂಚಿತ ಆವೃತ್ತಿ ಅಲ್ಲ, ಬದಲಾಗಿ ಅದರ ಹಿಂದಿನ ವರ್ಗದ ಸಂಚಿತ ಆವೃತ್ತಿ. ಇದನ್ನು ಸರಿಯಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯ.",
-  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಾವು $f$ ಮತ್ತು $cf$ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇವುಗಳು ಬಹಳ ಮುಖ್ಯವಾದವು.\n\n*   $f$ = ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರದ ಆವೃತ್ತಿ (Frequency of the median class)\n*   $cf$ = ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರದ **ಹಿಂದಿನ** ವರ್ಗದ ಸಂಚಿತ ಆವೃತ್ತಿ (Cumulative frequency of the class **preceding** the median class)",
+  "script_display": "ಮುಂದುವರಿಸೋಣ. ಈಗ ನಾವು $f$ ಮತ್ತು $cf$ ಬಗ್ಗೆ ತಿಳಿಯೋಣ. ಇವುಗಳು ಬಹಳ ಮುಖ್ಯವಾದವು.\n\n*   $f$ = ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರದ ಆವೃತ್ತಿ (Frequency of the median class)\n*   $cf$ = ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರದ <strong>ಹಿಂದಿನ</strong> ವರ್ಗದ ಸಂಚಿತ ಆವೃತ್ತಿ (Cumulative frequency of the class <strong>preceding</strong> the median class)",
   "display_bullets": [
     "$f$ = ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರದ ಆವೃತ್ತಿ (Frequency of the median class)",
-    "$cf$ = ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರದ **ಹಿಂದಿನ** ವರ್ಗದ ಸಂಚಿತ ಆವೃತ್ತಿ (Cumulative frequency of the class **preceding** the median class)"
+    "$cf$ = ಮಧ್ಯಾಂಕವಿರುವ ವರ್ಗಾಂತರದ <strong>ಹಿಂದಿನ</strong> ವರ್ಗದ ಸಂಚಿತ ಆವೃತ್ತಿ (Cumulative frequency of the class <strong>preceding</strong> the median class)"
   ],
   "layout_config": {
     "layout": "bullet_list",

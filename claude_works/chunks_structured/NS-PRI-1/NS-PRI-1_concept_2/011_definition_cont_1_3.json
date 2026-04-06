@@ -25,7 +25,7 @@
     "status": "ready",
     "render_target": "html_table",
     "latex": "",
-    "placeholder_note": "A two-column table comparing a composite number (6) and a prime number (7). Left column for Composite, right for Prime. Each column shows the number, its factors, the count of factors, and the conclusion. This will be rendered as an HTML table in the final output, not as a single visual block, so the layout is split_comparison which implies two distinct zones for text/visuals which we will use for the table columns here. The script will narrate this comparison. The display_bullets are empty because the visual itself contains the text to be read on screen, which is a common pattern for split_comparison layouts with tables or diagrams. The script will refer to left and right sides of the screen. The HTML table will have headers 'ಸಂಯುಕ್ತ ಸಂಖ್ಯೆ (Composite)' and 'ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ (Prime)'. Row 1: 'ಸಂಖ್ಯೆ: 6' vs 'ಸಂಖ್ಯೆ: 7'. Row 2: 'ಅಪವರ್ತನಗಳು: 1, 2, 3, 6' vs 'ಅಪವರ್ತನಗಳು: 1, 7'. Row 3: 'ಅಪವರ್ತನಗಳ ಸಂಖ್ಯೆ: 4' vs 'ಅಪವರ್ತನಗಳ ಸಂಖ್ಯೆ: 2'. Row 4: 'ತೀರ್ಮಾನ: ಸಂಯುಕ್ತ' vs 'ತೀರ್ಮಾನ: ಅವಿಭಾಜ್ಯ'. This structure is more effective than bullet points for direct comparison."
+    "placeholder_note": "A two-column table comparing a composite number (6) and a prime number (7)."
   },
   "chunk_id": "NS-PRI-1_concept_2_chunk_011"
 }

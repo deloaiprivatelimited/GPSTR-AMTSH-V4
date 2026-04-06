@@ -24,7 +24,7 @@
     "type": "table",
     "status": "ready",
     "render_target": "html_table",
-    "placeholder_note": "A two-column table comparing supplementary and non-supplementary angles. Left column shows 135 + 45 = 180. Right column shows 100 + 70 = 170, which is not 180. The columns are titled 'ಪರಿಪೂರಕ (Supplementary)' and 'ಪರಿಪೂರಕವಲ್ಲ (Not Supplementary)'. The left column should have a green checkmark and the right one a red cross mark for visual cueing. The table should be rendered directly on the slide as the main visual element, so no separate visual zone is needed, hence text_zone is full and visual_zone is none. The layout 'split_comparison' is designed to handle this structure natively. The table content will be rendered based on the provided rows and headers, which are implicitly defined by the split comparison layout's structure. The script will narrate over this visual comparison. The table will have two columns. Column 1 Header: 'ಪರಿಪೂರಕ (Supplementary) ✅'. Column 1 Content: 'ಕೋನಗಳು: $135^\\circ, 45^\\circ$', 'ಮೊತ್ತ: $135^\\circ + 45^\\circ = 180^\\circ$'. Column 2 Header: 'ಪರಿಪೂರಕವಲ್ಲ (Not Supplementary) ❌'. Column 2 Content: 'ಕೋನಗಳು: $100^\\circ, 70^\\circ$', 'ಮೊತ್ತ: $100^\\circ + 70^\\circ = 170^\\circ \\neq 180^\\circ$'."
+    "placeholder_note": "A two-column table comparing supplementary and non-supplementary angles."
   },
   "sub_type": "split_comparison",
   "chunk_id": "GEO-LA-1_concept_3_chunk_010"

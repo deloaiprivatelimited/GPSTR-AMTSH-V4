@@ -24,7 +24,7 @@
     "type": "table",
     "status": "ready",
     "render_target": "html_table",
-    "placeholder_note": "A two-column table comparing linear polynomials with non-linear ones. Left column header: 'ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿಗಳು (ಡಿಗ್ರಿ 1)'. Right column header: 'ರೇಖಾತ್ಮಕವಲ್ಲದ ಬಹುಪದೋಕ್ತಿಗಳು'. Rows contain examples like '2x+5' vs 'x^2+1', 'y-7' vs '8', and 'sqrt(3)z' vs 'y^3-y'. The degree is mentioned in brackets for non-linear examples. The table should be rendered directly in the visual zone of the slide layout, which is why text_zone is full and visual_zone is none, as the table itself is the primary content managed by the layout template. The script will narrate over this table, pointing out the examples on the left and right sides to explain the difference between linear and non-linear polynomials based on their degree. The table's caption is 'ಉದಾಹರಣೆಗಳು ಮತ್ತು ಪ್ರತಿಯುಧಾಹರಣೆಗಳು'. The headers are ['ರೇಖಾತ್ಮಕ ಬಹುಪದೋಕ್ತಿಗಳು (ಡಿಗ್ರಿ 1)', 'ರೇಖಾತ್ಮಕವಲ್ಲದ ಬಹುಪದೋಕ್ತಿಗಳು'] and the rows are [['$2x+5$', '$x^2+1$ (ಡಿಗ್ರಿ 2)'], ['$y-7$', '$8$ (ಡಿಗ್ರಿ 0)'], ['$\\sqrt{3}z$', '$y^3-y$ (ಡಿಗ್ರಿ 3)']]."
+    "placeholder_note": "A two-column table comparing linear polynomials with non-linear ones."
   },
   "chunk_id": "ALG-POL-3_concept_1_chunk_035"
 }

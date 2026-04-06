@@ -25,7 +25,7 @@
     "status": "ready",
     "render_target": "html_table",
     "latex": "",
-    "placeholder_note": "A table showing calculation of cumulative frequency step-by-step. Arrows should show the addition process: cf of previous row adds to frequency of current row to get cf of current row. e.g. 5 -> + 8 -> 13. 13 -> + 12 -> 25 etc. The final cf should be equal to N (total frequency). Highlight the final cf and N to show they are equal. The table should have 3 columns: ವರ್ಗಾಂತರ (Class Interval), ಆವೃತ್ತಿ (f), ಸಂಚಿತ ಆವೃತ್ತಿ (cf). The rows should be 0-10, 10-20, 20-30, 30-40, 40-50 with frequencies 5, 8, 12, 6, 4 respectively. The cf column should be calculated as 5, 13, 25, 31, 35. The total frequency N should be shown as 35 at the bottom of the frequency column. The final cf is also 35, this should be highlighted to show N = final cf."
+    "placeholder_note": "A table showing calculation of cumulative frequency step-by-step."
   },
   "chunk_id": "DATA-STAT-2_concept_4_chunk_004"
 }

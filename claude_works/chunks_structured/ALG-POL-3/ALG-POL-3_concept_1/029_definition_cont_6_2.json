@@ -24,7 +24,7 @@
     "type": "table",
     "status": "ready",
     "render_target": "html_table",
-    "placeholder_note": "A two-column comparison table. Left column titled 'ದ್ವಿಪದೋಕ್ತಿಗಳು (Binomials)' with examples x^2+4 and 7y-2y^2. Right column titled 'ದ್ವಿಪದೋಕ್ತಿಗಳಲ್ಲ (Not Binomials)' with examples 15x (Monomial) and x^3+2x-1 (Trinomial). The Kannada terms for Monomial and Trinomial should be included as shown in script_display. The table should be rendered to fill the screen area as per the split_comparison layout, with clear headings for each column. The script will narrate this comparison, so the visual should directly reflect the examples mentioned in the script. The left side represents 'correct' examples and the right side represents 'incorrect' examples (counter-examples). The visual should be designed to make this distinction immediately obvious, perhaps using a green checkmark icon on the left and a red 'x' icon on the right for each column header, if the template supports it. Otherwise, clear titles are sufficient."
+    "placeholder_note": "A two-column comparison table."
   },
   "chunk_id": "ALG-POL-3_concept_1_chunk_029"
 }

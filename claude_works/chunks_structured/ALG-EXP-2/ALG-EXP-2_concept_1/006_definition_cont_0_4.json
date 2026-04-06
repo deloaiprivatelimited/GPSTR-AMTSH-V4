@@ -24,7 +24,7 @@
     "type": "table",
     "status": "ready",
     "render_target": "html_table",
-    "placeholder_note": "A two-column table comparing expressions and non-expressions. Left column header: 'ಬೀಜೋಕ್ತಿಗಳು (ಹೌದು)'. Right column header: 'ಬೀಜೋಕ್ತಿಗಳಲ್ಲ (ಇಲ್ಲ)'. The content should be styled with checkmarks for 'Yes' and cross marks for 'No'. The script explains the content of this table visually represented on screen. The display_bullets is empty because the visual itself contains the text, which the script explains directly. This is a common pattern for split_comparison layouts where the visual is the primary information carrier. The script will walk the user through the visual elements. The table content is derived from the script_display field's examples. Left column items: '$2x+3$', '$a^2 - b^2$'. Right column items: '$2x+3=7$ (ಸಮೀಕರಣ)', '$15 > 5$ (ಅಸಮಾನತೆ)'."
+    "placeholder_note": "A two-column table comparing expressions and non-expressions."
   },
   "chunk_id": "ALG-EXP-2_concept_1_chunk_006"
 }

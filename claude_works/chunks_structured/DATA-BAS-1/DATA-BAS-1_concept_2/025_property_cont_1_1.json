@@ -4,7 +4,7 @@
   "script": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಈ ನಿಯಮದ ಮಹತ್ವವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಮ್ಮಲ್ಲಿರುವ ದತ್ತಾಂಶ 5, 2, 8, 1, 9 ಎಂದು ಭಾವಿಸೋಣ. ಈಗ ಪರದೆಯ ಮೇಲಿರುವ ಕೋಷ್ಟಕವನ್ನು ನೋಡಿ. ತಪ್ಪು ವಿಧಾನದಲ್ಲಿ, ನಾವು ದತ್ತಾಂಶಗಳನ್ನು ಜೋಡಿಸದೆ ಮಧ್ಯದ ಸಂಖ್ಯೆಯನ್ನು, ಅಂದರೆ 8 ಅನ್ನು, ಮಧ್ಯಾಂಕವೆಂದು ತೆಗೆದುಕೊಂಡರೆ, ಅದು ತಪ್ಪಾಗುತ್ತದೆ. ಆದರೆ ಸರಿಯಾದ ವಿಧಾನದಲ್ಲಿ, ನಾವು ಮೊದಲು ದತ್ತಾಂಶಗಳನ್ನು ಏರಿಕೆ ಕ್ರಮದಲ್ಲಿ ಜೋಡಿಸುತ್ತೇವೆ: 1, 2, 5, 8, 9. ಈಗ ಮಧ್ಯದಲ್ಲಿರುವ ಸಂಖ್ಯೆ 5. ಇದುವೇ ಸರಿಯಾದ ಮಧ್ಯಾಂಕ. ಮಧ್ಯಾಂಕವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಮೊದಲು ದತ್ತಾಂಶಗಳನ್ನು ಕ್ರಮವಾಗಿ ಜೋಡಿಸುವುದು ಅತ್ಯಗತ್ಯ ಎಂಬುದನ್ನು ಮರೆಯದಿರಿ.",
   "script_display": "ಒಂದು ಉದಾಹರಣೆಯ ಮೂಲಕ ಈ ನಿಯಮದ ಮಹತ್ವವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳೋಣ. ನಮ್ಮಲ್ಲಿರುವ ದತ್ತಾಂಶ $5, 2, 8, 1, 9$ ಎಂದು ಭಾವಿಸೋಣ. ಈಗ ಪರದೆಯ ಮೇಲಿರುವ ಕೋಷ್ಟಕವನ್ನು ನೋಡಿ. ತಪ್ಪು ವಿಧಾನದಲ್ಲಿ, ನಾವು ದತ್ತಾಂಶಗಳನ್ನು ಜೋಡಿಸದೆ ಮಧ್ಯದ ಸಂಖ್ಯೆಯನ್ನು, ಅಂದರೆ $8$ ಅನ್ನು, ಮಧ್ಯಾಂಕವೆಂದು ತೆಗೆದುಕೊಂಡರೆ, ಅದು ತಪ್ಪಾಗುತ್ತದೆ. ಆದರೆ ಸರಿಯಾದ ವಿಧಾನದಲ್ಲಿ, ನಾವು ಮೊದಲು ದತ್ತಾಂಶಗಳನ್ನು ಏರಿಕೆ ಕ್ರಮದಲ್ಲಿ ಜೋಡಿಸುತ್ತೇವೆ: $1, 2, 5, 8, 9$. ಈಗ ಮಧ್ಯದಲ್ಲಿರುವ ಸಂಖ್ಯೆ $5$. ಇದುವೇ ಸರಿಯಾದ ಮಧ್ಯಾಂಕ. ಮಧ್ಯಾಂಕವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಮೊದಲು ದತ್ತಾಂಶಗಳನ್ನು ಕ್ರಮವಾಗಿ ಜೋಡಿಸುವುದು ಅತ್ಯಗತ್ಯ ಎಂಬುದನ್ನು ಮರೆಯದಿರಿ.",
   "display_bullets": [
-    "**ದತ್ತಾಂಶ:** $5, 2, 8, 1, 9$",
+    "<strong>ದತ್ತಾಂಶ:</strong> $5, 2, 8, 1, 9$",
     "ಮಧ್ಯಾಂಕವನ್ನು ಕಂಡುಹಿಡಿಯುವ ಮೊದಲು ದತ್ತಾಂಶಗಳನ್ನು ಕ್ರಮವಾಗಿ ಜೋಡಿಸುವುದು ಅತ್ಯಗತ್ಯ."
   ],
   "layout_config": {
@@ -28,7 +28,7 @@
     "status": "ready",
     "render_target": "html_table",
     "latex": "",
-    "placeholder_note": "A table comparing the incorrect method (not sorting) vs the correct method (sorting first) to find the median for the dataset 5, 2, 8, 1, 9. The incorrect result is 8, the correct is 5. Highlight the middle number in each sequence. Use Kannada headers for Method, Procedure, Result. Use red for incorrect result and green for correct result for emphasis. Use LaTeX for numbers and underlines for the middle value. Incorrect: $5, 2, \\underline{8}, 1, 9$. Correct: $1, 2, \\underline{5}, 8, 9$. Caption: ಕ್ರಮಬದ್ಧ ಜೋಡಣೆಯ ಹೋಲಿಕೆ (Comparison of Ordering). Headers: ವಿಧಾನ (Method), ಕಾರ್ಯವಿಧಾನ (Procedure), ಫಲಿತಾಂಶ (Result). Rows: [ತಪ್ಪು ವಿಧಾನ, ...], [ಸರಿಯಾದ ವಿಧಾನ, ...]. Use <strong> for the result values 8 and 5 to make them bold. Add (ತಪ್ಪು) and (ಸರಿ) next to the results. Example row: ['ತಪ್ಪು ವಿಧಾನ (Incorrect)', 'ದತ್ತಾಂಶಗಳನ್ನು ಜೋಡಿಸದೆ: $5, 2, \\underline{8}, 1, 9$', 'ಮಧ್ಯಾಂಕ = <strong>8</strong> (ತಪ್ಪು)']. Example row 2: ['ಸರಿಯಾದ ವಿಧಾನ (Correct)', 'ದತ್ತಾಂಶಗಳನ್ನು ಜೋಡಿಸಿದ ನಂತರ: $1, 2, \\underline{5}, 8, 9$', 'ಮಧ್ಯಾಂಕ = <strong>5</strong> (ಸರಿ)']"
+    "placeholder_note": "A table comparing the incorrect method (not sorting) vs the correct method (sorting first) to find the median for the dataset 5, 2, 8, 1, 9."
   },
   "exam_tip": {
     "question_pattern": "MCQ|2-mark",

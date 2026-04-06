@@ -39,8 +39,11 @@ import time
 import traceback
 from pathlib import Path
 from datetime import datetime, timezone
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from playwright.async_api import async_playwright
+
+FFMPEG_WORKERS = max(2, multiprocessing.cpu_count() - 1)  # parallel FFmpeg segments
 
 # ==============================
 # LOAD .env
@@ -866,7 +869,7 @@ def render_chunk_html(chunk, meta):
 
 async def render_slide(page, html, out_path):
     await page.set_content(html, wait_until="networkidle")
-    await page.wait_for_timeout(500)
+    await page.wait_for_timeout(300)
     await page.screenshot(path=str(out_path))
 
 
@@ -945,12 +948,14 @@ def ffmpeg_segment(slide, audio, out, duration):
         "-loop", "1", "-i", slide,
         "-i", audio,
         "-c:v", "libx264", "-tune", "stillimage",
-        "-c:a", "aac", "-b:a", "192k",
+        "-preset", "ultrafast",
+        "-crf", "28",
+        "-c:a", "aac", "-b:a", "128k",
         "-shortest",
         "-t", str(duration + 0.1),
         "-pix_fmt", "yuv420p",
         "-vf", f"scale={WIDTH}:{HEIGHT}",
-        "-r", str(FPS),
+        "-r", "1",
         out
     ], Path(out).name)
 
@@ -990,7 +995,9 @@ def ffmpeg_with_intro_end(content_video, out):
 # ==============================
 
 def assemble_chapter_video(entries, slides_dir, output_path):
-    segments = []
+    # Build list of segments to encode
+    jobs = []
+    segment_order = []
     for entry in entries:
         slide_path = entry.get("slide_path")
         audio_path = entry["audio_path"]
@@ -1003,35 +1010,51 @@ def assemble_chapter_video(entries, slides_dir, output_path):
             continue
         safe_name = entry["chunk_file"].replace(".json", "").replace(" ", "_")
         seg_out = slides_dir / f"seg_{entry['module_id']}_{safe_name}.mp4"
+        segment_order.append(seg_out)
         if not seg_out.exists():
-            print(f"  Segment [{len(segments)+1}/{len(entries)}]: {entry['module_id']}_{safe_name} ({duration:.1f}s)")
-            ok = ffmpeg_segment(str(slide_path), str(audio_path), str(seg_out), duration)
-            if not ok:
-                continue
-        else:
-            print(f"  Cached  [{len(segments)+1}/{len(entries)}]: {safe_name}")
-        segments.append(seg_out)
+            jobs.append((str(slide_path), str(audio_path), str(seg_out), duration))
 
-    print(f"\n  {len(segments)}/{len(entries)} segments ready")
+    cached = len(segment_order) - len(jobs)
+    if cached:
+        log_progress(f"  {cached} segments cached, {len(jobs)} to encode")
+
+    # Parallel FFmpeg encoding
+    if jobs:
+        log_progress(f"  Encoding {len(jobs)} segments ({FFMPEG_WORKERS} workers)...")
+        failed = 0
+        with ThreadPoolExecutor(max_workers=FFMPEG_WORKERS) as pool:
+            futures = {pool.submit(ffmpeg_segment, s, a, o, d): o for s, a, o, d in jobs}
+            done = 0
+            for future in as_completed(futures):
+                done += 1
+                if not future.result():
+                    failed += 1
+                if done % 20 == 0 or done == len(jobs):
+                    log_progress(f"  Encoded {done}/{len(jobs)} segments")
+        if failed:
+            log_progress(f"  WARNING: {failed} segments failed encoding")
+
+    segments = [s for s in segment_order if s.exists()]
+    log_progress(f"  {len(segments)}/{len(entries)} segments ready")
     if not segments:
-        print("  Zero segments -- nothing to assemble.")
+        log_progress("  Zero segments -- nothing to assemble.")
         return False
 
     content_video = slides_dir / "chapter_content.mp4"
-    print(f"\n  Concatenating {len(segments)} segments...")
+    log_progress(f"  Concatenating {len(segments)} segments...")
     ok = ffmpeg_concat(segments, content_video)
     if not ok or not content_video.exists():
-        print("  Concat failed")
+        log_progress("  Concat failed")
         return False
 
-    print(f"  Adding intro/end...")
+    log_progress(f"  Adding intro/end...")
     ffmpeg_with_intro_end(content_video, output_path)
     if output_path.exists():
         size_mb = output_path.stat().st_size // 1_000_000
-        print(f"  DONE: {output_path}  ({size_mb} MB)")
+        log_progress(f"  DONE: {output_path}  ({size_mb} MB)")
         return True
     else:
-        print(f"  Final MP4 not created: {output_path}")
+        log_progress(f"  Final MP4 not created: {output_path}")
         return False
 
 
