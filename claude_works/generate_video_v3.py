@@ -3,9 +3,21 @@ generate_video_v3.py
 ---------------------
 Full pipeline: Chunks → Slides → Video → AWS S3 Upload → MongoDB Save → Local Cleanup
 
-Reads per-chunk JSON files from chunks_structured/{merge_code}/{module_id}/
-Renders HTML slides via Playwright, assembles video with FFmpeg,
-uploads to S3, saves doc to MongoDB, then deletes local video + slides.
+Flow per chapter (strictly sequential):
+  1. Check MongoDB — skip if already published
+  2. Render HTML slides → PNG via Playwright
+  3. FFmpeg: PNG + WAV → MP4 segments → concat → add intro/end
+  4. Upload to S3 (retry 3x)
+  5. Save metadata to MongoDB (retry 3x)
+  6. Delete local MP4 + slides folder
+  7. Only then move to next chapter
+
+Error handling:
+  - Retries 3 times on S3/MongoDB failures
+  - After 3 failures, logs error and STOPS (does not continue to next chapter)
+  - Error log: claude_works/video_pipeline_errors.log
+  - Progress log: claude_works/video_pipeline_progress.log
+  - On rerun, skips chapters already published in MongoDB
 
 ENV vars needed (.env file):
   AWS_ACCESS_KEY_ID
@@ -21,7 +33,10 @@ import subprocess
 import multiprocessing
 import wave
 import os
+import sys
 import shutil
+import time
+import traceback
 from pathlib import Path
 from datetime import datetime, timezone
 
@@ -53,6 +68,12 @@ AUDIO_DIR   = Path("claude_works/audio_v2")
 OUTPUT_DIR  = Path("claude_works/videos_v2")
 DATA_JSON   = Path("data.json")
 
+ERROR_LOG   = Path("claude_works/video_pipeline_errors.log")
+PROGRESS_LOG = Path("claude_works/video_pipeline_progress.log")
+
+MAX_RETRIES = 3
+RETRY_DELAY = 10  # seconds between retries
+
 INTRO_VIDEO = Path("intro_v0.mp4")
 END_VIDEO   = Path("end_v0.mp4")
 
@@ -72,6 +93,41 @@ MONGO_DB_NAME   = "gpstr-maths-db"
 MONGO_COLLECTION = "videos"
 
 print("CPU cores:", multiprocessing.cpu_count())
+
+
+# ==============================
+# LOGGING
+# ==============================
+
+def log_progress(msg):
+    ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    line = f"[{ts}] {msg}"
+    print(line)
+    with open(PROGRESS_LOG, "a", encoding="utf-8") as f:
+        f.write(line + "\n")
+
+
+def log_error(merge_code, stage, error_msg):
+    ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    line = f"[{ts}] FAIL | {merge_code} | {stage} | {error_msg}"
+    print(f"  ERROR: {line}")
+    with open(ERROR_LOG, "a", encoding="utf-8") as f:
+        f.write(line + "\n")
+
+
+def retry_operation(func, merge_code, stage, *args, **kwargs):
+    """Retry func up to MAX_RETRIES times. Returns result or raises after 3 failures."""
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            result = func(*args, **kwargs)
+            return result
+        except Exception as e:
+            log_error(merge_code, f"{stage} (attempt {attempt}/{MAX_RETRIES})", str(e))
+            if attempt < MAX_RETRIES:
+                print(f"  Retrying in {RETRY_DELAY}s...")
+                time.sleep(RETRY_DELAY)
+            else:
+                raise
 
 # ==============================
 # LOAD DATA.JSON (chapter metadata lookup)
@@ -994,21 +1050,23 @@ def get_video_duration_seconds(video_path):
 
 
 def post_process_chapter(merge_code, output_path, slides_dir, total_slides):
-    """Upload to S3, save to MongoDB, delete local files."""
+    """Upload to S3 (3 retries), save to MongoDB (3 retries), then delete local.
+    Returns True only if ALL steps succeed. Does NOT delete if upload/save fails."""
+
     file_size_mb = output_path.stat().st_size / 1_000_000
     duration_sec = get_video_duration_seconds(output_path)
-
-    # S3 upload
     s3_key = f"videos/{merge_code}.mp4"
-    print(f"  Uploading to S3: {s3_key} ({file_size_mb:.1f} MB)...")
+
+    # ── STEP 1: S3 Upload (retry 3x) ──
+    log_progress(f"  {merge_code}: Uploading to S3 ({file_size_mb:.1f} MB)...")
     try:
-        s3_url = upload_to_s3(output_path, s3_key)
-        print(f"  S3 OK: {s3_url}")
-    except Exception as e:
-        print(f"  S3 FAILED: {e}")
+        s3_url = retry_operation(upload_to_s3, merge_code, "S3_UPLOAD", output_path, s3_key)
+        log_progress(f"  {merge_code}: S3 OK → {s3_url}")
+    except Exception:
+        log_error(merge_code, "S3_UPLOAD_FINAL", f"Failed after {MAX_RETRIES} attempts. Local file kept: {output_path}")
         return False
 
-    # Build MongoDB document
+    # ── STEP 2: MongoDB Save (retry 3x) ──
     ch_meta = CHAPTER_META.get(merge_code, {})
     modules = collect_module_info(merge_code)
 
@@ -1030,22 +1088,23 @@ def post_process_chapter(merge_code, output_path, slides_dir, total_slides):
         "generated_at": datetime.now(timezone.utc).isoformat(),
     }
 
-    # MongoDB save
+    log_progress(f"  {merge_code}: Saving to MongoDB...")
     try:
-        save_to_mongodb(doc)
-    except Exception as e:
-        print(f"  MongoDB FAILED: {e}")
+        retry_operation(save_to_mongodb, merge_code, "MONGODB_SAVE", doc)
+        log_progress(f"  {merge_code}: MongoDB OK")
+    except Exception:
+        log_error(merge_code, "MONGODB_SAVE_FINAL", f"Failed after {MAX_RETRIES} attempts. S3 uploaded but MongoDB failed. Local file kept.")
         return False
 
-    # Cleanup local files
-    print(f"  Cleaning up local files...")
+    # ── STEP 3: Delete local files (only after S3 + MongoDB succeed) ──
+    log_progress(f"  {merge_code}: Cleaning up local files...")
     try:
         output_path.unlink(missing_ok=True)
         if slides_dir.exists():
             shutil.rmtree(slides_dir)
-        print(f"  Cleanup OK: deleted {output_path.name} + {slides_dir.name}/")
+        log_progress(f"  {merge_code}: Cleanup OK — deleted {output_path.name} + {slides_dir.name}/")
     except Exception as e:
-        print(f"  Cleanup warning: {e}")
+        log_progress(f"  {merge_code}: Cleanup warning (non-fatal): {e}")
 
     return True
 
@@ -1068,65 +1127,76 @@ def collect_jobs():
 # ==============================
 
 async def main():
-    print("\nVideo Pipeline v3 -- Render + S3 + MongoDB\n")
+    log_progress("\n========================================")
+    log_progress("Video Pipeline v3 -- Render + S3 + MongoDB")
+    log_progress("========================================\n")
 
     # Validate config
     if not AWS_ACCESS_KEY or not AWS_SECRET_KEY:
-        print("WARNING: AWS credentials not set. Videos will render but NOT upload.")
-        print("  Set AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY in .env\n")
+        log_progress("FATAL: AWS credentials not set. Set AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY in .env")
+        sys.exit(1)
 
     merge_codes = collect_jobs()
     if not merge_codes:
-        print("No chapters found in", CHUNKS_DIR)
+        log_progress(f"No chapters found in {CHUNKS_DIR}")
         return
 
     if DEBUG:
         merge_codes = merge_codes[:1]
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    print(f"{len(merge_codes)} chapters to process\n")
+    log_progress(f"Total chapters found: {len(merge_codes)}")
 
-    # Track which are already in MongoDB (skip completed)
+    # Check MongoDB for already-published chapters (skip on rerun)
     completed_codes = set()
-    if AWS_ACCESS_KEY and AWS_SECRET_KEY:
-        try:
-            col = get_mongo_collection()
-            completed_codes = set(
-                doc["merge_code"] for doc in col.find({"status": "published"}, {"merge_code": 1})
-            )
-            if completed_codes:
-                print(f"  {len(completed_codes)} already published in MongoDB, will skip\n")
-        except Exception as e:
-            print(f"  Could not check MongoDB: {e}\n")
+    try:
+        col = get_mongo_collection()
+        completed_codes = set(
+            doc["merge_code"] for doc in col.find({"status": "published"}, {"merge_code": 1})
+        )
+        if completed_codes:
+            log_progress(f"Already published in MongoDB: {len(completed_codes)} — will skip")
+    except Exception as e:
+        log_progress(f"WARNING: Could not check MongoDB: {e}")
+        log_progress("Continuing — will attempt all chapters")
+
+    remaining = [mc for mc in merge_codes if mc not in completed_codes]
+    log_progress(f"Chapters to process: {len(remaining)}\n")
+
+    if not remaining:
+        log_progress("All chapters already published. Nothing to do.")
+        return
+
+    succeeded = 0
+    failed = 0
+    pipeline_start = time.time()
 
     async with async_playwright() as pw:
         browser = await pw.chromium.launch()
         page    = await browser.new_page(viewport={"width": WIDTH, "height": HEIGHT})
 
-        for idx, merge_code in enumerate(merge_codes, 1):
-            # Skip if already published
-            if merge_code in completed_codes:
-                print(f"SKIP [{idx}/{len(merge_codes)}]: {merge_code} (already published)")
-                continue
-
+        for idx, merge_code in enumerate(remaining, 1):
+            chapter_start = time.time()
             output_path = OUTPUT_DIR / f"{merge_code}.mp4"
+            slides_dir  = OUTPUT_DIR / f"slides_{merge_code}"
 
-            print(f"\n[{idx}/{len(merge_codes)}] Chapter: {merge_code}")
+            log_progress(f"\n[{idx}/{len(remaining)}] ── {merge_code} ──")
 
             try:
+                # ── STEP 1: Collect chunks ──
                 entries = collect_chapter_chunks(merge_code)
                 if not entries:
-                    print(f"  No chunks found for {merge_code}")
+                    log_error(merge_code, "COLLECT", "No chunks/audio found")
+                    log_progress(f"  {merge_code}: SKIPPED (no data)")
                     continue
 
                 total_slides = len(entries)
-                print(f"  {total_slides} slides")
+                log_progress(f"  {merge_code}: {total_slides} slides to render")
 
-                slides_dir = OUTPUT_DIR / f"slides_{merge_code}"
                 slides_dir.mkdir(parents=True, exist_ok=True)
 
-                # Render all slides to PNG
-                for entry in entries:
+                # ── STEP 2: Render slides to PNG ──
+                for si, entry in enumerate(entries, 1):
                     safe_name = entry["chunk_file"].replace(".json", "")
                     slide_name = f"{entry['module_id']}_{safe_name}.png"
                     slide_path = slides_dir / slide_name
@@ -1136,24 +1206,58 @@ async def main():
                         continue
 
                     html = render_chunk_html(entry["chunk_data"], entry["meta"])
-                    print(f"  Slide: {slide_name}")
+                    if si % 20 == 1 or si == total_slides:
+                        log_progress(f"  {merge_code}: Rendering slide {si}/{total_slides}")
                     await render_slide(page, html, slide_path)
 
-                # Assemble video
+                # ── STEP 3: Assemble video ──
+                log_progress(f"  {merge_code}: Assembling video...")
                 ok = assemble_chapter_video(entries, slides_dir, output_path)
 
-                if ok and output_path.exists() and AWS_ACCESS_KEY and AWS_SECRET_KEY:
-                    post_process_chapter(merge_code, output_path, slides_dir, total_slides)
+                if not ok or not output_path.exists():
+                    log_error(merge_code, "ASSEMBLE", "Video assembly failed")
+                    log_progress(f"  {merge_code}: FAILED at assembly. STOPPING PIPELINE.")
+                    failed += 1
+                    break
+
+                # ── STEP 4: Upload to S3 + Save to MongoDB + Delete local ──
+                log_progress(f"  {merge_code}: Post-processing (S3 → MongoDB → Cleanup)...")
+                ok = post_process_chapter(merge_code, output_path, slides_dir, total_slides)
+
+                if not ok:
+                    log_progress(f"  {merge_code}: FAILED at post-processing. STOPPING PIPELINE.")
+                    log_progress(f"  Local file preserved at: {output_path}")
+                    failed += 1
+                    break
+
+                # ── SUCCESS ──
+                elapsed = time.time() - chapter_start
+                succeeded += 1
+                log_progress(f"  {merge_code}: COMPLETE in {int(elapsed)}s ({succeeded}/{len(remaining)} done)")
 
             except Exception as e:
-                print(f"  ERROR on {merge_code}: {e}")
-                import traceback
+                log_error(merge_code, "UNEXPECTED", f"{type(e).__name__}: {e}")
+                log_progress(f"  {merge_code}: UNEXPECTED ERROR. STOPPING PIPELINE.")
                 traceback.print_exc()
-                continue
+                failed += 1
+                break
 
         await browser.close()
 
-    print("\nAll chapter videos completed")
+    # ── SUMMARY ──
+    total_time = time.time() - pipeline_start
+    hours = int(total_time // 3600)
+    mins  = int((total_time % 3600) // 60)
+
+    log_progress(f"\n========================================")
+    log_progress(f"PIPELINE COMPLETE")
+    log_progress(f"  Succeeded: {succeeded}")
+    log_progress(f"  Failed:    {failed}")
+    log_progress(f"  Skipped:   {len(completed_codes)}")
+    log_progress(f"  Total time: {hours}h {mins}m")
+    log_progress(f"  Error log:  {ERROR_LOG}")
+    log_progress(f"  Progress:   {PROGRESS_LOG}")
+    log_progress(f"========================================")
 
 
 if __name__ == "__main__":
