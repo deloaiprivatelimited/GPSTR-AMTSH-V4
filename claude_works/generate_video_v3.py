@@ -371,21 +371,24 @@ GLOBAL_STYLES = f"""
     border-collapse: collapse; width: 100%;
     font-size: 26px;
     table-layout: fixed;
+    border: 1px solid rgba(0,198,255,0.2);
+    border-radius: 8px;
   }}
   th {{
     background: rgba(0,198,255,0.15);
-    color: {BRAND}; padding: 12px 18px;
+    color: {BRAND}; padding: 14px 18px;
     text-align: left; font-weight: 600;
-    border-bottom: 1px solid rgba(0,198,255,0.3);
+    border: 1px solid rgba(0,198,255,0.2);
     word-wrap: break-word; overflow-wrap: break-word;
   }}
   td {{
-    padding: 10px 18px; color: {SUBTEXT};
-    border-bottom: 1px solid rgba(255,255,255,0.05);
+    padding: 12px 18px; color: {SUBTEXT};
+    border: 1px solid rgba(255,255,255,0.08);
     word-wrap: break-word; overflow-wrap: break-word;
-    vertical-align: top;
+    vertical-align: top; line-height: 1.5;
   }}
-  tr:nth-child(even) td {{ background: rgba(255,255,255,0.02); }}
+  tr:nth-child(even) td {{ background: rgba(255,255,255,0.03); }}
+  tr:nth-child(odd) td {{ background: rgba(0,0,0,0.15); }}
 
   /* -- EXAM TIP -- */
   .exam-tip {{
