@@ -991,11 +991,11 @@ def ffmpeg_with_intro_end(content_video, out):
 
 
 # ==============================
-# ASSEMBLE CHAPTER VIDEO
+# ENCODE ALL SEGMENTS (parallel)
 # ==============================
 
-def assemble_chapter_video(entries, slides_dir, output_path):
-    # Build list of segments to encode
+def encode_all_segments(entries, slides_dir):
+    """Encode all slide+audio pairs into MP4 segments. Returns ordered list of segment paths."""
     jobs = []
     segment_order = []
     for entry in entries:
@@ -1010,7 +1010,7 @@ def assemble_chapter_video(entries, slides_dir, output_path):
             continue
         safe_name = entry["chunk_file"].replace(".json", "").replace(" ", "_")
         seg_out = slides_dir / f"seg_{entry['module_id']}_{safe_name}.mp4"
-        segment_order.append(seg_out)
+        segment_order.append((seg_out, entry["module_id"]))
         if not seg_out.exists():
             jobs.append((str(slide_path), str(audio_path), str(seg_out), duration))
 
@@ -1018,7 +1018,6 @@ def assemble_chapter_video(entries, slides_dir, output_path):
     if cached:
         log_progress(f"  {cached} segments cached, {len(jobs)} to encode")
 
-    # Parallel FFmpeg encoding
     if jobs:
         log_progress(f"  Encoding {len(jobs)} segments ({FFMPEG_WORKERS} workers)...")
         failed = 0
@@ -1034,28 +1033,93 @@ def assemble_chapter_video(entries, slides_dir, output_path):
         if failed:
             log_progress(f"  WARNING: {failed} segments failed encoding")
 
-    segments = [s for s in segment_order if s.exists()]
-    log_progress(f"  {len(segments)}/{len(entries)} segments ready")
-    if not segments:
+    return [(p, mid) for p, mid in segment_order if p.exists()]
+
+
+# ==============================
+# ASSEMBLE CONCEPT + CHAPTER VIDEOS
+# ==============================
+
+def assemble_concept_videos(segments_with_module, slides_dir, merge_code):
+    """Assemble per-concept videos with intro+end. Returns list of concept video info dicts."""
+    # Group segments by module_id
+    from collections import OrderedDict
+    module_segments = OrderedDict()
+    for seg_path, module_id in segments_with_module:
+        if module_id not in module_segments:
+            module_segments[module_id] = []
+        module_segments[module_id].append(seg_path)
+
+    concept_videos = []
+    for module_id, segs in module_segments.items():
+        if not segs:
+            continue
+
+        concept_content = slides_dir / f"concept_content_{module_id}.mp4"
+        concept_final   = slides_dir / f"{module_id}.mp4"
+
+        # Concat segments for this concept
+        ok = ffmpeg_concat(segs, concept_content)
+        if not ok or not concept_content.exists():
+            log_progress(f"  WARNING: concat failed for {module_id}")
+            continue
+
+        # Add intro + end
+        ffmpeg_with_intro_end(concept_content, concept_final)
+        concept_content.unlink(missing_ok=True)  # cleanup intermediate
+
+        if concept_final.exists():
+            concept_videos.append({
+                "module_id": module_id,
+                "path": concept_final,
+                "segment_count": len(segs),
+            })
+
+    return concept_videos
+
+
+def assemble_full_chapter_video(concept_videos, slides_dir, output_path):
+    """Concat all concept videos into one full chapter video with intro+end."""
+    if not concept_videos:
+        return False
+
+    # Concat all concept content (without their individual intro/end, use segments directly)
+    # Actually, for full chapter we want: intro + all segments + end (not nested intros)
+    # So we need the raw segments. But we already have concept videos with intro/end.
+    # Better approach: concat all concept videos as-is (each already has intro/end per concept)
+    # OR: build full chapter from raw segments with single intro/end
+    # User wants both to have intro+end, so full chapter = intro + all_raw_segments + end
+
+    return True  # handled in main flow
+
+
+# ==============================
+# ASSEMBLE CHAPTER VIDEO (from raw segments)
+# ==============================
+
+def assemble_chapter_from_segments(segments_with_module, slides_dir, output_path):
+    """Build full chapter video: intro + all segments concatenated + end."""
+    all_segs = [p for p, _ in segments_with_module]
+    if not all_segs:
         log_progress("  Zero segments -- nothing to assemble.")
         return False
 
     content_video = slides_dir / "chapter_content.mp4"
-    log_progress(f"  Concatenating {len(segments)} segments...")
-    ok = ffmpeg_concat(segments, content_video)
+    log_progress(f"  Concatenating {len(all_segs)} segments for full chapter...")
+    ok = ffmpeg_concat(all_segs, content_video)
     if not ok or not content_video.exists():
         log_progress("  Concat failed")
         return False
 
-    log_progress(f"  Adding intro/end...")
+    log_progress(f"  Adding intro/end to full chapter...")
     ffmpeg_with_intro_end(content_video, output_path)
+    content_video.unlink(missing_ok=True)
+
     if output_path.exists():
         size_mb = output_path.stat().st_size // 1_000_000
-        log_progress(f"  DONE: {output_path}  ({size_mb} MB)")
+        log_progress(f"  Full chapter: {output_path.name}  ({size_mb} MB)")
         return True
-    else:
-        log_progress(f"  Final MP4 not created: {output_path}")
-        return False
+    return False
 
 
 # ==============================
@@ -1075,43 +1139,79 @@ def get_video_duration_seconds(video_path):
         return 0.0
 
 
-def post_process_chapter(merge_code, output_path, slides_dir, total_slides):
-    """Upload to S3 (3 retries), save to MongoDB (3 retries), then delete local.
-    Returns True only if ALL steps succeed. Does NOT delete if upload/save fails."""
+def post_process_chapter(merge_code, full_video_path, concept_videos, slides_dir, total_slides):
+    """Upload concept videos + full chapter to S3, save to MongoDB, delete local.
+    Returns True only if ALL steps succeed."""
 
-    file_size_mb = output_path.stat().st_size / 1_000_000
-    duration_sec = get_video_duration_seconds(output_path)
-    s3_key = f"videos/{merge_code}.mp4"
+    ch_meta = CHAPTER_META.get(merge_code, {})
+    modules_info = collect_module_info(merge_code)
+    now = datetime.now(timezone.utc).isoformat()
 
-    # ── STEP 1: S3 Upload (retry 3x) ──
-    log_progress(f"  {merge_code}: Uploading to S3 ({file_size_mb:.1f} MB)...")
+    # ── STEP 1: Upload concept videos to S3 ──
+    module_docs = []
+    for cv in concept_videos:
+        module_id = cv["module_id"]
+        cv_path   = cv["path"]
+        cv_size   = cv_path.stat().st_size / 1_000_000
+        cv_dur    = get_video_duration_seconds(cv_path)
+        s3_key    = f"videos/{merge_code}/{module_id}.mp4"
+
+        log_progress(f"  {merge_code}: Uploading {module_id} ({cv_size:.1f} MB)...")
+        try:
+            s3_url = retry_operation(upload_to_s3, merge_code, f"S3_CONCEPT_{module_id}", cv_path, s3_key)
+        except Exception:
+            log_error(merge_code, f"S3_CONCEPT_{module_id}_FINAL", f"Failed after {MAX_RETRIES} attempts")
+            return False
+
+        # Find module title from modules_info
+        mod_info = next((m for m in modules_info if m["module_id"] == module_id), {})
+
+        module_docs.append({
+            "module_id": module_id,
+            "module_title": mod_info.get("module_title", ""),
+            "total_slides": mod_info.get("total_slides", cv["segment_count"]),
+            "duration_seconds": round(cv_dur, 2),
+            "duration_display": f"{int(cv_dur // 60)}m {int(cv_dur % 60)}s",
+            "file_size_mb": round(cv_size, 2),
+            "s3_url": s3_url,
+            "s3_key": s3_key,
+        })
+
+    log_progress(f"  {merge_code}: All {len(concept_videos)} concept videos uploaded")
+
+    # ── STEP 2: Upload full chapter video to S3 ──
+    full_size = full_video_path.stat().st_size / 1_000_000
+    full_dur  = get_video_duration_seconds(full_video_path)
+    full_s3_key = f"videos/{merge_code}/{merge_code}_full.mp4"
+
+    log_progress(f"  {merge_code}: Uploading full chapter ({full_size:.1f} MB)...")
     try:
-        s3_url = retry_operation(upload_to_s3, merge_code, "S3_UPLOAD", output_path, s3_key)
-        log_progress(f"  {merge_code}: S3 OK → {s3_url}")
+        full_s3_url = retry_operation(upload_to_s3, merge_code, "S3_FULL", full_video_path, full_s3_key)
+        log_progress(f"  {merge_code}: Full chapter S3 OK")
     except Exception:
-        log_error(merge_code, "S3_UPLOAD_FINAL", f"Failed after {MAX_RETRIES} attempts. Local file kept: {output_path}")
+        log_error(merge_code, "S3_FULL_FINAL", f"Failed after {MAX_RETRIES} attempts")
         return False
 
-    # ── STEP 2: MongoDB Save (retry 3x) ──
-    ch_meta = CHAPTER_META.get(merge_code, {})
-    modules = collect_module_info(merge_code)
-
+    # ── STEP 3: Save to MongoDB ──
     doc = {
         "merge_code": merge_code,
         "chapter_name": ch_meta.get("chapter_name", ""),
         "domain": ch_meta.get("domain", ""),
         "classes": ch_meta.get("classes", []),
         "chapter_numbers": ch_meta.get("chapters", []),
-        "modules": modules,
+        "modules": module_docs,
         "total_slides": total_slides,
-        "duration_seconds": round(duration_sec, 2),
-        "duration_display": f"{int(duration_sec // 60)}m {int(duration_sec % 60)}s",
-        "file_size_mb": round(file_size_mb, 2),
-        "s3_url": s3_url,
-        "s3_key": s3_key,
+        "total_concepts": len(module_docs),
+        "full_video": {
+            "duration_seconds": round(full_dur, 2),
+            "duration_display": f"{int(full_dur // 60)}m {int(full_dur % 60)}s",
+            "file_size_mb": round(full_size, 2),
+            "s3_url": full_s3_url,
+            "s3_key": full_s3_key,
+        },
         "s3_bucket": S3_BUCKET,
         "status": "published",
-        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "generated_at": now,
     }
 
     log_progress(f"  {merge_code}: Saving to MongoDB...")
@@ -1119,16 +1219,18 @@ def post_process_chapter(merge_code, output_path, slides_dir, total_slides):
         retry_operation(save_to_mongodb, merge_code, "MONGODB_SAVE", doc)
         log_progress(f"  {merge_code}: MongoDB OK")
     except Exception:
-        log_error(merge_code, "MONGODB_SAVE_FINAL", f"Failed after {MAX_RETRIES} attempts. S3 uploaded but MongoDB failed. Local file kept.")
+        log_error(merge_code, "MONGODB_SAVE_FINAL", f"Failed after {MAX_RETRIES} attempts")
         return False
 
-    # ── STEP 3: Delete local files (only after S3 + MongoDB succeed) ──
+    # ── STEP 4: Delete local files ──
     log_progress(f"  {merge_code}: Cleaning up local files...")
     try:
-        output_path.unlink(missing_ok=True)
+        full_video_path.unlink(missing_ok=True)
+        for cv in concept_videos:
+            cv["path"].unlink(missing_ok=True)
         if slides_dir.exists():
             shutil.rmtree(slides_dir)
-        log_progress(f"  {merge_code}: Cleanup OK — deleted {output_path.name} + {slides_dir.name}/")
+        log_progress(f"  {merge_code}: Cleanup OK")
     except Exception as e:
         log_progress(f"  {merge_code}: Cleanup warning (non-fatal): {e}")
 
@@ -1203,8 +1305,8 @@ async def main():
 
         for idx, merge_code in enumerate(remaining, 1):
             chapter_start = time.time()
-            output_path = OUTPUT_DIR / f"{merge_code}.mp4"
-            slides_dir  = OUTPUT_DIR / f"slides_{merge_code}"
+            full_video_path = OUTPUT_DIR / f"{merge_code}_full.mp4"
+            slides_dir      = OUTPUT_DIR / f"slides_{merge_code}"
 
             log_progress(f"\n[{idx}/{len(remaining)}] ── {merge_code} ──")
 
@@ -1217,7 +1319,8 @@ async def main():
                     continue
 
                 total_slides = len(entries)
-                log_progress(f"  {merge_code}: {total_slides} slides to render")
+                modules_in_chapter = list(dict.fromkeys(e["module_id"] for e in entries))
+                log_progress(f"  {merge_code}: {total_slides} slides, {len(modules_in_chapter)} concepts")
 
                 slides_dir.mkdir(parents=True, exist_ok=True)
 
@@ -1236,23 +1339,44 @@ async def main():
                         log_progress(f"  {merge_code}: Rendering slide {si}/{total_slides}")
                     await render_slide(page, html, slide_path)
 
-                # ── STEP 3: Assemble video ──
-                log_progress(f"  {merge_code}: Assembling video...")
-                ok = assemble_chapter_video(entries, slides_dir, output_path)
+                # ── STEP 3: Encode segments (parallel) ──
+                log_progress(f"  {merge_code}: Encoding segments...")
+                segments_with_module = encode_all_segments(entries, slides_dir)
 
-                if not ok or not output_path.exists():
-                    log_error(merge_code, "ASSEMBLE", "Video assembly failed")
-                    log_progress(f"  {merge_code}: FAILED at assembly. STOPPING PIPELINE.")
+                if not segments_with_module:
+                    log_error(merge_code, "ENCODE", "Zero segments encoded")
+                    log_progress(f"  {merge_code}: FAILED at encoding. STOPPING PIPELINE.")
                     failed += 1
                     break
 
-                # ── STEP 4: Upload to S3 + Save to MongoDB + Delete local ──
-                log_progress(f"  {merge_code}: Post-processing (S3 → MongoDB → Cleanup)...")
-                ok = post_process_chapter(merge_code, output_path, slides_dir, total_slides)
+                log_progress(f"  {merge_code}: {len(segments_with_module)} segments ready")
+
+                # ── STEP 4: Assemble concept videos (per module, each with intro+end) ──
+                log_progress(f"  {merge_code}: Building {len(modules_in_chapter)} concept videos...")
+                concept_videos = assemble_concept_videos(segments_with_module, slides_dir, merge_code)
+
+                if not concept_videos:
+                    log_error(merge_code, "CONCEPTS", "No concept videos assembled")
+                    failed += 1
+                    break
+
+                log_progress(f"  {merge_code}: {len(concept_videos)} concept videos built")
+
+                # ── STEP 5: Assemble full chapter video (intro + all segments + end) ──
+                log_progress(f"  {merge_code}: Building full chapter video...")
+                ok = assemble_chapter_from_segments(segments_with_module, slides_dir, full_video_path)
+
+                if not ok or not full_video_path.exists():
+                    log_error(merge_code, "FULL_CHAPTER", "Full chapter assembly failed")
+                    failed += 1
+                    break
+
+                # ── STEP 6: Upload all to S3 + Save to MongoDB + Delete local ──
+                log_progress(f"  {merge_code}: Uploading {len(concept_videos)} concepts + 1 full chapter...")
+                ok = post_process_chapter(merge_code, full_video_path, concept_videos, slides_dir, total_slides)
 
                 if not ok:
                     log_progress(f"  {merge_code}: FAILED at post-processing. STOPPING PIPELINE.")
-                    log_progress(f"  Local file preserved at: {output_path}")
                     failed += 1
                     break
 
